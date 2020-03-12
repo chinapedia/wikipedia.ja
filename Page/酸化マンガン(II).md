@@ -1,7 +1,7 @@
 > この記事は[\(II\)](https://ja.wikipedia.org/wiki/\(II\))から翻訳されています。
 
 
-**酸化マンガン(II)**（さんかマンガン(II)、Manganese(II) oxide）は、[化学式](https://ja.wikipedia.org/wiki/化学式 "wikilink") MnO で表される[マンガン](https://ja.wikipedia.org/wiki/マンガン "wikilink")と[酸素](../Page/酸素.md "wikilink")の[化合物](../Page/化合物.md "wikilink")である。[緑マンガン鉱](../Page/緑マンガン鉱.md "wikilink")として天然に産出される。
+**酸化マンガン(II)**（さんかマンガン(II)、Manganese(II) oxide）は、[化学式](../Page/化学式.md "wikilink") MnO で表される[マンガン](https://ja.wikipedia.org/wiki/マンガン "wikilink")と[酸素](../Page/酸素.md "wikilink")の[化合物](../Page/化合物.md "wikilink")である。[緑マンガン鉱](../Page/緑マンガン鉱.md "wikilink")として天然に産出される。
 
 ## 合成方法
 
@@ -18,7 +18,7 @@
 
 ## 性質
 
-水には溶けないが、[塩化アンモニウム](../Page/塩化アンモニウム.md "wikilink")[水溶液](../Page/水溶液.md "wikilink")には可溶。[単位格子](https://ja.wikipedia.org/wiki/単位格子 "wikilink")は[立方晶](https://ja.wikipedia.org/wiki/立方晶 "wikilink")で[格子定数](https://ja.wikipedia.org/wiki/格子定数 "wikilink")は4.436 [Å](../Page/オングストローム.md "wikilink")。空気中でも安定だが、長期間放置すると褐色の[二酸化マンガン](https://ja.wikipedia.org/wiki/二酸化マンガン "wikilink")になる。
+水には溶けないが、[塩化アンモニウム](../Page/塩化アンモニウム.md "wikilink")[水溶液](../Page/水溶液.md "wikilink")には可溶。[単位格子](https://ja.wikipedia.org/wiki/単位格子 "wikilink")は[立方晶](https://ja.wikipedia.org/wiki/立方晶 "wikilink")で[格子定数](https://ja.wikipedia.org/wiki/格子定数 "wikilink")は4.436 [Å](../Page/オングストローム.md "wikilink")。空気中でも安定だが、長期間放置すると褐色の[二酸化マンガン](../Page/二酸化マンガン.md "wikilink")になる。
 
 ## 参考文献
 

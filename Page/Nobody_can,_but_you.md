@@ -5,7 +5,7 @@
 
 ## 解説
 
-同時リリースとなったアルバム『[KYO→](https://ja.wikipedia.org/wiki/KYO→ "wikilink")』から12cmCDシングルとして[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")された。「Nobody can, but you」は[キリンビバレッジ](../Page/キリンビバレッジ.md "wikilink")「[午後の紅茶](https://ja.wikipedia.org/wiki/午後の紅茶 "wikilink")」の[CMソングであった](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。カップリングの「A beginning day」も[DDI](../Page/KDDI.md "wikilink")「[DION](https://ja.wikipedia.org/wiki/au_one_net "wikilink")」のCMソングとなっていた。本シングルでは「Nobody can, but you」がCFヴァージョン、「A beginning day」がオリジナル・ヴァージョンで収録されているが、アルバムでは逆に、前者はオリジナル・ヴァージョン、後者はCFヴァージョンが収録された。
+同時リリースとなったアルバム『[KYO→](https://ja.wikipedia.org/wiki/KYO→ "wikilink")』から12cmCDシングルとして[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")された。「Nobody can, but you」は[キリンビバレッジ](../Page/キリンビバレッジ.md "wikilink")「[午後の紅茶](../Page/午後の紅茶.md "wikilink")」の[CMソングであった](../Page/コマーシャルソング.md "wikilink")。カップリングの「A beginning day」も[DDI](../Page/KDDI.md "wikilink")「[DION](https://ja.wikipedia.org/wiki/au_one_net "wikilink")」のCMソングとなっていた。本シングルでは「Nobody can, but you」がCFヴァージョン、「A beginning day」がオリジナル・ヴァージョンで収録されているが、アルバムでは逆に、前者はオリジナル・ヴァージョン、後者はCFヴァージョンが収録された。
 
 ## 収録曲
 
@@ -18,7 +18,7 @@
 
 ## 関連項目
 
-  - [1998年の音楽](https://ja.wikipedia.org/wiki/1998年の音楽 "wikilink")
+  - [1998年の音楽](../Page/1998年の音楽.md "wikilink")
 
 ## 脚注
 

@@ -1,7 +1,7 @@
 > この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
 
 
-**ブリストル・ローヴァーズ・フットボール・クラブ**（**Bristol Rovers Football Club**）は[イングランド](../Page/イングランド.md "wikilink")･[ブリストル](https://ja.wikipedia.org/wiki/ブリストル "wikilink")を本拠地とするサッカークラブチームである。2019-20シーズンは[フットボールリーグ1](https://ja.wikipedia.org/wiki/フットボールリーグ1 "wikilink")（3部相当）に所属。
+**ブリストル・ローヴァーズ・フットボール・クラブ**（**Bristol Rovers Football Club**）は[イングランド](../Page/イングランド.md "wikilink")･[ブリストル](../Page/ブリストル.md "wikilink")を本拠地とするサッカークラブチームである。2019-20シーズンは[フットボールリーグ1](https://ja.wikipedia.org/wiki/フットボールリーグ1 "wikilink")（3部相当）に所属。
 
 ## 名称変更
 
@@ -20,7 +20,7 @@
 
 ### リーグ最多失点敗戦試合
 
-  - 0-12 vs [ルートン・タウン](https://ja.wikipedia.org/wiki/ルートン・タウンFC "wikilink") ディヴィジョン3サウス 1936.4.16
+  - 0-12 vs [ルートン・タウン](../Page/ルートン・タウンFC.md "wikilink") ディヴィジョン3サウス 1936.4.16
 
 ## タイトル
 
@@ -228,7 +228,7 @@
 
   - [ナイジェル・マーティン](https://ja.wikipedia.org/wiki/ナイジェル・マーティン "wikilink") 1987-1989
 
-  - [ネイサン・エリントン](https://ja.wikipedia.org/wiki/ネイサン・エリントン "wikilink") 1999-2002
+  - [ネイサン・エリントン](../Page/ネイサン・エリントン.md "wikilink") 1999-2002
 
   - [ヴィタリス・アスタフィエフス](https://ja.wikipedia.org/wiki/ヴィタリス・アスタフィエフス "wikilink") 2000-2003
 

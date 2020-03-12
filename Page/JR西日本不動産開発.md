@@ -1,18 +1,18 @@
 > この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
 
 
-**JR西日本不動産開発株式会社**（ジェイアールにしにほんふどうさんかいはつ、）は、[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](https://ja.wikipedia.org/wiki/大阪市 "wikilink")に本社を置く日本の総合[不動産会社](../Page/不動産会社.md "wikilink")。[西日本旅客鉄道](https://ja.wikipedia.org/wiki/西日本旅客鉄道 "wikilink")（JR西日本）の[完全子会社](https://ja.wikipedia.org/wiki/子会社 "wikilink")\[1\]。
+**JR西日本不動産開発株式会社**（ジェイアールにしにほんふどうさんかいはつ、）は、[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")に本社を置く日本の総合[不動産会社](../Page/不動産会社.md "wikilink")。[西日本旅客鉄道](../Page/西日本旅客鉄道.md "wikilink")（JR西日本）の[完全子会社](../Page/子会社.md "wikilink")\[1\]。
 
 ## 沿革
 
   - [1965年](../Page/1965年.md "wikilink") - **関西高架株式会社**として会社設立。
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink") - **ジェイアール西日本開発株式会社**に商号変更。
-  - [1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink") - [大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](https://ja.wikipedia.org/wiki/大阪市 "wikilink")[淀川区](../Page/淀川区.md "wikilink")[西中島に本社移転](https://ja.wikipedia.org/wiki/西中島_\(大阪市\) "wikilink")。
-  - [1993年](../Page/1993年.md "wikilink") - [西日本旅客鉄道](https://ja.wikipedia.org/wiki/西日本旅客鉄道 "wikilink")の[完全子会社になる](https://ja.wikipedia.org/wiki/子会社 "wikilink")。
+  - [1991年](../Page/1991年.md "wikilink") - [大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[淀川区](../Page/淀川区.md "wikilink")[西中島に本社移転](https://ja.wikipedia.org/wiki/西中島_\(大阪市\) "wikilink")。
+  - [1993年](../Page/1993年.md "wikilink") - [西日本旅客鉄道](../Page/西日本旅客鉄道.md "wikilink")の[完全子会社になる](../Page/子会社.md "wikilink")。
   - [2001年](../Page/2001年.md "wikilink") - ジェイアール西日本不動産と合併。**ジェイアール西日本不動産開発株式会社**と商号変更。
   - [2002年](../Page/2002年.md "wikilink") - 本社を[兵庫県](../Page/兵庫県.md "wikilink")[尼崎市](../Page/尼崎市.md "wikilink")に移転。
   - [2015年](../Page/2015年.md "wikilink") - **JR西日本不動産開発株式会社**と商号変更。
-  - [2018年](../Page/2018年.md "wikilink") - 本社を大阪市北区中之島2丁目2番7号 [中之島セントラルタワー](https://ja.wikipedia.org/wiki/中之島セントラルタワー "wikilink")に移転。
+  - [2018年](../Page/2018年.md "wikilink") - 本社を大阪市北区中之島2丁目2番7号 [中之島セントラルタワー](../Page/中之島セントラルタワー.md "wikilink")に移転。
 
 ## 主な開発物件
 

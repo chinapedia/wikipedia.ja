@@ -1,7 +1,7 @@
 > この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
 
 
-**釜石テレビ・FM中継局**（かまいしテレビ・エフエムちゅうけいきょく）は、[岩手県](../Page/岩手県.md "wikilink")[釜石市](../Page/釜石市.md "wikilink")及び[気仙郡](../Page/気仙郡.md "wikilink")[住田町](https://ja.wikipedia.org/wiki/住田町 "wikilink")に置かれているテレビ放送とFMラジオ放送の中継局。ここでは、釜石デジタルテレビ中継局と同所に置かれている**釜石鈴子テレビ・FM中継局**、臨時災害放送局の**釜石災害FM**についても記載する。
+**釜石テレビ・FM中継局**（かまいしテレビ・エフエムちゅうけいきょく）は、[岩手県](../Page/岩手県.md "wikilink")[釜石市](../Page/釜石市.md "wikilink")及び[気仙郡](../Page/気仙郡.md "wikilink")[住田町](../Page/住田町.md "wikilink")に置かれているテレビ放送とFMラジオ放送の中継局。ここでは、釜石デジタルテレビ中継局と同所に置かれている**釜石鈴子テレビ・FM中継局**、臨時災害放送局の**釜石災害FM**についても記載する。
 
 ## 釜石テレビ・FM中継局
 
@@ -13,9 +13,9 @@
 <th><p><a href="../Page/リモコンキーID.md" title="wikilink">リモコン<br />
 番号</a></p></th>
 <th><p>放送局名</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/チャンネル_(テレビ放送)" title="wikilink">チャンネル<br />
+<th><p><a href="../Page/チャンネル_(テレビ放送).md" title="wikilink">チャンネル<br />
 番号</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/空中線電力" title="wikilink">空中線<br />
+<th><p><a href="../Page/空中線電力.md" title="wikilink">空中線<br />
 電力</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/実効放射電力" title="wikilink">ERP</a></p></th>
 <th><p><a href="../Page/偏光.md" title="wikilink">偏波面</a></p></th>
@@ -29,7 +29,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHK</a><br />
-<a href="https://ja.wikipedia.org/wiki/NHK盛岡放送局" title="wikilink">盛岡</a><a href="https://ja.wikipedia.org/wiki/NHK総合テレビジョン" title="wikilink">総合</a></p></td>
+<a href="../Page/NHK盛岡放送局.md" title="wikilink">盛岡</a><a href="../Page/NHK総合テレビジョン.md" title="wikilink">総合</a></p></td>
 <td><p>14</p></td>
 <td><p>30W</p></td>
 <td><p>95W</p></td>
@@ -42,7 +42,7 @@
 <tr class="even">
 <td><p>2</p></td>
 <td><p>NHK<br />
-盛岡<a href="https://ja.wikipedia.org/wiki/NHK教育テレビジョン" title="wikilink">教育</a></p></td>
+盛岡<a href="../Page/NHK教育テレビジョン.md" title="wikilink">教育</a></p></td>
 <td><p>13</p></td>
 <td><p>97W</p></td>
 <td><p><a href="../Page/全国放送.md" title="wikilink">全国</a></p></td>
@@ -176,7 +176,7 @@
 <td><p>映像23kW/<br />
 音声5.9kW</p></td>
 <td><p>岩手県</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1970年" title="wikilink">1970年</a><br />
+<td><p><a href="../Page/1970年.md" title="wikilink">1970年</a><br />
 <a href="../Page/10月1日.md" title="wikilink">10月1日</a></p></td>
 <td></td>
 <td></td>
@@ -187,7 +187,7 @@
 岩手めんこいテレビ</p></td>
 <td><p>映像23kW/<br />
 音声5.8kW</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1991年" title="wikilink">1991年</a><br />
+<td><p><a href="../Page/1991年.md" title="wikilink">1991年</a><br />
 <a href="../Page/4月1日.md" title="wikilink">4月1日</a></p></td>
 <td></td>
 <td></td>
@@ -211,7 +211,7 @@
 
   - 所在地： 気仙郡住田町上有住字土倉（箱根峠）
   - [2011年](../Page/2011年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")をもってすべて廃止される予定だったが、[3月11日](../Page/3月11日.md "wikilink")に発生した[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")の影響により、[2012年](../Page/2012年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで延期された。
-  - 当中継局には[IBC岩手放送ラジオの放送を](https://ja.wikipedia.org/wiki/IBC岩手放送#ラジオ "wikilink")、本社から[岩泉](../Page/岩泉ラジオ中継局.md "wikilink")・[田野畑](https://ja.wikipedia.org/wiki/田野畑ラジオ中継局 "wikilink")・[宮古](../Page/宮古ラジオ中継局.md "wikilink")・[釜石](https://ja.wikipedia.org/wiki/釜石ラジオ中継局 "wikilink")・[大船渡の各中継局へ伝送するためのマイクロ波中継設備がある](../Page/大船渡ラジオ中継局.md "wikilink")\[8\]\[9\]。
+  - 当中継局には[IBC岩手放送ラジオの放送を](https://ja.wikipedia.org/wiki/IBC岩手放送#ラジオ "wikilink")、本社から[岩泉](../Page/岩泉ラジオ中継局.md "wikilink")・[田野畑](../Page/田野畑ラジオ中継局.md "wikilink")・[宮古](../Page/宮古ラジオ中継局.md "wikilink")・[釜石](../Page/釜石ラジオ中継局.md "wikilink")・[大船渡の各中継局へ伝送するためのマイクロ波中継設備がある](../Page/大船渡ラジオ中継局.md "wikilink")\[8\]\[9\]。
 
 ### FMラジオ放送
 
@@ -245,7 +245,7 @@
 <tr class="even">
 <td><p>85.1MHz</p></td>
 <td><p>NHK<br />
-盛岡<a href="https://ja.wikipedia.org/wiki/NHK-FM放送" title="wikilink">FM</a></p></td>
+盛岡<a href="../Page/NHK-FM放送.md" title="wikilink">FM</a></p></td>
 <td><p>100W</p></td>
 <td><p>680W</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1969年" title="wikilink">1969年</a><br />
@@ -343,7 +343,7 @@
   - 所在地： 釜石市大字釜石（釜石デジタルテレビ中継局に同じ）
   - 放送区域： 釜石市の中心部及び唐丹・平田地区
   - 2011年7月24日をもってすべて廃止される予定だったが、3月31日に発生した東日本大震災の影響で、2012年3月31日に延期された。なお、IATにはチャンネルが割り当てられていなかった。
-  - アナログ放送で釜石鈴子局を受信していた気仙郡[住田町](https://ja.wikipedia.org/wiki/住田町 "wikilink")上有住地区では地デジの直接受信ができず、かつ住田町内に地デジ中継局が開局する予定もないことから、CATV局（ケーブルテレビ）の[遠野テレビ](../Page/遠野テレビ.md "wikilink")が、[住田町地域情報通信基盤施設](https://ja.wikipedia.org/wiki/住田町地域情報通信基盤施設 "wikilink")（住田テレビ）を通じて住田町内へ向けた地デジ再送信を行っている。
+  - アナログ放送で釜石鈴子局を受信していた気仙郡[住田町](../Page/住田町.md "wikilink")上有住地区では地デジの直接受信ができず、かつ住田町内に地デジ中継局が開局する予定もないことから、CATV局（ケーブルテレビ）の[遠野テレビ](../Page/遠野テレビ.md "wikilink")が、[住田町地域情報通信基盤施設](https://ja.wikipedia.org/wiki/住田町地域情報通信基盤施設 "wikilink")（住田テレビ）を通じて住田町内へ向けた地デジ再送信を行っている。
 
 ### FMラジオ放送
 
@@ -366,7 +366,7 @@
 <tr class="odd">
 <td><p>81.4MHz</p></td>
 <td><p>NHK<br />
-盛岡<a href="https://ja.wikipedia.org/wiki/NHK-FM放送" title="wikilink">FM</a></p></td>
+盛岡<a href="../Page/NHK-FM放送.md" title="wikilink">FM</a></p></td>
 <td><p>10W</p></td>
 <td><p>11.5W</p></td>
 <td><p>水平偏波</p></td>
@@ -423,9 +423,9 @@
 ## 関連項目
 
   - [釜石市](../Page/釜石市.md "wikilink")
-  - [住田町](https://ja.wikipedia.org/wiki/住田町 "wikilink")
-  - [釜石ラジオ中継局](https://ja.wikipedia.org/wiki/釜石ラジオ中継局 "wikilink")
-  - [NHK盛岡放送局](https://ja.wikipedia.org/wiki/NHK盛岡放送局 "wikilink")
+  - [住田町](../Page/住田町.md "wikilink")
+  - [釜石ラジオ中継局](../Page/釜石ラジオ中継局.md "wikilink")
+  - [NHK盛岡放送局](../Page/NHK盛岡放送局.md "wikilink")
   - [テレビ岩手](../Page/テレビ岩手.md "wikilink")
   - [岩手朝日テレビ](../Page/岩手朝日テレビ.md "wikilink")
   - [IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")
@@ -444,5 +444,5 @@
 6.
 7.
 8.  沢村茂『ラジオ送信所への燃料補給』（『その時、ラジオだけが聞こえていた』[竹書房](../Page/竹書房.md "wikilink")、ISBN　9784812490631 80ページ）
-9.  沿岸北部の[久慈ラジオ中継局](https://ja.wikipedia.org/wiki/久慈ラジオ中継局 "wikilink")へは[折爪岳](../Page/折爪岳.md "wikilink")経由で伝送している。
+9.  沿岸北部の[久慈ラジオ中継局](../Page/久慈ラジオ中継局.md "wikilink")へは[折爪岳](../Page/折爪岳.md "wikilink")経由で伝送している。
 10. （総務省東北総合通信局）

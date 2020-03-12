@@ -1,7 +1,7 @@
 > この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
 
 
-**チェスターフィールド・フットボール・クラブ**（**Chesterfield Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[ダービーシャー](https://ja.wikipedia.org/wiki/ダービーシャー "wikilink")、[チェスターフィールドを本拠地とするサッカークラブチームである](https://ja.wikipedia.org/wiki/チェスターフィールド_\(イングランド\) "wikilink")。チェスターフィールド英国フットボールリーグの中で、四位古く設立されたチーム。2018-19シーズンは[カンファレンス・ナショナル](https://ja.wikipedia.org/wiki/カンファレンス・ナショナル "wikilink")（5部相当）に所属。
+**チェスターフィールド・フットボール・クラブ**（**Chesterfield Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[ダービーシャー](../Page/ダービーシャー.md "wikilink")、[チェスターフィールドを本拠地とするサッカークラブチームである](https://ja.wikipedia.org/wiki/チェスターフィールド_\(イングランド\) "wikilink")。チェスターフィールド英国フットボールリーグの中で、四位古く設立されたチーム。2018-19シーズンは[カンファレンス・ナショナル](https://ja.wikipedia.org/wiki/カンファレンス・ナショナル "wikilink")（5部相当）に所属。
 
 ## 名称変更
 
@@ -88,7 +88,7 @@
 
   - [ダニー・ウィルソン](https://ja.wikipedia.org/wiki/ダニー・ウィルソン_\(1960年生のサッカー選手\) "wikilink") 2015-2017
 
-  - [ガリー・コールドウェル](https://ja.wikipedia.org/wiki/ガリー・コールドウェル "wikilink") 2017
+  - [ガリー・コールドウェル](../Page/ガリー・コールドウェル.md "wikilink") 2017
 
   - [ザヴォン・ハインズ](https://ja.wikipedia.org/wiki/ザヴォン・ハインズ "wikilink") 2018
 

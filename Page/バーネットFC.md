@@ -112,7 +112,7 @@
 
   - [マイケル・ヘクター](https://ja.wikipedia.org/wiki/マイケル・ヘクター "wikilink") 2011-2012
 
-  - [エドガー・ダーヴィッツ](https://ja.wikipedia.org/wiki/エドガー・ダーヴィッツ "wikilink") 2012-2013.12
+  - [エドガー・ダーヴィッツ](../Page/エドガー・ダーヴィッツ.md "wikilink") 2012-2013.12
 
   - [シャキール・コールサースト](https://ja.wikipedia.org/wiki/シャキール・コールサースト "wikilink") 2017-
 

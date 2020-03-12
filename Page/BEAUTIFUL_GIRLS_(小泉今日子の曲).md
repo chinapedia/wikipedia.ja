@@ -5,12 +5,12 @@
 
 ## 解説
 
-  - 自身と[中井貴一](https://ja.wikipedia.org/wiki/中井貴一 "wikilink")が主演した[フジTV系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[月9ドラマ](../Page/フジテレビ月曜9時枠の連続ドラマ.md "wikilink")『[まだ恋は始まらない](https://ja.wikipedia.org/wiki/まだ恋は始まらない "wikilink")』の主題歌となった。カップリング曲「ガラスの瓶」は同ドラマの挿入歌となった。
+  - 自身と[中井貴一](../Page/中井貴一.md "wikilink")が主演した[フジTV系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[月9ドラマ](../Page/フジテレビ月曜9時枠の連続ドラマ.md "wikilink")『[まだ恋は始まらない](../Page/まだ恋は始まらない.md "wikilink")』の主題歌となった。カップリング曲「ガラスの瓶」は同ドラマの挿入歌となった。
 
 ## 収録曲
 
 1.  **BEAUTIFUL GIRLS**
-      - 作詞:小泉今日子／作曲:[筒美京平](https://ja.wikipedia.org/wiki/筒美京平 "wikilink")／編曲:[宮崎泉](https://ja.wikipedia.org/wiki/宮崎泉 "wikilink")・[福原まり](https://ja.wikipedia.org/wiki/福原まり "wikilink"),[ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")・[ブラス編曲](../Page/金管楽器.md "wikilink")：[服部隆之](https://ja.wikipedia.org/wiki/服部隆之 "wikilink")
+      - 作詞:小泉今日子／作曲:[筒美京平](https://ja.wikipedia.org/wiki/筒美京平 "wikilink")／編曲:[宮崎泉](https://ja.wikipedia.org/wiki/宮崎泉 "wikilink")・[福原まり](https://ja.wikipedia.org/wiki/福原まり "wikilink"),[ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")・[ブラス編曲](../Page/金管楽器.md "wikilink")：[服部隆之](../Page/服部隆之.md "wikilink")
 2.  **BEAUTIFUL GIRLS（Slow Version）**
 3.  **ガラスの瓶**
       - 作詞:小泉今日子／作曲:筒美京平／編曲:宮崎泉・福原まり,ストリングス・ブラス編曲：服部隆之
@@ -18,7 +18,7 @@
 
 ## 関連項目
 
-  - [1995年の音楽](https://ja.wikipedia.org/wiki/1995年の音楽 "wikilink")
+  - [1995年の音楽](../Page/1995年の音楽.md "wikilink")
 
 ## 脚注
 

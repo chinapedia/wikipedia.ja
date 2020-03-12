@@ -5,11 +5,11 @@
 
 ## 概要
 
-[長野駅](https://ja.wikipedia.org/wiki/長野駅 "wikilink")から[善光寺](../Page/善光寺.md "wikilink")までのちょうど中間あたりに立地する、国内有数の老舗ホテル。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（[平成](../Page/平成.md "wikilink")10年）の[長野オリンピック](https://ja.wikipedia.org/wiki/長野オリンピック "wikilink")の際には、[皇族](../Page/皇族.md "wikilink")の宿泊をはじめ、[サマランチ](https://ja.wikipedia.org/wiki/フアン・アントニオ・サマランチ "wikilink")[国際オリンピック委員会](https://ja.wikipedia.org/wiki/国際オリンピック委員会 "wikilink")会長（当時）などの重要来賓が来館した。
+[長野駅](https://ja.wikipedia.org/wiki/長野駅 "wikilink")から[善光寺](../Page/善光寺.md "wikilink")までのちょうど中間あたりに立地する、国内有数の老舗ホテル。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（[平成](../Page/平成.md "wikilink")10年）の[長野オリンピック](https://ja.wikipedia.org/wiki/長野オリンピック "wikilink")の際には、[皇族](../Page/皇族.md "wikilink")の宿泊をはじめ、[サマランチ](../Page/フアン・アントニオ・サマランチ.md "wikilink")[国際オリンピック委員会](../Page/国際オリンピック委員会.md "wikilink")会長（当時）などの重要来賓が来館した。
 
-格調高いホテル館内には、約800名を収容できる大宴会場のグランドボールルームがある。「ボールルーム」とは[明治](../Page/明治.md "wikilink")・[大正](../Page/大正.md "wikilink")時代の[西洋](../Page/西洋.md "wikilink")において、[社交ダンス](https://ja.wikipedia.org/wiki/社交ダンス "wikilink")や[パーティー](https://ja.wikipedia.org/wiki/パーティー "wikilink")を行う為の部屋のことであり、犀北館のグランドボールルームは、民間の会場としては初めて皇族の宮中晩餐会の会場となった。
+格調高いホテル館内には、約800名を収容できる大宴会場のグランドボールルームがある。「ボールルーム」とは[明治](../Page/明治.md "wikilink")・[大正](../Page/大正.md "wikilink")時代の[西洋](../Page/西洋.md "wikilink")において、[社交ダンス](../Page/社交ダンス.md "wikilink")や[パーティー](https://ja.wikipedia.org/wiki/パーティー "wikilink")を行う為の部屋のことであり、犀北館のグランドボールルームは、民間の会場としては初めて皇族の宮中晩餐会の会場となった。
 
-[東郷青児](../Page/東郷青児.md "wikilink")、[中川紀元](../Page/中川紀元.md "wikilink")が共同で制作した[ステンドグラス](https://ja.wikipedia.org/wiki/ステンドグラス "wikilink")がメインバー「SEIJI」に現存している\[1\]。この東郷青児のステンドグラスは、ホテルのロゴマークの元にもなっている。
+[東郷青児](../Page/東郷青児.md "wikilink")、[中川紀元](../Page/中川紀元.md "wikilink")が共同で制作した[ステンドグラス](../Page/ステンドグラス.md "wikilink")がメインバー「SEIJI」に現存している\[1\]。この東郷青児のステンドグラスは、ホテルのロゴマークの元にもなっている。
 
 ## 沿革
 
@@ -20,9 +20,9 @@
   - [2001年](../Page/2001年.md "wikilink")（平成13年） - 「婚礼パンフレット」が第15回全日本DM大賞 第6部門（サービス業部門）金賞を受賞\[3\]。
   - [2002年](../Page/2002年.md "wikilink")（平成14年） - **THE SAIHOKUKAN HOTEL**に改名。
   - [2004年](../Page/2004年.md "wikilink")（平成16年） - 信州ブランド・デザイン賞2004 入賞\[4\]。
-  - [2007年](../Page/2007年.md "wikilink")（平成19年） - [株式会社リサ・パートナーズの子会社である株式会社グッド](https://ja.wikipedia.org/wiki/リサ・パートナーズ "wikilink")・リゾートと業務協力協定を締結（2008年（平成20年）同締結終了）。グッド・リゾートと東京グリーンホテルグループが資本参加を行う。
+  - [2007年](../Page/2007年.md "wikilink")（平成19年） - [株式会社リサ・パートナーズの子会社である株式会社グッド](../Page/リサ・パートナーズ.md "wikilink")・リゾートと業務協力協定を締結（2008年（平成20年）同締結終了）。グッド・リゾートと東京グリーンホテルグループが資本参加を行う。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年） - 株式会社グッド・リゾートと業務協力協定を締結を終了する。
-  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年） - [国立歴史民俗博物館](../Page/国立歴史民俗博物館.md "wikilink")（[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[佐倉市](../Page/佐倉市.md "wikilink")）に対し、同ホテルにて保管していた各宮家・各政府要人用御献立など80点余りを寄贈する。
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年） - [国立歴史民俗博物館](../Page/国立歴史民俗博物館.md "wikilink")（[千葉県](../Page/千葉県.md "wikilink")[佐倉市](../Page/佐倉市.md "wikilink")）に対し、同ホテルにて保管していた各宮家・各政府要人用御献立など80点余りを寄贈する。
 
 ## アクセス
 
@@ -35,7 +35,7 @@
 
 ## 関連項目
 
-  - [クラシックホテル](https://ja.wikipedia.org/wiki/クラシックホテル "wikilink")
+  - [クラシックホテル](../Page/クラシックホテル.md "wikilink")
 
 ## 脚注
 

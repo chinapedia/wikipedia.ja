@@ -7,16 +7,16 @@
   - 自動車のグレード名、車種名。
       - 四輪車
           - 日産・GT-R
-              - KPGC10～BNR34について→[日産・スカイラインGT-R](https://ja.wikipedia.org/wiki/日産・スカイラインGT-R "wikilink")
+              - KPGC10～BNR34について→[日産・スカイラインGT-R](../Page/日産・スカイラインGT-R.md "wikilink")
               - R35について→[日産・GT-R](../Page/日産・GT-R.md "wikilink") （[2007年](../Page/2007年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink")発表）
               - [プロトタイプレーシングカー](https://ja.wikipedia.org/wiki/プロトタイプレーシングカー "wikilink")について→[日産・GT-R LM NISMO](https://ja.wikipedia.org/wiki/日産・GT-R_LM_NISMO "wikilink") (2015年2月1日発表)
-          - [いすゞ・ベレット](https://ja.wikipedia.org/wiki/いすゞ・ベレット "wikilink")1600GTR
-          - [マクラーレン・F1](https://ja.wikipedia.org/wiki/マクラーレン・F1 "wikilink")GT-R
+          - [いすゞ・ベレット](../Page/いすゞ・ベレット.md "wikilink")1600GTR
+          - [マクラーレン・F1](../Page/マクラーレン・F1.md "wikilink")GT-R
           - [マクラーレン・P1 GTR](https://ja.wikipedia.org/wiki/マクラーレン・P1#P1_GTR "wikilink")
-          - [トヨタ・セリカ](https://ja.wikipedia.org/wiki/トヨタ・セリカ "wikilink")2000GT-R※前輪駆動「[3S-GE](https://ja.wikipedia.org/wiki/トヨタ・3S-GE "wikilink")」搭載
+          - [トヨタ・セリカ](../Page/トヨタ・セリカ.md "wikilink")2000GT-R※前輪駆動「[3S-GE](../Page/トヨタ・3S-GE.md "wikilink")」搭載
           - [トヨタ・コロナ](../Page/トヨタ・コロナ.md "wikilink")2000GT-R※前輪駆動「3S-GE」搭載
           - [トヨタ・カリーナ](../Page/トヨタ・カリーナ.md "wikilink")2000GT-R※前輪駆動「3S-GE」搭載
-          - [トヨタ・セリカ](https://ja.wikipedia.org/wiki/トヨタ・セリカ "wikilink")1600GT-R※後輪駆動「[4A-GE](https://ja.wikipedia.org/wiki/トヨタ・4A-GE "wikilink")」搭載
+          - [トヨタ・セリカ](../Page/トヨタ・セリカ.md "wikilink")1600GT-R※後輪駆動「[4A-GE](../Page/トヨタ・4A-GE.md "wikilink")」搭載
           - [トヨタ・コロナ](../Page/トヨタ・コロナ.md "wikilink")1600GT-R※後輪駆動「4A-GE」搭載
           - [トヨタ・カリーナ](../Page/トヨタ・カリーナ.md "wikilink")1600GT-R※後輪駆動「4A-GE」搭載
           - [マツダ・サバンナRX-7GT-R](../Page/マツダ・RX-7.md "wikilink")
@@ -27,7 +27,7 @@
           - [カワサキ・1000GTR](https://ja.wikipedia.org/wiki/カワサキ・1000GTR "wikilink")は、[川崎重工業](../Page/川崎重工業.md "wikilink")の大型自動2輪車。（後継車種[カワサキ・1400GTR](https://ja.wikipedia.org/wiki/カワサキ・1400GTR "wikilink")）
           - [ヤマハ・GTR125](https://ja.wikipedia.org/wiki/ヤマハ・GTR125 "wikilink")は、[ヤマハ発動機](../Page/ヤマハ発動機.md "wikilink")の小型自動2輪車。
   - [GT-R (漫画)](https://ja.wikipedia.org/wiki/GT-R_\(漫画\) "wikilink") - [藤沢とおる](../Page/藤沢とおる.md "wikilink")の漫画。
-  - [GTR法](https://ja.wikipedia.org/wiki/GTR法 "wikilink") - 歯科の治療法の一つ。歯周組織再生誘導法の事
+  - [GTR法](../Page/GTR法.md "wikilink") - 歯科の治療法の一つ。歯周組織再生誘導法の事
   - [GTR (バンド)](../Page/GTR_\(バンド\).md "wikilink") - イギリスのバンド。
   - [グロービート・ジャパン](https://ja.wikipedia.org/wiki/グロービート・ジャパン "wikilink")が運営する[ラーメン](https://ja.wikipedia.org/wiki/ラーメン "wikilink")チェーン花月のガーリックトマトラーメンの略。
   - [GTR (ゲーム)](https://ja.wikipedia.org/wiki/GTR_\(ゲーム\) "wikilink") - FIA GTをもとにしたゲーム。

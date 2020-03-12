@@ -3,9 +3,9 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Captcha.png "wikilink") （キャプチャ）は [チャレンジ/レスポンス型テスト](https://ja.wikipedia.org/wiki/チャレンジ/レスポンス型テスト "wikilink")の一種で、応答者がコンピュータでないことを確認するために使われる。
 
-[ウィキペディア](https://ja.wikipedia.org/wiki/ウィキペディア "wikilink")においても、ログインしていない状態のユーザ(IPユーザー)が[外部リンク](https://ja.wikipedia.org/wiki/外部リンク "wikilink")を追加する際、[スパム (メール)の防止のためこの種の](../Page/スパム_\(メール\).md "wikilink")[認証](../Page/認証.md "wikilink")が用いられる。外部リンクを追加しない場合にも濫用される。
+[ウィキペディア](../Page/ウィキペディア.md "wikilink")においても、ログインしていない状態のユーザ(IPユーザー)が[外部リンク](https://ja.wikipedia.org/wiki/外部リンク "wikilink")を追加する際、[スパム (メール)の防止のためこの種の](../Page/スパム_\(メール\).md "wikilink")[認証](../Page/認証.md "wikilink")が用いられる。外部リンクを追加しない場合にも濫用される。
 
-この用語は[カーネギーメロン大学](https://ja.wikipedia.org/wiki/カーネギーメロン大学 "wikilink")の[ルイス・フォン・アン](https://ja.wikipedia.org/wiki/ルイス・フォン・アン "wikilink")、[マヌエル・ブラム](https://ja.wikipedia.org/wiki/マヌエル・ブラム "wikilink")、ニコラス・J・ホッパー、[IBM](../Page/IBM.md "wikilink")のジョン・ラングフォードによって[2000年](../Page/2000年.md "wikilink")に造られた。 という語は「」（[コンピュータ](../Page/コンピュータ.md "wikilink")と[人間](../Page/人間.md "wikilink")を区別する完全に自動化された公開[チューリングテスト](https://ja.wikipedia.org/wiki/チューリングテスト "wikilink")）の[バクロニム](https://ja.wikipedia.org/wiki/バクロニム "wikilink")である。
+この用語は[カーネギーメロン大学](https://ja.wikipedia.org/wiki/カーネギーメロン大学 "wikilink")の[ルイス・フォン・アン](https://ja.wikipedia.org/wiki/ルイス・フォン・アン "wikilink")、[マヌエル・ブラム](../Page/マヌエル・ブラム.md "wikilink")、ニコラス・J・ホッパー、[IBM](../Page/IBM.md "wikilink")のジョン・ラングフォードによって[2000年](../Page/2000年.md "wikilink")に造られた。 という語は「」（[コンピュータ](../Page/コンピュータ.md "wikilink")と[人間](../Page/人間.md "wikilink")を区別する完全に自動化された公開[チューリングテスト](https://ja.wikipedia.org/wiki/チューリングテスト "wikilink")）の[バクロニム](../Page/バクロニム.md "wikilink")である。
 
 認知ソフトウェアに対抗するために難化が繰り返された結果、既に人間の認識が困難になるほど難化しており、本来の目的を果たせていない場合がある（「過剰な難化」の節を参照）。
 
@@ -34,7 +34,7 @@
 
 ## 起源
 
-はもともと、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[AltaVista](https://ja.wikipedia.org/wiki/AltaVista "wikilink")のアンドレイ・ブローダーとその同僚たちによって、[ボットが彼らの](../Page/インターネットボット.md "wikilink")[検索エンジン](../Page/検索エンジン.md "wikilink")に[URLを追加するのを防ぐために開発された](../Page/Uniform_Resource_Locator.md "wikilink")。彼らは画像を[OCRによる攻撃に耐えられるようにする方法を探していた](../Page/光学文字認識.md "wikilink")。[ブラザー工業](https://ja.wikipedia.org/wiki/ブラザー工業 "wikilink")の[スキャナの取扱説明書には](../Page/イメージスキャナ.md "wikilink")、OCRの結果を改善するためには均質な[活字面](https://ja.wikipedia.org/wiki/活字面 "wikilink")、無地の背景を用いるよう薦められていた。そこで彼らは取扱説明書に「OCR認識の結果を悪くする」と書いてある条件を真似て最初の  を作り出した。ブローダーによれば、 は検索エンジンへのスパム追加を95%削減できたという。
+はもともと、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[AltaVista](../Page/AltaVista.md "wikilink")のアンドレイ・ブローダーとその同僚たちによって、[ボットが彼らの](../Page/インターネットボット.md "wikilink")[検索エンジン](../Page/検索エンジン.md "wikilink")に[URLを追加するのを防ぐために開発された](../Page/Uniform_Resource_Locator.md "wikilink")。彼らは画像を[OCRによる攻撃に耐えられるようにする方法を探していた](../Page/光学文字認識.md "wikilink")。[ブラザー工業](https://ja.wikipedia.org/wiki/ブラザー工業 "wikilink")の[スキャナの取扱説明書には](../Page/イメージスキャナ.md "wikilink")、OCRの結果を改善するためには均質な[活字面](https://ja.wikipedia.org/wiki/活字面 "wikilink")、無地の背景を用いるよう薦められていた。そこで彼らは取扱説明書に「OCR認識の結果を悪くする」と書いてある条件を真似て最初の  を作り出した。ブローダーによれば、 は検索エンジンへのスパム追加を95%削減できたという。
 
 ## 用途
 
@@ -48,7 +48,7 @@
 
   - は**自動化**されている。テストを管理運用するにあたって人間の介在をほとんど、あるいは全く必要としない。これはテストにおける人間の管理や介入の必要性を避けることができ、コストや信頼性においても明らかに有益である。
 
-  - 使用される[アルゴリズム](../Page/アルゴリズム.md "wikilink")は多くの場合**公開**される。ただし、[特許](https://ja.wikipedia.org/wiki/特許 "wikilink")によって妨げられるかもしれない。これが規定されているのは、 の突破には、[リバースエンジニアリング](https://ja.wikipedia.org/wiki/リバースエンジニアリング "wikilink")などの手法を用いて達成できるような単なる(秘密の)アルゴリズムの発見よりも、[人工知能](../Page/人工知能.md "wikilink")の分野における難問の解決法を要求する、ということが必要なためである。
+  - 使用される[アルゴリズム](../Page/アルゴリズム.md "wikilink")は多くの場合**公開**される。ただし、[特許](../Page/特許.md "wikilink")によって妨げられるかもしれない。これが規定されているのは、 の突破には、[リバースエンジニアリング](../Page/リバースエンジニアリング.md "wikilink")などの手法を用いて達成できるような単なる(秘密の)アルゴリズムの発見よりも、[人工知能](../Page/人工知能.md "wikilink")の分野における難問の解決法を要求する、ということが必要なためである。
 
 ## アクセシビリティ
 

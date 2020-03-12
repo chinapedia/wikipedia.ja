@@ -3,7 +3,7 @@
 
 『**MESSAGE**』（メッセージ）は[MONGOL800](../Page/MONGOL800.md "wikilink")のインディーズデビュー後2枚目の[アルバム](../Page/アルバム.md "wikilink")である。[2001年](../Page/2001年.md "wikilink")[9月16日](../Page/9月16日.md "wikilink")にリリース。
 
-発売元は[ハイ・ウェーブ](https://ja.wikipedia.org/wiki/ハイ・ウェーブ "wikilink")内の[レーベル](../Page/レコードレーベル.md "wikilink")、[TISSUE FREAK RECORDS](https://ja.wikipedia.org/wiki/TISSUE_FREAK_RECORDS "wikilink")。
+発売元は[ハイ・ウェーブ](../Page/ハイ・ウェーブ.md "wikilink")内の[レーベル](../Page/レコードレーベル.md "wikilink")、[TISSUE FREAK RECORDS](https://ja.wikipedia.org/wiki/TISSUE_FREAK_RECORDS "wikilink")。
 
 ## 内容
 
@@ -13,7 +13,7 @@
   - また、インディーズアルバム史上で初のミリオンセラーを達成し、現在までに売り上げは278万枚にも達している。[2000年代](../Page/2000年代.md "wikilink")に男性アーティストが発売したオリジナルアルバムの中では、最高の売り上げを記録している作品である。
   - ほとんどメンバーがプロモーション活動をしていないにもかかわらず大半の楽曲が有線をはじめさまざまな媒体で使用されている。
   - 本作のヒットで全国的には全く売れていなかった前作『GO ON AS YOU ARE』もオリコンチャートで上位を記録している。
-  - アルバムの大ヒットがきっかけで[NHK紅白歌合戦](https://ja.wikipedia.org/wiki/NHK紅白歌合戦 "wikilink")への参加依頼が舞い込むも、メンバーはそれを拒否している。その後発売から5年の時を経てようやく全国ネット番組に出演し2007年9月にツアードキュメントが[NHKのスペシャル番組として放送された](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")。
+  - アルバムの大ヒットがきっかけで[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")への参加依頼が舞い込むも、メンバーはそれを拒否している。その後発売から5年の時を経てようやく全国ネット番組に出演し2007年9月にツアードキュメントが[NHKのスペシャル番組として放送された](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")。
   - このアルバムのラストトラックとなる「Dandelion」をずっと流していると、（8分47秒くらいのところから）シークレットトラックとしてメンバーが本作の核と語っているタイトル楽曲の「MESSAGE」が聴ける。歌詞もきちんとブックレットに掲載されている。
 
 ## 収録曲

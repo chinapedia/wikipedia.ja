@@ -1,7 +1,7 @@
 > この記事は[The Japan Times ST](https://ja.wikipedia.org/wiki/The_Japan_Times_ST)から翻訳されています。
 
 
-**The Japan Times ST**（ざじゃぱんたいむずえすてぃー）は、[ジャパンタイムズ](https://ja.wikipedia.org/wiki/ジャパンタイムズ "wikilink")社が刊行している[英語](../Page/英語.md "wikilink")学習者向けの週刊紙。毎週[金曜日](../Page/金曜日.md "wikilink")発行、定価は290円。以前は「週刊ST」という題名であった。編集長は高橋敏之。
+**The Japan Times ST**（ざじゃぱんたいむずえすてぃー）は、[ジャパンタイムズ](../Page/ジャパンタイムズ.md "wikilink")社が刊行している[英語](../Page/英語.md "wikilink")学習者向けの週刊紙。毎週[金曜日](../Page/金曜日.md "wikilink")発行、定価は290円。以前は「週刊ST」という題名であった。編集長は高橋敏之。
 
 前身は、[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")に発行が始まった「週刊スチューデントタイムズ（英語名：*The Student Times*）」。学生以外の読者も多いことから、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")の40周年を期に、「週刊ST（英語名：*Shukan ST*）」と題名を変更した。[2013年](../Page/2013年.md "wikilink")4月に、現在の『The Japan Times ST』（略称ST）へと変更。2018年7月からは紙面デザインを大きくリニューアルし『The Japan Times Alpha』へと変更されている。
 

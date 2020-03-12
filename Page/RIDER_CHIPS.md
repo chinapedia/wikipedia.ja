@@ -7,25 +7,25 @@
 
 [2000年](../Page/2000年.md "wikilink")に仮面ライダー生誕30周年を記念して結成された。バンド名はカルビーのカード付き菓子「[ライダーチップス](../Page/仮面ライダースナック.md "wikilink")」から。唯一無二の[仮面ライダー](../Page/仮面ライダー.md "wikilink")オフィシャルバンドである。
 
-結成からしばらくは専任のボーカルをたてず、各楽曲やライブごとにフィーチャリングヴォーカリストを迎えることを特徴としていた。2005年よりボーカルとして[Ricky](https://ja.wikipedia.org/wiki/Ricky "wikilink")を迎え、活動を行っている。
+結成からしばらくは専任のボーカルをたてず、各楽曲やライブごとにフィーチャリングヴォーカリストを迎えることを特徴としていた。2005年よりボーカルとして[Ricky](../Page/Ricky.md "wikilink")を迎え、活動を行っている。
 
 同バンドのファンの呼称について、Rickyが「チップスター」と名付けている。
 
 ## メンバー
 
-  - [野村義男](https://ja.wikipedia.org/wiki/野村義男 "wikilink")（[ギター](../Page/ギター.md "wikilink")）
-  - [寺沢功一](https://ja.wikipedia.org/wiki/寺沢功一 "wikilink")（[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")）
-  - [JOE](https://ja.wikipedia.org/wiki/宮脇“JOE”知史 "wikilink")（[ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")）
-  - [Ricky](https://ja.wikipedia.org/wiki/Ricky "wikilink")（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")） - 2005年11月より正式参加。
-  - [渡部チェル](https://ja.wikipedia.org/wiki/渡部チェル "wikilink")（[キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")、[アレンジャー](https://ja.wikipedia.org/wiki/アレンジャー "wikilink")）
+  - [野村義男](../Page/野村義男.md "wikilink")（[ギター](../Page/ギター.md "wikilink")）
+  - [寺沢功一](../Page/寺沢功一.md "wikilink")（[ベース](../Page/ベース_\(弦楽器\).md "wikilink")）
+  - [JOE](../Page/宮脇“JOE”知史.md "wikilink")（[ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")）
+  - [Ricky](../Page/Ricky.md "wikilink")（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")） - 2005年11月より正式参加。
+  - [渡部チェル](../Page/渡部チェル.md "wikilink")（[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、[アレンジャー](https://ja.wikipedia.org/wiki/アレンジャー "wikilink")）
 
 ### フィーチャリングヴォーカリスト
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
   - [藤岡弘、](../Page/藤岡弘、.md "wikilink")
-  - [ROLLY](https://ja.wikipedia.org/wiki/ROLLY "wikilink")
-  - [橋本仁](https://ja.wikipedia.org/wiki/橋本仁_\(歌手\) "wikilink")
+  - [ROLLY](../Page/ROLLY.md "wikilink")
+  - [橋本仁](../Page/橋本仁_\(歌手\).md "wikilink")
   - [水木一郎](../Page/水木一郎.md "wikilink")
   - [堀江美都子](../Page/堀江美都子.md "wikilink")
 
@@ -34,9 +34,9 @@
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
   - [宮内洋](../Page/宮内洋.md "wikilink")
-  - [田中昌之](https://ja.wikipedia.org/wiki/田中昌之 "wikilink")
+  - [田中昌之](../Page/田中昌之.md "wikilink")
   - [寺田恵子](https://ja.wikipedia.org/wiki/寺田恵子 "wikilink")
-  - [DIAMOND☆YUKAI](https://ja.wikipedia.org/wiki/ダイアモンド☆ユカイ "wikilink")
+  - [DIAMOND☆YUKAI](../Page/ダイアモンド☆ユカイ.md "wikilink")
   - [m.c.A・T](https://ja.wikipedia.org/wiki/m.c.A・T "wikilink")
 
 </div>
@@ -44,10 +44,10 @@
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
   - [加藤夏希](https://ja.wikipedia.org/wiki/加藤夏希 "wikilink")
-  - [大槻ケンヂ](https://ja.wikipedia.org/wiki/大槻ケンヂ "wikilink")（[特撮](https://ja.wikipedia.org/wiki/特撮_\(バンド\) "wikilink")・[筋肉少女帯](https://ja.wikipedia.org/wiki/筋肉少女帯 "wikilink")）
-  - [石原慎一](https://ja.wikipedia.org/wiki/石原慎一 "wikilink")
+  - [大槻ケンヂ](https://ja.wikipedia.org/wiki/大槻ケンヂ "wikilink")（[特撮](../Page/特撮_\(バンド\).md "wikilink")・[筋肉少女帯](../Page/筋肉少女帯.md "wikilink")）
+  - [石原慎一](../Page/石原慎一.md "wikilink")
   - [松本梨香](https://ja.wikipedia.org/wiki/松本梨香 "wikilink")
-  - [佐藤祐基](https://ja.wikipedia.org/wiki/佐藤祐基 "wikilink")
+  - [佐藤祐基](../Page/佐藤祐基.md "wikilink")
 
 </div>
 
@@ -65,7 +65,7 @@
 <td><p><strong>備考</strong></p></td>
 </tr>
 <tr class="even">
-<td><p>Power Child（Featuring <a href="https://ja.wikipedia.org/wiki/ROLLY" title="wikilink">ROLLY</a>）</p></td>
+<td><p>Power Child（Featuring <a href="../Page/ROLLY.md" title="wikilink">ROLLY</a>）</p></td>
 <td><p>レッツゴー</p></td>
 <td><p>ライダーキック〜2000 Ver〜（Featuring <a href="../Page/藤岡弘、.md" title="wikilink">藤岡弘</a>）<br />
 君と共にライダーはいる（Featuring 藤岡弘）</p></td>
@@ -74,7 +74,7 @@
 </tr>
 <tr class="odd">
 <td><p>DEEP BREATH（Featuring ROLLY）</p></td>
-<td><p>Sitting On The Dynamite（Featuring <a href="https://ja.wikipedia.org/wiki/橋本仁_(歌手)" title="wikilink">橋本仁</a>）<br />
+<td><p>Sitting On The Dynamite（Featuring <a href="../Page/橋本仁_(歌手).md" title="wikilink">橋本仁</a>）<br />
 Touch（Featuring ROLLY + 橋本仁）</p></td>
 <td><p>2001年8月18日</p></td>
 <td><p>『<a href="../Page/仮面ライダーアギト.md" title="wikilink">仮面ライダーアギト</a>』3rdエンディングテーマ</p></td>
@@ -91,7 +91,7 @@ Touch（Featuring ROLLY + 橋本仁）</p></td>
 限定盤は<a href="../Page/セブン-イレブン.md" title="wikilink">セブン-イレブン</a>のみの取り扱い</p></td>
 </tr>
 <tr class="odd">
-<td><p>We gotta fight（Featuring <a href="https://ja.wikipedia.org/wiki/ダイアモンド☆ユカイ" title="wikilink">DIAMOND☆YUKAI</a>）</p></td>
+<td><p>We gotta fight（Featuring <a href="../Page/ダイアモンド☆ユカイ.md" title="wikilink">DIAMOND☆YUKAI</a>）</p></td>
 <td><p>Hard knock life（Featuring DIAMOND☆YUKAI）</p></td>
 <td><p>2003年1月29日</p></td>
 <td><p>仮面ライダーBE@RBRICK CD</p></td>
@@ -119,17 +119,17 @@ Touch（Featuring ROLLY + 橋本仁）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ELEMENTS_(曲)" title="wikilink">ELEMENTS</a>（Featuring <a href="https://ja.wikipedia.org/wiki/Ricky" title="wikilink">Ricky</a>）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ELEMENTS_(曲)" title="wikilink">ELEMENTS</a>（Featuring <a href="../Page/Ricky.md" title="wikilink">Ricky</a>）</p></td>
 <td><p>熱風Rider（Featuring Ricky）</p></td>
 <td><p>2004年9月29日</p></td>
-<td><p>『<a href="https://ja.wikipedia.org/wiki/仮面ライダー剣" title="wikilink">仮面ライダー剣</a>』後期オープニングテーマ、<a href="../Page/東映.md" title="wikilink">東映</a>配給映画『<a href="https://ja.wikipedia.org/wiki/劇場版_仮面ライダー剣_MISSING_ACE" title="wikilink">劇場版 仮面ライダー剣 MISSING ACE</a>』主題歌</p></td>
+<td><p>『<a href="https://ja.wikipedia.org/wiki/仮面ライダー剣" title="wikilink">仮面ライダー剣</a>』後期オープニングテーマ、<a href="../Page/東映.md" title="wikilink">東映</a>配給映画『<a href="../Page/劇場版_仮面ライダー剣_MISSING_ACE.md" title="wikilink">劇場版 仮面ライダー剣 MISSING ACE</a>』主題歌</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>FULL FORCE</p></td>
 <td><p>Bang!Bang!Revolution</p></td>
 <td><p>2006年4月5日</p></td>
-<td><p>『<a href="https://ja.wikipedia.org/wiki/仮面ライダーカブト" title="wikilink">仮面ライダーカブト</a>』エンディングテーマ</p></td>
+<td><p>『<a href="../Page/仮面ライダーカブト.md" title="wikilink">仮面ライダーカブト</a>』エンディングテーマ</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -151,7 +151,7 @@ Touch（Featuring ROLLY + 橋本仁）</p></td>
 <td><p>Dreamer</p></td>
 <td><p>2009年9月16日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/avex_mode" title="wikilink">avex mode</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/京楽産業." title="wikilink">京楽産業.</a>『<a href="https://ja.wikipedia.org/wiki/CRぱちんこ仮面ライダーMAX_Edition" title="wikilink">CRぱちんこ仮面ライダーMAX Edition</a>』CMソング</p></td>
+<td><p><a href="../Page/京楽産業..md" title="wikilink">京楽産業.</a>『<a href="https://ja.wikipedia.org/wiki/CRぱちんこ仮面ライダーMAX_Edition" title="wikilink">CRぱちんこ仮面ライダーMAX Edition</a>』CMソング</p></td>
 </tr>
 <tr class="even">
 <td><p>Blessed wind</p></td>
@@ -203,10 +203,10 @@ Perfect Game（RIDER CHIPS)</p></td>
 ### その他
 
   - Flashback（RIDER CHIPS version）
-      - RIDER CHIPS Featuring [Ricky](https://ja.wikipedia.org/wiki/Ricky "wikilink")
+      - RIDER CHIPS Featuring [Ricky](../Page/Ricky.md "wikilink")
     <!-- end list -->
       -
-        『Flashback』（[Rin'](https://ja.wikipedia.org/wiki/Rin' "wikilink") Feat. m.c.A・T、AVCA-22358、2005年8月31日）に別バージョンとして収録する形でリリース。
+        『Flashback』（[Rin'](../Page/Rin'.md "wikilink") Feat. m.c.A・T、AVCA-22358、2005年8月31日）に別バージョンとして収録する形でリリース。
   - CRぱちんこ仮面ライダーMAX EDITION
       - レッツゴー\!\!ライダーキック
       - ライダーアクション
@@ -245,14 +245,14 @@ Perfect Game（RIDER CHIPS)</p></td>
   - ぱちスロ 仮面ライダーBLACK（配信限定）
       - 黒キ闇ニ煜ル希望
   - 平成仮面ライダー20作記念ベスト（2019年5月1日）
-      - RIDER CHIPS feat. [田中昌之](https://ja.wikipedia.org/wiki/田中昌之 "wikilink")「仮面ライダークウガ！」
+      - RIDER CHIPS feat. [田中昌之](../Page/田中昌之.md "wikilink")「仮面ライダークウガ！」
 
 ## 出演
 
 ### 映画
 
-  - [劇場版 仮面ライダーアギト PROJECT G4](https://ja.wikipedia.org/wiki/劇場版_仮面ライダーアギト_PROJECT_G4 "wikilink") ※声優として
-  - [劇場版 仮面ライダー剣 MISSING ACE](https://ja.wikipedia.org/wiki/劇場版_仮面ライダー剣_MISSING_ACE "wikilink") ※俳優として特別出演
+  - [劇場版 仮面ライダーアギト PROJECT G4](../Page/劇場版_仮面ライダーアギト_PROJECT_G4.md "wikilink") ※声優として
+  - [劇場版 仮面ライダー剣 MISSING ACE](../Page/劇場版_仮面ライダー剣_MISSING_ACE.md "wikilink") ※俳優として特別出演
 
 ## 脚注
 

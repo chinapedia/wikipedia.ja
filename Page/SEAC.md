@@ -3,13 +3,13 @@
 
 [SEACComputer_020.jpg](https://ja.wikipedia.org/wiki/File:SEACComputer_020.jpg "fig:SEACComputer_020.jpg") [SEACComputer_043.jpg](https://ja.wikipedia.org/wiki/File:SEACComputer_043.jpg "fig:SEACComputer_043.jpg")
 
-**SEAC**（***S**tandards **E**astern **A**utomatic **C**omputer*\[1\] または ***S**tandards **E**lectronic **A**utomatic **C**omputer*\[2\]）は、[1950年](../Page/1950年.md "wikilink")に[アメリカ国立標準局](https://ja.wikipedia.org/wiki/アメリカ国立標準技術研究所 "wikilink")(NBS)が開発した第一世代の電子[コンピュータ](../Page/コンピュータ.md "wikilink")である。NBSが、より強力なコンピュータ（[DYSEAC](https://ja.wikipedia.org/wiki/DYSEAC "wikilink")）が完成するまでのつなぎとして、短期間で開発して稼働できるように設計した小型コンピュータであり、当初は *National Bureau of Standards Interim Computer*（国立標準局暫定コンピュータ）と呼ばれていた。
+**SEAC**（***S**tandards **E**astern **A**utomatic **C**omputer*\[1\] または ***S**tandards **E**lectronic **A**utomatic **C**omputer*\[2\]）は、[1950年](../Page/1950年.md "wikilink")に[アメリカ国立標準局](../Page/アメリカ国立標準技術研究所.md "wikilink")(NBS)が開発した第一世代の電子[コンピュータ](../Page/コンピュータ.md "wikilink")である。NBSが、より強力なコンピュータ（[DYSEAC](https://ja.wikipedia.org/wiki/DYSEAC "wikilink")）が完成するまでのつなぎとして、短期間で開発して稼働できるように設計した小型コンピュータであり、当初は *National Bureau of Standards Interim Computer*（国立標準局暫定コンピュータ）と呼ばれていた。
 
 SEACの開発チームは、によって組織された\[3\]。SEACは1950年4月に公開され、同年6月に稼働した\[4\]\[5\]。SEACは米国で最初に完全動作した[プログラム内蔵型電子コンピュータであると主張されている](../Page/ノイマン型.md "wikilink")\[6\]。
 
 ## 詳細
 
-SEACは[EDVAC](../Page/EDVAC.md "wikilink")に基づいた設計で、当時としては少ない747本の[真空管](https://ja.wikipedia.org/wiki/真空管 "wikilink")（最終的には1,500本まで増設）と、10,500個の[ゲルマニウムダイオード](../Page/ゲルマニウムダイオード.md "wikilink")（後に16,000個に増設）を使用していた。全てのロジック機能はダイオードが担当し（動作原理は[Diode-transistor logicを参照](https://ja.wikipedia.org/wiki/Diode-transistor_logic "wikilink")）、真空管は増幅と[反転](https://ja.wikipedia.org/wiki/NOTゲート "wikilink")、および[フリップフロップ](../Page/フリップフロップ.md "wikilink")による情報の保存のみに使用された。SEACは、ほとんどのロジックを半導体デバイスで実行した最初のコンピュータである\[7\]。64個の[遅延記憶装置](../Page/遅延記憶装置.md "wikilink")を使用して512[ワード](../Page/ワード.md "wikilink")の[主記憶装置](../Page/主記憶装置.md "wikilink")を構成していた。各ワードは45[ビット](../Page/ビット.md "wikilink")幅である。クロックレートは1MHzと低く抑えられた。
+SEACは[EDVAC](../Page/EDVAC.md "wikilink")に基づいた設計で、当時としては少ない747本の[真空管](../Page/真空管.md "wikilink")（最終的には1,500本まで増設）と、10,500個の[ゲルマニウムダイオード](../Page/ゲルマニウムダイオード.md "wikilink")（後に16,000個に増設）を使用していた。全てのロジック機能はダイオードが担当し（動作原理は[Diode-transistor logicを参照](https://ja.wikipedia.org/wiki/Diode-transistor_logic "wikilink")）、真空管は増幅と[反転](https://ja.wikipedia.org/wiki/NOTゲート "wikilink")、および[フリップフロップ](../Page/フリップフロップ.md "wikilink")による情報の保存のみに使用された。SEACは、ほとんどのロジックを半導体デバイスで実行した最初のコンピュータである\[7\]。64個の[遅延記憶装置](../Page/遅延記憶装置.md "wikilink")を使用して512[ワード](../Page/ワード.md "wikilink")の[主記憶装置](../Page/主記憶装置.md "wikilink")を構成していた。各ワードは45[ビット](../Page/ビット.md "wikilink")幅である。クロックレートは1MHzと低く抑えられた。
 
 コンピュータの命令セットは、[固定小数点数](../Page/固定小数点数.md "wikilink")の加算・減算・乗算・除算、および比較・入力・出力の11種類の命令で構成されていた。最終的に16種類に拡張された。
 
@@ -26,7 +26,7 @@ SEACは[テレタイプによって遠隔地から使用することもできた
   - [気象学](../Page/気象学.md "wikilink")
   - [線形計画問題](https://ja.wikipedia.org/wiki/線形計画問題 "wikilink")
   - 光学レンズ
-  - [ロスアラモス国立研究所](https://ja.wikipedia.org/wiki/ロスアラモス国立研究所 "wikilink")による利用
+  - [ロスアラモス国立研究所](../Page/ロスアラモス国立研究所.md "wikilink")による利用
   - [LORAN](../Page/LORAN.md "wikilink")航法用の数表作成
   - 統計的サンプリング計画
   - [ヘリウム](https://ja.wikipedia.org/wiki/ヘリウム "wikilink")原子の波動関数

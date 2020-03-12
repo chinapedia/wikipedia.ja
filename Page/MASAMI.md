@@ -1,13 +1,13 @@
 > この記事は[MASAMI](https://ja.wikipedia.org/wiki/MASAMI)から翻訳されています。
 
 
-**MASAMI**（マサミ、本名：**細谷 雅巳**　[1957年](../Page/1957年.md "wikilink")[8月29日](../Page/8月29日.md "wikilink") - [1992年](../Page/1992年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")）は、[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")出身の[ロック](../Page/ロック_\(音楽\).md "wikilink")・[ボーカリスト](https://ja.wikipedia.org/wiki/ボーカリスト "wikilink")。小学生の時に[ダイナマイト](../Page/ダイナマイト.md "wikilink")遊びをして、右手を失った[障害者](../Page/障害者.md "wikilink")でもあった。
+**MASAMI**（マサミ、本名：**細谷 雅巳**　[1957年](../Page/1957年.md "wikilink")[8月29日](../Page/8月29日.md "wikilink") - [1992年](../Page/1992年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")）は、[千葉県](../Page/千葉県.md "wikilink")出身の[ロック](../Page/ロック_\(音楽\).md "wikilink")・[ボーカリスト](https://ja.wikipedia.org/wiki/ボーカリスト "wikilink")。小学生の時に[ダイナマイト](../Page/ダイナマイト.md "wikilink")遊びをして、右手を失った[障害者](../Page/障害者.md "wikilink")でもあった。
 
 26歳で[GHOUL](https://ja.wikipedia.org/wiki/GHOUL "wikilink")を結成。[THE TRASH](https://ja.wikipedia.org/wiki/THE_TRASH "wikilink")、[SQWAD](https://ja.wikipedia.org/wiki/SQWAD "wikilink")、[BAD LOTSでも](https://ja.wikipedia.org/wiki/BAD_LOTS "wikilink")[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")を務めた。
 
 [1980年代](../Page/1980年代.md "wikilink")に[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ハードコア・パンク](../Page/ハードコア・パンク.md "wikilink")で活躍し、アンダーグラウンド・シーンで支持を集める。[1989年](../Page/1989年.md "wikilink")にステージで倒れ、昏睡状態のまま肺炎を併発し[1992年](../Page/1992年.md "wikilink")[9月](../Page/9月.md "wikilink")に死去。
 
-[THE BLUE HEARTSがMASAMIをモデルにした楽曲](https://ja.wikipedia.org/wiki/THE_BLUE_HEARTS "wikilink")「[僕の右手](https://ja.wikipedia.org/wiki/TRAIN-TRAIN_\(アルバム\) "wikilink")」を歌っている。
+[THE BLUE HEARTSがMASAMIをモデルにした楽曲](../Page/THE_BLUE_HEARTS.md "wikilink")「[僕の右手](../Page/TRAIN-TRAIN_\(アルバム\).md "wikilink")」を歌っている。
 
 ## ディスコグラフィ
 
@@ -87,7 +87,7 @@
 
 ## 参考文献
 
-  - [鶴見済](https://ja.wikipedia.org/wiki/鶴見済 "wikilink")『無気力製造工場』（1994年、[太田出版](https://ja.wikipedia.org/wiki/太田出版 "wikilink")）の「片手のパンクス マサミはなぜ死んだのか?」より
+  - [鶴見済](../Page/鶴見済.md "wikilink")『無気力製造工場』（1994年、[太田出版](../Page/太田出版.md "wikilink")）の「片手のパンクス マサミはなぜ死んだのか?」より
 
 ## 外部リンク
 

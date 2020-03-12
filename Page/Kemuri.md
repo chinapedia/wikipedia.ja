@@ -36,11 +36,11 @@
 
   -
     オリジナルメンバー。
-    解散後は[ソニー・ミュージックアーティスツ](https://ja.wikipedia.org/wiki/ソニー・ミュージックアーティスツ "wikilink")に移籍。ソロ・プロジェクトを始動。2008年3月、[東京スカパラダイスオーケストラ](../Page/東京スカパラダイスオーケストラ.md "wikilink")のアルバム「[Perfect Future](https://ja.wikipedia.org/wiki/Perfect_Future "wikilink")」にゲストボーカルとして参加。同9月には、[上田現](https://ja.wikipedia.org/wiki/上田現 "wikilink")のトリビュートアルバム「[Sirius〜Tribute to UEDA GEN〜](https://ja.wikipedia.org/wiki/Sirius〜Tribute_to_UEDA_GEN〜 "wikilink")」で「夢のブランコ」をカバー。また、2009年6月公開の映画「[真夏のオリオン](../Page/真夏のオリオン.md "wikilink")」で俳優デビュー。2009年10月21日にソロアルバム「MIDAGE RIOT」をリリース。2012年にソニー・ミュージックアーティスツとのマネジメント関係は打ち切った。
+    解散後は[ソニー・ミュージックアーティスツ](../Page/ソニー・ミュージックアーティスツ.md "wikilink")に移籍。ソロ・プロジェクトを始動。2008年3月、[東京スカパラダイスオーケストラ](../Page/東京スカパラダイスオーケストラ.md "wikilink")のアルバム「[Perfect Future](https://ja.wikipedia.org/wiki/Perfect_Future "wikilink")」にゲストボーカルとして参加。同9月には、[上田現](https://ja.wikipedia.org/wiki/上田現 "wikilink")のトリビュートアルバム「[Sirius〜Tribute to UEDA GEN〜](https://ja.wikipedia.org/wiki/Sirius〜Tribute_to_UEDA_GEN〜 "wikilink")」で「夢のブランコ」をカバー。また、2009年6月公開の映画「[真夏のオリオン](../Page/真夏のオリオン.md "wikilink")」で俳優デビュー。2009年10月21日にソロアルバム「MIDAGE RIOT」をリリース。2012年にソニー・ミュージックアーティスツとのマネジメント関係は打ち切った。
 
 <!-- end list -->
 
-  - **津田紀昭**（[Ba.](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink") - 1967年7月4日、蟹座、B型）
+  - **津田紀昭**（[Ba.](../Page/ベース_\(弦楽器\).md "wikilink") - 1967年7月4日、蟹座、B型）
 
 <!-- end list -->
 
@@ -84,12 +84,12 @@
 <!-- end list -->
 
   -
-    通称MITCHY。元[POTSHOT](https://ja.wikipedia.org/wiki/POTSHOT "wikilink")のメンバーであり、「CIRCLES」から解散までサポートで参加。
+    通称MITCHY。元[POTSHOT](../Page/POTSHOT.md "wikilink")のメンバーであり、「CIRCLES」から解散までサポートで参加。
     再結成後もサポートメンバーを務め、2015年10月5日に正式メンバーとして加入。
 
 <!-- end list -->
 
-  - **須賀裕之**（[Tb.](../Page/トロンボーン.md "wikilink") - 1982年、[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")出身）
+  - **須賀裕之**（[Tb.](../Page/トロンボーン.md "wikilink") - 1982年、[千葉県](../Page/千葉県.md "wikilink")出身）
 
 <!-- end list -->
 
@@ -125,7 +125,7 @@
 
   -
     1997年12月に加入。2000年に体調不良を理由に脱退。ex.MUTE BEAT。
-    療養を経て、現在はコバヤシケンと[AIR'S ROCKを結成して活動](https://ja.wikipedia.org/wiki/AIR'S_ROCK "wikilink")、2010年から[REDEMPTION 97に加入している](https://ja.wikipedia.org/wiki/REDEMPTION_97 "wikilink")。また[レピッシュ](https://ja.wikipedia.org/wiki/レピッシュ "wikilink")の不動のサポートとしても活躍。
+    療養を経て、現在はコバヤシケンと[AIR'S ROCKを結成して活動](https://ja.wikipedia.org/wiki/AIR'S_ROCK "wikilink")、2010年から[REDEMPTION 97に加入している](https://ja.wikipedia.org/wiki/REDEMPTION_97 "wikilink")。また[レピッシュ](../Page/レピッシュ.md "wikilink")の不動のサポートとしても活躍。
 
 <!-- end list -->
 
@@ -1401,7 +1401,7 @@ CTCD-20053:CD</p></td>
   - 2013年12月20日 - KEMURI presents "GENERATION x GENERATION"
   - 2014年5月9日〜5月31日 - KEMURI TOUR 2014 "KEMURIFIED"
       -
-        w/[SKALAPPER](https://ja.wikipedia.org/wiki/SKALAPPER "wikilink") / [FREE KICK](https://ja.wikipedia.org/wiki/FREE_KICK "wikilink") / [おひつじ座流星群](https://ja.wikipedia.org/wiki/おひつじ座流星群 "wikilink") / [ATATA](https://ja.wikipedia.org/wiki/ATATA "wikilink") / [The Convictions](https://ja.wikipedia.org/wiki/The_Convictions "wikilink") / [The Gelugugu](https://ja.wikipedia.org/wiki/GELUGUGU "wikilink") / [HEY-SMITH](https://ja.wikipedia.org/wiki/HEY-SMITH "wikilink")
+        w/[SKALAPPER](https://ja.wikipedia.org/wiki/SKALAPPER "wikilink") / [FREE KICK](https://ja.wikipedia.org/wiki/FREE_KICK "wikilink") / [おひつじ座流星群](../Page/おひつじ座流星群.md "wikilink") / [ATATA](https://ja.wikipedia.org/wiki/ATATA "wikilink") / [The Convictions](https://ja.wikipedia.org/wiki/The_Convictions "wikilink") / [The Gelugugu](../Page/GELUGUGU.md "wikilink") / [HEY-SMITH](https://ja.wikipedia.org/wiki/HEY-SMITH "wikilink")
   - 2014年9月2日 - KEMURI Presents skapunk show\! 「SKA BRAVO DAY 1 ～DAY OF SUPER BRITOS～」
       -
         w/[SKALL HEADZ](https://ja.wikipedia.org/wiki/SKALL_HEADZ "wikilink") / [FEELFLIP](https://ja.wikipedia.org/wiki/FEELFLIP "wikilink") / [The Bruce Lee Band](https://ja.wikipedia.org/wiki/The_Bruce_Lee_Band "wikilink")
@@ -1410,7 +1410,7 @@ CTCD-20053:CD</p></td>
         w/[Ska Freaks](https://ja.wikipedia.org/wiki/Ska_Freaks "wikilink") / The Bruce Lee Band / [COQUETTISH](https://ja.wikipedia.org/wiki/COQUETTISH "wikilink")
   - 2014年10月12日〜2015年03月14日 - KEMURI TOUR 2014-2015 RAMPANT
       -
-        w/SKALAPPER / Ska Freaks / [THE CHERRY COKE$](../Page/THE_CHERRY_COKE$.md "wikilink") / [DALLAX](https://ja.wikipedia.org/wiki/DALLAX "wikilink") / FREE KICK / RADIOTS / ROSALIND / SEVEN STEP / [SHANK](https://ja.wikipedia.org/wiki/SHANK "wikilink") / [SiM](https://ja.wikipedia.org/wiki/SiM "wikilink") / [SNAIL RAMP](https://ja.wikipedia.org/wiki/SNAIL_RAMP "wikilink") / The Redemption / [THE STARBEMS](https://ja.wikipedia.org/wiki/THE_STARBEMS "wikilink") / おひつじ座流星群
+        w/SKALAPPER / Ska Freaks / [THE CHERRY COKE$](../Page/THE_CHERRY_COKE$.md "wikilink") / [DALLAX](https://ja.wikipedia.org/wiki/DALLAX "wikilink") / FREE KICK / RADIOTS / ROSALIND / SEVEN STEP / [SHANK](https://ja.wikipedia.org/wiki/SHANK "wikilink") / [SiM](https://ja.wikipedia.org/wiki/SiM "wikilink") / [SNAIL RAMP](../Page/SNAIL_RAMP.md "wikilink") / The Redemption / [THE STARBEMS](https://ja.wikipedia.org/wiki/THE_STARBEMS "wikilink") / おひつじ座流星群
   - 2015年4月 - KEMURI U.S. TOUR 2015
   - 2015年9月16日 - 20th ANNIVERSARY 「TANPAN-NIGHT」
   - 2015年9月25日〜9月27日 - KEMURI 20th Anniversary Japan Tour "SKA BRAVO"
@@ -1418,7 +1418,7 @@ CTCD-20053:CD</p></td>
         w/Less Than Jake / Reel Big Fish / Skankin' Pickle
   - 2015年10月4日〜2016年1月30日 - 20th Anniversary Tour 2015「F」
       -
-        w/[NAMBA69](https://ja.wikipedia.org/wiki/NAMBA69 "wikilink") / [10-FEET](https://ja.wikipedia.org/wiki/10-FEET "wikilink") / COQUETTISH / [MONGOL800](../Page/MONGOL800.md "wikilink") / [RIZE](https://ja.wikipedia.org/wiki/RIZE "wikilink") / SHANK / [U CAN'T SAY NO\!](https://ja.wikipedia.org/wiki/U_CAN'T_SAY_NO! "wikilink") / [サンボマスター](https://ja.wikipedia.org/wiki/サンボマスター "wikilink")
+        w/[NAMBA69](https://ja.wikipedia.org/wiki/NAMBA69 "wikilink") / [10-FEET](../Page/10-FEET.md "wikilink") / COQUETTISH / [MONGOL800](../Page/MONGOL800.md "wikilink") / [RIZE](../Page/RIZE.md "wikilink") / SHANK / [U CAN'T SAY NO\!](https://ja.wikipedia.org/wiki/U_CAN'T_SAY_NO! "wikilink") / [サンボマスター](../Page/サンボマスター.md "wikilink")
   - 2016年5月25日 - POSITIVE MENTAL CREW LIMITED LIVE Vol.1
   - 2016年8月24日〜8月26日 - KEMURI presents "SKA BRAVO 2016"
       -
@@ -1461,7 +1461,7 @@ CTCD-20053:CD</p></td>
   - 2007年07月27日 - FUJI ROCK FESTIVAL '07
   - 2007年08月17日 - RISING SUN ROCK FESTIVAL 2007 in EZO
   - 2007年08月26日 - Sky Jamboree 2007 〜遊び心〜
-  - 2007年10月08日 - [MUSIC ON\! TV](https://ja.wikipedia.org/wiki/MUSIC_ON!_TV "wikilink") GG07
+  - 2007年10月08日 - [MUSIC ON\! TV](../Page/MUSIC_ON!_TV.md "wikilink") GG07
   - 2007年10月09日 - [No Regret Life](../Page/No_Regret_Life.md "wikilink") presents "wonderful tonight\!\! vol.2"
   - 2007年10月18日 - NEUSE RECORDS presents STRANGE NIGHT vol.1
   - 2007年10月20日 - LAST UP IN SMOKE SPECIAL
@@ -1528,10 +1528,10 @@ CTCD-20053:CD</p></td>
 
   - [東京スカパラダイスオーケストラ](../Page/東京スカパラダイスオーケストラ.md "wikilink")
   - [Ken Yokoyama](https://ja.wikipedia.org/wiki/Ken_Yokoyama "wikilink")
-  - [POTSHOT](https://ja.wikipedia.org/wiki/POTSHOT "wikilink")
+  - [POTSHOT](../Page/POTSHOT.md "wikilink")
   - [DOBERMAN](../Page/DOBERMAN.md "wikilink")
   - [UGICHIN](../Page/UGICHIN.md "wikilink")
-  - [GELUGUGU](https://ja.wikipedia.org/wiki/GELUGUGU "wikilink")
+  - [GELUGUGU](../Page/GELUGUGU.md "wikilink")
   - [佐藤隆太](../Page/佐藤隆太.md "wikilink")
   - [UNSCANDAL](../Page/UNSCANDAL.md "wikilink")
 

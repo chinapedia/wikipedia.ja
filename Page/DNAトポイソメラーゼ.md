@@ -3,13 +3,13 @@
 
 **DNAトポイソメラーゼ**（**DNA topoisomerases**）とは、2本鎖[DNAの一方または両方を切断し再結合する](../Page/デオキシリボ核酸.md "wikilink")[酵素](../Page/酵素.md "wikilink")の総称である。
 
-環状の2重鎖DNAでは、2本の鎖は[位相幾何学](../Page/位相幾何学.md "wikilink")（トポロジー）的には[結び目があるのと等価であり](https://ja.wikipedia.org/wiki/結び目理論 "wikilink")、[ねじれ数の異なるDNA](https://ja.wikipedia.org/wiki/ひねり数 "wikilink")、つまりトポアイソマー（トポロジーの異なる[異性体](https://ja.wikipedia.org/wiki/異性体 "wikilink")）は、DNA鎖を切らない限り互いに変換できない。トポイソメラーゼはこの変換（topoisomerization）を触媒する異性化酵素という意味で命名された。[抗がん剤](https://ja.wikipedia.org/wiki/抗がん剤 "wikilink")や[抗生物質](https://ja.wikipedia.org/wiki/抗生物質 "wikilink")のターゲットとしても知られる。
+環状の2重鎖DNAでは、2本の鎖は[位相幾何学](../Page/位相幾何学.md "wikilink")（トポロジー）的には[結び目があるのと等価であり](https://ja.wikipedia.org/wiki/結び目理論 "wikilink")、[ねじれ数の異なるDNA](https://ja.wikipedia.org/wiki/ひねり数 "wikilink")、つまりトポアイソマー（トポロジーの異なる[異性体](https://ja.wikipedia.org/wiki/異性体 "wikilink")）は、DNA鎖を切らない限り互いに変換できない。トポイソメラーゼはこの変換（topoisomerization）を触媒する異性化酵素という意味で命名された。[抗がん剤](../Page/抗がん剤.md "wikilink")や[抗生物質](https://ja.wikipedia.org/wiki/抗生物質 "wikilink")のターゲットとしても知られる。
 
 ## DNAのトポロジーとトポイソメラーゼ
 
-2本鎖[DNA](https://ja.wikipedia.org/wiki/DNA "wikilink")は[二重らせん](https://ja.wikipedia.org/wiki/二重らせん "wikilink")構造を形成している。この[二重らせん](https://ja.wikipedia.org/wiki/二重らせん "wikilink")がさらに巻かれたり、逆にほどかれたりすると、DNA分子全体にひずみが生じることになる。これらを*' [DNA超らせん](https://ja.wikipedia.org/wiki/DNA超らせん "wikilink")構造**（前者を**正の超らせん**、後者を**負の超らせん**）という（**[DNA超らせん](https://ja.wikipedia.org/wiki/DNA超らせん "wikilink")*'の項参照）。
+2本鎖[DNA](https://ja.wikipedia.org/wiki/DNA "wikilink")は[二重らせん](../Page/二重らせん.md "wikilink")構造を形成している。この[二重らせん](../Page/二重らせん.md "wikilink")がさらに巻かれたり、逆にほどかれたりすると、DNA分子全体にひずみが生じることになる。これらを*' [DNA超らせん](https://ja.wikipedia.org/wiki/DNA超らせん "wikilink")構造**（前者を**正の超らせん**、後者を**負の超らせん**）という（**[DNA超らせん](https://ja.wikipedia.org/wiki/DNA超らせん "wikilink")*'の項参照）。
 
-[真核生物](../Page/真核生物.md "wikilink")のゲノムDNAは線状なので、位相幾何学的見地からトポロジーを議論することはできない。しかし現実にはDNAは非常に長い分子であり、両端の動きが固定されると局所的に超らせん構造をとることが知られている。また、[転写](https://ja.wikipedia.org/wiki/転写 "wikilink")、[複製](https://ja.wikipedia.org/wiki/DNA複製 "wikilink")、[修復などの際には](https://ja.wikipedia.org/wiki/DNA修復 "wikilink")、[二重らせん](https://ja.wikipedia.org/wiki/二重らせん "wikilink")構造にひずみが導入されるため、トポイソメラーゼがそのひずみを解くことが必須となる。DNAの[組換えや](https://ja.wikipedia.org/wiki/DNA組換え "wikilink")、[ウイルス](../Page/ウイルス.md "wikilink")のDNAが染色体に組み込まれる際などにも、トポイソメラーゼ活性が必要である。
+[真核生物](../Page/真核生物.md "wikilink")のゲノムDNAは線状なので、位相幾何学的見地からトポロジーを議論することはできない。しかし現実にはDNAは非常に長い分子であり、両端の動きが固定されると局所的に超らせん構造をとることが知られている。また、[転写](https://ja.wikipedia.org/wiki/転写 "wikilink")、[複製](https://ja.wikipedia.org/wiki/DNA複製 "wikilink")、[修復などの際には](../Page/DNA修復.md "wikilink")、[二重らせん](../Page/二重らせん.md "wikilink")構造にひずみが導入されるため、トポイソメラーゼがそのひずみを解くことが必須となる。DNAの[組換えや](https://ja.wikipedia.org/wiki/DNA組換え "wikilink")、[ウイルス](../Page/ウイルス.md "wikilink")のDNAが染色体に組み込まれる際などにも、トポイソメラーゼ活性が必要である。
 
 ## トポイソメラーゼの分類
 
@@ -56,7 +56,7 @@
 
 ## 関連項目
 
-  - [DNA](https://ja.wikipedia.org/wiki/DNA "wikilink")・[二重らせん](https://ja.wikipedia.org/wiki/二重らせん "wikilink")
+  - [DNA](https://ja.wikipedia.org/wiki/DNA "wikilink")・[二重らせん](../Page/二重らせん.md "wikilink")
   - [DNA超らせん](https://ja.wikipedia.org/wiki/DNA超らせん "wikilink")
   - [DNAジャイレース](../Page/DNAジャイレース.md "wikilink")
   - [染色体](../Page/染色体.md "wikilink")・[DNA複製](https://ja.wikipedia.org/wiki/DNA複製 "wikilink")・[転写](https://ja.wikipedia.org/wiki/転写 "wikilink")・[染色体凝縮](../Page/染色体凝縮.md "wikilink")

@@ -1,7 +1,7 @@
 > この記事は[PHS](https://ja.wikipedia.org/wiki/PHS)から翻訳されています。
 
 
-**携帯電話・PHSの事業者一覧**（けいたいでんわ・ピーエイチエスのじぎょうしゃいちらん）では、各国の、[携帯電話](../Page/携帯電話.md "wikilink")および[PHS](../Page/PHS.md "wikilink")の[事業者を以下に一覧とする](https://ja.wikipedia.org/wiki/電気通信事業者 "wikilink")。以下には既に事業から撤退したものも含む。詳細は各項を参照のこと。
+**携帯電話・PHSの事業者一覧**（けいたいでんわ・ピーエイチエスのじぎょうしゃいちらん）では、各国の、[携帯電話](../Page/携帯電話.md "wikilink")および[PHS](../Page/PHS.md "wikilink")の[事業者を以下に一覧とする](../Page/電気通信事業者.md "wikilink")。以下には既に事業から撤退したものも含む。詳細は各項を参照のこと。
 
 ## 携帯電話の事業者一覧
 
@@ -13,13 +13,13 @@
       - [沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")（au）
   - [ソフトバンクグループ](../Page/ソフトバンクグループ.md "wikilink")
       - [ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")（[SoftBank](../Page/SoftBank_\(携帯電話\).md "wikilink")、[Y\!mobile](https://ja.wikipedia.org/wiki/Y!mobile "wikilink")）
-      - [ウィルコム沖縄](https://ja.wikipedia.org/wiki/ウィルコム沖縄 "wikilink")（Y\!mobile）
+      - [ウィルコム沖縄](../Page/ウィルコム沖縄.md "wikilink")（Y\!mobile）
   - [楽天モバイル](https://ja.wikipedia.org/wiki/楽天モバイル_\(企業\) "wikilink")（[楽天モバイル](https://ja.wikipedia.org/wiki/楽天モバイル "wikilink")）
 
 ### アメリカ
 
-  - [AT\&T Mobility](https://ja.wikipedia.org/wiki/AT&Tモビリティ "wikilink")
-  - [Verizon Wireless](https://ja.wikipedia.org/wiki/ベライゾン・ワイヤレス "wikilink")
+  - [AT\&T Mobility](../Page/AT&Tモビリティ.md "wikilink")
+  - [Verizon Wireless](../Page/ベライゾン・ワイヤレス.md "wikilink")
   - [Sprint](../Page/スプリント_\(企業\).md "wikilink")（SoftBank）
   - [T-Mobile US](https://ja.wikipedia.org/wiki/T-Mobile_US "wikilink")
   - [KDDI Mobile](../Page/KDDIモバイル.md "wikilink")（SprintのMVNO）
@@ -36,7 +36,7 @@
 ### イギリス
 
   - [EE](https://ja.wikipedia.org/wiki/:en:EE_\(telecommunications_company\) "wikilink")（[Orange](../Page/Orange_\(通信会社\).md "wikilink")・[T-モバイル](../Page/T-モバイル.md "wikilink")）
-  - [O2](https://ja.wikipedia.org/wiki/:en:O2_\(United_Kingdom\) "wikilink")（[テレフォニカ](https://ja.wikipedia.org/wiki/テレフォニカ "wikilink")）
+  - [O2](https://ja.wikipedia.org/wiki/:en:O2_\(United_Kingdom\) "wikilink")（[テレフォニカ](../Page/テレフォニカ.md "wikilink")）
   - [Vodafone](https://ja.wikipedia.org/wiki/ボーダフォン "wikilink")
   - [Hutchison 3G](https://ja.wikipedia.org/wiki/:en:Hutchison_3G "wikilink")
   - [Talkmobile](https://ja.wikipedia.org/wiki/:en:Talkmobile "wikilink")
@@ -117,9 +117,9 @@
 
 ### 大韓民国
 
-  - [SKテレコム](https://ja.wikipedia.org/wiki/SKテレコム "wikilink")（SK telecom）
+  - [SKテレコム](../Page/SKテレコム.md "wikilink")（SK telecom）
   - [KT](https://ja.wikipedia.org/wiki/KT_\(通信企業\) "wikilink")
-  - [LGユープラス](https://ja.wikipedia.org/wiki/LGユープラス "wikilink")（LG telecom・[CanU](https://ja.wikipedia.org/wiki/CanU "wikilink")）
+  - [LGユープラス](../Page/LGユープラス.md "wikilink")（LG telecom・[CanU](https://ja.wikipedia.org/wiki/CanU "wikilink")）
 
 ### 台湾
 
@@ -139,9 +139,9 @@
 
 ### 中華人民共和国
 
-  - [中国移動通信](https://ja.wikipedia.org/wiki/中国移動通信 "wikilink")（China Mobile）
+  - [中国移動通信](../Page/中国移動通信.md "wikilink")（China Mobile）
   - [中国聯通](https://ja.wikipedia.org/wiki/チャイナ・ユニコム "wikilink")（China Unicom）
-  - [中国電信](https://ja.wikipedia.org/wiki/中国電信 "wikilink")（China Telecom）
+  - [中国電信](../Page/中国電信.md "wikilink")（China Telecom）
 
 ### 香港
 
@@ -190,7 +190,7 @@
 
   - ボーダフォン（） - 3の豪州法人を吸収。
 
-  - ヴァージン・モバイル・オーストラリア（） - [ヴァージン・グループ](https://ja.wikipedia.org/wiki/ヴァージン・グループ "wikilink")
+  - ヴァージン・モバイル・オーストラリア（） - [ヴァージン・グループ](../Page/ヴァージン・グループ.md "wikilink")
 
 ### ニュージーランド
 
@@ -223,7 +223,7 @@
 
 ### 日本
 
-  - [ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")、[ウィルコム沖縄](https://ja.wikipedia.org/wiki/ウィルコム沖縄 "wikilink")([Y\!mobile](https://ja.wikipedia.org/wiki/Y!mobile "wikilink"))
+  - [ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")、[ウィルコム沖縄](../Page/ウィルコム沖縄.md "wikilink")([Y\!mobile](https://ja.wikipedia.org/wiki/Y!mobile "wikilink"))
 
 ### 中国
 

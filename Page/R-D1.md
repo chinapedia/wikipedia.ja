@@ -5,11 +5,11 @@
 
 ## 概要
 
-R-D1は、[コシナ](https://ja.wikipedia.org/wiki/コシナ "wikilink")が[フォクトレンダー](https://ja.wikipedia.org/wiki/フォクトレンダー "wikilink")ブランドで発売している[ベッサ](https://ja.wikipedia.org/wiki/ベッサ "wikilink")Rシリーズを基礎として造られており、外観がこれに似る。レンズ交換式デジタルカメラであるにもかかわらず、巻き上げレバー\[1\]や巻き戻しクランクを模した操作系を配して[オートフォーカス](../Page/オートフォーカス.md "wikilink")は搭載しないなど、最新技術を投入した各社の[デジタル一眼レフとは一線を画す趣味性の高いカメラとなっていることが特徴である](../Page/一眼レフカメラ.md "wikilink")。
+R-D1は、[コシナ](../Page/コシナ.md "wikilink")が[フォクトレンダー](../Page/フォクトレンダー.md "wikilink")ブランドで発売している[ベッサ](https://ja.wikipedia.org/wiki/ベッサ "wikilink")Rシリーズを基礎として造られており、外観がこれに似る。レンズ交換式デジタルカメラであるにもかかわらず、巻き上げレバー\[1\]や巻き戻しクランクを模した操作系を配して[オートフォーカス](../Page/オートフォーカス.md "wikilink")は搭載しないなど、最新技術を投入した各社の[デジタル一眼レフとは一線を画す趣味性の高いカメラとなっていることが特徴である](../Page/一眼レフカメラ.md "wikilink")。
 
 画像処理もセイコーエプソンのプリンタ技術がフィードバックされたかなり独特なもので、いわゆる低ノイズを画質の売りとする一般的な感覚とは逆に、ピクセル等倍鑑賞では明らかにノイズの乗った表現を行う。このノイズは微粒子フィルムの粒状に近く、全体では高い階調感をもった質感のある描写となる\[2\]。
 
-セイコーエプソンは[レンズマウント](https://ja.wikipedia.org/wiki/レンズマウント "wikilink")について公式には**EMマウント**と称しているが、これは実質的に[ライカ](https://ja.wikipedia.org/wiki/ライカ "wikilink")Mマウントとほぼ完全な互換性があり、多くのライカレンズを使用することができる（super-angulon 21mm F3.4等、後玉の極度に突出したレンズは装着不可）。ただし、[撮像素子](https://ja.wikipedia.org/wiki/撮像素子 "wikilink")に[APS-Cサイズ](../Page/APS-Cサイズ.md "wikilink")の[CCDを用いているため](../Page/CCDイメージセンサ.md "wikilink")、ライカMマウント互換のレンズをR-D1に装着した場合、レンズの画角は焦点距離換算でオリジナルの約1.5倍相当となる。このため、元来レンジファインダー・カメラが得意とする広角側の焦点距離にR-D1では対応しにくいという矛盾も抱えている。ちなみに、セイコーエプソンからはEMマウントのレンズは発売されておらず、[コシナ・フォクトレンダーのLマウント](https://ja.wikipedia.org/wiki/フォクトレンダー#現代日本に蘇ったフォクトレンダー "wikilink")・VMマウントレンズ群を使用することが推奨されている。
+セイコーエプソンは[レンズマウント](../Page/レンズマウント.md "wikilink")について公式には**EMマウント**と称しているが、これは実質的に[ライカ](https://ja.wikipedia.org/wiki/ライカ "wikilink")Mマウントとほぼ完全な互換性があり、多くのライカレンズを使用することができる（super-angulon 21mm F3.4等、後玉の極度に突出したレンズは装着不可）。ただし、[撮像素子](../Page/撮像素子.md "wikilink")に[APS-Cサイズ](../Page/APS-Cサイズ.md "wikilink")の[CCDを用いているため](../Page/CCDイメージセンサ.md "wikilink")、ライカMマウント互換のレンズをR-D1に装着した場合、レンズの画角は焦点距離換算でオリジナルの約1.5倍相当となる。このため、元来レンジファインダー・カメラが得意とする広角側の焦点距離にR-D1では対応しにくいという矛盾も抱えている。ちなみに、セイコーエプソンからはEMマウントのレンズは発売されておらず、[コシナ・フォクトレンダーのLマウント](https://ja.wikipedia.org/wiki/フォクトレンダー#現代日本に蘇ったフォクトレンダー "wikilink")・VMマウントレンズ群を使用することが推奨されている。
 
 ## 脚注
 
@@ -17,7 +17,7 @@ R-D1は、[コシナ](https://ja.wikipedia.org/wiki/コシナ "wikilink")が[フ
 
 ## 関連項目
 
-  - [M8](https://ja.wikipedia.org/wiki/M8_\(カメラ\) "wikilink")（[ライカ](https://ja.wikipedia.org/wiki/ライカ "wikilink")のレンジファインダー式デジタルカメラ）
+  - [M8](../Page/M8_\(カメラ\).md "wikilink")（[ライカ](https://ja.wikipedia.org/wiki/ライカ "wikilink")のレンジファインダー式デジタルカメラ）
 
 [Category:デジタルカメラ](https://ja.wikipedia.org/wiki/Category:デジタルカメラ "wikilink") [Category:セイコー](https://ja.wikipedia.org/wiki/Category:セイコー "wikilink")
 

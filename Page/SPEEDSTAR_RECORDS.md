@@ -1,15 +1,15 @@
 > この記事は[SPEEDSTAR RECORDS](https://ja.wikipedia.org/wiki/SPEEDSTAR_RECORDS)から翻訳されています。
 
 
-**SPEEDSTAR RECORDS**（スピードスターレコーズ）は、音楽会社[JVCケンウッド・ビクターエンタテインメント](https://ja.wikipedia.org/wiki/JVCケンウッド・ビクターエンタテインメント "wikilink")の[社内カンパニー](../Page/社内カンパニー.md "wikilink")、ならびに[レーベルの一つである](../Page/レコードレーベル.md "wikilink")。設立は[1992年](../Page/1992年.md "wikilink")。設立者は[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")を発掘・育成した高垣健\[1\]。レーベル長は小野朗\[2\]。
+**SPEEDSTAR RECORDS**（スピードスターレコーズ）は、音楽会社[JVCケンウッド・ビクターエンタテインメント](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")の[社内カンパニー](../Page/社内カンパニー.md "wikilink")、ならびに[レーベルの一つである](../Page/レコードレーベル.md "wikilink")。設立は[1992年](../Page/1992年.md "wikilink")。設立者は[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")を発掘・育成した高垣健\[1\]。レーベル長は小野朗\[2\]。
 
 [キャッチコピー](../Page/キャッチコピー.md "wikilink")は,「*To be a Rock and Not to Roll*」。
 
 ## 概要
 
-傘下に[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")関連プライベートレーベルである[タイシタレーベル](https://ja.wikipedia.org/wiki/タイシタレーベル "wikilink")が存在する。最近ではビクターとは独立した行動が多くなってきている事もあり、[フライングドッグ](https://ja.wikipedia.org/wiki/フライングドッグ "wikilink")同様に社内組織的には分社状態になっている。
+傘下に[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")関連プライベートレーベルである[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")が存在する。最近ではビクターとは独立した行動が多くなってきている事もあり、[フライングドッグ](../Page/フライングドッグ.md "wikilink")同様に社内組織的には分社状態になっている。
 
-担当ディレクターの一人に元[FLATBACKER](https://ja.wikipedia.org/wiki/FLATBACKER "wikilink")（[E・Z・O](https://ja.wikipedia.org/wiki/E・Z・O "wikilink")）の高橋太郎がいる\[3\]。
+担当ディレクターの一人に元[FLATBACKER](../Page/FLATBACKER.md "wikilink")（[E・Z・O](https://ja.wikipedia.org/wiki/E・Z・O "wikilink")）の高橋太郎がいる\[3\]。
 
 ## 所属アーティスト
 
@@ -70,7 +70,7 @@
 <td><p>プライベートレーベルにSUPER ECHO LABELがクレジットされている</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/KICK_THE_CAN_CREW" title="wikilink">KICK THE CAN CREW</a></p></td>
+<td><p><a href="../Page/KICK_THE_CAN_CREW.md" title="wikilink">KICK THE CAN CREW</a></p></td>
 <td><p>キックザカンクルー</p></td>
 <td><p>2017年〜</p></td>
 <td><p>再結成。再結成前はワーナーミュージック・ジャパンに所属。</p></td>
@@ -88,13 +88,13 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/GRAPEVINE" title="wikilink">GRAPEVINE</a></p></td>
+<td><p><a href="../Page/GRAPEVINE.md" title="wikilink">GRAPEVINE</a></p></td>
 <td><p>グレイプバイン</p></td>
 <td><p>2014年〜</p></td>
 <td><p><a href="../Page/ポニーキャニオン.md" title="wikilink">ポニーキャニオン</a>より移籍</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/KREVA" title="wikilink">KREVA</a></p></td>
+<td><p><a href="../Page/KREVA.md" title="wikilink">KREVA</a></p></td>
 <td><p>クレバ</p></td>
 <td><p>2016年〜</p></td>
 <td><p>Knife Edgeより移籍</p></td>
@@ -114,7 +114,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/斉藤和義" title="wikilink">斉藤和義</a></p></td>
+<td><p><a href="../Page/斉藤和義.md" title="wikilink">斉藤和義</a></p></td>
 <td><p>さいとうかずよし</p></td>
 <td><p>2000年〜</p></td>
 <td><p>ファンハウスより移籍</p></td>
@@ -126,7 +126,7 @@
 <td><p>なお、所属レーベルは<a href="https://ja.wikipedia.org/wiki/ユニバーサルミュージック合同会社" title="wikilink">ユニバーサル・ミュージック系の</a><a href="../Page/Virgin_Music.md" title="wikilink">Virgin Music</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/スガシカオ" title="wikilink">スガシカオ</a></p>
+<td><p><a href="../Page/スガシカオ.md" title="wikilink">スガシカオ</a></p>
 <ul>
 <li><a href="https://ja.wikipedia.org/wiki/kokua" title="wikilink">kokua</a></li>
 </ul></td>
@@ -138,7 +138,7 @@
 BMG JAPANから移籍</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/SPECIAL_OTHERS" title="wikilink">SPECIAL OTHERS</a></p></td>
+<td><p><a href="../Page/SPECIAL_OTHERS.md" title="wikilink">SPECIAL OTHERS</a></p></td>
 <td><p>スペシャルアザース</p></td>
 <td><p>2010年〜</p></td>
 <td></td>
@@ -168,7 +168,7 @@ BMG JAPANから移籍</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/THE_BACK_HORN" title="wikilink">THE BACK HORN</a></p></td>
+<td><p><a href="../Page/THE_BACK_HORN.md" title="wikilink">THE BACK HORN</a></p></td>
 <td><p>ザバックホーン</p></td>
 <td><p>2001年〜</p></td>
 <td></td>
@@ -186,7 +186,7 @@ BMG JAPANから移籍</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/藤巻亮太" title="wikilink">藤巻亮太</a></p></td>
+<td><p><a href="../Page/藤巻亮太.md" title="wikilink">藤巻亮太</a></p></td>
 <td><p>ふじまきりょうた</p></td>
 <td><p>2014年〜</p></td>
 <td><p>2014年10月に<a href="https://ja.wikipedia.org/wiki/OORONG_RECORDS" title="wikilink">OORONG RECORDSから移籍</a></p></td>
@@ -198,7 +198,7 @@ BMG JAPANから移籍</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/FLYING_KIDS" title="wikilink">FLYING KIDS</a></p></td>
+<td><p><a href="../Page/FLYING_KIDS.md" title="wikilink">FLYING KIDS</a></p></td>
 <td><p>フライングキッズ</p></td>
 <td><p>1993年〜2008年<br />
 2017年〜</p></td>
@@ -221,7 +221,7 @@ BMG JAPANから移籍</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/MANNISH_BOYS" title="wikilink">MANNISH BOYS</a></p></td>
 <td><p>マニッシュボーイズ</p></td>
 <td><p>2012年〜</p></td>
-<td><p>斉藤和義と<a href="https://ja.wikipedia.org/wiki/中村達也_(ドラマー)" title="wikilink">中村達也によるユニット</a></p></td>
+<td><p>斉藤和義と<a href="../Page/中村達也_(ドラマー).md" title="wikilink">中村達也によるユニット</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/むぎ_(猫)" title="wikilink">むぎ (猫)</a></p></td>
@@ -270,11 +270,11 @@ BMG JAPANから移籍</p></td>
 | ------------------------------------------------------------------------- | -------- | ----------- | -------------------------------------- |
 | [GROUND REVERSE](https://ja.wikipedia.org/wiki/GROUND_REVERSE "wikilink") | グランドリバース | 2001年       |                                        |
 | [KTU](https://ja.wikipedia.org/wiki/KTU "wikilink")                       | ケツ       | 2001年       | こだま和文、LITTLE TEMPOの土生“TICO”剛・内田直之のユニット |
-| [こだま和文](https://ja.wikipedia.org/wiki/こだま和文 "wikilink")                   | こだまかずふみ  | 1999年〜2003年 |                                        |
+| [こだま和文](../Page/こだま和文.md "wikilink")                                      | こだまかずふみ  | 1999年〜2003年 |                                        |
 | [ジュディ・オング](https://ja.wikipedia.org/wiki/ジュディ・オング "wikilink")             | ジュディオング  | 2004年       |                                        |
 | [Ska Cubano](https://ja.wikipedia.org/wiki/スカ・クバーノ "wikilink")            | スカ・クバーノ  | 2005年       |                                        |
 | [DUB SQUAD](https://ja.wikipedia.org/wiki/DUB_SQUAD "wikilink")           | ダブスクワッド  | 2001年       |                                        |
-| [Double Famous](https://ja.wikipedia.org/wiki/Double_Famous "wikilink")   | ダブルフェイマス | 2001年〜2005年 | rhythm zoneに移籍                         |
+| [Double Famous](../Page/Double_Famous.md "wikilink")                      | ダブルフェイマス | 2001年〜2005年 | rhythm zoneに移籍                         |
 | [Miho Hatori](../Page/羽鳥美保.md "wikilink")                                 | はとりみほ    | 2005年       |                                        |
 | [LITTLE TEMPO](../Page/LITTLE_TEMPO.md "wikilink")                        | リトルテンポ   | 2003年〜2006年 | Sunshine Recordsに移籍                    |
 |                                                                           |          |             |                                        |
@@ -301,7 +301,7 @@ BMG JAPANから移籍</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/AJICO" title="wikilink">AJICO</a></p></td>
+<td><p><a href="../Page/AJICO.md" title="wikilink">AJICO</a></p></td>
 <td><p>アジコ</p></td>
 <td><p>2000年〜2001年</p></td>
 <td><p>活動停止</p></td>
@@ -337,7 +337,7 @@ BMG JAPANから移籍</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ARB_(バンド)" title="wikilink">ARB</a></p></td>
+<td><p><a href="../Page/ARB_(バンド).md" title="wikilink">ARB</a></p></td>
 <td><p>エーアールビー</p></td>
 <td></td>
 <td><p>再発盤のみ</p></td>
@@ -367,7 +367,7 @@ BMG JAPANから移籍</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/小倉博和" title="wikilink">小倉博和</a></p></td>
+<td><p><a href="../Page/小倉博和.md" title="wikilink">小倉博和</a></p></td>
 <td><p>おぐらひろかず</p></td>
 <td><p>2016年</p></td>
 <td></td>
@@ -435,7 +435,7 @@ BMG JAPANから移籍</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>!<a href="../Page/KYONO.md" title="wikilink">KYONO</a> + <a href="https://ja.wikipedia.org/wiki/DJ_BAKU" title="wikilink">DJBAKU</a></p></td>
+<td><p>!<a href="../Page/KYONO.md" title="wikilink">KYONO</a> + <a href="../Page/DJ_BAKU.md" title="wikilink">DJBAKU</a></p></td>
 <td><p>!</p></td>
 <td><p>キョーノプラスディージェイバク</p></td>
 </tr>
@@ -446,7 +446,7 @@ BMG JAPANから移籍</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/加藤貴子_(女優)" title="wikilink">加藤貴子とKOTONEによるデュオ</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/クラッシュ・イン・アントワープ" title="wikilink">クラッシュ・イン・アントワープ</a></p></td>
+<td><p><a href="../Page/クラッシュ・イン・アントワープ.md" title="wikilink">クラッシュ・イン・アントワープ</a></p></td>
 <td><p>クラッシュインアントワープ</p></td>
 <td><p>2003年〜2004年</p></td>
 <td><p>2004年10月解散</p></td>
@@ -477,7 +477,7 @@ BMG JAPANから移籍</p></td>
 <td><p>2016年同じビクターエンタテインメント内のレーベル<a href="https://ja.wikipedia.org/wiki/Colourful_Records" title="wikilink">Colourful Recordsに移籍</a>。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/KONTA" title="wikilink">KONTA</a></p></td>
+<td><p><a href="../Page/KONTA.md" title="wikilink">KONTA</a></p></td>
 <td><p>コンタ</p></td>
 <td><p>1993年〜1996年</p></td>
 <td><p>DAIPRO-Xに移籍</p></td>
@@ -489,7 +489,7 @@ BMG JAPANから移籍</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/SOUTH_BLOW" title="wikilink">SOUTH BLOW</a></p></td>
+<td><p><a href="../Page/SOUTH_BLOW.md" title="wikilink">SOUTH BLOW</a></p></td>
 <td><p>サウスブロウ</p></td>
 <td><p>2006年〜2007年</p></td>
 <td><p>2008年よりリリースなし</p></td>
@@ -507,7 +507,7 @@ BMG JAPANから移籍</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/シーナ&amp;ザ・ロケッツ" title="wikilink">SHEENA &amp; THE ROKKETS</a></p></td>
+<td><p><a href="../Page/シーナ&amp;ザ・ロケッツ.md" title="wikilink">SHEENA &amp; THE ROKKETS</a></p></td>
 <td><p>シーナアンドザロケッツ</p></td>
 <td><p>1992年〜2014年</p></td>
 <td><p>2015年ボーカルの<a href="https://ja.wikipedia.org/wiki/シーナ_(歌手)" title="wikilink">シーナが死去</a>。</p></td>
@@ -519,7 +519,7 @@ BMG JAPANから移籍</p></td>
 <td><p><a href="../Page/THE_STAR_CLUB.md" title="wikilink">THE STAR CLUBのHIKAGEを中心としたバンド</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/Jungle_Smile" title="wikilink">Jungle Smile</a></p></td>
+<td><p><a href="../Page/Jungle_Smile.md" title="wikilink">Jungle Smile</a></p></td>
 <td><p>ジャングルスマイル</p></td>
 <td><p>1996年〜2002年</p></td>
 <td><p>2002年12月18日活動休止</p></td>
@@ -537,7 +537,7 @@ BMG JAPANから移籍</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/百田留衣" title="wikilink">百田留衣</a>と<a href="https://ja.wikipedia.org/wiki/Pay_money_To_my_Pain#メンバー" title="wikilink">澤村パブロ良明のユニット</a>、2002年解散</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/SINGER_SONGER" title="wikilink">SINGER SONGER</a></p></td>
+<td><p><a href="../Page/SINGER_SONGER.md" title="wikilink">SINGER SONGER</a></p></td>
 <td><p>シンガーソンガー</p></td>
 <td><p>2005年</p></td>
 <td><p>活動停止</p></td>
@@ -581,7 +581,7 @@ BMG JAPANから移籍</p></td>
 <td><p>SEVEN</p></td>
 <td><p>セブン</p></td>
 <td><p>1999年</p></td>
-<td><p>斉藤和義・<a href="https://ja.wikipedia.org/wiki/伊藤広規" title="wikilink">伊藤広規</a>・<a href="https://ja.wikipedia.org/wiki/小田原豊" title="wikilink">小田原豊</a>によるユニット。同名のアルバムを発売</p></td>
+<td><p>斉藤和義・<a href="https://ja.wikipedia.org/wiki/伊藤広規" title="wikilink">伊藤広規</a>・<a href="../Page/小田原豊.md" title="wikilink">小田原豊</a>によるユニット。同名のアルバムを発売</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/SOIL&amp;&quot;PIMP&quot;SESSIONS.md" title="wikilink">SOIL&amp;"PIMP"SESSIONS</a></p></td>
@@ -590,7 +590,7 @@ BMG JAPANから移籍</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/田渕岩夫" title="wikilink">田渕岩夫</a></p></td>
+<td><p><a href="../Page/田渕岩夫.md" title="wikilink">田渕岩夫</a></p></td>
 <td><p>たぶちいわお</p></td>
 <td></td>
 <td><p>自主製作盤『もう二度と京都』が演歌では異例の本レーベルからの発売だったが、<br />
@@ -603,7 +603,7 @@ BMG JAPANから移籍</p></td>
 <td><p>P-VINEに移籍</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/チエ・カジウラ" title="wikilink">チエ・カジウラ</a></p></td>
+<td><p><a href="../Page/チエ・カジウラ.md" title="wikilink">チエ・カジウラ</a></p></td>
 <td><p>チエカジウラ</p></td>
 <td><p>1995年〜1996年</p></td>
 <td></td>
@@ -681,7 +681,7 @@ BMG JAPANから移籍</p></td>
 <td><p>2011年12月で契約解消→2013年3月より新レーベル新設</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/浜田麻里" title="wikilink">浜田麻里</a></p></td>
+<td><p><a href="../Page/浜田麻里.md" title="wikilink">浜田麻里</a></p></td>
 <td><p>はまだまり</p></td>
 <td></td>
 <td><p>デビューから1990年までInvitation在籍だったが、<br />
@@ -695,7 +695,7 @@ BMG JAPANから移籍</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/80_pan" title="wikilink">ハレンチ☆パンチ</a></p></td>
+<td><p><a href="../Page/80_pan.md" title="wikilink">ハレンチ☆パンチ</a></p></td>
 <td><p>ハレパン</p></td>
 <td><p>2008年〜2009年</p></td>
 <td><p>→80★PAN!→80_pan→2009年6月解散（SweetStar Label所属）</p></td>
@@ -713,7 +713,7 @@ BMG JAPANから移籍</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/HiGE" title="wikilink">髭（HiGE）</a></p></td>
+<td><p><a href="../Page/HiGE.md" title="wikilink">髭（HiGE）</a></p></td>
 <td><p>ひげ</p></td>
 <td><p>2005年〜2011年</p></td>
 <td><p><a href="../Page/日本コロムビア.md" title="wikilink">日本コロムビア</a>に移籍</p></td>
@@ -725,19 +725,19 @@ BMG JAPANから移籍</p></td>
 <td><p><a href="../Page/大沢伸一.md" title="wikilink">大沢伸一</a>と<a href="https://ja.wikipedia.org/wiki/Monday満ちる" title="wikilink">Monday満ちる</a>のユニット</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/The_5_TEARDROPS" title="wikilink">The 5 TEARDROPS</a></p></td>
+<td><p><a href="../Page/The_5_TEARDROPS.md" title="wikilink">The 5 TEARDROPS</a></p></td>
 <td><p>ザファイブティアドロップス</p></td>
 <td><p>1992年</p></td>
 <td><p>1994年2月解散、2003年再結成</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/FUZZY_CONTROL" title="wikilink">FUZZY CONTROL</a></p></td>
+<td><p><a href="../Page/FUZZY_CONTROL.md" title="wikilink">FUZZY CONTROL</a></p></td>
 <td><p>ファジーコントロール</p></td>
 <td><p>2005年</p></td>
 <td><p>活動休止</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/風味堂" title="wikilink">風味堂</a></p></td>
+<td><p><a href="../Page/風味堂.md" title="wikilink">風味堂</a></p></td>
 <td><p>ふうみどう</p></td>
 <td><p>2004年〜2015年</p></td>
 <td></td>
@@ -761,13 +761,13 @@ BMG JAPANから移籍</p></td>
 <td><p>2005年12月31日解散（SweetStar Label所属）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/Mighty_Jam_Rock" title="wikilink">Mighty Jam Rock</a></p></td>
+<td><p><a href="../Page/Mighty_Jam_Rock.md" title="wikilink">Mighty Jam Rock</a></p></td>
 <td><p>マイティジャムロック</p></td>
 <td><p>2005年</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/マキタスポーツ" title="wikilink">マキタスポーツ</a></p></td>
+<td><p><a href="../Page/マキタスポーツ.md" title="wikilink">マキタスポーツ</a></p></td>
 <td><p>マキタスポーツ</p></td>
 <td><p>2013年</p></td>
 <td></td>
@@ -779,7 +779,7 @@ BMG JAPANから移籍</p></td>
 <td><p>1989年11月6日死去。再発盤のみ</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/THE_MAD_CAPSULE_MARKETS" title="wikilink">THE MAD CAPSULE MARKETS</a></p></td>
+<td><p><a href="../Page/THE_MAD_CAPSULE_MARKETS.md" title="wikilink">THE MAD CAPSULE MARKETS</a></p></td>
 <td><p>ザマッドカプセルマーケッツ</p></td>
 <td><p>1997年〜2004年</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_(日本)" title="wikilink">SMEへ移籍するも</a>2006年活動休止</p></td>
@@ -791,7 +791,7 @@ BMG JAPANから移籍</p></td>
 <td><p>2007年よりリリースなし（SweetStar Label所属）</p></td>
 </tr>
 <tr class="odd">
-<td><p>DJ<a href="https://ja.wikipedia.org/wiki/松本素生" title="wikilink">松本素生</a></p></td>
+<td><p>DJ<a href="../Page/松本素生.md" title="wikilink">松本素生</a></p></td>
 <td><p>まつもとそう</p></td>
 <td><p>2009年</p></td>
 <td></td>
@@ -809,7 +809,7 @@ BMG JAPANから移籍</p></td>
 <td><p>2010年後半ビクターから契約解除</p></td>
 </tr>
 <tr class="even">
-<td><p>369 + <a href="https://ja.wikipedia.org/wiki/ケツメイシ" title="wikilink">RYO</a> + <a href="../Page/アルファ_(音楽グループ).md" title="wikilink">TSUBOI</a> + <a href="https://ja.wikipedia.org/wiki/矢井田瞳" title="wikilink">YAIKO</a></p></td>
+<td><p>369 + <a href="../Page/ケツメイシ.md" title="wikilink">RYO</a> + <a href="../Page/アルファ_(音楽グループ).md" title="wikilink">TSUBOI</a> + <a href="https://ja.wikipedia.org/wiki/矢井田瞳" title="wikilink">YAIKO</a></p></td>
 <td><p>ミロクリョウツボイヤイコ</p></td>
 <td><p>2009年</p></td>
 <td></td>
@@ -833,7 +833,7 @@ BMG JAPANから移籍</p></td>
 <td><p>2007年よりリリースなし（SweetStar Label所属）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/THEラブ人間" title="wikilink">THEラブ人間</a></p></td>
+<td><p><a href="../Page/THEラブ人間.md" title="wikilink">THEラブ人間</a></p></td>
 <td><p>ザラブにんげん</p></td>
 <td><p>2012年〜2013年</p></td>
 <td><p>→喫茶恋愛至上主義</p></td>
@@ -861,13 +861,13 @@ BMG JAPANから移籍</p></td>
 2008年3月9日死去</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/レミオロメン" title="wikilink">レミオロメン</a></p></td>
+<td><p><a href="../Page/レミオロメン.md" title="wikilink">レミオロメン</a></p></td>
 <td><p>レミオロメン</p></td>
 <td><p>2005年〜2008年</p></td>
 <td><p>2012年活動休止。2014年10月に<a href="https://ja.wikipedia.org/wiki/OORONG_RECORDS" title="wikilink">OORONG RECORDSから復帰</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/Leyona" title="wikilink">Leyona</a></p></td>
+<td><p><a href="../Page/Leyona.md" title="wikilink">Leyona</a></p></td>
 <td><p>レヨナ</p></td>
 <td><p>2005年〜2007年</p></td>
 <td><p>エピックレコードジャパン→ビクターエンタテインメント→cutting edge</p></td>
@@ -1059,7 +1059,7 @@ VICL-61506</p></td>
 <div class="NavContent" style="text-align:left;">
 <ol>
 <li><a href="../Page/ハイウェイ_(曲).md" title="wikilink">ハイウェイ</a>＜Alternative＞ / くるり</li>
-<li><a href="https://ja.wikipedia.org/wiki/日曜日よりの使者" title="wikilink">日曜日よりの使者</a> / ザ・ハイロウズ</li>
+<li><a href="../Page/日曜日よりの使者.md" title="wikilink">日曜日よりの使者</a> / ザ・ハイロウズ</li>
 <li><a href="https://ja.wikipedia.org/wiki/Raining" title="wikilink">Raining</a> / Cocco</li>
 <li>YUMEGIWA LAST BOY / SUPERCAR</li>
 <li><a href="../Page/風になる_(つじあやのの曲).md" title="wikilink">風になる</a> / つじあやの</li>
@@ -1296,10 +1296,10 @@ VICL-61506</p></td>
 </div>
 <div class="NavContent" style="text-align:left;">
 <ul>
-<li>2009年9月29日公演「ベリーイージーライダー」 ： 斉藤和義×<a href="https://ja.wikipedia.org/wiki/斉木しげる" title="wikilink">斉木しげる</a>×<a href="https://ja.wikipedia.org/wiki/石井正則" title="wikilink">石井正則</a></li>
-<li>2009年9月30日公演「ウクレレを弾く女」 ： つじあやの×<a href="https://ja.wikipedia.org/wiki/北村有起哉" title="wikilink">北村有起哉</a></li>
-<li>2009年10月1日公演「酒とタバコと男と男」 ： EGO-WRAPPIN'×<a href="https://ja.wikipedia.org/wiki/八島智人" title="wikilink">八島智人</a>×<a href="https://ja.wikipedia.org/wiki/音尾琢真" title="wikilink">音尾琢真</a></li>
-<li>2009年10月2日公演「今夜はオーディション」 ： スチャダラパー×斉木しげる×<a href="https://ja.wikipedia.org/wiki/板尾創路" title="wikilink">板尾創路</a></li>
+<li>2009年9月29日公演「ベリーイージーライダー」 ： 斉藤和義×<a href="../Page/斉木しげる.md" title="wikilink">斉木しげる</a>×<a href="../Page/石井正則.md" title="wikilink">石井正則</a></li>
+<li>2009年9月30日公演「ウクレレを弾く女」 ： つじあやの×<a href="../Page/北村有起哉.md" title="wikilink">北村有起哉</a></li>
+<li>2009年10月1日公演「酒とタバコと男と男」 ： EGO-WRAPPIN'×<a href="https://ja.wikipedia.org/wiki/八島智人" title="wikilink">八島智人</a>×<a href="../Page/音尾琢真.md" title="wikilink">音尾琢真</a></li>
+<li>2009年10月2日公演「今夜はオーディション」 ： スチャダラパー×斉木しげる×<a href="../Page/板尾創路.md" title="wikilink">板尾創路</a></li>
 <li>2009年10月3日公演「ロックンロール急行殺人事件」 ： ムッシュかまやつ×八島智人
 </div>
 </div></li>
@@ -1333,7 +1333,7 @@ VICL-61506</p></td>
 <tbody>
 <tr class="odd">
 <td><p>1996年06月05日</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/透明人間_(テレビドラマ)" title="wikilink">透明人間</a>」オリジナル・サウンドトラック</p></td>
+<td><p>「<a href="../Page/透明人間_(テレビドラマ).md" title="wikilink">透明人間</a>」オリジナル・サウンドトラック</p></td>
 <td><p>VICL-5328</p></td>
 </tr>
 <tr class="even">
@@ -1343,7 +1343,7 @@ VICL-61506</p></td>
 </tr>
 <tr class="odd">
 <td><p>2002年09月19日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/水の女" title="wikilink">水の女</a> Original Soundtrack</p></td>
+<td><p><a href="../Page/水の女.md" title="wikilink">水の女</a> Original Soundtrack</p></td>
 <td><p>VICL-60975:CD<br />
 VIJL-60098:LP</p></td>
 </tr>
@@ -1410,7 +1410,7 @@ VIZL-117</p></td>
 </tr>
 <tr class="even">
 <td><p>2019年03月27日</p></td>
-<td><p>劇場版 <a href="https://ja.wikipedia.org/wiki/若おかみは小学生!" title="wikilink">若おかみは小学生!</a> オリジナルサウンドトラック</p></td>
+<td><p>劇場版 <a href="../Page/若おかみは小学生!.md" title="wikilink">若おかみは小学生!</a> オリジナルサウンドトラック</p></td>
 <td><p>VICL-65157</p></td>
 </tr>
 <tr class="odd">
@@ -1470,4 +1470,4 @@ VIZL-117</p></td>
 
 1.  [ロックレーベルの名門「スピードスター」が15周年 創始者が明かす、その原点と次への野望](http://trendy.nikkeibp.co.jp/article/column/20071029/1003941/?ST=trnmobile) 日経トレンディネット 2015年11月17日閲覧
 2.  [SPEEDSTAR RECORDSレーベル長、小野朗氏インタビュー「メジャーレーベルとして、タコツボの臨界を超えていく」](http://realsound.jp/2016/04/post-7155_entry.html) リアルサウンド 2016年4月17日配信 2016年4月18日閲覧。 っr
-3.  『ヘドバン』Vol.2（[シンコーミュージック・エンタテイメント](https://ja.wikipedia.org/wiki/シンコーミュージック・エンタテイメント "wikilink") 2013年12月10日発行） 103p
+3.  『ヘドバン』Vol.2（[シンコーミュージック・エンタテイメント](../Page/シンコーミュージック・エンタテイメント.md "wikilink") 2013年12月10日発行） 103p

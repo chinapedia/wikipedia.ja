@@ -1,7 +1,7 @@
 > この記事は[Rio \(\)](https://ja.wikipedia.org/wiki/Rio_\(\))から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:RioCarbon5GB.jpg "wikilink") **Rio**（りお）とは、[デジタルオーディオプレーヤー](../Page/デジタルオーディオプレーヤー.md "wikilink")ブランドの名称である。[北米](https://ja.wikipedia.org/wiki/北米 "wikilink")・[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")・[アジア](https://ja.wikipedia.org/wiki/アジア "wikilink")地域を中心とした携帯オーディオ市場で、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")の約7年間販売されていた。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:RioCarbon5GB.jpg "wikilink") **Rio**（りお）とは、[デジタルオーディオプレーヤー](../Page/デジタルオーディオプレーヤー.md "wikilink")ブランドの名称である。[北米](https://ja.wikipedia.org/wiki/北米 "wikilink")・[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")・[アジア](../Page/アジア.md "wikilink")地域を中心とした携帯オーディオ市場で、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")-[2005年](../Page/2005年.md "wikilink")の約7年間販売されていた。
 
 ## 概要
 
@@ -15,9 +15,9 @@
 
 [2002年](../Page/2002年.md "wikilink")10月16日、米Ecast社とRio Port社が合併。社名はEcastを引き続き使うことになった。以降の製品は再びソニックブルーからの発売となる。
 
-[2003年](../Page/2003年.md "wikilink")3月にアメリカのソニックブルー社が倒産。その後日本の[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")[ディーアンドエムホールディングス](../Page/ディーアンドエムホールディングス.md "wikilink")が、MP3プレーヤーRioブランド事業・HDDレコーダー事業を4,000万ドルで買収し、販売を継承していた。(GoVideo事業はOpta Systemsに売却。その後、MP3プレイヤーの開発スタッフは後にSIRENを設立。)7月にはRioPort Online Music Storeが終了。さらに、[アップルの](../Page/アップル_\(企業\).md "wikilink")[IPod](../Page/IPod.md "wikilink")がMP3プレーヤー市場でのシェアを急速に伸ばし、Rioのシェアを急激に低下させた。経営が悪化し[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")7月に米[SigmaTelに知的財産](https://ja.wikipedia.org/wiki/:en:SigmaTel "wikilink")、および技術資産の一部を売却。同8月にはMP3プレーヤー事業からの撤退をディーアンドエムホールディングスが発表。Rioのブランド権の継承引き受け先のないまま9月末までに販売活動を終了した。
+[2003年](../Page/2003年.md "wikilink")3月にアメリカのソニックブルー社が倒産。その後日本の[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")[ディーアンドエムホールディングス](../Page/ディーアンドエムホールディングス.md "wikilink")が、MP3プレーヤーRioブランド事業・HDDレコーダー事業を4,000万ドルで買収し、販売を継承していた。(GoVideo事業はOpta Systemsに売却。その後、MP3プレイヤーの開発スタッフは後にSIRENを設立。)7月にはRioPort Online Music Storeが終了。さらに、[アップルの](../Page/アップル_\(企業\).md "wikilink")[IPod](../Page/IPod.md "wikilink")がMP3プレーヤー市場でのシェアを急速に伸ばし、Rioのシェアを急激に低下させた。経営が悪化し[2005年](../Page/2005年.md "wikilink")7月に米[SigmaTelに知的財産](https://ja.wikipedia.org/wiki/:en:SigmaTel "wikilink")、および技術資産の一部を売却。同8月にはMP3プレーヤー事業からの撤退をディーアンドエムホールディングスが発表。Rioのブランド権の継承引き受け先のないまま9月末までに販売活動を終了した。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に行われたCESで、Sigmatelが新型チップSTMP3600を搭載したRioブランドの新型プレイヤー「Rio Avalon」、「Rio Cubic」を発表したが、立ち消えとなった。ただし、Avalonについては、デザイン以外ほぼ同等の機種を、[2007年](../Page/2007年.md "wikilink")にドイツの[TrekStor社が](https://ja.wikipedia.org/wiki/:en:TrekStor "wikilink")、[Vibezという名前でリリースしている](https://ja.wikipedia.org/wiki/:en:TrekStor_Vibez "wikilink")。
+[2006年](../Page/2006年.md "wikilink")に行われたCESで、Sigmatelが新型チップSTMP3600を搭載したRioブランドの新型プレイヤー「Rio Avalon」、「Rio Cubic」を発表したが、立ち消えとなった。ただし、Avalonについては、デザイン以外ほぼ同等の機種を、[2007年](../Page/2007年.md "wikilink")にドイツの[TrekStor社が](https://ja.wikipedia.org/wiki/:en:TrekStor "wikilink")、[Vibezという名前でリリースしている](https://ja.wikipedia.org/wiki/:en:TrekStor_Vibez "wikilink")。
 
 ## 主なRio製品一覧
 

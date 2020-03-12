@@ -1,7 +1,7 @@
 > この記事は[My stay in sendai](https://ja.wikipedia.org/wiki/My_stay_in_sendai)から翻訳されています。
 
 
-**my stay in sendai**は[イ・スヨン](https://ja.wikipedia.org/wiki/イ・スヨン "wikilink")の4枚目のアルバム。[仙台](https://ja.wikipedia.org/wiki/仙台 "wikilink")の叙情的な古い家屋、蓮の池を背景にしたイ・スヨンの写真がジャケットにあしらわれている。音楽が仙台にちなんでいるわけではない。
+**my stay in sendai**は[イ・スヨン](../Page/イ・スヨン.md "wikilink")の4枚目のアルバム。[仙台](https://ja.wikipedia.org/wiki/仙台 "wikilink")の叙情的な古い家屋、蓮の池を背景にしたイ・スヨンの写真がジャケットにあしらわれている。音楽が仙台にちなんでいるわけではない。
 
 「ラララ」は[ホテルビーナスの挿入曲に使用された](https://ja.wikipedia.org/wiki/ホテルビーナス_\(映画\) "wikilink")。
 
@@ -17,7 +17,7 @@
 
 5.
 6.    -
-        （[神話のキム](https://ja.wikipedia.org/wiki/神話_\(音楽グループ\) "wikilink")・ドンワンが一部参加）
+        （[神話のキム](../Page/神話_\(音楽グループ\).md "wikilink")・ドンワンが一部参加）
 
 7.  Interldue1
 
@@ -37,10 +37,10 @@
 
 14. Interlude2
 
-15. （[素敵だね](https://ja.wikipedia.org/wiki/素敵だね "wikilink")）
+15. （[素敵だね](../Page/素敵だね.md "wikilink")）
 
       -
-        [RIKKI](https://ja.wikipedia.org/wiki/RIKKI "wikilink")のカヴァー。[ファイナルファンタジーX](https://ja.wikipedia.org/wiki/ファイナルファンタジーX "wikilink") (International version) O.S.T。
+        [RIKKI](../Page/RIKKI.md "wikilink")のカヴァー。[ファイナルファンタジーX](../Page/ファイナルファンタジーX.md "wikilink") (International version) O.S.T。
 
 16. （「[2001 Live {{lang](https://ja.wikipedia.org/wiki/w:ko:그녀에게_감사해요 "wikilink")」より）
 

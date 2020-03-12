@@ -1,7 +1,7 @@
 > この記事は[INTEGRATE](https://ja.wikipedia.org/wiki/INTEGRATE)から翻訳されています。
 
 
-**INTEGRATE**（インテグレート）は、[資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")が[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[8月21日](../Page/8月21日.md "wikilink")から[資生堂フィティット](https://ja.wikipedia.org/wiki/資生堂フィティット "wikilink")を通じて展開している、セルフ[メーキャップ](https://ja.wikipedia.org/wiki/メーキャップ "wikilink")[ブランド](../Page/ブランド.md "wikilink")の名前である。資生堂のメガブランド構想第5弾。
+**INTEGRATE**（インテグレート）は、[資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")が[2006年](../Page/2006年.md "wikilink")[8月21日](../Page/8月21日.md "wikilink")から[資生堂フィティット](https://ja.wikipedia.org/wiki/資生堂フィティット "wikilink")を通じて展開している、セルフ[メーキャップ](https://ja.wikipedia.org/wiki/メーキャップ "wikilink")[ブランド](../Page/ブランド.md "wikilink")の名前である。資生堂のメガブランド構想第5弾。
 
 この項では、サブブランドである**INTEGRATE GRACY**（インテグレート グレイシイ）についても併せて説明する。
 
@@ -9,13 +9,13 @@
 
   - INTEGRATEは、顔のパーツを「唇・瞳・まつ毛・眉・肌・指」の6つに分類し、それぞれのパーツにおける「理想の美しさ」を、優れた仕上がりや効果で簡単に実感できるメーキャップアイテムを発表するブランドを標榜している。
   - INTEGRATEという名前には、「理想のパーツ美」を統合し「理想の美しさ」を実現、また「美」と「効果」の完全融合という想いが込められている。ちなみに「integrate」とは、英語で「統一する、融合する、[積分する](https://ja.wikipedia.org/wiki/積分法 "wikilink")」という意味である。
-  - [イメージモデルに](https://ja.wikipedia.org/wiki/イメージキャラクター "wikilink")[ハリウッド](../Page/ハリウッド.md "wikilink")[女優の](../Page/俳優.md "wikilink")[アンジェリーナ・ジョリー](https://ja.wikipedia.org/wiki/アンジェリーナ・ジョリー "wikilink")を起用。これは開発時に想定した6つのパーツ毎の理想形を統合した顔が、結果としてアンジェリーナ・ジョリーに似ていたからである。なお、2008年秋から女優の[真木よう子](https://ja.wikipedia.org/wiki/真木よう子 "wikilink")、2010年春からはモデルの[岸本セシル](https://ja.wikipedia.org/wiki/岸本セシル "wikilink")を起用している（INTEGRATEのみ）。2015年からは岸本に加えて[小松菜奈](https://ja.wikipedia.org/wiki/小松菜奈 "wikilink")も起用している。
+  - [イメージモデルに](https://ja.wikipedia.org/wiki/イメージキャラクター "wikilink")[ハリウッド](../Page/ハリウッド.md "wikilink")[女優の](../Page/俳優.md "wikilink")[アンジェリーナ・ジョリー](../Page/アンジェリーナ・ジョリー.md "wikilink")を起用。これは開発時に想定した6つのパーツ毎の理想形を統合した顔が、結果としてアンジェリーナ・ジョリーに似ていたからである。なお、2008年秋から女優の[真木よう子](https://ja.wikipedia.org/wiki/真木よう子 "wikilink")、2010年春からはモデルの[岸本セシル](https://ja.wikipedia.org/wiki/岸本セシル "wikilink")を起用している（INTEGRATEのみ）。2015年からは岸本に加えて[小松菜奈](https://ja.wikipedia.org/wiki/小松菜奈 "wikilink")も起用している。
   - まず第1弾として20～30代の団塊ジュニア世代の女性に向けた「INTEGRATE」を2006年8月21日に発売。さらに第2弾として、50代以降の幅広い年代層に向けた新ライン「INTEGRATE GRACY」を2007年8月21日に発売した。
   - 今回の新ライン発売で、近年進めている同社のメガブランド構想により、事実上それまでの団塊ジュニア世代向けの[ff](https://ja.wikipedia.org/wiki/ff_\(化粧品\) "wikilink")（フフ）と、団塊世代向けの[SELFIT](https://ja.wikipedia.org/wiki/SELFIT "wikilink")（セルフィット）が統合されたことになる（2ライン配置なのも、前身の名残である）。
-  - 当初は銀色と黒をブランドカラーとしてきたが、2010年2月発売の「ミネラルファンデーション」から「ミネラルシリーズ」は白地と赤、他は2010年8月発売の「レインボーグラデアイズ」から金地に黒（かつての[ピエヌ](https://ja.wikipedia.org/wiki/ピエヌ "wikilink")に近い）のデザインに順次変更されている。またブランドロゴも小変更された。
+  - 当初は銀色と黒をブランドカラーとしてきたが、2010年2月発売の「ミネラルファンデーション」から「ミネラルシリーズ」は白地と赤、他は2010年8月発売の「レインボーグラデアイズ」から金地に黒（かつての[ピエヌ](../Page/ピエヌ.md "wikilink")に近い）のデザインに順次変更されている。またブランドロゴも小変更された。
   - INTEGRATEの[キャッチコピー](../Page/キャッチコピー.md "wikilink")は「**ラブリーに生きろ♥**」、INTEGRATE GRACYのキャッチコピーは「**その美しさ、前向き。**」。
-  - 80年代中頃にも、同名のメーキャップブランドが存在した（イメージモデルは[中山美穂](https://ja.wikipedia.org/wiki/中山美穂 "wikilink")、[桐島かれん](https://ja.wikipedia.org/wiki/桐島かれん "wikilink")、[今井美樹](https://ja.wikipedia.org/wiki/今井美樹 "wikilink")など）。当時は、現在の[マキアージュ](https://ja.wikipedia.org/wiki/マキアージュ "wikilink")のような位置づけの主力プロパーブランドであった。
-  - 2009年秋頃より、[アクアレーベル](https://ja.wikipedia.org/wiki/アクアレーベル "wikilink")と共に、一部の商品が[コンビニエンスストア](../Page/コンビニエンスストア.md "wikilink")（[ローソン](../Page/ローソン.md "wikilink")・[サークルKサンクス](https://ja.wikipedia.org/wiki/サークルKサンクス "wikilink")・[ミニストップ](https://ja.wikipedia.org/wiki/ミニストップ "wikilink")など\[1\]）での取り扱いを開始。それに比例して、[化粧惑星](https://ja.wikipedia.org/wiki/化粧惑星 "wikilink")のブランド縮小が始まり、2011年９月を持って完全に切り替えられた。
+  - 80年代中頃にも、同名のメーキャップブランドが存在した（イメージモデルは[中山美穂](../Page/中山美穂.md "wikilink")、[桐島かれん](https://ja.wikipedia.org/wiki/桐島かれん "wikilink")、[今井美樹](../Page/今井美樹.md "wikilink")など）。当時は、現在の[マキアージュ](https://ja.wikipedia.org/wiki/マキアージュ "wikilink")のような位置づけの主力プロパーブランドであった。
+  - 2009年秋頃より、[アクアレーベル](https://ja.wikipedia.org/wiki/アクアレーベル "wikilink")と共に、一部の商品が[コンビニエンスストア](../Page/コンビニエンスストア.md "wikilink")（[ローソン](../Page/ローソン.md "wikilink")・[サークルKサンクス](https://ja.wikipedia.org/wiki/サークルKサンクス "wikilink")・[ミニストップ](https://ja.wikipedia.org/wiki/ミニストップ "wikilink")など\[1\]）での取り扱いを開始。それに比例して、[化粧惑星](../Page/化粧惑星.md "wikilink")のブランド縮小が始まり、2011年９月を持って完全に切り替えられた。
 
 ## “INTEGRATE”の商品ラインナップ〈2012年11月現在〉
 

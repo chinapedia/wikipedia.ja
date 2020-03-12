@@ -6,7 +6,7 @@
 ## メンバー
 
   - **マル**（[1979年](../Page/1979年.md "wikilink")[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink") - ）ボーカル･ギター。解散後は[marco qwinとしてソロ活動中](https://ja.wikipedia.org/wiki/marco_qwin "wikilink")。
-  - **JUN**（[1979年](../Page/1979年.md "wikilink")[4月16日](https://ja.wikipedia.org/wiki/4月16日 "wikilink") - ）ギター
+  - **JUN**（[1979年](../Page/1979年.md "wikilink")[4月16日](../Page/4月16日.md "wikilink") - ）ギター
   - **Shinkichi**（[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[11月21日](../Page/11月21日.md "wikilink") - ）ベース･コーラス。現在は元ペガサスシモダマサヒロとともに[ロバート・デ・ニート](https://ja.wikipedia.org/wiki/ロバート・デ・ニート "wikilink")として活動中
   - **Kazuya**（[1981年](../Page/1981年.md "wikilink")[8月14日](../Page/8月14日.md "wikilink") - ）ドラム
 
@@ -44,7 +44,7 @@
 <td><p><strong>century</strong></p></td>
 <td><p>BVCR-19911</p></td>
 <td><ol>
-<li>century（TBS系「<a href="https://ja.wikipedia.org/wiki/チューボーですよ!" title="wikilink">チューボーですよ!</a>」エンディングテーマ）</li>
+<li>century（TBS系「<a href="../Page/チューボーですよ!.md" title="wikilink">チューボーですよ!</a>」エンディングテーマ）</li>
 <li>アナーキー・ザ・トリップ・マシーン</li>
 <li>eternal dance</li>
 </ol></td>
@@ -56,7 +56,7 @@
 <td><p><strong>crying</strong></p></td>
 <td><p>BVCR-19608</p></td>
 <td><ol>
-<li>crying (2003年9月度<a href="https://ja.wikipedia.org/wiki/ミューパライチ押しナンバー" title="wikilink">ミューパライチ押しナンバー</a>)</li>
+<li>crying (2003年9月度<a href="../Page/ミューパライチ押しナンバー.md" title="wikilink">ミューパライチ押しナンバー</a>)</li>
 <li>Paint It Black（<a href="../Page/ローリング・ストーンズ.md" title="wikilink">ローリング・ストーンズ</a>のカヴァー）</li>
 <li>crying (オリジナル・カラオケ)</li>
 </ol></td>
@@ -73,7 +73,7 @@
 <li>シアワセの花をさがして(Karaoke)</li>
 </ol></td>
 <td><p>BMG JAPAN<br />
-<a href="https://ja.wikipedia.org/wiki/亀田誠治" title="wikilink">亀田誠治</a>プロデュース</p></td>
+<a href="../Page/亀田誠治.md" title="wikilink">亀田誠治</a>プロデュース</p></td>
 </tr>
 <tr class="odd">
 <td><p>5th</p></td>
@@ -152,7 +152,7 @@
 | [今井厚生](https://ja.wikipedia.org/wiki/今井厚生 "wikilink")       | 「耳鳴り」           |
 | [ウスイ☆ヒロシ](https://ja.wikipedia.org/wiki/ウスイ☆ヒロシ "wikilink") | 「シアワセの花をさがして」   |
 | [大内宏之](https://ja.wikipedia.org/wiki/大内宏之 "wikilink")       | 「Eternal Dance」 |
-| [番場秀一](https://ja.wikipedia.org/wiki/番場秀一 "wikilink")       | 「crying」        |
+| [番場秀一](../Page/番場秀一.md "wikilink")                          | 「crying」        |
 | [前畑貴文](https://ja.wikipedia.org/wiki/前畑貴文 "wikilink")       | 「century」       |
 |                                                             |                 |
 

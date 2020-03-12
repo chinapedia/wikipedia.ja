@@ -1,7 +1,7 @@
 > この記事は[Sports Dial](https://ja.wikipedia.org/wiki/Sports_Dial)から翻訳されています。
 
 
-**Sports Dial**（スポーツダイヤル）は、[東海ラジオ放送](../Page/東海ラジオ放送.md "wikilink")にて[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")のシーズンオフから放送されている、[中日ドラゴンズ](https://ja.wikipedia.org/wiki/中日ドラゴンズ "wikilink")に関する話題にとどまらない、週末スポーツ情報番組。
+**Sports Dial**（スポーツダイヤル）は、[東海ラジオ放送](../Page/東海ラジオ放送.md "wikilink")にて[2004年](../Page/2004年.md "wikilink")のシーズンオフから放送されている、[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")に関する話題にとどまらない、週末スポーツ情報番組。
 
 ## 放送時間
 
@@ -12,7 +12,7 @@
 
 ## 放送内容
 
-  - [中日ドラゴンズ](https://ja.wikipedia.org/wiki/中日ドラゴンズ "wikilink")、[名古屋グランパスエイト](https://ja.wikipedia.org/wiki/名古屋グランパスエイト "wikilink")などのスポーツ情報をはじめ、アマチュアスポーツなども取り上げる。
+  - [中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")、[名古屋グランパスエイト](https://ja.wikipedia.org/wiki/名古屋グランパスエイト "wikilink")などのスポーツ情報をはじめ、アマチュアスポーツなども取り上げる。
 
 ## 基本タイムテーブル
 
@@ -21,7 +21,7 @@
   - 17:00　　　オープニング・オープニングトーク
   - 17:30頃　　競艇競輪ニュース（担当は宿直アナウンサー）※2004年度は17:30がオープニング
   - 17:35頃　　スポーツダイヤル・ニュースフラッシュ。ニュースによっては、選手などにインタビューされた音も流される（一部は、おそらく[共同通信](https://ja.wikipedia.org/wiki/共同通信 "wikilink")等からの提供）のほか、系列局からの提供で一部を除き実況録音も放送される。
-  - 18:01　　　交通情報＜[カレーうどんの若鯱家](https://ja.wikipedia.org/wiki/若鯱家 "wikilink")＞－[日本道路交通情報センター](https://ja.wikipedia.org/wiki/日本道路交通情報センター "wikilink")からではなく、スタジオから宿直担当アナウンサーが若鯱家のCMソングをBGMに原稿を読む。そのためCMは放送されない。
+  - 18:01　　　交通情報＜[カレーうどんの若鯱家](../Page/若鯱家.md "wikilink")＞－[日本道路交通情報センター](../Page/日本道路交通情報センター.md "wikilink")からではなく、スタジオから宿直担当アナウンサーが若鯱家のCMソングをBGMに原稿を読む。そのためCMは放送されない。
   - 18:18頃　　エンディング
 
 ## 主なコーナー紹介
@@ -35,7 +35,7 @@
 
 <!-- end list -->
 
-  - [グランパスR](https://ja.wikipedia.org/wiki/グランパスR "wikilink")
+  - [グランパスR](../Page/グランパスR.md "wikilink")
 
 <!-- end list -->
 
@@ -62,7 +62,7 @@
 
 <!-- end list -->
 
-  - [岡山哲也](https://ja.wikipedia.org/wiki/岡山哲也 "wikilink")の[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")日記（2008年2月3日～）
+  - [岡山哲也](../Page/岡山哲也.md "wikilink")の[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")日記（2008年2月3日～）
 
 <!-- end list -->
 
@@ -71,23 +71,23 @@
 
 ## 出演者
 
-  - [森貴俊](https://ja.wikipedia.org/wiki/森貴俊 "wikilink")（東海ラジオアナウンサー）
+  - [森貴俊](../Page/森貴俊.md "wikilink")（東海ラジオアナウンサー）
   - 古内義明（スポーツジャーナリスト。[メジャーリーグ](https://ja.wikipedia.org/wiki/メジャーリーグ "wikilink")関係の話題になると大体登場する。）
   - [中日スポーツ](../Page/中日スポーツ.md "wikilink")[競馬](../Page/競馬.md "wikilink")担当記者－山田数夫,草野武志など、紙面・テレビ解説等でも有名な方々が登場することが多い。
-  - 系列局（[NRN](../Page/全国ラジオネットワーク.md "wikilink")）のアナウンサー－主に[プロ野球](https://ja.wikipedia.org/wiki/プロ野球 "wikilink"),[Jリーグ](../Page/日本プロサッカーリーグ.md "wikilink"),[箱根駅伝等の話題になると](../Page/東京箱根間往復大学駅伝競走.md "wikilink")、出演することが多い。
+  - 系列局（[NRN](../Page/全国ラジオネットワーク.md "wikilink")）のアナウンサー－主に[プロ野球](../Page/プロ野球.md "wikilink"),[Jリーグ](../Page/日本プロサッカーリーグ.md "wikilink"),[箱根駅伝等の話題になると](../Page/東京箱根間往復大学駅伝競走.md "wikilink")、出演することが多い。
 
 　※そのほか、スポーツ雑誌,中日スポーツなどの記者などが登場する。
 
 ## 出演した主なゲスト
 
   - [山本左近](https://ja.wikipedia.org/wiki/山本左近 "wikilink")
-  - [秋田豊](https://ja.wikipedia.org/wiki/秋田豊 "wikilink")
-  - [セフ・フェルホーセン](https://ja.wikipedia.org/wiki/セフ・フェルホーセン "wikilink")監督（[名古屋グランパスエイト](https://ja.wikipedia.org/wiki/名古屋グランパスエイト "wikilink")監督）
-  - [山田満知子](https://ja.wikipedia.org/wiki/山田満知子 "wikilink")（フィギュアスケートコーチ）など毎回多くの、プロ・アマにかかわらない選手・コーチが登場する。
+  - [秋田豊](../Page/秋田豊.md "wikilink")
+  - [セフ・フェルホーセン](../Page/セフ・フェルホーセン.md "wikilink")監督（[名古屋グランパスエイト](https://ja.wikipedia.org/wiki/名古屋グランパスエイト "wikilink")監督）
+  - [山田満知子](../Page/山田満知子.md "wikilink")（フィギュアスケートコーチ）など毎回多くの、プロ・アマにかかわらない選手・コーチが登場する。
 
 ## その他
 
   - 森アナウンサーのほかに、スポーツディレクターがインタビューをすることがある。
-  - グランパス情報を伝える[グランパスR](https://ja.wikipedia.org/wiki/グランパスR "wikilink")を、番組の構成上の都合のためか、たまに放送しないことがある。（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月17日](../Page/12月17日.md "wikilink")放送分では、他のスポーツを特集していた都合上放送されなかったが、代わりに18時台にグランパスのフェルフォーセン監督の単独インタビューを放送したり、[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")のホーム最終戦のあとの瑞穂陸上競技場放送席から、[秋田豊](https://ja.wikipedia.org/wiki/秋田豊 "wikilink")選手らをゲストに呼ぶなど、前後でスペシャルの措置をとったりしているようだ。）
+  - グランパス情報を伝える[グランパスR](../Page/グランパスR.md "wikilink")を、番組の構成上の都合のためか、たまに放送しないことがある。（[2006年](../Page/2006年.md "wikilink")[12月17日](../Page/12月17日.md "wikilink")放送分では、他のスポーツを特集していた都合上放送されなかったが、代わりに18時台にグランパスのフェルフォーセン監督の単独インタビューを放送したり、[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")のホーム最終戦のあとの瑞穂陸上競技場放送席から、[秋田豊](../Page/秋田豊.md "wikilink")選手らをゲストに呼ぶなど、前後でスペシャルの措置をとったりしているようだ。）
 
 [Category:東海ラジオのラジオ番組](https://ja.wikipedia.org/wiki/Category:東海ラジオのラジオ番組 "wikilink") [Category:ローカルラジオ局のスポーツ番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のスポーツ番組 "wikilink")

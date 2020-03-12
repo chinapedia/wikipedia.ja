@@ -1,7 +1,7 @@
 > この記事は[Middle Tempo Magic](https://ja.wikipedia.org/wiki/Middle_Tempo_Magic)から翻訳されています。
 
 
-**Middle Tempo Magic**（ミドル・テンポ・マジック）は、[安藤裕子が](https://ja.wikipedia.org/wiki/安藤裕子_\(歌手\) "wikilink")[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[9月8日](https://ja.wikipedia.org/wiki/9月8日 "wikilink")にリリースした3枚目の[アルバム](../Page/アルバム.md "wikilink")。
+**Middle Tempo Magic**（ミドル・テンポ・マジック）は、[安藤裕子が](https://ja.wikipedia.org/wiki/安藤裕子_\(歌手\) "wikilink")[2004年](../Page/2004年.md "wikilink")[9月8日](../Page/9月8日.md "wikilink")にリリースした3枚目の[アルバム](../Page/アルバム.md "wikilink")。
 
 ## 解説
 
@@ -22,7 +22,7 @@
 6.  **slow tempo magic**
     (作詞:安藤裕子　作曲:[白根賢一](https://ja.wikipedia.org/wiki/白根賢一 "wikilink")　編曲:山本隆二)
 7.  **水色の調べ**
-    (作詞:安藤裕子　作曲:[宮川弾](https://ja.wikipedia.org/wiki/宮川弾 "wikilink")　編曲:山本隆二)
+    (作詞:安藤裕子　作曲:[宮川弾](../Page/宮川弾.md "wikilink")　編曲:山本隆二)
     1stシングル。
 8.  **忘れものの森**
     (作詞・作曲:安藤裕子　編曲:山本隆二)

@@ -1,32 +1,32 @@
 > この記事は[Aice5](https://ja.wikipedia.org/wiki/Aice5)から翻訳されています。
 
 
-**Aice**（アイス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[声優ユニット](../Page/声優ユニット.md "wikilink")。2005年10月29日から2007年9月20日まで[スターチャイルド](https://ja.wikipedia.org/wiki/スターチャイルド "wikilink")で活動した後、2015年7月17日から[EVIL LINE RECORDSで活動している](https://ja.wikipedia.org/wiki/EVIL_LINE_RECORDS "wikilink")。
+**Aice**（アイス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[声優ユニット](../Page/声優ユニット.md "wikilink")。2005年10月29日から2007年9月20日まで[スターチャイルド](../Page/スターチャイルド.md "wikilink")で活動した後、2015年7月17日から[EVIL LINE RECORDSで活動している](https://ja.wikipedia.org/wiki/EVIL_LINE_RECORDS "wikilink")。
 
 ## メンバー
 
 | 名前                                                        | イメージカラー |
 | --------------------------------------------------------- | ------- |
 | [堀江由衣](https://ja.wikipedia.org/wiki/堀江由衣 "wikilink")     | 水色（青）   |
-| [神田朱未](https://ja.wikipedia.org/wiki/神田朱未 "wikilink")     | 赤       |
+| [神田朱未](../Page/神田朱未.md "wikilink")                        | 赤       |
 | [たかはし智秋](https://ja.wikipedia.org/wiki/たかはし智秋 "wikilink") | 紫       |
 | [浅野真澄](../Page/浅野真澄.md "wikilink")                        | 緑       |
-| [木村まどか](https://ja.wikipedia.org/wiki/木村まどか "wikilink")   | 黄色      |
+| [木村まどか](../Page/木村まどか.md "wikilink")                      | 黄色      |
 
 メンバーは堀江が勧誘しており、理由は以下の通りである。
 
   - 神田朱未
-    [テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[ウルトラマニアック](https://ja.wikipedia.org/wiki/ウルトラマニアック "wikilink")』で共演して以来、二人で沖縄旅行に行くような仲の良さから。また神田は声優ユニット『[DROPS](https://ja.wikipedia.org/wiki/DROPS "wikilink")』のメンバーでもあり「DROPSをやっていた時から誘われていた」と打ち明けている。
+    [テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[ウルトラマニアック](../Page/ウルトラマニアック.md "wikilink")』で共演して以来、二人で沖縄旅行に行くような仲の良さから。また神田は声優ユニット『[DROPS](../Page/DROPS.md "wikilink")』のメンバーでもあり「DROPSをやっていた時から誘われていた」と打ち明けている。
   - たかはし智秋
-    テレビアニメ『[双恋](https://ja.wikipedia.org/wiki/双恋 "wikilink")』のアフレコ現場で、隣の席でよく話していたことから。当初は乗り気でなかったが、堀江が「ふりふりの服も似合うよ」と説得した。本人いわく「とりあえず入ってみたら、いつのまにか大事（おおごと）になっていた」とのこと。
+    テレビアニメ『[双恋](../Page/双恋.md "wikilink")』のアフレコ現場で、隣の席でよく話していたことから。当初は乗り気でなかったが、堀江が「ふりふりの服も似合うよ」と説得した。本人いわく「とりあえず入ってみたら、いつのまにか大事（おおごと）になっていた」とのこと。
   - 浅野真澄
-    テレビアニメ『[まほらば](https://ja.wikipedia.org/wiki/まほらば "wikilink")』の共演で仲良くなったことから。これについて本人は「『[スパイラル](https://ja.wikipedia.org/wiki/スパイラル_〜推理の絆〜 "wikilink")』の時からでしょ！？」と反論している（同作品はスターチャイルドレーベル作品ではないため、堀江は立場上、意図的に外したものと思われる）。
+    テレビアニメ『[まほらば](../Page/まほらば.md "wikilink")』の共演で仲良くなったことから。これについて本人は「『[スパイラル](../Page/スパイラル_〜推理の絆〜.md "wikilink")』の時からでしょ！？」と反論している（同作品はスターチャイルドレーベル作品ではないため、堀江は立場上、意図的に外したものと思われる）。
   - 木村まどか
-    テレビアニメ『[魔法先生ネギま\!](https://ja.wikipedia.org/wiki/魔法先生ネギま!_\(アニメ\) "wikilink")』の共演で親しくなったことから。堀江は以前から周囲に「メンバーにする」と宣言していた。
+    テレビアニメ『[魔法先生ネギま\!](../Page/魔法先生ネギま!_\(アニメ\).md "wikilink")』の共演で親しくなったことから。堀江は以前から周囲に「メンバーにする」と宣言していた。
 
 ## 概要
 
-  - 堀江由衣が声優ユニット「[DROPS](https://ja.wikipedia.org/wiki/DROPS "wikilink")」に刺激されて、自らリーダーとなり結成した。
+  - 堀江由衣が声優ユニット「[DROPS](../Page/DROPS.md "wikilink")」に刺激されて、自らリーダーとなり結成した。
   - ユニットを表す手の形があり、親指・小指を立て中3本を軽く丸めるという、各アルファベットを表す指の形を組み合わせて考案した（DROPSの楽曲「バカップル」の振付に出てくるものと似ている）。
   - 堀江はメンバーを評して「声優界で不器用に生きている人達」と発言している。
   - お披露目イベント当日は、会場の秋葉原駅前広場周辺が雨の中で大変混雑しており、広場を見渡せる駅のホームからイベントを眺める人が多かった。しかも開始時刻直前に「堀江の到着が遅れる」とアナウンスされ、イベント開始が大幅に遅れている。また、このイベントは開始時間の遅れに対する延長は無く、その後に行われるライブイベントの開始予定時刻に合わせて、終了予定時間通りに終了している。なお、たかはしは「萌え1年目」と発言しており、同調して浅野も発言するが、ファンから受け入れられずに抗議している。衣装については、堀江の構想であることをたかはしが打ち明けている。
@@ -38,7 +38,7 @@
 
 **2004年**
 
-  - [9月18日](../Page/9月18日.md "wikilink")：[ラジオ番組](../Page/ラジオ番組.md "wikilink")『[白石涼子のシカイ良好☆ふんたららん](https://ja.wikipedia.org/wiki/白石涼子のシカイ良好☆ふんたららん "wikilink")』に出演した際に堀江がDROPSにやきもちをして、新たなユニットを結成しようとしており、浅野などを加入させようとしていると発言した。
+  - [9月18日](../Page/9月18日.md "wikilink")：[ラジオ番組](../Page/ラジオ番組.md "wikilink")『[白石涼子のシカイ良好☆ふんたららん](../Page/白石涼子のシカイ良好☆ふんたららん.md "wikilink")』に出演した際に堀江がDROPSにやきもちをして、新たなユニットを結成しようとしており、浅野などを加入させようとしていると発言した。
 
 **2005年**
 
@@ -48,11 +48,11 @@
 
 **2006年**
 
-  - [3月11日](../Page/3月11日.md "wikilink")：『[STARCHILD DREAM in KOBE](https://ja.wikipedia.org/wiki/STARCHILD_DREAM_in_KOBE "wikilink")』に出演して、デビューシングル「[Get Back](https://ja.wikipedia.org/wiki/Get_Back_\(Aice5の曲\) "wikilink")」が先行販売され、用意した1500枚が約2時間で完売する。
+  - [3月11日](../Page/3月11日.md "wikilink")：『[STARCHILD DREAM in KOBE](../Page/STARCHILD_DREAM_in_KOBE.md "wikilink")』に出演して、デビューシングル「[Get Back](https://ja.wikipedia.org/wiki/Get_Back_\(Aice5の曲\) "wikilink")」が先行販売され、用意した1500枚が約2時間で完売する。
   - [4月26日](../Page/4月26日.md "wikilink")：『[天然女子高物語 ドラマCD feat.Aice<sup>5</sup>](https://ja.wikipedia.org/wiki/天然女子高物語 "wikilink")』が発売され、声優として声の出演・イメージソングを収録する。
-  - [5月3日](https://ja.wikipedia.org/wiki/5月3日 "wikilink")：デビューシングル「[Get Back](https://ja.wikipedia.org/wiki/Get_Back_\(Aice5の曲\) "wikilink")」が、[アニメイト](https://ja.wikipedia.org/wiki/アニメイト "wikilink")で限定発売される。
+  - [5月3日](../Page/5月3日.md "wikilink")：デビューシングル「[Get Back](https://ja.wikipedia.org/wiki/Get_Back_\(Aice5の曲\) "wikilink")」が、[アニメイト](../Page/アニメイト.md "wikilink")で限定発売される。
   - [5月24日](../Page/5月24日.md "wikilink")：2ndシングル「[Believe My Love/友情物語](https://ja.wikipedia.org/wiki/Believe_My_Love/友情物語 "wikilink")」が発売される。
-  - [8月21日](../Page/8月21日.md "wikilink")：ラジオ番組『[Aice<sup>5</sup> In Wonder RADIO](https://ja.wikipedia.org/wiki/Aice5_In_Wonder_RADIO "wikilink")』が配信開始される。
+  - [8月21日](../Page/8月21日.md "wikilink")：ラジオ番組『[Aice<sup>5</sup> In Wonder RADIO](../Page/Aice5_In_Wonder_RADIO.md "wikilink")』が配信開始される。
   - [10月25日](../Page/10月25日.md "wikilink")：3rdシングル「[Love Power](https://ja.wikipedia.org/wiki/Love_Power "wikilink")」が発売される。
 
 **2007年**
@@ -71,7 +71,7 @@
 
 **2010年**
 
-  - [12月10日](https://ja.wikipedia.org/wiki/12月10日 "wikilink")：この日発売された『[声優グランプリ](../Page/声優グランプリ.md "wikilink")』2011年1月号において、表紙・巻頭特集で登場。また、この関連の特別企画として声優グランプリが用意した期間限定[Twitter](../Page/Twitter.md "wikilink")専用アカウント（@Aice5_seigura。[11月10日](../Page/11月10日.md "wikilink")開設、12月10日更新終了、[2011年](../Page/2011年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink")以降廃止）にメンバーのつぶやきが投稿された。
+  - [12月10日](../Page/12月10日.md "wikilink")：この日発売された『[声優グランプリ](../Page/声優グランプリ.md "wikilink")』2011年1月号において、表紙・巻頭特集で登場。また、この関連の特別企画として声優グランプリが用意した期間限定[Twitter](../Page/Twitter.md "wikilink")専用アカウント（@Aice5_seigura。[11月10日](../Page/11月10日.md "wikilink")開設、12月10日更新終了、[2011年](../Page/2011年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink")以降廃止）にメンバーのつぶやきが投稿された。
 
 **2015年**
 
@@ -81,7 +81,7 @@
 
   - よく「Alice<sup>5</sup>（アリス）」と間違えられる。また、「アイスファイブ」というように「<sup>5</sup>」の部分を読まれてしまうこともある。
   - 『[STARCHILD FESTIVAL 2007 Spring](https://ja.wikipedia.org/wiki/STARCHILD_FESTIVAL#2007_Spring "wikilink")』のビデオメッセージにて、[林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")がAice<sup>5</sup>の6番目のメンバーを名乗っていた。
-  - 『[Wnn](https://ja.wikipedia.org/wiki/Wnn "wikilink")』の変換ソフトが入ってる携帯電話で「あいす」と変換すると「Aice5」と出る。
+  - 『[Wnn](../Page/Wnn.md "wikilink")』の変換ソフトが入ってる携帯電話で「あいす」と変換すると「Aice5」と出る。
   - 『[Re.MEMBER](https://ja.wikipedia.org/wiki/Re.MEMBER "wikilink")』のカップリング曲、「裏・友情物語」は、彼氏のいない女友達が集っている内容の歌となっているが、曲の最後に神田が「ごめん、お先に！」と抜け駆けをほのめかす発言をし、他メンバーが「えーっ！？」と驚くいうやり取りが収録されている。このCDの発売から5年近く経過した2012年[7月20日](../Page/7月20日.md "wikilink")、神田が入籍を発表、（公表されている中で）初のメンバーの結婚であり、ネット上の一部でこのやり取りが「現実となった」との指摘がされた\[2\]。神田自身も[エフエム愛知](../Page/エフエム愛知.md "wikilink")でパーソナリテイーをしている[神田朱未のわたしのすきなこと。](https://ja.wikipedia.org/wiki/神田朱未のわたしのすきなこと。 "wikilink")(2012年9月2日放送分)で、「裏・友情物語」のエピソードを取り上げた。
   - 再起動後、初の参加イベントとなった「イヤホンズ vs Aice<sup>5</sup>〜それがユニット\!〜」開催直前に、たかはしが右足アキレス腱を断裂して全治3〜6ヶ月と診断されたが\[3\]、予定通り出演した\[4\]。
 
@@ -277,11 +277,11 @@
 
 | 楽曲            | タイアップ                                                                                              | 時期    |
 | ------------- | -------------------------------------------------------------------------------------------------- | ----- |
-| 友情物語          | テレビアニメ『[いぬかみっ\!](https://ja.wikipedia.org/wiki/いぬかみっ! "wikilink")』エンディングテーマ                        | 2006年 |
+| 友情物語          | テレビアニメ『[いぬかみっ\!](../Page/いぬかみっ!.md "wikilink")』エンディングテーマ                                           | 2006年 |
 | Natural Fly   | | ドラマCD『[天然女子高物語 ドラマCD feat.Aice{{sup](https://ja.wikipedia.org/wiki/天然女子高物語 "wikilink")』オープニングテーマ |       |
 | Word I need   | | ドラマCD『天然女子高物語 ドラマCD feat.Aice』エンディングテーマ                                                          |       |
 | Love Power    | テレビアニメ『[乙女はお姉さまに恋してる](https://ja.wikipedia.org/wiki/乙女はお姉さまに恋してる "wikilink")』オープニングテーマ             |       |
-| Brand new day | テレビアニメ『[陸上防衛隊まおちゃん](https://ja.wikipedia.org/wiki/陸上防衛隊まおちゃん "wikilink")』再放送版オープニングテーマ             | 2007年 |
+| Brand new day | テレビアニメ『[陸上防衛隊まおちゃん](../Page/陸上防衛隊まおちゃん.md "wikilink")』再放送版オープニングテーマ                                | 2007年 |
 | Eternity      | テレビアニメ『陸上防衛隊まおちゃん』再放送版エンディングテーマ                                                                    |       |
 
 ## 出演
@@ -290,7 +290,7 @@
 
 ※は[インターネット配信](../Page/インターネットラジオ.md "wikilink")。
 
-  - [Aice{{sup](https://ja.wikipedia.org/wiki/Aice5_In_Wonder_RADIO "wikilink")（2006年 - 2007年、[スタチャインターネットラジオ](https://ja.wikipedia.org/wiki/スタチャインターネットラジオ "wikilink")※）
+  - [Aice{{sup](../Page/Aice5_In_Wonder_RADIO.md "wikilink")（2006年 - 2007年、[スタチャインターネットラジオ](https://ja.wikipedia.org/wiki/スタチャインターネットラジオ "wikilink")※）
   - Aiceの今夜はBe with you（2015年10月19日 、[ニッポン放送](../Page/ニッポン放送.md "wikilink")）
 
 ### ワンマンライブ
@@ -320,8 +320,8 @@
 <p>3会場全3公演</p>
 </div>
 <div class="NavContent" style="text-align:center;">
-<p>4月29日 <a href="https://ja.wikipedia.org/wiki/愛知厚生年金会館" title="wikilink">愛知厚生年金会館</a>（<a href="https://ja.wikipedia.org/wiki/愛知県" title="wikilink">愛知県</a>）<br />
-4月30日 <a href="https://ja.wikipedia.org/wiki/オリックス劇場" title="wikilink">大阪厚生年金会館</a>（<a href="https://ja.wikipedia.org/wiki/大阪府" title="wikilink">大阪府</a>）<br />
+<p>4月29日 <a href="../Page/愛知厚生年金会館.md" title="wikilink">愛知厚生年金会館</a>（<a href="https://ja.wikipedia.org/wiki/愛知県" title="wikilink">愛知県</a>）<br />
+4月30日 <a href="../Page/オリックス劇場.md" title="wikilink">大阪厚生年金会館</a>（<a href="../Page/大阪府.md" title="wikilink">大阪府</a>）<br />
 5月6日 <a href="https://ja.wikipedia.org/wiki/パシフィコ横浜" title="wikilink">パシフィコ横浜</a>国立大ホール（<a href="https://ja.wikipedia.org/wiki/神奈川県" title="wikilink">神奈川県</a>）</p></td>
 </tr>
 <tr class="odd">
@@ -335,17 +335,17 @@
 
 ### ライブ・イベント
 
-| 公演年                          | 形態                                                                                  | タイトル                                                                                                | 公演日・会場                                                                                                                     |
-| ---------------------------- | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| 2006年                        | ゲスト出演                                                                               | **[STARCHILD DREAM in KOBE](https://ja.wikipedia.org/wiki/STARCHILD_DREAM_in_KOBE "wikilink") 3rd** | 全1公演：3月11日 [神戸国際会館](https://ja.wikipedia.org/wiki/神戸国際会館 "wikilink")（[兵庫県](../Page/兵庫県.md "wikilink")）                     |
-| **おとボクスペシャルイベント〜聖應学院にようこそ〜** | 全1公演：11月12日 [川崎CLUB CITTA'](https://ja.wikipedia.org/wiki/川崎CLUB_CITTA' "wikilink") |                                                                                                     |                                                                                                                            |
-| 2015年                        | 合同ライブ                                                                               | **イヤホンズ vs Aice**                                                                                   | 全1公演：11月22日 [NHKホール](https://ja.wikipedia.org/wiki/NHKホール "wikilink")（[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")） |
+| 公演年                          | 形態                                                                                  | タイトル                                                                             | 公演日・会場                                                                               |
+| ---------------------------- | ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| 2006年                        | ゲスト出演                                                                               | **[STARCHILD DREAM in KOBE](../Page/STARCHILD_DREAM_in_KOBE.md "wikilink") 3rd** | 全1公演：3月11日 [神戸国際会館](../Page/神戸国際会館.md "wikilink")（[兵庫県](../Page/兵庫県.md "wikilink")）  |
+| **おとボクスペシャルイベント〜聖應学院にようこそ〜** | 全1公演：11月12日 [川崎CLUB CITTA'](https://ja.wikipedia.org/wiki/川崎CLUB_CITTA' "wikilink") |                                                                                  |                                                                                      |
+| 2015年                        | 合同ライブ                                                                               | **イヤホンズ vs Aice**                                                                | 全1公演：11月22日 [NHKホール](../Page/NHKホール.md "wikilink")（[東京都](../Page/東京都.md "wikilink")） |
 
 ### 雑誌
 
-  - Aice In Wonderland（[主婦の友社](https://ja.wikipedia.org/wiki/主婦の友社 "wikilink")「[声優グランプリ](../Page/声優グランプリ.md "wikilink")」）
-  - Music Aice（[音楽専科社](https://ja.wikipedia.org/wiki/音楽専科社 "wikilink")「hm SPECIAL」）
-  - Aice物語 〜世界Aiceが始まった日〜（[角川書店](../Page/角川書店.md "wikilink")「[月刊ニュータイプ](https://ja.wikipedia.org/wiki/月刊ニュータイプ "wikilink")」）
+  - Aice In Wonderland（[主婦の友社](../Page/主婦の友社.md "wikilink")「[声優グランプリ](../Page/声優グランプリ.md "wikilink")」）
+  - Music Aice（[音楽専科社](../Page/音楽専科社.md "wikilink")「hm SPECIAL」）
+  - Aice物語 〜世界Aiceが始まった日〜（[角川書店](../Page/角川書店.md "wikilink")「[月刊ニュータイプ](../Page/月刊ニュータイプ.md "wikilink")」）
 
 ## その他
 
@@ -353,7 +353,7 @@
 
 ## 関連項目
 
-  - [すーぱーぞうさんず\&Rice{{sup](https://ja.wikipedia.org/wiki/すーぱーぞうさんず&Rice5 "wikilink")
+  - [すーぱーぞうさんず\&Rice{{sup](../Page/すーぱーぞうさんず&Rice5.md "wikilink")
   - [イヤホンズ](https://ja.wikipedia.org/wiki/イヤホンズ "wikilink") - 本ユニット復活のきっかけとなった『[それが声優\!](https://ja.wikipedia.org/wiki/それが声優! "wikilink")』の主役声優で構成されるユニットで、実質上の妹分。
   - [声優ユニット](../Page/声優ユニット.md "wikilink")
   - [みらいブンカ village堀江由衣](https://ja.wikipedia.org/wiki/みらいブンカ_village "wikilink")×浅野真澄の\#とれとれ - [文化放送](../Page/文化放送.md "wikilink")で堀江、浅野が2019年[ナイターオフ](https://ja.wikipedia.org/wiki/ナイターオフ "wikilink")に出演するラジオ番組。

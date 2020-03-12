@@ -5,9 +5,9 @@
 
 ## 概要
 
-当時宇多田ヒカルはまだ無名だったが、15歳という若さでのデビューにもかかわらず洗練された歌唱力と独特の哀愁を帯びた声、比喩や押韻などを効果的に用いた大人びた歌詞が各方面で大きな反響を呼び、一種の社会現象となった。 新人アーティストの1stアルバムとしては当時異例の初動売上200万枚超えを記録し、[オリコン集計による累積売上](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")765万枚は**日本国内のアルバムセールス歴代1位**の記録となっている\[1\]。また、発売4週目で累積売上400万枚を突破した唯一のアルバムでもある。
+当時宇多田ヒカルはまだ無名だったが、15歳という若さでのデビューにもかかわらず洗練された歌唱力と独特の哀愁を帯びた声、比喩や押韻などを効果的に用いた大人びた歌詞が各方面で大きな反響を呼び、一種の社会現象となった。 新人アーティストの1stアルバムとしては当時異例の初動売上200万枚超えを記録し、[オリコン集計による累積売上](../Page/オリコンチャート.md "wikilink")765万枚は**日本国内のアルバムセールス歴代1位**の記録となっている\[1\]。また、発売4週目で累積売上400万枚を突破した唯一のアルバムでもある。
 
-また[日本レコード協会](https://ja.wikipedia.org/wiki/日本レコード協会 "wikilink")の集計では、発売から10日間で200万枚以上\[2\]、発売約1か月半後の1999年4月20日までに600万枚以上\[3\]、5月20日までに700万枚以上\[4\]、9月20日までに800万枚以上\[5\]、2000年1月31日までに853万8465枚\[6\]を売り上げた。
+また[日本レコード協会](../Page/日本レコード協会.md "wikilink")の集計では、発売から10日間で200万枚以上\[2\]、発売約1か月半後の1999年4月20日までに600万枚以上\[3\]、5月20日までに700万枚以上\[4\]、9月20日までに800万枚以上\[5\]、2000年1月31日までに853万8465枚\[6\]を売り上げた。
 
 1999年8月10日、東芝EMIから累計出荷枚数が800万枚を突破したと発表された\[7\]。現在までに日本で870万枚以上\[8\]、全世界で991万枚以上\[9\]を出荷している。
 
@@ -21,23 +21,23 @@
 
 1.  **[Automatic -Album Edit-](https://ja.wikipedia.org/wiki/Automatic/time_will_tell "wikilink")** (5:28)
       -
-        編曲：[西平彰](https://ja.wikipedia.org/wiki/西平彰 "wikilink") / Rhythm track Arrangement：Taka & Speedy / Additional Arrangement：[河野圭](https://ja.wikipedia.org/wiki/河野圭 "wikilink")
+        編曲：[西平彰](../Page/西平彰.md "wikilink") / Rhythm track Arrangement：Taka & Speedy / Additional Arrangement：[河野圭](https://ja.wikipedia.org/wiki/河野圭 "wikilink")
         1stシングルのアレンジ。
         フジテレビ系「笑う犬の生活-YARANEVA\!\!-」エンディングテーマ。
-2.  '''[Movin' on without you](https://ja.wikipedia.org/wiki/Movin'_on_without_you "wikilink") '''(4:38)
+2.  '''[Movin' on without you](../Page/Movin'_on_without_you.md "wikilink") '''(4:38)
       -
         編曲:[村山晋一郎](https://ja.wikipedia.org/wiki/村山晋一郎 "wikilink")
         2ndシングル。日産.テラノCMソング。
 3.  **In My Room** (4:19)
       -
         編曲:村山晋一郎
-4.  **[First Love](https://ja.wikipedia.org/wiki/First_Love_\(宇多田ヒカルの曲\) "wikilink")** (4:17)
+4.  **[First Love](../Page/First_Love_\(宇多田ヒカルの曲\).md "wikilink")** (4:17)
       -
         編曲:河野圭
         後に3rdシングルとしてシングルカット。TBSドラマ「魔女の条件」主題歌。
 5.  **甘いワナ 〜Paint It, Black** (5:02)
       -
-        作詞・作曲:宇多田ヒカル(甘いワナ) / [Mick Jagger](https://ja.wikipedia.org/wiki/ミック・ジャガー "wikilink") & [Keith Richards](https://ja.wikipedia.org/wiki/キース・リチャーズ "wikilink")(Paint It, Black) / 編曲:西平彰
+        作詞・作曲:宇多田ヒカル(甘いワナ) / [Mick Jagger](../Page/ミック・ジャガー.md "wikilink") & [Keith Richards](../Page/キース・リチャーズ.md "wikilink")(Paint It, Black) / 編曲:西平彰
         [ローリング・ストーンズ](../Page/ローリング・ストーンズ.md "wikilink")の「[黒くぬれ\!](https://ja.wikipedia.org/wiki/黒くぬれ! "wikilink")（原題:Paint It, Black）」の詞の一節を引用している。
 6.  **[time will tell](https://ja.wikipedia.org/wiki/Automatic/time_will_tell "wikilink")** (5:27)
       -
@@ -45,10 +45,10 @@
         1stシングル。フジテレビ系『ごきげんよう』エンディング テーマ。
 7.  **Never Let Go** (3:57)
       -
-        作詞・作曲:宇多田ヒカル / [Sting](../Page/スティング_\(ミュージシャン\).md "wikilink") / [Dominic Miller](https://ja.wikipedia.org/wiki/ドミニク・ミラー_\(ギタリスト\) "wikilink") / 編曲:河野圭
+        作詞・作曲:宇多田ヒカル / [Sting](../Page/スティング_\(ミュージシャン\).md "wikilink") / [Dominic Miller](../Page/ドミニク・ミラー_\(ギタリスト\).md "wikilink") / 編曲:河野圭
         [スティングの](../Page/スティング_\(ミュージシャン\).md "wikilink")「[Shape of My Heart](https://ja.wikipedia.org/wiki/:en:Shape_of_My_Heart_\(disambiguation\) "wikilink")」 のガット・ギターのフレーズを引用している\[10\]。
         TBS 系ドラマ『魔女の条件』挿入歌。
-8.  **[B\&C -Album Version-](https://ja.wikipedia.org/wiki/Movin'_on_without_you "wikilink")** (4:20)
+8.  **[B\&C -Album Version-](../Page/Movin'_on_without_you.md "wikilink")** (4:20)
       -
         編曲:西平彰 Rhythm track Arrangement：Taka & Speedy
         2ndシングルのカップリングのアレンジ。
@@ -57,13 +57,13 @@
         編曲:西平彰、Taka & Speedy（Rhythm track Arrangement）
 10. **Interlude** (0:17)
       -
-        一部が、次作アルバム『[Distance](https://ja.wikipedia.org/wiki/Distance_\(宇多田ヒカルのアルバム\) "wikilink")』収録の「言葉にならない気持ち」でも使用されている。
+        一部が、次作アルバム『[Distance](../Page/Distance_\(宇多田ヒカルのアルバム\).md "wikilink")』収録の「言葉にならない気持ち」でも使用されている。
 11. **Give Me A Reason** (6:27)
       -
         編曲:西平彰
 12. **Automatic -Johnny Vicious Remix-**(Bonus Track) (4:37)
       -
-        「Automatic」の[ジャニー・ヴィシャスによる](https://ja.wikipedia.org/wiki/:en:Johnny_Vicious "wikilink")[リミックス](https://ja.wikipedia.org/wiki/リミックス "wikilink")。15th Anniversary Editionには本編には収録されずボーナスディスクに収録される。
+        「Automatic」の[ジャニー・ヴィシャスによる](https://ja.wikipedia.org/wiki/:en:Johnny_Vicious "wikilink")[リミックス](../Page/リミックス.md "wikilink")。15th Anniversary Editionには本編には収録されずボーナスディスクに収録される。
 
 ## アナログ盤収録曲
 
@@ -122,7 +122,7 @@ SIDE 1,2とSIDE 3,4との2枚組。SIDE 4の2曲目には、CDシングル「Fir
 3.  **In My Room \[TV Mix\]**
 4.  **First Love \[TV Mix\]**
       -
-        宇多田の3rdシングル「[First Love (8cmのみ)](https://ja.wikipedia.org/wiki/First_Love_\(宇多田ヒカルの曲\) "wikilink")」にもOriginal Karaokeとして収録されたことがあるが、シングルの音源はコーラスが残っていない純粋なインストであったのに対して、本作のTV Mixではコーラスが残されている。
+        宇多田の3rdシングル「[First Love (8cmのみ)](../Page/First_Love_\(宇多田ヒカルの曲\).md "wikilink")」にもOriginal Karaokeとして収録されたことがあるが、シングルの音源はコーラスが残っていない純粋なインストであったのに対して、本作のTV Mixではコーラスが残されている。
 5.  **甘いワナ 〜Paint It, Black \[TV Mix\]**
 6.  **time will tell \[TV Mix\]**
 7.  **Never Let Go \[TV Mix\]**
@@ -172,7 +172,7 @@ SIDE 1,2とSIDE 3,4との2枚組。SIDE 4の2曲目には、CDシングル「Fir
 4.
 5.
 6.
-7.  「宇多田ヒカル800万枚 デビューアルバム『First Love』」『[日経産業新聞](https://ja.wikipedia.org/wiki/日経産業新聞 "wikilink")』1999年8月11日付、3頁。
+7.  「宇多田ヒカル800万枚 デビューアルバム『First Love』」『[日経産業新聞](../Page/日経産業新聞.md "wikilink")』1999年8月11日付、3頁。
 8.
 9.
 10.

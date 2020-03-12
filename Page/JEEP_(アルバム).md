@@ -5,19 +5,19 @@
 
 本作はギタリストの矢島賢と長渕との共同プロデュース作品となった。
 
-長渕自身が出演した[映画](../Page/映画.md "wikilink")『[ウォータームーン](https://ja.wikipedia.org/wiki/ウォータームーン "wikilink")』（1989年）の主題歌として使用された先行シングル「[しょっぱい三日月の夜](https://ja.wikipedia.org/wiki/しょっぱい三日月の夜 "wikilink")」、ノンタイアップとなったシングル「[JEEP](https://ja.wikipedia.org/wiki/JEEP_\(曲\) "wikilink")」を収録している。
+長渕自身が出演した[映画](../Page/映画.md "wikilink")『[ウォータームーン](../Page/ウォータームーン.md "wikilink")』（1989年）の主題歌として使用された先行シングル「[しょっぱい三日月の夜](https://ja.wikipedia.org/wiki/しょっぱい三日月の夜 "wikilink")」、ノンタイアップとなったシングル「[JEEP](https://ja.wikipedia.org/wiki/JEEP_\(曲\) "wikilink")」を収録している。
 
 後に、10曲目に収録されている「西新宿の親父の唄」が、[フジテレビ系テレビドラマ](../Page/フジテレビ系列.md "wikilink")『[北の国から 巣立ち](../Page/北の国から.md "wikilink")'92』（1992年）にて挿入歌として使用された。
 
-[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")では最高位1位を獲得している。
+[オリコンチャート](../Page/オリコンチャート.md "wikilink")では最高位1位を獲得している。
 
 ## 背景
 
 前作『[昭和](../Page/昭和_\(アルバム\).md "wikilink")』（[1989年](../Page/1989年.md "wikilink")）リリース後、長渕は3月29日の豊田市民文化会館より7月14日の[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")公演に至るまで、全国24都市全32公演におよぶライブツアー「LIVE'89 昭和」を開催した\[1\]。
 
-その後、映画『[オルゴール](https://ja.wikipedia.org/wiki/オルゴール_\(映画\) "wikilink")』（1989年）の予想外の大ヒットを受けて、[東映](../Page/東映.md "wikilink")とユイ音楽工房との間で長渕主演映画の第2弾が企画され、脚本に[丸山昇一](https://ja.wikipedia.org/wiki/丸山昇一 "wikilink")、監督に[工藤栄一](https://ja.wikipedia.org/wiki/工藤栄一 "wikilink")を迎え映画『[ウォータームーン](https://ja.wikipedia.org/wiki/ウォータームーン "wikilink")』が制作される事となった\[2\]。ライブツアー終了後の長渕は自ら[ロケハン](https://ja.wikipedia.org/wiki/ロケハン "wikilink")を行うなどこの映画に注力していた。しかし、実際の撮影が始まると長渕とスタッフ側との意見の相違から確執が生まれ、同年11月6日の俳優[松田優作](../Page/松田優作.md "wikilink")の死去により映画スタッフ一同が撮影を中断し葬式へ参列した事から確執は決定的なものとなり、監督の工藤が降板したため残りは長渕自らが監督となり、最終的な編集も長渕が行った\[3\]。一時は公開も危ぶまれた状況であったが何とか映画は公開日前に完成し、全国にて12月16日より公開された\[4\]。また、本映画の主題歌「[しょっぱい三日月の夜](https://ja.wikipedia.org/wiki/しょっぱい三日月の夜 "wikilink")」（1989年）を映画公開前の12月8日にリリースし、オリコンチャートでは売り上げ1位、売り上げ枚数は約34万枚を記録するなどヒット曲となった\[5\]。だが、映画の内容は不評を買い、配給収入は前作『オルゴール』を圧倒的に下回る結果となった。
+その後、映画『[オルゴール](../Page/オルゴール_\(映画\).md "wikilink")』（1989年）の予想外の大ヒットを受けて、[東映](../Page/東映.md "wikilink")とユイ音楽工房との間で長渕主演映画の第2弾が企画され、脚本に[丸山昇一](../Page/丸山昇一.md "wikilink")、監督に[工藤栄一](../Page/工藤栄一.md "wikilink")を迎え映画『[ウォータームーン](../Page/ウォータームーン.md "wikilink")』が制作される事となった\[2\]。ライブツアー終了後の長渕は自ら[ロケハン](https://ja.wikipedia.org/wiki/ロケハン "wikilink")を行うなどこの映画に注力していた。しかし、実際の撮影が始まると長渕とスタッフ側との意見の相違から確執が生まれ、同年11月6日の俳優[松田優作](../Page/松田優作.md "wikilink")の死去により映画スタッフ一同が撮影を中断し葬式へ参列した事から確執は決定的なものとなり、監督の工藤が降板したため残りは長渕自らが監督となり、最終的な編集も長渕が行った\[3\]。一時は公開も危ぶまれた状況であったが何とか映画は公開日前に完成し、全国にて12月16日より公開された\[4\]。また、本映画の主題歌「[しょっぱい三日月の夜](https://ja.wikipedia.org/wiki/しょっぱい三日月の夜 "wikilink")」（1989年）を映画公開前の12月8日にリリースし、オリコンチャートでは売り上げ1位、売り上げ枚数は約34万枚を記録するなどヒット曲となった\[5\]。だが、映画の内容は不評を買い、配給収入は前作『オルゴール』を圧倒的に下回る結果となった。
 
-1990年に入り、前年のツアーを収録したライブアルバム『[長渕剛LIVE'89](https://ja.wikipedia.org/wiki/長渕剛LIVE'89 "wikilink")』（1990年）をリリース、7月25日には先行シングルとして「[JEEP](https://ja.wikipedia.org/wiki/JEEP_\(曲\) "wikilink")」（1990年）をリリース、シングル前3作は全てタイアップが付いていたが、本シングルはノンタイアップとなり、オリコンチャートでは最高位2位を獲得、約30万枚を売り上げた\[6\]。
+1990年に入り、前年のツアーを収録したライブアルバム『[長渕剛LIVE'89](../Page/長渕剛LIVE'89.md "wikilink")』（1990年）をリリース、7月25日には先行シングルとして「[JEEP](https://ja.wikipedia.org/wiki/JEEP_\(曲\) "wikilink")」（1990年）をリリース、シングル前3作は全てタイアップが付いていたが、本シングルはノンタイアップとなり、オリコンチャートでは最高位2位を獲得、約30万枚を売り上げた\[6\]。
 
 ## 録音
 
@@ -31,9 +31,9 @@
 
 ## リリース
 
-[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[8月25日](../Page/8月25日.md "wikilink")に[東芝EMIのエキスプレスレーベルより](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")[カセットテープ](../Page/コンパクトカセット.md "wikilink")、[CDの](../Page/コンパクトディスク.md "wikilink")2形態でリリースされた。
+[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[8月25日](../Page/8月25日.md "wikilink")に[東芝EMIのエキスプレスレーベルより](../Page/EMIミュージック・ジャパン.md "wikilink")[カセットテープ](../Page/コンパクトカセット.md "wikilink")、[CDの](../Page/コンパクトディスク.md "wikilink")2形態でリリースされた。
 
-その後、CDのみ[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[2月8日](../Page/2月8日.md "wikilink")に24ビット・デジタルリマスターで再リリースされた\[10\]。
+その後、CDのみ[2006年](../Page/2006年.md "wikilink")[2月8日](../Page/2月8日.md "wikilink")に24ビット・デジタルリマスターで再リリースされた\[10\]。
 
 ## プロモーション
 
@@ -41,7 +41,7 @@
 
 ## ツアー
 
-本作を受けてのコンサートツアーは「LIVE'90 - '91 JEEP」と題し、1990年[9月22日](../Page/9月22日.md "wikilink")の山梨県民文化ホールを皮切りに32都市全42公演が行われた\[11\]\[12\]。また、本ツアーの中から11月8日の[大阪城ホール](../Page/大阪城ホール.md "wikilink")、12月8日の[代々木第一体育館](https://ja.wikipedia.org/wiki/国立代々木競技場 "wikilink")、翌年1月18日の[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")の模様を収録したライブビデオ『カラス LIVE from '90 - '91 JEEP TOUR』が1991年5月24日にリリースされている\[13\]。
+本作を受けてのコンサートツアーは「LIVE'90 - '91 JEEP」と題し、1990年[9月22日](../Page/9月22日.md "wikilink")の山梨県民文化ホールを皮切りに32都市全42公演が行われた\[11\]\[12\]。また、本ツアーの中から11月8日の[大阪城ホール](../Page/大阪城ホール.md "wikilink")、12月8日の[代々木第一体育館](../Page/国立代々木競技場.md "wikilink")、翌年1月18日の[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")の模様を収録したライブビデオ『カラス LIVE from '90 - '91 JEEP TOUR』が1991年5月24日にリリースされている\[13\]。
 
 ## 批評
 
@@ -57,7 +57,7 @@
 
 ## チャート成績
 
-[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")では最高位1位となり、売り上げは約47万枚となった\[18\]。
+[オリコンチャート](../Page/オリコンチャート.md "wikilink")では最高位1位となり、売り上げは約47万枚となった\[18\]。
 
 ## 収録曲
 
@@ -91,7 +91,7 @@
   -
     日本の現状への不快感を露にした曲。[桜島](../Page/桜島.md "wikilink")オールナイトライブのように、時折歌詞の一部を変えて歌われることもある。
 
-\#:長渕の楽曲の中では、歌詞の中にアーティスト名（この曲では[ミック・ジャガー](https://ja.wikipedia.org/wiki/ミック・ジャガー "wikilink")）が登場する数少ない楽曲のうちのひとつである。
+\#:長渕の楽曲の中では、歌詞の中にアーティスト名（この曲では[ミック・ジャガー](../Page/ミック・ジャガー.md "wikilink")）が登場する数少ない楽曲のうちのひとつである。
 
   -
     打ち込みのリズムが薄く入っている以外は、長渕、矢島の変則チューニングによるアコースティックギターと、長渕のハーモニカだけで演奏されている。
@@ -106,7 +106,7 @@
         "黒ちゃん"は、脚本家の[黒土三男](../Page/黒土三男.md "wikilink")のことを指す。ドラマや映画などで一緒に仕事をする機会の多かった2人が、[新幹線](../Page/新幹線.md "wikilink")に乗って[大阪](../Page/大阪.md "wikilink")まで観光に出掛けるストーリーが描かれている。
 3.  **西新宿の親父の唄**
       -
-        「**やるなら今しかねえ**」のフレーズが有名な曲。[倉本聰](https://ja.wikipedia.org/wiki/倉本聰 "wikilink")脚本・[フジテレビ制作のドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『北の国から'92 巣立ち』で使用された。なお、タイトルである西新宿の親父というのはモデルは存在するが、実在しない創作上の人物であることを倉本のラジオ番組内で対談した際に語ったほか。バラエティ番組『[SMAP×SMAP](https://ja.wikipedia.org/wiki/SMAP×SMAP "wikilink")』に長渕が出演した回で、[木村拓哉](https://ja.wikipedia.org/wiki/木村拓哉 "wikilink")のお気に入りの楽曲として紹介された。
+        「**やるなら今しかねえ**」のフレーズが有名な曲。[倉本聰](../Page/倉本聰.md "wikilink")脚本・[フジテレビ制作のドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『北の国から'92 巣立ち』で使用された。なお、タイトルである西新宿の親父というのはモデルは存在するが、実在しない創作上の人物であることを倉本のラジオ番組内で対談した際に語ったほか。バラエティ番組『[SMAP×SMAP](https://ja.wikipedia.org/wiki/SMAP×SMAP "wikilink")』に長渕が出演した回で、[木村拓哉](../Page/木村拓哉.md "wikilink")のお気に入りの楽曲として紹介された。
 4.  **JEEP**
       -
         23枚目のシングル曲。サビ以外のフレーズが、[ラップ](../Page/ラップ.md "wikilink")のような韻を踏んだ歌詞になっている。
@@ -118,7 +118,7 @@
 
 ### 参加ミュージシャン
 
-  - **[長谷部徹](https://ja.wikipedia.org/wiki/長谷部徹_\(ドラマー\) "wikilink")** - [ドラムス](../Page/ドラムセット.md "wikilink")（4,9,12曲目）
+  - **[長谷部徹](../Page/長谷部徹_\(ドラマー\).md "wikilink")** - [ドラムス](../Page/ドラムセット.md "wikilink")（4,9,12曲目）
   - **渡嘉敷祐一** - ドラムス（1,6曲目）
   - **[江口信夫](https://ja.wikipedia.org/wiki/江口信夫 "wikilink")** - ドラムス（2,10曲目）
   - **[古澤良治郎](https://ja.wikipedia.org/wiki/古澤良治郎 "wikilink")** - ドラムス（3曲目）
@@ -127,11 +127,11 @@
   - **[美久月千晴](https://ja.wikipedia.org/wiki/美久月千晴 "wikilink")** - エレクトリックベース（8,12曲目）
   - **[高橋ゲタ夫](https://ja.wikipedia.org/wiki/高橋ゲタ夫 "wikilink")** - エレクトリックベース（3曲目）
   - **高水健司** - [ウッドベース](../Page/コントラバス.md "wikilink")（5曲目）
-  - **長渕剛** - [アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")（1,2,4,7,9,10,11曲目）、[エレクトリックギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")（6曲目）、[ブルースハープ](https://ja.wikipedia.org/wiki/ハーモニカ "wikilink")（6,7,10曲目）
-  - **[矢島賢](../Page/矢島賢.md "wikilink")** - エレクトリックギター（1,2,3,4,5,8,9曲目）、アコースティック・ギター（1,7曲目）、[キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")（4曲目）
-  - **[笛吹利明](https://ja.wikipedia.org/wiki/笛吹利明 "wikilink")** - アコースティック・ギター（8曲目）、[フラットマンドリン](https://ja.wikipedia.org/wiki/フラットマンドリン "wikilink")（6,9,10曲目）
+  - **長渕剛** - [アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")（1,2,4,7,9,10,11曲目）、[エレクトリックギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")（6曲目）、[ブルースハープ](../Page/ハーモニカ.md "wikilink")（6,7,10曲目）
+  - **[矢島賢](../Page/矢島賢.md "wikilink")** - エレクトリックギター（1,2,3,4,5,8,9曲目）、アコースティック・ギター（1,7曲目）、[キーボード](../Page/キーボード_\(楽器\).md "wikilink")（4曲目）
+  - **[笛吹利明](https://ja.wikipedia.org/wiki/笛吹利明 "wikilink")** - アコースティック・ギター（8曲目）、[フラットマンドリン](../Page/フラットマンドリン.md "wikilink")（6,9,10曲目）
   - **塩次伸二** - エレクトリックギター（3曲目）
-  - **[中西康晴](https://ja.wikipedia.org/wiki/中西康晴 "wikilink")** - キーボード（1,2,4,5,6,9,10,11,12曲目）
+  - **[中西康晴](../Page/中西康晴.md "wikilink")** - キーボード（1,2,4,5,6,9,10,11,12曲目）
   - **エルトン永田** - キーボード（8曲目）
   - **浜田良美** - [バックグラウンドボーカル](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")（1,4,7,10曲目）
   - **土肥二朗** - バックグラウンドボーカル（1,10曲目）
@@ -139,9 +139,9 @@
   - **杉並児童合唱団** - バックグラウンドボーカル（3曲目）
   - **The Mugifumi** - バックグラウンドボーカル（3曲目）
   - **EVE** - バックグラウンドボーカル（10曲目）
-  - **[玉木宏樹](https://ja.wikipedia.org/wiki/玉木宏樹 "wikilink")** - ソロ・[ヴァイオリン](../Page/ヴァイオリン.md "wikilink")（10曲目）
+  - **[玉木宏樹](../Page/玉木宏樹.md "wikilink")** - ソロ・[ヴァイオリン](../Page/ヴァイオリン.md "wikilink")（10曲目）
   - **中山信彦** - オペレーター（8,11,12曲目）
-  - **[瀬尾一三](https://ja.wikipedia.org/wiki/瀬尾一三 "wikilink")** - オペレーター（5,12曲目）
+  - **[瀬尾一三](../Page/瀬尾一三.md "wikilink")** - オペレーター（5,12曲目）
   - **[石川鉄男](https://ja.wikipedia.org/wiki/石川鉄男 "wikilink")** - オペレーター（5曲目）
   - **浦田恵司** - オペレーター（10,12曲目）
 
@@ -149,7 +149,7 @@
 
   - **長渕剛** - プロデュース
   - **矢島賢** - プロデュース
-  - **石塚良一 (Z's)** - [レコーディング・エンジニア](https://ja.wikipedia.org/wiki/レコーディング・エンジニア "wikilink")、ミックス・エンジニア
+  - **石塚良一 (Z's)** - [レコーディング・エンジニア](../Page/レコーディング・エンジニア.md "wikilink")、ミックス・エンジニア
   - **堀江俊一郎（東芝EMI）** - [A\&R](https://ja.wikipedia.org/wiki/A&R "wikilink")ディレクター
   - **松原マサノリ (EPICURUS)** - 追加エンジニア
   - **加藤謙吾 (Epicurus)** - アシスタント・エンジニア
@@ -172,7 +172,7 @@
   - **KOJI SHIJI (Jet Planning)** - スペシャル・サンクス
   - **[後藤由多加](https://ja.wikipedia.org/wiki/後藤由多加 "wikilink")（ユイ音楽工房）** - エグゼクティブ・プロデューサー
   - **森田秀美（オフィス・レン）** - エグゼクティブ・プロデューサー
-  - **[川上源一](https://ja.wikipedia.org/wiki/川上源一 "wikilink")（ヤマハ音楽振興会）** - エグゼクティブ・プロデューサー
+  - **[川上源一](../Page/川上源一.md "wikilink")（ヤマハ音楽振興会）** - エグゼクティブ・プロデューサー
 
 ## リリース履歴
 
@@ -183,7 +183,7 @@
 <th><p>日付</p></th>
 <th><p><a href="../Page/レコードレーベル.md" title="wikilink">レーベル</a></p></th>
 <th><p>規格</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>最高順位</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -192,7 +192,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1990年" title="wikilink">1990年</a><a href="../Page/8月25日.md" title="wikilink">8月25日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン" title="wikilink">東芝EMI</a>／エキスプレス</p></td>
+<td><p><a href="../Page/EMIミュージック・ジャパン.md" title="wikilink">東芝EMI</a>／エキスプレス</p></td>
 <td><p><a href="../Page/コンパクトディスク.md" title="wikilink">CD</a><br />
 <a href="../Page/カセットテープ.md" title="wikilink">CT</a></p></td>
 <td><p>TOCT-5800 (CD)<br />
@@ -202,12 +202,12 @@ TOTT-5800 (CT)</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/2月8日.md" title="wikilink">2月8日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/2月8日.md" title="wikilink">2月8日</a></p></td>
 <td><p>東芝EMI／エキスプレス</p></td>
 <td><p>CD</p></td>
 <td><p>TOCT-25955</p></td>
 <td><p>-</p></td>
-<td><p>24ビット・<a href="https://ja.wikipedia.org/wiki/デジタルリマスター" title="wikilink">デジタルリマスター</a></p></td>
+<td><p>24ビット・<a href="../Page/デジタルリマスター.md" title="wikilink">デジタルリマスター</a></p></td>
 </tr>
 </tbody>
 </table>

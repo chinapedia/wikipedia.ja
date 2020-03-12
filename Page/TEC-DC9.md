@@ -1,17 +1,17 @@
 > この記事は[TEC-DC9](https://ja.wikipedia.org/wiki/TEC-DC9)から翻訳されています。
 
 
-[300px](https://ja.wikipedia.org/wiki/画像:kg99.jpg "wikilink") **TEC-DC9**は、[9x19mmパラベラム弾](https://ja.wikipedia.org/wiki/9x19mmパラベラム弾 "wikilink")を使用する[シンプル・ブローバック方式](https://ja.wikipedia.org/wiki/ブローバック#シンプル・ブローバック方式 "wikilink")・[オープン・ボルト撃発のセミオート](https://ja.wikipedia.org/wiki/:en:open_bolt "wikilink")[火器](https://ja.wikipedia.org/wiki/火器 "wikilink")である。一般的には初期のセールス名である"**TEC-9**"と呼ばれることが多い。
+[300px](https://ja.wikipedia.org/wiki/画像:kg99.jpg "wikilink") **TEC-DC9**は、[9x19mmパラベラム弾](../Page/9x19mmパラベラム弾.md "wikilink")を使用する[シンプル・ブローバック方式](https://ja.wikipedia.org/wiki/ブローバック#シンプル・ブローバック方式 "wikilink")・[オープン・ボルト撃発のセミオート](https://ja.wikipedia.org/wiki/:en:open_bolt "wikilink")[火器](https://ja.wikipedia.org/wiki/火器 "wikilink")である。一般的には初期のセールス名である"**TEC-9**"と呼ばれることが多い。
 
 元来は[短機関銃](../Page/短機関銃.md "wikilink")（もしくは[マシンピストル](https://ja.wikipedia.org/wiki/拳銃#マシンピストル "wikilink")）として開発されたものだが、アメリカの[アルコール・タバコ・火器及び爆発物取締局](https://ja.wikipedia.org/wiki/アルコール・タバコ・火器及び爆発物取締局 "wikilink")（ATF）からは[拳銃](../Page/拳銃.md "wikilink")として分類されている。
 
 ## 概要
 
-製品としては3種類のタイプがあり、TEC-DC9以外は別の名前で市場に出ていたが、これら三機種全てが一般にTEC-9と呼ばれている。[射出成形](../Page/射出成形.md "wikilink")された安価なポリマー製のフレームとプレス加工されたスチールパーツからなっている。[弾倉](https://ja.wikipedia.org/wiki/弾倉 "wikilink")は10、20、32そして50発入りのものが使える。
+製品としては3種類のタイプがあり、TEC-DC9以外は別の名前で市場に出ていたが、これら三機種全てが一般にTEC-9と呼ばれている。[射出成形](../Page/射出成形.md "wikilink")された安価なポリマー製のフレームとプレス加工されたスチールパーツからなっている。[弾倉](../Page/弾倉.md "wikilink")は10、20、32そして50発入りのものが使える。
 
 かつて、[アメリカではTEC](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")-9がわずか200[米ドルという金額で売られていた](../Page/アメリカ合衆国ドル.md "wikilink")。
 
-この[武器](../Page/武器.md "wikilink")は[コロンバイン高校銃乱射事件](https://ja.wikipedia.org/wiki/コロンバイン高校銃乱射事件 "wikilink")で[エリック・デヴィッド・ハリス](https://ja.wikipedia.org/wiki/エリック・デヴィッド・ハリス "wikilink")と[ディラン・ベネット・クレボルド・ブラッドレイ](https://ja.wikipedia.org/wiki/ディラン・ベネット・クレボルド・ブラッドレイ "wikilink")によって使われた凶器のうちの一つであり、この事件で多数の死傷者を出す一因となった。
+この[武器](../Page/武器.md "wikilink")は[コロンバイン高校銃乱射事件](../Page/コロンバイン高校銃乱射事件.md "wikilink")で[エリック・デヴィッド・ハリス](https://ja.wikipedia.org/wiki/エリック・デヴィッド・ハリス "wikilink")と[ディラン・ベネット・クレボルド・ブラッドレイ](https://ja.wikipedia.org/wiki/ディラン・ベネット・クレボルド・ブラッドレイ "wikilink")によって使われた凶器のうちの一つであり、この事件で多数の死傷者を出す一因となった。
 
 ## 歴史
 
@@ -19,13 +19,13 @@ TEC-9は、もともと[スウェーデン](https://ja.wikipedia.org/wiki/スウ
 
 この製品はどこの軍ともセールスを取り付けることができず、MP-9は生産されることは無かったが、諦めきれないインターダイナミックは、[アメリカで民間向けのセミオート](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[拳銃](../Page/拳銃.md "wikilink")としてこの銃の代替市場を見出そうとした。そしてGeorge Kelgrenの手によって、KG-9として再設計が施された。
 
-元が短機関銃であることから、KG-9はセミオートにもかかわらずオープンボルトで発射するという特徴があり、それのために違法にフルオートに改造することが比較的簡単であった。そのため、走行中の車から人を無差別に発砲する[ドライブバイシューティング](https://ja.wikipedia.org/wiki/ドライブバイシューティング "wikilink")に多用され、TEC-9は一般からは[犯罪](https://ja.wikipedia.org/wiki/犯罪 "wikilink")と[ギャング](https://ja.wikipedia.org/wiki/ギャング "wikilink")の暴行の[代名詞](../Page/代名詞.md "wikilink")という汚名を着せられることとなった。
+元が短機関銃であることから、KG-9はセミオートにもかかわらずオープンボルトで発射するという特徴があり、それのために違法にフルオートに改造することが比較的簡単であった。そのため、走行中の車から人を無差別に発砲する[ドライブバイシューティング](https://ja.wikipedia.org/wiki/ドライブバイシューティング "wikilink")に多用され、TEC-9は一般からは[犯罪](https://ja.wikipedia.org/wiki/犯罪 "wikilink")と[ギャング](../Page/ギャング.md "wikilink")の暴行の[代名詞](../Page/代名詞.md "wikilink")という汚名を着せられることとなった。
 
 事態を重く見た[ATFは](https://ja.wikipedia.org/wiki/アルコール・タバコ・火器及び爆発物取締局 "wikilink")、[1982年](../Page/1982年.md "wikilink")にインターダイナミックにフルオートマチックへの改造が困難なクローズドボルトタイプの銃にTEC-9の設計を変更するように命令した。
 
 インターダイナミックはその後イントラテックと改称し、設計を改めたクローズドボルトタイプの銃は"KG-99"の社内名称がつけられ、最初は"TC-9"として発売され、後に"TEC-DC9"という名称になった。[1994年](../Page/1994年.md "wikilink")の[連邦攻撃武器規制法](https://ja.wikipedia.org/wiki/連邦攻撃武器規制法 "wikilink")（The Assault Weapon Ban)はイントラテック社にTEC-DC9という名前を使うことを禁じた。その上で、新たな規制に適合させるため、TEC-9の特徴であった銃身覆い（バレルシュラウド）を廃止し、[銃口](https://ja.wikipedia.org/wiki/銃口 "wikilink")のサプレッサー装着用ネジのない新しいモデルを作らざるをえなくなった。この規制適合モデルは"AB-10"の名称で販売されたが、ユーザーの評価は芳しく無く、また「違法な用途に適した改造が困難なこと」は犯罪者へのセールスポイントを失わせたため、売り上げは激減、数年後、イントラテックは廃業に追い込まれ、AB-10の生産もストップした。
 
-[90年後半以降](https://ja.wikipedia.org/wiki/1990年 "wikilink")、[ギャング](https://ja.wikipedia.org/wiki/ギャング "wikilink")による暴行が減り続けていることに関連し、ギャングはTEC-9より携行性に優れた小さな[武器](../Page/武器.md "wikilink")を求めるようになり、ギャングからの需要は減ってきている。
+[90年後半以降](https://ja.wikipedia.org/wiki/1990年 "wikilink")、[ギャング](../Page/ギャング.md "wikilink")による暴行が減り続けていることに関連し、ギャングはTEC-9より携行性に優れた小さな[武器](../Page/武器.md "wikilink")を求めるようになり、ギャングからの需要は減ってきている。
 
 近年では市場に出回らなくなり、流通する数が限られているため、初代のKG-9をはじめ各機種が[ガンコレクター](https://ja.wikipedia.org/wiki/ガンコレクター "wikilink")の注目を集めている。
 
@@ -37,7 +37,7 @@ TEC-9は精度を要求されない[短機関銃](../Page/短機関銃.md "wikil
 
 ## TEC-9の遊戯銃
 
-[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")でTEC-9のオリジナルであるKG-9は、黎明期からの[サバイバルゲーム](../Page/サバイバルゲーム.md "wikilink")愛好家にとって非常に印象深い銃である。[マルゼンがモデルアップしたKG](https://ja.wikipedia.org/wiki/マルゼン_\(トイガンメーカー\) "wikilink")-9の[エアコッキングガンは](https://ja.wikipedia.org/wiki/エアソフトガン#エアコッキングガン "wikilink")、[ポンプアクション](https://ja.wikipedia.org/wiki/ポンプアクション "wikilink")化が容易なために速射性が高く、小型で小回りが効くため、当時のサバイバルゲームでの主力ボルトアクションライフルであった[タカトクトイス](https://ja.wikipedia.org/wiki/タカトクトイス "wikilink")[SS-9000](../Page/SS-9000.md "wikilink")に対抗しうる近距離用装備として、絶大な人気を博していた。
+[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")でTEC-9のオリジナルであるKG-9は、黎明期からの[サバイバルゲーム](../Page/サバイバルゲーム.md "wikilink")愛好家にとって非常に印象深い銃である。[マルゼンがモデルアップしたKG](../Page/マルゼン_\(トイガンメーカー\).md "wikilink")-9の[エアコッキングガンは](https://ja.wikipedia.org/wiki/エアソフトガン#エアコッキングガン "wikilink")、[ポンプアクション](https://ja.wikipedia.org/wiki/ポンプアクション "wikilink")化が容易なために速射性が高く、小型で小回りが効くため、当時のサバイバルゲームでの主力ボルトアクションライフルであった[タカトクトイス](../Page/タカトクトイス.md "wikilink")[SS-9000](../Page/SS-9000.md "wikilink")に対抗しうる近距離用装備として、絶大な人気を博していた。
 
 マルゼン自体もKG-9に思い入れがあったのか、その後も時代の風潮から一歩遅れる形ではあったものの、セミオートガスガン、BV式ガスガン、ブローバックガスガンと、何度も内部の発射機構を変えてリリースされている。
 
@@ -47,9 +47,9 @@ TEC-9は精度を要求されない[短機関銃](../Page/短機関銃.md "wikil
 
 :; 『[フォーリング・ダウン](../Page/フォーリング・ダウン.md "wikilink")』
 
-:: [マイケル・ダグラス](https://ja.wikipedia.org/wiki/マイケル・ダグラス "wikilink")演じる主人公の中年男がバーガーショップで本銃を乱射する。
+:: [マイケル・ダグラス](../Page/マイケル・ダグラス.md "wikilink")演じる主人公の中年男がバーガーショップで本銃を乱射する。
 
-:; 『[ジャッキー・ブラウン](https://ja.wikipedia.org/wiki/ジャッキー・ブラウン "wikilink")』
+:; 『[ジャッキー・ブラウン](../Page/ジャッキー・ブラウン.md "wikilink")』
 
 ::ビデオ画面の中でビキニ姿のシドニーがこの銃を説明する。それを見ながらオデール（サミュエル・L・ジャクソン）がルイス（ロバート・デ・ニーロ）に更にウンチクを語る。
 
@@ -62,7 +62,7 @@ TEC-9は精度を要求されない[短機関銃](../Page/短機関銃.md "wikil
 
 ### テレビドラマ
 
-:; 『[CSI:マイアミ](https://ja.wikipedia.org/wiki/CSI:マイアミ "wikilink")』
+:; 『[CSI:マイアミ](../Page/CSI:マイアミ.md "wikilink")』
 
 :: 第9シーズン「仁義なき闘い」に登場。
 
@@ -86,7 +86,7 @@ TEC-9は精度を要求されない[短機関銃](../Page/短機関銃.md "wikil
   -
 
       -
-        「KG-9」の名称で[サバイバルゲーム](../Page/サバイバルゲーム.md "wikilink")用の[トイガンとして登場](https://ja.wikipedia.org/wiki/遊戯銃 "wikilink")。
+        「KG-9」の名称で[サバイバルゲーム](../Page/サバイバルゲーム.md "wikilink")用の[トイガンとして登場](../Page/遊戯銃.md "wikilink")。
 
 ### 小説
 
@@ -95,7 +95,7 @@ TEC-9は精度を要求されない[短機関銃](../Page/短機関銃.md "wikil
   -
 
       -
-        [殺し屋](https://ja.wikipedia.org/wiki/殺し屋 "wikilink")シュガーに追い込まれた[ベトナム帰還兵](https://ja.wikipedia.org/wiki/ベトナム帰還兵 "wikilink")ルウェリン・モスが入手。
+        [殺し屋](../Page/殺し屋.md "wikilink")シュガーに追い込まれた[ベトナム帰還兵](../Page/ベトナム帰還兵.md "wikilink")ルウェリン・モスが入手。
 
 ### ゲーム
 
@@ -107,11 +107,11 @@ TEC-9は精度を要求されない[短機関銃](../Page/短機関銃.md "wikil
 
 ::; 『[GTA:VC](../Page/グランド・セフト・オート・バイスシティ.md "wikilink")』
 
-::: 「Tec9」の名称でフルオート改造仕様が登場。走りながら[射撃](https://ja.wikipedia.org/wiki/射撃 "wikilink")が可能。
+::: 「Tec9」の名称でフルオート改造仕様が登場。走りながら[射撃](../Page/射撃.md "wikilink")が可能。
 
-::; 『[GTA:SA](https://ja.wikipedia.org/wiki/グランド・セフト・オート・サンアンドレアス "wikilink")』
+::; 『[GTA:SA](../Page/グランド・セフト・オート・サンアンドレアス.md "wikilink")』
 
-::: 「Tec-9」の名称でフルオート改造仕様が登場。走りながら射撃が可能なほか、射撃スキルを上げることで[二丁撃ちが可能](https://ja.wikipedia.org/wiki/二丁拳銃 "wikilink")。
+::: 「Tec-9」の名称でフルオート改造仕様が登場。走りながら射撃が可能なほか、射撃スキルを上げることで[二丁撃ちが可能](../Page/二丁拳銃.md "wikilink")。
 
 ::; 『[GTA:LCS](../Page/グランド・セフト・オート・リバティーシティ・ストーリーズ.md "wikilink")』
 
@@ -131,7 +131,7 @@ TEC-9は精度を要求されない[短機関銃](../Page/短機関銃.md "wikil
   -
 
       -
-        「T3K Urban」の名称で登場。[サブマシンガンカテゴリーの中では最も安価に購入でき](../Page/短機関銃.md "wikilink")、両作品とも全[ギャング](https://ja.wikipedia.org/wiki/ギャング "wikilink")組織（主人公属するサードストリートセインツと、初代の3つのギャング団および『2』の3つのギャング団）の構成員たちが多く愛用する。ただし、連射性能も命中性能もほかと比べると乏しい。装弾数は50発。
+        「T3K Urban」の名称で登場。[サブマシンガンカテゴリーの中では最も安価に購入でき](../Page/短機関銃.md "wikilink")、両作品とも全[ギャング](../Page/ギャング.md "wikilink")組織（主人公属するサードストリートセインツと、初代の3つのギャング団および『2』の3つのギャング団）の構成員たちが多く愛用する。ただし、連射性能も命中性能もほかと比べると乏しい。装弾数は50発。
 
 :; 『[バトルフィールド ハードライン](https://ja.wikipedia.org/wiki/バトルフィールド_ハードライン "wikilink")』
 
@@ -140,7 +140,7 @@ TEC-9は精度を要求されない[短機関銃](../Page/短機関銃.md "wikil
   -
 
       -
-        「TEC-9」という名称で存在していたが削除され、「タクティカルサブマシンガン」というTEC-9によく似たサブマシンガンが追加された。しかしまた削除され、[H\&K MP5に置き換えられた](https://ja.wikipedia.org/wiki/H&K_MP5 "wikilink")。
+        「TEC-9」という名称で存在していたが削除され、「タクティカルサブマシンガン」というTEC-9によく似たサブマシンガンが追加された。しかしまた削除され、[H\&K MP5に置き換えられた](../Page/H&K_MP5.md "wikilink")。
 
 ## 関連項目
 

@@ -1,13 +1,13 @@
 > この記事は[Media youth](https://ja.wikipedia.org/wiki/Media_youth)から翻訳されています。
 
 
-**media youth**（メディアユース）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[KIYOSHI](https://ja.wikipedia.org/wiki/KIYOSHI "wikilink")、DAISUKE、[HIROKIの](https://ja.wikipedia.org/wiki/HIROKI_\(ベーシスト\) "wikilink")3人（結成当時はドラムのKOHICHIを入れた4人）で編成。[X JAPAN加入以前の](../Page/X_JAPAN.md "wikilink")[HEATH](https://ja.wikipedia.org/wiki/HEATH "wikilink")が在籍していたことがある。
+**media youth**（メディアユース）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[KIYOSHI](../Page/KIYOSHI.md "wikilink")、DAISUKE、[HIROKIの](https://ja.wikipedia.org/wiki/HIROKI_\(ベーシスト\) "wikilink")3人（結成当時はドラムのKOHICHIを入れた4人）で編成。[X JAPAN加入以前の](../Page/X_JAPAN.md "wikilink")[HEATH](../Page/HEATH.md "wikilink")が在籍していたことがある。
 
 ## 概要
 
 [1990年代](../Page/1990年代.md "wikilink")初頭から流行した[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")のバンドに分類される。前身バンドSWEET DEATHのメンバーにより結成。
 
-インディーズ時代では[X JAPANの](../Page/X_JAPAN.md "wikilink")[YOSHIKI](../Page/YOSHIKI.md "wikilink")が代表を務める[Extasy Recordsに所属](https://ja.wikipedia.org/wiki/エクスタシーレコード "wikilink")。後に[Tears Musicに移籍](../Page/ティアーズ音楽事務所.md "wikilink")。当時は[PENICILLIN](../Page/PENICILLIN.md "wikilink")や[Sleep My Dear](https://ja.wikipedia.org/wiki/Sleep_My_Dear "wikilink")、[Silver-Rose](https://ja.wikipedia.org/wiki/Silver-Rose "wikilink")も所属していた。
+インディーズ時代では[X JAPANの](../Page/X_JAPAN.md "wikilink")[YOSHIKI](../Page/YOSHIKI.md "wikilink")が代表を務める[Extasy Recordsに所属](../Page/エクスタシーレコード.md "wikilink")。後に[Tears Musicに移籍](../Page/ティアーズ音楽事務所.md "wikilink")。当時は[PENICILLIN](../Page/PENICILLIN.md "wikilink")や[Sleep My Dear](https://ja.wikipedia.org/wiki/Sleep_My_Dear "wikilink")、[Silver-Rose](https://ja.wikipedia.org/wiki/Silver-Rose "wikilink")も所属していた。
 
 [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、バップよりシングル「Missing」でメジャーデビュー。
 
@@ -21,19 +21,19 @@
 
   - DAISUKE ([ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink"))
       - 解散後はソロ活動を経て現在はTHE SOUND BEE HDで活動。
-  - [KIYOSHI](https://ja.wikipedia.org/wiki/KIYOSHI "wikilink") ([ギター](../Page/ギター.md "wikilink"))
-      - [X JAPANの](../Page/X_JAPAN.md "wikilink")[HIDEのソロプロジェクト](../Page/Hide.md "wikilink")[hide with Spread Beaverや](https://ja.wikipedia.org/wiki/hide_with_Spread_Beaver "wikilink")[PENICILLIN](../Page/PENICILLIN.md "wikilink")の[HAKUEI](https://ja.wikipedia.org/wiki/HAKUEI "wikilink")とのユニット[machine](https://ja.wikipedia.org/wiki/machine "wikilink")など多方面で活動。
-  - [HIROKI](https://ja.wikipedia.org/wiki/HIROKI_\(ベーシスト\) "wikilink") ([ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink"))
-      - 解散後は[HYDEや](https://ja.wikipedia.org/wiki/Hyde "wikilink")[河村隆一](https://ja.wikipedia.org/wiki/河村隆一 "wikilink")、[PENICILLIN](../Page/PENICILLIN.md "wikilink")、[m.o.v.e](https://ja.wikipedia.org/wiki/m.o.v.e "wikilink")など数々のアーティストのサポートベーシストとして活動。
+  - [KIYOSHI](../Page/KIYOSHI.md "wikilink") ([ギター](../Page/ギター.md "wikilink"))
+      - [X JAPANの](../Page/X_JAPAN.md "wikilink")[HIDEのソロプロジェクト](../Page/Hide.md "wikilink")[hide with Spread Beaverや](https://ja.wikipedia.org/wiki/hide_with_Spread_Beaver "wikilink")[PENICILLIN](../Page/PENICILLIN.md "wikilink")の[HAKUEI](../Page/HAKUEI.md "wikilink")とのユニット[machine](https://ja.wikipedia.org/wiki/machine "wikilink")など多方面で活動。
+  - [HIROKI](https://ja.wikipedia.org/wiki/HIROKI_\(ベーシスト\) "wikilink") ([ベース](../Page/ベース_\(弦楽器\).md "wikilink"))
+      - 解散後は[HYDEや](https://ja.wikipedia.org/wiki/Hyde "wikilink")[河村隆一](../Page/河村隆一.md "wikilink")、[PENICILLIN](../Page/PENICILLIN.md "wikilink")、[m.o.v.e](https://ja.wikipedia.org/wiki/m.o.v.e "wikilink")など数々のアーティストのサポートベーシストとして活動。
 
 ## 元メンバー
 
   - KOHICHI ([ドラム](../Page/ドラムセット.md "wikilink"))
       - メジャーデビュー後に脱退。
-  - [HEATH](https://ja.wikipedia.org/wiki/HEATH "wikilink") (ベース)
+  - [HEATH](../Page/HEATH.md "wikilink") (ベース)
       - 脱退後は[X JAPANに加入](../Page/X_JAPAN.md "wikilink")。在籍期間が短かったため参加している楽曲は残っていない。
   - 笹野学 (初代ボーカル)
-      - 加入前は[AION](https://ja.wikipedia.org/wiki/AION "wikilink")やPARANOIAに在籍。PARANOIAにはHEATHやAIONの[NOVも在籍していた](https://ja.wikipedia.org/wiki/NOV_\(ボーカリスト\) "wikilink")。
+      - 加入前は[AION](../Page/AION.md "wikilink")やPARANOIAに在籍。PARANOIAにはHEATHやAIONの[NOVも在籍していた](https://ja.wikipedia.org/wiki/NOV_\(ボーカリスト\) "wikilink")。
 
 ## ディスコグラフィ
 
@@ -180,7 +180,7 @@
 <li>Suicide in Presure</li>
 <li>Die in the rain</li>
 </ol></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エクスタシーレコード" title="wikilink">エクスタシーレコード</a>からリリース</p></td>
+<td><p><a href="../Page/エクスタシーレコード.md" title="wikilink">エクスタシーレコード</a>からリリース</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
@@ -258,7 +258,7 @@ GRCO-10028</p></td>
 <li>CLOUDY</li>
 </ol></td>
 <td><p>メジャー1stアルバム</p>
-<p>「CLIMAX」には<a href="../Page/LUNA_SEA.md" title="wikilink">LUNA SEAの</a><a href="https://ja.wikipedia.org/wiki/SUGIZO" title="wikilink">SUGIZO</a>が参加</p></td>
+<p>「CLIMAX」には<a href="../Page/LUNA_SEA.md" title="wikilink">LUNA SEAの</a><a href="../Page/SUGIZO.md" title="wikilink">SUGIZO</a>が参加</p></td>
 </tr>
 <tr class="even">
 <td><p>mini</p></td>
@@ -382,7 +382,7 @@ GRCO-10028</p></td>
 <td><ol>
 <li><small>SLEEPLESS</small></li>
 </ol></td>
-<td><p><small><a href="../Page/PENICILLIN.md" title="wikilink">PENICILLIN</a>や<a href="https://ja.wikipedia.org/wiki/ROUAGE" title="wikilink">ROUAGE</a>、<a href="https://ja.wikipedia.org/wiki/Deshabillz" title="wikilink">Deshabillz</a>、<a href="https://ja.wikipedia.org/wiki/BAISER" title="wikilink">BAISER</a>などが参加</small></p></td>
+<td><p><small><a href="../Page/PENICILLIN.md" title="wikilink">PENICILLIN</a>や<a href="../Page/ROUAGE.md" title="wikilink">ROUAGE</a>、<a href="https://ja.wikipedia.org/wiki/Deshabillz" title="wikilink">Deshabillz</a>、<a href="../Page/BAISER.md" title="wikilink">BAISER</a>などが参加</small></p></td>
 </tr>
 <tr class="even">
 <td><p><small>4th</small></p></td>
@@ -452,7 +452,7 @@ GRCO-10028</p></td>
 ## 関連項目
 
   - [Extasy Records](https://ja.wikipedia.org/wiki/Extasy_Records "wikilink")
-  - [HEATH](https://ja.wikipedia.org/wiki/HEATH "wikilink")
+  - [HEATH](../Page/HEATH.md "wikilink")
   - [hide with Spread Beaver](https://ja.wikipedia.org/wiki/hide_with_Spread_Beaver "wikilink")
 
 ## 外部リンク

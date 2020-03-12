@@ -1,11 +1,11 @@
 > この記事は[Podcast QR](https://ja.wikipedia.org/wiki/Podcast_QR)から翻訳されています。
 
 
-**Podcast QR**（ポッドキャストキューアール）は、[文化放送](../Page/文化放送.md "wikilink")が運営している[ポッドキャスト](https://ja.wikipedia.org/wiki/ポッドキャスト "wikilink")ラジオである。
+**Podcast QR**（ポッドキャストキューアール）は、[文化放送](../Page/文化放送.md "wikilink")が運営している[ポッドキャスト](../Page/ポッドキャスト.md "wikilink")ラジオである。
 
 番組は、[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")をパソコンにダウンロードし、次に文化放送のPodcast QRのウェブサイトを開き、それぞれの番組にある「Podcast 登録（ドラッグ&ドロップ\!\! この番組を登録）」の[アイコン](../Page/アイコン.md "wikilink")（[バナー](../Page/バナー.md "wikilink")）をiTunesにドラッグすることによって入手できる。
 
-番組は同局が展開していた「[BBQR](../Page/BBQR.md "wikilink")」（[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")放送）\[1\]の番組を中心に配信されている。
+番組は同局が展開していた「[BBQR](../Page/BBQR.md "wikilink")」（[インターネット](../Page/インターネット.md "wikilink")放送）\[1\]の番組を中心に配信されている。
 
 ## 配信中の番組
 
@@ -22,9 +22,9 @@
   - [文化放送ライオンズナイター](../Page/文化放送ライオンズナイター.md "wikilink")魂の軌跡
   - [松永真穂の乙女★ろっく](https://ja.wikipedia.org/wiki/松永真穂の乙女★ろっく "wikilink")（～2014年4月7日）
   - ことばの贈り物〜ココロの処方箋〜
-  - [スナック加奈](https://ja.wikipedia.org/wiki/水谷加奈 "wikilink")
+  - [スナック加奈](../Page/水谷加奈.md "wikilink")
   - [内海文化・QRの現金5万円入りのハンドバッグ](https://ja.wikipedia.org/wiki/内海文化・QRの現金5万円入りのハンドバッグ "wikilink")
-  - [武田鉄矢・今朝の三枚おろし](https://ja.wikipedia.org/wiki/武田鉄矢・今朝の三枚おろし "wikilink")
+  - [武田鉄矢・今朝の三枚おろし](../Page/武田鉄矢・今朝の三枚おろし.md "wikilink")
   - 中島裕之のアメリカでも一発やったるで\! I Do IT\!
   - HAMAMACYO トーKING\! RADIO podcast版
   - 日常が失われた日〜3.11被災地メディアの戦い
@@ -33,8 +33,8 @@
 
 ## 配信終了番組
 
-  - [大竹まこと 少年ラジオ](https://ja.wikipedia.org/wiki/大竹まこと_少年ラジオ "wikilink")
-  - [吉田たかよし プラス\!](https://ja.wikipedia.org/wiki/吉田たかよし_プラス! "wikilink") 「たかよしの神出鬼没」
+  - [大竹まこと 少年ラジオ](../Page/大竹まこと_少年ラジオ.md "wikilink")
+  - [吉田たかよし プラス\!](../Page/吉田たかよし_プラス!.md "wikilink") 「たかよしの神出鬼没」
   - 大竹まこと ゴールデンラジオ\!　男と女の交差点
   - 寺田恵子 Rock'n Rose
   - Flash\!Asia
@@ -42,13 +42,13 @@
   - Reserve Seat
   - Weekly Asia Box
   - Cinemambo/シネマンボ
-  - [安達祐実のTOKYO UBERSEXUAL LIFE NEXT](https://ja.wikipedia.org/wiki/B.V.D._Presents_TOKYO_METROSEXUAL_LIFE "wikilink")　プロフェッショナルのこだわりスタイル
+  - [安達祐実のTOKYO UBERSEXUAL LIFE NEXT](../Page/B.V.D._Presents_TOKYO_METROSEXUAL_LIFE.md "wikilink")　プロフェッショナルのこだわりスタイル
   - [金田朋子のミニミニミクロ校内放送](../Page/金田朋子のミニミニミクロ電子幼稚園.md "wikilink")（[携帯電話](../Page/携帯電話.md "wikilink")サイトで配信された内容の再構成）
   - [山本麻里安のはにわマイpod\!](../Page/山本麻里安のはにわマイハウス.md "wikilink")
-  - [桜塚やっくんのスケバン連合緊急集会](https://ja.wikipedia.org/wiki/桜塚やっくんのスケバン連合緊急集会 "wikilink")
+  - [桜塚やっくんのスケバン連合緊急集会](../Page/桜塚やっくんのスケバン連合緊急集会.md "wikilink")
   - ワカバ食堂
   - [15JAM](https://ja.wikipedia.org/wiki/15JAM "wikilink")のどげんかせんといかんちゃねーと！
-  - [藤岡藤巻](https://ja.wikipedia.org/wiki/藤岡藤巻 "wikilink")の一フジ二フジ三オヤジ
+  - [藤岡藤巻](../Page/藤岡藤巻.md "wikilink")の一フジ二フジ三オヤジ
   - [高木美保](https://ja.wikipedia.org/wiki/高木美保 "wikilink") close to you　「今週のクローズアップ・パーソン」
   - [斉藤一美 うるわしの夜](../Page/斉藤一美_うるわしの夜.md "wikilink")～浜松町トゥギャザーPodcastゥー～
   - [ウィークエンドスポーツ・ズミスポ\!](https://ja.wikipedia.org/wiki/ウィークエンドスポーツ・ズミスポ! "wikilink")～ズミスPodcastゥー～
@@ -56,9 +56,9 @@
   - アジアン\!　プラス
   - B-side UnderGround　Music（BSQR Under Ground Musicより番組名変更）
   - [夕やけ寺ちゃん 活動中](https://ja.wikipedia.org/wiki/夕やけ寺ちゃん_活動中 "wikilink")　ニュース　本音と建前
-  - [幸田真音](https://ja.wikipedia.org/wiki/幸田真音 "wikilink")のIt's Mine\[2\]
-  - 吉田健康～あなたのドクター[たかよしです](https://ja.wikipedia.org/wiki/吉田たかよし "wikilink")\[3\]
-  - [インターネットラジオどっとあい](https://ja.wikipedia.org/wiki/ラジオどっとあい "wikilink")\[4\]
+  - [幸田真音](../Page/幸田真音.md "wikilink")のIt's Mine\[2\]
+  - 吉田健康～あなたのドクター[たかよしです](../Page/吉田たかよし.md "wikilink")\[3\]
+  - [インターネットラジオどっとあい](../Page/ラジオどっとあい.md "wikilink")\[4\]
   - [FRIDAY SUPER COUNTDOWN50](https://ja.wikipedia.org/wiki/FRIDAY_SUPER_COUNTDOWN50 "wikilink")\[5\]
   - 吉野亜衣子の「部長、私今日も頑張ったんですけど･･･」
   - [Berryz工房 べりつぅ\!](https://ja.wikipedia.org/wiki/Berryz工房_べりつぅ! "wikilink")

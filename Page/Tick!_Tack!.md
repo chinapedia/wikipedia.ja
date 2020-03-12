@@ -1,13 +1,13 @@
 > この記事は[Tick! Tack!](https://ja.wikipedia.org/wiki/Tick!_Tack!)から翻訳されています。
 
 
-『**Tick\! Tack\!**』（チック\! タック\!）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月16日](../Page/9月16日.md "wikilink")に[Navel](https://ja.wikipedia.org/wiki/Navel "wikilink")が発売した[18禁](https://ja.wikipedia.org/wiki/18禁 "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")。タイトルロゴには、矢印以外に懐中時計が描かれている。
+『**Tick\! Tack\!**』（チック\! タック\!）は、[2005年](../Page/2005年.md "wikilink")[9月16日](../Page/9月16日.md "wikilink")に[Navel](../Page/Navel.md "wikilink")が発売した[18禁](https://ja.wikipedia.org/wiki/18禁 "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")。タイトルロゴには、矢印以外に懐中時計が描かれている。
 
 ## 概要
 
-『[SHUFFLE\!](https://ja.wikipedia.org/wiki/SHUFFLE! "wikilink")』の[アフターストーリー](https://ja.wikipedia.org/wiki/アフターストーリー "wikilink")第1弾。元々は『SHUFFLE\!』のファンディスクとして開発されていたが、ボリュームが大きくなったため一つの作品として発売される事となった。『SHUFFLE\!』のコンセプトを受け継ぎつつ、新キャラクターが登場する趣向となっている。
+『[SHUFFLE\!](../Page/SHUFFLE!.md "wikilink")』の[アフターストーリー](https://ja.wikipedia.org/wiki/アフターストーリー "wikilink")第1弾。元々は『SHUFFLE\!』のファンディスクとして開発されていたが、ボリュームが大きくなったため一つの作品として発売される事となった。『SHUFFLE\!』のコンセプトを受け継ぎつつ、新キャラクターが登場する趣向となっている。
 
-物語の舞台は『SHUFFLE\!』より一年後、**ネリネ**END後の現在と20年前の魔界が舞台になる。主に魔王フォーベシイの妻や家族構成について一部明かされる。都合で[西又葵](https://ja.wikipedia.org/wiki/西又葵 "wikilink")が参加できず、[鈴平ひろ](https://ja.wikipedia.org/wiki/鈴平ひろ "wikilink")のキャラクターが中心となるため、登場人物が少ない。2005年9月16日にLimited Editionが、10月21日にStandard Editionが、2008年3月28日にAnniversary Editionが発売された。2011年9月30日には『[Really? Really\!](https://ja.wikipedia.org/wiki/Really?_Really! "wikilink")』とセットになった、『Tick\! Tack\!\&Really? Really\!』が発売された。
+物語の舞台は『SHUFFLE\!』より一年後、**ネリネ**END後の現在と20年前の魔界が舞台になる。主に魔王フォーベシイの妻や家族構成について一部明かされる。都合で[西又葵](../Page/西又葵.md "wikilink")が参加できず、[鈴平ひろ](https://ja.wikipedia.org/wiki/鈴平ひろ "wikilink")のキャラクターが中心となるため、登場人物が少ない。2005年9月16日にLimited Editionが、10月21日にStandard Editionが、2008年3月28日にAnniversary Editionが発売された。2011年9月30日には『[Really? Really\!](../Page/Really?_Really!.md "wikilink")』とセットになった、『Tick\! Tack\!\&Really? Really\!』が発売された。
 
 ## ストーリー
 
@@ -31,10 +31,10 @@
   - システムデザイン・チップキャラデザイン：おやかた
   - プログラム：青猫
   - 音楽：[アッチョリケ](https://ja.wikipedia.org/wiki/アッチョリケ "wikilink")、NACHTMUSK、景家淳
-  - 製作協力：[ランティス](https://ja.wikipedia.org/wiki/ランティス "wikilink")
+  - 製作協力：[ランティス](../Page/ランティス.md "wikilink")
   - ディレクター：まさ
   - 営業・広報：AlAi、みずのまみ
-  - スペシャルサンクス：[FlyingShine](https://ja.wikipedia.org/wiki/FlyingShine "wikilink")、[サーカス](https://ja.wikipedia.org/wiki/CIRCUS_\(ブランド\) "wikilink")、[MOONSTONE](https://ja.wikipedia.org/wiki/MOONSTONE "wikilink")、他
+  - スペシャルサンクス：[FlyingShine](https://ja.wikipedia.org/wiki/FlyingShine "wikilink")、[サーカス](https://ja.wikipedia.org/wiki/CIRCUS_\(ブランド\) "wikilink")、[MOONSTONE](../Page/MOONSTONE.md "wikilink")、他
 
 ### 主題歌
 
@@ -58,7 +58,7 @@
 
   - 『**Tick\! Tack\! -NEVER SAY GOODBYE-**』
       - 単行本　[2007年](../Page/2007年.md "wikilink")[8月10日](../Page/8月10日.md "wikilink")発売。\<ISBN 978-4-04-713956-5\>
-      - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")1月から2007年4月まで「[コンプエース](https://ja.wikipedia.org/wiki/月刊コンプエース "wikilink")」（[角川書店](../Page/角川書店.md "wikilink")）にて連載。作画は[日下皓](https://ja.wikipedia.org/wiki/日下皓 "wikilink")。
+      - [2006年](../Page/2006年.md "wikilink")1月から2007年4月まで「[コンプエース](../Page/月刊コンプエース.md "wikilink")」（[角川書店](../Page/角川書店.md "wikilink")）にて連載。作画は[日下皓](https://ja.wikipedia.org/wiki/日下皓 "wikilink")。
 
 ## 関連商品
 
@@ -74,7 +74,7 @@
 ### 書籍
 
   - Tick\!Tack\! ビジュアルファンブック
-      - [メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink")刊 \<ISBN 4-8402-3474-4\>
+      - [メディアワークス](../Page/メディアワークス.md "wikilink")刊 \<ISBN 4-8402-3474-4\>
       - 表紙は、ネリネ・セージ・アイのケース仕様。
   - 小説 Tick\!Tack\!―サンダーキックな恋物語（ラブストーリー）
       - [角川書店](../Page/角川書店.md "wikilink")刊 \<ISBN 4-04-707215-X\>
@@ -88,9 +88,9 @@
 
 ## 関連項目
 
-  - [Navel](https://ja.wikipedia.org/wiki/Navel "wikilink") - 開発元の[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")会社
-  - [SHUFFLE\!](https://ja.wikipedia.org/wiki/SHUFFLE! "wikilink") - 本編の物語
-  - [Really? Really\!](https://ja.wikipedia.org/wiki/Really?_Really! "wikilink") - 楓END後のアフターストーリー
+  - [Navel](../Page/Navel.md "wikilink") - 開発元の[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")会社
+  - [SHUFFLE\!](../Page/SHUFFLE!.md "wikilink") - 本編の物語
+  - [Really? Really\!](../Page/Really?_Really!.md "wikilink") - 楓END後のアフターストーリー
 
 ## 外部リンク
 

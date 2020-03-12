@@ -1,11 +1,11 @@
 > この記事は[THE TOKYO TOWERS](https://ja.wikipedia.org/wiki/THE_TOKYO_TOWERS)から翻訳されています。
 
 
-**THE TOKYO TOWERS**（ザ・トーキョー・タワーズ）は、東京都中央区勝どきにある2棟の[超高層マンション](https://ja.wikipedia.org/wiki/超高層マンション "wikilink")を中心とする複合施設であり、[首都圏で初めての再開発会社施工となった](https://ja.wikipedia.org/wiki/首都圏_\(日本\) "wikilink") 勝どき六丁目地区第一種市街地再開発事業によって[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（[平成](../Page/平成.md "wikilink")20年）[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に完成した。地上58階建ての住居棟は竣工時、分譲マンションとして日本国内最高階層であった。
+**THE TOKYO TOWERS**（ザ・トーキョー・タワーズ）は、東京都中央区勝どきにある2棟の[超高層マンション](../Page/超高層マンション.md "wikilink")を中心とする複合施設であり、[首都圏で初めての再開発会社施工となった](https://ja.wikipedia.org/wiki/首都圏_\(日本\) "wikilink") 勝どき六丁目地区第一種市街地再開発事業によって[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（[平成](../Page/平成.md "wikilink")20年）[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に完成した。地上58階建ての住居棟は竣工時、分譲マンションとして日本国内最高階層であった。
 
 ## 特徴
 
-[隅田川](../Page/隅田川.md "wikilink")水域に囲まれた、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[中央区](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")[勝どき](../Page/勝どき.md "wikilink")に位置する。
+[隅田川](../Page/隅田川.md "wikilink")水域に囲まれた、[東京都](../Page/東京都.md "wikilink")[中央区](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")[勝どき](../Page/勝どき.md "wikilink")に位置する。
 
 高さ193.5メートルの2棟は、敷地東京湾側（南側）を**シータワー**、築地方面側（北側）を**ミッドタワー**と称し、プールやフィットネスジム、ゴルフレンジなどのスポーツ施設を集めた低層棟**シーサイドアネックス**は、居住者専用の共用施設となっている\[1\]。これら居住者用スポーツ施設のほか、再開発事業の一環として公共施設、医療機関や保育施設、スーパーマーケットなどの生活利便施設が併せて整備された。
 
@@ -15,11 +15,11 @@
 
 埋立地にありながら基礎構造は事業地の安定した地盤から[直接基礎](https://ja.wikipedia.org/wiki/直接基礎 "wikilink")構造を採用し、高層棟は地下16メートルの支持地盤に約70メートル角、高さ約4メートルのコンクリート基礎（マットスラブ）をのせる直接基礎によって支持される。支持地盤は、東京都庁舎などの超高層ビルが建つ[西新宿](../Page/西新宿.md "wikilink")地域と同様の上総層群である。
 
-1階の柱84本のうち最も軸力のかかる12本に、打設時（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（[平成](../Page/平成.md "wikilink")17年））世界最高強度である1平方ミリあたり130Nの超高強度コンクリートを用い、さらに1階の柱すべてを鋼板巻き柱とし火災時の爆裂防止と建物の耐震性を向上させた。1平方ミリあたり36N以上の強度を持つ高強度コンクリートは23階まで用い、プレキャストコンクリート（PCa）の全面的採用で高い品質を確保する。SD590、SD685といった高強度鉄筋もあわせて採用する。
+1階の柱84本のうち最も軸力のかかる12本に、打設時（[2005年](../Page/2005年.md "wikilink")（[平成](../Page/平成.md "wikilink")17年））世界最高強度である1平方ミリあたり130Nの超高強度コンクリートを用い、さらに1階の柱すべてを鋼板巻き柱とし火災時の爆裂防止と建物の耐震性を向上させた。1平方ミリあたり36N以上の強度を持つ高強度コンクリートは23階まで用い、プレキャストコンクリート（PCa）の全面的採用で高い品質を確保する。SD590、SD685といった高強度鉄筋もあわせて採用する。
 
 地震対策として[制震](../Page/制震.md "wikilink")（制振）構造を採用し、各高層棟の3階から48階にかけて配置された計576本の制振間柱が地震エネルギーを吸収し躯体の損傷を抑える。制振間柱は[JFEの極軟鋼ダンパー](https://ja.wikipedia.org/wiki/JFEスチール "wikilink") JFE-LY225等を用い、同製品は超高層建築を想定した検証の結果、想定される最大規模の地震に対しても累積塑性変形性能で約6.6 倍と十分な余力を持ち、また疲労寿命も長く、固有周期の長い超高層建物などへの影響が懸念される[長周期地震動](../Page/長周期地震動.md "wikilink")に対しても高いエネルギー吸収性能を示す\[2\]\[3\]。
 
-躯体は1辺を68メートルとする正方形の[RC造の中央に大きな吹き抜けをとり](../Page/鉄筋コンクリート構造.md "wikilink")、その中心に[S造による柱状構造物](../Page/鉄骨構造.md "wikilink")（エレベーターホール）を形成し、RC造の外周部に接着させたS造柱とをダンパーで連結する。異なる固有周期を持つS造とRC造をダンパーで連結する構造は、長周期地震動で懸念される建物の共振の抑制に有効とされ、万全な長周期地震動対策を必須とした[東京スカイツリー](https://ja.wikipedia.org/wiki/東京スカイツリー "wikilink")の柱状制震構造も同じ考えである。
+躯体は1辺を68メートルとする正方形の[RC造の中央に大きな吹き抜けをとり](../Page/鉄筋コンクリート構造.md "wikilink")、その中心に[S造による柱状構造物](../Page/鉄骨構造.md "wikilink")（エレベーターホール）を形成し、RC造の外周部に接着させたS造柱とをダンパーで連結する。異なる固有周期を持つS造とRC造をダンパーで連結する構造は、長周期地震動で懸念される建物の共振の抑制に有効とされ、万全な長周期地震動対策を必須とした[東京スカイツリー](../Page/東京スカイツリー.md "wikilink")の柱状制震構造も同じ考えである。
 
 架構はアウトフレーム逆梁構造を基本としながら、建物のすべてのコーナー部には中間逆梁によるガラスカーテンウォールを併用する、シャープな印象の外観と、高い居住性を同時に生かす構造体である。住戸計画はフレキシビリティを重視し、住戸を横断する梁は扁平梁としてスケルトン・インフィル（SI）対応とするためのスラブ段差を梁成内で吸収し、室内への梁の露出を抑えた多様な住戸プランを実現している。
 
@@ -27,7 +27,7 @@
 
 都心立地を有効活用するための「空間の多層的利用」を特徴とする。直接基礎がもたらす広大な地下空間を、住戸部とエレベーターで直結する駐車場やトランクルームなどで有効利用し、低層部には地域貢献施設などを集約する。地上3階層にメインエントランスへのアプローチを兼ねた人工地盤（空中庭園）を広く確保し都心部に緑地を創出する。周辺地域との連続性も重視し、多層化された敷地内には各所に車椅子に対応したスロープとエレベーターを設け、バリアフリーにもつとめる。
 
-基本設計ならびに再開発事業推進コンサルタントを世界最大級の組織系建築設計事務所である[日建設計](https://ja.wikipedia.org/wiki/日建設計 "wikilink")が担当し、東京都の[環境影響評価](https://ja.wikipedia.org/wiki/環境影響評価 "wikilink")なども同社による。同社山梨知彦を中心とした[ミースの手がけた建築物をほうふつさせるガラスを多用したソリッドな意匠の基本設計に](https://ja.wikipedia.org/wiki/ミース・ファン・デル・ローエ "wikilink")、建築設計を担当した大手建設設計事務所である[山下設計](https://ja.wikipedia.org/wiki/山下設計 "wikilink") 船越康弘による[ライトをほうふつさせるスクラッチタイルを多用し陰影を重視する外観デザインが融合する](../Page/フランク・ロイド・ライト.md "wikilink")。朝やけを受けて浮かびあがるヨットの帆をイメージしたタワー外壁の大きな曲線で誘導される、錆浅葱色など日本古来の伝統色を用いる自然色彩によるグラデーションとフィンは、遠くからも目を引く、新しい都市景観を創出する。
+基本設計ならびに再開発事業推進コンサルタントを世界最大級の組織系建築設計事務所である[日建設計](../Page/日建設計.md "wikilink")が担当し、東京都の[環境影響評価](https://ja.wikipedia.org/wiki/環境影響評価 "wikilink")なども同社による。同社山梨知彦を中心とした[ミースの手がけた建築物をほうふつさせるガラスを多用したソリッドな意匠の基本設計に](https://ja.wikipedia.org/wiki/ミース・ファン・デル・ローエ "wikilink")、建築設計を担当した大手建設設計事務所である[山下設計](https://ja.wikipedia.org/wiki/山下設計 "wikilink") 船越康弘による[ライトをほうふつさせるスクラッチタイルを多用し陰影を重視する外観デザインが融合する](../Page/フランク・ロイド・ライト.md "wikilink")。朝やけを受けて浮かびあがるヨットの帆をイメージしたタワー外壁の大きな曲線で誘導される、錆浅葱色など日本古来の伝統色を用いる自然色彩によるグラデーションとフィンは、遠くからも目を引く、新しい都市景観を創出する。
 
 人工地盤層でメインの外空間であるアクアステージは、直径約40メートルのガラスによるオーバルリングの内径部に水盤を有した放射状スケルション構造をとり、構造計算は斎藤公男教授（日本建築学会会長）が技術指導する。
 
@@ -35,7 +35,7 @@
 
   - 片山正通（Wonderwall）- 高層階ゲストルーム、ラウンジ（シータワー）
   - グエナエル・ニコラ（キュリオシティ）- 高層階ゲストルーム、ラウンジ（ミッドタワー）
-  - 伊藤圭太（山下設計） - [ランドスケープ](https://ja.wikipedia.org/wiki/ランドスケープ "wikilink")監修
+  - 伊藤圭太（山下設計） - [ランドスケープ](../Page/ランドスケープ.md "wikilink")監修
   - 藤田久数（ソラ・アソシエイツ）- ランドスケープ、外部照明
   - 友澤薫（日建スペースデザイン） - インテリア、ライティング
   - 堀江徹・野村宏幸（現：ホリテック） - 共用施設照明
@@ -43,7 +43,7 @@
 
 ## 施工
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:THE_TOKYO_TOWERS_JPN_0621.jpg "wikilink") 高層棟の建築では、[クライミングクレーンとして国内最大級のJCC](https://ja.wikipedia.org/wiki/タワークレーン "wikilink")-V600S（[石川島運搬機械](https://ja.wikipedia.org/wiki/石川島運搬機械 "wikilink")）5基、OTA-600N（小川製作所）2基、OTA-450N（同）1基の計8基が導入された。低層棟の建築では、資材をつり上げたままクレーンがレール上を水平に移動できる**走行式クライミングクレーン**がこの現場のために開発され、日本初導入となった。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:THE_TOKYO_TOWERS_JPN_0621.jpg "wikilink") 高層棟の建築では、[クライミングクレーンとして国内最大級のJCC](../Page/タワークレーン.md "wikilink")-V600S（[石川島運搬機械](https://ja.wikipedia.org/wiki/石川島運搬機械 "wikilink")）5基、OTA-600N（小川製作所）2基、OTA-450N（同）1基の計8基が導入された。低層棟の建築では、資材をつり上げたままクレーンがレール上を水平に移動できる**走行式クライミングクレーン**がこの現場のために開発され、日本初導入となった。
 
 資材を荷揚げする仮設エレベータもこの現場のために新たに開発し、上下ふたつのカゴを持つ**高速ダブルデッキエレベータ**が世界で初めて導入された（ミッドタワーのみ）。昇降速度は工事用ながら分速100メートルに達し、異なる階高に対応できる高さ自動調整機能も備えた。
 
@@ -51,17 +51,17 @@
 
 建築物の総合的環境性能評価をおこなう[CASBEE](../Page/CASBEE.md "wikilink")評価認証で、東京都内の集合住宅として唯一のランクA認証を取得する（[2009年](../Page/2009年.md "wikilink")（[平成](../Page/平成.md "wikilink")21年）[9月](../Page/9月.md "wikilink")）\[5\]。住宅性能評価では維持管理対策の専用配管と共用配管、劣化対策のすべてで最高の等級「3」を取得する。
 
-地球環境に配慮した[次世代型オール電化住宅であり](https://ja.wikipedia.org/wiki/オール電化住宅 "wikilink")、自然冷媒ヒートポンプ式給湯器（エコキュート）、エアコンと連動するヒートポンプ式温水床暖房（ホッとく～る）などエネルギー効率の高い設備を標準採用する。オール電化採用による建物全体のCO2削減効果は約2,400t-CO2/年と想定され、[東京ドーム](../Page/東京ドーム.md "wikilink")約153個分に相当する面積の森林を保全するのと同じ効果が期待される\[6\]。その他、断熱効果をもつ複層ガラスや、保温効果の高い浴槽（魔法びん浴槽）を標準採用する。
+地球環境に配慮した[次世代型オール電化住宅であり](../Page/オール電化住宅.md "wikilink")、自然冷媒ヒートポンプ式給湯器（エコキュート）、エアコンと連動するヒートポンプ式温水床暖房（ホッとく～る）などエネルギー効率の高い設備を標準採用する。オール電化採用による建物全体のCO2削減効果は約2,400t-CO2/年と想定され、[東京ドーム](../Page/東京ドーム.md "wikilink")約153個分に相当する面積の森林を保全するのと同じ効果が期待される\[6\]。その他、断熱効果をもつ複層ガラスや、保温効果の高い浴槽（魔法びん浴槽）を標準採用する。
 
-共用設備は省電力製品を積極採用する。また、駐車場や駐輪場の設置率は地域標準にとどめ、新たな選択肢として[カーシェアリング](https://ja.wikipedia.org/wiki/カーシェアリング "wikilink")サービスや共有レンタル自転車を導入することで、従来はこれらの設備に充てられた土地を緑地に転換した。緑化は人工地盤の空中庭園以外にも、低層部の壁面緑化、低層棟の屋上緑化に取り組む。
+共用設備は省電力製品を積極採用する。また、駐車場や駐輪場の設置率は地域標準にとどめ、新たな選択肢として[カーシェアリング](../Page/カーシェアリング.md "wikilink")サービスや共有レンタル自転車を導入することで、従来はこれらの設備に充てられた土地を緑地に転換した。緑化は人工地盤の空中庭園以外にも、低層部の壁面緑化、低層棟の屋上緑化に取り組む。
 
 ## 設備、施設
 
 [セキュリティ](https://ja.wikipedia.org/wiki/セキュリティ "wikilink")設備として、[FeliCa](../Page/FeliCa.md "wikilink")による[ICカード](../Page/ICカード.md "wikilink")キーをかざすだけの非接続型キーシステムを採用する。ICカードは[Edy](https://ja.wikipedia.org/wiki/Edy "wikilink")による決済機能と動的制御可能な共用施設解錠機能も備え、予約が必要な共用施設等も基本的にネット経由による予約と決済に対応する。
 
-[携帯電話](../Page/携帯電話.md "wikilink")への対応は、携帯電話がICカード代わりとなる[おサイフケータイ](https://ja.wikipedia.org/wiki/おサイフケータイ "wikilink")用鍵アプリケーションの提供、外出先で戸締まりの確認や施錠が可能な遠隔ロック機能の提供などがある。また、高層建築物で課題となる携帯電話不感知対策として、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の負担により[FOMA](../Page/FOMA.md "wikilink")用屋内基地局設備（[IMCS](https://ja.wikipedia.org/wiki/IMCS "wikilink")）が設置され、高層階においても安定した通話が可能とする。
+[携帯電話](../Page/携帯電話.md "wikilink")への対応は、携帯電話がICカード代わりとなる[おサイフケータイ](../Page/おサイフケータイ.md "wikilink")用鍵アプリケーションの提供、外出先で戸締まりの確認や施錠が可能な遠隔ロック機能の提供などがある。また、高層建築物で課題となる携帯電話不感知対策として、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の負担により[FOMA](../Page/FOMA.md "wikilink")用屋内基地局設備（[IMCS](https://ja.wikipedia.org/wiki/IMCS "wikilink")）が設置され、高層階においても安定した通話が可能とする。
 
-ネットワーク設備は棟内も光配線とし、分譲住戸では全戸に4芯の[光ファイバー](https://ja.wikipedia.org/wiki/光ファイバー "wikilink")ケーブルを敷設する。これらは[J:COMの費用負担で設置され](../Page/ジュピターテレコム.md "wikilink")、同社が各戸1Gbpsのインターネット接続とCATV、IP電話ならびに緊急地震速報サービスなどを提供する（一部有償）。勝どきは同社の管轄エリア外であるが、グループ企業であるジェイコム東京を電気通信役務利用放送事業者として登録し、NTT東日本から光ファイバーを借りて最寄りのCATV局と接続し通常のケーブルテレビ提供地域以外からの伝送でサービス提供を実現する。この仕組は[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（[平成](../Page/平成.md "wikilink")22年）[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")時点でTHE TOKYO TOWERSが唯一の事例である。
+ネットワーク設備は棟内も光配線とし、分譲住戸では全戸に4芯の[光ファイバー](../Page/光ファイバー.md "wikilink")ケーブルを敷設する。これらは[J:COMの費用負担で設置され](../Page/ジュピターテレコム.md "wikilink")、同社が各戸1Gbpsのインターネット接続とCATV、IP電話ならびに緊急地震速報サービスなどを提供する（一部有償）。勝どきは同社の管轄エリア外であるが、グループ企業であるジェイコム東京を電気通信役務利用放送事業者として登録し、NTT東日本から光ファイバーを借りて最寄りのCATV局と接続し通常のケーブルテレビ提供地域以外からの伝送でサービス提供を実現する。この仕組は[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（[平成](../Page/平成.md "wikilink")22年）[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")時点でTHE TOKYO TOWERSが唯一の事例である。
 
 施設は公共施設に加え、主に分譲住戸住民向けとする各種施設を備えている。ミッドタワー賃貸住戸では一部施設を共有利用できる他、賃貸部専用の施設がある。
 
@@ -71,9 +71,9 @@
 
 ## 広告、販売
 
-分譲住戸販売時に、[電通](../Page/電通.md "wikilink")が中心となり、THE TOKYO TOWERSへのブリッジキャンペーンである **I LOVE NEW TOKYO キャンペーン** が展開された。イメージキャラクターに米国の俳優[リチャード・ギア](https://ja.wikipedia.org/wiki/リチャード・ギア "wikilink")を起用し、広告費として不動産広告史上空前の30億円が投じられた。このキャンペーンにおけるギアのフィーは、[チベットの民主化を支援する基金である](https://ja.wikipedia.org/wiki/チベット動乱 "wikilink") [The Gere Foundation](http://www.gerefoundation.org/main.html) に寄付された。
+分譲住戸販売時に、[電通](../Page/電通.md "wikilink")が中心となり、THE TOKYO TOWERSへのブリッジキャンペーンである **I LOVE NEW TOKYO キャンペーン** が展開された。イメージキャラクターに米国の俳優[リチャード・ギア](../Page/リチャード・ギア.md "wikilink")を起用し、広告費として不動産広告史上空前の30億円が投じられた。このキャンペーンにおけるギアのフィーは、[チベットの民主化を支援する基金である](../Page/チベット動乱.md "wikilink") [The Gere Foundation](http://www.gerefoundation.org/main.html) に寄付された。
 
-都心回帰の傾向に加えて、地価高騰の兆しや金利先高観を背景に[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（[平成](../Page/平成.md "wikilink")17年）[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")の発売から約4カ月間で約9割が「記録的と言えるスピード」で成約し、翌年10月に完売した。特に2005年（平成17年）[8月](../Page/8月.md "wikilink")には単月で1,101戸を販売し、同月の首都圏におけるマンション供給数の約20パーセントを THE TOKYO TOWERS 1物件が占めた\[7\]。
+都心回帰の傾向に加えて、地価高騰の兆しや金利先高観を背景に[2005年](../Page/2005年.md "wikilink")（[平成](../Page/平成.md "wikilink")17年）[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")の発売から約4カ月間で約9割が「記録的と言えるスピード」で成約し、翌年10月に完売した。特に2005年（平成17年）[8月](../Page/8月.md "wikilink")には単月で1,101戸を販売し、同月の首都圏におけるマンション供給数の約20パーセントを THE TOKYO TOWERS 1物件が占めた\[7\]。
 
 事業主であるオリックス不動産が、THE TOKYO TOWERSを中心にデザイン性の高い代表物件を「都市・街の象徴＝ランドマーク」として紹介した映像「[ORIX LANDMARKS](http://www.orix-sumai.jp/landmarks/index.html)」は、2008年（平成20年）度ニューヨークフェスティバル国際広告賞にて銅賞（Bronze World Medal）を受賞した。
 
@@ -81,14 +81,14 @@
 
 総戸数2,794戸のうちミッドタワーの3階から30階までの813戸を高級賃貸住宅として設定。エントランスは賃貸住戸用と分譲住戸用とで分けられ、共有施設も低層棟をのぞいて賃貸住戸専用施設として設ける。
 
-賃貸住戸部は当初都市再生機構の持ち分とされていたが、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（[平成](../Page/平成.md "wikilink")17年）[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")に同機構が事業譲渡先を公募し、[アリコジャパン](https://ja.wikipedia.org/wiki/アリコジャパン "wikilink")ならびに[オリックスが構成員となる](../Page/オリックス_\(企業\).md "wikilink")[投資ファンド](https://ja.wikipedia.org/wiki/投資ファンド "wikilink")への売却が決定された。
+賃貸住戸部は当初都市再生機構の持ち分とされていたが、[2005年](../Page/2005年.md "wikilink")（[平成](../Page/平成.md "wikilink")17年）[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")に同機構が事業譲渡先を公募し、[アリコジャパン](https://ja.wikipedia.org/wiki/アリコジャパン "wikilink")ならびに[オリックスが構成員となる](../Page/オリックス_\(企業\).md "wikilink")[投資ファンド](../Page/投資ファンド.md "wikilink")への売却が決定された。
 
 ## 計画から着工までの経緯
 
-THE TOKYO TOWERS の事業は、[ミサワホーム](https://ja.wikipedia.org/wiki/ミサワホーム "wikilink")が構想していた**ミサワシティ**プロジェクトを前身とし、ミサワホームの経営状態悪化から2004年（[平成](../Page/平成.md "wikilink")16年）[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に[住友商事](https://ja.wikipedia.org/wiki/住友商事 "wikilink")への譲渡が決定されたものである。
+THE TOKYO TOWERS の事業は、[ミサワホーム](../Page/ミサワホーム.md "wikilink")が構想していた**ミサワシティ**プロジェクトを前身とし、ミサワホームの経営状態悪化から2004年（[平成](../Page/平成.md "wikilink")16年）[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に[住友商事](https://ja.wikipedia.org/wiki/住友商事 "wikilink")への譲渡が決定されたものである。
 
   - [1991年](../Page/1991年.md "wikilink")（平成3年） - ミサワホームが日本食糧倉庫が所有する勝どき6丁目の土地1万坪を、不動産流通子会社（MRD）に日本食糧倉庫を吸収合併させる企業買収により取得する（高層棟部が該当地である）。この買収では、後に事業を引き継ぐ住友商事が競合であった。
-  - [2000年](../Page/2000年.md "wikilink")春 - [コスモスイニシア](https://ja.wikipedia.org/wiki/コスモスイニシア "wikilink")が計画していた勝どき6丁目マンションが地域住民の反発から建設中止となり、事業用地をミサワホームが取得する（低層棟部が該当地である）。
+  - [2000年](../Page/2000年.md "wikilink")春 - [コスモスイニシア](../Page/コスモスイニシア.md "wikilink")が計画していた勝どき6丁目マンションが地域住民の反発から建設中止となり、事業用地をミサワホームが取得する（低層棟部が該当地である）。
   - 2000年（平成12年）[8月](../Page/8月.md "wikilink") - **勝どき開発**株式会社から東京都に**（仮）勝どき六丁目開発事業**の環境影響評価調査計画書が提出される。高さ200メートル、総戸数2,500戸、駐車場2,300台、居住施設＋事務所、2002年（平成14年）[6月](../Page/6月.md "wikilink")着工の2005年（平成17年）[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")竣工という計画であった。
   - [2001年](../Page/2001年.md "wikilink")（平成13年）
 
@@ -98,7 +98,7 @@ THE TOKYO TOWERS の事業は、[ミサワホーム](https://ja.wikipedia.org/wi
 
   - [2002年](../Page/2002年.md "wikilink")（平成14年）
 
-:\* [3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - ミサワシティアイデアコンペの結果発表がされる。審査員は[坂本龍一](../Page/坂本龍一.md "wikilink")、[加山雄三](https://ja.wikipedia.org/wiki/加山雄三 "wikilink")、[島田晴雄](https://ja.wikipedia.org/wiki/島田晴雄 "wikilink")、[高田賢三](https://ja.wikipedia.org/wiki/高田賢三 "wikilink")、[マリ・クリスティーヌ](https://ja.wikipedia.org/wiki/マリ・クリスティーヌ "wikilink")らであった。
+:\* [3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - ミサワシティアイデアコンペの結果発表がされる。審査員は[坂本龍一](../Page/坂本龍一.md "wikilink")、[加山雄三](https://ja.wikipedia.org/wiki/加山雄三 "wikilink")、[島田晴雄](../Page/島田晴雄.md "wikilink")、[高田賢三](../Page/高田賢三.md "wikilink")、[マリ・クリスティーヌ](https://ja.wikipedia.org/wiki/マリ・クリスティーヌ "wikilink")らであった。
 
 :\* 7月 - 東京都から個人施行による市街地再開発事業の施行認可を受ける。
 
@@ -115,11 +115,11 @@ THE TOKYO TOWERS の事業は、[ミサワホーム](https://ja.wikipedia.org/wi
 
 :\* 3月 - 住友商事への事業譲渡が完了する。譲渡価格は一説によると簿価850億円に対し153億円である。簿価に対しては破格値であるが、会社経営用資金調達の担保に入れられていたためこの価格で譲渡するのが精一杯だったとも言われる\[8\]。
 
-:\* 11月 - 東京都より、**勝六再開発**株式会社（出資者：住友商事、都市再生機構、[オリックス不動産](https://ja.wikipedia.org/wiki/オリックス不動産 "wikilink")、[東急不動産](https://ja.wikipedia.org/wiki/東急不動産 "wikilink")の4社）が施工者となる勝どき六丁目地区市街地再開発事業の施工認可を受け、首都圏初の再開発会社施行方式による再開発事業となる。
+:\* 11月 - 東京都より、**勝六再開発**株式会社（出資者：住友商事、都市再生機構、[オリックス不動産](../Page/オリックス不動産.md "wikilink")、[東急不動産](../Page/東急不動産.md "wikilink")の4社）が施工者となる勝どき六丁目地区市街地再開発事業の施工認可を受け、首都圏初の再開発会社施行方式による再開発事業となる。
 
 :\* 12月 - 東京都より、再開発事業権利変換認可、[民間都市再生事業](https://ja.wikipedia.org/wiki/民間都市再生事業 "wikilink")大臣認定を受ける。
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）1月 - 着工。
+  - [2005年](../Page/2005年.md "wikilink")（平成17年）1月 - 着工。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）1月 - 竣工。
 
 ## 建築概要
@@ -129,7 +129,7 @@ THE TOKYO TOWERS の事業は、[ミサワホーム](https://ja.wikipedia.org/wi
   - 敷地面積 - 29,718.37 m<sup>2</sup>
   - 建築面積 - 20,663.65 m<sup>2</sup>
   - 延床面積 - 383,345.47 m<sup>2</sup>
-  - 着工 - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（[平成](../Page/平成.md "wikilink")17年）[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")
+  - 着工 - [2005年](../Page/2005年.md "wikilink")（[平成](../Page/平成.md "wikilink")17年）[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")
   - 竣工 - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）1月
 
 <!-- end list -->
@@ -161,11 +161,11 @@ THE TOKYO TOWERS の事業は、[ミサワホーム](https://ja.wikipedia.org/wi
   - 建物・ランドスケープ監修 - [山下設計](https://ja.wikipedia.org/wiki/山下設計 "wikilink")
   - インテリアデザイン監修 - 日建スペースデザイン
   - 建築確認機関 - [財団法人日本建築センター](http://www.bcj.or.jp/)
-  - 施工 - 前田・大成建設共同企業体（[前田建設工業](https://ja.wikipedia.org/wiki/前田建設工業 "wikilink")、[大成建設](https://ja.wikipedia.org/wiki/大成建設 "wikilink")）
+  - 施工 - 前田・大成建設共同企業体（[前田建設工業](../Page/前田建設工業.md "wikilink")、[大成建設](../Page/大成建設.md "wikilink")）
 
 ## 交通アクセス
 
-  - [地下鉄](https://ja.wikipedia.org/wiki/地下鉄 "wikilink")
+  - [地下鉄](../Page/地下鉄.md "wikilink")
 
 <!-- end list -->
 
@@ -182,7 +182,7 @@ THE TOKYO TOWERS の事業は、[ミサワホーム](https://ja.wikipedia.org/wi
   - [亀戸駅](https://ja.wikipedia.org/wiki/亀戸駅 "wikilink")前・[とうきょうスカイツリー駅](../Page/とうきょうスカイツリー駅.md "wikilink")前・[門前仲町より都営バス](../Page/門前仲町駅.md "wikilink")[門33系統](https://ja.wikipedia.org/wiki/門33_\(都営バス\) "wikilink")「新島橋」下車
   - [四谷駅](https://ja.wikipedia.org/wiki/四ツ谷駅 "wikilink")・[半蔵門](https://ja.wikipedia.org/wiki/半蔵門駅 "wikilink")・[日比谷より都営バス](https://ja.wikipedia.org/wiki/日比谷駅 "wikilink")[都03系統](https://ja.wikipedia.org/wiki/都03_\(都営バス\) "wikilink")「勝どき駅前」下車
   - 東京駅丸の内南口・有楽町駅前・銀座四丁目より都営バス[都05系統](https://ja.wikipedia.org/wiki/都05_\(都営バス\) "wikilink")「勝どき駅前」下車
-  - [東京駅](https://ja.wikipedia.org/wiki/東京駅 "wikilink")八重洲口・[新川](../Page/新川_\(東京都中央区\).md "wikilink")・[聖路加病院前より都営バス](https://ja.wikipedia.org/wiki/聖路加国際病院 "wikilink")[東15系統](https://ja.wikipedia.org/wiki/東15_\(都営バス\) "wikilink")「勝どき駅前」下車
+  - [東京駅](https://ja.wikipedia.org/wiki/東京駅 "wikilink")八重洲口・[新川](../Page/新川_\(東京都中央区\).md "wikilink")・[聖路加病院前より都営バス](../Page/聖路加国際病院.md "wikilink")[東15系統](https://ja.wikipedia.org/wiki/東15_\(都営バス\) "wikilink")「勝どき駅前」下車
 
 <!-- end list -->
 
@@ -190,7 +190,7 @@ THE TOKYO TOWERS の事業は、[ミサワホーム](https://ja.wikipedia.org/wi
 
 <!-- end list -->
 
-  - [東京都観光汽船](https://ja.wikipedia.org/wiki/東京都観光汽船 "wikilink")[お台場](../Page/お台場.md "wikilink")ライン - 晴海発着所
+  - [東京都観光汽船](../Page/東京都観光汽船.md "wikilink")[お台場](../Page/お台場.md "wikilink")ライン - 晴海発着所
 
 ## THE TOKYO TOWERS 外観
 

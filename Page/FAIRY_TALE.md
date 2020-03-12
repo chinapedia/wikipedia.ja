@@ -1,13 +1,13 @@
 > この記事は[FAIRY TALE](https://ja.wikipedia.org/wiki/FAIRY_TALE)から翻訳されています。
 
 
-『**FAIRY TALE**』（フェアリー・テイル）は、[2002年](../Page/2002年.md "wikilink")[10月23日](../Page/10月23日.md "wikilink")に発売された[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")の3作目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。
+『**FAIRY TALE**』（フェアリー・テイル）は、[2002年](../Page/2002年.md "wikilink")[10月23日](../Page/10月23日.md "wikilink")に発売された[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")の3作目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。
 
 ## 解説
 
   - 1stアルバム、2ndアルバムに続き100万枚以上の出荷を記録。
-  - 「おとぎ話」をテーマに、倉木の「夢を捨てるのが大人ならば、なりたくはない」という想いを綴った[コンセプト・アルバム](https://ja.wikipedia.org/wiki/コンセプト・アルバム "wikilink")である。
-  - このアルバムが台湾のCDチャート1位を獲得したことを切っ掛けに[孫燕姿](https://ja.wikipedia.org/wiki/孫燕姿 "wikilink")と次回作で競演することとなった。
+  - 「おとぎ話」をテーマに、倉木の「夢を捨てるのが大人ならば、なりたくはない」という想いを綴った[コンセプト・アルバム](../Page/コンセプト・アルバム.md "wikilink")である。
+  - このアルバムが台湾のCDチャート1位を獲得したことを切っ掛けに[孫燕姿](../Page/孫燕姿.md "wikilink")と次回作で競演することとなった。
   - 第17回[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")でロック&ポップ・アルバム・オブ・ザ・イヤーを受賞している。
 
 ## 収録曲
@@ -15,15 +15,15 @@
 全作詞：倉木麻衣
 
 1.  **Fairy tale 〜my last teenage wish〜** (4:18)
-      - 作曲・編曲：[徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")
+      - 作曲・編曲：[徳永暁人](../Page/徳永暁人.md "wikilink")
     <!-- end list -->
       -
         アルバム表題曲。歌詞には「[カボチャの馬車](../Page/シンデレラ.md "wikilink")」「[毒リンゴ](../Page/白雪姫.md "wikilink")」などおとぎ話にちなんだ言葉が多数登場する。アルバムツアー以後披露されることが少なかったが、10月に開催されるハロウィンライブでは披露される事が多いアルバム曲である。
-2.  **[Feel fine\!](https://ja.wikipedia.org/wiki/Feel_fine! "wikilink")** (4:48)
+2.  **[Feel fine\!](../Page/Feel_fine!.md "wikilink")** (4:48)
       - 作曲・編曲：徳永暁人
     <!-- end list -->
       -
-        12thシングル。本人も出演した[シーブリーズ](https://ja.wikipedia.org/wiki/シーブリーズ "wikilink")の[CMソング](https://ja.wikipedia.org/wiki/CMソング "wikilink")。
+        12thシングル。本人も出演した[シーブリーズ](../Page/シーブリーズ.md "wikilink")の[CMソング](https://ja.wikipedia.org/wiki/CMソング "wikilink")。
 3.  **Ride on time** (5:01)
       - 作曲・編曲：徳永暁人
     <!-- end list -->
@@ -36,7 +36,7 @@
         [ナムコ](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink") 『[テイルズ オブ デスティニー2](../Page/テイルズ_オブ_デスティニー2.md "wikilink")』テーマソング。
         [ゲームソフト](../Page/ゲームソフト.md "wikilink")[『テイルズ オブ』シリーズの](../Page/テイルズ_オブ_シリーズ.md "wikilink")[テーマ曲](https://ja.wikipedia.org/wiki/テーマ曲 "wikilink")[コンピレーションアルバム](https://ja.wikipedia.org/wiki/コンピレーションアルバム "wikilink")『[The Best of Tales](../Page/The_Best_of_Tales.md "wikilink")』にも収録されている。
         ビデオクリップも制作され、「Ride on Time」同様当時のバックバンドEXPERIENCEと共に、こちらは観客を入れたライブ形式で撮影された。
-5.  **[Winter Bells](https://ja.wikipedia.org/wiki/Winter_Bells "wikilink")** (4:37)
+5.  **[Winter Bells](../Page/Winter_Bells.md "wikilink")** (4:37)
       - 作曲・編曲：徳永暁人
     <!-- end list -->
       -
@@ -50,24 +50,24 @@
       - 作曲：大野愛果　編曲：Cybersound・徳永暁人
     <!-- end list -->
       -
-        10thシングル「Can't forget your love／PERFECT CRIME -Single Edit-」の1曲目。テレビ朝日系ドラマ「[生きるための情熱としての殺人](https://ja.wikipedia.org/wiki/生きるための情熱としての殺人 "wikilink")」挿入歌。
+        10thシングル「Can't forget your love／PERFECT CRIME -Single Edit-」の1曲目。テレビ朝日系ドラマ「[生きるための情熱としての殺人](../Page/生きるための情熱としての殺人.md "wikilink")」挿入歌。
 8.  **Trip in the dream** (4:19)
       - 作曲・編曲：徳永暁人
     <!-- end list -->
       -
         ビデオクリップが制作されており、夜のビルの屋上でサビを歌う姿が収録されている。
 9.  **Not that kind a girl** (4:27)
-      - 作曲・編曲：[YOKO Black. Stone](https://ja.wikipedia.org/wiki/YOKO_Black._Stone "wikilink")
-10. **[Like a star in the night](https://ja.wikipedia.org/wiki/Like_a_star_in_the_night "wikilink")** (5:39)
+      - 作曲・編曲：[YOKO Black. Stone](../Page/YOKO_Black._Stone.md "wikilink")
+10. **[Like a star in the night](../Page/Like_a_star_in_the_night.md "wikilink")** (5:39)
       - 作曲：大野愛果　編曲：徳永暁人
     <!-- end list -->
       -
         13thシングル。テレビ朝日系ドラマ「[ダーク・エンジェル](https://ja.wikipedia.org/wiki/ダークエンジェル_\(テレビドラマ\) "wikilink")」テーマソング。
 11. **不思議の国** (5:26)
-      - 作曲：大野愛果　編曲：[池田大介](https://ja.wikipedia.org/wiki/池田大介_\(編曲家\) "wikilink")
+      - 作曲：大野愛果　編曲：[池田大介](../Page/池田大介_\(編曲家\).md "wikilink")
     <!-- end list -->
       -
-        「[不思議の国のアリス](https://ja.wikipedia.org/wiki/不思議の国のアリス "wikilink")」の白ウサギが歌詞に登場する。曲よりも詞の方が先に出来上がった作品。
+        「[不思議の国のアリス](../Page/不思議の国のアリス.md "wikilink")」の白ウサギが歌詞に登場する。曲よりも詞の方が先に出来上がった作品。
 12. **fantasy** (3:49)
       - 作曲：大野愛果　編曲：徳永暁人
 
@@ -85,7 +85,7 @@
 
 ## 関連項目
 
-  - [2002年の音楽](https://ja.wikipedia.org/wiki/2002年の音楽 "wikilink")
+  - [2002年の音楽](../Page/2002年の音楽.md "wikilink")
 
 ## 外部リンク
 

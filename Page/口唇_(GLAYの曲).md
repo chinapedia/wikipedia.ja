@@ -16,7 +16,7 @@
 ## 収録曲
 
 1.  **口唇**
-      - 作詞・作曲：[TAKURO](../Page/TAKURO.md "wikilink")　編曲：GLAY、[佐久間正英](https://ja.wikipedia.org/wiki/佐久間正英 "wikilink")
+      - 作詞・作曲：[TAKURO](../Page/TAKURO.md "wikilink")　編曲：GLAY、[佐久間正英](../Page/佐久間正英.md "wikilink")
 2.  **春を愛する人**
       - 作詞・作曲：TAKURO　編曲：GLAY、佐久間正英
 3.  **口唇 -instrumental-**

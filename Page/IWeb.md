@@ -5,7 +5,7 @@
 
 ## 概要
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")1月リリースの「**iLife'06**」で初登場した。
+  - [2006年](../Page/2006年.md "wikilink")1月リリースの「**iLife'06**」で初登場した。
   - テンプレートを利用して、[ブログ](../Page/ブログ.md "wikilink")をはじめとした様々なタイプの[ウェブページ](../Page/ウェブページ.md "wikilink")を簡単に作成できる。
   - 「[iLife](https://ja.wikipedia.org/wiki/iLife "wikilink")」の他のソフトウェアとの連動で、[Podcastingの配信ができる](https://ja.wikipedia.org/wiki/ポッドキャスティング "wikilink")。
   - [.Mac](https://ja.wikipedia.org/wiki/.Mac "wikilink")でのサイト公開を推奨しているが、他のサーバでのサイト公開も可能である（ただし、ブログのコメントなど一部機能はサポート外となる）。
@@ -13,7 +13,7 @@
 
 ## 歴史
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")1月 - iLife'06の一部としてリリース。
+  - [2006年](../Page/2006年.md "wikilink")1月 - iLife'06の一部としてリリース。
   - [2007年](../Page/2007年.md "wikilink")8月 - iLife'08の一部としてアップグレード版のiWeb'08(2.0)リリース。
   - [2009年](../Page/2009年.md "wikilink")1月 - iLife'09の一部としてiWeb'09 (3.0) をリリース。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")9月 - iLife'11にも同梱されるがアップグレードは無し。
@@ -24,7 +24,7 @@
   - [macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")
   - [iLife](https://ja.wikipedia.org/wiki/iLife "wikilink")
   - [ブログ](../Page/ブログ.md "wikilink")
-  - [コンテンツ管理システム](https://ja.wikipedia.org/wiki/コンテンツ管理システム "wikilink") (CMS)
+  - [コンテンツ管理システム](../Page/コンテンツ管理システム.md "wikilink") (CMS)
   - [ウェブサイト](../Page/ウェブサイト.md "wikilink")
   - [コーポレートサイト](https://ja.wikipedia.org/wiki/コーポレートサイト "wikilink")
 

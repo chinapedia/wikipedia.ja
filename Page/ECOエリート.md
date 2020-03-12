@@ -1,7 +1,7 @@
 > この記事は[ECO](https://ja.wikipedia.org/wiki/ECO)から翻訳されています。
 
 
-**ECOエリート**（エコエリート）は、携帯電話の[GPS機能を利用した](../Page/グローバル・ポジショニング・システム.md "wikilink")、産廃処理業者による[産業廃棄物](https://ja.wikipedia.org/wiki/産業廃棄物 "wikilink")の[不法投棄](https://ja.wikipedia.org/wiki/不法投棄 "wikilink")を監視する追跡管理システムである。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")5月に[岩手県](../Page/岩手県.md "wikilink")が進める産廃業者の「[格付け制度](https://ja.wikipedia.org/wiki/格付け制度 "wikilink")」の評価製品に認定された。優良化評価制度に伴う「情報公開性」を明確にするシステムである。 システム構築の株式会社[アイティフォー](../Page/アイティフォー.md "wikilink")によって開発された。
+**ECOエリート**（エコエリート）は、携帯電話の[GPS機能を利用した](../Page/グローバル・ポジショニング・システム.md "wikilink")、産廃処理業者による[産業廃棄物](https://ja.wikipedia.org/wiki/産業廃棄物 "wikilink")の[不法投棄](../Page/不法投棄.md "wikilink")を監視する追跡管理システムである。[2006年](../Page/2006年.md "wikilink")5月に[岩手県](../Page/岩手県.md "wikilink")が進める産廃業者の「[格付け制度](https://ja.wikipedia.org/wiki/格付け制度 "wikilink")」の評価製品に認定された。優良化評価制度に伴う「情報公開性」を明確にするシステムである。 システム構築の株式会社[アイティフォー](../Page/アイティフォー.md "wikilink")によって開発された。
 
 ## 概要
 

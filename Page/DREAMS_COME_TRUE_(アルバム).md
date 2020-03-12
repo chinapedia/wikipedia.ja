@@ -3,13 +3,13 @@
 
 **DREAMS COME TRUE**（ドリームズ・カム・トゥルー）は、[DREAMS COME TRUEの](../Page/DREAMS_COME_TRUE.md "wikilink")1枚目のアルバムである。
 
-[1989年](../Page/1989年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")にEPIC/SONY RECORDS（現・[エピックレコードジャパン](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")）よりリリースされた。
+[1989年](../Page/1989年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")にEPIC/SONY RECORDS（現・[エピックレコードジャパン](../Page/エピックレコードジャパン.md "wikilink")）よりリリースされた。
 
 ## 概要
 
   - DREAMS COME TRUEのデビュー作品である。
   - 初回出荷枚数は8000枚だった\[1\]。1994年6月時点で、累計売上90万枚（エピックレコードジャパン）\[2\]。
-  - シングル「[あなたに会いたくて](https://ja.wikipedia.org/wiki/あなたに会いたくて "wikilink")」と同時発売された。
+  - シングル「[あなたに会いたくて](../Page/あなたに会いたくて.md "wikilink")」と同時発売された。
   - アルバム収録曲は6曲目の「カ・タ・ガ・キ」以外全て吉田美和が作曲している。
   - このアルバムを引っさげて、コンサートツアー『We Are Dreams Come True』を開催。
   - ドリカムの公式ファンクラブ「POWER PLANT」の名称は、本アルバムのレコーディングが行われた[ロンドン](../Page/ロンドン.md "wikilink")の「POWER PLANT STUDIO」に由来している\[3\]\[4\]。
@@ -22,22 +22,22 @@
 1.  **Hi,How're You Doin'?**
       -
         吉田美和が曲名を言うだけで、収録時間はたったの4秒と史上最短。
-2.  **[APPROACH](https://ja.wikipedia.org/wiki/APPROACH "wikilink")**
+2.  **[APPROACH](../Page/APPROACH.md "wikilink")**
       - 作詞・作曲：吉田美和、編曲：中村正人
     <!-- end list -->
       -
         後に2ndシングルとしてシングルカットされた。
-3.  **[Don't You Say…](https://ja.wikipedia.org/wiki/あなたに会いたくて "wikilink")**
+3.  **[Don't You Say…](../Page/あなたに会いたくて.md "wikilink")**
       - 作詞・作曲：吉田美和、編曲：中村正人
     <!-- end list -->
       -
         1stシングル「あなたに会いたくて」のカップリング。表示はないが、シングルとは別バージョンとなっている。
-4.  **[あなたに会いたくて](https://ja.wikipedia.org/wiki/あなたに会いたくて "wikilink")**
+4.  **[あなたに会いたくて](../Page/あなたに会いたくて.md "wikilink")**
       - 作詞・作曲：吉田美和、編曲：中村正人
     <!-- end list -->
       -
         1stシングル。今作収録曲はほとんどがデビュー前から存在していたが、この曲はデビューのために新たに作られた。
-5.  **[週に1度の恋人](https://ja.wikipedia.org/wiki/APPROACH "wikilink")**
+5.  **[週に1度の恋人](../Page/APPROACH.md "wikilink")**
       - 作詞・作曲：吉田美和、編曲：中村正人
     <!-- end list -->
       -

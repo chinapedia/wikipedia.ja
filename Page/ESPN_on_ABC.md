@@ -1,9 +1,9 @@
 > この記事は[ESPN on ABC](https://ja.wikipedia.org/wiki/ESPN_on_ABC)から翻訳されています。
 
 
-**ESPN on ABC**（ESPN・オン・ABC）は、[アメリカン・ブロードキャスティング・カンパニー](https://ja.wikipedia.org/wiki/アメリカン・ブロードキャスティング・カンパニー "wikilink") （ABC）の[スポーツ中継](../Page/スポーツ中継.md "wikilink")の総称。
+**ESPN on ABC**（ESPN・オン・ABC）は、[アメリカン・ブロードキャスティング・カンパニー](../Page/アメリカン・ブロードキャスティング・カンパニー.md "wikilink") （ABC）の[スポーツ中継](../Page/スポーツ中継.md "wikilink")の総称。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")9月、ABCのスポーツ中継製作部門である**ABCスポーツ**（ABC Sports）が、同じく[ウォルト・ディズニー・カンパニー](https://ja.wikipedia.org/wiki/ウォルト・ディズニー・カンパニー "wikilink")傘下である[ESPN](../Page/ESPN.md "wikilink")と統合。現在の「ESPN on ABC」のブランド名となった。
+[2006年](../Page/2006年.md "wikilink")9月、ABCのスポーツ中継製作部門である**ABCスポーツ**（ABC Sports）が、同じく[ウォルト・ディズニー・カンパニー](../Page/ウォルト・ディズニー・カンパニー.md "wikilink")傘下である[ESPN](../Page/ESPN.md "wikilink")と統合。現在の「ESPN on ABC」のブランド名となった。
 
 ## 主なスポーツ中継番組
 
@@ -11,7 +11,7 @@
 
 <!-- end list -->
 
-  - [カレッジフットボール](https://ja.wikipedia.org/wiki/カレッジフットボール "wikilink")（[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink") - ）
+  - [カレッジフットボール](../Page/カレッジフットボール.md "wikilink")（[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink") - ）
       - ESPN College Football on ABC（1950, 1966年 - ）
       - 主にACC、アメリカン、ビッグ・テン、ビッグ12、パク12の試合を中継
       - Saturday Night Football (2006–present)
@@ -23,7 +23,7 @@
 
 <!-- end list -->
 
-  - [リトルリーグ](https://ja.wikipedia.org/wiki/リトルリーグ "wikilink")・ワールドシリーズ（[1963年](../Page/1963年.md "wikilink") - ）
+  - [リトルリーグ](../Page/リトルリーグ.md "wikilink")・ワールドシリーズ（[1963年](../Page/1963年.md "wikilink") - ）
 
 <!-- end list -->
 
@@ -53,7 +53,7 @@
 
 <!-- end list -->
 
-  - [FIFAワールドカップ](https://ja.wikipedia.org/wiki/FIFAワールドカップ "wikilink") ([1970](../Page/1970_FIFAワールドカップ.md "wikilink"), [1982](../Page/1982_FIFAワールドカップ.md "wikilink"), [1994](../Page/1994_FIFAワールドカップ.md "wikilink"), [1998](../Page/1998_FIFAワールドカップ.md "wikilink"), [2002](../Page/2002_FIFAワールドカップ.md "wikilink"), [2006](../Page/2006_FIFAワールドカップ.md "wikilink"), [2010](https://ja.wikipedia.org/wiki/2010_FIFAワールドカップ "wikilink"), and [2014](https://ja.wikipedia.org/wiki/2014_FIFAワールドカップ "wikilink"))
+  - [FIFAワールドカップ](../Page/FIFAワールドカップ.md "wikilink") ([1970](../Page/1970_FIFAワールドカップ.md "wikilink"), [1982](../Page/1982_FIFAワールドカップ.md "wikilink"), [1994](../Page/1994_FIFAワールドカップ.md "wikilink"), [1998](../Page/1998_FIFAワールドカップ.md "wikilink"), [2002](../Page/2002_FIFAワールドカップ.md "wikilink"), [2006](../Page/2006_FIFAワールドカップ.md "wikilink"), [2010](https://ja.wikipedia.org/wiki/2010_FIFAワールドカップ "wikilink"), and [2014](../Page/2014_FIFAワールドカップ.md "wikilink"))
 
 <!-- end list -->
 
@@ -63,7 +63,7 @@
 
   - [Xゲームズ](https://ja.wikipedia.org/wiki/Xゲームズ "wikilink")（1997年 - ）
   - スクリプス・ナショナル・スペリング・ビー（2006年 - ）
-  - [BNPパリバ・オープン](https://ja.wikipedia.org/wiki/BNPパリバ・オープン "wikilink")（2011年 - ）
+  - [BNPパリバ・オープン](../Page/BNPパリバ・オープン.md "wikilink")（2011年 - ）
   - ESPNスポーツ・サタデー（2010年 - ）
 
 ### 過去に放送されていた番組
@@ -73,13 +73,13 @@
 <!-- end list -->
 
   - [NFL](../Page/NFL.md "wikilink")
-      - [マンデーナイトフットボール](https://ja.wikipedia.org/wiki/マンデーナイトフットボール "wikilink")（[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink") - 2005年）
-      - [スーパーボウル](https://ja.wikipedia.org/wiki/スーパーボウル "wikilink")（第19回（[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")）、第22回（[1988年](../Page/1988年.md "wikilink")）、第25回（[1991年](../Page/1991年.md "wikilink")）、第29回（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")）、第34回（[2000年](../Page/2000年.md "wikilink")）、第37回（[2003年](../Page/2003年.md "wikilink")）、第40回（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")））
+      - [マンデーナイトフットボール](../Page/マンデーナイトフットボール.md "wikilink")（[1970年](../Page/1970年.md "wikilink") - 2005年）
+      - [スーパーボウル](https://ja.wikipedia.org/wiki/スーパーボウル "wikilink")（第19回（[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")）、第22回（[1988年](../Page/1988年.md "wikilink")）、第25回（[1991年](../Page/1991年.md "wikilink")）、第29回（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")）、第34回（[2000年](../Page/2000年.md "wikilink")）、第37回（[2003年](../Page/2003年.md "wikilink")）、第40回（[2006年](../Page/2006年.md "wikilink")））
   - [アメリカン・フットボール・リーグ](../Page/アメリカン・フットボール・リーグ.md "wikilink")（AFL - 現在のNFL・AFC（[アメリカン・フットボール・カンファレンス](../Page/アメリカン・フットボール・カンファレンス.md "wikilink")）の前身。[1960年](../Page/1960年.md "wikilink") - [1964年](../Page/1964年.md "wikilink")）
   - [ワールドリーグ](https://ja.wikipedia.org/wiki/ワールドリーグ "wikilink")（1991年 - 1992年）
       - [ローズボウル](../Page/ローズボウル.md "wikilink")（[1989年](../Page/1989年.md "wikilink") - 2010年）
       - [シュガーボウル](../Page/シュガーボウル.md "wikilink") (1954–1958, 1971–2006)
-      - [オレンジボウル](https://ja.wikipedia.org/wiki/オレンジボウル "wikilink") (1962–1964, 1999–2006)
+      - [オレンジボウル](../Page/オレンジボウル.md "wikilink") (1962–1964, 1999–2006)
 
 <!-- end list -->
 
@@ -114,9 +114,9 @@
 <!-- end list -->
 
   - [PGAツアー](../Page/PGAツアー.md "wikilink")
-      - [全米プロゴルフ選手権](https://ja.wikipedia.org/wiki/全米プロゴルフ選手権 "wikilink") (1966–1990)
-      - [全米オープン](https://ja.wikipedia.org/wiki/全米オープン_\(ゴルフ\) "wikilink") (1966–1994)
-      - [全英オープン](https://ja.wikipedia.org/wiki/全英オープン_\(ゴルフ\) "wikilink") (1966–2009)
+      - [全米プロゴルフ選手権](../Page/全米プロゴルフ選手権.md "wikilink") (1966–1990)
+      - [全米オープン](../Page/全米オープン_\(ゴルフ\).md "wikilink") (1966–1994)
+      - [全英オープン](../Page/全英オープン_\(ゴルフ\).md "wikilink") (1966–2009)
   - [アリーナフットボールリーグ](../Page/アリーナフットボールリーグ.md "wikilink")（2007年 - 2008年）
   - [メジャーリーグサッカー](../Page/メジャーリーグサッカー.md "wikilink")（[1996年](../Page/1996年.md "wikilink") - 2008年）
   - [アメリカン・ル・マン・シリーズ](../Page/アメリカン・ル・マン・シリーズ.md "wikilink")（2011年 - 2013年）
@@ -133,7 +133,7 @@
 ## 関連項目
 
   - [ESPN](../Page/ESPN.md "wikilink")
-  - [CBSスポーツ](https://ja.wikipedia.org/wiki/CBSスポーツ "wikilink")
+  - [CBSスポーツ](../Page/CBSスポーツ.md "wikilink")
   - [FOXスポーツ](../Page/FOXスポーツ.md "wikilink")
   - [NBCスポーツ](../Page/NBCスポーツ.md "wikilink")
   - [アル・マイケルズ](https://ja.wikipedia.org/wiki/アル・マイケルズ "wikilink")（1977年-2006年ABCスポーツに所属）

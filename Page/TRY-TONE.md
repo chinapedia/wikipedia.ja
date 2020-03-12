@@ -10,16 +10,16 @@
 ## メンバー
 
   - 多胡 淳（たご あつし）
-    リーダー。パートは3rd。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[鎌倉市](../Page/鎌倉市.md "wikilink")生まれ。[血液型はA型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。1歳になる前に父親の転勤により[中米に渡り](../Page/中央アメリカ.md "wikilink")、週末は父親のギター伴奏のもと家族とのハモりで歌っていた。6歳で帰国後は日本語に苦労したという。高校時代は吹奏楽部でサキソフォンを吹く。[美川憲一](../Page/美川憲一.md "wikilink")のものまねが得意。[ゴスペラーズ](../Page/ゴスペラーズ.md "wikilink")の[北山陽一](https://ja.wikipedia.org/wiki/北山陽一 "wikilink")と**kitago-yama**というユニットを結成。唯一発表されている楽曲「Rebirth」がアニメ『[エンジェル・ハート](../Page/エンジェル・ハート.md "wikilink")』の挿入歌として採用。
+    リーダー。パートは3rd。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[鎌倉市](../Page/鎌倉市.md "wikilink")生まれ。[血液型はA型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。1歳になる前に父親の転勤により[中米に渡り](../Page/中央アメリカ.md "wikilink")、週末は父親のギター伴奏のもと家族とのハモりで歌っていた。6歳で帰国後は日本語に苦労したという。高校時代は吹奏楽部でサキソフォンを吹く。[美川憲一](../Page/美川憲一.md "wikilink")のものまねが得意。[ゴスペラーズ](../Page/ゴスペラーズ.md "wikilink")の[北山陽一](../Page/北山陽一.md "wikilink")と**kitago-yama**というユニットを結成。唯一発表されている楽曲「Rebirth」がアニメ『[エンジェル・ハート](../Page/エンジェル・ハート.md "wikilink")』の挿入歌として採用。
   - 青木 肇（あおき はじめ）
-    パートはVocal Bass。[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")生まれ。血液型はA型。[早稲田大学](https://ja.wikipedia.org/wiki/早稲田大学 "wikilink")第一文学部東洋哲学専修卒。ゴスペラーズの[村上てつや](https://ja.wikipedia.org/wiki/村上てつや "wikilink")とは学生時代に「ガンジー」というバンドで一緒に活動しておりNHKの『Fightアカペラ』に出演した。
+    パートはVocal Bass。[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")生まれ。血液型はA型。[早稲田大学](../Page/早稲田大学.md "wikilink")第一文学部東洋哲学専修卒。ゴスペラーズの[村上てつや](../Page/村上てつや.md "wikilink")とは学生時代に「ガンジー」というバンドで一緒に活動しておりNHKの『Fightアカペラ』に出演した。
   - 松永 ちづる（まつなが ちづる）
     パートはTop。[静岡県](../Page/静岡県.md "wikilink")[清水市](../Page/清水市.md "wikilink")（現[静岡市](../Page/静岡市.md "wikilink")）生まれ。血液型はB型。グループ内のお母さん的存在。
 
 ## 元メンバー
 
   - 北村 嘉一郎（きたむら かいちろう）
-    パートは4thボーカル、並びに[ボイスパーカッション](https://ja.wikipedia.org/wiki/ボイスパーカッション "wikilink")。神奈川県[横浜市](../Page/横浜市.md "wikilink")生まれ。トライトーンには1996年から2007年末まで11年間メンバーとして参加。以降はソロの「ジャズヴォイスパーカッショニスト」として主として楽器とのセッションで活動する。[納谷嘉彦](https://ja.wikipedia.org/wiki/納谷嘉彦 "wikilink")（ｐ）、[クリヤマコト](https://ja.wikipedia.org/wiki/クリヤマコト "wikilink")（ｐ）、[里見紀子](https://ja.wikipedia.org/wiki/里見紀子 "wikilink")(Vln)などのグループで活躍。最近では、[ギラジルカ](https://ja.wikipedia.org/wiki/ギラジルカ "wikilink")(Vo)、[矢幅歩](https://ja.wikipedia.org/wiki/矢幅歩 "wikilink")(Vo)とのセッションでも活動し、楽器と同レベルのクオリティーのある演奏が高く評価されている。一方、台湾、韓国、香港、マカオなど、海外でのイベントやワークショップで審査員や講師を担当し、指導者としても実績多数。ボイスパーカッションの草分け的存在として、国内外で注目を集めている。現在、アジアを中心としたア・カペラムーブメントのVocal Asiaの日本代表を務める。
+    パートは4thボーカル、並びに[ボイスパーカッション](../Page/ボイスパーカッション.md "wikilink")。神奈川県[横浜市](../Page/横浜市.md "wikilink")生まれ。トライトーンには1996年から2007年末まで11年間メンバーとして参加。以降はソロの「ジャズヴォイスパーカッショニスト」として主として楽器とのセッションで活動する。[納谷嘉彦](https://ja.wikipedia.org/wiki/納谷嘉彦 "wikilink")（ｐ）、[クリヤマコト](https://ja.wikipedia.org/wiki/クリヤマコト "wikilink")（ｐ）、[里見紀子](https://ja.wikipedia.org/wiki/里見紀子 "wikilink")(Vln)などのグループで活躍。最近では、[ギラジルカ](https://ja.wikipedia.org/wiki/ギラジルカ "wikilink")(Vo)、[矢幅歩](https://ja.wikipedia.org/wiki/矢幅歩 "wikilink")(Vo)とのセッションでも活動し、楽器と同レベルのクオリティーのある演奏が高く評価されている。一方、台湾、韓国、香港、マカオなど、海外でのイベントやワークショップで審査員や講師を担当し、指導者としても実績多数。ボイスパーカッションの草分け的存在として、国内外で注目を集めている。現在、アジアを中心としたア・カペラムーブメントのVocal Asiaの日本代表を務める。
 
 <!-- end list -->
 
@@ -28,8 +28,8 @@
 
 <!-- end list -->
 
-  - [川江美奈子](https://ja.wikipedia.org/wiki/川江美奈子 "wikilink")（かわえ みなこ）
-    パートは2nd。1996年に脱退。現在ソロシンガーとして活躍するほか、[今井美樹](https://ja.wikipedia.org/wiki/今井美樹 "wikilink")のコンサートにバックボーカリストとして参加。また、今井のほか、[中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")、[一青窈](https://ja.wikipedia.org/wiki/一青窈 "wikilink")など多くのアーティストに楽曲を提供している。
+  - [川江美奈子](../Page/川江美奈子.md "wikilink")（かわえ みなこ）
+    パートは2nd。1996年に脱退。現在ソロシンガーとして活躍するほか、[今井美樹](../Page/今井美樹.md "wikilink")のコンサートにバックボーカリストとして参加。また、今井のほか、[中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")、[一青窈](https://ja.wikipedia.org/wiki/一青窈 "wikilink")など多くのアーティストに楽曲を提供している。
 
 <!-- end list -->
 
@@ -43,7 +43,7 @@
 
 ## 略歴
 
-  - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink") - 12月に行われた[テイク6](../Page/テイク6.md "wikilink")の来日公演に出かけた、多胡淳と[早稲田大学](https://ja.wikipedia.org/wiki/早稲田大学 "wikilink")の[ア・カペラ](../Page/ア・カペラ.md "wikilink")[サークルのStreet](../Page/クラブ活動.md "wikilink") Corner Symphony（SCS）の部員とが会場で出会い、多胡がSCSに参加する。
+  - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink") - 12月に行われた[テイク6](../Page/テイク6.md "wikilink")の来日公演に出かけた、多胡淳と[早稲田大学](../Page/早稲田大学.md "wikilink")の[ア・カペラ](../Page/ア・カペラ.md "wikilink")[サークルのStreet](../Page/クラブ活動.md "wikilink") Corner Symphony（SCS）の部員とが会場で出会い、多胡がSCSに参加する。
   - [1991年](../Page/1991年.md "wikilink") - SCS(ストリートコーナーシンフォニー)内で多胡らが「6 to 1」というグループを結成する。
   - [1992年](../Page/1992年.md "wikilink") - プロデビューを目指し「6 to 1」のメンバーが主体となり、5声のア・カペラグループ「TRY-TONE」を結成する。
   - [1994年](../Page/1994年.md "wikilink") - ビクターから「Etoile/12の星の物語」でCDデビュー。
@@ -67,8 +67,8 @@
 11. イムジン河（[2003年](../Page/2003年.md "wikilink")[3月3日](../Page/3月3日.md "wikilink")発売）韓国の伝統音楽歌手キム・ヨンウーとのジョイント
 12. にほんのうた〜春夏秋冬〜（2003年[3月19日](../Page/3月19日.md "wikilink")発売）
 13. 星に唄えば（[2004年](../Page/2004年.md "wikilink")[12月5日](../Page/12月5日.md "wikilink")発売）
-14. warm tones（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[5月25日](../Page/5月25日.md "wikilink")発売）
-15. A Cappella 70's Collection For Lovers（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月8日](../Page/11月8日.md "wikilink")発売）
+14. warm tones（[2005年](../Page/2005年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink")発売）
+15. A Cappella 70's Collection For Lovers（[2006年](../Page/2006年.md "wikilink")[11月8日](../Page/11月8日.md "wikilink")発売）
 16. 虹色のハーモニー（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月4日](../Page/6月4日.md "wikilink")発売）
 17. Gift（[2011年](../Page/2011年.md "wikilink")[6月29日](../Page/6月29日.md "wikilink")発売）
 
@@ -318,31 +318,31 @@
 
 ### 2017年
 
-| 日付         | ライブ                                               | 会場                          | 備考                                                                                            |
-| ---------- | ------------------------------------------------- | --------------------------- | --------------------------------------------------------------------------------------------- |
-| 2017/01/13 | Try3 from TRY-TONE Acappella Night                | 池袋Apple Jump                | Try3 Live Vol.4                                                                               |
-| 2017/01/28 | TRY-TONE A Cappella Live                          | 横浜馬車道King’s Bar             | 新森春花・Shin-Imayama 出演                                                                          |
-| 2017/02/02 | TRY-TONE LIVE アカペラ”まめ”ンタインSpecial                 | Blues Alley Japan           | 新森春花・Shin-Imayama 出演                                                                          |
-| 2017/03/05 | TRY-TONE A Cappella Live                          | 池袋Apple Jump                | 新森春花・Shin-Imayama 出演                                                                          |
-| 2017/03/17 | TRY-TONE サロンコンサート                                 | 浜松町サン・ミケーレ                  | 新森春花・Shin-Imayama 出演                                                                          |
-| 2017/03/31 | TRY-TONE A Cappella Night                         | 大久保Boozy Muse               | 新森春花・Shin-Imayama 出演                                                                          |
-| 2017/04/22 | TRY-TONE A Cappella Live                          | 横浜馬車道King’s Bar             | 新森春花・Shin-Imayama 出演/30回記念                                                                    |
-| 2017/06/02 | TRY-TONE Acappella 25th Anniversary Live in TOKYO | Blues Alley Japan           | 新森春花・Shin-Imayama 出演 ゲスト：貞國 公洋・[川江美奈子](https://ja.wikipedia.org/wiki/川江美奈子 "wikilink")・北村 嘉一郎 |
-| 2017/06/24 | TRY-TONE A Cappella Live                          | 池袋Apple Jump                | 新森春花・Shin-Imayama 出演                                                                          |
-| 2017/07/01 | TRY-TONE 結成25周年記念ライブ アカペラ名曲コンサート ちくさ座　ヒットスタジオ     | 千種文化小劇場「ちくさ座」 　　　　　　　　（名古屋） | 新森春花・Shin-Imayama 出演 ゲスト：北村嘉一郎                                                                |
-| 2017/07/07 | Try3 from TRY-TONE Acappella Night                | 大久保Boozy Muse               | Try3 Live Vol.5 ゲスト：松原ヒロ                                                                      |
-| 2017/07/22 | TRY-TONE A Cappella Live                          | 横浜馬車道King’s Bar             | Shin-Imayama・岡野やすこ出演                                                                          |
-| 2017/08/19 | WAVOC presents 災害ボランティア支援 ゴスペラーズ　アカペラコンサート        | 川崎市教育文化会館 大ホール              | 新森春花・Shin-Imayamaと共にゲスト出演                                                                     |
-| 2017/09/01 | とらいとーん 和かぺら’夏’らいぶ＠ぶるーすあれいじゃぱん                     | Blues Alley Japan           | 新森春花・Shin-Imayama 出演                                                                          |
-| 2017/09/15 | TRY-TONE サロンコンサート                                 | 浜松町サン・ミケーレ                  | 新森春花・Shin-Imayama 出演                                                                          |
-| 2017/09/17 | アカペラ★ガシペラ IN 堺東                                   | 堺市市民交流広場（堺市役所前）             | 新森春花・Shin-Imayama 出演 台風接近のため、開催中止                                                             |
-| 2017/10/15 | TRY-TONE A Cappella Live                          | 池袋Apple Jump                | 新森春花・Shin-Imayama 出演 体調不良のため、多胡淳抜きの4名で開催                                                      |
-| 2017/10/28 | 阿佐ヶ谷ジャズストリート                                      | 細田工務店 杉並リボン館                | 新森春花・Shin-Imayama 出演                                                                          |
-| 2017/11/05 | TRY-TONE A Cappella Live                          | 横浜馬車道King’s Bar             | 新森春花・Shin-Imayama 出演                                                                          |
-| 2017/11/17 | Try3 from TRY-TONE Acappella Night                | 大久保Boozy Muse               | Try3 Live Vol.6 ゲスト：松原ヒロ                                                                      |
-| 2017/12/17 | トライトーンアカペラクリスマス2017                               | 名古屋御器所COTAN                 | 新森春花・Shin-Imayama 出演                                                                          |
-| 2017/12/18 | TRY-TONE ACAPPELLA CHRISTMAS2017                  | Blues Alley Japan           | 新森春花・Shin-Imayama 出演 ゲスト：松原ヒロ                                                                 |
-| 2017/12/23 | クリスマスライブ「アカペラクリスマスナイト」                            | 富山市民プラザ                     | 新森春花・松原ヒロ 出演                                                                                  |
+| 日付         | ライブ                                               | 会場                          | 備考                                                                         |
+| ---------- | ------------------------------------------------- | --------------------------- | -------------------------------------------------------------------------- |
+| 2017/01/13 | Try3 from TRY-TONE Acappella Night                | 池袋Apple Jump                | Try3 Live Vol.4                                                            |
+| 2017/01/28 | TRY-TONE A Cappella Live                          | 横浜馬車道King’s Bar             | 新森春花・Shin-Imayama 出演                                                       |
+| 2017/02/02 | TRY-TONE LIVE アカペラ”まめ”ンタインSpecial                 | Blues Alley Japan           | 新森春花・Shin-Imayama 出演                                                       |
+| 2017/03/05 | TRY-TONE A Cappella Live                          | 池袋Apple Jump                | 新森春花・Shin-Imayama 出演                                                       |
+| 2017/03/17 | TRY-TONE サロンコンサート                                 | 浜松町サン・ミケーレ                  | 新森春花・Shin-Imayama 出演                                                       |
+| 2017/03/31 | TRY-TONE A Cappella Night                         | 大久保Boozy Muse               | 新森春花・Shin-Imayama 出演                                                       |
+| 2017/04/22 | TRY-TONE A Cappella Live                          | 横浜馬車道King’s Bar             | 新森春花・Shin-Imayama 出演/30回記念                                                 |
+| 2017/06/02 | TRY-TONE Acappella 25th Anniversary Live in TOKYO | Blues Alley Japan           | 新森春花・Shin-Imayama 出演 ゲスト：貞國 公洋・[川江美奈子](../Page/川江美奈子.md "wikilink")・北村 嘉一郎 |
+| 2017/06/24 | TRY-TONE A Cappella Live                          | 池袋Apple Jump                | 新森春花・Shin-Imayama 出演                                                       |
+| 2017/07/01 | TRY-TONE 結成25周年記念ライブ アカペラ名曲コンサート ちくさ座　ヒットスタジオ     | 千種文化小劇場「ちくさ座」 　　　　　　　　（名古屋） | 新森春花・Shin-Imayama 出演 ゲスト：北村嘉一郎                                             |
+| 2017/07/07 | Try3 from TRY-TONE Acappella Night                | 大久保Boozy Muse               | Try3 Live Vol.5 ゲスト：松原ヒロ                                                   |
+| 2017/07/22 | TRY-TONE A Cappella Live                          | 横浜馬車道King’s Bar             | Shin-Imayama・岡野やすこ出演                                                       |
+| 2017/08/19 | WAVOC presents 災害ボランティア支援 ゴスペラーズ　アカペラコンサート        | 川崎市教育文化会館 大ホール              | 新森春花・Shin-Imayamaと共にゲスト出演                                                  |
+| 2017/09/01 | とらいとーん 和かぺら’夏’らいぶ＠ぶるーすあれいじゃぱん                     | Blues Alley Japan           | 新森春花・Shin-Imayama 出演                                                       |
+| 2017/09/15 | TRY-TONE サロンコンサート                                 | 浜松町サン・ミケーレ                  | 新森春花・Shin-Imayama 出演                                                       |
+| 2017/09/17 | アカペラ★ガシペラ IN 堺東                                   | 堺市市民交流広場（堺市役所前）             | 新森春花・Shin-Imayama 出演 台風接近のため、開催中止                                          |
+| 2017/10/15 | TRY-TONE A Cappella Live                          | 池袋Apple Jump                | 新森春花・Shin-Imayama 出演 体調不良のため、多胡淳抜きの4名で開催                                   |
+| 2017/10/28 | 阿佐ヶ谷ジャズストリート                                      | 細田工務店 杉並リボン館                | 新森春花・Shin-Imayama 出演                                                       |
+| 2017/11/05 | TRY-TONE A Cappella Live                          | 横浜馬車道King’s Bar             | 新森春花・Shin-Imayama 出演                                                       |
+| 2017/11/17 | Try3 from TRY-TONE Acappella Night                | 大久保Boozy Muse               | Try3 Live Vol.6 ゲスト：松原ヒロ                                                   |
+| 2017/12/17 | トライトーンアカペラクリスマス2017                               | 名古屋御器所COTAN                 | 新森春花・Shin-Imayama 出演                                                       |
+| 2017/12/18 | TRY-TONE ACAPPELLA CHRISTMAS2017                  | Blues Alley Japan           | 新森春花・Shin-Imayama 出演 ゲスト：松原ヒロ                                              |
+| 2017/12/23 | クリスマスライブ「アカペラクリスマスナイト」                            | 富山市民プラザ                     | 新森春花・松原ヒロ 出演                                                               |
 
 ### 2016年
 

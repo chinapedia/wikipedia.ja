@@ -1,14 +1,14 @@
 > この記事は[ \(DEEN\)](https://ja.wikipedia.org/wiki/_\(DEEN\))から翻訳されています。
 
 
-『**君さえいれば**』は、[DEEN](https://ja.wikipedia.org/wiki/DEEN "wikilink")の15thシングル。
+『**君さえいれば**』は、[DEEN](../Page/DEEN.md "wikilink")の15thシングル。
 
 ## 解説
 
   - 1993年のデビューから在籍していたB-Gram RECORDS移籍前最後のシングル。
   - 作詞･作曲を担当した小松未歩が自身のアルバム『[小松未歩 6th 〜花野〜](../Page/小松未歩_6th_〜花野〜.md "wikilink")』でセルフカバーしている。
-      - 小松未歩によるセルフカバーは『[DEEN The Best キセキ](https://ja.wikipedia.org/wiki/DEEN_The_Best_キセキ "wikilink")』の初回限定盤、『[DEEN The Best FOREVER 〜Complete Singles +〜](https://ja.wikipedia.org/wiki/DEEN_The_Best_FOREVER_〜Complete_Singles_+〜 "wikilink")』の初回限定盤にも収録されている。
-  - [中日ドラゴンズ](https://ja.wikipedia.org/wiki/中日ドラゴンズ "wikilink")の外野手[平田良介](https://ja.wikipedia.org/wiki/平田良介 "wikilink")の登場曲として使用された。(2015年)
+      - 小松未歩によるセルフカバーは『[DEEN The Best キセキ](../Page/DEEN_The_Best_キセキ.md "wikilink")』の初回限定盤、『[DEEN The Best FOREVER 〜Complete Singles +〜](https://ja.wikipedia.org/wiki/DEEN_The_Best_FOREVER_〜Complete_Singles_+〜 "wikilink")』の初回限定盤にも収録されている。
+  - [中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")の外野手[平田良介](https://ja.wikipedia.org/wiki/平田良介 "wikilink")の登場曲として使用された。(2015年)
   - 長めのギター・ソロがあったのだが、「ハードすぎる」という判断を下してカットした。そのバージョンはライブで披露したことがある。
 
 ## 収録曲
@@ -16,10 +16,10 @@
 1.  **君さえいれば**
       -
         作詞・作曲:[小松未歩](../Page/小松未歩.md "wikilink")　編曲:[池田大介](../Page/池田大介_\(編曲家\).md "wikilink")
-        [フジテレビ系列](../Page/フジテレビ系列.md "wikilink")[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[中華一番\!](https://ja.wikipedia.org/wiki/中華一番! "wikilink")』オープニングテーマ\[1\]
+        [フジテレビ系列](../Page/フジテレビ系列.md "wikilink")[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[中華一番\!](../Page/中華一番!.md "wikilink")』オープニングテーマ\[1\]
 2.  **TAKE OFF ～まだ 始まったばかり～**
       -
-        作詞:[池森秀一](https://ja.wikipedia.org/wiki/池森秀一 "wikilink")　作曲:[田川伸治](https://ja.wikipedia.org/wiki/田川伸治 "wikilink")　編曲:DEEN
+        作詞:[池森秀一](../Page/池森秀一.md "wikilink")　作曲:[田川伸治](../Page/田川伸治.md "wikilink")　編曲:DEEN
 3.  **君さえいれば　（ORIGINAL KARAOKE）**
 4.  **TAKE OFF ～まだ 始まったばかり～　（ORIGINAL KARAOKE）**
 
@@ -29,9 +29,9 @@
 
 <!-- end list -->
 
-  - 『[The DAY](https://ja.wikipedia.org/wiki/The_DAY_\(アルバム\) "wikilink")』
+  - 『[The DAY](../Page/The_DAY_\(アルバム\).md "wikilink")』
   - 『[DEEN PERFECT SINGLES +](https://ja.wikipedia.org/wiki/DEEN_PERFECT_SINGLES_+ "wikilink")』
-  - 『[DEEN The Best キセキ](https://ja.wikipedia.org/wiki/DEEN_The_Best_キセキ "wikilink")』※アレンジ、新録音して収録
+  - 『[DEEN The Best キセキ](../Page/DEEN_The_Best_キセキ.md "wikilink")』※アレンジ、新録音して収録
   - 『[マリアージュ](https://ja.wikipedia.org/wiki/マリアージュ_\(DEENのアルバム\) "wikilink")』※アレンジ、新録音して収録
   - 『[DEENAGE MEMORY -20周年記念ベストアルバム-](https://ja.wikipedia.org/wiki/DEENAGE_MEMORY_-20周年記念ベストアルバム- "wikilink")』
   - 『[DEEN The Best FOREVER 〜Complete Singles +〜](https://ja.wikipedia.org/wiki/DEEN_The_Best_FOREVER_〜Complete_Singles_+〜 "wikilink")』
@@ -47,7 +47,7 @@
 ## 参加ミュージシャン
 
   - 池森秀一：[ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")
-  - [山根公路](https://ja.wikipedia.org/wiki/山根公路 "wikilink")：[キーボード](../Page/キーボード_\(楽器\).md "wikilink")
+  - [山根公路](../Page/山根公路.md "wikilink")：[キーボード](../Page/キーボード_\(楽器\).md "wikilink")
   - [宇津本直紀](../Page/宇津本直紀.md "wikilink")：[ドラム](../Page/ドラムセット.md "wikilink")
   - 田川伸治：[ギター](../Page/ギター.md "wikilink")
 

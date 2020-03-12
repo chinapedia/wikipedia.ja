@@ -1,31 +1,31 @@
 > この記事は[NAMELESS WORLD](https://ja.wikipedia.org/wiki/NAMELESS_WORLD)から翻訳されています。
 
 
-『**NAMELESS WORLD**』（ネームレス・ワールド）は、[フォークデュオ](https://ja.wikipedia.org/wiki/フォークデュオ "wikilink")[コブクロ](https://ja.wikipedia.org/wiki/コブクロ "wikilink")が[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月21日](../Page/12月21日.md "wikilink")にリリースした通算5枚目のオリジナルアルバム。
+『**NAMELESS WORLD**』（ネームレス・ワールド）は、[フォークデュオ](../Page/フォークデュオ.md "wikilink")[コブクロ](https://ja.wikipedia.org/wiki/コブクロ "wikilink")が[2005年](../Page/2005年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")にリリースした通算5枚目のオリジナルアルバム。
 
 ## 概要
 
-「ここにしか咲かない花」「桜」といったヒットナンバー、さらに高校サッカーの応援歌「Starting Line」などを盛り込んだ1枚。カップリング曲では「[今と未来を繋ぐもの](https://ja.wikipedia.org/wiki/桜_\(コブクロの曲\) "wikilink")」のみが未収録となった。
+「ここにしか咲かない花」「桜」といったヒットナンバー、さらに高校サッカーの応援歌「Starting Line」などを盛り込んだ1枚。カップリング曲では「[今と未来を繋ぐもの](../Page/桜_\(コブクロの曲\).md "wikilink")」のみが未収録となった。
 
-リリース前の[テレビCMに](../Page/コマーシャルメッセージ.md "wikilink")[天海祐希](https://ja.wikipedia.org/wiki/天海祐希 "wikilink")や[速水もこみち](https://ja.wikipedia.org/wiki/速水もこみち "wikilink")が出演し話題となった。
+リリース前の[テレビCMに](../Page/コマーシャルメッセージ.md "wikilink")[天海祐希](https://ja.wikipedia.org/wiki/天海祐希 "wikilink")や[速水もこみち](../Page/速水もこみち.md "wikilink")が出演し話題となった。
 
 シングル・アルバム通じて自身初のオリコンチャート1位を獲得し、出荷枚数で初のミリオンセラーとなった。
 
 ## 収録曲
 
-1.  **Flag** （作詞・作曲:[小渕健太郎](https://ja.wikipedia.org/wiki/小渕健太郎 "wikilink")）
+1.  **Flag** （作詞・作曲:[小渕健太郎](../Page/小渕健太郎.md "wikilink")）
       -
-        7分を超える大作。靴音が近づき、ギターをケースから出す[SEから始まる](https://ja.wikipedia.org/wiki/効果音 "wikilink")。
+        7分を超える大作。靴音が近づき、ギターをケースから出す[SEから始まる](../Page/効果音.md "wikilink")。
         ストリートを強く意識した楽曲で、彼ら自身が歩んできた道のりを歌に乗せている。
-2.  **[桜](https://ja.wikipedia.org/wiki/桜_\(コブクロの曲\) "wikilink")** （作詞・作曲:小渕健太郎、[黒田俊介](https://ja.wikipedia.org/wiki/黒田俊介 "wikilink")）
+2.  **[桜](../Page/桜_\(コブクロの曲\).md "wikilink")** （作詞・作曲:小渕健太郎、[黒田俊介](../Page/黒田俊介.md "wikilink")）
       -
         12thシングル。
         ドラマ「[Ns'あおい](../Page/Ns'あおい_\(テレビドラマ\).md "wikilink")」主題歌。
-3.  **[六等星 -NAMELESS STAR TRACK-](https://ja.wikipedia.org/wiki/ここにしか咲かない花 "wikilink")** （作詞・作曲:小渕健太郎）
+3.  **[六等星 -NAMELESS STAR TRACK-](../Page/ここにしか咲かない花.md "wikilink")** （作詞・作曲:小渕健太郎）
       -
         11thシングルのカップリング曲で、本作にはアルバムバージョンで収録。
         [テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")でこの曲がテーマソングとして用いられ、広島限定で六等星1曲のみのシングルが発売されている。
-4.  **[ここにしか咲かない花](https://ja.wikipedia.org/wiki/ここにしか咲かない花 "wikilink")** （作詞・作曲:小渕健太郎）
+4.  **[ここにしか咲かない花](../Page/ここにしか咲かない花.md "wikilink")** （作詞・作曲:小渕健太郎）
       -
         11thシングル。
         ドラマ「[瑠璃の島](../Page/瑠璃の島.md "wikilink")」主題歌。
@@ -46,7 +46,7 @@
         黒田が作詞・作曲をした楽曲で、故郷にて彼の先輩と酒を飲んで語り合ったのがきっかけで作られた。
         沖縄の民謡楽器[三線](../Page/三線.md "wikilink")が使用されている。
 9.  **NOTE** （作詞・作曲:小渕健太郎）
-10. **[Starting Line](https://ja.wikipedia.org/wiki/桜_\(コブクロの曲\) "wikilink")** （作詞:小渕健太郎、黒田俊介、21STREETリスナーの皆さん／作曲:小渕健太郎、黒田俊介）
+10. **[Starting Line](../Page/桜_\(コブクロの曲\).md "wikilink")** （作詞:小渕健太郎、黒田俊介、21STREETリスナーの皆さん／作曲:小渕健太郎、黒田俊介）
       -
         12thシングルのカップリング曲で、歌詞はラジオのリスナーとの共作である。曲自体は2003年にツアーで発表されていた。
         『[全国高等学校サッカー選手権大会](../Page/全国高等学校サッカー選手権大会.md "wikilink")』応援歌。

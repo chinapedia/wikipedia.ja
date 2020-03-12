@@ -1,11 +1,11 @@
 > この記事は[ \&  Mr.](https://ja.wikipedia.org/wiki/_\&__Mr.)から翻訳されています。
 
 
-『**バットマン&ロビン Mr.フリーズの逆襲**』（バットマンアンドロビン ミスターフリーズのぎゃくしゅう、*BATMAN & ROBIN*）は、[DCコミックス](https://ja.wikipedia.org/wiki/DCコミックス "wikilink")の『[バットマン](https://ja.wikipedia.org/wiki/バットマン "wikilink")』を原作とした[1997年の](https://ja.wikipedia.org/wiki/1997年の映画 "wikilink") [スーパーヒーロー映画](https://ja.wikipedia.org/wiki/スーパーヒーロー映画 "wikilink")である。監督は[ジョエル・シュマッカー](../Page/ジョエル・シュマッカー.md "wikilink")、脚本は[アキヴァ・ゴールズマン](https://ja.wikipedia.org/wiki/アキヴァ・ゴールズマン "wikilink")、出演は[ジョージ・クルーニー](https://ja.wikipedia.org/wiki/ジョージ・クルーニー "wikilink")、[クリス・オドネル](https://ja.wikipedia.org/wiki/クリス・オドネル "wikilink")、[アリシア・シルヴァーストーン](../Page/アリシア・シルヴァーストーン.md "wikilink")、[ユマ・サーマン](https://ja.wikipedia.org/wiki/ユマ・サーマン "wikilink")、[アーノルド・シュワルツェネッガー](../Page/アーノルド・シュワルツェネッガー.md "wikilink")らで、[ワーナー・ブラザース](https://ja.wikipedia.org/wiki/ワーナー・ブラザース "wikilink")が配給した。[映画『バットマン』シリーズの](https://ja.wikipedia.org/wiki/バットマンの映画作品 "wikilink")4作目であり、バットマンとロビンが[ゴッサム・シティ](../Page/ゴッサム・シティ.md "wikilink")を氷漬けにしようと企む[Mr.フリーズ](../Page/ミスター・フリーズ.md "wikilink")、[ポイズン・アイビー](../Page/ポイズン・アイビー.md "wikilink")、[ベイン](../Page/ベイン.md "wikilink")に立ち向かう物語である。
+『**バットマン&ロビン Mr.フリーズの逆襲**』（バットマンアンドロビン ミスターフリーズのぎゃくしゅう、*BATMAN & ROBIN*）は、[DCコミックス](../Page/DCコミックス.md "wikilink")の『[バットマン](https://ja.wikipedia.org/wiki/バットマン "wikilink")』を原作とした[1997年の](../Page/1997年の映画.md "wikilink") [スーパーヒーロー映画](https://ja.wikipedia.org/wiki/スーパーヒーロー映画 "wikilink")である。監督は[ジョエル・シュマッカー](../Page/ジョエル・シュマッカー.md "wikilink")、脚本は[アキヴァ・ゴールズマン](../Page/アキヴァ・ゴールズマン.md "wikilink")、出演は[ジョージ・クルーニー](https://ja.wikipedia.org/wiki/ジョージ・クルーニー "wikilink")、[クリス・オドネル](https://ja.wikipedia.org/wiki/クリス・オドネル "wikilink")、[アリシア・シルヴァーストーン](../Page/アリシア・シルヴァーストーン.md "wikilink")、[ユマ・サーマン](../Page/ユマ・サーマン.md "wikilink")、[アーノルド・シュワルツェネッガー](../Page/アーノルド・シュワルツェネッガー.md "wikilink")らで、[ワーナー・ブラザース](../Page/ワーナー・ブラザース.md "wikilink")が配給した。[映画『バットマン』シリーズの](https://ja.wikipedia.org/wiki/バットマンの映画作品 "wikilink")4作目であり、バットマンとロビンが[ゴッサム・シティ](../Page/ゴッサム・シティ.md "wikilink")を氷漬けにしようと企む[Mr.フリーズ](../Page/ミスター・フリーズ.md "wikilink")、[ポイズン・アイビー](../Page/ポイズン・アイビー.md "wikilink")、[ベイン](../Page/ベイン.md "wikilink")に立ち向かう物語である。
 
 企画は『[バットマン フォーエヴァー](../Page/バットマン_フォーエヴァー.md "wikilink")』が興行的に成功した直後に始まり、撮影は1996年9月から1997年1月まで行われた。
 
-1997年6月20日に封切られたが、批評家には玩具チックで[キャンプなアプローチ](https://ja.wikipedia.org/wiki/キャンプ_\(様式\) "wikilink")、シュマッカーが追加した同性愛的暗示もあって酷評された。[第18回ゴールデンラズベリー賞](https://ja.wikipedia.org/wiki/第18回ゴールデンラズベリー賞 "wikilink")では[最低作品賞などにノミネートされた](https://ja.wikipedia.org/wiki/ゴールデンラズベリー賞_最低作品賞 "wikilink")。この後、ワーナー・ブラザースは企画していたシリーズ5作目『*[Batman Triumphant](https://ja.wikipedia.org/wiki/バットマンの映画作品#Batman_Triumphant "wikilink")*』を中止し、[クリストファー・ノーラン](https://ja.wikipedia.org/wiki/クリストファー・ノーラン "wikilink")監督の『[バットマン ビギンズ](https://ja.wikipedia.org/wiki/バットマン_ビギンズ "wikilink")』（2005年）でシリーズは[リブートされた](https://ja.wikipedia.org/wiki/リブート_\(作品展開\) "wikilink")。
+1997年6月20日に封切られたが、批評家には玩具チックで[キャンプなアプローチ](https://ja.wikipedia.org/wiki/キャンプ_\(様式\) "wikilink")、シュマッカーが追加した同性愛的暗示もあって酷評された。[第18回ゴールデンラズベリー賞](https://ja.wikipedia.org/wiki/第18回ゴールデンラズベリー賞 "wikilink")では[最低作品賞などにノミネートされた](https://ja.wikipedia.org/wiki/ゴールデンラズベリー賞_最低作品賞 "wikilink")。この後、ワーナー・ブラザースは企画していたシリーズ5作目『*[Batman Triumphant](https://ja.wikipedia.org/wiki/バットマンの映画作品#Batman_Triumphant "wikilink")*』を中止し、[クリストファー・ノーラン](../Page/クリストファー・ノーラン.md "wikilink")監督の『[バットマン ビギンズ](../Page/バットマン_ビギンズ.md "wikilink")』（2005年）でシリーズは[リブートされた](https://ja.wikipedia.org/wiki/リブート_\(作品展開\) "wikilink")。
 
 ## ストーリー
 
@@ -112,27 +112,27 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ディック・グレイソン" title="wikilink">ディック・グレイソン / ロビン</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/クリス・オドネル" title="wikilink">クリス・オドネル</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/宮本充" title="wikilink">宮本充</a></p></td>
+<td><p><a href="../Page/宮本充.md" title="wikilink">宮本充</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/バットガール.md" title="wikilink">バーバラ・ウィルソン / バットガール</a></p></td>
 <td><p><a href="../Page/アリシア・シルヴァーストーン.md" title="wikilink">アリシア・シルヴァーストーン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/岡本麻弥" title="wikilink">岡本麻弥</a></p></td>
+<td><p><a href="../Page/岡本麻弥.md" title="wikilink">岡本麻弥</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/ポイズン・アイビー.md" title="wikilink">パメラ・アイズリー / ポイズン・アイビー</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ユマ・サーマン" title="wikilink">ユマ・サーマン</a></p></td>
+<td><p><a href="../Page/ユマ・サーマン.md" title="wikilink">ユマ・サーマン</a></p></td>
 <td><p><a href="../Page/戸田恵子.md" title="wikilink">戸田恵子</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/ミスター・フリーズ.md" title="wikilink">ヴィクター・フリーズ / Mr.フリーズ</a></p></td>
 <td><p><a href="../Page/アーノルド・シュワルツェネッガー.md" title="wikilink">アーノルド・シュワルツェネッガー</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大友龍三郎" title="wikilink">大友龍三郎</a></p></td>
+<td><p><a href="../Page/大友龍三郎.md" title="wikilink">大友龍三郎</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/アルフレッド・ペニーワース" title="wikilink">アルフレッド・ペニーワース</a></p></td>
 <td><p><a href="../Page/マイケル・ガフ.md" title="wikilink">マイケル・ガフ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/松岡文雄" title="wikilink">松岡文雄</a></p></td>
+<td><p><a href="../Page/松岡文雄.md" title="wikilink">松岡文雄</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ジェームズ・ゴードン" title="wikilink">ジェームズ・ゴードン</a>総監</p></td>
@@ -142,22 +142,22 @@
 <tr class="odd">
 <td><p><a href="../Page/ベイン.md" title="wikilink">アントニオ・ディエゴ / ベイン</a></p></td>
 <td><p>ジープ・スウェンソン</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/郷里大輔" title="wikilink">郷里大輔</a></p></td>
+<td><p><a href="../Page/郷里大輔.md" title="wikilink">郷里大輔</a></p></td>
 </tr>
 <tr class="even">
 <td><p>マイケル・リード・マッケイ（改造前）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/松本大_(声優)" title="wikilink">松本大</a></p></td>
+<td><p><a href="../Page/松本大_(声優).md" title="wikilink">松本大</a></p></td>
 <td><p><a href="../Page/谷昌樹.md" title="wikilink">谷昌樹</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ジェイソン・ウッドルー" title="wikilink">ジェイソン・ウッドルー</a>博士</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジョン・グローヴァー" title="wikilink">ジョン・グローヴァー</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/田原アルノ" title="wikilink">田原アルノ</a></p></td>
+<td><p><a href="../Page/田原アルノ.md" title="wikilink">田原アルノ</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ジュリー・マディソン</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エル・マクファーソン" title="wikilink">エル・マクファーソン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日野由利加" title="wikilink">日野由利加</a></p></td>
+<td><p><a href="../Page/エル・マクファーソン.md" title="wikilink">エル・マクファーソン</a></p></td>
+<td><p><a href="../Page/日野由利加.md" title="wikilink">日野由利加</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>ノーラ・フライズ</p></td>
@@ -167,11 +167,11 @@
 <tr class="even">
 <td><p>フロスティ</p></td>
 <td><p>ジョー・サバティーノ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/星野充昭" title="wikilink">星野充昭</a></p></td>
+<td><p><a href="../Page/星野充昭.md" title="wikilink">星野充昭</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>ミズ・B・ヘイブン</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヴィヴィカ・A・フォックス" title="wikilink">ヴィヴィカ・A・フォックス</a><br />
+<td><p><a href="../Page/ヴィヴィカ・A・フォックス.md" title="wikilink">ヴィヴィカ・A・フォックス</a><br />
 （カメオ出演）</p></td>
 <td></td>
 </tr>
@@ -179,7 +179,7 @@
 <td><p>リー博士（天文台の科学者）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/マイケル・ポール・チャン" title="wikilink">マイケル・ポール・チャン</a><br />
 （カメオ出演）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/石井隆夫" title="wikilink">石井隆夫</a></p></td>
+<td><p><a href="../Page/石井隆夫.md" title="wikilink">石井隆夫</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>その他声の出演</p></td>
@@ -187,13 +187,13 @@
 <td><p><a href="../Page/佐藤しのぶ_(声優).md" title="wikilink">佐藤しのぶ</a><br />
 <a href="https://ja.wikipedia.org/wiki/吉田幸紘" title="wikilink">吉田幸紘</a><br />
 <a href="https://ja.wikipedia.org/wiki/津田真澄" title="wikilink">津田真澄</a><br />
-<a href="https://ja.wikipedia.org/wiki/沢海陽子" title="wikilink">沢海陽子</a><br />
+<a href="../Page/沢海陽子.md" title="wikilink">沢海陽子</a><br />
 <a href="../Page/翔香.md" title="wikilink">岡本章子</a><br />
-<a href="https://ja.wikipedia.org/wiki/大黒和広" title="wikilink">大黒和広</a><br />
-<a href="https://ja.wikipedia.org/wiki/室園丈裕" title="wikilink">室園丈裕</a><br />
+<a href="../Page/大黒和広.md" title="wikilink">大黒和広</a><br />
+<a href="../Page/室園丈裕.md" title="wikilink">室園丈裕</a><br />
 佐藤美智子<br />
-<a href="https://ja.wikipedia.org/wiki/柳沢栄治" title="wikilink">柳沢栄治</a><br />
-<a href="https://ja.wikipedia.org/wiki/高瀬右光" title="wikilink">高瀬右光</a></p></td>
+<a href="../Page/柳沢栄治.md" title="wikilink">柳沢栄治</a><br />
+<a href="../Page/高瀬右光.md" title="wikilink">高瀬右光</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -249,17 +249,17 @@
 
 ## 製作
 
-1995年に『[バットマン フォーエヴァー](../Page/バットマン_フォーエヴァー.md "wikilink")』が興行的に成功した後、ワーナー・ブラザースはすぐに続編を決定した\[1\]。8月にワーナーは監督の[ジョエル・シュマッカー](../Page/ジョエル・シュマッカー.md "wikilink")と脚本の[アキヴァ・ゴールズマン](https://ja.wikipedia.org/wiki/アキヴァ・ゴールズマン "wikilink")を続投させるために雇い\[2\]、1997年6月公開ならば製作が間に合うと判断した\[3\]。シュマッカーはバットマンの1960年代のテレビシリーズの[キャンプ様式と](https://ja.wikipedia.org/wiki/キャンプ_\(様式\) "wikilink")の作品への[オマージュ](../Page/オマージュ.md "wikilink")を望んだ\[4\]。『バットマン & ロビン』のストーリーラインは、『[評決のとき](https://ja.wikipedia.org/wiki/評決のとき "wikilink")』の[プリプロダクション](https://ja.wikipedia.org/wiki/プリプロダクション "wikilink")中にシュマッカーとゴールズマンによって考え出された\[5\]。Mr.フリーズのバックストーリーの一部は、テレビアニメ『[バットマン](https://ja.wikipedia.org/wiki/バットマン_\(アニメ\) "wikilink")』のエピソード「」を基としている\[6\]。[主要撮影](https://ja.wikipedia.org/wiki/主要撮影 "wikilink")は当初1996年8月を予定していたが\[7\]、同年9月12日まで遅れた\[8\]。撮影は1997年1月下旬に完了した\[9\]。撮影は主に[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[バーバンクのワーナー](../Page/バーバンク_\(カリフォルニア州\).md "wikilink")・ブラザース・スタジオで行われた\[10\]。
+1995年に『[バットマン フォーエヴァー](../Page/バットマン_フォーエヴァー.md "wikilink")』が興行的に成功した後、ワーナー・ブラザースはすぐに続編を決定した\[1\]。8月にワーナーは監督の[ジョエル・シュマッカー](../Page/ジョエル・シュマッカー.md "wikilink")と脚本の[アキヴァ・ゴールズマン](../Page/アキヴァ・ゴールズマン.md "wikilink")を続投させるために雇い\[2\]、1997年6月公開ならば製作が間に合うと判断した\[3\]。シュマッカーはバットマンの1960年代のテレビシリーズの[キャンプ様式と](https://ja.wikipedia.org/wiki/キャンプ_\(様式\) "wikilink")の作品への[オマージュ](../Page/オマージュ.md "wikilink")を望んだ\[4\]。『バットマン & ロビン』のストーリーラインは、『[評決のとき](../Page/評決のとき.md "wikilink")』の[プリプロダクション](https://ja.wikipedia.org/wiki/プリプロダクション "wikilink")中にシュマッカーとゴールズマンによって考え出された\[5\]。Mr.フリーズのバックストーリーの一部は、テレビアニメ『[バットマン](../Page/バットマン_\(アニメ\).md "wikilink")』のエピソード「」を基としている\[6\]。[主要撮影](https://ja.wikipedia.org/wiki/主要撮影 "wikilink")は当初1996年8月を予定していたが\[7\]、同年9月12日まで遅れた\[8\]。撮影は1997年1月下旬に完了した\[9\]。撮影は主に[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[バーバンクのワーナー](../Page/バーバンク_\(カリフォルニア州\).md "wikilink")・ブラザース・スタジオで行われた\[10\]。
 
-プロダクションデザイナーのバーバラ・リンは「（[ゴッサム・シティ](../Page/ゴッサム・シティ.md "wikilink")のデザインは）[ネオンまみれの東京と](https://ja.wikipedia.org/wiki/ネオンサイン "wikilink")から来ている。ゴッサムは[エクスタシーの](../Page/メチレンジオキシメタンフェタミン.md "wikilink")[国際博覧会](../Page/国際博覧会.md "wikilink")のようだ」と述べた\[11\]。視覚効果シークエンスは[リズム&ヒューズ・スタジオ](../Page/リズム&ヒューズ・スタジオ.md "wikilink")とが手がけ、[ジョン・ダイクストラ](../Page/ジョン・ダイクストラ.md "wikilink")と[アンドリュー・アダムソン](https://ja.wikipedia.org/wiki/アンドリュー・アダムソン "wikilink")が視覚効果スーパーバイザーを務めた\[12\]。
+プロダクションデザイナーのバーバラ・リンは「（[ゴッサム・シティ](../Page/ゴッサム・シティ.md "wikilink")のデザインは）[ネオンまみれの東京と](../Page/ネオンサイン.md "wikilink")から来ている。ゴッサムは[エクスタシーの](../Page/メチレンジオキシメタンフェタミン.md "wikilink")[国際博覧会](../Page/国際博覧会.md "wikilink")のようだ」と述べた\[11\]。視覚効果シークエンスは[リズム&ヒューズ・スタジオ](../Page/リズム&ヒューズ・スタジオ.md "wikilink")とが手がけ、[ジョン・ダイクストラ](../Page/ジョン・ダイクストラ.md "wikilink")と[アンドリュー・アダムソン](https://ja.wikipedia.org/wiki/アンドリュー・アダムソン "wikilink")が視覚効果スーパーバイザーを務めた\[12\]。
 
 ### 音楽
 
-『バットマン フォーエヴァー』と同じく[エリオット・ゴールデンサール](https://ja.wikipedia.org/wiki/エリオット・ゴールデンサール "wikilink")が映画音楽を手がけた\[13\]。サウンドトラックには[スマッシング・パンプキンズ](https://ja.wikipedia.org/wiki/スマッシング・パンプキンズ "wikilink")の「The End Is the Beginning Is the End」、[グー・グー・ドールズ](https://ja.wikipedia.org/wiki/グー・グー・ドールズ "wikilink")の「Lazy Eye」など多数のアーティストの曲が含まれた。また[R・ケリー](../Page/R・ケリー.md "wikilink")はサウンドトラックのために「Gotham City」を書いた。サウンドトラック盤は映画公開の1ヶ月前のとなる1997年5月27日に発売された\[14\]\[15\]
+『バットマン フォーエヴァー』と同じく[エリオット・ゴールデンサール](https://ja.wikipedia.org/wiki/エリオット・ゴールデンサール "wikilink")が映画音楽を手がけた\[13\]。サウンドトラックには[スマッシング・パンプキンズ](../Page/スマッシング・パンプキンズ.md "wikilink")の「The End Is the Beginning Is the End」、[グー・グー・ドールズ](../Page/グー・グー・ドールズ.md "wikilink")の「Lazy Eye」など多数のアーティストの曲が含まれた。また[R・ケリー](../Page/R・ケリー.md "wikilink")はサウンドトラックのために「Gotham City」を書いた。サウンドトラック盤は映画公開の1ヶ月前のとなる1997年5月27日に発売された\[14\]\[15\]
 
 ## マーケティング
 
-[予告編](https://ja.wikipedia.org/wiki/予告編 "wikilink")は1997年2月19日の『[エンターテイメント・トゥナイト](../Page/エンターテイメント・トゥナイト.md "wikilink")』で初公開された\[16\]。[ワーナー・ブラザース](https://ja.wikipedia.org/wiki/ワーナー・ブラザース "wikilink")はプロモーションとマーケティングに1500万ドルを費やした\[17\]。
+[予告編](../Page/予告編.md "wikilink")は1997年2月19日の『[エンターテイメント・トゥナイト](../Page/エンターテイメント・トゥナイト.md "wikilink")』で初公開された\[16\]。[ワーナー・ブラザース](../Page/ワーナー・ブラザース.md "wikilink")はプロモーションとマーケティングに1500万ドルを費やした\[17\]。
 
 ## 評価
 
@@ -271,7 +271,7 @@
 
 『バットマン & ロビン』の批評家の反応は否定に偏った。2013年2月時点で[Rotten Tomatoesでは](https://ja.wikipedia.org/wiki/Rotten_Tomatoes "wikilink")66件のレビューで支持率は12%、平均点は3.4/10となっている\[25\]。また[Metacritic](https://ja.wikipedia.org/wiki/Metacritic "wikilink")では21媒体のレビューで加重平均値は21/100となっている\[26\]。
 
-シュマッカーとプロデューサーのピーター・マクレガー＝スコットは、本作の不評はワーナー・ブラザースが製作を急いだために起こったと主張した。「ワーナー・ブラザースは『バットマン & ロビン』をもっとファミリー・フレンドリーにするように圧力をかけてきた」とシュマッカーは説明した。また「我々はあまり重苦しくない『バットマン』映画にし、苦悩を減らし、よりヒロイックにすることに決めていた。それが理由で非難されていることは知っているが、私はそのアプローチに全く害は見いだせなかった」と述べた\[27\]。『[シカゴ・サンタイムズ](../Page/シカゴ・サンタイムズ.md "wikilink")』の[ロジャー・イーバート](../Page/ロジャー・イーバート.md "wikilink")は玩具的なアプローチとMr.フリーズのつまらないジョークを批判した\[28\]。『[ロサンゼルス・タイムズ](https://ja.wikipedia.org/wiki/ロサンゼルス・タイムズ "wikilink")』のは本作が[映画『バットマン』シリーズを](https://ja.wikipedia.org/wiki/バットマンの映画作品 "wikilink")「殺した」と考え、また視覚効果に頼りすぎていると感じた\[29\]。『[ワシントン・ポスト](../Page/ワシントン・ポスト.md "wikilink")』のはシュマッカーの方向性とゴールズマンの脚本を非難した\[30\]。『[サンフランシスコ・クロニクル](../Page/サンフランシスコ・クロニクル.md "wikilink")』のは、「ジョージ・クルーニーはこの映画におけるビッグ・ゼロであり、シリーズにおける[ジョージ・レーゼンビー](https://ja.wikipedia.org/wiki/ジョージ・レーゼンビー "wikilink")として歴史に名を残すべきだ」と主張した\[31\]。一方で『[ニューヨーク・タイムズ](https://ja.wikipedia.org/wiki/ニューヨーク・タイムズ "wikilink")』のは肯定的な評価を与えた。彼女はユマ・サーマンの演技、映画の美術、衣裳デサインを称賛した\[32\]。
+シュマッカーとプロデューサーのピーター・マクレガー＝スコットは、本作の不評はワーナー・ブラザースが製作を急いだために起こったと主張した。「ワーナー・ブラザースは『バットマン & ロビン』をもっとファミリー・フレンドリーにするように圧力をかけてきた」とシュマッカーは説明した。また「我々はあまり重苦しくない『バットマン』映画にし、苦悩を減らし、よりヒロイックにすることに決めていた。それが理由で非難されていることは知っているが、私はそのアプローチに全く害は見いだせなかった」と述べた\[27\]。『[シカゴ・サンタイムズ](../Page/シカゴ・サンタイムズ.md "wikilink")』の[ロジャー・イーバート](../Page/ロジャー・イーバート.md "wikilink")は玩具的なアプローチとMr.フリーズのつまらないジョークを批判した\[28\]。『[ロサンゼルス・タイムズ](../Page/ロサンゼルス・タイムズ.md "wikilink")』のは本作が[映画『バットマン』シリーズを](https://ja.wikipedia.org/wiki/バットマンの映画作品 "wikilink")「殺した」と考え、また視覚効果に頼りすぎていると感じた\[29\]。『[ワシントン・ポスト](../Page/ワシントン・ポスト.md "wikilink")』のはシュマッカーの方向性とゴールズマンの脚本を非難した\[30\]。『[サンフランシスコ・クロニクル](../Page/サンフランシスコ・クロニクル.md "wikilink")』のは、「ジョージ・クルーニーはこの映画におけるビッグ・ゼロであり、シリーズにおける[ジョージ・レーゼンビー](../Page/ジョージ・レーゼンビー.md "wikilink")として歴史に名を残すべきだ」と主張した\[31\]。一方で『[ニューヨーク・タイムズ](../Page/ニューヨーク・タイムズ.md "wikilink")』のは肯定的な評価を与えた。彼女はユマ・サーマンの演技、映画の美術、衣裳デサインを称賛した\[32\]。
 
 多くのオブザーバーはシュマッカーが同性愛の暗示をストーリーに組み込んでいると考えた\[33\]。[ジェームズ・ベラーディネリ](https://ja.wikipedia.org/wiki/ジェームズ・ベラーディネリ "wikilink")はバットスーツの乳首や、尻や股間をクローズアップするカメラアングルに疑問を呈した\[34\]。前作『バットマン フォーエヴァー』でも同様にバットマンとロビンのスーツに乳首と[コッドピース](https://ja.wikipedia.org/wiki/コッドピース "wikilink")がつけられていた。シュマッカーは「私にはバットスーツとロビンのスーツに乳首を付けることが国際的な見出しを喚起することになるとは考えもしなかった。スーツは[古代ギリシャ彫刻から来ており](https://ja.wikipedia.org/wiki/ギリシア美術 "wikilink")、完璧な体を表示する。これらは解剖学的に正しい」と説明した\[35\]。[ジョージ・クルーニー](https://ja.wikipedia.org/wiki/ジョージ・クルーニー "wikilink")は「バットマンがゲイだから、ジョエル・シュマッカーは我々は別の『バットマン』映画を作ったことがないと僕に言った」とジョークを言った\[36\]。クルーニーはこの映画に批判的で、「私たちがフランチャイズを殺してしまったかもしれない」と語り\[37\]、また「金の無駄」とも呼んだ\[38\]。
 
@@ -349,7 +349,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ゴールデンラズベリー賞_最低主題歌賞" title="wikilink">最低主題歌賞</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ビリー・コーガン" title="wikilink">ビリー・コーガン</a>、「The End Is the Beginning Is the End」</p></td>
+<td><p><a href="../Page/ビリー・コーガン.md" title="wikilink">ビリー・コーガン</a>、「The End Is the Beginning Is the End」</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -402,7 +402,7 @@
 
 『バットマン & ロビン』の撮影中、ワーナー・ブラザースはそのディティールに感銘を受け、ジョエル・シュマッカーを続編の監督として引き続き雇おうと考えた。しかしながら脚本のアキヴァ・ゴールズマンは続編の脚本執筆依頼を拒否した\[39\]。1996年後半、ワーナー・ブラザースとシュマッカーは5作目の脚本家として[マーク・プロトセヴィッチ](https://ja.wikipedia.org/wiki/マーク・プロトセヴィッチ "wikilink")を雇った。そして公開日は1999年半ばと発表された\[40\]。タイトルは『*Batman Triumphant*』であり、プロトセヴィッチの脚本では[スケアクロウがメイン](../Page/スケアクロウ_\(バットマン\).md "wikilink")・ヴィランとなっていた。スケアクロウの毒ガスにより、バットマンの心の中の幻覚として[ジョーカーが復活し](../Page/ジョーカー_\(バットマン\).md "wikilink")、また[ハーレイ・クイン](https://ja.wikipedia.org/wiki/ハーレイ・クイン "wikilink")がジョーカーの娘として描かれていた\[41\]。ジョージ・クルーニーとクリス・オドネルもバットマンとロビンを再演する予定であった。しかしながら『バットマン & ロビン』が失敗に終わると、クルーニーはもう二度とバットマンをやらないと語った\[42\]。
 
-ワーナー・ブラザースは『[バットマン・ザ・フューチャー](https://ja.wikipedia.org/wiki/バットマン・ザ・フューチャー "wikilink")』を実写化と[フランク・ミラー](https://ja.wikipedia.org/wiki/フランク・ミラー "wikilink")の『[バットマン: イヤーワン](https://ja.wikipedia.org/wiki/バットマン:_イヤーワン "wikilink")』の翻案を検討した\[43\]。シュマッカーは「初心に返ってダークナイトのダークな描写になるだろう」と考えた\[44\]。彼は1998年半ばに『バットマン: イヤーワン』のためにワーナー・ブラザースに近づいたが\[45\]、ワーナー側は[ダーレン・アロノフスキー](https://ja.wikipedia.org/wiki/ダーレン・アロノフスキー "wikilink")を雇うことに興味を示していた。アロノフスキーとフランク・ミラーは『イヤーワン』の脚本を開発し、アロノフスキーが監督しようとしたが、最終的に中止となった。2003年1月に次の『バットマン』映画の監督に[クリストファー・ノーラン](https://ja.wikipedia.org/wiki/クリストファー・ノーラン "wikilink")が就任し、『[バットマン ビギンズ](https://ja.wikipedia.org/wiki/バットマン_ビギンズ "wikilink")』（2005年）に[リブートされた](https://ja.wikipedia.org/wiki/リブート_\(作品展開\) "wikilink")\[46\]。
+ワーナー・ブラザースは『[バットマン・ザ・フューチャー](../Page/バットマン・ザ・フューチャー.md "wikilink")』を実写化と[フランク・ミラー](../Page/フランク・ミラー.md "wikilink")の『[バットマン: イヤーワン](../Page/バットマン:_イヤーワン.md "wikilink")』の翻案を検討した\[43\]。シュマッカーは「初心に返ってダークナイトのダークな描写になるだろう」と考えた\[44\]。彼は1998年半ばに『バットマン: イヤーワン』のためにワーナー・ブラザースに近づいたが\[45\]、ワーナー側は[ダーレン・アロノフスキー](../Page/ダーレン・アロノフスキー.md "wikilink")を雇うことに興味を示していた。アロノフスキーとフランク・ミラーは『イヤーワン』の脚本を開発し、アロノフスキーが監督しようとしたが、最終的に中止となった。2003年1月に次の『バットマン』映画の監督に[クリストファー・ノーラン](../Page/クリストファー・ノーラン.md "wikilink")が就任し、『[バットマン ビギンズ](../Page/バットマン_ビギンズ.md "wikilink")』（2005年）に[リブートされた](https://ja.wikipedia.org/wiki/リブート_\(作品展開\) "wikilink")\[46\]。
 
 ## 参考文献
 

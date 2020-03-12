@@ -7,11 +7,11 @@
 
 ## 概要
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")第1週の放送分から、現タイトルに変更。
+[2006年](../Page/2006年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")第1週の放送分から、現タイトルに変更。
 
 かつては**パチンコNOW**、**パチンコNOW2**のタイトルで放送されており、この時期はCBCは制作に関わっていなかった。初代司会者は[渡辺正行](../Page/渡辺正行.md "wikilink")。
 
-番組自体は[ダイコク電機](https://ja.wikipedia.org/wiki/ダイコク電機 "wikilink")の一社提供であるが、ローカル枠である関係上、ダイコク電機の提供があるネット局と、番組販売の形で放送（それらの局では地元のパチンコ店などが提供スポンサーにつく）されるネット局がある。
+番組自体は[ダイコク電機](../Page/ダイコク電機.md "wikilink")の一社提供であるが、ローカル枠である関係上、ダイコク電機の提供があるネット局と、番組販売の形で放送（それらの局では地元のパチンコ店などが提供スポンサーにつく）されるネット局がある。
 
 毎週新台の情報や、全国のホール出玉ランキングのコーナーがある。 番組収録はスタジオで行われるが、2月放送分のみ外ロケ。これは番組の伝統である。
 
@@ -30,7 +30,7 @@
   - MC：[渡辺正行](../Page/渡辺正行.md "wikilink")
   - アシスタント
       - 初代：[斉藤絵里](https://ja.wikipedia.org/wiki/斉藤絵里 "wikilink")
-      - 2代目：[中條かな子](https://ja.wikipedia.org/wiki/緒方かな子 "wikilink")
+      - 2代目：[中條かな子](../Page/緒方かな子.md "wikilink")
       - 3代目：[菊池万理江](https://ja.wikipedia.org/wiki/菊池万理江 "wikilink")
   - コメンテーター：[守屋彰二](https://ja.wikipedia.org/wiki/守屋彰二 "wikilink") （通称「モリピー」） - ダイコク電機 社員
 
@@ -40,7 +40,7 @@
 
 <!-- end list -->
 
-  - MC：[小林千絵](https://ja.wikipedia.org/wiki/小林千絵 "wikilink")
+  - MC：[小林千絵](../Page/小林千絵.md "wikilink")
   - コメンテーター：守屋彰二
       -
         （アシスタントは無し）
@@ -51,7 +51,7 @@
 
 <!-- end list -->
 
-  - MC：[浅田好未](https://ja.wikipedia.org/wiki/浅田好未 "wikilink")
+  - MC：[浅田好未](../Page/浅田好未.md "wikilink")
 
 ### パチンコNOWTV2
 

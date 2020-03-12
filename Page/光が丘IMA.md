@@ -1,13 +1,13 @@
 > この記事は[IMA](https://ja.wikipedia.org/wiki/IMA)から翻訳されています。
 
 
-**光が丘IMA**（ひかりがおかイマ）は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[練馬区](https://ja.wikipedia.org/wiki/練馬区 "wikilink")[光が丘にある区内最大規模の](https://ja.wikipedia.org/wiki/光が丘_\(練馬区\) "wikilink")[多機能複合型](https://ja.wikipedia.org/wiki/複合商業施設 "wikilink")[ショッピングセンター](../Page/ショッピングセンター.md "wikilink")である。開設当初は**光が丘ライフステーションIMA**と呼ばれていた。近隣の住民は単に**IMA**と呼んでいる。
+**光が丘IMA**（ひかりがおかイマ）は、[東京都](../Page/東京都.md "wikilink")[練馬区](https://ja.wikipedia.org/wiki/練馬区 "wikilink")[光が丘にある区内最大規模の](../Page/光が丘_\(練馬区\).md "wikilink")[多機能複合型](../Page/複合商業施設.md "wikilink")[ショッピングセンター](../Page/ショッピングセンター.md "wikilink")である。開設当初は**光が丘ライフステーションIMA**と呼ばれていた。近隣の住民は単に**IMA**と呼んでいる。
 
 ## 概要
 
-中央館、東館、南館の3つの独立した館があり、[LIVIN](../Page/リヴィン.md "wikilink")（[西友](../Page/西友.md "wikilink")）、[イオン](https://ja.wikipedia.org/wiki/イオン_\(店舗ブランド\) "wikilink")（旧：[ダイエー](../Page/ダイエー.md "wikilink")、その前は[忠実屋](../Page/忠実屋.md "wikilink")Franz）、[ダイソーをメインとし](https://ja.wikipedia.org/wiki/大創産業 "wikilink")、その他に専門店街には120の[飲食店](https://ja.wikipedia.org/wiki/飲食店 "wikilink")を含む専門店で構成されている。
+中央館、東館、南館の3つの独立した館があり、[LIVIN](../Page/リヴィン.md "wikilink")（[西友](../Page/西友.md "wikilink")）、[イオン](https://ja.wikipedia.org/wiki/イオン_\(店舗ブランド\) "wikilink")（旧：[ダイエー](../Page/ダイエー.md "wikilink")、その前は[忠実屋](../Page/忠実屋.md "wikilink")Franz）、[ダイソーをメインとし](https://ja.wikipedia.org/wiki/大創産業 "wikilink")、その他に専門店街には120の[飲食店](../Page/飲食店.md "wikilink")を含む専門店で構成されている。
 
-中央館4階には**IMAホール**という[ホールがあり](../Page/多目的ホール.md "wikilink")、[コンサート](https://ja.wikipedia.org/wiki/コンサート "wikilink")、[寄席](https://ja.wikipedia.org/wiki/寄席 "wikilink")など様々な催しに利用されている。IMAホールは、残響が多すぎもせず少なすぎることもないマイルドかつ鮮明な音響で、こうした好条件からクラシックのレコーディングにもよく使われる。
+中央館4階には**IMAホール**という[ホールがあり](../Page/多目的ホール.md "wikilink")、[コンサート](https://ja.wikipedia.org/wiki/コンサート "wikilink")、[寄席](../Page/寄席.md "wikilink")など様々な催しに利用されている。IMAホールは、残響が多すぎもせず少なすぎることもないマイルドかつ鮮明な音響で、こうした好条件からクラシックのレコーディングにもよく使われる。
 
 中央館地下1階の専門店街にはIMA設立前に光が丘に点在していた個人商店が軒を連ねている。
 
@@ -34,7 +34,7 @@
 
   - [光01・光02](https://ja.wikipedia.org/wiki/国際興業バス練馬営業所#光が丘駅_-_練馬北町車庫_-_池袋駅線 "wikilink")・[土支田循環](https://ja.wikipedia.org/wiki/国際興業バス練馬営業所#光が丘駅_-_土支田循環線 "wikilink")：光が丘駅行き
 
-**[西武バス](https://ja.wikipedia.org/wiki/西武バス "wikilink")**
+**[西武バス](../Page/西武バス.md "wikilink")**
 
   - [光31](https://ja.wikipedia.org/wiki/西武バス練馬営業所#光が丘団地線 "wikilink")・[練高03・土支田循環](https://ja.wikipedia.org/wiki/西武バス練馬営業所#土支田循環線 "wikilink")：光が丘駅行き
   - 練高01：光が丘駅経由 練馬高野台駅行き
@@ -44,7 +44,7 @@
 
 **国際興業バス**
 
-  - 光01：平和台駅経由 [練馬北町車庫行き](https://ja.wikipedia.org/wiki/国際興業バス練馬営業所 "wikilink")
+  - 光01：平和台駅経由 [練馬北町車庫行き](../Page/国際興業バス練馬営業所.md "wikilink")
   - 光02：平和台駅、練馬北町車庫、[ときわ台駅入口経由](https://ja.wikipedia.org/wiki/ときわ台駅_\(東京都\) "wikilink") [池袋駅](https://ja.wikipedia.org/wiki/池袋駅 "wikilink")東口行き
 
 **西武バス**

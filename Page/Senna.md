@@ -15,16 +15,16 @@
 
   - 高速なインデックスの更新
       -
-        一般的に、作成済みの全文検索インデックスに対する新たなレコードの追加は負荷がかかる。Sennaでは更新のためにバッファを設けたり、[転置インデックス](https://ja.wikipedia.org/wiki/転置インデックス "wikilink")の[データ構造](../Page/データ構造.md "wikilink")を工夫して、高速な更新を実現している。
+        一般的に、作成済みの全文検索インデックスに対する新たなレコードの追加は負荷がかかる。Sennaでは更新のためにバッファを設けたり、[転置インデックス](../Page/転置インデックス.md "wikilink")の[データ構造](../Page/データ構造.md "wikilink")を工夫して、高速な更新を実現している。
   - 高精度な検索
       -
         単語ベースのインデックスを作成することにより、単語境界と一致する文書を優先的に検索する。よって、適合率の高い検索を行うことができる。適合率の高い検索とは、ノイズの少ない検索のことを指す。
-        また、[転置インデックス](https://ja.wikipedia.org/wiki/転置インデックス "wikilink")のキーとして、部分一致が可能な単語表を採用している。よって、単語境界と一致しない文書も検索することができる。よって、再現率の高い検索を行うことができる。再現率の高い検索とは、漏れの少ない検索のことを指す。
+        また、[転置インデックス](../Page/転置インデックス.md "wikilink")のキーとして、部分一致が可能な単語表を採用している。よって、単語境界と一致しない文書も検索することができる。よって、再現率の高い検索を行うことができる。再現率の高い検索とは、漏れの少ない検索のことを指す。
   - 組み込み型ライブラリ
       -
         Sennaは単体では機能しない、ライブラリ形式として提供される。
         [MySQL](https://ja.wikipedia.org/wiki/MySQL "wikilink")に[パッチ](../Page/パッチ.md "wikilink")を当てることによって、MySQLの全文検索機能でSennaを利用することが可能となる。MySQLの全文検索機能は、バージョン5.1までは日本語に対応していないが、Sennaを利用することによって、高速な日本語検索が可能となる。
-        [PostgreSQL](https://ja.wikipedia.org/wiki/PostgreSQL "wikilink")も、[Ludia](https://ja.wikipedia.org/wiki/Ludia "wikilink")もしくは[textsearch_senna](http://textsearch-ja.projects.postgresql.org/textsearch_senna.html)を利用することにより、Sennaによる全文検索が可能となる。
+        [PostgreSQL](https://ja.wikipedia.org/wiki/PostgreSQL "wikilink")も、[Ludia](../Page/Ludia.md "wikilink")もしくは[textsearch_senna](http://textsearch-ja.projects.postgresql.org/textsearch_senna.html)を利用することにより、Sennaによる全文検索が可能となる。
 
 ## バインディング
 
@@ -46,7 +46,7 @@
   - [MySQL](https://ja.wikipedia.org/wiki/MySQL "wikilink")
       - [Tritonn](http://qwik.jp/tritonn/)を用いて全文検索を行うことができる。
   - [PostgreSQL](https://ja.wikipedia.org/wiki/PostgreSQL "wikilink")
-      - [Ludia](https://ja.wikipedia.org/wiki/Ludia "wikilink"): [NTTデータ](https://ja.wikipedia.org/wiki/NTTデータ "wikilink")が開発したPostgreSQLの組み込み全文検索。[LGPLに沿ってソースコードが公開されている](../Page/GNU_Lesser_General_Public_License.md "wikilink")。
+      - [Ludia](../Page/Ludia.md "wikilink"): [NTTデータ](../Page/NTTデータ.md "wikilink")が開発したPostgreSQLの組み込み全文検索。[LGPLに沿ってソースコードが公開されている](../Page/GNU_Lesser_General_Public_License.md "wikilink")。
       - [textsearch_senna](http://textsearch-ja.projects.postgresql.org/textsearch_senna.html): PostgreSQL 8.3 以降にも対応した組み込み全文検索。
 
 ## 利用されているWebサービス

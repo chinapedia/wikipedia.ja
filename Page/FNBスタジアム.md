@@ -1,7 +1,7 @@
 > この記事は[FNB](https://ja.wikipedia.org/wiki/FNB)から翻訳されています。
 
 
-**ファースト・ナショナル・バンク・スタジアム**（、**サッカー・シティ・スタジアム**、英語:）は、[南アフリカ共和国](https://ja.wikipedia.org/wiki/南アフリカ共和国 "wikilink")[ハウテン州](https://ja.wikipedia.org/wiki/ハウテン州 "wikilink")[ヨハネスブルグ](../Page/ヨハネスブルグ.md "wikilink")にある[球技場](https://ja.wikipedia.org/wiki/球技場 "wikilink")。
+**ファースト・ナショナル・バンク・スタジアム**（、**サッカー・シティ・スタジアム**、英語:）は、[南アフリカ共和国](https://ja.wikipedia.org/wiki/南アフリカ共和国 "wikilink")[ハウテン州](../Page/ハウテン州.md "wikilink")[ヨハネスブルグ](../Page/ヨハネスブルグ.md "wikilink")にある[球技場](https://ja.wikipedia.org/wiki/球技場 "wikilink")。
 
 ## 概要
 
@@ -11,7 +11,7 @@
 
 ## 歴史
 
-[1989年](../Page/1989年.md "wikilink")に建設。1996年と2013年の[アフリカネイションズカップ](../Page/アフリカネイションズカップ.md "wikilink")決勝が開催された。2010年8月21日には[ラグビー](../Page/ラグビー.md "wikilink")[トライネイションズ](https://ja.wikipedia.org/wiki/トライネイションズ "wikilink")の[スプリングボクス対](https://ja.wikipedia.org/wiki/ラグビー南アフリカ共和国代表 "wikilink")[オールブラックスの試合](https://ja.wikipedia.org/wiki/ラグビーニュージーランド代表 "wikilink")（[フリーダムカップ](https://ja.wikipedia.org/wiki/:en:Freedom_Cup "wikilink")）が開催された\[1\]。
+[1989年](../Page/1989年.md "wikilink")に建設。1996年と2013年の[アフリカネイションズカップ](../Page/アフリカネイションズカップ.md "wikilink")決勝が開催された。2010年8月21日には[ラグビー](../Page/ラグビー.md "wikilink")[トライネイションズ](https://ja.wikipedia.org/wiki/トライネイションズ "wikilink")の[スプリングボクス対](../Page/ラグビー南アフリカ共和国代表.md "wikilink")[オールブラックスの試合](https://ja.wikipedia.org/wiki/ラグビーニュージーランド代表 "wikilink")（[フリーダムカップ](https://ja.wikipedia.org/wiki/:en:Freedom_Cup "wikilink")）が開催された\[1\]。
 
 2011年2月13日に開催された[U2](../Page/U2.md "wikilink")の360°Tourでは94,232名を動員した\[2\]。
 

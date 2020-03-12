@@ -9,7 +9,7 @@
 
 バンド名の由来は「凛（りん）とする」という意味のほか、[英語](../Page/英語.md "wikilink")の「[Ring](https://ja.wikipedia.org/wiki/Ring "wikilink")（輪）」と[和楽](https://ja.wikipedia.org/wiki/和楽 "wikilink")の「[和](../Page/和.md "wikilink")」をかけて、音楽を通じて「輪」を作っていきたい…という理由から。
 
-[2004年](../Page/2004年.md "wikilink")に[avexから](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink") 「Sakitama〜幸魂〜」でデビュー、日本の伝統楽器の音色に[J-POP](../Page/J-POP.md "wikilink")のメロディーを取り入れ、新たな伝統音楽を創造している。音楽の国際見本市である[MIDEM](https://ja.wikipedia.org/wiki/MIDEM "wikilink")2006（於[カンヌ](../Page/カンヌ.md "wikilink")）に、[KOKIA](../Page/KOKIA.md "wikilink")・[Rie fuとともに出演した](https://ja.wikipedia.org/wiki/Rie_fu "wikilink")。
+[2004年](../Page/2004年.md "wikilink")に[avexから](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink") 「Sakitama〜幸魂〜」でデビュー、日本の伝統楽器の音色に[J-POP](../Page/J-POP.md "wikilink")のメロディーを取り入れ、新たな伝統音楽を創造している。音楽の国際見本市である[MIDEM](https://ja.wikipedia.org/wiki/MIDEM "wikilink")2006（於[カンヌ](../Page/カンヌ.md "wikilink")）に、[KOKIA](../Page/KOKIA.md "wikilink")・[Rie fuとともに出演した](../Page/Rie_fu.md "wikilink")。
 
 2006年に[ドーモレコード](../Page/ドーモレコード.md "wikilink")からInland Seaで全米デビューを果たす。
 
@@ -61,7 +61,7 @@
     1.  時空\[3:28\]
     2.  Sakitama〜幸魂〜\[3:56\]
     3.  八千代ノ風\[5:03\]
-    4.  普遍\[3:45\]（アニメ『[SAMURAI 7](https://ja.wikipedia.org/wiki/SAMURAI_7 "wikilink")』BS放送版エンディングテーマ）
+    4.  普遍\[3:45\]（アニメ『[SAMURAI 7](../Page/SAMURAI_7.md "wikilink")』BS放送版エンディングテーマ）
     5.  雅\[3:30\]
     6.  weakness\[4:14\]
     7.  道心\[3:11\]
@@ -86,11 +86,11 @@
     14. Hanging in there\[4:07\] 作詞：Rin'／作曲・編曲：YUKIYOSHI
 3.  〜Rin' Christmas Cover Songs〜聖夜（2004.11.14）オリコン175位
     1.  [Happy Xmas(War Is Over)](../Page/ハッピー・クリスマス（戦争は終った）.md "wikilink")\[3:35\] 作詞・作曲：[ジョン・レノン](../Page/ジョン・レノン.md "wikilink")・[オノ・ヨーコ](../Page/オノ・ヨーコ.md "wikilink")／編曲：Akira Murata
-    2.  [Last Christmas](https://ja.wikipedia.org/wiki/ラスト・クリスマス_\(ワム!の曲\) "wikilink")\[4:16\] 作詞・作曲：[ジョージ・マイケル](https://ja.wikipedia.org/wiki/ジョージ・マイケル "wikilink")／編曲：YUKIYOSHI
-    3.  Rin'Xmas Medley〜[Silent Night](../Page/きよしこの夜.md "wikilink")〜[赤鼻のトナカイ](https://ja.wikipedia.org/wiki/赤鼻のトナカイ "wikilink")〜[I Saw Mommy Kissing Santa Claus](https://ja.wikipedia.org/wiki/ママがサンタにキッスした "wikilink")〜[Jingle Bells](https://ja.wikipedia.org/wiki/ジングルベル "wikilink")〜[We Wish You A Merry Christmas](https://ja.wikipedia.org/wiki/おめでとうクリスマス "wikilink")\[5:33\] 作曲：Franz Gruber・JOHNNY MARKS・Tommie Corner・James Pierpont／編曲：YUKIYOSHI
+    2.  [Last Christmas](https://ja.wikipedia.org/wiki/ラスト・クリスマス_\(ワム!の曲\) "wikilink")\[4:16\] 作詞・作曲：[ジョージ・マイケル](../Page/ジョージ・マイケル.md "wikilink")／編曲：YUKIYOSHI
+    3.  Rin'Xmas Medley〜[Silent Night](../Page/きよしこの夜.md "wikilink")〜[赤鼻のトナカイ](https://ja.wikipedia.org/wiki/赤鼻のトナカイ "wikilink")〜[I Saw Mommy Kissing Santa Claus](https://ja.wikipedia.org/wiki/ママがサンタにキッスした "wikilink")〜[Jingle Bells](../Page/ジングルベル.md "wikilink")〜[We Wish You A Merry Christmas](https://ja.wikipedia.org/wiki/おめでとうクリスマス "wikilink")\[5:33\] 作曲：Franz Gruber・JOHNNY MARKS・Tommie Corner・James Pierpont／編曲：YUKIYOSHI
     4.  [交響曲 第九番](../Page/交響曲第9番_\(ベートーヴェン\).md "wikilink")\[3:14\] 作曲：[ベートーヴェン](../Page/ルートヴィヒ・ヴァン・ベートーヴェン.md "wikilink")／編曲：Jin Nakamura
     5.  [クリスマス・イブ](https://ja.wikipedia.org/wiki/クリスマス・イブ_\(山下達郎の曲\) "wikilink")\[3:35\] 作曲：[山下達郎](../Page/山下達郎.md "wikilink")／編曲：Akira Murata
-    6.  [Merry Christmas Mr.Lawrence](https://ja.wikipedia.org/wiki/戦場のメリークリスマス_\(サウンドトラック\) "wikilink")\[4:34\] 作曲：[坂本龍一](../Page/坂本龍一.md "wikilink")／編曲：Jin Nakamura
+    6.  [Merry Christmas Mr.Lawrence](../Page/戦場のメリークリスマス_\(サウンドトラック\).md "wikilink")\[4:34\] 作曲：[坂本龍一](../Page/坂本龍一.md "wikilink")／編曲：Jin Nakamura
     7.  [White Christmas](https://ja.wikipedia.org/wiki/ホワイト・クリスマス_\(曲\) "wikilink")\[0:52\] 作曲：[Iryving Berlin](../Page/アーヴィング・バーリン.md "wikilink")／編曲：YUKIYOSHI
     8.  [In My Life](../Page/イン・マイ・ライフ.md "wikilink")\[3:10\] 作詞・作曲：ジョン・レノン・[ポール・マッカートニー](../Page/ポール・マッカートニー.md "wikilink")／編曲：大竹徹夫
 4.  宴歌（うたげうた）/さくら さくら（2005.3.30）ライブアルバム

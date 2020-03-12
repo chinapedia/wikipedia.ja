@@ -1,11 +1,11 @@
 > この記事は[Evergreen \(\)](https://ja.wikipedia.org/wiki/Evergreen_\(\))から翻訳されています。
 
 
-「**evergreen**」（エヴァーグリーン）は、日本の歌手・[高橋瞳](https://ja.wikipedia.org/wiki/高橋瞳 "wikilink")の2枚目のシングル。
+「**evergreen**」（エヴァーグリーン）は、日本の歌手・[高橋瞳](../Page/高橋瞳.md "wikilink")の2枚目のシングル。
 
 ## 解説
 
-2005年第2弾シングルであり、[CBC](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")・[TBS系ドラマ](../Page/TBSテレビ.md "wikilink")「[新キッズ・ウォー](https://ja.wikipedia.org/wiki/新キッズ・ウォー "wikilink")」主題歌に起用された。"永遠に変わらないもの"をテーマに詞は書かれており、自身も作詞に参加した。
+2005年第2弾シングルであり、[CBC](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")・[TBS系ドラマ](../Page/TBSテレビ.md "wikilink")「[新キッズ・ウォー](../Page/新キッズ・ウォー.md "wikilink")」主題歌に起用された。"永遠に変わらないもの"をテーマに詞は書かれており、自身も作詞に参加した。
 
 ## 収録曲
 

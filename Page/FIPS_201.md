@@ -3,7 +3,7 @@
 
 **FIPS 201**(Federal Information Processing Standards Publication 201)は、連邦政府の職員及び請負業者のための個人識別情報の検証(仮訳：Personal Identity Verification／PIV)の要件を規定する米国連邦標準規格である。
 
-HSPD-12(Homeland Security Presidential Directive 12／仮訳：国土安全保障に関する大統領指令)\[1\]に応え、[NIST](../Page/アメリカ国立標準技術研究所.md "wikilink") コンピュータセキュリティ部門は連邦政府施設や情報システムへとアクセスするための、連邦政府職員及び請負業者の識別並びに認証を改善する新しいプログラムを開始した。連邦政府の職員及び請負業者のための個人識別情報の検証(仮訳：Personal Identity Verification of Federal Employees and Contractors／PIV)と題した[連邦情報処理標準](https://ja.wikipedia.org/wiki/Federal_Information_Processing_Standards "wikilink") 201は、HSPD-12の技術的要件を満たすように開発され、商務長官が承認して[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月25日](../Page/2月25日.md "wikilink")に発行された。
+HSPD-12(Homeland Security Presidential Directive 12／仮訳：国土安全保障に関する大統領指令)\[1\]に応え、[NIST](../Page/アメリカ国立標準技術研究所.md "wikilink") コンピュータセキュリティ部門は連邦政府施設や情報システムへとアクセスするための、連邦政府職員及び請負業者の識別並びに認証を改善する新しいプログラムを開始した。連邦政府の職員及び請負業者のための個人識別情報の検証(仮訳：Personal Identity Verification of Federal Employees and Contractors／PIV)と題した[連邦情報処理標準](https://ja.wikipedia.org/wiki/Federal_Information_Processing_Standards "wikilink") 201は、HSPD-12の技術的要件を満たすように開発され、商務長官が承認して[2005年](../Page/2005年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")に発行された。
 
 FIPS 201は[NIST](../Page/アメリカ国立標準技術研究所.md "wikilink") SP 800-78(Cryptographic algorithms and key sizes for PIV／仮訳：個人識別情報の検証のための暗号化アルゴリズム及び鍵長)とともに、米国連邦政府機関への要件となっている。しかし、米国の国家的なセキュリティシステムへは適用されない\[2\]
 

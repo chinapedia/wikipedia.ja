@@ -1,7 +1,7 @@
 > この記事は[JFN](https://ja.wikipedia.org/wiki/JFN)から翻訳されています。
 
 
-**JFNラインネット番組**（ジェイエフエヌ ラインネットばんぐみ）は、[全国FM放送協議会](../Page/全国FM放送協議会.md "wikilink")（JFN）の[ネット番組](https://ja.wikipedia.org/wiki/ネット番組 "wikilink")であり、通信回線を利用して常時ネットワーク送出している番組群である。当初より「**Aライン**」（エーライン）、「**Bライン**」（ビーライン）、の2種類の配信（供給）系統があり、Bラインでは各局が任意に放送時間を選択してネット受けすることができた。現在では、ラインという概念は使用しないが、**A・B**の区別は継続されている。
+**JFNラインネット番組**（ジェイエフエヌ ラインネットばんぐみ）は、[全国FM放送協議会](../Page/全国FM放送協議会.md "wikilink")（JFN）の[ネット番組](../Page/ネット番組.md "wikilink")であり、通信回線を利用して常時ネットワーク送出している番組群である。当初より「**Aライン**」（エーライン）、「**Bライン**」（ビーライン）、の2種類の配信（供給）系統があり、Bラインでは各局が任意に放送時間を選択してネット受けすることができた。現在では、ラインという概念は使用しないが、**A・B**の区別は継続されている。
 
 ## 概説
 
@@ -15,7 +15,7 @@
 
 その後、各道府県ごとに1つのFM局周波数が割り当てられることになり、「Aライン局」では狭い区域に限られた先発局と後発局での放送エリアが広い区域（県域の50%超）で重複することが予想された。このため、後発局はスポンサーの兼ね合いやリスナーの差別化の観点から別番組を流す方が良いのだが、開局間もない地方局は番組制作能力が極端に低く、番組編成に支障をきたす可能性が出てきた。このため、旧来のネットワーク（**Aライン**）とは別に、エリア規模などから算出された一定の使用料を払えば、いつでも任意で番組編成ができる第二の配信網、いわゆる「**Bライン**」が作られることになった。以降開局の地方FM局が主に日中にBラインによる番組供給を受けた。
 
-Bラインの存在がクローズアップされたのは、[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")の4割強でTOKYO FMとエリアが重なる[エフエム群馬](../Page/エフエム群馬.md "wikilink")（FM GUNMA）が[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に開局した時で、[独立局](https://ja.wikipedia.org/wiki/独立局 "wikilink")の[横浜エフエム放送](https://ja.wikipedia.org/wiki/横浜エフエム放送 "wikilink")（FMヨコハマ）の開局2ヶ月前であったことから、FM GUNMAの4ヶ月前に開局し、かつ[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")の5割強でFM AICHIとエリアが重なる[三重エフエム放送](https://ja.wikipedia.org/wiki/三重エフエム放送 "wikilink")（レディオキューブ FM三重）と共にBラインに依存し番組供給を受けてきた。FM AICHIとレディオキューブ FM三重のタイムテーブルを見比べても同一系列局とは思えない編成にもなった。
+Bラインの存在がクローズアップされたのは、[埼玉県](../Page/埼玉県.md "wikilink")の4割強でTOKYO FMとエリアが重なる[エフエム群馬](../Page/エフエム群馬.md "wikilink")（FM GUNMA）が[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に開局した時で、[独立局](https://ja.wikipedia.org/wiki/独立局 "wikilink")の[横浜エフエム放送](../Page/横浜エフエム放送.md "wikilink")（FMヨコハマ）の開局2ヶ月前であったことから、FM GUNMAの4ヶ月前に開局し、かつ[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")の5割強でFM AICHIとエリアが重なる[三重エフエム放送](https://ja.wikipedia.org/wiki/三重エフエム放送 "wikilink")（レディオキューブ FM三重）と共にBラインに依存し番組供給を受けてきた。FM AICHIとレディオキューブ FM三重のタイムテーブルを見比べても同一系列局とは思えない編成にもなった。
 
 FM GUNMAやレディオキューブ FM三重が開局後しばらくして、日本のFM局で初めて恒常的に24時間放送を開始できるようになったのもBラインによる番組供給の存在が大きい（厳密に最初に実施したFM局は自社制作番組で対応した[エフエム沖縄](../Page/エフエム沖縄.md "wikilink")（FM沖縄）であるが、一時期深夜帯を休止していた時期があった）。
 
@@ -28,16 +28,16 @@ FM GUNMAやレディオキューブ FM三重が開局後しばらくして、日
 ### Aライン
 
   - [ONE MORNING](https://ja.wikipedia.org/wiki/ONE_MORNING "wikilink")（6:30 - 6:44頃、6:55 - 7:30、8:00 - 8:20）
-  - [坂本美雨のディア・フレンズ](https://ja.wikipedia.org/wiki/ディア・フレンズ "wikilink")
+  - [坂本美雨のディア・フレンズ](../Page/ディア・フレンズ.md "wikilink")
   - [SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink")
   - [JET STREAM](../Page/JET_STREAM.md "wikilink")
   - [松任谷由実のYuming Chord](https://ja.wikipedia.org/wiki/松任谷由実のYuming_Chord "wikilink")
   - [JA全農 COUNTDOWN JAPAN](https://ja.wikipedia.org/wiki/JA全農_COUNTDOWN_JAPAN "wikilink")
-  - [福山雅治 福のラジオ](https://ja.wikipedia.org/wiki/福山雅治_福のラジオ "wikilink")
+  - [福山雅治 福のラジオ](../Page/福山雅治_福のラジオ.md "wikilink")
   - [COSMO POPS STATION](https://ja.wikipedia.org/wiki/COSMO_POPS_STATION "wikilink")
-  - [山下達郎のサンデー・ソングブック](https://ja.wikipedia.org/wiki/山下達郎のサンデー・ソングブック "wikilink")
+  - [山下達郎のサンデー・ソングブック](../Page/山下達郎のサンデー・ソングブック.md "wikilink")
   - [ももいろクローバーZのSUZUKI ハッピー・クローバー\!](https://ja.wikipedia.org/wiki/ももいろクローバーZのSUZUKI_ハッピー・クローバー! "wikilink")
-  - [NISSAN あ、安部礼司〜BEYOND THE AVERAGE](https://ja.wikipedia.org/wiki/NISSAN_あ、安部礼司〜BEYOND_THE_AVERAGE "wikilink")
+  - [NISSAN あ、安部礼司〜BEYOND THE AVERAGE](../Page/NISSAN_あ、安部礼司〜BEYOND_THE_AVERAGE.md "wikilink")
 
 など
 
@@ -51,8 +51,8 @@ FM GUNMAやレディオキューブ FM三重が開局後しばらくして、日
   - [デイリーフライヤー](https://ja.wikipedia.org/wiki/デイリーフライヤー "wikilink")（平日 13:00 - 13:30）
   - [Seasoning -season your life with music-](https://ja.wikipedia.org/wiki/Seasoning_-season_your_life_with_music- "wikilink")（月曜 - 木曜 13:30 - 15:55）
   - [Happy Hour Party\!](https://ja.wikipedia.org/wiki/Happy_Hour_Party! "wikilink")（月曜 - 木曜 16:00 - 16:45）
-  - [FRIDAY GOES ON\! 〜あっ、それいただきっ\!〜](https://ja.wikipedia.org/wiki/FRIDAY_GOES_ON!_〜あっ、それいただきっ!〜 "wikilink")（金曜 13:30 - 15:55）
-  - [A・O・R](https://ja.wikipedia.org/wiki/A・O・R "wikilink")（月曜 - 木曜 19:00 - 20:55）
+  - [FRIDAY GOES ON\! 〜あっ、それいただきっ\!〜](../Page/FRIDAY_GOES_ON!_〜あっ、それいただきっ!〜.md "wikilink")（金曜 13:30 - 15:55）
+  - [A・O・R](../Page/A・O・R.md "wikilink")（月曜 - 木曜 19:00 - 20:55）
   - [サタ☆スポ](https://ja.wikipedia.org/wiki/サタ☆スポ "wikilink")（土曜 6:00 - 8:55）
   - [SUNDAY FLICKERS](https://ja.wikipedia.org/wiki/SUNDAY_FLICKERS "wikilink")（日曜 6:00 - 7:30）
   - [有吉弘行のSUNDAY NIGHT DREAMER](https://ja.wikipedia.org/wiki/有吉弘行のSUNDAY_NIGHT_DREAMER "wikilink")（日曜 20:00 - 21:55）
@@ -66,9 +66,9 @@ FM GUNMAやレディオキューブ FM三重が開局後しばらくして、日
 ## 関連項目
 
   - [マルチチャンネル](../Page/マルチチャンネル.md "wikilink")
-  - [ブロックネット](https://ja.wikipedia.org/wiki/ブロックネット "wikilink")
-  - [裏送り](https://ja.wikipedia.org/wiki/裏送り "wikilink")
-  - [ミュージックバード](https://ja.wikipedia.org/wiki/ミュージックバード "wikilink") - コミュニティ放送向けの番組供給チャンネルを持つ。利用各局は任意に放送する時間を選択できる。
+  - [ブロックネット](../Page/ブロックネット.md "wikilink")
+  - [裏送り](../Page/裏送り.md "wikilink")
+  - [ミュージックバード](../Page/ミュージックバード.md "wikilink") - コミュニティ放送向けの番組供給チャンネルを持つ。利用各局は任意に放送する時間を選択できる。
   - [DIGITAL J-WAVE](../Page/J-WAVE.md "wikilink") - 自局放送内容をコミュニティ放送向けに供給するサービス。利用各局は任意に放送する時間を選択できる。
 
 [Category:JFN](https://ja.wikipedia.org/wiki/Category:JFN "wikilink")

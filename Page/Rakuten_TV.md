@@ -1,7 +1,7 @@
 > この記事は[Rakuten TV](https://ja.wikipedia.org/wiki/Rakuten_TV)から翻訳されています。
 
 
-**Rakuten TV**（**楽天TV**、らくてんティービー）は、[楽天](https://ja.wikipedia.org/wiki/楽天 "wikilink")株式会社が運営する日本国内向け[動画配信サービスのうちのひとつ](https://ja.wikipedia.org/wiki/インターネットテレビ "wikilink")。2017年7月1日までは**楽天SHOWTIME**（らくてんショウタイム）の名称で運営されていたが、同社がヨーロッパで展開している動画配信サービス**Wuaki.tv**とブランドを統合する形で、現在のサービス名に変更となった。
+**Rakuten TV**（**楽天TV**、らくてんティービー）は、[楽天](https://ja.wikipedia.org/wiki/楽天 "wikilink")株式会社が運営する日本国内向け[動画配信サービスのうちのひとつ](../Page/インターネットテレビ.md "wikilink")。2017年7月1日までは**楽天SHOWTIME**（らくてんショウタイム）の名称で運営されていたが、同社がヨーロッパで展開している動画配信サービス**Wuaki.tv**とブランドを統合する形で、現在のサービス名に変更となった。
 
 ## サービス
 
@@ -17,19 +17,19 @@
 
 [2002年](../Page/2002年.md "wikilink")から運営している動画配信サービス。サイト基本料金 280円（税抜）/月を支払い、さらにコンテンツ1本ごとに課金を行う料金体系を採用している。
 
-ジャンル数は全21ジャンル。Rakuten TVでは配信していない、コミック・写真集・ゲームなどの配信を行っている。対応デバイスは[パソコン](../Page/パーソナルコンピュータ.md "wikilink")・[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")のみ。決済手段はクレジットカードのほか、[楽天銀行](../Page/楽天銀行.md "wikilink")口座引落、電子マネー/オンラインマネー（[WebMoney](https://ja.wikipedia.org/wiki/ウェブマネー "wikilink")・[楽天Edy](../Page/楽天Edy.md "wikilink")・[BitCash](../Page/BitCash.md "wikilink")）などに対応している。画質は高画質、低画質の2パターン。
+ジャンル数は全21ジャンル。Rakuten TVでは配信していない、コミック・写真集・ゲームなどの配信を行っている。対応デバイスは[パソコン](../Page/パーソナルコンピュータ.md "wikilink")・[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")のみ。決済手段はクレジットカードのほか、[楽天銀行](../Page/楽天銀行.md "wikilink")口座引落、電子マネー/オンラインマネー（[WebMoney](../Page/ウェブマネー.md "wikilink")・[楽天Edy](../Page/楽天Edy.md "wikilink")・[BitCash](../Page/BitCash.md "wikilink")）などに対応している。画質は高画質、低画質の2パターン。
 
 ## 概略
 
   - [2001年](../Page/2001年.md "wikilink")（平成13年）
-      - 11月22日　有線ブロードネットワークス（現: [USEN](https://ja.wikipedia.org/wiki/USEN "wikilink")）と[楽天](https://ja.wikipedia.org/wiki/楽天 "wikilink")の2社間でジョイントベンチャーとして**株式会社ショウタイム**を設立\[2\]。
+      - 11月22日　有線ブロードネットワークス（現: [USEN](../Page/USEN.md "wikilink")）と[楽天](https://ja.wikipedia.org/wiki/楽天 "wikilink")の2社間でジョイントベンチャーとして**株式会社ショウタイム**を設立\[2\]。
   - [2002年](../Page/2002年.md "wikilink")（平成14年）
       - 2月1日　動画配信サービス「**ShowTime**」を開始\[3\]。当時の動画コンテンツ配信サービスは[接続事業者](https://ja.wikipedia.org/wiki/インターネットサービスプロバイダ "wikilink") (ISP) ごとに行なわれていたが、このサービスではADSLやFTTHなどのブロードバンド回線を利用していればISPに限定されずサービスを受けられることを掲げて、ユーザーへの展開を行った。
   - [2009年](../Page/2009年.md "wikilink")（平成21年）
       - 2月27日　USENから楽天へ、株式会社ショウタイムの株式譲渡が発表\[4\]。
       - 3月25日　USEN保有全株式が売却され、「ShowTime」運営会社の株式会社ショウタイムは、楽天の完全子会社となる。
   - [2011年](../Page/2011年.md "wikilink")（平成23年）
-      - 12月1日　株式会社ショウタイム、[商号](https://ja.wikipedia.org/wiki/商号 "wikilink")を**楽天ショウタイム株式会社**に変更\[5\]。
+      - 12月1日　株式会社ショウタイム、[商号](../Page/商号.md "wikilink")を**楽天ショウタイム株式会社**に変更\[5\]。
   - [2014年](../Page/2014年.md "wikilink")（平成26年）
       - 2月12日　それまで「ShowTime」の[OEM](../Page/OEM.md "wikilink")サイトとして楽天に提供していた「楽天VIDEO」をリニューアル。動画配信サービス「**楽天SHOWTIME**」を開始\[6\]。
   - [2016年](../Page/2016年.md "wikilink")（平成28年）
@@ -67,20 +67,20 @@
 
 利用可能端末は、以下の通り\[8\]。
 
-  - [スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")・[タブレット](https://ja.wikipedia.org/wiki/タブレット_\(コンピュータ\) "wikilink")
+  - [スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")・[タブレット](../Page/タブレット_\(コンピュータ\).md "wikilink")
       - [Android](../Page/Android.md "wikilink") 5.0以降
       - [iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink") 10.0以降
   - [パソコン](../Page/パーソナルコンピュータ.md "wikilink")
       - [Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink") [8](https://ja.wikipedia.org/wiki/Microsoft_Windows_8 "wikilink")・[10](https://ja.wikipedia.org/wiki/Microsoft_Windows_10 "wikilink")
       - [macOS](https://ja.wikipedia.org/wiki/macOS "wikilink") [10.11以降](https://ja.wikipedia.org/wiki/OS_X_El_Capitan "wikilink")
   - [テレビ](../Page/テレビ受像機.md "wikilink")（Rakuten TVのみ）
-      - [AQUOS](https://ja.wikipedia.org/wiki/アクオス "wikilink")（[シャープ](../Page/シャープ.md "wikilink")）
+      - [AQUOS](../Page/アクオス.md "wikilink")（[シャープ](../Page/シャープ.md "wikilink")）
       - [BRAVIA](../Page/ブラビア.md "wikilink")（[ソニー](../Page/ソニー.md "wikilink")）
       - [REGZA](../Page/レグザ.md "wikilink")（[東芝映像ソリューション](https://ja.wikipedia.org/wiki/東芝映像ソリューション "wikilink")）
       - [VIERA](../Page/VIERA.md "wikilink")（[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")）
-  - [セットトップボックス](https://ja.wikipedia.org/wiki/セットトップボックス "wikilink")（Rakuten TVのみ）
+  - [セットトップボックス](../Page/セットトップボックス.md "wikilink")（Rakuten TVのみ）
       - [Chromecast](https://ja.wikipedia.org/wiki/Chromecast "wikilink")
-      - [Apple TV](https://ja.wikipedia.org/wiki/Apple_TV "wikilink")
+      - [Apple TV](../Page/Apple_TV.md "wikilink")
       - [Amazon Fire TV](https://ja.wikipedia.org/wiki/Amazon_Fire_TV "wikilink")
       - [Nexus Player](https://ja.wikipedia.org/wiki/Nexus_Player "wikilink")
   - [ゲーム機](../Page/ゲーム機.md "wikilink")（Rakuten TVのみ）
@@ -95,7 +95,7 @@
   - **Rakuten TV**
       - 楽天IDを利用した「クレジットカード決済」と「楽天スーパーポイント」による支払いが可能。また「スマートフォンキャリア決済 ([docomo](https://ja.wikipedia.org/wiki/docomo "wikilink")・[au](../Page/Au_\(携帯電話\).md "wikilink")・[SoftBank](../Page/SoftBank_\(携帯電話\).md "wikilink"))」にも対応している。ただしスマートフォンキャリア決済ではR-18+作品など一部の作品・機能を利用できないとなっている。\[9\]
   - **ShowTime**
-      - 通常の「クレジットカード決済」のほかに、[So-net](https://ja.wikipedia.org/wiki/So-net "wikilink")・[OCN](../Page/OCN.md "wikilink")・[TOKAI](https://ja.wikipedia.org/wiki/TOKAI "wikilink")・[@nifty](https://ja.wikipedia.org/wiki/@nifty "wikilink")・[BIGLOBE](https://ja.wikipedia.org/wiki/BIGLOBE "wikilink")・[eoといったプロバイダ決済や](https://ja.wikipedia.org/wiki/ケイ・オプティコム "wikilink")[楽天銀行](../Page/楽天銀行.md "wikilink")といった銀行振替による決済、[WebMoney](https://ja.wikipedia.org/wiki/ウェブマネー "wikilink")・[BitCash](../Page/BitCash.md "wikilink")といったオンラインマネー決済と[楽天Edy](../Page/楽天Edy.md "wikilink")といった電子マネーによる決済ができる。
+      - 通常の「クレジットカード決済」のほかに、[So-net](https://ja.wikipedia.org/wiki/So-net "wikilink")・[OCN](../Page/OCN.md "wikilink")・[TOKAI](../Page/TOKAI.md "wikilink")・[@nifty](https://ja.wikipedia.org/wiki/@nifty "wikilink")・[BIGLOBE](../Page/BIGLOBE.md "wikilink")・[eoといったプロバイダ決済や](https://ja.wikipedia.org/wiki/ケイ・オプティコム "wikilink")[楽天銀行](../Page/楽天銀行.md "wikilink")といった銀行振替による決済、[WebMoney](../Page/ウェブマネー.md "wikilink")・[BitCash](../Page/BitCash.md "wikilink")といったオンラインマネー決済と[楽天Edy](../Page/楽天Edy.md "wikilink")といった電子マネーによる決済ができる。
 
 ## 脚注
 

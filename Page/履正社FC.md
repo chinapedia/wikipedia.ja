@@ -1,7 +1,7 @@
 > この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
 
 
-**履正社FC**（りせいしゃエフシー）は[大阪府](../Page/大阪府.md "wikilink")[茨木市](../Page/茨木市.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。[履正社医療スポーツ専門学校](https://ja.wikipedia.org/wiki/履正社医療スポーツ専門学校 "wikilink")のサッカー部門。
+**履正社FC**（りせいしゃエフシー）は[大阪府](../Page/大阪府.md "wikilink")[茨木市](../Page/茨木市.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。[履正社医療スポーツ専門学校](../Page/履正社医療スポーツ専門学校.md "wikilink")のサッカー部門。
 
 ## 歴史
 
@@ -13,9 +13,9 @@
   - [2003年](../Page/2003年.md "wikilink") 大阪府社会人リーグ2部　第1位
   - [2004年](../Page/2004年.md "wikilink") 第14回全国専門学校サッカー選手権大会　第３位。
   - [2004年](../Page/2004年.md "wikilink") 大阪府社会人リーグ1部S2　第1位
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") 大阪府社会人リーグ1部S1　第1位
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink") 関西リーグ2部昇格。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink") 第16回全国専門学校サッカー選手権大会　優勝。
+  - [2005年](../Page/2005年.md "wikilink") 大阪府社会人リーグ1部S1　第1位
+  - [2006年](../Page/2006年.md "wikilink") 関西リーグ2部昇格。
+  - [2006年](../Page/2006年.md "wikilink") 第16回全国専門学校サッカー選手権大会　優勝。
   - [2007年](../Page/2007年.md "wikilink") 第17回全国専門学校サッカー選手権大会　優勝。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") 第18回全国専門学校サッカー選手権大会　準優勝。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") 関西リーグ2部降格→大阪社会人リーグ1部S1。
@@ -46,7 +46,7 @@
 | 2003                                                                     | 大阪府2部                                                           | **優勝** |    |    |   |    |    |    |      |      |
 | 2004                                                                     | 大阪府1部S2                                                         | **優勝** | 19 | 7  | 6 | 1  | 0  | 26 | 6    | 20   |
 | 2005                                                                     | 大阪府1部S1                                                         | **優勝** | 15 | 7  | 4 | 3  | 0  | 14 | 3    | 11   |
-| [2006](https://ja.wikipedia.org/wiki/2006年の地域リーグ_\(サッカー\)#関西 "wikilink") | [関西](https://ja.wikipedia.org/wiki/関西サッカーリーグ "wikilink")2部      | 4位     | 19 | 14 | 5 | 4  | 5  | 30 | 26   | 4    |
+| [2006](https://ja.wikipedia.org/wiki/2006年の地域リーグ_\(サッカー\)#関西 "wikilink") | [関西](../Page/関西サッカーリーグ.md "wikilink")2部                         | 4位     | 19 | 14 | 5 | 4  | 5  | 30 | 26   | 4    |
 | [2007](https://ja.wikipedia.org/wiki/2007年の地域リーグ_\(サッカー\)#関西 "wikilink") | 6位                                                              | 17     | 14 | 5  | 2 | 7  | 25 | 33 | \-8  |      |
 | [2008](https://ja.wikipedia.org/wiki/2008年の地域リーグ_\(サッカー\)#関西 "wikilink") | 7位                                                              | 7      | 14 | 2  | 1 | 11 | 16 | 40 | \-24 |      |
 | 2009                                                                     | 大阪府1部                                                           | 11位    | 21 | 15 | 6 | 3  | 6  | 15 | 28   | \-13 |

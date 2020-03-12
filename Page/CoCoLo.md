@@ -5,7 +5,7 @@
 
 ## 概要
 
-駅ビル「CoCoLo」は、[新潟県](../Page/新潟県.md "wikilink")のほぼ全域と[山形県](https://ja.wikipedia.org/wiki/山形県 "wikilink")[庄内地方](../Page/庄内地方.md "wikilink")のJR東日本区間を管轄するJR新潟支社の管内に所在する[新潟駅](https://ja.wikipedia.org/wiki/新潟駅 "wikilink")（[新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")）・[長岡駅](../Page/長岡駅.md "wikilink")（[長岡市](https://ja.wikipedia.org/wiki/長岡市 "wikilink")）・[越後湯沢駅](../Page/越後湯沢駅.md "wikilink")（[湯沢町](../Page/湯沢町.md "wikilink")）の3駅で展開している。
+駅ビル「CoCoLo」は、[新潟県](../Page/新潟県.md "wikilink")のほぼ全域と[山形県](../Page/山形県.md "wikilink")[庄内地方](../Page/庄内地方.md "wikilink")のJR東日本区間を管轄するJR新潟支社の管内に所在する[新潟駅](https://ja.wikipedia.org/wiki/新潟駅 "wikilink")（[新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")）・[長岡駅](../Page/長岡駅.md "wikilink")（[長岡市](https://ja.wikipedia.org/wiki/長岡市 "wikilink")）・[越後湯沢駅](../Page/越後湯沢駅.md "wikilink")（[湯沢町](../Page/湯沢町.md "wikilink")）の3駅で展開している。
 
 [2012年](../Page/2012年.md "wikilink")（平成24年）からは「**LIFE PLAZA CoCoLo**」をキャッチフレーズに、より立地に特化した店舗構成を打ち出している。
 
@@ -13,7 +13,7 @@
 
 ### マスコットキャラクター
 
-公式キャラクターは、「おこめ姉さん」（粘り強い性格で[のっぺ](https://ja.wikipedia.org/wiki/のっぺ "wikilink")などの新潟名産が好物である。）
+公式キャラクターは、「おこめ姉さん」（粘り強い性格で[のっぺ](../Page/のっぺ.md "wikilink")などの新潟名産が好物である。）
 
 ### 名称の由来
 
@@ -47,7 +47,7 @@
       - [6月13日](../Page/6月13日.md "wikilink")：越後S開発が「セゾン・ド・ナガオカ」2階フロア西側を増床。
       - 7月：トッキーが新潟駅南口駅舎2階を改修、東コンコースに「パティオ東」、西側連絡通路沿いに「パティオ西」をオープンし増床（現：「CoCoLo東・西」）。
   - [2004年](../Page/2004年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")：トッキーが越後S開発を吸収合併、3市町の所有株式をJR東日本が取得。これに伴い、管内3駅の駅ビルの名称を「CoCoLo」に統一。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月19日](../Page/9月19日.md "wikilink")：「CoCoLo本館」北側に「メディカルコート」をオープンし増床、新潟県内初の駅構内の保育園「新潟えきなか保育園」開園。
+  - [2006年](../Page/2006年.md "wikilink")[9月19日](../Page/9月19日.md "wikilink")：「CoCoLo本館」北側に「メディカルコート」をオープンし増床、新潟県内初の駅構内の保育園「新潟えきなか保育園」開園。
   - [2007年](../Page/2007年.md "wikilink")
       - [3月7日](../Page/3月7日.md "wikilink")：「CoCoLo本館」のリニューアルを実施。
       - 4月：長岡駅改修事業の一環で「CoCoLo長岡」2階フロア東側を増床。
@@ -57,7 +57,7 @@
       - [9月19日](../Page/9月19日.md "wikilink")：前述の新潟駅南口整備事業の一環で、南口駅舎1階に「CoCoLo中央」をオープンし増床。
       - [12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")：「CoCoLo湯沢がんぎどおり」を増床しグランドオープン。
   - [2013年](../Page/2013年.md "wikilink")
-      - [4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")：「CoCoLo西館」およびホテルメッツ新潟がオープン。
+      - [4月8日](../Page/4月8日.md "wikilink")：「CoCoLo西館」およびホテルメッツ新潟がオープン。
   - [2016年](../Page/2016年.md "wikilink")
       - 3月：新潟駅高架化工事に伴い「CoCoLoフードコート」およびヨドバシカメラ新潟店が閉館（後者は駅前に移転）。
   - [2017年](../Page/2017年.md "wikilink")
@@ -81,7 +81,7 @@
 
   - 2007年3月7日、リニューアルオープンした。本館のリニューアルは、旧越後ステーション開発が旧セゾン・ド・ニイガタを1994年10月にリニューアルして以来。「新潟色（食）」、「アパレル・雑貨・スィーツ」、「カフェ・日常サービス・書籍」の3ゾーンで構成され、延べ床面積は3655[m<sup>2</sup>](../Page/平方メートル.md "wikilink")、店舗面積は1580m<sup>2</sup>。テナント数は37。新規テナントは14店舗、新潟初出店は3店舗。改装に合わせて「憩いの広場」「授乳室」を新設、トイレも一新した。
   - 以後、2014年3月には書店に代わって紳士服販売店が出店し、2015年1月末にはそば店が新潟駅構内の新幹線改札前に移転するなど、テナントは一部入れ替わっており、トイレも2014年3月末には再度リニューアルされている。
-  - 「CoCoLo本館」に隣接する「CoCoLo本館メディカルコート」には[歯科](../Page/歯科.md "wikilink")、[矯正歯科](https://ja.wikipedia.org/wiki/矯正歯科 "wikilink")、マッサージルームがテナントとして入居している他、[保育園](https://ja.wikipedia.org/wiki/保育園 "wikilink")「新潟えきなか保育園」がある。同園は2006年9月19日に新潟県内で初めて[駅ナカ](../Page/駅ナカ.md "wikilink")に開設された保育園で、新潟高度情報学園が運営を行っている。
+  - 「CoCoLo本館」に隣接する「CoCoLo本館メディカルコート」には[歯科](../Page/歯科.md "wikilink")、[矯正歯科](../Page/矯正歯科.md "wikilink")、マッサージルームがテナントとして入居している他、[保育園](https://ja.wikipedia.org/wiki/保育園 "wikilink")「新潟えきなか保育園」がある。同園は2006年9月19日に新潟県内で初めて[駅ナカ](../Page/駅ナカ.md "wikilink")に開設された保育園で、新潟高度情報学園が運営を行っている。
 
 #### CoCoLo万代
 
@@ -108,7 +108,7 @@
   - 3階東側・南口寄り：[ゼビオ](https://ja.wikipedia.org/wiki/ゼビオ "wikilink")スポーツエキスプレス 新潟駅店
       - 2013年7月19日にオープンした、ゼビオスポーツの小型店舗。3階東側はオープン当初、全てビックカメラのフロアだったが、前述の業態縮小により南口寄りの半分が空きフロアとなっていた。
   - 3階西側：クイックフード・レストラン・コスメゾーン
-  - 3階西側：[駅レンタカー](https://ja.wikipedia.org/wiki/駅レンタカー "wikilink")（ジェイアール東日本レンタリース新潟営業所）
+  - 3階西側：[駅レンタカー](../Page/駅レンタカー.md "wikilink")（ジェイアール東日本レンタリース新潟営業所）
   - 4 - 8階：自走式立体駐車場（826台収容\[8\]）
       - 24時間利用可能
 
@@ -122,7 +122,7 @@
 
   - テナント\[9\]
       - 美容室 Sun-trap
-      - [MODE OFF](https://ja.wikipedia.org/wiki/ハードオフコーポレーション "wikilink")・[BOOK OFF](../Page/ブックオフコーポレーション.md "wikilink") 新潟駅南口店
+      - [MODE OFF](../Page/ハードオフコーポレーション.md "wikilink")・[BOOK OFF](../Page/ブックオフコーポレーション.md "wikilink") 新潟駅南口店
       - クラフトビール館
       - [ローソン](../Page/ローソン.md "wikilink") 新潟駅オレンジガーデン店
       - オレンジガーデン
@@ -189,7 +189,7 @@
 
 大手口駅舎にあるCoCoLo長岡は、計5つのフロアで構成。
 
-1階の大手口北口付近は「食品館」、中央口・南口付近はレストランフロアと土産品・服飾雑貨の専門店から成る「First Floor」、2階は服飾雑貨の専門店主体の「Urban Floor」、中2階は書店と喫茶店、休憩スペースから成る「Wonder Floor」となっている。さらに2階の改札口北側には[内科](https://ja.wikipedia.org/wiki/内科学 "wikilink")、[歯科](../Page/歯科.md "wikilink")、薬局とマッサージルームから成る「メディカルヘルシーモール」がある。 [Nagaoka_cocolo_20041114.jpg](https://ja.wikipedia.org/wiki/File:Nagaoka_cocolo_20041114.jpg "fig:Nagaoka_cocolo_20041114.jpg")新潟と異なり、フロアは全て大手口駅舎内に設けられているため、回遊性が高い。またJR新潟支社と長岡市では「長岡駅周辺整備事業」の一環で、駅舎2階部に所在したCoCoLoの一部フロアを撤去し、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")春に東西自由通路が延伸開通。さらに[2012年](../Page/2012年.md "wikilink")春に大手口側の[ペデストリアンデッキ](https://ja.wikipedia.org/wiki/ペデストリアンデッキ "wikilink")「大手スカイデッキ」が開通したことにより、駅周辺の回遊性が高められている。
+1階の大手口北口付近は「食品館」、中央口・南口付近はレストランフロアと土産品・服飾雑貨の専門店から成る「First Floor」、2階は服飾雑貨の専門店主体の「Urban Floor」、中2階は書店と喫茶店、休憩スペースから成る「Wonder Floor」となっている。さらに2階の改札口北側には[内科](../Page/内科学.md "wikilink")、[歯科](../Page/歯科.md "wikilink")、薬局とマッサージルームから成る「メディカルヘルシーモール」がある。 [Nagaoka_cocolo_20041114.jpg](https://ja.wikipedia.org/wiki/File:Nagaoka_cocolo_20041114.jpg "fig:Nagaoka_cocolo_20041114.jpg")新潟と異なり、フロアは全て大手口駅舎内に設けられているため、回遊性が高い。またJR新潟支社と長岡市では「長岡駅周辺整備事業」の一環で、駅舎2階部に所在したCoCoLoの一部フロアを撤去し、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")春に東西自由通路が延伸開通。さらに[2012年](../Page/2012年.md "wikilink")春に大手口側の[ペデストリアンデッキ](../Page/ペデストリアンデッキ.md "wikilink")「大手スカイデッキ」が開通したことにより、駅周辺の回遊性が高められている。
 
 ### 越後湯沢駅
 

@@ -5,21 +5,21 @@
 
 ## コンセプト
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")初夏から夏にかけて結成された。最初は[賢プロダクション](https://ja.wikipedia.org/wiki/賢プロダクション "wikilink")（森、宮下、梯）、[元氣プロジェクト](https://ja.wikipedia.org/wiki/元氣プロジェクト "wikilink")（勝、泰、増川）に所属している声優3人ずつ計6人で結成されたが、同年12月に泰が脱退、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")1月に勝が、4月に増川がそれぞれ移籍したため、全員賢プロダクション所属となった。特にこれといったテーマはなく、歌やダンス、朗読、演劇等、多岐にわたる分野に挑戦している。2006年10月、梯が脱退した。
+[2005年](../Page/2005年.md "wikilink")初夏から夏にかけて結成された。最初は[賢プロダクション](../Page/賢プロダクション.md "wikilink")（森、宮下、梯）、[元氣プロジェクト](../Page/元氣プロジェクト.md "wikilink")（勝、泰、増川）に所属している声優3人ずつ計6人で結成されたが、同年12月に泰が脱退、[2006年](../Page/2006年.md "wikilink")1月に勝が、4月に増川がそれぞれ移籍したため、全員賢プロダクション所属となった。特にこれといったテーマはなく、歌やダンス、朗読、演劇等、多岐にわたる分野に挑戦している。2006年10月、梯が脱退した。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月23日](../Page/12月23日.md "wikilink")のライブをもって、充電期間として活動を休止した。
+[2006年](../Page/2006年.md "wikilink")[12月23日](../Page/12月23日.md "wikilink")のライブをもって、充電期間として活動を休止した。
 
 ## メンバー
 
-  - [森訓久](https://ja.wikipedia.org/wiki/森訓久 "wikilink")
+  - [森訓久](../Page/森訓久.md "wikilink")
   - [宮下栄治](../Page/宮下栄治.md "wikilink")
-  - [勝杏里](https://ja.wikipedia.org/wiki/勝杏里 "wikilink")
+  - [勝杏里](../Page/勝杏里.md "wikilink")
   - [増川洋一](../Page/増川洋一.md "wikilink")
 
 ### 元メンバー
 
-  - [泰勇気](https://ja.wikipedia.org/wiki/泰勇気 "wikilink")（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月23日](../Page/12月23日.md "wikilink")付脱退）
-  - [梯篤司](../Page/梯篤司.md "wikilink")（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月15日](../Page/10月15日.md "wikilink")付脱退）
+  - [泰勇気](../Page/泰勇気.md "wikilink")（[2005年](../Page/2005年.md "wikilink")[12月23日](../Page/12月23日.md "wikilink")付脱退）
+  - [梯篤司](../Page/梯篤司.md "wikilink")（[2006年](../Page/2006年.md "wikilink")[10月15日](../Page/10月15日.md "wikilink")付脱退）
 
 ### プロデューサー
 
@@ -27,12 +27,12 @@
 
 ## イベント
 
-  - Revolver プロローグイベント INVITATION（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月18日](../Page/7月18日.md "wikilink")、ゲスト：[谷山紀章](https://ja.wikipedia.org/wiki/谷山紀章 "wikilink")）
-  - Revolver 1st event ADVANCEMENT（2005年[11月6日](../Page/11月6日.md "wikilink")、ゲスト：[鈴木達央](https://ja.wikipedia.org/wiki/鈴木達央 "wikilink")）
+  - Revolver プロローグイベント INVITATION（[2005年](../Page/2005年.md "wikilink")[7月18日](../Page/7月18日.md "wikilink")、ゲスト：[谷山紀章](../Page/谷山紀章.md "wikilink")）
+  - Revolver 1st event ADVANCEMENT（2005年[11月6日](../Page/11月6日.md "wikilink")、ゲスト：[鈴木達央](../Page/鈴木達央.md "wikilink")）
   - Revolver〜Christmas Live〜 "Brightness"（2005年[12月23日](../Page/12月23日.md "wikilink")） ※このイベントをもって泰が脱退
-  - Live Revolver レコ発Live Anniversary（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月23日](../Page/4月23日.md "wikilink")、ゲスト：[結城比呂](https://ja.wikipedia.org/wiki/結城比呂 "wikilink")）
+  - Live Revolver レコ発Live Anniversary（[2006年](../Page/2006年.md "wikilink")[4月23日](../Page/4月23日.md "wikilink")、ゲスト：[結城比呂](https://ja.wikipedia.org/wiki/結城比呂 "wikilink")）
   - Revolver イベント"Fireworks"（2006年[7月16日](../Page/7月16日.md "wikilink")、梯は体調不良により降板、ゲスト：[林勇](../Page/林勇_\(声優\).md "wikilink")、[樋口智透](https://ja.wikipedia.org/wiki/樋口智透 "wikilink")）
-  - Revolver X'mas Live "White night"（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月23日](../Page/12月23日.md "wikilink")、ゲスト：[team-F](https://ja.wikipedia.org/wiki/team-F "wikilink")） ※このライブをもって充電期間として活動休止
+  - Revolver X'mas Live "White night"（[2006年](../Page/2006年.md "wikilink")[12月23日](../Page/12月23日.md "wikilink")、ゲスト：[team-F](https://ja.wikipedia.org/wiki/team-F "wikilink")） ※このライブをもって充電期間として活動休止
 
 ## 外部リンク
 

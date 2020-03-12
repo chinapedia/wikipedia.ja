@@ -5,7 +5,7 @@
 
 ## 概要
 
-[サイバーワークス](https://ja.wikipedia.org/wiki/サイバーワークス "wikilink")のブランド「駒屋」のスタッフが独立して設立された。パートナーブランド加盟ブランドで唯一と言っていいほど陵辱を前面に押し出した内容のゲームの製作を続けており、原画は全て[スミスミ](https://ja.wikipedia.org/wiki/スミスミ "wikilink")が手がけているのが特徴。サブブランドに「あんたっちゃぶる」がある。
+[サイバーワークス](../Page/サイバーワークス.md "wikilink")のブランド「駒屋」のスタッフが独立して設立された。パートナーブランド加盟ブランドで唯一と言っていいほど陵辱を前面に押し出した内容のゲームの製作を続けており、原画は全て[スミスミ](https://ja.wikipedia.org/wiki/スミスミ "wikilink")が手がけているのが特徴。サブブランドに「あんたっちゃぶる」がある。
 
 ## 作品一覧
 
@@ -13,8 +13,8 @@
   - 2001年[12月28日](../Page/12月28日.md "wikilink") - [TWILIGHT DUAL](https://ja.wikipedia.org/wiki/TWILIGHT_DUAL "wikilink")
   - [2003年](../Page/2003年.md "wikilink")[2月14日](../Page/2月14日.md "wikilink") - [あいあん・めいど 〜恋のご奉仕大作戦〜](https://ja.wikipedia.org/wiki/あいあん・めいど_〜恋のご奉仕大作戦〜 "wikilink")
   - [2004年](../Page/2004年.md "wikilink")[8月13日](../Page/8月13日.md "wikilink") - [るな・るな\! 〜Lunar Lunatic〜](https://ja.wikipedia.org/wiki/るな・るな!_〜Lunar_Lunatic〜 "wikilink")
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[5月27日](../Page/5月27日.md "wikilink") - [侵蝕 〜淫魔の生贄〜](https://ja.wikipedia.org/wiki/侵蝕_〜淫魔の生贄〜 "wikilink")
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月29日](../Page/9月29日.md "wikilink") - [魔法少女マナ](https://ja.wikipedia.org/wiki/魔法少女マナ "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")[5月27日](../Page/5月27日.md "wikilink") - [侵蝕 〜淫魔の生贄〜](https://ja.wikipedia.org/wiki/侵蝕_〜淫魔の生贄〜 "wikilink")
+  - [2006年](../Page/2006年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink") - [魔法少女マナ](https://ja.wikipedia.org/wiki/魔法少女マナ "wikilink")
   - [2007年](../Page/2007年.md "wikilink")[11月30日](../Page/11月30日.md "wikilink") - [侵蝕2 〜淫魔の生贄〜](https://ja.wikipedia.org/wiki/侵蝕_〜淫魔の生贄〜 "wikilink")
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[10月24日](../Page/10月24日.md "wikilink") -　[触装天使セリカ](https://ja.wikipedia.org/wiki/触装天使セリカ "wikilink")
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[9月24日](../Page/9月24日.md "wikilink") -　[侵蝕3 〜淫魔の生贄〜](https://ja.wikipedia.org/wiki/侵蝕_〜淫魔の生贄〜 "wikilink")

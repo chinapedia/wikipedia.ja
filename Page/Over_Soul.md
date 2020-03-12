@@ -1,7 +1,7 @@
 > この記事は[Over Soul](https://ja.wikipedia.org/wiki/Over_Soul)から翻訳されています。
 
 
-「**Over Soul**」（オーバー・ソウル）は、[林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")の26作目のシングル。[2001年](../Page/2001年.md "wikilink")[8月29日](../Page/8月29日.md "wikilink")に[スターチャイルド](https://ja.wikipedia.org/wiki/スターチャイルド "wikilink")よりリリースされた。
+「**Over Soul**」（オーバー・ソウル）は、[林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")の26作目のシングル。[2001年](../Page/2001年.md "wikilink")[8月29日](../Page/8月29日.md "wikilink")に[スターチャイルド](../Page/スターチャイルド.md "wikilink")よりリリースされた。
 
 ## 概要
 
@@ -11,8 +11,8 @@
 
 ## 記録
 
-  - 累計売上では、自己最高位を記録した「[Northern lights](../Page/Northern_lights.md "wikilink")」を上回っており、2000年代にリリースした林原めぐみのシングルとしては最も多く売れたシングルである。また、林原のシングルの多くには、主演を務めた[神坂一](../Page/神坂一.md "wikilink")原作『[スレイヤーズ](https://ja.wikipedia.org/wiki/スレイヤーズ_\(アニメ\) "wikilink")』、『[ロスト・ユニバース](https://ja.wikipedia.org/wiki/ロスト・ユニバース "wikilink")』などの作品とのタイアップがあるが、一連のシリーズ・出版社と関連性がないものとしては最も売れた作品でもある。
-  - 2003年10月度、[ゴールドディスク](https://ja.wikipedia.org/wiki/ゴールドディスク "wikilink")に認定された\[1\]。2014年5月度には有料音楽配信でもゴールドディスクに認定された\[2\]
+  - 累計売上では、自己最高位を記録した「[Northern lights](../Page/Northern_lights.md "wikilink")」を上回っており、2000年代にリリースした林原めぐみのシングルとしては最も多く売れたシングルである。また、林原のシングルの多くには、主演を務めた[神坂一](../Page/神坂一.md "wikilink")原作『[スレイヤーズ](https://ja.wikipedia.org/wiki/スレイヤーズ_\(アニメ\) "wikilink")』、『[ロスト・ユニバース](../Page/ロスト・ユニバース.md "wikilink")』などの作品とのタイアップがあるが、一連のシリーズ・出版社と関連性がないものとしては最も売れた作品でもある。
+  - 2003年10月度、[ゴールドディスク](../Page/ゴールドディスク.md "wikilink")に認定された\[1\]。2014年5月度には有料音楽配信でもゴールドディスクに認定された\[2\]
 
 ## 収録曲
 
@@ -22,8 +22,8 @@
 
 1.  **Over Soul** \[3:54\]
       - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系テレビアニメ『[シャーマンキング](https://ja.wikipedia.org/wiki/シャーマンキング "wikilink")』前期オープニングテーマ\[3\]。
-      - [PlayStation用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")『シャーマンキング スピリット オブ シャーマンズ』オープニングテーマ。
-      - [ドラマCD](https://ja.wikipedia.org/wiki/ドラマCD "wikilink")『[シャーマンキング 恐山ル・ヴォワール](https://ja.wikipedia.org/wiki/恐山ル・ヴォワール "wikilink")』オープニングテーマ。
+      - [PlayStation用ゲームソフト](../Page/PlayStation_\(ゲーム機\).md "wikilink")『シャーマンキング スピリット オブ シャーマンズ』オープニングテーマ。
+      - [ドラマCD](../Page/ドラマCD.md "wikilink")『[シャーマンキング 恐山ル・ヴォワール](https://ja.wikipedia.org/wiki/恐山ル・ヴォワール "wikilink")』オープニングテーマ。
 2.  **trust you** \[3:27\]
       - テレビ東京系テレビアニメ『シャーマンキング』前期エンディングテーマ\[4\]。
 3.  Over Soul -instrumental-

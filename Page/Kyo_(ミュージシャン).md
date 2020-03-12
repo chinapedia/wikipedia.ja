@@ -7,7 +7,7 @@
 
   - [1988年](../Page/1988年.md "wikilink")、[D'ERLANGER](../Page/D'ERLANGER.md "wikilink")に加入。
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")、D'ERLANGERのヴォーカリストとして[メジャーデビュー](https://ja.wikipedia.org/wiki/メジャーデビュー "wikilink")。同年、D'ERLANGER解散。
-  - [1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")、KYOソロ・プロジェクトとして[DIE IN CRIESを立ち上げる](https://ja.wikipedia.org/wiki/DIE_IN_CRIES "wikilink")。後に[YUKIHIRO](https://ja.wikipedia.org/wiki/yukihiro "wikilink")(Dr)、[室姫深](https://ja.wikipedia.org/wiki/室姫深 "wikilink")(G)、TAKASHI(Ba)をメンバーに迎え入れ、バンドDIE IN CRIESとして[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")にメジャー再デビュー。
+  - [1991年](../Page/1991年.md "wikilink")、KYOソロ・プロジェクトとして[DIE IN CRIESを立ち上げる](../Page/DIE_IN_CRIES.md "wikilink")。後に[YUKIHIRO](https://ja.wikipedia.org/wiki/yukihiro "wikilink")(Dr)、[室姫深](https://ja.wikipedia.org/wiki/室姫深 "wikilink")(G)、TAKASHI(Ba)をメンバーに迎え入れ、バンドDIE IN CRIESとして[1992年](../Page/1992年.md "wikilink")にメジャー再デビュー。
   - [1994年](../Page/1994年.md "wikilink")、DIE IN CRIESを活動休止させ、ソロアルバムを発表。
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")7月2日にDIE IN CRIES解散、本格的にソロ活動を開始。
   - [2000年](../Page/2000年.md "wikilink")、[室姫深](https://ja.wikipedia.org/wiki/室姫深 "wikilink")（ex.DIE IN CRIES）らと共に[BUGを結成](../Page/BUG_\(バンド\).md "wikilink")（室姫深は後に脱退、[ASAKI](../Page/ASAKI.md "wikilink")が加入）。
@@ -30,16 +30,16 @@
 ## 人物
 
   - もともとは漢字表記で「狂」だったが、D'ERLANGER加入頃から[ローマ字](https://ja.wikipedia.org/wiki/ローマ字 "wikilink")表記に変わる。
-      - DIE IN CRIESまでは「KYO」（全て[大文字](../Page/大文字.md "wikilink")）、ソロ活動以降は「kyo」（全て[小文字](https://ja.wikipedia.org/wiki/小文字 "wikilink")）と表記している。
+      - DIE IN CRIESまでは「KYO」（全て[大文字](../Page/大文字.md "wikilink")）、ソロ活動以降は「kyo」（全て[小文字](../Page/小文字.md "wikilink")）と表記している。
       - 一部の楽曲では、[作詞者](https://ja.wikipedia.org/wiki/作詞者 "wikilink")名・[作曲者](https://ja.wikipedia.org/wiki/作曲者 "wikilink")名が「磯野宏」や「狂」名義になっている。
   - 初めはギタリストだったが、先輩の意見でヴォーカリストに転向する。しかし、本人いわく「子供の頃から、歌が下手だと言われていたので嫌だった。」と、当時は相当な[コンプレックス](../Page/コンプレックス.md "wikilink")を抱えていた。
       - そんな状態のときに、[YOSHIKI](../Page/YOSHIKI.md "wikilink")から下手だと言われたことがあり、YOSHIKIとは仲が悪い。他の[Xメンバーとは仲が良かった](../Page/X_JAPAN.md "wikilink")。（現在、YOSHIKIと和解しているかは不明）
   - 高校まで[テニス部](https://ja.wikipedia.org/wiki/テニス部 "wikilink")に所属。
-  - [トレードマーク](https://ja.wikipedia.org/wiki/トレードマーク "wikilink")の[金髪](https://ja.wikipedia.org/wiki/金髪 "wikilink")は、[ハノイ・ロックス](https://ja.wikipedia.org/wiki/ハノイ・ロックス "wikilink")の[マイケル・モンロー](https://ja.wikipedia.org/wiki/マイケル・モンロー "wikilink")、[デヴィッド・シルヴィアン](../Page/デヴィッド・シルヴィアン.md "wikilink")、[44MAGNUM](https://ja.wikipedia.org/wiki/44MAGNUM "wikilink")のPAULへの憧れから。
+  - [トレードマーク](https://ja.wikipedia.org/wiki/トレードマーク "wikilink")の[金髪](../Page/金髪.md "wikilink")は、[ハノイ・ロックス](../Page/ハノイ・ロックス.md "wikilink")の[マイケル・モンロー](../Page/マイケル・モンロー.md "wikilink")、[デヴィッド・シルヴィアン](../Page/デヴィッド・シルヴィアン.md "wikilink")、[44MAGNUM](../Page/44MAGNUM.md "wikilink")のPAULへの憧れから。
   - 歳の離れた妹がいるが、彼女の小学校時代、KYOが原因でいじめられていた（お前の家に[ライオン丸](https://ja.wikipedia.org/wiki/ライオン丸 "wikilink")がいる、など）ため、全くなつかなかったのが、中学に入ったころ頃(この頃にD'ERLANGERがデビューしたらしい)急に[サインを頼まれるようになりなつくようになったとKYOは語っている](../Page/署名.md "wikilink")。
   - 1989年にバンド仲間と公園で花火をしていた際、電柱に登って仲間に花火を向けていたところ、仲間も電柱上のKYOに花火を浴びせ、悪ふざけの中で電柱から落下して腰骨を折った。無事完治したものの、一歩間違えば半身不随になるところだったという。
   - ソロ作品を[cutting edgeからリリースしていて](https://ja.wikipedia.org/wiki/cutting_edge "wikilink")、その頃から[MAX松浦](https://ja.wikipedia.org/wiki/MAX松浦 "wikilink")とは交友がありBUG、D'ERLANGERの活動にも関わっている
-  - 所属レコード会社の[DANGER CRUE RECORDSや](https://ja.wikipedia.org/wiki/デンジャークルー・レコード "wikilink")[cutting edgeの親会社](https://ja.wikipedia.org/wiki/cutting_edge "wikilink")[エイベックスの歌手やバンドと多数交友関係を持っている](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")（[TETSU](https://ja.wikipedia.org/wiki/菊地哲 "wikilink")、[CIPHER](../Page/瀧川一郎.md "wikilink")、[SEELA](https://ja.wikipedia.org/wiki/SEELA "wikilink")も同様である）
+  - 所属レコード会社の[DANGER CRUE RECORDSや](../Page/デンジャークルー・レコード.md "wikilink")[cutting edgeの親会社](https://ja.wikipedia.org/wiki/cutting_edge "wikilink")[エイベックスの歌手やバンドと多数交友関係を持っている](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")（[TETSU](../Page/菊地哲.md "wikilink")、[CIPHER](../Page/瀧川一郎.md "wikilink")、[SEELA](https://ja.wikipedia.org/wiki/SEELA "wikilink")も同様である）
 
 ## ディスコグラフィ
 
@@ -463,12 +463,12 @@ kyoソロ作品
 
 #### トリビュート
 
-  - [hide TRIBUTE SPIRITS](https://ja.wikipedia.org/wiki/hide_TRIBUTE_SPIRITS "wikilink") （1999年5月1日　[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")　PCCM-00002） - [TELL ME](../Page/TELL_ME_\(hideの曲\).md "wikilink") / kyo & [TETSU](https://ja.wikipedia.org/wiki/菊地哲 "wikilink")
+  - [hide TRIBUTE SPIRITS](https://ja.wikipedia.org/wiki/hide_TRIBUTE_SPIRITS "wikilink") （1999年5月1日　[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")　PCCM-00002） - [TELL ME](../Page/TELL_ME_\(hideの曲\).md "wikilink") / kyo & [TETSU](../Page/菊地哲.md "wikilink")
   - [PARADE〜RESPECTIVE TRACKS OF BUCK-TICK〜](../Page/PARADE〜RESPECTIVE_TRACKS_OF_BUCK-TICK〜.md "wikilink") （2005年12月21日　[BMG JAPAN](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")　BVCR-11080） - MONSTER / RUNAWAY BOYS (kyo and [nackie](../Page/NARASAKI.md "wikilink"))
 
 #### sukekiyo
 
-  - [sukekiyo](https://ja.wikipedia.org/wiki/sukekiyo "wikilink")『ADORATIO』 （2017年6月、[Blu-spec CD2](https://ja.wikipedia.org/wiki/Blu-spec_CD2 "wikilink")、[sun-krad](https://ja.wikipedia.org/wiki/フリーウィル "wikilink")）
+  - [sukekiyo](https://ja.wikipedia.org/wiki/sukekiyo "wikilink")『ADORATIO』 （2017年6月、[Blu-spec CD2](https://ja.wikipedia.org/wiki/Blu-spec_CD2 "wikilink")、[sun-krad](../Page/フリーウィル.md "wikilink")）
       -
         DISC2に「elisabeth addict　Collaboration with kyo」を収録。
 

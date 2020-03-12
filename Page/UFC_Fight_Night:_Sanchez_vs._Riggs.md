@@ -1,17 +1,17 @@
 > この記事は[UFC Fight Night: Sanchez vs. Riggs](https://ja.wikipedia.org/wiki/UFC_Fight_Night:_Sanchez_vs._Riggs)から翻訳されています。
 
 
-**UFC Fight Night: Sanchez vs. Riggs**（ユーエフシー・ファイトナイト：サンチェス・バーサス・リッグス、別名**UFC Fight Night 7**）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")、[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[サンディエゴ](../Page/サンディエゴ.md "wikilink")のミラマー海兵隊航空基地で開催された。
+**UFC Fight Night: Sanchez vs. Riggs**（ユーエフシー・ファイトナイト：サンチェス・バーサス・リッグス、別名**UFC Fight Night 7**）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2006年](../Page/2006年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")、[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[サンディエゴ](../Page/サンディエゴ.md "wikilink")のミラマー海兵隊航空基地で開催された。
 
-メインイベントでは、[ディエゴ・サンチェス](https://ja.wikipedia.org/wiki/ディエゴ・サンチェス "wikilink")と[ジョー・リッグス](https://ja.wikipedia.org/wiki/ジョー・リッグス "wikilink")によるウェルター級戦が行われた。なお、大会はSpikeにより全米及びカナダへ無料放送された。
+メインイベントでは、[ディエゴ・サンチェス](../Page/ディエゴ・サンチェス.md "wikilink")と[ジョー・リッグス](https://ja.wikipedia.org/wiki/ジョー・リッグス "wikilink")によるウェルター級戦が行われた。なお、大会はSpikeにより全米及びカナダへ無料放送された。
 
 ## 大会概要
 
 通常のスポーツアリーナではなく海兵隊の基地で行われた初の大会であり、ミラマー海兵隊航空基地の第一格納庫が会場となった。
 
-メインイベントでは、[ディエゴ・サンチェス](https://ja.wikipedia.org/wiki/ディエゴ・サンチェス "wikilink")が[ジョー・リッグス](https://ja.wikipedia.org/wiki/ジョー・リッグス "wikilink")にKO勝ちを収めた。
+メインイベントでは、[ディエゴ・サンチェス](../Page/ディエゴ・サンチェス.md "wikilink")が[ジョー・リッグス](https://ja.wikipedia.org/wiki/ジョー・リッグス "wikilink")にKO勝ちを収めた。
 
-[MFCライトヘビー級王者ビクター](https://ja.wikipedia.org/wiki/Maximum_Fighting_Championship "wikilink")・ヴァリマキ、キャリア17戦無敗の[中村K太郎](https://ja.wikipedia.org/wiki/中村K太郎 "wikilink")、9戦全勝の[ローガン・クラーク](https://ja.wikipedia.org/wiki/ローガン・クラーク "wikilink")、6戦全勝のスティーブ・バーンズがUFCデビュー。
+[MFCライトヘビー級王者ビクター](https://ja.wikipedia.org/wiki/Maximum_Fighting_Championship "wikilink")・ヴァリマキ、キャリア17戦無敗の[中村K太郎](../Page/中村K太郎.md "wikilink")、9戦全勝の[ローガン・クラーク](https://ja.wikipedia.org/wiki/ローガン・クラーク "wikilink")、6戦全勝のスティーブ・バーンズがUFCデビュー。
 
 本大会よりUFC Fight Nightは大会名称から番号が廃止された\[1\]。
 
@@ -23,13 +23,13 @@
     ○  [ローガン・クラーク](https://ja.wikipedia.org/wiki/ローガン・クラーク "wikilink") vs.  スティーブ・バーンズ ×
     3R終了 判定3-0（30-27、30-27、29-28）
   - 第2試合 ウェルター級 5分3R
-    ○  [ブロック・ラーソン](https://ja.wikipedia.org/wiki/ブロック・ラーソン "wikilink") vs.  [中村K太郎](https://ja.wikipedia.org/wiki/中村K太郎 "wikilink") ×
+    ○  [ブロック・ラーソン](https://ja.wikipedia.org/wiki/ブロック・ラーソン "wikilink") vs.  [中村K太郎](../Page/中村K太郎.md "wikilink") ×
     3R終了 判定3-0（29-28、29-28、29-28）
   - 第3試合 ウェルター級 5分3R
-    ○  [ルイージ・フィオラヴァンティ](https://ja.wikipedia.org/wiki/ルイージ・フィオラヴァンティ "wikilink") vs.  [デイブ・メネー](../Page/デイブ・メネー.md "wikilink") ×
-    1R 4:44 TKO（レフェリーストップ：右フック→[パウンド](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    ○  [ルイージ・フィオラヴァンティ](../Page/ルイージ・フィオラヴァンティ.md "wikilink") vs.  [デイブ・メネー](../Page/デイブ・メネー.md "wikilink") ×
+    1R 4:44 TKO（レフェリーストップ：右フック→[パウンド](../Page/グラウンドパンチ.md "wikilink")）
   - 第4試合 ミドル級 5分3R
-    ○  [アラン・ベルチャー](https://ja.wikipedia.org/wiki/アラン・ベルチャー "wikilink") vs.  [ジョルジ・サンチアゴ](https://ja.wikipedia.org/wiki/ジョルジ・サンチアゴ "wikilink") ×
+    ○  [アラン・ベルチャー](../Page/アラン・ベルチャー.md "wikilink") vs.  [ジョルジ・サンチアゴ](../Page/ジョルジ・サンチアゴ.md "wikilink") ×
     3R 2:45 KO（右ハイキック）
   - 第5試合 ライトヘビー級 5分3R
     ○  デビッド・ヒース vs.  ビクター・ヴァリマキ ×
@@ -44,10 +44,10 @@
     ○  [カロ・パリジャン](../Page/カロ・パリジャン.md "wikilink") vs.  ドリュー・フィケット ×
     3R終了 判定3-0（30-27、30-27、30-27）
   - 第8試合 ウェルター級 5分3R
-    ○  [ジョシュ・コスチェック](https://ja.wikipedia.org/wiki/ジョシュ・コスチェック "wikilink") vs.  ジェフ・ジョスリン ×
+    ○  [ジョシュ・コスチェック](../Page/ジョシュ・コスチェック.md "wikilink") vs.  ジェフ・ジョスリン ×
     3R終了 判定3-0（30-27、30-27、30-27）
   - 第9試合 ウェルター級 5分3R
-    ○  [ディエゴ・サンチェス](https://ja.wikipedia.org/wiki/ディエゴ・サンチェス "wikilink") vs.  [ジョー・リッグス](https://ja.wikipedia.org/wiki/ジョー・リッグス "wikilink") ×
+    ○  [ディエゴ・サンチェス](../Page/ディエゴ・サンチェス.md "wikilink") vs.  [ジョー・リッグス](https://ja.wikipedia.org/wiki/ジョー・リッグス "wikilink") ×
     1R 1:45 KO（膝蹴り）
 
 ## 脚注

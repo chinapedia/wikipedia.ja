@@ -9,7 +9,7 @@
 
 ## 関連項目
 
-  - [ブレイクビーツ](https://ja.wikipedia.org/wiki/ブレイクビーツ "wikilink")
+  - [ブレイクビーツ](../Page/ブレイクビーツ.md "wikilink")
 
 ## 外部リンク
 

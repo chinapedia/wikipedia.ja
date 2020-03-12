@@ -3,7 +3,7 @@
 
 [Fah.PNG](https://ja.wikipedia.org/wiki/File:Fah.PNG "fig:Fah.PNG") **Folding@home**（FAH、フォールディング・アット・ホーム\[1\]）は、[2000年](../Page/2000年.md "wikilink")10月から[北アメリカ](../Page/北アメリカ.md "wikilink")の[スタンフォード大学](../Page/スタンフォード大学.md "wikilink")を中心に行われている[分散コンピューティング](../Page/分散コンピューティング.md "wikilink")プロジェクトおよび、それに使用されている[コンピュータプログラム](https://ja.wikipedia.org/wiki/コンピュータプログラム "wikilink")。
 
-[たんぱく質](https://ja.wikipedia.org/wiki/たんぱく質 "wikilink")の[折りたたみ構造を解析することで](https://ja.wikipedia.org/wiki/フォールディング "wikilink")、これに関係する様々な疾病（[アルツハイマー病](https://ja.wikipedia.org/wiki/アルツハイマー病 "wikilink")、[がん](../Page/悪性腫瘍.md "wikilink")、[パーキンソン病](../Page/パーキンソン病.md "wikilink")、[狂牛病](https://ja.wikipedia.org/wiki/狂牛病 "wikilink")など）の治療に役立てるのが目的。このプログラムをダウンロードし、[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")などで動作させると研究に必要な計算が行われ、その計算結果がインターネットを通じてスタンフォード大学に送られる。また、このプロジェクトでは[CPU](../Page/CPU.md "wikilink")だけでなく、[GPGPU](https://ja.wikipedia.org/wiki/GPGPU "wikilink")による処理も行う事が出来る。
+[たんぱく質](https://ja.wikipedia.org/wiki/たんぱく質 "wikilink")の[折りたたみ構造を解析することで](../Page/フォールディング.md "wikilink")、これに関係する様々な疾病（[アルツハイマー病](https://ja.wikipedia.org/wiki/アルツハイマー病 "wikilink")、[がん](../Page/悪性腫瘍.md "wikilink")、[パーキンソン病](../Page/パーキンソン病.md "wikilink")、[狂牛病](https://ja.wikipedia.org/wiki/狂牛病 "wikilink")など）の治療に役立てるのが目的。このプログラムをダウンロードし、[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")などで動作させると研究に必要な計算が行われ、その計算結果がインターネットを通じてスタンフォード大学に送られる。また、このプロジェクトでは[CPU](../Page/CPU.md "wikilink")だけでなく、[GPGPU](https://ja.wikipedia.org/wiki/GPGPU "wikilink")による処理も行う事が出来る。
 
 ## 経過
 
@@ -17,7 +17,7 @@
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[11月9日](../Page/11月9日.md "wikilink")現在、総合で4.247PFLOPS、そのうちGPUの処理能力は2.226PFLOPS、またPS3による処理能力は1.733PFLOPSに上る。
   - [2012年](../Page/2012年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")現在、総合で5.427PFLOPS\[6\]。
   - [2012年](../Page/2012年.md "wikilink")[10月22日](../Page/10月22日.md "wikilink")、PS3での終了を発表（[2012年](../Page/2012年.md "wikilink")[11月6日](../Page/11月6日.md "wikilink")終了、延べ1500万人のユーザーが参加した）\[7\]。
-  - [2015年](../Page/2015年.md "wikilink")[1月13日](../Page/1月13日.md "wikilink")、[Android](https://ja.wikipedia.org/wiki/Android "wikilink")4.4以降のパージョンを搭載した[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")、[タブレット](https://ja.wikipedia.org/wiki/タブレット "wikilink")向けにアプリケーションが配信され参加出来るようになる。当初は[Xperia](https://ja.wikipedia.org/wiki/Xperia "wikilink")シリーズにしかインストール出来なかったが後のバージョンアップによりXperia以外の端末でも前述の条件を満たせばインストール出来るようになっている。
+  - [2015年](../Page/2015年.md "wikilink")[1月13日](../Page/1月13日.md "wikilink")、[Android](../Page/Android.md "wikilink")4.4以降のパージョンを搭載した[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")、[タブレット](https://ja.wikipedia.org/wiki/タブレット "wikilink")向けにアプリケーションが配信され参加出来るようになる。当初は[Xperia](https://ja.wikipedia.org/wiki/Xperia "wikilink")シリーズにしかインストール出来なかったが後のバージョンアップによりXperia以外の端末でも前述の条件を満たせばインストール出来るようになっている。
   - [2016年](../Page/2016年.md "wikilink")[1月6日](../Page/1月6日.md "wikilink")現在、総合80.79PFLOPS、そのうちGPUの処理能力は78PFLOPSで96％となる。GPUの中ではNVIDIAのFermiが約80％を占める。
   - 2016年11月12日現在、“Today we are 111,795 computers strong outputting  101,550 teraflops of computing power. ”と表示されている。しかし、通常のパソコン1台にビデオカード2枚を装着してFAHを実行している場合には、3台のコンピュータとして計算されてしまう。また数台のパソコンを使用している人も居る。そのため、現時点でプロジェクトに参加している人数は、11万台というコンピュータよりは、かなり少ないことが想像される。
 
@@ -25,10 +25,10 @@
 
 ## 関連項目
 
-  - [タンパク質構造予測](https://ja.wikipedia.org/wiki/タンパク質構造予測 "wikilink")
-  - [フォールディング](https://ja.wikipedia.org/wiki/フォールディング "wikilink")
+  - [タンパク質構造予測](../Page/タンパク質構造予測.md "wikilink")
+  - [フォールディング](../Page/フォールディング.md "wikilink")
   - [Foldit](https://ja.wikipedia.org/wiki/Foldit "wikilink")
-  - [BOINC](https://ja.wikipedia.org/wiki/Berkeley_Open_Infrastructure_for_Network_Computing "wikilink")
+  - [BOINC](../Page/Berkeley_Open_Infrastructure_for_Network_Computing.md "wikilink")
 
 ## 外部リンク
 

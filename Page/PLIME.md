@@ -1,17 +1,17 @@
 > この記事は[PLIME](https://ja.wikipedia.org/wiki/PLIME)から翻訳されています。
 
 
-PLIME（プライム）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ダンス](https://ja.wikipedia.org/wiki/ダンス "wikilink")[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")ユニットである。
+PLIME（プライム）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ダンス](../Page/ダンス.md "wikilink")[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")ユニットである。
 
 ## 来歴
 
-[2004年](../Page/2004年.md "wikilink")、元[Virgin Berryの](https://ja.wikipedia.org/wiki/Virgin_Berry "wikilink")[浅野ケン](https://ja.wikipedia.org/wiki/浅野ケン "wikilink")（後、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink") までPLIME（プライム）のプロデューサーを務めた）によって、[八王子実践高校に通う高梨桃子](https://ja.wikipedia.org/wiki/八王子実践中学校・高等学校 "wikilink")、[若林愛](https://ja.wikipedia.org/wiki/若林愛 "wikilink")、田中菜々恵の3人が発掘され、PLIME（プライム）の前身となるプロジェクト始動。のち、田中菜々恵は声帯の不調により脱退。2004年8月に新たにメンバーを加え、草野真梨絵（リーダー）、高梨桃子（サブリーダー）、島沙織、斉藤彩、中島愛、若林愛によって正式に結成された。
+[2004年](../Page/2004年.md "wikilink")、元[Virgin Berryの](../Page/Virgin_Berry.md "wikilink")[浅野ケン](../Page/浅野ケン.md "wikilink")（後、[2006年](../Page/2006年.md "wikilink") までPLIME（プライム）のプロデューサーを務めた）によって、[八王子実践高校に通う高梨桃子](../Page/八王子実践中学校・高等学校.md "wikilink")、[若林愛](../Page/若林愛.md "wikilink")、田中菜々恵の3人が発掘され、PLIME（プライム）の前身となるプロジェクト始動。のち、田中菜々恵は声帯の不調により脱退。2004年8月に新たにメンバーを加え、草野真梨絵（リーダー）、高梨桃子（サブリーダー）、島沙織、斉藤彩、中島愛、若林愛によって正式に結成された。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")3月9日、DVD付きシングル『6COLORS★like a rainbow』でインディーズデビュー。
+[2005年](../Page/2005年.md "wikilink")3月9日、DVD付きシングル『6COLORS★like a rainbow』でインディーズデビュー。
 
-2006年2月22日、ミニアルバム『Assist』で[徳間ジャパンコミュニケーションズ](https://ja.wikipedia.org/wiki/徳間ジャパンコミュニケーションズ "wikilink")よりメジャーデビュー。
+2006年2月22日、ミニアルバム『Assist』で[徳間ジャパンコミュニケーションズ](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")よりメジャーデビュー。
 
-2006年9月に若林愛脱退。5人体制で再出発するも[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")8月5日リーダー草野真梨絵脱退。サブリーダーの高梨桃子が新リーダーとなり4人体制で再々出発。しかし[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月2日には島沙織、斉藤彩、中島愛が同時脱退する。3月22日にRieko、[Aimi](https://ja.wikipedia.org/wiki/関口愛美 "wikilink")、[Chika](https://ja.wikipedia.org/wiki/Chika "wikilink")、Noriの新メンバー4人を迎えて再度ユニット立て直すが、5月14日には残ったオリジナルメンバーの高梨桃子も脱退する。
+2006年9月に若林愛脱退。5人体制で再出発するも[2007年](../Page/2007年.md "wikilink")8月5日リーダー草野真梨絵脱退。サブリーダーの高梨桃子が新リーダーとなり4人体制で再々出発。しかし[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月2日には島沙織、斉藤彩、中島愛が同時脱退する。3月22日にRieko、[Aimi](https://ja.wikipedia.org/wiki/関口愛美 "wikilink")、[Chika](../Page/Chika.md "wikilink")、Noriの新メンバー4人を迎えて再度ユニット立て直すが、5月14日には残ったオリジナルメンバーの高梨桃子も脱退する。
 
 2008年6月25日にHappy Music RecordよりRieko、Aimi、Chika、Noriの新メンバーでシングル『Shining days』で再デビュー。
 
@@ -23,14 +23,14 @@ PLIME（プライム）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilin
 
   - Rieko（[1984年](../Page/1984年.md "wikilink")[8月31日](../Page/8月31日.md "wikilink") - ）（2008年3月22日加入-2009年12月16日活動終了）
   - [Aimi](https://ja.wikipedia.org/wiki/関口愛美 "wikilink")（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[3月4日](../Page/3月4日.md "wikilink") - ）（2008年3月22日加入-2009年12月16日活動終了）
-  - [Chika](https://ja.wikipedia.org/wiki/Chika "wikilink")（[1988年](../Page/1988年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink") - ）（2008年3月22日加入-2009年5月30日脱退）
+  - [Chika](../Page/Chika.md "wikilink")（[1988年](../Page/1988年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink") - ）（2008年3月22日加入-2009年5月30日脱退）
   - Nori（[9月9日](../Page/9月9日.md "wikilink") - ）（2008年3月22日加入-2009年5月30日脱退）
   - 高梨桃子（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[1月27日](../Page/1月27日.md "wikilink") - ）（2004年8月結成-2008年5月14日脱退）
   - 中島愛（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[2月20日](../Page/2月20日.md "wikilink") - ）（2004年8月結成-2008年3月2日脱退）
   - 斉藤彩（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[11月29日](../Page/11月29日.md "wikilink") - ）（2004年8月結成-2008年3月2日脱退）
   - 島沙織（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[11月17日](../Page/11月17日.md "wikilink") - ）（2004年8月結成-2008年3月2日脱退）
   - 草野真梨絵（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[8月30日](../Page/8月30日.md "wikilink") - ）（2004年8月結成-2007年8月5日脱退）
-  - [若林愛](https://ja.wikipedia.org/wiki/若林愛 "wikilink")（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[7月26日](../Page/7月26日.md "wikilink") - ）（2004年8月結成-2006年9月脱退）
+  - [若林愛](../Page/若林愛.md "wikilink")（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[7月26日](../Page/7月26日.md "wikilink") - ）（2004年8月結成-2006年9月脱退）
 
 ## エピソード
 
@@ -88,7 +88,7 @@ PLIME（プライム）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilin
     5.  LOVE SESSION　Cross
     6.  N・A・T・S・U☆K・O・I　Breeze
     7.  真実の宝石　ダンシングBANANA
-    8.  Pure Snow Love　[Bachicco\!](https://ja.wikipedia.org/wiki/Bachicco! "wikilink")
+    8.  Pure Snow Love　[Bachicco\!](../Page/Bachicco!.md "wikilink")
 
 PLIME feat. OMA(オマスガ)として参加。
 
@@ -113,13 +113,13 @@ PLIME feat. OMA(オマスガ)として参加。
   - [大久保薫](https://ja.wikipedia.org/wiki/大久保薫 "wikilink")
   - [横山武](https://ja.wikipedia.org/wiki/横山武 "wikilink")
   - [田村信二](../Page/田村信二.md "wikilink")
-  - [浅野ケン](https://ja.wikipedia.org/wiki/浅野ケン "wikilink")
-  - [若林愛](https://ja.wikipedia.org/wiki/若林愛 "wikilink")
+  - [浅野ケン](../Page/浅野ケン.md "wikilink")
+  - [若林愛](../Page/若林愛.md "wikilink")
   - [chika](https://ja.wikipedia.org/wiki/chika "wikilink")
   - [関口愛美](https://ja.wikipedia.org/wiki/関口愛美 "wikilink")
-  - [1314 V-STATION](https://ja.wikipedia.org/wiki/1314_V-STATION "wikilink")
-  - [TEAM_dream](https://ja.wikipedia.org/wiki/TEAM_dream "wikilink")(メンバーが所属していた芸能人女子[フットサル](https://ja.wikipedia.org/wiki/フットサル "wikilink")チーム)
-  - [芸能人女子フットサル選手の一覧](https://ja.wikipedia.org/wiki/芸能人女子フットサル選手の一覧 "wikilink")
+  - [1314 V-STATION](../Page/1314_V-STATION.md "wikilink")
+  - [TEAM_dream](../Page/TEAM_dream.md "wikilink")(メンバーが所属していた芸能人女子[フットサル](https://ja.wikipedia.org/wiki/フットサル "wikilink")チーム)
+  - [芸能人女子フットサル選手の一覧](../Page/芸能人女子フットサル選手の一覧.md "wikilink")
 
 ## 外部リンク
 

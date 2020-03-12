@@ -3,7 +3,7 @@
 
 『**Zuma**』（ズーマ）とは、[アメリカのゲームデベロッパーである](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[PopCap Gamesが](https://ja.wikipedia.org/wiki/PopCap_Games "wikilink")[2003年](../Page/2003年.md "wikilink")にリリースした[パズルゲーム](../Page/パズルゲーム.md "wikilink")である。
 
-[Shockwave](https://ja.wikipedia.org/wiki/Shockwave "wikilink")で作成され、ブラウザ上でプレイが可能な『**Zuma**』（無料）と、[Xbox Live Arcade](https://ja.wikipedia.org/wiki/Xbox_Live_Arcade "wikilink")、[iPod](https://ja.wikipedia.org/wiki/iPod "wikilink")、[携帯電話ゲーム](https://ja.wikipedia.org/wiki/携帯電話ゲーム "wikilink")、[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Mac OS X向けなどの](https://ja.wikipedia.org/wiki/macOS "wikilink")[プラットフォームでリリースされている](../Page/プラットフォーム_\(コンピューティング\).md "wikilink")『**Zuma Deluxe**』（有料）が存在する。
+[Shockwave](https://ja.wikipedia.org/wiki/Shockwave "wikilink")で作成され、ブラウザ上でプレイが可能な『**Zuma**』（無料）と、[Xbox Live Arcade](https://ja.wikipedia.org/wiki/Xbox_Live_Arcade "wikilink")、[iPod](https://ja.wikipedia.org/wiki/iPod "wikilink")、[携帯電話ゲーム](../Page/携帯電話ゲーム.md "wikilink")、[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Mac OS X向けなどの](https://ja.wikipedia.org/wiki/macOS "wikilink")[プラットフォームでリリースされている](../Page/プラットフォーム_\(コンピューティング\).md "wikilink")『**Zuma Deluxe**』（有料）が存在する。
 
 2009年には続編の『**Zuma's Revenge**』がリリースされた（後述）。
 
@@ -20,7 +20,7 @@
 
 ## Zumaとパズループ
 
-Zumaのパズル性部分のコンセプトは[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に日本のゲームメーカーの[ミッチェルが](https://ja.wikipedia.org/wiki/ミッチェル_\(ゲーム会社\) "wikilink")[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")としてリリースした『[パズループ](https://ja.wikipedia.org/wiki/パズループ "wikilink")』（欧米版のタイトルは "Ballistic" および "Magnetica"）をコピーしたもので、前述のZumaのルールもパズループのそれと大部分同じである。ただし残機制の採用などの変化は加えられている。
+Zumaのパズル性部分のコンセプトは[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に日本のゲームメーカーの[ミッチェルが](../Page/ミッチェル_\(ゲーム会社\).md "wikilink")[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")としてリリースした『[パズループ](../Page/パズループ.md "wikilink")』（欧米版のタイトルは "Ballistic" および "Magnetica"）をコピーしたもので、前述のZumaのルールもパズループのそれと大部分同じである。ただし残機制の採用などの変化は加えられている。
 
 著作権や特許権等の知的財産権が保護しているのはゲーム中の表現、キャラクター、内部のプログラムといった部分であり遊びのルールやコンセプトのアイディア部分は対象になってはいないが、ミッチェルの社長尾崎ロイはインタビューでPopcapを非難した\[1\]\[2\]。
 

@@ -1,12 +1,12 @@
 > この記事は[Riders High](https://ja.wikipedia.org/wiki/Riders_High)から翻訳されています。
 
 
-**湘南乃風〜Riders High〜**（しょうなんのかぜ・ライダーズ・ハイ）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[8月30日](../Page/8月30日.md "wikilink")に発売された[湘南乃風](https://ja.wikipedia.org/wiki/湘南乃風 "wikilink")の3作目のアルバム。
+**湘南乃風〜Riders High〜**（しょうなんのかぜ・ライダーズ・ハイ）は、[2006年](../Page/2006年.md "wikilink")[8月30日](../Page/8月30日.md "wikilink")に発売された[湘南乃風](../Page/湘南乃風.md "wikilink")の3作目のアルバム。
 
 ## 概要
 
-  - 2004年に発売された『[湘南乃風〜ラガパレード〜](https://ja.wikipedia.org/wiki/湘南乃風〜ラガパレード〜 "wikilink")』から2年ぶりとなった。
-  - 先行シングル「純恋歌」の大ヒットもあって、今作で初の[オリコンアルバムチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位を獲得した。
+  - 2004年に発売された『[湘南乃風〜ラガパレード〜](../Page/湘南乃風〜ラガパレード〜.md "wikilink")』から2年ぶりとなった。
+  - 先行シングル「純恋歌」の大ヒットもあって、今作で初の[オリコンアルバムチャート](../Page/オリコンチャート.md "wikilink")1位を獲得した。
 
 ## 収録曲
 
@@ -25,7 +25,7 @@
       -
         本作のリードトラック曲。
         2006年のツアーのタイトルにもなっている。
-5.  **[純恋歌](https://ja.wikipedia.org/wiki/純恋歌 "wikilink")**
+5.  **[純恋歌](../Page/純恋歌.md "wikilink")**
     （作詞・作曲・編曲:湘南乃風）
       -
         5thシングル。
@@ -53,7 +53,7 @@
     （作詞・作曲:SHOCK EYE / 編曲:SHOCK EYE、TAKA、湘南乃風）
       -
         SHOCK EYEのソロ楽曲。
-12. **[カラス](https://ja.wikipedia.org/wiki/カラス_\(曲\) "wikilink")**
+12. **[カラス](../Page/カラス_\(曲\).md "wikilink")**
     （作詞・作曲・編曲:湘南乃風）
       -
         3rdシングル

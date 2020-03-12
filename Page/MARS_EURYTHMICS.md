@@ -1,17 +1,17 @@
 > この記事は[MARS EURYTHMICS](https://ja.wikipedia.org/wiki/MARS_EURYTHMICS)から翻訳されています。
 
 
-**MARS EURYTHMICS**（**マーズ・リトミック**）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")5月に結成、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")に[アミューズソフトエンタテインメント](https://ja.wikipedia.org/wiki/アミューズソフトエンタテインメント "wikilink")よりデビュー。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月4日](../Page/3月4日.md "wikilink")に活動を休止した。
+**MARS EURYTHMICS**（**マーズ・リトミック**）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。[2006年](../Page/2006年.md "wikilink")5月に結成、[2007年](../Page/2007年.md "wikilink")に[アミューズソフトエンタテインメント](../Page/アミューズソフトエンタテインメント.md "wikilink")よりデビュー。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月4日](../Page/3月4日.md "wikilink")に活動を休止した。
 
 ## 概要・来歴
 
-バンド名の英語での正確な発音は「マーズユーリズミックス」であり、「マーズリトミック」はフランス語読みである。MARSには特に意味は無く、EURYTHMICSは「子供のための音楽教育」という意味である。**[リトミック](https://ja.wikipedia.org/wiki/リトミック "wikilink")**も参照。
+バンド名の英語での正確な発音は「マーズユーリズミックス」であり、「マーズリトミック」はフランス語読みである。MARSには特に意味は無く、EURYTHMICSは「子供のための音楽教育」という意味である。**[リトミック](../Page/リトミック.md "wikilink")**も参照。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")の[HUSKING BEE解散後](https://ja.wikipedia.org/wiki/ハスキング・ビー "wikilink")、[CORNER](https://ja.wikipedia.org/wiki/CORNER "wikilink")という[ソロプロジェクトで活動を継続させていた同バンドのメンバー磯部正文によって](../Page/一人バンド.md "wikilink")2006年5月に結成。12月、[DEVILOCK](https://ja.wikipedia.org/wiki/DEVILOCK "wikilink")10周年イベントに出演。同年の[COUNTDOWN JAPANにも出演した](https://ja.wikipedia.org/wiki/COUNTDOWN_JAPAN "wikilink")。
+[2005年](../Page/2005年.md "wikilink")の[HUSKING BEE解散後](https://ja.wikipedia.org/wiki/ハスキング・ビー "wikilink")、[CORNER](https://ja.wikipedia.org/wiki/CORNER "wikilink")という[ソロプロジェクトで活動を継続させていた同バンドのメンバー磯部正文によって](../Page/一人バンド.md "wikilink")2006年5月に結成。12月、[DEVILOCK](https://ja.wikipedia.org/wiki/DEVILOCK "wikilink")10周年イベントに出演。同年の[COUNTDOWN JAPANにも出演した](../Page/COUNTDOWN_JAPAN.md "wikilink")。
 
-2007年6月には、主催イベント「City Connection」開催。ゲストとして[toe](https://ja.wikipedia.org/wiki/toe "wikilink")、[LOW IQ & THE BEAT BREAKERらが参加](https://ja.wikipedia.org/wiki/LOW_IQ_01 "wikilink")。また、8月には[ROCK IN JAPAN FESTIVALにも出演](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink")。10月発表のミニアルバム『The blend of a canabon』では、従来の[エモーショナル・ハードコア](https://ja.wikipedia.org/wiki/エモーショナル・ハードコア "wikilink")の要素に加え、[ファンク](https://ja.wikipedia.org/wiki/ファンク "wikilink")色も導入\[1\]。11月には初の全国ツアー『THE BLEND OF A CABANON tour』を開催した。
+2007年6月には、主催イベント「City Connection」開催。ゲストとして[toe](https://ja.wikipedia.org/wiki/toe "wikilink")、[LOW IQ & THE BEAT BREAKERらが参加](https://ja.wikipedia.org/wiki/LOW_IQ_01 "wikilink")。また、8月には[ROCK IN JAPAN FESTIVALにも出演](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink")。10月発表のミニアルバム『The blend of a canabon』では、従来の[エモーショナル・ハードコア](https://ja.wikipedia.org/wiki/エモーショナル・ハードコア "wikilink")の要素に加え、[ファンク](../Page/ファンク.md "wikilink")色も導入\[1\]。11月には初の全国ツアー『THE BLEND OF A CABANON tour』を開催した。
 
-2008年11月にBa河辺真が脱退し、元[HUSKING BEEの工藤哲也](https://ja.wikipedia.org/wiki/HUSKING_BEE "wikilink")（テッキン）が加入した。
+2008年11月にBa河辺真が脱退し、元[HUSKING BEEの工藤哲也](../Page/HUSKING_BEE.md "wikilink")（テッキン）が加入した。
 
 2009年5月にGt伊藤悦士が脱退し、Gt[辻剛](https://ja.wikipedia.org/wiki/辻剛 "wikilink")が加入するも9月に体調不良のため脱退。
 
@@ -33,7 +33,7 @@
 <!-- end list -->
 
   -
-    [ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。元[HUSKING BEEのメンバー](https://ja.wikipedia.org/wiki/HUSKING_BEE "wikilink")。
+    [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。元[HUSKING BEEのメンバー](../Page/HUSKING_BEE.md "wikilink")。
 
 <!-- end list -->
 
@@ -83,7 +83,7 @@
 ### 参加作品
 
 1.  **[HUSKING BEE](../Page/HUSKING_BEE_\(アルバム\).md "wikilink")** （2007年3月21日）
-      - [HUSKING BEEの](https://ja.wikipedia.org/wiki/ハスキング・ビー "wikilink")[トリビュート・アルバム](https://ja.wikipedia.org/wiki/トリビュート・アルバム "wikilink")。M-2「ANCHOR」で参加。
+      - [HUSKING BEEの](https://ja.wikipedia.org/wiki/ハスキング・ビー "wikilink")[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")。M-2「ANCHOR」で参加。
 2.  **PINK & BLACK** （2007年7月25日）
       - ガールズブランド[Katie](https://ja.wikipedia.org/wiki/Katie "wikilink")の10周年記念盤。M-6「HOLIC GIRL」で参加（磯部のみ）。
 

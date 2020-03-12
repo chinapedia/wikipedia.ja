@@ -1,21 +1,21 @@
 > この記事は[Bank Band](https://ja.wikipedia.org/wiki/Bank_Band)から翻訳されています。
 
 
-**Bank Band**（バンク バンド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")。所属[レコード会社](https://ja.wikipedia.org/wiki/レコード会社 "wikilink")は[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")。
+**Bank Band**（バンク バンド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")。所属[レコード会社](../Page/レコード会社.md "wikilink")は[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")。
 
 ## 概要
 
-[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")の[小林武史](../Page/小林武史.md "wikilink")と[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の[桜井和寿](https://ja.wikipedia.org/wiki/桜井和寿 "wikilink")を中心とした[スーパーバンド](../Page/スーパーグループ.md "wikilink")\[1\]。小林と櫻井、そして[坂本龍一](../Page/坂本龍一.md "wikilink")によって設立された[非営利組織](https://ja.wikipedia.org/wiki/非営利組織 "wikilink")「[ap bank](https://ja.wikipedia.org/wiki/ap_bank "wikilink")」の可能性を広げるために小林と櫻井が結成したグループで、イベントやフェスといったライブ活動やCDやDVDなどパッケージ製品からの収益はすべてap bankの活動資金や融資にあてられている\[2\]\[3\]。小林、櫻井以外のメンバーは固定されておらず、彼らと親交の深いアーティストが活動の度ごとに参加する形をとっている\[4\]。当初は櫻井をボーカルに据えてカバーをメインにやっていたが、2005年の『ap bank fes '05』開催を機にアーティストを迎え入れてバックバンドとしても活動するようになった\[5\]。
+[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")の[小林武史](../Page/小林武史.md "wikilink")と[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の[桜井和寿](../Page/桜井和寿.md "wikilink")を中心とした[スーパーバンド](../Page/スーパーグループ.md "wikilink")\[1\]。小林と櫻井、そして[坂本龍一](../Page/坂本龍一.md "wikilink")によって設立された[非営利組織](https://ja.wikipedia.org/wiki/非営利組織 "wikilink")「[ap bank](https://ja.wikipedia.org/wiki/ap_bank "wikilink")」の可能性を広げるために小林と櫻井が結成したグループで、イベントやフェスといったライブ活動やCDやDVDなどパッケージ製品からの収益はすべてap bankの活動資金や融資にあてられている\[2\]\[3\]。小林、櫻井以外のメンバーは固定されておらず、彼らと親交の深いアーティストが活動の度ごとに参加する形をとっている\[4\]。当初は櫻井をボーカルに据えてカバーをメインにやっていたが、2005年の『ap bank fes '05』開催を機にアーティストを迎え入れてバックバンドとしても活動するようになった\[5\]。
 
-ライブ活動を中心としたグループであり、披露される楽曲は他アーティストからのカヴァーが目立つ。これまで披露されたカヴァーは通算40曲以上に及ぶが、特に桜井が敬愛する邦楽アーティストの楽曲を中心に（影響を公言する[浜田省吾](https://ja.wikipedia.org/wiki/浜田省吾 "wikilink")など）選曲されている。2曲以上CDにて選曲されたミュージシャンは浜田省吾、[RCサクセション](https://ja.wikipedia.org/wiki/RCサクセション "wikilink")、[ヒートウェイヴ](https://ja.wikipedia.org/wiki/ヒートウェイヴ "wikilink")など。また、[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")のセルフカバーも行っている。一方、桜井自身が敬愛を公言しながら未だカヴァーしていないミュージシャンもあり、その代表格であった[BUMP OF CHICKENに関しては](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink")、「彼ら自身が演奏しないと意味を持たないし、説得力がないと思ってる」\[6\]と語っていた\[7\]。
+ライブ活動を中心としたグループであり、披露される楽曲は他アーティストからのカヴァーが目立つ。これまで披露されたカヴァーは通算40曲以上に及ぶが、特に桜井が敬愛する邦楽アーティストの楽曲を中心に（影響を公言する[浜田省吾](https://ja.wikipedia.org/wiki/浜田省吾 "wikilink")など）選曲されている。2曲以上CDにて選曲されたミュージシャンは浜田省吾、[RCサクセション](../Page/RCサクセション.md "wikilink")、[ヒートウェイヴ](../Page/ヒートウェイヴ.md "wikilink")など。また、[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")のセルフカバーも行っている。一方、桜井自身が敬愛を公言しながら未だカヴァーしていないミュージシャンもあり、その代表格であった[BUMP OF CHICKENに関しては](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink")、「彼ら自身が演奏しないと意味を持たないし、説得力がないと思ってる」\[6\]と語っていた\[7\]。
 
 ## 来歴
 
-2004年1月にラフォーレミュージアム六本木にてライブ「BGM 〜Bank with Gift of Music for ap bank Vol.01」を開催、10月には1stアルバム『[沿志奏逢](https://ja.wikipedia.org/wiki/沿志奏逢 "wikilink")』（以下『沿志奏逢1』）をリリース、11月には恵比寿ザ・ガーデンホール、大阪ブルーノートで各3公演ずつライブ「BGM Vol.2 〜沿志奏逢」を開催、ライブDVD『[BGM Vol.2 〜沿志奏逢](https://ja.wikipedia.org/wiki/BGM_Vol.2_〜沿志奏逢 "wikilink")』をリリース。
+2004年1月にラフォーレミュージアム六本木にてライブ「BGM 〜Bank with Gift of Music for ap bank Vol.01」を開催、10月には1stアルバム『[沿志奏逢](../Page/沿志奏逢.md "wikilink")』（以下『沿志奏逢1』）をリリース、11月には恵比寿ザ・ガーデンホール、大阪ブルーノートで各3公演ずつライブ「BGM Vol.2 〜沿志奏逢」を開催、ライブDVD『[BGM Vol.2 〜沿志奏逢](../Page/BGM_Vol.2_〜沿志奏逢.md "wikilink")』をリリース。
 
 2005年から2012年まで[静岡県](../Page/静岡県.md "wikilink")[つま恋にて野外フェス](https://ja.wikipedia.org/wiki/ヤマハリゾートつま恋 "wikilink")「[ap bank fes](https://ja.wikipedia.org/wiki/ap_bank_fes "wikilink")」を8年連続で開催。また2007年3月に開催された「[AP BANG\! 東京環境会議 vol.1](https://ja.wikipedia.org/wiki/ap_bank#AP_BANG!_東京環境会議_TOKYO_CREATORS_MEETING "wikilink")」では、新たにBank Band Trinityが結成された。
 
-2006年7月には1stシングル「[to U](https://ja.wikipedia.org/wiki/to_U "wikilink")」をリリース（Bank Band with [Salyu](https://ja.wikipedia.org/wiki/Salyu "wikilink")名義）。2007年9月には「[はるまついぶき](https://ja.wikipedia.org/wiki/はるまついぶき "wikilink")」をダウンロード販売（音楽配信、着うた）のみでリリース。収益の一部は[新潟県中越沖地震](https://ja.wikipedia.org/wiki/新潟県中越沖地震 "wikilink")の義援金として寄付された。また、2008年1月16日に2ndアルバム『[沿志奏逢2](https://ja.wikipedia.org/wiki/沿志奏逢2 "wikilink")』を、2010年6月30日に3rdアルバム『[沿志奏逢3](https://ja.wikipedia.org/wiki/沿志奏逢3 "wikilink")』をそれぞれリリースした。
+2006年7月には1stシングル「[to U](https://ja.wikipedia.org/wiki/to_U "wikilink")」をリリース（Bank Band with [Salyu](https://ja.wikipedia.org/wiki/Salyu "wikilink")名義）。2007年9月には「[はるまついぶき](../Page/はるまついぶき.md "wikilink")」をダウンロード販売（音楽配信、着うた）のみでリリース。収益の一部は[新潟県中越沖地震](../Page/新潟県中越沖地震.md "wikilink")の義援金として寄付された。また、2008年1月16日に2ndアルバム『[沿志奏逢2](../Page/沿志奏逢2.md "wikilink")』を、2010年6月30日に3rdアルバム『[沿志奏逢3](https://ja.wikipedia.org/wiki/沿志奏逢3 "wikilink")』をそれぞれリリースした。
 
 2013年から2015年までは「ap bank fes」の休演によって事実上活動休止状態となっていた\[8\]。
 
@@ -37,7 +37,7 @@
 
 <!-- end list -->
 
-  - [Keyboards](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")
+  - [Keyboards](../Page/キーボード_\(楽器\).md "wikilink")
 
 <!-- end list -->
 
@@ -49,19 +49,19 @@
 
 <!-- end list -->
 
-  - [山木秀夫](https://ja.wikipedia.org/wiki/山木秀夫 "wikilink") (沿志奏逢1 - 3/ BGM Vol.1, 2/ ap bank fes '05, '06, '08)
+  - [山木秀夫](../Page/山木秀夫.md "wikilink") (沿志奏逢1 - 3/ BGM Vol.1, 2/ ap bank fes '05, '06, '08)
   - [河村"カースケ"智康](https://ja.wikipedia.org/wiki/河村"カースケ"智康 "wikilink") (沿志奏逢2, 3/ ap bank fes '07, '09 - '18)
-  - [神宮司治](https://ja.wikipedia.org/wiki/神宮司治 "wikilink")（ap bank fes '18）
+  - [神宮司治](../Page/神宮司治.md "wikilink")（ap bank fes '18）
 
 <!-- end list -->
 
-  - [Bass](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - [Bass](../Page/ベース_\(弦楽器\).md "wikilink")
 
 <!-- end list -->
 
   - [美久月千晴](https://ja.wikipedia.org/wiki/美久月千晴 "wikilink") (沿志奏逢1, 2/ BGM Vol.1, 2)
-  - [亀田誠治](https://ja.wikipedia.org/wiki/亀田誠治 "wikilink") (沿志奏逢2, 3/ ap bank fes '05 - '18)
-  - [TOKIE](https://ja.wikipedia.org/wiki/TOKIE "wikilink") (沿志奏逢2)
+  - [亀田誠治](../Page/亀田誠治.md "wikilink") (沿志奏逢2, 3/ ap bank fes '05 - '18)
+  - [TOKIE](../Page/TOKIE.md "wikilink") (沿志奏逢2)
 
 <!-- end list -->
 
@@ -70,7 +70,7 @@
 <!-- end list -->
 
   - [古川昌義](https://ja.wikipedia.org/wiki/古川昌義 "wikilink") (沿志奏逢1, 2/ BGM Vol.1, 2)
-  - [小倉博和](https://ja.wikipedia.org/wiki/小倉博和 "wikilink") (沿志奏逢2, 3/ ap bank fes '05 - '18)
+  - [小倉博和](../Page/小倉博和.md "wikilink") (沿志奏逢2, 3/ ap bank fes '05 - '18)
   - [高野寛](../Page/高野寛.md "wikilink") (沿志奏逢2)
 
 <!-- end list -->
@@ -136,12 +136,12 @@
 
 <!-- end list -->
 
-  - [Feat.Vocal](https://ja.wikipedia.org/wiki/フィーチャリング "wikilink")
+  - [Feat.Vocal](../Page/フィーチャリング.md "wikilink")
 
 <!-- end list -->
 
   - [Salyu](https://ja.wikipedia.org/wiki/Salyu "wikilink")「to U」(シングル『to U』、アルバム『沿志奏逢2』)
-  - [GAKU-MC](https://ja.wikipedia.org/wiki/GAKU-MC "wikilink")「昨日のNo, 明日のYes」(アルバム『沿志奏逢2』)
+  - [GAKU-MC](../Page/GAKU-MC.md "wikilink")「昨日のNo, 明日のYes」(アルバム『沿志奏逢2』)
 
 ### サポート・ミュージシャン
 
@@ -203,7 +203,7 @@
 
 <!-- end list -->
 
-  - Keybords&[DJ](https://ja.wikipedia.org/wiki/ディスクジョッキー "wikilink")
+  - Keybords&[DJ](../Page/ディスクジョッキー.md "wikilink")
 
 <!-- end list -->
 
@@ -221,7 +221,7 @@
 ## 参加イベント
 
   - BGM ～Bank with Gift of Music for ap bank Vol.01(以下「BGM Vol.1」)
-  - [BGM Vol.2 〜沿志奏逢](https://ja.wikipedia.org/wiki/BGM_Vol.2_〜沿志奏逢 "wikilink")
+  - [BGM Vol.2 〜沿志奏逢](../Page/BGM_Vol.2_〜沿志奏逢.md "wikilink")
   - [ap bank fes '05](https://ja.wikipedia.org/wiki/ap_bank_fes_'05 "wikilink")
   - [ap bank fes '06](https://ja.wikipedia.org/wiki/ap_bank_fes_'06 "wikilink")
   - [ap bank fes '07](https://ja.wikipedia.org/wiki/ap_bank_fes_'07 "wikilink")
@@ -239,17 +239,17 @@
 
 ### シングル
 
-|     | 発売日        | タイトル                                                  | 規格     | [規格品番](https://ja.wikipedia.org/wiki/規格品番 "wikilink") | 収録アルバム                                                  |
-| --- | ---------- | ----------------------------------------------------- | ------ | ----------------------------------------------------- | ------------------------------------------------------- |
-| 1st | 2006年7月19日 | [to U](https://ja.wikipedia.org/wiki/to_U "wikilink") | 12cmCD | TFCC-89180                                            | [沿志奏逢2](https://ja.wikipedia.org/wiki/沿志奏逢2 "wikilink") |
-|     |            |                                                       |        |                                                       |                                                         |
+|     | 発売日        | タイトル                                                  | 規格     | [規格品番](../Page/規格品番.md "wikilink") | 収録アルバム                               |
+| --- | ---------- | ----------------------------------------------------- | ------ | ---------------------------------- | ------------------------------------ |
+| 1st | 2006年7月19日 | [to U](https://ja.wikipedia.org/wiki/to_U "wikilink") | 12cmCD | TFCC-89180                         | [沿志奏逢2](../Page/沿志奏逢2.md "wikilink") |
+|     |            |                                                       |        |                                    |                                      |
 
 ### アルバム
 
 |     | 発売日         | タイトル                                                    | 規格 | 規格品番       |
 | --- | ----------- | ------------------------------------------------------- | -- | ---------- |
-| 1st | 2004年10月20日 | [沿志奏逢](https://ja.wikipedia.org/wiki/沿志奏逢 "wikilink")   | CD | TFCC-86177 |
-| 2nd | 2008年1月16日  | [沿志奏逢2](https://ja.wikipedia.org/wiki/沿志奏逢2 "wikilink") | CD | TFCC-86247 |
+| 1st | 2004年10月20日 | [沿志奏逢](../Page/沿志奏逢.md "wikilink")                      | CD | TFCC-86177 |
+| 2nd | 2008年1月16日  | [沿志奏逢2](../Page/沿志奏逢2.md "wikilink")                    | CD | TFCC-86247 |
 | 3rd | 2010年6月30日  | [沿志奏逢3](https://ja.wikipedia.org/wiki/沿志奏逢3 "wikilink") | CD | TFCC-86327 |
 |     |             |                                                         |    |            |
 
@@ -272,10 +272,10 @@
 </tr>
 <tr class="even">
 <td><p>2007年9月1日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/はるまついぶき" title="wikilink">はるまついぶき</a></p></td>
-<td><p>着うたサイト（期間限定）・iTunes Storeで配信。後に『<a href="https://ja.wikipedia.org/wiki/沿志奏逢2" title="wikilink">沿志奏逢2</a>』に収録。<br />
+<td><p><a href="../Page/はるまついぶき.md" title="wikilink">はるまついぶき</a></p></td>
+<td><p>着うたサイト（期間限定）・iTunes Storeで配信。後に『<a href="../Page/沿志奏逢2.md" title="wikilink">沿志奏逢2</a>』に収録。<br />
 <a href="../Page/松竹.md" title="wikilink">松竹</a>系映画『<a href="../Page/ミッドナイト・イーグル.md" title="wikilink">ミッドナイト・イーグル</a>』主題歌<br />
-<a href="https://ja.wikipedia.org/wiki/ネスレ日本" title="wikilink">Nestlé</a>「<a href="../Page/キットカット.md" title="wikilink">KitKat</a>」<a href="https://ja.wikipedia.org/wiki/コマーシャルソング" title="wikilink">CMソング</a></p></td>
+<a href="../Page/ネスレ日本.md" title="wikilink">Nestlé</a>「<a href="../Page/キットカット.md" title="wikilink">KitKat</a>」<a href="../Page/コマーシャルソング.md" title="wikilink">CMソング</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2009年7月15日</p></td>
@@ -320,7 +320,7 @@
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p>2005年3月30日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/BGM_Vol.2_〜沿志奏逢" title="wikilink">BGM Vol.2 〜沿志奏逢</a></strong></p></td>
+<td><p><strong><a href="../Page/BGM_Vol.2_〜沿志奏逢.md" title="wikilink">BGM Vol.2 〜沿志奏逢</a></strong></p></td>
 <td><p>2DVD</p></td>
 <td><p>TFBQ-18056</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -352,7 +352,7 @@
 <li><strong>Extra track</strong></li>
 </ul>
 <ol>
-<li><a href="https://ja.wikipedia.org/wiki/村田朋泰" title="wikilink">村田朋泰</a>監督による「糸」のアニメーション原画およびMV</li>
+<li><a href="../Page/村田朋泰.md" title="wikilink">村田朋泰</a>監督による「糸」のアニメーション原画およびMV</li>
 </ol>
 <dl>
 <dt>Disc 2</dt>
@@ -392,9 +392,9 @@
 </dl>
 <ol>
 <li>Opening</li>
-<li><a href="https://ja.wikipedia.org/wiki/プロポーズ_(KANの曲)" title="wikilink">プロポーズ</a>（Bank Band）</li>
-<li><a href="https://ja.wikipedia.org/wiki/ストレンジ_カメレオン" title="wikilink">ストレンジ カメレオン</a>（the pillows）</li>
-<li><a href="https://ja.wikipedia.org/wiki/ハナミズキ_(曲)" title="wikilink">ハナミズキ</a>（<a href="https://ja.wikipedia.org/wiki/一青窈" title="wikilink">一青 窈</a>）</li>
+<li><a href="../Page/プロポーズ_(KANの曲).md" title="wikilink">プロポーズ</a>（Bank Band）</li>
+<li><a href="../Page/ストレンジ_カメレオン.md" title="wikilink">ストレンジ カメレオン</a>（the pillows）</li>
+<li><a href="../Page/ハナミズキ_(曲).md" title="wikilink">ハナミズキ</a>（<a href="https://ja.wikipedia.org/wiki/一青窈" title="wikilink">一青 窈</a>）</li>
 <li>Valon-1（<a href="https://ja.wikipedia.org/wiki/Salyu" title="wikilink">Salyu</a>）</li>
 <li>Documentary 1</li>
 <li><a href="../Page/情熱の薔薇.md" title="wikilink">情熱の薔薇</a>（Bank Band）</li>
@@ -415,11 +415,11 @@
 </dl>
 <ol>
 <li>Documentary 3</li>
-<li><a href="https://ja.wikipedia.org/wiki/アゲハ蝶" title="wikilink">アゲハ蝶</a>（<a href="https://ja.wikipedia.org/wiki/ポルノグラフィティ" title="wikilink">ポルノグラフィティ</a>）</li>
+<li><a href="../Page/アゲハ蝶.md" title="wikilink">アゲハ蝶</a>（<a href="https://ja.wikipedia.org/wiki/ポルノグラフィティ" title="wikilink">ポルノグラフィティ</a>）</li>
 <li><a href="https://ja.wikipedia.org/wiki/FIND_THE_WAY" title="wikilink">FIND THE WAY</a>（<a href="https://ja.wikipedia.org/wiki/中島美嘉" title="wikilink">中島美嘉</a>）</li>
 <li>Documentary 4</li>
-<li>昨日のNo, 明日のYes（<a href="https://ja.wikipedia.org/wiki/GAKU-MC" title="wikilink">GAKU-MC</a>）</li>
-<li><a href="https://ja.wikipedia.org/wiki/ストーリー_(スガシカオの曲)" title="wikilink">ストーリー</a>（<a href="https://ja.wikipedia.org/wiki/スガシカオ" title="wikilink">スガシカオ</a>）</li>
+<li>昨日のNo, 明日のYes（<a href="../Page/GAKU-MC.md" title="wikilink">GAKU-MC</a>）</li>
+<li><a href="../Page/ストーリー_(スガシカオの曲).md" title="wikilink">ストーリー</a>（<a href="../Page/スガシカオ.md" title="wikilink">スガシカオ</a>）</li>
 <li>Documentary 5</li>
 <li><a href="https://ja.wikipedia.org/wiki/佐野元春#Young_Bloods" title="wikilink">Young Bloods</a>（<a href="../Page/佐野元春.md" title="wikilink">佐野元春</a>）</li>
 </ol>
@@ -436,8 +436,8 @@
 </dl>
 <ol>
 <li>Documentary 6</li>
-<li><a href="https://ja.wikipedia.org/wiki/全力少年" title="wikilink">全力少年</a>（<a href="https://ja.wikipedia.org/wiki/スキマスイッチ" title="wikilink">スキマスイッチ</a>）</li>
-<li><a href="https://ja.wikipedia.org/wiki/Swallowtail_Butterfly_〜あいのうた〜" title="wikilink">Swallowtail Butterfly 〜あいのうた〜</a>（<a href="https://ja.wikipedia.org/wiki/CHARA" title="wikilink">CHARA</a>）</li>
+<li><a href="../Page/全力少年.md" title="wikilink">全力少年</a>（<a href="../Page/スキマスイッチ.md" title="wikilink">スキマスイッチ</a>）</li>
+<li><a href="../Page/Swallowtail_Butterfly_〜あいのうた〜.md" title="wikilink">Swallowtail Butterfly 〜あいのうた〜</a>（<a href="https://ja.wikipedia.org/wiki/CHARA" title="wikilink">CHARA</a>）</li>
 <li><a href="https://ja.wikipedia.org/wiki/Home_Bound#収録曲" title="wikilink">家路</a>（<a href="https://ja.wikipedia.org/wiki/浜田省吾" title="wikilink">浜田省吾</a>）</li>
 <li><a href="https://ja.wikipedia.org/wiki/沿志奏逢#収録曲" title="wikilink">HERO</a>（Bank Band）</li>
 <li><a href="https://ja.wikipedia.org/wiki/命の別名/糸" title="wikilink">糸</a>（Bank Band）</li>
@@ -480,14 +480,14 @@
 <ol>
 <li><a href="https://ja.wikipedia.org/wiki/沿志奏逢2#収録曲" title="wikilink">何の変哲もないLove Song</a>（Bank Band）</li>
 <li>Documentary 1</li>
-<li><a href="../Page/太陽の下.md" title="wikilink">太陽の下</a>（<a href="https://ja.wikipedia.org/wiki/レミオロメン" title="wikilink">レミオロメン</a>）</li>
+<li><a href="../Page/太陽の下.md" title="wikilink">太陽の下</a>（<a href="../Page/レミオロメン.md" title="wikilink">レミオロメン</a>）</li>
 <li><a href="https://ja.wikipedia.org/wiki/つづく#収録曲および参加ミュージシャン" title="wikilink">君が降りてきた夏</a>（Bank Band）</li>
 <li><a href="../Page/星のラブレター.md" title="wikilink">星のラブレター</a>（Bank Band）</li>
-<li><a href="https://ja.wikipedia.org/wiki/桜_(コブクロの曲)" title="wikilink">桜</a>（<a href="https://ja.wikipedia.org/wiki/コブクロ" title="wikilink">コブクロ</a>）</li>
+<li><a href="../Page/桜_(コブクロの曲).md" title="wikilink">桜</a>（<a href="https://ja.wikipedia.org/wiki/コブクロ" title="wikilink">コブクロ</a>）</li>
 <li><a href="https://ja.wikipedia.org/wiki/OUTGROW#収録曲" title="wikilink">cosmic eyes</a>（<a href="../Page/BoA.md" title="wikilink">BoA</a>）</li>
 <li>Documentary 2</li>
 <li>風に乗る船（Salyu）</li>
-<li><a href="https://ja.wikipedia.org/wiki/メリッサ_(曲)" title="wikilink">メリッサ</a>（ポルノグラフィティ）</li>
+<li><a href="../Page/メリッサ_(曲).md" title="wikilink">メリッサ</a>（ポルノグラフィティ）</li>
 <li><a href="https://ja.wikipedia.org/wiki/EPLP#収録曲" title="wikilink">わかってもらえるさ</a>（Bank Band）</li>
 <li><a href="https://ja.wikipedia.org/wiki/シングル・マン_(RCサクセションのアルバム)#収録曲" title="wikilink">スローバラード</a>（Bank Band）</li>
 <li><a href="https://ja.wikipedia.org/wiki/EPLP#収録曲" title="wikilink">雨上がりの夜空に</a>（Bank Band）</li>
@@ -510,13 +510,13 @@
 <li>Documentary 3</li>
 <li><a href="https://ja.wikipedia.org/wiki/Street_Story#収録曲" title="wikilink">AM11:00</a>（<a href="https://ja.wikipedia.org/wiki/HY_(バンド)" title="wikilink">HY</a>）</li>
 <li>Documentary 4</li>
-<li><a href="https://ja.wikipedia.org/wiki/ボクノート" title="wikilink">ボクノート</a>（スキマスイッチ）</li>
-<li><a href="https://ja.wikipedia.org/wiki/Dreamland_(BENNIE_Kの曲)" title="wikilink">Dreamland</a>（<a href="https://ja.wikipedia.org/wiki/BENNIE_K" title="wikilink">BENNIE K</a>）</li>
+<li><a href="../Page/ボクノート.md" title="wikilink">ボクノート</a>（スキマスイッチ）</li>
+<li><a href="../Page/Dreamland_(BENNIE_Kの曲).md" title="wikilink">Dreamland</a>（<a href="https://ja.wikipedia.org/wiki/BENNIE_K" title="wikilink">BENNIE K</a>）</li>
 <li><a href="https://ja.wikipedia.org/wiki/BESTYO#収録曲" title="wikilink">てんとう虫</a>（一青 窈）</li>
 <li>Documentary 5</li>
 <li><a href="https://ja.wikipedia.org/wiki/佐野元春#SOMEDAY" title="wikilink">SOMEDAY</a>（Bank Band）</li>
-<li><a href="https://ja.wikipedia.org/wiki/ラブ・ストーリーは突然に" title="wikilink">ラブ・ストーリーは突然に</a>（<a href="../Page/小田和正.md" title="wikilink">小田和正</a>）</li>
-<li><a href="https://ja.wikipedia.org/wiki/言葉にできない" title="wikilink">言葉にできない</a>（小田和正）</li>
+<li><a href="../Page/ラブ・ストーリーは突然に.md" title="wikilink">ラブ・ストーリーは突然に</a>（<a href="../Page/小田和正.md" title="wikilink">小田和正</a>）</li>
+<li><a href="../Page/言葉にできない.md" title="wikilink">言葉にできない</a>（小田和正）</li>
 <li><a href="https://ja.wikipedia.org/wiki/晴天を誉めるなら夕暮れを待て" title="wikilink">晴天を誉めるなら夕暮れを待て</a>（<a href="https://ja.wikipedia.org/wiki/ASKA" title="wikilink">ASKA</a>）</li>
 <li><a href="https://ja.wikipedia.org/wiki/kicks#収録曲" title="wikilink">同じ時代を</a>（ASKA）</li>
 <li>Documentary 6</li>
@@ -538,17 +538,17 @@
 <li>Documentary 7</li>
 <li><a href="../Page/街_(くるりの曲).md" title="wikilink">街</a>（<a href="../Page/くるり.md" title="wikilink">くるり</a>）</li>
 <li><a href="https://ja.wikipedia.org/wiki/Pink_in_Red#収録曲" title="wikilink">Souldiers</a>（<a href="https://ja.wikipedia.org/wiki/BONNIE_PINK" title="wikilink">BONNIE PINK</a>）</li>
-<li><a href="../Page/国民的行事_(曲).md" title="wikilink">国民的行事</a>（<a href="https://ja.wikipedia.org/wiki/KREVA" title="wikilink">KREVA</a>）</li>
-<li><a href="../Page/PRIDE_(今井美樹の曲).md" title="wikilink">PRIDE</a>（<a href="https://ja.wikipedia.org/wiki/今井美樹" title="wikilink">今井美樹</a>）</li>
+<li><a href="../Page/国民的行事_(曲).md" title="wikilink">国民的行事</a>（<a href="../Page/KREVA.md" title="wikilink">KREVA</a>）</li>
+<li><a href="../Page/PRIDE_(今井美樹の曲).md" title="wikilink">PRIDE</a>（<a href="../Page/今井美樹.md" title="wikilink">今井美樹</a>）</li>
 <li>Documentary 8</li>
-<li><a href="https://ja.wikipedia.org/wiki/手を出すな!" title="wikilink">手を出すな!</a>（GAKU-MC）</li>
+<li><a href="../Page/手を出すな!.md" title="wikilink">手を出すな!</a>（GAKU-MC）</li>
 <li><a href="https://ja.wikipedia.org/wiki/innocent_world" title="wikilink">innocent world</a>（<a href="https://ja.wikipedia.org/wiki/桑田佳祐" title="wikilink">桑田佳祐</a>）</li>
-<li><a href="https://ja.wikipedia.org/wiki/希望の轍" title="wikilink">希望の轍</a>（桑田佳祐）</li>
-<li><a href="https://ja.wikipedia.org/wiki/奇跡の地球" title="wikilink">奇跡の地球</a>（桑田佳祐）</li>
+<li><a href="../Page/希望の轍.md" title="wikilink">希望の轍</a>（桑田佳祐）</li>
+<li><a href="../Page/奇跡の地球.md" title="wikilink">奇跡の地球</a>（桑田佳祐）</li>
 <li><a href="../Page/HERO_(Mr.Childrenの曲).md" title="wikilink">HERO</a>（Mr.Children）</li>
 <li>ストレンジ カメレオン（the pillows）</li>
-<li><a href="https://ja.wikipedia.org/wiki/終わりなき旅" title="wikilink">終わりなき旅</a>（Mr.Children）</li>
-<li><a href="https://ja.wikipedia.org/wiki/箒星_(曲)" title="wikilink">箒星</a>（Mr.Children）</li>
+<li><a href="../Page/終わりなき旅.md" title="wikilink">終わりなき旅</a>（Mr.Children）</li>
+<li><a href="../Page/箒星_(曲).md" title="wikilink">箒星</a>（Mr.Children）</li>
 <li>Documentary 9</li>
 <li>to U（Bank Band with Great Artists &amp; Mr.Children）</li>
 </ol>
@@ -586,10 +586,10 @@
 <li>Documentary 1</li>
 <li><a href="https://ja.wikipedia.org/wiki/DON&#39;T_STOP_A.I.#収録曲" title="wikilink">I'll Remember You</a>（<a href="https://ja.wikipedia.org/wiki/AI_(歌手)" title="wikilink">AI</a>）</li>
 <li><a href="https://ja.wikipedia.org/wiki/Story_(AIの曲)" title="wikilink">Story</a>（AI）</li>
-<li><a href="https://ja.wikipedia.org/wiki/くればいいのに_feat.草野マサムネ_from_SPITZ_(Single_Edit)" title="wikilink">くればいいのに</a>（KREVA）</li>
+<li><a href="../Page/くればいいのに_feat.草野マサムネ_from_SPITZ_(Single_Edit).md" title="wikilink">くればいいのに</a>（KREVA）</li>
 <li><a href="../Page/アグレッシ部.md" title="wikilink">アグレッシ部</a>（KREVA）</li>
 <li>Documentary 2</li>
-<li><a href="https://ja.wikipedia.org/wiki/Jewelry_day" title="wikilink">Jewelry day</a>（<a href="https://ja.wikipedia.org/wiki/絢香" title="wikilink">絢香</a>）</li>
+<li><a href="../Page/Jewelry_day.md" title="wikilink">Jewelry day</a>（<a href="https://ja.wikipedia.org/wiki/絢香" title="wikilink">絢香</a>）</li>
 <li><a href="https://ja.wikipedia.org/wiki/Real_voice#収録曲" title="wikilink">Peace loving people</a>（絢香）</li>
 <li>流れ歌（<a href="../Page/東田トモヒロ.md" title="wikilink">東田トモヒロ</a>）</li>
 <li>Documentary 3</li>
@@ -602,16 +602,16 @@
 </dl>
 <ol>
 <li><a href="https://ja.wikipedia.org/wiki/歌うたいのバラッド" title="wikilink">歌うたいのバラッド</a>（Bank Band）</li>
-<li><a href="https://ja.wikipedia.org/wiki/ミニヨン_(大貫妙子のアルバム)#曲目" title="wikilink">突然の贈りもの</a>（<a href="https://ja.wikipedia.org/wiki/大貫妙子" title="wikilink">大貫妙子</a>）</li>
+<li><a href="https://ja.wikipedia.org/wiki/ミニヨン_(大貫妙子のアルバム)#曲目" title="wikilink">突然の贈りもの</a>（<a href="../Page/大貫妙子.md" title="wikilink">大貫妙子</a>）</li>
 <li><a href="https://ja.wikipedia.org/wiki/クリシェ_(大貫妙子のアルバム)#曲目" title="wikilink">色彩都市</a>（大貫妙子）</li>
 <li>Documentary 5</li>
 <li>世界でいちばん好きな人（<a href="../Page/KAN.md" title="wikilink">KAN</a>）</li>
-<li><a href="https://ja.wikipedia.org/wiki/愛は勝つ" title="wikilink">愛は勝つ</a>（KAN）</li>
-<li>この空を飛べたら（<a href="https://ja.wikipedia.org/wiki/加藤登紀子" title="wikilink">加藤登紀子</a>）</li>
+<li><a href="../Page/愛は勝つ.md" title="wikilink">愛は勝つ</a>（KAN）</li>
+<li>この空を飛べたら（<a href="../Page/加藤登紀子.md" title="wikilink">加藤登紀子</a>）</li>
 <li><a href="../Page/愛の讃歌.md" title="wikilink">愛の讃歌</a>（加藤登紀子）</li>
 <li>Documentary 6</li>
-<li><a href="https://ja.wikipedia.org/wiki/蕾_(コブクロの曲)" title="wikilink">蕾</a>（コブクロ）</li>
-<li><a href="https://ja.wikipedia.org/wiki/君という名の翼" title="wikilink">君という名の翼</a>（コブクロ）</li>
+<li><a href="../Page/蕾_(コブクロの曲).md" title="wikilink">蕾</a>（コブクロ）</li>
+<li><a href="../Page/君という名の翼.md" title="wikilink">君という名の翼</a>（コブクロ）</li>
 <li><a href="../Page/WINDING_ROAD_(絢香×コブクロの曲).md" title="wikilink">WINDING ROAD</a>（<a href="../Page/絢香×コブクロ.md" title="wikilink">絢香×コブクロ</a>）</li>
 <li><a href="https://ja.wikipedia.org/wiki/BEAT_EMOTION#収録曲" title="wikilink">B・E・L・I・E・V・E</a>（<a href="../Page/氷室京介.md" title="wikilink">氷室京介</a>）</li>
 <li><a href="https://ja.wikipedia.org/wiki/NEO_FASCIO#収録曲" title="wikilink">CALLING</a>（氷室京介）</li>
@@ -650,18 +650,18 @@
 <li>よく来たね（Bank Band）</li>
 <li>世界が今夜終わるなら（GAKU-MC）</li>
 <li>Documentary 1</li>
-<li><a href="https://ja.wikipedia.org/wiki/Water_Me" title="wikilink">Water Me</a>（BONNIE PINK）</li>
-<li><a href="https://ja.wikipedia.org/wiki/受け入れて" title="wikilink">受け入れて</a>（一青 窈）</li>
-<li><a href="https://ja.wikipedia.org/wiki/Kind_of_Love#収録曲" title="wikilink">星になれたら</a>（<a href="https://ja.wikipedia.org/wiki/大橋卓弥" title="wikilink">大橋卓弥</a> from スキマスイッチ）</li>
+<li><a href="../Page/Water_Me.md" title="wikilink">Water Me</a>（BONNIE PINK）</li>
+<li><a href="../Page/受け入れて.md" title="wikilink">受け入れて</a>（一青 窈）</li>
+<li><a href="https://ja.wikipedia.org/wiki/Kind_of_Love#収録曲" title="wikilink">星になれたら</a>（<a href="../Page/大橋卓弥.md" title="wikilink">大橋卓弥</a> from スキマスイッチ）</li>
 <li><a href="https://ja.wikipedia.org/wiki/everyhome" title="wikilink">everyhome</a>（<a href="https://ja.wikipedia.org/wiki/鬼束ちひろ" title="wikilink">鬼束ちひろ</a>）</li>
 <li>Documentary 2</li>
 <li><a href="https://ja.wikipedia.org/wiki/DON&#39;T_STOP_A.I.#収録曲" title="wikilink">大切なもの</a>（AI）</li>
 <li><a href="https://ja.wikipedia.org/wiki/WONDERFUL_WORLD_(ゆずのアルバム)#収録曲" title="wikilink">ワンダフルワールド</a>（<a href="https://ja.wikipedia.org/wiki/ゆず_(音楽グループ)" title="wikilink">ゆず</a>）</li>
-<li><a href="https://ja.wikipedia.org/wiki/名もなき詩" title="wikilink">名もなき詩</a>（ASKA）</li>
+<li><a href="../Page/名もなき詩.md" title="wikilink">名もなき詩</a>（ASKA）</li>
 <li><a href="https://ja.wikipedia.org/wiki/YAH_YAH_YAH/夢の番人" title="wikilink">YAH YAH YAH</a>（ASKA）</li>
 <li>Documentary 3（<a href="https://ja.wikipedia.org/wiki/伊藤由奈" title="wikilink">伊藤由奈</a> Special Live）</li>
-<li>ハミングバード（<a href="https://ja.wikipedia.org/wiki/Caravan" title="wikilink">Caravan</a>）</li>
-<li>Mirror feat.Salyu（<a href="https://ja.wikipedia.org/wiki/WISE" title="wikilink">WISE</a>）</li>
+<li>ハミングバード（<a href="../Page/Caravan.md" title="wikilink">Caravan</a>）</li>
+<li>Mirror feat.Salyu（<a href="../Page/WISE.md" title="wikilink">WISE</a>）</li>
 <li>パノラマ（<a href="https://ja.wikipedia.org/wiki/ヨースケ@HOME" title="wikilink">ヨースケ@HOME</a>）</li>
 </ol>
 <ul>
@@ -677,15 +677,15 @@
 <ol>
 <li>Documentary 4</li>
 <li>風に乗る船（Salyu）</li>
-<li><a href="https://ja.wikipedia.org/wiki/友達の詩" title="wikilink">友達の詩</a>（<a href="https://ja.wikipedia.org/wiki/中村中" title="wikilink">中村 中</a>）</li>
-<li><a href="https://ja.wikipedia.org/wiki/ロマンスの神様" title="wikilink">ロマンスの神様</a>（<a href="https://ja.wikipedia.org/wiki/広瀬香美" title="wikilink">広瀬香美</a>）</li>
+<li><a href="../Page/友達の詩.md" title="wikilink">友達の詩</a>（<a href="https://ja.wikipedia.org/wiki/中村中" title="wikilink">中村 中</a>）</li>
+<li><a href="../Page/ロマンスの神様.md" title="wikilink">ロマンスの神様</a>（<a href="https://ja.wikipedia.org/wiki/広瀬香美" title="wikilink">広瀬香美</a>）</li>
 <li>Documentary 5</li>
 <li><a href="https://ja.wikipedia.org/wiki/沿志奏逢#収録曲" title="wikilink">優しい歌</a>（Bank Band）</li>
 <li>何の変哲もないLove Song（KAN）</li>
-<li><a href="https://ja.wikipedia.org/wiki/プラネタリウム_(大塚愛の曲)" title="wikilink">プラネタリウム</a>（<a href="https://ja.wikipedia.org/wiki/大塚愛" title="wikilink">大塚 愛</a>）</li>
-<li><a href="https://ja.wikipedia.org/wiki/FUNFAIR#収録曲" title="wikilink">Remember</a>（<a href="https://ja.wikipedia.org/wiki/RIP_SLYME" title="wikilink">RIP SLYME</a>）</li>
-<li><a href="https://ja.wikipedia.org/wiki/Tomorrow_never_knows_(Mr.Childrenの曲)" title="wikilink">Tomorrow never knows</a>（小田和正）</li>
-<li><a href="https://ja.wikipedia.org/wiki/たしかなこと" title="wikilink">たしかなこと</a>（小田和正）</li>
+<li><a href="../Page/プラネタリウム_(大塚愛の曲).md" title="wikilink">プラネタリウム</a>（<a href="https://ja.wikipedia.org/wiki/大塚愛" title="wikilink">大塚 愛</a>）</li>
+<li><a href="https://ja.wikipedia.org/wiki/FUNFAIR#収録曲" title="wikilink">Remember</a>（<a href="../Page/RIP_SLYME.md" title="wikilink">RIP SLYME</a>）</li>
+<li><a href="../Page/Tomorrow_never_knows_(Mr.Childrenの曲).md" title="wikilink">Tomorrow never knows</a>（小田和正）</li>
+<li><a href="../Page/たしかなこと.md" title="wikilink">たしかなこと</a>（小田和正）</li>
 <li>はるまついぶき（Bank Band）</li>
 <li>Documentary 6</li>
 <li><a href="https://ja.wikipedia.org/wiki/もっと遠くへ/オーケストラ" title="wikilink">もっと遠くへ</a>（レミオロメン）</li>
@@ -704,21 +704,21 @@
 </dl>
 <ol>
 <li>Documentary 7</li>
-<li><a href="https://ja.wikipedia.org/wiki/Jupiter_(平原綾香の曲)" title="wikilink">Jupiter</a>（<a href="https://ja.wikipedia.org/wiki/平原綾香" title="wikilink">平原綾香</a>）</li>
+<li><a href="../Page/Jupiter_(平原綾香の曲).md" title="wikilink">Jupiter</a>（<a href="https://ja.wikipedia.org/wiki/平原綾香" title="wikilink">平原綾香</a>）</li>
 <li><a href="https://ja.wikipedia.org/wiki/よろしくお願いします#収録曲" title="wikilink">ため息はCO2</a>（KREVA）</li>
 <li>Documentary 8</li>
-<li><a href="https://ja.wikipedia.org/wiki/Hello,_Again_〜昔からある場所〜" title="wikilink">Hello, Again 〜昔からある場所〜</a>（<a href="https://ja.wikipedia.org/wiki/My_Little_Lover" title="wikilink">My Little Lover</a>）</li>
+<li><a href="../Page/Hello,_Again_〜昔からある場所〜.md" title="wikilink">Hello, Again 〜昔からある場所〜</a>（<a href="https://ja.wikipedia.org/wiki/My_Little_Lover" title="wikilink">My Little Lover</a>）</li>
 <li><a href="https://ja.wikipedia.org/wiki/手をつなごう/愛を歌おう" title="wikilink">手をつなごう</a>（絢香）</li>
-<li><a href="https://ja.wikipedia.org/wiki/あなたと" title="wikilink">あなたと</a>（絢香×コブクロ）</li>
+<li><a href="../Page/あなたと.md" title="wikilink">あなたと</a>（絢香×コブクロ）</li>
 <li>蕾（コブクロ）</li>
 <li><a href="https://ja.wikipedia.org/wiki/裏切り御免" title="wikilink">裏切り御免</a>（<a href="https://ja.wikipedia.org/wiki/The_THREE" title="wikilink">The THREE</a>【<a href="../Page/布袋寅泰.md" title="wikilink">布袋寅泰</a>×KREVA×亀田誠治】）</li>
 <li>POISON（布袋寅泰）</li>
-<li><a href="https://ja.wikipedia.org/wiki/緑の街_(小田和正の曲)" title="wikilink">緑の街</a>（Bank Band）</li>
+<li><a href="../Page/緑の街_(小田和正の曲).md" title="wikilink">緑の街</a>（Bank Band）</li>
 <li><a href="https://ja.wikipedia.org/wiki/DISCOVERY_(Mr.Childrenのアルバム)#収録曲" title="wikilink">ラララ</a>（Mr.Children）</li>
 <li><a href="https://ja.wikipedia.org/wiki/HANABI_(Mr.Childrenの曲)" title="wikilink">HANABI</a>（Mr.Children）</li>
-<li><a href="https://ja.wikipedia.org/wiki/フェイク_(Mr.Childrenの曲)" title="wikilink">フェイク</a>（Mr.Children）</li>
+<li><a href="../Page/フェイク_(Mr.Childrenの曲).md" title="wikilink">フェイク</a>（Mr.Children）</li>
 <li><a href="https://ja.wikipedia.org/wiki/掌/くるみ" title="wikilink">掌</a>（Mr.Children）</li>
-<li><a href="https://ja.wikipedia.org/wiki/GIFT_(Mr.Childrenの曲)" title="wikilink">GIFT</a>（Mr.Children）</li>
+<li><a href="../Page/GIFT_(Mr.Childrenの曲).md" title="wikilink">GIFT</a>（Mr.Children）</li>
 <li>Documentary 9</li>
 <li>to U（Bank Band with Great Artists &amp; Mr.Children）</li>
 <li>END ROLL</li>
@@ -751,14 +751,14 @@
 <ol>
 <li>OPENING</li>
 <li>糸（Bank Band）</li>
-<li><a href="https://ja.wikipedia.org/wiki/ヒートウェイヴ" title="wikilink">明日のために靴を磨こう</a>（Bank Band）</li>
+<li><a href="../Page/ヒートウェイヴ.md" title="wikilink">明日のために靴を磨こう</a>（Bank Band）</li>
 <li>Documentary 1</li>
 <li>手を出すな!（GAKU-MC）</li>
 <li>台風警報（中村 中）</li>
-<li><a href="https://ja.wikipedia.org/wiki/白いカイト" title="wikilink">白いカイト</a>（My Little Lover）</li>
+<li><a href="../Page/白いカイト.md" title="wikilink">白いカイト</a>（My Little Lover）</li>
 <li><a href="https://ja.wikipedia.org/wiki/CHANGE_(福原美穂の曲)" title="wikilink">CHANGE</a>（<a href="https://ja.wikipedia.org/wiki/福原美穂" title="wikilink">福原美穂</a>）</li>
 <li>Documentary 2</li>
-<li><a href="https://ja.wikipedia.org/wiki/ネコに風船" title="wikilink">ネコに風船</a>（大塚 愛）</li>
+<li><a href="../Page/ネコに風船.md" title="wikilink">ネコに風船</a>（大塚 愛）</li>
 <li><a href="https://ja.wikipedia.org/wiki/破れたハートを売り物に_(曲)" title="wikilink">破れたハートを売り物に</a>（<a href="../Page/甲斐よしひろ.md" title="wikilink">甲斐よしひろ</a>）</li>
 <li><a href="https://ja.wikipedia.org/wiki/FIRST#収録曲" title="wikilink">ミュージック</a>（トータス松本）</li>
 <li><a href="https://ja.wikipedia.org/wiki/明星_(曲)" title="wikilink">明星</a>（トータス松本）</li>
@@ -783,7 +783,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/RAW_LIFE#収録曲" title="wikilink">煙突のある街</a>（Bank Band）</li>
 <li>Documentary 5</li>
 <li>スローバラード（Bank Band）</li>
-<li><a href="https://ja.wikipedia.org/wiki/Progress_(kokuaの曲)" title="wikilink">Progress (kōkua ver.)</a>（スガシカオ）</li>
+<li><a href="../Page/Progress_(kokuaの曲).md" title="wikilink">Progress (kōkua ver.)</a>（スガシカオ）</li>
 <li>未来は何処?（今井美樹）</li>
 <li><a href="https://ja.wikipedia.org/wiki/君がいるだけで/愛してる" title="wikilink">君がいるだけで</a>（<a href="https://ja.wikipedia.org/wiki/石井竜也" title="wikilink">石井竜也</a>）</li>
 <li>遠い出来事（石井竜也）</li>
@@ -806,11 +806,11 @@
 <li>Documentary 8</li>
 <li><a href="https://ja.wikipedia.org/wiki/愛_NEED" title="wikilink">愛 NEED</a>（<a href="https://ja.wikipedia.org/wiki/キマグレン" title="wikilink">キマグレン</a>）</li>
 <li><a href="https://ja.wikipedia.org/wiki/やさしさで溢れるように" title="wikilink">やさしさで溢れるように</a>（<a href="https://ja.wikipedia.org/wiki/JUJU" title="wikilink">JUJU</a>）</li>
-<li><a href="https://ja.wikipedia.org/wiki/鱗_(曲)" title="wikilink">鱗 (うろこ)</a>（<a href="https://ja.wikipedia.org/wiki/秦基博" title="wikilink">秦 基博</a>）</li>
+<li><a href="../Page/鱗_(曲).md" title="wikilink">鱗 (うろこ)</a>（<a href="https://ja.wikipedia.org/wiki/秦基博" title="wikilink">秦 基博</a>）</li>
 <li><a href="https://ja.wikipedia.org/wiki/うんと幸せ" title="wikilink">うんと幸せ</a>（一青 窈）</li>
-<li><a href="https://ja.wikipedia.org/wiki/愛のうた_(倖田來未の曲)" title="wikilink">愛のうた</a>（<a href="https://ja.wikipedia.org/wiki/倖田來未" title="wikilink">倖田來未</a>）</li>
+<li><a href="../Page/愛のうた_(倖田來未の曲).md" title="wikilink">愛のうた</a>（<a href="https://ja.wikipedia.org/wiki/倖田來未" title="wikilink">倖田來未</a>）</li>
 <li>Documentary 9</li>
-<li>アリよさらば（<a href="https://ja.wikipedia.org/wiki/矢沢永吉" title="wikilink">矢沢永吉</a>）</li>
+<li>アリよさらば（<a href="../Page/矢沢永吉.md" title="wikilink">矢沢永吉</a>）</li>
 <li>SOMEBODY'S NIGHT（矢沢永吉）</li>
 <li>いつの日か（矢沢永吉）</li>
 <li><a href="https://ja.wikipedia.org/wiki/DISCOVERY_(Mr.Childrenのアルバム)#収録曲" title="wikilink">Simple</a>（Mr.Children）</li>
@@ -855,7 +855,7 @@
 <li>Documentary 1</li>
 <li>ちっぽけな勇気(<a href="https://ja.wikipedia.org/wiki/FUNKY_MONKEY_BABYS" title="wikilink">FUNKY MONKEY BABYS</a>)</li>
 <li>Raining(<a href="https://ja.wikipedia.org/wiki/Cocco" title="wikilink">Cocco</a>)</li>
-<li>タイガー&amp;ドラゴン(<a href="https://ja.wikipedia.org/wiki/横山剣" title="wikilink">横山剣</a>)</li>
+<li>タイガー&amp;ドラゴン(<a href="../Page/横山剣.md" title="wikilink">横山剣</a>)</li>
 <li>生きる。(横山剣)</li>
 <li>Documentary 2</li>
 <li>PADDLE(<a href="https://ja.wikipedia.org/wiki/Mr.Children" title="wikilink">Mr.Children</a>)</li>
@@ -882,11 +882,11 @@
 <li>ゴロワーズを吸ったことがあるかい(<a href="https://ja.wikipedia.org/wiki/ムッシュかまやつ" title="wikilink">ムッシュかまやつ</a>)</li>
 <li>バン・バン・バン(ムッシュかまやつ)</li>
 <li>Documentary 7</li>
-<li><a href="https://ja.wikipedia.org/wiki/レミオロメン" title="wikilink">レミオロメン</a><ダイジェスト>【収録曲： Starting Over / 雨上がり / スタンドバイミー / 明日に架かる橋 / 花鳥風月 / Sakura / 立つんだジョー】</li>
+<li><a href="../Page/レミオロメン.md" title="wikilink">レミオロメン</a><ダイジェスト>【収録曲： Starting Over / 雨上がり / スタンドバイミー / 明日に架かる橋 / 花鳥風月 / Sakura / 立つんだジョー】</li>
 <li><a href="../Page/MONGOL800.md" title="wikilink">MONGOL800</a><ダイジェスト>【収録曲： あなたに / Don’t Worry be Happy / ラッキー8 / 愛する花 / face to face / 神様 / 矛盾の上に咲く花 / 小さな恋のうた】</li>
-<li><a href="https://ja.wikipedia.org/wiki/フラワーカンパニーズ" title="wikilink">フラワーカンパニーズ</a><ダイジェスト>【収録曲： ロックンロール・スターダスト / 恋をしましょう / 元少年の歌 / 深夜高速 / 真冬の盆踊り】</li>
+<li><a href="../Page/フラワーカンパニーズ.md" title="wikilink">フラワーカンパニーズ</a><ダイジェスト>【収録曲： ロックンロール・スターダスト / 恋をしましょう / 元少年の歌 / 深夜高速 / 真冬の盆踊り】</li>
 <li>Documentary 8</li>
-<li>ハミングライフ(<a href="https://ja.wikipedia.org/wiki/GOING_UNDER_GROUND" title="wikilink">GOING UNDER GROUND</a>)</li>
+<li>ハミングライフ(<a href="../Page/GOING_UNDER_GROUND.md" title="wikilink">GOING UNDER GROUND</a>)</li>
 <li>今宵の月のように(<a href="https://ja.wikipedia.org/wiki/エレファントカシマシ" title="wikilink">エレファントカシマシ</a>)</li>
 <li>Documentary 9</li>
 <li>to U(Bank Band with Salyu)</li>
@@ -897,9 +897,9 @@
 </dl>
 <ol>
 <li>Documentary 10</li>
-<li>旅人(<a href="https://ja.wikipedia.org/wiki/スキマスイッチ" title="wikilink">スキマスイッチ</a>)</li>
-<li>ラストヴァース(<a href="https://ja.wikipedia.org/wiki/RHYMESTER" title="wikilink">RHYMESTER</a>)</li>
-<li>LA・LA・LA LOVE SONG(<a href="https://ja.wikipedia.org/wiki/久保田利伸" title="wikilink">久保田利伸</a>)</li>
+<li>旅人(<a href="../Page/スキマスイッチ.md" title="wikilink">スキマスイッチ</a>)</li>
+<li>ラストヴァース(<a href="../Page/RHYMESTER.md" title="wikilink">RHYMESTER</a>)</li>
+<li>LA・LA・LA LOVE SONG(<a href="../Page/久保田利伸.md" title="wikilink">久保田利伸</a>)</li>
 <li>LOVE RAIN〜恋の雨〜(久保田利伸)</li>
 <li>Documentary 11</li>
 <li>有心論(Bank Band)</li>
@@ -908,7 +908,7 @@
 <li>糸(Bank Band)</li>
 <li>煙突のある街(Bank Band)</li>
 <li>僕と彼女と週末に(Bank Band)</li>
-<li>ハートビート(<a href="https://ja.wikipedia.org/wiki/GOING_UNDER_GROUND" title="wikilink">GOING UNDER GROUND</a>)</li>
+<li>ハートビート(<a href="../Page/GOING_UNDER_GROUND.md" title="wikilink">GOING UNDER GROUND</a>)</li>
 <li>若者のすべて(Bank Band)</li>
 <li>Reborn(Bank Band)</li>
 <li>歓喜の歌(Bank Band)</li>
@@ -947,7 +947,7 @@
 <li>Drifter(Bank Band)</li>
 <li>時代(一青窈)</li>
 <li>ファスナー(スガシカオ)</li>
-<li>ENDLESS SUMMER NUDE(<a href="https://ja.wikipedia.org/wiki/真心ブラザーズ" title="wikilink">真心ブラザーズ</a>)</li>
+<li>ENDLESS SUMMER NUDE(<a href="../Page/真心ブラザーズ.md" title="wikilink">真心ブラザーズ</a>)</li>
 <li>もっと遠くへ(レミオロメン)</li>
 <li>3月9日(レミオロメン)</li>
 <li>Documentary 4</li>
@@ -1104,7 +1104,7 @@ TFBQ-18134</p></td>
 ## 関連項目
 
   - [ap bank](https://ja.wikipedia.org/wiki/ap_bank "wikilink")
-  - [チャリティー](https://ja.wikipedia.org/wiki/チャリティー "wikilink")
+  - [チャリティー](../Page/チャリティー.md "wikilink")
   - [小林武史](../Page/小林武史.md "wikilink")
   - [Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")
 

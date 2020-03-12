@@ -1,7 +1,7 @@
 > この記事は[DETERMINATIONS](https://ja.wikipedia.org/wiki/DETERMINATIONS)から翻訳されています。
 
 
-**DETERMINATIONS**（デタミネーションズ）は[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")出身の9人組[スカ](../Page/スカ.md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。1990年結成。1999年[ソニーレコード](https://ja.wikipedia.org/wiki/ソニーレコード "wikilink")よりメジャーデビュー。2004年8月解散。バンド名は[スカタライツ](https://ja.wikipedia.org/wiki/スカタライツ "wikilink")の曲名に由来し、「結束」という意味。
+**DETERMINATIONS**（デタミネーションズ）は[大阪府](../Page/大阪府.md "wikilink")出身の9人組[スカ](../Page/スカ.md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。1990年結成。1999年[ソニーレコード](https://ja.wikipedia.org/wiki/ソニーレコード "wikilink")よりメジャーデビュー。2004年8月解散。バンド名は[スカタライツ](../Page/スカタライツ.md "wikilink")の曲名に由来し、「結束」という意味。
 
 ## メンバー
 
@@ -64,13 +64,13 @@
 
 ### 参加作品
 
-1.  [久保田利伸](https://ja.wikipedia.org/wiki/久保田利伸 "wikilink")「''' Candy Rain '''」（2001年11月14日）
+1.  [久保田利伸](../Page/久保田利伸.md "wikilink")「''' Candy Rain '''」（2001年11月14日）
       -
         3.Candy Rain(Instrumental-DETERMINATIONS version-)
 
 ## 関連項目
 
-  - [EGO-WRAPPIN'](https://ja.wikipedia.org/wiki/EGO-WRAPPIN' "wikilink")
+  - [EGO-WRAPPIN'](../Page/EGO-WRAPPIN'.md "wikilink")
 
 ## 外部リンク
 

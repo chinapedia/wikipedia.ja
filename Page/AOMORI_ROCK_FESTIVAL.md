@@ -9,30 +9,30 @@
 
   - 主催者である[成田大致](https://ja.wikipedia.org/wiki/成田大致 "wikilink")が立ち上げたイベント。
   - 当時10代だった音楽好き少年による"手作りロックフェスティバル"と各メディア紙面に掲載される。
-  - 「夏の魔物」は成田がファンだという[スピッツの](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")[楽曲からとったもの](https://ja.wikipedia.org/wiki/夏の魔物 "wikilink")。
+  - 「夏の魔物」は成田がファンだという[スピッツの](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")[楽曲からとったもの](../Page/夏の魔物.md "wikilink")。
   - 2017年、川崎市東扇島東公園特設ステージにて初の関東圏で開催。（タイトルは、「夏の魔物2017 in KAWASAKI」）\[1\]
   - 2018年、東京と大阪で開催。東京都内、および西日本で行われるのは今回が初。\[2\]
   - 2019年、埼玉と大阪で開催。埼玉は2デイズ開催となる。\[3\]
 
 ## AOMORI ROCK FESTIVAL '06
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月29日](../Page/7月29日.md "wikilink")
+  - [2006年](../Page/2006年.md "wikilink")[7月29日](../Page/7月29日.md "wikilink")
   - つがる市・森田町野外円形劇場
 
 <!-- end list -->
 
   -
-    [音楽と人](https://ja.wikipedia.org/wiki/音楽と人 "wikilink")にレポート掲載。
+    [音楽と人](../Page/音楽と人.md "wikilink")にレポート掲載。
 
 ### 出演
 
 <div style="float: left; vertical-align: top: white-space: nowrap; margin-right: 1em;">
 
-  - [シーナ&ザ・ロケッツ](https://ja.wikipedia.org/wiki/シーナ&ザ・ロケッツ "wikilink")
-  - [JITTERIN'JINN](https://ja.wikipedia.org/wiki/JITTERIN'JINN "wikilink")
-  - [The ピーズ](https://ja.wikipedia.org/wiki/The_ピーズ "wikilink")
-  - [ギターウルフ](https://ja.wikipedia.org/wiki/ギターウルフ "wikilink")
-  - [フラワーカンパニーズ](https://ja.wikipedia.org/wiki/フラワーカンパニーズ "wikilink")
+  - [シーナ&ザ・ロケッツ](../Page/シーナ&ザ・ロケッツ.md "wikilink")
+  - [JITTERIN'JINN](../Page/JITTERIN'JINN.md "wikilink")
+  - [The ピーズ](../Page/The_ピーズ.md "wikilink")
+  - [ギターウルフ](../Page/ギターウルフ.md "wikilink")
+  - [フラワーカンパニーズ](../Page/フラワーカンパニーズ.md "wikilink")
   - [うつみようこ](https://ja.wikipedia.org/wiki/うつみようこ "wikilink")\&YOKOLOCO BAND
 
 </div>
@@ -44,24 +44,24 @@
 <!-- end list -->
 
   -
-    （[遠藤ミチロウ](https://ja.wikipedia.org/wiki/遠藤ミチロウ "wikilink")＋[クハラカズユキ](https://ja.wikipedia.org/wiki/クハラカズユキ "wikilink")＋[山本久土](https://ja.wikipedia.org/wiki/山本久土 "wikilink")）
+    （[遠藤ミチロウ](../Page/遠藤ミチロウ.md "wikilink")＋[クハラカズユキ](../Page/クハラカズユキ.md "wikilink")＋[山本久土](https://ja.wikipedia.org/wiki/山本久土 "wikilink")）
 
 <!-- end list -->
 
-  - [DMBQ](https://ja.wikipedia.org/wiki/DMBQ "wikilink")
-  - [Radio Caroline](https://ja.wikipedia.org/wiki/Radio_Caroline "wikilink")
-  - [POLYSICS](https://ja.wikipedia.org/wiki/POLYSICS "wikilink")
-  - [あふりらんぽ](https://ja.wikipedia.org/wiki/あふりらんぽ "wikilink")
-  - [Scoobie Do](https://ja.wikipedia.org/wiki/Scoobie_Do "wikilink")
+  - [DMBQ](../Page/DMBQ.md "wikilink")
+  - [Radio Caroline](../Page/Radio_Caroline.md "wikilink")
+  - [POLYSICS](../Page/POLYSICS.md "wikilink")
+  - [あふりらんぽ](../Page/あふりらんぽ.md "wikilink")
+  - [Scoobie Do](../Page/Scoobie_Do.md "wikilink")
 
 </div>
 
 <div style="float: left; vertical-align: top: white-space: nowrap; margin-right: 1em;">
 
   - [toddle](https://ja.wikipedia.org/wiki/toddle "wikilink")
-  - [曽我部恵一](https://ja.wikipedia.org/wiki/曽我部恵一 "wikilink")
-  - [THE NEATBEATS](https://ja.wikipedia.org/wiki/THE_NEATBEATS "wikilink")
-  - [ニューロティカ](https://ja.wikipedia.org/wiki/ニューロティカ "wikilink")
+  - [曽我部恵一](../Page/曽我部恵一.md "wikilink")
+  - [THE NEATBEATS](../Page/THE_NEATBEATS.md "wikilink")
+  - [ニューロティカ](../Page/ニューロティカ.md "wikilink")
   - [うきぐも](https://ja.wikipedia.org/wiki/うきぐも "wikilink")
   - <small>[THE WAYBARK](https://ja.wikipedia.org/wiki/THE_WAYBARK "wikilink")\[4\]</small>
 
@@ -69,31 +69,31 @@
 
 ## AOMORI ROCK FESTIVAL '07
 
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[8月11日](../Page/8月11日.md "wikilink")
+  - [2007年](../Page/2007年.md "wikilink")[8月11日](../Page/8月11日.md "wikilink")
   - つがる市・森田町野外円形劇場
 
 ### 出演
 
 <div style="float: left; vertical-align: top: white-space: nowrap; margin-right: 1em;">
 
-  - [曽我部恵一](https://ja.wikipedia.org/wiki/曽我部恵一 "wikilink")BAND
+  - [曽我部恵一](../Page/曽我部恵一.md "wikilink")BAND
   - [ロリータ18号](../Page/ロリータ18号.md "wikilink")
-  - [少年ナイフ](https://ja.wikipedia.org/wiki/少年ナイフ "wikilink")
-  - [Scoobie Do](https://ja.wikipedia.org/wiki/Scoobie_Do "wikilink")
+  - [少年ナイフ](../Page/少年ナイフ.md "wikilink")
+  - [Scoobie Do](../Page/Scoobie_Do.md "wikilink")
   - [bonobos](https://ja.wikipedia.org/wiki/bonobos "wikilink")
   - [三上寛](https://ja.wikipedia.org/wiki/三上寛 "wikilink")
-  - [向井秀徳](https://ja.wikipedia.org/wiki/向井秀徳 "wikilink")アコースティック&エレクトリック
-  - [PANTA](https://ja.wikipedia.org/wiki/パンタ_\(歌手\) "wikilink")
-  - [SNAIL RAMP](https://ja.wikipedia.org/wiki/SNAIL_RAMP "wikilink")
+  - [向井秀徳](../Page/向井秀徳.md "wikilink")アコースティック&エレクトリック
+  - [PANTA](../Page/パンタ_\(歌手\).md "wikilink")
+  - [SNAIL RAMP](../Page/SNAIL_RAMP.md "wikilink")
 
 </div>
 
 <div style="float: left; vertical-align: top: white-space: nowrap; margin-right: 1em;">
 
   - うつみようこ＆YOKOLOCO BAND
-  - [フラワーカンパニーズ](https://ja.wikipedia.org/wiki/フラワーカンパニーズ "wikilink")
-  - [ズボンズ](https://ja.wikipedia.org/wiki/ズボンズ "wikilink")
-  - [ギターウルフ](https://ja.wikipedia.org/wiki/ギターウルフ "wikilink")
+  - [フラワーカンパニーズ](../Page/フラワーカンパニーズ.md "wikilink")
+  - [ズボンズ](../Page/ズボンズ.md "wikilink")
+  - [ギターウルフ](../Page/ギターウルフ.md "wikilink")
   - [毛皮のマリーズ](https://ja.wikipedia.org/wiki/毛皮のマリーズ "wikilink")
   - さくら丸
   - うきぐも
@@ -108,8 +108,8 @@
 <!-- end list -->
 
   - [みちのくプロレス](../Page/みちのくプロレス.md "wikilink")
-  - [格闘探偵団バトラーツ](https://ja.wikipedia.org/wiki/格闘探偵団バトラーツ "wikilink")
-  - [佐野直](https://ja.wikipedia.org/wiki/佐野直 "wikilink")
+  - [格闘探偵団バトラーツ](../Page/格闘探偵団バトラーツ.md "wikilink")
+  - [佐野直](../Page/佐野直.md "wikilink")
   - ピンクタイガー
 
 <!-- end list -->
@@ -119,7 +119,7 @@
 <!-- end list -->
 
   - [アントーニオ本多](../Page/アントーニオ本多.md "wikilink")
-  - [レイチェル安藤](https://ja.wikipedia.org/wiki/安藤あや菜 "wikilink")
+  - [レイチェル安藤](../Page/安藤あや菜.md "wikilink")
 
 <!-- end list -->
 
@@ -137,32 +137,32 @@
 
   -
     当初は青森市・問屋町ビッグサイトによる開催が予定されていたが、一般販売を前にチケットが先行だけで予定枚数を越えてしまったため、会場キャパを拡大し青森県営スケート場（現:サンワアリーナ青森）に変更となり、初の屋内となる。
-    [MUSIC ON\! TVによる特集番組も製作](https://ja.wikipedia.org/wiki/MUSIC_ON!_TV "wikilink")・放送された。(ナレーターは[怒髪天](https://ja.wikipedia.org/wiki/怒髪天 "wikilink")の増子)。
+    [MUSIC ON\! TVによる特集番組も製作](../Page/MUSIC_ON!_TV.md "wikilink")・放送された。(ナレーターは[怒髪天](https://ja.wikipedia.org/wiki/怒髪天 "wikilink")の増子)。
 
 ### 出演
 
 <div style="float: left; vertical-align: top: white-space: nowrap; margin-right: 1em;">
 
   - [くるり](../Page/くるり.md "wikilink")
-  - [pe'zmoku](https://ja.wikipedia.org/wiki/PE'Z "wikilink")
-  - [BRAHMAN](https://ja.wikipedia.org/wiki/BRAHMAN "wikilink")
-  - [JITTERIN'JINN](https://ja.wikipedia.org/wiki/JITTERIN'JINN "wikilink")
+  - [pe'zmoku](../Page/PE'Z.md "wikilink")
+  - [BRAHMAN](../Page/BRAHMAN.md "wikilink")
+  - [JITTERIN'JINN](../Page/JITTERIN'JINN.md "wikilink")
   - [LAUGHIN' NOSE](../Page/LAUGHIN'_NOSE.md "wikilink")
-  - [頭脳警察](https://ja.wikipedia.org/wiki/頭脳警察 "wikilink")
+  - [頭脳警察](../Page/頭脳警察.md "wikilink")
   - [三上寛](https://ja.wikipedia.org/wiki/三上寛 "wikilink")
-  - [少年ナイフ](https://ja.wikipedia.org/wiki/少年ナイフ "wikilink")
-  - [ズボンズ](https://ja.wikipedia.org/wiki/ズボンズ "wikilink")
+  - [少年ナイフ](../Page/少年ナイフ.md "wikilink")
+  - [ズボンズ](../Page/ズボンズ.md "wikilink")
 
 </div>
 
 <div style="float: left; vertical-align: top: white-space: nowrap; margin-right: 1em;">
 
   - [怒髪天](https://ja.wikipedia.org/wiki/怒髪天 "wikilink")
-  - [DMBQ](https://ja.wikipedia.org/wiki/DMBQ "wikilink")
-  - [Scoobie Do](https://ja.wikipedia.org/wiki/Scoobie_Do "wikilink")
-  - [KING BROTHERS](https://ja.wikipedia.org/wiki/KING_BROTHERS "wikilink")
-  - [THE NEATBEATS](https://ja.wikipedia.org/wiki/THE_NEATBEATS "wikilink")
-  - [Radio Caroline](https://ja.wikipedia.org/wiki/Radio_Caroline "wikilink")
+  - [DMBQ](../Page/DMBQ.md "wikilink")
+  - [Scoobie Do](../Page/Scoobie_Do.md "wikilink")
+  - [KING BROTHERS](../Page/KING_BROTHERS.md "wikilink")
+  - [THE NEATBEATS](../Page/THE_NEATBEATS.md "wikilink")
+  - [Radio Caroline](../Page/Radio_Caroline.md "wikilink")
   - 毛皮のマリーズ
   - おとぎ話
   - <small>THE WAYBARK</small>
@@ -194,17 +194,17 @@
 
 <div style="float: left; vertical-align: top: white-space: nowrap; margin-right: 1em;">
 
-  - [ゆらゆら帝国](https://ja.wikipedia.org/wiki/ゆらゆら帝国 "wikilink")
+  - [ゆらゆら帝国](../Page/ゆらゆら帝国.md "wikilink")
   - [eastern youth](https://ja.wikipedia.org/wiki/eastern_youth "wikilink")
-  - [サンボマスター](https://ja.wikipedia.org/wiki/サンボマスター "wikilink")
+  - [サンボマスター](../Page/サンボマスター.md "wikilink")
   - [THE BAWDIES](https://ja.wikipedia.org/wiki/THE_BAWDIES "wikilink")
-  - [曽我部恵一](https://ja.wikipedia.org/wiki/曽我部恵一 "wikilink")BAND
-  - [フラワーカンパニーズ](https://ja.wikipedia.org/wiki/フラワーカンパニーズ "wikilink")
+  - [曽我部恵一](../Page/曽我部恵一.md "wikilink")BAND
+  - [フラワーカンパニーズ](../Page/フラワーカンパニーズ.md "wikilink")
   - [毛皮のマリーズ](https://ja.wikipedia.org/wiki/毛皮のマリーズ "wikilink")
-  - [KING BROTHERS](https://ja.wikipedia.org/wiki/KING_BROTHERS "wikilink")
-  - [THE NEATBEATS](https://ja.wikipedia.org/wiki/THE_NEATBEATS "wikilink")
-  - [THE BEACHES](https://ja.wikipedia.org/wiki/THE_BEACHES "wikilink")
-  - [ズボンズ](https://ja.wikipedia.org/wiki/ズボンズ "wikilink")
+  - [KING BROTHERS](../Page/KING_BROTHERS.md "wikilink")
+  - [THE NEATBEATS](../Page/THE_NEATBEATS.md "wikilink")
+  - [THE BEACHES](../Page/THE_BEACHES.md "wikilink")
+  - [ズボンズ](../Page/ズボンズ.md "wikilink")
 
 </div>
 
@@ -212,9 +212,9 @@
 
   - [三上寛](https://ja.wikipedia.org/wiki/三上寛 "wikilink")
   - [小島麻由美](https://ja.wikipedia.org/wiki/小島麻由美 "wikilink")
-  - [THE 卍](https://ja.wikipedia.org/wiki/THE_卍 "wikilink")<small>（[ROLLY](https://ja.wikipedia.org/wiki/ROLLY "wikilink")、[佐藤研二](https://ja.wikipedia.org/wiki/佐藤研二 "wikilink")、[高橋ロジャー和久](https://ja.wikipedia.org/wiki/高橋ロジャー和久 "wikilink")）</small>
+  - [THE 卍](https://ja.wikipedia.org/wiki/THE_卍 "wikilink")<small>（[ROLLY](../Page/ROLLY.md "wikilink")、[佐藤研二](https://ja.wikipedia.org/wiki/佐藤研二 "wikilink")、[高橋ロジャー和久](../Page/高橋ロジャー和久.md "wikilink")）</small>
   - [黒猫チェルシー](https://ja.wikipedia.org/wiki/黒猫チェルシー "wikilink")
-  - [つしまみれ](https://ja.wikipedia.org/wiki/つしまみれ "wikilink")
+  - [つしまみれ](../Page/つしまみれ.md "wikilink")
   - [Mr.Freddie\&The Mercury devil](https://ja.wikipedia.org/wiki/Mr.Freddie&The_Mercury_devil "wikilink")
   - <small>THE WAYBARK</small>
 
@@ -235,7 +235,7 @@
 <!-- end list -->
 
   - [長島☆自演乙☆雄一郎](https://ja.wikipedia.org/wiki/長島☆自演乙☆雄一郎 "wikilink")
-  - [宮村優子](https://ja.wikipedia.org/wiki/宮村優子_\(声優\) "wikilink")
+  - [宮村優子](../Page/宮村優子_\(声優\).md "wikilink")
   - [田代まさし](https://ja.wikipedia.org/wiki/田代まさし "wikilink")
 
 </div>
@@ -260,7 +260,7 @@
 
   - [黒猫チェルシー](https://ja.wikipedia.org/wiki/黒猫チェルシー "wikilink")
   - [嘘つきバービー](https://ja.wikipedia.org/wiki/嘘つきバービー "wikilink")
-  - [つしまみれ](https://ja.wikipedia.org/wiki/つしまみれ "wikilink")
+  - [つしまみれ](../Page/つしまみれ.md "wikilink")
   - [The Mirraz](https://ja.wikipedia.org/wiki/The_Mirraz "wikilink")
   - [SISTER JET](https://ja.wikipedia.org/wiki/SISTER_JET "wikilink")
   - [QUATTRO](https://ja.wikipedia.org/wiki/QUATTRO_\(バンド\) "wikilink")
@@ -290,26 +290,26 @@
 
 <!-- end list -->
 
-  - [シーナ&ザ・ロケッツ](https://ja.wikipedia.org/wiki/シーナ&ザ・ロケッツ "wikilink")
-  - [ギターウルフ](https://ja.wikipedia.org/wiki/ギターウルフ "wikilink")
-  - [YO-KING](https://ja.wikipedia.org/wiki/YO-KING "wikilink")
-  - [難波章浩](https://ja.wikipedia.org/wiki/難波章浩 "wikilink")
+  - [シーナ&ザ・ロケッツ](../Page/シーナ&ザ・ロケッツ.md "wikilink")
+  - [ギターウルフ](../Page/ギターウルフ.md "wikilink")
+  - [YO-KING](../Page/YO-KING.md "wikilink")
+  - [難波章浩](../Page/難波章浩.md "wikilink")
   - [毛皮のマリーズ](https://ja.wikipedia.org/wiki/毛皮のマリーズ "wikilink")
   - [神聖かまってちゃん](https://ja.wikipedia.org/wiki/神聖かまってちゃん "wikilink")
   - [ミドリ](https://ja.wikipedia.org/wiki/ミドリ "wikilink")
   - [DOES](https://ja.wikipedia.org/wiki/DOES "wikilink")
-  - [ROLLY](https://ja.wikipedia.org/wiki/ROLLY "wikilink") with [人間椅子](https://ja.wikipedia.org/wiki/人間椅子_\(バンド\) "wikilink")
+  - [ROLLY](../Page/ROLLY.md "wikilink") with [人間椅子](https://ja.wikipedia.org/wiki/人間椅子_\(バンド\) "wikilink")
   - 人間椅子
   - [フルカワミキ](https://ja.wikipedia.org/wiki/フルカワミキ "wikilink")
   - [iLL](https://ja.wikipedia.org/wiki/iLL "wikilink")
   - [曽我部恵一BAND](https://ja.wikipedia.org/wiki/曽我部恵一BAND "wikilink")
-  - [ホフディラン](https://ja.wikipedia.org/wiki/ホフディラン "wikilink")
-  - [Scoobie Do](https://ja.wikipedia.org/wiki/Scoobie_Do "wikilink")
-  - [KING BROTHERS](https://ja.wikipedia.org/wiki/KING_BROTHERS "wikilink")
-  - [THE NEATBEATS](https://ja.wikipedia.org/wiki/THE_NEATBEATS "wikilink")
+  - [ホフディラン](../Page/ホフディラン.md "wikilink")
+  - [Scoobie Do](../Page/Scoobie_Do.md "wikilink")
+  - [KING BROTHERS](../Page/KING_BROTHERS.md "wikilink")
+  - [THE NEATBEATS](../Page/THE_NEATBEATS.md "wikilink")
   - 夜のストレンジャーズ
-  - [頭脳警察](https://ja.wikipedia.org/wiki/頭脳警察 "wikilink")
-  - [灰野敬二](https://ja.wikipedia.org/wiki/灰野敬二 "wikilink")
+  - [頭脳警察](../Page/頭脳警察.md "wikilink")
+  - [灰野敬二](../Page/灰野敬二.md "wikilink")
   - [三上寛](https://ja.wikipedia.org/wiki/三上寛 "wikilink")
   - <small>THE WAYBARK</small> (2日とも出演)
 
@@ -347,7 +347,7 @@
   - [MONGOL800](../Page/MONGOL800.md "wikilink")
   - [andymori](https://ja.wikipedia.org/wiki/andymori "wikilink")
   - [山口富士夫](https://ja.wikipedia.org/wiki/山口富士夫 "wikilink")
-  - [早川義夫](https://ja.wikipedia.org/wiki/早川義夫 "wikilink")＋[佐久間正英](https://ja.wikipedia.org/wiki/佐久間正英 "wikilink")
+  - [早川義夫](../Page/早川義夫.md "wikilink")＋[佐久間正英](../Page/佐久間正英.md "wikilink")
   - 曽我部恵一BAND
   - [ザ50回転ズ](../Page/ザ50回転ズ.md "wikilink")
   - KING BROTHERS
@@ -359,7 +359,7 @@
         <small>([安齋肇](https://ja.wikipedia.org/wiki/安齋肇 "wikilink")、[田口トモロヲ](../Page/田口トモロヲ.md "wikilink")、[淡谷三治](https://ja.wikipedia.org/wiki/淡谷三治 "wikilink")、他)</small>
   - 毛皮のマリーズ
   - [MONOBRIGHT](https://ja.wikipedia.org/wiki/MONOBRIGHT "wikilink")
-  - [MASS OF THE FERMENTING DREGS](https://ja.wikipedia.org/wiki/MASS_OF_THE_FERMENTING_DREGS "wikilink")
+  - [MASS OF THE FERMENTING DREGS](../Page/MASS_OF_THE_FERMENTING_DREGS.md "wikilink")
   - [THE BOHEMIANS](https://ja.wikipedia.org/wiki/THE_BOHEMIANS "wikilink")
   - 三上寛
   - [踊ろうマチルダ](https://ja.wikipedia.org/wiki/踊ろうマチルダ "wikilink")
@@ -373,11 +373,11 @@
 
 <!-- end list -->
 
-  - [TOMOVSKY](https://ja.wikipedia.org/wiki/TOMOVSKY "wikilink")
+  - [TOMOVSKY](../Page/TOMOVSKY.md "wikilink")
   - 頭脳警察
-  - [武藤昭平](https://ja.wikipedia.org/wiki/武藤昭平 "wikilink")with[ウエノコウジ](https://ja.wikipedia.org/wiki/ウエノコウジ "wikilink")
+  - [武藤昭平](https://ja.wikipedia.org/wiki/武藤昭平 "wikilink")with[ウエノコウジ](../Page/ウエノコウジ.md "wikilink")
   - [みうらじゅん](../Page/みうらじゅん.md "wikilink")
-  - [内田春菊](https://ja.wikipedia.org/wiki/内田春菊 "wikilink")
+  - [内田春菊](../Page/内田春菊.md "wikilink")
   - [bloodthirsty butchers](https://ja.wikipedia.org/wiki/bloodthirsty_butchers "wikilink")
   - [キノコホテル](https://ja.wikipedia.org/wiki/キノコホテル "wikilink")
   - [騒音寺](https://ja.wikipedia.org/wiki/騒音寺 "wikilink")
@@ -386,13 +386,13 @@
         <small>(夜のストレンジャーズ)</small>
   - [Qomolangma Tomato](https://ja.wikipedia.org/wiki/Qomolangma_Tomato "wikilink")
   - [ワッツーシゾンビ](https://ja.wikipedia.org/wiki/ワッツーシゾンビ "wikilink")
-  - [マーガレットズロース](https://ja.wikipedia.org/wiki/マーガレットズロース "wikilink")
+  - [マーガレットズロース](../Page/マーガレットズロース.md "wikilink")
   - [ヘンリーヘンリーズ](https://ja.wikipedia.org/wiki/ヘンリーヘンリーズ "wikilink")
   - [カルガモネンド](https://ja.wikipedia.org/wiki/カルガモネンド "wikilink")
   - [KiNGONS](https://ja.wikipedia.org/wiki/KiNGONS "wikilink")
   - [ソンソン弁当箱](https://ja.wikipedia.org/wiki/ソンソン弁当箱 "wikilink")
   - <small>青森最後の詩人ひろやーとダークネス・ナイトメヤー</small>
-  - <small>THE WAYBARK</small>+[白井幹夫](https://ja.wikipedia.org/wiki/白井幹夫 "wikilink")
+  - <small>THE WAYBARK</small>+[白井幹夫](../Page/白井幹夫.md "wikilink")
 
 </div>
 
@@ -435,28 +435,28 @@
 
 <!-- end list -->
 
-  - [曽我部恵一](https://ja.wikipedia.org/wiki/曽我部恵一 "wikilink")BAND
-  - [スチャダラパー](https://ja.wikipedia.org/wiki/スチャダラパー "wikilink")
+  - [曽我部恵一](../Page/曽我部恵一.md "wikilink")BAND
+  - [スチャダラパー](../Page/スチャダラパー.md "wikilink")
   - [在日ファンク](https://ja.wikipedia.org/wiki/在日ファンク "wikilink")
-  - [DJ BAKU](https://ja.wikipedia.org/wiki/DJ_BAKU "wikilink")
-  - [Hermann H.\&The Pacemakers](https://ja.wikipedia.org/wiki/Hermann_H.&The_Pacemakers "wikilink")
-  - [フラワーカンパニーズ](https://ja.wikipedia.org/wiki/フラワーカンパニーズ "wikilink")
-  - [内田裕也](https://ja.wikipedia.org/wiki/内田裕也 "wikilink")＆トルーマン・カポーティR\&R BAND
+  - [DJ BAKU](../Page/DJ_BAKU.md "wikilink")
+  - [Hermann H.\&The Pacemakers](../Page/Hermann_H.&The_Pacemakers.md "wikilink")
+  - [フラワーカンパニーズ](../Page/フラワーカンパニーズ.md "wikilink")
+  - [内田裕也](../Page/内田裕也.md "wikilink")＆トルーマン・カポーティR\&R BAND
   - [神聖かまってちゃん](https://ja.wikipedia.org/wiki/神聖かまってちゃん "wikilink")
   - [0.8秒と衝撃。](https://ja.wikipedia.org/wiki/0.8秒と衝撃。 "wikilink")
   - [人間椅子](https://ja.wikipedia.org/wiki/人間椅子_\(バンド\) "wikilink")
   - [でんぱ組.inc](https://ja.wikipedia.org/wiki/でんぱ組.inc "wikilink")
-  - DJ.[ダイノジ](https://ja.wikipedia.org/wiki/ダイノジ "wikilink")
+  - DJ.[ダイノジ](../Page/ダイノジ.md "wikilink")
   - [SILLYTHING](https://ja.wikipedia.org/wiki/SILLYTHING "wikilink")
   - [うみのて](https://ja.wikipedia.org/wiki/うみのて "wikilink")
   - [東京カランコロン](https://ja.wikipedia.org/wiki/東京カランコロン "wikilink")
   - [流田Project](https://ja.wikipedia.org/wiki/流田Project "wikilink")
-  - [ヒロシ](https://ja.wikipedia.org/wiki/ヒロシ "wikilink")
-  - [ブリーフ&トランクス](https://ja.wikipedia.org/wiki/ブリーフ&トランクス "wikilink")
+  - [ヒロシ](../Page/ヒロシ.md "wikilink")
+  - [ブリーフ&トランクス](../Page/ブリーフ&トランクス.md "wikilink")
   - [SEBASTIAN X](https://ja.wikipedia.org/wiki/SEBASTIAN_X "wikilink")
   - [アーバンギャルド](https://ja.wikipedia.org/wiki/アーバンギャルド "wikilink")
-  - [藍坊主](https://ja.wikipedia.org/wiki/藍坊主 "wikilink")
-  - [ZONE](https://ja.wikipedia.org/wiki/ZONE_\(バンド\) "wikilink")
+  - [藍坊主](../Page/藍坊主.md "wikilink")
+  - [ZONE](../Page/ZONE_\(バンド\).md "wikilink")
 
 <!-- end list -->
 
@@ -480,11 +480,11 @@
   - DJ.[サミー前田](https://ja.wikipedia.org/wiki/サミー前田 "wikilink") <small>（Tribute to Fuckin'Great YUYA\!）</small>
   - DJ.[桃知みなみ](https://ja.wikipedia.org/wiki/桃知みなみ "wikilink")
   - DJ.[掟ポルシェ](../Page/掟ポルシェ.md "wikilink")
-  - DJ.[鹿野淳](https://ja.wikipedia.org/wiki/鹿野淳 "wikilink")
+  - DJ.[鹿野淳](../Page/鹿野淳.md "wikilink")
   - DJ.[庄司信也](https://ja.wikipedia.org/wiki/庄司信也 "wikilink")
   - [しず風&絆〜KIZUNA〜](https://ja.wikipedia.org/wiki/しず風&絆〜KIZUNA〜 "wikilink")
   - [タルトタタン](https://ja.wikipedia.org/wiki/タルトタタン "wikilink") with
-    [西浦謙助](https://ja.wikipedia.org/wiki/西浦謙助 "wikilink")、[ナガイケジョー](https://ja.wikipedia.org/wiki/Scoobie_Do "wikilink")、[田淵ひさ子](https://ja.wikipedia.org/wiki/bloodthirsty_butchers "wikilink")
+    [西浦謙助](https://ja.wikipedia.org/wiki/西浦謙助 "wikilink")、[ナガイケジョー](../Page/Scoobie_Do.md "wikilink")、[田淵ひさ子](https://ja.wikipedia.org/wiki/bloodthirsty_butchers "wikilink")
   - [アリス十番](https://ja.wikipedia.org/wiki/アリス十番 "wikilink")
   - [BiS](https://ja.wikipedia.org/wiki/BiS "wikilink")
   - [アップアップガールズ（仮）](https://ja.wikipedia.org/wiki/アップアップガールズ（仮） "wikilink")
@@ -499,20 +499,20 @@
 
 <!-- end list -->
 
-  - [OGRE YOU ASSHOLE](https://ja.wikipedia.org/wiki/OGRE_YOU_ASSHOLE "wikilink")
+  - [OGRE YOU ASSHOLE](../Page/OGRE_YOU_ASSHOLE.md "wikilink")
   - [bloodthirsty butchers](https://ja.wikipedia.org/wiki/bloodthirsty_butchers "wikilink")
-  - [KING BROTHERS](https://ja.wikipedia.org/wiki/KING_BROTHERS "wikilink")
+  - [KING BROTHERS](../Page/KING_BROTHERS.md "wikilink")
   - [avengers in sci-fi](https://ja.wikipedia.org/wiki/avengers_in_sci-fi "wikilink")
   - [SAKANAMON](https://ja.wikipedia.org/wiki/SAKANAMON "wikilink")
-  - [ニューロティカ](https://ja.wikipedia.org/wiki/ニューロティカ "wikilink")
+  - [ニューロティカ](../Page/ニューロティカ.md "wikilink")
   - [ラフィンノーズ](https://ja.wikipedia.org/wiki/ラフィンノーズ "wikilink")
-  - バンド[TOMOVSKY](https://ja.wikipedia.org/wiki/TOMOVSKY "wikilink")
+  - バンド[TOMOVSKY](../Page/TOMOVSKY.md "wikilink")
   - [ザ50回転ズ](../Page/ザ50回転ズ.md "wikilink")
-  - [THE NEATBEATS](https://ja.wikipedia.org/wiki/THE_NEATBEATS "wikilink")
-  - [Scoobie Do](https://ja.wikipedia.org/wiki/Scoobie_Do "wikilink")
-  - [武藤昭平](https://ja.wikipedia.org/wiki/武藤昭平 "wikilink") with [ウエノコウジ](https://ja.wikipedia.org/wiki/ウエノコウジ "wikilink")
+  - [THE NEATBEATS](../Page/THE_NEATBEATS.md "wikilink")
+  - [Scoobie Do](../Page/Scoobie_Do.md "wikilink")
+  - [武藤昭平](https://ja.wikipedia.org/wiki/武藤昭平 "wikilink") with [ウエノコウジ](../Page/ウエノコウジ.md "wikilink")
   - [三上寛](https://ja.wikipedia.org/wiki/三上寛 "wikilink")
-  - [PANTA](https://ja.wikipedia.org/wiki/頭脳警察 "wikilink") with [菊池琢巳](https://ja.wikipedia.org/wiki/菊池琢巳 "wikilink")
+  - [PANTA](../Page/頭脳警察.md "wikilink") with [菊池琢巳](https://ja.wikipedia.org/wiki/菊池琢巳 "wikilink")
   - [夜のストレンジャーズ](https://ja.wikipedia.org/wiki/夜のストレンジャーズ "wikilink")
   - [騒音寺](https://ja.wikipedia.org/wiki/騒音寺 "wikilink")
   - [踊ってばかりの国](https://ja.wikipedia.org/wiki/踊ってばかりの国 "wikilink")
@@ -534,7 +534,7 @@
   - [みきちゅ](https://ja.wikipedia.org/wiki/みきちゅ "wikilink")
   - [うさぎのなみ平](https://ja.wikipedia.org/wiki/うさぎのなみ平 "wikilink")
   - DJ 歴ドル[美甘子](https://ja.wikipedia.org/wiki/美甘子 "wikilink")
-  - [加藤鷹](https://ja.wikipedia.org/wiki/加藤鷹 "wikilink")
+  - [加藤鷹](../Page/加藤鷹.md "wikilink")
   - [うしじまいい肉](https://ja.wikipedia.org/wiki/うしじまいい肉 "wikilink")
 
 <!-- end list -->
@@ -551,12 +551,12 @@
 
 <!-- end list -->
 
-  - [DDTプロレスリング](https://ja.wikipedia.org/wiki/DDTプロレスリング "wikilink")
+  - [DDTプロレスリング](../Page/DDTプロレスリング.md "wikilink")
       -
-        [飯伏幸太](https://ja.wikipedia.org/wiki/飯伏幸太 "wikilink")
-        [KUDO](https://ja.wikipedia.org/wiki/KUDO "wikilink")
-        [大石真翔](https://ja.wikipedia.org/wiki/大石真翔 "wikilink")
-        [高木三四郎](https://ja.wikipedia.org/wiki/高木三四郎 "wikilink")
+        [飯伏幸太](../Page/飯伏幸太.md "wikilink")
+        [KUDO](../Page/KUDO.md "wikilink")
+        [大石真翔](../Page/大石真翔.md "wikilink")
+        [高木三四郎](../Page/高木三四郎.md "wikilink")
         アントーニオ本多
         [中澤マイケル](../Page/中澤マイケル.md "wikilink")
         [ヨシヒコ](https://ja.wikipedia.org/wiki/ヨシヒコ "wikilink")
@@ -574,14 +574,14 @@
 
 <div style="float: left; vertical-align: top: white-space: nowrap; margin-right: 1em;">
 
-  - [フラワーカンパニーズ](https://ja.wikipedia.org/wiki/フラワーカンパニーズ "wikilink")
-  - [ZAZEN BOYS](https://ja.wikipedia.org/wiki/ZAZEN_BOYS "wikilink")
+  - [フラワーカンパニーズ](../Page/フラワーカンパニーズ.md "wikilink")
+  - [ZAZEN BOYS](../Page/ZAZEN_BOYS.md "wikilink")
   - [N'夙川BOYS](https://ja.wikipedia.org/wiki/N'夙川BOYS "wikilink")
   - [TOTALFAT](https://ja.wikipedia.org/wiki/TOTALFAT "wikilink")
   - [SiM](https://ja.wikipedia.org/wiki/SiM "wikilink")
   - [MY FIRST STORY](https://ja.wikipedia.org/wiki/MY_FIRST_STORY "wikilink")
   - [大槻ケンヂ](https://ja.wikipedia.org/wiki/大槻ケンヂ "wikilink")・[橘高文彦](../Page/橘高文彦.md "wikilink")
-  - [HAWAIIAN6](https://ja.wikipedia.org/wiki/HAWAIIAN6 "wikilink")
+  - [HAWAIIAN6](../Page/HAWAIIAN6.md "wikilink")
   - [前野健太](https://ja.wikipedia.org/wiki/前野健太 "wikilink")
   - [遠藤賢司](../Page/遠藤賢司.md "wikilink")
   - エンケン＆カレーライス＋[宮藤官九郎](../Page/宮藤官九郎.md "wikilink")
@@ -591,23 +591,23 @@
       - [森信行](../Page/森信行.md "wikilink")
   - [フルカワミキ](https://ja.wikipedia.org/wiki/フルカワミキ "wikilink")
   - [envy](https://ja.wikipedia.org/wiki/envy "wikilink")
-  - [GOMA](https://ja.wikipedia.org/wiki/GOMA "wikilink")＆The Jungle Rhythm Section
+  - [GOMA](../Page/GOMA.md "wikilink")＆The Jungle Rhythm Section
   - [The SALOVERS](https://ja.wikipedia.org/wiki/The_SALOVERS "wikilink")
   - [group_inou](https://ja.wikipedia.org/wiki/group_inou "wikilink")
   - [人間椅子](https://ja.wikipedia.org/wiki/人間椅子_\(バンド\) "wikilink")
-  - [ROLLY](https://ja.wikipedia.org/wiki/ROLLY "wikilink") with 人間椅子
-  - [曽我部恵一](https://ja.wikipedia.org/wiki/曽我部恵一 "wikilink")
+  - [ROLLY](../Page/ROLLY.md "wikilink") with 人間椅子
+  - [曽我部恵一](../Page/曽我部恵一.md "wikilink")
   - [奇妙礼太郎](https://ja.wikipedia.org/wiki/奇妙礼太郎 "wikilink")
   - [踊ろうマチルダ](https://ja.wikipedia.org/wiki/踊ろうマチルダ "wikilink")
-  - [TOMOVSKY](https://ja.wikipedia.org/wiki/TOMOVSKY "wikilink")
+  - [TOMOVSKY](../Page/TOMOVSKY.md "wikilink")
   - [ザ50回転ズ](../Page/ザ50回転ズ.md "wikilink")
   - ブラインドミウラストレンジャー ([夜のストレンジャーズ](https://ja.wikipedia.org/wiki/夜のストレンジャーズ "wikilink"))
-  - [影山ヒロノブ](https://ja.wikipedia.org/wiki/影山ヒロノブ "wikilink")
-  - [中川翔子](https://ja.wikipedia.org/wiki/中川翔子 "wikilink")
+  - [影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink")
+  - [中川翔子](../Page/中川翔子.md "wikilink")
   - [ピエール中野](https://ja.wikipedia.org/wiki/ピエール中野 "wikilink") ([凛として時雨](https://ja.wikipedia.org/wiki/凛として時雨 "wikilink"))
   - [でんぱ組.inc](https://ja.wikipedia.org/wiki/でんぱ組.inc "wikilink")
   - [BiS](https://ja.wikipedia.org/wiki/BiS "wikilink")
-  - [電撃ネットワーク](https://ja.wikipedia.org/wiki/電撃ネットワーク "wikilink")
+  - [電撃ネットワーク](../Page/電撃ネットワーク.md "wikilink")
   - [アップアップガールズ（仮）](https://ja.wikipedia.org/wiki/アップアップガールズ（仮） "wikilink")
   - [Negicco](https://ja.wikipedia.org/wiki/Negicco "wikilink")
   - [hy4_4yh](https://ja.wikipedia.org/wiki/hy4_4yh "wikilink")
@@ -618,37 +618,37 @@
 
 <div style="float: left; vertical-align: top: white-space: nowrap; margin-right: 1em;">
 
-  - [非常階段](https://ja.wikipedia.org/wiki/非常階段_\(バンド\) "wikilink")
-  - 初音階段 (非常階段×[初音ミク](https://ja.wikipedia.org/wiki/初音ミク "wikilink"))
+  - [非常階段](../Page/非常階段_\(バンド\).md "wikilink")
+  - 初音階段 (非常階段×[初音ミク](../Page/初音ミク.md "wikilink"))
   - BiS階段 (非常階段×BiS)
   - [三上寛](https://ja.wikipedia.org/wiki/三上寛 "wikilink")
-  - [大根仁](https://ja.wikipedia.org/wiki/大根仁 "wikilink") 監督
+  - [大根仁](../Page/大根仁.md "wikilink") 監督
   - [Wienners](https://ja.wikipedia.org/wiki/Wienners "wikilink")
   - [桃井はるこ](../Page/桃井はるこ.md "wikilink")
   - [milktub](https://ja.wikipedia.org/wiki/milktub "wikilink")
   - [ハナエ](https://ja.wikipedia.org/wiki/ハナエ "wikilink")
   - [川越シェフ](https://ja.wikipedia.org/wiki/川越達也 "wikilink")
   - [林下清志(ビッグダディ)](https://ja.wikipedia.org/wiki/痛快!ビッグダディ "wikilink")
-  - DJ.[ダイノジ](https://ja.wikipedia.org/wiki/ダイノジ "wikilink")
+  - DJ.[ダイノジ](../Page/ダイノジ.md "wikilink")
   - DJ.[掟ポルシェ](../Page/掟ポルシェ.md "wikilink")
-  - DJ.[ギュウゾウ](https://ja.wikipedia.org/wiki/ギュウゾウ "wikilink") ([電撃ネットワーク](https://ja.wikipedia.org/wiki/電撃ネットワーク "wikilink"))
+  - DJ.[ギュウゾウ](../Page/ギュウゾウ.md "wikilink") ([電撃ネットワーク](../Page/電撃ネットワーク.md "wikilink"))
   - [this is not a business](https://ja.wikipedia.org/wiki/this_is_not_a_business "wikilink")
   - [AKBPOID](https://ja.wikipedia.org/wiki/AKBPOID "wikilink")
   - [豊満乃風](https://ja.wikipedia.org/wiki/豊満乃風 "wikilink")
   - [吉田豪](../Page/吉田豪.md "wikilink")×[杉作J太郎](../Page/杉作J太郎.md "wikilink")
-  - [久保ミツロウ](https://ja.wikipedia.org/wiki/久保ミツロウ "wikilink")×[能町みね子](https://ja.wikipedia.org/wiki/能町みね子 "wikilink")
+  - [久保ミツロウ](../Page/久保ミツロウ.md "wikilink")×[能町みね子](../Page/能町みね子.md "wikilink")
   - [うしじまいい肉](https://ja.wikipedia.org/wiki/うしじまいい肉 "wikilink")
   - [大仁田厚](../Page/大仁田厚.md "wikilink")
   - [KAMINOGE](https://ja.wikipedia.org/wiki/KAMINOGE "wikilink") ROCK FESTIVAL'13
       - 佐藤大輔
-      - [マッスル坂井](https://ja.wikipedia.org/wiki/マッスル坂井 "wikilink")
+      - [マッスル坂井](../Page/マッスル坂井.md "wikilink")
       - 井上崇宏
       - TBA
       - [伊賀大介](https://ja.wikipedia.org/wiki/伊賀大介 "wikilink")
   - **MC**
       - [アントーニオ本多](../Page/アントーニオ本多.md "wikilink")
   - **プロレス**
-      - [DDTプロレスリング](https://ja.wikipedia.org/wiki/DDTプロレスリング "wikilink")
+      - [DDTプロレスリング](../Page/DDTプロレスリング.md "wikilink")
 
 </div>
 
@@ -667,9 +667,9 @@
 
 <!-- end list -->
 
-  - [BRAHMAN](https://ja.wikipedia.org/wiki/BRAHMAN "wikilink")
+  - [BRAHMAN](../Page/BRAHMAN.md "wikilink")
   - [THA BLUE HERB](https://ja.wikipedia.org/wiki/THA_BLUE_HERB "wikilink")
-  - [KING BROTHERS](https://ja.wikipedia.org/wiki/KING_BROTHERS "wikilink")
+  - [KING BROTHERS](../Page/KING_BROTHERS.md "wikilink")
   - [人間椅子](https://ja.wikipedia.org/wiki/人間椅子 "wikilink")
   - [髭（HiGE）](https://ja.wikipedia.org/wiki/髭（HiGE） "wikilink")
   - [the telephones](https://ja.wikipedia.org/wiki/the_telephones "wikilink")
@@ -677,7 +677,7 @@
   - [ドレスコーズ](https://ja.wikipedia.org/wiki/ドレスコーズ "wikilink")
   - [Wienners](https://ja.wikipedia.org/wiki/Wienners "wikilink")
   - [アルカラ](https://ja.wikipedia.org/wiki/アルカラ "wikilink")
-  - [THE NEATBEATS](https://ja.wikipedia.org/wiki/THE_NEATBEATS "wikilink")
+  - [THE NEATBEATS](../Page/THE_NEATBEATS.md "wikilink")
   - [HINTO](https://ja.wikipedia.org/wiki/HINTO "wikilink")
   - [でんぱ組.inc](https://ja.wikipedia.org/wiki/でんぱ組.inc "wikilink")
 
@@ -698,13 +698,13 @@
   - アップアップガールズ(仮)
   - DPG
   - DDTプロレスリング-アイドルランブル
-      - Negicco、[スーパーササダンゴマシン](https://ja.wikipedia.org/wiki/マッスル坂井 "wikilink")
+      - Negicco、[スーパーササダンゴマシン](../Page/マッスル坂井.md "wikilink")
       - [寺嶋由芙](https://ja.wikipedia.org/wiki/寺嶋由芙 "wikilink")、[三富政行](https://ja.wikipedia.org/wiki/三富政行 "wikilink")
-      - アップアップガールズ（仮）、[大石真翔](https://ja.wikipedia.org/wiki/大石真翔 "wikilink")
-      - Ladybeard、[男色ディーノ](https://ja.wikipedia.org/wiki/男色ディーノ "wikilink")
+      - アップアップガールズ（仮）、[大石真翔](../Page/大石真翔.md "wikilink")
+      - Ladybeard、[男色ディーノ](../Page/男色ディーノ.md "wikilink")
       - [hy4_4yh](https://ja.wikipedia.org/wiki/hy4_4yh "wikilink")、[中澤マイケル](../Page/中澤マイケル.md "wikilink")
       - ベッド・イン with [掟ポルシェ](../Page/掟ポルシェ.md "wikilink")＆[吉田充宏](https://ja.wikipedia.org/wiki/吉田充宏 "wikilink")
-      - [高木三四郎](https://ja.wikipedia.org/wiki/高木三四郎 "wikilink")、[美奈子](https://ja.wikipedia.org/wiki/美奈子 "wikilink")
+      - [高木三四郎](../Page/高木三四郎.md "wikilink")、[美奈子](https://ja.wikipedia.org/wiki/美奈子 "wikilink")
   - [大森靖子](https://ja.wikipedia.org/wiki/大森靖子 "wikilink")
   - hy4_4yh
   - [みきちゅ](https://ja.wikipedia.org/wiki/みきちゅ "wikilink")
@@ -717,17 +717,17 @@
 
 <!-- end list -->
 
-  - [曽我部恵一](https://ja.wikipedia.org/wiki/曽我部恵一 "wikilink")
-  - [向井秀徳](https://ja.wikipedia.org/wiki/向井秀徳 "wikilink")
+  - [曽我部恵一](../Page/曽我部恵一.md "wikilink")
+  - [向井秀徳](../Page/向井秀徳.md "wikilink")
   - サイプレス上野
-  - [カンパニー松尾](https://ja.wikipedia.org/wiki/カンパニー松尾 "wikilink")
+  - [カンパニー松尾](../Page/カンパニー松尾.md "wikilink")
   - [ゆるめるモ\!](https://ja.wikipedia.org/wiki/ゆるめるモ! "wikilink")
   - [クリトリック・リス](https://ja.wikipedia.org/wiki/クリトリック・リス "wikilink")
   - ULTRA-PRISM
-  - [久保ミツロウ](https://ja.wikipedia.org/wiki/久保ミツロウ "wikilink")×[能町みね子](https://ja.wikipedia.org/wiki/能町みね子 "wikilink")
+  - [久保ミツロウ](../Page/久保ミツロウ.md "wikilink")×[能町みね子](../Page/能町みね子.md "wikilink")
   - KAMINOGE ROCK FESTIVAL
   - DJテンテンコ
-  - [蝶野正洋](../Page/蝶野正洋.md "wikilink")×[岸田メル](https://ja.wikipedia.org/wiki/岸田メル "wikilink")
+  - [蝶野正洋](../Page/蝶野正洋.md "wikilink")×[岸田メル](../Page/岸田メル.md "wikilink")
   - [LinQ](https://ja.wikipedia.org/wiki/LinQ "wikilink")
   - [lyrical school](https://ja.wikipedia.org/wiki/lyrical_school "wikilink")
   - [Especia](https://ja.wikipedia.org/wiki/Especia "wikilink")
@@ -736,7 +736,7 @@
   - [吉田豪](../Page/吉田豪.md "wikilink")×[杉作J太郎](../Page/杉作J太郎.md "wikilink")
   - [BELLRING少女ハート](https://ja.wikipedia.org/wiki/BELLRING少女ハート "wikilink")
   - [うしじまいい肉](https://ja.wikipedia.org/wiki/うしじまいい肉 "wikilink")
-  - DJ[ダイノジ](https://ja.wikipedia.org/wiki/ダイノジ "wikilink")
+  - DJ[ダイノジ](../Page/ダイノジ.md "wikilink")
   - [掟ポルシェ](../Page/掟ポルシェ.md "wikilink")
 
 </div>
@@ -762,15 +762,15 @@
   - [OL Killer](https://ja.wikipedia.org/wiki/OL_Killer "wikilink")（[岡村靖幸](../Page/岡村靖幸.md "wikilink")）
   - [神聖かまってちゃん](https://ja.wikipedia.org/wiki/神聖かまってちゃん "wikilink")
   - [大槻ケンヂ](https://ja.wikipedia.org/wiki/大槻ケンヂ "wikilink")
-  - [ROLLY](https://ja.wikipedia.org/wiki/ROLLY "wikilink")
-  - [ニューロティカ](https://ja.wikipedia.org/wiki/ニューロティカ "wikilink")
+  - [ROLLY](../Page/ROLLY.md "wikilink")
+  - [ニューロティカ](../Page/ニューロティカ.md "wikilink")
   - [LAUGHIN' NOSE](../Page/LAUGHIN'_NOSE.md "wikilink")
-  - [ギターウルフ](https://ja.wikipedia.org/wiki/ギターウルフ "wikilink")
-  - [KING BROTHERS](https://ja.wikipedia.org/wiki/KING_BROTHERS "wikilink")
-  - [THE NEATBEATS](https://ja.wikipedia.org/wiki/THE_NEATBEATS "wikilink")
+  - [ギターウルフ](../Page/ギターウルフ.md "wikilink")
+  - [KING BROTHERS](../Page/KING_BROTHERS.md "wikilink")
+  - [THE NEATBEATS](../Page/THE_NEATBEATS.md "wikilink")
   - [ザ50回転ズ](../Page/ザ50回転ズ.md "wikilink")
   - [天才バンド](https://ja.wikipedia.org/wiki/天才バンド "wikilink")
-  - [バンドTOMOVSKY](https://ja.wikipedia.org/wiki/TOMOVSKY "wikilink")
+  - [バンドTOMOVSKY](../Page/TOMOVSKY.md "wikilink")
 
 </div>
 
@@ -778,9 +778,9 @@
 
   - [水曜日のカンパネラ](https://ja.wikipedia.org/wiki/水曜日のカンパネラ "wikilink")
   - [三上寛](https://ja.wikipedia.org/wiki/三上寛 "wikilink")
-  - [JOJO広重](https://ja.wikipedia.org/wiki/JOJO広重 "wikilink")（[非常階段](https://ja.wikipedia.org/wiki/非常階段_\(バンド\) "wikilink")）
-  - [向井秀徳](https://ja.wikipedia.org/wiki/向井秀徳 "wikilink")アコースティック＆エレクトリック
-  - [木下理樹](https://ja.wikipedia.org/wiki/木下理樹 "wikilink")（[ART-SCHOOL](https://ja.wikipedia.org/wiki/ART-SCHOOL "wikilink") / [killing Boy](https://ja.wikipedia.org/wiki/killing_Boy "wikilink")）
+  - [JOJO広重](../Page/JOJO広重.md "wikilink")（[非常階段](../Page/非常階段_\(バンド\).md "wikilink")）
+  - [向井秀徳](../Page/向井秀徳.md "wikilink")アコースティック＆エレクトリック
+  - [木下理樹](../Page/木下理樹.md "wikilink")（[ART-SCHOOL](../Page/ART-SCHOOL.md "wikilink") / [killing Boy](https://ja.wikipedia.org/wiki/killing_Boy "wikilink")）
   - [group_inou](https://ja.wikipedia.org/wiki/group_inou "wikilink")
   - [Wienners](https://ja.wikipedia.org/wiki/Wienners "wikilink")
   - [Weekday Sleepers](https://ja.wikipedia.org/wiki/Weekday_Sleepers "wikilink")
@@ -794,7 +794,7 @@
   - [Maison book girl](https://ja.wikipedia.org/wiki/Maison_book_girl "wikilink")
   - [テンテンコ](https://ja.wikipedia.org/wiki/テンテンコ "wikilink")
   - [BILLIE IDLE](https://ja.wikipedia.org/wiki/BILLIE_IDLE "wikilink")
-  - [カンパニー松尾](https://ja.wikipedia.org/wiki/カンパニー松尾 "wikilink")
+  - [カンパニー松尾](../Page/カンパニー松尾.md "wikilink")
   - 劇場版BiSキャノンボール2014上映会
   - [劇場版テレクラキャノンボール2013上映会](https://ja.wikipedia.org/wiki/テレクラキャノンボール#作品（劇場版） "wikilink")
 
@@ -806,7 +806,7 @@
   - [バンドじゃないもん\!](https://ja.wikipedia.org/wiki/バンドじゃないもん! "wikilink")
   - [アップアップガールズ（仮）](https://ja.wikipedia.org/wiki/アップアップガールズ（仮） "wikilink")
   - [Cheeky Parade](https://ja.wikipedia.org/wiki/Cheeky_Parade "wikilink")
-  - [チャオ ベッラ チンクエッティ](https://ja.wikipedia.org/wiki/チャオ_ベッラ_チンクエッティ "wikilink")
+  - [チャオ ベッラ チンクエッティ](../Page/チャオ_ベッラ_チンクエッティ.md "wikilink")
   - [Especia](https://ja.wikipedia.org/wiki/Especia "wikilink")
   - [lyrical school](https://ja.wikipedia.org/wiki/lyrical_school "wikilink")
   - [ゆるめるモ\!](https://ja.wikipedia.org/wiki/ゆるめるモ! "wikilink")
@@ -815,10 +815,10 @@
   - [おやすみホログラム](https://ja.wikipedia.org/wiki/おやすみホログラム "wikilink")
   - [みきちゅ](https://ja.wikipedia.org/wiki/みきちゅ "wikilink")
   - [あヴぁんだんど](https://ja.wikipedia.org/wiki/あヴぁんだんど "wikilink")
-  - [バニラビーンズ](https://ja.wikipedia.org/wiki/バニラビーンズ "wikilink") / [掟ポルシェ](../Page/掟ポルシェ.md "wikilink")
+  - [バニラビーンズ](../Page/バニラビーンズ.md "wikilink") / [掟ポルシェ](../Page/掟ポルシェ.md "wikilink")
   - [吉田豪](../Page/吉田豪.md "wikilink")×[杉作J太郎](../Page/杉作J太郎.md "wikilink")
-  - [DJやついいちろう](https://ja.wikipedia.org/wiki/やついいちろう "wikilink")
-  - [久保ミツロウ](https://ja.wikipedia.org/wiki/久保ミツロウ "wikilink")・[能町みね子](https://ja.wikipedia.org/wiki/能町みね子 "wikilink")
+  - [DJやついいちろう](../Page/やついいちろう.md "wikilink")
+  - [久保ミツロウ](../Page/久保ミツロウ.md "wikilink")・[能町みね子](../Page/能町みね子.md "wikilink")
   - [山本さほ](https://ja.wikipedia.org/wiki/山本さほ "wikilink")・[ディスク百合おん](https://ja.wikipedia.org/wiki/ディスク百合おん "wikilink")
   - [うしじまいい肉](https://ja.wikipedia.org/wiki/うしじまいい肉 "wikilink")
   - [まんきつ](https://ja.wikipedia.org/wiki/まんきつ "wikilink")
@@ -829,12 +829,12 @@
 <div style="float: left; vertical-align: top: white-space: nowrap; margin-right: 1em;">
 
   - HSMS＜[HISASHI](../Page/HISASHI.md "wikilink")（[GLAY](../Page/GLAY.md "wikilink")）×[DJ Mass MAD Izm\*](https://ja.wikipedia.org/wiki/DJ_Mass_MAD_Izm* "wikilink")＞
-  - [ベッド・イン](https://ja.wikipedia.org/wiki/ベッド・イン "wikilink")
+  - [ベッド・イン](../Page/ベッド・イン.md "wikilink")
   - [二丁ハロ](https://ja.wikipedia.org/wiki/二丁ハロ "wikilink")
   - [LADYBABY](https://ja.wikipedia.org/wiki/LADYBABY "wikilink")
   - [NATURE DANGER GANG](https://ja.wikipedia.org/wiki/NATURE_DANGER_GANG "wikilink")
   - [クリトリック・リス](https://ja.wikipedia.org/wiki/クリトリック・リス "wikilink")
-  - [DDTプロレスリング](https://ja.wikipedia.org/wiki/DDTプロレスリング "wikilink")
+  - [DDTプロレスリング](../Page/DDTプロレスリング.md "wikilink")
   - [アントーニオ本多](../Page/アントーニオ本多.md "wikilink")
   - [夏の魔物](https://ja.wikipedia.org/wiki/夏の魔物_\(ユニット\) "wikilink")
 
@@ -857,22 +857,22 @@
 
   - [曽我部恵一BAND](https://ja.wikipedia.org/wiki/曽我部恵一BAND "wikilink")
   - [My Hair is Bad](https://ja.wikipedia.org/wiki/My_Hair_is_Bad "wikilink")
-  - [田島貴男](https://ja.wikipedia.org/wiki/田島貴男 "wikilink")
+  - [田島貴男](../Page/田島貴男.md "wikilink")
   - [DOTAMA](https://ja.wikipedia.org/wiki/DOTAMA "wikilink")
   - [Creepy Nuts](https://ja.wikipedia.org/wiki/Creepy_Nuts "wikilink")
-  - [POLYSICS](https://ja.wikipedia.org/wiki/POLYSICS "wikilink")
+  - [POLYSICS](../Page/POLYSICS.md "wikilink")
   - [忘れらんねえよ](https://ja.wikipedia.org/wiki/忘れらんねえよ "wikilink")
   - [グッドモーニングアメリカ](https://ja.wikipedia.org/wiki/グッドモーニングアメリカ "wikilink")
   - [人間椅子](https://ja.wikipedia.org/wiki/人間椅子 "wikilink")
   - [大槻ケンヂ](https://ja.wikipedia.org/wiki/大槻ケンヂ "wikilink")
-  - [ROLLY](https://ja.wikipedia.org/wiki/ROLLY "wikilink")
+  - [ROLLY](../Page/ROLLY.md "wikilink")
   - [清竜人25](https://ja.wikipedia.org/wiki/清竜人25 "wikilink")
-  - [THE NEATBEATS](https://ja.wikipedia.org/wiki/THE_NEATBEATS "wikilink")
-  - [Scoobie Do](https://ja.wikipedia.org/wiki/Scoobie_Do "wikilink")
+  - [THE NEATBEATS](../Page/THE_NEATBEATS.md "wikilink")
+  - [Scoobie Do](../Page/Scoobie_Do.md "wikilink")
   - [うつみようこ](https://ja.wikipedia.org/wiki/うつみようこ "wikilink")
   - [HINTO](https://ja.wikipedia.org/wiki/HINTO "wikilink")
-  - [バンドTOMOVSKY](https://ja.wikipedia.org/wiki/TOMOVSKY "wikilink")
-  - [向井秀徳](https://ja.wikipedia.org/wiki/向井秀徳 "wikilink")アコースティック＆エレクトリック
+  - [バンドTOMOVSKY](../Page/TOMOVSKY.md "wikilink")
+  - [向井秀徳](../Page/向井秀徳.md "wikilink")アコースティック＆エレクトリック
   - [藤井隆](../Page/藤井隆.md "wikilink")
   - [早見優](../Page/早見優.md "wikilink")
 
@@ -886,19 +886,19 @@
   - [BELLRING少女ハート](https://ja.wikipedia.org/wiki/BELLRING少女ハート "wikilink")
   - [バンドじゃないもん\!](https://ja.wikipedia.org/wiki/バンドじゃないもん! "wikilink")
   - [伊藤賢治](../Page/伊藤賢治.md "wikilink")
-  - [MOSAIC.WAV](https://ja.wikipedia.org/wiki/MOSAIC.WAV "wikilink")
+  - [MOSAIC.WAV](../Page/MOSAIC.WAV.md "wikilink")
   - [スーパー・ササダンゴ・マシン](https://ja.wikipedia.org/wiki/スーパー・ササダンゴ・マシン "wikilink")
   - [小山健](https://ja.wikipedia.org/wiki/小山健 "wikilink")
-  - [倉持由香](https://ja.wikipedia.org/wiki/倉持由香 "wikilink")
+  - [倉持由香](../Page/倉持由香.md "wikilink")
   - [掟ポルシェ](../Page/掟ポルシェ.md "wikilink")
   - [吉田豪](../Page/吉田豪.md "wikilink")×[杉作J太郎](../Page/杉作J太郎.md "wikilink")
-  - [DJやついいちろう](https://ja.wikipedia.org/wiki/やついいちろう "wikilink")
-  - [久保ミツロウ](https://ja.wikipedia.org/wiki/久保ミツロウ "wikilink")・[能町みね子](https://ja.wikipedia.org/wiki/能町みね子 "wikilink")
-  - [ベッド・イン](https://ja.wikipedia.org/wiki/ベッド・イン "wikilink")
+  - [DJやついいちろう](../Page/やついいちろう.md "wikilink")
+  - [久保ミツロウ](../Page/久保ミツロウ.md "wikilink")・[能町みね子](../Page/能町みね子.md "wikilink")
+  - [ベッド・イン](../Page/ベッド・イン.md "wikilink")
   - [クリトリック・リス](https://ja.wikipedia.org/wiki/クリトリック・リス "wikilink")
-  - [DDTプロレスリング](https://ja.wikipedia.org/wiki/DDTプロレスリング "wikilink")
+  - [DDTプロレスリング](../Page/DDTプロレスリング.md "wikilink")
   - [アントーニオ本多](../Page/アントーニオ本多.md "wikilink")
-  - [火野裕士](https://ja.wikipedia.org/wiki/火野裕士 "wikilink")
+  - [火野裕士](../Page/火野裕士.md "wikilink")
   - [夏の魔物with](https://ja.wikipedia.org/wiki/夏の魔物_\(ユニット\) "wikilink")[ヒャダイン](https://ja.wikipedia.org/wiki/ヒャダイン "wikilink")
 
 ほか
@@ -910,9 +910,9 @@
 ### イラスト
 
   - [ゆでたまご](https://ja.wikipedia.org/wiki/ゆでたまご "wikilink")
-  - [浅野いにお](https://ja.wikipedia.org/wiki/浅野いにお "wikilink")
-  - [押切蓮介](https://ja.wikipedia.org/wiki/押切蓮介 "wikilink")
-  - [コナリミサト](https://ja.wikipedia.org/wiki/コナリミサト "wikilink")
+  - [浅野いにお](../Page/浅野いにお.md "wikilink")
+  - [押切蓮介](../Page/押切蓮介.md "wikilink")
+  - [コナリミサト](../Page/コナリミサト.md "wikilink")
   - [新井英樹](../Page/新井英樹.md "wikilink")
   - [渋谷直角](https://ja.wikipedia.org/wiki/渋谷直角 "wikilink")
   - [山本さほ](https://ja.wikipedia.org/wiki/山本さほ "wikilink")

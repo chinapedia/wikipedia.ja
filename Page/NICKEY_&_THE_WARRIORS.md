@@ -8,7 +8,7 @@
   - **NICKEY**（ボーカル）1984年-
   - **本間"RAT"章浩**（ギター）2008年- King Biscuit Time
   - **福本 勝治** （ベース）the LEATHERS,ザ・ナカスギロックス
-  - **東川 元則**（ドラム）2013年- 元[シーナ&ザ・ロケッツ](https://ja.wikipedia.org/wiki/シーナ&ザ・ロケッツ "wikilink")
+  - **東川 元則**（ドラム）2013年- 元[シーナ&ザ・ロケッツ](../Page/シーナ&ザ・ロケッツ.md "wikilink")
   - サポート Drums:魔太朗/牟田　昌広
 
 ## 元メンバー
@@ -16,7 +16,7 @@
 **ギター**
 
   - **TAKI**（ギター）1984年 [ギャルズアタッチメント](https://ja.wikipedia.org/wiki/ギャルズアタッチメント "wikilink")、ROAD WARRIORS、1986年から数年間[THE ZOLGEで活動](https://ja.wikipedia.org/wiki/THE_ZOLGE "wikilink")。
-  - **オノチン**（ギター）1984年 元THE RYDERS、現JET BOYS、[オナニーマシーン](https://ja.wikipedia.org/wiki/オナニーマシーン "wikilink")
+  - **オノチン**（ギター）1984年 元THE RYDERS、現JET BOYS、[オナニーマシーン](../Page/オナニーマシーン.md "wikilink")
   - **CAT**（ギター）1986年3月-1987年9月,2000年代 元ANTI、[THE ZETT](https://ja.wikipedia.org/wiki/THE_ZETT "wikilink")、KOOL RODZ
   - **RED**（ギター）1990-1992?
   - **ROKU**（ギター）1992-1993年　元MACHINE GUN
@@ -24,14 +24,14 @@
 **ベース**
 
   - **JACK**（ベース）1984-1987年 (現在名"WANG-TANG") 元MOHAWKS、BAWS、[LAUGHIN' NOSE](../Page/LAUGHIN'_NOSE.md "wikilink")
-  - **シンイチ**（ベース）1980年後半 元[THE POGO](https://ja.wikipedia.org/wiki/THE_POGO "wikilink")、[THE ZETT](https://ja.wikipedia.org/wiki/THE_ZETT "wikilink")
+  - **シンイチ**（ベース）1980年後半 元[THE POGO](../Page/THE_POGO.md "wikilink")、[THE ZETT](https://ja.wikipedia.org/wiki/THE_ZETT "wikilink")
   - **イサオ**（ベース）1990-2000年代 (2000年代も"GUN"名義で在籍) 元桜花
   - **G-PUNK**（ベース）2013年-
 
 **ドラム**
 
-  - **[TATSUYA](https://ja.wikipedia.org/wiki/中村達也_\(ドラマー\) "wikilink")**（ドラム）1984年 元[BLANKEY JET CITY](https://ja.wikipedia.org/wiki/BLANKEY_JET_CITY "wikilink")、[MASTURBATION](https://ja.wikipedia.org/wiki/MASTURBATION "wikilink")他
-  - **KEIGO**（ボーカル→ドラム）1984-1993 元ENORA GAY、AXE BOMBER、[ザ・スターリン](https://ja.wikipedia.org/wiki/ザ・スターリン "wikilink")、G-ZET、[THE STAR CLUB](../Page/THE_STAR_CLUB.md "wikilink")
+  - **[TATSUYA](../Page/中村達也_\(ドラマー\).md "wikilink")**（ドラム）1984年 元[BLANKEY JET CITY](../Page/BLANKEY_JET_CITY.md "wikilink")、[MASTURBATION](../Page/MASTURBATION.md "wikilink")他
+  - **KEIGO**（ボーカル→ドラム）1984-1993 元ENORA GAY、AXE BOMBER、[ザ・スターリン](../Page/ザ・スターリン.md "wikilink")、G-ZET、[THE STAR CLUB](../Page/THE_STAR_CLUB.md "wikilink")
   - **KAZUO**（ドラム）2000年代 元ローディー
 
 ## ディスコグラフィー
@@ -41,7 +41,7 @@
 1.  **GO TO HELL**（1985年）ROAD WARRIORS名義。NICKEYのクレジットがあるがvoはKEIGO
 2.  **BORN THE RIDE**（1986年5月20日）
 3.  **WILD CHERRY**（1986年8月21日）モモヨ（[リザード](https://ja.wikipedia.org/wiki/LIZARD "wikilink")）プロデュース
-4.  **NO PRESENCE**（1986年12月18日）[遠藤ミチロウ](https://ja.wikipedia.org/wiki/遠藤ミチロウ "wikilink")プロデュース
+4.  **NO PRESENCE**（1986年12月18日）[遠藤ミチロウ](../Page/遠藤ミチロウ.md "wikilink")プロデュース
 
 ### アルバム
 
@@ -103,9 +103,9 @@
 
 ## 関連項目
 
-  - [イジワルケイオールスターズ](https://ja.wikipedia.org/wiki/イジワルケイオールスターズ "wikilink")
+  - [イジワルケイオールスターズ](../Page/イジワルケイオールスターズ.md "wikilink")
   - [THE STAR CLUB](../Page/THE_STAR_CLUB.md "wikilink")
-  - [日本のパンク・ロック](https://ja.wikipedia.org/wiki/日本のパンク・ロック "wikilink")
+  - [日本のパンク・ロック](../Page/日本のパンク・ロック.md "wikilink")
 
 ## 外部リンク
 

@@ -1,11 +1,11 @@
 > この記事は[RPG](https://ja.wikipedia.org/wiki/RPG)から翻訳されています。
 
 
-**スクラップド・プリンセスRPG**は、[榊一郎](../Page/榊一郎.md "wikilink")の[ライトノベル](../Page/ライトノベル.md "wikilink")『[スクラップド・プリンセス](https://ja.wikipedia.org/wiki/スクラップド・プリンセス "wikilink")』を原作とした[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")である。メインデザイナーは黒田和人（[グループSNE](../Page/グループSNE.md "wikilink")）。[2003年](../Page/2003年.md "wikilink")に[富士見書房](../Page/富士見書房.md "wikilink")から文庫版として発売された。
+**スクラップド・プリンセスRPG**は、[榊一郎](../Page/榊一郎.md "wikilink")の[ライトノベル](../Page/ライトノベル.md "wikilink")『[スクラップド・プリンセス](../Page/スクラップド・プリンセス.md "wikilink")』を原作とした[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")である。メインデザイナーは黒田和人（[グループSNE](../Page/グループSNE.md "wikilink")）。[2003年](../Page/2003年.md "wikilink")に[富士見書房](../Page/富士見書房.md "wikilink")から文庫版として発売された。
 
 ## 概要
 
-**スクラップド・プリンセスRPG**では、プレイヤーが「守護者因子の持ち主」として、『[スクラップド・プリンセス](https://ja.wikipedia.org/wiki/スクラップド・プリンセス "wikilink")』の世界を旅するのが一般的な遊び方であるとされる。また、選択ルールを採用することによって「竜騎士」や「律法を破る者」として世界に関わることも可能である。
+**スクラップド・プリンセスRPG**では、プレイヤーが「守護者因子の持ち主」として、『[スクラップド・プリンセス](../Page/スクラップド・プリンセス.md "wikilink")』の世界を旅するのが一般的な遊び方であるとされる。また、選択ルールを採用することによって「竜騎士」や「律法を破る者」として世界に関わることも可能である。
 
 スクラップド・プリンセスRPGでは、武器の種類や矢などの本数を管理しないルールを採用している。また、NPCに対する「交渉」「論争」システムを採用するなど、他の一般的なTRPGに比較してダンジョンの探索や戦闘よりも寧ろ、情報収集などにウエイトを置いたシステムになっている。
 
@@ -13,7 +13,7 @@
 
 ### 2d6システム
 
-[行為判定](https://ja.wikipedia.org/wiki/行為判定 "wikilink")やダメージ算出などの基本的なルールシステムは[ソード・ワールドRPG](https://ja.wikipedia.org/wiki/ソード・ワールドRPG "wikilink")と同じシステムが用いられており、互換性がある。ソード・ワールドRPGの特徴のひとつである「レーティング表」も同じ数値のものが採用されている。
+[行為判定](../Page/行為判定.md "wikilink")やダメージ算出などの基本的なルールシステムは[ソード・ワールドRPG](https://ja.wikipedia.org/wiki/ソード・ワールドRPG "wikilink")と同じシステムが用いられており、互換性がある。ソード・ワールドRPGの特徴のひとつである「レーティング表」も同じ数値のものが採用されている。
 
 本作の基本的なルールシステムは「[2d6システム](https://ja.wikipedia.org/wiki/2d6システム "wikilink")」と名づけられており、ルールブック表紙には2d6システムのロゴマークまでつけられている。[d20システム](https://ja.wikipedia.org/wiki/d20システム "wikilink")のように他のゲームにも採用していく構想もあったようだが、2010年現在までに2d6システムのロゴマークがつけられたゲームは本作のみとなっている\[1\]。
 
@@ -76,4 +76,4 @@
 
 [Category:テーブルトークRPG作品](https://ja.wikipedia.org/wiki/Category:テーブルトークRPG作品 "wikilink") [Category:グループSNE](https://ja.wikipedia.org/wiki/Category:グループSNE "wikilink") [Category:富士見書房のテーブルトークRPG](https://ja.wikipedia.org/wiki/Category:富士見書房のテーブルトークRPG "wikilink") [Category:日本のテーブルトークRPG](https://ja.wikipedia.org/wiki/Category:日本のテーブルトークRPG "wikilink")
 
-1.  本作以前に発売された[ドラゴンハーフRPG](https://ja.wikipedia.org/wiki/ドラゴンハーフRPG "wikilink")は2d6システムのロゴマークがつけられているわけでないが、本作と非常に似たルールとなっている。これはドラゴンハーフRPGが、2d6システムと同じく「ソード・ワールドRPGと互換性のあるルールシステムでゲームを作る」というコンセプトで作成されたからである
+1.  本作以前に発売された[ドラゴンハーフRPG](../Page/ドラゴンハーフRPG.md "wikilink")は2d6システムのロゴマークがつけられているわけでないが、本作と非常に似たルールとなっている。これはドラゴンハーフRPGが、2d6システムと同じく「ソード・ワールドRPGと互換性のあるルールシステムでゲームを作る」というコンセプトで作成されたからである

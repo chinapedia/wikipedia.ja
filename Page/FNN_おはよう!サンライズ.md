@@ -15,13 +15,13 @@
 
 ## 出演者
 
-| 期間         | 司会          | アシスタント                                                | ニュース                               | スポーツ                                                  | 天気                                                    |
-| ---------- | ----------- | ----------------------------------------------------- | ---------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
-| 月 - 水      | 木・金         | 月 - 水                                                 | 木・金                                | 月 - 水                                                 | 木・金                                                   |
-| 1993年4月1日  | 1993年9月30日  | [上田昭夫](../Page/上田昭夫.md "wikilink")                    | [木幡美子](../Page/木幡美子.md "wikilink") | [近藤サト](https://ja.wikipedia.org/wiki/近藤サト "wikilink") | [阿部知代](https://ja.wikipedia.org/wiki/阿部知代 "wikilink") |
-| 1993年10月1日 | 1993年12月24日 | [木幡美子](../Page/木幡美子.md "wikilink")                    | なし                                 | [福原直英](https://ja.wikipedia.org/wiki/福原直英 "wikilink") | [奥寺健](https://ja.wikipedia.org/wiki/奥寺健 "wikilink")   |
-| 1994年1月4日  | 1994年3月31日  | [吉田伸男](https://ja.wikipedia.org/wiki/吉田伸男 "wikilink") |                                    |                                                       |                                                       |
-|            |             |                                                       |                                    |                                                       |                                                       |
+| 期間         | 司会          | アシスタント                             | ニュース                               | スポーツ                               | 天気                                 |
+| ---------- | ----------- | ---------------------------------- | ---------------------------------- | ---------------------------------- | ---------------------------------- |
+| 月 - 水      | 木・金         | 月 - 水                              | 木・金                                | 月 - 水                              | 木・金                                |
+| 1993年4月1日  | 1993年9月30日  | [上田昭夫](../Page/上田昭夫.md "wikilink") | [木幡美子](../Page/木幡美子.md "wikilink") | [近藤サト](../Page/近藤サト.md "wikilink") | [阿部知代](../Page/阿部知代.md "wikilink") |
+| 1993年10月1日 | 1993年12月24日 | [木幡美子](../Page/木幡美子.md "wikilink") | なし                                 | [福原直英](../Page/福原直英.md "wikilink") | [奥寺健](../Page/奥寺健.md "wikilink")   |
+| 1994年1月4日  | 1994年3月31日  | [吉田伸男](../Page/吉田伸男.md "wikilink") |                                    |                                    |                                    |
+|            |             |                                    |                                    |                                    |                                    |
 
 **『FNN おはよう\!サンライズ』歴代の出演者**
 
@@ -29,7 +29,7 @@
 
 <!-- end list -->
 
-  - 境は『[FNN World Uplink](https://ja.wikipedia.org/wiki/FNN_World_Uplink "wikilink")』より続投。
+  - 境は『[FNN World Uplink](../Page/FNN_World_Uplink.md "wikilink")』より続投。
   - 奥寺は『[笑っていいとも\!](https://ja.wikipedia.org/wiki/笑っていいとも! "wikilink")』の[テレフォンアナウンサーと兼務で](https://ja.wikipedia.org/wiki/テレフォンショッキング "wikilink")、『[めざましテレビ](https://ja.wikipedia.org/wiki/めざましテレビ "wikilink")』も続投。
   - 三宅は2012年4月から『めざましテレビ』のメインキャスターを務めている。
 
@@ -92,7 +92,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/長野放送" title="wikilink">長野放送</a>(NBS)</p></td>
+<td><p><a href="../Page/長野放送.md" title="wikilink">長野放送</a>(NBS)</p></td>
 <td><p><a href="../Page/長野県.md" title="wikilink">長野県</a></p></td>
 <td></td>
 <td></td>
@@ -123,7 +123,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/東海テレビ放送.md" title="wikilink">東海テレビ</a>(THK)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東海3県" title="wikilink">中京広域圏</a></p></td>
+<td><p><a href="../Page/東海3県.md" title="wikilink">中京広域圏</a></p></td>
 <td><p>『<a href="https://ja.wikipedia.org/wiki/FNN東海テレビおはよう!サンライズ" title="wikilink">FNN東海テレビおはよう!サンライズ</a>』に改題。<br />
 放送時間については後述</p></td>
 <td></td>
@@ -142,7 +142,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/岡山放送.md" title="wikilink">岡山放送</a>(OHK)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/岡山県・香川県の放送" title="wikilink">岡山県・香川県</a></p></td>
+<td><p><a href="../Page/岡山県・香川県の放送.md" title="wikilink">岡山県・香川県</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -153,14 +153,14 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビ愛媛" title="wikilink">愛媛放送</a>(EBC)</p></td>
+<td><p><a href="../Page/テレビ愛媛.md" title="wikilink">愛媛放送</a>(EBC)</p></td>
 <td><p><a href="../Page/愛媛県.md" title="wikilink">愛媛県</a></p></td>
 <td><p>現・テレビ愛媛</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/テレビ西日本.md" title="wikilink">テレビ西日本</a>(TNC)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -183,7 +183,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビ宮崎" title="wikilink">テレビ宮崎</a>(UMK)</p></td>
+<td><p><a href="../Page/テレビ宮崎.md" title="wikilink">テレビ宮崎</a>(UMK)</p></td>
 <td><p><a href="../Page/宮崎県.md" title="wikilink">宮崎県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Nippon_News_Network" title="wikilink">NNN</a>/FNN/ANN</p></td>
 <td></td>
@@ -202,7 +202,7 @@
 <!-- end list -->
 
   - **東海テレビ**は、1時間番組時代は6:25 - 7:30に放送し、冒頭と終盤にローカルニュースとローカル情報の時間を組んでいた。30分番組時代は、開始は6:30になったが、6:55で飛び降り、後座番組として独自の20分番組『[朝いちばん\!](https://ja.wikipedia.org/wiki/朝いちばん! "wikilink")』を編成した。
-  - **関西テレビ**は、前番組の『[FNN World Uplink おおさか](https://ja.wikipedia.org/wiki/FNN_World_Uplink "wikilink")』までは近畿地方のローカル情報を挿入していたが、本番組からはほぼローカル情報は挿入されなくなり（全国向けの中継は行われた）、後座番組の30分枠で放送された『[OSAKA発\!730](https://ja.wikipedia.org/wiki/OSAKA発!730 "wikilink")』（後に『[さわやか朝一番](https://ja.wikipedia.org/wiki/さわやか朝一番 "wikilink")』）でローカル情報を扱った。なお、『めざましテレビ』になってからは、キー局で想定されたローカル枠（ニュース・天気）以外の差し替えは原則として行っていない。詳しくは『[ザ・モーニング630](https://ja.wikipedia.org/wiki/ザ・モーニング630 "wikilink")』の項を参照のこと。
+  - **関西テレビ**は、前番組の『[FNN World Uplink おおさか](../Page/FNN_World_Uplink.md "wikilink")』までは近畿地方のローカル情報を挿入していたが、本番組からはほぼローカル情報は挿入されなくなり（全国向けの中継は行われた）、後座番組の30分枠で放送された『[OSAKA発\!730](https://ja.wikipedia.org/wiki/OSAKA発!730 "wikilink")』（後に『[さわやか朝一番](https://ja.wikipedia.org/wiki/さわやか朝一番 "wikilink")』）でローカル情報を扱った。なお、『めざましテレビ』になってからは、キー局で想定されたローカル枠（ニュース・天気）以外の差し替えは原則として行っていない。詳しくは『[ザ・モーニング630](../Page/ザ・モーニング630.md "wikilink")』の項を参照のこと。
 
 ## 脚注
 

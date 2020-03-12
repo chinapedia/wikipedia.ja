@@ -1,14 +1,14 @@
 > この記事は[BITE THE LUNG](https://ja.wikipedia.org/wiki/BITE_THE_LUNG)から翻訳されています。
 
 
-**BITE THE LUNG**（バイト・ザ・ラング）は[下北沢](../Page/下北沢.md "wikilink")、[吉祥寺](https://ja.wikipedia.org/wiki/吉祥寺 "wikilink")を中心に活動するツインボーカル4人組+1[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。2000年4月2日結成。 2010年4月より、サポートギター神田研司が合流。2010年9月12日より神田研司が正式加入。
+**BITE THE LUNG**（バイト・ザ・ラング）は[下北沢](../Page/下北沢.md "wikilink")、[吉祥寺](../Page/吉祥寺.md "wikilink")を中心に活動するツインボーカル4人組+1[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。2000年4月2日結成。 2010年4月より、サポートギター神田研司が合流。2010年9月12日より神田研司が正式加入。
 
 ## メンバー
 
   - **遠藤満**（ボーカル・ギター）[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")出身 　
   - **山中広大**（ボーカル・ギター）[高知県](../Page/高知県.md "wikilink")出身
-  - **神田研司**（ギター）[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身　　
-  - **進藤清一**（ベース）[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")出身　
+  - **神田研司**（ギター）[東京都](../Page/東京都.md "wikilink")出身　　
+  - **進藤清一**（ベース）[大阪府](../Page/大阪府.md "wikilink")出身　
 
 ## ディスコグラフィー
 
@@ -86,12 +86,12 @@
 <td><p><strong>太陽</strong></p></td>
 <td><p>QWCD-00004</p></td>
 <td><ol>
-<li>太陽（<a href="https://ja.wikipedia.org/wiki/テレビ東京系" title="wikilink">テレビ東京系</a>アニメ『<a href="https://ja.wikipedia.org/wiki/遊☆戯☆王デュエルモンスターズGX" title="wikilink">遊☆戯☆王デュエルモンスターズGX</a>』エンディングテーマ）</li>
+<li>太陽（<a href="https://ja.wikipedia.org/wiki/テレビ東京系" title="wikilink">テレビ東京系</a>アニメ『<a href="../Page/遊☆戯☆王デュエルモンスターズGX.md" title="wikilink">遊☆戯☆王デュエルモンスターズGX</a>』エンディングテーマ）</li>
 <li>カーテンコール</li>
 <li>ディアルーザー</li>
 </ol></td>
 <td><p>BOOT-UP RECORDS<br />
-片寄明人（<a href="https://ja.wikipedia.org/wiki/GREAT3" title="wikilink">GREAT3</a>）プロデュース</p></td>
+片寄明人（<a href="../Page/GREAT3.md" title="wikilink">GREAT3</a>）プロデュース</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -179,7 +179,7 @@
 <li>freedom?　</li>
 <li>Time is over　</li>
 </ol></td>
-<td><p>三浦俊一（ex<a href="https://ja.wikipedia.org/wiki/有頂天_(バンド)" title="wikilink">有頂天</a>/<a href="https://ja.wikipedia.org/wiki/ケラ&amp;ザ・シンセサイザーズ" title="wikilink">ケラ&amp;ザ・シンセサイザーズ</a>）プロデュース</p></td>
+<td><p>三浦俊一（ex<a href="../Page/有頂天_(バンド).md" title="wikilink">有頂天</a>/<a href="https://ja.wikipedia.org/wiki/ケラ&amp;ザ・シンセサイザーズ" title="wikilink">ケラ&amp;ザ・シンセサイザーズ</a>）プロデュース</p></td>
 </tr>
 <tr class="odd">
 <td><p>5th</p></td>
@@ -194,7 +194,7 @@
 <li>GREEN MUSIC</li>
 <li>いつかの君に会うために</li>
 </ol></td>
-<td><p>三浦俊一（ex<a href="https://ja.wikipedia.org/wiki/有頂天_(バンド)" title="wikilink">有頂天</a>/<a href="https://ja.wikipedia.org/wiki/ケラ&amp;ザ・シンセサイザーズ" title="wikilink">ケラ&amp;ザ・シンセサイザーズ</a>）プロデュース</p></td>
+<td><p>三浦俊一（ex<a href="../Page/有頂天_(バンド).md" title="wikilink">有頂天</a>/<a href="https://ja.wikipedia.org/wiki/ケラ&amp;ザ・シンセサイザーズ" title="wikilink">ケラ&amp;ザ・シンセサイザーズ</a>）プロデュース</p></td>
 </tr>
 <tr class="even">
 <td><p>6th</p></td>
@@ -210,7 +210,7 @@
 <li>VOICE 2010</li>
 <li>SCHOOL OF LIFE</li>
 </ol></td>
-<td><p>三浦俊一（ex<a href="https://ja.wikipedia.org/wiki/有頂天_(バンド)" title="wikilink">有頂天</a>/<a href="https://ja.wikipedia.org/wiki/ケラ&amp;ザ・シンセサイザーズ" title="wikilink">ケラ&amp;ザ・シンセサイザーズ</a>）プロデュース</p></td>
+<td><p>三浦俊一（ex<a href="../Page/有頂天_(バンド).md" title="wikilink">有頂天</a>/<a href="https://ja.wikipedia.org/wiki/ケラ&amp;ザ・シンセサイザーズ" title="wikilink">ケラ&amp;ザ・シンセサイザーズ</a>）プロデュース</p></td>
 </tr>
 <tr class="odd">
 <td><p>7th</p></td>

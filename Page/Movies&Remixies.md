@@ -1,7 +1,7 @@
 > この記事は[Movies\&Remixies](https://ja.wikipedia.org/wiki/Movies\&Remixies)から翻訳されています。
 
 
-『**Movies\&Remixies**』（ムービーズアンドリミキシーズ）は、[SOUL'd OUTのリミックスアルバムである](../Page/SOUL'd_OUT.md "wikilink")。ファーストアルバム『[SOUL'd OUT](https://ja.wikipedia.org/wiki/SOUL'd_OUT_\(アルバム\) "wikilink")』との間にセカンドアルバム『[To All Tha Dreamers](https://ja.wikipedia.org/wiki/To_All_Tha_Dreamers "wikilink")』を挟んでのリリースで、リミックスアルバムとしては1枚目。[2003年](../Page/2003年.md "wikilink")[12月10日](https://ja.wikipedia.org/wiki/12月10日 "wikilink")にリリース。
+『**Movies\&Remixies**』（ムービーズアンドリミキシーズ）は、[SOUL'd OUTのリミックスアルバムである](../Page/SOUL'd_OUT.md "wikilink")。ファーストアルバム『[SOUL'd OUT](../Page/SOUL'd_OUT_\(アルバム\).md "wikilink")』との間にセカンドアルバム『[To All Tha Dreamers](../Page/To_All_Tha_Dreamers.md "wikilink")』を挟んでのリリースで、リミックスアルバムとしては1枚目。[2003年](../Page/2003年.md "wikilink")[12月10日](../Page/12月10日.md "wikilink")にリリース。
 
 ## 概要
 

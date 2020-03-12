@@ -1,7 +1,7 @@
 > この記事は[FREEASY BEATS](https://ja.wikipedia.org/wiki/FREEASY_BEATS)から翻訳されています。
 
 
-**FREEASY BEATS**（フリージー・ビーツ）は、[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")[川越市](../Page/川越市.md "wikilink")出身の兄弟[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")[デュオ](https://ja.wikipedia.org/wiki/デュオ "wikilink")である。2007年[キングレコード](../Page/キングレコード.md "wikilink")よりメジャーデビュー。
+**FREEASY BEATS**（フリージー・ビーツ）は、[埼玉県](../Page/埼玉県.md "wikilink")[川越市](../Page/川越市.md "wikilink")出身の兄弟[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")[デュオ](../Page/デュオ.md "wikilink")である。2007年[キングレコード](../Page/キングレコード.md "wikilink")よりメジャーデビュー。
 
 ## メンバー
 
@@ -146,7 +146,7 @@
 <li>色なき風 【作詞作曲:FREEASY BEATS/編曲:FREEASY BEATS &amp; crew】</li>
 </ol>
 <p>#KEEP ON</p></td>
-<td><p>【作詞作曲:FREEASY BEATS/編曲:<a href="https://ja.wikipedia.org/wiki/渡辺貴浩" title="wikilink">渡辺貴浩</a>】</p>
+<td><p>【作詞作曲:FREEASY BEATS/編曲:<a href="../Page/渡辺貴浩.md" title="wikilink">渡辺貴浩</a>】</p>
 <ol>
 <li>FLY HIGH 【作詞作曲:FREEASY BEATS/編曲:塚本功】</li>
 <li>night club～interude～ 【作曲:FREEASY BEATS/編曲:FREEASY BEATS &amp; crew】</li>
@@ -308,7 +308,7 @@ KICS-1386:通常盤</p></td>
 <tbody>
 <tr class="odd">
 <td><p>エボシ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/TBSテレビ" title="wikilink">TBS系</a>「<a href="https://ja.wikipedia.org/wiki/COUNT_DOWN_TV" title="wikilink">COUNT DOWN TV</a>」3月オープニングテーマ</p></td>
+<td><p><a href="../Page/TBSテレビ.md" title="wikilink">TBS系</a>「<a href="../Page/COUNT_DOWN_TV.md" title="wikilink">COUNT DOWN TV</a>」3月オープニングテーマ</p></td>
 </tr>
 <tr class="even">
 <td><p>ありがとう、愛してる</p></td>
@@ -316,11 +316,11 @@ KICS-1386:通常盤</p></td>
 </tr>
 <tr class="odd">
 <td><p>WORLD</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a>「<a href="https://ja.wikipedia.org/wiki/やりすぎコージー" title="wikilink">やりすぎコージー</a>」（7～9月度）エンディングテーマ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a>「<a href="../Page/やりすぎコージー.md" title="wikilink">やりすぎコージー</a>」（7～9月度）エンディングテーマ</p></td>
 </tr>
 <tr class="even">
 <td><p>晴れ渡る空</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/TBSテレビ" title="wikilink">TBS系</a>「<a href="https://ja.wikipedia.org/wiki/ランク王国" title="wikilink">ランク王国</a>」（8・9月度）オープニングテーマ</p></td>
+<td><p><a href="../Page/TBSテレビ.md" title="wikilink">TBS系</a>「<a href="../Page/ランク王国.md" title="wikilink">ランク王国</a>」（8・9月度）オープニングテーマ</p></td>
 </tr>
 <tr class="odd">
 <td><p>Positive Vibration</p></td>
@@ -328,7 +328,7 @@ KICS-1386:通常盤</p></td>
 </tr>
 <tr class="even">
 <td><p>#イメージ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/象印マホービン" title="wikilink">象印ステンレスボトルTVCFソング</a>（2009.1月〜）<br />
+<td><p><a href="../Page/象印マホービン.md" title="wikilink">象印ステンレスボトルTVCFソング</a>（2009.1月〜）<br />
 <a href="https://ja.wikipedia.org/wiki/テレビ東京系" title="wikilink">テレビ東京系</a>「<a href="https://ja.wikipedia.org/wiki/DRIVE_A_GOGO" title="wikilink">DRIVE A GOGO</a>」（4～6月度）エンディングテーマ</p></td>
 </tr>
 </tbody>
@@ -340,13 +340,13 @@ KICS-1386:通常盤</p></td>
 
 ## 関連項目
 
-  - [2007年の音楽](https://ja.wikipedia.org/wiki/2007年の音楽 "wikilink")
+  - [2007年の音楽](../Page/2007年の音楽.md "wikilink")
 
 ## 交友のあるアーティスト
 
   - [Rickie-G](../Page/Rickie-G.md "wikilink")
   - [Def Tech](https://ja.wikipedia.org/wiki/Def_Tech "wikilink")
-  - [MAY'S](https://ja.wikipedia.org/wiki/MAY'S "wikilink")
+  - [MAY'S](../Page/MAY'S.md "wikilink")
   - [DJ WATARAI](../Page/DJ_WATARAI.md "wikilink")
   - [FUNKIST](https://ja.wikipedia.org/wiki/FUNKIST "wikilink")
   - [tick](https://ja.wikipedia.org/wiki/tick "wikilink")

@@ -1,7 +1,7 @@
 > この記事は[AVERAGE PSYCHO](https://ja.wikipedia.org/wiki/AVERAGE_PSYCHO)から翻訳されています。
 
 
-『**AVERAGE PSYCHO**』（アヴェレージ・サイコ）は[Dir en greyの](https://ja.wikipedia.org/wiki/DIR_EN_GREY "wikilink")[PV集DVD](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月27日](../Page/7月27日.md "wikilink")発売。
+『**AVERAGE PSYCHO**』（アヴェレージ・サイコ）は[Dir en greyの](../Page/DIR_EN_GREY.md "wikilink")[PV集DVD](../Page/ミュージック・ビデオ.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink")発売。
 
 ## 解説
 
@@ -12,15 +12,15 @@
 1.  **[OBSCURE](../Page/VULGAR.md "wikilink")**
       -
         規制版はアルバム『[VULGAR](../Page/VULGAR.md "wikilink")』の初回限定盤付属DVDに収録。
-        さまざまな奇人たちとメンバーの演奏シーンが錯綜する。生きている生首・四肢切断・[花魁](https://ja.wikipedia.org/wiki/花魁 "wikilink")をはべらす[般若](../Page/般若.md "wikilink")・自分の心臓を取り出して食べる・子供の首を食べる（[カニバリズム](../Page/カニバリズム.md "wikilink")）などの映像が含まれている。
-        そのためドイツ単独公演時にも規制により放映が中止され、アメリカ公演でも一部から[クレーム](https://ja.wikipedia.org/wiki/クレーム "wikilink")を受けたほどである。
+        さまざまな奇人たちとメンバーの演奏シーンが錯綜する。生きている生首・四肢切断・[花魁](../Page/花魁.md "wikilink")をはべらす[般若](../Page/般若.md "wikilink")・自分の心臓を取り出して食べる・子供の首を食べる（[カニバリズム](../Page/カニバリズム.md "wikilink")）などの映像が含まれている。
+        そのためドイツ単独公演時にも規制により放映が中止され、アメリカ公演でも一部から[クレーム](../Page/クレーム.md "wikilink")を受けたほどである。
         2012年に英音楽サイトGigwiseが発表した「最も物議を醸したミュージック・ビデオ TOP50」では8位にランクインしている。
 2.  **[朔-saku-](../Page/朔-saku-.md "wikilink")**
       -
         規制版は『[AVERAGE FURY](https://ja.wikipedia.org/wiki/AVERAGE_FURY "wikilink")』に収録。
         「親殺し」をテーマとした作品。日本の平凡な家庭の少年が自分の家族を殺害してしまうが、死体をそのままにして暮らすというストーリーになっている。
-        大手音楽専門チャンネル[MTV](https://ja.wikipedia.org/wiki/MTV "wikilink")の番組『ヘッドバンガーズ・ボール』で、2005年に新設された視聴者が選定するPV音楽賞(HEADBANGERS BALL PV 2006)に、日本のロックバンドの作品として初めてノミネートされ、グランプリを獲得した。
-3.  **[鼓動](https://ja.wikipedia.org/wiki/Withering_to_death. "wikilink")**
+        大手音楽専門チャンネル[MTV](../Page/MTV.md "wikilink")の番組『ヘッドバンガーズ・ボール』で、2005年に新設された視聴者が選定するPV音楽賞(HEADBANGERS BALL PV 2006)に、日本のロックバンドの作品として初めてノミネートされ、グランプリを獲得した。
+3.  **[鼓動](../Page/Withering_to_death..md "wikilink")**
       -
         規制版は『AVERAGE FURY』に収録。
         「朔-saku-」の続編とされ、事件前後の背景、搬送される少年等の断片的な映像とメンバーの演奏風景が交互に流れる。

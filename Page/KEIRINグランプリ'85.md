@@ -1,21 +1,21 @@
 > この記事は[KEIRIN\'85](https://ja.wikipedia.org/wiki/KEIRIN\'85)から翻訳されています。
 
 
-**KEIRINグランプリ'85**（けいりんぐらんぷりはちじゅうご）は[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[12月30日](../Page/12月30日.md "wikilink")に[立川競輪場](https://ja.wikipedia.org/wiki/立川競輪場 "wikilink")で開催された[KEIRINグランプリ](../Page/KEIRINグランプリ.md "wikilink")である。優勝賞金1000万円。
+**KEIRINグランプリ'85**（けいりんぐらんぷりはちじゅうご）は[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[12月30日](../Page/12月30日.md "wikilink")に[立川競輪場](../Page/立川競輪場.md "wikilink")で開催された[KEIRINグランプリ](../Page/KEIRINグランプリ.md "wikilink")である。優勝賞金1000万円。
 
 ## 出場選手
 
-| 車番 | 選手                                                        | 出身[県](../Page/都道府県.md "wikilink")                  | 出場要件事項                                                                              |
-| -- | --------------------------------------------------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| 1  | **[中野浩一](https://ja.wikipedia.org/wiki/中野浩一 "wikilink")** | [福岡](https://ja.wikipedia.org/wiki/福岡県 "wikilink") | [世界選手権・プロスプリント優勝](https://ja.wikipedia.org/wiki/世界選手権自転車競技大会トラックレース1985 "wikilink") |
-| 2  | [尾崎雅彦](https://ja.wikipedia.org/wiki/尾崎雅彦 "wikilink")     | [東京](https://ja.wikipedia.org/wiki/東京都 "wikilink") | 競走得点上位                                                                              |
-| 3  | [滝澤正光](https://ja.wikipedia.org/wiki/滝澤正光 "wikilink")     | [千葉](https://ja.wikipedia.org/wiki/千葉県 "wikilink") | [高松宮杯競輪優勝](../Page/高松宮記念杯競輪.md "wikilink")                                          |
-| 4  | [佐々木昭彦](https://ja.wikipedia.org/wiki/佐々木昭彦 "wikilink")   | [佐賀](../Page/佐賀県.md "wikilink")                    | [全日本選抜競輪](https://ja.wikipedia.org/wiki/全日本選抜競輪 "wikilink")優勝                       |
-| 5  | [山口健治](https://ja.wikipedia.org/wiki/山口健治 "wikilink")     | 東京                                                 | 競走得点上位                                                                              |
-| 6  | [伊藤豊明](https://ja.wikipedia.org/wiki/伊藤豊明 "wikilink")     | [愛媛](../Page/愛媛県.md "wikilink")                    | 競走得点上位                                                                              |
-| 7  | [井上茂徳](https://ja.wikipedia.org/wiki/井上茂徳 "wikilink")     | 佐賀                                                 | [全日本競輪王戦優勝](https://ja.wikipedia.org/wiki/競輪祭 "wikilink")                           |
-| 8  | [高橋健二](../Page/高橋健二_\(競輪選手\).md "wikilink")               | [愛知](https://ja.wikipedia.org/wiki/愛知県 "wikilink") | [オールスター競輪](https://ja.wikipedia.org/wiki/オールスター競輪 "wikilink")優勝                     |
-| 9  | [清嶋彰一](https://ja.wikipedia.org/wiki/清嶋彰一 "wikilink")     | 東京                                                 | [日本選手権競輪](https://ja.wikipedia.org/wiki/日本選手権競輪 "wikilink")優勝                       |
+| 車番 | 選手                                                    | 出身[県](../Page/都道府県.md "wikilink")                  | 出場要件事項                                                           |
+| -- | ----------------------------------------------------- | -------------------------------------------------- | ---------------------------------------------------------------- |
+| 1  | **[中野浩一](../Page/中野浩一.md "wikilink")**                | [福岡](../Page/福岡県.md "wikilink")                    | [世界選手権・プロスプリント優勝](../Page/世界選手権自転車競技大会トラックレース1985.md "wikilink") |
+| 2  | [尾崎雅彦](../Page/尾崎雅彦.md "wikilink")                    | [東京](../Page/東京都.md "wikilink")                    | 競走得点上位                                                           |
+| 3  | [滝澤正光](../Page/滝澤正光.md "wikilink")                    | [千葉](../Page/千葉県.md "wikilink")                    | [高松宮杯競輪優勝](../Page/高松宮記念杯競輪.md "wikilink")                       |
+| 4  | [佐々木昭彦](../Page/佐々木昭彦.md "wikilink")                  | [佐賀](../Page/佐賀県.md "wikilink")                    | [全日本選抜競輪](https://ja.wikipedia.org/wiki/全日本選抜競輪 "wikilink")優勝    |
+| 5  | [山口健治](../Page/山口健治.md "wikilink")                    | 東京                                                 | 競走得点上位                                                           |
+| 6  | [伊藤豊明](https://ja.wikipedia.org/wiki/伊藤豊明 "wikilink") | [愛媛](../Page/愛媛県.md "wikilink")                    | 競走得点上位                                                           |
+| 7  | [井上茂徳](../Page/井上茂徳.md "wikilink")                    | 佐賀                                                 | [全日本競輪王戦優勝](https://ja.wikipedia.org/wiki/競輪祭 "wikilink")        |
+| 8  | [高橋健二](../Page/高橋健二_\(競輪選手\).md "wikilink")           | [愛知](https://ja.wikipedia.org/wiki/愛知県 "wikilink") | [オールスター競輪](../Page/オールスター競輪.md "wikilink")優勝                     |
+| 9  | [清嶋彰一](../Page/清嶋彰一.md "wikilink")                    | 東京                                                 | [日本選手権競輪](../Page/日本選手権競輪.md "wikilink")優勝                       |
 
   - 誘導員 - [恩田繁雄](https://ja.wikipedia.org/wiki/恩田繁雄 "wikilink")
 
@@ -31,17 +31,17 @@
 
 ## 競走結果
 
-| 着順 | 選手                                                        | [決まり手](../Page/決まり手.md "wikilink") |
-| -- | --------------------------------------------------------- | ---------------------------------- |
-| 1  | **[中野浩一](https://ja.wikipedia.org/wiki/中野浩一 "wikilink")** | 捲                                  |
-| 2  | [井上茂徳](https://ja.wikipedia.org/wiki/井上茂徳 "wikilink")     | 差                                  |
-| 3  | [佐々木昭彦](https://ja.wikipedia.org/wiki/佐々木昭彦 "wikilink")   |                                    |
-| 4  | [尾崎雅彦](https://ja.wikipedia.org/wiki/尾崎雅彦 "wikilink")     |                                    |
-| 5  | [伊藤豊明](https://ja.wikipedia.org/wiki/伊藤豊明 "wikilink")     |                                    |
-| 6  | [山口健治](https://ja.wikipedia.org/wiki/山口健治 "wikilink")     |                                    |
-| 7  | [高橋健二](../Page/高橋健二_\(競輪選手\).md "wikilink")               |                                    |
-| 8  | [滝澤正光](https://ja.wikipedia.org/wiki/滝澤正光 "wikilink")     |                                    |
-| 9  | [清嶋彰一](https://ja.wikipedia.org/wiki/清嶋彰一 "wikilink")     |                                    |
+| 着順 | 選手                                                    | [決まり手](../Page/決まり手.md "wikilink") |
+| -- | ----------------------------------------------------- | ---------------------------------- |
+| 1  | **[中野浩一](../Page/中野浩一.md "wikilink")**                | 捲                                  |
+| 2  | [井上茂徳](../Page/井上茂徳.md "wikilink")                    | 差                                  |
+| 3  | [佐々木昭彦](../Page/佐々木昭彦.md "wikilink")                  |                                    |
+| 4  | [尾崎雅彦](../Page/尾崎雅彦.md "wikilink")                    |                                    |
+| 5  | [伊藤豊明](https://ja.wikipedia.org/wiki/伊藤豊明 "wikilink") |                                    |
+| 6  | [山口健治](../Page/山口健治.md "wikilink")                    |                                    |
+| 7  | [高橋健二](../Page/高橋健二_\(競輪選手\).md "wikilink")           |                                    |
+| 8  | [滝澤正光](../Page/滝澤正光.md "wikilink")                    |                                    |
+| 9  | [清嶋彰一](../Page/清嶋彰一.md "wikilink")                    |                                    |
 
 ### 配当金額
 
@@ -55,11 +55,11 @@
 
 <!-- end list -->
 
-  - この開催が決定したのは当年10月頃であった。準備不足もあり、場外発売を行った競輪場は僅か10場と非常に少なく、特に近畿地区の[競輪場](https://ja.wikipedia.org/wiki/競輪場 "wikilink")では全く場外発売が行われなかった。加えて当時はまだ[競輪](../Page/競輪.md "wikilink")では[電話投票](https://ja.wikipedia.org/wiki/電話投票 "wikilink")はほとんど普及していなかった。またテレビ中継もレース当日にテレビ東京系列で30分番組として放送されることが急遽決まったものの、ネットされない地区が多かった。
+  - この開催が決定したのは当年10月頃であった。準備不足もあり、場外発売を行った競輪場は僅か10場と非常に少なく、特に近畿地区の[競輪場](../Page/競輪場.md "wikilink")では全く場外発売が行われなかった。加えて当時はまだ[競輪](../Page/競輪.md "wikilink")では[電話投票](../Page/電話投票.md "wikilink")はほとんど普及していなかった。またテレビ中継もレース当日にテレビ東京系列で30分番組として放送されることが急遽決まったものの、ネットされない地区が多かった。
 
 <!-- end list -->
 
-  - ちなみに、今では各[公営競技](https://ja.wikipedia.org/wiki/公営競技 "wikilink")においてしばし行われるようになった、選手のファンへのお出迎えサービスはこのKEIRINグランプリ'85が最初である\[5\]（グランプリ出場選手9名が立川競輪場入場門口に勢ぞろいした）。
+  - ちなみに、今では各[公営競技](../Page/公営競技.md "wikilink")においてしばし行われるようになった、選手のファンへのお出迎えサービスはこのKEIRINグランプリ'85が最初である\[5\]（グランプリ出場選手9名が立川競輪場入場門口に勢ぞろいした）。
 
 <!-- end list -->
 
@@ -75,7 +75,7 @@
 
 <!-- end list -->
 
-  - この[競走](../Page/競走.md "wikilink")（レース）は他の公営競技にも多大な影響を与え、[競艇](../Page/競艇.md "wikilink")では翌年の[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")から、優勝賞金3000万円の[賞金王決定戦が行われ](https://ja.wikipedia.org/wiki/賞金王決定戦競走#賞金王決定戦 "wikilink")、[オートレース](https://ja.wikipedia.org/wiki/オートレース "wikilink")では翌々年の[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")の3月に[スーパースター王座決定戦](https://ja.wikipedia.org/wiki/スーパースター王座決定戦 "wikilink")が開催されるなど、その年（年度）のグランドチャンピオンを決する大会が続々と誕生するようになった。
+  - この[競走](../Page/競走.md "wikilink")（レース）は他の公営競技にも多大な影響を与え、[競艇](../Page/競艇.md "wikilink")では翌年の[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")から、優勝賞金3000万円の[賞金王決定戦が行われ](https://ja.wikipedia.org/wiki/賞金王決定戦競走#賞金王決定戦 "wikilink")、[オートレース](../Page/オートレース.md "wikilink")では翌々年の[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")の3月に[スーパースター王座決定戦](../Page/スーパースター王座決定戦.md "wikilink")が開催されるなど、その年（年度）のグランドチャンピオンを決する大会が続々と誕生するようになった。
 
 ## 脚注
 
@@ -95,9 +95,9 @@
 [Category:KEIRINグランプリ](https://ja.wikipedia.org/wiki/Category:KEIRINグランプリ "wikilink") [Category:1985年の競輪](https://ja.wikipedia.org/wiki/Category:1985年の競輪 "wikilink") [Category:立川市のスポーツ史](https://ja.wikipedia.org/wiki/Category:立川市のスポーツ史 "wikilink") [Category:1985年12月](https://ja.wikipedia.org/wiki/Category:1985年12月 "wikilink")
 
 1.  日刊スポーツ連載コラム『伝説』〜KEIRINグランプリ列伝〜（[2009年](../Page/2009年.md "wikilink")[11月17日](../Page/11月17日.md "wikilink")〜[11月21日](../Page/11月21日.md "wikilink")）
-2.  KEIRINグランプリ'85の前場所となる、[岐阜記念を欠場したことに起因する](https://ja.wikipedia.org/wiki/岐阜競輪場 "wikilink")。現役当時、中野は斡旋予定されている開催を欠場する際には決まって事前に申し出を行っていたが、岐阜記念欠場のときにはそうした形が取られなかったため。
+2.  KEIRINグランプリ'85の前場所となる、[岐阜記念を欠場したことに起因する](../Page/岐阜競輪場.md "wikilink")。現役当時、中野は斡旋予定されている開催を欠場する際には決まって事前に申し出を行っていたが、岐阜記念欠場のときにはそうした形が取られなかったため。
 3.  [KEIRINグランプリ1985　プレーバック](http://cache.yahoofs.jp/search/cache?c=uQBauOHjHnAJ&p=keiringp08&u=www.idolreport.jp/ad/keirin/keiringp08/playback/1985/index.html)（[アーカイブ](http://archive.is/aWSyi)）
 4.  中野は100m走に出場したが、レース半ばで突然、ズルズルと後退していくシーンが番組内で放映された。
-5.  [ミラクルC](../Page/ミラクルC.md "wikilink")で[立川競輪場](https://ja.wikipedia.org/wiki/立川競輪場 "wikilink")の特集が組まれた日（年日不詳）に、KEIRINグランプリ'85に出場した中野浩一が証言。
+5.  [ミラクルC](../Page/ミラクルC.md "wikilink")で[立川競輪場](../Page/立川競輪場.md "wikilink")の特集が組まれた日（年日不詳）に、KEIRINグランプリ'85に出場した中野浩一が証言。
 6.
 7.  当時競輪評論家だった[福島正幸](../Page/福島正幸.md "wikilink")は、月刊競輪1986年2月号に掲載された自身のコラムの中で、KEIRINグランプリ'85の開催は大成功であったと絶賛している。

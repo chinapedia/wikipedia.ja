@@ -6,10 +6,10 @@
 
 ## メンバー
 
-  - **CHIO**（[9月30日](../Page/9月30日.md "wikilink") - ）ボーカル。[京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")[京都市](../Page/京都市.md "wikilink")[西京区](../Page/西京区.md "wikilink")出身
+  - **CHIO**（[9月30日](../Page/9月30日.md "wikilink") - ）ボーカル。[京都府](../Page/京都府.md "wikilink")[京都市](../Page/京都市.md "wikilink")[西京区](../Page/西京区.md "wikilink")出身
       -
         旧名：千織
-  - **YOOKEY**（[12月9日](../Page/12月9日.md "wikilink") - ）ギター。[京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")[京都市](../Page/京都市.md "wikilink")[西京区](../Page/西京区.md "wikilink")出身
+  - **YOOKEY**（[12月9日](../Page/12月9日.md "wikilink") - ）ギター。[京都府](../Page/京都府.md "wikilink")[京都市](../Page/京都市.md "wikilink")[西京区](../Page/西京区.md "wikilink")出身
   - **SHINGO**　ドラム。
       -
         元Take Ambulance（2015年2月7日に解散）。
@@ -19,18 +19,18 @@
 
 ## 旧メンバー
 
-  - **トビ太**（[9月22日](../Page/9月22日.md "wikilink") - ）ドラム。[茨城県](https://ja.wikipedia.org/wiki/茨城県 "wikilink")[鉾田市](https://ja.wikipedia.org/wiki/鉾田市 "wikilink")[野友](https://ja.wikipedia.org/wiki/野友 "wikilink")出身
-  - **Kenji**([6月30日](../Page/6月30日.md "wikilink") - ) ベース。[茨城県](https://ja.wikipedia.org/wiki/茨城県 "wikilink")[鉾田市](https://ja.wikipedia.org/wiki/鉾田市 "wikilink")[野友](https://ja.wikipedia.org/wiki/野友 "wikilink")出身
+  - **トビ太**（[9月22日](../Page/9月22日.md "wikilink") - ）ドラム。[茨城県](../Page/茨城県.md "wikilink")[鉾田市](../Page/鉾田市.md "wikilink")[野友](https://ja.wikipedia.org/wiki/野友 "wikilink")出身
+  - **Kenji**([6月30日](../Page/6月30日.md "wikilink") - ) ベース。[茨城県](../Page/茨城県.md "wikilink")[鉾田市](../Page/鉾田市.md "wikilink")[野友](https://ja.wikipedia.org/wiki/野友 "wikilink")出身
       -
         2011年5月正式加入。トビ太の実弟。
-  - '''守安 厚 '''([7月6日](../Page/7月6日.md "wikilink") - ) ベース。[京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")出身
+  - '''守安 厚 '''([7月6日](../Page/7月6日.md "wikilink") - ) ベース。[京都府](../Page/京都府.md "wikilink")出身
       -
         2010年12月をもって脱退。
 
 ## 歴史
 
   - 2005年、UPLIFT SPICE結成。
-  - 2008年、[ELLEGARDEN](https://ja.wikipedia.org/wiki/ELLEGARDEN "wikilink") vs [BRAHMAN](https://ja.wikipedia.org/wiki/BRAHMAN "wikilink")のオープニングアクトをつとめる。
+  - 2008年、[ELLEGARDEN](../Page/ELLEGARDEN.md "wikilink") vs [BRAHMAN](../Page/BRAHMAN.md "wikilink")のオープニングアクトをつとめる。
   - 2009年、ツアーファイナル・企画イベントがソールドアウト。
   - 2010年、[SAOSIN](https://ja.wikipedia.org/wiki/SAOSIN "wikilink")、[THE USEDの両公演のオープニングアクトをつとめる](https://ja.wikipedia.org/wiki/THE_USED "wikilink")。
       -
@@ -277,7 +277,7 @@
   - 2013年～2014年 - UPLIFT SPICE ØØØ TOUR 2013-2014 & O-Crest 10th Anniversary
   - 2016年02月06日〜04月09日 - THE MUSMUS PROLOGUE TOUR
       -
-        w/[ROACH](https://ja.wikipedia.org/wiki/ROACH "wikilink") / [a crowd of rebellion](https://ja.wikipedia.org/wiki/a_crowd_of_rebellion "wikilink") / [FLiP](https://ja.wikipedia.org/wiki/FLiP "wikilink") / [STANCE PUNKS](https://ja.wikipedia.org/wiki/STANCE_PUNKS "wikilink") / [The Winking Owl](https://ja.wikipedia.org/wiki/The_Winking_Owl "wikilink") / [ACCIDENT I LOVED](https://ja.wikipedia.org/wiki/ACCIDENT_I_LOVED "wikilink") / [Boiler Maker](https://ja.wikipedia.org/wiki/Boiler_Maker "wikilink") / [canae](https://ja.wikipedia.org/wiki/canae "wikilink") / [CRAWLICK](https://ja.wikipedia.org/wiki/CRAWLICK "wikilink") / [FAKE FACE](https://ja.wikipedia.org/wiki/FAKE_FACE "wikilink") / [HaKU](https://ja.wikipedia.org/wiki/HaKU "wikilink") / [HenLee](https://ja.wikipedia.org/wiki/HenLee "wikilink") / [HER NAME IN BLOOD](https://ja.wikipedia.org/wiki/HER_NAME_IN_BLOOD "wikilink") / [MELLOWSHiP](https://ja.wikipedia.org/wiki/MELLOWSHiP "wikilink") / [SpecialThanks](https://ja.wikipedia.org/wiki/SpecialThanks "wikilink") / [Survive Said The Prophet](https://ja.wikipedia.org/wiki/Survive_Said_The_Prophet "wikilink") / [Swimbrights](https://ja.wikipedia.org/wiki/Swimbrights "wikilink") / [UNLIMITS](https://ja.wikipedia.org/wiki/UNLIMITS "wikilink") / [フラチナリズム](https://ja.wikipedia.org/wiki/フラチナリズム "wikilink") / [浮意流](https://ja.wikipedia.org/wiki/浮意流 "wikilink")
+        w/[ROACH](https://ja.wikipedia.org/wiki/ROACH "wikilink") / [a crowd of rebellion](https://ja.wikipedia.org/wiki/a_crowd_of_rebellion "wikilink") / [FLiP](https://ja.wikipedia.org/wiki/FLiP "wikilink") / [STANCE PUNKS](../Page/STANCE_PUNKS.md "wikilink") / [The Winking Owl](https://ja.wikipedia.org/wiki/The_Winking_Owl "wikilink") / [ACCIDENT I LOVED](https://ja.wikipedia.org/wiki/ACCIDENT_I_LOVED "wikilink") / [Boiler Maker](https://ja.wikipedia.org/wiki/Boiler_Maker "wikilink") / [canae](https://ja.wikipedia.org/wiki/canae "wikilink") / [CRAWLICK](https://ja.wikipedia.org/wiki/CRAWLICK "wikilink") / [FAKE FACE](https://ja.wikipedia.org/wiki/FAKE_FACE "wikilink") / [HaKU](https://ja.wikipedia.org/wiki/HaKU "wikilink") / [HenLee](https://ja.wikipedia.org/wiki/HenLee "wikilink") / [HER NAME IN BLOOD](https://ja.wikipedia.org/wiki/HER_NAME_IN_BLOOD "wikilink") / [MELLOWSHiP](https://ja.wikipedia.org/wiki/MELLOWSHiP "wikilink") / [SpecialThanks](https://ja.wikipedia.org/wiki/SpecialThanks "wikilink") / [Survive Said The Prophet](https://ja.wikipedia.org/wiki/Survive_Said_The_Prophet "wikilink") / [Swimbrights](https://ja.wikipedia.org/wiki/Swimbrights "wikilink") / [UNLIMITS](https://ja.wikipedia.org/wiki/UNLIMITS "wikilink") / [フラチナリズム](https://ja.wikipedia.org/wiki/フラチナリズム "wikilink") / [浮意流](https://ja.wikipedia.org/wiki/浮意流 "wikilink")
 
 ### 出演イベント
 
@@ -320,16 +320,16 @@
   - 2013年10月18日 - [HaKU](https://ja.wikipedia.org/wiki/HaKU "wikilink") wonderland TOUR 2013"hacking your mind"
   - 2013年10月20日 - [BUZZ THE BEARS](https://ja.wikipedia.org/wiki/BUZZ_THE_BEARS "wikilink") "GOLDCAGE"RELEASE TOUR -GOLD RUSH TOUR-
   - 2013年11月09日 - [ア・ル・カ・ラ](https://ja.wikipedia.org/wiki/アルカラ "wikilink") 6枚目"むにむにの樹"レコ発ツアー「むにむになるままにJAPAN TOUR」
-  - 2013年11月22日 - [ROTTENGRAFFTY](https://ja.wikipedia.org/wiki/ROTTENGRAFFTY "wikilink") "Walk" TOUR 2013-2014
+  - 2013年11月22日 - [ROTTENGRAFFTY](../Page/ROTTENGRAFFTY.md "wikilink") "Walk" TOUR 2013-2014
   - 2013年11月27日 - [JAWEYE](https://ja.wikipedia.org/wiki/JAWEYE "wikilink") & UPLIFT SPICE合同アウトストアライブ
   - 2013年12月26日 - \[NOID\] -2013 FINAL- supported by Budweiser
   - 2013年12月30日 - "HOMIES" vol.96 -年末2STEP祭-
   - 2014年01月19日 - EASTSIDEROCKERZ pre. PUNK AROUND THE WORLD VOL.30
   - 2014年01月27日 - CROSS OVER 2014 ～CLUB CHANGE WAVE 移転3周年イベント～
-  - 2014年01月31日 - [ガガガSP](https://ja.wikipedia.org/wiki/ガガガSP "wikilink")ツアー2014「くだまき男の飽き足らん生活」
+  - 2014年01月31日 - [ガガガSP](../Page/ガガガSP.md "wikilink")ツアー2014「くだまき男の飽き足らん生活」
   - 2014年02月01日 - [the brown](https://ja.wikipedia.org/wiki/the_brown "wikilink") presents 毒を以て毒を制す "MelloW" Release tour
   - 2014年03月11日 - MASTER PEACE 2014
-  - 2014年03月19日 - [つしまみれ](https://ja.wikipedia.org/wiki/つしまみれ "wikilink") -SPEEDY WONDERFULL WORLD TOUR 2014 JAPAN-
+  - 2014年03月19日 - [つしまみれ](../Page/つしまみれ.md "wikilink") -SPEEDY WONDERFULL WORLD TOUR 2014 JAPAN-
   - 2014年03月20日 - [ARTEMA](https://ja.wikipedia.org/wiki/ARTEMA "wikilink") 「STARGAZER TOUR 2014」TEPETORA vol.48【UPLIFT SPICE\&ARTEMAダブルレコ発\!\!】～狂音家達の狂宴\!こ◯もんアタイの正面\!※ラップ調でお願いします～
   - 2014年05月02日,03日 - [PAN](../Page/PAN_\(バンド\).md "wikilink")「ヒズム ハズム リズム」RELEASE"ヒズムハズムリズムツアー"
   - 2014年05月04日 - OTOSATA Rock Festival 2014

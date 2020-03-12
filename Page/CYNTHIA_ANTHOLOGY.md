@@ -1,20 +1,20 @@
 > この記事は[CYNTHIA ANTHOLOGY](https://ja.wikipedia.org/wiki/CYNTHIA_ANTHOLOGY)から翻訳されています。
 
 
-『**CYNTHIA ANTHOLOGY**』（シンシア・アンソロジー）は、[シンシア（南沙織）の歌手デビュー](https://ja.wikipedia.org/wiki/南沙織 "wikilink")30周年記念メモリアル特別企画として[2000年](../Page/2000年.md "wikilink")[6月7日](../Page/6月7日.md "wikilink")に発売された、[CD](../Page/コンパクトディスク.md "wikilink")5枚＋[DVD](../Page/DVD-Video.md "wikilink")1枚の全6枚組[CD-BOX](https://ja.wikipedia.org/wiki/CD-BOX "wikilink")[セット](https://ja.wikipedia.org/wiki/ボックス・セット "wikilink")。全122曲収録。[規格品番](https://ja.wikipedia.org/wiki/規格品番 "wikilink")はSRCL-4801/6。
+『**CYNTHIA ANTHOLOGY**』（シンシア・アンソロジー）は、[シンシア（南沙織）の歌手デビュー](https://ja.wikipedia.org/wiki/南沙織 "wikilink")30周年記念メモリアル特別企画として[2000年](../Page/2000年.md "wikilink")[6月7日](../Page/6月7日.md "wikilink")に発売された、[CD](../Page/コンパクトディスク.md "wikilink")5枚＋[DVD](../Page/DVD-Video.md "wikilink")1枚の全6枚組[CD-BOX](https://ja.wikipedia.org/wiki/CD-BOX "wikilink")[セット](../Page/ボックス・セット.md "wikilink")。全122曲収録。[規格品番](../Page/規格品番.md "wikilink")はSRCL-4801/6。
 
 ## 解説
 
-[シングルレコード](https://ja.wikipedia.org/wiki/シングル#シングル・レコード "wikilink")「[17才](https://ja.wikipedia.org/wiki/17才_\(南沙織の曲\) "wikilink")」（SONA-86183）で歌手デビューを果たしてから30周年を迎えた記念に発売された、南沙織のCD-BOXセットである。パッケージフィルムに貼られたシール上では、「**歌手デビュー30周年記念メモリアル特別企画**」と表現されている。
+[シングルレコード](https://ja.wikipedia.org/wiki/シングル#シングル・レコード "wikilink")「[17才](../Page/17才_\(南沙織の曲\).md "wikilink")」（SONA-86183）で歌手デビューを果たしてから30周年を迎えた記念に発売された、南沙織のCD-BOXセットである。パッケージフィルムに貼られたシール上では、「**歌手デビュー30周年記念メモリアル特別企画**」と表現されている。
 
 [CD-DA](../Page/CD-DA.md "wikilink")全5枚とDVD1枚が、LPサイズのボックスに収められている。収録内容の内訳は、下記の通り。
 
-  - ディスク1からディスク3は、「ALL ABOUT SINGLES」と題したシングル・コレクション。南沙織、シンシア名義で発売した全33枚のシングルレコード及び[8センチCD](https://ja.wikipedia.org/wiki/8センチCD "wikilink")[シングル](https://ja.wikipedia.org/wiki/シングル#CDシングル "wikilink")[A面・B面曲のうち](https://ja.wikipedia.org/wiki/A面/B面 "wikilink")、[カバー](../Page/カバー.md "wikilink")曲である「[カリフォルニアの青い空／雨に消えた初恋](https://ja.wikipedia.org/wiki/カリフォルニアの青い空#カリフォルニアの青い空（南沙織） "wikilink")」以外の32枚分64曲に[器楽曲](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")1曲が収録されている。その器楽曲はもともと、[スタジオ・アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")『[20才まえ](https://ja.wikipedia.org/wiki/20才まえ "wikilink")』（[1973年](../Page/1973年.md "wikilink")、SOLJ-82）の「17才」の序曲として収められ、のちに別アルバムで単独化され「シンシアのテーマ」と名づけられた楽曲である。
+  - ディスク1からディスク3は、「ALL ABOUT SINGLES」と題したシングル・コレクション。南沙織、シンシア名義で発売した全33枚のシングルレコード及び[8センチCD](https://ja.wikipedia.org/wiki/8センチCD "wikilink")[シングル](https://ja.wikipedia.org/wiki/シングル#CDシングル "wikilink")[A面・B面曲のうち](https://ja.wikipedia.org/wiki/A面/B面 "wikilink")、[カバー](../Page/カバー.md "wikilink")曲である「[カリフォルニアの青い空／雨に消えた初恋](https://ja.wikipedia.org/wiki/カリフォルニアの青い空#カリフォルニアの青い空（南沙織） "wikilink")」以外の32枚分64曲に[器楽曲](../Page/器楽曲.md "wikilink")1曲が収録されている。その器楽曲はもともと、[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")『[20才まえ](../Page/20才まえ.md "wikilink")』（[1973年](../Page/1973年.md "wikilink")、SOLJ-82）の「17才」の序曲として収められ、のちに別アルバムで単独化され「シンシアのテーマ」と名づけられた楽曲である。
   - ディスク4は、「アルバム収録名曲ピックアップ」集。各アルバムからカバー曲を除いたオリジナル楽曲が選曲された。初CD化音源、ライブ音源が収録されている。
-  - ディスク5は、「CM音源・TV音源・未発表音源・参加音源・[Remix音源](https://ja.wikipedia.org/wiki/リミックス "wikilink")・バージョン違い・ライブ音源」集。[1970年代](../Page/1970年代.md "wikilink")に公式発売されていない楽曲や初CD化音源が多数、収録されている。
+  - ディスク5は、「CM音源・TV音源・未発表音源・参加音源・[Remix音源](../Page/リミックス.md "wikilink")・バージョン違い・ライブ音源」集。[1970年代](../Page/1970年代.md "wikilink")に公式発売されていない楽曲や初CD化音源が多数、収録されている。
   - ディスク6は、1971年以降の映像を含めたDVD。1984年11月21日発売の映像集『HELLO\!CYNTHIA』（78ZM-3010）と、1992年11月21日発売の映像集『Cynthia Clips』（SRVM-327）の一部をDVD化したものである。
 
-音源は、[SBM](https://ja.wikipedia.org/wiki/SBM "wikilink")（SuperBitMapping）という、ソニーが持つ技術のフォーマットで[デジタル・リマスタリングが施された](https://ja.wikipedia.org/wiki/デジタルリマスター "wikilink")。ボックスサイズのカラー解説書付きで、書内には歌詞、[ディスコグラフィ](https://ja.wikipedia.org/wiki/ディスコグラフィ "wikilink")、50音順楽曲一覧、酒井政利によるシングル解説のほか、関係者のコメントやインタビューで綴る南沙織ヒストリーを掲載。インタビュー、ライナー、コメントへの参加は南沙織本人のほか、[篠山紀信](../Page/篠山紀信.md "wikilink")、[吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")、[酒井政利](https://ja.wikipedia.org/wiki/酒井政利 "wikilink")、[有馬三恵子](../Page/有馬三恵子.md "wikilink")、[筒美京平](https://ja.wikipedia.org/wiki/筒美京平 "wikilink")、[村上司](https://ja.wikipedia.org/wiki/村上司 "wikilink")、長谷川具慶、中山寛子、ロージー、小栗俊雄、田代清三、金塚晴子、我妻広己、榊ひろと、堤昌司、藤沢和美、片山邦彦、小山田義根、山下鉄男。
+音源は、[SBM](../Page/SBM.md "wikilink")（SuperBitMapping）という、ソニーが持つ技術のフォーマットで[デジタル・リマスタリングが施された](../Page/デジタルリマスター.md "wikilink")。ボックスサイズのカラー解説書付きで、書内には歌詞、[ディスコグラフィ](https://ja.wikipedia.org/wiki/ディスコグラフィ "wikilink")、50音順楽曲一覧、酒井政利によるシングル解説のほか、関係者のコメントやインタビューで綴る南沙織ヒストリーを掲載。インタビュー、ライナー、コメントへの参加は南沙織本人のほか、[篠山紀信](../Page/篠山紀信.md "wikilink")、[吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")、[酒井政利](../Page/酒井政利.md "wikilink")、[有馬三恵子](../Page/有馬三恵子.md "wikilink")、[筒美京平](https://ja.wikipedia.org/wiki/筒美京平 "wikilink")、[村上司](https://ja.wikipedia.org/wiki/村上司 "wikilink")、長谷川具慶、中山寛子、ロージー、小栗俊雄、田代清三、金塚晴子、我妻広己、榊ひろと、堤昌司、藤沢和美、片山邦彦、小山田義根、山下鉄男。
 
 未発表曲「あなたの胸で泣けるまで」が収録された。ボーカル録音がいつであるかはさだかではないが、本CD-BOX発売日時点での最新音源となっている。
 
@@ -83,8 +83,8 @@
 2.  **[九月のエピロード](https://ja.wikipedia.org/wiki/愛なき世代#収録曲 "wikilink")**
 3.  **[Ms. （ミズ）](https://ja.wikipedia.org/wiki/Ms._\(ミズ\)#収録曲 "wikilink")**
 4.  **[さよならにかえて](https://ja.wikipedia.org/wiki/Ms._\(ミズ\)#収録曲 "wikilink")**
-5.  **[グッバイガール](https://ja.wikipedia.org/wiki/グッバイガール_\(デヴィッド・ゲイツの曲\) "wikilink")**
-6.  **[Good-bye Girl](https://ja.wikipedia.org/wiki/グッバイガール_\(デヴィッド・ゲイツの曲\) "wikilink")**
+5.  **[グッバイガール](../Page/グッバイガール_\(デヴィッド・ゲイツの曲\).md "wikilink")**
+6.  **[Good-bye Girl](../Page/グッバイガール_\(デヴィッド・ゲイツの曲\).md "wikilink")**
 7.  **[青空](https://ja.wikipedia.org/wiki/青空_\(シンシアの曲\)#収録曲 "wikilink")**
 8.  **[ファンレター -SO GOOD SO NICE- （Remix version）](https://ja.wikipedia.org/wiki/青空_\(シンシアの曲\)#収録曲 "wikilink")**
 9.  **[約束](https://ja.wikipedia.org/wiki/約束_\(シンシアの曲\)#収録曲 "wikilink")**
@@ -99,13 +99,13 @@
 ### Disc 4
 
 1.  **[SAORI HIT MEDLEY](https://ja.wikipedia.org/wiki/SAORI_ON_STAGE#収録曲 "wikilink") -LIVE-**（10:56）☆
-      - [17才](https://ja.wikipedia.org/wiki/17才_\(南沙織の曲\) "wikilink")
+      - [17才](../Page/17才_\(南沙織の曲\).md "wikilink")
       - I Believe In Music
-      - [哀愁のページ](https://ja.wikipedia.org/wiki/哀愁のページ "wikilink")
+      - [哀愁のページ](../Page/哀愁のページ.md "wikilink")
       - A Song For You
-      - [色づく街](https://ja.wikipedia.org/wiki/色づく街 "wikilink")
+      - [色づく街](../Page/色づく街.md "wikilink")
       - I Believe In Music
-      - [早春の港](https://ja.wikipedia.org/wiki/早春の港 "wikilink")
+      - [早春の港](../Page/早春の港.md "wikilink")
       - I Believe In Music
       - [人恋しくて](https://ja.wikipedia.org/wiki/人恋しくて "wikilink")
 2.  **[ふるさとの雨](https://ja.wikipedia.org/wiki/17才_\(アルバム\)#収録曲 "wikilink")**（2:54）
@@ -132,13 +132,13 @@
 ### Disc 5
 
 1.  **MUSIC MAKES OUR FUTURE**（4:10）☆
-      - 作詞: 窪田義広・金塚晴子 、作曲: [都倉俊一](https://ja.wikipedia.org/wiki/都倉俊一 "wikilink") 、編曲: [田辺信一](https://ja.wikipedia.org/wiki/田辺信一 "wikilink")
+      - 作詞: 窪田義広・金塚晴子 、作曲: [都倉俊一](../Page/都倉俊一.md "wikilink") 、編曲: [田辺信一](https://ja.wikipedia.org/wiki/田辺信一 "wikilink")
 2.  **走れクィーンコーラル**（2:23）　
       - 作詞・作曲: [浜口庫之助](../Page/浜口庫之助.md "wikilink") 、編曲: [青木望](../Page/青木望.md "wikilink")
 3.  **ヘイ\! 二才達（にーせーたー）**（2:13）☆
       - 作詞: 朝比呂志 、作曲: 普久原恒勇 、編曲: 所太郎
-4.  **夜空の星**　WITH: [おりも政夫](https://ja.wikipedia.org/wiki/おりも政夫 "wikilink")（[フォーリーブス](https://ja.wikipedia.org/wiki/フォーリーブス "wikilink")）（2:46）☆　
-      - 作詞: [永六輔](../Page/永六輔.md "wikilink") 、作曲: [いずみたく](https://ja.wikipedia.org/wiki/いずみたく "wikilink") 、編曲: 大柿隆
+4.  **夜空の星**　WITH: [おりも政夫](../Page/おりも政夫.md "wikilink")（[フォーリーブス](https://ja.wikipedia.org/wiki/フォーリーブス "wikilink")）（2:46）☆　
+      - 作詞: [永六輔](../Page/永六輔.md "wikilink") 、作曲: [いずみたく](../Page/いずみたく.md "wikilink") 、編曲: 大柿隆
 5.  **すべてを捧げる時**（1:28）☆
       - 作詞: 永六輔 、作曲: いずみたく 、編曲: 大柿隆
 6.  **夜空の星 -ショート・ヴァージョン-**　WITH: おりも政夫（フォーリーブス）（1:13）☆
@@ -149,7 +149,7 @@
 11. **秋の港**（2:52）☆
       - 作詞: [有馬三恵子](../Page/有馬三恵子.md "wikilink") 、作曲・編曲: [筒美京平](https://ja.wikipedia.org/wiki/筒美京平 "wikilink")
 12. **あなたの胸で泣けるまで**（4:39）☆
-      - 作詞: 工藤哲雄 、作曲: [都志見隆](https://ja.wikipedia.org/wiki/都志見隆 "wikilink") 、編曲: [白井良明](https://ja.wikipedia.org/wiki/白井良明 "wikilink")
+      - 作詞: 工藤哲雄 、作曲: [都志見隆](../Page/都志見隆.md "wikilink") 、編曲: [白井良明](https://ja.wikipedia.org/wiki/白井良明 "wikilink")
 13. **青空（2000 salt Remix version）**（4:47）☆
 14. **約束（2000 salt Remix version）**（4:02）☆
 15. **[メドレー](https://ja.wikipedia.org/wiki/CYNTHIA_IN_CONCERT#収録曲 "wikilink") -LIVE-**（7:25）
@@ -191,7 +191,7 @@
 
 <!-- end list -->
 
-  - [Cynthia Memories](https://ja.wikipedia.org/wiki/Cynthia_Memories "wikilink")
+  - [Cynthia Memories](../Page/Cynthia_Memories.md "wikilink")
   - [ドーナツ盤型12cmCDコレクション](https://ja.wikipedia.org/wiki/ドーナツ盤型12cmCDコレクション "wikilink")
   - [Cynthia Premium](../Page/Cynthia_Premium.md "wikilink")
 

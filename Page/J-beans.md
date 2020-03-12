@@ -1,7 +1,7 @@
 > この記事は[J-beans](https://ja.wikipedia.org/wiki/J-beans)から翻訳されています。
 
 
-**J-beans**（ジェイビーンズ）は、豊原潤子（弟は俳優の[豊原功補](https://ja.wikipedia.org/wiki/豊原功補 "wikilink")）が[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[7月6日](../Page/7月6日.md "wikilink")に独立して立ち上げた、主に[子役](https://ja.wikipedia.org/wiki/子役 "wikilink")・ティーンタレントが所属する[芸能事務所](../Page/芸能事務所.md "wikilink")およびモデル事務所。
+**J-beans**（ジェイビーンズ）は、豊原潤子（弟は俳優の[豊原功補](../Page/豊原功補.md "wikilink")）が[2004年](../Page/2004年.md "wikilink")[7月6日](../Page/7月6日.md "wikilink")に独立して立ち上げた、主に[子役](https://ja.wikipedia.org/wiki/子役 "wikilink")・ティーンタレントが所属する[芸能事務所](../Page/芸能事務所.md "wikilink")およびモデル事務所。
 
 子役・ティーンを中心に、CM・ドラマ・映画・舞台・バラエティーに加え、ライブ活動にも取り組んでいる。
 
@@ -69,7 +69,7 @@
 
   - 注釈
 
-事務所内[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")\[1\]\[2\]
+事務所内[音楽ユニット](../Page/音楽ユニット.md "wikilink")\[1\]\[2\]
 
 ## 過去の主な所属タレント
 

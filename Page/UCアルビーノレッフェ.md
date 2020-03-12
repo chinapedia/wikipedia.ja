@@ -1,11 +1,11 @@
 > この記事は[UC](https://ja.wikipedia.org/wiki/UC)から翻訳されています。
 
 
-**ウニオーネ・カルチョ・アルビーノレッフェ**（**Unione Calcio AlbinoLeffe**）は、[イタリア](../Page/イタリア.md "wikilink")・[ロンバルディア州](../Page/ロンバルディア州.md "wikilink")[ベルガモ県](../Page/ベルガモ県.md "wikilink")の[レッフェ](https://ja.wikipedia.org/wiki/レッフェ "wikilink")および[アルビーノ](../Page/アルビーノ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。2018-19シーズンは、[セリエCに所属している](https://ja.wikipedia.org/wiki/セリエC_\(サッカー\) "wikilink")。
+**ウニオーネ・カルチョ・アルビーノレッフェ**（**Unione Calcio AlbinoLeffe**）は、[イタリア](../Page/イタリア.md "wikilink")・[ロンバルディア州](../Page/ロンバルディア州.md "wikilink")[ベルガモ県](../Page/ベルガモ県.md "wikilink")の[レッフェ](../Page/レッフェ.md "wikilink")および[アルビーノ](../Page/アルビーノ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。2018-19シーズンは、[セリエCに所属している](https://ja.wikipedia.org/wiki/セリエC_\(サッカー\) "wikilink")。
 
 ## 歴史
 
-1998年、当時セリエC2に所属していた**アルビネーゼ・カルチョ**（*Albinese Calcio*）と**SCレッフェ**（*Società Calcio Leffe*）の2クラブが合併してUCアルビーノレッフェが設立された。1999-2000シーズンにセリエC1に、2003-04シーズンに[セリエBに昇格した](https://ja.wikipedia.org/wiki/セリエB_\(サッカー\) "wikilink")。
+1998年、当時セリエC2に所属していた**アルビネーゼ・カルチョ**（*Albinese Calcio*）と**SCレッフェ**（*Società Calcio Leffe*）の2クラブが合併してUCアルビーノレッフェが設立された。1999-2000シーズンにセリエC1に、2003-04シーズンに[セリエBに昇格した](../Page/セリエB_\(サッカー\).md "wikilink")。
 
 なお、創設当初はレッフェにある[スタディオ・カルロ・マルティネッリ](https://ja.wikipedia.org/wiki/スタディオ・カルロ・マルティネッリ "wikilink")でホームゲームを行っていたが、キャパシティ2000人程度の競技場のため、セリエB昇格後の2003年以降は県都[ベルガモ](../Page/ベルガモ.md "wikilink")にある[スタディオ・アトレティ・アズーリ・ディターリア](https://ja.wikipedia.org/wiki/スタディオ・アトレティ・アズーリ・ディターリア "wikilink")でホームゲームを開催している。
 
@@ -15,9 +15,9 @@
 
 ### 国内タイトル
 
-  - **[コッパ・イタリア・セリエC](https://ja.wikipedia.org/wiki/コッパ・イタリア・セリエC "wikilink")：1回**
+  - **[コッパ・イタリア・セリエC](../Page/コッパ・イタリア・セリエC.md "wikilink")：1回**
       - 2001-02
-  - **[コッパ・イタリア・ディレッタンティ](https://ja.wikipedia.org/wiki/コッパ・イタリア・ディレッタンティ "wikilink")：1回**
+  - **[コッパ・イタリア・ディレッタンティ](../Page/コッパ・イタリア・ディレッタンティ.md "wikilink")：1回**
       - 1981-82（SCレッフェとして）
   - **[カンピオナート・ベレッティ](https://ja.wikipedia.org/wiki/カンピオナート・ベレッティ "wikilink") : 1回**
       - 2013-14
@@ -37,7 +37,7 @@
   - 2009-10 セリエB 11位
   - 2010-11 セリエB 18位
   - 2011-12 セリエB 22位 **レガ・プロ降格**
-  - 2012-13 [レガ・プロ・プリマ・ディヴィジオーネ](https://ja.wikipedia.org/wiki/レガ・プロ・プリマ・ディヴィジオーネ "wikilink")・ジローネA 6位
+  - 2012-13 [レガ・プロ・プリマ・ディヴィジオーネ](../Page/レガ・プロ・プリマ・ディヴィジオーネ.md "wikilink")・ジローネA 6位
   - 2013-14 レガ・プロ・プリマ・ディヴィジオーネ・ジローネA 7位
   - 2014-15 [レガ・プロ](https://ja.wikipedia.org/wiki/レガ・プロ "wikilink")・ジローネA 20位
   - 2015-16 [レガ・プロ](https://ja.wikipedia.org/wiki/レガ・プロ "wikilink")・ジローネA
@@ -68,11 +68,11 @@
 
 ### MF
 
-  - [クリスティアン・ゼノーニ](https://ja.wikipedia.org/wiki/クリスティアン・ゼノーニ "wikilink") 2010-2011
+  - [クリスティアン・ゼノーニ](../Page/クリスティアン・ゼノーニ.md "wikilink") 2010-2011
 
 ### FW
 
-  - [ジュゼッペ・シニョーリ](https://ja.wikipedia.org/wiki/ジュゼッペ・シニョーリ "wikilink") 1984-1986（SCレッフェ）
+  - [ジュゼッペ・シニョーリ](../Page/ジュゼッペ・シニョーリ.md "wikilink") 1984-1986（SCレッフェ）
 
   - [フィリッポ・インザーギ](../Page/フィリッポ・インザーギ.md "wikilink") 1992-1993（SCレッフェ）
 

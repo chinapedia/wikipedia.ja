@@ -5,9 +5,9 @@
 
 ## 解説
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[6月28日](../Page/6月28日.md "wikilink")に[cutting edgeよりリリースされた](https://ja.wikipedia.org/wiki/cutting_edge "wikilink")。CD、CD+DVDの2形態で発売された。DVDには本曲の[プロモーションビデオが収録されている](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。
-  - 本曲は[矢沢あい](../Page/矢沢あい.md "wikilink")のアニメ『[NANA](https://ja.wikipedia.org/wiki/NANA "wikilink")』の第1幕エンディングテーマ。この曲にはOLIVIAは同じアニメのバンドTRAPNESTのヴォーカリスト芹澤レイラ（REIRA）の役割が描かれている。リード曲はアニメのキャラクターとして歌ってが、カップリング曲はOLIVIA名義でクレジットした。"REIRA"としてにシングル「Wish/Starlesss Night」、アルバム「OLIVIA inspi' REIRA (TRAPNEST)」後にもリリースした。
-  - 自身初の[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")トップ10入りの作品となった。
+  - [2006年](../Page/2006年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink")に[cutting edgeよりリリースされた](https://ja.wikipedia.org/wiki/cutting_edge "wikilink")。CD、CD+DVDの2形態で発売された。DVDには本曲の[プロモーションビデオが収録されている](../Page/ミュージック・ビデオ.md "wikilink")。
+  - 本曲は[矢沢あい](../Page/矢沢あい.md "wikilink")のアニメ『[NANA](../Page/NANA.md "wikilink")』の第1幕エンディングテーマ。この曲にはOLIVIAは同じアニメのバンドTRAPNESTのヴォーカリスト芹澤レイラ（REIRA）の役割が描かれている。リード曲はアニメのキャラクターとして歌ってが、カップリング曲はOLIVIA名義でクレジットした。"REIRA"としてにシングル「Wish/Starlesss Night」、アルバム「OLIVIA inspi' REIRA (TRAPNEST)」後にもリリースした。
+  - 自身初の[オリコンチャート](../Page/オリコンチャート.md "wikilink")トップ10入りの作品となった。
 
 ## 収録曲
 
@@ -17,8 +17,8 @@
 
 1.  **a little pain**
       -
-        作詞：[川村真澄](https://ja.wikipedia.org/wiki/川村真澄 "wikilink")／作曲：[山口寛雄](https://ja.wikipedia.org/wiki/山口寛雄 "wikilink")／編曲：[十川知司](../Page/十川ともじ.md "wikilink")
-        [日本テレビ系アニメ](../Page/日本テレビ放送網.md "wikilink")「[NANA](https://ja.wikipedia.org/wiki/NANA "wikilink")」エンディングテーマ
+        作詞：[川村真澄](../Page/川村真澄.md "wikilink")／作曲：[山口寛雄](https://ja.wikipedia.org/wiki/山口寛雄 "wikilink")／編曲：[十川知司](../Page/十川ともじ.md "wikilink")
+        [日本テレビ系アニメ](../Page/日本テレビ放送網.md "wikilink")「[NANA](../Page/NANA.md "wikilink")」エンディングテーマ
 2.  **tears & rainbows**
       -
         作詞：SPACE CRITTER／作曲：OLIVIA／作曲・編曲：Jeffrey Lufkin

@@ -3,20 +3,20 @@
 
 **メルセデス・ベンツ・Vクラス**（*Mercedes-Benz V-Class* ）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の自動車メーカーである[ダイムラーが](../Page/ダイムラー_\(自動車メーカー\).md "wikilink")[メルセデス・ベンツ](https://ja.wikipedia.org/wiki/メルセデス・ベンツ "wikilink")ブランドで展開する、[ミニバン](../Page/ミニバン.md "wikilink")型の[乗用車](../Page/乗用車.md "wikilink")である。
 
-メルセデス・ベンツのラインナップの中では唯一の、1ボックスタイプのミニバンである。3列シートを備え、乗車定員は6名または7名である。同様の多人数乗車可能可能モデルとしては他に[Rクラスや](https://ja.wikipedia.org/wiki/メルセデス・ベンツ・Rクラス "wikilink")[GLSクラスがあるが](https://ja.wikipedia.org/wiki/メルセデス・ベンツ・GLSクラス "wikilink")、それらとはコンセプトが全く異なっている。
+メルセデス・ベンツのラインナップの中では唯一の、1ボックスタイプのミニバンである。3列シートを備え、乗車定員は6名または7名である。同様の多人数乗車可能可能モデルとしては他に[Rクラスや](../Page/メルセデス・ベンツ・Rクラス.md "wikilink")[GLSクラスがあるが](https://ja.wikipedia.org/wiki/メルセデス・ベンツ・GLSクラス "wikilink")、それらとはコンセプトが全く異なっている。
 
-基本は[二輪駆動](https://ja.wikipedia.org/wiki/二輪駆動 "wikilink")（[FFまたは](https://ja.wikipedia.org/wiki/前輪駆動 "wikilink")[FR](https://ja.wikipedia.org/wiki/後輪駆動 "wikilink")）だが、オプションで[四輪駆動](../Page/四輪駆動.md "wikilink")も選べる（日本仕様には未設定）。後述のように商用車タイプ（ヴィトー）も存在し、[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")などでは警察用車両、[救急車](https://ja.wikipedia.org/wiki/救急車 "wikilink")などにも広く使われている。
+基本は[二輪駆動](../Page/二輪駆動.md "wikilink")（[FFまたは](../Page/前輪駆動.md "wikilink")[FR](../Page/後輪駆動.md "wikilink")）だが、オプションで[四輪駆動](../Page/四輪駆動.md "wikilink")も選べる（日本仕様には未設定）。後述のように商用車タイプ（ヴィトー）も存在し、[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")などでは警察用車両、[救急車](../Page/救急車.md "wikilink")などにも広く使われている。
 
 ## 初代（W638）
 
-[250px](https://ja.wikipedia.org/wiki/ファイル:Mercedes_vito_1_v_sst.jpg "wikilink") 初代Vクラスは、[メルセデス・ベンツ](https://ja.wikipedia.org/wiki/メルセデス・ベンツ "wikilink")が欧州などで発売している[商用車](https://ja.wikipedia.org/wiki/商用車 "wikilink")「[Vito](https://ja.wikipedia.org/wiki/:en:Mercedes-Benz_Vito "wikilink")」（ヴィトー、ヴィート）の乗用バージョンである。日本では1998年に「V230」が販売開始され、1999年に「V280」が追加された。「V280」は2002年に生産中止となり、末期は「V230」のみが販売された。
+[250px](https://ja.wikipedia.org/wiki/ファイル:Mercedes_vito_1_v_sst.jpg "wikilink") 初代Vクラスは、[メルセデス・ベンツ](https://ja.wikipedia.org/wiki/メルセデス・ベンツ "wikilink")が欧州などで発売している[商用車](../Page/商用車.md "wikilink")「[Vito](https://ja.wikipedia.org/wiki/:en:Mercedes-Benz_Vito "wikilink")」（ヴィトー、ヴィート）の乗用バージョンである。日本では1998年に「V230」が販売開始され、1999年に「V280」が追加された。「V280」は2002年に生産中止となり、末期は「V230」のみが販売された。
 
-Vクラスのドライブトレインはヴィトーと同様に[横置きエンジン](https://ja.wikipedia.org/wiki/横置きエンジン "wikilink")＋[トランスアクスル](https://ja.wikipedia.org/wiki/トランスアクスル "wikilink")配置の[FFとなっていた](https://ja.wikipedia.org/wiki/前輪駆動 "wikilink")。エンジンは自社製の[直列4気筒](https://ja.wikipedia.org/wiki/直列4気筒 "wikilink")エンジンが主力で、乗用車のユーザーからのモアパワーの要求に応え、上級グレードの「V280」には[V型6気筒](https://ja.wikipedia.org/wiki/V型6気筒 "wikilink")を追加した。[Cクラスでは](https://ja.wikipedia.org/wiki/メルセデス・ベンツ・Cクラス "wikilink")1997年から自社製[V型エンジン](https://ja.wikipedia.org/wiki/V型エンジン "wikilink")の採用が始まっていたが、元来直4横置きを想定していたエンジンベイにはV[バンク](../Page/バンク.md "wikilink")の広いエンジンは不向きで、横置き搭載への対応と[クラッシャブルゾーン](https://ja.wikipedia.org/wiki/クラッシャブルゾーン "wikilink")の確保のため、前後寸法（エンジン幅）の小さい[フォルクスワーゲン](https://ja.wikipedia.org/wiki/フォルクスワーゲン "wikilink")製の2.8リットル[狭角V型6気筒エンジンを採用している](https://ja.wikipedia.org/wiki/狭角V型エンジン "wikilink")。
+Vクラスのドライブトレインはヴィトーと同様に[横置きエンジン](../Page/横置きエンジン.md "wikilink")＋[トランスアクスル](../Page/トランスアクスル.md "wikilink")配置の[FFとなっていた](../Page/前輪駆動.md "wikilink")。エンジンは自社製の[直列4気筒](../Page/直列4気筒.md "wikilink")エンジンが主力で、乗用車のユーザーからのモアパワーの要求に応え、上級グレードの「V280」には[V型6気筒](../Page/V型6気筒.md "wikilink")を追加した。[Cクラスでは](../Page/メルセデス・ベンツ・Cクラス.md "wikilink")1997年から自社製[V型エンジン](../Page/V型エンジン.md "wikilink")の採用が始まっていたが、元来直4横置きを想定していたエンジンベイにはV[バンク](../Page/バンク.md "wikilink")の広いエンジンは不向きで、横置き搭載への対応と[クラッシャブルゾーン](../Page/クラッシャブルゾーン.md "wikilink")の確保のため、前後寸法（エンジン幅）の小さい[フォルクスワーゲン](https://ja.wikipedia.org/wiki/フォルクスワーゲン "wikilink")製の2.8リットル[狭角V型6気筒エンジンを採用している](../Page/狭角V型エンジン.md "wikilink")。
 
-| グレード | エンジン                                                                                       | 排気量     | 最高出力・最大トルク      | 変速機                                            | 駆動方式 |
-| ---- | ------------------------------------------------------------------------------------------ | ------- | --------------- | ---------------------------------------------- | ---- |
-| V280 | [V型6気筒](https://ja.wikipedia.org/wiki/V型6気筒 "wikilink") [SOHC](../Page/SOHC.md "wikilink") | 2.8リットル | 174PS / 24.2kgm | 4速[AT](../Page/オートマチックトランスミッション.md "wikilink") | FF   |
-| V230 | [直列4気筒](https://ja.wikipedia.org/wiki/直列4気筒 "wikilink") [DOHC](../Page/DOHC.md "wikilink") | 2.3リットル | 143PS / 21.9kgm |                                                |      |
+| グレード | エンジン                                                                    | 排気量     | 最高出力・最大トルク      | 変速機                                            | 駆動方式 |
+| ---- | ----------------------------------------------------------------------- | ------- | --------------- | ---------------------------------------------- | ---- |
+| V280 | [V型6気筒](../Page/V型6気筒.md "wikilink") [SOHC](../Page/SOHC.md "wikilink") | 2.8リットル | 174PS / 24.2kgm | 4速[AT](../Page/オートマチックトランスミッション.md "wikilink") | FF   |
+| V230 | [直列4気筒](../Page/直列4気筒.md "wikilink") [DOHC](../Page/DOHC.md "wikilink") | 2.3リットル | 143PS / 21.9kgm |                                                |      |
 
 ## 2代目（W639）
 
@@ -24,9 +24,9 @@ Vクラスのドライブトレインはヴィトーと同様に[横置きエン
 
 ### ビアノ時代
 
-2代目はVクラスではなく、新車種の**ビアノ**（*Viano* ）として2003年から販売された。日本に導入されたのは「3.2 アンビエンテ」「3.2 アンビエンテ ロング」「3.2 トレンド」の3モデル。エンジンは3.2リットル[V型6気筒](https://ja.wikipedia.org/wiki/V型6気筒 "wikilink")に統一され、駆動方式は初代と異なり、自社製[乗用車](../Page/乗用車.md "wikilink")の[コンポーネント](https://ja.wikipedia.org/wiki/コンポーネント "wikilink")が活用できる[縦置きエンジン](https://ja.wikipedia.org/wiki/縦置きエンジン "wikilink")の[FRとなった](https://ja.wikipedia.org/wiki/後輪駆動 "wikilink")。
+2代目はVクラスではなく、新車種の**ビアノ**（*Viano* ）として2003年から販売された。日本に導入されたのは「3.2 アンビエンテ」「3.2 アンビエンテ ロング」「3.2 トレンド」の3モデル。エンジンは3.2リットル[V型6気筒](../Page/V型6気筒.md "wikilink")に統一され、駆動方式は初代と異なり、自社製[乗用車](../Page/乗用車.md "wikilink")の[コンポーネント](https://ja.wikipedia.org/wiki/コンポーネント "wikilink")が活用できる[縦置きエンジン](../Page/縦置きエンジン.md "wikilink")の[FRとなった](../Page/後輪駆動.md "wikilink")。
 
-「トレンド」より「アンビエンテ」の方が装備が充実している。「アンビエンテ ロング」は、「アンビエンテ」と[ホイールベース](https://ja.wikipedia.org/wiki/ホイールベース "wikilink")は同じだが、ボディーの後方荷室を約25cm延長したもの。ラゲッジは広くなったが、3列目シートは最後部まで下げられない。
+「トレンド」より「アンビエンテ」の方が装備が充実している。「アンビエンテ ロング」は、「アンビエンテ」と[ホイールベース](../Page/ホイールベース.md "wikilink")は同じだが、ボディーの後方荷室を約25cm延長したもの。ラゲッジは広くなったが、3列目シートは最後部まで下げられない。
 
 <table>
 <thead>
@@ -59,7 +59,7 @@ Vクラスのドライブトレインはヴィトーと同様に[横置きエン
 
 2006年11月のマイナーチェンジで、それまでの名称であったビアノから、以前の名称であるVクラスに戻った。
 
-「トレンド」「アンビエンテ」「アンビエンテ ロング」の3モデルによる展開に変わりはなく、位置づけも変わらない。エンジンはモデルチェンジ前の[Mクラス](https://ja.wikipedia.org/wiki/メルセデス・ベンツ・Mクラス "wikilink")（W163）に搭載されていた旧型の3.7リットル[V型6気筒](https://ja.wikipedia.org/wiki/V型6気筒 "wikilink")である。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")での価格は430万円から599万円となっていた。また、[アメリカでは販売されておらず](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、これはメルセデス・ベンツとして珍しい車種でもある。7人乗り3列シート、対座シート、電動デュアル[スライディングドアなど](https://ja.wikipedia.org/wiki/スライドドア "wikilink")、装備を充実させている。
+「トレンド」「アンビエンテ」「アンビエンテ ロング」の3モデルによる展開に変わりはなく、位置づけも変わらない。エンジンはモデルチェンジ前の[Mクラス](../Page/メルセデス・ベンツ・Mクラス.md "wikilink")（W163）に搭載されていた旧型の3.7リットル[V型6気筒](../Page/V型6気筒.md "wikilink")である。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")での価格は430万円から599万円となっていた。また、[アメリカでは販売されておらず](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、これはメルセデス・ベンツとして珍しい車種でもある。7人乗り3列シート、対座シート、電動デュアル[スライディングドアなど](../Page/スライドドア.md "wikilink")、装備を充実させている。
 
 2007年11月に一部改良が行われており、エンジンが3.5リットルV型6気筒DOHCへ変更され、出力も27PS向上した。
 

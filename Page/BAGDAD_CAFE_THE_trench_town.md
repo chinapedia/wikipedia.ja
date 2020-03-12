@@ -1,9 +1,9 @@
 > この記事は[BAGDAD CAFE THE trench town](https://ja.wikipedia.org/wiki/BAGDAD_CAFE_THE_trench_town)から翻訳されています。
 
 
-**BAGDAD CAFE THE trench town**（バグダッド・カフェ・ザ・トレンチ・タウン）は[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")出身の11人編成[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。2001年結成。2005年[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")よりメジャーデビュー。
+**BAGDAD CAFE THE trench town**（バグダッド・カフェ・ザ・トレンチ・タウン）は[大阪府](../Page/大阪府.md "wikilink")出身の11人編成[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。2001年結成。2005年[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")よりメジャーデビュー。
 
-グループ名の由来は[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")の[西ドイツ](../Page/西ドイツ.md "wikilink")[映画](../Page/映画.md "wikilink")『[バグダッド・カフェ](https://ja.wikipedia.org/wiki/バグダッド・カフェ "wikilink")』と[ジャマイカ](../Page/ジャマイカ.md "wikilink")・[キングストンにある](https://ja.wikipedia.org/wiki/キングストン_\(ジャマイカ\) "wikilink")[ゲットーエリアである](https://ja.wikipedia.org/wiki/スラム "wikilink")[トレンチタウン](https://ja.wikipedia.org/wiki/トレンチタウン "wikilink")地区から。
+グループ名の由来は[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")の[西ドイツ](../Page/西ドイツ.md "wikilink")[映画](../Page/映画.md "wikilink")『[バグダッド・カフェ](../Page/バグダッド・カフェ.md "wikilink")』と[ジャマイカ](../Page/ジャマイカ.md "wikilink")・[キングストンにある](../Page/キングストン_\(ジャマイカ\).md "wikilink")[ゲットーエリアである](../Page/スラム.md "wikilink")[トレンチタウン](https://ja.wikipedia.org/wiki/トレンチタウン "wikilink")地区から。
 
 ## メンバー
 
@@ -35,7 +35,7 @@
 <th><p> </p></th>
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>収録曲</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -66,7 +66,7 @@
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2004年" title="wikilink">2004年</a><a href="../Page/6月23日.md" title="wikilink">6月23日</a></p></td>
+<td><p><a href="../Page/2004年.md" title="wikilink">2004年</a><a href="../Page/6月23日.md" title="wikilink">6月23日</a></p></td>
 <td><p><strong>UP RIGHT AND SMILEY</strong></p></td>
 <td><p>MOPR-0009</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -90,7 +90,7 @@
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/9月22日.md" title="wikilink">9月22日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/9月22日.md" title="wikilink">9月22日</a></p></td>
 <td><p><strong>Movin' On</strong></p></td>
 <td><p>VICL-61759</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -116,7 +116,7 @@
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/8月9日.md" title="wikilink">8月9日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/8月9日.md" title="wikilink">8月9日</a></p></td>
 <td><p><strong>Good Times</strong></p></td>
 <td><p>VICL-62029</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -143,7 +143,7 @@
 </tr>
 <tr class="odd">
 <td><p>5th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="../Page/7月25日.md" title="wikilink">7月25日</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/7月25日.md" title="wikilink">7月25日</a></p></td>
 <td><p><strong>SATISFACTION</strong></p></td>
 <td><p>VICL-62432</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -172,7 +172,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="../Page/9月21日.md" title="wikilink">9月21日</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/9月21日.md" title="wikilink">9月21日</a></p></td>
 <td><p><strong>MEETS THE REGGAE ～PASSING POINT～</strong></p></td>
 <td><p>VICL-62584</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -182,7 +182,7 @@
 <div class="NavContent" style="text-align:left;">
 <ol>
 <li>INTRO</li>
-<li>EVERYTHING is EVERYTHING?～Winding Road?～ feat. <a href="https://ja.wikipedia.org/wiki/RYO_the_SKYWALKER" title="wikilink">RYO the SKYWALKER</a></li>
+<li>EVERYTHING is EVERYTHING?～Winding Road?～ feat. <a href="../Page/RYO_the_SKYWALKER.md" title="wikilink">RYO the SKYWALKER</a></li>
 <li>MASTER-C～CHEHONが見本～ feat. <a href="https://ja.wikipedia.org/wiki/CHEHON" title="wikilink">CHEHON</a></li>
 <li>Life is 1 time～BESと共にダランディー～ feat. <a href="https://ja.wikipedia.org/wiki/BES_(歌手)" title="wikilink">BES</a></li>
 <li>I wish for one love feat. <a href="https://ja.wikipedia.org/wiki/LEF-T" title="wikilink">LEF-T</a></li>

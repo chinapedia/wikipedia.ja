@@ -1,11 +1,11 @@
 > この記事は[WWE](https://ja.wikipedia.org/wiki/WWE)から翻訳されています。
 
 
-**WWE・ロウ・タッグチーム王座**（*WWE RAW Tag-Team Championship*）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[プロレス](../Page/プロレス.md "wikilink")団体[WWE](../Page/WWE.md "wikilink")における[王座の一つである](https://ja.wikipedia.org/wiki/チャンピオンベルト "wikilink")。
+**WWE・ロウ・タッグチーム王座**（*WWE RAW Tag-Team Championship*）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[プロレス](../Page/プロレス.md "wikilink")団体[WWE](../Page/WWE.md "wikilink")における[王座の一つである](../Page/チャンピオンベルト.md "wikilink")。
 
 ## 歴史
 
-[2002年](../Page/2002年.md "wikilink")のブランド分割により、[WWE世界タッグ王座を](https://ja.wikipedia.org/wiki/WWE・世界タッグチーム王座 "wikilink")[RAWが管理することになったため](https://ja.wikipedia.org/wiki/WWE・ロウ "wikilink")、当時の[SmackDown\!のGM](https://ja.wikipedia.org/wiki/スマックダウン "wikilink")[ステファニー・マクマホンにより創設された](https://ja.wikipedia.org/wiki/ステファニー・マクマホン＝レヴェック "wikilink")。創設時は**WWEタッグチーム王座**と呼称した。[2007年](../Page/2007年.md "wikilink")10月にはSmackDown\!と[ECW](https://ja.wikipedia.org/wiki/ECW "wikilink")の共同管理となっていた。
+[2002年](../Page/2002年.md "wikilink")のブランド分割により、[WWE世界タッグ王座を](../Page/WWE・世界タッグチーム王座.md "wikilink")[RAWが管理することになったため](../Page/WWE・ロウ.md "wikilink")、当時の[SmackDown\!のGM](../Page/スマックダウン.md "wikilink")[ステファニー・マクマホンにより創設された](../Page/ステファニー・マクマホン＝レヴェック.md "wikilink")。創設時は**WWEタッグチーム王座**と呼称した。[2007年](../Page/2007年.md "wikilink")10月にはSmackDown\!と[ECW](../Page/ECW.md "wikilink")の共同管理となっていた。
 
 2009年の[レッスルマニアXXV](https://ja.wikipedia.org/wiki/レッスルマニアXXV "wikilink")にて世界タッグ王座と統一され、WWE統一タッグ王座となったが、2010年8月16日のRAWを以って世界タッグ王座が封印されたため、再び単独王座となった。
 
@@ -32,22 +32,22 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/カート・アングル" title="wikilink">カート・アングル</a> &amp; <a href="https://ja.wikipedia.org/wiki/クリス・ベノワ" title="wikilink">クリス・ベノワ</a></p></td>
+<td><p><a href="../Page/カート・アングル.md" title="wikilink">カート・アングル</a> &amp; <a href="../Page/クリス・ベノワ.md" title="wikilink">クリス・ベノワ</a></p></td>
 <td><p>1</p></td>
 <td><p><a href="../Page/2002年.md" title="wikilink">2002年</a>10月20日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/WWE・ノー・マーシー#第4回大会（2002年）WWE_No_Mercy_2002" title="wikilink">No Mercy 2002</a></p></td>
 <td><p>Tournament Final</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/エッジ_(プロレスラー)" title="wikilink">エッジ</a> &amp; <a href="https://ja.wikipedia.org/wiki/レイ・ミステリオ・ジュニア" title="wikilink">レイ・ミステリオ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/エッジ_(プロレスラー)" title="wikilink">エッジ</a> &amp; <a href="../Page/レイ・ミステリオ・ジュニア.md" title="wikilink">レイ・ミステリオ</a></p></td>
 <td><p>1</p></td>
 <td><p>11月5日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スマックダウン" title="wikilink">SmackDown!</a></p></td>
+<td><p><a href="../Page/スマックダウン.md" title="wikilink">SmackDown!</a></p></td>
 <td><p>Two Out of Three Falls</p></td>
 </tr>
 <tr class="even">
 <td><p>ロス・ゲレロス<br />
-<a href="https://ja.wikipedia.org/wiki/エディ・ゲレロ" title="wikilink">エディ・ゲレロ</a> &amp; <a href="https://ja.wikipedia.org/wiki/チャボ・ゲレロ・ジュニア" title="wikilink">チャボ・ゲレロ</a></p></td>
+<a href="../Page/エディ・ゲレロ.md" title="wikilink">エディ・ゲレロ</a> &amp; <a href="../Page/チャボ・ゲレロ・ジュニア.md" title="wikilink">チャボ・ゲレロ</a></p></td>
 <td><p>1</p></td>
 <td><p>11月17日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/サバイバー・シリーズ#第16回大会（2002年）WWE_Survivor_Series_2002" title="wikilink">Survivor Series 2002</a></p></td>
@@ -55,14 +55,14 @@
 </tr>
 <tr class="odd">
 <td><p>チーム・アングル<br />
-<a href="https://ja.wikipedia.org/wiki/シェルトン・ベンジャミン" title="wikilink">シェルトン・ベンジャミン</a> &amp; <a href="https://ja.wikipedia.org/wiki/チャーリー・ハース" title="wikilink">チャーリー・ハース</a></p></td>
+<a href="../Page/シェルトン・ベンジャミン.md" title="wikilink">シェルトン・ベンジャミン</a> &amp; <a href="../Page/チャーリー・ハース.md" title="wikilink">チャーリー・ハース</a></p></td>
 <td><p>1</p></td>
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a>2月4日</p></td>
 <td><p>SmackDown!</p></td>
 <td><p>One Fall</p></td>
 </tr>
 <tr class="even">
-<td><p>エディ・ゲレロ(2) &amp; <a href="https://ja.wikipedia.org/wiki/TAJIRI" title="wikilink">タジリ</a></p></td>
+<td><p>エディ・ゲレロ(2) &amp; <a href="../Page/TAJIRI.md" title="wikilink">タジリ</a></p></td>
 <td><p>1</p></td>
 <td><p>5月18日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジャッジメント・デイ#第5回大会（2003年）WWE_Judgment_Day_2003" title="wikilink">Judgment Day 2003</a></p></td>
@@ -86,36 +86,36 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/バシャム・ブラザーズ.md" title="wikilink">バシャム・ブラザーズ</a><br />
-<a href="https://ja.wikipedia.org/wiki/ダグ・バシャム" title="wikilink">ダグ・バシャム</a> &amp; <a href="https://ja.wikipedia.org/wiki/ダニー・ホリー" title="wikilink">ダニー・バシャム</a></p></td>
+<a href="../Page/ダグ・バシャム.md" title="wikilink">ダグ・バシャム</a> &amp; <a href="../Page/ダニー・ホリー.md" title="wikilink">ダニー・バシャム</a></p></td>
 <td><p>1</p></td>
 <td><p>10月21日</p></td>
 <td><p>SmackDown!</p></td>
 <td><p>One Fall</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ソロファ・ファトゥ" title="wikilink">リキシ</a> &amp; <a href="../Page/スコット・ガーランド.md" title="wikilink">スコッティ・2・ホッティ</a></p></td>
+<td><p><a href="../Page/ソロファ・ファトゥ.md" title="wikilink">リキシ</a> &amp; <a href="../Page/スコット・ガーランド.md" title="wikilink">スコッティ・2・ホッティ</a></p></td>
 <td><p>1</p></td>
 <td><p><a href="../Page/2004年.md" title="wikilink">2004年</a>2月3日</p></td>
 <td><p>SmackDown!</p></td>
 <td><p>One Fall</p></td>
 </tr>
 <tr class="odd">
-<td><p>チャーリー・ハース(3) &amp; <a href="https://ja.wikipedia.org/wiki/リコ・コンスタンティノ" title="wikilink">リコ</a></p></td>
+<td><p>チャーリー・ハース(3) &amp; <a href="../Page/リコ・コンスタンティノ.md" title="wikilink">リコ</a></p></td>
 <td><p>1</p></td>
 <td><p>4月20日</p></td>
 <td><p>SmackDown!</p></td>
 <td><p>One Fall</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ダッドリー・ボーイズ" title="wikilink">ダッドリー・ボーイズ</a><br />
-<a href="https://ja.wikipedia.org/wiki/マーク・ロモナコ" title="wikilink">ババ・レイ・ダッドリー</a> &amp; <a href="https://ja.wikipedia.org/wiki/ディーボン・ヒューズ" title="wikilink">ディーボン・ダッドリー</a></p></td>
+<td><p><a href="../Page/ダッドリー・ボーイズ.md" title="wikilink">ダッドリー・ボーイズ</a><br />
+<a href="../Page/マーク・ロモナコ.md" title="wikilink">ババ・レイ・ダッドリー</a> &amp; <a href="../Page/ディーボン・ヒューズ.md" title="wikilink">ディーボン・ダッドリー</a></p></td>
 <td><p>1</p></td>
 <td><p>6月15日</p></td>
 <td><p>SmackDown!</p></td>
 <td><p>One Fall</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ビリー・キッドマン" title="wikilink">ビリー・キッドマン</a> &amp; <a href="https://ja.wikipedia.org/wiki/ポール・ロンドン" title="wikilink">ポール・ロンドン</a></p></td>
+<td><p><a href="../Page/ビリー・キッドマン.md" title="wikilink">ビリー・キッドマン</a> &amp; <a href="../Page/ポール・ロンドン.md" title="wikilink">ポール・ロンドン</a></p></td>
 <td><p>1</p></td>
 <td><p>7月6日</p></td>
 <td><p>SmackDown!</p></td>
@@ -129,7 +129,7 @@
 <td><p>One Fall</p></td>
 </tr>
 <tr class="odd">
-<td><p>レイ・ミステリオ(2) &amp; <a href="https://ja.wikipedia.org/wiki/ロブ・ヴァン・ダム" title="wikilink">ロブ・ヴァン・ダム</a></p></td>
+<td><p>レイ・ミステリオ(2) &amp; <a href="../Page/ロブ・ヴァン・ダム.md" title="wikilink">ロブ・ヴァン・ダム</a></p></td>
 <td><p>1</p></td>
 <td><p>12月7日</p></td>
 <td><p>SmackDown!</p></td>
@@ -139,7 +139,7 @@
 <td><p>バシャム・ブラザーズ<br />
 ダグ・バシャム(2) &amp; ダニー・バシャム(2)</p></td>
 <td><p>2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a>1月11日</p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a>1月11日</p></td>
 <td><p>SmackDown!</p></td>
 <td><p>Fatal Four-Way</p></td>
 </tr>
@@ -151,15 +151,15 @@
 <td><p>One Fall</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/MNM" title="wikilink">MNM</a><br />
-<a href="https://ja.wikipedia.org/wiki/アダム・バーチ" title="wikilink">ジョイ・マーキュリー</a> &amp; <a href="https://ja.wikipedia.org/wiki/ジョン・ヘニガン" title="wikilink">ジョニー・ナイトロ</a></p></td>
+<td><p><a href="../Page/MNM.md" title="wikilink">MNM</a><br />
+<a href="../Page/アダム・バーチ.md" title="wikilink">ジョイ・マーキュリー</a> &amp; <a href="../Page/ジョン・ヘニガン.md" title="wikilink">ジョニー・ナイトロ</a></p></td>
 <td><p>1</p></td>
 <td><p>4月21日</p></td>
 <td><p>SmackDown!</p></td>
 <td><p>One Fall</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ロード・ウォリアーズ" title="wikilink">リージョン・オブ・ドゥーム</a><br />
+<td><p><a href="../Page/ロード・ウォリアーズ.md" title="wikilink">リージョン・オブ・ドゥーム</a><br />
 <a href="../Page/ジョン・ハイデンライク.md" title="wikilink">ハイデンライク</a> &amp; <a href="https://ja.wikipedia.org/wiki/ジョセフ・ロウリネイティス" title="wikilink">アニマル</a></p></td>
 <td><p>1</p></td>
 <td><p>7月24日</p></td>
@@ -189,9 +189,9 @@
 <td><p>One Fall</p></td>
 </tr>
 <tr class="odd">
-<td><p>ポール・ロンドン(2) &amp; <a href="https://ja.wikipedia.org/wiki/ブライアン・ケンドリック" title="wikilink">ブライアン・ケンドリック</a></p></td>
+<td><p>ポール・ロンドン(2) &amp; <a href="../Page/ブライアン・ケンドリック.md" title="wikilink">ブライアン・ケンドリック</a></p></td>
 <td><p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a>5月21日</p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a>5月21日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジャッジメント・デイ#第8回大会（2006年）WWE_SmackDown!&#39;s_Judgment_Day_2006" title="wikilink">Judgment Day 2006</a></p></td>
 <td><p>One Fall</p></td>
 </tr>
@@ -203,21 +203,21 @@
 <td><p>One Fall</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/アルヴィン・バーク・ジュニア.md" title="wikilink">モンテル・ボンタビアス・ポーター</a> &amp; <a href="https://ja.wikipedia.org/wiki/マット・ハーディー" title="wikilink">マット・ハーディー</a></p></td>
+<td><p><a href="../Page/アルヴィン・バーク・ジュニア.md" title="wikilink">モンテル・ボンタビアス・ポーター</a> &amp; <a href="../Page/マット・ハーディー.md" title="wikilink">マット・ハーディー</a></p></td>
 <td><p>1</p></td>
 <td><p>8月31日</p></td>
 <td><p>SmackDown!</p></td>
 <td><p>One Fall</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョン・ヘニガン" title="wikilink">ジョン・モリソン</a>(4) &amp; <a href="https://ja.wikipedia.org/wiki/ザ・ミズ" title="wikilink">ザ・ミズ</a></p></td>
+<td><p><a href="../Page/ジョン・ヘニガン.md" title="wikilink">ジョン・モリソン</a>(4) &amp; <a href="../Page/ザ・ミズ.md" title="wikilink">ザ・ミズ</a></p></td>
 <td><p>1</p></td>
 <td><p>11月13日</p></td>
 <td><p>SmackDown!</p></td>
 <td><p>One Fall</p></td>
 </tr>
 <tr class="odd">
-<td><p>※2007年11月13日、<a href="https://ja.wikipedia.org/wiki/ECW" title="wikilink">ECW</a>とSmackDown!の共通王座となる。</p></td>
+<td><p>※2007年11月13日、<a href="../Page/ECW.md" title="wikilink">ECW</a>とSmackDown!の共通王座となる。</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -239,21 +239,21 @@
 </tr>
 <tr class="even">
 <td><p>コロンズ<br />
-<a href="https://ja.wikipedia.org/wiki/カーリー・コロン" title="wikilink">カリート</a> &amp; <a href="../Page/エディ・コロン.md" title="wikilink">プリモ</a></p></td>
+<a href="../Page/カーリー・コロン.md" title="wikilink">カリート</a> &amp; <a href="../Page/エディ・コロン.md" title="wikilink">プリモ</a></p></td>
 <td><p>1</p></td>
 <td><p>9月21日</p></td>
 <td><p>SmackDown</p></td>
 <td><p>One Fall</p></td>
 </tr>
 <tr class="odd">
-<td><p>※2009年4月5日 <a href="https://ja.wikipedia.org/wiki/レッスルマニアXXV" title="wikilink">WM XXVで</a><a href="https://ja.wikipedia.org/wiki/WWE・世界タッグチーム王座" title="wikilink">WWE世界タッグチーム王座と統合</a>。<strong>WWE統一タッグチーム王座</strong>と呼称。RAW・SmackDownの共通王座となる。</p></td>
+<td><p>※2009年4月5日 <a href="https://ja.wikipedia.org/wiki/レッスルマニアXXV" title="wikilink">WM XXVで</a><a href="../Page/WWE・世界タッグチーム王座.md" title="wikilink">WWE世界タッグチーム王座と統合</a>。<strong>WWE統一タッグチーム王座</strong>と呼称。RAW・SmackDownの共通王座となる。</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>エッジ(2) &amp; <a href="https://ja.wikipedia.org/wiki/クリス・ジェリコ" title="wikilink">クリス・ジェリコ</a></p></td>
+<td><p>エッジ(2) &amp; <a href="../Page/クリス・ジェリコ.md" title="wikilink">クリス・ジェリコ</a></p></td>
 <td><p>1</p></td>
 <td><p><a href="../Page/2009年.md" title="wikilink">2009年</a>6月28日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/WWEザ・バッシュ#第1回大会（2009年）WWE_The_Bash_2009" title="wikilink">The Bash</a></p></td>
@@ -268,8 +268,8 @@
 <td><p>One Fall</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/D-ジェネレーションX" title="wikilink">D-ジェネレーションX</a><br />
-<a href="https://ja.wikipedia.org/wiki/ショーン・マイケルズ" title="wikilink">ショーン・マイケルズ</a> &amp; <a href="https://ja.wikipedia.org/wiki/トリプルH" title="wikilink">トリプルH</a></p></td>
+<td><p><a href="../Page/D-ジェネレーションX.md" title="wikilink">D-ジェネレーションX</a><br />
+<a href="https://ja.wikipedia.org/wiki/ショーン・マイケルズ" title="wikilink">ショーン・マイケルズ</a> &amp; <a href="../Page/トリプルH.md" title="wikilink">トリプルH</a></p></td>
 <td><p>1</p></td>
 <td><p>12月13日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/WWE_TLC:テーブルズ・ラダーズ・アンド・チェアーズ#第1回大会（2009年）WWE_TLC:Tables,_Ladders_and_Chairs_2009" title="wikilink">TLC:Tables, Ladders &amp; Chairs 2009</a></p></td>
@@ -280,7 +280,7 @@
 ビッグ・ショー(2) &amp; ザ・ミズ(2)</p></td>
 <td><p>1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a>2月8日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/WWE・ロウ" title="wikilink">RAW</a></p></td>
+<td><p><a href="../Page/WWE・ロウ.md" title="wikilink">RAW</a></p></td>
 <td><p>Triple Threat Elimination</p></td>
 </tr>
 <tr class="even">
@@ -307,7 +307,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ネクサス_(プロレス)" title="wikilink">ネクサス</a><br />
-<a href="https://ja.wikipedia.org/wiki/ジョン・シナ" title="wikilink">ジョン・シナ</a> &amp; <a href="https://ja.wikipedia.org/wiki/デビッド・オタンガ" title="wikilink">デビッド・オタンガ</a></p></td>
+<a href="../Page/ジョン・シナ.md" title="wikilink">ジョン・シナ</a> &amp; <a href="https://ja.wikipedia.org/wiki/デビッド・オタンガ" title="wikilink">デビッド・オタンガ</a></p></td>
 <td><p>1</p></td>
 <td><p>10月24日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/WWEブラッギング・ライツ#第2回大会（2010年）WWE_Bragging_Rights_2010" title="wikilink">Bragging Rights 2010</a></p></td>
@@ -352,7 +352,7 @@
 <td><p>One Fall</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ケイン_(プロレスラー)" title="wikilink">ケイン</a> &amp; ビッグ・ショー(3)</p></td>
+<td><p><a href="../Page/ケイン_(プロレスラー).md" title="wikilink">ケイン</a> &amp; ビッグ・ショー(3)</p></td>
 <td><p>1</p></td>
 <td><p>4月19日</p></td>
 <td><p>SmackDown</p></td>
@@ -397,7 +397,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/チーム・ヘル・ノー" title="wikilink">チーム・ヘル・ノー</a><br />
-<a href="https://ja.wikipedia.org/wiki/ブライアン・ダニエルソン" title="wikilink">ダニエル・ブライアン</a> &amp; ケイン(2)</p></td>
+<a href="../Page/ブライアン・ダニエルソン.md" title="wikilink">ダニエル・ブライアン</a> &amp; ケイン(2)</p></td>
 <td><p>1</p></td>
 <td><p>9月16日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/WWEナイト・オブ・チャンピオンズ#第5回大会（2012年）WWE_Night_of_Champions_2012" title="wikilink">Night of Champions 2012</a></p></td>
@@ -412,15 +412,15 @@
 <td><p>Tornado</p></td>
 </tr>
 <tr class="odd">
-<td><p>コーディ・ローデス(2) &amp; <a href="https://ja.wikipedia.org/wiki/ダスティン・ローデス" title="wikilink">ゴールダスト</a></p></td>
+<td><p>コーディ・ローデス(2) &amp; <a href="../Page/ダスティン・ローデス.md" title="wikilink">ゴールダスト</a></p></td>
 <td><p>1</p></td>
 <td><p>10月14日</p></td>
 <td><p>RAW</p></td>
 <td><p>One Fall</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ニュー・エイジ・アウトローズ" title="wikilink">ニュー・エイジ・アウトローズ</a><br />
-<a href="https://ja.wikipedia.org/wiki/ブライアン・ジェイムス" title="wikilink">ロード・ドッグ</a> &amp; <a href="https://ja.wikipedia.org/wiki/モンティ・ソップ" title="wikilink">ビリー・ガン</a></p></td>
+<td><p><a href="../Page/ニュー・エイジ・アウトローズ.md" title="wikilink">ニュー・エイジ・アウトローズ</a><br />
+<a href="../Page/ブライアン・ジェイムス.md" title="wikilink">ロード・ドッグ</a> &amp; <a href="../Page/モンティ・ソップ.md" title="wikilink">ビリー・ガン</a></p></td>
 <td><p>1</p></td>
 <td><p><a href="../Page/2014年.md" title="wikilink">2014年</a>1月26日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ロイヤルランブル#第27回大会（2014年）WWE_Royal_Rumble_2014" title="wikilink">Royal Rumble 2014</a></p></td>
@@ -485,7 +485,7 @@
 コフィ・キングストン(4) &amp; ビッグ・E(2) &amp; エグゼビア・ウッズ(2)</p></td>
 <td><p>2</p></td>
 <td><p>8月23日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サマースラム" title="wikilink">SummerSlam 2015</a></p></td>
+<td><p><a href="../Page/サマースラム.md" title="wikilink">SummerSlam 2015</a></p></td>
 <td><p>Fatal Four-Way</p></td>
 </tr>
 <tr class="odd">
@@ -506,15 +506,15 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/カール・アンダーソン_(プロレスラー)" title="wikilink">カール・アンダーソン</a> &amp; <a href="../Page/ドリュー・ハンキンソン.md" title="wikilink">ルーク・ギャローズ</a></p></td>
 <td><p>1</p></td>
 <td><p><a href="../Page/2017年.md" title="wikilink">2017年</a>1月29日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロイヤルランブル" title="wikilink">Royal Rumble 2017</a></p></td>
+<td><p><a href="../Page/ロイヤルランブル.md" title="wikilink">Royal Rumble 2017</a></p></td>
 <td><p>One Fall</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ハーディーボーイズ" title="wikilink">ハーディーボーイズ</a><br />
-<a href="https://ja.wikipedia.org/wiki/ジェフ・ハーディー" title="wikilink">ジェフ・ハーディー</a> &amp; マット・ハーディー(2)</p></td>
+<a href="../Page/ジェフ・ハーディー.md" title="wikilink">ジェフ・ハーディー</a> &amp; マット・ハーディー(2)</p></td>
 <td><p>1</p></td>
 <td><p>4月2日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レッスルマニア" title="wikilink">WrestleMania 33</a></p></td>
+<td><p><a href="../Page/レッスルマニア.md" title="wikilink">WrestleMania 33</a></p></td>
 <td><p>Ladder</p></td>
 </tr>
 <tr class="odd">
@@ -528,7 +528,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ジョナサン・グッド" title="wikilink">ディーン・アンブローズ</a> &amp; セス・ロリンズ(2)</p></td>
 <td><p>1</p></td>
 <td><p>8月20日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サマースラム" title="wikilink">SummerSlam 2017</a></p></td>
+<td><p><a href="../Page/サマースラム.md" title="wikilink">SummerSlam 2017</a></p></td>
 <td><p>One Fall</p></td>
 </tr>
 <tr class="odd">
@@ -549,7 +549,7 @@
 <td><p>セザーロ(5) &amp; シェイマス(4)</p></td>
 <td><p>4</p></td>
 <td><p><a href="../Page/2018年.md" title="wikilink">2018年</a>1月28日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロイヤルランブル" title="wikilink">Royal Rumble 2018</a></p></td>
+<td><p><a href="../Page/ロイヤルランブル.md" title="wikilink">Royal Rumble 2018</a></p></td>
 <td><p>One Fall</p></td>
 </tr>
 <tr class="even">
@@ -622,7 +622,7 @@
 <td><p>カート・ホーキンス(2) &amp; ザック・ライダー(2)</p></td>
 <td><p>2</p></td>
 <td><p>4月7日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レッスルマニア" title="wikilink">WrestleMania 35</a></p></td>
+<td><p><a href="../Page/レッスルマニア.md" title="wikilink">WrestleMania 35</a></p></td>
 <td><p>One Fall</p></td>
 </tr>
 <tr class="even">

@@ -5,7 +5,7 @@
 
 ## 概要
 
-全機種[BTO](https://ja.wikipedia.org/wiki/BTO "wikilink")対応。本ブランドに限らず、デルの製品の全てにいえることであるが、[コストパフォーマンス](https://ja.wikipedia.org/wiki/コストパフォーマンス "wikilink")に優れているのが最大の特徴で、他メーカーと比べて安価で高スペックのPCを購入できる。なかでも、ラップトップPCの場合には変更が容易でない[グラフィックボード](https://ja.wikipedia.org/wiki/グラフィックボード "wikilink")等で高性能なものを選択できる利点があり、3Dゲームなど高スペックなグラフィックボードが必要なユーザーに好まれる。その反面、[ソフトウェア](../Page/ソフトウェア.md "wikilink")は必要最低限のものしか[インストール](../Page/インストール.md "wikilink")されておらず、必要なものを買い揃える必要がある。しかし、そのことは他社PCのように、インストールされているが使用しないソフトウェアがリソースを食うことで生じるパフォーマンスの低下を防げるため、必要なソフトウェアを厳選できる中級者以上のユーザーにとっては、喜ばれることでもある。
+全機種[BTO](../Page/BTO.md "wikilink")対応。本ブランドに限らず、デルの製品の全てにいえることであるが、[コストパフォーマンス](https://ja.wikipedia.org/wiki/コストパフォーマンス "wikilink")に優れているのが最大の特徴で、他メーカーと比べて安価で高スペックのPCを購入できる。なかでも、ラップトップPCの場合には変更が容易でない[グラフィックボード](https://ja.wikipedia.org/wiki/グラフィックボード "wikilink")等で高性能なものを選択できる利点があり、3Dゲームなど高スペックなグラフィックボードが必要なユーザーに好まれる。その反面、[ソフトウェア](../Page/ソフトウェア.md "wikilink")は必要最低限のものしか[インストール](../Page/インストール.md "wikilink")されておらず、必要なものを買い揃える必要がある。しかし、そのことは他社PCのように、インストールされているが使用しないソフトウェアがリソースを食うことで生じるパフォーマンスの低下を防げるため、必要なソフトウェアを厳選できる中級者以上のユーザーにとっては、喜ばれることでもある。
 
 以前は、[法人](../Page/法人.md "wikilink")用PCのようなシンプルなデザインのものが多かったが、現行モデルでは、天板にカラーパネルを採用するなど、デザインにも注力していると思われる。
 
@@ -38,12 +38,12 @@
 
 ### ミニラップトップPC
 
-  - Mini 9：8.9インチ液晶画面。省電力CPUや[SSDを搭載](https://ja.wikipedia.org/wiki/ソリッドステートドライブ "wikilink")。
+  - Mini 9：8.9インチ液晶画面。省電力CPUや[SSDを搭載](../Page/ソリッドステートドライブ.md "wikilink")。
   - Mini 10：10.1インチ液晶画面。
   - Mini 10v：10.1インチ液晶画面。
   - Mini 12：12.1インチ液晶画面。
 
-いわゆる[ネットブック](https://ja.wikipedia.org/wiki/ネットブック "wikilink")。パッケージによって異なるが、OSは[Ubuntu](https://ja.wikipedia.org/wiki/Ubuntu "wikilink")あるいは[Windows XPが選択できる](../Page/Microsoft_Windows_XP.md "wikilink")。日本で唯一、OSに[Ubuntu](https://ja.wikipedia.org/wiki/Ubuntu "wikilink")がプレインストールしてあるネットブックパソコンである。 2011年に販売終了した\[5\]。
+いわゆる[ネットブック](https://ja.wikipedia.org/wiki/ネットブック "wikilink")。パッケージによって異なるが、OSは[Ubuntu](../Page/Ubuntu.md "wikilink")あるいは[Windows XPが選択できる](../Page/Microsoft_Windows_XP.md "wikilink")。日本で唯一、OSに[Ubuntu](../Page/Ubuntu.md "wikilink")がプレインストールしてあるネットブックパソコンである。 2011年に販売終了した\[5\]。
 
 ### ラップトップPC
 
@@ -52,18 +52,18 @@
   - 1520：15.4インチ液晶搭載。
   - 1720：17.1インチ液晶搭載。[10キー](https://ja.wikipedia.org/wiki/10キー "wikilink")搭載のフルキーボードを採用。現時点で[WUXGA](https://ja.wikipedia.org/wiki/WUXGA "wikilink")（1920×1200）の高解像度液晶を選択できる数少ないモデルの一つ。
 
-上記1420、1520、1720が同ブランド上の主力商品。それぞれ14.1インチ、15.4インチ、17.1インチのワイド液晶を採用。解像度等は選択可。[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")製CPU採用。[NVIDIA](https://ja.wikipedia.org/wiki/NVIDIA "wikilink")製グラフィックボード選択可。ほぼ同性能、同価格帯となっており、ニーズに合わせた選択が可能。ただし、最小の1420でも厚さが32ｍmあるため、頻繁なモバイル用途にはあまり向かないと思われる。
+上記1420、1520、1720が同ブランド上の主力商品。それぞれ14.1インチ、15.4インチ、17.1インチのワイド液晶を採用。解像度等は選択可。[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")製CPU採用。[NVIDIA](../Page/NVIDIA.md "wikilink")製グラフィックボード選択可。ほぼ同性能、同価格帯となっており、ニーズに合わせた選択が可能。ただし、最小の1420でも厚さが32ｍmあるため、頻繁なモバイル用途にはあまり向かないと思われる。
 
 ### デスクトップPC
 
   - 530 (531)：530はインテル製CPUを、531はAMD製CPUを採用、530はNVIDIA 530sを採用。
-  - 530s (531s)：530sはインテル製CPUを、531sはAMD製CPUを採用、[ATI製グラフィックカードを採用](https://ja.wikipedia.org/wiki/ATI_Technologies "wikilink")。スリムタワー仕様。
+  - 530s (531s)：530sはインテル製CPUを、531sはAMD製CPUを採用、[ATI製グラフィックカードを採用](../Page/ATI_Technologies.md "wikilink")。スリムタワー仕様。
   - 545：530 (531)の後継種。筐体の前面パネルに、全8色のカラーバリエーションを採用。Intel製CPUを採用。
   - 545s：530s (531s)の後継種。筐体の前面パネルに、全8色のカラーバリエーションを採用。Intel製CPUを採用。スリムタワー仕様。
 
 ### アメリカ限定のモデル
 
-Inspiron XPSシリーズは[アメリカなど欧米市場限定のモデルだったが](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[5月9日](../Page/5月9日.md "wikilink")よりm1710の販売を日本で開始した。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に[Sonomaプラットフォームを導入した](https://ja.wikipedia.org/wiki/Centrino#第2世代 "wikilink")6000と9300が登場するまでは、最速モデルとしてプレスコットコアの[Pentium 4を搭載した](../Page/Pentium_4.md "wikilink")9100があった。
+Inspiron XPSシリーズは[アメリカなど欧米市場限定のモデルだったが](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[2006年](../Page/2006年.md "wikilink")[5月9日](../Page/5月9日.md "wikilink")よりm1710の販売を日本で開始した。[2005年](../Page/2005年.md "wikilink")に[Sonomaプラットフォームを導入した](https://ja.wikipedia.org/wiki/Centrino#第2世代 "wikilink")6000と9300が登場するまでは、最速モデルとしてプレスコットコアの[Pentium 4を搭載した](../Page/Pentium_4.md "wikilink")9100があった。
 
 ## 脚注
 

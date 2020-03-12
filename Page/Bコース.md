@@ -10,10 +10,10 @@
 <!-- end list -->
 
   -
-    [千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[千葉市](../Page/千葉市.md "wikilink")[中央区出身](../Page/中央区_\(千葉市\).md "wikilink")\[1\]。[左利き](../Page/左利き.md "wikilink")。B型\[2\]。
-    [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に[結婚](../Page/結婚.md "wikilink")。ネクタイに嫁の名前を刺繍している。
-    [マッシュルームカット](https://ja.wikipedia.org/wiki/マッシュルームカット "wikilink")が特徴だったが、[2007年](../Page/2007年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink")の時点で散髪。
-    ネタ中に[スリッパ](https://ja.wikipedia.org/wiki/スリッパ "wikilink")を持参している。
+    [千葉県](../Page/千葉県.md "wikilink")[千葉市](../Page/千葉市.md "wikilink")[中央区出身](../Page/中央区_\(千葉市\).md "wikilink")\[1\]。[左利き](../Page/左利き.md "wikilink")。B型\[2\]。
+    [2006年](../Page/2006年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に[結婚](../Page/結婚.md "wikilink")。ネクタイに嫁の名前を刺繍している。
+    [マッシュルームカット](../Page/マッシュルームカット.md "wikilink")が特徴だったが、[2007年](../Page/2007年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink")の時点で散髪。
+    ネタ中に[スリッパ](../Page/スリッパ.md "wikilink")を持参している。
     [ベビーサイン](../Page/ベビーサイン.md "wikilink")の講師の資格を持っており、東京学芸大学で講義を行っている。
 
 <!-- end list -->
@@ -25,11 +25,11 @@
   -
     B型。
     自称リーダー。
-    [ゲイ](https://ja.wikipedia.org/wiki/ゲイ "wikilink")の[キャラクター](../Page/キャラクター.md "wikilink")が多い。
-    [徳井義実](../Page/徳井義実.md "wikilink")（[チュートリアル](https://ja.wikipedia.org/wiki/チュートリアル_\(お笑いコンビ\) "wikilink")）の妹と交際をし結婚も約束していたが、8回プロポーズを断られた後に破局。8回目は[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[9月22日](../Page/9月22日.md "wikilink")放送の『[キリウリ](https://ja.wikipedia.org/wiki/新型芸人オークション_キリウリ〜お金のためならここまでやります〜 "wikilink")』の企画の1つである「トライアスロン（スイム・ラン）」の後にプロポーズするというサプライズで行い、その場ではOKをもらえて、そのVTRを見た番組司会の[宮迫博之](https://ja.wikipedia.org/wiki/宮迫博之 "wikilink")（[雨上がり決死隊](../Page/雨上がり決死隊.md "wikilink")）と千原ジュニアも祝福する。だがVTRには続きがあり、VTRにはナベ本人が登場して「後日『（あの場では芸人仲間や親友が見守っていたので）OKを出してしまったけど、やっぱり無理』と言われ、元から別れ話が上がっていた時期だったのでそのままフラれてしまった」という報告をした。タイミング悪く、翌[9月23日](../Page/9月23日.md "wikilink")にはフラれる前の時期にあった収録での『[アメトーーク](https://ja.wikipedia.org/wiki/雨上がり決死隊のトーク番組アメトーーク! "wikilink")』が放送され、彼女とのエピソードも披露していた。
-    タレントの[LiLiCo](https://ja.wikipedia.org/wiki/LiLiCo "wikilink")（リリコ）と2013年4月2日、日テレ系「[好きになった人](https://ja.wikipedia.org/wiki/好きになった人 "wikilink")9」に出演し、交際を快諾した後に結局振る。
+    [ゲイ](../Page/ゲイ.md "wikilink")の[キャラクター](../Page/キャラクター.md "wikilink")が多い。
+    [徳井義実](../Page/徳井義実.md "wikilink")（[チュートリアル](../Page/チュートリアル_\(お笑いコンビ\).md "wikilink")）の妹と交際をし結婚も約束していたが、8回プロポーズを断られた後に破局。8回目は[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[9月22日](../Page/9月22日.md "wikilink")放送の『[キリウリ](https://ja.wikipedia.org/wiki/新型芸人オークション_キリウリ〜お金のためならここまでやります〜 "wikilink")』の企画の1つである「トライアスロン（スイム・ラン）」の後にプロポーズするというサプライズで行い、その場ではOKをもらえて、そのVTRを見た番組司会の[宮迫博之](https://ja.wikipedia.org/wiki/宮迫博之 "wikilink")（[雨上がり決死隊](../Page/雨上がり決死隊.md "wikilink")）と千原ジュニアも祝福する。だがVTRには続きがあり、VTRにはナベ本人が登場して「後日『（あの場では芸人仲間や親友が見守っていたので）OKを出してしまったけど、やっぱり無理』と言われ、元から別れ話が上がっていた時期だったのでそのままフラれてしまった」という報告をした。タイミング悪く、翌[9月23日](../Page/9月23日.md "wikilink")にはフラれる前の時期にあった収録での『[アメトーーク](../Page/雨上がり決死隊のトーク番組アメトーーク!.md "wikilink")』が放送され、彼女とのエピソードも披露していた。
+    タレントの[LiLiCo](../Page/LiLiCo.md "wikilink")（リリコ）と2013年4月2日、日テレ系「[好きになった人](https://ja.wikipedia.org/wiki/好きになった人 "wikilink")9」に出演し、交際を快諾した後に結局振る。
     [2015年](../Page/2015年.md "wikilink")[8月31日](../Page/8月31日.md "wikilink")を以て芸人を引退したことを、9月8日付の自身のブログで発表\[3\]。
-    その後、雑誌記者を目指すが挫折。[ニトリ](https://ja.wikipedia.org/wiki/ニトリ "wikilink")でアルバイトから正社員を目指すも年齢がネックとなり断念。「短大卒」、「41歳」、「職歴なし」という状況に絶望するなかで、[カラテカの](../Page/カラテカ_\(お笑いコンビ\).md "wikilink")[入江慎也](https://ja.wikipedia.org/wiki/入江慎也 "wikilink")が興した「株式会社イリエコネクション」に懇願して入社。芸人やアスリートなどのセカンドキャリアを支援する業務に就いていたが、2019年に入江が「闇営業」騒動を起こした影響から「イリエコネクション」は入江以外の全社員が退社。ナベも退社を余儀なくされたものと思われる。\[4\]
+    その後、雑誌記者を目指すが挫折。[ニトリ](../Page/ニトリ.md "wikilink")でアルバイトから正社員を目指すも年齢がネックとなり断念。「短大卒」、「41歳」、「職歴なし」という状況に絶望するなかで、[カラテカの](../Page/カラテカ_\(お笑いコンビ\).md "wikilink")[入江慎也](../Page/入江慎也.md "wikilink")が興した「株式会社イリエコネクション」に懇願して入社。芸人やアスリートなどのセカンドキャリアを支援する業務に就いていたが、2019年に入江が「闇営業」騒動を起こした影響から「イリエコネクション」は入江以外の全社員が退社。ナベも退社を余儀なくされたものと思われる。\[4\]
 
 <!-- end list -->
 
@@ -38,27 +38,27 @@
 <!-- end list -->
 
   -
-    [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[練馬区](https://ja.wikipedia.org/wiki/練馬区 "wikilink")出身\[5\]。O型\[6\]。
+    [東京都](../Page/東京都.md "wikilink")[練馬区](https://ja.wikipedia.org/wiki/練馬区 "wikilink")出身\[5\]。O型\[6\]。
     坊主頭が特徴。
     運動が得意で体も鍛えている。
-    [はりけ〜んず](https://ja.wikipedia.org/wiki/はりけ〜んず "wikilink")などには「ブーハー」と呼ばれる。
+    [はりけ〜んず](../Page/はりけ〜んず.md "wikilink")などには「ブーハー」と呼ばれる。
     [将棋棋士](https://ja.wikipedia.org/wiki/将棋棋士 "wikilink")[羽生善治](../Page/羽生善治.md "wikilink")の従弟。
     ギターが得意で、コント等でもよく披露する。
     [椿鬼奴](https://ja.wikipedia.org/wiki/椿鬼奴 "wikilink")に気に入られている（[東野幸治](../Page/東野幸治.md "wikilink")曰く「[しんじ](https://ja.wikipedia.org/wiki/しんじ "wikilink")を降ろして[キュートン](https://ja.wikipedia.org/wiki/キュートン "wikilink")に入れたいんちゃう」）。
-    漫才中に「[行け\!稲中卓球部](https://ja.wikipedia.org/wiki/行け!稲中卓球部 "wikilink")に出てきそうな顔」とイジられることがある。
-    [COWCOW](https://ja.wikipedia.org/wiki/COWCOW "wikilink")主催の“一発ギャグ日本一”を競うイベント『大秒殺』で2008・2009年と2年連続優勝。実力派ギャガーとして[世界のナベアツから](../Page/桂三度.md "wikilink")「変態芸 世界一」と評価されている\[7\]。
+    漫才中に「[行け\!稲中卓球部](../Page/行け!稲中卓球部.md "wikilink")に出てきそうな顔」とイジられることがある。
+    [COWCOW](../Page/COWCOW.md "wikilink")主催の“一発ギャグ日本一”を競うイベント『大秒殺』で2008・2009年と2年連続優勝。実力派ギャガーとして[世界のナベアツから](../Page/桂三度.md "wikilink")「変態芸 世界一」と評価されている\[7\]。
     かつて、[田村淳](../Page/田村淳.md "wikilink")（[ロンドンブーツ1号2号](../Page/ロンドンブーツ1号2号.md "wikilink")）と同居していたことがある。
     両親は二人とも英語教師。
 
 ## 略歴
 
-[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[美唄市](../Page/美唄市.md "wikilink")の[専修大学北海道短期大学](https://ja.wikipedia.org/wiki/専修大学北海道短期大学 "wikilink")の同級生として出会い\[8\]、[1996年](../Page/1996年.md "wikilink")1月に結成。トリオ名は、短大の中で[専修大学](../Page/専修大学.md "wikilink")に編入学するコースの名称から取った。
+[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[美唄市](../Page/美唄市.md "wikilink")の[専修大学北海道短期大学](../Page/専修大学北海道短期大学.md "wikilink")の同級生として出会い\[8\]、[1996年](../Page/1996年.md "wikilink")1月に結成。トリオ名は、短大の中で[専修大学](../Page/専修大学.md "wikilink")に編入学するコースの名称から取った。
 
-[札幌吉本主催のオーディション番組](https://ja.wikipedia.org/wiki/よしもとクリエイティブ・エージェンシー札幌事務所 "wikilink")「笑わしたるねん」（[北海道テレビ放送](../Page/北海道テレビ放送.md "wikilink")）で合格して事務所所属となり、初期は札幌で活動していた。札幌吉本の同期に[アップダウン](https://ja.wikipedia.org/wiki/アップダウン "wikilink")、[マッサジル](../Page/マッサジル.md "wikilink")がいる。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[東京吉本](../Page/東京吉本.md "wikilink")に移籍。[カラテカや](../Page/カラテカ_\(お笑いコンビ\).md "wikilink")[ニブンノゴ\!](https://ja.wikipedia.org/wiki/ニブンノゴ! "wikilink")、[ハローバイバイ](https://ja.wikipedia.org/wiki/ハローバイバイ "wikilink")などの[東京NSC2期生もほぼ同期で](https://ja.wikipedia.org/wiki/吉本総合芸能学院#東京校 "wikilink")、売れっ子がなかなか出ないことで知られた「泥の97年世代」の一組である。
+[札幌吉本主催のオーディション番組](https://ja.wikipedia.org/wiki/よしもとクリエイティブ・エージェンシー札幌事務所 "wikilink")「笑わしたるねん」（[北海道テレビ放送](../Page/北海道テレビ放送.md "wikilink")）で合格して事務所所属となり、初期は札幌で活動していた。札幌吉本の同期に[アップダウン](../Page/アップダウン.md "wikilink")、[マッサジル](../Page/マッサジル.md "wikilink")がいる。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[東京吉本](../Page/東京吉本.md "wikilink")に移籍。[カラテカや](../Page/カラテカ_\(お笑いコンビ\).md "wikilink")[ニブンノゴ\!](../Page/ニブンノゴ!.md "wikilink")、[ハローバイバイ](../Page/ハローバイバイ.md "wikilink")などの[東京NSC2期生もほぼ同期で](https://ja.wikipedia.org/wiki/吉本総合芸能学院#東京校 "wikilink")、売れっ子がなかなか出ないことで知られた「泥の97年世代」の一組である。
 
 [2012年](../Page/2012年.md "wikilink")[11月27日](../Page/11月27日.md "wikilink")に、年内いっぱいで解散することを発表\[9\]。[テレビ朝日](../Page/テレビ朝日.md "wikilink")系芸人トーク番組『[雨上がり決死隊のトーク番組 アメトーーク\!](https://ja.wikipedia.org/wiki/雨上がり決死隊のトーク番組_アメトーーク! "wikilink")』の2012年12月13日放送分「持ち込み企画プレゼン大会（2012冬）」に最初で最後の3人全員での（トリオ芸人としての）出演を果たし、同番組出演を以て解散を表明。「何をやっても結果が出なかった」、「実は全員が仲悪かった」ということを理由としている。また3人の出会いの場となった専修大学北海道短期大学も、この年の年度末をもって閉校となった。
 
-その後も全員[ピン芸人](https://ja.wikipedia.org/wiki/ピン芸人 "wikilink")として芸能活動を継続していたが、上記の通りナベは2015年8月いっぱいで芸人を引退した。
+その後も全員[ピン芸人](../Page/ピン芸人.md "wikilink")として芸能活動を継続していたが、上記の通りナベは2015年8月いっぱいで芸人を引退した。
 
 ## 特徴・ネタ
 
@@ -88,9 +88,9 @@
   - （このネタに入る前の話の内容による）ショックよ、ショック\! ショクショクショック\! ショック\! ショック\! 落ち込みまーす…（その他バリエーション有り）
   - 一線引かせて頂きます\!（タケト）一線引かせて頂きます\!（ナベ）一線引かせて頂きます\!（ハブ）出れない\!\!（3人）
   - あ{{～}}、ちょいと近づきまーすーが（相手に三人で近づいていく）、特にいーみはありません（前を向いたまま後ろに三人で後退）、チョイチョイ
-  - ナベとハブが口論になりそれをタケトや他の芸人が止めに入ると、ナベとハブが両手を繋いで「[富士〜サファリパ〜ク](https://ja.wikipedia.org/wiki/串田アキラ "wikilink")」と歌いながら腕を上下に開いて、間にいる芸人が腕の間から顔を出し「ガオ〜」と言う（[富士サファリパーク](https://ja.wikipedia.org/wiki/富士サファリパーク "wikilink")のCMのパロディ）
-  - ハブの顔を「[稲中卓球部](https://ja.wikipedia.org/wiki/稲中卓球部 "wikilink")に出てきそうな顔」、「[甘栗むいちゃいましたみたいな顔](https://ja.wikipedia.org/wiki/クラシエフーズ "wikilink")」といじる
-  - 今回はハシャギすぎて本当にスイマセンでした\!（3人）…と謝っている3人の中で実は反省してないのは誰でしょう?（ハブ）ドゥードゥードゥードゥードゥー\! 正解は[越後製菓](https://ja.wikipedia.org/wiki/越後製菓 "wikilink")\!\!（[桃太郎侍](https://ja.wikipedia.org/wiki/桃太郎侍 "wikilink")に扮した[高橋英樹主演の同社CMのパロディ](https://ja.wikipedia.org/wiki/高橋英樹_\(俳優\) "wikilink")）（ハブ）何で\!?（3人）
+  - ナベとハブが口論になりそれをタケトや他の芸人が止めに入ると、ナベとハブが両手を繋いで「[富士〜サファリパ〜ク](../Page/串田アキラ.md "wikilink")」と歌いながら腕を上下に開いて、間にいる芸人が腕の間から顔を出し「ガオ〜」と言う（[富士サファリパーク](../Page/富士サファリパーク.md "wikilink")のCMのパロディ）
+  - ハブの顔を「[稲中卓球部](https://ja.wikipedia.org/wiki/稲中卓球部 "wikilink")に出てきそうな顔」、「[甘栗むいちゃいましたみたいな顔](../Page/クラシエフーズ.md "wikilink")」といじる
+  - 今回はハシャギすぎて本当にスイマセンでした\!（3人）…と謝っている3人の中で実は反省してないのは誰でしょう?（ハブ）ドゥードゥードゥードゥードゥー\! 正解は[越後製菓](../Page/越後製菓.md "wikilink")\!\!（[桃太郎侍](../Page/桃太郎侍.md "wikilink")に扮した[高橋英樹主演の同社CMのパロディ](../Page/高橋英樹_\(俳優\).md "wikilink")）（ハブ）何で\!?（3人）
 
 <!-- end list -->
 
@@ -99,7 +99,7 @@
 <!-- end list -->
 
   - （マッシュルームカット時代に周りに「キノコ」「キノコ」と言われ）「キノコじゃねぇよ\!」「（「じゃあ、どこが好きなんだよ\!?」と振られて）「暖かくてジメジメした所だよ\!」（当時上記と同じく、[キノコ](https://ja.wikipedia.org/wiki/キノコ "wikilink")のようなヘアスタイルをしているので、こう答える）
-  - 同期の[ガリットチュウ](https://ja.wikipedia.org/wiki/ガリットチュウ "wikilink")[福島](https://ja.wikipedia.org/wiki/福島善成 "wikilink")、[カラテカ](../Page/カラテカ_\(お笑いコンビ\).md "wikilink")[矢部と共に](https://ja.wikipedia.org/wiki/矢部太郎 "wikilink")「福島プロダクション」として活動した事がある。
+  - 同期の[ガリットチュウ](../Page/ガリットチュウ.md "wikilink")[福島](../Page/福島善成.md "wikilink")、[カラテカ](../Page/カラテカ_\(お笑いコンビ\).md "wikilink")[矢部と共に](../Page/矢部太郎.md "wikilink")「福島プロダクション」として活動した事がある。
 
 <!-- end list -->
 
@@ -138,26 +138,26 @@
           - 874KBで敗退\[12\]しており、この記録は歴代のセミファイナルで敗退した芸人における最高KBとなっている\[13\]。
       - 第10回チャンピオン大会 ファイナル7位
   - [キャナガワ](../Page/キャナガワ.md "wikilink")（[tvk](../Page/テレビ神奈川.md "wikilink")）
-  - [ゼベック・オンライン](https://ja.wikipedia.org/wiki/ゼベック・オンライン "wikilink")（[TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")、2004年11月29日）
+  - [ゼベック・オンライン](../Page/ゼベック・オンライン.md "wikilink")（[TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")、2004年11月29日）
   - [音リコ\!](../Page/音リコ!.md "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")、2008年4月1日）
   - [ジャガイモン](https://ja.wikipedia.org/wiki/ジャガイモン "wikilink")（[テレ朝チャンネル](../Page/テレ朝チャンネル.md "wikilink")、2008年12月25日）
   - [U・LA・LA](https://ja.wikipedia.org/wiki/U・LA・LA "wikilink")@7（[TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")） - 『よしもとうららちゃん』コーナー
   - [お笑いDynamite\!](https://ja.wikipedia.org/wiki/お笑いDynamite! "wikilink")（[TBSテレビ](../Page/TBSテレビ.md "wikilink")） - キャッチコピーは「ポロシャツ信号機」
   - [お笑いメリーゴーランド](https://ja.wikipedia.org/wiki/お笑いメリーゴーランド "wikilink")（TBSテレビ）
   - [鬼のワラ塾](https://ja.wikipedia.org/wiki/鬼のワラ塾 "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）
-  - [おはスタ](https://ja.wikipedia.org/wiki/おはスタ "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
+  - [おはスタ](../Page/おはスタ.md "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
   - [新宿7キャンプシアターオススメ](https://ja.wikipedia.org/wiki/新宿7キャンプシアターオススメ "wikilink")（テレビ東京）
   - [あらすじで楽しむ世界名作劇場](../Page/あらすじで楽しむ世界名作劇場.md "wikilink")（日本テレビ）
   - [MMM](https://ja.wikipedia.org/wiki/MMM_\(音楽番組\) "wikilink")（日本テレビ）
-  - [オビラジR](https://ja.wikipedia.org/wiki/オビラジR "wikilink")（TBSテレビ）
+  - [オビラジR](../Page/オビラジR.md "wikilink")（TBSテレビ）
   - [クギづけ 投稿動画ハイスクール](https://ja.wikipedia.org/wiki/クギづけ_投稿動画ハイスクール "wikilink")（日本テレビ）
-  - [やりすぎコージー](https://ja.wikipedia.org/wiki/やりすぎコージー "wikilink")（テレビ東京）
+  - [やりすぎコージー](../Page/やりすぎコージー.md "wikilink")（テレビ東京）
   - [人生が変わる1分間の深イイ話](../Page/人生が変わる1分間の深イイ話.md "wikilink")（日本テレビ）
   - [音の素](https://ja.wikipedia.org/wiki/音の素 "wikilink")（日本テレビ）
   - [サタデーバリューフィーバー](https://ja.wikipedia.org/wiki/サタデーバリューフィーバー "wikilink")（日本テレビ、2008年4月5日）
-  - [浜ちゃんと\!](https://ja.wikipedia.org/wiki/浜ちゃんと! "wikilink")（日本テレビ、2008年5月22日）
+  - [浜ちゃんと\!](../Page/浜ちゃんと!.md "wikilink")（日本テレビ、2008年5月22日）
   - [アナCAN](https://ja.wikipedia.org/wiki/アナCAN "wikilink")（TBSテレビ、2008年11月29日）
-  - [雨上がり決死隊のトーク番組アメトーーク\!](https://ja.wikipedia.org/wiki/雨上がり決死隊のトーク番組アメトーーク! "wikilink")（テレビ朝日）
+  - [雨上がり決死隊のトーク番組アメトーーク\!](../Page/雨上がり決死隊のトーク番組アメトーーク!.md "wikilink")（テレビ朝日）
   - [爆笑レッドカーペット](../Page/爆笑レッドカーペット.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")） - キャッチコピーは「トリオ・ザ・ポップ」
   - [新春ゴールデンピンクカーペットSP](../Page/爆笑レッドカーペット.md "wikilink")（フジテレビ） - キャッチコピーは「トリオ･ザ･ポップ」
   - [ゴールドハウス](https://ja.wikipedia.org/wiki/ゴールドハウス "wikilink")（フジテレビ、2009年7月29日）
@@ -170,14 +170,14 @@
 ### その他
 
   - [Wii Fitでダレがイチバン燃焼できるか対決](../Page/Wii_Fit.md "wikilink")\!\! - [Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")の[みんなのニンテンドーチャンネル](../Page/みんなのニンテンドーチャンネル.md "wikilink")にて配信
-  - [あらびき団](https://ja.wikipedia.org/wiki/あらびき団 "wikilink")（TBS）　※トリオで数回、ハブのみで数回、タケトは一度だけ「[福島プロダクション](https://ja.wikipedia.org/wiki/福島善成 "wikilink")」として出演
+  - [あらびき団](https://ja.wikipedia.org/wiki/あらびき団 "wikilink")（TBS）　※トリオで数回、ハブのみで数回、タケトは一度だけ「[福島プロダクション](../Page/福島善成.md "wikilink")」として出演
 
 ## 脚注
 
 ## 関連項目
 
-  - [タカアンドトシ](https://ja.wikipedia.org/wiki/タカアンドトシ "wikilink")（同じ札幌吉本出身）
-  - [アップダウン](https://ja.wikipedia.org/wiki/アップダウン "wikilink")（同じ札幌吉本出身）
+  - [タカアンドトシ](../Page/タカアンドトシ.md "wikilink")（同じ札幌吉本出身）
+  - [アップダウン](../Page/アップダウン.md "wikilink")（同じ札幌吉本出身）
 
 ## 外部リンク
 
@@ -201,5 +201,5 @@
 9.
 10.
 11. 他には[ラヴドライブ](../Page/ラヴドライブ.md "wikilink")も同様に「3回連続同一KB」を達成（2007年11月30日～2008年9月4日放送回まで**3戦連続で385KB**を記録）しているが、彼らは3戦目でオフエアとなっている。
-12. Bコースが出場したBブロックは上位5組が全て900KB以上を記録する激戦回であった。因みに7位の[星野卓也](https://ja.wikipedia.org/wiki/星野卓也 "wikilink")も834KBで敗退しており、一度のセミファイナルで800KB以上が7組出るのはこの回が唯一である。
-13. 2番目に高いのが第5回チャンピオン大会セミファイナルで[ペナルティが記録した](https://ja.wikipedia.org/wiki/ペナルティ_\(お笑いコンビ\) "wikilink")842KB。このため、Bコースは唯一850KB以上を記録しながらファイナルへ進出出来なかった芸人となってしまった。
+12. Bコースが出場したBブロックは上位5組が全て900KB以上を記録する激戦回であった。因みに7位の[星野卓也](../Page/星野卓也.md "wikilink")も834KBで敗退しており、一度のセミファイナルで800KB以上が7組出るのはこの回が唯一である。
+13. 2番目に高いのが第5回チャンピオン大会セミファイナルで[ペナルティが記録した](../Page/ペナルティ_\(お笑いコンビ\).md "wikilink")842KB。このため、Bコースは唯一850KB以上を記録しながらファイナルへ進出出来なかった芸人となってしまった。

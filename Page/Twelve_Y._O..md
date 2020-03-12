@@ -5,7 +5,7 @@
 
 ## 概要
 
-[沖縄](https://ja.wikipedia.org/wiki/沖縄 "wikilink")を主な舞台に展開される、壮大なサスペンス・スペクタクル・アクション。2000年に発表された福井の処女作『[川の深さは](https://ja.wikipedia.org/wiki/川の深さは "wikilink")』の続編であり、次作『[亡国のイージス](https://ja.wikipedia.org/wiki/亡国のイージス "wikilink")』や『[戦国自衛隊1549](https://ja.wikipedia.org/wiki/戦国自衛隊1549 "wikilink")』の物語の軸にもなっている。
+[沖縄](https://ja.wikipedia.org/wiki/沖縄 "wikilink")を主な舞台に展開される、壮大なサスペンス・スペクタクル・アクション。2000年に発表された福井の処女作『[川の深さは](../Page/川の深さは.md "wikilink")』の続編であり、次作『[亡国のイージス](../Page/亡国のイージス.md "wikilink")』や『[戦国自衛隊1549](../Page/戦国自衛隊1549.md "wikilink")』の物語の軸にもなっている。
 
 [2001年](../Page/2001年.md "wikilink")には[講談社](../Page/講談社.md "wikilink")より文庫本が出版された。
 
@@ -23,9 +23,9 @@
 
   - 平 貫太郎（たいら かんたろう）
     [自衛隊地方連絡部](https://ja.wikipedia.org/wiki/自衛隊地方連絡部 "wikilink")所属の[陸曹長](https://ja.wikipedia.org/wiki/陸曹長 "wikilink")。元々は「海兵旅団」の創設メンバーとして声が掛かるほどの有能な[パイロットだったが](https://ja.wikipedia.org/wiki/パイロット_\(航空\) "wikilink")、訓練中の事故による[トラウマ](https://ja.wikipedia.org/wiki/トラウマ "wikilink")で[ヘリコプター](../Page/ヘリコプター.md "wikilink")に乗ることができなくなっている。
-    『[亡国のイージス](https://ja.wikipedia.org/wiki/亡国のイージス "wikilink")』にもヘリパイロットとしてワンシーンのみ登場する（小説のみ）。
+    『[亡国のイージス](../Page/亡国のイージス.md "wikilink")』にもヘリパイロットとしてワンシーンのみ登場する（小説のみ）。
   - 夏生 由梨（なつき ゆり）
-    [防衛庁](https://ja.wikipedia.org/wiki/防衛庁 "wikilink")・[自衛隊](../Page/自衛隊.md "wikilink")内部に存在する非公開[情報機関](../Page/情報機関.md "wikilink")DAIS（[防衛庁情報局](https://ja.wikipedia.org/wiki/防衛庁情報局 "wikilink")）局員の[2等陸尉](https://ja.wikipedia.org/wiki/2等陸尉 "wikilink")。東馬修一とは浅からぬ因縁がある。
+    [防衛庁](https://ja.wikipedia.org/wiki/防衛庁 "wikilink")・[自衛隊](../Page/自衛隊.md "wikilink")内部に存在する非公開[情報機関](../Page/情報機関.md "wikilink")DAIS（[防衛庁情報局](../Page/防衛庁情報局.md "wikilink")）局員の[2等陸尉](https://ja.wikipedia.org/wiki/2等陸尉 "wikilink")。東馬修一とは浅からぬ因縁がある。
   - 辻井 護（つじい まもる）
     DAIS局員の[2曹](https://ja.wikipedia.org/wiki/2曹 "wikilink")。夏生由梨の部下に当たる。同期である東馬 理沙に想いを寄せている。
   - 東馬 修一（とうま しゅういち）
@@ -216,22 +216,22 @@
 
   - 防衛庁情報局（DAIS）
     [防衛庁](https://ja.wikipedia.org/wiki/防衛庁 "wikilink")・[自衛隊](../Page/自衛隊.md "wikilink")内部に設置されている、秘匿[情報機関](../Page/情報機関.md "wikilink")。
-    一度は解体・縮小されており、再編された経緯は前作『[川の深さは](https://ja.wikipedia.org/wiki/川の深さは "wikilink")』で記されている。再編前の名称は『治安情報局』。
-    詳しくは「[防衛庁情報局](https://ja.wikipedia.org/wiki/防衛庁情報局 "wikilink")」を参照。
+    一度は解体・縮小されており、再編された経緯は前作『[川の深さは](../Page/川の深さは.md "wikilink")』で記されている。再編前の名称は『治安情報局』。
+    詳しくは「[防衛庁情報局](../Page/防衛庁情報局.md "wikilink")」を参照。
   - アポトーシスII
-    前作『[川の深さは](https://ja.wikipedia.org/wiki/川の深さは "wikilink")』に登場した[コンピュータウイルス](https://ja.wikipedia.org/wiki/コンピュータウイルス "wikilink")の強化型。2013年出版の『[人類資金](https://ja.wikipedia.org/wiki/人類資金 "wikilink")』においても、改良型が登場する。
+    前作『[川の深さは](../Page/川の深さは.md "wikilink")』に登場した[コンピュータウイルス](https://ja.wikipedia.org/wiki/コンピュータウイルス "wikilink")の強化型。2013年出版の『[人類資金](https://ja.wikipedia.org/wiki/人類資金 "wikilink")』においても、改良型が登場する。
   - 辺野古ディストラクション
-    本作の終盤にて起きる[在日米軍](https://ja.wikipedia.org/wiki/在日米軍 "wikilink")基地の爆発事故。この事故は続編の『[亡国のイージス](https://ja.wikipedia.org/wiki/亡国のイージス "wikilink")』の物語にも関与してくる。
+    本作の終盤にて起きる[在日米軍](https://ja.wikipedia.org/wiki/在日米軍 "wikilink")基地の爆発事故。この事故は続編の『[亡国のイージス](../Page/亡国のイージス.md "wikilink")』の物語にも関与してくる。
   - GUSOH
-    [在日米軍](https://ja.wikipedia.org/wiki/在日米軍 "wikilink")が日本国内で開発した新型の毒ガス兵器。続編の『[亡国のイージス](https://ja.wikipedia.org/wiki/亡国のイージス "wikilink")』では、この兵器が物語に深く関わる。詳しくは「[GUSOH](https://ja.wikipedia.org/wiki/GUSOH "wikilink")」を参照。
+    [在日米軍](https://ja.wikipedia.org/wiki/在日米軍 "wikilink")が日本国内で開発した新型の毒ガス兵器。続編の『[亡国のイージス](../Page/亡国のイージス.md "wikilink")』では、この兵器が物語に深く関わる。詳しくは「[GUSOH](../Page/GUSOH.md "wikilink")」を参照。
   - テルミット・プラス
-    GUSOHを無力化することができる新型の爆薬。続編の『亡国のイージス』にも登場し、改良型が『[Op.ローズダスト](https://ja.wikipedia.org/wiki/Op.ローズダスト "wikilink")』に登場する。詳しくは「[テルミット・プラス](https://ja.wikipedia.org/wiki/テルミット・プラス "wikilink")」を参照。
+    GUSOHを無力化することができる新型の爆薬。続編の『亡国のイージス』にも登場し、改良型が『[Op.ローズダスト](../Page/Op.ローズダスト.md "wikilink")』に登場する。詳しくは「[テルミット・プラス](https://ja.wikipedia.org/wiki/テルミット・プラス "wikilink")」を参照。
   - 海兵旅団
-    的場 丈史[2等海佐](https://ja.wikipedia.org/wiki/2等海佐 "wikilink")が創設した機関で、彼曰く「戦える自衛隊」。『[戦国自衛隊1549](https://ja.wikipedia.org/wiki/戦国自衛隊1549 "wikilink")』\[2\]にも登場し、『敗者達の黙示録』では名前のみ登場する。[海兵隊](../Page/海兵隊.md "wikilink")に倣った機関であるが、理由が不明なまま廃設された。詳しくは「[防衛庁情報局](https://ja.wikipedia.org/wiki/防衛庁情報局 "wikilink")」の「類似機関」の欄を参照。
+    的場 丈史[2等海佐](https://ja.wikipedia.org/wiki/2等海佐 "wikilink")が創設した機関で、彼曰く「戦える自衛隊」。『[戦国自衛隊1549](../Page/戦国自衛隊1549.md "wikilink")』\[2\]にも登場し、『敗者達の黙示録』では名前のみ登場する。[海兵隊](../Page/海兵隊.md "wikilink")に倣った機関であるが、理由が不明なまま廃設された。詳しくは「[防衛庁情報局](../Page/防衛庁情報局.md "wikilink")」の「類似機関」の欄を参照。
   - 登場人物
-    前作『[川の深さは](https://ja.wikipedia.org/wiki/川の深さは "wikilink")（文庫版）』の終盤に登場した夏生 由梨と井島 一友が、本作のメインキャラとして登場している。井島は他に『[敗者達の黙示録](https://ja.wikipedia.org/wiki/敗者達の黙示録 "wikilink")』（未発表作品）にも登場している。
+    前作『[川の深さは](../Page/川の深さは.md "wikilink")（文庫版）』の終盤に登場した夏生 由梨と井島 一友が、本作のメインキャラとして登場している。井島は他に『[敗者達の黙示録](https://ja.wikipedia.org/wiki/敗者達の黙示録 "wikilink")』（未発表作品）にも登場している。
     主人公の一人である平貫太郎は次作の『亡国のイージス』にワンシーンのみ登場している。
-    的場 丈史は『[戦国自衛隊1549](https://ja.wikipedia.org/wiki/戦国自衛隊1549 "wikilink")』に再登場しているが、本作では幹部海上自衛官であるはずが、『戦国自衛隊1549』では幹部[陸上自衛官](https://ja.wikipedia.org/wiki/陸上自衛官 "wikilink")として登場している。『敗者達の黙示録』では名前のみ登場する。
+    的場 丈史は『[戦国自衛隊1549](../Page/戦国自衛隊1549.md "wikilink")』に再登場しているが、本作では幹部海上自衛官であるはずが、『戦国自衛隊1549』では幹部[陸上自衛官](https://ja.wikipedia.org/wiki/陸上自衛官 "wikilink")として登場している。『敗者達の黙示録』では名前のみ登場する。
   - 920部隊
     防衛庁情報局の工作員要請特別プログラムの通称。冷戦が終わり、解体された組織を防衛庁情報局として再編する際に、末端の工作員の人材不足が問題視され、急遽創設された。かつて防衛庁情報局が治安情報局（前身組織）と呼ばれていた頃に活躍し、伝説となっている工作員のIDにあやかって「920」と命名された。
     なお、その920のIDの工作員が結城 圭一という名の人物であり、『[6ステイン](https://ja.wikipedia.org/wiki/6ステイン "wikilink")』『敗者達の黙示録（未発表）』『壊点 ポイント・ブレイク（未発表）』に登場。本作に登場する井島は彼の保護者変わりという設定。

@@ -1,7 +1,7 @@
 > この記事は[Faults](https://ja.wikipedia.org/wiki/Faults)から翻訳されています。
 
 
-『**faults**』（フォールツ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")・[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の[ドラマー](../Page/ドラマー.md "wikilink")、[yukihiro](https://ja.wikipedia.org/wiki/yukihiro "wikilink")のソロプロジェクトである[acid androidの](https://ja.wikipedia.org/wiki/acid_android "wikilink")1枚目の[ミニアルバム](../Page/アルバム.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[3月12日](../Page/3月12日.md "wikilink")発売。発売元は[Ki/oon Records](https://ja.wikipedia.org/wiki/キューンミュージック "wikilink")。
+『**faults**』（フォールツ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")・[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の[ドラマー](../Page/ドラマー.md "wikilink")、[yukihiro](https://ja.wikipedia.org/wiki/yukihiro "wikilink")のソロプロジェクトである[acid androidの](https://ja.wikipedia.org/wiki/acid_android "wikilink")1枚目の[ミニアルバム](../Page/アルバム.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[3月12日](../Page/3月12日.md "wikilink")発売。発売元は[Ki/oon Records](../Page/キューンミュージック.md "wikilink")。
 
 ## 解説
 

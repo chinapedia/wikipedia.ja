@@ -1,11 +1,11 @@
 > この記事は[MARIA \(\)](https://ja.wikipedia.org/wiki/MARIA_\(\))から翻訳されています。
 
 
-**MARIA**（マリア）は、日本の6人組[ガールズバンド](https://ja.wikipedia.org/wiki/ガールズバンド "wikilink")である。
+**MARIA**（マリア）は、日本の6人組[ガールズバンド](../Page/ガールズバンド.md "wikilink")である。
 
 ## 概要
 
-[ZONEの元](https://ja.wikipedia.org/wiki/ZONE_\(バンド\) "wikilink")[ベース担当であったMAIKOが](../Page/エレクトリックベース.md "wikilink")[舞衣子と改名し](https://ja.wikipedia.org/wiki/MAIKO_\(ソロシンガー\) "wikilink")、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に[インディーズ](../Page/インディーズ.md "wikilink")で活躍する[ダンスグループ](https://ja.wikipedia.org/wiki/ダンスグループ "wikilink")であったRED WORKER'zのメンバー5人と共に結成し、[ツインベース](https://ja.wikipedia.org/wiki/ツインベース "wikilink")+ツイン[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、ツイン[ギター](../Page/ギター.md "wikilink")、[キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")、[ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")というメンバー構成になっている。2010年4月3日の[赤坂BLITZ](https://ja.wikipedia.org/wiki/赤坂BLITZ "wikilink")でのラストライブをして、同年4月17日の札幌ペニーレーン24でのラストイベントをもって解散した。[レコードレーベル](../Page/レコードレーベル.md "wikilink")は「[Sony Records](https://ja.wikipedia.org/wiki/Sony_Records "wikilink")」（ただし、シングル「HEART☆BEAT」のみ同じ系列「STUDIO SEVEN Recordings」）、所属[事務所は](../Page/芸能事務所.md "wikilink")[ランタイムミュージックエンタテインメント](https://ja.wikipedia.org/wiki/ランタイムミュージックエンタテインメント "wikilink")。
+[ZONEの元](../Page/ZONE_\(バンド\).md "wikilink")[ベース担当であったMAIKOが](../Page/エレクトリックベース.md "wikilink")[舞衣子と改名し](../Page/MAIKO_\(ソロシンガー\).md "wikilink")、[2005年](../Page/2005年.md "wikilink")に[インディーズ](../Page/インディーズ.md "wikilink")で活躍する[ダンスグループ](https://ja.wikipedia.org/wiki/ダンスグループ "wikilink")であったRED WORKER'zのメンバー5人と共に結成し、[ツインベース](https://ja.wikipedia.org/wiki/ツインベース "wikilink")+ツイン[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、ツイン[ギター](../Page/ギター.md "wikilink")、[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、[ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")というメンバー構成になっている。2010年4月3日の[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")でのラストライブをして、同年4月17日の札幌ペニーレーン24でのラストイベントをもって解散した。[レコードレーベル](../Page/レコードレーベル.md "wikilink")は「[Sony Records](https://ja.wikipedia.org/wiki/Sony_Records "wikilink")」（ただし、シングル「HEART☆BEAT」のみ同じ系列「STUDIO SEVEN Recordings」）、所属[事務所は](../Page/芸能事務所.md "wikilink")[ランタイムミュージックエンタテインメント](../Page/ランタイムミュージックエンタテインメント.md "wikilink")。
 
 ## バンド名の由来
 
@@ -28,8 +28,8 @@ SACCHIN
   -
     本名：中川 祐衣（なかがわ さちえ）、MARIAのリーダーで、[サイドギター](https://ja.wikipedia.org/wiki/サイドギター "wikilink")担当、[コード弾きが主である](../Page/和音.md "wikilink")。
     元々は前のバンドでベースを担当していた。
-    [フェンダーギターコレクションを買った際](https://ja.wikipedia.org/wiki/フェンダー_\(楽器メーカー\) "wikilink")、4つの中に舞衣子が使っている[75JAZZ BASSのミニチュアが当たったことがある](../Page/フェンダー・ジャズベース.md "wikilink")。
-    帯広で生まれて、毎週日曜日には帯広から3時間かけて、[ランタイムミュージックエンタテインメント](https://ja.wikipedia.org/wiki/ランタイムミュージックエンタテインメント "wikilink")に通った。
+    [フェンダーギターコレクションを買った際](../Page/フェンダー_\(楽器メーカー\).md "wikilink")、4つの中に舞衣子が使っている[75JAZZ BASSのミニチュアが当たったことがある](../Page/フェンダー・ジャズベース.md "wikilink")。
+    帯広で生まれて、毎週日曜日には帯広から3時間かけて、[ランタイムミュージックエンタテインメント](../Page/ランタイムミュージックエンタテインメント.md "wikilink")に通った。
     中学校を卒業と同時に札幌に引っ越してきた。\[2\]
     高校3年生の時に交通事故に遭遇し、音楽家としての活動が出来なくなったことがある。
     MARIAのメンバーだった頃はずっとアフロヘアーだったが、MARIA解散後はショートヘアーになっている。
@@ -42,7 +42,7 @@ SACCHIN
 
 <div class="NavHead" style="text-align: left;">
 
-[舞衣子](https://ja.wikipedia.org/wiki/MAIKO_\(ソロシンガー\) "wikilink")
+[舞衣子](../Page/MAIKO_\(ソロシンガー\).md "wikilink")
 
 </div>
 
@@ -56,13 +56,13 @@ SACCHIN
       -
         『あなたに…』、『恋文』、『[ゆらり桜空…](../Page/ゆらり桜空….md "wikilink")』
     幼少期に両親の関係で、大阪から[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")に引っ越す。
-    [マーカス・ミラー](https://ja.wikipedia.org/wiki/マーカス・ミラー "wikilink")を尊敬し、色も似ているベースを使用し、ギター用の[エフェクター](../Page/エフェクター.md "wikilink")を併合して使用している。
+    [マーカス・ミラー](../Page/マーカス・ミラー.md "wikilink")を尊敬し、色も似ているベースを使用し、ギター用の[エフェクター](../Page/エフェクター.md "wikilink")を併合して使用している。
     愛称は「まいちん」。
     [アコースティックギター](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink")も弾ける。
 
 <!-- end list -->
 
-  - ''（詳細は[MAIKO (ソロシンガー)を参照](https://ja.wikipedia.org/wiki/MAIKO_\(ソロシンガー\) "wikilink")）。
+  - ''（詳細は[MAIKO (ソロシンガー)を参照](../Page/MAIKO_\(ソロシンガー\).md "wikilink")）。
 
 </div>
 
@@ -82,13 +82,13 @@ SACCHIN
 
   -
     本名：平野 愛華（ひらの あいか）。ボーカル&ベース担当で、ライブでは[アコースティックベース](https://ja.wikipedia.org/wiki/アコースティックベース "wikilink")も弾く。
-    初めて買ったベースは[フェンダーの赤い](https://ja.wikipedia.org/wiki/フェンダー_\(楽器メーカー\) "wikilink")[ジャズベースである](../Page/フェンダー・ジャズベース.md "wikilink")。
+    初めて買ったベースは[フェンダーの赤い](../Page/フェンダー_\(楽器メーカー\).md "wikilink")[ジャズベースである](../Page/フェンダー・ジャズベース.md "wikilink")。
     [泉谷しげる](../Page/泉谷しげる.md "wikilink")（2008年1月29日の『[R-ゼロ](https://ja.wikipedia.org/wiki/R-ゼロ "wikilink")』）に、番組で「あんたさあ〜、ベース、色っぽいね」と絶賛される。
 
 <!-- end list -->
 
   -
-    [THE BLUE HEARTSが好き](https://ja.wikipedia.org/wiki/THE_BLUE_HEARTS "wikilink")。
+    [THE BLUE HEARTSが好き](../Page/THE_BLUE_HEARTS.md "wikilink")。
     [2015年](../Page/2015年.md "wikilink")の8月頃から[イチオシモーニング](https://ja.wikipedia.org/wiki/イチオシモーニング "wikilink")のお天気キャスターとなり、芳賀愛華と名前を改めている。http://www.htb.co.jp/sp/kirakira/archive/2015/04271050/
 
 </div>
@@ -108,13 +108,13 @@ SACCHIN
 :\*名前の読み:あゆか
 
   -
-    本名：奈良 安由加（なら あゆか）、MARIAで[リードギター](../Page/リードギター.md "wikilink")&[コーラス担当](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、過去には[ブルボン](../Page/ブルボン.md "wikilink")から発売された[食玩CD](../Page/食玩CD.md "wikilink")『The Audition』に[西村朝香](https://ja.wikipedia.org/wiki/西村朝香 "wikilink")（後にZONEに再加入し、ギター・キーボード担当になったTOMOKA）と共に参加した経験がある。
+    本名：奈良 安由加（なら あゆか）、MARIAで[リードギター](../Page/リードギター.md "wikilink")&[コーラス担当](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、過去には[ブルボン](../Page/ブルボン.md "wikilink")から発売された[食玩CD](../Page/食玩CD.md "wikilink")『The Audition』に[西村朝香](../Page/西村朝香.md "wikilink")（後にZONEに再加入し、ギター・キーボード担当になったTOMOKA）と共に参加した経験がある。
     ギターのほかに[エレクトーン](../Page/エレクトーン.md "wikilink")、[アコースティックギター](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink")が弾ける。
       -
         かつて、アコースティックギターに挫折するも[エレクトリックギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")に替え、弾けるようになった。なおその後、両方とも弾けるようになっている。
           -
             初めて弾けるようになった曲は[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")の「桜坂」である。
-    [エアロスミス](https://ja.wikipedia.org/wiki/エアロスミス "wikilink")が好き。[ローリングストーンズ](https://ja.wikipedia.org/wiki/ローリングストーンズ "wikilink")の[キース・リチャーズ](https://ja.wikipedia.org/wiki/キース・リチャーズ "wikilink")、エアロスミスの[ジョー・ペリー](https://ja.wikipedia.org/wiki/ジョー・ペリー "wikilink")を尊敬している。
+    [エアロスミス](../Page/エアロスミス.md "wikilink")が好き。[ローリングストーンズ](https://ja.wikipedia.org/wiki/ローリングストーンズ "wikilink")の[キース・リチャーズ](../Page/キース・リチャーズ.md "wikilink")、エアロスミスの[ジョー・ペリー](../Page/ジョー・ペリー.md "wikilink")を尊敬している。
 
 2012年結婚
 
@@ -138,9 +138,9 @@ SACCHIN
     本名：日下 鈴菜（くさか れいな、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[2月26日](../Page/2月26日.md "wikilink") - ）キーボード&[ヴァイオリン](../Page/ヴァイオリン.md "wikilink")担当
     「[つぼみ](https://ja.wikipedia.org/wiki/つぼみ_\(MARIAの曲\) "wikilink")」と[watch me](https://ja.wikipedia.org/wiki/You_Go!〜We_are_MARIA〜 "wikilink")（ライブ）ではヴァイオリンを担当している（本人曰く、小学生以来）。
     楽器をオールマイティに弾けて、ギターも弾ける。
-    ライヴ中にヴァイオリンが飛んで壊れてしまったことがある（その後、[フェンダーの修理により修復](https://ja.wikipedia.org/wiki/フェンダー_\(楽器メーカー\) "wikilink")）。
-    [L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink"), [SOPHIA](https://ja.wikipedia.org/wiki/SOPHIA "wikilink"), [SOFFet](https://ja.wikipedia.org/wiki/SOFFet "wikilink"), [Sowelu](https://ja.wikipedia.org/wiki/Sowelu "wikilink")が好きである。
-    喉に[ポリープ](https://ja.wikipedia.org/wiki/ポリープ "wikilink")がある。
+    ライヴ中にヴァイオリンが飛んで壊れてしまったことがある（その後、[フェンダーの修理により修復](../Page/フェンダー_\(楽器メーカー\).md "wikilink")）。
+    [L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink"), [SOPHIA](../Page/SOPHIA.md "wikilink"), [SOFFet](../Page/SOFFet.md "wikilink"), [Sowelu](https://ja.wikipedia.org/wiki/Sowelu "wikilink")が好きである。
+    喉に[ポリープ](../Page/ポリープ.md "wikilink")がある。
     作曲はキーボードで行う。
 
 </div>
@@ -161,7 +161,7 @@ TATTSU
 
   -
     本名：龍川 瞳（たつかわ ひとみ）、ドラムス&コーラス担当で、作曲は[ピアノ](../Page/ピアノ.md "wikilink")で行う。
-    [YOSHIKI](../Page/YOSHIKI.md "wikilink")（[X JAPAN](../Page/X_JAPAN.md "wikilink")）、[SHOW-YA](https://ja.wikipedia.org/wiki/SHOW-YA "wikilink")の[角田美喜](https://ja.wikipedia.org/wiki/角田美喜 "wikilink")、[FUZZY CONTROLのSATOKOを尊敬している](https://ja.wikipedia.org/wiki/FUZZY_CONTROL "wikilink")。
+    [YOSHIKI](../Page/YOSHIKI.md "wikilink")（[X JAPAN](../Page/X_JAPAN.md "wikilink")）、[SHOW-YA](../Page/SHOW-YA.md "wikilink")の[角田美喜](https://ja.wikipedia.org/wiki/角田美喜 "wikilink")、[FUZZY CONTROLのSATOKOを尊敬している](../Page/FUZZY_CONTROL.md "wikilink")。
     SHOW-YAの[ドラマー](../Page/ドラマー.md "wikilink")である角田美喜のレッスンを受けたことがある。
     過去にソロでライブに出たことがある。（ソロ楽曲は「look」という曲）
     バンド結成前、[長瀬実夕](../Page/長瀬実夕.md "wikilink")の1st[DVD](../Page/DVD.md "wikilink")に（[ソニー・ミュージック側](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")）バックダンサーとして出演し、長瀬に色々質問していた。
@@ -173,30 +173,30 @@ TATTSU
 
 ## シングル
 
-|       |                                                                                                              |                                                                                  |                                                                                                                                 |
-| ----- | ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| **枚** | **リリース日**                                                                                                    | **タイトル**                                                                         | **備考**                                                                                                                          |
-| 1st   | [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月8日](../Page/3月8日.md "wikilink")                    | **[小さな詩](https://ja.wikipedia.org/wiki/小さな詩 "wikilink")**                        | [オリコン初登場](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")10位。（TX系アニメ『\[\[焼きたて                                                |
-| 2nd   | 2006年[7月26日](../Page/7月26日.md "wikilink")                                                                    | **[つぼみ](https://ja.wikipedia.org/wiki/つぼみ_\(MARIAの曲\) "wikilink")**              | 『[劇場版 NARUTO -ナルト- 大興奮\!みかづき島のアニマル騒動だってばよ](https://ja.wikipedia.org/wiki/劇場版_NARUTO_-ナルト-_大興奮!みかづき島のアニマル騒動だってばよ "wikilink")』主題歌 |
-| 3rd   | [2007年](../Page/2007年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink")                                     | **[HEART☆BEAT](../Page/HEART☆BEAT.md "wikilink")**                               | TX系アニメ『[デルトラクエスト](https://ja.wikipedia.org/wiki/デルトラ・クエスト "wikilink")』オープニングテーマ                                                 |
-| 4th   | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月6日](https://ja.wikipedia.org/wiki/2月6日 "wikilink") | **[ゆらり桜空…](../Page/ゆらり桜空….md "wikilink")**                                       | c/wには、「旅立ちの日に」のカヴァー曲が収録されている。                                                                                                   |
-| 5th   | 2008年[9月17日](../Page/9月17日.md "wikilink")                                                                    | **[さよなら 大好きな人](https://ja.wikipedia.org/wiki/さよなら_大好きな人#MARIAのシングル "wikilink")** | A面カヴァーシングル                                                                                                                      |
-| 6th   | [2009年](../Page/2009年.md "wikilink")[8月12日](../Page/8月12日.md "wikilink")                                     | **[カナシミレンサ](https://ja.wikipedia.org/wiki/カナシミレンサ "wikilink")**                  | TVアニメ『[戦場のヴァルキュリア](https://ja.wikipedia.org/wiki/戦場のヴァルキュリア "wikilink")』オープニングテーマ・ラストシングル                                       |
-|       |                                                                                                              |                                                                                  |                                                                                                                                 |
+|       |                                                                                           |                                                                                  |                                                                                                              |
+| ----- | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| **枚** | **リリース日**                                                                                 | **タイトル**                                                                         | **備考**                                                                                                       |
+| 1st   | [2006年](../Page/2006年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")                    | **[小さな詩](https://ja.wikipedia.org/wiki/小さな詩 "wikilink")**                        | [オリコン初登場](../Page/オリコンチャート.md "wikilink")10位。（TX系アニメ『\[\[焼きたて                                                |
+| 2nd   | 2006年[7月26日](../Page/7月26日.md "wikilink")                                                 | **[つぼみ](https://ja.wikipedia.org/wiki/つぼみ_\(MARIAの曲\) "wikilink")**              | 『[劇場版 NARUTO -ナルト- 大興奮\!みかづき島のアニマル騒動だってばよ](../Page/劇場版_NARUTO_-ナルト-_大興奮!みかづき島のアニマル騒動だってばよ.md "wikilink")』主題歌 |
+| 3rd   | [2007年](../Page/2007年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink")                  | **[HEART☆BEAT](../Page/HEART☆BEAT.md "wikilink")**                               | TX系アニメ『[デルトラクエスト](../Page/デルトラ・クエスト.md "wikilink")』オープニングテーマ                                                 |
+| 4th   | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月6日](../Page/2月6日.md "wikilink") | **[ゆらり桜空…](../Page/ゆらり桜空….md "wikilink")**                                       | c/wには、「旅立ちの日に」のカヴァー曲が収録されている。                                                                                |
+| 5th   | 2008年[9月17日](../Page/9月17日.md "wikilink")                                                 | **[さよなら 大好きな人](https://ja.wikipedia.org/wiki/さよなら_大好きな人#MARIAのシングル "wikilink")** | A面カヴァーシングル                                                                                                   |
+| 6th   | [2009年](../Page/2009年.md "wikilink")[8月12日](../Page/8月12日.md "wikilink")                  | **[カナシミレンサ](https://ja.wikipedia.org/wiki/カナシミレンサ "wikilink")**                  | TVアニメ『[戦場のヴァルキュリア](https://ja.wikipedia.org/wiki/戦場のヴァルキュリア "wikilink")』オープニングテーマ・ラストシングル                    |
+|       |                                                                                           |                                                                                  |                                                                                                              |
 
 ## アルバム
 
 |       |                                                                                             |                                                                                              |                                                                                                    |
 | ----- | ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | **枚** | **リリース日**                                                                                   | **タイトル**                                                                                     | **備考**                                                                                             |
-| 1st   | [2007年](../Page/2007年.md "wikilink")[6月20日](../Page/6月20日.md "wikilink")                    | **[You Go\!〜We are MARIA〜](https://ja.wikipedia.org/wiki/You_Go!〜We_are_MARIA〜 "wikilink")** | [オリコン初登場](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")39位。                                   |
+| 1st   | [2007年](../Page/2007年.md "wikilink")[6月20日](../Page/6月20日.md "wikilink")                    | **[You Go\!〜We are MARIA〜](https://ja.wikipedia.org/wiki/You_Go!〜We_are_MARIA〜 "wikilink")** | [オリコン初登場](../Page/オリコンチャート.md "wikilink")39位。                                                      |
 | 2nd   | [2009年](../Page/2009年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")                    | **[Day by day](https://ja.wikipedia.org/wiki/Day_by_day_\(MARIAのアルバム\) "wikilink")**         | オリコン初登場65位。                                                                                        |
 | Best  | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[6月30日](../Page/6月30日.md "wikilink") | **[MARIA BOX](https://ja.wikipedia.org/wiki/MARIA_BOX "wikilink")**                          | You Go\!〜We are MARIA〜、Day by day、B Side Collection & Rare Tracks、MUSIC CLIP集、解散ライブDVDの5枚組　※完全限定生産 |
 |       |                                                                                             |                                                                                              |                                                                                                    |
 
 ## DVD
 
-1.  [MARIA LIVE TOUR WE ARE MARIA 2007 〜YOU GO\!\!〜](https://ja.wikipedia.org/wiki/MARIA_LIVE_TOUR_WE_ARE_MARIA_2007_〜YOU_GO!!〜 "wikilink")（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")）[オリコン](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")、最高30位
+1.  [MARIA LIVE TOUR WE ARE MARIA 2007 〜YOU GO\!\!〜](https://ja.wikipedia.org/wiki/MARIA_LIVE_TOUR_WE_ARE_MARIA_2007_〜YOU_GO!!〜 "wikilink")（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")）[オリコン](../Page/オリコンチャート.md "wikilink")、最高30位
     1.  夏えがお
     2.  小さな詩
     3.  h@ッちゃけ
@@ -216,7 +216,7 @@ TATTSU
 
   - あなたごしのイルミネーション
       -
-        [着うた](../Page/着うた.md "wikilink")のみで配信。着うたフルは短期間限定で配信されていた。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月24日](../Page/11月24日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[1月4日](../Page/1月4日.md "wikilink")に掛けて開催された[さっぽろホワイトイルミネーション](../Page/さっぽろホワイトイルミネーション.md "wikilink")にて起用され、期間中は[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")の[大通公園](../Page/大通公園.md "wikilink")で流された。せつないミディアムバラードである。当時のMARIAの曲では珍しく舞衣子、愛華以外にあゆかのソロパートがある。CD化は公式サイトでは発表されていなかったが、[ヤフー音楽のMARIAの項目](https://ja.wikipedia.org/wiki/Yahoo!_JAPAN#Yahoo!ミュージック "wikilink")、オリコン公式サイトなどによると、2007年12月にCD化予定という情報があった。なお、2010年6月30日に発売した[MARIA BOXのカップリング集](https://ja.wikipedia.org/wiki/MARIA_BOX "wikilink")(Disc3)に収録されている。
+        [着うた](../Page/着うた.md "wikilink")のみで配信。着うたフルは短期間限定で配信されていた。[2006年](../Page/2006年.md "wikilink")[11月24日](../Page/11月24日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[1月4日](../Page/1月4日.md "wikilink")に掛けて開催された[さっぽろホワイトイルミネーション](../Page/さっぽろホワイトイルミネーション.md "wikilink")にて起用され、期間中は[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")の[大通公園](../Page/大通公園.md "wikilink")で流された。せつないミディアムバラードである。当時のMARIAの曲では珍しく舞衣子、愛華以外にあゆかのソロパートがある。CD化は公式サイトでは発表されていなかったが、[ヤフー音楽のMARIAの項目](https://ja.wikipedia.org/wiki/Yahoo!_JAPAN#Yahoo!ミュージック "wikilink")、オリコン公式サイトなどによると、2007年12月にCD化予定という情報があった。なお、2010年6月30日に発売した[MARIA BOXのカップリング集](https://ja.wikipedia.org/wiki/MARIA_BOX "wikilink")(Disc3)に収録されている。
 
 ## その他（未発表曲）
 
@@ -243,7 +243,7 @@ TATTSU
 
 ## テレビ
 
-  - [札幌テレビ放送](https://ja.wikipedia.org/wiki/札幌テレビ放送 "wikilink")「[なまおん](https://ja.wikipedia.org/wiki/なまおん "wikilink")」
+  - [札幌テレビ放送](../Page/札幌テレビ放送.md "wikilink")「[なまおん](../Page/なまおん.md "wikilink")」
       -
         「愛華」と「れいな」出演
 
@@ -257,7 +257,7 @@ TATTSU
 
 <div class="NavContent" style="text-align: left;">
 
-  - 「[MARIA DE Night](https://ja.wikipedia.org/wiki/MARIA_DE_Night "wikilink")」（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[1月5日](../Page/1月5日.md "wikilink") - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月25日](../Page/9月25日.md "wikilink")、[AIR-G'](../Page/エフエム北海道.md "wikilink")） 毎週木曜日21:30〜21:55
+  - 「[MARIA DE Night](https://ja.wikipedia.org/wiki/MARIA_DE_Night "wikilink")」（[2006年](../Page/2006年.md "wikilink")[1月5日](../Page/1月5日.md "wikilink") - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月25日](../Page/9月25日.md "wikilink")、[AIR-G'](../Page/エフエム北海道.md "wikilink")） 毎週木曜日21:30〜21:55
   - 「裏 MARIA DE Night」（[2007年](../Page/2007年.md "wikilink")[5月5日](../Page/5月5日.md "wikilink") - 2008年[9月26日](../Page/9月26日.md "wikilink")、[ウェブラジオ](../Page/インターネットラジオ.md "wikilink")） 毎週金曜更新
   - 「[FM ROCK KIDS](../Page/FM_ROCK_KIDS.md "wikilink")」（[2009年](../Page/2009年.md "wikilink")[7月4日](../Page/7月4日.md "wikilink") - [9月26日](../Page/9月26日.md "wikilink")、AIR-G'） 毎週木曜日24:00〜25:00 第66代目パーソナリティ
   - 「[裏 FM ROCK KIDS](https://ja.wikipedia.org/wiki/裏_FM_ROCK_KIDS "wikilink")」（2009年10月 - 、[モノグローブ ウェブサイト](https://ja.wikipedia.org/wiki/モノグローブ_ウェブサイト "wikilink")）
@@ -272,7 +272,7 @@ TATTSU
 
 ## 映画出演
 
-  - [劇場版 NARUTO -ナルト- 大興奮\!みかづき島のアニマル騒動だってばよ](https://ja.wikipedia.org/wiki/劇場版_NARUTO_-ナルト-_大興奮!みかづき島のアニマル騒動だってばよ "wikilink")（2006年、サーカスの観客 役（声の主演））
+  - [劇場版 NARUTO -ナルト- 大興奮\!みかづき島のアニマル騒動だってばよ](../Page/劇場版_NARUTO_-ナルト-_大興奮!みかづき島のアニマル騒動だってばよ.md "wikilink")（2006年、サーカスの観客 役（声の主演））
 
 ## ライブ
 
@@ -288,7 +288,7 @@ TATTSU
 
 ### 2005年(デビュー前)
 
-  - [ZAQ](https://ja.wikipedia.org/wiki/ランタイムミュージックエンタテインメント#過去に所属・解散したアーティスト "wikilink")/[BON'Z](https://ja.wikipedia.org/wiki/BON'Z "wikilink") W発売記念ライブ（[7月31日](../Page/7月31日.md "wikilink")、[ペニーレーン24](https://ja.wikipedia.org/wiki/ペニーレーン24 "wikilink")）
+  - [ZAQ](https://ja.wikipedia.org/wiki/ランタイムミュージックエンタテインメント#過去に所属・解散したアーティスト "wikilink")/[BON'Z](../Page/BON'Z.md "wikilink") W発売記念ライブ（[7月31日](../Page/7月31日.md "wikilink")、[ペニーレーン24](https://ja.wikipedia.org/wiki/ペニーレーン24 "wikilink")）
       -
         MARIAが初めて出演したライブ。ちなみにこのときまだ「MARIA」というグループ名は決まっておらず、スペシャルゲストとして出演し、披露した曲もカバー曲であった。
   - 舞衣子シークレットLIVE（[10月25日](../Page/10月25日.md "wikilink")）
@@ -300,7 +300,7 @@ TATTSU
 
   - MARIA[プロモーションライブ](../Page/宣伝.md "wikilink")（[3月5日](../Page/3月5日.md "wikilink")）
       -
-        デビュー前の東京でのお披露目ライブとして、[新宿ステーションスクエア](https://ja.wikipedia.org/wiki/新宿ステーションスクエア "wikilink")（[新宿](../Page/新宿.md "wikilink")[スタジオアルタ](../Page/スタジオアルタ.md "wikilink")前）で行われた。ライブ開始の15時にはステージ真後ろのアルタビジョンにMARIAの[PVが流された](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。またこのライブは当日の午前中に詳細が明かされるシークレットライブであったが、会場には延べ5,000人以上が集まり、新人アーティストとしては異例の記録である。
+        デビュー前の東京でのお披露目ライブとして、[新宿ステーションスクエア](https://ja.wikipedia.org/wiki/新宿ステーションスクエア "wikilink")（[新宿](../Page/新宿.md "wikilink")[スタジオアルタ](../Page/スタジオアルタ.md "wikilink")前）で行われた。ライブ開始の15時にはステージ真後ろのアルタビジョンにMARIAの[PVが流された](../Page/ミュージック・ビデオ.md "wikilink")。またこのライブは当日の午前中に詳細が明かされるシークレットライブであったが、会場には延べ5,000人以上が集まり、新人アーティストとしては異例の記録である。
   - HIGH and MIGHTY COLOR LIVE BEE LOUD vol.1 〜倣音プログレッシヴ〜＜対バンシリーズ＞（[6月17日](../Page/6月17日.md "wikilink")、[横浜CLUB24](https://ja.wikipedia.org/wiki/横浜CLUB24 "wikilink") / [6月18日](../Page/6月18日.md "wikilink")、[HEAVEN'S ROCKさいたま新都心VJ-3](https://ja.wikipedia.org/wiki/HEAVEN'S_ROCKさいたま新都心VJ-3 "wikilink")）
       -
         [HIGH and MIGHTY COLOR](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")、MARIA、[midnight pumpkin](https://ja.wikipedia.org/wiki/midnight_pumpkin "wikilink")、[サザーランド](../Page/サザーランド.md "wikilink")との対バン。
@@ -308,7 +308,7 @@ TATTSU
       -
         初のライブツアーにして全国ツアー。全会場でハイタッチ会を行う。
     <!-- end list -->
-      - 8月10日 ファンクラブ限定Preview Live [原宿アストロホール](https://ja.wikipedia.org/wiki/原宿アストロホール "wikilink")
+      - 8月10日 ファンクラブ限定Preview Live [原宿アストロホール](../Page/原宿アストロホール.md "wikilink")
       - 8月13日 福岡・[DRUM Be-1](https://ja.wikipedia.org/wiki/DRUM_Be-1 "wikilink")
       - 8月14日 広島・[ナミキジャンクション](https://ja.wikipedia.org/wiki/ナミキジャンクション "wikilink")
       - 8月16日 大阪・[BIG CAT](https://ja.wikipedia.org/wiki/BIG_CAT "wikilink")
@@ -319,18 +319,18 @@ TATTSU
       - 8月27日 札幌・[ペニーレーン24](https://ja.wikipedia.org/wiki/PENNY_LANE_24 "wikilink")
   - R\&R NEWSMAKER "Mix Up\!" Vol.2（[10月21日](../Page/10月21日.md "wikilink")、Shibuya O-EAST）
       -
-        [中ノ森BAND](https://ja.wikipedia.org/wiki/中ノ森BAND "wikilink")、[THE PINK☆PANDAとの対バン](https://ja.wikipedia.org/wiki/THE_PINK☆PANDA "wikilink")。
+        [中ノ森BAND](../Page/中ノ森BAND.md "wikilink")、[THE PINK☆PANDAとの対バン](https://ja.wikipedia.org/wiki/THE_PINK☆PANDA "wikilink")。
   - CRYSTAL LIVE -White X'mas 2006-
 
 ### 2007年
 
-  - MARIA デビュー1周年記念パーティー（[3月10日](../Page/3月10日.md "wikilink")、[乃木坂](https://ja.wikipedia.org/wiki/乃木坂 "wikilink")[ソニー・ライブテリア](https://ja.wikipedia.org/wiki/ソニー・ライブテリア "wikilink")）
+  - MARIA デビュー1周年記念パーティー（[3月10日](../Page/3月10日.md "wikilink")、[乃木坂](../Page/乃木坂.md "wikilink")[ソニー・ライブテリア](https://ja.wikipedia.org/wiki/ソニー・ライブテリア "wikilink")）
       -
-        [新星堂](https://ja.wikipedia.org/wiki/新星堂 "wikilink")での3rdシングル「HEART☆BEAT」の購入者から抽選で250名が招待された。
-  - 【MARIA ANNIVERSARY☆1st〜】1ヶ月遅れでゴメンって\!（[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")、札幌ペニーレーン24）
+        [新星堂](../Page/新星堂.md "wikilink")での3rdシングル「HEART☆BEAT」の購入者から抽選で250名が招待された。
+  - 【MARIA ANNIVERSARY☆1st〜】1ヶ月遅れでゴメンって\!（[4月8日](../Page/4月8日.md "wikilink")、札幌ペニーレーン24）
       -
         ちょうど1ヶ月遅れの1周年記念ライブ。
-  - MARIA VS [BON'Z](https://ja.wikipedia.org/wiki/BON'Z "wikilink") そろそろ反撃してもいいですか？（[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink")）主演：MARIA、BON'Z
+  - MARIA VS [BON'Z](../Page/BON'Z.md "wikilink") そろそろ反撃してもいいですか？（[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink")）主演：MARIA、BON'Z
   - WE ARE MARIA 2007 〜YOU GO〜（[8月10日](../Page/8月10日.md "wikilink")〜[8月26日](../Page/8月26日.md "wikilink")）
       -
         二度目の全国ツアー。
@@ -342,7 +342,7 @@ TATTSU
       - 8月18日 東京・Shibuya O-EAST
       - 8月26日 札幌・ペニーレーン24
   - SAHARA presents SPECIAL LIVE in [HBCラジオまつり](../Page/北海道放送.md "wikilink")2007 札幌（[9月16日](../Page/9月16日.md "wikilink")）
-  - CRYSTAL LIVE "White X'mas '07"〜北の国から200min Live SP〜（12月23日、[Zepp Sapporo](https://ja.wikipedia.org/wiki/Zepp "wikilink")）
+  - CRYSTAL LIVE "White X'mas '07"〜北の国から200min Live SP〜（12月23日、[Zepp Sapporo](../Page/Zepp.md "wikilink")）
 
 </div>
 
@@ -361,14 +361,14 @@ TATTSU
 ### 2008年
 
   - MARIA2周年記念LIVE 「MARIA ANNIVERSARY★2nd〜☆おめでとう☆巨大な2歳児\!\!〜」（[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")、[SHIBUYA-BOXX](https://ja.wikipedia.org/wiki/SHIBUYA-BOXX "wikilink")）
-  - WE ARE MARIA "SPRING TOUR 2008〜おれら全員社会人\!\!\!\!\!\!〜（[4月22日](../Page/4月22日.md "wikilink")〜[5月3日](https://ja.wikipedia.org/wiki/5月3日 "wikilink")）
+  - WE ARE MARIA "SPRING TOUR 2008〜おれら全員社会人\!\!\!\!\!\!〜（[4月22日](../Page/4月22日.md "wikilink")〜[5月3日](../Page/5月3日.md "wikilink")）
       -
         三度目の全国ツアー。
     <!-- end list -->
       - 4月22日 大阪・[BIG CAT](https://ja.wikipedia.org/wiki/BIG_CAT "wikilink")
       - 4月26日 東京・[LIQUIDROOM ebisu](https://ja.wikipedia.org/wiki/LIQUIDROOM_ebisu "wikilink")
       - 5月3日 [札幌KRAPS HALL](https://ja.wikipedia.org/wiki/札幌KRAPS_HALL "wikilink")
-  - SHOW-YA PRODUCE [NAONのYAON](../Page/NAONのYAON.md "wikilink")（[4月29日](../Page/4月29日.md "wikilink")、[日比谷野外音楽堂](https://ja.wikipedia.org/wiki/日比谷野外音楽堂 "wikilink")）
+  - SHOW-YA PRODUCE [NAONのYAON](../Page/NAONのYAON.md "wikilink")（[4月29日](../Page/4月29日.md "wikilink")、[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")）
       -
         舞衣子、[長瀬実夕](../Page/長瀬実夕.md "wikilink")、PRINCESS PRINCESSの渡辺敦子、富田京子と4人で一夜限りのバンド「ゾンプリ」を結成しZONEの代表曲「secretbase 〜君がくれたもの〜」を披露した。舞衣子、長瀬はボーカルを務め、演奏はSHOW-YAのメンバーもサポートとして参加している。
   - POWER of ART PROJECT KICK OFF LIVE 〜stay clean,be happy〜（[6月26日](../Page/6月26日.md "wikilink")、[Shibuya O-EAST](https://ja.wikipedia.org/wiki/Shibuya_O-East "wikilink")）
@@ -377,9 +377,9 @@ TATTSU
   - 北海道情報大学 蒼天祭「So-ten Live」2008 〜やっぱMARIA じゃ NIGHT〜（[10月5日](../Page/10月5日.md "wikilink")）
       -
         [AIR-G'](https://ja.wikipedia.org/wiki/AIR-G' "wikilink")から抽選でペア150組300名が招待された。
-  - POWER of ART PROJECT Vol.2 by the MUSIC "JUST SAY NO\!" 〜Stay clean, be happy〜（[11月30日](../Page/11月30日.md "wikilink")、[赤坂BLITZ](https://ja.wikipedia.org/wiki/赤坂BLITZ "wikilink")）
+  - POWER of ART PROJECT Vol.2 by the MUSIC "JUST SAY NO\!" 〜Stay clean, be happy〜（[11月30日](../Page/11月30日.md "wikilink")、[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")）
       -
-        MARIAの他に、半澤悠、長瀬実夕、[西村朝香](https://ja.wikipedia.org/wiki/西村朝香 "wikilink")が出演し、ZONE解散以来元ZONEのメンバー3人が初めてステージ上で共演することとなる。
+        MARIAの他に、半澤悠、長瀬実夕、[西村朝香](../Page/西村朝香.md "wikilink")が出演し、ZONE解散以来元ZONEのメンバー3人が初めてステージ上で共演することとなる。
   - RED RIBBON 2008 in SAPPORO（[12月1日](../Page/12月1日.md "wikilink")、[ペニーレーン24](https://ja.wikipedia.org/wiki/ペニーレーン24 "wikilink")）
       -
         MARIAの他に、[MEN☆SOUL](../Page/MEN☆SOUL.md "wikilink")、[高橋生](https://ja.wikipedia.org/wiki/高橋生 "wikilink")、[ASTER](https://ja.wikipedia.org/wiki/ASTER "wikilink")、[一世一代時代組](https://ja.wikipedia.org/wiki/一世一代時代組 "wikilink")も出演。
@@ -399,7 +399,7 @@ TATTSU
   - きたむら田舎FES'09いなかっぺステージ（[8月15日](../Page/8月15日.md "wikilink")、岩見沢北村特設会場）
       -
         [きたむら田舎フェスティバル](https://ja.wikipedia.org/wiki/きたむら田舎フェスティバル "wikilink")2009の特設ステージ
-  - field 11（[8月28日](../Page/8月28日.md "wikilink")、[SHIBUYA BOXX](https://ja.wikipedia.org/wiki/SHIBUYA_BOXX "wikilink")）
+  - field 11（[8月28日](../Page/8月28日.md "wikilink")、[SHIBUYA BOXX](../Page/SHIBUYA_BOXX.md "wikilink")）
   - LIVE for LOVE We support WaterAid（[9月26日](../Page/9月26日.md "wikilink")、[横浜スタジアム](../Page/横浜スタジアム.md "wikilink")）
   - MARIA Hyperformance LIVE -Day by day- （[10月18日](../Page/10月18日.md "wikilink")、[上野BRASH](https://ja.wikipedia.org/wiki/上野BRASH "wikilink")）
   - POWER OF ART PROJECT 3rd LIVE 「by the MUSIC "JUST SAY NO\!"」 -stay clean, be happy- （[10月25日](../Page/10月25日.md "wikilink")、[SHIBUYA O-EAST](https://ja.wikipedia.org/wiki/SHIBUYA_O-EAST "wikilink")）
@@ -409,7 +409,7 @@ TATTSU
 
 ### 2010年
 
-  - MARIA LAST LIVE 〜We are MARIA in TOKYO〜（[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")、東京[赤坂BLITZ](https://ja.wikipedia.org/wiki/赤坂BLITZ "wikilink")）
+  - MARIA LAST LIVE 〜We are MARIA in TOKYO〜（[4月3日](../Page/4月3日.md "wikilink")、東京[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")）
   - MARIAラストイベント〜FINAL☆PARTY☆NIGHT〜（[4月17日](../Page/4月17日.md "wikilink")、札幌[ペニーレーン24](https://ja.wikipedia.org/wiki/ペニーレーン24 "wikilink")）このイベントを最後に解散。
 
 </div>

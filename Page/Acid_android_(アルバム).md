@@ -7,11 +7,11 @@
 
 [yukihiro](https://ja.wikipedia.org/wiki/yukihiro "wikilink")名義でのシングル「[ring the noise](https://ja.wikipedia.org/wiki/ring_the_noise "wikilink")」から沈黙を守っていたyukihiroが**acid android**として始動した初作品。[打ち込み](https://ja.wikipedia.org/wiki/打ち込み "wikilink")と[ギター](../Page/ギター.md "wikilink")のループをメインにした作品である。
 
-発売当初は[Danger Crue RecordsのWebサイト上での](https://ja.wikipedia.org/wiki/デンジャークルー "wikilink")[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")販売のみだったが、[2003年](../Page/2003年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")に一般店頭販売された。
+発売当初は[Danger Crue RecordsのWebサイト上での](https://ja.wikipedia.org/wiki/デンジャークルー "wikilink")[インターネット](../Page/インターネット.md "wikilink")販売のみだったが、[2003年](../Page/2003年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")に一般店頭販売された。
 
 yukihiroは本作のレコーディングを振り返り、「イメージ通りの音が出るポイントが見つかるまでずっと探し続けるため、1年に渡ってミックスをしていた\[1\]」と語っている。
 
-本作の7曲目に収録されている「double dare」はイギリスのロックバンド、[バウハウスのアルバム](https://ja.wikipedia.org/wiki/バウハウス_\(バンド\) "wikilink")『In the Flat Field』の収録曲のカバーである。
+本作の7曲目に収録されている「double dare」はイギリスのロックバンド、[バウハウスのアルバム](../Page/バウハウス_\(バンド\).md "wikilink")『In the Flat Field』の収録曲のカバーである。
 
 ## 収録曲
 

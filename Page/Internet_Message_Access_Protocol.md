@@ -1,11 +1,11 @@
 > この記事は[Internet Message Access Protocol](https://ja.wikipedia.org/wiki/Internet_Message_Access_Protocol)から翻訳されています。
 
 
-**Internet Message Access Protocol**（インターネット メッセージ アクセス プロトコル、**IMAP**(アイマップ)） は、[メールサーバ](https://ja.wikipedia.org/wiki/メールサーバ "wikilink")上の[電子メール](../Page/電子メール.md "wikilink")にアクセスし操作するための[プロトコル](../Page/プロトコル.md "wikilink")。クライアントとサーバが[TCPを用いて通信する場合](../Page/Transmission_Control_Protocol.md "wikilink")、通常サーバー側はIMAP4では[ポート番号](https://ja.wikipedia.org/wiki/ポート番号 "wikilink")143番、IMAP over [SSL](https://ja.wikipedia.org/wiki/Transport_Layer_Security "wikilink")(IMAPS)では993番を利用する。
+**Internet Message Access Protocol**（インターネット メッセージ アクセス プロトコル、**IMAP**(アイマップ)） は、[メールサーバ](https://ja.wikipedia.org/wiki/メールサーバ "wikilink")上の[電子メール](../Page/電子メール.md "wikilink")にアクセスし操作するための[プロトコル](../Page/プロトコル.md "wikilink")。クライアントとサーバが[TCPを用いて通信する場合](../Page/Transmission_Control_Protocol.md "wikilink")、通常サーバー側はIMAP4では[ポート番号](https://ja.wikipedia.org/wiki/ポート番号 "wikilink")143番、IMAP over [SSL](../Page/Transport_Layer_Security.md "wikilink")(IMAPS)では993番を利用する。
 
 ## 概要
 
-[POP](../Page/Post_Office_Protocol.md "wikilink") はユーザが利用中のサーバからクライアントにメールをダウンロードし、ダウンロードがすんだメールはサーバから削除することを標準的な利用形態とするのに対し、IMAP はメールをメールサーバ上に保存したまま管理する（RFC 1733 参照）。この特性により、[Webメール](https://ja.wikipedia.org/wiki/Webメール "wikilink")や複数のコンピュータから同一[アカウント](https://ja.wikipedia.org/wiki/アカウント "wikilink")のメールを読む場合に、メールの未読状態等の属性やメールフォルダの構成等が一元的に管理できる利点がある。もともとはオリジナルであるIMAPが開発されたが、IMAP2、IMAP3、IMAP2bisなどが作られ、現在IMAPと呼ぶときにはIMAP4を指すことが通常である。プロトコルの仕様が複雑であったためあまり広く普及しなかったが、[Netscape](../Page/Netscapeシリーズ.md "wikilink") や [Internet Explorer](../Page/Internet_Explorer.md "wikilink") に標準で含まれているメールソフトが IMAP4 に対応し、また相互接続試験やプロトコルの様々な改訂・拡張により相互運用性が高まったため、利用者が広がった。
+[POP](../Page/Post_Office_Protocol.md "wikilink") はユーザが利用中のサーバからクライアントにメールをダウンロードし、ダウンロードがすんだメールはサーバから削除することを標準的な利用形態とするのに対し、IMAP はメールをメールサーバ上に保存したまま管理する（RFC 1733 参照）。この特性により、[Webメール](../Page/Webメール.md "wikilink")や複数のコンピュータから同一[アカウント](../Page/アカウント.md "wikilink")のメールを読む場合に、メールの未読状態等の属性やメールフォルダの構成等が一元的に管理できる利点がある。もともとはオリジナルであるIMAPが開発されたが、IMAP2、IMAP3、IMAP2bisなどが作られ、現在IMAPと呼ぶときにはIMAP4を指すことが通常である。プロトコルの仕様が複雑であったためあまり広く普及しなかったが、[Netscape](../Page/Netscapeシリーズ.md "wikilink") や [Internet Explorer](../Page/Internet_Explorer.md "wikilink") に標準で含まれているメールソフトが IMAP4 に対応し、また相互接続試験やプロトコルの様々な改訂・拡張により相互運用性が高まったため、利用者が広がった。
 
 ## POPとの比較
 
@@ -13,7 +13,7 @@ POPは以下の利点と欠点を持つ。
 
   - POPプロトコルは常時接続ではないネットワークアクセスにおいて有利である。
   - ユーザーはメールのローカルコピーを取得し、メールをオフラインで読むことができる。
-  - メールフォルダは[MUAより管理されプロトコルには含まれていない](https://ja.wikipedia.org/wiki/電子メールクライアント "wikilink")。
+  - メールフォルダは[MUAより管理されプロトコルには含まれていない](../Page/電子メールクライアント.md "wikilink")。
   - 通常、メールはサーバから取得された直後に削除する。すなわちサーバは未読のメールだけ保持しておけばよいので、サーバ側の保存容量は少なくて済む。
   - 複数の端末からメールを取得すると、別の端末でダウンロードしたローカルコピーにアクセスできない。
   - メールをサーバに保存する手段がない。
@@ -36,30 +36,30 @@ IMAPはPOPの利点を生かしつつ欠点を解消している。
 
 ### サーバ
 
-  - [Courier-IMAP](https://ja.wikipedia.org/wiki/Courier-MTA "wikilink")
+  - [Courier-IMAP](../Page/Courier-MTA.md "wikilink")
   - [UW IMAP](http://www.washington.edu/imap/)
-  - [Cyrus IMAP server](https://ja.wikipedia.org/wiki/Cyrus_IMAP_server "wikilink")
-  - [Dovecot](https://ja.wikipedia.org/wiki/Dovecot "wikilink")
+  - [Cyrus IMAP server](../Page/Cyrus_IMAP_server.md "wikilink")
+  - [Dovecot](../Page/Dovecot.md "wikilink")
 
 ### クライアント
 
-  - [メール](https://ja.wikipedia.org/wiki/メール_\(アップル\) "wikilink") (アップル社)
-  - [Becky\! Internet Mail](https://ja.wikipedia.org/wiki/Becky!_Internet_Mail "wikilink")
-  - [Eudora](https://ja.wikipedia.org/wiki/Eudora "wikilink")
+  - [メール](../Page/メール_\(アップル\).md "wikilink") (アップル社)
+  - [Becky\! Internet Mail](../Page/Becky!_Internet_Mail.md "wikilink")
+  - [Eudora](../Page/Eudora.md "wikilink")
   - [Gaucho Internet Mailer](https://ja.wikipedia.org/wiki/Gaucho_Internet_Mailer "wikilink")
-  - [Gnus](https://ja.wikipedia.org/wiki/Gnus "wikilink")
-  - [Mew](https://ja.wikipedia.org/wiki/Mew "wikilink")
+  - [Gnus](../Page/Gnus.md "wikilink")
+  - [Mew](../Page/Mew.md "wikilink")
   - [Microsoft Entourage](https://ja.wikipedia.org/wiki/Microsoft_Entourage "wikilink")
   - [Microsoft Outlook Express](https://ja.wikipedia.org/wiki/Microsoft_Outlook_Express "wikilink")
-  - [Microsoft Outlook](https://ja.wikipedia.org/wiki/Microsoft_Outlook "wikilink")
-  - [Mozilla Thunderbird](https://ja.wikipedia.org/wiki/Mozilla_Thunderbird "wikilink")
-  - [Mutt](https://ja.wikipedia.org/wiki/Mutt "wikilink")
+  - [Microsoft Outlook](../Page/Microsoft_Outlook.md "wikilink")
+  - [Mozilla Thunderbird](../Page/Mozilla_Thunderbird.md "wikilink")
+  - [Mutt](../Page/Mutt.md "wikilink")
   - [Opera](https://ja.wikipedia.org/wiki/Opera "wikilink") M2
-  - [Shuriken Pro4](https://ja.wikipedia.org/wiki/Shuriken "wikilink")
-  - [Sylpheed](https://ja.wikipedia.org/wiki/Sylpheed "wikilink")
-  - [Winbiff](https://ja.wikipedia.org/wiki/Winbiff "wikilink")
+  - [Shuriken Pro4](../Page/Shuriken.md "wikilink")
+  - [Sylpheed](../Page/Sylpheed.md "wikilink")
+  - [Winbiff](../Page/Winbiff.md "wikilink")
   - [Wanderlust](https://ja.wikipedia.org/wiki/Wanderlust "wikilink")
-  - [秀丸メール](https://ja.wikipedia.org/wiki/秀丸メール "wikilink")
+  - [秀丸メール](../Page/秀丸メール.md "wikilink")
 
 ### ウェブメールクライアント
 
@@ -68,9 +68,9 @@ IMAPはPOPの利点を生かしつつ欠点を解消している。
 
 ### サービス
 
-  - [MobileMe](https://ja.wikipedia.org/wiki/MobileMe "wikilink") - [アップル](https://ja.wikipedia.org/wiki/アップル_\(企業\) "wikilink")
-  - [AIM Mail](https://ja.wikipedia.org/wiki/AIM_Mail "wikilink") - [AOL](https://ja.wikipedia.org/wiki/AOL "wikilink")
-  - [Gmail](https://ja.wikipedia.org/wiki/Gmail "wikilink") - [Google](https://ja.wikipedia.org/wiki/Google "wikilink")
+  - [MobileMe](../Page/MobileMe.md "wikilink") - [アップル](../Page/アップル_\(企業\).md "wikilink")
+  - [AIM Mail](https://ja.wikipedia.org/wiki/AIM_Mail "wikilink") - [AOL](../Page/AOL.md "wikilink")
+  - [Gmail](../Page/Gmail.md "wikilink") - [Google](../Page/Google.md "wikilink")
   - [Outlook.com](https://ja.wikipedia.org/wiki/Outlook.com "wikilink") - [マイクロソフト](../Page/マイクロソフト.md "wikilink")
 
 ## RFC
@@ -140,7 +140,7 @@ IMAPはPOPの利点を生かしつつ欠点を解消している。
   - [ACAP](https://ja.wikipedia.org/wiki/Application_Configuration_Access_Protocol "wikilink")
   - [POP3](https://ja.wikipedia.org/wiki/POP3 "wikilink")
   - [SMTP](../Page/Simple_Mail_Transfer_Protocol.md "wikilink")
-  - [プッシュ型電子メール](https://ja.wikipedia.org/wiki/プッシュ型電子メール "wikilink")
+  - [プッシュ型電子メール](../Page/プッシュ型電子メール.md "wikilink")
   - [修正UTF-7](https://ja.wikipedia.org/wiki/UTF-7#修正UTF-7 "wikilink")
 
 [Category:アプリケーション層プロトコル](https://ja.wikipedia.org/wiki/Category:アプリケーション層プロトコル "wikilink") [Category:電子メールのプロトコル](https://ja.wikipedia.org/wiki/Category:電子メールのプロトコル "wikilink")

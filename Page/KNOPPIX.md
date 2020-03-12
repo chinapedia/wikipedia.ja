@@ -5,21 +5,21 @@
 
 ## 概要
 
-[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")のKlaus KnopperがDebianパッケージを元に開発しているものがオリジナルとなる。一枚のCD/DVD/USBメモリなどのリムーバブルメディアから起動できる[Live CDとして利用することを基本としていることが特徴](https://ja.wikipedia.org/wiki/Live_CD "wikilink")。日本国内では[独立行政法人](https://ja.wikipedia.org/wiki/独立行政法人 "wikilink")[産業技術総合研究所](https://ja.wikipedia.org/wiki/産業技術総合研究所 "wikilink")によって、日本語化をはじめとする日本の国情にあわせたローカライゼーションや、様々な機能を追加したものが本家とは別途開発、配布されていた。
+[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")のKlaus KnopperがDebianパッケージを元に開発しているものがオリジナルとなる。一枚のCD/DVD/USBメモリなどのリムーバブルメディアから起動できる[Live CDとして利用することを基本としていることが特徴](../Page/Live_CD.md "wikilink")。日本国内では[独立行政法人](../Page/独立行政法人.md "wikilink")[産業技術総合研究所](../Page/産業技術総合研究所.md "wikilink")によって、日本語化をはじめとする日本の国情にあわせたローカライゼーションや、様々な機能を追加したものが本家とは別途開発、配布されていた。
 
-当初はCD版のみの提供だったが、収録希望のアプリケーションの数が増えるに伴いCD-ROMの容量では不足するため、正式な同時リリース決定の前に二度ほどDVDイメージの頒布も行われている。Version 4.0で本家のKlaus KnopperがDVD-ROM版とCD-ROM版をほぼ同時に提供することを決定した。CD-ROM版を"light"（軽量版）、DVD-ROM版を"maxi"（大容量版）と位置付け、DVD版では更に多くのアプリケーションが標準で利用可能となっている。4.0版（DVD版）は[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[6月22日](../Page/6月22日.md "wikilink")にLinuxTagで配布された。Version 7.2でCD-ROM版の提供を終了し、DVD-ROM版に一本化された。
+当初はCD版のみの提供だったが、収録希望のアプリケーションの数が増えるに伴いCD-ROMの容量では不足するため、正式な同時リリース決定の前に二度ほどDVDイメージの頒布も行われている。Version 4.0で本家のKlaus KnopperがDVD-ROM版とCD-ROM版をほぼ同時に提供することを決定した。CD-ROM版を"light"（軽量版）、DVD-ROM版を"maxi"（大容量版）と位置付け、DVD版では更に多くのアプリケーションが標準で利用可能となっている。4.0版（DVD版）は[2005年](../Page/2005年.md "wikilink")[6月22日](../Page/6月22日.md "wikilink")にLinuxTagで配布された。Version 7.2でCD-ROM版の提供を終了し、DVD-ROM版に一本化された。
 
-Live CDとしての利用が前提であるため、[ハードディスク](https://ja.wikipedia.org/wiki/ハードディスク "wikilink")にOSを[インストール](https://ja.wikipedia.org/wiki/インストール "wikilink")する必要がなく、初期状態ではハードディスクに変更を加えずに[Linux](https://ja.wikipedia.org/wiki/Linux "wikilink")を稼働させ、さまざまなコマンドやアプリケーションを使うことができる。 これらの特性から、ハードディスクに障害が発生している場合に仮のシステムとして起動させ、ハードディスクの診断や他のメディアなどへのデータをサルベージするなどの作業にも使用可能である。
+Live CDとしての利用が前提であるため、[ハードディスク](https://ja.wikipedia.org/wiki/ハードディスク "wikilink")にOSを[インストール](../Page/インストール.md "wikilink")する必要がなく、初期状態ではハードディスクに変更を加えずに[Linux](../Page/Linux.md "wikilink")を稼働させ、さまざまなコマンドやアプリケーションを使うことができる。 これらの特性から、ハードディスクに障害が発生している場合に仮のシステムとして起動させ、ハードディスクの診断や他のメディアなどへのデータをサルベージするなどの作業にも使用可能である。
 
 また、パソコンに接続されたハードウエアを数多くサポートし自動的に認識する能力に優れていることも特徴の1つで、例えばユーザーはビデオ・カードの種類などを指定する必要がなく、直ちにGUIを利用可能となる。ネットワークについても[DHCP環境にあれば](https://ja.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol "wikilink")、[LANにつながっているだけで自動的に接続設定がおこなう](../Page/Local_Area_Network.md "wikilink")。ネットワークに繋がれば、必要なファイルなどは[http](https://ja.wikipedia.org/wiki/http "wikilink"), [ftp](https://ja.wikipedia.org/wiki/ftp "wikilink")などで保存できるためハードディスクなどがなくても困らない。
 
-基本的に1CD/1DVD[ブータブル](https://ja.wikipedia.org/wiki/ブート "wikilink")[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")であるが、[LibreOffice](https://ja.wikipedia.org/wiki/LibreOffice "wikilink")などの[アプリケーションソフト](https://ja.wikipedia.org/wiki/アプリケーションソフト "wikilink")が付属している。CD/DVDから起動するため、デフォルトでは書き込み（[データ](../Page/データ.md "wikilink")の変更）を行うことができるユーザのホーム・[ディレクトリ](https://ja.wikipedia.org/wiki/ディレクトリ "wikilink")などが[RAMディスク](https://ja.wikipedia.org/wiki/RAMディスク "wikilink")上に置かれており、パソコンの[再起動](https://ja.wikipedia.org/wiki/再起動 "wikilink")や[シャットダウン](https://ja.wikipedia.org/wiki/シャットダウン "wikilink")で保存したデータは消えてしまう。
+基本的に1CD/1DVD[ブータブル](../Page/ブート.md "wikilink")[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")であるが、[LibreOffice](https://ja.wikipedia.org/wiki/LibreOffice "wikilink")などの[アプリケーションソフト](https://ja.wikipedia.org/wiki/アプリケーションソフト "wikilink")が付属している。CD/DVDから起動するため、デフォルトでは書き込み（[データ](../Page/データ.md "wikilink")の変更）を行うことができるユーザのホーム・[ディレクトリ](../Page/ディレクトリ.md "wikilink")などが[RAMディスク](../Page/RAMディスク.md "wikilink")上に置かれており、パソコンの[再起動](../Page/再起動.md "wikilink")や[シャットダウン](../Page/シャットダウン.md "wikilink")で保存したデータは消えてしまう。
 
-しかし、それらを[フロッピーディスク](../Page/フロッピーディスク.md "wikilink")、可搬式の[ハードディスク](https://ja.wikipedia.org/wiki/ハードディスク "wikilink")、[USBメモリ](https://ja.wikipedia.org/wiki/USBメモリ "wikilink")などに保存することもできる。そのため国外の旅行先でも、CD-ROMから起動できるパソコンを借りることによって、自国語環境の元で簡単な仕事を行うこともできる。また、日本語版ではInstall2WinというWindowsパソコンにKNOPPIXをインストールして[マルチブート](https://ja.wikipedia.org/wiki/マルチブート "wikilink")環境を構築することによってハードディスクからKNOPPIXが起動できるようにする機能が搭載されている。ただしこの機能は、下で述べるインストール機能よりインストールされるOSの操作は、LiveCDのOSに近い。だが、下で述べている機能ではKNOPPIXではなく、Debianがインストールされる。
+しかし、それらを[フロッピーディスク](../Page/フロッピーディスク.md "wikilink")、可搬式の[ハードディスク](https://ja.wikipedia.org/wiki/ハードディスク "wikilink")、[USBメモリ](https://ja.wikipedia.org/wiki/USBメモリ "wikilink")などに保存することもできる。そのため国外の旅行先でも、CD-ROMから起動できるパソコンを借りることによって、自国語環境の元で簡単な仕事を行うこともできる。また、日本語版ではInstall2WinというWindowsパソコンにKNOPPIXをインストールして[マルチブート](../Page/マルチブート.md "wikilink")環境を構築することによってハードディスクからKNOPPIXが起動できるようにする機能が搭載されている。ただしこの機能は、下で述べるインストール機能よりインストールされるOSの操作は、LiveCDのOSに近い。だが、下で述べている機能ではKNOPPIXではなく、Debianがインストールされる。
 
 データの書き換えができないCD/DVDに起動に必要な要素がすべて格納されているため、起動中にどのような状態になっても再起動すれば元に戻る、という特徴がある。この特徴を生かし、不特定多数がパソコンを共有する公共の場に置かれる[キオスク端末](https://ja.wikipedia.org/wiki/キオスク端末 "wikilink")や、学校教育などでの使用が考えられている。 そのため、日本語版では[教育ソフト](https://ja.wikipedia.org/wiki/教育ソフト "wikilink")を収録した、KNOPPIX Eduや[KNOPPIX/Mathが開発されている](https://ja.wikipedia.org/wiki/MathLibre "wikilink")。
 
-また、最近OSで流行している[3Dデスクトップ](https://ja.wikipedia.org/wiki/3Dデスクトップ "wikilink")の搭載に対応するため、5.1から、3Dデスクトップ環境[Beryl](https://ja.wikipedia.org/wiki/Beryl "wikilink")、5.3.1からはその後継の[Compiz Fusionが搭載された](https://ja.wikipedia.org/wiki/Compiz_Fusion "wikilink")。
+また、最近OSで流行している[3Dデスクトップ](https://ja.wikipedia.org/wiki/3Dデスクトップ "wikilink")の搭載に対応するため、5.1から、3Dデスクトップ環境[Beryl](../Page/Beryl.md "wikilink")、5.3.1からはその後継の[Compiz Fusionが搭載された](https://ja.wikipedia.org/wiki/Compiz_Fusion "wikilink")。
 
 ## KNOPPIXの特徴
 
@@ -33,7 +33,7 @@ KNOPPIX5.1からは安定性向上のため、unionfsに替わり、[aufs](https
 
 ### 各種エミュレータの搭載
 
-KNOPPIXには各種エミュレーション用ソフトウエア（[エミュレータ](https://ja.wikipedia.org/wiki/エミュレータ "wikilink")）が搭載されており、最もエミュレータが利用しやすいOSのひとつとなっている。[QEMU](https://ja.wikipedia.org/wiki/QEMU "wikilink")はKNOPPIX上、もしくは[Windows上でKNOPPIXを起動でき](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Cooperative LinuxをWindowsにインストールすることで](https://ja.wikipedia.org/wiki/Cooperative_Linux "wikilink")、Windows上の一ウインドウとしてKNOPPIXが動作する。[Xenと組み合わせた版であるXenoppixでは](https://ja.wikipedia.org/wiki/Xen_\(仮想化ソフトウェア\) "wikilink")、KNOPPIX上で[Plan 9や](../Page/Plan_9_from_Bell_Labs.md "wikilink")[NetBSD](https://ja.wikipedia.org/wiki/NetBSD "wikilink")が利用できる。
+KNOPPIXには各種エミュレーション用ソフトウエア（[エミュレータ](../Page/エミュレータ.md "wikilink")）が搭載されており、最もエミュレータが利用しやすいOSのひとつとなっている。[QEMU](../Page/QEMU.md "wikilink")はKNOPPIX上、もしくは[Windows上でKNOPPIXを起動でき](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Cooperative LinuxをWindowsにインストールすることで](../Page/Cooperative_Linux.md "wikilink")、Windows上の一ウインドウとしてKNOPPIXが動作する。[Xenと組み合わせた版であるXenoppixでは](../Page/Xen_\(仮想化ソフトウェア\).md "wikilink")、KNOPPIX上で[Plan 9や](../Page/Plan_9_from_Bell_Labs.md "wikilink")[NetBSD](../Page/NetBSD.md "wikilink")が利用できる。
 
 ### CD/DVD以外からの起動
 
@@ -45,7 +45,7 @@ KNOPPIX5.1以降には、KNOPPIXをUSBフラッシュメモリから起動させ
 
 ### 産業技術総合研究所版の独自機能
 
-バージョン6から[LCAT](https://ja.wikipedia.org/wiki/LCAT "wikilink")(Live CD Acceleration Tool kit)と呼ばれる機能が追加された。 これは、[Live CDから起動する際に読み込まれるデータの配置を最適化することによりCDのピックアップの移動を抑えて起動時間を短縮する機能であるが](https://ja.wikipedia.org/wiki/Live_CD "wikilink")、機能単体のプロジェクトも存在する\[2\]。 産業技術総合研究所による日本語版の開発、並びに頒布は既に終了しており、7.0.2が最終版となっている。プロジェクトの閉鎖に伴い2015年4月に公式サイトは閉鎖された\[3\]。
+バージョン6から[LCAT](https://ja.wikipedia.org/wiki/LCAT "wikilink")(Live CD Acceleration Tool kit)と呼ばれる機能が追加された。 これは、[Live CDから起動する際に読み込まれるデータの配置を最適化することによりCDのピックアップの移動を抑えて起動時間を短縮する機能であるが](../Page/Live_CD.md "wikilink")、機能単体のプロジェクトも存在する\[2\]。 産業技術総合研究所による日本語版の開発、並びに頒布は既に終了しており、7.0.2が最終版となっている。プロジェクトの閉鎖に伴い2015年4月に公式サイトは閉鎖された\[3\]。
 
 尚、2015年現在オリジナルのKNOPPIXには日本語のロケールが追加されているため、初期状態はドイツ語版か英語版であることやIME等の積極的なサポートが無いなど、設定を要するものの日本語での利用も可能になっている。
 
@@ -95,9 +95,9 @@ KNOPPIX5.1以降には、KNOPPIXをUSBフラッシュメモリから起動させ
 ## 関連項目
 
   - [1CD Linux](https://ja.wikipedia.org/wiki/1CD_Linux "wikilink")
-  - [Puppy Linux](https://ja.wikipedia.org/wiki/Puppy_Linux "wikilink")
-  - [Linuxディストリビューションの比較](https://ja.wikipedia.org/wiki/Linuxディストリビューションの比較 "wikilink")
-  - [Linuxライブディストリビューションの比較](https://ja.wikipedia.org/wiki/Linuxライブディストリビューションの比較 "wikilink")
+  - [Puppy Linux](../Page/Puppy_Linux.md "wikilink")
+  - [Linuxディストリビューションの比較](../Page/Linuxディストリビューションの比較.md "wikilink")
+  - [Linuxライブディストリビューションの比較](../Page/Linuxライブディストリビューションの比較.md "wikilink")
 
 ## 外部リンク
 

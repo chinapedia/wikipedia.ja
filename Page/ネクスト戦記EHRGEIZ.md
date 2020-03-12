@@ -1,17 +1,17 @@
 > この記事は[EHRGEIZ](https://ja.wikipedia.org/wiki/EHRGEIZ)から翻訳されています。
 
 
-『**ネクスト戦記EHRGEIZ**』（ネクストせんき エーアガイツ）は、[スタジオディーン](https://ja.wikipedia.org/wiki/スタジオディーン "wikilink")制作の日本の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。1997年10月1日から同年12月24日まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系で放送された。全12話。
+『**ネクスト戦記EHRGEIZ**』（ネクストせんき エーアガイツ）は、[スタジオディーン](../Page/スタジオディーン.md "wikilink")制作の日本の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。1997年10月1日から同年12月24日まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系で放送された。全12話。
 
 ## 作品概要
 
 EHRGEIZはドイツ語で「野心」「大志」という意味で、英語のambitionにあたる。
 
-舞台は宇宙で、主人公達は廃墟コロニーに住んでいる。登場するロボットは[リアルロボット](https://ja.wikipedia.org/wiki/リアルロボット "wikilink")で、主人公の乗機も量産機を改造した物である。主人公はアウトローで、宇宙船を襲う海賊行為をして生活していた。物語で、主人公達は、暴走してしまった最新鋭無人ロボット兵器とそれを追う軍に関わって、ロボットで戦う。
+舞台は宇宙で、主人公達は廃墟コロニーに住んでいる。登場するロボットは[リアルロボット](../Page/リアルロボット.md "wikilink")で、主人公の乗機も量産機を改造した物である。主人公はアウトローで、宇宙船を襲う海賊行為をして生活していた。物語で、主人公達は、暴走してしまった最新鋭無人ロボット兵器とそれを追う軍に関わって、ロボットで戦う。
 
-元々は[カプコン](https://ja.wikipedia.org/wiki/カプコン "wikilink")のアーケードゲーム『[サイバーボッツ](../Page/サイバーボッツ.md "wikilink")』のアニメ化企画として制作されたがカプコンの許諾が降りず、名称・デザインを変更して放映された。
+元々は[カプコン](../Page/カプコン.md "wikilink")のアーケードゲーム『[サイバーボッツ](../Page/サイバーボッツ.md "wikilink")』のアニメ化企画として制作されたがカプコンの許諾が降りず、名称・デザインを変更して放映された。
 
-ビデオなどは絶版となっているが、[バンダイチャンネル](https://ja.wikipedia.org/wiki/バンダイチャンネル "wikilink")や[PlayStation Storeにて有料による全](../Page/PlayStation_Store.md "wikilink")12話の映像配信がされている。
+ビデオなどは絶版となっているが、[バンダイチャンネル](../Page/バンダイチャンネル.md "wikilink")や[PlayStation Storeにて有料による全](../Page/PlayStation_Store.md "wikilink")12話の映像配信がされている。
 
 ## あらすじ
 
@@ -22,40 +22,40 @@ EHRGEIZはドイツ語で「野心」「大志」という意味で、英語のa
 ## 登場人物
 
   - ジェイ・ストライカー
-    [声](../Page/声優.md "wikilink") - [岩田光央](https://ja.wikipedia.org/wiki/岩田光央 "wikilink")
+    [声](../Page/声優.md "wikilink") - [岩田光央](../Page/岩田光央.md "wikilink")
     主人公。かつてはネクスト同盟軍で、MVのパイロットとして活躍した。
   - キャメル
-    声 - [中田譲治](https://ja.wikipedia.org/wiki/中田譲治 "wikilink")
+    声 - [中田譲治](../Page/中田譲治.md "wikilink")
     クールだけど商才に長けている。
   - バルザック
-    声 - [阪脩](https://ja.wikipedia.org/wiki/阪脩 "wikilink")
+    声 - [阪脩](../Page/阪脩.md "wikilink")
     以前はネクスト同盟軍軍人だった。
   - ケン
-    声 - [高乃麗](https://ja.wikipedia.org/wiki/高乃麗 "wikilink")
+    声 - [高乃麗](../Page/高乃麗.md "wikilink")
     アンの兄。「ネクスト7」のかつての戦いで両親を亡くした。
   - アン
     声 - [大谷育江](../Page/大谷育江.md "wikilink")
     ケンの妹。「ネクスト7」のかつての戦いで両親を亡くした。
   - ゴード
-    声 - [佐藤政道](https://ja.wikipedia.org/wiki/佐藤政道 "wikilink")
+    声 - [佐藤政道](../Page/佐藤政道.md "wikilink")
     MV整備の腕はメンバーで一番。元地球軍所属のMVパイロットだった。
   - ロディ
     声 - [檜山修之](../Page/檜山修之.md "wikilink")
     たらこくちびるが特徴。元地球軍所属のMVパイロットだった。
   - アカネ・アオイ
-    声 - [一城みゆ希](https://ja.wikipedia.org/wiki/一城みゆ希 "wikilink")
+    声 - [一城みゆ希](../Page/一城みゆ希.md "wikilink")
     ネクスト同盟軍隊長。
   - アーノルド
     声 - [屋良有作](../Page/屋良有作.md "wikilink")
     ネクスト同盟軍のサイボーグ。S.A.C.は彼の身体組織を取り込んで開発された。
   - ハル
-    声 - [佐々木望](https://ja.wikipedia.org/wiki/佐々木望 "wikilink")
+    声 - [佐々木望](../Page/佐々木望.md "wikilink")
     地球革命組織(TERRA)の頭領。若き超能力者である。
   - ガルブレイズ
     声 - [玄田哲章](https://ja.wikipedia.org/wiki/玄田哲章 "wikilink")
     ハルのボディーガードで側近。
   - カール
-    声 - [星野充昭](https://ja.wikipedia.org/wiki/星野充昭 "wikilink")
+    声 - [星野充昭](../Page/星野充昭.md "wikilink")
     アカネの部下。登場してすぐに戦死した。
 
 ## 登場メカ
@@ -81,10 +81,10 @@ EHRGEIZはドイツ語で「野心」「大志」という意味で、英語のa
 ## スタッフ
 
   - 原作 - et
-  - 監督 - [川瀬敏文](https://ja.wikipedia.org/wiki/川瀬敏文 "wikilink")
-  - シリーズ構成 - [冨岡淳広](https://ja.wikipedia.org/wiki/冨岡淳広 "wikilink")
-  - オリジナルデザイン - [今掛勇](https://ja.wikipedia.org/wiki/今掛勇 "wikilink")
-  - キャラクターデザイン - [柳沢テツヤ](https://ja.wikipedia.org/wiki/柳沢テツヤ "wikilink")
+  - 監督 - [川瀬敏文](../Page/川瀬敏文.md "wikilink")
+  - シリーズ構成 - [冨岡淳広](../Page/冨岡淳広.md "wikilink")
+  - オリジナルデザイン - [今掛勇](../Page/今掛勇.md "wikilink")
+  - キャラクターデザイン - [柳沢テツヤ](../Page/柳沢テツヤ.md "wikilink")
   - メカニックデザイン - やまだたかひろ、[梅原隆弘](https://ja.wikipedia.org/wiki/梅原隆弘 "wikilink")
   - 美術監督 - 石垣努
   - 色彩設計 - もちだたけし
@@ -93,7 +93,7 @@ EHRGEIZはドイツ語で「野心」「大志」という意味で、英語のa
   - 音楽 - [多田彰文](https://ja.wikipedia.org/wiki/多田彰文 "wikilink")、[浜口史郎](https://ja.wikipedia.org/wiki/浜口史郎 "wikilink")
   - 音響監督 - [若林和弘](../Page/若林和弘.md "wikilink")
   - 制作プロデューサー - 白井勝也
-  - アニメーション制作 - [スタジオディーン](https://ja.wikipedia.org/wiki/スタジオディーン "wikilink")
+  - アニメーション制作 - [スタジオディーン](../Page/スタジオディーン.md "wikilink")
   - 製作 - PROJECT EHRGEIZ
 
 ## 主題歌
@@ -124,8 +124,8 @@ EHRGEIZはドイツ語で「野心」「大志」という意味で、英語のa
 <td><p><strong>1997年</strong><br />
 10月2日</p></td>
 <td><p>彼方より来るもの</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/冨岡淳広" title="wikilink">冨岡淳広</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/川瀬敏文" title="wikilink">川瀬敏文</a></p></td>
+<td><p><a href="../Page/冨岡淳広.md" title="wikilink">冨岡淳広</a></p></td>
+<td><p><a href="../Page/川瀬敏文.md" title="wikilink">川瀬敏文</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/菱川直樹" title="wikilink">菱川直樹</a></p></td>
 <td><p>笠原彰<br />
 （<a href="https://ja.wikipedia.org/wiki/梅原隆弘" title="wikilink">梅原隆弘</a>）</p></td>
@@ -135,7 +135,7 @@ EHRGEIZはドイツ語で「野心」「大志」という意味で、英語のa
 <td><p>10月9日</p></td>
 <td><p>覇者たちの条件</p></td>
 <td><p>三浦浩児</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/石山タカ明" title="wikilink">石山タカ明</a></p></td>
+<td><p><a href="../Page/石山タカ明.md" title="wikilink">石山タカ明</a></p></td>
 <td><p>山口美浩</p></td>
 <td><p>小林一三<br />
 （服部憲知）</p></td>
@@ -183,7 +183,7 @@ EHRGEIZはドイツ語で「野心」「大志」という意味で、英語のa
 <td><p><a href="https://ja.wikipedia.org/wiki/北条千夏" title="wikilink">北条千夏</a></p></td>
 <td><p>石山タカ明</p></td>
 <td><p>山口美浩</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/柳沢テツヤ" title="wikilink">柳沢テツヤ</a></p></td>
+<td><p><a href="../Page/柳沢テツヤ.md" title="wikilink">柳沢テツヤ</a></p></td>
 </tr>
 <tr class="even">
 <td><p>8</p></td>

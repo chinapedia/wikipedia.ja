@@ -45,14 +45,14 @@ AWM音源（[PCM音源](../Page/PCM音源.md "wikilink")）を採用し、ピア
   -
     2015年6月発売。88鍵GHS（グレードハンマースタンダード）鍵盤。最大同時発音数192。P-105の後継機種。
   - P50-m
-    [1996年](../Page/1996年.md "wikilink")発売。1Uハーフラックサイズのピアノ専用[音源モジュール](https://ja.wikipedia.org/wiki/音源モジュール "wikilink")。最大同時発音数32音　プリセット28音色 エフェクト　リバーブ、コーラス、3バンドグラフィックイコライザー。[VL70-m同様](https://ja.wikipedia.org/wiki/ヤマハ・VL/VPシリーズ "wikilink")、P50-m担当するピアノパートをXG音源で鳴らさない[XG音源拡張機能を持ち](https://ja.wikipedia.org/wiki/XGフォーマット "wikilink")、[DTMでも使用可能](../Page/デスクトップミュージック.md "wikilink")。[TX1Pの後継機種ともいえる](https://ja.wikipedia.org/wiki/ヤマハ・TXシリーズ "wikilink")。
+    [1996年](../Page/1996年.md "wikilink")発売。1Uハーフラックサイズのピアノ専用[音源モジュール](../Page/音源モジュール.md "wikilink")。最大同時発音数32音　プリセット28音色 エフェクト　リバーブ、コーラス、3バンドグラフィックイコライザー。[VL70-m同様](https://ja.wikipedia.org/wiki/ヤマハ・VL/VPシリーズ "wikilink")、P50-m担当するピアノパートをXG音源で鳴らさない[XG音源拡張機能を持ち](../Page/XGフォーマット.md "wikilink")、[DTMでも使用可能](../Page/デスクトップミュージック.md "wikilink")。[TX1Pの後継機種ともいえる](../Page/ヤマハ・TXシリーズ.md "wikilink")。
 
 ## 脚注
 
 ## 関連項目
 
-  - [ヤマハ・Sシリーズ](https://ja.wikipedia.org/wiki/ヤマハ・Sシリーズ "wikilink")
-  - [XGフォーマット](https://ja.wikipedia.org/wiki/XGフォーマット "wikilink")
+  - [ヤマハ・Sシリーズ](../Page/ヤマハ・Sシリーズ.md "wikilink")
+  - [XGフォーマット](../Page/XGフォーマット.md "wikilink")
 
 [Category:ヤマハの製品](https://ja.wikipedia.org/wiki/Category:ヤマハの製品 "wikilink") [Category:電子楽器](https://ja.wikipedia.org/wiki/Category:電子楽器 "wikilink") [Category:鍵盤楽器](https://ja.wikipedia.org/wiki/Category:鍵盤楽器 "wikilink")
 

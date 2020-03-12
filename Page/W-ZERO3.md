@@ -9,43 +9,43 @@
 
 ## 概要
 
-名前の由来は、「W」は[ウィルコム](../Page/ウィルコム.md "wikilink")の英語表記「WILLCOM」、搭載OSである「[Windows Mobile](https://ja.wikipedia.org/wiki/Windows_Mobile "wikilink")」、 無線LANとPHS端末機能を表す「Wireless」のそれぞれの頭文字を、「ZERO」は[携帯電話](../Page/携帯電話.md "wikilink")も[PCも超えた新たなものを作り上げていくという意味を](../Page/パーソナルコンピュータ.md "wikilink")、「3」は「第3のコミュニケーションと、[PHS](../Page/PHS.md "wikilink")通信、[PHS](../Page/PHS.md "wikilink")ボイス、[無線LAN](../Page/無線LAN.md "wikilink")という3WAYコミュニケーション」の意味で名づけられた。
+名前の由来は、「W」は[ウィルコム](../Page/ウィルコム.md "wikilink")の英語表記「WILLCOM」、搭載OSである「[Windows Mobile](../Page/Windows_Mobile.md "wikilink")」、 無線LANとPHS端末機能を表す「Wireless」のそれぞれの頭文字を、「ZERO」は[携帯電話](../Page/携帯電話.md "wikilink")も[PCも超えた新たなものを作り上げていくという意味を](../Page/パーソナルコンピュータ.md "wikilink")、「3」は「第3のコミュニケーションと、[PHS](../Page/PHS.md "wikilink")通信、[PHS](../Page/PHS.md "wikilink")ボイス、[無線LAN](../Page/無線LAN.md "wikilink")という3WAYコミュニケーション」の意味で名づけられた。
 
 基本的には[PocketPC](https://ja.wikipedia.org/wiki/PocketPC "wikilink")の後継OSであるWindows Mobileを搭載した[PDAである](../Page/携帯情報端末.md "wikilink")。また、通信機能を内蔵した[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")でもあり、PHS端末としての[音声通話](https://ja.wikipedia.org/wiki/音声通話 "wikilink")機能、[Eメール送受信機能や](../Page/電子メール.md "wikilink")[ライトメール機能も併せ持っている](https://ja.wikipedia.org/wiki/ショートメッセージサービス#ショートメッセージサービス "wikilink")。
 
-PDAとしての大きな特徴として、[タッチパネル](https://ja.wikipedia.org/wiki/タッチパネル "wikilink")液晶画面の他、入力デバイスとしてバネ付きスライド機構の[QWERTY配列](../Page/QWERTY配列.md "wikilink")[キーボードを搭載している](https://ja.wikipedia.org/wiki/キーボード_\(コンピュータ\) "wikilink")。通常、キーボードは本体下部に格納されており、下部を右にずらすことで現れる。また、[Microsoft ActiveSyncを使ってパソコンとデータを同期することができる](../Page/Microsoft_ActiveSync.md "wikilink")。
+PDAとしての大きな特徴として、[タッチパネル](../Page/タッチパネル.md "wikilink")液晶画面の他、入力デバイスとしてバネ付きスライド機構の[QWERTY配列](../Page/QWERTY配列.md "wikilink")[キーボードを搭載している](../Page/キーボード_\(コンピュータ\).md "wikilink")。通常、キーボードは本体下部に格納されており、下部を右にずらすことで現れる。また、[Microsoft ActiveSyncを使ってパソコンとデータを同期することができる](../Page/Microsoft_ActiveSync.md "wikilink")。
 
-主な通信機能は[W-SIM](https://ja.wikipedia.org/wiki/W-SIM "wikilink")および内蔵型[無線LAN](../Page/無線LAN.md "wikilink")（[IEEE 802.11b準拠](https://ja.wikipedia.org/wiki/IEEE_802.11b "wikilink")）によって提供される。付属のUSBケーブルを用いてパソコン本体と接続することにより、W-ZERO3をモデムとして利用することも可能。
+主な通信機能は[W-SIM](../Page/W-SIM.md "wikilink")および内蔵型[無線LAN](../Page/無線LAN.md "wikilink")（[IEEE 802.11b準拠](https://ja.wikipedia.org/wiki/IEEE_802.11b "wikilink")）によって提供される。付属のUSBケーブルを用いてパソコン本体と接続することにより、W-ZERO3をモデムとして利用することも可能。
 
 ブラウザは[Internet Explorer](../Page/Internet_Explorer.md "wikilink") Mobileがプリインストールされているほか、ウィルコムの公式[ポータルサイト](../Page/ポータルサイト.md "wikilink")である[CLUB AIR-EDGEより](../Page/AIR-EDGE.md "wikilink")、[Opera](https://ja.wikipedia.org/wiki/Opera "wikilink") for W-ZERO3が無償で提供されている。また、[Microsoft Office](../Page/Microsoft_Office.md "wikilink") Mobileがプリインストールされており、データの閲覧だけでなく編集も可能である。
 
-そのほかにも、個人・企業で開発されている[Windows Mobile対応アプリケーションをAIR](https://ja.wikipedia.org/wiki/Windows_Mobile "wikilink")-EDGEやPC経由でインストールすることができ、自分好みの仕様にすることも可能である。このようなソフトウェア面でのカスタマイズの自由さも、W-ZERO3の人気の理由のひとつである。
+そのほかにも、個人・企業で開発されている[Windows Mobile対応アプリケーションをAIR](../Page/Windows_Mobile.md "wikilink")-EDGEやPC経由でインストールすることができ、自分好みの仕様にすることも可能である。このようなソフトウェア面でのカスタマイズの自由さも、W-ZERO3の人気の理由のひとつである。
 
 ## 端末
 
 ### WS003SH
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月14日](../Page/12月14日.md "wikilink")発売。初代W-ZERO3。キーボード搭載のスマートフォンとして、その発表と同時に注目を集めた。シャープ製端末はDDIポケット時代には供給実績が無く、ウィルコム初である。予約受付開始日には店頭に200人以上が並び\[1\]、予約で初回出荷分が満了するなど、発売即日に完売する店舗が続出した。ウィルコムストアも注文が殺到したためにサーバが異常に繋がりにくくなり、抽選販売が行われる\[2\]など、長らく低迷が伝えられていたPDA業界では久々のスマッシュヒットとなる機種となった。発売後6か月足らずで販売台数15万台を達成した\[3\]。設定カラーは当初「ブラック」(B)のみで、2006年3月に「シャンパンシルバー」(S)が追加発売された。
+[2005年](../Page/2005年.md "wikilink")[12月14日](../Page/12月14日.md "wikilink")発売。初代W-ZERO3。キーボード搭載のスマートフォンとして、その発表と同時に注目を集めた。シャープ製端末はDDIポケット時代には供給実績が無く、ウィルコム初である。予約受付開始日には店頭に200人以上が並び\[1\]、予約で初回出荷分が満了するなど、発売即日に完売する店舗が続出した。ウィルコムストアも注文が殺到したためにサーバが異常に繋がりにくくなり、抽選販売が行われる\[2\]など、長らく低迷が伝えられていたPDA業界では久々のスマッシュヒットとなる機種となった。発売後6か月足らずで販売台数15万台を達成した\[3\]。設定カラーは当初「ブラック」(B)のみで、2006年3月に「シャンパンシルバー」(S)が追加発売された。
 
 ### WS004SH
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[6月22日](../Page/6月22日.md "wikilink")発売。ブランドはWS003SHと同じW-ZERO3。WS003SHのハイスペック版として、内蔵[フラッシュメモリ](../Page/フラッシュメモリ.md "wikilink")を256MBに増強し、Windows Mobile 5.0の最新版のセキュリティ関連のアップデートが加えられた。そのほか電子辞書ソフトウェアの「DicLand」をプリインストールし、Eメールや、ライトメール用のアプリケーションが改良されたモデル。設定カラーはガンメタリック、パールホワイトの2色である。
+[2006年](../Page/2006年.md "wikilink")[6月22日](../Page/6月22日.md "wikilink")発売。ブランドはWS003SHと同じW-ZERO3。WS003SHのハイスペック版として、内蔵[フラッシュメモリ](../Page/フラッシュメモリ.md "wikilink")を256MBに増強し、Windows Mobile 5.0の最新版のセキュリティ関連のアップデートが加えられた。そのほか電子辞書ソフトウェアの「DicLand」をプリインストールし、Eメールや、ライトメール用のアプリケーションが改良されたモデル。設定カラーはガンメタリック、パールホワイトの2色である。
 
 ### WS007SH
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月27日](../Page/7月27日.md "wikilink")発売。ブランドは**W-ZERO3 \[es\]**（ダブリュ・ゼロスリー・エス）。液晶のサイズを2.8インチに抑えると共にダイヤルキーを搭載し、スタイルもより携帯電話に近い物としたモデル。
+[2006年](../Page/2006年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink")発売。ブランドは**W-ZERO3 \[es\]**（ダブリュ・ゼロスリー・エス）。液晶のサイズを2.8インチに抑えると共にダイヤルキーを搭載し、スタイルもより携帯電話に近い物としたモデル。
 
 ### WS011SH
 
-[2007年](../Page/2007年.md "wikilink")[7月19日](../Page/7月19日.md "wikilink")発売。ブランドは**Advanced／W-ZERO3\[es\]**（アドバンスト・ダブリュ・ゼロスリー・エス、略称「アドエス」）。[Windows Mobile 6.0搭載](https://ja.wikipedia.org/wiki/Windows_Mobile "wikilink")、WS007SHの後継機として液晶の大型化しつつ筐体の小型化、WS007SHで省かれた[無線LAN](../Page/無線LAN.md "wikilink")機能が復活、Xcrawl（エクスクロール）、赤外線通信などの新たな機能が追加されたモデル。
+[2007年](../Page/2007年.md "wikilink")[7月19日](../Page/7月19日.md "wikilink")発売。ブランドは**Advanced／W-ZERO3\[es\]**（アドバンスト・ダブリュ・ゼロスリー・エス、略称「アドエス」）。[Windows Mobile 6.0搭載](../Page/Windows_Mobile.md "wikilink")、WS007SHの後継機として液晶の大型化しつつ筐体の小型化、WS007SHで省かれた[無線LAN](../Page/無線LAN.md "wikilink")機能が復活、Xcrawl（エクスクロール）、赤外線通信などの新たな機能が追加されたモデル。
 
 ### WS020SH
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月27日](../Page/6月27日.md "wikilink")発売。ブランドは**WILLCOM 03**（ウィルコム　ゼロスリー）。[Windows Mobile 6.1搭載](https://ja.wikipedia.org/wiki/Windows_Mobile "wikilink")、WS011SHの後継機として全長の小型化、[ワンセグ](https://ja.wikipedia.org/wiki/ワンセグ "wikilink")チューナーや[Bluetooth](https://ja.wikipedia.org/wiki/Bluetooth "wikilink")の追加、メインカメラの高画素化、イルミネーションキーの採用といった改良が加えられているモデル。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月27日](../Page/6月27日.md "wikilink")発売。ブランドは**WILLCOM 03**（ウィルコム　ゼロスリー）。[Windows Mobile 6.1搭載](../Page/Windows_Mobile.md "wikilink")、WS011SHの後継機として全長の小型化、[ワンセグ](../Page/ワンセグ.md "wikilink")チューナーや[Bluetooth](../Page/Bluetooth.md "wikilink")の追加、メインカメラの高画素化、イルミネーションキーの採用といった改良が加えられているモデル。
 
 ### WS027SH
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月28日](../Page/1月28日.md "wikilink")発売。ブランドは**HYBRID W-ZERO3**（ハイブリッド・ダブリュ・ゼロスリー）。[Windows Mobile 6.5搭載](https://ja.wikipedia.org/wiki/Windows_Mobile "wikilink")、「[W-OAM typeG](https://ja.wikipedia.org/wiki/W-OAM_typeG "wikilink")」対応[W-SIM](https://ja.wikipedia.org/wiki/W-SIM "wikilink")と「[W-CDMA](../Page/W-CDMA.md "wikilink")([3.5G](https://ja.wikipedia.org/wiki/HSPA "wikilink"))」（[WILLCOM CORE 3G](https://ja.wikipedia.org/wiki/WILLCOM_CORE_3G "wikilink")）対応によるデータ通信に両対応している。また、PHS方式W-SIMモジュールを抜いてサードパーティオプションの[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")方式W-SIMモジュールを刺すことで海外のGSM方式エリアでの通信も利用できる。GSM用の[SIMカード](https://ja.wikipedia.org/wiki/SIMカード "wikilink")スロットは本体側に用意してある。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月28日](../Page/1月28日.md "wikilink")発売。ブランドは**HYBRID W-ZERO3**（ハイブリッド・ダブリュ・ゼロスリー）。[Windows Mobile 6.5搭載](../Page/Windows_Mobile.md "wikilink")、「[W-OAM typeG](https://ja.wikipedia.org/wiki/W-OAM_typeG "wikilink")」対応[W-SIM](../Page/W-SIM.md "wikilink")と「[W-CDMA](../Page/W-CDMA.md "wikilink")([3.5G](../Page/HSPA.md "wikilink"))」（[WILLCOM CORE 3G](https://ja.wikipedia.org/wiki/WILLCOM_CORE_3G "wikilink")）対応によるデータ通信に両対応している。また、PHS方式W-SIMモジュールを抜いてサードパーティオプションの[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")方式W-SIMモジュールを刺すことで海外のGSM方式エリアでの通信も利用できる。GSM用の[SIMカード](../Page/SIMカード.md "wikilink")スロットは本体側に用意してある。
 
 ### 各機種の比較
 
@@ -83,7 +83,7 @@ W-ZERO3</p></th>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/オペレーティングシステム.md" title="wikilink">OS</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Windows_Mobile" title="wikilink">Windows Mobile</a> 5.0[4]</p></td>
+<td><p><a href="../Page/Windows_Mobile.md" title="wikilink">Windows Mobile</a> 5.0[4]</p></td>
 <td><p>Windows<br />
 Mobile 6[5]</p></td>
 <td><p>Windows<br />
@@ -94,9 +94,9 @@ Mobile 6.5[7]</p></td>
 </tr>
 <tr class="even">
 <td><p>CPU</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/インテル" title="wikilink">Intel</a> <a href="https://ja.wikipedia.org/wiki/XScale" title="wikilink">PXA270</a> 416<a href="https://ja.wikipedia.org/wiki/MHz" title="wikilink">MHz</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/インテル" title="wikilink">Intel</a> <a href="../Page/XScale.md" title="wikilink">PXA270</a> 416<a href="https://ja.wikipedia.org/wiki/MHz" title="wikilink">MHz</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/マーベル・テクノロジー・グループ" title="wikilink">Marvell</a> PXA270 520MHz</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クアルコム" title="wikilink">Qualcomm</a> MSM7200A、<br />
+<td><p><a href="../Page/クアルコム.md" title="wikilink">Qualcomm</a> MSM7200A、<br />
 <a href="https://ja.wikipedia.org/wiki/ARMホールディングス" title="wikilink">ARM</a>11 528MHz</p></td>
 <td></td>
 <td></td>
@@ -104,7 +104,7 @@ Mobile 6.5[7]</p></td>
 <tr class="odd">
 <td><p>画面</p></td>
 <td><p>種類</p></td>
-<td><p>モバイル<a href="https://ja.wikipedia.org/wiki/ASV" title="wikilink">ASV</a>液晶（<a href="https://ja.wikipedia.org/wiki/タッチパネル" title="wikilink">タッチパネル</a>、バックライト付）</p></td>
+<td><p>モバイル<a href="https://ja.wikipedia.org/wiki/ASV" title="wikilink">ASV</a>液晶（<a href="../Page/タッチパネル.md" title="wikilink">タッチパネル</a>、バックライト付）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -150,7 +150,7 @@ Mobile 6.5[7]</p></td>
 <td><p>135MB[10]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/SDRAM" title="wikilink">SDRAM</a>（ワークエリア）</p></td>
+<td><p><a href="../Page/SDRAM.md" title="wikilink">SDRAM</a>（ワークエリア）</p></td>
 <td><p>64MB</p></td>
 <td><p>128MB</p></td>
 <td><p>256MB</p></td>
@@ -160,7 +160,7 @@ Mobile 6.5[7]</p></td>
 <tr class="even">
 <td><p>通信機能</p></td>
 <td><p><a href="../Page/PHS.md" title="wikilink">PHS</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/W-SIM" title="wikilink">W-SIM</a></p></td>
+<td><p><a href="../Page/W-SIM.md" title="wikilink">W-SIM</a></p></td>
 <td><p>W-OAM対応W-SIM</p></td>
 <td><p>W-OAM typeG対応W-SIM</p></td>
 <td></td>
@@ -182,7 +182,7 @@ Mobile 6.5[7]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/Bluetooth" title="wikilink">Bluetooth</a></p></td>
+<td><p><a href="../Page/Bluetooth.md" title="wikilink">Bluetooth</a></p></td>
 <td><p>-</p></td>
 <td><p>Bluetooth 2.0</p></td>
 <td></td>
@@ -335,9 +335,9 @@ HSUPA 5.7Mbps、</p></td>
 
 ## 関連項目
 
-  - [Pocket PC](https://ja.wikipedia.org/wiki/Pocket_PC "wikilink")
+  - [Pocket PC](../Page/Pocket_PC.md "wikilink")
   - [スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")
-  - [SimulRadio](https://ja.wikipedia.org/wiki/SimulRadio "wikilink") - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")時点で公式対応を明言していない[WS027SH](https://ja.wikipedia.org/wiki/WS027SH "wikilink")を除き、[W-Radio](https://ja.wikipedia.org/wiki/W-Radio "wikilink")を起動することで、参加局の聴取が可能。なお、WS027SHでも、非公式ながら対応自体はしている。
+  - [SimulRadio](../Page/SimulRadio.md "wikilink") - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")時点で公式対応を明言していない[WS027SH](https://ja.wikipedia.org/wiki/WS027SH "wikilink")を除き、[W-Radio](https://ja.wikipedia.org/wiki/W-Radio "wikilink")を起動することで、参加局の聴取が可能。なお、WS027SHでも、非公式ながら対応自体はしている。
   - [シャープ製のスマートフォン](https://ja.wikipedia.org/wiki/シャープ製のスマートフォン "wikilink")
 
 ## 脚注

@@ -1,11 +1,11 @@
 > この記事は[SPY \(\)](https://ja.wikipedia.org/wiki/SPY_\(\))から翻訳されています。
 
 
-「**SPY**」（スパイ）は、[1994年](../Page/1994年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")に発売された[槇原敬之](../Page/槇原敬之.md "wikilink")の12枚目の[シングル](../Page/シングル.md "wikilink")。発売元はwea JAPAN（[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")）。
+「**SPY**」（スパイ）は、[1994年](../Page/1994年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")に発売された[槇原敬之](../Page/槇原敬之.md "wikilink")の12枚目の[シングル](../Page/シングル.md "wikilink")。発売元はwea JAPAN（[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")）。
 
 ## 解説
 
-[TBS系ドラマ](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")『[男嫌い](https://ja.wikipedia.org/wiki/男嫌い_\(1994年のテレビドラマ\) "wikilink")』の主題歌に起用された。
+[TBS系ドラマ](../Page/TBSテレビ.md "wikilink")『[男嫌い](../Page/男嫌い_\(1994年のテレビドラマ\).md "wikilink")』の主題歌に起用された。
 
 カップリング曲「キミノテノヒラ」は、オリジナルアルバム未収録。長らくアルバム未収録だったが、[2013年](../Page/2013年.md "wikilink")にはベストアルバム『[春うた、夏うた。〜どんなときも。](https://ja.wikipedia.org/wiki/春うた、夏うた。〜どんなときも。 "wikilink")』に収録された。
 

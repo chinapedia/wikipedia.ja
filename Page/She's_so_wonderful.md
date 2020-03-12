@@ -5,7 +5,7 @@
 
 ## 解説
 
-「she's so wonderful」、「陽射しの中で」両曲とも[アルバム](../Page/アルバム.md "wikilink")『[Still a long way to go](https://ja.wikipedia.org/wiki/Still_a_long_way_to_go "wikilink")』\[1\]からの[シングル・カット](https://ja.wikipedia.org/wiki/シングル・カット "wikilink")曲で、アルバム収録曲と同内容。「she's so wonderful」は後に[小田和正](../Page/小田和正.md "wikilink")が『[LOOKING BACK 2](https://ja.wikipedia.org/wiki/LOOKING_BACK_2 "wikilink")』\[2\]にて[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")しており、その際に歌詞の一部を書き変えている。
+「she's so wonderful」、「陽射しの中で」両曲とも[アルバム](../Page/アルバム.md "wikilink")『[Still a long way to go](https://ja.wikipedia.org/wiki/Still_a_long_way_to_go "wikilink")』\[1\]からの[シングル・カット](https://ja.wikipedia.org/wiki/シングル・カット "wikilink")曲で、アルバム収録曲と同内容。「she's so wonderful」は後に[小田和正](../Page/小田和正.md "wikilink")が『[LOOKING BACK 2](../Page/LOOKING_BACK_2.md "wikilink")』\[2\]にて[セルフカバー](../Page/セルフカバー.md "wikilink")しており、その際に歌詞の一部を書き変えている。
 
 [ジャケットイラスト](https://ja.wikipedia.org/wiki/ジャケットイラスト "wikilink")はアルバムと色違いのものが使われている。また、EPと8cm CDシングルとでは細部のデザインが異なる。
 
@@ -21,7 +21,7 @@
 
 1.  **陽射しの中で**
       -
-        作詞 : [松本一起](https://ja.wikipedia.org/wiki/松本一起 "wikilink")、作曲 : [松尾一彦](https://ja.wikipedia.org/wiki/松尾一彦 "wikilink")、編曲 : オフコース
+        作詞 : [松本一起](../Page/松本一起.md "wikilink")、作曲 : [松尾一彦](../Page/松尾一彦.md "wikilink")、編曲 : オフコース
 
 ## スタッフ
 

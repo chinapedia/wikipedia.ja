@@ -3,7 +3,7 @@
 
 **GOMES THE HITMAN**（ゴメス・ザ・ヒットマン）は日本のポップスバンド。
 
-[1993年](../Page/1993年.md "wikilink")に[東京外国語大学](../Page/東京外国語大学.md "wikilink")の音楽サークル内で結成され、[1999年](../Page/1999年.md "wikilink")にメジャーデビューを果たした。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")のアルバム『ripple』に収録された「手と手、影と影」が[ジャックスカード](https://ja.wikipedia.org/wiki/ジャックスカード "wikilink")のCMソングに起用され、知名度を上げた。
+[1993年](../Page/1993年.md "wikilink")に[東京外国語大学](../Page/東京外国語大学.md "wikilink")の音楽サークル内で結成され、[1999年](../Page/1999年.md "wikilink")にメジャーデビューを果たした。[2005年](../Page/2005年.md "wikilink")のアルバム『ripple』に収録された「手と手、影と影」が[ジャックスカード](https://ja.wikipedia.org/wiki/ジャックスカード "wikilink")のCMソングに起用され、知名度を上げた。
 
 またボーカル＆ギターの山田は活発にソロ活動を行っているほか、多くのアーティストに楽曲提供も行っている。山田のソロ活動が活発化し、[2009年](../Page/2009年.md "wikilink")3月にはソロアルバム『pilgrim』がライブ会場とネット通販限定でリリースされた（レーベルは「GOMES THE HITMAN.COM」）。
 
@@ -14,20 +14,20 @@
 ### 現メンバー
 
   - 山田稔明 - （[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")＆[ギター](../Page/ギター.md "wikilink")）
-  - 堀越和子 - （[キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")）
+  - 堀越和子 - （[キーボード](../Page/キーボード_\(楽器\).md "wikilink")）
   - 高橋結子 - （[ドラム](../Page/ドラムセット.md "wikilink")＆[パーカッション](../Page/パーカッション.md "wikilink")）
-  - 須藤俊明 - （[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")）　元[Melt-Banana](https://ja.wikipedia.org/wiki/Melt-Banana "wikilink")
+  - 須藤俊明 - （[ベース](../Page/ベース_\(弦楽器\).md "wikilink")）　元[Melt-Banana](../Page/Melt-Banana.md "wikilink")
 
 ### 元メンバー
 
   - 山田靖 - （[ドラム](../Page/ドラムセット.md "wikilink")）
-  - 遠藤宗広 - （[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")）
+  - 遠藤宗広 - （[ベース](../Page/ベース_\(弦楽器\).md "wikilink")）
   - 久保公平 - （[ギター](../Page/ギター.md "wikilink")）
   - 高森哲也 - （[ドラム](../Page/ドラムセット.md "wikilink")）
 
 ### 愛猫
 
-  - ポチ - （[三毛猫](https://ja.wikipedia.org/wiki/三毛猫 "wikilink")）
+  - ポチ - （[三毛猫](../Page/三毛猫.md "wikilink")）
 
 <!-- end list -->
 
@@ -36,7 +36,7 @@
 
 <!-- end list -->
 
-  - ポチ実 - （[三毛猫](https://ja.wikipedia.org/wiki/三毛猫 "wikilink")）
+  - ポチ実 - （[三毛猫](../Page/三毛猫.md "wikilink")）
 
 <!-- end list -->
 
@@ -509,7 +509,7 @@
     4.  モノクローム（編曲：近藤研二）
     5.  セレナーデ
     6.  スミス
-    7.  幸せの風が吹くさ（feat. [高橋徹也](https://ja.wikipedia.org/wiki/高橋徹也 "wikilink")）
+    7.  幸せの風が吹くさ（feat. [高橋徹也](../Page/高橋徹也.md "wikilink")）
     8.  my valentine
     9.  calendar song
     10. Qui La Laの夏物語（feat. [MADOKA](https://ja.wikipedia.org/wiki/MADOKA "wikilink") from [たんこぶちん](https://ja.wikipedia.org/wiki/たんこぶちん "wikilink")）
@@ -900,21 +900,21 @@
 
 ### 参加作品
 
-  - [高田渡](https://ja.wikipedia.org/wiki/高田渡 "wikilink")『系図トリビュート』 - 「鉱夫の祈り」で参加。
+  - [高田渡](../Page/高田渡.md "wikilink")『系図トリビュート』 - 「鉱夫の祈り」で参加。
 
 ## 山田稔明による提供楽曲
 
-  - [坂本真綾](https://ja.wikipedia.org/wiki/坂本真綾 "wikilink")『[30minutes night flight](https://ja.wikipedia.org/wiki/30minutes_night_flight "wikilink")』 - 「30minutes night flight」と「セツナ」を提供。
-  - [GIBIER du MARI](https://ja.wikipedia.org/wiki/GIBIER_du_MARI "wikilink")（[夏木マリ](https://ja.wikipedia.org/wiki/夏木マリ "wikilink")率いるユニット）『GIBIER du MARI2』 - 「Fly〜Higher\&Higher」を提供。
-  - [晴晴゛](https://ja.wikipedia.org/wiki/晴晴゛ "wikilink")「太陽に焦がれて」（アニメ「[SDガンダムフォース](../Page/SDガンダムフォース.md "wikilink")」のオープニングテーマ）
-  - [原田知世](https://ja.wikipedia.org/wiki/原田知世 "wikilink")「夜想曲」（映画『[ルパン三世 sweet lost night 〜魔法のランプは悪夢の予感〜](https://ja.wikipedia.org/wiki/ルパン三世_sweet_lost_night_〜魔法のランプは悪夢の予感〜 "wikilink")』のエンディングテーマ。山田が作詞を担当）
-  - あまえ隊っ\!\!「あふれてゆくのはこの気持ち」（アニメ『[あまえないでよっ\!\!](https://ja.wikipedia.org/wiki/あまえないでよっ!! "wikilink")』のオープニングテーマ）
-  - [ピストルバルブ](https://ja.wikipedia.org/wiki/ピストルバルブ "wikilink") 「Good-looking dreamer」関西テレビ系『イケメンデルの法則』テーマソング（山田は作曲を担当）。
+  - [坂本真綾](https://ja.wikipedia.org/wiki/坂本真綾 "wikilink")『[30minutes night flight](../Page/30minutes_night_flight.md "wikilink")』 - 「30minutes night flight」と「セツナ」を提供。
+  - [GIBIER du MARI](https://ja.wikipedia.org/wiki/GIBIER_du_MARI "wikilink")（[夏木マリ](../Page/夏木マリ.md "wikilink")率いるユニット）『GIBIER du MARI2』 - 「Fly〜Higher\&Higher」を提供。
+  - [晴晴゛](../Page/晴晴゛.md "wikilink")「太陽に焦がれて」（アニメ「[SDガンダムフォース](../Page/SDガンダムフォース.md "wikilink")」のオープニングテーマ）
+  - [原田知世](https://ja.wikipedia.org/wiki/原田知世 "wikilink")「夜想曲」（映画『[ルパン三世 sweet lost night 〜魔法のランプは悪夢の予感〜](../Page/ルパン三世_sweet_lost_night_〜魔法のランプは悪夢の予感〜.md "wikilink")』のエンディングテーマ。山田が作詞を担当）
+  - あまえ隊っ\!\!「あふれてゆくのはこの気持ち」（アニメ『[あまえないでよっ\!\!](../Page/あまえないでよっ!!.md "wikilink")』のオープニングテーマ）
+  - [ピストルバルブ](../Page/ピストルバルブ.md "wikilink") 「Good-looking dreamer」関西テレビ系『イケメンデルの法則』テーマソング（山田は作曲を担当）。
   - [シェリル・ノーム](https://ja.wikipedia.org/wiki/シェリル・ノーム "wikilink")「イゾラド」（『[ユニバーサル・バニー](https://ja.wikipedia.org/wiki/ユニバーサル・バニー "wikilink")』収録。山田が作詞を担当。作曲は[菅野よう子](../Page/菅野よう子.md "wikilink")）
   - シェリル・ノーム「Merry Christmas without You」（『[cosmic cuune](https://ja.wikipedia.org/wiki/cosmic_cuune "wikilink")』収録。山田が作詞を担当。作曲は[菅野よう子](../Page/菅野よう子.md "wikilink")）
-  - [中島愛](https://ja.wikipedia.org/wiki/中島愛_\(声優\) "wikilink")「金色〜君を好きになってよかった」（『[Be With You](https://ja.wikipedia.org/wiki/Be_With_You_\(アルバム\) "wikilink")』山田が作詞を担当。作曲は[菅野よう子](../Page/菅野よう子.md "wikilink")）
+  - [中島愛](../Page/中島愛_\(声優\).md "wikilink")「金色〜君を好きになってよかった」（『[Be With You](https://ja.wikipedia.org/wiki/Be_With_You_\(アルバム\) "wikilink")』山田が作詞を担当。作曲は[菅野よう子](../Page/菅野よう子.md "wikilink")）
   - 中島愛「最高の瞬間」『ワタシノセカイ』（山田が作詞を担当。作曲は[古川貴浩](https://ja.wikipedia.org/wiki/古川貴浩 "wikilink")）
-  - 吉谷彩子「恋のオーケストラ」「放課後の約束」（アニメ「[謎の彼女X](https://ja.wikipedia.org/wiki/謎の彼女X "wikilink")」OP／ED。山田が作詞を担当。作曲は[北川勝利](https://ja.wikipedia.org/wiki/北川勝利 "wikilink")）
+  - 吉谷彩子「恋のオーケストラ」「放課後の約束」（アニメ「[謎の彼女X](../Page/謎の彼女X.md "wikilink")」OP／ED。山田が作詞を担当。作曲は[北川勝利](https://ja.wikipedia.org/wiki/北川勝利 "wikilink")）
   - Max Boys「HEART & SOUL」「ハートブレイカー」（『大切なうた』収録）
   - 千菅春香「愛の詩 - words of love」（作詞を担当。作曲はラスマス・フェーバー）
 

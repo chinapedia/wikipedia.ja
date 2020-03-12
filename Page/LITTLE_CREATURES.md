@@ -1,18 +1,18 @@
 > この記事は[LITTLE CREATURES](https://ja.wikipedia.org/wiki/LITTLE_CREATURES)から翻訳されています。
 
 
-**LITTLE CREATURES**（リトル・クリーチャーズ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の3人組[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")である。音楽性は、[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")、[ジャズ](../Page/ジャズ.md "wikilink")、[ロック](../Page/ロック_\(音楽\).md "wikilink")、[民族音楽](../Page/民族音楽.md "wikilink")といったジャンルを取り込んだ、クロスオーバーサウンドにあり、発表される[アルバム](../Page/アルバム.md "wikilink")ごとに多彩な変化を示している。近年では、音数の少ないクリーンでモダンなアコースティックサウンドを志向している。
+**LITTLE CREATURES**（リトル・クリーチャーズ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の3人組[音楽ユニット](../Page/音楽ユニット.md "wikilink")である。音楽性は、[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")、[ジャズ](../Page/ジャズ.md "wikilink")、[ロック](../Page/ロック_\(音楽\).md "wikilink")、[民族音楽](../Page/民族音楽.md "wikilink")といったジャンルを取り込んだ、クロスオーバーサウンドにあり、発表される[アルバム](../Page/アルバム.md "wikilink")ごとに多彩な変化を示している。近年では、音数の少ないクリーンでモダンなアコースティックサウンドを志向している。
 
 ## 略歴
 
-  - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年） - [和光高校在学中に結成](https://ja.wikipedia.org/wiki/学校法人和光学園 "wikilink")。
-  - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（平成2年） - 19代目[イカ天キングに輝き](https://ja.wikipedia.org/wiki/三宅裕司のいかすバンド天国 "wikilink")、[ミディ](https://ja.wikipedia.org/wiki/ミディ "wikilink")からデビュー。
-  - [1999年](../Page/1999年.md "wikilink")（平成11年） - [中山美穂](https://ja.wikipedia.org/wiki/中山美穂 "wikilink")のアルバム「[Manifesto](https://ja.wikipedia.org/wiki/Manifesto "wikilink")」を[プロデュース](https://ja.wikipedia.org/wiki/プロデュース "wikilink")、及びライブツアーに参加。
+  - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年） - [和光高校在学中に結成](../Page/学校法人和光学園.md "wikilink")。
+  - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（平成2年） - 19代目[イカ天キングに輝き](../Page/三宅裕司のいかすバンド天国.md "wikilink")、[ミディ](https://ja.wikipedia.org/wiki/ミディ "wikilink")からデビュー。
+  - [1999年](../Page/1999年.md "wikilink")（平成11年） - [中山美穂](../Page/中山美穂.md "wikilink")のアルバム「[Manifesto](https://ja.wikipedia.org/wiki/Manifesto "wikilink")」を[プロデュース](https://ja.wikipedia.org/wiki/プロデュース "wikilink")、及びライブツアーに参加。
 
 ## メンバー
 
   - **[青柳拓次](https://ja.wikipedia.org/wiki/青柳拓次 "wikilink")** （あおやぎたくじ、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[12月8日](../Page/12月8日.md "wikilink") - ） [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ギター](../Page/ギター.md "wikilink")。ソロ活動なども行っている。
-  - **[鈴木正人](https://ja.wikipedia.org/wiki/鈴木正人_\(ミュージシャン\) "wikilink")** （すずきまさと、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[6月6日](../Page/6月6日.md "wikilink") - ） [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")・[キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")。
+  - **[鈴木正人](https://ja.wikipedia.org/wiki/鈴木正人_\(ミュージシャン\) "wikilink")** （すずきまさと、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[6月6日](../Page/6月6日.md "wikilink") - ） [ベース](../Page/ベース_\(弦楽器\).md "wikilink")・[キーボード](../Page/キーボード_\(楽器\).md "wikilink")。
   - **[栗原務](https://ja.wikipedia.org/wiki/栗原務_\(ドラマー\) "wikilink")** （くりはらつとむ、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[8月7日](../Page/8月7日.md "wikilink") - ） [ドラム](https://ja.wikipedia.org/wiki/ドラム "wikilink")・[パーカッション](../Page/パーカッション.md "wikilink")。
 
 ## ディスコグラフィー
@@ -447,14 +447,14 @@
 <td><p>VICL-63703</p></td>
 <td><ol>
 <li>NIGHT PEOPLE / <a href="https://ja.wikipedia.org/wiki/小山田圭吾" title="wikilink">CORNELIUS</a></li>
-<li>MOSQUITO CURTAIN / <a href="https://ja.wikipedia.org/wiki/SPECIAL_OTHERS" title="wikilink">SPECIAL OTHERS</a></li>
+<li>MOSQUITO CURTAIN / <a href="../Page/SPECIAL_OTHERS.md" title="wikilink">SPECIAL OTHERS</a></li>
 <li>MURKY WATERS / <a href="../Page/くるり.md" title="wikilink">くるり</a></li>
 <li>MUDDY SKY / <a href="https://ja.wikipedia.org/wiki/UA_(歌手)" title="wikilink">UA</a></li>
-<li>FOR EASE / <a href="https://ja.wikipedia.org/wiki/トクマルシューゴ" title="wikilink">トクマルシューゴ</a></li>
-<li>HE PASSED DEEPLY / <a href="https://ja.wikipedia.org/wiki/toe" title="wikilink">toe</a> feat.<a href="https://ja.wikipedia.org/wiki/コトリンゴ" title="wikilink">コトリンゴ</a></li>
-<li>WALKING ROUND IN CIRCLES / <a href="https://ja.wikipedia.org/wiki/ハナレグミ" title="wikilink">ハナレグミ</a></li>
-<li>HOUSE OF PIANO / <a href="https://ja.wikipedia.org/wiki/向井秀徳" title="wikilink">向井秀徳</a></li>
-<li>NEED YOUR LOVE / <a href="https://ja.wikipedia.org/wiki/HIFANA" title="wikilink">HIFANA</a> &amp; <a href="https://ja.wikipedia.org/wiki/鎮座DOPENESS" title="wikilink">鎮座DOPENESS</a></li>
+<li>FOR EASE / <a href="../Page/トクマルシューゴ.md" title="wikilink">トクマルシューゴ</a></li>
+<li>HE PASSED DEEPLY / <a href="https://ja.wikipedia.org/wiki/toe" title="wikilink">toe</a> feat.<a href="../Page/コトリンゴ.md" title="wikilink">コトリンゴ</a></li>
+<li>WALKING ROUND IN CIRCLES / <a href="../Page/ハナレグミ.md" title="wikilink">ハナレグミ</a></li>
+<li>HOUSE OF PIANO / <a href="../Page/向井秀徳.md" title="wikilink">向井秀徳</a></li>
+<li>NEED YOUR LOVE / <a href="../Page/HIFANA.md" title="wikilink">HIFANA</a> &amp; <a href="https://ja.wikipedia.org/wiki/鎮座DOPENESS" title="wikilink">鎮座DOPENESS</a></li>
 <li>FOUR IN THE MORNING / <a href="https://ja.wikipedia.org/wiki/クラムボン_(バンド)" title="wikilink">clammbon</a></li>
 </ol></td>
 <td><p>Labels UNITED</p></td>
@@ -484,7 +484,7 @@
 | 発売日         | タイトル                                                                                                                 | 規格品番       | 収録曲                                                                   | 備考                                  |
 | ----------- | -------------------------------------------------------------------------------------------------------------------- | ---------- | --------------------------------------------------------------------- | ----------------------------------- |
 | 2007年04月25日 | **細野晴臣トリビュートアルバム - Tribute to Haruomi Hosono-**                                                                      | RZCM-45511 | 5\. [ハイスクールララバイ](https://ja.wikipedia.org/wiki/ハイスクールララバイ "wikilink") | commmons                            |
-| 2009年10月21日 | **[くるり鶏びゅ〜と](https://ja.wikipedia.org/wiki/くるり鶏びゅ〜と "wikilink")**                                                    | BNCL-40    | 13\. [ハイウェイ](https://ja.wikipedia.org/wiki/ハイウェイ_\(曲\) "wikilink")    | SPEEDSTAR / NOISE McCARTNEY RECORDS |
+| 2009年10月21日 | **[くるり鶏びゅ〜と](https://ja.wikipedia.org/wiki/くるり鶏びゅ〜と "wikilink")**                                                    | BNCL-40    | 13\. [ハイウェイ](../Page/ハイウェイ_\(曲\).md "wikilink")                       | SPEEDSTAR / NOISE McCARTNEY RECORDS |
 | 2012年03月21日 | **[Happy Holidays\!〜80's POPS COVERS〜](https://ja.wikipedia.org/wiki/Happy_Holidays!〜80's_POPS_COVERS〜 "wikilink")** | AQCD-50658 | 10\. ハイスクール・ララバイ                                                      | avex infinity                       |
 |             |                                                                                                                      |            |                                                                       |                                     |
 
@@ -498,7 +498,7 @@
 | ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | **監督**                                                | **曲名**                                                                                                               |
 | [大関泰幸](https://ja.wikipedia.org/wiki/大関泰幸 "wikilink") | 「MUDDY SKY」                                                                                                          |
-| [山口保幸](https://ja.wikipedia.org/wiki/山口保幸 "wikilink") | 「Mosquito Curtain」「NIGHT PEOPLE」「[The Sand Cage](https://www.youtube.com/watch?v=wxNzJQthp8U)」「stray dog is walking」 |
+| [山口保幸](../Page/山口保幸.md "wikilink")                    | 「Mosquito Curtain」「NIGHT PEOPLE」「[The Sand Cage](https://www.youtube.com/watch?v=wxNzJQthp8U)」「stray dog is walking」 |
 | [菅谷晋一](https://ja.wikipedia.org/wiki/菅谷晋一 "wikilink") | 「Inner City Life」                                                                                                    |
 | 不明                                                    | 「GIANTS ARE DYING」「NEED YOUR LOVE」「THINGS TO HIDE」「drift」「foolish king」                                              |
 |                                                       |                                                                                                                      |
@@ -518,14 +518,14 @@
   - 2011年07月30日 - FUJI ROCK FESTIVAL '11
   - 2011年08月07日 - [WORLD HAPPINESS](https://ja.wikipedia.org/wiki/WORLD_HAPPINESS "wikilink") 2011
   - 2011年08月13日 - [RISING SUN ROCK FESTIVAL](https://ja.wikipedia.org/wiki/RISING_SUN_ROCK_FESTIVAL "wikilink") 2011 in EZO
-  - 2011年08月28日 - [ARABAKI ROCK FEST.](https://ja.wikipedia.org/wiki/ARABAKI_ROCK_FEST. "wikilink")11
+  - 2011年08月28日 - [ARABAKI ROCK FEST.](../Page/ARABAKI_ROCK_FEST..md "wikilink")11
   - 2011年09月03日 - [19th Sunset Live 2011–Love & Unity–](https://ja.wikipedia.org/wiki/サンセットライブ "wikilink")
   - 2012年09月16日 - alternative tokyo
   - 2013年05月11日 - 森、道、市場 2013 ～風薫る、余韻の森へ。～
   - 2013年05月31日 - clammbon faVS\!\!\!
   - 2013年11月13日・19日 - TRIPLE FUNK
   - 2014年07月27日 - 10TONES
-  - 2014年12月30日 - [信藤三雄](https://ja.wikipedia.org/wiki/信藤三雄 "wikilink")と[湯山玲子](https://ja.wikipedia.org/wiki/湯山玲子 "wikilink") 新ニッポン無責任時代 大忘年会1230
+  - 2014年12月30日 - [信藤三雄](../Page/信藤三雄.md "wikilink")と[湯山玲子](https://ja.wikipedia.org/wiki/湯山玲子 "wikilink") 新ニッポン無責任時代 大忘年会1230
   - 2016年05月14日 - CIRCLE '16
   - 2016年07月22日 - FUJI ROCK FESTIVAL '16
   - 2016年08月21日 - LIQUIDROOM12thANNIVERSARY ～カクバリズムの夏祭り～
@@ -534,15 +534,15 @@
 
 ## 関連項目
 
-  - [櫛引彩香](https://ja.wikipedia.org/wiki/櫛引彩香 "wikilink")
+  - [櫛引彩香](../Page/櫛引彩香.md "wikilink")
   - [クラムボン](https://ja.wikipedia.org/wiki/クラムボン_\(バンド\) "wikilink")
-  - [Double Famous](https://ja.wikipedia.org/wiki/Double_Famous "wikilink")
-  - [永山マキ](https://ja.wikipedia.org/wiki/永山マキ "wikilink")
-  - [畠山美由紀](https://ja.wikipedia.org/wiki/畠山美由紀 "wikilink")
-  - [Port of Notes](https://ja.wikipedia.org/wiki/Port_of_Notes "wikilink")
-  - [稲垣潤一](https://ja.wikipedia.org/wiki/稲垣潤一 "wikilink")「虹」（作曲・編曲）；アルバム「[V.O.Z.](https://ja.wikipedia.org/wiki/V.O.Z. "wikilink")」収録、「[ドラマティック・レイン](https://ja.wikipedia.org/wiki/ドラマティック・レイン "wikilink")」（編曲）；アルバム「FM AOR～Respect Remix For JUNICHI INAGAKI～」収録。
-  - [GEISHA GIRLS](https://ja.wikipedia.org/wiki/GEISHA_GIRLS "wikilink") アルバム「THE GEISHA GIRLS SHOW～炎のおっさんアワー」収録の「おいちゃん」に青柳拓次がギターで参加。
-  - [三宅裕司のいかすバンド天国に出場したバンド](https://ja.wikipedia.org/wiki/三宅裕司のいかすバンド天国に出場したバンド "wikilink")
+  - [Double Famous](../Page/Double_Famous.md "wikilink")
+  - [永山マキ](../Page/永山マキ.md "wikilink")
+  - [畠山美由紀](../Page/畠山美由紀.md "wikilink")
+  - [Port of Notes](../Page/Port_of_Notes.md "wikilink")
+  - [稲垣潤一](../Page/稲垣潤一.md "wikilink")「虹」（作曲・編曲）；アルバム「[V.O.Z.](https://ja.wikipedia.org/wiki/V.O.Z. "wikilink")」収録、「[ドラマティック・レイン](https://ja.wikipedia.org/wiki/ドラマティック・レイン "wikilink")」（編曲）；アルバム「FM AOR～Respect Remix For JUNICHI INAGAKI～」収録。
+  - [GEISHA GIRLS](../Page/GEISHA_GIRLS.md "wikilink") アルバム「THE GEISHA GIRLS SHOW～炎のおっさんアワー」収録の「おいちゃん」に青柳拓次がギターで参加。
+  - [三宅裕司のいかすバンド天国に出場したバンド](../Page/三宅裕司のいかすバンド天国に出場したバンド.md "wikilink")
 
 ## 外部リンク
 

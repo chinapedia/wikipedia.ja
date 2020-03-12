@@ -1,13 +1,13 @@
 > この記事は[Boin](https://ja.wikipedia.org/wiki/Boin)から翻訳されています。
 
 
-『**boin**』（ボイン）は、[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[9月24日](../Page/9月24日.md "wikilink")に[Crossnet-Pieより発売された](https://ja.wikipedia.org/wiki/CROSSNET "wikilink")[18禁](../Page/アダルトゲーム.md "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")、及びそれを原作として制作された[アダルトアニメ](../Page/アダルトアニメ.md "wikilink")。
+『**boin**』（ボイン）は、[2004年](../Page/2004年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink")に[Crossnet-Pieより発売された](../Page/CROSSNET.md "wikilink")[18禁](../Page/アダルトゲーム.md "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")、及びそれを原作として制作された[アダルトアニメ](../Page/アダルトアニメ.md "wikilink")。
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[3月16日](../Page/3月16日.md "wikilink")には、本作の結末以外の設定や世界観を引き継いだ続編『**[リゾートBOIN](https://ja.wikipedia.org/wiki/リゾートBOIN "wikilink")**』が発売された。
+[2007年](../Page/2007年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink")には、本作の結末以外の設定や世界観を引き継いだ続編『**[リゾートBOIN](../Page/リゾートBOIN.md "wikilink")**』が発売された。
 
-[2011年](../Page/2011年.md "wikilink")[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")には、本作と『リゾートBOIN』に後者の[スピンオフ](https://ja.wikipedia.org/wiki/スピンオフ "wikilink")[同人ゲーム](../Page/同人ゲーム.md "wikilink")『**おさわりBOIN**』シリーズもDVD-ROM1枚に纏めた廉価版『**Boin super pack**』が[アンダーリップ](https://ja.wikipedia.org/wiki/アンダーリップ "wikilink")より発売された。
+[2011年](../Page/2011年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")には、本作と『リゾートBOIN』に後者の[スピンオフ](../Page/スピンオフ.md "wikilink")[同人ゲーム](../Page/同人ゲーム.md "wikilink")『**おさわりBOIN**』シリーズもDVD-ROM1枚に纏めた廉価版『**Boin super pack**』が[アンダーリップ](../Page/アンダーリップ.md "wikilink")より発売された。
 
-[2012年](../Page/2012年.md "wikilink")[12月27日](../Page/12月27日.md "wikilink")には、アダルトゲーム雑誌『[メガストア](https://ja.wikipedia.org/wiki/メガストア "wikilink")』2013年2月号の付録DVD-ROMへ収録された\[1\]。
+[2012年](../Page/2012年.md "wikilink")[12月27日](../Page/12月27日.md "wikilink")には、アダルトゲーム雑誌『[メガストア](../Page/メガストア.md "wikilink")』2013年2月号の付録DVD-ROMへ収録された\[1\]。
 
 ## 概要
 
@@ -15,28 +15,28 @@
 
 ## あらすじ
 
-春、熱血教師を夢見ていた**一条大介**は、念願叶って祖母が理事長を務める女子高・私立衣更学園に新任教師として採用された。ある日、理事長室に呼ばれた大介は、理事長である祖母と従姉でもある学年主任・**衣更透子**から学園の少子化対策として検討されている新規[カリキュラム](https://ja.wikipedia.org/wiki/カリキュラム "wikilink")「職業適性診断」を担当するよう、告げられる。職業適性診断とは、「生徒が様々な職業の制服を身にまとい体験することで、自身の職業適性を知り、順応できるかを試す[ロールプレイ](https://ja.wikipedia.org/wiki/役割演技 "wikilink")」であるという。大介は嫌がるが、祖母の鶴の一声により、従妹で[幼馴染](https://ja.wikipedia.org/wiki/幼馴染 "wikilink")でもある生徒・**飯井原なお**と共に試験導入の担当者とされてしまう。
+春、熱血教師を夢見ていた**一条大介**は、念願叶って祖母が理事長を務める女子高・私立衣更学園に新任教師として採用された。ある日、理事長室に呼ばれた大介は、理事長である祖母と従姉でもある学年主任・**衣更透子**から学園の少子化対策として検討されている新規[カリキュラム](../Page/カリキュラム.md "wikilink")「職業適性診断」を担当するよう、告げられる。職業適性診断とは、「生徒が様々な職業の制服を身にまとい体験することで、自身の職業適性を知り、順応できるかを試す[ロールプレイ](../Page/役割演技.md "wikilink")」であるという。大介は嫌がるが、祖母の鶴の一声により、従妹で[幼馴染](../Page/幼馴染.md "wikilink")でもある生徒・**飯井原なお**と共に試験導入の担当者とされてしまう。
 
 ## 登場人物
 
   - 一条 大介（いちじょう だいすけ）
-    声：[中本伸輔](https://ja.wikipedia.org/wiki/中本伸輔 "wikilink")（アダルトアニメ版のみ）
+    声：[中本伸輔](../Page/中本伸輔.md "wikilink")（アダルトアニメ版のみ）
     本作の主人公。私立衣更学園の新任教師。実家は[病院](../Page/病院.md "wikilink")を経営している。祖母と透子に無理矢理、「職業適性診断」の担当者に任命される。
   - 飯井原 なお（いいはら なお）
     声：[金田まひる](../Page/金田まひる.md "wikilink")
     本作のメインヒロイン。バスト102cm（Gカップ）
     大介や透子の従妹。元気で前向きな心優しい性格だが、マイペースでそそっかしい。子供の頃は体が弱く、大介の実家である病院へ入退院を繰り返していたことがあり、彼によく面倒を見てもらっていた。その頃からずっと大介を慕っている。自分以上にマイペースな級友のみつぐのことを心配しているが、実際は暴走しがちななおをみつぐがフォローしている。
-    職業適性診断コスチュームは、[看護婦](https://ja.wikipedia.org/wiki/看護師 "wikilink")・[メイド](../Page/メイド.md "wikilink")・[ウェイトレス](https://ja.wikipedia.org/wiki/ウェイター "wikilink")（[チャイナドレス](../Page/チャイナドレス.md "wikilink")）・[スチュワーデス](../Page/客室乗務員.md "wikilink")。
+    職業適性診断コスチュームは、[看護婦](https://ja.wikipedia.org/wiki/看護師 "wikilink")・[メイド](../Page/メイド.md "wikilink")・[ウェイトレス](../Page/ウェイター.md "wikilink")（[チャイナドレス](../Page/チャイナドレス.md "wikilink")）・[スチュワーデス](../Page/客室乗務員.md "wikilink")。
   - 筑紫野 みつぐ（つくしの みつぐ）
-    声：[成瀬未亜](https://ja.wikipedia.org/wiki/成瀬未亜 "wikilink")
+    声：[成瀬未亜](../Page/成瀬未亜.md "wikilink")
     本作のヒロインの1人。バスト89cm（Eカップ）
-    筑紫野財閥の御令嬢。なおの級友で大親友。世間知らずで[天然ボケ](https://ja.wikipedia.org/wiki/天然ボケ "wikilink")。迷信やジンクスをやたら気にしており、占いやオカルトが大好き。過去に大介に（些細な）ピンチを救われたことから、大介を「運命の人」と信じ、熱心にアプローチしてくる。親友のなおが職業適性診断のテストプレーヤーであることを知り、興味を持って自身も参加する。
+    筑紫野財閥の御令嬢。なおの級友で大親友。世間知らずで[天然ボケ](../Page/天然ボケ.md "wikilink")。迷信やジンクスをやたら気にしており、占いやオカルトが大好き。過去に大介に（些細な）ピンチを救われたことから、大介を「運命の人」と信じ、熱心にアプローチしてくる。親友のなおが職業適性診断のテストプレーヤーであることを知り、興味を持って自身も参加する。
     職業適性診断コスチュームは、看護婦・巫女・ウェイトレス・教師（スーツ）。
   - 衣更 透子（ころもがえ とうこ）
     声：[内野ぽち](https://ja.wikipedia.org/wiki/内野ぽち "wikilink")
     本作のヒロインの1人。バスト116cm（Kカップ）
     大介より2、3歳年上の従姉（血縁関係はなし）。私立衣更学園の教師で、大介の上司でもあり、なおやみつぐ達の学年主任も務めている。
-    外見的にも性格的にもクールな美人だが、それは家と理事長を継ぐ者としての重責から後天的に形成されたものであり、そうした仮面を被ることに最近は疲れ始めている。面倒見の良い心優しい女性だが、冷淡な一面や隠れた[マゾ的気質も持つ](https://ja.wikipedia.org/wiki/マゾヒズム "wikilink")。
+    外見的にも性格的にもクールな美人だが、それは家と理事長を継ぐ者としての重責から後天的に形成されたものであり、そうした仮面を被ることに最近は疲れ始めている。面倒見の良い心優しい女性だが、冷淡な一面や隠れた[マゾ的気質も持つ](../Page/マゾヒズム.md "wikilink")。
     職業適性診断のカリキュラム内容の相談を受ける形で、生徒の代わりの模擬プレーヤーとして自身も参加する。
     職業適性診断コスチュームは、女子高生・軍人・ウェイトレス（和服）・医者。
   - 幕張 夏子（まくはり なつこ）
@@ -50,7 +50,7 @@
 
 ## スタッフ
 
-  - 企画：[八宝備仁](https://ja.wikipedia.org/wiki/八宝備仁 "wikilink")
+  - 企画：[八宝備仁](../Page/八宝備仁.md "wikilink")
   - 原画：八宝備仁、はしばみ
   - シナリオ：渋谷五壱、さえぐさのぞみ
 
@@ -61,13 +61,13 @@
 
 ## アダルトアニメ
 
-[Milkyより発売](https://ja.wikipedia.org/wiki/ミルキーレーベル "wikilink")。全2巻。
+[Milkyより発売](../Page/ミルキーレーベル.md "wikilink")。全2巻。
 
   - 各巻リスト
 
-:\* boin レクチャー1（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[8月25日](../Page/8月25日.md "wikilink")発売）
+:\* boin レクチャー1（[2005年](../Page/2005年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")発売）
 
-:\* boin レクチャー2（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[1月25日](../Page/1月25日.md "wikilink")発売）
+:\* boin レクチャー2（[2006年](../Page/2006年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink")発売）
 
   - スタッフ
 
@@ -98,13 +98,13 @@
 ## 関連書籍
 
   - 『BOIN BEST SELECTION』 - 『boin』オフィシャルファンブック
-    発売日：[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月24日](../Page/4月24日.md "wikilink")、出版：[宙出版](https://ja.wikipedia.org/wiki/宙出版 "wikilink")、A4サイズ/144ページ、ISBN 4-7767-9119-6
+    発売日：[2005年](../Page/2005年.md "wikilink")[4月24日](../Page/4月24日.md "wikilink")、出版：[宙出版](../Page/宙出版.md "wikilink")、A4サイズ/144ページ、ISBN 4-7767-9119-6
 
 ## 脚注
 
 ## 関連項目
 
-  - [リゾートBOIN](https://ja.wikipedia.org/wiki/リゾートBOIN "wikilink") - 本作の結末以外の設定や世界観を引き継いだ続編。
+  - [リゾートBOIN](../Page/リゾートBOIN.md "wikilink") - 本作の結末以外の設定や世界観を引き継いだ続編。
 
 ## 外部リンク
 

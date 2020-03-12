@@ -9,7 +9,7 @@
 
 ## 歴史
 
-UBS証券株式会社は、前身である[ケイマン法人のUBS証券会社](https://ja.wikipedia.org/wiki/ケイマン諸島 "wikilink")（UBS Securities Japan Ltd）東京支店を日本法人化したもので、平成24年3月から営業を行っている。
+UBS証券株式会社は、前身である[ケイマン法人のUBS証券会社](../Page/ケイマン諸島.md "wikilink")（UBS Securities Japan Ltd）東京支店を日本法人化したもので、平成24年3月から営業を行っている。
 
 ## 関連項目
 

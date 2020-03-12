@@ -1,19 +1,19 @@
 > この記事は[SDII ](https://ja.wikipedia.org/wiki/SDII_)から翻訳されています。
 
 
-|                                                                       |
-| --------------------------------------------------------------------- |
-| **[SDコマンド戦記](https://ja.wikipedia.org/wiki/SDコマンド戦記 "wikilink")シリーズ** |
-| **通番**                                                                |
-| **第1作**                                                               |
-| **第2作**                                                               |
-| **第3作**                                                               |
+|                                                    |
+| -------------------------------------------------- |
+| **[SDコマンド戦記](../Page/SDコマンド戦記.md "wikilink")シリーズ** |
+| **通番**                                             |
+| **第1作**                                            |
+| **第2作**                                            |
+| **第3作**                                            |
 
-**SDコマンド戦記II ガンダムフォース**は、[SDコマンド戦記](https://ja.wikipedia.org/wiki/SDコマンド戦記 "wikilink")シリーズの第二作である。
+**SDコマンド戦記II ガンダムフォース**は、[SDコマンド戦記](../Page/SDコマンド戦記.md "wikilink")シリーズの第二作である。
 
 ## 概要
 
-前作[G-ARMSに引き続き企画された](https://ja.wikipedia.org/wiki/SDコマンド戦記_G-ARMS "wikilink")。前作のミリタリー色とは異なり、悪に支配された荒廃した街を舞台とした、近未来設定が描かれた。[デラックスボンボン](https://ja.wikipedia.org/wiki/デラックスボンボン "wikilink")における漫画連載（漫画：[神田正宏](https://ja.wikipedia.org/wiki/神田正宏 "wikilink")）、ボンボンKC『[元祖\! SDガンダム](https://ja.wikipedia.org/wiki/元祖!_SDガンダム "wikilink")』のマンガや玩具の元祖SDガンダムなどで引き続き展開。アーマーの着脱などで変形する玩具が多く発売された。
+前作[G-ARMSに引き続き企画された](../Page/SDコマンド戦記_G-ARMS.md "wikilink")。前作のミリタリー色とは異なり、悪に支配された荒廃した街を舞台とした、近未来設定が描かれた。[デラックスボンボン](../Page/デラックスボンボン.md "wikilink")における漫画連載（漫画：[神田正宏](https://ja.wikipedia.org/wiki/神田正宏 "wikilink")）、ボンボンKC『[元祖\! SDガンダム](https://ja.wikipedia.org/wiki/元祖!_SDガンダム "wikilink")』のマンガや玩具の元祖SDガンダムなどで引き続き展開。アーマーの着脱などで変形する玩具が多く発売された。
 
 ## あらすじ
 
@@ -53,15 +53,15 @@
       - ファイヤーブレイザー
         キャプテンアレックスが搭乗する特殊トレーラー。サポートメンバーが乗り込むコンテナポッドを搭載可能で、状況に応じて使い分けることができる。
           - 1号ポッド
-            相変わらずの改造マニア**Dr.[ガンタンク](../Page/ガンタンク.md "wikilink")**と助手**[ヘビーガン](https://ja.wikipedia.org/wiki/ヘビーガン "wikilink")**、看護師**ナース[ボール](../Page/ボール_\(ガンダムシリーズ\).md "wikilink")**からなるレスキューチーム。
+            相変わらずの改造マニア**Dr.[ガンタンク](../Page/ガンタンク.md "wikilink")**と助手**[ヘビーガン](../Page/ヘビーガン.md "wikilink")**、看護師**ナース[ボール](../Page/ボール_\(ガンダムシリーズ\).md "wikilink")**からなるレスキューチーム。
           - 2号ポッド
             **ブレイズキャノン**（[ガンキャノン量産型](https://ja.wikipedia.org/wiki/ガンキャノン#量産型 "wikilink")）、苦労人**[リック・ディアス](../Page/リック・ディアス.md "wikilink")**、**レスキューボール**の消防チーム。
           - 3号ポッド
             酒好きの**[ジム・キャノンII](https://ja.wikipedia.org/wiki/ジム・キャノン#ジム・キャノンII "wikilink")**、**ブルタンクR-44**（[ガンタンクR-44](https://ja.wikipedia.org/wiki/フォーミュラ計画#ガンタンクR-44 "wikilink")）、**ドーザーボール**の工作チーム。
           - 4号ポッド
-            水中活動チーム。キザな**[メタス](https://ja.wikipedia.org/wiki/メタス "wikilink")**、水中が大好きな**[リ・ガズィ](../Page/リ・ガズィ.md "wikilink")**、**ダイバーボール**の大所帯。
+            水中活動チーム。キザな**[メタス](../Page/メタス.md "wikilink")**、水中が大好きな**[リ・ガズィ](../Page/リ・ガズィ.md "wikilink")**、**ダイバーボール**の大所帯。
           - 5号ポッド
-            戦闘チーム。アイドルおたく**[ジムIII](https://ja.wikipedia.org/wiki/ジムIII "wikilink")**、温厚な**[ディジェ](https://ja.wikipedia.org/wiki/リック・ディアス#ディジェ "wikilink")**、**コンバットボール**を擁する。
+            戦闘チーム。アイドルおたく**[ジムIII](../Page/ジムIII.md "wikilink")**、温厚な**[ディジェ](https://ja.wikipedia.org/wiki/リック・ディアス#ディジェ "wikilink")**、**コンバットボール**を擁する。
 
 #### プラズマフォース
 
@@ -91,7 +91,7 @@
     寡黙なベーシスト。気合を入れると電撃と共に髪が逆立つ。
     元祖SDガンダム No.104
   - ハリケーンガンダム（[ΖΖガンダム](https://ja.wikipedia.org/wiki/ΖΖガンダム "wikilink")\[5\]）
-    ドラマー。お祭り大好き。[エドモンド本田](https://ja.wikipedia.org/wiki/エドモンド本田 "wikilink")に似ている。
+    ドラマー。お祭り大好き。[エドモンド本田](../Page/エドモンド本田.md "wikilink")に似ている。
   - ミディガンダム（[νガンダム](https://ja.wikipedia.org/wiki/νガンダム "wikilink")\[6\]）
     キーボーディスト。芸術家タイプでキザ。1991年頃の[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")に似ている。
   - トロンちゃん
@@ -102,7 +102,7 @@
 #### その他
 
   - スターガンダムGP01（[ガンダムGP01Fb](https://ja.wikipedia.org/wiki/ガンダム開発計画#ガンダム試作1号機フルバーニアン "wikilink")）
-    突如飛来したVコマンド直属の部下。詳細は[SDコマンド戦記III SUPER G-ARMSにて](https://ja.wikipedia.org/wiki/SDコマンド戦記III_SUPER_G-ARMS "wikilink")。
+    突如飛来したVコマンド直属の部下。詳細は[SDコマンド戦記III SUPER G-ARMSにて](../Page/SDコマンド戦記III_SUPER_G-ARMS.md "wikilink")。
     元祖SDガンダム No.108
   - ブラックベレーガンダム
     レッドベレーガンダム
@@ -112,29 +112,29 @@
 
 #### フューチャーカンパニー
 
-  - ジオ（[ジ・O](https://ja.wikipedia.org/wiki/ジ・O "wikilink")\[7\]）
+  - ジオ（[ジ・O](../Page/ジ・O.md "wikilink")\[7\]）
     フューチャーカンパニー社長。ジオニックコネクションの最高権力者。予言者を自称する。
 
-  - [バウンド・ドック](https://ja.wikipedia.org/wiki/バウンド・ドック "wikilink")
+  - [バウンド・ドック](../Page/バウンド・ドック.md "wikilink")
     ジオの傍に控える[番犬](https://ja.wikipedia.org/wiki/番犬 "wikilink")。二体のMSに分離して襲ってくる。
 
-    他に殺人鬼**[ジェイソン](https://ja.wikipedia.org/wiki/ジェイソン・ボーヒーズ "wikilink")[アッシマー](https://ja.wikipedia.org/wiki/アッシマー "wikilink")**、幻術師**[ボリノーク・サマーン](https://ja.wikipedia.org/wiki/ティターンズの機動兵器#ボリノーク・サマーン "wikilink")**、吸血鬼**[メッサーラ](https://ja.wikipedia.org/wiki/ティターンズの機動兵器#メッサーラ "wikilink")**らがいる。
+    他に殺人鬼**[ジェイソン](../Page/ジェイソン・ボーヒーズ.md "wikilink")[アッシマー](../Page/アッシマー.md "wikilink")**、幻術師**[ボリノーク・サマーン](https://ja.wikipedia.org/wiki/ティターンズの機動兵器#ボリノーク・サマーン "wikilink")**、吸血鬼**[メッサーラ](https://ja.wikipedia.org/wiki/ティターンズの機動兵器#メッサーラ "wikilink")**らがいる。
 
   - ザウエルRジャジャ（[R・ジャジャ](https://ja.wikipedia.org/wiki/ネオ・ジオンの機動兵器#R・ジャジャ "wikilink")）
     しぶとく生き延びたRジャジャ。フューチャーカンパニーの元で指揮を振るう。
 
-    前作に引き続き側近として**[ギラ・ドーガ](https://ja.wikipedia.org/wiki/ギラ・ドーガ "wikilink")**、**[クィン・マンサ](https://ja.wikipedia.org/wiki/クィン・マンサ "wikilink")**が控えている。
+    前作に引き続き側近として**[ギラ・ドーガ](../Page/ギラ・ドーガ.md "wikilink")**、**[クィン・マンサ](../Page/クィン・マンサ.md "wikilink")**が控えている。
 
   - [ビグ・ザム](../Page/ビグ・ザム.md "wikilink")
     ジオが密かに地下に建造していた巨大兵器。
 
-  - バウンティハンターグフ（[グフ](https://ja.wikipedia.org/wiki/グフ "wikilink")\[8\]）
+  - バウンティハンターグフ（[グフ](../Page/グフ.md "wikilink")\[8\]）
 
 <!-- end list -->
 
   -
     ガンダムフォースに苦戦するジオが招いた強力な[賞金稼ぎ](https://ja.wikipedia.org/wiki/賞金稼ぎ "wikilink")。剣のみで戦う武人。
-    その正体はキャトル＆ゲゼが作った暗殺用サイボーグ、ザクバーダインスケルトンT800である。元ネタは[ターミネーターシリーズ](https://ja.wikipedia.org/wiki/ターミネーターシリーズ "wikilink")のサイバーダイン[T-800](https://ja.wikipedia.org/wiki/T-800 "wikilink")。
+    その正体はキャトル＆ゲゼが作った暗殺用サイボーグ、ザクバーダインスケルトンT800である。元ネタは[ターミネーターシリーズ](../Page/ターミネーターシリーズ.md "wikilink")のサイバーダイン[T-800](../Page/T-800.md "wikilink")。
     元祖SDガンダム No.105
 
 #### コスモ・ザタリオン
@@ -150,25 +150,25 @@
 
 #### アナハイム・バイオニック・オーガニゼーション
 
-  - Pro.[ゲゼ](https://ja.wikipedia.org/wiki/ゲゼ "wikilink")＆Dr.[キャトル](../Page/キャトル_\(ガンダムシリーズ\).md "wikilink")＆助手[ゾック](../Page/ゾック.md "wikilink")
-    ザタリオン帝国の兵器開発部門がそのままジオニック・コネクションに吸収されたもの。足をかくくらいしか能のない**フレディビグロブロ**（[ビグロ](../Page/ビグロ.md "wikilink")/[ブラウ・ブロ](../Page/ブラウ・ブロ.md "wikilink")/[グラブロ](https://ja.wikipedia.org/wiki/グラブロ "wikilink")/[フレディ](https://ja.wikipedia.org/wiki/エルム街の悪夢#フレディ・クルーガー "wikilink")）や、[ザクレロ](../Page/ザクレロ.md "wikilink")を無数にバリエーションを付けて製作するなど変な発明は相変わらず。だが海中モンスター**[カプール](https://ja.wikipedia.org/wiki/カプール "wikilink")**や、空中モンスター**[エルメス](../Page/エルメス_\(ガンダムシリーズ\).md "wikilink")**も開発している。
+  - Pro.[ゲゼ](../Page/ゲゼ.md "wikilink")＆Dr.[キャトル](../Page/キャトル_\(ガンダムシリーズ\).md "wikilink")＆助手[ゾック](../Page/ゾック.md "wikilink")
+    ザタリオン帝国の兵器開発部門がそのままジオニック・コネクションに吸収されたもの。足をかくくらいしか能のない**フレディビグロブロ**（[ビグロ](../Page/ビグロ.md "wikilink")/[ブラウ・ブロ](../Page/ブラウ・ブロ.md "wikilink")/[グラブロ](https://ja.wikipedia.org/wiki/グラブロ "wikilink")/[フレディ](https://ja.wikipedia.org/wiki/エルム街の悪夢#フレディ・クルーガー "wikilink")）や、[ザクレロ](../Page/ザクレロ.md "wikilink")を無数にバリエーションを付けて製作するなど変な発明は相変わらず。だが海中モンスター**[カプール](../Page/カプール.md "wikilink")**や、空中モンスター**[エルメス](../Page/エルメス_\(ガンダムシリーズ\).md "wikilink")**も開発している。
 
 #### ライオットアマゾネス
 
-  - [キュベレイ](https://ja.wikipedia.org/wiki/キュベレイ "wikilink")
+  - [キュベレイ](../Page/キュベレイ.md "wikilink")
     交通手段を支配する女子プロレスラー集団、ライオットアマゾネスのリーダー。バイクに変形する。
-    暴れるのが大好きな**アジャザク**（[ザクZ](https://ja.wikipedia.org/wiki/ザクZ "wikilink")/[アジャ・コング](https://ja.wikipedia.org/wiki/アジャ・コング "wikilink")）、**ゲーマルク中野**（[ゲーマルク](https://ja.wikipedia.org/wiki/ゲーマルク "wikilink")/[ブル中野](https://ja.wikipedia.org/wiki/ブル中野 "wikilink")）のコンビや、ロードウォリアーズの追っかけをしている**[パラス・アテネ](https://ja.wikipedia.org/wiki/パラス・アテネ "wikilink")**、**[ハンマ・ハンマ](https://ja.wikipedia.org/wiki/ハンマ・ハンマ "wikilink")**、養子軍団**[キュベレイ量産型](https://ja.wikipedia.org/wiki/キュベレイ#量産型キュベレイ "wikilink")**。
+    暴れるのが大好きな**アジャザク**（[ザクZ](https://ja.wikipedia.org/wiki/ザクZ "wikilink")/[アジャ・コング](../Page/アジャ・コング.md "wikilink")）、**ゲーマルク中野**（[ゲーマルク](https://ja.wikipedia.org/wiki/ゲーマルク "wikilink")/[ブル中野](../Page/ブル中野.md "wikilink")）のコンビや、ロードウォリアーズの追っかけをしている**[パラス・アテネ](https://ja.wikipedia.org/wiki/パラス・アテネ "wikilink")**、**[ハンマ・ハンマ](https://ja.wikipedia.org/wiki/ハンマ・ハンマ "wikilink")**、養子軍団**[キュベレイ量産型](https://ja.wikipedia.org/wiki/キュベレイ#量産型キュベレイ "wikilink")**。
 
 #### テキサスロードウォリアーズ
 
-リードギター兼ボーカルの**ザック・ワイルド**（[ハイザック](https://ja.wikipedia.org/wiki/ハイザック "wikilink")/[ザック・ワイルド](https://ja.wikipedia.org/wiki/ザック・ワイルド "wikilink")）、キーボーディスト**エディ・ギャンヘイレン**（[ギャン](../Page/ギャン.md "wikilink")/[エディ・ヴァン・ヘイレン](https://ja.wikipedia.org/wiki/エドワード・ヴァン・ヘイレン "wikilink")）、ベーシスト**ゲルググ・シーン**（[ゲルググ](../Page/ゲルググ.md "wikilink")/[ビリー・シーン](https://ja.wikipedia.org/wiki/ビリー・シーン "wikilink")）、ドラマー**ドム・パウエル**（[ドム](../Page/ドム.md "wikilink")/[コージー・パウエル](https://ja.wikipedia.org/wiki/コージー・パウエル "wikilink")）から成るバンド。クラッシャーズの人気に嫉妬し妨害工作をたくらむ。
+リードギター兼ボーカルの**ザック・ワイルド**（[ハイザック](../Page/ハイザック.md "wikilink")/[ザック・ワイルド](../Page/ザック・ワイルド.md "wikilink")）、キーボーディスト**エディ・ギャンヘイレン**（[ギャン](../Page/ギャン.md "wikilink")/[エディ・ヴァン・ヘイレン](../Page/エドワード・ヴァン・ヘイレン.md "wikilink")）、ベーシスト**ゲルググ・シーン**（[ゲルググ](../Page/ゲルググ.md "wikilink")/[ビリー・シーン](../Page/ビリー・シーン.md "wikilink")）、ドラマー**ドム・パウエル**（[ドム](../Page/ドム.md "wikilink")/[コージー・パウエル](../Page/コージー・パウエル.md "wikilink")）から成るバンド。クラッシャーズの人気に嫉妬し妨害工作をたくらむ。
 
 ### ブラッディ・ファミリー
 
   - ドンブラッディ（[ドズル専用ザク](https://ja.wikipedia.org/wiki/ザクII#量産型ザクII "wikilink")\[10\]）
     宇宙へ飛び立ったVコマンドガンダムと決着を付けるべく、宇宙戦艦建造を企む、かつてのブラッディザク。陸軍兵士らをファミリーとし、ジオニックコネクションの企業を襲って資金集めをしている。
   - ケンプファー（[ケンプファー](../Page/ケンプファー.md "wikilink")）
-    [ボルサリーノ](https://ja.wikipedia.org/wiki/ボルサリーノ "wikilink")を被りマフィア然となったかつての陸軍将軍。ブラッディに付き従う。
+    [ボルサリーノ](../Page/ボルサリーノ.md "wikilink")を被りマフィア然となったかつての陸軍将軍。ブラッディに付き従う。
     部下はガトリング砲に換装した**[ガザD](https://ja.wikipedia.org/wiki/ガザC#ガザD "wikilink")**、空を飛べるようになった**[ザクII](https://ja.wikipedia.org/wiki/ザクII#最終生産型ザクII（ザク改） "wikilink")**、**ドム**（[リック・ドムII](https://ja.wikipedia.org/wiki/リック・ドム#バリエーション "wikilink")）。
 
 ### その他
@@ -184,10 +184,10 @@
 ## 関連項目
 
   - [SDガンダム](../Page/SDガンダム.md "wikilink")
-  - [SDコマンド戦記](https://ja.wikipedia.org/wiki/SDコマンド戦記 "wikilink")
-      - [SDコマンド戦記 G-ARMS](https://ja.wikipedia.org/wiki/SDコマンド戦記_G-ARMS "wikilink")
-  - [武者ガンダム](https://ja.wikipedia.org/wiki/武者ガンダム "wikilink")
-  - [騎士ガンダム](https://ja.wikipedia.org/wiki/騎士ガンダム "wikilink")
+  - [SDコマンド戦記](../Page/SDコマンド戦記.md "wikilink")
+      - [SDコマンド戦記 G-ARMS](../Page/SDコマンド戦記_G-ARMS.md "wikilink")
+  - [武者ガンダム](../Page/武者ガンダム.md "wikilink")
+  - [騎士ガンダム](../Page/騎士ガンダム.md "wikilink")
 
 [Category:SDガンダム](https://ja.wikipedia.org/wiki/Category:SDガンダム "wikilink")
 

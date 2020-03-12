@@ -1,7 +1,7 @@
 > この記事は[Takuma](https://ja.wikipedia.org/wiki/Takuma)から翻訳されています。
 
 
-**TAKUMA**（たくま、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[11月17日](../Page/11月17日.md "wikilink") - ）は日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")。[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](https://ja.wikipedia.org/wiki/大阪市 "wikilink")出身。[血液型はO型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。身長172-173cmくらい、体重は57kgくらい、靴の大きさは、27.0cm。
+**TAKUMA**（たくま、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[11月17日](../Page/11月17日.md "wikilink") - ）は日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")。[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")出身。[血液型はO型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。身長172-173cmくらい、体重は57kgくらい、靴の大きさは、27.0cm。
 
 ## 略歴
 
@@ -9,15 +9,15 @@
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink") - [Leview](https://ja.wikipedia.org/wiki/Leview "wikilink")結成
   - [1999年](../Page/1999年.md "wikilink") - [Wyse結成](https://ja.wikipedia.org/wiki/wyse_\(音楽バンド\) "wikilink")
   - [2001年](../Page/2001年.md "wikilink") - [Wyse](https://ja.wikipedia.org/wiki/Wyse "wikilink") East West JapanよりMajer Debut Album 『the Answer in the Answers』リリース
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月13日](../Page/2月13日.md "wikilink") - 渋谷公会堂のLIVEでWyse解散
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") - TAKUMAとしてソロ活動を始める
+  - [2005年](../Page/2005年.md "wikilink")[2月13日](../Page/2月13日.md "wikilink") - 渋谷公会堂のLIVEでWyse解散
+  - [2005年](../Page/2005年.md "wikilink") - TAKUMAとしてソロ活動を始める
   - [2019年](../Page/2019年.md "wikilink")-wyse充電期間に備えて地蔵になる
 
 ## ディスコグラフィー
 
 ### アルバム
 
-  - 『Walk』1st Album－[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[1月20日](../Page/1月20日.md "wikilink")
+  - 『Walk』1st Album－[2006年](../Page/2006年.md "wikilink")[1月20日](../Page/1月20日.md "wikilink")
 
 <!-- end list -->
 
@@ -32,7 +32,7 @@
 
 <!-- end list -->
 
-  - 『My name is』2nd Album－[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")
+  - 『My name is』2nd Album－[2006年](../Page/2006年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")
 
 <!-- end list -->
 
@@ -49,7 +49,7 @@
 
 <!-- end list -->
 
-  - 『simple tone』mini Album－[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月25日](../Page/4月25日.md "wikilink")
+  - 『simple tone』mini Album－[2007年](../Page/2007年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")
 
 <!-- end list -->
 
@@ -62,7 +62,7 @@
 
 <!-- end list -->
 
-  - 『if』Acoustic Album－[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[7月25日](../Page/7月25日.md "wikilink")
+  - 『if』Acoustic Album－[2007年](../Page/2007年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")
 
 <!-- end list -->
 

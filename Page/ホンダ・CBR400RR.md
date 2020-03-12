@@ -1,13 +1,13 @@
 > この記事は[CBR400RR](https://ja.wikipedia.org/wiki/CBR400RR)から翻訳されています。
 
 
-**CBR400RR**（シービーアールよんひゃくアールアール）は、[本田技研工業](https://ja.wikipedia.org/wiki/本田技研工業 "wikilink")がかつて製造販売した[オートバイ](../Page/オートバイ.md "wikilink")である。
+**CBR400RR**（シービーアールよんひゃくアールアール）は、[本田技研工業](../Page/本田技研工業.md "wikilink")がかつて製造販売した[オートバイ](../Page/オートバイ.md "wikilink")である。
 
 ## 概要
 
-本田技研工業が製造販売する[CBRシリーズ](https://ja.wikipedia.org/wiki/ホンダ・CBR "wikilink")[排気量](https://ja.wikipedia.org/wiki/排気量 "wikilink")400㏄クラス（[普通自動二輪車](../Page/普通自動二輪車.md "wikilink")）のロードスポーツモデルである。
+本田技研工業が製造販売する[CBRシリーズ](https://ja.wikipedia.org/wiki/ホンダ・CBR "wikilink")[排気量](../Page/排気量.md "wikilink")400㏄クラス（[普通自動二輪車](../Page/普通自動二輪車.md "wikilink")）のロードスポーツモデルである。
 
-本モデルは、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")から販売されていた[NC23型CBR400Rの実質的フル](https://ja.wikipedia.org/wiki/ホンダ・CBR400R "wikilink")[モデルチェンジ](https://ja.wikipedia.org/wiki/モデルチェンジ "wikilink")車であり、従来のフルカバードボディからよりレーシーなフル[カウル](https://ja.wikipedia.org/wiki/カウル "wikilink")を装着する[レーサーレプリカに](https://ja.wikipedia.org/wiki/スーパースポーツ "wikilink")[コンセプトを移行した上で車名変更を併せて実施したモデルである](../Page/概念.md "wikilink")。
+本モデルは、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")から販売されていた[NC23型CBR400Rの実質的フル](https://ja.wikipedia.org/wiki/ホンダ・CBR400R "wikilink")[モデルチェンジ](../Page/モデルチェンジ.md "wikilink")車であり、従来のフルカバードボディからよりレーシーなフル[カウル](../Page/カウル.md "wikilink")を装着する[レーサーレプリカに](../Page/スーパースポーツ.md "wikilink")[コンセプトを移行した上で車名変更を併せて実施したモデルである](../Page/概念.md "wikilink")。
 
 [1988年](../Page/1988年.md "wikilink")当初はNC23型、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")以降は大幅な設計変更を行ったNC29型が [2000年](../Page/2000年.md "wikilink")まで製造された。
 
@@ -19,7 +19,7 @@
 
 [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")12月15日発表、1988年1月19日発売\[1\]。
 
-型式名は先代のCBR400Rと同じ\[2\]であるほか、搭載される内径x行程：55.5x42.0（mm）・排気量399㏄のNC23E型[水冷](https://ja.wikipedia.org/wiki/水冷エンジン "wikilink")[4ストローク](../Page/4ストローク機関.md "wikilink")[カムギアトレーン](https://ja.wikipedia.org/wiki/カムギアトレーン "wikilink")4バルブ[DOHC](../Page/DOHC.md "wikilink")[並列4気筒エンジンもキャリーオーバーで当時の](https://ja.wikipedia.org/wiki/直列4気筒 "wikilink")[自主規制最高値となる](https://ja.wikipedia.org/wiki/自動車馬力規制 "wikilink")59psであるが、以下の改良を実施した\[3\]\[4\]。
+型式名は先代のCBR400Rと同じ\[2\]であるほか、搭載される内径x行程：55.5x42.0（mm）・排気量399㏄のNC23E型[水冷](../Page/水冷エンジン.md "wikilink")[4ストローク](../Page/4ストローク機関.md "wikilink")[カムギアトレーン](../Page/カムギアトレーン.md "wikilink")4バルブ[DOHC](../Page/DOHC.md "wikilink")[並列4気筒エンジンもキャリーオーバーで当時の](../Page/直列4気筒.md "wikilink")[自主規制最高値となる](../Page/自動車馬力規制.md "wikilink")59psであるが、以下の改良を実施した\[3\]\[4\]。
 
   - 車体
 
@@ -50,10 +50,10 @@
 
 :\* [フロントは](https://ja.wikipedia.org/wiki/フロントサスペンション_\(オートバイ\) "wikilink")41mm径テレスコピックであるが円筒[空気ばね](../Page/空気ばね.md "wikilink")併用を廃止
 
-:\* [リヤはスイングアームであるが市販車としては初となる](https://ja.wikipedia.org/wiki/リヤサスペンション_\(オートバイ\) "wikilink")[トラス](https://ja.wikipedia.org/wiki/トラス "wikilink")構造のトライアームを採用
+:\* [リヤはスイングアームであるが市販車としては初となる](https://ja.wikipedia.org/wiki/リヤサスペンション_\(オートバイ\) "wikilink")[トラス](../Page/トラス.md "wikilink")構造のトライアームを採用
 
-  - タイヤサイズは100/80-17→120/60-17（前）・130/70-18→150/60-18（後）へ極太低扁平化した上で[バイアスから](https://ja.wikipedia.org/wiki/バイアスタイヤ "wikilink")[ラジアルへ変更](https://ja.wikipedia.org/wiki/ラジアルタイヤ "wikilink")
-  - [ローター径](https://ja.wikipedia.org/wiki/ブレーキローター "wikilink")296mmの前輪ダブル[ディスクブレーキ](../Page/ディスクブレーキ.md "wikilink")をフローティング化
+  - タイヤサイズは100/80-17→120/60-17（前）・130/70-18→150/60-18（後）へ極太低扁平化した上で[バイアスから](https://ja.wikipedia.org/wiki/バイアスタイヤ "wikilink")[ラジアルへ変更](../Page/ラジアルタイヤ.md "wikilink")
+  - [ローター径](../Page/ブレーキローター.md "wikilink")296mmの前輪ダブル[ディスクブレーキ](../Page/ディスクブレーキ.md "wikilink")をフローティング化
 
 <!-- end list -->
 
@@ -63,7 +63,7 @@
 
   - タンデムシート下に容量4Lのユーティリティボックスを新設
   - 燃料タンク容量が16→15Lへ減少
-  - [速度計](https://ja.wikipedia.org/wiki/速度計 "wikilink")ギアボックスの取り出しをフロントホイール（フロントフォーク/アウターチューブ）からカウンターシャフト（ドライブスプロケットカバー）へ移設
+  - [速度計](../Page/速度計.md "wikilink")ギアボックスの取り出しをフロントホイール（フロントフォーク/アウターチューブ）からカウンターシャフト（ドライブスプロケットカバー）へ移設
   - 車重を乾燥165㎏/装備184㎏→乾燥162㎏/装備179㎏へ軽量化
 
 日本国内年間販売目標16,000台、希望小売価格699,000円に設定した。
@@ -72,13 +72,13 @@
 
 ### NC29型
 
-[CBR400RR_NC29.jpg](https://ja.wikipedia.org/wiki/File:CBR400RR_NC29.jpg "fig:CBR400RR_NC29.jpg") **高次元ヒューマンフィッティング**を開発キーワード\[6\]にNC23型から以下の改良ならびに設計変更を実施した1990年[モデルへのフル](https://ja.wikipedia.org/wiki/モデルイヤー "wikilink")[モデルチェンジ](https://ja.wikipedia.org/wiki/モデルチェンジ "wikilink")車である。
+[CBR400RR_NC29.jpg](https://ja.wikipedia.org/wiki/File:CBR400RR_NC29.jpg "fig:CBR400RR_NC29.jpg") **高次元ヒューマンフィッティング**を開発キーワード\[6\]にNC23型から以下の改良ならびに設計変更を実施した1990年[モデルへのフル](https://ja.wikipedia.org/wiki/モデルイヤー "wikilink")[モデルチェンジ](../Page/モデルチェンジ.md "wikilink")車である。
 
   - 車体
 
 <!-- end list -->
 
-  - [フレームをアルミツインチューブダイヤモンド型から低重心構造](https://ja.wikipedia.org/wiki/フレーム_\(オートバイ\) "wikilink")としたアルミニウム製バックボーン型へ変更
+  - [フレームをアルミツインチューブダイヤモンド型から低重心構造](../Page/フレーム_\(オートバイ\).md "wikilink")としたアルミニウム製バックボーン型へ変更
   - カウル形状を変更
   - 慣性マスの集中化\[7\]
 
@@ -91,14 +91,14 @@
   - シリンダーとアッパーケースを一体化させるとともにメインシャフト取付位置を変更\[8\]
   - クランク・メイン・カウンターの各シャフトを一直線上に配置することによってケースカバーの小型化ならびにクラッチ関係パーツを小型軽量化\[9\]
   - 3方向分配式のダイレクトエアインテークを装備\[10\]
-  - [インテークマニホールド](https://ja.wikipedia.org/wiki/インテークマニホールド "wikilink")径を29mm→26mmへ小径化した上でストレート化\[11\]
-  - [エアクリーナー](https://ja.wikipedia.org/wiki/エアクリーナー "wikilink")にレゾネーターを新設\[12\]
+  - [インテークマニホールド](../Page/インテークマニホールド.md "wikilink")径を29mm→26mmへ小径化した上でストレート化\[11\]
+  - [エアクリーナー](../Page/エアクリーナー.md "wikilink")にレゾネーターを新設\[12\]
   - [キャブレター](../Page/キャブレター.md "wikilink")をVG04型からVP01型へ変更\[13\]\[14\]
-  - [ピストン](https://ja.wikipedia.org/wiki/ピストン "wikilink")を8g軽量化\[15\]
+  - [ピストン](../Page/ピストン.md "wikilink")を8g軽量化\[15\]
   - [点火装置](https://ja.wikipedia.org/wiki/点火装置 "wikilink")を三次元マップコントロール方式のPGMイグニションへ変更化\[16\]
-  - 常時噛合式6段[マニュアルトランスミッション](https://ja.wikipedia.org/wiki/マニュアルトランスミッション "wikilink")の6速をハイギアード化ならびに1次/2次減速比を変更\[17\]
-  - マフラーは連結パイプを配した4into2into1の360゜集合構造とし[エキゾーストマニホールド](https://ja.wikipedia.org/wiki/エキゾーストマニホールド "wikilink")径を31.8mm→φ35mmへ大径化\[18\]
-  - [エンジンオイル](https://ja.wikipedia.org/wiki/エンジンオイル "wikilink")容量を3.5L→3.8Lへ増量\[19\]
+  - 常時噛合式6段[マニュアルトランスミッション](../Page/マニュアルトランスミッション.md "wikilink")の6速をハイギアード化ならびに1次/2次減速比を変更\[17\]
+  - マフラーは連結パイプを配した4into2into1の360゜集合構造とし[エキゾーストマニホールド](../Page/エキゾーストマニホールド.md "wikilink")径を31.8mm→φ35mmへ大径化\[18\]
+  - [エンジンオイル](../Page/エンジンオイル.md "wikilink")容量を3.5L→3.8Lへ増量\[19\]
   - これらの結果最高出力発生回転数が13,000rpmへ変更\[20\]
 
 <!-- end list -->
@@ -108,7 +108,7 @@
 <!-- end list -->
 
   - リヤサスペンションのスイングアーム形状をキャステック[ガルアーム](https://ja.wikipedia.org/wiki/ガルアーム "wikilink")へ変更\[21\]
-  - キャスター角・トレール量・[ホイールベース](https://ja.wikipedia.org/wiki/ホイールベース "wikilink")を変更\[22\]
+  - キャスター角・トレール量・[ホイールベース](../Page/ホイールベース.md "wikilink")を変更\[22\]
   - 前後ホイールをアルミ製中空3本スポークキャストからU字型6本スポークに変更し前150g・後200gのばね下重量を軽減\[23\]
   - 後輪サイズを17インチ化\[24\]
 
@@ -131,11 +131,11 @@
 
 <!-- end list -->
 
-  - [1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")3月30日発表 同年4月7日発売\[28\]
+  - [1992年](../Page/1992年.md "wikilink")3月30日発表 同年4月7日発売\[28\]
 
 <!-- end list -->
 
-  - トリコロールカラーをブラッシュ（刷毛塗り）パターンにするとともにCBR[ロゴを変更](https://ja.wikipedia.org/wiki/ロゴタイプ "wikilink")
+  - トリコロールカラーをブラッシュ（刷毛塗り）パターンにするとともにCBR[ロゴを変更](../Page/ロゴタイプ.md "wikilink")
   - 日本国内年間販売目標4,600台 消費税抜希望小売価格710,000円
 
 <!-- end list -->
@@ -148,13 +148,13 @@
 
 :\* 最高出力53ps/13,000rpm・最大トルク3.6kg-m/10,000rpmへ変更
 
-:\* [カムシャフト](https://ja.wikipedia.org/wiki/カムシャフト "wikilink")形状見直しならびにバルブタイミングを変更
+:\* [カムシャフト](../Page/カムシャフト.md "wikilink")形状見直しならびにバルブタイミングを変更
 
 :\* 圧縮比を11.7へ変更
 
   - フロントサスペンションを伸び側減衰力調整機構付きカートリッジタイプへ変更
   - リヤサスペンションのセッティング変更
-  - [常時点灯義務化](https://ja.wikipedia.org/wiki/昼間点灯 "wikilink")\[30\]に備え[ヘッドライトスイッチを廃止するとともにフロントウィンカー内蔵式ポジションランプを採用](https://ja.wikipedia.org/wiki/前照灯 "wikilink")
+  - [常時点灯義務化](../Page/昼間点灯.md "wikilink")\[30\]に備え[ヘッドライトスイッチを廃止するとともにフロントウィンカー内蔵式ポジションランプを採用](../Page/前照灯.md "wikilink")
   - 車体色パターンを変更
   - フロントカウルに**FireBlade**\[31\]のロゴを追加
   - 車重が乾燥163㎏/装備180㎏へ増加
@@ -256,7 +256,7 @@
 </tr>
 <tr class="even">
 <td><p>始動方式</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/セルモーター" title="wikilink">セルフスターター</a></p></td>
+<td><p><a href="../Page/セルモーター.md" title="wikilink">セルフスターター</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>潤滑方式</p></td>
@@ -374,8 +374,8 @@
 
   - [ホンダ・CBR](https://ja.wikipedia.org/wiki/ホンダ・CBR "wikilink")
   - [ホンダ・CBR400R](https://ja.wikipedia.org/wiki/ホンダ・CBR400R "wikilink")
-  - [ホンダ・CB400スーパーフォア](https://ja.wikipedia.org/wiki/ホンダ・CB400スーパーフォア "wikilink")
-  - [ホンダ・CB400FOUR](https://ja.wikipedia.org/wiki/ホンダ・CB400FOUR "wikilink")
+  - [ホンダ・CB400スーパーフォア](../Page/ホンダ・CB400スーパーフォア.md "wikilink")
+  - [ホンダ・CB400FOUR](../Page/ホンダ・CB400FOUR.md "wikilink")
 
 [Category:ホンダのオートバイの車種](https://ja.wikipedia.org/wiki/Category:ホンダのオートバイの車種 "wikilink")
 

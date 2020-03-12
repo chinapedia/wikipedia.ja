@@ -5,9 +5,9 @@
 
 ## 解説
 
-「IT'S ALL RIGHT (ANYTHING FOR YOU)」はアルバム『[as close as possible](https://ja.wikipedia.org/wiki/as_close_as_possible "wikilink")』\[1\]の先行シングル曲。その後、ベストアルバム『[IT'S ALL RIGHT OFF COURSE SELECTION III 1984-1987](https://ja.wikipedia.org/wiki/IT'S_ALL_RIGHT_\(オフコースのアルバム\) "wikilink")』\[2\]にも収録された。基本的な演奏トラックはアルバム収録のものと同じだが、間奏および[エンディング](https://ja.wikipedia.org/wiki/エンディング "wikilink")の[ソロはシングル](../Page/ソロ_\(音楽\).md "wikilink")・ヴァージョンでは[松尾一彦](https://ja.wikipedia.org/wiki/松尾一彦 "wikilink")による[ギター](../Page/ギター.md "wikilink")が、アルバム・ヴァージョンではトム・ピーターソンの[サックスに差し替えられている](https://ja.wikipedia.org/wiki/サキソフォーン "wikilink")。また、アルバムでは[イントロとエンディングが長くなっている](https://ja.wikipedia.org/wiki/導入部 "wikilink")。1987年1月、シングルを「IT'S ALL RIGHT」と「[もっと近くに (as close as possible)](https://ja.wikipedia.org/wiki/もっと近くに "wikilink")」のどちらにするか、メンバー、スタッフによるミーティングが行われ、この曲に決まった。
+「IT'S ALL RIGHT (ANYTHING FOR YOU)」はアルバム『[as close as possible](https://ja.wikipedia.org/wiki/as_close_as_possible "wikilink")』\[1\]の先行シングル曲。その後、ベストアルバム『[IT'S ALL RIGHT OFF COURSE SELECTION III 1984-1987](https://ja.wikipedia.org/wiki/IT'S_ALL_RIGHT_\(オフコースのアルバム\) "wikilink")』\[2\]にも収録された。基本的な演奏トラックはアルバム収録のものと同じだが、間奏および[エンディング](https://ja.wikipedia.org/wiki/エンディング "wikilink")の[ソロはシングル](../Page/ソロ_\(音楽\).md "wikilink")・ヴァージョンでは[松尾一彦](../Page/松尾一彦.md "wikilink")による[ギター](../Page/ギター.md "wikilink")が、アルバム・ヴァージョンではトム・ピーターソンの[サックスに差し替えられている](https://ja.wikipedia.org/wiki/サキソフォーン "wikilink")。また、アルバムでは[イントロとエンディングが長くなっている](../Page/導入部.md "wikilink")。1987年1月、シングルを「IT'S ALL RIGHT」と「[もっと近くに (as close as possible)](../Page/もっと近くに.md "wikilink")」のどちらにするか、メンバー、スタッフによるミーティングが行われ、この曲に決まった。
 
-「IT'S QUITE ALL RIGHT」は「IT'S ALL RIGHT」の[インストゥルメンタル](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")・ヴァージョンで、曲の長さはアルバム・ヴァージョンと同じ。
+「IT'S QUITE ALL RIGHT」は「IT'S ALL RIGHT」の[インストゥルメンタル](../Page/器楽曲.md "wikilink")・ヴァージョンで、曲の長さはアルバム・ヴァージョンと同じ。
 
 ## 収録曲
 

@@ -1,15 +1,15 @@
 > この記事は[Viva Forever](https://ja.wikipedia.org/wiki/Viva_Forever)から翻訳されています。
 
 
-「**Viva Forever**」（ビバ フォーエヴァー）は、[スパイス・ガールズ](https://ja.wikipedia.org/wiki/スパイス・ガールズ "wikilink")の8枚目のシングル。2枚目のアルバム『[Spiceworld](https://ja.wikipedia.org/wiki/スパイスワールド "wikilink")』に収録されており、メンバーのジェリが1998年5月に脱退した後の同年7月20日にリリースされた。
+「**Viva Forever**」（ビバ フォーエヴァー）は、[スパイス・ガールズ](../Page/スパイス・ガールズ.md "wikilink")の8枚目のシングル。2枚目のアルバム『[Spiceworld](../Page/スパイスワールド.md "wikilink")』に収録されており、メンバーのジェリが1998年5月に脱退した後の同年7月20日にリリースされた。
 
 [ヨーロッパ](../Page/ヨーロッパ.md "wikilink")では約200万枚を売り上げヒットとなったが、[北アメリカ](../Page/北アメリカ.md "wikilink")ではリリースされなかった。スパイス・ガールズの歌唱力が最も試された曲とも言われており、それまで無情に批判し続けていた人々からも賞賛を浴びたほどであった。当初、「[Never Give Up On The Good Times](https://ja.wikipedia.org/wiki/Never_Give_Up_On_The_Good_Times "wikilink")」と共にダブルAサイドとしてリリースされる予定だったが、脱退したジェリがヴォーカルを主に担当していたのでキャンセルされた。
 
-[ヴァージン・アトランティック航空](https://ja.wikipedia.org/wiki/ヴァージン・アトランティック航空 "wikilink")では[ロンドン・ヒースロー空港](https://ja.wikipedia.org/wiki/ロンドン・ヒースロー空港 "wikilink")着陸時に機内でこの曲が流れる。
+[ヴァージン・アトランティック航空](../Page/ヴァージン・アトランティック航空.md "wikilink")では[ロンドン・ヒースロー空港](../Page/ロンドン・ヒースロー空港.md "wikilink")着陸時に機内でこの曲が流れる。
 
 ## ミュージック・ビデオ
 
-この曲の[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")は、脱退したジェリを含む5人がアニメーションキャラクターの妖精として登場する（ジェリが脱退したため、メンバー本人の出演はならなかった）。関係者によるとこのビデオの意味は「どのようにしてスパイス・ガールズはこれから名声をまた作り上げていくか」をテーマにしている、といわれている。これは同曲がほとんどジェリによって作詞されていることもあって、そのジェリが脱退したことによって大きなダメージを受けたことを象徴している。
+この曲の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")は、脱退したジェリを含む5人がアニメーションキャラクターの妖精として登場する（ジェリが脱退したため、メンバー本人の出演はならなかった）。関係者によるとこのビデオの意味は「どのようにしてスパイス・ガールズはこれから名声をまた作り上げていくか」をテーマにしている、といわれている。これは同曲がほとんどジェリによって作詞されていることもあって、そのジェリが脱退したことによって大きなダメージを受けたことを象徴している。
 
 ## トラックリスト
 
@@ -34,20 +34,20 @@
 
 ## チャート
 
-| チャート                                                        | 順位      |
-| :---------------------------------------------------------- | :------ |
-| [オーストラリア](https://ja.wikipedia.org/wiki/オーストラリア "wikilink") | 2       |
-| [UK](https://ja.wikipedia.org/wiki/イギリス "wikilink")         | 1 （2週間） |
-| [アイルランド](../Page/アイルランド.md "wikilink")                      | 2       |
-| [フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")       | 18      |
-| [フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")     | 1       |
-| [ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")         | 4       |
-| [オーストリア](../Page/オーストリア.md "wikilink")                      | 4       |
-| [ニュージーランド](../Page/ニュージーランド.md "wikilink")                  | 1       |
-| [スイス](../Page/スイス.md "wikilink")                            | 3       |
-| [スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")   | 6       |
-| [ノルウェー](../Page/ノルウェー.md "wikilink")                        | 12      |
-|                                                             |         |
+| チャート                                                      | 順位      |
+| :-------------------------------------------------------- | :------ |
+| [オーストラリア](../Page/オーストラリア.md "wikilink")                  | 2       |
+| [UK](https://ja.wikipedia.org/wiki/イギリス "wikilink")       | 1 （2週間） |
+| [アイルランド](../Page/アイルランド.md "wikilink")                    | 2       |
+| [フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")     | 18      |
+| [フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")   | 1       |
+| [ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")       | 4       |
+| [オーストリア](../Page/オーストリア.md "wikilink")                    | 4       |
+| [ニュージーランド](../Page/ニュージーランド.md "wikilink")                | 1       |
+| [スイス](../Page/スイス.md "wikilink")                          | 3       |
+| [スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink") | 6       |
+| [ノルウェー](../Page/ノルウェー.md "wikilink")                      | 12      |
+|                                                           |         |
 
 UKでの売り上げ62万3000枚
 

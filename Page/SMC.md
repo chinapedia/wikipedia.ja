@@ -1,7 +1,7 @@
 > この記事は[SMC](https://ja.wikipedia.org/wiki/SMC)から翻訳されています。
 
 
-**SMC株式会社**（えすえむしい、）は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")に本社を置く、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の空気圧制御機器メーカーである\[1\]。社名のSMCは、発祥が焼結濾過体製造会社のため、「焼結金属」の英文名「**S**intered **M**etal」に「**C**ompany」の[頭字語](../Page/頭字語.md "wikilink")。[TOPIX Large70構成銘柄の](https://ja.wikipedia.org/wiki/TOPIX_Large70 "wikilink")1つ。[工場の自動化設備の空圧制御機器で世界首位](https://ja.wikipedia.org/wiki/ファクトリー・オートメーション "wikilink")（国内シェア6割、世界シェア3割）、ドイツのフェスト社（Festo）との世界2強を構成する\[2\]。
+**SMC株式会社**（えすえむしい、）は、[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")に本社を置く、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の空気圧制御機器メーカーである\[1\]。社名のSMCは、発祥が焼結濾過体製造会社のため、「焼結金属」の英文名「**S**intered **M**etal」に「**C**ompany」の[頭字語](../Page/頭字語.md "wikilink")。[TOPIX Large70構成銘柄の](https://ja.wikipedia.org/wiki/TOPIX_Large70 "wikilink")1つ。[工場の自動化設備の空圧制御機器で世界首位](https://ja.wikipedia.org/wiki/ファクトリー・オートメーション "wikilink")（国内シェア6割、世界シェア3割）、ドイツのフェスト社（Festo）との世界2強を構成する\[2\]。
 
 ## 沿革
 
@@ -9,14 +9,14 @@
   - [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink") - 空気圧補助機器の製造・販売開始。
   - [1964年](../Page/1964年.md "wikilink") - 自動制御機器製品の製造・販売開始。
   - [1965年](../Page/1965年.md "wikilink") - 日本機材株式会社に資本参加。
-  - [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink") - 駆動機器の製造・販売開始。
+  - [1970年](../Page/1970年.md "wikilink") - 駆動機器の製造・販売開始。
   - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink") - 方向制御機器の製造・販売開始。
   - [1974年](../Page/1974年.md "wikilink") - 本社を東京都港区に移転。
   - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") - **SMC株式会社**に社名変更。
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink") - 東京証券取引所市場第二部に株式上場。
   - [1989年](../Page/1989年.md "wikilink") - 東京証券取引所市場第一部銘柄に指定。
-  - [1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink") - 筑波技術センター設置。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink") - 本社を東京都千代田区に移転。
+  - [1991年](../Page/1991年.md "wikilink") - 筑波技術センター設置。
+  - [2006年](../Page/2006年.md "wikilink") - 本社を東京都千代田区に移転。
 
 ## 概要
 
@@ -27,13 +27,13 @@
 ## 国内生産拠点
 
   - 本社（東京都千代田区）\[3\]
-  - 草加工場（[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")[草加市](../Page/草加市.md "wikilink")）
-  - 筑波工場（[茨城県](https://ja.wikipedia.org/wiki/茨城県 "wikilink")[常総市](https://ja.wikipedia.org/wiki/常総市 "wikilink")）
-  - 下妻工場（[茨城県](https://ja.wikipedia.org/wiki/茨城県 "wikilink")[下妻市](../Page/下妻市.md "wikilink")）
-  - 矢祭工場（福島県[東白川郡](../Page/東白川郡.md "wikilink")[矢祭町](https://ja.wikipedia.org/wiki/矢祭町 "wikilink")）
+  - 草加工場（[埼玉県](../Page/埼玉県.md "wikilink")[草加市](../Page/草加市.md "wikilink")）
+  - 筑波工場（[茨城県](../Page/茨城県.md "wikilink")[常総市](../Page/常総市.md "wikilink")）
+  - 下妻工場（[茨城県](../Page/茨城県.md "wikilink")[下妻市](../Page/下妻市.md "wikilink")）
+  - 矢祭工場（福島県[東白川郡](../Page/東白川郡.md "wikilink")[矢祭町](../Page/矢祭町.md "wikilink")）
   - 釜石工場（[岩手県](../Page/岩手県.md "wikilink")[釜石市](../Page/釜石市.md "wikilink")）
   - 遠野工場（岩手県[遠野市](../Page/遠野市.md "wikilink")）
-  - 筑波技術センター（茨城県[つくばみらい市](https://ja.wikipedia.org/wiki/つくばみらい市 "wikilink")）
+  - 筑波技術センター（茨城県[つくばみらい市](../Page/つくばみらい市.md "wikilink")）
 
 ## 脚注
 

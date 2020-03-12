@@ -1,7 +1,7 @@
 > この記事は[CABAL ONLINE](https://ja.wikipedia.org/wiki/CABAL_ONLINE)から翻訳されています。
 
 
-**CABAL ONLINE**（カバル オンライン、[朝鮮語](../Page/朝鮮語.md "wikilink"): 카발 온라인）は、[ESTsoft](https://ja.wikipedia.org/wiki/ESTsoft "wikilink") JAPANが運営するスタイリッシュアクション[MMORPG](../Page/MMORPG.md "wikilink")。開発は[韓国のESTsoft](https://ja.wikipedia.org/wiki/大韓民国 "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")11月より正式サービスが開始した。
+**CABAL ONLINE**（カバル オンライン、[朝鮮語](../Page/朝鮮語.md "wikilink"): 카발 온라인）は、[ESTsoft](https://ja.wikipedia.org/wiki/ESTsoft "wikilink") JAPANが運営するスタイリッシュアクション[MMORPG](../Page/MMORPG.md "wikilink")。開発は[韓国のESTsoft](../Page/大韓民国.md "wikilink")。[2006年](../Page/2006年.md "wikilink")11月より正式サービスが開始した。
 
 ## ゲームシステム
 

@@ -10,12 +10,12 @@
 ## 代表曲
 
   - [Go\!Go\!ウェイトレス](../Page/Go!Go!ウェイトレス.md "wikilink")（[Piaキャロットへようこそ\!\!2](https://ja.wikipedia.org/wiki/Piaキャロットへようこそ!!#Piaキャロットへようこそ!!2 "wikilink")）
-  - ハートのクッキー（[PALETTE](https://ja.wikipedia.org/wiki/PALETTE_\(アダルトゲーム\) "wikilink")）
+  - ハートのクッキー（[PALETTE](../Page/PALETTE_\(アダルトゲーム\).md "wikilink")）
   - みつめていたい（[With You 〜みつめていたい〜](../Page/With_You_〜みつめていたい〜.md "wikilink")）
   - 時の流れが止まって（[ロマンスは剣の輝き](../Page/ロマンスは剣の輝き.md "wikilink")2）
-  - せつない糸（[Natural2 -DUO-](https://ja.wikipedia.org/wiki/Natural2_-DUO- "wikilink")）
+  - せつない糸（[Natural2 -DUO-](../Page/Natural2_-DUO-.md "wikilink")）
   - Autumn Destiny（[Canvas 〜セピア色のモチーフ〜](../Page/Canvas_〜セピア色のモチーフ〜.md "wikilink")）
-  - Natural Generation（[Natural Zero+ -はじまりと終わりの場所で-](https://ja.wikipedia.org/wiki/Natural_Zero+_-はじまりと終わりの場所で- "wikilink")）
+  - Natural Generation（[Natural Zero+ -はじまりと終わりの場所で-](../Page/Natural_Zero+_-はじまりと終わりの場所で-.md "wikilink")）
   - KISS OF FIRE（ハートに火をつけて）
   - just in love（[同窓会again](../Page/同窓会_\(ゲーム\).md "wikilink")）
   - みっつのマグカップ（[あいかぎ 〜ひだまりと彼女の部屋着〜](../Page/あいかぎ_〜ひだまりと彼女の部屋着〜.md "wikilink")）

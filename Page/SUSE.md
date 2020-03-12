@@ -1,17 +1,17 @@
 > この記事は[SUSE](https://ja.wikipedia.org/wiki/SUSE)から翻訳されています。
 
 
-[Suse_Linux_GmbH.jpg](https://ja.wikipedia.org/wiki/File:Suse_Linux_GmbH.jpg "fig:Suse_Linux_GmbH.jpg") **SUSE** ( )\[1\]は[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")を拠点とし、ビジネス顧客向けの[Linux](https://ja.wikipedia.org/wiki/Linux "wikilink")製品を開発・販売する、[オープンソースソフトウェア](https://ja.wikipedia.org/wiki/オープンソースソフトウェア "wikilink")[多国籍企業](https://ja.wikipedia.org/wiki/多国籍企業 "wikilink")である。1992年に創設され、企業向けに商用Linuxを販売した初の会社となった。SUSEはコミュニティ支援で[openSUSE](https://ja.wikipedia.org/wiki/openSUSE "wikilink")を開発しているの主要なスポンサーである。
+[Suse_Linux_GmbH.jpg](https://ja.wikipedia.org/wiki/File:Suse_Linux_GmbH.jpg "fig:Suse_Linux_GmbH.jpg") **SUSE** ( )\[1\]は[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")を拠点とし、ビジネス顧客向けの[Linux](../Page/Linux.md "wikilink")製品を開発・販売する、[オープンソースソフトウェア](../Page/オープンソースソフトウェア.md "wikilink")[多国籍企業](../Page/多国籍企業.md "wikilink")である。1992年に創設され、企業向けに商用Linuxを販売した初の会社となった。SUSEはコミュニティ支援で[openSUSE](https://ja.wikipedia.org/wiki/openSUSE "wikilink")を開発しているの主要なスポンサーである。
 
 ## 歴史
 
-1992年9月2日、Roland Dyroff、Burchard Steinbild、Hubert MantelそしてThomas FehrがSoftware and Systems Development Corporation（）を創設した。SuSEという名前は**S**oftware- **u**nd **S**ystem-**E**ntwicklung（）の[頭字語](https://ja.wikipedia.org/wiki/頭字語 "wikilink")である\[2\]。最初に販売されたLinux製品は[Slackware](https://ja.wikipedia.org/wiki/Slackware "wikilink")を拡張した[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")であり、[フロッピーディスク](../Page/フロッピーディスク.md "wikilink")40枚から構成された。S.u.S.EはSlackwareの創設者であると協力してこのディストリビューションを[ドイツ語](../Page/ドイツ語.md "wikilink")に翻訳した。このディストリビューションの中核部はSlackwareのままであったが、1996年5月にS.u.S.EはFlorian La Rocheにより発表されたをベースとした独自の[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")をリリースした。
+1992年9月2日、Roland Dyroff、Burchard Steinbild、Hubert MantelそしてThomas FehrがSoftware and Systems Development Corporation（）を創設した。SuSEという名前は**S**oftware- **u**nd **S**ystem-**E**ntwicklung（）の[頭字語](../Page/頭字語.md "wikilink")である\[2\]。最初に販売されたLinux製品は[Slackware](../Page/Slackware.md "wikilink")を拡張した[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")であり、[フロッピーディスク](../Page/フロッピーディスク.md "wikilink")40枚から構成された。S.u.S.EはSlackwareの創設者であると協力してこのディストリビューションを[ドイツ語](../Page/ドイツ語.md "wikilink")に翻訳した。このディストリビューションの中核部はSlackwareのままであったが、1996年5月にS.u.S.EはFlorian La Rocheにより発表されたをベースとした独自の[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")をリリースした。
 
-1997年、S.u.S.E.は[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[オークランドにオフィスをオープンし](https://ja.wikipedia.org/wiki/オークランド_\(カリフォルニア州\) "wikilink")、1998年に[フュルト](https://ja.wikipedia.org/wiki/フュルト "wikilink")から[ニュルンベルク](https://ja.wikipedia.org/wiki/ニュルンベルク "wikilink")へと本社を移転した。1998年12月に社名がS.u.S.E.からSuSEへと変更され、その翌年にSUSEは6つの国内支店と4つの国際支店（[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")、[チェコ](../Page/チェコ.md "wikilink")、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")、[イタリア](../Page/イタリア.md "wikilink")）をオープンした。2002年11月25日にRichard SeibtがCEOとなった。[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")ではSUSEの製品はTriTech Distribution Limitedにより配布される\[3\]。
+1997年、S.u.S.E.は[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[オークランドにオフィスをオープンし](../Page/オークランド_\(カリフォルニア州\).md "wikilink")、1998年に[フュルト](../Page/フュルト.md "wikilink")から[ニュルンベルク](../Page/ニュルンベルク.md "wikilink")へと本社を移転した。1998年12月に社名がS.u.S.E.からSuSEへと変更され、その翌年にSUSEは6つの国内支店と4つの国際支店（[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")、[チェコ](../Page/チェコ.md "wikilink")、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")、[イタリア](../Page/イタリア.md "wikilink")）をオープンした。2002年11月25日にRichard SeibtがCEOとなった。[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")ではSUSEの製品はTriTech Distribution Limitedにより配布される\[3\]。
 
 ### ノベルによる買収
 
-2003年11月4日、[ノベルは](../Page/ノベル_\(企業\).md "wikilink")2億1,000万[USドルでSuSE](https://ja.wikipedia.org/wiki/アメリカ合衆国ドル "wikilink") Linux AGの買収を発表した\[4\]。ノベルは[NetWare](https://ja.wikipedia.org/wiki/NetWare "wikilink")[カーネル](../Page/カーネル.md "wikilink")から移行中であり、この買収をNetWare顧客に対する移行パスとして利用した\[5\]。2004年1月13日に買収が完了し\[6\]、社名がSuSE Linux AGから、SuSE Linux GmbHおよびSUSE Linux Products GmbHへと変更され、ノベルの子会社になった。SUSE Linux Products GmbHはSUSE Linux開発への完全な責任があり、Markus Rexが率いた。移行中にパートナーと販売組織は両方ともノベルに集約された。Richard SeibtがノベルEMEAのCEOとなったが、2005年5月9日に退任した。
+2003年11月4日、[ノベルは](../Page/ノベル_\(企業\).md "wikilink")2億1,000万[USドルでSuSE](../Page/アメリカ合衆国ドル.md "wikilink") Linux AGの買収を発表した\[4\]。ノベルは[NetWare](https://ja.wikipedia.org/wiki/NetWare "wikilink")[カーネル](../Page/カーネル.md "wikilink")から移行中であり、この買収をNetWare顧客に対する移行パスとして利用した\[5\]。2004年1月13日に買収が完了し\[6\]、社名がSuSE Linux AGから、SuSE Linux GmbHおよびSUSE Linux Products GmbHへと変更され、ノベルの子会社になった。SUSE Linux Products GmbHはSUSE Linux開発への完全な責任があり、Markus Rexが率いた。移行中にパートナーと販売組織は両方ともノベルに集約された。Richard SeibtがノベルEMEAのCEOとなったが、2005年5月9日に退任した。
 
 2005年8月にopenSUSEコミュニティプロジェクトが開始され、外部のユーザーや開発者にSUSE Linuxの開発が公開された。SUSE Linux EnterpriseはopenSUSEコミュニティを利用して開発されている。
 
@@ -33,14 +33,14 @@
 
 ### サーバ
 
-SUSE製の主要なサーバLinuxディストリビューションは[SUSE Linux Enterprise Server](https://ja.wikipedia.org/wiki/SUSE_Linux_Enterprise_Server "wikilink") ("SLES") である。このディストリビューションは物理的、仮想的、さらにクラウドによるワークロードに適しており、巨大な組織をターゲットとしている。全てのバージョンが、[x86](https://ja.wikipedia.org/wiki/x86 "wikilink")、[ARM](https://ja.wikipedia.org/wiki/ARMアーキテクチャ "wikilink")\[16\] 、[x86-64](https://ja.wikipedia.org/wiki/x86-64 "wikilink")、[POWER](https://ja.wikipedia.org/wiki/POWER_\(マイクロプロセッサ\) "wikilink")\[17\]、[IBM S/390とzSeries](https://ja.wikipedia.org/wiki/System_z "wikilink")\[18\] 、または[Itanium](https://ja.wikipedia.org/wiki/Itanium "wikilink")などの多様なプロセッサアーキテクチャで利用可能である。SUSE Linux Enterprise Server 11および12の体験版はサイトから利用可能である\[19\]。SLESは[Amazon EC2](https://ja.wikipedia.org/wiki/Amazon_Elastic_Compute_Cloud "wikilink")\[20\]、[Microsoft Azure](https://ja.wikipedia.org/wiki/Microsoft_Azure "wikilink")\[21\]および上で\[22\]、オンデマンドまたはBring-Your-Own-Subscription ("BYOS") イメージの両方で利用可能である。
+SUSE製の主要なサーバLinuxディストリビューションは[SUSE Linux Enterprise Server](https://ja.wikipedia.org/wiki/SUSE_Linux_Enterprise_Server "wikilink") ("SLES") である。このディストリビューションは物理的、仮想的、さらにクラウドによるワークロードに適しており、巨大な組織をターゲットとしている。全てのバージョンが、[x86](https://ja.wikipedia.org/wiki/x86 "wikilink")、[ARM](../Page/ARMアーキテクチャ.md "wikilink")\[16\] 、[x86-64](https://ja.wikipedia.org/wiki/x86-64 "wikilink")、[POWER](../Page/POWER_\(マイクロプロセッサ\).md "wikilink")\[17\]、[IBM S/390とzSeries](../Page/System_z.md "wikilink")\[18\] 、または[Itanium](../Page/Itanium.md "wikilink")などの多様なプロセッサアーキテクチャで利用可能である。SUSE Linux Enterprise Server 11および12の体験版はサイトから利用可能である\[19\]。SLESは[Amazon EC2](https://ja.wikipedia.org/wiki/Amazon_Elastic_Compute_Cloud "wikilink")\[20\]、[Microsoft Azure](https://ja.wikipedia.org/wiki/Microsoft_Azure "wikilink")\[21\]および上で\[22\]、オンデマンドまたはBring-Your-Own-Subscription ("BYOS") イメージの両方で利用可能である。
 
 #### サーバ製品ベースの提供物
 
   - SUSE Linux Enterprise Server for SAP Applications\[23\] - SAPのワークロードに最適化されたLinux[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")。
   - SUSE Linux Enterprise Point of Service\[24\] - 小売産業向けLinuxオペレーティングシステムで、ユーザータッチポイントと店内サーバに合わせたLinuxのバージョンが含まれる。
   - SUSE Linux Enterprise High Performance Computing\[25\] - [ハイパフォーマンスコンピュータ用のインフラソリューション](../Page/スーパーコンピュータ.md "wikilink")。
-  - SUSE Linux Enterprise High Availability Extension\[26\] - オープンソースの[密結合クラスタリングとストレージレプリケーション技術](https://ja.wikipedia.org/wiki/密結合クラスター "wikilink")\[27\]の統合スイート。
+  - SUSE Linux Enterprise High Availability Extension\[26\] - オープンソースの[密結合クラスタリングとストレージレプリケーション技術](../Page/密結合クラスター.md "wikilink")\[27\]の統合スイート。
   - SUSE Linux Enterprise Real Time Extension - SUSE Linux Enterprise Serverのアドオンで、一般的用途のオペレーティングシステムを[リアルタイムオペレーティングシステム](../Page/リアルタイムオペレーティングシステム.md "wikilink")に変える。
 
 #### サーバ製品の特殊なエディション
@@ -54,7 +54,7 @@ SUSE製の主要なサーバLinuxディストリビューションは[SUSE Linux
 
 ### デスクトップ
 
-  - [SUSE Linux Enterprise Desktop](https://ja.wikipedia.org/wiki/SUSE_Linux_Enterprise_Desktop "wikilink")\[32\] - Novell Linux Desktopの後継。
+  - [SUSE Linux Enterprise Desktop](../Page/SUSE_Linux_Enterprise_Desktop.md "wikilink")\[32\] - Novell Linux Desktopの後継。
   - SUSE Linux Enterprise Workstation Extension\[33\] - SUSE Linux Enterprise Serverにデスクトップ機能と追加するアドオン拡張。
   - [LibreOffice](https://ja.wikipedia.org/wiki/LibreOffice "wikilink")オフィス製品スイート\[34\] - SUSEが配布およびサポートしており、さらにSUSEからLibreOfficeとして販売されている。
 
@@ -64,7 +64,7 @@ SUSE製の主要なサーバLinuxディストリビューションは[SUSE Linux
 
   - SUSE OpenStack Cloud\[35\] - Infrastructure-as-a-Serviceプライベートクラウドを開発して管理するための、[OpenStack](https://ja.wikipedia.org/wiki/OpenStack "wikilink")をベースとした自動化されたクラウドコンピューティングプラットフォーム。
 
-  - SUSE Manager\[36\] - パッケージや[パッチ](https://ja.wikipedia.org/wiki/パッチ "wikilink")管理、システムプロビジョニング、および監視用であるをベースとした、包括的Linuxサーバ管理ツール。
+  - SUSE Manager\[36\] - パッケージや[パッチ](../Page/パッチ.md "wikilink")管理、システムプロビジョニング、および監視用であるをベースとした、包括的Linuxサーバ管理ツール。
 
   - \[37\] - コスト効率、復元力、さらにスケーラブルなストレージのためにコモディティサーバやディスクドライブを使用することを可能とする、[Ceph](https://ja.wikipedia.org/wiki/Ceph "wikilink")をベースとしたツール。
 

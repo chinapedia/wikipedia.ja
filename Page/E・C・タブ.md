@@ -1,17 +1,17 @@
 > この記事は[EC](https://ja.wikipedia.org/wiki/EC)から翻訳されています。
 
 
-**E・C・タブ**（E. C. Tubb）こと**エドウィン・チャールズ・タブ**（Edwin Charles Tubb; [1919年](https://ja.wikipedia.org/wiki/1919年 "wikilink")[10月15日](../Page/10月15日.md "wikilink")\[1\] - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[9月10日](../Page/9月10日.md "wikilink")\[2\]）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[小説家](../Page/小説家.md "wikilink")、[SF作家](https://ja.wikipedia.org/wiki/SF作家 "wikilink")。小学校卒業後から様々な職を転々する中、戦前からSFを書き始め、[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")に「[ニュー・ワールズ](https://ja.wikipedia.org/wiki/ニュー・ワールズ "wikilink")」誌から短編"*No Short Cuts*"でデビュー\[3\]。それ以降は50以上\[4\]のペンネームの下にSF、ミステリ、西部小説など\[5\]大量の娯楽小説を執筆した。1972年の時点で、上梓した長編は102、短編は数百あった\[6\]。編集者の経験もある（1956年から57年にかけ、イギリスの「[オーセンティック・サイエンス・フィクション](https://ja.wikipedia.org/wiki/オーセンティック・サイエンス・フィクション "wikilink")」誌を編集）\[7\]\[8\]。
+**E・C・タブ**（E. C. Tubb）こと**エドウィン・チャールズ・タブ**（Edwin Charles Tubb; [1919年](../Page/1919年.md "wikilink")[10月15日](../Page/10月15日.md "wikilink")\[1\] - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[9月10日](../Page/9月10日.md "wikilink")\[2\]）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[小説家](../Page/小説家.md "wikilink")、[SF作家](../Page/SF作家.md "wikilink")。小学校卒業後から様々な職を転々する中、戦前からSFを書き始め、[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")に「[ニュー・ワールズ](https://ja.wikipedia.org/wiki/ニュー・ワールズ "wikilink")」誌から短編"*No Short Cuts*"でデビュー\[3\]。それ以降は50以上\[4\]のペンネームの下にSF、ミステリ、西部小説など\[5\]大量の娯楽小説を執筆した。1972年の時点で、上梓した長編は102、短編は数百あった\[6\]。編集者の経験もある（1956年から57年にかけ、イギリスの「[オーセンティック・サイエンス・フィクション](https://ja.wikipedia.org/wiki/オーセンティック・サイエンス・フィクション "wikilink")」誌を編集）\[7\]\[8\]。
 
 日本では「デュマレスト・サーガ」 (The Dumarest Saga) の作者として知られている。
 
-また、**グレゴリイ・カーン** (Gregory Kern) 名義の作品では、アメリカの[DAWブックスから刊行した](https://ja.wikipedia.org/wiki/ドナルド・A・ウォルハイム "wikilink")[スペースオペラ](../Page/スペースオペラ.md "wikilink")「キャプテン・ケネディ」シリーズが知られている。カーンの名義はこのシリーズ用のペンネームで、当初その正体がタブであることは秘密にされた\[9\]。
+また、**グレゴリイ・カーン** (Gregory Kern) 名義の作品では、アメリカの[DAWブックスから刊行した](../Page/ドナルド・A・ウォルハイム.md "wikilink")[スペースオペラ](../Page/スペースオペラ.md "wikilink")「キャプテン・ケネディ」シリーズが知られている。カーンの名義はこのシリーズ用のペンネームで、当初その正体がタブであることは秘密にされた\[9\]。
 
 ## 作品リスト（日本語訳のあるもののみ）
 
 ### デュマレスト・サーガ
 
-[鎌田三平](https://ja.wikipedia.org/wiki/鎌田三平 "wikilink")ほか複数による訳。[創元SF文庫](https://ja.wikipedia.org/wiki/創元SF文庫 "wikilink")。
+[鎌田三平](https://ja.wikipedia.org/wiki/鎌田三平 "wikilink")ほか複数による訳。[創元SF文庫](../Page/創元SF文庫.md "wikilink")。
 
 （原著刊行年 / 邦訳年）
 

@@ -1,7 +1,7 @@
 > この記事は[Fedora Legacy](https://ja.wikipedia.org/wiki/Fedora_Legacy)から翻訳されています。
 
 
-**Fedora Legacy**（フィドーラ レガシー）は、[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")の一つ、[Red Hat Linuxの後継となった](../Page/Red_Hat_Linux.md "wikilink") [Fedora Project](https://ja.wikipedia.org/wiki/Fedora_Project "wikilink") の派生プロジェクト。2007年に解散している。既に公式サポートが終了した[Red Hat Linuxと](../Page/Red_Hat_Linux.md "wikilink")、版ごとに順次公式サポートを終了する[Fedora Coreに向けて](https://ja.wikipedia.org/wiki/Fedora "wikilink")、**セキュリティ問題を解決する更新パッケージのみ**を提供するプロジェクトである。
+**Fedora Legacy**（フィドーラ レガシー）は、[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")の一つ、[Red Hat Linuxの後継となった](../Page/Red_Hat_Linux.md "wikilink") [Fedora Project](https://ja.wikipedia.org/wiki/Fedora_Project "wikilink") の派生プロジェクト。2007年に解散している。既に公式サポートが終了した[Red Hat Linuxと](../Page/Red_Hat_Linux.md "wikilink")、版ごとに順次公式サポートを終了する[Fedora Coreに向けて](../Page/Fedora.md "wikilink")、**セキュリティ問題を解決する更新パッケージのみ**を提供するプロジェクトである。
 
 2003年11月以降、Red Hat LinuxとFedora Coreの公式サポート終了後、どのようなサポートを提供すべきかについての議論が行なわれた。2003年12月31日頃より、Fedora Legacy Projectのホームページが開設された。パッケージの配付はFedora Projectの前身の一つである Fedora Extras（旧称：Fedora Linux）のサーバ・ミラーを使っている。
 
@@ -22,7 +22,7 @@ Fedora Legacy projectではRed Hat LinuxをRed Hat社の公式サポートが終
 
 ## プロジェクト解散
 
-更に、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月30日](../Page/12月30日.md "wikilink")、\[<http://fedoranews.org/cms/node/2320> プロジェクトの終了が発表された。また、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[2月9日](../Page/2月9日.md "wikilink")、実際にプロジェクトは終了した。
+更に、[2006年](../Page/2006年.md "wikilink")[12月30日](../Page/12月30日.md "wikilink")、\[<http://fedoranews.org/cms/node/2320> プロジェクトの終了が発表された。また、[2007年](../Page/2007年.md "wikilink")[2月9日](../Page/2月9日.md "wikilink")、実際にプロジェクトは終了した。
 
 ## 外部リンク
 

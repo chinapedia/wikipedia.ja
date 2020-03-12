@@ -5,14 +5,14 @@
 
 ## 概要
 
-1991年11月22日の[NHKホール](https://ja.wikipedia.org/wiki/NHKホール "wikilink")でのライブの模様を収録したSOFT BALLET唯一のライブアルバム。なお、曲順や収録曲が若干違う同名のVHSが存在するほか、同日のライブがNHK BS2にて1992年2月に放送された。
+1991年11月22日の[NHKホール](../Page/NHKホール.md "wikilink")でのライブの模様を収録したSOFT BALLET唯一のライブアルバム。なお、曲順や収録曲が若干違う同名のVHSが存在するほか、同日のライブがNHK BS2にて1992年2月に放送された。
 
 ドイツ語タイトルの**Reiz**は英語の[Attractionにあたる](https://ja.wikipedia.org/wiki/アトラクション "wikilink")。
 
 ## 収録曲
 
-1.  NOCTURNE (SE) ([藤井麻輝](https://ja.wikipedia.org/wiki/藤井麻輝 "wikilink"))
-2.  BODY TO BODY ([森岡賢](https://ja.wikipedia.org/wiki/森岡賢 "wikilink"))
+1.  NOCTURNE (SE) ([藤井麻輝](../Page/藤井麻輝.md "wikilink"))
+2.  BODY TO BODY ([森岡賢](../Page/森岡賢.md "wikilink"))
 3.  PRIVATE PRIDE (森岡賢)
 4.  PASSING MOUNTAIN (森岡賢)
 5.  SPINDLE (藤井麻輝)

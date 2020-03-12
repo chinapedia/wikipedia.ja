@@ -3,7 +3,7 @@
 
 **Picorin**（**ピコリン**、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink") - ）は、ソロボーカリスト。[Cutemen](https://ja.wikipedia.org/wiki/Cutemen "wikilink")、[Love The Candy's](https://ja.wikipedia.org/wiki/Love_The_Candy's "wikilink")、East Land Everlasting Picnic Orchestra、Sooty Tool（ソロ・ユニット）のボーカルである。
 
-[福島県](../Page/福島県.md "wikilink")[西白河郡](../Page/西白河郡.md "wikilink")[矢吹町](../Page/矢吹町.md "wikilink")[出身](https://ja.wikipedia.org/wiki/出身 "wikilink")。[福島県立白河高等学校](https://ja.wikipedia.org/wiki/福島県立白河高等学校 "wikilink")卒業。
+[福島県](../Page/福島県.md "wikilink")[西白河郡](../Page/西白河郡.md "wikilink")[矢吹町](../Page/矢吹町.md "wikilink")[出身](https://ja.wikipedia.org/wiki/出身 "wikilink")。[福島県立白河高等学校](../Page/福島県立白河高等学校.md "wikilink")卒業。
 
 ## 人物
 

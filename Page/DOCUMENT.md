@@ -10,9 +10,9 @@
 
 ## 収録曲
 
-1.  NO PLEASURE （[藤井麻輝](https://ja.wikipedia.org/wiki/藤井麻輝 "wikilink")）
+1.  NO PLEASURE （[藤井麻輝](../Page/藤井麻輝.md "wikilink")）
 2.  MIDARA (PORTE DÉVERGONDÉE) （藤井麻輝）
-3.  PRIVATE PRIDE （[森岡賢](https://ja.wikipedia.org/wiki/森岡賢 "wikilink")）
+3.  PRIVATE PRIDE （[森岡賢](../Page/森岡賢.md "wikilink")）
 4.  JARO '68 （藤井麻輝）
 5.  BELIEVE IN A BLUE WORLD （森岡賢）
 6.  ESCAPE （藤井麻輝）

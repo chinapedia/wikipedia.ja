@@ -1,7 +1,7 @@
 > この記事は[FK](https://ja.wikipedia.org/wiki/FK)から翻訳されています。
 
 
-**FKアウストリア・ウィーン** () は、[オーストリア](../Page/オーストリア.md "wikilink")の首都[ウィーン](https://ja.wikipedia.org/wiki/ウィーン "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。[オーストリア・ブンデスリーガに加盟し](../Page/サッカー・ブンデスリーガ_\(オーストリア\).md "wikilink")、[SKラピード・ウィーン](https://ja.wikipedia.org/wiki/SKラピード・ウィーン "wikilink")や[レッドブル・ザルツブルク](../Page/レッドブル・ザルツブルク.md "wikilink")と共にリーグを代表する強豪である。
+**FKアウストリア・ウィーン** () は、[オーストリア](../Page/オーストリア.md "wikilink")の首都[ウィーン](https://ja.wikipedia.org/wiki/ウィーン "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。[オーストリア・ブンデスリーガに加盟し](../Page/サッカー・ブンデスリーガ_\(オーストリア\).md "wikilink")、[SKラピード・ウィーン](../Page/SKラピード・ウィーン.md "wikilink")や[レッドブル・ザルツブルク](../Page/レッドブル・ザルツブルク.md "wikilink")と共にリーグを代表する強豪である。
 
 ## クラブの歴史
 
@@ -11,13 +11,13 @@
 
 ## ウィーン・ダービー
 
-**FKアウストリア・ウィーン**と最大のライバルである[SKラピード・ウィーン](https://ja.wikipedia.org/wiki/SKラピード・ウィーン "wikilink")との間で行われるオーストリア・サッカー史における最も有名なダービーである。
+**FKアウストリア・ウィーン**と最大のライバルである[SKラピード・ウィーン](../Page/SKラピード・ウィーン.md "wikilink")との間で行われるオーストリア・サッカー史における最も有名なダービーである。
 
-[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")で最も長く（どちらかのクラブ降格による中断がないまま）継続的に毎年開催されており、[オールドファーム](https://ja.wikipedia.org/wiki/オールドファーム "wikilink")に続いて2番目に多く開催されている歴史ある1部ダービーである。現在は共に様々な階級のファンに支持されている両クラブだが、歴史上は「労働者階級のクラブ」**SKラピード・ウィーン**と「富裕層のクラブ」[FKアウストリア・ウィーン](https://ja.wikipedia.org/wiki/FKアウストリア・ウィーン "wikilink")という階級対決の側面があった。
+[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")で最も長く（どちらかのクラブ降格による中断がないまま）継続的に毎年開催されており、[オールドファーム](https://ja.wikipedia.org/wiki/オールドファーム "wikilink")に続いて2番目に多く開催されている歴史ある1部ダービーである。現在は共に様々な階級のファンに支持されている両クラブだが、歴史上は「労働者階級のクラブ」**SKラピード・ウィーン**と「富裕層のクラブ」[FKアウストリア・ウィーン](../Page/FKアウストリア・ウィーン.md "wikilink")という階級対決の側面があった。
 
-最初の公式戦でのダービーは1911年9月8日に開催され、[SKラピード・ウィーン](https://ja.wikipedia.org/wiki/SKラピード・ウィーン "wikilink")が4-1で勝利した。**FKアウストリア・ウィーン**の初勝利は1917年11月11日の1-0である。
+最初の公式戦でのダービーは1911年9月8日に開催され、[SKラピード・ウィーン](../Page/SKラピード・ウィーン.md "wikilink")が4-1で勝利した。**FKアウストリア・ウィーン**の初勝利は1917年11月11日の1-0である。
 
-2018年現在、これまでの対戦記録は通算325試合中、**FKアウストリア・ウィーン**が118勝、[SKラピード・ウィーン](https://ja.wikipedia.org/wiki/SKラピード・ウィーン "wikilink")が134勝、そして73引き分けとなっている。
+2018年現在、これまでの対戦記録は通算325試合中、**FKアウストリア・ウィーン**が118勝、[SKラピード・ウィーン](../Page/SKラピード・ウィーン.md "wikilink")が134勝、そして73引き分けとなっている。
 
 ## タイトル
 
@@ -63,7 +63,7 @@
 
 <!-- end list -->
 
-  - **[コパ・リオ](https://ja.wikipedia.org/wiki/コパ・リオ "wikilink") \<[FIFA](https://ja.wikipedia.org/wiki/FIFA "wikilink")とCBF ([ブラジルサッカー連盟](https://ja.wikipedia.org/wiki/ブラジルサッカー連盟 "wikilink")) が共催したクラブワールドカップ\> 準決勝進出 : 2回**
+  - **[コパ・リオ](https://ja.wikipedia.org/wiki/コパ・リオ "wikilink") \<[FIFA](https://ja.wikipedia.org/wiki/FIFA "wikilink")とCBF ([ブラジルサッカー連盟](../Page/ブラジルサッカー連盟.md "wikilink")) が共催したクラブワールドカップ\> 準決勝進出 : 2回**
       - 1951, 1952
 
 <!-- end list -->
@@ -245,11 +245,11 @@
 
   - [ロベルト・サーラ](../Page/ロベルト・サーラ.md "wikilink") *（暫定監督）* (1998)
 
-  - [ズデンコ・ベルデニック](https://ja.wikipedia.org/wiki/ズデンコ・ベルデニック "wikilink") (1998–99)
+  - [ズデンコ・ベルデニック](../Page/ズデンコ・ベルデニック.md "wikilink") (1998–99)
 
 <!-- end list -->
 
-  - [フリードリッヒ・コンシリア](https://ja.wikipedia.org/wiki/フリードリッヒ・コンシリア "wikilink") *（暫定監督）* (1999)
+  - [フリードリッヒ・コンシリア](../Page/フリードリッヒ・コンシリア.md "wikilink") *（暫定監督）* (1999)
 
   - [ヘルベルト・プロハスカ](../Page/ヘルベルト・プロハスカ.md "wikilink") (1999–2000)
 
@@ -301,7 +301,7 @@
 
 ### GK
 
-  - [フリードリッヒ・コンシリア](https://ja.wikipedia.org/wiki/フリードリッヒ・コンシリア "wikilink") 1980-1985
+  - [フリードリッヒ・コンシリア](../Page/フリードリッヒ・コンシリア.md "wikilink") 1980-1985
 
   - [フランツ・ヴォールファールト](../Page/フランツ・ヴォールファールト.md "wikilink") 1984-1996, 2000-2002
 
@@ -411,7 +411,7 @@
 
   - [ジョゼ・アグアス](https://ja.wikipedia.org/wiki/ジョゼ・アグアス "wikilink") 1963-1964
 
-  - [アントン・ポルスター](https://ja.wikipedia.org/wiki/アントン・ポルスター "wikilink") 1982-1987
+  - [アントン・ポルスター](../Page/アントン・ポルスター.md "wikilink") 1982-1987
 
   - [ニラシ・ティボル](https://ja.wikipedia.org/wiki/ニラシ・ティボル "wikilink") 1983-1988
 

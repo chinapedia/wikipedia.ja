@@ -19,29 +19,29 @@
 
 ## 歴代所属選手
 
-### [GK](https://ja.wikipedia.org/wiki/ゴールキーパー_\(サッカー\) "wikilink")
+### [GK](../Page/ゴールキーパー_\(サッカー\).md "wikilink")
 
 ### [DF](../Page/ディフェンダー_\(サッカー\).md "wikilink")
 
-  - [シジクレイ](https://ja.wikipedia.org/wiki/シジクレイ・デ・ソウザ "wikilink") 1990-1995
+  - [シジクレイ](../Page/シジクレイ・デ・ソウザ.md "wikilink") 1990-1995
 
-  - [ペリクレス](https://ja.wikipedia.org/wiki/ペリクレス・デ・オリベイラ・ラモス "wikilink") 1991-1995
+  - [ペリクレス](../Page/ペリクレス・デ・オリベイラ・ラモス.md "wikilink") 1991-1995
 
 ### [MF](../Page/ミッドフィールダー.md "wikilink")
 
-  - [ジアス](https://ja.wikipedia.org/wiki/カルロス・アルベルト・コスタ・ジアス "wikilink") 1985
+  - [ジアス](../Page/カルロス・アルベルト・コスタ・ジアス.md "wikilink") 1985
 
   - [アウミール](../Page/アウミール・モライス・アンドラーデ.md "wikilink") 1990-1993
 
   - [マルキーニョ](../Page/マルコス・ボニファシオ・ダ・ローシャ.md "wikilink") 1993-1996
 
-### [FW](https://ja.wikipedia.org/wiki/フォワード_\(サッカー\) "wikilink")
+### [FW](../Page/フォワード_\(サッカー\).md "wikilink")
 
   - [三浦知良](../Page/三浦知良.md "wikilink") 1986
 
-  - [エジミウソン](https://ja.wikipedia.org/wiki/エジミウソン・マティアス "wikilink") 1988-1995
+  - [エジミウソン](../Page/エジミウソン・マティアス.md "wikilink") 1988-1995
 
-  - [ロブソン](https://ja.wikipedia.org/wiki/ロブソン・ルイス・ペレイラ・ダ・シルバ "wikilink") 1992
+  - [ロブソン](../Page/ロブソン・ルイス・ペレイラ・ダ・シルバ.md "wikilink") 1992
 
   - [アンドラジーニャ](../Page/エジ・カルロス・ディアス・マルサウ.md "wikilink") 1993-1995
 

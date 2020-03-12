@@ -5,17 +5,17 @@
 
 ## 概要
 
-  - バンド史上大きな転機となった作品であり、[藤井麻輝](https://ja.wikipedia.org/wiki/藤井麻輝 "wikilink")は本作リリース前のインタビューで「ファンを篩いにかけたアルバム」「[ミーハー](../Page/ミーハー.md "wikilink")ファンは駆逐する」と語っている。
-  - [森岡賢](https://ja.wikipedia.org/wiki/森岡賢 "wikilink")と藤井との初の共同作曲である「HYSTERIA」が収録されている。
-  - M-8に[BUCK-TICK](https://ja.wikipedia.org/wiki/BUCK-TICK "wikilink")の[ギタリスト](../Page/ギタリスト.md "wikilink")[今井寿](../Page/今井寿.md "wikilink")が参加している。
+  - バンド史上大きな転機となった作品であり、[藤井麻輝](../Page/藤井麻輝.md "wikilink")は本作リリース前のインタビューで「ファンを篩いにかけたアルバム」「[ミーハー](../Page/ミーハー.md "wikilink")ファンは駆逐する」と語っている。
+  - [森岡賢](../Page/森岡賢.md "wikilink")と藤井との初の共同作曲である「HYSTERIA」が収録されている。
+  - M-8に[BUCK-TICK](../Page/BUCK-TICK.md "wikilink")の[ギタリスト](../Page/ギタリスト.md "wikilink")[今井寿](../Page/今井寿.md "wikilink")が参加している。
   - 2019年にリリースされたアナログ盤には「THRESHOLD (YELLOW-MIX)」は収録されていない。
 
 ## 収録曲
 
-1.  FRACTAL ([森岡賢](https://ja.wikipedia.org/wiki/森岡賢 "wikilink"))
+1.  FRACTAL ([森岡賢](../Page/森岡賢.md "wikilink"))
 2.  WHOLE THE WHOLE (森岡賢)
 3.  A SHEPHERD'S SON (森岡賢)
-4.  VIETNAM ([藤井麻輝](https://ja.wikipedia.org/wiki/藤井麻輝 "wikilink"))
+4.  VIETNAM ([藤井麻輝](../Page/藤井麻輝.md "wikilink"))
 5.  INSTINCT? (森岡賢)
 6.  HYSTERIA (藤井麻輝, 森岡賢)
 7.  FAIRY TALE (森岡賢)

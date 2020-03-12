@@ -3,7 +3,7 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Tablet_of_FRISK-1.jpg "wikilink") **FRISK** （**フリスク**） はオランダの[ペルフェティ・ファン・メレ](https://ja.wikipedia.org/wiki/ペルフェティ・ファン・メレ "wikilink")社が世界展開する[ミント](../Page/ミント.md "wikilink")風味の[シュガーレス](../Page/シュガーレス.md "wikilink")清涼[菓子](../Page/菓子.md "wikilink")ブランド。
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")の薬局で[錠菓](../Page/錠菓.md "wikilink")として販売されたのが最初である。日本では[クラシエフーズ](https://ja.wikipedia.org/wiki/クラシエフーズ "wikilink")株式会社（旧・カネボウフーズ株式会社）が[1994年](../Page/1994年.md "wikilink")から本格的に輸入販売を開始、その後、世界的に、特に日本で人気が急拡大した。
+[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")の薬局で[錠菓](../Page/錠菓.md "wikilink")として販売されたのが最初である。日本では[クラシエフーズ](../Page/クラシエフーズ.md "wikilink")株式会社（旧・カネボウフーズ株式会社）が[1994年](../Page/1994年.md "wikilink")から本格的に輸入販売を開始、その後、世界的に、特に日本で人気が急拡大した。
 
 キャッチコピーは「*SHARPENS YOU UP*」である。訳すと「あなたを鋭くする（物）」で、意訳すれば「あなたを冴えさせる（物)」となる。なお「*frisk*」は[デンマーク語](../Page/デンマーク語.md "wikilink")・[スウェーデン語](../Page/スウェーデン語.md "wikilink")で「新鮮な」を意味する。英fresh・独frischと同語源である。
 
@@ -26,7 +26,7 @@ FRISKは各風味ごとにイメージカラーが設定されている。本項
 
       - ベリーミント☆ - 2004年5月発売。日本国内限定。2014年3月にリニューアルし、フレーバーのイメージカラーが発売当時の仕様に戻された。
 
-      - エクストラミント - 沖縄県を除く九州地方と北海道で地域限定発売。他のエリアでも[プラザ（旧ソニープラザ）限定で販売](https://ja.wikipedia.org/wiki/プラザ_\(雑貨店\) "wikilink")。
+      - エクストラミント - 沖縄県を除く九州地方と北海道で地域限定発売。他のエリアでも[プラザ（旧ソニープラザ）限定で販売](../Page/プラザ_\(雑貨店\).md "wikilink")。
 
       - ブラックミント☆ - 2008年5月発売。前述の「エクストラミント」の後継で、日本国内限定と推測される。
 
@@ -103,7 +103,7 @@ FRISKは各風味ごとにイメージカラーが設定されている。本項
 
 ## 原産国
 
-以前は原産国が[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")だったが、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")ごろから日本で販売されているものは[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")に変わっている。理由は当時のカネボウフーズによれば、FRISK社が工場をベルギーからオランダに移転したため、とのこと。
+以前は原産国が[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")だったが、[2006年](../Page/2006年.md "wikilink")ごろから日本で販売されているものは[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")に変わっている。理由は当時のカネボウフーズによれば、FRISK社が工場をベルギーからオランダに移転したため、とのこと。
 
 ## パッケージ
 
@@ -113,7 +113,7 @@ FRISKは各風味ごとにイメージカラーが設定されている。本項
 
   - 漫画「[クレヨンしんちゃん](https://ja.wikipedia.org/wiki/クレヨンしんちゃん "wikilink")」の作品中に「フリスクゴツブハオオスギル」(フリスク5粒は多過ぎる)という呪文が登場したことがある。
   - 漫画「[ピューと吹く\!ジャガー](../Page/ピューと吹く!ジャガー.md "wikilink")」第370笛は「マスクしたままフリスク食うと目がスースーして危険」というタイトルだった。
-  - テレビ番組「[雨上がり決死隊のトーク番組アメトーク\!](https://ja.wikipedia.org/wiki/雨上がり決死隊のトーク番組アメトーーク! "wikilink")」（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）でフリスクが好きなお笑い芸人がフリスクに関するトークをする『フリスク芸人』という企画が放送された。
+  - テレビ番組「[雨上がり決死隊のトーク番組アメトーク\!](../Page/雨上がり決死隊のトーク番組アメトーーク!.md "wikilink")」（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）でフリスクが好きなお笑い芸人がフリスクに関するトークをする『フリスク芸人』という企画が放送された。
   - 漫画「[SKET DANCE](https://ja.wikipedia.org/wiki/SKET_DANCE "wikilink")」の作品中に、「フリスケ(FRISKE)」という名の清涼菓子が登場している（パッケージ、タブレット共にFRISKと類似している）。
 
 ## FRISK LABEL
@@ -129,8 +129,8 @@ FRISKは各風味ごとにイメージカラーが設定されている。本項
 ## 関連項目
 
   - [ミンティア](../Page/ミンティア.md "wikilink")
-  - [メントス](https://ja.wikipedia.org/wiki/メントス "wikilink") - 「FRISK」と同じくペルフェティ・ファン・メレ社が発売する[ソフトキャンディ](https://ja.wikipedia.org/wiki/ソフトキャンディ "wikilink")。2015年10月に日本での販売権が移管され、「FRISK」と同じくクラシエフーズが販売している。
-  - [遠藤章造](https://ja.wikipedia.org/wiki/遠藤章造 "wikilink") - [ダウンタウンのガキの使いやあらへんで\!\!](https://ja.wikipedia.org/wiki/ダウンタウンのガキの使いやあらへんで!! "wikilink")の企画「[これやってみたかってん\! 絶対においしい○○選手権](https://ja.wikipedia.org/wiki/ダウンタウンのガキの使いやあらへんで!!の企画#これやってみたかってん!_絶対においしい○○選手権 "wikilink")」にてフリスクを用いた数々の料理を披露した。
+  - [メントス](../Page/メントス.md "wikilink") - 「FRISK」と同じくペルフェティ・ファン・メレ社が発売する[ソフトキャンディ](https://ja.wikipedia.org/wiki/ソフトキャンディ "wikilink")。2015年10月に日本での販売権が移管され、「FRISK」と同じくクラシエフーズが販売している。
+  - [遠藤章造](../Page/遠藤章造.md "wikilink") - [ダウンタウンのガキの使いやあらへんで\!\!](https://ja.wikipedia.org/wiki/ダウンタウンのガキの使いやあらへんで!! "wikilink")の企画「[これやってみたかってん\! 絶対においしい○○選手権](https://ja.wikipedia.org/wiki/ダウンタウンのガキの使いやあらへんで!!の企画#これやってみたかってん!_絶対においしい○○選手権 "wikilink")」にてフリスクを用いた数々の料理を披露した。
   - [WX03A](https://ja.wikipedia.org/wiki/WX03A "wikilink")・[WX06A](https://ja.wikipedia.org/wiki/WX06A "wikilink") - 通称ストラップフォン。[エイビット](https://ja.wikipedia.org/wiki/エイビット "wikilink")から発売されている[ワイモバイル](https://ja.wikipedia.org/wiki/Y!mobile "wikilink")（旧[ウィルコム](../Page/ウィルコム.md "wikilink")ブランド）のPHS（携帯電話）。サイズがFRISKのパッケージと同じで、一部ユーザーからFRISKフォンという通称で呼ばれることがある。
   - [スッキリウスのひらめき](https://ja.wikipedia.org/wiki/スッキリウスのひらめき "wikilink") - [2013年](../Page/2013年.md "wikilink")[9月7日](../Page/9月7日.md "wikilink")から[TBSで放送されている](../Page/TBSテレビ.md "wikilink")[単独提供番組](../Page/一社提供.md "wikilink")。
 

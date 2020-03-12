@@ -1,7 +1,7 @@
 > この記事は[Shibuya O-WEST](https://ja.wikipedia.org/wiki/Shibuya_O-WEST)から翻訳されています。
 
 
-[渋谷20170723-1.jpg](https://ja.wikipedia.org/wiki/File:渋谷20170723-1.jpg "fig:渋谷20170723-1.jpg") **Shibuya O-WEST**（しぶやオーウエスト）は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[円山町にある](https://ja.wikipedia.org/wiki/円山町_\(渋谷区\) "wikilink")[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")。シブヤテレビジョンが運営する[Shibuya　O-Groupのライブハウスのひとつ](https://ja.wikipedia.org/wiki/Shibuya_O-Group "wikilink")。[カルチュア・コンビニエンス・クラブ](https://ja.wikipedia.org/wiki/カルチュア・コンビニエンス・クラブ "wikilink")が[ネーミングライツを取得したため](https://ja.wikipedia.org/wiki/命名権 "wikilink")、2013年12月以降の名称は**TSUTAYA O-WEST**となっている\[1\]。
+[渋谷20170723-1.jpg](https://ja.wikipedia.org/wiki/File:渋谷20170723-1.jpg "fig:渋谷20170723-1.jpg") **Shibuya O-WEST**（しぶやオーウエスト）は、[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[円山町にある](../Page/円山町_\(渋谷区\).md "wikilink")[ライブハウス](../Page/ライブハウス.md "wikilink")。シブヤテレビジョンが運営する[Shibuya　O-Groupのライブハウスのひとつ](https://ja.wikipedia.org/wiki/Shibuya_O-Group "wikilink")。[カルチュア・コンビニエンス・クラブ](https://ja.wikipedia.org/wiki/カルチュア・コンビニエンス・クラブ "wikilink")が[ネーミングライツを取得したため](https://ja.wikipedia.org/wiki/命名権 "wikilink")、2013年12月以降の名称は**TSUTAYA O-WEST**となっている\[1\]。
 
 ## O-WESTビル概要
 
@@ -21,7 +21,7 @@
 
 ## 歴史
 
-  - [1993年](../Page/1993年.md "wikilink")12月、ON AIR（現在の[TSUTAYA O-EAST](https://ja.wikipedia.org/wiki/Shibuya_O-EAST "wikilink")）向かいのビルにON AIR WESTとしてオープン。
+  - [1993年](../Page/1993年.md "wikilink")12月、ON AIR（現在の[TSUTAYA O-EAST](../Page/Shibuya_O-EAST.md "wikilink")）向かいのビルにON AIR WESTとしてオープン。
   - [1996年](../Page/1996年.md "wikilink")3月、渋谷nest（現TSUTAYA O-nest）オープン。
   - [2003年](../Page/2003年.md "wikilink")12月、O-EASTビル完成に合わせて、Shibuya O-WEST、O-nestに名称を変更。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")2月、O-nestがシブヤテレビジョンの直営店舗化。
@@ -32,7 +32,7 @@
 ## 関連項目
 
   - [Shibuya O-Group](https://ja.wikipedia.org/wiki/Shibuya_O-Group "wikilink")
-  - [Shibuya O-EAST](https://ja.wikipedia.org/wiki/Shibuya_O-EAST "wikilink")
+  - [Shibuya O-EAST](../Page/Shibuya_O-EAST.md "wikilink")
 
 ## 外部リンク
 

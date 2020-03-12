@@ -1,55 +1,55 @@
 > この記事は[KOKIA](https://ja.wikipedia.org/wiki/KOKIA)から翻訳されています。
 
 
-**KOKIA**（コキア、[1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink")[7月22日](../Page/7月22日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")・[ボーカリスト](https://ja.wikipedia.org/wiki/ボーカリスト "wikilink")。本名は吉田亜紀子（よしだ あきこ）。[ヴァイオリニスト](https://ja.wikipedia.org/wiki/ヴァイオリニスト "wikilink")の[吉田恭子は実姉である](https://ja.wikipedia.org/wiki/吉田恭子_\(ヴァイオリニスト\) "wikilink")。[内閣府](../Page/内閣府.md "wikilink")「災害被害を軽減する国民運動」の[サポーター](https://ja.wikipedia.org/wiki/サポーター "wikilink")。
+**KOKIA**（コキア、[1976年](../Page/1976年.md "wikilink")[7月22日](../Page/7月22日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")・[ボーカリスト](https://ja.wikipedia.org/wiki/ボーカリスト "wikilink")。本名は吉田亜紀子（よしだ あきこ）。[ヴァイオリニスト](../Page/ヴァイオリニスト.md "wikilink")の[吉田恭子は実姉である](../Page/吉田恭子_\(ヴァイオリニスト\).md "wikilink")。[内閣府](../Page/内閣府.md "wikilink")「災害被害を軽減する国民運動」の[サポーター](https://ja.wikipedia.org/wiki/サポーター "wikilink")。
 
 ## 概要
 
-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（[平成](../Page/平成.md "wikilink")10年）[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")。[芸名](https://ja.wikipedia.org/wiki/芸名 "wikilink")は、本名「亜紀子（あきこ）」を逆から読み「こきあ」それを[ローマ字](https://ja.wikipedia.org/wiki/ローマ字 "wikilink")表記「KOKIA」したものである。なお、のちの一作「調和 oto 〜with reflection〜」では、[日本語](../Page/日本語.md "wikilink")で仮に詠んだ[歌詞](https://ja.wikipedia.org/wiki/歌詞 "wikilink")を反転させ、[架空](https://ja.wikipedia.org/wiki/架空 "wikilink")[言語](../Page/言語.md "wikilink")の歌詞を創り出して詠んでいる。
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（[平成](../Page/平成.md "wikilink")10年）[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")。[芸名](../Page/芸名.md "wikilink")は、本名「亜紀子（あきこ）」を逆から読み「こきあ」それを[ローマ字](https://ja.wikipedia.org/wiki/ローマ字 "wikilink")表記「KOKIA」したものである。なお、のちの一作「調和 oto 〜with reflection〜」では、[日本語](../Page/日本語.md "wikilink")で仮に詠んだ[歌詞](../Page/歌詞.md "wikilink")を反転させ、[架空](../Page/架空.md "wikilink")[言語](../Page/言語.md "wikilink")の歌詞を創り出して詠んでいる。
 
 ## 来歴
 
-幼少の頃から[ヴァイオリン](../Page/ヴァイオリン.md "wikilink")や[ピアノ](../Page/ピアノ.md "wikilink")を通じて、[音楽](../Page/音楽.md "wikilink")の楽しさと触れ合う。小・中学校は[立教女学院に通い](https://ja.wikipedia.org/wiki/学校法人立教女学院 "wikilink")、[賛美歌](../Page/賛美歌.md "wikilink")に慣れ親しむ。[桐朋女子高等学校音楽科を経て](https://ja.wikipedia.org/wiki/桐朋女子中学校・高等学校 "wikilink")、[桐朋学園大学](https://ja.wikipedia.org/wiki/桐朋学園大学 "wikilink")音楽学部に進学（ともに[声楽](https://ja.wikipedia.org/wiki/声楽 "wikilink")専攻）。また、学生時代に[ECCの](https://ja.wikipedia.org/wiki/ECC総合教育機関 "wikilink")[ホノルル](https://ja.wikipedia.org/wiki/ホノルル "wikilink")市長杯英語弁論大会という日本の高校・大学生対象英語スピーチコンテストに出場し、優勝した。
+幼少の頃から[ヴァイオリン](../Page/ヴァイオリン.md "wikilink")や[ピアノ](../Page/ピアノ.md "wikilink")を通じて、[音楽](../Page/音楽.md "wikilink")の楽しさと触れ合う。小・中学校は[立教女学院に通い](../Page/学校法人立教女学院.md "wikilink")、[賛美歌](../Page/賛美歌.md "wikilink")に慣れ親しむ。[桐朋女子高等学校音楽科を経て](../Page/桐朋女子中学校・高等学校.md "wikilink")、[桐朋学園大学](../Page/桐朋学園大学.md "wikilink")音楽学部に進学（ともに[声楽](../Page/声楽.md "wikilink")専攻）。また、学生時代に[ECCの](../Page/ECC総合教育機関.md "wikilink")[ホノルル](../Page/ホノルル.md "wikilink")市長杯英語弁論大会という日本の高校・大学生対象英語スピーチコンテストに出場し、優勝した。
 
-大学在学中の1998年（平成10年）に[シングル](https://ja.wikipedia.org/wiki/シングル "wikilink")「愛しているから」で[ポニーキャニオン](https://ja.wikipedia.org/wiki/ポニーキャニオン "wikilink")よりデビュー。
+大学在学中の1998年（平成10年）に[シングル](../Page/シングル.md "wikilink")「愛しているから」で[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")よりデビュー。
 
-[2000年](../Page/2000年.md "wikilink")（平成12年）、ポニーキャニオンとの契約が終了すると、ЯKS（[河村隆一](https://ja.wikipedia.org/wiki/河村隆一 "wikilink")プロデュース）作品にボーカリストとして、シングル2枚と[アルバム](../Page/アルバム.md "wikilink")1枚に参加する。
+[2000年](../Page/2000年.md "wikilink")（平成12年）、ポニーキャニオンとの契約が終了すると、ЯKS（[河村隆一](../Page/河村隆一.md "wikilink")プロデュース）作品にボーカリストとして、シングル2枚と[アルバム](../Page/アルバム.md "wikilink")1枚に参加する。
 
-[2001年](../Page/2001年.md "wikilink")（平成13年）、[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")と契約し、移籍後、第1弾シングル「tomoni」を発売。[2003年](../Page/2003年.md "wikilink")（平成15年）、8枚目のシングル「かわらないこと 〜since 1976〜」がドラマの主題歌に、続く9枚目のシングル「The Power of Smile」がCMソングにそれぞれ起用され、[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")系『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』に「The Power of Smile」で初出演した。
+[2001年](../Page/2001年.md "wikilink")（平成13年）、[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")と契約し、移籍後、第1弾シングル「tomoni」を発売。[2003年](../Page/2003年.md "wikilink")（平成15年）、8枚目のシングル「かわらないこと 〜since 1976〜」がドラマの主題歌に、続く9枚目のシングル「The Power of Smile」がCMソングにそれぞれ起用され、[テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』に「The Power of Smile」で初出演した。
 
-[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")（平成16年）、[アテネオリンピック日本選手団公式応援ソングとなった](https://ja.wikipedia.org/wiki/アテネオリンピック_\(2004年\) "wikilink")11枚目のシングル「夢がチカラ」がテレビや新聞などのメディアに広く採り上げられた。[2005年日本国際博覧会](https://ja.wikipedia.org/wiki/2005年日本国際博覧会 "wikilink")では、[加藤登紀子](https://ja.wikipedia.org/wiki/加藤登紀子 "wikilink")らと共に、自然をコンセプトとしたライブを実施した。
+[2004年](../Page/2004年.md "wikilink")（平成16年）、[アテネオリンピック日本選手団公式応援ソングとなった](https://ja.wikipedia.org/wiki/アテネオリンピック_\(2004年\) "wikilink")11枚目のシングル「夢がチカラ」がテレビや新聞などのメディアに広く採り上げられた。[2005年日本国際博覧会](../Page/2005年日本国際博覧会.md "wikilink")では、[加藤登紀子](../Page/加藤登紀子.md "wikilink")らと共に、自然をコンセプトとしたライブを実施した。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）、初の[ベストアルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『pearl 〜The Best Collection〜』と初の[DVD](../Page/DVD.md "wikilink")『Jewel 〜The Best Video Collection〜』をそれぞれ発売。同年[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")、個人事務所であるanco\&co.を設立し、独立。独立直後には、六本木スイートベイジルにて初のマンスリー[ライブを開催](https://ja.wikipedia.org/wiki/演奏会 "wikilink")。第1・第3火曜日に[ネットラジオ](https://ja.wikipedia.org/wiki/ネットラジオ "wikilink")「KOKI薬曲」を放送したり、映画『おじいちゃんのチューリップ』を制作したりと幅広く活動している。
+[2006年](../Page/2006年.md "wikilink")（平成18年）、初の[ベストアルバム](../Page/ベスト・アルバム.md "wikilink")『pearl 〜The Best Collection〜』と初の[DVD](../Page/DVD.md "wikilink")『Jewel 〜The Best Video Collection〜』をそれぞれ発売。同年[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")、個人事務所であるanco\&co.を設立し、独立。独立直後には、六本木スイートベイジルにて初のマンスリー[ライブを開催](../Page/演奏会.md "wikilink")。第1・第3火曜日に[ネットラジオ](https://ja.wikipedia.org/wiki/ネットラジオ "wikilink")「KOKI薬曲」を放送したり、映画『おじいちゃんのチューリップ』を制作したりと幅広く活動している。
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")（平成19年）、[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[カワズ君の検索生活](https://ja.wikipedia.org/wiki/カワズ君の検索生活 "wikilink")』で楽曲「[ありがとう…](https://ja.wikipedia.org/wiki/ありがとう… "wikilink")」が使用され、反響を受けたことで同曲が再発売された。また、[新潟県中越沖地震](https://ja.wikipedia.org/wiki/新潟県中越沖地震 "wikilink")の災害を受け、[柏崎コミュニティ放送](https://ja.wikipedia.org/wiki/柏崎コミュニティ放送 "wikilink")のみでの楽曲「私にできること」を提供した。この曲が放送局で流れるまでのいきさつ\[1\]は、テレビや新聞等でも採り上げられた。このときの読売新聞の記事の抜粋が、高校現代社会の資料集\[2\]に掲載された。また、[自衛隊](../Page/自衛隊.md "wikilink")からの招待を受け、柏崎市民プラザにて同年[8月6日](../Page/8月6日.md "wikilink")に「未来へはばたけ柏崎コンサート」で、3,000人の観客を前にして、[陸上自衛隊東部方面音楽隊の伴奏で](https://ja.wikipedia.org/wiki/音楽隊_\(陸上自衛隊\)#東部方面音楽隊 "wikilink")、応援ライブを行った。同曲は自主制作盤として[新潟県](../Page/新潟県.md "wikilink")[柏崎市](https://ja.wikipedia.org/wiki/柏崎市 "wikilink")を中心に発売されている。11月にはビクターエンタテインメント内部のアニメ作品専用レーベルであるflying DOGよりシングル「[Follow the Nightingale](https://ja.wikipedia.org/wiki/Follow_the_Nightingale "wikilink")」を発売。
+[2007年](../Page/2007年.md "wikilink")（平成19年）、[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[カワズ君の検索生活](../Page/カワズ君の検索生活.md "wikilink")』で楽曲「[ありがとう…](../Page/ありがとう….md "wikilink")」が使用され、反響を受けたことで同曲が再発売された。また、[新潟県中越沖地震](../Page/新潟県中越沖地震.md "wikilink")の災害を受け、[柏崎コミュニティ放送](../Page/柏崎コミュニティ放送.md "wikilink")のみでの楽曲「私にできること」を提供した。この曲が放送局で流れるまでのいきさつ\[1\]は、テレビや新聞等でも採り上げられた。このときの読売新聞の記事の抜粋が、高校現代社会の資料集\[2\]に掲載された。また、[自衛隊](../Page/自衛隊.md "wikilink")からの招待を受け、柏崎市民プラザにて同年[8月6日](../Page/8月6日.md "wikilink")に「未来へはばたけ柏崎コンサート」で、3,000人の観客を前にして、[陸上自衛隊東部方面音楽隊の伴奏で](https://ja.wikipedia.org/wiki/音楽隊_\(陸上自衛隊\)#東部方面音楽隊 "wikilink")、応援ライブを行った。同曲は自主制作盤として[新潟県](../Page/新潟県.md "wikilink")[柏崎市](../Page/柏崎市.md "wikilink")を中心に発売されている。11月にはビクターエンタテインメント内部のアニメ作品専用レーベルであるflying DOGよりシングル「[Follow the Nightingale](../Page/Follow_the_Nightingale.md "wikilink")」を発売。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）からはアルバム作品を中心とした作品発表を行っている。[ジャズ](../Page/ジャズ.md "wikilink")[音楽専門誌](https://ja.wikipedia.org/wiki/音楽雑誌 "wikilink")『[ADLIB](https://ja.wikipedia.org/wiki/ADLIB "wikilink")』では、[上妻宏光](https://ja.wikipedia.org/wiki/上妻宏光 "wikilink")や[小泉ニロ](https://ja.wikipedia.org/wiki/小泉ニロ "wikilink")とともに、[アドリブ・アワード](https://ja.wikipedia.org/wiki/アドリブ・アワード "wikilink")2008国内ワールド/ニュー・エイジ賞を受賞した。また、[新潟県中越沖地震](https://ja.wikipedia.org/wiki/新潟県中越沖地震 "wikilink")においての今までの復興支援活動が評価され、[社団法人日本青年会議所](https://ja.wikipedia.org/wiki/社団法人日本青年会議所 "wikilink")主催の青年版[国民栄誉賞](../Page/国民栄誉賞.md "wikilink")「第22回 [人間力大賞](https://ja.wikipedia.org/wiki/人間力大賞 "wikilink")」において、[福祉](../Page/福祉.md "wikilink")・[教育](../Page/教育.md "wikilink")の[ジャンル](../Page/ジャンル.md "wikilink")に[ノミネート](https://ja.wikipedia.org/wiki/ノミネート "wikilink")され、2008年度まちづくり市民財団奨励賞を受賞している。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）からはアルバム作品を中心とした作品発表を行っている。[ジャズ](../Page/ジャズ.md "wikilink")[音楽専門誌](https://ja.wikipedia.org/wiki/音楽雑誌 "wikilink")『[ADLIB](https://ja.wikipedia.org/wiki/ADLIB "wikilink")』では、[上妻宏光](../Page/上妻宏光.md "wikilink")や[小泉ニロ](../Page/小泉ニロ.md "wikilink")とともに、[アドリブ・アワード](https://ja.wikipedia.org/wiki/アドリブ・アワード "wikilink")2008国内ワールド/ニュー・エイジ賞を受賞した。また、[新潟県中越沖地震](../Page/新潟県中越沖地震.md "wikilink")においての今までの復興支援活動が評価され、[社団法人日本青年会議所](https://ja.wikipedia.org/wiki/社団法人日本青年会議所 "wikilink")主催の青年版[国民栄誉賞](../Page/国民栄誉賞.md "wikilink")「第22回 [人間力大賞](../Page/人間力大賞.md "wikilink")」において、[福祉](../Page/福祉.md "wikilink")・[教育](../Page/教育.md "wikilink")の[ジャンル](../Page/ジャンル.md "wikilink")に[ノミネート](https://ja.wikipedia.org/wiki/ノミネート "wikilink")され、2008年度まちづくり市民財団奨励賞を受賞している。
 
 [2009年](../Page/2009年.md "wikilink")（平成21年）、ヨーロッパツアーを終え「Life Trilogy 〜いのちの歌3部作〜」と題し、3部構成で配信限定シングルのリリースを開始。第一章「君をさがして/last love song」、第二章「single mother/クリスマスの響き」、翌年にリリースされた第三章「孤独な生きもの/あの日の私に」は、限定配信された[iTunes StoreのJ](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")-POPアルバム部門において連続1位を獲得した\[3\]。
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）、[日本赤十字社](https://ja.wikipedia.org/wiki/日本赤十字社 "wikilink")大阪府支部で制作した[赤十字社](https://ja.wikipedia.org/wiki/赤十字社 "wikilink")の活動映像「私たちの想い」の[BGM](https://ja.wikipedia.org/wiki/BGM "wikilink")にKOKIAの「[命の光](https://ja.wikipedia.org/wiki/命の光 "wikilink")」が採用され、日本赤十字社大阪府支部のホームページで公開される\[4\]。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）、[日本赤十字社](https://ja.wikipedia.org/wiki/日本赤十字社 "wikilink")大阪府支部で制作した[赤十字社](../Page/赤十字社.md "wikilink")の活動映像「私たちの想い」の[BGM](https://ja.wikipedia.org/wiki/BGM "wikilink")にKOKIAの「[命の光](https://ja.wikipedia.org/wiki/命の光 "wikilink")」が採用され、日本赤十字社大阪府支部のホームページで公開される\[4\]。
 
-[2011年](../Page/2011年.md "wikilink")（平成23年）、ゲームソフト『[ファイナルファンタジーXIII-2](https://ja.wikipedia.org/wiki/ファイナルファンタジーXIII-2 "wikilink")』 ([PS3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")・[XBOX360](https://ja.wikipedia.org/wiki/Xbox_360 "wikilink")) のゲストボーカルに参加し、「ノエルのテーマ 〜最後の旅〜」を歌う（楽曲はゲームのオリジナル・[サウンドトラック](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")にも収録）。
+[2011年](../Page/2011年.md "wikilink")（平成23年）、ゲームソフト『[ファイナルファンタジーXIII-2](https://ja.wikipedia.org/wiki/ファイナルファンタジーXIII-2 "wikilink")』 ([PS3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")・[XBOX360](../Page/Xbox_360.md "wikilink")) のゲストボーカルに参加し、「ノエルのテーマ 〜最後の旅〜」を歌う（楽曲はゲームのオリジナル・[サウンドトラック](../Page/サウンドトラック.md "wikilink")にも収録）。
 
-[2012年](../Page/2012年.md "wikilink")（平成24年）、[清本りつ子](https://ja.wikipedia.org/wiki/清本りつ子 "wikilink")が元々歌っていた[至学館高等学校](https://ja.wikipedia.org/wiki/至学館高等学校 "wikilink")校歌「[夢追人](https://ja.wikipedia.org/wiki/夢追人 "wikilink")」の、KOKIAの歌唱によるCD化が決まり、シングルとして発売された。
+[2012年](../Page/2012年.md "wikilink")（平成24年）、[清本りつ子](https://ja.wikipedia.org/wiki/清本りつ子 "wikilink")が元々歌っていた[至学館高等学校](../Page/至学館高等学校.md "wikilink")校歌「[夢追人](https://ja.wikipedia.org/wiki/夢追人 "wikilink")」の、KOKIAの歌唱によるCD化が決まり、シングルとして発売された。
 
 [2014年](../Page/2014年.md "wikilink")（平成26年）、結婚\[5\]。
 
 [2016年](../Page/2016年.md "wikilink")（平成28年）、出産\[6\]。
 
-[2017年](../Page/2017年.md "wikilink")（平成29年）、[新潟県中越沖地震](https://ja.wikipedia.org/wiki/新潟県中越沖地震 "wikilink")10周年合同追悼式（主催:[柏崎市](https://ja.wikipedia.org/wiki/柏崎市 "wikilink")、[刈羽村](https://ja.wikipedia.org/wiki/刈羽村 "wikilink")）にて追悼献歌を行った。
+[2017年](../Page/2017年.md "wikilink")（平成29年）、[新潟県中越沖地震](../Page/新潟県中越沖地震.md "wikilink")10周年合同追悼式（主催:[柏崎市](../Page/柏崎市.md "wikilink")、[刈羽村](../Page/刈羽村.md "wikilink")）にて追悼献歌を行った。
 
 ## 日本国外での人気・活動
 
-海外では早くから注目され始め、[1999年](../Page/1999年.md "wikilink")（平成11年）、アルバム『[songbird](https://ja.wikipedia.org/wiki/songbird_\(KOKIAのアルバム\) "wikilink")』が[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")で発売され、その中に収録された3枚目のシングル「[ありがとう…](https://ja.wikipedia.org/wiki/ありがとう… "wikilink")」が、同年の香港国際流行音楽大賞で3位を記録し、[サミー・チェン](https://ja.wikipedia.org/wiki/サミー・チェン "wikilink")が[広東語](../Page/広東語.md "wikilink")でカバーした「ARIGATOU」が1位を記録した。また、アルバム収録曲「私は歌う小鳥です」は香港圏域の[ファンケル](https://ja.wikipedia.org/wiki/ファンケル "wikilink")のテレビCMソングに起用された。これを受け、香港でワンマンライブも行った。
+海外では早くから注目され始め、[1999年](../Page/1999年.md "wikilink")（平成11年）、アルバム『[songbird](https://ja.wikipedia.org/wiki/songbird_\(KOKIAのアルバム\) "wikilink")』が[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")で発売され、その中に収録された3枚目のシングル「[ありがとう…](../Page/ありがとう….md "wikilink")」が、同年の香港国際流行音楽大賞で3位を記録し、[サミー・チェン](../Page/サミー・チェン.md "wikilink")が[広東語](../Page/広東語.md "wikilink")でカバーした「ARIGATOU」が1位を記録した。また、アルバム収録曲「私は歌う小鳥です」は香港圏域の[ファンケル](../Page/ファンケル.md "wikilink")のテレビCMソングに起用された。これを受け、香港でワンマンライブも行った。
 
-[2001年](../Page/2001年.md "wikilink")（平成13年）、移籍第2弾となった5枚目のシングル「Say Hi\!\!」が[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")を除く[アジア](https://ja.wikipedia.org/wiki/アジア "wikilink")地域で[資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")のテレビCMソングに起用された。同年末には香港の大晦日の4大カウントダウンイベントに出演。上記の「ありがとう…」の香港でのヒットもあり、この流れで日本より先に[アジア](https://ja.wikipedia.org/wiki/アジア "wikilink")で人気を確立する。
+[2001年](../Page/2001年.md "wikilink")（平成13年）、移籍第2弾となった5枚目のシングル「Say Hi\!\!」が[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")を除く[アジア](../Page/アジア.md "wikilink")地域で[資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")のテレビCMソングに起用された。同年末には香港の大晦日の4大カウントダウンイベントに出演。上記の「ありがとう…」の香港でのヒットもあり、この流れで日本より先に[アジア](../Page/アジア.md "wikilink")で人気を確立する。
 
-[2002年](../Page/2002年.md "wikilink")（平成14年）にはアルバム『[trip trip](https://ja.wikipedia.org/wiki/trip_trip "wikilink")』収録曲の「a gift」が[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")全土の[スバル](https://ja.wikipedia.org/wiki/スバル "wikilink")のテレビCMソングに起用された。また、[サントリー](https://ja.wikipedia.org/wiki/サントリー "wikilink")[烏龍茶](https://ja.wikipedia.org/wiki/烏龍茶 "wikilink")のCM曲を書き下ろし、[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")[上海で放送される](../Page/上海市.md "wikilink")。中国では、アルバム『trip trip』にこの曲を収録した特別バージョンが発売される。
+[2002年](../Page/2002年.md "wikilink")（平成14年）にはアルバム『[trip trip](https://ja.wikipedia.org/wiki/trip_trip "wikilink")』収録曲の「a gift」が[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")全土の[スバル](https://ja.wikipedia.org/wiki/スバル "wikilink")のテレビCMソングに起用された。また、[サントリー](../Page/サントリー.md "wikilink")[烏龍茶](../Page/烏龍茶.md "wikilink")のCM曲を書き下ろし、[中国](../Page/中国.md "wikilink")[上海で放送される](../Page/上海市.md "wikilink")。中国では、アルバム『trip trip』にこの曲を収録した特別バージョンが発売される。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）は音楽の国際見本市である[MIDEM](https://ja.wikipedia.org/wiki/MIDEM "wikilink")（[カンヌ](../Page/カンヌ.md "wikilink")）に、[Rin'](https://ja.wikipedia.org/wiki/Rin' "wikilink")や[Rie fuらとともに出演](https://ja.wikipedia.org/wiki/Rie_fu "wikilink")。フランスではアルバム『aigakikoeru』が日本盤に先駆けて発売された。また、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")・[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")は[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")で、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")には[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")でライブを行った。特に[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")のパリ公演ではおよそ1,800人を動員し、フランスでも人気を確立しつつある\[7\]。
+[2006年](../Page/2006年.md "wikilink")（平成18年）は音楽の国際見本市である[MIDEM](https://ja.wikipedia.org/wiki/MIDEM "wikilink")（[カンヌ](../Page/カンヌ.md "wikilink")）に、[Rin'](../Page/Rin'.md "wikilink")や[Rie fuらとともに出演](../Page/Rie_fu.md "wikilink")。フランスではアルバム『aigakikoeru』が日本盤に先駆けて発売された。また、[2006年](../Page/2006年.md "wikilink")・[2007年](../Page/2007年.md "wikilink")は[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")で、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")には[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")でライブを行った。特に[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")のパリ公演ではおよそ1,800人を動員し、フランスでも人気を確立しつつある\[7\]。
 
-2008年（平成20年）[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")には、「MUSIC GIFT」プロジェクトと称して、「Remember the kiss」（[ブルックリンの教会で](https://ja.wikipedia.org/wiki/ブルックリン区 "wikilink")、地元のゴスペル聖歌隊と共に収録した英語バージョン）を収録したCDを、[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")で1万枚、[サンタクロース](https://ja.wikipedia.org/wiki/サンタクロース "wikilink")の衣装を着て、無料で配布した\[8\]。
+2008年（平成20年）[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")には、「MUSIC GIFT」プロジェクトと称して、「Remember the kiss」（[ブルックリンの教会で](../Page/ブルックリン区.md "wikilink")、地元のゴスペル聖歌隊と共に収録した英語バージョン）を収録したCDを、[ニューヨーク](../Page/ニューヨーク.md "wikilink")で1万枚、[サンタクロース](../Page/サンタクロース.md "wikilink")の衣装を着て、無料で配布した\[8\]。
 
 [2009年](../Page/2009年.md "wikilink")（平成21年）には、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")・[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[ポーランド](../Page/ポーランド.md "wikilink")・[アイルランド](../Page/アイルランド.md "wikilink")でのライブを行った。ワールドツアーで複数の国で公演を行うのは2回目。
 
@@ -67,11 +67,11 @@
 
 母子家庭で育ち、祖父は造船会社を経営していた。
 
-音楽性や歌声は[音楽評論家](https://ja.wikipedia.org/wiki/音楽評論家 "wikilink")の[富澤一誠](https://ja.wikipedia.org/wiki/富澤一誠 "wikilink")に高く評価され、『[Mの黙示録](https://ja.wikipedia.org/wiki/Mの黙示録 "wikilink")』（[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")系、[2001年](../Page/2001年.md "wikilink")[12月23日](../Page/12月23日.md "wikilink")）で紹介された。『[題名のない音楽会](https://ja.wikipedia.org/wiki/題名のない音楽会 "wikilink")21』（テレビ朝日系、[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[7月18日](../Page/7月18日.md "wikilink")）では「O sole mio」で29.5秒間のロングトーンを披露した。また、第56回全国理容競技大会のオープニングセレモニーでは国歌「[君が代](../Page/君が代.md "wikilink")」を独唱した。
+音楽性や歌声は[音楽評論家](../Page/音楽評論家.md "wikilink")の[富澤一誠](../Page/富澤一誠.md "wikilink")に高く評価され、『[Mの黙示録](../Page/Mの黙示録.md "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")系、[2001年](../Page/2001年.md "wikilink")[12月23日](../Page/12月23日.md "wikilink")）で紹介された。『[題名のない音楽会](https://ja.wikipedia.org/wiki/題名のない音楽会 "wikilink")21』（テレビ朝日系、[2004年](../Page/2004年.md "wikilink")[7月18日](../Page/7月18日.md "wikilink")）では「O sole mio」で29.5秒間のロングトーンを披露した。また、第56回全国理容競技大会のオープニングセレモニーでは国歌「[君が代](../Page/君が代.md "wikilink")」を独唱した。
 
 大のエクアドル産[バナナ](https://ja.wikipedia.org/wiki/バナナ "wikilink")好きである。エクアドル産にこだわりを持ち、ラジオ番組では産地を明かされない状態の複数のバナナを出される中、食べ比べてエクアドル産バナナを言い当てた。
 
-幼少時より[スキー](../Page/スキー.md "wikilink")に親しみ、[SIA検定シルバークラスを取得した](https://ja.wikipedia.org/wiki/日本職業スキー教師協会 "wikilink")\[9\]。
+幼少時より[スキー](../Page/スキー.md "wikilink")に親しみ、[SIA検定シルバークラスを取得した](../Page/日本職業スキー教師協会.md "wikilink")\[9\]。
 
 ## ディスコグラフィ
 
@@ -94,7 +94,7 @@
 <td><p>1st</p></td>
 <td><p>1998年4月29日</p></td>
 <td><p><strong>愛しているから</strong> </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ポニーキャニオン" title="wikilink">PCDA</a>-1070</p></td>
+<td><p><a href="../Page/ポニーキャニオン.md" title="wikilink">PCDA</a>-1070</p></td>
 <td><p>ポニーキャニオン</p></td>
 <td><p>99位</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/songbird_(KOKIAのアルバム)" title="wikilink">songbird</a></strong></p></td>
@@ -120,7 +120,7 @@
 <tr class="even">
 <td><p>3rd</p></td>
 <td><p>1999年6月17日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ありがとう…" title="wikilink">ありがとう…</a></strong> </p></td>
+<td><p><strong><a href="../Page/ありがとう….md" title="wikilink">ありがとう…</a></strong> </p></td>
 <td><p>PCDA-01169</p></td>
 <td></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/songbird_(KOKIAのアルバム)" title="wikilink">songbird</a></strong></p></td>
@@ -186,7 +186,7 @@
 <td><p><strong>so much love for you♥</strong> </p></td>
 <td><p>VICL-35632</p></td>
 <td><p>40位</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/歌がチカラ" title="wikilink">歌がチカラ</a></strong></p></td>
+<td><p><strong><a href="../Page/歌がチカラ.md" title="wikilink">歌がチカラ</a></strong></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -247,7 +247,7 @@ VICL-35943（通常盤）</p></td>
 <tr class="even">
 <td><p>16th</p></td>
 <td><p>2007年11月21日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Follow_the_Nightingale" title="wikilink">Follow the Nightingale</a></strong> </p></td>
+<td><p><strong><a href="../Page/Follow_the_Nightingale.md" title="wikilink">Follow the Nightingale</a></strong> </p></td>
 <td><p>VTCL-35011</p></td>
 <td><p>JVCエンタテインメント</p></td>
 <td><p>33位</p></td>
@@ -283,7 +283,7 @@ VICL-35943（通常盤）</p></td>
 <tr class="even">
 <td><p>2010年5月26日</p></td>
 <td><p><strong>Fate</strong> </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ランティス" title="wikilink">LACM</a>-4720</p></td>
+<td><p><a href="../Page/ランティス.md" title="wikilink">LACM</a>-4720</p></td>
 <td><p>85位</p></td>
 <td></td>
 <td></td>
@@ -302,7 +302,7 @@ VOH-002（通常盤）</p></td>
 <tr class="even">
 <td><p>2011年4月27日</p></td>
 <td><p><strong>桜の樹の下/光の方へ</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フロンティアワークス" title="wikilink">FCCM</a>-0330</p></td>
+<td><p><a href="../Page/フロンティアワークス.md" title="wikilink">FCCM</a>-0330</p></td>
 <td><p>フロンティアワークス</p></td>
 <td><p>72位</p></td>
 <td></td>
@@ -533,7 +533,7 @@ VOH-002（通常盤）</p></td>
 <td><p>1st</p></td>
 <td><p>1999年7月16日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/songbird_(KOKIAのアルバム)" title="wikilink">songbird</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ポニーキャニオン" title="wikilink">PCCA</a>-1351</p></td>
+<td><p><a href="../Page/ポニーキャニオン.md" title="wikilink">PCCA</a>-1351</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -553,7 +553,7 @@ VOH-002（通常盤）</p></td>
 <tr class="even">
 <td><p>4th</p></td>
 <td><p>2004年7月21日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/歌がチカラ" title="wikilink">歌がチカラ</a></strong></p></td>
+<td><p><strong><a href="../Page/歌がチカラ.md" title="wikilink">歌がチカラ</a></strong></p></td>
 <td><p>VICL-61437</p></td>
 <td><p>23位</p></td>
 </tr>
@@ -945,7 +945,7 @@ VICL-63509</p></td>
 </ol>
 </div>
 </div></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ランティス" title="wikilink">LACA</a>-15141</p></td>
+<td><p><a href="../Page/ランティス.md" title="wikilink">LACA</a>-15141</p></td>
 <td><p>62位</p></td>
 </tr>
 <tr class="odd">
@@ -1144,7 +1144,7 @@ VICL-63509</p></td>
 | 2008年10月6日                               | Demon's Souls                      | Original Soundtrack「[Demon's Souls](https://ja.wikipedia.org/wiki/Demon's_Souls "wikilink")」\[20\]      |
 | Return to Slumber                        |                                    |                                                                                                         |
 | 2009年8月14日                               | あなたと出逢って                           | [“文学少女”と夢現の旋律](https://ja.wikipedia.org/wiki/“文学少女”シリーズ#CD "wikilink")                                  |
-| 2009年10月21日                              | 祈り†                                | [高垣彩陽](https://ja.wikipedia.org/wiki/高垣彩陽 "wikilink") come across フェルト・グレイス「祈り†／Justice」\[21\]          |
+| 2009年10月21日                              | 祈り†                                | [高垣彩陽](../Page/高垣彩陽.md "wikilink") come across フェルト・グレイス「祈り†／Justice」\[21\]                             |
 | Justice                                  |                                    |                                                                                                         |
 | 2010年1月27日                               | EXEC_REBIRTHIA=PROTOCOL/.         | 咲夜琉命 〜Ar tonelicoIII hymmnos concert side. 蒼〜                                                           |
 | EXEC_COSMOFLIPS/.                       |                                    |                                                                                                         |
@@ -1158,68 +1158,68 @@ VICL-63509</p></td>
 
 ### タイアップ
 
-| 曲名                                                                                                           | タイアップ                                                                                                                                                                                                                         |
-| ------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| For LITTLE TAIL                                                                                              | [バンダイ](../Page/バンダイ.md "wikilink")社ゲーム『[テイルコンチェルト](https://ja.wikipedia.org/wiki/テイルコンチェルト "wikilink")』テーマソング                                                                                                                 |
-| 愛しているから                                                                                                      | [フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[ブラザーズ](https://ja.wikipedia.org/wiki/ブラザーズ "wikilink")』挿入歌                                                                                                    |
-| 愛の輪郭（フィールド）                                                                                                  | [WOWOW](https://ja.wikipedia.org/wiki/WOWOW "wikilink")アニメ『[ブレンパワード](https://ja.wikipedia.org/wiki/ブレンパワード "wikilink")』エンディングテーマソング                                                                                           |
-| ありがとう…                                                                                                       | フジテレビ系『[カワズ君の検索生活](https://ja.wikipedia.org/wiki/カワズ君の検索生活 "wikilink")』内コーナー「[泣ける2ちゃんねる](https://ja.wikipedia.org/wiki/泣ける2ちゃんねる "wikilink")」使用曲                                                                              |
-| 私は歌う小鳥です                                                                                                     | [ファンケル](https://ja.wikipedia.org/wiki/ファンケル "wikilink")CMソング（香港地区限定）                                                                                                                                                          |
-| ネシアの旅人〜海と風と人の唄                                                                                               | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『ネシアの旅人』主題歌                                                                                                                                                           |
-| さよならは言わないで                                                                                                   | WOWOWアニメ『[人形草紙あやつり左近](https://ja.wikipedia.org/wiki/人形草紙あやつり左近 "wikilink")』挿入歌                                                                                                                                                |
-| Currents                                                                                                     | [コナミデジタルエンタテインメント](https://ja.wikipedia.org/wiki/コナミデジタルエンタテインメント "wikilink")社ゲーム『[幻想水滸伝II](https://ja.wikipedia.org/wiki/幻想水滸伝II "wikilink")』イメージソング                                                                         |
-| tomoni                                                                                                       | [日本テレビ系ドラマ](../Page/日本テレビ放送網.md "wikilink")『クインテット』エンディングテーマソング                                                                                                                                                               |
-| Say Hi                                                                                                       |                                                                                                                                                                                                                               |
-| 天使                                                                                                           | [NHK-BS2](https://ja.wikipedia.org/wiki/NHK衛星第2テレビジョン "wikilink")『新・真夜中の王国』エンディングテーマソング                                                                                                                                       |
-| a gift                                                                                                       | [スバル](https://ja.wikipedia.org/wiki/スバル "wikilink")CMソング（ヨーロッパ地区限定）                                                                                                                                                           |
-| かわらないこと 〜since 1976〜                                                                                         | [東海テレビ](https://ja.wikipedia.org/wiki/東海テレビ放送 "wikilink")・フジテレビ系ドラマ『[愛しき者へ](https://ja.wikipedia.org/wiki/愛しき者へ "wikilink")』主題歌                                                                                               |
-| 白い雪                                                                                                          | 台湾TVドラマ「イルカ湾の恋人」挿入歌                                                                                                                                                                                                           |
-| I Catch a Cold                                                                                               | 台湾TVドラマ「イルカ湾の恋人」挿入歌                                                                                                                                                                                                           |
-| tell tell 坊主                                                                                                 | [アニマックス](https://ja.wikipedia.org/wiki/アニマックス "wikilink")・フジテレビ系アニメ『[ハングリーハート -WILD STRIKER-](https://ja.wikipedia.org/wiki/ハングリーハート_-WILD_STRIKER- "wikilink")』エンディングテーマソング                                                  |
-| The Power of Smile                                                                                           | [花王](https://ja.wikipedia.org/wiki/花王 "wikilink")『[エッセンシャル ダメージケア](https://ja.wikipedia.org/wiki/エッセンシャル_\(シャンプー\) "wikilink")』CMソング                                                                                          |
-| 私の太陽                                                                                                         | アニマックス・フジテレビ系アニメ『ハングリーハート -WILD STRIKER-』エンディングテーマソング                                                                                                                                                                         |
-| Different way                                                                                                | [NHK BS1](https://ja.wikipedia.org/wiki/NHK衛星第1テレビジョン "wikilink")『ディベートアワー』テーマソング                                                                                                                                             |
-| DESPERADO                                                                                                    | [アスミック・エース エンタテインメント](https://ja.wikipedia.org/wiki/アスミック・エース_エンタテインメント "wikilink")・松竹配給映画『[ホテルビーナス](https://ja.wikipedia.org/wiki/ホテルビーナス_\(映画\) "wikilink")』挿入歌                                                             |
-| so much love for you♥                                                                                        | フジテレビ系『[う\!ウマいんです。](https://ja.wikipedia.org/wiki/う!ウマいんです。 "wikilink")』エンディングテーマソング                                                                                                                                          |
-| New season 〜夢に向かって吹く風〜                                                                                       | 全国専門学校広報研究会CMソング                                                                                                                                                                                                              |
-| 夢がチカラ                                                                                                        | [アテネオリンピック日本代表選手団公式応援ソング](https://ja.wikipedia.org/wiki/アテネオリンピック_\(2004年\) "wikilink")                                                                                                                                       |
-| エクセルヒューマンCMイメージソング                                                                                           |                                                                                                                                                                                                                               |
-| [東京メトロポリタンテレビジョン](https://ja.wikipedia.org/wiki/東京メトロポリタンテレビジョン "wikilink")『芸能サプリWeekly』2004年7月度エンディングテーマソング |                                                                                                                                                                                                                               |
-| 夢がチカラ (acoustic ver.)                                                                                        | [TBS系](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")『難病と闘う子供たち…私たちはこんな病気と闘っています』使用曲                                                                                                                                        |
-| dandelion                                                                                                    | 日本テレビ系『[スーパーテレビ情報最前線](https://ja.wikipedia.org/wiki/スーパーテレビ情報最前線 "wikilink")』エンディングテーマソング                                                                                                                                     |
-| time to say goodbye                                                                                          | フジテレビ系『[金曜エンタテイメント](https://ja.wikipedia.org/wiki/金曜エンタテイメント "wikilink")』エンディングテーマソング                                                                                                                                         |
-| 幸せの花束                                                                                                        | 日本テレビ系『[新どっちの料理ショー](https://ja.wikipedia.org/wiki/新どっちの料理ショー "wikilink")』エンディングテーマソング                                                                                                                                         |
-| [赤い羽根共同募金CMソング](https://ja.wikipedia.org/wiki/共同募金 "wikilink")                                               |                                                                                                                                                                                                                               |
-| ピース・ロード                                                                                                      | タイ・カンボジア国境地雷除去キャンペーン日本[サムスン](https://ja.wikipedia.org/wiki/サムスン "wikilink")委託曲                                                                                                                                                |
-| 悠久の杜 〜My Home Town〜                                                                                          | [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[みんなのうた](https://ja.wikipedia.org/wiki/みんなのうた "wikilink")』使用曲                                                                                                          |
-| 愛のメロディー (soundtrack ver.)                                                                                    | [松竹](https://ja.wikipedia.org/wiki/松竹 "wikilink")配給アニメ映画『[銀色の髪のアギト](https://ja.wikipedia.org/wiki/銀色の髪のアギト "wikilink")』エンディングテーマソング                                                                                           |
-| 調和 oto 〜with reflection〜                                                                                     | 松竹配給アニメ映画『銀色の髪のアギト』オープニングテーマソング                                                                                                                                                                                               |
-| ありがとう・・・(the pearl edition)                                                                                  | TBS系『難病と闘う子供たち…私たちはこんな病気と闘っています』使用曲                                                                                                                                                                                           |
-| 歌う人                                                                                                          | [AMGエンタテインメント](https://ja.wikipedia.org/wiki/AMGエンタテインメント "wikilink")配給アニメ映画『ふるさと-JAPAN』エンディングテーマソング                                                                                                                          |
-| いつか誰かを愛した時                                                                                                   | [浜田ドリームタウンALi](https://ja.wikipedia.org/wiki/浜田ドリームタウンALi "wikilink")CMソング（[青森地区限定](https://ja.wikipedia.org/wiki/青森県 "wikilink")）                                                                                            |
-| TBS系『難病と闘う子供たち…私たちはこんな病気と闘っています』使用曲                                                                          |                                                                                                                                                                                                                               |
-| Follow the Nightingale                                                                                       | [バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")社ゲーム『[テイルズ オブ イノセンス](https://ja.wikipedia.org/wiki/テイルズ_オブ_イノセンス "wikilink")』オープニングテーマソング                                                                  |
-| say goodbye & good day                                                                                       | バンダイナムコゲームス社ゲーム『テイルズ オブ イノセンス』エンディングテーマソング                                                                                                                                                                                    |
-| たった1つの想い                                                                                                     | [独立UHF系アニメ](https://ja.wikipedia.org/wiki/全国独立UHF放送協議会 "wikilink")『[GUNSLINGER GIRL -IL TEATRINO-](https://ja.wikipedia.org/wiki/GUNSLINGER_GIRL#第2期 "wikilink")』オープニングテーマソング                                                 |
-| KARMA                                                                                                        | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『[Phantom 〜Requiem for the Phantom〜](https://ja.wikipedia.org/wiki/Phantom_〜Requiem_for_the_Phantom〜 "wikilink")』オープニングテーマソング                                      |
-| Transparent                                                                                                  | テレビ東京系アニメ『Phantom 〜Requiem for the Phantom〜』エンディングテーマソング                                                                                                                                                                      |
-| Fate                                                                                                         | [クロックワークス](https://ja.wikipedia.org/wiki/クロックワークス "wikilink")配給アニメ映画『[ブレイク ブレイド](https://ja.wikipedia.org/wiki/ブレイク_ブレイド#劇場版アニメ "wikilink")』オープニングテーマソング                                                                      |
-| Road to Glory〜for Dragon Nest                                                                                | [NHN Japan社ゲーム](https://ja.wikipedia.org/wiki/LINE_\(企業\) "wikilink")『[ドラゴンネスト](https://ja.wikipedia.org/wiki/ドラゴンネスト "wikilink")』テーマソング                                                                                      |
-| 時の旅人                                                                                                         | テレビ東京系封印された『三蔵法師の謎〜シルクロード30,000キロに挑んだ男〜』テーマソング                                                                                                                                                                                |
-| 桜の樹の下                                                                                                        | OVA『[最遊記外伝](https://ja.wikipedia.org/wiki/最遊記シリーズ "wikilink")』オープニングテーマソング                                                                                                                                                    |
-| 光の方へ                                                                                                         | OVA『最遊記外伝』エンディングテーマソング                                                                                                                                                                                                        |
-| [ケイ・オプティコム](https://ja.wikipedia.org/wiki/ケイ・オプティコム "wikilink")の企業イメージCM                                     |                                                                                                                                                                                                                               |
-| 嘆きの音                                                                                                         | クロックワークス配給アニメ映画『ブレイク ブレイド 第六章「慟哭ノ砦」』エンディングテーマソング                                                                                                                                                                              |
-| あなたと出逢って                                                                                                     | 『["文学少女"](https://ja.wikipedia.org/wiki/“文学少女”シリーズ "wikilink")』イメージソング                                                                                                                                                        |
-| te a te                                                                                                      | [アピタ](https://ja.wikipedia.org/wiki/アピタ "wikilink")・[ピアゴ](https://ja.wikipedia.org/wiki/ピアゴ "wikilink") COOL-FUNCTION CMソング                                                                                                   |
-| 世界を包むRibbon in our heart                                                                                     | NHK「[地球イチバン](https://ja.wikipedia.org/wiki/地球イチバン "wikilink")」エンディングテーマソング                                                                                                                                                    |
-| NewDay NewLife                                                                                               | バンダイナムコゲームス社ゲーム『テイルズ オブ イノセンス R』オープニングテーマソング                                                                                                                                                                                  |
-| 光をあつめて                                                                                                       | [アスミック・エース エンタテインメント配給アニメ映画](https://ja.wikipedia.org/wiki/アスミック・エース_エンタテインメント "wikilink")『[ドットハック セカイの向こうに](https://ja.wikipedia.org/wiki/ドットハック_セカイの向こうに "wikilink")』主題歌                                                    |
-| Memorial days                                                                                                | [MBS](https://ja.wikipedia.org/wiki/毎日放送 "wikilink")・TBS系アニメ『[機動戦士ガンダムAGE](https://ja.wikipedia.org/wiki/機動戦士ガンダムAGE "wikilink")』第一部・[フリット編](https://ja.wikipedia.org/wiki/機動戦士ガンダムAGEの登場人物#第1部の主人公 "wikilink")（第11話・第14話）挿入歌 |
-| 夢追人                                                                                                          | [至学館高等学校](https://ja.wikipedia.org/wiki/至学館高等学校 "wikilink")[校歌](https://ja.wikipedia.org/wiki/校歌 "wikilink")                                                                                                                  |
-| 記憶の光                                                                                                         | 劇場\&TVアニメ『[宇宙戦艦ヤマト2199](https://ja.wikipedia.org/wiki/宇宙戦艦ヤマト2199 "wikilink")』第四章エンディングテーマソング                                                                                                                                 |
-| Spirits                                                                                                      | [アルカディアの蒼き巫女](https://ja.wikipedia.org/wiki/アルカディアの蒼き巫女 "wikilink")主題歌                                                                                                                                                        |
-| 精霊の舞 〜Dance of the Spirit                                                                                    | TVアニメ『[魔法使いの嫁](https://ja.wikipedia.org/wiki/魔法使いの嫁 "wikilink")』挿入歌                                                                                                                                                           |
+| 曲名                                                                                        | タイアップ                                                                                                                                                                                                      |
+| ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| For LITTLE TAIL                                                                           | [バンダイ](../Page/バンダイ.md "wikilink")社ゲーム『[テイルコンチェルト](../Page/テイルコンチェルト.md "wikilink")』テーマソング                                                                                                                 |
+| 愛しているから                                                                                   | [フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[ブラザーズ](../Page/ブラザーズ.md "wikilink")』挿入歌                                                                                                    |
+| 愛の輪郭（フィールド）                                                                               | [WOWOW](../Page/WOWOW.md "wikilink")アニメ『[ブレンパワード](../Page/ブレンパワード.md "wikilink")』エンディングテーマソング                                                                                                              |
+| ありがとう…                                                                                    | フジテレビ系『[カワズ君の検索生活](../Page/カワズ君の検索生活.md "wikilink")』内コーナー「[泣ける2ちゃんねる](https://ja.wikipedia.org/wiki/泣ける2ちゃんねる "wikilink")」使用曲                                                                              |
+| 私は歌う小鳥です                                                                                  | [ファンケル](../Page/ファンケル.md "wikilink")CMソング（香港地区限定）                                                                                                                                                          |
+| ネシアの旅人〜海と風と人の唄                                                                            | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『ネシアの旅人』主題歌                                                                                                                                        |
+| さよならは言わないで                                                                                | WOWOWアニメ『[人形草紙あやつり左近](../Page/人形草紙あやつり左近.md "wikilink")』挿入歌                                                                                                                                                |
+| Currents                                                                                  | [コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")社ゲーム『[幻想水滸伝II](../Page/幻想水滸伝II.md "wikilink")』イメージソング                                                                                            |
+| tomoni                                                                                    | [日本テレビ系ドラマ](../Page/日本テレビ放送網.md "wikilink")『クインテット』エンディングテーマソング                                                                                                                                            |
+| Say Hi                                                                                    |                                                                                                                                                                                                            |
+| 天使                                                                                        | [NHK-BS2](../Page/NHK衛星第2テレビジョン.md "wikilink")『新・真夜中の王国』エンディングテーマソング                                                                                                                                       |
+| a gift                                                                                    | [スバル](https://ja.wikipedia.org/wiki/スバル "wikilink")CMソング（ヨーロッパ地区限定）                                                                                                                                        |
+| かわらないこと 〜since 1976〜                                                                      | [東海テレビ](../Page/東海テレビ放送.md "wikilink")・フジテレビ系ドラマ『[愛しき者へ](../Page/愛しき者へ.md "wikilink")』主題歌                                                                                                                  |
+| 白い雪                                                                                       | 台湾TVドラマ「イルカ湾の恋人」挿入歌                                                                                                                                                                                        |
+| I Catch a Cold                                                                            | 台湾TVドラマ「イルカ湾の恋人」挿入歌                                                                                                                                                                                        |
+| tell tell 坊主                                                                              | [アニマックス](../Page/アニマックス.md "wikilink")・フジテレビ系アニメ『[ハングリーハート -WILD STRIKER-](https://ja.wikipedia.org/wiki/ハングリーハート_-WILD_STRIKER- "wikilink")』エンディングテーマソング                                                  |
+| The Power of Smile                                                                        | [花王](../Page/花王.md "wikilink")『[エッセンシャル ダメージケア](../Page/エッセンシャル_\(シャンプー\).md "wikilink")』CMソング                                                                                                             |
+| 私の太陽                                                                                      | アニマックス・フジテレビ系アニメ『ハングリーハート -WILD STRIKER-』エンディングテーマソング                                                                                                                                                      |
+| Different way                                                                             | [NHK BS1](https://ja.wikipedia.org/wiki/NHK衛星第1テレビジョン "wikilink")『ディベートアワー』テーマソング                                                                                                                          |
+| DESPERADO                                                                                 | [アスミック・エース エンタテインメント](https://ja.wikipedia.org/wiki/アスミック・エース_エンタテインメント "wikilink")・松竹配給映画『[ホテルビーナス](https://ja.wikipedia.org/wiki/ホテルビーナス_\(映画\) "wikilink")』挿入歌                                          |
+| so much love for you♥                                                                     | フジテレビ系『[う\!ウマいんです。](../Page/う!ウマいんです。.md "wikilink")』エンディングテーマソング                                                                                                                                          |
+| New season 〜夢に向かって吹く風〜                                                                    | 全国専門学校広報研究会CMソング                                                                                                                                                                                           |
+| 夢がチカラ                                                                                     | [アテネオリンピック日本代表選手団公式応援ソング](https://ja.wikipedia.org/wiki/アテネオリンピック_\(2004年\) "wikilink")                                                                                                                    |
+| エクセルヒューマンCMイメージソング                                                                        |                                                                                                                                                                                                            |
+| [東京メトロポリタンテレビジョン](../Page/東京メトロポリタンテレビジョン.md "wikilink")『芸能サプリWeekly』2004年7月度エンディングテーマソング |                                                                                                                                                                                                            |
+| 夢がチカラ (acoustic ver.)                                                                     | [TBS系](../Page/TBSテレビ.md "wikilink")『難病と闘う子供たち…私たちはこんな病気と闘っています』使用曲                                                                                                                                        |
+| dandelion                                                                                 | 日本テレビ系『[スーパーテレビ情報最前線](../Page/スーパーテレビ情報最前線.md "wikilink")』エンディングテーマソング                                                                                                                                     |
+| time to say goodbye                                                                       | フジテレビ系『[金曜エンタテイメント](../Page/金曜エンタテイメント.md "wikilink")』エンディングテーマソング                                                                                                                                         |
+| 幸せの花束                                                                                     | 日本テレビ系『[新どっちの料理ショー](https://ja.wikipedia.org/wiki/新どっちの料理ショー "wikilink")』エンディングテーマソング                                                                                                                      |
+| [赤い羽根共同募金CMソング](../Page/共同募金.md "wikilink")                                               |                                                                                                                                                                                                            |
+| ピース・ロード                                                                                   | タイ・カンボジア国境地雷除去キャンペーン日本[サムスン](https://ja.wikipedia.org/wiki/サムスン "wikilink")委託曲                                                                                                                             |
+| 悠久の杜 〜My Home Town〜                                                                       | [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[みんなのうた](../Page/みんなのうた.md "wikilink")』使用曲                                                                                                          |
+| 愛のメロディー (soundtrack ver.)                                                                 | [松竹](../Page/松竹.md "wikilink")配給アニメ映画『[銀色の髪のアギト](../Page/銀色の髪のアギト.md "wikilink")』エンディングテーマソング                                                                                                              |
+| 調和 oto 〜with reflection〜                                                                  | 松竹配給アニメ映画『銀色の髪のアギト』オープニングテーマソング                                                                                                                                                                            |
+| ありがとう・・・(the pearl edition)                                                               | TBS系『難病と闘う子供たち…私たちはこんな病気と闘っています』使用曲                                                                                                                                                                        |
+| 歌う人                                                                                       | [AMGエンタテインメント](../Page/AMGエンタテインメント.md "wikilink")配給アニメ映画『ふるさと-JAPAN』エンディングテーマソング                                                                                                                          |
+| いつか誰かを愛した時                                                                                | [浜田ドリームタウンALi](https://ja.wikipedia.org/wiki/浜田ドリームタウンALi "wikilink")CMソング（[青森地区限定](https://ja.wikipedia.org/wiki/青森県 "wikilink")）                                                                         |
+| TBS系『難病と闘う子供たち…私たちはこんな病気と闘っています』使用曲                                                       |                                                                                                                                                                                                            |
+| Follow the Nightingale                                                                    | [バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")社ゲーム『[テイルズ オブ イノセンス](https://ja.wikipedia.org/wiki/テイルズ_オブ_イノセンス "wikilink")』オープニングテーマソング                                               |
+| say goodbye & good day                                                                    | バンダイナムコゲームス社ゲーム『テイルズ オブ イノセンス』エンディングテーマソング                                                                                                                                                                 |
+| たった1つの想い                                                                                  | [独立UHF系アニメ](https://ja.wikipedia.org/wiki/全国独立UHF放送協議会 "wikilink")『[GUNSLINGER GIRL -IL TEATRINO-](https://ja.wikipedia.org/wiki/GUNSLINGER_GIRL#第2期 "wikilink")』オープニングテーマソング                              |
+| KARMA                                                                                     | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『[Phantom 〜Requiem for the Phantom〜](https://ja.wikipedia.org/wiki/Phantom_〜Requiem_for_the_Phantom〜 "wikilink")』オープニングテーマソング                   |
+| Transparent                                                                               | テレビ東京系アニメ『Phantom 〜Requiem for the Phantom〜』エンディングテーマソング                                                                                                                                                   |
+| Fate                                                                                      | [クロックワークス](../Page/クロックワークス.md "wikilink")配給アニメ映画『[ブレイク ブレイド](https://ja.wikipedia.org/wiki/ブレイク_ブレイド#劇場版アニメ "wikilink")』オープニングテーマソング                                                                      |
+| Road to Glory〜for Dragon Nest                                                             | [NHN Japan社ゲーム](https://ja.wikipedia.org/wiki/LINE_\(企業\) "wikilink")『[ドラゴンネスト](https://ja.wikipedia.org/wiki/ドラゴンネスト "wikilink")』テーマソング                                                                   |
+| 時の旅人                                                                                      | テレビ東京系封印された『三蔵法師の謎〜シルクロード30,000キロに挑んだ男〜』テーマソング                                                                                                                                                             |
+| 桜の樹の下                                                                                     | OVA『[最遊記外伝](https://ja.wikipedia.org/wiki/最遊記シリーズ "wikilink")』オープニングテーマソング                                                                                                                                 |
+| 光の方へ                                                                                      | OVA『最遊記外伝』エンディングテーマソング                                                                                                                                                                                     |
+| [ケイ・オプティコム](https://ja.wikipedia.org/wiki/ケイ・オプティコム "wikilink")の企業イメージCM                  |                                                                                                                                                                                                            |
+| 嘆きの音                                                                                      | クロックワークス配給アニメ映画『ブレイク ブレイド 第六章「慟哭ノ砦」』エンディングテーマソング                                                                                                                                                           |
+| あなたと出逢って                                                                                  | 『["文学少女"](../Page/“文学少女”シリーズ.md "wikilink")』イメージソング                                                                                                                                                        |
+| te a te                                                                                   | [アピタ](https://ja.wikipedia.org/wiki/アピタ "wikilink")・[ピアゴ](https://ja.wikipedia.org/wiki/ピアゴ "wikilink") COOL-FUNCTION CMソング                                                                                |
+| 世界を包むRibbon in our heart                                                                  | NHK「[地球イチバン](https://ja.wikipedia.org/wiki/地球イチバン "wikilink")」エンディングテーマソング                                                                                                                                 |
+| NewDay NewLife                                                                            | バンダイナムコゲームス社ゲーム『テイルズ オブ イノセンス R』オープニングテーマソング                                                                                                                                                               |
+| 光をあつめて                                                                                    | [アスミック・エース エンタテインメント配給アニメ映画](https://ja.wikipedia.org/wiki/アスミック・エース_エンタテインメント "wikilink")『[ドットハック セカイの向こうに](https://ja.wikipedia.org/wiki/ドットハック_セカイの向こうに "wikilink")』主題歌                                 |
+| Memorial days                                                                             | [MBS](../Page/毎日放送.md "wikilink")・TBS系アニメ『[機動戦士ガンダムAGE](https://ja.wikipedia.org/wiki/機動戦士ガンダムAGE "wikilink")』第一部・[フリット編](https://ja.wikipedia.org/wiki/機動戦士ガンダムAGEの登場人物#第1部の主人公 "wikilink")（第11話・第14話）挿入歌 |
+| 夢追人                                                                                       | [至学館高等学校](../Page/至学館高等学校.md "wikilink")[校歌](../Page/校歌.md "wikilink")                                                                                                                                     |
+| 記憶の光                                                                                      | 劇場\&TVアニメ『[宇宙戦艦ヤマト2199](https://ja.wikipedia.org/wiki/宇宙戦艦ヤマト2199 "wikilink")』第四章エンディングテーマソング                                                                                                              |
+| Spirits                                                                                   | [アルカディアの蒼き巫女](https://ja.wikipedia.org/wiki/アルカディアの蒼き巫女 "wikilink")主題歌                                                                                                                                     |
+| 精霊の舞 〜Dance of the Spirit                                                                 | TVアニメ『[魔法使いの嫁](https://ja.wikipedia.org/wiki/魔法使いの嫁 "wikilink")』挿入歌                                                                                                                                        |
 
 ## ミュージックビデオ
 
@@ -1232,14 +1232,14 @@ VICL-63509</p></td>
 | [土屋隆俊](https://ja.wikipedia.org/wiki/土屋隆俊 "wikilink")                 | 「moment〜今を生きる〜」「愛のメロディー」「夢の途中 from「COLOR OF LIFE」」 |
 | [中丸航太](https://ja.wikipedia.org/wiki/中丸航太 "wikilink")                 | 「time to say goodbye」                              |
 | [原淳](https://ja.wikipedia.org/wiki/原淳 "wikilink")                     | 「かわらないこと〜since1976〜」「夢がチカラ」                        |
-| [牧鉄馬](https://ja.wikipedia.org/wiki/牧鉄馬 "wikilink")                   | 「dandelion」                                        |
+| [牧鉄馬](../Page/牧鉄馬.md "wikilink")                                      | 「dandelion」                                        |
 | 不明                                                                    | 「Tears in Love」「tomoni」「愛しているから」「人間ってそんなものね」「」     |
 
 ## 主なライブ
 
 ### ワンマンライブ・主催イベント
 
-  - 1999年 - [相馬裕子](https://ja.wikipedia.org/wiki/相馬裕子 "wikilink")＆KOKIA Acoustic Live
+  - 1999年 - [相馬裕子](../Page/相馬裕子.md "wikilink")＆KOKIA Acoustic Live
   - 2002年 - That's why I was born
   - 2003年
       - KOKIA Live かわらないこと
@@ -1314,26 +1314,26 @@ VICL-63509</p></td>
   - 1998年11月23日 - [東京理科大学](../Page/東京理科大学.md "wikilink") 第50回理大祭
   - 1999年07月08日・08月12日・12月11日 - Female Vocal Night
   - 1999年08月21日・22日 - [24時間テレビ](https://ja.wikipedia.org/wiki/24時間テレビ_「愛は地球を救う」 "wikilink") チャリティーライブ
-  - 1999年09月18日 - [伊勢正三](https://ja.wikipedia.org/wiki/伊勢正三 "wikilink")弾き語りライブinべるが（オープニングアクト）
+  - 1999年09月18日 - [伊勢正三](../Page/伊勢正三.md "wikilink")弾き語りライブinべるが（オープニングアクト）
   - 2000年01月19日・02月29日 - Female Vocal Night
   - 2000年04月29日 - 第9回 GREEN PARADISE
   - 2001年10月31日 - [AIR-G](https://ja.wikipedia.org/wiki/AIR-G "wikilink")' POWER LIVE vol.1
   - 2003年06月19日 - AIR-G'時計台アコースティックライブ vol.43 KOKIA
   - 2003年08月23日 - 24時間テレビ チャリティーライブ2003】
-  - 2004年05月03日 - 2004[ひろしまフラワーフェスティバル](https://ja.wikipedia.org/wiki/ひろしまフラワーフェスティバル "wikilink")
+  - 2004年05月03日 - 2004[ひろしまフラワーフェスティバル](../Page/ひろしまフラワーフェスティバル.md "wikilink")
   - 2004年05月16日 - [より子。](https://ja.wikipedia.org/wiki/より子。 "wikilink")ライブ〜よりスタ1
   - 2004年06月06日 - [アテネ2004オリンピック聖火リレー](https://ja.wikipedia.org/wiki/アテネオリンピック_\(2004年\) "wikilink")/東京到着式
   - 2004年06月17日 - [題名のない音楽会](https://ja.wikipedia.org/wiki/題名のない音楽会 "wikilink")21
   - 2004年08月22日 - 24時間テレビ チャリティーライブ2004
   - 2004年09月03日 - TREASURE 052 with ZIP-FM 「SWEET RENDEZOUS」
-  - 2004年10月24日 - [日本女子大学](https://ja.wikipedia.org/wiki/日本女子大学 "wikilink")目白キャンパス 第51回目白祭
+  - 2004年10月24日 - [日本女子大学](../Page/日本女子大学.md "wikilink")目白キャンパス 第51回目白祭
   - 2004年11月14日 - [神戸大学](../Page/神戸大学.md "wikilink") 2004六甲祭
   - 2005年05月29日 - [大同工業大学](https://ja.wikipedia.org/wiki/大同工業大学 "wikilink")大学祭 第40回宴祭 後夜祭
-  - 2005年11月10日 - 2005年度 [大谷大学](https://ja.wikipedia.org/wiki/大谷大学 "wikilink") 学園祭 紫明祭〜園遊会〜
+  - 2005年11月10日 - 2005年度 [大谷大学](../Page/大谷大学.md "wikilink") 学園祭 紫明祭〜園遊会〜
   - 2008年08月03日 - [FM福岡](https://ja.wikipedia.org/wiki/FM福岡 "wikilink")サマースペシャル〜夏マリ'08〜
   - 2008年09月28日 - Troubadour LIVE for TENSEI
   - 2008年10月04日 - 東京ミュージックマラソン音楽祭
-  - 2008年11月02日 - [麻布大学](https://ja.wikipedia.org/wiki/麻布大学 "wikilink")学園祭
+  - 2008年11月02日 - [麻布大学](../Page/麻布大学.md "wikilink")学園祭
   - 2009年07月20日 - 神戸港祭り
   - 2009年07月21日 - 鹿児島日食祭
   - 2009年07月26日 - ぎおん柏崎まつり
@@ -1386,7 +1386,7 @@ VICL-63509</p></td>
 8.  2008年11月26日の本人ブログ、週刊NY生活No.235・2008年12月13日号の4面。
 9.  [世界を包むぬくもり系ボイス ＫＯＫＩＡさんもSTOCKLI](http://www.vist.co.jp/stockli/2011/01/-stockli.html)
 10. ベストアルバム『pearl 〜The Best Collection〜』から「ありがとう… (the pearl edition)」を[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")、[カップリング](https://ja.wikipedia.org/wiki/カップリング "wikilink")曲として「歌う人」も収録。
-11. [柏崎市](https://ja.wikipedia.org/wiki/柏崎市 "wikilink")、[柏崎コミュニティ](https://ja.wikipedia.org/wiki/柏崎コミュニティ "wikilink")放送通信、神保町ブックフェスティバル限定販売。
+11. [柏崎市](../Page/柏崎市.md "wikilink")、[柏崎コミュニティ](https://ja.wikipedia.org/wiki/柏崎コミュニティ "wikilink")放送通信、神保町ブックフェスティバル限定販売。
 12. 配信およびオフィシャルサイト限定販売。
 13. オフィシャルサイト限定発売。
 14.

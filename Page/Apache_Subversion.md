@@ -1,13 +1,13 @@
 > この記事は[Apache Subversion](https://ja.wikipedia.org/wiki/Apache_Subversion)から翻訳されています。
 
 
-**Apache Subversion**（アパッチ・サブバージョン; SVN）はプログラムのソースコードなどを管理する集中型[バージョン管理システム](https://ja.wikipedia.org/wiki/バージョン管理システム "wikilink")の一つ。元々は、[CollabNet](https://ja.wikipedia.org/wiki/CollabNet "wikilink")が開発していたが、[2009年](../Page/2009年.md "wikilink")[11月7日](../Page/11月7日.md "wikilink")にApache Incubatorプロジェクトのひとつとなり、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[2月17日](../Page/2月17日.md "wikilink")より[Apacheのトッププロジェクトとなった](https://ja.wikipedia.org/wiki/Apacheソフトウェア財団 "wikilink")。ライセンスは[Apache Licenseに準じたものとなっている](https://ja.wikipedia.org/wiki/Apache_License "wikilink")。
+**Apache Subversion**（アパッチ・サブバージョン; SVN）はプログラムのソースコードなどを管理する集中型[バージョン管理システム](../Page/バージョン管理システム.md "wikilink")の一つ。元々は、[CollabNet](https://ja.wikipedia.org/wiki/CollabNet "wikilink")が開発していたが、[2009年](../Page/2009年.md "wikilink")[11月7日](../Page/11月7日.md "wikilink")にApache Incubatorプロジェクトのひとつとなり、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[2月17日](../Page/2月17日.md "wikilink")より[Apacheのトッププロジェクトとなった](../Page/Apacheソフトウェア財団.md "wikilink")。ライセンスは[Apache Licenseに準じたものとなっている](https://ja.wikipedia.org/wiki/Apache_License "wikilink")。
 
 ## 概要
 
-歴史的には広く使われているバージョン管理システムの一つに[CVSがあった](../Page/Concurrent_Versions_System.md "wikilink")。CVSには[ディレクトリ](https://ja.wikipedia.org/wiki/ディレクトリ "wikilink")の移動の管理やネットワーク対応の点、不可分な更新などの点で難があった。これらCVSの問題点を解決すべく開発されたのがSubversionである。
+歴史的には広く使われているバージョン管理システムの一つに[CVSがあった](../Page/Concurrent_Versions_System.md "wikilink")。CVSには[ディレクトリ](../Page/ディレクトリ.md "wikilink")の移動の管理やネットワーク対応の点、不可分な更新などの点で難があった。これらCVSの問題点を解決すべく開発されたのがSubversionである。
 
-Subversionは集中型（クライアント・サーバ型）であるが、その後、[Git](https://ja.wikipedia.org/wiki/Git "wikilink")や[Mercurial](https://ja.wikipedia.org/wiki/Mercurial "wikilink")や[Bazaar](https://ja.wikipedia.org/wiki/Bazaar "wikilink")などの分散型のバージョン管理システムが登場するようになった。例えば、[Linux](https://ja.wikipedia.org/wiki/Linux "wikilink")カーネルの管理にはGit、[Mozilla Firefoxの管理にはMercurial](../Page/Mozilla_Firefox.md "wikilink")、[MySQL](https://ja.wikipedia.org/wiki/MySQL "wikilink")の管理にはBazaarが使われている。
+Subversionは集中型（クライアント・サーバ型）であるが、その後、[Git](../Page/Git.md "wikilink")や[Mercurial](../Page/Mercurial.md "wikilink")や[Bazaar](https://ja.wikipedia.org/wiki/Bazaar "wikilink")などの分散型のバージョン管理システムが登場するようになった。例えば、[Linux](../Page/Linux.md "wikilink")カーネルの管理にはGit、[Mozilla Firefoxの管理にはMercurial](../Page/Mozilla_Firefox.md "wikilink")、[MySQL](https://ja.wikipedia.org/wiki/MySQL "wikilink")の管理にはBazaarが使われている。
 
 ## 特徴
 
@@ -50,18 +50,18 @@ Subversionの使い方は[CVSによく似ている](../Page/Concurrent_Versions_
 
   - [Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink") - [TortoiseSVN](https://ja.wikipedia.org/wiki/TortoiseSVN "wikilink")(エクスプローラ拡張)
   - [macOS](https://ja.wikipedia.org/wiki/macOS "wikilink") - [SvnX](http://www.lachoseinteractive.net/en/community/subversion/svnx/), [Versions](http://www.versionsapp.com/) なお、LeopardからSubversionは標準インストールされており、Subversionサーバも自動起動している。
-  - [Linux](https://ja.wikipedia.org/wiki/Linux "wikilink") - [RabbitVCS](http://rabbitvcs.org/)
-  - [KDE](https://ja.wikipedia.org/wiki/KDE "wikilink") - [KDESvn](https://ja.wikipedia.org/wiki/KDESvn "wikilink"), [KSvn](http://web.archive.org/web/20070928103218/http://apps.intra-links.com/)
+  - [Linux](../Page/Linux.md "wikilink") - [RabbitVCS](http://rabbitvcs.org/)
+  - [KDE](../Page/KDE.md "wikilink") - [KDESvn](https://ja.wikipedia.org/wiki/KDESvn "wikilink"), [KSvn](http://web.archive.org/web/20070928103218/http://apps.intra-links.com/)
   - [GNOME](../Page/GNOME.md "wikilink")
   - クロスプラットフォーム - [RapidSVN](http://www.rapidsvn.org/), [pysvn WorkBench](http://pysvn.tigris.org/), [eSvn](http://zoneit.free.fr/esvn/), [SmartSVN](http://www.syntevo.com/smartsvn/), [QSvn](http://anrichter.github.io/qsvn/)
-  - Webアプリ - [FlexySvn](http://web.archive.org/web/20110101182059/http://www.subversionary.org/node/48), [Trac](https://ja.wikipedia.org/wiki/Trac "wikilink"), [ViewVC](http://www.viewvc.org/)
-  - [Java](https://ja.wikipedia.org/wiki/Java "wikilink") - [SVNKit](http://svnkit.com/), [NetBeans](https://ja.wikipedia.org/wiki/NetBeans "wikilink"), [sventon](http://www.sventon.org/)
+  - Webアプリ - [FlexySvn](http://web.archive.org/web/20110101182059/http://www.subversionary.org/node/48), [Trac](../Page/Trac.md "wikilink"), [ViewVC](http://www.viewvc.org/)
+  - [Java](https://ja.wikipedia.org/wiki/Java "wikilink") - [SVNKit](http://svnkit.com/), [NetBeans](../Page/NetBeans.md "wikilink"), [sventon](http://www.sventon.org/)
   - [Eclipse](../Page/Eclipse_\(統合開発環境\).md "wikilink") - [Subclipse](http://subclipse.tigris.org/), [Subversive](http://eclipse.org/subversive/)
   - [Visual Studio](https://ja.wikipedia.org/wiki/Visual_Studio "wikilink") - [AnkhSVN](http://ankhsvn.net/), [VisualSVN](http://www.visualsvn.com/)
   - [IntelliJ IDEA](https://ja.wikipedia.org/wiki/IntelliJ_IDEA "wikilink") - 標準搭載されている。もしくは、[TMate](http://tmatesoft.com/)
   - [Dreamweaver](https://ja.wikipedia.org/wiki/Dreamweaver "wikilink") - 標準搭載されている。もしくは、[SubWeaver](http://sourceforge.net/projects/subweaver/)
-  - [Code::Blocks](https://ja.wikipedia.org/wiki/Code::Blocks "wikilink")
-  - [Xcode](https://ja.wikipedia.org/wiki/Xcode "wikilink") - 2011年3月にリリースされたXcode4より、gitとSubversionが、標準でサポートされた。
+  - [Code::Blocks](../Page/Code::Blocks.md "wikilink")
+  - [Xcode](../Page/Xcode.md "wikilink") - 2011年3月にリリースされたXcode4より、gitとSubversionが、標準でサポートされた。
 
 ## 使用例
 
@@ -103,14 +103,14 @@ foo を bar に移動
 
   - [CVS](../Page/Concurrent_Versions_System.md "wikilink")
   - [arch](https://ja.wikipedia.org/wiki/arch "wikilink")
-  - [バージョン管理システム](https://ja.wikipedia.org/wiki/バージョン管理システム "wikilink")
+  - [バージョン管理システム](../Page/バージョン管理システム.md "wikilink")
   - [TortoiseSVN](https://ja.wikipedia.org/wiki/TortoiseSVN "wikilink")
   - [Subversion クライアントの比較](https://ja.wikipedia.org/wiki/:en:Comparison_of_Subversion_clients "wikilink") (英語版ウィキペディア)
 
 ## 外部リンク
 
   -
-  - [Subversionによるバージョン管理](http://svnbook.red-bean.com/) - [O'Reilly Mediaの本](https://ja.wikipedia.org/wiki/オライリーメディア "wikilink")「Version Control with Subversion（svnbook）」をオンラインで読める公式ウェブサイト
+  - [Subversionによるバージョン管理](http://svnbook.red-bean.com/) - [O'Reilly Mediaの本](../Page/オライリーメディア.md "wikilink")「Version Control with Subversion（svnbook）」をオンラインで読める公式ウェブサイト
 
   - [Subversionドキュメントのまとめ](http://jtdan.com/vcs/svn/) - 「Subversionによるバージョン管理」の日本語訳（HTML/PDF/HTML Help形式）
 

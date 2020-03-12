@@ -1,29 +1,29 @@
 > この記事は[JNN](https://ja.wikipedia.org/wiki/JNN)から翻訳されています。
 
 
-『**JNNニュースの森**』（ジェイエヌエヌ ニュースのもり）は、[TBS](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")（[JNN](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")）系列で[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月27日](../Page/3月27日.md "wikilink")までの間にかけて放送していた夕方の[報道番組](https://ja.wikipedia.org/wiki/報道番組 "wikilink")である。通称「**ニュースの森**」。[新聞](../Page/新聞.md "wikilink")[ラ・テ欄ではスペースの都合上](https://ja.wikipedia.org/wiki/番組表 "wikilink")、ニュースを表す\[N\]の記号を用いて「**\[N\]の森**」のように表記することもあった。
+『**JNNニュースの森**』（ジェイエヌエヌ ニュースのもり）は、[TBS](../Page/TBSテレビ.md "wikilink")（[JNN](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")）系列で[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2005年](../Page/2005年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")までの間にかけて放送していた夕方の[報道番組](../Page/報道番組.md "wikilink")である。通称「**ニュースの森**」。[新聞](../Page/新聞.md "wikilink")[ラ・テ欄ではスペースの都合上](https://ja.wikipedia.org/wiki/番組表 "wikilink")、ニュースを表す\[N\]の記号を用いて「**\[N\]の森**」のように表記することもあった。
 
 ## 概要
 
-前番組は、27年半もの間放送されたキャスター総合ニュース『**[JNNニュースコープ](https://ja.wikipedia.org/wiki/JNNニュースコープ "wikilink")**』で、それに[首都圏](https://ja.wikipedia.org/wiki/首都圏_\(日本\) "wikilink")（[関東地方](https://ja.wikipedia.org/wiki/関東地方 "wikilink")）向けのローカルニュース『[テレポートTBS6](https://ja.wikipedia.org/wiki/テレポートTBS6 "wikilink")』（最末期の1989年度は『テレポート6』のタイトルで放送）を統合して誕生した。企画当初は先行する[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列](../Page/フジニュースネットワーク.md "wikilink")『[FNNスーパータイム](https://ja.wikipedia.org/wiki/FNNスーパータイム "wikilink")』や[日本テレビ](../Page/日本テレビ放送網.md "wikilink")[系列](../Page/日本ニュースネットワーク.md "wikilink")『[NNNニュースプラス1](https://ja.wikipedia.org/wiki/NNNニュースプラス1 "wikilink")』を意識してローカルニュースを全国ニュースに内包させた構成にする予定だったが、元々老舗のローカルワイドニュースが多いJNN各局の反発を受けた\[1\]。妥協策としてローカル枠と全国枠を反転し\[2\]、TBS、[テレビユー山形](https://ja.wikipedia.org/wiki/テレビユー山形 "wikilink")、[チューリップテレビ](https://ja.wikipedia.org/wiki/チューリップテレビ "wikilink")のみ1時間枠の単一番組として構成した。実際ローカル枠のタイトルでも『ニュースの森』を使っていたのは[東北放送](https://ja.wikipedia.org/wiki/東北放送 "wikilink")や[テレビユー福島](../Page/テレビユー福島.md "wikilink")等極一部に限られた。
+前番組は、27年半もの間放送されたキャスター総合ニュース『**[JNNニュースコープ](https://ja.wikipedia.org/wiki/JNNニュースコープ "wikilink")**』で、それに[首都圏](https://ja.wikipedia.org/wiki/首都圏_\(日本\) "wikilink")（[関東地方](https://ja.wikipedia.org/wiki/関東地方 "wikilink")）向けのローカルニュース『[テレポートTBS6](../Page/テレポートTBS6.md "wikilink")』（最末期の1989年度は『テレポート6』のタイトルで放送）を統合して誕生した。企画当初は先行する[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列](../Page/フジニュースネットワーク.md "wikilink")『[FNNスーパータイム](../Page/FNNスーパータイム.md "wikilink")』や[日本テレビ](../Page/日本テレビ放送網.md "wikilink")[系列](../Page/日本ニュースネットワーク.md "wikilink")『[NNNニュースプラス1](../Page/NNNニュースプラス1.md "wikilink")』を意識してローカルニュースを全国ニュースに内包させた構成にする予定だったが、元々老舗のローカルワイドニュースが多いJNN各局の反発を受けた\[1\]。妥協策としてローカル枠と全国枠を反転し\[2\]、TBS、[テレビユー山形](../Page/テレビユー山形.md "wikilink")、[チューリップテレビ](../Page/チューリップテレビ.md "wikilink")のみ1時間枠の単一番組として構成した。実際ローカル枠のタイトルでも『ニュースの森』を使っていたのは[東北放送](../Page/東北放送.md "wikilink")や[テレビユー福島](../Page/テレビユー福島.md "wikilink")等極一部に限られた。
 
 夕方のニュース激戦区において、初期は安定した[視聴率](../Page/視聴率.md "wikilink")を確保し、番組は2005年3月まで15年間続いた。他局が1990年代後半から17時台に進出する中で視聴率で苦戦し、2・3番手争いを演じるが、17時台への本格進出も、芸能ニュースコーナーを設けることはしなかった。
 
-後番組は、大型[ニュース](../Page/ニュース.md "wikilink")・[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")『**[イブニング・ファイブ](https://ja.wikipedia.org/wiki/イブニング・ファイブ "wikilink")**』\[3\]。当時本番組と並んで夕方ニュースの老舗だった日本テレビ系列『NNNニュースプラス1』も1年後に終了している。
+後番組は、大型[ニュース](../Page/ニュース.md "wikilink")・[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")『**[イブニング・ファイブ](../Page/イブニング・ファイブ.md "wikilink")**』\[3\]。当時本番組と並んで夕方ニュースの老舗だった日本テレビ系列『NNNニュースプラス1』も1年後に終了している。
 
-[2002年](../Page/2002年.md "wikilink")4月1日からは全国枠に限って、[リアルタイム字幕放送](https://ja.wikipedia.org/wiki/リアルタイム字幕放送 "wikilink")を実施していた（週末も実施）。
+[2002年](../Page/2002年.md "wikilink")4月1日からは全国枠に限って、[リアルタイム字幕放送](../Page/リアルタイム字幕放送.md "wikilink")を実施していた（週末も実施）。
 
-初代オープニングの頃、平日のヘッドラインのナレーションを[鈴木史朗](https://ja.wikipedia.org/wiki/鈴木史朗 "wikilink")が務めた。その後は[鈴木順](https://ja.wikipedia.org/wiki/鈴木順 "wikilink")が番組終了まで主にナレーターを務めた。ただし末期の特集コーナーのみは[生野文治](https://ja.wikipedia.org/wiki/生野文治 "wikilink")の担当で固定した。
+初代オープニングの頃、平日のヘッドラインのナレーションを[鈴木史朗](../Page/鈴木史朗.md "wikilink")が務めた。その後は[鈴木順](../Page/鈴木順.md "wikilink")が番組終了まで主にナレーターを務めた。ただし末期の特集コーナーのみは[生野文治](../Page/生野文治.md "wikilink")の担当で固定した。
 
 週末のスポーツニュースは全国ニュース枠で放送していた。平日も一時期、スポーツコーナーを全国ニュース枠で放送した（大体、1995年頃から2000年中期まで）。
 
-2004年10月から番組終了の2005年3月まで、森田が全国ニュース枠で天気予報を放送。民放の夕方のニュースでは[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")の『[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』\[4\]以来、およそ4年半ぶり。
+2004年10月から番組終了の2005年3月まで、森田が全国ニュース枠で天気予報を放送。民放の夕方のニュースでは[テレビ朝日](../Page/テレビ朝日.md "wikilink")の『[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』\[4\]以来、およそ4年半ぶり。
 
-土曜日に関しては、[土6枠の終了直後に](https://ja.wikipedia.org/wiki/毎日放送制作土曜夕方6時枠のアニメ "wikilink")[毎日放送](https://ja.wikipedia.org/wiki/毎日放送 "wikilink")からの送出で5秒間のジャンクションが流れた。内容は女性キャスター（アンカー格）が「今日1日のニュースとスポーツ」とアナウンスし、続けて男性キャスター（サブ格）が「この後の『ニュースの森』でお伝えします。」というものだった。
+土曜日に関しては、[土6枠の終了直後に](../Page/毎日放送制作土曜夕方6時枠のアニメ.md "wikilink")[毎日放送](../Page/毎日放送.md "wikilink")からの送出で5秒間のジャンクションが流れた。内容は女性キャスター（アンカー格）が「今日1日のニュースとスポーツ」とアナウンスし、続けて男性キャスター（サブ格）が「この後の『ニュースの森』でお伝えします。」というものだった。
 
 週末版のエンディングについては、[JNNイブニング・ニュース\#週末版](https://ja.wikipedia.org/wiki/JNNイブニング・ニュース#週末版 "wikilink")を参照の事。
 
-[TBSビデオ問題](https://ja.wikipedia.org/wiki/TBSビデオ問題 "wikilink")の際、[日本テレビの](../Page/日本テレビ放送網.md "wikilink")『[NNN昼のニュース](https://ja.wikipedia.org/wiki/NNN昼のニュース "wikilink")』でTBSのかかわりが報道された当日にこの番組で「関わっていない」とし、日本テレビに抗議した旨を全国ネット枠で放送した。この「関わっていない」とした放送を他局がこぞってTBSが否定した証拠映像としてのちに何度も使っている。なお、先の抗議に対しては日本テレビに正式に取り消しと謝罪した旨も後に報じている。
+[TBSビデオ問題](../Page/TBSビデオ問題.md "wikilink")の際、[日本テレビの](../Page/日本テレビ放送網.md "wikilink")『[NNN昼のニュース](../Page/NNN昼のニュース.md "wikilink")』でTBSのかかわりが報道された当日にこの番組で「関わっていない」とし、日本テレビに抗議した旨を全国ネット枠で放送した。この「関わっていない」とした放送を他局がこぞってTBSが否定した証拠映像としてのちに何度も使っている。なお、先の抗議に対しては日本テレビに正式に取り消しと謝罪した旨も後に報じている。
 
 それまでニュースを短く伝えるコーナーを「ニュースフラッシュ」や「ニュースを続けてお伝えします。」などと言っていたが、1997年10月から「ニュースメドレー」という名称になり、2004年9月末まで使われた。週末版も2001年10月くらいから「ニュースメドレー」という名称を使用していた。2004年10月からは平日版は「ニュースな言葉」という名になった。
 
@@ -31,9 +31,9 @@
 
 ### 1990年度〜1992年度（荒川時代）
 
-1990年4月2日に放送開始。それまで18時台前半に関東ローカルで放送されていた『[テレポート6](https://ja.wikipedia.org/wiki/テレポートTBS6 "wikilink")』に新メンバーを入れる形でスタートした。平日版はメインキャスターに[荒川強啓](https://ja.wikipedia.org/wiki/荒川強啓 "wikilink")と[久和ひとみ](https://ja.wikipedia.org/wiki/久和ひとみ "wikilink")を起用。スポーツは[佐古忠彦](https://ja.wikipedia.org/wiki/佐古忠彦 "wikilink")、天気予報は[気象予報士](../Page/気象予報士.md "wikilink")の[森田正光](https://ja.wikipedia.org/wiki/森田正光 "wikilink")が担当した。週末版はメインキャスターに前番組・『[JNNニュースコープ](https://ja.wikipedia.org/wiki/JNNニュースコープ "wikilink")』（週末版）を担当していた[吉川美代子](https://ja.wikipedia.org/wiki/吉川美代子 "wikilink")とスポーツは[戸崎貴広](https://ja.wikipedia.org/wiki/戸崎貴広 "wikilink")が担当した。
+1990年4月2日に放送開始。それまで18時台前半に関東ローカルで放送されていた『[テレポート6](../Page/テレポートTBS6.md "wikilink")』に新メンバーを入れる形でスタートした。平日版はメインキャスターに[荒川強啓](../Page/荒川強啓.md "wikilink")と[久和ひとみ](../Page/久和ひとみ.md "wikilink")を起用。スポーツは[佐古忠彦](../Page/佐古忠彦.md "wikilink")、天気予報は[気象予報士](../Page/気象予報士.md "wikilink")の[森田正光](../Page/森田正光.md "wikilink")が担当した。週末版はメインキャスターに前番組・『[JNNニュースコープ](https://ja.wikipedia.org/wiki/JNNニュースコープ "wikilink")』（週末版）を担当していた[吉川美代子](../Page/吉川美代子.md "wikilink")とスポーツは[戸崎貴広](../Page/戸崎貴広.md "wikilink")が担当した。
 
-1993年4月、久和と吉川、森田以外の出演者をリニューアル。後任は、政経部平河クラブキャップの[杉尾秀哉](https://ja.wikipedia.org/wiki/杉尾秀哉 "wikilink")、スポーツコーナーは平日版を[安東弘樹](https://ja.wikipedia.org/wiki/安東弘樹 "wikilink")、週末版を[田中宏明](https://ja.wikipedia.org/wiki/田中宏明 "wikilink")がそれぞれ担当。1993年4月～1994年9月は、平日と週末でオープニングとCM前ジングルが異なっていた。
+1993年4月、久和と吉川、森田以外の出演者をリニューアル。後任は、政経部平河クラブキャップの[杉尾秀哉](../Page/杉尾秀哉.md "wikilink")、スポーツコーナーは平日版を[安東弘樹](../Page/安東弘樹.md "wikilink")、週末版を[田中宏明](../Page/田中宏明.md "wikilink")がそれぞれ担当。1993年4月～1994年9月は、平日と週末でオープニングとCM前ジングルが異なっていた。
 
   - 1990年度・1992年度の沿革
 
@@ -41,12 +41,12 @@
 
   - 1990年4月2日 - 放送開始。
   - 1991年9月30日 - セットを一新。
-  - 1993年3月28日 - 戸崎が降板。戸崎は『[ブロードキャスター](https://ja.wikipedia.org/wiki/ブロードキャスター "wikilink")』のスポーツに専念。
-  - 1993年3月31日 - 荒川、佐古が降板。荒川は『[ビッグモーニング](https://ja.wikipedia.org/wiki/ビッグモーニング "wikilink")』、佐古は『[JNNスポーツ&ニュース](https://ja.wikipedia.org/wiki/JNNスポーツ&ニュース "wikilink")』担当になった。
+  - 1993年3月28日 - 戸崎が降板。戸崎は『[ブロードキャスター](../Page/ブロードキャスター.md "wikilink")』のスポーツに専念。
+  - 1993年3月31日 - 荒川、佐古が降板。荒川は『[ビッグモーニング](https://ja.wikipedia.org/wiki/ビッグモーニング "wikilink")』、佐古は『[JNNスポーツ&ニュース](../Page/JNNスポーツ&ニュース.md "wikilink")』担当になった。
 
 ### 1993年度〜1997年度前期（杉尾時代前期）
 
-1997年10月、杉尾を降板しリニューアル。後任は、経済部記者の[松原耕二](https://ja.wikipedia.org/wiki/松原耕二 "wikilink")が担当。
+1997年10月、杉尾を降板しリニューアル。後任は、経済部記者の[松原耕二](../Page/松原耕二.md "wikilink")が担当。
 
   - 1993年度・1995年度の沿革
 
@@ -55,9 +55,9 @@
   - 1993年4月1日 - 新メンバーに加えセットとオープニング映像、テーマ曲を一新。
   - 1994年4月 - テーマ曲を一新(前代のアレンジ版)
   - 1994年10月3日 - 現社屋「TBS放送センター」（愛称:ビッグハット）に移転に伴いセットとオープニング映像、テーマ曲を再一新。
-  - 1995年4月9日 - 日曜日にお天気コーナーが設けられ気象予報士の[杉江勇次](https://ja.wikipedia.org/wiki/杉江勇次 "wikilink")が登板。
+  - 1995年4月9日 - 日曜日にお天気コーナーが設けられ気象予報士の[杉江勇次](../Page/杉江勇次.md "wikilink")が登板。
   - 1995年10月1日 - 田中が降板。3ヶ月後に同社を退社。
-  - 1995年10月7日 - 週末版のスポーツコーナーに[初田啓介](https://ja.wikipedia.org/wiki/初田啓介 "wikilink")が登板。
+  - 1995年10月7日 - 週末版のスポーツコーナーに[初田啓介](../Page/初田啓介.md "wikilink")が登板。
   - 1996年3月29日 - 久和と安東が降板。久和は渡米し[コロンビア大学](https://ja.wikipedia.org/wiki/コロンビア大学 "wikilink")に留学。安東は『[王様のブランチ](https://ja.wikipedia.org/wiki/王様のブランチ "wikilink")』担当になった。
 
 <!-- end list -->
@@ -66,15 +66,15 @@
 
 <!-- end list -->
 
-  - 1996年4月1日 - 久和の後任に、報道記者の[門脇利枝](https://ja.wikipedia.org/wiki/門脇利枝 "wikilink")が登板。メインが同局の社員になるのは、『[JNNニュースコープ](https://ja.wikipedia.org/wiki/JNNニュースコープ "wikilink")』の終了以来6年ぶり。スポーツは[福島弓子](https://ja.wikipedia.org/wiki/福島弓子 "wikilink")が担当。
+  - 1996年4月1日 - 久和の後任に、報道記者の[門脇利枝](https://ja.wikipedia.org/wiki/門脇利枝 "wikilink")が登板。メインが同局の社員になるのは、『[JNNニュースコープ](https://ja.wikipedia.org/wiki/JNNニュースコープ "wikilink")』の終了以来6年ぶり。スポーツは[福島弓子](../Page/福島弓子.md "wikilink")が担当。
   - 1997年3月30日 - 初田が降板。スポーツ中継のみに専念。週末版からスポーツ担当が消えた。
   - 1997年3月31日 - 平日版の放送時間が5分+され17:55スタートとなる。
-  - 1997年4月5日 - 週末版キャスターとして、[岩井健浩](https://ja.wikipedia.org/wiki/岩井健浩 "wikilink")が登板。
-  - 1997年9月26日 - 杉尾が降板。杉尾は外信部デスクと『[サンデーモーニング](https://ja.wikipedia.org/wiki/サンデーモーニング "wikilink")』担当になった。
+  - 1997年4月5日 - 週末版キャスターとして、[岩井健浩](../Page/岩井健浩.md "wikilink")が登板。
+  - 1997年9月26日 - 杉尾が降板。杉尾は外信部デスクと『[サンデーモーニング](../Page/サンデーモーニング.md "wikilink")』担当になった。
 
 ### 1997年度後期〜2001年度後期（松原時代）
 
-2001年10月、松原に代わって、前任の杉尾秀哉が4年ぶりに復帰。また週末版のキャスターに、[伊藤隆太](https://ja.wikipedia.org/wiki/伊藤隆太 "wikilink")が登板。
+2001年10月、松原に代わって、前任の杉尾秀哉が4年ぶりに復帰。また週末版のキャスターに、[伊藤隆太](../Page/伊藤隆太.md "wikilink")が登板。
 
   - 1997年度後期・1999年度後期の沿革
 
@@ -82,9 +82,9 @@
 
   - 1997年9月29日 - 松原キャスター就任と同時に、タイトルロゴ及びセット、オープニング映像、テーマ曲を一新。
   - 1999年3月26日 - 福島が降板。[イチロー](https://ja.wikipedia.org/wiki/イチロー "wikilink")と結婚する為、同局を退社。
-  - 1999年3月29日 - スポーツコーナーを月～火曜日を[小倉弘子](https://ja.wikipedia.org/wiki/小倉弘子 "wikilink")、水～金曜日を[木村郁美](https://ja.wikipedia.org/wiki/木村郁美 "wikilink")がそれぞれ担当。交代制となるのは今回が初。
+  - 1999年3月29日 - スポーツコーナーを月～火曜日を[小倉弘子](https://ja.wikipedia.org/wiki/小倉弘子 "wikilink")、水～金曜日を[木村郁美](../Page/木村郁美.md "wikilink")がそれぞれ担当。交代制となるのは今回が初。
   - 1999年9月21日 - 小倉が降板。小倉は『[筑紫哲也 NEWS23](https://ja.wikipedia.org/wiki/筑紫哲也_NEWS23 "wikilink")』担当になった。
-  - 1999年9月24日 - 門脇が降板。門脇は[BS-i設立に参加](https://ja.wikipedia.org/wiki/BS-TBS "wikilink")。
+  - 1999年9月24日 - 門脇が降板。門脇は[BS-i設立に参加](../Page/BS-TBS.md "wikilink")。
 
 <!-- end list -->
 
@@ -92,15 +92,15 @@
 
 <!-- end list -->
 
-  - 1999年9月27日 - 門脇の後任に、当時TBSアナウンサーの[進藤晶子](https://ja.wikipedia.org/wiki/進藤晶子 "wikilink")が登板。スポーツコーナーは月・水・金を[新タ悦男](https://ja.wikipedia.org/wiki/新タ悦男 "wikilink")が務め、木村は火・木担当となった。
-  - 2000年2月24日 - 木村が降板。木村は写真集「ambient M」の問題で降板した[とよた真帆](https://ja.wikipedia.org/wiki/とよた真帆 "wikilink")の後任として『[エクスプレス](https://ja.wikipedia.org/wiki/エクスプレス_\(テレビ番組\) "wikilink")』の司会となる。
-  - 2000年2月28日 - スポーツコーナーは新タは月～水担当となり、木・金を[豊田綾乃](https://ja.wikipedia.org/wiki/豊田綾乃 "wikilink")が務めた。
+  - 1999年9月27日 - 門脇の後任に、当時TBSアナウンサーの[進藤晶子](https://ja.wikipedia.org/wiki/進藤晶子 "wikilink")が登板。スポーツコーナーは月・水・金を[新タ悦男](../Page/新タ悦男.md "wikilink")が務め、木村は火・木担当となった。
+  - 2000年2月24日 - 木村が降板。木村は写真集「ambient M」の問題で降板した[とよた真帆](../Page/とよた真帆.md "wikilink")の後任として『[エクスプレス](../Page/エクスプレス_\(テレビ番組\).md "wikilink")』の司会となる。
+  - 2000年2月28日 - スポーツコーナーは新タは月～水担当となり、木・金を[豊田綾乃](../Page/豊田綾乃.md "wikilink")が務めた。
   - 2000年4月3日 - 平日版の放送時間が1分+され17:54スタートとなる。
   - 2000年4月10日 - セット、オープニング映像、テーマ曲を一新。
   - 2000年9月27日 - 新タが降板。新タは『[BS-iスポーツニュース](https://ja.wikipedia.org/wiki/BS-iスポーツニュース "wikilink")』担当になった。
-  - 2000年10月2日 - スポーツコーナーは月・火を[海保知里](https://ja.wikipedia.org/wiki/海保知里 "wikilink")が、豊田は水～金担当となった。
+  - 2000年10月2日 - スポーツコーナーは月・火を[海保知里](../Page/海保知里.md "wikilink")が、豊田は水～金担当となった。
   - 2001年3月1日 - 初代女性メインキャスター・久和ひとみが急性[肝不全](https://ja.wikipedia.org/wiki/肝不全 "wikilink")の為死去（享年40歳）。
-  - 2001年3月27日 - 海保が降板。海保は[TBSラジオ](https://ja.wikipedia.org/wiki/TBSラジオ "wikilink")の『[小堺一機のサタデーウィズ](https://ja.wikipedia.org/wiki/小堺一機のサタデーウィズ "wikilink")』に専念。
+  - 2001年3月27日 - 海保が降板。海保は[TBSラジオ](../Page/TBSラジオ.md "wikilink")の『[小堺一機のサタデーウィズ](../Page/小堺一機のサタデーウィズ.md "wikilink")』に専念。
   - 2001年3月30日 - 進藤が降板。進藤は半年間の休暇の後同社を退社。
 
 <!-- end list -->
@@ -109,13 +109,13 @@
 
 <!-- end list -->
 
-  - 2001年4月2日 - 進藤の後任に、[小川知子が登板](https://ja.wikipedia.org/wiki/小川知子_\(アナウンサー\) "wikilink")。またスポーツコーナーは豊田が全曜日担当となる。
+  - 2001年4月2日 - 進藤の後任に、[小川知子が登板](../Page/小川知子_\(アナウンサー\).md "wikilink")。またスポーツコーナーは豊田が全曜日担当となる。
   - 2001年9月28日 - 松原が降板。杉尾と入れ違いで同番組の編集長に就任。
   - 2001年9月30日 - 岩井が降板。平日版のフィールドキャスターに転身。
 
 ### 2001年度後期〜2004年度後期（杉尾時代後期）
 
-2004年10月、新メインに[池田裕行](https://ja.wikipedia.org/wiki/池田裕行 "wikilink")と5年ぶりにスポーツコーナー担当だった[小倉弘子](https://ja.wikipedia.org/wiki/小倉弘子 "wikilink")がメインとなる。スポーツコーナーは月・火曜日を[安東弘樹](https://ja.wikipedia.org/wiki/安東弘樹 "wikilink")が8年半ぶりに復帰。水・木曜日を[高野貴裕](https://ja.wikipedia.org/wiki/高野貴裕 "wikilink")が担当。週末版のキャスターは、[駒田健吾](https://ja.wikipedia.org/wiki/駒田健吾 "wikilink")が登板。
+2004年10月、新メインに[池田裕行](../Page/池田裕行.md "wikilink")と5年ぶりにスポーツコーナー担当だった[小倉弘子](https://ja.wikipedia.org/wiki/小倉弘子 "wikilink")がメインとなる。スポーツコーナーは月・火曜日を[安東弘樹](../Page/安東弘樹.md "wikilink")が8年半ぶりに復帰。水・木曜日を[高野貴裕](../Page/高野貴裕.md "wikilink")が担当。週末版のキャスターは、[駒田健吾](../Page/駒田健吾.md "wikilink")が登板。
 
   - 2001年度後期・2004年度前期の沿革
 
@@ -123,13 +123,13 @@
 
   - 2001年10月1日 - メイン交代と同時にタイトルロゴが完全一新。オープニング映像、テーマ曲、セットも一新。
   - 2001年10月6日 - 伊藤が登板。
-  - 2002年4月1日 - 平日19時台のレギュラー番組がフライングスタートの実施により放送開始が17:50となる。またスポーツコーナーの金曜日を[佐藤文康](https://ja.wikipedia.org/wiki/佐藤文康 "wikilink")が担当。
+  - 2002年4月1日 - 平日19時台のレギュラー番組がフライングスタートの実施により放送開始が17:50となる。またスポーツコーナーの金曜日を[佐藤文康](../Page/佐藤文康.md "wikilink")が担当。
   - 2002年9月30日 - タイトルロゴ、オープニング映像、テーマ曲、セットを再一新。
-  - 2004年3月28日 - 吉川と伊藤が降板。吉川は1984年10月の『[JNNニュースコープ](https://ja.wikipedia.org/wiki/JNNニュースコープ "wikilink")』から足掛け19年半夕方のキャスターを務めた。降板後は『[ウォッチ\!](https://ja.wikipedia.org/wiki/ウォッチ! "wikilink")』のコメンテーターとなる。伊藤は『[ニュースフロント](https://ja.wikipedia.org/wiki/ニュースフロント "wikilink")』担当になった。
-  - 2004年4月3日 - 週末版のキャスターに[長峰由紀](https://ja.wikipedia.org/wiki/長峰由紀 "wikilink")と[柴田秀一](https://ja.wikipedia.org/wiki/柴田秀一 "wikilink")が登板。3月に終了した『[ベストタイム](https://ja.wikipedia.org/wiki/ベストタイム "wikilink")』からの登板。
-  - 2004年9月23日 - 豊田が降板。豊田は[TBSラジオ](https://ja.wikipedia.org/wiki/TBSラジオ "wikilink")で自身がパーソナリティを務める『[プレシャスサンデー](https://ja.wikipedia.org/wiki/プレシャスサンデー "wikilink")』に専念。
-  - 2004年9月24日 - 杉尾と小川が降板。杉尾は[TBSテレビ](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")編成制作本部報道局取材センター社会部長。小川は報道局外信部の記者となる。
-  - 2004年9月26日 - 柴田が降板。柴田は『[はなまるマーケット](https://ja.wikipedia.org/wiki/はなまるマーケット "wikilink")』、『[ジャスト](https://ja.wikipedia.org/wiki/ジャスト_\(情報番組\) "wikilink")』担当になった。
+  - 2004年3月28日 - 吉川と伊藤が降板。吉川は1984年10月の『[JNNニュースコープ](https://ja.wikipedia.org/wiki/JNNニュースコープ "wikilink")』から足掛け19年半夕方のキャスターを務めた。降板後は『[ウォッチ\!](../Page/ウォッチ!.md "wikilink")』のコメンテーターとなる。伊藤は『[ニュースフロント](../Page/ニュースフロント.md "wikilink")』担当になった。
+  - 2004年4月3日 - 週末版のキャスターに[長峰由紀](../Page/長峰由紀.md "wikilink")と[柴田秀一](../Page/柴田秀一.md "wikilink")が登板。3月に終了した『[ベストタイム](../Page/ベストタイム.md "wikilink")』からの登板。
+  - 2004年9月23日 - 豊田が降板。豊田は[TBSラジオ](../Page/TBSラジオ.md "wikilink")で自身がパーソナリティを務める『[プレシャスサンデー](../Page/プレシャスサンデー.md "wikilink")』に専念。
+  - 2004年9月24日 - 杉尾と小川が降板。杉尾は[TBSテレビ](../Page/TBSテレビ.md "wikilink")編成制作本部報道局取材センター社会部長。小川は報道局外信部の記者となる。
+  - 2004年9月26日 - 柴田が降板。柴田は『[はなまるマーケット](../Page/はなまるマーケット.md "wikilink")』、『[ジャスト](https://ja.wikipedia.org/wiki/ジャスト_\(情報番組\) "wikilink")』担当になった。
 
 ### 2004年度後期（池田時代）
 
@@ -139,15 +139,15 @@
 
   - 2004年9月27日 - 新メンバーに加えセットとオープニング映像、テーマ曲を一新。
   - 2004年10月2日 - 駒田が登板。
-  - 2005年3月22日 - 安東が降板。安東は『[きょう発プラス\!](https://ja.wikipedia.org/wiki/きょう発プラス! "wikilink")』担当になった。
+  - 2005年3月22日 - 安東が降板。安東は『[きょう発プラス\!](../Page/きょう発プラス!.md "wikilink")』担当になった。
   - 2005年3月24日 - 高野が降板。高野は『[王様のブランチ](https://ja.wikipedia.org/wiki/王様のブランチ "wikilink")』担当になった。
-  - 2005年3月25日 - 平日版終了。池田と小倉は次番組『[イブニング・ファイブ](https://ja.wikipedia.org/wiki/イブニング・ファイブ "wikilink")』も続投。
-  - 2005年3月27日 - 週末版終了。長峰と駒田は次番組『[JNNイブニング・ニュース](https://ja.wikipedia.org/wiki/JNNイブニング・ニュース "wikilink")』も続投。
+  - 2005年3月25日 - 平日版終了。池田と小倉は次番組『[イブニング・ファイブ](../Page/イブニング・ファイブ.md "wikilink")』も続投。
+  - 2005年3月27日 - 週末版終了。長峰と駒田は次番組『[JNNイブニング・ニュース](../Page/JNNイブニング・ニュース.md "wikilink")』も続投。
 
 ## 出演者
 
   - ○印は『JNNニュースコープ』、●印は『テレポートTBS6』から続投。
-  - □印は『[JNNイブニング・ニュース](https://ja.wikipedia.org/wiki/JNNイブニング・ニュース "wikilink")』、■印は『イブニング・ファイブ』も続投。
+  - □印は『[JNNイブニング・ニュース](../Page/JNNイブニング・ニュース.md "wikilink")』、■印は『イブニング・ファイブ』も続投。
 
 ### メインキャスター
 
@@ -163,12 +163,12 @@
 <tr class="odd">
 <td><p>1990.4.2</p></td>
 <td><p>1993.3.31</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/荒川強啓" title="wikilink">荒川強啓</a>●</p></td>
+<td><p><a href="../Page/荒川強啓.md" title="wikilink">荒川強啓</a>●</p></td>
 </tr>
 <tr class="even">
 <td><p>1993.4.1</p></td>
 <td><p>1996.3.31</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/杉尾秀哉" title="wikilink">杉尾秀哉</a></p></td>
+<td><p><a href="../Page/杉尾秀哉.md" title="wikilink">杉尾秀哉</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1996.4.1</p></td>
@@ -183,7 +183,7 @@
 <tr class="odd">
 <td><p>1997.9.29</p></td>
 <td><p>1999.9.26</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/松原耕二" title="wikilink">松原耕二</a></p></td>
+<td><p><a href="../Page/松原耕二.md" title="wikilink">松原耕二</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1999.9.27</p></td>
@@ -193,7 +193,7 @@
 <tr class="odd">
 <td><p>2001.4.2</p></td>
 <td><p>2001.9.30</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小川知子_(アナウンサー)" title="wikilink">小川知子</a><sup>4</sup></p></td>
+<td><p><a href="../Page/小川知子_(アナウンサー).md" title="wikilink">小川知子</a><sup>4</sup></p></td>
 </tr>
 <tr class="even">
 <td><p>2001.10.1</p></td>
@@ -203,18 +203,18 @@
 <tr class="odd">
 <td><p>2004.3.29</p></td>
 <td><p>2004.9.26</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/長峰由紀" title="wikilink">長峰由紀</a>□<sup>2・5</sup></p></td>
+<td><p><a href="../Page/長峰由紀.md" title="wikilink">長峰由紀</a>□<sup>2・5</sup></p></td>
 </tr>
 <tr class="even">
 <td><p>2004.9.27</p></td>
 <td><p>2005.3.27</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/池田裕行" title="wikilink">池田裕行</a>□■</p></td>
+<td><p><a href="../Page/池田裕行.md" title="wikilink">池田裕行</a>□■</p></td>
 </tr>
 <tr class="odd">
 <td><p><small></p>
 <ul>
-<li><sup>1</sup>　『<a href="https://ja.wikipedia.org/wiki/JNNスポーツ&amp;ニュース" title="wikilink">JNNスポーツ&amp;ニュース</a>』を兼務（いずれも担当時期は不明）。</li>
-<li><sup>2</sup>　昼の『<a href="https://ja.wikipedia.org/wiki/JNNニュース" title="wikilink">JNNニュース</a>』を兼務（詳細は同番組のページを参照）。</li>
+<li><sup>1</sup>　『<a href="../Page/JNNスポーツ&amp;ニュース.md" title="wikilink">JNNスポーツ&amp;ニュース</a>』を兼務（いずれも担当時期は不明）。</li>
+<li><sup>2</sup>　昼の『<a href="../Page/JNNニュース.md" title="wikilink">JNNニュース</a>』を兼務（詳細は同番組のページを参照）。</li>
 <li><sup>3</sup>　一時期、ディレクターを兼任。</li>
 <li><sup>4</sup>　2002年10月から2003年3月まで『<a href="https://ja.wikipedia.org/wiki/ジャスト_(情報番組)" title="wikilink">ジャスト</a>』ニュースコーナーを兼務。</li>
 <li><sup>5</sup>　『<a href="https://ja.wikipedia.org/wiki/報道特集_(TBS)" title="wikilink">報道特集NEXT</a>』ニュースコーナー、日曜夕方の『<a href="https://ja.wikipedia.org/wiki/THE_NEWS_(TBS・JNN)" title="wikilink">THE NEWS</a>』も続投。</li>
@@ -245,8 +245,8 @@
 <tr class="odd">
 <td><p>1990.4.2</p></td>
 <td><p>1993.3.31</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/佐古忠彦" title="wikilink">佐古忠彦</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/戸崎貴広" title="wikilink">戸崎貴広</a>○<sup>1</sup></p></td>
+<td><p><a href="../Page/佐古忠彦.md" title="wikilink">佐古忠彦</a></p></td>
+<td><p><a href="../Page/戸崎貴広.md" title="wikilink">戸崎貴広</a>○<sup>1</sup></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -254,8 +254,8 @@
 <tr class="even">
 <td><p>1993.4.1</p></td>
 <td><p>1995.10.1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/安東弘樹" title="wikilink">安東弘樹</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/田中宏明" title="wikilink">田中宏明</a><sup>1・2</sup></p></td>
+<td><p><a href="../Page/安東弘樹.md" title="wikilink">安東弘樹</a></p></td>
+<td><p><a href="../Page/田中宏明.md" title="wikilink">田中宏明</a><sup>1・2</sup></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -263,7 +263,7 @@
 <tr class="odd">
 <td><p>1995.10.2</p></td>
 <td><p>1996.3.31</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/初田啓介" title="wikilink">初田啓介</a><sup>1・2</sup></p></td>
+<td><p><a href="../Page/初田啓介.md" title="wikilink">初田啓介</a><sup>1・2</sup></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -272,7 +272,7 @@
 <tr class="even">
 <td><p>1996.4.1</p></td>
 <td><p>1997.3.30</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/福島弓子" title="wikilink">福島弓子</a></p></td>
+<td><p><a href="../Page/福島弓子.md" title="wikilink">福島弓子</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -291,7 +291,7 @@
 <td><p>1999.3.29</p></td>
 <td><p>1999.9.26</p></td>
 <td><p>小倉弘子</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/木村郁美" title="wikilink">木村郁美</a></p></td>
+<td><p><a href="../Page/木村郁美.md" title="wikilink">木村郁美</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -299,7 +299,7 @@
 <tr class="odd">
 <td><p>1999.9.27</p></td>
 <td><p>2000.2.27</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/新タ悦男" title="wikilink">新タ悦男</a></p></td>
+<td><p><a href="../Page/新タ悦男.md" title="wikilink">新タ悦男</a></p></td>
 <td><p>木村郁美</p></td>
 <td><p>新タ悦男</p></td>
 <td><p>木村郁美</p></td>
@@ -309,7 +309,7 @@
 <td><p>2000.2.28</p></td>
 <td><p>2000.10.1</p></td>
 <td><p>新タ悦男</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/豊田綾乃" title="wikilink">豊田綾乃</a></p></td>
+<td><p><a href="../Page/豊田綾乃.md" title="wikilink">豊田綾乃</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -317,7 +317,7 @@
 <tr class="odd">
 <td><p>2000.10.2</p></td>
 <td><p>2001.4.1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/海保知里" title="wikilink">海保知里</a></p></td>
+<td><p><a href="../Page/海保知里.md" title="wikilink">海保知里</a></p></td>
 <td><p>豊田綾乃</p></td>
 <td></td>
 <td></td>
@@ -336,7 +336,7 @@
 <td><p>2002.4.1</p></td>
 <td><p>2004.9.26</p></td>
 <td><p>豊田綾乃</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/佐藤文康" title="wikilink">佐藤文康</a></p></td>
+<td><p><a href="../Page/佐藤文康.md" title="wikilink">佐藤文康</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -345,7 +345,7 @@
 <td><p>2004.9.27</p></td>
 <td><p>2005.3.25</p></td>
 <td><p>安東弘樹</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/高野貴裕" title="wikilink">高野貴裕</a></p></td>
+<td><p><a href="../Page/高野貴裕.md" title="wikilink">高野貴裕</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -353,7 +353,7 @@
 <tr class="odd">
 <td><p><small></p>
 <ul>
-<li><sup>1</sup>　『<a href="https://ja.wikipedia.org/wiki/ブロードキャスター" title="wikilink">ブロードキャスター</a>』スポーツコーナー、日曜日の『<a href="https://ja.wikipedia.org/wiki/JNNフラッシュニュース" title="wikilink">JNNフラッシュニュース</a>』を兼務。</li>
+<li><sup>1</sup>　『<a href="../Page/ブロードキャスター.md" title="wikilink">ブロードキャスター</a>』スポーツコーナー、日曜日の『<a href="../Page/JNNフラッシュニュース.md" title="wikilink">JNNフラッシュニュース</a>』を兼務。</li>
 <li><sup>2</sup>　土曜日のローカルニュースパートを一部担当（田中は1995年4月以降）。</li>
 </ul>
 <p></small></p></td>
@@ -382,25 +382,25 @@
 <tr class="odd">
 <td><p>1990.4.7</p></td>
 <td><p>1993.3.28</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/森田正光" title="wikilink">森田正光</a>○●■<sup>1</sup></p></td>
+<td><p><a href="../Page/森田正光.md" title="wikilink">森田正光</a>○●■<sup>1</sup></p></td>
 <td><p>（放送なし）</p></td>
 </tr>
 <tr class="even">
 <td><p>1995.4.1</p></td>
 <td><p>1997.9.28</p></td>
 <td><p>（放送なし）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/杉江勇次" title="wikilink">杉江勇次</a></p></td>
+<td><p><a href="../Page/杉江勇次.md" title="wikilink">杉江勇次</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1997.10.4</p></td>
 <td><p>2005.3.27</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/森朗" title="wikilink">森朗</a>□<sup>2</sup></p></td>
+<td><p><a href="../Page/森朗.md" title="wikilink">森朗</a>□<sup>2</sup></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><small></p>
 <ul>
-<li><sup>1</sup>　『<a href="https://ja.wikipedia.org/wiki/JNNニュース1130" title="wikilink">JNNニュース1130</a>』、『<a href="https://ja.wikipedia.org/wiki/ウォッチ!" title="wikilink">ウォッチ!</a>』を兼務。</li>
+<li><sup>1</sup>　『<a href="../Page/JNNニュース1130.md" title="wikilink">JNNニュース1130</a>』、『<a href="../Page/ウォッチ!.md" title="wikilink">ウォッチ!</a>』を兼務。</li>
 <li><sup>2</sup>　日曜夕方の『<a href="https://ja.wikipedia.org/wiki/THE_NEWS_(TBS・JNN)" title="wikilink">THE NEWS</a>』も続投。</li>
 </ul>
 <p></small></p></td>
@@ -479,32 +479,32 @@
 
 **平日補足**
 
-  - 1997年3月31日に開始時間が早まっても2000年3月まで全国パートは18時丁度からであった。そのため、18時までの5分間は番組内容の一部を紹介する時間に充てていた（事実上『[もうすぐ](https://ja.wikipedia.org/wiki/ミニ番組 "wikilink")』枠扱い）。
-  - 2002年春改編から、平日19時台のレギュラー番組が[フライングスタートの実施により放送時間が繰り上がり](https://ja.wikipedia.org/wiki/フライングスタート_\(放送\) "wikilink")、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")を除く平日夕方の全国ニュースでは最も早い開始となった\[5\]。
+  - 1997年3月31日に開始時間が早まっても2000年3月まで全国パートは18時丁度からであった。そのため、18時までの5分間は番組内容の一部を紹介する時間に充てていた（事実上『[もうすぐ](../Page/ミニ番組.md "wikilink")』枠扱い）。
+  - 2002年春改編から、平日19時台のレギュラー番組が[フライングスタートの実施により放送時間が繰り上がり](../Page/フライングスタート_\(放送\).md "wikilink")、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")を除く平日夕方の全国ニュースでは最も早い開始となった\[5\]。
 
 **土曜日補足**
 
   - 毎年春・秋に放送される『[オールスター感謝祭](https://ja.wikipedia.org/wiki/オールスター感謝祭 "wikilink")』など、特別編成時は時間を繰り上げて放送。現在の『[報道特集](https://ja.wikipedia.org/wiki/報道特集_\(TBS\) "wikilink")』でも同様の措置を取っている。
-  - 1995年3月までTBSでは関東ローカルのニュースを『[TBSニュース](https://ja.wikipedia.org/wiki/TBSニュース "wikilink")』で放送。同年4月からTBSでは関東ローカルの『TBSニュース』を統合。全国パートは番組開始から20分間（日曜も同様）。
+  - 1995年3月までTBSでは関東ローカルのニュースを『[TBSニュース](../Page/TBSニュース.md "wikilink")』で放送。同年4月からTBSでは関東ローカルの『TBSニュース』を統合。全国パートは番組開始から20分間（日曜も同様）。
   - TBSでは土曜日の関東地方の天気予報を、現在も放送中の後番組『[ウィークエンドウェザー](https://ja.wikipedia.org/wiki/ウィークエンドウェザー "wikilink")』で放送していた\[6\]。
 
 **日曜日補足**
 
   - 1995年3月までTBSでは17:50 - 17:55に別枠で天気予報を放送。関東ローカルのニュースの放送はなかった。同年4月にTBSでは天気予報を統合。
-  - 2000年4月16日より、18時台後半の『[ニッセイワールドドキュメント](https://ja.wikipedia.org/wiki/ニッセイワールドドキュメント "wikilink")・[未来の瞳](https://ja.wikipedia.org/wiki/未来の瞳 "wikilink")』開始に伴い、後枠『[JNN報道特集](https://ja.wikipedia.org/wiki/JNN報道特集 "wikilink")』と共に30分繰り上げたため、日曜夕方のニュース番組で最も早い放送となった。
+  - 2000年4月16日より、18時台後半の『[ニッセイワールドドキュメント](../Page/ニッセイワールドドキュメント.md "wikilink")・[未来の瞳](https://ja.wikipedia.org/wiki/未来の瞳 "wikilink")』開始に伴い、後枠『[JNN報道特集](https://ja.wikipedia.org/wiki/JNN報道特集 "wikilink")』と共に30分繰り上げたため、日曜夕方のニュース番組で最も早い放送となった。
   - 1995年4月以降、前番組の現在の『[Nスタ](https://ja.wikipedia.org/wiki/Nスタ "wikilink")』まで、週末版の番組構成はほとんど変わっていない。
 
 ## シリーズ企画
 
-[関東地方](https://ja.wikipedia.org/wiki/関東地方 "wikilink")向けローカル内の特集、または全国ネットの後半で随時紹介。 なお、全国ネットの後半については[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")上の[JNN News iに掲載される場合があった](https://ja.wikipedia.org/wiki/JNN_News_i "wikilink")。
+[関東地方](https://ja.wikipedia.org/wiki/関東地方 "wikilink")向けローカル内の特集、または全国ネットの後半で随時紹介。 なお、全国ネットの後半については[インターネット](../Page/インターネット.md "wikilink")上の[JNN News iに掲載される場合があった](https://ja.wikipedia.org/wiki/JNN_News_i "wikilink")。
 
-  - シリーズ安全崩壊（[ピッキングや](https://ja.wikipedia.org/wiki/ピッキング行為 "wikilink")[銀行](../Page/銀行.md "wikilink")の[キャッシュカード](../Page/キャッシュカード.md "wikilink")偽造など[安全神話](https://ja.wikipedia.org/wiki/安全神話 "wikilink")の崩壊、「JNN報道特集」でスペシャル版が放送された）
+  - シリーズ安全崩壊（[ピッキングや](../Page/ピッキング行為.md "wikilink")[銀行](../Page/銀行.md "wikilink")の[キャッシュカード](../Page/キャッシュカード.md "wikilink")偽造など[安全神話](https://ja.wikipedia.org/wiki/安全神話 "wikilink")の崩壊、「JNN報道特集」でスペシャル版が放送された）
   - シリーズ[医療](../Page/医療.md "wikilink")解体（医療を様々な面から斬る）
   - シリーズ医療不信（書籍化される）
-  - シリーズ[赤ちゃん](https://ja.wikipedia.org/wiki/赤ちゃん "wikilink")が危ない（赤ちゃんに潜む危険を様々な面から取り上げる）
+  - シリーズ[赤ちゃん](../Page/赤ちゃん.md "wikilink")が危ない（赤ちゃんに潜む危険を様々な面から取り上げる）
   - シリーズ[税金](https://ja.wikipedia.org/wiki/税金 "wikilink")流出
   - シリーズ[年金](../Page/年金.md "wikilink")告発
-  - シリーズ[震災家族の再出発](https://ja.wikipedia.org/wiki/阪神・淡路大震災 "wikilink")
+  - シリーズ[震災家族の再出発](../Page/阪神・淡路大震災.md "wikilink")
   - シリーズ謎を追う
   - くらしのキーワード[’98](https://ja.wikipedia.org/wiki/1998年 "wikilink")（森の現場内）
   - シリーズ永田町・主役たちの夏
@@ -512,12 +512,12 @@
   - シリーズ[戦後](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")50年
   - シリーズ[銃](../Page/銃.md "wikilink")社会[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")
   - シリーズ銃社会 日本
-  - シリーズ[アメリカ大統領選挙](https://ja.wikipedia.org/wiki/アメリカ合衆国大統領選挙 "wikilink")
+  - シリーズ[アメリカ大統領選挙](../Page/アメリカ合衆国大統領選挙.md "wikilink")
   - シリーズ[消費税](../Page/消費税.md "wikilink")5%
-  - シリーズ[地球温暖化](https://ja.wikipedia.org/wiki/地球温暖化 "wikilink")
-  - シリーズ[薬物](https://ja.wikipedia.org/wiki/薬物 "wikilink")汚染
+  - シリーズ[地球温暖化](../Page/地球温暖化.md "wikilink")
+  - シリーズ[薬物](../Page/薬物.md "wikilink")汚染
   - シリーズ仮面集団
-  - シリーズ[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")生活
+  - シリーズ[インターネット](../Page/インターネット.md "wikilink")生活
   - シリーズ謎を追う\!(関東ローカル特集内)
   - シリーズ医療最前線
   - シリーズ オウム追跡
@@ -561,32 +561,32 @@
 
 ### 二ヶ国語放送
 
-ニュースの森の特徴の一つに、前番組の『ニュースコープ』から続く副音声による[英語](../Page/英語.md "wikilink")同時通訳の[二ヶ国語放送実施があげられる](https://ja.wikipedia.org/wiki/2か国語放送 "wikilink")\[7\]。かつては他系列でも行われていたが次々と取りやめられ、末期になると民放では唯一JNN系のこの時間帯の番組だけが行っていた。
+ニュースの森の特徴の一つに、前番組の『ニュースコープ』から続く副音声による[英語](../Page/英語.md "wikilink")同時通訳の[二ヶ国語放送実施があげられる](../Page/2か国語放送.md "wikilink")\[7\]。かつては他系列でも行われていたが次々と取りやめられ、末期になると民放では唯一JNN系のこの時間帯の番組だけが行っていた。
 
 ### JNN各局の番組状況
 
-全国ニュースは基本的には『JNNニュースの森』で統一。但し、ローカルの場合、各地域ごとに番組名や内容、放送形態が異なる。それらの番組については、[JNN夕方ローカルニュース一覧](https://ja.wikipedia.org/wiki/JNN夕方ローカルニュース一覧 "wikilink")を参照のこと。尚、[テレビユー山形](https://ja.wikipedia.org/wiki/テレビユー山形 "wikilink")では特集（関東ローカル枠）を引き続きネットしているが、2000年3月以前はスポーツや天気まで関東ローカル枠を完全ネットしていた\[8\]。これは同局が開局当時、経費を抑える為必要最低限の報道取材活動しか行わず、ローカルニュースだけのワイド番組を制作する事ができなかったからである。また、[チューリップテレビ](https://ja.wikipedia.org/wiki/チューリップテレビ "wikilink")も1990年10月の開局から1993年9月までローカルニュースを17:30- 18:00の枠で放送していたため関東ローカル枠を完全ネットしていた。
+全国ニュースは基本的には『JNNニュースの森』で統一。但し、ローカルの場合、各地域ごとに番組名や内容、放送形態が異なる。それらの番組については、[JNN夕方ローカルニュース一覧](../Page/JNN夕方ローカルニュース一覧.md "wikilink")を参照のこと。尚、[テレビユー山形](../Page/テレビユー山形.md "wikilink")では特集（関東ローカル枠）を引き続きネットしているが、2000年3月以前はスポーツや天気まで関東ローカル枠を完全ネットしていた\[8\]。これは同局が開局当時、経費を抑える為必要最低限の報道取材活動しか行わず、ローカルニュースだけのワイド番組を制作する事ができなかったからである。また、[チューリップテレビ](../Page/チューリップテレビ.md "wikilink")も1990年10月の開局から1993年9月までローカルニュースを17:30- 18:00の枠で放送していたため関東ローカル枠を完全ネットしていた。
 
 ### 拡大放送
 
 重大なニュースがあった場合は、放送時間を1時間早めて放送していた。この場合は「ニュースの森特集」「ニュースの森総力特集」「ニュースの森緊急特集」として放送される。[1999年](../Page/1999年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")に発生した[東海村臨界事故](https://ja.wikipedia.org/wiki/東海村臨界事故 "wikilink")の時は「ニュースの森緊急特番」というタイトルであった。また、2004年5月22日の[小泉純一郎](https://ja.wikipedia.org/wiki/小泉純一郎 "wikilink")首相(当時)が[北朝鮮](https://ja.wikipedia.org/wiki/北朝鮮 "wikilink")に再訪朝した際は「ニュースの森拡大版」というタイトルであった。なお「緊急特集」というタイトルは、後継番組「JNNイブニング・ニュース」でも引き続き使われた。ただ、事象やニュースの発生時間によっては「ニュースの森」ではなく「報道特別番組」として放送される場合もある。この場合は「ニュースの森」のキャスターではなく、アナウンサーが担当する場合もある。
 
-1995年[4月19日](../Page/4月19日.md "wikilink")の[横浜駅異臭事件](https://ja.wikipedia.org/wiki/横浜駅異臭事件 "wikilink")、1995年6月21日の[全日空機ハイジャック事件](https://ja.wikipedia.org/wiki/全日空機ハイジャック事件 "wikilink")(この2つは杉尾、久和がキャスターを担当)、1995年[10月7日](../Page/10月7日.md "wikilink")の[上祐史浩](../Page/上祐史浩.md "wikilink")[オウム緊急対策本部長](https://ja.wikipedia.org/wiki/オウム真理教 "wikilink")(当時)の逮捕状請求(TBSアナウンサーの[奈良陽](https://ja.wikipedia.org/wiki/奈良陽 "wikilink")と[吉川美代子](https://ja.wikipedia.org/wiki/吉川美代子 "wikilink")が担当)、1999年[10月1日](../Page/10月1日.md "wikilink")の東海村臨界事故の関連ニュース(TBSアナウンサーの[柴田秀一](https://ja.wikipedia.org/wiki/柴田秀一 "wikilink")と[長峰由紀](https://ja.wikipedia.org/wiki/長峰由紀 "wikilink")が担当)はこのケースにあたる。
+1995年[4月19日](../Page/4月19日.md "wikilink")の[横浜駅異臭事件](../Page/横浜駅異臭事件.md "wikilink")、1995年6月21日の[全日空機ハイジャック事件](https://ja.wikipedia.org/wiki/全日空機ハイジャック事件 "wikilink")(この2つは杉尾、久和がキャスターを担当)、1995年[10月7日](../Page/10月7日.md "wikilink")の[上祐史浩](../Page/上祐史浩.md "wikilink")[オウム緊急対策本部長](https://ja.wikipedia.org/wiki/オウム真理教 "wikilink")(当時)の逮捕状請求(TBSアナウンサーの[奈良陽](../Page/奈良陽.md "wikilink")と[吉川美代子](../Page/吉川美代子.md "wikilink")が担当)、1999年[10月1日](../Page/10月1日.md "wikilink")の東海村臨界事故の関連ニュース(TBSアナウンサーの[柴田秀一](../Page/柴田秀一.md "wikilink")と[長峰由紀](../Page/長峰由紀.md "wikilink")が担当)はこのケースにあたる。
 
-[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")の湾岸戦争の開始・終結時や[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月20日](../Page/3月20日.md "wikilink")に発生した[地下鉄サリン事件](../Page/地下鉄サリン事件.md "wikilink")では、夜8時まで番組が延長された。
+[1991年](../Page/1991年.md "wikilink")の湾岸戦争の開始・終結時や[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月20日](../Page/3月20日.md "wikilink")に発生した[地下鉄サリン事件](../Page/地下鉄サリン事件.md "wikilink")では、夜8時まで番組が延長された。
 
-1995年[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink")の[阪神・淡路大震災](https://ja.wikipedia.org/wiki/阪神・淡路大震災 "wikilink")では全編全国ネットとなった。2002年9月17日の小泉首相(当時)の北朝鮮訪朝の際も全編全国ネットとなったが、「ニュースの森」ではなく「JNN報道特別番組」としての放送だった。(番組終了時に｢JNN報道特別番組 終｣と出された) また、1995年6月21日の全日空機ハイジャック事件の際は、HBCが当時放送していた「[テレポート6](https://ja.wikipedia.org/wiki/テレポート6_\(北海道放送\) "wikilink")」を休止して、関東ローカル枠を放送した。
+1995年[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink")の[阪神・淡路大震災](../Page/阪神・淡路大震災.md "wikilink")では全編全国ネットとなった。2002年9月17日の小泉首相(当時)の北朝鮮訪朝の際も全編全国ネットとなったが、「ニュースの森」ではなく「JNN報道特別番組」としての放送だった。(番組終了時に｢JNN報道特別番組 終｣と出された) また、1995年6月21日の全日空機ハイジャック事件の際は、HBCが当時放送していた「[テレポート6](../Page/テレポート6_\(北海道放送\).md "wikilink")」を休止して、関東ローカル枠を放送した。
 
 ### 年末年始の放送
 
   - 年末年始は、1999年始までは他の時間帯と同様『JNN NEWS』が放送されたが（他の時間帯は15分間、夕方は30分間）、同年末以降は当番組が30分の短縮版として放送された。なおキャスターはTBSアナウンサーによるシフト制であった。これ以降夕方のニュースで通常の番組を放送しなかった体制は、1999年・2000年の年末、2009年～2010年の年末年始\[9\]のみである。
-  - ただし、大晦日だけは『JNN NEWS』として伝えていた。しかし2002年から、放送時間は15分のままで『JNNニュースの森』として放送された。（担当は[升田尚宏](https://ja.wikipedia.org/wiki/升田尚宏 "wikilink")アナ）、2003年からは大晦日も30分間の放送となった。
-  - キャスターは、ベテランの女性アナウンサーがメイン格を務め、当日昼の『JNN NEWS』、午後の『[TBS NEWS](https://ja.wikipedia.org/wiki/TBSニュース "wikilink")』の3番組を兼務。当直勤務の若手男性アナウンサーがサブ格を務め、当日夜の『JNNフラッシュニュース』、深夜と翌朝の『JNN NEWS』の4番組を兼務する（深夜、早朝のラジオニュースも兼務）という体制であった。
+  - ただし、大晦日だけは『JNN NEWS』として伝えていた。しかし2002年から、放送時間は15分のままで『JNNニュースの森』として放送された。（担当は[升田尚宏](../Page/升田尚宏.md "wikilink")アナ）、2003年からは大晦日も30分間の放送となった。
+  - キャスターは、ベテランの女性アナウンサーがメイン格を務め、当日昼の『JNN NEWS』、午後の『[TBS NEWS](../Page/TBSニュース.md "wikilink")』の3番組を兼務。当直勤務の若手男性アナウンサーがサブ格を務め、当日夜の『JNNフラッシュニュース』、深夜と翌朝の『JNN NEWS』の4番組を兼務する（深夜、早朝のラジオニュースも兼務）という体制であった。
   - ただし、1999年末、2001年始の放送は、通常どおり松原・進藤がメインキャスターを勤め、元日は和服姿でニュースを伝えた。2002年始と2002年12月30日の放送は、杉尾・小川・豊田・森田が務め、こちらは豊田・森田が和服姿となった。（2002年12月30日の放送は杉尾・小川・森田の3人のみ、森田はTBS前から「ザ・ベストテン」の番宣のため、黒柳徹子と安住紳一郎と一緒に天気を伝えた）
 
 ### 久和の卒業
 
-1996年3月29日の放送を以て『テレポート6』から通算7年間TBSの夕方の報道番組を担当した久和が降板することになったが、この日のエンディングで『テレポート6』のキャスターを担当してから[豊浜トンネル](https://ja.wikipedia.org/wiki/豊浜トンネル "wikilink")崩落事故まで、今までの取材映像を振り返る久和のVTRが放送された。その後、同じくこの日で降板する安東アナの挨拶を挟んで、久和は視聴者に「長い間皆さんのおかげでやってこられました。本当にありがとうございました」と感謝を伝えた。そして、杉尾が「それでは今日はこれで失礼します。また来週」と言って締めた後、Nスタジオに集まったスタッフから拍手が送られた。
+1996年3月29日の放送を以て『テレポート6』から通算7年間TBSの夕方の報道番組を担当した久和が降板することになったが、この日のエンディングで『テレポート6』のキャスターを担当してから[豊浜トンネル](../Page/豊浜トンネル.md "wikilink")崩落事故まで、今までの取材映像を振り返る久和のVTRが放送された。その後、同じくこの日で降板する安東アナの挨拶を挟んで、久和は視聴者に「長い間皆さんのおかげでやってこられました。本当にありがとうございました」と感謝を伝えた。そして、杉尾が「それでは今日はこれで失礼します。また来週」と言って締めた後、Nスタジオに集まったスタッフから拍手が送られた。
 
 ## 脚注
 
@@ -596,12 +596,12 @@
 
 ## 関連項目
 
-  - [TBSテレビ系列夕方ニュース枠](https://ja.wikipedia.org/wiki/TBSテレビ系列夕方ニュース枠 "wikilink")
-  - [ネットワークTODAY](https://ja.wikipedia.org/wiki/ネットワークTODAY "wikilink")（[TBSラジオ](https://ja.wikipedia.org/wiki/TBSラジオ "wikilink")で放送される平日夕方のニュース番組で、2019年3月まで[デイ・キャッチ\!に内包され](https://ja.wikipedia.org/wiki/荒川強啓_デイ・キャッチ! "wikilink")、荒川も同番組内包時代に担当していた番組）
-  - [TXNニュースアイ](https://ja.wikipedia.org/wiki/TXNニュースアイ "wikilink")（久和が当番組降板後担当した[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")([TXN](https://ja.wikipedia.org/wiki/TXNネットワーク "wikilink"))系夕方のニュース番組）
-  - [和田アキ子殺人事件](https://ja.wikipedia.org/wiki/和田アキ子殺人事件 "wikilink")（2007年2月12日に放送されたスペシャルドラマで、当番組が『**ニュースの林**』ともじられた。）
-  - [日本航空123便墜落事故](https://ja.wikipedia.org/wiki/日本航空123便墜落事故 "wikilink")（[2000年](../Page/2000年.md "wikilink")8月の番組内で、[コックピットボイスレコーダーが公開された](https://ja.wikipedia.org/wiki/ボイスレコーダー "wikilink")。）
-  - [イッポウ](https://ja.wikipedia.org/wiki/イッポウ "wikilink")
+  - [TBSテレビ系列夕方ニュース枠](../Page/TBSテレビ系列夕方ニュース枠.md "wikilink")
+  - [ネットワークTODAY](https://ja.wikipedia.org/wiki/ネットワークTODAY "wikilink")（[TBSラジオ](../Page/TBSラジオ.md "wikilink")で放送される平日夕方のニュース番組で、2019年3月まで[デイ・キャッチ\!に内包され](../Page/荒川強啓_デイ・キャッチ!.md "wikilink")、荒川も同番組内包時代に担当していた番組）
+  - [TXNニュースアイ](../Page/TXNニュースアイ.md "wikilink")（久和が当番組降板後担当した[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")([TXN](../Page/TXNネットワーク.md "wikilink"))系夕方のニュース番組）
+  - [和田アキ子殺人事件](../Page/和田アキ子殺人事件.md "wikilink")（2007年2月12日に放送されたスペシャルドラマで、当番組が『**ニュースの林**』ともじられた。）
+  - [日本航空123便墜落事故](../Page/日本航空123便墜落事故.md "wikilink")（[2000年](../Page/2000年.md "wikilink")8月の番組内で、[コックピットボイスレコーダーが公開された](../Page/ボイスレコーダー.md "wikilink")。）
+  - [イッポウ](../Page/イッポウ.md "wikilink")
 
 ## 外部リンク
 
@@ -611,10 +611,10 @@
 
 1.
 2.
-3.  ニュースコーナーは番組内に内包され、『**[JNNイブニング・ニュース](https://ja.wikipedia.org/wiki/JNNイブニング・ニュース "wikilink")**』と改題。
+3.  ニュースコーナーは番組内に内包され、『**[JNNイブニング・ニュース](../Page/JNNイブニング・ニュース.md "wikilink")**』と改題。
 4.  1998年10月 - 2000年4月。
 5.  2004年4月からは、『NNNニュースプラス1』（日本テレビ）も同時刻開始となった。
-6.  『JNNニュースコープ』の時代から長らく[石井和子](https://ja.wikipedia.org/wiki/石井和子 "wikilink")が担当。末期は現在も担当している[真壁京子](https://ja.wikipedia.org/wiki/真壁京子 "wikilink")に交代。
+6.  『JNNニュースコープ』の時代から長らく[石井和子](../Page/石井和子.md "wikilink")が担当。末期は現在も担当している[真壁京子](../Page/真壁京子.md "wikilink")に交代。
 7.  平日全国パートのみ。
 8.  但し、1997年4月から2000年3月までの17:55 - 18:00の間のコーナーは除く。
 9.  『[総力報道\!THE NEWS](https://ja.wikipedia.org/wiki/総力報道!THE_NEWS "wikilink")』の代わりに『THE NEWS』を放送した

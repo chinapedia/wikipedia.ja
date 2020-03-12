@@ -1,17 +1,17 @@
 > この記事は[Noizy Beat](https://ja.wikipedia.org/wiki/Noizy_Beat)から翻訳されています。
 
 
-『**Noizy Beat**』（ノイジー・ビート）は、[ZYYG](https://ja.wikipedia.org/wiki/ZYYG "wikilink")の2枚目のアルバム。
+『**Noizy Beat**』（ノイジー・ビート）は、[ZYYG](../Page/ZYYG.md "wikilink")の2枚目のアルバム。
 
 ## 作品の解説
 
-[栗林誠一郎](https://ja.wikipedia.org/wiki/栗林誠一郎 "wikilink")脱退後、[加藤直樹を新ベーシストとして迎えた](https://ja.wikipedia.org/wiki/加藤直樹_\(ベーシスト\) "wikilink")、バンドサウンド的なアルバムである。イギリス・パンク、グラム・ロックなどをキーワードにし、さまざまなジャンルを挑んだ。このアルバムの製作曲数は、シングル「[ぜったいに 誰も](https://ja.wikipedia.org/wiki/ぜったいに_誰も "wikilink")」「[JULIA](https://ja.wikipedia.org/wiki/JULIA_\(ZYYGの曲\) "wikilink")」を含んで50曲もあり、この製作曲数から11曲（下記参照）を選曲した。ちなみに、「POOR BOY」ではテンポ220にした曲を収録したが、テンポを300にした曲を製作したエピソードがある（同作品に封入のレコーディングノーツペーパーから文献を一部抜粋）。
+[栗林誠一郎](../Page/栗林誠一郎.md "wikilink")脱退後、[加藤直樹を新ベーシストとして迎えた](https://ja.wikipedia.org/wiki/加藤直樹_\(ベーシスト\) "wikilink")、バンドサウンド的なアルバムである。イギリス・パンク、グラム・ロックなどをキーワードにし、さまざまなジャンルを挑んだ。このアルバムの製作曲数は、シングル「[ぜったいに 誰も](../Page/ぜったいに_誰も.md "wikilink")」「[JULIA](../Page/JULIA_\(ZYYGの曲\).md "wikilink")」を含んで50曲もあり、この製作曲数から11曲（下記参照）を選曲した。ちなみに、「POOR BOY」ではテンポ220にした曲を収録したが、テンポを300にした曲を製作したエピソードがある（同作品に封入のレコーディングノーツペーパーから文献を一部抜粋）。
 
 後に、[後藤康二](../Page/後藤康二.md "wikilink")がソロアルバム『[ck510 SOFA Listening](https://ja.wikipedia.org/wiki/ck510_SOFA_Listening "wikilink")』にて「Dreamer」をセルフカバーした。こちらは[大野靖之](https://ja.wikipedia.org/wiki/大野靖之 "wikilink")がゲストボーカルとして迎えたものである。
 
 ## 収録楽曲
 
-1.  **[JULIA](https://ja.wikipedia.org/wiki/JULIA_\(ZYYGの曲\) "wikilink")**
+1.  **[JULIA](../Page/JULIA_\(ZYYGの曲\).md "wikilink")**
       -
         6thシングル
 2.  **Noizy Beat**
@@ -25,7 +25,7 @@
 8.  **たった一度のHonesty**
 9.  **NO MERIT LOVE**
 10. **Ecstasy**
-11. **[ぜったいに 誰も](https://ja.wikipedia.org/wiki/ぜったいに_誰も "wikilink")**
+11. **[ぜったいに 誰も](../Page/ぜったいに_誰も.md "wikilink")**
       -
         5thシングル
 
@@ -46,7 +46,7 @@
       - 加藤貴也 - キーボード
       - [宇徳敬子](https://ja.wikipedia.org/wiki/宇徳敬子 "wikilink") - コーラス
       - 岩切玲子 - コーラス
-      - [生沢佑一](https://ja.wikipedia.org/wiki/生沢佑一 "wikilink") ([TWINZER](../Page/TWINZER.md "wikilink")) - コーラス
+      - [生沢佑一](../Page/生沢佑一.md "wikilink") ([TWINZER](../Page/TWINZER.md "wikilink")) - コーラス
 
 ## 外部リンク
 

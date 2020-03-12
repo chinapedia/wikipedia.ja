@@ -1,9 +1,9 @@
 > この記事は[Professional Disc](https://ja.wikipedia.org/wiki/Professional_Disc)から翻訳されています。
 
 
-**Professional Disc** (プロフェッショナルディスク、PFD) とは、[ソニー](../Page/ソニー.md "wikilink")が開発した[相変化記録技術](https://ja.wikipedia.org/wiki/相変化記録技術 "wikilink")を採用した[光ディスク](../Page/光ディスク.md "wikilink")の一種。 [Blu-ray Discに採用されているものと同じ青紫色](../Page/Blu-ray_Disc.md "wikilink")[レーザー](https://ja.wikipedia.org/wiki/レーザー "wikilink")を採用しており、構造的にとても近い物となっているが両者に互換性は無い。 ベアディスク化される前のBDと同形のカートリッジに収められている。
+**Professional Disc** (プロフェッショナルディスク、PFD) とは、[ソニー](../Page/ソニー.md "wikilink")が開発した[相変化記録技術](https://ja.wikipedia.org/wiki/相変化記録技術 "wikilink")を採用した[光ディスク](../Page/光ディスク.md "wikilink")の一種。 [Blu-ray Discに採用されているものと同じ青紫色](../Page/Blu-ray_Disc.md "wikilink")[レーザー](../Page/レーザー.md "wikilink")を採用しており、構造的にとても近い物となっているが両者に互換性は無い。 ベアディスク化される前のBDと同形のカートリッジに収められている。
 
-放送・業務用ビデオ機材[XDCAM](https://ja.wikipedia.org/wiki/XDCAM "wikilink")の記録メディアとして採用されている。また、コンピュータ用[補助記憶装置](../Page/補助記憶装置.md "wikilink")のメディアとして**Professional Disc for DATA**（PDD）が市販されている。
+放送・業務用ビデオ機材[XDCAM](../Page/XDCAM.md "wikilink")の記録メディアとして採用されている。また、コンピュータ用[補助記憶装置](../Page/補助記憶装置.md "wikilink")のメディアとして**Professional Disc for DATA**（PDD）が市販されている。
 
 ディスクメディアのサイズは12 cm (5.25インチ)で、丸みを帯びたカートリッジに格納されている。記憶容量は片面1層23.3GB、片面2層50GB。書き換え回数は10,000回以上、読み取り回数は100万回、データの保持寿命は[UDOと同じ](https://ja.wikipedia.org/wiki/Ultra_Density_Optical "wikilink")50年以上とされている。
 

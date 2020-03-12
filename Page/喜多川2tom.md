@@ -1,19 +1,19 @@
 > この記事は[2tom](https://ja.wikipedia.org/wiki/2tom)から翻訳されています。
 
 
-**喜多川 2tom**（きたがわ つとむ、[1957年](../Page/1957年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink") - ）は、日本の俳優、[スタントマン](https://ja.wikipedia.org/wiki/スタントマン "wikilink")である。本名は**喜多川 務**（読み同じ）。[ジャパンアクションエンタープライズ](https://ja.wikipedia.org/wiki/ジャパンアクションエンタープライズ "wikilink")所属。[山口県](../Page/山口県.md "wikilink")[下松市](../Page/下松市.md "wikilink")出身。特技は[中国武術](../Page/中国武術.md "wikilink")。夫人は『[バトルフィーバーJ](../Page/バトルフィーバーJ.md "wikilink")』で中盤以降ミスアメリカのスーツアクトレスを演じた[小野寺えい子](https://ja.wikipedia.org/wiki/小野寺えい子 "wikilink")。
+**喜多川 2tom**（きたがわ つとむ、[1957年](../Page/1957年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink") - ）は、日本の俳優、[スタントマン](../Page/スタントマン.md "wikilink")である。本名は**喜多川 務**（読み同じ）。[ジャパンアクションエンタープライズ](../Page/ジャパンアクションエンタープライズ.md "wikilink")所属。[山口県](../Page/山口県.md "wikilink")[下松市](../Page/下松市.md "wikilink")出身。特技は[中国武術](../Page/中国武術.md "wikilink")。夫人は『[バトルフィーバーJ](../Page/バトルフィーバーJ.md "wikilink")』で中盤以降ミスアメリカのスーツアクトレスを演じた[小野寺えい子](https://ja.wikipedia.org/wiki/小野寺えい子 "wikilink")。
 
 ## 人物
 
-身長161センチメートルの小柄なスタントマン。[山口県桜ケ丘高校時代は](https://ja.wikipedia.org/wiki/山口県桜ケ丘高等学校・晃英館中学校 "wikilink")[体操](https://ja.wikipedia.org/wiki/体操 "wikilink")選手で、[インターハイの出場経験があり](../Page/全国高等学校総合体育大会.md "wikilink")、俊敏でアクロバティックな動きを得意としている。
+身長161センチメートルの小柄なスタントマン。[山口県桜ケ丘高校時代は](../Page/山口県桜ケ丘高等学校・晃英館中学校.md "wikilink")[体操](../Page/体操.md "wikilink")選手で、[インターハイの出場経験があり](../Page/全国高等学校総合体育大会.md "wikilink")、俊敏でアクロバティックな動きを得意としている。
 
 [ウルトラマン](../Page/ウルトラマン.md "wikilink")になることを目指してスタントマンの道に進む。高校の体操顧問が[千葉真一](https://ja.wikipedia.org/wiki/千葉真一 "wikilink")の先輩であったことから、顧問の紹介でジャパンアクションクラブに6期生として入門。入門当時は小柄な体系であることからヒーロー役は無理と言われ、戦闘員や女性の吹き替えスタントをメインとしていた。
 
-[スーツアクター](https://ja.wikipedia.org/wiki/スーツアクター "wikilink")として[スーパー戦隊シリーズ](https://ja.wikipedia.org/wiki/スーパー戦隊シリーズ "wikilink")に参加し、[大葉健二](../Page/大葉健二.md "wikilink")や[春田純一](https://ja.wikipedia.org/wiki/春田純一 "wikilink")の代役、[後楽園ゆうえんちでのショーを経て](../Page/東京ドームシティアトラクションズ.md "wikilink")、『[超電子バイオマン](../Page/超電子バイオマン.md "wikilink")』のブルースリー役で本格的に持ち役を抱えて以降、多くのヒーローを演じてきた。
+[スーツアクター](../Page/スーツアクター.md "wikilink")として[スーパー戦隊シリーズ](https://ja.wikipedia.org/wiki/スーパー戦隊シリーズ "wikilink")に参加し、[大葉健二](../Page/大葉健二.md "wikilink")や[春田純一](../Page/春田純一.md "wikilink")の代役、[後楽園ゆうえんちでのショーを経て](../Page/東京ドームシティアトラクションズ.md "wikilink")、『[超電子バイオマン](../Page/超電子バイオマン.md "wikilink")』のブルースリー役で本格的に持ち役を抱えて以降、多くのヒーローを演じてきた。
 
-『[光戦隊マスクマン](https://ja.wikipedia.org/wiki/光戦隊マスクマン "wikilink")』で自身が担当したブルーマスクの変身前を演じた[広田一成](../Page/広田一成.md "wikilink")からは、中国拳法の手ほどきを受けた。その後も中国拳法のトレーニングを続け、『[五星戦隊ダイレンジャー](https://ja.wikipedia.org/wiki/五星戦隊ダイレンジャー "wikilink")』ではシシレンジャーのスーツアクターとして広田直伝の中国拳法を見せている。『獣拳戦隊ゲキレンジャー』ではそれを生かし、中国拳法指導として参加している。広田とは、『[世界忍者戦ジライヤ](https://ja.wikipedia.org/wiki/世界忍者戦ジライヤ "wikilink")』においてそれぞれ槍忍突破、漢忍緑龍役で共演を果たしている。3D[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")のモーションアクターの仕事でも中国拳法の経験が生かされたと、ゲーム関連のインタビューで明かしている。
+『[光戦隊マスクマン](../Page/光戦隊マスクマン.md "wikilink")』で自身が担当したブルーマスクの変身前を演じた[広田一成](../Page/広田一成.md "wikilink")からは、中国拳法の手ほどきを受けた。その後も中国拳法のトレーニングを続け、『[五星戦隊ダイレンジャー](https://ja.wikipedia.org/wiki/五星戦隊ダイレンジャー "wikilink")』ではシシレンジャーのスーツアクターとして広田直伝の中国拳法を見せている。『獣拳戦隊ゲキレンジャー』ではそれを生かし、中国拳法指導として参加している。広田とは、『[世界忍者戦ジライヤ](../Page/世界忍者戦ジライヤ.md "wikilink")』においてそれぞれ槍忍突破、漢忍緑龍役で共演を果たしている。3D[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")のモーションアクターの仕事でも中国拳法の経験が生かされたと、ゲーム関連のインタビューで明かしている。
 
-『[モスラ3 キングギドラ来襲](https://ja.wikipedia.org/wiki/モスラ3_キングギドラ来襲 "wikilink")』（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")）では[キングギドラ](../Page/キングギドラ.md "wikilink")を演じ、そのアクションが評価されたことから『[ゴジラ2000 ミレニアム](https://ja.wikipedia.org/wiki/ゴジラ2000_ミレニアム "wikilink")』（[1999年](../Page/1999年.md "wikilink")）以降の[ゴジラを演じた](https://ja.wikipedia.org/wiki/ゴジラ_\(架空の怪獣\) "wikilink")ほか、『[ゴジラ FINAL WARS](https://ja.wikipedia.org/wiki/ゴジラ_FINAL_WARS "wikilink")』（[2004年](../Page/2004年.md "wikilink")）ではスーツアクションアドバイザーを兼務した。後年は、ゴジラ役のスーツアクターとして[中島春雄](https://ja.wikipedia.org/wiki/中島春雄 "wikilink")や[薩摩剣八郎](https://ja.wikipedia.org/wiki/薩摩剣八郎 "wikilink")らとともにアメリカのイベントに出演することが多い。
+『[モスラ3 キングギドラ来襲](../Page/モスラ3_キングギドラ来襲.md "wikilink")』（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")）では[キングギドラ](../Page/キングギドラ.md "wikilink")を演じ、そのアクションが評価されたことから『[ゴジラ2000 ミレニアム](../Page/ゴジラ2000_ミレニアム.md "wikilink")』（[1999年](../Page/1999年.md "wikilink")）以降の[ゴジラを演じた](https://ja.wikipedia.org/wiki/ゴジラ_\(架空の怪獣\) "wikilink")ほか、『[ゴジラ FINAL WARS](../Page/ゴジラ_FINAL_WARS.md "wikilink")』（[2004年](../Page/2004年.md "wikilink")）ではスーツアクションアドバイザーを兼務した。後年は、ゴジラ役のスーツアクターとして[中島春雄](../Page/中島春雄.md "wikilink")や[薩摩剣八郎](../Page/薩摩剣八郎.md "wikilink")らとともにアメリカのイベントに出演することが多い。
 
 1985年に『[バトルフィーバーJ](../Page/バトルフィーバーJ.md "wikilink")』で共演した小野寺えい子と結婚した。
 
@@ -23,13 +23,13 @@
 
 大葉や春田の代役としての出演は、当時両者の撮影時間の都合によるもの。「機械と野生の対照的な両者の動きで自分が出来上がった」と語る。自身の持ち役の低姿勢の構えは、大葉健二のバトルケニアの影響を受けている。『[大戦隊ゴーグルファイブ](../Page/大戦隊ゴーグルファイブ.md "wikilink")』の5人同時で飛び降りるブラックは喜多川が演じている。
 
-初めてヒーロー役のレギュラーを演じたのは『[バトルフィーバーJ](../Page/バトルフィーバーJ.md "wikilink")』のミスアメリカ役で、[小牧りさ](https://ja.wikipedia.org/wiki/小牧りさ "wikilink")に代わりトランポリンなどのスタントを務めた。喜多川が演じる場合は厚めのタイツを着用している。喜多川は、それまでも女優の[スタンドイン](https://ja.wikipedia.org/wiki/スタンドイン "wikilink")を務めたこともあるためヒロイン役を演じることに恥ずかしさは感じなかったが、バトルケニアの代役も兼任していたためミスアメリカはあまり演じたくなかったと述べている。その後、降板した小牧と交代した新人の小野寺えい子のアクションが上達していったため、喜多川はケニア役に専念するようになった。
+初めてヒーロー役のレギュラーを演じたのは『[バトルフィーバーJ](../Page/バトルフィーバーJ.md "wikilink")』のミスアメリカ役で、[小牧りさ](https://ja.wikipedia.org/wiki/小牧りさ "wikilink")に代わりトランポリンなどのスタントを務めた。喜多川が演じる場合は厚めのタイツを着用している。喜多川は、それまでも女優の[スタンドイン](../Page/スタンドイン.md "wikilink")を務めたこともあるためヒロイン役を演じることに恥ずかしさは感じなかったが、バトルケニアの代役も兼任していたためミスアメリカはあまり演じたくなかったと述べている。その後、降板した小牧と交代した新人の小野寺えい子のアクションが上達していったため、喜多川はケニア役に専念するようになった。
 
 妻の小野寺えい子とは『バトルフィーバーJ』でともにミスアメリカを担当しているが、小野寺は結婚を意識するようになったのは『[電子戦隊デンジマン](../Page/電子戦隊デンジマン.md "wikilink")』辺りからではないかと述べている。
 
 『超電子バイオマン』では、初回のラストで靭帯を切ってしまい、激しいアクションができなくなったため吊りのアクションが多くなったという。
 
-キングギドラ役での起用は同作品の特技監督である[鈴木健二が白亜紀型キングギドラの走って飛び上がるアクションができる小柄なアクターを探していた際に](https://ja.wikipedia.org/wiki/鈴木健二_\(特撮監督\) "wikilink")、[若狭新一](https://ja.wikipedia.org/wiki/若狭新一 "wikilink")が喜多川が[ブルース・リー](../Page/ブルース・リー.md "wikilink")のものまねで出演していたCMを見たことから出演依頼が来たとされる。喜多川自身は記念になるからという軽い気持ちで引き受けたという。ゴジラシリーズでは、戦隊シリーズではなかったミニチュアセットの破壊シーンの撮影では、失敗すると多くのスタッフに余計な苦労をさせてしまうため「緊張のあまり腹が痛くなった」という\[1\]。
+キングギドラ役での起用は同作品の特技監督である[鈴木健二が白亜紀型キングギドラの走って飛び上がるアクションができる小柄なアクターを探していた際に](../Page/鈴木健二_\(特撮監督\).md "wikilink")、[若狭新一](https://ja.wikipedia.org/wiki/若狭新一 "wikilink")が喜多川が[ブルース・リー](../Page/ブルース・リー.md "wikilink")のものまねで出演していたCMを見たことから出演依頼が来たとされる。喜多川自身は記念になるからという軽い気持ちで引き受けたという。ゴジラシリーズでは、戦隊シリーズではなかったミニチュアセットの破壊シーンの撮影では、失敗すると多くのスタッフに余計な苦労をさせてしまうため「緊張のあまり腹が痛くなった」という\[1\]。
 
 指導側に立つようになった後も、『[手裏剣戦隊ニンニンジャー](https://ja.wikipedia.org/wiki/手裏剣戦隊ニンニンジャー "wikilink")』や『[動物戦隊ジュウオウジャー](https://ja.wikipedia.org/wiki/動物戦隊ジュウオウジャー "wikilink")』などで人手が不足したときに戦闘員などを演じている。喜多川は、若人と仕事をするのは楽しいが、気を使わせているのは申し訳ないと述べている。
 
@@ -37,17 +37,17 @@
 
 ### 特撮テレビドラマ
 
-  - [アクマイザー3](https://ja.wikipedia.org/wiki/アクマイザー3 "wikilink")（1975年 - 1976年） - 兵士アグマー
-  - [超神ビビューン](https://ja.wikipedia.org/wiki/超神ビビューン "wikilink")（1976年 - 1977年）
-  - [透明ドリちゃん](https://ja.wikipedia.org/wiki/透明ドリちゃん "wikilink")（1978年）
+  - [アクマイザー3](../Page/アクマイザー3.md "wikilink")（1975年 - 1976年） - 兵士アグマー
+  - [超神ビビューン](../Page/超神ビビューン.md "wikilink")（1976年 - 1977年）
+  - [透明ドリちゃん](../Page/透明ドリちゃん.md "wikilink")（1978年）
   - [宇宙からのメッセージ・銀河大戦](../Page/宇宙からのメッセージ・銀河大戦.md "wikilink")（1978年 - 1979年） - ガバナス兵、ベルダ人
   - [スパイダーマン](../Page/スパイダーマン_\(東映\).md "wikilink")（1978年 - 1979年）
   - [メガロマン](../Page/メガロマン.md "wikilink")（1979年） - 黒星怪獣、黒星族兵士
   - [メタルヒーローシリーズ](../Page/メタルヒーローシリーズ.md "wikilink")
-      - [世界忍者戦ジライヤ](https://ja.wikipedia.org/wiki/世界忍者戦ジライヤ "wikilink") （1988年） - 漢忍緑龍
-      - [機動刑事ジバン](https://ja.wikipedia.org/wiki/機動刑事ジバン "wikilink")（1989年） - 第9話ゲスト
+      - [世界忍者戦ジライヤ](../Page/世界忍者戦ジライヤ.md "wikilink") （1988年） - 漢忍緑龍
+      - [機動刑事ジバン](../Page/機動刑事ジバン.md "wikilink")（1989年） - 第9話ゲスト
       - [特警ウインスペクター](../Page/特警ウインスペクター.md "wikilink")（1990年） - 人面コウモリ（第29話）
-      - [特捜エクシードラフト](https://ja.wikipedia.org/wiki/特捜エクシードラフト "wikilink")（1992年） - 亜川の部下（第27話）
+      - [特捜エクシードラフト](../Page/特捜エクシードラフト.md "wikilink")（1992年） - 亜川の部下（第27話）
   - [スーパー戦隊シリーズ](https://ja.wikipedia.org/wiki/スーパー戦隊シリーズ "wikilink")
       - [秘密戦隊ゴレンジャー](../Page/秘密戦隊ゴレンジャー.md "wikilink")（1976年 - 1977年）
       - [ジャッカー電撃隊](../Page/ジャッカー電撃隊.md "wikilink")（1977年） - 戦闘員
@@ -57,13 +57,13 @@
       - [大戦隊ゴーグルファイブ](../Page/大戦隊ゴーグルファイブ.md "wikilink")（1982年 - 1983年） - ゴーグルブラック（代役）
       - [科学戦隊ダイナマン](https://ja.wikipedia.org/wiki/科学戦隊ダイナマン "wikilink")（1983年 - 1984年） - ダイナブラック（代役）
       - [超電子バイオマン](../Page/超電子バイオマン.md "wikilink")（1984年 - 1985年） - ブルースリー
-      - [電撃戦隊チェンジマン](../Page/電撃戦隊チェンジマン.md "wikilink")（1985年 - 1986年） - チェンジペガサス、[西本ひろ子](https://ja.wikipedia.org/wiki/西本ひろ子 "wikilink")吹き替え
-      - [超新星フラッシュマン](https://ja.wikipedia.org/wiki/超新星フラッシュマン "wikilink")（1986年 - 1987年） - ブルーフラッシュ
-      - [光戦隊マスクマン](https://ja.wikipedia.org/wiki/光戦隊マスクマン "wikilink")（1987年 - 1988年） - ブルーマスク\[3\]\[4\]
+      - [電撃戦隊チェンジマン](../Page/電撃戦隊チェンジマン.md "wikilink")（1985年 - 1986年） - チェンジペガサス、[西本ひろ子](../Page/西本ひろ子.md "wikilink")吹き替え
+      - [超新星フラッシュマン](../Page/超新星フラッシュマン.md "wikilink")（1986年 - 1987年） - ブルーフラッシュ
+      - [光戦隊マスクマン](../Page/光戦隊マスクマン.md "wikilink")（1987年 - 1988年） - ブルーマスク\[3\]\[4\]
       - [鳥人戦隊ジェットマン](../Page/鳥人戦隊ジェットマン.md "wikilink")（1991年） - 中年の男（第6話）
       - [五星戦隊ダイレンジャー](https://ja.wikipedia.org/wiki/五星戦隊ダイレンジャー "wikilink")（1993年 - 1994年） - シシレンジャー
       - [忍者戦隊カクレンジャー](../Page/忍者戦隊カクレンジャー.md "wikilink")（1994年 - 1995年） - ニンジャブラック
-      - [獣拳戦隊ゲキレンジャー](https://ja.wikipedia.org/wiki/獣拳戦隊ゲキレンジャー "wikilink")（2007年 - 2008年） - バット・リー、ケーキ屋の主人
+      - [獣拳戦隊ゲキレンジャー](../Page/獣拳戦隊ゲキレンジャー.md "wikilink")（2007年 - 2008年） - バット・リー、ケーキ屋の主人
       - [炎神戦隊ゴーオンジャー](https://ja.wikipedia.org/wiki/炎神戦隊ゴーオンジャー "wikilink")（2008年 - 2009年） - 係員
       - [海賊戦隊ゴーカイジャー](https://ja.wikipedia.org/wiki/海賊戦隊ゴーカイジャー "wikilink")（2011年 - 2012年）
       - [特命戦隊ゴーバスターズ](https://ja.wikipedia.org/wiki/特命戦隊ゴーバスターズ "wikilink")（2012年 - 2013年）
@@ -87,12 +87,12 @@
 
 ### テレビドラマ
 
-  - [木曜ゴールデンドラマ](https://ja.wikipedia.org/wiki/木曜ゴールデンドラマ "wikilink")スペシャル / 東京大地震マグニチュード8.1（1980年、[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")） - ファイヤースタント
-  - [噂の刑事トミーとマツ](https://ja.wikipedia.org/wiki/噂の刑事トミーとマツ "wikilink")（1982年、[TBS](../Page/TBSテレビ.md "wikilink")）
+  - [木曜ゴールデンドラマ](../Page/木曜ゴールデンドラマ.md "wikilink")スペシャル / 東京大地震マグニチュード8.1（1980年、[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")） - ファイヤースタント
+  - [噂の刑事トミーとマツ](../Page/噂の刑事トミーとマツ.md "wikilink")（1982年、[TBS](../Page/TBSテレビ.md "wikilink")）
   - [シャドウ商会変奇郎](https://ja.wikipedia.org/wiki/ブラック商会変奇郎 "wikilink")（1996年、テレビ朝日）
   - [はみだし刑事情熱系](../Page/はみだし刑事情熱系.md "wikilink")（1996年、テレビ朝日）
-  - [スーパーテレビ情報最前線](https://ja.wikipedia.org/wiki/スーパーテレビ情報最前線 "wikilink")「韓国地下鉄火災」（2003年、日本テレビ） - 金大漢
-  - [義経](https://ja.wikipedia.org/wiki/義経_\(NHK大河ドラマ\) "wikilink")（2005年、NHK） - 源氏の兵
+  - [スーパーテレビ情報最前線](../Page/スーパーテレビ情報最前線.md "wikilink")「韓国地下鉄火災」（2003年、日本テレビ） - 金大漢
+  - [義経](../Page/義経_\(NHK大河ドラマ\).md "wikilink")（2005年、NHK） - 源氏の兵
   - [西遊記](../Page/西遊記_\(2006年のテレビドラマ\).md "wikilink")（2006年、フジテレビ） - 武術指導
   - [キューティーハニー THE LIVE](../Page/キューティーハニー_THE_LIVE.md "wikilink")（2007年、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")） - 田中作之助
   - [特命係長 只野仁 4thシーズン](https://ja.wikipedia.org/wiki/特命係長_只野仁_\(テレビドラマ\)#4thシーズン "wikilink")（2009年、テレビ朝日）
@@ -105,7 +105,7 @@
 
   - [劇場版 宇宙からのメッセージ・銀河大戦](../Page/宇宙からのメッセージ・銀河大戦.md "wikilink")（1978年）
   - [劇場版 スパイダーマン](https://ja.wikipedia.org/wiki/スパイダーマン_\(東映\)#劇場版 "wikilink")（1978年）
-  - [火の鳥](https://ja.wikipedia.org/wiki/火の鳥_\(漫画\)#実写映画 "wikilink")（1978年） - [尾美としのり](https://ja.wikipedia.org/wiki/尾美としのり "wikilink")吹き替え
+  - [火の鳥](https://ja.wikipedia.org/wiki/火の鳥_\(漫画\)#実写映画 "wikilink")（1978年） - [尾美としのり](../Page/尾美としのり.md "wikilink")吹き替え
   - [エイトレンジャー2](https://ja.wikipedia.org/wiki/関ジャニ戦隊∞レンジャー#映画 "wikilink")（2014年）
   - [イン・ザ・ヒーロー](https://ja.wikipedia.org/wiki/イン・ザ・ヒーロー "wikilink")（2014年） - 忍者
   - スーパー戦隊シリーズ
@@ -144,13 +144,13 @@
       - [劇場版 仮面ライダーエグゼイド トゥルー・エンディング](https://ja.wikipedia.org/wiki/劇場版_仮面ライダーエグゼイド_トゥルー・エンディング "wikilink")（2017年）
       - [仮面ライダー平成ジェネレーションズ FINAL ビルド&エグゼイドwithレジェンドライダー](https://ja.wikipedia.org/wiki/仮面ライダー平成ジェネレーションズ_FINAL_ビルド&エグゼイドwithレジェンドライダー "wikilink")（2017年）
       - [平成仮面ライダー20作記念 仮面ライダー平成ジェネレーションズ FOREVER](https://ja.wikipedia.org/wiki/平成仮面ライダー20作記念_仮面ライダー平成ジェネレーションズ_FOREVER "wikilink")（2018年）
-  - [モスラ3 キングギドラ来襲](https://ja.wikipedia.org/wiki/モスラ3_キングギドラ来襲 "wikilink")（1998年） - [キングギドラ](https://ja.wikipedia.org/wiki/キングギドラ#『モスラ3_キングギドラ来襲』のキングギドラ "wikilink")
+  - [モスラ3 キングギドラ来襲](../Page/モスラ3_キングギドラ来襲.md "wikilink")（1998年） - [キングギドラ](https://ja.wikipedia.org/wiki/キングギドラ#『モスラ3_キングギドラ来襲』のキングギドラ "wikilink")
   - [ゴジラ](../Page/ゴジラ.md "wikilink")シリーズ - [ゴジラ](https://ja.wikipedia.org/wiki/ゴジラ_\(架空の怪獣\) "wikilink")
-      - [ゴジラ2000 ミレニアム](https://ja.wikipedia.org/wiki/ゴジラ2000_ミレニアム "wikilink")（1999年）
-      - [ゴジラ×メガギラス G消滅作戦](https://ja.wikipedia.org/wiki/ゴジラ×メガギラス_G消滅作戦 "wikilink")（2000年）
-      - [ゴジラ×メカゴジラ](https://ja.wikipedia.org/wiki/ゴジラ×メカゴジラ "wikilink")（2002年）[特生自衛隊隊員役で顔出し](https://ja.wikipedia.org/wiki/東宝特撮映画の怪獣対策組織#特生自衛隊 "wikilink")
-      - [ゴジラ×モスラ×メカゴジラ 東京SOS](https://ja.wikipedia.org/wiki/ゴジラ×モスラ×メカゴジラ_東京SOS "wikilink")（2003年）
-      - [ゴジラ FINAL WARS](https://ja.wikipedia.org/wiki/ゴジラ_FINAL_WARS "wikilink")（2004年）
+      - [ゴジラ2000 ミレニアム](../Page/ゴジラ2000_ミレニアム.md "wikilink")（1999年）
+      - [ゴジラ×メガギラス G消滅作戦](../Page/ゴジラ×メガギラス_G消滅作戦.md "wikilink")（2000年）
+      - [ゴジラ×メカゴジラ](../Page/ゴジラ×メカゴジラ.md "wikilink")（2002年）[特生自衛隊隊員役で顔出し](https://ja.wikipedia.org/wiki/東宝特撮映画の怪獣対策組織#特生自衛隊 "wikilink")
+      - [ゴジラ×モスラ×メカゴジラ 東京SOS](../Page/ゴジラ×モスラ×メカゴジラ_東京SOS.md "wikilink")（2003年）
+      - [ゴジラ FINAL WARS](../Page/ゴジラ_FINAL_WARS.md "wikilink")（2004年）
   - スーパーヒーロー大戦シリーズ
       - [仮面ライダー×スーパー戦隊 スーパーヒーロー大戦](https://ja.wikipedia.org/wiki/仮面ライダー×スーパー戦隊_スーパーヒーロー大戦 "wikilink")（2012年） - ニンジャブラック
       - [仮面ライダー×スーパー戦隊×宇宙刑事 スーパーヒーロー大戦Z](https://ja.wikipedia.org/wiki/仮面ライダー×スーパー戦隊×宇宙刑事_スーパーヒーロー大戦Z "wikilink")（2013年）
@@ -181,9 +181,9 @@
   - 太陽戦隊サンバルカン（1981年） - バルパンサー
   - 大戦隊ゴーグルファイブ（1982年） - ゴーグルブラック
   - 科学戦隊ダイナマン（1983年） - ダイナブラック
-  - [超獣戦隊ライブマン](https://ja.wikipedia.org/wiki/超獣戦隊ライブマン "wikilink")（1988年） - イエローライオン
-  - [高速戦隊ターボレンジャー](https://ja.wikipedia.org/wiki/高速戦隊ターボレンジャー "wikilink")（1989年） - イエローターボ
-  - [地球戦隊ファイブマン](https://ja.wikipedia.org/wiki/地球戦隊ファイブマン "wikilink")（1990年） - ファイブブルー
+  - [超獣戦隊ライブマン](../Page/超獣戦隊ライブマン.md "wikilink")（1988年） - イエローライオン
+  - [高速戦隊ターボレンジャー](../Page/高速戦隊ターボレンジャー.md "wikilink")（1989年） - イエローターボ
+  - [地球戦隊ファイブマン](../Page/地球戦隊ファイブマン.md "wikilink")（1990年） - ファイブブルー
   - 鳥人戦隊ジェットマン（1991年） - ブラックコンドル
   - 恐竜戦隊ジュウレンジャー（1992年） - タイガーレンジャー
   - [超力戦隊オーレンジャー](../Page/超力戦隊オーレンジャー.md "wikilink")（1995年） - オーブルー
@@ -195,8 +195,8 @@
   - [百獣戦隊ガオレンジャー](../Page/百獣戦隊ガオレンジャー.md "wikilink")（2001年） - ガオブルー
   - [忍風戦隊ハリケンジャー](../Page/忍風戦隊ハリケンジャー.md "wikilink")（2002年） - ハリケンイエロー
   - [爆竜戦隊アバレンジャー](../Page/爆竜戦隊アバレンジャー.md "wikilink")（2003年） - アバレブルー
-  - [特捜戦隊デカレンジャー](https://ja.wikipedia.org/wiki/特捜戦隊デカレンジャー "wikilink")（2004年）
-  - [魔法戦隊マジレンジャー](https://ja.wikipedia.org/wiki/魔法戦隊マジレンジャー "wikilink")（2005年）
+  - [特捜戦隊デカレンジャー](../Page/特捜戦隊デカレンジャー.md "wikilink")（2004年）
+  - [魔法戦隊マジレンジャー](../Page/魔法戦隊マジレンジャー.md "wikilink")（2005年）
   - [轟轟戦隊ボウケンジャー](../Page/轟轟戦隊ボウケンジャー.md "wikilink")（2006年）
   - 獣拳戦隊ゲキレンジャー（2007年） - マスターシャーフー
   - 炎神戦隊ゴーオンジャー（2008年） - キタネイダス
@@ -208,17 +208,17 @@
 
 ### ゲーム
 
-  - [ブシドーブレード](https://ja.wikipedia.org/wiki/ブシドーブレード "wikilink")（1997年3月14日、[スクウェア](../Page/スクウェア_\(ゲーム会社\).md "wikilink")） - モーションアクター
+  - [ブシドーブレード](../Page/ブシドーブレード.md "wikilink")（1997年3月14日、[スクウェア](../Page/スクウェア_\(ゲーム会社\).md "wikilink")） - モーションアクター
   - [立体忍者活劇 天誅](https://ja.wikipedia.org/wiki/天誅_\(ゲーム\) "wikilink")（1998年2月26日、[SME](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")） - 忍者・武士のモーションアクター
   - [DEAD OR ALIVE 2](../Page/デッド_オア_アライブ_シリーズ.md "wikilink")（1999年、[テクモ](../Page/テクモ.md "wikilink")） - モーションアクター
   - [立体忍者活劇 天誅 弐](https://ja.wikipedia.org/wiki/天誅_\(ゲーム\) "wikilink")（2000年11月30日、[アクワイア](../Page/アクワイア_\(ゲーム会社\).md "wikilink")） - モーションアクター
   - [真・三國無双](https://ja.wikipedia.org/wiki/真・三國無双 "wikilink")（2000年8月3日、[コーエー](../Page/コーエー.md "wikilink")） - モーションアクター
   - [真・三國無双2](https://ja.wikipedia.org/wiki/真・三國無双2 "wikilink")（2001年9月20日、コーエー） - モーションアクター
   - [侍](https://ja.wikipedia.org/wiki/侍_\(スパイクのゲーム\) "wikilink")（2002年2月7日、[スパイク](../Page/スパイク_\(ゲーム会社\).md "wikilink")） - モーションアクター
-  - [パンツァードラグーン オルタ](https://ja.wikipedia.org/wiki/パンツァードラグーン "wikilink")（2002年12月19日、[セガ](https://ja.wikipedia.org/wiki/セガ "wikilink")） - モーションアクター
+  - [パンツァードラグーン オルタ](../Page/パンツァードラグーン.md "wikilink")（2002年12月19日、[セガ](https://ja.wikipedia.org/wiki/セガ "wikilink")） - モーションアクター
   - [真・三國無双3](https://ja.wikipedia.org/wiki/真・三國無双3 "wikilink")（2003年2月27日、コーエー） - モーションアクター
   - [侍道2](../Page/侍道2.md "wikilink")（2003年10月9日、スパイク） - モーションアクター
-  - [武刃街 BUJINGAI](https://ja.wikipedia.org/wiki/武刃街 "wikilink")（2003年12月25日、[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")） - モーションアドバイザー
+  - [武刃街 BUJINGAI](../Page/武刃街.md "wikilink")（2003年12月25日、[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")） - モーションアドバイザー
   - [忍](https://ja.wikipedia.org/wiki/忍 "wikilink")（2004年、[アクワイア](../Page/アクワイア_\(ゲーム会社\).md "wikilink")） - モーションプレイヤー
   - [サムライウエスタン 活劇侍道](../Page/サムライウエスタン_活劇侍道.md "wikilink")（2005年1月1日、スパイク） - モーションアクター
   - [忍道 戒](../Page/忍道_戒.md "wikilink")（2005年11月10日、スパイク） - モーションアクター
@@ -237,7 +237,7 @@
 
 ### 舞台
 
-  - [ジャパンアクションエンタープライズ](https://ja.wikipedia.org/wiki/ジャパンアクションエンタープライズ "wikilink") 第38期卒業公演（2008年5月23日、板橋文化会館） - JAE先輩 役
+  - [ジャパンアクションエンタープライズ](../Page/ジャパンアクションエンタープライズ.md "wikilink") 第38期卒業公演（2008年5月23日、板橋文化会館） - JAE先輩 役
 
 ### イベント
 

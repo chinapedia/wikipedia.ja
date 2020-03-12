@@ -1,22 +1,22 @@
 > この記事は[FIELD OF VIEW II](https://ja.wikipedia.org/wiki/FIELD_OF_VIEW_II)から翻訳されています。
 
 
-『**FIELD OF VIEW II**』（フィールド・オブ・ビュー・セカンド）は[FIELD OF VIEWの](https://ja.wikipedia.org/wiki/FIELD_OF_VIEW "wikilink")2ndアルバム。
+『**FIELD OF VIEW II**』（フィールド・オブ・ビュー・セカンド）は[FIELD OF VIEWの](../Page/FIELD_OF_VIEW.md "wikilink")2ndアルバム。
 
 ## 内容
 
-FIELD OF VIEWの2作目のアルバム。[シングル](../Page/シングル.md "wikilink")「[Last Good-bye](../Page/Last_Good-bye.md "wikilink")」「[DAN DAN 心魅かれてく](https://ja.wikipedia.org/wiki/DAN_DAN_心魅かれてく "wikilink")」「[ドキッ](../Page/ドキッ.md "wikilink")」を含む全11曲。3rdシングル収録の「Last Good-bye」「夢見続けて今も」は[安部潤](https://ja.wikipedia.org/wiki/安部潤 "wikilink")在籍時の作品。4thシングル「DAN DAN 心魅かれてく」は安部を除く3人構成となり、5thシングル「ドキッ」から[新津健二](https://ja.wikipedia.org/wiki/新津健二 "wikilink")が加入と、メンバーの変遷が生じている。
+FIELD OF VIEWの2作目のアルバム。[シングル](../Page/シングル.md "wikilink")「[Last Good-bye](../Page/Last_Good-bye.md "wikilink")」「[DAN DAN 心魅かれてく](https://ja.wikipedia.org/wiki/DAN_DAN_心魅かれてく "wikilink")」「[ドキッ](../Page/ドキッ.md "wikilink")」を含む全11曲。3rdシングル収録の「Last Good-bye」「夢見続けて今も」は[安部潤](../Page/安部潤.md "wikilink")在籍時の作品。4thシングル「DAN DAN 心魅かれてく」は安部を除く3人構成となり、5thシングル「ドキッ」から[新津健二](https://ja.wikipedia.org/wiki/新津健二 "wikilink")が加入と、メンバーの変遷が生じている。
 
 ## 収録曲
 
 1.  **Rainy day**
       -
-        作詞:[浅岡雄也](https://ja.wikipedia.org/wiki/浅岡雄也 "wikilink")・[小田佳奈子](../Page/小田佳奈子.md "wikilink") 作曲:[多々納好夫](https://ja.wikipedia.org/wiki/多々納好夫 "wikilink") 編曲:[徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")
+        作詞:[浅岡雄也](../Page/浅岡雄也.md "wikilink")・[小田佳奈子](../Page/小田佳奈子.md "wikilink") 作曲:[多々納好夫](../Page/多々納好夫.md "wikilink") 編曲:[徳永暁人](../Page/徳永暁人.md "wikilink")
 2.  **[Last Good-bye](../Page/Last_Good-bye.md "wikilink")**
       -
         作詞:[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink") 作曲:多々納好夫 編曲:[葉山たけし](../Page/葉山たけし.md "wikilink")
-        通算5枚目のシングル曲。[TBS系](../Page/TBSテレビ.md "wikilink")『[日立 世界・ふしぎ発見\!](https://ja.wikipedia.org/wiki/日立_世界・ふしぎ発見! "wikilink")』エンディングテーマ
-        後に、坂井は[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")として、『[君とのDistance](https://ja.wikipedia.org/wiki/君とのDistance "wikilink")』にてセルフカバーしている。
+        通算5枚目のシングル曲。[TBS系](../Page/TBSテレビ.md "wikilink")『[日立 世界・ふしぎ発見\!](../Page/日立_世界・ふしぎ発見!.md "wikilink")』エンディングテーマ
+        後に、坂井は[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")として、『[君とのDistance](../Page/君とのDistance.md "wikilink")』にてセルフカバーしている。
 3.  **[ドキッ](../Page/ドキッ.md "wikilink")**
       -
         作詞:山本ゆり 作曲:浅岡雄也 編曲:葉山たけし
@@ -58,10 +58,10 @@ FIELD OF VIEWの2作目のアルバム。[シングル](../Page/シングル.md 
 ## 関連項目
 
   - [ビーイング](../Page/ビーイング.md "wikilink")
-  - [ZAIN RECORDS](https://ja.wikipedia.org/wiki/ZAIN_RECORDS "wikilink")
-  - [FIELD OF VIEW](https://ja.wikipedia.org/wiki/FIELD_OF_VIEW "wikilink")
-      - [浅岡雄也](https://ja.wikipedia.org/wiki/浅岡雄也 "wikilink")
-      - [安部潤](https://ja.wikipedia.org/wiki/安部潤 "wikilink")
+  - [ZAIN RECORDS](../Page/ZAIN_RECORDS.md "wikilink")
+  - [FIELD OF VIEW](../Page/FIELD_OF_VIEW.md "wikilink")
+      - [浅岡雄也](../Page/浅岡雄也.md "wikilink")
+      - [安部潤](../Page/安部潤.md "wikilink")
   - [ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")
       - [坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")
 

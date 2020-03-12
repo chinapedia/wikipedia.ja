@@ -1,7 +1,7 @@
 > この記事は[LISA \(\)](https://ja.wikipedia.org/wiki/LISA_\(\))から翻訳されています。
 
 
-**LISA**（リサ、[1974年](../Page/1974年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")で、[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")のメンバーである。本名、**成田 エリザベス サクラ**（なりたエリザベスサクラ）。[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身。[LDH](https://ja.wikipedia.org/wiki/LDH "wikilink")所属。旧名はUNIKAやCHICA COLOMBIANAなど。[rhythm zoneから](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")、5枚の[オリジナルアルバムをリリースしている](../Page/アルバム.md "wikilink")。血液型O型。
+**LISA**（リサ、[1974年](../Page/1974年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")で、[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")のメンバーである。本名、**成田 エリザベス サクラ**（なりたエリザベスサクラ）。[東京都](../Page/東京都.md "wikilink")出身。[LDH](https://ja.wikipedia.org/wiki/LDH "wikilink")所属。旧名はUNIKAやCHICA COLOMBIANAなど。[rhythm zoneから](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")、5枚の[オリジナルアルバムをリリースしている](../Page/アルバム.md "wikilink")。血液型O型。
 
 ## 略歴
 
@@ -17,7 +17,7 @@
 
 <!-- end list -->
 
-  - 18歳の時、**LiSA**として[徳間ジャパンコミュニケーションズ](https://ja.wikipedia.org/wiki/徳間ジャパンコミュニケーションズ "wikilink")よりデビュー。この頃から[朝本浩文](https://ja.wikipedia.org/wiki/朝本浩文 "wikilink")率いる[Ram Jam Worldにボーカリストとして参加するなど](https://ja.wikipedia.org/wiki/Ram_Jam_World "wikilink")、数多くのセッションを経験。
+  - 18歳の時、**LiSA**として[徳間ジャパンコミュニケーションズ](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")よりデビュー。この頃から[朝本浩文](../Page/朝本浩文.md "wikilink")率いる[Ram Jam Worldにボーカリストとして参加するなど](../Page/Ram_Jam_World.md "wikilink")、数多くのセッションを経験。
 
 <!-- end list -->
 
@@ -58,7 +58,7 @@
 
 <!-- end list -->
 
-  - 8月 m-floのアルバム『[BEAT SPACE NINE](https://ja.wikipedia.org/wiki/BEAT_SPACE_NINE "wikilink")』に収録されている「[TRIPOD BABY](../Page/TRIPOD_BABY.md "wikilink")」に、Lovesアーティストとして参加。また同年[11月2日](../Page/11月2日.md "wikilink")に行われたm-floの「BEAT SPACE NINE TOUR 2005」の[日本武道館](../Page/日本武道館.md "wikilink")での最終公演にも参加し、"m-flo loves LISA"として「TRIPOD BABY」だけでなくm-flo在籍時代の「[How You Like Me Now?](../Page/How_You_Like_Me_Now?.md "wikilink")」と「[come again](https://ja.wikipedia.org/wiki/come_again "wikilink")」も披露した。
+  - 8月 m-floのアルバム『[BEAT SPACE NINE](../Page/BEAT_SPACE_NINE.md "wikilink")』に収録されている「[TRIPOD BABY](../Page/TRIPOD_BABY.md "wikilink")」に、Lovesアーティストとして参加。また同年[11月2日](../Page/11月2日.md "wikilink")に行われたm-floの「BEAT SPACE NINE TOUR 2005」の[日本武道館](../Page/日本武道館.md "wikilink")での最終公演にも参加し、"m-flo loves LISA"として「TRIPOD BABY」だけでなくm-flo在籍時代の「[How You Like Me Now?](../Page/How_You_Like_Me_Now?.md "wikilink")」と「[come again](https://ja.wikipedia.org/wiki/come_again "wikilink")」も披露した。
 
 <!-- end list -->
 
@@ -74,8 +74,8 @@
 
 <!-- end list -->
 
-  - [2月13日](../Page/2月13日.md "wikilink")、m-floのベストアルバム『[Award SuperNova -Loves Best-](../Page/Award_SuperNova_-Loves_Best-.md "wikilink")』に収録されている、loves最終楽曲「love comes and goes」に、m-flo FAMILYの[日之内エミ](https://ja.wikipedia.org/wiki/日之内エミ "wikilink")、[Ryohei](../Page/Ryohei.md "wikilink")、[Emyli](https://ja.wikipedia.org/wiki/Emyli "wikilink")、[YOSHIKA](../Page/YOSHIKA.md "wikilink")と共に参加。
-  - [9月9日](../Page/9月9日.md "wikilink")、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")の[リゾート](https://ja.wikipedia.org/wiki/リゾート "wikilink")・[イビサ島](https://ja.wikipedia.org/wiki/イビサ島 "wikilink")で最大級のクラブ「エルディヴィーノ」で日本の女性歌手として初となるライブを行った\[1\]。
+  - [2月13日](../Page/2月13日.md "wikilink")、m-floのベストアルバム『[Award SuperNova -Loves Best-](../Page/Award_SuperNova_-Loves_Best-.md "wikilink")』に収録されている、loves最終楽曲「love comes and goes」に、m-flo FAMILYの[日之内エミ](https://ja.wikipedia.org/wiki/日之内エミ "wikilink")、[Ryohei](../Page/Ryohei.md "wikilink")、[Emyli](../Page/Emyli.md "wikilink")、[YOSHIKA](../Page/YOSHIKA.md "wikilink")と共に参加。
+  - [9月9日](../Page/9月9日.md "wikilink")、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")の[リゾート](../Page/リゾート.md "wikilink")・[イビサ島](../Page/イビサ島.md "wikilink")で最大級のクラブ「エルディヴィーノ」で日本の女性歌手として初となるライブを行った\[1\]。
 
 <!-- end list -->
 
@@ -115,11 +115,11 @@
 
 ## 人物
 
-日本国籍で、日本での[出生名](https://ja.wikipedia.org/wiki/出生名 "wikilink")の届け出は、[戸籍](../Page/戸籍.md "wikilink")に関する法令に依り、"成田・エリザベスサクラ" となる。 [J-WAVE](../Page/J-WAVE.md "wikilink")『[Across The View](https://ja.wikipedia.org/wiki/Across_The_View#ラジオ番組『Across_The_View』 "wikilink")』では、「成田リサ」と[☆Takuに呼ばれたことがある](https://ja.wikipedia.org/wiki/☆Taku_Takahashi "wikilink")。（[エリザベス](../Page/エリザベス.md "wikilink")の[愛称](../Page/愛称.md "wikilink")は「リサ」になるため間違いではない。） 実家は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[世田谷区](https://ja.wikipedia.org/wiki/世田谷区 "wikilink")[用賀](https://ja.wikipedia.org/wiki/用賀 "wikilink")にある[焼き鳥](../Page/焼き鳥.md "wikilink")屋「やきとり天国」である。 [清泉インターナショナルスクール](https://ja.wikipedia.org/wiki/清泉インターナショナルスクール "wikilink")出身で、歌手の[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")は、後輩にあたる。 [日本語](../Page/日本語.md "wikilink")、[英語](../Page/英語.md "wikilink")、[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")を操る[トリリンガルである](../Page/多言語.md "wikilink")。
+日本国籍で、日本での[出生名](https://ja.wikipedia.org/wiki/出生名 "wikilink")の届け出は、[戸籍](../Page/戸籍.md "wikilink")に関する法令に依り、"成田・エリザベスサクラ" となる。 [J-WAVE](../Page/J-WAVE.md "wikilink")『[Across The View](https://ja.wikipedia.org/wiki/Across_The_View#ラジオ番組『Across_The_View』 "wikilink")』では、「成田リサ」と[☆Takuに呼ばれたことがある](https://ja.wikipedia.org/wiki/☆Taku_Takahashi "wikilink")。（[エリザベス](../Page/エリザベス.md "wikilink")の[愛称](../Page/愛称.md "wikilink")は「リサ」になるため間違いではない。） 実家は、[東京都](../Page/東京都.md "wikilink")[世田谷区](../Page/世田谷区.md "wikilink")[用賀](../Page/用賀.md "wikilink")にある[焼き鳥](../Page/焼き鳥.md "wikilink")屋「やきとり天国」である。 [清泉インターナショナルスクール](../Page/清泉インターナショナルスクール.md "wikilink")出身で、歌手の[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")は、後輩にあたる。 [日本語](../Page/日本語.md "wikilink")、[英語](../Page/英語.md "wikilink")、[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")を操る[トリリンガルである](../Page/多言語.md "wikilink")。
 
-m-floを脱退後、様々な[ジャンル](../Page/ジャンル.md "wikilink")の音楽を発表してきたが、最近は[R\&B特化を宣言している](../Page/リズム・アンド・ブルース.md "wikilink")。[長渕剛](../Page/長渕剛.md "wikilink")を支持する歌手の一人であり、長渕の[トリビュートアルバム](https://ja.wikipedia.org/wiki/トリビュートアルバム "wikilink") 『[Hey ANIKI\!](../Page/Hey_ANIKI!.md "wikilink")』に参加。[2004年](../Page/2004年.md "wikilink")に開かれた長渕の[桜島](../Page/桜島.md "wikilink")オールナイトコンサートでは、同じく『Hey ANIKI\!』に参加していた[Zeebra](https://ja.wikipedia.org/wiki/Zeebra "wikilink")と共に長渕との競演を果たしている。
+m-floを脱退後、様々な[ジャンル](../Page/ジャンル.md "wikilink")の音楽を発表してきたが、最近は[R\&B特化を宣言している](../Page/リズム・アンド・ブルース.md "wikilink")。[長渕剛](../Page/長渕剛.md "wikilink")を支持する歌手の一人であり、長渕の[トリビュートアルバム](https://ja.wikipedia.org/wiki/トリビュートアルバム "wikilink") 『[Hey ANIKI\!](../Page/Hey_ANIKI!.md "wikilink")』に参加。[2004年](../Page/2004年.md "wikilink")に開かれた長渕の[桜島](../Page/桜島.md "wikilink")オールナイトコンサートでは、同じく『Hey ANIKI\!』に参加していた[Zeebra](../Page/Zeebra.md "wikilink")と共に長渕との競演を果たしている。
 
-デビュー当時、[コサキンのラジオ番組の](../Page/コサキンDEワァオ!.md "wikilink")[キャイ〜ン](../Page/キャイ〜ン.md "wikilink")のコーナーに登場し、[ゲームセンター](../Page/ゲームセンター.md "wikilink")の体感ゲーム機の中で[ウド鈴木](../Page/ウド鈴木.md "wikilink")と「[ロンリーチャップリン](https://ja.wikipedia.org/wiki/ロンリーチャップリン "wikilink")」を歌った事がある。[ライブ](https://ja.wikipedia.org/wiki/ライブ "wikilink")では感極まって、よく涙する。
+デビュー当時、[コサキンのラジオ番組の](../Page/コサキンDEワァオ!.md "wikilink")[キャイ〜ン](../Page/キャイ〜ン.md "wikilink")のコーナーに登場し、[ゲームセンター](../Page/ゲームセンター.md "wikilink")の体感ゲーム機の中で[ウド鈴木](../Page/ウド鈴木.md "wikilink")と「[ロンリーチャップリン](https://ja.wikipedia.org/wiki/ロンリーチャップリン "wikilink")」を歌った事がある。[ライブ](../Page/ライブ.md "wikilink")では感極まって、よく涙する。
 
 「[マンモス](../Page/マンモス.md "wikilink")ラヴ」「愛はマンモスのように」など、「マンモス」という言葉を好んで使用する。胸毛フェチである\[4\]。
 
@@ -131,27 +131,27 @@ LISA LIONの名で[ラップ](../Page/ラップ.md "wikilink")パートを行う
 
 ### シングル
 
-| 枚    | 発売日                                                                                           | タイトル                                                                                                                                                               | 最高位  |
-| ---- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- |
-| LiSA |                                                                                               |                                                                                                                                                                    |      |
-| 1st  | 1993年[2月25日](../Page/2月25日.md "wikilink")                                                     | **OUT OF CRY\[5\]**                                                                                                                                                |      |
-| 2nd  | 1994年                                                                                         | **ONE WORLD\[6\]**                                                                                                                                                 |      |
-| 3rd  | 1994年[6月25日](../Page/6月25日.md "wikilink")                                                     | **SEA OF THE STARS\[7\]**                                                                                                                                          |      |
-| 4th  | 1994年7月25日                                                                                    | **ゴール・ゲット大作戦 (Vamos Hacer El Gol\! バモス・アセル・エル・ゴール\!)\[8\]**                                                                                                        |      |
-| LISA |                                                                                               |                                                                                                                                                                    |      |
-| 1st  | [2002年](../Page/2002年.md "wikilink")[1月9日](../Page/1月9日.md "wikilink")                        | **[move on](https://ja.wikipedia.org/wiki/move_on "wikilink")**                                                                                                    | 7位   |
-| 2nd  | 2002年[5月29日](../Page/5月29日.md "wikilink")                                                     | **バビロンの奇跡**                                                                                                                                                        | 31位  |
-| 3rd  | 2002年[10月30日](../Page/10月30日.md "wikilink")                                                   | **I'm all you**                                                                                                                                                    | 26位  |
-| 4th  | [2003年](../Page/2003年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")   | **Superstar**                                                                                                                                                      | 127位 |
-| 5th  | 2003年[7月24日](../Page/7月24日.md "wikilink")                                                     | **Flower For The Lion e.p. 〜Peace in Love〜**                                                                                                                       | 135位 |
-| 6th  | [2004年](../Page/2004年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink")                      | **My Dearest**                                                                                                                                                     | 90位  |
-| 7th  | 2004年[4月21日](../Page/4月21日.md "wikilink")                                                     | **[SWITCH feat. 倖田來未\&Heartsdales/I ONLY WANT TO BE WITH YOU](https://ja.wikipedia.org/wiki/SWITCH_feat._倖田來未&Heartsdales/I_ONLY_WANT_TO_BE_WITH_YOU "wikilink")** | 43位  |
-| 8th  | 2004年[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")                                    | **So Beautiful**                                                                                                                                                   | 156位 |
-| 9th  | 2004年[12月8日](../Page/12月8日.md "wikilink")                                                     | **Only if 〜Diamonds in the Snow e.p.〜**                                                                                                                            | 133位 |
-| 10th | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月26日](../Page/10月26日.md "wikilink") | **I, Rhythm**                                                                                                                                                      | 94位  |
-| 11th | [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月13日](../Page/9月13日.md "wikilink")   | **SHOWTIME**                                                                                                                                                       | 199位 |
-| 12th | [2007年](../Page/2007年.md "wikilink")[5月9日](../Page/5月9日.md "wikilink")                        | **tomorrow**                                                                                                                                                       |      |
-| 配信限定 | [2019年](../Page/2019年.md "wikilink")[10月16日](../Page/10月16日.md "wikilink")                    | **ラストラブ**                                                                                                                                                          |      |
+| 枚    | 発売日                                                                                         | タイトル                                                                                                                                                               | 最高位  |
+| ---- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- |
+| LiSA |                                                                                             |                                                                                                                                                                    |      |
+| 1st  | 1993年[2月25日](../Page/2月25日.md "wikilink")                                                   | **OUT OF CRY\[5\]**                                                                                                                                                |      |
+| 2nd  | 1994年                                                                                       | **ONE WORLD\[6\]**                                                                                                                                                 |      |
+| 3rd  | 1994年[6月25日](../Page/6月25日.md "wikilink")                                                   | **SEA OF THE STARS\[7\]**                                                                                                                                          |      |
+| 4th  | 1994年7月25日                                                                                  | **ゴール・ゲット大作戦 (Vamos Hacer El Gol\! バモス・アセル・エル・ゴール\!)\[8\]**                                                                                                        |      |
+| LISA |                                                                                             |                                                                                                                                                                    |      |
+| 1st  | [2002年](../Page/2002年.md "wikilink")[1月9日](../Page/1月9日.md "wikilink")                      | **[move on](https://ja.wikipedia.org/wiki/move_on "wikilink")**                                                                                                    | 7位   |
+| 2nd  | 2002年[5月29日](../Page/5月29日.md "wikilink")                                                   | **バビロンの奇跡**                                                                                                                                                        | 31位  |
+| 3rd  | 2002年[10月30日](../Page/10月30日.md "wikilink")                                                 | **I'm all you**                                                                                                                                                    | 26位  |
+| 4th  | [2003年](../Page/2003年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink") | **Superstar**                                                                                                                                                      | 127位 |
+| 5th  | 2003年[7月24日](../Page/7月24日.md "wikilink")                                                   | **Flower For The Lion e.p. 〜Peace in Love〜**                                                                                                                       | 135位 |
+| 6th  | [2004年](../Page/2004年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink")                    | **My Dearest**                                                                                                                                                     | 90位  |
+| 7th  | 2004年[4月21日](../Page/4月21日.md "wikilink")                                                   | **[SWITCH feat. 倖田來未\&Heartsdales/I ONLY WANT TO BE WITH YOU](https://ja.wikipedia.org/wiki/SWITCH_feat._倖田來未&Heartsdales/I_ONLY_WANT_TO_BE_WITH_YOU "wikilink")** | 43位  |
+| 8th  | 2004年[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")                                  | **So Beautiful**                                                                                                                                                   | 156位 |
+| 9th  | 2004年[12月8日](../Page/12月8日.md "wikilink")                                                   | **Only if 〜Diamonds in the Snow e.p.〜**                                                                                                                            | 133位 |
+| 10th | [2005年](../Page/2005年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink")                  | **I, Rhythm**                                                                                                                                                      | 94位  |
+| 11th | [2006年](../Page/2006年.md "wikilink")[9月13日](../Page/9月13日.md "wikilink")                    | **SHOWTIME**                                                                                                                                                       | 199位 |
+| 12th | [2007年](../Page/2007年.md "wikilink")[5月9日](../Page/5月9日.md "wikilink")                      | **tomorrow**                                                                                                                                                       |      |
+| 配信限定 | [2019年](../Page/2019年.md "wikilink")[10月16日](../Page/10月16日.md "wikilink")                  | **ラストラブ**                                                                                                                                                          |      |
 
 ### アルバム
 
@@ -159,7 +159,7 @@ LISA LIONの名で[ラップ](../Page/ラップ.md "wikilink")パートを行う
 
 | 枚   | 発売日                                                                        | タイトル                                                                    | 最高位  |
 | --- | -------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ---- |
-| 1st | 2003年[4月16日](https://ja.wikipedia.org/wiki/4月16日 "wikilink")               | **[JUICY MUSIC](https://ja.wikipedia.org/wiki/JUICY_MUSIC "wikilink")** | 5位   |
+| 1st | 2003年[4月16日](../Page/4月16日.md "wikilink")                                  | **[JUICY MUSIC](https://ja.wikipedia.org/wiki/JUICY_MUSIC "wikilink")** | 5位   |
 | 2nd | 2004年[6月30日](../Page/6月30日.md "wikilink")                                  | **GRATITUDE**                                                           | 19位  |
 | 3rd | 2006年[10月25日](../Page/10月25日.md "wikilink")                                | **[ELIZABETH](https://ja.wikipedia.org/wiki/ELIZABETH "wikilink")**     | 60位  |
 | 4th | [2009年](../Page/2009年.md "wikilink")[11月11日](../Page/11月11日.md "wikilink") | **Disco Volante**                                                       | 146位 |
@@ -212,18 +212,18 @@ LISA LIONの名で[ラップ](../Page/ラップ.md "wikilink")パートを行う
   - SEA OF THE STARS - アニメ「[銀河英雄伝説](https://ja.wikipedia.org/wiki/銀河英雄伝説_\(アニメ\) "wikilink")」第3期オープニングテーマ
   - ゴール・ゲット大作戦 - [テレビ朝日](../Page/テレビ朝日.md "wikilink")系「フロンティア」[Jリーグコーナー](../Page/日本プロサッカーリーグ.md "wikilink")・テーマソング
   - move on - [コーセー](../Page/コーセー.md "wikilink")「ルミナス」 CMソング
-  - where peace belongs - [ソフマップ](https://ja.wikipedia.org/wiki/ソフマップ "wikilink")「有楽町Sofmap」CMソング、テレビ朝日系「[D's garage](https://ja.wikipedia.org/wiki/D's_garage "wikilink")」エンディング・テーマ
+  - where peace belongs - [ソフマップ](../Page/ソフマップ.md "wikilink")「有楽町Sofmap」CMソング、テレビ朝日系「[D's garage](https://ja.wikipedia.org/wiki/D's_garage "wikilink")」エンディング・テーマ
   - バビロンの奇跡 - [キリンビール](../Page/麒麟麦酒.md "wikilink")「[氷結](https://ja.wikipedia.org/wiki/氷結_\(チューハイ\) "wikilink")」CMソング
-  - I'm all you - [EDWIN](https://ja.wikipedia.org/wiki/エドウイン "wikilink")「SOMETHING」TV CFソング、[テレビ朝日](../Page/テレビ朝日.md "wikilink")系「[ビートたけしのTVタックル](../Page/ビートたけしのTVタックル.md "wikilink")」エンディングテーマ（2002年10月〜12月）
-  - My Dearest - [集英社](../Page/集英社.md "wikilink")「[MORE](../Page/MORE_\(雑誌\).md "wikilink")」TVCMソング、テレビ朝日系列「[おかずのクッキング](https://ja.wikipedia.org/wiki/おかずのクッキング "wikilink")」テーマ曲
+  - I'm all you - [EDWIN](../Page/エドウイン.md "wikilink")「SOMETHING」TV CFソング、[テレビ朝日](../Page/テレビ朝日.md "wikilink")系「[ビートたけしのTVタックル](../Page/ビートたけしのTVタックル.md "wikilink")」エンディングテーマ（2002年10月〜12月）
+  - My Dearest - [集英社](../Page/集英社.md "wikilink")「[MORE](../Page/MORE_\(雑誌\).md "wikilink")」TVCMソング、テレビ朝日系列「[おかずのクッキング](../Page/おかずのクッキング.md "wikilink")」テーマ曲
   - SWITCH feat. [倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink") & [Heartsdales](https://ja.wikipedia.org/wiki/Heartsdales "wikilink") - [PS2用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")「クリムゾンティアーズ」CMソング・オープニングテーマ曲
-  - I ONLY WANT TO BE WITH YOU - [TDK](https://ja.wikipedia.org/wiki/TDK "wikilink")TV-CFソング
+  - I ONLY WANT TO BE WITH YOU - [TDK](../Page/TDK.md "wikilink")TV-CFソング
   - とんぼ feat. HOME GROWN - テレビ朝日系「[朝いち\!\!やじうま](https://ja.wikipedia.org/wiki/朝いち!!やじうま "wikilink")」8月度テーマ曲
-  - So Beautiful - [ニベア花王](https://ja.wikipedia.org/wiki/ニベア花王 "wikilink")「ニベアボディ薬用ストレッチアップUV」CMソング
+  - So Beautiful - [ニベア花王](../Page/ニベア花王.md "wikilink")「ニベアボディ薬用ストレッチアップUV」CMソング
   - Only if - テレビ朝日「ビートたけしのTVタックル」エンディングテーマ
-  - Eternal Flame - 映画「[エターナル・サンシャイン](https://ja.wikipedia.org/wiki/エターナル・サンシャイン "wikilink")」イメージソング
-  - It's On - テレビ朝日 土曜ミッドナイトドラマ「[吉祥天女](https://ja.wikipedia.org/wiki/吉祥天女 "wikilink")」主題歌
-  - I, Rhythm - テレビ朝日系「[草野☆キッド](https://ja.wikipedia.org/wiki/草野☆キッド "wikilink")」エンディングテーマ
+  - Eternal Flame - 映画「[エターナル・サンシャイン](../Page/エターナル・サンシャイン.md "wikilink")」イメージソング
+  - It's On - テレビ朝日 土曜ミッドナイトドラマ「[吉祥天女](../Page/吉祥天女.md "wikilink")」主題歌
+  - I, Rhythm - テレビ朝日系「[草野☆キッド](../Page/草野☆キッド.md "wikilink")」エンディングテーマ
   - Precious Message / LISA & 舞音 - [GAGA配給](https://ja.wikipedia.org/wiki/ギャガ・コミュニケーションズ "wikilink")[松竹](../Page/松竹.md "wikilink")系ダンス映画「[バックダンサーズ\!](https://ja.wikipedia.org/wiki/バックダンサーズ! "wikilink")」劇中クラブシーン使用曲
   - SHOWTIME - テレビ朝日「[FUTURE TRACKS-R](https://ja.wikipedia.org/wiki/FUTURE_TRACKS-R "wikilink")」エンディングチューン
   - Never Alone - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系「[たけしのニッポンのミカタ\!](https://ja.wikipedia.org/wiki/たけしのニッポンのミカタ! "wikilink")」エンディングテーマ（2011年4月〜6月）
@@ -235,14 +235,14 @@ LISA LIONの名で[ラップ](../Page/ラップ.md "wikilink")パートを行う
 
 ### m-flo脱退前
 
-  - melody / [Ram Jam World](https://ja.wikipedia.org/wiki/Ram_Jam_World "wikilink")
+  - melody / [Ram Jam World](../Page/Ram_Jam_World.md "wikilink")
   - planet earth / Ram Jam World - 作詞、ボーカル
   - corazon / Ram Jam World - 作詞、ボーカル
   - Salvia / Ram Jam World feat. LISA - ボーカル
   - 欲望 / Ram Jam World
   - The End Of The World / Ram Jam World
   - Skelton feat. lisa / Ram Jam World
-  - Little Wish / [K.](https://ja.wikipedia.org/wiki/K. "wikilink") - コーラス
+  - Little Wish / [K.](../Page/K..md "wikilink") - コーラス
   - Make Me Crazy / [Kirari](../Page/希良梨.md "wikilink") - コーラス、コーラスアレンジ
   - Mind Kids / Kirari - コーラス、コーラスアレンジ、ボーカル
   - 心やすめて / Kirari - コーラス、コーラスアレンジ
@@ -251,15 +251,15 @@ LISA LIONの名で[ラップ](../Page/ラップ.md "wikilink")パートを行う
   - PERFECT LOVE... GONE WRONG (LISA M-FLO MIX) / [STING](../Page/スティング_\(ミュージシャン\).md "wikilink") - ラップ
   - Freak me / Joi
   - リアリティ / [松任谷由実](../Page/松任谷由実.md "wikilink") - コーラス
-  - [Believe the Light](https://ja.wikipedia.org/wiki/Believe_the_Light "wikilink") / [TRICERATOPS](https://ja.wikipedia.org/wiki/TRICERATOPS "wikilink") with Lisa - 作詞、ボーカル
+  - [Believe the Light](https://ja.wikipedia.org/wiki/Believe_the_Light "wikilink") / [TRICERATOPS](../Page/TRICERATOPS.md "wikilink") with Lisa - 作詞、ボーカル
   - I Can't Tell You Anymore / TRICERATOPS with Lisa ※上記シングルのカップリング
-  - Love can't wait feat. LISA / [DJ HASEBE](https://ja.wikipedia.org/wiki/DJ_HASEBE "wikilink")
+  - Love can't wait feat. LISA / [DJ HASEBE](../Page/DJ_HASEBE.md "wikilink")
   - Rest of Everything / [Yukihiro Fukutomi](../Page/福富幸宏.md "wikilink")
   - All Mine / [Heartsdales](https://ja.wikipedia.org/wiki/Heartsdales "wikilink")
 
 ### m-flo脱退後
 
-  - ねぇD \[LADY\] feat. LISA / [DABO](https://ja.wikipedia.org/wiki/DABO "wikilink")
+  - ねぇD \[LADY\] feat. LISA / [DABO](../Page/DABO.md "wikilink")
 
   - one / [倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink") - プロデュース、ラップ
 
@@ -273,15 +273,15 @@ LISA LIONの名で[ラップ](../Page/ラップ.md "wikilink")パートを行う
 
   - Going to the sky / JAFROSAX
 
-  - VOICE OF LOVE〜[上を向いて歩こう](https://ja.wikipedia.org/wiki/上を向いて歩こう "wikilink") / [VOICE OF LOVE POSSE](../Page/VOICE_OF_LOVE_POSSE.md "wikilink")
+  - VOICE OF LOVE〜[上を向いて歩こう](../Page/上を向いて歩こう.md "wikilink") / [VOICE OF LOVE POSSE](../Page/VOICE_OF_LOVE_POSSE.md "wikilink")
 
   - magic / 倖田來未 - プロデュース
 
   - LUCKY STAR / [GTS](../Page/GTS_\(DJグループ\).md "wikilink") + LISA
 
-  - [しあわせになろうよ'04](../Page/しあわせになろうよ'04.md "wikilink") / [長渕剛](../Page/長渕剛.md "wikilink") & All Cast feat. [ZEEBRA](https://ja.wikipedia.org/wiki/Zeebra "wikilink")
+  - [しあわせになろうよ'04](../Page/しあわせになろうよ'04.md "wikilink") / [長渕剛](../Page/長渕剛.md "wikilink") & All Cast feat. [ZEEBRA](../Page/Zeebra.md "wikilink")
 
-  - Sweetest feat. LISA / [JHETT a.k.a. YAKKO for AQUARIUS](https://ja.wikipedia.org/wiki/JHETT_a.k.a.YAKKO_for_AQUARIUS "wikilink") - 作詞、ボーカル
+  - Sweetest feat. LISA / [JHETT a.k.a. YAKKO for AQUARIUS](../Page/JHETT_a.k.a.YAKKO_for_AQUARIUS.md "wikilink") - 作詞、ボーカル
 
   - TRIPOD BABY / [m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink") loves LISA
 
@@ -295,7 +295,7 @@ LISA LIONの名で[ラップ](../Page/ラップ.md "wikilink")パートを行う
 
   - ReListen feat. LISA / [Ryohei](../Page/Ryohei.md "wikilink")
 
-  - UNCHAINED TRIBE / LISA & [Miss Monday](https://ja.wikipedia.org/wiki/Miss_Monday "wikilink")
+  - UNCHAINED TRIBE / LISA & [Miss Monday](../Page/Miss_Monday.md "wikilink")
 
   - BABEL / LOS KALIBRES & LISA
 
@@ -313,7 +313,7 @@ LISA LIONの名で[ラップ](../Page/ラップ.md "wikilink")パートを行う
 
   - So Bright feat. LISA / YUMMY
 
-  - www. 〜World Wide Wisteria〜 / [杏子](https://ja.wikipedia.org/wiki/杏子_\(ミュージシャン\) "wikilink")
+  - www. 〜World Wide Wisteria〜 / [杏子](../Page/杏子_\(ミュージシャン\).md "wikilink")
 
   - BREAK FREE feat. LISA / [中村舞子](https://ja.wikipedia.org/wiki/中村舞子 "wikilink")
 
@@ -323,8 +323,8 @@ LISA LIONの名で[ラップ](../Page/ラップ.md "wikilink")パートを行う
 
 ### かつてのラジオ番組
 
-  - [文化放送](../Page/文化放送.md "wikilink") "m-flo Lisaの[LIPS PARTY 21.jp](https://ja.wikipedia.org/wiki/LIPS_PARTY_21.jp "wikilink")" [2000年](../Page/2000年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")〜[2001年](../Page/2001年.md "wikilink")[6月](../Page/6月.md "wikilink")、毎週[月曜日](../Page/月曜日.md "wikilink")24:00〜25:30
-  - [Fm yokohama](https://ja.wikipedia.org/wiki/横浜エフエム放送 "wikilink") "DANCING GROOVE\! 〜HOT JAM〜 rhythm zone ★ LISA FLOOR" [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月6日](../Page/4月6日.md "wikilink")〜、毎週[木曜日](https://ja.wikipedia.org/wiki/木曜日 "wikilink")24:00〜25:00
+  - [文化放送](../Page/文化放送.md "wikilink") "m-flo Lisaの[LIPS PARTY 21.jp](../Page/LIPS_PARTY_21.jp.md "wikilink")" [2000年](../Page/2000年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")〜[2001年](../Page/2001年.md "wikilink")[6月](../Page/6月.md "wikilink")、毎週[月曜日](../Page/月曜日.md "wikilink")24:00〜25:30
+  - [Fm yokohama](../Page/横浜エフエム放送.md "wikilink") "DANCING GROOVE\! 〜HOT JAM〜 rhythm zone ★ LISA FLOOR" [2006年](../Page/2006年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")〜、毎週[木曜日](../Page/木曜日.md "wikilink")24:00〜25:00
   - [Inter-FM](https://ja.wikipedia.org/wiki/Inter-FM "wikilink") "UP's BEAT" 毎週[水曜日](../Page/水曜日.md "wikilink")18:00〜18:55
 
 ### テレビ番組
@@ -335,8 +335,8 @@ LISA LIONの名で[ラップ](../Page/ラップ.md "wikilink")パートを行う
 ## 関連のある主なアーティスト
 
   - [m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")
-  - [Ram Jam World](https://ja.wikipedia.org/wiki/Ram_Jam_World "wikilink")
-  - [朝本浩文](https://ja.wikipedia.org/wiki/朝本浩文 "wikilink")
+  - [Ram Jam World](../Page/Ram_Jam_World.md "wikilink")
+  - [朝本浩文](../Page/朝本浩文.md "wikilink")
   - [GTS](../Page/GTS_\(DJグループ\).md "wikilink")
   - [今井了介](https://ja.wikipedia.org/wiki/今井了介 "wikilink")
   - 今井大介
@@ -344,14 +344,14 @@ LISA LIONの名で[ラップ](../Page/ラップ.md "wikilink")パートを行う
   - [長渕剛](../Page/長渕剛.md "wikilink")
   - [倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")
   - [Heartsdales](https://ja.wikipedia.org/wiki/Heartsdales "wikilink")
-  - [DABO](https://ja.wikipedia.org/wiki/DABO "wikilink")
-  - [JHETT](https://ja.wikipedia.org/wiki/JHETT_a.k.a.YAKKO_for_AQUARIUS "wikilink")
-  - [TRICERATOPS](https://ja.wikipedia.org/wiki/TRICERATOPS "wikilink")
+  - [DABO](../Page/DABO.md "wikilink")
+  - [JHETT](../Page/JHETT_a.k.a.YAKKO_for_AQUARIUS.md "wikilink")
+  - [TRICERATOPS](../Page/TRICERATOPS.md "wikilink")
   - [JAFROSAX](https://ja.wikipedia.org/wiki/勝田かず樹 "wikilink")
   - [Ryohei](../Page/Ryohei.md "wikilink")
   - Shinnosuke（[SOUL'd OUT](../Page/SOUL'd_OUT.md "wikilink")）
   - [JYJ](https://ja.wikipedia.org/wiki/JYJ "wikilink")
-  - [杏子](https://ja.wikipedia.org/wiki/杏子_\(ミュージシャン\) "wikilink")
+  - [杏子](../Page/杏子_\(ミュージシャン\).md "wikilink")
   - [CLIFF EDGE](../Page/CLIFF_EDGE.md "wikilink")
   - [中村舞子](https://ja.wikipedia.org/wiki/中村舞子 "wikilink")
 
@@ -377,7 +377,7 @@ LISA LIONの名で[ラップ](../Page/ラップ.md "wikilink")パートを行う
 2.  [大事な一歩](http://ameblo.jp/lisa-official/entry-10654765994.html) - LISAオフィシャルブログ「CRAZY LIFE\!\!」Powered by Ameba
 3.
 4.  2008年2月20日放送「[音楽番組を板尾創路](../Page/音楽番組を板尾創路.md "wikilink")」（[GyaO](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")）出演時に発言
-5.  [徳間ジャパンコミュニケーションズ](https://ja.wikipedia.org/wiki/徳間ジャパンコミュニケーションズ "wikilink")よりリリース
+5.  [徳間ジャパンコミュニケーションズ](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")よりリリース
 6.
 7.  キティMMEよりリリース
 8.

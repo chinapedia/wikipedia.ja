@@ -5,7 +5,7 @@
 
 </div>
 
-**SUPER EUROBEAT presents InitialD D Selection**（スーパー・ユーロビート・プレゼンツ・イニシャルディー・ディーセレクション）とは、[エイベックスから発売されている](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")[SUPER EUROBEATシリーズのうち](https://ja.wikipedia.org/wiki/SUPER_EUROBEAT "wikilink")、テレビアニメ「[頭文字D](../Page/頭文字D.md "wikilink")」のアニメの挿入歌として起用された曲を集めたコンピレーション・アルバム。また、これとは別に、ゲーム「[頭文字D Special Stage](../Page/頭文字D_ARCADE_STAGE.md "wikilink")」・「[頭文字D ARCADE STAGE 4](../Page/頭文字D_ARCADE_STAGE.md "wikilink")」のオリジナル・[サウンドトラック](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")も、SEBプレゼンツとして発売されている。
+**SUPER EUROBEAT presents InitialD D Selection**（スーパー・ユーロビート・プレゼンツ・イニシャルディー・ディーセレクション）とは、[エイベックスから発売されている](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")[SUPER EUROBEATシリーズのうち](https://ja.wikipedia.org/wiki/SUPER_EUROBEAT "wikilink")、テレビアニメ「[頭文字D](../Page/頭文字D.md "wikilink")」のアニメの挿入歌として起用された曲を集めたコンピレーション・アルバム。また、これとは別に、ゲーム「[頭文字D Special Stage](../Page/頭文字D_ARCADE_STAGE.md "wikilink")」・「[頭文字D ARCADE STAGE 4](../Page/頭文字D_ARCADE_STAGE.md "wikilink")」のオリジナル・[サウンドトラック](../Page/サウンドトラック.md "wikilink")も、SEBプレゼンツとして発売されている。
 
 ## ディスコグラフィー
 

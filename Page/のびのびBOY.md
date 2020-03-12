@@ -7,7 +7,7 @@
 
   - [2007年](../Page/2007年.md "wikilink")[7月17日](../Page/7月17日.md "wikilink")、マスコミ向けイベント「PLAYSTATION PREMIERE 2007」において発表。「[塊魂](https://ja.wikipedia.org/wiki/塊魂 "wikilink")」等の開発者・[高橋慶太](https://ja.wikipedia.org/wiki/高橋慶太 "wikilink")が2年前から暖めていた企画と紹介された\[1\]。
   - イメージとして蛇腹のホースで作られた「ウネウネうごくヘビ状の物体」と「イメージ映像」が披露されたが詳細は不明。[PS3でなければ作れない](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、高度な物理演算を駆使したゲームであることが示唆されていたが、後に[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")／[iPod touchへ展開した](https://ja.wikipedia.org/wiki/iPod_touch "wikilink")。
-  - [東京ゲームショウ](https://ja.wikipedia.org/wiki/東京ゲームショウ "wikilink")2008で公開されたイメージ映像により2Dタイプのもの\[[http://www.jp.playstation.com/tgs2008/ps3/software/00_24.html\]に変更されたと思われたが](http://www.jp.playstation.com/tgs2008/ps3/software/00_24.html%5Dに変更されたと思われたが)、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月14日](../Page/12月14日.md "wikilink")に、初期イメージ通りの3Dのゲーム画面が公開された。[TGSで公開された](https://ja.wikipedia.org/wiki/東京ゲームショウ "wikilink")2Dのイメージは、ゲーム内で遊べるミニゲームになるとされている\[2\]。
+  - [東京ゲームショウ](../Page/東京ゲームショウ.md "wikilink")2008で公開されたイメージ映像により2Dタイプのもの\[[http://www.jp.playstation.com/tgs2008/ps3/software/00_24.html\]に変更されたと思われたが](http://www.jp.playstation.com/tgs2008/ps3/software/00_24.html%5Dに変更されたと思われたが)、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月14日](../Page/12月14日.md "wikilink")に、初期イメージ通りの3Dのゲーム画面が公開された。[TGSで公開された](../Page/東京ゲームショウ.md "wikilink")2Dのイメージは、ゲーム内で遊べるミニゲームになるとされている\[2\]。
   - 2009年3月より、[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")版の開発が開始されている\[3\]。
   - 2010年4月よりサウンドトラックのダウンロードも開始。「ファイナルハロン」のメインテーマのバンジョー版や「塊魂」さくらいろの季節、「ドルアーガの塔」のギター版を収録のほか、ハンマード・[ダルシマー](../Page/ダルシマー.md "wikilink")奏者[天野十兵衛](https://ja.wikipedia.org/wiki/天野十兵衛 "wikilink")の「タビスルキミへ」なども収録されている。
 

@@ -7,11 +7,11 @@
 
 1978年8月号より定期刊行されているが、『[週刊少年サンデー](https://ja.wikipedia.org/wiki/週刊少年サンデー "wikilink")』（以下「本誌」）の増刊であり独立した雑誌ではない。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、旧誌名『**週刊少年サンデー増刊号**』（しゅうかんしょうねんサンデーぞうかんごう）から『**週刊少年サンデー超**』（スーパー）に改題された。
 
-新人作家育成が主となっている場であり、新人や無名の作家が読切作品や短期連載作品を掲載し本誌進出への足掛りにしたり、[週刊](https://ja.wikipedia.org/wiki/週刊 "wikilink")連載に馴染まない作家が主に掲載され、2000年頃までは独自の長期連載の作品や読者コーナーも存在した。また、本誌で活躍する作家の読切や短期連載もしばしば掲載されていた（読切は現在でも掲載されている）。かつては『[ナイン](https://ja.wikipedia.org/wiki/ナイン_\(漫画\) "wikilink")』や『[さすがの猿飛](https://ja.wikipedia.org/wiki/さすがの猿飛 "wikilink")』など映像化された作品や、『[ファントム無頼](../Page/ファントム無頼.md "wikilink")』や『[鬼切丸](https://ja.wikipedia.org/wiki/鬼切丸 "wikilink")』、『[キャットルーキー](../Page/キャットルーキー.md "wikilink")』などといった独自の長期連載作品も存在していた。『[今日から俺は\!\!](../Page/今日から俺は!!.md "wikilink")』『[健太やります\!](../Page/健太やります!.md "wikilink")』『[ムシブギョー](https://ja.wikipedia.org/wiki/ムシブギョー "wikilink")』『[今際の国のアリス](https://ja.wikipedia.org/wiki/今際の国のアリス "wikilink")』等、人気が高い作品は本誌へ移籍し週刊連載をするケースもあるが、その逆に、本誌で不人気などの理由により作品が増刊に移籍される場合もある。
+新人作家育成が主となっている場であり、新人や無名の作家が読切作品や短期連載作品を掲載し本誌進出への足掛りにしたり、[週刊](https://ja.wikipedia.org/wiki/週刊 "wikilink")連載に馴染まない作家が主に掲載され、2000年頃までは独自の長期連載の作品や読者コーナーも存在した。また、本誌で活躍する作家の読切や短期連載もしばしば掲載されていた（読切は現在でも掲載されている）。かつては『[ナイン](../Page/ナイン_\(漫画\).md "wikilink")』や『[さすがの猿飛](../Page/さすがの猿飛.md "wikilink")』など映像化された作品や、『[ファントム無頼](../Page/ファントム無頼.md "wikilink")』や『[鬼切丸](../Page/鬼切丸.md "wikilink")』、『[キャットルーキー](../Page/キャットルーキー.md "wikilink")』などといった独自の長期連載作品も存在していた。『[今日から俺は\!\!](../Page/今日から俺は!!.md "wikilink")』『[健太やります\!](../Page/健太やります!.md "wikilink")』『[ムシブギョー](https://ja.wikipedia.org/wiki/ムシブギョー "wikilink")』『[今際の国のアリス](https://ja.wikipedia.org/wiki/今際の国のアリス "wikilink")』等、人気が高い作品は本誌へ移籍し週刊連載をするケースもあるが、その逆に、本誌で不人気などの理由により作品が増刊に移籍される場合もある。
 
 [単行本](../Page/単行本.md "wikilink")は、アンケートによる人気が高いものを中心として本誌と同様少年サンデーコミックス（SSC）にて刊行される。初出の段階で同誌及び本誌の相互間で途中移籍が生じた連載作品でも、作品タイトルに変更が生じない限りは継続刊行が可能だった。しかし、1年以上の連載作品であるにもかかわらず単行本化に至らないものも少なくなく、『[青春タイブレーク\!](https://ja.wikipedia.org/wiki/青春タイブレーク! "wikilink")』のように連載終了の数年後に他社から単行本化を果たした例もある。[2002年](../Page/2002年.md "wikilink")末から同誌の連載作品の単行本化は終了している（それ以前にも『[ドルフィン・ブレイン](https://ja.wikipedia.org/wiki/ドルフィン・ブレイン "wikilink")』（第二部）、『[サッカーキング](https://ja.wikipedia.org/wiki/サッカーキング "wikilink")』など人気が落ちたとされる作品は途中から単行本化されなくなる場合があった）。
 
-20年以上の間[月刊](https://ja.wikipedia.org/wiki/月刊 "wikilink")発行（○月増刊号の名称で前月末発売）を行い連載作品も掲載していたが、[2004年](../Page/2004年.md "wikilink")2月増刊（1月25日発売、2月25日号）をもって一旦月刊発行を終了。2004年GOLDEN WEEK増刊（4月25日発売、5月25日号、）から[2009年](../Page/2009年.md "wikilink")NEW YEAR増刊（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")12月25日発売、2009年1月15日号）までは[隔月刊](https://ja.wikipedia.org/wiki/隔月刊 "wikilink")発行となっていた。この間連載作品は全て終了し、[読切作品のみの雑誌となっていた](https://ja.wikipedia.org/wiki/読み切り "wikilink")。
+20年以上の間[月刊](https://ja.wikipedia.org/wiki/月刊 "wikilink")発行（○月増刊号の名称で前月末発売）を行い連載作品も掲載していたが、[2004年](../Page/2004年.md "wikilink")2月増刊（1月25日発売、2月25日号）をもって一旦月刊発行を終了。2004年GOLDEN WEEK増刊（4月25日発売、5月25日号、）から[2009年](../Page/2009年.md "wikilink")NEW YEAR増刊（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")12月25日発売、2009年1月15日号）までは[隔月刊](https://ja.wikipedia.org/wiki/隔月刊 "wikilink")発行となっていた。この間連載作品は全て終了し、[読切作品のみの雑誌となっていた](../Page/読み切り.md "wikilink")。
 
 [2009年](../Page/2009年.md "wikilink")4月増刊（3月25日発売）より、再び月刊発行となり、連載作品も掲載されるようになった。同時にWEB（『[クラブサンデー](https://ja.wikipedia.org/wiki/クラブサンデー "wikilink")』)での同時連載も始まった。
 
@@ -63,7 +63,7 @@
 <td><p><span style="display:none;">たつこく</span>[[タッコク</p></td>
 <td><p>!|タッコク</p></td>
 <td><p>!]]</p></td>
-<td><p><span style="display:none;">ふくち つはさ</span><a href="https://ja.wikipedia.org/wiki/福地翼" title="wikilink">福地翼</a></p></td>
+<td><p><span style="display:none;">ふくち つはさ</span><a href="../Page/福地翼.md" title="wikilink">福地翼</a></p></td>
 <td><p>—</p></td>
 <td><p>2009.04</p></td>
 <td><p>2011.02</p></td>
@@ -72,7 +72,7 @@
 <tr class="odd">
 <td><p>2</p></td>
 <td><p><span style="display:none;">あきら</span><a href="https://ja.wikipedia.org/wiki/阿鬼羅" title="wikilink">阿鬼羅</a></p></td>
-<td><p><span style="display:none;">おおつか しろう</span><a href="https://ja.wikipedia.org/wiki/大塚志郎" title="wikilink">大塚志郎</a></p></td>
+<td><p><span style="display:none;">おおつか しろう</span><a href="../Page/大塚志郎.md" title="wikilink">大塚志郎</a></p></td>
 <td><p>—</p></td>
 <td><p>2009.04</p></td>
 <td><p>2011.12</p></td>
@@ -160,7 +160,7 @@
 <tr class="odd">
 <td><p>10</p></td>
 <td><p><span style="display:none;">いえろうとらこんかあらわれた</span><a href="https://ja.wikipedia.org/wiki/イエロードラゴンがあらわれた!" title="wikilink">イエロードラゴンがあらわれた!</a></p></td>
-<td><p><span style="display:none;">たむら みつひさ</span><a href="https://ja.wikipedia.org/wiki/田村光久" title="wikilink">田村光久</a></p></td>
+<td><p><span style="display:none;">たむら みつひさ</span><a href="../Page/田村光久.md" title="wikilink">田村光久</a></p></td>
 <td><p>—</p></td>
 <td><p>2009.08</p></td>
 <td><p>2010.07</p></td>
@@ -183,7 +183,7 @@
 <tr class="odd">
 <td><p>12</p></td>
 <td><p><span style="display:none;">まほうのいろは</span><a href="https://ja.wikipedia.org/wiki/魔法のいろは!" title="wikilink">魔法のいろは!</a></p></td>
-<td><p><span style="display:none;">いのうえ かすろう</span><a href="https://ja.wikipedia.org/wiki/井上和郎" title="wikilink">井上和郎</a></p></td>
+<td><p><span style="display:none;">いのうえ かすろう</span><a href="../Page/井上和郎.md" title="wikilink">井上和郎</a></p></td>
 <td><p>—</p></td>
 <td><p>2009.10</p></td>
 <td><p>2011.02</p></td>
@@ -249,8 +249,8 @@
 <tr class="odd">
 <td><p>17</p></td>
 <td><p><span style="display:none;">あくむかり</span><a href="https://ja.wikipedia.org/wiki/悪夢狩り" title="wikilink">悪夢狩り</a></p></td>
-<td><p><span style="display:none"> ふしさき まさと</span> <a href="https://ja.wikipedia.org/wiki/藤崎聖人" title="wikilink">藤崎聖人</a></p></td>
-<td><p><span style="display:none"> おおさわ ありまさ </span> <a href="https://ja.wikipedia.org/wiki/大沢在昌" title="wikilink">大沢在昌</a></p></td>
+<td><p><span style="display:none"> ふしさき まさと</span> <a href="../Page/藤崎聖人.md" title="wikilink">藤崎聖人</a></p></td>
+<td><p><span style="display:none"> おおさわ ありまさ </span> <a href="../Page/大沢在昌.md" title="wikilink">大沢在昌</a></p></td>
 <td><p>2010.10</p></td>
 <td><p>2011.01</p></td>
 <td><p>—</p></td>
@@ -271,7 +271,7 @@
 <tr class="odd">
 <td><p>19</p></td>
 <td><p><span style="display:none;">いまわのくにのありす</span><a href="https://ja.wikipedia.org/wiki/今際の国のアリス" title="wikilink">今際の国のアリス</a></p></td>
-<td><p><span style="display:none;">あそう はろ</span><a href="https://ja.wikipedia.org/wiki/麻生羽呂" title="wikilink">麻生羽呂</a></p></td>
+<td><p><span style="display:none;">あそう はろ</span><a href="../Page/麻生羽呂.md" title="wikilink">麻生羽呂</a></p></td>
 <td><p>—</p></td>
 <td><p>2010.12</p></td>
 <td><p>2015.05</p></td>
@@ -363,7 +363,7 @@
 <td><p>26</p></td>
 <td><p><span style="display:none;">くつくとつほ</span><a href="https://ja.wikipedia.org/wiki/クックドッポ" title="wikilink">クックドッポ</a></p></td>
 <td><p><span style="display:none"> やまなか こうた</span> <a href="https://ja.wikipedia.org/wiki/山仲剛太" title="wikilink">山仲剛太</a></p></td>
-<td><p><span style="display:none"> うおつか しんのすけ </span> <a href="https://ja.wikipedia.org/wiki/魚柄仁之助" title="wikilink">魚柄仁之助</a></p></td>
+<td><p><span style="display:none"> うおつか しんのすけ </span> <a href="../Page/魚柄仁之助.md" title="wikilink">魚柄仁之助</a></p></td>
 <td><p>2011.07</p></td>
 <td><p>2012.11</p></td>
 <td><p>2011.07.21</p></td>
@@ -438,8 +438,8 @@
 </tr>
 <tr class="even">
 <td><p>32</p></td>
-<td><p><span style="display:none;">からふるはやてのことく</span><a href="https://ja.wikipedia.org/wiki/ハヤテのごとく!" title="wikilink">カラフルハヤテのごとく!</a></p></td>
-<td><p><span style="display:none;">はた けんしろう</span><a href="https://ja.wikipedia.org/wiki/畑健二郎" title="wikilink">畑健二郎</a></p></td>
+<td><p><span style="display:none;">からふるはやてのことく</span><a href="../Page/ハヤテのごとく!.md" title="wikilink">カラフルハヤテのごとく!</a></p></td>
+<td><p><span style="display:none;">はた けんしろう</span><a href="../Page/畑健二郎.md" title="wikilink">畑健二郎</a></p></td>
 <td><p>—</p></td>
 <td><p>2012.03</p></td>
 <td><p>2012.11</p></td>
@@ -505,7 +505,7 @@
 </tr>
 <tr class="even">
 <td><p>38</p></td>
-<td><p><span style="display:none;">めいたんていこなんせいきまつのましゆつし</span><a href="https://ja.wikipedia.org/wiki/名探偵コナン_世紀末の魔術師" title="wikilink">名探偵コナン 世紀末の魔術師</a></p></td>
+<td><p><span style="display:none;">めいたんていこなんせいきまつのましゆつし</span><a href="../Page/名探偵コナン_世紀末の魔術師.md" title="wikilink">名探偵コナン 世紀末の魔術師</a></p></td>
 <td><p><span style="display:none"> あへ ゆたか まる てんしろう</span> <a href="https://ja.wikipedia.org/wiki/阿部ゆたか" title="wikilink">阿部ゆたか</a>・<br />
 <a href="https://ja.wikipedia.org/wiki/丸伝次郎" title="wikilink">丸伝次郎</a></p></td>
 <td><p><span style="display:none"> あおやま こうしよう </span> <a href="../Page/青山剛昌.md" title="wikilink">青山剛昌</a></p></td>
@@ -518,7 +518,7 @@
 <tr class="odd">
 <td><p>39</p></td>
 <td><p><span style="display:none;">あうらまりゆういんこうかさいこのたたかい</span><a href="https://ja.wikipedia.org/wiki/AURA_〜魔竜院光牙最後の闘い〜" title="wikilink">AURA 〜魔竜院光牙最後の闘い〜</a></p></td>
-<td><p><span style="display:none"> ほしの こういちろう</span> <a href="https://ja.wikipedia.org/wiki/星野倖一郎" title="wikilink">星野倖一郎</a><br />
+<td><p><span style="display:none"> ほしの こういちろう</span> <a href="../Page/星野倖一郎.md" title="wikilink">星野倖一郎</a><br />
 <span style="display:none"> めはえ</span> <a href="https://ja.wikipedia.org/wiki/mebae" title="wikilink">mebae</a>　</p></td>
 <td><p><span style="display:none"> なたか ろみお </span> <a href="../Page/田中ロミオ.md" title="wikilink">田中ロミオ</a></p></td>
 <td><p>2012.04</p></td>
@@ -529,8 +529,8 @@
 </tr>
 <tr class="even">
 <td><p>40</p></td>
-<td><p><span style="display:none;">ししようさいきようのてしけんいちふらす</span><a href="https://ja.wikipedia.org/wiki/史上最強の弟子ケンイチ" title="wikilink">史上最強の弟子ケンイチ</a>プラス</p></td>
-<td><p><span style="display:none;">まつえな しゆん</span><a href="https://ja.wikipedia.org/wiki/松江名俊" title="wikilink">松江名俊</a></p></td>
+<td><p><span style="display:none;">ししようさいきようのてしけんいちふらす</span><a href="../Page/史上最強の弟子ケンイチ.md" title="wikilink">史上最強の弟子ケンイチ</a>プラス</p></td>
+<td><p><span style="display:none;">まつえな しゆん</span><a href="../Page/松江名俊.md" title="wikilink">松江名俊</a></p></td>
 <td><p>—</p></td>
 <td><p>2012.04</p></td>
 <td><p>2012.06</p></td>
@@ -645,8 +645,8 @@
 </tr>
 <tr class="even">
 <td><p>50</p></td>
-<td><p><span style="display:none;">はやてのことくめいさくけきしょう</span><a href="https://ja.wikipedia.org/wiki/ハヤテのごとく!" title="wikilink">ハヤテのごとく! 名作劇場</a></p></td>
-<td><p><span style="display:none;">はた けんしろう</span><a href="https://ja.wikipedia.org/wiki/畑健二郎" title="wikilink">畑健二郎</a></p></td>
+<td><p><span style="display:none;">はやてのことくめいさくけきしょう</span><a href="../Page/ハヤテのごとく!.md" title="wikilink">ハヤテのごとく! 名作劇場</a></p></td>
+<td><p><span style="display:none;">はた けんしろう</span><a href="../Page/畑健二郎.md" title="wikilink">畑健二郎</a></p></td>
 <td><p>—</p></td>
 <td><p>2012.12</p></td>
 <td><p>2013.04</p></td>
@@ -701,7 +701,7 @@
 <tr class="odd">
 <td><p>54</p></td>
 <td><p><span style="display:none;">きとうせんしかんたむ こくいのかりうと</span><a href="https://ja.wikipedia.org/wiki/機動戦士ガンダム_黒衣の狩人" title="wikilink">機動戦士ガンダム 黒衣の狩人</a></p></td>
-<td><p><span style="display:none"> はんしよう たいち</span><a href="https://ja.wikipedia.org/wiki/万乗大智" title="wikilink">万乗大智</a></p></td>
+<td><p><span style="display:none"> はんしよう たいち</span><a href="../Page/万乗大智.md" title="wikilink">万乗大智</a></p></td>
 <td><p><span style="display:none"> やたて はしめ とみの よしゆき </span> <a href="../Page/矢立肇.md" title="wikilink">矢立肇</a>・<br />
 <a href="../Page/富野由悠季.md" title="wikilink">富野由悠季</a></p></td>
 <td><p>2013.02</p></td>
@@ -739,7 +739,7 @@
 <td><p><span style="display:none;">しあんりみてつとひようふきようすけ</span><a href="https://ja.wikipedia.org/wiki/絶対可憐チルドレン_(アニメ)#THE_UNLIMITED_兵部京介" title="wikilink">THE UNLIMITED 兵部京介</a></p></td>
 <td><p><span style="display:none"> おおがき ろくろう</span> <a href="https://ja.wikipedia.org/wiki/大柿ロクロウ" title="wikilink">大柿ロクロウ</a></p></td>
 <td><p><span style="display:none"> しいな たかし </span> <a href="../Page/椎名高志.md" title="wikilink">椎名高志</a><br />
-<span style="display:none"> いのつめ しんいち </span> <a href="https://ja.wikipedia.org/wiki/猪爪慎一" title="wikilink">猪爪慎一</a></p></td>
+<span style="display:none"> いのつめ しんいち </span> <a href="../Page/猪爪慎一.md" title="wikilink">猪爪慎一</a></p></td>
 <td><p>2013.05</p></td>
 <td><p>2015.09</p></td>
 <td><p>—</p></td>
@@ -772,7 +772,7 @@
 <tr class="odd">
 <td><p>60</p></td>
 <td><p><span style="display:none;">きとうせんしかんたむ ふああいいすとしやはん</span><a href="https://ja.wikipedia.org/wiki/機動戦士ガンダム_FAR_EAST_JAPAN" title="wikilink">機動戦士ガンダム FAR EAST JAPAN</a></p></td>
-<td><p><span style="display:none"> おおたに あきら</span><a href="https://ja.wikipedia.org/wiki/大谷アキラ" title="wikilink">大谷アキラ</a></p></td>
+<td><p><span style="display:none"> おおたに あきら</span><a href="../Page/大谷アキラ.md" title="wikilink">大谷アキラ</a></p></td>
 <td><p><span style="display:none"> やたて はしめ とみの よしゆき </span> <a href="../Page/矢立肇.md" title="wikilink">矢立肇</a>・<br />
 <a href="../Page/富野由悠季.md" title="wikilink">富野由悠季</a></p></td>
 <td><p>2013.07</p></td>
@@ -797,7 +797,7 @@
 <td><p><span style="display:none;">ささみさんかんはらない</span><a href="https://ja.wikipedia.org/wiki/ささみさん@がんばらない" title="wikilink">ささみさん@がんばらない</a></p></td>
 <td><p><span style="display:none"> にしかわ あきら</span><a href="https://ja.wikipedia.org/wiki/西川彰" title="wikilink">西川彰</a><br />
 <span style="display:none"> ひだり </span> <a href="https://ja.wikipedia.org/wiki/左_(イラストレーター)" title="wikilink">左</a></p></td>
-<td><p><span style="display:none"> あきら </span> <a href="https://ja.wikipedia.org/wiki/日日日" title="wikilink">日日日</a></p></td>
+<td><p><span style="display:none"> あきら </span> <a href="../Page/日日日.md" title="wikilink">日日日</a></p></td>
 <td><p>2013.08</p></td>
 <td><p>2013.11</p></td>
 <td><p>—</p></td>
@@ -878,7 +878,7 @@
 <td><p><span style="display:none;">さいこはすとれえと</span>[[最後は?ストレート</p></td>
 <td><p>|最後は?ストレート</p></td>
 <td><p>]]</p></td>
-<td><p><span style="display:none;">さむかわ かすゆき</span><a href="https://ja.wikipedia.org/wiki/寒川一之" title="wikilink">寒川一之</a></p></td>
+<td><p><span style="display:none;">さむかわ かすゆき</span><a href="../Page/寒川一之.md" title="wikilink">寒川一之</a></p></td>
 <td><p>—</p></td>
 <td><p>2014.03</p></td>
 <td><p>2016.02</p></td>
@@ -943,7 +943,7 @@
 </tr>
 <tr class="even">
 <td><p>74</p></td>
-<td><p><span style="display:none;">めいたんていこなんとけいしかけのまてんろう</span><a href="https://ja.wikipedia.org/wiki/名探偵コナン_時計じかけの摩天楼" title="wikilink">名探偵コナン 時計じかけの摩天楼</a></p></td>
+<td><p><span style="display:none;">めいたんていこなんとけいしかけのまてんろう</span><a href="../Page/名探偵コナン_時計じかけの摩天楼.md" title="wikilink">名探偵コナン 時計じかけの摩天楼</a></p></td>
 <td><p><span style="display:none"> あへ ゆたか まる てんしろう</span> <a href="https://ja.wikipedia.org/wiki/阿部ゆたか" title="wikilink">阿部ゆたか</a>・<br />
 <a href="https://ja.wikipedia.org/wiki/丸伝次郎" title="wikilink">丸伝次郎</a></p></td>
 <td><p><span style="display:none"> あおやま こうしよう </span> <a href="../Page/青山剛昌.md" title="wikilink">青山剛昌</a></p></td>
@@ -967,7 +967,7 @@
 <tr class="even">
 <td><p>76</p></td>
 <td><p><span style="display:none;">くのおしすまあち</span><a href="https://ja.wikipedia.org/wiki/グノーシス・マーチ" title="wikilink">グノーシス・マーチ</a></p></td>
-<td><p><span style="display:none;">ほしの こういちろう</span><a href="https://ja.wikipedia.org/wiki/星野倖一郎" title="wikilink">星野倖一郎</a></p></td>
+<td><p><span style="display:none;">ほしの こういちろう</span><a href="../Page/星野倖一郎.md" title="wikilink">星野倖一郎</a></p></td>
 <td><p>—</p></td>
 <td><p>2014.08</p></td>
 <td><p>2015.10</p></td>
@@ -1024,7 +1024,7 @@
 <tr class="odd">
 <td><p>81</p></td>
 <td><p><span style="display:none;">きとうせんしかんたむ あくれつさあ</span><strong><a href="https://ja.wikipedia.org/wiki/機動戦士ガンダム_アグレッサー" title="wikilink">機動戦士ガンダム アグレッサー</a></strong></p></td>
-<td><p><span style="display:none"> はんしよう たいち</span><a href="https://ja.wikipedia.org/wiki/万乗大智" title="wikilink">万乗大智</a></p></td>
+<td><p><span style="display:none"> はんしよう たいち</span><a href="../Page/万乗大智.md" title="wikilink">万乗大智</a></p></td>
 <td><p><span style="display:none"> やたて はしめ とみの よしゆき </span> <a href="../Page/矢立肇.md" title="wikilink">矢立肇</a>・<br />
 <a href="../Page/富野由悠季.md" title="wikilink">富野由悠季</a></p></td>
 <td><p>2014.12</p></td>
@@ -1235,7 +1235,7 @@
 <tr class="even">
 <td><p>98</p></td>
 <td><p><span style="display:none;">とうしゆうしへすていありうす</span><a href="https://ja.wikipedia.org/wiki/闘獣士_ベスティアリウス" title="wikilink">闘獣士 ベスティアリウス</a></p></td>
-<td><p><span style="display:none;">かきさき まさすみ</span><a href="https://ja.wikipedia.org/wiki/柿崎正澄" title="wikilink">柿崎正澄</a></p></td>
+<td><p><span style="display:none;">かきさき まさすみ</span><a href="../Page/柿崎正澄.md" title="wikilink">柿崎正澄</a></p></td>
 <td><p>—</p></td>
 <td><p>2016.02</p></td>
 <td><p>2019.02</p></td>
@@ -1258,7 +1258,7 @@
 <tr class="even">
 <td><p>100</p></td>
 <td><p><span style="display:none;">していほうりよくしようしよしおみちやん</span><a href="https://ja.wikipedia.org/wiki/指定暴力少女_しおみちゃん" title="wikilink">指定暴力少女 しおみちゃん</a></p></td>
-<td><p><span style="display:none">いのうえ かすろう</span><a href="https://ja.wikipedia.org/wiki/井上和郎" title="wikilink">井上和郎</a></p></td>
+<td><p><span style="display:none">いのうえ かすろう</span><a href="../Page/井上和郎.md" title="wikilink">井上和郎</a></p></td>
 <td><p>—</p></td>
 <td><p>2016.07</p></td>
 <td><p>2018.12</p></td>
@@ -1291,7 +1291,7 @@
 </tr>
 <tr class="odd">
 <td><p>103</p></td>
-<td><p><span style="display:none;">めいたんていこなんめいきゆうのくろすろおと</span><a href="https://ja.wikipedia.org/wiki/名探偵コナン_迷宮の十字路" title="wikilink">名探偵コナン 迷宮の十字路</a></p></td>
+<td><p><span style="display:none;">めいたんていこなんめいきゆうのくろすろおと</span><a href="../Page/名探偵コナン_迷宮の十字路.md" title="wikilink">名探偵コナン 迷宮の十字路</a></p></td>
 <td><p><span style="display:none"> あへ ゆたか まる てんしろう</span> <a href="https://ja.wikipedia.org/wiki/阿部ゆたか" title="wikilink">阿部ゆたか</a>・<br />
 <a href="https://ja.wikipedia.org/wiki/丸伝次郎" title="wikilink">丸伝次郎</a></p></td>
 <td><p><span style="display:none"> あおやま こうしよう </span> <a href="../Page/青山剛昌.md" title="wikilink">青山剛昌</a></p></td>
@@ -1382,7 +1382,7 @@
 <tr class="odd">
 <td><p>109</p></td>
 <td><p><span style="display:none;">さしよおまん</span><strong><a href="https://ja.wikipedia.org/wiki/THE_SHOWMAN" title="wikilink">THE SHOWMAN</a></strong></p></td>
-<td><p><span style="display:none">きくた ひろゆき</span><a href="https://ja.wikipedia.org/wiki/菊田洋之" title="wikilink">菊田洋之</a></p></td>
+<td><p><span style="display:none">きくた ひろゆき</span><a href="../Page/菊田洋之.md" title="wikilink">菊田洋之</a></p></td>
 <td><p><span style="display:none"> うちむら こうへい </span> <a href="https://ja.wikipedia.org/wiki/内村航平" title="wikilink">内村航平</a></p></td>
 <td><p>2018.02</p></td>
 <td><p>連載中</p></td>
@@ -1589,20 +1589,20 @@
 
   - **1978 - 1980年連載開始**
       - [ファントム無頼](../Page/ファントム無頼.md "wikilink")（原作：[史村翔](../Page/武論尊.md "wikilink")、作画：[新谷かおる](../Page/新谷かおる.md "wikilink")）1978.4
-      - [ナイン](https://ja.wikipedia.org/wiki/ナイン_\(漫画\) "wikilink")（[あだち充](../Page/あだち充.md "wikilink")）1978.10
+      - [ナイン](../Page/ナイン_\(漫画\).md "wikilink")（[あだち充](../Page/あだち充.md "wikilink")）1978.10
       - [エーイ\!剣道](https://ja.wikipedia.org/wiki/エーイ!剣道 "wikilink")（[村上もとか](../Page/村上もとか.md "wikilink")）1978.11
-      - [プロゴルファー猿](https://ja.wikipedia.org/wiki/プロゴルファー猿 "wikilink")（[藤子不二雄](../Page/藤子不二雄.md "wikilink")、現[藤子不二雄<span class="Unicode">Ⓐ</span>](../Page/藤子不二雄A.md "wikilink")））1979.10（←本誌週刊連載より移籍）
+      - [プロゴルファー猿](../Page/プロゴルファー猿.md "wikilink")（[藤子不二雄](../Page/藤子不二雄.md "wikilink")、現[藤子不二雄<span class="Unicode">Ⓐ</span>](../Page/藤子不二雄A.md "wikilink")））1979.10（←本誌週刊連載より移籍）
       - [ラグタイムブルース](https://ja.wikipedia.org/wiki/ラグタイムブルース "wikilink")（[石渡治](../Page/石渡治.md "wikilink")）1979.12
-      - [さすがの猿飛](https://ja.wikipedia.org/wiki/さすがの猿飛 "wikilink")（[細野不二彦](../Page/細野不二彦.md "wikilink")）1980.8
+      - [さすがの猿飛](../Page/さすがの猿飛.md "wikilink")（[細野不二彦](../Page/細野不二彦.md "wikilink")）1980.8
   - **1981年連載開始**
       - [ドクにまかせろ](https://ja.wikipedia.org/wiki/ドクにまかせろ "wikilink")（原作：[水谷龍二](https://ja.wikipedia.org/wiki/水谷龍二 "wikilink")、作画：[内山まもる](../Page/内山まもる.md "wikilink")）1981.2
-      - [いつからか二人](https://ja.wikipedia.org/wiki/いつからか二人 "wikilink")（原作：[竹山洋](https://ja.wikipedia.org/wiki/竹山洋 "wikilink")、作画：[ほそかわ春](https://ja.wikipedia.org/wiki/ほそかわ春 "wikilink")）1981.2
+      - [いつからか二人](https://ja.wikipedia.org/wiki/いつからか二人 "wikilink")（原作：[竹山洋](../Page/竹山洋.md "wikilink")、作画：[ほそかわ春](https://ja.wikipedia.org/wiki/ほそかわ春 "wikilink")）1981.2
       - [IQボーイ](https://ja.wikipedia.org/wiki/IQボーイ "wikilink")（[小久保政則](https://ja.wikipedia.org/wiki/小久保政則 "wikilink")）1981.3
       - [ストライカー隼人](https://ja.wikipedia.org/wiki/ストライカー隼人 "wikilink")（[小林辰禎](https://ja.wikipedia.org/wiki/小林辰禎 "wikilink")）1981.4
       - [チャンス](https://ja.wikipedia.org/wiki/チャンス_\(漫画\) "wikilink")（[里見桂](../Page/里見桂.md "wikilink")）1981.10
       - [らぶらぶぽりす](https://ja.wikipedia.org/wiki/らぶらぶぽりす "wikilink")（[原秀則](../Page/原秀則.md "wikilink")）1981.10
       - [わんぱく戦士](https://ja.wikipedia.org/wiki/わんぱく戦士 "wikilink")（[姉帯まさみ](https://ja.wikipedia.org/wiki/姉帯まさみ "wikilink")）1981.11
-      - [ジャスティ](https://ja.wikipedia.org/wiki/ジャスティ_\(漫画\) "wikilink")（[岡崎つぐお](../Page/岡崎つぐお.md "wikilink")）1981.11
+      - [ジャスティ](../Page/ジャスティ_\(漫画\).md "wikilink")（[岡崎つぐお](../Page/岡崎つぐお.md "wikilink")）1981.11
       - [ブリッ子リカちゃん](https://ja.wikipedia.org/wiki/ブリッ子リカちゃん "wikilink")（[さとうしんまる](https://ja.wikipedia.org/wiki/さとうしんまる "wikilink")）1981.11
   - **1982年連載開始**
       - [風の戦士ダン](https://ja.wikipedia.org/wiki/風の戦士ダン "wikilink")（原作：[雁屋哲](https://ja.wikipedia.org/wiki/雁屋哲 "wikilink")、作画：[島本和彦](../Page/島本和彦.md "wikilink")）1982.6
@@ -1639,34 +1639,34 @@
       - [THE GOOD MEN](https://ja.wikipedia.org/wiki/THE_GOOD_MEN "wikilink")（[里見桂](../Page/里見桂.md "wikilink")）1985.4
       - [蒼い妖魔たち](https://ja.wikipedia.org/wiki/蒼い妖魔たち "wikilink")（[鈴宮和由](../Page/鈴宮和由.md "wikilink")）1985.8
       - [川俣先生教育日誌](https://ja.wikipedia.org/wiki/川俣先生教育日誌 "wikilink")（[天獅子悦也](https://ja.wikipedia.org/wiki/天獅子悦也 "wikilink")）1985.9
-      - [最先端くらぶ](https://ja.wikipedia.org/wiki/最先端くらぶ "wikilink")（[斉藤むねお](https://ja.wikipedia.org/wiki/斉藤むねお "wikilink")）1985.10
-      - [ジャストミート外伝 ふぁうるちっぷ](https://ja.wikipedia.org/wiki/ジャストミート_\(漫画\) "wikilink")（[原秀則](../Page/原秀則.md "wikilink")）1985.11
+      - [最先端くらぶ](https://ja.wikipedia.org/wiki/最先端くらぶ "wikilink")（[斉藤むねお](../Page/斉藤むねお.md "wikilink")）1985.10
+      - [ジャストミート外伝 ふぁうるちっぷ](../Page/ジャストミート_\(漫画\).md "wikilink")（[原秀則](../Page/原秀則.md "wikilink")）1985.11
       - [拝啓サラダボーイ](https://ja.wikipedia.org/wiki/拝啓サラダボーイ "wikilink")（[こしたてつひろ](../Page/こしたてつひろ.md "wikilink")）1985.12
 
 ### 第二期（1986 - 1990年連載開始）
 
   - **1986年連載開始**
       - [まぼろし佑幻](https://ja.wikipedia.org/wiki/まぼろし佑幻 "wikilink")（[克・亜樹](../Page/克・亜樹.md "wikilink")）1986.2
-      - [徳川生徒会](https://ja.wikipedia.org/wiki/徳川生徒会 "wikilink")（[中津賢也](../Page/中津賢也.md "wikilink")）1986.4
+      - [徳川生徒会](../Page/徳川生徒会.md "wikilink")（[中津賢也](../Page/中津賢也.md "wikilink")）1986.4
       - [私立終点高校](https://ja.wikipedia.org/wiki/私立終点高校 "wikilink")（原作：[きむらはじめ](https://ja.wikipedia.org/wiki/きむらはじめ_\(漫画原作者\) "wikilink")、作画：[藤原芳秀](../Page/藤原芳秀.md "wikilink")）1986.5
       - [JAGGY](https://ja.wikipedia.org/wiki/JAGGY "wikilink")（[岡村賢二](../Page/岡村賢二.md "wikilink")）1986.6
       - [キャラバン・キッド](https://ja.wikipedia.org/wiki/キャラバン・キッド "wikilink")（[真鍋譲治](../Page/真鍋譲治.md "wikilink")）1986.8
-      - [八神くんの家庭の事情](https://ja.wikipedia.org/wiki/八神くんの家庭の事情 "wikilink")（[楠桂](../Page/楠桂.md "wikilink")）1986.11
+      - [八神くんの家庭の事情](../Page/八神くんの家庭の事情.md "wikilink")（[楠桂](../Page/楠桂.md "wikilink")）1986.11
       - [ブラッディエンジェルズ](https://ja.wikipedia.org/wiki/ブラッディエンジェルズ "wikilink")（[みず谷なおき](../Page/みず谷なおき.md "wikilink")）986.11
       - [ラジカル庭球団](https://ja.wikipedia.org/wiki/ラジカル庭球団 "wikilink")（[森真理](https://ja.wikipedia.org/wiki/森真理 "wikilink")）1986.11
   - **1987年連載開始**
       - [一番星のジャッカル](https://ja.wikipedia.org/wiki/一番星のジャッカル "wikilink")（[島本和彦](../Page/島本和彦.md "wikilink")）1987.1
       - [アシュギーネ](https://ja.wikipedia.org/wiki/アシュギーネ "wikilink")（[神崎将臣](../Page/神崎将臣.md "wikilink")）1987.4
-      - [ヒューマン・リーグ](https://ja.wikipedia.org/wiki/ヒューマン・リーグ_\(漫画\) "wikilink")（原作：[野沢尚](../Page/野沢尚.md "wikilink")、[斉藤むねお](https://ja.wikipedia.org/wiki/斉藤むねお "wikilink")）1987.4
+      - [ヒューマン・リーグ](https://ja.wikipedia.org/wiki/ヒューマン・リーグ_\(漫画\) "wikilink")（原作：[野沢尚](../Page/野沢尚.md "wikilink")、[斉藤むねお](../Page/斉藤むねお.md "wikilink")）1987.4
       - [鉄人倶楽部](https://ja.wikipedia.org/wiki/鉄人倶楽部 "wikilink")（[青木英子](https://ja.wikipedia.org/wiki/青木英子 "wikilink")）1987.7
       - [お茶の間てんやわんや劇場](https://ja.wikipedia.org/wiki/お茶の間てんやわんや劇場 "wikilink")（[喜国雅彦](../Page/喜国雅彦.md "wikilink")）1987.7
       - [OH\!サッカー部物語](https://ja.wikipedia.org/wiki/OH!サッカー部物語 "wikilink")（[中村佳美](https://ja.wikipedia.org/wiki/中村佳美 "wikilink")）1987.9
       - [桃色天国](https://ja.wikipedia.org/wiki/桃色天国 "wikilink")（[小野新二](https://ja.wikipedia.org/wiki/小野新二 "wikilink")）1987.10
       - [少年雀鬼-東-](https://ja.wikipedia.org/wiki/少年雀鬼-東- "wikilink")（[中島徹](../Page/中島徹_\(漫画家\).md "wikilink")）1987.10
-      - [なーんとなくブーリン](https://ja.wikipedia.org/wiki/なーんとなくブーリン "wikilink")（[森真理](https://ja.wikipedia.org/wiki/森真理 "wikilink")）1987.10
-      - [まじっく快斗](https://ja.wikipedia.org/wiki/まじっく快斗 "wikilink")（[青山剛昌](../Page/青山剛昌.md "wikilink")）1987.11（→系列誌読切等で断続的に継続）
+      - [なーんとなくブーリン](../Page/なーんとなくブーリン.md "wikilink")（[森真理](https://ja.wikipedia.org/wiki/森真理 "wikilink")）1987.10
+      - [まじっく快斗](../Page/まじっく快斗.md "wikilink")（[青山剛昌](../Page/青山剛昌.md "wikilink")）1987.11（→系列誌読切等で断続的に継続）
       - [ファイター](https://ja.wikipedia.org/wiki/ファイター（漫画） "wikilink")（[池田鷹一](https://ja.wikipedia.org/wiki/池田鷹一 "wikilink")）1987.11（←本誌読切より連載化）
-      - [Let's漁平](https://ja.wikipedia.org/wiki/Let's漁平 "wikilink")（[岩村俊哉](https://ja.wikipedia.org/wiki/岩村俊哉 "wikilink")）1987.11
+      - [Let's漁平](https://ja.wikipedia.org/wiki/Let's漁平 "wikilink")（[岩村俊哉](../Page/岩村俊哉.md "wikilink")）1987.11
       - [すっかりれっどぞ〜ん](https://ja.wikipedia.org/wiki/すっかりれっどぞ〜ん "wikilink")（[小川智明](https://ja.wikipedia.org/wiki/小川智明 "wikilink")）1987.11
       - [スポーツてんこ盛り](https://ja.wikipedia.org/wiki/スポーツてんこ盛り "wikilink")（[あおやま英雄](https://ja.wikipedia.org/wiki/あおやま英雄 "wikilink")）1987.12
   - **1988年連載開始**（この年のみ誌名ロゴが週刊本誌と根本的に異なる）
@@ -1693,7 +1693,7 @@
       - [青春タイブレーク\!](https://ja.wikipedia.org/wiki/青春タイブレーク! "wikilink")（[松崎晴臣](https://ja.wikipedia.org/wiki/松崎晴臣 "wikilink")）1989.10
       - [光路郎](../Page/光路郎.md "wikilink")（[村枝賢一](../Page/村枝賢一.md "wikilink")）1989.11
   - **1990年連載開始**
-      - [RATS](https://ja.wikipedia.org/wiki/RATS_\(漫画\) "wikilink")（[中平正彦](https://ja.wikipedia.org/wiki/中平正彦 "wikilink")）
+      - [RATS](https://ja.wikipedia.org/wiki/RATS_\(漫画\) "wikilink")（[中平正彦](../Page/中平正彦.md "wikilink")）
       - [ボディハード](https://ja.wikipedia.org/wiki/ボディハード "wikilink")（[ほんまかずひろ](https://ja.wikipedia.org/wiki/ほんまかずひろ "wikilink")）1990.1
       - [(有) 椎名百貨店](../Page/\(有\)_椎名百貨店.md "wikilink")（[椎名高志](../Page/椎名高志.md "wikilink")）1990.2
       - [乱調野球部ピーターズ](https://ja.wikipedia.org/wiki/乱調野球部ピーターズ "wikilink")（[百瀬武昭](https://ja.wikipedia.org/wiki/百瀬武昭 "wikilink")）1990.4
@@ -1704,10 +1704,10 @@
 ### 第三期（1991 - 1994年連載開始）
 
   - **1991年連載開始**
-      - [戦国甲子園〜九犬士伝説〜](https://ja.wikipedia.org/wiki/戦国甲子園〜九犬士伝説〜 "wikilink")（[桐山光侍](https://ja.wikipedia.org/wiki/桐山光侍 "wikilink")）1991.1（→本誌週刊連載へ移籍）
+      - [戦国甲子園〜九犬士伝説〜](https://ja.wikipedia.org/wiki/戦国甲子園〜九犬士伝説〜 "wikilink")（[桐山光侍](../Page/桐山光侍.md "wikilink")）1991.1（→本誌週刊連載へ移籍）
       - [乱破S.S.](../Page/乱破S.S..md "wikilink")（[椎名高志](../Page/椎名高志.md "wikilink")）1991.1
       - [ギャンブル王子 嵐](https://ja.wikipedia.org/wiki/ギャンブル王子_嵐 "wikilink")（[中島徹](../Page/中島徹_\(漫画家\).md "wikilink")）1991.1
-      - [ラインを越えて](https://ja.wikipedia.org/wiki/ラインを越えて "wikilink")（[林崎文博](https://ja.wikipedia.org/wiki/林崎文博 "wikilink")）1991.1
+      - [ラインを越えて](https://ja.wikipedia.org/wiki/ラインを越えて "wikilink")（[林崎文博](../Page/林崎文博.md "wikilink")）1991.1
       - [ウイニングタッチ](https://ja.wikipedia.org/wiki/ウイニングタッチ "wikilink")（[神代光](https://ja.wikipedia.org/wiki/神代光 "wikilink")）1991.2
       - [THE KENDO](https://ja.wikipedia.org/wiki/THE_KENDO "wikilink")（[南園英光](https://ja.wikipedia.org/wiki/南園英光 "wikilink")）1991.3
       - [しげるが一番\!](https://ja.wikipedia.org/wiki/しげるが一番! "wikilink")（[林崎広美](https://ja.wikipedia.org/wiki/林崎広美 "wikilink")）1991.6
@@ -1726,12 +1726,12 @@
       - [カルメン](https://ja.wikipedia.org/wiki/カルメン_\(漫画\) "wikilink")（[福田徹守](https://ja.wikipedia.org/wiki/福田徹守 "wikilink")）1992.4
       - [遠き落日](https://ja.wikipedia.org/wiki/遠き落日_\(漫画\) "wikilink")（作画：[内田夕子](https://ja.wikipedia.org/wiki/内田夕子 "wikilink")、脚色：[上代努](https://ja.wikipedia.org/wiki/上代努 "wikilink")）1992.5
       - [超時空要塞マクロスII](https://ja.wikipedia.org/wiki/超時空要塞マクロスII "wikilink")（作画：[岡崎つぐお](../Page/岡崎つぐお.md "wikilink")）1992.5
-      - [鬼切丸](https://ja.wikipedia.org/wiki/鬼切丸 "wikilink")（[楠桂](../Page/楠桂.md "wikilink")）1992.7
+      - [鬼切丸](../Page/鬼切丸.md "wikilink")（[楠桂](../Page/楠桂.md "wikilink")）1992.7
       - [トワイライトチャンネル](https://ja.wikipedia.org/wiki/トワイライトチャンネル "wikilink")（[楠桂](../Page/楠桂.md "wikilink")）1992.7
       - [燃える\!\!女子プロレス](https://ja.wikipedia.org/wiki/燃える!!女子プロレス "wikilink")（[島本和彦](../Page/島本和彦.md "wikilink")）1992.8
-      - [スプリガン](../Page/スプリガン_\(漫画\).md "wikilink")（原作：[たかしげ宙](https://ja.wikipedia.org/wiki/たかしげ宙 "wikilink")、作画：[皆川亮二](../Page/皆川亮二.md "wikilink")）1992.8（←本誌週刊連載より移籍）
+      - [スプリガン](../Page/スプリガン_\(漫画\).md "wikilink")（原作：[たかしげ宙](../Page/たかしげ宙.md "wikilink")、作画：[皆川亮二](../Page/皆川亮二.md "wikilink")）1992.8（←本誌週刊連載より移籍）
       - [ひと夏の少女](https://ja.wikipedia.org/wiki/ひと夏の少女 "wikilink")（[木下健二](https://ja.wikipedia.org/wiki/木下健二 "wikilink")）1992.10
-      - [BANBA〜雪の大地〜](https://ja.wikipedia.org/wiki/BANBA〜雪の大地〜 "wikilink")（[姫川明](https://ja.wikipedia.org/wiki/姫川明 "wikilink")、小野ぬい）1992.11
+      - [BANBA〜雪の大地〜](https://ja.wikipedia.org/wiki/BANBA〜雪の大地〜 "wikilink")（[姫川明](../Page/姫川明.md "wikilink")、小野ぬい）1992.11
       - [ミッドナイトエンジェル](https://ja.wikipedia.org/wiki/ミッドナイトエンジェル "wikilink")（[ひらまつつとむ](../Page/ひらまつつとむ.md "wikilink")）1992.11
   - **1993年連載開始**
       - [白蓮のファング](https://ja.wikipedia.org/wiki/白蓮のファング "wikilink")（[高橋よしひろ](../Page/高橋よしひろ.md "wikilink")）1993.3
@@ -1740,60 +1740,60 @@
       - [ちくちくウニウニ](https://ja.wikipedia.org/wiki/ちくちくウニウニ "wikilink")（[吉田戦車](https://ja.wikipedia.org/wiki/吉田戦車 "wikilink")）1993.4（←本誌週刊連載より移籍）
       - [キャットルーキー](../Page/キャットルーキー.md "wikilink")（[丹羽啓介](https://ja.wikipedia.org/wiki/丹羽啓介 "wikilink")）1993.5
       - [倒叫ラブストーリー](https://ja.wikipedia.org/wiki/倒叫ラブストーリー "wikilink")（[KANB](https://ja.wikipedia.org/wiki/KANB "wikilink")）1993.6
-      - [KOアーティスト](https://ja.wikipedia.org/wiki/KOアーティスト "wikilink")（原作：[松田隆智](https://ja.wikipedia.org/wiki/松田隆智 "wikilink")、作画：[佐藤智子](https://ja.wikipedia.org/wiki/佐藤智子_\(漫画家\) "wikilink")）1993.6
+      - [KOアーティスト](https://ja.wikipedia.org/wiki/KOアーティスト "wikilink")（原作：[松田隆智](../Page/松田隆智.md "wikilink")、作画：[佐藤智子](https://ja.wikipedia.org/wiki/佐藤智子_\(漫画家\) "wikilink")）1993.6
       - [プルート〜賢者の石伝説〜](https://ja.wikipedia.org/wiki/プルート〜賢者の石伝説〜 "wikilink")（[ひらまつつとむ](../Page/ひらまつつとむ.md "wikilink")）1993.7
       - [3on☆FREE](https://ja.wikipedia.org/wiki/3on☆FREE "wikilink")（[林崎広美](https://ja.wikipedia.org/wiki/林崎広美 "wikilink")）1993.9
       - [血まみれの行進](https://ja.wikipedia.org/wiki/血まみれの行進 "wikilink")（トリケラトプス）1993.10
-      - [カイジ](https://ja.wikipedia.org/wiki/カイジ_\(姫川明\) "wikilink")（[姫川明](https://ja.wikipedia.org/wiki/姫川明 "wikilink")、小野ぬい）1993.11
+      - [カイジ](https://ja.wikipedia.org/wiki/カイジ_\(姫川明\) "wikilink")（[姫川明](../Page/姫川明.md "wikilink")、小野ぬい）1993.11
       - [ザ・ガードBOY](https://ja.wikipedia.org/wiki/ザ・ガードBOY "wikilink")（原作：[宮崎二郎](../Page/宮崎まさる.md "wikilink")、作画：[風巻弦](https://ja.wikipedia.org/wiki/風巻弦 "wikilink")）1993.12
   - **1994年連載開始**
-      - [スーパーストリートファイターII](https://ja.wikipedia.org/wiki/スーパーストリートファイターII "wikilink")（[中平正彦](https://ja.wikipedia.org/wiki/中平正彦 "wikilink")）1994.3
+      - [スーパーストリートファイターII](https://ja.wikipedia.org/wiki/スーパーストリートファイターII "wikilink")（[中平正彦](../Page/中平正彦.md "wikilink")）1994.3
       - [鉄騎剣士武王伝](https://ja.wikipedia.org/wiki/鉄騎剣士武王伝 "wikilink")（原作：[梶賢吾](https://ja.wikipedia.org/wiki/梶賢吾 "wikilink")、作画：[岡村賢二](../Page/岡村賢二.md "wikilink")）1994.4
       - [気になるで\!\!](https://ja.wikipedia.org/wiki/気になるで!! "wikilink")（[噌西けんじ](https://ja.wikipedia.org/wiki/そにしけんじ "wikilink")）1994.4
       - [アニマルロック](https://ja.wikipedia.org/wiki/アニマルロック "wikilink")（[ふじひろこ](https://ja.wikipedia.org/wiki/ふじひろこ "wikilink")）1994.4
       - [Zin'sエフ・シー](https://ja.wikipedia.org/wiki/Zin'sエフ・シー "wikilink")（原作：[ヒロナカヤスシ](https://ja.wikipedia.org/wiki/ヒロナカヤスシ "wikilink")、作画：[馬場民雄](https://ja.wikipedia.org/wiki/馬場民雄 "wikilink")）1994.5
       - [バトレディーはるか](https://ja.wikipedia.org/wiki/バトレディーはるか "wikilink")（[工藤奏一郎](https://ja.wikipedia.org/wiki/工藤奏一郎 "wikilink")）1994.6
       - [Stand by me\!](https://ja.wikipedia.org/wiki/Stand_by_me! "wikilink")（[縞田歳朗](https://ja.wikipedia.org/wiki/縞田歳朗 "wikilink")）1994.6
-      - [サムライスピリッツ -魔界武芸帖-](https://ja.wikipedia.org/wiki/サムライスピリッツ_-魔界武芸帖- "wikilink")（脚本：[七月鏡一](https://ja.wikipedia.org/wiki/七月鏡一 "wikilink")、作画：[三好雄己](https://ja.wikipedia.org/wiki/三好雄己 "wikilink")）1994.7
+      - [サムライスピリッツ -魔界武芸帖-](https://ja.wikipedia.org/wiki/サムライスピリッツ_-魔界武芸帖- "wikilink")（脚本：[七月鏡一](../Page/七月鏡一.md "wikilink")、作画：[三好雄己](https://ja.wikipedia.org/wiki/三好雄己 "wikilink")）1994.7
       - [おさるなまさるくん超刑事編](https://ja.wikipedia.org/wiki/おさるなまさるくん超刑事編 "wikilink")（[長谷川清](https://ja.wikipedia.org/wiki/鮪オーケストラ "wikilink")）1994.12（←本誌週刊連載より移籍）
 
 ### 改題期（1995 - 1999年連載開始）
 
   - **1995年連載開始**
-      - [育ってダーリン\!\!](https://ja.wikipedia.org/wiki/育ってダーリン!! "wikilink")（[久米田康治](https://ja.wikipedia.org/wiki/久米田康治 "wikilink")）（未完のまま連載中断・後に週刊で完結編が掲載）
+      - [育ってダーリン\!\!](../Page/育ってダーリン!!.md "wikilink")（[久米田康治](../Page/久米田康治.md "wikilink")）（未完のまま連載中断・後に週刊で完結編が掲載）
       - [おねーさんが一番\!\!](https://ja.wikipedia.org/wiki/おねーさんが一番!! "wikilink")（[縞田歳朗](https://ja.wikipedia.org/wiki/縞田歳朗 "wikilink")）
       - [孤島の冒険者](https://ja.wikipedia.org/wiki/孤島の冒険者 "wikilink")（[高橋よしひろ](../Page/高橋よしひろ.md "wikilink")）
-      - [臥竜〜化石の記憶〜](https://ja.wikipedia.org/wiki/臥竜〜化石の記憶〜 "wikilink")（[森秀樹](https://ja.wikipedia.org/wiki/森秀樹_\(漫画家\) "wikilink")）
+      - [臥竜〜化石の記憶〜](https://ja.wikipedia.org/wiki/臥竜〜化石の記憶〜 "wikilink")（[森秀樹](../Page/森秀樹_\(漫画家\).md "wikilink")）
       - [ツッパリたいの\!\!](https://ja.wikipedia.org/wiki/ツッパリたいの!! "wikilink")（[森真理](https://ja.wikipedia.org/wiki/森真理 "wikilink")）
-      - [獣戦士ガルキーバ](https://ja.wikipedia.org/wiki/獣戦士ガルキーバ "wikilink")（原作：[矢立肇](../Page/矢立肇.md "wikilink")、作画：[斉藤むねお](https://ja.wikipedia.org/wiki/斉藤むねお "wikilink")）
+      - [獣戦士ガルキーバ](../Page/獣戦士ガルキーバ.md "wikilink")（原作：[矢立肇](../Page/矢立肇.md "wikilink")、作画：[斉藤むねお](../Page/斉藤むねお.md "wikilink")）
       - [ビュンと春兵\!](https://ja.wikipedia.org/wiki/ビュンと春兵! "wikilink")（原作：[若林敏夫](https://ja.wikipedia.org/wiki/若林敏夫 "wikilink")、作画：[風巻弦](https://ja.wikipedia.org/wiki/風巻弦 "wikilink")）
       - [鳥人ブンタ](https://ja.wikipedia.org/wiki/鳥人ブンタ "wikilink")（[高橋功一郎](https://ja.wikipedia.org/wiki/高橋功一郎 "wikilink")）
-      - [秘拳伝キラ](https://ja.wikipedia.org/wiki/秘拳伝キラ "wikilink")（原作：[碧星タケル](https://ja.wikipedia.org/wiki/碧星タケル "wikilink")、作画：[三好雄己](https://ja.wikipedia.org/wiki/三好雄己 "wikilink")）
+      - [秘拳伝キラ](../Page/秘拳伝キラ.md "wikilink")（原作：[碧星タケル](https://ja.wikipedia.org/wiki/碧星タケル "wikilink")、作画：[三好雄己](https://ja.wikipedia.org/wiki/三好雄己 "wikilink")）
       - [佃島パイレーツ](https://ja.wikipedia.org/wiki/佃島パイレーツ "wikilink")（[村枝賢一](../Page/村枝賢一.md "wikilink")）
       - [命かけてます](https://ja.wikipedia.org/wiki/命かけてます "wikilink")（[山田貴敏](../Page/山田貴敏.md "wikilink")）
       - [○吉商店特盛劇場](https://ja.wikipedia.org/wiki/○吉商店特盛劇場 "wikilink")（[吉田聡](../Page/吉田聡.md "wikilink")）
-      - [バーチャファイター](https://ja.wikipedia.org/wiki/バーチャファイター "wikilink")（原作：[七月鏡一](https://ja.wikipedia.org/wiki/七月鏡一 "wikilink")、作画：[藤原芳秀](../Page/藤原芳秀.md "wikilink")）
+      - [バーチャファイター](https://ja.wikipedia.org/wiki/バーチャファイター "wikilink")（原作：[七月鏡一](../Page/七月鏡一.md "wikilink")、作画：[藤原芳秀](../Page/藤原芳秀.md "wikilink")）
   - **1996年連載開始**
       - [天然戦士G](https://ja.wikipedia.org/wiki/天然戦士G "wikilink")（[松森ナヲヤ](https://ja.wikipedia.org/wiki/松森ナヲヤ "wikilink")）1996.7
           - （外部リンク）
       - [名物\!\!うつけモノ本舗](https://ja.wikipedia.org/wiki/名物!!うつけモノ本舗 "wikilink")（[杉本ペロ](../Page/杉本ペロ.md "wikilink")）1996.8
       - [山田Xの焼肉定食](https://ja.wikipedia.org/wiki/山田Xの焼肉定食 "wikilink")（[山田X](https://ja.wikipedia.org/wiki/山田X "wikilink")）1996.8
-      - [Wonder School Boy](https://ja.wikipedia.org/wiki/Wonder_School_Boy "wikilink")（[清水洋三](https://ja.wikipedia.org/wiki/清水洋三 "wikilink")）1996.9
-      - [ボンドが切る\!](https://ja.wikipedia.org/wiki/ボンドが切る! "wikilink")（原作：[高木剛](https://ja.wikipedia.org/wiki/高木剛 "wikilink")、作画：[星野幸一郎](https://ja.wikipedia.org/wiki/星野倖一郎 "wikilink")）
+      - [Wonder School Boy](https://ja.wikipedia.org/wiki/Wonder_School_Boy "wikilink")（[清水洋三](../Page/清水洋三.md "wikilink")）1996.9
+      - [ボンドが切る\!](https://ja.wikipedia.org/wiki/ボンドが切る! "wikilink")（原作：[高木剛](../Page/高木剛.md "wikilink")、作画：[星野幸一郎](../Page/星野倖一郎.md "wikilink")）
       - [未完成ファミリー](https://ja.wikipedia.org/wiki/未完成ファミリー "wikilink")（[岸みきお](https://ja.wikipedia.org/wiki/岸みきお "wikilink")）1996.12
   - **1997年連載開始**
       - [ぱぴこ七変化](https://ja.wikipedia.org/wiki/ぱぴこ七変化 "wikilink")（[内田雄幸](https://ja.wikipedia.org/wiki/内田雄幸 "wikilink")）1997.2
       - [A・BOY](https://ja.wikipedia.org/wiki/A・BOY "wikilink")（[越川春雄](https://ja.wikipedia.org/wiki/越川春雄 "wikilink")）1997.3
-      - [SALAD DAYS](https://ja.wikipedia.org/wiki/SALAD_DAYS "wikilink")（[猪熊しのぶ](https://ja.wikipedia.org/wiki/猪熊しのぶ "wikilink")）1997.5（→本誌週刊連載へ移籍）
+      - [SALAD DAYS](https://ja.wikipedia.org/wiki/SALAD_DAYS "wikilink")（[猪熊しのぶ](../Page/猪熊しのぶ.md "wikilink")）1997.5（→本誌週刊連載へ移籍）
       - [あらかると](https://ja.wikipedia.org/wiki/あらかると "wikilink")（[武村勇冶](https://ja.wikipedia.org/wiki/武村勇冶 "wikilink")）1997.6
-      - [ウインドミル](https://ja.wikipedia.org/wiki/ウインドミル_\(漫画\) "wikilink")（[橋口隆志](../Page/橋口たかし.md "wikilink")）1997.7
+      - [ウインドミル](../Page/ウインドミル_\(漫画\).md "wikilink")（[橋口隆志](../Page/橋口たかし.md "wikilink")）1997.7
       - [オレが一番\!\!](https://ja.wikipedia.org/wiki/オレが一番!! "wikilink")（[酒迎謙志](https://ja.wikipedia.org/wiki/酒迎謙志 "wikilink")）1997.8
       - [ドルフィン・ブレイン](https://ja.wikipedia.org/wiki/ドルフィン・ブレイン "wikilink")（第2部）（[山田玲司](../Page/山田玲司.md "wikilink")）1997.9（←本誌週刊連載より移籍）
   - **1998年連載開始**
       - [天MAN](https://ja.wikipedia.org/wiki/天MAN "wikilink")（[瀧村もんど](https://ja.wikipedia.org/wiki/瀧村もんど "wikilink")）1998.1
       - [刑事でポン](https://ja.wikipedia.org/wiki/刑事でポン "wikilink")（[池上正人](https://ja.wikipedia.org/wiki/池上正人 "wikilink")）1998.3
       - [RIDE ON\!](https://ja.wikipedia.org/wiki/RIDE_ON! "wikilink")（[ひめかわ明](https://ja.wikipedia.org/wiki/ひめかわ明 "wikilink")）1998.3
-      - [ワイルドフラワーズ](https://ja.wikipedia.org/wiki/ワイルドフラワーズ "wikilink")（[田中保佐奈](https://ja.wikipedia.org/wiki/田中ほさな "wikilink")）1998.4
+      - [ワイルドフラワーズ](https://ja.wikipedia.org/wiki/ワイルドフラワーズ "wikilink")（[田中保佐奈](../Page/田中ほさな.md "wikilink")）1998.4
       - [カンタが大将\!](https://ja.wikipedia.org/wiki/カンタが大将! "wikilink")（[高橋功一郎](https://ja.wikipedia.org/wiki/高橋功一郎 "wikilink")）1998.6
       - [風神](https://ja.wikipedia.org/wiki/風神_\(漫画\) "wikilink")（[石渡治](../Page/石渡治.md "wikilink")）1998.11
       - [フェイス・オフ](https://ja.wikipedia.org/wiki/フェイス・オフ "wikilink")（[田辺崇](https://ja.wikipedia.org/wiki/田辺崇 "wikilink")）1998.11
@@ -1808,56 +1808,56 @@
       - [東京刑事〜マジ刑事編〜](https://ja.wikipedia.org/wiki/東京刑事〜マジ刑事編〜 "wikilink")（[鈴木けい一](https://ja.wikipedia.org/wiki/鈴木けい一 "wikilink")）1999.6（←本誌週刊連載より移籍）
       - [HOOP STAR](https://ja.wikipedia.org/wiki/HOOP_STAR "wikilink")（[乃木坂太郎](../Page/乃木坂太郎.md "wikilink")）1999.7
       - [スカイ](https://ja.wikipedia.org/wiki/スカイ_\(漫画\) "wikilink")（[郷間秀敏](https://ja.wikipedia.org/wiki/郷間秀敏 "wikilink")）1999.8
-      - [戦え\!梁山泊 史上最強の弟子](https://ja.wikipedia.org/wiki/史上最強の弟子ケンイチ#戦え!梁山泊_史上最強の弟子 "wikilink")（[松江名俊](https://ja.wikipedia.org/wiki/松江名俊 "wikilink")）1999.11
+      - [戦え\!梁山泊 史上最強の弟子](https://ja.wikipedia.org/wiki/史上最強の弟子ケンイチ#戦え!梁山泊_史上最強の弟子 "wikilink")（[松江名俊](../Page/松江名俊.md "wikilink")）1999.11
       - [ナックルヘッド](https://ja.wikipedia.org/wiki/ナックルヘッド "wikilink")（[落合裕介](https://ja.wikipedia.org/wiki/落合裕介 "wikilink")）1999.12
 
 ### 最後期（2000 - 2003年連載開始）
 
   - **2000年連載開始**
       - [超育成神話パグナス](https://ja.wikipedia.org/wiki/超育成神話パグナス "wikilink")（[大熊良](https://ja.wikipedia.org/wiki/大熊良 "wikilink")）2000.1
-      - [一撃](https://ja.wikipedia.org/wiki/一撃（漫画） "wikilink")（[坂本眞一](https://ja.wikipedia.org/wiki/坂本眞一 "wikilink")、原案：[田中誠一](https://ja.wikipedia.org/wiki/田中誠一 "wikilink")）2000.3
+      - [一撃](https://ja.wikipedia.org/wiki/一撃（漫画） "wikilink")（[坂本眞一](../Page/坂本眞一.md "wikilink")、原案：[田中誠一](https://ja.wikipedia.org/wiki/田中誠一 "wikilink")）2000.3
       - [動物のカメちゃん](https://ja.wikipedia.org/wiki/動物のカメちゃん "wikilink")外伝（[噌西けんじ](https://ja.wikipedia.org/wiki/そにしけんじ "wikilink")）2000.10（←本誌週刊連載より移籍）
       - [銀魚鉢](https://ja.wikipedia.org/wiki/銀魚鉢 "wikilink")（[原田高夕紀](https://ja.wikipedia.org/wiki/原田高夕紀 "wikilink")）2000.10
       - [アンタだりお\!?](https://ja.wikipedia.org/wiki/アンタだりお!? "wikilink")（[福原だりお](https://ja.wikipedia.org/wiki/福原だりお "wikilink")）2000.10
   - **2001年連載開始**
       - [ナズミ＠](https://ja.wikipedia.org/wiki/ナズミ＠ "wikilink")（[岸みきお](https://ja.wikipedia.org/wiki/岸みきお "wikilink")）2001.1
       - [チルチルみちる](https://ja.wikipedia.org/wiki/チルチルみちる "wikilink")♥（[丸山洋](https://ja.wikipedia.org/wiki/丸山洋 "wikilink")）2001.1
-      - [大棟梁](https://ja.wikipedia.org/wiki/大棟梁 "wikilink")（[西条真二](https://ja.wikipedia.org/wiki/西条真二 "wikilink")）2001.2（←本誌週刊連載より移籍）
+      - [大棟梁](https://ja.wikipedia.org/wiki/大棟梁 "wikilink")（[西条真二](../Page/西条真二.md "wikilink")）2001.2（←本誌週刊連載より移籍）
       - [リカ王](https://ja.wikipedia.org/wiki/リカ王 "wikilink")（[中山雅也](https://ja.wikipedia.org/wiki/中山雅也 "wikilink")）2001.4
       - [刑事パイ](https://ja.wikipedia.org/wiki/刑事パイ "wikilink")（[相田裕司](https://ja.wikipedia.org/wiki/相田裕司 "wikilink")）2001.5
       - [神速の紋章　烈風のケイジ](https://ja.wikipedia.org/wiki/神速の紋章_烈風のケイジ "wikilink")（[松田未来](https://ja.wikipedia.org/wiki/松田未来 "wikilink")）2001.5
-      - [HEAT WAVE](https://ja.wikipedia.org/wiki/HEAT_WAVE_\(漫画\) "wikilink")（[井上和郎](https://ja.wikipedia.org/wiki/井上和郎 "wikilink")）2001.6
+      - [HEAT WAVE](https://ja.wikipedia.org/wiki/HEAT_WAVE_\(漫画\) "wikilink")（[井上和郎](../Page/井上和郎.md "wikilink")）2001.6
       - [Go Ahead\!](https://ja.wikipedia.org/wiki/Go_Ahead! "wikilink")（[甲斐茶々丸](https://ja.wikipedia.org/wiki/甲斐茶々丸 "wikilink")）2001.7
       - [ガールズザウルス](../Page/ガールズザウルス.md "wikilink")（[楠桂](../Page/楠桂.md "wikilink")）2001.7（→[サンデーGXへ移籍](https://ja.wikipedia.org/wiki/月刊サンデーGENE-X "wikilink")）
-      - [茂志田☆諸君\!\!](https://ja.wikipedia.org/wiki/茂志田☆諸君!! "wikilink")（[モリタイシ](https://ja.wikipedia.org/wiki/モリタイシ "wikilink")）2001.8
+      - [茂志田☆諸君\!\!](https://ja.wikipedia.org/wiki/茂志田☆諸君!! "wikilink")（[モリタイシ](../Page/モリタイシ.md "wikilink")）2001.8
       - [スクープ\!](https://ja.wikipedia.org/wiki/スクープ! "wikilink")（[田中顕](https://ja.wikipedia.org/wiki/田中顕 "wikilink")）2001.9
       - [悪の協同組合連合会](https://ja.wikipedia.org/wiki/悪の協同組合連合会 "wikilink")（[つむじまるN](https://ja.wikipedia.org/wiki/つむじまるN "wikilink")）2001.9
   - **2002年連載開始**
       - [BREAK THROUGH\!〜虹のペダル〜](https://ja.wikipedia.org/wiki/BREAK_THROUGH!〜虹のペダル〜 "wikilink")（[杉信洋平](https://ja.wikipedia.org/wiki/杉信洋平 "wikilink")）2002.2
-      - [プレイヤー〜禁断のゲーム〜](https://ja.wikipedia.org/wiki/プレイヤー〜禁断のゲーム〜 "wikilink")（原作：[若桑一人](https://ja.wikipedia.org/wiki/若桑一人 "wikilink")、作画：[田中保佐奈](https://ja.wikipedia.org/wiki/田中ほさな "wikilink")）2002.2
+      - [プレイヤー〜禁断のゲーム〜](https://ja.wikipedia.org/wiki/プレイヤー〜禁断のゲーム〜 "wikilink")（原作：[若桑一人](https://ja.wikipedia.org/wiki/若桑一人 "wikilink")、作画：[田中保佐奈](../Page/田中ほさな.md "wikilink")）2002.2
       - [II（ツヴァイ）](https://ja.wikipedia.org/wiki/II（ツヴァイ） "wikilink")（[石渡治](../Page/石渡治.md "wikilink")）2002.4
       - [Go\!拓人](https://ja.wikipedia.org/wiki/Go!拓人 "wikilink")（[大和八重子](https://ja.wikipedia.org/wiki/大和八重子 "wikilink")）2002.6
       - [未確認ルーキーU・N・O](https://ja.wikipedia.org/wiki/未確認ルーキーU・N・O "wikilink")（[カールメン野口](https://ja.wikipedia.org/wiki/カールメン野口 "wikilink")）2002.7
-      - [蒼空のグリフォン](https://ja.wikipedia.org/wiki/蒼空のグリフォン "wikilink")（[清水洋三](https://ja.wikipedia.org/wiki/清水洋三 "wikilink")）2002.7
+      - [蒼空のグリフォン](https://ja.wikipedia.org/wiki/蒼空のグリフォン "wikilink")（[清水洋三](../Page/清水洋三.md "wikilink")）2002.7
       - [漫才王](https://ja.wikipedia.org/wiki/漫才王 "wikilink")（[桐野人一](../Page/じゅきあきら・T・.md "wikilink")）2002.8
       - [電人1号](https://ja.wikipedia.org/wiki/電人1号 "wikilink")（[黒葉潤一](https://ja.wikipedia.org/wiki/黒葉潤一 "wikilink")）2002.8
       - [ピープ\!](https://ja.wikipedia.org/wiki/ピープ! "wikilink")（[しょうけん](https://ja.wikipedia.org/wiki/しょうけん "wikilink")）2002.8
       - [ハルサメ刑事](https://ja.wikipedia.org/wiki/ハルサメ刑事 "wikilink")（[ピョンタコ](https://ja.wikipedia.org/wiki/ピョンタコ "wikilink")）2002.8
       - [少女G](https://ja.wikipedia.org/wiki/少女G "wikilink")（[福原だりお](https://ja.wikipedia.org/wiki/福原だりお "wikilink")）2002.8
-      - [進学教室\!\!フェニックス学園](https://ja.wikipedia.org/wiki/進学教室!!フェニックス学園 "wikilink")（[水口尚樹](https://ja.wikipedia.org/wiki/水口尚樹 "wikilink")）2002.8
+      - [進学教室\!\!フェニックス学園](https://ja.wikipedia.org/wiki/進学教室!!フェニックス学園 "wikilink")（[水口尚樹](../Page/水口尚樹.md "wikilink")）2002.8
       - [医師術\!\!十五郎](https://ja.wikipedia.org/wiki/医師術!!十五郎 "wikilink")（[川久保栄二](https://ja.wikipedia.org/wiki/川久保栄二 "wikilink")）2002.9
   - **2003年連載開始**
       - [軟式\!アニマル部](https://ja.wikipedia.org/wiki/軟式!アニマル部 "wikilink")（[相田裕司](https://ja.wikipedia.org/wiki/相田裕司 "wikilink")）2003.1
       - [バトルゲージ](https://ja.wikipedia.org/wiki/バトルゲージ "wikilink")（[桜河貞宗](https://ja.wikipedia.org/wiki/桜河貞宗 "wikilink")）2003.3
-      - [こわしや我聞](https://ja.wikipedia.org/wiki/こわしや我聞 "wikilink")（[藤木俊](https://ja.wikipedia.org/wiki/藤木俊 "wikilink")）2003.5（→本誌週刊連載へ移籍）
+      - [こわしや我聞](../Page/こわしや我聞.md "wikilink")（[藤木俊](../Page/藤木俊.md "wikilink")）2003.5（→本誌週刊連載へ移籍）
       - [けっぱれ\!大黒](https://ja.wikipedia.org/wiki/けっぱれ!大黒 "wikilink")（[小山愛子](https://ja.wikipedia.org/wiki/小山愛子 "wikilink")）2003.7
-      - [海の勇者ライフセイバーズ](https://ja.wikipedia.org/wiki/海の勇者ライフセイバーズ "wikilink")（[畑健二郎](https://ja.wikipedia.org/wiki/畑健二郎 "wikilink")）2003.7
-      - [泣き虫センターコート伝説 忍](https://ja.wikipedia.org/wiki/泣き虫センターコート伝説_忍 "wikilink")（[寒川一之](https://ja.wikipedia.org/wiki/寒川一之 "wikilink")）2003.9
+      - [海の勇者ライフセイバーズ](https://ja.wikipedia.org/wiki/海の勇者ライフセイバーズ "wikilink")（[畑健二郎](../Page/畑健二郎.md "wikilink")）2003.7
+      - [泣き虫センターコート伝説 忍](https://ja.wikipedia.org/wiki/泣き虫センターコート伝説_忍 "wikilink")（[寒川一之](../Page/寒川一之.md "wikilink")）2003.9
       - [ズガンテスの野望](https://ja.wikipedia.org/wiki/ズガンテスの野望 "wikilink")（[山田新一郎](https://ja.wikipedia.org/wiki/山田新一郎_\(漫画家\) "wikilink")）2003.9
       - [オラ大明神](https://ja.wikipedia.org/wiki/オラ大明神 "wikilink")（[つむじまるN](https://ja.wikipedia.org/wiki/つむじまるN "wikilink")）2003.10
       - [ハロウィンシード](https://ja.wikipedia.org/wiki/ハロウィンシード "wikilink")（[永山靖巳](https://ja.wikipedia.org/wiki/橋本チキン "wikilink")）2003.10
       - [DRUNKARD SWORD](https://ja.wikipedia.org/wiki/DRUNKARD_SWORD "wikilink")（[都築信也](https://ja.wikipedia.org/wiki/都築信也 "wikilink")）2003.11
-      - [炎の穴のヨミ](https://ja.wikipedia.org/wiki/炎の穴のヨミ "wikilink")（[大須賀めぐみ](https://ja.wikipedia.org/wiki/大須賀めぐみ "wikilink")）2003.12
+      - [炎の穴のヨミ](https://ja.wikipedia.org/wiki/炎の穴のヨミ "wikilink")（[大須賀めぐみ](../Page/大須賀めぐみ.md "wikilink")）2003.12
       - [PEACE MAKER](https://ja.wikipedia.org/wiki/PEACE_MAKER_\(佐藤周一郎\) "wikilink")（[佐藤周一郎](https://ja.wikipedia.org/wiki/佐藤周一郎 "wikilink")）2003.12
       - [伝説の帰宅部Returner](https://ja.wikipedia.org/wiki/伝説の帰宅部Returner "wikilink")（[森尾正博](https://ja.wikipedia.org/wiki/森尾正博 "wikilink")）2003.12
 
@@ -1865,8 +1865,8 @@
 
   - [週刊少年サンデー](https://ja.wikipedia.org/wiki/週刊少年サンデー "wikilink")
   - [クラブサンデー](https://ja.wikipedia.org/wiki/クラブサンデー "wikilink")
-  - [少年サンデー特別増刊R](https://ja.wikipedia.org/wiki/少年サンデー特別増刊R "wikilink")
-  - [月刊サンデージェネックス](https://ja.wikipedia.org/wiki/月刊サンデージェネックス "wikilink")
+  - [少年サンデー特別増刊R](../Page/少年サンデー特別増刊R.md "wikilink")
+  - [月刊サンデージェネックス](../Page/月刊サンデージェネックス.md "wikilink")
   - [小学館](../Page/小学館.md "wikilink")
 
 ## 外部リンク

@@ -1,7 +1,7 @@
 > この記事は[CAC Holdings](https://ja.wikipedia.org/wiki/CAC_Holdings)から翻訳されています。
 
 
-**株式会社CAC Holdings**は、東京都中央区に本社を置くITコンサルティングサービス企業で[システムインテグレーター](https://ja.wikipedia.org/wiki/システムインテグレーター "wikilink")（[独立系](https://ja.wikipedia.org/wiki/ISV "wikilink")）を子会社にもつ[持株会社](../Page/持株会社.md "wikilink")。
+**株式会社CAC Holdings**は、東京都中央区に本社を置くITコンサルティングサービス企業で[システムインテグレーター](../Page/システムインテグレーター.md "wikilink")（[独立系](https://ja.wikipedia.org/wiki/ISV "wikilink")）を子会社にもつ[持株会社](../Page/持株会社.md "wikilink")。
 
 ## 会社沿革
 
@@ -11,21 +11,21 @@
   - [1988年](../Page/1988年.md "wikilink")（昭和63年）12月 - [通産省の](../Page/経済産業省.md "wikilink")「システムインテグレーター認定企業」の認定を受ける。
   - [1994年](../Page/1994年.md "wikilink")（[平成](../Page/平成.md "wikilink")6年）7月 - CACがSSK、SUCを[吸収合併](../Page/合併_\(企業\).md "wikilink")、**株式会社シーエーシー**に商号変更する。
   - [1999年](../Page/1999年.md "wikilink")（平成11年）7月 - 株式を[日本証券業協会](https://ja.wikipedia.org/wiki/日本証券業協会 "wikilink")の[店頭登録銘柄として公開](https://ja.wikipedia.org/wiki/ジャスダック "wikilink")。
-  - [2000年](../Page/2000年.md "wikilink")（平成12年）10月 - [東証](https://ja.wikipedia.org/wiki/東京証券取引所 "wikilink")1部に上場。
+  - [2000年](../Page/2000年.md "wikilink")（平成12年）10月 - [東証](../Page/東京証券取引所.md "wikilink")1部に上場。
   - [2014年](../Page/2014年.md "wikilink")（平成26年）4月 - 持株会社体制に移行。[会社分割](../Page/会社分割.md "wikilink")により事業子会社の株式会社シーエーシーを新設するとともに、**株式会社CAC Holdings**へ商号変更。
 
 ## 事業内容
 
-  - [コンサルティング](https://ja.wikipedia.org/wiki/コンサルティング "wikilink")・サービス
+  - [コンサルティング](../Page/コンサルティング.md "wikilink")・サービス
   - システム・インテグレーション
   - システム開発サービス
   - システム保守サービス
   - システム運用管理サービス
-  - [BPOサービス](https://ja.wikipedia.org/wiki/ビジネス・プロセス・アウトソーシング "wikilink")
+  - [BPOサービス](../Page/ビジネス・プロセス・アウトソーシング.md "wikilink")
   - [データセンター](https://ja.wikipedia.org/wiki/データセンター "wikilink")・サービス
   - [ヘルプデスク・サービス](https://ja.wikipedia.org/wiki/:en:Help_desk "wikilink")
   - デスクトップ・サービス
-  - [情報処理](https://ja.wikipedia.org/wiki/情報処理 "wikilink")サービス
+  - [情報処理](../Page/情報処理.md "wikilink")サービス
   - [ソフトウェア](../Page/ソフトウェア.md "wikilink")／[ハードウェア](../Page/ハードウェア.md "wikilink")の販売
 
 ## 事業所所在地
@@ -64,7 +64,7 @@
 
 ## 関連項目
 
-  - [モスインスティテュート](https://ja.wikipedia.org/wiki/モスインスティテュート "wikilink") - CRO（医薬品開発業務受託機関）事業を譲受
+  - [モスインスティテュート](../Page/モスインスティテュート.md "wikilink") - CRO（医薬品開発業務受託機関）事業を譲受
   - [アイ・エックス・アイ](../Page/アイ・エックス・アイ.md "wikilink") - かつての子会社
 
 ## 外部リンク

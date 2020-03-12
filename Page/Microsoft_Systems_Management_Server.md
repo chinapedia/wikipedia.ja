@@ -3,11 +3,11 @@
 
 **Microsoft Systems Management Server** (SMS) は、[Windowsベースの多数のシステム群を管理するための](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[マイクロソフト](../Page/マイクロソフト.md "wikilink")が開発した[システム管理](../Page/システム管理.md "wikilink")ソフトウェア製品である。SMS は、遠隔制御、パッチ管理、[ソフトウェアデプロイメント](../Page/ソフトウェアデプロイメント.md "wikilink")、ハードウェア/ソフトウェアの資産管理などを行う。オプション機能として[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink") (OS) の[配備があり](../Page/ソフトウェアデプロイメント.md "wikilink")、SMS 2003 OS Deployment Feature Packを必要とする。
 
-当初（1.x のころ）、SMSは管理の範囲を NTドメインに限定していた。その後、複数のサブネットからなるグループを管理できるようになった。SMS 2003 以降、1つまたは複数の[Active Directoryで管理される範囲を管理対象にできるようにもなっている](https://ja.wikipedia.org/wiki/Active_Directory "wikilink")。
+当初（1.x のころ）、SMSは管理の範囲を NTドメインに限定していた。その後、複数のサブネットからなるグループを管理できるようになった。SMS 2003 以降、1つまたは複数の[Active Directoryで管理される範囲を管理対象にできるようにもなっている](../Page/Active_Directory.md "wikilink")。
 
 2.xとSMS 2003の主な違いはAdvanced Clientの導入である。Advanced Clientはより広範囲の基盤であるManagement Pointと通信する。Management Pointは最大25000のAdvanced Clientを管理可能である。
 
-Advanced Clientが導入された背景には、[ノートパソコン](../Page/ノートパソコン.md "wikilink")の管理という問題があった。企業内でノートパソコンは様々な位置から[ネットワークに接続可能であり](https://ja.wikipedia.org/wiki/コンピュータネットワーク "wikilink")、どこから接続しても企業内の同じ[サーバ](../Page/サーバ.md "wikilink")からコンテンツを[ダウンロード](https://ja.wikipedia.org/wiki/ダウンロード "wikilink")するのは問題があった。Advanced Client機能を用いると、位置が変わればそれに伴ってダウンロード元を変更でき、結果として企業内[WANの回線容量を節約できる](../Page/Wide_Area_Network.md "wikilink")。
+Advanced Clientが導入された背景には、[ノートパソコン](../Page/ノートパソコン.md "wikilink")の管理という問題があった。企業内でノートパソコンは様々な位置から[ネットワークに接続可能であり](../Page/コンピュータネットワーク.md "wikilink")、どこから接続しても企業内の同じ[サーバ](../Page/サーバ.md "wikilink")からコンテンツを[ダウンロード](https://ja.wikipedia.org/wiki/ダウンロード "wikilink")するのは問題があった。Advanced Client機能を用いると、位置が変わればそれに伴ってダウンロード元を変更でき、結果として企業内[WANの回線容量を節約できる](../Page/Wide_Area_Network.md "wikilink")。
 
 ## バージョン履歴
 

@@ -19,13 +19,13 @@
 
   - **茂木洋晃**（ボーカル・ハープ）　　[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")[碓氷郡](../Page/碓氷郡.md "wikilink")[松井田町](../Page/松井田町.md "wikilink")出身。
   - **原田季征**（ギター・コーラス）　　群馬県碓氷郡[松井田町](../Page/松井田町.md "wikilink")出身。
-  - **吉橋"yossy"伸之**（ベース・コーラス）2001年脱退2008.6.18正式復帰　　[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[世田谷区](https://ja.wikipedia.org/wiki/世田谷区 "wikilink")出身。
+  - **吉橋"yossy"伸之**（ベース・コーラス）2001年脱退2008.6.18正式復帰　　[東京都](../Page/東京都.md "wikilink")[世田谷区](../Page/世田谷区.md "wikilink")出身。
   - **渡部“PxOxN”寛之**（ドラム・コーラス）
 
 ## 旧メンバー
 
   - **金子隆海**（ドラム・コーラス）　　群馬県[佐波郡](../Page/佐波郡.md "wikilink")[玉村町](../Page/玉村町.md "wikilink")出身。
-  - **鴨居哲也**（キーボード・メロディオン）　　[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")[大里郡](../Page/大里郡.md "wikilink")[妻沼町](../Page/妻沼町.md "wikilink")出身。
+  - **鴨居哲也**（キーボード・メロディオン）　　[埼玉県](../Page/埼玉県.md "wikilink")[大里郡](../Page/大里郡.md "wikilink")[妻沼町](../Page/妻沼町.md "wikilink")出身。
   - **家坂清太郎**（ドラム・コーラス）2008.6.18正式加入
 
 2018年2月25日をもって脱退
@@ -429,7 +429,7 @@ BDSS-0030:通常盤</p></td>
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="../Page/2014年.md" title="wikilink">2014年</a><a href="https://ja.wikipedia.org/wiki/12月10日" title="wikilink">12月10日</a></p></td>
+<td><p><a href="../Page/2014年.md" title="wikilink">2014年</a><a href="../Page/12月10日.md" title="wikilink">12月10日</a></p></td>
 <td><p><strong>S.O.S 〜Sound Of Survival〜</strong></p></td>
 <td><p>BDSS-20</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -602,7 +602,7 @@ BDSS-0030:通常盤</p></td>
 <li>SONIA BIANCHI / <a href="https://ja.wikipedia.org/wiki/FLASHLIGHT" title="wikilink">FLASHLIGHT</a></li>
 <li>LIFE OF THE PARTY / <a href="https://ja.wikipedia.org/wiki/THE_PLANET_SMASHERS" title="wikilink">THE PLANET SMASHERS</a></li>
 <li>SOMEWHERE IN THE MIDDLE OF THE PACIFICS / <a href="https://ja.wikipedia.org/wiki/THE_WONDER_YEARS" title="wikilink">THE WONDER YEARS</a></li>
-<li>D.I.Y. / <a href="https://ja.wikipedia.org/wiki/NICOTINE" title="wikilink">NICOTINE</a></li>
+<li>D.I.Y. / <a href="../Page/NICOTINE.md" title="wikilink">NICOTINE</a></li>
 <li>NOT JOKING / <a href="https://ja.wikipedia.org/wiki/MINX" title="wikilink">MINX</a></li>
 <li>FEBRUARY ONE / <a href="https://ja.wikipedia.org/wiki/SLAPSTICK" title="wikilink">SLAPSTICK</a></li>
 <li>BRAND NEW DAY / <a href="https://ja.wikipedia.org/wiki/RAPTURE" title="wikilink">RAPTURE</a>
@@ -612,7 +612,7 @@ BDSS-0030:通常盤</p></td>
 <td><p>SKY RECORDS</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/6月22日.md" title="wikilink">6月22日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/6月22日.md" title="wikilink">6月22日</a></p></td>
 <td><p><strong>ALL MIXED UP !</strong></p></td>
 <td><p>1138-0029</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -642,7 +642,7 @@ BDSS-0030:通常盤</p></td>
 <td><p>1138 (ELEVEN-THIRTY EIGHT)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/2月8日" title="wikilink">2月8日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/2月8日.md" title="wikilink">2月8日</a></p></td>
 <td><p><strong>RULE SOUND#2</strong></p></td>
 <td><p>ZNCA-1009</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -677,7 +677,7 @@ BDSS-0030:通常盤</p></td>
 <td><p>THE NINTH APOLLO</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/8月18日.md" title="wikilink">8月18日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/8月18日.md" title="wikilink">8月18日</a></p></td>
 <td><p><strong>GARLIC BOYS Tribute</strong></p></td>
 <td><p>PCD-4338</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -687,7 +687,7 @@ BDSS-0030:通常盤</p></td>
 <div class="NavContent" style="text-align:left;">
 <ol>
 <li>YOKOZUNA / <a href="https://ja.wikipedia.org/wiki/ゆうこときカズ" title="wikilink">ゆうこときカズ</a></li>
-<li>十二の春 / <a href="https://ja.wikipedia.org/wiki/HAWAIIAN6" title="wikilink">HAWAIIAN6</a></li>
+<li>十二の春 / <a href="../Page/HAWAIIAN6.md" title="wikilink">HAWAIIAN6</a></li>
 <li>大江戸捜査網 / <a href="https://ja.wikipedia.org/wiki/TYPHOON24" title="wikilink">TYPHOON24</a></li>
 <li>Too Late True Love / <a href="https://ja.wikipedia.org/wiki/MOGA_THE_/5" title="wikilink">MOGA THE \5</a></li>
 <li>G.H.Q / <a href="https://ja.wikipedia.org/wiki/JURASSIC_JADE" title="wikilink">JURASSIC JADE</a></li>
@@ -696,7 +696,7 @@ BDSS-0030:通常盤</p></td>
 <li>走れ坊さん / <a href="https://ja.wikipedia.org/wiki/BOBO_BRAZIL" title="wikilink">BOBO BRAZIL</a></li>
 <li>若気の至り / <a href="https://ja.wikipedia.org/wiki/ハンサム兄弟" title="wikilink">ハンサム兄弟</a></li>
 <li>マッシュルームカットとダッフルコート / <a href="https://ja.wikipedia.org/wiki/kamomekamome" title="wikilink">kamomekamome</a></li>
-<li>Skate &amp; Mosh / <a href="https://ja.wikipedia.org/wiki/UNITED" title="wikilink">UNITED</a></li>
+<li>Skate &amp; Mosh / <a href="../Page/UNITED.md" title="wikilink">UNITED</a></li>
 <li>あんた飛ばし過ぎ / <a href="https://ja.wikipedia.org/wiki/RAZORS_EDGE" title="wikilink">RAZORS EDGE</a>
 </div>
 </div></li>
@@ -741,14 +741,14 @@ BDSS-0030:通常盤</p></td>
   - 2009年 - 自主企画"I scream vol.02"
   - 2012年 - G-FREAK FACTORY "EVEN" TOUR 2012
       -
-        w/[OVER ARM THROW](https://ja.wikipedia.org/wiki/OVER_ARM_THROW "wikilink")/[HAWAIIAN6](https://ja.wikipedia.org/wiki/HAWAIIAN6 "wikilink")/[ROTTENGRAFFTY](https://ja.wikipedia.org/wiki/ROTTENGRAFFTY "wikilink")
+        w/[OVER ARM THROW](https://ja.wikipedia.org/wiki/OVER_ARM_THROW "wikilink")/[HAWAIIAN6](../Page/HAWAIIAN6.md "wikilink")/[ROTTENGRAFFTY](../Page/ROTTENGRAFFTY.md "wikilink")
   - 2013年 - G-FREAK FACTORY "RE-PRAY" TOUR 2013
       -
         w/[EGG BRAIN, UNLIMITS](https://ja.wikipedia.org/wiki/EGG_BRAIN,_UNLIMITS "wikilink")
   - 2013年08月31日〜2014年03月29日 - G-FREAK FACTORY "S.O.S" TOUR 2013-2014
   - 2014年07月26日〜2014年12月07日 - G-FREAK FACTORY "fact" TOUR 2014
       -
-        w/[ATATA](https://ja.wikipedia.org/wiki/ATATA "wikilink")/[kamomekamome](https://ja.wikipedia.org/wiki/kamomekamome "wikilink")/[rega](https://ja.wikipedia.org/wiki/rega "wikilink")/[No Hitter](https://ja.wikipedia.org/wiki/No_Hitter "wikilink")/OVER ARM THROW/[Largenal Nature](https://ja.wikipedia.org/wiki/Largenal_Nature "wikilink")/[locofrank](https://ja.wikipedia.org/wiki/locofrank "wikilink")/[MOROHA](https://ja.wikipedia.org/wiki/MOROHA "wikilink")/[BUZZ THE BEARS](https://ja.wikipedia.org/wiki/BUZZ_THE_BEARS "wikilink")/[OLEDICKFOGGY](https://ja.wikipedia.org/wiki/OLEDICKFOGGY "wikilink")/[SPREAD](https://ja.wikipedia.org/wiki/SPREAD "wikilink")/[SUNSET BUS](https://ja.wikipedia.org/wiki/SUNSET_BUS "wikilink")/[Ska Freaks](https://ja.wikipedia.org/wiki/Ska_Freaks "wikilink")/[COUNTRY YARD](https://ja.wikipedia.org/wiki/COUNTRY_YARD "wikilink")/[GOOD4NOTHING](https://ja.wikipedia.org/wiki/GOOD4NOTHING "wikilink")/[ARTIFACT OF INSTANT](https://ja.wikipedia.org/wiki/ARTIFACT_OF_INSTANT "wikilink")/[FREE KICK](https://ja.wikipedia.org/wiki/FREE_KICK "wikilink")/[Northern19](../Page/Northern19.md "wikilink")/[Judgement Ship](https://ja.wikipedia.org/wiki/Judgement_Ship "wikilink")/[WEED](https://ja.wikipedia.org/wiki/WEED "wikilink")
+        w/[ATATA](https://ja.wikipedia.org/wiki/ATATA "wikilink")/[kamomekamome](https://ja.wikipedia.org/wiki/kamomekamome "wikilink")/[rega](https://ja.wikipedia.org/wiki/rega "wikilink")/[No Hitter](https://ja.wikipedia.org/wiki/No_Hitter "wikilink")/OVER ARM THROW/[Largenal Nature](https://ja.wikipedia.org/wiki/Largenal_Nature "wikilink")/[locofrank](https://ja.wikipedia.org/wiki/locofrank "wikilink")/[MOROHA](https://ja.wikipedia.org/wiki/MOROHA "wikilink")/[BUZZ THE BEARS](https://ja.wikipedia.org/wiki/BUZZ_THE_BEARS "wikilink")/[OLEDICKFOGGY](https://ja.wikipedia.org/wiki/OLEDICKFOGGY "wikilink")/[SPREAD](https://ja.wikipedia.org/wiki/SPREAD "wikilink")/[SUNSET BUS](https://ja.wikipedia.org/wiki/SUNSET_BUS "wikilink")/[Ska Freaks](https://ja.wikipedia.org/wiki/Ska_Freaks "wikilink")/[COUNTRY YARD](https://ja.wikipedia.org/wiki/COUNTRY_YARD "wikilink")/[GOOD4NOTHING](../Page/GOOD4NOTHING.md "wikilink")/[ARTIFACT OF INSTANT](https://ja.wikipedia.org/wiki/ARTIFACT_OF_INSTANT "wikilink")/[FREE KICK](https://ja.wikipedia.org/wiki/FREE_KICK "wikilink")/[Northern19](../Page/Northern19.md "wikilink")/[Judgement Ship](https://ja.wikipedia.org/wiki/Judgement_Ship "wikilink")/[WEED](https://ja.wikipedia.org/wiki/WEED "wikilink")
   - 2014年12月13日〜2014年12月21日 - G-FREAK FACTORY“fact”TOUR 2014 FINAL SERIES
       -
         w/[SHANK](https://ja.wikipedia.org/wiki/SHANK "wikilink")/locofrank/[HOTSQUALL](https://ja.wikipedia.org/wiki/HOTSQUALL "wikilink")/[Dizzy Sunfist](https://ja.wikipedia.org/wiki/Dizzy_Sunfist "wikilink")/[NUBO](https://ja.wikipedia.org/wiki/NUBO "wikilink")/GOOD4NOTHING
@@ -767,18 +767,18 @@ BDSS-0030:通常盤</p></td>
   - 2004年02月07日 - STOMPIN' BIRD presents HIGH JACK vol.10
   - 2004年10月22日 - MINAMI WHEEL 2004
   - 2005年08月14日 - [Sky Jamboree](https://ja.wikipedia.org/wiki/Sky_Jamboree "wikilink") 2005 〜愛言葉〜
-  - 2005年09月04日 - [10-FEET](https://ja.wikipedia.org/wiki/10-FEET "wikilink") "4REST" TOUR '05 〜家族、仲間、酒、音楽〜
+  - 2005年09月04日 - [10-FEET](../Page/10-FEET.md "wikilink") "4REST" TOUR '05 〜家族、仲間、酒、音楽〜
   - 2006年 - [HAWAIIAN6 & FUCK YOU HEROES presents 1997](https://ja.wikipedia.org/wiki/HAWAIIAN6_&_FUCK_YOU_HEROES_presents_1997 "wikilink")
   - 2008年07月06日 - 10-FEET VANDALIZE TOUR 2008
   - 2008年07月13日 - [京都大作戦](https://ja.wikipedia.org/wiki/京都大作戦 "wikilink")2008〜去年は台風でごめんな祭〜
   - 2009年08月29日 - [NUBO](https://ja.wikipedia.org/wiki/NUBO "wikilink")"Circle"TOUR 2009 FINAL\!\!
   - 2009年09月27日 - COLOSSEUM vol.002
   - 2010年 - HAWAIIAN6 & FUCK YOU HEROES presents 1997
-  - 2010年04月24日 - [ROTTENGRAFFTY](https://ja.wikipedia.org/wiki/ROTTENGRAFFTY "wikilink") ポルノ超特急2010 〜本陣〜
+  - 2010年04月24日 - [ROTTENGRAFFTY](../Page/ROTTENGRAFFTY.md "wikilink") ポルノ超特急2010 〜本陣〜
   - 2010年07月18日 - megacycle night
   - 2010年08月29日 - CHEERS ROCK vol.2
   - 2010年09月12日 - STOMPIN' BIRD "Birds Attack Tour 2010"
-  - 2011年10月29日 - [HAWAIIAN6](https://ja.wikipedia.org/wiki/HAWAIIAN6 "wikilink") "one by one" TOUR
+  - 2011年10月29日 - [HAWAIIAN6](../Page/HAWAIIAN6.md "wikilink") "one by one" TOUR
   - 2011年05月19日 - SSMC 2012
   - 2011年12月03日 - [Fear, and Loathing in Las Vegas](https://ja.wikipedia.org/wiki/Fear,_and_Loathing_in_Las_Vegas "wikilink")"NEXTREME" Release Tour
   - 2012年02月19日 - [OVER ARM THROW](https://ja.wikipedia.org/wiki/OVER_ARM_THROW "wikilink") Songs TOUR 2011-2012
@@ -865,10 +865,10 @@ BDSS-0030:通常盤</p></td>
   - 2015年12月06日 - HAZIKETEMAZARE FESTIVAL 2015
   - 2015年12月13日 - [SUNSET BUS](https://ja.wikipedia.org/wiki/SUNSET_BUS "wikilink") ALOHA TOUR 2015〜2016
   - 2015年12月19日 - OSAKA HAZIKETEMAZARE FESTIVAL 2015
-  - 2015年12月29日 - [COUNTDOWN JAPAN](https://ja.wikipedia.org/wiki/COUNTDOWN_JAPAN "wikilink") 15/16
-  - 2016年01月24日 - [GOOD4NOTHING](https://ja.wikipedia.org/wiki/GOOD4NOTHING "wikilink")「KIDS AT PLAY TOUR 2015-2016」FINAL SERIES
+  - 2015年12月29日 - [COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 15/16
+  - 2016年01月24日 - [GOOD4NOTHING](../Page/GOOD4NOTHING.md "wikilink")「KIDS AT PLAY TOUR 2015-2016」FINAL SERIES
   - 2016年01月25日 - 10-FEET TOUR 2016
-  - 2016年01月30日・31日 - [SABOTEN](https://ja.wikipedia.org/wiki/SABOTEN "wikilink") "MASTER PEACE TOUR 2015-2016"
+  - 2016年01月30日・31日 - [SABOTEN](../Page/SABOTEN.md "wikilink") "MASTER PEACE TOUR 2015-2016"
   - 2016年02月06日 - THE SUN ALSO RISES vol.21
   - 2016年02月14日 - [KNOCK OUT MONKEY](https://ja.wikipedia.org/wiki/KNOCK_OUT_MONKEY "wikilink") TOUR 2016 「RAISE A FIST」
   - 2016年05月13日 - TOWER RECORDS SAPPORO PIVOT 20th Anniversary NOrth MUSIC, NOrth LIFE. Vol.11

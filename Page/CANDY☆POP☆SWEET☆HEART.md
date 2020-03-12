@@ -1,7 +1,7 @@
 > この記事は[CANDYPOPSWEETHEART](https://ja.wikipedia.org/wiki/CANDYPOPSWEETHEART)から翻訳されています。
 
 
-「**CANDY☆POP☆SWEET☆HEART**」（キャンディー・ポップ・スイート・ハート）は、[声優](../Page/声優.md "wikilink")の[新谷良子](../Page/新谷良子.md "wikilink")が[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[5月24日](../Page/5月24日.md "wikilink")にリリースした8th[マキシシングル](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")。発売元は[Lantis](https://ja.wikipedia.org/wiki/ランティス "wikilink")、販売元は[キングレコード](../Page/キングレコード.md "wikilink")。
+「**CANDY☆POP☆SWEET☆HEART**」（キャンディー・ポップ・スイート・ハート）は、[声優](../Page/声優.md "wikilink")の[新谷良子](../Page/新谷良子.md "wikilink")が[2006年](../Page/2006年.md "wikilink")[5月24日](../Page/5月24日.md "wikilink")にリリースした8th[マキシシングル](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")。発売元は[Lantis](../Page/ランティス.md "wikilink")、販売元は[キングレコード](../Page/キングレコード.md "wikilink")。
 
 ## 解説
 
@@ -9,9 +9,9 @@
 
 1.  **CANDY☆POP☆SWEET☆HEART** \[4:05\]
       - 作詞・作曲・編曲：[R・O・N](../Page/R・O・N.md "wikilink")
-      - [テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[姫様ご用心](https://ja.wikipedia.org/wiki/姫様ご用心 "wikilink")』[エンディングテーマ](https://ja.wikipedia.org/wiki/主題歌 "wikilink")
+      - [テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[姫様ご用心](../Page/姫様ご用心.md "wikilink")』[エンディングテーマ](../Page/主題歌.md "wikilink")
 2.  **いたげる。from STUDIO☆BAMBI** \[4:08\]
-      - 作詞：[三重野瞳](https://ja.wikipedia.org/wiki/三重野瞳 "wikilink")、作曲：[田村信二](../Page/田村信二.md "wikilink")、編曲：[宮崎誠](https://ja.wikipedia.org/wiki/宮崎誠 "wikilink")
+      - 作詞：[三重野瞳](../Page/三重野瞳.md "wikilink")、作曲：[田村信二](../Page/田村信二.md "wikilink")、編曲：[宮崎誠](https://ja.wikipedia.org/wiki/宮崎誠 "wikilink")
 3.  CANDY☆POP☆SWEET☆HEART（off vocal）
 4.  いたげる。（off vocal）
 

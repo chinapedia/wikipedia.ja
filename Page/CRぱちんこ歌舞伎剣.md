@@ -1,15 +1,15 @@
 > この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
 
 
-**CRぱちんこ歌舞伎剣**（シーアールぱちんこかぶきソード）は、[京楽産業.](https://ja.wikipedia.org/wiki/京楽産業. "wikilink")の[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")機（[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプ）。[2007年](../Page/2007年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に導入が開始された。
+**CRぱちんこ歌舞伎剣**（シーアールぱちんこかぶきソード）は、[京楽産業.](../Page/京楽産業..md "wikilink")の[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")機（[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプ）。[2007年](../Page/2007年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に導入が開始された。
 
 [CRぱちんこウルトラマン](../Page/CRぱちんこウルトラマン.md "wikilink")などでお馴染みとなったバトルタイプを[甘デジ](https://ja.wikipedia.org/wiki/甘デジ "wikilink")スペックで実現させた機種である。
 
 ## 機種概要
 
-[CRぱちんこウルトラセブン](https://ja.wikipedia.org/wiki/CRぱちんこウルトラセブン "wikilink")や[CRぱちんこウルトラマン](../Page/CRぱちんこウルトラマン.md "wikilink")などのバトルタイプの登場により、バトルタイプは大連荘が期待できる機種として人気となったが、それらの機種は大当たり確率が1/400前後で大当りが引きにくいことにより、遊べない声もあった。その中で登場した「CRぱちんこ歌舞伎剣」はハネデジスペックながらバトルタイプということで、一回あたりの出玉は少ないものの、当りやすく大連荘が期待出来る機種として人気となった。「[遊パチ](https://ja.wikipedia.org/wiki/遊パチ "wikilink")」マークを持つ機種を対象とした、遊パチAWARDでは3位に入賞している。
+[CRぱちんこウルトラセブン](../Page/CRぱちんこウルトラセブン.md "wikilink")や[CRぱちんこウルトラマン](../Page/CRぱちんこウルトラマン.md "wikilink")などのバトルタイプの登場により、バトルタイプは大連荘が期待できる機種として人気となったが、それらの機種は大当たり確率が1/400前後で大当りが引きにくいことにより、遊べない声もあった。その中で登場した「CRぱちんこ歌舞伎剣」はハネデジスペックながらバトルタイプということで、一回あたりの出玉は少ないものの、当りやすく大連荘が期待出来る機種として人気となった。「[遊パチ](https://ja.wikipedia.org/wiki/遊パチ "wikilink")」マークを持つ機種を対象とした、遊パチAWARDでは3位に入賞している。
 
-この機種は、[元気の](https://ja.wikipedia.org/wiki/元気_\(ゲーム会社\) "wikilink")[Xbox用ソフト](../Page/Xbox_\(ゲーム機\).md "wikilink")『[斬 歌舞伎](https://ja.wikipedia.org/wiki/斬_歌舞伎 "wikilink")』が元ネタであり、キャラクターが流用されているが、それ以外の設定はパチンコオリジナル。理由は不明だが、京楽ではノンタイアップのオリジナル扱いとなっている。
+この機種は、[元気の](../Page/元気_\(ゲーム会社\).md "wikilink")[Xbox用ソフト](../Page/Xbox_\(ゲーム機\).md "wikilink")『[斬 歌舞伎](https://ja.wikipedia.org/wiki/斬_歌舞伎 "wikilink")』が元ネタであり、キャラクターが流用されているが、それ以外の設定はパチンコオリジナル。理由は不明だが、京楽ではノンタイアップのオリジナル扱いとなっている。
 
 ## スペック
 
@@ -333,7 +333,7 @@
 
 左近が登場して、髪振りで竜巻を巻き起こして図柄を飛ばしていきながら大当りを狙う。このとき、画面右側の岩の上にいるカエルによって信頼度が変化する。
 
-[ケロット](https://ja.wikipedia.org/wiki/ケロット "wikilink") ＞ ピンク色のカエル ＞ 青色のカエル
+[ケロット](../Page/ケロット.md "wikilink") ＞ ピンク色のカエル ＞ 青色のカエル
 
 ケロットが出た場合は大当り確定である。外れた後に、カエルが飛び上がれば「左近右近リーチ」に発展する。
 
@@ -407,7 +407,7 @@
 
   - 「男の剣が冴える時」
       -
-        作詞：[伊藤アキラ](https://ja.wikipedia.org/wiki/伊藤アキラ "wikilink") 作曲：[瀬川英史](https://ja.wikipedia.org/wiki/瀬川英史 "wikilink") 歌：京 楽之助
+        作詞：[伊藤アキラ](../Page/伊藤アキラ.md "wikilink") 作曲：[瀬川英史](https://ja.wikipedia.org/wiki/瀬川英史 "wikilink") 歌：京 楽之助
 
 歌手「京 楽之助」については、様々な説があるが、正体は不明である。
 

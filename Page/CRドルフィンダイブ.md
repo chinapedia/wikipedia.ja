@@ -1,9 +1,9 @@
 > この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
 
 
-**CRドルフィンダイブ**は、[藤商事](https://ja.wikipedia.org/wiki/藤商事 "wikilink")の[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")11月に導入が開始された。
+**CRドルフィンダイブ**は、[藤商事](../Page/藤商事.md "wikilink")の[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。[2005年](../Page/2005年.md "wikilink")11月に導入が開始された。
 
-パチンコメーカー各社がこぞって開発した[海物語シリーズ](https://ja.wikipedia.org/wiki/海物語シリーズ "wikilink")の亜流機種のひとつだが、本家よりも先に[遊パチ](https://ja.wikipedia.org/wiki/遊パチ "wikilink")スペックを導入した機種である。\[1\]
+パチンコメーカー各社がこぞって開発した[海物語シリーズ](../Page/海物語シリーズ.md "wikilink")の亜流機種のひとつだが、本家よりも先に[遊パチ](https://ja.wikipedia.org/wiki/遊パチ "wikilink")スペックを導入した機種である。\[1\]
 
 ## スペック
 
@@ -115,4 +115,4 @@
 
 [Category:パチンコ機種](https://ja.wikipedia.org/wiki/Category:パチンコ機種 "wikilink")
 
-1.  海物語シリーズ初の遊パチスペックとなる[CRスーパー海物語](https://ja.wikipedia.org/wiki/CRスーパー海物語 "wikilink")SAEの導入は2006年10月である。
+1.  海物語シリーズ初の遊パチスペックとなる[CRスーパー海物語](../Page/CRスーパー海物語.md "wikilink")SAEの導入は2006年10月である。

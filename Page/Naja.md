@@ -1,19 +1,19 @@
 > この記事は[Naja](https://ja.wikipedia.org/wiki/Naja)から翻訳されています。
 
 
-**naja**（ネイジャ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")である。2003年に限定活動。バンド名は[ネイティヴ・アメリカン](https://ja.wikipedia.org/wiki/ネイティヴ・アメリカン "wikilink")の言葉で「[かぼちゃ](https://ja.wikipedia.org/wiki/かぼちゃ "wikilink")」を意味する
+**naja**（ネイジャ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")である。2003年に限定活動。バンド名は[ネイティヴ・アメリカン](https://ja.wikipedia.org/wiki/ネイティヴ・アメリカン "wikilink")の言葉で「[かぼちゃ](https://ja.wikipedia.org/wiki/かぼちゃ "wikilink")」を意味する
 
 ## メンバー
 
   - **YURI**（ユリ、ボーカル）
-  - **横山達郎**（よこやま たつろう、ギター）元[RAZZ MA TAZZ](https://ja.wikipedia.org/wiki/RAZZ_MA_TAZZ "wikilink")
-  - **[五十嵐公太](https://ja.wikipedia.org/wiki/五十嵐公太 "wikilink")**（いがらし こうた、ドラム）元[JUDY AND MARY](../Page/JUDY_AND_MARY.md "wikilink")
+  - **横山達郎**（よこやま たつろう、ギター）元[RAZZ MA TAZZ](../Page/RAZZ_MA_TAZZ.md "wikilink")
+  - **[五十嵐公太](../Page/五十嵐公太.md "wikilink")**（いがらし こうた、ドラム）元[JUDY AND MARY](../Page/JUDY_AND_MARY.md "wikilink")
 
 ## ディスコグラフィー
 
 ### シングル
 
-1.  **火の鳥**（2003年2月19日）[TBS系](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")「[COUNT DOWN TV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")」2003年2月度オープニングテーマ
+1.  **火の鳥**（2003年2月19日）[TBS系](../Page/TBSテレビ.md "wikilink")「[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")」2003年2月度オープニングテーマ
     1.  火の鳥
     2.  青い林檎
     3.  火の鳥(instrumental)
@@ -49,8 +49,8 @@
 ## 関連項目
 
   - [大槻啓之](https://ja.wikipedia.org/wiki/大槻啓之 "wikilink")
-  - [オオヤギヒロオ](https://ja.wikipedia.org/wiki/オオヤギヒロオ "wikilink")
-  - [かの香織](https://ja.wikipedia.org/wiki/かの香織 "wikilink") - プロデュースを担当。
+  - [オオヤギヒロオ](../Page/オオヤギヒロオ.md "wikilink")
+  - [かの香織](../Page/かの香織.md "wikilink") - プロデュースを担当。
   - [宗像仁志](https://ja.wikipedia.org/wiki/宗像仁志 "wikilink")
 
 ## 外部リンク

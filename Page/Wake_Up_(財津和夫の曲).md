@@ -5,7 +5,7 @@
 
 ## 解説
 
-[TULIPの](https://ja.wikipedia.org/wiki/チューリップ_\(バンド\) "wikilink")[リーダー](https://ja.wikipedia.org/wiki/リーダー "wikilink")財津和夫のソロシングル。デビューシングルは売り上げが振るわなかったが、2作目である本作は[セイコーの](../Page/セイコーホールディングス.md "wikilink")[CMソングに起用され](https://ja.wikipedia.org/wiki/コマーシャルメッセージ "wikilink")、大ヒットを記録した。
+[TULIPの](https://ja.wikipedia.org/wiki/チューリップ_\(バンド\) "wikilink")[リーダー](https://ja.wikipedia.org/wiki/リーダー "wikilink")財津和夫のソロシングル。デビューシングルは売り上げが振るわなかったが、2作目である本作は[セイコーの](../Page/セイコーホールディングス.md "wikilink")[CMソングに起用され](../Page/コマーシャルメッセージ.md "wikilink")、大ヒットを記録した。
 
 のちに[アサヒ飲料](../Page/アサヒ飲料.md "wikilink")の缶コーヒー「[WONDA](../Page/WONDA.md "wikilink")モーニングショット」のCMにも使われている。
 

@@ -10,7 +10,7 @@
 ３つの事業分野をコアとして化学品の製造・販売・研究をおこなっている。
 
   - 基礎化学品事業（[溶剤](https://ja.wikipedia.org/wiki/溶剤 "wikilink")・[可塑剤](../Page/可塑剤.md "wikilink")原料・洗浄剤など）
-  - 機能性材料事業（[冷凍機油](https://ja.wikipedia.org/wiki/冷凍機油 "wikilink")原料・化粧品原料・洗剤原料など）
+  - 機能性材料事業（[冷凍機油](../Page/冷凍機油.md "wikilink")原料・化粧品原料・洗剤原料など）
   - 電子材料事業（[半導体](../Page/半導体.md "wikilink")用および[フラットパネルディスプレイ](https://ja.wikipedia.org/wiki/フラットパネルディスプレイ "wikilink")用高純度溶剤など）
 
 ## 沿革
@@ -23,7 +23,7 @@
   - [2011年](../Page/2011年.md "wikilink")3月 - [日本産業パートナーズ](https://ja.wikipedia.org/wiki/日本産業パートナーズ "wikilink")が運営する買収ファンドが出資する特別目的会社・ケイジェイホールディングスの完全子会社となり、協和発酵キリンから独立\[1\]。
   - 2011年6月 - ケイジェイホールディングスが協和発酵ケミカル（旧）を吸収合併するとともに、協和発酵ケミカル（新）に社名変更。
   - [2012年](../Page/2012年.md "wikilink")4月 - ＫＨネオケムに社名変更。
-  - [2016年](../Page/2016年.md "wikilink")10月 - [東京証券取引所](https://ja.wikipedia.org/wiki/東京証券取引所 "wikilink")市場第一部に上場。
+  - [2016年](../Page/2016年.md "wikilink")10月 - [東京証券取引所](../Page/東京証券取引所.md "wikilink")市場第一部に上場。
 
 ## 事業所
 
@@ -35,7 +35,7 @@
 
 ## グループ会社
 
-  - [ジェイ・プラス](https://ja.wikipedia.org/wiki/ジェイ・プラス "wikilink")（[三菱ケミカルとの合弁](https://ja.wikipedia.org/wiki/三菱化学 "wikilink")）
+  - [ジェイ・プラス](../Page/ジェイ・プラス.md "wikilink")（[三菱ケミカルとの合弁](https://ja.wikipedia.org/wiki/三菱化学 "wikilink")）
   - [黒金化成](https://ja.wikipedia.org/wiki/黒金化成 "wikilink")
   - 黒金ファインズ
   - KH Neochem Americas, Inc.

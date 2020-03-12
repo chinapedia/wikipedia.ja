@@ -19,7 +19,7 @@
 
 <!-- end list -->
 
-  - 美女と野汁（7月5日、[ワープエンタテインメント](https://ja.wikipedia.org/wiki/ワープエンタテインメント "wikilink")）
+  - 美女と野汁（7月5日、[ワープエンタテインメント](../Page/ワープエンタテインメント.md "wikilink")）
   - 青木教授のザーメンレポート 2（8月9日、ワープエンタテインメント）
   - アナタのザーメン飲んでアゲル（9月6日、ワープエンタテインメント）
   - ワープスペシャル kay.（10月4日、ワープエンタテインメント）
@@ -32,31 +32,31 @@
 
 <!-- end list -->
 
-  - 家庭狂師 Kay.（1月9日、[ドリームチケット](https://ja.wikipedia.org/wiki/ドリームチケット "wikilink")）
-  - 女優-拘束マニア Kay.（1月10日、[ワンズファクトリー](https://ja.wikipedia.org/wiki/ワンズファクトリー "wikilink")）
-  - コスプレックス 4（2月7日、[桃太郎映像出版](https://ja.wikipedia.org/wiki/桃太郎_\(アダルトビデオ\) "wikilink")）
-  - \[J\]model（2月15日、[スタイルアート](https://ja.wikipedia.org/wiki/スタイルアート "wikilink")（[MOODYZ](https://ja.wikipedia.org/wiki/MOODYZ "wikilink")））
+  - 家庭狂師 Kay.（1月9日、[ドリームチケット](../Page/ドリームチケット.md "wikilink")）
+  - 女優-拘束マニア Kay.（1月10日、[ワンズファクトリー](../Page/ワンズファクトリー.md "wikilink")）
+  - コスプレックス 4（2月7日、[桃太郎映像出版](../Page/桃太郎_\(アダルトビデオ\).md "wikilink")）
+  - \[J\]model（2月15日、[スタイルアート](https://ja.wikipedia.org/wiki/スタイルアート "wikilink")（[MOODYZ](../Page/MOODYZ.md "wikilink")））
   - Kay.の悪女宣言\[BAD GIRL\]（3月1日、ワンズファクトリー）
-  - 「強淫調教1」（3月20日、[プレステージ](https://ja.wikipedia.org/wiki/プレステージ_\(アダルトビデオ\) "wikilink")）
+  - 「強淫調教1」（3月20日、[プレステージ](../Page/プレステージ_\(アダルトビデオ\).md "wikilink")）
   - 「強淫調教2」（3月20日、プレステージ）
   - WET SEX ～濡れ下着～ Kay.（4月1日、ワンズファクトリー）
   - THE BEST Kay.未発表映像作品「封印解除」蔵出しFILM（4月17日、ワープエンタテインメント）
   - PUSSY\&HIP（4月15日、スタイルアート）
-  - 大衆風俗嬢3（5月3日、[ナチュラルハイ](https://ja.wikipedia.org/wiki/ナチュラルハイ_\(企業\) "wikilink")）
+  - 大衆風俗嬢3（5月3日、[ナチュラルハイ](../Page/ナチュラルハイ_\(企業\).md "wikilink")）
   - 女特別捜査官 輪姦陵辱（6月5日、[ヒビノ](https://ja.wikipedia.org/wiki/ヒビノ_\(アダルトビデオ\) "wikilink")）
-  - 夏祭り\!\[第2回\]ゆかた美人大集合 5（6月7日、桃太郎映像出版）他出演:[鮎川あみ](../Page/鮎川あみ.md "wikilink")、[音咲絢](https://ja.wikipedia.org/wiki/音咲絢 "wikilink")、浅倉まい
-  - 中出し VIP Kay.（6月20日、[忠実堂](https://ja.wikipedia.org/wiki/ソフト・オン・デマンド "wikilink")）
-  - ワガママ◆コスプレ VOL.2（6月20日、ナチュラルハイ）他出演:[沢口あすか](https://ja.wikipedia.org/wiki/沢口あすか "wikilink")、奈々瀬あい、[七瀬里帆](https://ja.wikipedia.org/wiki/七瀬里帆 "wikilink")、[海野真珠](https://ja.wikipedia.org/wiki/海野真珠 "wikilink")
+  - 夏祭り\!\[第2回\]ゆかた美人大集合 5（6月7日、桃太郎映像出版）他出演:[鮎川あみ](../Page/鮎川あみ.md "wikilink")、[音咲絢](../Page/音咲絢.md "wikilink")、浅倉まい
+  - 中出し VIP Kay.（6月20日、[忠実堂](../Page/ソフト・オン・デマンド.md "wikilink")）
+  - ワガママ◆コスプレ VOL.2（6月20日、ナチュラルハイ）他出演:[沢口あすか](../Page/沢口あすか.md "wikilink")、奈々瀬あい、[七瀬里帆](https://ja.wikipedia.org/wiki/七瀬里帆 "wikilink")、[海野真珠](https://ja.wikipedia.org/wiki/海野真珠 "wikilink")
   - Bad Luck Kay.（7月11日、[ビッグモーカル](https://ja.wikipedia.org/wiki/ビッグモーカル "wikilink")）
   - 外撮りNGのKay.ちゃんを外で撮っちゃいました。（7月19日、忠実堂）
   - 「強淫調教3」（7月19日、プレステージ）
-  - [ドリーム学園](https://ja.wikipedia.org/wiki/ドリーム学園 "wikilink")7（8月1日、MOODYZ）共演:[南波杏](https://ja.wikipedia.org/wiki/南波杏 "wikilink")、[泉星香](https://ja.wikipedia.org/wiki/泉星香 "wikilink")、[杏野るり](https://ja.wikipedia.org/wiki/杏野るり "wikilink")、[氷咲沙弥](https://ja.wikipedia.org/wiki/氷咲沙弥 "wikilink")、かわいひかる
+  - [ドリーム学園](https://ja.wikipedia.org/wiki/ドリーム学園 "wikilink")7（8月1日、MOODYZ）共演:[南波杏](../Page/南波杏.md "wikilink")、[泉星香](../Page/泉星香.md "wikilink")、[杏野るり](../Page/杏野るり.md "wikilink")、[氷咲沙弥](https://ja.wikipedia.org/wiki/氷咲沙弥 "wikilink")、かわいひかる
   - 五ハメ VOL.2（8月16日、忠実堂）
   - BODY EROS（8月16日、GUTS）他出演:音咲絢、[すぎはら美里](https://ja.wikipedia.org/wiki/すぎはら美里 "wikilink")
-  - 女教師服従 Kay.（8月22日、[笠倉出版社](https://ja.wikipedia.org/wiki/笠倉出版社 "wikilink")）
-  - Kay.のま○こはラブラブカップルの愛を壊すのか?（10月8日、[はじめ企画](https://ja.wikipedia.org/wiki/はじめ企画 "wikilink")）
-  - NO.1女教師軍団（10月18日、[アイエナジー](https://ja.wikipedia.org/wiki/アイエナジー "wikilink")）共演:[渡瀬晶](https://ja.wikipedia.org/wiki/渡瀬晶 "wikilink")、海野真珠、すぎはら美里
-  - No.1 美女 11人斬り OL+女教師4時間（11月6日、アイエナジー）他出演:[長瀬愛](../Page/長瀬愛.md "wikilink")、[松坂樹梨](https://ja.wikipedia.org/wiki/松坂樹梨 "wikilink")、渡瀬晶、[長谷川瞳](https://ja.wikipedia.org/wiki/長谷川瞳_\(AV女優\) "wikilink")、[宝来みゆき](../Page/宝来みゆき.md "wikilink")、蒼吹雪、愛葉ゆうき、佐藤エリ、[月咲舞](https://ja.wikipedia.org/wiki/月咲舞 "wikilink")、夢見はな
+  - 女教師服従 Kay.（8月22日、[笠倉出版社](../Page/笠倉出版社.md "wikilink")）
+  - Kay.のま○こはラブラブカップルの愛を壊すのか?（10月8日、[はじめ企画](../Page/はじめ企画.md "wikilink")）
+  - NO.1女教師軍団（10月18日、[アイエナジー](../Page/アイエナジー.md "wikilink")）共演:[渡瀬晶](../Page/渡瀬晶.md "wikilink")、海野真珠、すぎはら美里
+  - No.1 美女 11人斬り OL+女教師4時間（11月6日、アイエナジー）他出演:[長瀬愛](../Page/長瀬愛.md "wikilink")、[松坂樹梨](../Page/松坂樹梨.md "wikilink")、渡瀬晶、[長谷川瞳](https://ja.wikipedia.org/wiki/長谷川瞳_\(AV女優\) "wikilink")、[宝来みゆき](../Page/宝来みゆき.md "wikilink")、蒼吹雪、愛葉ゆうき、佐藤エリ、[月咲舞](../Page/月咲舞.md "wikilink")、夢見はな
   - STAR BOX Kay. ドラマティックレッドストーリー編（11月16日、ワープエンタテインメント）
 
 <!-- end list -->
@@ -67,7 +67,7 @@
 
   - スペレズ（1月8日、忠実堂）共演:[明乃夕奈](https://ja.wikipedia.org/wiki/明乃夕奈 "wikilink")
   - 中出し地獄極上美人妻（2月19日、アイエナジー）
-  - private dance（8月15日、スタイルアート）他出演:[姫咲しゅり](https://ja.wikipedia.org/wiki/姫咲しゅり "wikilink")、渡瀬晶、[朝河蘭](../Page/朝河蘭.md "wikilink")、すぎはら美里、[安西利香](../Page/安西梨香.md "wikilink")（[安西梨香](../Page/安西梨香.md "wikilink")）、ゆりあ、[かわいゆい](https://ja.wikipedia.org/wiki/かわいゆい "wikilink")、[沖那つばさ](https://ja.wikipedia.org/wiki/沖那つばさ "wikilink")、片瀬梨音
+  - private dance（8月15日、スタイルアート）他出演:[姫咲しゅり](../Page/姫咲しゅり.md "wikilink")、渡瀬晶、[朝河蘭](../Page/朝河蘭.md "wikilink")、すぎはら美里、[安西利香](../Page/安西梨香.md "wikilink")（[安西梨香](../Page/安西梨香.md "wikilink")）、ゆりあ、[かわいゆい](https://ja.wikipedia.org/wiki/かわいゆい "wikilink")、[沖那つばさ](https://ja.wikipedia.org/wiki/沖那つばさ "wikilink")、片瀬梨音
 
 <!-- end list -->
 
@@ -79,7 +79,7 @@
   - private dance 2（1月15日、スタイルアート）他出演:姫咲しゅり、[ゆうきりり](../Page/ゆうきりり.md "wikilink")、ゆりあ、渡瀬晶、沖那つばさ、遊佐七海、沢口あすか、安西梨香
   - 僕、専用。 10号\[KAY\]（3月12日、ゴーゴーズ）
   - 美BODY ～エロエゴイスト～ Kay.（3月18日、[GLAY'z](https://ja.wikipedia.org/wiki/GLAY'z "wikilink")）
-  - 淫猥女教師 [すぎはら美里](https://ja.wikipedia.org/wiki/すぎはら美里 "wikilink")、Kay.、[甘衣かおり](https://ja.wikipedia.org/wiki/甘衣かおり "wikilink")、[月丘うさぎ](https://ja.wikipedia.org/wiki/月丘うさぎ "wikilink")、[立花里子](https://ja.wikipedia.org/wiki/立花里子 "wikilink")（10月28日、笠倉出版社）
+  - 淫猥女教師 [すぎはら美里](https://ja.wikipedia.org/wiki/すぎはら美里 "wikilink")、Kay.、[甘衣かおり](https://ja.wikipedia.org/wiki/甘衣かおり "wikilink")、[月丘うさぎ](../Page/月丘うさぎ.md "wikilink")、[立花里子](../Page/立花里子.md "wikilink")（10月28日、笠倉出版社）
 
 <!-- end list -->
 
@@ -88,7 +88,7 @@
 <!-- end list -->
 
   - STAR BOX Kay. ガチンコブルードキュメント編（2月24日、ワープエンタテインメント）
-  - 淫語オナニー 上村理沙、[林由美香](https://ja.wikipedia.org/wiki/林由美香 "wikilink")、[青山遥](https://ja.wikipedia.org/wiki/青山遥_\(AV女優\) "wikilink")、川上怜、Kay.、南ちづる（4月14日、NEXT GROUP）
+  - 淫語オナニー 上村理沙、[林由美香](../Page/林由美香.md "wikilink")、[青山遥](https://ja.wikipedia.org/wiki/青山遥_\(AV女優\) "wikilink")、川上怜、Kay.、南ちづる（4月14日、NEXT GROUP）
 
 以下、発売日不明。
 

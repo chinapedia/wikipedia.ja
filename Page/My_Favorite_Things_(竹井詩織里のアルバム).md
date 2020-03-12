@@ -1,21 +1,21 @@
 > この記事は[My Favorite Things \(\)](https://ja.wikipedia.org/wiki/My_Favorite_Things_\(\))から翻訳されています。
 
 
-『**My Favorite Things**』（マイ フェイバリット シングス）は、[竹井詩織里](https://ja.wikipedia.org/wiki/竹井詩織里 "wikilink")の1枚目のアルバム。CDコードはGZCA-5049。
+『**My Favorite Things**』（マイ フェイバリット シングス）は、[竹井詩織里](../Page/竹井詩織里.md "wikilink")の1枚目のアルバム。CDコードはGZCA-5049。
 
 ## 概要
 
   - 「静かなるメロディー」「君に恋してる」の2曲のシングル曲を収録したファーストアルバム。
-  - [HMV](../Page/HMV.md "wikilink")の主要店舗限定で先着購入者特典として、映画『[サウンド・オブ・ミュージック](../Page/サウンド・オブ・ミュージック.md "wikilink")』の劇中歌でもありタイトルにも冠している「[My Favorite Things](https://ja.wikipedia.org/wiki/私のお気に入り "wikilink")」をカバー収録した8cmCDが封入されていた。この曲はもともと本作の収録曲として制作が進められていたが、収録が中止となり、今回は特典CDのみの収録となったが後に彼女の2nd Indies Album 「[The note of my nineteen years](https://ja.wikipedia.org/wiki/The_note_of_my_nineteen_years "wikilink")」に収録される。
+  - [HMV](../Page/HMV.md "wikilink")の主要店舗限定で先着購入者特典として、映画『[サウンド・オブ・ミュージック](../Page/サウンド・オブ・ミュージック.md "wikilink")』の劇中歌でもありタイトルにも冠している「[My Favorite Things](../Page/私のお気に入り.md "wikilink")」をカバー収録した8cmCDが封入されていた。この曲はもともと本作の収録曲として制作が進められていたが、収録が中止となり、今回は特典CDのみの収録となったが後に彼女の2nd Indies Album 「[The note of my nineteen years](../Page/The_note_of_my_nineteen_years.md "wikilink")」に収録される。
 
 ## 収録曲
 
 1.  **[静かなるメロディー](../Page/静かなるメロディー.md "wikilink")**
-      - 作詞：[AZUKI七](https://ja.wikipedia.org/wiki/AZUKI七 "wikilink")／作曲：[大野愛果](https://ja.wikipedia.org/wiki/大野愛果 "wikilink")／編曲：[小林哲](https://ja.wikipedia.org/wiki/小林哲 "wikilink")
+      - 作詞：[AZUKI七](https://ja.wikipedia.org/wiki/AZUKI七 "wikilink")／作曲：[大野愛果](../Page/大野愛果.md "wikilink")／編曲：[小林哲](../Page/小林哲.md "wikilink")
 2.  **あの海が見えたら**
-      - 作詞：竹井詩織里／作曲：[徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")／編曲：[麻井寛史](https://ja.wikipedia.org/wiki/麻井寛史 "wikilink")
+      - 作詞：竹井詩織里／作曲：[徳永暁人](../Page/徳永暁人.md "wikilink")／編曲：[麻井寛史](../Page/麻井寛史.md "wikilink")
 3.  **[close line](../Page/静かなるメロディー.md "wikilink")**
-      - 作詞：AZUKI七／作曲：[後藤康二](https://ja.wikipedia.org/wiki/後藤康二 "wikilink")／編曲：小林哲
+      - 作詞：AZUKI七／作曲：[後藤康二](../Page/後藤康二.md "wikilink")／編曲：小林哲
 4.  **[蜜月](../Page/きっともう恋にはならない.md "wikilink")**(後にLive ver.がシングル、「[きっともう恋にはならない](../Page/きっともう恋にはならない.md "wikilink")」に収録される。)
       - 作詞：竹井詩織里／作曲：[高森健太](https://ja.wikipedia.org/wiki/高森健太 "wikilink")／編曲：[増崎孝司](https://ja.wikipedia.org/wiki/増崎孝司 "wikilink")
 5.  **新しい季節**

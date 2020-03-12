@@ -1,7 +1,7 @@
 > この記事は[ \(PSP\)](https://ja.wikipedia.org/wiki/_\(PSP\))から翻訳されています。
 
 
-『**首都高バトル**』（しゅとこうバトル）は、[元気が](https://ja.wikipedia.org/wiki/元気_\(ゲーム会社\) "wikilink")[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月21日](../Page/4月21日.md "wikilink")に発売した[PlayStation Portable用](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")[レーシングゲーム](https://ja.wikipedia.org/wiki/レーシングゲーム "wikilink")で、[首都高バトルシリーズ](https://ja.wikipedia.org/wiki/首都高バトルシリーズ "wikilink")の一本。
+『**首都高バトル**』（しゅとこうバトル）は、[元気が](../Page/元気_\(ゲーム会社\).md "wikilink")[2005年](../Page/2005年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink")に発売した[PlayStation Portable用](../Page/PlayStation_Portable.md "wikilink")[レーシングゲーム](https://ja.wikipedia.org/wiki/レーシングゲーム "wikilink")で、[首都高バトルシリーズ](../Page/首都高バトルシリーズ.md "wikilink")の一本。
 
 ## ゲームモード
 
@@ -17,15 +17,15 @@
 <!-- end list -->
 
 1.  [トヨタ・スプリンタートレノ](../Page/トヨタ・スプリンタートレノ.md "wikilink") GT-APEX 3door(AE86)
-2.  [トヨタ・MR-S](https://ja.wikipedia.org/wiki/トヨタ・MR-S "wikilink") "S-Edition" (ZZW30)☆
-3.  [トヨタ・セリカ](https://ja.wikipedia.org/wiki/トヨタ・セリカ "wikilink") SS-II(ZZT231)
-4.  [トヨタ・アルテッツァ](https://ja.wikipedia.org/wiki/トヨタ・アルテッツァ "wikilink") RS200 L EDITION (SXE10) ※特定のエアロやドレスアップパーツの選択により、[BMW・3シリーズ](https://ja.wikipedia.org/wiki/BMW・3シリーズ "wikilink")(E46)のような見た目になる。
-5.  [トヨタ・クラウン](https://ja.wikipedia.org/wiki/トヨタ・クラウン "wikilink") Athlete "G Package"(GRS182)
-6.  [トヨタ・スープラ](https://ja.wikipedia.org/wiki/トヨタ・スープラ "wikilink") RZ (JZA80)☆
+2.  [トヨタ・MR-S](../Page/トヨタ・MR-S.md "wikilink") "S-Edition" (ZZW30)☆
+3.  [トヨタ・セリカ](../Page/トヨタ・セリカ.md "wikilink") SS-II(ZZT231)
+4.  [トヨタ・アルテッツァ](../Page/トヨタ・アルテッツァ.md "wikilink") RS200 L EDITION (SXE10) ※特定のエアロやドレスアップパーツの選択により、[BMW・3シリーズ](../Page/BMW・3シリーズ.md "wikilink")(E46)のような見た目になる。
+5.  [トヨタ・クラウン](../Page/トヨタ・クラウン.md "wikilink") Athlete "G Package"(GRS182)
+6.  [トヨタ・スープラ](../Page/トヨタ・スープラ.md "wikilink") RZ (JZA80)☆
 
 <!-- end list -->
 
-  - [NISSAN](https://ja.wikipedia.org/wiki/日産自動車 "wikilink")
+  - [NISSAN](../Page/日産自動車.md "wikilink")
 
 <!-- end list -->
 
@@ -33,10 +33,10 @@
 2.  日産・シルビア スペックRエアロ (S15)
 3.  [日産・180SX](../Page/日産・180SX.md "wikilink") TYPE X (RPS13)
 4.  [日産・グロリア](../Page/日産・グロリア.md "wikilink") Gran Turismo Ultima300 (HY34)
-5.  [日産・フェアレディZ](https://ja.wikipedia.org/wiki/日産・フェアレディZ "wikilink") Z-L(S30) ※エアロパーツの組み合わせで、S130に似た仕様にできる。
+5.  [日産・フェアレディZ](../Page/日産・フェアレディZ.md "wikilink") Z-L(S30) ※エアロパーツの組み合わせで、S130に似た仕様にできる。
 6.  日産・フェアレディZ 300ZX TWIN TURBO 2by2 (GCZ32)
 7.  日産・フェアレディZ Version S (Z33)☆
-8.  [日産・スカイラインGT-R](https://ja.wikipedia.org/wiki/日産・スカイラインGT-R "wikilink") (BNR32)
+8.  [日産・スカイラインGT-R](../Page/日産・スカイラインGT-R.md "wikilink") (BNR32)
 9.  日産・スカイラインGT-R V-specII nur(BNR34)☆ ※グレードは特別仕様車の「Nur」であるが、「Nur」の専用色である「ミレニアムジェイド」は収録されていない。
 
 <!-- end list -->
@@ -45,7 +45,7 @@
 
 <!-- end list -->
 
-1.  [マツダ・ロードスター](https://ja.wikipedia.org/wiki/マツダ・ロードスター "wikilink") ターボ (NB8C)
+1.  [マツダ・ロードスター](../Page/マツダ・ロードスター.md "wikilink") ターボ (NB8C)
 2.  [マツダ・RX-8](../Page/マツダ・RX-8.md "wikilink") TYPE S (SE3P)
 3.  [マツダ・RX-7](../Page/マツダ・RX-7.md "wikilink") ∞ (FC3S)
 4.  [マツダ・RX-7](../Page/マツダ・RX-7.md "wikilink") SPIRIT R TypeA (FD3S)
@@ -100,8 +100,8 @@
 
 <!-- end list -->
 
-  - Silver Wolf(GCZ32)-[ナイトライダー](../Page/ナイトライダー.md "wikilink")に登場する[ナイト2000](https://ja.wikipedia.org/wiki/ナイト2000 "wikilink")のようなボディチューンを施してあり、[ポンティアック・ファイヤーバード](https://ja.wikipedia.org/wiki/ポンティアック・ファイヤーバード "wikilink")のようなデザインになっている。プレイヤータイプはK.I.T.T.風、ワンダラータイプはK.A.R.R.風。
-  - Unknown(S30)-漫画『[湾岸ミッドナイト](https://ja.wikipedia.org/wiki/湾岸ミッドナイト "wikilink")』に登場する「悪魔のZ」に似ている。ただし突然操縦不能になることは無い。プレイヤータイプはオレンジなのに対し、ワンダラータイプは青色である。
+  - Silver Wolf(GCZ32)-[ナイトライダー](../Page/ナイトライダー.md "wikilink")に登場する[ナイト2000](../Page/ナイト2000.md "wikilink")のようなボディチューンを施してあり、[ポンティアック・ファイヤーバード](../Page/ポンティアック・ファイヤーバード.md "wikilink")のようなデザインになっている。プレイヤータイプはK.I.T.T.風、ワンダラータイプはK.A.R.R.風。
+  - Unknown(S30)-漫画『[湾岸ミッドナイト](../Page/湾岸ミッドナイト.md "wikilink")』に登場する「悪魔のZ」に似ている。ただし突然操縦不能になることは無い。プレイヤータイプはオレンジなのに対し、ワンダラータイプは青色である。
 
 <!-- end list -->
 
@@ -109,7 +109,7 @@
 
 <!-- end list -->
 
-  - Midnight Cinderella(SE3P)-[RE雨宮](https://ja.wikipedia.org/wiki/RE雨宮 "wikilink")製のエアロを装着。プレイヤータイプは青色なのに対し、ワンダラータイプはオレンジにカーボンボンネット仕様である。
+  - Midnight Cinderella(SE3P)-[RE雨宮](../Page/RE雨宮.md "wikilink")製のエアロを装着。プレイヤータイプは青色なのに対し、ワンダラータイプはオレンジにカーボンボンネット仕様である。
 
 <!-- end list -->
 
@@ -125,7 +125,7 @@
 
 <!-- end list -->
 
-  - White Charisma(FD3S)-[RE雨宮](https://ja.wikipedia.org/wiki/RE雨宮 "wikilink")製のエアロを装着。しかしヘッドライトはプレイヤーは選択できないR magic製。違いはバイナルの色のみ。
+  - White Charisma(FD3S)-[RE雨宮](../Page/RE雨宮.md "wikilink")製のエアロを装着。しかしヘッドライトはプレイヤーは選択できないR magic製。違いはバイナルの色のみ。
 
 <!-- end list -->
 
@@ -141,7 +141,7 @@
 
 <!-- end list -->
 
-  - Grief Pluto(GDB)-ボンネットとリアガラスに少女の絵が描かれた、いわゆる[痛車](https://ja.wikipedia.org/wiki/痛車 "wikilink")である(ライバルリストにも「美少女ゲームが好き」と書かれている)。ブレーキランプはR34GT-R風。フロントの少女の衣装と髪の色以外相違点は無い。
+  - Grief Pluto(GDB)-ボンネットとリアガラスに少女の絵が描かれた、いわゆる[痛車](../Page/痛車.md "wikilink")である(ライバルリストにも「美少女ゲームが好き」と書かれている)。ブレーキランプはR34GT-R風。フロントの少女の衣装と髪の色以外相違点は無い。
 
 <!-- end list -->
 
@@ -158,8 +158,8 @@
 <!-- end list -->
 
   - Purple Meteor(BNR32)-[JGTC](https://ja.wikipedia.org/wiki/全日本GT選手権 "wikilink")94年当時を彷彿とさせるエアロで、大型ウイングが特徴。プレイヤータイプは黒色なのに対し、ワンダラータイプは紫色である。バイナルは同一。
-  - Triple Claw(BNR34)-このマシンのみ例外的に「MSM-07」という車両形式。リアの巨大な[マフラーが特徴](https://ja.wikipedia.org/wiki/マフラー_\(原動機\) "wikilink")。これらの元ネタは『[機動戦士ガンダム](https://ja.wikipedia.org/wiki/機動戦士ガンダム "wikilink")』に登場するモビルスーツの[ズゴック](../Page/ズゴック.md "wikilink")。ワンダラータイプは専用機、プレイヤータイプは量産機。天井のナンバーも「07s」「07」と違っている。
-  - Emperor(BNR34)-5速シフトに変更されている。ボンネットには[金剛力士](https://ja.wikipedia.org/wiki/金剛力士 "wikilink")が筆絵で描かれている。ボンネットの文字が「迅(ワンダラー)」、「疾(プレイヤー)」と相違している。また、プレイヤータイプは白に赤文字なのに対し、ワンダラータイプは青に白文字である。
+  - Triple Claw(BNR34)-このマシンのみ例外的に「MSM-07」という車両形式。リアの巨大な[マフラーが特徴](https://ja.wikipedia.org/wiki/マフラー_\(原動機\) "wikilink")。これらの元ネタは『[機動戦士ガンダム](../Page/機動戦士ガンダム.md "wikilink")』に登場するモビルスーツの[ズゴック](../Page/ズゴック.md "wikilink")。ワンダラータイプは専用機、プレイヤータイプは量産機。天井のナンバーも「07s」「07」と違っている。
+  - Emperor(BNR34)-5速シフトに変更されている。ボンネットには[金剛力士](../Page/金剛力士.md "wikilink")が筆絵で描かれている。ボンネットの文字が「迅(ワンダラー)」、「疾(プレイヤー)」と相違している。また、プレイヤータイプは白に赤文字なのに対し、ワンダラータイプは青に白文字である。
 
 <!-- end list -->
 
@@ -282,15 +282,15 @@
 
   - 首都高速道路の再現
       - 実際の[首都高速道路](https://ja.wikipedia.org/wiki/首都高速道路 "wikilink")の車線や標識、首都高沿線のビルや[東京タワー](https://ja.wikipedia.org/wiki/東京タワー "wikilink")なども再現されている。
-      - 実際の首都高と同じ場所に[自動速度取締機](https://ja.wikipedia.org/wiki/自動速度取締機 "wikilink")(オービス)が設置されている箇所もあるが『[首都高バトル0](https://ja.wikipedia.org/wiki/首都高バトル0 "wikilink")』のように速度超過してCPが差し引かれるシステムは無い。
+      - 実際の首都高と同じ場所に[自動速度取締機](https://ja.wikipedia.org/wiki/自動速度取締機 "wikilink")(オービス)が設置されている箇所もあるが『[首都高バトル0](../Page/首都高バトル0.md "wikilink")』のように速度超過してCPが差し引かれるシステムは無い。
   - ナンバープレート
       - プレイヤー自身が選択した車種に地名や数字、ひらがなを自由に決めてナンバーを作成することができる。また、ひらがな選択では「Y」(課税、軍人私有)も選択できる。
   - アザーカー
-      - 『首都高バトル0』ではトラック、タクシー、社用車、『[首都高バトル01](https://ja.wikipedia.org/wiki/首都高バトル01 "wikilink")』ではオフィシャルカー([トヨタ・ハイエース](https://ja.wikipedia.org/wiki/トヨタ・ハイエース "wikilink")がベース)がアザーカーとして走っていたが今作はプレイヤーが選択できるクルマ(シルビアやインプレッサ、グロリアなど)がアザーカーとして走っている。
+      - 『首都高バトル0』ではトラック、タクシー、社用車、『[首都高バトル01](../Page/首都高バトル01.md "wikilink")』ではオフィシャルカー([トヨタ・ハイエース](../Page/トヨタ・ハイエース.md "wikilink")がベース)がアザーカーとして走っていたが今作はプレイヤーが選択できるクルマ(シルビアやインプレッサ、グロリアなど)がアザーカーとして走っている。
 
 ## 関連項目
 
   - [首都高速道路](https://ja.wikipedia.org/wiki/首都高速道路 "wikilink")
-  - [首都高バトルシリーズ](https://ja.wikipedia.org/wiki/首都高バトルシリーズ "wikilink")
+  - [首都高バトルシリーズ](../Page/首都高バトルシリーズ.md "wikilink")
 
 [Category:2005年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2005年のコンピュータゲーム "wikilink") [Category:元気のゲームソフト](https://ja.wikipedia.org/wiki/Category:元気のゲームソフト "wikilink") [Category:首都高バトル](https://ja.wikipedia.org/wiki/Category:首都高バトル "wikilink") [Category:PlayStation_Portable用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_Portable用ソフト "wikilink")

@@ -1,7 +1,7 @@
 > この記事は[-MORNING KYOTO](https://ja.wikipedia.org/wiki/-MORNING_KYOTO)から翻訳されています。
 
 
-**α-MORNING KYOTO**（アルファ モーニング キョウト）は、[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")から2019年7月まで[α-STATIONで放送されていた番組で](../Page/エフエム京都.md "wikilink")、α-STATION開局当時から放送されていた番組である。なお、2016年4月より金曜日は**α-MORNING GOLD**（アルファ モーニング ゴールド）と番組名を改題して放送していた。
+**α-MORNING KYOTO**（アルファ モーニング キョウト）は、[1991年](../Page/1991年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")から2019年7月まで[α-STATIONで放送されていた番組で](../Page/エフエム京都.md "wikilink")、α-STATION開局当時から放送されていた番組である。なお、2016年4月より金曜日は**α-MORNING GOLD**（アルファ モーニング ゴールド）と番組名を改題して放送していた。
 
 2019年6月3日にDJを担当していた佐藤弘樹が病死した事をうけ、2019年7月19日の放送をもって番組終了となった。
 
@@ -9,15 +9,15 @@
 
 ## 歴史
 
-  - 開局当初（[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")）から放送されている、同局きっての長寿番組の一つだった。ただし開局当初は番組ではなくゾーン名であり（詳細は[エフエム京都](../Page/エフエム京都.md "wikilink")を参照のこと）、7時になるといきなりα-LINE HEADLINE NEWSが始まることでスタートしていた。
-  - 開局から[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")までのDJは[渡辺大之伸](https://ja.wikipedia.org/wiki/渡辺大之伸 "wikilink")。ただし、渡辺は9時までの出演であり、9時以降はノンDJとなっていた。
+  - 開局当初（[1991年](../Page/1991年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")）から放送されている、同局きっての長寿番組の一つだった。ただし開局当初は番組ではなくゾーン名であり（詳細は[エフエム京都](../Page/エフエム京都.md "wikilink")を参照のこと）、7時になるといきなりα-LINE HEADLINE NEWSが始まることでスタートしていた。
+  - 開局から[1992年](../Page/1992年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")までのDJは[渡辺大之伸](https://ja.wikipedia.org/wiki/渡辺大之伸 "wikilink")。ただし、渡辺は9時までの出演であり、9時以降はノンDJとなっていた。
   - 1992年4月～1993年9月までは曜日代わりで外国人DJが担当していたことがあった。
-  - 1993年10月、2代目のDJとして、[佐藤弘樹](https://ja.wikipedia.org/wiki/佐藤弘樹 "wikilink")が2019年5月21日まで25年8か月の長きにわたってDJを務めた\[1\]。
+  - 1993年10月、2代目のDJとして、[佐藤弘樹](../Page/佐藤弘樹.md "wikilink")が2019年5月21日まで25年8か月の長きにわたってDJを務めた\[1\]。
 
 ## 佐藤の逝去と番組の終焉
 
   - 2019年5月22日以降は、佐藤が病気療養により休養に入ったため、月〜木は前枠のANNEXから[秋田美幸](https://ja.wikipedia.org/wiki/秋田美幸 "wikilink")が、金曜は[マツモトアキノリ](https://ja.wikipedia.org/wiki/マツモトアキノリ "wikilink")が担当。なお、佐藤は2019年6月3日に死去\[2\]。同17日の放送で佐藤が死去したことが公表された\[3\]\[4\]。24日以降は月・火・金が秋田、水・木がマツモトが正式に3代目のDJを務めた。
-  - 2019年7月8日、オンエアと公式サイトで『α-MORNING KYOTO』『α-MORNING GOLD』の終了が発表され、2019年7月19日の放送をもって1991年7月から放送開始したα-MORNINGシリーズは28年に亘る番組の歴史に幕を下ろすこととなった。7月22日からの月〜木は現在夕方の『[MOVING FILE](https://ja.wikipedia.org/wiki/MOVING_FILE "wikilink")』\[5\]担当中の[三嶋真路](https://ja.wikipedia.org/wiki/三嶋真路 "wikilink")\[6\]による『**[MORNING GRID](https://ja.wikipedia.org/wiki/MORNING_GRID "wikilink")**』、7月26日からの金曜日は引き続き秋田美幸が担当する『**[MORNING SPRITE](https://ja.wikipedia.org/wiki/MORNING_SPRITE "wikilink")**』、また『α-MORNING ANEEX』も終了し、7月22日より1980年代のディスコソングやユーロビートサウンドを送るノンストップミュージックプログラム『**α-MEZAMMIN’ BEAT**』へと変更されることとなった。
+  - 2019年7月8日、オンエアと公式サイトで『α-MORNING KYOTO』『α-MORNING GOLD』の終了が発表され、2019年7月19日の放送をもって1991年7月から放送開始したα-MORNINGシリーズは28年に亘る番組の歴史に幕を下ろすこととなった。7月22日からの月〜木は現在夕方の『[MOVING FILE](../Page/MOVING_FILE.md "wikilink")』\[5\]担当中の[三嶋真路](https://ja.wikipedia.org/wiki/三嶋真路 "wikilink")\[6\]による『**[MORNING GRID](https://ja.wikipedia.org/wiki/MORNING_GRID "wikilink")**』、7月26日からの金曜日は引き続き秋田美幸が担当する『**[MORNING SPRITE](https://ja.wikipedia.org/wiki/MORNING_SPRITE "wikilink")**』、また『α-MORNING ANEEX』も終了し、7月22日より1980年代のディスコソングやユーロビートサウンドを送るノンストップミュージックプログラム『**α-MEZAMMIN’ BEAT**』へと変更されることとなった。
 
 ## 放送時間の遍歴
 
@@ -48,7 +48,7 @@
 **α-MORNING KYOTO**
 
   - 1991年7月 - 1992年3月 : 渡辺大之伸
-  - 1993年10月 - 2019年5月 : [佐藤弘樹](https://ja.wikipedia.org/wiki/佐藤弘樹 "wikilink")
+  - 1993年10月 - 2019年5月 : [佐藤弘樹](../Page/佐藤弘樹.md "wikilink")
   - 2019年6月 - 2019年7月 : 秋田美幸（月 - 火）、マツモトアキノリ（水 - 木）
 
 **α-MORNING GOLD**
@@ -66,7 +66,7 @@
 
 ## 概要
 
-同局の平日の朝の情報番組として、ニュースや、その日のイベント情報、ワールドワイドな話題を提供している。BGMとしては、同局のコンセプトである[アダルト・コンテンポラリー・ミュージック](../Page/アダルト・コンテンポラリー・ミュージック.md "wikilink")に沿って放送しており、同局のこの番組以降に放送される、いわゆる[リクエスト番組](https://ja.wikipedia.org/wiki/リクエスト番組 "wikilink")とは異なる。このアダルト・コンテンポラリー・ミュージックと異なる選曲（Smash BreakやSplash GrooveといったPowerPlayに指定されている曲等）のみをDJが曲紹介を行う。
+同局の平日の朝の情報番組として、ニュースや、その日のイベント情報、ワールドワイドな話題を提供している。BGMとしては、同局のコンセプトである[アダルト・コンテンポラリー・ミュージック](../Page/アダルト・コンテンポラリー・ミュージック.md "wikilink")に沿って放送しており、同局のこの番組以降に放送される、いわゆる[リクエスト番組](../Page/リクエスト番組.md "wikilink")とは異なる。このアダルト・コンテンポラリー・ミュージックと異なる選曲（Smash BreakやSplash GrooveといったPowerPlayに指定されている曲等）のみをDJが曲紹介を行う。
 
 また、DJが喋る部分が長めであるのも特徴である。
 
@@ -81,7 +81,7 @@
   - What's Up With Sanga,Today
     [京都サンガ](https://ja.wikipedia.org/wiki/京都サンガ "wikilink")についての情報コーナー。試合結果や練習の様子などを紹介する。月曜日の7時台後半に放送されていた。コーナー中のBGMは[Brian Auger](https://ja.wikipedia.org/wiki/ブライアン・オーガー "wikilink")'s Oblivion Express の「Freddie's Flight」を使用している。なお、金曜日放送のα-MORNING GOLDでもこのコーナーは放送されていた。
   - One Point English
-    [京都外国語大学](../Page/京都外国語大学.md "wikilink")の[講師を務めているDJが](https://ja.wikipedia.org/wiki/講師_\(教育\) "wikilink")、毎回[英語](../Page/英語.md "wikilink")、特に[英会話](https://ja.wikipedia.org/wiki/英会話 "wikilink")におけるポイントを分かりやすく解説している。8時台中盤に放送されていた。コーナー中のBGM\[8\]は[Kenny Barronの](https://ja.wikipedia.org/wiki/Kenny_Barron "wikilink")「My One Sin」を使用している。なお、金曜日放送のα-MORNING GOLDでもこのコーナーは放送されていた。
+    [京都外国語大学](../Page/京都外国語大学.md "wikilink")の[講師を務めているDJが](https://ja.wikipedia.org/wiki/講師_\(教育\) "wikilink")、毎回[英語](../Page/英語.md "wikilink")、特に[英会話](../Page/英会話.md "wikilink")におけるポイントを分かりやすく解説している。8時台中盤に放送されていた。コーナー中のBGM\[8\]は[Kenny Barronの](https://ja.wikipedia.org/wiki/Kenny_Barron "wikilink")「My One Sin」を使用している。なお、金曜日放送のα-MORNING GOLDでもこのコーナーは放送されていた。
   - Kyoto Educational Window（第2・第4水曜）
     京都府の教育に対する取り組みについて、担当者をスタジオに招いて話を聞く。9時台中盤に放送されていた。
   - α-float
@@ -141,6 +141,6 @@
 8.  以前は[Nabowa](https://ja.wikipedia.org/wiki/Nabowa "wikilink")の「Bell」、[Clap Stomp Swingin'の](https://ja.wikipedia.org/wiki/Clap_Stomp_Swingin' "wikilink")「Stompin' At The Savoy」、[Beegie Adairの](https://ja.wikipedia.org/wiki/Beegie_Adair "wikilink")「Chicago」などが使用されていた。
 9.  2015年4月から金曜から木曜に曜日が変更になった。なお、金曜日に放送されていた時は、たまにコーナーが10時台にかかることがあり、その結果として、後番組のα-MORNING KYOTO ANNEXのスタート時間が10時10分を過ぎる時があった。
 10. 通常は、1人の[アーティストに限定されている](../Page/歌手.md "wikilink")。
-11. ANNEXの時間帯は、α-MORNING KYOTOとは違い、[インストゥルメンタルが多かった](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")。
+11. ANNEXの時間帯は、α-MORNING KYOTOとは違い、[インストゥルメンタルが多かった](../Page/器楽曲.md "wikilink")。
 12. 月～木曜日は10時3分前後、金曜日は前述のα-floatの影響で10時8分前後からスタートしていた。
 13. 5月2日は金曜日だったため、ANNEX金曜日担当の秋田がアナウンスしている。

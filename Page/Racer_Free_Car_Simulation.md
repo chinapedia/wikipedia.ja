@@ -1,11 +1,11 @@
 > この記事は[Racer Free Car Simulation](https://ja.wikipedia.org/wiki/Racer_Free_Car_Simulation)から翻訳されています。
 
 
-**Racer Free Car Simulation**（レーサーフリーカーシミュレーション）とは、Ruud van Gaal氏を中心にCrudenが制作した[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")用の[ドライビングシミュレーター](https://ja.wikipedia.org/wiki/ドライビングシミュレーター "wikilink")。略して「Racer」と呼ばれる。(現在ではRacer Car and Racing Simulatorの呼称もある)
+**Racer Free Car Simulation**（レーサーフリーカーシミュレーション）とは、Ruud van Gaal氏を中心にCrudenが制作した[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")用の[ドライビングシミュレーター](../Page/ドライビングシミュレーター.md "wikilink")。略して「Racer」と呼ばれる。(現在ではRacer Car and Racing Simulatorの呼称もある)
 
 ## 概要
 
-Racerは[フリーウェア](../Page/フリーウェア.md "wikilink")であり、本体、コース、マシン共に全て無料で手に入る。また、マシン、コースは個人で制作されている場合が多く、中には個性的なものや、現在では希少な車もある。（[デロリアン](https://ja.wikipedia.org/wiki/デロリアン "wikilink")DMC12等。）マシン、コースの自作が可能。車の動きは全て[C言語](../Page/C言語.md "wikilink")を簡単にしたような英数字で制御されている為、車のファイルフォルダにある「car.ini」を変更すると、チューニングも可能。また「views.ini」を変更すると、メーター類の位置の変更も可能。ある程度慣れれば、自作のメーターを移植する事も出来る。
+Racerは[フリーウェア](../Page/フリーウェア.md "wikilink")であり、本体、コース、マシン共に全て無料で手に入る。また、マシン、コースは個人で制作されている場合が多く、中には個性的なものや、現在では希少な車もある。（[デロリアン](../Page/デロリアン.md "wikilink")DMC12等。）マシン、コースの自作が可能。車の動きは全て[C言語](../Page/C言語.md "wikilink")を簡単にしたような英数字で制御されている為、車のファイルフォルダにある「car.ini」を変更すると、チューニングも可能。また「views.ini」を変更すると、メーター類の位置の変更も可能。ある程度慣れれば、自作のメーターを移植する事も出来る。
 
 近年のバージョンでは路面へのライト照射効果、ブレーキディスクの過熱(ビジュアル面のみ)、進化した描画性能によりかなり手の込んだ車やコースも制作、使用が可能となった。([グランツーリスモ5](https://ja.wikipedia.org/wiki/グランツーリスモ5 "wikilink")への対抗心を示唆するキャッチコピーも見られる)但し、その分初期バージョンより要求される性能が高まり、新バージョンではバグも多い。
 

@@ -11,9 +11,9 @@
   - [1973年](../Page/1973年.md "wikilink")4月 - 石川島東京サービス株式会社に社名変更。
   - [1973年](../Page/1973年.md "wikilink")4月 - （旧）石川島汎用機サービス株式会社と合併し、石川島汎用機サービス株式会社（略称IHS）に社名変更。
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")11月 - 株式を店頭公開（現[ジャスダック](https://ja.wikipedia.org/wiki/ジャスダック "wikilink")）。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")9月 - ジャスダック証券取引所上場廃止。
+  - [2006年](../Page/2006年.md "wikilink")9月 - ジャスダック証券取引所上場廃止。
   - 2006年10月 - 石川島播磨重工業（現IHI）の完全子会社となる。
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")7月 - 石川島風水力サービス株式会社（略称ICP）を合併し、石川島汎用機械株式会社（略称IHK）から承継した回転機械事業を統合。IHI回転機械（略称ICM）に社名変更。
+  - [2007年](../Page/2007年.md "wikilink")7月 - 石川島風水力サービス株式会社（略称ICP）を合併し、石川島汎用機械株式会社（略称IHK）から承継した回転機械事業を統合。IHI回転機械（略称ICM）に社名変更。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")8月 - 本社を東雲に移転、統合。
   - [2009年](../Page/2009年.md "wikilink")4月 - 株式会社IHI精機（略称ISK）を合併。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")4月 - 株式会社ニッシンを合併し、航空機器事業を株式会社IHIエアロマニュファクチャリング（略称IAM）として事業分割。

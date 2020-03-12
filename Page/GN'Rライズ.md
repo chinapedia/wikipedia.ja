@@ -6,7 +6,7 @@
 ## 解説
 
   - 1986年にリリースされた4曲入りEP『Live?\!☆@ Like A Suicide』にアクースティックの新録4曲を加えたもの。前半の4曲はスタジオ録音に歓声をかぶせただけの疑似ライブである。
-  - "Nice Boys"はRose Tattooの、"Mama Kin"は[エアロスミス](https://ja.wikipedia.org/wiki/エアロスミス "wikilink")のそれぞれカバーである。
+  - "Nice Boys"はRose Tattooの、"Mama Kin"は[エアロスミス](../Page/エアロスミス.md "wikilink")のそれぞれカバーである。
   - 「ワン・イン・ア・ミリオン」は、歌詞が移民や[同性愛者](https://ja.wikipedia.org/wiki/同性愛者 "wikilink")を差別していると言われ、物議を醸した。
   - このアルバムリリース後に初来日（当初は7月来日予定だったが、アクセルの急性気管支炎により12月に変更となる。）
   - 翌年に「Patience」がシングル・カットされ、全米4位を記録。

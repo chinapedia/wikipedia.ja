@@ -11,7 +11,7 @@
 
 後の[F4H](https://ja.wikipedia.org/wiki/F4H "wikilink")はこの機体の主要構成を受け継いでいる。しかし、初期には「醜いアヒルの子」とまで呼ばれたややスマートさに欠けるF4Hと異なり、機体が小柄な分、F3Hはあたかも[チョウゲンボウ](../Page/チョウゲンボウ.md "wikilink")などの小型[猛禽類](../Page/猛禽類.md "wikilink")を思わせる精悍なシルエットを持っていた。
 
-武装は、20mm[機関砲](https://ja.wikipedia.org/wiki/機関砲 "wikilink")や爆弾・ロケットのほか、レーダー誘導の[スパロー](https://ja.wikipedia.org/wiki/スパロー_\(ミサイル\) "wikilink")[空対空ミサイル](../Page/空対空ミサイル.md "wikilink")を搭載していた。
+武装は、20mm[機関砲](../Page/機関砲.md "wikilink")や爆弾・ロケットのほか、レーダー誘導の[スパロー](../Page/スパロー_\(ミサイル\).md "wikilink")[空対空ミサイル](../Page/空対空ミサイル.md "wikilink")を搭載していた。
 
 初期の機体で事故が相次いだため、F3Hには悪評がつきまとった。ただし、事故の原因は主に搭載していたJ40エンジンの不具合による物で、J71エンジンの換装後は安定した性能を発揮している。
 
@@ -21,9 +21,9 @@
 
 [F-3B_Demons_from_VF-13_in_flight_1963.jpg](https://ja.wikipedia.org/wiki/File:F-3B_Demons_from_VF-13_in_flight_1963.jpg "fig:F-3B_Demons_from_VF-13_in_flight_1963.jpg") [F3H-2M_with_Sparrows_NAN2-59.jpg](https://ja.wikipedia.org/wiki/File:F3H-2M_with_Sparrows_NAN2-59.jpg "fig:F3H-2M_with_Sparrows_NAN2-59.jpg")
 
-[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")は、[FHファントムを皮切りに艦上ジェット戦闘機の開発を続々と行い](../Page/FH_\(航空機\).md "wikilink")、[F9Fパンサー](https://ja.wikipedia.org/wiki/F9F_\(航空機\) "wikilink")（1948年初飛行）など、その性能は急速に向上していた。
+[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")は、[FHファントムを皮切りに艦上ジェット戦闘機の開発を続々と行い](../Page/FH_\(航空機\).md "wikilink")、[F9Fパンサー](../Page/F9F_\(航空機\).md "wikilink")（1948年初飛行）など、その性能は急速に向上していた。
 
-アメリカ海軍は1948年5月21日に各メーカーに対し、[ウェスティングハウス・エレクトリック](https://ja.wikipedia.org/wiki/ウェスティングハウス・エレクトリック "wikilink")社の新型高性能ジェットエンジンXJ40を用いた艦上防空戦闘機の提案要求を行った。これには6社が応じ、1948年12月にその中からマクドネル社のモデル58案（単発・後退翼）が採用された。1949年1月より開発が開始された。開発期間中の[1950年](../Page/1950年.md "wikilink")に[朝鮮戦争](https://ja.wikipedia.org/wiki/朝鮮戦争 "wikilink")が勃発したこともあり、機体の目的は防空のみだけではなく、全天候能力や対地支援能力も付加されることとなった。
+アメリカ海軍は1948年5月21日に各メーカーに対し、[ウェスティングハウス・エレクトリック](../Page/ウェスティングハウス・エレクトリック.md "wikilink")社の新型高性能ジェットエンジンXJ40を用いた艦上防空戦闘機の提案要求を行った。これには6社が応じ、1948年12月にその中からマクドネル社のモデル58案（単発・後退翼）が採用された。1949年1月より開発が開始された。開発期間中の[1950年](../Page/1950年.md "wikilink")に[朝鮮戦争](https://ja.wikipedia.org/wiki/朝鮮戦争 "wikilink")が勃発したこともあり、機体の目的は防空のみだけではなく、全天候能力や対地支援能力も付加されることとなった。
 
 能力付加のほか、XJ40ジェットエンジンの開発が難航したため、開発は遅れ、試作機XF3H-1は[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")8月7日に初飛行している。量産型のF3H-1Nは1951年3月に発注され、1953年12月24日に初飛行している。
 
@@ -61,23 +61,23 @@ F3Hは、1959年まで生産が続けられた。1964年には最後の配備飛
   - 全長：17.98m
   - 全幅：10.76m
   - 全高：4.44m
-  - エンジン：アリソンJ71 [ターボジェットエンジン](https://ja.wikipedia.org/wiki/ターボジェットエンジン "wikilink")（推力 6,640kg）1基
+  - エンジン：アリソンJ71 [ターボジェットエンジン](../Page/ターボジェットエンジン.md "wikilink")（推力 6,640kg）1基
   - 乗員：1名
   - 最大速度：1,152 km/h（海面高度）、1,041 km/h（3,000フィート）
   - 武装
       - 固定武装：[コルト Mk12](https://ja.wikipedia.org/wiki/コルト_Mk12 "wikilink") 20mm機関砲 4門
-      - ミサイルなど：空対空ミサイル 4発（スパローまたは[サイドワインダー](https://ja.wikipedia.org/wiki/サイドワインダー_\(ミサイル\) "wikilink")）、爆弾など
+      - ミサイルなど：空対空ミサイル 4発（スパローまたは[サイドワインダー](../Page/サイドワインダー_\(ミサイル\).md "wikilink")）、爆弾など
 
 ## 現存する機体
 
   - 番号は、米海軍航空局番号(BuNo.)である。
 
-| 型名     | 番号     | 機体写真                                                                                                                      | 国名           | 所有者                                                                                                               | 公開状況 | 状態   | 備考                                                                                                       |
-| ------ | ------ | ------------------------------------------------------------------------------------------------------------------------- | ------------ | ----------------------------------------------------------------------------------------------------------------- | ---- | ---- | -------------------------------------------------------------------------------------------------------- |
-| F3H-2M | 137078 | [180x180ピクセル](https://ja.wikipedia.org/wiki/ファイル:F3H-2M_at_the_National_Museum_of_Naval_Aviation.jpg "wikilink")          | アメリカ フロリダ州   | [国立海軍航空博物館](https://ja.wikipedia.org/wiki/国立海軍航空博物館 "wikilink")[1](https://www.navalaviationmuseum.org/)          | 公開   | 静態展示 | [2](https://www.navalaviationmuseum.org/attractions/aircraft-exhibits/item/?item=f3h_demon)              |
-| F3H-2N | 133566 | [180x180ピクセル](https://ja.wikipedia.org/wiki/ファイル:McDonnell_F3H-2N_Demon_‘133566_-_AG-100’_\(30629957446\).jpg "wikilink") | アメリカ ニューヨーク州 | [イントレピッド海上航空宇宙博物館](https://ja.wikipedia.org/wiki/イントレピッド海上航空宇宙博物館 "wikilink")[3](https://www.intrepidmuseum.org/) | 公開   | 静態展示 | [4](https://www.intrepidmuseum.org/LatestNews/November-2013/Demon-Rolls-Out-after-Extensive-Restoration) |
-| F3H-2N | 145221 | [180x180ピクセル](https://ja.wikipedia.org/wiki/ファイル:2015-08-20_13-35-49.pima.arizona.jpg "wikilink")                         | アメリカ アリゾナ州   | [ピマ航空宇宙博物館](https://ja.wikipedia.org/wiki/:en:Pima_Air_&_Space_Museum "wikilink")[5](http://www.pimaair.org/)     | 公開   | 静態展示 | [6](http://www.pimaair.org/aircraft-by-name/item/mcdonnell-f-3b-demon)                                   |
-|        |        |                                                                                                                           |              |                                                                                                                   |      |      |                                                                                                          |
+| 型名     | 番号     | 機体写真                                                                                                                      | 国名           | 所有者                                                                                                           | 公開状況 | 状態   | 備考                                                                                                       |
+| ------ | ------ | ------------------------------------------------------------------------------------------------------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------- | ---- | ---- | -------------------------------------------------------------------------------------------------------- |
+| F3H-2M | 137078 | [180x180ピクセル](https://ja.wikipedia.org/wiki/ファイル:F3H-2M_at_the_National_Museum_of_Naval_Aviation.jpg "wikilink")          | アメリカ フロリダ州   | [国立海軍航空博物館](https://ja.wikipedia.org/wiki/国立海軍航空博物館 "wikilink")[1](https://www.navalaviationmuseum.org/)      | 公開   | 静態展示 | [2](https://www.navalaviationmuseum.org/attractions/aircraft-exhibits/item/?item=f3h_demon)              |
+| F3H-2N | 133566 | [180x180ピクセル](https://ja.wikipedia.org/wiki/ファイル:McDonnell_F3H-2N_Demon_‘133566_-_AG-100’_\(30629957446\).jpg "wikilink") | アメリカ ニューヨーク州 | [イントレピッド海上航空宇宙博物館](../Page/イントレピッド海上航空宇宙博物館.md "wikilink")[3](https://www.intrepidmuseum.org/)                | 公開   | 静態展示 | [4](https://www.intrepidmuseum.org/LatestNews/November-2013/Demon-Rolls-Out-after-Extensive-Restoration) |
+| F3H-2N | 145221 | [180x180ピクセル](https://ja.wikipedia.org/wiki/ファイル:2015-08-20_13-35-49.pima.arizona.jpg "wikilink")                         | アメリカ アリゾナ州   | [ピマ航空宇宙博物館](https://ja.wikipedia.org/wiki/:en:Pima_Air_&_Space_Museum "wikilink")[5](http://www.pimaair.org/) | 公開   | 静態展示 | [6](http://www.pimaair.org/aircraft-by-name/item/mcdonnell-f-3b-demon)                                   |
+|        |        |                                                                                                                           |              |                                                                                                               |      |      |                                                                                                          |
 
 ## 参考文献
 
@@ -86,7 +86,7 @@ F3Hは、1959年まで生産が続けられた。1964年には最後の配備飛
 
 ## 関連項目
 
-  - [F4D](https://ja.wikipedia.org/wiki/F4D_\(航空機\) "wikilink")
+  - [F4D](../Page/F4D_\(航空機\).md "wikilink")
 
 <!-- end list -->
 

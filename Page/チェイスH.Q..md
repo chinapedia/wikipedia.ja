@@ -7,18 +7,18 @@
 
 開発はタイトー大阪研究所が行い、ゲーム・デザインは『[オペレーションサンダーボルト](../Page/オペレーションサンダーボルト.md "wikilink")』（1988年）を手掛けた酒匂弘幸が担当し、音楽は[ゴダイゴ](../Page/ゴダイゴ.md "wikilink")のギタリストである[浅野孝已](../Page/浅野孝已.md "wikilink")が担当している。
 
-欧州にて各種ホビーパソコンに移植された他、[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")や[PCエンジン](../Page/PCエンジン.md "wikilink")等の家庭用ゲーム機、[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")や[ゲームギア](../Page/ゲームギア.md "wikilink")等の携帯型ゲーム機、[FM TOWNS](../Page/FM_TOWNS.md "wikilink")、[X68000](https://ja.wikipedia.org/wiki/X68000 "wikilink")等の日本国産パソコン等にも移植された。アレンジ移植版としては、[メガドライブ](../Page/メガドライブ.md "wikilink")用ソフト『**スーパーH.Q.**』（[1992年](../Page/1992年.md "wikilink")）や[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用ソフト『**スーパーH.Q. クリミナルチェイサー**』（[1993年](../Page/1993年.md "wikilink")）等が発売された。[2004年](../Page/2004年.md "wikilink")以降は[携帯電話ゲーム](https://ja.wikipedia.org/wiki/携帯電話ゲーム "wikilink")として『**CHASE H.Q. 3D**』が配信された。アーケード版は[PlayStation 2用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『**[タイトーメモリーズ 下巻](https://ja.wikipedia.org/wiki/タイトーメモリーズ "wikilink")II**』（[2007年](../Page/2007年.md "wikilink")）に収録され、PCエンジン版は[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")用ソフトとして[バーチャルコンソール](https://ja.wikipedia.org/wiki/バーチャルコンソール "wikilink")にて配信された。
+欧州にて各種ホビーパソコンに移植された他、[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")や[PCエンジン](../Page/PCエンジン.md "wikilink")等の家庭用ゲーム機、[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")や[ゲームギア](../Page/ゲームギア.md "wikilink")等の携帯型ゲーム機、[FM TOWNS](../Page/FM_TOWNS.md "wikilink")、[X68000](https://ja.wikipedia.org/wiki/X68000 "wikilink")等の日本国産パソコン等にも移植された。アレンジ移植版としては、[メガドライブ](../Page/メガドライブ.md "wikilink")用ソフト『**スーパーH.Q.**』（[1992年](../Page/1992年.md "wikilink")）や[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用ソフト『**スーパーH.Q. クリミナルチェイサー**』（[1993年](../Page/1993年.md "wikilink")）等が発売された。[2004年](../Page/2004年.md "wikilink")以降は[携帯電話ゲーム](../Page/携帯電話ゲーム.md "wikilink")として『**CHASE H.Q. 3D**』が配信された。アーケード版は[PlayStation 2用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『**[タイトーメモリーズ 下巻](../Page/タイトーメモリーズ.md "wikilink")II**』（[2007年](../Page/2007年.md "wikilink")）に収録され、PCエンジン版は[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")用ソフトとして[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")にて配信された。
 
-PCエンジン版はゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「[クロスレビュー](https://ja.wikipedia.org/wiki/クロスレビュー "wikilink")」にてシルバー殿堂入りを獲得した。
+PCエンジン版はゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「[クロスレビュー](../Page/クロスレビュー.md "wikilink")」にてシルバー殿堂入りを獲得した。
 
-[1989年](../Page/1989年.md "wikilink")には続編の『[S.C.I.](../Page/S.C.I..md "wikilink")』と番外編であるアクションゲーム『[クライムシティ](https://ja.wikipedia.org/wiki/クライムシティ "wikilink")』が発表され、このゲームのキャラクターを利用したクイズゲーム『[クイズH.Q.](https://ja.wikipedia.org/wiki/クイズH.Q. "wikilink")』も[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に登場している。その後の続編としては[1993年](../Page/1993年.md "wikilink")に『[スーパーチェイスクリミナルターミネーション](../Page/スーパーチェイスクリミナルターミネーション.md "wikilink")』が登場した。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")には[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")国外向けで新作『チェイスH.Q.2』が発表されていたが、[2007年](../Page/2007年.md "wikilink")12月上旬、日本国内でも稼働開始した。
+[1989年](../Page/1989年.md "wikilink")には続編の『[S.C.I.](../Page/S.C.I..md "wikilink")』と番外編であるアクションゲーム『[クライムシティ](https://ja.wikipedia.org/wiki/クライムシティ "wikilink")』が発表され、このゲームのキャラクターを利用したクイズゲーム『[クイズH.Q.](https://ja.wikipedia.org/wiki/クイズH.Q. "wikilink")』も[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に登場している。その後の続編としては[1993年](../Page/1993年.md "wikilink")に『[スーパーチェイスクリミナルターミネーション](../Page/スーパーチェイスクリミナルターミネーション.md "wikilink")』が登場した。[2006年](../Page/2006年.md "wikilink")には[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")国外向けで新作『チェイスH.Q.2』が発表されていたが、[2007年](../Page/2007年.md "wikilink")12月上旬、日本国内でも稼働開始した。
 
 ## ゲーム内容
 
   - 全5ステージから成り、各ステージの序盤は司令室・ナンシーからの指令に基づき、[犯罪](https://ja.wikipedia.org/wiki/犯罪 "wikilink")を犯し逃走する犯人の車に追いつくべくトニーとレイモンドの二人の刑事が乗る車が急行するモードからはじまる。ステアリング、シフトレバー、ブレーキ、アクセルペダルを巧みに操作して同じ道を行く一般車輌に衝突することのないように走行し、犯人車輌に追いつくと追跡・逮捕モードに移行。
   - 逃げる[犯人](https://ja.wikipedia.org/wiki/犯人 "wikilink")車輌を追いかけ、体当たりを重ねて走行不能に陥れ、逮捕へ結びつけるとステージクリアとなる。
       - 実は隠し要素として、犯人車両を追い抜く（一定時間前に出る）ことでもステージクリアになる。成功するとダメージメーターが満タンでなくても犯人の車が停車する。
-  - 1ゲームにつき、[ニトロが数回](https://ja.wikipedia.org/wiki/ナイトラス・オキサイド・システム "wikilink")（設定により変更可能：通常は3回）使用できる。ニトロを使用すると一定時間最高速となり、犯人車輌への体当たりにおいても敵側に与えるダメージは強力なものとなる。
+  - 1ゲームにつき、[ニトロが数回](../Page/ナイトラス・オキサイド・システム.md "wikilink")（設定により変更可能：通常は3回）使用できる。ニトロを使用すると一定時間最高速となり、犯人車輌への体当たりにおいても敵側に与えるダメージは強力なものとなる。
   - 犯人車輌を取り逃がすと、ナンシーから辛辣なコメントがプレイヤーに浴びせられ、犯人車輌が高速で検問を突破する様子が流れてゲームオーバー。
   - 基本的なシステムは『[フルスロットル](../Page/フルスロットル_\(ゲーム\).md "wikilink")』のものを流用しているので、同様の（クラッシュ後のステアリングやペダルの再センタリングに関する）バグがある。
 
@@ -46,7 +46,7 @@ PCエンジン版はゲーム誌『[ファミコン通信](https://ja.wikipedia.
 <td><p><a href="../Page/Amiga.md" title="wikilink">Amiga</a><br />
 <a href="https://ja.wikipedia.org/wiki/Amstrad_CPC" title="wikilink">Amstrad CPC</a><br />
 <a href="../Page/Atari_ST.md" title="wikilink">Atari ST</a><br />
-<a href="https://ja.wikipedia.org/wiki/コモドール64" title="wikilink">コモドール64</a><br />
+<a href="../Page/コモドール64.md" title="wikilink">コモドール64</a><br />
 <a href="https://ja.wikipedia.org/wiki/MSX" title="wikilink">MSX</a><br />
 <a href="../Page/ZX_Spectrum.md" title="wikilink">ZX Spectrum</a></p></td>
 <td><p>Teque Software</p></td>
@@ -73,7 +73,7 @@ PCエンジン版はゲーム誌『[ファミコン通信](https://ja.wikipedia.
 <td><p><a href="../Page/PCエンジン.md" title="wikilink">PCエンジン</a></p></td>
 <td><p>タイトー</p></td>
 <td><p>タイトー</p></td>
-<td><p>3メガビット<a href="https://ja.wikipedia.org/wiki/HuCARD" title="wikilink">HuCARD</a>[2]</p></td>
+<td><p>3メガビット<a href="../Page/HuCARD.md" title="wikilink">HuCARD</a>[2]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -181,8 +181,8 @@ I.T.L.</p></td>
 <td><p>13</p></td>
 <td><p>チェイスH.Q.</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/CDMA_1X_WIN" title="wikilink">CDMA 1X WIN端末</a><br />
-（<a href="https://ja.wikipedia.org/wiki/BREW" title="wikilink">EZアプリ (BREW)</a>）</p></td>
+<td><p><a href="../Page/CDMA_1X_WIN.md" title="wikilink">CDMA 1X WIN端末</a><br />
+（<a href="../Page/BREW.md" title="wikilink">EZアプリ (BREW)</a>）</p></td>
 <td><p>タイトー</p></td>
 <td><p>タイトー</p></td>
 <td><p><a href="../Page/ダウンロード販売.md" title="wikilink">ダウンロード</a><br />
@@ -241,7 +241,7 @@ I.T.L.</p></td>
 </tr>
 <tr class="even">
 <td><p>18</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/タイトーメモリーズ" title="wikilink">タイトーメモリーズ 下巻</a>II</p></td>
+<td><p><a href="../Page/タイトーメモリーズ.md" title="wikilink">タイトーメモリーズ 下巻</a>II</p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_2" title="wikilink">PlayStation 2</a></p></td>
 <td><p>タイトー</p></td>
@@ -258,7 +258,7 @@ I.T.L.</p></td>
 <td><p>タイトー</p></td>
 <td><p>タイトー</p></td>
 <td><p>ダウンロード<br />
-（<a href="https://ja.wikipedia.org/wiki/バーチャルコンソール" title="wikilink">バーチャルコンソール</a>）</p></td>
+（<a href="../Page/バーチャルコンソール.md" title="wikilink">バーチャルコンソール</a>）</p></td>
 <td><p>-</p></td>
 <td><p>PCエンジン版の移植。</p></td>
 </tr>
@@ -278,7 +278,7 @@ I.T.L.</p></td>
   - アーケード版
     当時のゲーム雑誌『[ゲーメスト](../Page/ゲーメスト.md "wikilink")』の企画「第3回[ゲーメスト大賞](https://ja.wikipedia.org/wiki/ゲーメスト大賞 "wikilink")」（1989年）で、読者投票により年間ヒットゲームで10位を獲得している\[5\]。
   - ファミリーコンピュータ版
-    ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「[クロスレビュー](https://ja.wikipedia.org/wiki/クロスレビュー "wikilink")」では合計24（満40点）\[6\]、『[ファミリーコンピュータMagazine](https://ja.wikipedia.org/wiki/ファミリーコンピュータMagazine "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、18.49点（満30点）となっている\[7\]。
+    ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「[クロスレビュー](../Page/クロスレビュー.md "wikilink")」では合計24（満40点）\[6\]、『[ファミリーコンピュータMagazine](../Page/ファミリーコンピュータMagazine.md "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、18.49点（満30点）となっている\[7\]。
 
 | 項目 | キャラクタ | 音楽   | 操作性  | 熱中度  | お買得度 | オリジナリティ | 総合    |
 | -- | ----- | ---- | ---- | ---- | ---- | ------- | ----- |
@@ -312,7 +312,7 @@ I.T.L.</p></td>
 | -- | ----- | ---- | ---- | ---- | ---- | ------- | ----- |
 | 得点 | 3.13  | 3.13 | 3.26 | 3.65 | 3.06 | 3.13    | 19.36 |
 
-  - ゲーム本『メガドライブ大全』（[2004年](../Page/2004年.md "wikilink")、[太田出版](https://ja.wikipedia.org/wiki/太田出版 "wikilink")）では、ステージが一新された事やプレイヤーカーが追加された事に触れた上で「それ以外はどこがどうスーパーなのかよくわからない出来」と否定的に評価した\[15\]。また、アーケード版の特徴であった音声がカットされている事や、走行時の爽快感やクラッシュ時の破壊感が目減りしている事に関して酷評した\[16\]。
+  - ゲーム本『メガドライブ大全』（[2004年](../Page/2004年.md "wikilink")、[太田出版](../Page/太田出版.md "wikilink")）では、ステージが一新された事やプレイヤーカーが追加された事に触れた上で「それ以外はどこがどうスーパーなのかよくわからない出来」と否定的に評価した\[15\]。また、アーケード版の特徴であった音声がカットされている事や、走行時の爽快感やクラッシュ時の破壊感が目減りしている事に関して酷評した\[16\]。
 
 ## 脚注
 

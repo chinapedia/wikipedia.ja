@@ -1,14 +1,14 @@
 > この記事は[MusiG](https://ja.wikipedia.org/wiki/MusiG)から翻訳されています。
 
 
-『**MusiG**』（ミュージッグ）は、[日本テレビ系列](../Page/日本テレビ系列.md "wikilink")で放送された[読売テレビ制作の](../Page/讀賣テレビ放送.md "wikilink")[音楽](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。制作局の[読売テレビでは](../Page/讀賣テレビ放送.md "wikilink")、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月6日](../Page/4月6日.md "wikilink")から 2007年9月末まで放送された。
+『**MusiG**』（ミュージッグ）は、[日本テレビ系列](../Page/日本テレビ系列.md "wikilink")で放送された[読売テレビ制作の](../Page/讀賣テレビ放送.md "wikilink")[音楽](../Page/音楽番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。制作局の[読売テレビでは](../Page/讀賣テレビ放送.md "wikilink")、[2006年](../Page/2006年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")から 2007年9月末まで放送された。
 
 ## 概要
 
   - [山口智充](../Page/山口智充.md "wikilink")が扮する「MCグーチー」が独断と偏見で選んだ最新の音楽情報をカウントダウン形式で紹介。スタジオには毎回話題のアーティストが登場する。2007年4月をもって、「MCグーチー」を終了し、屋台を舞台としたトークに変遷した。
   - MusiGのGとは、山口の愛称「ぐっさん(GUSSAN)」に由来する。
   - 「今週の丸投げ」
-      - 山口智充と[俳優](../Page/俳優.md "wikilink")の[山本耕史](https://ja.wikipedia.org/wiki/山本耕史 "wikilink")が番組[プロデューサー](../Page/プロデューサー.md "wikilink")から「2人でこんな歌作って」と丸投げされて、即興で作曲し披露する。
+      - 山口智充と[俳優](../Page/俳優.md "wikilink")の[山本耕史](../Page/山本耕史.md "wikilink")が番組[プロデューサー](../Page/プロデューサー.md "wikilink")から「2人でこんな歌作って」と丸投げされて、即興で作曲し披露する。
   - 「佐野ROCK\!」
       - 「ROCKな似た言葉」山口と[佐野元春](../Page/佐野元春.md "wikilink")が番組に寄せられた似た言葉をロックかロックでないか判断する。
       - 「ポール or ジョン」日常でよく見る、人間のちょっとした行動を[ポール的か](../Page/ポール・マッカートニー.md "wikilink")、[ジョン的か判断する](../Page/ジョン・レノン.md "wikilink")。
@@ -18,7 +18,7 @@
 
   - [山口智充](../Page/山口智充.md "wikilink")（[DonDokoDon](../Page/DonDokoDon.md "wikilink")・MCグーチー）
   - [木佐彩子](https://ja.wikipedia.org/wiki/木佐彩子 "wikilink")
-  - [山本耕史](https://ja.wikipedia.org/wiki/山本耕史 "wikilink")
+  - [山本耕史](../Page/山本耕史.md "wikilink")
   - [佐野元春](../Page/佐野元春.md "wikilink")
   - [宮川大輔](https://ja.wikipedia.org/wiki/宮川大輔_\(タレント\) "wikilink")（2007年4月～、不定期）
 
@@ -37,13 +37,13 @@
 <tr class="odd">
 <td><p>2006年4月6日</p></td>
 <td><p><a href="../Page/TRF.md" title="wikilink">TRF</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/高橋瞳" title="wikilink">高橋瞳</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ランドセル" title="wikilink">ランドセル</a></p></td>
+<td><p><a href="../Page/高橋瞳.md" title="wikilink">高橋瞳</a></p></td>
+<td><p><a href="../Page/ランドセル.md" title="wikilink">ランドセル</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/4月13日.md" title="wikilink">4月13日</a></p></td>
 <td><p><a href="../Page/BoA.md" title="wikilink">BoA</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/BEAT_CRUSADERS" title="wikilink">BEAT CRUSADERS</a></p></td>
+<td><p><a href="../Page/BEAT_CRUSADERS.md" title="wikilink">BEAT CRUSADERS</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ミートスパゲティ" title="wikilink">ミートスパゲティ</a></p></td>
 </tr>
 <tr class="odd">
@@ -54,51 +54,51 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/4月27日.md" title="wikilink">4月27日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/K_(歌手)" title="wikilink">K</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大木こだま・ひびき" title="wikilink">大木こだま・ひびき</a></p></td>
+<td><p><a href="../Page/K_(歌手).md" title="wikilink">K</a></p></td>
+<td><p><a href="../Page/大木こだま・ひびき.md" title="wikilink">大木こだま・ひびき</a></p></td>
 <td><p><a href="../Page/カツオ.md" title="wikilink">初鰹</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/5月4日" title="wikilink">5月4日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/川嶋あい" title="wikilink">川嶋あい</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/T&amp;T" title="wikilink">T&amp;T</a>（<a href="../Page/藤井隆.md" title="wikilink">藤井隆</a>&amp;<a href="https://ja.wikipedia.org/wiki/島田珠代" title="wikilink">島田珠代</a>）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/T&amp;T" title="wikilink">T&amp;T</a>（<a href="../Page/藤井隆.md" title="wikilink">藤井隆</a>&amp;<a href="../Page/島田珠代.md" title="wikilink">島田珠代</a>）</p></td>
 <td><p><a href="../Page/ルービックキューブ.md" title="wikilink">ルービックキューブ</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/5月11日.md" title="wikilink">5月11日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/小柳ゆき" title="wikilink">小柳ゆき</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/AAA_(音楽グループ)" title="wikilink">AAA</a><br />
+<td><p><a href="../Page/AAA_(音楽グループ).md" title="wikilink">AAA</a><br />
 （但し、全員での出演ではない）</p></td>
 <td><p>山本耕史プロフィール</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/5月18日.md" title="wikilink">5月18日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/美勇伝" title="wikilink">美勇伝</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/琉球チムドン楽団" title="wikilink">琉球チムドン楽団</a></p></td>
+<td><p><a href="../Page/美勇伝.md" title="wikilink">美勇伝</a></p></td>
+<td><p><a href="../Page/琉球チムドン楽団.md" title="wikilink">琉球チムドン楽団</a></p></td>
 <td><p>続・山本耕史プロフィール</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/5月25日.md" title="wikilink">5月25日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/w-inds." title="wikilink">w-inds.</a></p></td>
 <td><p><a href="../Page/ナナムジカ.md" title="wikilink">ナナムジカ</a></p></td>
-<td><p>山本耕史、<a href="https://ja.wikipedia.org/wiki/ニューヨーク" title="wikilink">NYで武者修行</a>!?</p></td>
+<td><p>山本耕史、<a href="../Page/ニューヨーク.md" title="wikilink">NYで武者修行</a>!?</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/6月1日.md" title="wikilink">6月1日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/愛内里菜" title="wikilink">愛内里菜</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中ノ森BAND" title="wikilink">中ノ森BAND</a></p></td>
+<td><p><a href="../Page/中ノ森BAND.md" title="wikilink">中ノ森BAND</a></p></td>
 <td><p>山本耕史NYに行ってきました</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/6月15日.md" title="wikilink">6月15日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スガシカオ" title="wikilink">スガシカオ</a></p></td>
+<td><p><a href="../Page/スガシカオ.md" title="wikilink">スガシカオ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/上木彩矢" title="wikilink">上木彩矢</a></p></td>
 <td><p><a href="../Page/メイド.md" title="wikilink">メイド</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/6月22日.md" title="wikilink">6月22日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/島谷ひとみ" title="wikilink">島谷ひとみ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/GOING_UNDER_GROUND" title="wikilink">GOING UNDER GROUND</a></p></td>
+<td><p><a href="../Page/GOING_UNDER_GROUND.md" title="wikilink">GOING UNDER GROUND</a></p></td>
 <td><p>前回と同様</p></td>
 </tr>
 <tr class="even">
@@ -109,7 +109,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/7月6日.md" title="wikilink">7月6日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/梨花" title="wikilink">Rinka</a></p></td>
+<td><p><a href="../Page/梨花.md" title="wikilink">Rinka</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/東方神起" title="wikilink">東方神起</a></p></td>
 <td><p>最新水着情報<br />
 3人の水着美女にタジタジ!?</p></td>
@@ -123,7 +123,7 @@
 <tr class="odd">
 <td><p><a href="../Page/7月20日.md" title="wikilink">7月20日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/鈴木亜美" title="wikilink">鈴木亜美</a></p></td>
-<td><p>マジー（<a href="https://ja.wikipedia.org/wiki/真島茂樹" title="wikilink">真島茂樹</a>）と<a href="https://ja.wikipedia.org/wiki/レギュラー_(お笑い)" title="wikilink">レギュラー</a></p></td>
+<td><p>マジー（<a href="../Page/真島茂樹.md" title="wikilink">真島茂樹</a>）と<a href="../Page/レギュラー_(お笑い).md" title="wikilink">レギュラー</a></p></td>
 <td><p>ハワイスペシャルゲストに<br />
 ジェイク・シマブクロが登場!</p></td>
 </tr>
@@ -136,14 +136,14 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/8月3日.md" title="wikilink">8月3日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大友康平" title="wikilink">大友康平</a>（<a href="../Page/HOUND_DOG.md" title="wikilink">HOUND DOG</a>）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アップダウン" title="wikilink">アップダウン</a></p></td>
+<td><p><a href="../Page/大友康平.md" title="wikilink">大友康平</a>（<a href="../Page/HOUND_DOG.md" title="wikilink">HOUND DOG</a>）</p></td>
+<td><p><a href="../Page/アップダウン.md" title="wikilink">アップダウン</a></p></td>
 <td><p><a href="../Page/アルバイト.md" title="wikilink">アルバイト</a>募集広告</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/8月10日.md" title="wikilink">8月10日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/BONNIE_PINK" title="wikilink">BONNIE PINK</a></p></td>
-<td><p><a href="../Page/大田クルー.md" title="wikilink">大田クルー</a>と<a href="https://ja.wikipedia.org/wiki/温水洋一" title="wikilink">温水洋一</a></p></td>
+<td><p><a href="../Page/大田クルー.md" title="wikilink">大田クルー</a>と<a href="../Page/温水洋一.md" title="wikilink">温水洋一</a></p></td>
 <td><p><a href="../Page/カブトムシ.md" title="wikilink">カブトムシ</a>&amp;<a href="../Page/クワガタムシ.md" title="wikilink">クワガタ</a></p></td>
 </tr>
 <tr class="odd">
@@ -184,8 +184,8 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/10月12日" title="wikilink">10月12日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/DA_PUMP" title="wikilink">DA PUMP</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中孝介" title="wikilink">中孝介</a></p></td>
+<td><p><a href="../Page/DA_PUMP.md" title="wikilink">DA PUMP</a></p></td>
+<td><p><a href="../Page/中孝介.md" title="wikilink">中孝介</a></p></td>
 <td><p>注意書きの看板</p></td>
 </tr>
 </tbody>
@@ -199,8 +199,8 @@
   - 演出 : [深沢一浩](https://ja.wikipedia.org/wiki/深沢一浩 "wikilink")〔通称：深沢ボン〕（CELL）
   - プロデューサー : [西田二郎](../Page/西田二郎.md "wikilink")・[岡本浩一](https://ja.wikipedia.org/wiki/岡本浩一 "wikilink")（ytv）、[古川圭介](https://ja.wikipedia.org/wiki/古川圭介 "wikilink")（吉本興業）、柳生昌也（CELL）
   - チーフプロデューサー : [武野一起](../Page/武野一起.md "wikilink")（ytv）
-  - 機材協力 : [JOYSOUND](https://ja.wikipedia.org/wiki/JOYSOUND "wikilink")
-  - 技術協力 : [ニユーテレス](https://ja.wikipedia.org/wiki/ニユーテレス "wikilink")、[プログレッソ](https://ja.wikipedia.org/wiki/プログレッソ "wikilink")、[テクノマックス](https://ja.wikipedia.org/wiki/テクノマックス "wikilink")、[IMAGICA](https://ja.wikipedia.org/wiki/IMAGICA "wikilink")、[TSP](../Page/東京サウンドプロダクション.md "wikilink")
+  - 機材協力 : [JOYSOUND](../Page/JOYSOUND.md "wikilink")
+  - 技術協力 : [ニユーテレス](../Page/ニユーテレス.md "wikilink")、[プログレッソ](https://ja.wikipedia.org/wiki/プログレッソ "wikilink")、[テクノマックス](../Page/テクノマックス.md "wikilink")、[IMAGICA](https://ja.wikipedia.org/wiki/IMAGICA "wikilink")、[TSP](../Page/東京サウンドプロダクション.md "wikilink")
   - 美術協力 : [フジアール](../Page/フジアール.md "wikilink")
   - 収録スタジオ : [東京タワー芝公園スタジオ](https://ja.wikipedia.org/wiki/東京タワー芝公園スタジオ "wikilink")
   - スタッフ協力 : [CELL](https://ja.wikipedia.org/wiki/CELL "wikilink")
@@ -249,7 +249,7 @@
 <td><p>6日遅れ</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/札幌テレビ放送" title="wikilink">札幌テレビ</a>（STV）</p></td>
+<td><p><a href="../Page/札幌テレビ放送.md" title="wikilink">札幌テレビ</a>（STV）</p></td>
 <td><p>毎週水曜 24:56-25:26</p></td>
 <td><p>6日遅れ</p></td>
 </tr>
@@ -309,7 +309,7 @@
 
 ## 歴代エンディングテーマ
 
-  - 2006年4月～6月　「Na-Na-Na With you」[TAKA](https://ja.wikipedia.org/wiki/TAKA_\(ヒップホップ・ミュージシャン\) "wikilink")
+  - 2006年4月～6月　「Na-Na-Na With you」[TAKA](../Page/TAKA_\(ヒップホップ・ミュージシャン\).md "wikilink")
   - 2006年7月～9月　「Tomorrow」[fringetritone](https://ja.wikipedia.org/wiki/fringetritone "wikilink")
   - 2006年10月～12月　「Lesson」[Foxxi misQ](https://ja.wikipedia.org/wiki/Foxxi_misQ "wikilink")
   - 2007年1月～3月　「じぶんの詩 - A BEAUTIFUL DAY」The Whey-hey-hey Brothers
@@ -318,7 +318,7 @@
 
 ## 関連項目
 
-  - [音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink") - 日本テレビ制作の音楽バラエティ番組
+  - [音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink") - 日本テレビ制作の音楽バラエティ番組
 
 ## 外部リンク
 

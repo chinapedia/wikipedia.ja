@@ -20,12 +20,12 @@
 
   - [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")
       - [半田市](../Page/半田市.md "wikilink")
-      - 知多郡[阿久比町](https://ja.wikipedia.org/wiki/阿久比町 "wikilink")（大字福住字高根台（名鉄東ヶ丘団地）を除く）
+      - 知多郡[阿久比町](../Page/阿久比町.md "wikilink")（大字福住字高根台（名鉄東ヶ丘団地）を除く）
           -
             ※ 名鉄東ヶ丘団地は、[知多メディアスネットワーク](../Page/知多メディアスネットワーク.md "wikilink")のサービスエリア
-      - [知多郡](../Page/知多郡.md "wikilink")[武豊町](https://ja.wikipedia.org/wiki/武豊町 "wikilink")の一部（武豊町北部）
+      - [知多郡](../Page/知多郡.md "wikilink")[武豊町](../Page/武豊町.md "wikilink")の一部（武豊町北部）
           -
-            ※ [知多半島ケーブルネットワーク](https://ja.wikipedia.org/wiki/知多半島ケーブルネットワーク "wikilink")との重複サービスエリア
+            ※ [知多半島ケーブルネットワーク](../Page/知多半島ケーブルネットワーク.md "wikilink")との重複サービスエリア
 
 ## ケーブルテレビサービス
 
@@ -35,12 +35,12 @@
   - サービス名：CAC-STB
       - CAC-TVのオプション提供サービス
       - 地上デジタル放送・BSデジタル放送・CATVデジタル放送の視聴が可能
-      - [セットトップボックス](https://ja.wikipedia.org/wiki/セットトップボックス "wikilink")が貸与される
+      - [セットトップボックス](../Page/セットトップボックス.md "wikilink")が貸与される
 
 ### テレビ局
 
   - 「コース」欄の"●"は視聴可能、"○"はオプション契約で視聴可能、"◎"はアナログ放送で視聴可能、"－"は視聴不可能なチャンネルを表す。
-  - 「画質・HD」欄が"●"、「画質・SD」欄が"○"のチャンネルは、通常はハイビジョン、マルチ編成時は16:9の[画角情報が付与された標準画質](https://ja.wikipedia.org/wiki/画角情報_\(テレビ放送\) "wikilink")。
+  - 「画質・HD」欄が"●"、「画質・SD」欄が"○"のチャンネルは、通常はハイビジョン、マルチ編成時は16:9の[画角情報が付与された標準画質](../Page/画角情報_\(テレビ放送\).md "wikilink")。
   - 「画質・HD」欄が空欄、「画質・SD」欄が"○"のチャンネルは、16:9の画角情報が付与された標準画質。
   - 放送を休止しているチャンネル、臨時放送用チャンネルについては、記載していない。
 
@@ -67,7 +67,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/チャンネル_(テレビ放送)" title="wikilink">チャンネル</a></p></td>
+<td><p><a href="../Page/チャンネル_(テレビ放送).md" title="wikilink">チャンネル</a></p></td>
 <td><p>放送種別</p></td>
 <td><p>画質</p></td>
 <td><p>ⓓ<br />
@@ -181,7 +181,7 @@ ID</a></p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/チャンネル_(テレビ放送)" title="wikilink">チャンネル</a></p></td>
+<td><p><a href="../Page/チャンネル_(テレビ放送).md" title="wikilink">チャンネル</a></p></td>
 <td><p>放送種別</p></td>
 <td><p>画質</p></td>
 <td><p>ⓓ<br />
@@ -449,7 +449,7 @@ ID</a></p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/チャンネル_(テレビ放送)" title="wikilink">チャンネル</a></p></td>
+<td><p><a href="../Page/チャンネル_(テレビ放送).md" title="wikilink">チャンネル</a></p></td>
 <td><p>放送種別</p></td>
 <td><p>画質</p></td>
 <td><p>ⓓ<br />
@@ -971,12 +971,12 @@ ID</a></p></td>
   -
     FMラジオの再送信のみ。外部アンテナ端子が付いているFMラジオ・チューナ等に接続することにより、聴取可能。
 
-| 周波数                                                       | 放送局                                                             |
-| --------------------------------------------------------- | --------------------------------------------------------------- |
-| 77.8[MHz](https://ja.wikipedia.org/wiki/メガヘルツ "wikilink") | [ZIP-FM](../Page/ZIP-FM.md "wikilink")                          |
-| 78.9MHz                                                   | [FM三重](https://ja.wikipedia.org/wiki/三重エフエム放送 "wikilink")       |
-| 80.7MHz                                                   | [FM AICHI](../Page/エフエム愛知.md "wikilink")                        |
-| 82.5MHz                                                   | NHK名古屋[FM放送](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink") |
+| 周波数                                                       | 放送局                                                       |
+| --------------------------------------------------------- | --------------------------------------------------------- |
+| 77.8[MHz](https://ja.wikipedia.org/wiki/メガヘルツ "wikilink") | [ZIP-FM](../Page/ZIP-FM.md "wikilink")                    |
+| 78.9MHz                                                   | [FM三重](https://ja.wikipedia.org/wiki/三重エフエム放送 "wikilink") |
+| 80.7MHz                                                   | [FM AICHI](../Page/エフエム愛知.md "wikilink")                  |
+| 82.5MHz                                                   | NHK名古屋[FM放送](../Page/NHK-FM放送.md "wikilink")              |
 
 ### 利用料金
 
@@ -997,7 +997,7 @@ ID</a></p></td>
 ## 関連項目
 
   - [ケーブルテレビ局の一覧](../Page/ケーブルテレビ局の一覧.md "wikilink")
-  - [セットトップボックス](https://ja.wikipedia.org/wiki/セットトップボックス "wikilink")
+  - [セットトップボックス](../Page/セットトップボックス.md "wikilink")
   - [ホームターミナル](https://ja.wikipedia.org/wiki/ホームターミナル "wikilink")
   - [ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")
   - [日本ケーブルキャスセンター](../Page/日本ケーブルキャスセンター.md "wikilink")

@@ -1,7 +1,7 @@
 > この記事は[NWA](https://ja.wikipedia.org/wiki/NWA)から翻訳されています。
 
 
-**NWA世界タッグチーム王座**（エヌ・ダブル・エーせかいタッグチームおうざ、*NWA World Tag Team Championship*）は、[プロレス](../Page/プロレス.md "wikilink")の[王座である](../Page/チャンピオンベルト.md "wikilink")。管理組織は[NWAで](https://ja.wikipedia.org/wiki/NWA_\(プロレス\) "wikilink")、[タッグチーム](../Page/タッグチーム.md "wikilink")を対象とした王座となっている。[TNAが](https://ja.wikipedia.org/wiki/TNAレスリング "wikilink")[2014年](../Page/2014年.md "wikilink")までの独占管理権を有しており、実質的にTNAのタッグ王座となっていたが、[2007年](../Page/2007年.md "wikilink")5月に[TNA世界タッグ王座を設立により](https://ja.wikipedia.org/wiki/TNA世界タッグチーム王座 "wikilink")、剥奪している。
+**NWA世界タッグチーム王座**（エヌ・ダブル・エーせかいタッグチームおうざ、*NWA World Tag Team Championship*）は、[プロレス](../Page/プロレス.md "wikilink")の[王座である](../Page/チャンピオンベルト.md "wikilink")。管理組織は[NWAで](../Page/NWA_\(プロレス\).md "wikilink")、[タッグチーム](../Page/タッグチーム.md "wikilink")を対象とした王座となっている。[TNAが](https://ja.wikipedia.org/wiki/TNAレスリング "wikilink")[2014年](../Page/2014年.md "wikilink")までの独占管理権を有しており、実質的にTNAのタッグ王座となっていたが、[2007年](../Page/2007年.md "wikilink")5月に[TNA世界タッグ王座を設立により](https://ja.wikipedia.org/wiki/TNA世界タッグチーム王座 "wikilink")、剥奪している。
 
 ## 概要
 
@@ -14,7 +14,7 @@
   - [NWA世界タッグ王座（ジョージア版）](https://ja.wikipedia.org/wiki/NWA世界タッグチーム王座_\(ジョージア版\) "wikilink")
       - [1954年](../Page/1954年.md "wikilink")5月から[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")3月まで認定・管理。
   - [NWA世界タッグ王座（ミネアポリス版）](https://ja.wikipedia.org/wiki/NWA世界タッグチーム王座_\(ミネアポリス版\) "wikilink")
-      - [1957年](../Page/1957年.md "wikilink")1月から[1960年](../Page/1960年.md "wikilink")8月まで認定・管理、後に[AWAが](https://ja.wikipedia.org/wiki/アメリカン・レスリング・アソシエーション "wikilink")[AWA世界タッグ王座として認定](https://ja.wikipedia.org/wiki/AWA世界タッグチーム王座 "wikilink")・管理。
+      - [1957年](../Page/1957年.md "wikilink")1月から[1960年](../Page/1960年.md "wikilink")8月まで認定・管理、後に[AWAが](../Page/アメリカン・レスリング・アソシエーション.md "wikilink")[AWA世界タッグ王座として認定](https://ja.wikipedia.org/wiki/AWA世界タッグチーム王座 "wikilink")・管理。
   - [NWA世界タッグ王座（テキサス版）](https://ja.wikipedia.org/wiki/NWA世界タッグチーム王座_\(テキサス版\) "wikilink")
       - [1957年](../Page/1957年.md "wikilink")7月から1982年4月まで認定・管理。
   - [NWA世界タッグ王座（テネシー版）](https://ja.wikipedia.org/wiki/NWA世界タッグチーム王座_\(テネシー版\) "wikilink")
@@ -30,13 +30,13 @@
   - [NWA世界タッグ王座（バンクーバー版）](https://ja.wikipedia.org/wiki/NWA世界タッグチーム王座_\(バンクーバー版\) "wikilink")
       - [1966年](../Page/1966年.md "wikilink")から[1967年](../Page/1967年.md "wikilink")まで認定・管理。
   - [NWA世界タッグ王座（ミッドアトランティック版）](https://ja.wikipedia.org/wiki/NWA世界タッグチーム王座_\(ミッドアトランティック版\) "wikilink")
-      - [1975年](../Page/1975年.md "wikilink")1月から[1991年](../Page/1991年.md "wikilink")1月まで認定・管理。以降は[WCW世界タッグ王座として認定され](https://ja.wikipedia.org/wiki/WCW世界タッグチーム王座 "wikilink")、[2001年](../Page/2001年.md "wikilink")に[WCW](https://ja.wikipedia.org/wiki/WCW "wikilink")を買収した[WWF（現：WWE）により](../Page/WWE.md "wikilink")[WWF世界タッグ王座に統一された](../Page/WWE・世界タッグチーム王座.md "wikilink")。
+      - [1975年](../Page/1975年.md "wikilink")1月から[1991年](../Page/1991年.md "wikilink")1月まで認定・管理。以降は[WCW世界タッグ王座として認定され](https://ja.wikipedia.org/wiki/WCW世界タッグチーム王座 "wikilink")、[2001年](../Page/2001年.md "wikilink")に[WCW](../Page/WCW.md "wikilink")を買収した[WWF（現：WWE）により](../Page/WWE.md "wikilink")[WWF世界タッグ王座に統一された](../Page/WWE・世界タッグチーム王座.md "wikilink")。
 
 ## 復活版王座遍歴
 
-[NWAの世界タッグ王座として最後まで存続していたミッドアトランティック版は](https://ja.wikipedia.org/wiki/NWA_\(プロレス\) "wikilink")、[1988年](../Page/1988年.md "wikilink")まで王座を管理していた[ジム・クロケット・プロモーションズ](https://ja.wikipedia.org/wiki/ジム・クロケット・プロモーションズ "wikilink")が[テッド・ターナー](https://ja.wikipedia.org/wiki/テッド・ターナー "wikilink")に買収され、新会社[WCW](https://ja.wikipedia.org/wiki/WCW "wikilink")が発足したことにより、[1991年](../Page/1991年.md "wikilink")に[WCW世界タッグ王座に名称が変更された](https://ja.wikipedia.org/wiki/WCW世界タッグチーム王座 "wikilink")。NWA王座は空位扱いとなったが、[1992年](../Page/1992年.md "wikilink")にWCWにて復活し、[テリー・ゴディ](../Page/テリー・ゴディ.md "wikilink")&[スティーブ・ウィリアムス](../Page/スティーブ・ウィリアムス.md "wikilink")が王者チームとなった。しかし、翌[1993年](../Page/1993年.md "wikilink")にWCWがNWAを脱退したため再び王座は空位となり、最後の王者チームだった[アーン・アンダーソン](../Page/アーン・アンダーソン.md "wikilink")&[ポール・ローマ](https://ja.wikipedia.org/wiki/ポール・ローマ "wikilink")は、そのままWCW世界タッグ王者として認定された。
+[NWAの世界タッグ王座として最後まで存続していたミッドアトランティック版は](../Page/NWA_\(プロレス\).md "wikilink")、[1988年](../Page/1988年.md "wikilink")まで王座を管理していた[ジム・クロケット・プロモーションズ](https://ja.wikipedia.org/wiki/ジム・クロケット・プロモーションズ "wikilink")が[テッド・ターナー](../Page/テッド・ターナー.md "wikilink")に買収され、新会社[WCW](../Page/WCW.md "wikilink")が発足したことにより、[1991年](../Page/1991年.md "wikilink")に[WCW世界タッグ王座に名称が変更された](https://ja.wikipedia.org/wiki/WCW世界タッグチーム王座 "wikilink")。NWA王座は空位扱いとなったが、[1992年](../Page/1992年.md "wikilink")にWCWにて復活し、[テリー・ゴディ](../Page/テリー・ゴディ.md "wikilink")&[スティーブ・ウィリアムス](../Page/スティーブ・ウィリアムス.md "wikilink")が王者チームとなった。しかし、翌[1993年](../Page/1993年.md "wikilink")にWCWがNWAを脱退したため再び王座は空位となり、最後の王者チームだった[アーン・アンダーソン](../Page/アーン・アンダーソン.md "wikilink")&[ポール・ローマ](https://ja.wikipedia.org/wiki/ポール・ローマ "wikilink")は、そのままWCW世界タッグ王者として認定された。
 
-以降、王座は[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")にミッドサウス・エリアで復活し、当時[ジム・コルネット](https://ja.wikipedia.org/wiki/ジム・コルネット "wikilink")のスモーキー・マウンテン・レスリングや[ジェリー・ジャレット](https://ja.wikipedia.org/wiki/ジェリー・ジャレット "wikilink")の[USWA](https://ja.wikipedia.org/wiki/USWA "wikilink")を主戦場としていた[ロックンロール・エクスプレス](https://ja.wikipedia.org/wiki/ロックンロール・エクスプレス "wikilink")が新王者となった。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")には、当時[WWFのブッカーを担当していたコルネットの](../Page/WWE.md "wikilink")「NWA対WWF」という[アングルのもと](https://ja.wikipedia.org/wiki/アングル_\(プロレス\) "wikilink")、WWFでタイトルマッチが行われたこともある。その後、王座はNWA本部の直轄のもとインディー団体を舞台に争われ、[2002年](../Page/2002年.md "wikilink")から[2007年](../Page/2007年.md "wikilink")まではTNAに管理が一任されていた。
+以降、王座は[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")にミッドサウス・エリアで復活し、当時[ジム・コルネット](https://ja.wikipedia.org/wiki/ジム・コルネット "wikilink")のスモーキー・マウンテン・レスリングや[ジェリー・ジャレット](https://ja.wikipedia.org/wiki/ジェリー・ジャレット "wikilink")の[USWA](https://ja.wikipedia.org/wiki/USWA "wikilink")を主戦場としていた[ロックンロール・エクスプレス](https://ja.wikipedia.org/wiki/ロックンロール・エクスプレス "wikilink")が新王者となった。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")には、当時[WWFのブッカーを担当していたコルネットの](../Page/WWE.md "wikilink")「NWA対WWF」という[アングルのもと](../Page/アングル_\(プロレス\).md "wikilink")、WWFでタイトルマッチが行われたこともある。その後、王座はNWA本部の直轄のもとインディー団体を舞台に争われ、[2002年](../Page/2002年.md "wikilink")から[2007年](../Page/2007年.md "wikilink")まではTNAに管理が一任されていた。
 
 <table>
 <thead>
@@ -55,7 +55,7 @@
 <td><p><a href="../Page/ジョージア州.md" title="wikilink">ジョージア州</a><a href="https://ja.wikipedia.org/wiki/オールバニ_(ジョージア州)" title="wikilink">オールバニ</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/バリー・ウインダム.md" title="wikilink">バリー・ウインダム</a> &amp; <a href="https://ja.wikipedia.org/wiki/ダスティン・ローデス" title="wikilink">ダスティン・ローデス</a></p></td>
+<td><p><a href="../Page/バリー・ウインダム.md" title="wikilink">バリー・ウインダム</a> &amp; <a href="../Page/ダスティン・ローデス.md" title="wikilink">ダスティン・ローデス</a></p></td>
 <td><p>#</p></td>
 <td><p>1992年9月21日</p></td>
 <td><p>ジョージア州<a href="../Page/アトランタ.md" title="wikilink">アトランタ</a></p></td>
@@ -76,7 +76,7 @@
 <td><p><a href="../Page/アーン・アンダーソン.md" title="wikilink">アーン・アンダーソン</a> &amp; <a href="https://ja.wikipedia.org/wiki/ポール・ローマ" title="wikilink">ポール・ローマ</a></p></td>
 <td><p>#</p></td>
 <td><p>1993年8月18日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フロリダ州" title="wikilink">フロリダ州</a><a href="https://ja.wikipedia.org/wiki/デイトナビーチ" title="wikilink">デイトナ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/フロリダ州" title="wikilink">フロリダ州</a><a href="../Page/デイトナビーチ.md" title="wikilink">デイトナ</a></p></td>
 </tr>
 <tr class="even">
 <td><p>WCWがNWAを脱退したため空位</p></td>
@@ -100,7 +100,7 @@
 <td><p>ロックンロール・エクスプレス</p></td>
 <td><p>2</p></td>
 <td><p>1995年7月3日</p></td>
-<td><p><a href="../Page/テネシー州.md" title="wikilink">テネシー州</a><a href="https://ja.wikipedia.org/wiki/メンフィス_(テネシー州)" title="wikilink">メンフィス</a>（リターンマッチでPG-13を破り戴冠）</p></td>
+<td><p><a href="../Page/テネシー州.md" title="wikilink">テネシー州</a><a href="../Page/メンフィス_(テネシー州).md" title="wikilink">メンフィス</a>（リターンマッチでPG-13を破り戴冠）</p></td>
 </tr>
 <tr class="even">
 <td><p>空位</p></td>
@@ -109,13 +109,13 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ターザン後藤" title="wikilink">ターザン後藤</a> &amp; <a href="https://ja.wikipedia.org/wiki/ミスター雁之助" title="wikilink">ミスター雁之助</a></p></td>
+<td><p><a href="../Page/ターザン後藤.md" title="wikilink">ターザン後藤</a> &amp; <a href="../Page/ミスター雁之助.md" title="wikilink">ミスター雁之助</a></p></td>
 <td><p>1</p></td>
 <td><p>1995年12月9日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日本" title="wikilink">日本</a>・<a href="https://ja.wikipedia.org/wiki/埼玉県" title="wikilink">埼玉県</a>（争奪リーグ戦決勝で<a href="../Page/タイガー・ジェット・シン.md" title="wikilink">タイガー・ジェット・シン</a>&amp;<a href="../Page/ミック・フォーリー.md" title="wikilink">カクタス・ジャックを破り戴冠</a>）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/日本" title="wikilink">日本</a>・<a href="../Page/埼玉県.md" title="wikilink">埼玉県</a>（争奪リーグ戦決勝で<a href="../Page/タイガー・ジェット・シン.md" title="wikilink">タイガー・ジェット・シン</a>&amp;<a href="../Page/ミック・フォーリー.md" title="wikilink">カクタス・ジャックを破り戴冠</a>）</p></td>
 </tr>
 <tr class="even">
-<td><p>1996年8月、王者チームが管理団体の<a href="https://ja.wikipedia.org/wiki/IWA・JAPAN" title="wikilink">IWAジャパンを離脱したため空位</a></p></td>
+<td><p>1996年8月、王者チームが管理団体の<a href="../Page/IWA・JAPAN.md" title="wikilink">IWAジャパンを離脱したため空位</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -148,7 +148,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ミッドナイト・エクスプレス_(プロレス)#解散後_:_リメイク、リユニオン" title="wikilink">ニュー・ミッドナイト・エクスプレス</a>（<a href="../Page/マイク・ポルクロペック.md" title="wikilink">バート・ガン</a> &amp; <a href="../Page/ボブ・ホーリー.md" title="wikilink">ボブ・ホーリー</a>）</p></td>
 <td><p>1</p></td>
 <td><p>1998年3月30日</p></td>
-<td><p><a href="../Page/ニューヨーク州.md" title="wikilink">ニューヨーク州</a><a href="https://ja.wikipedia.org/wiki/オールバニ_(ニューヨーク州)" title="wikilink">オールバニ</a></p></td>
+<td><p><a href="../Page/ニューヨーク州.md" title="wikilink">ニューヨーク州</a><a href="../Page/オールバニ_(ニューヨーク州).md" title="wikilink">オールバニ</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ボーダー・パトロール" title="wikilink">ボーダー・パトロール</a>（<a href="https://ja.wikipedia.org/wiki/エージェント・ガン" title="wikilink">エージェント・ガン</a> &amp; <a href="https://ja.wikipedia.org/wiki/エージェント・マックス" title="wikilink">エージェント・マックス</a>）</p></td>
@@ -196,7 +196,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/チーム・エクストリーム" title="wikilink">チーム・エクストリーム</a>（<a href="../Page/キット・カーソン.md" title="wikilink">キット・カーソン</a> &amp; <a href="https://ja.wikipedia.org/wiki/クリス・ジャーマニー" title="wikilink">クリス・ジャーマニー</a>）</p></td>
 <td><p>1</p></td>
 <td><p>1999年9月25日</p></td>
-<td><p>ノースカロライナ州<a href="https://ja.wikipedia.org/wiki/シャーロット_(ノースカロライナ州)" title="wikilink">シャーロット</a></p></td>
+<td><p>ノースカロライナ州<a href="../Page/シャーロット_(ノースカロライナ州).md" title="wikilink">シャーロット</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/マーダーインク_(プロレス)" title="wikilink">マーダーインク</a>（<a href="https://ja.wikipedia.org/wiki/ケビン・ノースカット" title="wikilink">ケビン・ノースカット</a> &amp; <a href="https://ja.wikipedia.org/wiki/ジミー・ジェームス" title="wikilink">ジミー・ジェームス</a>）</p></td>
@@ -226,13 +226,13 @@
 <td><p>ロックンロール・エクスプレス</p></td>
 <td><p>4</p></td>
 <td><p>2000年4月12日</p></td>
-<td><p><a href="../Page/大韓民国.md" title="wikilink">韓国</a>・<a href="https://ja.wikipedia.org/wiki/倭館" title="wikilink">倭館</a></p></td>
+<td><p><a href="../Page/大韓民国.md" title="wikilink">韓国</a>・<a href="../Page/倭館.md" title="wikilink">倭館</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/LAステフェンス" title="wikilink">LAステフェンス</a> &amp; <a href="https://ja.wikipedia.org/wiki/ビッグ・ババ・ベイン" title="wikilink">ビッグ・ババ・ベイン</a></p></td>
 <td><p>1</p></td>
 <td><p>2000年4月17日</p></td>
-<td><p>韓国・<a href="https://ja.wikipedia.org/wiki/烏山市" title="wikilink">烏山市</a></p></td>
+<td><p>韓国・<a href="../Page/烏山市.md" title="wikilink">烏山市</a></p></td>
 </tr>
 <tr class="even">
 <td><p>xXx</p></td>
@@ -304,7 +304,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/シェーン・ツインズ" title="wikilink">シェーン・ツインズ</a>（<a href="https://ja.wikipedia.org/wiki/マイク・シェーン" title="wikilink">マイク・シェーン</a> &amp; <a href="https://ja.wikipedia.org/wiki/トッド・シェーン" title="wikilink">トッド・シェーン</a>）</p></td>
 <td><p>3</p></td>
 <td><p>2002年6月8日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ペルー" title="wikilink">ペルー</a> <a href="https://ja.wikipedia.org/wiki/リマ" title="wikilink">リマ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ペルー" title="wikilink">ペルー</a> <a href="../Page/リマ.md" title="wikilink">リマ</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/アレン・ジョーンズ.md" title="wikilink">AJスタイルズ</a> &amp; <a href="https://ja.wikipedia.org/wiki/ジェリー・リン" title="wikilink">ジェリー・リン</a></p></td>
@@ -331,7 +331,7 @@
 <td><p>テネシー州ナッシュビル</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/トリプルX_(プロレス)" title="wikilink">XXX</a>（<a href="https://ja.wikipedia.org/wiki/ブランドン・シルベストリー" title="wikilink">ロウ・キー</a> &amp; <a href="https://ja.wikipedia.org/wiki/エリックス・スキッパー" title="wikilink">エリックス・スキッパー</a> &amp; <a href="../Page/ダニエル・コベル.md" title="wikilink">クリストファー・ダニエルズ</a>）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/トリプルX_(プロレス)" title="wikilink">XXX</a>（<a href="../Page/ブランドン・シルベストリー.md" title="wikilink">ロウ・キー</a> &amp; <a href="https://ja.wikipedia.org/wiki/エリックス・スキッパー" title="wikilink">エリックス・スキッパー</a> &amp; <a href="../Page/ダニエル・コベル.md" title="wikilink">クリストファー・ダニエルズ</a>）</p></td>
 <td><p>1</p></td>
 <td><p>2003年1月22日</p></td>
 <td><p>テネシー州ナッシュビル</p></td>
@@ -367,7 +367,7 @@
 <td><p>テネシー州ナッシュビル</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/3ライブ・クルー" title="wikilink">3LK</a>（<a href="https://ja.wikipedia.org/wiki/ブライアン・ジェイムス" title="wikilink">BGジェイムス</a> &amp; <a href="https://ja.wikipedia.org/wiki/ロン・キリングス" title="wikilink">ロン・キリングス</a> &amp; <a href="https://ja.wikipedia.org/wiki/コナン_(プロレスラー)" title="wikilink">コナン</a>）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/3ライブ・クルー" title="wikilink">3LK</a>（<a href="../Page/ブライアン・ジェイムス.md" title="wikilink">BGジェイムス</a> &amp; <a href="https://ja.wikipedia.org/wiki/ロン・キリングス" title="wikilink">ロン・キリングス</a> &amp; <a href="https://ja.wikipedia.org/wiki/コナン_(プロレスラー)" title="wikilink">コナン</a>）</p></td>
 <td><p>1</p></td>
 <td><p>2003年11月26日</p></td>
 <td><p>テネシー州ナッシュビル</p></td>
@@ -391,7 +391,7 @@
 <td><p>テネシー州ナッシュビル</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ジャーマン・フィゲロア" title="wikilink">エル・グラン・アポロ</a> &amp; <a href="https://ja.wikipedia.org/wiki/ディーロ・ブラウン" title="wikilink">ディーロ・ブラウン</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ジャーマン・フィゲロア" title="wikilink">エル・グラン・アポロ</a> &amp; <a href="../Page/ディーロ・ブラウン.md" title="wikilink">ディーロ・ブラウン</a></p></td>
 <td><p>1</p></td>
 <td><p>2004年4月14日</p></td>
 <td><p>テネシー州ナッシュビル</p></td>
@@ -447,7 +447,7 @@
 <tr class="odd">
 <td><p>アメリカズ・モスト・ウォンテッド</p></td>
 <td><p>5</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a>1月16日</p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a>1月16日</p></td>
 <td><p>フロリダ州オーランド</p></td>
 </tr>
 <tr class="even">
@@ -465,7 +465,7 @@
 <tr class="even">
 <td><p>クリストファー・ダニエルズ &amp; AJスタイルズ</p></td>
 <td><p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a>6月18日</p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a>6月18日</p></td>
 <td><p>フロリダ州オーランド</p></td>
 </tr>
 <tr class="odd">
@@ -514,7 +514,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ダークシティ・ファイトクラブ" title="wikilink">ダークシティ・ファイトクラブ</a>（<a href="https://ja.wikipedia.org/wiki/ジョン・デイビス_(プロレスラー)" title="wikilink">ジョン・デイビス</a> &amp; <a href="https://ja.wikipedia.org/wiki/コーリー・チェイビス" title="wikilink">コーリー・チェイビス</a>）</p></td>
 <td><p>1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a>11月20日</p></td>
-<td><p><a href="../Page/ウィスコンシン州.md" title="wikilink">ウィスコンシン州</a><a href="https://ja.wikipedia.org/wiki/ミルウォーキー" title="wikilink">ミルウォーキー</a></p></td>
+<td><p><a href="../Page/ウィスコンシン州.md" title="wikilink">ウィスコンシン州</a><a href="../Page/ミルウォーキー.md" title="wikilink">ミルウォーキー</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ユージュアル・サスペクツ_(プロレス)" title="wikilink">ユージュアル・サスペクツ</a>（<a href="https://ja.wikipedia.org/wiki/AJスティール" title="wikilink">AJスティール</a> &amp; <a href="https://ja.wikipedia.org/wiki/マーダー・ワン" title="wikilink">マーダー・ワン</a>）</p></td>
@@ -547,10 +547,10 @@
 <td><p>日本・<a href="../Page/大阪府.md" title="wikilink">大阪府</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/テンコジ" title="wikilink">テンコジ</a>（<a href="https://ja.wikipedia.org/wiki/天山広吉" title="wikilink">天山広吉</a> &amp; <a href="https://ja.wikipedia.org/wiki/小島聡" title="wikilink">小島聡</a>）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/テンコジ" title="wikilink">テンコジ</a>（<a href="../Page/天山広吉.md" title="wikilink">天山広吉</a> &amp; <a href="../Page/小島聡.md" title="wikilink">小島聡</a>）</p></td>
 <td><p>1</p></td>
 <td><p><a href="../Page/2014年.md" title="wikilink">2014年</a>4月6日</p></td>
-<td><p>日本・<a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a></p></td>
+<td><p>日本・<a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>K.E.S.</p></td>

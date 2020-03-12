@@ -1,9 +1,9 @@
 > この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
 
 
-**スーパーFMマガジン**（**-エフエム-**　*SUPER FM MAGAZINE*）は、[1989年](../Page/1989年.md "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")から[1994年](../Page/1994年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで、[エフエム東京](../Page/エフエム東京.md "wikilink")（FM東京→TOKYO FM）制作でFM東京系列局のネットで放送されていた[深夜の](../Page/深夜放送.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
+**スーパーFMマガジン**（**-エフエム-**　*SUPER FM MAGAZINE*）は、[1989年](../Page/1989年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[1994年](../Page/1994年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで、[エフエム東京](../Page/エフエム東京.md "wikilink")（FM東京→TOKYO FM）制作でFM東京系列局のネットで放送されていた[深夜の](../Page/深夜放送.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
 
-なお本番組のネットは、当初はいわゆる**Aライン**（[FM静岡以前に開局した各局のネット](../Page/静岡エフエム放送.md "wikilink")）のみに限られていた。**[Bライン](https://ja.wikipedia.org/wiki/JFNラインネット番組 "wikilink")**ネットの各局ではこの時間に「[FMナイトストリート](https://ja.wikipedia.org/wiki/FMナイトストリート "wikilink")」等を放送していた。
+なお本番組のネットは、当初はいわゆる**Aライン**（[FM静岡以前に開局した各局のネット](../Page/静岡エフエム放送.md "wikilink")）のみに限られていた。**[Bライン](../Page/JFNラインネット番組.md "wikilink")**ネットの各局ではこの時間に「[FMナイトストリート](../Page/FMナイトストリート.md "wikilink")」等を放送していた。
 
 ## 番組構成
 
@@ -22,14 +22,14 @@
       -
         スタンダードジャスが中心の音楽番組。
 
-のち第2部、3部は「**インテグラル・ステーション**」Part1、2に変更された。パーソナリティがまず最初の曲だけを紹介。数曲流した後に最初の曲以降の曲を紹介する流れ。「Part1」は最新の曲を、「Part2」は懐かしの曲を、最初は決められたアーティストで、以後は決められたアーティスト以外の曲がアトランダムで流れる。松川時代のテーマ曲は[フランク・ギャンバレ](../Page/フランク・ギャンバレ.md "wikilink")「Kuranda」、小林時代のテーマ曲はWizards of Ooze「The Bone」。[NHK-FM](https://ja.wikipedia.org/wiki/NHK-FM "wikilink")の「[ひるの歌謡曲](https://ja.wikipedia.org/wiki/ひるの歌謡曲 "wikilink")」と「[歌謡スクランブル](../Page/歌謡スクランブル.md "wikilink")」と違い、曲と曲の間はプリギャップ\[2\]を使わない。「インテグラル・ステーション」は深夜の邦楽専門番組となっていた。
+のち第2部、3部は「**インテグラル・ステーション**」Part1、2に変更された。パーソナリティがまず最初の曲だけを紹介。数曲流した後に最初の曲以降の曲を紹介する流れ。「Part1」は最新の曲を、「Part2」は懐かしの曲を、最初は決められたアーティストで、以後は決められたアーティスト以外の曲がアトランダムで流れる。松川時代のテーマ曲は[フランク・ギャンバレ](../Page/フランク・ギャンバレ.md "wikilink")「Kuranda」、小林時代のテーマ曲はWizards of Ooze「The Bone」。[NHK-FM](https://ja.wikipedia.org/wiki/NHK-FM "wikilink")の「[ひるの歌謡曲](../Page/ひるの歌謡曲.md "wikilink")」と「[歌謡スクランブル](../Page/歌謡スクランブル.md "wikilink")」と違い、曲と曲の間はプリギャップ\[2\]を使わない。「インテグラル・ステーション」は深夜の邦楽専門番組となっていた。
 
 1994年3月、A・B両ラインのネット番組が統一されたのに伴い、本番組は終了した。なお「インテグラル・ステーション」だけは、単独番組とした上で1994年6月までFM東京、FM大阪の2局で放送していた。
 
 ## 放送時間
 
   - 第1部「NORU SORU」[月曜日](../Page/月曜日.md "wikilink")深夜 - [金曜日](../Page/金曜日.md "wikilink")深夜（[火曜日](../Page/火曜日.md "wikilink")未明 - [土曜日](../Page/土曜日.md "wikilink")未明）25:00 - 27:00
-      - （1990年4月改編で金曜枠が無くなり、月曜日深夜 - [木曜日](https://ja.wikipedia.org/wiki/木曜日 "wikilink")深夜（火曜日未明 - 金曜日未明）25:00 - 27:00の放送に）
+      - （1990年4月改編で金曜枠が無くなり、月曜日深夜 - [木曜日](../Page/木曜日.md "wikilink")深夜（火曜日未明 - 金曜日未明）25:00 - 27:00の放送に）
   - 第2部
       - 「ミッドナイト・ビッグ・ウェーブ」（1989年4月 - 1991年10月）月曜日深夜 - 金曜日深夜（1990年4月から木曜日深夜まで）27:00 - 28:00
       - 「インテグラル・ステーションPart1」（1991年11月 - 1994年6月）月曜日深夜 - 木曜日深夜27:00 - 28:00
@@ -37,7 +37,7 @@
 <!-- end list -->
 
   -
-    ※ 第2部は、前番組からの継続でTOKYO FMとFM大阪のみスポンサーが付いていた（[ダイキン工業](https://ja.wikipedia.org/wiki/ダイキン工業 "wikilink")の一社提供枠。東京と大阪以外は[PT枠](https://ja.wikipedia.org/wiki/パーティシペーション "wikilink")）。
+    ※ 第2部は、前番組からの継続でTOKYO FMとFM大阪のみスポンサーが付いていた（[ダイキン工業](../Page/ダイキン工業.md "wikilink")の一社提供枠。東京と大阪以外は[PT枠](../Page/パーティシペーション.md "wikilink")）。
 
 <!-- end list -->
 
@@ -50,7 +50,7 @@
 
   - 1989年4月 - FM東京、FM静岡、[FM大阪](../Page/エフエム大阪.md "wikilink")、[広島FMの](../Page/広島エフエム放送.md "wikilink")4局ネットでスタート（FM東京は28:30から「[高校通信教育講座](https://ja.wikipedia.org/wiki/高校通信教育講座 "wikilink")」放送のため第4部は放送無し、FM大阪は26時 - 29時、他2局は第4部までフルネット）
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")4月 - [FM北海道](../Page/エフエム北海道.md "wikilink")（「NORU SORU」の26時台のみ）、[FM愛知](../Page/エフエム愛知.md "wikilink")☆、[FM福岡](../Page/エフエム福岡.md "wikilink")（26:00 - 29:00）でネット開始。第4部の時間が第3部に吸収され、3部制に変更。
-  - 1990年10月 - [FMとやま](https://ja.wikipedia.org/wiki/富山エフエム放送 "wikilink")（第3部までフルネット）、[FM新潟](https://ja.wikipedia.org/wiki/エフエムラジオ新潟 "wikilink")☆、[FM長野](https://ja.wikipedia.org/wiki/長野エフエム放送 "wikilink")☆、[FM石川](../Page/エフエム石川.md "wikilink")☆、[FM山陰](../Page/エフエム山陰.md "wikilink")☆、[FM愛媛](../Page/エフエム愛媛.md "wikilink")☆（愛媛以外は「FMナイトストリート」からネット乗り換え）でネット開始。
+  - 1990年10月 - [FMとやま](../Page/富山エフエム放送.md "wikilink")（第3部までフルネット）、[FM新潟](../Page/エフエムラジオ新潟.md "wikilink")☆、[FM長野](../Page/長野エフエム放送.md "wikilink")☆、[FM石川](../Page/エフエム石川.md "wikilink")☆、[FM山陰](../Page/エフエム山陰.md "wikilink")☆、[FM愛媛](../Page/エフエム愛媛.md "wikilink")☆（愛媛以外は「FMナイトストリート」からネット乗り換え）でネット開始。
   - [1991年](../Page/1991年.md "wikilink")4月 - [FM長崎](../Page/エフエム長崎.md "wikilink")☆でネット開始、FM愛知が第3部までフルネット開始。
   - 1991年10月 - [FM山形](../Page/エフエム山形.md "wikilink")☆でネット開始（「FMナイトストリート」から乗り換え）
   - [1992年](../Page/1992年.md "wikilink")4月 - 第2部「ミッドナイト・ビッグ・ウェーブ」、第3部「アーリー・バード」がそれぞれ「インテグラル・ステーション」Part1、2に変更。FMとやまがネット打ち切り（「FMナイトストリート」ネットに戻る）。
@@ -148,7 +148,7 @@
 <tr class="even">
 <td><p>1994.04</p></td>
 <td><p>1994.06</p></td>
-<td><p>（<a href="https://ja.wikipedia.org/wiki/ラジ王" title="wikilink">放送無し</a>）</p></td>
+<td><p>（<a href="../Page/ラジ王.md" title="wikilink">放送無し</a>）</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -158,28 +158,28 @@
 
 **月曜日**
 
-  - [高杢禎彦](https://ja.wikipedia.org/wiki/高杢禎彦 "wikilink")（[チェッカーズ](../Page/チェッカーズ.md "wikilink")）（1989年4月 - 1990年3月）
+  - [高杢禎彦](../Page/高杢禎彦.md "wikilink")（[チェッカーズ](../Page/チェッカーズ.md "wikilink")）（1989年4月 - 1990年3月）
   - [中村正人](https://ja.wikipedia.org/wiki/中村正人 "wikilink")（[DREAMS COME TRUE](../Page/DREAMS_COME_TRUE.md "wikilink")）（1990年4月 - 1992年3月）
-  - [森若香織](https://ja.wikipedia.org/wiki/森若香織 "wikilink")（[GO-BANG'S](https://ja.wikipedia.org/wiki/GO-BANG'S "wikilink")）（1992年4月 - 1992年9月）
+  - [森若香織](../Page/森若香織.md "wikilink")（[GO-BANG'S](../Page/GO-BANG'S.md "wikilink")）（1992年4月 - 1992年9月）
   - [楠瀬誠志郎](../Page/楠瀬誠志郎.md "wikilink")（1992年10月 - 1994年3月）
 
 （以下、中村と共演）
 
-  - [馬渡松子](https://ja.wikipedia.org/wiki/馬渡松子 "wikilink")（当時は「ティナ馬渡」と名乗っていた）
+  - [馬渡松子](../Page/馬渡松子.md "wikilink")（当時は「ティナ馬渡」と名乗っていた）
 
 （以下、楠瀬と共演）
 
-  - [峠恵子](https://ja.wikipedia.org/wiki/峠恵子 "wikilink")（1992年10月 - 1993年9月）
-  - [貴島サリオ](https://ja.wikipedia.org/wiki/貴島サリオ "wikilink")（1993年10月 - 1994年3月）
+  - [峠恵子](../Page/峠恵子.md "wikilink")（1992年10月 - 1993年9月）
+  - [貴島サリオ](../Page/貴島サリオ.md "wikilink")（1993年10月 - 1994年3月）
 
 **火曜日**
 
-  - [江口寿史](../Page/江口寿史.md "wikilink")・[田村英里子](https://ja.wikipedia.org/wiki/田村英里子 "wikilink")（1989年4月 - 1989年9月）
+  - [江口寿史](../Page/江口寿史.md "wikilink")・[田村英里子](../Page/田村英里子.md "wikilink")（1989年4月 - 1989年9月）
   - [CHAGE](https://ja.wikipedia.org/wiki/CHAGE "wikilink")（1989年10月 - 1994年3月→次番組「ラジ王」へ続投）
 
 （以下、CHAGEと共演）
 
-  - [田村英里子](https://ja.wikipedia.org/wiki/田村英里子 "wikilink")（1989年10月 - 1990年3月）
+  - [田村英里子](../Page/田村英里子.md "wikilink")（1989年10月 - 1990年3月）
   - [藤田朋子](../Page/藤田朋子.md "wikilink")（1990年4月 - 1994年3月）
 
 **水曜日**
@@ -190,14 +190,14 @@
 
 **木曜日**
 
-  - [サンプラザ中野](https://ja.wikipedia.org/wiki/サンプラザ中野くん "wikilink")・[パッパラー河合](https://ja.wikipedia.org/wiki/パッパラー河合 "wikilink")（[爆風スランプ](https://ja.wikipedia.org/wiki/爆風スランプ "wikilink")）（1989年4月 - 1990年3月）
+  - [サンプラザ中野](../Page/サンプラザ中野くん.md "wikilink")・[パッパラー河合](../Page/パッパラー河合.md "wikilink")（[爆風スランプ](../Page/爆風スランプ.md "wikilink")）（1989年4月 - 1990年3月）
   - [浅香唯](https://ja.wikipedia.org/wiki/浅香唯 "wikilink")（1990年4月 - 1993年3月）
-  - [佐藤竹善](https://ja.wikipedia.org/wiki/佐藤竹善 "wikilink")（[Sing Like Talking](https://ja.wikipedia.org/wiki/Sing_Like_Talking "wikilink")）（1993年4月 - 1994年3月）
-  - [モダンチョキチョキズ](https://ja.wikipedia.org/wiki/モダンチョキチョキズ "wikilink")（Sing Like Talkingがアルバムレコーディングのため渡英していた間のピンチヒッターとして登場）
+  - [佐藤竹善](../Page/佐藤竹善.md "wikilink")（[Sing Like Talking](https://ja.wikipedia.org/wiki/Sing_Like_Talking "wikilink")）（1993年4月 - 1994年3月）
+  - [モダンチョキチョキズ](../Page/モダンチョキチョキズ.md "wikilink")（Sing Like Talkingがアルバムレコーディングのため渡英していた間のピンチヒッターとして登場）
 
 **金曜日**
 
-  - [高橋いづみ](https://ja.wikipedia.org/wiki/高橋いづみ "wikilink")（当時、現役の[駿台予備校講師](../Page/駿台予備学校.md "wikilink")）（1989年4月 - 1990年3月）
+  - [高橋いづみ](../Page/高橋いづみ.md "wikilink")（当時、現役の[駿台予備校講師](../Page/駿台予備学校.md "wikilink")）（1989年4月 - 1990年3月）
 
 ### 第2部：ミッドナイト・ビッグ・ウェーブ、第3部：アーリー・バード
 
@@ -228,37 +228,37 @@
 <span id="坂崎幸之助のNORU SORU">**坂崎幸之助のNORU SORU**</span>
 
   - 「キミのまわりの有名人」・・・身近で見かけた芸能人の行動などを報告していた。
-  - 「ジョビジョバポップス」・・・[ジプシー・キングス](https://ja.wikipedia.org/wiki/ジプシー・キングス "wikilink")の空耳をコーナータイトルにした1989年の番組開始からのコーナー。当初25時台放送で大阪、福岡では聞けなかったが、のち26時台の放送になり全ネット曲で聞けるようになった。コーナーが始まった頃は、[山田邦子](../Page/山田邦子.md "wikilink")が末期の「[いきなり\!フライデーナイト](../Page/いきなり!フライデーナイト.md "wikilink")」で[ジプシー・キングス](https://ja.wikipedia.org/wiki/ジプシー・キングス "wikilink")の空耳を話題にしたり、「[錦織一清](https://ja.wikipedia.org/wiki/錦織一清 "wikilink")の[スーパーギャング](https://ja.wikipedia.org/wiki/スーパーギャング "wikilink")」でも、「ボビジョパポップス」名の類似コーナーが始まるなどの影響を受けたが、1992年に「[空耳アワー](https://ja.wikipedia.org/wiki/空耳アワー "wikilink")」が始まり定着するとネタがパワーダウンし、逆に「空耳アワーのNORU SORU版」と言った方がわかりやすいようになってしまった。坂崎も「空耳アワーのあのシュールな映像には勝てない。」と呟いたことがある。
+  - 「ジョビジョバポップス」・・・[ジプシー・キングス](../Page/ジプシー・キングス.md "wikilink")の空耳をコーナータイトルにした1989年の番組開始からのコーナー。当初25時台放送で大阪、福岡では聞けなかったが、のち26時台の放送になり全ネット曲で聞けるようになった。コーナーが始まった頃は、[山田邦子](../Page/山田邦子.md "wikilink")が末期の「[いきなり\!フライデーナイト](../Page/いきなり!フライデーナイト.md "wikilink")」で[ジプシー・キングス](../Page/ジプシー・キングス.md "wikilink")の空耳を話題にしたり、「[錦織一清](../Page/錦織一清.md "wikilink")の[スーパーギャング](../Page/スーパーギャング.md "wikilink")」でも、「ボビジョパポップス」名の類似コーナーが始まるなどの影響を受けたが、1992年に「[空耳アワー](../Page/空耳アワー.md "wikilink")」が始まり定着するとネタがパワーダウンし、逆に「空耳アワーのNORU SORU版」と言った方がわかりやすいようになってしまった。坂崎も「空耳アワーのあのシュールな映像には勝てない。」と呟いたことがある。
   - 「親自慢子自慢」・・・一般聴取者の投稿によるコントで、谷村新司の「[天才・秀才・バカ](https://ja.wikipedia.org/wiki/天才・秀才・バカ "wikilink")」シリーズのNORU SORU版。そのため当初は三段落ちだったが葉書職人の独擅場と化してしまい、後期はリスナーの要望で一発ギャグ中心の構成に変更され、コーナー名も｢親自慢子自慢・ほ〜ら自慢こりゃ〜自慢｣となっている。一度終了したが、リスナーからの復活嘆願とスタッフ及びTHE ALFEEの棚瀬マネージャーからの鶴の一声で復活する。
   - 「It's A Shame」・・・恥ずかしい体験談を赤裸々に告白するコーナー。下ネタ中心で特に男性リスナーの投書がFMでは前代未聞のえげつなさゆえに話題を呼び、ある意味NORU SORU全体の看板コーナーでもあった。
   - 「私のアレを返して」・・・リスナーからの失敗談を募集し、最後に「○○を返せ！」と坂崎に叫ばせるコーナー。下ねた中心で「It's A Shame」と区別がつかなくなったため吸収される。
   - 「ALFEE information」・・・マネージャー棚瀬によるチケット／リリース情報などの告知コーナー、棚瀬は特番の9999が言いづらいらしく、9999の電話番号をいやがっていた。棚瀬が不在の場合は、川原などが担当。
   - 「見崎、吠える！」・・・番組内でタレント化していた音響スタッフの見崎さんが、リスナーの代わりに大声で叫んでくれるコーナー。
   - 「僕の歌は君の歌」・・・エルトンジョンの「[僕の歌は君の歌](https://ja.wikipedia.org/wiki/僕の歌は君の歌_\(曲\) "wikilink")」のオープニングで始まる、坂崎や、リスナーなどの思い出の曲などを一曲セレクトするコーナーだが、後に原曲が左チャンネル、坂崎の弾き語りが右チャンネルから流れる事が多くなった。
-  - 「直訳ロック」・・・洋楽の歌詞を直訳して歌ったものをリスナーが録音して投稿するコーナー。オープニングは「[コンドルは飛んでいく](https://ja.wikipedia.org/wiki/コンドルは飛んでいく "wikilink")」の直訳。（『かたつむりになるよりすずめのほうがいい』で始まる）
+  - 「直訳ロック」・・・洋楽の歌詞を直訳して歌ったものをリスナーが録音して投稿するコーナー。オープニングは「[コンドルは飛んでいく](../Page/コンドルは飛んでいく.md "wikilink")」の直訳。（『かたつむりになるよりすずめのほうがいい』で始まる）
   - ｢私、ヘンなんですぅ｣・・・「It's A Shame」から派生したコーナーで、リスナーから周りからすればなんでもない物事なのに、見聞きしただけでヘンな気分になる事を募集したコーナー。番組末期のコーナーのため、放送回数は少ない。
-  - 「Noru-Soruニューディスクフラッシュ」・・・洋楽邦楽ジャンルを問わず、新譜の五曲をフラッシュで掛けて、それを一曲選んで放送するコーナー。番組の企画によってコーナーが短いミニバージョンで放送されることもあった。また時折[嘉門達夫](https://ja.wikipedia.org/wiki/嘉門達夫 "wikilink")の｢替え歌メドレーPart2｣や[谷啓](https://ja.wikipedia.org/wiki/谷啓 "wikilink")の｢アイヤ・ハラホロ｣といった凄いインパクトのある曲を流す事もあり、｢アイヤ・ハラホロ｣が放送中にいつ掛かるかリスナーから時間を書いたはがきを募集する｢アイヤ・ハラホロコーナー｣が作られた事がある。
+  - 「Noru-Soruニューディスクフラッシュ」・・・洋楽邦楽ジャンルを問わず、新譜の五曲をフラッシュで掛けて、それを一曲選んで放送するコーナー。番組の企画によってコーナーが短いミニバージョンで放送されることもあった。また時折[嘉門達夫](https://ja.wikipedia.org/wiki/嘉門達夫 "wikilink")の｢替え歌メドレーPart2｣や[谷啓](../Page/谷啓.md "wikilink")の｢アイヤ・ハラホロ｣といった凄いインパクトのある曲を流す事もあり、｢アイヤ・ハラホロ｣が放送中にいつ掛かるかリスナーから時間を書いたはがきを募集する｢アイヤ・ハラホロコーナー｣が作られた事がある。
 
 <!-- end list -->
 
   -
     リスナーが坂崎にペンネームを読んでもらう際に「エコー」や「ディレイ」をリクエストし、スタッフがそれに即興で対応していた。
-    THE ALFEEの活動が[高見沢俊彦](../Page/高見沢俊彦.md "wikilink")のソロ活動のために一時休止していた頃に、番組の企画で[ブレッド&バター](https://ja.wikipedia.org/wiki/ブレッド&バター "wikilink")や[鈴木康博](https://ja.wikipedia.org/wiki/鈴木康博 "wikilink")(元[オフコース](https://ja.wikipedia.org/wiki/オフコース "wikilink"))、[ジェイ・グレイドン](https://ja.wikipedia.org/wiki/ジェイ・グレイドン "wikilink")、[タック&パティ](../Page/タック&パティ.md "wikilink")とセッションする模様が放送された(タック＆パティとは[パルコ劇場](https://ja.wikipedia.org/wiki/パルコ劇場 "wikilink")で実際にステージで共演している)。その外、[TOKYO FM HALL内での公開イベントや](https://ja.wikipedia.org/wiki/TOKYO_FM_HALL "wikilink")、[BEGINとの企画による](https://ja.wikipedia.org/wiki/BEGIN_\(バンド\) "wikilink")[石垣島](../Page/石垣島.md "wikilink")へのツアーが催された事がある。また、当時裏番組だった[TOSHI](https://ja.wikipedia.org/wiki/TOSHI "wikilink")の[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")の最終回の放送中に、いきなり電話を掛けたことがある。この電話には更に"カキテル"こと[TUBE](../Page/TUBE.md "wikilink")の[前田亘輝](../Page/前田亘輝.md "wikilink")が泥酔状態で加わり、大騒ぎになった。
+    THE ALFEEの活動が[高見沢俊彦](../Page/高見沢俊彦.md "wikilink")のソロ活動のために一時休止していた頃に、番組の企画で[ブレッド&バター](../Page/ブレッド&バター.md "wikilink")や[鈴木康博](https://ja.wikipedia.org/wiki/鈴木康博 "wikilink")(元[オフコース](https://ja.wikipedia.org/wiki/オフコース "wikilink"))、[ジェイ・グレイドン](../Page/ジェイ・グレイドン.md "wikilink")、[タック&パティ](../Page/タック&パティ.md "wikilink")とセッションする模様が放送された(タック＆パティとは[パルコ劇場](https://ja.wikipedia.org/wiki/パルコ劇場 "wikilink")で実際にステージで共演している)。その外、[TOKYO FM HALL内での公開イベントや](https://ja.wikipedia.org/wiki/TOKYO_FM_HALL "wikilink")、[BEGINとの企画による](../Page/BEGIN_\(バンド\).md "wikilink")[石垣島](../Page/石垣島.md "wikilink")へのツアーが催された事がある。また、当時裏番組だった[TOSHI](https://ja.wikipedia.org/wiki/TOSHI "wikilink")の[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")の最終回の放送中に、いきなり電話を掛けたことがある。この電話には更に"カキテル"こと[TUBE](../Page/TUBE.md "wikilink")の[前田亘輝](../Page/前田亘輝.md "wikilink")が泥酔状態で加わり、大騒ぎになった。
 
 **サンプラザ中野のNORU SORU**
 
-  - 「第3回早稲ダービー」・・・中野の後輩になるため、[早稲田大学](https://ja.wikipedia.org/wiki/早稲田大学 "wikilink")[政経学部を受験するリスナーを馬に見立てて](https://ja.wikipedia.org/wiki/政治経済学部 "wikilink")、彼らの受験までの日々を追っていこうという企画。“第3回”とは「[サンプラザ中野のオールナイトニッポン](https://ja.wikipedia.org/wiki/サンプラザ中野のオールナイトニッポン "wikilink")」からの通算回数。
+  - 「第3回早稲ダービー」・・・中野の後輩になるため、[早稲田大学](../Page/早稲田大学.md "wikilink")[政経学部を受験するリスナーを馬に見立てて](../Page/政治経済学部.md "wikilink")、彼らの受験までの日々を追っていこうという企画。“第3回”とは「[サンプラザ中野のオールナイトニッポン](../Page/サンプラザ中野のオールナイトニッポン.md "wikilink")」からの通算回数。
   - 「耳たぶコーナー」・・・身の周りの変な物を紹介。後に、ある学校の[ワンダーフォーゲル](../Page/ワンダーフォーゲル.md "wikilink")部の変な実態報告など、変なクラブ活動についてにも発展していった。
-  - 「耳たま目んたぶレコード大賞」・・・いわゆる“[コサキンソング](../Page/コサキンDEワァオ!.md "wikilink")”のような変な曲を紹介して最後に大賞を決めようという企画。ノミネートされたのは「マッチョドラゴン」（[藤波辰爾](https://ja.wikipedia.org/wiki/藤波辰爾 "wikilink")）、「お料理マンボ」（[森尾由美](https://ja.wikipedia.org/wiki/森尾由美 "wikilink")）、「[新宿純愛物語](../Page/新宿純愛物語.md "wikilink")」（[仲村トオル](../Page/仲村トオル.md "wikilink")&[一条寺美奈](../Page/一条寺美奈.md "wikilink")）、「MOU CORI GORI DA」（[竹村健一](../Page/竹村健一.md "wikilink")）、「夜のドラマ」（熊五郎）など。大賞には「ミッドナイトテレフォン」（[小森まなみ](../Page/小森まなみ.md "wikilink")）が選ばれ、小森自身が電話出演した。
+  - 「耳たま目んたぶレコード大賞」・・・いわゆる“[コサキンソング](../Page/コサキンDEワァオ!.md "wikilink")”のような変な曲を紹介して最後に大賞を決めようという企画。ノミネートされたのは「マッチョドラゴン」（[藤波辰爾](../Page/藤波辰爾.md "wikilink")）、「お料理マンボ」（[森尾由美](https://ja.wikipedia.org/wiki/森尾由美 "wikilink")）、「[新宿純愛物語](../Page/新宿純愛物語.md "wikilink")」（[仲村トオル](../Page/仲村トオル.md "wikilink")&[一条寺美奈](../Page/一条寺美奈.md "wikilink")）、「MOU CORI GORI DA」（[竹村健一](../Page/竹村健一.md "wikilink")）、「夜のドラマ」（熊五郎）など。大賞には「ミッドナイトテレフォン」（[小森まなみ](../Page/小森まなみ.md "wikilink")）が選ばれ、小森自身が電話出演した。
 
 **高橋いづみのNORU SORU**
 
-  - 「トライリンガルコーナー」・・・ある一文を[古文](https://ja.wikipedia.org/wiki/古文 "wikilink")から[現代文](https://ja.wikipedia.org/wiki/現代文 "wikilink")へ、その後更に[英語](../Page/英語.md "wikilink")に訳していたコーナー。
+  - 「トライリンガルコーナー」・・・ある一文を[古文](../Page/古文.md "wikilink")から[現代文](https://ja.wikipedia.org/wiki/現代文 "wikilink")へ、その後更に[英語](../Page/英語.md "wikilink")に訳していたコーナー。
 
 <!-- end list -->
 
   -
-    この番組では、曲は[ソウルミュージック](https://ja.wikipedia.org/wiki/ソウルミュージック "wikilink")を中心にオンエアしていた。
+    この番組では、曲は[ソウルミュージック](../Page/ソウルミュージック.md "wikilink")を中心にオンエアしていた。
 
 **CHAGEのNORU SORU**
 
@@ -276,7 +276,7 @@
 
 **浅香唯のNORU SORU**
 
-  - 「NORUSORU版珍語源」・・・リスナー投稿による[格言](https://ja.wikipedia.org/wiki/格言 "wikilink")などを元にした[駄洒落](https://ja.wikipedia.org/wiki/駄洒落 "wikilink")を紹介するコーナー。
+  - 「NORUSORU版珍語源」・・・リスナー投稿による[格言](https://ja.wikipedia.org/wiki/格言 "wikilink")などを元にした[駄洒落](../Page/駄洒落.md "wikilink")を紹介するコーナー。
   - 「のるかそるかの発明王」・・・[ワニブックス](../Page/ワニブックス.md "wikilink")の漫画雑誌「コミックジャングル」とのコラボ企画となるリスナー投稿コーナー。
   - 「クイズ・ミュージックシャッフル」・・・ある曲の歌詞をバラバラに分解し、全く違う文章に仕立て上げる。リスナーはそれを聴いて、元となった曲のタイトルを当てる。
 
@@ -288,6 +288,6 @@
 
 [Category:1989年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1989年のラジオ番組_\(日本\) "wikilink") [Category:TOKYO_FMの深夜ラジオ番組](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの深夜ラジオ番組 "wikilink") [Category:JFN系ラジオのバラエティ番組](https://ja.wikipedia.org/wiki/Category:JFN系ラジオのバラエティ番組 "wikilink") [Category:TOKYO_FMの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの帯番組の歴史 "wikilink") [Category:TOKYO_FMの音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの音楽番組の歴史 "wikilink")
 
-1.  月刊[ラジオパラダイス](https://ja.wikipedia.org/wiki/ラジオパラダイス "wikilink")1989年5月号の記事より。
+1.  月刊[ラジオパラダイス](../Page/ラジオパラダイス.md "wikilink")1989年5月号の記事より。
 2.  CDなどで曲間に数秒の無音部分を作ることでそれぞれの曲を切れ目を分かりやすく区別するために挿入されるもの（[プリギャップ 【 pregap 】 ポストギャップ / postgap](http://e-words.jp/w/%E3%83%97%E3%83%AA%E3%82%AE%E3%83%A3%E3%83%83%E3%83%97.html)）。
-3.  但し火曜日の[CHAGE](https://ja.wikipedia.org/wiki/CHAGE "wikilink")のみ「[ラジ王](https://ja.wikipedia.org/wiki/ラジ王 "wikilink")」まで継続していた。
+3.  但し火曜日の[CHAGE](https://ja.wikipedia.org/wiki/CHAGE "wikilink")のみ「[ラジ王](../Page/ラジ王.md "wikilink")」まで継続していた。

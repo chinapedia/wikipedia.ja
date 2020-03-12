@@ -17,11 +17,11 @@ SLRマクラーレンは[モータースポーツ](https://ja.wikipedia.org/wiki
 
 [2003年](../Page/2003年.md "wikilink")のフランクフルトショーで登場し、[2004年](../Page/2004年.md "wikilink")10月から日本でも発売が開始された。その当時の価格は5,775万円。
 
-エンジンはAMGがこの車のためだけに開発した[スーパーチャージャー](../Page/スーパーチャージャー.md "wikilink")付きの5.4L [V8で](../Page/V型8気筒.md "wikilink")、626PSを発生、0-100km/h加速は3.8秒である。これは、[フロントエンジンながら](https://ja.wikipedia.org/wiki/後輪駆動_#フロントエンジン・リアドライブ "wikilink")、[ランボルギーニ・ムルシエラゴ](https://ja.wikipedia.org/wiki/ランボルギーニ・ムルシエラゴ "wikilink")や[ポルシェ・カレラGT](https://ja.wikipedia.org/wiki/ポルシェ・カレラGT "wikilink")に匹敵する値である。
+エンジンはAMGがこの車のためだけに開発した[スーパーチャージャー](../Page/スーパーチャージャー.md "wikilink")付きの5.4L [V8で](../Page/V型8気筒.md "wikilink")、626PSを発生、0-100km/h加速は3.8秒である。これは、[フロントエンジンながら](https://ja.wikipedia.org/wiki/後輪駆動_#フロントエンジン・リアドライブ "wikilink")、[ランボルギーニ・ムルシエラゴ](../Page/ランボルギーニ・ムルシエラゴ.md "wikilink")や[ポルシェ・カレラGT](../Page/ポルシェ・カレラGT.md "wikilink")に匹敵する値である。
 
-一方で、トランスミッションは、競合車種が[MTや](../Page/マニュアルトランスミッション.md "wikilink")[セミATであるのに対して](../Page/セミオートマチックトランスミッション.md "wikilink")、SLRマクラーレンは[メルセデス・ベンツ](https://ja.wikipedia.org/wiki/メルセデス・ベンツ "wikilink")の他の車種にも搭載されている5速[ATを採用している](../Page/オートマチックトランスミッション.md "wikilink")。これは競合車種よりもイージードライブが可能であることを表し、普段から[Sクラス向けなどで大](https://ja.wikipedia.org/wiki/メルセデス・ベンツ・Sクラス "wikilink")[トルク](../Page/トルク.md "wikilink")に対応するATを開発しているメルセデス・ベンツならではの特徴ともいえる。
+一方で、トランスミッションは、競合車種が[MTや](../Page/マニュアルトランスミッション.md "wikilink")[セミATであるのに対して](../Page/セミオートマチックトランスミッション.md "wikilink")、SLRマクラーレンは[メルセデス・ベンツ](https://ja.wikipedia.org/wiki/メルセデス・ベンツ "wikilink")の他の車種にも搭載されている5速[ATを採用している](../Page/オートマチックトランスミッション.md "wikilink")。これは競合車種よりもイージードライブが可能であることを表し、普段から[Sクラス向けなどで大](../Page/メルセデス・ベンツ・Sクラス.md "wikilink")[トルク](../Page/トルク.md "wikilink")に対応するATを開発しているメルセデス・ベンツならではの特徴ともいえる。
 
-ボディは[カーボンコンポジットを主体とした](https://ja.wikipedia.org/wiki/炭素繊維強化プラスチック "wikilink")[モノコック](https://ja.wikipedia.org/wiki/モノコック "wikilink")であり、軽量化と高[剛性](../Page/剛性.md "wikilink")に貢献している。
+ボディは[カーボンコンポジットを主体とした](https://ja.wikipedia.org/wiki/炭素繊維強化プラスチック "wikilink")[モノコック](../Page/モノコック.md "wikilink")であり、軽量化と高[剛性](../Page/剛性.md "wikilink")に貢献している。
 
 また、**エアブレーキ機能**を採用しており、120km/h以上からのブレーキング時にリアウイングを跳ね上げることで、空気[抵抗と](../Page/抗力.md "wikilink")[ダウンフォース](../Page/ダウンフォース.md "wikilink")を高め、車両の安定性とブレーキ性能を向上させている。
 
@@ -37,11 +37,11 @@ SLRマクラーレンは[モータースポーツ](https://ja.wikipedia.org/wiki
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Mercedes_SLR_C199_722Edition.jpg "wikilink")
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")の[パリサロンで高性能バージョンが発表された](https://ja.wikipedia.org/wiki/モンディアル・ド・ロトモビル "wikilink")。“722”は1955年[ミッレミリア](https://ja.wikipedia.org/wiki/ミッレミリア "wikilink")で、[スターリング・モス](../Page/スターリング・モス.md "wikilink")が300SLRで優勝した際のカーナンバーで、スタート時刻の午前7時22分を表す。世界限定150台の販売。専用のスポーツ[サスペンション](../Page/サスペンション.md "wikilink")やカーボン[エアロパーツ](https://ja.wikipedia.org/wiki/エアロパーツ "wikilink")が装備される。価格は6,300万円。 エンジンは[スーパーチャージャー](../Page/スーパーチャージャー.md "wikilink")付き 5.4L [V型8気筒](../Page/V型8気筒.md "wikilink")SOHCエンジン（650PS/83.6kg·m）となり、0-100km/hは3.6秒（-0.2秒） 最高速度は337km/h（+3km/h）。駆動方式はFR。
+[2006年](../Page/2006年.md "wikilink")の[パリサロンで高性能バージョンが発表された](https://ja.wikipedia.org/wiki/モンディアル・ド・ロトモビル "wikilink")。“722”は1955年[ミッレミリア](../Page/ミッレミリア.md "wikilink")で、[スターリング・モス](../Page/スターリング・モス.md "wikilink")が300SLRで優勝した際のカーナンバーで、スタート時刻の午前7時22分を表す。世界限定150台の販売。専用のスポーツ[サスペンション](../Page/サスペンション.md "wikilink")やカーボン[エアロパーツ](../Page/エアロパーツ.md "wikilink")が装備される。価格は6,300万円。 エンジンは[スーパーチャージャー](../Page/スーパーチャージャー.md "wikilink")付き 5.4L [V型8気筒](../Page/V型8気筒.md "wikilink")SOHCエンジン（650PS/83.6kg·m）となり、0-100km/hは3.6秒（-0.2秒） 最高速度は337km/h（+3km/h）。駆動方式はFR。
 
   - SLRマクラーレンロードスター
 
-[2007年](../Page/2007年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")に登場した、SLRマクラーレンの[オープンモデル](../Page/オープンカー.md "wikilink")。性能はSLRマクラーレンのクーペモデルとほぼ同じである。 ソフトトップの開閉はセミオートマティック機構を採用し、フロントウインドシールド上部のロックを解除し、センター[コンソール](https://ja.wikipedia.org/wiki/コンソール "wikilink")のスイッチを操作すれば、約10秒での開閉が可能である。
+[2007年](../Page/2007年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")に登場した、SLRマクラーレンの[オープンモデル](../Page/オープンカー.md "wikilink")。性能はSLRマクラーレンのクーペモデルとほぼ同じである。 ソフトトップの開閉はセミオートマティック機構を採用し、フロントウインドシールド上部のロックを解除し、センター[コンソール](../Page/コンソール.md "wikilink")のスイッチを操作すれば、約10秒での開閉が可能である。
 
 また、ボディ[剛性](../Page/剛性.md "wikilink")の確保と横転時の安全確保のため、Aピラーを補強し、シート後部にセーフティ[ロールケージ](../Page/ロールケージ.md "wikilink")を装備する。その後方には、オープン時の風の巻き込みを防ぎ乗員の快適性を保つドラフトストップを新たに装着している。 価格は7,000万円(税込）で、クーペモデルよりも約1,000万円ほど高価。
 
@@ -51,7 +51,7 @@ SLRマクラーレンは[モータースポーツ](https://ja.wikipedia.org/wiki
 
   - SLRマクラーレン722GT
 
-722をベースとした[ワンメイクレース](https://ja.wikipedia.org/wiki/ワンメイクレース "wikilink")用モデルで、メルセデス認定のもとRay Mallock Ltd.社により21台が製作された。
+722をベースとした[ワンメイクレース](../Page/ワンメイクレース.md "wikilink")用モデルで、メルセデス認定のもとRay Mallock Ltd.社により21台が製作された。
 
   - SLRスターリング モス
 
@@ -60,8 +60,8 @@ SLRマクラーレンは[モータースポーツ](https://ja.wikipedia.org/wiki
 ## 関連項目
 
   - [メルセデス・ベンツ・300SLR](https://ja.wikipedia.org/wiki/メルセデス・ベンツ・300SLR "wikilink")
-  - [マクラーレン・F1](https://ja.wikipedia.org/wiki/マクラーレン・F1 "wikilink")
-  - [ミッレミリア](https://ja.wikipedia.org/wiki/ミッレミリア "wikilink")
+  - [マクラーレン・F1](../Page/マクラーレン・F1.md "wikilink")
+  - [ミッレミリア](../Page/ミッレミリア.md "wikilink")
   - [スターリング・モス](../Page/スターリング・モス.md "wikilink")
 
 ## 外部リンク

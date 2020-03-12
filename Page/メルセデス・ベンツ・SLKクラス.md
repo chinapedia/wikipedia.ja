@@ -1,81 +1,81 @@
 > この記事は[SLK](https://ja.wikipedia.org/wiki/SLK)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Mercedes-Benz_SLK_250_BlueEFFICIENCY_\(R_172\)_–_Frontansicht_\(2\),_11._März_2011,_Teneriffa.jpg "wikilink") **メルセデス・ベンツ・SLKクラス**（*Mercedes-Benz SLK-Class* ）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[自動車](../Page/自動車.md "wikilink")メーカーである[ダイムラーが](../Page/ダイムラー_\(自動車メーカー\).md "wikilink")[メルセデス・ベンツ](https://ja.wikipedia.org/wiki/メルセデス・ベンツ "wikilink")ブランドで展開していた[クーペカブリオレ](https://ja.wikipedia.org/wiki/クーペカブリオレ "wikilink")タイプの[スポーツカー](../Page/スポーツカー.md "wikilink")である。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Mercedes-Benz_SLK_250_BlueEFFICIENCY_\(R_172\)_–_Frontansicht_\(2\),_11._März_2011,_Teneriffa.jpg "wikilink") **メルセデス・ベンツ・SLKクラス**（*Mercedes-Benz SLK-Class* ）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[自動車](../Page/自動車.md "wikilink")メーカーである[ダイムラーが](../Page/ダイムラー_\(自動車メーカー\).md "wikilink")[メルセデス・ベンツ](https://ja.wikipedia.org/wiki/メルセデス・ベンツ "wikilink")ブランドで展開していた[クーペカブリオレ](../Page/クーペカブリオレ.md "wikilink")タイプの[スポーツカー](../Page/スポーツカー.md "wikilink")である。
 
 2015年より「[SLCクラス](https://ja.wikipedia.org/wiki/メルセデス・ベンツ・SLCクラス "wikilink")」\[1\]へ名称が変更された。したがってSLKとしては3代目で終了となる。
 
 ## 概要
 
-[Cクラスベースの](https://ja.wikipedia.org/wiki/メルセデス・ベンツ・Cクラス "wikilink")2シーターライトウェイト[オープンカー](../Page/オープンカー.md "wikilink")として登場。1994年、量産化に先行して試作モデルが発表された。1996年の生産開始に当たっては、[カルマン社が生産を請け負った](../Page/カルマン_\(自動車\).md "wikilink")。
+[Cクラスベースの](../Page/メルセデス・ベンツ・Cクラス.md "wikilink")2シーターライトウェイト[オープンカー](../Page/オープンカー.md "wikilink")として登場。1994年、量産化に先行して試作モデルが発表された。1996年の生産開始に当たっては、[カルマン社が生産を請け負った](../Page/カルマン_\(自動車\).md "wikilink")。
 
-上位の[SLクラス](../Page/メルセデス・ベンツ・SLクラス.md "wikilink")（5代目）と同様、「[バリオルーフ](https://ja.wikipedia.org/wiki/クーペカブリオレ "wikilink")」を、メルセデスの車としては初めて搭載し、ルーフオープンの状態から作動時間28秒\[2\]でクーペ仕様に変わる。トランク容量はオープン時145L、クローズ時348Lである。
+上位の[SLクラス](../Page/メルセデス・ベンツ・SLクラス.md "wikilink")（5代目）と同様、「[バリオルーフ](../Page/クーペカブリオレ.md "wikilink")」を、メルセデスの車としては初めて搭載し、ルーフオープンの状態から作動時間28秒\[2\]でクーペ仕様に変わる。トランク容量はオープン時145L、クローズ時348Lである。
 
 なお、[メルセデス・ベンツ](https://ja.wikipedia.org/wiki/メルセデス・ベンツ "wikilink")には[Eクラスカブリオレが存在するが](https://ja.wikipedia.org/wiki/メルセデス・ベンツ・C207/A207 "wikilink")、こちらは電動式のソフトトップを採用する4シーターの[オープンカー](../Page/オープンカー.md "wikilink")である。
 
-また[ダイムラー・クライスラー](https://ja.wikipedia.org/wiki/ダイムラー・クライスラー "wikilink")時代に[クライスラー](../Page/クライスラー.md "wikilink")ブランドで販売した[クロスファイアは](../Page/クライスラー・クロスファイア.md "wikilink")、初代の[プラットフォームを使用した派生車種である](https://ja.wikipedia.org/wiki/プラットフォーム_\(自動車\) "wikilink")。
+また[ダイムラー・クライスラー](https://ja.wikipedia.org/wiki/ダイムラー・クライスラー "wikilink")時代に[クライスラー](../Page/クライスラー.md "wikilink")ブランドで販売した[クロスファイアは](../Page/クライスラー・クロスファイア.md "wikilink")、初代の[プラットフォームを使用した派生車種である](../Page/プラットフォーム_\(自動車\).md "wikilink")。
 
 「CLK55 AMG」に代わり、2005年シーズンの[F1](../Page/フォーミュラ1.md "wikilink")[セーフティカー](../Page/セーフティカー.md "wikilink")として採用された。
 
 ## 初代（1996年-2004年）R170
 
-[Mercedes_SLK_200_schwarz.jpg](https://ja.wikipedia.org/wiki/File:Mercedes_SLK_200_schwarz.jpg "fig:Mercedes_SLK_200_schwarz.jpg") 日本では1997年に「SLK230 コンプレッサー」と「SLK230 AMG」の販売が始まった。しかしこの年のモデルは前年度からの予約注文が殺到し、年度分が早々と完売になったため、この年の注文分は翌年の1998年に納車というかたちになった。そのため一時は、ごく稀に出回った[新古車がプレミアム価格で取引されていた](https://ja.wikipedia.org/wiki/中古車 "wikilink")。
+[Mercedes_SLK_200_schwarz.jpg](https://ja.wikipedia.org/wiki/File:Mercedes_SLK_200_schwarz.jpg "fig:Mercedes_SLK_200_schwarz.jpg") 日本では1997年に「SLK230 コンプレッサー」と「SLK230 AMG」の販売が始まった。しかしこの年のモデルは前年度からの予約注文が殺到し、年度分が早々と完売になったため、この年の注文分は翌年の1998年に納車というかたちになった。そのため一時は、ごく稀に出回った[新古車がプレミアム価格で取引されていた](../Page/中古車.md "wikilink")。
 
-[2000年](../Page/2000年.md "wikilink")、[マイナーチェンジ](https://ja.wikipedia.org/wiki/モデルチェンジ_\(自動車\) "wikilink")。「SLK230 AMG」が消失し、[Cクラスや](https://ja.wikipedia.org/wiki/メルセデス・ベンツ・Cクラス "wikilink")[Eクラスと共通の](https://ja.wikipedia.org/wiki/メルセデス・ベンツ・Eクラス "wikilink")3.2L [V6エンジンを搭載する](https://ja.wikipedia.org/wiki/V型6気筒 "wikilink")「SLK320」と[AMGモデルの](../Page/メルセデスAMG.md "wikilink")「SLK32 AMG」が新たに設定された。
+[2000年](../Page/2000年.md "wikilink")、[マイナーチェンジ](https://ja.wikipedia.org/wiki/モデルチェンジ_\(自動車\) "wikilink")。「SLK230 AMG」が消失し、[Cクラスや](../Page/メルセデス・ベンツ・Cクラス.md "wikilink")[Eクラスと共通の](../Page/メルセデス・ベンツ・Eクラス.md "wikilink")3.2L [V6エンジンを搭載する](../Page/V型6気筒.md "wikilink")「SLK320」と[AMGモデルの](../Page/メルセデスAMG.md "wikilink")「SLK32 AMG」が新たに設定された。
 
-また、「SLK320」をベースにAMG製の[エアロパーツ](https://ja.wikipedia.org/wiki/エアロパーツ "wikilink")やアルミホイールを装着した「SLK320 スポーツライン」も用意された。
+また、「SLK320」をベースにAMG製の[エアロパーツ](../Page/エアロパーツ.md "wikilink")やアルミホイールを装着した「SLK320 スポーツライン」も用意された。
 
 ### 特徴・機構
 
   - 日本での価格は504-809万円（最終モデル）。マイナーチェンジ前では全車左右ハンドルの選択が可能、マイナーチェンジ後では「SLK230 コンプレッサー」が右ハンドルのみ、「SLK32 AMG」が左ハンドルのみ、「SLK320」「SLK320 スポーツライン」は左右ハンドルの選択が可能という展開であった。
   - サイズは3,995x1,715x1,276（mm）、ホイールベースは2,400（mm）で、機構的には[W202がベースである](https://ja.wikipedia.org/wiki/メルセデス・ベンツ・W202 "wikilink")。
   - ヨーロッパでは2.0Lの自然吸気エンジンやそのコンプレッサー仕様（ギリシャ、イタリア、ポルトガル向け）、2.3Lの自然吸気エンジンを搭載するモデルが存在した。
-  - 「SLK230 AMG」はAMGモデルであるが、[エアロパーツ](https://ja.wikipedia.org/wiki/エアロパーツ "wikilink")の装着などエクステリアのみの変更に留まっており、パワートレインには手が加えられていないモデルである。
+  - 「SLK230 AMG」はAMGモデルであるが、[エアロパーツ](../Page/エアロパーツ.md "wikilink")の装着などエクステリアのみの変更に留まっており、パワートレインには手が加えられていないモデルである。
   - 2004年に発売された特別仕様車。インチアップタイヤ・リアスポイラー・ナッパレザーシート・アルミコンソールパネル・専用フロントグリルなどの装備が施された。
 
 ### 主なモデル
 
-| グレード                       | 製造期間          | 排気量            | エンジン                                                                  | 最高出力・最大トルク                       | 変速機                                            | 駆動方式 |
-| -------------------------- | ------------- | -------------- | --------------------------------------------------------------------- | -------------------------------- | ---------------------------------------------- | ---- |
-| SLK32 AMG                  | 2000年-2004年   | 3.2L           | [V型6気筒](https://ja.wikipedia.org/wiki/V型6気筒 "wikilink")SOHCスーパーチャージャー | 353PS/45.9kg･m                   | 5速[AT](../Page/オートマチックトランスミッション.md "wikilink") | FR   |
-| SLK320                     | V型6気筒SOHCエンジン | 218PS/31.6kg･m |                                                                       |                                  |                                                |      |
-| SLK320 スポーツライン             | 2000年-2004年   | 3.2L           | [V型6気筒](https://ja.wikipedia.org/wiki/V型6気筒 "wikilink")SOHC           |                                  |                                                |      |
-| SLK230 コンプレッサー             | 1997年-2004年   | 2.2L           | [直列4気筒](https://ja.wikipedia.org/wiki/直列4気筒 "wikilink")DOHCスーパーチャージャー | 193PS/28.6kg･m 後期型197PS/28.6kg･m |                                                |      |
-| SLK230 AMG                 | 1997年-2000年   |                |                                                                       |                                  |                                                |      |
-| SLK230 コンプレッサー スペシャルエディション | 2004年         |                |                                                                       |                                  |                                                |      |
+| グレード                       | 製造期間          | 排気量            | エンジン                                               | 最高出力・最大トルク                       | 変速機                                            | 駆動方式 |
+| -------------------------- | ------------- | -------------- | -------------------------------------------------- | -------------------------------- | ---------------------------------------------- | ---- |
+| SLK32 AMG                  | 2000年-2004年   | 3.2L           | [V型6気筒](../Page/V型6気筒.md "wikilink")SOHCスーパーチャージャー | 353PS/45.9kg･m                   | 5速[AT](../Page/オートマチックトランスミッション.md "wikilink") | FR   |
+| SLK320                     | V型6気筒SOHCエンジン | 218PS/31.6kg･m |                                                    |                                  |                                                |      |
+| SLK320 スポーツライン             | 2000年-2004年   | 3.2L           | [V型6気筒](../Page/V型6気筒.md "wikilink")SOHC           |                                  |                                                |      |
+| SLK230 コンプレッサー             | 1997年-2004年   | 2.2L           | [直列4気筒](../Page/直列4気筒.md "wikilink")DOHCスーパーチャージャー | 193PS/28.6kg･m 後期型197PS/28.6kg･m |                                                |      |
+| SLK230 AMG                 | 1997年-2000年   |                |                                                    |                                  |                                                |      |
+| SLK230 コンプレッサー スペシャルエディション | 2004年         |                |                                                    |                                  |                                                |      |
 
 ## 2代目（2004年-2011年）R171
 
 [Mercedes_SLK_200_K_R171.jpg](https://ja.wikipedia.org/wiki/File:Mercedes_SLK_200_K_R171.jpg "fig:Mercedes_SLK_200_K_R171.jpg") [SLK350.jpg](https://ja.wikipedia.org/wiki/File:SLK350.jpg "fig:SLK350.jpg") [thumb](https://ja.wikipedia.org/wiki/ファイル:Mercedes_SLK55_R171.jpg "wikilink") [Hockenheimring_Safety_Car2.jpg](https://ja.wikipedia.org/wiki/File:Hockenheimring_Safety_Car2.jpg "fig:Hockenheimring_Safety_Car2.jpg")\]\]
 
-[2004年](../Page/2004年.md "wikilink")にモデルチェンジされ、2代目に移行した。エクステリアは、[フロントエンドのデザインが](https://ja.wikipedia.org/wiki/フロントエンド#_工学・技術 "wikilink")[SLRマクラーレンを連想させるものとなっている](https://ja.wikipedia.org/wiki/メルセデス・ベンツ・SLRマクラーレン "wikilink")。サイズは4,082x1,788x1,298（mm）。
+[2004年](../Page/2004年.md "wikilink")にモデルチェンジされ、2代目に移行した。エクステリアは、[フロントエンドのデザインが](https://ja.wikipedia.org/wiki/フロントエンド#_工学・技術 "wikilink")[SLRマクラーレンを連想させるものとなっている](../Page/メルセデス・ベンツ・SLRマクラーレン.md "wikilink")。サイズは4,082x1,788x1,298（mm）。
 
-日本では、当初先代では売れ筋であった[直列4気筒](https://ja.wikipedia.org/wiki/直列4気筒 "wikilink")エンジン搭載モデルの導入が見送られ、新世代の3.5L [V6エンジン](https://ja.wikipedia.org/wiki/V型6気筒 "wikilink")（[272](../Page/メルセデス・ベンツ・M272エンジン.md "wikilink")）を積む「SLK350」とAMGモデルの「SLK55 AMG」が販売されていた。価格は672～960万円。
+日本では、当初先代では売れ筋であった[直列4気筒](../Page/直列4気筒.md "wikilink")エンジン搭載モデルの導入が見送られ、新世代の3.5L [V6エンジン](../Page/V型6気筒.md "wikilink")（[272](../Page/メルセデス・ベンツ・M272エンジン.md "wikilink")）を積む「SLK350」とAMGモデルの「SLK55 AMG」が販売されていた。価格は672～960万円。
 
-「SLK55 AMG」は専用のフロントグリルやAMG製の[エアロパーツ](https://ja.wikipedia.org/wiki/エアロパーツ "wikilink")、強化[ブレーキ](../Page/ブレーキ.md "wikilink")、パドルシフト、スポーツ[サスペンション](../Page/サスペンション.md "wikilink")を装備している。
+「SLK55 AMG」は専用のフロントグリルやAMG製の[エアロパーツ](../Page/エアロパーツ.md "wikilink")、強化[ブレーキ](../Page/ブレーキ.md "wikilink")、パドルシフト、スポーツ[サスペンション](../Page/サスペンション.md "wikilink")を装備している。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")8月、3.0L [V6エンジン](https://ja.wikipedia.org/wiki/V型6気筒 "wikilink")（[272M30](../Page/メルセデス・ベンツ・M272エンジン.md "wikilink")）を搭載する「SLK280」を追加（価格は615万円）。 同時に「SLK350」は722万円に、「SLK55 AMG」は1,050万円に値上げされた。
+[2005年](../Page/2005年.md "wikilink")8月、3.0L [V6エンジン](../Page/V型6気筒.md "wikilink")（[272M30](../Page/メルセデス・ベンツ・M272エンジン.md "wikilink")）を搭載する「SLK280」を追加（価格は615万円）。 同時に「SLK350」は722万円に、「SLK55 AMG」は1,050万円に値上げされた。
 
-| グレード      | エンジン                                                        | 排気量            | 最高出力・最大トルク     | 変速機                                            | 駆動方式 |
-| --------- | ----------------------------------------------------------- | -------------- | -------------- | ---------------------------------------------- | ---- |
-| SLK55 AMG | [V型8気筒](../Page/V型8気筒.md "wikilink")SOHC                    | 5.4L           | 360PS/52.0kg･m | 7速[AT](../Page/オートマチックトランスミッション.md "wikilink") | FR   |
-| SLK350    | [V型6気筒](https://ja.wikipedia.org/wiki/V型6気筒 "wikilink")DOHC | 3.5L           | 272PS/35.7kg･m |                                                |      |
-| SLK280    | 3.0L                                                        | 231PS/30.6kg･m |                |                                                |      |
+| グレード      | エンジン                                     | 排気量            | 最高出力・最大トルク     | 変速機                                            | 駆動方式 |
+| --------- | ---------------------------------------- | -------------- | -------------- | ---------------------------------------------- | ---- |
+| SLK55 AMG | [V型8気筒](../Page/V型8気筒.md "wikilink")SOHC | 5.4L           | 360PS/52.0kg･m | 7速[AT](../Page/オートマチックトランスミッション.md "wikilink") | FR   |
+| SLK350    | [V型6気筒](../Page/V型6気筒.md "wikilink")DOHC | 3.5L           | 272PS/35.7kg･m |                                                |      |
+| SLK280    | 3.0L                                     | 231PS/30.6kg･m |                |                                                |      |
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")2月、[直列4気筒](https://ja.wikipedia.org/wiki/直列4気筒 "wikilink")エンジン搭載モデルの「SLK200 コンプレッサー」を追加。価格は552万円。
+[2006年](../Page/2006年.md "wikilink")2月、[直列4気筒](../Page/直列4気筒.md "wikilink")エンジン搭載モデルの「SLK200 コンプレッサー」を追加。価格は552万円。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")　｢SLK55AMG｣にブラックシリーズが追加。世界限定120台で、日本へは正式に輸入されていない。
+[2006年](../Page/2006年.md "wikilink")　｢SLK55AMG｣にブラックシリーズが追加。世界限定120台で、日本へは正式に輸入されていない。
 
 「SLK55 AMG」に[セーフティカー](../Page/セーフティカー.md "wikilink")に準じた強化パーツを組み込んだ「パフォーマンスパッケージ」（受注生産）が用意される。また、「SLK280」「SLK200 コンプレッサー」には大型のアルミホイールやスポーツ[サスペンション](../Page/サスペンション.md "wikilink")を装着した「スポーツパッケージ」、「SLK350」にはAMG製のアルミホイール、パドルシフトが装着される「AMG スポーツパッケージ」が存在する。
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月19日](../Page/4月19日.md "wikilink")、「SLK200 コンプレッサー」をベースに、designoグラファイトの外板色と「AMG スタイリングパッケージ」、18インチ5トリプルスポークアルミホイール、シルバーペイントエアインテークフィンなどを装備した特別仕様車「SLK 200 コンプレッサー Grand Edition」を発売（限定20台）。120万円相当の特別装備を施しながら、ベース車の50万円高に抑えた。SLK280は2008年5月のマイナーチェンジより輸入停止となった。
 
-| グレード           | エンジン                                                                      | 排気量            | 最高出力・最大トルク     | 変速機                                            | 駆動方式 |
-| -------------- | ------------------------------------------------------------------------- | -------------- | -------------- | ---------------------------------------------- | ---- |
-| SLK55 AMG      | [V型8気筒](../Page/V型8気筒.md "wikilink")SOHC                                  | 5.4L           | 360PS/52.0kg･m | 7速[AT](../Page/オートマチックトランスミッション.md "wikilink") | FR   |
-| SLK350         | [V型6気筒](https://ja.wikipedia.org/wiki/V型6気筒 "wikilink")DOHC               | 3.5L           | 305PS/36.7kg･m |                                                |      |
-| SLK280         | 3.0L                                                                      | 231PS/30.6kg･m |                |                                                |      |
-| SLK200 コンプレッサー | [直列4気筒](https://ja.wikipedia.org/wiki/直列4気筒 "wikilink")DOHCエンジンスーパーチャージャー | 1.8L           | 184PS/25.5kg･m | 5速AT                                           |      |
+| グレード           | エンジン                                                   | 排気量            | 最高出力・最大トルク     | 変速機                                            | 駆動方式 |
+| -------------- | ------------------------------------------------------ | -------------- | -------------- | ---------------------------------------------- | ---- |
+| SLK55 AMG      | [V型8気筒](../Page/V型8気筒.md "wikilink")SOHC               | 5.4L           | 360PS/52.0kg･m | 7速[AT](../Page/オートマチックトランスミッション.md "wikilink") | FR   |
+| SLK350         | [V型6気筒](../Page/V型6気筒.md "wikilink")DOHC               | 3.5L           | 305PS/36.7kg･m |                                                |      |
+| SLK280         | 3.0L                                                   | 231PS/30.6kg･m |                |                                                |      |
+| SLK200 コンプレッサー | [直列4気筒](../Page/直列4気筒.md "wikilink")DOHCエンジンスーパーチャージャー | 1.8L           | 184PS/25.5kg･m | 5速AT                                           |      |
 
 {{-}}
 
@@ -93,7 +93,7 @@
 
 2012年5月9日に日本市場において「SLK 55 AMG」が導入された\[8\]。
 
-2013年2月20日に2012年4月に発売した特別仕様車「SLK 200 ブルーエフィシェンシー 1st アニバーサリーエディション」が好評につき、「SLK 200 ブルーエフィシェンシー トレンド」に改名し、カタロググレードに昇格。併せて、坂道発進時の後退を防ぐヒルスタートアシストを装備した6速MT車「SLK 200 ブルーエフィシェンシー MT」を追加。日本市場におけるメルセデス・ベンツMT乗用車の正規輸入は[190Eシリーズ以来](https://ja.wikipedia.org/wiki/メルセデス・ベンツ・W201 "wikilink")21年ぶりとなった。いずれのグレードもより幅広いユーザーがスポーツカーの魅力を楽しめるように、これまでの既存グレードよりも安い490万円台の価格に設定されている。
+2013年2月20日に2012年4月に発売した特別仕様車「SLK 200 ブルーエフィシェンシー 1st アニバーサリーエディション」が好評につき、「SLK 200 ブルーエフィシェンシー トレンド」に改名し、カタロググレードに昇格。併せて、坂道発進時の後退を防ぐヒルスタートアシストを装備した6速MT車「SLK 200 ブルーエフィシェンシー MT」を追加。日本市場におけるメルセデス・ベンツMT乗用車の正規輸入は[190Eシリーズ以来](../Page/メルセデス・ベンツ・W201.md "wikilink")21年ぶりとなった。いずれのグレードもより幅広いユーザーがスポーツカーの魅力を楽しめるように、これまでの既存グレードよりも安い490万円台の価格に設定されている。
 
 同年8月7日に一部改良。「SLK 55 AMG」を除く全グレードで「ブルーエフィシェンシー」を省いたグレード名に改名するとともに、「SLK 200」・「SLK 350」は従来オプション設定だった「AMGスポーツパッケージ」を標準装備化、「SLK 200 スポーツ」はスポーツサスペンション、新デザインの18インチ5ツインスポークアルミホイール等を追加、「SLK 55 AMG」はオプション設定の「AMGハンドリングパッケージ」のホイール色をマットブラックペイントに変更した。
 

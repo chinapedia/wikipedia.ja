@@ -36,12 +36,12 @@
 <li>STEP TO THE NEW WORLD～OCTOPUSSY REMIX～</li>
 <li>TOO LATE～<a href="../Page/DJ_WATARAI.md" title="wikilink">DJ WATARAI</a> REMIX～</li>
 <li>LOVER,KNIGHT,MAN～D.O.I.+OCTOPUSSY REMIX～</li>
-<li>BREAK UP～<a href="https://ja.wikipedia.org/wiki/DJ_MASTERKEY" title="wikilink">DJ MASTERKEY</a> REMIX～</li>
+<li>BREAK UP～<a href="../Page/DJ_MASTERKEY.md" title="wikilink">DJ MASTERKEY</a> REMIX～</li>
 <li>SONG FOR YOU～DJ HIROnyc REMIX～</li>
 <li>OH MY SISTER～OCTOPUSSY REMIX～</li>
 <li>TO DA FAKE MCS～D.O.I.REMIX～</li>
-<li>MOON SHINE～<a href="https://ja.wikipedia.org/wiki/犬式_a.k.a._Dogggystyle" title="wikilink">Dogggystyle</a> REMIX feat.ARRON BLACKMON～</li>
-<li>PLAYBOY～<a href="https://ja.wikipedia.org/wiki/Saigenji" title="wikilink">SAIGENJI</a> REMIX～</li>
+<li>MOON SHINE～<a href="../Page/犬式_a.k.a._Dogggystyle.md" title="wikilink">Dogggystyle</a> REMIX feat.ARRON BLACKMON～</li>
+<li>PLAYBOY～<a href="../Page/Saigenji.md" title="wikilink">SAIGENJI</a> REMIX～</li>
 <li>空～Tomita Lab.REMIX～</li>
 </ol></td>
 <td></td>
@@ -72,8 +72,8 @@ AICL-1735</p></td>
 <li>SPARKLE☆TRAIN worked by MARK de CLIVE-LOWE</li>
 <li>AT THE PARTY reworked by OCTPUSSY</li>
 <li>YOU CAN DO THAT worked by REEL PEOPLE</li>
-<li>Got To Leave worked by <a href="https://ja.wikipedia.org/wiki/屋敷豪太" title="wikilink">GOTA YASHIKI</a></li>
-<li>Fiesta worked by <a href="https://ja.wikipedia.org/wiki/PE&#39;Z" title="wikilink">PE'Z</a></li>
+<li>Got To Leave worked by <a href="../Page/屋敷豪太.md" title="wikilink">GOTA YASHIKI</a></li>
+<li>Fiesta worked by <a href="../Page/PE&#39;Z.md" title="wikilink">PE'Z</a></li>
 <li>FOR ALL MY LADIES worked by ICEDOWN</li>
 <li>XXX feat.KODA KUMI worked by SA-RA</li>
 <li>WACHAGONADO? worked by D.O.I.</li>
@@ -759,7 +759,7 @@ STREET WALKING/WACHAGONADO?/D.O.G/TO DA FAKE MCS/WOO!/TOO LATE/STAY THERE</li>
 </tr>
 <tr class="even">
 <td><p>2007年06月13日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/DJ_MASTERKEY" title="wikilink">DJ MASTERKEY</a>『FROM THE STREETS VOL.2』</p></td>
+<td><p><a href="../Page/DJ_MASTERKEY.md" title="wikilink">DJ MASTERKEY</a>『FROM THE STREETS VOL.2』</p></td>
 <td><p>LECD-10008</p></td>
 <td><p>STEP TO THE NEW WORLD</p></td>
 </tr>
@@ -887,7 +887,7 @@ NSV-1007</p></td>
 </tr>
 <tr class="even">
 <td><p>不明</p></td>
-<td><p>「I'm just going down」(出演:<a href="https://ja.wikipedia.org/wiki/TOZAWA" title="wikilink">TOZAWA</a>)<br />
+<td><p>「I'm just going down」(出演:<a href="../Page/TOZAWA.md" title="wikilink">TOZAWA</a>)<br />
 「WORLD GO ROUND feat.lecca」<br />
 「Whatever / 限界ピストルズ」</p></td>
 </tr>
@@ -935,7 +935,7 @@ NSV-1007</p></td>
 </tr>
 <tr class="odd">
 <td><p>空</p></td>
-<td><p>日本テレビ系「<a href="https://ja.wikipedia.org/wiki/AX_MUSIC-TV" title="wikilink">AX MUSIC-TV</a>」AX POWER PLAY #025</p></td>
+<td><p>日本テレビ系「<a href="../Page/AX_MUSIC-TV.md" title="wikilink">AX MUSIC-TV</a>」AX POWER PLAY #025</p></td>
 </tr>
 <tr class="even">
 <td><p>GET UP!</p></td>
@@ -955,7 +955,7 @@ NSV-1007</p></td>
 </tr>
 <tr class="even">
 <td><p>FURUSATO</p></td>
-<td><p>テレビ東京「<a href="https://ja.wikipedia.org/wiki/ブログの女王" title="wikilink">ブログの女王</a>」エンディングテーマ</p></td>
+<td><p>テレビ東京「<a href="../Page/ブログの女王.md" title="wikilink">ブログの女王</a>」エンディングテーマ</p></td>
 </tr>
 <tr class="odd">
 <td><p>Dear Friends</p></td>

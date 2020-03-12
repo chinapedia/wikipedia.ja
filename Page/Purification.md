@@ -1,13 +1,13 @@
 > この記事は[Purification](https://ja.wikipedia.org/wiki/Purification)から翻訳されています。
 
 
-『**purification**』（プリフィケーション）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")・[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の[ドラマー](../Page/ドラマー.md "wikilink")、[yukihiro](https://ja.wikipedia.org/wiki/yukihiro "wikilink")のソロプロジェクトである[acid androidの](https://ja.wikipedia.org/wiki/acid_android "wikilink")2枚目の[アルバム](../Page/アルバム.md "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[5月10日](../Page/5月10日.md "wikilink")発売。発売元は[Ki/oon Records](https://ja.wikipedia.org/wiki/キューンミュージック "wikilink")。
+『**purification**』（プリフィケーション）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")・[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の[ドラマー](../Page/ドラマー.md "wikilink")、[yukihiro](https://ja.wikipedia.org/wiki/yukihiro "wikilink")のソロプロジェクトである[acid androidの](https://ja.wikipedia.org/wiki/acid_android "wikilink")2枚目の[アルバム](../Page/アルバム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[5月10日](../Page/5月10日.md "wikilink")発売。発売元は[Ki/oon Records](../Page/キューンミュージック.md "wikilink")。
 
 ## 概要
 
 前作『[faults](https://ja.wikipedia.org/wiki/faults "wikilink")』が[ミニアルバム](https://ja.wikipedia.org/wiki/ミニアルバム "wikilink")であったため、フルアルバムとしては[2002年](../Page/2002年.md "wikilink")[9月](../Page/9月.md "wikilink")に発売した『[acid android](https://ja.wikipedia.org/wiki/acid_android_\(アルバム\) "wikilink")』以来3年8ヶ月ぶりである。acid android名義では初となるシングル「[let's dance](https://ja.wikipedia.org/wiki/let's_dance "wikilink")」を含む全10曲が収録されている。
 
-初回生産限定盤と通常盤の2形態で発売された。初回生産限定盤には「let's dance」と前作『faults』に収録された「faults feat.toni halliday」の[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")を収録した[DVD](../Page/DVD.md "wikilink")が付属する。
+初回生産限定盤と通常盤の2形態で発売された。初回生産限定盤には「let's dance」と前作『faults』に収録された「faults feat.toni halliday」の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")を収録した[DVD](../Page/DVD.md "wikilink")が付属する。
 
 本作は全て[yukihiro](https://ja.wikipedia.org/wiki/yukihiro "wikilink")の生[ドラムである](../Page/ドラムセット.md "wikilink")。前作は、yukihiroの手によってドラムパターンとして[打ち込み](https://ja.wikipedia.org/wiki/打ち込み "wikilink")だったが、趣きが変わったせいか本人がドラムを叩いている（中には、acid androidの[ドラマー](../Page/ドラマー.md "wikilink")が一部叩いている曲もある）。
 

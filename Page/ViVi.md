@@ -9,7 +9,7 @@
 
 他の[赤文字雑誌](https://ja.wikipedia.org/wiki/赤文字雑誌 "wikilink")と比較すると、以下のような特徴がある\[3\]。
 
-  - 海外志向が非常に強い。[ハーフ（またはミックス）の専属モデルが多く](https://ja.wikipedia.org/wiki/混血 "wikilink")、またモード界に関する掲載も充実している。
+  - 海外志向が非常に強い。[ハーフ（またはミックス）の専属モデルが多く](../Page/混血.md "wikilink")、またモード界に関する掲載も充実している。
   - 2017年男性受けより、**自分の求めるスタイル**を重視する傾向がある。赤文字雑誌の中では最もかっこよさを追求している。
   - 2019年、自民党とのタイアップ企画で物議を醸す。
 
@@ -49,17 +49,17 @@
 ### 卒業モデル
 
   - [松嶋菜々子](https://ja.wikipedia.org/wiki/松嶋菜々子 "wikilink")
-  - [甲賀瑞穂](https://ja.wikipedia.org/wiki/甲賀瑞穂 "wikilink")
-  - [相沢紗世](https://ja.wikipedia.org/wiki/相沢紗世 "wikilink")
+  - [甲賀瑞穂](../Page/甲賀瑞穂.md "wikilink")
+  - [相沢紗世](../Page/相沢紗世.md "wikilink")
   - [山口智子](https://ja.wikipedia.org/wiki/山口智子 "wikilink")
-  - [岩堀せり](https://ja.wikipedia.org/wiki/岩堀せり "wikilink")
+  - [岩堀せり](../Page/岩堀せり.md "wikilink")
   - [佐田真由美](../Page/佐田真由美.md "wikilink")
   - [中越典子](../Page/中越典子.md "wikilink")
   - [蒲生麻由](../Page/蒲生麻由.md "wikilink")
   - [佐藤萌未](https://ja.wikipedia.org/wiki/佐藤萌実 "wikilink")
   - [岩田ゆり](../Page/岩田ゆり.md "wikilink")
-  - [畑田亜希](https://ja.wikipedia.org/wiki/畑田亜希 "wikilink")
-  - [鈴木サチ](https://ja.wikipedia.org/wiki/鈴木サチ "wikilink")
+  - [畑田亜希](../Page/畑田亜希.md "wikilink")
+  - [鈴木サチ](../Page/鈴木サチ.md "wikilink")
   - ジェリー
   - ステンケン摩耶
   - [ユリエ](https://ja.wikipedia.org/wiki/ユリエ "wikilink")
@@ -71,21 +71,21 @@
   - [長谷川潤](https://ja.wikipedia.org/wiki/長谷川潤_\(モデル\) "wikilink")
   - [マリエ](https://ja.wikipedia.org/wiki/マリエ_\(モデル\) "wikilink")
   - [水原希子](https://ja.wikipedia.org/wiki/水原希子 "wikilink")
-  - [渡辺知夏子](https://ja.wikipedia.org/wiki/渡辺知夏子 "wikilink")
+  - [渡辺知夏子](../Page/渡辺知夏子.md "wikilink")
   - [脇田恵子](../Page/脇田恵子.md "wikilink")
   - [有末麻祐子](../Page/有末麻祐子.md "wikilink")
   - [藤井リナ](https://ja.wikipedia.org/wiki/藤井リナ "wikilink")
   - [紗羅マリー](https://ja.wikipedia.org/wiki/紗羅マリー "wikilink")
-  - [エリーローズ](https://ja.wikipedia.org/wiki/エリーローズ "wikilink")
-  - [大石参月](https://ja.wikipedia.org/wiki/大石参月 "wikilink")
+  - [エリーローズ](../Page/エリーローズ.md "wikilink")
+  - [大石参月](../Page/大石参月.md "wikilink")
   - [木下優樹菜](https://ja.wikipedia.org/wiki/木下優樹菜 "wikilink")
   - [マギー](https://ja.wikipedia.org/wiki/マギー_\(モデル\) "wikilink")
   - [宮城舞](https://ja.wikipedia.org/wiki/宮城舞 "wikilink")
   - [佐久間由衣](https://ja.wikipedia.org/wiki/佐久間由衣 "wikilink")
-  - [ローラ](https://ja.wikipedia.org/wiki/ローラ "wikilink")
+  - [ローラ](../Page/ローラ.md "wikilink")
   - [玉城ティナ](https://ja.wikipedia.org/wiki/玉城ティナ "wikilink")
   - [トリンドル玲奈](https://ja.wikipedia.org/wiki/トリンドル玲奈 "wikilink")
-  - [カズニョロ](https://ja.wikipedia.org/wiki/小籔千豊 "wikilink")
+  - [カズニョロ](../Page/小籔千豊.md "wikilink")
   - [河北麻友子](../Page/河北麻友子.md "wikilink")
 
 ### 連載
@@ -99,7 +99,7 @@
 
   - [藤井リナ](https://ja.wikipedia.org/wiki/藤井リナ "wikilink") - Lena Likes
   - [板野友美](https://ja.wikipedia.org/wiki/板野友美 "wikilink") - TOMO'S DIARY
-  - [大石参月](https://ja.wikipedia.org/wiki/大石参月 "wikilink") - みつきのふつーがいちばん
+  - [大石参月](../Page/大石参月.md "wikilink") - みつきのふつーがいちばん
   - [EXO](https://ja.wikipedia.org/wiki/EXO "wikilink") - EXO-SHOT\[9\]\[10\]
   - [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink") - AYUのデジデジ日記
   - [加藤ミリヤ](https://ja.wikipedia.org/wiki/加藤ミリヤ "wikilink") - 加藤ミリヤのファッションSHOW
@@ -200,7 +200,7 @@
 </tr>
 <tr class="odd">
 <td><p>2018年5月号</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ローラ" title="wikilink">ローラ</a></p></td>
+<td><p><a href="../Page/ローラ.md" title="wikilink">ローラ</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -314,7 +314,7 @@
 </tr>
 <tr class="odd">
 <td><p>2017年5月号</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ローラ" title="wikilink">ローラ</a></p></td>
+<td><p><a href="../Page/ローラ.md" title="wikilink">ローラ</a></p></td>
 <td></td>
 <td><p>元専属モデル</p></td>
 </tr>
@@ -353,7 +353,7 @@
 </tr>
 <tr class="odd">
 <td><p>2017年11月号</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ローラ" title="wikilink">ローラ</a></p></td>
+<td><p><a href="../Page/ローラ.md" title="wikilink">ローラ</a></p></td>
 <td></td>
 <td><p>元専属モデル</p></td>
 </tr>
@@ -409,7 +409,7 @@
 </tr>
 <tr class="odd">
 <td><p>2016年5月号</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ローラ" title="wikilink">ローラ</a></p></td>
+<td><p><a href="../Page/ローラ.md" title="wikilink">ローラ</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -445,7 +445,7 @@
 </tr>
 <tr class="odd">
 <td><p>2016年11月号</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ローラ" title="wikilink">ローラ</a></p></td>
+<td><p><a href="../Page/ローラ.md" title="wikilink">ローラ</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -491,7 +491,7 @@
 </tr>
 <tr class="even">
 <td><p>2015年4月号</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ローラ" title="wikilink">ローラ</a></p></td>
+<td><p><a href="../Page/ローラ.md" title="wikilink">ローラ</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -533,7 +533,7 @@
 </tr>
 <tr class="odd">
 <td><p>2015年11月号</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ローラ" title="wikilink">ローラ</a></p></td>
+<td><p><a href="../Page/ローラ.md" title="wikilink">ローラ</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -553,14 +553,14 @@
 | 2014年1月号  | [トリンドル玲奈](https://ja.wikipedia.org/wiki/トリンドル玲奈 "wikilink") | 4      |         |
 | 2014年2月号  | [安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")     |        |         |
 | 2014年3月号  | [藤井リナ](https://ja.wikipedia.org/wiki/藤井リナ "wikilink")       |        |         |
-| 2014年4月号  | [ローラ](https://ja.wikipedia.org/wiki/ローラ "wikilink")         |        |         |
+| 2014年4月号  | [ローラ](../Page/ローラ.md "wikilink")                            |        |         |
 | 2014年5月号  | [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")     |        |         |
 | 2014年6月号  | [水原希子](https://ja.wikipedia.org/wiki/水原希子 "wikilink")       |        |         |
 | 2014年7月号  | [安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")     |        |         |
 | 2014年8月号  | [玉城ティナ](https://ja.wikipedia.org/wiki/玉城ティナ "wikilink")     | 1      |         |
 | 2014年9月号  | [藤井リナ](https://ja.wikipedia.org/wiki/藤井リナ "wikilink")       |        | 藤井リナ卒業号 |
 | 2014年10月号 | [トリンドル玲奈](https://ja.wikipedia.org/wiki/トリンドル玲奈 "wikilink") | 5      |         |
-| 2014年11月号 | [ローラ](https://ja.wikipedia.org/wiki/ローラ "wikilink")         |        |         |
+| 2014年11月号 | [ローラ](../Page/ローラ.md "wikilink")                            |        |         |
 | 2014年12月号 | [トリンドル玲奈](https://ja.wikipedia.org/wiki/トリンドル玲奈 "wikilink") | 6      |         |
 
 2013年
@@ -639,7 +639,7 @@
 </tr>
 <tr class="odd">
 <td><p>2013年11月号</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ローラ" title="wikilink">ローラ</a></p></td>
+<td><p><a href="../Page/ローラ.md" title="wikilink">ローラ</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -670,7 +670,7 @@
 </tr>
 <tr class="even">
 <td><p>2012年2月号</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大石参月" title="wikilink">大石参月</a> <a href="https://ja.wikipedia.org/wiki/木下優樹菜" title="wikilink">木下優樹菜</a></p>
+<td><p><a href="../Page/大石参月.md" title="wikilink">大石参月</a> <a href="https://ja.wikipedia.org/wiki/木下優樹菜" title="wikilink">木下優樹菜</a></p>
 <p><a href="https://ja.wikipedia.org/wiki/トリンドル玲奈" title="wikilink">トリンドル玲奈</a></p></td>
 <td></td>
 <td></td>
@@ -802,7 +802,7 @@
 <tr class="odd">
 <td><p>2010年7月号</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/藤井リナ" title="wikilink">藤井リナ</a> <a href="https://ja.wikipedia.org/wiki/長谷川潤_(モデル)" title="wikilink">長谷川潤</a></p>
-<p><a href="https://ja.wikipedia.org/wiki/渡辺知夏子" title="wikilink">渡辺知夏子</a></p>
+<p><a href="../Page/渡辺知夏子.md" title="wikilink">渡辺知夏子</a></p>
 <p><a href="https://ja.wikipedia.org/wiki/マリエ_(モデル)" title="wikilink">マリエ</a></p>
 <p><a href="https://ja.wikipedia.org/wiki/紗羅マリー" title="wikilink">紗羅マリー</a></p></td>
 <td></td>
@@ -816,7 +816,7 @@
 </tr>
 <tr class="odd">
 <td><p>2010年9月号</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大石参月" title="wikilink">大石参月</a> <a href="https://ja.wikipedia.org/wiki/木下優樹菜" title="wikilink">木下優樹菜</a></p>
+<td><p><a href="../Page/大石参月.md" title="wikilink">大石参月</a> <a href="https://ja.wikipedia.org/wiki/木下優樹菜" title="wikilink">木下優樹菜</a></p>
 <p><a href="https://ja.wikipedia.org/wiki/ローラ_(モデル)" title="wikilink">ローラ</a></p></td>
 <td></td>
 <td></td>
@@ -862,14 +862,14 @@
 
 ## その他
 
-  - 1983年の創刊当時、日々快活を文字った「**ヴィヴィ快活**」というキャッチフレーズを擁したCMが放映されている。BGMには[マルコム・マクラーレン](https://ja.wikipedia.org/wiki/マルコム・マクラーレン "wikilink")の「BUFFALO GALS」が使用されていた。
-  - ViVi創刊20周年を迎えた2003年頃は、[佐田真由美](../Page/佐田真由美.md "wikilink")、[岩堀せり](https://ja.wikipedia.org/wiki/岩堀せり "wikilink")がメインモデルを務め、[長谷川潤](https://ja.wikipedia.org/wiki/長谷川潤_\(モデル\) "wikilink")、[藤井リナ](https://ja.wikipedia.org/wiki/藤井リナ "wikilink")、[相沢紗世](https://ja.wikipedia.org/wiki/相沢紗世 "wikilink")、[鈴木サチ](https://ja.wikipedia.org/wiki/鈴木サチ "wikilink")、[畑田亜希](https://ja.wikipedia.org/wiki/畑田亜希 "wikilink")、[佐藤萌実](https://ja.wikipedia.org/wiki/佐藤萌実 "wikilink")、[岩田ゆり](../Page/岩田ゆり.md "wikilink")など、その後もメディアで活躍しているメンバーが同時に専属モデルとして起用されており、売上のピークを迎えていた（最大50万部とも\[17\]）ことから「ViVi黄金期」と呼ばれた。
+  - 1983年の創刊当時、日々快活を文字った「**ヴィヴィ快活**」というキャッチフレーズを擁したCMが放映されている。BGMには[マルコム・マクラーレン](../Page/マルコム・マクラーレン.md "wikilink")の「BUFFALO GALS」が使用されていた。
+  - ViVi創刊20周年を迎えた2003年頃は、[佐田真由美](../Page/佐田真由美.md "wikilink")、[岩堀せり](../Page/岩堀せり.md "wikilink")がメインモデルを務め、[長谷川潤](https://ja.wikipedia.org/wiki/長谷川潤_\(モデル\) "wikilink")、[藤井リナ](https://ja.wikipedia.org/wiki/藤井リナ "wikilink")、[相沢紗世](../Page/相沢紗世.md "wikilink")、[鈴木サチ](../Page/鈴木サチ.md "wikilink")、[畑田亜希](../Page/畑田亜希.md "wikilink")、[佐藤萌実](https://ja.wikipedia.org/wiki/佐藤萌実 "wikilink")、[岩田ゆり](../Page/岩田ゆり.md "wikilink")など、その後もメディアで活躍しているメンバーが同時に専属モデルとして起用されており、売上のピークを迎えていた（最大50万部とも\[17\]）ことから「ViVi黄金期」と呼ばれた。
 
 ## 脚注
 
 ## 関連項目
 
-  - [JAM](https://ja.wikipedia.org/wiki/JAM_\(アイドルグループ\) "wikilink")
+  - [JAM](../Page/JAM_\(アイドルグループ\).md "wikilink")
 
 ## 外部リンク
 

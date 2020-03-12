@@ -1,23 +1,23 @@
 > この記事は[Denim](https://ja.wikipedia.org/wiki/Denim)から翻訳されています。
 
 
-『**Denim**』（デニム）は、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[5月23日](../Page/5月23日.md "wikilink")に発売された[竹内まりや](https://ja.wikipedia.org/wiki/竹内まりや "wikilink")の通算10枚目の[スタジオ・アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。
+『**Denim**』（デニム）は、[2007年](../Page/2007年.md "wikilink")[5月23日](../Page/5月23日.md "wikilink")に発売された[竹内まりや](https://ja.wikipedia.org/wiki/竹内まりや "wikilink")の通算10枚目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。
 
 ## 解説
 
-オリジナルアルバムとしては半ば[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")のような印象すらあった『[Bon Appetit\!](https://ja.wikipedia.org/wiki/Bon_Appetit! "wikilink")』以来の作品であり、その間にもニュース番組への楽曲提供などはあったものの、[山下達郎](../Page/山下達郎.md "wikilink")の作品が中心に制作されていたために、完全なる新規のオリジナルアルバムとしては実に5年半ぶりとなる作品である。当初は[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[5月16日](../Page/5月16日.md "wikilink")発売とアナウンスされたが、予約の多さや作業の難航から1週間発売が延期された。
+オリジナルアルバムとしては半ば[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")のような印象すらあった『[Bon Appetit\!](../Page/Bon_Appetit!.md "wikilink")』以来の作品であり、その間にもニュース番組への楽曲提供などはあったものの、[山下達郎](../Page/山下達郎.md "wikilink")の作品が中心に制作されていたために、完全なる新規のオリジナルアルバムとしては実に5年半ぶりとなる作品である。当初は[2007年](../Page/2007年.md "wikilink")[5月16日](../Page/5月16日.md "wikilink")発売とアナウンスされたが、予約の多さや作業の難航から1週間発売が延期された。
 
-カヴァーアルバムを発表した[2003年](../Page/2003年.md "wikilink")以来音沙汰のなかった竹内まりやが、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に入り山下達郎自身から「竹内まりやのアルバムを制作している」と言うアナウンスと共に発売を待たれていた1作である。
+カヴァーアルバムを発表した[2003年](../Page/2003年.md "wikilink")以来音沙汰のなかった竹内まりやが、[2006年](../Page/2006年.md "wikilink")に入り山下達郎自身から「竹内まりやのアルバムを制作している」と言うアナウンスと共に発売を待たれていた1作である。
 
-またアルバムの発売に向け、同年の[4月11日](../Page/4月11日.md "wikilink")に[NHK総合テレビの音楽番組](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")「SONGS」へ初回ゲストとして出演。彼女にとって実に26年ぶりのテレビ出演であり、大きな話題を集めた\[1\]。
+またアルバムの発売に向け、同年の[4月11日](../Page/4月11日.md "wikilink")に[NHK総合テレビの音楽番組](../Page/NHK総合テレビジョン.md "wikilink")「SONGS」へ初回ゲストとして出演。彼女にとって実に26年ぶりのテレビ出演であり、大きな話題を集めた\[1\]。
 
-初回限定盤にはそれまで[シングル](../Page/シングル.md "wikilink")B面でしか発表されていなかった楽曲を中心に、山下達郎の口からも何度か案の出ていた「竹内まりや版『[RARITIES](https://ja.wikipedia.org/wiki/RARITIES "wikilink")』」とも言える内容のボーナスCD「Vintage Denim」が付属している。これによって竹内まりやのアルバム未収録楽曲は、山下達郎のようにバージョン違い等に拘らない場合は、RCA/AIR時代のラストシングル「NATALIE」のB面「アップル・パップル・プリンセス」（NHKテレビ『[みんなのうた](https://ja.wikipedia.org/wiki/みんなのうた "wikilink")』）のみとなった。ちなみに、このアルバムはこれだけの仕様の違いがありながら、初回盤でも通常盤でも値段は税込み3059円と言う全く同じ価格で提供され、ラジオでの山下達郎曰く「お値段据え置きなので、是非初回の方をお楽しみ下さい」とのことである。しかし、後述のとおり発売週に22万枚もの売り上げを記録したことから、予約の時点でほぼ完売し、店頭でこの初回盤はほとんど見られなかった。なお、この初回盤はDisc2の歌詞カードが別に作られており、それまであまり明かされることの無かった楽曲に関する秘話を[セルフライナーノーツとして掲載している](https://ja.wikipedia.org/wiki/ライナーノーツ "wikilink")。
+初回限定盤にはそれまで[シングル](../Page/シングル.md "wikilink")B面でしか発表されていなかった楽曲を中心に、山下達郎の口からも何度か案の出ていた「竹内まりや版『[RARITIES](https://ja.wikipedia.org/wiki/RARITIES "wikilink")』」とも言える内容のボーナスCD「Vintage Denim」が付属している。これによって竹内まりやのアルバム未収録楽曲は、山下達郎のようにバージョン違い等に拘らない場合は、RCA/AIR時代のラストシングル「NATALIE」のB面「アップル・パップル・プリンセス」（NHKテレビ『[みんなのうた](../Page/みんなのうた.md "wikilink")』）のみとなった。ちなみに、このアルバムはこれだけの仕様の違いがありながら、初回盤でも通常盤でも値段は税込み3059円と言う全く同じ価格で提供され、ラジオでの山下達郎曰く「お値段据え置きなので、是非初回の方をお楽しみ下さい」とのことである。しかし、後述のとおり発売週に22万枚もの売り上げを記録したことから、予約の時点でほぼ完売し、店頭でこの初回盤はほとんど見られなかった。なお、この初回盤はDisc2の歌詞カードが別に作られており、それまであまり明かされることの無かった楽曲に関する秘話を[セルフライナーノーツとして掲載している](../Page/ライナーノーツ.md "wikilink")。
 
 ちなみに、この週の前々週には[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")が『[B-SIDE](../Page/B-SIDE.md "wikilink")』というB面集を発売しており、偶然ではあるが、B面集を銘打ったアルバムが邦楽チャートで連続して1位になるという現象を生んだ（洋邦あわせたランキングでは[リンキン・パーク](https://ja.wikipedia.org/wiki/リンキン・パーク "wikilink")のオリジナルが前週の1位）。
 
 また通常盤の初回プレス分に、このアルバムのアナログ盤（2枚組、見開きジャケ仕様）が抽選で当たる応募ハガキが封入されていた。尚、当選者数は100名のため、アナログ盤は非常にレアなアイテムとなっている。
 
-なお、収録されているアルバム自体違うが、同時期に[パンテーン](https://ja.wikipedia.org/wiki/パンテーン "wikilink")のCMソングとしてOAされていた「幸せの探し方」は収録もリメイクもされていない（同曲は元々『Quiet Life』の収録曲である）。
+なお、収録されているアルバム自体違うが、同時期に[パンテーン](../Page/パンテーン.md "wikilink")のCMソングとしてOAされていた「幸せの探し方」は収録もリメイクもされていない（同曲は元々『Quiet Life』の収録曲である）。
 
 この年の[4月6日](../Page/4月6日.md "wikilink")に山下夫妻は[銀婚式](https://ja.wikipedia.org/wiki/銀婚式 "wikilink")を迎え、偶然ではあるものの、結婚25周年記念の年に発売されたという記念碑的意味の作品にもなった。
 
@@ -25,20 +25,20 @@
 
 ## チャート成績
 
-[オリコンアルバムチャートでは](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")、前作『Longtime Favorites』から引き続き3作連続、通算7作目の1位を獲得した。52歳2ヶ月での同チャートは1位は、女性ソロアーティストとしては史上最高齢（女性ソロとしては自己記録更新）となる。また、この作品で史上初の**4つの年代**（20代・30代・40代・50代）でアルバムチャート首位を達成した。
+[オリコンアルバムチャートでは](../Page/オリコンチャート.md "wikilink")、前作『Longtime Favorites』から引き続き3作連続、通算7作目の1位を獲得した。52歳2ヶ月での同チャートは1位は、女性ソロアーティストとしては史上最高齢（女性ソロとしては自己記録更新）となる。また、この作品で史上初の**4つの年代**（20代・30代・40代・50代）でアルバムチャート首位を達成した。
 
 ## 収録曲
 
 1.  **君住む街角([On The Street Where You Live](https://ja.wikipedia.org/wiki/:en:On_the_Street_Where_You_Live "wikilink"))**
       -
-        ミュージカル『[マイ・フェア・レディ](https://ja.wikipedia.org/wiki/マイ・フェア・レディ "wikilink")』の中で使用されたヒットナンバーのカヴァーで、[TBS系](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")『[ブロードキャスター](https://ja.wikipedia.org/wiki/ブロードキャスター "wikilink")』のテーマソングとして発売の1年近く前（2006年4月）から使用されていた楽曲。元々アルバムに収録することを前提としてのタイアップとしており、『サンデーソングブック』でも一部がOAされるが、今回でようやくフルバージョンのCD化となる。なお、本作に収録されているものは『サンデーソングブック』や『ブロードキャスター』でOAされたTVサイズとはアレンジもキーも全く異なるものであり、本作のために新規に録音しなおされたものである。
+        ミュージカル『[マイ・フェア・レディ](../Page/マイ・フェア・レディ.md "wikilink")』の中で使用されたヒットナンバーのカヴァーで、[TBS系](../Page/TBSテレビ.md "wikilink")『[ブロードキャスター](../Page/ブロードキャスター.md "wikilink")』のテーマソングとして発売の1年近く前（2006年4月）から使用されていた楽曲。元々アルバムに収録することを前提としてのタイアップとしており、『サンデーソングブック』でも一部がOAされるが、今回でようやくフルバージョンのCD化となる。なお、本作に収録されているものは『サンデーソングブック』や『ブロードキャスター』でOAされたTVサイズとはアレンジもキーも全く異なるものであり、本作のために新規に録音しなおされたものである。
 2.  **スロー・ラヴ**
       -
-        TVドラマ『[役者魂\!](https://ja.wikipedia.org/wiki/役者魂! "wikilink")』の挿入歌として[松たか子](https://ja.wikipedia.org/wiki/松たか子 "wikilink")に提供した曲。
+        TVドラマ『[役者魂\!](../Page/役者魂!.md "wikilink")』の挿入歌として[松たか子](https://ja.wikipedia.org/wiki/松たか子 "wikilink")に提供した曲。
 3.  **返信**
       -
-        映画『[出口のない海](https://ja.wikipedia.org/wiki/出口のない海 "wikilink")』主題歌として書き下ろされ、竹内まりやの2006年復活第1弾シングルとして発売されたシングル。
-4.  **[みんなひとり](https://ja.wikipedia.org/wiki/みんなひとり "wikilink")**
+        映画『[出口のない海](../Page/出口のない海.md "wikilink")』主題歌として書き下ろされ、竹内まりやの2006年復活第1弾シングルとして発売されたシングル。
+4.  **[みんなひとり](../Page/みんなひとり.md "wikilink")**
       -
         松たか子に提供し、前述のドラマ『役者魂\!』の主題歌として使用されていた楽曲。ここでソフト化されるより以前にラジオではOAされており、わずかながらも松のものとはキーが異なる。アレンジは松のものとは違い、山下達郎が手がけているために異なっている。また、歌詞の最後に松のものにはないセリフが追加されている。なお、前述の『サンデーソングブック』バージョンは竹内まりや自身がドラマや松向けにコンペとして製作したデモバージョンのため楽器類がかなり簡素なもので、バックコーラスなどに大きな差異があり、演奏時間もわずかに短い。決定版のアレンジが出てきたために、今後OAされることは無いと思われる。なお、この曲では松がバックコーラスとして参加している。
 5.  **シンクロニシティ(素敵な偶然)**
@@ -51,16 +51,16 @@
 8.  **ラスト・デイト**
 9.  **クリスマスは一緒に**
       -
-        [HAPPY Xmas SHOW\! 2006のテーマソングとして書き下ろされた楽曲](https://ja.wikipedia.org/wiki/HAPPY_Xmas_SHOW "wikilink")。みんなひとりのセルフカヴァーバージョンと同じくソフト化される前に前述の番組の宣伝も兼ねてサンデーソングブックのみで先行OAされていた。竹内まりや作品では珍しくタイトルそのものに「クリスマス」と入ったクリスマスソングである。イントロの印象的なギターカッティングは山下達郎演奏のもの。まりや曰く「達郎のカッティングをバックに歌いたくて」書いたという。
+        [HAPPY Xmas SHOW\! 2006のテーマソングとして書き下ろされた楽曲](../Page/HAPPY_Xmas_SHOW.md "wikilink")。みんなひとりのセルフカヴァーバージョンと同じくソフト化される前に前述の番組の宣伝も兼ねてサンデーソングブックのみで先行OAされていた。竹内まりや作品では珍しくタイトルそのものに「クリスマス」と入ったクリスマスソングである。イントロの印象的なギターカッティングは山下達郎演奏のもの。まりや曰く「達郎のカッティングをバックに歌いたくて」書いたという。
 10. **終楽章**
       -
         [薬師丸ひろ子](../Page/薬師丸ひろ子.md "wikilink")が1988年に発売したアルバム『SINCERELY YOURS』の1曲として提供し、アルバム先行シングルとして発表された楽曲のセルフカヴァー。元々そのタイトルの通りアルバムのフィナーレを飾る楽曲として製作された。この楽曲は竹内まりや作品としては実に19年の時を経てのセルフカヴァー発表となり、彼女の作品では最もセルフカヴァーされるのに時間がかかった作品のひとつである。
 11. **明日のない恋**
       -
-        [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[火曜ドラマゴールド](https://ja.wikipedia.org/wiki/火曜ドラマゴールド "wikilink")』の最後の主題歌となった作品。シングル盤には同じく『[火曜サスペンス劇場](../Page/火曜サスペンス劇場.md "wikilink")』の主題歌となった『告白』と『シングル・アゲイン』が収録され、「ベストマキシシングル」との触れ込みで発売されていた。
+        [2007年](../Page/2007年.md "wikilink")[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[火曜ドラマゴールド](../Page/火曜ドラマゴールド.md "wikilink")』の最後の主題歌となった作品。シングル盤には同じく『[火曜サスペンス劇場](../Page/火曜サスペンス劇場.md "wikilink")』の主題歌となった『告白』と『シングル・アゲイン』が収録され、「ベストマキシシングル」との触れ込みで発売されていた。
 12. **人生の扉**
       -
-        協和発酵（現・[協和発酵キリン](https://ja.wikipedia.org/wiki/協和発酵キリン "wikilink")）CMソングとして発売前からOAされていた楽曲。NHKの番組『[SONGS](../Page/SONGS_\(テレビ番組\).md "wikilink")』ではこの曲を山梨県のスタジオで披露した。本作の核であり、アルバムタイトルの「デニム」はこの楽曲の歌詞から取られている。後に本作には収録されていないが、同年[8月8日](../Page/8月8日.md "wikilink")に当時の完全なる新曲である『[チャンスの前髪](https://ja.wikipedia.org/wiki/チャンスの前髪/人生の扉 "wikilink")』と両A面でジャケットを[緒形拳](https://ja.wikipedia.org/wiki/緒形拳 "wikilink")の題字でシングルカットされる。2008年10月30日に渋谷クラブクアトロで行なわれたセンチメンタル・シティ・ロマンスの35周年記念ライブにゲスト出演しライブで初めて演奏された。また、同年12月28日に大阪[フェスティバルホール](https://ja.wikipedia.org/wiki/フェスティバルホール "wikilink")にて行なわれた山下達郎のライブのアンコールに「私からもフェスティバルホールにさよならを言わせて欲しい。」とゲスト出演した際にも演奏された。
+        協和発酵（現・[協和発酵キリン](https://ja.wikipedia.org/wiki/協和発酵キリン "wikilink")）CMソングとして発売前からOAされていた楽曲。NHKの番組『[SONGS](../Page/SONGS_\(テレビ番組\).md "wikilink")』ではこの曲を山梨県のスタジオで披露した。本作の核であり、アルバムタイトルの「デニム」はこの楽曲の歌詞から取られている。後に本作には収録されていないが、同年[8月8日](../Page/8月8日.md "wikilink")に当時の完全なる新曲である『[チャンスの前髪](https://ja.wikipedia.org/wiki/チャンスの前髪/人生の扉 "wikilink")』と両A面でジャケットを[緒形拳](../Page/緒形拳.md "wikilink")の題字でシングルカットされる。2008年10月30日に渋谷クラブクアトロで行なわれたセンチメンタル・シティ・ロマンスの35周年記念ライブにゲスト出演しライブで初めて演奏された。また、同年12月28日に大阪[フェスティバルホール](../Page/フェスティバルホール.md "wikilink")にて行なわれた山下達郎のライブのアンコールに「私からもフェスティバルホールにさよならを言わせて欲しい。」とゲスト出演した際にも演奏された。
 
 ## クレジット
 
@@ -68,13 +68,13 @@
 
   - Words by [ALAN JAY LERNER](https://ja.wikipedia.org/wiki/アラン・ジェイ・ラーナー "wikilink")
   - Music by FREDERIC LOEWE
-  - Arranged by [服部克久](https://ja.wikipedia.org/wiki/服部克久 "wikilink")
+  - Arranged by [服部克久](../Page/服部克久.md "wikilink")
 
 {{-}}
 
   - 渡嘉敷祐一 : Drums
   - 斉藤誠 : Wood Bass
-  - [松原正樹](https://ja.wikipedia.org/wiki/松原正樹 "wikilink") : Electric Guitar
+  - [松原正樹](../Page/松原正樹.md "wikilink") : Electric Guitar
   - 松本峰明 : Acoustic Piano
   - 広原正典 : Trombone
   - 古田綾 : Trombone
@@ -87,7 +87,7 @@
 
 {{-}}
 
-  - [TBS系](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")「[ブロードキャスター](https://ja.wikipedia.org/wiki/ブロードキャスター "wikilink")」テーマソング
+  - [TBS系](../Page/TBSテレビ.md "wikilink")「[ブロードキャスター](../Page/ブロードキャスター.md "wikilink")」テーマソング
 
 ### スロー・ラヴ
 
@@ -98,14 +98,14 @@
 
   - 山下達郎 : Computer Programming, Drums, Electric Guitar, Acoustic Guitar, Keyboards, Glocken, Percussion & Background Vocals
   - [伊藤広規](https://ja.wikipedia.org/wiki/伊藤広規 "wikilink") : Electric Bass
-  - [佐橋佳幸](https://ja.wikipedia.org/wiki/佐橋佳幸 "wikilink") : Electric Guitar (Solo on Coda)
-  - [難波弘之](https://ja.wikipedia.org/wiki/難波弘之 "wikilink") : Acounstic Piano
+  - [佐橋佳幸](../Page/佐橋佳幸.md "wikilink") : Electric Guitar (Solo on Coda)
+  - [難波弘之](../Page/難波弘之.md "wikilink") : Acounstic Piano
   - 竹内まりや : Background Vocals
   - 橋本茂昭 : Computer Programming & Synthesizer Operation
 
 {{-}}
 
-  - [CX系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[役者魂\!](https://ja.wikipedia.org/wiki/役者魂! "wikilink")」挿入歌
+  - [CX系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[役者魂\!](../Page/役者魂!.md "wikilink")」挿入歌
 
 ### 返信
 
@@ -121,7 +121,7 @@
 
 {{-}}
 
-  - 映画「[出口のない海](https://ja.wikipedia.org/wiki/出口のない海 "wikilink")」主題歌
+  - 映画「[出口のない海](../Page/出口のない海.md "wikilink")」主題歌
 
 ### みんなひとり
 
@@ -131,7 +131,7 @@
 {{-}}
 
   - 山下達郎 : Computer Programming, Electric Guitar, Acoustic Guitar, Keyboards, Percussion & Background Vocals
-  - [島村英二](https://ja.wikipedia.org/wiki/島村英二 "wikilink") : Drums
+  - [島村英二](../Page/島村英二.md "wikilink") : Drums
   - 伊藤広規 : Electric Bass
   - 難波弘之 : Acounstic Piano
   - [松たか子](https://ja.wikipedia.org/wiki/松たか子 "wikilink") : Background Vocals
@@ -145,11 +145,11 @@
 {{-}}
 
   - 山下達郎 : Acoustic Guitar, Electric Guitar, Electric Piano, Glocken, Percussion & Background Vocal
-  - [野口明彦](https://ja.wikipedia.org/wiki/野口明彦 "wikilink") : Drums
+  - [野口明彦](../Page/野口明彦.md "wikilink") : Drums
   - 伊藤広規: Electric Bass
-  - [中野督夫](https://ja.wikipedia.org/wiki/中野督夫 "wikilink") : Electric Guitar & Background Vocal
-  - [告井延隆](https://ja.wikipedia.org/wiki/告井延隆 "wikilink") : Pedal Steel Guitar & Background Vocal
-  - [細井豊](https://ja.wikipedia.org/wiki/細井豊 "wikilink") : Acoustic Piano & Background Vocal
+  - [中野督夫](../Page/中野督夫.md "wikilink") : Electric Guitar & Background Vocal
+  - [告井延隆](../Page/告井延隆.md "wikilink") : Pedal Steel Guitar & Background Vocal
+  - [細井豊](../Page/細井豊.md "wikilink") : Acoustic Piano & Background Vocal
 
 ### 哀しい恋人
 
@@ -164,18 +164,18 @@
 
 ### Never Cry Butterfly
 
-  - Words by [杉真理](https://ja.wikipedia.org/wiki/杉真理 "wikilink")
-  - Music by 杉真理 ＆ [伊豆田洋之](https://ja.wikipedia.org/wiki/伊豆田洋之 "wikilink")
+  - Words by [杉真理](../Page/杉真理.md "wikilink")
+  - Music by 杉真理 ＆ [伊豆田洋之](../Page/伊豆田洋之.md "wikilink")
   - Arranged by Picadilly Circus
 
 {{-}}
 
   - 杉真理 : Background Vocal
-  - [松尾清憲](https://ja.wikipedia.org/wiki/松尾清憲 "wikilink") : Background Vocal
-  - [上田雅利](https://ja.wikipedia.org/wiki/上田雅利 "wikilink") : Drums & Tambourine
+  - [松尾清憲](../Page/松尾清憲.md "wikilink") : Background Vocal
+  - [上田雅利](../Page/上田雅利.md "wikilink") : Drums & Tambourine
   - [風祭東](https://ja.wikipedia.org/wiki/風祭東 "wikilink") : Electric Bass & Background Vocal
   - 伊豆田洋之 : Acoustic Piano & Background Vocal
-  - [小泉信彦](https://ja.wikipedia.org/wiki/小泉信彦 "wikilink") : Synth Strings & Hammond Organ
+  - [小泉信彦](../Page/小泉信彦.md "wikilink") : Synth Strings & Hammond Organ
   - 橋本哲 : Electric Guitar
   - [山本圭右](https://ja.wikipedia.org/wiki/山本圭右 "wikilink") : Electric Guitar
   - 山下達郎 : Acoustic Guitar
@@ -199,7 +199,7 @@
 {{-}}
 
   - 山下達郎 : Computer Programming, Electric Guitar, Keyboards, Glocken, Percussion & Background Vocals
-  - [佐野康夫](https://ja.wikipedia.org/wiki/佐野康夫 "wikilink") : Drums
+  - [佐野康夫](../Page/佐野康夫.md "wikilink") : Drums
   - 伊藤広規 : Electric Bass
   - 難波弘之 : Electric Piano & Acounstic Piano
   - [浜口茂外也](https://ja.wikipedia.org/wiki/浜口茂外也 "wikilink") : Percussion
@@ -207,7 +207,7 @@
   - 国分友里恵 : Background Vocal
   - [佐々木久美](https://ja.wikipedia.org/wiki/佐々木久美_\(ミュージシャン\) "wikilink") : Background Vocal
   - 竹内まりや : Background Vocals
-  - [数原晋](https://ja.wikipedia.org/wiki/数原晋 "wikilink") : Trumpet
+  - [数原晋](../Page/数原晋.md "wikilink") : Trumpet
   - David Herzog : Trumpet
   - Fred Simmons : Trombone
   - 佐藤洋樹 : Trombone
@@ -242,7 +242,7 @@
   - 橋本茂昭 : Computer Programming & Synthesizer Operation
   - 国分友里恵 : Background Vocal
   - 佐々木久美 : Background Vocal
-  - [三谷泰弘](https://ja.wikipedia.org/wiki/三谷泰弘 "wikilink") : Background Vocal
+  - [三谷泰弘](../Page/三谷泰弘.md "wikilink") : Background Vocal
   - 高桑英世 : Flute & Piccolo
   - 若松純子 : Flute & Piccolo
   - 平原まこと : Flute & Alto Sax Solo
@@ -251,7 +251,7 @@
 
 {{-}}
 
-  - [NTV系](../Page/日本テレビ放送網.md "wikilink")「[火曜ドラマゴールド](https://ja.wikipedia.org/wiki/火曜ドラマゴールド "wikilink")」主題歌
+  - [NTV系](../Page/日本テレビ放送網.md "wikilink")「[火曜ドラマゴールド](../Page/火曜ドラマゴールド.md "wikilink")」主題歌
 
 ### 人生の扉
 
@@ -278,7 +278,7 @@
 {{-}}
 
   - All Tracks Arranged by 山下達郎
-      - Except : 「君住む街角(On The Street Where You Live)」 Produced by 竹内まりや Arranged by [服部克久](https://ja.wikipedia.org/wiki/服部克久 "wikilink")
+      - Except : 「君住む街角(On The Street Where You Live)」 Produced by 竹内まりや Arranged by [服部克久](../Page/服部克久.md "wikilink")
       - 「シンクロニシティ（素敵な偶然）」「人生の扉」 Arranged by 山下達郎 ＆ [センチメンタル・シティ・ロマンス](../Page/センチメンタル・シティ・ロマンス.md "wikilink")
       - 「Never Cry Butterfly」 Produced by 竹内まりや Arranged by Piccadilly Circus
       - 「明日のない恋」 Strings & Horn Arranged by 服部克久
@@ -303,13 +303,13 @@
 
 {{-}}
 
-  - Artist Management : 渡辺宏 ＆ 佐藤克典 ([Smile Company](https://ja.wikipedia.org/wiki/スマイルカンパニー "wikilink"))
+  - Artist Management : 渡辺宏 ＆ 佐藤克典 ([Smile Company](../Page/スマイルカンパニー.md "wikilink"))
   - Management Secretary : 小川さゆり ＆ 原千陽 (Smile Company)
   - Management Assistant: 鈴木誠 (Smile Company)
 
 {{-}}
 
-  - Executive A\&R : 石原孝 ([WMJ](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink"))
+  - Executive A\&R : 石原孝 ([WMJ](../Page/ワーナーミュージック・ジャパン.md "wikilink"))
   - A\&R: 水島秀昭＆井上精一 (WMJ)
   - A\&R Secretary: 半田陽子 (WMJ)
   - Promotion Co-ordinator: 黒岩利之 (WMJ)
@@ -337,7 +337,7 @@
 
 1.  **Hey\!Baby**
       -
-        [1989年](../Page/1989年.md "wikilink")発売のシングル『シングル・アゲイン』のB面。[森下恵理](https://ja.wikipedia.org/wiki/森下恵理 "wikilink")の[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に発売されたファーストアルバム「ボーイ・フレンド」への提供曲のセルフカヴァー。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")には好評を受けてシングルカットされている。[横山知枝](https://ja.wikipedia.org/wiki/横山知枝 "wikilink")も[1993年](../Page/1993年.md "wikilink")にカヴァーしている。もともとは子育て中の彼女の元にデビュー当時からの付き合いである[加藤和彦](../Page/加藤和彦.md "wikilink")から「森下に曲を書いてほしい」と依頼されたのがこの曲と『真冬のデイト』である。
+        [1989年](../Page/1989年.md "wikilink")発売のシングル『シングル・アゲイン』のB面。[森下恵理](https://ja.wikipedia.org/wiki/森下恵理 "wikilink")の[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に発売されたファーストアルバム「ボーイ・フレンド」への提供曲のセルフカヴァー。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")には好評を受けてシングルカットされている。[横山知枝](../Page/横山知枝.md "wikilink")も[1993年](../Page/1993年.md "wikilink")にカヴァーしている。もともとは子育て中の彼女の元にデビュー当時からの付き合いである[加藤和彦](../Page/加藤和彦.md "wikilink")から「森下に曲を書いてほしい」と依頼されたのがこの曲と『真冬のデイト』である。
 2.  **夜景**
       -
         1986年発売のシングル『恋の嵐』のB面。これまで一切のアルバムに収録されていなかった上にシングルも長期間廃盤となり、入手困難な作品の一つとなっていた。この作品内では貴重なセルフカヴァーではない完全なオリジナル楽曲の一つである。もともとは1984年にアルバム『VARIETY』に収録されるために製作されていた楽曲であったが、諸事情で収録を断念している。この曲はまりやが後にマイナーコードの楽曲を製作するきっかけとなった楽曲であると言う。
@@ -346,13 +346,13 @@
         [1994年](../Page/1994年.md "wikilink")発売のシングル『純愛ラプソディ』のカップリング。元々は[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")のアルバム『[CRIMSON](../Page/CRIMSON_\(中森明菜のアルバム\).md "wikilink")』に提供した楽曲であり、1986年のクリスマスイブに発売されていた。同アルバムはその楽曲の解釈から山下達郎が激怒したとも言われており、竹内まりやに対し、提供曲のセルフカヴァーを提案していくきっかけになったとも言われる。しかし、まりや自身は「この曲は明菜さんの方が大人っぽい」と評価している。この曲と『告白』は対になっており、前者が男性の未練の楽曲であるのに対し、こちらは女性の未練の楽曲となっている。
 4.  **[ミラクル・ラブ](https://ja.wikipedia.org/wiki/Miracle_Love_\(牧瀬里穂の曲\) "wikilink")**
       -
-        [1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")発売のシングル『マンハッタン・キス』のカップリング。前年1991年10月にリリースされた[牧瀬里穂](https://ja.wikipedia.org/wiki/牧瀬里穂 "wikilink")のデビューシングル曲のセルフカヴァー。牧瀬里穂に提供した楽曲はこの曲が唯一である。「近すぎて気付かなかった愛」がテーマの楽曲。[2019年](../Page/2019年.md "wikilink")に[AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")ドラマ『[1ページの恋](https://ja.wikipedia.org/wiki/1ページの恋 "wikilink")』主題歌に起用されている。
+        [1992年](../Page/1992年.md "wikilink")発売のシングル『マンハッタン・キス』のカップリング。前年1991年10月にリリースされた[牧瀬里穂](https://ja.wikipedia.org/wiki/牧瀬里穂 "wikilink")のデビューシングル曲のセルフカヴァー。牧瀬里穂に提供した楽曲はこの曲が唯一である。「近すぎて気付かなかった愛」がテーマの楽曲。[2019年](../Page/2019年.md "wikilink")に[AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")ドラマ『[1ページの恋](https://ja.wikipedia.org/wiki/1ページの恋 "wikilink")』主題歌に起用されている。
 5.  **真冬のデイト**
       -
         [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")発売のシングル『今夜はHEARTY PARTY』のカップリング。『Hey\!Baby』と同じく森下恵理の[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に発売されたファーストアルバム『ボーイ・フレンド』への提供曲のセルフカヴァー。これによって森下恵理へ提供した楽曲のまりやバージョンは全てアルバム化されたことになる。曲のモチーフはまりや自身がかつて留学していたイリノイ州の田舎町の農場。
 6.  **トライアングル**
       -
-        1994年発売のシングル『明日の私』のカップリング。薬師丸ひろ子の[1984年](../Page/1984年.md "wikilink")発売のファーストアルバム『古今集』に提供した楽曲のセルフカヴァー。提供からかなり間を空けての本人版が発表された楽曲のひとつ。セルフカヴァーに[ピーター・ポール&マリー](https://ja.wikipedia.org/wiki/ピーター・ポール&マリー "wikilink")風のハーモニーをつけるというコンセプトで製作されている。歌詞の「女の子はずるいものね」と言う部分があまりにくさすぎて吹き出してしまい目を閉じて歌いきったという逸話がある。余談だが、この楽曲を提供した『古今集』にはシングルカットこそされなかったが同じくまりやの提供した「元気を出して」も収録されている。
+        1994年発売のシングル『明日の私』のカップリング。薬師丸ひろ子の[1984年](../Page/1984年.md "wikilink")発売のファーストアルバム『古今集』に提供した楽曲のセルフカヴァー。提供からかなり間を空けての本人版が発表された楽曲のひとつ。セルフカヴァーに[ピーター・ポール&マリー](../Page/ピーター・ポール&マリー.md "wikilink")風のハーモニーをつけるというコンセプトで製作されている。歌詞の「女の子はずるいものね」と言う部分があまりにくさすぎて吹き出してしまい目を閉じて歌いきったという逸話がある。余談だが、この楽曲を提供した『古今集』にはシングルカットこそされなかったが同じくまりやの提供した「元気を出して」も収録されている。
 
 ### Hey\!Baby
 
@@ -373,12 +373,12 @@
 
   - Words & Music by 竹内まりや
   - Arranged by 山下達郎
-  - Strings Arranged by [乾裕樹](https://ja.wikipedia.org/wiki/乾裕樹 "wikilink")
+  - Strings Arranged by [乾裕樹](../Page/乾裕樹.md "wikilink")
 
 {{-}}
 
   - 山下達郎 : Acoustic Guitar, Keyboards & Percussion
-  - [青山純](https://ja.wikipedia.org/wiki/青山純 "wikilink") : Drums
+  - [青山純](../Page/青山純.md "wikilink") : Drums
   - 伊藤広規 : Electric Bass
   - [佐藤博](https://ja.wikipedia.org/wiki/佐藤博_\(ミュージシャン\) "wikilink") : Electric Piano & Acoustic Piano
   - 山川恵子 : Harp
@@ -397,11 +397,11 @@
 
   - 山下達郎 : Drums, Electric Guitar, Keyboards, Vibraphone, Glocken & Percussion
   - 伊藤広規 : Electric Bass
-  - [椎名和夫](https://ja.wikipedia.org/wiki/椎名和夫 "wikilink") : Synthsizer Operation
+  - [椎名和夫](../Page/椎名和夫.md "wikilink") : Synthsizer Operation
 
 {{-}}
 
-  - c/w 「[純愛ラプソディ](https://ja.wikipedia.org/wiki/純愛ラプソディ "wikilink")」 AMDM-6110(MOON) May, 1994
+  - c/w 「[純愛ラプソディ](../Page/純愛ラプソディ.md "wikilink")」 AMDM-6110(MOON) May, 1994
   - Originally writtern for [中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink"), 1986
 
 ### ミラクル・ラブ
@@ -412,8 +412,8 @@
 {{-}}
 
   - 山下達郎 : Drum Programming, Computer Programming, Electric Guitar, Acoustic Guitar, Keyboards, Glocken, Percussion & Background Vocals
-  - [難波弘之](https://ja.wikipedia.org/wiki/難波弘之 "wikilink") : Synth Acoustic Piano
-  - [佐藤竹善](https://ja.wikipedia.org/wiki/佐藤竹善 "wikilink") : Background Vocal
+  - [難波弘之](../Page/難波弘之.md "wikilink") : Synth Acoustic Piano
+  - [佐藤竹善](../Page/佐藤竹善.md "wikilink") : Background Vocal
   - [佐々木久美](https://ja.wikipedia.org/wiki/佐々木久美_\(ミュージシャン\) "wikilink") : Background Vocal
   - [高尾"CANDEE"のぞみ](https://ja.wikipedia.org/wiki/高尾のぞみ "wikilink") : Background Vocal
   - 竹内まりや : Background Vocal
@@ -421,7 +421,7 @@
 
 {{-}}
 
-  - c/w 「[マンハッタン・キス](https://ja.wikipedia.org/wiki/マンハッタン・キス "wikilink")」 AMDM-6055(MOON) May, 1992
+  - c/w 「[マンハッタン・キス](../Page/マンハッタン・キス.md "wikilink")」 AMDM-6055(MOON) May, 1992
   - Originally writtern for [牧瀬里穂](https://ja.wikipedia.org/wiki/牧瀬里穂 "wikilink"), 1991
 
 ### 真冬のデイト
@@ -458,7 +458,7 @@
 ### スタッフ
 
   - Produced and Arranged by [山下達郎](../Page/山下達郎.md "wikilink")
-  - Executive Producer : [小杉理宇造](https://ja.wikipedia.org/wiki/小杉理宇造 "wikilink")
+  - Executive Producer : [小杉理宇造](../Page/小杉理宇造.md "wikilink")
 
 {{-}}
 
@@ -481,7 +481,7 @@
 <th><p>発売日</p></th>
 <th><p>レーベル</p></th>
 <th><p>規格</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">品番</a></p></th>
 <th><p>備考</p></th>
 </tr>
 </thead>

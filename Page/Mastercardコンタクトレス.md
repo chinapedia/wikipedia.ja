@@ -7,7 +7,7 @@
 
 [近距離無線通信](https://ja.wikipedia.org/wiki/近距離無線通信 "wikilink")(NFC)を採用する[EMVコンタクトレス決済](https://ja.wikipedia.org/wiki/EMVコンタクトレス決済 "wikilink")サービスであり[電子マネー](../Page/電子マネー.md "wikilink")とは異なる。
 
-[2002年](../Page/2002年.md "wikilink")に **MasterCard PayPass** の名称で開始し、後に現在の名称に変更した。[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")、[イタリア](../Page/イタリア.md "wikilink")、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")、[スイス](../Page/スイス.md "wikilink")、[トルコ](../Page/トルコ.md "wikilink")、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")、[韓国](https://ja.wikipedia.org/wiki/大韓民国 "wikilink")、[中国](../Page/中華人民共和国.md "wikilink")、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")、[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")、[インドネシア](../Page/インドネシア.md "wikilink")、[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")、[タイ](../Page/タイ王国.md "wikilink")、[レバノン](https://ja.wikipedia.org/wiki/レバノン "wikilink")、[オーストラリア](https://ja.wikipedia.org/wiki/オーストラリア "wikilink")などで展開が行われている。特に普及しているのはアメリカで、[ガソリンスタンド](../Page/ガソリンスタンド.md "wikilink")、[スーパーマーケット](../Page/スーパーマーケット.md "wikilink")、[コンビニエンスストア](../Page/コンビニエンスストア.md "wikilink")、[ドラッグストア](../Page/ドラッグストア.md "wikilink")、[ファーストフード](../Page/ファーストフード.md "wikilink")などで利用する事が出来るほか、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")の[高雄市](../Page/高雄市.md "wikilink")、[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")では[交通](../Page/交通.md "wikilink")機関の乗車に利用する事が出来る\[1\]。
+[2002年](../Page/2002年.md "wikilink")に **MasterCard PayPass** の名称で開始し、後に現在の名称に変更した。[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")、[イタリア](../Page/イタリア.md "wikilink")、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")、[スイス](../Page/スイス.md "wikilink")、[トルコ](../Page/トルコ.md "wikilink")、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")、[韓国](../Page/大韓民国.md "wikilink")、[中国](../Page/中華人民共和国.md "wikilink")、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")、[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")、[インドネシア](../Page/インドネシア.md "wikilink")、[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")、[タイ](../Page/タイ王国.md "wikilink")、[レバノン](https://ja.wikipedia.org/wiki/レバノン "wikilink")、[オーストラリア](../Page/オーストラリア.md "wikilink")などで展開が行われている。特に普及しているのはアメリカで、[ガソリンスタンド](../Page/ガソリンスタンド.md "wikilink")、[スーパーマーケット](../Page/スーパーマーケット.md "wikilink")、[コンビニエンスストア](../Page/コンビニエンスストア.md "wikilink")、[ドラッグストア](../Page/ドラッグストア.md "wikilink")、[ファーストフード](../Page/ファーストフード.md "wikilink")などで利用する事が出来るほか、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")の[高雄市](../Page/高雄市.md "wikilink")、[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")では[交通](../Page/交通.md "wikilink")機関の乗車に利用する事が出来る\[1\]。
 
 ## 利用形態
 
@@ -59,13 +59,13 @@ Apple Pay に対応している Apple Watch は、次の通りである\[10\]。
 
 ### 歴史
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に[大日本印刷](https://ja.wikipedia.org/wiki/大日本印刷 "wikilink")が、MasterCard PayPass（現在のMastercardコンタクトレス）の機能を搭載したクレジットカードを日本で初めて量産し、[オリエントコーポレーション](https://ja.wikipedia.org/wiki/オリエントコーポレーション "wikilink")(Orico)に納入した\[14\]。
+[2006年](../Page/2006年.md "wikilink")に[大日本印刷](../Page/大日本印刷.md "wikilink")が、MasterCard PayPass（現在のMastercardコンタクトレス）の機能を搭載したクレジットカードを日本で初めて量産し、[オリエントコーポレーション](../Page/オリエントコーポレーション.md "wikilink")(Orico)に納入した\[14\]。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")にOricoが、MasterCard PayPass（現在のMastercardコンタクトレス）の機能を搭載した縦型デザインのクレジットカードを世界で初めて発行した\[15\]\[16\]。同年に当時のソフトバンクモバイル（現在の[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")）らが、MasterCard PayPass（現在のMastercardコンタクトレス）に対応する[アプリケーションソフトウェア](../Page/アプリケーションソフトウェア.md "wikilink")を搭載した[SIMカード](https://ja.wikipedia.org/wiki/SIMカード "wikilink")を差し込んだ[携帯電話](../Page/携帯電話.md "wikilink")を使用した決済のフィールド実証実験を日本で初めて行った\[17\]。同年に[KDDI](../Page/KDDI.md "wikilink")も、MasterCard PayPass（現在のMastercardコンタクトレス）に対応するアプリケーションソフトウェアを搭載する[au ICカードを差し込んだ携帯電話を使用した決済の実験を行い](https://ja.wikipedia.org/wiki/au_ICカード "wikilink")\[18\]、翌[2009年](../Page/2009年.md "wikilink")にKDDIらがフィールド実験を行っている\[19\]。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")にOricoが、MasterCard PayPass（現在のMastercardコンタクトレス）の機能を搭載した縦型デザインのクレジットカードを世界で初めて発行した\[15\]\[16\]。同年に当時のソフトバンクモバイル（現在の[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")）らが、MasterCard PayPass（現在のMastercardコンタクトレス）に対応する[アプリケーションソフトウェア](../Page/アプリケーションソフトウェア.md "wikilink")を搭載した[SIMカード](../Page/SIMカード.md "wikilink")を差し込んだ[携帯電話](../Page/携帯電話.md "wikilink")を使用した決済のフィールド実証実験を日本で初めて行った\[17\]。同年に[KDDI](../Page/KDDI.md "wikilink")も、MasterCard PayPass（現在のMastercardコンタクトレス）に対応するアプリケーションソフトウェアを搭載する[au ICカードを差し込んだ携帯電話を使用した決済の実験を行い](https://ja.wikipedia.org/wiki/au_ICカード "wikilink")\[18\]、翌[2009年](../Page/2009年.md "wikilink")にKDDIらがフィールド実験を行っている\[19\]。
 
 [2014年](../Page/2014年.md "wikilink")[2月5日](../Page/2月5日.md "wikilink")から「iD/PayPass」（後の「iD/NFC」）が開始し、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")が対応した\[20\]。同年[3月5日](../Page/3月5日.md "wikilink")からOricoが対応した\[21\]。「iD/NFC」は、[2018年](../Page/2018年.md "wikilink")[7月31日](../Page/7月31日.md "wikilink")を以て終了した\[22\]。
 
-また、[ジャックス](https://ja.wikipedia.org/wiki/ジャックス_\(信販\) "wikilink")(JACCS)は、[2016年](../Page/2016年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から「JACCSモバイル決済サービス」の受付を開始した\[23\]が、2018年[10月31日](../Page/10月31日.md "wikilink")を以て終了した\[24\]。
+また、[ジャックス](../Page/ジャックス_\(信販\).md "wikilink")(JACCS)は、[2016年](../Page/2016年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から「JACCSモバイル決済サービス」の受付を開始した\[23\]が、2018年[10月31日](../Page/10月31日.md "wikilink")を以て終了した\[24\]。
 
 ### 対応するカード
 
@@ -83,17 +83,17 @@ Apple Pay に対応している Apple Watch は、次の通りである\[10\]。
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/オリエントコーポレーション" title="wikilink">オリエントコーポレーション</a></p></td>
+<td><p><a href="../Page/オリエントコーポレーション.md" title="wikilink">オリエントコーポレーション</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ジャックス_(信販)" title="wikilink">ジャックス</a></p></td>
+<td><p><a href="../Page/ジャックス_(信販).md" title="wikilink">ジャックス</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/三菱UFJニコス" title="wikilink">三菱UFJニコス</a></p></td>
+<td><p><a href="../Page/三菱UFJニコス.md" title="wikilink">三菱UFJニコス</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -108,17 +108,17 @@ Apple Pay に対応している Apple Watch は、次の通りである\[10\]。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/東京クレジットサービス" title="wikilink">東京クレジットサービス</a></p></td>
+<td><p><a href="../Page/東京クレジットサービス.md" title="wikilink">東京クレジットサービス</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/りそなカード" title="wikilink">りそなカード</a></p></td>
+<td><p><a href="../Page/りそなカード.md" title="wikilink">りそなカード</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/七十七カード" title="wikilink">七十七カード</a></p></td>
+<td><p><a href="../Page/七十七カード.md" title="wikilink">七十七カード</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -158,12 +158,12 @@ Apple Pay に対応している Apple Watch は、次の通りである\[10\]。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/やまぎんカード" title="wikilink">やまぎんカード</a>[25]</p></td>
+<td><p><a href="../Page/やまぎんカード.md" title="wikilink">やまぎんカード</a>[25]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/九州カード" title="wikilink">九州カード</a>[26]</p></td>
+<td><p><a href="../Page/九州カード.md" title="wikilink">九州カード</a>[26]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -183,7 +183,7 @@ Apple Pay に対応している Apple Watch は、次の通りである\[10\]。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/東北しんきんカード" title="wikilink">東北しんきんカード</a></p></td>
+<td><p><a href="../Page/東北しんきんカード.md" title="wikilink">東北しんきんカード</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -208,12 +208,12 @@ Apple Pay に対応している Apple Watch は、次の通りである\[10\]。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ゆうちょ銀行" title="wikilink">ゆうちょ銀行</a></p></td>
+<td><p><a href="../Page/ゆうちょ銀行.md" title="wikilink">ゆうちょ銀行</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ローソン銀行" title="wikilink">ローソン銀行</a></p></td>
+<td><p><a href="../Page/ローソン銀行.md" title="wikilink">ローソン銀行</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -228,7 +228,7 @@ Apple Pay に対応している Apple Watch は、次の通りである\[10\]。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/出光クレジット" title="wikilink">出光クレジット</a></p></td>
+<td><p><a href="../Page/出光クレジット.md" title="wikilink">出光クレジット</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -243,22 +243,22 @@ Apple Pay に対応している Apple Watch は、次の通りである\[10\]。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ポケットカード" title="wikilink">ポケットカード</a></p></td>
+<td><p><a href="../Page/ポケットカード.md" title="wikilink">ポケットカード</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ビューカード" title="wikilink">ビューカード</a></p></td>
+<td><p><a href="../Page/ビューカード.md" title="wikilink">ビューカード</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/トヨタファイナンス" title="wikilink">トヨタファイナンス</a></p></td>
+<td><p><a href="../Page/トヨタファイナンス.md" title="wikilink">トヨタファイナンス</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ライフカード" title="wikilink">ライフカード</a></p></td>
+<td><p><a href="../Page/ライフカード.md" title="wikilink">ライフカード</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -330,7 +330,7 @@ Apple Pay に対応している Apple Watch は、次の通りである\[10\]。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ウェブマネー" title="wikilink">ウェブマネー</a></p></td>
+<td><p><a href="../Page/ウェブマネー.md" title="wikilink">ウェブマネー</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -342,25 +342,25 @@ Apple Pay に対応している Apple Watch は、次の通りである\[10\]。
 一部を除く。
 
   - [京王百貨店](../Page/京王百貨店.md "wikilink")
-  - [森ビル](../Page/森ビル.md "wikilink") （[六本木ヒルズ](../Page/六本木ヒルズ.md "wikilink")・[表参道ヒルズ](https://ja.wikipedia.org/wiki/表参道ヒルズ "wikilink")・[ヴィーナスフォート](https://ja.wikipedia.org/wiki/ヴィーナスフォート "wikilink")）
+  - [森ビル](../Page/森ビル.md "wikilink") （[六本木ヒルズ](../Page/六本木ヒルズ.md "wikilink")・[表参道ヒルズ](../Page/表参道ヒルズ.md "wikilink")・[ヴィーナスフォート](../Page/ヴィーナスフォート.md "wikilink")）
   - [イケア・ジャパン](https://ja.wikipedia.org/wiki/イケア・ジャパン "wikilink")
-  - [ローソン](../Page/ローソン.md "wikilink") （ローソン・[ナチュラルローソン](https://ja.wikipedia.org/wiki/ナチュラルローソン "wikilink")）
-  - [ローソンストア100](https://ja.wikipedia.org/wiki/ローソンストア100 "wikilink")
+  - [ローソン](../Page/ローソン.md "wikilink") （ローソン・[ナチュラルローソン](../Page/ナチュラルローソン.md "wikilink")）
+  - [ローソンストア100](../Page/ローソンストア100.md "wikilink")
   - [TSUTAYA](https://ja.wikipedia.org/wiki/TSUTAYA "wikilink")
   - [日本マクドナルド](../Page/日本マクドナルド.md "wikilink")
   - [すき家本部](https://ja.wikipedia.org/wiki/すき家本部 "wikilink")
-  - [ココスジャパン](https://ja.wikipedia.org/wiki/ココスジャパン "wikilink") （ココス・エルトリート）
-  - ビッグボーイジャパン （[ビッグボーイ](https://ja.wikipedia.org/wiki/ビッグボーイ_\(レストラン\) "wikilink")・ヴィクトリアステーション）
-  - [ジョリーパスタ](https://ja.wikipedia.org/wiki/ジョリーパスタ "wikilink")
-  - [華屋与兵衛](https://ja.wikipedia.org/wiki/華屋与兵衛_\(レストラン\) "wikilink")
+  - [ココスジャパン](../Page/ココスジャパン.md "wikilink") （ココス・エルトリート）
+  - ビッグボーイジャパン （[ビッグボーイ](../Page/ビッグボーイ_\(レストラン\).md "wikilink")・ヴィクトリアステーション）
+  - [ジョリーパスタ](../Page/ジョリーパスタ.md "wikilink")
+  - [華屋与兵衛](../Page/華屋与兵衛_\(レストラン\).md "wikilink")
   - TAG-1 （牛庵・いちばん・[宝島](https://ja.wikipedia.org/wiki/焼肉宝島 "wikilink")）
   - [はま寿司](https://ja.wikipedia.org/wiki/はま寿司 "wikilink")
   - 久兵衛屋
   - [善祥カフェ](https://ja.wikipedia.org/wiki/善祥カフェ "wikilink") （カフェミラノ・モリバコーヒー）
   - 瀬戸うどん （瀬戸うどん・たもん庵）
   - [千葉マリンスタジアム](../Page/千葉マリンスタジアム.md "wikilink")
-  - [PLANT](https://ja.wikipedia.org/wiki/PLANT "wikilink")
-  - [阪急阪神ホテルズ](https://ja.wikipedia.org/wiki/阪急阪神ホテルズ "wikilink")
+  - [PLANT](../Page/PLANT.md "wikilink")
+  - [阪急阪神ホテルズ](../Page/阪急阪神ホテルズ.md "wikilink")
   - [関西エアポート](https://ja.wikipedia.org/wiki/関西エアポート "wikilink") （[関西国際空港](https://ja.wikipedia.org/wiki/関西国際空港 "wikilink")・[大阪国際空港](https://ja.wikipedia.org/wiki/大阪国際空港 "wikilink")）
   - 関西エアポート神戸 （[神戸空港](../Page/神戸空港.md "wikilink")）
 
@@ -368,7 +368,7 @@ Apple Pay に対応している Apple Watch は、次の通りである\[10\]。
 
 ## 関連項目
 
-  - [小林尊](https://ja.wikipedia.org/wiki/小林尊 "wikilink") - 米国でPayPassのテレビCMにと出演していた。共に「[国際ホットドッグ早食い選手権](https://ja.wikipedia.org/wiki/ネイサンズ国際ホットドッグ早食い選手権 "wikilink")」の優勝経験者。
+  - [小林尊](../Page/小林尊.md "wikilink") - 米国でPayPassのテレビCMにと出演していた。共に「[国際ホットドッグ早食い選手権](../Page/ネイサンズ国際ホットドッグ早食い選手権.md "wikilink")」の優勝経験者。
 
 ## 外部リンク
 
@@ -402,5 +402,5 @@ Apple Pay に対応している Apple Watch は、次の通りである\[10\]。
 23.
 24.
 25. 「[DCカード](../Page/DCカード.md "wikilink")」は、三菱UFJニコスに準ずる。
-26. 「[MUFGカード](https://ja.wikipedia.org/wiki/MUFGカード "wikilink")」は、三菱UFJニコスに準ずる。
+26. 「[MUFGカード](../Page/MUFGカード.md "wikilink")」は、三菱UFJニコスに準ずる。
 27. 「Jリーグプリペイドカード」と共に発行されるプリペイドブレスでMastercardコンタクトレスを利用する事が出来る。

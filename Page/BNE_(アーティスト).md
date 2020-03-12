@@ -1,50 +1,50 @@
 > この記事は[BNE \(\)](https://ja.wikipedia.org/wiki/BNE_\(\))から翻訳されています。
 
 
-**BNE**（ビーエヌイー）は、[アメリカ在住の](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[グラフィティ](https://ja.wikipedia.org/wiki/グラフィティ "wikilink")アーティストである。
+**BNE**（ビーエヌイー）は、[アメリカ在住の](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[グラフィティ](../Page/グラフィティ.md "wikilink")アーティストである。
 
 ## 概要
 
 [right](https://ja.wikipedia.org/wiki/ファイル:BNEkltag.jpg "wikilink"))\]\] 約15年間（[2012年](../Page/2012年.md "wikilink")時点）\[1\]にわたりアメリカをはじめとした世界各国において、白地に黒色のゴシック体で「BNE」「BNE WAS HERE」「BNE参上」などと書かれたステッカーおよびグラフィティを残す形で表現活動を行ってきた。
 
-BNEのグラフィティの実行者は長らく謎となっていたが、2009年12月[ニューヨーク・タイムズ](https://ja.wikipedia.org/wiki/ニューヨーク・タイムズ "wikilink")にインタビューが掲載されたことにより\[2\]、初めてBNEを名乗る人物がいることが明らかになった。その後2011年には水問題に苦しむ地域に手助けを行う財団・BNE Water Foundationを立ち上げた。ただしBNEの詳しいプロフィールはいまだに明らかになっておらず、
+BNEのグラフィティの実行者は長らく謎となっていたが、2009年12月[ニューヨーク・タイムズ](../Page/ニューヨーク・タイムズ.md "wikilink")にインタビューが掲載されたことにより\[2\]、初めてBNEを名乗る人物がいることが明らかになった。その後2011年には水問題に苦しむ地域に手助けを行う財団・BNE Water Foundationを立ち上げた。ただしBNEの詳しいプロフィールはいまだに明らかになっておらず、
 
   - 1970年代後半〜1980年代前半生まれ\[3\]
-  - 英語のアクセントから、[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")生まれと推測される\[4\]
+  - 英語のアクセントから、[ニューヨーク](../Page/ニューヨーク.md "wikilink")生まれと推測される\[4\]
 
 といった断片的な情報がもたらされている。
 
 ## グラフィティ活動
 
-白地に黒色のゴシック体で「BNE」「BNE WAS HERE」「BNE参上」などと書かれたステッカー、およびグラフティが、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")、[クアラルンプール](../Page/クアラルンプール.md "wikilink")、[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")、[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")、[東京](https://ja.wikipedia.org/wiki/東京 "wikilink")、[バンコク](../Page/バンコク.md "wikilink")、[プラハ](../Page/プラハ.md "wikilink")で確認されている。2006年7月、[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")市長は 交通標識や公共物に貼られたステッカーに対する犯人逮捕のため、2,500ドルの懸賞金を賭けた\[5\]。
+白地に黒色のゴシック体で「BNE」「BNE WAS HERE」「BNE参上」などと書かれたステッカー、およびグラフティが、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")、[クアラルンプール](../Page/クアラルンプール.md "wikilink")、[ニューヨーク](../Page/ニューヨーク.md "wikilink")、[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")、[東京](../Page/東京.md "wikilink")、[バンコク](../Page/バンコク.md "wikilink")、[プラハ](../Page/プラハ.md "wikilink")で確認されている。2006年7月、[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")市長は 交通標識や公共物に貼られたステッカーに対する犯人逮捕のため、2,500ドルの懸賞金を賭けた\[5\]。
 
 ### 日本国内
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:BNE_sticker.jpg "wikilink") [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")内を中心に[池袋](https://ja.wikipedia.org/wiki/池袋 "wikilink")や[新宿](../Page/新宿.md "wikilink")、[渋谷](../Page/渋谷.md "wikilink")などの繁華街で[歩道橋](https://ja.wikipedia.org/wiki/歩道橋 "wikilink")や[街灯](https://ja.wikipedia.org/wiki/街灯 "wikilink")、[消火栓](https://ja.wikipedia.org/wiki/消火栓 "wikilink")などに貼られている。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:BNE_sticker.jpg "wikilink") [東京都](../Page/東京都.md "wikilink")内を中心に[池袋](../Page/池袋.md "wikilink")や[新宿](../Page/新宿.md "wikilink")、[渋谷](../Page/渋谷.md "wikilink")などの繁華街で[歩道橋](https://ja.wikipedia.org/wiki/歩道橋 "wikilink")や[街灯](../Page/街灯.md "wikilink")、[消火栓](../Page/消火栓.md "wikilink")などに貼られている。
 
 かつて日本における報道ではBNEの意味として、
 
   - [ブリスベン国際空港](https://ja.wikipedia.org/wiki/ブリスベン国際空港 "wikilink")の[IATA](../Page/国際航空運送協会.md "wikilink")[空港コード](../Page/空港コード.md "wikilink")
   - 音楽レーベル([Brand New Entertainment](http://brandnewentertainment.com/))
-  - 日本で活躍する外国人[グラフティアーティストの愛称](https://ja.wikipedia.org/wiki/落書き "wikilink")
+  - 日本で活躍する外国人[グラフティアーティストの愛称](../Page/落書き.md "wikilink")
 
 ではないかと報道された\[6\]。
 
-なお、公共の施設にステッカーを貼り付けることは公共のマナーに反するうえ、[軽犯罪法](../Page/軽犯罪法.md "wikilink")\[7\]、[道路交通法](../Page/道路交通法.md "wikilink")にも抵触する。東京都の場合、「屋外広告物条例」の第7条第2項に禁止物件として**「電柱、街路灯柱及び消火栓標識」**、**「アーチの支柱及びアーケードの支柱」**と明記されている（ただし罰則規定は無い）。悪質な場合は[器物損壊罪](../Page/器物損壊罪.md "wikilink")、[建造物等損壊罪](https://ja.wikipedia.org/wiki/建造物等損壊罪 "wikilink")となる。
+なお、公共の施設にステッカーを貼り付けることは公共のマナーに反するうえ、[軽犯罪法](../Page/軽犯罪法.md "wikilink")\[7\]、[道路交通法](../Page/道路交通法.md "wikilink")にも抵触する。東京都の場合、「屋外広告物条例」の第7条第2項に禁止物件として**「電柱、街路灯柱及び消火栓標識」**、**「アーチの支柱及びアーケードの支柱」**と明記されている（ただし罰則規定は無い）。悪質な場合は[器物損壊罪](../Page/器物損壊罪.md "wikilink")、[建造物等損壊罪](../Page/建造物等損壊罪.md "wikilink")となる。
 
 ## 関連報道
 
-  - 2006年9月8日　[ABCニュース](https://ja.wikipedia.org/wiki/ABCニュース_\(アメリカ\) "wikilink")\[8\]
+  - 2006年9月8日　[ABCニュース](../Page/ABCニュース_\(アメリカ\).md "wikilink")\[8\]
   - 2006年9月20日 フジテレビ系「[FNNスーパーニュース](../Page/FNNスーパーニュース.md "wikilink")」
-  - 2006年10月26日　[web R25](https://ja.wikipedia.org/wiki/R25_\(雑誌\) "wikilink")\[9\]
+  - 2006年10月26日　[web R25](../Page/R25_\(雑誌\).md "wikilink")\[9\]
 
 ## 脚注
 
 ## 関連項目
 
-  - [グラフィティ](https://ja.wikipedia.org/wiki/グラフィティ "wikilink")
-  - [タギング](https://ja.wikipedia.org/wiki/タギング "wikilink")
-  - [キルロイ参上](https://ja.wikipedia.org/wiki/キルロイ参上 "wikilink")
+  - [グラフィティ](../Page/グラフィティ.md "wikilink")
+  - [タギング](../Page/タギング.md "wikilink")
+  - [キルロイ参上](../Page/キルロイ参上.md "wikilink")
 
 ## 外部リンク
 

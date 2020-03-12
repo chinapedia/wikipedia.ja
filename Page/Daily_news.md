@@ -6,11 +6,11 @@
 ## 解説
 
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月21日](../Page/10月21日.md "wikilink")リリース。アルバム「[Nine cubes](../Page/Nine_cubes.md "wikilink")」の先行シングル。
-  - 本人出演 [JT](https://ja.wikipedia.org/wiki/日本たばこ産業 "wikilink")「[桃の天然水](https://ja.wikipedia.org/wiki/桃の天然水 "wikilink")」CMソング。
+  - 本人出演 [JT](https://ja.wikipedia.org/wiki/日本たばこ産業 "wikilink")「[桃の天然水](../Page/桃の天然水.md "wikilink")」CMソング。
   - 初の[マキシシングル](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")で値段は8cmシングルより高いが、収録曲数は少ない。
   - 本人が夏に海に行ったことから生まれた曲であり、不景気な世の中を明るくしようというコンセプトの楽曲である。
   - PVはイラストで描かれた街並みで戯れる映像だが、商品化はされていない。
-  - 1998年[紅白歌合戦での歌唱曲](https://ja.wikipedia.org/wiki/NHK紅白歌合戦 "wikilink")。
+  - 1998年[紅白歌合戦での歌唱曲](../Page/NHK紅白歌合戦.md "wikilink")。
 
 ## 収録曲
 
@@ -23,7 +23,7 @@
   -
 
       -
-        [作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")：[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
+        [作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")：[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
 
 ## 収録アルバム
 
@@ -36,7 +36,7 @@
 
 <!-- end list -->
 
-  - [ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")
+  - [ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")
 
 <!-- end list -->
 

@@ -1,32 +1,32 @@
 > この記事は[ARIA The STATION Tricolore](https://ja.wikipedia.org/wiki/ARIA_The_STATION_Tricolore)から翻訳されています。
 
 
-『**ARIA The STATION Tricolore**』（アリア ザ ステーション トリコローレ）は、[音泉](https://ja.wikipedia.org/wiki/音泉 "wikilink")・[BEWE](https://ja.wikipedia.org/wiki/BEWE "wikilink")と[アニメイトTV](https://ja.wikipedia.org/wiki/アニメイトTV "wikilink")にて[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで毎週木曜日に配信されていた[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組である。パーソナリティは[葉月絵理乃](https://ja.wikipedia.org/wiki/葉月絵理乃 "wikilink")と[西村ちなみ](../Page/西村ちなみ.md "wikilink")。
+『**ARIA The STATION Tricolore**』（アリア ザ ステーション トリコローレ）は、[音泉](../Page/音泉.md "wikilink")・[BEWE](../Page/BEWE.md "wikilink")と[アニメイトTV](https://ja.wikipedia.org/wiki/アニメイトTV "wikilink")にて[2007年](../Page/2007年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで毎週木曜日に配信されていた[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組である。パーソナリティは[葉月絵理乃](../Page/葉月絵理乃.md "wikilink")と[西村ちなみ](../Page/西村ちなみ.md "wikilink")。
 
-『[ARIA The STATION Neo VENEZIA INFORMALE](https://ja.wikipedia.org/wiki/ARIA_The_STATION_Neo_VENEZIA_INFORMALE "wikilink")』（ - ネオ・ヴェネツィア・インフォルマーレ）、『[ARIA The STATION Due](https://ja.wikipedia.org/wiki/ARIA_The_STATION_Due "wikilink")』（ - デュエ）に続く「ARIAラジオ」シリーズ3番組目。灯里とアリア社長のラジオ（ARIA The STATION Neo VENEZIA INFORMALE prossimo）も番組名を変えて引き継がれている。
+『[ARIA The STATION Neo VENEZIA INFORMALE](https://ja.wikipedia.org/wiki/ARIA_The_STATION_Neo_VENEZIA_INFORMALE "wikilink")』（ - ネオ・ヴェネツィア・インフォルマーレ）、『[ARIA The STATION Due](../Page/ARIA_The_STATION_Due.md "wikilink")』（ - デュエ）に続く「ARIAラジオ」シリーズ3番組目。灯里とアリア社長のラジオ（ARIA The STATION Neo VENEZIA INFORMALE prossimo）も番組名を変えて引き継がれている。
 
 その他、スペシャルで配信された『**ARIA The STATION SPECIAL**』（ - スペチャーレ）についてもここで触れる。
 
 ## パーソナリティ
 
-  - [葉月絵理乃](https://ja.wikipedia.org/wiki/葉月絵理乃 "wikilink")（水無灯里役）
+  - [葉月絵理乃](../Page/葉月絵理乃.md "wikilink")（水無灯里役）
   - [西村ちなみ](../Page/西村ちなみ.md "wikilink")（アリア・ポコテン役）
 
 ## 配信など
 
-  - 放送期間：[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月5日](../Page/4月5日.md "wikilink") - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月27日](../Page/3月27日.md "wikilink")、[4月24日](../Page/4月24日.md "wikilink")、[5月29日](../Page/5月29日.md "wikilink") - [7月10日](../Page/7月10日.md "wikilink")（隔週）
-  - 配信局：[音泉](https://ja.wikipedia.org/wiki/音泉 "wikilink")・[BEWE](https://ja.wikipedia.org/wiki/BEWE "wikilink")、[アニメイトTV](https://ja.wikipedia.org/wiki/アニメイトTV "wikilink")…毎週木曜日（同一内容配信）
+  - 放送期間：[2007年](../Page/2007年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink") - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月27日](../Page/3月27日.md "wikilink")、[4月24日](../Page/4月24日.md "wikilink")、[5月29日](../Page/5月29日.md "wikilink") - [7月10日](../Page/7月10日.md "wikilink")（隔週）
+  - 配信局：[音泉](../Page/音泉.md "wikilink")・[BEWE](../Page/BEWE.md "wikilink")、[アニメイトTV](https://ja.wikipedia.org/wiki/アニメイトTV "wikilink")…毎週木曜日（同一内容配信）
   - 放送時間：30分から40分前後
-  - [スポンサー](https://ja.wikipedia.org/wiki/スポンサー "wikilink")：[マッグガーデン](https://ja.wikipedia.org/wiki/マッグガーデン "wikilink")（\#1 - \#51）、松竹（\#40 - \#51）、メディアファクトリー（\#40 - \#51）
+  - [スポンサー](../Page/スポンサー.md "wikilink")：[マッグガーデン](../Page/マッグガーデン.md "wikilink")（\#1 - \#51）、松竹（\#40 - \#51）、メディアファクトリー（\#40 - \#51）
       - [COSPA](https://ja.wikipedia.org/wiki/COSPA "wikilink")（\#1 - \#39）
 
 ## 番組概要
 
-  - 「ARIAラジオ」シリーズ3番組目。2007年[9月21日](../Page/9月21日.md "wikilink")に発売されたOVA『[ARIA The OVA 〜ARIETTA〜](https://ja.wikipedia.org/wiki/ARIA_\(漫画\) "wikilink")』および[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月7日](../Page/1月7日.md "wikilink")から[テレビ東京系](https://ja.wikipedia.org/wiki/テレビ東京系 "wikilink")で放映開始となる[アニメ](../Page/アニメ.md "wikilink")『[ARIA The ORIGINATION](https://ja.wikipedia.org/wiki/ARIA_\(漫画\) "wikilink")』と連動して放送を進めていく。番組のインフォメーションではアニメの制作状況を伝えている。
+  - 「ARIAラジオ」シリーズ3番組目。2007年[9月21日](../Page/9月21日.md "wikilink")に発売されたOVA『[ARIA The OVA 〜ARIETTA〜](../Page/ARIA_\(漫画\).md "wikilink")』および[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月7日](../Page/1月7日.md "wikilink")から[テレビ東京系](https://ja.wikipedia.org/wiki/テレビ東京系 "wikilink")で放映開始となる[アニメ](../Page/アニメ.md "wikilink")『[ARIA The ORIGINATION](../Page/ARIA_\(漫画\).md "wikilink")』と連動して放送を進めていく。番組のインフォメーションではアニメの制作状況を伝えている。
   - 「トリコローレ」はイタリアの国旗（緑・白・赤）を意味する。
   - オープニング・エンディング、コーナージングルのBGMが前番組からリニューアルされた（それぞれ順に「AQUA -reprise-」「そして舟は行く」「サンタクロウスの空」）。
   - 番組内では口にされていないものの、前々・前番組と変わらず収録は基本的に2本録り（番組紹介（一部顔写真なしの週もあり）の画像で大方判断できる（\#1・2、\#3・4、\#5・6、\#8・9、\#10・11、\#12・13…）ことから木曜日配信（つまり2本録りの2本目）の日に2本録りをしているものだとみられる）。
-  - 『[Due](https://ja.wikipedia.org/wiki/ARIA_The_STATION_Due "wikilink")』時代から引き続き、「**チーム30**」という30代の集まりで世代トークをする数あるアニラジでは貴重な番組の1つである。ただし、年齢が公表されていない（[皆川純子](https://ja.wikipedia.org/wiki/皆川純子 "wikilink")）・ほとんど触れない（[川上とも子](../Page/川上とも子.md "wikilink")など）ゲストが何人かいるため、[広橋涼](../Page/広橋涼.md "wikilink")の回からほとんどそのような世代トークが出来ていない。2008年現在は『ARIA』で共演したメイン声優7人（西村含む）のうち20代である[斎藤千和](https://ja.wikipedia.org/wiki/斎藤千和 "wikilink")以外の6人がメンバーとなっている。
+  - 『[Due](../Page/ARIA_The_STATION_Due.md "wikilink")』時代から引き続き、「**チーム30**」という30代の集まりで世代トークをする数あるアニラジでは貴重な番組の1つである。ただし、年齢が公表されていない（[皆川純子](../Page/皆川純子.md "wikilink")）・ほとんど触れない（[川上とも子](../Page/川上とも子.md "wikilink")など）ゲストが何人かいるため、[広橋涼](../Page/広橋涼.md "wikilink")の回からほとんどそのような世代トークが出来ていない。2008年現在は『ARIA』で共演したメイン声優7人（西村含む）のうち20代である[斎藤千和](https://ja.wikipedia.org/wiki/斎藤千和 "wikilink")以外の6人がメンバーとなっている。
   - \#48（3月6日） 2008年3月いっぱいで番組終了することが発表された。
   - \#50（3月20日） 「TV最終回後の感想などを聞きたい」などの理由から4月24日（木）に「**ARIA The STATION SPECIAL**」（スペチャーレ(イタリア語)）として1回限りの復活が告知された。因みにリスナーの声を漏らさず聞きたいとのパーソナリティ2人の希望から、4月17日深夜0時までの投稿締め切りも告知された。
   - さらに[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月29日](../Page/5月29日.md "wikilink")～[7月10日](../Page/7月10日.md "wikilink")まで隔週木曜日に『**ARIA The STATION SPECIAL**』として全4回配信で一時復活。『ARIA The ORIGINATION ～蒼い惑星のエルシエロ～とアリラジCDクール4』発売に因んだもの。
@@ -34,11 +34,11 @@
 
 ## スタッフ
 
-  - プロデューサー：[やまけん](https://ja.wikipedia.org/wiki/やまけん "wikilink")
+  - プロデューサー：[やまけん](../Page/やまけん.md "wikilink")
   - ディレクター：[日高殖充](../Page/日高殖充.md "wikilink")
-  - 構成作家：[花崎圭司](https://ja.wikipedia.org/wiki/花崎圭司 "wikilink")（通称：はなちゃん）
+  - 構成作家：[花崎圭司](../Page/花崎圭司.md "wikilink")（通称：はなちゃん）
       - 『[Due](https://ja.wikipedia.org/wiki/ARIA_the_Station_Due "wikilink")』に引き続き構成を担当。専用のマイク（はなちゃんマイク）はいったん無くなったが、リスナーの要望により第3回から復活。「ヴェネツィア発イタリア1周の旅」終了後は再びマイクが無くなっている。
-  - ラジオドラマ脚本家：[藤咲あゆな](https://ja.wikipedia.org/wiki/藤咲あゆな "wikilink")（通称：あゆあゆ）
+  - ラジオドラマ脚本家：[藤咲あゆな](../Page/藤咲あゆな.md "wikilink")（通称：あゆあゆ）
       - お茶好き
       - 「ウクレレでハッピーバースデー」では"もちもちぽんぽんず"としてマラカスを鳴らす
       - \#40ではゲストとしてオープニングから登場
@@ -52,7 +52,7 @@
   - ARIAカンパニープレゼンツ ヴェネツィア発イタリア1周の旅
       - 前作で好評だったオープニングクイズコーナー。はなちゃんマイクとともに\#3から復活した。
       - アリアカンパニーが厳選した街を紹介して、イタリア全般に関するクイズに答えながらスゴロクでイタリアを1周する。ヴェネツィアからスタートしてクイズに答えられればサイコロを振れる。
-      - ＃35（[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[11月29日](../Page/11月29日.md "wikilink")）で葉月が6を出して見事にゴールした。負けた西村は罰ゲームをすることになっており、その罰ゲームの案をリスナーから募集している。
+      - ＃35（[2007年](../Page/2007年.md "wikilink")[11月29日](../Page/11月29日.md "wikilink")）で葉月が6を出して見事にゴールした。負けた西村は罰ゲームをすることになっており、その罰ゲームの案をリスナーから募集している。
 
 <!-- end list -->
 
@@ -123,7 +123,7 @@
 <td><p>イタリアには<a href="../Page/ジェラート.md" title="wikilink">ジェラート</a>、<a href="https://ja.wikipedia.org/wiki/ティラ・ミ・ス" title="wikilink">ティラ・ミ・ス</a>、<a href="../Page/パンナ・コッタ.md" title="wikilink">パンナ・コッタ</a>といったスイーツをイタリア語で何と言う?</p></td>
 <td><p>ドルチェ</p></td>
 <td><p>両方</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アンドリア" title="wikilink">アンドリア</a></p></td>
+<td><p><a href="../Page/アンドリア.md" title="wikilink">アンドリア</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>10</p></td>
@@ -137,7 +137,7 @@
 <td><p>「イタリア」を漢字で書くと?</p></td>
 <td><p>伊太利亜</p></td>
 <td><p>西村</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アルベロベッロ" title="wikilink">アルベロベッロ</a></p></td>
+<td><p><a href="../Page/アルベロベッロ.md" title="wikilink">アルベロベッロ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>12</p></td>
@@ -179,7 +179,7 @@
 <td><p><a href="../Page/イタリア.md" title="wikilink">イタリア</a>の正式名称は一体何と言う?</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/イタリア共和国" title="wikilink">イタリア共和国</a></p></td>
 <td><p>両方</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カプリ島" title="wikilink">カプリ島</a></p></td>
+<td><p><a href="../Page/カプリ島.md" title="wikilink">カプリ島</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>18</p></td>
@@ -190,14 +190,14 @@
 </tr>
 <tr class="even">
 <td><p>19</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シェイクスピア" title="wikilink">シェイクスピア</a>の有名四大悲劇「<a href="../Page/ハムレット.md" title="wikilink">ハムレット</a>」「<a href="https://ja.wikipedia.org/wiki/マクベス_(シェイクスピア)" title="wikilink">マクベス</a>」「<a href="../Page/オセロ_(シェイクスピア).md" title="wikilink">オセロ</a>」「<a href="https://ja.wikipedia.org/wiki/リア王" title="wikilink">リア王</a>」。この四大悲劇の中でイタリアにゆかりがある作品はどれ?</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/シェイクスピア" title="wikilink">シェイクスピア</a>の有名四大悲劇「<a href="../Page/ハムレット.md" title="wikilink">ハムレット</a>」「<a href="../Page/マクベス_(シェイクスピア).md" title="wikilink">マクベス</a>」「<a href="../Page/オセロ_(シェイクスピア).md" title="wikilink">オセロ</a>」「<a href="../Page/リア王.md" title="wikilink">リア王</a>」。この四大悲劇の中でイタリアにゆかりがある作品はどれ?</p></td>
 <td><p><a href="../Page/オセロ_(シェイクスピア).md" title="wikilink">オセロ</a></p></td>
 <td><p>葉月</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ナポリ" title="wikilink">ナポリ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>20</p></td>
-<td><p>3つのブランドを古い順に並べよ 1.<a href="https://ja.wikipedia.org/wiki/ブルガリ" title="wikilink">ブルガリ</a> 2.<a href="https://ja.wikipedia.org/wiki/プラダ" title="wikilink">プラダ</a> 3.<a href="https://ja.wikipedia.org/wiki/ヴェルサーチ" title="wikilink">ヴェルサーチ</a></p></td>
+<td><p>3つのブランドを古い順に並べよ 1.<a href="../Page/ブルガリ.md" title="wikilink">ブルガリ</a> 2.<a href="../Page/プラダ.md" title="wikilink">プラダ</a> 3.<a href="../Page/ヴェルサーチ.md" title="wikilink">ヴェルサーチ</a></p></td>
 <td><p>1（1884年）→2（1913年）→3（1978年）</p></td>
 <td><p>なし</p></td>
 <td></td>
@@ -205,9 +205,9 @@
 <tr class="even">
 <td><p>21</p></td>
 <td><p>〈おさらいクイズ〉南イタリアでトンガリ屋根が連なった家屋郡、<a href="https://ja.wikipedia.org/wiki/トゥルッリ" title="wikilink">トゥルッリ</a>で有名な街の名前はいったいどこ?</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アルベロベッロ" title="wikilink">アルベロベッロ</a></p></td>
+<td><p><a href="../Page/アルベロベッロ.md" title="wikilink">アルベロベッロ</a></p></td>
 <td><p>両方</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ティヴォリ" title="wikilink">ティヴォリ</a></p></td>
+<td><p><a href="../Page/ティヴォリ.md" title="wikilink">ティヴォリ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>22</p></td>
@@ -218,15 +218,15 @@
 </tr>
 <tr class="even">
 <td><p>23</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/荒川静香" title="wikilink">荒川静香</a>の代名詞ともなった<a href="https://ja.wikipedia.org/wiki/イナバウアー" title="wikilink">イナバウアー</a>は1950年代に活躍したフィギュアスケート選手、イナ・バウアーに由来しているが、そのイナ・バウアーの出身国はどこ?</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/荒川静香" title="wikilink">荒川静香</a>の代名詞ともなった<a href="../Page/イナバウアー.md" title="wikilink">イナバウアー</a>は1950年代に活躍したフィギュアスケート選手、イナ・バウアーに由来しているが、そのイナ・バウアーの出身国はどこ?</p></td>
 <td><p><a href="../Page/西ドイツ.md" title="wikilink">西ドイツ</a></p></td>
-<td><p>なし（ゲストの<a href="https://ja.wikipedia.org/wiki/皆川純子" title="wikilink">皆川純子</a>だけ正解）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カプリ島" title="wikilink">カプリ島</a></p></td>
+<td><p>なし（ゲストの<a href="../Page/皆川純子.md" title="wikilink">皆川純子</a>だけ正解）</p></td>
+<td><p><a href="../Page/カプリ島.md" title="wikilink">カプリ島</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>24</p></td>
 <td><p>イタリアの国花は何?</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デイジー" title="wikilink">デイジー</a></p></td>
+<td><p><a href="../Page/デイジー.md" title="wikilink">デイジー</a></p></td>
 <td><p>西村</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/カリアリ" title="wikilink">カリアリ</a></p></td>
 </tr>
@@ -279,7 +279,7 @@
 <tr class="even">
 <td><p>31</p></td>
 <td><p>スパゲティにはボンゴレ（あさりなどの2枚貝の意）など色々な名前があるが、ペスカトーレはどういう意味?</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/漁師" title="wikilink">漁師</a>（魚介類が使われたらトマトベース、と漁師が売れ残ったお魚を使ってからトマトベースで作ってくれるのが起源とされている）</p></td>
+<td><p><a href="../Page/漁師.md" title="wikilink">漁師</a>（魚介類が使われたらトマトベース、と漁師が売れ残ったお魚を使ってからトマトベースで作ってくれるのが起源とされている）</p></td>
 <td><p>両方</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジェノバ" title="wikilink">ジェノバ</a></p></td>
 </tr>
@@ -507,7 +507,7 @@
       - \#7 消えたシュークリームの犯人をアリア社長が探偵として探したが、犯人は社長であることが灯里に見抜かれてしまった。
       - \#8 ゲスト登場回数通算6回のアテナ・グローリィが登場（「プロッシモ」［*PROSSIMO*］の初回から計算）。ぶっちぎりの最多保持者ということを称えて番組から名誉パーソナリティの称号を表彰された。
       - \#9 アテナと一緒に3人でサンマルコ広場の一角に設けられたフリーマーケットでお手伝いを行った。
-      - \#10 [某クイズ番組のタイトルパロディ](../Page/クイズ$ミリオネア.md "wikilink")、「クイズ$ミリアリア」としてリスナーが送ってくれたクイズ3問を灯里とアリア社長が挑む。最後の3問目（「ヴェネツィアの交通事情は特殊で市街への車の乗り入れが全面的に禁止（自動車、自転車など）であるが、例外的にヴェネツィアを走れる車が2つ。そのうち1つは車椅子、ではもう一つは?」〈答え：[乳母車](https://ja.wikipedia.org/wiki/乳母車 "wikilink")〉）で全問正解と思いきや、「うぱ車」とリスナーのタイピングミスにより何故か社長の解答は不正解になってしまった。しかも、全問正解の時の豪華商品を用意していなかったらしく、華麗にスルーしてエンディングBGMを流して終わらせた。
+      - \#10 [某クイズ番組のタイトルパロディ](../Page/クイズ$ミリオネア.md "wikilink")、「クイズ$ミリアリア」としてリスナーが送ってくれたクイズ3問を灯里とアリア社長が挑む。最後の3問目（「ヴェネツィアの交通事情は特殊で市街への車の乗り入れが全面的に禁止（自動車、自転車など）であるが、例外的にヴェネツィアを走れる車が2つ。そのうち1つは車椅子、ではもう一つは?」〈答え：[乳母車](../Page/乳母車.md "wikilink")〉）で全問正解と思いきや、「うぱ車」とリスナーのタイピングミスにより何故か社長の解答は不正解になってしまった。しかも、全問正解の時の豪華商品を用意していなかったらしく、華麗にスルーしてエンディングBGMを流して終わらせた。
       - \#11 アクアに一度も行ったことがないというリスナーの多数要望に応えて、灯里と社長がアリアカンパニーがどんな建物なのかを紹介した（アリシアは仕事で留守）。
       - \#12 藍華・S・グランチェスタが登場。
       - \#13 前回に続き今度はスタジオに藍華が登場。どれくらいお互いのことを理解しているかどうかをチェックするゲームを行い、リスナーが用意してくれた3つの質問に2人同時に答えるものだったが1問も一致しなかった。
@@ -529,30 +529,30 @@
   - ＃3・4（4月19日・4月26日）[広橋涼](../Page/広橋涼.md "wikilink")〔アリス・キャロル 役〕
       - ミニコーナー：広橋涼の妄想垂れ流し（\#3）、広橋涼のやっちゃってごめんなさい（\#4）
       - 2006年3月28日以来約1年ぶりに登場。
-  - ＃5・6（5月3日・5月10日）[牧野由依](https://ja.wikipedia.org/wiki/牧野由依 "wikilink")〔アイラ・M・カラス 役〕（※アニメ1期～3期OPも担当）
+  - ＃5・6（5月3日・5月10日）[牧野由依](../Page/牧野由依.md "wikilink")〔アイラ・M・カラス 役〕（※アニメ1期～3期OPも担当）
       - ミニコーナー：牧野由依のミニミニユイユイ（\#5・6）
       - 4月25日収録（牧野の公式サイトの日記より）。
-      - 「[ARIA The NATURAL](https://ja.wikipedia.org/wiki/ARIA_\(漫画\) "wikilink")」では茜役で第26話に登場している。
+      - 「[ARIA The NATURAL](../Page/ARIA_\(漫画\).md "wikilink")」では茜役で第26話に登場している。
   - ＃8・9（5月24日・5月31日配信分）[川上とも子](../Page/川上とも子.md "wikilink")〔アテナ・グローリィ 役〕
       - ミニコーナー：アポロ計画（\#8）、とも蔵スピードアップ作戦（\#9）
   - ＃12・13（6月21日・6月28日）[斎藤千和](https://ja.wikipedia.org/wiki/斎藤千和 "wikilink")〔藍華・S・グランチェスタ 役〕
       - ミニコーナー：ティッシュ The STATION ツヴァイ（\#12・13。\#12は第1823回、\#13は第2862回という設定。「ティッシュ」は斎藤の愛犬の名前）
-  - ＃18・19（8月2日・8月9日）[野島裕史](https://ja.wikipedia.org/wiki/野島裕史 "wikilink")〔出雲暁 役〕
+  - ＃18・19（8月2日・8月9日）[野島裕史](../Page/野島裕史.md "wikilink")〔出雲暁 役〕
       - ミニコーナー：暁のファイヤーファイヤーファイヤー 夏（\#18・19）
-  - ＃22・23（8月30日・9月6日）[皆川純子](https://ja.wikipedia.org/wiki/皆川純子 "wikilink")〔晃・E・フェラーリ 役〕
+  - ＃22・23（8月30日・9月6日）[皆川純子](../Page/皆川純子.md "wikilink")〔晃・E・フェラーリ 役〕
       - ミニコーナー：皆川純子のウェルカムトゥザジャングル（\#22・23。\#23は第53回という設定）
   - ＃24・25（9月13日・9月20日） 広橋涼〔アリス・キャロル 役〕
-      - ミニコーナー：こうきと一緒（＃24・25。「こうき」は広橋がファンである[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")の[田中聖](https://ja.wikipedia.org/wiki/田中聖 "wikilink")のこと）
+      - ミニコーナー：こうきと一緒（＃24・25。「こうき」は広橋がファンである[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")の[田中聖](../Page/田中聖.md "wikilink")のこと）
   - ＃26・27（9月27日・10月4日）川上とも子〔アテナ・グローリィ 役〕
       - ミニコーナー：川上とも子のアポロ計画（＃26）、とも蔵のスピードアップ作戦（\#27）
   - ＃32・33（11月8日・11月15日）[渡辺明乃](../Page/渡辺明乃.md "wikilink")〔アルバート・ピット（アル君） 役〕
-      - ミニコーナー：渡辺明乃presents限定ですわ[ちびらり](https://ja.wikipedia.org/wiki/ちびらり "wikilink")ラジオ（\#32）、渡部明乃presents自分ラジオ居酒屋版（＃33）
+      - ミニコーナー：渡辺明乃presents限定ですわ[ちびらり](../Page/ちびらり.md "wikilink")ラジオ（\#32）、渡部明乃presents自分ラジオ居酒屋版（＃33）
   - ＃36・37（12月6日・12月13日）野島裕史〔出雲暁 役〕
       - ミニコーナー：サラマンダー占い（\#36・37）
       - ＃36の占い結果が「A型：風呂に入れ、B型：唐辛子（辛いものを）を食え、O型：走れ、AB型：でかい声を出せ」だったことから、オープニングではAB型の西村が大きい声で挨拶した。本編でゲストのミニコーナーに触れたのはこれが初めてである。
       - ＃37では「A：熱い鍋を食え B：歌え O：アリシアのことを考えろ AB：気合を入れろ」
   - ＃38・39（12月20日・12月27日） [大原さやか](../Page/大原さやか.md "wikilink")〔アリシア・フローレンス 役〕
-      - ミニコーナー：[弟・崇から姉](https://ja.wikipedia.org/wiki/大原崇 "wikilink")・さやかへのコメント（＃38/2:45、OPでは触れられなかった）
+      - ミニコーナー：[弟・崇から姉](../Page/大原崇.md "wikilink")・さやかへのコメント（＃38/2:45、OPでは触れられなかった）
 
 <!-- end list -->
 
@@ -567,7 +567,7 @@
 
 <!-- end list -->
 
-  - ＃40（1月10日） [藤咲あゆな](https://ja.wikipedia.org/wiki/藤咲あゆな "wikilink")〔脚本家〕／第52回 あゆあゆの午後のティータイム（2:18）
+  - ＃40（1月10日） [藤咲あゆな](../Page/藤咲あゆな.md "wikilink")〔脚本家〕／第52回 あゆあゆの午後のティータイム（2:18）
       - ゲストのなんちゃってアリア社長と一緒に「おいしいお茶の入れ方について」についてレクチャー
       - 仕事始めの収録1発目、いつもスタジオにいるが、この回は始めからゲストとして登場
   - ＃41・42（1月17日・1月24日） 牧野由依〔アイラ・M・カラス 役〕／牧野由依のミニミニユイユイ（＃41/1:36、＃42/2:15）
@@ -592,7 +592,7 @@
 ## ラジオCD
 
   - ARIA The STATION Tricolore
-      - クール1 - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[9月28日](../Page/9月28日.md "wikilink")発売、\#1 - \#13を収録
+      - クール1 - [2007年](../Page/2007年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")発売、\#1 - \#13を収録
       - クール2 - 2007年[12月21日](../Page/12月21日.md "wikilink")発売、\#14 - \#26を収録
       - クール3 - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月28日](../Page/3月28日.md "wikilink")発売、\#27 - \#39を収録
       - クール4 - 2008年[6月27日](../Page/6月27日.md "wikilink")発売予定、\#40 - \#52を収録
@@ -608,10 +608,10 @@
 
 <!-- end list -->
 
-  - [インターネットラジオステーション＜音泉＞](https://ja.wikipedia.org/wiki/音泉 "wikilink")
-  - [Supporters community site BEWE](https://ja.wikipedia.org/wiki/BEWE "wikilink")
+  - [インターネットラジオステーション＜音泉＞](../Page/音泉.md "wikilink")
+  - [Supporters community site BEWE](../Page/BEWE.md "wikilink")
   - [アニメイトTV](https://ja.wikipedia.org/wiki/アニメイトTV "wikilink")
-  - [ARIA](https://ja.wikipedia.org/wiki/ARIA_\(漫画\) "wikilink")
+  - [ARIA](../Page/ARIA_\(漫画\).md "wikilink")
 
 <!-- end list -->
 
@@ -620,7 +620,7 @@
 <!-- end list -->
 
   - [ARIA The STATION Neo VENEZIA INFORMALE](https://ja.wikipedia.org/wiki/ARIA_The_STATION_Neo_VENEZIA_INFORMALE "wikilink")
-  - [ARIA The STATION Due](https://ja.wikipedia.org/wiki/ARIA_The_STATION_Due "wikilink")
+  - [ARIA The STATION Due](../Page/ARIA_The_STATION_Due.md "wikilink")
 
 ## 外部リンク
 

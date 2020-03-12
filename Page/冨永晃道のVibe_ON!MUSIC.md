@@ -5,7 +5,7 @@
 
 ## 概要
 
-  - 2005年10月〜2007年3月29日まで放送された[キムラミチタのVibe ON\! MUSICを引き継いでスタートした](https://ja.wikipedia.org/wiki/キムラミチタのVibe_ON!_MUSIC "wikilink")。
+  - 2005年10月〜2007年3月29日まで放送された[キムラミチタのVibe ON\! MUSICを引き継いでスタートした](../Page/キムラミチタのVibe_ON!_MUSIC.md "wikilink")。
   - キムラ時代から引き続いて、紙屋町地下街シャレオiスタジオからの公開生放送だったが、2008年1月よりHFM本社スタジオからの生放送となる。
   - 2008年4月より放送時間が1時間55分に短縮された。
   - 2010年3月の放送で、冨永が3月末で番組・HFMを卒業して東京へ行くことが伝えられ、3月31日で終了した。最終回では、歴代のパワープレイアーティストや歴代ゲストからのメッセージやリスナーからのメッセージがかなり紹介された。なお、「Vibe ON\! MUSIC」は4月からも続くが、パーソナリティの冠がはずれる。
@@ -14,7 +14,7 @@
 
   - 17:00　オープニング
   - 17:05　HFMトラフィックインフォメーション＜提供：（水）テニスゾーン戸坂、（木）みなみストレスカウンセリングRoom＞
-  - 17:30　HFMトラフィックインフォメーション＜提供：[中国新聞](../Page/中国新聞.md "wikilink")社・[瀬戸内海汽船](https://ja.wikipedia.org/wiki/瀬戸内海汽船 "wikilink")＞
+  - 17:30　HFMトラフィックインフォメーション＜提供：[中国新聞](../Page/中国新聞.md "wikilink")社・[瀬戸内海汽船](../Page/瀬戸内海汽船.md "wikilink")＞
   - 17:32　HFMヘッドラインニュース＜提供：寿工業＞
   - 17:40　（水）Vibe ON\! BOOK RECOMMEND＜提供：廣文館＞
   - 17:50　[ラジオ劇団『小さな奇跡』](https://ja.wikipedia.org/wiki/ラジオ劇団『小さな奇跡』 "wikilink")＜提供：アーククラブ迎賓館＞
@@ -58,10 +58,10 @@
 <!-- end list -->
 
   -
-    [FUNKY MONKEY BABYS](https://ja.wikipedia.org/wiki/FUNKY_MONKEY_BABYS "wikilink")、[かりゆし58](https://ja.wikipedia.org/wiki/かりゆし58 "wikilink")、[榎本くるみ](https://ja.wikipedia.org/wiki/榎本くるみ "wikilink")。
+    [FUNKY MONKEY BABYS](https://ja.wikipedia.org/wiki/FUNKY_MONKEY_BABYS "wikilink")、[かりゆし58](../Page/かりゆし58.md "wikilink")、[榎本くるみ](../Page/榎本くるみ.md "wikilink")。
     ※このイベント自体は3回目になるが、冨永の担当になってからのライブ開催は初となる（過去2回は初代DJ[キムラミチタが担当していたときに開催](https://ja.wikipedia.org/wiki/木村ミチタ "wikilink")）。
-    オープニングアクトにはHFMの朝番組[MORNING ALIVE](https://ja.wikipedia.org/wiki/MORNING_ALIVE "wikilink")（月〜木担当）のDJ[貢藤十六](https://ja.wikipedia.org/wiki/貢藤十六 "wikilink")と冨永とのユニット「冨六」の他、[キマグレン](https://ja.wikipedia.org/wiki/キマグレン "wikilink")が登場する。
-    この日は通常通り放送されるが、上記のとおり冨永はイベントに参加するため、[9ジラジ](https://ja.wikipedia.org/wiki/9ジラジ "wikilink")DJの大窪シゲキが代理DJを務めることが決定している。
+    オープニングアクトにはHFMの朝番組[MORNING ALIVE](../Page/MORNING_ALIVE.md "wikilink")（月〜木担当）のDJ[貢藤十六](https://ja.wikipedia.org/wiki/貢藤十六 "wikilink")と冨永とのユニット「冨六」の他、[キマグレン](https://ja.wikipedia.org/wiki/キマグレン "wikilink")が登場する。
+    この日は通常通り放送されるが、上記のとおり冨永はイベントに参加するため、[9ジラジ](../Page/9ジラジ.md "wikilink")DJの大窪シゲキが代理DJを務めることが決定している。
 
 ：魁no5では、幕間に出張版・イントロ亭富寿司を会場内で開催。
 \*『Docomo Presents 魁No.4』（2008年3月7日開催）
@@ -76,7 +76,7 @@
 
   -
     出演アーティスト
-    [ヨースケ@HOME](https://ja.wikipedia.org/wiki/ヨースケ@HOME "wikilink")、[HI-FI CAMP](https://ja.wikipedia.org/wiki/HI-FI_CAMP "wikilink")、[まきちゃんぐ](https://ja.wikipedia.org/wiki/まきちゃんぐ "wikilink")。
+    [ヨースケ@HOME](https://ja.wikipedia.org/wiki/ヨースケ@HOME "wikilink")、[HI-FI CAMP](https://ja.wikipedia.org/wiki/HI-FI_CAMP "wikilink")、[まきちゃんぐ](../Page/まきちゃんぐ.md "wikilink")。
 
 オープニングアクト：under tripper、ブレーメンの音楽隊
 
@@ -99,7 +99,7 @@
 <!-- end list -->
 
   -
-    もーりー（[庄司悟のリクエスト魂](https://ja.wikipedia.org/wiki/庄司悟のリクエスト魂 "wikilink")のミキサーも担当）
+    もーりー（[庄司悟のリクエスト魂](../Page/庄司悟のリクエスト魂.md "wikilink")のミキサーも担当）
 
 ## リンク
 

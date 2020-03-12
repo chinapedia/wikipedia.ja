@@ -1,11 +1,11 @@
 > この記事は[REMIX MAN](https://ja.wikipedia.org/wiki/REMIX_MAN)から翻訳されています。
 
 
-『**REMIX MAN**』（リミックスマン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽](../Page/音楽.md "wikilink")グループである[THE BOOMが発表した](https://ja.wikipedia.org/wiki/THE_BOOM "wikilink")1stリミックス・アルバム。[1993年](../Page/1993年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink")発売。
+『**REMIX MAN**』（リミックスマン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽](../Page/音楽.md "wikilink")グループである[THE BOOMが発表した](../Page/THE_BOOM.md "wikilink")1stリミックス・アルバム。[1993年](../Page/1993年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink")発売。
 
 オリジナル・アルバム『[FACELESS MAN](../Page/FACELESS_MAN.md "wikilink")』収録の「いいあんべえ」、「18時」の2曲にリミックスを加えた曲を収録した5曲入りのアルバムである。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[8月3日](../Page/8月3日.md "wikilink")には、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に発売された『[REMIX MAN '95](https://ja.wikipedia.org/wiki/REMIX_MAN_'95 "wikilink")』とともに1枚のアルバムにまとめられ、[デジタル・リマスター版の](https://ja.wikipedia.org/wiki/マスタリング "wikilink")『REMIX MAN+REMIX MAN '95』として再発売された。
+[2005年](../Page/2005年.md "wikilink")[8月3日](../Page/8月3日.md "wikilink")には、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に発売された『[REMIX MAN '95](../Page/REMIX_MAN_'95.md "wikilink")』とともに1枚のアルバムにまとめられ、[デジタル・リマスター版の](../Page/マスタリング.md "wikilink")『REMIX MAN+REMIX MAN '95』として再発売された。
 
 ## 収録曲
 

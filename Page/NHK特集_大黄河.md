@@ -5,9 +5,9 @@
 
 ## 大黄河
 
-1980年の[NHK特集](https://ja.wikipedia.org/wiki/NHK特集 "wikilink")『[シルクロード -絲綢之路-](https://ja.wikipedia.org/wiki/NHK特集_シルクロード "wikilink")』の成功を機に、1984年に日本と中国の間で放送協力協定が締結された。この頃から放送をめぐる日中の交流が活発になり、『シルクロード』に続く日中共同制作第2弾として制作されたのが本作である。また本作では、中国を取材したドキュメンタリー作品としては初めて[ハイビジョン](../Page/ハイビジョン.md "wikilink")による撮影が行われている。また、シリーズ開始前の[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[1月2日](../Page/1月2日.md "wikilink")にプレリュード版である『大黄河 悠久の旅』が放送されている。
+1980年の[NHK特集](https://ja.wikipedia.org/wiki/NHK特集 "wikilink")『[シルクロード -絲綢之路-](../Page/NHK特集_シルクロード.md "wikilink")』の成功を機に、1984年に日本と中国の間で放送協力協定が締結された。この頃から放送をめぐる日中の交流が活発になり、『シルクロード』に続く日中共同制作第2弾として制作されたのが本作である。また本作では、中国を取材したドキュメンタリー作品としては初めて[ハイビジョン](../Page/ハイビジョン.md "wikilink")による撮影が行われている。また、シリーズ開始前の[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[1月2日](../Page/1月2日.md "wikilink")にプレリュード版である『大黄河 悠久の旅』が放送されている。
 
-番組のナレーションは[緒形拳](https://ja.wikipedia.org/wiki/緒形拳 "wikilink")、音楽は[宗次郎](https://ja.wikipedia.org/wiki/宗次郎 "wikilink")が担当した。
+番組のナレーションは[緒形拳](../Page/緒形拳.md "wikilink")、音楽は[宗次郎](../Page/宗次郎.md "wikilink")が担当した。
 
 ## 大黄河悠久の旅
 
@@ -107,7 +107,7 @@
 ## 関連項目
 
   - [黄河](../Page/黄河.md "wikilink")
-  - [黄土高原](https://ja.wikipedia.org/wiki/黄土高原 "wikilink")
+  - [黄土高原](../Page/黄土高原.md "wikilink")
   - [黄河文明](../Page/黄河文明.md "wikilink")
   - [大黄河 (宗次郎のアルバム)](https://ja.wikipedia.org/wiki/大黄河_\(宗次郎のアルバム\) "wikilink")
 

@@ -1,9 +1,9 @@
 > この記事は[ \(THE BOOM\)](https://ja.wikipedia.org/wiki/_\(THE_BOOM\))から翻訳されています。
 
 
-**みちづれ**は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽](../Page/音楽.md "wikilink")グループである[THE BOOMが](https://ja.wikipedia.org/wiki/THE_BOOM "wikilink")[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")[11月21日](../Page/11月21日.md "wikilink")に発表した7thシングル。
+**みちづれ**は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽](../Page/音楽.md "wikilink")グループである[THE BOOMが](../Page/THE_BOOM.md "wikilink")[1991年](../Page/1991年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")に発表した7thシングル。
 
-この曲を最後に[1999年](../Page/1999年.md "wikilink")のシングル「[大阪でもまれた男](https://ja.wikipedia.org/wiki/大阪でもまれた男 "wikilink")」まで、THE BOOMとしてのスカは一切作られていない（理由は、[ブラジル音楽](../Page/ブラジル音楽.md "wikilink")などへの路線変更があったため。ソロとしては、「[ブラジル人](https://ja.wikipedia.org/wiki/ブラジル人 "wikilink")・イン・トーキョー」が発売されている）。ボーカルの[宮沢和史](https://ja.wikipedia.org/wiki/宮沢和史 "wikilink")は当時の雑誌インタビューで、「[カップリングの](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")『そばにいたい』の方が今のBOOMっぽい」と語っている。
+この曲を最後に[1999年](../Page/1999年.md "wikilink")のシングル「[大阪でもまれた男](../Page/大阪でもまれた男.md "wikilink")」まで、THE BOOMとしてのスカは一切作られていない（理由は、[ブラジル音楽](../Page/ブラジル音楽.md "wikilink")などへの路線変更があったため。ソロとしては、「[ブラジル人](https://ja.wikipedia.org/wiki/ブラジル人 "wikilink")・イン・トーキョー」が発売されている）。ボーカルの[宮沢和史](../Page/宮沢和史.md "wikilink")は当時の雑誌インタビューで、「[カップリングの](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")『そばにいたい』の方が今のBOOMっぽい」と語っている。
 
 ## 収録曲
 

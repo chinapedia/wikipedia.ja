@@ -15,11 +15,11 @@
 
 ### 多国語対応
 
-[今昔文字鏡](https://ja.wikipedia.org/wiki/今昔文字鏡 "wikilink")で用意されている多くの漢字フォントに対応しており、[超漢字](../Page/超漢字.md "wikilink")で使用されるTADや準TADデータの入出力にも対応している。その他、[SJIS](../Page/Shift_JIS.md "wikilink")、[EUC](../Page/EUC-JP.md "wikilink")、[JIS](../Page/JIS漢字コード.md "wikilink")、[Unicode](../Page/Unicode.md "wikilink")を始め、[バイナリ](../Page/バイナリ.md "wikilink")での編集にも対応している。内部処理にUnicodeを採用しているため、多国語文字の混在利用が可能となっている。
+[今昔文字鏡](../Page/今昔文字鏡.md "wikilink")で用意されている多くの漢字フォントに対応しており、[超漢字](../Page/超漢字.md "wikilink")で使用されるTADや準TADデータの入出力にも対応している。その他、[SJIS](../Page/Shift_JIS.md "wikilink")、[EUC](../Page/EUC-JP.md "wikilink")、[JIS](../Page/JIS漢字コード.md "wikilink")、[Unicode](../Page/Unicode.md "wikilink")を始め、[バイナリ](../Page/バイナリ.md "wikilink")での編集にも対応している。内部処理にUnicodeを採用しているため、多国語文字の混在利用が可能となっている。
 
 ### カスタマイズ
 
-柔軟な環境カスタマイズが提供されていると共に、[cshライクな](https://ja.wikipedia.org/wiki/C_Shell "wikilink")[マクロ言語](../Page/マクロ言語.md "wikilink")が用意されており、起動時のバッチ設定次第では、[秀丸エディタ](https://ja.wikipedia.org/wiki/秀丸エディタ "wikilink")、[MIFES](https://ja.wikipedia.org/wiki/MIFES "wikilink")、または[VZ Editorなどの他のテキストエディタ風の画面や操作性に類似させる事ができる](https://ja.wikipedia.org/wiki/VZ_Editor "wikilink")。このため、今まで使い慣れていた環境から、ユーザが移行する事が容易となっている。
+柔軟な環境カスタマイズが提供されていると共に、[cshライクな](../Page/C_Shell.md "wikilink")[マクロ言語](../Page/マクロ言語.md "wikilink")が用意されており、起動時のバッチ設定次第では、[秀丸エディタ](../Page/秀丸エディタ.md "wikilink")、[MIFES](../Page/MIFES.md "wikilink")、または[VZ Editorなどの他のテキストエディタ風の画面や操作性に類似させる事ができる](../Page/VZ_Editor.md "wikilink")。このため、今まで使い慣れていた環境から、ユーザが移行する事が容易となっている。
 
 ### 通信機能
 

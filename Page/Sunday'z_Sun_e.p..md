@@ -5,28 +5,28 @@
 
 ## 解説
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月6日](../Page/12月6日.md "wikilink")に発売された。初回プレス盤のみ光沢ジャケット仕様。
+[2006年](../Page/2006年.md "wikilink")[12月6日](../Page/12月6日.md "wikilink")に発売された。初回プレス盤のみ光沢ジャケット仕様。
 
-前作の「[Astaire e.p.](https://ja.wikipedia.org/wiki/Astaire_e.p. "wikilink")」の好セールスを受けて期待が高まったが、売上は全作品中最も低い。
+前作の「[Astaire e.p.](../Page/Astaire_e.p..md "wikilink")」の好セールスを受けて期待が高まったが、売上は全作品中最も低い。
 
 タイトル曲である「Sunday'z Sun」は、急遽シングルリリースが決定したため、それまで夏をイメージしていた歌詞をリリースの時期である冬をイメージしたものに書き直したり、露骨に書き表していた性描写もカットしたという。ちなみにタイトルはファミリーレストランの[サンデーサン](https://ja.wikipedia.org/wiki/サンデーサン "wikilink")から採っており、本人も高校卒業後にアルバイトをしていたことがあるという。
 
-カップリングには初のクリスマスソングである「U R My Christmas」の他、自身が敬愛するという作曲家の[都倉俊一](https://ja.wikipedia.org/wiki/都倉俊一 "wikilink")による作曲で[少女隊](https://ja.wikipedia.org/wiki/少女隊 "wikilink")のデビュー曲「[Forever](https://ja.wikipedia.org/wiki/FOREVER〜ギンガムチェックstory〜 "wikilink")」のカバーを収録している。
+カップリングには初のクリスマスソングである「U R My Christmas」の他、自身が敬愛するという作曲家の[都倉俊一](../Page/都倉俊一.md "wikilink")による作曲で[少女隊](../Page/少女隊.md "wikilink")のデビュー曲「[Forever](../Page/FOREVER〜ギンガムチェックstory〜.md "wikilink")」のカバーを収録している。
 
 ## 収録曲
 
 1.  Sunday'z Sun
       - 作詞・作曲：末光篤
-      - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[JAPAN COUNTDOWN](https://ja.wikipedia.org/wiki/JAPAN_COUNTDOWN "wikilink")』2006年12月度エンディングテーマ
-      - [ポケメロJOYSOUND](https://ja.wikipedia.org/wiki/エクシング "wikilink") CMソング
+      - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[JAPAN COUNTDOWN](../Page/JAPAN_COUNTDOWN.md "wikilink")』2006年12月度エンディングテーマ
+      - [ポケメロJOYSOUND](../Page/エクシング.md "wikilink") CMソング
 2.  U R My Christmas
       - 作詞・作曲：末光篤
 3.  Forever
-      - 作詞：[亜伊林](https://ja.wikipedia.org/wiki/三浦徳子 "wikilink")／作曲：[都倉俊一](https://ja.wikipedia.org/wiki/都倉俊一 "wikilink")
+      - 作詞：[亜伊林](../Page/三浦徳子.md "wikilink")／作曲：[都倉俊一](../Page/都倉俊一.md "wikilink")
 
 ## 関連項目
 
-  - [2006年の音楽](https://ja.wikipedia.org/wiki/2006年の音楽 "wikilink")
+  - [2006年の音楽](../Page/2006年の音楽.md "wikilink")
 
 ## 外部リンク
 

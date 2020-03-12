@@ -1,7 +1,7 @@
 > この記事は[ My sweet life](https://ja.wikipedia.org/wiki/_My_sweet_life)から翻訳されています。
 
 
-『**住まいの極意 〜My sweet life〜**』（すまいのごくい マイスイートライフ）は、[テレビ東京系列局ほかで放送された](https://ja.wikipedia.org/wiki/TXN "wikilink")[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")製作の[住宅](https://ja.wikipedia.org/wiki/住宅 "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。全76回。製作局のテレビ東京では[2004年](../Page/2004年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")から[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")まで、毎週土曜 18:30 - 19:00 ([JST](../Page/日本標準時.md "wikilink")) に放送。
+『**住まいの極意 〜My sweet life〜**』（すまいのごくい マイスイートライフ）は、[テレビ東京系列局ほかで放送された](https://ja.wikipedia.org/wiki/TXN "wikilink")[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")製作の[住宅](https://ja.wikipedia.org/wiki/住宅 "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。全76回。製作局のテレビ東京では[2004年](../Page/2004年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")まで、毎週土曜 18:30 - 19:00 ([JST](../Page/日本標準時.md "wikilink")) に放送。
 
 ## 概要
 

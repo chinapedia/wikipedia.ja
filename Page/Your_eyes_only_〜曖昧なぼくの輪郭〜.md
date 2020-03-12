@@ -5,7 +5,7 @@
 
 ## 概要
 
-きっかけは、フジテレビ月9ドラマ『[できちゃった結婚](../Page/できちゃった結婚_\(テレビドラマ\).md "wikilink")』の挿入歌を歌うことが決まっていた某アーティスト（明言されていない）が、何らかの事情で降りることになったからである\[1\]。当初、[HIROは](../Page/五十嵐広行.md "wikilink")[ATSUSHIを](https://ja.wikipedia.org/wiki/ATSUSHI_\(歌手\) "wikilink")[J Soul Brothersのボーカルとして加入させる予定だったが](https://ja.wikipedia.org/wiki/J_Soul_Brothers "wikilink")、本人の事情と関係のない部分でATSUSHIが参加出来なくなるという事態が発生する\[2\]。そんな中で、ボーカルを探していた時に[SHUNを見つけ](../Page/清木場俊介.md "wikilink")、ワンでいくか、ツインでいくか悩んだという\[3\]。その時期に、テレビ局と出版社と作曲を担当していた[Face 2 fAKEが後釜を探すために](https://ja.wikipedia.org/wiki/Face_2_fAKE "wikilink")、既に主題歌とサントラをリリースする事が決まっているavexならスムーズだと判断し、avexに声をかけたのが始まりであった\[4\]。こうして、avexから[J Soul Brothersが抜擢](https://ja.wikipedia.org/wiki/J_Soul_Brothers "wikilink")。急遽、ツイン・ヴォーカルで歌うための楽曲が作曲し直され、レコーディングされた\[5\]。
+きっかけは、フジテレビ月9ドラマ『[できちゃった結婚](../Page/できちゃった結婚_\(テレビドラマ\).md "wikilink")』の挿入歌を歌うことが決まっていた某アーティスト（明言されていない）が、何らかの事情で降りることになったからである\[1\]。当初、[HIROは](../Page/五十嵐広行.md "wikilink")[ATSUSHIを](https://ja.wikipedia.org/wiki/ATSUSHI_\(歌手\) "wikilink")[J Soul Brothersのボーカルとして加入させる予定だったが](https://ja.wikipedia.org/wiki/J_Soul_Brothers "wikilink")、本人の事情と関係のない部分でATSUSHIが参加出来なくなるという事態が発生する\[2\]。そんな中で、ボーカルを探していた時に[SHUNを見つけ](../Page/清木場俊介.md "wikilink")、ワンでいくか、ツインでいくか悩んだという\[3\]。その時期に、テレビ局と出版社と作曲を担当していた[Face 2 fAKEが後釜を探すために](../Page/Face_2_fAKE.md "wikilink")、既に主題歌とサントラをリリースする事が決まっているavexならスムーズだと判断し、avexに声をかけたのが始まりであった\[4\]。こうして、avexから[J Soul Brothersが抜擢](https://ja.wikipedia.org/wiki/J_Soul_Brothers "wikilink")。急遽、ツイン・ヴォーカルで歌うための楽曲が作曲し直され、レコーディングされた\[5\]。
 
 レコーディング前は、はっきりボーカルも決まっておらず、サントラとしては出すが、CDリリースに至るかどうかは分からない状況だった\[6\]。また、ATSUSHIとSHUNもレコーディングをするといきなり言われたため、レコーディングのノウハウが何も分からない状態だったという\[7\]。しかもお互い初対面。そういう状況の中でぶっつけ本番で、昼から翌朝までレコーディングしたという\[8\]。
 
@@ -23,7 +23,7 @@ EXILE第二章以降に発売されたシングル「[The Birthday 〜Ti Amo〜]
 
 1.  **Your eyes only 〜曖昧なぼくの輪郭〜**
       -
-        作詞：[Kenn Kato](https://ja.wikipedia.org/wiki/Kenn_Kato "wikilink") / 作曲・編曲：[Face 2 fAKE](https://ja.wikipedia.org/wiki/Face_2_fAKE "wikilink")
+        作詞：[Kenn Kato](https://ja.wikipedia.org/wiki/Kenn_Kato "wikilink") / 作曲・編曲：[Face 2 fAKE](../Page/Face_2_fAKE.md "wikilink")
 2.  **Your eyes only**
       - 表題曲の英語バージョン
       - フジテレビ系月9ドラマ『[できちゃった結婚](../Page/できちゃった結婚_\(テレビドラマ\).md "wikilink")』挿入歌
@@ -47,7 +47,7 @@ EXILE第二章以降に発売されたシングル「[The Birthday 〜Ti Amo〜]
 **Your eyes only 〜曖昧なぼくの輪郭〜**
 
   - [our style](https://ja.wikipedia.org/wiki/our_style "wikilink")（Your Eyes Only）
-  - [PERFECT BEST](https://ja.wikipedia.org/wiki/PERFECT_BEST_\(EXILEのアルバム\) "wikilink")
+  - [PERFECT BEST](../Page/PERFECT_BEST_\(EXILEのアルバム\).md "wikilink")
       - SINGLE BEST
   - [The Birthday 〜Ti Amo〜](https://ja.wikipedia.org/wiki/The_Birthday_〜Ti_Amo〜 "wikilink")（再録）
   - [EXILE BALLAD BEST](../Page/EXILE_BALLAD_BEST.md "wikilink")（再録）

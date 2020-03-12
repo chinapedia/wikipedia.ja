@@ -16,22 +16,22 @@
 全編曲：[渡辺善太郎](https://ja.wikipedia.org/wiki/渡辺善太郎 "wikilink")
 
 1.  **LOVE 2000** (4:25)
-    （作詞：hitomi、作曲：[鎌田雅人](https://ja.wikipedia.org/wiki/鎌田雅人 "wikilink")）
+    （作詞：hitomi、作曲：[鎌田雅人](../Page/鎌田雅人.md "wikilink")）
       - 日本テレビ系『[劇空間プロ野球2000](../Page/Fun!BASEBALL!!.md "wikilink")』6・7月度、日本シリーズ第2戦イメージソング
 2.  **REGRET** (4:29)
     （作詞：hitomi、作曲：渡辺善太郎）
 3.  **[アイドルを探せ](https://ja.wikipedia.org/wiki/アイドルを探せ_\(シルヴィ・ヴァルタンの曲\) "wikilink")** (3:15)
     （作詞：[シャルル・アズナブール](https://ja.wikipedia.org/wiki/シャルル・アズナブール "wikilink")、作曲：[ガーバレンツ・ジョルジュ](https://ja.wikipedia.org/wiki/ガーバレンツ・ジョルジュ "wikilink")）
-      - [シルヴィ・ヴァルタン](https://ja.wikipedia.org/wiki/シルヴィ・ヴァルタン "wikilink")が歌った[1963年](../Page/1963年.md "wikilink")の[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")映画『[アイドルを探せ](../Page/アイドルを探せ_\(1963年の映画\).md "wikilink")』の主題歌の[カバー](../Page/カバー.md "wikilink")。[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")。
+      - [シルヴィ・ヴァルタン](../Page/シルヴィ・ヴァルタン.md "wikilink")が歌った[1963年](../Page/1963年.md "wikilink")の[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")映画『[アイドルを探せ](../Page/アイドルを探せ_\(1963年の映画\).md "wikilink")』の主題歌の[カバー](../Page/カバー.md "wikilink")。[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")。
       - [資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")「TAPHY」CMソング
       - 歌詞カードには「**アイドルを探せ（LA PLUS BELLE POUR ALLER DANSER)**」と書かれている。
 4.  **destiny** (4:32)
     （作詞：hitomi、作曲：鎌田雅人）
-      - [朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")「[ガラスの地球を救え](https://ja.wikipedia.org/wiki/ガラスの地球を救え "wikilink")」イメージ・ソング
+      - [朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")「[ガラスの地球を救え](../Page/ガラスの地球を救え.md "wikilink")」イメージ・ソング
 
 ## 収録アルバム
 
-  - [LOVE LIFE](https://ja.wikipedia.org/wiki/LOVE_LIFE_\(hitomiのアルバム\) "wikilink") (\#1,2)
+  - [LOVE LIFE](../Page/LOVE_LIFE_\(hitomiのアルバム\).md "wikilink") (\#1,2)
   - [SELF PORTRAIT](../Page/SELF_PORTRAIT_\(hitomiのアルバム\).md "wikilink") (\#1)
   - [HTM〜TIARTROP FLES〜](https://ja.wikipedia.org/wiki/HTM〜TIARTROP_FLES〜 "wikilink") (\#3,4)
   - [peace](https://ja.wikipedia.org/wiki/peace_\(hitomiのアルバム\) "wikilink") (\#1)
@@ -54,10 +54,10 @@
 ## 関連項目
 
   - [高橋尚子](https://ja.wikipedia.org/wiki/高橋尚子 "wikilink")…上記参照。
-  - [鎌田雅人](https://ja.wikipedia.org/wiki/鎌田雅人 "wikilink")
+  - [鎌田雅人](../Page/鎌田雅人.md "wikilink")
   - [安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")…同じ年に、全く同じタイトルの曲（「[LOVE 2000](../Page/LOVE_2000_\(安室奈美恵の曲\).md "wikilink")」、但しラブニセンと読まず英語読みする）をリリースした。
-  - [八木真澄](../Page/八木真澄.md "wikilink")（[サバンナ](https://ja.wikipedia.org/wiki/サバンナ_\(お笑いコンビ\) "wikilink")）
-  - [2000年の音楽](https://ja.wikipedia.org/wiki/2000年の音楽 "wikilink")
+  - [八木真澄](../Page/八木真澄.md "wikilink")（[サバンナ](../Page/サバンナ_\(お笑いコンビ\).md "wikilink")）
+  - [2000年の音楽](../Page/2000年の音楽.md "wikilink")
 
 ## 外部リンク
 

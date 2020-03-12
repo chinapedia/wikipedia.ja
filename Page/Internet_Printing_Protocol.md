@@ -5,7 +5,7 @@
 
 通常のWebページの閲覧に使われる[HTTPを拡張した規格であり](../Page/Hypertext_Transfer_Protocol.md "wikilink")、[ルータ](https://ja.wikipedia.org/wiki/ルータ "wikilink")によって隔てられた遠隔地のプリンタに対しても印刷操作を行うことが可能である。また、HTTPの[認証](../Page/認証.md "wikilink")機構や、[TLSによるサーバ認証](../Page/Transport_Layer_Security.md "wikilink")、クライアント認証、および[暗号化](https://ja.wikipedia.org/wiki/暗号化 "wikilink")にも対応している。
 
-既存のプリンタを[イーサネット](../Page/イーサネット.md "wikilink")、[無線LAN](../Page/無線LAN.md "wikilink")等のネットワークに直接接続可能にする[プリントサーバ](../Page/プリントサーバ.md "wikilink")製品群では、[NetBEUI](https://ja.wikipedia.org/wiki/NetBEUI "wikilink")、[AppleTalk](https://ja.wikipedia.org/wiki/AppleTalk "wikilink")等の既存のプロトコルと併せてIPPにも対応したものが増えている。
+既存のプリンタを[イーサネット](../Page/イーサネット.md "wikilink")、[無線LAN](../Page/無線LAN.md "wikilink")等のネットワークに直接接続可能にする[プリントサーバ](../Page/プリントサーバ.md "wikilink")製品群では、[NetBEUI](../Page/NetBEUI.md "wikilink")、[AppleTalk](../Page/AppleTalk.md "wikilink")等の既存のプロトコルと併せてIPPにも対応したものが増えている。
 
 ## 関連RFC
 
@@ -20,7 +20,7 @@
 ## 関連項目
 
   - [プリントサーバ](../Page/プリントサーバ.md "wikilink")
-  - [CUPS](https://ja.wikipedia.org/wiki/Common_Unix_Printing_System "wikilink")
+  - [CUPS](../Page/Common_Unix_Printing_System.md "wikilink")
 
 ## 外部リンク
 

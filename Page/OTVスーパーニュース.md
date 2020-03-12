@@ -261,8 +261,8 @@
 
 ## 関連項目
 
-  - [FNN OTVニュース](https://ja.wikipedia.org/wiki/FNN_OTVニュース "wikilink")
-  - [OTVニュース](https://ja.wikipedia.org/wiki/OTVニュース "wikilink")
+  - [FNN OTVニュース](../Page/FNN_OTVニュース.md "wikilink")
+  - [OTVニュース](../Page/OTVニュース.md "wikilink")
   - [FNNスーパーニュース](../Page/FNNスーパーニュース.md "wikilink")
   - [FNNスーパーニュースWEEKEND](https://ja.wikipedia.org/wiki/FNNスーパーニュースWEEKEND "wikilink")
 

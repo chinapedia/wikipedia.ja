@@ -1,7 +1,7 @@
 > この記事は[MIC BANK](https://ja.wikipedia.org/wiki/MIC_BANK)から翻訳されています。
 
 
-**MIC BANK**（マイク・バンク）は、[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")を中心に活動する[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヒップホップ](../Page/ヒップホップ.md "wikilink")[グループ](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")。2人の[MCと](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")1人の[DJによって構成される](../Page/ディスクジョッキー.md "wikilink")。それぞれ別の地元のクラブなどで活動していた3人の偶発的出会いにより結成された。
+**MIC BANK**（マイク・バンク）は、[埼玉県](../Page/埼玉県.md "wikilink")を中心に活動する[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヒップホップ](../Page/ヒップホップ.md "wikilink")[グループ](../Page/音楽ユニット.md "wikilink")。2人の[MCと](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")1人の[DJによって構成される](../Page/ディスクジョッキー.md "wikilink")。それぞれ別の地元のクラブなどで活動していた3人の偶発的出会いにより結成された。
 
 ## 概要・来歴
 

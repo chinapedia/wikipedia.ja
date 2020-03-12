@@ -28,7 +28,7 @@
 <!-- end list -->
 
   - 粟村元(23)…[坂口憲二](https://ja.wikipedia.org/wiki/坂口憲二 "wikilink")
-  - 大伴洋輔(29)…[勝村政信](https://ja.wikipedia.org/wiki/勝村政信 "wikilink")
+  - 大伴洋輔(29)…[勝村政信](../Page/勝村政信.md "wikilink")
   - 吉田冬実(16)…[平山綾](https://ja.wikipedia.org/wiki/平山あや "wikilink")
 
 <!-- end list -->
@@ -75,11 +75,11 @@
 
 ## スタッフ
 
-  - 脚本：[神山由美子](https://ja.wikipedia.org/wiki/神山由美子 "wikilink")
-  - 演出：[木下高男](https://ja.wikipedia.org/wiki/木下高男 "wikilink")、[松田秀知](../Page/松田秀知.md "wikilink")
+  - 脚本：[神山由美子](../Page/神山由美子.md "wikilink")
+  - 演出：[木下高男](../Page/木下高男.md "wikilink")、[松田秀知](../Page/松田秀知.md "wikilink")
   - プロデューサー：[中山和記](https://ja.wikipedia.org/wiki/中山和記 "wikilink")
   - 編成：[長部聡介](https://ja.wikipedia.org/wiki/長部聡介 "wikilink")
-  - 音楽：[中西俊博](https://ja.wikipedia.org/wiki/中西俊博 "wikilink")
+  - 音楽：[中西俊博](../Page/中西俊博.md "wikilink")
   - 主題歌：[Time FellowShip](https://ja.wikipedia.org/wiki/Time_FellowShip "wikilink")「seed」
 
 ## 受賞歴
@@ -89,22 +89,22 @@
 
 ## 放送日程
 
-| 話数                                                                             | 放送年月日 | サブタイトル           | 視聴率                                   |
-| ------------------------------------------------------------------------------ | ----- | ---------------- | ------------------------------------- |
-| collection 1                                                                   | 7月4日  | ツヨクナリタイ          | <span style="color:red;">17.1%</span> |
-| collection 2                                                                   | 7月11日 | Ｔシャツメーク宣言！       | 15.5%                                 |
-| collection 3                                                                   | 7月18日 | 燃えるソウルへ！         | 13.5%                                 |
-| collection 4                                                                   | 7月25日 | 世界でたった一つのＴシャツ！   | 12.0%                                 |
-| collection 5                                                                   | 8月1日  | いやらしいキスをしたい      |                                       |
-| collection 6                                                                   | 8月8日  | キャバクラでバイト\!?     | 13.2%                                 |
-| collection 7                                                                   | 8月15日 | 私たちの店が潰される       |                                       |
-| collection 8                                                                   | 8月22日 | もう一生逢わない！サイテーの別れ | 12.2%                                 |
-| collection 9                                                                   | 8月29日 | 突然、不器用なキスされた！    | 11.7%                                 |
-| collection 10                                                                  | 9月5日  | それって私へのシタゴコロ？    | 12.3%                                 |
-| collection 11                                                                  | 9月12日 | 別れてはじめてわかった…愛してる | 14.5%                                 |
-| collection 12                                                                  | 9月19日 | サヨナラ…大切なヒト       | 12.2%                                 |
-| 平均視聴率13.2%（[ビデオリサーチ](https://ja.wikipedia.org/wiki/ビデオリサーチ "wikilink")調べ・関東地区） |       |                  |                                       |
-|                                                                                |       |                  |                                       |
+| 話数                                                          | 放送年月日 | サブタイトル           | 視聴率                                   |
+| ----------------------------------------------------------- | ----- | ---------------- | ------------------------------------- |
+| collection 1                                                | 7月4日  | ツヨクナリタイ          | <span style="color:red;">17.1%</span> |
+| collection 2                                                | 7月11日 | Ｔシャツメーク宣言！       | 15.5%                                 |
+| collection 3                                                | 7月18日 | 燃えるソウルへ！         | 13.5%                                 |
+| collection 4                                                | 7月25日 | 世界でたった一つのＴシャツ！   | 12.0%                                 |
+| collection 5                                                | 8月1日  | いやらしいキスをしたい      |                                       |
+| collection 6                                                | 8月8日  | キャバクラでバイト\!?     | 13.2%                                 |
+| collection 7                                                | 8月15日 | 私たちの店が潰される       |                                       |
+| collection 8                                                | 8月22日 | もう一生逢わない！サイテーの別れ | 12.2%                                 |
+| collection 9                                                | 8月29日 | 突然、不器用なキスされた！    | 11.7%                                 |
+| collection 10                                               | 9月5日  | それって私へのシタゴコロ？    | 12.3%                                 |
+| collection 11                                               | 9月12日 | 別れてはじめてわかった…愛してる | 14.5%                                 |
+| collection 12                                               | 9月19日 | サヨナラ…大切なヒト       | 12.2%                                 |
+| 平均視聴率13.2%（[ビデオリサーチ](../Page/ビデオリサーチ.md "wikilink")調べ・関東地区） |       |                  |                                       |
+|                                                             |       |                  |                                       |
 
 ## エピソード
 

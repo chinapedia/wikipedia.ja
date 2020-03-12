@@ -1,7 +1,7 @@
 > この記事は[SEED](https://ja.wikipedia.org/wiki/SEED)から翻訳されています。
 
 
-『**週刊レディオSEED**』（しゅうかんレディオシード）は、[1314 V-STATION](https://ja.wikipedia.org/wiki/1314_V-STATION "wikilink")（[ラジオ大阪](../Page/大阪放送.md "wikilink")）の製作により、[声優](../Page/声優.md "wikilink")の[豊口めぐみ](../Page/豊口めぐみ.md "wikilink")と、2週間交代のウィークリー[パーソナリティが務めた](../Page/ラジオパーソナリティ.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。2004年には『[機動戦士ガンダムSEED DESTINY](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_DESTINY "wikilink")』の放送に合わせ、『[週刊レディオSEED DESTINY](https://ja.wikipedia.org/wiki/週刊レディオSEED_DESTINY "wikilink")』が製作、放送された。
+『**週刊レディオSEED**』（しゅうかんレディオシード）は、[1314 V-STATION](../Page/1314_V-STATION.md "wikilink")（[ラジオ大阪](../Page/大阪放送.md "wikilink")）の製作により、[声優](../Page/声優.md "wikilink")の[豊口めぐみ](../Page/豊口めぐみ.md "wikilink")と、2週間交代のウィークリー[パーソナリティが務めた](../Page/ラジオパーソナリティ.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。2004年には『[機動戦士ガンダムSEED DESTINY](../Page/機動戦士ガンダムSEED_DESTINY.md "wikilink")』の放送に合わせ、『[週刊レディオSEED DESTINY](../Page/週刊レディオSEED_DESTINY.md "wikilink")』が製作、放送された。
 
 ## 番組概要
 
@@ -25,7 +25,7 @@
 
 （6月15日のラジオ大阪は、「Vステ 夏の陣'03」の為、休止。その代わり、6月22日に60分の特別番組「種まきカーニバル」が放送された。）
 
-  - 6月29日、7月6日：[白鳥哲](https://ja.wikipedia.org/wiki/白鳥哲 "wikilink")
+  - 6月29日、7月6日：[白鳥哲](../Page/白鳥哲.md "wikilink")
   - 7月13日、20日：[子安武人](../Page/子安武人.md "wikilink")
   - 7月27日、8月3日：[三石琴乃](../Page/三石琴乃.md "wikilink")
   - 8月10日、17日：進藤尚美、田中理恵

@@ -1,17 +1,17 @@
 > この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
 
 
-**ノッティンガム・フォレスト・フットボール・クラブ**（**Nottingham Forest Football Club**）は[イングランド](../Page/イングランド.md "wikilink")・[ノッティンガム](https://ja.wikipedia.org/wiki/ノッティンガム "wikilink")を本拠地とするサッカークラブである。
+**ノッティンガム・フォレスト・フットボール・クラブ**（**Nottingham Forest Football Club**）は[イングランド](../Page/イングランド.md "wikilink")・[ノッティンガム](../Page/ノッティンガム.md "wikilink")を本拠地とするサッカークラブである。
 
 [1979年](../Page/1979年.md "wikilink")、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")に[UEFAチャンピオンズカップ](../Page/UEFAチャンピオンズリーグ.md "wikilink")（現UEFAチャンピオンズリーグ）を二連覇した古豪。
 
 ## 概要
 
-現存するイングランドのプロクラブとしては、同じくノッティンガムを本拠地とする[ノッツ・カウンティに次いで二番目に古く](https://ja.wikipedia.org/wiki/ノッツ・カウンティFC "wikilink")、[ブライアン・クラフ](../Page/ブライアン・クラフ.md "wikilink")監督時代には[UEFAチャンピオンズカップ二連覇を果たした](../Page/UEFAチャンピオンズリーグ.md "wikilink")。
+現存するイングランドのプロクラブとしては、同じくノッティンガムを本拠地とする[ノッツ・カウンティに次いで二番目に古く](../Page/ノッツ・カウンティFC.md "wikilink")、[ブライアン・クラフ](../Page/ブライアン・クラフ.md "wikilink")監督時代には[UEFAチャンピオンズカップ二連覇を果たした](../Page/UEFAチャンピオンズリーグ.md "wikilink")。
 
-[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")シーズンにはリーグ初優勝を果たしている（これ以降[2016年](../Page/2016年.md "wikilink")に[レスター・シティが優勝するまでの](../Page/レスター・シティFC.md "wikilink")38年間初優勝チームはなかった）。[1981年](../Page/1981年.md "wikilink")2月に行われた第1回[トヨタカップのヨーロッパ代表で](../Page/インターコンチネンタルカップ_\(サッカー\).md "wikilink")、南米代表の[ナシオナル・モンテビデオ](../Page/ナシオナル・モンテビデオ.md "wikilink")と[国立競技場で対戦し敗れている](https://ja.wikipedia.org/wiki/国立霞ヶ丘陸上競技場 "wikilink")。
+[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")シーズンにはリーグ初優勝を果たしている（これ以降[2016年](../Page/2016年.md "wikilink")に[レスター・シティが優勝するまでの](../Page/レスター・シティFC.md "wikilink")38年間初優勝チームはなかった）。[1981年](../Page/1981年.md "wikilink")2月に行われた第1回[トヨタカップのヨーロッパ代表で](../Page/インターコンチネンタルカップ_\(サッカー\).md "wikilink")、南米代表の[ナシオナル・モンテビデオ](../Page/ナシオナル・モンテビデオ.md "wikilink")と[国立競技場で対戦し敗れている](../Page/国立霞ヶ丘陸上競技場.md "wikilink")。
 
-[1989年](../Page/1989年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink")に[ヒルズボロ・スタジアム](https://ja.wikipedia.org/wiki/ヒルズボロ・スタジアム "wikilink")で起きた[ヒルズボロの悲劇](../Page/ヒルズボロの悲劇.md "wikilink")と呼ばれる事故は、ノッティンガム・フォレストと[リヴァプールとの試合中に発生した](../Page/リヴァプールFC.md "wikilink")。
+[1989年](../Page/1989年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink")に[ヒルズボロ・スタジアム](../Page/ヒルズボロ・スタジアム.md "wikilink")で起きた[ヒルズボロの悲劇](../Page/ヒルズボロの悲劇.md "wikilink")と呼ばれる事故は、ノッティンガム・フォレストと[リヴァプールとの試合中に発生した](../Page/リヴァプールFC.md "wikilink")。
 
 ライバルのノッツ・カウンティのホームスタジアム、メドウ・レーンとシティ・グラウンドは[トレント川](https://ja.wikipedia.org/wiki/トレント川 "wikilink")の対岸同士で200メートルしか離れていない。
 
@@ -136,25 +136,25 @@
 
   - [ロイ・キーン](../Page/ロイ・キーン.md "wikilink") 1990-1993
 
-  - [テディ・シェリンガム](https://ja.wikipedia.org/wiki/テディ・シェリンガム "wikilink") 1991-1992
+  - [テディ・シェリンガム](../Page/テディ・シェリンガム.md "wikilink") 1991-1992
 
   - [スタン・コリーモア](https://ja.wikipedia.org/wiki/スタン・コリーモア "wikilink") 1993-1995
 
   - [マーロン・ヘアウッド](https://ja.wikipedia.org/wiki/マーロン・ヘアウッド "wikilink") 1996-2003, 2011-2012
 
-  - [ピエール・ファン・ホーイドンク](https://ja.wikipedia.org/wiki/ピエール・ファン・ホーイドンク "wikilink") 1997-1999
+  - [ピエール・ファン・ホーイドンク](../Page/ピエール・ファン・ホーイドンク.md "wikilink") 1997-1999
 
-  - [ショーン・ライト＝フィリップス](https://ja.wikipedia.org/wiki/ショーン・ライト＝フィリップス "wikilink") 1997-1998
+  - [ショーン・ライト＝フィリップス](../Page/ショーン・ライト＝フィリップス.md "wikilink") 1997-1998
 
   - [デイヴ・ビーサント](https://ja.wikipedia.org/wiki/デイヴ・ビーサント "wikilink") 1997-2001
 
   - [ジャーメイン・ジェナス](../Page/ジャーメイン・ジェナス.md "wikilink") 1999-2001
 
-  - [アンディ・リード](https://ja.wikipedia.org/wiki/アンディ・リード "wikilink") 1999-2005, 2011-
+  - [アンディ・リード](../Page/アンディ・リード.md "wikilink") 1999-2005, 2011-
 
-  - [ジョン・テリー](https://ja.wikipedia.org/wiki/ジョン・テリー "wikilink") 2000
+  - [ジョン・テリー](../Page/ジョン・テリー.md "wikilink") 2000
 
-  - [マイケル・ドーソン](https://ja.wikipedia.org/wiki/マイケル・ドーソン "wikilink") 2001-2005
+  - [マイケル・ドーソン](../Page/マイケル・ドーソン.md "wikilink") 2001-2005
 
   - [ロバート・アーンショウ](../Page/ロバート・アーンショウ.md "wikilink") 2008-2011
 

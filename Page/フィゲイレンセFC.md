@@ -1,7 +1,7 @@
 > この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
 
 
-**フィゲイレンセ** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[サンタカタリーナ州](https://ja.wikipedia.org/wiki/サンタカタリーナ州 "wikilink")[フロリアノーポリス](https://ja.wikipedia.org/wiki/フロリアノーポリス "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
+**フィゲイレンセ** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[サンタカタリーナ州](../Page/サンタカタリーナ州.md "wikilink")[フロリアノーポリス](https://ja.wikipedia.org/wiki/フロリアノーポリス "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
 
 クラブ名は「フィゲイラ出身」の意味で、近郊のフィゲイラという町でクラブが設立されたことに由来する。
 

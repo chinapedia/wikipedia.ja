@@ -1,11 +1,11 @@
 > この記事は[ICANBE](https://ja.wikipedia.org/wiki/ICANBE)から翻訳されています。
 
 
-**I・CAN・BE** （アイ・キャン・ビー）は[米米CLUB](../Page/米米CLUB.md "wikilink")のデビュー[シングル](../Page/シングル.md "wikilink")。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[10月21日](../Page/10月21日.md "wikilink")に[EPとして発売され](https://ja.wikipedia.org/wiki/レコード#レコードの諸形態 "wikilink")、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[3月21日](../Page/3月21日.md "wikilink")[シングル](../Page/シングル.md "wikilink")として再発された（ランキングデータは再発時のもの）。発売元はCBSソニーレコード（現[ソニー・ミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")）。
+**I・CAN・BE** （アイ・キャン・ビー）は[米米CLUB](../Page/米米CLUB.md "wikilink")のデビュー[シングル](../Page/シングル.md "wikilink")。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[10月21日](../Page/10月21日.md "wikilink")に[EPとして発売され](https://ja.wikipedia.org/wiki/レコード#レコードの諸形態 "wikilink")、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[3月21日](../Page/3月21日.md "wikilink")[シングル](../Page/シングル.md "wikilink")として再発された（ランキングデータは再発時のもの）。発売元はCBSソニーレコード（現[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")）。
 
 ## 解説
 
-[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[10月21日](../Page/10月21日.md "wikilink")に発売されたデビューアルバム「[シャリ・シャリズム](https://ja.wikipedia.org/wiki/シャリ・シャリズム "wikilink")」と同時発売となったデビューシングル。アルバム「シャリ・シャリズム」の他、1991年発売の6thアルバム「[K2C](https://ja.wikipedia.org/wiki/K2C_\(アルバム\) "wikilink")」には、[フュージョン調にアレンジされたリメイク版が収録されており](../Page/フュージョン_\(音楽\).md "wikilink")、このヴァージョンは[オートザム・AZ-3](https://ja.wikipedia.org/wiki/マツダ・AZ-3 "wikilink")（[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")）のCMソングにも起用された（「Sony By K2C」のテロップ表記あり）。デビュー曲ということもあって、各種の企画盤にも必ず収録されている。
+[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[10月21日](../Page/10月21日.md "wikilink")に発売されたデビューアルバム「[シャリ・シャリズム](https://ja.wikipedia.org/wiki/シャリ・シャリズム "wikilink")」と同時発売となったデビューシングル。アルバム「シャリ・シャリズム」の他、1991年発売の6thアルバム「[K2C](../Page/K2C_\(アルバム\).md "wikilink")」には、[フュージョン調にアレンジされたリメイク版が収録されており](../Page/フュージョン_\(音楽\).md "wikilink")、このヴァージョンは[オートザム・AZ-3](https://ja.wikipedia.org/wiki/マツダ・AZ-3 "wikilink")（[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")）のCMソングにも起用された（「Sony By K2C」のテロップ表記あり）。デビュー曲ということもあって、各種の企画盤にも必ず収録されている。
 
 恋人との別れを歌った切ないナンバーだが、タイトルの「I・CAN・BE」と歌い上げるフレーズが最後に「[あかんべえ](../Page/あかんべえ.md "wikilink")」に変わるなど、所謂「ソーリー曲」らしさも有するユニークな楽曲である。
 
@@ -30,17 +30,17 @@
 ### 収録曲
 
 1.  **I・CAN・BE**
-2.  **[Shake Hip\!](https://ja.wikipedia.org/wiki/Shake_Hip! "wikilink")**
+2.  **[Shake Hip\!](../Page/Shake_Hip!.md "wikilink")**
 
 ## 収録アルバム
 
   - I・CAN・BE
       -
         [シャリ・シャリズム](https://ja.wikipedia.org/wiki/シャリ・シャリズム "wikilink") (\#2)
-        [K2C](https://ja.wikipedia.org/wiki/K2C_\(アルバム\) "wikilink") (\#1) ※リメイクバージョンを収録
-        [DECADE](https://ja.wikipedia.org/wiki/DECADE_\(米米CLUBのアルバム\) "wikilink") (\#4) ※リミックスバージョンを収録
+        [K2C](../Page/K2C_\(アルバム\).md "wikilink") (\#1) ※リメイクバージョンを収録
+        [DECADE](../Page/DECADE_\(米米CLUBのアルバム\).md "wikilink") (\#4) ※リミックスバージョンを収録
         [HARVEST SINGLES 1985-1992](https://ja.wikipedia.org/wiki/HARVEST_SINGLES_1985-1992 "wikilink") (\#1)
-        [STAR BOX](https://ja.wikipedia.org/wiki/STAR_BOX_\(米米CLUBのアルバム\) "wikilink") (\#1) ※K2Cのリメイクバージョンを収録
+        [STAR BOX](../Page/STAR_BOX_\(米米CLUBのアルバム\).md "wikilink") (\#1) ※K2Cのリメイクバージョンを収録
         [米 〜Best of Best〜](../Page/米_〜Best_of_Best〜.md "wikilink") Disk1 (\#6)
   - Party Joke
       -

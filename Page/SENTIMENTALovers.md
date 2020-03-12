@@ -12,17 +12,17 @@
 
 ※シングル、カップリング曲の解説はそのページを参照。
 
-1.  **[思いがかさなるその前に…](https://ja.wikipedia.org/wiki/思いがかさなるその前に… "wikilink")**(5:34)
-      - 作詞・作曲：平井堅、編曲:[亀田誠治](https://ja.wikipedia.org/wiki/亀田誠治 "wikilink")
+1.  **[思いがかさなるその前に…](../Page/思いがかさなるその前に….md "wikilink")**(5:34)
+      - 作詞・作曲：平井堅、編曲:[亀田誠治](../Page/亀田誠治.md "wikilink")
       - 22ndシングル表題曲
 2.  **[jealousy](../Page/キミはともだち.md "wikilink")**(4:03)
       - 作詞:平井堅、作曲:YOSHIKA、編曲:OCTOPUSSY
       - 21stシングルカップリング
 3.  **言わない関係**(3:55)
-      - 作詞・作曲:平井堅、編曲:[中西康晴](https://ja.wikipedia.org/wiki/中西康晴 "wikilink")
+      - 作詞・作曲:平井堅、編曲:[中西康晴](../Page/中西康晴.md "wikilink")
 4.  **君が僕に憑依した\!\!**(4:22)
       - 作詞:平井堅、作曲・編曲:AKIRA
-5.  **[瞳をとじて](https://ja.wikipedia.org/wiki/瞳をとじて "wikilink")**(5:41)
+5.  **[瞳をとじて](../Page/瞳をとじて.md "wikilink")**(5:41)
       - 作詞・作曲:平井堅、編曲:亀田誠治
       - 20thシングル表題曲
 6.  **青春デイズ**(4:16)

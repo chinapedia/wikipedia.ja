@@ -1,7 +1,7 @@
 > この記事は[ClothClose !\?](https://ja.wikipedia.org/wiki/ClothClose_!\?)から翻訳されています。
 
 
-『**Cloth×Close 〜ボクがくぃ〜ん\!?〜**』（クロース クロース - ）は[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月14日](../Page/7月14日.md "wikilink")に[Catear](../Page/Catear.md "wikilink")（カティア）から発売された[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")である。発売元によるジャンルは「学園美女装アドベンチャー」。
+『**Cloth×Close 〜ボクがくぃ〜ん\!?〜**』（クロース クロース - ）は[2006年](../Page/2006年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink")に[Catear](../Page/Catear.md "wikilink")（カティア）から発売された[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")である。発売元によるジャンルは「学園美女装アドベンチャー」。
 
 登場人物は全員男性であるため[BLゲームに分類されてもおかしくなかったが](../Page/ボーイズラブゲーム.md "wikilink")、[美少女ゲームアワードに強行出場し](https://ja.wikipedia.org/wiki/萌えゲーアワード "wikilink")、上位に進出した。
 

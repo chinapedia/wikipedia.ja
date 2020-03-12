@@ -1,19 +1,19 @@
 > この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
 
 
-|死没日 =  |死没地 = |最終学歴 = |配偶者 = グレナ・ピーターソン |両親 = 母、グレース・マーティーニ{{-}}父、ヘンリー・マーティーニ |子供 = |専門分野 = [内燃機関](../Page/内燃機関.md "wikilink"){{-}}[音響工学](https://ja.wikipedia.org/wiki/音響工学 "wikilink") |所属機関 = |勤務先 = |雇用者 = [JBL](https://ja.wikipedia.org/wiki/JBL_\(企業\) "wikilink"){{-}}[アルテック](../Page/アルテック_\(音響機器\).md "wikilink") |プロジェクト = |設計 = [スピーカー](../Page/スピーカー.md "wikilink") |成果 = |受賞歴 = [映画芸術科学アカデミー](../Page/映画芸術科学アカデミー.md "wikilink") |署名 = }} **ジェームス・バロー・ランシング**（ 、[1902年](../Page/1902年.md "wikilink")[1月14日](../Page/1月14日.md "wikilink") - [1949年](../Page/1949年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink")）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[スピーカー](../Page/スピーカー.md "wikilink")の開発技術者であり、[JBLを創設した人物である](https://ja.wikipedia.org/wiki/JBL_\(企業\) "wikilink")。一時期は[アルテックランシングの](../Page/アルテック_\(音響機器\).md "wikilink")[技術副社長だった](../Page/最高技術責任者.md "wikilink")。技術者としては優秀であったが、経営者としての能力には恵まれず、事業の悪化に伴い[1949年](../Page/1949年.md "wikilink")に自殺してしまった。
+|死没日 =  |死没地 = |最終学歴 = |配偶者 = グレナ・ピーターソン |両親 = 母、グレース・マーティーニ{{-}}父、ヘンリー・マーティーニ |子供 = |専門分野 = [内燃機関](../Page/内燃機関.md "wikilink"){{-}}[音響工学](https://ja.wikipedia.org/wiki/音響工学 "wikilink") |所属機関 = |勤務先 = |雇用者 = [JBL](../Page/JBL_\(企業\).md "wikilink"){{-}}[アルテック](../Page/アルテック_\(音響機器\).md "wikilink") |プロジェクト = |設計 = [スピーカー](../Page/スピーカー.md "wikilink") |成果 = |受賞歴 = [映画芸術科学アカデミー](../Page/映画芸術科学アカデミー.md "wikilink") |署名 = }} **ジェームス・バロー・ランシング**（ 、[1902年](../Page/1902年.md "wikilink")[1月14日](../Page/1月14日.md "wikilink") - [1949年](../Page/1949年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink")）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[スピーカー](../Page/スピーカー.md "wikilink")の開発技術者であり、[JBLを創設した人物である](../Page/JBL_\(企業\).md "wikilink")。一時期は[アルテックランシングの](../Page/アルテック_\(音響機器\).md "wikilink")[技術副社長だった](../Page/最高技術責任者.md "wikilink")。技術者としては優秀であったが、経営者としての能力には恵まれず、事業の悪化に伴い[1949年](../Page/1949年.md "wikilink")に自殺してしまった。
 
 ## 来歴
 
-1902年、[イリノイ州](../Page/イリノイ州.md "wikilink"){{・}}でジェームス・マーティーニ  として生まれ、後にジェームス・B・ランシングと名のった。 少年時代は[ライデン瓶](https://ja.wikipedia.org/wiki/ライデン瓶 "wikilink")を製作するなど電気や機械に興味を抱き、[無線機](https://ja.wikipedia.org/wiki/無線機 "wikilink")を組み立てて[アマチュア無線](https://ja.wikipedia.org/wiki/アマチュア無線 "wikilink")を楽しむなど[電子工作](https://ja.wikipedia.org/wiki/電子工作 "wikilink")に没頭した。
+1902年、[イリノイ州](../Page/イリノイ州.md "wikilink"){{・}}でジェームス・マーティーニ  として生まれ、後にジェームス・B・ランシングと名のった。 少年時代は[ライデン瓶](../Page/ライデン瓶.md "wikilink")を製作するなど電気や機械に興味を抱き、[無線機](https://ja.wikipedia.org/wiki/無線機 "wikilink")を組み立てて[アマチュア無線](https://ja.wikipedia.org/wiki/アマチュア無線 "wikilink")を楽しむなど[電子工作](../Page/電子工作.md "wikilink")に没頭した。
 
-[イリノイ州スプリングフィールドにあるビジネスカレッジを卒業後](https://ja.wikipedia.org/wiki/スプリングフィールド_\(イリノイ州\) "wikilink")、自動車店に就職した。自動車店主の薦めで[デトロイト](../Page/デトロイト.md "wikilink")にある自動車修理学校に通った。
+[イリノイ州スプリングフィールドにあるビジネスカレッジを卒業後](../Page/スプリングフィールド_\(イリノイ州\).md "wikilink")、自動車店に就職した。自動車店主の薦めで[デトロイト](../Page/デトロイト.md "wikilink")にある自動車修理学校に通った。
 
 ### ランシング・マニュファクチュアリング
 
 1924年から1927年まで、[ソルトレークシティ](https://ja.wikipedia.org/wiki/ソルトレークシティ "wikilink")のラジオ局で技師として勤務し、そのた経験からラジオ受信機のスピーカーを改良することを構想し研究を行なった。この頃ジェームス・B・ランシングと名のるようになった。1927年、スピーカー研究に目処を付けたランシングは、ケン・デッカーとともにJBLの前身となるランシング・マニュファクチュアリングを設立した。
 
-1934年、[メトロ・ゴールドウィン・メイヤー](https://ja.wikipedia.org/wiki/メトロ・ゴールドウィン・メイヤー "wikilink")よりMGMシャラーホーン・システムの設計・製作を受託し、映画芸術科学アカデミー賞を受賞した。
+1934年、[メトロ・ゴールドウィン・メイヤー](../Page/メトロ・ゴールドウィン・メイヤー.md "wikilink")よりMGMシャラーホーン・システムの設計・製作を受託し、映画芸術科学アカデミー賞を受賞した。
 
 ### アルテック・ランシング
 

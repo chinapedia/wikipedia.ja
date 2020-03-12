@@ -8,10 +8,10 @@
 [2003年](../Page/2003年.md "wikilink")、[岡山](../Page/岡山.md "wikilink")にて結成。現在は拠点を[東京](../Page/東京.md "wikilink")としている。
 絶妙に静と動の入り乱れたメロディーラインを、拾い上げるようなリズムが包み込む楽曲で、各方面より高い評価を受ける。
 バンド名の由来は、「演奏しているけど、楽譜には載らない音という意味の『ゴースト』と『ノート』という2つの音楽用語から、気持ちとか目に見えないものもお客さんに伝えていきたいという思いを込めて付けた」との事。
-[アナログフィッシュ](../Page/アナログフィッシュ.md "wikilink")や[LOST IN TIME](https://ja.wikipedia.org/wiki/LOST_IN_TIME "wikilink")、[キャプテンストライダム](https://ja.wikipedia.org/wiki/キャプテンストライダム "wikilink")などから、彼らの[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")でのライブの際に[対バン](https://ja.wikipedia.org/wiki/対バン "wikilink")をリクエストされる。岡山での初ワンマンライブでは、約180人を動員した。
+[アナログフィッシュ](../Page/アナログフィッシュ.md "wikilink")や[LOST IN TIME](../Page/LOST_IN_TIME.md "wikilink")、[キャプテンストライダム](https://ja.wikipedia.org/wiki/キャプテンストライダム "wikilink")などから、彼らの[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")でのライブの際に[対バン](https://ja.wikipedia.org/wiki/対バン "wikilink")をリクエストされる。岡山での初ワンマンライブでは、約180人を動員した。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、自主制作盤「一等賞は赤のリボン」をリリース。50日間に及び全国30本を回る「きもちはつたわる」ツアーを実施。
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[2月8日](../Page/2月8日.md "wikilink")に初の全国流通盤として、1stアルバム「初対面」リリース。同年[6月](../Page/6月.md "wikilink")から[日本工学院のCMソングとして使用されていた楽曲](https://ja.wikipedia.org/wiki/日本工学院専門学校 "wikilink")、「スタート」収録の2ndアルバム「すばらしき世界」が[11月8日](../Page/11月8日.md "wikilink")にリリースされる\[1\]。
+[2005年](../Page/2005年.md "wikilink")、自主制作盤「一等賞は赤のリボン」をリリース。50日間に及び全国30本を回る「きもちはつたわる」ツアーを実施。
+[2006年](../Page/2006年.md "wikilink")[2月8日](../Page/2月8日.md "wikilink")に初の全国流通盤として、1stアルバム「初対面」リリース。同年[6月](../Page/6月.md "wikilink")から[日本工学院のCMソングとして使用されていた楽曲](../Page/日本工学院専門学校.md "wikilink")、「スタート」収録の2ndアルバム「すばらしき世界」が[11月8日](../Page/11月8日.md "wikilink")にリリースされる\[1\]。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")、[SME Recordsよりメジャーデビュー](https://ja.wikipedia.org/wiki/SME_Records "wikilink")。同年[9月](../Page/9月.md "wikilink")リリースの2ndシングル「[精一杯、僕らの歌](https://ja.wikipedia.org/wiki/精一杯、僕らの歌 "wikilink")」が[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系ドラマ『[ウォーキン☆バタフライ](https://ja.wikipedia.org/wiki/ウォーキン☆バタフライ "wikilink")』オープニングテーマと、映画『[フライング☆ラビッツ](../Page/フライング☆ラビッツ.md "wikilink")』挿入歌のダブルタイアップとして抜擢。
 同年[11月](../Page/11月.md "wikilink")リリースの3rdシングル「[I、愛、会い](https://ja.wikipedia.org/wiki/I、愛、会い "wikilink")」がテレビ東京系アニメ『[銀魂](https://ja.wikipedia.org/wiki/銀魂 "wikilink")』エンディングテーマとして起用される\[2\]\[3\]\[4\]\[5\]。同作はオリコンウィークリーチャート初登場18位を記録。
@@ -52,7 +52,7 @@
 <!-- end list -->
 
   - **鈴木諒介**（すずきりょうすけ、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[8月8日](../Page/8月8日.md "wikilink")-）
-      - [ギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")、[コーラス担当](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[目黒区](https://ja.wikipedia.org/wiki/目黒区 "wikilink")出身
+      - [ギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")、[コーラス担当](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。[東京都](../Page/東京都.md "wikilink")[目黒区](https://ja.wikipedia.org/wiki/目黒区 "wikilink")出身
       - 2013年よりサポートギターとして参加。2014年7月6日、渋谷O-CRESTワンマンにてghostnoteへの正式加入を発表。
 
 ## ディスコグラフィー
@@ -144,7 +144,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/2月8日.md" title="wikilink">2月8日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/2月8日.md" title="wikilink">2月8日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/初対面" title="wikilink">初対面</a></strong></p></td>
 <td><p>BSRD-001</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -167,7 +167,7 @@
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/11月8日.md" title="wikilink">11月8日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/11月8日.md" title="wikilink">11月8日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/素晴らしき世界" title="wikilink">素晴らしき世界</a></strong></p></td>
 <td><p>BSRD-002</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -540,7 +540,7 @@ UPCH-1822(通常盤)</p></td>
 <li>輝いた / <a href="../Page/シギ_(歌手).md" title="wikilink">シギ</a></li>
 <li>Stairway Generation / <a href="../Page/Base_Ball_Bear.md" title="wikilink">Base Ball Bear</a></li>
 <li>朝ANSWER / <a href="https://ja.wikipedia.org/wiki/PENGIN" title="wikilink">PENGIN</a></li>
-<li>ウォーアイニー / <a href="https://ja.wikipedia.org/wiki/高橋瞳" title="wikilink">高橋瞳</a>×<a href="https://ja.wikipedia.org/wiki/BEAT_CRUSADERS" title="wikilink">BEAT CRUSADERS</a></li>
+<li>ウォーアイニー / <a href="../Page/高橋瞳.md" title="wikilink">高橋瞳</a>×<a href="../Page/BEAT_CRUSADERS.md" title="wikilink">BEAT CRUSADERS</a></li>
 <li>Light Infection / <a href="https://ja.wikipedia.org/wiki/Prague" title="wikilink">Prague</a></li>
 <li>ワンダフルデイズ / <a href="../Page/ONE☆DRAFT.md" title="wikilink">ONE☆DRAFT</a></li>
 <li>サヨナラの空 / <a href="https://ja.wikipedia.org/wiki/Qwai" title="wikilink">Qwai</a></li>

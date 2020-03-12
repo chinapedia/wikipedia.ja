@@ -7,7 +7,7 @@
 
 ## メンバー
 
-  - [岡本定義](https://ja.wikipedia.org/wiki/岡本定義 "wikilink") - 1965年7月27日生まれ。実弟は元[いんぐりもんぐり](../Page/いんぐりもんぐり.md "wikilink")のベーシスト、岡本誠司。デビュー時の名前は「オカモト・OK・サダヨシ」だったが、2001年頃現在の名前に変更。
+  - [岡本定義](../Page/岡本定義.md "wikilink") - 1965年7月27日生まれ。実弟は元[いんぐりもんぐり](../Page/いんぐりもんぐり.md "wikilink")のベーシスト、岡本誠司。デビュー時の名前は「オカモト・OK・サダヨシ」だったが、2001年頃現在の名前に変更。
   - [佐藤洋介](https://ja.wikipedia.org/wiki/佐藤洋介 "wikilink") - 1967年12月25日生まれ。現在は療養のためライブ活動を休止（2008年7月26日オーガスタキャンプ in 西武ドームから現在まで）し、レコーディングエンジニアとしての活動を主としている。しかし2014年5月上旬頃、「一回リセットしようと思う」と、COILからの脱退を表明した。\[1\]
 
 ## ディスコグラフィー
@@ -639,7 +639,7 @@
 </tr>
 <tr class="odd">
 <td><p>6th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/10月5日.md" title="wikilink">10月5日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/10月5日.md" title="wikilink">10月5日</a></p></td>
 <td><p><strong>CINEMA</strong></p></td>
 </tr>
 <tr class="even">
@@ -1569,10 +1569,10 @@
 <ol>
 <li>Good Day Afternoon (原曲：<a href="https://ja.wikipedia.org/wiki/Chappie" title="wikilink">Chappie</a>)</li>
 <li>ザルで水くむ恋心 (原曲：<a href="../Page/森高千里.md" title="wikilink">森高千里</a>)</li>
-<li>イコール ゼロ (原曲：<a href="https://ja.wikipedia.org/wiki/杏子_(ミュージシャン)" title="wikilink">杏子</a>)</li>
+<li>イコール ゼロ (原曲：<a href="../Page/杏子_(ミュージシャン).md" title="wikilink">杏子</a>)</li>
 <li>ハミングバード (原曲：<a href="https://ja.wikipedia.org/wiki/元ちとせ" title="wikilink">元ちとせ</a>)</li>
 <li>やわらかな旋律 (原曲：<a href="https://ja.wikipedia.org/wiki/bird" title="wikilink">bird</a>)</li>
-<li><a href="https://ja.wikipedia.org/wiki/DANCE_BABY_DANCE/夏はこれからだ!" title="wikilink">夏はこれからだ!</a> (原曲：<a href="https://ja.wikipedia.org/wiki/福耳_(音楽)" title="wikilink">福耳</a>)</li>
+<li><a href="https://ja.wikipedia.org/wiki/DANCE_BABY_DANCE/夏はこれからだ!" title="wikilink">夏はこれからだ!</a> (原曲：<a href="../Page/福耳_(音楽).md" title="wikilink">福耳</a>)</li>
 <li>ハイブリッド 愛(ラヴ) (原曲：杏子)</li>
 <li><a href="../Page/あなたがここにいてほしい.md" title="wikilink">あなたがここにいてほしい</a> (原曲：元ちとせ)</li>
 </ol>
@@ -1600,8 +1600,8 @@
 ## 映画音楽
 
   - [初恋](../Page/初恋_\(2006年の映画\).md "wikilink")（2006年）
-  - [ボーイ・ミーツ・プサン](https://ja.wikipedia.org/wiki/ボーイ・ミーツ・プサン "wikilink")（2006年）
-  - [死にゆく妻との旅路](https://ja.wikipedia.org/wiki/死にゆく妻との旅路 "wikilink")（2011年）[岡本定義](https://ja.wikipedia.org/wiki/岡本定義 "wikilink")として参加
+  - [ボーイ・ミーツ・プサン](../Page/ボーイ・ミーツ・プサン.md "wikilink")（2006年）
+  - [死にゆく妻との旅路](https://ja.wikipedia.org/wiki/死にゆく妻との旅路 "wikilink")（2011年）[岡本定義](../Page/岡本定義.md "wikilink")として参加
 
 ## CM音楽
 
@@ -1612,7 +1612,7 @@
   - [森高千里](../Page/森高千里.md "wikilink") Album "[Sava Sava](https://ja.wikipedia.org/wiki/Sava_Sava "wikilink")"（1998年9月9日）
       -
         「ザルで水くむ恋心」作詞：森高千里　作曲：COIL　編曲：COIL
-  - [杏子](https://ja.wikipedia.org/wiki/杏子_\(ミュージシャン\) "wikilink") Album "BLACKTHORN CIDER"（1999年3月3日）
+  - [杏子](../Page/杏子_\(ミュージシャン\).md "wikilink") Album "BLACKTHORN CIDER"（1999年3月3日）
       -
         「イコール・ゼロ」作詞：杏子　作曲：COIL　編曲：COIL
   - [Chappie](https://ja.wikipedia.org/wiki/Chappie "wikilink") maxi single "Good Day Afternoon"（1999年5月5日）
@@ -1634,7 +1634,7 @@
   - [元ちとせ](https://ja.wikipedia.org/wiki/元ちとせ "wikilink") maxi Single "[ワダツミの木](../Page/ワダツミの木.md "wikilink")"（2002年2月6日）
       -
         「幻の月」作詞：オカモトサダヨシ　作曲：オカモトサダヨシ
-  - [福耳](https://ja.wikipedia.org/wiki/福耳_\(音楽\) "wikilink") maxi Single "[SUMMER of LOVE](https://ja.wikipedia.org/wiki/SUMMER_of_LOVE "wikilink")"（2003年7月23日）
+  - [福耳](../Page/福耳_\(音楽\).md "wikilink") maxi Single "[SUMMER of LOVE](https://ja.wikipedia.org/wiki/SUMMER_of_LOVE "wikilink")"（2003年7月23日）
       -
         「SUMMER of LOVE」作詞：谷穂ちろる　作曲：佐藤洋介
   - [bird](https://ja.wikipedia.org/wiki/bird_\(日本の歌手\) "wikilink") Album "vacation"（2004年9月23日）
@@ -1662,7 +1662,7 @@
       -
         「DANCE BABY DANCE」作詞：岡本定義　作曲：岡本定義　編曲：岡本定義
         「夏はこれからだ！」作詞：岡本定義・MICRON' STUFF　作曲：岡本定義　編曲：岡本定義
-  - [Leyona](https://ja.wikipedia.org/wiki/Leyona "wikilink") Album "PACTHWORK"（2010年3月17日）
+  - [Leyona](../Page/Leyona.md "wikilink") Album "PACTHWORK"（2010年3月17日）
       -
         「愛と微笑みと花」作詞：岡本定義　作曲：岡本定義
   - bird Album "NEW BASIC"（2011年5月25日）
@@ -1671,9 +1671,9 @@
 
 ## 参加作品
 
-  - [DEATH NOTE TRIBUTE](https://ja.wikipedia.org/wiki/DEATH_NOTE_TRIBUTE "wikilink")（2006年6月21日）
+  - [DEATH NOTE TRIBUTE](../Page/DEATH_NOTE_TRIBUTE.md "wikilink")（2006年6月21日）
       -
-        7.アヴァンギャルド（COIL feat.[杏子](https://ja.wikipedia.org/wiki/杏子_\(ミュージシャン\) "wikilink")）
+        7.アヴァンギャルド（COIL feat.[杏子](../Page/杏子_\(ミュージシャン\).md "wikilink")）
   - [HOME〜山崎まさよしトリビュート〜](https://ja.wikipedia.org/wiki/HOME〜山崎まさよしトリビュート〜 "wikilink")（2010年9月29日）
       -
         7.水のない水槽 / 岡本定義(COIL)
@@ -1681,7 +1681,7 @@
   - [OK\!\!\! C'MON CHABO\!\!\!](https://ja.wikipedia.org/wiki/OK!!!_C'MON_CHABO!!! "wikilink")（2011年2月23日）
       -
         7.ホームタウン／さだまさよし（岡本定義 from COIL+山崎まさよし）
-  - [福耳 (音楽)](https://ja.wikipedia.org/wiki/福耳_\(音楽\) "wikilink")
+  - [福耳 (音楽)](../Page/福耳_\(音楽\).md "wikilink")
 
 ## 書籍
 
@@ -1693,7 +1693,7 @@
 | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **監督**                                                           | **曲名**                                                                                                                                                                                                                                                                                                                                                                   |
 | [太田裕司](https://ja.wikipedia.org/wiki/太田裕司 "wikilink")            | 「[カウンセリング&メンテナンス](https://www.youtube.com/watch?v=jAxzd_vX8ZI)」                                                                                                                                                                                                                                                                                                          |
-| [岡本定義](https://ja.wikipedia.org/wiki/岡本定義 "wikilink")            | 「[最初の虹](https://www.youtube.com/watch?v=oQZ7KrUfS0Y)」                                                                                                                                                                                                                                                                                                                    |
+| [岡本定義](../Page/岡本定義.md "wikilink")                               | 「[最初の虹](https://www.youtube.com/watch?v=oQZ7KrUfS0Y)」                                                                                                                                                                                                                                                                                                                    |
 | [北山大介](https://ja.wikipedia.org/wiki/北山大介 "wikilink")            | 「MUSIC」                                                                                                                                                                                                                                                                                                                                                                  |
 | [Form](https://ja.wikipedia.org/wiki/Form "wikilink")            | 「[Loveless](https://www.youtube.com/watch?v=KGbFhp7rnmg)」                                                                                                                                                                                                                                                                                                                |
 | [守屋健太郎](https://ja.wikipedia.org/wiki/守屋健太郎 "wikilink")          | 「[裸のランチ](https://www.youtube.com/watch?v=AMm5VY6HVOM)」                                                                                                                                                                                                                                                                                                                   |
@@ -1714,14 +1714,14 @@
   - 1999年08月〜09月 - [山崎まさよし](https://ja.wikipedia.org/wiki/山崎まさよし "wikilink")"YMAC99" Yamazaki Masayoshi in Augusta Camp 1999
   - 2000年08月20日 - [J-WAVE LIVE](https://ja.wikipedia.org/wiki/J-WAVE_LIVE "wikilink") 2000
   - 2001年〜2011年 - Augusta Camp
-  - 2013年07月27日 - [Sukimaswitch in Augusta Camp 2013 ～Sukimaswitch 10th Anniversary～](https://ja.wikipedia.org/wiki/スキマスイッチ "wikilink")
+  - 2013年07月27日 - [Sukimaswitch in Augusta Camp 2013 ～Sukimaswitch 10th Anniversary～](../Page/スキマスイッチ.md "wikilink")
   - 2015年09月26日 - YAMAZAKI MASAYOSHI in Augusta Camp 2015～20th Anniversary～
 
 ## 関連項目
 
   - [オフィスオーガスタ](../Page/オフィスオーガスタ.md "wikilink")
-  - [テイチクエンタテインメント](https://ja.wikipedia.org/wiki/テイチクエンタテインメント "wikilink")
-  - [杏子](https://ja.wikipedia.org/wiki/杏子_\(ミュージシャン\) "wikilink")
+  - [テイチクエンタテインメント](../Page/テイチクエンタテインメント.md "wikilink")
+  - [杏子](../Page/杏子_\(ミュージシャン\).md "wikilink")
 
 ## 外部リンク
 

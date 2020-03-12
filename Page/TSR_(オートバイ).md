@@ -11,24 +11,24 @@
 
 ## レース活動
 
-1980年代から1990年代にかけて**テクニカルスポーツ**のチーム名で、[ホンダ系の有力](../Page/本田技研工業.md "wikilink")[プライベーター](https://ja.wikipedia.org/wiki/プライベーター "wikilink")として[全日本ロードレース選手権](https://ja.wikipedia.org/wiki/全日本ロードレース選手権 "wikilink")、[鈴鹿8時間耐久ロードレース](https://ja.wikipedia.org/wiki/鈴鹿8時間耐久ロードレース "wikilink")に参戦。[2002年](../Page/2002年.md "wikilink")までは[ロードレース世界選手権](../Page/ロードレース世界選手権.md "wikilink")を主戦場としていた。オリジナル[フレームのGPマシンを製作したり](../Page/フレーム_\(オートバイ\).md "wikilink")[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")の鈴鹿8耐で総合優勝するなどレーシングチームとしてのレベルは高い。
+1980年代から1990年代にかけて**テクニカルスポーツ**のチーム名で、[ホンダ系の有力](../Page/本田技研工業.md "wikilink")[プライベーター](https://ja.wikipedia.org/wiki/プライベーター "wikilink")として[全日本ロードレース選手権](../Page/全日本ロードレース選手権.md "wikilink")、[鈴鹿8時間耐久ロードレース](../Page/鈴鹿8時間耐久ロードレース.md "wikilink")に参戦。[2002年](../Page/2002年.md "wikilink")までは[ロードレース世界選手権](../Page/ロードレース世界選手権.md "wikilink")を主戦場としていた。オリジナル[フレームのGPマシンを製作したり](../Page/フレーム_\(オートバイ\).md "wikilink")[2006年](../Page/2006年.md "wikilink")の鈴鹿8耐で総合優勝するなどレーシングチームとしてのレベルは高い。
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")より[MotoGPのMoto](../Page/ロードレース世界選手権.md "wikilink")2クラスにおいてフレームビルダーとして[JiR](https://ja.wikipedia.org/wiki/JiR "wikilink")チームにフレームを供給し（ビルダーとしての登録名はモトビとなっている）、[アレックス・デ・アンジェリス](https://ja.wikipedia.org/wiki/アレックス・デ・アンジェリス "wikilink")が勝利を挙げている。また日本グランプリには自社でスポット参戦している。[2012年](../Page/2012年.md "wikilink")からはMoto3クラスのテクノマグCIPチームに所属ライダーの[藤井謙汰](https://ja.wikipedia.org/wiki/藤井謙汰 "wikilink")と共に参加し、Technomag-CIP-TSR としてレーサーを提供する。
 
 [2016年](../Page/2016年.md "wikilink")からレース活動の主軸を[FIM世界耐久選手権](../Page/FIM世界耐久選手権.md "wikilink")へ置く。2017-2018シーズンはルマン24時間耐久ロードレース、オッシャースレーベン8時間耐久で優勝し、ランキングトップで迎えた鈴鹿8時間耐久ロードレースで5位入賞し、参戦3シーズン目にして選手権総合優勝を成し遂げた\[1\]。
 
-なお、1980年代から1990年代にかけて同じくホンダ系プライベートチームの雄として活躍し、[岡田忠之](https://ja.wikipedia.org/wiki/岡田忠之 "wikilink")や[青木宣篤](../Page/青木宣篤.md "wikilink")らを輩出した**テクニカルスポーツ関東（TS関東）**と、[宇川徹](https://ja.wikipedia.org/wiki/宇川徹 "wikilink")や[柳川明](../Page/柳川明.md "wikilink")らを輩出した**テクニカルスポーツ九州（TS九州）**という2つのレーシングチームがあるが、前者は[筑波サーキット](https://ja.wikipedia.org/wiki/筑波サーキット "wikilink")を本拠地とするワールド筑波が、後者は[高武富久美](https://ja.wikipedia.org/wiki/高武富久美 "wikilink")率いる[Team高武](https://ja.wikipedia.org/wiki/Team高武 "wikilink")が母体であり、三者の間に直接の資本関係はない（ただしワールド筑波創設者の橋本勲は、TSRの前身となったワールドモーター創設メンバーのひとりである）。
+なお、1980年代から1990年代にかけて同じくホンダ系プライベートチームの雄として活躍し、[岡田忠之](https://ja.wikipedia.org/wiki/岡田忠之 "wikilink")や[青木宣篤](../Page/青木宣篤.md "wikilink")らを輩出した**テクニカルスポーツ関東（TS関東）**と、[宇川徹](https://ja.wikipedia.org/wiki/宇川徹 "wikilink")や[柳川明](../Page/柳川明.md "wikilink")らを輩出した**テクニカルスポーツ九州（TS九州）**という2つのレーシングチームがあるが、前者は[筑波サーキット](../Page/筑波サーキット.md "wikilink")を本拠地とするワールド筑波が、後者は[高武富久美](https://ja.wikipedia.org/wiki/高武富久美 "wikilink")率いる[Team高武](https://ja.wikipedia.org/wiki/Team高武 "wikilink")が母体であり、三者の間に直接の資本関係はない（ただしワールド筑波創設者の橋本勲は、TSRの前身となったワールドモーター創設メンバーのひとりである）。
 
 ## スポンサー
 
-  - メイン[スポンサー](https://ja.wikipedia.org/wiki/スポンサー "wikilink")は一貫して[クラッチ](https://ja.wikipedia.org/wiki/クラッチ "wikilink")[メーカー](https://ja.wikipedia.org/wiki/メーカー "wikilink")の[F.C.C.](https://ja.wikipedia.org/wiki/F.C.C. "wikilink")が務めている。鮮やかなブルーに白地の同社ロゴを配したマシンカラーリングは「F.C.C.ブルー」と呼ばれ、ホンダのスポーツバイクのカスタムペイントとして人気がある。
+  - メイン[スポンサー](../Page/スポンサー.md "wikilink")は一貫して[クラッチ](https://ja.wikipedia.org/wiki/クラッチ "wikilink")[メーカー](https://ja.wikipedia.org/wiki/メーカー "wikilink")の[F.C.C.](https://ja.wikipedia.org/wiki/F.C.C. "wikilink")が務めている。鮮やかなブルーに白地の同社ロゴを配したマシンカラーリングは「F.C.C.ブルー」と呼ばれ、ホンダのスポーツバイクのカスタムペイントとして人気がある。
   - 世界耐久選手権では、2017 - 2018年シーズンから[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")のホンダ現地法人「Honda France」とタッグを組み、『F.C.C. TSR Honda France』として参戦している。チームカラーは[フランスの国旗](../Page/フランスの国旗.md "wikilink")、青白赤の3色を使用している。
   - 以前は名古屋のFMラジオ局・[ZIP-FM](../Page/ZIP-FM.md "wikilink")が1995年から2007年まで鈴鹿8耐のみスポットスポンサーとして加わっていた。当時のナンバーはZIP-FMの周波数から\#778であった。
 
 ## 主なレース活動
 
   - [ロードレース世界選手権](../Page/ロードレース世界選手権.md "wikilink")
-  - [全日本ロードレース選手権](https://ja.wikipedia.org/wiki/全日本ロードレース選手権 "wikilink")
+  - [全日本ロードレース選手権](../Page/全日本ロードレース選手権.md "wikilink")
 
 ### 鈴鹿8時間耐久ロードレース
 
@@ -451,7 +451,7 @@
 </tr>
 <tr class="odd">
 <td><p>第2戦　<br />
-<a href="https://ja.wikipedia.org/wiki/セパン・インターナショナル・サーキット" title="wikilink">セパン</a>8時間耐久<br />
+<a href="../Page/セパン・インターナショナル・サーキット.md" title="wikilink">セパン</a>8時間耐久<br />
 (2019　12/14)</p></td>
 <td></td>
 <td></td>
@@ -529,7 +529,7 @@
   - [辻村猛](../Page/辻村猛.md "wikilink")
   - [眞子智実](https://ja.wikipedia.org/wiki/眞子智実 "wikilink")
   - [青木宣篤](../Page/青木宣篤.md "wikilink")
-  - [青木治親](https://ja.wikipedia.org/wiki/青木治親 "wikilink")
+  - [青木治親](../Page/青木治親.md "wikilink")
   - [伊藤真一](https://ja.wikipedia.org/wiki/伊藤真一 "wikilink")
   - [手島雄介](https://ja.wikipedia.org/wiki/手島雄介 "wikilink")
   - [藤井謙汰](https://ja.wikipedia.org/wiki/藤井謙汰 "wikilink")

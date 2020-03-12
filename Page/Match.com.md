@@ -5,7 +5,7 @@
 
 ## 概要
 
-世界中に1500万人の会員が存在し、[ギネス・ワールド・レコーズ](https://ja.wikipedia.org/wiki/ギネス・ワールド・レコーズ "wikilink")に世界最大として登録されている恋愛・結婚マッチングサイトである。**match.com**では、様々な人種、言語、居住地、年齢、性別、趣味、性格、身体的特徴など多種多様なプロフィールをもつ会員から条件を設定し、条件にあった相手を探すことができる。日本では[MSN](../Page/MSN.md "wikilink"), [AOL](https://ja.wikipedia.org/wiki/AOL "wikilink")、ウォーカープラス、[So-net](https://ja.wikipedia.org/wiki/So-net "wikilink")、[teacup](https://ja.wikipedia.org/wiki/teacup "wikilink")、[livedoor](https://ja.wikipedia.org/wiki/livedoor "wikilink")、[OCN](../Page/OCN.md "wikilink")、ORICON STYLE、[Infoseek楽天](https://ja.wikipedia.org/wiki/Infoseek楽天 "wikilink")、[ニフティ](https://ja.wikipedia.org/wiki/ニフティ "wikilink")、[GyaO](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")、[goo](https://ja.wikipedia.org/wiki/goo "wikilink")にコンテンツを提供している。**match.com**は**IAC/InterActiveCorp** (Nasdaq: IACI)の100％出資のグループ企業である。
+世界中に1500万人の会員が存在し、[ギネス・ワールド・レコーズ](https://ja.wikipedia.org/wiki/ギネス・ワールド・レコーズ "wikilink")に世界最大として登録されている恋愛・結婚マッチングサイトである。**match.com**では、様々な人種、言語、居住地、年齢、性別、趣味、性格、身体的特徴など多種多様なプロフィールをもつ会員から条件を設定し、条件にあった相手を探すことができる。日本では[MSN](../Page/MSN.md "wikilink"), [AOL](../Page/AOL.md "wikilink")、ウォーカープラス、[So-net](https://ja.wikipedia.org/wiki/So-net "wikilink")、[teacup](https://ja.wikipedia.org/wiki/teacup "wikilink")、[livedoor](https://ja.wikipedia.org/wiki/livedoor "wikilink")、[OCN](../Page/OCN.md "wikilink")、ORICON STYLE、[Infoseek楽天](https://ja.wikipedia.org/wiki/Infoseek楽天 "wikilink")、[ニフティ](https://ja.wikipedia.org/wiki/ニフティ "wikilink")、[GyaO](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")、[goo](https://ja.wikipedia.org/wiki/goo "wikilink")にコンテンツを提供している。**match.com**は**IAC/InterActiveCorp** (Nasdaq: IACI)の100％出資のグループ企業である。
 
 ## 歴史
 

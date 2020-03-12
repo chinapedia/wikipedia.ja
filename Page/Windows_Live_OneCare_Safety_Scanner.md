@@ -23,11 +23,11 @@
 
 ## 関連項目
 
-  - [Windows Live OneCare](https://ja.wikipedia.org/wiki/Windows_Live_OneCare "wikilink")
+  - [Windows Live OneCare](../Page/Windows_Live_OneCare.md "wikilink")
 
 <!-- end list -->
 
-  - [Microsoft Security Essentials](https://ja.wikipedia.org/wiki/Microsoft_Security_Essentials "wikilink") - マイクロソフトが無料提供しているWindows用[アンチウイルスソフトウェア](https://ja.wikipedia.org/wiki/アンチウイルスソフトウェア "wikilink")。
+  - [Microsoft Security Essentials](https://ja.wikipedia.org/wiki/Microsoft_Security_Essentials "wikilink") - マイクロソフトが無料提供しているWindows用[アンチウイルスソフトウェア](../Page/アンチウイルスソフトウェア.md "wikilink")。
 
 ## 外部リンク
 

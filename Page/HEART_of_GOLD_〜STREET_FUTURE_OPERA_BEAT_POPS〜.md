@@ -20,7 +20,7 @@
     <!-- end list -->
       - EXILEの14thシングルの1曲目
       - [大塚製薬](../Page/大塚製薬.md "wikilink")「アミノバリュー」CMソング
-3.  **SO FUNKY NOISE** (3:33) - [RATHER UNIQUE](https://ja.wikipedia.org/wiki/RATHER_UNIQUE "wikilink")
+3.  **SO FUNKY NOISE** (3:33) - [RATHER UNIQUE](../Page/RATHER_UNIQUE.md "wikilink")
       -
         作詞：[MAKIDAI](https://ja.wikipedia.org/wiki/MAKIDAI "wikilink")、[USA](https://ja.wikipedia.org/wiki/宇佐美吉啓 "wikilink")、SOHJIN / 作曲・編曲：今井大介
     <!-- end list -->
@@ -33,7 +33,7 @@
         作詞：清木場俊介 / 作曲：川根来音 / 編曲：岩戸崇
     <!-- end list -->
       - 清木場の1stアルバム『[清木場俊介](https://ja.wikipedia.org/wiki/清木場俊介_\(アルバム\) "wikilink")』にはアルバムバージョンで収録、8thシングル「[SAKURA](https://ja.wikipedia.org/wiki/SAKURA_\(清木場俊介の曲\) "wikilink")」（通常盤）にはライブ音源が収録。
-6.  **JOY** (5:00) - [COLOR](https://ja.wikipedia.org/wiki/DEEP_\(歌手グループ\) "wikilink")
+6.  **JOY** (5:00) - [COLOR](../Page/DEEP_\(歌手グループ\).md "wikilink")
       -
         作詞：[ATSUSHI](https://ja.wikipedia.org/wiki/ATSUSHI_\(歌手\) "wikilink") / 作曲：[山口寛雄](https://ja.wikipedia.org/wiki/山口寛雄 "wikilink") / 編曲：h-wonder
     <!-- end list -->
@@ -79,7 +79,7 @@
       -
         作詞：加藤健 / 作曲：山口寛雄 / 編曲：原田憲
     <!-- end list -->
-      - [ニベアボディ](https://ja.wikipedia.org/wiki/ニベア花王 "wikilink")「スキンミルク」CMソング
+      - [ニベアボディ](../Page/ニベア花王.md "wikilink")「スキンミルク」CMソング
       - ベストアルバム『PERFECT BEST』にも収録。
 17. **[HEART of GOLD](../Page/HEART_of_GOLD.md "wikilink")** (5:35) - EXILE
       -

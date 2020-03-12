@@ -1,9 +1,9 @@
 > この記事は[ZN-1](https://ja.wikipedia.org/wiki/ZN-1)から翻訳されています。
 
 
-ZN-1(COH-1002)は[ソニー](../Page/ソニー.md "wikilink") / [ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")が開発した[プレイステーション互換の](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")[アーケードゲーム基板](../Page/アーケードゲーム基板.md "wikilink")である。プレイステーションの内部構成に加え、アーケードゲーム基板に必要な各種インターフェイスの追加、メインメモリの増設などを行っている。
+ZN-1(COH-1002)は[ソニー](../Page/ソニー.md "wikilink") / [ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")が開発した[プレイステーション互換の](../Page/PlayStation_\(ゲーム機\).md "wikilink")[アーケードゲーム基板](../Page/アーケードゲーム基板.md "wikilink")である。プレイステーションの内部構成に加え、アーケードゲーム基板に必要な各種インターフェイスの追加、メインメモリの増設などを行っている。
 
-他社からも同様なプレイステーション互換基板が出ており、[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")[GX700](https://ja.wikipedia.org/wiki/GX700 "wikilink")、[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")[FXシステム](https://ja.wikipedia.org/wiki/FXシステム "wikilink")、[ナムコ](https://ja.wikipedia.org/wiki/ナムコ "wikilink")[SYSTEM10](https://ja.wikipedia.org/wiki/SYSTEM10 "wikilink")などが存在する。また、CPUクロック、メモリ量等を増強した[ZN-2](https://ja.wikipedia.org/wiki/ZN-2 "wikilink")が存在する。
+他社からも同様なプレイステーション互換基板が出ており、[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")[GX700](../Page/GX700.md "wikilink")、[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")[FXシステム](../Page/FXシステム.md "wikilink")、[ナムコ](https://ja.wikipedia.org/wiki/ナムコ "wikilink")[SYSTEM10](../Page/SYSTEM10.md "wikilink")などが存在する。また、CPUクロック、メモリ量等を増強した[ZN-2](https://ja.wikipedia.org/wiki/ZN-2 "wikilink")が存在する。
 
 ## スペック
 
@@ -12,11 +12,11 @@ ZN-1(COH-1002)は[ソニー](../Page/ソニー.md "wikilink") / [ソニー・コ
   - CPU: [R3000](../Page/R3000.md "wikilink")カスタム 32bit[RISC](../Page/RISC.md "wikilink")
       - [クロック周波数](https://ja.wikipedia.org/wiki/クロック周波数 "wikilink"): 33.8688MHz(ZN-2は50MHz)
       - [メインメモリ](https://ja.wikipedia.org/wiki/メインメモリ "wikilink"): 2MB(ZN-2は2/4/ 8MB)
-  - [コプロセッサ](https://ja.wikipedia.org/wiki/コプロセッサ "wikilink"): GTE(ジオメトリエンジン)
+  - [コプロセッサ](../Page/コプロセッサ.md "wikilink"): GTE(ジオメトリエンジン)
       - 演算能力: 最大150万[ポリゴン](../Page/ポリゴン.md "wikilink")/秒
       - 可変長の[固定小数点](https://ja.wikipedia.org/wiki/固定小数点 "wikilink")演算
   - [グラフィック](../Page/グラフィック.md "wikilink"): GPU、VRAM 2MB(ZN-2は2/4/8MB / プレイステーションは1MB)
-      - [解像度](https://ja.wikipedia.org/wiki/解像度 "wikilink"): 256ドット×224ライン(ノン[インターレース](https://ja.wikipedia.org/wiki/インターレース "wikilink"))～640ドット×480ライン(インターレース)
+      - [解像度](../Page/解像度.md "wikilink"): 256ドット×224ライン(ノン[インターレース](../Page/インターレース.md "wikilink"))～640ドット×480ライン(インターレース)
       - 色: 最大1677万色
       - 表示画面: 1面
       - [スプライト描画性能](../Page/スプライト_\(映像技術\).md "wikilink"): 最大表示4000個(1/60秒)
@@ -50,13 +50,13 @@ ZN-1(COH-1002)は[ソニー](../Page/ソニー.md "wikilink") / [ソニー・コ
 
 ## 主なタイトル
 
-  - [闘神伝](https://ja.wikipedia.org/wiki/闘神伝 "wikilink")2([カプコン](../Page/カプコン.md "wikilink") / [タカラ](../Page/タカラ_\(玩具メーカー\).md "wikilink"))
+  - [闘神伝](../Page/闘神伝.md "wikilink")2([カプコン](../Page/カプコン.md "wikilink") / [タカラ](../Page/タカラ_\(玩具メーカー\).md "wikilink"))
   - [ギャロップレーサー](../Page/ギャロップレーサー.md "wikilink")([テクモ](../Page/テクモ.md "wikilink"))
-  - [スターグラディエイター](https://ja.wikipedia.org/wiki/スターグラディエイター "wikilink")(カプコン)
-  - [ストリートファイターEX](https://ja.wikipedia.org/wiki/ストリートファイターEX "wikilink")(カプコン / [アリカ](../Page/アリカ.md "wikilink"))
+  - [スターグラディエイター](../Page/スターグラディエイター.md "wikilink")(カプコン)
+  - [ストリートファイターEX](../Page/ストリートファイターEX.md "wikilink")(カプコン / [アリカ](../Page/アリカ.md "wikilink"))
   - [私立ジャスティス学園](https://ja.wikipedia.org/wiki/私立ジャスティス学園 "wikilink")(カプコン)
   - [デッド オア アライブ++](https://ja.wikipedia.org/wiki/デッド_オア_アライブ "wikilink")(テクモ)
-  - [超鋼戦紀キカイオー](https://ja.wikipedia.org/wiki/超鋼戦紀キカイオー "wikilink")(カプコン)
+  - [超鋼戦紀キカイオー](../Page/超鋼戦紀キカイオー.md "wikilink")(カプコン)
   - [テトリス ザ・グランドマスター](../Page/テトリス_ザ・グランドマスター.md "wikilink")(カプコン / アリカ)
   - [ストライダー飛竜2](../Page/ストライダー飛竜2.md "wikilink")(カプコン)
 

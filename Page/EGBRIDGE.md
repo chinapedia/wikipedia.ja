@@ -1,17 +1,17 @@
 > この記事は[EGBRIDGE](https://ja.wikipedia.org/wiki/EGBRIDGE)から翻訳されています。
 
 
-**EGBRIDGE**（イージーブリッジ）は、[エルゴソフト](https://ja.wikipedia.org/wiki/エルゴソフト "wikilink")が開発・販売していた[日本語入力システム](../Page/日本語入力システム.md "wikilink")（かな漢字変換ソフトウェア）の名称。
+**EGBRIDGE**（イージーブリッジ）は、[エルゴソフト](../Page/エルゴソフト.md "wikilink")が開発・販売していた[日本語入力システム](../Page/日本語入力システム.md "wikilink")（かな漢字変換ソフトウェア）の名称。
 
 2008年1月28日のパッケージソフト事業終了に伴い\[1\]、「egbridge Universal 2」 (Ver.17.0.2) が最終版となった。
 
 ## 概要
 
-1984年9月に発表された日本語[ワープロソフト](../Page/ワープロソフト.md "wikilink")「[EGWord](https://ja.wikipedia.org/wiki/EGWORD "wikilink")」の漢字変換エンジン「EgConvert」を市販化するプロジェクトにより誕生した。1985年5月に[赤坂プリンスホテル](../Page/赤坂プリンスホテル.md "wikilink")で発表会を実施し、同月下旬より「EgBridge」Ver.1.0 の発売を開始。これは[漢字Talk](https://ja.wikipedia.org/wiki/漢字Talk "wikilink") 1.0（1986年発表）に先行するものであり、[アップルによる日本語入力システムよりも歴史が長いことを意味する](../Page/アップル_\(企業\).md "wikilink")。
+1984年9月に発表された日本語[ワープロソフト](../Page/ワープロソフト.md "wikilink")「[EGWord](../Page/EGWORD.md "wikilink")」の漢字変換エンジン「EgConvert」を市販化するプロジェクトにより誕生した。1985年5月に[赤坂プリンスホテル](../Page/赤坂プリンスホテル.md "wikilink")で発表会を実施し、同月下旬より「EgBridge」Ver.1.0 の発売を開始。これは[漢字Talk](../Page/漢字Talk.md "wikilink") 1.0（1986年発表）に先行するものであり、[アップルによる日本語入力システムよりも歴史が長いことを意味する](../Page/アップル_\(企業\).md "wikilink")。
 
 アップルコンピュータジャパンは初代社長の時代からEGWordに対して開発支援を行っており、2代目社長の時代にはEgBridgeの権利を買収する動きもあったが、他機種への展開を構想していたエルゴソフトはこれを断り、アップルは独自に日本語入力システムを開発することとなった。
 
-1985年8月20日に[キヤノン販売より](https://ja.wikipedia.org/wiki/キヤノンマーケティングジャパン "wikilink")[Macintosh 512Kを日本語対応化した](https://ja.wikipedia.org/wiki/Macintosh_512K "wikilink")[DynaMac](https://ja.wikipedia.org/wiki/DynaMac "wikilink")が発売された際には、「マッキントッシュ日本語化ツール」としてEgBridgeが採用された。1986年10月には[MS-DOS](../Page/MS-DOS.md "wikilink")用のEGBridge（Ver.1.0）が発売され、その後[Windows版](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink") (Ver.6.0 - 9.0) や[BeOS](../Page/BeOS.md "wikilink")版 (Ver.9.0)、[HP-UX](../Page/HP-UX.md "wikilink")版（OSのアジア言語システム環境 (ASE) に同梱）など[クロスプラットフォーム](../Page/クロスプラットフォーム.md "wikilink")化が進められたが、2000年以降はMacintoshに一本化された。
+1985年8月20日に[キヤノン販売より](../Page/キヤノンマーケティングジャパン.md "wikilink")[Macintosh 512Kを日本語対応化した](https://ja.wikipedia.org/wiki/Macintosh_512K "wikilink")[DynaMac](https://ja.wikipedia.org/wiki/DynaMac "wikilink")が発売された際には、「マッキントッシュ日本語化ツール」としてEgBridgeが採用された。1986年10月には[MS-DOS](../Page/MS-DOS.md "wikilink")用のEGBridge（Ver.1.0）が発売され、その後[Windows版](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink") (Ver.6.0 - 9.0) や[BeOS](../Page/BeOS.md "wikilink")版 (Ver.9.0)、[HP-UX](../Page/HP-UX.md "wikilink")版（OSのアジア言語システム環境 (ASE) に同梱）など[クロスプラットフォーム](../Page/クロスプラットフォーム.md "wikilink")化が進められたが、2000年以降はMacintoshに一本化された。
 
 なお、エルゴソフトの事業終了後、同社から独立した[物書堂](https://ja.wikipedia.org/wiki/物書堂 "wikilink")により事実上の後継製品となる日本語入力プログラム「かわせみ」が開発・販売されている。
 
@@ -19,7 +19,7 @@
 
 ## 評価・受賞
 
-アップルによる日本語入力システム（漢字Talk、2.0変換、2.1変換、漢字Talk 7以降は[ことえり](https://ja.wikipedia.org/wiki/ことえり "wikilink")）よりも変換効率やカスタマイズ性に優れ、Macユーザに古くから愛用された。[Mac OS Xへの移行後は](https://ja.wikipedia.org/wiki/macOS "wikilink")、OSのバージョンアップに迅速に対応し、OSの新機能の活用（たとえば「[ヒラギノ](../Page/ヒラギノ.md "wikilink")2万字」や[Unicode](../Page/Unicode.md "wikilink")といった大規模文字セットへの対応）にも積極的だった。
+アップルによる日本語入力システム（漢字Talk、2.0変換、2.1変換、漢字Talk 7以降は[ことえり](../Page/ことえり.md "wikilink")）よりも変換効率やカスタマイズ性に優れ、Macユーザに古くから愛用された。[Mac OS Xへの移行後は](https://ja.wikipedia.org/wiki/macOS "wikilink")、OSのバージョンアップに迅速に対応し、OSの新機能の活用（たとえば「[ヒラギノ](../Page/ヒラギノ.md "wikilink")2万字」や[Unicode](../Page/Unicode.md "wikilink")といった大規模文字セットへの対応）にも積極的だった。
 
   - 受賞
 
@@ -67,7 +67,7 @@
 
 ### 参考文献
 
-  - [斎藤由多加](https://ja.wikipedia.org/wiki/斎藤由多加 "wikilink") 『マッキントッシュ伝説2 林檎の樹の下で -アップル日本上陸の軌跡-』 [毎日コミュニケーションズ](../Page/マイナビ.md "wikilink")、2003年10月 ISBN 4-8399-1270-X
+  - [斎藤由多加](../Page/斎藤由多加.md "wikilink") 『マッキントッシュ伝説2 林檎の樹の下で -アップル日本上陸の軌跡-』 [毎日コミュニケーションズ](../Page/マイナビ.md "wikilink")、2003年10月 ISBN 4-8399-1270-X
 
 ## 関連項目
 

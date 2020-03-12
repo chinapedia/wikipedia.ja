@@ -1,7 +1,7 @@
 > この記事は[Face to ace](https://ja.wikipedia.org/wiki/Face_to_ace)から翻訳されています。
 
 
-**face to ace**（フェイス・トゥ・エース）は、日本の[音楽ユニット](../Page/音楽ユニット.md "wikilink")。[聖飢魔II](../Page/聖飢魔II.md "wikilink")の[ACEと](../Page/ACE_\(ミュージシャン\).md "wikilink")、元[グラスバレー](../Page/グラスバレー.md "wikilink")の[本田海月の男性二人によって構成される](https://ja.wikipedia.org/wiki/本田恭之 "wikilink")。[2001年](../Page/2001年.md "wikilink")にシングル「MISSING WORD」で[日本クラウン](https://ja.wikipedia.org/wiki/日本クラウン "wikilink")よりメジャーデビュー。現在はインディーズにて活動している。
+**face to ace**（フェイス・トゥ・エース）は、日本の[音楽ユニット](../Page/音楽ユニット.md "wikilink")。[聖飢魔II](../Page/聖飢魔II.md "wikilink")の[ACEと](../Page/ACE_\(ミュージシャン\).md "wikilink")、元[グラスバレー](../Page/グラスバレー.md "wikilink")の[本田海月の男性二人によって構成される](../Page/本田恭之.md "wikilink")。[2001年](../Page/2001年.md "wikilink")にシングル「MISSING WORD」で[日本クラウン](../Page/日本クラウン.md "wikilink")よりメジャーデビュー。現在はインディーズにて活動している。
 
 ## 概要・来歴
 
@@ -17,13 +17,13 @@ ACEのソロアルバム（エース清水名義）『[TIME AXIS](../Page/TIME_A
 
   - [ACE](../Page/ACE_\(ミュージシャン\).md "wikilink")（エース）
     [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")担当。[聖飢魔II](../Page/聖飢魔II.md "wikilink")のメンバー。
-  - [本田海月](https://ja.wikipedia.org/wiki/本田恭之 "wikilink")（ほんだ くらげ）
-    [シンセサイザー](../Page/シンセサイザー.md "wikilink")、[プログラミング担当](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")。元[グラスバレー](../Page/グラスバレー.md "wikilink")のメンバー。
+  - [本田海月](../Page/本田恭之.md "wikilink")（ほんだ くらげ）
+    [シンセサイザー](../Page/シンセサイザー.md "wikilink")、[プログラミング担当](../Page/ミュージックシーケンサー.md "wikilink")。元[グラスバレー](../Page/グラスバレー.md "wikilink")のメンバー。
 
 ### サポートメンバー
 
   - [Yanz](https://ja.wikipedia.org/wiki/Yanz "wikilink")（ヤンズ）
-    [ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。元[DOVEのメンバー](https://ja.wikipedia.org/wiki/DOVE_\(バンド\) "wikilink")。
+    [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。元[DOVEのメンバー](https://ja.wikipedia.org/wiki/DOVE_\(バンド\) "wikilink")。
   - [嶋田修](https://ja.wikipedia.org/wiki/嶋田修 "wikilink")（しまだ おさむ）
     ギター担当。[Swinging Popsicleのメンバー](../Page/Swinging_Popsicle.md "wikilink")。
   - [西川貴博](https://ja.wikipedia.org/wiki/西川貴博 "wikilink")（にしかわ たかひろ）
@@ -35,7 +35,7 @@ ACEのソロアルバム（エース清水名義）『[TIME AXIS](../Page/TIME_A
 
 1.  **MISSING WORD** （2001年10月24日/日本クラウン）オリコン48位
     1.  MISSING WORD\[4:05\]（作詞・作曲：ACE／編曲：face to ace）
-          - NTV系「[フジリコ](https://ja.wikipedia.org/wiki/フジリコ "wikilink")」エンディングテーマ
+          - NTV系「[フジリコ](../Page/フジリコ.md "wikilink")」エンディングテーマ
     2.  BLIND FLIGHT -無視界飛行-\[5:20\]（作詞・作曲：ACE／編曲：face to ace）
     3.  ANGEL SMILE -BONUS TRACK-\[5:00\]
 2.  **...I KNOW** （2002年2月21日/日本クラウン）オリコン95位
@@ -46,7 +46,7 @@ ACEのソロアルバム（エース清水名義）『[TIME AXIS](../Page/TIME_A
     5.  ...I KNOW -Inst-\[5:22\]
 3.  **CLOUDY DAY** （2002年7月24日/日本クラウン）オリコン74位
     1.  CLOUDY DAY\[4:39\]（作詞・作曲：ACE／編曲：face to ace）
-          - YTV・NTV系「[HAMASHO](https://ja.wikipedia.org/wiki/HAMASHO "wikilink")」エンディングテーマ
+          - YTV・NTV系「[HAMASHO](../Page/HAMASHO.md "wikilink")」エンディングテーマ
     2.  残像\[4:33\]（作詞：本田海月・ACE／作曲：本田海月／編曲：face to ace）
     3.  Bring you back to me -live at SHIBUYA AX-\[4:46\]
     4.  fLOW -Live-\[5:00\]
@@ -88,7 +88,7 @@ ACEのソロアルバム（エース清水名義）『[TIME AXIS](../Page/TIME_A
 #### その他のアルバム
 
 1.  **[SONGS MAKE MY DAY](https://ja.wikipedia.org/wiki/SONGS_MAKE_MY_DAY "wikilink")** （2003年7月24日） - 1980年代の洋楽のカバー・アルバム
-2.  **the best of face to ace** （2005年10月21日） - [ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")（DVD付属）
+2.  **the best of face to ace** （2005年10月21日） - [ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")（DVD付属）
     1.  MISSING WORD
     2.  FLAMING DAYS
     3.  IN THE MAZE

@@ -3,7 +3,7 @@
 
 『**らぶらぶワイドぎふTODAY**』（らぶらぶワイドぎふトゥデイ）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月29日](../Page/9月29日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで[岐阜放送](../Page/岐阜放送.md "wikilink")（岐阜テレビ）で放送された夕方のワイド系[ニュース番組](../Page/報道番組.md "wikilink")。
 
-[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")『[TXNニュースワイド 夕方いちばん](https://ja.wikipedia.org/wiki/TXNニュースワイド_夕方いちばん "wikilink")』の放送開始日と同じ日にスタートした、岐阜放送のテレビでは初の[夕方ワイド番組](https://ja.wikipedia.org/wiki/夕方ワイド番組 "wikilink")である。[岐阜県](../Page/岐阜県.md "wikilink")内の[ニュース](../Page/ニュース.md "wikilink")と[天気予報](../Page/天気予報.md "wikilink")を伝えていたほか、県内各地と中継で結び、その地域の話題をリアルタイムで伝えていた。
+[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")『[TXNニュースワイド 夕方いちばん](../Page/TXNニュースワイド_夕方いちばん.md "wikilink")』の放送開始日と同じ日にスタートした、岐阜放送のテレビでは初の[夕方ワイド番組](../Page/夕方ワイド番組.md "wikilink")である。[岐阜県](../Page/岐阜県.md "wikilink")内の[ニュース](../Page/ニュース.md "wikilink")と[天気予報](../Page/天気予報.md "wikilink")を伝えていたほか、県内各地と中継で結び、その地域の話題をリアルタイムで伝えていた。
 
 番組はその後、放送10周年達成まであと半年というところで終了した。
 
@@ -15,8 +15,8 @@
 
 全員岐阜放送アナウンサー（後に他の部署へ異動した人物や岐阜放送を退社した人物も含む）。
 
-  - [伊藤伸久](https://ja.wikipedia.org/wiki/伊藤伸久 "wikilink")
-  - [神保絵利子](https://ja.wikipedia.org/wiki/神保絵利子 "wikilink")
+  - [伊藤伸久](../Page/伊藤伸久.md "wikilink")
+  - [神保絵利子](../Page/神保絵利子.md "wikilink")
   - [熊田力三](https://ja.wikipedia.org/wiki/熊田力三 "wikilink")
   - [加藤義久](../Page/加藤義久.md "wikilink")
   - [古林千明](https://ja.wikipedia.org/wiki/古林千明 "wikilink") - 加藤潤子の降板後に再度出演。
@@ -34,7 +34,7 @@
   - [日本まんなか直送便](https://ja.wikipedia.org/wiki/日本まんなか直送便 "wikilink") - [びわ湖放送](../Page/びわ湖放送.md "wikilink")・[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")・[三重テレビとの共同制作コーナー](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink")。
   - 中継（らぶらぶライブ）
       - 火曜日には[サンサンシティマーゴ](../Page/サンサンシティマーゴ.md "wikilink")（[関市](../Page/関市.md "wikilink")）、金曜日には[マーサ21](../Page/マーサ21.md "wikilink")（[岐阜市](../Page/岐阜市.md "wikilink")）からの中継と決まっていた。
-      - 月曜日には「[吉村功](https://ja.wikipedia.org/wiki/吉村功 "wikilink")のスポーツミニッツ」を実施。
+      - 月曜日には「[吉村功](../Page/吉村功.md "wikilink")のスポーツミニッツ」を実施。
       - 水曜日と木曜日の実施内容は特に決まっていなかった。
   - 記者の目（月曜日 - 金曜日） - [岐阜新聞](../Page/岐阜新聞.md "wikilink")の記者による解説コラムコーナー。
   - ドリームキッズ（月曜日 - 金曜日） - 岐阜県内の[幼稚園](../Page/幼稚園.md "wikilink")へ出向いて子どもたちにインタビューをする。このコーナーは、平日 6:25 - 6:30に放送の『[ぎふ情報クリック\!](https://ja.wikipedia.org/wiki/ぎふ情報クリック! "wikilink")』でも放送されていた。

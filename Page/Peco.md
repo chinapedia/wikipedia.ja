@@ -7,11 +7,11 @@
 
 社名の読みは「**ピコ**」が一番近いが、同業メーカーでドイツに「**[PIKO](https://ja.wikipedia.org/wiki/PIKO "wikilink")** (ピコ) 」があることからそれと区別するため、また日本においては1969年より輸入元の[機芸出版社](../Page/機芸出版社.md "wikilink")\[1\]が「**ピィコ**」と表記しているため、日本では「ピィコ」と発音・表記することが多い。以下、この項では「ピィコ」で統一する。
 
-1946年、イギリス南西部[デヴォン](https://ja.wikipedia.org/wiki/デヴォン "wikilink")州シートンにてシドニー・プリチャード (*Sydney Pritchard* ) により創業。鉄道模型用の線路、ストラクチャーなどの製造、および鉄道模型雑誌の発行などを行っている。
+1946年、イギリス南西部[デヴォン](../Page/デヴォン.md "wikilink")州シートンにてシドニー・プリチャード (*Sydney Pritchard* ) により創業。鉄道模型用の線路、ストラクチャーなどの製造、および鉄道模型雑誌の発行などを行っている。
 
 「ピィコ」は、製造部門のプリチャード・パテントプロダクト社 (*Pritchard Patent Product Company Ltd*) 、出版部門のピィコ・パブリケーション & パブリシティ社 (*Peco Publications and Publicity Ltd*) 、庭園のピィコラマ (*Pecorama*) からなるグループの総称である。
 
-[線路は小さいものは](https://ja.wikipedia.org/wiki/線路_\(鉄道\) "wikilink")[Zゲージ](https://ja.wikipedia.org/wiki/Zゲージ "wikilink")から、大きいものは[1番ゲージ](../Page/1番ゲージ.md "wikilink")、2番ゲージナロー ([Gゲージ](https://ja.wikipedia.org/wiki/Gゲージ "wikilink")) まで幅広く展開する。[車両は](../Page/鉄道車両.md "wikilink")、Nゲージの貨車、蒸気機関車などを製造している。また、キット形式の[ストラクチャー](https://ja.wikipedia.org/wiki/ストラクチャー "wikilink")を手がけている。鉄道模型雑誌は、月刊誌のレールウェイ・モデラー (*Railway Modeller*) とコンチネンタル・モデラー (*Continental Modeller*) の2種を発行している。
+[線路は小さいものは](../Page/線路_\(鉄道\).md "wikilink")[Zゲージ](../Page/Zゲージ.md "wikilink")から、大きいものは[1番ゲージ](../Page/1番ゲージ.md "wikilink")、2番ゲージナロー ([Gゲージ](../Page/Gゲージ.md "wikilink")) まで幅広く展開する。[車両は](../Page/鉄道車両.md "wikilink")、Nゲージの貨車、蒸気機関車などを製造している。また、キット形式の[ストラクチャー](../Page/ストラクチャー.md "wikilink")を手がけている。鉄道模型雑誌は、月刊誌のレールウェイ・モデラー (*Railway Modeller*) とコンチネンタル・モデラー (*Continental Modeller*) の2種を発行している。
 
 グループ傘下にストラクチャーメーカーのレイショ (*Ratio Plastic Models*) 、ウィリス (*Wills Kits*) 、K & M TREES があり、ペーパー製ストラクチャーメーカーのメトカリフ (*Metcalfe Models*) や、動力車用下回りキットを製造するロムフォード (*Romford Models*) などの販売代理店となっている。
 
@@ -45,12 +45,12 @@
 ''' Setruck (セットラック) '''
 
   -
-    名称はSet + Truck ([線路](https://ja.wikipedia.org/wiki/線路_\(鉄道\) "wikilink")) の造語で、品番には「**ST**」が付く。「道床なし」で、レールの長さや半径があらかじめ決められた、「組み立て式線路」 (*Rigid Unit Trackage* ) で、一部のターンアウト（分岐器）も含まれる。
+    名称はSet + Truck ([線路](../Page/線路_\(鉄道\).md "wikilink")) の造語で、品番には「**ST**」が付く。「道床なし」で、レールの長さや半径があらかじめ決められた、「組み立て式線路」 (*Rigid Unit Trackage* ) で、一部のターンアウト（分岐器）も含まれる。
 
 ''' Streamline (ストリームライン) '''
 
   -
-    品番が「**SL**」で始まる、主にレイアウト製作向けの製品群である。「道床なし」の「フレキシブル線路」や、中型や大型の実感的なターンアウトのほか、ジョイナーや枕木単体などの補給・補修部品、電源フィーダー、[車止め](https://ja.wikipedia.org/wiki/車止め "wikilink")、[プラットホーム](../Page/プラットホーム.md "wikilink")なども含まれる。
+    品番が「**SL**」で始まる、主にレイアウト製作向けの製品群である。「道床なし」の「フレキシブル線路」や、中型や大型の実感的なターンアウトのほか、ジョイナーや枕木単体などの補給・補修部品、電源フィーダー、[車止め](../Page/車止め.md "wikilink")、[プラットホーム](../Page/プラットホーム.md "wikilink")なども含まれる。
 
 ''' Peco Lectrics (ピィコ・レクトリクス) '''
 
@@ -73,7 +73,7 @@
 
 ### 車両
 
-[Oゲージ](https://ja.wikipedia.org/wiki/Oゲージ "wikilink")・[OOゲージ](../Page/OOゲージ.md "wikilink")・[Nゲージ](https://ja.wikipedia.org/wiki/Nゲージ "wikilink")の車両を完成品 (Nゲージのみ) やキットで展開している。
+[Oゲージ](../Page/Oゲージ.md "wikilink")・[OOゲージ](../Page/OOゲージ.md "wikilink")・[Nゲージ](../Page/Nゲージ.md "wikilink")の車両を完成品 (Nゲージのみ) やキットで展開している。
 
   - 完成品
 
@@ -120,11 +120,11 @@
 
 ### Zゲージ用
 
-\#60 = コード60 (レール高さの区分。100番がスタンダードで、60番は60%の高さ。) の[洋白](../Page/洋白.md "wikilink")レールを使用した木製[枕木](https://ja.wikipedia.org/wiki/枕木 "wikilink")表現、長さ609 mm (24[インチ](../Page/インチ.md "wikilink")) のフレキシブル線路をはじめ、[メルクリン](../Page/メルクリン.md "wikilink")ミニクラブの[分岐器](https://ja.wikipedia.org/wiki/分岐器 "wikilink")に長さを合わせた製品も用意されている。
+\#60 = コード60 (レール高さの区分。100番がスタンダードで、60番は60%の高さ。) の[洋白](../Page/洋白.md "wikilink")レールを使用した木製[枕木](../Page/枕木.md "wikilink")表現、長さ609 mm (24[インチ](../Page/インチ.md "wikilink")) のフレキシブル線路をはじめ、[メルクリン](../Page/メルクリン.md "wikilink")ミニクラブの[分岐器](https://ja.wikipedia.org/wiki/分岐器 "wikilink")に長さを合わせた製品も用意されている。
 
 ### Nゲージ用
 
-  - セットラック (ST) は\#80 = コード80の[洋白](../Page/洋白.md "wikilink")レールを用い、木製[枕木](https://ja.wikipedia.org/wiki/枕木 "wikilink")の表現がなされている。
+  - セットラック (ST) は\#80 = コード80の[洋白](../Page/洋白.md "wikilink")レールを用い、木製[枕木](../Page/枕木.md "wikilink")の表現がなされている。
 
 <!-- end list -->
 
@@ -143,7 +143,7 @@
 <!-- end list -->
 
   -
-    そのほかストリームラインには、ジョイナーや、木とPC、2種類のばら売り枕木のほか、アクセサリーとして、レール組みの[車止め](https://ja.wikipedia.org/wiki/車止め "wikilink")や、[ダミー](https://ja.wikipedia.org/wiki/ダミー "wikilink")の[AWSランプ](https://ja.wikipedia.org/wiki/:en:Automatic_Warning_System "wikilink") ([自動列車警報装置](https://ja.wikipedia.org/wiki/自動列車警報装置 "wikilink")地上子) がある。
+    そのほかストリームラインには、ジョイナーや、木とPC、2種類のばら売り枕木のほか、アクセサリーとして、レール組みの[車止め](../Page/車止め.md "wikilink")や、[ダミー](https://ja.wikipedia.org/wiki/ダミー "wikilink")の[AWSランプ](https://ja.wikipedia.org/wiki/:en:Automatic_Warning_System "wikilink") ([自動列車警報装置](https://ja.wikipedia.org/wiki/自動列車警報装置 "wikilink")地上子) がある。
 
 #### ピィコNファイン
 

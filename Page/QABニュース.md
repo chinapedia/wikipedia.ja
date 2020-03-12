@@ -1,7 +1,7 @@
 > この記事は[QAB](https://ja.wikipedia.org/wiki/QAB)から翻訳されています。
 
 
-『**QABニュース**』（キューエービーニュース）は、[琉球朝日放送](../Page/琉球朝日放送.md "wikilink")で放送されているローカル[ニュース番組](../Page/報道番組.md "wikilink")（[スポットニュース](https://ja.wikipedia.org/wiki/スポットニュース "wikilink")）である。
+『**QABニュース**』（キューエービーニュース）は、[琉球朝日放送](../Page/琉球朝日放送.md "wikilink")で放送されているローカル[ニュース番組](../Page/報道番組.md "wikilink")（[スポットニュース](../Page/スポットニュース.md "wikilink")）である。
 
 ## 放送時間
 
@@ -17,7 +17,7 @@
 
 ## 関連項目
 
-  - [お昼のN天ワイド](https://ja.wikipedia.org/wiki/お昼のN天ワイド "wikilink") - 開局時に放送されていた昼のニュース。
+  - [お昼のN天ワイド](../Page/お昼のN天ワイド.md "wikilink") - 開局時に放送されていた昼のニュース。
   - [ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")
   - [ステーションEYE](../Page/ステーションEYE.md "wikilink") - 開局時に放送されていた夕方のニュース。
   - [スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")

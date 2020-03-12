@@ -1,7 +1,7 @@
 > この記事は[RBC](https://ja.wikipedia.org/wiki/RBC)から翻訳されています。
 
 
-『**RBCニュース**』（アールビーシーニュース）は、[琉球放送](https://ja.wikipedia.org/wiki/琉球放送 "wikilink")ラジオ（RBCiラジオ）で放送されている[スポットニュース](https://ja.wikipedia.org/wiki/スポットニュース "wikilink")である。[2011年](../Page/2011年.md "wikilink")[9月](../Page/9月.md "wikilink")まではRBCテレビでも放送されていた。
+『**RBCニュース**』（アールビーシーニュース）は、[琉球放送](../Page/琉球放送.md "wikilink")ラジオ（RBCiラジオ）で放送されている[スポットニュース](../Page/スポットニュース.md "wikilink")である。[2011年](../Page/2011年.md "wikilink")[9月](../Page/9月.md "wikilink")まではRBCテレビでも放送されていた。
 
 ## ラジオ
 

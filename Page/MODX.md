@@ -1,7 +1,7 @@
 > この記事は[MODX](https://ja.wikipedia.org/wiki/MODX)から翻訳されています。
 
 
-**MODX**（モドエックス,モッドエックス）とは、MODX LLCまたはMODX JAPANによって開発されている[コンテンツ管理システム](https://ja.wikipedia.org/wiki/コンテンツ管理システム "wikilink") (CMS) の一種で、そのシリーズの総称を指す。[PHPおよび](../Page/PHP_\(プログラミング言語\).md "wikilink")[MySQL](https://ja.wikipedia.org/wiki/MySQL "wikilink")環境にて動作する。
+**MODX**（モドエックス,モッドエックス）とは、MODX LLCまたはMODX JAPANによって開発されている[コンテンツ管理システム](../Page/コンテンツ管理システム.md "wikilink") (CMS) の一種で、そのシリーズの総称を指す。[PHPおよび](../Page/PHP_\(プログラミング言語\).md "wikilink")[MySQL](https://ja.wikipedia.org/wiki/MySQL "wikilink")環境にて動作する。
 
 [MODX Evolutionと](https://ja.wikipedia.org/wiki/MODX_Evolution "wikilink")[MODX Revolutionに分類され](https://ja.wikipedia.org/wiki/MODX_Revolution "wikilink")、それぞれ別々のCMSとなっている。
 

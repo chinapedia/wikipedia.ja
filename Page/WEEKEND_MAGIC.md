@@ -1,11 +1,11 @@
 > この記事は[WEEKEND MAGIC](https://ja.wikipedia.org/wiki/WEEKEND_MAGIC)から翻訳されています。
 
 
-**WEEKEND MAGIC**（ウィークエンド・マジック）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")4月～2007年3月に[J-WAVE](../Page/J-WAVE.md "wikilink")で毎週土曜の8:00～11:00に放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。ナビゲーター([DJ](../Page/ディスクジョッキー.md "wikilink"))は[金子奈緒](../Page/金子奈緒.md "wikilink")。
+**WEEKEND MAGIC**（ウィークエンド・マジック）は、[2005年](../Page/2005年.md "wikilink")4月～2007年3月に[J-WAVE](../Page/J-WAVE.md "wikilink")で毎週土曜の8:00～11:00に放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。ナビゲーター([DJ](../Page/ディスクジョッキー.md "wikilink"))は[金子奈緒](../Page/金子奈緒.md "wikilink")。
 
 ## 沿革
 
-番組開始時は、2005年3月まで[SMOOTH AIRを放送していた](https://ja.wikipedia.org/wiki/Smooth_Air "wikilink")7時台と前番組の[SLOW MORNING枠の大部分をあわせた](../Page/SLOW_MORNING.md "wikilink")4時間で放送されていた（7:00～11:00）。2006年4月改編でSMOOTH AIRの放送時間がさらに短縮されたのに伴い、放送開始がさらに1時間早まり放送時間が5時間（6:00～11:00）となった。2006年10月改編では6:00～8:00に[KISS AND HUGが新設されるのに伴い](https://ja.wikipedia.org/wiki/KISS_AND_HUG "wikilink")、放送開始が2時間繰り下げられ放送時間は3時間に短縮した。
+番組開始時は、2005年3月まで[SMOOTH AIRを放送していた](https://ja.wikipedia.org/wiki/Smooth_Air "wikilink")7時台と前番組の[SLOW MORNING枠の大部分をあわせた](../Page/SLOW_MORNING.md "wikilink")4時間で放送されていた（7:00～11:00）。2006年4月改編でSMOOTH AIRの放送時間がさらに短縮されたのに伴い、放送開始がさらに1時間早まり放送時間が5時間（6:00～11:00）となった。2006年10月改編では6:00～8:00に[KISS AND HUGが新設されるのに伴い](../Page/KISS_AND_HUG.md "wikilink")、放送開始が2時間繰り下げられ放送時間は3時間に短縮した。
 
 ## 番組内容
 

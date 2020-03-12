@@ -1,7 +1,7 @@
 > この記事は[Moon Browser](https://ja.wikipedia.org/wiki/Moon_Browser)から翻訳されています。
 
 
-**Moon Browser**（ムーン ブラウザ）は、[Microsoft Windows 98および](../Page/Microsoft_Windows_98.md "wikilink")[Microsoft Windows 2000 Professionalに対応する](../Page/Microsoft_Windows_2000.md "wikilink")[IEコンポーネントを使用した](../Page/IEコンポーネントブラウザ.md "wikilink")[タブブラウザ](https://ja.wikipedia.org/wiki/タブブラウザ "wikilink")で、開発者はx08z。[2000年](../Page/2000年.md "wikilink")[5月29日](../Page/5月29日.md "wikilink")にver 0.01 Beta 1が公開され、その後[2003年](../Page/2003年.md "wikilink")まで開発が行われていた。
+**Moon Browser**（ムーン ブラウザ）は、[Microsoft Windows 98および](../Page/Microsoft_Windows_98.md "wikilink")[Microsoft Windows 2000 Professionalに対応する](../Page/Microsoft_Windows_2000.md "wikilink")[IEコンポーネントを使用した](../Page/IEコンポーネントブラウザ.md "wikilink")[タブブラウザ](../Page/タブブラウザ.md "wikilink")で、開発者はx08z。[2000年](../Page/2000年.md "wikilink")[5月29日](../Page/5月29日.md "wikilink")にver 0.01 Beta 1が公開され、その後[2003年](../Page/2003年.md "wikilink")まで開発が行われていた。
 
 現在公開されているバージョンのうちver 0.41 Beta 4ではマウス操作への対応状況など最近のブラウザに比べると不十分な部分もあるが、他のブラウザでもよく使われるような機能は一通り揃えられている。また、テスト版として公開されている0.50 A build 2106では0.4の主な問題がかなり解消されており扱いやすくなっている。
 
@@ -14,7 +14,7 @@
   - 閲覧設定の簡易切り替え
     画像の表示とサウンドやムービーのマルチメディア再生切り替えや、JavaScript、Java、ActiveXの実行とダウンロードのセキュリティ設定、クッキーの設定をボタンひとつで切り替えられるほか、メニューから設定をまとめて反転させることも可能となっている。
   - 独自ブックマーク
-    [ブックマーク](https://ja.wikipedia.org/wiki/ブックマーク "wikilink")は独自管理だが[Internet Explorerのお気に入りやNetscape](../Page/Internet_Explorer.md "wikilink") bookmark形式のファイル（[Netscapeシリーズ](../Page/Netscapeシリーズ.md "wikilink")や[Mozilla](../Page/Mozilla.md "wikilink")系のブラウザでブックマーク管理に利用されている）からのインポート機能を持つ。
+    [ブックマーク](../Page/ブックマーク.md "wikilink")は独自管理だが[Internet Explorerのお気に入りやNetscape](../Page/Internet_Explorer.md "wikilink") bookmark形式のファイル（[Netscapeシリーズ](../Page/Netscapeシリーズ.md "wikilink")や[Mozilla](../Page/Mozilla.md "wikilink")系のブラウザでブックマーク管理に利用されている）からのインポート機能を持つ。
   - 複数同時検索
     指定された検索エンジンに対し、複数同時にクエリ送信を行い、検索結果を複数のタブに同時表示する。
   - セキュリティゾーン対応

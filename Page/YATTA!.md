@@ -1,7 +1,7 @@
 > この記事は[YATTA!](https://ja.wikipedia.org/wiki/YATTA!)から翻訳されています。
 
 
-「**YATTA\!**」（ヤッタ）は、コントグループ、[はっぱ隊](https://ja.wikipedia.org/wiki/はっぱ隊 "wikilink")のシングル。
+「**YATTA\!**」（ヤッタ）は、コントグループ、[はっぱ隊](../Page/はっぱ隊.md "wikilink")のシングル。
 
 ## 解説
 
@@ -15,7 +15,7 @@
 
 1.  YATTA\!（Radio Edit）
       -
-        作詞：[はっぱ隊](https://ja.wikipedia.org/wiki/はっぱ隊 "wikilink")、作曲・編曲：[DANCE☆MAN](../Page/ダンス☆マン.md "wikilink")
+        作詞：[はっぱ隊](../Page/はっぱ隊.md "wikilink")、作曲・編曲：[DANCE☆MAN](../Page/ダンス☆マン.md "wikilink")
 2.  YATTA\!（Extended Edit）
       -
         作詞：はっぱ隊、作曲・編曲：DANCE☆MAN

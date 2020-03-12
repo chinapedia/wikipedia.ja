@@ -13,21 +13,21 @@
 ## バイオグラフィ
 
   - 1989年3月 - 『Be Modern』、INKSTICK 芝浦でのライブをもって解散。
-  - 1989年10月21日 - Vocalを除いたBe Modernの3人と[奥田民生](../Page/奥田民生.md "wikilink")で『[THE BAND HAS NO NAME](https://ja.wikipedia.org/wiki/THE_BAND_HAS_NO_NAME "wikilink")』を結成。
+  - 1989年10月21日 - Vocalを除いたBe Modernの3人と[奥田民生](../Page/奥田民生.md "wikilink")で『[THE BAND HAS NO NAME](../Page/THE_BAND_HAS_NO_NAME.md "wikilink")』を結成。
   - 1990年5月21日 - 『SPARKS GO GO』として活動を始める
-  - 1997年2月21日 - [阿部義晴](https://ja.wikipedia.org/wiki/阿部義晴 "wikilink")と180日間限定ユニット[ABEX GO GOを結成](../Page/ABEX_GO_GO.md "wikilink")。シングル2枚とアルバム1枚をリリース。
+  - 1997年2月21日 - [阿部義晴](../Page/阿部義晴.md "wikilink")と180日間限定ユニット[ABEX GO GOを結成](../Page/ABEX_GO_GO.md "wikilink")。シングル2枚とアルバム1枚をリリース。
   - 1997年8月 - 所属事務所[Hit\&Run](../Page/Hit&Run.md "wikilink")のイベント[2000GTR-S](https://ja.wikipedia.org/wiki/2000GTR-S "wikilink")に、橘兄弟はボーボーズ、八熊はワイキキチャンピオンズとして出演。
   - 1998年12月 - Hit\&Runのイベント[2000GTR](https://ja.wikipedia.org/wiki/2000GTR "wikilink")に、HELL番地として出演。
   - 1999年12月 - Hit\&Runのイベント[2000GTR-F](https://ja.wikipedia.org/wiki/2000GTR-F "wikilink")に出演。兄ちゃんは体調不良のため棄権。
   - 2001年12月29日 - 自主レーベル[iSGG Recordersを立ち上げ](https://ja.wikipedia.org/wiki/iSGG_Recorders "wikilink")、シングルをリリース。のちの2003年[rudle\&records](https://ja.wikipedia.org/wiki/rudle&records "wikilink")も立ち上げ2レーベル共存する事となる。
-  - 2005年7月20日 - 結成15周年記念として[THE BAND HAS NO NAME再開](https://ja.wikipedia.org/wiki/THE_BAND_HAS_NO_NAME "wikilink")。
+  - 2005年7月20日 - 結成15周年記念として[THE BAND HAS NO NAME再開](../Page/THE_BAND_HAS_NO_NAME.md "wikilink")。
   - 2005年9月10日 - 北海道・[倶知安町](../Page/倶知安町.md "wikilink")にて凱旋公演「JUNK\! JUNK\! JUNK\!∞2005」を開催。
   - 2006年9月17日 - 北海道・倶知安町にて「JUNK\! JUNK\! JUNK\!∞2006 ～It's only Truck'n'Roll～」を開催。
   - 2007年9月8日 - 北海道・倶知安町にて「JUNK\! JUNK\! JUNK\!∞2007～Roll Over The Mountain～」を開催。
   - 2008年9月14日 - [横浜BLITZ](../Page/横浜BLITZ.md "wikilink")にて「YOKOHAMA JUNCTION 2008“倶知安じゃないジャン！”」を開催。
   - 2009年9月21日 - 新木場[STUDIO COASTにて](../Page/STUDIO_COAST.md "wikilink")「SHINKIBA JUNCTION 2009“また倶知安じゃないジャン！”」を開催。
   - 2010年9月19日 - 結成20周年記念として北海道・倶知安町にて「JUNK\! JUNK\! JUNK\!∞2010～SPARKS GO GO 20th Anniversary Special」を開催。
-  - 2011年10月28日 - 渋谷[SHIBUYA-AX](https://ja.wikipedia.org/wiki/SHIBUYA-AX "wikilink")にて「SHIBUYA JUNCTION 2011“また倶知安じゃないジャン！”」を開催。
+  - 2011年10月28日 - 渋谷[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")にて「SHIBUYA JUNCTION 2011“また倶知安じゃないジャン！”」を開催。
   - 2012年10月20日 - 新木場STUDIO COASTにて「SHINKIBA JUNCTION 2012〜ファン感謝でー」を開催（[JCB](https://ja.wikipedia.org/wiki/JCB "wikilink")カード会員を対象にした完全招待制イベント）。
   - 2014年10月26日 - 豊洲PITにて「TOYOSU JUNCTION 2014～またまたまたまた倶知安じゃないジャン～」を開催。
   - 2015年9月19日・20日 - 北海道・倶知安町にて「SPARKS GO GO 25th Anniversary Special JUNK\! JUNK\! JUNK\!∞ 2015」を開催。
@@ -36,9 +36,9 @@
 ## エピソード
 
   - 2005年9月10日「JUNK\! JUNK\! JUNK\!∞2005」で第2部の開始直後、会場となった倶知安町総合体育館の床が観客のジャンプで陥没するというアクシデントが発生。ライブそのものは総合体育館横の広場に急遽仮設セットを組んだ上で続行されたが、総合体育館が数ヶ月間使用不能となった\[1\]。2006年9月17日に行われた同ライブの前に、撤去した総合体育館の床材を原材料にしたギターを「おわび」の品として、倶知安町へ寄贈した。
-  - SxGxGxにより“「[モルツ](https://ja.wikipedia.org/wiki/モルツ "wikilink")～、モルツ～♪」のCMソングが13年ぶりに復活”
+  - SxGxGxにより“「[モルツ](../Page/モルツ.md "wikilink")～、モルツ～♪」のCMソングが13年ぶりに復活”
     2007年4月6日(金)から順次全国オンエア開始。
-  - 2009年8月8日公開の映画「[南極料理人](https://ja.wikipedia.org/wiki/南極料理人 "wikilink")」のサントラに参加（音楽担当の[阿部義晴](https://ja.wikipedia.org/wiki/阿部義晴 "wikilink")の依頼にて）。八熊はボーカルではなく（自他共に上手いと認める）[口笛](https://ja.wikipedia.org/wiki/口笛 "wikilink")を担当した。
+  - 2009年8月8日公開の映画「[南極料理人](https://ja.wikipedia.org/wiki/南極料理人 "wikilink")」のサントラに参加（音楽担当の[阿部義晴](../Page/阿部義晴.md "wikilink")の依頼にて）。八熊はボーカルではなく（自他共に上手いと認める）[口笛](../Page/口笛.md "wikilink")を担当した。
   - 2009年9月21日「SHINKIBA JUNCTION 2009 また倶知安じゃないジャン！」で「倶知安乃風」として登場した八熊が、「倶知安を知らない子供たち」([戦争を知らない子供たちの替え歌](https://ja.wikipedia.org/wiki/戦争を知らない子供たち_\(曲\) "wikilink"))にて、「最初の[赤字](https://ja.wikipedia.org/wiki/赤字 "wikilink")を～忘れてほしい～♪」と歌っている（赤字のいきさつは前述の通り）。
 
 ## ディスコグラフィ
@@ -59,7 +59,7 @@
   - 『八月の夢』（1998.03.01）
   - 『カリビアン・ビーチ・ホテル』（1998.04.22）
   - 『冬のカリスマ』（1998.11.21）
-  - 『Booby Trap』（2000.04.05）以上[Epic/Sony Recordsより](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")
+  - 『Booby Trap』（2000.04.05）以上[Epic/Sony Recordsより](../Page/エピックレコードジャパン.md "wikilink")
   - 『SPEEDMASTER』（2001.12.29、販売終了）
   - 『スライス オブ ライフ』（2002.03.01、販売終了）
   - 『SUPERBALL』（2002.09.15）以上iSGG Recordersより
@@ -76,13 +76,13 @@
   - 『DESERT』（1995.11.22）
   - 『STONE』（1995.12.13）
   - 『MEXICO98』（1998.05.21）
-  - 『NEW OLD STOCK』（1999.04.01、セルフカバーアルバム）以上[Epic/Sony Recordsより](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")
+  - 『NEW OLD STOCK』（1999.04.01、セルフカバーアルバム）以上[Epic/Sony Recordsより](../Page/エピックレコードジャパン.md "wikilink")
   - 『LIVE AT CITTA'』（2002.04.24、ライブアルバム、販売終了）以上iSGG Recordersより
   - 『ONE STROKE』（2003.04.02）
   - 『斜陽』（2004.05.12）以上rudle\&recordsより
   - 『斜陽 LIVE BOOTLEG』（2004.06.01、ライブアルバム）以上iSGG Recordersより
   - 『月光』（2005.02.09、ミニアルバム）以上rudle\&recordsより
-  - 『VARIETY』（2005.09.07）以上[ユニバーサルシグマより](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")
+  - 『VARIETY』（2005.09.07）以上[ユニバーサルシグマより](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")
 
 　→2007.2.24公開映画『エンマ』（塚本高史主演）に収録曲「UNDO」が主題歌として使用される
 
@@ -94,7 +94,7 @@
   - 『2EASY』（2010.04.05）以上iSGG Recordersより
   - 『SUNBURST』（2010.9.15）
     初回限定版（2CD+2DVD）／通常版の２形態で発売。
-  - 『BEAUTIFUL WORLD』（2012.06.27）以上[Ki/oon Recordsより](https://ja.wikipedia.org/wiki/キューンミュージック "wikilink")
+  - 『BEAUTIFUL WORLD』（2012.06.27）以上[Ki/oon Recordsより](../Page/キューンミュージック.md "wikilink")
     初回限定版（CD+DVD）／通常版の２形態で発売。
   - 『BRAND NEW ROCK'N ROLL』（2013.06.26）以上rudle\&recordsより
     Distributed by “BounDEE by SSNW”（CD+DVD）形態で発売。
@@ -107,25 +107,25 @@
   - 『HEARTQUAKE』（1994.11.02）
   - 『爆音炸裂』（1998.03.01）
   - 『EPIC』（2000.06.07）
-  - 『爆音炸裂』（再発版）（2004.12.22、DVD）以上[Epic/Sony Recordsより](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")
-  - 『SPARKS GOGO 15th SPECIAL JUNK\! JUNK\! JUNK\! ∞』（2006.01.25）以上[ユニバーサルシグマより](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")
+  - 『爆音炸裂』（再発版）（2004.12.22、DVD）以上[Epic/Sony Recordsより](../Page/エピックレコードジャパン.md "wikilink")
+  - 『SPARKS GOGO 15th SPECIAL JUNK\! JUNK\! JUNK\! ∞』（2006.01.25）以上[ユニバーサルシグマより](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")
   - 『SHINKIBA JUNCTION 2009 また倶知安じゃないジャン！』（2010.04.21）
-  - 『SPARKS GOGO 20th Anniversary Special JUNK\! JUNK\! JUNK\! ∞2010』（2011.04.13） 以上[Ki/oon Recordsより](https://ja.wikipedia.org/wiki/キューンミュージック "wikilink")
+  - 『SPARKS GOGO 20th Anniversary Special JUNK\! JUNK\! JUNK\! ∞2010』（2011.04.13） 以上[Ki/oon Recordsより](../Page/キューンミュージック.md "wikilink")
 
 ### その他
 
-  - [奥田民生](../Page/奥田民生.md "wikilink")との共同バンド「[THE BAND HAS NO NAME](https://ja.wikipedia.org/wiki/THE_BAND_HAS_NO_NAME "wikilink")」名義
+  - [奥田民生](../Page/奥田民生.md "wikilink")との共同バンド「[THE BAND HAS NO NAME](../Page/THE_BAND_HAS_NO_NAME.md "wikilink")」名義
 
 <!-- end list -->
 
-  - 『THE BAND HAS NO NAME』（1990.1.21、アルバム、[Epic/Sony Records](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")）
-  - 『CollaBoGumBos Vol.1』（2005.01.26、コンピレーション、[Epic/Sony Records](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")、6曲目『もしもし\! OK\!\!』に参加）
+  - 『THE BAND HAS NO NAME』（1990.1.21、アルバム、[Epic/Sony Records](../Page/エピックレコードジャパン.md "wikilink")）
+  - 『CollaBoGumBos Vol.1』（2005.01.26、コンピレーション、[Epic/Sony Records](../Page/エピックレコードジャパン.md "wikilink")、6曲目『もしもし\! OK\!\!』に参加）
   - 『THE BAND HAS NO NAME』（再発盤）（2005.07.20、アルバム）
-  - 『II』（2005.07.20、アルバム、[SMEレコード](https://ja.wikipedia.org/wiki/エスエムイーレコーズ "wikilink")）
+  - 『II』（2005.07.20、アルバム、[SMEレコード](../Page/エスエムイーレコーズ.md "wikilink")）
 
 <!-- end list -->
 
-  - [阿部義晴](https://ja.wikipedia.org/wiki/阿部義晴 "wikilink")との共同バンド「ABEX GO GO」名義
+  - [阿部義晴](../Page/阿部義晴.md "wikilink")との共同バンド「ABEX GO GO」名義
 
 <!-- end list -->
 

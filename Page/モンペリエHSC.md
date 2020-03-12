@@ -1,7 +1,7 @@
 > この記事は[HSC](https://ja.wikipedia.org/wiki/HSC)から翻訳されています。
 
 
-**モンペリエ・エロー・スポール・クリュ**（**Montpellier Hérault Sport Club**）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[モンペリエ](https://ja.wikipedia.org/wiki/モンペリエ "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。
+**モンペリエ・エロー・スポール・クリュ**（**Montpellier Hérault Sport Club**）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[モンペリエ](../Page/モンペリエ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。
 
 ## 歴史
 
@@ -9,11 +9,11 @@
 
 1969年、プロチームが廃止され、翌年**Montpellier-Littoral FC**として再出発する。1974年、**AS Paillade**と合併し、**Montpellier La Paillade SC**と改名する。1978年に再びプロチームとなり、1989年に現在の名称に変更された。
 
-1980年代後半から1990年代の全盛期にはクラブ歴代最多得点者の[ローラン・ブラン](https://ja.wikipedia.org/wiki/ローラン・ブラン "wikilink")が在籍し、1989-90シーズンには[クープ・ドゥ・フランス](../Page/クープ・ドゥ・フランス.md "wikilink")優勝、1991-92シーズンには[クープ・ドゥ・ラ・リーグ](../Page/クープ・ドゥ・ラ・リーグ.md "wikilink")優勝を果たした\[1\]。1989-90シーズンには1シーズンだけ[エリック・カントナ](../Page/エリック・カントナ.md "wikilink")が在籍し、1988年から1991年には[カルロス・バルデラマ](https://ja.wikipedia.org/wiki/カルロス・バルデラマ "wikilink")も在籍していた。また、2003-04シーズンには日本人の[廣山望](../Page/廣山望.md "wikilink")が所属していた。
+1980年代後半から1990年代の全盛期にはクラブ歴代最多得点者の[ローラン・ブラン](../Page/ローラン・ブラン.md "wikilink")が在籍し、1989-90シーズンには[クープ・ドゥ・フランス](../Page/クープ・ドゥ・フランス.md "wikilink")優勝、1991-92シーズンには[クープ・ドゥ・ラ・リーグ](../Page/クープ・ドゥ・ラ・リーグ.md "wikilink")優勝を果たした\[1\]。1989-90シーズンには1シーズンだけ[エリック・カントナ](../Page/エリック・カントナ.md "wikilink")が在籍し、1988年から1991年には[カルロス・バルデラマ](../Page/カルロス・バルデラマ.md "wikilink")も在籍していた。また、2003-04シーズンには日本人の[廣山望](../Page/廣山望.md "wikilink")が所属していた。
 
-2008-09シーズン、[ローラン・クルビ](https://ja.wikipedia.org/wiki/ローラン・クルビ "wikilink")監督に導かれたチームは5シーズンぶりの[リーグ・アン](../Page/リーグ・アン.md "wikilink")昇格を果たした。昇格初年度の2009-10シーズンには、[エミル・スパヒッチ](https://ja.wikipedia.org/wiki/エミル・スパヒッチ "wikilink")や[アルベルト・コスタ](https://ja.wikipedia.org/wiki/アルベルト・コスタ "wikilink")などリーグ・アンでは無名の選手たちが躍動し、シーズンの半分以上の期間を[UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")出場圏内の3位以内で過ごすなど、[UEFAヨーロッパリーグ](../Page/UEFAヨーロッパリーグ.md "wikilink")出場権を獲得する5位という好成績で終えた。2010-11シーズンには年間シーズンチケットの購入者数がクラブ史上初めて1万人を超え、ホームゲームでの平均観客数は2シーズン連続で1万5000人を超えた\[2\]。リーグ戦では14位に終わったが、[クープ・ドゥ・ラ・リーグ](../Page/クープ・ドゥ・ラ・リーグ.md "wikilink")では準決勝で[パリ・サンジェルマンFC](https://ja.wikipedia.org/wiki/パリ・サンジェルマンFC "wikilink")を破り、決勝で[オリンピック・マルセイユ](https://ja.wikipedia.org/wiki/オリンピック・マルセイユ "wikilink")に敗れたものの準優勝を果たした。2009年に就任した[ルネ・ジラール監督は若手を積極的に抜擢し](https://ja.wikipedia.org/wiki/ルネ・ジラール_\(サッカー選手\) "wikilink")、就任後に[ユネス・ベランダ](https://ja.wikipedia.org/wiki/ユネス・ベランダ "wikilink")、[カリム・アイ＝ファナ](https://ja.wikipedia.org/wiki/カリム・アイ＝ファナ "wikilink")、[アブデルアミド・エル・カウタリ](https://ja.wikipedia.org/wiki/アブデルアミド・エル・カウタリ "wikilink")（いずれもモロッコ代表）や[マプ・ヤンガ＝ムビワ](https://ja.wikipedia.org/wiki/マプ・ヤンガ＝ムビワ "wikilink")（フランス代表）をA代表に送り出している。
+2008-09シーズン、[ローラン・クルビ](https://ja.wikipedia.org/wiki/ローラン・クルビ "wikilink")監督に導かれたチームは5シーズンぶりの[リーグ・アン](../Page/リーグ・アン.md "wikilink")昇格を果たした。昇格初年度の2009-10シーズンには、[エミル・スパヒッチ](https://ja.wikipedia.org/wiki/エミル・スパヒッチ "wikilink")や[アルベルト・コスタ](../Page/アルベルト・コスタ.md "wikilink")などリーグ・アンでは無名の選手たちが躍動し、シーズンの半分以上の期間を[UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")出場圏内の3位以内で過ごすなど、[UEFAヨーロッパリーグ](../Page/UEFAヨーロッパリーグ.md "wikilink")出場権を獲得する5位という好成績で終えた。2010-11シーズンには年間シーズンチケットの購入者数がクラブ史上初めて1万人を超え、ホームゲームでの平均観客数は2シーズン連続で1万5000人を超えた\[2\]。リーグ戦では14位に終わったが、[クープ・ドゥ・ラ・リーグ](../Page/クープ・ドゥ・ラ・リーグ.md "wikilink")では準決勝で[パリ・サンジェルマンFC](https://ja.wikipedia.org/wiki/パリ・サンジェルマンFC "wikilink")を破り、決勝で[オリンピック・マルセイユ](../Page/オリンピック・マルセイユ.md "wikilink")に敗れたものの準優勝を果たした。2009年に就任した[ルネ・ジラール監督は若手を積極的に抜擢し](https://ja.wikipedia.org/wiki/ルネ・ジラール_\(サッカー選手\) "wikilink")、就任後に[ユネス・ベランダ](https://ja.wikipedia.org/wiki/ユネス・ベランダ "wikilink")、[カリム・アイ＝ファナ](https://ja.wikipedia.org/wiki/カリム・アイ＝ファナ "wikilink")、[アブデルアミド・エル・カウタリ](https://ja.wikipedia.org/wiki/アブデルアミド・エル・カウタリ "wikilink")（いずれもモロッコ代表）や[マプ・ヤンガ＝ムビワ](https://ja.wikipedia.org/wiki/マプ・ヤンガ＝ムビワ "wikilink")（フランス代表）をA代表に送り出している。
 
-2011-12シーズンの年間予算はわずか3500万ユーロ（約38億5000万円）であったが\[3\]、ジラール監督は[ジャメル・サイヒ](https://ja.wikipedia.org/wiki/ジャメル・サイヒ "wikilink")、ヤンガ＝ムビワ、ベランダなど下部組織出身の若手と、[ジョフリー・デルニス](https://ja.wikipedia.org/wiki/ジョフリー・デルニス "wikilink")や[イウトンなどのベテランと巧みに融合させた](https://ja.wikipedia.org/wiki/ヴィットリーノ・イウトン "wikilink")\[4\]。守備時は4-1-4-1もしくは4-4-1-1、攻撃時は4-3-3フォーメーションを基調とし\[5\]、手数をかけないサイドからの速攻を徹底\[6\]。2節でリーグ王者[LOSCリール・メトロポール](https://ja.wikipedia.org/wiki/LOSCリール・メトロポール "wikilink")を撃破すると、開幕3連勝（8得点1失点）で首位に立ち、その後も1節を除いて2位以内をキープし続けた\[7\]。年明けにはパリ・サンジェルマンとの[一騎討ち](../Page/一騎討ち.md "wikilink")の様相を呈し\[8\]、2012年2月19日に行われた直接対決は引き分けに終わったが、29節の[ASサンテティエンヌ](../Page/ASサンテティエンヌ.md "wikilink")戦の勝利で同勝ち点ながら首位に浮上すると、37節のリール戦(1-0)は94分の決勝点で勝利し、前シーズンの王者相手にダブル（ホーム&アウェーともに勝利）を達成して優勝に近づいた\[9\]。引き分け以上で優勝が決定する最終節は20分に[AJオセール](https://ja.wikipedia.org/wiki/AJオセール "wikilink")に先制されたものの、[ジョン・ウタカ](../Page/ジョン・ウタカ.md "wikilink")の2得点で逆転勝利して優勝を決めた。1990年の[クープ・ドゥ・フランス](../Page/クープ・ドゥ・フランス.md "wikilink")以来のタイトル獲得であった。[オリヴィエ・ジルー](https://ja.wikipedia.org/wiki/オリヴィエ・ジルー "wikilink")は21得点で得点王に輝き、ヤンガ＝ムビワを中心とした守備陣はリーグ最少失点に抑えた。また、ベランダが選手組合(UNFP)選出の[最優秀若手選手賞を受賞し](https://ja.wikipedia.org/wiki/トロフェ・UNFP・デュ・フットボール#リーグ・アン "wikilink")、ジラール監督が[最優秀監督賞を受賞した](https://ja.wikipedia.org/wiki/トロフェ・UNFP・デュ・フットボール#リーグ・アン "wikilink")。
+2011-12シーズンの年間予算はわずか3500万ユーロ（約38億5000万円）であったが\[3\]、ジラール監督は[ジャメル・サイヒ](https://ja.wikipedia.org/wiki/ジャメル・サイヒ "wikilink")、ヤンガ＝ムビワ、ベランダなど下部組織出身の若手と、[ジョフリー・デルニス](https://ja.wikipedia.org/wiki/ジョフリー・デルニス "wikilink")や[イウトンなどのベテランと巧みに融合させた](https://ja.wikipedia.org/wiki/ヴィットリーノ・イウトン "wikilink")\[4\]。守備時は4-1-4-1もしくは4-4-1-1、攻撃時は4-3-3フォーメーションを基調とし\[5\]、手数をかけないサイドからの速攻を徹底\[6\]。2節でリーグ王者[LOSCリール・メトロポール](../Page/LOSCリール・メトロポール.md "wikilink")を撃破すると、開幕3連勝（8得点1失点）で首位に立ち、その後も1節を除いて2位以内をキープし続けた\[7\]。年明けにはパリ・サンジェルマンとの[一騎討ち](../Page/一騎討ち.md "wikilink")の様相を呈し\[8\]、2012年2月19日に行われた直接対決は引き分けに終わったが、29節の[ASサンテティエンヌ](../Page/ASサンテティエンヌ.md "wikilink")戦の勝利で同勝ち点ながら首位に浮上すると、37節のリール戦(1-0)は94分の決勝点で勝利し、前シーズンの王者相手にダブル（ホーム&アウェーともに勝利）を達成して優勝に近づいた\[9\]。引き分け以上で優勝が決定する最終節は20分に[AJオセール](../Page/AJオセール.md "wikilink")に先制されたものの、[ジョン・ウタカ](../Page/ジョン・ウタカ.md "wikilink")の2得点で逆転勝利して優勝を決めた。1990年の[クープ・ドゥ・フランス](../Page/クープ・ドゥ・フランス.md "wikilink")以来のタイトル獲得であった。[オリヴィエ・ジルー](https://ja.wikipedia.org/wiki/オリヴィエ・ジルー "wikilink")は21得点で得点王に輝き、ヤンガ＝ムビワを中心とした守備陣はリーグ最少失点に抑えた。また、ベランダが選手組合(UNFP)選出の[最優秀若手選手賞を受賞し](https://ja.wikipedia.org/wiki/トロフェ・UNFP・デュ・フットボール#リーグ・アン "wikilink")、ジラール監督が[最優秀監督賞を受賞した](https://ja.wikipedia.org/wiki/トロフェ・UNFP・デュ・フットボール#リーグ・アン "wikilink")。
 
 ## クラブ名遍歴
 
@@ -123,7 +123,7 @@
 <td><p>1988-89</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1988-89" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SLベンフィカ" title="wikilink">ベンフィカ</a></p></td>
+<td><p><a href="../Page/SLベンフィカ.md" title="wikilink">ベンフィカ</a></p></td>
 <td><p>0-3</p></td>
 <td><p>1-3</p></td>
 <td><p>'''1-6</p></td>
@@ -133,7 +133,7 @@
 <td><p>1990-91</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップウィナーズカップ_1990-91" title="wikilink">UEFAカップウィナーズカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PSVアイントホーフェン" title="wikilink">PSV</a></p></td>
+<td><p><a href="../Page/PSVアイントホーフェン.md" title="wikilink">PSV</a></p></td>
 <td><p>1-0</p></td>
 <td><p>0-0</p></td>
 <td><p>'''1-0</p></td>
@@ -163,7 +163,7 @@
 <td><p>1996-97</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1996-97" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スポルティング・クルーベ・デ・ポルトゥガル" title="wikilink">スポルティングCP</a></p></td>
+<td><p><a href="../Page/スポルティング・クルーベ・デ・ポルトゥガル.md" title="wikilink">スポルティングCP</a></p></td>
 <td><p>1-1</p></td>
 <td><p>0-1</p></td>
 <td><p>'''1-2</p></td>
@@ -211,7 +211,7 @@
 </tr>
 <tr class="even">
 <td><p>準決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1.FCケルン" title="wikilink">ケルン</a></p></td>
+<td><p><a href="../Page/1.FCケルン.md" title="wikilink">ケルン</a></p></td>
 <td><p>1-0</p></td>
 <td><p>1-2</p></td>
 <td><p>'''2-2<br />
@@ -242,7 +242,7 @@
 </tr>
 <tr class="odd">
 <td><p>3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RCDエスパニョール" title="wikilink">エスパニョール</a></p></td>
+<td><p><a href="../Page/RCDエスパニョール.md" title="wikilink">エスパニョール</a></p></td>
 <td><p>2-1</p></td>
 <td><p>2-0</p></td>
 <td><p>'''4-1</p></td>
@@ -252,7 +252,7 @@
 </tr>
 <tr class="even">
 <td><p>準決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/MSVデュースブルク" title="wikilink">デュースブルク</a></p></td>
+<td><p><a href="../Page/MSVデュースブルク.md" title="wikilink">デュースブルク</a></p></td>
 <td><p>1-1</p></td>
 <td><p>3-0</p></td>
 <td><p>'''4-1</p></td>
@@ -262,7 +262,7 @@
 </tr>
 <tr class="odd">
 <td><p>決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ハンブルガーSV" title="wikilink">ハンブルガー</a></p></td>
+<td><p><a href="../Page/ハンブルガーSV.md" title="wikilink">ハンブルガー</a></p></td>
 <td><p>1-1</p></td>
 <td><p>1-1</p></td>
 <td><p>'''2-2<br />
@@ -275,7 +275,7 @@
 <td><p>1999-00</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1999-2000" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レッドスター・ベオグラード" title="wikilink">ツルヴェナ・ズヴェズダ</a></p></td>
+<td><p><a href="../Page/レッドスター・ベオグラード.md" title="wikilink">ツルヴェナ・ズヴェズダ</a></p></td>
 <td><p>2-2</p></td>
 <td><p>1-0</p></td>
 <td><p>'''3-2</p></td>
@@ -283,7 +283,7 @@
 </tr>
 <tr class="odd">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デポルティーボ・ラ・コルーニャ" title="wikilink">デポルティーボ</a></p></td>
+<td><p><a href="../Page/デポルティーボ・ラ・コルーニャ.md" title="wikilink">デポルティーボ</a></p></td>
 <td><p>0-2</p></td>
 <td><p>1-3</p></td>
 <td><p>'''1-5</p></td>
@@ -313,7 +313,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/シャルケ04" title="wikilink">シャルケ04</a></p></td>
+<td><p><a href="../Page/シャルケ04.md" title="wikilink">シャルケ04</a></p></td>
 <td><p>1-1</p></td>
 <td><p>2-2</p></td>
 <td></td>
@@ -373,7 +373,7 @@
 
   - ピエール・モスカ　1987-1989
 
-  - [エメ・ジャケ](https://ja.wikipedia.org/wiki/エメ・ジャケ "wikilink")　1989-1990
+  - [エメ・ジャケ](../Page/エメ・ジャケ.md "wikilink")　1989-1990
 
   - [ヘンリク・カスペルチャク](https://ja.wikipedia.org/wiki/ヘンリク・カスペルチャク "wikilink")　1990-1992
 
@@ -415,7 +415,7 @@
 
 ### DF
 
-  - [ローラン・ブラン](https://ja.wikipedia.org/wiki/ローラン・ブラン "wikilink") 1983-1991
+  - [ローラン・ブラン](../Page/ローラン・ブラン.md "wikilink") 1983-1991
 
   - [ジュリオ・セザル](../Page/ジュリオ・セザール・ダ・シウバ.md "wikilink") 1987-1990
 
@@ -439,7 +439,7 @@
 
   - [ジェラール・パシ](../Page/ジェラール・パシ.md "wikilink") 1985-1990
 
-  - [カルロス・バルデラマ](https://ja.wikipedia.org/wiki/カルロス・バルデラマ "wikilink") 1988-1991
+  - [カルロス・バルデラマ](../Page/カルロス・バルデラマ.md "wikilink") 1988-1991
 
   - [ローラン・ロベール](../Page/ローラン・ロベール.md "wikilink") 1994-1999
 

@@ -5,11 +5,11 @@
 
 </div calss="pathnavbox">
 
-『**グレートマジンガー対ゲッターロボG 空中大激突**』（グレートマジンガーたいゲッターロボジー くうちゅうだいげきとつ）は、[1975年](../Page/1975年.md "wikilink")に[東映まんがまつり](https://ja.wikipedia.org/wiki/東映まんがまつり "wikilink")で上映された日本の[アニメーション映画](../Page/アニメーション映画.md "wikilink")作品。
+『**グレートマジンガー対ゲッターロボG 空中大激突**』（グレートマジンガーたいゲッターロボジー くうちゅうだいげきとつ）は、[1975年](../Page/1975年.md "wikilink")に[東映まんがまつり](../Page/東映まんがまつり.md "wikilink")で上映された日本の[アニメーション映画](../Page/アニメーション映画.md "wikilink")作品。
 
 ## 概要
 
-[永井豪](../Page/永井豪.md "wikilink")原作の『[グレートマジンガー](https://ja.wikipedia.org/wiki/グレートマジンガー "wikilink")』と『[ゲッターロボG](https://ja.wikipedia.org/wiki/ゲッターロボG "wikilink")』のクロスオーバー作品。本作では『[ゲッターロボ](../Page/ゲッターロボ.md "wikilink")』『ゲッターロボG』のテレビ版と異なるムサシの最期とゲッターロボの交替劇が描かれている（ゲッタードラゴンのみ登場し、ゲッターライガーとゲッターポセイドンは登場していない）。またグレートマジンガー側では、テレビ版に先駆けてグレートブースターが登場している。
+[永井豪](../Page/永井豪.md "wikilink")原作の『[グレートマジンガー](../Page/グレートマジンガー.md "wikilink")』と『[ゲッターロボG](../Page/ゲッターロボG.md "wikilink")』のクロスオーバー作品。本作では『[ゲッターロボ](../Page/ゲッターロボ.md "wikilink")』『ゲッターロボG』のテレビ版と異なるムサシの最期とゲッターロボの交替劇が描かれている（ゲッタードラゴンのみ登場し、ゲッターライガーとゲッターポセイドンは登場していない）。またグレートマジンガー側では、テレビ版に先駆けてグレートブースターが登場している。
 
 グレート側の支援ロボットで登場するのはビューナスAのみで、『[マジンガーZ対暗黒大将軍](../Page/マジンガーZ対暗黒大将軍.md "wikilink")』以来\[1\]登場していたボスボロット（およびボスたち三人組）が初めて登場せず、またTV本編で既に登場していたロボットジュニアも登場しない\[2\]。
 
@@ -26,23 +26,23 @@
   - 謎の侵略者
     地球に3体の怪獣を送り込んだ異星人。円盤から指令を送り操っていることを鉄也に看破され、ドラゴンのゲッタービームを浴びて動けなくなったところへ新兵器グレートブースターを撃ち込まれて円盤もろとも爆死した。
     劇中では特に関係性は語られていないが、前作『[グレートマジンガー対ゲッターロボ](../Page/グレートマジンガー対ゲッターロボ.md "wikilink")』でギルギルガンを送り込んだ円盤の侵略者と同一の存在であることが当時の児童雑誌に語られている。
-    尚、漫画『[ダイナミックヒーローズ](https://ja.wikipedia.org/wiki/ダイナミックヒーローズ "wikilink")』では、『[UFOロボ グレンダイザー](https://ja.wikipedia.org/wiki/UFOロボ_グレンダイザー "wikilink")』の設定にありながら劇中には登場しなかったベガ星人の宿敵、「**ダムドム星人**」であるとの解釈が披露されている。
+    尚、漫画『[ダイナミックヒーローズ](https://ja.wikipedia.org/wiki/ダイナミックヒーローズ "wikilink")』では、『[UFOロボ グレンダイザー](../Page/UFOロボ_グレンダイザー.md "wikilink")』の設定にありながら劇中には登場しなかったベガ星人の宿敵、「**ダムドム星人**」であるとの解釈が披露されている。
 
 ## キャスト
 
   - **科学要塞研究所**
-      - 剣鉄也:[野田圭一](https://ja.wikipedia.org/wiki/野田圭一 "wikilink")
-      - 炎ジュン:[中谷ゆみ](https://ja.wikipedia.org/wiki/中谷ゆみ "wikilink")
-      - 兜剣造:[柴田秀勝](https://ja.wikipedia.org/wiki/柴田秀勝 "wikilink")
-      - 兜シロー:[沢田和子](https://ja.wikipedia.org/wiki/沢田和猫 "wikilink")
-      - 所員:[矢田耕司](https://ja.wikipedia.org/wiki/矢田耕司 "wikilink")
+      - 剣鉄也:[野田圭一](../Page/野田圭一.md "wikilink")
+      - 炎ジュン:[中谷ゆみ](../Page/中谷ゆみ.md "wikilink")
+      - 兜剣造:[柴田秀勝](../Page/柴田秀勝.md "wikilink")
+      - 兜シロー:[沢田和子](../Page/沢田和猫.md "wikilink")
+      - 所員:[矢田耕司](../Page/矢田耕司.md "wikilink")
 
 <!-- end list -->
 
   - **早乙女研究所**
       - 流竜馬:[神谷明](../Page/神谷明.md "wikilink")
-      - 神隼人:[山田俊司](https://ja.wikipedia.org/wiki/キートン山田 "wikilink")
-      - 巴武蔵:[西尾徳](https://ja.wikipedia.org/wiki/西尾徳 "wikilink")
+      - 神隼人:[山田俊司](../Page/キートン山田.md "wikilink")
+      - 巴武蔵:[西尾徳](../Page/西尾徳.md "wikilink")
       - 車弁慶:[八奈見乗児](../Page/八奈見乗児.md "wikilink")
       - 早乙女博士:[富田耕生](../Page/富田耕生.md "wikilink")
       - 早乙女ミチル:[吉田理保子](../Page/吉田理保子.md "wikilink")
@@ -56,9 +56,9 @@
 
   - 製作：[今田智憲](../Page/今田智憲.md "wikilink")
   - 企画:有賀健、横山賢二
-  - 原作:[永井豪](../Page/永井豪.md "wikilink")、[石川賢](https://ja.wikipedia.org/wiki/石川賢_\(漫画家\) "wikilink")、ダイナミック・プロ
-  - 脚本:[藤川桂介](https://ja.wikipedia.org/wiki/藤川桂介 "wikilink")
-  - 音楽:[渡辺宙明](../Page/渡辺宙明.md "wikilink")、[菊池俊輔](https://ja.wikipedia.org/wiki/菊池俊輔 "wikilink")
+  - 原作:[永井豪](../Page/永井豪.md "wikilink")、[石川賢](../Page/石川賢_\(漫画家\).md "wikilink")、ダイナミック・プロ
+  - 脚本:[藤川桂介](../Page/藤川桂介.md "wikilink")
+  - 音楽:[渡辺宙明](../Page/渡辺宙明.md "wikilink")、[菊池俊輔](../Page/菊池俊輔.md "wikilink")
   - 原画：友永秀和、[葛岡博](https://ja.wikipedia.org/wiki/葛岡博 "wikilink")、森利夫
   - 動画：長崎重信、後藤紀子、山内昇寿郎、束田久美子
   - 背景：阿部泰三郎、佐藤正行、沼井信朗、鳥本武
@@ -70,7 +70,7 @@
   - 編集：鳥羽亮一
   - 録音：池上信照
   - 記録：的場節代
-  - 効果：[石田サウンドプロ](https://ja.wikipedia.org/wiki/フィズサウンドクリエイション "wikilink")
+  - 効果：[石田サウンドプロ](../Page/フィズサウンドクリエイション.md "wikilink")
   - 選曲：宮下滋
   - 演出助手：松浦錠平
   - 製作進行：吉岡修
@@ -83,40 +83,40 @@
 
 主題歌「おれはグレートマジンガー」
 
-  - 作詞：[小池一雄](https://ja.wikipedia.org/wiki/小池一雄 "wikilink")／作編曲：渡辺宙明／歌：[水木一郎](../Page/水木一郎.md "wikilink")、[コロムビアゆりかご会](https://ja.wikipedia.org/wiki/音羽ゆりかご会 "wikilink")
+  - 作詞：[小池一雄](https://ja.wikipedia.org/wiki/小池一雄 "wikilink")／作編曲：渡辺宙明／歌：[水木一郎](../Page/水木一郎.md "wikilink")、[コロムビアゆりかご会](../Page/音羽ゆりかご会.md "wikilink")
   - シリーズ前作『グレート対ゲッター』ではバックコーラス（コロムビアゆりかご会）の無いバージョンを使用したが、本作ではTV版と同じバックコーラス入りバージョンを使用した。
 
 挿入歌「われらのゲッターロボ」
 
-  - 作詞：[和泉高志](https://ja.wikipedia.org/wiki/和泉高志 "wikilink")／作編曲：菊池俊輔／歌：[ささきいさお](https://ja.wikipedia.org/wiki/ささきいさお "wikilink")
+  - 作詞：[和泉高志](https://ja.wikipedia.org/wiki/和泉高志 "wikilink")／作編曲：菊池俊輔／歌：[ささきいさお](../Page/ささきいさお.md "wikilink")
   - TV版『ゲッターロボG』エンディングテーマ「不滅のマシン ゲッターロボ」\[4\]のB面に収録された。
 
 ## 同時上映
 
-| 作品名                                                                        | 原作                                                                                                                          | （声の）出演                                                                                                                                                                                                                       | 備考                                                                                                                                                                        |
-| -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ちびっ子レミと名犬カピ 家なき子](https://ja.wikipedia.org/wiki/ちびっ子レミと名犬カピ "wikilink")より | [エクトール・アンリ・マロ](https://ja.wikipedia.org/wiki/エクトール・アンリ・マロ "wikilink")                                                       | [朝井ゆかり](https://ja.wikipedia.org/wiki/朝井ゆかり "wikilink")、[フランキー堺](../Page/フランキー堺.md "wikilink")、[市原悦子](../Page/市原悦子.md "wikilink")                                                                                            | \[5\]                                                                                                                                                                     |
-| [宇宙円盤大戦争](https://ja.wikipedia.org/wiki/宇宙円盤大戦争 "wikilink")                | 永井豪                                                                                                                         | [ささきいさお](https://ja.wikipedia.org/wiki/ささきいさお "wikilink")、[小原乃梨子](../Page/小原乃梨子.md "wikilink")、[内海賢二](../Page/内海賢二.md "wikilink")、[松島みのり](../Page/松島みのり.md "wikilink")、[久松保夫](https://ja.wikipedia.org/wiki/久松保夫 "wikilink") | 劇場用新作                                                                                                                                                                     |
-| [野生のエルザ](https://ja.wikipedia.org/wiki/野生のエルザ "wikilink")                  | [ジョイ・アダムソン](https://ja.wikipedia.org/wiki/ジョイ・アダムソン "wikilink")                                                             | [ヴァージニア・マッケンブ](https://ja.wikipedia.org/wiki/ヴァージニア・マッケンブ "wikilink")、[ビル・トラバース](https://ja.wikipedia.org/wiki/ビル・トラバース "wikilink")                                                                                          | \[6\]                                                                                                                                                                     |
-| [秘密戦隊ゴレンジャー](../Page/秘密戦隊ゴレンジャー.md "wikilink")                             | [石ノ森章太郎](../Page/石ノ森章太郎.md "wikilink")                                                                                      | [誠直也](https://ja.wikipedia.org/wiki/誠直也 "wikilink")、[宮内洋](../Page/宮内洋.md "wikilink")、[畠山麦](../Page/畠山麦.md "wikilink")、[小牧りさ](../Page/小牧リサ.md "wikilink")、[伊藤幸雄](../Page/伊藤幸雄.md "wikilink")                                  |                                                                                                                                                                           |
-| \[\[がんばれ                                                                   | ロボコン|がんばれ                                                                                                                   | ロボコン ゆかいな仲間\]\]                                                                                                                                                                                                              | [山本圭子](https://ja.wikipedia.org/wiki/山本圭子 "wikilink")、野田圭一、[島田歌穂](../Page/島田歌穂.md "wikilink")、[大野しげひさ](../Page/大野しげひさ.md "wikilink")、[加藤みどり](../Page/加藤みどり.md "wikilink") |
-| [仮面ライダーストロンガー](../Page/仮面ライダーストロンガー.md "wikilink")                         | [荒木茂](../Page/荒木しげる.md "wikilink")、[岡田京子](https://ja.wikipedia.org/wiki/岡田京子 "wikilink")、[小林昭二](../Page/小林昭二.md "wikilink") |                                                                                                                                                                                                                              |                                                                                                                                                                           |
+| 作品名                                                                        | 原作                                                                                                       | （声の）出演                                                                                                                                                                                 | 備考                                                                                                                                                     |
+| -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [ちびっ子レミと名犬カピ 家なき子](https://ja.wikipedia.org/wiki/ちびっ子レミと名犬カピ "wikilink")より | [エクトール・アンリ・マロ](../Page/エクトール・アンリ・マロ.md "wikilink")                                                       | [朝井ゆかり](https://ja.wikipedia.org/wiki/朝井ゆかり "wikilink")、[フランキー堺](../Page/フランキー堺.md "wikilink")、[市原悦子](../Page/市原悦子.md "wikilink")                                                      | \[5\]                                                                                                                                                  |
+| [宇宙円盤大戦争](../Page/宇宙円盤大戦争.md "wikilink")                                   | 永井豪                                                                                                      | [ささきいさお](../Page/ささきいさお.md "wikilink")、[小原乃梨子](../Page/小原乃梨子.md "wikilink")、[内海賢二](../Page/内海賢二.md "wikilink")、[松島みのり](../Page/松島みのり.md "wikilink")、[久松保夫](../Page/久松保夫.md "wikilink") | 劇場用新作                                                                                                                                                  |
+| [野生のエルザ](https://ja.wikipedia.org/wiki/野生のエルザ "wikilink")                  | [ジョイ・アダムソン](https://ja.wikipedia.org/wiki/ジョイ・アダムソン "wikilink")                                          | [ヴァージニア・マッケンブ](https://ja.wikipedia.org/wiki/ヴァージニア・マッケンブ "wikilink")、[ビル・トラバース](https://ja.wikipedia.org/wiki/ビル・トラバース "wikilink")                                                    | \[6\]                                                                                                                                                  |
+| [秘密戦隊ゴレンジャー](../Page/秘密戦隊ゴレンジャー.md "wikilink")                             | [石ノ森章太郎](../Page/石ノ森章太郎.md "wikilink")                                                                   | [誠直也](../Page/誠直也.md "wikilink")、[宮内洋](../Page/宮内洋.md "wikilink")、[畠山麦](../Page/畠山麦.md "wikilink")、[小牧りさ](../Page/小牧リサ.md "wikilink")、[伊藤幸雄](../Page/伊藤幸雄.md "wikilink")               |                                                                                                                                                        |
+| \[\[がんばれ                                                                   | ロボコン|がんばれ                                                                                                | ロボコン ゆかいな仲間\]\]                                                                                                                                                                        | [山本圭子](../Page/山本圭子.md "wikilink")、野田圭一、[島田歌穂](../Page/島田歌穂.md "wikilink")、[大野しげひさ](../Page/大野しげひさ.md "wikilink")、[加藤みどり](../Page/加藤みどり.md "wikilink") |
+| [仮面ライダーストロンガー](../Page/仮面ライダーストロンガー.md "wikilink")                         | [荒木茂](../Page/荒木しげる.md "wikilink")、[岡田京子](../Page/岡田京子.md "wikilink")、[小林昭二](../Page/小林昭二.md "wikilink") |                                                                                                                                                                                        |                                                                                                                                                        |
 
 ## 映像ソフト
 
-  - 1986年12月12日に[東映ビデオ](../Page/東映ビデオ.md "wikilink")から『**劇場版マジンガーシリーズ 3**』として『[宇宙円盤大戦争](https://ja.wikipedia.org/wiki/宇宙円盤大戦争 "wikilink")』『[UFOロボ グレンダイザー対グレートマジンガー](https://ja.wikipedia.org/wiki/UFOロボ_グレンダイザー対グレートマジンガー "wikilink")』とのセットで[VHS](../Page/VHS.md "wikilink")にて発売された。
+  - 1986年12月12日に[東映ビデオ](../Page/東映ビデオ.md "wikilink")から『**劇場版マジンガーシリーズ 3**』として『[宇宙円盤大戦争](../Page/宇宙円盤大戦争.md "wikilink")』『[UFOロボ グレンダイザー対グレートマジンガー](../Page/UFOロボ_グレンダイザー対グレートマジンガー.md "wikilink")』とのセットで[VHS](../Page/VHS.md "wikilink")にて発売された。
   - 1992年7月25日に東映ビデオから『**劇場版グレートマジンガーシリーズ**』として『[グレートマジンガー対ゲッターロボ](../Page/グレートマジンガー対ゲッターロボ.md "wikilink")』とカップリングでレーザーディスクが発売される。
   - 2002年5月21日に東映ビデオから『[マジンガーZ対デビルマン](../Page/マジンガーZ対デビルマン.md "wikilink")』から『[グレンダイザー ゲッターロボG グレートマジンガー 決戦\! 大海獣](../Page/グレンダイザー_ゲッターロボG_グレートマジンガー_決戦!_大海獣.md "wikilink")』までを一括収録したDVD-BOX『**マジンガー the MOVIE 永井豪スーパーロボットBOX**』が発売された\[7\]。
-  - 2003年5月21日に同じく東映ビデオから発売されたDVD『**マジンガー the MOVIE 2**』に『[グレートマジンガー対ゲッターロボ](../Page/グレートマジンガー対ゲッターロボ.md "wikilink")』『[UFOロボ グレンダイザー対グレートマジンガー](https://ja.wikipedia.org/wiki/UFOロボ_グレンダイザー対グレートマジンガー "wikilink")』『[グレンダイザー ゲッターロボG グレートマジンガー 決戦\! 大海獣](../Page/グレンダイザー_ゲッターロボG_グレートマジンガー_決戦!_大海獣.md "wikilink")』3作とのセットで収録された。
+  - 2003年5月21日に同じく東映ビデオから発売されたDVD『**マジンガー the MOVIE 2**』に『[グレートマジンガー対ゲッターロボ](../Page/グレートマジンガー対ゲッターロボ.md "wikilink")』『[UFOロボ グレンダイザー対グレートマジンガー](../Page/UFOロボ_グレンダイザー対グレートマジンガー.md "wikilink")』『[グレンダイザー ゲッターロボG グレートマジンガー 決戦\! 大海獣](../Page/グレンダイザー_ゲッターロボG_グレートマジンガー_決戦!_大海獣.md "wikilink")』3作とのセットで収録された。
   - 2012年10月21日発売のブルーレイ『**マジンガー THE MOVIE　Blu-ray 1973〜1976**』に収録。(新たに疑似5.1ch化した音声を併録。)
-  - 2013年12月6日発売のブルーレイ『**マジンガー THE MOVIE　vol.2**』に『[宇宙円盤大戦争](https://ja.wikipedia.org/wiki/宇宙円盤大戦争 "wikilink")』『[UFOロボ グレンダイザー対グレートマジンガー](https://ja.wikipedia.org/wiki/UFOロボ_グレンダイザー対グレートマジンガー "wikilink")』『[グレンダイザー ゲッターロボG グレートマジンガー 決戦\! 大海獣](../Page/グレンダイザー_ゲッターロボG_グレートマジンガー_決戦!_大海獣.md "wikilink")』と併せて収録。(これは『**マジンガー THE MOVIE　Blu-ray 1973〜1976**』のBOXからDISC2を単巻でプライスダウン発売したもの\[8\]。)
+  - 2013年12月6日発売のブルーレイ『**マジンガー THE MOVIE　vol.2**』に『[宇宙円盤大戦争](../Page/宇宙円盤大戦争.md "wikilink")』『[UFOロボ グレンダイザー対グレートマジンガー](../Page/UFOロボ_グレンダイザー対グレートマジンガー.md "wikilink")』『[グレンダイザー ゲッターロボG グレートマジンガー 決戦\! 大海獣](../Page/グレンダイザー_ゲッターロボG_グレートマジンガー_決戦!_大海獣.md "wikilink")』と併せて収録。(これは『**マジンガー THE MOVIE　Blu-ray 1973〜1976**』のBOXからDISC2を単巻でプライスダウン発売したもの\[8\]。)
 
 ## 脚注
 
 ## 関連項目
 
-  - [グレートマジンガー](https://ja.wikipedia.org/wiki/グレートマジンガー "wikilink")
-  - [ゲッターロボG](https://ja.wikipedia.org/wiki/ゲッターロボG "wikilink")
+  - [グレートマジンガー](../Page/グレートマジンガー.md "wikilink")
+  - [ゲッターロボG](../Page/ゲッターロボG.md "wikilink")
   - [ロボットガールズZ](https://ja.wikipedia.org/wiki/ロボットガールズZ "wikilink") - 「プラス」編に変更後の敵キャラは、本作の敵キャラをイメージしている。
 
 [Category:アニメ作品_く](https://ja.wikipedia.org/wiki/Category:アニメ作品_く "wikilink") [Category:マジンガーのアニメ](https://ja.wikipedia.org/wiki/Category:マジンガーのアニメ "wikilink") [Category:ゲッターロボ](https://ja.wikipedia.org/wiki/Category:ゲッターロボ "wikilink") [Category:ロボットアニメのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:ロボットアニメのクロスオーバー作品 "wikilink") [Category:1975年のアニメ映画](https://ja.wikipedia.org/wiki/Category:1975年のアニメ映画 "wikilink") [Category:東映まんがまつり](https://ja.wikipedia.org/wiki/Category:東映まんがまつり "wikilink") [Category:東映・東映アニメーションのロボットアニメ](https://ja.wikipedia.org/wiki/Category:東映・東映アニメーションのロボットアニメ "wikilink") [Category:東映アニメーションのアニメ映画](https://ja.wikipedia.org/wiki/Category:東映アニメーションのアニメ映画 "wikilink") [Category:フジテレビ系アニメのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:フジテレビ系アニメのクロスオーバー作品 "wikilink") [Category:巨大ロボットを題材としたアニメ映画](https://ja.wikipedia.org/wiki/Category:巨大ロボットを題材としたアニメ映画 "wikilink") [Category:フジテレビ製作のアニメ映画](https://ja.wikipedia.org/wiki/Category:フジテレビ製作のアニメ映画 "wikilink") [Category:地球外生命体を題材としたアニメ映画](https://ja.wikipedia.org/wiki/Category:地球外生命体を題材としたアニメ映画 "wikilink") [Category:菊池俊輔の作曲映画](https://ja.wikipedia.org/wiki/Category:菊池俊輔の作曲映画 "wikilink")
@@ -125,7 +125,7 @@
 2.  この後『決戦\! 大海獣』でビューナスとボロットが再登場するが、シローは本作を以て映画から退くため、ジュニアは登場せずじまいに終わった。
 3.
 4.  オープニングテーマは前作の「ゲッターロボ\!」を引き続き使用した。
-5.  [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[3月17日](../Page/3月17日.md "wikilink")に公開された『[ちびっ子レミと名犬カピ](https://ja.wikipedia.org/wiki/ちびっ子レミと名犬カピ "wikilink")』の改題短縮リバイバル版。
+5.  [1970年](../Page/1970年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink")に公開された『[ちびっ子レミと名犬カピ](https://ja.wikipedia.org/wiki/ちびっ子レミと名犬カピ "wikilink")』の改題短縮リバイバル版。
 6.  [1966年](../Page/1966年.md "wikilink")公開のイギリス映画のダイジェスト。
 7.
 8.  [＜東映まんがまつり＞公開の「マジンガーZ」関連劇場版を収めた単巻Blu-ray2タイトルが同日発売](http://amass.jp/27993/)

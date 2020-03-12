@@ -1,7 +1,7 @@
 > この記事は[PERFECT BEST \(EXILE\)](https://ja.wikipedia.org/wiki/PERFECT_BEST_\(EXILE\))から翻訳されています。
 
 
-『**PERFECT BEST**』（パーフェクト ベスト）は、[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")の[ベストアルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[1月1日](../Page/1月1日.md "wikilink")に[rhythm zoneから発売](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。
+『**PERFECT BEST**』（パーフェクト ベスト）は、[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")の[ベストアルバム](../Page/ベスト・アルバム.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")に[rhythm zoneから発売](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要
 
@@ -27,7 +27,7 @@
 
 1.  **[Your eyes only 〜曖昧なぼくの輪郭〜](../Page/Your_eyes_only_〜曖昧なぼくの輪郭〜.md "wikilink")** \[3:49\]
       -
-        作詞：[Kenn Kato](https://ja.wikipedia.org/wiki/Kenn_Kato "wikilink") / 作曲・編曲：[Face 2 fAKE](https://ja.wikipedia.org/wiki/Face_2_fAKE "wikilink")
+        作詞：[Kenn Kato](https://ja.wikipedia.org/wiki/Kenn_Kato "wikilink") / 作曲・編曲：[Face 2 fAKE](../Page/Face_2_fAKE.md "wikilink")
     <!-- end list -->
       - 1stシングル
 2.  **[Style](../Page/Style_\(EXILEの曲\).md "wikilink")** \[4:43\]
@@ -55,9 +55,9 @@
         作詞：Kenn Kato / 作曲・編曲：原一博
     <!-- end list -->
       - 6thシングル「EX-STYLE 〜Kiss you〜」表題曲
-7.  **[We Will 〜あの場所で〜](https://ja.wikipedia.org/wiki/We_Will_〜あの場所で〜 "wikilink")** \[5:29\]
+7.  **[We Will 〜あの場所で〜](../Page/We_Will_〜あの場所で〜.md "wikilink")** \[5:29\]
       -
-        作詞：[SHUN](../Page/清木場俊介.md "wikilink") / 作曲：[中野雄太](https://ja.wikipedia.org/wiki/中野雄太 "wikilink") / 編曲：[h-wonder](https://ja.wikipedia.org/wiki/h-wonder "wikilink")
+        作詞：[SHUN](../Page/清木場俊介.md "wikilink") / 作曲：[中野雄太](../Page/中野雄太.md "wikilink") / 編曲：[h-wonder](https://ja.wikipedia.org/wiki/h-wonder "wikilink")
     <!-- end list -->
       - 7thシングル
 8.  **[Together](../Page/Breezin'_〜Together〜.md "wikilink")** \[4:19\]
@@ -70,7 +70,7 @@
         作詞：[佐藤ありす](../Page/佐藤ありす.md "wikilink") / 作曲：[中西圭三](https://ja.wikipedia.org/wiki/中西圭三 "wikilink") / 編曲：岩戸崇
     <!-- end list -->
       - 10thシングル
-      - [ZOOのカバー](https://ja.wikipedia.org/wiki/ZOO_\(ダンス&ボーカルユニット\) "wikilink")
+      - [ZOOのカバー](../Page/ZOO_\(ダンス&ボーカルユニット\).md "wikilink")
 10. **[Carry On](https://ja.wikipedia.org/wiki/Carry_On/運命のヒト "wikilink")** \[4:51\]
       -
         作詞：SHUN / 作曲：原一博 / 編曲：h-wonder
@@ -106,7 +106,7 @@
 
 1.  **STAY** \[4:28\]
       -
-        作詞：[michico](https://ja.wikipedia.org/wiki/MICHICO "wikilink") / 作曲：[T.Kura](https://ja.wikipedia.org/wiki/T.Kura "wikilink"), michico / 編曲：T.Kura
+        作詞：[michico](../Page/MICHICO.md "wikilink") / 作曲：[T.Kura](https://ja.wikipedia.org/wiki/T.Kura "wikilink"), michico / 編曲：T.Kura
     <!-- end list -->
       - 新曲
       - 後に4thアルバム『[ASIA](../Page/ASIA_\(アルバム\).md "wikilink")』にリミックスバージョン、ベストアルバム『[EXILE ENTERTAINMENT BEST](https://ja.wikipedia.org/wiki/EXILE_ENTERTAINMENT_BEST "wikilink")』に再録バージョンが収録。同曲の続編「**最後の告白 〜STAY part.Ⅱ〜**」が、4thアルバム『ASIA』に収録。
@@ -137,7 +137,7 @@
       - 8thシングル「Breezin' 〜Together〜」カップリング
 7.  **[LET ME LUV U DOWN feat.ZEEBRA & MACCHO (OZROSAURUS)](../Page/LET_ME_LUV_U_DOWN_feat.ZEEBRA_&_MACCHO_\(OZROSAURUS\).md "wikilink")** \[4:01\]
       -
-        作詞：[FIRSTKLAS](https://ja.wikipedia.org/wiki/FIRSTKLAS "wikilink")、[MACCHO](https://ja.wikipedia.org/wiki/OZROSAURUS "wikilink") / 作曲：FIRSTKLAS
+        作詞：[FIRSTKLAS](https://ja.wikipedia.org/wiki/FIRSTKLAS "wikilink")、[MACCHO](../Page/OZROSAURUS.md "wikilink") / 作曲：FIRSTKLAS
     <!-- end list -->
       - 9thシングル
 8.  **[Be Mine](https://ja.wikipedia.org/wiki/99%_Radio_Show "wikilink")** \[5:42\] / 99% Radio Allstars
@@ -160,9 +160,9 @@
         作詞：SHUN / 作曲：菊池一仁 / 編曲：長岡成貢
     <!-- end list -->
       - 13thシングル
-12. **[New Jack Swing](https://ja.wikipedia.org/wiki/EXILE_ENTERTAINMENT "wikilink")** \[4:35\]
+12. **[New Jack Swing](../Page/EXILE_ENTERTAINMENT.md "wikilink")** \[4:35\]
       -
-        作詞：[L.L.BROTHERS](https://ja.wikipedia.org/wiki/LL_BROTHERS "wikilink")、MICHICO / 作曲・編曲：T-KURA）
+        作詞：[L.L.BROTHERS](../Page/LL_BROTHERS.md "wikilink")、MICHICO / 作曲・編曲：T-KURA）
     <!-- end list -->
       - 3rdアルバム『EXILE ENTERTAINMENT』収録曲
 13. **[Believe](https://ja.wikipedia.org/wiki/99%_Radio_Show "wikilink")** \[5:07\]
@@ -171,13 +171,13 @@
     <!-- end list -->
       - コンピレーションアルバム『99% Radio Show』収録曲のオリジナルバージョン
       - EXILEの3rdアルバム『EXILE ENTERTAINMENT』にも収録。
-14. **[Emotional Beat](https://ja.wikipedia.org/wiki/HEART_of_GOLD_〜STREET_FUTURE_OPERA_BEAT_POPS〜 "wikilink")** \[4:42\]
+14. **[Emotional Beat](../Page/HEART_of_GOLD_〜STREET_FUTURE_OPERA_BEAT_POPS〜.md "wikilink")** \[4:42\]
       -
         作詞：Kenn Kato / 作曲・編曲：h-wonder
     <!-- end list -->
       - [EXILES](https://ja.wikipedia.org/wiki/EXILES "wikilink")名義の企画アルバム『HEART of GOLD〜STREET FUTURE OPERA BEAT POPS〜』収録曲
       - EXILE名義アルバム初収録。
-15. **[イノチの理由](https://ja.wikipedia.org/wiki/HEART_of_GOLD_〜STREET_FUTURE_OPERA_BEAT_POPS〜 "wikilink")** \[4:05\]
+15. **[イノチの理由](../Page/HEART_of_GOLD_〜STREET_FUTURE_OPERA_BEAT_POPS〜.md "wikilink")** \[4:05\]
       -
         作詞：Kenn Kato / 作曲：山口寛雄 / 編曲：原田憲）
     <!-- end list -->

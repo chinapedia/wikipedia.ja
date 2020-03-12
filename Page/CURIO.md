@@ -30,7 +30,7 @@
 
 <!-- end list -->
 
-  - **BRITAIN**（ブリテン、[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[1月1日](../Page/1月1日.md "wikilink") - ）
+  - **BRITAIN**（ブリテン、[1970年](../Page/1970年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink") - ）
 
 <!-- end list -->
 
@@ -56,10 +56,10 @@
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")2月、AJAを中心にKASSAIとBRITAINが集まり、メンバー募集告知でNOBがボーカルとして加わりCURIO結成。
   - 1995年[9月17日](../Page/9月17日.md "wikilink")、[BSヤングバトル](../Page/BSヤングバトル.md "wikilink")近畿大会に出場し準優勝。[11月19日](../Page/11月19日.md "wikilink")の決勝大会にも出場。
   - [1996年](../Page/1996年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")、[大阪バナナホール](https://ja.wikipedia.org/wiki/大阪バナナホール "wikilink")で初のワンマンライブ。
-  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、[シングル](../Page/シングル.md "wikilink")「ときめき」で[EPICソニーからデビュー](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")。
-  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、シングル「粉雪」がヒットする。[オリコン最高](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")29位。同年にシングル「君に触れるだけで」が[フジテレビ系アニメ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[るろうに剣心 -明治剣客浪漫譚-](https://ja.wikipedia.org/wiki/るろうに剣心_-明治剣客浪漫譚-_\(アニメ\) "wikilink")』のオープニングテーマになる。オリコン最高14位。
+  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、[シングル](../Page/シングル.md "wikilink")「ときめき」で[EPICソニーからデビュー](../Page/エピックレコードジャパン.md "wikilink")。
+  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、シングル「粉雪」がヒットする。[オリコン最高](../Page/オリコンチャート.md "wikilink")29位。同年にシングル「君に触れるだけで」が[フジテレビ系アニメ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[るろうに剣心 -明治剣客浪漫譚-](https://ja.wikipedia.org/wiki/るろうに剣心_-明治剣客浪漫譚-_\(アニメ\) "wikilink")』のオープニングテーマになる。オリコン最高14位。
   - [1999年](../Page/1999年.md "wikilink")、シングル「祈り」が[全国高校サッカーのテーマ曲となる](../Page/全国高等学校サッカー選手権大会.md "wikilink")。オリコン最高26位。
-  - [2000年](../Page/2000年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink")、NOBが[世田谷区](https://ja.wikipedia.org/wiki/世田谷区 "wikilink")[池尻で職務質問を受けた際](../Page/池尻_\(世田谷区\).md "wikilink")、[覚醒剤](../Page/覚醒剤.md "wikilink")約0.5グラムを所持していた容疑で逮捕。バンド活動休止とレーベル契約終了が発表される。
+  - [2000年](../Page/2000年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink")、NOBが[世田谷区](../Page/世田谷区.md "wikilink")[池尻で職務質問を受けた際](../Page/池尻_\(世田谷区\).md "wikilink")、[覚醒剤](../Page/覚醒剤.md "wikilink")約0.5グラムを所持していた容疑で逮捕。バンド活動休止とレーベル契約終了が発表される。
   - [2001年](../Page/2001年.md "wikilink")、AJA脱退。自主レーベル「raison d'etre」設立。ミニアルバムとライブで音楽活動を再開する。
   - [2002年](../Page/2002年.md "wikilink")6月、[east west japanTRINITASレーベル移籍](https://ja.wikipedia.org/wiki/east_west_japan "wikilink")。再メジャーデビューを果たす。
   - [2003年](../Page/2003年.md "wikilink")9月、ファンクラブ会報誌にて解散を発表。
@@ -102,7 +102,7 @@
 <td><p><strong>ひまわり</strong></p></td>
 <td><p>ESDB-3770</p></td>
 <td><ol>
-<li>ひまわり 【作詞:NOB/作曲:AJA/編曲:CURIO,<a href="https://ja.wikipedia.org/wiki/佐久間正英" title="wikilink">佐久間正英</a>】</li>
+<li>ひまわり 【作詞:NOB/作曲:AJA/編曲:CURIO,<a href="../Page/佐久間正英.md" title="wikilink">佐久間正英</a>】</li>
 <li>君のすべてを見ていたい 【作詞:NOB/作曲:AJA/編曲:CURIO,佐久間正英】</li>
 <li>ひまわり(BACKING TRACK)</li>
 </ol></td>
@@ -554,14 +554,14 @@ POCE-2034:メジャー</p></td>
 <p>ディスク1</p>
 <ol>
 <li><a href="../Page/そばかす_(曲).md" title="wikilink">そばかす</a> / <a href="../Page/JUDY_AND_MARY.md" title="wikilink">JUDY AND MARY</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/JAM/Tactics" title="wikilink">TACTICS</a> / <a href="https://ja.wikipedia.org/wiki/THE_YELLOW_MONKEY" title="wikilink">THE YELLOW MONKEY</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/JAM/Tactics" title="wikilink">TACTICS</a> / <a href="../Page/THE_YELLOW_MONKEY.md" title="wikilink">THE YELLOW MONKEY</a></li>
 <li>涙は知っている / <a href="../Page/涼風真世.md" title="wikilink">涼風真世</a></li>
 <li><a href="../Page/HEART_OF_SWORD_〜夜明け前〜.md" title="wikilink">HEART OF SWORD 〜夜明け前〜</a> / <a href="../Page/T.M.Revolution.md" title="wikilink">T.M.Revolution</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/1/2_(川本真琴の曲)" title="wikilink">1/2</a> / <a href="https://ja.wikipedia.org/wiki/川本真琴" title="wikilink">川本真琴</a></li>
 <li><a href="../Page/It&#39;s_gonna_rain!.md" title="wikilink">It's gonna rain!</a> / <a href="https://ja.wikipedia.org/wiki/BONNIE_PINK" title="wikilink">BONNIE PINK</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/1/3の純情な感情" title="wikilink">1/3の純情な感情</a> / <a href="https://ja.wikipedia.org/wiki/SIAM_SHADE" title="wikilink">SIAM SHADE</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/1/3の純情な感情" title="wikilink">1/3の純情な感情</a> / <a href="../Page/SIAM_SHADE.md" title="wikilink">SIAM SHADE</a></li>
 <li><strong>君に触れるだけで / CURIO</strong></li>
-<li>ダメ! / <a href="https://ja.wikipedia.org/wiki/和泉容" title="wikilink">和泉容</a></li>
+<li>ダメ! / <a href="../Page/和泉容.md" title="wikilink">和泉容</a></li>
 </ol>
 <p>ディスク2</p>
 <ol>
@@ -609,7 +609,7 @@ POCE-2034:メジャー</p></td>
 <div class="NavContent" style="text-align:left;">
 <ol>
 <li><a href="https://ja.wikipedia.org/wiki/新大阪_(ゴスペラーズの曲)" title="wikilink">Golden Age ～黄金世代～</a> / <a href="../Page/ゴスペラーズ.md" title="wikilink">ゴスペラーズ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/理由なきNew_Days" title="wikilink">理由なきNew Days</a> / <a href="https://ja.wikipedia.org/wiki/SOPHIA" title="wikilink">SOPHIA</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/理由なきNew_Days" title="wikilink">理由なきNew Days</a> / <a href="../Page/SOPHIA.md" title="wikilink">SOPHIA</a></li>
 <li>Yourself / <a href="../Page/Dream_(音楽ユニット).md" title="wikilink">dream</a></li>
 <li>約束 / <a href="https://ja.wikipedia.org/wiki/中武佳奈子" title="wikilink">中武佳奈子</a></li>
 <li>Sign of Love / <a href="../Page/S.E.S..md" title="wikilink">S.E.S.</a></li>
@@ -617,7 +617,7 @@ POCE-2034:メジャー</p></td>
 <li>SPARKLE / <a href="https://ja.wikipedia.org/wiki/奥居香" title="wikilink">奥居香</a></li>
 <li>この地球が果てるまで / <a href="../Page/佳苗.md" title="wikilink">佳苗</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Melodies_&amp;_Memories" title="wikilink">Melodies &amp; Memories</a> / <a href="../Page/TUBE.md" title="wikilink">TUBE</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ふり向くな君は美しい" title="wikilink">ふり向くな君は美しい</a> / <a href="https://ja.wikipedia.org/wiki/ザ・バーズ" title="wikilink">ザ・バーズ</a></li>
+<li><a href="../Page/ふり向くな君は美しい.md" title="wikilink">ふり向くな君は美しい</a> / <a href="https://ja.wikipedia.org/wiki/ザ・バーズ" title="wikilink">ザ・バーズ</a></li>
 <li>ふり向くな君は美しい(カラオケ) / ザ・バーズ
 </div>
 </div></li>
@@ -634,36 +634,36 @@ POCE-2034:メジャー</p></td>
 <div class="NavContent" style="text-align:left;">
 <p>ディスク1</p>
 <ol>
-<li>NEVER NEVER LAND / <a href="https://ja.wikipedia.org/wiki/Small_Circle_of_Friends" title="wikilink">Small Circle of Friends</a></li>
+<li>NEVER NEVER LAND / <a href="../Page/Small_Circle_of_Friends.md" title="wikilink">Small Circle of Friends</a></li>
 <li><a href="../Page/One_more_time,_One_more_chance.md" title="wikilink">One more time, One more chance</a> / <a href="https://ja.wikipedia.org/wiki/山崎まさよし" title="wikilink">山崎まさよし</a></li>
-<li>犬と猫 / <a href="https://ja.wikipedia.org/wiki/中村一義" title="wikilink">中村一義</a></li>
+<li>犬と猫 / <a href="../Page/中村一義.md" title="wikilink">中村一義</a></li>
 <li>赤い手 / <a href="../Page/スキップカウズ.md" title="wikilink">スキップカウズ</a></li>
 <li>愛のメロディー / <a href="../Page/佐藤聖子.md" title="wikilink">佐藤聖子</a></li>
 <li>永遠(とわ)にねむる / <a href="../Page/小谷美紗子.md" title="wikilink">小谷美紗子</a></li>
-<li><a href="../Page/黄金の月_(スガシカオの曲).md" title="wikilink">黄金の月</a> / <a href="https://ja.wikipedia.org/wiki/スガシカオ" title="wikilink">スガシカオ</a></li>
+<li><a href="../Page/黄金の月_(スガシカオの曲).md" title="wikilink">黄金の月</a> / <a href="../Page/スガシカオ.md" title="wikilink">スガシカオ</a></li>
 <li>STAR FRUITS SURF RIDER / <a href="https://ja.wikipedia.org/wiki/小山田圭吾" title="wikilink">CORNELIUS</a></li>
 <li>Joy of Living / <a href="../Page/Swinging_Popsicle.md" title="wikilink">Swinging Popsicle</a></li>
-<li>センチメンタルシティ マラソン / <a href="https://ja.wikipedia.org/wiki/馬場俊英" title="wikilink">馬場俊英</a></li>
+<li>センチメンタルシティ マラソン / <a href="../Page/馬場俊英.md" title="wikilink">馬場俊英</a></li>
 <li>だいたい彼女は... / <a href="https://ja.wikipedia.org/wiki/宮本浩次" title="wikilink">宮本浩次</a></li>
 <li>強く儚い者たち / <a href="https://ja.wikipedia.org/wiki/Cocco" title="wikilink">Cocco</a></li>
 <li>復活 / <a href="../Page/Daily-Echo.md" title="wikilink">Daily-Echo</a></li>
-<li>IF YOU LOVE ME / <a href="https://ja.wikipedia.org/wiki/SAKURA_(歌手)" title="wikilink">SAKURA</a></li>
+<li>IF YOU LOVE ME / <a href="../Page/SAKURA_(歌手).md" title="wikilink">SAKURA</a></li>
 </ol>
 <p>ディスク2</p>
 <ol>
 <li><strong>粉雪 / CURIO</strong></li>
-<li>BABY BABY BABY / <a href="https://ja.wikipedia.org/wiki/真心ブラザーズ" title="wikilink">真心ブラザーズ</a></li>
+<li>BABY BABY BABY / <a href="../Page/真心ブラザーズ.md" title="wikilink">真心ブラザーズ</a></li>
 <li>Sweet Rhapsody / <a href="https://ja.wikipedia.org/wiki/比屋定篤子" title="wikilink">比屋定篤子</a></li>
 <li>With-you / <a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a></li>
 <li><a href="../Page/夏色.md" title="wikilink">夏色</a> / <a href="https://ja.wikipedia.org/wiki/ゆず_(音楽グループ)" title="wikilink">ゆず</a></li>
 <li>Sunday / <a href="../Page/TOKYO_No.1_SOUL_SET.md" title="wikilink">TOKYO No.1 SOUL SET</a></li>
-<li>防波堤で見た景色 / <a href="https://ja.wikipedia.org/wiki/BEGIN_(バンド)" title="wikilink">BEGIN</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/白日_(GRAPEVINEの曲)" title="wikilink">白日</a> / <a href="https://ja.wikipedia.org/wiki/GRAPEVINE" title="wikilink">GRAPEVINE</a></li>
+<li>防波堤で見た景色 / <a href="../Page/BEGIN_(バンド).md" title="wikilink">BEGIN</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/白日_(GRAPEVINEの曲)" title="wikilink">白日</a> / <a href="../Page/GRAPEVINE.md" title="wikilink">GRAPEVINE</a></li>
 <li><a href="../Page/東京_(くるりの曲).md" title="wikilink">東京</a> / <a href="../Page/くるり.md" title="wikilink">くるり</a></li>
-<li>TEARS～時間(とき)の中で... / <a href="https://ja.wikipedia.org/wiki/我那覇美奈" title="wikilink">我那覇美奈</a></li>
+<li>TEARS～時間(とき)の中で... / <a href="../Page/我那覇美奈.md" title="wikilink">我那覇美奈</a></li>
 <li>sometime somewhere / <a href="https://ja.wikipedia.org/wiki/rough_laugh" title="wikilink">rough laugh</a></li>
 <li><a href="../Page/ここでキスして。.md" title="wikilink">ここでキスして。</a> / <a href="https://ja.wikipedia.org/wiki/椎名林檎" title="wikilink">椎名林檎</a></li>
-<li><a href="../Page/Let_yourself_go,_Let_myself_go.md" title="wikilink">Let yourself go, Let myself go</a> / <a href="https://ja.wikipedia.org/wiki/Dragon_Ash" title="wikilink">Dragon Ash</a>
+<li><a href="../Page/Let_yourself_go,_Let_myself_go.md" title="wikilink">Let yourself go, Let myself go</a> / <a href="../Page/Dragon_Ash.md" title="wikilink">Dragon Ash</a>
 </div>
 </div></li>
 </ol></td>
@@ -679,25 +679,25 @@ POCE-2034:メジャー</p></td>
 <div class="NavContent" style="text-align:left;">
 <p>ディスク1</p>
 <ol>
-<li><a href="https://ja.wikipedia.org/wiki/クリスマスキャロルの頃には" title="wikilink">クリスマスキャロルの頃には</a> / <a href="https://ja.wikipedia.org/wiki/稲垣潤一" title="wikilink">稲垣潤一</a></li>
+<li><a href="../Page/クリスマスキャロルの頃には.md" title="wikilink">クリスマスキャロルの頃には</a> / <a href="../Page/稲垣潤一.md" title="wikilink">稲垣潤一</a></li>
 <li><a href="../Page/サイレント・イヴ.md" title="wikilink">サイレント・イヴ</a> / <a href="https://ja.wikipedia.org/wiki/辛島美登里" title="wikilink">辛島美登里</a></li>
-<li>I LOVE YOU / <a href="https://ja.wikipedia.org/wiki/徳永英明" title="wikilink">徳永英明</a></li>
+<li>I LOVE YOU / <a href="../Page/徳永英明.md" title="wikilink">徳永英明</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Christmas_For_You" title="wikilink">Christmas For You</a> / <a href="../Page/前田亘輝.md" title="wikilink">前田亘輝</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ZUTTO_(永井真理子の曲)" title="wikilink">Zutto　～Xmas Version～</a> / <a href="../Page/永井真理子.md" title="wikilink">永井真理子</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/最後のHoly_Night" title="wikilink">最後のHoly Night</a> / <a href="https://ja.wikipedia.org/wiki/杉山清貴" title="wikilink">杉山清貴</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/最後のHoly_Night" title="wikilink">最後のHoly Night</a> / <a href="../Page/杉山清貴.md" title="wikilink">杉山清貴</a></li>
 <li>Merry X'masをあげたい -LAST FOR YOU‐ / <a href="https://ja.wikipedia.org/wiki/井上昌己_(歌手)" title="wikilink">井上昌己</a></li>
 <li>クリスマスまで待てない (雪だるま Version) / <a href="../Page/渡辺美里.md" title="wikilink">渡辺美里</a></li>
 <li><a href="../Page/雪にかいたLOVE_LETTER.md" title="wikilink">雪にかいたLOVE LETTER</a> / <a href="../Page/菊池桃子.md" title="wikilink">菊池桃子</a></li>
-<li>12月のエイプリル・フール / <a href="https://ja.wikipedia.org/wiki/EPO" title="wikilink">EPO</a></li>
+<li>12月のエイプリル・フール / <a href="../Page/EPO.md" title="wikilink">EPO</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/恋人がサンタクロース" title="wikilink">恋人がサンタクロース</a> / <a href="../Page/松田聖子.md" title="wikilink">松田聖子</a></li>
-<li>LAST CHRISTMAS SONG / <a href="https://ja.wikipedia.org/wiki/浜田麻里" title="wikilink">浜田麻里</a></li>
+<li>LAST CHRISTMAS SONG / <a href="../Page/浜田麻里.md" title="wikilink">浜田麻里</a></li>
 <li>Christmas Time In Blue (Original Version) / <a href="../Page/佐野元春.md" title="wikilink">佐野元春</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Peach_X&#39;mas" title="wikilink">Peach X'mas (1995mix)</a> / <a href="../Page/岡村靖幸.md" title="wikilink">岡村靖幸</a></li>
 <li>Merry Christmas Mr.Lawrence / <a href="../Page/坂本龍一.md" title="wikilink">坂本龍一</a></li>
 </ol>
 <p>ディスク2</p>
 <ol>
-<li><a href="https://ja.wikipedia.org/wiki/My_Gift_to_You" title="wikilink">My Gift to You</a> / <a href="../Page/CHEMISTRY.md" title="wikilink">CHEMISTRY</a></li>
+<li><a href="../Page/My_Gift_to_You.md" title="wikilink">My Gift to You</a> / <a href="../Page/CHEMISTRY.md" title="wikilink">CHEMISTRY</a></li>
 <li><a href="../Page/DEAR...again.md" title="wikilink">DEAR...again (Ver.2.05)</a> / <a href="https://ja.wikipedia.org/wiki/広瀬香美" title="wikilink">広瀬香美</a></li>
 <li><a href="../Page/WINTER_SONG.md" title="wikilink">WINTER SONG～DANCING SNOWFLAKES VERSION～</a> / <a href="../Page/DREAMS_COME_TRUE.md" title="wikilink">DREAMS COME TRUE</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Cheese_&quot;PIZZA&quot;/クリスマス" title="wikilink">クリスマス</a> / <a href="../Page/JUDY_AND_MARY.md" title="wikilink">JUDY AND MARY</a></li>
@@ -728,14 +728,14 @@ POCE-2034:メジャー</p></td>
 
 ## タイアップ
 
-| 曲名         | タイアップ                                                                                                                   |
-| ---------- | ----------------------------------------------------------------------------------------------------------------------- |
-| ひまわり       | [TBS系列](../Page/TBSテレビ.md "wikilink")『[COUNT DOWN TV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")』オープニングテーマ |
-| 風の宅配便      | フジテレビ『来来圏』オープニングテーマ                                                                                                     |
-| 君に触れるだけで   | アニメ『るろうに剣心』第3期オープニングテーマ                                                                                                 |
-| TO BE LOUD | TBS系列『COUNT DOWN TV』オープニングテーマ                                                                                           |
-| 祈り         | 第77回全国高校サッカー選手権大会イメージソング                                                                                                |
-| Clover     | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")『やるヌキ』エンディングテーマ                                                  |
+| 曲名         | タイアップ                                                                                                |
+| ---------- | ---------------------------------------------------------------------------------------------------- |
+| ひまわり       | [TBS系列](../Page/TBSテレビ.md "wikilink")『[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")』オープニングテーマ |
+| 風の宅配便      | フジテレビ『来来圏』オープニングテーマ                                                                                  |
+| 君に触れるだけで   | アニメ『るろうに剣心』第3期オープニングテーマ                                                                              |
+| TO BE LOUD | TBS系列『COUNT DOWN TV』オープニングテーマ                                                                        |
+| 祈り         | 第77回全国高校サッカー選手権大会イメージソング                                                                             |
+| Clover     | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")『やるヌキ』エンディングテーマ                               |
 
 ## 主なライブ
 

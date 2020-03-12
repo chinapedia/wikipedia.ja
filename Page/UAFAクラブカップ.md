@@ -1,11 +1,11 @@
 > この記事は[UAFA](https://ja.wikipedia.org/wiki/UAFA)から翻訳されています。
 
 
-**アラブ・クラブ・チャンピオンズカップ**（、）は、[アラブサッカー連盟](https://ja.wikipedia.org/wiki/アラブサッカー連盟 "wikilink")（UAFA）が主催し、[アラブ諸国の](../Page/アラブ世界.md "wikilink")[クラブチーム](../Page/クラブチーム.md "wikilink")が参加する、[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の国際大会である。
+**アラブ・クラブ・チャンピオンズカップ**（、）は、[アラブサッカー連盟](../Page/アラブサッカー連盟.md "wikilink")（UAFA）が主催し、[アラブ諸国の](../Page/アラブ世界.md "wikilink")[クラブチーム](../Page/クラブチーム.md "wikilink")が参加する、[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の国際大会である。
 
 ## 歴史
 
-[1982年](../Page/1982年.md "wikilink")、**アラブ・クラブ・チャンピオンズカップ**（）として始まり、[2001年](../Page/2001年.md "wikilink")に**[アラブ・カップウィナーズカップ](https://ja.wikipedia.org/wiki/アラブ・カップウィナーズカップ "wikilink")**（）を統合し、**プリンス・ファイサル・ビン＝ファハド・トーナメント**へと改組された。2003-04年度から2009-10年度までは**アラブ・チャンピオンズリーグ**、2012-13年度は**UAFAクラブカップ**、2017年度は**アラブ・クラブ・チャンピオンシップ**として開催されていた。2018-19年度から当初の**アラブ・クラブ・チャンピオンズカップ**という名称に戻って開催される。
+[1982年](../Page/1982年.md "wikilink")、**アラブ・クラブ・チャンピオンズカップ**（）として始まり、[2001年](../Page/2001年.md "wikilink")に**[アラブ・カップウィナーズカップ](../Page/アラブ・カップウィナーズカップ.md "wikilink")**（）を統合し、**プリンス・ファイサル・ビン＝ファハド・トーナメント**へと改組された。2003-04年度から2009-10年度までは**アラブ・チャンピオンズリーグ**、2012-13年度は**UAFAクラブカップ**、2017年度は**アラブ・クラブ・チャンピオンシップ**として開催されていた。2018-19年度から当初の**アラブ・クラブ・チャンピオンズカップ**という名称に戻って開催される。
 
 ## 結果
 
@@ -60,19 +60,19 @@
 <td><p>1988</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/アル・イテファク" title="wikilink">アル・イテファク</a></strong></p></td>
 <td><p><strong>1 - 1</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クラブ・アフリカーン" title="wikilink">クラブ・アフリカーン</a></p></td>
+<td><p><a href="../Page/クラブ・アフリカーン.md" title="wikilink">クラブ・アフリカーン</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1989</p></td>
 <td><p><strong><a href="../Page/ウィダード・カサブランカ.md" title="wikilink">ウィダード・カサブランカ</a></strong></p></td>
 <td><p><strong>3 - 1</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アル・ヒラル" title="wikilink">アル・ヒラル</a></p></td>
+<td><p><a href="../Page/アル・ヒラル.md" title="wikilink">アル・ヒラル</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1992</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/アル・シャバブ・リヤド" title="wikilink">アル・シャバブ</a></strong></p></td>
+<td><p><strong><a href="../Page/アル・シャバブ・リヤド.md" title="wikilink">アル・シャバブ</a></strong></p></td>
 <td><p><strong>2 - 0</strong> <a href="../Page/延長戦.md" title="wikilink">aet</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アル・アラビ・ドーハ" title="wikilink">アル・アラビ</a></p></td>
+<td><p><a href="../Page/アル・アラビ・ドーハ.md" title="wikilink">アル・アラビ</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1993</p></td>
@@ -82,14 +82,14 @@
 </tr>
 <tr class="odd">
 <td><p>1994</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/アル・ヒラル" title="wikilink">アル・ヒラル</a></strong></p></td>
+<td><p><strong><a href="../Page/アル・ヒラル.md" title="wikilink">アル・ヒラル</a></strong></p></td>
 <td><p><strong>0 - 0</strong> <a href="../Page/延長戦.md" title="wikilink">aet</a><br />
 <small>(<a href="../Page/PK戦.md" title="wikilink">PK</a> 4 - 3)</small></p></td>
 <td><p><a href="../Page/アル・イテハド.md" title="wikilink">アル・イテハド</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1995</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/アル・ヒラル" title="wikilink">アル・ヒラル</a></strong></p></td>
+<td><p><strong><a href="../Page/アル・ヒラル.md" title="wikilink">アル・ヒラル</a></strong></p></td>
 <td><p><strong>1 - 0</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/エスペランス・スポルティーブ・ドゥ・チュニス" title="wikilink">エスペランス</a></p></td>
 </tr>
@@ -101,7 +101,7 @@
 </tr>
 <tr class="even">
 <td><p>1997</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/クラブ・アフリカーン" title="wikilink">クラブ・アフリカーン</a></strong></p></td>
+<td><p><strong><a href="../Page/クラブ・アフリカーン.md" title="wikilink">クラブ・アフリカーン</a></strong></p></td>
 <td><p><strong>2 - 1</strong> <a href="../Page/延長戦.md" title="wikilink">aet</a></p></td>
 <td><p><a href="../Page/アル・アハリ.md" title="wikilink">アル・アハリ</a></p></td>
 </tr>
@@ -109,11 +109,11 @@
 <td><p>1998</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/WAトレムセン" title="wikilink">トレムセン</a></strong></p></td>
 <td><p><strong>2 - 0</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アル・シャバブ・リヤド" title="wikilink">アル・シャバブ</a></p></td>
+<td><p><a href="../Page/アル・シャバブ・リヤド.md" title="wikilink">アル・シャバブ</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1999</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/アル・シャバブ・リヤド" title="wikilink">アル・シャバブ</a></strong></p></td>
+<td><p><strong><a href="../Page/アル・シャバブ・リヤド.md" title="wikilink">アル・シャバブ</a></strong></p></td>
 <td><p><strong>2 - 0</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アル・ジャイシュ・ダマスカス" title="wikilink">アル・ジャイシュ</a></p></td>
 </tr>
@@ -125,7 +125,7 @@
 </tr>
 <tr class="even">
 <td><p>2001</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/アル・サッド" title="wikilink">アル・サッド</a></strong></p></td>
+<td><p><strong><a href="../Page/アル・サッド.md" title="wikilink">アル・サッド</a></strong></p></td>
 <td><p><strong>3 - 1</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/MCオラン" title="wikilink">MCオラン</a></p></td>
 </tr>
@@ -139,7 +139,7 @@
 <td><p>2002</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/アル・アハリ・ジッダ" title="wikilink">アル・アハリ</a></strong></p></td>
 <td><p><strong>1 - 0</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クラブ・アフリカーン" title="wikilink">クラブ・アフリカーン</a></p></td>
+<td><p><a href="../Page/クラブ・アフリカーン.md" title="wikilink">クラブ・アフリカーン</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2003</p></td>
@@ -235,7 +235,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/アラブ・クラブ・チャンピオンズカップ2018-19" title="wikilink">2018-19</a></p></td>
 <td><p><strong><a href="../Page/エトワール・サヘル.md" title="wikilink">エトワール・サヘル</a></strong></p></td>
 <td><p><strong>2 - 1</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アル・ヒラル" title="wikilink">アル・ヒラル</a></p></td>
+<td><p><a href="../Page/アル・ヒラル.md" title="wikilink">アル・ヒラル</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -270,7 +270,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/アル・ヒラル" title="wikilink">アル・ヒラル</a></p></td>
+<td><p><a href="../Page/アル・ヒラル.md" title="wikilink">アル・ヒラル</a></p></td>
 <td><p>2</p></td>
 <td><p><strong>2</strong></p></td>
 <td><p>1994,1995</p></td>
@@ -284,7 +284,7 @@
 <td><p>2005</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/アル・シャバブ・リヤド" title="wikilink">アル・シャバブ</a></p></td>
+<td><p><a href="../Page/アル・シャバブ・リヤド.md" title="wikilink">アル・シャバブ</a></p></td>
 <td><p>2</p></td>
 <td><p>1</p></td>
 <td><p>1992,1999</p></td>
@@ -305,7 +305,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/クラブ・アフリカーン" title="wikilink">クラブ・アフリカーン</a></p></td>
+<td><p><a href="../Page/クラブ・アフリカーン.md" title="wikilink">クラブ・アフリカーン</a></p></td>
 <td><p>1</p></td>
 <td><p><strong>2</strong></p></td>
 <td><p>1997</p></td>
@@ -354,7 +354,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/アル・サッド" title="wikilink">アル・サッド</a></p></td>
+<td><p><a href="../Page/アル・サッド.md" title="wikilink">アル・サッド</a></p></td>
 <td><p>1</p></td>
 <td><p>0</p></td>
 <td><p>2001</p></td>
@@ -424,7 +424,7 @@
 <td><p>1985</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/アル・アラビ・ドーハ" title="wikilink">アル・アラビ</a></p></td>
+<td><p><a href="../Page/アル・アラビ・ドーハ.md" title="wikilink">アル・アラビ</a></p></td>
 <td><p>0</p></td>
 <td><p>1</p></td>
 <td></td>
@@ -553,7 +553,7 @@
 
 ## 関連項目
 
-  - [アラブカップ](https://ja.wikipedia.org/wiki/アラブカップ "wikilink")
+  - [アラブカップ](../Page/アラブカップ.md "wikilink")
   - [ガルフ・クラブ・チャンピオンズカップ](https://ja.wikipedia.org/wiki/ガルフ・クラブ・チャンピオンズカップ "wikilink")
 
 ## 外部リンク

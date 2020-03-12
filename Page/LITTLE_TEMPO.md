@@ -1,13 +1,13 @@
 > この記事は[LITTLE TEMPO](https://ja.wikipedia.org/wiki/LITTLE_TEMPO)から翻訳されています。
 
 
-**LITTLE TEMPO**（リトルテンポ）は元[SILENT POETSの](https://ja.wikipedia.org/wiki/SILENT_POETS "wikilink")2人が中心となって結成された[ダブ](https://ja.wikipedia.org/wiki/ダブ "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。1992年結成。1999年[cutting edgeよりメジャーデビュー](https://ja.wikipedia.org/wiki/cutting_edge "wikilink")。曲の大半は[インストゥルメンタルだがゲストボーカルを迎えて歌ものを歌うこともある](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")。
+**LITTLE TEMPO**（リトルテンポ）は元[SILENT POETSの](../Page/SILENT_POETS.md "wikilink")2人が中心となって結成された[ダブ](../Page/ダブ.md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。1992年結成。1999年[cutting edgeよりメジャーデビュー](https://ja.wikipedia.org/wiki/cutting_edge "wikilink")。曲の大半は[インストゥルメンタルだがゲストボーカルを迎えて歌ものを歌うこともある](../Page/器楽曲.md "wikilink")。
 
 ## 略歴
 
 [1992年](../Page/1992年.md "wikilink")に結成。[1994年](../Page/1994年.md "wikilink")に[cutting edgeへレーベルを移し](https://ja.wikipedia.org/wiki/cutting_edge "wikilink")、[1999年](../Page/1999年.md "wikilink")にシングル「USUAL THINGS」でメジャーデビュー。
 
-[2003年](../Page/2003年.md "wikilink")に[ビクターエンタテインメント内レーベル](https://ja.wikipedia.org/wiki/JVCケンウッド・ビクターエンタテインメント "wikilink")・[Speedstar Internationalへ移籍](https://ja.wikipedia.org/wiki/SPEEDSTAR_RECORDS "wikilink")。
+[2003年](../Page/2003年.md "wikilink")に[ビクターエンタテインメント内レーベル](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")・[Speedstar Internationalへ移籍](../Page/SPEEDSTAR_RECORDS.md "wikilink")。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に自主レーベル・Sunshine Recordsを設立（販売元は[P-VINE](../Page/Pヴァイン.md "wikilink")）。
 
@@ -15,14 +15,14 @@
 
   - 土生"TICO"剛 - [Steelpan](../Page/スティールパン.md "wikilink")
       - Sunshine Love Steel Orchestraのメンバー。
-  - 白水生路 (SEIJI BIG BIRD) - [Bass](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
-      - [SILENT POETSの下田法晴とMintosとして活動](https://ja.wikipedia.org/wiki/SILENT_POETS "wikilink")。グラフィックデザイナーとして、過去には[総合格闘技](../Page/総合格闘技.md "wikilink")「[PRIDE](../Page/PRIDE_\(格闘技イベント\).md "wikilink")」のTシャツデザインを担当した\[1\]。
+  - 白水生路 (SEIJI BIG BIRD) - [Bass](../Page/ベース_\(弦楽器\).md "wikilink")
+      - [SILENT POETSの下田法晴とMintosとして活動](../Page/SILENT_POETS.md "wikilink")。グラフィックデザイナーとして、過去には[総合格闘技](../Page/総合格闘技.md "wikilink")「[PRIDE](../Page/PRIDE_\(格闘技イベント\).md "wikilink")」のTシャツデザインを担当した\[1\]。
   - [HAKASE](../Page/HAKASE-SUN.md "wikilink") - [Keyboards](../Page/キーボード_\(楽器\).md "wikilink")
-      - 1995年に[フィッシュマンズ](../Page/フィッシュマンズ.md "wikilink")脱退後加入\[2\]。[川上つよしと彼のムードメイカーズ](https://ja.wikipedia.org/wiki/川上つよしと彼のムードメイカーズ "wikilink")でも活動中。
+      - 1995年に[フィッシュマンズ](../Page/フィッシュマンズ.md "wikilink")脱退後加入\[2\]。[川上つよしと彼のムードメイカーズ](../Page/川上つよしと彼のムードメイカーズ.md "wikilink")でも活動中。
   - 春野高広 - [Saxophone](../Page/サクソフォーン.md "wikilink"), [Clarinet](../Page/クラリネット.md "wikilink")
-      - [SILENT POETS所属時の](https://ja.wikipedia.org/wiki/SILENT_POETS "wikilink")1999年にサポートメンバーとして加入。2000年にSILENT POETS脱退後、正式メンバーとなった。
-  - 田村玄一 - Steelpan, [Pedal steel](https://ja.wikipedia.org/wiki/スティール・ギター "wikilink")
-      - 1997年加入\[3\]。[KIRINJI](https://ja.wikipedia.org/wiki/キリンジ "wikilink")、Lonesome Stringsでも活動しており、土生と同じくSunshine Love Steel Orchestraのメンバー。
+      - [SILENT POETS所属時の](../Page/SILENT_POETS.md "wikilink")1999年にサポートメンバーとして加入。2000年にSILENT POETS脱退後、正式メンバーとなった。
+  - 田村玄一 - Steelpan, [Pedal steel](../Page/スティール・ギター.md "wikilink")
+      - 1997年加入\[3\]。[KIRINJI](../Page/キリンジ.md "wikilink")、Lonesome Stringsでも活動しており、土生と同じくSunshine Love Steel Orchestraのメンバー。
   - 小池龍平 - [Guitar](../Page/ギター.md "wikilink")
       - 2016年7月加入\[4\]。[bonobos](https://ja.wikipedia.org/wiki/bonobos "wikilink")のメンバー。
   - 大石幸司 - [Drums](../Page/ドラムセット.md "wikilink")
@@ -144,7 +144,7 @@
 <td><p>2001年6月30日にアナログ盤発売（RR12-88201/2）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/SPEEDSTAR_RECORDS" title="wikilink">Speedstar International</a> (<a href="https://ja.wikipedia.org/wiki/JVCケンウッド・ビクターエンタテインメント" title="wikilink">Victor Entertainment</a>)</p></td>
+<td><p><a href="../Page/SPEEDSTAR_RECORDS.md" title="wikilink">Speedstar International</a> (<a href="../Page/JVCケンウッド・ビクターエンタテインメント.md" title="wikilink">Victor Entertainment</a>)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -252,7 +252,7 @@
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/SPEEDSTAR_RECORDS" title="wikilink">Speedstar International</a> (<a href="https://ja.wikipedia.org/wiki/JVCケンウッド・ビクターエンタテインメント" title="wikilink">Victor Entertainment</a>)</p></td>
+<td><p><a href="../Page/SPEEDSTAR_RECORDS.md" title="wikilink">Speedstar International</a> (<a href="../Page/JVCケンウッド・ビクターエンタテインメント.md" title="wikilink">Victor Entertainment</a>)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -305,10 +305,10 @@ VIZL-173：初回盤 (CD+DVD)</p></td>
 
 ## 関連項目
 
-  - [川上つよしと彼のムードメイカーズ](https://ja.wikipedia.org/wiki/川上つよしと彼のムードメイカーズ "wikilink")
-  - [SILENT POETS](https://ja.wikipedia.org/wiki/SILENT_POETS "wikilink")
-  - [HONDALADY](https://ja.wikipedia.org/wiki/HONDALADY "wikilink")
-  - [ブルーワンミュージック](https://ja.wikipedia.org/wiki/ブルーワンミュージック "wikilink")
+  - [川上つよしと彼のムードメイカーズ](../Page/川上つよしと彼のムードメイカーズ.md "wikilink")
+  - [SILENT POETS](../Page/SILENT_POETS.md "wikilink")
+  - [HONDALADY](../Page/HONDALADY.md "wikilink")
+  - [ブルーワンミュージック](../Page/ブルーワンミュージック.md "wikilink")
 
 ## 外部リンク
 

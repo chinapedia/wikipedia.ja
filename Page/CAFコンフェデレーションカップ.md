@@ -56,8 +56,8 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/CAFカップ1996" title="wikilink">1996</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/カウカブ・マラケシュ" title="wikilink">カウカブ・マラケシュ</a></strong></p></td>
-<td><p><strong>1 - 3</strong> <a href="https://ja.wikipedia.org/wiki/アウェーゴール" title="wikilink">AG</a><br />
-<strong>2 - 0</strong> <a href="https://ja.wikipedia.org/wiki/アウェーゴール" title="wikilink">AG</a></p></td>
+<td><p><strong>1 - 3</strong> <a href="../Page/アウェーゴール.md" title="wikilink">AG</a><br />
+<strong>2 - 0</strong> <a href="../Page/アウェーゴール.md" title="wikilink">AG</a></p></td>
 <td><p><a href="../Page/エトワール・サヘル.md" title="wikilink">エトワール・サヘル</a></p></td>
 </tr>
 <tr class="odd">
@@ -77,22 +77,22 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/CAFカップ1999" title="wikilink">1999</a></p></td>
 <td><p><strong><a href="../Page/エトワール・サヘル.md" title="wikilink">エトワール・サヘル</a></strong></p></td>
-<td><p><strong>1 - 0</strong> <a href="https://ja.wikipedia.org/wiki/アウェーゴール" title="wikilink">AG</a><br />
-<strong>1 - 2</strong> <a href="https://ja.wikipedia.org/wiki/アウェーゴール" title="wikilink">AG</a></p></td>
+<td><p><strong>1 - 0</strong> <a href="../Page/アウェーゴール.md" title="wikilink">AG</a><br />
+<strong>1 - 2</strong> <a href="../Page/アウェーゴール.md" title="wikilink">AG</a></p></td>
 <td><p><a href="../Page/ウィダード・カサブランカ.md" title="wikilink">ウィダード・カサブランカ</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/CAFカップ2000" title="wikilink">2000</a></p></td>
 <td><p><strong><a href="../Page/JSカビリー.md" title="wikilink">JSカビリー</a></strong></p></td>
-<td><p><strong>1 - 1</strong> <a href="https://ja.wikipedia.org/wiki/アウェーゴール" title="wikilink">AG</a><br />
-<strong>0 - 0</strong> <a href="https://ja.wikipedia.org/wiki/アウェーゴール" title="wikilink">AG</a></p></td>
+<td><p><strong>1 - 1</strong> <a href="../Page/アウェーゴール.md" title="wikilink">AG</a><br />
+<strong>0 - 0</strong> <a href="../Page/アウェーゴール.md" title="wikilink">AG</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アル・イスマイリーSC" title="wikilink">アル・イスマイリー</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/CAFカップ2001" title="wikilink">2001</a></p></td>
 <td><p><strong><a href="../Page/JSカビリー.md" title="wikilink">JSカビリー</a></strong></p></td>
-<td><p><strong>1 - 2</strong> <a href="https://ja.wikipedia.org/wiki/アウェーゴール" title="wikilink">AG</a><br />
-<strong>1 - 0</strong> <a href="https://ja.wikipedia.org/wiki/アウェーゴール" title="wikilink">AG</a></p></td>
+<td><p><strong>1 - 2</strong> <a href="../Page/アウェーゴール.md" title="wikilink">AG</a><br />
+<strong>1 - 0</strong> <a href="../Page/アウェーゴール.md" title="wikilink">AG</a></p></td>
 <td><p><a href="../Page/エトワール・サヘル.md" title="wikilink">エトワール・サヘル</a></p></td>
 </tr>
 <tr class="even">
@@ -117,7 +117,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/CAFコンフェデレーションカップ2004" title="wikilink">2004</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/アクラ・ハーツ・オブ・オーク" title="wikilink">ハーツ・オブ・オーク</a></strong></p></td>
+<td><p><strong><a href="../Page/アクラ・ハーツ・オブ・オーク.md" title="wikilink">ハーツ・オブ・オーク</a></strong></p></td>
 <td><p><strong>1 - 1</strong><br />
 <strong>1 - 1</strong> <a href="../Page/延長戦.md" title="wikilink">aet</a><br />
 <small>(<a href="../Page/PK戦.md" title="wikilink">PK</a> 8 - 7)</small></p></td>
@@ -133,8 +133,8 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/CAFコンフェデレーションカップ2006" title="wikilink">2006</a></p></td>
 <td><p><strong><a href="../Page/エトワール・サヘル.md" title="wikilink">エトワール・サヘル</a></strong></p></td>
-<td><p><strong>1 - 1</strong> <a href="https://ja.wikipedia.org/wiki/アウェーゴール" title="wikilink">AG</a><br />
-<strong>0 - 0</strong> <a href="https://ja.wikipedia.org/wiki/アウェーゴール" title="wikilink">AG</a></p></td>
+<td><p><strong>1 - 1</strong> <a href="../Page/アウェーゴール.md" title="wikilink">AG</a><br />
+<strong>0 - 0</strong> <a href="../Page/アウェーゴール.md" title="wikilink">AG</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/FARラバト" title="wikilink">FARラバト</a></p></td>
 </tr>
 <tr class="even">
@@ -147,8 +147,8 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/CAFコンフェデレーションカップ2008" title="wikilink">2008</a></p></td>
 <td><p><strong><a href="../Page/CSスファクシアン.md" title="wikilink">CSスファクシアン</a></strong></p></td>
-<td><p><strong>0 - 0</strong> <a href="https://ja.wikipedia.org/wiki/アウェーゴール" title="wikilink">AG</a><br />
-<strong>2 - 2</strong> <a href="https://ja.wikipedia.org/wiki/アウェーゴール" title="wikilink">AG</a></p></td>
+<td><p><strong>0 - 0</strong> <a href="../Page/アウェーゴール.md" title="wikilink">AG</a><br />
+<strong>2 - 2</strong> <a href="../Page/アウェーゴール.md" title="wikilink">AG</a></p></td>
 <td><p><a href="../Page/エトワール・サヘル.md" title="wikilink">エトワール・サヘル</a></p></td>
 </tr>
 <tr class="even">
@@ -172,7 +172,7 @@
 <td><p><strong>0 - 1</strong><br />
 <strong>1 - 0</strong> <a href="../Page/延長戦.md" title="wikilink">aet</a><br />
 <small>(<a href="../Page/PK戦.md" title="wikilink">PK</a> 6 - 5)</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クラブ・アフリカーン" title="wikilink">クラブ・アフリカーン</a></p></td>
+<td><p><a href="../Page/クラブ・アフリカーン.md" title="wikilink">クラブ・アフリカーン</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/CAFコンフェデレーションカップ2012" title="wikilink">2012</a></p></td>
@@ -191,8 +191,8 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/CAFコンフェデレーションカップ2014" title="wikilink">2014</a></p></td>
 <td><p><strong><a href="../Page/アル・アハリ.md" title="wikilink">アル・アハリ</a></strong></p></td>
-<td><p><strong>2 - 1</strong> <a href="https://ja.wikipedia.org/wiki/アウェーゴール" title="wikilink">AG</a><br />
-<strong>1 - 0</strong> <a href="https://ja.wikipedia.org/wiki/アウェーゴール" title="wikilink">AG</a></p></td>
+<td><p><strong>2 - 1</strong> <a href="../Page/アウェーゴール.md" title="wikilink">AG</a><br />
+<strong>1 - 0</strong> <a href="../Page/アウェーゴール.md" title="wikilink">AG</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/セウェ・スポール・ドゥ・サン・ペドロ" title="wikilink">セウェ・スポール</a></p></td>
 </tr>
 <tr class="even">
@@ -327,7 +327,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/アクラ・ハーツ・オブ・オーク" title="wikilink">ハーツ・オブ・オーク</a></p></td>
+<td><p><a href="../Page/アクラ・ハーツ・オブ・オーク.md" title="wikilink">ハーツ・オブ・オーク</a></p></td>
 <td><p>1</p></td>
 <td><p>0</p></td>
 <td><p>2004</p></td>
@@ -474,7 +474,7 @@
 <td><p>2009</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/クラブ・アフリカーン" title="wikilink">クラブ・アフリカーン</a></p></td>
+<td><p><a href="../Page/クラブ・アフリカーン.md" title="wikilink">クラブ・アフリカーン</a></p></td>
 <td><p>0</p></td>
 <td><p>1</p></td>
 <td></td>

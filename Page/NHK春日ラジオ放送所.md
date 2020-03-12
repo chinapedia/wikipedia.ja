@@ -1,7 +1,7 @@
 > この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
 
 
-**NHK春日ラジオ放送所**（えぬえいちけいかすがらじおほうそうじょ）は、[NHK福岡放送局](../Page/NHK福岡放送局.md "wikilink")の[ラジオ第1放送と](https://ja.wikipedia.org/wiki/NHKラジオ第1放送 "wikilink")[ラジオ第2放送の電波を送信するための施設である](https://ja.wikipedia.org/wiki/NHKラジオ第2放送 "wikilink")。
+**NHK春日ラジオ放送所**（えぬえいちけいかすがらじおほうそうじょ）は、[NHK福岡放送局](../Page/NHK福岡放送局.md "wikilink")の[ラジオ第1放送と](../Page/NHKラジオ第1放送.md "wikilink")[ラジオ第2放送の電波を送信するための施設である](../Page/NHKラジオ第2放送.md "wikilink")。
 
 ## 概要と歴史
 
@@ -21,7 +21,7 @@ NHK福岡局は、開局こそ[熊本局に先を越されたものの](../Page/
 <th><p><a href="../Page/周波数.md" title="wikilink">周波数</a></p></th>
 <th><p>放送系統名</p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/識別信号" title="wikilink">呼出符号</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/空中線電力" title="wikilink">空中線<br />
+<th><p><a href="../Page/空中線電力.md" title="wikilink">空中線<br />
 電力</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/放送#放送対象地域" title="wikilink">放送対象地域</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/放送#放送区域" title="wikilink">放送区域</a><br />
@@ -32,17 +32,17 @@ NHK福岡局は、開局こそ[熊本局に先を越されたものの](../Page/
 <tr class="odd">
 <td><p>612kHz</p></td>
 <td><p>NHK福岡<br />
-<a href="https://ja.wikipedia.org/wiki/NHKラジオ第1放送" title="wikilink">第1</a></p></td>
+<a href="../Page/NHKラジオ第1放送.md" title="wikilink">第1</a></p></td>
 <td><p>JOLK</p></td>
 <td><p>100kW<br />
 （減力放送時は10kW）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
 <td><p>1017kHz</p></td>
 <td><p>NHK福岡<br />
-<a href="https://ja.wikipedia.org/wiki/NHKラジオ第2放送" title="wikilink">第2</a></p></td>
+<a href="../Page/NHKラジオ第2放送.md" title="wikilink">第2</a></p></td>
 <td><p>JOLB</p></td>
 <td><p>50kW</p></td>
 <td><p><a href="../Page/全国放送.md" title="wikilink">全国</a></p></td>

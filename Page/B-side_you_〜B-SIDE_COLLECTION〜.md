@@ -19,22 +19,22 @@
 2.  **夕暮れのジョギング** （「[ラッキーDAY](https://ja.wikipedia.org/wiki/ラッキーDAY "wikilink")」カップリング曲）
       - 作詞：岡崎誉史 作曲：松田信男 編曲：たつのすけ
 3.  **星空のシャワー** （「目を覚ませ、男なら」カップリング曲）
-      - 作詞：[中山加奈子](https://ja.wikipedia.org/wiki/中山加奈子 "wikilink") 作曲・編曲：[後藤次利](https://ja.wikipedia.org/wiki/後藤次利 "wikilink")
-      - [プレイステーション用ゲーム](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")「PAL-神犬伝説-」主題歌（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")）
+      - 作詞：[中山加奈子](../Page/中山加奈子.md "wikilink") 作曲・編曲：[後藤次利](../Page/後藤次利.md "wikilink")
+      - [プレイステーション用ゲーム](../Page/PlayStation_\(ゲーム機\).md "wikilink")「PAL-神犬伝説-」主題歌（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")）
 4.  **キメてみせてよGet Back\!\!** （「空をあきらめない」カップリング曲）
-      - 作詞：夏野芹子 作曲：[太田美知彦](https://ja.wikipedia.org/wiki/太田美知彦 "wikilink") 編曲：磯谷健
+      - 作詞：夏野芹子 作曲：[太田美知彦](../Page/太田美知彦.md "wikilink") 編曲：磯谷健
 5.  **やさしいひとになりましょう** （「[だめよ\!だめよ\!だめよ\!\!](https://ja.wikipedia.org/wiki/だめよ!だめよ!だめよ!! "wikilink")」カップリング曲）
-      - 作詞：[森浩美](../Page/森浩美.md "wikilink") 作曲：[Joey Carbone](https://ja.wikipedia.org/wiki/ジョーイ・カーボーン "wikilink"), [Dennis Belfield](https://ja.wikipedia.org/wiki/デニス・ベルフィールド "wikilink") 編曲：[岩崎琢](https://ja.wikipedia.org/wiki/岩崎琢 "wikilink")
+      - 作詞：[森浩美](../Page/森浩美.md "wikilink") 作曲：[Joey Carbone](https://ja.wikipedia.org/wiki/ジョーイ・カーボーン "wikilink"), [Dennis Belfield](https://ja.wikipedia.org/wiki/デニス・ベルフィールド "wikilink") 編曲：[岩崎琢](../Page/岩崎琢.md "wikilink")
       - アルバム『[with a will](https://ja.wikipedia.org/wiki/with_a_will "wikilink")』にも収録
 6.  **あなたがくれたもの** （「色褪せない瞬間」カップリング曲）
       - 作詞：[椎名へきる](../Page/椎名へきる.md "wikilink") 作曲：[松田信男](https://ja.wikipedia.org/wiki/松田信男 "wikilink") 編曲：[見良津健雄](../Page/見良津健雄.md "wikilink")
 7.  **届けたい想い** （「MOONLIGHT」カップリング曲）
       - 作詞：夏野芹子 作曲：[深田太郎](https://ja.wikipedia.org/wiki/深田太郎 "wikilink") 編曲：荒木将器
       - アルバム『[Baby blue eyes](../Page/Baby_blue_eyes.md "wikilink")』にはRemix Versionで収録
-8.  **Phoenix** （「[風が吹く丘](https://ja.wikipedia.org/wiki/風が吹く丘 "wikilink")」カップリング曲）
-      - 作詞：[井上睦都実](https://ja.wikipedia.org/wiki/井上睦都実 "wikilink") 作曲：吉田とおる 編曲：[大坪稔明](https://ja.wikipedia.org/wiki/大坪稔明 "wikilink")
+8.  **Phoenix** （「[風が吹く丘](../Page/風が吹く丘.md "wikilink")」カップリング曲）
+      - 作詞：[井上睦都実](../Page/井上睦都実.md "wikilink") 作曲：吉田とおる 編曲：[大坪稔明](https://ja.wikipedia.org/wiki/大坪稔明 "wikilink")
 9.  **晴れのちI Miss You** （「[Graduater](https://ja.wikipedia.org/wiki/Graduater_〜グラディエーター〜 "wikilink")」カップリング曲）
-      - 作詞：嘉藤英幸 作曲：[上野浩司](https://ja.wikipedia.org/wiki/上野浩司 "wikilink") 編曲：大坪稔明
+      - 作詞：嘉藤英幸 作曲：[上野浩司](../Page/上野浩司.md "wikilink") 編曲：大坪稔明
 10. **Just my love** （「抱きしめて」カップリング曲）
       - 作詞・作曲：吉田とおる 編曲：大坪稔明
 11. **ガンバレ** （「この世で一番大切なもの」カップリング曲）

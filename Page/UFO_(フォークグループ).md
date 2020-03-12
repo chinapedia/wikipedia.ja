@@ -1,11 +1,11 @@
 > この記事は[UFO \(\)](https://ja.wikipedia.org/wiki/UFO_\(\))から翻訳されています。
 
 
-**UFO**（ユーフォー）とは、[1977年](../Page/1977年.md "wikilink")に結成された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[アマチュア](../Page/アマチュア.md "wikilink")フォークグループである。[因島](https://ja.wikipedia.org/wiki/因島 "wikilink")出身の3人が結成し、1981年に[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[みんなのうた](https://ja.wikipedia.org/wiki/みんなのうた "wikilink")』で「因島想春譜」が放送されてからは、テレビやラジオに活躍の場を広げていた。1988年、第2回因島文化功労賞を受賞。1990年代に活動が自然消滅状態となったが、節目の年には因島でコンサートを開いている。
+**UFO**（ユーフォー）とは、[1977年](../Page/1977年.md "wikilink")に結成された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[アマチュア](../Page/アマチュア.md "wikilink")フォークグループである。[因島](../Page/因島.md "wikilink")出身の3人が結成し、1981年に[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[みんなのうた](../Page/みんなのうた.md "wikilink")』で「因島想春譜」が放送されてからは、テレビやラジオに活躍の場を広げていた。1988年、第2回因島文化功労賞を受賞。1990年代に活動が自然消滅状態となったが、節目の年には因島でコンサートを開いている。
 
 ## メンバー
 
-  - **槙 茂雄**（[1948年](../Page/1948年.md "wikilink")（[1949年](../Page/1949年.md "wikilink")?）-）　[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")＆[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")＆[リーダー](https://ja.wikipedia.org/wiki/リーダー "wikilink")
+  - **槙 茂雄**（[1948年](../Page/1948年.md "wikilink")（[1949年](../Page/1949年.md "wikilink")?）-）　[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")＆[ベース](../Page/ベース_\(弦楽器\).md "wikilink")＆[リーダー](https://ja.wikipedia.org/wiki/リーダー "wikilink")
   - **宮地 良次**（[1952年](../Page/1952年.md "wikilink")（[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")?）-)　メインボーカル＆[ギター](../Page/ギター.md "wikilink")
   - **柏原 直行**（1952年（1953年?）-）　ボーカル＆ギター
       - 生年は[2002年](../Page/2002年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")の年齢より推定したものである。
@@ -14,9 +14,9 @@
 
 [因島市](../Page/因島市.md "wikilink")（現・[尾道市](../Page/尾道市.md "wikilink")）出身の槙茂雄、宮地良次、柏原直行の3人がそれぞれ大阪や東京の大学を卒業し、造船関連企業にＵターン就職した後の1977年に結成\[1\]。
 
-1981年、NHK広島放送局が募集した『みんなのうた』で、応募数300曲の中から「因島想春譜」が最優秀に選ばれて全国放送されるとともに、[ビクターからレコードデビュー](https://ja.wikipedia.org/wiki/JVCケンウッド・ビクターエンタテインメント "wikilink")\[2\]。テレビやラジオに出演するなど、因島の顔となった\[3\]。レコード会社からはメジャーデビューを勧められたがプロにはならず、仕事を続けながら音楽活動を続けた\[4\]。
+1981年、NHK広島放送局が募集した『みんなのうた』で、応募数300曲の中から「因島想春譜」が最優秀に選ばれて全国放送されるとともに、[ビクターからレコードデビュー](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")\[2\]。テレビやラジオに出演するなど、因島の顔となった\[3\]。レコード会社からはメジャーデビューを勧められたがプロにはならず、仕事を続けながら音楽活動を続けた\[4\]。
 
-「因島想春譜」は「布刈瀬戸」、「[土生港](https://ja.wikipedia.org/wiki/土生港 "wikilink")」などの因島の地名や風景を歌詞に織り交ぜ望郷の思いを歌った曲であり、地元の愛唱歌として根付いている\[5\]\[6\]。
+「因島想春譜」は「布刈瀬戸」、「[土生港](../Page/土生港.md "wikilink")」などの因島の地名や風景を歌詞に織り交ぜ望郷の思いを歌った曲であり、地元の愛唱歌として根付いている\[5\]\[6\]。
 
 1988年、第2回因島文化功労賞を受賞した\[7\]。
 
@@ -42,7 +42,7 @@
 
 ## ミニアルバム
 
-  - ワンズホーム（わがふるさと）（[2002年](../Page/2002年.md "wikilink")[3月21日](https://ja.wikipedia.org/wiki/3月21日 "wikilink")） - 地元発売
+  - ワンズホーム（わがふるさと）（[2002年](../Page/2002年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")） - 地元発売
 
 ## 脚注
 

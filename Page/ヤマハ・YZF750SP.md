@@ -3,11 +3,11 @@
 
 [250px](https://ja.wikipedia.org/wiki/ファイル:Yamaha_YZF_750_SP.jpg "wikilink")
 
-**ヤマハ・YZF750SP**（ワイゼットエフななひゃくごじゅうエスピー）は、[ヤマハ発動機](https://ja.wikipedia.org/wiki/ヤマハ発動機 "wikilink")が[1993年](../Page/1993年.md "wikilink")に発売した[4ストローク](../Page/4ストローク機関.md "wikilink")749ccの[大型自動二輪車](../Page/大型自動二輪車.md "wikilink")（[モーターサイクル](https://ja.wikipedia.org/wiki/モーターサイクル "wikilink")）である。
+**ヤマハ・YZF750SP**（ワイゼットエフななひゃくごじゅうエスピー）は、[ヤマハ発動機](../Page/ヤマハ発動機.md "wikilink")が[1993年](../Page/1993年.md "wikilink")に発売した[4ストローク](../Page/4ストローク機関.md "wikilink")749ccの[大型自動二輪車](../Page/大型自動二輪車.md "wikilink")（[モーターサイクル](https://ja.wikipedia.org/wiki/モーターサイクル "wikilink")）である。
 
 ## 概要
 
-[スーパーバイク世界選手権](https://ja.wikipedia.org/wiki/スーパーバイク世界選手権 "wikilink")参戦の[ホモロゲーション](https://ja.wikipedia.org/wiki/ホモロゲーション "wikilink")・[モデルとして](https://ja.wikipedia.org/wiki/形式 "wikilink")、全面新設計で開発された。1995年にマイナーチェンジを行った。
+[スーパーバイク世界選手権](../Page/スーパーバイク世界選手権.md "wikilink")参戦の[ホモロゲーション](../Page/ホモロゲーション.md "wikilink")・[モデルとして](https://ja.wikipedia.org/wiki/形式 "wikilink")、全面新設計で開発された。1995年にマイナーチェンジを行った。
 
 日本国外市場では2人乗り仕様の[YZF750Rと併売され](https://ja.wikipedia.org/wiki/ヤマハ・YZF750R "wikilink")、日本国内向けには限定車として販売された。
 
@@ -33,10 +33,10 @@
 
 <!-- end list -->
 
-  - リア[サスペンション](../Page/サスペンション.md "wikilink")を[オーリンズ製にし](https://ja.wikipedia.org/wiki/オーリンズ_\(自動車部品メーカー\) "wikilink")、全長およびリンク比を改良、
+  - リア[サスペンション](../Page/サスペンション.md "wikilink")を[オーリンズ製にし](../Page/オーリンズ_\(自動車部品メーカー\).md "wikilink")、全長およびリンク比を改良、
   - シートフレームを着脱式に
   - スイングアームピボットを可変式に
-  - [ラジエーター](https://ja.wikipedia.org/wiki/ラジエーター "wikilink")の大型化
+  - [ラジエーター](../Page/ラジエーター.md "wikilink")の大型化
 
 ## 諸元
 

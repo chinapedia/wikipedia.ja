@@ -10,12 +10,12 @@
 ## 収録曲
 
 1.  **This Moment**
-      - 作詞・作曲：[上野浩司](https://ja.wikipedia.org/wiki/上野浩司 "wikilink")、編曲：[大坪稔明](https://ja.wikipedia.org/wiki/大坪稔明 "wikilink")
+      - 作詞・作曲：[上野浩司](../Page/上野浩司.md "wikilink")、編曲：[大坪稔明](https://ja.wikipedia.org/wiki/大坪稔明 "wikilink")
 2.  **fly away**
       - 作詞・作曲：吉田とおる、編曲：大坪稔明
-      - ドラムで[真矢が参加している](https://ja.wikipedia.org/wiki/真矢_\(ドラマー\) "wikilink")。
+      - ドラムで[真矢が参加している](../Page/真矢_\(ドラマー\).md "wikilink")。
 3.  **Let me sing with soul**
-      - 作詞：IZUMI・椎名へきる、作曲・編曲：[高橋圭一](https://ja.wikipedia.org/wiki/高橋圭一_\(ミュージシャン\) "wikilink")
+      - 作詞：IZUMI・椎名へきる、作曲・編曲：[高橋圭一](../Page/高橋圭一_\(ミュージシャン\).md "wikilink")
 4.  **Tears**
       - 作詞：吉田とおる、作曲・編曲：[勝又隆一](https://ja.wikipedia.org/wiki/勝又隆一 "wikilink")
 5.  **[この世で一番大切なもの](https://ja.wikipedia.org/wiki/この世で一番大切なもの "wikilink")**
@@ -24,15 +24,15 @@
 6.  **あいたい**
       - 作詞：上野浩司・椎名へきる、作曲：上野浩司、編曲：大坪稔明
 7.  **invisible**
-      - 作詞：椎名へきる、作曲・編曲：[西脇辰弥](https://ja.wikipedia.org/wiki/西脇辰弥 "wikilink")
+      - 作詞：椎名へきる、作曲・編曲：[西脇辰弥](../Page/西脇辰弥.md "wikilink")
 8.  **[抱きしめて](https://ja.wikipedia.org/wiki/抱きしめて_\(椎名へきるの曲\) "wikilink")**
-      - 作詞：椎名へきる、作曲：[DAITA](https://ja.wikipedia.org/wiki/DAITA "wikilink")、編曲：大坪稔明
-      - シングル曲で初めて椎名自身が作詞を担当した。作曲も手掛けた[DAITA](https://ja.wikipedia.org/wiki/DAITA "wikilink")がギターで参加している。
+      - 作詞：椎名へきる、作曲：[DAITA](../Page/DAITA.md "wikilink")、編曲：大坪稔明
+      - シングル曲で初めて椎名自身が作詞を担当した。作曲も手掛けた[DAITA](../Page/DAITA.md "wikilink")がギターで参加している。
 9.  **わからない男**
       - 作詞：吉田とおる、作曲：上野浩司、編曲：大坪稔明
-      - 当時[GiRL](https://ja.wikipedia.org/wiki/GiRL "wikilink")のギタリストだった[辺見さとし](https://ja.wikipedia.org/wiki/辺見さとし "wikilink")がギターで参加している。
+      - 当時[GiRL](https://ja.wikipedia.org/wiki/GiRL "wikilink")のギタリストだった[辺見さとし](../Page/辺見さとし.md "wikilink")がギターで参加している。
 10. **新しい風**
-      - 作詞・作曲：[野見山正貴](https://ja.wikipedia.org/wiki/野見山正貴 "wikilink")、編曲：上野浩司
+      - 作詞・作曲：[野見山正貴](../Page/野見山正貴.md "wikilink")、編曲：上野浩司
 11. **ROLLING STONE**
       - 作詞：アキレスKEN、作曲：TACOS NAOMI、編曲：大坪稔明
 12. **ずっと…**

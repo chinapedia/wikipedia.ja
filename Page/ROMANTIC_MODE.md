@@ -17,18 +17,18 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/麻倉あきら" title="wikilink">麻倉晶</a></strong><br />
+<td><p><strong><a href="../Page/麻倉あきら.md" title="wikilink">麻倉晶</a></strong><br />
 （あさくら あきら）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ボーカル" title="wikilink">ボーカル</a><br />
-<a href="https://ja.wikipedia.org/wiki/作詞" title="wikilink">作詞</a></p></td>
+<a href="../Page/作詞.md" title="wikilink">作詞</a></p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/愛知県" title="wikilink">愛知県</a><a href="../Page/名古屋市.md" title="wikilink">名古屋市</a></p></td>
 <td><p>過去に<strong>斉藤さおり</strong>名義で音楽活動をしていた。</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ジョー・リノイエ" title="wikilink">ジョー・リノイエ</a></strong><br />
+<td><p><strong><a href="../Page/ジョー・リノイエ.md" title="wikilink">ジョー・リノイエ</a></strong><br />
 （Joe Rinoie）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/キーボード_(楽器)" title="wikilink">キーボード</a><br />
+<td><p><a href="../Page/キーボード_(楽器).md" title="wikilink">キーボード</a><br />
 <a href="../Page/コーラス_(ポピュラー音楽).md" title="wikilink">バックコーラス</a><br />
 <a href="../Page/サクソフォーン.md" title="wikilink">サクソフォーン</a><br />
 作詞<br />
@@ -52,10 +52,10 @@
 
 ## 略歴
 
-  - 1996年、シングル「[DREAMS](https://ja.wikipedia.org/wiki/DREAMS_\(ROMANTIC_MODEの曲\) "wikilink")」（テレビアニメ『[機動新世紀ガンダムX](../Page/機動新世紀ガンダムX.md "wikilink")』前期オープニングテーマ）でデビュー。[オリコン初登場第](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")10位。
+  - 1996年、シングル「[DREAMS](https://ja.wikipedia.org/wiki/DREAMS_\(ROMANTIC_MODEの曲\) "wikilink")」（テレビアニメ『[機動新世紀ガンダムX](../Page/機動新世紀ガンダムX.md "wikilink")』前期オープニングテーマ）でデビュー。[オリコン初登場第](../Page/オリコンチャート.md "wikilink")10位。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[2月20日](../Page/2月20日.md "wikilink")、[日清パワーステーション](../Page/日清パワーステーション.md "wikilink")で初のライブ実施。
   - 1997年度[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")においてベスト5ニュー・アーティスト賞を受賞。
-  - [1999年](../Page/1999年.md "wikilink")には東芝EMI（現・[EMIミュージック・ジャパン](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")）に移籍してベストアルバム『[Romantic Pleasures〜The Best Of Romantic Mode〜](https://ja.wikipedia.org/wiki/Romantic_Pleasures〜The_Best_Of_Romantic_Mode〜 "wikilink")』をリリース。しかし、これ以降は休止とも解散とも表明されないまま活動は無く、事実上の自然消滅状態にある。
+  - [1999年](../Page/1999年.md "wikilink")には東芝EMI（現・[EMIミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink")）に移籍してベストアルバム『[Romantic Pleasures〜The Best Of Romantic Mode〜](https://ja.wikipedia.org/wiki/Romantic_Pleasures〜The_Best_Of_Romantic_Mode〜 "wikilink")』をリリース。しかし、これ以降は休止とも解散とも表明されないまま活動は無く、事実上の自然消滅状態にある。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、[スーパーアニソン魂](https://ja.wikipedia.org/wiki/スーパーアニソン魂 "wikilink")2008“夏の陣”に麻倉晶（当時は麻倉あきらに改名）が出演の際に「元<span style="font-variant: small-caps;">ROmantic Mode</span>」と表記されており、解散を示唆している。
   - [2009年](../Page/2009年.md "wikilink")、生誕30周年祭 in NAGOYA ガンダム THE FIRST 伝説の3DAYS にて参加した際も、麻倉晶と表記されていた。
 
@@ -71,14 +71,14 @@
 <th><p>タイトル</p></th>
 <th><p>カップリング</p></th>
 <th><p>規格</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>順位</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/キングレコード.md" title="wikilink">キングレコード</a> / KMW<br />
-<a href="https://ja.wikipedia.org/wiki/スターチャイルド" title="wikilink">スターチャイルド</a>[1]</p></td>
+<a href="../Page/スターチャイルド.md" title="wikilink">スターチャイルド</a>[1]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -147,41 +147,41 @@
 
 #### オリジナル・アルバム
 
-|                                                | 発売日                                                                                           | タイトル                                                                                 | 規格                                        | [規格品番](https://ja.wikipedia.org/wiki/規格品番 "wikilink") | 順位  |
-| ---------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ----------------------------------------- | ----------------------------------------------------- | --- |
-| [キングレコード](../Page/キングレコード.md "wikilink") / KMW |                                                                                               |                                                                                      |                                           |                                                       |     |
-| 1st                                            | [1996年](../Page/1996年.md "wikilink")[8月21日](../Page/8月21日.md "wikilink")                      | **[ROMANTIC MODE](https://ja.wikipedia.org/wiki/ROMANTIC_MODE_\(アルバム\) "wikilink")** | [12cmCD](../Page/コンパクトディスク.md "wikilink") | KICS-562                                              | 18位 |
-| 2nd                                            | [1996年](../Page/1996年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")                    | **[Vision of Love](https://ja.wikipedia.org/wiki/Vision_of_Love "wikilink")**        | KICS-597                                  | 44位                                                   |     |
-| 3rd                                            | [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[10月22日](../Page/10月22日.md "wikilink") | **[Dimensions](https://ja.wikipedia.org/wiki/Dimensions "wikilink")**                | KICS-646                                  | 33位                                                   |     |
+|                                                | 発売日                                                                                           | タイトル                                                                                 | 規格                                        | [規格品番](../Page/規格品番.md "wikilink") | 順位  |
+| ---------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ----------------------------------------- | ---------------------------------- | --- |
+| [キングレコード](../Page/キングレコード.md "wikilink") / KMW |                                                                                               |                                                                                      |                                           |                                    |     |
+| 1st                                            | [1996年](../Page/1996年.md "wikilink")[8月21日](../Page/8月21日.md "wikilink")                      | **[ROMANTIC MODE](https://ja.wikipedia.org/wiki/ROMANTIC_MODE_\(アルバム\) "wikilink")** | [12cmCD](../Page/コンパクトディスク.md "wikilink") | KICS-562                           | 18位 |
+| 2nd                                            | [1996年](../Page/1996年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")                    | **[Vision of Love](https://ja.wikipedia.org/wiki/Vision_of_Love "wikilink")**        | KICS-597                                  | 44位                                |     |
+| 3rd                                            | [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[10月22日](../Page/10月22日.md "wikilink") | **[Dimensions](https://ja.wikipedia.org/wiki/Dimensions "wikilink")**                | KICS-646                                  | 33位                                |     |
 
 #### ベスト・アルバム
 
-|                                                                  | 発売日                                                                                         | タイトル                                                                                                                                        | 規格     | [規格品番](https://ja.wikipedia.org/wiki/規格品番 "wikilink") | 順位   |
-| ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ----------------------------------------------------- | ---- |
-| [東芝EMI](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink") |                                                                                             |                                                                                                                                             |        |                                                       |      |
-| 1st                                                              | [1999年](../Page/1999年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink") | **[Romantic Pleasures〜The Best Of Romantic Mode〜](https://ja.wikipedia.org/wiki/Romantic_Pleasures〜The_Best_Of_Romantic_Mode〜 "wikilink")** | 12cmCD | TOCT-24024                                            | 161位 |
-| [キングレコード](../Page/キングレコード.md "wikilink") / KMW                   |                                                                                             |                                                                                                                                             |        |                                                       |      |
-| 2nd                                                              | [2011年](../Page/2011年.md "wikilink")[12月7日](../Page/12月7日.md "wikilink")                    | **[ROMANTIC MODE パーフェクト・ベスト](https://ja.wikipedia.org/wiki/ROMANTIC_MODE_パーフェクト・ベスト "wikilink")**                                           | 12cmCD | KICS-1725                                             | 圏外   |
+|                                                | 発売日                                                                                         | タイトル                                                                                                                                        | 規格     | [規格品番](../Page/規格品番.md "wikilink") | 順位   |
+| ---------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------------------------------- | ---- |
+| [東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")  |                                                                                             |                                                                                                                                             |        |                                    |      |
+| 1st                                            | [1999年](../Page/1999年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink") | **[Romantic Pleasures〜The Best Of Romantic Mode〜](https://ja.wikipedia.org/wiki/Romantic_Pleasures〜The_Best_Of_Romantic_Mode〜 "wikilink")** | 12cmCD | TOCT-24024                         | 161位 |
+| [キングレコード](../Page/キングレコード.md "wikilink") / KMW |                                                                                             |                                                                                                                                             |        |                                    |      |
+| 2nd                                            | [2011年](../Page/2011年.md "wikilink")[12月7日](../Page/12月7日.md "wikilink")                    | **[ROMANTIC MODE パーフェクト・ベスト](https://ja.wikipedia.org/wiki/ROMANTIC_MODE_パーフェクト・ベスト "wikilink")**                                           | 12cmCD | KICS-1725                          | 圏外   |
 
 ### 楽曲タイアップ
 
-| 楽曲                                                                                | タイアップ                                                                                                                | 時期                                                                                          | 収録作品                                                                                |
-| --------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| DREAMS                                                                            | [テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[機動新世紀ガンダムX](../Page/機動新世紀ガンダムX.md "wikilink")』前期オープニングテーマ                     | 1996年                                                                                       | シングル「[DREAMS](https://ja.wikipedia.org/wiki/DREAMS_\(ROMANTIC_MODEの曲\) "wikilink")」 |
-| Resolution                                                                        | テレビ朝日系『機動新世紀ガンダムX』後期オープニングテーマ                                                                                        | シングル「[Resolution](https://ja.wikipedia.org/wiki/Resolution_\(ROMANTIC_MODEの曲\) "wikilink")」 |                                                                                     |
-| [琉球放送](https://ja.wikipedia.org/wiki/琉球放送 "wikilink")『噂の放送局ゆん卓サンデー』オープニングテーマ\[2\] | 1997年                                                                                                                |                                                                                             |                                                                                     |
-| LIBERTY                                                                           | テレビ朝日系『[ビートたけしのTVタックル](../Page/ビートたけしのTVタックル.md "wikilink")』エンディングテーマ                                                | シングル「[LIBERTY](https://ja.wikipedia.org/wiki/LIBERTY_\(ROMANTIC_MODEの曲\) "wikilink")」       |                                                                                     |
-| Love is the Destiny                                                               | テレビ朝日系『[リングの魂](https://ja.wikipedia.org/wiki/リングの魂 "wikilink")』エンディングテーマ                                             | シングル「[Love is the Destiny](https://ja.wikipedia.org/wiki/Love_is_the_Destiny "wikilink")」   |                                                                                     |
-| No Real Affection                                                                 | [Mizunoプロライト](https://ja.wikipedia.org/wiki/ミズノ "wikilink")710 CMイメージソング                                             |                                                                                             |                                                                                     |
-| 永遠が終わるまで熱いKISSをしよう                                                                | [TBS系](../Page/TBSテレビ.md "wikilink")『[浜田雅功のシングルゴルフ](https://ja.wikipedia.org/wiki/浜田雅功のシングルゴルフ "wikilink")』オープニングテーマ | シングル「[永遠が終わるまで熱いKISSをしよう](https://ja.wikipedia.org/wiki/永遠が終わるまで熱いKISSをしよう "wikilink")」     |                                                                                     |
-| [恵比寿ガーデンクリニック](https://ja.wikipedia.org/wiki/恵比寿ガーデンクリニック "wikilink") CMイメージソング   |                                                                                                                      |                                                                                             |                                                                                     |
-| Rebirth                                                                           | [WELLAリキッド](https://ja.wikipedia.org/wiki/ウエラ "wikilink")・ヘア ムース イメージソング                                             |                                                                                             |                                                                                     |
-| Runner                                                                            | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[ゲーム王国](../Page/ゲーム王国.md "wikilink")』エンディングテーマ              | 1998年                                                                                       | シングル「[Runner](https://ja.wikipedia.org/wiki/Runner_\(ROMANTIC_MODEの曲\) "wikilink")」 |
+| 楽曲                                                                              | タイアップ                                                                                                                | 時期                                                                                          | 収録作品                                                                                |
+| ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| DREAMS                                                                          | [テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[機動新世紀ガンダムX](../Page/機動新世紀ガンダムX.md "wikilink")』前期オープニングテーマ                     | 1996年                                                                                       | シングル「[DREAMS](https://ja.wikipedia.org/wiki/DREAMS_\(ROMANTIC_MODEの曲\) "wikilink")」 |
+| Resolution                                                                      | テレビ朝日系『機動新世紀ガンダムX』後期オープニングテーマ                                                                                        | シングル「[Resolution](https://ja.wikipedia.org/wiki/Resolution_\(ROMANTIC_MODEの曲\) "wikilink")」 |                                                                                     |
+| [琉球放送](../Page/琉球放送.md "wikilink")『噂の放送局ゆん卓サンデー』オープニングテーマ\[2\]                  | 1997年                                                                                                                |                                                                                             |                                                                                     |
+| LIBERTY                                                                         | テレビ朝日系『[ビートたけしのTVタックル](../Page/ビートたけしのTVタックル.md "wikilink")』エンディングテーマ                                                | シングル「[LIBERTY](https://ja.wikipedia.org/wiki/LIBERTY_\(ROMANTIC_MODEの曲\) "wikilink")」       |                                                                                     |
+| Love is the Destiny                                                             | テレビ朝日系『[リングの魂](../Page/リングの魂.md "wikilink")』エンディングテーマ                                                                | シングル「[Love is the Destiny](https://ja.wikipedia.org/wiki/Love_is_the_Destiny "wikilink")」   |                                                                                     |
+| No Real Affection                                                               | [Mizunoプロライト](../Page/ミズノ.md "wikilink")710 CMイメージソング                                                                |                                                                                             |                                                                                     |
+| 永遠が終わるまで熱いKISSをしよう                                                              | [TBS系](../Page/TBSテレビ.md "wikilink")『[浜田雅功のシングルゴルフ](https://ja.wikipedia.org/wiki/浜田雅功のシングルゴルフ "wikilink")』オープニングテーマ | シングル「[永遠が終わるまで熱いKISSをしよう](https://ja.wikipedia.org/wiki/永遠が終わるまで熱いKISSをしよう "wikilink")」     |                                                                                     |
+| [恵比寿ガーデンクリニック](https://ja.wikipedia.org/wiki/恵比寿ガーデンクリニック "wikilink") CMイメージソング |                                                                                                                      |                                                                                             |                                                                                     |
+| Rebirth                                                                         | [WELLAリキッド](../Page/ウエラ.md "wikilink")・ヘア ムース イメージソング                                                                |                                                                                             |                                                                                     |
+| Runner                                                                          | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[ゲーム王国](../Page/ゲーム王国.md "wikilink")』エンディングテーマ              | 1998年                                                                                       | シングル「[Runner](https://ja.wikipedia.org/wiki/Runner_\(ROMANTIC_MODEの曲\) "wikilink")」 |
 
 ### イベント等
 
   - ライブ (1997年2月20日、日清パワーステーション)
-  - ビデオ上映会&トークイベント (1998年[3月8日](../Page/3月8日.md "wikilink")、[石丸電気](https://ja.wikipedia.org/wiki/石丸電気 "wikilink")ソフトワン)
+  - ビデオ上映会&トークイベント (1998年[3月8日](../Page/3月8日.md "wikilink")、[石丸電気](../Page/石丸電気.md "wikilink")ソフトワン)
 
 ## 受賞歴
 
@@ -195,14 +195,14 @@
       -
         『ベイビーリップス』のカップリング曲
   - Time has no season （[1993年](../Page/1993年.md "wikilink")[6月11日](../Page/6月11日.md "wikilink")発売・[ロックイットレコード](https://ja.wikipedia.org/wiki/ロックイットレコード "wikilink") RODL-2002）
-  - fantasia （1998年[7月1日](../Page/7月1日.md "wikilink")発売・[バンダイミュージック](https://ja.wikipedia.org/wiki/バンダイ・ミュージックエンタテインメント "wikilink") APDA 256）
+  - fantasia （1998年[7月1日](../Page/7月1日.md "wikilink")発売・[バンダイミュージック](../Page/バンダイ・ミュージックエンタテインメント.md "wikilink") APDA 256）
   - この愛が終わらないように （1998年[11月21日](../Page/11月21日.md "wikilink")発売・バンダイミュージック APDA 271）
 
 ## 脚注
 
 ## 関連項目
 
-  - [キングレコード在籍アーティスト一覧](https://ja.wikipedia.org/wiki/キングレコード在籍アーティスト一覧 "wikilink")
+  - [キングレコード在籍アーティスト一覧](../Page/キングレコード在籍アーティスト一覧.md "wikilink")
   - [西脇唯](https://ja.wikipedia.org/wiki/西脇唯 "wikilink") - このユニットの作詞を手がけた一人。
 
 ## 外部リンク
@@ -227,4 +227,4 @@
 [Category:ROMANTIC_MODE](https://ja.wikipedia.org/wiki/Category:ROMANTIC_MODE "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:キングレコードのアーティスト](https://ja.wikipedia.org/wiki/Category:キングレコードのアーティスト "wikilink") [Category:EMIミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのアーティスト "wikilink")
 
 1.
-2.  [タイアップ](https://ja.wikipedia.org/wiki/タイアップ "wikilink")ではなく[JASRAC](https://ja.wikipedia.org/wiki/JASRAC "wikilink")との放送における包括的契約利用許諾契約に基づいた、いわゆる「通常使用」だったが、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[8月](../Page/8月.md "wikilink")に[石垣島](../Page/石垣島.md "wikilink")で行われた公開録画にボーカルの麻倉がゲストとして出演、歌唱を披露している。ちなみに麻倉は、この仕事で初めて[沖縄県](../Page/沖縄県.md "wikilink")を訪問した。
+2.  [タイアップ](../Page/タイアップ.md "wikilink")ではなく[JASRAC](https://ja.wikipedia.org/wiki/JASRAC "wikilink")との放送における包括的契約利用許諾契約に基づいた、いわゆる「通常使用」だったが、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[8月](../Page/8月.md "wikilink")に[石垣島](../Page/石垣島.md "wikilink")で行われた公開録画にボーカルの麻倉がゲストとして出演、歌唱を披露している。ちなみに麻倉は、この仕事で初めて[沖縄県](../Page/沖縄県.md "wikilink")を訪問した。

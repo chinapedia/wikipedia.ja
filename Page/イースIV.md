@@ -1,13 +1,13 @@
 > この記事は[IV](https://ja.wikipedia.org/wiki/IV)から翻訳されています。
 
 
-『**イースIV**』（イース4、Ys IV）では、[日本ファルコム](../Page/日本ファルコム.md "wikilink")の[アクションロールプレイングゲーム](../Page/アクションロールプレイングゲーム.md "wikilink") (ARPG) 、〈[イースシリーズ](https://ja.wikipedia.org/wiki/イースシリーズ "wikilink")〉の第4作目となる[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")とその派生作品を総合的に扱う。〈イースシリーズ〉の全体像や『IV』各作品の詳細については、「[イースシリーズ](https://ja.wikipedia.org/wiki/イースシリーズ "wikilink")」・「[イースIV MASK OF THE SUN](https://ja.wikipedia.org/wiki/イースIV_MASK_OF_THE_SUN "wikilink")」・「[イースIV The Dawn of Ys](https://ja.wikipedia.org/wiki/イースIV_The_Dawn_of_Ys "wikilink")」・「[イースIV MASK OF THE SUN -a new theory-](https://ja.wikipedia.org/wiki/イースIV_MASK_OF_THE_SUN_-a_new_theory- "wikilink")」・「[イース セルセタの樹海](https://ja.wikipedia.org/wiki/イース_セルセタの樹海 "wikilink")」の各項を参照。
+『**イースIV**』（イース4、Ys IV）では、[日本ファルコム](../Page/日本ファルコム.md "wikilink")の[アクションロールプレイングゲーム](../Page/アクションロールプレイングゲーム.md "wikilink") (ARPG) 、〈[イースシリーズ](../Page/イースシリーズ.md "wikilink")〉の第4作目となる[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")とその派生作品を総合的に扱う。〈イースシリーズ〉の全体像や『IV』各作品の詳細については、「[イースシリーズ](../Page/イースシリーズ.md "wikilink")」・「[イースIV MASK OF THE SUN](../Page/イースIV_MASK_OF_THE_SUN.md "wikilink")」・「[イースIV The Dawn of Ys](../Page/イースIV_The_Dawn_of_Ys.md "wikilink")」・「[イースIV MASK OF THE SUN -a new theory-](../Page/イースIV_MASK_OF_THE_SUN_-a_new_theory-.md "wikilink")」・「[イース セルセタの樹海](https://ja.wikipedia.org/wiki/イース_セルセタの樹海 "wikilink")」の各項を参照。
 
 [後述する特殊な開発経緯により](https://ja.wikipedia.org/wiki/#開発経緯 "wikilink")『イースIV』にはファルコム開発のオリジナル版がなく、オリジナル版は[ライセンシーが開発した](../Page/ライセンス.md "wikilink")2作となっている。その後のリメイクも合わせ、それぞれ異なる会社で開発された異なる4作のゲームが同一の原案から開発されている。
 
 ## 世界設定
 
-樹海の広がるセルセタを舞台に赤毛の剣士**アドル＝クリスティン**の冒険を描いた[ファンタジー](../Page/ファンタジー.md "wikilink")作品。〈[イースシリーズ](https://ja.wikipedia.org/wiki/イースシリーズ "wikilink")〉本編は「[主人公アドルの冒険日誌を原典としている](https://ja.wikipedia.org/wiki/イースシリーズ#冒険日誌 "wikilink")」という[メタフィクション](https://ja.wikipedia.org/wiki/メタフィクション "wikilink")設定があり\[1\]、本作ではアドルが10代の時に体験した生涯2度目となる大きな冒険を綴った冒険日誌『セルセタの樹海』が原典とされている\[2\]。シリーズ4作目となる作品ではあるが『[I・II](https://ja.wikipedia.org/wiki/イースI・II "wikilink")』の直後から続く続編として制作されており、時系列では前作『[III](https://ja.wikipedia.org/wiki/イースIII "wikilink")』よりも前となっている。
+樹海の広がるセルセタを舞台に赤毛の剣士**アドル＝クリスティン**の冒険を描いた[ファンタジー](../Page/ファンタジー.md "wikilink")作品。〈[イースシリーズ](../Page/イースシリーズ.md "wikilink")〉本編は「[主人公アドルの冒険日誌を原典としている](https://ja.wikipedia.org/wiki/イースシリーズ#冒険日誌 "wikilink")」という[メタフィクション](../Page/メタフィクション.md "wikilink")設定があり\[1\]、本作ではアドルが10代の時に体験した生涯2度目となる大きな冒険を綴った冒険日誌『セルセタの樹海』が原典とされている\[2\]。シリーズ4作目となる作品ではあるが『[I・II](../Page/イースI・II.md "wikilink")』の直後から続く続編として制作されており、時系列では前作『[III](../Page/イースIII.md "wikilink")』よりも前となっている。
 
 『[VI](../Page/イースVI.md "wikilink")』以降、シリーズの世界設定の根本となった「有翼人」が初めて登場した作品\[3\]。
 
@@ -17,11 +17,11 @@
 
 ## 開発経緯
 
-[PCエンジン](../Page/PCエンジン.md "wikilink") (PCE)への[移植版](https://ja.wikipedia.org/wiki/移植_\(ソフトウェア\) "wikilink")『[イースI・II](https://ja.wikipedia.org/wiki/イースI・II "wikilink")』と『[イースIII](https://ja.wikipedia.org/wiki/イースIII "wikilink")』を開発・発売した[ハドソン](../Page/ハドソン.md "wikilink")が続編の開発を日本ファルコムへと打診したことが本作開発のきっかけとなっている\[4\]。制作ラインが埋まっていた\[5\]ためファルコム側は一旦断るが、ファルコムが世界観だけを作ってゲーム制作をハドソンが担当するというハドソン側の提案を受け入れ、原案シナリオと音楽をファルコムが担当する形で開発が決定される\[6\]。ゲームシステムと舞台を大きくかえた『III』が不評に終わり『II』の続編を望むユーザの声が大きかったことから、システムのベースは『II』のものへと戻され、ストーリーも『II』の直後から始まるイースの国に関わる形とされた\[7\]。原案の制作は[1991年](../Page/1991年.md "wikilink")（平成3年）までには開始されており\[8\]、オリジナル版発売当時のゲーム誌（主にPCエンジン雑誌）で、ファルコム原案キャラクターデザインラフイラスト、原案のストーリーダイジェスト、ファルコム原案シナリオスタッフのコメントが掲載されていた。
+[PCエンジン](../Page/PCエンジン.md "wikilink") (PCE)への[移植版](../Page/移植_\(ソフトウェア\).md "wikilink")『[イースI・II](../Page/イースI・II.md "wikilink")』と『[イースIII](../Page/イースIII.md "wikilink")』を開発・発売した[ハドソン](../Page/ハドソン.md "wikilink")が続編の開発を日本ファルコムへと打診したことが本作開発のきっかけとなっている\[4\]。制作ラインが埋まっていた\[5\]ためファルコム側は一旦断るが、ファルコムが世界観だけを作ってゲーム制作をハドソンが担当するというハドソン側の提案を受け入れ、原案シナリオと音楽をファルコムが担当する形で開発が決定される\[6\]。ゲームシステムと舞台を大きくかえた『III』が不評に終わり『II』の続編を望むユーザの声が大きかったことから、システムのベースは『II』のものへと戻され、ストーリーも『II』の直後から始まるイースの国に関わる形とされた\[7\]。原案の制作は[1991年](../Page/1991年.md "wikilink")（平成3年）までには開始されており\[8\]、オリジナル版発売当時のゲーム誌（主にPCエンジン雑誌）で、ファルコム原案キャラクターデザインラフイラスト、原案のストーリーダイジェスト、ファルコム原案シナリオスタッフのコメントが掲載されていた。
 
-そしてファルコムの原案シナリオを元に『III』の[スーパーファミコン](../Page/スーパーファミコン.md "wikilink") (SFC) への移植を行なった[トンキンハウス](https://ja.wikipedia.org/wiki/トンキンハウス "wikilink")（[東京書籍](https://ja.wikipedia.org/wiki/東京書籍 "wikilink")のテレビゲーム事業子会社）と[メガドライブ](../Page/メガドライブ.md "wikilink") (MD) へのファルコム作品の移植を行っていた[セガ・ファルコム](https://ja.wikipedia.org/wiki/セガ・ファルコム "wikilink")の両者がそれぞれのプラットフォーム向けに独自に開発することも決まり\[9\]、3作のオリジナル版『イースIV』が開発されることとなる。このうちSFC版『[イースIV MASK OF THE SUN](https://ja.wikipedia.org/wiki/イースIV_MASK_OF_THE_SUN "wikilink")』とPCE版『[イースIV The Dawn of Ys](https://ja.wikipedia.org/wiki/イースIV_The_Dawn_of_Ys "wikilink")』は[1993年](../Page/1993年.md "wikilink")（平成5年）に発売されるが、MD版は開発中止となっている\[10\]。こうした経緯により、ファルコムの代表作〈イース〉でありながらファルコム自身によって開発されたオリジナル版『イースIV』はなく、オリジナル作品が他社製でしかも2作品あるという特殊な状態となる（後の事例については下記参照）。
+そしてファルコムの原案シナリオを元に『III』の[スーパーファミコン](../Page/スーパーファミコン.md "wikilink") (SFC) への移植を行なった[トンキンハウス](../Page/トンキンハウス.md "wikilink")（[東京書籍](../Page/東京書籍.md "wikilink")のテレビゲーム事業子会社）と[メガドライブ](../Page/メガドライブ.md "wikilink") (MD) へのファルコム作品の移植を行っていた[セガ・ファルコム](../Page/セガ・ファルコム.md "wikilink")の両者がそれぞれのプラットフォーム向けに独自に開発することも決まり\[9\]、3作のオリジナル版『イースIV』が開発されることとなる。このうちSFC版『[イースIV MASK OF THE SUN](../Page/イースIV_MASK_OF_THE_SUN.md "wikilink")』とPCE版『[イースIV The Dawn of Ys](../Page/イースIV_The_Dawn_of_Ys.md "wikilink")』は[1993年](../Page/1993年.md "wikilink")（平成5年）に発売されるが、MD版は開発中止となっている\[10\]。こうした経緯により、ファルコムの代表作〈イース〉でありながらファルコム自身によって開発されたオリジナル版『イースIV』はなく、オリジナル作品が他社製でしかも2作品あるという特殊な状態となる（後の事例については下記参照）。
 
-[2004年](../Page/2004年.md "wikilink")（平成16年）に[PlayStation 2向け事業でファルコムと提携した](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")\[11\][タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")が、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）に[リメイク](https://ja.wikipedia.org/wiki/リメイク "wikilink")作『[イースIV MASK OF THE SUN -a new theory-](https://ja.wikipedia.org/wiki/イースIV_MASK_OF_THE_SUN_-a_new_theory- "wikilink")』を発売。副題は英語で「新説」を意味しており、その名の通りフルリメイク作品となっている\[12\]。
+[2004年](../Page/2004年.md "wikilink")（平成16年）に[PlayStation 2向け事業でファルコムと提携した](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")\[11\][タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")が、[2005年](../Page/2005年.md "wikilink")（平成17年）に[リメイク](../Page/リメイク.md "wikilink")作『[イースIV MASK OF THE SUN -a new theory-](../Page/イースIV_MASK_OF_THE_SUN_-a_new_theory-.md "wikilink")』を発売。副題は英語で「新説」を意味しており、その名の通りフルリメイク作品となっている\[12\]。
 
 [2012年](../Page/2012年.md "wikilink")（平成24年）にはファルコムの[PlayStation Vita参入作品として前述の](https://ja.wikipedia.org/wiki/PlayStation_Vita "wikilink")『-a new theory-』とは異なるリメイク作『[イース セルセタの樹海](https://ja.wikipedia.org/wiki/イース_セルセタの樹海 "wikilink")』が発売された\[13\]。ファルコムの自社開発による『イースIV』がライセンシーによるオリジナル版から約20年後に実現したとも言える。
 
@@ -29,14 +29,14 @@
 
 同一原案から開発されたため、ストーリーのベース部分や地名・人名と言った固有名詞では共通する部分は多い。またオリジナルの2作は基本システムを『II』から踏襲しているためある程度の共通性がある。しかし、いずれの作品も開発会社によるアレンジが強く、物語の展開・登場人物の役割・システム（オリジナル2作については『IV』からの新システム）はそれぞれ異り、全く別のゲームとなっている。
 
-  - [イースIV The Dawn of Ys](https://ja.wikipedia.org/wiki/イースIV_The_Dawn_of_Ys "wikilink")
-    [PCエンジン](../Page/PCエンジン.md "wikilink") [SUPER CD-ROM<sup>2</sup>用にハドソンによって開発されたオリジナル作品の](../Page/SUPER_CD-ROM2.md "wikilink")1つ。[1993年](../Page/1993年.md "wikilink")（平成5年）12月22日発売。[2011年](../Page/2011年.md "wikilink")（平成23年）[7月6日](../Page/7月6日.md "wikilink")より[PS3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")/[PSP向けの](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")で[エミュレート版が配信されている](../Page/エミュレータ_\(コンピュータ\).md "wikilink")。
+  - [イースIV The Dawn of Ys](../Page/イースIV_The_Dawn_of_Ys.md "wikilink")
+    [PCエンジン](../Page/PCエンジン.md "wikilink") [SUPER CD-ROM<sup>2</sup>用にハドソンによって開発されたオリジナル作品の](../Page/SUPER_CD-ROM2.md "wikilink")1つ。[1993年](../Page/1993年.md "wikilink")（平成5年）12月22日発売。[2011年](../Page/2011年.md "wikilink")（平成23年）[7月6日](../Page/7月6日.md "wikilink")より[PS3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")/[PSP向けの](../Page/PlayStation_Portable.md "wikilink")[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")で[エミュレート版が配信されている](../Page/エミュレータ_\(コンピュータ\).md "wikilink")。
     [前述の通り](https://ja.wikipedia.org/wiki/#開発経緯 "wikilink")『IV』開発の発端であり、ハドソンとファルコムが密に連絡を取り合って開発が進められた\[14\]事から、発売当時はこちらが『イースIV』の正史という扱いであった\[15\]。しかし開発時に過去シリーズの総括が行われた『[イースVI ナピシュテムの匣](../Page/イースVI.md "wikilink")』（2003年）の初回特典である『イース大全集 〜Ys complete works〜』には『IV』として本作ではなくSFC版が収録され、総括後の公式設定をまとめた『イース大全集 Perfect Data of I-VI』ではSFC版を正史として本作をアナザーストーリーと位置づけている\[16\]\[17\]。
-  - [イースIV MASK OF THE SUN](https://ja.wikipedia.org/wiki/イースIV_MASK_OF_THE_SUN "wikilink")
-    [スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用に[トンキンハウス](https://ja.wikipedia.org/wiki/トンキンハウス "wikilink")によって開発されたオリジナル作品の1つ。[1993年](../Page/1993年.md "wikilink")（平成5年）11月19日発売。[2003年](../Page/2003年.md "wikilink")（平成15年）9月27日に発売された『VI』の初回特典である『イース大全集 〜Ys complete works〜』に[プロジェクトEGG](https://ja.wikipedia.org/wiki/プロジェクトEGG "wikilink")による[Microsoft Windows向け](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[エミュレート版が収録され](../Page/エミュレータ_\(コンピュータ\).md "wikilink")、その後[プロジェクトEGG](https://ja.wikipedia.org/wiki/プロジェクトEGG "wikilink")でも配信されている。
+  - [イースIV MASK OF THE SUN](../Page/イースIV_MASK_OF_THE_SUN.md "wikilink")
+    [スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用に[トンキンハウス](../Page/トンキンハウス.md "wikilink")によって開発されたオリジナル作品の1つ。[1993年](../Page/1993年.md "wikilink")（平成5年）11月19日発売。[2003年](../Page/2003年.md "wikilink")（平成15年）9月27日に発売された『VI』の初回特典である『イース大全集 〜Ys complete works〜』に[プロジェクトEGG](../Page/プロジェクトEGG.md "wikilink")による[Microsoft Windows向け](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[エミュレート版が収録され](../Page/エミュレータ_\(コンピュータ\).md "wikilink")、その後[プロジェクトEGG](../Page/プロジェクトEGG.md "wikilink")でも配信されている。
     非常に短い開発時間で発売された。『イース大全集 Perfect Data of I-VI』以降の公式設定ではより原案に近いこちらが正史という扱いになっている\[18\]\[19\]。
-  - [イースIV MASK OF THE SUN -a new theory-](https://ja.wikipedia.org/wiki/イースIV_MASK_OF_THE_SUN_-a_new_theory- "wikilink")
-    [PlayStation 2用にタイトーが制作](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")（開発は[アークシステムワークス](https://ja.wikipedia.org/wiki/アークシステムワークス "wikilink")）したリメイク作品。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）5月26日発売。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）より順次、[iアプリ](https://ja.wikipedia.org/wiki/iアプリ "wikilink")・[S\!アプリ](../Page/S!アプリ.md "wikilink")・[EZアプリ](https://ja.wikipedia.org/wiki/EZアプリ "wikilink")版が配信されている。
+  - [イースIV MASK OF THE SUN -a new theory-](../Page/イースIV_MASK_OF_THE_SUN_-a_new_theory-.md "wikilink")
+    [PlayStation 2用にタイトーが制作](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")（開発は[アークシステムワークス](../Page/アークシステムワークス.md "wikilink")）したリメイク作品。[2005年](../Page/2005年.md "wikilink")（平成17年）5月26日発売。[2006年](../Page/2006年.md "wikilink")（平成18年）より順次、[iアプリ](https://ja.wikipedia.org/wiki/iアプリ "wikilink")・[S\!アプリ](../Page/S!アプリ.md "wikilink")・[EZアプリ](https://ja.wikipedia.org/wiki/EZアプリ "wikilink")版が配信されている。
     製作時にはPCE版・SFC版の製作に用いられた原案はすでに散逸していたため、本作はSFC版を元にしている。しかし一部のボスキャラやステージ配置以外に面影はないと言ってよい。PCE版、SFC版の双方で大きなトピックであったエステリア行き・リリアの再登場、といった要素もばっさりとカットするなど非常に大胆に手を入れられており、新たに有翼人設定も追加されている。
   - [イース セルセタの樹海](https://ja.wikipedia.org/wiki/イース_セルセタの樹海 "wikilink")
     [PlayStation Vita用に](https://ja.wikipedia.org/wiki/PlayStation_Vita "wikilink")[日本ファルコム](../Page/日本ファルコム.md "wikilink")が開発したリメイク作品\[20\]。[2012年](../Page/2012年.md "wikilink")（平成24年）9月27日発売\[21\]。
@@ -67,14 +67,14 @@
 
 ### 音楽メディア
 
-オリジナル版のゲーム中音楽は[Falcom Sound Team J.D.Kが作曲したFM音源曲を原曲とし](../Page/Falcom_Sound_Team_jdk.md "wikilink")、ハドソンとトンキンハウスがそれぞれで起用したアレンジャーの手によってアレンジされたものが使用されている。SFC版、PCE版のオリジナルサウンドトラックは製作されていないが、FM音源の原曲集とPCE版の全曲アレンジアルバム、PS Vita版のオリジナルサウンドトラックが[ファルコムレーベル](https://ja.wikipedia.org/wiki/ファルコムレーベル "wikilink")から発売されている。
+オリジナル版のゲーム中音楽は[Falcom Sound Team J.D.Kが作曲したFM音源曲を原曲とし](../Page/Falcom_Sound_Team_jdk.md "wikilink")、ハドソンとトンキンハウスがそれぞれで起用したアレンジャーの手によってアレンジされたものが使用されている。SFC版、PCE版のオリジナルサウンドトラックは製作されていないが、FM音源の原曲集とPCE版の全曲アレンジアルバム、PS Vita版のオリジナルサウンドトラックが[ファルコムレーベル](../Page/ファルコムレーベル.md "wikilink")から発売されている。
 
 以下『IV』を主に扱っているものを列記する。現在これらは『イース　セルセタの樹海』のサウンドトラックを除き絶版となっているが、[iTunes Storeと](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")[ファミ通](https://ja.wikipedia.org/wiki/ファミ通 "wikilink").comゲームミュージックダウンロードで楽曲データを1曲単位から選んで購入する事が出来る。ただしダウンロード版では「偉大なる試練」が、[イングヴェイ・マルムスティーン](../Page/イングヴェイ・マルムスティーン.md "wikilink")の楽曲『Far beyond the sun』のメロディおよびコード進行が非常に酷似し著作権侵害の恐れがある可能性があるため、全てのアルバムで未収録とされている。
 
 <small>※「イースIV〜ザ・ドーンオブイース」の”火の村アリエダ”のBGMの前半は「ウルトラマンレオ」の”星空のバラード”と全く同じである。</small><small></small>
 
   - <small> L列は発行レーベルを示す。
-  - FL (K)：キングレコードの[ファルコムレーベル](https://ja.wikipedia.org/wiki/ファルコムレーベル "wikilink")、FL (F)：日本ファルコムのファルコムレーベル</small><small></small>
+  - FL (K)：キングレコードの[ファルコムレーベル](../Page/ファルコムレーベル.md "wikilink")、FL (F)：日本ファルコムのファルコムレーベル</small><small></small>
 
 <table>
 <thead>
@@ -89,7 +89,7 @@
 <tbody>
 <tr class="odd">
 <td><p><span style="display:none">1</span><br />
-イースIV / <a href="https://ja.wikipedia.org/wiki/風の伝説ザナドゥ" title="wikilink">風の伝説ザナドゥ</a>/ <a href="https://ja.wikipedia.org/wiki/ブランディッシュ" title="wikilink">ブランディッシュ</a>2プレリリース<br />
+イースIV / <a href="../Page/風の伝説ザナドゥ.md" title="wikilink">風の伝説ザナドゥ</a>/ <a href="../Page/ブランディッシュ.md" title="wikilink">ブランディッシュ</a>2プレリリース<br />
 </p></td>
 <td><p>FL (K)</p></td>
 <td><p>KICA9012-5</p></td>
@@ -131,7 +131,7 @@
 <td><p><a href="../Page/米光亮.md" title="wikilink">米光亮</a>によるアレンジ集。</p></td>
 </tr>
 <tr class="even">
-<td><p><span style="display:none">5</span><span style="display:none">イース41</span>イースIVvs<a href="https://ja.wikipedia.org/wiki/風の伝説ザナドゥ" title="wikilink">風の伝説ザナドゥ</a>／J.D.K.BAND4<br />
+<td><p><span style="display:none">5</span><span style="display:none">イース41</span>イースIVvs<a href="../Page/風の伝説ザナドゥ.md" title="wikilink">風の伝説ザナドゥ</a>／J.D.K.BAND4<br />
 </p></td>
 <td><p>FL (K)</p></td>
 <td><p>KICA1141</p></td>
@@ -196,11 +196,11 @@
 
 ### 小説
 
-〈イースシリーズ〉の[小説化](../Page/小説化.md "wikilink")を手がけて続けている[大場惑](https://ja.wikipedia.org/wiki/大場惑 "wikilink")による作品が2作で計3巻発売されている。
+〈イースシリーズ〉の[小説化](../Page/小説化.md "wikilink")を手がけて続けている[大場惑](../Page/大場惑.md "wikilink")による作品が2作で計3巻発売されている。
 
 『イースIV 序章 翼あるものの肖像』は序章の名の通り、セルセタにおけるゲームよりも前の出来事を描いておりアドルは登場しない。
 
-  - [大場惑](https://ja.wikipedia.org/wiki/大場惑 "wikilink")（著）・池上明子（イラスト）、[アスペクト](../Page/アスペクト_\(企業\).md "wikilink")〈[ログアウト冒険文庫](../Page/ログアウト冒険文庫.md "wikilink")〉
+  - [大場惑](../Page/大場惑.md "wikilink")（著）・池上明子（イラスト）、[アスペクト](../Page/アスペクト_\(企業\).md "wikilink")〈[ログアウト冒険文庫](../Page/ログアウト冒険文庫.md "wikilink")〉
       - 『イースIV 序章 翼あるものの肖像』1993年10月22日発行、ISBN 4-89366-138-8
       - 『イースIV 樹海に沈みし魔宮』
           - 上、1994年8月17日発行、ISBN 4-89366-259-7
@@ -209,16 +209,16 @@
 ### 漫画
 
   - [奥田ひとし](../Page/奥田ひとし.md "wikilink")（画）・糸井賢一（脚本）『イース太陽の仮面 -Mask of the Sun』[角川書店](../Page/角川書店.md "wikilink")〈[ドラゴンコミックス](https://ja.wikipedia.org/wiki/ドラゴンコミックス "wikilink")〉1994年12月、ISBN 4-04-926042-5
-      - [コンプティーク](../Page/コンプティーク.md "wikilink")増刊『[マル勝PCエンジン](https://ja.wikipedia.org/wiki/マル勝PCエンジン "wikilink")』連載
-  - [環望](https://ja.wikipedia.org/wiki/環望 "wikilink")「イースIV Mask of the Sun」
-      - 単行本未発売、[徳間書店](../Page/徳間書店.md "wikilink")『[ファミリーコンピュータMagazine](https://ja.wikipedia.org/wiki/ファミリーコンピュータMagazine "wikilink")』
+      - [コンプティーク](../Page/コンプティーク.md "wikilink")増刊『[マル勝PCエンジン](../Page/マル勝PCエンジン.md "wikilink")』連載
+  - [環望](../Page/環望.md "wikilink")「イースIV Mask of the Sun」
+      - 単行本未発売、[徳間書店](../Page/徳間書店.md "wikilink")『[ファミリーコンピュータMagazine](../Page/ファミリーコンピュータMagazine.md "wikilink")』
 
 ## 参考文献
 
 <div class="references-small">
 
   - 『イースIV冒険ガイドブック』小学館、1994年1月10日初版第1刷発行、ISBN 4-09-102463-7
-  - 『イース大全集 -Perfect Data of I〜VI-』[メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink")、2003年11月20日初版発行、ISBN 978-4-84-022531-1
+  - 『イース大全集 -Perfect Data of I〜VI-』[メディアワークス](../Page/メディアワークス.md "wikilink")、2003年11月20日初版発行、ISBN 978-4-84-022531-1
   - 『日本ファルコム30周年公式記念本 Falcom Chronicle』[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")、2011年11月8日初版発行、ISBN 978-4-04-870774-9
 
 </div>
@@ -241,7 +241,7 @@
 2.  『電撃PlayStation』Vol.503、79頁
 3.  「ゲーム回想録 イースIV MASK OF THE SUN」『Falcom Chronicle』290頁
 4.  「イースの世界はさらに広がる 日本ファルコム、加藤社長に聞くイースの世界」『イースIV冒険ガイドブック』124-127頁
-5.  ファルコム初の自社開発[PCエンジン](../Page/PCエンジン.md "wikilink")向けオリジナル作品『[風の伝説ザナドゥ](https://ja.wikipedia.org/wiki/風の伝説ザナドゥ "wikilink")』の開発中であった。
+5.  ファルコム初の自社開発[PCエンジン](../Page/PCエンジン.md "wikilink")向けオリジナル作品『[風の伝説ザナドゥ](../Page/風の伝説ザナドゥ.md "wikilink")』の開発中であった。
 6.
 7.
 8.

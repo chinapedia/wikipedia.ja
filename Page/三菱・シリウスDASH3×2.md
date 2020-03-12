@@ -5,19 +5,19 @@
 
 ## 概要
 
-[三菱自動車工業](../Page/三菱自動車工業.md "wikilink")が、[1984年](../Page/1984年.md "wikilink")に発売した日本初の[可変バルブ機構](../Page/可変バルブ機構.md "wikilink")（タイミング・リフト共に可変）を搭載したエンジンである。従来の[直列4気筒](https://ja.wikipedia.org/wiki/直列4気筒 "wikilink")[G63B型を](https://ja.wikipedia.org/wiki/三菱・4G63 "wikilink")、[SOHC](../Page/SOHC.md "wikilink")3バルブ（吸気2、排気1）の可変バルブ機構に改良し、電子制御可変過給圧[ターボと](../Page/ターボチャージャー.md "wikilink")[インタークーラー](https://ja.wikipedia.org/wiki/インタークーラー "wikilink")を装備したエンジンである。
+[三菱自動車工業](../Page/三菱自動車工業.md "wikilink")が、[1984年](../Page/1984年.md "wikilink")に発売した日本初の[可変バルブ機構](../Page/可変バルブ機構.md "wikilink")（タイミング・リフト共に可変）を搭載したエンジンである。従来の[直列4気筒](../Page/直列4気筒.md "wikilink")[G63B型を](../Page/三菱・4G63.md "wikilink")、[SOHC](../Page/SOHC.md "wikilink")3バルブ（吸気2、排気1）の可変バルブ機構に改良し、電子制御可変過給圧[ターボと](../Page/ターボチャージャー.md "wikilink")[インタークーラー](../Page/インタークーラー.md "wikilink")を装備したエンジンである。
 
-低回転域では、[吸気バルブ](https://ja.wikipedia.org/wiki/ポペットバルブ "wikilink")（φ29mm）は開度角232度、排気バルブは開度角272度のカムによって駆動される。バルブは吸気、排気側とも1個であり、2バルブとして機能する。これにより、小径バルブからの強いスワール渦を[シリンダー](https://ja.wikipedia.org/wiki/シリンダー "wikilink")内に発生させることが可能であり、さらに[インテークマニホールド](https://ja.wikipedia.org/wiki/インテークマニホールド "wikilink")内の吸気流速を高め、慣性過給による充填効率が高まる。また、[オーバーラップ](https://ja.wikipedia.org/wiki/オーバーラップ "wikilink")が30度と少なく、吸気の吹き抜けやインテークマニホールド内の[排気](https://ja.wikipedia.org/wiki/排気 "wikilink")ガスの吹き返しが無くなるので、[アイドリング](../Page/アイドリング.md "wikilink")時に安定する。
+低回転域では、[吸気バルブ](https://ja.wikipedia.org/wiki/ポペットバルブ "wikilink")（φ29mm）は開度角232度、排気バルブは開度角272度のカムによって駆動される。バルブは吸気、排気側とも1個であり、2バルブとして機能する。これにより、小径バルブからの強いスワール渦を[シリンダー](../Page/シリンダー.md "wikilink")内に発生させることが可能であり、さらに[インテークマニホールド](../Page/インテークマニホールド.md "wikilink")内の吸気流速を高め、慣性過給による充填効率が高まる。また、[オーバーラップ](https://ja.wikipedia.org/wiki/オーバーラップ "wikilink")が30度と少なく、吸気の吹き抜けやインテークマニホールド内の[排気](https://ja.wikipedia.org/wiki/排気 "wikilink")ガスの吹き返しが無くなるので、[アイドリング](../Page/アイドリング.md "wikilink")時に安定する。
 
-高回転域では、φ29mmかつ開度角232度の吸気バルブに加え、もう一つの吸気バルブ（φ37mm）が開度角288度の[ハイカム](https://ja.wikipedia.org/wiki/ハイカム "wikilink")によって駆動される。これにより、吸気2・排気1の3バルブとして機能する。大径バルブと小径バルブの両方を用いることで吸気抵抗が少なくでき、充填効率が高まることで高出力が得られる。
+高回転域では、φ29mmかつ開度角232度の吸気バルブに加え、もう一つの吸気バルブ（φ37mm）が開度角288度の[ハイカム](../Page/ハイカム.md "wikilink")によって駆動される。これにより、吸気2・排気1の3バルブとして機能する。大径バルブと小径バルブの両方を用いることで吸気抵抗が少なくでき、充填効率が高まることで高出力が得られる。
 
-これは既成の[気筒休止エンジン](https://ja.wikipedia.org/wiki/気筒休止エンジン "wikilink")（MDエンジン）で使われている[ロッカーアーム](https://ja.wikipedia.org/wiki/ロッカーアーム "wikilink")の切り替え技術を高回転側吸気バルブに応用したもので、切り替えは約2,500rpmで行われる。
+これは既成の[気筒休止エンジン](../Page/気筒休止エンジン.md "wikilink")（MDエンジン）で使われている[ロッカーアーム](../Page/ロッカーアーム.md "wikilink")の切り替え技術を高回転側吸気バルブに応用したもので、切り替えは約2,500rpmで行われる。
 
 ## エンジンスペック
 
-型式：シリウス（→サイクロン）G63B Dash3x2（[インタークーラー](https://ja.wikipedia.org/wiki/インタークーラー "wikilink")[ターボ](https://ja.wikipedia.org/wiki/ターボ "wikilink"))
+型式：シリウス（→サイクロン）G63B Dash3x2（[インタークーラー](../Page/インタークーラー.md "wikilink")[ターボ](https://ja.wikipedia.org/wiki/ターボ "wikilink"))
 
-  - 弁機構、気筒数 [SOHC](../Page/SOHC.md "wikilink")[直列4気筒](https://ja.wikipedia.org/wiki/直列4気筒 "wikilink")
+  - 弁機構、気筒数 [SOHC](../Page/SOHC.md "wikilink")[直列4気筒](../Page/直列4気筒.md "wikilink")
   - 内径X行程 85.0mm x 88.0mm
   - 排気量 1,997cc
   - 圧縮比 7.5
@@ -36,7 +36,7 @@
 
 ## 搭載車種
 
-  - [スタリオン](https://ja.wikipedia.org/wiki/三菱・スタリオン "wikilink")（2000GSR-V）
+  - [スタリオン](../Page/三菱・スタリオン.md "wikilink")（2000GSR-V）
   - [ギャランΣ](https://ja.wikipedia.org/wiki/三菱・ギャランΣ "wikilink")（セダン・2000スーパーエクシード/ハードトップ・2000VR）
   - [エテルナΣ](https://ja.wikipedia.org/wiki/三菱・エテルナΣ "wikilink")（同上）
 
@@ -46,11 +46,11 @@
 
 ## 関連項目
 
-  - [三菱・4G63](https://ja.wikipedia.org/wiki/三菱・4G63 "wikilink") - G63Bの後の名称で、一般には4G63で知られている
+  - [三菱・4G63](../Page/三菱・4G63.md "wikilink") - G63Bの後の名称で、一般には4G63で知られている
   - [MIVEC](../Page/MIVEC.md "wikilink")
   - [サイクロンエンジン](../Page/サイクロンエンジン.md "wikilink")
   - [可変バルブ機構](../Page/可変バルブ機構.md "wikilink")
-  - [気筒休止エンジン](https://ja.wikipedia.org/wiki/気筒休止エンジン "wikilink")
+  - [気筒休止エンジン](../Page/気筒休止エンジン.md "wikilink")
   - [MVV](https://ja.wikipedia.org/wiki/MVV "wikilink")
 
 [Category:三菱自動車工業のエンジン](https://ja.wikipedia.org/wiki/Category:三菱自動車工業のエンジン "wikilink")

@@ -1,21 +1,21 @@
 > この記事は[SHOW-YA](https://ja.wikipedia.org/wiki/SHOW-YA)から翻訳されています。
 
 
-**SHOW-YA**（ショーヤ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](https://ja.wikipedia.org/wiki/ガールズバンド "wikilink")5人組[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。1980年代からのバンドブーム、特に女性だけのバンドとしては先駆け的な存在であり、それを牽引してきたバンドの一つである\[1\]\[2\]。
+**SHOW-YA**（ショーヤ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/ガールズバンド.md "wikilink")5人組[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。1980年代からのバンドブーム、特に女性だけのバンドとしては先駆け的な存在であり、それを牽引してきたバンドの一つである\[1\]\[2\]。
 
 ## メンバー
 
 ### 現メンバー
 
   - [寺田恵子](https://ja.wikipedia.org/wiki/寺田恵子 "wikilink") - ボーカル、作詞、作曲（第1期、再結成期）
-    [1963年](../Page/1963年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink")生まれ。[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")出身。血液型A型。
+    [1963年](../Page/1963年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink")生まれ。[千葉県](../Page/千葉県.md "wikilink")出身。血液型A型。
   - [中村美紀](https://ja.wikipedia.org/wiki/中村美紀 "wikilink") - キーボード、コーラス、リーダー、作詞、作曲
     [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")生まれ。千葉県出身。血液型AB型。
-  - [五十嵐sun-go美貴](https://ja.wikipedia.org/wiki/五十嵐美貴 "wikilink") - ギター、コーラス、作曲
-    1962年[11月21日](../Page/11月21日.md "wikilink")生まれ。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[厚木市](https://ja.wikipedia.org/wiki/厚木市 "wikilink")出身。血液型A型。
+  - [五十嵐sun-go美貴](../Page/五十嵐美貴.md "wikilink") - ギター、コーラス、作曲
+    1962年[11月21日](../Page/11月21日.md "wikilink")生まれ。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[厚木市](../Page/厚木市.md "wikilink")出身。血液型A型。
   - [角田mittan美喜](https://ja.wikipedia.org/wiki/角田美喜 "wikilink") - ドラムス、コーラス、作曲
-    1963年[12月7日](../Page/12月7日.md "wikilink")生まれ。[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身。血液型O型。
-  - [仙波さとみ](https://ja.wikipedia.org/wiki/仙波さとみ "wikilink") - ベース、コーラス、作曲
+    1963年[12月7日](../Page/12月7日.md "wikilink")生まれ。[東京都](../Page/東京都.md "wikilink")出身。血液型O型。
+  - [仙波さとみ](../Page/仙波さとみ.md "wikilink") - ベース、コーラス、作曲
     1963年[8月28日](../Page/8月28日.md "wikilink")生まれ。東京都出身。血液型A型。
 
 ### 元メンバー
@@ -27,21 +27,21 @@
 
 ボーカルの寺田とキーボードの中村の所属していたバンド「メデューサ」が前身。のちにバンド名を「SHOW-YA」に変更する。 [1982年](../Page/1982年.md "wikilink")、ヤマハ主催のバンドコンテストレディース部門で最優秀グランプリに輝く\[3\]。この時には寺田だけが大手プロダクションやレコード会社からソロデビューの話が持ちかけられたことがあったが、寺田は「ソロは嫌。みんなでデビューしたい」と拒否。バンドとしてデビューする流れにはなったが\[4\]、その後6人のメンバーの内、寺田と中村を除く4人が音楽以外の道に進むために脱退する。その後、メンバー募集によって、角田、仙波、五十嵐が順に加入する。
 
-[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[8月](../Page/8月.md "wikilink")、『素敵にダンシング (Coke Is It)』でデビューを果たす。しかし、当時は女性だけのロックバンドは珍しくて一般になじみが薄く、ミニスカートを履かせられたり髪を刈り上げられたりと、アイドルバンド路線で売り出されることになった\[5\]。この時、長くストレートな髪を切られて泣いていたメンバーもいたという\[6\]。なお、メジャーデビュー時にはデビュー曲に[コカ・コーラの](../Page/日本コカ・コーラ.md "wikilink")[タイアップ](https://ja.wikipedia.org/wiki/タイアップ "wikilink")が付き、ヘアメイクやスタイリストも世界で活躍する人、衣装デザインも[コシノジュンコ](../Page/コシノジュンコ.md "wikilink")と、大きなプロジェクトが組まれていた\[7\]。
+[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[8月](../Page/8月.md "wikilink")、『素敵にダンシング (Coke Is It)』でデビューを果たす。しかし、当時は女性だけのロックバンドは珍しくて一般になじみが薄く、ミニスカートを履かせられたり髪を刈り上げられたりと、アイドルバンド路線で売り出されることになった\[5\]。この時、長くストレートな髪を切られて泣いていたメンバーもいたという\[6\]。なお、メジャーデビュー時にはデビュー曲に[コカ・コーラの](../Page/日本コカ・コーラ.md "wikilink")[タイアップ](../Page/タイアップ.md "wikilink")が付き、ヘアメイクやスタイリストも世界で活躍する人、衣装デザインも[コシノジュンコ](../Page/コシノジュンコ.md "wikilink")と、大きなプロジェクトが組まれていた\[7\]。
 
-[1980年代](../Page/1980年代.md "wikilink")後半、ハードロック路線に戻って自分たちの音楽を追求していたものの\[8\]、セールスは伸び悩んでいた。それまで主に作詞を担当していた寺田はそれが自分のせいだと思い、7枚目のアルバム『[Outerlimits](https://ja.wikipedia.org/wiki/Outerlimits "wikilink")』制作時、音楽家の安藤芳彦に作詞を依頼する。その際、寺田は自分の日記を安藤に渡し、それを基に詞を書いて欲しいと頼んだ。また、このアルバムから[笹路正徳](https://ja.wikipedia.org/wiki/笹路正徳 "wikilink")がプロデューサーとして参加する。その結果、アルバムは約60万枚のセールスを記録する\[9\]。30万枚を突破した8thシングル『[限界LOVERS](https://ja.wikipedia.org/wiki/限界LOVERS "wikilink")』\[10\]や『[私は嵐](https://ja.wikipedia.org/wiki/私は嵐 "wikilink")』のヒットも相まって、SHOW-YAのライブ本数やテレビ出演回数は激増する。さらに[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")から企画・主催を始めた女性アーティストのみを集めた野外イベント「[NAONのYAON](../Page/NAONのYAON.md "wikilink")」では、[ガールズバンド](https://ja.wikipedia.org/wiki/ガールズバンド "wikilink")の認知度を上げることに貢献する。
+[1980年代](../Page/1980年代.md "wikilink")後半、ハードロック路線に戻って自分たちの音楽を追求していたものの\[8\]、セールスは伸び悩んでいた。それまで主に作詞を担当していた寺田はそれが自分のせいだと思い、7枚目のアルバム『[Outerlimits](../Page/Outerlimits.md "wikilink")』制作時、音楽家の安藤芳彦に作詞を依頼する。その際、寺田は自分の日記を安藤に渡し、それを基に詞を書いて欲しいと頼んだ。また、このアルバムから[笹路正徳](../Page/笹路正徳.md "wikilink")がプロデューサーとして参加する。その結果、アルバムは約60万枚のセールスを記録する\[9\]。30万枚を突破した8thシングル『[限界LOVERS](../Page/限界LOVERS.md "wikilink")』\[10\]や『[私は嵐](../Page/私は嵐.md "wikilink")』のヒットも相まって、SHOW-YAのライブ本数やテレビ出演回数は激増する。さらに[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")から企画・主催を始めた女性アーティストのみを集めた野外イベント「[NAONのYAON](../Page/NAONのYAON.md "wikilink")」では、[ガールズバンド](../Page/ガールズバンド.md "wikilink")の認知度を上げることに貢献する。
 
 [1991年](../Page/1991年.md "wikilink")[2月2日](../Page/2月2日.md "wikilink")、ボーカル寺田がバンドを脱退する。多忙を極めたスケジュールにより引き起こされた喉を潰すなどの体調不良と精神的ストレスが原因であった\[11\]。残されたメンバーは新しいボーカルにステファニー・ボージャスを迎えて活動を続けるが、[1993年](../Page/1993年.md "wikilink")頃から活動が凍結状態になり、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") にボーカルがYoshinoに代わったものの、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[9月](../Page/9月.md "wikilink")に解散\[12\]。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、91年に脱退した寺田がバラバラになったメンバーたちのもとを訪れて一人一人に頭を下げ、5年かけてメンバーを説得し再結成を果たす\[13\]。以降は数々のライブ活動、寺田恵子はNHK-FMの「[私の名盤コレクション](https://ja.wikipedia.org/wiki/私の名盤コレクション "wikilink")」のパーソナリティを務めるなど、精力的に活動を続けて今に至る。
+[2005年](../Page/2005年.md "wikilink")、91年に脱退した寺田がバラバラになったメンバーたちのもとを訪れて一人一人に頭を下げ、5年かけてメンバーを説得し再結成を果たす\[13\]。以降は数々のライブ活動、寺田恵子はNHK-FMの「[私の名盤コレクション](https://ja.wikipedia.org/wiki/私の名盤コレクション "wikilink")」のパーソナリティを務めるなど、精力的に活動を続けて今に至る。
 
 ## エピソード
 
-  - バンド名の由来は、[居酒屋](https://ja.wikipedia.org/wiki/居酒屋 "wikilink")チェーンの[庄や](https://ja.wikipedia.org/wiki/大庄 "wikilink")。前身の『メデューサ』時代、ことごとく音楽コンテストに落選していた寺田と中村は「バンド名が悪い」ということで意見が一致、その時、飲んでいた庄やから名前を取ることにした。英語にすると『SHOW-YA』で「Show Ya」（"Ya"はYou"の口語表現で「ショーをあなたに」「あなたに魅せる」）になるということで決定した\[14\]。そういった縁もあり、再結成後の2014年には庄や目黒408店で寺田が一日女将を務めるというコラボ企画も行われた\[15\]。
-  - 現メンバーがそろった当初のなかなかデビューのきっかけをつかめずにいた頃、よく相談に乗ってもらっていた[島村楽器](https://ja.wikipedia.org/wiki/島村楽器 "wikilink")の関係者が同社の社長に掛け合い、島村楽器内に音響事業部というプロダクション部門を作ってもらってそこに所属していたこともあり\[16\]\[17\]、[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[市川市](../Page/市川市.md "wikilink")内の島村楽器寮に5人全員で同居していたことがあった\[18\]。この最初の事務所も同社の倉庫の中にあったものだったという\[19\]。そしてライブ主演を重ねるうちに徐々に大手プロダクションが係わってくるようになり、メジャーデビューのきっかけをつかむことになる\[20\]。
-  - 寺田、五十嵐は、元[プリンセス プリンセスの](https://ja.wikipedia.org/wiki/プリンセス_プリンセス "wikilink")[渡辺敦子](https://ja.wikipedia.org/wiki/渡辺敦子 "wikilink")、[富田京子](https://ja.wikipedia.org/wiki/富田京子 "wikilink")、SIMBA SALOONの力石理江と女性5人組バンド「全日本女子プロバンド(通称:全女バンド)」を結成。なお、五十嵐は2000年に脱退している。
+  - バンド名の由来は、[居酒屋](../Page/居酒屋.md "wikilink")チェーンの[庄や](../Page/大庄.md "wikilink")。前身の『メデューサ』時代、ことごとく音楽コンテストに落選していた寺田と中村は「バンド名が悪い」ということで意見が一致、その時、飲んでいた庄やから名前を取ることにした。英語にすると『SHOW-YA』で「Show Ya」（"Ya"はYou"の口語表現で「ショーをあなたに」「あなたに魅せる」）になるということで決定した\[14\]。そういった縁もあり、再結成後の2014年には庄や目黒408店で寺田が一日女将を務めるというコラボ企画も行われた\[15\]。
+  - 現メンバーがそろった当初のなかなかデビューのきっかけをつかめずにいた頃、よく相談に乗ってもらっていた[島村楽器](../Page/島村楽器.md "wikilink")の関係者が同社の社長に掛け合い、島村楽器内に音響事業部というプロダクション部門を作ってもらってそこに所属していたこともあり\[16\]\[17\]、[千葉県](../Page/千葉県.md "wikilink")[市川市](../Page/市川市.md "wikilink")内の島村楽器寮に5人全員で同居していたことがあった\[18\]。この最初の事務所も同社の倉庫の中にあったものだったという\[19\]。そしてライブ主演を重ねるうちに徐々に大手プロダクションが係わってくるようになり、メジャーデビューのきっかけをつかむことになる\[20\]。
+  - 寺田、五十嵐は、元[プリンセス プリンセスの](../Page/プリンセス_プリンセス.md "wikilink")[渡辺敦子](../Page/渡辺敦子.md "wikilink")、[富田京子](../Page/富田京子.md "wikilink")、SIMBA SALOONの力石理江と女性5人組バンド「全日本女子プロバンド(通称:全女バンド)」を結成。なお、五十嵐は2000年に脱退している。
       - プリンセス プリンセスとの関係は、SHOW-YAのハード系と比べられ、仲が悪いともうわさされたこともあったが、メンバーとの関係は良好で、お互いのメンバー同士で[東京ディズニーランド](https://ja.wikipedia.org/wiki/東京ディズニーランド "wikilink")などへ遊びに行ったこともあった\[21\]。寺田は「（仲が悪いなどという噂は）メディアが勝手に言っていただけ。むしろお互いの対抗意識は全く無かった」と話している\[22\]。
-  - 中村、仙波は、元バービーボーイズの[杏子らと女性バンド](https://ja.wikipedia.org/wiki/杏子_\(ミュージシャン\) "wikilink")「ミレニアム・イブ」としての活動もあった。
+  - 中村、仙波は、元バービーボーイズの[杏子らと女性バンド](../Page/杏子_\(ミュージシャン\).md "wikilink")「ミレニアム・イブ」としての活動もあった。
   - 女性ミュージシャンのみによる[ロック・フェスティバル](../Page/ロック・フェスティバル.md "wikilink")「[NAONのYAON](../Page/NAONのYAON.md "wikilink")」はSHOW-YAが中心となって企画されたイベントである。[プリンセス・プリンセス](https://ja.wikipedia.org/wiki/プリンセス・プリンセス "wikilink")やMINAKO With WILD CATSとしての[本田美奈子.](https://ja.wikipedia.org/wiki/本田美奈子. "wikilink")もこのイベントに出演した事がある。
   - 寺田脱退後、TBS『[ギミアぶれいく](https://ja.wikipedia.org/wiki/ギミアぶれいく "wikilink")』の企画で[北朝鮮](https://ja.wikipedia.org/wiki/北朝鮮 "wikilink")に渡りライブを行ったことがある。その際にはゲストボーカルとして[喜屋武マリー](https://ja.wikipedia.org/wiki/喜屋武マリー "wikilink")が参加した。
   - 1989年発売のパソコンゲームソフト「[BURAI](../Page/BURAI.md "wikilink")上巻」に音楽を提供している。
@@ -95,7 +95,7 @@ XT15-5012</p></td>
 <td><p>1987年5月25日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/水の中の逃亡者" title="wikilink">水の中の逃亡者</a></strong></p></td>
 <td><p>XT10-2280</p></td>
-<td><p><a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a>系ドラマ『<a href="https://ja.wikipedia.org/wiki/大都会25時" title="wikilink">大都会25時</a>』主題歌。</p></td>
+<td><p><a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a>系ドラマ『<a href="../Page/大都会25時.md" title="wikilink">大都会25時</a>』主題歌。</p></td>
 </tr>
 <tr class="even">
 <td><p>6th</p></td>
@@ -114,28 +114,28 @@ XT15-5012</p></td>
 <tr class="even">
 <td><p>8th</p></td>
 <td><p>1989年2月1日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/限界LOVERS" title="wikilink">限界LOVERS</a></strong></p></td>
+<td><p><strong><a href="../Page/限界LOVERS.md" title="wikilink">限界LOVERS</a></strong></p></td>
 <td><p>XT10-2311</p></td>
 <td><p><a href="../Page/昭和シェル石油.md" title="wikilink">昭和シェル石油</a>CMソング。</p></td>
 </tr>
 <tr class="odd">
 <td><p>9th</p></td>
 <td><p>1989年6月7日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/私は嵐" title="wikilink">私は嵐</a></strong></p></td>
+<td><p><strong><a href="../Page/私は嵐.md" title="wikilink">私は嵐</a></strong></p></td>
 <td><p>XT10-2360</p></td>
 <td><p><a href="../Page/昭和シェル石油.md" title="wikilink">昭和シェル石油</a>CMソング。</p></td>
 </tr>
 <tr class="even">
 <td><p>10th</p></td>
 <td><p>1990年3月7日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/叫び_(SHOW-YAの曲)" title="wikilink">叫び</a></strong></p></td>
+<td><p><strong><a href="../Page/叫び_(SHOW-YAの曲).md" title="wikilink">叫び</a></strong></p></td>
 <td><p>TODT-2488</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>11th</p></td>
 <td><p>1990年9月5日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ギャンブリング" title="wikilink">ギャンブリング</a></strong></p></td>
+<td><p><strong><a href="../Page/ギャンブリング.md" title="wikilink">ギャンブリング</a></strong></p></td>
 <td><p>TODT-2545</p></td>
 <td></td>
 </tr>
@@ -266,7 +266,7 @@ UPCY-6981</p></td>
 2005年08月31日<br />
 2013年09月25日<br />
 2015年03月11日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Outerlimits" title="wikilink">Outerlimits</a></strong></p></td>
+<td><p><strong><a href="../Page/Outerlimits.md" title="wikilink">Outerlimits</a></strong></p></td>
 <td><p>CT32-5540<br />
 TOCT-8409<br />
 TOCT-11069<br />
@@ -280,7 +280,7 @@ UPCY-6982</p></td>
 1994年06月22日<br />
 2005年08月31日<br />
 2015年03月11日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/HARD_WAY" title="wikilink">HARD WAY</a></strong></p></td>
+<td><p><strong><a href="../Page/HARD_WAY.md" title="wikilink">HARD WAY</a></strong></p></td>
 <td><p>TOCT-5855<br />
 TOCT-8410<br />
 TOCT-11070<br />
@@ -447,7 +447,7 @@ TYCN-60133</p></td>
 <tr class="even">
 <td><p>8th</p></td>
 <td><p>2005年9月30日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/SHOW-YA_THE_BEST_SOUND_&amp;_VISION-20th_Anniversary-" title="wikilink">SHOW-YA THE BEST SOUND &amp; VISION-20th Anniversary-</a></strong></p></td>
+<td><p><strong><a href="../Page/SHOW-YA_THE_BEST_SOUND_&amp;_VISION-20th_Anniversary-.md" title="wikilink">SHOW-YA THE BEST SOUND &amp; VISION-20th Anniversary-</a></strong></p></td>
 <td><p>TOCT-25821:スペシャルパッケージ盤<br />
 TOCT-25822:通常盤</p></td>
 <td></td>
@@ -640,7 +640,7 @@ TOBF-91088:DVD</p></td>
   - 2015年05月30日 - 六魂Fes\!
   - 2015年08月23日 - NAONのYAON 2015～SUMMER～
   - 2015年06月12日 - NAONのYAON 2016
-  - 2015年07月19日・20日 - SHOW-YA×[EARTHSHAKER](https://ja.wikipedia.org/wiki/EARTHSHAKER "wikilink")『初対決\! KING VS QUEEN』
+  - 2015年07月19日・20日 - SHOW-YA×[EARTHSHAKER](../Page/EARTHSHAKER.md "wikilink")『初対決\! KING VS QUEEN』
   - 2015年09月04日 - [Gacharic Spin](https://ja.wikipedia.org/wiki/Gacharic_Spin "wikilink")×SHOW-YA
   - 2017年9月24日- [ONE＋NATION](https://ja.wikipedia.org/wiki/ONE＋NATION "wikilink") music circus in山中湖
 

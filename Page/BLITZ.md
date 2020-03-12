@@ -3,7 +3,7 @@
 
 **株式会社ブリッツ**は、カーチューニングパーツ（タービン、コンプレッサー、マフラー、車高調、エアクリーナー、メーター、燃料制御コンピューター、インタークーラー、エアロ、バイナル等）の企画、製造、販売を目的とする日本の企業。[1981年](../Page/1981年.md "wikilink")設立。BLITZはドイツ語で稲妻と言う意味。
 
-かつては[全日本プロドリフト選手権](https://ja.wikipedia.org/wiki/全日本プロドリフト選手権 "wikilink")（D1グランプリ）に[野村謙](https://ja.wikipedia.org/wiki/野村謙 "wikilink")と共にワークス参戦していた。
+かつては[全日本プロドリフト選手権](../Page/全日本プロドリフト選手権.md "wikilink")（D1グランプリ）に[野村謙](../Page/野村謙.md "wikilink")と共にワークス参戦していた。
 
 「電脳集団」とたびたび称され、その名の通り電子系統パーツ（既存の電子系統をさらに調整し、性能向上が可能になるコントローラーが多い）を得意とし、最新の電子機器を満載した新型車への対応もいち早く行っている。
 
@@ -11,8 +11,8 @@
 
   - [1981年](../Page/1981年.md "wikilink") ： ドイツKKK社製（[Kühnle Kopp und Kausch](https://ja.wikipedia.org/wiki/:de:Kühnle,_Kopp_&_Kausch "wikilink")）ターボチャージャーキットのカーチューニングパーツの販売を目的として、株式会社ブリッツを設立。
   - [1993年](../Page/1993年.md "wikilink") ： [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[知立市](../Page/知立市.md "wikilink")に物流センターを開設。
-  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") ： [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[調布市](../Page/調布市.md "wikilink")に事業所を開設。
-  - [1996年](../Page/1996年.md "wikilink") ： 愛知県[刈谷市](https://ja.wikipedia.org/wiki/刈谷市 "wikilink")に生産センターを開設。開発・生産・販売の一貫体制を確立。
+  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") ： [東京都](../Page/東京都.md "wikilink")[調布市](../Page/調布市.md "wikilink")に事業所を開設。
+  - [1996年](../Page/1996年.md "wikilink") ： 愛知県[刈谷市](../Page/刈谷市.md "wikilink")に生産センターを開設。開発・生産・販売の一貫体制を確立。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") ： 生産センターを愛知県[安城市](../Page/安城市.md "wikilink")へ移転する。
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink") ： 営業所を札幌・仙台・東京・名古屋・大阪・福岡の6拠点体制とする。
 
@@ -28,7 +28,7 @@
 
 D1初の[ワークス・チーム](../Page/ワークス・チーム.md "wikilink")として、シリーズが発足した2001年の第3戦より参戦。翌2002年に本格参戦を開始。
 
-監督・**阿部成人(当時社員。2011年に退社し独立)**、ドライバー・**[野村謙](https://ja.wikipedia.org/wiki/野村謙 "wikilink")**の体制で参戦していた。
+監督・**阿部成人(当時社員。2011年に退社し独立)**、ドライバー・**[野村謙](../Page/野村謙.md "wikilink")**の体制で参戦していた。
 
   - [2002年](../Page/2002年.md "wikilink")
 
@@ -63,7 +63,7 @@ D1初の[ワークス・チーム](../Page/ワークス・チーム.md "wikilink
 
 <!-- end list -->
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
 
 <!-- end list -->
 
@@ -74,7 +74,7 @@ D1初の[ワークス・チーム](../Page/ワークス・チーム.md "wikilink
 
 <!-- end list -->
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")
+  - [2006年](../Page/2006年.md "wikilink")
 
 <!-- end list -->
 
@@ -141,13 +141,13 @@ D1初の[ワークス・チーム](../Page/ワークス・チーム.md "wikilink
 
 ## 主なデモカー
 
-  - 753スープラ - [ニュルブルクリンク](https://ja.wikipedia.org/wiki/ニュルブルクリンク "wikilink")オールドコースで当時ストリートカーレコードだった7分53秒を切るため、[Optionとのジョイント企画で製作された](https://ja.wikipedia.org/wiki/Option_\(雑誌\) "wikilink")[JZA80スープラベースのチューニングカー](https://ja.wikipedia.org/wiki/トヨタ・スープラ "wikilink")。結果は7分49秒で無事に更新された。
-  - R-348 - [ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[アウトバーン](../Page/アウトバーン.md "wikilink")にてストリートカー最高速記録を抜くために製作された[BNR34スカイラインGT-Rベースのチューニングカー](https://ja.wikipedia.org/wiki/日産・スカイラインGT-R "wikilink")。[ターボにはK](../Page/ターボチャージャー.md "wikilink")5-850Rを用い、推定850[馬力](../Page/馬力.md "wikilink")を記録。ドイツへ運んでからさまざまなトラブルに巻き込まれ、343km/hでプロジェクトは終了した。その後[アメリカのシルバーステイツで使われたのだが](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、ガス欠でリタイヤに終わっている。
-  - BLITZ D1 ER34 '04SPEC - [日産・スカイライン](https://ja.wikipedia.org/wiki/日産・スカイライン "wikilink") ([ER34](https://ja.wikipedia.org/wiki/ER34 "wikilink")) ベースのチューニングカー。'03SPECでの懸念材料だった車重を200kg軽量化。ボンネットにはBNR34用のカーボンボンネットを用い（ヒンジ部はBNR34用を流用）、ドアやトランク、バンパーに至るまでカーボンやFRPを多用。ウインドウもアクリル化されて車重は実に1,200kg台を数える軽量マシン。エンジンはRB25DETをベースに、初期はK5-660RタービンにRB26DETT用6連スロットルで吹け上がりとパワー感を両立。2005年第6戦の富士ではK27タービン＋2.8ℓ化して低回転でのトルクを増強。2006年第2戦の菅生ではついにホリンジャー製の6速のシーケンシャルミッションを搭載し切れ目のないシフトワークを実現。外見では2004年第5戦のお台場からローマウントタイプのGTウイングが装着され、2007年第5戦エビスでは野村選手が店長の「[URAS](https://ja.wikipedia.org/wiki/URAS "wikilink")」の新作フルエアロキットとハイマウントタイプのGTウイングに仕様変更された。2008年から、タービンをK5-700Rに変更している。2004年に1勝、2006年に3勝、2007年に1勝を挙げ、ブリッツのドリフト史を繁栄させた立役者である。
+  - 753スープラ - [ニュルブルクリンク](https://ja.wikipedia.org/wiki/ニュルブルクリンク "wikilink")オールドコースで当時ストリートカーレコードだった7分53秒を切るため、[Optionとのジョイント企画で製作された](../Page/Option_\(雑誌\).md "wikilink")[JZA80スープラベースのチューニングカー](../Page/トヨタ・スープラ.md "wikilink")。結果は7分49秒で無事に更新された。
+  - R-348 - [ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[アウトバーン](../Page/アウトバーン.md "wikilink")にてストリートカー最高速記録を抜くために製作された[BNR34スカイラインGT-Rベースのチューニングカー](../Page/日産・スカイラインGT-R.md "wikilink")。[ターボにはK](../Page/ターボチャージャー.md "wikilink")5-850Rを用い、推定850[馬力](../Page/馬力.md "wikilink")を記録。ドイツへ運んでからさまざまなトラブルに巻き込まれ、343km/hでプロジェクトは終了した。その後[アメリカのシルバーステイツで使われたのだが](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、ガス欠でリタイヤに終わっている。
+  - BLITZ D1 ER34 '04SPEC - [日産・スカイライン](../Page/日産・スカイライン.md "wikilink") ([ER34](https://ja.wikipedia.org/wiki/ER34 "wikilink")) ベースのチューニングカー。'03SPECでの懸念材料だった車重を200kg軽量化。ボンネットにはBNR34用のカーボンボンネットを用い（ヒンジ部はBNR34用を流用）、ドアやトランク、バンパーに至るまでカーボンやFRPを多用。ウインドウもアクリル化されて車重は実に1,200kg台を数える軽量マシン。エンジンはRB25DETをベースに、初期はK5-660RタービンにRB26DETT用6連スロットルで吹け上がりとパワー感を両立。2005年第6戦の富士ではK27タービン＋2.8ℓ化して低回転でのトルクを増強。2006年第2戦の菅生ではついにホリンジャー製の6速のシーケンシャルミッションを搭載し切れ目のないシフトワークを実現。外見では2004年第5戦のお台場からローマウントタイプのGTウイングが装着され、2007年第5戦エビスでは野村選手が店長の「[URAS](https://ja.wikipedia.org/wiki/URAS "wikilink")」の新作フルエアロキットとハイマウントタイプのGTウイングに仕様変更された。2008年から、タービンをK5-700Rに変更している。2004年に1勝、2006年に3勝、2007年に1勝を挙げ、ブリッツのドリフト史を繁栄させた立役者である。
 
 ## 関連項目
 
-  - [サード](https://ja.wikipedia.org/wiki/サード_\(企業\) "wikilink")(BLITZ共々シグマ・オートモーティブが母体)
+  - [サード](../Page/サード_\(企業\).md "wikilink")(BLITZ共々シグマ・オートモーティブが母体)
 
 ## 外部リンク
 

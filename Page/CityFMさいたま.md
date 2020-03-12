@@ -1,7 +1,7 @@
 > この記事は[CityFM](https://ja.wikipedia.org/wiki/CityFM)から翻訳されています。
 
 
-**CityFMさいたま**は、[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")[さいたま市](https://ja.wikipedia.org/wiki/さいたま市 "wikilink")[浦和区](https://ja.wikipedia.org/wiki/浦和区 "wikilink")に本社を置く[コミュニティ放送](../Page/コミュニティ放送.md "wikilink")である。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月1日](../Page/12月1日.md "wikilink")に開局。愛称は**「REDS WAVE」**。
+**CityFMさいたま**は、[埼玉県](../Page/埼玉県.md "wikilink")[さいたま市](https://ja.wikipedia.org/wiki/さいたま市 "wikilink")[浦和区](https://ja.wikipedia.org/wiki/浦和区 "wikilink")に本社を置く[コミュニティ放送](../Page/コミュニティ放送.md "wikilink")である。[2005年](../Page/2005年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")に開局。愛称は**「REDS WAVE」**。
 
 ## 概要
 
@@ -9,19 +9,19 @@
 
 「**[レッズ応援放送局](https://ja.wikipedia.org/wiki/浦和レッドダイヤモンズ "wikilink")**」をコンセプトにしており、[浦和レッドダイヤモンズ](https://ja.wikipedia.org/wiki/浦和レッドダイヤモンズ "wikilink")に関係する番組を多く放送している。[浦和ワシントンホテル](../Page/ワシントンホテル_\(藤田観光\).md "wikilink")1階にスタジオがある。
 
-[2009年](../Page/2009年.md "wikilink")[9月15日](../Page/9月15日.md "wikilink")より[サイマルラジオに加盟](https://ja.wikipedia.org/wiki/SimulRadio "wikilink")。現在は浦和レッズ戦中継の再放送を除く番組をインターネット聴取できる。
+[2009年](../Page/2009年.md "wikilink")[9月15日](../Page/9月15日.md "wikilink")より[サイマルラジオに加盟](../Page/SimulRadio.md "wikilink")。現在は浦和レッズ戦中継の再放送を除く番組をインターネット聴取できる。
 
 [2015年](../Page/2015年.md "wikilink")[11月8日](../Page/11月8日.md "wikilink")より、周波数を**87.3MHz** 出力を**20W**\[1\]に変更、同時に放送エリアを浦和区内からさいたま市全域へ拡大。これに先立ち、[11月1日](../Page/11月1日.md "wikilink")に**CityFMさいたま株式会社**に社名を変更した\[2\]\[3\]（愛称は改称しない）。
 
 ## 沿革
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
       - [10月31日](../Page/10月31日.md "wikilink") - 株式会社エフエム浦和に予備免許交付
       - [12月1日](../Page/12月1日.md "wikilink") - 株式会社エフエム浦和 (REDS WAVE) 開局。周波数78.3MHz 出力3Wで放送開始。
   - [2009年](../Page/2009年.md "wikilink")
-      - [9月15日](../Page/9月15日.md "wikilink") - 一部の番組において[サイマルラジオによる聴取が可能となる](https://ja.wikipedia.org/wiki/SimulRadio "wikilink")。
+      - [9月15日](../Page/9月15日.md "wikilink") - 一部の番組において[サイマルラジオによる聴取が可能となる](../Page/SimulRadio.md "wikilink")。
   - [2014年](../Page/2014年.md "wikilink")
-      - [10月](https://ja.wikipedia.org/wiki/10月 "wikilink")頃 - [ミュージックバード](https://ja.wikipedia.org/wiki/ミュージックバード "wikilink")のネット受けを開始。
+      - [10月](https://ja.wikipedia.org/wiki/10月 "wikilink")頃 - [ミュージックバード](../Page/ミュージックバード.md "wikilink")のネット受けを開始。
   - [2015年](../Page/2015年.md "wikilink")
       - [11月1日](../Page/11月1日.md "wikilink") - CityFMさいたま株式会社に社名を変更。
       - [11月8日](../Page/11月8日.md "wikilink") - 周波数を87.3MHzへ変更し、出力を20Wに増力。
@@ -30,7 +30,7 @@
 
 \[<http://redswave.com/PGMSCHED/PGMSCHED.pdf>　曜日一覧タイムテーブル\]を参照。
 
-**太字**は帯番組。【L】は生放送、【再】は再放送。はREDS WAVE発の生放送番組、は[ミュージックバード](https://ja.wikipedia.org/wiki/ミュージックバード "wikilink")発の番組。
+**太字**は帯番組。【L】は生放送、【再】は再放送。はREDS WAVE発の生放送番組、は[ミュージックバード](../Page/ミュージックバード.md "wikilink")発の番組。
 
 ### 平日
 
@@ -55,7 +55,7 @@
 <tr class="even">
 <td><p>6</p></td>
 <td><p>00【L】 <strong>Morning Community</strong><br />
-パーソナリティ：<a href="https://ja.wikipedia.org/wiki/橘しんご" title="wikilink">橘しんご</a>（月～水）・<a href="https://ja.wikipedia.org/wiki/川久保秀一" title="wikilink">川久保秀一</a>（木・金）<br />
+パーソナリティ：<a href="../Page/橘しんご.md" title="wikilink">橘しんご</a>（月～水）・<a href="https://ja.wikipedia.org/wiki/川久保秀一" title="wikilink">川久保秀一</a>（木・金）<br />
 55 城下町いわつき歴史探訪　出演：岩槻ガイド会</p></td>
 <td></td>
 <td></td>
@@ -210,8 +210,8 @@
 </tr>
 <tr class="even">
 <td><p>15</p></td>
-<td><p>00【L】 <strong><a href="https://ja.wikipedia.org/wiki/アフタヌーン・パラダイス" title="wikilink">アフタヌーン・パラダイス</a></strong><br />
-パーソナリティ：<a href="https://ja.wikipedia.org/wiki/岸田敏志" title="wikilink">岸田敏志</a>・<a href="https://ja.wikipedia.org/wiki/光部愛" title="wikilink">光部愛</a>（月）<a href="https://ja.wikipedia.org/wiki/渡辺真知子" title="wikilink">渡辺真知子</a>・<a href="https://ja.wikipedia.org/wiki/坪達也" title="wikilink">坪達也</a>（火）<a href="https://ja.wikipedia.org/wiki/沢田知可子" title="wikilink">沢田知可子</a>・<a href="https://ja.wikipedia.org/wiki/蒼山慶大" title="wikilink">蒼山慶大</a>（水）<a href="https://ja.wikipedia.org/wiki/杉真理" title="wikilink">杉真理</a>・<a href="https://ja.wikipedia.org/wiki/山口真奈" title="wikilink">山口真奈</a>（木）<a href="../Page/高山厳.md" title="wikilink">高山厳</a>・<a href="https://ja.wikipedia.org/wiki/夏目真紀子" title="wikilink">夏目真紀子</a>（金）<br />
+<td><p>00【L】 <strong><a href="../Page/アフタヌーン・パラダイス.md" title="wikilink">アフタヌーン・パラダイス</a></strong><br />
+パーソナリティ：<a href="../Page/岸田敏志.md" title="wikilink">岸田敏志</a>・<a href="https://ja.wikipedia.org/wiki/光部愛" title="wikilink">光部愛</a>（月）<a href="../Page/渡辺真知子.md" title="wikilink">渡辺真知子</a>・<a href="../Page/坪達也.md" title="wikilink">坪達也</a>（火）<a href="../Page/沢田知可子.md" title="wikilink">沢田知可子</a>・<a href="https://ja.wikipedia.org/wiki/蒼山慶大" title="wikilink">蒼山慶大</a>（水）<a href="../Page/杉真理.md" title="wikilink">杉真理</a>・<a href="https://ja.wikipedia.org/wiki/山口真奈" title="wikilink">山口真奈</a>（木）<a href="../Page/高山厳.md" title="wikilink">高山厳</a>・<a href="https://ja.wikipedia.org/wiki/夏目真紀子" title="wikilink">夏目真紀子</a>（金）<br />
 55 ようこそ浦和宿へ　出演：浦和ガイド会</p></td>
 <td></td>
 <td></td>
@@ -307,7 +307,7 @@
 <td><p>00 <a href="https://ja.wikipedia.org/wiki/アイパー滝沢のホゥ!リーナイト・フィーバー" title="wikilink">アイパー滝沢のホゥ!リーナイト・フィーバー</a><br />
 パーソナリティ：<a href="https://ja.wikipedia.org/wiki/アイパー滝沢" title="wikilink">アイパー滝沢</a></p></td>
 <td><p>00 仮面女子 雪乃しほりのワクワクサワー<br />
-パーソナリティ：<a href="https://ja.wikipedia.org/wiki/雪乃しほり" title="wikilink">雪乃しほり</a></p></td>
+パーソナリティ：<a href="../Page/雪乃しほり.md" title="wikilink">雪乃しほり</a></p></td>
 <td><p>00 津村友華のYuka Real話<br />
 パーソナリティ：津村友華</p></td>
 <td><p>00 大宮I❤DOLLのなんてったってアイドール!<br />
@@ -362,13 +362,13 @@
 <tr class="even">
 <td><p>0</p></td>
 <td><p>00 天然キラリ堂<br />
-パーソナリティ：関谷佳代子・齋藤美保〈<a href="https://ja.wikipedia.org/wiki/エフエム茶笛" title="wikilink">FM茶笛</a>〉</p></td>
+パーソナリティ：関谷佳代子・齋藤美保〈<a href="../Page/エフエム茶笛.md" title="wikilink">FM茶笛</a>〉</p></td>
 <td><p>00 Love 2 Fomula<br />
-パーソナリティ：DJ MARIRIN〈<a href="https://ja.wikipedia.org/wiki/フラワーコミュニティ放送" title="wikilink">フラワーラジオ</a>〉</p></td>
+パーソナリティ：DJ MARIRIN〈<a href="../Page/フラワーコミュニティ放送.md" title="wikilink">フラワーラジオ</a>〉</p></td>
 <td><p>00 勝手にオールスターズ<br />
-パーソナリティ：やのっち&amp;ひろみ〈<a href="https://ja.wikipedia.org/wiki/沼田エフエム放送" title="wikilink">FM OZE</a>〉</p></td>
+パーソナリティ：やのっち&amp;ひろみ〈<a href="../Page/沼田エフエム放送.md" title="wikilink">FM OZE</a>〉</p></td>
 <td><p>00 ぽちゃっとくらぶ<br />
-パーソナリティ：扇乃美由紀・高橋幸恵〈<a href="https://ja.wikipedia.org/wiki/沼田エフエム放送" title="wikilink">FM OZE</a>〉</p></td>
+パーソナリティ：扇乃美由紀・高橋幸恵〈<a href="../Page/沼田エフエム放送.md" title="wikilink">FM OZE</a>〉</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -391,18 +391,18 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>00 <a href="https://ja.wikipedia.org/wiki/アニメ関門文化学園" title="wikilink">アニメ関門文化学園</a><br />
-〈<a href="https://ja.wikipedia.org/wiki/コミュニティエフエム下関" title="wikilink">COME ON! FM</a>〉</p></td>
+〈<a href="../Page/コミュニティエフエム下関.md" title="wikilink">COME ON! FM</a>〉</p></td>
 <td><p>00 <a href="https://ja.wikipedia.org/wiki/縁もゆかりもミュージック" title="wikilink">縁もゆかりもミュージック</a><br />
-〈<a href="https://ja.wikipedia.org/wiki/エフエムなかつ" title="wikilink">FMなかつ</a>〉</p></td>
+〈<a href="../Page/エフエムなかつ.md" title="wikilink">FMなかつ</a>〉</p></td>
 <td><p>00 <a href="https://ja.wikipedia.org/wiki/戸井康成のラジオな話" title="wikilink">康成戸井のラジオな話</a><br />
 〈<a href="https://ja.wikipedia.org/wiki/知多メディアスネットワーク_#コミュニティFM" title="wikilink">メディアスエフエム</a>〉</p></td>
 <td><p>00 タックイン三根のノリノリ<br />
-〈<a href="https://ja.wikipedia.org/wiki/尾張東部放送" title="wikilink">ラジオサンキュー</a>〉</p></td>
+〈<a href="../Page/尾張東部放送.md" title="wikilink">ラジオサンキュー</a>〉</p></td>
 <td><p>00 川後陽菜の好いとっとラジオ<br />
 〈<a href="https://ja.wikipedia.org/wiki/FMからつ" title="wikilink">FMからつ</a>〉</p></td>
 </tr>
 <tr class="even">
-<td><p>30 オールウェイズ・オールデイズ〈<a href="https://ja.wikipedia.org/wiki/尾張東部放送" title="wikilink">ラジオサンキュー</a>〉</p></td>
+<td><p>30 オールウェイズ・オールデイズ〈<a href="../Page/尾張東部放送.md" title="wikilink">ラジオサンキュー</a>〉</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -418,7 +418,7 @@
 <td><p>00 ジミー入枝のですです～ON MY MIND<br />
 〈<a href="https://ja.wikipedia.org/wiki/FMさつませんだい" title="wikilink">エフエムさつませんだい</a>〉</p></td>
 <td><p>00 70'sダイアリー<br />
-〈<a href="https://ja.wikipedia.org/wiki/おおたコミュニティ放送" title="wikilink">FM TARO</a>〉</p></td>
+〈<a href="../Page/おおたコミュニティ放送.md" title="wikilink">FM TARO</a>〉</p></td>
 <td><p>00 <a href="https://ja.wikipedia.org/wiki/アイパー滝沢のホゥ!リーナイト・フィーバー" title="wikilink">アイパー滝沢のホゥ!リーナイト・フィーバー</a><br />
 〈REDS WAVE〉</p></td>
 </tr>
@@ -484,7 +484,7 @@
 <td><p>00【L】 <a href="https://ja.wikipedia.org/wiki/おはようサタデー" title="wikilink">おはようサタデー</a><br />
 パーソナリティ：<a href="https://ja.wikipedia.org/wiki/ひのきしんじ" title="wikilink">ひのきしんじ</a>・<a href="../Page/本間千代子.md" title="wikilink">本間千代子</a>・ミューア<br />
 55 ようこそ浦和宿へ　出演：浦和ガイド会</p></td>
-<td><p>00【L】 <a href="https://ja.wikipedia.org/wiki/おはようサンデー" title="wikilink">おはようサンデー</a><br />
+<td><p>00【L】 <a href="../Page/おはようサンデー.md" title="wikilink">おはようサンデー</a><br />
 パーソナリティ：<a href="https://ja.wikipedia.org/wiki/浜菜みやこ" title="wikilink">浜菜みやこ</a><br />
 55 ようこそ浦和宿へ　出演：浦和ガイド会</p></td>
 </tr>
@@ -555,7 +555,7 @@
 パーソナリティ：AKANE<br />
 55 防災インフォ</p></td>
 <td><p>00【L】 Resort Winds ～from 軽井沢～<br />
-パーソナリティ：<a href="https://ja.wikipedia.org/wiki/有銘琴絵" title="wikilink">有銘琴絵</a><br />
+パーソナリティ：<a href="../Page/有銘琴絵.md" title="wikilink">有銘琴絵</a><br />
 55 防災インフォ</p></td>
 </tr>
 <tr class="odd">
@@ -571,7 +571,7 @@
 <tr class="odd">
 <td><p>15</p></td>
 <td><p>00 REDS WAVE Wide Zone<br />
-▽Come On! REDS▽RED A Live（浦和レッズ戦開催日放送）▽REDS After The Match▽REDS Music▽RED A Live Selection Replay（浦和レッズ戦の開催がない日に放送。<a href="https://ja.wikipedia.org/wiki/SimulRadio" title="wikilink">サイマルラジオでは休止</a>。）▽Selection Music<br />
+▽Come On! REDS▽RED A Live（浦和レッズ戦開催日放送）▽REDS After The Match▽REDS Music▽RED A Live Selection Replay（浦和レッズ戦の開催がない日に放送。<a href="../Page/SimulRadio.md" title="wikilink">サイマルラジオでは休止</a>。）▽Selection Music<br />
 15:55 ようこそ浦和宿へ<br />
 16:55 地名百科<br />
 17:55 防災インフォ<br />
@@ -697,15 +697,15 @@
 </tr>
 <tr class="odd">
 <td><p>30 <a href="https://ja.wikipedia.org/wiki/GOOD_BYE_APRIL_倉品翔のREMEMBERS" title="wikilink">GOOD BYE APRIL 倉品翔のREMEMBERS</a><br />
-パーソナリティ：倉品翔〈<a href="https://ja.wikipedia.org/wiki/エフエム佐久平" title="wikilink">エフエム佐久平</a>〉</p></td>
+パーソナリティ：倉品翔〈<a href="../Page/エフエム佐久平.md" title="wikilink">エフエム佐久平</a>〉</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p>00 <a href="https://ja.wikipedia.org/wiki/スリジエStyle" title="wikilink">スリジエStyle</a>〈<a href="https://ja.wikipedia.org/wiki/大和ラジオ放送" title="wikilink">エフエム大和</a>〉</p></td>
+<td><p>00 <a href="https://ja.wikipedia.org/wiki/スリジエStyle" title="wikilink">スリジエStyle</a>〈<a href="../Page/大和ラジオ放送.md" title="wikilink">エフエム大和</a>〉</p></td>
 <td><p>00 美加のNice'n Easy Time<br />
-パーソナリティ：<a href="https://ja.wikipedia.org/wiki/大橋美加" title="wikilink">大橋美加</a></p></td>
+パーソナリティ：<a href="../Page/大橋美加.md" title="wikilink">大橋美加</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
@@ -735,7 +735,7 @@
 ## 関連項目
 
   - [コミュニティ放送](../Page/コミュニティ放送.md "wikilink")
-  - [コミュニティ放送局一覧](https://ja.wikipedia.org/wiki/コミュニティ放送局一覧 "wikilink")
+  - [コミュニティ放送局一覧](../Page/コミュニティ放送局一覧.md "wikilink")
   - [浦和レッドダイヤモンズ](https://ja.wikipedia.org/wiki/浦和レッドダイヤモンズ "wikilink")
 
 ## 外部リンク

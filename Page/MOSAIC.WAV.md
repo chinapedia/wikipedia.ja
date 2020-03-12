@@ -1,11 +1,11 @@
 > この記事は[MOSAIC.WAV](https://ja.wikipedia.org/wiki/MOSAIC.WAV)から翻訳されています。
 
 
-**MOSAIC.WAV**（モザイクウェブ）は、**[み〜こ](https://ja.wikipedia.org/wiki/み〜こ "wikilink")**（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")）と**[柏森進](https://ja.wikipedia.org/wiki/柏森進 "wikilink")**（[キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")）による、[電波ソング](https://ja.wikipedia.org/wiki/萌えソング "wikilink")・秋葉原系ソング『**AKIBA-POP**』[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")。声優音響事務所Sham.Studioに所属している。レーベルは[DearStage Records](https://ja.wikipedia.org/wiki/ディアステージ_\(企業\) "wikilink")。
+**MOSAIC.WAV**（モザイクウェブ）は、**[み〜こ](../Page/み〜こ.md "wikilink")**（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")）と**[柏森進](../Page/柏森進.md "wikilink")**（[キーボード](../Page/キーボード_\(楽器\).md "wikilink")）による、[電波ソング](../Page/萌えソング.md "wikilink")・秋葉原系ソング『**AKIBA-POP**』[音楽ユニット](../Page/音楽ユニット.md "wikilink")。声優音響事務所Sham.Studioに所属している。レーベルは[DearStage Records](https://ja.wikipedia.org/wiki/ディアステージ_\(企業\) "wikilink")。
 
 ## 概要
 
-[美少女ゲーム](https://ja.wikipedia.org/wiki/美少女ゲーム "wikilink")の楽曲制作を中心に行っている。結成当初はインディーズ活動を行っていたが、後にメジャー（[ランティス](https://ja.wikipedia.org/wiki/ランティス "wikilink")）にも進出する。もともと「**MOSAIC**」という名前であったが、同名の企業が既に存在していたので、後ろにWindowsで一般的なオーディオフォーマットであるWAVEの拡張子である「**.WAV**」を付け加えて改名する。[小池雅也](https://ja.wikipedia.org/wiki/小池雅也 "wikilink")は[ギター](../Page/ギター.md "wikilink")で参加するなど交流が深い。[2003年](../Page/2003年.md "wikilink")結成当初は貸切の[メイドカフェ等でPCゲーム主題歌カバーライブを行っていたこともある](https://ja.wikipedia.org/wiki/コスプレ系飲食店 "wikilink")。曲調は[テクノ](https://ja.wikipedia.org/wiki/テクノ_\(ダンスミュージック\) "wikilink")・[テクノポップ](../Page/テクノポップ.md "wikilink")・[ニューウェーブ](https://ja.wikipedia.org/wiki/ニューウェーブ "wikilink")・[エレクトロニカ](../Page/エレクトロニカ.md "wikilink")に分類される電子音楽作品が多い。
+[美少女ゲーム](../Page/美少女ゲーム.md "wikilink")の楽曲制作を中心に行っている。結成当初はインディーズ活動を行っていたが、後にメジャー（[ランティス](../Page/ランティス.md "wikilink")）にも進出する。もともと「**MOSAIC**」という名前であったが、同名の企業が既に存在していたので、後ろにWindowsで一般的なオーディオフォーマットであるWAVEの拡張子である「**.WAV**」を付け加えて改名する。[小池雅也](../Page/小池雅也.md "wikilink")は[ギター](../Page/ギター.md "wikilink")で参加するなど交流が深い。[2003年](../Page/2003年.md "wikilink")結成当初は貸切の[メイドカフェ等でPCゲーム主題歌カバーライブを行っていたこともある](../Page/コスプレ系飲食店.md "wikilink")。曲調は[テクノ](https://ja.wikipedia.org/wiki/テクノ_\(ダンスミュージック\) "wikilink")・[テクノポップ](../Page/テクノポップ.md "wikilink")・[ニューウェーブ](https://ja.wikipedia.org/wiki/ニューウェーブ "wikilink")・[エレクトロニカ](../Page/エレクトロニカ.md "wikilink")に分類される電子音楽作品が多い。
 
 2017年、[ディアステージのレーベル部門](https://ja.wikipedia.org/wiki/ディアステージ_\(企業\) "wikilink")「DearStage Records」に所属することを発表\[1\]
 
@@ -17,11 +17,11 @@
 
 | \#  | 発売日         | タイトル                                                                      | 品番        | 備考                                                                                               | オリコン最高位 |
 | --- | ----------- | ------------------------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------ | ------- |
-| 1st | 2006年8月23日  | **[キュン・キュン・パニック](https://ja.wikipedia.org/wiki/キュン・キュン・パニック "wikilink")** | LACM-4289 | テレビアニメ『[まもって\!ロリポップ](https://ja.wikipedia.org/wiki/まもって!ロリポップ "wikilink")』エンディングテーマ              | 91位     |
+| 1st | 2006年8月23日  | **[キュン・キュン・パニック](https://ja.wikipedia.org/wiki/キュン・キュン・パニック "wikilink")** | LACM-4289 | テレビアニメ『[まもって\!ロリポップ](../Page/まもって!ロリポップ.md "wikilink")』エンディングテーマ                                 | 91位     |
 | 2nd | 2006年10月25日 | **[最強○×計画](https://ja.wikipedia.org/wiki/最強○×計画 "wikilink")**             | LACM-4313 | テレビアニメ『[すもももももも〜地上最強のヨメ〜](https://ja.wikipedia.org/wiki/すもももももも〜地上最強のヨメ〜 "wikilink")』前期オープニングテーマ | 50位     |
 | 3rd | 2007年1月24日  | **切情\!佰火繚乱**                                                              | LACM-4337 | テレビアニメ『すもももももも〜地上最強のヨメ〜』後期オープニングテーマ                                                              | 69位     |
-| 4th | 2007年7月25日  | **片道きゃっちぼーる**                                                             | LACM-4387 | テレビアニメ『[ぽてまよ](https://ja.wikipedia.org/wiki/ぽてまよ "wikilink")』オープニングテーマ                           | 56位     |
-| 5th | 2008年4月23日  | **超妻賢母宣言**                                                                | LACM-4491 | テレビアニメ『[狂乱家族日記](https://ja.wikipedia.org/wiki/狂乱家族日記 "wikilink")』オープニングテーマ                       | 48位     |
+| 4th | 2007年7月25日  | **片道きゃっちぼーる**                                                             | LACM-4387 | テレビアニメ『[ぽてまよ](../Page/ぽてまよ.md "wikilink")』オープニングテーマ                                              | 56位     |
+| 5th | 2008年4月23日  | **超妻賢母宣言**                                                                | LACM-4491 | テレビアニメ『[狂乱家族日記](../Page/狂乱家族日記.md "wikilink")』オープニングテーマ                                          | 48位     |
 
 #### アルバム
 
@@ -188,7 +188,7 @@
 
 ### その他
 
-1.  パチスロ「ドキッと！ビキニパイ ポロリを感じる[アイドル水泳大会](https://ja.wikipedia.org/wiki/アイドル水泳大会 "wikilink")編」([ネット (パチスロメーカー)](https://ja.wikipedia.org/wiki/ネット_\(パチスロメーカー\) "wikilink")) BIG BONUS MUSIC
+1.  パチスロ「ドキッと！ビキニパイ ポロリを感じる[アイドル水泳大会](../Page/アイドル水泳大会.md "wikilink")編」([ネット (パチスロメーカー)](../Page/ネット_\(パチスロメーカー\).md "wikilink")) BIG BONUS MUSIC
       - 発売日不明
     <!-- end list -->
     1.  「ドキッと！ビキニパイ」

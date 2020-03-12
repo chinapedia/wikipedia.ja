@@ -5,19 +5,19 @@
 
 ## 略歴
 
-  - [1974年](../Page/1974年.md "wikilink")、バンドの[ギタリスト](../Page/ギタリスト.md "wikilink")兼リーダーとなる清水義央を中心にバンド「県相（けんそう）」が結成される。当時清水は[神奈川県立相模原高等学校](https://ja.wikipedia.org/wiki/神奈川県立相模原高等学校 "wikilink")の2年生で、バンド名は学校の通称から取った\[1\]。
+  - [1974年](../Page/1974年.md "wikilink")、バンドの[ギタリスト](../Page/ギタリスト.md "wikilink")兼リーダーとなる清水義央を中心にバンド「県相（けんそう）」が結成される。当時清水は[神奈川県立相模原高等学校](../Page/神奈川県立相模原高等学校.md "wikilink")の2年生で、バンド名は学校の通称から取った\[1\]。
   - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")、自主制作盤である1stアルバム『KENSO』リリース。
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")、[キング・レコード](https://ja.wikipedia.org/wiki/キング・レコード "wikilink")傘下のネクサスより3rdアルバム『KENSO』（1stアルバムとは別物）でメジャー・デビュー。
-  - 幾多のメンバーチェンジを経た後、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に当時芸大の作曲科の現役の学生だった[光田健一](https://ja.wikipedia.org/wiki/光田健一 "wikilink")が参加し、清水以下、光田健一([キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink"))、小口健一(キーボード)、三枝俊治([ベース](../Page/エレクトリックベース.md "wikilink"))、[村石雅行](https://ja.wikipedia.org/wiki/村石雅行 "wikilink")([ドラム](../Page/ドラムセット.md "wikilink")）のラインナップが完成。翌[1991年](../Page/1991年.md "wikilink")には5thアルバム『夢の丘』を完成させ、リリースする。同作は[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")でも発売された。
+  - 幾多のメンバーチェンジを経た後、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に当時芸大の作曲科の現役の学生だった[光田健一](../Page/光田健一.md "wikilink")が参加し、清水以下、光田健一([キーボード](../Page/キーボード_\(楽器\).md "wikilink"))、小口健一(キーボード)、三枝俊治([ベース](../Page/エレクトリックベース.md "wikilink"))、[村石雅行](../Page/村石雅行.md "wikilink")([ドラム](../Page/ドラムセット.md "wikilink")）のラインナップが完成。翌[1991年](../Page/1991年.md "wikilink")には5thアルバム『夢の丘』を完成させ、リリースする。同作は[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")でも発売された。
   - [2000年](../Page/2000年.md "wikilink")、[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")で行われたプログレッシブ・ロック・フェスティバル「PROGFEST」<ref>Exposé Online誌のprogfest2000におけるKENSOの記事。
 
 <http://expose.org/index.php/articles/display/progfest-2000></ref>に出演。
 
   - [2002年](../Page/2002年.md "wikilink")に7thアルバム『天鵞絨症綺譚（びろーどしょうきたん）』をリリース。
-  - [2003年](../Page/2003年.md "wikilink")[10月31日](../Page/10月31日.md "wikilink")には、清水の出身校である[神奈川県立相模原高等学校](https://ja.wikipedia.org/wiki/神奈川県立相模原高等学校 "wikilink")にて同校の創立40周年記念式典ライブを行う。
+  - [2003年](../Page/2003年.md "wikilink")[10月31日](../Page/10月31日.md "wikilink")には、清水の出身校である[神奈川県立相模原高等学校](../Page/神奈川県立相模原高等学校.md "wikilink")にて同校の創立40周年記念式典ライブを行う。
   - [2004年](../Page/2004年.md "wikilink")、[ドラムの村石に代わり](../Page/ドラムセット.md "wikilink")、前年のライブにゲストとして参加していた小森啓資が加入。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、[ベツレヘム](../Page/ベツレヘム.md "wikilink")で行われたプログレッシブ・ロック・フェスティバル「NEARfest」\[2\]に出演。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に8thアルバム『うつろいゆくもの』をリリース。
+  - [2005年](../Page/2005年.md "wikilink")、[ベツレヘム](../Page/ベツレヘム.md "wikilink")で行われたプログレッシブ・ロック・フェスティバル「NEARfest」\[2\]に出演。
+  - [2006年](../Page/2006年.md "wikilink")に8thアルバム『うつろいゆくもの』をリリース。
   - [2014年](../Page/2014年.md "wikilink")には8年ぶりの新作となる9thアルバム『内ナル声ニ回帰セヨ』をリリース。
 
 ## メンバー
@@ -55,7 +55,7 @@
   -
 
       -
-        現在のメンバーの中では最年少で、1990年（平成2年）に加入。加入当時はまだ東京芸大音楽学部作曲科の現役の学生であった。プログレッシブ・ロックバンドのメンバーとして名を連ねるが、ソロ活動ではポップな曲も手がけ、自ら[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")を取ることも多い。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（平成10年）より[2001年](../Page/2001年.md "wikilink")（平成13年）まで[スターダストレビュー](https://ja.wikipedia.org/wiki/スターダストレビュー "wikilink")に正式メンバーとして参加していた。
+        現在のメンバーの中では最年少で、1990年（平成2年）に加入。加入当時はまだ東京芸大音楽学部作曲科の現役の学生であった。プログレッシブ・ロックバンドのメンバーとして名を連ねるが、ソロ活動ではポップな曲も手がけ、自ら[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")を取ることも多い。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（平成10年）より[2001年](../Page/2001年.md "wikilink")（平成13年）まで[スターダストレビュー](../Page/スターダストレビュー.md "wikilink")に正式メンバーとして参加していた。
 
 <!-- end list -->
 
@@ -66,7 +66,7 @@
   -
 
       -
-        [1989年](../Page/1989年.md "wikilink")（平成元年）に「KENSO」に加入。2001年（平成13年）[9月](../Page/9月.md "wikilink")に、当時既に[ベーシスト](../Page/ベーシスト.md "wikilink")としての職業を軌道に乗せていたにもかかわらず、「武者修行」と称して[バークリー音楽大学](https://ja.wikipedia.org/wiki/バークリー音楽大学 "wikilink")に留学する。留学中は現地のミュージシャンと様々な交流を行い、[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")の[カーネギー・ホール](https://ja.wikipedia.org/wiki/カーネギー・ホール "wikilink")にて、バークリーストリングチェンバーオーケストラの一員として演奏を果たす。[2004年](../Page/2004年.md "wikilink")（平成16年）[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")に同校のジャズ作曲科（Jazz Composition Major）のプロフェッショナルディプロマ（Diploma Program）を首席卒業。
+        [1989年](../Page/1989年.md "wikilink")（平成元年）に「KENSO」に加入。2001年（平成13年）[9月](../Page/9月.md "wikilink")に、当時既に[ベーシスト](../Page/ベーシスト.md "wikilink")としての職業を軌道に乗せていたにもかかわらず、「武者修行」と称して[バークリー音楽大学](../Page/バークリー音楽大学.md "wikilink")に留学する。留学中は現地のミュージシャンと様々な交流を行い、[ニューヨーク](../Page/ニューヨーク.md "wikilink")の[カーネギー・ホール](../Page/カーネギー・ホール.md "wikilink")にて、バークリーストリングチェンバーオーケストラの一員として演奏を果たす。[2004年](../Page/2004年.md "wikilink")（平成16年）[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")に同校のジャズ作曲科（Jazz Composition Major）のプロフェッショナルディプロマ（Diploma Program）を首席卒業。
 
 <!-- end list -->
 
@@ -83,15 +83,15 @@
 
   - 田中政行（Ba,Key）1stアルバム『KENSO』等に参加。
   - 矢島史郎（Flute）1stアルバム『KENSO』、2ndアルバム『KENSO II』等に参加（3rdにはゲストで）。
-  - [山本治彦](https://ja.wikipedia.org/wiki/山本はるきち "wikilink")（Dr,Perc）1stアルバム『KENSO』〜4thアルバム『スパルタ』等に参加。KENSOと掛け持ちする形で、ポップス・バンドの[LOOKにキーボード奏者として参加していた](https://ja.wikipedia.org/wiki/ルック_\(音楽グループ\) "wikilink")（「山本はるきち」名義）。
+  - [山本治彦](../Page/山本はるきち.md "wikilink")（Dr,Perc）1stアルバム『KENSO』〜4thアルバム『スパルタ』等に参加。KENSOと掛け持ちする形で、ポップス・バンドの[LOOKにキーボード奏者として参加していた](../Page/ルック_\(音楽グループ\).md "wikilink")（「山本はるきち」名義）。
   - 牧内淳（Key）2ndアルバム」『KENSO II』等に参加（1st、3rdには、ゲストで）。
   - 松元公良（Ba）2ndアルバム『KENSO II』〜4thアルバム『スパルタ』等に参加。
-  - [佐橋俊彦](https://ja.wikipedia.org/wiki/佐橋俊彦 "wikilink")（Key）3rdアルバム『KENSO（3rd）』、4thアルバム『スパルタ』等に参加。現在、映画・ドラマ等の作曲家として活躍中。
-  - [村石雅行](https://ja.wikipedia.org/wiki/村石雅行 "wikilink")（Dr）4thアルバム『スパルタ』以降バンドのドラマーをつとめ、『天鵞絨症綺譚』まで参加。[2003年](../Page/2003年.md "wikilink")（平成15年）に脱退。
+  - [佐橋俊彦](../Page/佐橋俊彦.md "wikilink")（Key）3rdアルバム『KENSO（3rd）』、4thアルバム『スパルタ』等に参加。現在、映画・ドラマ等の作曲家として活躍中。
+  - [村石雅行](../Page/村石雅行.md "wikilink")（Dr）4thアルバム『スパルタ』以降バンドのドラマーをつとめ、『天鵞絨症綺譚』まで参加。[2003年](../Page/2003年.md "wikilink")（平成15年）に脱退。
 
 ## バンド名の由来
 
-  - もともとは「[神奈川県立相模原高等学校](https://ja.wikipedia.org/wiki/神奈川県立相模原高等学校 "wikilink")」の略称である「県相」からとったものであるが、「喧騒」などの意味も含めるために表記は1stアルバムの発表時から「KENSO」と英語表記になっている。
+  - もともとは「[神奈川県立相模原高等学校](../Page/神奈川県立相模原高等学校.md "wikilink")」の略称である「県相」からとったものであるが、「喧騒」などの意味も含めるために表記は1stアルバムの発表時から「KENSO」と英語表記になっている。
 
 ## 「天鵞絨症」について
 
@@ -108,7 +108,7 @@
   - 夢の丘（[1991年](../Page/1991年.md "wikilink")）
   - エソプトロン（[1999年](../Page/1999年.md "wikilink")）
   - 天鵞絨症綺譚（[2002年](../Page/2002年.md "wikilink")）
-  - うつろいゆくもの（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")）
+  - うつろいゆくもの（[2006年](../Page/2006年.md "wikilink")）
   - スパルタ・ネイキッド（[2009年](../Page/2009年.md "wikilink")）
   - 内ナル声ニ回帰セヨ（[2014年](../Page/2014年.md "wikilink")）
 
@@ -149,4 +149,4 @@
 2.  NEARfest 2005のKENSOのセットリスト。http://www.nearfest.com/pastlineups.asp?iBand=68
 3.  岡山大学 医学博士 乙第2141号 Methylguanidineの発作発現機構に関する生理学的研究 1990-06-30
 4.
-5.  「天鵞絨（ビロード）」とは「[ベルベット](https://ja.wikipedia.org/wiki/ベルベット "wikilink")」のこと。
+5.  「天鵞絨（ビロード）」とは「[ベルベット](../Page/ベルベット.md "wikilink")」のこと。

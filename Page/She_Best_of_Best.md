@@ -1,7 +1,7 @@
 > この記事は[She Best of Best](https://ja.wikipedia.org/wiki/She_Best_of_Best)から翻訳されています。
 
 
-『**She Best of Best**』（シー・ベスト・オブ・ベスト）は、[工藤静香](../Page/工藤静香.md "wikilink")の7枚目の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。[1996年](../Page/1996年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink")発売。発売元は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")。
+『**She Best of Best**』（シー・ベスト・オブ・ベスト）は、[工藤静香](../Page/工藤静香.md "wikilink")の7枚目の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[1996年](../Page/1996年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink")発売。発売元は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")。
 
 ## 解説
 
@@ -12,21 +12,21 @@
 
 ### Disc-1
 
-全曲作曲：[後藤次利](https://ja.wikipedia.org/wiki/後藤次利 "wikilink")
+全曲作曲：[後藤次利](../Page/後藤次利.md "wikilink")
 
-1.  **[FU-JI-TSU](https://ja.wikipedia.org/wiki/FU-JI-TSU "wikilink")**
-      - 作詞：[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")、編曲：[後藤次利](https://ja.wikipedia.org/wiki/後藤次利 "wikilink")
+1.  **[FU-JI-TSU](../Page/FU-JI-TSU.md "wikilink")**
+      - 作詞：[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")、編曲：[後藤次利](../Page/後藤次利.md "wikilink")
       - 4thシングル、ミニアルバム『[静香](../Page/静香_\(アルバム\).md "wikilink")』にも収録
-2.  **[嵐の素顔](https://ja.wikipedia.org/wiki/嵐の素顔 "wikilink")**
-      - 作詞：[三浦徳子](https://ja.wikipedia.org/wiki/三浦徳子 "wikilink")、編曲：後藤次利
+2.  **[嵐の素顔](../Page/嵐の素顔.md "wikilink")**
+      - 作詞：[三浦徳子](../Page/三浦徳子.md "wikilink")、編曲：後藤次利
       - 7thシングル
 3.  **[黄砂に吹かれて](../Page/黄砂に吹かれて.md "wikilink")**
       - 作詞：中島みゆき、編曲：後藤次利
       - 8thシングル
-4.  **[メタモルフォーゼ](https://ja.wikipedia.org/wiki/メタモルフォーゼ_\(工藤静香の曲\) "wikilink")**
+4.  **[メタモルフォーゼ](../Page/メタモルフォーゼ_\(工藤静香の曲\).md "wikilink")**
       - 作詞：[松井五郎](https://ja.wikipedia.org/wiki/松井五郎 "wikilink")、編曲：後藤次利
       - 14thシングル
-5.  **[慟哭](https://ja.wikipedia.org/wiki/慟哭_\(工藤静香の曲\) "wikilink")**
+5.  **[慟哭](../Page/慟哭_\(工藤静香の曲\).md "wikilink")**
       - 作詞：中島みゆき、編曲：後藤次利・高尾直樹
       - 18thシングル、アルバム『[Rise me](../Page/Rise_me.md "wikilink")』にも収録
 6.  '''[ワインひとくちの嘘](https://ja.wikipedia.org/wiki/ミステリアス_\(工藤静香のアルバム\)#収録曲 "wikilink")
@@ -60,13 +60,13 @@
 ### Disc-2
 
 1.  **[Blue Rose](../Page/Blue_Rose.md "wikilink")**
-      - 作詞：愛絵理、作曲：[都志見隆](https://ja.wikipedia.org/wiki/都志見隆 "wikilink")、編曲：[澤近泰輔](https://ja.wikipedia.org/wiki/澤近泰輔 "wikilink")
+      - 作詞：愛絵理、作曲：[都志見隆](../Page/都志見隆.md "wikilink")、編曲：[澤近泰輔](https://ja.wikipedia.org/wiki/澤近泰輔 "wikilink")
       - 21stシングル、アルバム『[Expose](../Page/Expose_\(工藤静香のアルバム\).md "wikilink")』にも収録
 2.  **[Jaguar Line](../Page/Jaguar_Line.md "wikilink")**
       - 作詞：愛絵理、作曲：[尾関昌也](https://ja.wikipedia.org/wiki/尾関昌也 "wikilink")、編曲：羽田一郎
       - 22ndシングル、アルバム『Expose』にも収録
-3.  **[Ice Rain](https://ja.wikipedia.org/wiki/Ice_Rain "wikilink")**
-      - 作詞：愛絵理、作曲：都志見隆、編曲：[門倉聡](https://ja.wikipedia.org/wiki/門倉聡 "wikilink")
+3.  **[Ice Rain](../Page/Ice_Rain.md "wikilink")**
+      - 作詞：愛絵理、作曲：都志見隆、編曲：[門倉聡](../Page/門倉聡.md "wikilink")
       - 23rdシングル、アルバム『[Purple](../Page/Purple_\(工藤静香のアルバム\).md "wikilink")』にも収録
 4.  **[Moon Water](../Page/Moon_Water.md "wikilink")**
       - 作詞：愛絵理、作曲：[谷本新](https://ja.wikipedia.org/wiki/谷本新 "wikilink")、編曲：澤近泰輔
@@ -75,14 +75,14 @@
       - 作詞：愛絵理、作曲：[松本俊明](https://ja.wikipedia.org/wiki/松本俊明 "wikilink")、編曲：[松浦晃久](https://ja.wikipedia.org/wiki/松浦晃久 "wikilink")
       - 25thシングル、アルバム『[doing](https://ja.wikipedia.org/wiki/doing "wikilink")』にも収録
 6.  **[蝶](../Page/蝶_\(工藤静香の曲\).md "wikilink")**
-      - 作詞：愛絵理、作曲：[藤井尚之](https://ja.wikipedia.org/wiki/藤井尚之 "wikilink")・愛絵理・松浦晃久、編曲：松浦晃久
+      - 作詞：愛絵理、作曲：[藤井尚之](../Page/藤井尚之.md "wikilink")・愛絵理・松浦晃久、編曲：松浦晃久
       - 26thシングル、アルバム『doing』にも収録
 7.  **[優](../Page/優_\(工藤静香の曲\).md "wikilink")**
-      - 作詞：愛絵理、作曲・編曲：[中崎英也](https://ja.wikipedia.org/wiki/中崎英也 "wikilink")
+      - 作詞：愛絵理、作曲・編曲：[中崎英也](../Page/中崎英也.md "wikilink")
       - 27thシングル、アルバム初収録
 8.  **[激情](../Page/激情_\(工藤静香の曲\).md "wikilink")**
-      - 作詞・作曲：中島みゆき、編曲：[瀬尾一三](https://ja.wikipedia.org/wiki/瀬尾一三 "wikilink")
-      - 28thシングル、アルバム初収録（次作『[DRESS](https://ja.wikipedia.org/wiki/DRESS_\(工藤静香のアルバム\) "wikilink")』にも収録）
+      - 作詞・作曲：中島みゆき、編曲：[瀬尾一三](../Page/瀬尾一三.md "wikilink")
+      - 28thシングル、アルバム初収録（次作『[DRESS](../Page/DRESS_\(工藤静香のアルバム\).md "wikilink")』にも収録）
 9.  '''[I'm nothing to you](https://ja.wikipedia.org/wiki/Expose_\(工藤静香のアルバム\)#収録曲 "wikilink")
       - 作詞：愛絵理、作曲：松本俊明、編曲：羽田一郎
       - アルバム『Expose』に収録

@@ -5,7 +5,7 @@
 
 ## 来歴
 
-1982年10月、ボーカルの西川茂とベースの[恩田快人](https://ja.wikipedia.org/wiki/恩田快人 "wikilink")を中心に結成。
+1982年10月、ボーカルの西川茂とベースの[恩田快人](../Page/恩田快人.md "wikilink")を中心に結成。
 
 1987年10月21日、[キングレコード](../Page/キングレコード.md "wikilink")より1stアルバム『PRESENCE』をリリースしメジャーデビュー。
 
@@ -19,7 +19,7 @@
 
 2019年、西川の公式[Twitter](../Page/Twitter.md "wikilink")で2020年から正式にオリジナルメンバーで再結成することを発表。
 
-2020年2月15日、東京・[高田馬場](https://ja.wikipedia.org/wiki/高田馬場 "wikilink")のライブハウスclubphaseにて、再結成初ライブを行うと同時に、東京・大阪でのショートツアー“ROCK DRIVE 2020”をスタートさせる。
+2020年2月15日、東京・[高田馬場](../Page/高田馬場.md "wikilink")のライブハウスclubphaseにて、再結成初ライブを行うと同時に、東京・大阪でのショートツアー“ROCK DRIVE 2020”をスタートさせる。
 
 ## デビュー時のバンドメンバー
 
@@ -41,12 +41,12 @@
 
 <!-- end list -->
 
-  - [恩田快人](https://ja.wikipedia.org/wiki/恩田快人 "wikilink") (B)
+  - [恩田快人](../Page/恩田快人.md "wikilink") (B)
 
 <!-- end list -->
 
   -
-    [1963年](../Page/1963年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")生まれ。ステージネームは「RADY」。[恩田の項目を参照](https://ja.wikipedia.org/wiki/恩田快人 "wikilink")。
+    [1963年](../Page/1963年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")生まれ。ステージネームは「RADY」。[恩田の項目を参照](../Page/恩田快人.md "wikilink")。
 
 <!-- end list -->
 
@@ -119,7 +119,7 @@
 <!-- end list -->
 
   -
-    ツアーファイナルの1989年9月11日[渋谷公会堂](https://ja.wikipedia.org/wiki/渋谷公会堂 "wikilink")公演を収録。
+    ツアーファイナルの1989年9月11日[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")公演を収録。
 
 <!-- end list -->
 

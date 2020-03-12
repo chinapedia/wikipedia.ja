@@ -9,7 +9,7 @@
 
 <!-- end list -->
 
-  - [アマンダ・ミシェルカ](https://ja.wikipedia.org/wiki/アマンダ・ミシェルカ "wikilink")（Amanda Michalka、[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")[4月10日](../Page/4月10日.md "wikilink")-　）
+  - [アマンダ・ミシェルカ](https://ja.wikipedia.org/wiki/アマンダ・ミシェルカ "wikilink")（Amanda Michalka、[1991年](../Page/1991年.md "wikilink")[4月10日](../Page/4月10日.md "wikilink")-　）
 
 ## 来歴
 
@@ -21,7 +21,7 @@
 
 ## エピソード
 
-2007年12月に初来日し、「[カートゥンKAT-TUN](../Page/カートゥンKAT-TUN.md "wikilink")」に出演した。同放送では[小島よしお](https://ja.wikipedia.org/wiki/小島よしお "wikilink")のギャグである「おっぱぴー」や流行語である「[どんだけぇ〜](https://ja.wikipedia.org/wiki/どんだけぇ〜 "wikilink")」などを披露していた。
+2007年12月に初来日し、「[カートゥンKAT-TUN](../Page/カートゥンKAT-TUN.md "wikilink")」に出演した。同放送では[小島よしお](../Page/小島よしお.md "wikilink")のギャグである「おっぱぴー」や流行語である「[どんだけぇ〜](https://ja.wikipedia.org/wiki/どんだけぇ〜 "wikilink")」などを披露していた。
 
 ## ディスコグラフィ
 
@@ -33,11 +33,11 @@
 
 ## その他
 
-  - Electronic ArtsのシミュレーションPCゲーム、*[ザ・シムズ2](https://ja.wikipedia.org/wiki/ザ・シムズ2 "wikilink")*のデータセット（拡張パック）の一つ、ザ・シムズ2 ペットライフ\!（原題：The Sims 2 Pets）にある音楽に、Aly & AJの曲の一つである**Chemicals React**がゲーム中での言語、シム語（Simlish）に吹き替えられて歌われている。
+  - Electronic ArtsのシミュレーションPCゲーム、*[ザ・シムズ2](../Page/ザ・シムズ2.md "wikilink")*のデータセット（拡張パック）の一つ、ザ・シムズ2 ペットライフ\!（原題：The Sims 2 Pets）にある音楽に、Aly & AJの曲の一つである**Chemicals React**がゲーム中での言語、シム語（Simlish）に吹き替えられて歌われている。
 
 <!-- end list -->
 
-  - TVゲーム*[Xbox 360](https://ja.wikipedia.org/wiki/Xbox_360 "wikilink")*の北米版（日本未発売）*[Band Hero](https://ja.wikipedia.org/wiki/Band_Hero "wikilink")*の中で**LIKE WHOA**が収録されている。
+  - TVゲーム*[Xbox 360](../Page/Xbox_360.md "wikilink")*の北米版（日本未発売）*[Band Hero](https://ja.wikipedia.org/wiki/Band_Hero "wikilink")*の中で**LIKE WHOA**が収録されている。
 
 ## 外部リンク
 

@@ -1,7 +1,7 @@
 > この記事は[Vuena Vista](https://ja.wikipedia.org/wiki/Vuena_Vista)から翻訳されています。
 
 
-「**Vuena Vista**」（ブエナ ビスタ）は、[ジンの](https://ja.wikipedia.org/wiki/ジン_\(バンド\) "wikilink")4枚目のシングル。
+「**Vuena Vista**」（ブエナ ビスタ）は、[ジンの](../Page/ジン_\(バンド\).md "wikilink")4枚目のシングル。
 
 ## 概要
 

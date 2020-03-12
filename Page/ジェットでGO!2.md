@@ -25,7 +25,7 @@
 
 **最初から使用できる機体**
 
-  - [ダグラス DC-10-40](https://ja.wikipedia.org/wiki/マクドネル・ダグラス_DC-10 "wikilink")
+  - [ダグラス DC-10-40](../Page/マクドネル・ダグラス_DC-10.md "wikilink")
   - [ボーイング 737-400](https://ja.wikipedia.org/wiki/ボーイング737_クラシック "wikilink")
   - [ボーイング 767-300](https://ja.wikipedia.org/wiki/ボーイング767#767-300 "wikilink")
   - [ボーイング 747-400](https://ja.wikipedia.org/wiki/ボーイング747-400 "wikilink")/[400D](https://ja.wikipedia.org/wiki/ボーイング747-400#747-400D型 "wikilink")
@@ -49,7 +49,7 @@
   - [広島空港](../Page/広島空港.md "wikilink")
   - [福岡空港](https://ja.wikipedia.org/wiki/福岡空港 "wikilink")
   - [那覇空港](../Page/那覇空港.md "wikilink")
-  - [下地島空港](https://ja.wikipedia.org/wiki/下地島空港 "wikilink") - フリークルーズモードとパイロットモードの昇格試験にのみ登場。
+  - [下地島空港](../Page/下地島空港.md "wikilink") - フリークルーズモードとパイロットモードの昇格試験にのみ登場。
 
 ## その他
 
@@ -60,7 +60,7 @@
 ## 関連項目
 
   - [ジェットでGO\!](../Page/ジェットでGO!.md "wikilink")
-  - [ジェットでGO\!ポケット](https://ja.wikipedia.org/wiki/ジェットでGO!ポケット "wikilink")
+  - [ジェットでGO\!ポケット](../Page/ジェットでGO!ポケット.md "wikilink")
 
 ## 外部リンク
 

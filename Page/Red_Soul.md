@@ -1,13 +1,13 @@
 > この記事は[Red Soul](https://ja.wikipedia.org/wiki/Red_Soul)から翻訳されています。
 
 
-「**Red Soul**」（レッド・ソウル）は、日本の音楽グループ、[AAAの](https://ja.wikipedia.org/wiki/AAA_\(音楽グループ\) "wikilink")16枚目の[シングル](../Page/シングル.md "wikilink")である。[2007年](../Page/2007年.md "wikilink")[9月19日](../Page/9月19日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+「**Red Soul**」（レッド・ソウル）は、日本の音楽グループ、[AAAの](../Page/AAA_\(音楽グループ\).md "wikilink")16枚目の[シングル](../Page/シングル.md "wikilink")である。[2007年](../Page/2007年.md "wikilink")[9月19日](../Page/9月19日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 
   - 前作「[夏もの](../Page/夏もの.md "wikilink")」から約2ヶ月ぶりの発売となる。
   - 「CD+DVD ver.」の1形態での発売。今までのシングルで1形態のみでの発売は初めてである。
-  - 同時発売のオリジナル3rdアルバム「[AROUND](https://ja.wikipedia.org/wiki/AROUND "wikilink")」のリード曲となる。
+  - 同時発売のオリジナル3rdアルバム「[AROUND](../Page/AROUND.md "wikilink")」のリード曲となる。
 
 ## 収録内容
 

@@ -1,11 +1,11 @@
 > この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
 
 
-**Jプロツアー**\[1\]は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")より開始した[全日本実業団自転車競技連盟](https://ja.wikipedia.org/wiki/全日本実業団自転車競技連盟 "wikilink")が主催する[自転車](https://ja.wikipedia.org/wiki/自転車競技 "wikilink")[ロードレースのランキング制度である](../Page/ロードレース_\(自転車競技\).md "wikilink")。
+**Jプロツアー**\[1\]は、[2006年](../Page/2006年.md "wikilink")より開始した[全日本実業団自転車競技連盟](https://ja.wikipedia.org/wiki/全日本実業団自転車競技連盟 "wikilink")が主催する[自転車](../Page/自転車競技.md "wikilink")[ロードレースのランキング制度である](../Page/ロードレース_\(自転車競技\).md "wikilink")。
 
 ## 概要
 
-ヨーロッパの[UCIプロツアー](https://ja.wikipedia.org/wiki/UCIプロツアー "wikilink")をモデルとして、ロードレース競技底辺拡大の為、国内のアマサイクリストや子供達にサイクル[ロードレースという競技を見せることにより多くのファンを増やし](../Page/ロードレース_\(自転車競技\).md "wikilink")、他のプロスポーツに匹敵する競技としてその一般認知度を引き上げるべく創設された。 かつての略称は「Jサイクルツアー」。全日本実業団自転車競技連盟が任意団体から社団法人化したことにより、2011年から「Jプロツアー」として新シリーズが発足した。 Jプロツアーに参加するチームは自チームから個人総合（ポイント）１位の選手を出す事を目標にシーズンを戦う。 またJプロツアーの個人総合1位の選手は「Jプロツアーリーダー」と呼ばれ、赤い「ルビーレッドジャージ」が贈られる。 結果によって個人総合の順位が入れ替わるため、リーダー争いは熾烈を極める。 その他、23歳以下（U-23）の選手の中でランキング１位の選手には白い「ピュアホワイトジャージ」が贈られる
+ヨーロッパの[UCIプロツアー](../Page/UCIプロツアー.md "wikilink")をモデルとして、ロードレース競技底辺拡大の為、国内のアマサイクリストや子供達にサイクル[ロードレースという競技を見せることにより多くのファンを増やし](../Page/ロードレース_\(自転車競技\).md "wikilink")、他のプロスポーツに匹敵する競技としてその一般認知度を引き上げるべく創設された。 かつての略称は「Jサイクルツアー」。全日本実業団自転車競技連盟が任意団体から社団法人化したことにより、2011年から「Jプロツアー」として新シリーズが発足した。 Jプロツアーに参加するチームは自チームから個人総合（ポイント）１位の選手を出す事を目標にシーズンを戦う。 またJプロツアーの個人総合1位の選手は「Jプロツアーリーダー」と呼ばれ、赤い「ルビーレッドジャージ」が贈られる。 結果によって個人総合の順位が入れ替わるため、リーダー争いは熾烈を極める。 その他、23歳以下（U-23）の選手の中でランキング１位の選手には白い「ピュアホワイトジャージ」が贈られる
 
 なおJプロツアーでは地域のクラブチームからUCI登録のコンチネンタルチームまで様々な形態のチームが参加しているが、欧州でも活躍したプロレーサーやオリンピック選手なども参加しているので、スプリントやヒルクライムなど各レース熾烈なバトルが繰り広げられている。 年々Jプロツアーのレベルは上がっているが、各レースの勝者やJプロツアーリーダーはUCI[コンチネンタルチーム](https://ja.wikipedia.org/wiki/コンチネンタルチーム "wikilink")所属の選手が多い。
 
@@ -37,13 +37,13 @@
 | チーム名                                                                                               | 運営法人所在地 |
 | -------------------------------------------------------------------------------------------------- | ------- |
 | [マトリックス・パワータグ](https://ja.wikipedia.org/wiki/マトリックス・パワータグ "wikilink")                              | 大阪府高石市  |
-| [チーム ブリヂストンサイクリング](https://ja.wikipedia.org/wiki/チーム_ブリヂストン_サイクリング "wikilink")                     | 静岡県三島市  |
+| [チーム ブリヂストンサイクリング](../Page/チーム_ブリヂストン_サイクリング.md "wikilink")                                        | 静岡県三島市  |
 | [宇都宮ブリッツェン](https://ja.wikipedia.org/wiki/宇都宮ブリッツェン "wikilink")                                    | 栃木県宇都宮市 |
-| [シマノレーシング](https://ja.wikipedia.org/wiki/シマノレーシング "wikilink")                                      | 大阪府堺市   |
+| [シマノレーシング](../Page/シマノレーシング.md "wikilink")                                                         | 大阪府堺市   |
 | [VICTOIRE広島](https://ja.wikipedia.org/wiki/ヴィクトワール広島 "wikilink")                                   | 広島県広島市  |
 | [弱虫ペダルサイクリングチーム](https://ja.wikipedia.org/wiki/弱虫ペダルサイクリングチーム "wikilink")                          | 茨城県つくば市 |
 | [イナーメ信濃山形](https://ja.wikipedia.org/wiki/イナーメ信濃山形 "wikilink")                                      | 長野県東筑摩郡 |
-| [Team UKYO](https://ja.wikipedia.org/wiki/TeamUKYO "wikilink")                                     | 東京都渋谷区  |
+| [Team UKYO](../Page/TeamUKYO.md "wikilink")                                                        | 東京都渋谷区  |
 | [Hincapie LEOMO Bellmare Racing Team](https://ja.wikipedia.org/wiki/リオモ・ベルマーレ・レーシングチーム "wikilink") | 神奈川県平塚市 |
 | [フィッツグルーン 日本ロボティクス](https://ja.wikipedia.org/wiki/フィッツグルーン_日本ロボティクス "wikilink")                    | 神奈川県横浜市 |
 | [那須ブラーゼン](https://ja.wikipedia.org/wiki/那須ブラーゼン "wikilink")                                        | 栃木県那須郡  |
@@ -100,7 +100,7 @@
 <tr class="even">
 <td><p>2009年</p></td>
 <td><p>鈴木真理</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シマノレーシング" title="wikilink">シマノレーシング</a></p></td>
+<td><p><a href="../Page/シマノレーシング.md" title="wikilink">シマノレーシング</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2010年</p></td>
@@ -120,7 +120,7 @@
 <tr class="even">
 <td><p>2013年</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/TeamUKYO" title="wikilink">TeamUKYO</a></p></td>
+<td><p><a href="../Page/TeamUKYO.md" title="wikilink">TeamUKYO</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2014年</p></td>

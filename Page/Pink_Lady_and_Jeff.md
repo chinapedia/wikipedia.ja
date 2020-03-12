@@ -1,27 +1,27 @@
 > この記事は[Pink Lady and Jeff](https://ja.wikipedia.org/wiki/Pink_Lady_and_Jeff)から翻訳されています。
 
 
-***"Pink Lady and Jeff"**'' （**ピンク・レディー・アンド・ジェフ**）は、アメリカ合衆国で制作された、60分枠のテレビ番組。[ピンク・レディー](../Page/ピンク・レディー.md "wikilink")出演のバラエティで、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")に、[NBC](https://ja.wikipedia.org/wiki/NBC "wikilink")系で5回（6回分が制作されたが、1回分は未放送）が放送された。元々のタイトルは、***"Pink Lady"**''\[1\]\[2\]。日本の地上波では、未放送。
+***"Pink Lady and Jeff"**'' （**ピンク・レディー・アンド・ジェフ**）は、アメリカ合衆国で制作された、60分枠のテレビ番組。[ピンク・レディー](../Page/ピンク・レディー.md "wikilink")出演のバラエティで、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")に、[NBC](../Page/NBC.md "wikilink")系で5回（6回分が制作されたが、1回分は未放送）が放送された。元々のタイトルは、***"Pink Lady"**''\[1\]\[2\]。日本の地上波では、未放送。
 
 ## 概要
 
 1970年代に日本国内で頂点を極めたピンク・レディーは、アメリカ進出を企図。[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")4月、[ラスベガス](../Page/ラスベガス.md "wikilink")で公演。[1979年](../Page/1979年.md "wikilink")には、*"[Kiss in the Dark](https://ja.wikipedia.org/wiki/KISS_IN_THE_DARK "wikilink")"* を発売し、[ビルボード](../Page/ビルボード.md "wikilink")の[Hot 100で](https://ja.wikipedia.org/wiki/Billboard_Hot_100 "wikilink")37位を記録した\[3\]\[4\]。これらの実績の上に実現したのが、NBCでの　*"Pink Lady and Jeff"*　への出演であった。司会進行を助けたのは、コメディアンで俳優のジェフ・アルトマンである。
 
-内容は、歌にトーク、コントといったバラエティであった。ゲストは、[ブロンディの](https://ja.wikipedia.org/wiki/ブロンディ_\(バンド\) "wikilink")[デボラ・ハリー](../Page/デボラ・ハリー.md "wikilink")、[チープ・トリック](https://ja.wikipedia.org/wiki/チープ・トリック "wikilink")のリック・ニールセン、[アリス・クーパー](https://ja.wikipedia.org/wiki/アリス・クーパー "wikilink")などのミュージシャンや、ローン・グリーン、[レッド・バトンズ](https://ja.wikipedia.org/wiki/レッド・バトンズ "wikilink")、ジェリー・ルイスら往年の名優・コメディアンと多彩であった。当時、大ヒットしていたドラマ「[ダラス](https://ja.wikipedia.org/wiki/ダラス_\(テレビドラマ\) "wikilink")」に主演していた[ラリー・ハグマン](https://ja.wikipedia.org/wiki/ラリー・ハグマン "wikilink")も、ゲストの一人であった。番組のエンディングでは、ピンク・レディーがバスタブでビキニ･スタイルになって、ジェフと共に行うショート・コントが流された。
+内容は、歌にトーク、コントといったバラエティであった。ゲストは、[ブロンディの](../Page/ブロンディ_\(バンド\).md "wikilink")[デボラ・ハリー](../Page/デボラ・ハリー.md "wikilink")、[チープ・トリック](../Page/チープ・トリック.md "wikilink")のリック・ニールセン、[アリス・クーパー](../Page/アリス・クーパー.md "wikilink")などのミュージシャンや、ローン・グリーン、[レッド・バトンズ](../Page/レッド・バトンズ.md "wikilink")、ジェリー・ルイスら往年の名優・コメディアンと多彩であった。当時、大ヒットしていたドラマ「[ダラス](../Page/ダラス_\(テレビドラマ\).md "wikilink")」に主演していた[ラリー・ハグマン](https://ja.wikipedia.org/wiki/ラリー・ハグマン "wikilink")も、ゲストの一人であった。番組のエンディングでは、ピンク・レディーがバスタブでビキニ･スタイルになって、ジェフと共に行うショート・コントが流された。
 
 ## 評価
 
-この番組について、多くのアメリカの書籍やサイトでは、ワースト番組（もしくはショー）として酷評され、5回（6回）で終了した理由についても、[視聴率](../Page/視聴率.md "wikilink")の不振による[打ち切り](https://ja.wikipedia.org/wiki/打ち切り "wikilink")とされている\[5\]\[6\]\[7\]\[8\]\[9\]\[10\]\[11\]\[12\]\[13\]\[14\]\[15\]\[16\]。
+この番組について、多くのアメリカの書籍やサイトでは、ワースト番組（もしくはショー）として酷評され、5回（6回）で終了した理由についても、[視聴率](../Page/視聴率.md "wikilink")の不振による[打ち切り](../Page/打ち切り.md "wikilink")とされている\[5\]\[6\]\[7\]\[8\]\[9\]\[10\]\[11\]\[12\]\[13\]\[14\]\[15\]\[16\]。
 
-これに対し、実際はNBCとの契約は7年であり、本番組については10回放送の申し出があったものの、ピンク・レディー側（[増田恵子](https://ja.wikipedia.org/wiki/増田恵子 "wikilink")）の希望により6回で終了に至ったもので、平均視聴率は22%に達していたという、全く逆の言及もある\[17\]\[18\]\[19\]\[20\]。
+これに対し、実際はNBCとの契約は7年であり、本番組については10回放送の申し出があったものの、ピンク・レディー側（[増田恵子](../Page/増田恵子.md "wikilink")）の希望により6回で終了に至ったもので、平均視聴率は22%に達していたという、全く逆の言及もある\[17\]\[18\]\[19\]\[20\]。
 
-しかし、[エーシーニールセン](https://ja.wikipedia.org/wiki/エーシーニールセン "wikilink")調べの全米及び[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")の視聴率では、実際には20%を超えたことは一度もない\[21\]。日本における「視聴率20%以上」という発表は、占拠率と故意に混同させたものである可能性が高いと指摘されている\[22\]。同社調べの全米での視聴率及び占拠率の最高は第1回（1980年3月1日放送）の視聴率14.8%、占拠率24%で、ニューヨークでの視聴率の最高は第3回（1980年3月21日放送）と第5回（最終回。1980年4月4日放送）の視聴率14%、ニューヨークでの占拠率の最高は第1回・第3回・第5回の占拠率22%である\[23\]。当時のNBC社長のは、ピンク・レディーへの視聴率期待値を25%としていた\[24\]。
+しかし、[エーシーニールセン](../Page/エーシーニールセン.md "wikilink")調べの全米及び[ニューヨーク](../Page/ニューヨーク.md "wikilink")の視聴率では、実際には20%を超えたことは一度もない\[21\]。日本における「視聴率20%以上」という発表は、占拠率と故意に混同させたものである可能性が高いと指摘されている\[22\]。同社調べの全米での視聴率及び占拠率の最高は第1回（1980年3月1日放送）の視聴率14.8%、占拠率24%で、ニューヨークでの視聴率の最高は第3回（1980年3月21日放送）と第5回（最終回。1980年4月4日放送）の視聴率14%、ニューヨークでの占拠率の最高は第1回・第3回・第5回の占拠率22%である\[23\]。当時のNBC社長のは、ピンク・レディーへの視聴率期待値を25%としていた\[24\]。
 
 いずれにせよ、アメリカの3大ネットワークで日本人が持った[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")は、現在までのところこれが最初で最後である。アメリカでは放送から二十年以上を経た今日、全回分を収めたDVD\[25\]が販売されており、根強い人気が存在することもまた確かである。
 
 ## 出演
 
-  - [ピンク・レディー](../Page/ピンク・レディー.md "wikilink")（[Kei](https://ja.wikipedia.org/wiki/増田恵子 "wikilink")、[Mie](https://ja.wikipedia.org/wiki/未唯 "wikilink")）
+  - [ピンク・レディー](../Page/ピンク・レディー.md "wikilink")（[Kei](../Page/増田恵子.md "wikilink")、[Mie](https://ja.wikipedia.org/wiki/未唯 "wikilink")）
   - ジェフ・アルトマン
 
 ## 参照
@@ -59,11 +59,11 @@
 13. [The Worst Show in the History of Television?](http://www.stevemandich.com/otherstuff/pinklady.htm) at [SteveMandich.com](http://www.stevemandich.com/)
 14. [w:TV Guide's List of the 50 Worst TV Shows of All Time](https://ja.wikipedia.org/wiki/w:TV_Guide's_List_of_the_50_Worst_TV_Shows_of_All_Time "wikilink") （ウィキペディア英語版）
 15. [from Hollywood(2006年9月24日)](http://suk2.tok2.com/user/hollywood/?c=001) at [Shohei Noguchi 魔法のiらんど](http://ip.tosp.co.jp/i.asp?i=FIREBOY)
-16. [パトリック・マシアス](https://ja.wikipedia.org/wiki/パトリック・マシアス "wikilink")、[町山智浩](../Page/町山智浩.md "wikilink")（訳）『オタク・イン・USA -愛と誤解のAnime輸入史』[筑摩書房](https://ja.wikipedia.org/wiki/筑摩書房 "wikilink")（[ちくま文庫](https://ja.wikipedia.org/wiki/ちくま文庫 "wikilink")）2013年、135-141頁。ISBN 978-4-480-43061-8。
+16. [パトリック・マシアス](https://ja.wikipedia.org/wiki/パトリック・マシアス "wikilink")、[町山智浩](../Page/町山智浩.md "wikilink")（訳）『オタク・イン・USA -愛と誤解のAnime輸入史』[筑摩書房](../Page/筑摩書房.md "wikilink")（[ちくま文庫](../Page/ちくま文庫.md "wikilink")）2013年、135-141頁。ISBN 978-4-480-43061-8。
 17. [NBCレギュラー番組のすべて](http://f47.aaa.livedoor.jp/~pinklady/USA.html#nbc) at [PINKLADY in U.S.A.](http://f47.aaa.livedoor.jp/%7Epinklady/america.html)
 18. [Pink Lady](http://www.timyoungonline.com/japan/pinklady/pinkladypg2.html) at [The View From Japan timyongonline.com](http://www.timyoungonline.com/japan/index.html)
 19. [ピンク・レディーとは](http://d.hatena.ne.jp/keyword/%A5%D4%A5%F3%A5%AF%A1%A6%A5%EC%A5%C7%A5%A3%A1%BC) at [はてなダイアリー](http://d.hatena.ne.jp/)
-20. 増田惠子自伝『あこがれ』（[幻冬舎](https://ja.wikipedia.org/wiki/幻冬舎 "wikilink")刊 ISBN 4-344-00676-3）
+20. 増田惠子自伝『あこがれ』（[幻冬舎](../Page/幻冬舎.md "wikilink")刊 ISBN 4-344-00676-3）
 21. 「パーセントの裏っ側 ピンク・レディー報道の“ウソ”」『[サンデー毎日](../Page/サンデー毎日.md "wikilink")』1980年5月25日号、81頁。第1回から第5回（最終回）までの各回の視聴率と占拠率（エーシーニールセン調べ、全米・ニューヨーク）も掲載されている。
 22.
 23.

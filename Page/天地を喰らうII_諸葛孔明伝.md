@@ -1,21 +1,21 @@
 > この記事は[II ](https://ja.wikipedia.org/wiki/II_)から翻訳されています。
 
 
-『**天地を喰らうII 諸葛孔明伝**』（てんちをくらうツー しょかつこうめいでん）は、[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")[4月5日](../Page/4月5日.md "wikilink")に[カプコン](https://ja.wikipedia.org/wiki/カプコン "wikilink")から発売された[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")用[ゲームソフト](../Page/ゲームソフト.md "wikilink")。ジャンルは[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")。
+『**天地を喰らうII 諸葛孔明伝**』（てんちをくらうツー しょかつこうめいでん）は、[1991年](../Page/1991年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")に[カプコン](../Page/カプコン.md "wikilink")から発売された[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")用[ゲームソフト](../Page/ゲームソフト.md "wikilink")。ジャンルは[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")。
 
-同社の『[天地を喰らう](https://ja.wikipedia.org/wiki/天地を喰らう_\(ファミリーコンピュータ\) "wikilink")』（[1989年](../Page/1989年.md "wikilink")）の続編であり、前作に引き続き[本宮ひろ志](https://ja.wikipedia.org/wiki/本宮ひろ志 "wikilink")の漫画『[天地を喰らう](https://ja.wikipedia.org/wiki/天地を喰らう "wikilink")』（[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink") - [1984年](../Page/1984年.md "wikilink")）を題材にしている。ゲーム内容は[後漢](../Page/後漢.md "wikilink")末期を舞台に、主人公の[劉備](../Page/劉備.md "wikilink")や[諸葛亮](../Page/諸葛亮.md "wikilink")を操作して丞相の地位に付き帝をもないがしろにする曹操の野望を阻止する事を目的としている。
+同社の『[天地を喰らう](../Page/天地を喰らう_\(ファミリーコンピュータ\).md "wikilink")』（[1989年](../Page/1989年.md "wikilink")）の続編であり、前作に引き続き[本宮ひろ志](../Page/本宮ひろ志.md "wikilink")の漫画『[天地を喰らう](../Page/天地を喰らう.md "wikilink")』（[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink") - [1984年](../Page/1984年.md "wikilink")）を題材にしている。ゲーム内容は[後漢](../Page/後漢.md "wikilink")末期を舞台に、主人公の[劉備](../Page/劉備.md "wikilink")や[諸葛亮](../Page/諸葛亮.md "wikilink")を操作して丞相の地位に付き帝をもないがしろにする曹操の野望を阻止する事を目的としている。
 
-開発はカプコン第二企画制作課が行い、ゲーム・デザインは[藤原得郎](https://ja.wikipedia.org/wiki/藤原得郎 "wikilink")および[岡本吉起](https://ja.wikipedia.org/wiki/岡本吉起 "wikilink")、また前作を手掛けた竹中善則が担当、音楽は[藤田靖明](https://ja.wikipedia.org/wiki/藤田靖明 "wikilink")が担当している。
+開発はカプコン第二企画制作課が行い、ゲーム・デザインは[藤原得郎](https://ja.wikipedia.org/wiki/藤原得郎 "wikilink")および[岡本吉起](../Page/岡本吉起.md "wikilink")、また前作を手掛けた竹中善則が担当、音楽は[藤田靖明](../Page/藤田靖明.md "wikilink")が担当している。
 
-後に[携帯電話ゲーム](https://ja.wikipedia.org/wiki/携帯電話ゲーム "wikilink")として『**天地を喰らうRPG II 諸葛孔明伝**』のタイトルで[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")に[iアプリ](https://ja.wikipedia.org/wiki/iアプリ "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に[EZアプリ](https://ja.wikipedia.org/wiki/EZアプリ "wikilink")にて配信された。
+後に[携帯電話ゲーム](../Page/携帯電話ゲーム.md "wikilink")として『**天地を喰らうRPG II 諸葛孔明伝**』のタイトルで[2007年](../Page/2007年.md "wikilink")に[iアプリ](https://ja.wikipedia.org/wiki/iアプリ "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に[EZアプリ](https://ja.wikipedia.org/wiki/EZアプリ "wikilink")にて配信された。
 
 ## 概要
 
-[劉備](../Page/劉備.md "wikilink")や[諸葛亮](../Page/諸葛亮.md "wikilink")を中心に、彼らが入蜀を果たすまでは大方史実通りに進み、その後天下を統一するオリジナル展開になる流れは前作『[天地を喰らう](https://ja.wikipedia.org/wiki/天地を喰らう_\(ファミリーコンピュータ\) "wikilink")』（[1989年](../Page/1989年.md "wikilink")）と同じである。しかし今作は、[董承](https://ja.wikipedia.org/wiki/董承 "wikilink")の[曹操](../Page/曹操.md "wikilink")暗殺計画に劉備が加担した時点から始まるため[黄巾賊](https://ja.wikipedia.org/wiki/黄巾賊 "wikilink")、[董卓](../Page/董卓.md "wikilink")等との対決は描かれない。
+[劉備](../Page/劉備.md "wikilink")や[諸葛亮](../Page/諸葛亮.md "wikilink")を中心に、彼らが入蜀を果たすまでは大方史実通りに進み、その後天下を統一するオリジナル展開になる流れは前作『[天地を喰らう](../Page/天地を喰らう_\(ファミリーコンピュータ\).md "wikilink")』（[1989年](../Page/1989年.md "wikilink")）と同じである。しかし今作は、[董承](../Page/董承.md "wikilink")の[曹操](../Page/曹操.md "wikilink")暗殺計画に劉備が加担した時点から始まるため[黄巾賊](https://ja.wikipedia.org/wiki/黄巾賊 "wikilink")、[董卓](../Page/董卓.md "wikilink")等との対決は描かれない。
 
-ゲームシステムは前作を踏襲しているが、兵士数を維持するための「兵糧」や敵武将の登用など個性的な要素は廃止され、戦闘中に能力値が補正される「[陣形](https://ja.wikipedia.org/wiki/陣形 "wikilink")」の追加や移動中での回復策略使用・加入する全武将の育成が可能になっているなどの変更がなされている。
+ゲームシステムは前作を踏襲しているが、兵士数を維持するための「兵糧」や敵武将の登用など個性的な要素は廃止され、戦闘中に能力値が補正される「[陣形](../Page/陣形.md "wikilink")」の追加や移動中での回復策略使用・加入する全武将の育成が可能になっているなどの変更がなされている。
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")には、携帯電話向けゲームとしてグラフィックの強化や「[一騎打ち](https://ja.wikipedia.org/wiki/一騎討ち "wikilink")」を追加しリメイクされた『**天地を喰らうRPGII 諸葛孔明伝**』が配信された。一部のキャラクターのオリジナルグラフィックがカットされていたり、難易度が下げられていたりしている。
+[2007年](../Page/2007年.md "wikilink")には、携帯電話向けゲームとしてグラフィックの強化や「[一騎打ち](../Page/一騎討ち.md "wikilink")」を追加しリメイクされた『**天地を喰らうRPGII 諸葛孔明伝**』が配信された。一部のキャラクターのオリジナルグラフィックがカットされていたり、難易度が下げられていたりしている。
 
 ## ゲーム内容
 
@@ -71,58 +71,58 @@
   - [劉備](../Page/劉備.md "wikilink")（リュウビ）　武力130 知力200
     本作の主人公。漢の中山靖王[劉勝](../Page/劉勝.md "wikilink")の末裔。能力的に優れたものはないが兵士数が多い。シナリオの途中でパーティーから外れ、後方から指揮する事になる。
   - [関羽](https://ja.wikipedia.org/wiki/関羽 "wikilink")（カンウ）　武力245 知力180
-    劉備の次義弟。重さ八十二斤の[青龍偃月刀](https://ja.wikipedia.org/wiki/青龍偃月刀 "wikilink")を振るう文武両道の猛将。少なめな兵士数を補って余りある武力を誇る。劉備同様シナリオ途中でパーティーから外れる。第三章では彼の一人旅となる。
+    劉備の次義弟。重さ八十二斤の[青龍偃月刀](../Page/青龍偃月刀.md "wikilink")を振るう文武両道の猛将。少なめな兵士数を補って余りある武力を誇る。劉備同様シナリオ途中でパーティーから外れる。第三章では彼の一人旅となる。
   - [張飛](../Page/張飛.md "wikilink")（チョウヒ）　武力255 知力60
     劉備の末義弟。百万の大軍を単騎で退けたと言われる猛将。武力255は作中最高値。一方で知力が低く、策略に掛かり易いのが弱点。蜀平定戦前半では龐統同様固定メンバーとなる。劉備同様シナリオ途中でパーティーから外れる。
   - [諸葛亮](../Page/諸葛亮.md "wikilink")（ショカツリョウ）　武力80 知力255
     本作のもう一人の主人公。「[臥龍](https://ja.wikipedia.org/wiki/臥龍 "wikilink")」と称された三国時代最高の天才軍師。知力は最高値の255を誇り、彼を軍師にした時のみ使用可能な策略や陣形も存在する。作中では主に字の孔明（コウメイ）で呼ばれる。
   - [趙雲](../Page/趙雲.md "wikilink")（チョウウン）　武力240 知力200
     虎威将軍と称される勇将。張飛の元を訪ねていた際に劉備軍に加わる。関羽に並ぶ文武両道の能力値に加え素早さも高いオールラウンダー。その分兵士数は最も少ない。序盤から終盤まで第一線で活躍する。
-  - [黄忠](https://ja.wikipedia.org/wiki/黄忠 "wikilink")（コウチュウ）　武力220 知力175
-    長沙の太守[韓玄](https://ja.wikipedia.org/wiki/韓玄 "wikilink")に仕えていた老将。劉備軍と戦うが彼の旧主が求めていた「[養由の弓](https://ja.wikipedia.org/wiki/養由基 "wikilink")」を渡すと配下に加わる。武力が五虎将軍中最も低いが、2回攻撃が可能な弓が専用武器な為手数の多さでカバーできる。
-  - [魏延](https://ja.wikipedia.org/wiki/魏延 "wikilink")（ギエン）　武力240 知力90
+  - [黄忠](../Page/黄忠.md "wikilink")（コウチュウ）　武力220 知力175
+    長沙の太守[韓玄](../Page/韓玄.md "wikilink")に仕えていた老将。劉備軍と戦うが彼の旧主が求めていた「[養由の弓](https://ja.wikipedia.org/wiki/養由基 "wikilink")」を渡すと配下に加わる。武力が五虎将軍中最も低いが、2回攻撃が可能な弓が専用武器な為手数の多さでカバーできる。
+  - [魏延](../Page/魏延.md "wikilink")（ギエン）　武力240 知力90
     黄忠同様に長沙の太守韓玄に仕えていた武将。数少ない斧の使い手。
   - [馬良](../Page/馬良.md "wikilink")（バリョウ）　武力45 知力235
     「[白眉](https://ja.wikipedia.org/wiki/白眉 "wikilink")」と称された賢者。荊州平定後、弟の[馬謖](../Page/馬謖.md "wikilink")と共に加入する。劉備軍に加わる武将の中では知力が高い水準にある。暗殺の計など、珍しい策略も使うことができる。
   - [龐統](../Page/ホウ統.md "wikilink")（ホウトウ）　武力150 知力245
     孔明と並び「鳳雛」と称される天才軍師。荊州平定後、配下に加わる。入蜀戦前半では張飛共々固定メンバーとなるが、落鳳坡で奇襲に遭い流れ矢を受けて命を落とす。携帯版のグラフィックは前作である天地を喰らうの使い回しである。
-  - [馬超](https://ja.wikipedia.org/wiki/馬超 "wikilink")（バチョウ）　武力240 知力140
-    涼州の[馬騰](https://ja.wikipedia.org/wiki/馬騰 "wikilink")の息子で「錦馬超」の二つ名で知られる猛将。[張魯](https://ja.wikipedia.org/wiki/張魯 "wikilink")の配下として霞萌関を守っていたが、「血判状」を見せた後に戦う事で馬岱共々劉備軍に加わる。
-  - [馬岱](https://ja.wikipedia.org/wiki/馬岱 "wikilink")（バタイ）　武力230 知力170
+  - [馬超](../Page/馬超.md "wikilink")（バチョウ）　武力240 知力140
+    涼州の[馬騰](../Page/馬騰.md "wikilink")の息子で「錦馬超」の二つ名で知られる猛将。[張魯](../Page/張魯.md "wikilink")の配下として霞萌関を守っていたが、「血判状」を見せた後に戦う事で馬岱共々劉備軍に加わる。
+  - [馬岱](../Page/馬岱.md "wikilink")（バタイ）　武力230 知力170
     馬超の従弟。馬超加入時に併せて配下となる。文武に高い能力を持つ。
-  - [関興](https://ja.wikipedia.org/wiki/関興 "wikilink")（カンコウ）　武力235 知力175
+  - [関興](../Page/関興.md "wikilink")（カンコウ）　武力235 知力175
     関羽の次男。成都の守備に就いた父に代わって配下に加わる。張苞とは義兄弟の間柄。なお他の関一族の使用武器は刀であるが、関興のみ剣である。父に続きシナリオ途中でパーティーから離れる。
   - [張苞](https://ja.wikipedia.org/wiki/張苞 "wikilink")（チョウホウ）　武力240 知力90
     張飛の長男。新野の守りについた父に代わって配下に加わる。関興とは義兄弟の間柄。自軍に加えるかは任意だが、一度加えると固定メンバーとなりパーティーから外せなくなる。
-  - [姜維](https://ja.wikipedia.org/wiki/姜維 "wikilink")（キョウイ）　武力210 知力240
+  - [姜維](../Page/姜維.md "wikilink")（キョウイ）　武力210 知力240
     最初は魏の武将として登場するが、母を助けられ劉備軍に加わる。文武両道の上に素早さ、兵士数にも優れている。素早さは245と全武将中、一番高い。
-  - [関索](https://ja.wikipedia.org/wiki/関索 "wikilink")（カンサク）　武力250 知力160
+  - [関索](../Page/関索.md "wikilink")（カンサク）　武力250 知力160
     関羽の三男。漢中の守備に就いた兄に代わって配下に加わる。張飛に次ぐ武力の持ち主。
   - [関平](../Page/関平.md "wikilink")（カンペイ）　武力160 知力110
     関羽の養子。平凡な能力ながら兵士数が多いのが特徴。また関定の家でのイベントで関羽の養子にする事も可能で、その場合武力・知力が10上昇する。
-  - [周倉](https://ja.wikipedia.org/wiki/周倉 "wikilink")（シュウソウ）　武力165 知力80
+  - [周倉](../Page/周倉.md "wikilink")（シュウソウ）　武力165 知力80
     関羽を慕って家来になった元山賊。関平同様、中盤まで活躍する。FC版ではオリジナルの顔グラフィックが設定されていたが、携帯版ではデフォルト顔になっている。
-  - [陳登](https://ja.wikipedia.org/wiki/陳登 "wikilink")（チントウ）　武力50 知力160
+  - [陳登](../Page/陳登.md "wikilink")（チントウ）　武力50 知力160
     徐州で配下に加わる文官。序盤に加わる人材としては知力が高めで軍師候補。中盤で新野城の内政のため配下から外れるが、新野城が立派な城になると再び配下に加わる。
-  - [伊籍](https://ja.wikipedia.org/wiki/伊籍 "wikilink")（イセキ）　武力40 知力185
+  - [伊籍](../Page/伊籍.md "wikilink")（イセキ）　武力40 知力185
     元劉表配下の文官。荊州平定の際に劉備軍に加入する。馬良・馬謖兄弟とは旧知の間柄。知力が高い。
   - [馬謖](../Page/馬謖.md "wikilink")（バショク）　武力170 知力210
     馬良の弟。兄共々配下に加わる。知力は兄には及ばないがなかなか高く、武力もそこそこある万能型。
-  - [廖化](https://ja.wikipedia.org/wiki/廖化 "wikilink")（リョウカ）　武力170 知力100
+  - [廖化](../Page/廖化.md "wikilink")（リョウカ）　武力170 知力100
     襄陽西を根城にしていた山賊の頭。退治されて配下に加わる。
-  - [孟達](https://ja.wikipedia.org/wiki/孟達 "wikilink")（モウタツ）　武力180 知力155
-    蜀の地図を[張松](https://ja.wikipedia.org/wiki/張松 "wikilink")の命で守っている将。素早さが185と趙雲よりも高い。
+  - [孟達](../Page/孟達.md "wikilink")（モウタツ）　武力180 知力155
+    蜀の地図を[張松](../Page/張松.md "wikilink")の命で守っている将。素早さが185と趙雲よりも高い。
   - [法正](../Page/法正.md "wikilink")（ホウセイ）　武力110 知力205
     蜀の知将。蜀平定戦で加入する人材の中では最大の知力の持ち主。
-  - [呉蘭](https://ja.wikipedia.org/wiki/呉蘭 "wikilink")（ゴラン）　武力195 知力105
+  - [呉蘭](../Page/呉蘭.md "wikilink")（ゴラン）　武力195 知力105
     蜀の猛将。蜀平定戦の途中で劉備軍に加わる。
-  - [厳顔](https://ja.wikipedia.org/wiki/厳顔 "wikilink")（ゲンガン）　武力200 知力160
+  - [厳顔](../Page/厳顔.md "wikilink")（ゲンガン）　武力200 知力160
     蜀の老将。蜀平定戦の途中で劉備軍に加わる。
-  - [雷同](https://ja.wikipedia.org/wiki/雷銅 "wikilink")（ライドウ）　武力205 知力95
+  - [雷同](../Page/雷銅.md "wikilink")（ライドウ）　武力205 知力95
     蜀の猛将。蜀平定戦の途中で加入。蜀の猛将。元劉璋系の武将では最も武力が高いが素早さが低い。
-  - [蒋琬](https://ja.wikipedia.org/wiki/蒋エン "wikilink")（ショウエン）　武力140 知力195
+  - [蒋琬](../Page/蒋エン.md "wikilink")（ショウエン）　武力140 知力195
     蒋家荘一の天才。高い知力を持つが素早さが非常に低い。またある城を攻める際には彼の助力が欠かせない。
-  - [呉懿](https://ja.wikipedia.org/wiki/呉懿 "wikilink")（ゴイ）　武力175 知力140
+  - [呉懿](../Page/呉懿.md "wikilink")（ゴイ）　武力175 知力140
     蜀の武将。能力は平均的。
 
 ### 曹操軍
@@ -133,34 +133,34 @@
     曹操の息子。曹操の死後、後を継ぐ。
   - [司馬懿](../Page/司馬懿.md "wikilink")（シバイ）
     終盤で登場する曹操軍の軍師。孔明に次いで高い知力を誇る。
-  - [徐晃](https://ja.wikipedia.org/wiki/徐晃 "wikilink")（ジョコウ）
+  - [徐晃](../Page/徐晃.md "wikilink")（ジョコウ）
     曹操軍の猛将。終盤で登場する。ボス戦だけではなくフィールド遭遇でも登場する。
-  - [張遼](https://ja.wikipedia.org/wiki/張遼 "wikilink")（チョウリョウ）
+  - [張遼](../Page/張遼.md "wikilink")（チョウリョウ）
     曹操軍の猛将。関羽千里行の際、追撃した夏侯惇を諌めて関羽を助ける。その後、終盤に洛陽への道程で何度か戦う事になる。
-  - [許褚](https://ja.wikipedia.org/wiki/許チョ "wikilink")（キョチョ）
+  - [許褚](../Page/許チョ.md "wikilink")（キョチョ）
     曹操軍の武衛中郎将。劉備軍壊滅を目論む野心家。
   - [夏侯惇](../Page/夏侯惇.md "wikilink") （カコウトン）
     眼帯の敵将。五関を破った関羽を追う。後には襄陽城を守る事になる。
-  - [朱霊](https://ja.wikipedia.org/wiki/朱霊 "wikilink")＆[露昭](https://ja.wikipedia.org/wiki/路招 "wikilink")（シュレイ＆ロショウ）
+  - [朱霊](../Page/朱霊.md "wikilink")＆[露昭](../Page/路招.md "wikilink")（シュレイ＆ロショウ）
     袁術討伐の折に曹操が貸してくれる部下2人。能力は低いが序盤では貴重な戦力。
 
 ### その他の軍
 
   - [袁術](../Page/袁術.md "wikilink")（エンジュツ）
     帝を自称した人物。最初の大ボスとして登場。
-  - [顔良](https://ja.wikipedia.org/wiki/顔良 "wikilink")（ガンリョウ）
+  - [顔良](../Page/顔良.md "wikilink")（ガンリョウ）
     袁紹の部下でその武勇で名高い。袁紹の元に落ち延びた際、彼を貸してもらえ共に白馬・延津の砦を陥とすが、謎の武将に一撃で倒される。
-  - [文醜](https://ja.wikipedia.org/wiki/文醜 "wikilink")（ブンシュウ）
+  - [文醜](../Page/文醜.md "wikilink")（ブンシュウ）
     袁紹の部下で顔良の弟。兄の仇討ちとばかりに劉備に同行するが、やはり謎の武将に一撃で倒される。
   - [魯粛](../Page/魯粛.md "wikilink")（ロシュク）
     [孫権](../Page/孫権.md "wikilink")の配下で、曹操軍に占領された新野城に捕われていた所を劉備軍に助けられる。[赤壁の戦い](../Page/赤壁の戦い.md "wikilink")が終るまでの間、劉備軍の配下になる。
-  - [大蛇](https://ja.wikipedia.org/wiki/大蛇 "wikilink")（オロチ）
-    [邪馬台国](https://ja.wikipedia.org/wiki/邪馬台国 "wikilink")にある聖なる山で[卑弥呼](../Page/卑弥呼.md "wikilink")に会う際に出てくる。極端な武力と素早さの高さと知略の低さが特徴。
-  - [呂布](https://ja.wikipedia.org/wiki/呂布 "wikilink")（リョフ）
-    裏切り者の猛将。史実ではゲーム開始時点で死亡しているが、当作では荊州を彷徨い、桂陽城で[趙範](https://ja.wikipedia.org/wiki/趙範 "wikilink")の罠にはめられた孔明を助け出すことになる。張飛同様、武力は最大の255を誇るが、知力が低い。
-  - [劉璋](https://ja.wikipedia.org/wiki/劉璋 "wikilink")（リュウショウ）
-    蜀の太守。[張魯](https://ja.wikipedia.org/wiki/張魯 "wikilink")を倒す援軍として劉備軍を招き入れるが後に裏切り、戦うこととなる。
-  - [張任](https://ja.wikipedia.org/wiki/張任 "wikilink")（チョウジン）
+  - [大蛇](../Page/大蛇.md "wikilink")（オロチ）
+    [邪馬台国](../Page/邪馬台国.md "wikilink")にある聖なる山で[卑弥呼](../Page/卑弥呼.md "wikilink")に会う際に出てくる。極端な武力と素早さの高さと知略の低さが特徴。
+  - [呂布](../Page/呂布.md "wikilink")（リョフ）
+    裏切り者の猛将。史実ではゲーム開始時点で死亡しているが、当作では荊州を彷徨い、桂陽城で[趙範](../Page/趙範.md "wikilink")の罠にはめられた孔明を助け出すことになる。張飛同様、武力は最大の255を誇るが、知力が低い。
+  - [劉璋](../Page/劉璋.md "wikilink")（リュウショウ）
+    蜀の太守。[張魯](../Page/張魯.md "wikilink")を倒す援軍として劉備軍を招き入れるが後に裏切り、戦うこととなる。
+  - [張任](../Page/張任.md "wikilink")（チョウジン）
     劉璋の部下で智勇兼備の武将。龐統を奇襲で討ち取った。後に成都までの道程で何度か戦う事となる。携帯版ではただのデフォルト顔にされている。
 
 ## 移植版
@@ -210,15 +210,15 @@
 
 ## スタッフ
 
-  - ゲーム・デザイン：アーサー（[藤原得郎](https://ja.wikipedia.org/wiki/藤原得郎 "wikilink")）、おかもときはじ（[岡本吉起](https://ja.wikipedia.org/wiki/岡本吉起 "wikilink")）、たけなかBAMBOO（竹中善則）、R・Y・O
+  - ゲーム・デザイン：アーサー（[藤原得郎](https://ja.wikipedia.org/wiki/藤原得郎 "wikilink")）、おかもときはじ（[岡本吉起](../Page/岡本吉起.md "wikilink")）、たけなかBAMBOO（竹中善則）、R・Y・O
   - キャラクター・デザイン：TAMAKIすけべい、おおしのERNIE、BANDY、DON CHAN、RYUGO、こばういん
   - プログラム：L・H・R、CUTY うえやま（上山真一）、T・K、けろちゃん
-  - サウンド：BUN BUN（[藤田靖明](https://ja.wikipedia.org/wiki/藤田靖明 "wikilink")）
-  - 協力：[本宮ひろ志](https://ja.wikipedia.org/wiki/本宮ひろ志 "wikilink")、M\&M、[集英社](../Page/集英社.md "wikilink")
+  - サウンド：BUN BUN（[藤田靖明](../Page/藤田靖明.md "wikilink")）
+  - 協力：[本宮ひろ志](../Page/本宮ひろ志.md "wikilink")、M\&M、[集英社](../Page/集英社.md "wikilink")
 
 ## 評価
 
-ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「[クロスレビュー](https://ja.wikipedia.org/wiki/クロスレビュー "wikilink")」では合計29点（満40点）\[1\]、『[ファミリーコンピュータMagazine](https://ja.wikipedia.org/wiki/ファミリーコンピュータMagazine "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、23.8点（満30点）となっている\[2\]。
+ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「[クロスレビュー](../Page/クロスレビュー.md "wikilink")」では合計29点（満40点）\[1\]、『[ファミリーコンピュータMagazine](../Page/ファミリーコンピュータMagazine.md "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、23.8点（満30点）となっている\[2\]。
 
 | 項目 | キャラクタ | 音楽  | お買得度 | 操作性 | 熱中度 | オリジナリティ | 総合   |
 | -- | ----- | --- | ---- | --- | --- | ------- | ---- |
@@ -233,8 +233,8 @@
 
 ## 関連項目
 
-  - [天地を喰らう](https://ja.wikipedia.org/wiki/天地を喰らう "wikilink")（[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink") - [1984年](../Page/1984年.md "wikilink")）
-  - [天地を喰らう (ファミリーコンピュータ)](https://ja.wikipedia.org/wiki/天地を喰らう_\(ファミリーコンピュータ\) "wikilink")（[1989年](../Page/1989年.md "wikilink")）
+  - [天地を喰らう](../Page/天地を喰らう.md "wikilink")（[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink") - [1984年](../Page/1984年.md "wikilink")）
+  - [天地を喰らう (ファミリーコンピュータ)](../Page/天地を喰らう_\(ファミリーコンピュータ\).md "wikilink")（[1989年](../Page/1989年.md "wikilink")）
 
 ## 外部リンク
 

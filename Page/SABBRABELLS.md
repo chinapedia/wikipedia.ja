@@ -5,7 +5,7 @@
 
 結成当時より[ブラックサバス](https://ja.wikipedia.org/wiki/ブラックサバス "wikilink")の影響を強く受けていたが、[悪魔](../Page/悪魔.md "wikilink")を連想させる衣装と歌詞、曲は力強く[ドラマチック](https://ja.wikipedia.org/wiki/ドラマチック "wikilink")なヘヴィメタルという路線で、[インディーズ](../Page/インディーズ.md "wikilink")の一時代を築いた。
 
-ライブパフォーマンスでは、黒を基調とした衣装、[骸骨](https://ja.wikipedia.org/wiki/骸骨 "wikilink")や[蝋燭](https://ja.wikipedia.org/wiki/蝋燭 "wikilink")、[十字架](https://ja.wikipedia.org/wiki/十字架 "wikilink")、オープニングに[魔術師](https://ja.wikipedia.org/wiki/魔術師 "wikilink")を登場させるなど、[オカルティックなイメージは後発バンドにも多大な影響を与えた](../Page/オカルト.md "wikilink")。
+ライブパフォーマンスでは、黒を基調とした衣装、[骸骨](../Page/骸骨.md "wikilink")や[蝋燭](https://ja.wikipedia.org/wiki/蝋燭 "wikilink")、[十字架](../Page/十字架.md "wikilink")、オープニングに[魔術師](https://ja.wikipedia.org/wiki/魔術師 "wikilink")を登場させるなど、[オカルティックなイメージは後発バンドにも多大な影響を与えた](../Page/オカルト.md "wikilink")。
 
 1986年に「目黒鹿鳴館の帝王」「インディーズ最後の大物」「ライブの帝王」など多くの評価をひっさげ[キングレコード](../Page/キングレコード.md "wikilink")よりメジャーデビューを果たすが、三枚のアルバムをリリースした時点でバンドは分裂（解散）した。
 
@@ -64,7 +64,7 @@
 
   - 1982年　1980年に結成されたメタルバンドReadingを前身とし、82年にSABBRABELLSへと改名。
   - 1983年　インディーズにて「SABBRABELLS」発表
-  - 1984年　[ANTHEM](https://ja.wikipedia.org/wiki/ANTHEM "wikilink")、SNIPERらと共にオムニバス「[HEAVY METAL FORCE](https://ja.wikipedia.org/wiki/:nl:Heavy_Metal_Force "wikilink")」に参加。[ドラムが関口から石橋へ交代](../Page/ドラムセット.md "wikilink")。
+  - 1984年　[ANTHEM](../Page/ANTHEM.md "wikilink")、SNIPERらと共にオムニバス「[HEAVY METAL FORCE](https://ja.wikipedia.org/wiki/:nl:Heavy_Metal_Force "wikilink")」に参加。[ドラムが関口から石橋へ交代](../Page/ドラムセット.md "wikilink")。
   - 1985年　「DOG FIGHT」（自主制作盤）発表
   - 1986年　メジャーデビュー。「SAILING ON THE REVENGE」発表、ライヴアルバム「LIVE\!\!」も後に発表。
   - 1987年　「DOG FIGHT」「ONE NIGHT MAGIC」発表。以後分裂の後、解散。
@@ -73,8 +73,8 @@
 
 ## メジャー離脱後～現在
 
-  - ボーカルの高橋喜一は、後に[ハードコアバンド](../Page/ハードコア・パンク.md "wikilink")[G.I.S.M.](https://ja.wikipedia.org/wiki/G.I.S.M. "wikilink")にベーシスト（「＋R」ではギター）として参加。ポップス系バンドGingaではギタリストとして活躍。へヴィメタルバンドSxxRxxSではベーシストとして参加の傍ら、メロディックメタルバンドSaiuNではギタリストとして活躍。
-  - ギターの松川純一郎はエモーション、[J.D.K.BAND](../Page/J.D.K.BAND.md "wikilink")等に参加後、[山岸潤史](https://ja.wikipedia.org/wiki/山岸潤史 "wikilink")に師事し、[ブルース](../Page/ブルース.md "wikilink")ギタリストに転向し、現在も活動中。また、宮尾敬一・関口文一ら元メンバーと瀬戸政彦 (ex.[Volcano](https://ja.wikipedia.org/wiki/屍忌蛇 "wikilink"), Savage Greed) を含めた4人で [秘密結社ブラック一味](http://jp.myspace.com/blackichimi) として、サブラベルズの曲をライブで再演している。
+  - ボーカルの高橋喜一は、後に[ハードコアバンド](../Page/ハードコア・パンク.md "wikilink")[G.I.S.M.](../Page/G.I.S.M..md "wikilink")にベーシスト（「＋R」ではギター）として参加。ポップス系バンドGingaではギタリストとして活躍。へヴィメタルバンドSxxRxxSではベーシストとして参加の傍ら、メロディックメタルバンドSaiuNではギタリストとして活躍。
+  - ギターの松川純一郎はエモーション、[J.D.K.BAND](../Page/J.D.K.BAND.md "wikilink")等に参加後、[山岸潤史](../Page/山岸潤史.md "wikilink")に師事し、[ブルース](../Page/ブルース.md "wikilink")ギタリストに転向し、現在も活動中。また、宮尾敬一・関口文一ら元メンバーと瀬戸政彦 (ex.[Volcano](../Page/屍忌蛇.md "wikilink"), Savage Greed) を含めた4人で [秘密結社ブラック一味](http://jp.myspace.com/blackichimi) として、サブラベルズの曲をライブで再演している。
   - ドラムの石橋は2010年5月12日、肝臓ガンの為、他界。
 
 ## ディスコグラフィー
@@ -117,7 +117,7 @@
 <!-- end list -->
 
   -
-    オリジナル盤には[シークレットトラックとして](https://ja.wikipedia.org/wiki/隠しトラック "wikilink")「ルルドの泉」が収録されている。なお、再発盤には収録されていない。
+    オリジナル盤には[シークレットトラックとして](../Page/隠しトラック.md "wikilink")「ルルドの泉」が収録されている。なお、再発盤には収録されていない。
 
 ### オムニバス
 

@@ -1,7 +1,7 @@
 > この記事は[OpenTP1](https://ja.wikipedia.org/wiki/OpenTP1)から翻訳されています。
 
 
-**OpenTP1**は[日立製作所](../Page/日立製作所.md "wikilink")が開発・発売している*日立オープンミドルウェアシリーズ*のひとつで、[1994年](../Page/1994年.md "wikilink")に発売された[ソフトウェア](../Page/ソフトウェア.md "wikilink")。[オープンシステム上で](https://ja.wikipedia.org/wiki/オープンシステム_\(コンピュータ\) "wikilink")[オンライントランザクション処理](https://ja.wikipedia.org/wiki/オンライントランザクション処理 "wikilink")（OLTP）を実行する為のソフトウェア名称。1994年[日経BP技術賞](https://ja.wikipedia.org/wiki/日経BP技術賞 "wikilink")システム部門賞受賞。
+**OpenTP1**は[日立製作所](../Page/日立製作所.md "wikilink")が開発・発売している*日立オープンミドルウェアシリーズ*のひとつで、[1994年](../Page/1994年.md "wikilink")に発売された[ソフトウェア](../Page/ソフトウェア.md "wikilink")。[オープンシステム上で](../Page/オープンシステム_\(コンピュータ\).md "wikilink")[オンライントランザクション処理](../Page/オンライントランザクション処理.md "wikilink")（OLTP）を実行する為のソフトウェア名称。1994年[日経BP技術賞](https://ja.wikipedia.org/wiki/日経BP技術賞 "wikilink")システム部門賞受賞。
 
 ## 特徴
 
@@ -13,12 +13,12 @@ OpenTP1はオープンシステムの標準化団体（[X/Open](https://ja.wikip
 
 ## プログラミング言語
 
-OpenTP1で使用するプログラム（UAP）は[C言語](../Page/C言語.md "wikilink")、[C++言語](https://ja.wikipedia.org/wiki/C++言語 "wikilink")及び[COBOL](https://ja.wikipedia.org/wiki/COBOL "wikilink")言語が使用可能となっている。 加えて、Windowsで.NETにも対応している。
+OpenTP1で使用するプログラム（UAP）は[C言語](../Page/C言語.md "wikilink")、[C++言語](https://ja.wikipedia.org/wiki/C++言語 "wikilink")及び[COBOL](../Page/COBOL.md "wikilink")言語が使用可能となっている。 加えて、Windowsで.NETにも対応している。
 
 ## 対応しているリソースマネジャ
 
   - [Oracle database](https://ja.wikipedia.org/wiki/Oracle_database "wikilink")
-  - [HiRDB](https://ja.wikipedia.org/wiki/HiRDB "wikilink")
+  - [HiRDB](../Page/HiRDB.md "wikilink")
   - [SQL Server](https://ja.wikipedia.org/wiki/SQL_Server "wikilink")
   - [DB2](https://ja.wikipedia.org/wiki/DB2 "wikilink")
   - その他日立製作所製のメインフレーム製品各種
@@ -71,9 +71,9 @@ OpenTP1で使用するプログラム（UAP）は[C言語](../Page/C言語.md "w
 
   - *日立オープンミドルウェアシリーズ*
       -
-        [JP1](https://ja.wikipedia.org/wiki/JP1 "wikilink")：統合システム運用管理
+        [JP1](../Page/JP1.md "wikilink")：統合システム運用管理
         [Cosminexus](https://ja.wikipedia.org/wiki/Cosminexus "wikilink")：統合システム構築基盤
-        [HiRDB](https://ja.wikipedia.org/wiki/HiRDB "wikilink")：スケーラブルデータベース
+        [HiRDB](../Page/HiRDB.md "wikilink")：スケーラブルデータベース
         [SEWB3](https://ja.wikipedia.org/wiki/SEWB3 "wikilink")：ソフトウェアエンジニアリングワークベンチ
         [COBOL85](https://ja.wikipedia.org/wiki/COBOL85 "wikilink")：ビジネスアプリケーション環境開発
         [Groupmax](https://ja.wikipedia.org/wiki/Groupmax "wikilink")：[グループウェア](../Page/グループウェア.md "wikilink")

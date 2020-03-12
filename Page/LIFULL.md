@@ -12,21 +12,21 @@
 ## 沿革
 
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")3月 [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")にて、不動産物件情報を無料閲覧できるサービス業務を目的として**株式会社ネクスト**を設立\[6\]
-  - [1999年](../Page/1999年.md "wikilink")12月 本社を[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")へ移転
+  - [1999年](../Page/1999年.md "wikilink")12月 本社を[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")へ移転
   - [2001年](../Page/2001年.md "wikilink")7月 本社を東京都[中央区へ移転](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")
   - [2002年](../Page/2002年.md "wikilink")1月 [楽天](https://ja.wikipedia.org/wiki/楽天 "wikilink")株式会社との資本提携\[7\]
   - [2004年](../Page/2004年.md "wikilink")3月 本社を東京都中央区[新川へ移転](../Page/新川_\(東京都中央区\).md "wikilink")
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")4月 [大阪市](https://ja.wikipedia.org/wiki/大阪市 "wikilink")[北区に大阪支店を開設](../Page/北区_\(大阪市\).md "wikilink")・株式会社イースマイを吸収合併\[8\]
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink") [情報セキュリティマネジメントシステム](https://ja.wikipedia.org/wiki/情報セキュリティマネジメントシステム "wikilink") (ISMS) の認証を取得
+  - [2005年](../Page/2005年.md "wikilink")4月 [大阪市](../Page/大阪市.md "wikilink")[北区に大阪支店を開設](../Page/北区_\(大阪市\).md "wikilink")・株式会社イースマイを吸収合併\[8\]
+  - [2006年](../Page/2006年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink") [情報セキュリティマネジメントシステム](../Page/情報セキュリティマネジメントシステム.md "wikilink") (ISMS) の認証を取得
     本社を東京都中央区晴海へ移転
   - 2006年6月 福岡市中央区に福岡支店を開設
-  - 2006年10月 [東京証券取引所](https://ja.wikipedia.org/wiki/東京証券取引所 "wikilink")[マザーズ](../Page/マザーズ.md "wikilink")へ上場\[9\]
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")2月 [御崎公園球技場](../Page/御崎公園球技場.md "wikilink")の[ネーミングライツを取得](https://ja.wikipedia.org/wiki/命名権 "wikilink")。同スタジアムはFIFA（[国際サッカー連盟](../Page/国際サッカー連盟.md "wikilink")）主催国際試合を除き、「**ホームズスタジアム神戸**」に名称変更\[10\]
+  - 2006年10月 [東京証券取引所](../Page/東京証券取引所.md "wikilink")[マザーズ](../Page/マザーズ.md "wikilink")へ上場\[9\]
+  - [2007年](../Page/2007年.md "wikilink")2月 [御崎公園球技場](../Page/御崎公園球技場.md "wikilink")の[ネーミングライツを取得](https://ja.wikipedia.org/wiki/命名権 "wikilink")。同スタジアムはFIFA（[国際サッカー連盟](../Page/国際サッカー連盟.md "wikilink")）主催国際試合を除き、「**ホームズスタジアム神戸**」に名称変更\[10\]
   - 2007年2月 [伊藤忠商事](https://ja.wikipedia.org/wiki/伊藤忠商事 "wikilink")株式会社との注文住宅・リフォーム事業における共同出資による新会社**株式会社ウィルニック**を設立
     物件管理・顧客管理システムのASP事業を手掛ける**株式会社レンターズ**を[株式交換](../Page/株式交換.md "wikilink")により完全子会社化
     情報セキュリティマネジメントシステム「ISO27001」の認証を取得
   - 2007年7月 [日本総合信用保障](https://ja.wikipedia.org/wiki/日本総合信用保障 "wikilink")株式会社から家賃保証事業を譲り受け、家賃保証事業に参入。同時に**株式会社ネクストフィナンシャルサービス**（現・**エルズサポート株式会社**）を設立
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")6月 [名古屋市](../Page/名古屋市.md "wikilink")[西区に名古屋支店を開設](https://ja.wikipedia.org/wiki/西区_\(名古屋市\) "wikilink")
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")6月 [名古屋市](../Page/名古屋市.md "wikilink")[西区に名古屋支店を開設](../Page/西区_\(名古屋市\).md "wikilink")
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月12日](../Page/3月12日.md "wikilink") 東京証券取引所1部に市場変更
   - 2010年7月 株式会社ウィルニックを吸収合併
   - 2010年8月 株式会社ネクストフィナンシャルサービスの全株式を譲渡。家賃保証事業から撤退
@@ -50,13 +50,13 @@
 
 ## CM出演者
 
-  - [平成ノブシコブシ](https://ja.wikipedia.org/wiki/平成ノブシコブシ "wikilink")（2012年）
-  - [バナナマン](https://ja.wikipedia.org/wiki/バナナマン "wikilink")（2013年 - 2014年）
-  - [二宮和也](https://ja.wikipedia.org/wiki/二宮和也 "wikilink")（2015年 - 2016年）\[16\]
+  - [平成ノブシコブシ](../Page/平成ノブシコブシ.md "wikilink")（2012年）
+  - [バナナマン](../Page/バナナマン.md "wikilink")（2013年 - 2014年）
+  - [二宮和也](../Page/二宮和也.md "wikilink")（2015年 - 2016年）\[16\]
   - [岡田結実](https://ja.wikipedia.org/wiki/岡田結実 "wikilink")（2016年 - 2018年）
   - [村上虹郎](https://ja.wikipedia.org/wiki/村上虹郎 "wikilink")（2017年）企業CM。CMソングを実母である[UAが担当した](https://ja.wikipedia.org/wiki/UA_\(歌手\) "wikilink")\[17\]\[18\]。
   - [水原希子](https://ja.wikipedia.org/wiki/水原希子 "wikilink")（2017年）
-  - [長友佑都](https://ja.wikipedia.org/wiki/長友佑都 "wikilink")（2018年 - ）\[19\]
+  - [長友佑都](../Page/長友佑都.md "wikilink")（2018年 - ）\[19\]
   - [本田翼](../Page/本田翼.md "wikilink")（2019年 - ）
 
 ## 子会社・関連会社・関連事業

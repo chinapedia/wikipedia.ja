@@ -1,7 +1,7 @@
 > この記事は[PDF](https://ja.wikipedia.org/wiki/PDF)から翻訳されています。
 
 
-**クセロPDF**とは[クセロ](https://ja.wikipedia.org/wiki/クセロ "wikilink")社が開発した日本語対応の[PDF生成プリンタドライバで](../Page/Portable_Document_Format.md "wikilink")、仮想プリンタとして機能する。関連製品として、有償の「[瞬簡PDF作成](https://ja.wikipedia.org/wiki/PDFスイート "wikilink")」などがある。なお、株式会社クセロの事業は、2009年4月に[アンテナハウス](https://ja.wikipedia.org/wiki/アンテナハウス "wikilink")社に譲渡\[1\]され、「瞬簡PDF作成」はアンテナハウスから販売されている\[2\]。
+**クセロPDF**とは[クセロ](https://ja.wikipedia.org/wiki/クセロ "wikilink")社が開発した日本語対応の[PDF生成プリンタドライバで](../Page/Portable_Document_Format.md "wikilink")、仮想プリンタとして機能する。関連製品として、有償の「[瞬簡PDF作成](https://ja.wikipedia.org/wiki/PDFスイート "wikilink")」などがある。なお、株式会社クセロの事業は、2009年4月に[アンテナハウス](../Page/アンテナハウス.md "wikilink")社に譲渡\[1\]され、「瞬簡PDF作成」はアンテナハウスから販売されている\[2\]。
 
 ## 制限事項
 
@@ -17,17 +17,17 @@
 
 通常の文章をクセロPDFでPDFファイルに変換した場合、Acrobatなどで作成された通常のPDFと同じくAdobe Readerで開いたときに文章を選択・コピー可能である。
 
-ファイルに閲覧制限・印刷制限・抽出制限・パスワードの設定などのセキュリティを施すことができる。セキュリティレベルは「高（128ビット）」ないし「低（40ビット）」の[RC4](https://ja.wikipedia.org/wiki/RC4 "wikilink")暗号化が利用可能である。
+ファイルに閲覧制限・印刷制限・抽出制限・パスワードの設定などのセキュリティを施すことができる。セキュリティレベルは「高（128ビット）」ないし「低（40ビット）」の[RC4](../Page/RC4.md "wikilink")暗号化が利用可能である。
 
 標準で出力されるPDFのバージョンは1.3（Acrobat 4.0以降）である。ただしセキュリティレベル「高」を設定のうえ出力した場合に限り、PDFバージョンは1.4（Acrobat 5.0以降）となる。
 
-[OCR機能がないため](https://ja.wikipedia.org/wiki/光学文字認識 "wikilink")、画像を[スキャナで読み取ってPDFにした場合には他のPDF作成アプリケーションと同様に文章のコピーは出来ない](../Page/イメージスキャナ.md "wikilink")（透明テキストが埋めこまれないため）。そのため、そのような用途の場合には別途OCRソフトを利用して透明テキストを埋めこむ必要がある。
+[OCR機能がないため](../Page/光学文字認識.md "wikilink")、画像を[スキャナで読み取ってPDFにした場合には他のPDF作成アプリケーションと同様に文章のコピーは出来ない](../Page/イメージスキャナ.md "wikilink")（透明テキストが埋めこまれないため）。そのため、そのような用途の場合には別途OCRソフトを利用して透明テキストを埋めこむ必要がある。
 
 [TrueType](../Page/TrueType.md "wikilink")フォントを埋め込むことができるが、[OpenType](../Page/OpenType.md "wikilink")フォントは正常に埋め込むことができない。
 
 ## クセロPDF2
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[7月25日](../Page/7月25日.md "wikilink")に、[Windows Vistaに対応した](https://ja.wikipedia.org/wiki/Windows_Vista "wikilink")「クセロPDF2」をリリースした。従来のクセロPDFと比べて、PDF生成速度が平均200%以上アップするものとアナウンスしている。
+[2007年](../Page/2007年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")に、[Windows Vistaに対応した](https://ja.wikipedia.org/wiki/Windows_Vista "wikilink")「クセロPDF2」をリリースした。従来のクセロPDFと比べて、PDF生成速度が平均200%以上アップするものとアナウンスしている。
 
 PDF出力時に製品のPRサイトを表示するため、インターネットに接続していないコンピューターでは使用できない。過去のバージョンではPDF出力時にローカルフォルダにインストールされたHTMLファイルの広告画面が表示され、インターネットに接続していないコンピュータでも使用できた。
 

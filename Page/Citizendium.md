@@ -1,11 +1,11 @@
 > この記事は[Citizendium](https://ja.wikipedia.org/wiki/Citizendium)から翻訳されています。
 
 
-**Citizendium**（シチズンジアム）は、フリーコンテンツで構成された[オンライン百科事典](https://ja.wikipedia.org/wiki/オンライン百科事典 "wikilink")のプロジェクトである。一般的な知識に関する「市民による概説書」を標榜している。スローガンは、「*We are creating the world's most trusted encyclopedia and knowledge base.*（我々は世界一信用出来る百科事典と[知識ベース](https://ja.wikipedia.org/wiki/知識ベース "wikilink")を創る）」。
+**Citizendium**（シチズンジアム）は、フリーコンテンツで構成された[オンライン百科事典](https://ja.wikipedia.org/wiki/オンライン百科事典 "wikilink")のプロジェクトである。一般的な知識に関する「市民による概説書」を標榜している。スローガンは、「*We are creating the world's most trusted encyclopedia and knowledge base.*（我々は世界一信用出来る百科事典と[知識ベース](../Page/知識ベース.md "wikilink")を創る）」。
 
 ## 概要
 
-[ウィキペディア](https://ja.wikipedia.org/wiki/ウィキペディア "wikilink")の設立者のひとりである[ラリー・サンガー](https://ja.wikipedia.org/wiki/ラリー・サンガー "wikilink")が提唱した。
+[ウィキペディア](../Page/ウィキペディア.md "wikilink")の設立者のひとりである[ラリー・サンガー](../Page/ラリー・サンガー.md "wikilink")が提唱した。
 
 ウィキペディアと同様、[ウィキ](../Page/ウィキ.md "wikilink")の仕組みを利用している。ウィキペディアと異なり匿名性を排除し編集者に実名を要求し、各記事に記事内容を審査する責任者をおくのが特徴である。ウィキペディアで問題となった記事の信憑性という問題を解決するのが狙いである。編集に参加するには、履歴書およびそれを裏づける情報源を提示し、審査を受けなければならない。
 
@@ -29,8 +29,8 @@ Citizendiumでは記事の質を維持するため、参加者にいくつかの
 
 ## 歴史
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")10月 - ラリー・サンガーが新たな百科事典サイトの開設を計画していることを表明。翌11月にテストを開始。
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[3月27日](../Page/3月27日.md "wikilink") - 英語版のパブリックβ版が公開\[1\]。記事数は1100本程度。
+  - [2006年](../Page/2006年.md "wikilink")10月 - ラリー・サンガーが新たな百科事典サイトの開設を計画していることを表明。翌11月にテストを開始。
+  - [2007年](../Page/2007年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink") - 英語版のパブリックβ版が公開\[1\]。記事数は1100本程度。
 
 ## 脚注
 

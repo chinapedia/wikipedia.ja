@@ -1,11 +1,11 @@
 > この記事は[ICHIRO-VERSUS](https://ja.wikipedia.org/wiki/ICHIRO-VERSUS)から翻訳されています。
 
 
-**ICHIRO-VERSUS**（イチロー・ヴァーサス）は、[讀賣テレビ放送](../Page/讀賣テレビ放送.md "wikilink")（ytv）と[BS日テレで](../Page/BS日本.md "wikilink")[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで放送した[ミニ](https://ja.wikipedia.org/wiki/ミニ番組 "wikilink")[トーク番組](https://ja.wikipedia.org/wiki/トーク番組 "wikilink")である。
+**ICHIRO-VERSUS**（イチロー・ヴァーサス）は、[讀賣テレビ放送](../Page/讀賣テレビ放送.md "wikilink")（ytv）と[BS日テレで](../Page/BS日本.md "wikilink")[2007年](../Page/2007年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで放送した[ミニ](../Page/ミニ番組.md "wikilink")[トーク番組](../Page/トーク番組.md "wikilink")である。
 
 ## 概要
 
-同番組は[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")度に放送された「[ICHIRO-MONDOW 〜Two Chairs〜](https://ja.wikipedia.org/wiki/ICHIRO-MONDOW_〜Two_Chairs〜 "wikilink")」の続編。[シアトル・マリナーズ](../Page/シアトル・マリナーズ.md "wikilink")の[イチロー](https://ja.wikipedia.org/wiki/イチロー "wikilink")選手が[司会](https://ja.wikipedia.org/wiki/司会 "wikilink")を務め、毎回多彩なゲストを交えてキーワードに沿った連想トークを繰り広げるほか、心理学的に解剖したゲームも実施するなど、イチローとゲストの意外な交友関係を明らかにしていくことにしている。
+同番組は[2006年](../Page/2006年.md "wikilink")度に放送された「[ICHIRO-MONDOW 〜Two Chairs〜](../Page/ICHIRO-MONDOW_〜Two_Chairs〜.md "wikilink")」の続編。[シアトル・マリナーズ](../Page/シアトル・マリナーズ.md "wikilink")の[イチロー](https://ja.wikipedia.org/wiki/イチロー "wikilink")選手が[司会](../Page/司会.md "wikilink")を務め、毎回多彩なゲストを交えてキーワードに沿った連想トークを繰り広げるほか、心理学的に解剖したゲームも実施するなど、イチローとゲストの意外な交友関係を明らかにしていくことにしている。
 なお、「ICHIRO-MONDOW 〜Two Chairs〜」と同様にブロードバンドサイトであるフレッツ・スクウェアの「イチローBBonフレッツ」でも配信されている（TV放送版とは別にフレッツ配信版がある）。また、[goo](https://ja.wikipedia.org/wiki/goo "wikilink")でも配信されるようになった。
 
 ## 放送日時
@@ -21,13 +21,13 @@
 
 （放送日はytv基準）
 
-1.  2007年04月07日 [清原和博](https://ja.wikipedia.org/wiki/清原和博 "wikilink")（[オリックス・バファローズ](https://ja.wikipedia.org/wiki/オリックス・バファローズ "wikilink")）（テーマ「MONDOW 野球」）
+1.  2007年04月07日 [清原和博](../Page/清原和博.md "wikilink")（[オリックス・バファローズ](../Page/オリックス・バファローズ.md "wikilink")）（テーマ「MONDOW 野球」）
 2.  2007年04月14日 [浅野忠信](../Page/浅野忠信.md "wikilink")（テーマ「BONNDOW ～煩悩～ 心理テスト」）
 3.  2007年04月21日 [常盤貴子](https://ja.wikipedia.org/wiki/常盤貴子 "wikilink")（テーマ「MONDOW 出会い」）
 4.  2007年04月28日 清原和博（問答：テーマ「BONNDOW ～煩悩～ 心理テスト」）
-5.  2007年05月05日 [ピーター](https://ja.wikipedia.org/wiki/池畑慎之介 "wikilink")（テーマ「MONDOW 男らしさ」）
-6.  2007年05月12日 [川村ゆきえ](https://ja.wikipedia.org/wiki/川村ゆきえ "wikilink")（テーマ「BONNDOW ～煩悩～ 心理テスト」）
-7.  2007年05月19日 [茂木健一郎](https://ja.wikipedia.org/wiki/茂木健一郎 "wikilink")（テーマ「MONDOW 記憶」）
+5.  2007年05月05日 [ピーター](../Page/池畑慎之介.md "wikilink")（テーマ「MONDOW 男らしさ」）
+6.  2007年05月12日 [川村ゆきえ](../Page/川村ゆきえ.md "wikilink")（テーマ「BONNDOW ～煩悩～ 心理テスト」）
+7.  2007年05月19日 [茂木健一郎](../Page/茂木健一郎.md "wikilink")（テーマ「MONDOW 記憶」）
 8.  2007年05月26日 清原和博（テーマ「BONNDOW ～煩悩～ 心理テスト」）
 9.  2007年06月02日 浅野忠信（テーマ「MONDOW 表現」）
 10. 2007年06月09日 常盤貴子（テーマ「BONNDOW ～煩悩～ 心理テスト」）

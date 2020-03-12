@@ -1,7 +1,7 @@
 > この記事は[YOU](https://ja.wikipedia.org/wiki/YOU)から翻訳されています。
 
 
-『**YOUなび**』（ユーなび）は、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")から同年[9月28日](../Page/9月28日.md "wikilink")まで[広島テレビで](../Page/広島テレビ放送.md "wikilink")[月曜](../Page/月曜日.md "wikilink") - [金曜](../Page/金曜日.md "wikilink") 16:19 - 16:48 （[JST](../Page/日本標準時.md "wikilink")）に放送されていた[生活情報番組](https://ja.wikipedia.org/wiki/生活情報番組 "wikilink")である。
+『**YOUなび**』（ユーなび）は、[2007年](../Page/2007年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から同年[9月28日](../Page/9月28日.md "wikilink")まで[広島テレビで](../Page/広島テレビ放送.md "wikilink")[月曜](../Page/月曜日.md "wikilink") - [金曜](../Page/金曜日.md "wikilink") 16:19 - 16:48 （[JST](../Page/日本標準時.md "wikilink")）に放送されていた[生活情報番組](../Page/生活情報番組.md "wikilink")である。
 
 スタジオなどはすべてHD化してあったため、[地上デジタル放送では](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")[ハイビジョン放送を実施していた](https://ja.wikipedia.org/wiki/高精細度テレビジョン放送 "wikilink")。[ステレオ放送](../Page/ステレオ放送.md "wikilink")。
 
@@ -9,22 +9,22 @@
 
 この番組は、生活に欠かせないものをピックアップして紹介していた。月曜日には視聴者が生出演し、自慢できるスポーツや変わった趣味を公開していた。直後の時間帯に放送の『[テレビ宣言](../Page/テレビ宣言.md "wikilink")』が地域密着型の[地域情報番組](https://ja.wikipedia.org/wiki/地域情報番組 "wikilink")だったのに対し、こちらは全国区の情報も網羅しており、さらに[団塊の世代](https://ja.wikipedia.org/wiki/団塊の世代 "wikilink")に役立つ情報も伝えるなど、『テレビ宣言』とは番組内容やスタイルが被らないように工夫を凝らしていた。
 
-使用スタジオは『[中町スタイル](https://ja.wikipedia.org/wiki/中町スタイル "wikilink")』のころに比べると簡素になっていた。使用していたのは『中町スタイル』跡ではなく、『テレビ宣言』でも使われていたスタジオで、セットは『テレビ宣言』のセットの隣にあった。そのため、同番組のオンエア中にカメラがズームアウトした際に端に映ることもあった（デジタル放送のみ）。スタジオセットの色調は赤茶色。
+使用スタジオは『[中町スタイル](../Page/中町スタイル.md "wikilink")』のころに比べると簡素になっていた。使用していたのは『中町スタイル』跡ではなく、『テレビ宣言』でも使われていたスタジオで、セットは『テレビ宣言』のセットの隣にあった。そのため、同番組のオンエア中にカメラがズームアウトした際に端に映ることもあった（デジタル放送のみ）。スタジオセットの色調は赤茶色。
 
-出演者の[長野正実](https://ja.wikipedia.org/wiki/長野正実 "wikilink")が担当の日に広島テレビの[カープ戦中継で市民球場に出向いている場合には](../Page/広島東洋カープ.md "wikilink")、[児玉勝司](https://ja.wikipedia.org/wiki/児玉勝司 "wikilink")が代役を務める。中継日には、番組冒頭で市民球場からの中継をハイビジョンで行っていた。番組初回と長野と児玉の服装は[タキシード](https://ja.wikipedia.org/wiki/タキシード "wikilink")、[井ノ口あさ子](https://ja.wikipedia.org/wiki/井ノ口あさ子 "wikilink")の服装は[ドレス](https://ja.wikipedia.org/wiki/ドレス "wikilink")調と正装であったが、普通の服装となっている。また、初回には4:3映像に番組名を表記したサイドパネルが表示されていたが、表示されていない。
+出演者の[長野正実](../Page/長野正実.md "wikilink")が担当の日に広島テレビの[カープ戦中継で市民球場に出向いている場合には](../Page/広島東洋カープ.md "wikilink")、[児玉勝司](../Page/児玉勝司.md "wikilink")が代役を務める。中継日には、番組冒頭で市民球場からの中継をハイビジョンで行っていた。番組初回と長野と児玉の服装は[タキシード](../Page/タキシード.md "wikilink")、[井ノ口あさ子](../Page/井ノ口あさ子.md "wikilink")の服装は[ドレス](https://ja.wikipedia.org/wiki/ドレス "wikilink")調と正装であったが、普通の服装となっている。また、初回には4:3映像に番組名を表記したサイドパネルが表示されていたが、表示されていない。
 
 ## 放送時間
 
   - 月曜 - 金曜 16:19 - 16:48 ([JST](../Page/日本標準時.md "wikilink"))
   - 実質的には16:20 - 16:46の26分間の放送だった。これは[テレビショッピング](../Page/テレビショッピング.md "wikilink")との[ステーションブレイク](https://ja.wikipedia.org/wiki/コマーシャルメッセージ#CMの種類 "wikilink") (SB) が1分間あったほか、『テレビ宣言』とのSBもあったためである。
-  - [ゴールデンウィーク](https://ja.wikipedia.org/wiki/ゴールデンウィーク "wikilink")中と8月6日と[お盆](https://ja.wikipedia.org/wiki/お盆 "wikilink")の時期には放送を休止していた。
+  - [ゴールデンウィーク](https://ja.wikipedia.org/wiki/ゴールデンウィーク "wikilink")中と8月6日と[お盆](../Page/お盆.md "wikilink")の時期には放送を休止していた。
 
 ## 出演者
 
-  - [井ノ口あさ子](https://ja.wikipedia.org/wiki/井ノ口あさ子 "wikilink")（当時広島テレビアナウンサー、毎日）
-  - [長野正実](https://ja.wikipedia.org/wiki/長野正実 "wikilink")（広島テレビアナウンサー、月曜・火曜・水曜）
-  - [森拓磨](https://ja.wikipedia.org/wiki/森拓磨 "wikilink")（広島テレビアナウンサー、木曜）
-  - [児玉勝司](https://ja.wikipedia.org/wiki/児玉勝司 "wikilink")（当時広島テレビアナウンサー、金曜）
+  - [井ノ口あさ子](../Page/井ノ口あさ子.md "wikilink")（当時広島テレビアナウンサー、毎日）
+  - [長野正実](../Page/長野正実.md "wikilink")（広島テレビアナウンサー、月曜・火曜・水曜）
+  - [森拓磨](../Page/森拓磨.md "wikilink")（広島テレビアナウンサー、木曜）
+  - [児玉勝司](../Page/児玉勝司.md "wikilink")（当時広島テレビアナウンサー、金曜）
 
 ## タイムテーブル
 
@@ -86,14 +86,14 @@
 
 ## スポンサー
 
-フリースポンサー枠のため、スポンサーは無しだった。ただし、番組内で最初に流れるインフォマーシャルは[カゴメ](https://ja.wikipedia.org/wiki/カゴメ "wikilink")であることが多かった。また、正規スポンサーではないが、浦上ふとん店（[福山市](../Page/福山市.md "wikilink")駅家町）のCMがインフォマーシャル後に流れていた。
+フリースポンサー枠のため、スポンサーは無しだった。ただし、番組内で最初に流れるインフォマーシャルは[カゴメ](../Page/カゴメ.md "wikilink")であることが多かった。また、正規スポンサーではないが、浦上ふとん店（[福山市](../Page/福山市.md "wikilink")駅家町）のCMがインフォマーシャル後に流れていた。
 
 ## 備考
 
-  - もともとこの時間帯は『[広テレセレクション](../Page/広テレセレクション.md "wikilink")』という枠で、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")[系番組の](https://ja.wikipedia.org/wiki/TXN "wikilink")[時差放送や](../Page/遅れネット.md "wikilink")[NNS](../Page/日本テレビネットワーク協議会.md "wikilink")[系番組の](../Page/日本テレビ系列.md "wikilink")[再放送](https://ja.wikipedia.org/wiki/再放送 "wikilink")が行われていた。
+  - もともとこの時間帯は『[広テレセレクション](../Page/広テレセレクション.md "wikilink")』という枠で、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")[系番組の](https://ja.wikipedia.org/wiki/TXN "wikilink")[時差放送や](../Page/遅れネット.md "wikilink")[NNS](../Page/日本テレビネットワーク協議会.md "wikilink")[系番組の](../Page/日本テレビ系列.md "wikilink")[再放送](../Page/再放送.md "wikilink")が行われていた。
   - 16:48からは『テレビ宣言』があるため、この番組が放送されていた2007年4月からの半年間は平日 16:19 - 18:58の2時間39分は自社製作番組で埋まることになった。
   - 『広テレセレクション』は15:50 - 16:48の58分間の枠であったが、この番組は16:19 - 16:48の29分間の枠で、15:50 - 16:19の29分間はそれまで金曜 11:00 - 11:20に放送されていた健康食品等のテレビショッピングが放送されていた。
-  - 番組が半年で終了することになった理由は、『[ザ・ワイド](../Page/ザ・ワイド.md "wikilink")』の打ち切りと『[情報ライブ ミヤネ屋](https://ja.wikipedia.org/wiki/情報ライブ_ミヤネ屋 "wikilink")』のネット開始（15・16時台をネットしたため）である。番組の終了後、広島テレビ平日午後の自社制作枠は木曜・金曜 13:55 - 14:50に放送の『[もっきんCafe](https://ja.wikipedia.org/wiki/もっきんCafe "wikilink")』へ移行した。
+  - 番組が半年で終了することになった理由は、『[ザ・ワイド](../Page/ザ・ワイド.md "wikilink")』の打ち切りと『[情報ライブ ミヤネ屋](../Page/情報ライブ_ミヤネ屋.md "wikilink")』のネット開始（15・16時台をネットしたため）である。番組の終了後、広島テレビ平日午後の自社制作枠は木曜・金曜 13:55 - 14:50に放送の『[もっきんCafe](../Page/もっきんCafe.md "wikilink")』へ移行した。
 
 ## 外部リンク
 

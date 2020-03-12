@@ -1,9 +1,9 @@
 > この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
 
 
-**G検定**（ジーけんてい）は[統計学的検定法](https://ja.wikipedia.org/wiki/統計学的検定法 "wikilink")で、[尤度比検定](https://ja.wikipedia.org/wiki/尤度比検定 "wikilink")の一種である。これまで[カイ二乗検定](https://ja.wikipedia.org/wiki/カイ二乗検定 "wikilink")が用いられていた場面で広く用いられつつある。
+**G検定**（ジーけんてい）は[統計学的検定法](https://ja.wikipedia.org/wiki/統計学的検定法 "wikilink")で、[尤度比検定](../Page/尤度比検定.md "wikilink")の一種である。これまで[カイ二乗検定](../Page/カイ二乗検定.md "wikilink")が用いられていた場面で広く用いられつつある。
 
-カイ二乗検定は[累積分布関数](https://ja.wikipedia.org/wiki/累積分布関数 "wikilink")への適合性や[分割表](https://ja.wikipedia.org/wiki/分割表 "wikilink")における[独立性の検定に広く用いられてきたが](https://ja.wikipedia.org/wiki/独立_\(確率論\) "wikilink")、実は[対数尤度](https://ja.wikipedia.org/wiki/対数尤度 "wikilink")の[近似](https://ja.wikipedia.org/wiki/近似 "wikilink")に基づくものであり、一方G検定は対数尤度を直接用いる方法である。カイ二乗検定は[カール・ピアソン](https://ja.wikipedia.org/wiki/カール・ピアソン "wikilink")によって計算の容易な方法として導入されたのであるが、[コンピュータ](../Page/コンピュータ.md "wikilink")の普及によってG検定も決して煩雑な方法ではなくなってきた。特に1994年に出版されたソーカルとロルフの教科書（「生物統計学」第3版：参考文献）で推奨され、広く利用されるようになった。
+カイ二乗検定は[累積分布関数](../Page/累積分布関数.md "wikilink")への適合性や[分割表](https://ja.wikipedia.org/wiki/分割表 "wikilink")における[独立性の検定に広く用いられてきたが](../Page/独立_\(確率論\).md "wikilink")、実は[対数尤度](https://ja.wikipedia.org/wiki/対数尤度 "wikilink")の[近似](../Page/近似.md "wikilink")に基づくものであり、一方G検定は対数尤度を直接用いる方法である。カイ二乗検定は[カール・ピアソン](../Page/カール・ピアソン.md "wikilink")によって計算の容易な方法として導入されたのであるが、[コンピュータ](../Page/コンピュータ.md "wikilink")の普及によってG検定も決して煩雑な方法ではなくなってきた。特に1994年に出版されたソーカルとロルフの教科書（「生物統計学」第3版：参考文献）で推奨され、広く利用されるようになった。
 
 ピアソンのカイ二乗検定統計量は
 
@@ -13,7 +13,7 @@
 
 \(G = 2\sum_{i} {O_i \cdot \ln(O_i/E_i) }\)
 
-観察された頻度が、ある期待される頻度をもつ分布から抽出した[無作為](https://ja.wikipedia.org/wiki/無作為 "wikilink")[標本にもとづくものであるという帰無仮説を立てれば](https://ja.wikipedia.org/wiki/標本_\(統計学\) "wikilink")、*G* の分布はカイ二乗（[自由度](https://ja.wikipedia.org/wiki/自由度 "wikilink")は同じ）で近似される。
+観察された頻度が、ある期待される頻度をもつ分布から抽出した[無作為](https://ja.wikipedia.org/wiki/無作為 "wikilink")[標本にもとづくものであるという帰無仮説を立てれば](../Page/標本_\(統計学\).md "wikilink")、*G* の分布はカイ二乗（[自由度](https://ja.wikipedia.org/wiki/自由度 "wikilink")は同じ）で近似される。
 
 標本サイズが適切であればG検定とカイ二乗検定では同じ結論が得られるが、すべてのマス目に対して |*O<sub>i</sub>* − *E<sub>i</sub>* |\> *E<sub>i</sub>* となる場合には、ピアソンのカイ二乗検定でなくG検定を用いるのが望ましい。
 

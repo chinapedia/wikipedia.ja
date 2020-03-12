@@ -5,9 +5,9 @@
 
 ## 概要
 
-[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の農民で飛行機モデラーのアルトゥール・ザック( Arthur Sack)は、[1939年](../Page/1939年.md "wikilink")に動力付きモデル飛行機コンテストに自身の製作した円盤翼機の模型であるAS-1を出場させたところ、空軍大臣[エルンスト・ウーデット](https://ja.wikipedia.org/wiki/エルンスト・ウーデット "wikilink")の注目を得、継続して研究するための予算と、航空企業および軍の支援の確約を得ることに成功した。
+[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の農民で飛行機モデラーのアルトゥール・ザック( Arthur Sack)は、[1939年](../Page/1939年.md "wikilink")に動力付きモデル飛行機コンテストに自身の製作した円盤翼機の模型であるAS-1を出場させたところ、空軍大臣[エルンスト・ウーデット](../Page/エルンスト・ウーデット.md "wikilink")の注目を得、継続して研究するための予算と、航空企業および軍の支援の確約を得ることに成功した。
 
-[Sack_AS-5.jpg](https://ja.wikipedia.org/wiki/File:Sack_AS-5.jpg "fig:Sack_AS-5.jpg") その後ザックはAS-2からAS-5まで4つのモデルを製作、機体のサイズは次第に大型化していき、ついには不時着した[メッサーシュミット Bf109の部品などを利用して人が乗れる大きさの](../Page/メッサーシュミット_Bf109.md "wikilink")"**A.S.6V-1**"が[1944年](../Page/1944年.md "wikilink")の[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に製作され、[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")から軍のブランディス飛行場で試験が行われた。試作機は[4月16日](https://ja.wikipedia.org/wiki/4月16日 "wikilink")の3回目の滑走テストでジャンプに成功したが、短い翼巾のため[プロペラ](https://ja.wikipedia.org/wiki/プロペラ "wikilink")の[トルク](../Page/トルク.md "wikilink")に対抗できず、機体は傾いたままであり、安定した飛行が得られなかった。
+[Sack_AS-5.jpg](https://ja.wikipedia.org/wiki/File:Sack_AS-5.jpg "fig:Sack_AS-5.jpg") その後ザックはAS-2からAS-5まで4つのモデルを製作、機体のサイズは次第に大型化していき、ついには不時着した[メッサーシュミット Bf109の部品などを利用して人が乗れる大きさの](../Page/メッサーシュミット_Bf109.md "wikilink")"**A.S.6V-1**"が[1944年](../Page/1944年.md "wikilink")の[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に製作され、[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")から軍のブランディス飛行場で試験が行われた。試作機は[4月16日](../Page/4月16日.md "wikilink")の3回目の滑走テストでジャンプに成功したが、短い翼巾のため[プロペラ](../Page/プロペラ.md "wikilink")の[トルク](../Page/トルク.md "wikilink")に対抗できず、機体は傾いたままであり、安定した飛行が得られなかった。
 
 1944年4月のテスト終了後、機体はブランディス飛行場の片隅に保管（事実上の放置）されていたが、1944年の夏には再びテスト飛行が試みられている。しかし、これは着陸装置の損傷により失敗に終わり、その後も記録が残されている範囲では飛行テストは全て失敗に終わっており、極めて短いジャンプに数回成功したのみである。その後、再度保管された機体は1944年の末から翌[1945年](../Page/1945年.md "wikilink")の初頭にかけて連合軍の空襲で破壊された。
 

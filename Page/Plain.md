@@ -1,19 +1,19 @@
 > この記事は[Plain](https://ja.wikipedia.org/wiki/Plain)から翻訳されています。
 
 
-[1](https://natalie.mu/music/pp/hayashibaramegumi02/page/2)\[1\]『**Plain**』（プレイン）は、[林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")の12作目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")（スタジオ録音アルバム）。
+[1](https://natalie.mu/music/pp/hayashibaramegumi02/page/2)\[1\]『**Plain**』（プレイン）は、[林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")の12作目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")（スタジオ録音アルバム）。
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月21日](../Page/4月21日.md "wikilink")に[キングレコード](../Page/キングレコード.md "wikilink")よりリリース。
+[2007年](../Page/2007年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink")に[キングレコード](../Page/キングレコード.md "wikilink")よりリリース。
 
 ## 解説
 
   - 前作『center color』から3年ぶりにリリースされた、出産後初のアルバム作品。通常、日本でのCD発売は水曜日であるが、本曲は自身のラジオ番組『[林原めぐみのHeartful Station](../Page/林原めぐみのHeartful_Station.md "wikilink")』800回放送記念公開録音実施に合わせて土曜日に発売された。
-  - 収録曲は「[KOIBUMI](https://ja.wikipedia.org/wiki/KOIBUMI "wikilink")」以降の作品が中心となっている。未収録シングルは「[A Happy Life](https://ja.wikipedia.org/wiki/A_Happy_Life_\(林原めぐみの曲\) "wikilink")」。
+  - 収録曲は「[KOIBUMI](../Page/KOIBUMI.md "wikilink")」以降の作品が中心となっている。未収録シングルは「[A Happy Life](../Page/A_Happy_Life_\(林原めぐみの曲\).md "wikilink")」。
   - タイトルは英語で「素」の意味である。
   - 初回限定盤には2004年に行われたラジオ『[林原めぐみのTokyo Boogie Night](../Page/林原めぐみのTokyo_Boogie_Night.md "wikilink")』放送600回突破記念公開録音で行われたライブ音源が収録されている。
-  - ジャケットの写真はキングレコードの本社やスタジオのある[文京区](https://ja.wikipedia.org/wiki/文京区 "wikilink")[音羽](https://ja.wikipedia.org/wiki/音羽 "wikilink")・[関口](https://ja.wikipedia.org/wiki/関口 "wikilink")周辺で撮影された。
-  - 今作と同時に[童謡](https://ja.wikipedia.org/wiki/童謡 "wikilink")アルバム『[林原めぐみ たのしいどうよう](https://ja.wikipedia.org/wiki/林原めぐみ_たのしいどうよう "wikilink")』もリリースされた。
-  - コーラスには林原自ら参加し、他に「[Give a reason](https://ja.wikipedia.org/wiki/Give_a_reason "wikilink") 〜Ballade Version〜」にはコーラスアレンジも手掛けてる[高橋洋子が](https://ja.wikipedia.org/wiki/高橋洋子_\(歌手\) "wikilink")、「旋律」には[meg rockが参加している](https://ja.wikipedia.org/wiki/日向めぐみ "wikilink")。
+  - ジャケットの写真はキングレコードの本社やスタジオのある[文京区](https://ja.wikipedia.org/wiki/文京区 "wikilink")[音羽](../Page/音羽.md "wikilink")・[関口](../Page/関口.md "wikilink")周辺で撮影された。
+  - 今作と同時に[童謡](../Page/童謡.md "wikilink")アルバム『[林原めぐみ たのしいどうよう](https://ja.wikipedia.org/wiki/林原めぐみ_たのしいどうよう "wikilink")』もリリースされた。
+  - コーラスには林原自ら参加し、他に「[Give a reason](../Page/Give_a_reason.md "wikilink") 〜Ballade Version〜」にはコーラスアレンジも手掛けてる[高橋洋子が](../Page/高橋洋子_\(歌手\).md "wikilink")、「旋律」には[meg rockが参加している](../Page/日向めぐみ.md "wikilink")。
   - 「4月の雪」は岡崎律子が歌ったテレビアニメ「[魔法のプリンセスミンキーモモ](https://ja.wikipedia.org/wiki/魔法のプリンセスミンキーモモ "wikilink")（新）」イメージソング新録盤のカバー曲であるアレンジは岡崎のアルバム『[A Happy Life](https://ja.wikipedia.org/wiki/A_Happy_Life "wikilink")』に収録されている音源と同じである。
   - 「旋律」は林原が岡崎律子を追慕するため作詞,作曲した歌と直接話した。
 
@@ -31,16 +31,16 @@
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/負けないで、負けないで…" title="wikilink">負けないで、負けないで…</a></strong></p></td>
+<td><p><strong><a href="../Page/負けないで、負けないで….md" title="wikilink">負けないで、負けないで…</a></strong></p></td>
 <td><p>作詞・作曲：<a href="https://ja.wikipedia.org/wiki/辛島美登里" title="wikilink">辛島美登里</a>、編曲：<a href="../Page/十川ともじ.md" title="wikilink">十川知司</a><br />
 ラジオ『<a href="../Page/林原めぐみのHeartful_Station.md" title="wikilink">林原めぐみのHeartful Station</a>』2代目エンディングテーマ</p></td>
 <td><p>4:44</p></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/KOIBUMI" title="wikilink">KOIBUMI</a></strong></p></td>
+<td><p><strong><a href="../Page/KOIBUMI.md" title="wikilink">KOIBUMI</a></strong></p></td>
 <td><p>作詞：MEGUMI、作曲・編曲：たかはしごう<br />
-テレビアニメ『<a href="https://ja.wikipedia.org/wiki/朝霧の巫女" title="wikilink">朝霧の巫女</a>』エンディングテーマ</p></td>
+テレビアニメ『<a href="../Page/朝霧の巫女.md" title="wikilink">朝霧の巫女</a>』エンディングテーマ</p></td>
 <td><p>4:52</p></td>
 </tr>
 <tr class="even">
@@ -48,20 +48,20 @@
 <td><p><strong>trust you</strong></p></td>
 <td><p>作詞：MEGUMI、作曲・編曲：たかはしごう<br />
 テレビアニメ『<a href="https://ja.wikipedia.org/wiki/シャーマンキング" title="wikilink">シャーマンキング</a>』初代エンディングテーマ<br />
-シングル『<a href="https://ja.wikipedia.org/wiki/Over_Soul" title="wikilink">Over Soul</a>』カップリング曲</p></td>
+シングル『<a href="../Page/Over_Soul.md" title="wikilink">Over Soul</a>』カップリング曲</p></td>
 <td><p>3:25</p></td>
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Give_a_reason" title="wikilink">Give a reason</a> 〜Ballade Version〜</strong></p></td>
-<td><p>作詞：有森聡美、作曲：<a href="https://ja.wikipedia.org/wiki/佐藤英敏" title="wikilink">佐藤英敏</a>、編曲：五島翔、コーラスアレンジ：<a href="https://ja.wikipedia.org/wiki/高橋洋子_(歌手)" title="wikilink">高橋洋子</a><br />
+<td><p><strong><a href="../Page/Give_a_reason.md" title="wikilink">Give a reason</a> 〜Ballade Version〜</strong></p></td>
+<td><p>作詞：有森聡美、作曲：<a href="../Page/佐藤英敏.md" title="wikilink">佐藤英敏</a>、編曲：五島翔、コーラスアレンジ：<a href="../Page/高橋洋子_(歌手).md" title="wikilink">高橋洋子</a><br />
 シングル『Meet again』カップリング曲</p></td>
 <td><p>4:36</p></td>
 </tr>
 <tr class="even">
 <td><p>6</p></td>
 <td><p><strong>Breeze</strong></p></td>
-<td><p>作詞：有森聡美、作曲：<a href="https://ja.wikipedia.org/wiki/佐藤英敏" title="wikilink">佐藤英敏</a>、編曲：添田啓二<br />
+<td><p>作詞：有森聡美、作曲：<a href="../Page/佐藤英敏.md" title="wikilink">佐藤英敏</a>、編曲：添田啓二<br />
 テレビアニメ『<a href="https://ja.wikipedia.org/wiki/スレイヤーズ_(アニメ)" title="wikilink">スレイヤーズTRY</a>』オープニングテーマ<br />
 シングル『<a href="https://ja.wikipedia.org/wiki/don&#39;t_be_discouraged" title="wikilink">don't be discouraged</a>』カップリング曲</p></td>
 <td><p>4:27</p></td>
@@ -83,7 +83,7 @@
 <tr class="odd">
 <td><p>9</p></td>
 <td><p><strong>4月の雪</strong></p></td>
-<td><p>作詞・作曲：<a href="https://ja.wikipedia.org/wiki/岡崎律子" title="wikilink">岡崎律子</a>、編曲：<a href="https://ja.wikipedia.org/wiki/長谷川智樹" title="wikilink">長谷川智樹</a>、コーラス：岡崎律子&amp;林原めぐみ</p></td>
+<td><p>作詞・作曲：<a href="https://ja.wikipedia.org/wiki/岡崎律子" title="wikilink">岡崎律子</a>、編曲：<a href="../Page/長谷川智樹.md" title="wikilink">長谷川智樹</a>、コーラス：岡崎律子&amp;林原めぐみ</p></td>
 <td><p>6:12</p></td>
 </tr>
 <tr class="even">
@@ -100,7 +100,7 @@
 </tr>
 <tr class="even">
 <td><p>12</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Meet_again" title="wikilink">Meet again</a></strong></p></td>
+<td><p><strong><a href="../Page/Meet_again.md" title="wikilink">Meet again</a></strong></p></td>
 <td><p>作詞：MEGUMI、作曲・編曲：たかはしごう<br />
 テレビアニメ『スレイヤーズ』シリーズ TV放映10周年記念アニバーサリーソング</p></td>
 <td><p>4:50</p></td>

@@ -11,15 +11,15 @@ __TOC__{{-}}
 
 最新バージョンであるVer.4系統について説明する。
 
-  - Network Security …… [インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")に接続するソフトウェアを制御する。[プロトコル](../Page/プロトコル.md "wikilink")や[ポート番号](https://ja.wikipedia.org/wiki/ポート番号 "wikilink")・接続先など比較的詳細な設定が可能。
+  - Network Security …… [インターネット](../Page/インターネット.md "wikilink")に接続するソフトウェアを制御する。[プロトコル](../Page/プロトコル.md "wikilink")や[ポート番号](https://ja.wikipedia.org/wiki/ポート番号 "wikilink")・接続先など比較的詳細な設定が可能。
   - System Security …… IDS機能・アプリケーション制御機能など。
-  - Web …… 広告ブロック・[Cookie制御などを行う](https://ja.wikipedia.org/wiki/HTTP_cookie "wikilink")。
+  - Web …… 広告ブロック・[Cookie制御などを行う](../Page/HTTP_cookie.md "wikilink")。
 
 なお、フリー版ではSystem Security・Webなど一部機能が利用できない。
 
 ## 評価
 
-フリーで利用できるパーソナルファイアーウォールとして日本で最も人気の高いソフトの一つである。そのため日本語の解説サイトなどが充実している。他に[ZoneAlarm](https://ja.wikipedia.org/wiki/ZoneAlarm "wikilink")も日本人ユーザーが多いが、本ソフトはZoneAlarmと比べ比較的詳細な設定ができ、自由度が高い。これは設定次第でZoneAlarmよりも強固なセキュリティ環境を実現できることを意味するが、一方で[ネットワークに関する基本的な知識が必要となってくるため](https://ja.wikipedia.org/wiki/コンピュータネットワーク "wikilink")、ZoneAlarmよりも管理していくのは難しいと言える。
+フリーで利用できるパーソナルファイアーウォールとして日本で最も人気の高いソフトの一つである。そのため日本語の解説サイトなどが充実している。他に[ZoneAlarm](../Page/ZoneAlarm.md "wikilink")も日本人ユーザーが多いが、本ソフトはZoneAlarmと比べ比較的詳細な設定ができ、自由度が高い。これは設定次第でZoneAlarmよりも強固なセキュリティ環境を実現できることを意味するが、一方で[ネットワークに関する基本的な知識が必要となってくるため](../Page/コンピュータネットワーク.md "wikilink")、ZoneAlarmよりも管理していくのは難しいと言える。
 
 また、単なるパーソナルファイアーウォールソフトの領域を超えた多彩な機能を有しているが、そのために旧バージョン(Ver.2系統)と比べて動作が重くなった、また、Sunbelt Softwareに開発が移ってからブルースクリーンなどの不具合が多発するようになった、との指摘もある。以上の理由により、すでに開発が終了しているVer.2系統や、Kerio Technologiesが開発していたバージョンを利用するユーザーも存在する。
 

@@ -1,13 +1,13 @@
 > この記事は[GOB](https://ja.wikipedia.org/wiki/GOB)から翻訳されています。
 
 
-『**GOB**』（ゴブ）は、[日本テレビ系列局の一部で放送されていた](../Page/日本テレビネットワーク協議会.md "wikilink")[日本テレビ製作の](../Page/日本テレビ放送網.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。製作局の日本テレビでは[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[10月7日](../Page/10月7日.md "wikilink")（6日深夜）から[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")（30日深夜）まで、毎週日曜 0:00 - 2:00 （土曜深夜、[日本標準時](../Page/日本標準時.md "wikilink")）に放送。
+『**GOB**』（ゴブ）は、[日本テレビ系列局の一部で放送されていた](../Page/日本テレビネットワーク協議会.md "wikilink")[日本テレビ製作の](../Page/日本テレビ放送網.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。製作局の日本テレビでは[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[10月7日](../Page/10月7日.md "wikilink")（6日深夜）から[1991年](../Page/1991年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")（30日深夜）まで、毎週日曜 0:00 - 2:00 （土曜深夜、[日本標準時](../Page/日本標準時.md "wikilink")）に放送。
 
 ## 概要
 
-1990年9月までこの時間帯に放送されていたトークバラエティ『[所ジョージのオトナのにほへ](https://ja.wikipedia.org/wiki/所ジョージのオトナのにほへ "wikilink")』とドラマやバラエティなどの単発枠『[60分放し飼い](https://ja.wikipedia.org/wiki/60分放し飼い "wikilink")』の跡地を統合する形でスタートした[深夜番組](../Page/深夜番組.md "wikilink")で、毎回2時間にわたって[生で放送されていた](https://ja.wikipedia.org/wiki/生放送 "wikilink")。
+1990年9月までこの時間帯に放送されていたトークバラエティ『[所ジョージのオトナのにほへ](https://ja.wikipedia.org/wiki/所ジョージのオトナのにほへ "wikilink")』とドラマやバラエティなどの単発枠『[60分放し飼い](https://ja.wikipedia.org/wiki/60分放し飼い "wikilink")』の跡地を統合する形でスタートした[深夜番組](../Page/深夜番組.md "wikilink")で、毎回2時間にわたって[生で放送されていた](../Page/生放送.md "wikilink")。
 
-番組は、5組の[パーソナリティたちが各々の個性を生かした](../Page/ラジオパーソナリティ.md "wikilink")10分程度のコーナーを受け持ち、それらをサポートMCや別のコーナーの担当者たちがまとめながら繋いでいくというスタイルで進行していた。『GOB』（5部）というタイトルはこの事に由来する。中でも[シティボーイズ](https://ja.wikipedia.org/wiki/シティボーイズ "wikilink")担当のコーナーは、[斉木しげる](https://ja.wikipedia.org/wiki/斉木しげる "wikilink")と[きたろう](https://ja.wikipedia.org/wiki/きたろう "wikilink")のシュールネタと[大竹まこと](https://ja.wikipedia.org/wiki/大竹まこと "wikilink")の型破りな行動などで人気を博した。また、第1部の『GOB1』以外の4コーナーは、視聴者から送られてきた[FAX](https://ja.wikipedia.org/wiki/ファクシミリ "wikilink")・[ハガキ](https://ja.wikipedia.org/wiki/はがき "wikilink")・[家庭用ビデオなどを元に進行していた](../Page/8ミリビデオ.md "wikilink")。投稿者に贈られる[ステッカーは](https://ja.wikipedia.org/wiki/シール "wikilink")、採用されたネタの内容によって色や柄に違いがあり、金色や銀色の番組ステッカーを何枚か貯めると[日本ビクター](../Page/日本ビクター.md "wikilink")製の[ビデオカメラなどが贈られた](https://ja.wikipedia.org/wiki/カムコーダ "wikilink")。
+番組は、5組の[パーソナリティたちが各々の個性を生かした](../Page/ラジオパーソナリティ.md "wikilink")10分程度のコーナーを受け持ち、それらをサポートMCや別のコーナーの担当者たちがまとめながら繋いでいくというスタイルで進行していた。『GOB』（5部）というタイトルはこの事に由来する。中でも[シティボーイズ](../Page/シティボーイズ.md "wikilink")担当のコーナーは、[斉木しげる](../Page/斉木しげる.md "wikilink")と[きたろう](../Page/きたろう.md "wikilink")のシュールネタと[大竹まこと](../Page/大竹まこと.md "wikilink")の型破りな行動などで人気を博した。また、第1部の『GOB1』以外の4コーナーは、視聴者から送られてきた[FAX](https://ja.wikipedia.org/wiki/ファクシミリ "wikilink")・[ハガキ](../Page/はがき.md "wikilink")・[家庭用ビデオなどを元に進行していた](../Page/8ミリビデオ.md "wikilink")。投稿者に贈られる[ステッカーは](../Page/シール.md "wikilink")、採用されたネタの内容によって色や柄に違いがあり、金色や銀色の番組ステッカーを何枚か貯めると[日本ビクター](../Page/日本ビクター.md "wikilink")製の[ビデオカメラなどが贈られた](../Page/カムコーダ.md "wikilink")。
 
 番組タイトルや進行上では『GOB』（5部）としていたが、実際には中断という形で途中挿入されていた『[読売新聞あすの朝刊](../Page/読売新聞ニュース.md "wikilink")』を境とする2部構成であった。
 
@@ -17,18 +17,18 @@
 
 ### サポートMC
 
-  - [千葉美加](https://ja.wikipedia.org/wiki/千葉美加 "wikilink")
+  - [千葉美加](../Page/千葉美加.md "wikilink")
   - [加藤美樹](../Page/加藤美樹_\(ディスクジョッキー\).md "wikilink")
-  - [中島宏海](https://ja.wikipedia.org/wiki/中島宏海 "wikilink")
+  - [中島宏海](../Page/中島宏海.md "wikilink")
   - [冨永みーな](../Page/冨永みーな.md "wikilink")
 
 ### その他の主な出演者
 
-  - [宮尾すすむ](https://ja.wikipedia.org/wiki/宮尾すすむ "wikilink")
-  - [大竹まこと](https://ja.wikipedia.org/wiki/大竹まこと "wikilink")（[シティボーイズ](https://ja.wikipedia.org/wiki/シティボーイズ "wikilink")）
-  - [斉木しげる](https://ja.wikipedia.org/wiki/斉木しげる "wikilink")（シティボーイズ）
-  - [きたろう](https://ja.wikipedia.org/wiki/きたろう "wikilink")（シティボーイズ）
-  - [武見敬三](https://ja.wikipedia.org/wiki/武見敬三 "wikilink") - 『GOB3』の準レギュラー。
+  - [宮尾すすむ](../Page/宮尾すすむ.md "wikilink")
+  - [大竹まこと](../Page/大竹まこと.md "wikilink")（[シティボーイズ](../Page/シティボーイズ.md "wikilink")）
+  - [斉木しげる](../Page/斉木しげる.md "wikilink")（シティボーイズ）
+  - [きたろう](../Page/きたろう.md "wikilink")（シティボーイズ）
+  - [武見敬三](../Page/武見敬三.md "wikilink") - 『GOB3』の準レギュラー。
   - [福澤朗](../Page/福澤朗.md "wikilink")（当時日本テレビアナウンサー） - 『GOB3』の準レギュラー。
   - [小林完吾](../Page/小林完吾.md "wikilink")（当時日本テレビアナウンサー） - 『読売新聞あすの朝刊』担当。
   - [兵藤ゆき](../Page/兵藤ゆき.md "wikilink") - 「加藤たね」役で出演。
@@ -41,7 +41,7 @@
   - GOB1 宮尾すすむの社長のお嬢さん
     担当：宮尾すすむ
     サポートMC：中島宏海
-    宮尾が毎回会社社長の一人娘を取材するコーナー。当時彼が[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")の『[モーニングショー](../Page/モーニングショー.md "wikilink")』で担当していた「宮尾すすむのああ日本の社長」のパロディコーナーである。
+    宮尾が毎回会社社長の一人娘を取材するコーナー。当時彼が[テレビ朝日](../Page/テレビ朝日.md "wikilink")の『[モーニングショー](../Page/モーニングショー.md "wikilink")』で担当していた「宮尾すすむのああ日本の社長」のパロディコーナーである。
   - GOB2 シティボーイズのエジソンのくずかご
     担当：シティボーイズ
     サポートMC：千葉美加

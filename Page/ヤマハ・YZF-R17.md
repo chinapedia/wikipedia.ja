@@ -1,11 +1,11 @@
 > この記事は[YZF-R17](https://ja.wikipedia.org/wiki/YZF-R17)から翻訳されています。
 
 
-**クラブ-ヤマハ・YZF-R17**（ワイゼットエフ-アールじゅうなな）は、SUGOのYZF-R17キットを装着したYZF-R7の車体に[YZF-R1](https://ja.wikipedia.org/wiki/YZF-R1 "wikilink")のエンジンを換装した、[鈴鹿8時間耐久ロードレース](https://ja.wikipedia.org/wiki/鈴鹿8時間耐久ロードレース "wikilink")のXX-FおよびDiv.1クラス（共に当時）への参戦用の[大型自動二輪](https://ja.wikipedia.org/wiki/大型自動二輪 "wikilink")[レーサー](https://ja.wikipedia.org/wiki/レーサー "wikilink")（競技用車両）である。
+**クラブ-ヤマハ・YZF-R17**（ワイゼットエフ-アールじゅうなな）は、SUGOのYZF-R17キットを装着したYZF-R7の車体に[YZF-R1](https://ja.wikipedia.org/wiki/YZF-R1 "wikilink")のエンジンを換装した、[鈴鹿8時間耐久ロードレース](../Page/鈴鹿8時間耐久ロードレース.md "wikilink")のXX-FおよびDiv.1クラス（共に当時）への参戦用の[大型自動二輪](https://ja.wikipedia.org/wiki/大型自動二輪 "wikilink")[レーサー](https://ja.wikipedia.org/wiki/レーサー "wikilink")（競技用車両）である。
 
 ## 概要
 
-YZF-R17は、改造範囲無制限のXX-FおよびDiv.1クラスのために、[YZF-R7の車体に](../Page/ヤマハ・YZF-R7.md "wikilink")[YZF-R1の](https://ja.wikipedia.org/wiki/ヤマハ・YZF-R1 "wikilink")[エンジン](../Page/エンジン.md "wikilink")を搭載して製作された。当時のYZF-R1はスーパーバイク対応のフレームではなかったため、このような構成を選ぶヤマハ系のチームがいくつか存在した。エンジンも様々な年式のものが存在した。2004年式以降のYZF-R1(5VY)以降がスーパーバイク対応のフレームとなりXX-Fクラスもなくなったため姿を消した。
+YZF-R17は、改造範囲無制限のXX-FおよびDiv.1クラスのために、[YZF-R7の車体に](../Page/ヤマハ・YZF-R7.md "wikilink")[YZF-R1の](../Page/ヤマハ・YZF-R1.md "wikilink")[エンジン](../Page/エンジン.md "wikilink")を搭載して製作された。当時のYZF-R1はスーパーバイク対応のフレームではなかったため、このような構成を選ぶヤマハ系のチームがいくつか存在した。エンジンも様々な年式のものが存在した。2004年式以降のYZF-R1(5VY)以降がスーパーバイク対応のフレームとなりXX-Fクラスもなくなったため姿を消した。
 
 ## 諸元
 

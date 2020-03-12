@@ -5,9 +5,9 @@
 
 ## 解説
 
-[1993年](../Page/1993年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")に[エピックレコーズよりリリースされた](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")。[1996年](../Page/1996年.md "wikilink")には[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[めちゃ<sup>2</sup>イケてるッ\!](https://ja.wikipedia.org/wiki/めちゃ×2イケてるッ! "wikilink")』の初代エンディングテーマとして使用され、その後[2018年](../Page/2018年.md "wikilink")放送分のエンディングテーマとして使用された（[3月3日](../Page/3月3日.md "wikilink")放送分を除く。また、[同31日はオープニングで使用された](../Page/3月31日.md "wikilink")）。
+[1993年](../Page/1993年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")に[エピックレコーズよりリリースされた](../Page/エピックレコードジャパン.md "wikilink")。[1996年](../Page/1996年.md "wikilink")には[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[めちゃ<sup>2</sup>イケてるッ\!](../Page/めちゃ×2イケてるッ!.md "wikilink")』の初代エンディングテーマとして使用され、その後[2018年](../Page/2018年.md "wikilink")放送分のエンディングテーマとして使用された（[3月3日](../Page/3月3日.md "wikilink")放送分を除く。また、[同31日はオープニングで使用された](../Page/3月31日.md "wikilink")）。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")には、映画『[シムソンズ](https://ja.wikipedia.org/wiki/シムソンズ_\(映画\) "wikilink")』の主題歌として使われる。JUDY AND MARYのシングルのうち、唯一[オリコンTOP](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")100入りを逃している。[調](https://ja.wikipedia.org/wiki/調 "wikilink")は[ト長調](https://ja.wikipedia.org/wiki/ト長調 "wikilink")\[1\]。
+[2006年](../Page/2006年.md "wikilink")には、映画『[シムソンズ](../Page/シムソンズ_\(映画\).md "wikilink")』の主題歌として使われる。JUDY AND MARYのシングルのうち、唯一[オリコンTOP](../Page/オリコンチャート.md "wikilink")100入りを逃している。[調](https://ja.wikipedia.org/wiki/調 "wikilink")は[ト長調](https://ja.wikipedia.org/wiki/ト長調 "wikilink")\[1\]。
 
 ## 収録曲
 
@@ -15,15 +15,15 @@
 2.  **LOLITA A-GO-GO** (2:43)
 3.  **BLUE TEARS (backing track)** (3:21)
 
-全曲　作詞：[YUKI](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")　作曲：[恩田快人](https://ja.wikipedia.org/wiki/恩田快人 "wikilink")　編曲：JUDY AND MARY
+全曲　作詞：[YUKI](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")　作曲：[恩田快人](../Page/恩田快人.md "wikilink")　編曲：JUDY AND MARY
 
 ## 収録アルバム
 
   - [BE AMBITIOUS](https://ja.wikipedia.org/wiki/BE_AMBITIOUS "wikilink") (\#1、原曲)
   - [J・A・M](https://ja.wikipedia.org/wiki/J・A・M "wikilink") (\#1,2)
-  - [FRESH](https://ja.wikipedia.org/wiki/FRESH_\(アルバム\) "wikilink") (\#1)
-  - [The Great Escape -COMPLETE BEST-](https://ja.wikipedia.org/wiki/The_Great_Escape_-COMPLETE_BEST- "wikilink") (\#1)
-  - [COMPLETE BEST ALBUM「FRESH」](https://ja.wikipedia.org/wiki/COMPLETE_BEST_ALBUM「FRESH」 "wikilink") (\#1、吹雪の音が長い)
+  - [FRESH](../Page/FRESH_\(アルバム\).md "wikilink") (\#1)
+  - [The Great Escape -COMPLETE BEST-](../Page/The_Great_Escape_-COMPLETE_BEST-.md "wikilink") (\#1)
+  - [COMPLETE BEST ALBUM「FRESH」](../Page/COMPLETE_BEST_ALBUM「FRESH」.md "wikilink") (\#1、吹雪の音が長い)
 
 ## カバー
 

@@ -1,7 +1,7 @@
 > この記事は[Little circus](https://ja.wikipedia.org/wiki/Little_circus)から翻訳されています。
 
 
-『**little circus**』（リトル サーカス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")[SOPHIA](https://ja.wikipedia.org/wiki/SOPHIA "wikilink")の4枚目の[アルバム](../Page/アルバム.md "wikilink")。
+『**little circus**』（リトル サーカス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")[SOPHIA](../Page/SOPHIA.md "wikilink")の4枚目の[アルバム](../Page/アルバム.md "wikilink")。
 
 ## 概要
 
@@ -20,7 +20,7 @@
 9.  **Believe**
 10. **「　　　」**
 11. **[街](https://ja.wikipedia.org/wiki/街_\(Single_Version\) "wikilink")**
-      - プレイステーション用ソフト『[ブレス オブ ファイアIII](https://ja.wikipedia.org/wiki/ブレス_オブ_ファイアIII "wikilink")』TVCMソング。[ブレス オブ ファイアIII\#その他を参照](https://ja.wikipedia.org/wiki/ブレス_オブ_ファイアIII#その他 "wikilink")。
+      - プレイステーション用ソフト『[ブレス オブ ファイアIII](../Page/ブレス_オブ_ファイアIII.md "wikilink")』TVCMソング。[ブレス オブ ファイアIII\#その他を参照](https://ja.wikipedia.org/wiki/ブレス_オブ_ファイアIII#その他 "wikilink")。
 12. **CIRCUS**
 13. **CLIO'S BLUE**
 

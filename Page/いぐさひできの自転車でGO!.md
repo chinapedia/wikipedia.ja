@@ -1,15 +1,15 @@
 > この記事は[GO!](https://ja.wikipedia.org/wiki/GO!)から翻訳されています。
 
 
-**いぐさひできの自転車でGO\!**（いぐさひできのじてんしゃでゴー\!）は[福島県](../Page/福島県.md "wikilink")の[ローカル番組](https://ja.wikipedia.org/wiki/ローカル番組 "wikilink")「**[サタふく](https://ja.wikipedia.org/wiki/サタふく "wikilink")**」内で放送されたコーナーである。
+**いぐさひできの自転車でGO\!**（いぐさひできのじてんしゃでゴー\!）は[福島県](../Page/福島県.md "wikilink")の[ローカル番組](../Page/ローカル番組.md "wikilink")「**[サタふく](../Page/サタふく.md "wikilink")**」内で放送されたコーナーである。
 
 ## 概要
 
-[福島テレビ](../Page/福島テレビ.md "wikilink")（[フジテレビ系列](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）のアナウンサー（当時。コーナー終了後の2018年7月に制作部長に昇格）・[藺草英己](https://ja.wikipedia.org/wiki/藺草英己 "wikilink")が福島県内を[自転車](https://ja.wikipedia.org/wiki/自転車 "wikilink")で巡る企画。[2003年](../Page/2003年.md "wikilink")4月に「[サタふく](https://ja.wikipedia.org/wiki/サタふく "wikilink")」の1コーナーとして放送開始。以来この番組の看板的コーナーであった（稀に番組の半分程の時間を使うこともあった）。
+[福島テレビ](../Page/福島テレビ.md "wikilink")（[フジテレビ系列](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）のアナウンサー（当時。コーナー終了後の2018年7月に制作部長に昇格）・[藺草英己](../Page/藺草英己.md "wikilink")が福島県内を[自転車](https://ja.wikipedia.org/wiki/自転車 "wikilink")で巡る企画。[2003年](../Page/2003年.md "wikilink")4月に「[サタふく](../Page/サタふく.md "wikilink")」の1コーナーとして放送開始。以来この番組の看板的コーナーであった（稀に番組の半分程の時間を使うこともあった）。
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")には、今西太一作曲の番組オリジナルテーマソング「あの町へGO\!」が披露された。 福島県内を巡るのが主だが、[サイパン](https://ja.wikipedia.org/wiki/サイパン "wikilink")や[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")などを自転車で巡る回も放送されたことがある。
 
-[2011年](../Page/2011年.md "wikilink")1月にゴール・福島テレビ本社のある[福島市](../Page/福島市.md "wikilink")に入った。3月を以て全市町村巡回を終了し企画を終了する予定だったが、[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")（[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")）により以前に収録した映像の使用が困難になったため、4月放送分以降は特に[浜通り](https://ja.wikipedia.org/wiki/浜通り "wikilink")の津波被害に遭った過去の紹介者への再訪をメイン企画としていた。その後、[2012年](../Page/2012年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink")放送分から東日本大震災以前の収録映像の使用が改めて可能となり本来の自転車でGO\!が再開、[2月25日](../Page/2月25日.md "wikilink")放送分でゴールした。4月から第2シーズン放送開始。それに伴い自転車でGO\!2曲目となるオリジナルテーマソング「福島の人」が発表された。
+[2011年](../Page/2011年.md "wikilink")1月にゴール・福島テレビ本社のある[福島市](../Page/福島市.md "wikilink")に入った。3月を以て全市町村巡回を終了し企画を終了する予定だったが、[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")（[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")）により以前に収録した映像の使用が困難になったため、4月放送分以降は特に[浜通り](../Page/浜通り.md "wikilink")の津波被害に遭った過去の紹介者への再訪をメイン企画としていた。その後、[2012年](../Page/2012年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink")放送分から東日本大震災以前の収録映像の使用が改めて可能となり本来の自転車でGO\!が再開、[2月25日](../Page/2月25日.md "wikilink")放送分でゴールした。4月から第2シーズン放送開始。それに伴い自転車でGO\!2曲目となるオリジナルテーマソング「福島の人」が発表された。
 
 2018年3月、藺草の番組卒業に伴い、コーナー終了\[1\]\[2\]。
 
@@ -18,7 +18,7 @@
   - [徒歩](../Page/歩行.md "wikilink")・自転車での走行のみで移動を行なう。
   - 県境もしくは海岸つまり福島県の外周に出た場合、外周上ならばどこへでも移動することが出来る。
       - [いわき市](../Page/いわき市.md "wikilink")の海岸から[桧枝岐村](https://ja.wikipedia.org/wiki/桧枝岐村 "wikilink")の[尾瀬](../Page/尾瀬.md "wikilink")（[新潟県](../Page/新潟県.md "wikilink")・[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")・栃木県との県境）に移動する。
-      - 福島市（[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")・[山形県](https://ja.wikipedia.org/wiki/山形県 "wikilink")との県境）から[白河市](https://ja.wikipedia.org/wiki/白河市 "wikilink")（栃木県との県境）に移動する。
+      - 福島市（[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")・[山形県](../Page/山形県.md "wikilink")との県境）から[白河市](../Page/白河市.md "wikilink")（栃木県との県境）に移動する。
 
 ## 見どころ
 
@@ -27,9 +27,9 @@
 
 ## 日曜日も\!自転車でGO\!
 
-第1シーズンの再放送・ダイジェスト版として「**日曜日も\!自転車でGO\!**」（にちようびも\!じてんしゃでゴー\!）を2006年10月1日から2013年3月31日まで日曜9:30 - 9:45に放送。2013年4月7日から2014年9月28日まで日曜9:30 - 9:55と10分拡大し、タイトルも「**日曜日も\!自転車でGO\!てんこ盛り**」となったが、2014年10月5日からはタイトルを「**日曜日も\!自転車でGO\!カロリーオフ**」とさらに変更し、放送時間も日曜9:30 - 9:45と10分短縮となった。2015年3月29日をもって終了。最終回は『[ワイドナショー](https://ja.wikipedia.org/wiki/ワイドナショー "wikilink")』を休止させ11時15分までの放送とし、[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")（[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")）発生直前までの放送分と2012年1月21日放送分からゴールした2月25日放送分までを放送した。エンディングは第1シーズン初回の福島テレビ本社を出発するシーンで締めた。過去には[e2 by スカパー\!の](https://ja.wikipedia.org/wiki/e2_by_スカパー! "wikilink")[インターローカルTV](../Page/インターローカルTV.md "wikilink")（無料ch）でも放送されていた。番組は一貫して、『[サタふく](https://ja.wikipedia.org/wiki/サタふく "wikilink")』のスタジオセットや副調整室で藺草と[ディレクター](../Page/ディレクター.md "wikilink")（のちの[プロデューサー](../Page/プロデューサー.md "wikilink")。音声のみの出演。）、[ふくたん](https://ja.wikipedia.org/wiki/ふくたん "wikilink")（パペット。二人の喋りに相槌を打ったりリアクションをする。）が進行。番組冒頭、中盤、エンディングでその回を振り返りトークするものだった。初期の15分番組時代にはエンディングに「素朴な質問」を紹介するコーナーが設けられていた期間もあった。
+第1シーズンの再放送・ダイジェスト版として「**日曜日も\!自転車でGO\!**」（にちようびも\!じてんしゃでゴー\!）を2006年10月1日から2013年3月31日まで日曜9:30 - 9:45に放送。2013年4月7日から2014年9月28日まで日曜9:30 - 9:55と10分拡大し、タイトルも「**日曜日も\!自転車でGO\!てんこ盛り**」となったが、2014年10月5日からはタイトルを「**日曜日も\!自転車でGO\!カロリーオフ**」とさらに変更し、放送時間も日曜9:30 - 9:45と10分短縮となった。2015年3月29日をもって終了。最終回は『[ワイドナショー](https://ja.wikipedia.org/wiki/ワイドナショー "wikilink")』を休止させ11時15分までの放送とし、[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")（[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")）発生直前までの放送分と2012年1月21日放送分からゴールした2月25日放送分までを放送した。エンディングは第1シーズン初回の福島テレビ本社を出発するシーンで締めた。過去には[e2 by スカパー\!の](https://ja.wikipedia.org/wiki/e2_by_スカパー! "wikilink")[インターローカルTV](../Page/インターローカルTV.md "wikilink")（無料ch）でも放送されていた。番組は一貫して、『[サタふく](../Page/サタふく.md "wikilink")』のスタジオセットや副調整室で藺草と[ディレクター](../Page/ディレクター.md "wikilink")（のちの[プロデューサー](../Page/プロデューサー.md "wikilink")。音声のみの出演。）、[ふくたん](../Page/ふくたん.md "wikilink")（パペット。二人の喋りに相槌を打ったりリアクションをする。）が進行。番組冒頭、中盤、エンディングでその回を振り返りトークするものだった。初期の15分番組時代にはエンディングに「素朴な質問」を紹介するコーナーが設けられていた期間もあった。
 
-2013年7月23日に、[フジテレビONE](https://ja.wikipedia.org/wiki/フジテレビONE "wikilink")にて放送された、『ローカルサンデー 〜ご当地の人気番組を見てみよう〜』にて、当番組の一部が放送された。 スタジオには、[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[男おばさん](https://ja.wikipedia.org/wiki/男おばさん "wikilink")（[軽部真一](../Page/軽部真一.md "wikilink")・[笠井信輔](../Page/笠井信輔.md "wikilink")）と、[藺草英己](https://ja.wikipedia.org/wiki/藺草英己 "wikilink")の3人で番組を進行した。
+2013年7月23日に、[フジテレビONE](https://ja.wikipedia.org/wiki/フジテレビONE "wikilink")にて放送された、『ローカルサンデー 〜ご当地の人気番組を見てみよう〜』にて、当番組の一部が放送された。 スタジオには、[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[男おばさん](../Page/男おばさん.md "wikilink")（[軽部真一](../Page/軽部真一.md "wikilink")・[笠井信輔](../Page/笠井信輔.md "wikilink")）と、[藺草英己](../Page/藺草英己.md "wikilink")の3人で番組を進行した。
 
 ## 脚注
 

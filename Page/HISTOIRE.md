@@ -1,7 +1,7 @@
 > この記事は[HISTOIRE](https://ja.wikipedia.org/wiki/HISTOIRE)から翻訳されています。
 
 
-『**HISTOIRE**』（イストワール）は、[岡村孝子](https://ja.wikipedia.org/wiki/岡村孝子 "wikilink")の初めての[シングル](../Page/シングル.md "wikilink")コレクション・アルバム。1994年11月23日発売。発売元は[ファンハウス](https://ja.wikipedia.org/wiki/BMG_JAPAN#ファンハウス "wikilink")（現・[ソニー・ミュージックレーベルズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\)#ソニー・ミュージックレーベルズ "wikilink")）。
+『**HISTOIRE**』（イストワール）は、[岡村孝子](../Page/岡村孝子.md "wikilink")の初めての[シングル](../Page/シングル.md "wikilink")コレクション・アルバム。1994年11月23日発売。発売元は[ファンハウス](https://ja.wikipedia.org/wiki/BMG_JAPAN#ファンハウス "wikilink")（現・[ソニー・ミュージックレーベルズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\)#ソニー・ミュージックレーベルズ "wikilink")）。
 
 ## 解説
 
@@ -29,13 +29,13 @@
 <!-- end list -->
 
   -
-    作詞・作曲：岡村孝子（M-12のみ作詞 [来生えつこ](https://ja.wikipedia.org/wiki/来生えつこ "wikilink")・作曲[来生たかお](https://ja.wikipedia.org/wiki/来生たかお "wikilink")）
-    編曲：海老原真二 M-1・2、[清水信之](https://ja.wikipedia.org/wiki/清水信之 "wikilink") M-3・5、[萩田光雄](https://ja.wikipedia.org/wiki/萩田光雄 "wikilink") M-4・8・10・13・14、[田代修二](https://ja.wikipedia.org/wiki/田代修二 "wikilink") M-6・7・9・11、[船山基紀](https://ja.wikipedia.org/wiki/船山基紀 "wikilink") M-12
+    作詞・作曲：岡村孝子（M-12のみ作詞 [来生えつこ](../Page/来生えつこ.md "wikilink")・作曲[来生たかお](https://ja.wikipedia.org/wiki/来生たかお "wikilink")）
+    編曲：海老原真二 M-1・2、[清水信之](../Page/清水信之.md "wikilink") M-3・5、[萩田光雄](../Page/萩田光雄.md "wikilink") M-4・8・10・13・14、[田代修二](https://ja.wikipedia.org/wiki/田代修二 "wikilink") M-6・7・9・11、[船山基紀](../Page/船山基紀.md "wikilink") M-12
 
 ## 関連作品
 
-  - ベスト盤『[DO MY BEST](https://ja.wikipedia.org/wiki/DO_MY_BEST "wikilink")』
-  - ベスト盤『[TOY BOX](https://ja.wikipedia.org/wiki/TOY_BOX_\(岡村孝子のアルバム\) "wikilink")』
+  - ベスト盤『[DO MY BEST](../Page/DO_MY_BEST.md "wikilink")』
+  - ベスト盤『[TOY BOX](../Page/TOY_BOX_\(岡村孝子のアルバム\).md "wikilink")』
   - 非公式ベスト盤『[夢をあきらめないで](../Page/夢をあきらめないで_\(アルバム\).md "wikilink")』
   - 非公式ベスト盤『[夢見る頃を過ぎても](../Page/夢見る頃を過ぎても_\(岡村孝子のアルバム\).md "wikilink")』
   - 非公式ベスト盤『[岡村孝子ベスト SUPER BEST 2000](../Page/岡村孝子ベスト_SUPER_BEST_2000.md "wikilink")』

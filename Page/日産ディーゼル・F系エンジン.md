@@ -1,11 +1,11 @@
 > この記事は[F](https://ja.wikipedia.org/wiki/F)から翻訳されています。
 
 
-**日産ディーゼル・F系エンジン**とは、[UDトラックス](https://ja.wikipedia.org/wiki/UDトラックス "wikilink")（旧:日産ディーゼル）が1980年から生産している[水冷](https://ja.wikipedia.org/wiki/水冷 "wikilink")[4ストローク](https://ja.wikipedia.org/wiki/4ストローク "wikilink")・[直列6気筒](https://ja.wikipedia.org/wiki/直列6気筒 "wikilink")[OHV](https://ja.wikipedia.org/wiki/OHV "wikilink")のディーゼルエンジンである。日産ディーゼル製の中型及び大型[トラック](../Page/貨物自動車.md "wikilink")・[バス](https://ja.wikipedia.org/wiki/バス_\(車両\) "wikilink")・小型艇（[モーターボート](https://ja.wikipedia.org/wiki/モーターボート "wikilink")）に搭載されている。
+**日産ディーゼル・F系エンジン**とは、[UDトラックス](https://ja.wikipedia.org/wiki/UDトラックス "wikilink")（旧:日産ディーゼル）が1980年から生産している[水冷](../Page/水冷.md "wikilink")[4ストローク](https://ja.wikipedia.org/wiki/4ストローク "wikilink")・[直列6気筒](../Page/直列6気筒.md "wikilink")[OHV](../Page/OHV.md "wikilink")のディーゼルエンジンである。日産ディーゼル製の中型及び大型[トラック](../Page/貨物自動車.md "wikilink")・[バス](https://ja.wikipedia.org/wiki/バス_\(車両\) "wikilink")・小型艇（[モーターボート](../Page/モーターボート.md "wikilink")）に搭載されている。
 
 ## シリーズの解説
 
-  - F系最初のエンジンであるFD6型（直接噴射式）は、まずターボ吸気のFD6T型(170PS)が1975年より発売されていた[初代コンドル（通称UDコンドル）に搭載された](https://ja.wikipedia.org/wiki/UD・コンドル "wikilink")。その後、自然吸気のFD6型(150PS)が初代コンドル・[RM90系中型バスに搭載されていたED](https://ja.wikipedia.org/wiki/日産ディーゼル・スペースランナーRM "wikilink")6型エンジン（渦流室式、150PS）にかわって開発され、1979年に[コンドルと](https://ja.wikipedia.org/wiki/UD・コンドル "wikilink")[K-RM80系中型バスに搭載されて発売された](https://ja.wikipedia.org/wiki/日産ディーゼル・スペースランナーRM "wikilink")。同時にターボ吸気のFD6T型は175PSになった。ED6型、FD6型は共に総排気量は5,654ccである。1983年にフルモデルチェンジした2代目の「さわやかコンドル」では昭和58年規制に適合して採用された（性能は変更なし）。
+  - F系最初のエンジンであるFD6型（直接噴射式）は、まずターボ吸気のFD6T型(170PS)が1975年より発売されていた[初代コンドル（通称UDコンドル）に搭載された](../Page/UD・コンドル.md "wikilink")。その後、自然吸気のFD6型(150PS)が初代コンドル・[RM90系中型バスに搭載されていたED](../Page/日産ディーゼル・スペースランナーRM.md "wikilink")6型エンジン（渦流室式、150PS）にかわって開発され、1979年に[コンドルと](../Page/UD・コンドル.md "wikilink")[K-RM80系中型バスに搭載されて発売された](../Page/日産ディーゼル・スペースランナーRM.md "wikilink")。同時にターボ吸気のFD6T型は175PSになった。ED6型、FD6型は共に総排気量は5,654ccである。1983年にフルモデルチェンジした2代目の「さわやかコンドル」では昭和58年規制に適合して採用された（性能は変更なし）。
   - 1984年のモデルチェンジではコンドルと中型バスRMに搭載されるエンジンが変更になり、新開発のFE6型となった。このFE6型エンジンはF系の生産終了まで21年間の長きに渡って生産されることになる。総排気量は6,925ccで、FD6型より大幅にアップしている。自然吸気のFE6A型(160PS)とFE6B型(180PS)、ターボ吸気のFE6T型(200PS)の3種類がラインアップされ、2代目コンドル(通称コンドル・ザ・パワー)に搭載された。1986年のマイナーチェンジと同時にインタークーラー付ターボのFE6TA型(230PS)が追加された。バス向けには自然吸気のFE6型(180PS、FE6Bと実質的に同型)が用意され、P-RM81系に搭載された。1986年には大型ショート系の路線バス[P-RP80系が](../Page/日産ディーゼル・スペースランナーRP.md "wikilink")、1988年には[西日本車体工業](../Page/西日本車体工業.md "wikilink")製のボディを架装したP-RB80系が登場。同じFE6型エンジンを搭載した。また、P-RM81型、P-RB80型にはハイデッカーの観光型がラインアップされ、ターボ吸気のFE6T型(200PS)が搭載された。
 
 <!-- end list -->
@@ -30,7 +30,7 @@
 
 <!-- end list -->
 
-  - 2001年、日産ディーゼルは新型の大型トラック[クオン及び](https://ja.wikipedia.org/wiki/UD・クオン "wikilink")、[尿素SCRシステム](https://ja.wikipedia.org/wiki/尿素SCRシステム "wikilink")「FLENDS」開発のため、KK-/KL-規制に続く新短期排出ガス規制対応中型エンジンの開発を断念。[日野自動車](../Page/日野自動車.md "wikilink")から中型クラスエンジンのOEM供給を受ける事に合意した。
+  - 2001年、日産ディーゼルは新型の大型トラック[クオン及び](../Page/UD・クオン.md "wikilink")、[尿素SCRシステム](../Page/尿素SCRシステム.md "wikilink")「FLENDS」開発のため、KK-/KL-規制に続く新短期排出ガス規制対応中型エンジンの開発を断念。[日野自動車](../Page/日野自動車.md "wikilink")から中型クラスエンジンのOEM供給を受ける事に合意した。
 
 <!-- end list -->
 
@@ -67,7 +67,7 @@
 
 <!-- end list -->
 
-  - [日産ディーゼル・K-RM80系](https://ja.wikipedia.org/wiki/日産ディーゼル・スペースランナーRM "wikilink")
+  - [日産ディーゼル・K-RM80系](../Page/日産ディーゼル・スペースランナーRM.md "wikilink")
 
 <!-- end list -->
 
@@ -75,11 +75,11 @@
 
 <!-- end list -->
 
-  - [日産ディーゼル・P-RM81系](https://ja.wikipedia.org/wiki/日産ディーゼル・スペースランナーRM "wikilink")
-  - [日産ディーゼル・P-RB80系](https://ja.wikipedia.org/wiki/日産ディーゼル・スペースランナーRM "wikilink")
+  - [日産ディーゼル・P-RM81系](../Page/日産ディーゼル・スペースランナーRM.md "wikilink")
+  - [日産ディーゼル・P-RB80系](../Page/日産ディーゼル・スペースランナーRM.md "wikilink")
   - [日産ディーゼル・P-RP80系](../Page/日産ディーゼル・スペースランナーRP.md "wikilink")
-  - [日産ディーゼル・U-RM210系](https://ja.wikipedia.org/wiki/日産ディーゼル・スペースランナーRM "wikilink")
-  - [日産ディーゼル・U-JM210系](https://ja.wikipedia.org/wiki/日産ディーゼル・スペースランナーRM "wikilink")
+  - [日産ディーゼル・U-RM210系](../Page/日産ディーゼル・スペースランナーRM.md "wikilink")
+  - [日産ディーゼル・U-JM210系](../Page/日産ディーゼル・スペースランナーRM.md "wikilink")
   - [日産ディーゼル・U-RP210系](../Page/日産ディーゼル・スペースランナーRP.md "wikilink")
 
 <!-- end list -->
@@ -89,8 +89,8 @@
 <!-- end list -->
 
   - [日産ディーゼル・KC-RN210系](https://ja.wikipedia.org/wiki/日産ディーゼル・RN/EN "wikilink")
-  - [日産ディーゼル・KC-RM211系](https://ja.wikipedia.org/wiki/日産ディーゼル・スペースランナーRM "wikilink")
-  - [日産ディーゼル・KC-RP211系](https://ja.wikipedia.org/wiki/日産ディーゼル・スペースランナーRM "wikilink")
+  - [日産ディーゼル・KC-RM211系](../Page/日産ディーゼル・スペースランナーRM.md "wikilink")
+  - [日産ディーゼル・KC-RP211系](../Page/日産ディーゼル・スペースランナーRM.md "wikilink")
 
 <!-- end list -->
 
@@ -99,7 +99,7 @@
 <!-- end list -->
 
   - [日産ディーゼル・KK-RN252系](https://ja.wikipedia.org/wiki/日産ディーゼル・RN/EN "wikilink")
-  - [日産ディーゼル・KK-RM252系](https://ja.wikipedia.org/wiki/日産ディーゼル・スペースランナーRM "wikilink")
+  - [日産ディーゼル・KK-RM252系](../Page/日産ディーゼル・スペースランナーRM.md "wikilink")
 
 <!-- end list -->
 
@@ -107,11 +107,11 @@
 
 <!-- end list -->
 
-  - [日産ディーゼル・P-RM81系(観光・自家用タイプ)](https://ja.wikipedia.org/wiki/日産ディーゼル・スペースランナーRM "wikilink")
-  - [日産ディーゼル・P-RB80系(観光・自家用タイプ)](https://ja.wikipedia.org/wiki/日産ディーゼル・スペースランナーRM "wikilink")
-  - [日産ディーゼル・U-RM210系(観光・自家用タイプ)](https://ja.wikipedia.org/wiki/日産ディーゼル・スペースランナーRM "wikilink")
-  - [日産ディーゼル・U-JM210系(観光・自家用タイプ)](https://ja.wikipedia.org/wiki/日産ディーゼル・スペースランナーRM "wikilink")
-  - [日産ディーゼル・U-JP211NTN](https://ja.wikipedia.org/wiki/日産ディーゼル・スペースランナーJP "wikilink")
+  - [日産ディーゼル・P-RM81系(観光・自家用タイプ)](../Page/日産ディーゼル・スペースランナーRM.md "wikilink")
+  - [日産ディーゼル・P-RB80系(観光・自家用タイプ)](../Page/日産ディーゼル・スペースランナーRM.md "wikilink")
+  - [日産ディーゼル・U-RM210系(観光・自家用タイプ)](../Page/日産ディーゼル・スペースランナーRM.md "wikilink")
+  - [日産ディーゼル・U-JM210系(観光・自家用タイプ)](../Page/日産ディーゼル・スペースランナーRM.md "wikilink")
+  - [日産ディーゼル・U-JP211NTN](../Page/日産ディーゼル・スペースランナーJP.md "wikilink")
   - [日産ディーゼル・U-RP210系(路線タイプ)](../Page/日産ディーゼル・スペースランナーRP.md "wikilink")
 
 <!-- end list -->
@@ -123,13 +123,13 @@
   - [日産ディーゼル・U-EN210DAN](https://ja.wikipedia.org/wiki/日産ディーゼル・RN/EN "wikilink")
   - [日産ディーゼル・U-RP210FBN](../Page/日産ディーゼル・スペースランナーRP.md "wikilink")
   - [日産ディーゼル・KC-EN250DAN](https://ja.wikipedia.org/wiki/日産ディーゼル・RN/EN "wikilink")
-  - [日産ディーゼル・KC-RM250系](https://ja.wikipedia.org/wiki/日産ディーゼル・スペースランナーRM "wikilink")
-  - [日産ディーゼル・KC-JP250NTN](https://ja.wikipedia.org/wiki/日産ディーゼル・スペースランナーJP "wikilink")
+  - [日産ディーゼル・KC-RM250系](../Page/日産ディーゼル・スペースランナーRM.md "wikilink")
+  - [日産ディーゼル・KC-JP250NTN](../Page/日産ディーゼル・スペースランナーJP.md "wikilink")
   - [日産ディーゼル・KC-RP250GAN](../Page/日産ディーゼル・スペースランナーRP.md "wikilink")
   - [日産ディーゼル・KK-EN252DAN](https://ja.wikipedia.org/wiki/日産ディーゼル・RN/EN "wikilink")
-  - [日産ディーゼル・KK-RM252系](https://ja.wikipedia.org/wiki/日産ディーゼル・スペースランナーRM "wikilink")
-  - [日産ディーゼル・KK-JM252系](https://ja.wikipedia.org/wiki/日産ディーゼル・スペースランナーRM "wikilink")
-  - [日産ディーゼル・KL-JP252系](https://ja.wikipedia.org/wiki/日産ディーゼル・スペースランナーJP "wikilink")
+  - [日産ディーゼル・KK-RM252系](../Page/日産ディーゼル・スペースランナーRM.md "wikilink")
+  - [日産ディーゼル・KK-JM252系](../Page/日産ディーゼル・スペースランナーRM.md "wikilink")
+  - [日産ディーゼル・KL-JP252系](../Page/日産ディーゼル・スペースランナーJP.md "wikilink")
   - [日産ディーゼル・KL-RP252系(路線タイプ)](../Page/日産ディーゼル・スペースランナーRP.md "wikilink")
 
 <!-- end list -->
@@ -143,11 +143,11 @@
 
 <!-- end list -->
 
-  - FU6型（[CNGエンジン](https://ja.wikipedia.org/wiki/天然ガス自動車 "wikilink")）
+  - FU6型（[CNGエンジン](../Page/天然ガス自動車.md "wikilink")）
 
 <!-- end list -->
 
-  - [日産ディーゼル・KK-RM252系(改)](https://ja.wikipedia.org/wiki/日産ディーゼル・スペースランナーRM "wikilink")
+  - [日産ディーゼル・KK-RM252系(改)](../Page/日産ディーゼル・スペースランナーRM.md "wikilink")
 
 ### トラック
 
@@ -155,7 +155,7 @@
 
 <!-- end list -->
 
-  - [初代コンドル(CM90系)](https://ja.wikipedia.org/wiki/UD・コンドル "wikilink")
+  - [初代コンドル(CM90系)](../Page/UD・コンドル.md "wikilink")
 
 <!-- end list -->
 
@@ -163,7 +163,7 @@
 
 <!-- end list -->
 
-  - [初代コンドル(CM80・85・86系)](https://ja.wikipedia.org/wiki/UD・コンドル "wikilink")
+  - [初代コンドル(CM80・85・86系)](../Page/UD・コンドル.md "wikilink")
 
 <!-- end list -->
 
@@ -171,7 +171,7 @@
 
 <!-- end list -->
 
-  - [2代目コンドル(CM/CL/CP87・88・89系)](https://ja.wikipedia.org/wiki/UD・コンドル "wikilink")
+  - [2代目コンドル(CM/CL/CP87・88・89系)](../Page/UD・コンドル.md "wikilink")
 
 <!-- end list -->
 
@@ -179,7 +179,7 @@
 
 <!-- end list -->
 
-  - [3代目コンドル(MK/LK/PK/PW210・211・250・251・252・25A系)](https://ja.wikipedia.org/wiki/UD・コンドル "wikilink")
+  - [3代目コンドル(MK/LK/PK/PW210・211・250・251・252・25A系)](../Page/UD・コンドル.md "wikilink")
 
 <!-- end list -->
 
@@ -187,8 +187,8 @@
 
 <!-- end list -->
 
-  - [UDトラックス・大型商用車シリーズ(UD60/70/80/86/90/95/100系)](https://ja.wikipedia.org/wiki/UD・コンドル "wikilink")※南アフリカ向け
-  - [UDトラックス・大型商用車シリーズ(PK215/PK245/PK260/CWA260系)](https://ja.wikipedia.org/wiki/UD・コンドル "wikilink")※インドネシア・オセアニア向け
+  - [UDトラックス・大型商用車シリーズ(UD60/70/80/86/90/95/100系)](../Page/UD・コンドル.md "wikilink")※南アフリカ向け
+  - [UDトラックス・大型商用車シリーズ(PK215/PK245/PK260/CWA260系)](../Page/UD・コンドル.md "wikilink")※インドネシア・オセアニア向け
 
 <!-- end list -->
 
@@ -196,16 +196,16 @@
 
 <!-- end list -->
 
-  - [UD3代目コンドル(NE-MK2B1・KK-MK/LK/PK252系(改)・KK-MK/LK/PK25A系(改)](https://ja.wikipedia.org/wiki/UD・コンドル "wikilink")
+  - [UD3代目コンドル(NE-MK2B1・KK-MK/LK/PK252系(改)・KK-MK/LK/PK25A系(改)](../Page/UD・コンドル.md "wikilink")
 
 ## 脚注
 
 ## 関連項目
 
   - [UDトラックス](https://ja.wikipedia.org/wiki/UDトラックス "wikilink")（旧:日産ディーゼル）
-  - [日産ディーゼル・スペースランナーRM](https://ja.wikipedia.org/wiki/日産ディーゼル・スペースランナーRM "wikilink")
+  - [日産ディーゼル・スペースランナーRM](../Page/日産ディーゼル・スペースランナーRM.md "wikilink")
   - [日産ディーゼル・RN/EN](https://ja.wikipedia.org/wiki/日産ディーゼル・RN/EN "wikilink")
-  - [日産ディーゼル・スペースランナーJP](https://ja.wikipedia.org/wiki/日産ディーゼル・スペースランナーJP "wikilink")
+  - [日産ディーゼル・スペースランナーJP](../Page/日産ディーゼル・スペースランナーJP.md "wikilink")
   - [日産ディーゼル・スペースランナーRP](../Page/日産ディーゼル・スペースランナーRP.md "wikilink")
   - [日産ディーゼル・P系エンジン](../Page/日産ディーゼル・P系エンジン.md "wikilink")
 

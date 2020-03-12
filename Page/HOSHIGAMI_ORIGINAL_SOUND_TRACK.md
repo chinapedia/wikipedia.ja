@@ -1,12 +1,12 @@
 > この記事は[HOSHIGAMI ORIGINAL SOUND TRACK](https://ja.wikipedia.org/wiki/HOSHIGAMI_ORIGINAL_SOUND_TRACK)から翻訳されています。
 
 
-**HOSHIGAMI ORIGINAL SOUND TRACK**（ホシガミ・オリジナル・サウンドトラック）は、[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用[ゲームソフト](../Page/ゲームソフト.md "wikilink")「[HOSHIGAMI](https://ja.wikipedia.org/wiki/HOSHIGAMI "wikilink")」の[サウンドトラック](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")盤。[2007年](../Page/2007年.md "wikilink")[8月24日](../Page/8月24日.md "wikilink")、[YELLOW TUNE TRACKS](../Page/YELLOW_TUNE_TRACKS.md "wikilink") ([CD](../Page/コンパクトディスク.md "wikilink"): YTTA-1001)よりリリースされた。
+**HOSHIGAMI ORIGINAL SOUND TRACK**（ホシガミ・オリジナル・サウンドトラック）は、[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用[ゲームソフト](../Page/ゲームソフト.md "wikilink")「[HOSHIGAMI](https://ja.wikipedia.org/wiki/HOSHIGAMI "wikilink")」の[サウンドトラック](../Page/サウンドトラック.md "wikilink")盤。[2007年](../Page/2007年.md "wikilink")[8月24日](../Page/8月24日.md "wikilink")、[YELLOW TUNE TRACKS](../Page/YELLOW_TUNE_TRACKS.md "wikilink") ([CD](../Page/コンパクトディスク.md "wikilink"): YTTA-1001)よりリリースされた。
 
 ## 解説
 
-  - [アークシステムワークス株式会社制作の](https://ja.wikipedia.org/wiki/アークシステムワークス_\(企業\) "wikilink")[シミュレーション](../Page/シミュレーション.md "wikilink")[ロールプレイングゲーム](../Page/ロールプレイングゲーム.md "wikilink")、[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用[ゲームソフト](../Page/ゲームソフト.md "wikilink")「[HOSHIGAMI](https://ja.wikipedia.org/wiki/HOSHIGAMI "wikilink")」の[サウンドトラック](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")盤。
-  - ゲーム発売から2ヵ月後に[サウンドトラック](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")盤が[2007年](../Page/2007年.md "wikilink")[8月24日](../Page/8月24日.md "wikilink")にリリースされた。なお、ゲーム発売日は[2007年](../Page/2007年.md "wikilink")[5月24日](../Page/5月24日.md "wikilink")であった。
+  - [アークシステムワークス株式会社制作の](https://ja.wikipedia.org/wiki/アークシステムワークス_\(企業\) "wikilink")[シミュレーション](../Page/シミュレーション.md "wikilink")[ロールプレイングゲーム](../Page/ロールプレイングゲーム.md "wikilink")、[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用[ゲームソフト](../Page/ゲームソフト.md "wikilink")「[HOSHIGAMI](https://ja.wikipedia.org/wiki/HOSHIGAMI "wikilink")」の[サウンドトラック](../Page/サウンドトラック.md "wikilink")盤。
+  - ゲーム発売から2ヵ月後に[サウンドトラック](../Page/サウンドトラック.md "wikilink")盤が[2007年](../Page/2007年.md "wikilink")[8月24日](../Page/8月24日.md "wikilink")にリリースされた。なお、ゲーム発売日は[2007年](../Page/2007年.md "wikilink")[5月24日](../Page/5月24日.md "wikilink")であった。
   - ブックレットには、同ゲームのストーリー紹介や、キャラクター紹介、音楽プロデュース/BGM作曲を手懸けた[末村謙之輔](../Page/末村謙之輔.md "wikilink")の略歴も収められている。
 
 ## 収録曲

@@ -1,22 +1,22 @@
 > この記事は[SHINGO](https://ja.wikipedia.org/wiki/SHINGO)から翻訳されています。
 
 
-**SHINGO★西成**（シンゴ にしなり、[1972年](../Page/1972年.md "wikilink")[5月9日](../Page/5月9日.md "wikilink")‐）は、[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](https://ja.wikipedia.org/wiki/大阪市 "wikilink")[西成区](../Page/西成区.md "wikilink")出身の[ヒップホップMCである](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。本名：**池上　真悟**（いけがみ　しんご）。
+**SHINGO★西成**（シンゴ にしなり、[1972年](../Page/1972年.md "wikilink")[5月9日](../Page/5月9日.md "wikilink")‐）は、[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[西成区](../Page/西成区.md "wikilink")出身の[ヒップホップMCである](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。本名：**池上　真悟**（いけがみ　しんご）。
 また、[ヒップホップ](../Page/ヒップホップ.md "wikilink")グループ・ULTRA NANIWATIC MC'Sの一員でもある。
 
 ## 来歴
 
-  - [1972年](../Page/1972年.md "wikilink")、[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")[釜ヶ崎](https://ja.wikipedia.org/wiki/釜ヶ崎 "wikilink")の三角公園近くの長屋で生まれ育つ。\[1\][大阪府立今宮高等学校](https://ja.wikipedia.org/wiki/大阪府立今宮高等学校 "wikilink")卒業。
-  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、[天理大学](https://ja.wikipedia.org/wiki/天理大学 "wikilink")卒業を控えた同年に発生した[阪神・淡路大震災](https://ja.wikipedia.org/wiki/阪神・淡路大震災 "wikilink")のボランティアを通して助け合いの大切さを感じたことにより、高齢者福祉施設に就職する。\[2\]
+  - [1972年](../Page/1972年.md "wikilink")、[大阪府](../Page/大阪府.md "wikilink")[釜ヶ崎](../Page/釜ヶ崎.md "wikilink")の三角公園近くの長屋で生まれ育つ。\[1\][大阪府立今宮高等学校](https://ja.wikipedia.org/wiki/大阪府立今宮高等学校 "wikilink")卒業。
+  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、[天理大学](../Page/天理大学.md "wikilink")卒業を控えた同年に発生した[阪神・淡路大震災](../Page/阪神・淡路大震災.md "wikilink")のボランティアを通して助け合いの大切さを感じたことにより、高齢者福祉施設に就職する。\[2\]
   - [1996年](../Page/1996年.md "wikilink")、ライブ活動を開始する。
   - [2002年](../Page/2002年.md "wikilink")、ラップへの情熱を捨て切れず、西成のおじさんの「人生を後悔するな」「今やりたいことをやれ」という言葉の後押しを受け施設を退職し、本格的にプロを目指す。\[3\]
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、シングル『ゲットーの歌です（こんなんどうです?）』を12インチで自主リリースする。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")、Libra Recordと契約し、1st[ミニアルバム](https://ja.wikipedia.org/wiki/ミニアルバム "wikilink")『Welcome To Ghetto』を発売。
-  - [2007年](../Page/2007年.md "wikilink")[4月11日](../Page/4月11日.md "wikilink")、[西成での](../Page/西成区.md "wikilink")「ILL西成BLUES (GEEK REMIX)」のPV撮影が産經新聞で取材され、[4月11日](../Page/4月11日.md "wikilink")発行の[産經新聞](https://ja.wikipedia.org/wiki/産經新聞 "wikilink")[夕刊](https://ja.wikipedia.org/wiki/夕刊 "wikilink")（西日本版）に掲載される。\[4\]
-  - [2007年](../Page/2007年.md "wikilink")[4月13日](../Page/4月13日.md "wikilink")、イントロの「SHINGO'S Diner」のサンプリング許可がおりず、発売が延期とされていた1st[フルアルバム](https://ja.wikipedia.org/wiki/フルアルバム "wikilink")『Sprout』を発売。このアルバムが[KREVA](https://ja.wikipedia.org/wiki/KREVA "wikilink")に評価され、[KREVA](https://ja.wikipedia.org/wiki/KREVA "wikilink")のアルバム『[よろしくお願いします](../Page/よろしくお願いします.md "wikilink")』に参加することになった。
+  - [2005年](../Page/2005年.md "wikilink")、シングル『ゲットーの歌です（こんなんどうです?）』を12インチで自主リリースする。
+  - [2006年](../Page/2006年.md "wikilink")、Libra Recordと契約し、1st[ミニアルバム](https://ja.wikipedia.org/wiki/ミニアルバム "wikilink")『Welcome To Ghetto』を発売。
+  - [2007年](../Page/2007年.md "wikilink")[4月11日](../Page/4月11日.md "wikilink")、[西成での](../Page/西成区.md "wikilink")「ILL西成BLUES (GEEK REMIX)」のPV撮影が産經新聞で取材され、[4月11日](../Page/4月11日.md "wikilink")発行の[産經新聞](https://ja.wikipedia.org/wiki/産經新聞 "wikilink")[夕刊](../Page/夕刊.md "wikilink")（西日本版）に掲載される。\[4\]
+  - [2007年](../Page/2007年.md "wikilink")[4月13日](../Page/4月13日.md "wikilink")、イントロの「SHINGO'S Diner」のサンプリング許可がおりず、発売が延期とされていた1st[フルアルバム](https://ja.wikipedia.org/wiki/フルアルバム "wikilink")『Sprout』を発売。このアルバムが[KREVA](../Page/KREVA.md "wikilink")に評価され、[KREVA](../Page/KREVA.md "wikilink")のアルバム『[よろしくお願いします](../Page/よろしくお願いします.md "wikilink")』に参加することになった。
   - [2007年](../Page/2007年.md "wikilink")[5月8日](../Page/5月8日.md "wikilink")、両A面シングル『ILL西成BLUES (GEEK REMIX) / ゲットーの歌です。（こんなんどうDEATH\!?） ([Bach Logic](https://ja.wikipedia.org/wiki/Bach_Logic "wikilink") Remix)』を500枚限定で発売。
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月27日](../Page/3月27日.md "wikilink")、[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")[夕刊](https://ja.wikipedia.org/wiki/夕刊 "wikilink")に「[釜ヶ崎](https://ja.wikipedia.org/wiki/釜ヶ崎 "wikilink")発　魂のラップ」として彼を特集した記事が掲載される。\[5\]
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月18日](../Page/4月18日.md "wikilink")、[MSCのPRIMALと鉄板BOYZを結成](https://ja.wikipedia.org/wiki/MSC_\(音楽グループ\) "wikilink")。シングル『鉄板BOYZ』を発売。\[6\]
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月27日](../Page/3月27日.md "wikilink")、[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")[夕刊](../Page/夕刊.md "wikilink")に「[釜ヶ崎](../Page/釜ヶ崎.md "wikilink")発　魂のラップ」として彼を特集した記事が掲載される。\[5\]
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月18日](../Page/4月18日.md "wikilink")、[MSCのPRIMALと鉄板BOYZを結成](../Page/MSC_\(音楽グループ\).md "wikilink")。シングル『鉄板BOYZ』を発売。\[6\]
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[11月10日](../Page/11月10日.md "wikilink")、[般若の昭和レコードに移籍し](https://ja.wikipedia.org/wiki/般若_\(ミュージシャン\) "wikilink")、2ndアルバム『I・N・G』を発売。
   - [2011年](../Page/2011年.md "wikilink")[3月4日](../Page/3月4日.md "wikilink")、地元・大阪の[通天閣](../Page/通天閣.md "wikilink")の真下で初のワンマンライブを行う。
   - [2011年](../Page/2011年.md "wikilink")[7月20日](../Page/7月20日.md "wikilink")、初のライブDVD『ワンマンライブ \~通天閣からコンニチハ\!\~』を発売。
@@ -24,7 +24,7 @@
   - [2013年](../Page/2013年.md "wikilink")[6月18日](../Page/6月18日.md "wikilink")、[NHK総合](https://ja.wikipedia.org/wiki/NHK総合 "wikilink")でSHINGO★西成を特集したドキュメンタリー番組「地方発 ドキュメンタリー「”西成”を歌うアーティスト」」が放送される。
   - [2013年](../Page/2013年.md "wikilink")[12月4日](../Page/12月4日.md "wikilink")、4thアルバム『おかげさまです。』を発売。
   - [2014年](../Page/2014年.md "wikilink")[8月6日](../Page/8月6日.md "wikilink")、これまでの客演仕事をまとめたMIX CD『ラガッ&ラパッ \~客演曲ほとんど\&REMIXちょい\~ ディジェッ by DJ FUKU』を発売。
-  - [2014年](../Page/2014年.md "wikilink")[11月28日](../Page/11月28日.md "wikilink")、3年ぶりに[なんばグランド花月](https://ja.wikipedia.org/wiki/なんばグランド花月 "wikilink")にてワンマンライブを開催。
+  - [2014年](../Page/2014年.md "wikilink")[11月28日](../Page/11月28日.md "wikilink")、3年ぶりに[なんばグランド花月](../Page/なんばグランド花月.md "wikilink")にてワンマンライブを開催。
   - [2017年](../Page/2017年.md "wikilink")[5月27日](../Page/5月27日.md "wikilink")、5thアルバム『
 
 ここから・・・いまから』を発売。
@@ -66,7 +66,7 @@ ULTRA NANIWATIC MC'S、鉄板BOYZ等のグループでの作品は除く
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/3月24日.md" title="wikilink">3月24日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/3月24日.md" title="wikilink">3月24日</a></p></td>
 <td><p><strong>Welcome To Ghetto</strong></p></td>
 <td><p>LIBCD-004</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -224,7 +224,7 @@ ULTRA NANIWATIC MC'S、鉄板BOYZ等のグループでの作品は除く
 <li>KICKS &amp; BANDANA</li>
 <li>東京 feat. <a href="https://ja.wikipedia.org/wiki/MINMI" title="wikilink">MINMI</a></li>
 <li>傷 feat. <a href="https://ja.wikipedia.org/wiki/般若_(ミュージシャン)" title="wikilink">般若</a></li>
-<li>イコイコ feat. <a href="https://ja.wikipedia.org/wiki/RYO_the_SKYWALKER" title="wikilink">RYO the SKYWALKER</a></li>
+<li>イコイコ feat. <a href="../Page/RYO_the_SKYWALKER.md" title="wikilink">RYO the SKYWALKER</a></li>
 <li>HOP STEP JUMP</li>
 <li>どや？</li>
 <li>めちゃめちゃCRAZY！</li>
@@ -288,7 +288,7 @@ ULTRA NANIWATIC MC'S、鉄板BOYZ等のグループでの作品は除く
 <!-- end list -->
 
   - Libra Compilation Album　『Libra Record -天秤録音-』　（2006年8月11日）
-  - [漢](https://ja.wikipedia.org/wiki/漢_\(ミュージシャン\) "wikilink"), PRIMAL, O2, メシアTHEフライ, [MEGA-G](https://ja.wikipedia.org/wiki/MEGA-G "wikilink"), 太華, SHINGO☆西成, SATUSSY, ERONE. HIDA, 志人　『[暴言](https://ja.wikipedia.org/wiki/証言_\(ヒップホップ\) "wikilink")』　（2006年8月11日）
+  - [漢](https://ja.wikipedia.org/wiki/漢_\(ミュージシャン\) "wikilink"), PRIMAL, O2, メシアTHEフライ, [MEGA-G](https://ja.wikipedia.org/wiki/MEGA-G "wikilink"), 太華, SHINGO☆西成, SATUSSY, ERONE. HIDA, 志人　『[暴言](../Page/証言_\(ヒップホップ\).md "wikilink")』　（2006年8月11日）
   - SEVEN SAMURAI　「みなさん、ごきげんよう」（2006年8月23日）
   - [サイプレス上野とロベルト吉野](https://ja.wikipedia.org/wiki/サイプレス上野とロベルト吉野 "wikilink")、『ドリーム』（2007年1月26日）
 
@@ -299,7 +299,7 @@ ULTRA NANIWATIC MC'S、鉄板BOYZ等のグループでの作品は除く
 
 <!-- end list -->
 
-  - [Romancrew](https://ja.wikipedia.org/wiki/Romancrew "wikilink")　『THE BEGINNING』（2007年2月7日）
+  - [Romancrew](../Page/Romancrew.md "wikilink")　『THE BEGINNING』（2007年2月7日）
 
 <!-- end list -->
 
@@ -335,12 +335,12 @@ ULTRA NANIWATIC MC'S、鉄板BOYZ等のグループでの作品は除く
 
 <!-- end list -->
 
-  - [KREVA](https://ja.wikipedia.org/wiki/KREVA "wikilink")　『[よろしくお願いします](../Page/よろしくお願いします.md "wikilink")』（2007年9月5日）
+  - [KREVA](../Page/KREVA.md "wikilink")　『[よろしくお願いします](../Page/よろしくお願いします.md "wikilink")』（2007年9月5日）
 
 <!-- end list -->
 
   -
-    16\.[アグレッシ部](../Page/アグレッシ部.md "wikilink")(Remix) feat. [KOHEI JAPAN](https://ja.wikipedia.org/wiki/KOHEI_JAPAN "wikilink") & SHINGO☆西成
+    16\.[アグレッシ部](../Page/アグレッシ部.md "wikilink")(Remix) feat. [KOHEI JAPAN](../Page/KOHEI_JAPAN.md "wikilink") & SHINGO☆西成
 
 <!-- end list -->
 
@@ -367,7 +367,7 @@ ULTRA NANIWATIC MC'S、鉄板BOYZ等のグループでの作品は除く
 <!-- end list -->
 
   -
-    5.二人の新世界 ([大西ユカリ](https://ja.wikipedia.org/wiki/大西ユカリ "wikilink") ＆ SHINGO☆西成)
+    5.二人の新世界 ([大西ユカリ](../Page/大西ユカリ.md "wikilink") ＆ SHINGO☆西成)
 
 <!-- end list -->
 
@@ -381,7 +381,7 @@ ULTRA NANIWATIC MC'S、鉄板BOYZ等のグループでの作品は除く
 
 <!-- end list -->
 
-  - [Shing02](https://ja.wikipedia.org/wiki/Shing02 "wikilink")　「[歪曲](https://ja.wikipedia.org/wiki/歪曲_\(アルバム\) "wikilink")」（2008年6月18日）
+  - [Shing02](../Page/Shing02.md "wikilink")　「[歪曲](https://ja.wikipedia.org/wiki/歪曲_\(アルバム\) "wikilink")」（2008年6月18日）
 
 <!-- end list -->
 
@@ -394,7 +394,7 @@ ULTRA NANIWATIC MC'S、鉄板BOYZ等のグループでの作品は除く
 
 <!-- end list -->
 
-  - [JAM KANE](https://ja.wikipedia.org/wiki/JAM_KANE "wikilink") 「Special Code」（2009年10月07日）
+  - [JAM KANE](../Page/JAM_KANE.md "wikilink") 「Special Code」（2009年10月07日）
 
 　 15.HANDS UP \!\!\!\! feat. SHINGO☆西成 and YOSHI and MINT and MOGGYY and YOUNGI and 小林 and yamane and 友
 
@@ -407,9 +407,9 @@ ULTRA NANIWATIC MC'S、鉄板BOYZ等のグループでの作品は除く
 
 <!-- end list -->
 
-  - [L-VOKAL](https://ja.wikipedia.org/wiki/L-VOKAL "wikilink")　「SHOCHU, ROOBEE, SAKE feat. SHINGO☆西成, [鎮座DOPENESS](https://ja.wikipedia.org/wiki/鎮座DOPENESS "wikilink")」　『麻天楼 〜秋場所〜』　（2010年6月9日）
-  - BOMBRUSH\!　「STAY STRONG feat. [NORIKIYO](https://ja.wikipedia.org/wiki/NORIKIYO "wikilink"), SHINGO★西成 & DAG FORCE」　（2010年11月17日）
-  - [MEGA-G](https://ja.wikipedia.org/wiki/MEGA-G "wikilink") & MUTA & 49　「耳ヲ貸スベキ Feat. SHINGO☆西成」　（[RHYMESTER](https://ja.wikipedia.org/wiki/RHYMESTER "wikilink")の代表曲カバー）　（2010年11月23日）
+  - [L-VOKAL](../Page/L-VOKAL.md "wikilink")　「SHOCHU, ROOBEE, SAKE feat. SHINGO☆西成, [鎮座DOPENESS](https://ja.wikipedia.org/wiki/鎮座DOPENESS "wikilink")」　『麻天楼 〜秋場所〜』　（2010年6月9日）
+  - BOMBRUSH\!　「STAY STRONG feat. [NORIKIYO](../Page/NORIKIYO.md "wikilink"), SHINGO★西成 & DAG FORCE」　（2010年11月17日）
+  - [MEGA-G](https://ja.wikipedia.org/wiki/MEGA-G "wikilink") & MUTA & 49　「耳ヲ貸スベキ Feat. SHINGO☆西成」　（[RHYMESTER](../Page/RHYMESTER.md "wikilink")の代表曲カバー）　（2010年11月23日）
   - 「WOOFIN' Presents "勝ちウタ" Mixed by DJ AGETETSU」（2011年1月1日）
 
 <!-- end list -->
@@ -579,7 +579,7 @@ ULTRA NANIWATIC MC'S、鉄板BOYZ等のグループでの作品は除く
 
 <!-- end list -->
 
-  - [バリバラ～障害者情報バラエティー～](https://ja.wikipedia.org/wiki/バリバラ〜障害者情報バラエティー〜 "wikilink")（2014年10月10日、[NHK教育](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")）
+  - [バリバラ～障害者情報バラエティー～](https://ja.wikipedia.org/wiki/バリバラ〜障害者情報バラエティー〜 "wikilink")（2014年10月10日、[NHK教育](../Page/NHK教育テレビジョン.md "wikilink")）
 
 <!-- end list -->
 

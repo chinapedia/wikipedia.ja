@@ -1,27 +1,27 @@
 > この記事は[After Tone III](https://ja.wikipedia.org/wiki/After_Tone_III)から翻訳されています。
 
 
-『**After Tone III**』（アフター･トーン・スリー）は、[岡村孝子](https://ja.wikipedia.org/wiki/岡村孝子 "wikilink")の通算3枚目のリミックス・セレクション・アルバム。1994年3月2日発売。発売元は[ファンハウス](https://ja.wikipedia.org/wiki/BMG_JAPAN#ファンハウス "wikilink")（現・[ソニー・ミュージックレーベルズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\)#ソニー・ミュージックレーベルズ "wikilink")）。
+『**After Tone III**』（アフター･トーン・スリー）は、[岡村孝子](../Page/岡村孝子.md "wikilink")の通算3枚目のリミックス・セレクション・アルバム。1994年3月2日発売。発売元は[ファンハウス](https://ja.wikipedia.org/wiki/BMG_JAPAN#ファンハウス "wikilink")（現・[ソニー・ミュージックレーベルズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\)#ソニー・ミュージックレーベルズ "wikilink")）。
 
 ## 解説
 
-[オリジナルアルバム](../Page/アルバム.md "wikilink")3枚ごとにリリースされる、リミックス・セレクション・アルバムの第3作。7枚目の『[Chou-fleur](https://ja.wikipedia.org/wiki/Chou-fleur "wikilink")』（1991年7月17日発売）、8枚目の『[mistral](https://ja.wikipedia.org/wiki/mistral_\(岡村孝子のアルバム\) "wikilink")』（1992年6月20日発売）、9枚目の『[満天の星](https://ja.wikipedia.org/wiki/満天の星_\(アルバム\) "wikilink")』（1993年7月28日発売）から14曲を選出している。
+[オリジナルアルバム](../Page/アルバム.md "wikilink")3枚ごとにリリースされる、リミックス・セレクション・アルバムの第3作。7枚目の『[Chou-fleur](../Page/Chou-fleur.md "wikilink")』（1991年7月17日発売）、8枚目の『[mistral](https://ja.wikipedia.org/wiki/mistral_\(岡村孝子のアルバム\) "wikilink")』（1992年6月20日発売）、9枚目の『[満天の星](../Page/満天の星_\(アルバム\).md "wikilink")』（1993年7月28日発売）から14曲を選出している。
 
-[イタリア](../Page/イタリア.md "wikilink")・[カプリ島](https://ja.wikipedia.org/wiki/カプリ島 "wikilink")のカプリ・デジタルスタジオにて[リミックス](https://ja.wikipedia.org/wiki/リミックス "wikilink")を行った。カプリ島は別名「レモン島」とも呼ばれるが、本CDの裏ジャケットには、樹に実る[レモン](../Page/レモン.md "wikilink")の写真が掲載されている。歌詞カードには、岡村本人による全曲セルフ[ライナーノーツ](https://ja.wikipedia.org/wiki/ライナーノーツ "wikilink")を掲載。
+[イタリア](../Page/イタリア.md "wikilink")・[カプリ島](../Page/カプリ島.md "wikilink")のカプリ・デジタルスタジオにて[リミックス](../Page/リミックス.md "wikilink")を行った。カプリ島は別名「レモン島」とも呼ばれるが、本CDの裏ジャケットには、樹に実る[レモン](../Page/レモン.md "wikilink")の写真が掲載されている。歌詞カードには、岡村本人による全曲セルフ[ライナーノーツ](../Page/ライナーノーツ.md "wikilink")を掲載。
 
 ## 収録曲
 
-  - 全曲作詞・作曲: [岡村孝子](https://ja.wikipedia.org/wiki/岡村孝子 "wikilink")
+  - 全曲作詞・作曲: [岡村孝子](../Page/岡村孝子.md "wikilink")
 
 |                                                                                                                                                                                      |                                                                                                                        |          |                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- | -------- | ----------------------------------------------------- |
 |                                                                                                                                                                                      | **曲名**                                                                                                                 | **演奏時間** | **編曲**                                                |
-| 1                                                                                                                                                                                    | **[笑顔にはかなわない](../Page/笑顔にはかなわない.md "wikilink")**                                                                       | 4:59     | [萩田光雄](https://ja.wikipedia.org/wiki/萩田光雄 "wikilink") |
+| 1                                                                                                                                                                                    | **[笑顔にはかなわない](../Page/笑顔にはかなわない.md "wikilink")**                                                                       | 4:59     | [萩田光雄](../Page/萩田光雄.md "wikilink")                    |
 | <small>リスナーと岡村孝子をつなぐ、大切な1曲だとライナーノーツで語っている。コンサートでも恒例的に披露される。</small>                                                                                                                  |                                                                                                                        |          |                                                       |
-| 2                                                                                                                                                                                    | **[無敵のキャリア・ガール](../Page/無敵のキャリア・ガール.md "wikilink")**                                                                   | 5:46     | [清水信之](https://ja.wikipedia.org/wiki/清水信之 "wikilink") |
+| 2                                                                                                                                                                                    | **[無敵のキャリア・ガール](../Page/無敵のキャリア・ガール.md "wikilink")**                                                                   | 5:46     | [清水信之](../Page/清水信之.md "wikilink")                    |
 | <small>9thアルバム『満天の星』から[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")されたナンバー。</small>                                                                                    |                                                                                                                        |          |                                                       |
 | 3                                                                                                                                                                                    | **[ミストラル 〜季節風〜](../Page/ミストラル_〜季節風〜.md "wikilink")**                                                                   | 4:56     | 清水信之                                                  |
-| <small>[第一生命](https://ja.wikipedia.org/wiki/第一生命保険 "wikilink")「コーラス」イメージソング。コマーシャルには、岡村本人も出演した。</small>                                                                              |                                                                                                                        |          |                                                       |
+| <small>[第一生命](../Page/第一生命保険.md "wikilink")「コーラス」イメージソング。コマーシャルには、岡村本人も出演した。</small>                                                                                                 |                                                                                                                        |          |                                                       |
 | 4                                                                                                                                                                                    | **[フォーエバー・ロマンス](../Page/フォーエバー・ロマンス.md "wikilink")**                                                                   | 5:18     | [田代修二](https://ja.wikipedia.org/wiki/田代修二 "wikilink") |
 | <small>[日本テレビ系特別番組](../Page/日本テレビ放送網.md "wikilink")『[皇太子様](https://ja.wikipedia.org/wiki/徳仁 "wikilink")・[雅子様](https://ja.wikipedia.org/wiki/皇后雅子 "wikilink") ご成婚スペシャル』テーマソング</small> |                                                                                                                        |          |                                                       |
 | 5                                                                                                                                                                                    | **[ポプラ](https://ja.wikipedia.org/wiki/Chou-fleur#収録曲 "wikilink")**                                                     | 5:43     | 清水信之                                                  |
@@ -42,8 +42,8 @@
 
 ## 関連作品
 
-  - **[Chou-fleur](https://ja.wikipedia.org/wiki/Chou-fleur "wikilink")**　　M-5・6・10・12
+  - **[Chou-fleur](../Page/Chou-fleur.md "wikilink")**　　M-5・6・10・12
   - **[mistral](https://ja.wikipedia.org/wiki/mistral_\(岡村孝子のアルバム\) "wikilink")**　　M-3・7・8・11
-  - **[満天の星](https://ja.wikipedia.org/wiki/満天の星_\(アルバム\) "wikilink")**　　M-1・2・4・9・13・14
+  - **[満天の星](../Page/満天の星_\(アルバム\).md "wikilink")**　　M-1・2・4・9・13・14
 
 [Category:岡村孝子のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:岡村孝子のベスト・アルバム "wikilink") [Category:1994年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:1994年のベスト・アルバム "wikilink") [Category:ファンハウスのアルバム](https://ja.wikipedia.org/wiki/Category:ファンハウスのアルバム "wikilink")

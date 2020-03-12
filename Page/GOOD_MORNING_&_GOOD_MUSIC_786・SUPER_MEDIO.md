@@ -21,7 +21,7 @@
 
 ### 現在
 
-  - 漆原光徳（毎月第4週、[四国学院大学](https://ja.wikipedia.org/wiki/四国学院大学 "wikilink")副学長教授）
+  - 漆原光徳（毎月第4週、[四国学院大学](../Page/四国学院大学.md "wikilink")副学長教授）
   - [四国新聞](../Page/四国新聞.md "wikilink")OASIS 芳野編集長（毎月第5週）
 
 ### 過去
@@ -47,7 +47,7 @@
 
 ## テーマ曲
 
-  - [Paris match](https://ja.wikipedia.org/wiki/Paris_match "wikilink")「Brand-new chocolate logic」(2018年4月現在)
+  - [Paris match](../Page/Paris_match.md "wikilink")「Brand-new chocolate logic」(2018年4月現在)
 
 ## 外部リンク
 

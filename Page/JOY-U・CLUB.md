@@ -53,11 +53,11 @@
   - 16:55 - クイズステップステップ（募集告知・キーワード発表）
   - 17:05 -
       - 月曜～水曜 - お帰りお天気
-      - 木曜 - ずーっとお得！スマホは[Fiimo](https://ja.wikipedia.org/wiki/STNet "wikilink")
+      - 木曜 - ずーっとお得！スマホは[Fiimo](../Page/STNet.md "wikilink")
       - 金曜 - [アイランド食品](https://ja.wikipedia.org/wiki/アイランド食品 "wikilink")プレゼンツ「すっぱいのはイヤだ！」（2019年4月から）
   - 17:20 - 交通マナーアップ大作戦
   - 17:30 -
-      - 月曜 - J1への道 燃えよ[カマタマーレ](https://ja.wikipedia.org/wiki/カマタマーレ讃岐 "wikilink")\!
+      - 月曜 - J1への道 燃えよ[カマタマーレ](../Page/カマタマーレ讃岐.md "wikilink")\!
       - 火曜 - ジョイユー推し曲コレクション（2019年4月から）
       - 水曜 - メッセージ紹介など
       - 木曜 - 今日からあなたも防災マスター ～大人も子供も楽しみながら学び、みんなで防災力アップしましょう！～
@@ -65,8 +65,8 @@
   - 17:40 - [日経経済ニュース](../Page/日本経済新聞.md "wikilink")
   - 17:45 - クイズステップステップ（最終募集告知・キーワード発表）
   - 17:50 -
-      - 月曜～木曜 - [賀来賢人 SUZUKI "KENTO'S CLUB"](https://ja.wikipedia.org/wiki/KENTO'S_CLUB "wikilink")（[JFN](https://ja.wikipedia.org/wiki/JFN "wikilink")収録番組、パーソナリティ[賀来賢人](https://ja.wikipedia.org/wiki/賀来賢人 "wikilink")、2019年4月から）
-      - 金曜 - Out door チャレンジ！day off [みとよ](https://ja.wikipedia.org/wiki/三豊市 "wikilink")
+      - 月曜～木曜 - [賀来賢人 SUZUKI "KENTO'S CLUB"](https://ja.wikipedia.org/wiki/KENTO'S_CLUB "wikilink")（[JFN](https://ja.wikipedia.org/wiki/JFN "wikilink")収録番組、パーソナリティ[賀来賢人](../Page/賀来賢人.md "wikilink")、2019年4月から）
+      - 金曜 - Out door チャレンジ！day off [みとよ](../Page/三豊市.md "wikilink")
   - 18:00 -
       - 時報直後に「クイズステップステップ」の受付終了告知\[4\]
       - 月曜～水曜・金曜 - リクエストコーナー
@@ -93,7 +93,7 @@
   - 17:05 - お帰りお天気
   - 17:25 - 交通マナーアップ大作戦
   - 17:30 -
-      - 月曜 - J1への道 燃えよ[カマタマーレ](https://ja.wikipedia.org/wiki/カマタマーレ讃岐 "wikilink")\!
+      - 月曜 - J1への道 燃えよ[カマタマーレ](../Page/カマタマーレ讃岐.md "wikilink")\!
       - 第2・4火曜 - [タグ・ホイヤー](../Page/タグ・ホイヤー.md "wikilink") Presents 時計選びのススメ ～Don't Crack Under Pressure～
       - 水曜 - [J-Fut丸亀](https://ja.wikipedia.org/wiki/J-Fut丸亀 "wikilink")のフットサルラジオ（水）
       - 木曜 - ～知って学んで備えよう。今私たちにできること。～
@@ -121,10 +121,10 @@
   - 16:55 - クイズステップステップ（募集告知・キーワード発表）
   - 17:05 -
       - 月曜～水曜・金曜 - お帰りお天気
-      - 木曜 - ずーっとお得！スマホは[Fiimo](https://ja.wikipedia.org/wiki/STNet "wikilink")
+      - 木曜 - ずーっとお得！スマホは[Fiimo](../Page/STNet.md "wikilink")
   - 17:20 - 交通マナーアップ大作戦
   - 17:30 -
-      - 月曜 - J1への道 燃えよ[カマタマーレ](https://ja.wikipedia.org/wiki/カマタマーレ讃岐 "wikilink")\!
+      - 月曜 - J1への道 燃えよ[カマタマーレ](../Page/カマタマーレ讃岐.md "wikilink")\!
       - 火曜 - メッセージ紹介など
       - 水曜 - めぐりんりん
       - 木曜 - 今日からあなたも防災マスター ～大人も子供も楽しみながら学び、みんなで防災力アップしましょう！～
@@ -136,7 +136,7 @@
 
 <!-- end list -->
 
-  -   - 金曜 - Out door チャレンジ！day off [みとよ](https://ja.wikipedia.org/wiki/三豊市 "wikilink")
+  -   - 金曜 - Out door チャレンジ！day off [みとよ](../Page/三豊市.md "wikilink")
 
   - 18:00 -
 
@@ -179,16 +179,16 @@
           - ギフトカードは「1000円分」からのスタートで、不正解の場合は翌日にキャリーオーバー（繰り越し）となる\[12\]。
           - 曜日によってはスポンサーのお店から提供の商品券なども追加される。\[13\]
       - 過去の賞品
-          - 2010年3月までのセカンドクイズの商品は[音楽ギフトカード](https://ja.wikipedia.org/wiki/音楽ギフトカード "wikilink")。
+          - 2010年3月までのセカンドクイズの商品は[音楽ギフトカード](../Page/音楽ギフトカード.md "wikilink")。
           - 「遊食房屋 presents」時代は3000円分の遊食房屋の食事券。
-          - サンアンジェリーナ時代のテーマ曲は[ファットボーイ・スリム](https://ja.wikipedia.org/wiki/ファットボーイ・スリム "wikilink")「[The Rockafeller Skank](https://ja.wikipedia.org/wiki/ロッカフェラー・スカンク "wikilink")」
+          - サンアンジェリーナ時代のテーマ曲は[ファットボーイ・スリム](../Page/ファットボーイ・スリム.md "wikilink")「[The Rockafeller Skank](https://ja.wikipedia.org/wiki/ロッカフェラー・スカンク "wikilink")」
           - 過去には肉の東原の商品券やうどんのたも屋の商品券などがプレゼントされていた。
 
 \*; 月曜日
 
-  - J1への道 [カマタマーレ](https://ja.wikipedia.org/wiki/カマタマーレ讃岐 "wikilink")\!
+  - J1への道 [カマタマーレ](../Page/カマタマーレ讃岐.md "wikilink")\!
       - カマタマーレ讃岐の試合結果、試合案内、イベント紹介、選手インタビューなど \[14\]。
-      - BGMは「[燃えよドラゴン](https://ja.wikipedia.org/wiki/燃えよドラゴン "wikilink")」のテーマ。
+      - BGMは「[燃えよドラゴン](../Page/燃えよドラゴン.md "wikilink")」のテーマ。
 
 \*; 火曜日
 
@@ -202,14 +202,14 @@
   - コンサート\&NEW DISKインフォメーション
       - デューク高松のスタッフが、発売開始となった香川地区のイベント・チケットの紹介などを行う \[15\]。
   - ずーっとお得！スマホはFiimo
-      - Fiimoのスタッフが、[四国電力](https://ja.wikipedia.org/wiki/四国電力 "wikilink")系の[電気通信事業者](https://ja.wikipedia.org/wiki/電気通信事業者 "wikilink")、STNetのモバイルサービス「Fiimo」の紹介などを行う \[16\]。
+      - Fiimoのスタッフが、[四国電力](https://ja.wikipedia.org/wiki/四国電力 "wikilink")系の[電気通信事業者](../Page/電気通信事業者.md "wikilink")、STNetのモバイルサービス「Fiimo」の紹介などを行う \[16\]。
 
 \*; 金曜日
 
   - SOLATO あした、どこ行く？
       - 香川県内や隣県のおすすめドライブスポットや旬な情報の紹介など
   - Out door チャレンジ！day off みとよ
-      - [三豊市](https://ja.wikipedia.org/wiki/三豊市 "wikilink")のアウトドア体験スポットやイベント情報、みとよクエストの紹介など
+      - [三豊市](../Page/三豊市.md "wikilink")のアウトドア体験スポットやイベント情報、みとよクエストの紹介など
   - [アイランド食品](https://ja.wikipedia.org/wiki/アイランド食品 "wikilink")プレゼンツ「すっぱいのはイヤだ！」
       - スポンサーにちなんで、色々なすっぱいネタを紹介など
 
@@ -249,7 +249,7 @@
 \*; 水曜日
 
   - エモ岡探検隊（2007年5月まで・16:40～）
-      - [タマルの一社提供](https://ja.wikipedia.org/wiki/タマル_\(企業\) "wikilink")。2007年5月、同社の自己破産により終了。
+      - [タマルの一社提供](../Page/タマル_\(企業\).md "wikilink")。2007年5月、同社の自己破産により終了。
 
 <!-- end list -->
 
@@ -281,7 +281,7 @@
 \*; KSB[瀬戸内海放送](../Page/瀬戸内海放送.md "wikilink")との連携企画
 
   - おとなりFM中継(のちにJチャンFM中継に変更)
-      - FM香川の隣に社屋がある[瀬戸内海放送](../Page/瀬戸内海放送.md "wikilink")の[多賀公人](https://ja.wikipedia.org/wiki/多賀公人 "wikilink")が生出演するコーナー。テレビとラジオの二次放送であった。
+      - FM香川の隣に社屋がある[瀬戸内海放送](../Page/瀬戸内海放送.md "wikilink")の[多賀公人](../Page/多賀公人.md "wikilink")が生出演するコーナー。テレビとラジオの二次放送であった。
 
 <!-- end list -->
 
@@ -291,7 +291,7 @@
 
   - 番組名の由来は[エフエム香川](../Page/エフエム香川.md "wikilink")のコールサインJOYU-FMである。番組担当でもあった中村千秋 元アナウンサーが命名。放課後のクラブ活動みたいに気軽に参加できるような番組でありたいと願いも込められている。
   - OPは[ライノセラス](https://ja.wikipedia.org/wiki/ライノセラス "wikilink")「fucky funky music」（2007年4月 - ）
-  - 17:00の天気予報のBGMは[小野リサ](https://ja.wikipedia.org/wiki/小野リサ "wikilink")「サマー・サンバ」。
+  - 17:00の天気予報のBGMは[小野リサ](../Page/小野リサ.md "wikilink")「サマー・サンバ」。
   - 過去には毎週金曜日にFM香川独自のチャートを発表する「JOY-U・CLUB Friday Countdown Freak」を3時間放送していたが2004年3月末で終了。
   - 番組初期にはノベルティの[テレホンカード](../Page/テレホンカード.md "wikilink")が存在した。
 

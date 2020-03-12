@@ -31,7 +31,7 @@
     藤岡伸行（Ba.）（藤ボン）
     高嶋伸弥（Dr.）
     [SUNNY](../Page/Sunny_\(ミュージシャン\).md "wikilink")（Key.）
-    [ただすけ](https://ja.wikipedia.org/wiki/ただすけ "wikilink")（Key.）
+    [ただすけ](../Page/ただすけ.md "wikilink")（Key.）
     諸岡大也（Key.）（モロモロ）（PAINT MEに参加）
     平林直樹（Ba.）（ヒラリン）（トゥオネラのアリアに参加）
     佐藤ヒロタカ（Guitars）(ファルコン)（REBIRTHING〜再誕生〜から参加）
@@ -48,8 +48,8 @@
 **the sad sad planet bandゲストメンバー**
 
   -
-    [阿部祐也](https://ja.wikipedia.org/wiki/阿部祐也 "wikilink")（Vo.）ex,[サザーランド（SUTHER RAND）](https://ja.wikipedia.org/wiki/サザーランド_\(バンド\) "wikilink")
-    ["PUMP"小畑](https://ja.wikipedia.org/wiki/小畑隆彦 "wikilink")（Dr.）ex, [すかんち](https://ja.wikipedia.org/wiki/すかんち "wikilink")
+    [阿部祐也](https://ja.wikipedia.org/wiki/阿部祐也 "wikilink")（Vo.）ex,[サザーランド（SUTHER RAND）](../Page/サザーランド_\(バンド\).md "wikilink")
+    ["PUMP"小畑](../Page/小畑隆彦.md "wikilink")（Dr.）ex, [すかんち](../Page/すかんち.md "wikilink")
     [津田直士](https://ja.wikipedia.org/wiki/津田直士 "wikilink")（Key.)
 
 ## 歴史
@@ -434,23 +434,23 @@
         当面の最大目標であった「O-WEST」でのライブ開催を達成した。
   - **Noel〜ノエル**
       -
-        5thワンマン／2004年12月19日／[SHIBUYA BOXX](https://ja.wikipedia.org/wiki/SHIBUYA_BOXX "wikilink")
+        5thワンマン／2004年12月19日／[SHIBUYA BOXX](../Page/SHIBUYA_BOXX.md "wikilink")
   - **『雨のコンチェルト』発売記念プレミアムライブ**
       -
-        2005年2月1日／[SHIBUYA BOXX](https://ja.wikipedia.org/wiki/SHIBUYA_BOXX "wikilink")
+        2005年2月1日／[SHIBUYA BOXX](../Page/SHIBUYA_BOXX.md "wikilink")
         シングル『雨のコンチェルト』購入者100組200名を無料招待。
   - **光と影のアルカディア2〜incomplete constellation〜**
       -
         2005年5月13日／[SHIBUYA O-WEST](https://ja.wikipedia.org/wiki/SHIBUYA_O-WEST "wikilink")
   - **ハートストリングス〜early autumn〜**
       -
-        2005年9月17日／[原宿アストロホール](https://ja.wikipedia.org/wiki/原宿アストロホール "wikilink")
+        2005年9月17日／[原宿アストロホール](../Page/原宿アストロホール.md "wikilink")
   - **Neige**
       -
-        2005年12月24日／[原宿アストロホール](https://ja.wikipedia.org/wiki/原宿アストロホール "wikilink")
+        2005年12月24日／[原宿アストロホール](../Page/原宿アストロホール.md "wikilink")
   - **絶対湿度**
       -
-        2006年5月27日／[原宿アストロホール](https://ja.wikipedia.org/wiki/原宿アストロホール "wikilink")
+        2006年5月27日／[原宿アストロホール](../Page/原宿アストロホール.md "wikilink")
         1\. 春枝タクト／2.ムーピーゲーム／3.Dear Princess／4.TOTAL KILLING／5.影がない／6.神様のボート／7.鬼灯／8.go now／9.アルカディア／10.雨のコンチェルト／11.青いブランケット／12.リビングウィル（※新曲）／13.泣いてはいけない（※新曲）／14.カタストロフ／15.陽だまりロンド／16.空中ブランコ／EN1.私の味方／EN2.しずかな雨
   - **光と影のアルカディア∞infinity**
       -
@@ -458,7 +458,7 @@
         1\. 青いブランケット／2.空中ブランコ／3.あなたの音／4.TOTAL KILLING／5.影がない／6.カタストロフ／7.アルカディア（そよぎ弾き語り）／8.尊い瞬き（工藤、そよぎアコ）／9.地球の鼓動（メンバーアコ）／10.（インスト）／11.Dear Princess／12.雨のコンチェルト／13.エアポケット（※新曲）／14.泣いてはいけない／15.ムーピーゲーム／16.陽だまりロンド／17.リビングウィル／EN1.my bird／EN2.go now
   - **2nd album カタルシス発売記念 年忘れサップラ大感謝祭 〜年の瀬に2回公演だよ\!〜**
       -
-        2006年12月30日／[SHIBUYA BOXX](https://ja.wikipedia.org/wiki/SHIBUYA_BOXX "wikilink")
+        2006年12月30日／[SHIBUYA BOXX](../Page/SHIBUYA_BOXX.md "wikilink")
     <!-- end list -->
       - **静なる昼の祭**
           -
@@ -468,15 +468,15 @@
             1.Dear Princess／2.青いブランケット／3.ムーピーゲーム／4.エアポケット／5.search & destroy／6.神様のボート／7.リトルレディ／8.あなたの音（※w/サザーランド阿部祐也）／9.サイレントムービー（※w/サザーランド阿部祐也）／10.スノージュエル（※新曲）／11.雨のコンチェルト／12.泣いてはいけない／13.空中ブランコ／14.陽だまりロンド／EN.リビングウィル
   - **PAINT ME**
       -
-        2007年5月12日／[原宿アストロホール](https://ja.wikipedia.org/wiki/原宿アストロホール "wikilink")
+        2007年5月12日／[原宿アストロホール](../Page/原宿アストロホール.md "wikilink")
         1\. スノージュエル／2.青いブランケット／3.春枝タクト／4.オモイトゲ（※新曲）／5.スプリングフィーバー／6.TOTAL KILLING／7.エアポケット／8.木連の花／9.質問／10.ブルー（※新曲）／11.リビングウィル／12.カタストロフ／13.Dear Princess／14.ムーピーゲーム／15.空中ブランコ／16.陽だまりロンド／17.神様のボート／EN.フレームアウト（※新曲）
   - **トゥオネラのアリア**
       -
-        2007年9月16日／[原宿アストロホール](https://ja.wikipedia.org/wiki/原宿アストロホール "wikilink")
+        2007年9月16日／[原宿アストロホール](../Page/原宿アストロホール.md "wikilink")
         1.嵐が丘／2.Dear Princess／3.瞬間テレポート（※新曲）／4.青いブランケット／5.影がない／6.TOTAL KILLING／7.マクベス／8.質問／9.ブルー／10.地球の鼓動／11.雨のコンチェルト／12.私の味方／13.ハーモニー（※新曲）／14.空中ブランコ／15.陽だまりロンド／16.エアポケット／17.フレームアウト／EN.go now
   - **第2回年忘れサップラ大感謝祭 〜今年はアコースティックライブだよ\!〜**
       -
-        2007年12月29日／[SHIBUYA BOXX](https://ja.wikipedia.org/wiki/SHIBUYA_BOXX "wikilink")
+        2007年12月29日／[SHIBUYA BOXX](../Page/SHIBUYA_BOXX.md "wikilink")
         1.リトルレディ／〜開会宣言〜／2.go now／3.嵐が丘／4.Search\&Destroy／5.雨のコンチェルト／6.地球の鼓動／7.Allelujah「Fairground Attraction」(※カバー)／8.Swallowtail Butterfly 〜あいのうた〜「YEN TOWN BAND」(※カバー)／〜質問コーナー〜／9.別れのうた／朗読／10.あなたの音／11.フレームアウト／朗読／12.Helpless（※新曲）／13.リビングウィル／14.瞬間テレポート／15.空中ブランコ／EN.陽だまりロンド
   - **HEAVEN〜ヘブン〜**
       -
@@ -488,7 +488,7 @@
         〜REBIRTHING〜／1.雨のコンチェルト／2.エアポケット／3.瞬間テレポート／4.ムーピーゲーム／5.ブルー／6.影がない／7.アフロディーテ／8.鬼灯／9.金色の矢／10.別れのうた／11.フレームアウト／12.やさしき瞳（新曲）／13.ハーモニー／14.春枝タクト／15.空中ブランコ／16.陽だまりロンド／17.手紙／EN1.青いブランケット／EN2.リビングウィル
   - **第3回冬のサップラ大感謝祭〜新春歌い初め\!アコースティックでクロニクル〜**
       -
-        2009年1月18日／[SHIBUYA BOXX](https://ja.wikipedia.org/wiki/SHIBUYA_BOXX "wikilink")
+        2009年1月18日／[SHIBUYA BOXX](../Page/SHIBUYA_BOXX.md "wikilink")
     <!-- end list -->
       - **昼の部**
           -
@@ -498,23 +498,23 @@
             1.青いブランケット／2.泣いてはいけない／3.Dear Princess／4.アルカディア／5.リヴィングウィル／6.空中ブランコ／7.One more time.One more chance（カバー）／8.瞬間テレポート／9.私の味方／10.フレームアウト／11.やさしき瞳／12.エアポケット／13.手紙／EN.陽だまりロンド
   - **LIVE 2009 〜永遠のモノローグ〜**
       -
-        2009年7月18日／[SHIBUYA BOXX](https://ja.wikipedia.org/wiki/SHIBUYA_BOXX "wikilink")／初の2days 1日目
+        2009年7月18日／[SHIBUYA BOXX](../Page/SHIBUYA_BOXX.md "wikilink")／初の2days 1日目
         1\. 泣いてはいけない／2. 瞬間テレポート／3. 雨のコンチェルト／4. ダイアリー／5. 質問／6. 地球の鼓動／7. ムーピーゲーム／8. 空中ブランコ／SE〜Theme of Dark〜／9. 嵐が丘／10. 影がない／11. search\&destroy／〜テルミン〜／12. マクベス／13. ブルー／14.新曲The Runner（ランナー）／15. アフロディーテ／16. TOTAL KILLING／17.新曲あなたのためにできること／EN. 手紙
   - **LIVE 2009 〜一瞬のダイアローグ〜**
       -
-        2009年7月19日／[SHIBUYA BOXX](https://ja.wikipedia.org/wiki/SHIBUYA_BOXX "wikilink")／初の2days 2日目
+        2009年7月19日／[SHIBUYA BOXX](../Page/SHIBUYA_BOXX.md "wikilink")／初の2days 2日目
         1\. カタストロフ／2. やさしき瞳／3. 瞬間テレポート／4. 青いブランケット／5. 影がない／〜Drum　Solo〜／6. アフロディーテ／7. TOTAL KILLING／8. 質問／9. 私の味方／10. 手紙／〜Piano Solo〜／11. 雨のコンチェルト／12. フレームアウト／13. 新曲あなたのためにできること／14. ムーピーゲーム／15.空中ブランコ／16. 陽だまりロンド／17. 神様のボート／EN. 新曲The Runner（ランナー）
   - **SHOOTING LIVE 〜for you special〜**
       -
-        2009年10月28日／[原宿アストロホール](https://ja.wikipedia.org/wiki/原宿アストロホール "wikilink")／初の本格的ビデオ撮影、プレミアムライブも含めると24回目のワンマンライブ。アストロホールでは6回目。
+        2009年10月28日／[原宿アストロホール](../Page/原宿アストロホール.md "wikilink")／初の本格的ビデオ撮影、プレミアムライブも含めると24回目のワンマンライブ。アストロホールでは6回目。
         1\. 青いブランケット／2. ムーピーゲーム／3. やさしき瞳／4. 手紙／5.アフロディーテ／6. TOTAL KILLING／7. マクベス／8. ヘブンリーブルー（新曲）／9. The Runner〜ランナー〜／10. あなたのためにできること／11. 空中ブランコ／12. カタストロフ／13. 陽だまりロンド／en:雨のコンチェルト
   - **第4回 冬のサップラ大感謝祭 〜冬の太陽〜**
       -
-        2010年1月10日／[SHIBUYA BOXX](https://ja.wikipedia.org/wiki/SHIBUYA_BOXX "wikilink")
+        2010年1月10日／[SHIBUYA BOXX](../Page/SHIBUYA_BOXX.md "wikilink")
         1\. メロディアス／2. dear princess／3. ヘブンリーブルー／4. 別れのうた／〜工藤とそよぎの部屋〜　5. 鬼灯／6. やさしき瞳／7. GO NOW／〜カバー曲コーナー〜 8. サヨナラCOLOR（SUPER　BUTTER　DOG)／9. 瞳はダイアモンド（松田聖子）／〜おはなし〜　10. アルカディア／11. Silent night（新曲）／〜みんなでノリノリ〜　12. make a wish／13. 瞬間テレポート／14. 空中ブランコ／15. 陽だまりロンド／16. あなたのためにできること／en.手紙
   - **LIVE 2010 〜Fantastic Moment〜**
       -
-        2010年6月27日／[SHIBUYA BOXX](https://ja.wikipedia.org/wiki/SHIBUYA_BOXX "wikilink")
+        2010年6月27日／[SHIBUYA BOXX](../Page/SHIBUYA_BOXX.md "wikilink")
         1\. 春枝タクト／2. ムーピーゲーム／3. リビングウィル／4. 嵐が丘／5. TOTAL KILLING／6. 金色の矢／7. 旅に出る（新曲）／8. リトルレディ／9. Silent night／10.雨のコンチェルト／11.地球の鼓動／12.はだかのこころ（新曲）／13.空中ブランコ／14.陽だまりロンド／15.あなたのためにできること／EN1. あなたの音／EN2. ヘブンリーブルー
 
 <!-- end list -->
@@ -526,7 +526,7 @@
 
   - **LIVE 2010 PASSION**
       -
-        2010年10月31日／[SHIBUYA BOXX](https://ja.wikipedia.org/wiki/SHIBUYA_BOXX "wikilink")
+        2010年10月31日／[SHIBUYA BOXX](../Page/SHIBUYA_BOXX.md "wikilink")
         1.しずかな雨 ／〜Organ & MC〜／2.春枝タクト／〜 SE 〜／3.ムーピーゲーム／〜MC〜／4.青いブランケット／5.ブルー／6.影がない／7.神様のボート ／〜MC〜／8.やさしき瞳 （そよぎ弾き語り）／〜MC〜／9. スノージュエル（サップラ2人で）／〜MC〜／10.フレームアウト（ボサノバアレンジ） ／11.ヘブンリーブルー ／12.あなたのためにできること／〜MC〜／13.手紙／　〜 SE 〜　／14.TOTAL KILLING／15.エアポケット／16.陽だまりロンド／17.はだかのこころ／EN1.タイムトラベル（新曲）／〜MC〜／EN2.空中ブランコ
         久々のバンドスタイル、サポートメンバー…key：SUNNY、ギター：佐藤ヒロタカ、ベース：アンソニー、ドラム：マツキチ
 
@@ -534,7 +534,7 @@
 
   - **第5回 冬のサップラ大感謝祭 〜ピアノはともだち♪〜**
       -
-        2011年1月23日／[SHIBUYA BOXX](https://ja.wikipedia.org/wiki/SHIBUYA_BOXX "wikilink")
+        2011年1月23日／[SHIBUYA BOXX](../Page/SHIBUYA_BOXX.md "wikilink")
         アコースティックスタイル、サポートメンバー…key：SUNNY、ギター：Sammy（初参加）
         28回目のワンマンライブ。凍結前最後のライブ。
         1.雨のコンチェルト／2.瞬間テレポート／3.泣いてはいけない／4.Dear Princess／5.尊い瞬き（サップラ2人）／〜そよぎとピアノ〜／6.やさしき瞳／7.あなたのためにできること／8.ブルー／9.スワロウテイルバタフライ〜あいのうた〜（そよぎ.sunny.sammy)／10. Silent nignt／11. タイムトラベル／12. 地球の鼓動／13. ムーピーゲーム／14. 陽だまりロンド／15. はだかのこころ／E1. 旅立ちのうた　(サップラ2人)／E2. ヘブンリーブルー
@@ -553,7 +553,7 @@
                 EN1.ピアノ（ソロ新曲）（作詞・作曲そよぎ）／EN2.ヘブンリーブルー
   - **第6回冬のサップラ大感謝祭 〜解凍宣言\!\!〜**
       -
-        2012年2月18日／[SHIBUYA BOXX](https://ja.wikipedia.org/wiki/SHIBUYA_BOXX "wikilink")
+        2012年2月18日／[SHIBUYA BOXX](../Page/SHIBUYA_BOXX.md "wikilink")
         アコースティックスタイル、サポートメンバー…key：SUNNY、ギター：さとう操（佐藤ヒロタカ＝ファルコン）
         1.瞬間テレポート／2.春枝タクト／3.悪戯なキス(新曲)／4.影がない／5.長いため息の終わり(新曲)／6.僕が一番欲しかったもの（槙原敬之のカバー）／7.雪の華（中島美嘉のカバー）／8.雨のコンチェルト／9.カウントダウン(新曲)／10.ヘブンリーブルー（Bossa Ver）／11.はだかのこころ／12.陽だまりロンド／〜過去の手紙〜13.あなたのためにできること／〜重大発表〜／EN1.未来の写真(新曲)／EN2.空中ブランコ
   - **サップラ・ア･ラ･モード〜昼のレモネード〜**

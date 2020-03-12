@@ -1,11 +1,11 @@
 > この記事は[ door to phantomile](https://ja.wikipedia.org/wiki/_door_to_phantomile)から翻訳されています。
 
 
-『**風のクロノア door to phantomile**』（かぜのクロノア ドア トゥ ファントマイル、欧米版タイトル：*Klonoa: Door to Phantomile*）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[12月11日](../Page/12月11日.md "wikilink")にナムコ（のち[バンダイナムコエンターテインメント](../Page/バンダイナムコエンターテインメント.md "wikilink")）より発売された[PlayStation用](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")[アクションゲーム](../Page/アクションゲーム.md "wikilink")[ソフト](../Page/ゲームソフト.md "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月21日](../Page/7月21日.md "wikilink")発売の[PlayStation 2用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[ナムコレクション](https://ja.wikipedia.org/wiki/ナムコレクション "wikilink")』に収録されたほか、[2011年](../Page/2011年.md "wikilink")[7月6日](../Page/7月6日.md "wikilink")より[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")で配信されている。
+『**風のクロノア door to phantomile**』（かぜのクロノア ドア トゥ ファントマイル、欧米版タイトル：*Klonoa: Door to Phantomile*）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[12月11日](../Page/12月11日.md "wikilink")にナムコ（のち[バンダイナムコエンターテインメント](../Page/バンダイナムコエンターテインメント.md "wikilink")）より発売された[PlayStation用](../Page/PlayStation_\(ゲーム機\).md "wikilink")[アクションゲーム](../Page/アクションゲーム.md "wikilink")[ソフト](../Page/ゲームソフト.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")発売の[PlayStation 2用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[ナムコレクション](../Page/ナムコレクション.md "wikilink")』に収録されたほか、[2011年](../Page/2011年.md "wikilink")[7月6日](../Page/7月6日.md "wikilink")より[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")で配信されている。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")には、[携帯電話](../Page/携帯電話.md "wikilink")向けサイト「ナムコ・ゲームス」にて、PS版をベースとした[iアプリ](https://ja.wikipedia.org/wiki/iアプリ "wikilink")移植版、[2009年](../Page/2009年.md "wikilink")[2月2日](../Page/2月2日.md "wikilink")には[S\!アプリ](../Page/S!アプリ.md "wikilink")版がそれぞれ配信された。
 
-2008年[12月4日](../Page/12月4日.md "wikilink")、グラフィックを全面的にリニューアルしてシステムを再調整した[リメイク](https://ja.wikipedia.org/wiki/リメイク "wikilink")として、[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")版が発売された。
+2008年[12月4日](../Page/12月4日.md "wikilink")、グラフィックを全面的にリニューアルしてシステムを再調整した[リメイク](../Page/リメイク.md "wikilink")として、[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")版が発売された。
 
 ## 概要
 

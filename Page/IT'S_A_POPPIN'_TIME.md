@@ -1,7 +1,7 @@
 > この記事は[IT\'S A POPPIN\' TIME](https://ja.wikipedia.org/wiki/IT\'S_A_POPPIN\'_TIME)から翻訳されています。
 
 
-『**IT'S A POPPIN' TIME**』（イッツ・ア・ポッピン・タイム）は、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[5月25日](../Page/5月25日.md "wikilink")に発売された[山下達郎](../Page/山下達郎.md "wikilink")通算1作目の[ライブ・アルバム](https://ja.wikipedia.org/wiki/ライブ・アルバム "wikilink")。
+『**IT'S A POPPIN' TIME**』（イッツ・ア・ポッピン・タイム）は、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[5月25日](../Page/5月25日.md "wikilink")に発売された[山下達郎](../Page/山下達郎.md "wikilink")通算1作目の[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")。
 
 ## 解説
 
@@ -9,9 +9,9 @@
 
 ソロ・デビューして1年半、アルバムは2枚出たが音楽専門誌や評論家をはじめとする一般的なメディアでの評判はあまり芳しくなかった。それまでの2枚のアルバムからはシングル・カットが1枚もなく、シングルがなくてはメディアの興味はひけず、アルバム主体という地味な謳い文句では到底認めてもらえない。1978年春、そろそろロック系のフィールドからもヒットが出始めていたこともあって、山下に対するレコード会社や原盤会社の目も次第に厳しいものになっていったという。
 
-山下にとってバンドからソロに転向して一番困ったのがライヴが思うように行えず、本数が激減したことだったという。ソロ活動を始めた直後からライヴのためのパーマネントなバック・バンドの編成を何度も試みたが、自分の納得できる演奏技術を持っている人はすでに一流として名が通っていてギャラが高く、予算が合わなかった。かといって、格を落として安いミュージシャンを使うと演奏に満足できないというジレンマ。結果、安いギャラでやってもらえるライヴ・ハウスと、自治会の払うギャラが良かったので採算が合う学園祭という、一流のスタジオ・ミュージシャンを使っても予算の折り合う場所での活動に限定されてしまっていた。それでもアルバム『[SPACY](../Page/SPACY.md "wikilink")』\[1\]がリリースされた直後から少しずつながらもライヴが行われ、[1977年](../Page/1977年.md "wikilink")の終わりごろには[村上秀一](https://ja.wikipedia.org/wiki/村上秀一 "wikilink")（ドラム）、岡沢章（ベース）、[松木恒秀](https://ja.wikipedia.org/wiki/松木恒秀 "wikilink")（ギター）、[坂本龍一](../Page/坂本龍一.md "wikilink")（キーボード）に山下自身のギターというライン・アップで固定されていた。このメンバーなら、ホールでのライヴだとギャラの問題からまったく採算が取れないが、ライヴ・ハウスであれば安いギャラで来てもらえた。このころは収容人数200～300人のライブ・ハウスであれば会場を満員にできたので、PA代にメンバーのギャラ、そして山下自身はノー・ギャラでちょうど採算の折り合いがつけられたという。
+山下にとってバンドからソロに転向して一番困ったのがライヴが思うように行えず、本数が激減したことだったという。ソロ活動を始めた直後からライヴのためのパーマネントなバック・バンドの編成を何度も試みたが、自分の納得できる演奏技術を持っている人はすでに一流として名が通っていてギャラが高く、予算が合わなかった。かといって、格を落として安いミュージシャンを使うと演奏に満足できないというジレンマ。結果、安いギャラでやってもらえるライヴ・ハウスと、自治会の払うギャラが良かったので採算が合う学園祭という、一流のスタジオ・ミュージシャンを使っても予算の折り合う場所での活動に限定されてしまっていた。それでもアルバム『[SPACY](../Page/SPACY.md "wikilink")』\[1\]がリリースされた直後から少しずつながらもライヴが行われ、[1977年](../Page/1977年.md "wikilink")の終わりごろには[村上秀一](../Page/村上秀一.md "wikilink")（ドラム）、岡沢章（ベース）、[松木恒秀](https://ja.wikipedia.org/wiki/松木恒秀 "wikilink")（ギター）、[坂本龍一](../Page/坂本龍一.md "wikilink")（キーボード）に山下自身のギターというライン・アップで固定されていた。このメンバーなら、ホールでのライヴだとギャラの問題からまったく採算が取れないが、ライヴ・ハウスであれば安いギャラで来てもらえた。このころは収容人数200～300人のライブ・ハウスであれば会場を満員にできたので、PA代にメンバーのギャラ、そして山下自身はノー・ギャラでちょうど採算の折り合いがつけられたという。
 
-そうした形態でライヴを繰り返すうち、もとより上手い人たちだったので次第に演奏に色付けが出てきた。そんな山下のライヴを見たディレクター[小杉理宇造](https://ja.wikipedia.org/wiki/小杉理宇造 "wikilink")から、このメンバーでライヴ・レコーディングによるアルバム制作が提案された。実は小杉の目論見は別のところにあって、過去2枚のスタジオ・アルバムのようには予算をかけられない状況では、経費がかからないライヴ・アルバムが最善の策だという判断からだった。もともと小杉は[シュガー・ベイブ](../Page/シュガー・ベイブ.md "wikilink")の解散ライヴを見て契約しようと考えたいきさつがあり、山下のライヴ・パフォーマンスをアルバム化することに彼なりの自信もあったのだという。
+そうした形態でライヴを繰り返すうち、もとより上手い人たちだったので次第に演奏に色付けが出てきた。そんな山下のライヴを見たディレクター[小杉理宇造](../Page/小杉理宇造.md "wikilink")から、このメンバーでライヴ・レコーディングによるアルバム制作が提案された。実は小杉の目論見は別のところにあって、過去2枚のスタジオ・アルバムのようには予算をかけられない状況では、経費がかからないライヴ・アルバムが最善の策だという判断からだった。もともと小杉は[シュガー・ベイブ](../Page/シュガー・ベイブ.md "wikilink")の解散ライヴを見て契約しようと考えたいきさつがあり、山下のライヴ・パフォーマンスをアルバム化することに彼なりの自信もあったのだという。
 
 本作のレコーディングが行われた六本木の「ピット・イン」は、ジャズや[フュージョンが中心のライヴ](../Page/フュージョン_\(音楽\).md "wikilink")・ハウスだったが、山下はそうしたジャンルに多くの知己がいて、よくセッションなどで出入りしていた。さらに同じビルの上階にあった[CBSソニー六本木スタジオと回線が繋がっていて](https://ja.wikipedia.org/wiki/ソニー・ミュージックスタジオ#ソニー・ミュージック六本木スタジオ "wikilink")、いつでもライヴ・レコーディングが可能だったこと、ピット・インで山下のようなスタイルのシンガーがライヴを録音するということが初めてだったことなど色々なメリットから、ライヴはここで行われることになったという。
 
@@ -28,7 +28,7 @@
 1.  **スペイス・クラッシュ**
       -
         (山下達郎)
-        練馬の実家から首都高速に乗って都心に向かう時、ちょうど完成したばかりの[サンシャイン60](../Page/サンシャイン60.md "wikilink")が眼前に現れる場所があり、曇りの日で上部が雲に隠れて見えなくて、「あれじゃ[バベルの塔](https://ja.wikipedia.org/wiki/バベルの塔 "wikilink")だ」と連想した経験に基づいて作られた曲。当時はテープ・レコーダーが16トラックで、リズム・トラックを録音した後は一人多重コーラスを行うにはチャンネルが足りなく、そこで、16トラックの中で一度ミックス・ダウンを行って2トラックのカラオケにした後、残りの14チャンネルを使ってコーラスを録音し、ある程度重なったらまた一つにまとめてといった具合に、後戻りのきかないリスキーな方法でレコーディングされた。山下によれば「[吉田保の技術あればこそ](https://ja.wikipedia.org/wiki/吉田保_\(レコーディングエンジニア\) "wikilink")」とし、アルバム1曲目だけがスタジオ・レコーディングなのは、単なる気分だという。
+        練馬の実家から首都高速に乗って都心に向かう時、ちょうど完成したばかりの[サンシャイン60](../Page/サンシャイン60.md "wikilink")が眼前に現れる場所があり、曇りの日で上部が雲に隠れて見えなくて、「あれじゃ[バベルの塔](../Page/バベルの塔.md "wikilink")だ」と連想した経験に基づいて作られた曲。当時はテープ・レコーダーが16トラックで、リズム・トラックを録音した後は一人多重コーラスを行うにはチャンネルが足りなく、そこで、16トラックの中で一度ミックス・ダウンを行って2トラックのカラオケにした後、残りの14チャンネルを使ってコーラスを録音し、ある程度重なったらまた一つにまとめてといった具合に、後戻りのきかないリスキーな方法でレコーディングされた。山下によれば「[吉田保の技術あればこそ](https://ja.wikipedia.org/wiki/吉田保_\(レコーディングエンジニア\) "wikilink")」とし、アルバム1曲目だけがスタジオ・レコーディングなのは、単なる気分だという。
 2.  **雨の女王**
       -
         (山下達郎)
@@ -37,7 +37,7 @@
       -
         (岩沢二弓, 岩沢幸矢)
         ©1974 Edition People Music
-        [1974年](../Page/1974年.md "wikilink")に発表された[ブレッド&バター](https://ja.wikipedia.org/wiki/ブレッド&バター "wikilink")のカヴァー。ライヴ・アルバムということなので、日本の作品のカヴァーをいくつか演奏しようと選ばれた。山下にとって昔から好きな曲だったが、彼らのオリジナル・ヴァージョンのアレンジはレイド・バックし過ぎているように思えたので、オリジナルよりテンポ・アップさせて、フックをもっとスリリングにといった自分流の解釈になったという。1980年代のライブでは、さらにテンポ・アップされたヴァージョンで演奏された。
+        [1974年](../Page/1974年.md "wikilink")に発表された[ブレッド&バター](../Page/ブレッド&バター.md "wikilink")のカヴァー。ライヴ・アルバムということなので、日本の作品のカヴァーをいくつか演奏しようと選ばれた。山下にとって昔から好きな曲だったが、彼らのオリジナル・ヴァージョンのアレンジはレイド・バックし過ぎているように思えたので、オリジナルよりテンポ・アップさせて、フックをもっとスリリングにといった自分流の解釈になったという。1980年代のライブでは、さらにテンポ・アップされたヴァージョンで演奏された。
 4.  **時よ**
       -
         (吉田美奈子)
@@ -95,16 +95,16 @@
 3.  **Marie**
       -
         (Tatsu Yamashita)
-        ©1978 [P.M.P.](https://ja.wikipedia.org/wiki/フジパシフィックミュージック "wikilink") / On Associates
+        ©1978 [P.M.P.](../Page/フジパシフィックミュージック.md "wikilink") / On Associates
         ライヴ・アルバムを作るのであれば、最後は絶対に一人アカペラのオリジナル・ドゥー・ワップ・ソングで終わるのだと決めていたという。CMのために作られた曲をフル・サイズに膨らませたもの\[9\]。
 
-|                                                                       |
-| --------------------------------------------------------------------- |
-| Musicians                                                             |
-| 山下達郎:    Rythm Guitar & Vocals                                        |
-| [村上“Ponta”秀一](https://ja.wikipedia.org/wiki/村上秀一 "wikilink")    Drums |
-| 岡沢章    Bass                                                           |
-| [松木恒秀](https://ja.wikipedia.org/wiki/松木恒秀 "wikilink")    Lead Guitar  |
+|                                                                      |
+| -------------------------------------------------------------------- |
+| Musicians                                                            |
+| 山下達郎:    Rythm Guitar & Vocals                                       |
+| [村上“Ponta”秀一](../Page/村上秀一.md "wikilink")    Drums                   |
+| 岡沢章    Bass                                                          |
+| [松木恒秀](https://ja.wikipedia.org/wiki/松木恒秀 "wikilink")    Lead Guitar |
 
 <table>
 <tbody>
@@ -117,17 +117,17 @@ Synthesyzer &amp; Arp Odyssey</p></td>
 </tbody>
 </table>
 
-|                                                                                                                                                       |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [土岐英史](../Page/土岐英史.md "wikilink")    Alto Sax & Soprano Sax                                                                                          |
-| [伊集加代](https://ja.wikipedia.org/wiki/伊集加代 "wikilink")子    Background Vocals                                                                           |
-| [吉田美奈子](https://ja.wikipedia.org/wiki/吉田美奈子 "wikilink")    Background Vocals, Fender Rhodes Piano in “Escape”                                         |
-| 尾形道子    Background Vocals                                                                                                                             |
-|                                                                                                                                                       |
-| PRODUCED BY 山下達郎                                                                                                                                      |
-| All Songs Arranged by 山下達郎                                                                                                                            |
-| Session Co-odinater    [小杉理宇造](https://ja.wikipedia.org/wiki/小杉理宇造 "wikilink"), 京極謙 ([P.M.P.](https://ja.wikipedia.org/wiki/フジパシフィック音楽出版 "wikilink")) |
-|                                                                                                                                                       |
+|                                                                                                                                    |
+| ---------------------------------------------------------------------------------------------------------------------------------- |
+| [土岐英史](../Page/土岐英史.md "wikilink")    Alto Sax & Soprano Sax                                                                       |
+| [伊集加代](../Page/伊集加代.md "wikilink")子    Background Vocals                                                                           |
+| [吉田美奈子](https://ja.wikipedia.org/wiki/吉田美奈子 "wikilink")    Background Vocals, Fender Rhodes Piano in “Escape”                      |
+| 尾形道子    Background Vocals                                                                                                          |
+|                                                                                                                                    |
+| PRODUCED BY 山下達郎                                                                                                                   |
+| All Songs Arranged by 山下達郎                                                                                                         |
+| Session Co-odinater    [小杉理宇造](../Page/小杉理宇造.md "wikilink"), 京極謙 ([P.M.P.](https://ja.wikipedia.org/wiki/フジパシフィック音楽出版 "wikilink")) |
+|                                                                                                                                    |
 
 |                                          |
 | ---------------------------------------- |
@@ -153,7 +153,7 @@ Synthesyzer &amp; Arp Odyssey</p></td>
 
 ### 解説
 
-2002年、“山下達郎 RCA/AIRイヤーズ 1976-1982”として、『[CIRCUS TOWN](../Page/CIRCUS_TOWN.md "wikilink")』\[10\]から『[FOR YOU](https://ja.wikipedia.org/wiki/FOR_YOU_\(山下達郎のアルバム\) "wikilink")』\[11\]までの7タイトルが山下監修によるデジタル・リマスタリング、および、自身によるライナーノーツと曲解説。CDには各タイトル毎に未発表音源を含むボーナス・トラック収録にてリイシューされ、本作には収録時間の関係でアナログ盤未収録だった2曲をボーナス・トラックとして収録。また、本作を含むRCA/AIRイヤーズ対象商品7タイトル購入者に応募者全員への特典として、リマスター盤『[COME ALONG](https://ja.wikipedia.org/wiki/COME_ALONG "wikilink")』がプレゼントされた。
+2002年、“山下達郎 RCA/AIRイヤーズ 1976-1982”として、『[CIRCUS TOWN](../Page/CIRCUS_TOWN.md "wikilink")』\[10\]から『[FOR YOU](../Page/FOR_YOU_\(山下達郎のアルバム\).md "wikilink")』\[11\]までの7タイトルが山下監修によるデジタル・リマスタリング、および、自身によるライナーノーツと曲解説。CDには各タイトル毎に未発表音源を含むボーナス・トラック収録にてリイシューされ、本作には収録時間の関係でアナログ盤未収録だった2曲をボーナス・トラックとして収録。また、本作を含むRCA/AIRイヤーズ対象商品7タイトル購入者に応募者全員への特典として、リマスター盤『[COME ALONG](https://ja.wikipedia.org/wiki/COME_ALONG "wikilink")』がプレゼントされた。
 
 ### 収録曲
 
@@ -252,12 +252,12 @@ Synthesyzer &amp; Arp Odyssey</p></td>
 
 |                                                                            |
 | -------------------------------------------------------------------------- |
-| [村上“PONTA”秀一](https://ja.wikipedia.org/wiki/村上秀一 "wikilink"): Drums        |
+| [村上“PONTA”秀一](../Page/村上秀一.md "wikilink"): Drums                           |
 | 岡沢章: Bass                                                                  |
 | [松木恒秀](https://ja.wikipedia.org/wiki/松木恒秀 "wikilink"): Electric Guitar     |
 | [坂本龍一](../Page/坂本龍一.md "wikilink"): Keyboards                              |
 | [土岐英史](../Page/土岐英史.md "wikilink"): Alto Sax & Soprano Sax                 |
-| [伊集加代](https://ja.wikipedia.org/wiki/伊集加代 "wikilink")子: Background Vocals  |
+| [伊集加代](../Page/伊集加代.md "wikilink")子: Background Vocals                     |
 | [吉田美奈子](https://ja.wikipedia.org/wiki/吉田美奈子 "wikilink"): Background Vocals |
 | 尾形道子: Background Vocals                                                    |
 
@@ -293,7 +293,7 @@ Synthesyzer &amp; Arp Odyssey</p></td>
 |                                                                                                   |
 | ------------------------------------------------------------------------------------------------- |
 | Produced & Arranged by 山下達郎                                                                       |
-| Production Co-odinater: [小杉理宇造](https://ja.wikipedia.org/wiki/小杉理宇造 "wikilink")                   |
+| Production Co-odinater: [小杉理宇造](../Page/小杉理宇造.md "wikilink")                                      |
 |                                                                                                   |
 | Recording & Mixing Engineer: [吉田保](https://ja.wikipedia.org/wiki/吉田保_\(レコーディングエンジニア\) "wikilink") |
 
@@ -334,8 +334,8 @@ Synthesyzer &amp; Arp Odyssey</p></td>
 [Category:山下達郎のアルバム](https://ja.wikipedia.org/wiki/Category:山下達郎のアルバム "wikilink") [Category:1978年のライブ・アルバム](https://ja.wikipedia.org/wiki/Category:1978年のライブ・アルバム "wikilink") [Category:RCAのアルバム](https://ja.wikipedia.org/wiki/Category:RCAのアルバム "wikilink")
 
 1.  『[SPACY](../Page/SPACY.md "wikilink")』 [1977年](../Page/1977年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")発売 LP:RCA ⁄ [RVC](https://ja.wikipedia.org/wiki/BMG_JAPAN#RVC "wikilink") LP:RVL-8004
-2.  [吉田美奈子](https://ja.wikipedia.org/wiki/吉田美奈子 "wikilink")『[LET'S DO IT -愛は思うまま-](https://ja.wikipedia.org/wiki/LET'S_DO_IT_-愛は思うまま- "wikilink")』 [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[10月25日](../Page/10月25日.md "wikilink")発売 [ALFA](https://ja.wikipedia.org/wiki/アルファレコード "wikilink") LP:ALR-6011
-3.  『[CIRCUS TOWN](../Page/CIRCUS_TOWN.md "wikilink")』 [1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink")[12月25日](../Page/12月25日.md "wikilink")発売 RCA ⁄ RVC LP:RVL-8004
+2.  [吉田美奈子](https://ja.wikipedia.org/wiki/吉田美奈子 "wikilink")『[LET'S DO IT -愛は思うまま-](https://ja.wikipedia.org/wiki/LET'S_DO_IT_-愛は思うまま- "wikilink")』 [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[10月25日](../Page/10月25日.md "wikilink")発売 [ALFA](../Page/アルファレコード.md "wikilink") LP:ALR-6011
+3.  『[CIRCUS TOWN](../Page/CIRCUS_TOWN.md "wikilink")』 [1976年](../Page/1976年.md "wikilink")[12月25日](../Page/12月25日.md "wikilink")発売 RCA ⁄ RVC LP:RVL-8004
 4.
 5.  『[GO AHEAD\!](https://ja.wikipedia.org/wiki/GO_AHEAD! "wikilink")』 [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[12月20日](../Page/12月20日.md "wikilink")発売 RCA ⁄ RVC LP:RVL-8004
 6.
@@ -343,4 +343,4 @@ Synthesyzer &amp; Arp Odyssey</p></td>
 8.
 9.  CMヴァージョンはファンクラブ通信販売アルバム『[山下達郎CM全集 Vol.1 (Second Edition)](https://ja.wikipedia.org/wiki/山下達郎CM全集_Vol.1_\(Second_Edition\) "wikilink")』（[1996年](../Page/1996年.md "wikilink")6月発売 WILD HONEY RECORDS CD:WCD-8002）に収録。
 10.
-11. 『[FOR YOU](https://ja.wikipedia.org/wiki/FOR_YOU_\(山下達郎のアルバム\) "wikilink")』 [1982年](../Page/1982年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink")発売 AIR ⁄ RVC LP:RAL-8801
+11. 『[FOR YOU](../Page/FOR_YOU_\(山下達郎のアルバム\).md "wikilink")』 [1982年](../Page/1982年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink")発売 AIR ⁄ RVC LP:RAL-8801

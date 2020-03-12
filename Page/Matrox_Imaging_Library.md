@@ -1,18 +1,18 @@
 > この記事は[Matrox Imaging Library](https://ja.wikipedia.org/wiki/Matrox_Imaging_Library)から翻訳されています。
 
 
-**Matrox Imaging Library**（マトロックス イメージング ライブラリ）は、カナダ[Matrox](https://ja.wikipedia.org/wiki/Matrox "wikilink")社のImaging部門が開発した総合[画像処理](https://ja.wikipedia.org/wiki/画像処理 "wikilink")ライブラリ。産業用として必要な画像処理機能をほぼ全て備えており、医療・薬品・半導体・自動車・印刷など多岐にわたる分野で使用されている。
+**Matrox Imaging Library**（マトロックス イメージング ライブラリ）は、カナダ[Matrox](../Page/Matrox.md "wikilink")社のImaging部門が開発した総合[画像処理](../Page/画像処理.md "wikilink")ライブラリ。産業用として必要な画像処理機能をほぼ全て備えており、医療・薬品・半導体・自動車・印刷など多岐にわたる分野で使用されている。
 
 略称は「MIL（ミル）」。
 
 ## 特長
 
-  - ライブラリは2種類に分かれており、[Visual C++向けに](https://ja.wikipedia.org/wiki/Visual_C++ "wikilink")**MIL**、VC++/[Visual Basic向けに](../Page/Visual_Basic.md "wikilink")**ActiveMIL**がある。また、[Visual Basic .NETや](https://ja.wikipedia.org/wiki/Visual_Basic_.NET "wikilink")[Visual C\#向けのマネージコード用ラッパーライブラリも含まれている](https://ja.wikipedia.org/wiki/Visual_C# "wikilink")。[Python](../Page/Python.md "wikilink")のサポートも存在する\[1\]。
+  - ライブラリは2種類に分かれており、[Visual C++向けに](https://ja.wikipedia.org/wiki/Visual_C++ "wikilink")**MIL**、VC++/[Visual Basic向けに](../Page/Visual_Basic.md "wikilink")**ActiveMIL**がある。また、[Visual Basic .NETや](../Page/Visual_Basic_.NET.md "wikilink")[Visual C\#向けのマネージコード用ラッパーライブラリも含まれている](https://ja.wikipedia.org/wiki/Visual_C# "wikilink")。[Python](../Page/Python.md "wikilink")のサポートも存在する\[1\]。
       - ActiveMILは[OCX](https://ja.wikipedia.org/wiki/OCX "wikilink")をバンドルし開発時間を短縮する。
       - MILは[C言語](../Page/C言語.md "wikilink")形式関数によって構成される共通APIにより直感的で操作性の容易さを提供する。
-  - Intel [MMX](https://ja.wikipedia.org/wiki/MMX "wikilink")および[SIMD](https://ja.wikipedia.org/wiki/SIMD "wikilink")拡張命令に最適化されており、[Xeon](../Page/Xeon.md "wikilink")、[Pentium](https://ja.wikipedia.org/wiki/Pentium "wikilink")、[Core DuoをはじめAMD](https://ja.wikipedia.org/wiki/Core_Duo "wikilink") [Opteron](https://ja.wikipedia.org/wiki/Opteron "wikilink")を有効活用。
+  - Intel [MMX](../Page/MMX.md "wikilink")および[SIMD](../Page/SIMD.md "wikilink")拡張命令に最適化されており、[Xeon](../Page/Xeon.md "wikilink")、[Pentium](https://ja.wikipedia.org/wiki/Pentium "wikilink")、[Core DuoをはじめAMD](https://ja.wikipedia.org/wiki/Core_Duo "wikilink") [Opteron](https://ja.wikipedia.org/wiki/Opteron "wikilink")を有効活用。
   - サブピクセル精度での結果検出。
-  - [マルチタスク](../Page/マルチタスク.md "wikilink")や[マルチプロセッシング](https://ja.wikipedia.org/wiki/マルチプロセッシング "wikilink")もサポート。
+  - [マルチタスク](../Page/マルチタスク.md "wikilink")や[マルチプロセッシング](../Page/マルチプロセッシング.md "wikilink")もサポート。
   - [オンラインヘルプ](https://ja.wikipedia.org/wiki/オンラインヘルプ "wikilink")やサンプルが充実。
 
 ## 開発環境
@@ -26,7 +26,7 @@ MIL 8.0は以下のOSおよび開発環境に対応している\[2\] \[3\] \[4\]
   - [Windows 2000](https://ja.wikipedia.org/wiki/Windows_2000 "wikilink") (SP4)
   - [Windows XP](https://ja.wikipedia.org/wiki/Windows_XP "wikilink") (SP2)
   - [Windows CE](https://ja.wikipedia.org/wiki/Windows_CE "wikilink")
-  - [Linux](https://ja.wikipedia.org/wiki/Linux "wikilink")
+  - [Linux](../Page/Linux.md "wikilink")
 
 #### 開発環境
 
@@ -43,7 +43,7 @@ MIL 9.0は以下のOSおよび開発環境に対応している\[5\]\[6\]。
   - [Windows Vista](https://ja.wikipedia.org/wiki/Windows_Vista "wikilink") (SP1, 32bit/64bit)
   - [Windows 7](https://ja.wikipedia.org/wiki/Windows_7 "wikilink") (SP1, 32bit/64bit)
   - [Windows CE](https://ja.wikipedia.org/wiki/Windows_CE "wikilink")
-  - [Linux](https://ja.wikipedia.org/wiki/Linux "wikilink") (32bit/64bit)
+  - [Linux](../Page/Linux.md "wikilink") (32bit/64bit)
 
 #### 開発環境
 
@@ -62,7 +62,7 @@ MIL 9.0は以下のOSおよび開発環境に対応している\[5\]\[6\]。
   - [Windows 7](https://ja.wikipedia.org/wiki/Windows_7 "wikilink") (SP1, 32bit/64bit)
   - [Windows 8](https://ja.wikipedia.org/wiki/Windows_8 "wikilink") (32bit/64bit)
   - [Windows 10](https://ja.wikipedia.org/wiki/Windows_10 "wikilink") (32bit/64bit)
-  - [Linux](https://ja.wikipedia.org/wiki/Linux "wikilink") (32bit/64bit)
+  - [Linux](../Page/Linux.md "wikilink") (32bit/64bit)
 
 #### 開発環境
 
@@ -71,7 +71,7 @@ MIL 9.0は以下のOSおよび開発環境に対応している\[5\]\[6\]。
   - Visual C\# 2008/2010/2012/2013
   - [GCC](https://ja.wikipedia.org/wiki/GNU_Compiler_Collection "wikilink") 4
 
-また、[MFC](https://ja.wikipedia.org/wiki/Microsoft_Foundation_Class "wikilink")/[Windows Forms](../Page/Windows_Forms.md "wikilink")/[WPF](../Page/Windows_Presentation_Foundation.md "wikilink")、[GTK+](https://ja.wikipedia.org/wiki/GTK+ "wikilink")/[Qt](https://ja.wikipedia.org/wiki/Qt "wikilink")といった各種フレームワークに対応している。
+また、[MFC](../Page/Microsoft_Foundation_Class.md "wikilink")/[Windows Forms](../Page/Windows_Forms.md "wikilink")/[WPF](../Page/Windows_Presentation_Foundation.md "wikilink")、[GTK+](https://ja.wikipedia.org/wiki/GTK+ "wikilink")/[Qt](../Page/Qt.md "wikilink")といった各種フレームワークに対応している。
 
 ## 販売・サポート
 

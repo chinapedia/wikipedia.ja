@@ -1,21 +1,21 @@
 > この記事は[KEIRIN\'86](https://ja.wikipedia.org/wiki/KEIRIN\'86)から翻訳されています。
 
 
-**KEIRINグランプリ'86**（けいりんぐらんぷりはちじゅうろく）は[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[12月30日](../Page/12月30日.md "wikilink")に[立川競輪場](https://ja.wikipedia.org/wiki/立川競輪場 "wikilink")で開催された[KEIRINグランプリ](../Page/KEIRINグランプリ.md "wikilink")である。優勝賞金1500万円\[1\]。
+**KEIRINグランプリ'86**（けいりんぐらんぷりはちじゅうろく）は[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[12月30日](../Page/12月30日.md "wikilink")に[立川競輪場](../Page/立川競輪場.md "wikilink")で開催された[KEIRINグランプリ](../Page/KEIRINグランプリ.md "wikilink")である。優勝賞金1500万円\[1\]。
 
 ## 出場選手
 
-| 車番 | 選手                                                        | [登録地](../Page/都道府県.md "wikilink")                  |
-| -- | --------------------------------------------------------- | -------------------------------------------------- |
-| 1  | [滝澤正光](https://ja.wikipedia.org/wiki/滝澤正光 "wikilink")     | [千葉](https://ja.wikipedia.org/wiki/千葉県 "wikilink") |
-| 2  | **[井上茂徳](https://ja.wikipedia.org/wiki/井上茂徳 "wikilink")** | [佐賀](../Page/佐賀県.md "wikilink")                    |
-| 3  | [中野浩一](https://ja.wikipedia.org/wiki/中野浩一 "wikilink")     | [福岡](https://ja.wikipedia.org/wiki/福岡県 "wikilink") |
-| 4  | [清嶋彰一](https://ja.wikipedia.org/wiki/清嶋彰一 "wikilink")     | [東京](https://ja.wikipedia.org/wiki/東京都 "wikilink") |
-| 5  | [山口健治](https://ja.wikipedia.org/wiki/山口健治 "wikilink")     | 東京                                                 |
-| 6  | [菅田順和](https://ja.wikipedia.org/wiki/菅田順和 "wikilink")     | [宮城](https://ja.wikipedia.org/wiki/宮城県 "wikilink") |
-| 7  | [佐々木昭彦](https://ja.wikipedia.org/wiki/佐々木昭彦 "wikilink")   | 佐賀                                                 |
-| 8  | [伊藤豊明](https://ja.wikipedia.org/wiki/伊藤豊明 "wikilink")     | [愛媛](../Page/愛媛県.md "wikilink")                    |
-| 9  | [本田晴美](../Page/本田晴美.md "wikilink")                        | [岡山](https://ja.wikipedia.org/wiki/岡山県 "wikilink") |
+| 車番 | 選手                                                    | [登録地](../Page/都道府県.md "wikilink")                  |
+| -- | ----------------------------------------------------- | -------------------------------------------------- |
+| 1  | [滝澤正光](../Page/滝澤正光.md "wikilink")                    | [千葉](../Page/千葉県.md "wikilink")                    |
+| 2  | **[井上茂徳](../Page/井上茂徳.md "wikilink")**                | [佐賀](../Page/佐賀県.md "wikilink")                    |
+| 3  | [中野浩一](../Page/中野浩一.md "wikilink")                    | [福岡](../Page/福岡県.md "wikilink")                    |
+| 4  | [清嶋彰一](../Page/清嶋彰一.md "wikilink")                    | [東京](../Page/東京都.md "wikilink")                    |
+| 5  | [山口健治](../Page/山口健治.md "wikilink")                    | 東京                                                 |
+| 6  | [菅田順和](../Page/菅田順和.md "wikilink")                    | [宮城](https://ja.wikipedia.org/wiki/宮城県 "wikilink") |
+| 7  | [佐々木昭彦](../Page/佐々木昭彦.md "wikilink")                  | 佐賀                                                 |
+| 8  | [伊藤豊明](https://ja.wikipedia.org/wiki/伊藤豊明 "wikilink") | [愛媛](../Page/愛媛県.md "wikilink")                    |
+| 9  | [本田晴美](../Page/本田晴美.md "wikilink")                    | [岡山](https://ja.wikipedia.org/wiki/岡山県 "wikilink") |
 
   - 誘導員 - [恩田繁雄](https://ja.wikipedia.org/wiki/恩田繁雄 "wikilink")
 
@@ -29,17 +29,17 @@
 
 ## 競走結果
 
-| 着順 | 選手                                                        | [決まり手](../Page/決まり手.md "wikilink") |
-| -- | --------------------------------------------------------- | ---------------------------------- |
-| 1  | **[井上茂徳](https://ja.wikipedia.org/wiki/井上茂徳 "wikilink")** | 差                                  |
-| 2  | [清嶋彰一](https://ja.wikipedia.org/wiki/清嶋彰一 "wikilink")     | 逃                                  |
-| 3  | [中野浩一](https://ja.wikipedia.org/wiki/中野浩一 "wikilink")     |                                    |
-| 4  | [山口健治](https://ja.wikipedia.org/wiki/山口健治 "wikilink")     |                                    |
-| 5  | [菅田順和](https://ja.wikipedia.org/wiki/菅田順和 "wikilink")     |                                    |
-| 6  | [滝澤正光](https://ja.wikipedia.org/wiki/滝澤正光 "wikilink")     |                                    |
-| 7  | [伊藤豊明](https://ja.wikipedia.org/wiki/伊藤豊明 "wikilink")     |                                    |
-| 8  | [佐々木昭彦](https://ja.wikipedia.org/wiki/佐々木昭彦 "wikilink")   |                                    |
-| 9  | [本田晴美](../Page/本田晴美.md "wikilink")                        |                                    |
+| 着順 | 選手                                                    | [決まり手](../Page/決まり手.md "wikilink") |
+| -- | ----------------------------------------------------- | ---------------------------------- |
+| 1  | **[井上茂徳](../Page/井上茂徳.md "wikilink")**                | 差                                  |
+| 2  | [清嶋彰一](../Page/清嶋彰一.md "wikilink")                    | 逃                                  |
+| 3  | [中野浩一](../Page/中野浩一.md "wikilink")                    |                                    |
+| 4  | [山口健治](../Page/山口健治.md "wikilink")                    |                                    |
+| 5  | [菅田順和](../Page/菅田順和.md "wikilink")                    |                                    |
+| 6  | [滝澤正光](../Page/滝澤正光.md "wikilink")                    |                                    |
+| 7  | [伊藤豊明](https://ja.wikipedia.org/wiki/伊藤豊明 "wikilink") |                                    |
+| 8  | [佐々木昭彦](../Page/佐々木昭彦.md "wikilink")                  |                                    |
+| 9  | [本田晴美](../Page/本田晴美.md "wikilink")                    |                                    |
 
 ### 配当金額
 
@@ -57,7 +57,7 @@
 
 <!-- end list -->
 
-  - [井上茂徳](https://ja.wikipedia.org/wiki/井上茂徳 "wikilink")はレース前から肋骨にヒビが入っており、レース後の胴上げでも笑顔ながら脇を押さえ、痛がる様子がみられた。
+  - [井上茂徳](../Page/井上茂徳.md "wikilink")はレース前から肋骨にヒビが入っており、レース後の胴上げでも笑顔ながら脇を押さえ、痛がる様子がみられた。
 
 ## 脚注
 

@@ -1,7 +1,7 @@
 > この記事は[SQLJ](https://ja.wikipedia.org/wiki/SQLJ)から翻訳されています。
 
 
-**SQLJ**（えすきゅーえるじぇい）は、[コンピュータ](../Page/コンピュータ.md "wikilink")の[Java](https://ja.wikipedia.org/wiki/Java "wikilink")の[プログラムに](../Page/プログラム_\(コンピュータ\).md "wikilink")[SQL](../Page/SQL.md "wikilink")文を埋め込む方法 ([埋め込みSQL](https://ja.wikipedia.org/wiki/埋め込みSQL "wikilink")) を定めた[ISO標準](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")（ISO/IEC 9075-10）である。
+**SQLJ**（えすきゅーえるじぇい）は、[コンピュータ](../Page/コンピュータ.md "wikilink")の[Java](https://ja.wikipedia.org/wiki/Java "wikilink")の[プログラムに](../Page/プログラム_\(コンピュータ\).md "wikilink")[SQL](../Page/SQL.md "wikilink")文を埋め込む方法 ([埋め込みSQL](../Page/埋め込みSQL.md "wikilink")) を定めた[ISO標準](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")（ISO/IEC 9075-10）である。
 
 [APIである](../Page/アプリケーションプログラミングインタフェース.md "wikilink")[JDBC](../Page/JDBC.md "wikilink")とは異なり、SQLJは[プログラミング言語](../Page/プログラミング言語.md "wikilink")Javaを拡張したものである。そのため、SQLJプログラムを実行するためには、プログラムを[コンパイル](https://ja.wikipedia.org/wiki/コンパイル "wikilink")する前に[プリプロセッサ](../Page/プリプロセッサ.md "wikilink")（SQLJトランスレータ）で変換しなければならない。
 
@@ -14,7 +14,7 @@ SQLJがJDBCより優れている点は、次のとおりである。
 
   - プリプロセスが必要である。
   - SQLJをサポートしている[統合開発環境](../Page/統合開発環境.md "wikilink") (IDE) が少ない。
-  - [Hibernate](https://ja.wikipedia.org/wiki/Hibernate "wikilink")のような[永続化](https://ja.wikipedia.org/wiki/永続化 "wikilink")フレームワーク ([オブジェクトリレーショナルマッピング](https://ja.wikipedia.org/wiki/オブジェクトリレーショナルマッピング "wikilink")) でSQLJがサポートされていない。
+  - [Hibernate](../Page/Hibernate.md "wikilink")のような[永続化](https://ja.wikipedia.org/wiki/永続化 "wikilink")フレームワーク ([オブジェクトリレーショナルマッピング](https://ja.wikipedia.org/wiki/オブジェクトリレーショナルマッピング "wikilink")) でSQLJがサポートされていない。
 
 ## 例
 

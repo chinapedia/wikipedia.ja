@@ -1,7 +1,7 @@
 > この記事は[Yanokami](https://ja.wikipedia.org/wiki/Yanokami)から翻訳されています。
 
 
-**yanokami**（ヤノカミ）は[矢野顕子](../Page/矢野顕子.md "wikilink")と[レイ・ハラカミ](https://ja.wikipedia.org/wiki/レイ・ハラカミ "wikilink")によるスペシャル[ユニットである](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")。
+**yanokami**（ヤノカミ）は[矢野顕子](../Page/矢野顕子.md "wikilink")と[レイ・ハラカミ](../Page/レイ・ハラカミ.md "wikilink")によるスペシャル[ユニットである](../Page/音楽ユニット.md "wikilink")。
 
 ## 概要
 
@@ -12,7 +12,7 @@
 ## メンバー
 
   - **[矢野顕子](../Page/矢野顕子.md "wikilink")**
-  - **[レイ・ハラカミ](https://ja.wikipedia.org/wiki/レイ・ハラカミ "wikilink")**
+  - **[レイ・ハラカミ](../Page/レイ・ハラカミ.md "wikilink")**
 
 ## ディスコグラフィー
 
@@ -44,16 +44,16 @@
 ## ライブ
 
   - iTunes presents LIVE from Tokyo : yanokami
-      - 2007.07.29　東京・[Apple Store](https://ja.wikipedia.org/wiki/Apple_Store "wikilink") Ginza
+      - 2007.07.29　東京・[Apple Store](../Page/Apple_Store.md "wikilink") Ginza
   - yanokami live LIQUIDROOM 3rd ANNIVERSARY
       - 2007.08.25　東京・[LIQUIDROOM](https://ja.wikipedia.org/wiki/LIQUIDROOM "wikilink")
   - 矢野顕子ソロ+yanokami ジョイント公演
       - 2007.12.14　大阪・[NHK大阪ホール](../Page/NHK大阪ホール.md "wikilink")
-      - 2007.12.15　東京・[NHKホール](https://ja.wikipedia.org/wiki/NHKホール "wikilink")
+      - 2007.12.15　東京・[NHKホール](../Page/NHKホール.md "wikilink")
   - yanokami live 08
-      - 2008.8.26 名古屋・名古屋[CLUB QUATTRO](https://ja.wikipedia.org/wiki/CLUB_QUATTRO "wikilink")
+      - 2008.8.26 名古屋・名古屋[CLUB QUATTRO](../Page/CLUB_QUATTRO.md "wikilink")
       - 2008.8.27 大阪・心斎橋CLUB QUATTRO
-  - WWW presents “yanokami / [七尾旅人](https://ja.wikipedia.org/wiki/七尾旅人 "wikilink")”
+  - WWW presents “yanokami / [七尾旅人](../Page/七尾旅人.md "wikilink")”
       - 2010.12.15 東京・WWW
   - yanokami indoor festival
       - 2013.8.30　東京・[LIQUIDROOM](https://ja.wikipedia.org/wiki/LIQUIDROOM "wikilink")
@@ -61,9 +61,9 @@
 ## 出演
 
   - [ROCK IN JAPAN FESTIVAL](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink") 2007
-  - [SUMMER SONIC](https://ja.wikipedia.org/wiki/サマーソニック "wikilink") 2007
+  - [SUMMER SONIC](../Page/サマーソニック.md "wikilink") 2007
   - [SETSTOCK](../Page/SETSTOCK.md "wikilink") 2010
-  - [RISING SUN ROCK FESTIVAL](https://ja.wikipedia.org/wiki/ライジング・サン・ロックフェスティバル "wikilink") 2010 in EZO
+  - [RISING SUN ROCK FESTIVAL](../Page/ライジング・サン・ロックフェスティバル.md "wikilink") 2010 in EZO
   - ROCK IN JAPAN FESTIVAL 2011 - ハラカミ死去のため、矢野のみ出演。
   - SUMMER SONIC 2011 - 矢野のみ出演。ゲストに[u-zhaan](https://ja.wikipedia.org/wiki/u-zhaan "wikilink")が参加。
   - [ARABAKI ROCK FESTIVAL](https://ja.wikipedia.org/wiki/荒吐ロックフェスティバル "wikilink") 2011 - 矢野のみ出演。u-zhaanも参加。
@@ -76,7 +76,7 @@
 
 ## 関連項目
 
-  - [2007年の音楽](https://ja.wikipedia.org/wiki/2007年の音楽 "wikilink")
+  - [2007年の音楽](../Page/2007年の音楽.md "wikilink")
 
 ## 外部リンク
 

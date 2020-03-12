@@ -14,10 +14,10 @@
   - [門脇知子](../Page/門脇知子.md "wikilink")
       - 門脇が休暇をとったり、体調不良で出演できない時は以下のピンチヒッターが出演する。ピンチヒッター出演時は多くのジングルが差し替えられる。
           - [田中美和子](https://ja.wikipedia.org/wiki/田中美和子 "wikilink")
-          - [きゃんひとみ](https://ja.wikipedia.org/wiki/きゃんひとみ "wikilink")
+          - [きゃんひとみ](../Page/きゃんひとみ.md "wikilink")
           - [小島麻子](https://ja.wikipedia.org/wiki/小島麻子 "wikilink")
           - [酒井道代](../Page/酒井道代.md "wikilink")
-          - [斉藤りさ](https://ja.wikipedia.org/wiki/斉藤りさ "wikilink")
+          - [斉藤りさ](../Page/斉藤りさ.md "wikilink")
           - [Roni](../Page/Roni.md "wikilink")
 
 「MARIVE FUNKY SHUFFLE」の頃から昼の声であり、並行して同局・夜の「INTER X-PRESS」も担当していた門脇であるが、2013年2月に[子宮頸がん](https://ja.wikipedia.org/wiki/子宮頸がん "wikilink")に罹っている事を告白した。手術と療養のため翌月の1ヶ月間休養する旨を報告した。結局「RADIO SURPRISE\!\!」を降板し、復帰後は「INTER X-PRESS」のみ出演している。bayfmも「RADIO SURPRISE\!\!」の継続を断念し、後番組に[松本ともこ](../Page/松本ともこ.md "wikilink")（djmapi）を起用した「[with you](https://ja.wikipedia.org/wiki/with_you_\(ベイエフエム\) "wikilink")」が同年4月にスタートした。
@@ -35,7 +35,7 @@
 
 <!-- end list -->
 
-  - 14:10　[インフォマーシャル枠](https://ja.wikipedia.org/wiki/生コマーシャル "wikilink")
+  - 14:10　[インフォマーシャル枠](../Page/生コマーシャル.md "wikilink")
   - 14:15　TRAFFIC UPDATES
   - 14:20　ゲストコーナー（ゲスト出演時のみ）
   - 14:45　TRAFFIC UPDATES
@@ -44,9 +44,9 @@
 <!-- end list -->
 
   - 15:04(火・木15:00)　曜日別コーナー
-      - [アイダ設計](https://ja.wikipedia.org/wiki/アイダ設計 "wikilink") SWEET HOME STYLE（月）
+      - [アイダ設計](../Page/アイダ設計.md "wikilink") SWEET HOME STYLE（月）
       - MEDICAL UPDATES（火）
-      - [YAMAZAKI](https://ja.wikipedia.org/wiki/山崎製パン "wikilink") SURPRISE JUKEBOX（水）
+      - [YAMAZAKI](../Page/山崎製パン.md "wikilink") SURPRISE JUKEBOX（水）
       - インターフェイス presents 3時のバンド伝説（木）
   - 15:15　TRAFFIC UPDATES
   - 15:18　RADIO PRO SHOPPER\! （ムッシュ中島・バーバラ田所・リリアン原山）

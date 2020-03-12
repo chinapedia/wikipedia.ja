@@ -1,7 +1,7 @@
 > この記事は[KAME\&L.N.K](https://ja.wikipedia.org/wiki/KAME\&L.N.K)から翻訳されています。
 
 
-**KAME\&L.N.K**（カメ・アンド・リンク）は、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[豊田市](https://ja.wikipedia.org/wiki/豊田市 "wikilink")出身の[ヒップホップ](../Page/ヒップホップ.md "wikilink")[グループ](https://ja.wikipedia.org/wiki/グループ "wikilink")である。[2007年](../Page/2007年.md "wikilink")、[EMIミュージック・ジャパン](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")よりメジャーデビュー。 2009年9月25日をもって解散。
+**KAME\&L.N.K**（カメ・アンド・リンク）は、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[豊田市](https://ja.wikipedia.org/wiki/豊田市 "wikilink")出身の[ヒップホップ](../Page/ヒップホップ.md "wikilink")[グループ](https://ja.wikipedia.org/wiki/グループ "wikilink")である。[2007年](../Page/2007年.md "wikilink")、[EMIミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink")よりメジャーデビュー。 2009年9月25日をもって解散。
 
 ## メンバー
 
@@ -26,7 +26,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/2月9日.md" title="wikilink">2月9日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/2月9日.md" title="wikilink">2月9日</a></p></td>
 <td><p><strong>スマイル</strong></p></td>
 <td><p>DBCD-1002</p></td>
 <td><ol>
@@ -77,12 +77,12 @@
 </tr>
 <tr class="odd">
 <td><p>5th</p></td>
-<td><p>2008年<a href="https://ja.wikipedia.org/wiki/12月10日" title="wikilink">12月10日</a></p></td>
+<td><p>2008年<a href="../Page/12月10日.md" title="wikilink">12月10日</a></p></td>
 <td><p><strong>I LOVE TOFU</strong></p></td>
 <td><p>TOCT-40312</p></td>
 <td><ol>
 <li>I LOVE TOFU 【作詞:内柴翼/作曲:内柴翼,加藤雅也,岡本正勇】</li>
-<li>I LOVE TOFU（HAMMER Remix）HAMMER from <a href="https://ja.wikipedia.org/wiki/2BACKKA" title="wikilink">2BACKKA</a></li>
+<li>I LOVE TOFU（HAMMER Remix）HAMMER from <a href="../Page/2BACKKA.md" title="wikilink">2BACKKA</a></li>
 <li>I LOVE TOFU（FUN☆FUNk MIX）</li>
 <li>I LOVE TOFU（DawnTown Remix）</li>
 <li>I LOVE TOFU（Sound Around Remix）</li>
@@ -96,7 +96,7 @@
 <td><p><strong>school life</strong></p></td>
 <td><p>TOCT-40245</p></td>
 <td><ol>
-<li>school life 【作詞作曲:内柴翼/編曲:Shintaro"Growth"Izutsu】（<a href="https://ja.wikipedia.org/wiki/TBSテレビ" title="wikilink">TBS系</a>「<a href="https://ja.wikipedia.org/wiki/COUNT_DOWN_TV" title="wikilink">COUNT DOWN TV</a>」オープニングテーマ）</li>
+<li>school life 【作詞作曲:内柴翼/編曲:Shintaro"Growth"Izutsu】（<a href="../Page/TBSテレビ.md" title="wikilink">TBS系</a>「<a href="../Page/COUNT_DOWN_TV.md" title="wikilink">COUNT DOWN TV</a>」オープニングテーマ）</li>
 <li>旅立ちの歌 【作詞作曲:内柴翼/編曲:加藤雅也】</li>
 <li>DREAM COME TRUE 【作詞作曲:内柴翼】</li>
 <li>school life（Instrumental）</li>
@@ -130,7 +130,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1stミニ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/4月5日.md" title="wikilink">4月5日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/4月5日.md" title="wikilink">4月5日</a></p></td>
 <td><p><strong>君と二人</strong></p></td>
 <td><p>DBCD-1004</p></td>
 <td><ol>
@@ -176,7 +176,7 @@ TOCT-26808:通常盤</p></td>
 <td><ol>
 <li>CHANGE 【作詞作曲:内柴翼】</li>
 <li>ベストフレンド 【作詞作曲:内柴翼】</li>
-<li>school life 【作詞:内柴翼/作曲:内柴翼,Shintaro "Growth" Izutsu/編曲:Shintaro "Growth" Izutsu】 （<a href="https://ja.wikipedia.org/wiki/TBSテレビ" title="wikilink">TBS系</a>「<a href="https://ja.wikipedia.org/wiki/COUNT_DOWN_TV" title="wikilink">CDTV</a>」 2月度オープニングテーマ）</li>
+<li>school life 【作詞:内柴翼/作曲:内柴翼,Shintaro "Growth" Izutsu/編曲:Shintaro "Growth" Izutsu】 （<a href="../Page/TBSテレビ.md" title="wikilink">TBS系</a>「<a href="../Page/COUNT_DOWN_TV.md" title="wikilink">CDTV</a>」 2月度オープニングテーマ）</li>
 <li>SUN SUN 4拍子 【作詞:内柴翼/作曲:内柴翼,加藤雅也】</li>
 <li>君☆Magic 【作詞作曲:内柴翼】</li>
 <li>幸せになってね 【作詞作曲:内柴翼】</li>
@@ -188,7 +188,7 @@ TOCT-26808:通常盤</p></td>
 <td><p>【作詞作曲:内柴翼】</p>
 <ol>
 <li>リズム 【作詞:内柴翼/作曲:内柴翼,加藤雅也】</li>
-<li>僕らは強く生きてる 【作詞:内柴翼/作曲:内柴翼,加藤雅也】 （<a href="https://ja.wikipedia.org/wiki/TBSテレビ" title="wikilink">TBS系</a>「<a href="https://ja.wikipedia.org/wiki/あらびき団" title="wikilink">あらびき団</a>」エンディング・テーマ）</li>
+<li>僕らは強く生きてる 【作詞:内柴翼/作曲:内柴翼,加藤雅也】 （<a href="../Page/TBSテレビ.md" title="wikilink">TBS系</a>「<a href="https://ja.wikipedia.org/wiki/あらびき団" title="wikilink">あらびき団</a>」エンディング・テーマ）</li>
 <li>GOOD DAY 【作詞作曲:内柴翼】</li>
 <li>詩 GO TO 人　by THREE RIVERS[KAME, MICRO(from HOME MADE 家族), 【作詞作曲:内柴翼,MICRO,TUT-1026】</li>
 </ol>
@@ -219,16 +219,16 @@ TOCT-26808:通常盤</p></td>
 
 ## 出演
 
-  - 2004年12月03日 - 日本テレビ系「[音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")」
+  - 2004年12月03日 - 日本テレビ系「[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")」
   - 2008年04月10日 - テレビ朝日系「FUTURE TRACKS→R」
-  - 2009年02月21日 - TBS系「[開運音楽堂](https://ja.wikipedia.org/wiki/開運音楽堂 "wikilink")」
+  - 2009年02月21日 - TBS系「[開運音楽堂](../Page/開運音楽堂.md "wikilink")」
 
 ## 関連項目
 
   - [HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")
-  - [2007年の音楽](https://ja.wikipedia.org/wiki/2007年の音楽 "wikilink")
-  - [東海ラジオミッドナイトスペシャル](https://ja.wikipedia.org/wiki/東海ラジオミッドナイトスペシャル "wikilink")
-  - [東海ラジオ ガッツナイター](https://ja.wikipedia.org/wiki/東海ラジオ_ガッツナイター "wikilink")（2007年途中より、後に『ガッツ\!\!』として発売された[ガッツナイター最前線](https://ja.wikipedia.org/wiki/ガッツナイター最前線 "wikilink")でも使用されているジングルを提供。2009年からはガッツナイターの新しいタイトルコールやジングルを担当）
+  - [2007年の音楽](../Page/2007年の音楽.md "wikilink")
+  - [東海ラジオミッドナイトスペシャル](../Page/東海ラジオミッドナイトスペシャル.md "wikilink")
+  - [東海ラジオ ガッツナイター](../Page/東海ラジオ_ガッツナイター.md "wikilink")（2007年途中より、後に『ガッツ\!\!』として発売された[ガッツナイター最前線](../Page/ガッツナイター最前線.md "wikilink")でも使用されているジングルを提供。2009年からはガッツナイターの新しいタイトルコールやジングルを担当）
 
 ## 外部リンク
 

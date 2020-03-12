@@ -1,14 +1,14 @@
 > この記事は[MICRON\' STUFF](https://ja.wikipedia.org/wiki/MICRON\'_STUFF)から翻訳されています。
 
 
-**MICRON' STUFF**（マイクロン・スタフ）は[関西](https://ja.wikipedia.org/wiki/関西 "wikilink")出身の5人組[ミクスチャー・ロック](https://ja.wikipedia.org/wiki/ミクスチャー・ロック "wikilink")[グループ](https://ja.wikipedia.org/wiki/グループ "wikilink")である。専門学校の同級生同士で結成。2006年[rhythm zoneよりメジャーデビュー](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。2010年[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")に行われたライブを最後に解散した。
+**MICRON' STUFF**（マイクロン・スタフ）は[関西](https://ja.wikipedia.org/wiki/関西 "wikilink")出身の5人組[ミクスチャー・ロック](../Page/ミクスチャー・ロック.md "wikilink")[グループ](https://ja.wikipedia.org/wiki/グループ "wikilink")である。専門学校の同級生同士で結成。2006年[rhythm zoneよりメジャーデビュー](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。2010年[4月3日](../Page/4月3日.md "wikilink")に行われたライブを最後に解散した。
 
 ## メンバー
 
   - **BINGO**（ビンゴ、[1981年](../Page/1981年.md "wikilink")[8月10日](../Page/8月10日.md "wikilink") - ）MC
   - **SHIGE**（シゲ、[1981年](../Page/1981年.md "wikilink")[5月17日](../Page/5月17日.md "wikilink") - ）MC
-  - **KENGO**（ケンゴ、[1982年](../Page/1982年.md "wikilink")[3月21日](https://ja.wikipedia.org/wiki/3月21日 "wikilink") - ）ギター・コーラス
-  - **MUNEYOSHI**（ムネヨシ、[1981年](../Page/1981年.md "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink") - ）ベース
+  - **KENGO**（ケンゴ、[1982年](../Page/1982年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink") - ）ギター・コーラス
+  - **MUNEYOSHI**（ムネヨシ、[1981年](../Page/1981年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink") - ）ベース
   - **GEJI**（ゲジ、[1981年](../Page/1981年.md "wikilink")[4月10日](../Page/4月10日.md "wikilink") - ）ギター・プログラミング
 
 ## ディスコグラフィー
@@ -41,7 +41,7 @@
     3.  Relax Time
     4.  Fly away
     5.  innocent mind
-3.  **25**（2007年5月23日）[屋敷豪太](https://ja.wikipedia.org/wiki/屋敷豪太 "wikilink")プロデュース
+3.  **25**（2007年5月23日）[屋敷豪太](../Page/屋敷豪太.md "wikilink")プロデュース
     1.  見る前に跳べ
     2.  デイ・ドリーム・フリーター
     3.  Pulp fiction
@@ -89,7 +89,7 @@
 3.  **AMAJOR**（2009年9月9日）
     1.  ミックスジュース
     2.  step to the NEXT
-    3.  ロリポップ feat. [杏子](https://ja.wikipedia.org/wiki/杏子_\(ミュージシャン\) "wikilink")
+    3.  ロリポップ feat. [杏子](../Page/杏子_\(ミュージシャン\).md "wikilink")
     4.  Realize
     5.  Forever & Ever
     6.  FLASH

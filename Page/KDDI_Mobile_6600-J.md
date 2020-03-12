@@ -1,7 +1,7 @@
 > この記事は[KDDI Mobile 6600-J](https://ja.wikipedia.org/wiki/KDDI_Mobile_6600-J)から翻訳されています。
 
 
-**KDDI Mobile 6600-J**（ケイディーディーアイモバイル6600-J）は、[三洋電機](../Page/三洋電機.md "wikilink")（大阪、現：[京セラ](../Page/京セラ.md "wikilink") SANYOブランド）によって開発・製造された、 [KDDIモバイル](../Page/KDDIモバイル.md "wikilink")の[AMPS](https://ja.wikipedia.org/wiki/AMPS "wikilink")及び[CDMA2000 1xのデュアルモードデュアルバンド](../Page/CDMA2000_1x.md "wikilink")[携帯電話](../Page/携帯電話.md "wikilink")端末である
+**KDDI Mobile 6600-J**（ケイディーディーアイモバイル6600-J）は、[三洋電機](../Page/三洋電機.md "wikilink")（大阪、現：[京セラ](../Page/京セラ.md "wikilink") SANYOブランド）によって開発・製造された、 [KDDIモバイル](../Page/KDDIモバイル.md "wikilink")の[AMPS](../Page/AMPS.md "wikilink")及び[CDMA2000 1xのデュアルモードデュアルバンド](../Page/CDMA2000_1x.md "wikilink")[携帯電話](../Page/携帯電話.md "wikilink")端末である
 
 ## 特徴
 
@@ -9,7 +9,7 @@
 
 ## 年表
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[6月8日](../Page/6月8日.md "wikilink") : 認可 [FCC ID](https://ja.wikipedia.org/wiki/FCC_ID "wikilink") AEZSCP-66H。
+  - [2006年](../Page/2006年.md "wikilink")[6月8日](../Page/6月8日.md "wikilink") : 認可 [FCC ID](https://ja.wikipedia.org/wiki/FCC_ID "wikilink") AEZSCP-66H。
   - [2007年](../Page/2007年.md "wikilink")[7月16日](../Page/7月16日.md "wikilink") : 発売。
 
 ## 関連項目

@@ -1,7 +1,7 @@
 > この記事は[Tattoo -](https://ja.wikipedia.org/wiki/Tattoo_-)から翻訳されています。
 
 
-『**Tattoo -刺青**』（タトゥー いれずみ、原題：**刺青**、英題：**Spider Lilies**）は、[周美玲](https://ja.wikipedia.org/wiki/周美玲 "wikilink")（ゼロ・チョウ）監督による[台湾映画](https://ja.wikipedia.org/wiki/台湾映画 "wikilink")。[刺青を通じて恋愛感情や友情とは何かを探る](https://ja.wikipedia.org/wiki/入れ墨 "wikilink")[レズビアンの女性たちを描いた作品](https://ja.wikipedia.org/wiki/同性愛 "wikilink")。
+『**Tattoo -刺青**』（タトゥー いれずみ、原題：**刺青**、英題：**Spider Lilies**）は、[周美玲](https://ja.wikipedia.org/wiki/周美玲 "wikilink")（ゼロ・チョウ）監督による[台湾映画](../Page/台湾映画.md "wikilink")。[刺青を通じて恋愛感情や友情とは何かを探る](https://ja.wikipedia.org/wiki/入れ墨 "wikilink")[レズビアンの女性たちを描いた作品](https://ja.wikipedia.org/wiki/同性愛 "wikilink")。
 
 日本では『TATTOO -刺青-』の邦題で第16回[東京国際レズビアン&ゲイ映画祭](https://ja.wikipedia.org/wiki/東京国際レズビアン&ゲイ映画祭 "wikilink")（2007年）で上映された後、「[台湾シネマコレクション2008](https://ja.wikipedia.org/wiki/台湾シネマコレクション2008 "wikilink")」と題した特集上映にて東京・大阪で公開された。
 
@@ -11,7 +11,7 @@
 
 ## キャスト
 
-  - 小緑：[楊丞琳](https://ja.wikipedia.org/wiki/楊丞琳 "wikilink")（レイニー・ヤン）
+  - 小緑：[楊丞琳](../Page/楊丞琳.md "wikilink")（レイニー・ヤン）
       -
         昼間は学生、夜は[ネットアイドルとして活動](https://ja.wikipedia.org/wiki/\<!--?--\>サイバーセックス "wikilink")。一見して考えが浅そうだが、内心は複雑。
   - 竹子：[梁洛施](https://ja.wikipedia.org/wiki/梁洛施 "wikilink")（イザベラ・リョン）
@@ -28,7 +28,7 @@
         竹子の弟。地震のショックが原因で家族に関する記憶が失われている。
   - 大宇：[謝秉翰](https://ja.wikipedia.org/wiki/謝秉翰 "wikilink")
       -
-        [警察](https://ja.wikipedia.org/wiki/警察 "wikilink")のネット担当捜査官。小緑のサイトの捜査を行う。
+        [警察](../Page/警察.md "wikilink")のネット担当捜査官。小緑のサイトの捜査を行う。
 
 ## ストーリー
 
@@ -38,13 +38,13 @@
 
 [4月12日](../Page/4月12日.md "wikilink")、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")でも公開されると好成績を収め、香港での売り上げも315万[香港ドル](../Page/香港ドル.md "wikilink")に達した。これはレート換算すると1,300万TWDを超えたことになり、台湾と香港で1,300万TWDを超えた数少ない台湾映画の一つとなった。
 
-[第57回ベルリン国際映画祭](https://ja.wikipedia.org/wiki/第57回ベルリン国際映画祭 "wikilink")パノラマ部門に出品、テディベア賞を受賞。
+[第57回ベルリン国際映画祭](../Page/第57回ベルリン国際映画祭.md "wikilink")パノラマ部門に出品、テディベア賞を受賞。
 
 ## 脚注
 
 ## 関連項目
 
-  - [レズビアン・ゲイ映画](https://ja.wikipedia.org/wiki/レズビアン・ゲイ映画 "wikilink")
+  - [レズビアン・ゲイ映画](../Page/レズビアン・ゲイ映画.md "wikilink")
 
 ## 外部リンク
 

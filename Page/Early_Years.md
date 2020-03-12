@@ -1,11 +1,11 @@
 > この記事は[Early Years](https://ja.wikipedia.org/wiki/Early_Years)から翻訳されています。
 
 
-『**Early Years**』（アーリーイヤーズ）は、[ストレイテナー](https://ja.wikipedia.org/wiki/ストレイテナー "wikilink")の[アルバム](../Page/アルバム.md "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月13日](../Page/4月13日.md "wikilink")発売。
+『**Early Years**』（アーリーイヤーズ）は、[ストレイテナー](https://ja.wikipedia.org/wiki/ストレイテナー "wikilink")の[アルバム](../Page/アルバム.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[4月13日](../Page/4月13日.md "wikilink")発売。
 
 ## 概要
 
-[インディーズ](../Page/インディーズ.md "wikilink")時代の曲が収められた[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。このアルバムは[東芝EMI](https://ja.wikipedia.org/wiki/東芝EMI "wikilink")ではなく、[LD\&K](https://ja.wikipedia.org/wiki/LD&K "wikilink")が発売元となっている。
+[インディーズ](../Page/インディーズ.md "wikilink")時代の曲が収められた[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。このアルバムは[東芝EMI](https://ja.wikipedia.org/wiki/東芝EMI "wikilink")ではなく、[LD\&K](https://ja.wikipedia.org/wiki/LD&K "wikilink")が発売元となっている。
 
 本作はバンドの公式ホームページに載っていない。
 
@@ -20,12 +20,12 @@
       - アルバム『ERROR』収録。
 4.  **ANOTHER DIMENSIONAL**
       - シングル『ANOTHER DIMENSIONAL e.p』と、アルバム『ERROR』収録。
-      - この[PVは](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、通信カラオケ『[UGA](https://ja.wikipedia.org/wiki/UGA_\(カラオケ\) "wikilink")』で見ることが出来る。
+      - この[PVは](../Page/ミュージック・ビデオ.md "wikilink")、通信カラオケ『[UGA](../Page/UGA_\(カラオケ\).md "wikilink")』で見ることが出来る。
 5.  **戦士の屍のマーチ**
       - シングル『戦士の屍のマーチ』と、アルバム『STRAIGHTEN IT UP』収録。
       - このPVは、通信カラオケ『UGA』で見ることが出来る。
 6.  **UNICORN**
-      - [ART-SCHOOL](https://ja.wikipedia.org/wiki/ART-SCHOOL "wikilink")とのスプリットシングル『ART-SCHOOL & ストレイテナー SPLIT CASETTE』と、アルバム『SKELETONIZED』収録。
+      - [ART-SCHOOL](../Page/ART-SCHOOL.md "wikilink")とのスプリットシングル『ART-SCHOOL & ストレイテナー SPLIT CASETTE』と、アルバム『SKELETONIZED』収録。
 7.  **THE MEANING**
       - アルバム『STRAIGHTEN IT UP』収録。
 8.  **SENSELESS STORY TELLER SONY**
@@ -50,7 +50,7 @@
       - アルバム『ERROR』収録。
 18. **(NON TITLE)**
       - アルバム『SKELETONIZED』にシークレットトラックとして収録。「(NON TITLE)」という曲名ではなく、文字通り曲名がつけられていないことになっている。但し、[JASRACには](../Page/日本音楽著作権協会.md "wikilink")「**STAND UP NOW**」という名前で登録されており、歌詞にも含まれている。この楽曲の歌詞は、歌詞カードに掲載されていない。
-      - [久光製薬](https://ja.wikipedia.org/wiki/久光製薬 "wikilink")「ライフセラ・フェイスマスク」CMソング。
+      - [久光製薬](../Page/久光製薬.md "wikilink")「ライフセラ・フェイスマスク」CMソング。
 19. **T.W.D.A.L.L.A.**
       - アルバム『ERROR』収録。
 20. **UNDER ATTACK**

@@ -11,7 +11,7 @@
 
 1.  **Life**
       -
-        作詞：[松本礼児](https://ja.wikipedia.org/wiki/松本礼児 "wikilink")、作曲：[穂口雄右](https://ja.wikipedia.org/wiki/穂口雄右 "wikilink")、編曲：[山川恵津子](../Page/山川恵津子.md "wikilink")
+        作詞：[松本礼児](https://ja.wikipedia.org/wiki/松本礼児 "wikilink")、作曲：[穂口雄右](../Page/穂口雄右.md "wikilink")、編曲：[山川恵津子](../Page/山川恵津子.md "wikilink")
 2.  **涙から微笑み**
       -
         作詞：松本礼児、作曲：穂口雄右、編曲：山川恵津子
@@ -20,6 +20,6 @@
 
 ## 関連項目
 
-  - [1993年の音楽](https://ja.wikipedia.org/wiki/1993年の音楽 "wikilink")
+  - [1993年の音楽](../Page/1993年の音楽.md "wikilink")
 
 [Category:岩崎宏美の楽曲](https://ja.wikipedia.org/wiki/Category:岩崎宏美の楽曲 "wikilink") [Category:松本礼児が制作した楽曲](https://ja.wikipedia.org/wiki/Category:松本礼児が制作した楽曲 "wikilink") [Category:穂口雄右が制作した楽曲](https://ja.wikipedia.org/wiki/Category:穂口雄右が制作した楽曲 "wikilink") [Category:1993年のシングル](https://ja.wikipedia.org/wiki/Category:1993年のシングル "wikilink") [Category:ビクターエンタテインメントの楽曲](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントの楽曲 "wikilink") [Category:楽曲_ら](https://ja.wikipedia.org/wiki/Category:楽曲_ら "wikilink")

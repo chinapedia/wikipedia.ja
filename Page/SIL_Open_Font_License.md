@@ -1,7 +1,7 @@
 > この記事は[SIL Open Font License](https://ja.wikipedia.org/wiki/SIL_Open_Font_License)から翻訳されています。
 
 
-**SIL Open Font License** (**OFL**) は、[国際SIL](https://ja.wikipedia.org/wiki/国際SIL "wikilink")が自身で開発や支援を行っている[Unicode](../Page/Unicode.md "wikilink")[フォント](../Page/フォント.md "wikilink")に対して使用するために定義された[オープンソース](../Page/オープンソース.md "wikilink")ライセンス\[1\]である。このライセンスは[フリーソフトウェア財団](../Page/フリーソフトウェア財団.md "wikilink") (略称FSF) によって[フリーソフトウェアライセンス](https://ja.wikipedia.org/wiki/フリーソフトウェアライセンス "wikilink")であると認定されている\[2\]。
+**SIL Open Font License** (**OFL**) は、[国際SIL](../Page/国際SIL.md "wikilink")が自身で開発や支援を行っている[Unicode](../Page/Unicode.md "wikilink")[フォント](../Page/フォント.md "wikilink")に対して使用するために定義された[オープンソース](../Page/オープンソース.md "wikilink")ライセンス\[1\]である。このライセンスは[フリーソフトウェア財団](../Page/フリーソフトウェア財団.md "wikilink") (略称FSF) によって[フリーソフトウェアライセンス](https://ja.wikipedia.org/wiki/フリーソフトウェアライセンス "wikilink")であると認定されている\[2\]。
 
 ## 特徴
 

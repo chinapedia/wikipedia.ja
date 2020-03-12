@@ -1,14 +1,14 @@
 > この記事は[At home](https://ja.wikipedia.org/wiki/At_home)から翻訳されています。
 
 
-{{Infobox Single | Name = at home | Artist = [柴咲コウ](https://ja.wikipedia.org/wiki/柴咲コウ "wikilink") | Album = \[\[嬉々|嬉々 「**at home**」（アット ホーム）は、[柴咲コウ](https://ja.wikipedia.org/wiki/柴咲コウ "wikilink")の12枚目の[シングル](../Page/シングル.md "wikilink")（RUI名義含む）。[2007年](../Page/2007年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink")発売。発売元は[NAYUTAWAVE RECORDS / ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。
+{{Infobox Single | Name = at home | Artist = [柴咲コウ](https://ja.wikipedia.org/wiki/柴咲コウ "wikilink") | Album = \[\[嬉々|嬉々 「**at home**」（アット ホーム）は、[柴咲コウ](https://ja.wikipedia.org/wiki/柴咲コウ "wikilink")の12枚目の[シングル](../Page/シングル.md "wikilink")（RUI名義含む）。[2007年](../Page/2007年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink")発売。発売元は[NAYUTAWAVE RECORDS / ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
 
-次作「[ひと恋めぐり](https://ja.wikipedia.org/wiki/ひと恋めぐり "wikilink")」と2か月連続リリースされた。
+次作「[ひと恋めぐり](../Page/ひと恋めぐり.md "wikilink")」と2か月連続リリースされた。
 
 ## 収録曲
 
 1.  **at home**
-      - （作詞:柴咲コウ、作曲:[鶴田勇気](https://ja.wikipedia.org/wiki/鶴田勇気 "wikilink")、編曲:[REO](https://ja.wikipedia.org/wiki/REO "wikilink")　ストリングス・アレンジ:[前嶋康明](https://ja.wikipedia.org/wiki/前嶋康明 "wikilink")）
+      - （作詞:柴咲コウ、作曲:[鶴田勇気](../Page/鶴田勇気.md "wikilink")、編曲:[REO](https://ja.wikipedia.org/wiki/REO "wikilink")　ストリングス・アレンジ:[前嶋康明](../Page/前嶋康明.md "wikilink")）
       - TBS系「恋するハニカミ\!」テーマソング
 2.  **sonoinochi**
       - （作詞:柴咲コウ、作曲:[so-to](https://ja.wikipedia.org/wiki/wyolica "wikilink")、編曲:前嶋康明）

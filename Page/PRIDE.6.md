@@ -5,40 +5,40 @@
 
 ## 大会概要
 
-メインイベントでは[マーク・ケアー](https://ja.wikipedia.org/wiki/マーク・ケアー "wikilink")が[高田延彦](../Page/高田延彦.md "wikilink")に一本勝ち。
+メインイベントでは[マーク・ケアー](../Page/マーク・ケアー.md "wikilink")が[高田延彦](../Page/高田延彦.md "wikilink")に一本勝ち。
 
-[バルセロナオリンピック](https://ja.wikipedia.org/wiki/バルセロナオリンピック "wikilink")柔道銀メダリスト[小川直也](https://ja.wikipedia.org/wiki/小川直也 "wikilink")、[IVCヘビー級王者](https://ja.wikipedia.org/wiki/International_Vale_Tudo_Championship "wikilink")[カーロス・バヘット](https://ja.wikipedia.org/wiki/カーロス・バヘット "wikilink")がPRIDEデビュー。
+[バルセロナオリンピック](https://ja.wikipedia.org/wiki/バルセロナオリンピック "wikilink")柔道銀メダリスト[小川直也](../Page/小川直也.md "wikilink")、[IVCヘビー級王者](https://ja.wikipedia.org/wiki/International_Vale_Tudo_Championship "wikilink")[カーロス・バヘット](../Page/カーロス・バヘット.md "wikilink")がPRIDEデビュー。
 
 ## 試合結果
 
   - 第1試合 PRIDEルール 10分2R、延長5分1R
-    ○  [カール・マレンコ](https://ja.wikipedia.org/wiki/カール・マレンコ "wikilink") vs.  [イーゲン井上](https://ja.wikipedia.org/wiki/イーゲン井上 "wikilink") ×
+    ○  [カール・マレンコ](https://ja.wikipedia.org/wiki/カール・マレンコ "wikilink") vs.  [イーゲン井上](../Page/イーゲン井上.md "wikilink") ×
     延長R終了 判定3-0
   - 第2試合 PRIDEルール 10分2R、延長5分1R
-    ○  [カーロス・ニュートン](../Page/カーロス・ニュートン.md "wikilink") vs.  [松井大二郎](https://ja.wikipedia.org/wiki/松井大二郎 "wikilink") ×
+    ○  [カーロス・ニュートン](../Page/カーロス・ニュートン.md "wikilink") vs.  [松井大二郎](../Page/松井大二郎.md "wikilink") ×
     延長R終了 判定3-0
   - 第3試合 PRIDEルール 10分2R、延長5分1R
-    ○  [イゴール・ボブチャンチン](https://ja.wikipedia.org/wiki/イゴール・ボブチャンチン "wikilink") vs.  [カーロス・バヘット](https://ja.wikipedia.org/wiki/カーロス・バヘット "wikilink") ×
+    ○  [イゴール・ボブチャンチン](../Page/イゴール・ボブチャンチン.md "wikilink") vs.  [カーロス・バヘット](../Page/カーロス・バヘット.md "wikilink") ×
     延長R終了 判定2-1
   - 第4試合 フルコンタクト空手ルール 3分2R
-    ○  [黒澤浩樹](https://ja.wikipedia.org/wiki/黒澤浩樹 "wikilink") vs.  [角田信朗](https://ja.wikipedia.org/wiki/角田信朗 "wikilink") ×
+    ○  [黒澤浩樹](../Page/黒澤浩樹.md "wikilink") vs.  [角田信朗](../Page/角田信朗.md "wikilink") ×
     2R終了 判定5-0
   - 第5試合 PRIDEルール 10分2R、延長5分1R
-    ○  [小路晃](https://ja.wikipedia.org/wiki/小路晃 "wikilink") vs.  [ガイ・メッツァー](https://ja.wikipedia.org/wiki/ガイ・メッツァー "wikilink") ×
+    ○  [小路晃](../Page/小路晃.md "wikilink") vs.  [ガイ・メッツァー](../Page/ガイ・メッツァー.md "wikilink") ×
     延長R終了 判定2-1
   - 第6試合 PRIDEルール 10分2R、延長5分1R
-    ○  [小川直也](https://ja.wikipedia.org/wiki/小川直也 "wikilink") vs.  [ゲーリー・グッドリッジ](https://ja.wikipedia.org/wiki/ゲーリー・グッドリッジ "wikilink") ×
-    2R 0:36 [V1アームロック](https://ja.wikipedia.org/wiki/V1アームロック "wikilink")
+    ○  [小川直也](../Page/小川直也.md "wikilink") vs.  [ゲーリー・グッドリッジ](../Page/ゲーリー・グッドリッジ.md "wikilink") ×
+    2R 0:36 [V1アームロック](../Page/V1アームロック.md "wikilink")
   - 第7試合 PRIDEルール 10分2R、延長5分1R
     ○  [桜庭和志](../Page/桜庭和志.md "wikilink") vs.  [エベンゼール・フォンテス・ブラガ](../Page/エベンゼール・フォンテス・ブラガ.md "wikilink") ×
-    1R 9:23 [腕ひしぎ十字固め](https://ja.wikipedia.org/wiki/腕挫十字固 "wikilink")
+    1R 9:23 [腕ひしぎ十字固め](../Page/腕挫十字固.md "wikilink")
   - 第8試合 PRIDEルール 10分2R、延長5分1R
-    ○  [マーク・ケアー](https://ja.wikipedia.org/wiki/マーク・ケアー "wikilink") vs.  [高田延彦](../Page/高田延彦.md "wikilink") ×
-    1R 3:04 [チキンウィングアームロック](https://ja.wikipedia.org/wiki/ダブルリストロック "wikilink")
+    ○  [マーク・ケアー](../Page/マーク・ケアー.md "wikilink") vs.  [高田延彦](../Page/高田延彦.md "wikilink") ×
+    1R 3:04 [チキンウィングアームロック](../Page/ダブルリストロック.md "wikilink")
 
 ## 関連項目
 
-  - [PRIDEの大会一覧](https://ja.wikipedia.org/wiki/PRIDEの大会一覧 "wikilink")
+  - [PRIDEの大会一覧](../Page/PRIDEの大会一覧.md "wikilink")
 
 ## 外部リンク
 

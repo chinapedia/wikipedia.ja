@@ -1,7 +1,7 @@
 > この記事は[COZMIC TRAVEL](https://ja.wikipedia.org/wiki/COZMIC_TRAVEL)から翻訳されています。
 
 
-「**COZMIC TRAVEL**」（コズミック トラベル）は、[SOUL'd OUTの](../Page/SOUL'd_OUT.md "wikilink")17枚目の[シングル](../Page/シングル.md "wikilink")である。[2007年](../Page/2007年.md "wikilink")[11月28日](../Page/11月28日.md "wikilink")に[SMEレコーズより発売](https://ja.wikipedia.org/wiki/エスエムイーレコーズ "wikilink")。
+「**COZMIC TRAVEL**」（コズミック トラベル）は、[SOUL'd OUTの](../Page/SOUL'd_OUT.md "wikilink")17枚目の[シングル](../Page/シングル.md "wikilink")である。[2007年](../Page/2007年.md "wikilink")[11月28日](../Page/11月28日.md "wikilink")に[SMEレコーズより発売](../Page/エスエムイーレコーズ.md "wikilink")。
 
 ## 概要
 
@@ -22,7 +22,7 @@
 ## タイアップ
 
   - COZMIC TRAVEL
-    月周回衛星「[かぐや](https://ja.wikipedia.org/wiki/かぐや "wikilink")(SELENE)」公式サポートソング。
+    月周回衛星「[かぐや](../Page/かぐや.md "wikilink")(SELENE)」公式サポートソング。
 
 ## テレビ出演
 

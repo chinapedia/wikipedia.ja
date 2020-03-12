@@ -9,7 +9,7 @@
 
 ## メンバー
 
-  - [津波信一](https://ja.wikipedia.org/wiki/津波信一 "wikilink")（つは しんいち） ※主宰者
+  - [津波信一](../Page/津波信一.md "wikilink")（つは しんいち） ※主宰者
   - [島袋寛之](https://ja.wikipedia.org/wiki/島袋寛之 "wikilink") （しまぶくろ ひろゆき）
   - [末吉功治](https://ja.wikipedia.org/wiki/末吉功治 "wikilink")（すえよし こうじ）
   - [小渡俊彰](https://ja.wikipedia.org/wiki/小渡俊彰 "wikilink")（おど としあき）
@@ -34,15 +34,15 @@
   - 「池田免税店」（[沖縄テレビ放送](../Page/沖縄テレビ放送.md "wikilink")）
   - 「音楽の遺伝子〜宮沢和史〜」([NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink"))
   - 「奇蹟体験アンビリバボー」([フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
-  - 「[今週、妻が浮気します](https://ja.wikipedia.org/wiki/今週、妻が浮気します "wikilink")」([フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
-  - 「[琉神マブヤー外伝 SO\!ウチナー](https://ja.wikipedia.org/wiki/琉神マブヤー外伝_SO!ウチナー "wikilink")」（[琉球放送](https://ja.wikipedia.org/wiki/琉球放送 "wikilink")）
-  - 「[マブヤー＆ガナシーと踊ろう](https://ja.wikipedia.org/wiki/マブヤー＆ガナシーと踊ろう "wikilink")」（[琉球放送](https://ja.wikipedia.org/wiki/琉球放送 "wikilink")）
-  - 「[琉神マブヤー2](https://ja.wikipedia.org/wiki/琉神マブヤー2 "wikilink")」（[琉球放送](https://ja.wikipedia.org/wiki/琉球放送 "wikilink")）
-  - 「[琉神マブヤー3](https://ja.wikipedia.org/wiki/琉神マブヤー3 "wikilink")」（[琉球放送](https://ja.wikipedia.org/wiki/琉球放送 "wikilink")）
+  - 「[今週、妻が浮気します](../Page/今週、妻が浮気します.md "wikilink")」([フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
+  - 「[琉神マブヤー外伝 SO\!ウチナー](https://ja.wikipedia.org/wiki/琉神マブヤー外伝_SO!ウチナー "wikilink")」（[琉球放送](../Page/琉球放送.md "wikilink")）
+  - 「[マブヤー＆ガナシーと踊ろう](https://ja.wikipedia.org/wiki/マブヤー＆ガナシーと踊ろう "wikilink")」（[琉球放送](../Page/琉球放送.md "wikilink")）
+  - 「[琉神マブヤー2](https://ja.wikipedia.org/wiki/琉神マブヤー2 "wikilink")」（[琉球放送](../Page/琉球放送.md "wikilink")）
+  - 「[琉神マブヤー3](https://ja.wikipedia.org/wiki/琉神マブヤー3 "wikilink")」（[琉球放送](../Page/琉球放送.md "wikilink")）
   - 「[ハルサーエイカー](https://ja.wikipedia.org/wiki/ハルサーエイカー "wikilink")」（[沖縄テレビ放送](../Page/沖縄テレビ放送.md "wikilink")）
   - 「[ハルサーエイカー2](https://ja.wikipedia.org/wiki/ハルサーエイカー2 "wikilink")」（[沖縄テレビ放送](../Page/沖縄テレビ放送.md "wikilink")）
-  - 「[闘牛戦士ワイドー](https://ja.wikipedia.org/wiki/闘牛戦士ワイドー "wikilink")」（[琉球放送](https://ja.wikipedia.org/wiki/琉球放送 "wikilink")）
-  - 「闘牛戦士ワイドー2」（[琉球放送](https://ja.wikipedia.org/wiki/琉球放送 "wikilink")）
+  - 「[闘牛戦士ワイドー](https://ja.wikipedia.org/wiki/闘牛戦士ワイドー "wikilink")」（[琉球放送](../Page/琉球放送.md "wikilink")）
+  - 「闘牛戦士ワイドー2」（[琉球放送](../Page/琉球放送.md "wikilink")）
   - 「わったーまちやぐゎー」（[沖縄テレビ放送](../Page/沖縄テレビ放送.md "wikilink")）
 
 ## ラジオ

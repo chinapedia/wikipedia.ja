@@ -5,9 +5,9 @@
 
 ## 概要
 
-[水野晴郎](../Page/水野晴郎.md "wikilink")プロデュースにより、水野自身の個人事務所「M\&T ピクチャーズ」（[西田和昭](https://ja.wikipedia.org/wiki/西田和昭 "wikilink")代表）が主体となり、同市南通亀の町（通称・有楽町）で「秋田パンテオン」や「秋田有楽座」を経営する「第一商事」と提携して運営していた。[2004年](../Page/2004年.md "wikilink")（平成16年）[7月16日](../Page/7月16日.md "wikilink")オープン。
+[水野晴郎](../Page/水野晴郎.md "wikilink")プロデュースにより、水野自身の個人事務所「M\&T ピクチャーズ」（[西田和昭](../Page/西田和昭.md "wikilink")代表）が主体となり、同市南通亀の町（通称・有楽町）で「秋田パンテオン」や「秋田有楽座」を経営する「第一商事」と提携して運営していた。[2004年](../Page/2004年.md "wikilink")（平成16年）[7月16日](../Page/7月16日.md "wikilink")オープン。
 
-その後、2004年（平成16年）後半から西田和昭の[病気](../Page/病気.md "wikilink")療養を理由に「M\&T ピクチャーズ」に出資していた「ラスカルピクチャーズ」が運営に当たっていたが、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）10月に再び「M\&T ピクチャーズ」に運営が戻った。
+その後、2004年（平成16年）後半から西田和昭の[病気](../Page/病気.md "wikilink")療養を理由に「M\&T ピクチャーズ」に出資していた「ラスカルピクチャーズ」が運営に当たっていたが、[2005年](../Page/2005年.md "wikilink")（平成17年）10月に再び「M\&T ピクチャーズ」に運営が戻った。
 
 しかし、テナント料の問題として裁判沙汰になったことから2005年（平成17年）[10月14日](../Page/10月14日.md "wikilink")突然の休業に入り、事実上の撤退をした\[1\]。
 
@@ -15,19 +15,19 @@
 
 後に、テナント有志側が**駅の映画館 AKITAシアター**の名称で暫定営業を行った\[2\]\[3\]。
 
-その後、[岩手県](../Page/岩手県.md "wikilink")[盛岡市](https://ja.wikipedia.org/wiki/盛岡市 "wikilink")で名劇、ルミエール、ピカデリーなど5館の映画館を展開する[岩手県](../Page/岩手県.md "wikilink")[盛岡市](https://ja.wikipedia.org/wiki/盛岡市 "wikilink")の[南部興行](https://ja.wikipedia.org/wiki/南部興行 "wikilink")が運営に名乗りを上げた。同社は「AKITAシアター」（現・[ルミエール秋田](https://ja.wikipedia.org/wiki/ルミエール_\(映画館\) "wikilink")）の名称で、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月18日](../Page/11月18日.md "wikilink")から営業を行っている\[4\]\[5\]。
+その後、[岩手県](../Page/岩手県.md "wikilink")[盛岡市](https://ja.wikipedia.org/wiki/盛岡市 "wikilink")で名劇、ルミエール、ピカデリーなど5館の映画館を展開する[岩手県](../Page/岩手県.md "wikilink")[盛岡市](https://ja.wikipedia.org/wiki/盛岡市 "wikilink")の[南部興行](https://ja.wikipedia.org/wiki/南部興行 "wikilink")が運営に名乗りを上げた。同社は「AKITAシアター」（現・[ルミエール秋田](https://ja.wikipedia.org/wiki/ルミエール_\(映画館\) "wikilink")）の名称で、[2006年](../Page/2006年.md "wikilink")[11月18日](../Page/11月18日.md "wikilink")から営業を行っている\[4\]\[5\]。
 
 ## 施設概要
 
-パンテオンシネマズAKiTAは5[スクリーン](../Page/スクリーン.md "wikilink")、全718席\[6\]。全館に[SRD-EXを導入](../Page/ドルビーデジタル.md "wikilink")。聴覚障害者に対応した[骨伝導](../Page/骨伝導.md "wikilink")[スピーカー](../Page/スピーカー.md "wikilink")（[ヘッドホンシステム](https://ja.wikipedia.org/wiki/ヘッドフォン "wikilink")）も導入。
+パンテオンシネマズAKiTAは5[スクリーン](../Page/スクリーン.md "wikilink")、全718席\[6\]。全館に[SRD-EXを導入](../Page/ドルビーデジタル.md "wikilink")。聴覚障害者に対応した[骨伝導](../Page/骨伝導.md "wikilink")[スピーカー](../Page/スピーカー.md "wikilink")（[ヘッドホンシステム](../Page/ヘッドフォン.md "wikilink")）も導入。
 
 [車椅子](https://ja.wikipedia.org/wiki/車椅子 "wikilink")用の席を中央部に設置していた。
 
   - スクリーン
       - [ベガ](../Page/ベガ.md "wikilink")：210席
-      - [アンタレス](https://ja.wikipedia.org/wiki/アンタレス "wikilink")：127席
+      - [アンタレス](../Page/アンタレス.md "wikilink")：127席
       - [シリウス](../Page/シリウス.md "wikilink")：127席
-      - [プロキオン](https://ja.wikipedia.org/wiki/プロキオン "wikilink")：127席
+      - [プロキオン](../Page/プロキオン.md "wikilink")：127席
       - [ボルックス](https://ja.wikipedia.org/wiki/ボルックス "wikilink")：127席
 
 施設面では[映画館](../Page/映画館.md "wikilink")であった。
@@ -39,31 +39,31 @@
   - 7月16日
       - 内覧会。
       - 「秋田シネマフェスティバル IN パンテオンシネマズAKITA」開催（19日まで）。
-      - [金曜ロードショー](https://ja.wikipedia.org/wiki/金曜ロードショー "wikilink")再現ライブ「[グランド・ホテル](https://ja.wikipedia.org/wiki/グランド・ホテル_\(映画\) "wikilink")」開催。
+      - [金曜ロードショー](https://ja.wikipedia.org/wiki/金曜ロードショー "wikilink")再現ライブ「[グランド・ホテル](../Page/グランド・ホテル_\(映画\).md "wikilink")」開催。
   - 7月17日
-      - グランドオープン。「[ハリー・ポッターとアズカバンの囚人](../Page/ハリー・ポッターとアズカバンの囚人.md "wikilink")（字幕版）」「ウォルター少年と、夏の休日」「[デイ・アフター・トゥモロー](https://ja.wikipedia.org/wiki/デイ・アフター・トゥモロー "wikilink")」「[トロイ](https://ja.wikipedia.org/wiki/トロイ_\(映画\) "wikilink")」「[スキャンダル](https://ja.wikipedia.org/wiki/スキャンダル_\(2003年の映画\) "wikilink")」「丹下左膳」「友引忌」の7作品でスタート。
-      - 金曜ロードショー再現ライブ「[お熱いのがお好き](https://ja.wikipedia.org/wiki/お熱いのがお好き "wikilink")」開催。
+      - グランドオープン。「[ハリー・ポッターとアズカバンの囚人](../Page/ハリー・ポッターとアズカバンの囚人.md "wikilink")（字幕版）」「ウォルター少年と、夏の休日」「[デイ・アフター・トゥモロー](../Page/デイ・アフター・トゥモロー.md "wikilink")」「[トロイ](../Page/トロイ_\(映画\).md "wikilink")」「[スキャンダル](../Page/スキャンダル_\(2003年の映画\).md "wikilink")」「丹下左膳」「友引忌」の7作品でスタート。
+      - 金曜ロードショー再現ライブ「[お熱いのがお好き](../Page/お熱いのがお好き.md "wikilink")」開催。
   - 8月14日 - 「[釣りバカ日誌15 ハマちゃんに明日はない\!?](../Page/釣りバカ日誌15_ハマちゃんに明日はない!?.md "wikilink")」 [秋田県](../Page/秋田県.md "wikilink")先行公開（ロケ地：秋田県）。
   - 9月10日 - 「[シベリア超特急](../Page/シベリア超特急.md "wikilink")3」公開（9月17日まで）
   - 10月1日 - 金曜ロードショー再現ライブ「[ローマの休日](../Page/ローマの休日.md "wikilink")デジタル・ニューマスター版」開催。
-  - 10月29日 - 金曜ロードショー再現ライブ「[ゴッドファーザー](https://ja.wikipedia.org/wiki/ゴッドファーザー "wikilink")デジタル・リマスター版」開催。
+  - 10月29日 - 金曜ロードショー再現ライブ「[ゴッドファーザー](../Page/ゴッドファーザー.md "wikilink")デジタル・リマスター版」開催。
   - 11月 - 運営がラスカルピクチャーズへ移る。また、占野しげるが[支配人](../Page/支配人.md "wikilink")になる。
 
 ### 2005年（平成17年）
 
   - 2月19日 - 『火火』公開に伴い、[高橋伴明](../Page/高橋伴明.md "wikilink")監督舞台挨拶のため来館。
-  - 4月 - 秋田新都心ビルと[水野晴郎](../Page/水野晴郎.md "wikilink")側との間で約4500万円の[債務](../Page/債務.md "wikilink")[弁済](https://ja.wikipedia.org/wiki/弁済 "wikilink")[契約](../Page/契約.md "wikilink")を結ぶ。また5月末日までの建物明け渡しを求める。
+  - 4月 - 秋田新都心ビルと[水野晴郎](../Page/水野晴郎.md "wikilink")側との間で約4500万円の[債務](../Page/債務.md "wikilink")[弁済](../Page/弁済.md "wikilink")[契約](../Page/契約.md "wikilink")を結ぶ。また5月末日までの建物明け渡しを求める。
   - 5月28日 - 『[機動戦士Ζガンダム 星を継ぐ者](https://ja.wikipedia.org/wiki/機動戦士Ζガンダム_星を継ぐ者 "wikilink")』公開。上映開始時間を09:00から08:30へ変更。
   - 6月 - 秋田新都心ビル、約4500万円の支払いと建物の明け渡しを求めラスカルと水野晴郎を相手取り[東京地裁に提訴](../Page/東京地方裁判所.md "wikilink")。
-  - 6月16日 - 『[バットマン ビギンズ](https://ja.wikipedia.org/wiki/バットマン_ビギンズ "wikilink")』プレミアム上映。
-  - 7月2日 - [ワーナー・ブラザース](https://ja.wikipedia.org/wiki/ワーナー・ブラザース "wikilink")の配給が打ち切られる。
+  - 6月16日 - 『[バットマン ビギンズ](../Page/バットマン_ビギンズ.md "wikilink")』プレミアム上映。
+  - 7月2日 - [ワーナー・ブラザース](../Page/ワーナー・ブラザース.md "wikilink")の配給が打ち切られる。
   - 8月29日 - 上映開始時間を08:30から09:00へ戻す。
-  - 10月12日 - 運営がラスカルからM\&Tピクチャーズへ戻る。[20世紀フォックス](https://ja.wikipedia.org/wiki/20世紀フォックス "wikilink")、[UIP](../Page/ユナイテッド・インターナショナル・ピクチャーズ.md "wikilink")、[東芝エンタテインメントの配給が打ち切られる](https://ja.wikipedia.org/wiki/博報堂DYミュージック&ピクチャーズ "wikilink")。
+  - 10月12日 - 運営がラスカルからM\&Tピクチャーズへ戻る。[20世紀フォックス](https://ja.wikipedia.org/wiki/20世紀フォックス "wikilink")、[UIP](../Page/ユナイテッド・インターナショナル・ピクチャーズ.md "wikilink")、[東芝エンタテインメントの配給が打ち切られる](../Page/博報堂DYミュージック&ピクチャーズ.md "wikilink")。
   - 10月14日 - **突然の休館**。\[7\]
   - 11月2日 - 水野晴郎とM\&Tピクチャーズ西田和昭代表らが秋田市役所を訪れ、[佐竹敬久](../Page/佐竹敬久.md "wikilink")[市長](https://ja.wikipedia.org/wiki/市長 "wikilink")に対し映画館再開の意欲を伝えるとともに、再開への側面的な支援を依頼する。
-  - 11月16日 - 秋田新都心ビルが映画館を運営するM\&Tピクチャーズや水野晴郎などを相手取り、建物の明け渡しとテナント料などの支払いを求めた[訴訟](https://ja.wikipedia.org/wiki/訴訟 "wikilink")の[判決](https://ja.wikipedia.org/wiki/判決 "wikilink")が東京地裁であり、新都心ビル側の主張を全面的に認めた。秋田新都心ビルは秋田地裁に明け渡しの仮執行の手続に入る旨を発表した\[8\]。
+  - 11月16日 - 秋田新都心ビルが映画館を運営するM\&Tピクチャーズや水野晴郎などを相手取り、建物の明け渡しとテナント料などの支払いを求めた[訴訟](../Page/訴訟.md "wikilink")の[判決](https://ja.wikipedia.org/wiki/判決 "wikilink")が東京地裁であり、新都心ビル側の主張を全面的に認めた。秋田新都心ビルは秋田地裁に明け渡しの仮執行の手続に入る旨を発表した\[8\]。
   - 11月25日 - 秋田新都心ビル関口昇司社長は、映画運営会社を今年度中に決定し、来年3月までには映画館を再開させる考えであることを発表した。
-  - 12月1日 - M\&Tピクチャーズや水野晴郎は[控訴](https://ja.wikipedia.org/wiki/控訴 "wikilink")期限の12月1日までに控訴しなかったため、東京地裁での判決が確定。ただし、ラスカルピクチャーズは判決に不服として[東京高裁に控訴した](../Page/東京高等裁判所.md "wikilink")。
+  - 12月1日 - M\&Tピクチャーズや水野晴郎は[控訴](../Page/控訴.md "wikilink")期限の12月1日までに控訴しなかったため、東京地裁での判決が確定。ただし、ラスカルピクチャーズは判決に不服として[東京高裁に控訴した](../Page/東京高等裁判所.md "wikilink")。
 
 ### 2006年（平成18年）
 
@@ -81,7 +81,7 @@
 
 ## 上映作品
 
-[日本映画](../Page/日本映画.md "wikilink")では[松竹](../Page/松竹.md "wikilink")作品、外国映画では[ワーナー・ブラザース](https://ja.wikipedia.org/wiki/ワーナー・ブラザース "wikilink")、[20世紀フォックス](https://ja.wikipedia.org/wiki/20世紀フォックス "wikilink")、[UIP作品が中心となっていた](../Page/ユナイテッド・インターナショナル・ピクチャーズ.md "wikilink")。
+[日本映画](../Page/日本映画.md "wikilink")では[松竹](../Page/松竹.md "wikilink")作品、外国映画では[ワーナー・ブラザース](../Page/ワーナー・ブラザース.md "wikilink")、[20世紀フォックス](https://ja.wikipedia.org/wiki/20世紀フォックス "wikilink")、[UIP作品が中心となっていた](../Page/ユナイテッド・インターナショナル・ピクチャーズ.md "wikilink")。
 
 「[釣りバカ日誌15 ハマちゃんに明日はない\!?](../Page/釣りバカ日誌15_ハマちゃんに明日はない!?.md "wikilink")」では、記録的な観客数を動員したが、それ以外では人気作品の配給をとることができず、集客面ではかなり苦戦していた。韓流映画も積極的に上映したが、観客数は伸びなかった。
 

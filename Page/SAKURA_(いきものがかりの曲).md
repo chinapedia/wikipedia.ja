@@ -1,11 +1,11 @@
 > この記事は[SAKURA \(\)](https://ja.wikipedia.org/wiki/SAKURA_\(\))から翻訳されています。
 
 
-「**SAKURA**」（サクラ）は、[いきものがかり](https://ja.wikipedia.org/wiki/いきものがかり "wikilink")の[メジャーデビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")[シングル](../Page/シングル.md "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月15日](../Page/3月15日.md "wikilink")に[エピックレコードジャパン](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")から発売された。
+「**SAKURA**」（サクラ）は、[いきものがかり](https://ja.wikipedia.org/wiki/いきものがかり "wikilink")の[メジャーデビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")[シングル](../Page/シングル.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")に[エピックレコードジャパン](../Page/エピックレコードジャパン.md "wikilink")から発売された。
 
 ## 概要
 
-本作発売に合わせ地元[厚木市](https://ja.wikipedia.org/wiki/厚木市 "wikilink")や[海老名市](../Page/海老名市.md "wikilink")の特定のCDショップでは、CD購入特典として販促用のスタンプが付いてきたり、購入者対象に「いきものがかりのおうえんがかり」と称する特製の会員証のようなものが配布された。
+本作発売に合わせ地元[厚木市](../Page/厚木市.md "wikilink")や[海老名市](../Page/海老名市.md "wikilink")の特定のCDショップでは、CD購入特典として販促用のスタンプが付いてきたり、購入者対象に「いきものがかりのおうえんがかり」と称する特製の会員証のようなものが配布された。
 
 デビュー作ながらオリコンチャートでは31週チャートインするロングセラーとなり、いきものがかりのシングルでは「[ありがとう](https://ja.wikipedia.org/wiki/ありがとう_\(いきものがかりの曲\) "wikilink")」「[YELL/じょいふる](https://ja.wikipedia.org/wiki/YELL/じょいふる "wikilink")」に次いでチャートイン数が多い作品である。
 
@@ -15,25 +15,25 @@
       - 作詞・作曲：[水野良樹](https://ja.wikipedia.org/wiki/水野良樹 "wikilink") / 編曲：[島田昌典](https://ja.wikipedia.org/wiki/島田昌典 "wikilink")
     <!-- end list -->
       -
-        [NTT](https://ja.wikipedia.org/wiki/日本電信電話 "wikilink")「[DENPO115](https://ja.wikipedia.org/wiki/電報#日本の電報サービス "wikilink")」[NTT東日本エリア](../Page/東日本電信電話.md "wikilink")[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。
+        [NTT](../Page/日本電信電話.md "wikilink")「[DENPO115](https://ja.wikipedia.org/wiki/電報#日本の電報サービス "wikilink")」[NTT東日本エリア](../Page/東日本電信電話.md "wikilink")[CMソング](../Page/コマーシャルソング.md "wikilink")。
         メジャーデビューのための楽曲制作が難航している中で「全部フラットにして好きなように曲をつくろう」という意思のもと制作された曲である。当時すでにタイトルに桜がつく曲が数多く存在していたことからリリースに反対する声もあったが、「邦楽が大好きな自分たちが桜というスタンダードなものに真正面から向かわないのはかっこ悪い」「サビの歌詞からしてタイトルは“SAKURA”以外ありえない」ということでそのままリリースされることになった。歌詞の制作には相当苦労したようで、現在の歌詞が完成するまでにボツとなったものが30パターン程度あるという\[1\]。
-        歌詞に登場する「大橋」は、[相模川](../Page/相模川.md "wikilink")に架かる[相模大橋](../Page/相模大橋.md "wikilink")（[神奈川県道40号線](https://ja.wikipedia.org/wiki/神奈川県道40号横浜厚木線 "wikilink")、[43号線](https://ja.wikipedia.org/wiki/神奈川県道43号藤沢厚木線 "wikilink")、[51号線](https://ja.wikipedia.org/wiki/東京都道・神奈川県道51号町田厚木線 "wikilink")）のことを指し、同じく歌詞に登場する「[小田急線](https://ja.wikipedia.org/wiki/小田急小田原線 "wikilink")」の[厚木駅](../Page/厚木駅.md "wikilink")-[本厚木駅](https://ja.wikipedia.org/wiki/本厚木駅 "wikilink")間と併走する形で相模川を横断している。
-        [PVは小田急小田原線](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")[富水駅](https://ja.wikipedia.org/wiki/富水駅 "wikilink")東口で撮影されており、タレントの[加藤理恵](https://ja.wikipedia.org/wiki/加藤理恵 "wikilink")が出演しているほか、PVにはリリースと同時期（2006年3月17日）に引退した[小田急9000形電車](../Page/小田急9000形電車.md "wikilink")の一部分も映っている\[2\]。メジャー1stアルバム『[桜咲く街物語](../Page/桜咲く街物語.md "wikilink")』リリース時には新たなPV「**SAKURA -2007version-**」が制作されたほか、同アルバムには[ボーナス・トラック](https://ja.wikipedia.org/wiki/ボーナス・トラック "wikilink")としてアコースティック・バージョンが収録されている。
+        歌詞に登場する「大橋」は、[相模川](../Page/相模川.md "wikilink")に架かる[相模大橋](../Page/相模大橋.md "wikilink")（[神奈川県道40号線](../Page/神奈川県道40号横浜厚木線.md "wikilink")、[43号線](../Page/神奈川県道43号藤沢厚木線.md "wikilink")、[51号線](../Page/東京都道・神奈川県道51号町田厚木線.md "wikilink")）のことを指し、同じく歌詞に登場する「[小田急線](https://ja.wikipedia.org/wiki/小田急小田原線 "wikilink")」の[厚木駅](../Page/厚木駅.md "wikilink")-[本厚木駅](https://ja.wikipedia.org/wiki/本厚木駅 "wikilink")間と併走する形で相模川を横断している。
+        [PVは小田急小田原線](../Page/ミュージック・ビデオ.md "wikilink")[富水駅](https://ja.wikipedia.org/wiki/富水駅 "wikilink")東口で撮影されており、タレントの[加藤理恵](../Page/加藤理恵.md "wikilink")が出演しているほか、PVにはリリースと同時期（2006年3月17日）に引退した[小田急9000形電車](../Page/小田急9000形電車.md "wikilink")の一部分も映っている\[2\]。メジャー1stアルバム『[桜咲く街物語](../Page/桜咲く街物語.md "wikilink")』リリース時には新たなPV「**SAKURA -2007version-**」が制作されたほか、同アルバムには[ボーナス・トラック](../Page/ボーナス・トラック.md "wikilink")としてアコースティック・バージョンが収録されている。
         「卒業」をテーマにした曲であることと、歌詞の内容から[桜ソングや](https://ja.wikipedia.org/wiki/桜に関連する作品一覧#ポピュラー音楽 "wikilink")[卒業ソングとしても広く知られているが](https://ja.wikipedia.org/wiki/卒業#楽曲一覧 "wikilink")、卒業ソングに関しては最近では後に発売された「YELL」「ありがとう」「[歩いていこう](https://ja.wikipedia.org/wiki/歩いていこう_\(いきものがかりの曲\) "wikilink")」なども担うようになっている。
         ベストアルバム『[いきものばかり〜メンバーズBESTセレクション〜](https://ja.wikipedia.org/wiki/いきものばかり〜メンバーズBESTセレクション〜 "wikilink")』の発売日である[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")より、小田急小田原線[海老名駅](https://ja.wikipedia.org/wiki/海老名駅 "wikilink")にて[接近メロディとして使用されている](https://ja.wikipedia.org/wiki/発車メロディ#接近メロディ "wikilink")\[3\]\[4\]。
 2.  **ホットミルク**（4:57）
-      - 作詞：[山下穂尊](https://ja.wikipedia.org/wiki/山下穂尊 "wikilink")、水野良樹 / 作曲：山下穂尊 / 編曲：[亀田誠治](https://ja.wikipedia.org/wiki/亀田誠治 "wikilink")
+      - 作詞：[山下穂尊](https://ja.wikipedia.org/wiki/山下穂尊 "wikilink")、水野良樹 / 作曲：山下穂尊 / 編曲：[亀田誠治](../Page/亀田誠治.md "wikilink")
     <!-- end list -->
       -
         カップリング曲であるがライブで演奏される回数が多い定番曲である。
-        いきものがかりでは数少ないメンバー同士で共作した楽曲で、編曲は[東京事変](https://ja.wikipedia.org/wiki/東京事変 "wikilink")（当時）の[ベーシスト](../Page/ベーシスト.md "wikilink")である亀田誠治が担当している。
+        いきものがかりでは数少ないメンバー同士で共作した楽曲で、編曲は[東京事変](../Page/東京事変.md "wikilink")（当時）の[ベーシスト](../Page/ベーシスト.md "wikilink")である亀田誠治が担当している。
         ちなみに水野は「いきものがかりにはホットミルクという曲があるのに実はホットミルクは苦手」と語っている\[5\]。
 3.  **[卒業写真](../Page/卒業写真_\(荒井由実の曲\).md "wikilink")**（4:01）
       - 作詞・作曲：[荒井由実](../Page/松任谷由実.md "wikilink") / 編曲：[江口亮](https://ja.wikipedia.org/wiki/江口亮 "wikilink")
     <!-- end list -->
       -
         卒業ソングの定番である荒井由実の楽曲「卒業写真」の[カバー](../Page/カバー.md "wikilink")。
-        2009年発売の[コンピレーション・アルバム](https://ja.wikipedia.org/wiki/コンピレーション・アルバム "wikilink")『[Shout at YUMING ROCKS](https://ja.wikipedia.org/wiki/Shout_at_YUMING_ROCKS "wikilink")』にも収録された。
+        2009年発売の[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")『[Shout at YUMING ROCKS](https://ja.wikipedia.org/wiki/Shout_at_YUMING_ROCKS "wikilink")』にも収録された。
 4.  **SAKURA -[instrumental](https://ja.wikipedia.org/wiki/オフヴォーカル "wikilink")-**
 
 ## 収録アルバム
@@ -63,7 +63,7 @@
 
 ## カバー
 
-  - [かの香織](https://ja.wikipedia.org/wiki/かの香織 "wikilink")（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月27日](../Page/2月27日.md "wikilink")発売のオムニバス・アルバム『Sakura Bossa-The Greatest Sakura Hits In Bossa Style-』）
+  - [かの香織](../Page/かの香織.md "wikilink")（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月27日](../Page/2月27日.md "wikilink")発売のオムニバス・アルバム『Sakura Bossa-The Greatest Sakura Hits In Bossa Style-』）
   - [シェネル](https://ja.wikipedia.org/wiki/シェネル "wikilink")（[2011年](../Page/2011年.md "wikilink")[7月20日](../Page/7月20日.md "wikilink")発売のカバー・アルバム『[ラブ・ソングス](https://ja.wikipedia.org/wiki/ラブ・ソングス_\(シェネルのアルバム\) "wikilink")』に、自身で英語詞に翻訳した[英語](../Page/英語.md "wikilink")詞バージョンが収録されている）。
   - [Ailee](https://ja.wikipedia.org/wiki/Ailee "wikilink")（[2015年](../Page/2015年.md "wikilink")）英語詞バージョン。
   - ふうか・みやび・ゆとり from [民謡ガールズ](https://ja.wikipedia.org/wiki/民謡ガールズ "wikilink")（[2017年](../Page/2017年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")発売のコンピレーション・アルバム『Sakura Girls -Spring Songs Best-』）

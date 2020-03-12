@@ -1,13 +1,13 @@
 > この記事は[TERRA \(\)](https://ja.wikipedia.org/wiki/TERRA_\(\))から翻訳されています。
 
 
-**TЁЯRA**（テラ）は、日本の[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")である。[2002年](../Page/2002年.md "wikilink")にデビューした。
+**TЁЯRA**（テラ）は、日本の[音楽ユニット](../Page/音楽ユニット.md "wikilink")である。[2002年](../Page/2002年.md "wikilink")にデビューした。
 
 ## メンバー
 
 2人とも出身地は[大阪府](../Page/大阪府.md "wikilink")である。
 
-  - NAOKI MAEDA（[前田尚紀](https://ja.wikipedia.org/wiki/前田尚紀_\(ミュージシャン\) "wikilink")）（当初はNAOKI表記も有り）
+  - NAOKI MAEDA（[前田尚紀](../Page/前田尚紀_\(ミュージシャン\).md "wikilink")）（当初はNAOKI表記も有り）
       -
         プロデュース・作曲・ギター&キーボード・アレンジ担当。
   - jun（[辛島純子](../Page/辛島純子.md "wikilink")）
@@ -18,21 +18,21 @@
 
   - BEMANIシリーズで有名な音楽プロデューサーNAOKI MAEDAと、女性シンガーソングライターjunによる音楽ユニット。
   - [2002年](../Page/2002年.md "wikilink")にユニットを結成する。同年、[コナミの音楽ゲーム](../Page/コナミデジタルエンタテインメント.md "wikilink")『[pop'n music](https://ja.wikipedia.org/wiki/pop'n_music "wikilink") 8』に初めての楽曲「STARS☆☆☆」を発表する。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")3月に1枚目のアルバム『RЁVOLUTIФN』をコナミが展開するオンライン通販サイト[コナミスタイル](https://ja.wikipedia.org/wiki/コナミスタイル "wikilink")のみでリリース、2万枚を超えるセールスを記録した。
+  - [2005年](../Page/2005年.md "wikilink")3月に1枚目のアルバム『RЁVOLUTIФN』をコナミが展開するオンライン通販サイト[コナミスタイル](../Page/コナミスタイル.md "wikilink")のみでリリース、2万枚を超えるセールスを記録した。
   - 以降もBEMANIシリーズ全てのゲームに楽曲を多数提供する。
   - [2011年](../Page/2011年.md "wikilink")9月7日に2枚目のアルバム『ЁVOLUTIФN』をリリースした。前作のコナミスタイル限定販売形態と異なり、全国のCD取り扱いショップや様々なオンライン通販等で購入できる。初回限定版（CD2枚組＋DVD）と通常版（CD2枚組）の2タイプで販売される。
-  - 2011年9月22日、[ニコニコ生放送](https://ja.wikipedia.org/wiki/ニコニコ生放送 "wikilink")に出演し「TЁЯRAはどのようなユニットですか?」という質問に対し「まぁ、[バッテラのようなユニットですね](https://ja.wikipedia.org/wiki/寿司 "wikilink")」とNAOKI自身が語っている。
+  - 2011年9月22日、[ニコニコ生放送](https://ja.wikipedia.org/wiki/ニコニコ生放送 "wikilink")に出演し「TЁЯRAはどのようなユニットですか?」という質問に対し「まぁ、[バッテラのようなユニットですね](../Page/寿司.md "wikilink")」とNAOKI自身が語っている。
   - [2012年](../Page/2012年.md "wikilink")ごろにNAOKI MAEDAはコナミを退社したため活動終了となった。後にjunもコナミを退社した。
 
 ## ディスコグラフィー
 
 ### アルバム
 
-1.  RЁVOLUTIØN（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月11日](../Page/3月11日.md "wikilink")）
+1.  RЁVOLUTIØN（[2005年](../Page/2005年.md "wikilink")[3月11日](../Page/3月11日.md "wikilink")）
       - Disc 1
         1.  WE ARE (Album version)
         2.  ever snow
-              - [小松代真](../Page/小松奈央_\(歌手\).md "wikilink")（[BeForU](https://ja.wikipedia.org/wiki/BeForU "wikilink")）への提供曲のセルフカバー。
+              - [小松代真](../Page/小松奈央_\(歌手\).md "wikilink")（[BeForU](../Page/BeForU.md "wikilink")）への提供曲のセルフカバー。
         3.  STARS☆☆☆
               - アルバムバージョンと明記されていないが原曲よりもドラム、ギターを強調したバンドサウンドに仕上がっている。
         4.  夢幻ノ光
@@ -50,7 +50,7 @@
               - junによる日本語カバー、Sota Fujimoriによるリミックス。
         12. DoLL
         13. 聖なる鐘が、鳴り響く街
-              - 2004年[コナミスタイル](https://ja.wikipedia.org/wiki/コナミスタイル "wikilink")クリスマスキャンペーンソング。
+              - 2004年[コナミスタイル](../Page/コナミスタイル.md "wikilink")クリスマスキャンペーンソング。
         14. ESCAPE TO THE SKY★彡 (Album version)
       - Disc 2
           - Dance Dance Revolution featuring TЁЯRA 〜NON STOP MEGAMIX〜
@@ -122,7 +122,7 @@
       - Parasite World（TЁЯRA underground 名義）
   - beatmania IIDX 14 GOLD
       - 零 -ZERO-（後にDance Dance Revolution Xに移植）
-      - STARS☆☆☆ (Re-tuned by [HΛL](https://ja.wikipedia.org/wiki/HΛL "wikilink")) -IIDX EDITION-
+      - STARS☆☆☆ (Re-tuned by [HΛL](../Page/HΛL.md "wikilink")) -IIDX EDITION-
   - beatmania IIDX 15 DJ TROOPERS
       - PROMISE FOR LIFE（TЁЯRA WORKS 名義）
   - beatmania IIDX 19 Lincle
@@ -165,13 +165,13 @@ TЁЯRAによる楽曲提供時に用いる名義。
 
   - ever snow (DDR MAX2 -Dance Dance Revolution 7thMIX- / [YOMA KOMATSU](../Page/小松奈央_\(歌手\).md "wikilink"))
   - 蒼い衝動 (beatmania IIDX 8thStyle、Dance Dance Revolution EXTREME / NAOKI feat. [YUKI](https://ja.wikipedia.org/wiki/くにたけみゆき "wikilink"))
-  - Be Rock U (1998 burst style) (beatmania IIDX 9thStyle / NAOKI) - ボーカル：[デジっ娘](../Page/DIGICCO.md "wikilink")（[ダンロップ](https://ja.wikipedia.org/wiki/ダンロップ "wikilink")タイヤイメージガール）
+  - Be Rock U (1998 burst style) (beatmania IIDX 9thStyle / NAOKI) - ボーカル：[デジっ娘](../Page/DIGICCO.md "wikilink")（[ダンロップ](../Page/ダンロップ.md "wikilink")タイヤイメージガール）
   - 『termination』 (GUITARFREAKS 10thMIX、drummania 9thMIX / [今井優子](https://ja.wikipedia.org/wiki/今井優子 "wikilink") with NM)
-  - I am (beatmania IIDX 12 HAPPY SKY / [有沢みはる](https://ja.wikipedia.org/wiki/AYA_-絢- "wikilink") from [BeForU](https://ja.wikipedia.org/wiki/BeForU "wikilink"))
+  - I am (beatmania IIDX 12 HAPPY SKY / [有沢みはる](../Page/AYA_-絢-.md "wikilink") from [BeForU](../Page/BeForU.md "wikilink"))
 
 ### KONAMI♪MUSICフル ネット配信
 
-  - STARS☆☆☆ (Re-tuned by [HΛL](https://ja.wikipedia.org/wiki/HΛL "wikilink"))（2006年）
+  - STARS☆☆☆ (Re-tuned by [HΛL](../Page/HΛL.md "wikilink"))（2006年）
 
 ### CROSS×BEATS|crossbeats REV.
 

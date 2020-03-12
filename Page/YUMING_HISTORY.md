@@ -1,7 +1,7 @@
 > この記事は[YUMING HISTORY](https://ja.wikipedia.org/wiki/YUMING_HISTORY)から翻訳されています。
 
 
-『**YUMING HISTORY**』（ユーミン・ヒストリー／ユーミン・ツインベスト 2BY1）は、[荒井由実の編集盤であり](../Page/松任谷由実.md "wikilink")、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[11月28日](../Page/11月28日.md "wikilink")に発売された。アルファレコードによってアーティストの意思とは関係なく発売された類のアルバム（非公式ベスト・アルバム）であるため、[EMIミュージック・ジャパン](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")内の彼女のディスコグラフィーには掲載されていない。
+『**YUMING HISTORY**』（ユーミン・ヒストリー／ユーミン・ツインベスト 2BY1）は、[荒井由実の編集盤であり](../Page/松任谷由実.md "wikilink")、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[11月28日](../Page/11月28日.md "wikilink")に発売された。アルファレコードによってアーティストの意思とは関係なく発売された類のアルバム（非公式ベスト・アルバム）であるため、[EMIミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink")内の彼女のディスコグラフィーには掲載されていない。
 
 アルファレコードの[レコード](../Page/レコード.md "wikilink")・[CD制作撤退に伴い](../Page/CD-DA.md "wikilink")、現在は廃盤である。
 

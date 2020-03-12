@@ -1,13 +1,13 @@
 > この記事は[GO! GO! NIAGARA](https://ja.wikipedia.org/wiki/GO!_GO!_NIAGARA)から翻訳されています。
 
 
-『**GO\! GO\! NIAGARA**』（ゴー・ゴー・ナイアガラ）は、[1976年](../Page/1976年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink")に発売された[大滝詠一通算](../Page/大瀧詠一.md "wikilink")3作目の[スタジオ・アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。
+『**GO\! GO\! NIAGARA**』（ゴー・ゴー・ナイアガラ）は、[1976年](../Page/1976年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink")に発売された[大滝詠一通算](../Page/大瀧詠一.md "wikilink")3作目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。
 
 ## 解説
 
 [大滝詠一自身が](../Page/大瀧詠一.md "wikilink")[DJをつとめた](../Page/ディスクジョッキー.md "wikilink")[ラジオ関東の番組](../Page/アール・エフ・ラジオ日本.md "wikilink")『[GO\! GO\! NIAGARA](https://ja.wikipedia.org/wiki/ゴー・ゴー・ナイアガラ_\(ラジオ番組\) "wikilink")』をそのままタイトルに冠された。オールディーズ曲をラジオ番組風に編集した米国盤『Crusin'』シリーズを意識したつくりとなっている\[1\]。[沢田研二](../Page/沢田研二.md "wikilink")への提供曲「あの娘に御用心」をはじめ、佳曲も多いが、全体的な仕上がりは少々雑\[2\]。時間との過酷な戦いが始まりつつあった\[3\]。
 
-本作の制作経緯を後に大滝は「（前作の）『[NIAGARA TRIANGLE Vol.1](https://ja.wikipedia.org/wiki/ナイアガラ・トライアングル "wikilink")』\[4\]はけっこう好評で、[コロムビア移籍第一弾だったでしょ](../Page/日本コロムビア.md "wikilink")? コロムビアもかなり力を入れてて。予想外なことに\<[ナイアガラ音頭](https://ja.wikipedia.org/wiki/ナイアガラ音頭 "wikilink")\>にスポットが当たってしまった。出してみたら、最初の予想とはまるで別で。[布谷文夫](https://ja.wikipedia.org/wiki/布谷文夫 "wikilink")のテレビ出演も2本あって。テレビ展開はあるわ、シングル切るわで\[5\]。コロムビア側はプロモーションに関してはね、ずいぶんやったんですよ。その勢いをかって、76年の7月28日にコンサートと一緒にニュー・アルバムを発売したいと。そのニュー・アルバムの予約特典としてそのコンサート（チケットをプレゼントする）と」「6月は<ナイアガラ音頭>の余波があるんですよ。6月20日は[ニッポン放送](../Page/ニッポン放送.md "wikilink")で“ナイアガラ音頭のど自慢大会”で。6月12日は新宿の歩行者天国で<ナイアガラ音頭>のフィルムを撮ってるんですよ。6月5日にコタニ（新宿のレコード店）で音頭発表会があって。6月はなんだかんだとあったんですよ。だから録音してる暇はない。3月から6月まで3か月間も結局『ナイアガラ・トライアングル』\[6\]（のプロモーション）を引っ張ったんですよね。だから7月28日に新しいアルバムが出るなんてことは全く物理的に不可能なことだったけれども。コンサートは4月の時点だか3月21日の時点だかに決められてたことだったので何とかしてくれと」\[7\]という。その後、アルバムが発売延期になって。結局、7月28日のコンサート（[渋谷公会堂](https://ja.wikipedia.org/wiki/渋谷公会堂 "wikilink")）はキャンセルになり、8月28日にDJパーティーが行われた。大滝は「コンサートの会場を先に取ってたのよ。何かできないかということで代案としてDJパーティーなるものをやったと。お詫びで。プロモ・フィルムを上映し、ゲストが来てお話をして。9月25日に何とか出しますからということなんですよ。アルバムを作り始めたのはこれが終わってからですからね。9･25とは言ったもののこの間、何も出来てないんですよ。当然、『ゴー\!ゴー\!ナイアガラ』と言うしかないんですよ、もはや。アイデアはそれしかない。とりあえずアルバム・タイトルぐらいは言わなきゃいけない。窮余の一策ですよ」「自分のラジオ番組をアルバム化するというアイデア。本来はラジオと一緒にしたくなかったんですよ。ラジオ番組はラジオ番組ということにしておいて。ホントは一緒にしたくなかったんだけど、ネタがなかったからばんやむを得ずってことで」\[8\]と振り返っている。
+本作の制作経緯を後に大滝は「（前作の）『[NIAGARA TRIANGLE Vol.1](https://ja.wikipedia.org/wiki/ナイアガラ・トライアングル "wikilink")』\[4\]はけっこう好評で、[コロムビア移籍第一弾だったでしょ](../Page/日本コロムビア.md "wikilink")? コロムビアもかなり力を入れてて。予想外なことに\<[ナイアガラ音頭](https://ja.wikipedia.org/wiki/ナイアガラ音頭 "wikilink")\>にスポットが当たってしまった。出してみたら、最初の予想とはまるで別で。[布谷文夫](https://ja.wikipedia.org/wiki/布谷文夫 "wikilink")のテレビ出演も2本あって。テレビ展開はあるわ、シングル切るわで\[5\]。コロムビア側はプロモーションに関してはね、ずいぶんやったんですよ。その勢いをかって、76年の7月28日にコンサートと一緒にニュー・アルバムを発売したいと。そのニュー・アルバムの予約特典としてそのコンサート（チケットをプレゼントする）と」「6月は<ナイアガラ音頭>の余波があるんですよ。6月20日は[ニッポン放送](../Page/ニッポン放送.md "wikilink")で“ナイアガラ音頭のど自慢大会”で。6月12日は新宿の歩行者天国で<ナイアガラ音頭>のフィルムを撮ってるんですよ。6月5日にコタニ（新宿のレコード店）で音頭発表会があって。6月はなんだかんだとあったんですよ。だから録音してる暇はない。3月から6月まで3か月間も結局『ナイアガラ・トライアングル』\[6\]（のプロモーション）を引っ張ったんですよね。だから7月28日に新しいアルバムが出るなんてことは全く物理的に不可能なことだったけれども。コンサートは4月の時点だか3月21日の時点だかに決められてたことだったので何とかしてくれと」\[7\]という。その後、アルバムが発売延期になって。結局、7月28日のコンサート（[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")）はキャンセルになり、8月28日にDJパーティーが行われた。大滝は「コンサートの会場を先に取ってたのよ。何かできないかということで代案としてDJパーティーなるものをやったと。お詫びで。プロモ・フィルムを上映し、ゲストが来てお話をして。9月25日に何とか出しますからということなんですよ。アルバムを作り始めたのはこれが終わってからですからね。9･25とは言ったもののこの間、何も出来てないんですよ。当然、『ゴー\!ゴー\!ナイアガラ』と言うしかないんですよ、もはや。アイデアはそれしかない。とりあえずアルバム・タイトルぐらいは言わなきゃいけない。窮余の一策ですよ」「自分のラジオ番組をアルバム化するというアイデア。本来はラジオと一緒にしたくなかったんですよ。ラジオ番組はラジオ番組ということにしておいて。ホントは一緒にしたくなかったんだけど、ネタがなかったからばんやむを得ずってことで」\[8\]と振り返っている。
 
 アルバム収録曲はいずれもフェード・アウトが長めに設定されている。その理由を後に大滝は「できればラジオのようにポンポンポンといきたかったのよ。でも、いくとあっという間に終わるんだよ『[ムーン](../Page/NIAGARA_MOON.md "wikilink")』\[9\]よりも短い可能性が出てきて。『ムーン』だって短い短いってみんなに叩かれて、これが2度も3度も4度も（発売を）延ばしてこれかよ、って言われるのが見えていたからね。[コーダが異常に長いんだよ](https://ja.wikipedia.org/wiki/コーダ_\(音楽\) "wikilink")、どれも。これがこのアルバムが間延びしているところの最大の理由なんで。だからリミックスのときはけっこうフェード・アウトを早めに絞ってる。聞き直したらあれでもまだ長いんだよな。今の感覚として。ラジオ番組だからテンポ良くさっさっさっといけばもっと良かったなと思ったけど。もっと余裕があって、数ある中のひとつって提供できるんだったらそういう風にできたと思うんだけど」\[10\]と語っていた。
 
@@ -167,25 +167,25 @@ Ishihata Hand Clappers</p></td>
 | [A.Toussaint](../Page/アラン・トゥーサン.md "wikilink"), [Lee Dorsey](https://ja.wikipedia.org/wiki/:en:Lee_Dorsey "wikilink"), [Clarence Henry](https://ja.wikipedia.org/wiki/:en:Clarence_"Frogman"_Henry "wikilink") |
 | [大洋ホエールズ](../Page/横浜DeNAベイスターズ.md "wikilink"), [C.ディケンズ](../Page/チャールズ・ディケンズ.md "wikilink")                                                                                                                    |
 | [Frank Sinatra](https://ja.wikipedia.org/wiki/フランク・シナトラ "wikilink"), [Rooftop Singers](https://ja.wikipedia.org/wiki/:en:The_Rooftop_Singers "wikilink")                                                       |
-| [ドンパン節](https://ja.wikipedia.org/wiki/ドンパン節 "wikilink")                                                                                                                                                        |
+| [ドンパン節](../Page/ドンパン節.md "wikilink")                                                                                                                                                                           |
 | [Peres Prado](../Page/ペレス・プラード.md "wikilink")                                                                                                                                                                  |
 | [渡辺マリ](../Page/渡辺マリ.md "wikilink")                                                                                                                                                                             |
 | [Major Lance](https://ja.wikipedia.org/wiki/:en:Major_Lance "wikilink")                                                                                                                                        |
 | [Fantastic Johnny C](https://ja.wikipedia.org/wiki/:en:The_Fantastic_Johnny_C "wikilink")                                                                                                                      |
-| [Van McCoy](https://ja.wikipedia.org/wiki/ヴァン・マッコイ "wikilink")                                                                                                                                                 |
+| [Van McCoy](../Page/ヴァン・マッコイ.md "wikilink")                                                                                                                                                                    |
 | [布谷文夫](https://ja.wikipedia.org/wiki/布谷文夫 "wikilink")・李益                                                                                                                                                       |
-| [岡晴夫](https://ja.wikipedia.org/wiki/岡晴夫 "wikilink"), 佐々誌生                                                                                                                                                      |
+| [岡晴夫](../Page/岡晴夫.md "wikilink"), 佐々誌生                                                                                                                                                                         |
 | [Elvis Presley](../Page/エルヴィス・プレスリー.md "wikilink"), [Otis Blackwell](https://ja.wikipedia.org/wiki/:en:Otis_Blackwell "wikilink")                                                                              |
 | [Winfield Scott](https://ja.wikipedia.org/wiki/:en:Winfield_Scott_\(songwriter\) "wikilink")                                                                                                                   |
-| [宮城まり子](https://ja.wikipedia.org/wiki/宮城まり子 "wikilink"), [三木トリロー](https://ja.wikipedia.org/wiki/三木鶏郎 "wikilink")                                                                                               |
-| [Little Richard](https://ja.wikipedia.org/wiki/リトル・リチャード "wikilink"), [鈴木やすし](https://ja.wikipedia.org/wiki/鈴木ヤスシ "wikilink")                                                                                  |
+| [宮城まり子](../Page/宮城まり子.md "wikilink"), [三木トリロー](../Page/三木鶏郎.md "wikilink")                                                                                                                                     |
+| [Little Richard](../Page/リトル・リチャード.md "wikilink"), [鈴木やすし](https://ja.wikipedia.org/wiki/鈴木ヤスシ "wikilink")                                                                                                     |
 | [Dave Clark Five](../Page/デイヴ・クラーク・ファイヴ.md "wikilink")                                                                                                                                                         |
 | [沢田研二](../Page/沢田研二.md "wikilink")                                                                                                                                                                             |
 | [加山雄三](https://ja.wikipedia.org/wiki/加山雄三 "wikilink")                                                                                                                                                          |
 | [Cleftones](https://ja.wikipedia.org/wiki/:en:The_Cleftones "wikilink")                                                                                                                                        |
 | [Barry Mann](https://ja.wikipedia.org/wiki/バリー・マン "wikilink")                                                                                                                                                  |
 | [Jeff](https://ja.wikipedia.org/wiki/:en:Jeff_Barry "wikilink") & [Ellie](https://ja.wikipedia.org/wiki/エリー・グレニッチ "wikilink")                                                                                  |
-| [Goffin](https://ja.wikipedia.org/wiki/ジェリー・ゴフィン "wikilink") & [King](https://ja.wikipedia.org/wiki/キャロル・キング "wikilink")                                                                                       |
+| [Goffin](https://ja.wikipedia.org/wiki/ジェリー・ゴフィン "wikilink") & [King](../Page/キャロル・キング.md "wikilink")                                                                                                          |
 | [Bobby Vee](https://ja.wikipedia.org/wiki/ボビー・ヴィー "wikilink")                                                                                                                                                  |
 | [Alley Cats](https://ja.wikipedia.org/wiki/:en:The_Alley_Cats_\(1960s_group\) "wikilink")                                                                                                                      |
 | [Monotones](https://ja.wikipedia.org/wiki/:en:The_Monotones "wikilink")                                                                                                                                        |
@@ -211,10 +211,10 @@ Ishihata Hand Clappers</p></td>
 | [Chubby Checker](https://ja.wikipedia.org/wiki/:en:Chubby_Checker "wikilink")                                                                                                                                  |
 | [スリーファンキーズ](../Page/スリーファンキーズ.md "wikilink")                                                                                                                                                                   |
 | [前田憲男](../Page/前田憲男.md "wikilink")                                                                                                                                                                             |
-| [Isley Bros.](https://ja.wikipedia.org/wiki/アイズレー・ブラザーズ "wikilink")                                                                                                                                            |
+| [Isley Bros.](../Page/アイズレー・ブラザーズ.md "wikilink")                                                                                                                                                               |
 | [Bert Russell](https://ja.wikipedia.org/wiki/:en:Bert_Berns "wikilink")                                                                                                                                        |
 | [藤木孝](../Page/藤木孝.md "wikilink"), [Joey Dee](https://ja.wikipedia.org/wiki/:en:Joey_Dee_and_the_Starliters "wikilink")                                                                                         |
-| [Sam Cook](https://ja.wikipedia.org/wiki/サム・クック "wikilink")                                                                                                                                                    |
+| [Sam Cook](../Page/サム・クック.md "wikilink")                                                                                                                                                                       |
 | [Gary U.S. Bonds](https://ja.wikipedia.org/wiki/:en:Gary_U.S._Bonds "wikilink")                                                                                                                                |
 | [Connie Francis](../Page/コニー・フランシス.md "wikilink")                                                                                                                                                              |
 
@@ -266,9 +266,9 @@ Ishihata Hand Clappers</p></td>
 
 ### 解説
 
-大滝詠一をはじめ、[サエキけんぞう](../Page/サエキけんぞう.md "wikilink")、[萩原健太](https://ja.wikipedia.org/wiki/萩原健太 "wikilink")、[泉麻人](../Page/泉麻人.md "wikilink")による書き下ろしライナー・ノートを収載。20周年記念として4曲の[ボーナス・トラック](https://ja.wikipedia.org/wiki/ボーナス・トラック "wikilink")を追加して再発売された。
+大滝詠一をはじめ、[サエキけんぞう](../Page/サエキけんぞう.md "wikilink")、[萩原健太](../Page/萩原健太.md "wikilink")、[泉麻人](../Page/泉麻人.md "wikilink")による書き下ろしライナー・ノートを収載。20周年記念として4曲の[ボーナス・トラック](../Page/ボーナス・トラック.md "wikilink")を追加して再発売された。
 
-ナイアガラ関連の楽曲が全くと言っていいほどラジオでオンエアされなかったナイアガラ第一期の70年代、“唯一”かけていたのが当時[TBSラジオ](../Page/TBSラジオ.md "wikilink")で[DJをしていた馬場こずえだった](../Page/ディスクジョッキー.md "wikilink")。1975年5月に馬場の番組「こずえの深夜営業」にゲスト出演した際に“テーマ音楽”制作の約束をし、1976年1月から使われたのが本作収録の[ボーナス・トラック](https://ja.wikipedia.org/wiki/ボーナス・トラック "wikilink")4曲のうちの1曲「土曜の夜の恋人に」だった。大瀧が作曲したラジオのテーマ・ソングは後にも先にもこの一曲のみで、コーラスの符丁は白人コーラス・グループ“[リージェンツ](https://ja.wikipedia.org/wiki/:en:The_Regents_\(doo-wop_band\) "wikilink")”「[バーバラ・アン](https://ja.wikipedia.org/wiki/バーバラ・アン_\(曲\) "wikilink")」をヒントにしたものだった\[21\]。
+ナイアガラ関連の楽曲が全くと言っていいほどラジオでオンエアされなかったナイアガラ第一期の70年代、“唯一”かけていたのが当時[TBSラジオ](../Page/TBSラジオ.md "wikilink")で[DJをしていた馬場こずえだった](../Page/ディスクジョッキー.md "wikilink")。1975年5月に馬場の番組「こずえの深夜営業」にゲスト出演した際に“テーマ音楽”制作の約束をし、1976年1月から使われたのが本作収録の[ボーナス・トラック](../Page/ボーナス・トラック.md "wikilink")4曲のうちの1曲「土曜の夜の恋人に」だった。大瀧が作曲したラジオのテーマ・ソングは後にも先にもこの一曲のみで、コーラスの符丁は白人コーラス・グループ“[リージェンツ](https://ja.wikipedia.org/wiki/:en:The_Regents_\(doo-wop_band\) "wikilink")”「[バーバラ・アン](https://ja.wikipedia.org/wiki/バーバラ・アン_\(曲\) "wikilink")」をヒントにしたものだった\[21\]。
 
 本作は1986年の初CD化時に[吉田保](https://ja.wikipedia.org/wiki/吉田保 "wikilink")によるリミックスが行われているが、今回は改めて笛吹銅次こと大滝本人により再度リミックスが行われた。しかし、当時のシンプルな録音方法のせいなのか、あるいはエンジニア笛吹銅次の力量からか、吉田による前回のものとは異なりあまり顕著な違いにならなかったという。また1996年当時、オリジナルを聴くにはアナログ盤しかなかったので、デジタルでの直接比較ができない環境だった。そのため“わかる人にはわかるだろうから（初めて聞く人にとっては新譜なのだから）”という思いからリリース当時、敢えて本作はリミックスであることが公式に謳われず、本作添付のライナー・ノートではオリジナル・マスターからの初CD化と解説、\[22\]、更にCDの包装には「'76 ORIGINAL MASTER」と銘打ったシールが貼られていた。
 
@@ -332,7 +332,7 @@ Ishihata Hand Clappers</p></td>
 
 ### 解説
 
-オリジナル・マスターの笛吹銅次こと大滝自らによるリマスター版と[ボーナス・トラック](https://ja.wikipedia.org/wiki/ボーナス・トラック "wikilink")として1996年のリミックス版を1枚に纏め、「土曜の夜の恋人に」のリミックス・バージョンをスペシャル・ボーナス・トラックで収録している。
+オリジナル・マスターの笛吹銅次こと大滝自らによるリマスター版と[ボーナス・トラック](../Page/ボーナス・トラック.md "wikilink")として1996年のリミックス版を1枚に纏め、「土曜の夜の恋人に」のリミックス・バージョンをスペシャル・ボーナス・トラックで収録している。
 
 ### 収録曲
 
@@ -466,7 +466,7 @@ Ishihata Hand Clappers</p></td>
   - Bass : 田中章弘, [南部半九郎](../Page/大瀧詠一.md "wikilink")
   - Keyboards : [坂本龍一](../Page/坂本龍一.md "wikilink"), ジョン山崎
   - Guitar : [村松邦男](../Page/村松邦男.md "wikilink")
-  - Steel Guitar : [駒沢裕城](https://ja.wikipedia.org/wiki/駒沢裕城 "wikilink")
+  - Steel Guitar : [駒沢裕城](../Page/駒沢裕城.md "wikilink")
   - Horn : 稲垣次郎セクション
       - Alto Sax : 岡崎資夫
       - Tenor Sax : 稲垣次郎, 広津誠
@@ -518,7 +518,7 @@ Ishihata Hand Clappers</p></td>
 <th><p>発売日</p></th>
 <th><p>リリース</p></th>
 <th><p>規格</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">品番</a></p></th>
 <th><p>備考</p></th>
 </tr>
 </thead>
@@ -579,7 +579,7 @@ Ishihata Hand Clappers</p></td>
 <td><p>CD</p></td>
 <td><p>SRCL 3500 (NGCD-4-OT)</p></td>
 <td><p>実際はリミックスだったが、オリジナル・マスターとの違いがごくわずかな出来だったことから、当初はオリジナル・マスターによる初CD化と公式発表されていた（2006年の30周年盤で正式に公表）。ボーナス・トラック4曲収録。レーベルが赤になる。<br />
-大滝詠一、<a href="../Page/サエキけんぞう.md" title="wikilink">サエキけんぞう</a>、<a href="https://ja.wikipedia.org/wiki/萩原健太" title="wikilink">萩原健太</a>、<a href="../Page/泉麻人.md" title="wikilink">泉麻人</a>による書き下ろしライナー・ノート収載。</p></td>
+大滝詠一、<a href="../Page/サエキけんぞう.md" title="wikilink">サエキけんぞう</a>、<a href="../Page/萩原健太.md" title="wikilink">萩原健太</a>、<a href="../Page/泉麻人.md" title="wikilink">泉麻人</a>による書き下ろしライナー・ノート収載。</p></td>
 </tr>
 <tr class="even">
 <td><p>8</p></td>

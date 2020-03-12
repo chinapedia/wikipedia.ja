@@ -5,7 +5,7 @@
 
 ## 解説
 
-[ジュリー・ロンドン](https://ja.wikipedia.org/wiki/ジュリー・ロンドン "wikilink")が1956年に発表したアルバム『カレンダー・ガール』の大瀧版\[1\]で、日本で最初に作られた「カレンダーアルバム」である。
+[ジュリー・ロンドン](../Page/ジュリー・ロンドン.md "wikilink")が1956年に発表したアルバム『カレンダー・ガール』の大瀧版\[1\]で、日本で最初に作られた「カレンダーアルバム」である。
 
 このアルバムが商業的に失敗し、発売後に大瀧はコロムビアとの契約を打ち切られてしまうため、結果的には「第一期ナイアガラ」のラストアルバムとなる。
 
@@ -19,10 +19,10 @@
 
 1.  **Rock'n'Roll お年玉**
       -
-        冒頭のSEについて大瀧は「部屋の中にテープ・レコーダーを置いて、狭いところにマイク2本並べて、真ん中にカレンダーを置いて録音ボタンを押して、一旦戸を閉めて。向こうでレコーダーが回ってるわけですよね。で、ギイッって自分で戸を開けて、畳敷きのところをスリッパを履いて音をちょっとたてつつ、壁にとめてあったカレンダーの表紙をビリビリ破って」\[4\]と、その録音手順を明かしているが、“みなさん”の挨拶はその場で言っているという。また、「スタジオの外から中に入ってくる、というのは『[幕末太陽傳](https://ja.wikipedia.org/wiki/幕末太陽傳 "wikilink")』の当初のアイデアの逆ですよね。外にいた人間がスタジオに入ってきて曲が始まるという」\[5\]とも答えている。後に[鈴木祥子](https://ja.wikipedia.org/wiki/鈴木祥子 "wikilink")によってカヴァーされた\[6\]。
+        冒頭のSEについて大瀧は「部屋の中にテープ・レコーダーを置いて、狭いところにマイク2本並べて、真ん中にカレンダーを置いて録音ボタンを押して、一旦戸を閉めて。向こうでレコーダーが回ってるわけですよね。で、ギイッって自分で戸を開けて、畳敷きのところをスリッパを履いて音をちょっとたてつつ、壁にとめてあったカレンダーの表紙をビリビリ破って」\[4\]と、その録音手順を明かしているが、“みなさん”の挨拶はその場で言っているという。また、「スタジオの外から中に入ってくる、というのは『[幕末太陽傳](../Page/幕末太陽傳.md "wikilink")』の当初のアイデアの逆ですよね。外にいた人間がスタジオに入ってきて曲が始まるという」\[5\]とも答えている。後に[鈴木祥子](../Page/鈴木祥子.md "wikilink")によってカヴァーされた\[6\]。
 2.  **Blue Valentine's Day**
       -
-        [バレンタインデー](https://ja.wikipedia.org/wiki/バレンタインデー "wikilink")・ソングには珍しい、男の失恋の歌。[山下達郎](../Page/山下達郎.md "wikilink")をはじめ多くの歌手がこの曲をカヴァーしている。コロムビア盤ではドラムの音が入っていない。シングルとは異なるバージョン（ミックスにわずかな違いがある）。なお、はっぴいえんど結成当初のバンド名は「バレンタイン・ブルー」であった。[プロモーションシングル盤のB面に大滝詠一楽団名義のインスト版が収録されている](../Page/宣伝.md "wikilink")。
+        [バレンタインデー](../Page/バレンタインデー.md "wikilink")・ソングには珍しい、男の失恋の歌。[山下達郎](../Page/山下達郎.md "wikilink")をはじめ多くの歌手がこの曲をカヴァーしている。コロムビア盤ではドラムの音が入っていない。シングルとは異なるバージョン（ミックスにわずかな違いがある）。なお、はっぴいえんど結成当初のバンド名は「バレンタイン・ブルー」であった。[プロモーションシングル盤のB面に大滝詠一楽団名義のインスト版が収録されている](../Page/宣伝.md "wikilink")。
 3.  **お花見メレンゲ**
       -
         シングル「Blue Valentine's Day」のB面曲としても発売されたが、異なるバージョン（シングルは別ミックスによりモノラル化）。『[NIAGARA SONG BOOK](https://ja.wikipedia.org/wiki/NIAGARA_SONG_BOOK "wikilink")』収録のインストゥルメンタル版が、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「おめざめ天気予報」のオープニング・テーマに使用された（1991-1992年）。後に[フィッシュマンズ](../Page/フィッシュマンズ.md "wikilink")によってカヴァーされたほか\[7\]、2011年には鈴木祥子にもカヴァーされた\[8\]。
@@ -30,7 +30,7 @@
 5.  **五月雨**
       -
 
-        発売のシングル「空飛ぶくじら」\[9\]のカップリング曲のセルフ・カヴァー。その経緯について大瀧は「5月は考えたんだよね。こいのぼりとか菖蒲湯とか、いろいろ考えあぐねてもうネタがなくて。これはもう<五月雨>をやるしかないなと思ったんだけれども。だけどなんであんな[ライチャスのできそこないみたいなアレンジを突然しようと思ったのかはよくわからないんだけど](../Page/ライチャス・ブラザーズ.md "wikilink")。まあ、[スペクターのアプローチでどの曲かはやらないととは当然思ってたんだけど](../Page/フィル・スペクター.md "wikilink")。原曲はご承知の通りまるで似ても似つかないアレンジなんだけど。それで<五月雨>をカヴァーするにあたって、“あつめてはやし最上川”とかまあそういう長い梅雨の時期を表現したかったのよ。だから延々、オリジナルには雨のSEを入れて。ずーっと梅雨の時期を延々と表現するから、ドラムが入ってドラマティックにするよりも、ドラムなしで延々とやってった方が梅雨のうっとうしい時期が長く続くという意味合いではこっちの方がいいと」\[10\]いう。また、コーラスについては「何度も何度もやった。[シンガーズ・スリー](../Page/シンガーズ・スリー.md "wikilink")のお姉さんに歌ってもらって録って。ピンポンしてまた歌ってもらってピンポンして。またピンポンして。それでもっこりしてるからエコーのようになるのと、雨の音でごまかされてるからエコーがあるように聞こえるんだよ。エコーはないの。重ねて重ねて、いくつも入れたやつを（左右に）配置したんだよ。でもそうしないとステレオ感が出なかったからね」\[11\]と答えている。そのほか、歌詞カードでは歌詞が縦書きで掲載されている理由については「とにかく書きづらい漢字を使って。これは憂鬱から始めて。塒とか矢鱈とか矢継早とかわざわざ古い漢字を使って。[永井荷風](https://ja.wikipedia.org/wiki/永井荷風 "wikilink")の本から。あえてそういう風にしてみようと。歌を聴いているときにはこういう漢字は想定されないけれど、歌詞カードを見たときの印象で、これは縦書きが良いだろうと」\[12\]答えている。
+        発売のシングル「空飛ぶくじら」\[9\]のカップリング曲のセルフ・カヴァー。その経緯について大瀧は「5月は考えたんだよね。こいのぼりとか菖蒲湯とか、いろいろ考えあぐねてもうネタがなくて。これはもう<五月雨>をやるしかないなと思ったんだけれども。だけどなんであんな[ライチャスのできそこないみたいなアレンジを突然しようと思ったのかはよくわからないんだけど](../Page/ライチャス・ブラザーズ.md "wikilink")。まあ、[スペクターのアプローチでどの曲かはやらないととは当然思ってたんだけど](../Page/フィル・スペクター.md "wikilink")。原曲はご承知の通りまるで似ても似つかないアレンジなんだけど。それで<五月雨>をカヴァーするにあたって、“あつめてはやし最上川”とかまあそういう長い梅雨の時期を表現したかったのよ。だから延々、オリジナルには雨のSEを入れて。ずーっと梅雨の時期を延々と表現するから、ドラムが入ってドラマティックにするよりも、ドラムなしで延々とやってった方が梅雨のうっとうしい時期が長く続くという意味合いではこっちの方がいいと」\[10\]いう。また、コーラスについては「何度も何度もやった。[シンガーズ・スリー](../Page/シンガーズ・スリー.md "wikilink")のお姉さんに歌ってもらって録って。ピンポンしてまた歌ってもらってピンポンして。またピンポンして。それでもっこりしてるからエコーのようになるのと、雨の音でごまかされてるからエコーがあるように聞こえるんだよ。エコーはないの。重ねて重ねて、いくつも入れたやつを（左右に）配置したんだよ。でもそうしないとステレオ感が出なかったからね」\[11\]と答えている。そのほか、歌詞カードでは歌詞が縦書きで掲載されている理由については「とにかく書きづらい漢字を使って。これは憂鬱から始めて。塒とか矢鱈とか矢継早とかわざわざ古い漢字を使って。[永井荷風](../Page/永井荷風.md "wikilink")の本から。あえてそういう風にしてみようと。歌を聴いているときにはこういう漢字は想定されないけれど、歌詞カードを見たときの印象で、これは縦書きが良いだろうと」\[12\]答えている。
 6.  **青空のように**
       -
         当時[シリア・ポール](../Page/シリア・ポール.md "wikilink")「[夢で逢えたら](https://ja.wikipedia.org/wiki/夢で逢えたら_\(大瀧詠一の曲\) "wikilink")」を手がけたことから、その男性版として制作された。そのため、「夢で逢えたら」と同じコード進行になっている。シングルとアルバムではバージョンが異なる。
@@ -55,7 +55,7 @@
 6.  **クリスマス音頭**
       -
         **〜[お正月](https://ja.wikipedia.org/wiki/お正月_\(歌曲\) "wikilink")**（[東くめ](../Page/東くめ.md "wikilink") - [瀧廉太郎](../Page/瀧廉太郎.md "wikilink")）
-        大滝はストリングスを入れたいため、[山下達郎](../Page/山下達郎.md "wikilink")にストリングス・アレンジを依頼したが、山下は「『弦入れなくても良いじゃないですか?』と言ったけど『どうしても弦を入れたい』って言うんで、どう弦を入れようか1時間悩んだ」と言う。大滝は「これをやりたいがために11曲無理矢理曲を作った」と言っている。導入部と間奏の三味線はそれぞれ「[ホワイト・クリスマス](https://ja.wikipedia.org/wiki/ホワイト・クリスマス_\(曲\) "wikilink")」、「[ママがサンタにキスをした](https://ja.wikipedia.org/wiki/ママがサンタにキッスした "wikilink")」からの引用。「お正月」では、1番で「トランク短井」として[フランク永井](https://ja.wikipedia.org/wiki/フランク永井 "wikilink")の歌真似を、2番で「坂本八」として[坂本九](../Page/坂本九.md "wikilink")をそれぞれ真似て歌っている。
+        大滝はストリングスを入れたいため、[山下達郎](../Page/山下達郎.md "wikilink")にストリングス・アレンジを依頼したが、山下は「『弦入れなくても良いじゃないですか?』と言ったけど『どうしても弦を入れたい』って言うんで、どう弦を入れようか1時間悩んだ」と言う。大滝は「これをやりたいがために11曲無理矢理曲を作った」と言っている。導入部と間奏の三味線はそれぞれ「[ホワイト・クリスマス](https://ja.wikipedia.org/wiki/ホワイト・クリスマス_\(曲\) "wikilink")」、「[ママがサンタにキスをした](https://ja.wikipedia.org/wiki/ママがサンタにキッスした "wikilink")」からの引用。「お正月」では、1番で「トランク短井」として[フランク永井](../Page/フランク永井.md "wikilink")の歌真似を、2番で「坂本八」として[坂本九](../Page/坂本九.md "wikilink")をそれぞれ真似て歌っている。
 
 ## クレジット
 
@@ -72,7 +72,7 @@
   - Bass : 金田一 “キンタ” 昌吾（新人）、六川正彦
   - Piano : [佐藤博](https://ja.wikipedia.org/wiki/佐藤博_\(ミュージシャン\) "wikilink")
   - Guitar : [村松邦男](../Page/村松邦男.md "wikilink")
-  - Streel Guitar : [駒沢裕城](https://ja.wikipedia.org/wiki/駒沢裕城 "wikilink")
+  - Streel Guitar : [駒沢裕城](../Page/駒沢裕城.md "wikilink")
   - Harmonica : [松田 “アリちゃん” 幸一](../Page/松田幸一.md "wikilink")
   - Baritone Sax : 砂原俊三
 
@@ -98,7 +98,7 @@
 
 <!-- end list -->
 
-  - [Elvis Presley](../Page/エルヴィス・プレスリー.md "wikilink")（Forever\!）、[Gene Vincent](../Page/ジーン・ヴィンセント.md "wikilink")、[Buddy Holly](../Page/バディ・ホリー.md "wikilink")、[Jerry Lee Lewis](../Page/ジェリー・リー・ルイス.md "wikilink")、[Richie Valens](https://ja.wikipedia.org/wiki/リッチー・ヴァレンス "wikilink")、J.P.Richardson、[Eddie Cochran](https://ja.wikipedia.org/wiki/エディ・コクラン "wikilink")、[Poul Anka](https://ja.wikipedia.org/wiki/ポール・アンカ "wikilink")、[Neil Sedaka](https://ja.wikipedia.org/wiki/ニール・セダカ "wikilink")、[Johnny Tillotson](https://ja.wikipedia.org/wiki/:en:Johnny_Tillotson "wikilink")、[Bobby Vee](https://ja.wikipedia.org/wiki/ボビー・ヴィー "wikilink")、[Tommy Roe](https://ja.wikipedia.org/wiki/:en:Tommy_Roe "wikilink")、[Freddie Cannon](https://ja.wikipedia.org/wiki/:en:Freddy_Cannon "wikilink")、[Ricky Nelson](https://ja.wikipedia.org/wiki/リッキー・ネルソン "wikilink")、[Fats Domino](https://ja.wikipedia.org/wiki/ファッツ・ドミノ "wikilink")、Shirley and Lee、[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")、[宇崎竜童](https://ja.wikipedia.org/wiki/宇崎竜童 "wikilink")\[24\]、[ハナ肇](../Page/ハナ肇.md "wikilink")、[松本隆](../Page/松本隆.md "wikilink")\[25\]、[永島慎二](https://ja.wikipedia.org/wiki/永島慎二 "wikilink")、[財津一郎](https://ja.wikipedia.org/wiki/財津一郎 "wikilink")\[26\]
+  - [Elvis Presley](../Page/エルヴィス・プレスリー.md "wikilink")（Forever\!）、[Gene Vincent](../Page/ジーン・ヴィンセント.md "wikilink")、[Buddy Holly](../Page/バディ・ホリー.md "wikilink")、[Jerry Lee Lewis](../Page/ジェリー・リー・ルイス.md "wikilink")、[Richie Valens](../Page/リッチー・ヴァレンス.md "wikilink")、J.P.Richardson、[Eddie Cochran](../Page/エディ・コクラン.md "wikilink")、[Poul Anka](../Page/ポール・アンカ.md "wikilink")、[Neil Sedaka](../Page/ニール・セダカ.md "wikilink")、[Johnny Tillotson](https://ja.wikipedia.org/wiki/:en:Johnny_Tillotson "wikilink")、[Bobby Vee](https://ja.wikipedia.org/wiki/ボビー・ヴィー "wikilink")、[Tommy Roe](https://ja.wikipedia.org/wiki/:en:Tommy_Roe "wikilink")、[Freddie Cannon](https://ja.wikipedia.org/wiki/:en:Freddy_Cannon "wikilink")、[Ricky Nelson](https://ja.wikipedia.org/wiki/リッキー・ネルソン "wikilink")、[Fats Domino](../Page/ファッツ・ドミノ.md "wikilink")、Shirley and Lee、[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")、[宇崎竜童](../Page/宇崎竜童.md "wikilink")\[24\]、[ハナ肇](../Page/ハナ肇.md "wikilink")、[松本隆](../Page/松本隆.md "wikilink")\[25\]、[永島慎二](../Page/永島慎二.md "wikilink")、[財津一郎](https://ja.wikipedia.org/wiki/財津一郎 "wikilink")\[26\]
 
 ### 2月 : Blue Valentine's Day
 
@@ -130,7 +130,7 @@
 
   - Drums : 上原 “Unbelievabable トチリング” 裕
   - Bass : 金田一昌吾
-  - Piano : [井上鑑](https://ja.wikipedia.org/wiki/井上鑑 "wikilink")、上田 “メリー” 雅人
+  - Piano : [井上鑑](../Page/井上鑑.md "wikilink")、上田 “メリー” 雅人
   - Guitar : 村松邦男
   - Streel Guitar : 駒沢 “サクラ” 裕城
   - Giro : イーハトヴ・田五三九
@@ -158,7 +158,7 @@
 
 <!-- end list -->
 
-  - 銀杏次郎丸、ジミー蘭越、多羅尾伴内、布谷文夫、[西郷隆盛](../Page/西郷隆盛.md "wikilink")、[森繁久彌](https://ja.wikipedia.org/wiki/森繁久彌 "wikilink")、東海精器、[松尾芭蕉](../Page/松尾芭蕉.md "wikilink")
+  - 銀杏次郎丸、ジミー蘭越、多羅尾伴内、布谷文夫、[西郷隆盛](../Page/西郷隆盛.md "wikilink")、[森繁久彌](../Page/森繁久彌.md "wikilink")、東海精器、[松尾芭蕉](../Page/松尾芭蕉.md "wikilink")
 
 ### 4月 : Baseball-Crazy
 
@@ -191,7 +191,7 @@
 
 <!-- end list -->
 
-  - 日本プロ野球連盟、[土居まさる](../Page/土居まさる.md "wikilink")、[Allen Tousaint](../Page/アラン・トゥーサン.md "wikilink")、[坂上二郎](https://ja.wikipedia.org/wiki/坂上二郎 "wikilink")
+  - 日本プロ野球連盟、[土居まさる](../Page/土居まさる.md "wikilink")、[Allen Tousaint](../Page/アラン・トゥーサン.md "wikilink")、[坂上二郎](../Page/坂上二郎.md "wikilink")
 
 ### 5月 : 五月雨
 
@@ -230,7 +230,7 @@
 
 <!-- end list -->
 
-  - 松尾芭蕉、[永井荷風](https://ja.wikipedia.org/wiki/永井荷風 "wikilink")、Doc.Harvey、[Goffin](https://ja.wikipedia.org/wiki/:en:Gerry_Goffin "wikilink")-[King](https://ja.wikipedia.org/wiki/キャロル・キング "wikilink")
+  - 松尾芭蕉、[永井荷風](../Page/永井荷風.md "wikilink")、Doc.Harvey、[Goffin](https://ja.wikipedia.org/wiki/:en:Gerry_Goffin "wikilink")-[King](../Page/キャロル・キング.md "wikilink")
 
 ### 6月 : 青空のように
 
@@ -269,7 +269,7 @@
 
 <!-- end list -->
 
-  - P、チビ、チイタン、[ミスター・長嶋](https://ja.wikipedia.org/wiki/長嶋茂雄 "wikilink")
+  - P、チビ、チイタン、[ミスター・長嶋](../Page/長嶋茂雄.md "wikilink")
 
 ### 7月 : 泳げカナヅチ君
 
@@ -306,7 +306,7 @@
 
 <!-- end list -->
 
-  - [子門真人](https://ja.wikipedia.org/wiki/子門真人 "wikilink")、高田ひろお、佐瀬寿一、Wilson Bros、Danny and Juniors、Buddy Holly、[荒木一郎](https://ja.wikipedia.org/wiki/荒木一郎 "wikilink")、[Al Casey](https://ja.wikipedia.org/wiki/:en:Al_Casey_\(rock_&_roll_guitarist\) "wikilink")、Lee Hazelewood、[Ventures](https://ja.wikipedia.org/wiki/ベンチャーズ "wikilink")、[Dick Dale](https://ja.wikipedia.org/wiki/ディック・デイル "wikilink")、[Duane Eddy](https://ja.wikipedia.org/wiki/:en:Duane_Eddy "wikilink")、Go-Gos、[宮下静雄](https://ja.wikipedia.org/wiki/宮下静雄 "wikilink")（Forever）
+  - [子門真人](../Page/子門真人.md "wikilink")、高田ひろお、佐瀬寿一、Wilson Bros、Danny and Juniors、Buddy Holly、[荒木一郎](https://ja.wikipedia.org/wiki/荒木一郎 "wikilink")、[Al Casey](https://ja.wikipedia.org/wiki/:en:Al_Casey_\(rock_&_roll_guitarist\) "wikilink")、Lee Hazelewood、[Ventures](https://ja.wikipedia.org/wiki/ベンチャーズ "wikilink")、[Dick Dale](https://ja.wikipedia.org/wiki/ディック・デイル "wikilink")、[Duane Eddy](https://ja.wikipedia.org/wiki/:en:Duane_Eddy "wikilink")、Go-Gos、[宮下静雄](https://ja.wikipedia.org/wiki/宮下静雄 "wikilink")（Forever）
 
 ### 8月 : 真夏の昼の夢
 
@@ -407,7 +407,7 @@
 
 <!-- end list -->
 
-  - [Johnny Otis](https://ja.wikipedia.org/wiki/:en:Johnny_Otis "wikilink")、Stranger Loves、[漣健児](https://ja.wikipedia.org/wiki/漣健児 "wikilink")、[Caterina Valente](https://ja.wikipedia.org/wiki/:en:Caterina_Valente "wikilink")、[前川清](https://ja.wikipedia.org/wiki/前川清 "wikilink")、[大正製薬](https://ja.wikipedia.org/wiki/大正製薬 "wikilink")
+  - [Johnny Otis](https://ja.wikipedia.org/wiki/:en:Johnny_Otis "wikilink")、Stranger Loves、[漣健児](../Page/漣健児.md "wikilink")、[Caterina Valente](https://ja.wikipedia.org/wiki/:en:Caterina_Valente "wikilink")、[前川清](../Page/前川清.md "wikilink")、[大正製薬](../Page/大正製薬.md "wikilink")
 
 ### 11月 : 想い出は霧の中
 
@@ -503,7 +503,7 @@
   - 前島邦昭、前島洋児（Niagara Enterprises）
   - 矢崎芳博、栗田孝高（Random）
   - 黒田晃章、若林孝、後藤博、山川栄一（Columbia）
-  - 京極謙（[P.M.P](https://ja.wikipedia.org/wiki/フジパシフィックミュージック "wikilink")）
+  - 京極謙（[P.M.P](../Page/フジパシフィックミュージック.md "wikilink")）
   - [布谷文夫](https://ja.wikipedia.org/wiki/布谷文夫 "wikilink")（English Comnanion, Kawagoe）
   - GH・助川（CBS/SONY）
   - 角能正恭（Sun Life, Tachikawa）
@@ -612,7 +612,7 @@
 
 ### 解説
 
-本作は、[CBSソニーよりアナログLPで発売された](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")81年版ミックスの初CD化。[大滝詠一によれば](../Page/大瀧詠一.md "wikilink")、77年オリジナル・ミックスにはそれ相当のアジがあり、個人的にも気に入っているが、77年当時スケジュールの事情で出来なかったダビングやエコー・マシンの使用など、プロデューサー・大瀧が想定した音がミキサー・笛吹銅次によって完全再現されていて、これを“オリジナル・バージョン”と考えたいという意向から、81年のリミックス・バージョンが収録されている\[31\]。また、[ボーナス・トラック](https://ja.wikipedia.org/wiki/ボーナス・トラック "wikilink")の追加も考えたというが「クリスマス音頭」から「[お正月](https://ja.wikipedia.org/wiki/お正月_\(歌曲\) "wikilink")」への繋がりは、見事な“帰結・完結”としか言い様がなく、あの鐘の音の後に何か音が入るとアルバムの持っている緊張感も統一感もさらにあの寂寥感が失われると感じたとの理由により、取りやめられている（と言っても、同じ曲のミックス違いしかボーナス・トラックになるようなものは一切ないという）\[32\]。
+本作は、[CBSソニーよりアナログLPで発売された](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")81年版ミックスの初CD化。[大滝詠一によれば](../Page/大瀧詠一.md "wikilink")、77年オリジナル・ミックスにはそれ相当のアジがあり、個人的にも気に入っているが、77年当時スケジュールの事情で出来なかったダビングやエコー・マシンの使用など、プロデューサー・大瀧が想定した音がミキサー・笛吹銅次によって完全再現されていて、これを“オリジナル・バージョン”と考えたいという意向から、81年のリミックス・バージョンが収録されている\[31\]。また、[ボーナス・トラック](../Page/ボーナス・トラック.md "wikilink")の追加も考えたというが「クリスマス音頭」から「[お正月](https://ja.wikipedia.org/wiki/お正月_\(歌曲\) "wikilink")」への繋がりは、見事な“帰結・完結”としか言い様がなく、あの鐘の音の後に何か音が入るとアルバムの持っている緊張感も統一感もさらにあの寂寥感が失われると感じたとの理由により、取りやめられている（と言っても、同じ曲のミックス違いしかボーナス・トラックになるようなものは一切ないという）\[32\]。
 
 大滝による書き下ろしライナーノートのほか、発表当時に郵送されたライナーノート付き。ただし、この種のアルバムほど“解説”が無意味なものはないとの考えから\[33\]、曲目解説はない。
 
@@ -677,7 +677,7 @@
 
 ### 解説
 
-コロムビア盤の本来大瀧がリリースしたかったL-Rに戻したオリジナルマスターとソニー盤のリミックスマスターを1枚に収めた。ただし、ソニー盤の「クリスマス音頭」はそのまま収録するとCD1枚の収録時間の限界を超えてしまうため、1分50秒のスペシャル短縮版で収録されている（総収録時間は78分05秒）。このため、シングル・バージョンの「青空のように」「お花見メレンゲ (Mono Mix)」「Blue Valentine's Day」は、未CD化のままとなった（2015年に「お花見メレンゲ」以外は[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『[Best Always](https://ja.wikipedia.org/wiki/Best_Always "wikilink")』で初CD化）。大瀧は「オリジナルマスターを30年振りに回した（再生させた）」と語っている。
+コロムビア盤の本来大瀧がリリースしたかったL-Rに戻したオリジナルマスターとソニー盤のリミックスマスターを1枚に収めた。ただし、ソニー盤の「クリスマス音頭」はそのまま収録するとCD1枚の収録時間の限界を超えてしまうため、1分50秒のスペシャル短縮版で収録されている（総収録時間は78分05秒）。このため、シングル・バージョンの「青空のように」「お花見メレンゲ (Mono Mix)」「Blue Valentine's Day」は、未CD化のままとなった（2015年に「お花見メレンゲ」以外は[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[Best Always](https://ja.wikipedia.org/wiki/Best_Always "wikilink")』で初CD化）。大瀧は「オリジナルマスターを30年振りに回した（再生させた）」と語っている。
 
 ### 収録曲
 
@@ -738,7 +738,7 @@
 <th><p>発売日</p></th>
 <th><p>リリース</p></th>
 <th><p>規格</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">品番</a></p></th>
 <th><p>備考</p></th>
 </tr>
 </thead>
@@ -870,22 +870,22 @@ SRCL 7511</p></td>
 
 [Category:大瀧詠一のアルバム](https://ja.wikipedia.org/wiki/Category:大瀧詠一のアルバム "wikilink") [Category:ナイアガラ・レーベルのアルバム](https://ja.wikipedia.org/wiki/Category:ナイアガラ・レーベルのアルバム "wikilink") [Category:1977年のアルバム](https://ja.wikipedia.org/wiki/Category:1977年のアルバム "wikilink") [Category:1981年のアルバム](https://ja.wikipedia.org/wiki/Category:1981年のアルバム "wikilink") [Category:1996年のアルバム](https://ja.wikipedia.org/wiki/Category:1996年のアルバム "wikilink") [Category:2008年のアルバム](https://ja.wikipedia.org/wiki/Category:2008年のアルバム "wikilink")
 
-1.  『大滝詠一Talks About Niagara』収録のインタビューで大瀧は、[ニール・セダカ](https://ja.wikipedia.org/wiki/ニール・セダカ "wikilink")の同名曲と[エルヴィス・プレスリー](../Page/エルヴィス・プレスリー.md "wikilink")のシングル「アイ・ニード・ユア・ラヴ・トゥナイト」のジャケットを基にしていると述べている。
+1.  『大滝詠一Talks About Niagara』収録のインタビューで大瀧は、[ニール・セダカ](../Page/ニール・セダカ.md "wikilink")の同名曲と[エルヴィス・プレスリー](../Page/エルヴィス・プレスリー.md "wikilink")のシングル「アイ・ニード・ユア・ラヴ・トゥナイト」のジャケットを基にしていると述べている。
 2.  大瀧は「Rock'n'Roll お年玉」の冒頭のSEを左からドアの開く音が聴こえるようにミックスしたつもりでソニー盤のリミックスでもそうなっていたが、コロムビア盤のマスターテープを再生させたところ逆に聴こえたことで定位の変化に気づいたという。
-3.  『[サンデー・ソングブック](https://ja.wikipedia.org/wiki/山下達郎のサンデー・ソングブック "wikilink")』2008年1月6日放送「新春放談 part.1」より
+3.  『[サンデー・ソングブック](../Page/山下達郎のサンデー・ソングブック.md "wikilink")』2008年1月6日放送「新春放談 part.1」より
 4.  レコード・コレクターズ4月増刊『大滝詠一 Talks About Niagara』（[ミュージック・マガジン](https://ja.wikipedia.org/wiki/ミュージック・マガジン "wikilink")）pp142-185 LONG INTERVIEWS『ナイアガラ・カレンダー』、[2011年](../Page/2011年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")発行・第30巻第8号・通巻397号
 5.
-6.  [鈴木祥子](https://ja.wikipedia.org/wiki/鈴木祥子 "wikilink")「青空のように」 発売 BEARFOREST RECORDS CD-S:DDCZ-1731
+6.  [鈴木祥子](../Page/鈴木祥子.md "wikilink")「青空のように」 発売 BEARFOREST RECORDS CD-S:DDCZ-1731
 7.  [FISHMANS](../Page/フィッシュマンズ.md "wikilink")「Walkin'」 発売 MEDIA REMORAS SCD:MRDA-00009
 8.
-9.  「空飛ぶくじら」 発売 [Bellwood](https://ja.wikipedia.org/wiki/ベルウッド・レコード "wikilink") ⁄ KING EP:OF-3
+9.  「空飛ぶくじら」 発売 [Bellwood](../Page/ベルウッド・レコード.md "wikilink") ⁄ KING EP:OF-3
 10.
 11.
 12.
-13. 「Sound & Recording Magazine」[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")6月号（[リットーミュージック](https://ja.wikipedia.org/wiki/リットーミュージック "wikilink")）P46〜49 “大瀧詠一、自らを語る vol.3”
+13. 「Sound & Recording Magazine」[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")6月号（[リットーミュージック](../Page/リットーミュージック.md "wikilink")）P46〜49 “大瀧詠一、自らを語る vol.3”
 14.
 15.
-16. 事業を縮小の上、運営を[P.M.Pに委託](https://ja.wikipedia.org/wiki/フジパシフィックミュージック "wikilink")。以後、会社は名目上は存続した。
+16. 事業を縮小の上、運営を[P.M.Pに委託](../Page/フジパシフィックミュージック.md "wikilink")。以後、会社は名目上は存続した。
 17.
 18.
 19. [大滝詠一](../Page/大瀧詠一.md "wikilink")、[山下達郎](../Page/山下達郎.md "wikilink")、[伊藤銀次](../Page/伊藤銀次.md "wikilink")『[NIAGARA TRIANGLE Vol.1](https://ja.wikipedia.org/wiki/NIAGARA_TRIANGLE_Vol.1 "wikilink")』 発売 [NIAGARA](../Page/ナイアガラ・レーベル.md "wikilink") ⁄ [COLUMBIA](../Page/日本コロムビア.md "wikilink") LP:LQ-7001
@@ -893,13 +893,13 @@ SRCL 7511</p></td>
 21.
 22.
 23. 「この物語はフィクションであり、実在の人物・団体とは一切関係ありません」 のパロディ。
-24. 大瀧は「日本語のロックンロールというとどうしてもああなるなあ」と、歌詞の“ちょっと廃れた”の箇所は[宇崎竜童](https://ja.wikipedia.org/wiki/宇崎竜童 "wikilink")ぽいと思いながら歌ったという。
+24. 大瀧は「日本語のロックンロールというとどうしてもああなるなあ」と、歌詞の“ちょっと廃れた”の箇所は[宇崎竜童](../Page/宇崎竜童.md "wikilink")ぽいと思いながら歌ったという。
 25. [はっぴいえんど](../Page/はっぴいえんど.md "wikilink")のアルバム『[はっぴいえんど](https://ja.wikipedia.org/wiki/はっぴいえんど_\(アルバム\) "wikilink")』の1曲目「春よ来い」が“お正月といえば”で始まることから。
 26. 大瀧は、歌詞の“ちょうだい”は[財津一郎](https://ja.wikipedia.org/wiki/財津一郎 "wikilink")でやりたかったという。
 27. “たそがれ忠治”から、読み方は“くにさだきみその”となっている。
 28. 大瀧曰く“イントロのメロディをいただいた”という「たそがれ忠治」の元である「めんどうみたョ」の作詞者。
 29. 曲中にイメージ的に入っているという「達者でナ」の作詞者。
-30. 『[金色夜叉](https://ja.wikipedia.org/wiki/金色夜叉 "wikilink")』の一節“今月今夜のこの月も”が引用されていることから。
+30. 『[金色夜叉](../Page/金色夜叉.md "wikilink")』の一節“今月今夜のこの月も”が引用されていることから。
 31.
 32.
 33.

@@ -1,15 +1,15 @@
 > この記事は[I-revo](https://ja.wikipedia.org/wiki/I-revo)から翻訳されています。
 
 
-**i-revo**（アイレボ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[情報通信](https://ja.wikipedia.org/wiki/情報通信 "wikilink")[企業](../Page/企業.md "wikilink")・株式会社インターネットレボリューションが運営する[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")上の[ポータルサイト](../Page/ポータルサイト.md "wikilink")である。
+**i-revo**（アイレボ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[情報通信](https://ja.wikipedia.org/wiki/情報通信 "wikilink")[企業](../Page/企業.md "wikilink")・株式会社インターネットレボリューションが運営する[インターネット](../Page/インターネット.md "wikilink")上の[ポータルサイト](../Page/ポータルサイト.md "wikilink")である。
 
 ## 略史
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[2月27日](../Page/2月27日.md "wikilink")に音楽・映像配信サービスを先行オープンし、同年[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")に正式サービスを開始した。
+[2006年](../Page/2006年.md "wikilink")[2月27日](../Page/2月27日.md "wikilink")に音楽・映像配信サービスを先行オープンし、同年[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")に正式サービスを開始した。
 
-[2007年](../Page/2007年.md "wikilink")[7月3日](https://ja.wikipedia.org/wiki/7月3日 "wikilink")に、[携帯電話](../Page/携帯電話.md "wikilink")（[フィーチャー・フォン](https://ja.wikipedia.org/wiki/フィーチャー・フォン "wikilink")）向け[ゲーム](../Page/ゲーム.md "wikilink")・[アバター](https://ja.wikipedia.org/wiki/アバター "wikilink")・[デコレーションメール](https://ja.wikipedia.org/wiki/デコレーションメール "wikilink")の無料サイト「**[モバレボ](https://ja.wikipedia.org/wiki/モバレボ "wikilink")**」をオープンしたが、2012年12月19日をもってモバレボの全サービスを終了した。
+[2007年](../Page/2007年.md "wikilink")[7月3日](../Page/7月3日.md "wikilink")に、[携帯電話](../Page/携帯電話.md "wikilink")（[フィーチャー・フォン](https://ja.wikipedia.org/wiki/フィーチャー・フォン "wikilink")）向け[ゲーム](../Page/ゲーム.md "wikilink")・[アバター](../Page/アバター.md "wikilink")・[デコレーションメール](https://ja.wikipedia.org/wiki/デコレーションメール "wikilink")の無料サイト「**[モバレボ](https://ja.wikipedia.org/wiki/モバレボ "wikilink")**」をオープンしたが、2012年12月19日をもってモバレボの全サービスを終了した。
 
-また、2012年3月からは[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")向け[SNSゲームサイト](https://ja.wikipedia.org/wiki/ソーシャル・ネットワーキング・サービス "wikilink")「**kiwi**」を運営していたが（サービス開始から2014年1月30日までは[カルチュア・コンビニエンス・クラブ](https://ja.wikipedia.org/wiki/カルチュア・コンビニエンス・クラブ "wikilink")子会社のTSUTAYA.comとの提携により「**TSUTAYA.com kiwi**」という名称だった）、2015年3月31日をもってサービスを終了。サービス終了に先立ち、2014年11月28日に現行のkiwiアカウントを親会社であるコナミデジタルエンタテインメントのアカウントサービスである「KONAMI ID」に統合・移行した。アカウント統合後は、旧kiwiアカウントのID（メールアドレス）とパスワードで、[eAMUSEMENTや](https://ja.wikipedia.org/wiki/e-AMUSEMENT_PASS "wikilink")[コナミスタイル](https://ja.wikipedia.org/wiki/コナミスタイル "wikilink")などコナミデジタルエンタテインメントが提供するオンラインサービスも利用できる。
+また、2012年3月からは[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")向け[SNSゲームサイト](../Page/ソーシャル・ネットワーキング・サービス.md "wikilink")「**kiwi**」を運営していたが（サービス開始から2014年1月30日までは[カルチュア・コンビニエンス・クラブ](https://ja.wikipedia.org/wiki/カルチュア・コンビニエンス・クラブ "wikilink")子会社のTSUTAYA.comとの提携により「**TSUTAYA.com kiwi**」という名称だった）、2015年3月31日をもってサービスを終了。サービス終了に先立ち、2014年11月28日に現行のkiwiアカウントを親会社であるコナミデジタルエンタテインメントのアカウントサービスである「KONAMI ID」に統合・移行した。アカウント統合後は、旧kiwiアカウントのID（メールアドレス）とパスワードで、[eAMUSEMENTや](https://ja.wikipedia.org/wiki/e-AMUSEMENT_PASS "wikilink")[コナミスタイル](../Page/コナミスタイル.md "wikilink")などコナミデジタルエンタテインメントが提供するオンラインサービスも利用できる。
 
 ## 概要
 
@@ -29,7 +29,7 @@
 
 ### i-revoマイポータル
 
-[ブログ](../Page/ブログ.md "wikilink")、[ソーシャル・ネットワーキング・サービス](https://ja.wikipedia.org/wiki/ソーシャル・ネットワーキング・サービス "wikilink")、[メールなどの機能を融合させたオンラインコミュニケーションツール](../Page/電子メール.md "wikilink")。投稿先を切り替えるだけで、同じ記事を自分のブログに投稿したり、メールとして他人に送信したり、共通の趣味を持つコミュニティに公開したりできる。また[ポータルサイト](../Page/ポータルサイト.md "wikilink")として[ニュース](../Page/ニュース.md "wikilink")・[天気予報](../Page/天気予報.md "wikilink")・経済情報なども提供されていた。
+[ブログ](../Page/ブログ.md "wikilink")、[ソーシャル・ネットワーキング・サービス](../Page/ソーシャル・ネットワーキング・サービス.md "wikilink")、[メールなどの機能を融合させたオンラインコミュニケーションツール](../Page/電子メール.md "wikilink")。投稿先を切り替えるだけで、同じ記事を自分のブログに投稿したり、メールとして他人に送信したり、共通の趣味を持つコミュニティに公開したりできる。また[ポータルサイト](../Page/ポータルサイト.md "wikilink")として[ニュース](../Page/ニュース.md "wikilink")・[天気予報](../Page/天気予報.md "wikilink")・経済情報なども提供されていた。
 
 コナミグループ企業ということもあり、コナミのゲームタイトルやシリーズの公式・準公式コミュニティや、コナミ所属クリエイターの公式ブログなども公開されている。コナミが公式に開設したブログについては、URL上のユーザーIDがその人物に関連したものになっており、一般ユーザーについてはランダムな文字列となっている。
 
@@ -37,7 +37,7 @@
 
 ### i-revoゲーム
 
-これまでに[家庭用ゲーム機](https://ja.wikipedia.org/wiki/家庭用ゲーム機 "wikilink")や[パソコン向けに発売された](../Page/パーソナルコンピュータ.md "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")をオンラインで[レンタル](https://ja.wikipedia.org/wiki/レンタル "wikilink")もしくは購入し、同時に提供される専用[エミュレータ](../Page/エミュレータ.md "wikilink")上でプレイすることが出来る。2006年3月にサービス開始され、2011年3月31日に終了した\[1\]。
+これまでに[家庭用ゲーム機](https://ja.wikipedia.org/wiki/家庭用ゲーム機 "wikilink")や[パソコン向けに発売された](../Page/パーソナルコンピュータ.md "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")をオンラインで[レンタル](../Page/レンタル.md "wikilink")もしくは購入し、同時に提供される専用[エミュレータ](../Page/エミュレータ.md "wikilink")上でプレイすることが出来る。2006年3月にサービス開始され、2011年3月31日に終了した\[1\]。
 
 [ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")・[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")・[PCエンジン](../Page/PCエンジン.md "wikilink")・[MSX](https://ja.wikipedia.org/wiki/MSX "wikilink")のソフトウェアが配信されていた。料金は30日間の定額料金制で、3タイトル選択（315円）・5タイトル選択（525円）・全タイトル（1050円）の3通りのプランを選択できた。また、1タイトル単位で個別に買い取る（ソフトごとに価格は異なる）ことも可能だった。
 
@@ -46,17 +46,17 @@
 #### ソフト供給元
 
   - [アトラス](../Page/アトラス_\(ゲーム会社\).md "wikilink")
-  - [工画堂スタジオ](https://ja.wikipedia.org/wiki/工画堂スタジオ "wikilink")
+  - [工画堂スタジオ](../Page/工画堂スタジオ.md "wikilink")
   - [コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")（旧[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")作品）
   - [G-mode](https://ja.wikipedia.org/wiki/G-mode "wikilink")（旧[データイースト](../Page/データイースト.md "wikilink")作品）
   - [コンパイル](https://ja.wikipedia.org/wiki/コンパイル_\(テレビゲームソフト会社\) "wikilink")（D4E）
   - [タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")
-  - [日本テレネット](https://ja.wikipedia.org/wiki/日本テレネット_\(ゲーム会社\) "wikilink")
-  - [ネットファーム・コミュニケーションズ](../Page/ネットファーム・コミュニケーションズ.md "wikilink")（旧[デービーソフト](https://ja.wikipedia.org/wiki/デービーソフト "wikilink")作品）
+  - [日本テレネット](../Page/日本テレネット_\(ゲーム会社\).md "wikilink")
+  - [ネットファーム・コミュニケーションズ](../Page/ネットファーム・コミュニケーションズ.md "wikilink")（旧[デービーソフト](../Page/デービーソフト.md "wikilink")作品）
   - [ハドソン](../Page/ハドソン.md "wikilink")
-  - [ボーステック](https://ja.wikipedia.org/wiki/ボーステック "wikilink")
-  - [マイクロキャビン](https://ja.wikipedia.org/wiki/マイクロキャビン "wikilink")
-  - [ワークジャム](https://ja.wikipedia.org/wiki/ワークジャム "wikilink")
+  - [ボーステック](../Page/ボーステック.md "wikilink")
+  - [マイクロキャビン](../Page/マイクロキャビン.md "wikilink")
+  - [ワークジャム](../Page/ワークジャム.md "wikilink")
 
 ### i-revoミュージック&ムービー
 
@@ -65,7 +65,7 @@
 日本国内で販売されている音楽CDやDVD映像ソフトをオンライン購入することができた。また、音楽・映像ソフトのオンライン配信も行われていた。音楽・映像コンテンツのオンライン販売の運営は同じくコナミグループの[ハドソン](../Page/ハドソン.md "wikilink")が行っていた。
 
   - [ふにゃ日和](https://ja.wikipedia.org/wiki/ふにゃ日和 "wikilink")
-  - [Showgate RADIO](https://ja.wikipedia.org/wiki/Showgate_RADIO "wikilink")
+  - [Showgate RADIO](../Page/Showgate_RADIO.md "wikilink")
 
 ### i-revoブックス
 

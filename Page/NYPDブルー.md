@@ -1,11 +1,11 @@
 > この記事は[NYPD](https://ja.wikipedia.org/wiki/NYPD)から翻訳されています。
 
 
-『**NYPDブルー**』（エヌワイピーディーブルー、*NYPD Blue*）は、[ニューヨーク](../Page/ニューヨーク.md "wikilink")が舞台の[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[刑事ドラマ](https://ja.wikipedia.org/wiki/刑事ドラマ "wikilink")。[1993年](../Page/1993年.md "wikilink")から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に渡って、全12シーズンが放送された。
+『**NYPDブルー**』（エヌワイピーディーブルー、*NYPD Blue*）は、[ニューヨーク](../Page/ニューヨーク.md "wikilink")が舞台の[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[刑事ドラマ](../Page/刑事ドラマ.md "wikilink")。[1993年](../Page/1993年.md "wikilink")から[2005年](../Page/2005年.md "wikilink")に渡って、全12シーズンが放送された。
 
 ドラマ撮影において手持ちカメラを使用し、画面にぶれを出すことで臨場感を演出するなど映像面においても革新的な手法を採ったことで知られる（ただし、この手法を最初に採用したのは[1981年](../Page/1981年.md "wikilink")-[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")のTVドラマ『[ヒルストリート・ブルース](https://ja.wikipedia.org/wiki/ヒルストリート・ブルース "wikilink")』である）。全12シーズンという長寿番組となった。タイトルの「**ブルー**」は、[ニューヨーク市警察](https://ja.wikipedia.org/wiki/ニューヨーク市警察 "wikilink")の警察官の制服の色が「[青](../Page/青.md "wikilink")色」である事と“[ブルース](../Page/ブルース.md "wikilink")(憂鬱なこと)”から。
 
-[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")には[エミー賞](https://ja.wikipedia.org/wiki/エミー賞 "wikilink")作品賞を受賞している。
+[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")には[エミー賞](../Page/エミー賞.md "wikilink")作品賞を受賞している。
 
 ## 解説
 
@@ -28,7 +28,7 @@
 
   - アンディ・シポウィッツ刑事 / シーズン1第1話 - シーズン12最終話
     演：[デニス・フランツ](../Page/デニス・フランツ.md "wikilink")（[富田耕生](../Page/富田耕生.md "wikilink")）
-    [ニューヨーク市警察](https://ja.wikipedia.org/wiki/ニューヨーク市警察 "wikilink")のベテラン刑事。当初はケリーの相棒としてのポジションであったが、シーズン2序盤でケリーが去ったことで主役のポジションとなる。後半は「[鬼軍曹](https://ja.wikipedia.org/wiki/軍曹 "wikilink")」のような人物となり、シリーズフィナーレでは調査チームを結成した。
+    [ニューヨーク市警察](https://ja.wikipedia.org/wiki/ニューヨーク市警察 "wikilink")のベテラン刑事。当初はケリーの相棒としてのポジションであったが、シーズン2序盤でケリーが去ったことで主役のポジションとなる。後半は「[鬼軍曹](../Page/軍曹.md "wikilink")」のような人物となり、シリーズフィナーレでは調査チームを結成した。
 
 <!-- end list -->
 
@@ -48,13 +48,13 @@
 <!-- end list -->
 
   - ローラ・マイケルズ
-    演：[シェリー・ストリングフィールド](https://ja.wikipedia.org/wiki/シェリー・ストリングフィールド "wikilink")（[堀越真己](https://ja.wikipedia.org/wiki/堀越真己 "wikilink")）
+    演：[シェリー・ストリングフィールド](https://ja.wikipedia.org/wiki/シェリー・ストリングフィールド "wikilink")（[堀越真己](../Page/堀越真己.md "wikilink")）
     第1シーズンに登場。ジョン・ケリー刑事の元妻。
 
 <!-- end list -->
 
   - アーサー・ファンシー警部補
-    演：[ジェームズ・マクダニエル](https://ja.wikipedia.org/wiki/ジェームズ・マクダニエル "wikilink")（[水野龍司](https://ja.wikipedia.org/wiki/水野龍司 "wikilink")→[田中正彦](https://ja.wikipedia.org/wiki/田中正彦 "wikilink")）
+    演：[ジェームズ・マクダニエル](https://ja.wikipedia.org/wiki/ジェームズ・マクダニエル "wikilink")（[水野龍司](../Page/水野龍司.md "wikilink")→[田中正彦](../Page/田中正彦.md "wikilink")）
 
 <!-- end list -->
 
@@ -69,16 +69,16 @@
 
 <!-- end list -->
 
-  - ジャニス・リカルシ巡査（第1-第2シーズン）：[エイミー・ブレネマン](https://ja.wikipedia.org/wiki/エイミー・ブレネマン "wikilink")（[田中敦子](https://ja.wikipedia.org/wiki/田中敦子_\(声優\) "wikilink")）
+  - ジャニス・リカルシ巡査（第1-第2シーズン）：[エイミー・ブレネマン](https://ja.wikipedia.org/wiki/エイミー・ブレネマン "wikilink")（[田中敦子](../Page/田中敦子_\(声優\).md "wikilink")）
   - シルビア・コスタス検事補：[シャロン・ローレンス](https://ja.wikipedia.org/wiki/シャロン・ローレンス "wikilink")（[丸山真奈実](https://ja.wikipedia.org/wiki/丸山真奈実 "wikilink")）
-  - グレッグ・メダボイ刑事：[ゴードン・クラップ](https://ja.wikipedia.org/wiki/ゴードン・クラップ "wikilink")（[幹本雄之](https://ja.wikipedia.org/wiki/幹本雄之 "wikilink")）
-  - ドナ・アバンダンド（第1-第3シーズン）：[ゲイル・オグレイディ](https://ja.wikipedia.org/wiki/ゲイル・オグレイディ "wikilink")（[菊池いづみ](https://ja.wikipedia.org/wiki/菊池いづみ "wikilink")）
-  - アンソニー・ラスターザ：[トム・ラウレス](https://ja.wikipedia.org/wiki/トム・ラウレス "wikilink")（[宝亀克寿](https://ja.wikipedia.org/wiki/宝亀克寿 "wikilink")）
-  - マイク・ロバーツ：[マイケル・ハーネイ](https://ja.wikipedia.org/wiki/マイケル・ハーネイ "wikilink")（[小野健一](https://ja.wikipedia.org/wiki/小野健一_\(声優\) "wikilink")）
-  - ロビン・ワーカス：[デブラ・ファレンティノ](https://ja.wikipedia.org/wiki/デブラ・ファレンティノ "wikilink")（[水谷優子](https://ja.wikipedia.org/wiki/水谷優子 "wikilink")）
-  - アンディ・シポウィッツ・Jr.：[マイケル・デルイーズ](https://ja.wikipedia.org/wiki/マイケル・デルイーズ "wikilink")（[成田剣](https://ja.wikipedia.org/wiki/成田剣 "wikilink")）
-  - エイドリアン・レズニアク刑事（第2シーズン-）：[ジャスティン・ミシェリ](https://ja.wikipedia.org/wiki/ジャスティン・ミシェリ "wikilink")（[鈴鹿千春](https://ja.wikipedia.org/wiki/鈴鹿千春 "wikilink")→[桜澤凛](https://ja.wikipedia.org/wiki/桜澤凛 "wikilink")）
-  - ダイアン・ラッセル刑事（第2シーズン-）：[キム・デラニー](https://ja.wikipedia.org/wiki/キム・デラニー "wikilink")（[日野由利加](https://ja.wikipedia.org/wiki/日野由利加 "wikilink")）
+  - グレッグ・メダボイ刑事：[ゴードン・クラップ](https://ja.wikipedia.org/wiki/ゴードン・クラップ "wikilink")（[幹本雄之](../Page/幹本雄之.md "wikilink")）
+  - ドナ・アバンダンド（第1-第3シーズン）：[ゲイル・オグレイディ](https://ja.wikipedia.org/wiki/ゲイル・オグレイディ "wikilink")（[菊池いづみ](../Page/菊池いづみ.md "wikilink")）
+  - アンソニー・ラスターザ：[トム・ラウレス](https://ja.wikipedia.org/wiki/トム・ラウレス "wikilink")（[宝亀克寿](../Page/宝亀克寿.md "wikilink")）
+  - マイク・ロバーツ：[マイケル・ハーネイ](https://ja.wikipedia.org/wiki/マイケル・ハーネイ "wikilink")（[小野健一](../Page/小野健一_\(声優\).md "wikilink")）
+  - ロビン・ワーカス：[デブラ・ファレンティノ](https://ja.wikipedia.org/wiki/デブラ・ファレンティノ "wikilink")（[水谷優子](../Page/水谷優子.md "wikilink")）
+  - アンディ・シポウィッツ・Jr.：[マイケル・デルイーズ](https://ja.wikipedia.org/wiki/マイケル・デルイーズ "wikilink")（[成田剣](../Page/成田剣.md "wikilink")）
+  - エイドリアン・レズニアク刑事（第2シーズン-）：[ジャスティン・ミシェリ](https://ja.wikipedia.org/wiki/ジャスティン・ミシェリ "wikilink")（[鈴鹿千春](../Page/鈴鹿千春.md "wikilink")→[桜澤凛](https://ja.wikipedia.org/wiki/桜澤凛 "wikilink")）
+  - ダイアン・ラッセル刑事（第2シーズン-）：[キム・デラニー](https://ja.wikipedia.org/wiki/キム・デラニー "wikilink")（[日野由利加](../Page/日野由利加.md "wikilink")）
 
 ## スタッフ
 
@@ -132,7 +132,7 @@
 | 17 | 失踪     | *Black Men Can Jump*     | [1994年](../Page/1994年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink")                        |
 | 18 | 標的     | *Zeppo Marks Brothers*   | [1994年](../Page/1994年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink")                      |
 | 19 | 格闘     | *Serge, The Concierge*   | [1994年](../Page/1994年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")                      |
-| 20 | 悔恨     | *Good Time Charlie*      | [1994年](../Page/1994年.md "wikilink")[5月3日](https://ja.wikipedia.org/wiki/5月3日 "wikilink")     |
+| 20 | 悔恨     | *Good Time Charlie*      | [1994年](../Page/1994年.md "wikilink")[5月3日](../Page/5月3日.md "wikilink")                        |
 | 21 | 発砲     | *Guns 'N Rosaries*       | [1994年](../Page/1994年.md "wikilink")[5月10日](../Page/5月10日.md "wikilink")                      |
 | 22 | 救出     | *Rockin' Robin*          | [1994年](../Page/1994年.md "wikilink")[5月17日](../Page/5月17日.md "wikilink")                      |
 
@@ -178,7 +178,7 @@
 | 9  | (53) | 隠蔽  | *Sorry, Wong Suspect*              | [1996年](../Page/1996年.md "wikilink")[1月9日](../Page/1月9日.md "wikilink")                                           |
 | 10 | (54) | 暴言  | *The Backboard Jungle*             | [1996年](../Page/1996年.md "wikilink")[1月16日](https://ja.wikipedia.org/wiki/1月16日 "wikilink")                      |
 | 11 | (55) | 刺青  | *Burnin' Love*                     | [1996年](../Page/1996年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink")                                         |
-| 12 | (56) | 崩壊  | *These Old Bones*                  | [1996年](../Page/1996年.md "wikilink")[2月6日](https://ja.wikipedia.org/wiki/2月6日 "wikilink")                        |
+| 12 | (56) | 崩壊  | *These Old Bones*                  | [1996年](../Page/1996年.md "wikilink")[2月6日](../Page/2月6日.md "wikilink")                                           |
 | 13 | (57) | 確執  | *A Tushful of Dollars*             | [1996年](../Page/1996年.md "wikilink")[2月13日](../Page/2月13日.md "wikilink")                                         |
 | 14 | (58) | 惨殺  | *The Nutty Confessor*              | [1996年](../Page/1996年.md "wikilink")[2月20日](../Page/2月20日.md "wikilink")                                         |
 | 15 | (59) | 愚行  | *Head Case*                        | [1996年](../Page/1996年.md "wikilink")[2月27日](../Page/2月27日.md "wikilink")                                         |
@@ -443,7 +443,7 @@
 | 2  | (155) |    | *Waking Up Is Hard to Do*             | [2001年](../Page/2001年.md "wikilink")[1月16日](https://ja.wikipedia.org/wiki/1月16日 "wikilink") |
 | 3  | (156) |    | *Franco My Dear, I Don't Give a Damn* | [2001年](../Page/2001年.md "wikilink")[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink") |
 | 4  | (157) |    | *Family Ties*                         | [2001年](../Page/2001年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink")                    |
-| 5  | (158) |    | *Fools Russian*                       | [2001年](../Page/2001年.md "wikilink")[2月6日](https://ja.wikipedia.org/wiki/2月6日 "wikilink")   |
+| 5  | (158) |    | *Fools Russian*                       | [2001年](../Page/2001年.md "wikilink")[2月6日](../Page/2月6日.md "wikilink")                      |
 | 6  | (159) |    | *Writing Wrongs*                      | [2001年](../Page/2001年.md "wikilink")[2月13日](../Page/2月13日.md "wikilink")                    |
 | 7  | (160) |    | *In-Laws, Outlaws*                    | [2001年](../Page/2001年.md "wikilink")[2月20日](../Page/2月20日.md "wikilink")                    |
 | 8  | (161) |    | *Russellmania*                        | [2001年](../Page/2001年.md "wikilink")[2月27日](../Page/2月27日.md "wikilink")                    |
@@ -451,7 +451,7 @@
 | 10 | (163) |    | *In the Still of the Night*           | [2001年](../Page/2001年.md "wikilink")[3月13日](../Page/3月13日.md "wikilink")                    |
 | 11 | (164) |    | *Peeping Tommy*                       | [2001年](../Page/2001年.md "wikilink")[3月20日](../Page/3月20日.md "wikilink")                    |
 | 12 | (165) |    | *Thumb Enchanted Evening*             | [2001年](../Page/2001年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")                    |
-| 13 | (166) |    | *Flight of Fancy*                     | [2001年](../Page/2001年.md "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")   |
+| 13 | (166) |    | *Flight of Fancy*                     | [2001年](../Page/2001年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")                      |
 | 14 | (167) |    | *Nariz A Nariz*                       | [2001年](../Page/2001年.md "wikilink")[4月10日](../Page/4月10日.md "wikilink")                    |
 | 15 | (168) |    | *Love Hurts*                          | [2001年](../Page/2001年.md "wikilink")[4月17日](../Page/4月17日.md "wikilink")                    |
 | 16 | (169) |    | *Everyone Into the Poole*             | [2001年](../Page/2001年.md "wikilink")[4月24日](../Page/4月24日.md "wikilink")                    |
@@ -481,7 +481,7 @@
 | 15 | (188) |    | *Guns and Hoses*         | [2002年](../Page/2002年.md "wikilink")[3月12日](../Page/3月12日.md "wikilink")                    |
 | 16 | (189) |    | *A Little Dad'll Do Ya*  | [2002年](../Page/2002年.md "wikilink")[3月19日](../Page/3月19日.md "wikilink")                    |
 | 17 | (190) |    | *Gypsy Woe's Me*         | [2002年](../Page/2002年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink") |
-| 18 | (191) |    | *Less is Morte*          | [2002年](../Page/2002年.md "wikilink")[4月16日](https://ja.wikipedia.org/wiki/4月16日 "wikilink") |
+| 18 | (191) |    | *Less is Morte*          | [2002年](../Page/2002年.md "wikilink")[4月16日](../Page/4月16日.md "wikilink")                    |
 | 19 | (192) |    | *Low Blow*               | [2002年](../Page/2002年.md "wikilink")[4月30日](../Page/4月30日.md "wikilink")                    |
 | 20 | (193) |    | *Oedipus Wrecked*        | [2002年](../Page/2002年.md "wikilink")[5月7日](../Page/5月7日.md "wikilink")                      |
 | 21 | (194) |    | *Dead Meat in New Deli*  | [2002年](../Page/2002年.md "wikilink")[5月14日](../Page/5月14日.md "wikilink")                    |
@@ -507,7 +507,7 @@
 | 14 | (209) |    | *Laughlin All the Way to the Clink* | [2003年](../Page/2003年.md "wikilink")[2月11日](../Page/2月11日.md "wikilink")                      |
 | 15 | (210) |    | *Tranny Get Your Gun*               | [2003年](../Page/2003年.md "wikilink")[2月18日](../Page/2月18日.md "wikilink")                      |
 | 16 | (211) |    | *Nude Awakening*                    | [2003年](../Page/2003年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")                      |
-| 17 | (212) |    | *Off the Wall*                      | [2003年](../Page/2003年.md "wikilink")[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")     |
+| 17 | (212) |    | *Off the Wall*                      | [2003年](../Page/2003年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")                        |
 | 18 | (213) |    | *Marine Life*                       | [2003年](../Page/2003年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink")                      |
 | 19 | (214) |    | *Meet the Grandparents*             | [2003年](../Page/2003年.md "wikilink")[4月29日](../Page/4月29日.md "wikilink")                      |
 | 20 | (215) |    | *Maybe Baby*                        | [2003年](../Page/2003年.md "wikilink")[5月6日](../Page/5月6日.md "wikilink")                        |
@@ -557,14 +557,14 @@
 | 10 | (249) |    | *The Dead Donald*                            | [2004年](../Page/2004年.md "wikilink")[12月7日](../Page/12月7日.md "wikilink")                      |
 | 11 | (250) |    | *Bale Out*                                   | [2004年](../Page/2004年.md "wikilink")[12月14日](../Page/12月14日.md "wikilink")                    |
 | 12 | (251) |    | '*'I Love My Wives, But Oh You Kid*          | [2004年](../Page/2004年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")                    |
-| 13 | (252) |    | *Stoli With a Twist*                         | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[1月11日](../Page/1月11日.md "wikilink")   |
-| 14 | (253) |    | *Stratis Fear*                               | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[1月18日](../Page/1月18日.md "wikilink")   |
-| 15 | (254) |    | *La Bomba*                                   | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[1月25日](../Page/1月25日.md "wikilink")   |
-| 16 | (255) |    | *Old Man Quiver*                             | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月1日](../Page/2月1日.md "wikilink")     |
-| 17 | (256) |    | *Sergeant Sipowicz' Lonely Hearts Club Band* | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月8日](../Page/2月8日.md "wikilink")     |
-| 18 | (257) |    | *Lenny Scissorhands*                         | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月15日](../Page/2月15日.md "wikilink")   |
-| 19 | (258) |    | *Bale to the Chief*                          | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月22日](../Page/2月22日.md "wikilink")   |
-| 20 | (259) |    | *Moving Day*                                 | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月1日](../Page/3月1日.md "wikilink")     |
+| 13 | (252) |    | *Stoli With a Twist*                         | [2005年](../Page/2005年.md "wikilink")[1月11日](../Page/1月11日.md "wikilink")                      |
+| 14 | (253) |    | *Stratis Fear*                               | [2005年](../Page/2005年.md "wikilink")[1月18日](../Page/1月18日.md "wikilink")                      |
+| 15 | (254) |    | *La Bomba*                                   | [2005年](../Page/2005年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink")                      |
+| 16 | (255) |    | *Old Man Quiver*                             | [2005年](../Page/2005年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")                        |
+| 17 | (256) |    | *Sergeant Sipowicz' Lonely Hearts Club Band* | [2005年](../Page/2005年.md "wikilink")[2月8日](../Page/2月8日.md "wikilink")                        |
+| 18 | (257) |    | *Lenny Scissorhands*                         | [2005年](../Page/2005年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink")                      |
+| 19 | (258) |    | *Bale to the Chief*                          | [2005年](../Page/2005年.md "wikilink")[2月22日](../Page/2月22日.md "wikilink")                      |
+| 20 | (259) |    | *Moving Day*                                 | [2005年](../Page/2005年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink")                        |
 
 ## 脚注
 

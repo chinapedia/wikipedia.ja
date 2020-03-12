@@ -1,17 +1,17 @@
 > この記事は[Koji](https://ja.wikipedia.org/wiki/Koji)から翻訳されています。
 
 
-**Koji**（コージ、[1977年](../Page/1977年.md "wikilink")[2月5日](../Page/2月5日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[俳優](../Page/俳優.md "wikilink")。[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身。旧芸名、**末吉 宏司**（すえよし こうじ）。
+**Koji**（コージ、[1977年](../Page/1977年.md "wikilink")[2月5日](../Page/2月5日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[俳優](../Page/俳優.md "wikilink")。[東京都](../Page/東京都.md "wikilink")出身。旧芸名、**末吉 宏司**（すえよし こうじ）。
 
 ## 来歴
 
 1996年、末吉宏司名義として俳優デビュー。 1998年に『[星獣戦隊ギンガマン](../Page/星獣戦隊ギンガマン.md "wikilink")』でハヤテ / ギンガグリーン役で出演。
 
-2000年から2006年まで、『[八丁堀の七人](https://ja.wikipedia.org/wiki/八丁堀の七人 "wikilink")』シリーズに古川一郎太役で出演。 2008年2月に現芸名Kojiに改名。
+2000年から2006年まで、『[八丁堀の七人](../Page/八丁堀の七人.md "wikilink")』シリーズに古川一郎太役で出演。 2008年2月に現芸名Kojiに改名。
 
-かつては[フロム・ファーストプロダクション](https://ja.wikipedia.org/wiki/フロム・ファーストプロダクション "wikilink")→[メディアワークスS\&Dプロモーション](https://ja.wikipedia.org/wiki/メディアワークスS&Dプロモーション "wikilink")に所属していた。
+かつては[フロム・ファーストプロダクション](../Page/フロム・ファーストプロダクション.md "wikilink")→[メディアワークスS\&Dプロモーション](https://ja.wikipedia.org/wiki/メディアワークスS&Dプロモーション "wikilink")に所属していた。
 
-趣味は[バイク](https://ja.wikipedia.org/wiki/バイク "wikilink")。17歳から現在もHarley-Davidsonに乗り続け、自身のブログ「tatanka」という名前は愛車の呼称が由来。 [西岡竜一朗](https://ja.wikipedia.org/wiki/西岡竜一朗 "wikilink")や[鈴木飛雄](../Page/鈴木飛雄.md "wikilink")とは深い親交があり、二人が経営しているバイク店『有限会社セレクテッド』の設立・サポートに協力している。また、後にKojiの愛車をフルレストアしたこともある。
+趣味は[バイク](https://ja.wikipedia.org/wiki/バイク "wikilink")。17歳から現在もHarley-Davidsonに乗り続け、自身のブログ「tatanka」という名前は愛車の呼称が由来。 [西岡竜一朗](../Page/西岡竜一朗.md "wikilink")や[鈴木飛雄](../Page/鈴木飛雄.md "wikilink")とは深い親交があり、二人が経営しているバイク店『有限会社セレクテッド』の設立・サポートに協力している。また、後にKojiの愛車をフルレストアしたこともある。
 
 現在は、[メキシコシティ](../Page/メキシコシティ.md "wikilink")に在住している。
 
@@ -24,33 +24,33 @@
   - [星獣戦隊ギンガマン](../Page/星獣戦隊ギンガマン.md "wikilink")（1998年、テレビ朝日） - 役
   - [shin-D](https://ja.wikipedia.org/wiki/shin-D "wikilink") 夏色の恋（1999年8月3日 - 9月28日、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")） - 主演・高田雅也 役
   - [悪いオンナ 地獄へのカクテル](https://ja.wikipedia.org/wiki/悪いオンナ#地獄へのカクテル "wikilink")（1999年10月7日 - 28日、[TBS](../Page/TBSテレビ.md "wikilink")） - 向井友也 役
-  - [八丁堀の七人](https://ja.wikipedia.org/wiki/八丁堀の七人 "wikilink")シリーズ（2000年 - 2006年、テレビ朝日） - 古川一郎太 役
+  - [八丁堀の七人](../Page/八丁堀の七人.md "wikilink")シリーズ（2000年 - 2006年、テレビ朝日） - 古川一郎太 役
   - [花瀬ちなつの殺人スクープ](../Page/花瀬ちなつの殺人スクープ.md "wikilink")（2000年6月30日、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")） - 山根アツオ 役
   - shin-D 2度目の初恋（2000年7月3日 - 7月31日、日本テレビ） - 主演・岸亮介 役
   - [ストレートニュース](../Page/ストレートニュース_\(テレビドラマ\).md "wikilink") 第8話（2000年11月29日、日本テレビ） - 古賀丈二 役
   - [信濃のコロンボ事件ファイル2・4](https://ja.wikipedia.org/wiki/信濃のコロンボ事件ファイル#中村梅雀版 "wikilink")（2002年5月22日・2003年9月3日、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")） - 木下真司 役
-  - [最後の弁護人](https://ja.wikipedia.org/wiki/最後の弁護人 "wikilink") 第3話（2003年1月29日、日本テレビ） - 前島昇 役
+  - [最後の弁護人](../Page/最後の弁護人.md "wikilink") 第3話（2003年1月29日、日本テレビ） - 前島昇 役
   - [きみはペット](https://ja.wikipedia.org/wiki/きみはペット#テレビドラマ "wikilink")（2003年4月16日 - 6月18日、TBS） - 矢田吉夫 役
   - [刑事調査官 玉坂みやこ](../Page/刑事調査官_玉坂みやこ.md "wikilink")（2003年7月11日、フジテレビ） - 加藤悟志 役
   - [共犯者](../Page/共犯者_\(2003年のテレビドラマ\).md "wikilink") 第1・4話（2003年10月15日・11月5日、日本テレビ） - 佐藤隆次 役
   - [怪談新耳袋3](https://ja.wikipedia.org/wiki/怪談新耳袋#御祓いは効かない編 "wikilink")「教えて」（2004年5月、[BS-i](../Page/BS-TBS.md "wikilink")） - 山本信樹 役
-  - [ケータイ刑事 銭形泪2](https://ja.wikipedia.org/wiki/ケータイ刑事_銭形泪 "wikilink") 第11話（2004年6月13日、BS-i） - 猫田仙三 役
-  - [温泉へ行こう](https://ja.wikipedia.org/wiki/温泉へ行こう "wikilink")スペシャル（2004年11月10日、TBS） - 大川敬三 役
+  - [ケータイ刑事 銭形泪2](../Page/ケータイ刑事_銭形泪.md "wikilink") 第11話（2004年6月13日、BS-i） - 猫田仙三 役
+  - [温泉へ行こう](../Page/温泉へ行こう.md "wikilink")スペシャル（2004年11月10日、TBS） - 大川敬三 役
   - [青春の門-筑豊篇-](https://ja.wikipedia.org/wiki/青春の門#2005年版 "wikilink")（2005年3月21日・22日、TBS） - 正次 役
   - [キソウの女](../Page/キソウの女.md "wikilink")2（2005年5月21日、テレビ朝日） - 倉田智明 役
-  - [水戸黄門36](https://ja.wikipedia.org/wiki/水戸黄門_\(パナソニック_ドラマシアター\) "wikilink") 第1話（2006年7月24日、TBS） - 深見十蔵 役
+  - [水戸黄門36](../Page/水戸黄門_\(パナソニック_ドラマシアター\).md "wikilink") 第1話（2006年7月24日、TBS） - 深見十蔵 役
   - [仮面ライダーW](https://ja.wikipedia.org/wiki/仮面ライダーW "wikilink") 第11・12話（2009年11月22日・29日、テレビ朝日） - 黒須サチオ 役
-  - [京都地検の女](https://ja.wikipedia.org/wiki/京都地検の女 "wikilink")7 第5話（2011年8月18日、テレビ朝日） - 久保田強 役
+  - [京都地検の女](../Page/京都地検の女.md "wikilink")7 第5話（2011年8月18日、テレビ朝日） - 久保田強 役
 
 ### 映画・Vシネマ
 
   - [目を閉じて抱いて](https://ja.wikipedia.org/wiki/目を閉じて抱いて "wikilink") - 七臣役
-  - [恋は舞い降りた](https://ja.wikipedia.org/wiki/恋は舞い降りた "wikilink") - マコト役
+  - [恋は舞い降りた](../Page/恋は舞い降りた.md "wikilink") - マコト役
   - [デボラがライバル](https://ja.wikipedia.org/wiki/デボラがライバル "wikilink") - 岡部役
   - 実録 夜桜銀二 (1.2) - 古田研一役
   - [喧嘩高校軍団](https://ja.wikipedia.org/wiki/喧嘩高校軍団 "wikilink") - ※主演 山下良晴役
   - [さよなら夏休み](https://ja.wikipedia.org/wiki/さよなら夏休み "wikilink") - 山田努役
-  - [あしたのジョー](https://ja.wikipedia.org/wiki/あしたのジョー "wikilink") - 新聞記者役
+  - [あしたのジョー](../Page/あしたのジョー.md "wikilink") - 新聞記者役
   - [湘南武闘派高校伝](https://ja.wikipedia.org/wiki/湘南武闘派高校伝 "wikilink") (1.2) - 本田勉役
   - [湘南暴走族 2 熱闘アルバイト大作戦](https://ja.wikipedia.org/wiki/湘南暴走族_2_熱闘アルバイト大作戦 "wikilink") - 石川晃役
   - [新・湘南暴走族 荒くれKnight](https://ja.wikipedia.org/wiki/新・湘南暴走族_荒くれKnight "wikilink") - 天野役

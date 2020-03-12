@@ -1,17 +1,17 @@
 > この記事は[THE DAY IN QUESTION](https://ja.wikipedia.org/wiki/THE_DAY_IN_QUESTION)から翻訳されています。
 
 
-『**THE DAY IN QUESTION**』（**ザ・デイ・イン・クエスチョン**）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")、[BUCK-TICK](https://ja.wikipedia.org/wiki/BUCK-TICK "wikilink")のホール[コンサート](https://ja.wikipedia.org/wiki/コンサート "wikilink")。[2001年](../Page/2001年.md "wikilink")[12月29日](../Page/12月29日.md "wikilink")に初めて行われ、以後毎年[年末](https://ja.wikipedia.org/wiki/年末 "wikilink")に開催される。
+『**THE DAY IN QUESTION**』（**ザ・デイ・イン・クエスチョン**）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")、[BUCK-TICK](../Page/BUCK-TICK.md "wikilink")のホール[コンサート](https://ja.wikipedia.org/wiki/コンサート "wikilink")。[2001年](../Page/2001年.md "wikilink")[12月29日](../Page/12月29日.md "wikilink")に初めて行われ、以後毎年[年末](https://ja.wikipedia.org/wiki/年末 "wikilink")に開催される。
 
 ## 概要
 
-[2001年](../Page/2001年.md "wikilink")、[BUCK-TICK](https://ja.wikipedia.org/wiki/BUCK-TICK "wikilink")はライヴ盤・ベスト盤・[シングルのリリースと](https://ja.wikipedia.org/wiki/シングルCD "wikilink")[韓国でのライヴを行ったが](../Page/大韓民国.md "wikilink")、日本国内のライヴとしては[12月29日](../Page/12月29日.md "wikilink")に[日本武道館](../Page/日本武道館.md "wikilink")にて開催された一夜限りのライヴ『THE DAY IN QUESTION』が唯一のものであった。
+[2001年](../Page/2001年.md "wikilink")、[BUCK-TICK](../Page/BUCK-TICK.md "wikilink")はライヴ盤・ベスト盤・[シングルのリリースと](https://ja.wikipedia.org/wiki/シングルCD "wikilink")[韓国でのライヴを行ったが](../Page/大韓民国.md "wikilink")、日本国内のライヴとしては[12月29日](../Page/12月29日.md "wikilink")に[日本武道館](../Page/日本武道館.md "wikilink")にて開催された一夜限りのライヴ『THE DAY IN QUESTION』が唯一のものであった。
 
 以後同日、同会場で行われるライヴは毎年恒例となる。アルバムのリリースに伴うライヴツアーではないため、自由な選曲によるライヴが行われる。翌[2002年](../Page/2002年.md "wikilink")以降は、事前にファンクラブ会員を対象に、演奏してほしい曲のリクエストを受け付け、その結果が選曲に反映される事がある。
 
 当初は日本武道館で12月29日一夜限りの公演だったが、[2003年](../Page/2003年.md "wikilink")には[12月28日](../Page/12月28日.md "wikilink")との二夜連続で行われたほか、主要都市を3ヶ所程度回る場合もある。また、[2007年](../Page/2007年.md "wikilink")、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")、2012年、2014年、2016年、2018年はアルバムツアーの最終公演という位置づけになった。
 
-長らく映像作品は発売されていなかったが、[2011年](../Page/2011年.md "wikilink")の公演が初めて、[DVD](../Page/DVD.md "wikilink")・[Blu-ray作品として発売されることとなった](../Page/Blu-ray_Disc.md "wikilink")。それまで商品として発売されたのは[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")のシングル「[ROMANCE](https://ja.wikipedia.org/wiki/ROMANCE_\(BUCK-TICKの曲\) "wikilink")」の初回特典DVDに収録されている「[LOVE ME](../Page/悪の華_\(BUCK-TICKのアルバム\).md "wikilink")」、[2012年](../Page/2012年.md "wikilink")に発売されたボックスセット『[CATALOGUE ARIOLA 00-10](https://ja.wikipedia.org/wiki/CATALOGUE_ARIOLA_00-10 "wikilink")』の初回盤のみ特典映像として収録された、2001年から[2009年](../Page/2009年.md "wikilink")の公演の中から選ばれた18曲。テレビではCSチャンネル[Viewsic](https://ja.wikipedia.org/wiki/Viewsic "wikilink")（現[MUSIC ON\! TV](https://ja.wikipedia.org/wiki/MUSIC_ON!_TV "wikilink")）にて2002年の公演をメンバーの[今井寿](../Page/今井寿.md "wikilink")のインタビューを交え90分に編集したもの、2003年の2日目の公演の生中継、2005年に放送された特番内にて2001年から[2004年](../Page/2004年.md "wikilink")までの各公演の一部が、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")と[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")の日本武道館公演は編集版が[パーフェクト・チョイス](https://ja.wikipedia.org/wiki/パーフェクト・チョイス "wikilink")、[スカチャン](https://ja.wikipedia.org/wiki/スカチャン "wikilink")で[ペイ・パー・ビュー](https://ja.wikipedia.org/wiki/ペイ・パー・ビュー "wikilink")放送された。2017年、2019年の武道館公演はWOWOWで生中継されている。
+長らく映像作品は発売されていなかったが、[2011年](../Page/2011年.md "wikilink")の公演が初めて、[DVD](../Page/DVD.md "wikilink")・[Blu-ray作品として発売されることとなった](../Page/Blu-ray_Disc.md "wikilink")。それまで商品として発売されたのは[2005年](../Page/2005年.md "wikilink")のシングル「[ROMANCE](https://ja.wikipedia.org/wiki/ROMANCE_\(BUCK-TICKの曲\) "wikilink")」の初回特典DVDに収録されている「[LOVE ME](../Page/悪の華_\(BUCK-TICKのアルバム\).md "wikilink")」、[2012年](../Page/2012年.md "wikilink")に発売されたボックスセット『[CATALOGUE ARIOLA 00-10](https://ja.wikipedia.org/wiki/CATALOGUE_ARIOLA_00-10 "wikilink")』の初回盤のみ特典映像として収録された、2001年から[2009年](../Page/2009年.md "wikilink")の公演の中から選ばれた18曲。テレビではCSチャンネル[Viewsic](https://ja.wikipedia.org/wiki/Viewsic "wikilink")（現[MUSIC ON\! TV](../Page/MUSIC_ON!_TV.md "wikilink")）にて2002年の公演をメンバーの[今井寿](../Page/今井寿.md "wikilink")のインタビューを交え90分に編集したもの、2003年の2日目の公演の生中継、2005年に放送された特番内にて2001年から[2004年](../Page/2004年.md "wikilink")までの各公演の一部が、[2006年](../Page/2006年.md "wikilink")と[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")の日本武道館公演は編集版が[パーフェクト・チョイス](../Page/パーフェクト・チョイス.md "wikilink")、[スカチャン](../Page/スカチャン.md "wikilink")で[ペイ・パー・ビュー](../Page/ペイ・パー・ビュー.md "wikilink")放送された。2017年、2019年の武道館公演はWOWOWで生中継されている。
 
 ## 曲目
 
@@ -103,7 +103,7 @@
 
 </div>
 
-後日、[Viewsic](https://ja.wikipedia.org/wiki/Viewsic "wikilink")（現[MUSIC ON\! TV](https://ja.wikipedia.org/wiki/MUSIC_ON!_TV "wikilink")）にて[今井寿](../Page/今井寿.md "wikilink")の[インタビュー](../Page/インタビュー.md "wikilink")とともに放送された。インタビュアーは[ちわきまゆみ](https://ja.wikipedia.org/wiki/ちわきまゆみ "wikilink")。
+後日、[Viewsic](https://ja.wikipedia.org/wiki/Viewsic "wikilink")（現[MUSIC ON\! TV](../Page/MUSIC_ON!_TV.md "wikilink")）にて[今井寿](../Page/今井寿.md "wikilink")の[インタビュー](../Page/インタビュー.md "wikilink")とともに放送された。インタビュアーは[ちわきまゆみ](../Page/ちわきまゆみ.md "wikilink")。
 
 ### 2003年
 
@@ -224,7 +224,7 @@ Viewsic（現MUSIC ON\! TV）にて[生中継](https://ja.wikipedia.org/wiki/生
 
 <div class="NavHead" style="text-align:left;">
 
-[12月26日](../Page/12月26日.md "wikilink") [名古屋市民会館](https://ja.wikipedia.org/wiki/名古屋市民会館 "wikilink")大ホール
+[12月26日](../Page/12月26日.md "wikilink") [名古屋市民会館](../Page/名古屋市民会館.md "wikilink")大ホール
 
 </div>
 
@@ -342,7 +342,7 @@ Viewsic（現MUSIC ON\! TV）にて[生中継](https://ja.wikipedia.org/wiki/生
 
 </div>
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月21日](../Page/12月21日.md "wikilink")にリリースされた[トリビュートアルバム](https://ja.wikipedia.org/wiki/トリビュートアルバム "wikilink")『[PARADE〜RESPECTIVE TRACKS OF BUCK-TICK〜](../Page/PARADE〜RESPECTIVE_TRACKS_OF_BUCK-TICK〜.md "wikilink")』にてカバーされた曲を全て演奏。
+[2005年](../Page/2005年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")にリリースされた[トリビュートアルバム](https://ja.wikipedia.org/wiki/トリビュートアルバム "wikilink")『[PARADE〜RESPECTIVE TRACKS OF BUCK-TICK〜](../Page/PARADE〜RESPECTIVE_TRACKS_OF_BUCK-TICK〜.md "wikilink")』にてカバーされた曲を全て演奏。
 
 ### 2006年
 
@@ -350,7 +350,7 @@ Viewsic（現MUSIC ON\! TV）にて[生中継](https://ja.wikipedia.org/wiki/生
 
 <div class="NavHead" style="text-align:left;">
 
-[12月16日](../Page/12月16日.md "wikilink") [仙台サンプラザ](https://ja.wikipedia.org/wiki/仙台サンプラザ "wikilink")ホール、[12月20日](../Page/12月20日.md "wikilink")[神戸国際会館](https://ja.wikipedia.org/wiki/神戸国際会館 "wikilink")こくさいホール
+[12月16日](../Page/12月16日.md "wikilink") [仙台サンプラザ](../Page/仙台サンプラザ.md "wikilink")ホール、[12月20日](../Page/12月20日.md "wikilink")[神戸国際会館](../Page/神戸国際会館.md "wikilink")こくさいホール
 
 </div>
 
@@ -500,7 +500,7 @@ Viewsic（現MUSIC ON\! TV）にて[生中継](https://ja.wikipedia.org/wiki/生
 
 <div class="NavHead" style="text-align:left;">
 
-[12月23日](../Page/12月23日.md "wikilink") [アクトシティ浜松](https://ja.wikipedia.org/wiki/アクトシティ浜松 "wikilink")
+[12月23日](../Page/12月23日.md "wikilink") [アクトシティ浜松](../Page/アクトシティ浜松.md "wikilink")
 
 </div>
 
@@ -625,10 +625,10 @@ Viewsic（現MUSIC ON\! TV）にて[生中継](https://ja.wikipedia.org/wiki/生
 7.  JUPITER （6th 『[殺シノ調べ This is NOT Greatest Hits](../Page/殺シノ調べ_This_is_NOT_Greatest_Hits.md "wikilink")』）
 8.  die （7th 『[darker than darkness -style 93-](https://ja.wikipedia.org/wiki/darker_than_darkness_-style_93- "wikilink")』）
 9.  love letter （8th 『[Six/Nine](https://ja.wikipedia.org/wiki/Six/Nine "wikilink")』）
-10. idol （9th 『[COSMOS](https://ja.wikipedia.org/wiki/COSMOS_\(アルバム\) "wikilink")』）
-11. MY FUCKIN' VALENTINE （10th 『[SEXY STREAM LINER](https://ja.wikipedia.org/wiki/SEXY_STREAM_LINER "wikilink")』）
-12. Baby, I want you. （11th 『[ONE LIFE,ONE DEATH](https://ja.wikipedia.org/wiki/ONE_LIFE,ONE_DEATH "wikilink")』）
-13. 極東より愛を込めて （12th 『[極東 I LOVE YOU](https://ja.wikipedia.org/wiki/極東_I_LOVE_YOU "wikilink")』）
+10. idol （9th 『[COSMOS](../Page/COSMOS_\(アルバム\).md "wikilink")』）
+11. MY FUCKIN' VALENTINE （10th 『[SEXY STREAM LINER](../Page/SEXY_STREAM_LINER.md "wikilink")』）
+12. Baby, I want you. （11th 『[ONE LIFE,ONE DEATH](../Page/ONE_LIFE,ONE_DEATH.md "wikilink")』）
+13. 極東より愛を込めて （12th 『[極東 I LOVE YOU](../Page/極東_I_LOVE_YOU.md "wikilink")』）
 14. GIRL （13th 『[Mona Lisa OVERDRIVE](../Page/Mona_Lisa_OVERDRIVE.md "wikilink")』）
 15. ROMANCE （14th 『[十三階は月光](../Page/十三階は月光.md "wikilink")』）
 16. Alice in Wonder Underground （15th 『[天使のリボルバー](../Page/天使のリボルバー.md "wikilink")』）
@@ -643,7 +643,7 @@ Viewsic（現MUSIC ON\! TV）にて[生中継](https://ja.wikipedia.org/wiki/生
 
 <div class="NavHead" style="text-align:left;">
 
-[12月18日](../Page/12月18日.md "wikilink") [Zepp Sendai](https://ja.wikipedia.org/wiki/Zepp "wikilink")
+[12月18日](../Page/12月18日.md "wikilink") [Zepp Sendai](../Page/Zepp.md "wikilink")
 
 </div>
 
@@ -790,7 +790,7 @@ Viewsic（現MUSIC ON\! TV）にて[生中継](https://ja.wikipedia.org/wiki/生
 アンコール 1
 
 1.  [エリーゼのために](../Page/エリーゼのために.md "wikilink")
-2.  [地下室のメロディー](https://ja.wikipedia.org/wiki/地下室のメロディー "wikilink")
+2.  [地下室のメロディー](../Page/地下室のメロディー.md "wikilink")
 3.  [太陽ニ殺サレタ](https://ja.wikipedia.org/wiki/太陽ニ殺サレタ "wikilink")
 
 アンコール 2
@@ -833,7 +833,7 @@ Viewsic（現MUSIC ON\! TV）にて[生中継](https://ja.wikipedia.org/wiki/生
 
 <div class="NavHead" style="text-align:left;">
 
-[12月23日](../Page/12月23日.md "wikilink") [郡山市民文化センター](https://ja.wikipedia.org/wiki/郡山市民文化センター "wikilink") 大ホール
+[12月23日](../Page/12月23日.md "wikilink") [郡山市民文化センター](../Page/郡山市民文化センター.md "wikilink") 大ホール
 
 </div>
 
@@ -1271,7 +1271,7 @@ Viewsic（現MUSIC ON\! TV）にて[生中継](https://ja.wikipedia.org/wiki/生
 
 <div class="NavHead" style="text-align:left;">
 
-[11月12日](../Page/11月12日.md "wikilink") 　京都：[ロームシアター京都](https://ja.wikipedia.org/wiki/ロームシアター京都 "wikilink")(京都会館) メインホール
+[11月12日](../Page/11月12日.md "wikilink") 　京都：[ロームシアター京都](../Page/ロームシアター京都.md "wikilink")(京都会館) メインホール
 
 </div>
 
@@ -2081,7 +2081,7 @@ Viewsic（現MUSIC ON\! TV）にて[生中継](https://ja.wikipedia.org/wiki/生
 
 ## 関連項目
 
-  - [BUCK-TICK](https://ja.wikipedia.org/wiki/BUCK-TICK "wikilink")
+  - [BUCK-TICK](../Page/BUCK-TICK.md "wikilink")
   - [日本武道館](../Page/日本武道館.md "wikilink")
 
 [Category:BUCK-TICK](https://ja.wikipedia.org/wiki/Category:BUCK-TICK "wikilink") [Category:コンサート](https://ja.wikipedia.org/wiki/Category:コンサート "wikilink") [Category:コンサート・ツアーの一覧](https://ja.wikipedia.org/wiki/Category:コンサート・ツアーの一覧 "wikilink")

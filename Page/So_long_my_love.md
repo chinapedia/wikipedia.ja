@@ -9,7 +9,7 @@
 
 ## 収録曲
 
-1.  **FUN MORE TIME\! オープニングテーマ（[インストゥルメンタル](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")）**
+1.  **FUN MORE TIME\! オープニングテーマ（[インストゥルメンタル](../Page/器楽曲.md "wikilink")）**
       -
         作曲・編曲：小田和正
 2.  **so long my love**

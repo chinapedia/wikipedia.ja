@@ -1,7 +1,7 @@
 > この記事は[SOFT BALLET 1989-1991 the BEST](https://ja.wikipedia.org/wiki/SOFT_BALLET_1989-1991_the_BEST)から翻訳されています。
 
 
-『**SOFT BALLET 1989-1991 the BEST**』は、[SOFT BALLETの](../Page/SOFT_BALLET.md "wikilink")[アルファレコード](https://ja.wikipedia.org/wiki/アルファレコード "wikilink")時代のベスト盤。ビクター時代のベスト盤『**SOFT BALLET 1992-1995 the BEST + 8 OTHER MIXES**』と同日リリースされた。
+『**SOFT BALLET 1989-1991 the BEST**』は、[SOFT BALLETの](../Page/SOFT_BALLET.md "wikilink")[アルファレコード](../Page/アルファレコード.md "wikilink")時代のベスト盤。ビクター時代のベスト盤『**SOFT BALLET 1992-1995 the BEST + 8 OTHER MIXES**』と同日リリースされた。
 
 ## 概要
 
@@ -9,12 +9,12 @@
 
 ## 収録曲
 
-1.  BODY TO BODY ([森岡賢](https://ja.wikipedia.org/wiki/森岡賢 "wikilink"))
+1.  BODY TO BODY ([森岡賢](../Page/森岡賢.md "wikilink"))
 2.  WITH YOU (森岡賢)
 3.  BORDER DAYS (森岡賢)
 4.  KO・KA・GE・NI (森岡賢)
 5.  EARTH BORN (森岡賢)
-6.  NO PLEASURE ([藤井麻輝](https://ja.wikipedia.org/wiki/藤井麻輝 "wikilink"))
+6.  NO PLEASURE ([藤井麻輝](../Page/藤井麻輝.md "wikilink"))
 7.  PRIVATE PRIDE (森岡賢)
 8.  ESCAPE (藤井麻輝)
 9.  TWIST OF LOVE (Original Version) (森岡賢)

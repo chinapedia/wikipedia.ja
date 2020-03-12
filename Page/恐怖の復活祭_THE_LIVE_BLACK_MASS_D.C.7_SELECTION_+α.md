@@ -1,13 +1,13 @@
 > この記事は[ THE LIVE BLACK MASS D.C.7 SELECTION +](https://ja.wikipedia.org/wiki/_THE_LIVE_BLACK_MASS_D.C.7_SELECTION_+)から翻訳されています。
 
 
-『**恐怖の復活祭 THE LIVE BLACK MASS D.C.7 SELECTION +α**』（きょうふのふっかつさい ザ ライブ ブラック マス ディーシーセブン セレクション プラスアルファ）は、[聖飢魔II](../Page/聖飢魔II.md "wikilink")の第二十三教典で[D.C.](../Page/魔暦.md "wikilink")8年（西暦[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")）[5月24日](../Page/5月24日.md "wikilink")に発布されたミサ教典（ライブ盤）。
+『**恐怖の復活祭 THE LIVE BLACK MASS D.C.7 SELECTION +α**』（きょうふのふっかつさい ザ ライブ ブラック マス ディーシーセブン セレクション プラスアルファ）は、[聖飢魔II](../Page/聖飢魔II.md "wikilink")の第二十三教典で[D.C.](../Page/魔暦.md "wikilink")8年（西暦[2006年](../Page/2006年.md "wikilink")）[5月24日](../Page/5月24日.md "wikilink")に発布されたミサ教典（ライブ盤）。
 
 ## 概要
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に期間限定で再集結した聖飢魔IIは**聖飢魔II 地球デビュー20周年記念 THE LIMITED BLACK MASS TOUR D.C.7 恐怖の復活祭**と**聖飢魔II 地球デビュー20周年記念 THE SPECIAL BLACK MASS オールスタンディング処刑（一部を除く）**の2種類のミサツアーを行ったが前者の模様を収録したのが今作である（後者を収録したのは『[オールスタンディング処刑 THE LIVE BLACK MASS D.C.7](https://ja.wikipedia.org/wiki/オールスタンディング処刑_THE_LIVE_BLACK_MASS_D.C.7 "wikilink")』）。
+[2005年](../Page/2005年.md "wikilink")に期間限定で再集結した聖飢魔IIは**聖飢魔II 地球デビュー20周年記念 THE LIMITED BLACK MASS TOUR D.C.7 恐怖の復活祭**と**聖飢魔II 地球デビュー20周年記念 THE SPECIAL BLACK MASS オールスタンディング処刑（一部を除く）**の2種類のミサツアーを行ったが前者の模様を収録したのが今作である（後者を収録したのは『[オールスタンディング処刑 THE LIVE BLACK MASS D.C.7](../Page/オールスタンディング処刑_THE_LIVE_BLACK_MASS_D.C.7.md "wikilink")』）。
 
-3枚組のうち、DISC 01と02は主に最終日の[東京国際フォーラム](https://ja.wikipedia.org/wiki/東京国際フォーラム "wikilink")公演の模様を、DISC 03は2005年にインターネット経由で配信された新曲5曲と未発表曲1曲（「MOTHER EARTH」）を収録している。配信時には各曲の作者は伏せられていた。
+3枚組のうち、DISC 01と02は主に最終日の[東京国際フォーラム](../Page/東京国際フォーラム.md "wikilink")公演の模様を、DISC 03は2005年にインターネット経由で配信された新曲5曲と未発表曲1曲（「MOTHER EARTH」）を収録している。配信時には各曲の作者は伏せられていた。
 
 帯
 **地球デビュー20周年記念 期間限定再集結 恐怖の復活祭+α**
@@ -72,11 +72,11 @@ DISC 01&02
 
   - [C.P. ACE SHIMIZU](../Page/ACE_\(ミュージシャン\).md "wikilink") - [Guitars](../Page/ギター.md "wikilink"), [Chorus](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
   - [H.H. RAIDEN YUZAWA](../Page/雷電湯澤.md "wikilink") - [Drums](https://ja.wikipedia.org/wiki/ドラムス "wikilink"), Chorus
-  - [Dr. XENON ISHIKAWA](../Page/石川俊介.md "wikilink") - [Bass](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink"), Chorus
+  - [Dr. XENON ISHIKAWA](../Page/石川俊介.md "wikilink") - [Bass](../Page/ベース_\(弦楽器\).md "wikilink"), Chorus
   - [G.S. LUKE TAKAMURA III](../Page/ルーク篁.md "wikilink") - Guitars, Chorus
   - [H.E. DEMON KOGURE](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink") - [Vocals](https://ja.wikipedia.org/wiki/ボーカル "wikilink"), Iroiro
   - [E.M. JAIL O'HASHI](../Page/大橋隆志.md "wikilink") - Guitars, Chorus
   - [KAIJIN MATSUZAKI SAMA](../Page/松崎雄一.md "wikilink") - [Keyboards](../Page/キーボード_\(楽器\).md "wikilink"), Chorus
-  - [E.C.J. ZOD HOSHIJIMA](https://ja.wikipedia.org/wiki/ゾッド星島 "wikilink") - Associated Bass, Chorus
+  - [E.C.J. ZOD HOSHIJIMA](../Page/ゾッド星島.md "wikilink") - Associated Bass, Chorus
 
 [Category:2006年のライブ・アルバム](https://ja.wikipedia.org/wiki/Category:2006年のライブ・アルバム "wikilink") [Category:聖飢魔IIのライブ・アルバム](https://ja.wikipedia.org/wiki/Category:聖飢魔IIのライブ・アルバム "wikilink") [Category:BMG_JAPANのアルバム](https://ja.wikipedia.org/wiki/Category:BMG_JAPANのアルバム "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")

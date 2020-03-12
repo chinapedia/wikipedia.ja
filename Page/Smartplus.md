@@ -1,19 +1,19 @@
 > この記事は[Smartplus](https://ja.wikipedia.org/wiki/Smartplus)から翻訳されています。
 
 
-**Smartplus**（スマートプラス）は、[三菱UFJニコス](https://ja.wikipedia.org/wiki/三菱UFJニコス "wikilink")が展開していた[非接触型決済](https://ja.wikipedia.org/wiki/非接触型決済 "wikilink")サービス。
+**Smartplus**（スマートプラス）は、[三菱UFJニコス](../Page/三菱UFJニコス.md "wikilink")が展開していた[非接触型決済](../Page/非接触型決済.md "wikilink")サービス。
 
 ## 概要
 
 日本信販（現在の三菱UFJニコス）が開発し、[2004年](../Page/2004年.md "wikilink")12月にサービスを開始した。[POSレジとの連携を当初から考慮されている点が特徴である](../Page/販売時点情報管理.md "wikilink")（店員は受け取り金額を1度だけ入力すれば済む）。
 
-また、[Visa](../Page/Visa.md "wikilink")が日本で提供していた「[Visa Touch](https://ja.wikipedia.org/wiki/Visa_Touch "wikilink")」は、Smartplusの技術を採用している\[1\]。
+また、[Visa](../Page/Visa.md "wikilink")が日本で提供していた「[Visa Touch](../Page/Visa_Touch.md "wikilink")」は、Smartplusの技術を採用している\[1\]。
 
 2008年9月末時点でのVisa Touch/Smartplus会員数は69万人、対応端末は4万9000台\[2\]。
 
 ## 利用方法
 
-Smartplusは、Smartplusの機能を搭載した専用の[カード](../Page/カード.md "wikilink")である「カード型」又は[Smartplusに対応している携帯電話](https://ja.wikipedia.org/wiki/#Smartplusに対応している携帯電話 "wikilink")（[おサイフケータイ](https://ja.wikipedia.org/wiki/おサイフケータイ "wikilink")）を用いる「モバイル型」のいずれかで利用する事が出来る。
+Smartplusは、Smartplusの機能を搭載した専用の[カード](../Page/カード.md "wikilink")である「カード型」又は[Smartplusに対応している携帯電話](https://ja.wikipedia.org/wiki/#Smartplusに対応している携帯電話 "wikilink")（[おサイフケータイ](../Page/おサイフケータイ.md "wikilink")）を用いる「モバイル型」のいずれかで利用する事が出来る。
 
 尚、モバイル型は、セキュリティ重視モードに設定している場合、その都度設定しておいたパスコードを入力しなければ利用する事が出来ないなどセキュリティも確保している。
 
@@ -35,9 +35,9 @@ Smartplusは、Smartplusの機能を搭載した専用の[カード](../Page/カ
 
   - [2004年](../Page/2004年.md "wikilink")
       - 12月 サービス開始。当初はATMでのキャッシング利用に限定されたものであった。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
       - 8月 ショッピングでの利用サービスを開始。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")
+  - [2006年](../Page/2006年.md "wikilink")
       - 9月 Smartplusのシステムを用いたVisa touchがサービスを開始。
   - [2007年](../Page/2007年.md "wikilink")
       - [12月18日](../Page/12月18日.md "wikilink") [ユニー](../Page/ユニー.md "wikilink")・[アピタ](https://ja.wikipedia.org/wiki/アピタ "wikilink")の愛知県内19店舗、静岡県（アピタ藤枝店)、神奈川県（ユニー大口店）」、石川県（アピタ金沢店）で利用可能に。
@@ -74,7 +74,7 @@ Smartplusは、Smartplusの機能を搭載した専用の[カード](../Page/カ
   - [ENEOSセルフサービスステーションの一部](https://ja.wikipedia.org/wiki/JX日鉱日石エネルギー "wikilink")
   - [エクソンモービル](../Page/エクソンモービル.md "wikilink")エクスプレスSSの一部
   - [昭和シェル石油](../Page/昭和シェル石油.md "wikilink")系列セルフサービスステーションの一部
-  - [東日本高速道路](https://ja.wikipedia.org/wiki/東日本高速道路 "wikilink")、[中日本高速道路](https://ja.wikipedia.org/wiki/中日本高速道路 "wikilink")、[西日本高速道路](https://ja.wikipedia.org/wiki/西日本高速道路 "wikilink")の[サービスエリア](../Page/サービスエリア.md "wikilink")、[パーキングエリア](../Page/パーキングエリア.md "wikilink")の一部
+  - [東日本高速道路](../Page/東日本高速道路.md "wikilink")、[中日本高速道路](../Page/中日本高速道路.md "wikilink")、[西日本高速道路](../Page/西日本高速道路.md "wikilink")の[サービスエリア](../Page/サービスエリア.md "wikilink")、[パーキングエリア](../Page/パーキングエリア.md "wikilink")の一部
 
 ### 旅行・娯楽
 
@@ -85,8 +85,8 @@ Smartplusは、Smartplusの機能を搭載した専用の[カード](../Page/カ
 三菱UFJニコス（グループ会社を含む）の次のクレジットカードが、Smartplusに対応している。
 
   - [MUFGカード](../Page/MUFGカード.md "wikilink") （[MasterCard](https://ja.wikipedia.org/wiki/MasterCard "wikilink")に限る）
-  - [UFJカード](https://ja.wikipedia.org/wiki/UFJカード "wikilink") （MasterCardに限る\[6\]） - 三菱UFJニコスは、プロパーカード（一部を除く）の新規募集を終了している\[7\]。
-  - [NICOS](https://ja.wikipedia.org/wiki/NICOS "wikilink")カード （MasterCard又は国内専用に限る） - 三菱UFJニコスは、プロパーカード（一部を除く）の新規募集を終了している\[8\]。
+  - [UFJカード](../Page/UFJカード.md "wikilink") （MasterCardに限る\[6\]） - 三菱UFJニコスは、プロパーカード（一部を除く）の新規募集を終了している\[7\]。
+  - [NICOS](../Page/NICOS.md "wikilink")カード （MasterCard又は国内専用に限る） - 三菱UFJニコスは、プロパーカード（一部を除く）の新規募集を終了している\[8\]。
 
 ## モバイル型対応携帯電話機種
 
@@ -98,15 +98,15 @@ Smartplusは、Smartplusの機能を搭載した専用の[カード](../Page/カ
 
   - [D905i](../Page/D905i.md "wikilink")。[F905i](../Page/F905i.md "wikilink")、[N905i](../Page/N905i.md "wikilink")、[N905iBiz](https://ja.wikipedia.org/wiki/N905iBiz "wikilink")、[N905iμ](../Page/N905iμ.md "wikilink")、[P905i](../Page/P905i.md "wikilink")、[SH905i](../Page/SH905i.md "wikilink")、[SO905i](../Page/SO905i.md "wikilink")、[SH905iTV](../Page/SH905iTV.md "wikilink")
   - [SH904i](../Page/SH904i.md "wikilink")、[F904i](../Page/F904i.md "wikilink")、[P904i](../Page/P904i.md "wikilink")、[D904i](../Page/D904i.md "wikilink")、[N904i](../Page/N904i.md "wikilink")
-  - [P903iTV](https://ja.wikipedia.org/wiki/P903iTV "wikilink")、[D903iTV](https://ja.wikipedia.org/wiki/D903iTV "wikilink")、[SH903iTV](https://ja.wikipedia.org/wiki/SH903iTV "wikilink")、[SO903iTV](../Page/SO903iTV.md "wikilink")
-  - [P903iX HIGH-SPEED](https://ja.wikipedia.org/wiki/P903iX_HIGH-SPEED "wikilink")、[F903iX HIGH-SPEED](https://ja.wikipedia.org/wiki/F903iX_HIGH-SPEED "wikilink")
-  - [SO903i](https://ja.wikipedia.org/wiki/SO903i "wikilink")、[SH903i](https://ja.wikipedia.org/wiki/SH903i "wikilink")、[F903i](https://ja.wikipedia.org/wiki/F903i "wikilink")、[P903i](https://ja.wikipedia.org/wiki/P903i "wikilink")、[D903i](https://ja.wikipedia.org/wiki/D903i "wikilink")、[N903i](https://ja.wikipedia.org/wiki/N903i "wikilink")
-  - [N902iX HIGH-SPEED](https://ja.wikipedia.org/wiki/N902iX_HIGH-SPEED "wikilink")
-  - [D902iS](https://ja.wikipedia.org/wiki/D902iS "wikilink")、[F902iS](https://ja.wikipedia.org/wiki/F902iS "wikilink")、[N902iS](https://ja.wikipedia.org/wiki/N902iS "wikilink")、[P902iS](https://ja.wikipedia.org/wiki/P902iS "wikilink")、[SH902iS](https://ja.wikipedia.org/wiki/SH902iS "wikilink")
-  - [SO902i](../Page/SO902i.md "wikilink")、[F902i](https://ja.wikipedia.org/wiki/F902i "wikilink")、[N902i](https://ja.wikipedia.org/wiki/N902i "wikilink")、[P902i](https://ja.wikipedia.org/wiki/P902i "wikilink")、[SH902i](https://ja.wikipedia.org/wiki/SH902i "wikilink")、[D902i](https://ja.wikipedia.org/wiki/D902i "wikilink")、[SH902iSL](https://ja.wikipedia.org/wiki/SH902iSL "wikilink")、[SO902iWP+](https://ja.wikipedia.org/wiki/SO902iWP+ "wikilink")、[N902iL](https://ja.wikipedia.org/wiki/N902iL "wikilink")
-  - [D901iS](../Page/D901iS.md "wikilink")、[F901iS](https://ja.wikipedia.org/wiki/F901iS "wikilink")、[N901iS](https://ja.wikipedia.org/wiki/N901iS "wikilink")、[P901iS](https://ja.wikipedia.org/wiki/P901iS "wikilink")、[SH901iS](https://ja.wikipedia.org/wiki/SH901iS "wikilink")
-  - [F901iC](https://ja.wikipedia.org/wiki/F901iC "wikilink")、[N901iC](https://ja.wikipedia.org/wiki/N901iC "wikilink")、[SH901iC](https://ja.wikipedia.org/wiki/SH901iC "wikilink")、[P901iTV](https://ja.wikipedia.org/wiki/P901iTV "wikilink")
-  - [F900iC](https://ja.wikipedia.org/wiki/F900iC "wikilink")
+  - [P903iTV](../Page/P903iTV.md "wikilink")、[D903iTV](../Page/D903iTV.md "wikilink")、[SH903iTV](../Page/SH903iTV.md "wikilink")、[SO903iTV](../Page/SO903iTV.md "wikilink")
+  - [P903iX HIGH-SPEED](../Page/P903iX_HIGH-SPEED.md "wikilink")、[F903iX HIGH-SPEED](../Page/F903iX_HIGH-SPEED.md "wikilink")
+  - [SO903i](../Page/SO903i.md "wikilink")、[SH903i](../Page/SH903i.md "wikilink")、[F903i](../Page/F903i.md "wikilink")、[P903i](../Page/P903i.md "wikilink")、[D903i](../Page/D903i.md "wikilink")、[N903i](../Page/N903i.md "wikilink")
+  - [N902iX HIGH-SPEED](../Page/N902iX_HIGH-SPEED.md "wikilink")
+  - [D902iS](../Page/D902iS.md "wikilink")、[F902iS](../Page/F902iS.md "wikilink")、[N902iS](../Page/N902iS.md "wikilink")、[P902iS](../Page/P902iS.md "wikilink")、[SH902iS](../Page/SH902iS.md "wikilink")
+  - [SO902i](../Page/SO902i.md "wikilink")、[F902i](../Page/F902i.md "wikilink")、[N902i](../Page/N902i.md "wikilink")、[P902i](../Page/P902i.md "wikilink")、[SH902i](../Page/SH902i.md "wikilink")、[D902i](../Page/D902i.md "wikilink")、[SH902iSL](https://ja.wikipedia.org/wiki/SH902iSL "wikilink")、[SO902iWP+](../Page/SO902iWP+.md "wikilink")、[N902iL](../Page/N902iL.md "wikilink")
+  - [D901iS](../Page/D901iS.md "wikilink")、[F901iS](../Page/F901iS.md "wikilink")、[N901iS](../Page/N901iS.md "wikilink")、[P901iS](../Page/P901iS.md "wikilink")、[SH901iS](../Page/SH901iS.md "wikilink")
+  - [F901iC](../Page/F901iC.md "wikilink")、[N901iC](../Page/N901iC.md "wikilink")、[SH901iC](../Page/SH901iC.md "wikilink")、[P901iTV](../Page/P901iTV.md "wikilink")
+  - [F900iC](../Page/F900iC.md "wikilink")
 
 ##### 7シリーズ
 
@@ -122,13 +122,13 @@ Smartplusは、Smartplusの機能を搭載した専用の[カード](../Page/カ
 
 ### au
 
-  - [WIN](https://ja.wikipedia.org/wiki/CDMA_1X_WIN "wikilink")
-      - [W32S](https://ja.wikipedia.org/wiki/W32S "wikilink")、[W32H](https://ja.wikipedia.org/wiki/W32H "wikilink")
-      - [W41S](https://ja.wikipedia.org/wiki/W41S "wikilink")、[W41H](https://ja.wikipedia.org/wiki/W41H "wikilink")、[W41CA](https://ja.wikipedia.org/wiki/W41CA "wikilink")
-      - [W42H](https://ja.wikipedia.org/wiki/W42H "wikilink")
-      - [W43H](https://ja.wikipedia.org/wiki/W43H "wikilink")、[W43CA](https://ja.wikipedia.org/wiki/W43CA "wikilink")、[W43S](https://ja.wikipedia.org/wiki/W43S "wikilink")、[W43K](https://ja.wikipedia.org/wiki/W43K "wikilink")、W43H II
-      - [W44S](https://ja.wikipedia.org/wiki/W44S "wikilink")
-      - [W47T](https://ja.wikipedia.org/wiki/W47T "wikilink")
+  - [WIN](../Page/CDMA_1X_WIN.md "wikilink")
+      - [W32S](../Page/W32S.md "wikilink")、[W32H](../Page/W32H.md "wikilink")
+      - [W41S](../Page/W41S.md "wikilink")、[W41H](../Page/W41H.md "wikilink")、[W41CA](../Page/W41CA.md "wikilink")
+      - [W42H](../Page/W42H.md "wikilink")
+      - [W43H](../Page/W43H.md "wikilink")、[W43CA](../Page/W43CA.md "wikilink")、[W43S](../Page/W43S.md "wikilink")、[W43K](../Page/W43K.md "wikilink")、W43H II
+      - [W44S](../Page/W44S.md "wikilink")
+      - [W47T](../Page/W47T.md "wikilink")
       - [W51S](../Page/W51S.md "wikilink")、[W51SA](../Page/W51SA.md "wikilink")、[W51K](../Page/W51K.md "wikilink")、[W51H](../Page/W51H.md "wikilink")、[W51CA](../Page/W51CA.md "wikilink")、[W51P](../Page/W51P.md "wikilink")
       - [W52K](https://ja.wikipedia.org/wiki/W52K "wikilink")(MEDIA SKIN)、[W52T](../Page/W52T.md "wikilink")、[W52CA](../Page/W52CA.md "wikilink")、[W52H](../Page/W52H.md "wikilink")、[W52P](../Page/W52P.md "wikilink")、[W52S](../Page/W52S.md "wikilink")、[W52SA](../Page/W52SA.md "wikilink")、[W52SH](../Page/W52SH.md "wikilink")
       - [W53CA](../Page/W53CA.md "wikilink")、[W53SA](../Page/W53SA.md "wikilink")、[W53T](../Page/W53T.md "wikilink")
@@ -141,11 +141,11 @@ Smartplusは、Smartplusの機能を搭載した専用の[カード](../Page/カ
       - [804SH](../Page/Vodafone_804SH.md "wikilink")
       - [904T](../Page/Vodafone_904T.md "wikilink")
       - [904SH](../Page/Vodafone_904SH.md "wikilink")、[905SH](../Page/Vodafone_905SH.md "wikilink")
-  - [SoftBank 3G](https://ja.wikipedia.org/wiki/SoftBank_3G "wikilink")
+  - [SoftBank 3G](../Page/SoftBank_3G.md "wikilink")
       - [814T](../Page/SoftBank_814T.md "wikilink")、[815T](https://ja.wikipedia.org/wiki/SoftBank_815T "wikilink")
       - [904T](https://ja.wikipedia.org/wiki/SoftBank_904T "wikilink")、[911T](https://ja.wikipedia.org/wiki/SoftBank_911T "wikilink")、[912T](../Page/SoftBank_912T.md "wikilink")
-      - [810SH](https://ja.wikipedia.org/wiki/SoftBank_810SH "wikilink")、[811SH](https://ja.wikipedia.org/wiki/SoftBank_811SH "wikilink")、[812SH](https://ja.wikipedia.org/wiki/SoftBank_812SH "wikilink")、[812SHs](https://ja.wikipedia.org/wiki/SoftBank_812SH "wikilink")、[813SH](../Page/SoftBank_813SH.md "wikilink")、[814SH](../Page/SoftBank_814SH.md "wikilink")、[815SH](https://ja.wikipedia.org/wiki/SoftBank_815SH "wikilink")
-      - [904SH](https://ja.wikipedia.org/wiki/SoftBank_904SH "wikilink")、[905SH](https://ja.wikipedia.org/wiki/SoftBank_905SH "wikilink")、[910SH](https://ja.wikipedia.org/wiki/SoftBank_910SH "wikilink")、[911SH](https://ja.wikipedia.org/wiki/SoftBank_911SH "wikilink")、[912SH](../Page/SoftBank_912SH.md "wikilink")、[913SH](../Page/SoftBank_913SH.md "wikilink")
+      - [810SH](../Page/SoftBank_810SH.md "wikilink")、[811SH](../Page/SoftBank_811SH.md "wikilink")、[812SH](https://ja.wikipedia.org/wiki/SoftBank_812SH "wikilink")、[812SHs](https://ja.wikipedia.org/wiki/SoftBank_812SH "wikilink")、[813SH](../Page/SoftBank_813SH.md "wikilink")、[814SH](../Page/SoftBank_814SH.md "wikilink")、[815SH](https://ja.wikipedia.org/wiki/SoftBank_815SH "wikilink")
+      - [904SH](https://ja.wikipedia.org/wiki/SoftBank_904SH "wikilink")、[905SH](https://ja.wikipedia.org/wiki/SoftBank_905SH "wikilink")、[910SH](../Page/SoftBank_910SH.md "wikilink")、[911SH](../Page/SoftBank_911SH.md "wikilink")、[912SH](../Page/SoftBank_912SH.md "wikilink")、[913SH](../Page/SoftBank_913SH.md "wikilink")
 
 ### Disney Mobile
 
@@ -157,7 +157,7 @@ Smartplusは、Smartplusの機能を搭載した専用の[カード](../Page/カ
 
   - [ID (クレジット決済サービス)](../Page/ID_\(クレジット決済サービス\).md "wikilink")
   - [QUICPay](../Page/QUICPay.md "wikilink")
-  - [Visa Touch](https://ja.wikipedia.org/wiki/Visa_Touch "wikilink")
+  - [Visa Touch](../Page/Visa_Touch.md "wikilink")
   - [PayPass](https://ja.wikipedia.org/wiki/PayPass "wikilink")
   - [PiTaPa](../Page/PiTaPa.md "wikilink")
 

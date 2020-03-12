@@ -1,7 +1,7 @@
 > この記事は[SOFT BALLET 1992-1995 the BEST + 8 OTHER MIXES](https://ja.wikipedia.org/wiki/SOFT_BALLET_1992-1995_the_BEST_+_8_OTHER_MIXES)から翻訳されています。
 
 
-『**SOFT BALLET 1992-1995 the BEST + 8 OTHER MIXES**』は、[SOFT BALLETのビクター時代のベスト盤](../Page/SOFT_BALLET.md "wikilink")。[アルファレコード](https://ja.wikipedia.org/wiki/アルファレコード "wikilink")時代のベスト盤『**SOFT BALLET 1989-1991 the BEST**』と同日リリースされた。
+『**SOFT BALLET 1992-1995 the BEST + 8 OTHER MIXES**』は、[SOFT BALLETのビクター時代のベスト盤](../Page/SOFT_BALLET.md "wikilink")。[アルファレコード](../Page/アルファレコード.md "wikilink")時代のベスト盤『**SOFT BALLET 1989-1991 the BEST**』と同日リリースされた。
 
 ## 概要
 
@@ -11,8 +11,8 @@
 
 DISC 1
 
-1.  PARADE ([遠藤遼一](../Page/遠藤遼一.md "wikilink") / [森岡賢](https://ja.wikipedia.org/wiki/森岡賢 "wikilink") / [SOFT BALLET](../Page/SOFT_BALLET.md "wikilink"))
-2.  YOU (遠藤遼一 / 森岡賢 / [藤井麻輝](https://ja.wikipedia.org/wiki/藤井麻輝 "wikilink"))
+1.  PARADE ([遠藤遼一](../Page/遠藤遼一.md "wikilink") / [森岡賢](../Page/森岡賢.md "wikilink") / [SOFT BALLET](../Page/SOFT_BALLET.md "wikilink"))
+2.  YOU (遠藤遼一 / 森岡賢 / [藤井麻輝](../Page/藤井麻輝.md "wikilink"))
 3.  WHITE SHAMAN (遠藤遼一 / 森岡賢 / SOFT BALLET)
 4.  THRESHOLD (Yellow-Mix) (遠藤遼一 / 藤井麻輝 / SOFT BALLET)
 5.  PILED HIGHER DEEPER (遠藤遼一 / 藤井麻輝 / SOFT BALLET)

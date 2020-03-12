@@ -1,11 +1,11 @@
 > この記事は[Yak-21 \(\)](https://ja.wikipedia.org/wiki/Yak-21_\(\))から翻訳されています。
 
 
-**Yak-21**(Jak-21；ヤク21；[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink"):****<small>ヤーク・ドヴァーッツァチ・アヂーン</small>)は、[ソ連の](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[ヤコヴレフ設計局で開発された](https://ja.wikipedia.org/wiki/A・S・ヤコヴレフ記念試作設計局 "wikilink")[教育訓練機](https://ja.wikipedia.org/wiki/練習機 "wikilink")。
+**Yak-21**(Jak-21；ヤク21；[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink"):****<small>ヤーク・ドヴァーッツァチ・アヂーン</small>)は、[ソ連の](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[ヤコヴレフ設計局で開発された](https://ja.wikipedia.org/wiki/A・S・ヤコヴレフ記念試作設計局 "wikilink")[教育訓練機](../Page/練習機.md "wikilink")。
 
 ## 概要
 
-Yak-21は、[Yak-15多目的](https://ja.wikipedia.org/wiki/Yak-15_\(航空機\) "wikilink")[戦闘機](../Page/戦闘機.md "wikilink")の複座練習機型として開発された。当初は**Yak-YuMO «ヴィヴォズノーイ»**(****<small>ヤーク・ユーマ・ヴィヴァズノーイ</small>)、**Yak-15V «ヴィヴォズノーイ»**(****<small>ヤーク・ピトナーッツァチ・ヴェー・ヴイヴァズノーイ</small>)、**Yak-15UT**(****<small>ヤーク・ピトナーッツァチ・ウーテー</small>)などと呼ばれた。この機体はその後**Yak-21**と改称されたが、**Yak-21V**(****<small>ヤーク・ドヴァーッツァチ・アヂーン・ヴェー</small>)と呼ばれることもあった。Yak-21Vは[1946年](../Page/1946年.md "wikilink")に初飛行は果たしたものの、本格生産型である[Yak-17は生産に入ったため](../Page/Yak-17_\(航空機\).md "wikilink")、Yak-15の複座練習機型は不要となりYak-21Vは制式採用はされなかった。一方、当初Yak-15Uとして開発が進められたYak-17の複座型として、Yak-17RD10と呼ばれる機体が開発された。この機体は別名**Yak-21T**(****<small>ヤーク・ドヴァーッツァチ・アヂーン・テー・トリニローヴァチュヌィイ</small>)と呼ばれ、[1947年](../Page/1947年.md "wikilink")[9月17日](../Page/9月17日.md "wikilink")にYak-17UTIとして制式採用となった。
+Yak-21は、[Yak-15多目的](../Page/Yak-15_\(航空機\).md "wikilink")[戦闘機](../Page/戦闘機.md "wikilink")の複座練習機型として開発された。当初は**Yak-YuMO «ヴィヴォズノーイ»**(****<small>ヤーク・ユーマ・ヴィヴァズノーイ</small>)、**Yak-15V «ヴィヴォズノーイ»**(****<small>ヤーク・ピトナーッツァチ・ヴェー・ヴイヴァズノーイ</small>)、**Yak-15UT**(****<small>ヤーク・ピトナーッツァチ・ウーテー</small>)などと呼ばれた。この機体はその後**Yak-21**と改称されたが、**Yak-21V**(****<small>ヤーク・ドヴァーッツァチ・アヂーン・ヴェー</small>)と呼ばれることもあった。Yak-21Vは[1946年](../Page/1946年.md "wikilink")に初飛行は果たしたものの、本格生産型である[Yak-17は生産に入ったため](../Page/Yak-17_\(航空機\).md "wikilink")、Yak-15の複座練習機型は不要となりYak-21Vは制式採用はされなかった。一方、当初Yak-15Uとして開発が進められたYak-17の複座型として、Yak-17RD10と呼ばれる機体が開発された。この機体は別名**Yak-21T**(****<small>ヤーク・ドヴァーッツァチ・アヂーン・テー・トリニローヴァチュヌィイ</small>)と呼ばれ、[1947年](../Page/1947年.md "wikilink")[9月17日](../Page/9月17日.md "wikilink")にYak-17UTIとして制式採用となった。
 
 ## スペック
 
@@ -30,7 +30,7 @@ Yak-21は、[Yak-15多目的](https://ja.wikipedia.org/wiki/Yak-15_\(航空機\)
 
 ## 運用国
 
-  - [ソ連](https://ja.wikipedia.org/wiki/ソ連空軍 "wikilink")
+  - [ソ連](../Page/ソ連空軍.md "wikilink")
 
 ## 外部リンク
 

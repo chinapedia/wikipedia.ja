@@ -1,11 +1,11 @@
 > この記事は[ THE LIVE BLACK MASS D.C.7](https://ja.wikipedia.org/wiki/_THE_LIVE_BLACK_MASS_D.C.7)から翻訳されています。
 
 
-『**オールスタンディング処刑 THE LIVE BLACK MASS D.C.7**』（オールスタンディングしょけい ザ ライブ ブラック マス ディーシーセブン）は、[聖飢魔II](../Page/聖飢魔II.md "wikilink")の第二十二教典で[D.C.](../Page/魔暦.md "wikilink")8年（西暦[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")）[3月29日](../Page/3月29日.md "wikilink")に発布されたミサ教典（ライブ盤）。 英語表記では、*ALL STANDING EXECUTION THE LIVE BLACK MASS D.C.7*。
+『**オールスタンディング処刑 THE LIVE BLACK MASS D.C.7**』（オールスタンディングしょけい ザ ライブ ブラック マス ディーシーセブン）は、[聖飢魔II](../Page/聖飢魔II.md "wikilink")の第二十二教典で[D.C.](../Page/魔暦.md "wikilink")8年（西暦[2006年](../Page/2006年.md "wikilink")）[3月29日](../Page/3月29日.md "wikilink")に発布されたミサ教典（ライブ盤）。 英語表記では、*ALL STANDING EXECUTION THE LIVE BLACK MASS D.C.7*。
 
 ## 概要
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に期間限定で再集結した聖飢魔IIは**聖飢魔II 地球デビュー20周年記念 THE LIMITED BLACK MASS TOUR D.C.7 恐怖の復活祭**と**聖飢魔II 地球デビュー20周年記念 THE SPECIAL BLACK MASS オールスタンディング処刑（一部を除く）**の2種類のミサツアーを行ったが後者の模様を収録したのが今作である（前者を収録したのは『[恐怖の復活祭 THE LIVE BLACK MASS D.C.7 SELECTION +α](../Page/恐怖の復活祭_THE_LIVE_BLACK_MASS_D.C.7_SELECTION_+α.md "wikilink")』）。
+[2005年](../Page/2005年.md "wikilink")に期間限定で再集結した聖飢魔IIは**聖飢魔II 地球デビュー20周年記念 THE LIMITED BLACK MASS TOUR D.C.7 恐怖の復活祭**と**聖飢魔II 地球デビュー20周年記念 THE SPECIAL BLACK MASS オールスタンディング処刑（一部を除く）**の2種類のミサツアーを行ったが後者の模様を収録したのが今作である（前者を収録したのは『[恐怖の復活祭 THE LIVE BLACK MASS D.C.7 SELECTION +α](../Page/恐怖の復活祭_THE_LIVE_BLACK_MASS_D.C.7_SELECTION_+α.md "wikilink")』）。
 
 主に[12月11日](../Page/12月11日.md "wikilink")の[横浜BLITZ](../Page/横浜BLITZ.md "wikilink")公演2日目の模様を収録している。
 
@@ -59,7 +59,7 @@ DISC 01&02
 
   - [C.P. ACE SHIMIZU](../Page/ACE_\(ミュージシャン\).md "wikilink") - [Guitars](../Page/ギター.md "wikilink"), [Chorus](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
   - [H.H. RAIDEN YUZAWA](../Page/雷電湯澤.md "wikilink") - [Drums](https://ja.wikipedia.org/wiki/ドラムス "wikilink"), Chorus
-  - [Dr. XENON ISHIKAWA](../Page/石川俊介.md "wikilink") - [Bass](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink"), Chorus
+  - [Dr. XENON ISHIKAWA](../Page/石川俊介.md "wikilink") - [Bass](../Page/ベース_\(弦楽器\).md "wikilink"), Chorus
   - [G.S. LUKE TAKAMURA III](https://ja.wikipedia.org/wiki/LUKE_TAKAMURA "wikilink") - Guitars, Chorus
   - [H.E. DEMON KOGURE](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink") - [Vocals](https://ja.wikipedia.org/wiki/ボーカル "wikilink"), Iroiro
   - [KAIJIN MATSUZAKI SAMA](../Page/松崎雄一.md "wikilink") - [Keyboards](../Page/キーボード_\(楽器\).md "wikilink"), Chorus

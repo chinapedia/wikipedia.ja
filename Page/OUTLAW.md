@@ -1,7 +1,7 @@
 > この記事は[OUTLAW](https://ja.wikipedia.org/wiki/OUTLAW)から翻訳されています。
 
 
-**OUTLAW**（アウトロー）は、1996年に結成された日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[山梨県](../Page/山梨県.md "wikilink")[南アルプス市](../Page/南アルプス市.md "wikilink")出身。[エスエムイーレコーズ](https://ja.wikipedia.org/wiki/エスエムイーレコーズ "wikilink")所属。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")の[ライブをもって](https://ja.wikipedia.org/wiki/演奏会 "wikilink")[解散](https://ja.wikipedia.org/wiki/解散 "wikilink")した。
+**OUTLAW**（アウトロー）は、1996年に結成された日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[山梨県](../Page/山梨県.md "wikilink")[南アルプス市](../Page/南アルプス市.md "wikilink")出身。[エスエムイーレコーズ](../Page/エスエムイーレコーズ.md "wikilink")所属。[2006年](../Page/2006年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")の[ライブをもって](../Page/演奏会.md "wikilink")[解散](https://ja.wikipedia.org/wiki/解散 "wikilink")した。
 
 ## メンバー
 
@@ -10,7 +10,7 @@
 <!-- end list -->
 
   - 山口進
-    [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。解散後、プロジェクト[30size](https://ja.wikipedia.org/wiki/30size "wikilink")を始動させ、現在は[夜ハ短シ](https://ja.wikipedia.org/wiki/夜ハ短シ "wikilink")でVo,Gtを担当している。
+    [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。解散後、プロジェクト[30size](https://ja.wikipedia.org/wiki/30size "wikilink")を始動させ、現在は[夜ハ短シ](https://ja.wikipedia.org/wiki/夜ハ短シ "wikilink")でVo,Gtを担当している。
   - [石川竜司](https://ja.wikipedia.org/wiki/石川竜司 "wikilink")
     [ギター](../Page/ギター.md "wikilink")担当。
   - 藤原幸広
@@ -197,7 +197,7 @@ SECL-80:CCCD</p></td>
 <li>ビューティフルライフ!</li>
 <li>ゴールド</li>
 </ol>
-<p><a href="https://ja.wikipedia.org/wiki/TXN" title="wikilink">テレビ東京系</a><a href="../Page/アニメ.md" title="wikilink">アニメ</a>『<a href="../Page/ギャラリーフェイク.md" title="wikilink">ギャラリーフェイク</a>』第2期<a href="https://ja.wikipedia.org/wiki/主題歌" title="wikilink">オープニング</a><a href="https://ja.wikipedia.org/wiki/テーマ曲" title="wikilink">テーマ曲</a></p></td>
+<p><a href="https://ja.wikipedia.org/wiki/TXN" title="wikilink">テレビ東京系</a><a href="../Page/アニメ.md" title="wikilink">アニメ</a>『<a href="../Page/ギャラリーフェイク.md" title="wikilink">ギャラリーフェイク</a>』第2期<a href="../Page/主題歌.md" title="wikilink">オープニング</a><a href="https://ja.wikipedia.org/wiki/テーマ曲" title="wikilink">テーマ曲</a></p></td>
 <td><p>SME Records</p></td>
 </tr>
 <tr class="odd">
@@ -375,29 +375,29 @@ M-11「僕の存在は嘘じゃなかった」で参加。<br />
 
 ## ミュージックビデオ
 
-|                                                       |                                                                        |
-| ----------------------------------------------------- | ---------------------------------------------------------------------- |
-| **監督**                                                | **曲名**                                                                 |
-| [今佳明昭](https://ja.wikipedia.org/wiki/今佳明昭 "wikilink") | 「僕の存在は嘘じゃなかった」                                                         |
-| [久米乙司](https://ja.wikipedia.org/wiki/久米乙司 "wikilink") | 「明日も生かねば」                                                              |
-| [坂西伊作](https://ja.wikipedia.org/wiki/坂西伊作 "wikilink") | 「サヨナラ」                                                                 |
-| 不明                                                    | 「ビューティフルライフ\!」(出演:[三浦葵](https://ja.wikipedia.org/wiki/三浦葵 "wikilink")) |
-|                                                       |                                                                        |
+|                                                       |                                                     |
+| ----------------------------------------------------- | --------------------------------------------------- |
+| **監督**                                                | **曲名**                                              |
+| [今佳明昭](https://ja.wikipedia.org/wiki/今佳明昭 "wikilink") | 「僕の存在は嘘じゃなかった」                                      |
+| [久米乙司](https://ja.wikipedia.org/wiki/久米乙司 "wikilink") | 「明日も生かねば」                                           |
+| [坂西伊作](https://ja.wikipedia.org/wiki/坂西伊作 "wikilink") | 「サヨナラ」                                              |
+| 不明                                                    | 「ビューティフルライフ\!」(出演:[三浦葵](../Page/三浦葵.md "wikilink")) |
+|                                                       |                                                     |
 
 ## ラジオ（レギュラー）
 
-  - 4-2（[FM FUJI](https://ja.wikipedia.org/wiki/FM_FUJI "wikilink") 毎週[金曜日](../Page/金曜日.md "wikilink")24:00－25:00）[2004年](../Page/2004年.md "wikilink")4月xx日-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")
-  - G-ZONE（[FM NACK5](https://ja.wikipedia.org/wiki/FM_NACK5 "wikilink") 毎週[水曜日](../Page/水曜日.md "wikilink")24:00－25:00）2005年[4月6日](../Page/4月6日.md "wikilink")-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[1月25日](../Page/1月25日.md "wikilink")
+  - 4-2（[FM FUJI](https://ja.wikipedia.org/wiki/FM_FUJI "wikilink") 毎週[金曜日](../Page/金曜日.md "wikilink")24:00－25:00）[2004年](../Page/2004年.md "wikilink")4月xx日-[2005年](../Page/2005年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")
+  - G-ZONE（[FM NACK5](https://ja.wikipedia.org/wiki/FM_NACK5 "wikilink") 毎週[水曜日](../Page/水曜日.md "wikilink")24:00－25:00）2005年[4月6日](../Page/4月6日.md "wikilink")-[2006年](../Page/2006年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink")
 
 ## 主なライブ
 
   - 2001年10月19日 - MINAMI WHEEL 2001
-  - 2005年03月22日・25日 - [フジファブリック](https://ja.wikipedia.org/wiki/フジファブリック "wikilink") スプリングツアーネオマレルミン2005
+  - 2005年03月22日・25日 - [フジファブリック](../Page/フジファブリック.md "wikilink") スプリングツアーネオマレルミン2005
 
 ## 関連項目
 
   - [30size](https://ja.wikipedia.org/wiki/30size "wikilink")
-  - [片岡大志](https://ja.wikipedia.org/wiki/片岡大志 "wikilink")
+  - [片岡大志](../Page/片岡大志.md "wikilink")
   - [加藤貴之](https://ja.wikipedia.org/wiki/加藤貴之 "wikilink")
   - [町田直隆](../Page/町田直隆.md "wikilink")
 

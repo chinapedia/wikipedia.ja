@@ -1,7 +1,7 @@
 > この記事は[ETRON](https://ja.wikipedia.org/wiki/ETRON)から翻訳されています。
 
 
-**eTRON**（イートロン、**Entity and Economy TRON**）とは、[貨幣](../Page/貨幣.md "wikilink")や各種証書、[証券](../Page/証券.md "wikilink")、チケットなどの価値情報を[インターネット](../Page/インターネット.md "wikilink")などのオープンな通信基盤上で、安全に流通させるための広域分散システム[アーキテクチャ](https://ja.wikipedia.org/wiki/アーキテクチャ "wikilink")である。
+**eTRON**（イートロン、**Entity and Economy TRON**）とは、[貨幣](../Page/貨幣.md "wikilink")や各種証書、[証券](../Page/証券.md "wikilink")、チケットなどの価値情報を[インターネット](../Page/インターネット.md "wikilink")などのオープンな通信基盤上で、安全に流通させるための広域分散システム[アーキテクチャ](../Page/アーキテクチャ.md "wikilink")である。
 
 特定の[暗号](../Page/暗号.md "wikilink")、[ハッシュ](https://ja.wikipedia.org/wiki/ハッシュ "wikilink")、認証方式などのアルゴリズムや特定のアプリケーションに依存しない、汎用的な枠組みを提供するものである。
 

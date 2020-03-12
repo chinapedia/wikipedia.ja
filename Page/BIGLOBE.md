@@ -1,7 +1,7 @@
 > この記事は[BIGLOBE](https://ja.wikipedia.org/wiki/BIGLOBE)から翻訳されています。
 
 
-**BIGLOBE**（ビッグローブ）は、**ビッグローブ株式会社**（*BIGLOBE Inc.*）が運営する[インターネットサービスプロバイダ](https://ja.wikipedia.org/wiki/インターネットサービスプロバイダ "wikilink")のひとつ。[リモートホスト](https://ja.wikipedia.org/wiki/リモートホスト "wikilink")名は**mesh.ad.jp**。
+**BIGLOBE**（ビッグローブ）は、**ビッグローブ株式会社**（*BIGLOBE Inc.*）が運営する[インターネットサービスプロバイダ](https://ja.wikipedia.org/wiki/インターネットサービスプロバイダ "wikilink")のひとつ。[リモートホスト](../Page/リモートホスト.md "wikilink")名は**mesh.ad.jp**。
 
 ## 概要
 

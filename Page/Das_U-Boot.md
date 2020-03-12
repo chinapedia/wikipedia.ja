@@ -1,7 +1,7 @@
 > この記事は[Das U-Boot](https://ja.wikipedia.org/wiki/Das_U-Boot)から翻訳されています。
 
 
-**Das U-Boot**は、多種のプラットフォームに対応した[ブート](../Page/ブート.md "wikilink")ローダである。対応[プロセッサ](../Page/プロセッサ.md "wikilink")・[アーキテクチャは](../Page/コンピュータ・アーキテクチャ.md "wikilink")、[ARM](https://ja.wikipedia.org/wiki/ARMアーキテクチャ "wikilink")、、[Blackfin](https://ja.wikipedia.org/wiki/Blackfin "wikilink")、[x86](https://ja.wikipedia.org/wiki/x86 "wikilink")、[68k](../Page/MC68000.md "wikilink")、[MicroBlaze](../Page/MicroBlaze.md "wikilink")、[MIPS](https://ja.wikipedia.org/wiki/MIPSアーキテクチャ "wikilink")、[Altera NIOS](https://ja.wikipedia.org/wiki/Altera_NIOS "wikilink")、[NIOS2](https://ja.wikipedia.org/wiki/Nios_II "wikilink")、[PowerPC](../Page/PowerPC.md "wikilink")、[SuperH](../Page/SuperH.md "wikilink")などで、主として[ワンボードマイコン](../Page/ワンボードマイコン.md "wikilink")などといった組込み開発用の環境で使われているが、[シングルボードコンピュータ](https://ja.wikipedia.org/wiki/シングルボードコンピュータ "wikilink")や、近年の電子ガジェット類など製品で使われていることもある。
+**Das U-Boot**は、多種のプラットフォームに対応した[ブート](../Page/ブート.md "wikilink")ローダである。対応[プロセッサ](../Page/プロセッサ.md "wikilink")・[アーキテクチャは](../Page/コンピュータ・アーキテクチャ.md "wikilink")、[ARM](../Page/ARMアーキテクチャ.md "wikilink")、、[Blackfin](https://ja.wikipedia.org/wiki/Blackfin "wikilink")、[x86](https://ja.wikipedia.org/wiki/x86 "wikilink")、[68k](../Page/MC68000.md "wikilink")、[MicroBlaze](../Page/MicroBlaze.md "wikilink")、[MIPS](../Page/MIPSアーキテクチャ.md "wikilink")、[Altera NIOS](https://ja.wikipedia.org/wiki/Altera_NIOS "wikilink")、[NIOS2](https://ja.wikipedia.org/wiki/Nios_II "wikilink")、[PowerPC](../Page/PowerPC.md "wikilink")、[SuperH](../Page/SuperH.md "wikilink")などで、主として[ワンボードマイコン](../Page/ワンボードマイコン.md "wikilink")などといった組込み開発用の環境で使われているが、[シングルボードコンピュータ](https://ja.wikipedia.org/wiki/シングルボードコンピュータ "wikilink")や、近年の電子ガジェット類など製品で使われていることもある。
 
 ## 概要
 

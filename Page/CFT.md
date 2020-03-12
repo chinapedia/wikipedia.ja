@@ -5,10 +5,10 @@
 
   - [コンクリート充填鋼管構造](../Page/コンクリート充填鋼管構造.md "wikilink") (**C**oncrete **F**illed Steel **T**ube)
   - [コンフォーマル・フューエル・タンク](https://ja.wikipedia.org/wiki/コンフォーマル・フューエル・タンク "wikilink") (**C**onformal **F**uel **T**ank)、航空機に取り付けられる密着型増槽
-  - [抗生物質](https://ja.wikipedia.org/wiki/抗生物質 "wikilink")のセファトリジン (**C**e**f**a**t**rizine)。[セファロスポリン](https://ja.wikipedia.org/wiki/セファロスポリン "wikilink")を参照。
+  - [抗生物質](https://ja.wikipedia.org/wiki/抗生物質 "wikilink")のセファトリジン (**C**e**f**a**t**rizine)。[セファロスポリン](../Page/セファロスポリン.md "wikilink")を参照。
   - [類体論](https://ja.wikipedia.org/wiki/類体論 "wikilink") (**C**lass **F**ield **T**heory)
   - [共形場理論](../Page/共形場理論.md "wikilink") (**C**onformal **F**ield **T**heory)
-  - [結晶場理論](https://ja.wikipedia.org/wiki/結晶場理論 "wikilink")（**C**rystal **F**ield **T**heory）
+  - [結晶場理論](../Page/結晶場理論.md "wikilink")（**C**rystal **F**ield **T**heory）
   - [連続フーリエ変換](https://ja.wikipedia.org/wiki/連続フーリエ変換 "wikilink") (**C**ontinuous **F**ourier **T**ransform)
   - 機能横断型チーム (**C**ross **F**unctional **T**eam)
   - テロ資金供与防止対策 (**C**ountering the **F**inancing of **T**errorism) \[1\] \[2\] \[3\] \[4\] \[5\]

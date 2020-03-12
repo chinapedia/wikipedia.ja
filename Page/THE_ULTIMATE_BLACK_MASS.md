@@ -1,7 +1,7 @@
 > この記事は[THE ULTIMATE BLACK MASS](https://ja.wikipedia.org/wiki/THE_ULTIMATE_BLACK_MASS)から翻訳されています。
 
 
-**THE ULTIMATE BLACK MASS**（ジ・アルティメット・ブラック・マス）は、[1999年](../Page/1999年.md "wikilink")[12月29日](../Page/12月29日.md "wikilink")から[12月31日](../Page/12月31日.md "wikilink")にかけて行われた、[聖飢魔II](../Page/聖飢魔II.md "wikilink")の解散前最後の[黒ミサ](https://ja.wikipedia.org/wiki/聖飢魔IIの悪魔用語一覧 "wikilink")（ラストライブ）である。会場は全公演とも[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[浦安市](https://ja.wikipedia.org/wiki/浦安市 "wikilink")の[東京ベイNKホール](https://ja.wikipedia.org/wiki/東京ベイNKホール "wikilink")。
+**THE ULTIMATE BLACK MASS**（ジ・アルティメット・ブラック・マス）は、[1999年](../Page/1999年.md "wikilink")[12月29日](../Page/12月29日.md "wikilink")から[12月31日](../Page/12月31日.md "wikilink")にかけて行われた、[聖飢魔II](../Page/聖飢魔II.md "wikilink")の解散前最後の[黒ミサ](../Page/聖飢魔IIの悪魔用語一覧.md "wikilink")（ラストライブ）である。会場は全公演とも[千葉県](../Page/千葉県.md "wikilink")[浦安市](https://ja.wikipedia.org/wiki/浦安市 "wikilink")の[東京ベイNKホール](../Page/東京ベイNKホール.md "wikilink")。
 
 ## 概要
 
@@ -19,7 +19,7 @@
 4.  [怪奇植物](../Page/THE_END_OF_THE_CENTURY.md "wikilink")
 5.  [赤い玉の伝説](https://ja.wikipedia.org/wiki/赤い玉の伝説 "wikilink")
 6.  [人間狩り](../Page/恐怖のレストラン.md "wikilink")
-7.  [協奏曲「死の舞踏」](https://ja.wikipedia.org/wiki/THE_LIVE_BLACK_MASS_B.D.3_メフィストフェレスの陰謀 "wikilink")
+7.  [協奏曲「死の舞踏」](../Page/THE_LIVE_BLACK_MASS_B.D.3_メフィストフェレスの陰謀.md "wikilink")
 8.  THE MONSTERS' RHYTHM BATTLE〜はげ山の一夜〜
 9.  [NEVER ENDING DARKNESS](../Page/BIG_TIME_CHANGES.md "wikilink")
 10. [満月の夜](https://ja.wikipedia.org/wiki/満月の夜 "wikilink")
@@ -121,4 +121,4 @@
 
 [Category:聖飢魔II](https://ja.wikipedia.org/wiki/Category:聖飢魔II "wikilink") [Category:日本のコンサート](https://ja.wikipedia.org/wiki/Category:日本のコンサート "wikilink") [Category:1999年のコンサート](https://ja.wikipedia.org/wiki/Category:1999年のコンサート "wikilink") [Category:1999年の日本の音楽](https://ja.wikipedia.org/wiki/Category:1999年の日本の音楽 "wikilink") [Category:千葉県の音楽](https://ja.wikipedia.org/wiki/Category:千葉県の音楽 "wikilink") [Category:浦安市の歴史](https://ja.wikipedia.org/wiki/Category:浦安市の歴史 "wikilink") [Category:1999年12月](https://ja.wikipedia.org/wiki/Category:1999年12月 "wikilink")
 
-1.  [ダミアン浜田](../Page/ダミアン浜田.md "wikilink")、[ジェイル大橋](../Page/大橋隆志.md "wikilink")、[ゾッド星島](https://ja.wikipedia.org/wiki/ゾッド星島 "wikilink")、[ジード飯島](https://ja.wikipedia.org/wiki/ジード飯島 "wikilink")、[ジャギ古川](https://ja.wikipedia.org/wiki/古川徹 "wikilink")、[レクター・H](https://ja.wikipedia.org/wiki/石黒彰 "wikilink")、[魔女RYO子が参加](https://ja.wikipedia.org/wiki/丸山涼子 "wikilink")。[ジャントニオ・ババヤシ](https://ja.wikipedia.org/wiki/ジャントニオ・ババヤシ "wikilink")と[ガンダーラ金子はビデオレターでの出演となった](https://ja.wikipedia.org/wiki/金子周平 "wikilink")。
+1.  [ダミアン浜田](../Page/ダミアン浜田.md "wikilink")、[ジェイル大橋](../Page/大橋隆志.md "wikilink")、[ゾッド星島](../Page/ゾッド星島.md "wikilink")、[ジード飯島](https://ja.wikipedia.org/wiki/ジード飯島 "wikilink")、[ジャギ古川](../Page/古川徹.md "wikilink")、[レクター・H](../Page/石黒彰.md "wikilink")、[魔女RYO子が参加](../Page/丸山涼子.md "wikilink")。[ジャントニオ・ババヤシ](https://ja.wikipedia.org/wiki/ジャントニオ・ババヤシ "wikilink")と[ガンダーラ金子はビデオレターでの出演となった](https://ja.wikipedia.org/wiki/金子周平 "wikilink")。

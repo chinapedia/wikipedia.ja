@@ -1,11 +1,11 @@
 > この記事は[BL](https://ja.wikipedia.org/wiki/BL)から翻訳されています。
 
 
-**コシヒカリBL**（コシヒカリビーエル）とは、[いもち病](https://ja.wikipedia.org/wiki/いもち病 "wikilink")に抵抗性を持つように改良された、「[コシヒカリ](https://ja.wikipedia.org/wiki/コシヒカリ "wikilink")」を親とする[品種](../Page/品種.md "wikilink")群のことで、科学的にも[種苗法](../Page/種苗法.md "wikilink")上でも\[1\]いずれも「コシヒカリ」とは異なる品種である。BLは「いもち病抵抗性系統」（、ブラスト・レジスタンス・ラインズ）の略であり、[連続戻し交配で](https://ja.wikipedia.org/wiki/戻し交配 "wikilink")[育種して](../Page/育種学.md "wikilink")[遺伝子](https://ja.wikipedia.org/wiki/遺伝子 "wikilink")を導入している（[遺伝子組み換え](https://ja.wikipedia.org/wiki/遺伝子組み換え "wikilink")ではない）。
+**コシヒカリBL**（コシヒカリビーエル）とは、[いもち病](../Page/いもち病.md "wikilink")に抵抗性を持つように改良された、「[コシヒカリ](../Page/コシヒカリ.md "wikilink")」を親とする[品種](../Page/品種.md "wikilink")群のことで、科学的にも[種苗法](../Page/種苗法.md "wikilink")上でも\[1\]いずれも「コシヒカリ」とは異なる品種である。BLは「いもち病抵抗性系統」（、ブラスト・レジスタンス・ラインズ）の略であり、[連続戻し交配で](../Page/戻し交配.md "wikilink")[育種して](../Page/育種学.md "wikilink")[遺伝子](https://ja.wikipedia.org/wiki/遺伝子 "wikilink")を導入している（[遺伝子組み換え](https://ja.wikipedia.org/wiki/遺伝子組み換え "wikilink")ではない）。
 
 コシヒカリBLの数品種を混合栽培して生産すると**コシヒカリIL**（）と呼ぶ。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")度（[平成](../Page/平成.md "wikilink")17年度）産より[新潟県](../Page/新潟県.md "wikilink")は、コシヒカリ新潟BLの4品種を混合栽培したコシヒカリILを、[玄米](../Page/玄米.md "wikilink")段階である出荷時に[農産物検査法](https://ja.wikipedia.org/wiki/農産物検査法 "wikilink")に基づいて「産地品種銘柄：新潟県産コシヒカリ」「品種名：コシヒカリBL」とし、[精米](https://ja.wikipedia.org/wiki/精米 "wikilink")段階では[JAS法に基づいて](https://ja.wikipedia.org/wiki/農林物資の規格化及び品質表示の適正化に関する法律 "wikilink")「品種名：コシヒカリ」として売っている\[2\]（JAS法では混合栽培米を[ブレンド米](https://ja.wikipedia.org/wiki/ブレンド米 "wikilink")とはしない）。このため、小売店にて精米段階で購買する消費者は、「コシヒカリBL」と従来の「コシヒカリ」を区別することは出来ない。
+[2005年](../Page/2005年.md "wikilink")度（[平成](../Page/平成.md "wikilink")17年度）産より[新潟県](../Page/新潟県.md "wikilink")は、コシヒカリ新潟BLの4品種を混合栽培したコシヒカリILを、[玄米](../Page/玄米.md "wikilink")段階である出荷時に[農産物検査法](https://ja.wikipedia.org/wiki/農産物検査法 "wikilink")に基づいて「産地品種銘柄：新潟県産コシヒカリ」「品種名：コシヒカリBL」とし、[精米](https://ja.wikipedia.org/wiki/精米 "wikilink")段階では[JAS法に基づいて](https://ja.wikipedia.org/wiki/農林物資の規格化及び品質表示の適正化に関する法律 "wikilink")「品種名：コシヒカリ」として売っている\[2\]（JAS法では混合栽培米を[ブレンド米](https://ja.wikipedia.org/wiki/ブレンド米 "wikilink")とはしない）。このため、小売店にて精米段階で購買する消費者は、「コシヒカリBL」と従来の「コシヒカリ」を区別することは出来ない。
 
 ## 品種
 

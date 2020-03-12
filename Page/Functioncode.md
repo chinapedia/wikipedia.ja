@@ -1,36 +1,36 @@
 > この記事は[Functioncode](https://ja.wikipedia.org/wiki/Functioncode)から翻訳されています。
 
 
-**functioncode**（ファンクション・コード）は、主に[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で活動しているバンドである。略称は**fc();**、**fcode();**。『「ROMANESQUE OF THE ALTERNATIVE〜ロックする[ロマネスク](https://ja.wikipedia.org/wiki/ロマネスク "wikilink")」[ゴス](https://ja.wikipedia.org/wiki/ゴス "wikilink")の美意識と、エモーショナルなサウンド—その融解点を目指し』、結成。初ギグは2003年10月。当時のバンド名は、**リカ\&GANG BANG**。その後、バンド名を**Rika.F5**、2005年よりfunction code();、2010年7月からfunctioncodeと改め、活動中。
+**functioncode**（ファンクション・コード）は、主に[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で活動しているバンドである。略称は**fc();**、**fcode();**。『「ROMANESQUE OF THE ALTERNATIVE〜ロックする[ロマネスク](../Page/ロマネスク.md "wikilink")」[ゴス](https://ja.wikipedia.org/wiki/ゴス "wikilink")の美意識と、エモーショナルなサウンド—その融解点を目指し』、結成。初ギグは2003年10月。当時のバンド名は、**リカ\&GANG BANG**。その後、バンド名を**Rika.F5**、2005年よりfunction code();、2010年7月からfunctioncodeと改め、活動中。
 
 [2007年](../Page/2007年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")マキシシングル「UNDYING LOVE」でメジャー・デビュー。
 
 ## メンバー
 
-  - [le;ka](https://ja.wikipedia.org/wiki/森永理科 "wikilink")（リカ、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[4月25日](../Page/4月25日.md "wikilink")、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身）[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")。声優・森永理科としても活動中。
+  - [le;ka](../Page/森永理科.md "wikilink")（リカ、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[4月25日](../Page/4月25日.md "wikilink")、[東京都](../Page/東京都.md "wikilink")出身）[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")。声優・森永理科としても活動中。
       - 表記は、森永理科→RIKA(RIKA MORINAGA)→LIKA(LIKA MORINAGA)と変遷している。
-  - MATSUOKA（マツオカ、[2月5日](../Page/2月5日.md "wikilink")、[京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")出身）[ピアノ](../Page/ピアノ.md "wikilink")、作曲
+  - MATSUOKA（マツオカ、[2月5日](../Page/2月5日.md "wikilink")、[京都府](../Page/京都府.md "wikilink")出身）[ピアノ](../Page/ピアノ.md "wikilink")、作曲
   - J.P.HAL.J（ジェイ・ピー・ハル・ジェイ、[6月19日](../Page/6月19日.md "wikilink")、[府中市出身](../Page/府中市_\(東京都\).md "wikilink")）[ドラム](../Page/ドラムセット.md "wikilink")、[パーカッション](../Page/パーカッション.md "wikilink")。[SPEED-iD](../Page/SPEED-iD.md "wikilink")でも活動中。
   - MARQUEE（マーキー）[ギター](../Page/ギター.md "wikilink")。[SPEED-iD](../Page/SPEED-iD.md "wikilink")でも活動中。
-  - H.L.EURO（エイチ・エル・ユーロ、[2月17日](../Page/2月17日.md "wikilink")、[府中市出身](../Page/府中市_\(東京都\).md "wikilink")）[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、プロデュース。[SPEED-iD](../Page/SPEED-iD.md "wikilink")でも活動中。
+  - H.L.EURO（エイチ・エル・ユーロ、[2月17日](../Page/2月17日.md "wikilink")、[府中市出身](../Page/府中市_\(東京都\).md "wikilink")）[ベース](../Page/ベース_\(弦楽器\).md "wikilink")、プロデュース。[SPEED-iD](../Page/SPEED-iD.md "wikilink")でも活動中。
   - その他、ワンマンでは[月蝕歌劇団](../Page/月蝕歌劇団.md "wikilink")の関係者やフリーのパフォーマー、ダンサーが参加している。
 
 ### 元メンバー
 
   - 右狂（ウキョウ）[ギター](../Page/ギター.md "wikilink") ※サポートメンバー
-  - TADAOMI（タダオミ）[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink") ※2009.8.29以降fc();での活動が突如無くなる。現在は[LAB. THE BASEMENTで活動中](../Page/LAB._THE_BASEMENT.md "wikilink")。
+  - TADAOMI（タダオミ）[ベース](../Page/ベース_\(弦楽器\).md "wikilink") ※2009.8.29以降fc();での活動が突如無くなる。現在は[LAB. THE BASEMENTで活動中](../Page/LAB._THE_BASEMENT.md "wikilink")。
 
 ## 概要・来歴
 
 プロデューサーで現メンバーのH.L.EUROが、「日本にも[GARBAGEのようなバンドを](../Page/ガービッジ.md "wikilink")」という構想のもと、ボーカルを探していた。
 
-[月蝕歌劇団](../Page/月蝕歌劇団.md "wikilink")の舞台でLIKAを見たのがきっかけとなり、結成。H.L.EUROがLIKAをスカウトした時、カラオケで[ケイト・ブッシュ](../Page/ケイト・ブッシュ.md "wikilink")の「[嵐が丘](https://ja.wikipedia.org/wiki/嵐が丘 "wikilink")」をリクエストした。（H.L.EUROにとってはオーディションのつもりだった）その時の歌声を認められ、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")に本採用された。
+[月蝕歌劇団](../Page/月蝕歌劇団.md "wikilink")の舞台でLIKAを見たのがきっかけとなり、結成。H.L.EUROがLIKAをスカウトした時、カラオケで[ケイト・ブッシュ](../Page/ケイト・ブッシュ.md "wikilink")の「[嵐が丘](../Page/嵐が丘.md "wikilink")」をリクエストした。（H.L.EUROにとってはオーディションのつもりだった）その時の歌声を認められ、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")に本採用された。
 
 LIKAの旧公式ブログ「...Rika's Blog...」では、[マイ・ケミカル・ロマンス Chemical Romance)](../Page/マイ・ケミカル・ロマンス.md "wikilink")(My、[ドレスデン・ドールズ](../Page/ドレスデン・ドールズ.md "wikilink")(The Dresden Dolls) などがフェイバリットとしてあげられていた。ドレスデン・ドールズについては、2007年1月28日のワンマンライヴにて、バンドロゴの入ったタンクトップを衣装に使用した程。
 
-ROCK WAVE（[テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")）毎月2週目水曜日のコーナー「GIRLS WAVE」では、LIKAが[MCを担当している](https://ja.wikipedia.org/wiki/司会 "wikilink")。2007年9月12日スタート。洋楽女性アーティストの[PVを紹介している](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。
+ROCK WAVE（[テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")）毎月2週目水曜日のコーナー「GIRLS WAVE」では、LIKAが[MCを担当している](../Page/司会.md "wikilink")。2007年9月12日スタート。洋楽女性アーティストの[PVを紹介している](../Page/ミュージック・ビデオ.md "wikilink")。
 
-[寺山修司](https://ja.wikipedia.org/wiki/寺山修司 "wikilink")〜[J・A・シーザー](https://ja.wikipedia.org/wiki/J・A・シーザー "wikilink")直系の、歌と音楽と舞踏が一体となったシアトリカルな表現が特徴。ワンマンライヴではパフォーマーやダンサーを従え、[アングラ趣味の大がかりなパフォーマンスを繰り広げている](https://ja.wikipedia.org/wiki/アンダーグラウンド_\(文化\) "wikilink")。
+[寺山修司](../Page/寺山修司.md "wikilink")〜[J・A・シーザー](../Page/J・A・シーザー.md "wikilink")直系の、歌と音楽と舞踏が一体となったシアトリカルな表現が特徴。ワンマンライヴではパフォーマーやダンサーを従え、[アングラ趣味の大がかりなパフォーマンスを繰り広げている](../Page/アンダーグラウンド_\(文化\).md "wikilink")。
 
 歌詞のほとんどはLIKAによるもので、H.L.EUROと連名の場合もある。作曲は、H.L.EUROとMATSUOKA、TADAOMIの3人が担当している。TADAOMIは、アルバム(HeroinE);より作曲に参加している。
 
@@ -38,7 +38,7 @@ ROCK WAVE（[テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink"
 
 第二形態のfunction code(under);、第三形態のfunction code(mono);等の形態がある。イベント「[TOKYO DARK CASTLE](https://ja.wikipedia.org/wiki/TOKYO_DARK_CASTLE "wikilink")」には、function code(under);で出演している。
 
-前身バンドにて過去にただ一度だけ、[みっくすJUICE](https://ja.wikipedia.org/wiki/みっくすJUICE "wikilink")の「カンパイ\!旅立ちの日」をカバーしたことがある。（2004年クリスマスイベントにて）
+前身バンドにて過去にただ一度だけ、[みっくすJUICE](../Page/みっくすJUICE.md "wikilink")の「カンパイ\!旅立ちの日」をカバーしたことがある。（2004年クリスマスイベントにて）
 
 ## ディスコグラフィ
 
@@ -76,7 +76,7 @@ ROCK WAVE（[テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink"
   - 2003.10.21 - 「ZaX 2nd ANNIVERSARY SPECIAL EVENT」（柏ZaX）
       - 千葉のライヴハウス「ZAX」の二周年イベントにて最初で最後のお披露目ライヴ。
       - 共演：[遠藤ミチロウ](../Page/遠藤ミチロウ.md "wikilink")、大野靖之、深山Gt.、THEヒットマン
-      - 現[LM.C](https://ja.wikipedia.org/wiki/LM.C "wikilink")サポートメンバーHIKOが一回限りベースで参加した。
+      - 現[LM.C](../Page/LM.C.md "wikilink")サポートメンバーHIKOが一回限りベースで参加した。
 
 ### Rika.F5
 
@@ -90,7 +90,7 @@ ROCK WAVE（[テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink"
   - 2004.06.27 - 「『焦燥。』プレゼンツ 第2回 ミス初台決勝大会」（初台ドアーズ）
       - スペシャルゲストに[秋吉久美子](../Page/秋吉久美子.md "wikilink")が登場した。
   - 2004.08.25 - [JCV](https://ja.wikipedia.org/wiki/JCV "wikilink")チャリティ・フェスタ「NO BOODERS\!\!」（川崎クラブチッタ）
-      - [Yahoo\!](https://ja.wikipedia.org/wiki/Yahoo! "wikilink")チャリティオークションにLIKAのステージ衣装を出品した。
+      - [Yahoo\!](../Page/Yahoo!.md "wikilink")チャリティオークションにLIKAのステージ衣装を出品した。
   - 2004.09.05 - ワンマンライヴ「oneman live action 02」（新宿HEAD POWER）
       - ライブハウス配布のフリーペーパーで表紙を飾った。
   - 2004.10.27 - 「SOUND CLIP VER7.6」（渋谷テイクオフセブン）

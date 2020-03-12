@@ -12,7 +12,7 @@
 ### 直接吸着法
 
 1.  試料溶液を固相（プラスチックチューブ、マイクロプレート、ガラスビーズなど）に接触させて吸着させる\[1\]。
-2.  抗原抗体反応および酵素反応に関与しないタンパク質（[スキムミルク](https://ja.wikipedia.org/wiki/スキムミルク "wikilink")、[アルブミン](https://ja.wikipedia.org/wiki/アルブミン "wikilink")など）を固相に吸着させる（ブロッキング）\[2\]。
+2.  抗原抗体反応および酵素反応に関与しないタンパク質（[スキムミルク](https://ja.wikipedia.org/wiki/スキムミルク "wikilink")、[アルブミン](../Page/アルブミン.md "wikilink")など）を固相に吸着させる（ブロッキング）\[2\]。
 3.  目的のタンパク質に特異的な抗体を固相に接触させて、抗原抗体反応を起こさせる。
 4.  反応しなかった余分な抗体を洗い流す。
 5.  3.のステップで加えた抗体に[酵素](../Page/酵素.md "wikilink")が標識していない場合は、3.の抗体（一次抗体）と特異的に反応する抗体（酵素標識済み、二次抗体）を作用させる。その後、余分な二次抗体を洗い流す\[3\]。
@@ -55,7 +55,7 @@
 
   - [酵素抗体法](https://ja.wikipedia.org/wiki/酵素抗体法 "wikilink")
   - [ウェスタンブロッティング](../Page/ウェスタンブロッティング.md "wikilink")
-  - [免疫染色](https://ja.wikipedia.org/wiki/免疫染色 "wikilink")
+  - [免疫染色](../Page/免疫染色.md "wikilink")
   - [モノクローナル抗体](../Page/モノクローナル抗体.md "wikilink")
   - [ポリクローナル抗体](https://ja.wikipedia.org/wiki/ポリクローナル抗体 "wikilink")
   - [エピトープ](https://ja.wikipedia.org/wiki/エピトープ "wikilink")
@@ -72,7 +72,7 @@
 1.  タンパク質は表面[電荷](../Page/電荷.md "wikilink")や[疎水相互作用](https://ja.wikipedia.org/wiki/疎水相互作用 "wikilink")によりこれらの表面に非特異的に吸着する。一般に、タンパク質を固相に吸着させる場合は、タンパク質の[等電点](https://ja.wikipedia.org/wiki/等電点 "wikilink")よりも[アルカリ](../Page/アルカリ.md "wikilink")側の方が良いとされる。
 2.  ブロッキングは、酵素抗体反応および酵素反応に無関係なタンパク質で固相表面を覆い、後のステップで作用させるタンパク質が固相表面に吸着されるのを防ぐ目的で行われる。
 3.  二次抗体を用いるメリットとして以下の点が考えられる。二次抗体（通常[ポリクローナル抗体](https://ja.wikipedia.org/wiki/ポリクローナル抗体 "wikilink")を用いる）は一次抗体に複数箇所で結合するため、一つの一次抗体に対して複数の二次抗体、すなわち複数の酵素で標識することができる。したがって、二次抗体を使用することで増感効果を得ることができる。また、一次抗体に酵素を標識すると、定量したいタンパク質に対する抗体ごとに酵素標識を施さなくてはならないが、二次抗体を用いることで一次抗体に酵素を標識する必要がなく、複数のタンパク質の検出に対して、用意する酵素標識抗体が一種類でよいため経済的である。
-4.  一般的に、抗体に結合させる酵素には西洋ワサビ[ペルオキシダーゼ](https://ja.wikipedia.org/wiki/ペルオキシダーゼ "wikilink")（HRP、HorseRadish Peroxydase）あるいは[アルカリホスファターゼ](https://ja.wikipedia.org/wiki/アルカリホスファターゼ "wikilink")（ALP、 Alkaline Phosphatase）が用いられる。
+4.  一般的に、抗体に結合させる酵素には西洋ワサビ[ペルオキシダーゼ](https://ja.wikipedia.org/wiki/ペルオキシダーゼ "wikilink")（HRP、HorseRadish Peroxydase）あるいは[アルカリホスファターゼ](../Page/アルカリホスファターゼ.md "wikilink")（ALP、 Alkaline Phosphatase）が用いられる。
 5.
 6.
 7.

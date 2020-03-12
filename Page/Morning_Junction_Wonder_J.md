@@ -18,7 +18,7 @@
   - [高平なつみ](https://ja.wikipedia.org/wiki/高平なつみ "wikilink")（2008年4月～2009年3月、月曜、火曜）
   - [佐藤明子](../Page/佐藤明子.md "wikilink")（2007年4月～2009年3月、水曜、木曜）
   - [高野志津](../Page/高野志津.md "wikilink")（～2008年3月）
-  - [片岡晴子](https://ja.wikipedia.org/wiki/片岡晴子 "wikilink")（～2007年3月）
+  - [片岡晴子](../Page/片岡晴子.md "wikilink")（～2007年3月）
   - [加藤漢太](https://ja.wikipedia.org/wiki/加藤漢太 "wikilink")（1999年4月～？)
   - [石垣のりこ](https://ja.wikipedia.org/wiki/石垣のりこ "wikilink")（1999年4月～2001年3月、月曜、火曜）
   - [大久保尚子](https://ja.wikipedia.org/wiki/大久保尚子 "wikilink")（1999年4月～？、水曜～金曜）

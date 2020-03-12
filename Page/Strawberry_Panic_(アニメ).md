@@ -1,11 +1,11 @@
 > この記事は[Strawberry Panic \(\)](https://ja.wikipedia.org/wiki/Strawberry_Panic_\(\))から翻訳されています。
 
 
-**Strawberry Panic**（ストロベリー・パニック）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")4月より9月まで[tvk他の](../Page/テレビ神奈川.md "wikilink")[UHF局](https://ja.wikipedia.org/wiki/UHF局 "wikilink")及び[キッズステーション](https://ja.wikipedia.org/wiki/キッズステーション "wikilink")（CS放送）で放送された[アニメ](../Page/アニメ.md "wikilink")作品。全26話。
+**Strawberry Panic**（ストロベリー・パニック）は、[2006年](../Page/2006年.md "wikilink")4月より9月まで[tvk他の](../Page/テレビ神奈川.md "wikilink")[UHF局](../Page/UHF局.md "wikilink")及び[キッズステーション](../Page/キッズステーション.md "wikilink")（CS放送）で放送された[アニメ](../Page/アニメ.md "wikilink")作品。全26話。
 
 ## 概要
 
-『[電撃G's magazine](https://ja.wikipedia.org/wiki/電撃G's_magazine "wikilink")』（[メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink")、現：[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")）連載の[読者参加企画](https://ja.wikipedia.org/wiki/読者参加企画 "wikilink")『[Strawberry Panic\!](https://ja.wikipedia.org/wiki/Strawberry_Panic! "wikilink")』（原作：[公野櫻子](https://ja.wikipedia.org/wiki/公野櫻子 "wikilink")、キャラクターデザイン：[真木ちとせ](https://ja.wikipedia.org/wiki/真木ちとせ "wikilink")・[たくみなむち](https://ja.wikipedia.org/wiki/たくみなむち "wikilink")）のアニメ化作品。ただし、アニメ版のタイトルは原作とは異なり「**\!**」が付かない。
+『[電撃G's magazine](../Page/電撃G's_magazine.md "wikilink")』（[メディアワークス](../Page/メディアワークス.md "wikilink")、現：[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")）連載の[読者参加企画](https://ja.wikipedia.org/wiki/読者参加企画 "wikilink")『[Strawberry Panic\!](../Page/Strawberry_Panic!.md "wikilink")』（原作：[公野櫻子](../Page/公野櫻子.md "wikilink")、キャラクターデザイン：[真木ちとせ](https://ja.wikipedia.org/wiki/真木ちとせ "wikilink")・[たくみなむち](../Page/たくみなむち.md "wikilink")）のアニメ化作品。ただし、アニメ版のタイトルは原作とは異なり「**\!**」が付かない。
 
 広義の「原作」である[正伝（文庫版・コミック）や](https://ja.wikipedia.org/wiki/Strawberry_Panic!#小説 "wikilink")[ゲーム版とは](https://ja.wikipedia.org/wiki/Strawberry_Panic!#ゲーム "wikilink")、設定やストーリーなどが大きく異なっている。
 
@@ -13,7 +13,7 @@
 
 設定面では、ほぼ全員の性格と人間関係の改変の他、読者参加企画版・ゲーム版に登場せず、同時進行で刊行された正伝と本作にのみ登場するキャラクターは学年・容姿等が変更されている。本作のみのオリジナルキャラクターも存在する。エトワールに関する設定も異なっている（詳しくは[Strawberry Panic\!\#用語集のエトワールおよびエトワール選の項を参照](https://ja.wikipedia.org/wiki/Strawberry_Panic!#用語集 "wikilink")）。
 
-キャスティング面では、ゲーム版で涼水玉青役を担当し、このアニメ版でも同役を担当する予定だった[沢城みゆき](https://ja.wikipedia.org/wiki/沢城みゆき "wikilink")がスケジュールの都合により担当することができなくなったため、日向絆奈役の[清水愛](../Page/清水愛.md "wikilink")が玉青役を兼任することとなった。
+キャスティング面では、ゲーム版で涼水玉青役を担当し、このアニメ版でも同役を担当する予定だった[沢城みゆき](../Page/沢城みゆき.md "wikilink")がスケジュールの都合により担当することができなくなったため、日向絆奈役の[清水愛](../Page/清水愛.md "wikilink")が玉青役を兼任することとなった。
 
 ## ストーリー
 
@@ -25,21 +25,21 @@
 
 ## スタッフ
 
-  - 監督 - [迫井政行](https://ja.wikipedia.org/wiki/迫井政行 "wikilink")
-  - シリーズ構成 - [浦畑達彦](https://ja.wikipedia.org/wiki/浦畑達彦 "wikilink")
-  - キャラクターデザイン・総作画監督 - [坂井久太](https://ja.wikipedia.org/wiki/坂井久太 "wikilink")
+  - 監督 - [迫井政行](../Page/迫井政行.md "wikilink")
+  - シリーズ構成 - [浦畑達彦](../Page/浦畑達彦.md "wikilink")
+  - キャラクターデザイン・総作画監督 - [坂井久太](../Page/坂井久太.md "wikilink")
   - 美術監督 - 岡本有香
   - 色彩設計 - 上村修司
   - 撮影監督 - 松井伸哉
   - 編集 - 西重成、競昌則
-  - 音響監督 - [高桑一](https://ja.wikipedia.org/wiki/高桑一 "wikilink")
+  - 音響監督 - [高桑一](../Page/高桑一.md "wikilink")
   - 音楽 - [平野義久](https://ja.wikipedia.org/wiki/平野義久 "wikilink")
   - 音楽プロデューサー - 伊藤善之、櫻井優香
   - プロデューサー - 丸山創、渡辺和哉、斎藤光二、酒井明雄、濱松剛、太布尚弘
   - アニメーションプロデューサー - 和泉將一
-  - アニメーション制作 - [マッドハウス](https://ja.wikipedia.org/wiki/マッドハウス "wikilink")
-  - アニメーション制作協力 - [IMAGIN](https://ja.wikipedia.org/wiki/イマジン_\(アニメ制作会社\) "wikilink")
-  - 製作 - いちご舎（[マーベラスエンターテイメント](https://ja.wikipedia.org/wiki/マーベラスエンターテイメント "wikilink")、[ランティス](https://ja.wikipedia.org/wiki/ランティス "wikilink")、[読売広告社](https://ja.wikipedia.org/wiki/読売広告社 "wikilink")、[ドワンゴ](https://ja.wikipedia.org/wiki/ドワンゴ "wikilink")、[オプトロム](https://ja.wikipedia.org/wiki/オプトロム "wikilink")、[ムービック](https://ja.wikipedia.org/wiki/ムービック "wikilink")）
+  - アニメーション制作 - [マッドハウス](../Page/マッドハウス.md "wikilink")
+  - アニメーション制作協力 - [IMAGIN](../Page/イマジン_\(アニメ制作会社\).md "wikilink")
+  - 製作 - いちご舎（[マーベラスエンターテイメント](https://ja.wikipedia.org/wiki/マーベラスエンターテイメント "wikilink")、[ランティス](../Page/ランティス.md "wikilink")、[読売広告社](../Page/読売広告社.md "wikilink")、[ドワンゴ](../Page/ドワンゴ.md "wikilink")、[オプトロム](../Page/オプトロム.md "wikilink")、[ムービック](../Page/ムービック.md "wikilink")）
 
 ## 主題歌・挿入歌・サウンドトラック
 
@@ -47,7 +47,7 @@
 
 :; 「[少女迷路でつかまえて](https://ja.wikipedia.org/wiki/少女迷路でつかまえて "wikilink")」（第1話 - 第13話）
 
-:: 作詞 - [畑亜貴](https://ja.wikipedia.org/wiki/畑亜貴 "wikilink") / 作曲・編曲 - [齋藤真也](https://ja.wikipedia.org/wiki/齋藤真也 "wikilink") / 歌 - [美郷あき](https://ja.wikipedia.org/wiki/美郷あき "wikilink")
+:: 作詞 - [畑亜貴](../Page/畑亜貴.md "wikilink") / 作曲・編曲 - [齋藤真也](../Page/齋藤真也.md "wikilink") / 歌 - [美郷あき](../Page/美郷あき.md "wikilink")
 
 ::\* 2006年4月26日発売 LACM-4258
 
@@ -67,7 +67,7 @@
 
 :: 作詞 - 畑亜貴 / 作曲・編曲 - [大久保薫](https://ja.wikipedia.org/wiki/大久保薫 "wikilink") / 歌 - [中原麻衣](https://ja.wikipedia.org/wiki/中原麻衣 "wikilink")&[清水愛](../Page/清水愛.md "wikilink")
 
-::\* 2006年5月24日発売 LACM-4263 [PV映像収録DVD付き](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")
+::\* 2006年5月24日発売 LACM-4263 [PV映像収録DVD付き](../Page/ミュージック・ビデオ.md "wikilink")
 
 ::\* PVでは本人達によるキスシーンが披露されている。
 
@@ -82,7 +82,7 @@
   -
 
       -
-        作詞 - 畑亜貴 / 作曲 - 齋藤真也 / 編曲 - [安瀬聖](https://ja.wikipedia.org/wiki/安瀬聖 "wikilink")\[2\] / 歌 - 美郷あき
+        作詞 - 畑亜貴 / 作曲 - 齋藤真也 / 編曲 - [安瀬聖](../Page/安瀬聖.md "wikilink")\[2\] / 歌 - 美郷あき
           - 2007年1月11日発売 LACA-5586 31曲目\[3\]
           - 第26話のエンディングのほとんどは、Bメロ→サビ部分のバラード風のアレンジバージョンだった（詳細は以下を参照のこと）。実際に歌の声が入ったのは最後のサビ部分だけであり、オープニングでは歌われていない2番の歌詞を歌った。
           - 正確に原曲のアレンジ部分を追うと、前奏→Aメロ→Bメロ→サビ→Bメロ→サビ→Bメロ→サビ（歌入り）→後奏の順番（CD収録時は前奏→Aメロ→Bメロ→サビ（歌入り）→後奏の順番）。なお、前奏や後奏部分は元の曲にない部分のアレンジだった。
@@ -91,7 +91,7 @@
 
 :; 「気高き百合の」（第4話、第7話、第8話、第12話、第14話、第16話、第22話、第24話、※第25話）
 
-:: 作詞 - [公野櫻子](https://ja.wikipedia.org/wiki/公野櫻子 "wikilink") / 作曲・編曲 - [平野義久](https://ja.wikipedia.org/wiki/平野義久 "wikilink") / 歌 - 聖スピカ女学院・[聖歌隊](https://ja.wikipedia.org/wiki/聖歌隊 "wikilink")、※此花光莉（[松来未祐](../Page/松来未祐.md "wikilink")）\[4\]
+:: 作詞 - [公野櫻子](../Page/公野櫻子.md "wikilink") / 作曲・編曲 - [平野義久](https://ja.wikipedia.org/wiki/平野義久 "wikilink") / 歌 - 聖スピカ女学院・[聖歌隊](https://ja.wikipedia.org/wiki/聖歌隊 "wikilink")、※此花光莉（[松来未祐](../Page/松来未祐.md "wikilink")）\[4\]
 
 ::\* 2006年9月6日発売 LACA-5551 33曲目
 
@@ -114,7 +114,7 @@
   -
 
       -
-        作詞 - 公野櫻子 / 作曲・編曲 - [七瀬光](https://ja.wikipedia.org/wiki/伊藤真澄 "wikilink") / 歌 - 南都夜々（[桑谷夏子](https://ja.wikipedia.org/wiki/桑谷夏子 "wikilink")）\[5\]
+        作詞 - 公野櫻子 / 作曲・編曲 - [七瀬光](../Page/伊藤真澄.md "wikilink") / 歌 - 南都夜々（[桑谷夏子](../Page/桑谷夏子.md "wikilink")）\[5\]
           - 2006年9月6日発売 LACA-5551 35曲目
           - なお実際の劇中では、時間の都合上途中を省いて歌っているので、繋がっていないように聞こえる箇所がある。
 
@@ -126,15 +126,15 @@
 
 :; 「乙女の祈り」（第6話、第17話、第20話）
 
-:: 作曲 - [バダジェフスカ](https://ja.wikipedia.org/wiki/テクラ・バダジェフスカ "wikilink")
+:: 作曲 - [バダジェフスカ](../Page/テクラ・バダジェフスカ.md "wikilink")
 
 ::\* ただし、第20話は第17話の回想部分としての使用のみ 。
 
-:; 「[子供の情景](https://ja.wikipedia.org/wiki/子供の情景 "wikilink")」よりトロイメライ」（第12話、第13話）
+:; 「[子供の情景](../Page/子供の情景.md "wikilink")」よりトロイメライ」（第12話、第13話）
 
 :: 作曲 - [シューマン](../Page/ロベルト・シューマン.md "wikilink")
 
-:\* この他、劇伴曲として使用されている訳ではないが、「[カルメン](../Page/カルメン_\(オペラ\).md "wikilink")」（原作：[メリメ](https://ja.wikipedia.org/wiki/プロスペル・メリメ "wikilink")、作曲：[ビゼー](https://ja.wikipedia.org/wiki/ジョルジュ・ビゼー "wikilink")）が第15・16話において三校合同文化祭の演目（[劇中劇](https://ja.wikipedia.org/wiki/劇中劇 "wikilink")。脚本・脚色：涼水玉青）となっている。
+:\* この他、劇伴曲として使用されている訳ではないが、「[カルメン](../Page/カルメン_\(オペラ\).md "wikilink")」（原作：[メリメ](../Page/プロスペル・メリメ.md "wikilink")、作曲：[ビゼー](../Page/ジョルジュ・ビゼー.md "wikilink")）が第15・16話において三校合同文化祭の演目（[劇中劇](../Page/劇中劇.md "wikilink")。脚本・脚色：涼水玉青）となっている。
 
   - サウンドトラック
 
@@ -164,8 +164,8 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>櫻の丘</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/浦畑達彦" title="wikilink">浦畑達彦</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/迫井政行" title="wikilink">迫井政行</a></p></td>
+<td><p><a href="../Page/浦畑達彦.md" title="wikilink">浦畑達彦</a></p></td>
+<td><p><a href="../Page/迫井政行.md" title="wikilink">迫井政行</a></p></td>
 <td><p>布川真英</p></td>
 <td><p>広田知子<br />
 Lee Si Min</p></td>
@@ -173,7 +173,7 @@ Lee Si Min</p></td>
 <tr class="even">
 <td><p>2</p></td>
 <td><p>エトワール</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/高屋敷英夫" title="wikilink">高屋敷英夫</a></p></td>
+<td><p><a href="../Page/高屋敷英夫.md" title="wikilink">高屋敷英夫</a></p></td>
 <td><p>森田浩光</p></td>
 <td><p>川尻祥大</p></td>
 <td><p>Ko Kyung Nam</p></td>
@@ -218,7 +218,7 @@ Lee Si Min</p></td>
 <td><p>ふでやすかずゆき</p></td>
 <td><p>岡崎幸男</p></td>
 <td><p>Lee Si Min<br />
-<a href="https://ja.wikipedia.org/wiki/沼田誠也" title="wikilink">沼田誠也</a></p></td>
+<a href="../Page/沼田誠也.md" title="wikilink">沼田誠也</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -287,7 +287,7 @@ Jang Min Ho</p></td>
 <td><p>ヒロイン</p></td>
 <td><p>高屋敷英夫</p></td>
 <td><p>高橋丈夫</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/谷田部勝義" title="wikilink">谷田部勝義</a></p></td>
+<td><p><a href="../Page/谷田部勝義.md" title="wikilink">谷田部勝義</a></p></td>
 <td><p>赤尾良太郎</p></td>
 </tr>
 <tr class="even">
@@ -383,7 +383,7 @@ Lee Si Min</p></td>
 <td><p>迫井政行</p></td>
 <td><p>Lee Si Min<br />
 小堺能夫<br />
-<a href="https://ja.wikipedia.org/wiki/坂井久太" title="wikilink">坂井久太</a></p></td>
+<a href="../Page/坂井久太.md" title="wikilink">坂井久太</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -391,14 +391,14 @@ Lee Si Min</p></td>
 
 ## 放送局
 
-| 放送地域                                                  | 放送局                                                             | 放送期間                                                                                                                                                | 放送日時                                                    | 放送系列                                                             | 備考       |
-| ----------------------------------------------------- | --------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | ---------------------------------------------------------------- | -------- |
-| [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink") | [tvk](../Page/テレビ神奈川.md "wikilink")                             | [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink") - [9月25日](../Page/9月25日.md "wikilink") | 月曜 26:45 - 27:15                                        | [独立UHF局](../Page/全国独立放送協議会.md "wikilink")                        |          |
-| [千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")   | [チバテレビ](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink")       | 2006年[4月6日](../Page/4月6日.md "wikilink") - [9月28日](../Page/9月28日.md "wikilink")                                                                      | 木曜 25:55 - 26:25                                        |                                                                  |          |
-| [埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")   | [テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")           | 2006年[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink") - [9月30日](../Page/9月30日.md "wikilink")                                                   | 土曜 25:30 - 26:00                                        |                                                                  |          |
-| [大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")   | [テレビ大阪](../Page/テレビ大阪.md "wikilink")                            | 土曜 26:50 - 27:20                                                                                                                                    | [テレビ東京系列](https://ja.wikipedia.org/wiki/TXN "wikilink") |                                                                  |          |
-| [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")   | [テレビ愛知](../Page/テレビ愛知.md "wikilink")                            | 2006年[4月10日](../Page/4月10日.md "wikilink") - [10月2日](../Page/10月2日.md "wikilink")                                                                    | 月曜 26:43 - 27:13                                        |                                                                  |          |
-| [日本全域](../Page/全国放送.md "wikilink")                    | [キッズステーション](https://ja.wikipedia.org/wiki/キッズステーション "wikilink") | 2006年[4月11日](../Page/4月11日.md "wikilink") - [10月3日](../Page/10月3日.md "wikilink")                                                                    | 火曜 24:00 - 24:30                                        | [CS放送](https://ja.wikipedia.org/wiki/日本における衛星放送#CS放送 "wikilink") | リピート放送あり |
+| 放送地域                                                  | 放送局                                                   | 放送期間                                                                                                          | 放送日時                                                    | 放送系列                                                             | 備考       |
+| ----------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | ---------------------------------------------------------------- | -------- |
+| [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink") | [tvk](../Page/テレビ神奈川.md "wikilink")                   | [2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink") - [9月25日](../Page/9月25日.md "wikilink") | 月曜 26:45 - 27:15                                        | [独立UHF局](../Page/全国独立放送協議会.md "wikilink")                        |          |
+| [千葉県](../Page/千葉県.md "wikilink")                      | [チバテレビ](../Page/千葉テレビ放送.md "wikilink")                | 2006年[4月6日](../Page/4月6日.md "wikilink") - [9月28日](../Page/9月28日.md "wikilink")                                | 木曜 25:55 - 26:25                                        |                                                                  |          |
+| [埼玉県](../Page/埼玉県.md "wikilink")                      | [テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink") | 2006年[4月8日](../Page/4月8日.md "wikilink") - [9月30日](../Page/9月30日.md "wikilink")                                | 土曜 25:30 - 26:00                                        |                                                                  |          |
+| [大阪府](../Page/大阪府.md "wikilink")                      | [テレビ大阪](../Page/テレビ大阪.md "wikilink")                  | 土曜 26:50 - 27:20                                                                                              | [テレビ東京系列](https://ja.wikipedia.org/wiki/TXN "wikilink") |                                                                  |          |
+| [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")   | [テレビ愛知](../Page/テレビ愛知.md "wikilink")                  | 2006年[4月10日](../Page/4月10日.md "wikilink") - [10月2日](../Page/10月2日.md "wikilink")                              | 月曜 26:43 - 27:13                                        |                                                                  |          |
+| [日本全域](../Page/全国放送.md "wikilink")                    | [キッズステーション](../Page/キッズステーション.md "wikilink")          | 2006年[4月11日](../Page/4月11日.md "wikilink") - [10月3日](../Page/10月3日.md "wikilink")                              | 火曜 24:00 - 24:30                                        | [CS放送](https://ja.wikipedia.org/wiki/日本における衛星放送#CS放送 "wikilink") | リピート放送あり |
 
 ## DVD
 
@@ -449,9 +449,9 @@ Lee Si Min</p></td>
 
 ## 関連項目
 
-  - [Strawberry Panic\!](https://ja.wikipedia.org/wiki/Strawberry_Panic! "wikilink")
-  - [Strawberry Panic\!の登場人物](https://ja.wikipedia.org/wiki/Strawberry_Panic!の登場人物 "wikilink")
-  - [百合 (ジャンル)](https://ja.wikipedia.org/wiki/百合_\(ジャンル\) "wikilink")
+  - [Strawberry Panic\!](../Page/Strawberry_Panic!.md "wikilink")
+  - [Strawberry Panic\!の登場人物](../Page/Strawberry_Panic!の登場人物.md "wikilink")
+  - [百合 (ジャンル)](../Page/百合_\(ジャンル\).md "wikilink")
   - [レズビアン](../Page/レズビアン.md "wikilink")
 
 ## 外部リンク

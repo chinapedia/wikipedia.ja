@@ -7,15 +7,15 @@
 
 NAVITIMEは、様々な移動手段を組み合わせて最適な経路を探すことのできる経路探索エンジンを特徴とする。
 
-携帯電話向けには、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")、[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")、[ワイモバイル](../Page/ワイモバイル.md "wikilink")に提供中で、[KDDI](../Page/KDDI.md "wikilink")の[EZナビウォーク](https://ja.wikipedia.org/wiki/EZナビウォーク "wikilink")のエンジンとしても利用されている。PC、アクトビラ（テレビインターネット)、携帯電話向けのサービスと、履歴や登録情報を共有できることが特徴となっている。主な機能は有料である。
+携帯電話向けには、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")、[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")、[ワイモバイル](../Page/ワイモバイル.md "wikilink")に提供中で、[KDDI](../Page/KDDI.md "wikilink")の[EZナビウォーク](../Page/EZナビウォーク.md "wikilink")のエンジンとしても利用されている。PC、アクトビラ（テレビインターネット)、携帯電話向けのサービスと、履歴や登録情報を共有できることが特徴となっている。主な機能は有料である。
 
-[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")用のサービスも提供されている。[Windows Mobileや](https://ja.wikipedia.org/wiki/Windows_Mobile "wikilink")[BlackBerry](https://ja.wikipedia.org/wiki/BlackBerry "wikilink")向けのサービスも提供している。[2009年](../Page/2009年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")には[Android](https://ja.wikipedia.org/wiki/Android "wikilink")（当初は[HT-03A](https://ja.wikipedia.org/wiki/HT-03A "wikilink")）向けアプリの提供を開始している。
+[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")用のサービスも提供されている。[Windows Mobileや](../Page/Windows_Mobile.md "wikilink")[BlackBerry](../Page/BlackBerry.md "wikilink")向けのサービスも提供している。[2009年](../Page/2009年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")には[Android](../Page/Android.md "wikilink")（当初は[HT-03A](https://ja.wikipedia.org/wiki/HT-03A "wikilink")）向けアプリの提供を開始している。
 
 CMでは、[イアン・ムーア](https://ja.wikipedia.org/wiki/イアン・ムーア "wikilink")を起用。
 
 ## 成り立ち
 
-[2000年](../Page/2000年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に[大西熱学](https://ja.wikipedia.org/wiki/大西熱学 "wikilink")の社内ベンチャーから独立し、ナビタイムジャパンが設立された。同社社長の[大西啓介](https://ja.wikipedia.org/wiki/大西啓介 "wikilink")が学生時代から研究していた最適経路探索システムを商品化したものである。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")に[グッドデザイン賞](https://ja.wikipedia.org/wiki/グッドデザイン賞 "wikilink")を受賞。
+[2000年](../Page/2000年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に[大西熱学](https://ja.wikipedia.org/wiki/大西熱学 "wikilink")の社内ベンチャーから独立し、ナビタイムジャパンが設立された。同社社長の[大西啓介](https://ja.wikipedia.org/wiki/大西啓介 "wikilink")が学生時代から研究していた最適経路探索システムを商品化したものである。[2007年](../Page/2007年.md "wikilink")に[グッドデザイン賞](https://ja.wikipedia.org/wiki/グッドデザイン賞 "wikilink")を受賞。
 
 ## 機能
 

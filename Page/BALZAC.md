@@ -5,27 +5,27 @@
 
 ## 概要
 
-1992年、京都でHIROSUKE（ヴォーカル）を中心に結成。前身バンドASTRO ZOMBIESから、そのスタイルはアメリカの伝説的[パンク・ロック](../Page/パンク・ロック.md "wikilink")・バンド、[ミスフィッツ](https://ja.wikipedia.org/wiki/ミスフィッツ "wikilink")の独特なホラーロックサウンド、そしてデビロックと言われる独特のヘアスタイルを本格的に継承した[ホラー映画](../Page/ホラー映画.md "wikilink")のイメージコンセプトを更に追求した[ホラーパンク](https://ja.wikipedia.org/wiki/ホラーパンク "wikilink")バンドとして結成。
+1992年、京都でHIROSUKE（ヴォーカル）を中心に結成。前身バンドASTRO ZOMBIESから、そのスタイルはアメリカの伝説的[パンク・ロック](../Page/パンク・ロック.md "wikilink")・バンド、[ミスフィッツ](../Page/ミスフィッツ.md "wikilink")の独特なホラーロックサウンド、そしてデビロックと言われる独特のヘアスタイルを本格的に継承した[ホラー映画](../Page/ホラー映画.md "wikilink")のイメージコンセプトを更に追求した[ホラーパンク](https://ja.wikipedia.org/wiki/ホラーパンク "wikilink")バンドとして結成。
 
 1993年、ギターに現メンバーのATSUSHIの加入を機に精力的なライブ活動を開始。地元京都、大阪を中心にライブ活動を行う。
 
-1995年10月31日ハロウィンに、ファーストアルバム『THE LAST MEN ON EARTH』を大阪の[インディーズレーベル](https://ja.wikipedia.org/wiki/インディーズレーベル "wikilink")の[アルケミーレコード](https://ja.wikipedia.org/wiki/アルケミーレコード "wikilink")より発売。
+1995年10月31日ハロウィンに、ファーストアルバム『THE LAST MEN ON EARTH』を大阪の[インディーズレーベル](https://ja.wikipedia.org/wiki/インディーズレーベル "wikilink")の[アルケミーレコード](../Page/アルケミーレコード.md "wikilink")より発売。
 
 1996年には大幅なメンバーチェンジを経て、ベースに現メンバーのAKIOが正式加入。
 
-1997年10月31日ハロウィンに、インディーズレーベル[PHALANX RECORDS](https://ja.wikipedia.org/wiki/PHALANX_RECORDS "wikilink")（現[DIWPHALANX RECORDS](https://ja.wikipedia.org/wiki/DIWPHALANX_RECORDS "wikilink")）に移籍し、セカンドアルバム『DEEP-TEENAGERS FROM OUTER SPACE』をリリース。同年には再結成を果たした[ミスフィッツ](https://ja.wikipedia.org/wiki/ミスフィッツ "wikilink")の初来日公演のオープニングアクトを果たした。
+1997年10月31日ハロウィンに、インディーズレーベル[PHALANX RECORDS](https://ja.wikipedia.org/wiki/PHALANX_RECORDS "wikilink")（現[DIWPHALANX RECORDS](https://ja.wikipedia.org/wiki/DIWPHALANX_RECORDS "wikilink")）に移籍し、セカンドアルバム『DEEP-TEENAGERS FROM OUTER SPACE』をリリース。同年には再結成を果たした[ミスフィッツ](../Page/ミスフィッツ.md "wikilink")の初来日公演のオープニングアクトを果たした。
 
 1998年10月31日ハロウィンにサードアルバム『13 STAIRWAY -THE CHILDREN OF THE NIGHT- 』をリリース。
 
 1999年3月には[SOBUT](https://ja.wikipedia.org/wiki/SOBUT "wikilink")とのスプリットアルバム『OLDEVILS - LEGEND OF BLOOD』をリリースし、カップリング全国ツアーも実施。同年10月31日ハロウィンにはマキシシングル『INTO THE LIGHT OF THE 13 DARK NIGHT』を発売。
 
-2000年1月には再度来日した[ミスフィッツ](https://ja.wikipedia.org/wiki/ミスフィッツ "wikilink")のライブツアーに同行。この時から[ミスフィッツ](https://ja.wikipedia.org/wiki/ミスフィッツ "wikilink")との本格的な交流が開始。また[THE MAD CAPSULE MARKETSと全国ツアーも行うなど精力的な活動を展開](https://ja.wikipedia.org/wiki/THE_MAD_CAPSULE_MARKETS "wikilink")。同年12月、ジャケットを[丸尾末広](../Page/丸尾末広.md "wikilink")が描き下ろした通算4枚目となるアルバム『全能ナル無数ノ眼ハ死ヲ指サス』を発売。
+2000年1月には再度来日した[ミスフィッツ](../Page/ミスフィッツ.md "wikilink")のライブツアーに同行。この時から[ミスフィッツ](../Page/ミスフィッツ.md "wikilink")との本格的な交流が開始。また[THE MAD CAPSULE MARKETSと全国ツアーも行うなど精力的な活動を展開](../Page/THE_MAD_CAPSULE_MARKETS.md "wikilink")。同年12月、ジャケットを[丸尾末広](../Page/丸尾末広.md "wikilink")が描き下ろした通算4枚目となるアルバム『全能ナル無数ノ眼ハ死ヲ指サス』を発売。
 
 2001年秋、新しいドラマーとして現メンバーのTAKAYUKIが正式加入。
 
-2002年1月には[ミスフィッツ](https://ja.wikipedia.org/wiki/ミスフィッツ "wikilink")と3度目の日本ツアー全公演に同行。3月20日には[ミスフィッツ](https://ja.wikipedia.org/wiki/ミスフィッツ "wikilink")とのスプリットシングル作品『MISFITS & BALZAC/DON'T OPEN 'TIL DOOMSDAY』をリリース。この作品はアメリカでも同時発売され、初の海外リリース作となる。4月に発売された通算5枚目のアルバムは、TAKAYUKIが叩く最新アルバムと、1995年に発売され廃盤となっていたファーストアルバムの再録盤が2枚組となった『TERRIFYING\! ART OF DYING-THE LAST MEN ON EARTH II』が発売。また同年10月31日、アメリカ・NEW YORK/[WWE](../Page/WWE.md "wikilink") THE WORLDにおいて、[ミスフィッツ](https://ja.wikipedia.org/wiki/ミスフィッツ "wikilink")主催のハロウィンの特別公演にも出演。
+2002年1月には[ミスフィッツ](../Page/ミスフィッツ.md "wikilink")と3度目の日本ツアー全公演に同行。3月20日には[ミスフィッツ](../Page/ミスフィッツ.md "wikilink")とのスプリットシングル作品『MISFITS & BALZAC/DON'T OPEN 'TIL DOOMSDAY』をリリース。この作品はアメリカでも同時発売され、初の海外リリース作となる。4月に発売された通算5枚目のアルバムは、TAKAYUKIが叩く最新アルバムと、1995年に発売され廃盤となっていたファーストアルバムの再録盤が2枚組となった『TERRIFYING\! ART OF DYING-THE LAST MEN ON EARTH II』が発売。また同年10月31日、アメリカ・NEW YORK/[WWE](../Page/WWE.md "wikilink") THE WORLDにおいて、[ミスフィッツ](../Page/ミスフィッツ.md "wikilink")主催のハロウィンの特別公演にも出演。
 
-2003年8月にはアメリカにおいて単独作として初のベスト盤アルバム『BEYOND THE DARKNESS』を、[MISFITS RECORDS](https://ja.wikipedia.org/wiki/MISFITS_RECORDS "wikilink")/[RYCO DISCよりリリース](https://ja.wikipedia.org/wiki/RYCO_DISC "wikilink")。それに伴い、[ミスフィッツ](https://ja.wikipedia.org/wiki/ミスフィッツ "wikilink")、[ダムド](../Page/ダムド.md "wikilink")、[アグノスティック・フロント](https://ja.wikipedia.org/wiki/アグノスティック・フロント "wikilink")らと1ヶ月に渡る全米24箇所のアメリカツアーに参加。同年9月にはヨーロッパでの第1弾作品として、ドイツの[インディーズレーベル](https://ja.wikipedia.org/wiki/インディーズレーベル "wikilink")、[G-FORCE RECORDSよりベスト盤アルバム](https://ja.wikipedia.org/wiki/G-FORCE_RECORDS "wikilink")『OUT OF THE LIGHT OF THE 13 DARK NIGHT』をリリース。同年発表した通算6枚目のフルアルバム『CAME OUT OF THE GRAVE』はヨーロッパ盤、アメリカ盤として海外でもリリース。
+2003年8月にはアメリカにおいて単独作として初のベスト盤アルバム『BEYOND THE DARKNESS』を、[MISFITS RECORDS](https://ja.wikipedia.org/wiki/MISFITS_RECORDS "wikilink")/[RYCO DISCよりリリース](https://ja.wikipedia.org/wiki/RYCO_DISC "wikilink")。それに伴い、[ミスフィッツ](../Page/ミスフィッツ.md "wikilink")、[ダムド](../Page/ダムド.md "wikilink")、[アグノスティック・フロント](../Page/アグノスティック・フロント.md "wikilink")らと1ヶ月に渡る全米24箇所のアメリカツアーに参加。同年9月にはヨーロッパでの第1弾作品として、ドイツの[インディーズレーベル](https://ja.wikipedia.org/wiki/インディーズレーベル "wikilink")、[G-FORCE RECORDSよりベスト盤アルバム](https://ja.wikipedia.org/wiki/G-FORCE_RECORDS "wikilink")『OUT OF THE LIGHT OF THE 13 DARK NIGHT』をリリース。同年発表した通算6枚目のフルアルバム『CAME OUT OF THE GRAVE』はヨーロッパ盤、アメリカ盤として海外でもリリース。
 
 2004年5月から6月にかけてドイツ、イギリス、デンマーク、チェコ、オーストリア、スイスを中心に約7週間、33ヶ所に及ぶヨーロッパツアーを行った。
 
@@ -33,7 +33,7 @@
 
 2006年3月には通算7枚目のフルアルバム『DEEP BLUE: CHAOS FROM DARKISM II』をリリース。
 
-2007年3月にはヨーロッパでのレコード会社を[岩神](https://ja.wikipedia.org/wiki/岩神 "wikilink")に移籍し、移籍第一弾作品『PARANOID DREAM OF THE ZODIAC』を発売。また[DIE ÄRZTEのドラマー](https://ja.wikipedia.org/wiki/DIE_ÄRZTE "wikilink")、[BELA B.とのSPLIT](https://ja.wikipedia.org/wiki/BELA_B. "wikilink") CDも同時発売し、ヨーロッパでの活動を更に精力的に展開。同年、3月27日より[ムックとのカップリングツアーをドイツのハンブルク](https://ja.wikipedia.org/wiki/MUCC "wikilink")、ケルン、ミュンヘン、ベルリンで行い、4月1日からは3度目の単独ワンマンヨーロッパツアーを決行した。同年秋にはアメリカでの通算3枚目のアルバム『DEEP BLUE: CHAOS FROM DARKISM』を[MISFITS RECORDSより発売し](https://ja.wikipedia.org/wiki/MISFITS_RECORDS "wikilink")、カナダのトロント、モントリオールと、アメリカのニューヨークを中心とする全7会場の4度目となるアメリカ・イーストサイドツアーを実施。
+2007年3月にはヨーロッパでのレコード会社を[岩神](https://ja.wikipedia.org/wiki/岩神 "wikilink")に移籍し、移籍第一弾作品『PARANOID DREAM OF THE ZODIAC』を発売。また[DIE ÄRZTEのドラマー](https://ja.wikipedia.org/wiki/DIE_ÄRZTE "wikilink")、[BELA B.とのSPLIT](https://ja.wikipedia.org/wiki/BELA_B. "wikilink") CDも同時発売し、ヨーロッパでの活動を更に精力的に展開。同年、3月27日より[ムックとのカップリングツアーをドイツのハンブルク](../Page/MUCC.md "wikilink")、ケルン、ミュンヘン、ベルリンで行い、4月1日からは3度目の単独ワンマンヨーロッパツアーを決行した。同年秋にはアメリカでの通算3枚目のアルバム『DEEP BLUE: CHAOS FROM DARKISM』を[MISFITS RECORDSより発売し](https://ja.wikipedia.org/wiki/MISFITS_RECORDS "wikilink")、カナダのトロント、モントリオールと、アメリカのニューヨークを中心とする全7会場の4度目となるアメリカ・イーストサイドツアーを実施。
 
 2008年3月8日に、トータルタイム4時間に渡るヒストリーDVD『EVIL LEGEND 1』と『EVIL LEGEND 2』を同時発売。4月には8枚目となるフルアルバム『HATRED: DESTRUCTION=CONSTRUCTION』をリリース。このアルバムは7月にヨーロッパでもリリースされ、翌8月にはドイツツアーを決行。そのツアーでは5,000人のパンクが集まるドイツ国内最大級のパンクフェスティバル[ENDLESS SUMMER FESTIVALにも出演を果たした](https://ja.wikipedia.org/wiki/ENDLESS_SUMMER_FESTIVAL "wikilink")。 2008年12月、1992年から1993年にかけて自主制作されたデモテープに収録されている曲を現メンバーで再現し、CD化した『THE BIRTH OF EVIL』をリリースし（限定でオリジナルと同じカセットテープ仕様でも発売）、同時に8枚目のアルバム『HATRED: DESTRUCTION=CONSTRUCTION』に収録されている全曲のMUSIC VIDEO集と、8月に行ったドイツツアーのドキュメンタリー映像が同時収録されたDVDをリリース。
 
@@ -197,12 +197,12 @@
 ## 関連項目
 
   - [GLAY](../Page/GLAY.md "wikilink")
-  - [THE MAD CAPSULE MARKETS](https://ja.wikipedia.org/wiki/THE_MAD_CAPSULE_MARKETS "wikilink")
-  - [OSC-DIS](https://ja.wikipedia.org/wiki/OSC-DIS "wikilink")
-  - [ミスフィッツ](https://ja.wikipedia.org/wiki/ミスフィッツ "wikilink")
-  - [BUCK-TICK](https://ja.wikipedia.org/wiki/BUCK-TICK "wikilink")
-  - [Dir en grey](https://ja.wikipedia.org/wiki/DIR_EN_GREY "wikilink")
-  - [日本のパンク・ロック](https://ja.wikipedia.org/wiki/日本のパンク・ロック "wikilink")
+  - [THE MAD CAPSULE MARKETS](../Page/THE_MAD_CAPSULE_MARKETS.md "wikilink")
+  - [OSC-DIS](../Page/OSC-DIS.md "wikilink")
+  - [ミスフィッツ](../Page/ミスフィッツ.md "wikilink")
+  - [BUCK-TICK](../Page/BUCK-TICK.md "wikilink")
+  - [Dir en grey](../Page/DIR_EN_GREY.md "wikilink")
+  - [日本のパンク・ロック](../Page/日本のパンク・ロック.md "wikilink")
 
 ## 外部リンク
 

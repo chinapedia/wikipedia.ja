@@ -1,13 +1,13 @@
 > この記事は[GAME JOCKEY2](https://ja.wikipedia.org/wiki/GAME_JOCKEY2)から翻訳されています。
 
 
-『**GAME JOCKEYII**』（ゲームジョッキー2、ゲームジョッキーツー）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink")から[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[6月28日](../Page/6月28日.md "wikilink")まで[BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")で放送された[テレビゲーム情報番組である](https://ja.wikipedia.org/wiki/ゲーム番組 "wikilink")。タイトルロゴは『*GAME JOCKEYII*』。
+『**GAME JOCKEYII**』（ゲームジョッキー2、ゲームジョッキーツー）は、[2005年](../Page/2005年.md "wikilink")[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink")から[2007年](../Page/2007年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink")まで[BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")で放送された[テレビゲーム情報番組である](../Page/ゲーム番組.md "wikilink")。タイトルロゴは『*GAME JOCKEYII*』。
 
 ## 概要
 
-[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")深夜ローカルで放送されていた『[GAME JOCKEY](https://ja.wikipedia.org/wiki/GAME_JOCKEY "wikilink")』がBSジャパンへ移動する形で放送開始。既存のハード対応のソフトや次世代機対応ソフトなどテレビゲームに関する様々な情報を紹介していたが、編成上の都合を理由に2007年6月28日の放送分をもって終了した。
+[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")深夜ローカルで放送されていた『[GAME JOCKEY](../Page/GAME_JOCKEY.md "wikilink")』がBSジャパンへ移動する形で放送開始。既存のハード対応のソフトや次世代機対応ソフトなどテレビゲームに関する様々な情報を紹介していたが、編成上の都合を理由に2007年6月28日の放送分をもって終了した。
 
-テレビ東京系列での後継番組は作られなかったため、1986年4月6日スタートの『[ファミっ子大作戦](https://ja.wikipedia.org/wiki/ファミっ子大作戦 "wikilink")』から約21年3か月間続いた[アルファ放送](https://ja.wikipedia.org/wiki/アルファ放送 "wikilink")制作のゲーム番組シリーズはこの番組の終了をもって幕を閉じた。
+テレビ東京系列での後継番組は作られなかったため、1986年4月6日スタートの『[ファミっ子大作戦](../Page/ファミっ子大作戦.md "wikilink")』から約21年3か月間続いた[アルファ放送](https://ja.wikipedia.org/wiki/アルファ放送 "wikilink")制作のゲーム番組シリーズはこの番組の終了をもって幕を閉じた。
 
 本番組終了後、同一スタッフで[CS放送](https://ja.wikipedia.org/wiki/CS放送 "wikilink")・[テレ朝チャンネル](../Page/テレ朝チャンネル.md "wikilink")にて『[ゲムカシマ](https://ja.wikipedia.org/wiki/ゲムカシマ "wikilink")』が2007年7月から2013年3月まで放送された。
 
@@ -47,7 +47,7 @@
   - [村山誠一郎](https://ja.wikipedia.org/wiki/村山誠一郎 "wikilink")（2007年4月5日初登場）
   - [山本雄士](https://ja.wikipedia.org/wiki/山本雄士 "wikilink")（2007年6月7日など）
   - [大高鉱](https://ja.wikipedia.org/wiki/大高鉱 "wikilink")（2007年6月15日など）
-  - [仁井谷正充](https://ja.wikipedia.org/wiki/仁井谷正充 "wikilink")（2007年6月7日放送分に久々に登場、以降15日、22日、28日と最終回まで登場した）
+  - [仁井谷正充](../Page/仁井谷正充.md "wikilink")（2007年6月7日放送分に久々に登場、以降15日、22日、28日と最終回まで登場した）
 
 ### 鉄人養成講座
 
@@ -80,12 +80,12 @@
 
 ## エンディングテーマ
 
-  - 『[Grow](https://ja.wikipedia.org/wiki/Grow_\(池上ケイの曲\) "wikilink")』 [池上ケイ](https://ja.wikipedia.org/wiki/池上ケイ "wikilink")（2006年・月日不明 - 2007年3月29日）
+  - 『[Grow](https://ja.wikipedia.org/wiki/Grow_\(池上ケイの曲\) "wikilink")』 [池上ケイ](../Page/池上ケイ.md "wikilink")（2006年・月日不明 - 2007年3月29日）
   - 『アンフォゲッタブル』 [メロン記念日](../Page/メロン記念日.md "wikilink")（2007年4月5日 - 6月28日）
 
 ## スタッフ
 
-  - ナレーター：[吉田孝](https://ja.wikipedia.org/wiki/吉田孝_\(声優\) "wikilink")、[堀越真己](https://ja.wikipedia.org/wiki/堀越真己 "wikilink")、[桐井大介](https://ja.wikipedia.org/wiki/桐井大介 "wikilink")
+  - ナレーター：[吉田孝](https://ja.wikipedia.org/wiki/吉田孝_\(声優\) "wikilink")、[堀越真己](../Page/堀越真己.md "wikilink")、[桐井大介](../Page/桐井大介.md "wikilink")
   - 構成：中村貞夫
 
 <!-- end list -->
@@ -101,7 +101,7 @@
 ### スポンサー
 
   - [BANDAI](../Page/バンダイ.md "wikilink")（不明 - 2007年6月28日）
-  - [MILESTONE INC.](https://ja.wikipedia.org/wiki/マイルストーン_\(ゲーム会社\) "wikilink")（2007年5月3日 - 6月28日）
+  - [MILESTONE INC.](../Page/マイルストーン_\(ゲーム会社\).md "wikilink")（2007年5月3日 - 6月28日）
   - [TAITO](https://ja.wikipedia.org/wiki/タイトー "wikilink")（不明 - 2007年4月26日）
 
 ## 局ロゴ
@@ -112,12 +112,12 @@ BSジャパン単独放送のため、通常表示されるロゴマークが常
 
 同じくテレビ東京系で放送されたアルファ放送制作のゲーム番組。
 
-  - [ファミっ子大作戦](https://ja.wikipedia.org/wiki/ファミっ子大作戦 "wikilink")
-  - [ファミっ子大集合](https://ja.wikipedia.org/wiki/ファミっ子大集合 "wikilink")
-  - [Theゲームパワー](https://ja.wikipedia.org/wiki/Theゲームパワー "wikilink")
-  - [ゲーム王国](https://ja.wikipedia.org/wiki/ゲーム王国 "wikilink")
-  - [ゲームEX](https://ja.wikipedia.org/wiki/ゲームEX "wikilink")
-  - [GAME JOCKEY](https://ja.wikipedia.org/wiki/GAME_JOCKEY "wikilink")
+  - [ファミっ子大作戦](../Page/ファミっ子大作戦.md "wikilink")
+  - [ファミっ子大集合](../Page/ファミっ子大集合.md "wikilink")
+  - [Theゲームパワー](../Page/Theゲームパワー.md "wikilink")
+  - [ゲーム王国](../Page/ゲーム王国.md "wikilink")
+  - [ゲームEX](../Page/ゲームEX.md "wikilink")
+  - [GAME JOCKEY](../Page/GAME_JOCKEY.md "wikilink")
 
 ## 外部リンク
 

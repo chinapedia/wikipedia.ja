@@ -3,27 +3,27 @@
 
 **MONO**は、1999年結成した日本・東京の4人組[ポストロック](https://ja.wikipedia.org/wiki/ポストロック "wikilink")/インストゥルメンタル・ロック・バンド。
 
-オーケストラと[シューゲイザー](https://ja.wikipedia.org/wiki/シューゲイザー "wikilink")、ギターノイズを合わせたMONOの楽曲スタイル。
+オーケストラと[シューゲイザー](../Page/シューゲイザー.md "wikilink")、ギターノイズを合わせたMONOの楽曲スタイル。
 
 ## 略歴
 
 ワールドツアーは毎年およそ150本。これまでに海外60カ国以上に渡りツアーを行い、アジアのバンドの中ではMONOが最も多くのツアーを行っている。2009年に25名のオーケストラ編成でのスペシャルショーが、ニューヨーク・ロンドン・メルボルン・東京で行われた。ニューヨークで収録されたオーケストラとのスペシャル・ショーを収録したライブアルバムを含め、現在まで10枚のアルバムをリリースしている。
 
-2018年6月、[ザ・キュアー](https://ja.wikipedia.org/wiki/ザ・キュアー "wikilink")の[ロバート・スミスのキュレーションで](https://ja.wikipedia.org/wiki/ロバート・スミス_\(ミュージシャン\) "wikilink")、ロンドンで開催される「[Meltdown Festival](https://ja.wikipedia.org/wiki/:en:Meltdown_\(festival\) "wikilink")」に、[マイ・ブラッディ・ヴァレンタイン](https://ja.wikipedia.org/wiki/マイ・ブラッディ・ヴァレンタイン "wikilink")、[ナイン・インチ・ネイルズ](https://ja.wikipedia.org/wiki/ナイン・インチ・ネイルズ "wikilink")、[モグワイ](https://ja.wikipedia.org/wiki/モグワイ "wikilink")、[デフトーンズ](https://ja.wikipedia.org/wiki/デフトーンズ "wikilink")等と共にMONOがヘッドライナーとして出演する。\[1\]
+2018年6月、[ザ・キュアー](../Page/ザ・キュアー.md "wikilink")の[ロバート・スミスのキュレーションで](https://ja.wikipedia.org/wiki/ロバート・スミス_\(ミュージシャン\) "wikilink")、ロンドンで開催される「[Meltdown Festival](https://ja.wikipedia.org/wiki/:en:Meltdown_\(festival\) "wikilink")」に、[マイ・ブラッディ・ヴァレンタイン](../Page/マイ・ブラッディ・ヴァレンタイン.md "wikilink")、[ナイン・インチ・ネイルズ](../Page/ナイン・インチ・ネイルズ.md "wikilink")、[モグワイ](../Page/モグワイ.md "wikilink")、[デフトーンズ](https://ja.wikipedia.org/wiki/デフトーンズ "wikilink")等と共にMONOがヘッドライナーとして出演する。\[1\]
 
 ## メンバー
 
 **Takaakira 'Taka' Goto** (ギター) \[1999年 – \]
 
-  - エンドースメント：[Fender](https://ja.wikipedia.org/wiki/フェンダー_\(楽器メーカー\) "wikilink")、Dunlop、Mad Professor、Boss、EarthQuaker Devices、MONO Creators
+  - エンドースメント：[Fender](../Page/フェンダー_\(楽器メーカー\).md "wikilink")、Dunlop、Mad Professor、Boss、EarthQuaker Devices、MONO Creators
 
 **Tamaki** (ベース、ピアノ、グロッケンシュピール、キーボード) \[1999年 – \]
 
-  - エンドースメント：[D'Addario](https://ja.wikipedia.org/wiki/ダダリオ "wikilink")、Dunlop、Mad Professor、Boss、EarthQuaker Devices、MONO Creators
+  - エンドースメント：[D'Addario](../Page/ダダリオ.md "wikilink")、Dunlop、Mad Professor、Boss、EarthQuaker Devices、MONO Creators
 
 **Yoda** (ギター) \[1999年 – \]
 
-  - エンドースメント：[Fender](https://ja.wikipedia.org/wiki/フェンダー_\(楽器メーカー\) "wikilink")、Dunlop、Mad Professor、Boss、EarthQuaker Devices、MONO Creators
+  - エンドースメント：[Fender](../Page/フェンダー_\(楽器メーカー\).md "wikilink")、Dunlop、Mad Professor、Boss、EarthQuaker Devices、MONO Creators
 
 **Dahm** (ドラム) \[2018年 – \]
 
@@ -57,7 +57,7 @@
 <td><p>1st</p></td>
 <td><p>2001年11月11日 2017年1月20日LP版再発</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Under_The_Pipal_Tree" title="wikilink">Under The Pipal Tree</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ツァディク" title="wikilink">ツァディク</a> <a href="https://ja.wikipedia.org/wiki/テンポラリー・レジデンス・リミテッド" title="wikilink">テンポラリー・レジデンス・リミテッド</a> (2017年再発)</p></td>
+<td><p><a href="../Page/ツァディク.md" title="wikilink">ツァディク</a> <a href="https://ja.wikipedia.org/wiki/テンポラリー・レジデンス・リミテッド" title="wikilink">テンポラリー・レジデンス・リミテッド</a> (2017年再発)</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
@@ -148,39 +148,39 @@
 
 ### その他のリリース
 
-| 枚   | リリース日       | タイトル                                                                                                                                    | レーベル               | 詳細                                                                                |
-| --- | ----------- | --------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | --------------------------------------------------------------------------------- |
-| 1st | 2004年2月18日  | [New York Soundtracks](https://ja.wikipedia.org/wiki/New_York_Soundtracks "wikilink")                                                   | テンポラリー・レジデンス・リミテッド | リミックスアルバム                                                                         |
-| 2nd | 2005年12月14日 | [Palmless Prayer/Mass Murder Refrain](https://ja.wikipedia.org/wiki/Palmless_Prayer/Mass_Murder_Refrain "wikilink")                     | テンポラリー・レジデンス・リミテッド | [ワールズ・エンド・ガールフレンド](https://ja.wikipedia.org/wiki/ワールズ・エンド・ガールフレンド "wikilink")との共作 |
-| 3rd | 2015年5月10日  | [The Last Dawn/Rays Of Darkness Tour 2014-2015](https://ja.wikipedia.org/wiki/The_Last_Dawn/Rays_Of_Darkness_Tour_2014-2015 "wikilink") | Pelagic Records    | 写真集＋ライブアルバム                                                                       |
-| 4th | 2017年2月12日  | [Live In Melbourne](https://ja.wikipedia.org/wiki/Live_In_Melbourne "wikilink")                                                         | Forty-4 Records    | 会場限定ライブアルバム                                                                       |
+| 枚   | リリース日       | タイトル                                                                                                                                    | レーベル               | 詳細                                                             |
+| --- | ----------- | --------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | -------------------------------------------------------------- |
+| 1st | 2004年2月18日  | [New York Soundtracks](https://ja.wikipedia.org/wiki/New_York_Soundtracks "wikilink")                                                   | テンポラリー・レジデンス・リミテッド | リミックスアルバム                                                      |
+| 2nd | 2005年12月14日 | [Palmless Prayer/Mass Murder Refrain](https://ja.wikipedia.org/wiki/Palmless_Prayer/Mass_Murder_Refrain "wikilink")                     | テンポラリー・レジデンス・リミテッド | [ワールズ・エンド・ガールフレンド](../Page/ワールズ・エンド・ガールフレンド.md "wikilink")との共作 |
+| 3rd | 2015年5月10日  | [The Last Dawn/Rays Of Darkness Tour 2014-2015](https://ja.wikipedia.org/wiki/The_Last_Dawn/Rays_Of_Darkness_Tour_2014-2015 "wikilink") | Pelagic Records    | 写真集＋ライブアルバム                                                    |
+| 4th | 2017年2月12日  | [Live In Melbourne](https://ja.wikipedia.org/wiki/Live_In_Melbourne "wikilink")                                                         | Forty-4 Records    | 会場限定ライブアルバム                                                    |
 
 ### サウンドトラック
 
-| 年    | 作品                                                                                    | 詳細                                                                              | 原作/監督/製作者                                               | 賞                                                            |
-| ---- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------ |
-| 2007 | Snow Angels                                                                           | 長編映画                                                                            | 監督: デヴィッド・ゴードン・グリーン                                     |                                                              |
-| 2008 | 神の子どもたちはみな踊る                                                                          | 長編映画                                                                            | 原作: 村上春樹、監督: ロバート・ログバル                                  |                                                              |
-| 2013 | [かなたの子](https://ja.wikipedia.org/wiki/かなたの子 "wikilink")                               | WOWOW TV オリジナルドラマ                                                               | 監督: 大森立嗣                                                |                                                              |
-| 2014 | Wildlike                                                                              | 短編映画                                                                            | 原作 & 監督: フランク・ホール・グリーン                                  |                                                              |
-| 2015 | Where We Begin                                                                        | 短編映画                                                                            | 原作 & 監督: 宮崎光代                                           | Marshall Hawkins Best Musical Score受賞                        |
-| 2015 | [リアル鬼ごっこ](https://ja.wikipedia.org/wiki/リアル鬼ごっこ "wikilink")                           | 長編映画                                                                            | 監督: [園子温](https://ja.wikipedia.org/wiki/園子温 "wikilink") |                                                              |
-| 2016 | [レイ・ドノヴァン ザ・フィクサー](https://ja.wikipedia.org/wiki/レイ・ドノヴァン_ザ・フィクサー "wikilink"): Ep 406 | 『[ショウタイム](https://ja.wikipedia.org/wiki/ショウタイム_\(テレビ局\) "wikilink")』オリジナルTVシリーズ | 製作者: アン・ビダーマン                                           |                                                              |
-| 2016 | The 4th Company                                                                       | 長編映画                                                                            | 監督: Mitzi Vanessa Arreola, Amir Galván Carvera          | [アリエル賞](https://ja.wikipedia.org/wiki/アリエル賞 "wikilink")ノミネート |
+| 年    | 作品                                                                                    | 詳細                                                                              | 原作/監督/製作者                                      | 賞                                                            |
+| ---- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------ |
+| 2007 | Snow Angels                                                                           | 長編映画                                                                            | 監督: デヴィッド・ゴードン・グリーン                            |                                                              |
+| 2008 | 神の子どもたちはみな踊る                                                                          | 長編映画                                                                            | 原作: 村上春樹、監督: ロバート・ログバル                         |                                                              |
+| 2013 | [かなたの子](https://ja.wikipedia.org/wiki/かなたの子 "wikilink")                               | WOWOW TV オリジナルドラマ                                                               | 監督: 大森立嗣                                       |                                                              |
+| 2014 | Wildlike                                                                              | 短編映画                                                                            | 原作 & 監督: フランク・ホール・グリーン                         |                                                              |
+| 2015 | Where We Begin                                                                        | 短編映画                                                                            | 原作 & 監督: 宮崎光代                                  | Marshall Hawkins Best Musical Score受賞                        |
+| 2015 | [リアル鬼ごっこ](../Page/リアル鬼ごっこ.md "wikilink")                                              | 長編映画                                                                            | 監督: [園子温](../Page/園子温.md "wikilink")           |                                                              |
+| 2016 | [レイ・ドノヴァン ザ・フィクサー](https://ja.wikipedia.org/wiki/レイ・ドノヴァン_ザ・フィクサー "wikilink"): Ep 406 | 『[ショウタイム](https://ja.wikipedia.org/wiki/ショウタイム_\(テレビ局\) "wikilink")』オリジナルTVシリーズ | 製作者: アン・ビダーマン                                  |                                                              |
+| 2016 | The 4th Company                                                                       | 長編映画                                                                            | 監督: Mitzi Vanessa Arreola, Amir Galván Carvera | [アリエル賞](https://ja.wikipedia.org/wiki/アリエル賞 "wikilink")ノミネート |
 
 ## オフィシャルビデオ
 
-| 年    | 作品                                | 詳細        | 作成者                                                              | リンク                                                                                           |
-| ---- | --------------------------------- | --------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| 2009 | Follow The Map                    | ミュージックビデオ | Dimtri Galuret                                                   | [YouTube](https://www.youtube.com/watch?v=VKjf_vEpp-Y)                                        |
-| 2012 | Legend: A Journey Through Iceland | ミュージックビデオ | Evosia Studios                                                   | [YouTube](https://www.youtube.com/watch?v=usHC-O1BPCM)                                        |
-| 2013 | Dream Odyssey                     | ミュージックビデオ | 坂本剛一                                                             | [YouTube](https://www.youtube.com/watch?v=D4cAD8sJ6Gc)                                        |
-| 2014 | Rays of Darkness/The Last Dawn    | CM        | [森本晃司](https://ja.wikipedia.org/wiki/森本晃司_\(アニメーター\) "wikilink") | [YouTube](https://www.youtube.com/watch?v=s11DRPtqJpw) / [Vimeo](https://vimeo.com/107214736) |
-| 2014 | Where We Begin                    | ミュージックビデオ | 宮崎光代                                                             | [YouTube](https://www.youtube.com/watch?v=TQ7lO921pYo) / [Vimeo](https://vimeo.com/115383125) |
-| 2016 | Requiem For Hell                  | ミュージックビデオ | Harri Haataja                                                    | [YouTube](https://www.youtube.com/watch?v=FlM4QWlvDzo) / [Vimeo](https://vimeo.com/184254259) |
-| 2016 | Journey Through Hell              | ドキュメンタリー  | Ogino Design                                                     | [YouTube](https://www.youtube.com/watch?v=DA4OxDMflaA) / [Vimeo](https://vimeo.com/195407088) |
-| 2018 | After You Comes The Flood         | 短編映画      | Julien Levy                                                      | [YouTube](https://www.youtube.com/watch?v=Lm9Yqv3lJuE) / [Vimeo](https://vimeo.com/291425881) |
-| 2018 | Breathe                           | ミュージックビデオ | Julien Levy                                                      | [YouTube](https://www.youtube.com/watch?v=GhYGWNMSS-Q)                                        |
+| 年    | 作品                                | 詳細        | 作成者                                           | リンク                                                                                           |
+| ---- | --------------------------------- | --------- | --------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| 2009 | Follow The Map                    | ミュージックビデオ | Dimtri Galuret                                | [YouTube](https://www.youtube.com/watch?v=VKjf_vEpp-Y)                                        |
+| 2012 | Legend: A Journey Through Iceland | ミュージックビデオ | Evosia Studios                                | [YouTube](https://www.youtube.com/watch?v=usHC-O1BPCM)                                        |
+| 2013 | Dream Odyssey                     | ミュージックビデオ | 坂本剛一                                          | [YouTube](https://www.youtube.com/watch?v=D4cAD8sJ6Gc)                                        |
+| 2014 | Rays of Darkness/The Last Dawn    | CM        | [森本晃司](../Page/森本晃司_\(アニメーター\).md "wikilink") | [YouTube](https://www.youtube.com/watch?v=s11DRPtqJpw) / [Vimeo](https://vimeo.com/107214736) |
+| 2014 | Where We Begin                    | ミュージックビデオ | 宮崎光代                                          | [YouTube](https://www.youtube.com/watch?v=TQ7lO921pYo) / [Vimeo](https://vimeo.com/115383125) |
+| 2016 | Requiem For Hell                  | ミュージックビデオ | Harri Haataja                                 | [YouTube](https://www.youtube.com/watch?v=FlM4QWlvDzo) / [Vimeo](https://vimeo.com/184254259) |
+| 2016 | Journey Through Hell              | ドキュメンタリー  | Ogino Design                                  | [YouTube](https://www.youtube.com/watch?v=DA4OxDMflaA) / [Vimeo](https://vimeo.com/195407088) |
+| 2018 | After You Comes The Flood         | 短編映画      | Julien Levy                                   | [YouTube](https://www.youtube.com/watch?v=Lm9Yqv3lJuE) / [Vimeo](https://vimeo.com/291425881) |
+| 2018 | Breathe                           | ミュージックビデオ | Julien Levy                                   | [YouTube](https://www.youtube.com/watch?v=GhYGWNMSS-Q)                                        |
 
 ## ライブ歴
 

@@ -1,15 +1,15 @@
 > この記事は[MSX](https://ja.wikipedia.org/wiki/MSX)から翻訳されています。
 
 
-『**MSX応援団**』（エム・エス・エックスおうえんだん）とは1987年7月から1988年9月にかけて、[マイクロデザインが編集](https://ja.wikipedia.org/wiki/マイクロマガジン社 "wikilink")・発行、[大陸書房](https://ja.wikipedia.org/wiki/大陸書房 "wikilink")が発売していた[MSX](https://ja.wikipedia.org/wiki/MSX "wikilink")専門の[パソコン雑誌](https://ja.wikipedia.org/wiki/パソコン雑誌 "wikilink")。1988年5月号からMSX OENDANに改名。
+『**MSX応援団**』（エム・エス・エックスおうえんだん）とは1987年7月から1988年9月にかけて、[マイクロデザインが編集](../Page/マイクロマガジン社.md "wikilink")・発行、[大陸書房](../Page/大陸書房.md "wikilink")が発売していた[MSX](https://ja.wikipedia.org/wiki/MSX "wikilink")専門の[パソコン雑誌](../Page/パソコン雑誌.md "wikilink")。1988年5月号からMSX OENDANに改名。
 
 ## 内容
 
-MSX専門誌の中で最後発だったため、先行する『[MSXマガジン](https://ja.wikipedia.org/wiki/MSXマガジン "wikilink")』や『[MSX・FAN](https://ja.wikipedia.org/wiki/MSX・FAN "wikilink")』と差別化を図るべく、特に創刊初期において様々な試みがなされていた。
+MSX専門誌の中で最後発だったため、先行する『[MSXマガジン](../Page/MSXマガジン.md "wikilink")』や『[MSX・FAN](../Page/MSX・FAN.md "wikilink")』と差別化を図るべく、特に創刊初期において様々な試みがなされていた。
 
 代表的なものを上げると
 
-  - 表紙を[雨宮慶太](https://ja.wikipedia.org/wiki/雨宮慶太 "wikilink")が担当
+  - 表紙を[雨宮慶太](../Page/雨宮慶太.md "wikilink")が担当
   - 紙製ボードゲームや擬似ゲームブックなど雑誌内ゲーム
   - MSXを使って構築するIT家電を漫画で提案
   - どの記事・企画にもコミック・イラストを大胆に絡ませる
@@ -22,7 +22,7 @@ MSX専門誌の中で最後発だったため、先行する『[MSXマガジン]
 例を挙げると
 
   - [唐沢なをき](../Page/唐沢なをき.md "wikilink")の漫画（ちなみに当時当人はMSXのことを全く知らずに描いていた）
-  - [大徳哲雄](https://ja.wikipedia.org/wiki/大徳哲雄 "wikilink")による映画批評
+  - [大徳哲雄](../Page/大徳哲雄.md "wikilink")による映画批評
   - 次期MSX規格はどうあるべきかといったMSX業界評論
 
 などである。

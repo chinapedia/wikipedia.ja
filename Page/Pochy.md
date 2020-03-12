@@ -8,9 +8,9 @@
 ## 機能・特徴
 
   - Windows 98/Me/NT/2000/XPに対応する\[2\]。
-  - [レジストリ](../Page/レジストリ.md "wikilink")を使用せずに設定は[INIファイルに記述するため](https://ja.wikipedia.org/wiki/設定ファイル "wikilink")、[USBメモリ等に入れて持ち運び外出先でのメールチェック等が可能](https://ja.wikipedia.org/wiki/USBフラッシュドライブ "wikilink")\[3\]。
+  - [レジストリ](../Page/レジストリ.md "wikilink")を使用せずに設定は[INIファイルに記述するため](../Page/設定ファイル.md "wikilink")、[USBメモリ等に入れて持ち運び外出先でのメールチェック等が可能](../Page/USBフラッシュドライブ.md "wikilink")\[3\]。
   - POP3/SMTP/POP before SMTP/SMTP AUTHに対応\[4\]。[IMAPには未対応](../Page/Internet_Message_Access_Protocol.md "wikilink")。
-  - 暗号化ソフト「[GNU Privacy Guard](https://ja.wikipedia.org/wiki/GNU_Privacy_Guard "wikilink")」を別途インストールすれば、暗号メールの送受信や[APOP](https://ja.wikipedia.org/wiki/APOP "wikilink")によるユーザー認証にも対応可能\[5\]。
+  - 暗号化ソフト「[GNU Privacy Guard](../Page/GNU_Privacy_Guard.md "wikilink")」を別途インストールすれば、暗号メールの送受信や[APOP](https://ja.wikipedia.org/wiki/APOP "wikilink")によるユーザー認証にも対応可能\[5\]。
   - 複数アカウントに対応
   - [HTMLメールに対応していない](https://ja.wikipedia.org/wiki/HTML電子メール "wikilink")。
   - Unicodeで書かれたテキストメールに対応していない。

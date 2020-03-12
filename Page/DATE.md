@@ -5,7 +5,7 @@
 
 ## 解説
 
-テレビアニメ『[シティーハンター2](https://ja.wikipedia.org/wiki/シティーハンター_\(アニメ\) "wikilink")』のエンディングテーマ「[Super Girl](https://ja.wikipedia.org/wiki/SUPER_GIRL_\(岡村靖幸の曲\) "wikilink")」を含む。そのほか「いじわる」「イケナイコトカイ」等を収録している。
+テレビアニメ『[シティーハンター2](../Page/シティーハンター_\(アニメ\).md "wikilink")』のエンディングテーマ「[Super Girl](https://ja.wikipedia.org/wiki/SUPER_GIRL_\(岡村靖幸の曲\) "wikilink")」を含む。そのほか「いじわる」「イケナイコトカイ」等を収録している。
 
 ## 収録曲
 
@@ -15,16 +15,16 @@
         2002年に[flex lifeがカバー](https://ja.wikipedia.org/wiki/flex_life "wikilink")。
 2.  **[Super Girl](https://ja.wikipedia.org/wiki/SUPER_GIRL_\(岡村靖幸の曲\) "wikilink")** (4:45)
       -
-        （作詞・作曲：岡村靖幸 / 編曲：[清水信之](https://ja.wikipedia.org/wiki/清水信之 "wikilink")）
+        （作詞・作曲：岡村靖幸 / 編曲：[清水信之](../Page/清水信之.md "wikilink")）
         6thシングル
-        2007年に[ポアロ](https://ja.wikipedia.org/wiki/ポアロ_\(音楽ユニット\) "wikilink")、2012年に[UNCHAIN](https://ja.wikipedia.org/wiki/UNCHAIN "wikilink")がそれぞれカバー。
+        2007年に[ポアロ](../Page/ポアロ_\(音楽ユニット\).md "wikilink")、2012年に[UNCHAIN](../Page/UNCHAIN.md "wikilink")がそれぞれカバー。
 3.  **生徒会長** (3:57)
       -
-        （作詞・作曲：岡村靖幸 / 編曲：岡村靖幸・[西平彰](https://ja.wikipedia.org/wiki/西平彰 "wikilink")）
+        （作詞・作曲：岡村靖幸 / 編曲：岡村靖幸・[西平彰](../Page/西平彰.md "wikilink")）
 4.  **Lion Heart** (4:31)
       -
         （作詞・作曲：岡村靖幸 / 編曲：清水信之）
-        2002年に[Lyricoがカバー](https://ja.wikipedia.org/wiki/露崎春女 "wikilink")。
+        2002年に[Lyricoがカバー](../Page/露崎春女.md "wikilink")。
 5.  **いじわる** (4:44)
       -
         （作詞・作曲：岡村靖幸 / 編曲：岡村靖幸・西平彰）
@@ -33,7 +33,7 @@
         （作詞・作曲：岡村靖幸 / 編曲：岡村靖幸・横田龍一郎）
 7.  **どうかしてるよ** (4:55)
       -
-        （作詞：[有賀啓雄](https://ja.wikipedia.org/wiki/有賀啓雄 "wikilink") / 作曲：岡村靖幸 / 編曲：有賀啓雄）
+        （作詞：[有賀啓雄](../Page/有賀啓雄.md "wikilink") / 作曲：岡村靖幸 / 編曲：有賀啓雄）
         シングル「SUPER GIRL」のc/w曲。
 8.  **うちあわせ** (3:29)
       -
@@ -45,7 +45,7 @@
       -
         （作詞・作曲：岡村靖幸 / 編曲：岡村靖幸・西平彰）
         5thシングル
-        2000年に[鈴木祥子](https://ja.wikipedia.org/wiki/鈴木祥子 "wikilink")、2002年に[meg](https://ja.wikipedia.org/wiki/MEG "wikilink")、2011年に[MUNEHIROがそれぞれカバー](../Page/鈴木紗理奈.md "wikilink")。
+        2000年に[鈴木祥子](../Page/鈴木祥子.md "wikilink")、2002年に[meg](https://ja.wikipedia.org/wiki/MEG "wikilink")、2011年に[MUNEHIROがそれぞれカバー](../Page/鈴木紗理奈.md "wikilink")。
 11. **19才の秘かな欲望** (4:29)
       -
         （作詞：戸沢暢美 / 作曲・編曲：岡村靖幸）

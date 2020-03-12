@@ -5,7 +5,7 @@
 
 ## 概要
 
-本利用開始日は[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月1日](../Page/7月1日.md "wikilink")（[minapita](https://ja.wikipedia.org/wiki/minapita "wikilink")と同日）。
+本利用開始日は[2006年](../Page/2006年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")（[minapita](https://ja.wikipedia.org/wiki/minapita "wikilink")と同日）。
 
 KANKU CLUBカードを持つ会員は、[関西国際空港](https://ja.wikipedia.org/wiki/関西国際空港 "wikilink")内外で独自のサービスを受けることができるほか、[南海グループカード minapita](../Page/南海グループカード_minapita.md "wikilink")（minapita）のサービスも受けることができる。また[VISAブランドのクレジット機能](../Page/Visa.md "wikilink")、[PiTaPa](../Page/PiTaPa.md "wikilink")対応の[ICカード](../Page/ICカード.md "wikilink")機能も付き、これらは全て一枚のカードに集約されている。
 
@@ -27,7 +27,7 @@ KANKU CLUBカードを持つ会員は、[関西国際空港](https://ja.wikipedi
 
 ### KIX AIRPORT LOUNGE
 
-関西国際空港第1ターミナルビル2階の北側にある、[インターネットカフェ](https://ja.wikipedia.org/wiki/インターネットカフェ "wikilink")形式の設備とサービスを備えた[ラウンジ](https://ja.wikipedia.org/wiki/空港ラウンジ "wikilink")。フリードリンクや有料の軽食・アルコール、雑誌・インターネットなどのサービスが受けられる。オープン席のほか、シングルブースやグループルーム（個室）を設けている。また、シャワールームや[パウダールーム](https://ja.wikipedia.org/wiki/パウダールーム "wikilink")もある。喫煙については、完全分煙のスペースが設けられている。漫画・雑誌などの書籍が充実しているほか、キッズルームが備えられていることなどが特長。
+関西国際空港第1ターミナルビル2階の北側にある、[インターネットカフェ](https://ja.wikipedia.org/wiki/インターネットカフェ "wikilink")形式の設備とサービスを備えた[ラウンジ](../Page/空港ラウンジ.md "wikilink")。フリードリンクや有料の軽食・アルコール、雑誌・インターネットなどのサービスが受けられる。オープン席のほか、シングルブースやグループルーム（個室）を設けている。また、シャワールームや[パウダールーム](https://ja.wikipedia.org/wiki/パウダールーム "wikilink")もある。喫煙については、完全分煙のスペースが設けられている。漫画・雑誌などの書籍が充実しているほか、キッズルームが備えられていることなどが特長。
 
 会員カードを所有していなくても利用できるが、KANKU CLUBカードやKIX-ITMカードを提示すると割引料金で利用できる。
 

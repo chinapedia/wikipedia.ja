@@ -1,7 +1,7 @@
 > この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
 
 
-**楽天イーグルスTV**（らくてんイーグルスティーヴィー）は、[東北楽天ゴールデンイーグルス](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")が[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")にかけて[インターネット](../Page/インターネット.md "wikilink")上で行っていた[プロ野球中継](https://ja.wikipedia.org/wiki/プロ野球中継 "wikilink")、並びに関連番組のウェブサイトである。[楽天](https://ja.wikipedia.org/wiki/楽天 "wikilink")が運営していた。
+**楽天イーグルスTV**（らくてんイーグルスティーヴィー）は、[東北楽天ゴールデンイーグルス](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")が[2005年](../Page/2005年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")にかけて[インターネット](../Page/インターネット.md "wikilink")上で行っていた[プロ野球中継](../Page/プロ野球中継.md "wikilink")、並びに関連番組のウェブサイトである。[楽天](https://ja.wikipedia.org/wiki/楽天 "wikilink")が運営していた。
 
 楽天は、2005年の創設当初からインターネット上での実況中継を行ったが、有料会員制（年会費10万円・先着500人限定）で中継を行ったため、多くのファンはそれを視聴することが出来なかった。そこで、より多くの楽天ファンに試合を楽しんでもらえるようにと、2006年からサイト上に動画広告を入れるなどにより、会費を無料にして（但し、無料の[楽天](https://ja.wikipedia.org/wiki/楽天 "wikilink")会員登録を済ませることが条件）中継を楽しんでもらえるようになった。
 
@@ -40,15 +40,15 @@
 
 ※上記2番組は、一部の試合を除いて[楽天ショッピングチャンネル](https://ja.wikipedia.org/wiki/楽天ティービー "wikilink")（CSテレビ・ケーブルテレビ向け無料放送）とサイマル放送していた。
 
-  - その他東北楽天ゴールデンイーグルスの[キャンプの模様や](../Page/キャンプ_\(日本プロ野球\).md "wikilink")、[オープン戦](../Page/オープン戦.md "wikilink")、公式戦のダイジェスト映像の[ビデオ・オン・デマンド](https://ja.wikipedia.org/wiki/ビデオ・オン・デマンド "wikilink")（VOD）配信
+  - その他東北楽天ゴールデンイーグルスの[キャンプの模様や](../Page/キャンプ_\(日本プロ野球\).md "wikilink")、[オープン戦](../Page/オープン戦.md "wikilink")、公式戦のダイジェスト映像の[ビデオ・オン・デマンド](../Page/ビデオ・オン・デマンド.md "wikilink")（VOD）配信
   - 2007年シーズンから[ビットレートが最大](../Page/ビット毎秒.md "wikilink")512kbpsから759kbpsにUPされ、画質・音質共に向上された。
 
 ## 出演者
 
   - [瓜田華菜子](https://ja.wikipedia.org/wiki/瓜田華菜子 "wikilink")（関連番組[キャスター](../Page/ニュースキャスター.md "wikilink")）
-  - [安部理](https://ja.wikipedia.org/wiki/安部理 "wikilink")（関連番組[コメンテーター](../Page/コメンテーター.md "wikilink")）
-  - [戸叶尚](https://ja.wikipedia.org/wiki/戸叶尚 "wikilink")（関連番組コメンテーター）
-  - [角盈男](https://ja.wikipedia.org/wiki/角盈男 "wikilink")（関連番組コメンテーター）
+  - [安部理](../Page/安部理.md "wikilink")（関連番組[コメンテーター](../Page/コメンテーター.md "wikilink")）
+  - [戸叶尚](../Page/戸叶尚.md "wikilink")（関連番組コメンテーター）
+  - [角盈男](../Page/角盈男.md "wikilink")（関連番組コメンテーター）
   - [安藤美乃理](https://ja.wikipedia.org/wiki/安藤美乃理 "wikilink")（関連番組アシスタント・[レポーター](https://ja.wikipedia.org/wiki/レポーター "wikilink")）
   - [遠藤美和](https://ja.wikipedia.org/wiki/遠藤美和 "wikilink")（同上）
   - [小井戸裕香](https://ja.wikipedia.org/wiki/小井戸裕香 "wikilink")（同上）
@@ -61,7 +61,7 @@
 ### 過去の出演者
 
   - [太田真希](../Page/太田真希.md "wikilink")（関連番組キャスター）
-  - [川尻哲郎](https://ja.wikipedia.org/wiki/川尻哲郎 "wikilink")（関連番組金曜コメンテーター）
+  - [川尻哲郎](../Page/川尻哲郎.md "wikilink")（関連番組金曜コメンテーター）
   - [青柳亜以子](../Page/青柳亜以子.md "wikilink")（関連番組アシスタント・レポーター）
 
 ## 関連項目

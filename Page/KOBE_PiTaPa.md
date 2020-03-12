@@ -5,7 +5,7 @@
 
 ## 概要
 
-[クレジットカード](../Page/クレジットカード.md "wikilink")の機能を有するものは、[三井住友カード](../Page/三井住友カード.md "wikilink")及び[トヨタファイナンス](https://ja.wikipedia.org/wiki/トヨタファイナンス "wikilink")（[TS CUBICカード](https://ja.wikipedia.org/wiki/TS_CUBICカード "wikilink")）がそれぞれ発行し、国際ブランドは前者が[VISA](../Page/Visa.md "wikilink")、後者が[MasterCardである](../Page/マスターカード.md "wikilink")。[カード](../Page/カード.md "wikilink")の[デザイン](../Page/デザイン.md "wikilink")は、[海](../Page/海.md "wikilink")から見た[メリケンパーク](https://ja.wikipedia.org/wiki/メリケンパーク "wikilink")になっている。
+[クレジットカード](../Page/クレジットカード.md "wikilink")の機能を有するものは、[三井住友カード](../Page/三井住友カード.md "wikilink")及び[トヨタファイナンス](../Page/トヨタファイナンス.md "wikilink")（[TS CUBICカード](../Page/TS_CUBICカード.md "wikilink")）がそれぞれ発行し、国際ブランドは前者が[VISA](../Page/Visa.md "wikilink")、後者が[MasterCardである](../Page/マスターカード.md "wikilink")。[カード](../Page/カード.md "wikilink")の[デザイン](../Page/デザイン.md "wikilink")は、[海](../Page/海.md "wikilink")から見た[メリケンパーク](../Page/メリケンパーク.md "wikilink")になっている。
 
 また、[阪急阪神カード](https://ja.wikipedia.org/wiki/阪急阪神カード "wikilink")とポイントサービスで提携したクレジットカードの機能を有していない「KOBE PiTaPa STACIA NCカード」も発行されている。
 

@@ -3,11 +3,11 @@
 
 [KennedyCenterFromAir2.JPG](https://ja.wikipedia.org/wiki/File:KennedyCenterFromAir2.JPG "fig:KennedyCenterFromAir2.JPG") [Kennedy_center_at_night.jpg](https://ja.wikipedia.org/wiki/File:Kennedy_center_at_night.jpg "fig:Kennedy_center_at_night.jpg")
 
-**ジョン・F・ケネディ・センター**（）は、[ワシントンD.C.](../Page/ワシントンD.C..md "wikilink")の[ポトマック川](https://ja.wikipedia.org/wiki/ポトマック川 "wikilink")の畔にある総合文化施設。正式名は「舞台芸術のためのジョン・F・ケネディ・センター（The John F. Kennedy Center for the Performing Arts）」である。建築家[エドワード・ダレル・ストーン](https://ja.wikipedia.org/wiki/エドワード・ダレル・ストーン "wikilink")により設計された。
+**ジョン・F・ケネディ・センター**（）は、[ワシントンD.C.](../Page/ワシントンD.C..md "wikilink")の[ポトマック川](../Page/ポトマック川.md "wikilink")の畔にある総合文化施設。正式名は「舞台芸術のためのジョン・F・ケネディ・センター（The John F. Kennedy Center for the Performing Arts）」である。建築家[エドワード・ダレル・ストーン](../Page/エドワード・ダレル・ストーン.md "wikilink")により設計された。
 
 ## 完成
 
-[1958年](../Page/1958年.md "wikilink")に[アイゼンハワー](../Page/ドワイト・D・アイゼンハワー.md "wikilink")[大統領によって署名された](../Page/アメリカ合衆国大統領.md "wikilink")[国立文化施設法](https://ja.wikipedia.org/wiki/国立文化施設法 "wikilink")を根拠として、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[9月8日](https://ja.wikipedia.org/wiki/9月8日 "wikilink")に[ジョン・F・ケネディ](../Page/ジョン・F・ケネディ.md "wikilink")大統領を記念する施設として落成した。
+[1958年](../Page/1958年.md "wikilink")に[アイゼンハワー](../Page/ドワイト・D・アイゼンハワー.md "wikilink")[大統領によって署名された](../Page/アメリカ合衆国大統領.md "wikilink")[国立文化施設法](https://ja.wikipedia.org/wiki/国立文化施設法 "wikilink")を根拠として、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[9月8日](../Page/9月8日.md "wikilink")に[ジョン・F・ケネディ](../Page/ジョン・F・ケネディ.md "wikilink")大統領を記念する施設として落成した。
 
 ## 特徴
 

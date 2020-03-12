@@ -1,16 +1,16 @@
 > この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
 
 
-[250px](https://ja.wikipedia.org/wiki/ファイル:TachikawaBus_HA-31_A-bus.JPG "wikilink")（ショートボディ）\]\] **Aバス**（エーバス）は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[昭島市](../Page/昭島市.md "wikilink")が運営する[コミュニティバス](../Page/コミュニティバス.md "wikilink")である。[2001年](../Page/2001年.md "wikilink")（[平成](../Page/平成.md "wikilink")13年）12月\[1\]1日開業。
+[250px](https://ja.wikipedia.org/wiki/ファイル:TachikawaBus_HA-31_A-bus.JPG "wikilink")（ショートボディ）\]\] **Aバス**（エーバス）は、[東京都](../Page/東京都.md "wikilink")[昭島市](../Page/昭島市.md "wikilink")が運営する[コミュニティバス](../Page/コミュニティバス.md "wikilink")である。[2001年](../Page/2001年.md "wikilink")（[平成](../Page/平成.md "wikilink")13年）12月\[1\]1日開業。
 
-運行開始時より[立川バス](https://ja.wikipedia.org/wiki/立川バス "wikilink")[拝島営業所に運行委託されてきたが](../Page/立川バス拝島営業所.md "wikilink")\[2\]、[2018年](../Page/2018年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")より[立川バス福生営業所](https://ja.wikipedia.org/wiki/立川バス福生営業所 "wikilink")の開設にともない移管されている。
+運行開始時より[立川バス](../Page/立川バス.md "wikilink")[拝島営業所に運行委託されてきたが](../Page/立川バス拝島営業所.md "wikilink")\[2\]、[2018年](../Page/2018年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")より[立川バス福生営業所](https://ja.wikipedia.org/wiki/立川バス福生営業所 "wikilink")の開設にともない移管されている。
 
 ## 運行内容
 
   - 運賃 - 100円均一、未就学児は無料。
       -
         車内で300円の[一日乗車券](../Page/一日乗車券.md "wikilink")（3ルート共通）、11枚綴り1,000円の[回数券](../Page/回数券.md "wikilink")を発売。
-        定期券の設定はなし。[東京都シルバーパス](https://ja.wikipedia.org/wiki/東京都シルバーパス "wikilink")、[PASMO](../Page/PASMO.md "wikilink")・[Suica](../Page/Suica.md "wikilink")は使用不可。
+        定期券の設定はなし。[東京都シルバーパス](../Page/東京都シルバーパス.md "wikilink")、[PASMO](../Page/PASMO.md "wikilink")・[Suica](../Page/Suica.md "wikilink")は使用不可。
   - 運転日 - 通年運転。
 
 突然の雨の時に助かる置き傘サービスがあり、利用した乗客は次回乗車時に返却する。
@@ -49,14 +49,14 @@
 
   - [日野・ポンチョ](../Page/日野・ポンチョ.md "wikilink")（2代目・ショートボディ）
       -
-        24人乗り[ノンステップバス](https://ja.wikipedia.org/wiki/ノンステップバス "wikilink")
+        24人乗り[ノンステップバス](../Page/ノンステップバス.md "wikilink")
         2008年5月10日の北ルート開業時に導入開始。
 
 ### 過去の車両
 
   - 東ルート・西ルート - [三菱ふそう・ローザ](../Page/三菱ふそう・ローザ.md "wikilink")
       -
-        29人乗り[マイクロバス](https://ja.wikipedia.org/wiki/マイクロバス "wikilink")
+        29人乗り[マイクロバス](../Page/マイクロバス.md "wikilink")
         環境にやさしい[CNG車に改造したもので](../Page/天然ガス自動車.md "wikilink")、車椅子用のリフトが車両後部に装着されており、狭い道でも乗り降り可能にしている。
 
 ## 脚注
@@ -64,7 +64,7 @@
 ## 関連項目
 
   - [昭島市](../Page/昭島市.md "wikilink")
-  - [立川バス](https://ja.wikipedia.org/wiki/立川バス "wikilink")
+  - [立川バス](../Page/立川バス.md "wikilink")
       - [立川バス福生営業所](https://ja.wikipedia.org/wiki/立川バス福生営業所 "wikilink")
   - [コミュニティバス](../Page/コミュニティバス.md "wikilink")
   - [日本のコミュニティバス一覧](../Page/日本のコミュニティバス一覧.md "wikilink")

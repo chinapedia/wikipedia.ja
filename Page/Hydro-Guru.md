@@ -15,7 +15,7 @@
 ### アルバム
 
   - **THE FEROCIOUS SOUND OF HYDRO-GURU** （2002年9月14日、ISCP-1004）
-      - [ユニバーサルIMSからのリリース](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。
+      - [ユニバーサルIMSからのリリース](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
     <!-- end list -->
     1.  The Jump
     2.  Johnny Cake
@@ -33,7 +33,7 @@
     14. Hydro-Boogie
     15. Sitting On Top Of Space
   - **Scatter lile octopus** （2003年12月3日、TKCA-72621）
-      - [徳間ジャパンコミュニケーションズ](https://ja.wikipedia.org/wiki/徳間ジャパンコミュニケーションズ "wikilink")からのリリース。
+      - [徳間ジャパンコミュニケーションズ](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")からのリリース。
     <!-- end list -->
     1.  Drive Fast
     2.  Door

@@ -1,13 +1,13 @@
 > この記事は[Ohana](https://ja.wikipedia.org/wiki/Ohana)から翻訳されています。
 
 
-**ohana**（オハナ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ボーカルユニット](https://ja.wikipedia.org/wiki/ボーカルユニット "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に[コロムビアミュージックエンタテインメントよりCDデビュー](../Page/日本コロムビア.md "wikilink")。バンド名の由来はメンバー3人の名前の頭文字（オオヤの「オ」、原田の「ハ」、永積の「ナ」）と[ハワイ語](https://ja.wikipedia.org/wiki/ハワイ語 "wikilink")で「[家族](../Page/家族.md "wikilink")（[オハナ](https://ja.wikipedia.org/wiki/オハナ "wikilink")）」という意味のダブルミーニングである。 ポラリス、クラムボン、ハナレグミとしてそれぞれ活躍するこの3人は、元はといえば10年来の友人であり、お互いのレコーディングやライブで共演を重ねてきた仲であり、“いつか3人で何かやりたいよね！”との思いを秘めてきた間柄でもある。
+**ohana**（オハナ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ボーカルユニット](https://ja.wikipedia.org/wiki/ボーカルユニット "wikilink")。[2006年](../Page/2006年.md "wikilink")に[コロムビアミュージックエンタテインメントよりCDデビュー](../Page/日本コロムビア.md "wikilink")。バンド名の由来はメンバー3人の名前の頭文字（オオヤの「オ」、原田の「ハ」、永積の「ナ」）と[ハワイ語](../Page/ハワイ語.md "wikilink")で「[家族](../Page/家族.md "wikilink")（[オハナ](https://ja.wikipedia.org/wiki/オハナ "wikilink")）」という意味のダブルミーニングである。 ポラリス、クラムボン、ハナレグミとしてそれぞれ活躍するこの3人は、元はといえば10年来の友人であり、お互いのレコーディングやライブで共演を重ねてきた仲であり、“いつか3人で何かやりたいよね！”との思いを秘めてきた間柄でもある。
 
 ## メンバー
 
-  - オオヤユウスケ（[Polaris](https://ja.wikipedia.org/wiki/Polaris_\(バンド\) "wikilink")）
+  - オオヤユウスケ（[Polaris](../Page/Polaris_\(バンド\).md "wikilink")）
   - [原田郁子](../Page/原田郁子.md "wikilink")（[クラムボン](https://ja.wikipedia.org/wiki/クラムボン_\(バンド\) "wikilink")）
-  - 永積タカシ（[ハナレグミ](../Page/ハナレグミ.md "wikilink") / [SUPER BUTTER DOG](https://ja.wikipedia.org/wiki/SUPER_BUTTER_DOG "wikilink")）
+  - 永積タカシ（[ハナレグミ](../Page/ハナレグミ.md "wikilink") / [SUPER BUTTER DOG](../Page/SUPER_BUTTER_DOG.md "wikilink")）
 
 ## 来歴・概要
 

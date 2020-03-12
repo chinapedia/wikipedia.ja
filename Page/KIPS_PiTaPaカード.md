@@ -5,9 +5,9 @@
 
 ## KIPSクレジットカードの概要
 
-KIPSクレジットカードは、クレジットカード会社が[近鉄グループKIPS参加企業と提携し発行する](https://ja.wikipedia.org/wiki/#近鉄グループKIPS参加企業 "wikilink")[クレジットカードである](https://ja.wikipedia.org/wiki/クレジットカード_\(日本\) "wikilink")。カード名は、「**K**intetsu **I**nternational **P**assport **S**ystem」 の[頭文字](https://ja.wikipedia.org/wiki/頭文字 "wikilink")と、[鉄道](../Page/鉄道.md "wikilink")の[きっぷに由来している](../Page/乗車券.md "wikilink")。同カード会員は、交通・流通・観光など、近鉄グループKIPS参加各社の「**KIPSポイントサービス**」や、割引・優待などの特典が受けられる。
+KIPSクレジットカードは、クレジットカード会社が[近鉄グループKIPS参加企業と提携し発行する](https://ja.wikipedia.org/wiki/#近鉄グループKIPS参加企業 "wikilink")[クレジットカードである](../Page/クレジットカード_\(日本\).md "wikilink")。カード名は、「**K**intetsu **I**nternational **P**assport **S**ystem」 の[頭文字](https://ja.wikipedia.org/wiki/頭文字 "wikilink")と、[鉄道](../Page/鉄道.md "wikilink")の[きっぷに由来している](../Page/乗車券.md "wikilink")。同カード会員は、交通・流通・観光など、近鉄グループKIPS参加各社の「**KIPSポイントサービス**」や、割引・優待などの特典が受けられる。
 
-「KIPS PiTaPaカード」は、下表の各種KIPSクレジットカードとの組み合わせによる、2枚一組での発行となる（KIPS PiTaPaカードの単独発行はできない）。また、2枚同時発行の他に、KIPSクレジットカードを単独で発行した後、別個に申し込むことで、KIPS PiTaPaカードを紐付けすることもできる。ただし、[スーパーICカード KIPS+PiTaPaについては](https://ja.wikipedia.org/wiki/三菱UFJ-VISA "wikilink")、[三菱UFJ銀行](https://ja.wikipedia.org/wiki/三菱UFJ銀行 "wikilink")の[ICキャッシュカード](https://ja.wikipedia.org/wiki/ICキャッシュカード "wikilink")を含めた、一体型カードでの発行となる。
+「KIPS PiTaPaカード」は、下表の各種KIPSクレジットカードとの組み合わせによる、2枚一組での発行となる（KIPS PiTaPaカードの単独発行はできない）。また、2枚同時発行の他に、KIPSクレジットカードを単独で発行した後、別個に申し込むことで、KIPS PiTaPaカードを紐付けすることもできる。ただし、[スーパーICカード KIPS+PiTaPaについては](../Page/三菱UFJ-VISA.md "wikilink")、[三菱UFJ銀行](https://ja.wikipedia.org/wiki/三菱UFJ銀行 "wikilink")の[ICキャッシュカード](https://ja.wikipedia.org/wiki/ICキャッシュカード "wikilink")を含めた、一体型カードでの発行となる。
 
 2011年11月16日より、従来の「**近鉄ポイントプログラム**」に代わる、「**KIPSポイントサービス**」が導入されたことで、カードのデザインも[緑色](https://ja.wikipedia.org/wiki/緑色 "wikilink")を基調とした「（新）KIPSクレジットカード」の発行を開始した（[JMB KIPSカード](../Page/JMB_KIPSカード.md "wikilink")・銀行提携カードについては、カードデザインの変更はされていない）。あわせて同日より、JMB KIPSカードについて、同カードのみの単独発行が可能となった（従来は、KIPS PiTaPaカードとの2枚同時発行が必須であった）。
 
@@ -40,7 +40,7 @@ KIPSクレジットカードの概要は下表の通り。
 <td><p><a href="../Page/三井住友カード.md" title="wikilink">三井住友カード</a></p></td>
 <td><p>（なし）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/VISA" title="wikilink">VISA</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/2月23日" title="wikilink">2月23日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/2月23日" title="wikilink">2月23日</a></p></td>
 <td><p>◎</p></td>
 </tr>
 <tr class="odd">
@@ -70,7 +70,7 @@ KIPSクレジットカードの概要は下表の通り。
 <tr class="even">
 <td><p>KIPS-MUFGカード<br />
 （旧：KIPS-UFJカード）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/三菱UFJニコス" title="wikilink">三菱UFJニコス</a></p></td>
+<td><p><a href="../Page/三菱UFJニコス.md" title="wikilink">三菱UFJニコス</a></p></td>
 <td><p>（なし）</p></td>
 <td><p>MasterCard</p></td>
 <td><p>2006年<a href="../Page/10月27日.md" title="wikilink">10月27日</a></p></td>
@@ -118,7 +118,7 @@ KIPSクレジットカードの概要は下表の通り。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/三菱UFJ-VISA" title="wikilink">ICクレジットカード KIPS</a></p></td>
+<td><p><a href="../Page/三菱UFJ-VISA.md" title="wikilink">ICクレジットカード KIPS</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/三菱UFJ銀行" title="wikilink">三菱UFJ銀行</a></p></td>
 <td><p>カード発行は三菱UFJニコスに委託。<br />
 三菱UFJ銀行の<a href="https://ja.wikipedia.org/wiki/普通預金" title="wikilink">普通預金</a>口座の所持が必須。</p></td>
@@ -136,7 +136,7 @@ KIPSクレジットカードの概要は下表の通り。
 <td><p>◎</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/三菱UFJ-VISA" title="wikilink">スーパーICカード KIPS+PiTaPa</a></p></td>
+<td><p><a href="../Page/三菱UFJ-VISA.md" title="wikilink">スーパーICカード KIPS+PiTaPa</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/三菱UFJ銀行" title="wikilink">三菱UFJ銀行</a></p></td>
 <td><p>カード発行は三菱UFJニコスに委託。<br />
 三菱UFJ銀行の<a href="https://ja.wikipedia.org/wiki/ICキャッシュカード" title="wikilink">ICキャッシュカード</a>・KIPSカード・KIPS PiTaPaカードを一体化。<br />
@@ -170,7 +170,7 @@ KIPSクレジットカードの概要は下表の通り。
 
 2011年5月に[近畿日本鉄道](../Page/近畿日本鉄道.md "wikilink")は、同年11月を目処に、現行のKIPSカードをはじめとする同社グループのクレジットカード・ポイントカードを統合し、グループ各社共通の「KIPSポイントサービス」の付与・利用が可能となる、「（新）KIPSクレジットカード」を導入する予定であることを発表した。そして前述の通り、2011年11月16日より、新カード・サービスが導入された。
 
-一方で、クレジット機能のないカードとして、2012年12月1日に[JR西日本との連携による](https://ja.wikipedia.org/wiki/西日本旅客鉄道 "wikilink")、IC[乗車カード](../Page/乗車カード.md "wikilink")の[ICOCA](../Page/ICOCA.md "wikilink")の機能を加えた「[KIPS ICOCAカード](https://ja.wikipedia.org/wiki/ICOCA#KIPS_ICOCA_カード "wikilink")」の発行を開始し、さらに2013年1月25日には、現金専用のポイントカード「KIPSポイントカード」の発行を開始した。
+一方で、クレジット機能のないカードとして、2012年12月1日に[JR西日本との連携による](../Page/西日本旅客鉄道.md "wikilink")、IC[乗車カード](../Page/乗車カード.md "wikilink")の[ICOCA](../Page/ICOCA.md "wikilink")の機能を加えた「[KIPS ICOCAカード](https://ja.wikipedia.org/wiki/ICOCA#KIPS_ICOCA_カード "wikilink")」の発行を開始し、さらに2013年1月25日には、現金専用のポイントカード「KIPSポイントカード」の発行を開始した。
 
 ## 利用額割引
 
@@ -218,8 +218,8 @@ KIPSクレジットカードの概要は下表の通り。
 ## IC定期券の導入などについて
 
   - 近鉄線における、PiTaPaによるIC定期券の導入については未定である（対応するサービスとして、2009年6月1日より、区間指定割引が導入された）。但し現在でも、分離型カードのKIPS PiTaPaカードに他社のPiTaPa定期券機能を付加することは可能である（スーパーICカード KIPS+PiTaPaを除く）。
-  - 近鉄は[JR](../Page/JR.md "wikilink")との乗換駅が多く、[鶴橋駅](https://ja.wikipedia.org/wiki/鶴橋駅 "wikilink")など乗換客の多い駅もあり、これまでも近鉄・JR間の磁気式連絡定期券は発行されているが、近鉄でも[JR西日本との間で](https://ja.wikipedia.org/wiki/西日本旅客鉄道 "wikilink")、[ICOCA](../Page/ICOCA.md "wikilink")の両社連絡定期券の発売を2012年12月1日に開始した。
-      - [JR西日本では](https://ja.wikipedia.org/wiki/西日本旅客鉄道 "wikilink")、[京阪電気鉄道](https://ja.wikipedia.org/wiki/京阪電気鉄道 "wikilink")との間で2010年5月より、ICOCAの両社連絡定期券の発行を行っている（京阪での発売は2011年6月1日に開始した）。
+  - 近鉄は[JR](../Page/JR.md "wikilink")との乗換駅が多く、[鶴橋駅](https://ja.wikipedia.org/wiki/鶴橋駅 "wikilink")など乗換客の多い駅もあり、これまでも近鉄・JR間の磁気式連絡定期券は発行されているが、近鉄でも[JR西日本との間で](../Page/西日本旅客鉄道.md "wikilink")、[ICOCA](../Page/ICOCA.md "wikilink")の両社連絡定期券の発売を2012年12月1日に開始した。
+      - [JR西日本では](../Page/西日本旅客鉄道.md "wikilink")、[京阪電気鉄道](../Page/京阪電気鉄道.md "wikilink")との間で2010年5月より、ICOCAの両社連絡定期券の発行を行っている（京阪での発売は2011年6月1日に開始した）。
   - 近鉄と京阪では2012年12月1日より、近鉄がICOCA・ICOCA定期券の発売を開始したのにあわせて、それぞれの会社でICOCA・ICOCA定期券（近鉄線内用定期・JR線 - 近鉄線連絡定期・近鉄線 - 京阪線連絡定期・近鉄線 - JR線 - 京阪線3線連絡定期・近鉄線 - JR線 - 近鉄線通過連絡定期（3線連絡、通過連絡定期はJRは発売せず）とも）の発売を開始した。
   - また同日より、近鉄と[阪神電気鉄道](../Page/阪神電気鉄道.md "wikilink")の[大阪難波駅](https://ja.wikipedia.org/wiki/大阪難波駅 "wikilink")経由の、ICOCA連絡定期券も発売を開始した（阪神ではPiTaPa連絡定期券での発売）。
   - 2013年3月23日からは、近鉄と[JR東海とのICOCA連絡定期券も発売を開始した](../Page/東海旅客鉄道.md "wikilink")（JR東海では[TOICA](https://ja.wikipedia.org/wiki/TOICA "wikilink")連絡定期券での発売）。

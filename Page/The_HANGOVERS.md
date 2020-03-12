@@ -21,7 +21,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1st Mini album</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/8月2日.md" title="wikilink">8月2日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/8月2日.md" title="wikilink">8月2日</a></p></td>
 <td><p><strong>the HANGOVERS</strong></p></td>
 <td><p>ZEDY-2016</p></td>
 <td><ol>
@@ -142,14 +142,14 @@
   - 2010年 - the HANGOVERS おとなのえほんvol.8
   - 2010年 - トミーの日
       -
-        w/マスザワヒロユキ（[ザ・ガールハント](../Page/ザ・ガールハント.md "wikilink")、[テルスター](https://ja.wikipedia.org/wiki/テルスター_\(バンド\) "wikilink")）/ [香葉村多望](https://ja.wikipedia.org/wiki/KABA_3 "wikilink")（[rabuka](https://ja.wikipedia.org/wiki/rabuka "wikilink")）/ 関谷謙太郎（[UNDER THE COUNTER](https://ja.wikipedia.org/wiki/UNDER_THE_COUNTER "wikilink")）/ [フジタユウスケ](https://ja.wikipedia.org/wiki/フジタユウスケ "wikilink") / 松本敏将（[tobaccojuice](https://ja.wikipedia.org/wiki/tobaccojuice "wikilink")）/ 磯谷直史（[monokuro](https://ja.wikipedia.org/wiki/monokuro "wikilink")）/ ケンチュルビック（the HANGOVERS） / シンディ（the HANGOVERS）
+        w/マスザワヒロユキ（[ザ・ガールハント](../Page/ザ・ガールハント.md "wikilink")、[テルスター](https://ja.wikipedia.org/wiki/テルスター_\(バンド\) "wikilink")）/ [香葉村多望](https://ja.wikipedia.org/wiki/KABA_3 "wikilink")（[rabuka](https://ja.wikipedia.org/wiki/rabuka "wikilink")）/ 関谷謙太郎（[UNDER THE COUNTER](../Page/UNDER_THE_COUNTER.md "wikilink")）/ [フジタユウスケ](https://ja.wikipedia.org/wiki/フジタユウスケ "wikilink") / 松本敏将（[tobaccojuice](https://ja.wikipedia.org/wiki/tobaccojuice "wikilink")）/ 磯谷直史（[monokuro](https://ja.wikipedia.org/wiki/monokuro "wikilink")）/ ケンチュルビック（the HANGOVERS） / シンディ（the HANGOVERS）
   - 2010年 - the HANGOVERS LIVE TOUR the portable terminus JAPANTOUR
 
 ### 出演イベント
 
   - 2007年12月29日 - [COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 07/08
   - 2008年08月02日 - [ROCK IN JAPAN FESTIVAL](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink") 2008
-  - 2010年09月02日 - [ジン](https://ja.wikipedia.org/wiki/ジン_\(バンド\) "wikilink") "モンスターエンジンツアー"
+  - 2010年09月02日 - [ジン](../Page/ジン_\(バンド\).md "wikilink") "モンスターエンジンツアー"
   - 2010年12月05日 - [No Regret Life](../Page/No_Regret_Life.md "wikilink") "Magical Destination TOUR 2010"
 
 ## 外部リンク

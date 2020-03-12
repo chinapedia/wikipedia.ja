@@ -1,7 +1,7 @@
 > この記事は[GAGLE](https://ja.wikipedia.org/wiki/GAGLE)から翻訳されています。
 
 
-**GAGLE**（ガグル）は、[仙台在住の](https://ja.wikipedia.org/wiki/仙台市 "wikilink")[ヒップホップ](../Page/ヒップホップ.md "wikilink")ユニットである。仙台を拠点に活動を展開し、[DABO](../Page/DABO.md "wikilink")、[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")、[餓鬼レンジャー](https://ja.wikipedia.org/wiki/餓鬼レンジャー "wikilink")、韻踏合組合、地元が同じであるSound Market Crewと競演し、複数のアーティストとの繋がりがある。
+**GAGLE**（ガグル）は、[仙台在住の](../Page/仙台市.md "wikilink")[ヒップホップ](../Page/ヒップホップ.md "wikilink")ユニットである。仙台を拠点に活動を展開し、[DABO](../Page/DABO.md "wikilink")、[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")、[餓鬼レンジャー](https://ja.wikipedia.org/wiki/餓鬼レンジャー "wikilink")、韻踏合組合、地元が同じであるSound Market Crewと競演し、複数のアーティストとの繋がりがある。
 
 ## メンバー
 
@@ -14,8 +14,8 @@
   - [1996年](../Page/1996年.md "wikilink")、結成。
   - [2001年](../Page/2001年.md "wikilink")、1stアルバム『BUST THE FACTS』を発表し、デビュー。
   - [2002年](../Page/2002年.md "wikilink")、2ndアルバム『3 MEN ON WAX』を発売。
-  - [2004年](../Page/2004年.md "wikilink")[8月](../Page/8月.md "wikilink")、ミニアルバム『Superego』で[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")からメジャー・デビュー。収録曲「RAP WONDER DX」が「[SPACE SHOWER TV MUSIC VIDEO AWARDS '05](https://ja.wikipedia.org/wiki/SPACE_SHOWER_Music_Video_Awards "wikilink")」にノミネート、「[MTV VIDEO MUSIC AWARDS 2005](https://ja.wikipedia.org/wiki/MTV_Video_Music_Awards "wikilink")」では最優秀特殊効果ビデオ賞を受賞する。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、メジャー1stアルバム『BIG BANG THEORY』を発売。　
+  - [2004年](../Page/2004年.md "wikilink")[8月](../Page/8月.md "wikilink")、ミニアルバム『Superego』で[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")からメジャー・デビュー。収録曲「RAP WONDER DX」が「[SPACE SHOWER TV MUSIC VIDEO AWARDS '05](https://ja.wikipedia.org/wiki/SPACE_SHOWER_Music_Video_Awards "wikilink")」にノミネート、「[MTV VIDEO MUSIC AWARDS 2005](../Page/MTV_Video_Music_Awards.md "wikilink")」では最優秀特殊効果ビデオ賞を受賞する。
+  - [2005年](../Page/2005年.md "wikilink")、メジャー1stアルバム『BIG BANG THEORY』を発売。　
   - [2007年](../Page/2007年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")、メジャー1stアルバムの再編集アルバム『BIG BANG THEORY SHUFFLE』を発売。
   - 2007年[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")、[Najiwon B BOY PARKに出演](../Page/B_BOY_PARK.md "wikilink")。
   - 2007年[6月27日](../Page/6月27日.md "wikilink")、メジャー2ndアルバム『3-PEAT』を発売。
@@ -114,7 +114,7 @@
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/11月23日.md" title="wikilink">11月23日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/11月23日.md" title="wikilink">11月23日</a></p></td>
 <td><p><strong>BIG BANG THEORY</strong></p></td>
 <td><p>COZA-145</p></td>
 <td><ol>
@@ -151,7 +151,7 @@
 <li>RAP MYSTERY CIRCLE</li>
 <li>欠けた月を見てる</li>
 <li>RODDY を DRIVE!</li>
-<li>Constellation feat.<a href="https://ja.wikipedia.org/wiki/KOHEI_JAPAN" title="wikilink">KOHEI JAPAN</a></li>
+<li>Constellation feat.<a href="../Page/KOHEI_JAPAN.md" title="wikilink">KOHEI JAPAN</a></li>
 <li>SUNSET 4 TWO</li>
 <li>糸電話 feat.Mahya</li>
 <li>EB(胡座かいてGO)</li>
@@ -222,7 +222,7 @@
 <li>Cabaret</li>
 <li>GL-O-CAL(グローカル)</li>
 <li>クーデタークラブ</li>
-<li>My Home feat.<a href="https://ja.wikipedia.org/wiki/椎名純平" title="wikilink">椎名純平</a></li>
+<li>My Home feat.<a href="../Page/椎名純平.md" title="wikilink">椎名純平</a></li>
 <li>Snowflake</li>
 <li>High Drama</li>
 <li>Goin’ My Way</li>
@@ -254,7 +254,7 @@
 <li>Unfaded</li>
 <li>CA LA MODE feat.<a href="../Page/Shing02.md" title="wikilink">Shing02</a></li>
 <li>Space Mate-君が許すまで-</li>
-<li>聞えるよ feat.<a href="https://ja.wikipedia.org/wiki/七尾旅人" title="wikilink">七尾旅人</a></li>
+<li>聞えるよ feat.<a href="../Page/七尾旅人.md" title="wikilink">七尾旅人</a></li>
 </ol></td>
 <td><p>Jazzy Sport<br />
 オリコン最高130位</p></td>
@@ -409,7 +409,7 @@
 
 ### 参加作品
 
-  - [TATE & MARKIE](https://ja.wikipedia.org/wiki/TATE_&_MARKIE "wikilink")　『喜びの唄』　（[2004年](../Page/2004年.md "wikilink")[3月10日](../Page/3月10日.md "wikilink")）
+  - [TATE & MARKIE](../Page/TATE_&_MARKIE.md "wikilink")　『喜びの唄』　（[2004年](../Page/2004年.md "wikilink")[3月10日](../Page/3月10日.md "wikilink")）
       - 2\. Life Is Show feat. GAGLE
   - JAFROSAX　『JAFROSAX』　（2004年[3月24日](../Page/3月24日.md "wikilink")）
       - 6\. 真・空・感 feat. GAGLE
@@ -470,10 +470,10 @@
   - [DJ MAYUMI](https://ja.wikipedia.org/wiki/DJ_MAYUMI "wikilink")　『PARTY UP COLLECTION』　（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[5月26日](../Page/5月26日.md "wikilink")）
       - 6\. Ready Go Go / DJ MAYUMI feat. [傳田真央](https://ja.wikipedia.org/wiki/傳田真央 "wikilink"), [COMA-CHI](../Page/COMA-CHI.md "wikilink") & HUNGER (GAGLE)
   - Ski Beatz / 『24 Hour Karate School Japan Count Down Release Live\!\! LIMITED SAMPLER CD』　（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[12月31日](../Page/12月31日.md "wikilink")）
-      - 1\. 24 BARS TO KILL “Amebreak REMIX” Exclusive\! feat. HUNGER (GAGLE), [MEGA-G](https://ja.wikipedia.org/wiki/MEGA-G "wikilink") ([JUSWANNA](https://ja.wikipedia.org/wiki/JUSWANNA "wikilink")), RAU DEF & サイプレス上野 / Ski Beatz Feat. [ANARCHY](../Page/ANARCHY.md "wikilink"), [RINO LATINA II](https://ja.wikipedia.org/wiki/RINO_LATINA_II "wikilink"), [漢](https://ja.wikipedia.org/wiki/漢_\(ミュージシャン\) "wikilink"), Maccho
+      - 1\. 24 BARS TO KILL “Amebreak REMIX” Exclusive\! feat. HUNGER (GAGLE), [MEGA-G](https://ja.wikipedia.org/wiki/MEGA-G "wikilink") ([JUSWANNA](https://ja.wikipedia.org/wiki/JUSWANNA "wikilink")), RAU DEF & サイプレス上野 / Ski Beatz Feat. [ANARCHY](../Page/ANARCHY.md "wikilink"), [RINO LATINA II](../Page/RINO_LATINA_II.md "wikilink"), [漢](https://ja.wikipedia.org/wiki/漢_\(ミュージシャン\) "wikilink"), Maccho
   - DIORI a.k.a. D-ORIGINU　『SPREAD YOUR WING』　（[2011年](../Page/2011年.md "wikilink")[11月23日](../Page/11月23日.md "wikilink")）
       - 10\. EAST NORTH SOLDIER feat. HUNGER, 4WD, 鬼, MICHIYA
-  - SHOWGO, JBM, [RINO LATINA II](https://ja.wikipedia.org/wiki/RINO_LATINA_II "wikilink"), [鎮座DOPENESS](https://ja.wikipedia.org/wiki/鎮座DOPENESS "wikilink"), HUNGER 　「Do The Right Thing」 （2014年10月16日）　アナログレコードのみ収録
+  - SHOWGO, JBM, [RINO LATINA II](../Page/RINO_LATINA_II.md "wikilink"), [鎮座DOPENESS](https://ja.wikipedia.org/wiki/鎮座DOPENESS "wikilink"), HUNGER 　「Do The Right Thing」 （2014年10月16日）　アナログレコードのみ収録
   - [6th Generation](https://ja.wikipedia.org/wiki/6th_Generation "wikilink")　『The Right Way』　（[2015年](../Page/2015年.md "wikilink")[8月19日](../Page/8月19日.md "wikilink")）
       - 2\. 火怨 feat. HUNGER & [KGE THE SHADOWMEN](https://ja.wikipedia.org/wiki/KGE_THE_SHADOWMEN "wikilink")
   - [KGE THE SHADOWMEN](https://ja.wikipedia.org/wiki/KGE_THE_SHADOWMEN "wikilink") & HIMUKI　『LOVE AND BLUES』　（[2015年](../Page/2015年.md "wikilink")[9月9日](../Page/9月9日.md "wikilink")）

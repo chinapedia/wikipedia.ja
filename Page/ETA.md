@@ -7,7 +7,7 @@
 
   - [到着予定時刻](https://ja.wikipedia.org/wiki/到着予定時刻 "wikilink") (Estimated time of arrival) - 船舶や車両などが目的地に到達する予定時刻。出発予定は[ETD](https://ja.wikipedia.org/wiki/ETD "wikilink")。
 
-      - [北米プロスポーツリーグ](https://ja.wikipedia.org/wiki/北米4大プロスポーツリーグ "wikilink")（主に[MLBや](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")[NHL](https://ja.wikipedia.org/wiki/ナショナルホッケーリーグ "wikilink")）において、下部組織リーグ（[マイナーリーグ](../Page/マイナーリーグ.md "wikilink")）在籍中の若手有望選手が、成長して最高峰リーグ（MLBやNHL）に昇格すると予想される時期。上記の比喩表現\[1\]。
+      - [北米プロスポーツリーグ](https://ja.wikipedia.org/wiki/北米4大プロスポーツリーグ "wikilink")（主に[MLBや](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")[NHL](../Page/ナショナルホッケーリーグ.md "wikilink")）において、下部組織リーグ（[マイナーリーグ](../Page/マイナーリーグ.md "wikilink")）在籍中の若手有望選手が、成長して最高峰リーグ（MLBやNHL）に昇格すると予想される時期。上記の比喩表現\[1\]。
 
   - [事象の木解析](https://ja.wikipedia.org/wiki/事象の木解析 "wikilink") (Event Tree Analysis) - [工学](../Page/工学.md "wikilink")における[リスク分析](https://ja.wikipedia.org/wiki/リスク分析 "wikilink")の手法の1つ。
 
@@ -15,9 +15,9 @@
 
   - [Electronic Travel Authorization](https://ja.wikipedia.org/wiki/Electronic_Travel_Authorization "wikilink")（eTA） - [カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")政府の電子渡航認証。空路での渡航には2016年3月15日から必要となった。
 
-  - [イーター電機工業](../Page/イーター電機工業.md "wikilink") - [スイッチング電源](https://ja.wikipedia.org/wiki/スイッチング電源 "wikilink")を製造・販売している企業。
+  - [イーター電機工業](../Page/イーター電機工業.md "wikilink") - [スイッチング電源](../Page/スイッチング電源.md "wikilink")を製造・販売している企業。
 
-  - [スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[バスク地方](https://ja.wikipedia.org/wiki/バスク地方 "wikilink")の民族組織 Euskadi Ta Askatasuna。[バスク祖国と自由](../Page/バスク祖国と自由.md "wikilink")を参照。
+  - [スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[バスク地方](../Page/バスク地方.md "wikilink")の民族組織 Euskadi Ta Askatasuna。[バスク祖国と自由](../Page/バスク祖国と自由.md "wikilink")を参照。
 
   - (Eta) - [ランチア](../Page/ランチア.md "wikilink")社の[自動車](../Page/自動車.md "wikilink")の車種。
 

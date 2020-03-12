@@ -1,9 +1,9 @@
 > この記事は[Kazami](https://ja.wikipedia.org/wiki/Kazami)から翻訳されています。
 
 
-**kazami**（かざみ、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")である。本名は**白原 かざみ**。
+**kazami**（かざみ、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[4月8日](../Page/4月8日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")である。本名は**白原 かざみ**。
 
-[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")出身。[福岡第一高等学校](https://ja.wikipedia.org/wiki/福岡第一高等学校 "wikilink")卒業。[2000年](../Page/2000年.md "wikilink")10月、14歳で[エスエムイーレコーズ](https://ja.wikipedia.org/wiki/エスエムイーレコーズ "wikilink")よりデビューしたが、既に契約が終了している。
+[福岡県](../Page/福岡県.md "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")出身。[福岡第一高等学校](https://ja.wikipedia.org/wiki/福岡第一高等学校 "wikilink")卒業。[2000年](../Page/2000年.md "wikilink")10月、14歳で[エスエムイーレコーズ](../Page/エスエムイーレコーズ.md "wikilink")よりデビューしたが、既に契約が終了している。
 
 ## 作品
 
@@ -144,7 +144,7 @@
 <td><center>
 <p>2003年7月24日</p>
 </center></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/小さな願い" title="wikilink">I Say A Little Prayer</a></strong></p></td>
+<td><p><strong><a href="../Page/小さな願い.md" title="wikilink">I Say A Little Prayer</a></strong></p></td>
 <td><ol>
 <li><strong>I Say A Little Prayer</strong>[4:19]
 <dl>
@@ -309,12 +309,12 @@ kazami with <a href="../Page/Home_Grown.md" title="wikilink">Home Grown名義</a
   - 「Only Truth 〜夢じゃないキス〜」…[アルペン](../Page/アルペン_\(企業\).md "wikilink")「[kissmark](https://ja.wikipedia.org/wiki/kissmark "wikilink")」CMソング
   - 「chimeless days」…ドラマ「[ピュアラブ2](../Page/ピュア・ラブ.md "wikilink")」主題歌
   - 「このまま時を止めて」…[ロッテ](../Page/ロッテ.md "wikilink")「ラミー＆バッカス」CMソング　
-  - 「リズムfeaturing SPHERE of INFLUENCE」…TX系「[流派-R](https://ja.wikipedia.org/wiki/流派-R "wikilink")」5月度キラーチューン TX系「流派-R」6月度レコメンド
+  - 「リズムfeaturing SPHERE of INFLUENCE」…TX系「[流派-R](../Page/流派-R.md "wikilink")」5月度キラーチューン TX系「流派-R」6月度レコメンド
   - 「I Say A Little Prayer」…フジテレビ系スーパー時代劇「[大奥](https://ja.wikipedia.org/wiki/大奥_\(フジテレビの時代劇\)#2003年版 "wikilink")」主題歌
   - 「Moments in The Sun」…アニメ「[R.O.D -THE TV-](../Page/R.O.D_-THE_TV-.md "wikilink")」エンディングテーマ
   - 「Dan-de-li-on」…テレビ東京系「流派-R」4月度オープニングテーマ
   - 「YOU 〜向日葵〜」…アニメ「[サムライチャンプルー](../Page/サムライチャンプルー.md "wikilink")」挿入歌
-  - 「G線上のアリア 〜今瞳を開けば〜」…[SHARP](../Page/シャープ.md "wikilink")「[AQUOS](https://ja.wikipedia.org/wiki/アクオス "wikilink")」CMソング
+  - 「G線上のアリア 〜今瞳を開けば〜」…[SHARP](../Page/シャープ.md "wikilink")「[AQUOS](../Page/アクオス.md "wikilink")」CMソング
 
 ## 関連項目
 

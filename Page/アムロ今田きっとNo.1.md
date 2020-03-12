@@ -7,11 +7,11 @@
 
 ## 概要
 
-安室と今田に加え、[藤井恒久](https://ja.wikipedia.org/wiki/藤井恒久 "wikilink")（日本テレビアナウンサー）が司会を務めた。[MAXと](https://ja.wikipedia.org/wiki/MAX_\(音楽グループ\) "wikilink")[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")がリポーターとして、毎回様々な「No.1」な物を紹介する。音楽のNo.1を紹介するコーナーでは、一般人への調査結果で上位に入った曲を安室とMAXとSPEEDが歌唱していた。
+安室と今田に加え、[藤井恒久](../Page/藤井恒久.md "wikilink")（日本テレビアナウンサー）が司会を務めた。[MAXと](https://ja.wikipedia.org/wiki/MAX_\(音楽グループ\) "wikilink")[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")がリポーターとして、毎回様々な「No.1」な物を紹介する。音楽のNo.1を紹介するコーナーでは、一般人への調査結果で上位に入った曲を安室とMAXとSPEEDが歌唱していた。
 
 オープニングの[ジングルは](https://ja.wikipedia.org/wiki/ジングル_\(ラジオ\) "wikilink")、直後の時間帯に放送されていた『[それ行けKinKi大放送](../Page/それ行けKinKi大放送.md "wikilink")』でも使われていた。
 
-ネット局の[青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")は、日本テレビほかで番組がスタートから半年間はこの時間帯に『[東奥日報ニュース](https://ja.wikipedia.org/wiki/東奥日報ニュース "wikilink")』（1997年4月に日曜11:25枠へ移動）や番宣ミニ番組『お昼だよ〜ん』（12:00 - 12:10）などを放送していた。そのため、本番組については1997年4月から半年間だけネットしていた。
+ネット局の[青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")は、日本テレビほかで番組がスタートから半年間はこの時間帯に『[東奥日報ニュース](../Page/東奥日報ニュース.md "wikilink")』（1997年4月に日曜11:25枠へ移動）や番宣ミニ番組『お昼だよ〜ん』（12:00 - 12:10）などを放送していた。そのため、本番組については1997年4月から半年間だけネットしていた。
 
 ## エンディングテーマ
 
@@ -31,13 +31,13 @@
   - 音効：長内勇治・黒澤隆昌（[佳夢音](https://ja.wikipedia.org/wiki/佳夢音 "wikilink")）
   - 美術：羽谷重信、栗原純二
   - 広報：大関雅人
-  - 協力：[ライジングプロダクション](https://ja.wikipedia.org/wiki/ライジングプロダクション "wikilink")、[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")
+  - 協力：[ライジングプロダクション](../Page/ライジングプロダクション.md "wikilink")、[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")
   - 美術協力：[日本テレビアート](../Page/日本テレビアート.md "wikilink")
-  - ナレーター：[垂木勉](https://ja.wikipedia.org/wiki/垂木勉 "wikilink")、[柳沢三千代](https://ja.wikipedia.org/wiki/柳沢三千代 "wikilink")
+  - ナレーター：[垂木勉](../Page/垂木勉.md "wikilink")、[柳沢三千代](../Page/柳沢三千代.md "wikilink")
   - ロケ技術：[日本テレビビデオ](https://ja.wikipedia.org/wiki/日本テレビビデオ "wikilink")
   - ディレクター：高橋康之、高橋政光、阿部真一郎
   - AP：河戸憲男、若松七重
-  - プロデューサー：[中村英明](https://ja.wikipedia.org/wiki/中村英明 "wikilink")
+  - プロデューサー：[中村英明](../Page/中村英明.md "wikilink")
   - 演出：[藤井淳](../Page/藤井淳.md "wikilink")、加藤晋也
   - チーフプロデューサー：[渡辺弘](../Page/渡辺弘_\(プロデューサー\).md "wikilink")（1996年10月-1997年5月） → [吉岡正敏](../Page/吉岡正敏.md "wikilink")（1997年6月-9月）
   - 製作著作：日本テレビ

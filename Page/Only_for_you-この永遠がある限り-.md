@@ -5,12 +5,12 @@
 
 ## 解説
 
-[日本テレビ系ドラマ](../Page/日本テレビ放送網.md "wikilink")『[FACE〜見知らぬ恋人〜](https://ja.wikipedia.org/wiki/FACE〜見知らぬ恋人〜 "wikilink")』主題歌であった。
+[日本テレビ系ドラマ](../Page/日本テレビ放送網.md "wikilink")『[FACE〜見知らぬ恋人〜](../Page/FACE〜見知らぬ恋人〜.md "wikilink")』主題歌であった。
 
 ## 収録曲
 
 1.  **Only for you－この永遠がある限り－**
-      - 作詞:[松井五郎](https://ja.wikipedia.org/wiki/松井五郎 "wikilink")／作曲:[織田哲郎](../Page/織田哲郎.md "wikilink")／編曲:[本間昭光](https://ja.wikipedia.org/wiki/本間昭光 "wikilink")
+      - 作詞:[松井五郎](https://ja.wikipedia.org/wiki/松井五郎 "wikilink")／作曲:[織田哲郎](../Page/織田哲郎.md "wikilink")／編曲:[本間昭光](../Page/本間昭光.md "wikilink")
 2.  **Only for you［solid comfort mix］**
       - 作詞:松井五郎／作曲:織田哲郎／編曲:本間昭光
 3.  **Only for you［NOIZ FANATIC MIX］**

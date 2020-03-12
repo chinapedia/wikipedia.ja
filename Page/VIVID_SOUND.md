@@ -3,9 +3,9 @@
 
 **ヴィヴィド・サウンド・コーポレーション**は東京に本社を置くレコード会社。
 
-世界中に眠る1950年代 - 1970年代の[ソウル](https://ja.wikipedia.org/wiki/ソウルミュージック "wikilink")、[ブルース](../Page/ブルース.md "wikilink")、[ジャズ](../Page/ジャズ.md "wikilink")、[ワールドミュージック](../Page/ワールドミュージック.md "wikilink")等のコレクタブル・アイテムのリイシューを一手に手掛ける老舗[インディーズレーベル](https://ja.wikipedia.org/wiki/インディーズレーベル "wikilink")。
+世界中に眠る1950年代 - 1970年代の[ソウル](../Page/ソウルミュージック.md "wikilink")、[ブルース](../Page/ブルース.md "wikilink")、[ジャズ](../Page/ジャズ.md "wikilink")、[ワールドミュージック](../Page/ワールドミュージック.md "wikilink")等のコレクタブル・アイテムのリイシューを一手に手掛ける老舗[インディーズレーベル](https://ja.wikipedia.org/wiki/インディーズレーベル "wikilink")。
 
-1974年、[ソウル](https://ja.wikipedia.org/wiki/ソウルミュージック "wikilink")、[ブルース](../Page/ブルース.md "wikilink")、[ジャズ](../Page/ジャズ.md "wikilink")等の[ブラックミュージック](../Page/ブラックミュージック.md "wikilink")を中心とした日本初の輸入レコード専門店「芽瑠璃堂」を吉祥寺にてオープン。並行して入手困難な[ブルース](../Page/ブルース.md "wikilink")や[ソウルのリイシュー業務を開始し](https://ja.wikipedia.org/wiki/ソウルミュージック "wikilink")、同年に株式会社ヴィヴィド・サウンド・コーポレーションを設立した。ヴィヴィドの代表的な仕事としては、ジェームス・カー、オヴェイションズなどの録音を残した[ゴールド・ワックス・レコード](https://ja.wikipedia.org/wiki/ゴールド・ワックス・レコード "wikilink")の音源の再発があげられる。その後、ファンクやロックなどにもフィールドを広げて現在に至る。
+1974年、[ソウル](../Page/ソウルミュージック.md "wikilink")、[ブルース](../Page/ブルース.md "wikilink")、[ジャズ](../Page/ジャズ.md "wikilink")等の[ブラックミュージック](../Page/ブラックミュージック.md "wikilink")を中心とした日本初の輸入レコード専門店「芽瑠璃堂」を吉祥寺にてオープン。並行して入手困難な[ブルース](../Page/ブルース.md "wikilink")や[ソウルのリイシュー業務を開始し](../Page/ソウルミュージック.md "wikilink")、同年に株式会社ヴィヴィド・サウンド・コーポレーションを設立した。ヴィヴィドの代表的な仕事としては、ジェームス・カー、オヴェイションズなどの録音を残した[ゴールド・ワックス・レコード](https://ja.wikipedia.org/wiki/ゴールド・ワックス・レコード "wikilink")の音源の再発があげられる。その後、ファンクやロックなどにもフィールドを広げて現在に至る。
 
 1980年代には自社の[レコーディング・スタジオ](https://ja.wikipedia.org/wiki/レコーディング・スタジオ "wikilink")を使用した原盤制作、海外アーティストの[ライセンス](../Page/ライセンス.md "wikilink")、ディストリビューションの三部門をいち早く開始し、現在の[インディーズ](../Page/インディーズ.md "wikilink")業界の礎を築く。
 
@@ -23,9 +23,9 @@
 
 **邦楽**
 
-  - [あがた森魚](https://ja.wikipedia.org/wiki/あがた森魚 "wikilink")
+  - [あがた森魚](../Page/あがた森魚.md "wikilink")
   - [なかの綾](https://ja.wikipedia.org/wiki/なかの綾 "wikilink")
-  - [星野みちる](https://ja.wikipedia.org/wiki/星野みちる "wikilink")
+  - [星野みちる](../Page/星野みちる.md "wikilink")
   - [脇田もなり](https://ja.wikipedia.org/wiki/脇田もなり "wikilink")
 
 など

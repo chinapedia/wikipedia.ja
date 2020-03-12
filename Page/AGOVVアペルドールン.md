@@ -1,17 +1,17 @@
 > この記事は[AGOVV](https://ja.wikipedia.org/wiki/AGOVV)から翻訳されています。
 
 
-**AGOVVアペルドールン**（AGOVV Apeldoorn, ）は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")・[アペルドールン](https://ja.wikipedia.org/wiki/アペルドールン "wikilink")に本拠地を置くアマチュア[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。プロクラブとしての最終シーズンとなった2012-13シーズンは[エールステ・ディヴィジ](https://ja.wikipedia.org/wiki/エールステ・ディヴィジ "wikilink")（2部）に在籍していた。
+**AGOVVアペルドールン**（AGOVV Apeldoorn, ）は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")・[アペルドールン](../Page/アペルドールン.md "wikilink")に本拠地を置くアマチュア[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。プロクラブとしての最終シーズンとなった2012-13シーズンは[エールステ・ディヴィジ](../Page/エールステ・ディヴィジ.md "wikilink")（2部）に在籍していた。
 
 ## 歴史
 
 1913年2月25日にAGOSVとして設立された。AGOSVという接頭辞の「A」は**A**peldoornseを、「G」は**G**eheelを、「O」は*' O**nthoudersvoetbalverenigingを、「S」は**S**teedsを、「V」は**V**oorwaartsを意味していた。[ヘルダーラント](https://ja.wikipedia.org/wiki/ヘルダーラント "wikilink")のサッカー協会に加盟すると、すでにSteeds Voorwaartsと呼ばれるクラブがあったために名称変更を余儀なくされ、AGOVVとなった。「A」と「G」の意味はそれまでと同じであるが、「O」は**O**nthoudersを、「VV」は**V*'oetbal **v**erenigingを意味するように変化し、全体で「禁酒家のためのアペルドールンのサッカークラブ」を意味した。AGOVVという接頭辞は変化していないが、それぞれのアルファベットが表す単語は名称変更時から変化している。現在は「A」がAlleenを、「G」がGezamenlijkを、「O」がOefenenを、「VV」がVoert Verderを表し、全体で「Only Practising Together Brings us Further」という意味である。
 
-1954年にはオランダリーグがプロ化され、AGOVVもプロクラブ化されたが、1971年には財政問題のためにアマチュアリーグに降格した。2003年7月1日、再びプロリーグである[エールステ・ディヴィジ](https://ja.wikipedia.org/wiki/エールステ・ディヴィジ "wikilink")（2部）に復帰した。2003-04シーズンには[クラース・ヤン・フンテラール](https://ja.wikipedia.org/wiki/クラース・ヤン・フンテラール "wikilink")が26得点を挙げてエールステ・ディヴィジの得点王に輝いた。2013年1月11日、AGOVVのプロ部門は破産を宣告され、リーグ規定によりエールステ・ディヴィジから除外された。それまでに行なっていた2012-13シーズンの結果は抹消され、プロ部門が解散したため、全ての選手とスタッフはフリーエージェントとなった\[1\] 。クラブのアマチュア部門はアマチュアリーグで活動を継続しており、トゥウェーデ・クラッセ（オランダ6部に相当する）などでプレーしている。
+1954年にはオランダリーグがプロ化され、AGOVVもプロクラブ化されたが、1971年には財政問題のためにアマチュアリーグに降格した。2003年7月1日、再びプロリーグである[エールステ・ディヴィジ](../Page/エールステ・ディヴィジ.md "wikilink")（2部）に復帰した。2003-04シーズンには[クラース・ヤン・フンテラール](../Page/クラース・ヤン・フンテラール.md "wikilink")が26得点を挙げてエールステ・ディヴィジの得点王に輝いた。2013年1月11日、AGOVVのプロ部門は破産を宣告され、リーグ規定によりエールステ・ディヴィジから除外された。それまでに行なっていた2012-13シーズンの結果は抹消され、プロ部門が解散したため、全ての選手とスタッフはフリーエージェントとなった\[1\] 。クラブのアマチュア部門はアマチュアリーグで活動を継続しており、トゥウェーデ・クラッセ（オランダ6部に相当する）などでプレーしている。
 
 ## タイトル
 
-  - **[KNVBカップ](https://ja.wikipedia.org/wiki/KNVBカップ "wikilink") :**
+  - **[KNVBカップ](../Page/KNVBカップ.md "wikilink") :**
 
 <!-- end list -->
 
@@ -20,7 +20,7 @@
 
 <!-- end list -->
 
-  - *' [フーフトクラッセ](https://ja.wikipedia.org/wiki/フーフトクラッセ_\(サッカー\) "wikilink")*'
+  - *' [フーフトクラッセ](../Page/フーフトクラッセ_\(サッカー\).md "wikilink")*'
 
 <!-- end list -->
 
@@ -29,7 +29,7 @@
 
 <!-- end list -->
 
-  - *' [サンデー・フーフトクラッセ](https://ja.wikipedia.org/wiki/フーフトクラッセ_\(サッカー\) "wikilink")*'
+  - *' [サンデー・フーフトクラッセ](../Page/フーフトクラッセ_\(サッカー\).md "wikilink")*'
 
 <!-- end list -->
 
@@ -53,7 +53,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2011–12</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エールステ・ディヴィジ" title="wikilink">エールステ・ディヴィジ</a><br />
+<td><p><a href="../Page/エールステ・ディヴィジ.md" title="wikilink">エールステ・ディヴィジ</a><br />
 （2部）</p></td>
 <td><p>17位</p></td>
 <td><p>2回戦敗退</p></td>
@@ -124,7 +124,7 @@
 </tr>
 <tr class="odd">
 <td><p>1970–71</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トゥヴェーデ・ディヴィジ" title="wikilink">トゥウェーデ・ディヴィジ</a><br />
+<td><p><a href="../Page/トゥヴェーデ・ディヴィジ.md" title="wikilink">トゥウェーデ・ディヴィジ</a><br />
 （当時3部）</p></td>
 <td><p>9位</p></td>
 <td><p>1回戦敗退</p></td>
@@ -188,7 +188,7 @@
 </tr>
 <tr class="even">
 <td><p>1961–62</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エールステ・ディヴィジ" title="wikilink">エールステ・ディヴィジ</a><br />
+<td><p><a href="../Page/エールステ・ディヴィジ.md" title="wikilink">エールステ・ディヴィジ</a><br />
 （2部）</p></td>
 <td><p>グループA 8位</p></td>
 <td></td>
@@ -241,13 +241,13 @@
 
 ## 歴代所属選手
 
-  - [ピーター・ボス](https://ja.wikipedia.org/wiki/ピーター・ボス "wikilink") 1984-1985
+  - [ピーター・ボス](../Page/ピーター・ボス.md "wikilink") 1984-1985
 
-  - [デミー・デ・ゼーウ](https://ja.wikipedia.org/wiki/デミー・デ・ゼーウ "wikilink") 1995-2001（ユース）
+  - [デミー・デ・ゼーウ](../Page/デミー・デ・ゼーウ.md "wikilink") 1995-2001（ユース）
 
-  - [クラース・ヤン・フンテラール](https://ja.wikipedia.org/wiki/クラース・ヤン・フンテラール "wikilink") 2003-2004
+  - [クラース・ヤン・フンテラール](../Page/クラース・ヤン・フンテラール.md "wikilink") 2003-2004
 
-  - [千葉和彦](https://ja.wikipedia.org/wiki/千葉和彦 "wikilink") 2003-2005
+  - [千葉和彦](../Page/千葉和彦.md "wikilink") 2003-2005
 
   - [ドリース・メルテンス](https://ja.wikipedia.org/wiki/ドリース・メルテンス "wikilink") 2006-2009
 

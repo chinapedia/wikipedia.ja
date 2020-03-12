@@ -1,11 +1,11 @@
 > この記事は[OVERSEAS TOP40](https://ja.wikipedia.org/wiki/OVERSEAS_TOP40)から翻訳されています。
 
 
-『**OVERSEAS TOP40**』（オーバーシーズ・トップ・フォーティー）は、[α-STATIONで毎週日曜日](../Page/エフエム京都.md "wikilink")15:00～17:00に放送されている[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")[カウントダウン](https://ja.wikipedia.org/wiki/カウントダウン "wikilink")番組である。現在の[DJはポール](../Page/ディスクジョッキー.md "wikilink")・AMI。
+『**OVERSEAS TOP40**』（オーバーシーズ・トップ・フォーティー）は、[α-STATIONで毎週日曜日](../Page/エフエム京都.md "wikilink")15:00～17:00に放送されている[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")[カウントダウン](../Page/カウントダウン.md "wikilink")番組である。現在の[DJはポール](../Page/ディスクジョッキー.md "wikilink")・AMI。
 
 ## 概要
 
-洋楽の同局でのオンエアポイント、京都主要CDショップのセールスポイント、リスナーからのリクエスト、DJの一押しポイントを基にオリジナルランキングを発表している。初期には京都にある[タワーレコード](../Page/タワーレコード.md "wikilink")と[ヴァージン・メガストアーズ](https://ja.wikipedia.org/wiki/ヴァージン・メガストアーズ "wikilink")からのお勧めアルバムを紹介するコーナーがあった。
+洋楽の同局でのオンエアポイント、京都主要CDショップのセールスポイント、リスナーからのリクエスト、DJの一押しポイントを基にオリジナルランキングを発表している。初期には京都にある[タワーレコード](../Page/タワーレコード.md "wikilink")と[ヴァージン・メガストアーズ](../Page/ヴァージン・メガストアーズ.md "wikilink")からのお勧めアルバムを紹介するコーナーがあった。
 
 番組開始当初は5時間番組であったが、4→3時間と徐々に短縮しており、現在2時間番組となっている。 土曜に放送されている[J-AC TOP40とは事実上](https://ja.wikipedia.org/wiki/J-AC_TOP40 "wikilink")3時間の差が発生している事になり、偏りが見られる。
 
@@ -36,7 +36,7 @@
   - 初代 - [リディア・ティー・ユーン](https://ja.wikipedia.org/wiki/リディア・ティー・ユーン "wikilink")
   - 2代目 - [佐野恵里](https://ja.wikipedia.org/wiki/佐野瑛厘 "wikilink")
   - 3代目 - [久米村直子](../Page/久米村直子.md "wikilink")
-  - 4代目 - [大塚由美](https://ja.wikipedia.org/wiki/大塚由美 "wikilink")
+  - 4代目 - [大塚由美](../Page/大塚由美.md "wikilink")
   - 5代目 - ポール、AMI(ナレーションDJ)
 
 ## その他

@@ -1,9 +1,9 @@
 > この記事は[JFE](https://ja.wikipedia.org/wiki/JFE)から翻訳されています。
 
 
-**JFEシステムズ株式会社**（[英文社名](../Page/英語.md "wikilink") *JFE Systems, Inc*）は、[JFEスチール](https://ja.wikipedia.org/wiki/JFEスチール "wikilink")グループの[情報システム](https://ja.wikipedia.org/wiki/情報システム "wikilink")開発会社。
+**JFEシステムズ株式会社**（[英文社名](../Page/英語.md "wikilink") *JFE Systems, Inc*）は、[JFEスチール](https://ja.wikipedia.org/wiki/JFEスチール "wikilink")グループの[情報システム](../Page/情報システム.md "wikilink")開発会社。
 
-製造業を母体とする[SIer企業であり](https://ja.wikipedia.org/wiki/システムインテグレーター "wikilink")、ユーザー系の企業でありながらJFEスチール以外の売上げが全体の約5割を占める。
+製造業を母体とする[SIer企業であり](../Page/システムインテグレーター.md "wikilink")、ユーザー系の企業でありながらJFEスチール以外の売上げが全体の約5割を占める。
 
 ## 概要
 
@@ -119,9 +119,9 @@
 
 ## 関連項目
 
-  - [JFEホールディングス](https://ja.wikipedia.org/wiki/JFEホールディングス "wikilink")
+  - [JFEホールディングス](../Page/JFEホールディングス.md "wikilink")
   - [JFEスチール](https://ja.wikipedia.org/wiki/JFEスチール "wikilink")
-  - [日本の企業一覧 (情報・通信)](https://ja.wikipedia.org/wiki/日本の企業一覧_\(情報・通信\) "wikilink")
+  - [日本の企業一覧 (情報・通信)](../Page/日本の企業一覧_\(情報・通信\).md "wikilink")
 
 ## 脚注
 

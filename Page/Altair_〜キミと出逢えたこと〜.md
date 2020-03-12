@@ -1,7 +1,7 @@
 > この記事は[Altair ](https://ja.wikipedia.org/wiki/Altair_)から翻訳されています。
 
 
-「**Altair 〜キミと出逢えたこと〜**」（アルタイル キミとであえたこと）は、ロックバンド・[少年カミカゼ](https://ja.wikipedia.org/wiki/少年カミカゼ "wikilink")が[2007年](../Page/2007年.md "wikilink")[7月11日](../Page/7月11日.md "wikilink")にリリースした9枚目のシングルである。
+「**Altair 〜キミと出逢えたこと〜**」（アルタイル キミとであえたこと）は、ロックバンド・[少年カミカゼ](../Page/少年カミカゼ.md "wikilink")が[2007年](../Page/2007年.md "wikilink")[7月11日](../Page/7月11日.md "wikilink")にリリースした9枚目のシングルである。
 
 ## 概要
 
@@ -11,14 +11,14 @@
 
 1.  **Altair 〜キミと出逢えたこと〜**
       -
-        [CBC制作](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")/[TBS系全国ネット](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink") [ドラマ30](../Page/ドラマ30.md "wikilink")『[こどもの事情](../Page/こどもの事情.md "wikilink")』主題歌。
-        シングルのタイトル曲としては初のバラード（カップリングやアルバム曲では「[フレイバーポケット](https://ja.wikipedia.org/wiki/Stukizd!!! "wikilink")」が初めてである）。
+        [CBC制作](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")/[TBS系全国ネット](../Page/TBSテレビ.md "wikilink") [ドラマ30](../Page/ドラマ30.md "wikilink")『[こどもの事情](../Page/こどもの事情.md "wikilink")』主題歌。
+        シングルのタイトル曲としては初のバラード（カップリングやアルバム曲では「[フレイバーポケット](../Page/Stukizd!!!.md "wikilink")」が初めてである）。
         2番がAメロから間奏を挟んでBメロ、そしてサビへと展開する。
         当初公式サイトでは間違えてCメロを試聴部分としてアップしていた（後日この曲についても修正された）。
-        2ndアルバム『[MASTER'D](https://ja.wikipedia.org/wiki/MASTER'D "wikilink")』、ベスト・アルバム『[BEST](https://ja.wikipedia.org/wiki/BEST_\(少年カミカゼのアルバム\) "wikilink")』共に収録された。
+        2ndアルバム『[MASTER'D](../Page/MASTER'D.md "wikilink")』、ベスト・アルバム『[BEST](https://ja.wikipedia.org/wiki/BEST_\(少年カミカゼのアルバム\) "wikilink")』共に収録された。
 2.  **GROW**
       -
-        [Low-Cuts](https://ja.wikipedia.org/wiki/Low-Cuts "wikilink")のSHUNとSHUYAが参加している、[トランス系ポップ](https://ja.wikipedia.org/wiki/トランス_\(音楽\) "wikilink")。
+        [Low-Cuts](https://ja.wikipedia.org/wiki/Low-Cuts "wikilink")のSHUNとSHUYAが参加している、[トランス系ポップ](../Page/トランス_\(音楽\).md "wikilink")。
         歌詞に[関西弁](https://ja.wikipedia.org/wiki/関西弁 "wikilink")が使われている。
 3.  **Altair 〜キミと出逢えたこと〜 for sing**
       -
@@ -30,7 +30,7 @@
 
 <!-- end list -->
 
-  - [クレジット](https://ja.wikipedia.org/wiki/クレジットタイトル "wikilink")
+  - [クレジット](../Page/クレジットタイトル.md "wikilink")
       -
         作詞:和教（M1、M2、M4）
         作曲:和教（M1、M3、M4）、Low-Cuts＆SHONEN KAMIKAZE（M2）

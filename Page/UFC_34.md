@@ -5,9 +5,9 @@
 
 ## 大会概要
 
-メインイベントの世界ヘビー級タイトルマッチでは、王者[ランディ・クートゥア](https://ja.wikipedia.org/wiki/ランディ・クートゥア "wikilink")が[ペドロ・ヒーゾ](https://ja.wikipedia.org/wiki/ペドロ・ヒーゾ "wikilink")を降し、2度目の王座防衛に成功した。
+メインイベントの世界ヘビー級タイトルマッチでは、王者[ランディ・クートゥア](../Page/ランディ・クートゥア.md "wikilink")が[ペドロ・ヒーゾ](../Page/ペドロ・ヒーゾ.md "wikilink")を降し、2度目の王座防衛に成功した。
 
-また、第6試合では[マット・ヒューズ](https://ja.wikipedia.org/wiki/マット・ヒューズ "wikilink")が王者[カーロス・ニュートン](../Page/カーロス・ニュートン.md "wikilink")の[三角絞め](https://ja.wikipedia.org/wiki/三角絞め "wikilink")をリフトして、そのまま床に叩きつけ両者が失神したが、裁定はヒューズのKO勝ちとなり第3代UFC世界ウェルター級王者となった。
+また、第6試合では[マット・ヒューズ](../Page/マット・ヒューズ.md "wikilink")が王者[カーロス・ニュートン](../Page/カーロス・ニュートン.md "wikilink")の[三角絞め](../Page/三角絞め.md "wikilink")をリフトして、そのまま床に叩きつけ両者が失神したが、裁定はヒューズのKO勝ちとなり第3代UFC世界ウェルター級王者となった。
 
 ## 試合結果
 
@@ -15,32 +15,32 @@
 
   - 第1試合 ヘビー級 5分3R
     ○  [フランク・ミア](../Page/フランク・ミア.md "wikilink") vs.  [ホベルト・トラヴェン](../Page/ホベルト・トラヴェン.md "wikilink") ×
-    1R 1:05 [腕ひしぎ十字固め](https://ja.wikipedia.org/wiki/腕挫十字固 "wikilink")
+    1R 1:05 [腕ひしぎ十字固め](../Page/腕挫十字固.md "wikilink")
   - 第2試合 ミドル級 5分3R
-    ○  [マット・リンドランド](../Page/マット・リンドランド.md "wikilink") vs.  [フィル・バローニ](https://ja.wikipedia.org/wiki/フィル・バローニ "wikilink") ×
+    ○  [マット・リンドランド](../Page/マット・リンドランド.md "wikilink") vs.  [フィル・バローニ](../Page/フィル・バローニ.md "wikilink") ×
     3R終了 判定2-0（29-28、29-27、28-28）
   - 第3試合 ライトヘビー級 5分3R
     ○  [エヴァン・タナー](../Page/エヴァン・タナー.md "wikilink") vs.  ホーマー・ムーア ×
-    2R 0:55 [腕ひしぎ十字固め](https://ja.wikipedia.org/wiki/腕挫十字固 "wikilink")
+    2R 0:55 [腕ひしぎ十字固め](../Page/腕挫十字固.md "wikilink")
 
 ### メインカード
 
   - 第4試合 ヘビー級 5分3R
     ○  [ジョシュ・バーネット](../Page/ジョシュ・バーネット.md "wikilink") vs.  [ボビー・ホフマン](https://ja.wikipedia.org/wiki/ボビー・ホフマン "wikilink") ×
-    2R 4:25 ギブアップ（[パウンド](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    2R 4:25 ギブアップ（[パウンド](../Page/グラウンドパンチ.md "wikilink")）
   - 第5試合 ライト級 5分3R
-    ○  [BJ・ペン](https://ja.wikipedia.org/wiki/BJ・ペン "wikilink") vs.  [宇野薫](https://ja.wikipedia.org/wiki/宇野薫 "wikilink") ×
+    ○  [BJ・ペン](../Page/BJ・ペン.md "wikilink") vs.  [宇野薫](../Page/宇野薫.md "wikilink") ×
     1R 0:11 KO（スタンドパンチ連打）
   - 第6試合 UFC世界ウェルター級タイトルマッチ 5分5R
-    ○  [マット・ヒューズ](https://ja.wikipedia.org/wiki/マット・ヒューズ "wikilink") vs.  [カーロス・ニュートン](../Page/カーロス・ニュートン.md "wikilink") ×
+    ○  [マット・ヒューズ](../Page/マット・ヒューズ.md "wikilink") vs.  [カーロス・ニュートン](../Page/カーロス・ニュートン.md "wikilink") ×
     2R 1:27 KO（バスター）
     ※ヒューズが王座獲得に成功。
   - 第7試合 ヘビー級 5分3R
     ○  [リコ・ロドリゲス](../Page/リコ・ロドリゲス_\(格闘家\).md "wikilink") vs.  [ピート・ウィリアムス](https://ja.wikipedia.org/wiki/ピート・ウィリアムス "wikilink") ×
-    2R 4:02 TKO（レフェリーストップ：[パウンド](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    2R 4:02 TKO（レフェリーストップ：[パウンド](../Page/グラウンドパンチ.md "wikilink")）
   - 第8試合 UFC世界ヘビー級タイトルマッチ 5分5R
-    ○  [ランディ・クートゥア](https://ja.wikipedia.org/wiki/ランディ・クートゥア "wikilink") vs.  [ペドロ・ヒーゾ](https://ja.wikipedia.org/wiki/ペドロ・ヒーゾ "wikilink") ×
-    3R 1:38 TKO（レフェリーストップ：[パウンド](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    ○  [ランディ・クートゥア](../Page/ランディ・クートゥア.md "wikilink") vs.  [ペドロ・ヒーゾ](../Page/ペドロ・ヒーゾ.md "wikilink") ×
+    3R 1:38 TKO（レフェリーストップ：[パウンド](../Page/グラウンドパンチ.md "wikilink")）
     ※クートゥアが王座の2度目の防衛に成功。
 
 ## 脚注
@@ -48,7 +48,7 @@
 ## 関連項目
 
   - [UFCの大会一覧](../Page/UFCの大会一覧.md "wikilink")
-  - [UFC王者一覧](https://ja.wikipedia.org/wiki/UFC王者一覧 "wikilink")
+  - [UFC王者一覧](../Page/UFC王者一覧.md "wikilink")
 
 ## 外部リンク
 

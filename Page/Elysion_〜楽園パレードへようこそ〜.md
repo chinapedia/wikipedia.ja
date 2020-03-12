@@ -1,7 +1,7 @@
 > この記事は[Elysion ](https://ja.wikipedia.org/wiki/Elysion_)から翻訳されています。
 
 
-『**Elysion 〜楽園パレードへようこそ〜**』（エリュシオン らくえんパレードへようこそ）は、[Sound Horizon初のDVD作品](https://ja.wikipedia.org/wiki/Sound_Horizon "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月8日](../Page/3月8日.md "wikilink")に[ベルウッドレコード](https://ja.wikipedia.org/wiki/ベルウッドレコード "wikilink")から発売された。
+『**Elysion 〜楽園パレードへようこそ〜**』（エリュシオン らくえんパレードへようこそ）は、[Sound Horizon初のDVD作品](https://ja.wikipedia.org/wiki/Sound_Horizon "wikilink")。[2006年](../Page/2006年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")に[ベルウッドレコード](https://ja.wikipedia.org/wiki/ベルウッドレコード "wikilink")から発売された。
 
 ## 概要
 
@@ -38,7 +38,7 @@
 ※初回限定版の特典ディスク
 
 1.  ライブメイキング映像
-2.  エルの楽園 ［→ side：E →］（[PV映像](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")）
+2.  エルの楽園 ［→ side：E →］（[PV映像](../Page/ミュージック・ビデオ.md "wikilink")）
 3.  PVメイキング映像
 
 ## 出典

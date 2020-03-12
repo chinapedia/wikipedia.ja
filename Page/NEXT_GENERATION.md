@@ -1,7 +1,7 @@
 > この記事は[NEXT GENERATION](https://ja.wikipedia.org/wiki/NEXT_GENERATION)から翻訳されています。
 
 
-**NEXT GENERATION**（ネクストジェネレーション）は、歌手や女優を目指してレッスンに励んでいる[ライジングプロダクション](https://ja.wikipedia.org/wiki/ライジングプロダクション "wikilink")所属の新人タレントによるプロジェクト。
+**NEXT GENERATION**（ネクストジェネレーション）は、歌手や女優を目指してレッスンに励んでいる[ライジングプロダクション](../Page/ライジングプロダクション.md "wikilink")所属の新人タレントによるプロジェクト。
 
 [2007年](../Page/2007年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")にお披露目記者会見が東京・神宮前のレストラン「表参道bamboo」で行われ、当時のメンバーが1人60秒の自己PRをした。
 
@@ -20,7 +20,7 @@
 
   - 事務所に残留
 
-:\* [滝裕可里](https://ja.wikipedia.org/wiki/滝裕可里 "wikilink")（キャレス大阪校出身）
+:\* [滝裕可里](../Page/滝裕可里.md "wikilink")（キャレス大阪校出身）
 
 :\* [西内まりや](https://ja.wikipedia.org/wiki/西内まりや "wikilink")（元『ニコラ』専属モデル、現在『[セブンティーン](../Page/Seventeen_\(日本の雑誌\).md "wikilink")』専属モデル、映画『ライラの冒険 黄金の羅針盤』ライラ役オーディション・グランプリ）
 
@@ -30,15 +30,15 @@
 
 :\* [藤田みりあ](https://ja.wikipedia.org/wiki/藤田みりあ "wikilink")（元『ニコプチ』専属モデル、[Fairiesメンバー](https://ja.wikipedia.org/wiki/フェアリーズ "wikilink")）
 
-:\* [朝日奈央](https://ja.wikipedia.org/wiki/朝日奈央 "wikilink")（元『ラブベリー』専属モデル、[アイドリング\!\!\!](https://ja.wikipedia.org/wiki/アイドリング!!!_\(グループ\) "wikilink")15号）
+:\* [朝日奈央](../Page/朝日奈央.md "wikilink")（元『ラブベリー』専属モデル、[アイドリング\!\!\!](https://ja.wikipedia.org/wiki/アイドリング!!!_\(グループ\) "wikilink")15号）
 
-:\* [田尻あやめ](https://ja.wikipedia.org/wiki/田尻あやめ "wikilink")（元『[ニコ☆プチ](../Page/ニコ☆プチ.md "wikilink")』、現在『[ピチレモン](https://ja.wikipedia.org/wiki/ピチレモン "wikilink")』専属モデル、[ナルミヤシンデレラオーディション](https://ja.wikipedia.org/wiki/ナルミヤシンデレラオーディション "wikilink")2009グランプリ、現[乙女新党](https://ja.wikipedia.org/wiki/乙女新党 "wikilink")メンバー）
+:\* [田尻あやめ](https://ja.wikipedia.org/wiki/田尻あやめ "wikilink")（元『[ニコ☆プチ](../Page/ニコ☆プチ.md "wikilink")』、現在『[ピチレモン](../Page/ピチレモン.md "wikilink")』専属モデル、[ナルミヤシンデレラオーディション](https://ja.wikipedia.org/wiki/ナルミヤシンデレラオーディション "wikilink")2009グランプリ、現[乙女新党](https://ja.wikipedia.org/wiki/乙女新党 "wikilink")メンバー）
 
 :\* [藤麻理亜](https://ja.wikipedia.org/wiki/藤麻理亜 "wikilink")（元『[ニコラ](https://ja.wikipedia.org/wiki/ニコラ_\(雑誌\) "wikilink")』専属モデル、現『セブンティーン』専属モデル）
 
   - 他事務所へ移籍等
 
-:\* [橘美緒](https://ja.wikipedia.org/wiki/橘美緒 "wikilink")（元『ラブベリー』専属モデル、九州・沖縄スターライトオーディション2001・審査員特別賞、[オフィス北野](https://ja.wikipedia.org/wiki/オフィス北野 "wikilink")所属）
+:\* [橘美緒](../Page/橘美緒.md "wikilink")（元『ラブベリー』専属モデル、九州・沖縄スターライトオーディション2001・審査員特別賞、[オフィス北野](https://ja.wikipedia.org/wiki/オフィス北野 "wikilink")所属）
 
 :\* 永山飛鳥（シンデレラオーディション2006・グランプリ、元[Dancing Dolls](https://ja.wikipedia.org/wiki/Dancing_Dolls "wikilink")、YARD所属）
 
@@ -46,7 +46,7 @@
 
 :\* 中島弥咲（キャレス大阪校出身、2005年11月養成契約、現Dancing Dolls、YARD所属）
 
-:\* [大谷澪](https://ja.wikipedia.org/wiki/大谷澪 "wikilink")（[ミスマガジン](https://ja.wikipedia.org/wiki/ミスマガジン "wikilink")2008審査員特別賞、[K-point所属](https://ja.wikipedia.org/wiki/K-point_\(芸能プロダクション\) "wikilink")）
+:\* [大谷澪](../Page/大谷澪.md "wikilink")（[ミスマガジン](../Page/ミスマガジン.md "wikilink")2008審査員特別賞、[K-point所属](../Page/K-point_\(芸能プロダクション\).md "wikilink")）
 
 :\* [安藤笑](https://ja.wikipedia.org/wiki/安藤笑 "wikilink")（キャレス大阪校出身、2005年11月養成契約、現Star☆T）
 
@@ -66,7 +66,7 @@
 
 :\* 藤原優穂（キャレス大阪校出身）
 
-:\* [仲村彩純](https://ja.wikipedia.org/wiki/仲村彩純 "wikilink") （元『[ラブベリー](https://ja.wikipedia.org/wiki/ラブベリー "wikilink")』専属モデル）
+:\* [仲村彩純](https://ja.wikipedia.org/wiki/仲村彩純 "wikilink") （元『[ラブベリー](../Page/ラブベリー.md "wikilink")』専属モデル）
 
   - 消息不明
 

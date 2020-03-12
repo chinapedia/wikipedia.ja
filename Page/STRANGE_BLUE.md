@@ -5,7 +5,7 @@
 
 ## 内容
 
-7枚目のシングル「STOP IN THE BURNIN' LOVE」は[松川敏也](../Page/松川敏也.md "wikilink")在籍時の楽曲であるが、ドラムに[黒瀬蛙一](../Page/黒瀬蛙一.md "wikilink")を迎えたアルバム・バージョンに差し替えてある。6枚目のシングル「[こんな時君に逢いたい](https://ja.wikipedia.org/wiki/こんな時君に逢いたい "wikilink")」のカップリング「I'M LOOKIN' FOR LOVING」は[生沢佑一](https://ja.wikipedia.org/wiki/生沢佑一 "wikilink")単体のバージョンでリテイクをしている。タイトル曲「STRANGE BLUE」はドラム音がない楽曲である。
+7枚目のシングル「STOP IN THE BURNIN' LOVE」は[松川敏也](../Page/松川敏也.md "wikilink")在籍時の楽曲であるが、ドラムに[黒瀬蛙一](../Page/黒瀬蛙一.md "wikilink")を迎えたアルバム・バージョンに差し替えてある。6枚目のシングル「[こんな時君に逢いたい](https://ja.wikipedia.org/wiki/こんな時君に逢いたい "wikilink")」のカップリング「I'M LOOKIN' FOR LOVING」は[生沢佑一](../Page/生沢佑一.md "wikilink")単体のバージョンでリテイクをしている。タイトル曲「STRANGE BLUE」はドラム音がない楽曲である。
 
 ## 批評
 
@@ -15,7 +15,7 @@ CDジャーナルは「ロックにこだわる姿勢がはっきりとわかる
 
 1.  **THE PAIN**
       -
-        作詞・作曲:[生沢佑一](https://ja.wikipedia.org/wiki/生沢佑一 "wikilink") 編曲:[明石昌夫](https://ja.wikipedia.org/wiki/明石昌夫 "wikilink")・TWINZER
+        作詞・作曲:[生沢佑一](../Page/生沢佑一.md "wikilink") 編曲:[明石昌夫](../Page/明石昌夫.md "wikilink")・TWINZER
 2.  **[HOT TIME](https://ja.wikipedia.org/wiki/HOT_TIME "wikilink")**
       -
         作詞・作曲:生沢佑一 編曲:明石昌夫・TWINZER
@@ -53,16 +53,16 @@ CDジャーナルは「ロックにこだわる姿勢がはっきりとわかる
       - [鈴木英俊](../Page/鈴木英俊.md "wikilink")（空と海と風と） - ギター
       - [寺島良一](../Page/寺島良一.md "wikilink") - ディレクター、アコースティックギター
       - [牧穂エミ](../Page/牧穂エミ.md "wikilink") - フィメールボイス
-      - [川島だりあ](https://ja.wikipedia.org/wiki/川島だりあ "wikilink")（[FEEL SO BAD](../Page/FEEL_SO_BAD.md "wikilink")） - コーラス
-      - [勝田一樹](https://ja.wikipedia.org/wiki/勝田一樹 "wikilink")（[DIMENSION](https://ja.wikipedia.org/wiki/DIMENSION "wikilink")） - サックス
+      - [川島だりあ](../Page/川島だりあ.md "wikilink")（[FEEL SO BAD](../Page/FEEL_SO_BAD.md "wikilink")） - コーラス
+      - [勝田一樹](../Page/勝田一樹.md "wikilink")（[DIMENSION](../Page/DIMENSION.md "wikilink")） - サックス
       - [小野塚晃](../Page/小野塚晃.md "wikilink")（DIMENSION） - ピアノ
-      - [増田隆宣](https://ja.wikipedia.org/wiki/増田隆宣 "wikilink") - オルガン
+      - [増田隆宣](../Page/増田隆宣.md "wikilink") - オルガン
 
 ## 脚注
 
 ## 関連項目
 
-  - [1996年の音楽](https://ja.wikipedia.org/wiki/1996年の音楽 "wikilink")
+  - [1996年の音楽](../Page/1996年の音楽.md "wikilink")
   - [ビーイング](../Page/ビーイング.md "wikilink")
 
 [Category:TWINZERのアルバム](https://ja.wikipedia.org/wiki/Category:TWINZERのアルバム "wikilink") [Category:1996年のアルバム](https://ja.wikipedia.org/wiki/Category:1996年のアルバム "wikilink")

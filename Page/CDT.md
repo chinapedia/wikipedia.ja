@@ -15,7 +15,7 @@
 
   - タイムゾーン
       - [中部夏時間](https://ja.wikipedia.org/wiki/中部夏時間 "wikilink") () - 北米中部の夏時間 (−5:00)。
-      - [オーストラリア中部夏時間](https://ja.wikipedia.org/wiki/オーストラリア中部夏時間 "wikilink") () - [南オーストラリア州](https://ja.wikipedia.org/wiki/南オーストラリア州 "wikilink")の夏時間 (+10:30)。
+      - [オーストラリア中部夏時間](https://ja.wikipedia.org/wiki/オーストラリア中部夏時間 "wikilink") () - [南オーストラリア州](../Page/南オーストラリア州.md "wikilink")の夏時間 (+10:30)。
   - [CDテネリフェ](../Page/CDテネリフェ.md "wikilink")() - スペインのサッカークラブ。
   - [Eclipse CDT](https://ja.wikipedia.org/wiki/Eclipse_CDT "wikilink") () - [Eclipse用C](../Page/Eclipse_\(統合開発環境\).md "wikilink")/C++プラグイン。
   - [中国大唐集団公司](https://ja.wikipedia.org/wiki/中国大唐集団公司 "wikilink") () - 中国の電力会社。

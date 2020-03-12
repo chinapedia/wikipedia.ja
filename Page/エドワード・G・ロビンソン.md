@@ -5,23 +5,23 @@
 
 ## 略歴
 
-[ルーマニア](../Page/ルーマニア.md "wikilink")・[ブカレスト](https://ja.wikipedia.org/wiki/ブカレスト "wikilink")で、[ユダヤ系の両親の間に生まれた](https://ja.wikipedia.org/wiki/ユダヤ人 "wikilink")\[1\]。
+[ルーマニア](../Page/ルーマニア.md "wikilink")・[ブカレスト](../Page/ブカレスト.md "wikilink")で、[ユダヤ系の両親の間に生まれた](https://ja.wikipedia.org/wiki/ユダヤ人 "wikilink")\[1\]。
 
-[1903年](../Page/1903年.md "wikilink")に家族と共に[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")へ移住。[ニューヨーク市立大学シティカレッジ](https://ja.wikipedia.org/wiki/ニューヨーク市立大学シティカレッジ "wikilink")で学んだ後、[American Academy of Dramatic Artsで演技を学ぶ](https://ja.wikipedia.org/wiki/:w:American_Academy_of_Dramatic_Arts "wikilink")。[1915年](../Page/1915年.md "wikilink")に[ブロードウェイ](https://ja.wikipedia.org/wiki/ブロードウェイ "wikilink")・デビューを果たし、舞台俳優として精力的に活動する。また並行して映画にも出ていたが、ほとんどが小さな役であった。
+[1903年](../Page/1903年.md "wikilink")に家族と共に[ニューヨーク](../Page/ニューヨーク.md "wikilink")へ移住。[ニューヨーク市立大学シティカレッジ](../Page/ニューヨーク市立大学シティカレッジ.md "wikilink")で学んだ後、[American Academy of Dramatic Artsで演技を学ぶ](https://ja.wikipedia.org/wiki/:w:American_Academy_of_Dramatic_Arts "wikilink")。[1915年](../Page/1915年.md "wikilink")に[ブロードウェイ](https://ja.wikipedia.org/wiki/ブロードウェイ "wikilink")・デビューを果たし、舞台俳優として精力的に活動する。また並行して映画にも出ていたが、ほとんどが小さな役であった。
 
-中年近くなった[1930年](../Page/1930年.md "wikilink")、その後のギャング映画流行のはしりとなった[マーヴィン・ルロイ](https://ja.wikipedia.org/wiki/マーヴィン・ルロイ "wikilink")のギャング映画『犯罪王リコ』に主演、強烈な印象を残し出世作となる。以後、ハリウッドのギャング映画・[フィルム・ノワール](../Page/フィルム・ノワール.md "wikilink")には欠かせない存在となった。
+中年近くなった[1930年](../Page/1930年.md "wikilink")、その後のギャング映画流行のはしりとなった[マーヴィン・ルロイ](../Page/マーヴィン・ルロイ.md "wikilink")のギャング映画『犯罪王リコ』に主演、強烈な印象を残し出世作となる。以後、ハリウッドのギャング映画・[フィルム・ノワール](../Page/フィルム・ノワール.md "wikilink")には欠かせない存在となった。
 
 短躯にだみ声、ふてぶてしい悪役向けの人相で、ギャング役としての知名度は高かった。もっとも本人は高度なインテリジェンスの持ち主であり、8か国語を操るほどの才能があったという。当たり役のギャングのみならず、正義感的な役柄や、『俺は善人だ』の小市民的主人公役から『偉人エーリッヒ博士』での特効薬開発に取り組む化学者役まで演技の幅は広く、またシリアスもコメディもこなす多才さで、1930年代から1940年代にかけてハリウッドで縦横に活躍した。
 
-主演作にも著名作品が多いが、[ビリー・ワイルダー](https://ja.wikipedia.org/wiki/ビリー・ワイルダー "wikilink")の『深夜の告白』の敏腕調査員役や[ジョン・ヒューストン](https://ja.wikipedia.org/wiki/ジョン・ヒューストン "wikilink")の『[キー・ラーゴ](https://ja.wikipedia.org/wiki/キー・ラーゴ_\(映画\) "wikilink")』での極悪ギャング役といった助演作での演技も評価が高い。
+主演作にも著名作品が多いが、[ビリー・ワイルダー](../Page/ビリー・ワイルダー.md "wikilink")の『深夜の告白』の敏腕調査員役や[ジョン・ヒューストン](../Page/ジョン・ヒューストン.md "wikilink")の『[キー・ラーゴ](https://ja.wikipedia.org/wiki/キー・ラーゴ_\(映画\) "wikilink")』での極悪ギャング役といった助演作での演技も評価が高い。
 
-しかし、1940年代後期以降の[赤狩り](https://ja.wikipedia.org/wiki/赤狩り "wikilink")の時期に、共産主義者と疑われて[ブラックリスト](../Page/ブラックリスト.md "wikilink")に載せられてしまい\[2\]、映画から離れざるを得なくなってしまう。私生活では絵画コレクターでもあったが、この時期には、当時の妻との離婚による慰謝料捻出のため、長年収集してきたコレクションを300万ドル余り（当時）で手放している。その間はブロードウェイに出演し、1950年代後半から再び映画に出始めるようになった。
+しかし、1940年代後期以降の[赤狩り](../Page/赤狩り.md "wikilink")の時期に、共産主義者と疑われて[ブラックリスト](../Page/ブラックリスト.md "wikilink")に載せられてしまい\[2\]、映画から離れざるを得なくなってしまう。私生活では絵画コレクターでもあったが、この時期には、当時の妻との離婚による慰謝料捻出のため、長年収集してきたコレクションを300万ドル余り（当時）で手放している。その間はブロードウェイに出演し、1950年代後半から再び映画に出始めるようになった。
 
 [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")（昭和36年）に来日している。
 
 晩年の出演としては、主演の[スティーブ・マックイーン](../Page/スティーブ・マックイーン.md "wikilink")を向こうに張る老ギャンブラーとして堂々たる貫禄を見せた『シンシナティ・キッド』(1965年)が挙げられる。
 
-[1973年](../Page/1973年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")、79歳で死去。『[ソイレント・グリーン](https://ja.wikipedia.org/wiki/ソイレント・グリーン "wikilink")』が遺作となった。現役時代にはその演技力への評価にも関わらず、アカデミー賞受賞に一度も至らなかったが、死の約2ヶ月後に開催された[第45回](https://ja.wikipedia.org/wiki/第45回アカデミー賞 "wikilink")[アカデミー賞](../Page/アカデミー賞.md "wikilink")で名誉賞が授与された。
+[1973年](../Page/1973年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")、79歳で死去。『[ソイレント・グリーン](../Page/ソイレント・グリーン.md "wikilink")』が遺作となった。現役時代にはその演技力への評価にも関わらず、アカデミー賞受賞に一度も至らなかったが、死の約2ヶ月後に開催された[第45回](https://ja.wikipedia.org/wiki/第45回アカデミー賞 "wikilink")[アカデミー賞](../Page/アカデミー賞.md "wikilink")で名誉賞が授与された。
 
 ## 主な出演作品
 
@@ -279,7 +279,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/他人の家_(映画)" title="wikilink">他人の家</a><br />
 <em>House of Strangers</em></p></td>
 <td><p>ジーノ・モネッティ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カンヌ国際映画祭_男優賞" title="wikilink">カンヌ国際映画祭 男優賞</a> 受賞</p></td>
+<td><p><a href="../Page/カンヌ国際映画祭_男優賞.md" title="wikilink">カンヌ国際映画祭 男優賞</a> 受賞</p></td>
 </tr>
 <tr class="even">
 <td><p>1953</p></td>
@@ -360,7 +360,7 @@
 </tr>
 <tr class="odd">
 <td><p>1961</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/青い目の蝶々さん" title="wikilink">青い目の蝶々さん</a><br />
+<td><p><a href="../Page/青い目の蝶々さん.md" title="wikilink">青い目の蝶々さん</a><br />
 <em>My Geisha</em></p></td>
 <td><p>サム・ルイス</p></td>
 <td></td>
@@ -465,7 +465,7 @@
 </tr>
 <tr class="even">
 <td><p>1973</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ソイレント・グリーン" title="wikilink">ソイレント・グリーン</a><br />
+<td><p><a href="../Page/ソイレント・グリーン.md" title="wikilink">ソイレント・グリーン</a><br />
 <em>Soylent Green</em></p></td>
 <td><p>ソル・ロス</p></td>
 <td></td>

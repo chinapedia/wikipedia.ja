@@ -1,19 +1,19 @@
 > この記事は[ SOS](https://ja.wikipedia.org/wiki/_SOS)から翻訳されています。
 
 
-『**涼宮ハルヒの憂鬱 SOS団ラジオ支部**』（すずみやハルヒのゆううつ エスオーエスだんラジオしぶ）は、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")作品『[涼宮ハルヒの憂鬱](https://ja.wikipedia.org/wiki/涼宮ハルヒの憂鬱_\(アニメ\) "wikilink")』の関連番組として[ラジオ関西](../Page/ラジオ関西.md "wikilink")にて放送されていたラジオ番組である。また、『[ランティスネットラジオ](https://ja.wikipedia.org/wiki/ランティスウェブラジオ "wikilink")』にて1週間遅れて[ストリーミング](../Page/ストリーミング.md "wikilink")配信されていた。全48回。
+『**涼宮ハルヒの憂鬱 SOS団ラジオ支部**』（すずみやハルヒのゆううつ エスオーエスだんラジオしぶ）は、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")作品『[涼宮ハルヒの憂鬱](../Page/涼宮ハルヒの憂鬱_\(アニメ\).md "wikilink")』の関連番組として[ラジオ関西](../Page/ラジオ関西.md "wikilink")にて放送されていたラジオ番組である。また、『[ランティスネットラジオ](../Page/ランティスウェブラジオ.md "wikilink")』にて1週間遅れて[ストリーミング](../Page/ストリーミング.md "wikilink")配信されていた。全48回。
 
 ただし、現在番組収録は行われていないものの、「番組終了」ではなく「番組休止状態」であるという説もある（詳しくは後述）。
 
 ## 概要
 
-2006年2月3日、ラジオ関西にて放送開始。『[ランティスネットラジオ](https://ja.wikipedia.org/wiki/ランティスウェブラジオ "wikilink")』での配信は、1週間遅れの2月10日開始。
+2006年2月3日、ラジオ関西にて放送開始。『[ランティスネットラジオ](../Page/ランティスウェブラジオ.md "wikilink")』での配信は、1週間遅れの2月10日開始。
 
-[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")、[涼宮ハルヒ役の](https://ja.wikipedia.org/wiki/涼宮ハルヒシリーズの登場人物#SOS団（主要人物） "wikilink")[平野綾](../Page/平野綾.md "wikilink")、[長門有希役の](https://ja.wikipedia.org/wiki/涼宮ハルヒシリーズの登場人物#SOS団（主要人物） "wikilink")[茅原実里](https://ja.wikipedia.org/wiki/茅原実里 "wikilink")、[朝比奈みくる役の](https://ja.wikipedia.org/wiki/涼宮ハルヒシリーズの登場人物#SOS団（主要人物） "wikilink")[後藤邑子](https://ja.wikipedia.org/wiki/後藤邑子 "wikilink")の3人である。なお、第36回より、[鶴屋さん役の](https://ja.wikipedia.org/wiki/涼宮ハルヒシリーズの登場人物#北高関係者 "wikilink")[松岡由貴](../Page/松岡由貴.md "wikilink")が1コーナーのみ（後述）参加している。メイン[スタッフ](../Page/スタッフ.md "wikilink")は、[ランティス](https://ja.wikipedia.org/wiki/ランティス "wikilink")[プロデューサー](../Page/プロデューサー.md "wikilink")の[斎藤滋](https://ja.wikipedia.org/wiki/斎藤滋 "wikilink")、[ディレクター](../Page/ディレクター.md "wikilink")の[小林順](../Page/小林順.md "wikilink")、[構成作家](https://ja.wikipedia.org/wiki/構成作家 "wikilink")の渡邊純也である。
+[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")、[涼宮ハルヒ役の](https://ja.wikipedia.org/wiki/涼宮ハルヒシリーズの登場人物#SOS団（主要人物） "wikilink")[平野綾](../Page/平野綾.md "wikilink")、[長門有希役の](https://ja.wikipedia.org/wiki/涼宮ハルヒシリーズの登場人物#SOS団（主要人物） "wikilink")[茅原実里](https://ja.wikipedia.org/wiki/茅原実里 "wikilink")、[朝比奈みくる役の](https://ja.wikipedia.org/wiki/涼宮ハルヒシリーズの登場人物#SOS団（主要人物） "wikilink")[後藤邑子](https://ja.wikipedia.org/wiki/後藤邑子 "wikilink")の3人である。なお、第36回より、[鶴屋さん役の](https://ja.wikipedia.org/wiki/涼宮ハルヒシリーズの登場人物#北高関係者 "wikilink")[松岡由貴](../Page/松岡由貴.md "wikilink")が1コーナーのみ（後述）参加している。メイン[スタッフ](../Page/スタッフ.md "wikilink")は、[ランティス](../Page/ランティス.md "wikilink")[プロデューサー](../Page/プロデューサー.md "wikilink")の[斎藤滋](https://ja.wikipedia.org/wiki/斎藤滋 "wikilink")、[ディレクター](../Page/ディレクター.md "wikilink")の[小林順](../Page/小林順.md "wikilink")、[構成作家](https://ja.wikipedia.org/wiki/構成作家 "wikilink")の渡邊純也である。
 
 番組をSOS団のミーティングと称しており、冒頭で「第XX回全体ミーティングを開始します」とアナウンスしている。投稿者のラジオネームは、視聴者（リスナー）をSOS団の団員と見なしているところから「団員名」と呼ばれる。
 
-番組は第48回（ラジオ関西 2006年12月29日放送分）にて終了した。ラジオ関西での次番組は、アニメーション制作を同じ[京都アニメーション](https://ja.wikipedia.org/wiki/京都アニメーション "wikilink")が手掛けている『[らき☆すた](https://ja.wikipedia.org/wiki/らき☆すた_\(アニメ\) "wikilink")』のラジオ番組『[らっきー☆ちゃんねる](../Page/らっきー☆ちゃんねる.md "wikilink")』。
+番組は第48回（ラジオ関西 2006年12月29日放送分）にて終了した。ラジオ関西での次番組は、アニメーション制作を同じ[京都アニメーション](../Page/京都アニメーション.md "wikilink")が手掛けている『[らき☆すた](https://ja.wikipedia.org/wiki/らき☆すた_\(アニメ\) "wikilink")』のラジオ番組『[らっきー☆ちゃんねる](../Page/らっきー☆ちゃんねる.md "wikilink")』。
 
   - この回では、『涼宮ハルヒ』・『長門有希』・『朝比奈みくる』や『SOS団』といった、作品に関する単語が全て割愛され、[ジングル](https://ja.wikipedia.org/wiki/ジングル "wikilink")もBGMのみとなり、“団員名”と呼んでいた視聴者（リスナー）のラジオネームは“ペンネーム”に置き換えられた。これは、原作第4巻「涼宮ハルヒの消失」に倣い、SOS団が存在しない世界を演出したものと思われる。ただし、『鶴屋さん』という単語は唯一放送された。また、番組の最初と最後が有希・みくるの台詞に差し替えられ、最後は[ホワイトノイズ](../Page/ホワイトノイズ.md "wikilink")で締めた。
   - 『ランティスネットラジオ』でのこの回の配信は『**ラジオ番組**』と改名し、ホームページも全て書き換えられていた。また活動記録の欄もなくなっている。
@@ -23,13 +23,13 @@
 ## 放送時間
 
   - [ラジオ関西](../Page/ラジオ関西.md "wikilink") 毎週金曜日 24時30分 - 25時（2006年12月29日で終了）
-  - [ランティスネットラジオ](https://ja.wikipedia.org/wiki/ランティスウェブラジオ "wikilink") 翌週金曜日更新（第48回にて更新停止）
+  - [ランティスネットラジオ](../Page/ランティスウェブラジオ.md "wikilink") 翌週金曜日更新（第48回にて更新停止）
       - 第47回の更新時までは直近5回の放送が視聴可能だったが第48回更新時に過去の放送へのリンクが消去されたため、その後は最新回のみ聴取可能であった。
 
 ## スポンサーの変遷
 
   - [角川書店](../Page/角川書店.md "wikilink") [スニーカー文庫](https://ja.wikipedia.org/wiki/角川スニーカー文庫 "wikilink")
-  - [ランティス](https://ja.wikipedia.org/wiki/ランティス "wikilink")
+  - [ランティス](../Page/ランティス.md "wikilink")
   - [コスパ](../Page/コスパ.md "wikilink")（第14回 - 第26回）
 
 ## コーナー
@@ -66,7 +66,7 @@
   - 朝比奈みくるの大予言 《大予言コーナー》
     朝比奈みくるがリスナーからのネタをもとに大予言をするコーナー。
   - 有希からのヒント\!絶望に効く栞（隔週） 《絶望に効く栞》
-    いざと言うときに役立つかもしれない豆知識を長門有希が紹介するコーナー。豆知識の紹介後には必ず「ありがたや〜ありがたや〜」という声（[SE](https://ja.wikipedia.org/wiki/効果音 "wikilink")）が入る。
+    いざと言うときに役立つかもしれない豆知識を長門有希が紹介するコーナー。豆知識の紹介後には必ず「ありがたや〜ありがたや〜」という声（[SE](../Page/効果音.md "wikilink")）が入る。
   - 鶴屋さんのめがっさおつかれ\!相談コーナー
     団員からの相談に鶴屋さんが回答するコーナー。このコーナーのみ、パーソナリティを松岡由貴（鶴屋さん役）が担当。
   - あたかもジョン・スミス目撃談（隔週） 《『あたかも目撃談』\!》
@@ -76,13 +76,13 @@
 
   - オープニングテーマ
 
-:; 「[風読みリボン](https://ja.wikipedia.org/wiki/冒険でしょでしょ? "wikilink")」（第7回 - 第35回）
+:; 「[風読みリボン](../Page/冒険でしょでしょ?.md "wikilink")」（第7回 - 第35回）
 
-:: 歌：[平野綾](../Page/平野綾.md "wikilink") / 作詞：[畑亜貴](https://ja.wikipedia.org/wiki/畑亜貴 "wikilink") / 作曲：[鈴木盛広](https://ja.wikipedia.org/wiki/鈴木盛広 "wikilink") / 編曲：安藤高弘
+:: 歌：[平野綾](../Page/平野綾.md "wikilink") / 作詞：[畑亜貴](../Page/畑亜貴.md "wikilink") / 作曲：[鈴木盛広](https://ja.wikipedia.org/wiki/鈴木盛広 "wikilink") / 編曲：安藤高弘
 
-:: アニメオープニングテーマ「[冒険でしょでしょ?](https://ja.wikipedia.org/wiki/冒険でしょでしょ? "wikilink")」の[カップリング](https://ja.wikipedia.org/wiki/A面/B面 "wikilink")
+:: アニメオープニングテーマ「[冒険でしょでしょ?](../Page/冒険でしょでしょ?.md "wikilink")」の[カップリング](https://ja.wikipedia.org/wiki/A面/B面 "wikilink")
 
-:; 「[最強パレパレード](https://ja.wikipedia.org/wiki/最強パレパレード "wikilink")」（第36回 - ）
+:; 「[最強パレパレード](../Page/最強パレパレード.md "wikilink")」（第36回 - ）
 
   -
 
@@ -97,13 +97,13 @@
 
 :: アニメエンディングテーマ「[ハレ晴レユカイ](https://ja.wikipedia.org/wiki/ハレ晴レユカイ "wikilink")」のカップリング
 
-:; 「[運命的事件の幸福](https://ja.wikipedia.org/wiki/最強パレパレード "wikilink")」（第36回 - ）
+:; 「[運命的事件の幸福](../Page/最強パレパレード.md "wikilink")」（第36回 - ）
 
   -
 
       -
         歌：平野綾、茅原実里、後藤邑子 / 作詞：畑亜貴 / 作曲：[田村信二](../Page/田村信二.md "wikilink") / 編曲：近藤昭雄
-        ラジオセカンドオープニング主題歌「[最強パレパレード](https://ja.wikipedia.org/wiki/最強パレパレード "wikilink")」のカップリング
+        ラジオセカンドオープニング主題歌「[最強パレパレード](../Page/最強パレパレード.md "wikilink")」のカップリング
 
 第6回放送まではオープニング/エンディング共に番組とは無関係なBGMが流されていた。
 
@@ -113,7 +113,7 @@
 
 ### 番外編CD
 
-本番組の番外編[ラジオCD](https://ja.wikipedia.org/wiki/ラジオCD "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月5日](../Page/7月5日.md "wikilink")から2006年[12月21日](../Page/12月21日.md "wikilink")まで[Lantisから発売された](https://ja.wikipedia.org/wiki/ランティス "wikilink")。
+本番組の番外編[ラジオCD](../Page/ラジオCD.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink")から2006年[12月21日](../Page/12月21日.md "wikilink")まで[Lantisから発売された](../Page/ランティス.md "wikilink")。
 
 ### 概要
 
@@ -173,7 +173,7 @@
 
 ### アニメDVD限定版特典CD
 
-アニメDVD限定版（全8巻）には、アニメの[サウンドトラック](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")とこのラジオ番組の再編集（新録なし）が収録されたCDが付属している。
+アニメDVD限定版（全8巻）には、アニメの[サウンドトラック](../Page/サウンドトラック.md "wikilink")とこのラジオ番組の再編集（新録なし）が収録されたCDが付属している。
 
 ## 放送リスト
 

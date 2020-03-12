@@ -1,37 +1,37 @@
 > この記事は[FJ](https://ja.wikipedia.org/wiki/FJ)から翻訳されています。
 
 
-**FJクルーザー**（*FJ Cruiser* 、エフジェイクルーザー）は[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")が[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")から製造していた[ミッドサイズ](https://ja.wikipedia.org/wiki/車格 "wikilink")\[1\]の[スポーツ・ユーティリティ・ビークル](../Page/スポーツ・ユーティリティ・ビークル.md "wikilink")（SUV）である。仕向地にかかわらず、すべてが[日野自動車](../Page/日野自動車.md "wikilink")[羽村工場で生産されていた](../Page/羽村市.md "wikilink")。
+**FJクルーザー**（*FJ Cruiser* 、エフジェイクルーザー）は[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")が[2006年](../Page/2006年.md "wikilink")から製造していた[ミッドサイズ](https://ja.wikipedia.org/wiki/車格 "wikilink")\[1\]の[スポーツ・ユーティリティ・ビークル](../Page/スポーツ・ユーティリティ・ビークル.md "wikilink")（SUV）である。仕向地にかかわらず、すべてが[日野自動車](../Page/日野自動車.md "wikilink")[羽村工場で生産されていた](../Page/羽村市.md "wikilink")。
 
 ## 概要
 
-[レトロ](https://ja.wikipedia.org/wiki/レトロ "wikilink")スタイルの中型SUVの北米市場専用車種として開発され、2003年[北米国際オートショー](../Page/北米国際オートショー.md "wikilink")にコンセプトカーとして初めて出品された。2005年には最終的な量産型として再び展示され、2006年モデルとして北米で販売開始された。日本向けは当初用意されなかったが、北米仕様の[逆輸入車](https://ja.wikipedia.org/wiki/逆輸入車 "wikilink")が一部で人気となるなどしたため急遽開発が始まり、2010年12月4日より販売開始された\[2\]。日本国内での販売ディーラーは[トヨタ店](https://ja.wikipedia.org/wiki/トヨタ店 "wikilink")が担当。日本市場には右ハンドル仕様の5速[AT](../Page/オートマチックトランスミッション.md "wikilink")・[4WD車が投入された](../Page/四輪駆動.md "wikilink")。右ハンドル仕様の登場により2011年4月11日から日本と同じ左側通行の[オーストラリア](../Page/オーストラリア.md "wikilink")でも販売が開始され、同時期に[ニュージーランド](../Page/ニュージーランド.md "wikilink")にも投入された。また、[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")市場においても、2013年12月24日に限定販売という形で[韓国トヨタ](https://ja.wikipedia.org/wiki/韓国トヨタ "wikilink")を通じて販売が開始された。本来の投入先である北米市場では2014年モデルを最後に販売を終了しており、日本市場でも2016年8月限りで生産終了することが一部メディアで発表されているが\[3\]、2018年1月末まで日本国内向け仕様は継続生産され続けた。
+[レトロ](../Page/レトロ.md "wikilink")スタイルの中型SUVの北米市場専用車種として開発され、2003年[北米国際オートショー](../Page/北米国際オートショー.md "wikilink")にコンセプトカーとして初めて出品された。2005年には最終的な量産型として再び展示され、2006年モデルとして北米で販売開始された。日本向けは当初用意されなかったが、北米仕様の[逆輸入車](https://ja.wikipedia.org/wiki/逆輸入車 "wikilink")が一部で人気となるなどしたため急遽開発が始まり、2010年12月4日より販売開始された\[2\]。日本国内での販売ディーラーは[トヨタ店](../Page/トヨタ店.md "wikilink")が担当。日本市場には右ハンドル仕様の5速[AT](../Page/オートマチックトランスミッション.md "wikilink")・[4WD車が投入された](../Page/四輪駆動.md "wikilink")。右ハンドル仕様の登場により2011年4月11日から日本と同じ左側通行の[オーストラリア](../Page/オーストラリア.md "wikilink")でも販売が開始され、同時期に[ニュージーランド](../Page/ニュージーランド.md "wikilink")にも投入された。また、[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")市場においても、2013年12月24日に限定販売という形で[韓国トヨタ](https://ja.wikipedia.org/wiki/韓国トヨタ "wikilink")を通じて販売が開始された。本来の投入先である北米市場では2014年モデルを最後に販売を終了しており、日本市場でも2016年8月限りで生産終了することが一部メディアで発表されているが\[3\]、2018年1月末まで日本国内向け仕様は継続生産され続けた。
 
 ## 仕様
 
-丸型[ヘッドランプ](https://ja.wikipedia.org/wiki/前照灯 "wikilink")、[オーバル](../Page/オーバル.md "wikilink")[グリルと統一](https://ja.wikipedia.org/wiki/フロントグリル "wikilink")[CI](https://ja.wikipedia.org/wiki/コーポレートアイデンティティ "wikilink")（[三つの楕円](http://www.toyota.co.jp/jpn/auto/emblem/passion/)）ではないTOYOTAの[ロゴ](https://ja.wikipedia.org/wiki/ロゴタイプ "wikilink")、白色の屋根などに見られるように、[FJ40型ランドクルーザーを彷彿とさせる外観が特徴である](https://ja.wikipedia.org/wiki/トヨタ・ランドクルーザー#40系（1960年-1984年） "wikilink")。
+丸型[ヘッドランプ](../Page/前照灯.md "wikilink")、[オーバル](../Page/オーバル.md "wikilink")[グリルと統一](https://ja.wikipedia.org/wiki/フロントグリル "wikilink")[CI](../Page/コーポレートアイデンティティ.md "wikilink")（[三つの楕円](http://www.toyota.co.jp/jpn/auto/emblem/passion/)）ではないTOYOTAの[ロゴ](../Page/ロゴタイプ.md "wikilink")、白色の屋根などに見られるように、[FJ40型ランドクルーザーを彷彿とさせる外観が特徴である](https://ja.wikipedia.org/wiki/トヨタ・ランドクルーザー#40系（1960年-1984年） "wikilink")。
 
-当初の企画目的は、日野・羽村工場の[ハイラックスサーフの](https://ja.wikipedia.org/wiki/トヨタ・ハイラックスサーフ "wikilink")[組立ラインを使い](../Page/ライン生産方式.md "wikilink")、収益性の高い新型車を開発することであった。[2000年](../Page/2000年.md "wikilink")に[ロッド・ミレン](https://ja.wikipedia.org/wiki/ロッド・ミレン "wikilink")が製作した[100系のシャシ](https://ja.wikipedia.org/wiki/トヨタ・ランドクルーザー#100系（1998年_-_2007年） "wikilink")、パワートレインに、FJ45V（初代4ドア）のボディを拡幅して載せた、ランドクルーザー同士を組み合わせた「レトロクルーザー」が話題となり、デザインコンセプトが決定した\[4\]。
+当初の企画目的は、日野・羽村工場の[ハイラックスサーフの](../Page/トヨタ・ハイラックスサーフ.md "wikilink")[組立ラインを使い](../Page/ライン生産方式.md "wikilink")、収益性の高い新型車を開発することであった。[2000年](../Page/2000年.md "wikilink")に[ロッド・ミレン](https://ja.wikipedia.org/wiki/ロッド・ミレン "wikilink")が製作した[100系のシャシ](https://ja.wikipedia.org/wiki/トヨタ・ランドクルーザー#100系（1998年_-_2007年） "wikilink")、パワートレインに、FJ45V（初代4ドア）のボディを拡幅して載せた、ランドクルーザー同士を組み合わせた「レトロクルーザー」が話題となり、デザインコンセプトが決定した\[4\]。
 
-特に低められたフロント[ウインドシールドと](https://ja.wikipedia.org/wiki/風防 "wikilink")、大胆に立てられたA[ピラー](https://ja.wikipedia.org/wiki/ピラー "wikilink")によって古風な雰囲気を高めている。起こされたフロントウインドシールドは[空力面では大きな欠点となるが](https://ja.wikipedia.org/wiki/空気力学 "wikilink")、外装上の重要点とされ、安易な変更は考慮されなかった。そのため、検討や実験に多くの時間を割くことになったが、その甲斐もあり、空力面でも満足できる仕上がりとなっている。
+特に低められたフロント[ウインドシールドと](https://ja.wikipedia.org/wiki/風防 "wikilink")、大胆に立てられたA[ピラー](https://ja.wikipedia.org/wiki/ピラー "wikilink")によって古風な雰囲気を高めている。起こされたフロントウインドシールドは[空力面では大きな欠点となるが](../Page/空気力学.md "wikilink")、外装上の重要点とされ、安易な変更は考慮されなかった。そのため、検討や実験に多くの時間を割くことになったが、その甲斐もあり、空力面でも満足できる仕上がりとなっている。
 
-前年に発表された6代目[フォード・マスタング](https://ja.wikipedia.org/wiki/フォード・マスタング "wikilink")に代表される「[レトロ](https://ja.wikipedia.org/wiki/レトロ "wikilink")デザイン」としてくくられることもあるが、全体的にはモダンな外装となっており、単に御先祖の姿をなぞっただけに留まってはいない。
+前年に発表された6代目[フォード・マスタング](../Page/フォード・マスタング.md "wikilink")に代表される「[レトロ](../Page/レトロ.md "wikilink")デザイン」としてくくられることもあるが、全体的にはモダンな外装となっており、単に御先祖の姿をなぞっただけに留まってはいない。
 
-[シャーシは](https://ja.wikipedia.org/wiki/シャシ_\(自動車\) "wikilink")[ランドクルーザープラドと共通の構成の](../Page/トヨタ・ランドクルーザープラド.md "wikilink")[ラダーフレームを採用しており](https://ja.wikipedia.org/wiki/フレーム形式_\(自動車\) "wikilink")、本格的なSUVといえる。[ホイールベース](https://ja.wikipedia.org/wiki/ホイールベース "wikilink")は当モデル独自の2,690 mmであるが、サスペンションやドライブトレインは[タコマ](https://ja.wikipedia.org/wiki/トヨタ・タコマ "wikilink")、4ランナー（[ハイラックスサーフ](https://ja.wikipedia.org/wiki/トヨタ・ハイラックスサーフ "wikilink")）、プラドと共通のものとなっている。[トランスファー](../Page/トランスファー.md "wikilink")は6速MT車が[フルタイム4WD](https://ja.wikipedia.org/wiki/フルタイム4WD "wikilink")、5速AT車が[パートタイム4WDとなっており](https://ja.wikipedia.org/wiki/四輪駆動#パートタイム式 "wikilink")、5速AT車のみ2WD（[後輪駆動](https://ja.wikipedia.org/wiki/後輪駆動 "wikilink")）も選ぶことができる。ドライブトレーンはプラドの4.0 L(1GR-FE)エンジン搭載モデルと共通部分があるが、プラドには2WDの設定はない。
+[シャーシは](../Page/シャシ_\(自動車\).md "wikilink")[ランドクルーザープラドと共通の構成の](../Page/トヨタ・ランドクルーザープラド.md "wikilink")[ラダーフレームを採用しており](../Page/フレーム形式_\(自動車\).md "wikilink")、本格的なSUVといえる。[ホイールベース](../Page/ホイールベース.md "wikilink")は当モデル独自の2,690 mmであるが、サスペンションやドライブトレインは[タコマ](../Page/トヨタ・タコマ.md "wikilink")、4ランナー（[ハイラックスサーフ](../Page/トヨタ・ハイラックスサーフ.md "wikilink")）、プラドと共通のものとなっている。[トランスファー](../Page/トランスファー.md "wikilink")は6速MT車が[フルタイム4WD](https://ja.wikipedia.org/wiki/フルタイム4WD "wikilink")、5速AT車が[パートタイム4WDとなっており](https://ja.wikipedia.org/wiki/四輪駆動#パートタイム式 "wikilink")、5速AT車のみ2WD（[後輪駆動](../Page/後輪駆動.md "wikilink")）も選ぶことができる。ドライブトレーンはプラドの4.0 L(1GR-FE)エンジン搭載モデルと共通部分があるが、プラドには2WDの設定はない。
 
-エンジンにはタコマ、4ランナー、プラドと共通の[V型6気筒](https://ja.wikipedia.org/wiki/V型6気筒 "wikilink") 4.0 Lの[1GR-FE型が搭載されるが](https://ja.wikipedia.org/wiki/トヨタ・GRエンジン "wikilink")、北米市場ならではの[オクタン価](https://ja.wikipedia.org/wiki/オクタン価 "wikilink")や使用速度域、好まれるトルク感や排気音などに合わせ、同エンジンが搭載される他モデルとは給排気系と[ECUが異なっている](https://ja.wikipedia.org/wiki/エンジンコントロールユニット "wikilink")。トランスミッションは6速[MTと](../Page/マニュアルトランスミッション.md "wikilink")5速[ATとが設定されており](../Page/オートマチックトランスミッション.md "wikilink")、どちらも[フロアシフトとなっている](../Page/シフトレバーの配置.md "wikilink")。日本仕様においては平成17年[排出ガス基準](../Page/自動車排出ガス規制.md "wikilink")50 %低減の低排出ガス車の認定を受けている。
+エンジンにはタコマ、4ランナー、プラドと共通の[V型6気筒](../Page/V型6気筒.md "wikilink") 4.0 Lの[1GR-FE型が搭載されるが](../Page/トヨタ・GRエンジン.md "wikilink")、北米市場ならではの[オクタン価](https://ja.wikipedia.org/wiki/オクタン価 "wikilink")や使用速度域、好まれるトルク感や排気音などに合わせ、同エンジンが搭載される他モデルとは給排気系と[ECUが異なっている](../Page/エンジンコントロールユニット.md "wikilink")。トランスミッションは6速[MTと](../Page/マニュアルトランスミッション.md "wikilink")5速[ATとが設定されており](../Page/オートマチックトランスミッション.md "wikilink")、どちらも[フロアシフトとなっている](../Page/シフトレバーの配置.md "wikilink")。日本仕様においては平成17年[排出ガス基準](../Page/自動車排出ガス規制.md "wikilink")50 %低減の低排出ガス車の認定を受けている。
 
-乗降用ドアは両側面とも[ピラー](https://ja.wikipedia.org/wiki/ピラー "wikilink")レス（ドアに内蔵）の[観音開き](../Page/観音開き.md "wikilink")で、前席の[シートベルト](https://ja.wikipedia.org/wiki/シートベルト "wikilink")も後ろのドアに組み込まれており、後ろのドアのみを開けることはできない構造になっている。ソフト素材で造られた荷室の床を含め、室内は防水・防汚仕様となっている。また、[エアコンスイッチやインナードアハンドル](https://ja.wikipedia.org/wiki/カーエアコン "wikilink")、[シフトノブ](../Page/シフトノブ.md "wikilink")など、手に触れる部分は[グローブを装着したままでも操作しやすいように大型化されている](https://ja.wikipedia.org/wiki/手袋 "wikilink")。
+乗降用ドアは両側面とも[ピラー](https://ja.wikipedia.org/wiki/ピラー "wikilink")レス（ドアに内蔵）の[観音開き](../Page/観音開き.md "wikilink")で、前席の[シートベルト](../Page/シートベルト.md "wikilink")も後ろのドアに組み込まれており、後ろのドアのみを開けることはできない構造になっている。ソフト素材で造られた荷室の床を含め、室内は防水・防汚仕様となっている。また、[エアコンスイッチやインナードアハンドル](https://ja.wikipedia.org/wiki/カーエアコン "wikilink")、[シフトノブ](../Page/シフトノブ.md "wikilink")など、手に触れる部分は[グローブを装着したままでも操作しやすいように大型化されている](../Page/手袋.md "wikilink")。
 
-なお、日本仕様は国内法規に従い[サイドアンダーミラー](https://ja.wikipedia.org/wiki/サイドアンダーミラー "wikilink")が装着され、灯火類も変更されている。側面用の[ターンシグナルランプ](https://ja.wikipedia.org/wiki/方向指示器 "wikilink")（ウィンカー）をフロント[フェンダーにも増設](https://ja.wikipedia.org/wiki/フェンダー_\(自動車\) "wikilink")、また、角度によってスペアタイヤに遮られて見えなくなる後部ターンシグナルランプと後部[ナンバープレート](https://ja.wikipedia.org/wiki/ナンバープレート "wikilink")の取り付け位置をバンパー部分に変更、同時にリア[フォグランプ](../Page/フォグランプ.md "wikilink")も追加されている。[オーディオは全車レス仕様となっている](https://ja.wikipedia.org/wiki/カーオーディオ "wikilink")。
+なお、日本仕様は国内法規に従い[サイドアンダーミラー](../Page/サイドアンダーミラー.md "wikilink")が装着され、灯火類も変更されている。側面用の[ターンシグナルランプ](../Page/方向指示器.md "wikilink")（ウィンカー）をフロント[フェンダーにも増設](../Page/フェンダー_\(自動車\).md "wikilink")、また、角度によってスペアタイヤに遮られて見えなくなる後部ターンシグナルランプと後部[ナンバープレート](../Page/ナンバープレート.md "wikilink")の取り付け位置をバンパー部分に変更、同時にリア[フォグランプ](../Page/フォグランプ.md "wikilink")も追加されている。[オーディオは全車レス仕様となっている](../Page/カーオーディオ.md "wikilink")。
 
 ファイル:Toyota-FJ-Cruiser-2.jpg|北米仕様 フロント ファイル:Toyota-FJ-Cruiser-1.jpg|北米仕様 リア ファイル:FJ cruiser rear door.JPG|観音開きの側扉
 
 ## 初代 GSJ15W型（2006年-2018年）
 
   - [2004年](../Page/2004年.md "wikilink") - デトロイトショーでFJクルーザー・コンセプト発表。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") - シカゴモーターショーでプロトタイプ発表。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")3月末 - 北米で発売。
+  - [2005年](../Page/2005年.md "wikilink") - シカゴモーターショーでプロトタイプ発表。
+  - [2006年](../Page/2006年.md "wikilink")3月末 - 北米で発売。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") - [メキシコ](../Page/メキシコ.md "wikilink")、[中国で発売](../Page/中華人民共和国.md "wikilink")。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[11月25日](../Page/11月25日.md "wikilink") - 12月4日に日本で発売開始することが発表された。グレードはベースモデルとなる「FJクルーザー」、ハードなオフロード使用を意識し、[ビルシュタイン](../Page/ビルシュタイン.md "wikilink")製ダンパーやリヤデフロックを装備した「FJクルーザー オフロードパッケージ」、[クルーズコントロール](../Page/クルーズコントロール.md "wikilink")やカラードドアトリムを装備した「FJクルーザー カラーパッケージ」の3種を用意する。
   - [2011年](../Page/2011年.md "wikilink")4月 - オーストラリア、ニュージーランドで発売。
@@ -51,9 +51,9 @@
   - [トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")
   - [トヨタ・ランドクルーザー](https://ja.wikipedia.org/wiki/トヨタ・ランドクルーザー "wikilink")
   - [トヨタ・ランドクルーザープラド](../Page/トヨタ・ランドクルーザープラド.md "wikilink")
-  - [トヨタ・ハイラックスサーフ](https://ja.wikipedia.org/wiki/トヨタ・ハイラックスサーフ "wikilink")
-  - [トヨタ・メガクルーザー](https://ja.wikipedia.org/wiki/トヨタ・メガクルーザー "wikilink")
-  - [ハマー (自動車)](https://ja.wikipedia.org/wiki/ハマー_\(自動車\) "wikilink")
+  - [トヨタ・ハイラックスサーフ](../Page/トヨタ・ハイラックスサーフ.md "wikilink")
+  - [トヨタ・メガクルーザー](../Page/トヨタ・メガクルーザー.md "wikilink")
+  - [ハマー (自動車)](../Page/ハマー_\(自動車\).md "wikilink")
 
 ## 外部リンク
 

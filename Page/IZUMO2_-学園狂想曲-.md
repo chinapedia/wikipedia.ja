@@ -1,9 +1,9 @@
 > この記事は[IZUMO2 --](https://ja.wikipedia.org/wiki/IZUMO2_--)から翻訳されています。
 
 
-『**IZUMO2 -学園狂想曲-**』（イズモ2 がくえんきょうそうきょく）は[Studio e.go\!のアダルトゲーム](https://ja.wikipedia.org/wiki/Studio_e.go! "wikilink")『[IZUMO2](https://ja.wikipedia.org/wiki/IZUMO2 "wikilink")』の正統な続編であるが、前作のどのエンディングからもつながっていない。前作から間もない時間帯でのストーリー。Studio e.go\!ではお馴染みの原画家[山本和枝](https://ja.wikipedia.org/wiki/山本和枝 "wikilink")によってキャラのデザインは一新され、新キャラクターなども登場する。
+『**IZUMO2 -学園狂想曲-**』（イズモ2 がくえんきょうそうきょく）は[Studio e.go\!のアダルトゲーム](../Page/Studio_e.go!.md "wikilink")『[IZUMO2](https://ja.wikipedia.org/wiki/IZUMO2 "wikilink")』の正統な続編であるが、前作のどのエンディングからもつながっていない。前作から間もない時間帯でのストーリー。Studio e.go\!ではお馴染みの原画家[山本和枝](../Page/山本和枝.md "wikilink")によってキャラのデザインは一新され、新キャラクターなども登場する。
 
-[GN Softwareによる](https://ja.wikipedia.org/wiki/GN_Software "wikilink")[PlayStation 2の](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[コンシューマーゲーム](../Page/コンシューマーゲーム.md "wikilink")への移植が2008年1月31日に『**IZUMO2 -学園狂想曲- ダブルタクト**』のタイトルで発売された（[CEROレーティング](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")12才以上対象）。
+[GN Softwareによる](../Page/GN_Software.md "wikilink")[PlayStation 2の](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[コンシューマーゲーム](../Page/コンシューマーゲーム.md "wikilink")への移植が2008年1月31日に『**IZUMO2 -学園狂想曲- ダブルタクト**』のタイトルで発売された（[CEROレーティング](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")12才以上対象）。
 
 ## ストーリー
 
@@ -30,16 +30,16 @@
     声：[しがけんじ](https://ja.wikipedia.org/wiki/しがけんじ "wikilink")
     猛の悪友。美女と美少女が大好きなトラブルメーカー。前作ではプロローグと中盤のみの登場であったが、今回は舞台が学園と言うこともあり、出ずっぱり。基本的な性格が似ているためか、ニニギとも仲良くなる。
   - サクヤ
-    声：[みる](https://ja.wikipedia.org/wiki/みる "wikilink")
+    声：[みる](../Page/みる.md "wikilink")
     ネノクニの巫女であり、カグツチとアマテラスの娘。前作でネノクニに残ったが、ニニギの求婚から逃げるためにアシハラノクニへやって来た。その後、六介の計らいで塔馬家に居候し、出雲学園に通うことに。前作でもアシハラノクニに来たためか、あっさり順応している。ニニギ同様、学園では塔馬姓を名乗る。今作の**メインヒロイン**。
   - 冬木 凪（ふゆき なぎ）
-    声：[野神奈々](https://ja.wikipedia.org/wiki/野神奈々 "wikilink")
+    声：[野神奈々](../Page/野神奈々.md "wikilink")
     出雲学園の産休代理教師。猛たちのクラスの副担任になる。基本的に（相当な）おっちょこちょいだが、ピアノの演奏や料理は得意。実は一作目に登場した蜘蛛の精霊・楓の転生体。そのため、糸を自在に放出して操ることができる。今作の**裏ヒロイン**。因みに彼女のルートに進んだ場合、猛は一作目のパーティ（つまりカグツチの仲間達）のほとんどが、自分達の仲間の関係者である事を知る事になる。
   - 白鳥 琴乃（しらとり ことの）
     声：[海原エレナ](https://ja.wikipedia.org/wiki/海原エレナ "wikilink")
     猛の幼なじみで、家事が得意。前作では身体が弱かったが、ネノクニから帰還した後は丈夫になった。今作でも塔馬家の食事を作ったりしている。料理の腕は前作よりも上がったらしく、随所でその達人振りを発揮している。
   - 白鳥 明日香（しらとり あすか）
-    声：[木葉楓](https://ja.wikipedia.org/wiki/木葉楓 "wikilink")
+    声：[木葉楓](../Page/木葉楓.md "wikilink")
     琴乃の妹であり、同じく猛とも幼なじみ。弓道部に所属し、前作の戦いを経て、さらに腕を上げた模様。しかし、とまっている的では物足りない、と少々危険なことをもらしている。お菓子作りの腕も上がっており、喫茶店でのバイトもこなしている。ちなみに、サクヤとヒミコは彼女のクラスに編入する。
   - 逢須 芹（おおす せり）
     声：[みすみ](https://ja.wikipedia.org/wiki/みすみ "wikilink")

@@ -1,15 +1,15 @@
 > この記事は[Monochrome](https://ja.wikipedia.org/wiki/Monochrome)から翻訳されています。
 
 
-『**Monochrome**』（モノクローム）は、[KIDより](../Page/KID_\(ゲームブランド\).md "wikilink")[2004年](../Page/2004年.md "wikilink")[8月26日](../Page/8月26日.md "wikilink")に[PlayStation 2で発売された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月24日](../Page/11月24日.md "wikilink")に[サクセスより](https://ja.wikipedia.org/wiki/サクセス_\(ゲーム会社\) "wikilink")[SuperLite2000シリーズにて](https://ja.wikipedia.org/wiki/SuperLiteシリーズ "wikilink")、廉価版も発売されている。
+『**Monochrome**』（モノクローム）は、[KIDより](../Page/KID_\(ゲームブランド\).md "wikilink")[2004年](../Page/2004年.md "wikilink")[8月26日](../Page/8月26日.md "wikilink")に[PlayStation 2で発売された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")。[2005年](../Page/2005年.md "wikilink")[11月24日](../Page/11月24日.md "wikilink")に[サクセスより](../Page/サクセス_\(ゲーム会社\).md "wikilink")[SuperLite2000シリーズにて](../Page/SuperLiteシリーズ.md "wikilink")、廉価版も発売されている。
 
-KIDからは限定版と通常版の2種類が発売され、限定版には作中[BGMの収録された](https://ja.wikipedia.org/wiki/バックグラウンドミュージック "wikilink")[サウンドトラック](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")CDと[アンソロジー](../Page/アンソロジー.md "wikilink")[イラスト](https://ja.wikipedia.org/wiki/イラスト "wikilink")集が同梱されている。
+KIDからは限定版と通常版の2種類が発売され、限定版には作中[BGMの収録された](../Page/バックグラウンドミュージック.md "wikilink")[サウンドトラック](../Page/サウンドトラック.md "wikilink")CDと[アンソロジー](../Page/アンソロジー.md "wikilink")[イラスト](https://ja.wikipedia.org/wiki/イラスト "wikilink")集が同梱されている。
 
-KID倒産後にブランドを継承した[サイバーフロント](https://ja.wikipedia.org/wiki/サイバーフロント "wikilink")（現在は解散）から、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に[PlayStation Portable版で](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")、KID発売時と同じく限定版と通常版の2種類が発売された。
+KID倒産後にブランドを継承した[サイバーフロント](../Page/サイバーフロント.md "wikilink")（現在は解散）から、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に[PlayStation Portable版で](../Page/PlayStation_Portable.md "wikilink")、KID発売時と同じく限定版と通常版の2種類が発売された。
 
 ## 概要
 
-KIDが制作した『[てんたま](https://ja.wikipedia.org/wiki/てんたま "wikilink")』の外伝的作品で\[1\]、シリーズ第3作にあたる。企画自体は第2作『てんたま2wins』よりも先行しており\[2\]、第1作『てんたま -1st sunny side-』の関連書籍には、実現未確定の「ナゾの資料」として、本作品のキャラクターデザインの原型が収録されている\[3\]。しかし製品版デザイン担当者の[鈴平ひろ](https://ja.wikipedia.org/wiki/鈴平ひろ "wikilink")が別件を終わらせるまで作業に取り掛かれなかったため、本作品は一旦凍結されて『てんたま2wins』の企画が開始し、両作品は並行して制作されていた\[4\]。
+KIDが制作した『[てんたま](../Page/てんたま.md "wikilink")』の外伝的作品で\[1\]、シリーズ第3作にあたる。企画自体は第2作『てんたま2wins』よりも先行しており\[2\]、第1作『てんたま -1st sunny side-』の関連書籍には、実現未確定の「ナゾの資料」として、本作品のキャラクターデザインの原型が収録されている\[3\]。しかし製品版デザイン担当者の[鈴平ひろ](https://ja.wikipedia.org/wiki/鈴平ひろ "wikilink")が別件を終わらせるまで作業に取り掛かれなかったため、本作品は一旦凍結されて『てんたま2wins』の企画が開始し、両作品は並行して制作されていた\[4\]。
 
 特徴は当時KID作品では初導入の[ストリーミング](../Page/ストリーミング.md "wikilink")による重厚なBGMと、[横須賀市](../Page/横須賀市.md "wikilink")をモチーフとした異文化を感じさせる街の風景である\[5\]。
 
@@ -23,7 +23,7 @@ PlayStation Portable版移植に伴いイベントシーンの高画質化とPSP
 
 両親を事故で亡くし過去の記憶を失った主人公・桐丘大輝は、桐丘家の養子として引き取られ桐ヶ丘学院の学院長で、また義理の姉である桐丘千歳と学院の廃寮で流れゆく日々を過ごしていた。
 
-12月のある日、羽を生やした女の子がやってくる。自らを遊羽（ゆん）と名乗る少女は、まだ見習いの天使のたまごで、正式な天使となる試験を受けに天界から地上までやってきたと言う。試験の内容は「対象者」と呼ばれる特定の人間を幸せにするというものであり、[クリスマス](https://ja.wikipedia.org/wiki/クリスマス "wikilink")までにこの課題を果たせなければまた来年に試験を受け直しになってしまう。大輝は遊羽の対象者として選ばれたのだった。
+12月のある日、羽を生やした女の子がやってくる。自らを遊羽（ゆん）と名乗る少女は、まだ見習いの天使のたまごで、正式な天使となる試験を受けに天界から地上までやってきたと言う。試験の内容は「対象者」と呼ばれる特定の人間を幸せにするというものであり、[クリスマス](../Page/クリスマス.md "wikilink")までにこの課題を果たせなければまた来年に試験を受け直しになってしまう。大輝は遊羽の対象者として選ばれたのだった。
 
 こうして、遊羽は冬の1か月を大輝の傍で過ごしていくことになる。
 
@@ -52,7 +52,7 @@ PlayStation Portable版移植に伴いイベントシーンの高画質化とPSP
 <!-- end list -->
 
   - 雛水（ひなみな）
-    声：[森永理科](https://ja.wikipedia.org/wiki/森永理科 "wikilink")
+    声：[森永理科](../Page/森永理科.md "wikilink")
     年齢：人間に換算すると15歳くらい
     誕生日：12月25日
     身長：163cm
@@ -61,7 +61,7 @@ PlayStation Portable版移植に伴いイベントシーンの高画質化とPSP
     遊羽の親友で同期だが、既に試験に合格しており、正式な天使である。
     遊羽とは正反対の生真面目で冷静な性格で、天界を統べる存在である「元老院」から信頼を置かれ、たびたび重要な任務をこなしてきた実力者。
   - 椿 梨沙（つばき りさ）
-    声：[千葉紗子](https://ja.wikipedia.org/wiki/千葉紗子 "wikilink")
+    声：[千葉紗子](../Page/千葉紗子.md "wikilink")
     年齢：13歳
     誕生日：12月25日
     身長：145cm
@@ -98,7 +98,7 @@ PlayStation Portable版移植に伴いイベントシーンの高画質化とPSP
     桐ヶ丘学院の学院長で、大輝の義姉。20代半ばだが、昔の事故が原因で身体の成長が子供のまま止まっており、小学生に見える。本人は「魔法」のせいであると主張している。
     大輝を溺愛しており、周囲から[ブラコン](https://ja.wikipedia.org/wiki/ブラコン "wikilink")と揶揄される事もしばしばである。
   - 中條 崇（なかじょう あたら）
-    声：[谷山紀章](https://ja.wikipedia.org/wiki/谷山紀章 "wikilink")
+    声：[谷山紀章](../Page/谷山紀章.md "wikilink")
     年齢：18歳
     誕生日：[6月11日](../Page/6月11日.md "wikilink")
     身長：183cm
@@ -110,7 +110,7 @@ PlayStation Portable版移植に伴いイベントシーンの高画質化とPSP
   - 監督：しまぞう
   - キャラクターデザイン：[鈴平ひろ](https://ja.wikipedia.org/wiki/鈴平ひろ "wikilink")
   - 原画：伊藤まさひさ
-  - シナリオ：[高瀬伸](https://ja.wikipedia.org/wiki/高瀬伸 "wikilink")、[日暮茶坊](https://ja.wikipedia.org/wiki/日暮茶坊 "wikilink")、長井知佳
+  - シナリオ：[高瀬伸](https://ja.wikipedia.org/wiki/高瀬伸 "wikilink")、[日暮茶坊](../Page/日暮茶坊.md "wikilink")、長井知佳
   - 音楽：[阿保剛](../Page/阿保剛.md "wikilink")
 
 <!-- end list -->
@@ -120,7 +120,7 @@ PlayStation Portable版移植に伴いイベントシーンの高画質化とPSP
 <!-- end list -->
 
   -
-    作詞：[畑亜貴](https://ja.wikipedia.org/wiki/畑亜貴 "wikilink") / 作曲：原田勝通 / 編曲：[Angel Note](../Page/Angel_Note.md "wikilink") / 歌：[小枝](https://ja.wikipedia.org/wiki/弓原七海 "wikilink")
+    作詞：[畑亜貴](../Page/畑亜貴.md "wikilink") / 作曲：原田勝通 / 編曲：[Angel Note](../Page/Angel_Note.md "wikilink") / 歌：[小枝](https://ja.wikipedia.org/wiki/弓原七海 "wikilink")
 
 <!-- end list -->
 
@@ -146,7 +146,7 @@ PlayStation Portable版移植に伴いイベントシーンの高画質化とPSP
 
   - 攻略情報や設定が記載されたファンブック。
       - モノクローム ビジュアルファンブック（[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")）ISBN 4-7577-2066-1
-      - モノクローム 設定解説ファンブック（[ジャイブ](https://ja.wikipedia.org/wiki/ジャイブ "wikilink")）ISBN 4-86176-003-8
+      - モノクローム 設定解説ファンブック（[ジャイブ](../Page/ジャイブ.md "wikilink")）ISBN 4-86176-003-8
   - [高瀬伸](https://ja.wikipedia.org/wiki/高瀬伸 "wikilink")による小説版。ゲーム本編の梨沙バッドエンドからつながる物語。
       - モノクローム -One Year After-（ジャイブ）ISBN 4-86176-147-6
   - [月刊COMIC RUSHに連載された](https://ja.wikipedia.org/wiki/月刊COMIC_RUSH "wikilink")、[アザミユウコ](https://ja.wikipedia.org/wiki/アザミユウコ "wikilink")による漫画版。オリジナルヒロインの**小野寺まゆ**が登場する。
@@ -155,7 +155,7 @@ PlayStation Portable版移植に伴いイベントシーンの高画質化とPSP
 
 ### CD
 
-  - monochrome Vocal Collection halo（[ランティス](https://ja.wikipedia.org/wiki/ランティス "wikilink")、LACM4151）
+  - monochrome Vocal Collection halo（[ランティス](../Page/ランティス.md "wikilink")、LACM4151）
   - モノクローム BGMコレクション（KID、kid0057 - 58）※通販限定
 
 ## 脚注
@@ -182,7 +182,7 @@ PlayStation Portable版移植に伴いイベントシーンの高画質化とPSP
 
 1.  PSP版『Monochrome』初回限定版同梱ブックレット「a limited edition booklet」p.23
 2.
-3.  『てんたま -1st Sunny Side- 設定解説ファンブック』[ローカス](https://ja.wikipedia.org/wiki/ローカス_\(出版社\) "wikilink")、2002年1月、p.128。ISBN 4-89814-327-X
+3.  『てんたま -1st Sunny Side- 設定解説ファンブック』[ローカス](../Page/ローカス_\(出版社\).md "wikilink")、2002年1月、p.128。ISBN 4-89814-327-X
 4.
 5.  「a limited edition booklet」p.24
 6.  『[電撃G's magazine](../Page/電撃G's_magazine.md "wikilink")』2005年3月号、メディアワークス、p.55

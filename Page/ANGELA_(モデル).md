@@ -1,7 +1,7 @@
 > この記事は[ANGELA \(\)](https://ja.wikipedia.org/wiki/ANGELA_\(\))から翻訳されています。
 
 
-**アンジェラ**（*ANGELA*　- ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[モデルである](https://ja.wikipedia.org/wiki/モデル_\(職業\) "wikilink")。7月27日生まれ。[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身。日英のハーフ。
+**アンジェラ**（*ANGELA*　- ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[モデルである](../Page/モデル_\(職業\).md "wikilink")。7月27日生まれ。[東京都](../Page/東京都.md "wikilink")出身。日英のハーフ。
 
 所属事務所は[館岡事務所](../Page/館岡事務所.md "wikilink")。またモデル以外の活動のエージェントとして[BEACON ALLIANCEに在籍している](https://ja.wikipedia.org/wiki/BEACON_ALLIANCE "wikilink")。
 
@@ -17,8 +17,8 @@ italianVOGUE、UK VOGUE、ELLE、ID等で海外でも広く活躍。また海外
 
 ### 雑誌
 
-  - [GINZA](../Page/GINZA.md "wikilink")（[マガジンハウス](https://ja.wikipedia.org/wiki/マガジンハウス "wikilink")）
-  - [GINGER](https://ja.wikipedia.org/wiki/GINGER "wikilink")（[幻冬舎](https://ja.wikipedia.org/wiki/幻冬舎 "wikilink")）
+  - [GINZA](../Page/GINZA.md "wikilink")（[マガジンハウス](../Page/マガジンハウス.md "wikilink")）
+  - [GINGER](https://ja.wikipedia.org/wiki/GINGER "wikilink")（[幻冬舎](../Page/幻冬舎.md "wikilink")）
   - [GLAMOROUS](https://ja.wikipedia.org/wiki/GLAMOROUS "wikilink")（[講談社](../Page/講談社.md "wikilink")）
   - ELLE japon（[ハースト婦人画報社](../Page/ハースト婦人画報社.md "wikilink")）
   - [InRed](https://ja.wikipedia.org/wiki/InRed "wikilink")（[宝島社](../Page/宝島社.md "wikilink")）

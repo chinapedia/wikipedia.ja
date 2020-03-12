@@ -1,11 +1,11 @@
 > この記事は[DX!](https://ja.wikipedia.org/wiki/DX!)から翻訳されています。
 
 
-『**アニメ週刊DX\!みいファぷー**』（アニメしゅうかんデラックス みいファぷー）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月14日](../Page/2月14日.md "wikilink")から[1999年](../Page/1999年.md "wikilink")[2月6日](https://ja.wikipedia.org/wiki/2月6日 "wikilink")まで[テレビ朝日系列](../Page/オールニッポン・ニュースネットワーク.md "wikilink")[フルネット](https://ja.wikipedia.org/wiki/フルネット "wikilink")局が編成していた[アニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")[コンプレックス枠である](../Page/コンプレックス_\(番組形式\).md "wikilink")。全47回。
+『**アニメ週刊DX\!みいファぷー**』（アニメしゅうかんデラックス みいファぷー）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月14日](../Page/2月14日.md "wikilink")から[1999年](../Page/1999年.md "wikilink")[2月6日](../Page/2月6日.md "wikilink")まで[テレビ朝日系列](../Page/オールニッポン・ニュースネットワーク.md "wikilink")[フルネット](https://ja.wikipedia.org/wiki/フルネット "wikilink")局が編成していた[アニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")[コンプレックス枠である](../Page/コンプレックス_\(番組形式\).md "wikilink")。全47回。
 
 ## 概要
 
-[小学館](../Page/小学館.md "wikilink")の絵本雑誌や少女向け漫画雑誌の連載作品を基にした短編アニメ『[こっちむいてみい子](https://ja.wikipedia.org/wiki/こっちむいて!みい子 "wikilink")』『[ふしぎ魔法ファンファンファーマシィー](https://ja.wikipedia.org/wiki/ふしぎ魔法ファンファンファーマシィー "wikilink")』『[ヘリタコぷーちゃん](https://ja.wikipedia.org/wiki/ヘリタコぷーちゃん "wikilink")』を1本の枠でまとめたものである。作品間を繋ぐ進行役として、[赤塚不二夫](../Page/赤塚不二夫.md "wikilink")キャラの[ニャロメ](../Page/ニャロメ.md "wikilink")、[ケムンパス](https://ja.wikipedia.org/wiki/ケムンパス "wikilink")、[べし](https://ja.wikipedia.org/wiki/べし "wikilink")も登場させていた。
+[小学館](../Page/小学館.md "wikilink")の絵本雑誌や少女向け漫画雑誌の連載作品を基にした短編アニメ『[こっちむいてみい子](../Page/こっちむいて!みい子.md "wikilink")』『[ふしぎ魔法ファンファンファーマシィー](../Page/ふしぎ魔法ファンファンファーマシィー.md "wikilink")』『[ヘリタコぷーちゃん](../Page/ヘリタコぷーちゃん.md "wikilink")』を1本の枠でまとめたものである。作品間を繋ぐ進行役として、[赤塚不二夫](../Page/赤塚不二夫.md "wikilink")キャラの[ニャロメ](../Page/ニャロメ.md "wikilink")、[ケムンパス](https://ja.wikipedia.org/wiki/ケムンパス "wikilink")、[べし](https://ja.wikipedia.org/wiki/べし "wikilink")も登場させていた。
 
 3作品ともに[東映アニメーション](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")の制作で、担当[声優](../Page/声優.md "wikilink")も2作品または3作品全てを兼任している者が多かった。作品ジャンルはそれぞれ子供の日常を描いたもの、[ファンタジー](../Page/ファンタジー.md "wikilink")、[スラップスティック](https://ja.wikipedia.org/wiki/スラップスティック "wikilink")[ギャグ](../Page/ギャグ.md "wikilink")とタイプが大きく異なっていた。3作品の放送順はある程度決まっていて、当初は『ぷーちゃん』→『みい子』→『ファーマシィ』の順で、後に『ファーマシィ』→『みい子』→『ぷーちゃん』の順に変更された。
 
@@ -16,13 +16,13 @@
 いずれも[日本標準時](../Page/日本標準時.md "wikilink")。
 
   - 土曜 18時30分 - 19時00分（[テレビ朝日](../Page/テレビ朝日.md "wikilink")など23局）
-  - 土曜 17時00分 - 17時30分（[朝日放送](../Page/朝日放送テレビ.md "wikilink")） - ローカルドラマ『[新・部長刑事アーバンポリス24](https://ja.wikipedia.org/wiki/部長刑事 "wikilink")』放送の影響で、本来は19時00分から放送の『[追跡\!金運王国](https://ja.wikipedia.org/wiki/追跡!金運王国 "wikilink")』→『[真相究明\!噂のファイル](https://ja.wikipedia.org/wiki/真相究明!噂のファイル "wikilink")』→『[あなたのフツーは大丈夫\!?激突ハッピーチェック](https://ja.wikipedia.org/wiki/あなたのフツーは大丈夫!?激突ハッピーチェック "wikilink")』を30分繰り上げていたため\[1\]。
+  - 土曜 17時00分 - 17時30分（[朝日放送](../Page/朝日放送テレビ.md "wikilink")） - ローカルドラマ『[新・部長刑事アーバンポリス24](../Page/部長刑事.md "wikilink")』放送の影響で、本来は19時00分から放送の『[追跡\!金運王国](https://ja.wikipedia.org/wiki/追跡!金運王国 "wikilink")』→『[真相究明\!噂のファイル](https://ja.wikipedia.org/wiki/真相究明!噂のファイル "wikilink")』→『[あなたのフツーは大丈夫\!?激突ハッピーチェック](../Page/あなたのフツーは大丈夫!?激突ハッピーチェック.md "wikilink")』を30分繰り上げていたため\[1\]。
 
 ## スタッフ
 
   - 原作（ニャロメと仲間たち） - [赤塚不二夫](../Page/赤塚不二夫.md "wikilink")
-  - 小学館掲載誌 - [ちゃお](https://ja.wikipedia.org/wiki/ちゃお "wikilink")、[おひさま](../Page/おひさま_\(雑誌\).md "wikilink")、[めばえ](https://ja.wikipedia.org/wiki/めばえ_\(雑誌\) "wikilink")、[幼稚園](../Page/幼稚園_\(雑誌\).md "wikilink")、[学習幼稚園、小学一年生、小学二年生、小学三年生、小学四年生、小学五年生、小学六年生](https://ja.wikipedia.org/wiki/小学館の学年別学習雑誌 "wikilink")
-  - 声の出演（ニャロメ） - [西村朋紘](https://ja.wikipedia.org/wiki/西村朋紘 "wikilink")
+  - 小学館掲載誌 - [ちゃお](https://ja.wikipedia.org/wiki/ちゃお "wikilink")、[おひさま](../Page/おひさま_\(雑誌\).md "wikilink")、[めばえ](https://ja.wikipedia.org/wiki/めばえ_\(雑誌\) "wikilink")、[幼稚園](../Page/幼稚園_\(雑誌\).md "wikilink")、[学習幼稚園、小学一年生、小学二年生、小学三年生、小学四年生、小学五年生、小学六年生](../Page/小学館の学年別学習雑誌.md "wikilink")
+  - 声の出演（ニャロメ） - [西村朋紘](../Page/西村朋紘.md "wikilink")
   - キャラクターデザイン（ニャロメ） - 直井正博
   - 製作担当 - 目黒宏、松坂一光
   - 色彩設定 - 佐久間ヨシ子
@@ -35,18 +35,18 @@
   - プロデューサー補 - 木戸睦
   - 広報 - 栗井淳
   - タイトル協力 - レイ・アップ
-  - 音楽協力 - [テレビ朝日ミュージック](https://ja.wikipedia.org/wiki/テレビ朝日ミュージック "wikilink")
-  - 録音スタジオ - [タバック](https://ja.wikipedia.org/wiki/タバック "wikilink")
-  - オンライン編集 - [TOVIC](https://ja.wikipedia.org/wiki/東映ラボ・テック "wikilink")
-  - プロデューサー - 上田めぐみ（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）、矢田晃一（[東映エージエンシー](https://ja.wikipedia.org/wiki/東映エージエンシー "wikilink")）、[東伊里弥](https://ja.wikipedia.org/wiki/東伊里弥 "wikilink")
+  - 音楽協力 - [テレビ朝日ミュージック](../Page/テレビ朝日ミュージック.md "wikilink")
+  - 録音スタジオ - [タバック](../Page/タバック.md "wikilink")
+  - オンライン編集 - [TOVIC](../Page/東映ラボ・テック.md "wikilink")
+  - プロデューサー - 上田めぐみ（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）、矢田晃一（[東映エージエンシー](../Page/東映エージエンシー.md "wikilink")）、[東伊里弥](https://ja.wikipedia.org/wiki/東伊里弥 "wikilink")
   - 制作 - テレビ朝日、東映エージエンシー、[東映](../Page/東映.md "wikilink")
 
 ## 主題歌
 
   - オープニングテーマ「ウキウキパラダイス」
-    作詞 - [井上望](https://ja.wikipedia.org/wiki/井上望 "wikilink")、ペリー三世、[おおたか静流](../Page/おおたか静流.md "wikilink") / 作曲 - [清岡千穂](../Page/清岡千穂.md "wikilink") / 編曲 - 林有三 / 歌 - [米良美一](https://ja.wikipedia.org/wiki/米良美一 "wikilink") → おおたか静流
+    作詞 - [井上望](../Page/井上望.md "wikilink")、ペリー三世、[おおたか静流](../Page/おおたか静流.md "wikilink") / 作曲 - [清岡千穂](../Page/清岡千穂.md "wikilink") / 編曲 - 林有三 / 歌 - [米良美一](../Page/米良美一.md "wikilink") → おおたか静流
   - エンディングテーマ「バナナチップス」
-    作詞・作曲 - やまのなおこ / 編曲・歌 - [少年ナイフ](https://ja.wikipedia.org/wiki/少年ナイフ "wikilink")
+    作詞・作曲 - やまのなおこ / 編曲・歌 - [少年ナイフ](../Page/少年ナイフ.md "wikilink")
 
 ## 各話リスト
 

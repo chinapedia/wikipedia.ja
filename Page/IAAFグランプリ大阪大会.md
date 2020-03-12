@@ -9,7 +9,7 @@
 
 出場選手はワールドランキングポイント40位以内に該当する外国、国内競技者及び日本陸連が選抜する国内競技者となっており、出場選手のレベルは高い。
 
-[大阪府](../Page/大阪府.md "wikilink")[大阪市](https://ja.wikipedia.org/wiki/大阪市 "wikilink")[東住吉区](../Page/東住吉区.md "wikilink")の[長居スタジアムで開催され](../Page/長居陸上競技場.md "wikilink")、[NHKで](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[テレビ](../Page/テレビ.md "wikilink")中継もあった。
+[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[東住吉区](../Page/東住吉区.md "wikilink")の[長居スタジアムで開催され](../Page/長居陸上競技場.md "wikilink")、[NHKで](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[テレビ](../Page/テレビ.md "wikilink")中継もあった。
 
 なお、第1回（[1996年](../Page/1996年.md "wikilink")）は長居スタジアム改修中のため[長居第2競技場で](../Page/長居第2陸上競技場.md "wikilink")、第7回（[2002年](../Page/2002年.md "wikilink")）は[2002 FIFAワールドカップ開催準備のため](../Page/2002_FIFAワールドカップ.md "wikilink")[万博記念競技場](../Page/万博記念競技場.md "wikilink")で、それぞれ行われた。
 
@@ -34,13 +34,13 @@
 
 ## 協賛
 
-  - [ミズノ](https://ja.wikipedia.org/wiki/ミズノ "wikilink")
+  - [ミズノ](../Page/ミズノ.md "wikilink")
 
 ## 協力
 
   - [富士通](../Page/富士通.md "wikilink")
-  - [東京海上日動火災保険](https://ja.wikipedia.org/wiki/東京海上日動火災保険 "wikilink")
-  - [ニシ・スポーツ](https://ja.wikipedia.org/wiki/ニシ・スポーツ "wikilink") - [アシックス](https://ja.wikipedia.org/wiki/アシックス "wikilink")グループ傘下のスポーツ競技における関連器具メーカー。
+  - [東京海上日動火災保険](../Page/東京海上日動火災保険.md "wikilink")
+  - [ニシ・スポーツ](https://ja.wikipedia.org/wiki/ニシ・スポーツ "wikilink") - [アシックス](../Page/アシックス.md "wikilink")グループ傘下のスポーツ競技における関連器具メーカー。
 
 ## 競技種目
 

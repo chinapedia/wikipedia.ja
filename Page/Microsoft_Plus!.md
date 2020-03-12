@@ -50,11 +50,11 @@
     対応する[プリンター](https://ja.wikipedia.org/wiki/プリンター "wikilink")と空の[CD-R](../Page/CD-R.md "wikilink")があれば表面を印刷することができるラベル印刷機能。
     [Plus\! CD Label Maker Updates](http://download.microsoft.com/download/plus/CDLU/1.0/WXP/EN-US/PlusCDLabelUpdates.exe)
   - MP3コンバーター
-    既存の[MP3](../Page/MP3.md "wikilink")形式の音楽ファイルを[WMA形式に変換する](https://ja.wikipedia.org/wiki/Windows_Media_Audio "wikilink")。
+    既存の[MP3](../Page/MP3.md "wikilink")形式の音楽ファイルを[WMA形式に変換する](../Page/Windows_Media_Audio.md "wikilink")。
   - パーソナルDJ
-    [Windows Media Playerの再生リストを自動的に作る機能である](https://ja.wikipedia.org/wiki/Windows_Media_Player "wikilink")。
+    [Windows Media Playerの再生リストを自動的に作る機能である](../Page/Windows_Media_Player.md "wikilink")。
   - スピーカー拡張
-    特定の[スピーカー](../Page/スピーカー.md "wikilink")及び[サウンドカード](https://ja.wikipedia.org/wiki/サウンドカード "wikilink")が整っていれば擬似的サラウンド環境を体感できる。
+    特定の[スピーカー](../Page/スピーカー.md "wikilink")及び[サウンドカード](../Page/サウンドカード.md "wikilink")が整っていれば擬似的サラウンド環境を体感できる。
   - スクリーンセーバー
     以前よりも3Dを多用するものが多くなった。
   - ゲームソフト
@@ -66,10 +66,10 @@
 
 ### Microsoft Plus\! for Windows XP Digital Media Edition
 
-前回のPlus\!に対してこのエディションはデジタルメディア関連の機能を重点的に強化している。なお、このバージョンのPlus\!から[ライセンス認証が必須になった](https://ja.wikipedia.org/wiki/アクティベーション "wikilink")。初回限定版では日本人ダンサーやWindows Media Player 9用スキン2種の追加などを行えパーティモードのテーマのダウンロードサイトへ簡単に接続できる**Premium CD-ROM**が付属していた（後にいずれもPlus\!公式サイトより入手できるようになった）。導入する場合は、Windows Media Player 9（Digital Media Editionにも収録）以降とWindows Movie Maker 2が導入されている必要がある為、無印やSP1の場合これらも自動的にインストールされる。
+前回のPlus\!に対してこのエディションはデジタルメディア関連の機能を重点的に強化している。なお、このバージョンのPlus\!から[ライセンス認証が必須になった](../Page/アクティベーション.md "wikilink")。初回限定版では日本人ダンサーやWindows Media Player 9用スキン2種の追加などを行えパーティモードのテーマのダウンロードサイトへ簡単に接続できる**Premium CD-ROM**が付属していた（後にいずれもPlus\!公式サイトより入手できるようになった）。導入する場合は、Windows Media Player 9（Digital Media Editionにも収録）以降とWindows Movie Maker 2が導入されている必要がある為、無印やSP1の場合これらも自動的にインストールされる。
 
   - ダンサー機能
-    デスクトップ上で小さい[ダンサー](https://ja.wikipedia.org/wiki/ダンサー "wikilink")が音楽に合わせて踊る。追加でお笑い芸人の[三瓶](https://ja.wikipedia.org/wiki/三瓶 "wikilink")等の日本人ダンサーを使用できるようになる。DirectXを多用するため負荷が重くなる点は注意が必要である。
+    デスクトップ上で小さい[ダンサー](https://ja.wikipedia.org/wiki/ダンサー "wikilink")が音楽に合わせて踊る。追加でお笑い芸人の[三瓶](../Page/三瓶.md "wikilink")等の日本人ダンサーを使用できるようになる。DirectXを多用するため負荷が重くなる点は注意が必要である。
   - フォトストーリー
     画像を並べて音楽と特殊効果を兼ねて一本の[スライドショー](../Page/スライドショー.md "wikilink")を作成する機能。現在ではマイクロソフトのサイトから最新版を単体で入手することができる（要正規版認証）。
   - パーティーモード

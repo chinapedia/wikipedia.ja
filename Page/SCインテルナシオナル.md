@@ -1,17 +1,17 @@
 > この記事は[SC](https://ja.wikipedia.org/wiki/SC)から翻訳されています。
 
 
-**SCインテルナシオナル** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[リオグランデ・ド・スル州](https://ja.wikipedia.org/wiki/リオグランデ・ド・スル州 "wikilink")の州都[ポルト・アレグレ](https://ja.wikipedia.org/wiki/ポルト・アレグレ "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。[英語](../Page/英語.md "wikilink")発音の**インターナショナル**、[ブラジルポルトガル語](../Page/ブラジルポルトガル語.md "wikilink")発音の**インテルナシオナウ**と表記されることもある。
+**SCインテルナシオナル** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[リオグランデ・ド・スル州](../Page/リオグランデ・ド・スル州.md "wikilink")の州都[ポルト・アレグレ](../Page/ポルト・アレグレ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。[英語](../Page/英語.md "wikilink")発音の**インターナショナル**、[ブラジルポルトガル語](../Page/ブラジルポルトガル語.md "wikilink")発音の**インテルナシオナウ**と表記されることもある。
 
 ## 概要
 
 20世紀初頭、サンパウロから来た3人（HenriqueとJosé Poppe Leãoの兄弟とLuiz Madeira Poppe）が主体となり設立された。彼らはポルト・アレグレでサッカーをしたかった。しかし、町のどのクラブも、よそ者という理由で受け入れてくれなかった。そこで、1909年4月4日、その3人に動かされた40の若者によりインテルナシオナルは設立された。設立の覚書には、新しいクラブ（インテルナシオナルのこと）は、人種、宗教や経済的な差別は受け入れないとある。
 
-同じポルト・アレグレを本拠地とする[グレミオFBPA](https://ja.wikipedia.org/wiki/グレミオFBPA "wikilink")とはライバル関係にあり、「クラシコ グレナル」はリオ・グランデ・ド・スール州を盛り上げる試合である。
+同じポルト・アレグレを本拠地とする[グレミオFBPA](../Page/グレミオFBPA.md "wikilink")とはライバル関係にあり、「クラシコ グレナル」はリオ・グランデ・ド・スール州を盛り上げる試合である。
 
-ブラジル全国で9番目に人気のあるクラブである。[リオグランデ・ド・スル州](https://ja.wikipedia.org/wiki/リオグランデ・ド・スル州 "wikilink")ではグレミオFBPAに次いで2番目に人気のあるクラブである\[1\]。
+ブラジル全国で9番目に人気のあるクラブである。[リオグランデ・ド・スル州](../Page/リオグランデ・ド・スル州.md "wikilink")ではグレミオFBPAに次いで2番目に人気のあるクラブである\[1\]。
 
-2011年度のクラブ収入は1億9800万レアル（約80億円）であり、[SCコリンチャンス・パウリスタ](https://ja.wikipedia.org/wiki/SCコリンチャンス・パウリスタ "wikilink")、[サンパウロFC](https://ja.wikipedia.org/wiki/サンパウロFC "wikilink")に次ぎ、ブラジルのクラブで三番目に収入が多かった。
+2011年度のクラブ収入は1億9800万レアル（約80億円）であり、[SCコリンチャンス・パウリスタ](https://ja.wikipedia.org/wiki/SCコリンチャンス・パウリスタ "wikilink")、[サンパウロFC](../Page/サンパウロFC.md "wikilink")に次ぎ、ブラジルのクラブで三番目に収入が多かった。
 
 2016年シーズンは不振に陥り、クラブ史上初の[セリエB降格が決定した](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエB "wikilink")。
 
@@ -32,13 +32,13 @@
 
 ### 国際タイトル
 
-  - **[FIFAクラブワールドカップ](https://ja.wikipedia.org/wiki/FIFAクラブワールドカップ "wikilink") : 1回**
-      - [2006](https://ja.wikipedia.org/wiki/FIFAクラブワールドカップ2006 "wikilink")
+  - **[FIFAクラブワールドカップ](../Page/FIFAクラブワールドカップ.md "wikilink") : 1回**
+      - [2006](../Page/FIFAクラブワールドカップ2006.md "wikilink")
   - **[コパ・リベルタドーレス](https://ja.wikipedia.org/wiki/コパ・リベルタドーレス "wikilink") : 2回**
       - 2006, 2010
-  - **[レコパ・スダメリカーナ](https://ja.wikipedia.org/wiki/レコパ・スダメリカーナ "wikilink") : 1回**
+  - **[レコパ・スダメリカーナ](../Page/レコパ・スダメリカーナ.md "wikilink") : 1回**
       - 2007
-  - **[コパ・スダメリカーナ](https://ja.wikipedia.org/wiki/コパ・スダメリカーナ "wikilink") : 1回**
+  - **[コパ・スダメリカーナ](../Page/コパ・スダメリカーナ.md "wikilink") : 1回**
       - 2008
 
 ### その他
@@ -85,7 +85,7 @@
 
 <!-- end list -->
 
-  - [アントニオ・カルロス](https://ja.wikipedia.org/wiki/アントニオ・カルロス・ザーゴ "wikilink")
+  - [アントニオ・カルロス](../Page/アントニオ・カルロス・ザーゴ.md "wikilink")
 
 ## 歴代監督
 

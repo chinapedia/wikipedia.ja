@@ -11,13 +11,13 @@
 
 ## 沿革
 
-  - [1979年](../Page/1979年.md "wikilink")5月 - [大森望](https://ja.wikipedia.org/wiki/大森望 "wikilink")らにより再結成（第3期）
+  - [1979年](../Page/1979年.md "wikilink")5月 - [大森望](../Page/大森望.md "wikilink")らにより再結成（第3期）
   - [1981年](../Page/1981年.md "wikilink") - 正機関誌「中間子」（第2期）刊行開始
   - [1982年](../Page/1982年.md "wikilink") - 「中間子」（第2期）2号刊行
   - [1982年](../Page/1982年.md "wikilink") - 　副機関誌「WORKBOOK」刊行開始（当初は月刊で刊行）
   - [1982年](../Page/1982年.md "wikilink") - [京都SFフェスティバル](https://ja.wikipedia.org/wiki/京都SFフェスティバル "wikilink")開催、以後毎年開かれることに
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink") - 「中間子」（第2期）3号刊行、以後正機関誌の発行が途切れる
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink") - 「中間子」の発行再開、以降第4期京都大学SF研究会と称する
+  - [2006年](../Page/2006年.md "wikilink") - 「中間子」の発行再開、以降第4期京都大学SF研究会と称する
 
 ## 主な出身者
 
@@ -27,14 +27,14 @@
 
 第3期
 
-  - [大森望](https://ja.wikipedia.org/wiki/大森望 "wikilink")（翻訳家、評論家）
+  - [大森望](../Page/大森望.md "wikilink")（翻訳家、評論家）
   - [中西秀彦](https://ja.wikipedia.org/wiki/中西秀彦 "wikilink")（中西印刷社長、文筆家）
   - [鼎元亨](https://ja.wikipedia.org/wiki/鼎元亨 "wikilink")（評論家、第1回[日本SF評論賞](https://ja.wikipedia.org/wiki/日本SF評論賞 "wikilink")選考委員特別賞受賞）
   - [幹遙子](https://ja.wikipedia.org/wiki/幹遙子 "wikilink")(細美遙子)（翻訳家）※厳密には学外会員
   - [小浜徹也](https://ja.wikipedia.org/wiki/小浜徹也 "wikilink")（編集者、[東京創元社](../Page/東京創元社.md "wikilink")勤務）
   - [佐脇洋平](https://ja.wikipedia.org/wiki/佐脇洋平 "wikilink")（ゲームデザイナー、翻訳家）
   - [藤田雅矢](../Page/藤田雅矢.md "wikilink")（作家、第7回[日本ファンタジーノベル大賞](../Page/日本ファンタジーノベル大賞.md "wikilink")優秀賞受賞）
-  - [清松みゆき](https://ja.wikipedia.org/wiki/清松みゆき "wikilink")（ゲームデザイナー、作家）
+  - [清松みゆき](../Page/清松みゆき.md "wikilink")（ゲームデザイナー、作家）
   - [細井威男](https://ja.wikipedia.org/wiki/細井威男 "wikilink")（海外SF研究・紹介）
 
 第4期

@@ -1,13 +1,13 @@
 > この記事は[X-MEN:  ](https://ja.wikipedia.org/wiki/X-MEN:__)から翻訳されています。
 
 
-『**X-MEN: ファイナル ディシジョン**』（エックスメン ファイナルディシジョン、原題: *X-Men: The Last Stand*）は、[2006年に公開された](../Page/2006年の映画.md "wikilink")[アメリカ映画](https://ja.wikipedia.org/wiki/アメリカ合衆国の映画 "wikilink")。
+『**X-MEN: ファイナル ディシジョン**』（エックスメン ファイナルディシジョン、原題: *X-Men: The Last Stand*）は、[2006年に公開された](../Page/2006年の映画.md "wikilink")[アメリカ映画](../Page/アメリカ合衆国の映画.md "wikilink")。
 
 ## 概要
 
-「[マーベル・コミック](https://ja.wikipedia.org/wiki/マーベル・コミック "wikilink")」の[アメリカン・コミック](https://ja.wikipedia.org/wiki/アメリカン・コミック "wikilink")『[X-メン](https://ja.wikipedia.org/wiki/X-メン "wikilink")』の実写映画化第3作品目。公開当時、同シリーズの最終作となる「完結編」として制作された（後年、新シリーズが制作されている）。
+「[マーベル・コミック](../Page/マーベル・コミック.md "wikilink")」の[アメリカン・コミック](https://ja.wikipedia.org/wiki/アメリカン・コミック "wikilink")『[X-メン](../Page/X-メン.md "wikilink")』の実写映画化第3作品目。公開当時、同シリーズの最終作となる「完結編」として制作された（後年、新シリーズが制作されている）。
 
-前2作を監督した[ブライアン・シンガー](https://ja.wikipedia.org/wiki/ブライアン・シンガー "wikilink")が『[スーパーマン リターンズ](../Page/スーパーマン_リターンズ.md "wikilink")』の監督に専念する為に製作途中で降板したため、新たに[ブレット・ラトナー](https://ja.wikipedia.org/wiki/ブレット・ラトナー "wikilink")が監督に起用された。
+前2作を監督した[ブライアン・シンガー](../Page/ブライアン・シンガー.md "wikilink")が『[スーパーマン リターンズ](../Page/スーパーマン_リターンズ.md "wikilink")』の監督に専念する為に製作途中で降板したため、新たに[ブレット・ラトナー](../Page/ブレット・ラトナー.md "wikilink")が監督に起用された。
 
 [アメリカでは](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")2006年[5月26日](../Page/5月26日.md "wikilink")に公開され、週末[興行成績](https://ja.wikipedia.org/wiki/興行成績 "wikilink")で初登場1位になった。日本では同年9月9日に[日比谷スカラ座系列ほかで公開され](../Page/TOHOシネマズスカラ座.md "wikilink")、全国週末興行成績で初登場から2週連続で1位となった。
 
@@ -35,43 +35,43 @@
 </tr>
 <tr class="even">
 <td><p>チャールズ・エグゼビア（プロフェッサーX）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/パトリック・スチュワート" title="wikilink">パトリック・スチュワート</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大木民夫" title="wikilink">大木民夫</a></p></td>
+<td><p><a href="../Page/パトリック・スチュワート.md" title="wikilink">パトリック・スチュワート</a></p></td>
+<td><p><a href="../Page/大木民夫.md" title="wikilink">大木民夫</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>エリック・マグナス・レーンシャー（<a href="https://ja.wikipedia.org/wiki/マグニートー_(マーベル・コミック)" title="wikilink">マグニートー</a>）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/イアン・マッケラン" title="wikilink">イアン・マッケラン</a></p></td>
+<td><p><a href="../Page/イアン・マッケラン.md" title="wikilink">イアン・マッケラン</a></p></td>
 <td><p><a href="../Page/有川博.md" title="wikilink">有川博</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ローガン（<a href="../Page/ウルヴァリン.md" title="wikilink">ウルヴァリン</a>）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヒュー・ジャックマン" title="wikilink">ヒュー・ジャックマン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山路和弘" title="wikilink">山路和弘</a></p></td>
+<td><p><a href="../Page/ヒュー・ジャックマン.md" title="wikilink">ヒュー・ジャックマン</a></p></td>
+<td><p><a href="../Page/山路和弘.md" title="wikilink">山路和弘</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>オロロ・マンロー（<a href="https://ja.wikipedia.org/wiki/ストーム_(マーベル・コミック)" title="wikilink">ストーム</a>）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ハル・ベリー" title="wikilink">ハル・ベリー</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/本田貴子" title="wikilink">本田貴子</a></p></td>
+<td><p><a href="../Page/本田貴子.md" title="wikilink">本田貴子</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ジーン・グレイ（フェニックス）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ファムケ・ヤンセン" title="wikilink">ファムケ・ヤンセン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日野由利加" title="wikilink">日野由利加</a></p></td>
+<td><p><a href="../Page/ファムケ・ヤンセン.md" title="wikilink">ファムケ・ヤンセン</a></p></td>
+<td><p><a href="../Page/日野由利加.md" title="wikilink">日野由利加</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>スコット・サマーズ（サイクロップス）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジェームズ・マースデン" title="wikilink">ジェームズ・マースデン</a></p></td>
+<td><p><a href="../Page/ジェームズ・マースデン.md" title="wikilink">ジェームズ・マースデン</a></p></td>
 <td><p><a href="../Page/檀臣幸.md" title="wikilink">檀臣幸</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ヘンリー“ハンク”・マッコイ（<a href="https://ja.wikipedia.org/wiki/ビースト_(マーベル・コミック)" title="wikilink">ビースト</a>）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ケルシー・グラマー" title="wikilink">ケルシー・グラマー</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/有本欽隆" title="wikilink">有本欽隆</a></p></td>
+<td><p><a href="../Page/ケルシー・グラマー.md" title="wikilink">ケルシー・グラマー</a></p></td>
+<td><p><a href="../Page/有本欽隆.md" title="wikilink">有本欽隆</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>ボビー・ドレイク（<a href="../Page/アイスマン_(マーベル・コミック).md" title="wikilink">アイスマン</a>）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ショーン・アシュモア" title="wikilink">ショーン・アシュモア</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/私市淳" title="wikilink">私市淳</a></p></td>
+<td><p><a href="../Page/私市淳.md" title="wikilink">私市淳</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/キティ・プライド.md" title="wikilink">キティ・プライド</a>（シャドウキャット）</p></td>
@@ -80,8 +80,8 @@
 </tr>
 <tr class="odd">
 <td><p>マリー・ダンキャント（ローグ）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アンナ・パキン" title="wikilink">アンナ・パキン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小島幸子" title="wikilink">小島幸子</a></p></td>
+<td><p><a href="../Page/アンナ・パキン.md" title="wikilink">アンナ・パキン</a></p></td>
+<td><p><a href="../Page/小島幸子.md" title="wikilink">小島幸子</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ピーター・ラスプーチン（コロッサス）</p></td>
@@ -90,38 +90,38 @@
 </tr>
 <tr class="odd">
 <td><p>ウォーレン・ワージントン三世（エンジェル）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ベン・フォスター_(俳優)" title="wikilink">ベン・フォスター</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/川田紳司" title="wikilink">川田紳司</a></p></td>
+<td><p><a href="../Page/ベン・フォスター_(俳優).md" title="wikilink">ベン・フォスター</a></p></td>
+<td><p><a href="../Page/川田紳司.md" title="wikilink">川田紳司</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ウォーレン・ワージントン卿</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/マイケル・マーフィー_(俳優)" title="wikilink">マイケル・マーフィー</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/村松康雄" title="wikilink">村松康雄</a></p></td>
+<td><p><a href="../Page/村松康雄.md" title="wikilink">村松康雄</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>レイヴン・ダークホルム（<a href="https://ja.wikipedia.org/wiki/ミスティーク" title="wikilink">ミスティーク</a>）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レベッカ・ローミン" title="wikilink">レベッカ・ローミン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/幸田直子" title="wikilink">幸田直子</a></p></td>
+<td><p><a href="../Page/レベッカ・ローミン.md" title="wikilink">レベッカ・ローミン</a></p></td>
+<td><p><a href="../Page/幸田直子.md" title="wikilink">幸田直子</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ジョン・アラーダイス（パイロ）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アーロン・スタンフォード" title="wikilink">アーロン・スタンフォード</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/浪川大輔" title="wikilink">浪川大輔</a></p></td>
+<td><p><a href="../Page/浪川大輔.md" title="wikilink">浪川大輔</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>ケイン・マルコ（ジャガーノート）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヴィニー・ジョーンズ" title="wikilink">ヴィニー・ジョーンズ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/木村雅史" title="wikilink">木村雅史</a></p></td>
+<td><p><a href="../Page/ヴィニー・ジョーンズ.md" title="wikilink">ヴィニー・ジョーンズ</a></p></td>
+<td><p><a href="../Page/木村雅史.md" title="wikilink">木村雅史</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ジェイミー・マドロックス（マルチプルマン）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/エリック・デイン" title="wikilink">エリック・デイン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/河相智哉" title="wikilink">河相智哉</a></p></td>
+<td><p><a href="../Page/河相智哉.md" title="wikilink">河相智哉</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>カリスト</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ダニア・ラミレス" title="wikilink">ダニア・ラミレス</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小松由佳_(声優)" title="wikilink">小松由佳</a></p></td>
+<td><p><a href="../Page/小松由佳_(声優).md" title="wikilink">小松由佳</a></p></td>
 </tr>
 <tr class="even">
 <td><p>アークライト</p></td>
@@ -131,7 +131,7 @@
 <tr class="odd">
 <td><p>キッド・オメガ</p></td>
 <td><p><a href="../Page/ケン・レオン.md" title="wikilink">ケン・レオン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/伊藤健太郎_(声優)" title="wikilink">伊藤健太郎</a></p></td>
+<td><p><a href="../Page/伊藤健太郎_(声優).md" title="wikilink">伊藤健太郎</a></p></td>
 </tr>
 <tr class="even">
 <td><p>サイロック</p></td>
@@ -180,12 +180,12 @@
 </tr>
 <tr class="odd">
 <td><p>Dr.モイラ・マクタガート（ほぼカメオ出演）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オリヴィア・ウィリアムズ" title="wikilink">オリヴィア・ウィリアムズ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/紗ゆり" title="wikilink">紗ゆり</a></p></td>
+<td><p><a href="../Page/オリヴィア・ウィリアムズ.md" title="wikilink">オリヴィア・ウィリアムズ</a></p></td>
+<td><p><a href="../Page/紗ゆり.md" title="wikilink">紗ゆり</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Dr.カヴィタ・ラオ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ショーレ・アグダシュルー" title="wikilink">ショーレ・アグダシュルー</a></p></td>
+<td><p><a href="../Page/ショーレ・アグダシュルー.md" title="wikilink">ショーレ・アグダシュルー</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -193,11 +193,11 @@
 <td></td>
 <td><p><a href="../Page/藤生聖子.md" title="wikilink">藤生聖子</a><br />
 <a href="../Page/水内清光.md" title="wikilink">水内清光</a><br />
-<a href="https://ja.wikipedia.org/wiki/恒松あゆみ" title="wikilink">恒松あゆみ</a><br />
-<a href="https://ja.wikipedia.org/wiki/江川央生" title="wikilink">江川央生</a><br />
+<a href="../Page/恒松あゆみ.md" title="wikilink">恒松あゆみ</a><br />
+<a href="../Page/江川央生.md" title="wikilink">江川央生</a><br />
 <a href="../Page/深水由美.md" title="wikilink">深水由美</a><br />
-<a href="https://ja.wikipedia.org/wiki/北沢洋" title="wikilink">北沢洋</a><br />
-<a href="https://ja.wikipedia.org/wiki/朝倉栄介" title="wikilink">朝倉栄介</a></p></td>
+<a href="../Page/北沢洋.md" title="wikilink">北沢洋</a><br />
+<a href="../Page/朝倉栄介.md" title="wikilink">朝倉栄介</a></p></td>
 </tr>
 <tr class="even">
 <td><p>カメオ出演</p></td>
@@ -256,23 +256,23 @@
 
 ## スタッフ
 
-  - 監督：[ブレット・ラトナー](https://ja.wikipedia.org/wiki/ブレット・ラトナー "wikilink")
+  - 監督：[ブレット・ラトナー](../Page/ブレット・ラトナー.md "wikilink")
   - 製作：[アヴィ・アラッド](https://ja.wikipedia.org/wiki/アヴィ・アラッド "wikilink")
   - 製作総指揮：[スタン・リー](../Page/スタン・リー.md "wikilink")
   - 脚本：[ザック・ペン](https://ja.wikipedia.org/wiki/ザック・ペン "wikilink")、[サイモン・キンバーグ](https://ja.wikipedia.org/wiki/サイモン・キンバーグ "wikilink")
   - 撮影：[フィリップ・ルースロ](../Page/フィリップ・ルースロ.md "wikilink")、[ダンテ・スピノッティ](../Page/ダンテ・スピノッティ.md "wikilink")
   - 音楽：[ジョン・パウエル](../Page/ジョン・パウエル.md "wikilink")
-  - VFX：[WETAデジタル](https://ja.wikipedia.org/wiki/WETAデジタル "wikilink")、[フレームストアCFC](https://ja.wikipedia.org/wiki/フレームストアCFC "wikilink")、[ムービング・ピクチャー・カンパニー](../Page/ムービング・ピクチャー・カンパニー.md "wikilink")、[ハイドラックス](https://ja.wikipedia.org/wiki/ハイドラックス "wikilink")、[ローラVFX](https://ja.wikipedia.org/wiki/ローラVFX "wikilink")
+  - VFX：[WETAデジタル](../Page/WETAデジタル.md "wikilink")、[フレームストアCFC](https://ja.wikipedia.org/wiki/フレームストアCFC "wikilink")、[ムービング・ピクチャー・カンパニー](../Page/ムービング・ピクチャー・カンパニー.md "wikilink")、[ハイドラックス](../Page/ハイドラックス.md "wikilink")、[ローラVFX](https://ja.wikipedia.org/wiki/ローラVFX "wikilink")
 
 ## 作品解説
 
-前2作の監督[ブライアン・シンガー](https://ja.wikipedia.org/wiki/ブライアン・シンガー "wikilink")は、監督がなかなか決まらなかった映画『[スーパーマン リターンズ](../Page/スーパーマン_リターンズ.md "wikilink")』（[ワーナー・ブラザース](https://ja.wikipedia.org/wiki/ワーナー・ブラザース "wikilink")／[DCコミックス](https://ja.wikipedia.org/wiki/DCコミックス "wikilink")）の監督を引き受けた。このため本作（[20世紀フォックス](https://ja.wikipedia.org/wiki/20世紀フォックス "wikilink")／[マーベル・コミック](https://ja.wikipedia.org/wiki/マーベル・コミック "wikilink")）を製作途中で降板した。
+前2作の監督[ブライアン・シンガー](../Page/ブライアン・シンガー.md "wikilink")は、監督がなかなか決まらなかった映画『[スーパーマン リターンズ](../Page/スーパーマン_リターンズ.md "wikilink")』（[ワーナー・ブラザース](../Page/ワーナー・ブラザース.md "wikilink")／[DCコミックス](../Page/DCコミックス.md "wikilink")）の監督を引き受けた。このため本作（[20世紀フォックス](https://ja.wikipedia.org/wiki/20世紀フォックス "wikilink")／[マーベル・コミック](../Page/マーベル・コミック.md "wikilink")）を製作途中で降板した。
 
 ### 配役
 
 サイクロップス役のジェームズ・マースデンを『スーパーマン リターンズ』に引き連れていく形で出演させたため、スケジュール調整がつかず、X-MENのリーダーであるはずのサイクロップスの登場シーンが大幅に減り、映画のストーリーにも大きな影響を与えた。
 
-[シガニー・ウィーバー](https://ja.wikipedia.org/wiki/シガニー・ウィーバー "wikilink")に対して、エマ・フロスト（ホワイト・クイーン）役での出演交渉が行われた。しかしブライアン・シンガーが監督を降り、ストーリーが変更されたため出演は実現しなかった。またエマ・フロスト（ホワイト・クイーン）は今作に登場しなくなった。
+[シガニー・ウィーバー](../Page/シガニー・ウィーバー.md "wikilink")に対して、エマ・フロスト（ホワイト・クイーン）役での出演交渉が行われた。しかしブライアン・シンガーが監督を降り、ストーリーが変更されたため出演は実現しなかった。またエマ・フロスト（ホワイト・クイーン）は今作に登場しなくなった。
 
 ### VFX
 
@@ -280,7 +280,7 @@
 
 ## 興行
 
-2006年[5月22日](../Page/5月22日.md "wikilink")に[第59回カンヌ国際映画祭](../Page/第59回カンヌ国際映画祭.md "wikilink")にて特別招待作品として[プレミア](https://ja.wikipedia.org/wiki/プレミア "wikilink")上映された。その後、[5月23日](../Page/5月23日.md "wikilink")から5月26日にかけて殆どの国で世界同時公開となった。
+2006年[5月22日](../Page/5月22日.md "wikilink")に[第59回カンヌ国際映画祭](../Page/第59回カンヌ国際映画祭.md "wikilink")にて特別招待作品として[プレミア](../Page/プレミア.md "wikilink")上映された。その後、[5月23日](../Page/5月23日.md "wikilink")から5月26日にかけて殆どの国で世界同時公開となった。
 
 アメリカでは2006年5月26日に3690館で公開され、週末興行成績で初登場1位にランクイン、トップ10内には5週間留まった。
 

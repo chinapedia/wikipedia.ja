@@ -32,9 +32,9 @@
       - グループ名を『Full Of Harmony』へと改名、結成時の名前に戻る。
       - 11月、4th アルバム『life size Speaker』発売
       - 全国4ヶ所にてワンマンライブ開催
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
       - 6月、ベストアルバム『SIGLES 9905』発売
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")
+  - [2006年](../Page/2006年.md "wikilink")
       - 1月、5th アルバム『DRAMA』発売
 
 ## ディスコグラフィー
@@ -94,13 +94,13 @@
 6.  **Life Story / Who's that?～3Men 鏡** (2002年8月22日)
     1.  Life Story\[5:01\]
           -
-            作詞・作曲：F.O.H／編曲：[SOFFet](https://ja.wikipedia.org/wiki/SOFFet "wikilink")
+            作詞・作曲：F.O.H／編曲：[SOFFet](../Page/SOFFet.md "wikilink")
     2.  Who's that? ～3Men鏡～\[3:49\]
           -
-            作詞：[Shoko Fujibayashi](https://ja.wikipedia.org/wiki/藤林聖子 "wikilink")・F.O.H／作曲：F.O.H／編曲：[813](https://ja.wikipedia.org/wiki/813_\(ユニット\) "wikilink")
+            作詞：[Shoko Fujibayashi](../Page/藤林聖子.md "wikilink")・F.O.H／作曲：F.O.H／編曲：[813](https://ja.wikipedia.org/wiki/813_\(ユニット\) "wikilink")
     3.  Life Story (Instrumental)\[5:01\]
     4.  Who's that? ～3Men鏡～ (Instrumental)\[3:44\]
-7.  **S.E.X featuring [Rhymester](https://ja.wikipedia.org/wiki/RHYMESTER "wikilink")** (2002年10月30日)オリコン60位
+7.  **S.E.X featuring [Rhymester](../Page/RHYMESTER.md "wikilink")** (2002年10月30日)オリコン60位
     1.  S.E.X featuring Rhymester\[5:01\]
           -
             作詞：[S.Sasaki](../Page/宇多丸.md "wikilink")・D.Sakama・ARATA・HIRO・YUTAKA／作曲：D.Sakama・ARATA・HIRO・YUTAKA
@@ -111,12 +111,12 @@
     3.  星降る夜は誰のため ～crazy for you～ (single ver.)\[4:16\]
           -
             作詞・作曲：HIRO／編曲：今井了介
-            ANB系「[世界痛快伝説\!\!運命のダダダダーン\!](https://ja.wikipedia.org/wiki/世界痛快伝説!!運命のダダダダーン! "wikilink")」エンディングテーマ
+            ANB系「[世界痛快伝説\!\!運命のダダダダーン\!](../Page/世界痛快伝説!!運命のダダダダーン!.md "wikilink")」エンディングテーマ
 8.  **I Believe** (2003年1月22日)オリコン48位
     1.  I Believe\[4:52\]
           -
             作詞：YANG JAE SUN／訳詞：小林夏海／作曲：KIM HYUNG SEUK・SHIN SEUNG HOON／編曲：今井了介
-            韓国映画「[猟奇的な彼女](https://ja.wikipedia.org/wiki/猟奇的な彼女 "wikilink")」テーマ曲日本語版
+            韓国映画「[猟奇的な彼女](../Page/猟奇的な彼女.md "wikilink")」テーマ曲日本語版
     2.  Love Song (Acoustic Ver.)\[4:31\]
           -
             作詞：ARATA・HIRO・YUTAKA／作曲：ARATA・HIRO・YUTAKA・今井了介／編曲：今井了介
@@ -136,7 +136,7 @@
             作詞：Full Of Harmony・小林夏海／作曲・編曲：[h-wonder](https://ja.wikipedia.org/wiki/h-wonder "wikilink")
     2.  MONKEY MAGIC ～三蔵FOH師の巻～\[4:00\]
           -
-            作詞：[奈良橋陽子](https://ja.wikipedia.org/wiki/奈良橋陽子 "wikilink")・Full Of Harmony／作曲：[タケカワユキヒデ](../Page/タケカワユキヒデ.md "wikilink")・Full Of Harmony／編曲：Matchstick Men
+            作詞：[奈良橋陽子](../Page/奈良橋陽子.md "wikilink")・Full Of Harmony／作曲：[タケカワユキヒデ](../Page/タケカワユキヒデ.md "wikilink")・Full Of Harmony／編曲：Matchstick Men
     3.  Exclusive (BL remix)\[4:41\]
     4.  Exclusive (instrumental)\[4:38\]
 11. **Rhythm** (2004年9月22日)オリコン59位
@@ -153,7 +153,7 @@
     1.  涙の数だけ\[4:55\]
           -
             作詞：Natsumi Kobayashi／作曲・編曲：AKIRA
-            映画「[戦国自衛隊1549](https://ja.wikipedia.org/wiki/戦国自衛隊1549 "wikilink")」主題歌
+            映画「[戦国自衛隊1549](../Page/戦国自衛隊1549.md "wikilink")」主題歌
     2.  Through the GATE\[4:53\]
           -
             作詞・作曲：HIRO・AKIRA／編曲：UTA
@@ -185,7 +185,7 @@
           -
             作詞・作曲：Full Of Harmony／編曲：TOMMY.THE.MACHINE
     <!-- end list -->
-      - [Ne-Yoプロデュース](https://ja.wikipedia.org/wiki/ニーヨ "wikilink")
+      - [Ne-Yoプロデュース](../Page/ニーヨ.md "wikilink")
 16. **SWEET NOVEMBER** (2006年11月22日)オリコン91位
     1.  SWEET NOVEMBER\[4:29\]
           -
@@ -235,14 +235,14 @@
 
 ## 関連アーティスト
 
-  - [クレイジーケンバンド](https://ja.wikipedia.org/wiki/クレイジーケンバンド "wikilink")
+  - [クレイジーケンバンド](../Page/クレイジーケンバンド.md "wikilink")
   - [マボロシ](../Page/マボロシ.md "wikilink")
   - [AKEEM](https://ja.wikipedia.org/wiki/AKEEM "wikilink")
   - [DOUBLE](https://ja.wikipedia.org/wiki/DOUBLE_\(歌手\) "wikilink")
   - [DREAMS COME TRUE](../Page/DREAMS_COME_TRUE.md "wikilink")
   - [KM-MARKIT](../Page/KM-MARKIT.md "wikilink")
   - Q
-  - [RHYMESTER](https://ja.wikipedia.org/wiki/RHYMESTER "wikilink")
+  - [RHYMESTER](../Page/RHYMESTER.md "wikilink")
   - [ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink")
   - [VOICE OF LOVE POSSE](../Page/VOICE_OF_LOVE_POSSE.md "wikilink")
   - [TOKYO→NIIGATA MUSIC CONVOY](../Page/TOKYO→NIIGATA_MUSIC_CONVOY.md "wikilink") - YUTAKAが水曜日を担当

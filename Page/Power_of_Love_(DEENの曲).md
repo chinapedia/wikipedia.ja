@@ -1,7 +1,7 @@
 > この記事は[Power of Love \(DEEN\)](https://ja.wikipedia.org/wiki/Power_of_Love_\(DEEN\))から翻訳されています。
 
 
-「**Power of Love**」（パワー オブ ラブ）は、[DEEN](https://ja.wikipedia.org/wiki/DEEN "wikilink")の20枚目の[シングル](../Page/シングル.md "wikilink")。
+「**Power of Love**」（パワー オブ ラブ）は、[DEEN](../Page/DEEN.md "wikilink")の20枚目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 概要
 
@@ -17,7 +17,7 @@
 
 ## Power of Love 〜Jawaiian Style〜
 
-「**Power of Love 〜Jawaiian Style〜**」（パワー オブ ラブ 〜ジャワイアン・スタイル〜）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")、[DEEN](https://ja.wikipedia.org/wiki/DEEN "wikilink")の配信限定シングル。
+「**Power of Love 〜Jawaiian Style〜**」（パワー オブ ラブ 〜ジャワイアン・スタイル〜）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")、[DEEN](../Page/DEEN.md "wikilink")の配信限定シングル。
 
 ## 解説
 
@@ -31,7 +31,7 @@
 
 ## 収録アルバム
 
-  - 『['need love](https://ja.wikipedia.org/wiki/'need_love "wikilink")』(\#1)
+  - 『['need love](../Page/'need_love.md "wikilink")』(\#1)
   - 『[DEEN PERFECT SINGLES +](https://ja.wikipedia.org/wiki/DEEN_PERFECT_SINGLES_+ "wikilink")』(\#1)
   - 『[Another Side Memories〜Precious Best〜](https://ja.wikipedia.org/wiki/Another_Side_Memories〜Precious_Best〜 "wikilink")』(\#2)
   - 『[DEENAGE MEMORY -20周年記念ベストアルバム-](https://ja.wikipedia.org/wiki/DEENAGE_MEMORY_-20周年記念ベストアルバム- "wikilink")』(\#1)
@@ -53,14 +53,14 @@
 <!-- end list -->
 
   - DEEN
-      - [池森秀一](https://ja.wikipedia.org/wiki/池森秀一 "wikilink"):ヴォーカル
-      - [山根公路](https://ja.wikipedia.org/wiki/山根公路 "wikilink"):キーボード
-      - [田川伸治](https://ja.wikipedia.org/wiki/田川伸治 "wikilink"):ギター
+      - [池森秀一](../Page/池森秀一.md "wikilink"):ヴォーカル
+      - [山根公路](../Page/山根公路.md "wikilink"):キーボード
+      - [田川伸治](../Page/田川伸治.md "wikilink"):ギター
 
 ## 関連項目
 
   - [BMGファンハウス](https://ja.wikipedia.org/wiki/BMGファンハウス "wikilink")
-  - [BERG レーベル](https://ja.wikipedia.org/wiki/BERG_レーベル "wikilink")
+  - [BERG レーベル](../Page/BERG_レーベル.md "wikilink")
   - [日本テレビ](../Page/日本テレビ放送網.md "wikilink")
 
 [Category:2000年のシングル](https://ja.wikipedia.org/wiki/Category:2000年のシングル "wikilink") [Category:DEENの楽曲](https://ja.wikipedia.org/wiki/Category:DEENの楽曲 "wikilink") [Category:ビーイング関連楽曲](https://ja.wikipedia.org/wiki/Category:ビーイング関連楽曲 "wikilink") [Category:池森秀一が制作した楽曲](https://ja.wikipedia.org/wiki/Category:池森秀一が制作した楽曲 "wikilink") [Category:楽曲_は](https://ja.wikipedia.org/wiki/Category:楽曲_は "wikilink") [Category:ロ長調](https://ja.wikipedia.org/wiki/Category:ロ長調 "wikilink")

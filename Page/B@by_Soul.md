@@ -31,7 +31,7 @@
 <td><p>ESCL-9102</p></td>
 <td><ol>
 <li>トキワの街角</li>
-<li>トキワの街角-OLD NICK Ver.-(<a href="https://ja.wikipedia.org/wiki/DJ_HASEBE" title="wikilink">DJ HASEBE</a> Remix)</li>
+<li>トキワの街角-OLD NICK Ver.-(<a href="../Page/DJ_HASEBE.md" title="wikilink">DJ HASEBE</a> Remix)</li>
 <li>トキワの街角(Instrumental)</li>
 </ol></td>
 <td><p>オリコン最高70位<br />
@@ -61,7 +61,7 @@
 <li>トキワの街角-Blaze Shrine Vox Mix-</li>
 <li>Thread of Love-Instrumental-</li>
 </ol></td>
-<td><p>TX系「<a href="https://ja.wikipedia.org/wiki/流派-R" title="wikilink">流派-R</a>」11月度エンディング・テーマ</p></td>
+<td><p>TX系「<a href="../Page/流派-R.md" title="wikilink">流派-R</a>」11月度エンディング・テーマ</p></td>
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
@@ -150,7 +150,7 @@
   - オムニバス「802 HEAVY ROTATIONS 〜J-HITS COMPLETE '01-'03」（2004年12月8日）
       -
         6\. トキワの街角
-  - [SEAMO](../Page/SEAMO.md "wikilink")「[Get Back On Stage](https://ja.wikipedia.org/wiki/Get_Back_On_Stage "wikilink")」（2005年10月26日）
+  - [SEAMO](../Page/SEAMO.md "wikilink")「[Get Back On Stage](../Page/Get_Back_On_Stage.md "wikilink")」（2005年10月26日）
       -
         8\. I Wanna Be... featuring KOZUE (B@by Soul)
 

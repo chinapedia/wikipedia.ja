@@ -1,7 +1,7 @@
 > この記事は[Duel Dolls ](https://ja.wikipedia.org/wiki/Duel_Dolls_)から翻訳されています。
 
 
-**Duel Dolls 〜白銀色の指輪と撫子色の乙女達〜**（デュエルドールズ しろがねいろのゆびわとなでしこいろのおとめたち）は、雑誌『[マジキュー](../Page/マジキュー.md "wikilink")』（[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")）Vol.22（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月25日](../Page/12月25日.md "wikilink")刊）からVol.36（[2007年](../Page/2007年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")刊）まで連載された[読者参加企画](https://ja.wikipedia.org/wiki/読者参加企画 "wikilink")（実質的にはイラストストーリーを中心に展開）。画：[てぃんくる](https://ja.wikipedia.org/wiki/てぃんくる_\(漫画家\) "wikilink")、文芸：[博恵夏樹](https://ja.wikipedia.org/wiki/博恵夏樹 "wikilink")。
+**Duel Dolls 〜白銀色の指輪と撫子色の乙女達〜**（デュエルドールズ しろがねいろのゆびわとなでしこいろのおとめたち）は、雑誌『[マジキュー](../Page/マジキュー.md "wikilink")』（[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")）Vol.22（[2005年](../Page/2005年.md "wikilink")[12月25日](../Page/12月25日.md "wikilink")刊）からVol.36（[2007年](../Page/2007年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")刊）まで連載された[読者参加企画](https://ja.wikipedia.org/wiki/読者参加企画 "wikilink")（実質的にはイラストストーリーを中心に展開）。画：[てぃんくる](https://ja.wikipedia.org/wiki/てぃんくる_\(漫画家\) "wikilink")、文芸：[博恵夏樹](https://ja.wikipedia.org/wiki/博恵夏樹 "wikilink")。
 
 副題の「白**銀**色」は「白**金**色の」と表記されている場合がある。
 
@@ -22,7 +22,7 @@
   - マーグリーズ・ポポル・フリズリクスドッティル8世
     [12月6日](../Page/12月6日.md "wikilink")生まれ（[いて座](../Page/いて座.md "wikilink")）、血液型はO型。通称は「リーズ」、一人称は「わらわ」。年齢不詳だが、他の3人より幼げな外見が特徴。実家はサルヴェーテの街の有力者で、その家柄を反映してか非常に高飛車な性格。正体不明の魔獣・イエモンをいつも連れ歩いている。武器は悪魔が封印されていると言う伝説を持つ矛槍（ハルバード）・イゾベル。
   - カナミ・シャーロット
-    [3月21日](../Page/3月21日.md "wikilink")生まれ（[おひつじ座](../Page/おひつじ座.md "wikilink")）、血液型はA型。16歳。一人称は「わたし」。正義感が強く、父が鍛えた無銘の[レイピア](../Page/レイピア.md "wikilink")を手に地区対抗戦で3年間無敗を誇る。性格は絵に描いたような[ツンデレ](https://ja.wikipedia.org/wiki/ツンデレ "wikilink")で、本当は剣術でなく亡き母と同様に[バレエ](../Page/バレエ.md "wikilink")を習いたいと思っているが、自身の性格が邪魔をして機会に恵まれないまま現在に至る。
+    [3月21日](../Page/3月21日.md "wikilink")生まれ（[おひつじ座](../Page/おひつじ座.md "wikilink")）、血液型はA型。16歳。一人称は「わたし」。正義感が強く、父が鍛えた無銘の[レイピア](../Page/レイピア.md "wikilink")を手に地区対抗戦で3年間無敗を誇る。性格は絵に描いたような[ツンデレ](../Page/ツンデレ.md "wikilink")で、本当は剣術でなく亡き母と同様に[バレエ](../Page/バレエ.md "wikilink")を習いたいと思っているが、自身の性格が邪魔をして機会に恵まれないまま現在に至る。
   - ククーシュカ・エル・ダクネイト
     [10月20日](../Page/10月20日.md "wikilink")生まれ（[てんびん座](../Page/てんびん座.md "wikilink")）、血液型はA型。通称は「クー」（リーズは「クークー」と呼んでいる）、一人称は「私」。フリズリクスドッティル家の三分家の一つ・ダクネイト家の長女。かつて本家継承を賭けた決闘で反則負けにより失格し、街から追放されたが妹・エリカと共に「運命の指輪」を授かりリーズに再勝負を挑む。武器は赤い刃の[エストック](../Page/エストック.md "wikilink")・メデューラ。
   - エリカ・エル・ダクネイト

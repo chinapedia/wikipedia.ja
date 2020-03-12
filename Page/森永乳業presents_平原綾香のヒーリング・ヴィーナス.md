@@ -5,7 +5,7 @@
 
 ## 概要
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に終了した[森永乳業presents 川村結花のヒーリング・ヴィーナスの後継として開始](../Page/森永乳業presents_川村結花のヒーリング・ヴィーナス.md "wikilink")。[ヒーリング・ヴィーナス](https://ja.wikipedia.org/wiki/ヒーリング・ヴィーナス "wikilink")の4代目。川村時代は原則として[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")であったが、平原になってからは基本的に録音放送となった（後述するように生放送で放送したこともある）。2019年3月の終了時点で平原は満13年間担当しており、歴代ヒーリング・ヴィーナスでは最長の放送期間\[1\]となった。
+[2006年](../Page/2006年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に終了した[森永乳業presents 川村結花のヒーリング・ヴィーナスの後継として開始](../Page/森永乳業presents_川村結花のヒーリング・ヴィーナス.md "wikilink")。[ヒーリング・ヴィーナス](https://ja.wikipedia.org/wiki/ヒーリング・ヴィーナス "wikilink")の4代目。川村時代は原則として[生放送](../Page/生放送.md "wikilink")であったが、平原になってからは基本的に録音放送となった（後述するように生放送で放送したこともある）。2019年3月の終了時点で平原は満13年間担当しており、歴代ヒーリング・ヴィーナスでは最長の放送期間\[1\]となった。
 
 平原が歌とは全く違う、明るくひょうきんな喋りを披露しているのが大きな特徴である。番組のコンセプトは「癒しと笑いをテーマにした、まったり、ゆったりとした番組」\[2\]。2010年4月から[FM OH\!](../Page/エフエム大阪.md "wikilink")(ネット開始当初のステーションネームはFM OSAKA)でも放送開始。当初は1時間遅れネットしていたが、2011年4月から東京と同時ネット。2016年10月からは[@FMでも放送を開始し](../Page/エフエム愛知.md "wikilink")、東京・愛知・大阪の三局ネットになった。
 
@@ -136,20 +136,20 @@
 ### 2006年
 
   - TOKYO FM『森永乳業 presents ヒーリング・ヴィーナス 10th Anniversary Special 平原綾香Live in 丸ビル』
-    [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink") 18:00-18:55放送（通常放送枠）
+    [2006年](../Page/2006年.md "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink") 18:00-18:55放送（通常放送枠）
     丸ビルクリスマスツリー点灯式での公開収録（11月17日収録）
 
 ### 2008年
 
   - 森永乳業presents 平原綾香のヒーリング・ヴィーナス バレンタインデースペシャル
     [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月11日](../Page/2月11日.md "wikilink") 17:00-17:55放送
-    [アクアシティお台場](https://ja.wikipedia.org/wiki/アクアシティお台場 "wikilink")からの初の公開生放送。ゲストは:[K](https://ja.wikipedia.org/wiki/K_\(歌手\) "wikilink")。なお、公開生放送は、川村結花がパーソナリティーの時にも行われていた。
+    [アクアシティお台場](../Page/アクアシティお台場.md "wikilink")からの初の公開生放送。ゲストは:[K](../Page/K_\(歌手\).md "wikilink")。なお、公開生放送は、川村結花がパーソナリティーの時にも行われていた。
 
 <!-- end list -->
 
   - TOKYO FM HOLIDAY SPECIAL 平原綾香のヒーリング・ヴィーナス SUMMER SPECIAL
     [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月21日](../Page/7月21日.md "wikilink") 11:30-13:00放送
-    [ヴィーナスフォート](https://ja.wikipedia.org/wiki/ヴィーナスフォート "wikilink")での公開収録（7月12日収録）。ゲスト:[佐藤竹善](https://ja.wikipedia.org/wiki/佐藤竹善 "wikilink")。
+    [ヴィーナスフォート](../Page/ヴィーナスフォート.md "wikilink")での公開収録（7月12日収録）。ゲスト:[佐藤竹善](../Page/佐藤竹善.md "wikilink")。
 
 ### 2009年
 
@@ -173,7 +173,7 @@
 
   - 森永乳業presents 平原綾香のヒーリング・ヴィーナス おひさまプロジェクト 〜大切なあなたへ Ustream Live\!〜
     [2011年](../Page/2011年.md "wikilink")[11月6日](../Page/11月6日.md "wikilink") 18:00-18:55放送（通常放送枠）
-    [大阪](../Page/大阪市.md "wikilink")[心斎橋](https://ja.wikipedia.org/wiki/心斎橋 "wikilink") [BIG STEP](../Page/ビッグステップ.md "wikilink") 地下1階特設スペースでの公開収録（10月29日収録）。初の大阪での公開収録で、収録日当日には[Ustream](https://ja.wikipedia.org/wiki/Ustream "wikilink")を通じて生中継された。ゲスト:[桂三度](../Page/桂三度.md "wikilink")。
+    [大阪](../Page/大阪市.md "wikilink")[心斎橋](../Page/心斎橋.md "wikilink") [BIG STEP](../Page/ビッグステップ.md "wikilink") 地下1階特設スペースでの公開収録（10月29日収録）。初の大阪での公開収録で、収録日当日には[Ustream](https://ja.wikipedia.org/wiki/Ustream "wikilink")を通じて生中継された。ゲスト:[桂三度](../Page/桂三度.md "wikilink")。
 
 ### 2012年
 
@@ -191,13 +191,13 @@
 
   - 森永乳業presents 平原綾香のヒーリング・ヴィーナス
     [2013年](../Page/2013年.md "wikilink")[2月10日](../Page/2月10日.md "wikilink") 18:00-18:55放送（通常放送枠）
-    [マウントレーニアホール](https://ja.wikipedia.org/wiki/マウントレーニアホール "wikilink")渋谷での公開収録（2月1日収録）。前半はゲストの[堂珍嘉邦](https://ja.wikipedia.org/wiki/堂珍嘉邦 "wikilink")とのトーク、後半は平原のライブ。堂珍とのデュエットも披露された。
+    [マウントレーニアホール](https://ja.wikipedia.org/wiki/マウントレーニアホール "wikilink")渋谷での公開収録（2月1日収録）。前半はゲストの[堂珍嘉邦](../Page/堂珍嘉邦.md "wikilink")とのトーク、後半は平原のライブ。堂珍とのデュエットも披露された。
 
 <!-- end list -->
 
   - 森永乳業presents 平原綾香のヒーリング・ヴィーナス「Season's Greeting from AYAKA」
     [2013年](../Page/2013年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink") 18:00-18:55放送（通常放送枠）
-    マウントレーニアホール渋谷での公開収録（11月25日収録）。ゲストの[吉田兄弟](https://ja.wikipedia.org/wiki/吉田兄弟 "wikilink")とのトークと平原および吉田兄弟のライブ。
+    マウントレーニアホール渋谷での公開収録（11月25日収録）。ゲストの[吉田兄弟](../Page/吉田兄弟.md "wikilink")とのトークと平原および吉田兄弟のライブ。
 
 ### 2015年
 
@@ -242,11 +242,11 @@
 
   - 森永乳業presents 平原綾香のヒーリング・ヴィーナス「平原綾香15周年記念ファンクラブイベント meets ヒーリング・ヴィーナス 公開生放送」
     [2018年](../Page/2018年.md "wikilink")[2月11日](../Page/2月11日.md "wikilink") 18:00-18:55放送（通常放送枠）
-    渋谷・[マウントレーニアホール](https://ja.wikipedia.org/wiki/マウントレーニアホール "wikilink")からの公開生放送。ファンクラブのデビュー15周年記念イベントとの合同企画。ライブで「ソメイヨシノ」「Reset」「[スーパーカリフラジリスティックエクスピアリドーシャス](https://ja.wikipedia.org/wiki/スーパーカリフラジリスティックエクスピアリドーシャス "wikilink")」「What I am -未来の私へ-」の4曲を披露した\[9\]。
+    渋谷・[マウントレーニアホール](https://ja.wikipedia.org/wiki/マウントレーニアホール "wikilink")からの公開生放送。ファンクラブのデビュー15周年記念イベントとの合同企画。ライブで「ソメイヨシノ」「Reset」「[スーパーカリフラジリスティックエクスピアリドーシャス](../Page/スーパーカリフラジリスティックエクスピアリドーシャス.md "wikilink")」「What I am -未来の私へ-」の4曲を披露した\[9\]。
 
 ## コラボレーション
 
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月17日](../Page/2月17日.md "wikilink")に、この番組の直前に放送されている『[NISSAN あ、安部礼司〜BEYOND THE AVERAGE](https://ja.wikipedia.org/wiki/NISSAN_あ、安部礼司〜BEYOND_THE_AVERAGE "wikilink")』（日曜 17：00 - 17:55）に平原が平原綾香本人役でエンディングに出演。登場人物・刈谷勇と絡むシーンが放送され、その際にこの番組と平原のベストアルバムの宣伝を平原自らが行った。また、直後の『ヒーリング・ヴィーナス』のオープニングでは、平原が刈谷勇の真似で登場している。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月17日](../Page/2月17日.md "wikilink")に、この番組の直前に放送されている『[NISSAN あ、安部礼司〜BEYOND THE AVERAGE](../Page/NISSAN_あ、安部礼司〜BEYOND_THE_AVERAGE.md "wikilink")』（日曜 17：00 - 17:55）に平原が平原綾香本人役でエンディングに出演。登場人物・刈谷勇と絡むシーンが放送され、その際にこの番組と平原のベストアルバムの宣伝を平原自らが行った。また、直後の『ヒーリング・ヴィーナス』のオープニングでは、平原が刈谷勇の真似で登場している。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[8月31日](../Page/8月31日.md "wikilink")にも『あ、安部礼司』に平原が本人役で出演。この日は安部礼司の登場人物刈谷勇と倉橋優がヒーリング・ヴィーナスにゲスト出演している。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月14日](../Page/12月14日.md "wikilink")には、当時平原が出演していた[フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[風のガーデン](../Page/風のガーデン.md "wikilink")』から「氷室茜」がゲスト出演し、平原と対談した（平原の一人二役）\[10\]。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月7日](../Page/3月7日.md "wikilink")には、平原が主題歌（「[ケロパック](https://ja.wikipedia.org/wiki/ケロパック "wikilink")」）を担当した『[超劇場版ケロロ軍曹 誕生\!究極ケロロ 奇跡の時空島であります\!\!](https://ja.wikipedia.org/wiki/超劇場版ケロロ軍曹_誕生!究極ケロロ_奇跡の時空島であります!! "wikilink")』から[ケロロ](../Page/ケロロ.md "wikilink")（声：[渡辺久美子](../Page/渡辺久美子.md "wikilink")）が「電波ジャック」と称して出演した\[11\]。
@@ -268,7 +268,7 @@
 
 [Category:平原綾香](https://ja.wikipedia.org/wiki/Category:平原綾香 "wikilink") [Category:TOKYO_FMの音楽番組](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの音楽番組 "wikilink") [Category:エフエム大阪の番組](https://ja.wikipedia.org/wiki/Category:エフエム大阪の番組 "wikilink") [Category:エフエム愛知の番組](https://ja.wikipedia.org/wiki/Category:エフエム愛知の番組 "wikilink") [Category:JFN系ラジオの一社提供番組](https://ja.wikipedia.org/wiki/Category:JFN系ラジオの一社提供番組 "wikilink") [Category:森永乳業](https://ja.wikipedia.org/wiki/Category:森永乳業 "wikilink") [Category:2006年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のラジオ番組_\(日本\) "wikilink")
 
-1.  初代の[渡瀬マキ](https://ja.wikipedia.org/wiki/渡瀬マキ "wikilink")(1996年4月 - 1999年9月)、2代目の[SAKURA](https://ja.wikipedia.org/wiki/SAKURA_\(歌手\) "wikilink")（1999年10月 - 2002年9月）、3代目の川村(2002年10月 - 2006年3月）はいずれも3年 - 4年で交替している。
+1.  初代の[渡瀬マキ](https://ja.wikipedia.org/wiki/渡瀬マキ "wikilink")(1996年4月 - 1999年9月)、2代目の[SAKURA](../Page/SAKURA_\(歌手\).md "wikilink")（1999年10月 - 2002年9月）、3代目の川村(2002年10月 - 2006年3月）はいずれも3年 - 4年で交替している。
 2.  [秦基博さんがゲスト](http://www.tfm.co.jp/hv/index.php?itemid=25218)（番組公式サイト 2009年12月20日）
 3.  後継の森永乳業一社提供番組は当初決まっていなかったがその後、TOKYO　FMのプレスリリースにより「[ディア・フレンズ](../Page/ディア・フレンズ.md "wikilink")」内に新コーナーとして2019年4月1日～『森永乳業・カフエトーク』というコーナーを設けることが発表された。
 4.  2013年2月から、メッセージを送ったリスナーに抽選でプレゼントされている。

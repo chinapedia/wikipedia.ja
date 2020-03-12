@@ -1,15 +1,15 @@
 > この記事は[RapiCa](https://ja.wikipedia.org/wiki/RapiCa)から翻訳されています。
 
 
-**RapiCa**（ラピカ）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")に利用が開始された[ICカード](../Page/ICカード.md "wikilink")式の「かごしま共通[乗車カード](../Page/乗車カード.md "wikilink")」およびその愛称である。制度上は[回数乗車券](../Page/回数乗車券.md "wikilink")の位置づけである。
+**RapiCa**（ラピカ）は、[2005年](../Page/2005年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")に利用が開始された[ICカード](../Page/ICカード.md "wikilink")式の「かごしま共通[乗車カード](../Page/乗車カード.md "wikilink")」およびその愛称である。制度上は[回数乗車券](../Page/回数乗車券.md "wikilink")の位置づけである。
 
 愛称は「**R**ide **A**nd **P**ay **I**ntelligent **CA**rd」や「**ら**くらく**ピ**ッと乗れる**カ**ード」に由来する。iの上には放射状に3本の線が引いてあり、灯台や街灯を形どったものである。
 
 ## 概要
 
-[ICCard_Connection.svg](https://ja.wikipedia.org/wiki/File:ICCard_Connection.svg "fig:ICCard_Connection.svg") [鹿児島市電、鹿児島市営バス](https://ja.wikipedia.org/wiki/鹿児島市交通局 "wikilink")、[南国交通](https://ja.wikipedia.org/wiki/南国交通 "wikilink")バス、[JR九州バス](https://ja.wikipedia.org/wiki/JR九州バス "wikilink")[北薩線](https://ja.wikipedia.org/wiki/北薩線 "wikilink")、[桜島フェリー](https://ja.wikipedia.org/wiki/桜島フェリー "wikilink")で利用できるIC[乗車カード](../Page/乗車カード.md "wikilink")で、[ソニー](../Page/ソニー.md "wikilink")が開発した「[FeliCa](../Page/FeliCa.md "wikilink")」を使用しており、[サイバネ規格](https://ja.wikipedia.org/wiki/サイバネ規格 "wikilink")に準拠している。[2014年](../Page/2014年.md "wikilink")12月までの累計発行枚数は、約25.7万枚となっている。\[1\]
+[ICCard_Connection.svg](https://ja.wikipedia.org/wiki/File:ICCard_Connection.svg "fig:ICCard_Connection.svg") [鹿児島市電、鹿児島市営バス](https://ja.wikipedia.org/wiki/鹿児島市交通局 "wikilink")、[南国交通](../Page/南国交通.md "wikilink")バス、[JR九州バス](../Page/JR九州バス.md "wikilink")[北薩線](https://ja.wikipedia.org/wiki/北薩線 "wikilink")、[桜島フェリー](../Page/桜島フェリー.md "wikilink")で利用できるIC[乗車カード](../Page/乗車カード.md "wikilink")で、[ソニー](../Page/ソニー.md "wikilink")が開発した「[FeliCa](../Page/FeliCa.md "wikilink")」を使用しており、[サイバネ規格](https://ja.wikipedia.org/wiki/サイバネ規格 "wikilink")に準拠している。[2014年](../Page/2014年.md "wikilink")12月までの累計発行枚数は、約25.7万枚となっている。\[1\]
 
-[いわさきコーポレーション](https://ja.wikipedia.org/wiki/いわさきコーポレーション "wikilink")グループが発売するIC乗車カードの[いわさきICカード](https://ja.wikipedia.org/wiki/いわさきICカード "wikilink")との相互利用により、[鹿児島交通](https://ja.wikipedia.org/wiki/鹿児島交通 "wikilink")、[種子島・屋久島交通](https://ja.wikipedia.org/wiki/種子島・屋久島交通 "wikilink")、[鹿児島商船](https://ja.wikipedia.org/wiki/鹿児島商船 "wikilink")、[垂水フェリーでも利用可能であることから](https://ja.wikipedia.org/wiki/鴨池・垂水フェリー "wikilink")、鹿児島県内にとどまらず、熊本県南部（水俣市）や宮崎県西部（都城市）に通ずるバス路線でも利用できる。ただし「いわさきICカード」で適用される割引は適用されない。
+[いわさきコーポレーション](../Page/いわさきコーポレーション.md "wikilink")グループが発売するIC乗車カードの[いわさきICカード](../Page/いわさきICカード.md "wikilink")との相互利用により、[鹿児島交通](../Page/鹿児島交通.md "wikilink")、[種子島・屋久島交通](../Page/種子島・屋久島交通.md "wikilink")、[鹿児島商船](../Page/鹿児島商船.md "wikilink")、[垂水フェリーでも利用可能であることから](https://ja.wikipedia.org/wiki/鴨池・垂水フェリー "wikilink")、鹿児島県内にとどまらず、熊本県南部（水俣市）や宮崎県西部（都城市）に通ずるバス路線でも利用できる。ただし「いわさきICカード」で適用される割引は適用されない。
 
 積み増し（チャージ）した際には、入金額より割り増した金額が利用可能額として加算されるようになっている。また、割増率は入金額が大きいほど高くなる。
 
@@ -44,7 +44,7 @@
 ## 関連項目
 
   - [FeliCa](../Page/FeliCa.md "wikilink")
-  - [いわさきICカード](https://ja.wikipedia.org/wiki/いわさきICカード "wikilink")
+  - [いわさきICカード](../Page/いわさきICカード.md "wikilink")
 
 ## 外部リンク
 

@@ -1,7 +1,7 @@
 > この記事は[FF](https://ja.wikipedia.org/wiki/FF)から翻訳されています。
 
 
-[Guldlaget1944.jpg](https://ja.wikipedia.org/wiki/File:Guldlaget1944.jpg "fig:Guldlaget1944.jpg") **マルメ・フォトボルフェレニン**（）は、[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")の南部、[スコーネ県](https://ja.wikipedia.org/wiki/スコーネ県 "wikilink")の県都[マルメ](../Page/マルメ.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。 [IFKヨーテボリ](../Page/IFKヨーテボリ.md "wikilink")、[AIK](https://ja.wikipedia.org/wiki/AIKソルナ "wikilink")、[ユールゴーデンIF](../Page/ユールゴーデンIF.md "wikilink")と共にスウェーデンのサッカーにおいて「ビッグ4」と目される。
+[Guldlaget1944.jpg](https://ja.wikipedia.org/wiki/File:Guldlaget1944.jpg "fig:Guldlaget1944.jpg") **マルメ・フォトボルフェレニン**（）は、[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")の南部、[スコーネ県](../Page/スコーネ県.md "wikilink")の県都[マルメ](../Page/マルメ.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。 [IFKヨーテボリ](../Page/IFKヨーテボリ.md "wikilink")、[AIK](../Page/AIKソルナ.md "wikilink")、[ユールゴーデンIF](../Page/ユールゴーデンIF.md "wikilink")と共にスウェーデンのサッカーにおいて「ビッグ4」と目される。
 
 またマルメFFは[UEFAチャンピオンズカップの決勝に進出した唯一のスウェーデンのクラブでもある](../Page/UEFAチャンピオンズリーグ.md "wikilink")。1978-79シーズンのチャンピオンズカップで決勝に進み、0-1で[イングランド](../Page/イングランド.md "wikilink")の[ノッティンガム・フォレストに敗れた](../Page/ノッティンガム・フォレストFC.md "wikilink")。
 
@@ -140,7 +140,7 @@
 </tr>
 <tr class="even">
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スポルティング・クルーベ・デ・ポルトゥガル" title="wikilink">スポルティングCP</a></p></td>
+<td><p><a href="../Page/スポルティング・クルーベ・デ・ポルトゥガル.md" title="wikilink">スポルティングCP</a></p></td>
 <td><p>0-1</p></td>
 <td><p>0-2</p></td>
 <td><p>'''0-3</p></td>
@@ -170,7 +170,7 @@
 </tr>
 <tr class="odd">
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCトゥーン" title="wikilink">トゥーン</a></p></td>
+<td><p><a href="../Page/FCトゥーン.md" title="wikilink">トゥーン</a></p></td>
 <td><p>0-1</p></td>
 <td><p>0-3</p></td>
 <td><p>'''0-4</p></td>
@@ -181,7 +181,7 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ_2005-06" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ベシクタシュJK" title="wikilink">ベシクタシュ</a></p></td>
+<td><p><a href="../Page/ベシクタシュJK.md" title="wikilink">ベシクタシュ</a></p></td>
 <td><p>1-4</p></td>
 <td><p>1-0</p></td>
 <td><p>'''2-4</p></td>
@@ -200,7 +200,7 @@
 </tr>
 <tr class="even">
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レンジャーズFC" title="wikilink">レンジャーズ</a></p></td>
+<td><p><a href="../Page/レンジャーズFC.md" title="wikilink">レンジャーズ</a></p></td>
 <td><p>1-1</p></td>
 <td><p>1-0</p></td>
 <td><p>'''2-1</p></td>
@@ -221,7 +221,7 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2011-12" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>グループG</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/AZアルクマール" title="wikilink">AZ</a></p></td>
+<td><p><a href="../Page/AZアルクマール.md" title="wikilink">AZ</a></p></td>
 <td><p>0-0</p></td>
 <td><p>1-4</p></td>
 <td><p>'''4位</p></td>
@@ -260,7 +260,7 @@
 </tr>
 <tr class="even">
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ハイバーニアンFC" title="wikilink">ハイバーニアン</a></p></td>
+<td><p><a href="../Page/ハイバーニアンFC.md" title="wikilink">ハイバーニアン</a></p></td>
 <td><p>2-0</p></td>
 <td><p>7-0</p></td>
 <td><p>'''9-0</p></td>
@@ -290,10 +290,10 @@
 </tr>
 <tr class="odd">
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ACスパルタ・プラハ" title="wikilink">スパルタ・プラハ</a></p></td>
+<td><p><a href="../Page/ACスパルタ・プラハ.md" title="wikilink">スパルタ・プラハ</a></p></td>
 <td><p>2-0</p></td>
 <td><p>2-4</p></td>
-<td><p>'''4-4 (<a href="https://ja.wikipedia.org/wiki/アウェーゴール" title="wikilink">a</a>)</p></td>
+<td><p>'''4-4 (<a href="../Page/アウェーゴール.md" title="wikilink">a</a>)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -360,7 +360,7 @@
 </tr>
 <tr class="even">
 <td><p>プレーオフ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/セルティックFC" title="wikilink">セルティック</a></p></td>
+<td><p><a href="../Page/セルティックFC.md" title="wikilink">セルティック</a></p></td>
 <td><p>2-0</p></td>
 <td><p>2-3</p></td>
 <td><p>'''4-3</p></td>
@@ -459,7 +459,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ベシクタシュJK" title="wikilink">ベシクタシュ</a></p></td>
+<td><p><a href="../Page/ベシクタシュJK.md" title="wikilink">ベシクタシュ</a></p></td>
 <td><p>2-0</p></td>
 <td><p>1-0</p></td>
 <td></td>
@@ -530,7 +530,7 @@
 </tr>
 <tr class="odd">
 <td><p>グループB</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCディナモ・キエフ" title="wikilink">ディナモ・キエフ</a></p></td>
+<td><p><a href="../Page/FCディナモ・キエフ.md" title="wikilink">ディナモ・キエフ</a></p></td>
 <td><p>4-3</p></td>
 <td><p>0-1</p></td>
 <td><p>'''1位</p></td>
@@ -560,7 +560,7 @@
 </tr>
 <tr class="even">
 <td><p>ラウンド32</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/VfLヴォルフスブルク" title="wikilink">ヴォルフスブルク</a></p></td>
+<td><p><a href="../Page/VfLヴォルフスブルク.md" title="wikilink">ヴォルフスブルク</a></p></td>
 <td><p>0-3</p></td>
 <td><p>1-2</p></td>
 <td><p>'''1-5</p></td>
@@ -591,7 +591,7 @@
 
 <!-- end list -->
 
-  - [ヨン・ダール・トマソン](https://ja.wikipedia.org/wiki/ヨン・ダール・トマソン "wikilink")
+  - [ヨン・ダール・トマソン](../Page/ヨン・ダール・トマソン.md "wikilink")
 
 ### ローン移籍
 
@@ -637,7 +637,7 @@
 
   - [ウーヴェ・レスラー](https://ja.wikipedia.org/wiki/ウーヴェ・レスラー "wikilink") 2018-2019
 
-  - [ヨン・ダール・トマソン](https://ja.wikipedia.org/wiki/ヨン・ダール・トマソン "wikilink") 2020-
+  - [ヨン・ダール・トマソン](../Page/ヨン・ダール・トマソン.md "wikilink") 2020-
 
 ## 歴代所属選手
 
@@ -661,7 +661,7 @@
 
   - [ルアイ・チャンコ](https://ja.wikipedia.org/wiki/ルアイ・チャンコ "wikilink") 2003-2005
 
-  - [ヤリ・リトマネン](https://ja.wikipedia.org/wiki/ヤリ・リトマネン "wikilink")　2005-2007
+  - [ヤリ・リトマネン](../Page/ヤリ・リトマネン.md "wikilink")　2005-2007
 
   - [オラ・トイヴォネン](https://ja.wikipedia.org/wiki/オラ・トイヴォネン "wikilink") 2007-2009
 

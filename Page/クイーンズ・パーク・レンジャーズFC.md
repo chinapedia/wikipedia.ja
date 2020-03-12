@@ -7,13 +7,13 @@
 
 [1882年](../Page/1882年.md "wikilink")、学校のクラブだったセント・ジューズ (*St Jude's*) がクライストチャーチ・レンジャーズ (*Christchurch Rangers*) と合併してクイーンズ・パーク・レンジャーズが設立された。チーム名は多くの選手がロンドン郊外の[クイーンズ・パーク](https://ja.wikipedia.org/wiki/クイーンズ・パーク "wikilink")地区から来ていた事に由来する\[2\]。
 
-2007年には[フォーミュラ1](../Page/フォーミュラ1.md "wikilink")で有名な[フラビオ・ブリアトーレ](https://ja.wikipedia.org/wiki/フラビオ・ブリアトーレ "wikilink")と[バーニー・エクレストン](../Page/バーニー・エクレストン.md "wikilink")が買収しオーナーとなったが、2011年8月に[エアアジア](https://ja.wikipedia.org/wiki/エアアジア "wikilink")CEOの[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")人[トニー・フェルナンデスが株式の過半数を取得し](https://ja.wikipedia.org/wiki/トニー・フェルナンデス_\(実業家\) "wikilink")、新オーナーとなった\[3\]。
+2007年には[フォーミュラ1](../Page/フォーミュラ1.md "wikilink")で有名な[フラビオ・ブリアトーレ](../Page/フラビオ・ブリアトーレ.md "wikilink")と[バーニー・エクレストン](../Page/バーニー・エクレストン.md "wikilink")が買収しオーナーとなったが、2011年8月に[エアアジア](https://ja.wikipedia.org/wiki/エアアジア "wikilink")CEOの[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")人[トニー・フェルナンデスが株式の過半数を取得し](https://ja.wikipedia.org/wiki/トニー・フェルナンデス_\(実業家\) "wikilink")、新オーナーとなった\[3\]。
 
-2010-11シーズンは、2011年4月30日、アウェーでの[ワトフォード戦に](https://ja.wikipedia.org/wiki/ワトフォードFC "wikilink")2-0で勝利し、チャンピオンシップ優勝と15シーズンぶりのプレミアリーグ昇格を果たした。\[4\]2011-12シーズンは苦しみながらも最終節で17位となり、降格を免れた。\[5\]
+2010-11シーズンは、2011年4月30日、アウェーでの[ワトフォード戦に](../Page/ワトフォードFC.md "wikilink")2-0で勝利し、チャンピオンシップ優勝と15シーズンぶりのプレミアリーグ昇格を果たした。\[4\]2011-12シーズンは苦しみながらも最終節で17位となり、降格を免れた。\[5\]
 
-2012-13シーズンは、2012年の夏に[マンチェスター・ユナイテッドより元](../Page/マンチェスター・ユナイテッドFC.md "wikilink")[韓国代表MFの](../Page/サッカー大韓民国代表.md "wikilink")[朴智星](https://ja.wikipedia.org/wiki/朴智星 "wikilink")と[インテルより](https://ja.wikipedia.org/wiki/インテルナツィオナーレ・ミラノ "wikilink")[ブラジル代表GKの](https://ja.wikipedia.org/wiki/サッカーブラジル代表 "wikilink")[ジュリオ・セザルなどを獲得したにも関わらず](../Page/ジュリオ・セザル・ソアレス・エスピンドラ.md "wikilink")、開幕12試合で勝ち点4しか獲得できず、リーグ最下位に低迷し、2012年11月23日、マーク・ヒューズ監督を解任。\[6\][ハリー・レドナップ](https://ja.wikipedia.org/wiki/ハリー・レドナップ "wikilink")の新監督就任や、\[7\]冬の移籍市場で[マルセイユから](https://ja.wikipedia.org/wiki/オリンピック・マルセイユ "wikilink")[フランス代表FWの](../Page/サッカーフランス代表.md "wikilink")[ロイク・レミ](https://ja.wikipedia.org/wiki/ロイク・レミ "wikilink")を獲得するが事態は好転せず、2013年4月28日、同じく降格を争っていた[レディングとアウェーで](https://ja.wikipedia.org/wiki/レディングFC "wikilink")0-0で引き分け、2シーズンでプレミアリーグからチャンピンシップに降格となった。\[8\]
+2012-13シーズンは、2012年の夏に[マンチェスター・ユナイテッドより元](../Page/マンチェスター・ユナイテッドFC.md "wikilink")[韓国代表MFの](../Page/サッカー大韓民国代表.md "wikilink")[朴智星](../Page/朴智星.md "wikilink")と[インテルより](https://ja.wikipedia.org/wiki/インテルナツィオナーレ・ミラノ "wikilink")[ブラジル代表GKの](https://ja.wikipedia.org/wiki/サッカーブラジル代表 "wikilink")[ジュリオ・セザルなどを獲得したにも関わらず](../Page/ジュリオ・セザル・ソアレス・エスピンドラ.md "wikilink")、開幕12試合で勝ち点4しか獲得できず、リーグ最下位に低迷し、2012年11月23日、マーク・ヒューズ監督を解任。\[6\][ハリー・レドナップ](https://ja.wikipedia.org/wiki/ハリー・レドナップ "wikilink")の新監督就任や、\[7\]冬の移籍市場で[マルセイユから](../Page/オリンピック・マルセイユ.md "wikilink")[フランス代表FWの](../Page/サッカーフランス代表.md "wikilink")[ロイク・レミ](https://ja.wikipedia.org/wiki/ロイク・レミ "wikilink")を獲得するが事態は好転せず、2013年4月28日、同じく降格を争っていた[レディングとアウェーで](../Page/レディングFC.md "wikilink")0-0で引き分け、2シーズンでプレミアリーグからチャンピンシップに降格となった。\[8\]
 
-2013-14シーズンはチャンピオンシップで4位となり、昇格プレーオフ出場権を獲得。準決勝で[ウィガン・アスレティックを破り](https://ja.wikipedia.org/wiki/ウィガン・アスレティックFC "wikilink")、2014年5月24日に行われた決勝では90分に[ボビー・ザモラ](https://ja.wikipedia.org/wiki/ボビー・ザモラ "wikilink")がゴールを挙げ、[ダービー・カウンティに](../Page/ダービー・カウンティFC.md "wikilink")1-0で勝利し、1シーズンでプレミアリーグ復帰を果たした。\[9\]
+2013-14シーズンはチャンピオンシップで4位となり、昇格プレーオフ出場権を獲得。準決勝で[ウィガン・アスレティックを破り](../Page/ウィガン・アスレティックFC.md "wikilink")、2014年5月24日に行われた決勝では90分に[ボビー・ザモラ](https://ja.wikipedia.org/wiki/ボビー・ザモラ "wikilink")がゴールを挙げ、[ダービー・カウンティに](../Page/ダービー・カウンティFC.md "wikilink")1-0で勝利し、1シーズンでプレミアリーグ復帰を果たした。\[9\]
 
 2014-15シーズンはプレミアリーグ最下位に低迷し、1シーズンでチャンピンシップ降格となった。
 
@@ -482,7 +482,7 @@
 
   - [クリス・ラムジー](https://ja.wikipedia.org/wiki/クリス・ラムジー "wikilink") 2015.2-2015.11
 
-  - [ジミー・フロイド・ハッセルバインク](https://ja.wikipedia.org/wiki/ジミー・フロイド・ハッセルバインク "wikilink") 2015.11-2016.11
+  - [ジミー・フロイド・ハッセルバインク](../Page/ジミー・フロイド・ハッセルバインク.md "wikilink") 2015.11-2016.11
 
   - [イアン・ホロウェイ](https://ja.wikipedia.org/wiki/イアン・ホロウェイ "wikilink") 2016.11-2018.5
 
@@ -496,7 +496,7 @@
 
 ### GK
 
-  - [デビッド・シーマン](https://ja.wikipedia.org/wiki/デビッド・シーマン "wikilink") 1986-1990
+  - [デビッド・シーマン](../Page/デビッド・シーマン.md "wikilink") 1986-1990
 
   - [パディ・ケニー](../Page/パディ・ケニー.md "wikilink") 2010-2012
 
@@ -504,11 +504,11 @@
 
 ### DF
 
-  - [オズワルド・アルディレス](https://ja.wikipedia.org/wiki/オズワルド・アルディレス "wikilink") 1989
+  - [オズワルド・アルディレス](../Page/オズワルド・アルディレス.md "wikilink") 1989
 
   - [デイヴィッド・バーズリー](https://ja.wikipedia.org/wiki/デイヴィッド・バーズリー "wikilink") 1989-1998
 
-  - [ネディエリコ・ゼリッチ](https://ja.wikipedia.org/wiki/ネディエリコ・ゼリッチ "wikilink") 1995.7-1995.12
+  - [ネディエリコ・ゼリッチ](../Page/ネディエリコ・ゼリッチ.md "wikilink") 1995.7-1995.12
 
   - [ダニー・シットゥ](https://ja.wikipedia.org/wiki/ダニー・シットゥ "wikilink") 2001, 2002-2006, 2011-2012
 
@@ -526,13 +526,13 @@
 
   - [トレヴァー・シンクレア](../Page/トレヴァー・シンクレア.md "wikilink") 1993-1998
 
-  - [ヴィニー・ジョーンズ](https://ja.wikipedia.org/wiki/ヴィニー・ジョーンズ "wikilink") 1998-1999
+  - [ヴィニー・ジョーンズ](../Page/ヴィニー・ジョーンズ.md "wikilink") 1998-1999
 
   - [リー・クック](https://ja.wikipedia.org/wiki/リー・クック "wikilink") 2002-2003, 2004-2007, 2008-2012
 
-  - [キーロン・ダイアー](https://ja.wikipedia.org/wiki/キーロン・ダイアー "wikilink") 2011-2013.1
+  - [キーロン・ダイアー](../Page/キーロン・ダイアー.md "wikilink") 2011-2013.1
 
-  - [朴智星](https://ja.wikipedia.org/wiki/朴智星 "wikilink") 2012-2013
+  - [朴智星](../Page/朴智星.md "wikilink") 2012-2013
 
   - [サンバ・ディアキテ](https://ja.wikipedia.org/wiki/サンバ・ディアキテ "wikilink") 2012-2016
 
@@ -546,7 +546,7 @@
 
   - [ピーター・クラウチ](../Page/ピーター・クラウチ.md "wikilink") 2000-2001
 
-  - [ショーン・ライト＝フィリップス](https://ja.wikipedia.org/wiki/ショーン・ライト＝フィリップス "wikilink") 2011-2015
+  - [ショーン・ライト＝フィリップス](../Page/ショーン・ライト＝フィリップス.md "wikilink") 2011-2015
 
 ## エンブレム
 
@@ -563,7 +563,7 @@
 
 [Category:クイーンズ・パーク・レンジャーズFC](https://ja.wikipedia.org/wiki/Category:クイーンズ・パーク・レンジャーズFC "wikilink") [Category:ロンドンのサッカークラブ](https://ja.wikipedia.org/wiki/Category:ロンドンのサッカークラブ "wikilink") [Category:プレミアリーグのサッカークラブ](https://ja.wikipedia.org/wiki/Category:プレミアリーグのサッカークラブ "wikilink") [Category:ハマースミス・アンド・フラム区](https://ja.wikipedia.org/wiki/Category:ハマースミス・アンド・フラム区 "wikilink") [Category:1882年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:1882年設立のスポーツチーム "wikilink")
 
-1.  エンブレムの世界 QPR『[サッカーマガジン](https://ja.wikipedia.org/wiki/サッカーマガジン "wikilink")』2012年6月5日号、[ベースボール・マガジン社](https://ja.wikipedia.org/wiki/ベースボール・マガジン社 "wikilink")、斉藤健仁、2012年、[雑誌](https://ja.wikipedia.org/wiki/雑誌コード "wikilink")23881-6/5, 056頁。
+1.  エンブレムの世界 QPR『[サッカーマガジン](../Page/サッカーマガジン.md "wikilink")』2012年6月5日号、[ベースボール・マガジン社](../Page/ベースボール・マガジン社.md "wikilink")、斉藤健仁、2012年、[雑誌](../Page/雑誌コード.md "wikilink")23881-6/5, 056頁。
 2.
 3.
 4.

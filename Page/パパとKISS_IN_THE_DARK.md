@@ -1,7 +1,7 @@
 > この記事は[KISS IN THE DARK](https://ja.wikipedia.org/wiki/KISS_IN_THE_DARK)から翻訳されています。
 
 
-「**パパとKISS IN THE DARK**」（パパとキス・イン・ザ・ダーク）は、[南原兼](https://ja.wikipedia.org/wiki/南原兼 "wikilink")による日本の[BL小説作品の一つとされている](../Page/ボーイズラブ.md "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に[白泉社](../Page/白泉社.md "wikilink")から発売された[OVA](../Page/OVA.md "wikilink")。
+「**パパとKISS IN THE DARK**」（パパとキス・イン・ザ・ダーク）は、[南原兼](https://ja.wikipedia.org/wiki/南原兼 "wikilink")による日本の[BL小説作品の一つとされている](../Page/ボーイズラブ.md "wikilink")。[2005年](../Page/2005年.md "wikilink")に[白泉社](../Page/白泉社.md "wikilink")から発売された[OVA](../Page/OVA.md "wikilink")。
 
 ## あらすじ
 
@@ -16,13 +16,13 @@
   - 宇都宮　貴之（うつのみや たかゆき）
     声 - [子安武人](../Page/子安武人.md "wikilink")
   - 日野　一樹（ひの かずき）
-    声 - [千葉進歩](https://ja.wikipedia.org/wiki/千葉進歩 "wikilink")
+    声 - [千葉進歩](../Page/千葉進歩.md "wikilink")
   - 宇都宮　美月（うつのみや みつき）
     声 - [勝生真沙子](../Page/勝生真沙子.md "wikilink")
   - 桜井　シュン（さくらい シュン）
-    声 - [SHUN](https://ja.wikipedia.org/wiki/FANATIC◇CRISIS "wikilink")（子供の頃 - [寺島拓篤](https://ja.wikipedia.org/wiki/寺島拓篤 "wikilink")）
+    声 - [SHUN](../Page/FANATIC◇CRISIS.md "wikilink")（子供の頃 - [寺島拓篤](../Page/寺島拓篤.md "wikilink")）
   - 北条　朔弥（ほじょう さくや）
-    声 - [寺島拓篤](https://ja.wikipedia.org/wiki/寺島拓篤 "wikilink")
+    声 - [寺島拓篤](../Page/寺島拓篤.md "wikilink")
 
 ## スタッフ
 
@@ -47,7 +47,7 @@
   - 録音調整：野口あきら
   - 録音スタジオ：ブーメランスタジオ
   - 音響制作：トリニティーサウンド
-  - サウンドプロデュース：[和也](https://ja.wikipedia.org/wiki/FANATIC◇CRISIS "wikilink")
+  - サウンドプロデュース：[和也](../Page/FANATIC◇CRISIS.md "wikilink")
   - 音楽：CORNEA
   - 音楽プロデューサー：堀尾裕樹、本野信介
   - 設定・制作進行：大島泰美
@@ -55,8 +55,8 @@
   - 宣伝プロデューサー：三原浩樹
   - プロデューサー：宇都貴博、小野朝子、牧陽子
   - 制作プロデューサー：中川忍
-  - アニメーション制作：[ティー・エヌ・ケー](https://ja.wikipedia.org/wiki/ティー・エヌ・ケー "wikilink")
-  - [製作委員会](../Page/製作委員会方式.md "wikilink")：[ソルブレイド](../Page/ソルブレイド.md "wikilink") / [白泉社](../Page/白泉社.md "wikilink") / [ティー・エヌ・ケー](https://ja.wikipedia.org/wiki/ティー・エヌ・ケー "wikilink")
+  - アニメーション制作：[ティー・エヌ・ケー](../Page/ティー・エヌ・ケー.md "wikilink")
+  - [製作委員会](../Page/製作委員会方式.md "wikilink")：[ソルブレイド](../Page/ソルブレイド.md "wikilink") / [白泉社](../Page/白泉社.md "wikilink") / [ティー・エヌ・ケー](../Page/ティー・エヌ・ケー.md "wikilink")
 
 ## 主題歌
 

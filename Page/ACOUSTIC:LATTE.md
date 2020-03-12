@@ -1,13 +1,13 @@
 > この記事は[ACOUSTIC:LATTE](https://ja.wikipedia.org/wiki/ACOUSTIC:LATTE)から翻訳されています。
 
 
-『**ACOUSTIC:LATTE**』（アコースティック・ラテ）は、日本の音楽グループ[Every Little Thingが](../Page/Every_Little_Thing.md "wikilink")[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月16日](../Page/2月16日.md "wikilink")に発売した初の[アコースティック](https://ja.wikipedia.org/wiki/アコースティック "wikilink")[アルバム](../Page/アルバム.md "wikilink")（[エイベックスの位置付けでは](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")）である。
+『**ACOUSTIC:LATTE**』（アコースティック・ラテ）は、日本の音楽グループ[Every Little Thingが](../Page/Every_Little_Thing.md "wikilink")[2005年](../Page/2005年.md "wikilink")[2月16日](../Page/2月16日.md "wikilink")に発売した初の[アコースティック](https://ja.wikipedia.org/wiki/アコースティック "wikilink")[アルバム](../Page/アルバム.md "wikilink")（[エイベックスの位置付けでは](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")）である。
 
 ## 解説
 
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")から[2004年](../Page/2004年.md "wikilink")までに発表されたシングルやアルバムから選曲、収録されているが、本作に収録されている全曲がアコースティックにアレンジ、全てボーカルをレコーディングし直して収録されている。
   - 初回限定盤は24P特製ブックレット封入、レコーディング風景やライブ映像、特別インタビューが収録されたDVD付き。通常盤とはジャケットが異なる。
-  - 本作は副題がパッケージに記載されていないが、[mu-mo](https://ja.wikipedia.org/wiki/mu-mo "wikilink")など一部の配信サイトやライブDVD、「[鮮やかなもの](../Page/4_FORCE.md "wikilink")」が収録されている『BUZZER BEATER オリジナル・サウンドトラック』にはバージョン名が"Acoustic Version"と記載されている。また、「[愛の謳](https://ja.wikipedia.org/wiki/UNTITLED_4_ballads "wikilink")」が収録されているコンピレーション・アルバム『「夜のピクニック」 INSPIRED BEST ALBUM』には"ACOUSTIC:LATTE ver."と記載されている。
+  - 本作は副題がパッケージに記載されていないが、[mu-mo](https://ja.wikipedia.org/wiki/mu-mo "wikilink")など一部の配信サイトやライブDVD、「[鮮やかなもの](../Page/4_FORCE.md "wikilink")」が収録されている『BUZZER BEATER オリジナル・サウンドトラック』にはバージョン名が"Acoustic Version"と記載されている。また、「[愛の謳](../Page/UNTITLED_4_ballads.md "wikilink")」が収録されているコンピレーション・アルバム『「夜のピクニック」 INSPIRED BEST ALBUM』には"ACOUSTIC:LATTE ver."と記載されている。
   - アルバムプロモーションのために「[NECESSARY](../Page/NECESSARY.md "wikilink") (Acoustic Version)」はPVが急遽制作されたが、このアルバムの初回限定盤のDVDにもビデオクリップ集『THE VIDEO COMPILATION IV』にも収録されていない。
   - 『every little thing commonplace tour 2004～2005』のパンフレット特典CDからは「[water(s)](https://ja.wikipedia.org/wiki/commonplace "wikilink") (Acoustic Version)」と「鮮やかなもの (Acoustic Version)」が収録されているが、「[stray cat](../Page/Many_Pieces.md "wikilink") (Acoustic Version)」は収録されていない。
 
@@ -29,13 +29,13 @@
         6thアルバム『commonplace』収録曲
         アルバムに収録されたものと異なり、3拍子のリズムになっている。
         『every little thing commonplace tour 2004～2005』のパンフレット特典CDにも収録されている。
-3.  **[nostalgia](https://ja.wikipedia.org/wiki/UNTITLED_4_ballads "wikilink")**
+3.  **[nostalgia](../Page/UNTITLED_4_ballads.md "wikilink")**
       -
         （作詞：持田香織 / 作曲：[菊池一仁](../Page/菊池一仁.md "wikilink") / Basic Arrangement：棚橋"UNA"信仁 / Additional Arrangement：中村"Nam-Nam"康就）
         22ndシングル「UNTITLED 4 ballads」収録曲
 4.  **[愛のカケラ](../Page/愛のカケラ_\(Every_Little_Thingの曲\).md "wikilink")**
       -
-        （作詞：持田香織 / 作曲：[多胡邦夫](../Page/多胡邦夫.md "wikilink") / 編曲：[伊藤一朗](https://ja.wikipedia.org/wiki/伊藤一朗 "wikilink")、加藤薫）
+        （作詞：持田香織 / 作曲：[多胡邦夫](../Page/多胡邦夫.md "wikilink") / 編曲：[伊藤一朗](../Page/伊藤一朗.md "wikilink")、加藤薫）
         16thシングル
 5.  **[Time goes by](../Page/Time_goes_by.md "wikilink")**
       -
@@ -64,12 +64,12 @@
       -
         （作詞・作曲：五十嵐充 / 編曲：中村"Nam-Nam"康就）
         10thシングル。
-11. **[愛の謳](https://ja.wikipedia.org/wiki/UNTITLED_4_ballads "wikilink")**
+11. **[愛の謳](../Page/UNTITLED_4_ballads.md "wikilink")**
       -
         （作詞：持田香織 / 作曲：多胡邦夫 / 編曲：林"Massy"真史）
-        [ニベア花王](https://ja.wikipedia.org/wiki/ニベア花王 "wikilink")「アトリックス」CMソング
+        [ニベア花王](../Page/ニベア花王.md "wikilink")「アトリックス」CMソング
         22ndシングル「UNTITLED 4 ballads」収録曲。
-12. **[Over and Over](https://ja.wikipedia.org/wiki/Over_and_Over "wikilink")**
+12. **[Over and Over](../Page/Over_and_Over.md "wikilink")**
       -
         （作詞・作曲：五十嵐充 / 編曲：林"Massy"真史）
         11thシングル

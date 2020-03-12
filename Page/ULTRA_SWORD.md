@@ -1,7 +1,7 @@
 > この記事は[ULTRA SWORD](https://ja.wikipedia.org/wiki/ULTRA_SWORD)から翻訳されています。
 
 
-『**ULTRA SWORD**』（ウルトラソード）は、[林家志弦](https://ja.wikipedia.org/wiki/林家志弦 "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。本作品は[成人向け漫画](https://ja.wikipedia.org/wiki/成人向け漫画 "wikilink")であるが、成人指定は受けていない。第1話から第8話まで『[コミックメガキューブ](https://ja.wikipedia.org/wiki/コミックメガキューブ "wikilink")』（[コアマガジン](https://ja.wikipedia.org/wiki/コアマガジン "wikilink")）Vol.14からVol.30まで断続的に掲載され、その後第9話から最終話まで『[コミックメガプラス](https://ja.wikipedia.org/wiki/コミックメガプラス "wikilink")』（コアマガジン）Vol.1からVol.7まで隔月で掲載された。コアマガジンから単行本が全1巻発売されている。
+『**ULTRA SWORD**』（ウルトラソード）は、[林家志弦](../Page/林家志弦.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。本作品は[成人向け漫画](https://ja.wikipedia.org/wiki/成人向け漫画 "wikilink")であるが、成人指定は受けていない。第1話から第8話まで『[コミックメガキューブ](https://ja.wikipedia.org/wiki/コミックメガキューブ "wikilink")』（[コアマガジン](../Page/コアマガジン.md "wikilink")）Vol.14からVol.30まで断続的に掲載され、その後第9話から最終話まで『[コミックメガプラス](https://ja.wikipedia.org/wiki/コミックメガプラス "wikilink")』（コアマガジン）Vol.1からVol.7まで隔月で掲載された。コアマガジンから単行本が全1巻発売されている。
 
 「[エロ](https://ja.wikipedia.org/wiki/エロ "wikilink")」「連続物語（[ストーリー](https://ja.wikipedia.org/wiki/ストーリー "wikilink")物）」「[ギャグ](../Page/ギャグ.md "wikilink")」、の三要素を揃えている稀有な作品だが、成人指定を受けていないことから分かるように、性的描写はかなり薄めである。
 
@@ -9,7 +9,7 @@
 
 山奥に封印されていた淫魔操愚羅（いんまくりぐら）の封が破られた。「剣の巫女」と呼ばれる4人の少女に御神刀が1本ずつ与えられ、「性痕（せいこん）」を持つ「花嫁」四条瑞希（みずき）を淫魔操愚羅から守り、操愚羅を再び封印すべく力をあわせて戦い続ける。一方、淫魔操愚羅には2人の配下、左月（さげつ）・右月（うげつ）がいる。
 
-右月、左月の順に倒されていき最後に淫魔操愚羅との決戦となる。しかし物語の主題はあくまでエロと笑いであり、戦いの合間には、痴漢、教師と生徒もの、[近親相姦](https://ja.wikipedia.org/wiki/近親相姦 "wikilink")など様々な種類の濃厚なエロシーンが挿入される。作者の嗜好はあくまで[レズビアン](../Page/レズビアン.md "wikilink")なので、女性同士のセックスシーンが多いが、作者が好まないと言われる[ふたなりシチュエーションで統一されている](https://ja.wikipedia.org/wiki/半陰陽 "wikilink")。
+右月、左月の順に倒されていき最後に淫魔操愚羅との決戦となる。しかし物語の主題はあくまでエロと笑いであり、戦いの合間には、痴漢、教師と生徒もの、[近親相姦](../Page/近親相姦.md "wikilink")など様々な種類の濃厚なエロシーンが挿入される。作者の嗜好はあくまで[レズビアン](../Page/レズビアン.md "wikilink")なので、女性同士のセックスシーンが多いが、作者が好まないと言われる[ふたなりシチュエーションで統一されている](https://ja.wikipedia.org/wiki/半陰陽 "wikilink")。
 
 ## 主な登場人物
 

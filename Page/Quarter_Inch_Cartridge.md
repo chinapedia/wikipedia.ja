@@ -1,13 +1,13 @@
 > この記事は[Quarter Inch Cartridge](https://ja.wikipedia.org/wiki/Quarter_Inch_Cartridge)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Quarter-Inch_Cartridges.jpg "wikilink") **Quarter Inch Cartridge**(1/4インチ・カートリッジ、QIC)は、[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")代から現代まで使われている[コンピュータ](../Page/コンピュータ.md "wikilink")用の[磁気テープ](../Page/磁気テープ.md "wikilink")規格である。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Quarter-Inch_Cartridges.jpg "wikilink") **Quarter Inch Cartridge**(1/4インチ・カートリッジ、QIC)は、[1970年](../Page/1970年.md "wikilink")代から現代まで使われている[コンピュータ](../Page/コンピュータ.md "wikilink")用の[磁気テープ](../Page/磁気テープ.md "wikilink")規格である。
 
 ## 概要
 
 ### 3M Data Cartridge (DC)
 
-初期のQIC[テープドライブ](https://ja.wikipedia.org/wiki/テープドライブ "wikilink")は内部の2つのリールがベルトでドライブされるデータカートリッジ (DC) である。大きさは5.875x3.875インチで金属の土台をもつ。ベルトは一部露出しているプーリー (滑車) でドライブされ、リールの軸は外部に出ていない。テープにテンションを掛けることなく一定速度で送ることができる。3Mにより[1972年](../Page/1972年.md "wikilink")に開発され、その後さまざまな形式の　QIC DCが開発された。 [thumb](https://ja.wikipedia.org/wiki/ファイル:Inside_of_QIC.jpg "wikilink")
+初期のQIC[テープドライブ](../Page/テープドライブ.md "wikilink")は内部の2つのリールがベルトでドライブされるデータカートリッジ (DC) である。大きさは5.875x3.875インチで金属の土台をもつ。ベルトは一部露出しているプーリー (滑車) でドライブされ、リールの軸は外部に出ていない。テープにテンションを掛けることなく一定速度で送ることができる。3Mにより[1972年](../Page/1972年.md "wikilink")に開発され、その後さまざまな形式の　QIC DCが開発された。 [thumb](https://ja.wikipedia.org/wiki/ファイル:Inside_of_QIC.jpg "wikilink")
 
   - **QIC-11**: 4トラック、容量20MB (DC300XLカートリッジ、長さ450ft)\[1\]
   - **QIC-24**: 9トラック、容量45MBまたは60MB (DC600Aカートリッジ、長さ450ftないしは600ft)\[2\]

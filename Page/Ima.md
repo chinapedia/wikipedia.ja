@@ -1,7 +1,7 @@
 > この記事は[Ima](https://ja.wikipedia.org/wiki/Ima)から翻訳されています。
 
 
-***Ima*** は[エレクトロニカ](../Page/エレクトロニカ.md "wikilink")アーティスト[BTのデビュー](https://ja.wikipedia.org/wiki/BT_\(ミュージシャン\) "wikilink")[アルバム](../Page/アルバム.md "wikilink")。曲、「Blue Skies」はトーリ・エイモスがボーカルを担当している。アルバムのジャケットなどには漢字で**今**と書かれている。
+***Ima*** は[エレクトロニカ](../Page/エレクトロニカ.md "wikilink")アーティスト[BTのデビュー](../Page/BT_\(ミュージシャン\).md "wikilink")[アルバム](../Page/アルバム.md "wikilink")。曲、「Blue Skies」はトーリ・エイモスがボーカルを担当している。アルバムのジャケットなどには漢字で**今**と書かれている。
 
 ## トラックリスト
 

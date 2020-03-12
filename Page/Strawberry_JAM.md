@@ -1,15 +1,15 @@
 > この記事は[Strawberry JAM](https://ja.wikipedia.org/wiki/Strawberry_JAM)から翻訳されています。
 
 
-**Strawberry JAM**（ストロベリー・ジャム）は、[2000年](../Page/2000年.md "wikilink")（平成12年） - [2004年](../Page/2004年.md "wikilink")（平成16年）に活動していた、日本の[スリーピース](https://ja.wikipedia.org/wiki/スリーピース "wikilink")・[ガールズバンド](https://ja.wikipedia.org/wiki/ガールズバンド "wikilink")。[SME Records所属](https://ja.wikipedia.org/wiki/エスエムイーレコーズ "wikilink")。
+**Strawberry JAM**（ストロベリー・ジャム）は、[2000年](../Page/2000年.md "wikilink")（平成12年） - [2004年](../Page/2004年.md "wikilink")（平成16年）に活動していた、日本の[スリーピース](https://ja.wikipedia.org/wiki/スリーピース "wikilink")・[ガールズバンド](../Page/ガールズバンド.md "wikilink")。[SME Records所属](../Page/エスエムイーレコーズ.md "wikilink")。
 
 ## 概要
 
-「いちご中毒」というバンド名で結成。その後、「ストロベリージャンキー」に改名。しかし「ジャンキー」という言葉が[薬物依存症](https://ja.wikipedia.org/wiki/薬物依存症 "wikilink")をイメージさせるという指摘があったため、「Strawberry JAM」へと改名した。\[1\]
+「いちご中毒」というバンド名で結成。その後、「ストロベリージャンキー」に改名。しかし「ジャンキー」という言葉が[薬物依存症](../Page/薬物依存症.md "wikilink")をイメージさせるという指摘があったため、「Strawberry JAM」へと改名した。\[1\]
 
 [2000年](../Page/2000年.md "wikilink")（平成12年）に『[爆音\!てっぺんリーグ](https://ja.wikipedia.org/wiki/爆音!てっぺんリーグ "wikilink")』（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）で初代グランドチャンピオンとなり、同年5月にメジャーデビュー。
 
-2000年代初期の屈指のギャルバンドブームの中で「カッコいいロック」をコンセプトに活動し、当時の主流であった[ZONEや](https://ja.wikipedia.org/wiki/ZONE_\(バンド\) "wikilink")[Whiteberry](https://ja.wikipedia.org/wiki/Whiteberry "wikilink")のバンドルスタイルとは一線を画した活動を行っていた。「希望峰」が『[スパイラル －推理の絆－](https://ja.wikipedia.org/wiki/スパイラル_〜推理の絆〜 "wikilink")』のオープニングテーマに起用されスマッシュヒットを記録するも、その後はヒットに恵まれず、[2004年](../Page/2004年.md "wikilink")（平成16年）4月に活動休止（実質解散）を発表。
+2000年代初期の屈指のギャルバンドブームの中で「カッコいいロック」をコンセプトに活動し、当時の主流であった[ZONEや](../Page/ZONE_\(バンド\).md "wikilink")[Whiteberry](../Page/Whiteberry.md "wikilink")のバンドルスタイルとは一線を画した活動を行っていた。「希望峰」が『[スパイラル －推理の絆－](../Page/スパイラル_〜推理の絆〜.md "wikilink")』のオープニングテーマに起用されスマッシュヒットを記録するも、その後はヒットに恵まれず、[2004年](../Page/2004年.md "wikilink")（平成16年）4月に活動休止（実質解散）を発表。
 
 [四国](../Page/四国.md "wikilink")4県ではFMラジオ番組に出演し、4年近く続いた。
 
@@ -38,7 +38,7 @@
 <!-- end list -->
 
   -
-    [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。活動休止後[sleepy dogのメンバーに加入するも](https://ja.wikipedia.org/wiki/sleepy_dog "wikilink")、[結婚](../Page/結婚.md "wikilink")を機に脱退している。
+    [ベース](../Page/ベース_\(弦楽器\).md "wikilink")。活動休止後[sleepy dogのメンバーに加入するも](https://ja.wikipedia.org/wiki/sleepy_dog "wikilink")、[結婚](../Page/結婚.md "wikilink")を機に脱退している。
 
 ## 代表曲
 
@@ -46,8 +46,8 @@
 
 <!-- end list -->
 
-  - 『[スパイラル －推理の絆－](https://ja.wikipedia.org/wiki/スパイラル_〜推理の絆〜 "wikilink")』のオープニングに採用され、同グループでは現在唯一のシングルヒット曲となる。覚えやすいメロディーと歌詞から、[カラオケ](../Page/カラオケ.md "wikilink")にも数多く登録されている。
-  - 女子[プロレスラー](../Page/プロレスラー.md "wikilink")[栗原あゆみ](https://ja.wikipedia.org/wiki/栗原あゆみ "wikilink")の入場テーマ曲。
+  - 『[スパイラル －推理の絆－](../Page/スパイラル_〜推理の絆〜.md "wikilink")』のオープニングに採用され、同グループでは現在唯一のシングルヒット曲となる。覚えやすいメロディーと歌詞から、[カラオケ](../Page/カラオケ.md "wikilink")にも数多く登録されている。
+  - 女子[プロレスラー](../Page/プロレスラー.md "wikilink")[栗原あゆみ](../Page/栗原あゆみ.md "wikilink")の入場テーマ曲。
 
 ## ディスコグラフィー
 
@@ -68,8 +68,8 @@
 2.  Tokyo taste（2001年5月30日） ※オリコン95位
     1.  Tokyo taste \[3:49\]
           -
-            作詞・作曲：あき / 編曲：[野村義男](https://ja.wikipedia.org/wiki/野村義男 "wikilink")
-            [TBS](../Page/TBSテレビ.md "wikilink")「[ランク王国](https://ja.wikipedia.org/wiki/ランク王国 "wikilink")」オープニングテーマ
+            作詞・作曲：あき / 編曲：[野村義男](../Page/野村義男.md "wikilink")
+            [TBS](../Page/TBSテレビ.md "wikilink")「[ランク王国](../Page/ランク王国.md "wikilink")」オープニングテーマ
     2.  ジョンのバラード \[3:23\]
           -
             作詞：あき / 作曲：さち / 編曲：野村義男
@@ -140,7 +140,7 @@
 2.  『sweets 〜cutie pop collection』（2002年8月07日）
       -
         8.サバイバル・ゲーム
-3.  『[スパイラル 〜推理の絆〜](https://ja.wikipedia.org/wiki/スパイラル_〜推理の絆〜 "wikilink") TVアニメーション サウンドトラック』（2003年3月19日）
+3.  『[スパイラル 〜推理の絆〜](../Page/スパイラル_〜推理の絆〜.md "wikilink") TVアニメーション サウンドトラック』（2003年3月19日）
       -
         1.希望峰
 

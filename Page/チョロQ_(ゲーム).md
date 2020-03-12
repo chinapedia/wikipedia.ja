@@ -1,13 +1,13 @@
 > この記事は[Q \(\)](https://ja.wikipedia.org/wiki/Q_\(\))から翻訳されています。
 
 
-「**チョロQ**」（チョロキュー）は、[タカラ](../Page/タカラ_\(玩具メーカー\).md "wikilink")（現:[タカラトミー](../Page/タカラトミー.md "wikilink")）から発売されている[ぜんまい式](../Page/ぜんまいばね.md "wikilink")[ミニカー](https://ja.wikipedia.org/wiki/ミニカー_\(玩具\) "wikilink")、[チョロQ](../Page/チョロQ.md "wikilink")を題材にした[ゲームソフト](../Page/ゲームソフト.md "wikilink")のシリーズである。一般的にシリーズと認識されているのは[1996年](../Page/1996年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink")に発売されたPS版第一作以降のテレビゲーム作品であるが、ここではPC用ゲームソフトとして発売されたものも記述する。
+「**チョロQ**」（チョロキュー）は、[タカラ](../Page/タカラ_\(玩具メーカー\).md "wikilink")（現:[タカラトミー](../Page/タカラトミー.md "wikilink")）から発売されている[ぜんまい式](../Page/ぜんまいばね.md "wikilink")[ミニカー](../Page/ミニカー_\(玩具\).md "wikilink")、[チョロQ](../Page/チョロQ.md "wikilink")を題材にした[ゲームソフト](../Page/ゲームソフト.md "wikilink")のシリーズである。一般的にシリーズと認識されているのは[1996年](../Page/1996年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink")に発売されたPS版第一作以降のテレビゲーム作品であるが、ここではPC用ゲームソフトとして発売されたものも記述する。
 
 本項では便宜上、タムソフトのシリーズ作品以外のチョロQを題材にしたコンピュータゲームについても解説する。
 
 ## 特徴
 
-作品中に出てくる主要な[自動車](../Page/自動車.md "wikilink")、[船](https://ja.wikipedia.org/wiki/船 "wikilink")、[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")、[戦闘機](../Page/戦闘機.md "wikilink")などは、チョロQが題材と言うことで全て丸みを帯びた寸詰まりのデザインに[デフォルメ](https://ja.wikipedia.org/wiki/デフォルメ "wikilink")されている。また、作品によって開発に携わっているメーカーが違う。
+作品中に出てくる主要な[自動車](../Page/自動車.md "wikilink")、[船](https://ja.wikipedia.org/wiki/船 "wikilink")、[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")、[戦闘機](../Page/戦闘機.md "wikilink")などは、チョロQが題材と言うことで全て丸みを帯びた寸詰まりのデザインに[デフォルメ](../Page/デフォルメ.md "wikilink")されている。また、作品によって開発に携わっているメーカーが違う。
 
 玩具版の「チョロQ」はプルバックぜんまいで動くミニカーだが、「**ぜんまい**」「**いったん後ろに引いてから走る**」といった概念は一部を除き存在しない。最近の作品やチョロQWiiと、PS・PS2以外の機種で発売された作品は、漢字が登場しなかったり挙動がリアルで無かったりするなど、子供向けに発売したと思われる物もある（チョロQワークスでは漢字にふりがながつく）。
 
@@ -19,7 +19,7 @@
 
 ## シリーズ
 
-<small>機種略称 PS＝[PlayStation](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")、PS2＝[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、PSVita＝[PlayStation VitaN](https://ja.wikipedia.org/wiki/PlayStation_Vita "wikilink")64＝[NINTENDO64](../Page/NINTENDO64.md "wikilink")、GC＝[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")、Wii＝[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")、GB＝[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")、GBA＝[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")、SS＝[セガサターン](../Page/セガサターン.md "wikilink")、[MSX](https://ja.wikipedia.org/wiki/MSX "wikilink")、88=[PC-8801](https://ja.wikipedia.org/wiki/PC-8801 "wikilink")、Win=[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、Mac=[Mac OS](https://ja.wikipedia.org/wiki/Mac_OS "wikilink")、mob=[携帯電話](../Page/携帯電話.md "wikilink")、[ひかりTV](https://ja.wikipedia.org/wiki/ひかりTV "wikilink")ゲーム=ひかりTV</small>
+<small>機種略称 PS＝[PlayStation](../Page/PlayStation_\(ゲーム機\).md "wikilink")、PS2＝[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、PSVita＝[PlayStation VitaN](https://ja.wikipedia.org/wiki/PlayStation_Vita "wikilink")64＝[NINTENDO64](../Page/NINTENDO64.md "wikilink")、GC＝[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")、Wii＝[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")、GB＝[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")、GBA＝[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")、SS＝[セガサターン](../Page/セガサターン.md "wikilink")、[MSX](https://ja.wikipedia.org/wiki/MSX "wikilink")、88=[PC-8801](https://ja.wikipedia.org/wiki/PC-8801 "wikilink")、Win=[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、Mac=[Mac OS](https://ja.wikipedia.org/wiki/Mac_OS "wikilink")、mob=[携帯電話](../Page/携帯電話.md "wikilink")、[ひかりTV](https://ja.wikipedia.org/wiki/ひかりTV "wikilink")ゲーム=ひかりTV</small>
 
   - チョロQ（PS）
 
@@ -65,7 +65,7 @@
 
 :\* 1998年[2月25日](../Page/2月25日.md "wikilink")発売
 
-:\* 開発：[アストロビジョン](https://ja.wikipedia.org/wiki/アストロビジョン "wikilink")
+:\* 開発：[アストロビジョン](../Page/アストロビジョン.md "wikilink")
 
   -
     チョロQの戦闘機版。前作までと違い、[パイロットとして](https://ja.wikipedia.org/wiki/パイロット_\(航空\) "wikilink")[アニメ](../Page/アニメ.md "wikilink")調のキャラクター（ボイス付き）が登場するという異色作。パイロット毎にどの戦闘機かが決まっており、戦闘機はそれぞれ武器や性能などが違う。様々なステージで空賊団を撃退し悪の野望を阻止するのが目的。
@@ -188,7 +188,7 @@
 
     隠しパーツだったものも、通常のレースで入手できるようになった。
 
-    **チョロQ ハイパーカスタマブルGB**を[64GBパック](https://ja.wikipedia.org/wiki/64GBパック "wikilink")をセットした状態で始めると、スピードが変化したり、すべてのクラスで「かそくSS」や「MAX SS」などの強力なパーツをやりとりできる。
+    **チョロQ ハイパーカスタマブルGB**を[64GBパック](../Page/64GBパック.md "wikilink")をセットした状態で始めると、スピードが変化したり、すべてのクラスで「かそくSS」や「MAX SS」などの強力なパーツをやりとりできる。
 
   - パーフェクトチョロQ（GBC）
 
@@ -212,7 +212,7 @@
 :\* 作曲＆効果音担当：[佐藤天平](../Page/佐藤天平.md "wikilink")
 
   -
-    初回限定版として玩具版チョロQ「[ランサー・エボリューション](https://ja.wikipedia.org/wiki/ランサー・エボリューション "wikilink")3 ラリーアートカラーバージョン」と着せ替え人形[ジェニー](https://ja.wikipedia.org/wiki/ジェニー "wikilink")のオリジナルバージョン「レースクイーンジェニー」を同梱の『チョロQジェニーハイグレードBOX』が発売。コンバットチョロQやQボート開発を手がけてきたバーンハウスエフェクトによる初のPS2作品。ゲーム内容としてはチョロQ2から続いていたタウン要素を廃止し、[ライセンス](../Page/ライセンス.md "wikilink")や[洗車](https://ja.wikipedia.org/wiki/洗車 "wikilink")などの要素が組み込まれ、ボディに重量の要素（重量が重い程弾かれにくい）を導入し今までなかったボディの性能差が発生した。また、シリーズで唯一オープニングに歌詞が付いている。なお、[モアイ像](https://ja.wikipedia.org/wiki/モアイ像 "wikilink")やフライドチキンなどシリーズ恒例のお笑い系ボディも多数存在する（ロボットやフライドチキンはこの作品のみの登場）。
+    初回限定版として玩具版チョロQ「[ランサー・エボリューション](https://ja.wikipedia.org/wiki/ランサー・エボリューション "wikilink")3 ラリーアートカラーバージョン」と着せ替え人形[ジェニー](../Page/ジェニー.md "wikilink")のオリジナルバージョン「レースクイーンジェニー」を同梱の『チョロQジェニーハイグレードBOX』が発売。コンバットチョロQやQボート開発を手がけてきたバーンハウスエフェクトによる初のPS2作品。ゲーム内容としてはチョロQ2から続いていたタウン要素を廃止し、[ライセンス](../Page/ライセンス.md "wikilink")や[洗車](https://ja.wikipedia.org/wiki/洗車 "wikilink")などの要素が組み込まれ、ボディに重量の要素（重量が重い程弾かれにくい）を導入し今までなかったボディの性能差が発生した。また、シリーズで唯一オープニングに歌詞が付いている。なお、[モアイ像](https://ja.wikipedia.org/wiki/モアイ像 "wikilink")やフライドチキンなどシリーズ恒例のお笑い系ボディも多数存在する（ロボットやフライドチキンはこの作品のみの登場）。
 
     THE BEST タカラモノ(廉価版)で再発売されている。
 
@@ -283,11 +283,11 @@
 
     作戦、ミニゲーム、バトルアリーナをクリアすることで戦車が入手可能。
 
-    前作と変わりオリジナルタンクはほとんど廃止され、プレイヤーは実際の戦車（+オリジナル1台）しか操作ができない。しかし、前作では不可能だった[マウスや](https://ja.wikipedia.org/wiki/マウス_\(戦車\) "wikilink")[シュトルムティーガー](../Page/シュトルムティーガー.md "wikilink")が操作可能になり、ほかにも[2式内火艇カミ陸上型](https://ja.wikipedia.org/wiki/特二式内火艇 "wikilink")、[Obiekt279などの面白戦車まで](../Page/オブイェークト279.md "wikilink")108台の実在戦車が登場。砲塔も上下に可動するようになったほか、前作よりもグラフィックがリアルになり[履帯や転輪も動くようになった](../Page/無限軌道.md "wikilink")。
+    前作と変わりオリジナルタンクはほとんど廃止され、プレイヤーは実際の戦車（+オリジナル1台）しか操作ができない。しかし、前作では不可能だった[マウスや](../Page/マウス_\(戦車\).md "wikilink")[シュトルムティーガー](../Page/シュトルムティーガー.md "wikilink")が操作可能になり、ほかにも[2式内火艇カミ陸上型](../Page/特二式内火艇.md "wikilink")、[Obiekt279などの面白戦車まで](../Page/オブイェークト279.md "wikilink")108台の実在戦車が登場。砲塔も上下に可動するようになったほか、前作よりもグラフィックがリアルになり[履帯や転輪も動くようになった](../Page/無限軌道.md "wikilink")。
 
     カスタムパーツも豊富。前作で採用されていた、燃料、オーバーヒートメーター、弾数、重量規定などを廃止。弾数はリロード式になった。また重量がオーバーしても作戦には参加できるがスピード性能が落ちるようになった。
 
-    一部のパーツは戦車によっては取り付けられない物もあり、それらはT・B・Hに分かれている。Tはターレットガンで、主に[90式戦車](../Page/90式戦車.md "wikilink")や[ブラッドレーなどの砲塔回転式の戦車が装備可能](https://ja.wikipedia.org/wiki/M2ブラッドレー歩兵戦闘車 "wikilink")。Bはボディガンで、主に[駆逐戦車ヘッツァーや](../Page/軽駆逐戦車ヘッツァー.md "wikilink")[ティーガーI](https://ja.wikipedia.org/wiki/ティーガーI "wikilink")初期型といった旧型戦車が装備可能。Hはヘビータンクで、[ヤークトパンターやマウスなど自走砲が装備できる](https://ja.wikipedia.org/wiki/V号駆逐戦車 "wikilink")。パーツはいろいろな役割があり、空を飛んだり海を渡れたり、リロードが早くなったりなどがある。
+    一部のパーツは戦車によっては取り付けられない物もあり、それらはT・B・Hに分かれている。Tはターレットガンで、主に[90式戦車](../Page/90式戦車.md "wikilink")や[ブラッドレーなどの砲塔回転式の戦車が装備可能](../Page/M2ブラッドレー歩兵戦闘車.md "wikilink")。Bはボディガンで、主に[駆逐戦車ヘッツァーや](../Page/軽駆逐戦車ヘッツァー.md "wikilink")[ティーガーI](../Page/ティーガーI.md "wikilink")初期型といった旧型戦車が装備可能。Hはヘビータンクで、[ヤークトパンターやマウスなど自走砲が装備できる](https://ja.wikipedia.org/wiki/V号駆逐戦車 "wikilink")。パーツはいろいろな役割があり、空を飛んだり海を渡れたり、リロードが早くなったりなどがある。
 
     トップメニューにはタンク図鑑がありゲットしたタンクの説明が前作よりも詳しく載っている。
 
@@ -376,7 +376,7 @@
   -
     ハイグレードシリーズ4作目にて、再び初代ハイグレードと同様のBHE社による制作。「登場キャラがチョロQのRPG」と言う様なテイストの作品。ストーリーも存在し、たくさんのレースに勝ち、最後にはグランプリに出場し優勝するのが最終目的となっている。HG2の仲間参戦も復活、グランプリはワークスのキャラクターと一緒に出られる。
 
-    ボディは200種を超えており、チョロQゲーム初の三輪自動車（[ダイハツ・ミゼット](https://ja.wikipedia.org/wiki/ダイハツ・ミゼット "wikilink")、[ダイハツ・Bee](https://ja.wikipedia.org/wiki/ダイハツ・Bee "wikilink")、[富士自動車・フジキャビン](https://ja.wikipedia.org/wiki/富士自動車・フジキャビン "wikilink")　など）、六輪自動車（[ティレル・P34](https://ja.wikipedia.org/wiki/ティレル・P34 "wikilink")、三菱ふそう・ダブルルーキー　など）などが登場したほか、人生カーが久々に登場した。また、[ティーガーI](https://ja.wikipedia.org/wiki/ティーガーI "wikilink")や[新幹線E4系電車](../Page/新幹線E4系電車.md "wikilink")といったタイヤが隠れるボディもあり、オープンカーや[アウディ・R8 (レーシングカー)](../Page/アウディ・R8_\(レーシングカー\).md "wikilink")、フォーミュラカーも登場するがコックピット部分に玩具のチョロQのゼンマイが出ている。また、ゲーム中にて一定条件を満たすとプレイヤーの手でデザインを変更できるボディが入手可能。
+    ボディは200種を超えており、チョロQゲーム初の三輪自動車（[ダイハツ・ミゼット](../Page/ダイハツ・ミゼット.md "wikilink")、[ダイハツ・Bee](../Page/ダイハツ・Bee.md "wikilink")、[富士自動車・フジキャビン](https://ja.wikipedia.org/wiki/富士自動車・フジキャビン "wikilink")　など）、六輪自動車（[ティレル・P34](https://ja.wikipedia.org/wiki/ティレル・P34 "wikilink")、三菱ふそう・ダブルルーキー　など）などが登場したほか、人生カーが久々に登場した。また、[ティーガーI](../Page/ティーガーI.md "wikilink")や[新幹線E4系電車](../Page/新幹線E4系電車.md "wikilink")といったタイヤが隠れるボディもあり、オープンカーや[アウディ・R8 (レーシングカー)](../Page/アウディ・R8_\(レーシングカー\).md "wikilink")、フォーミュラカーも登場するがコックピット部分に玩具のチョロQのゼンマイが出ている。また、ゲーム中にて一定条件を満たすとプレイヤーの手でデザインを変更できるボディが入手可能。
 
     本作ではゲーム中に一定条件を満たすとプレイヤーの手でパーツが作れるようになり、特定のアイテムを組み合わせることでパーツが作れる（たとえば「サイバータイヤ」を作る場合、「ガラスせんい」と「タイヤのもと」で作れる）。
 
@@ -388,12 +388,12 @@
 
   - チョロQワークス（PS2）
 
-:\* [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[5月26日](../Page/5月26日.md "wikilink")発売
+:\* [2005年](../Page/2005年.md "wikilink")[5月26日](../Page/5月26日.md "wikilink")発売
 
 :\* サウンドディレクター：[山田靖子](https://ja.wikipedia.org/wiki/山田靖子 "wikilink")、効果音担当：安藤童太、作編曲担当：[山田靖子](https://ja.wikipedia.org/wiki/山田靖子 "wikilink")、小川敬介、鈴木康行、石井吉幸
 
   -
-    この作品のみアトラス社の販売である。今回は主にイベント重視で、建築、輸送、破壊、畜産と多様なジャンルのミニゲームを作り、またこれに伴いパーツの一種としてクレーン、パワーシャベル、レッカー、トレーラー、耕運機、消火ポンプなどの**ワークパーツ**が存在する。そして、様々な仕事をクリアした上で各町で仕事の頂点に君臨する者（マスター）を倒していくというストーリーである。[グラフィック](https://ja.wikipedia.org/wiki/グラフィック "wikilink")面ではチョロQの描写に[トゥーンシェイドを用いていて](https://ja.wikipedia.org/wiki/トゥーンレンダリング "wikilink")、今までのリアル感が一転、おもちゃっぽさや温かみを出したものになっている。また、各[自動車会社](https://ja.wikipedia.org/wiki/自動車会社 "wikilink")とコンタクトをとり、登場ボディが実車名になった。しかし、その代わりボディ全体の登場数は前作と比べて大幅に減っている上にCPUのみしか使えないボディまであり、さらにチョロQシリーズの骨子であったレースを大幅に省略している。
+    この作品のみアトラス社の販売である。今回は主にイベント重視で、建築、輸送、破壊、畜産と多様なジャンルのミニゲームを作り、またこれに伴いパーツの一種としてクレーン、パワーシャベル、レッカー、トレーラー、耕運機、消火ポンプなどの**ワークパーツ**が存在する。そして、様々な仕事をクリアした上で各町で仕事の頂点に君臨する者（マスター）を倒していくというストーリーである。[グラフィック](../Page/グラフィック.md "wikilink")面ではチョロQの描写に[トゥーンシェイドを用いていて](../Page/トゥーンレンダリング.md "wikilink")、今までのリアル感が一転、おもちゃっぽさや温かみを出したものになっている。また、各[自動車会社](https://ja.wikipedia.org/wiki/自動車会社 "wikilink")とコンタクトをとり、登場ボディが実車名になった。しかし、その代わりボディ全体の登場数は前作と比べて大幅に減っている上にCPUのみしか使えないボディまであり、さらにチョロQシリーズの骨子であったレースを大幅に省略している。
 
   - チョロQ Wii（Wii）
 
@@ -406,14 +406,14 @@
 :\* 作曲＆効果音担当：葛岡善哉
 
   -
-    初の[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")用ソフトで現時点でのゲームソフトとしては最新作。発売元は[タカラトミー](../Page/タカラトミー.md "wikilink")。今作では、[Wiiリモコン](https://ja.wikipedia.org/wiki/Wiiリモコン "wikilink")を横向きに持ち、車のハンドルに見立てて左右に傾けることでチョロQを操作する。また、Wiiリモコンを振ってエネルギーをチャージすれば猛ダッシュも可能。ボディは70種類（140バージョン）の車種が実名で登場。アヒル型や戦車といった変わり種のボディもある。ゲームモードは、レースを勝ち進んでポイントを稼ぎ、最後にボスチョロQ（計5台）と対戦する「ひとりであそぶ」モード、最大4分割で対戦が出来る「みんなであそぶ」モード、チョロQがあらかじめ用意された「とにかくあそぶ」モードなどがある。グラフィックは、チョロQHG4や前作のチョロQワークスのような[トゥーンシェイドを採用している](https://ja.wikipedia.org/wiki/トゥーンレンダリング "wikilink")。グラフィックも良くパーツも豊富だが、パーツの種類が簡素化されコースが少ない（約7ヶ所）。また、今まで続いてきた「ストーリー」「タウン要素」などが廃止された。
+    初の[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")用ソフトで現時点でのゲームソフトとしては最新作。発売元は[タカラトミー](../Page/タカラトミー.md "wikilink")。今作では、[Wiiリモコン](https://ja.wikipedia.org/wiki/Wiiリモコン "wikilink")を横向きに持ち、車のハンドルに見立てて左右に傾けることでチョロQを操作する。また、Wiiリモコンを振ってエネルギーをチャージすれば猛ダッシュも可能。ボディは70種類（140バージョン）の車種が実名で登場。アヒル型や戦車といった変わり種のボディもある。ゲームモードは、レースを勝ち進んでポイントを稼ぎ、最後にボスチョロQ（計5台）と対戦する「ひとりであそぶ」モード、最大4分割で対戦が出来る「みんなであそぶ」モード、チョロQがあらかじめ用意された「とにかくあそぶ」モードなどがある。グラフィックは、チョロQHG4や前作のチョロQワークスのような[トゥーンシェイドを採用している](../Page/トゥーンレンダリング.md "wikilink")。グラフィックも良くパーツも豊富だが、パーツの種類が簡素化されコースが少ない（約7ヶ所）。また、今まで続いてきた「ストーリー」「タウン要素」などが廃止された。
 
   - チョロQレーシング（ひかりTV）
 
 :\* [2014年](../Page/2014年.md "wikilink")[9月19日](../Page/9月19日.md "wikilink")利用開始
 
   -
-    タカラトミーエンタメディアによる[クラウドゲーム](https://ja.wikipedia.org/wiki/クラウドゲーム "wikilink")。後述のチョロQグランプリにオンライン4人対戦を追加したもの。
+    タカラトミーエンタメディアによる[クラウドゲーム](../Page/クラウドゲーム.md "wikilink")。後述のチョロQグランプリにオンライン4人対戦を追加したもの。
 
 ### 他社、別ブランドから発売されたもの
 
@@ -421,10 +421,10 @@
 
 :\* [1984年](../Page/1984年.md "wikilink")発売
 
-:\* 開発：[工画堂スタジオ](https://ja.wikipedia.org/wiki/工画堂スタジオ "wikilink")
+:\* 開発：[工画堂スタジオ](../Page/工画堂スタジオ.md "wikilink")
 
   -
-    タカラが「フェニックス」ブランドで販売した[スライディングブロックパズル](https://ja.wikipedia.org/wiki/スライディングブロックパズル "wikilink")ゲーム。[15パズル](../Page/15パズル.md "wikilink")の要領で時間内に絵柄を並べていく。
+    タカラが「フェニックス」ブランドで販売した[スライディングブロックパズル](../Page/スライディングブロックパズル.md "wikilink")ゲーム。[15パズル](../Page/15パズル.md "wikilink")の要領で時間内に絵柄を並べていく。
 
   - チョロQ（MSX）
 
@@ -510,7 +510,7 @@
 
 『ハイパーカスタマブルGB』は[ファミ通](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")クロスレビューでは6、6、6、6の24点\[2\]。レビュアーはストーリーが興味を引き、カスタマイズが楽しくゴルフゲームで打つときのような感覚はチョロQっぽさを再現していて楽だとしたが、システムはよくあるものでグラフィックは旧式、継続して試合があるときにセーブするにはキャンセルする必要がある、負けると賞品がないのは妙に違和感があるとした\[3\]。
 
-『64』は[GameRankings](https://ja.wikipedia.org/wiki/GameRankings "wikilink")では「混在」と判定された\[4\]。[IGN](https://ja.wikipedia.org/wiki/IGN "wikilink")はサウンドとグラフィックを批判\[5\]。IGNと[GameSpot](https://ja.wikipedia.org/wiki/GameSpot "wikilink")は任天堂の[マリオカートや](../Page/マリオカートシリーズ.md "wikilink")[ディディーコングレーシング](https://ja.wikipedia.org/wiki/ディディーコングレーシング "wikilink")といったレースゲームには及ばないとした\[6\]。[Nintendo Powerはメニューに難があるとした](https://ja.wikipedia.org/wiki/:en:Nintendo_Power "wikilink")\[7\]。
+『64』は[GameRankings](https://ja.wikipedia.org/wiki/GameRankings "wikilink")では「混在」と判定された\[4\]。[IGN](https://ja.wikipedia.org/wiki/IGN "wikilink")はサウンドとグラフィックを批判\[5\]。IGNと[GameSpot](https://ja.wikipedia.org/wiki/GameSpot "wikilink")は任天堂の[マリオカートや](../Page/マリオカートシリーズ.md "wikilink")[ディディーコングレーシング](../Page/ディディーコングレーシング.md "wikilink")といったレースゲームには及ばないとした\[6\]。[Nintendo Powerはメニューに難があるとした](https://ja.wikipedia.org/wiki/:en:Nintendo_Power "wikilink")\[7\]。
 
 『HG2』は[Metacritic](https://ja.wikipedia.org/wiki/Metacritic "wikilink")では「良好」と判定された\[8\]。世界を掘り下げ、深みがあると賞賛、サウンドが批判された\[9\]。
 

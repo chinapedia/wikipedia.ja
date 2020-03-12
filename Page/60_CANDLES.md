@@ -5,7 +5,7 @@
 
 ## 解説
 
-日本国内では[レコード会社](https://ja.wikipedia.org/wiki/レコード会社 "wikilink")間の関係等の影響で、トリビュート・アルバムが制作されることはあまりなかった 。しかし、プロデューサーである[木崎徹](https://ja.wikipedia.org/wiki/木崎徹 "wikilink")の働きかけにより、レコード会社の垣根を越えたアルバムの制作が実現された。
+日本国内では[レコード会社](../Page/レコード会社.md "wikilink")間の関係等の影響で、トリビュート・アルバムが制作されることはあまりなかった 。しかし、プロデューサーである[木崎徹](https://ja.wikipedia.org/wiki/木崎徹 "wikilink")の働きかけにより、レコード会社の垣根を越えたアルバムの制作が実現された。
 
 ## 収録曲
 
@@ -13,7 +13,7 @@
 
 1.  [君といつまでも](https://ja.wikipedia.org/wiki/君といつまでも "wikilink") / [カールスモーキー石井](https://ja.wikipedia.org/wiki/石井竜也 "wikilink")
       -
-        （[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink"): [岩谷時子](../Page/岩谷時子.md "wikilink") / [作曲](../Page/作曲.md "wikilink"): [弾厚作](https://ja.wikipedia.org/wiki/加山雄三 "wikilink")）
+        （[作詞](../Page/作詞.md "wikilink"): [岩谷時子](../Page/岩谷時子.md "wikilink") / [作曲](../Page/作曲.md "wikilink"): [弾厚作](https://ja.wikipedia.org/wiki/加山雄三 "wikilink")）
 2.  夜空の星 / [THE ALFEE](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")
       -
         （作詞: 岩谷時子 / 作曲: 弾厚作）
@@ -50,7 +50,7 @@
 2.  二人だけの海 / [木根尚登](https://ja.wikipedia.org/wiki/木根尚登 "wikilink")
       -
         （作詞: 岩谷時子 / 作曲: 弾厚作）
-3.  白い砂の少女 / [バブルガム・ブラザーズ](https://ja.wikipedia.org/wiki/バブルガム・ブラザーズ "wikilink")
+3.  白い砂の少女 / [バブルガム・ブラザーズ](../Page/バブルガム・ブラザーズ.md "wikilink")
       -
         （作詞: 岩谷時子 / 作曲: 弾厚作）
 4.  幻のアマリリア / [南こうせつ](https://ja.wikipedia.org/wiki/南こうせつ "wikilink")
@@ -59,7 +59,7 @@
 5.  ある日渚に / [玉置浩二](../Page/玉置浩二.md "wikilink")
       -
         （作詞・作曲: 弾厚作）
-6.  ロンリー・ナイト・カミング / [杏里](https://ja.wikipedia.org/wiki/杏里 "wikilink")
+6.  ロンリー・ナイト・カミング / [杏里](../Page/杏里.md "wikilink")
       -
         （作詞: 岩谷時子 / 作曲: 弾厚作）
 7.  海、山、恋だ若大将\!\! \[美しいヴィーナス〜小さな恋人〜君の瞳の蒼空〜ブライト・ホーン\] / [竹中直人](../Page/竹中直人.md "wikilink") with [東京スカパラダイスオーケストラ](../Page/東京スカパラダイスオーケストラ.md "wikilink")
@@ -68,7 +68,7 @@
 8.  湘南ひき潮 / [森山良子](../Page/森山良子.md "wikilink")
       -
         （作詞: [松本隆](../Page/松本隆.md "wikilink") / 作曲: 弾 厚作）
-9.  [海 その愛](https://ja.wikipedia.org/wiki/海_その愛 "wikilink") / [徳永英明](https://ja.wikipedia.org/wiki/徳永英明 "wikilink")
+9.  [海 その愛](https://ja.wikipedia.org/wiki/海_その愛 "wikilink") / [徳永英明](../Page/徳永英明.md "wikilink")
       -
         （作詞: 岩谷時子 / 作曲: 弾厚作）
 10. 時を超えて / [TOSHI](https://ja.wikipedia.org/wiki/TOSHI "wikilink")

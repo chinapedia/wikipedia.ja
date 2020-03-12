@@ -1,13 +1,13 @@
 > この記事は[SCA-](https://ja.wikipedia.org/wiki/SCA-)から翻訳されています。
 
 
-**SCA-自**（**すかぢ**、男性、12月20日）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ゲームクリエイター](https://ja.wikipedia.org/wiki/ゲームクリエイター "wikilink")、[シナリオライター](https://ja.wikipedia.org/wiki/ゲームシナリオライター "wikilink")、[原画家](https://ja.wikipedia.org/wiki/原画家 "wikilink")。ゲーム制作会社ムーンフェイズ株式会社代表取締役を務めている。[ケロQ](../Page/ケロQ.md "wikilink")、[枕の総統括でもある](https://ja.wikipedia.org/wiki/枕_\(ゲームブランド\) "wikilink")。[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[小平市](../Page/小平市.md "wikilink")出身、[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")育ち。
+**SCA-自**（**すかぢ**、男性、12月20日）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ゲームクリエイター](../Page/ゲームクリエイター.md "wikilink")、[シナリオライター](https://ja.wikipedia.org/wiki/ゲームシナリオライター "wikilink")、[原画家](https://ja.wikipedia.org/wiki/原画家 "wikilink")。ゲーム制作会社ムーンフェイズ株式会社代表取締役を務めている。[ケロQ](../Page/ケロQ.md "wikilink")、[枕の総統括でもある](../Page/枕_\(ゲームブランド\).md "wikilink")。[東京都](../Page/東京都.md "wikilink")[小平市](../Page/小平市.md "wikilink")出身、[千葉県](../Page/千葉県.md "wikilink")育ち。
 
 ## 経歴
 
-漫画好きの少年時代を送り、中学生の時[円英智](https://ja.wikipedia.org/wiki/円英智 "wikilink")の漫画『[ロマンシア](https://ja.wikipedia.org/wiki/ロマンシア "wikilink")』に影響を受ける。高校時代は[美術部](https://ja.wikipedia.org/wiki/美術部 "wikilink")に所属したが、当時の顧問は[RCサクセション](https://ja.wikipedia.org/wiki/RCサクセション "wikilink")『[ぼくの好きな先生](https://ja.wikipedia.org/wiki/ぼくの好きな先生 "wikilink")』のモデルとなった美術教師だった\[1\]。
+漫画好きの少年時代を送り、中学生の時[円英智](https://ja.wikipedia.org/wiki/円英智 "wikilink")の漫画『[ロマンシア](../Page/ロマンシア.md "wikilink")』に影響を受ける。高校時代は[美術部](https://ja.wikipedia.org/wiki/美術部 "wikilink")に所属したが、当時の顧問は[RCサクセション](../Page/RCサクセション.md "wikilink")『[ぼくの好きな先生](https://ja.wikipedia.org/wiki/ぼくの好きな先生 "wikilink")』のモデルとなった美術教師だった\[1\]。
 
-高校生の時『[不思議の海のナディア](https://ja.wikipedia.org/wiki/不思議の海のナディア "wikilink")』などのアダルト漫画[同人誌](../Page/同人誌.md "wikilink")を執筆する同人作家として活動し、大学卒業後就職も出来ずにいた所、にのみー隊長ら同人仲間に誘われて有限会社ケロキュウ発足メンバーとなり、『終ノ空』の企画を立ち上げシナリオ・原画を担当しプロデビューを果たす。この後ケロキュウの代表取締役となり、[ケロQ](../Page/ケロQ.md "wikilink")、[枕のほぼ全作品の企画](https://ja.wikipedia.org/wiki/枕_\(ゲームブランド\) "wikilink")・プロデュース・シナリオ・原画を手掛け現在に至る。
+高校生の時『[不思議の海のナディア](https://ja.wikipedia.org/wiki/不思議の海のナディア "wikilink")』などのアダルト漫画[同人誌](../Page/同人誌.md "wikilink")を執筆する同人作家として活動し、大学卒業後就職も出来ずにいた所、にのみー隊長ら同人仲間に誘われて有限会社ケロキュウ発足メンバーとなり、『終ノ空』の企画を立ち上げシナリオ・原画を担当しプロデビューを果たす。この後ケロキュウの代表取締役となり、[ケロQ](../Page/ケロQ.md "wikilink")、[枕のほぼ全作品の企画](../Page/枕_\(ゲームブランド\).md "wikilink")・プロデュース・シナリオ・原画を手掛け現在に至る。
 
 ## 人物
 
@@ -24,13 +24,13 @@
   - [1999年](../Page/1999年.md "wikilink")[8月27日](../Page/8月27日.md "wikilink") - [終ノ空](../Page/終ノ空.md "wikilink")（キャラクターデザイン、原画、シナリオ）
   - [2000年](../Page/2000年.md "wikilink")[11月30日](../Page/11月30日.md "wikilink") - [二重影](../Page/二重影.md "wikilink")（キャラクターデザイン、原画、シナリオ）
   - [2001年](../Page/2001年.md "wikilink")11月30日 - 二重箱
-  - [2003年](../Page/2003年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink") - [モエかん](https://ja.wikipedia.org/wiki/モエかん "wikilink")（キャラクターデザイン、原画、シナリオ）
+  - [2003年](../Page/2003年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink") - [モエかん](../Page/モエかん.md "wikilink")（キャラクターデザイン、原画、シナリオ）
   - [2004年](../Page/2004年.md "wikilink")[6月11日](../Page/6月11日.md "wikilink") - モエカす
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink") - [素晴らしき日々 〜不連続存在〜](https://ja.wikipedia.org/wiki/素晴らしき日々_〜不連続存在〜 "wikilink")
 
 ### 枕
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[6月23日](../Page/6月23日.md "wikilink") - [H<sub>2</sub>O -FOOTPRINTS IN THE SAND-](https://ja.wikipedia.org/wiki/H2O_-FOOTPRINTS_IN_THE_SAND- "wikilink")（キャラクターデザイン、原画、シナリオ）
+  - [2006年](../Page/2006年.md "wikilink")[6月23日](../Page/6月23日.md "wikilink") - [H<sub>2</sub>O -FOOTPRINTS IN THE SAND-](../Page/H2O_-FOOTPRINTS_IN_THE_SAND-.md "wikilink")（キャラクターデザイン、原画、シナリオ）
   - [2007年](../Page/2007年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink") - [√after and another](https://ja.wikipedia.org/wiki/√after_and_another "wikilink")（キャラクターデザイン、原画、シナリオ）
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月26日](../Page/9月26日.md "wikilink") - [しゅぷれ〜むキャンディ 〜王道には王道たる理由があるんです\!〜](https://ja.wikipedia.org/wiki/しゅぷれ〜むキャンディ_〜王道には王道たる理由があるんです!〜 "wikilink")
   - [2015年](../Page/2015年.md "wikilink")[10月23日](../Page/10月23日.md "wikilink") - [サクラノ詩 -櫻の森の上を舞う-](https://ja.wikipedia.org/wiki/サクラノ詩_-櫻の森の上を舞う- "wikilink")（総指揮、シナリオ）

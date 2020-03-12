@@ -1,7 +1,7 @@
 > この記事は[ADO](https://ja.wikipedia.org/wiki/ADO)から翻訳されています。
 
 
-**ADOデン・ハーグ**（**Alles Door Oefening Den Haag** ()）は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")南西部、[南ホラント州](https://ja.wikipedia.org/wiki/南ホラント州 "wikilink")の州都[デン・ハーグ](https://ja.wikipedia.org/wiki/デン・ハーグ "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。2019-20シーズンは[エールディヴィジ](../Page/エールディヴィジ.md "wikilink")に所属。読みは「アド・デナーフ」。日本のメディアでは**デン・ハーグ**と略されることがあるが、オランダでは一般的に**ADO**と呼ばれ、FCデン・ハーグ時代からの地元サポーターは現在もデン・ハーグの名前で呼ぶことがある。
+**ADOデン・ハーグ**（**Alles Door Oefening Den Haag** ()）は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")南西部、[南ホラント州](../Page/南ホラント州.md "wikilink")の州都[デン・ハーグ](../Page/デン・ハーグ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。2019-20シーズンは[エールディヴィジ](../Page/エールディヴィジ.md "wikilink")に所属。読みは「アド・デナーフ」。日本のメディアでは**デン・ハーグ**と略されることがあるが、オランダでは一般的に**ADO**と呼ばれ、FCデン・ハーグ時代からの地元サポーターは現在もデン・ハーグの名前で呼ぶことがある。
 
 ## 沿革
 
@@ -156,7 +156,7 @@ PlotData=
 </tr>
 <tr class="even">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1.FCケルン" title="wikilink">ケルン</a></p></td>
+<td><p><a href="../Page/1.FCケルン.md" title="wikilink">ケルン</a></p></td>
 <td><p>0–1</p></td>
 <td><p>0–3</p></td>
 <td><p>'''0–4</p></td>
@@ -176,7 +176,7 @@ PlotData=
 </tr>
 <tr class="even">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RCランス" title="wikilink">ランス</a></p></td>
+<td><p><a href="../Page/RCランス.md" title="wikilink">ランス</a></p></td>
 <td><p>3-2</p></td>
 <td><p>3-1</p></td>
 <td><p>'''6-3</p></td>
@@ -229,7 +229,7 @@ PlotData=
 
 </div>
 
-([第2主将](https://ja.wikipedia.org/wiki/主将 "wikilink"))    ([主将](https://ja.wikipedia.org/wiki/キャプテン_\(サッカー\) "wikilink"))
+([第2主将](../Page/主将.md "wikilink"))    ([主将](https://ja.wikipedia.org/wiki/キャプテン_\(サッカー\) "wikilink"))
 
 ### レンタル移籍
 
@@ -261,7 +261,7 @@ PlotData=
 
   - [ヘンク・フレーザー](https://ja.wikipedia.org/wiki/ヘンク・フレーザー "wikilink") 2014-2016
 
-  - [ゼリコ・ペトロビッチ](https://ja.wikipedia.org/wiki/ゼリコ・ペトロビッチ "wikilink") 2016-2017
+  - [ゼリコ・ペトロビッチ](../Page/ゼリコ・ペトロビッチ.md "wikilink") 2016-2017
 
   - [アルフォンス・フルネンダデイク](https://ja.wikipedia.org/wiki/アルフォンス・フルネンダデイク "wikilink") 2017-2019
 
@@ -271,7 +271,7 @@ PlotData=
 
 ### GK
 
-  - [ハーフナー・ディド](https://ja.wikipedia.org/wiki/ハーフナー・ディド "wikilink") 1979-1985
+  - [ハーフナー・ディド](../Page/ハーフナー・ディド.md "wikilink") 1979-1985
 
   - [セルヒオ・サンチェス・サンチェス](https://ja.wikipedia.org/wiki/セルヒオ・サンチェス・サンチェス "wikilink") 2006-2007
 
@@ -287,13 +287,13 @@ PlotData=
 
 ### MF
 
-  - [マルティン・ヨル](https://ja.wikipedia.org/wiki/マルティン・ヨル "wikilink") 1973-1977
+  - [マルティン・ヨル](../Page/マルティン・ヨル.md "wikilink") 1973-1977
 
-  - [ディック・アドフォカート](https://ja.wikipedia.org/wiki/ディック・アドフォカート "wikilink") 1979-1980
+  - [ディック・アドフォカート](../Page/ディック・アドフォカート.md "wikilink") 1979-1980
 
   - [タリック・ウリダ](../Page/タリック・ウリダ.md "wikilink") 2004
 
-  - [戸田和幸](https://ja.wikipedia.org/wiki/戸田和幸 "wikilink") 2004
+  - [戸田和幸](../Page/戸田和幸.md "wikilink") 2004
 
   - [カイル・エベシリオ](https://ja.wikipedia.org/wiki/カイル・エベシリオ "wikilink") 2016-
 
@@ -301,13 +301,13 @@ PlotData=
 
   - [ロメオ・カステレン](../Page/ロメオ・カステレン.md "wikilink") 2000-2004
 
-  - [レジリオ・シモンズ](https://ja.wikipedia.org/wiki/レジリオ・シモンズ "wikilink") 2004
+  - [レジリオ・シモンズ](../Page/レジリオ・シモンズ.md "wikilink") 2004
 
   - [エドソン・シルバ](https://ja.wikipedia.org/wiki/エドソン・ローランド・シルヴァ・ソウザ "wikilink") 2005
 
   - [ヨーナス・コルッカ](../Page/ヨーナス・コルッカ.md "wikilink") 2005-2006
 
-  - [ハーフナー・マイク](https://ja.wikipedia.org/wiki/ハーフナー・マイク "wikilink") 2015-2017
+  - [ハーフナー・マイク](../Page/ハーフナー・マイク.md "wikilink") 2015-2017
 
 ## 脚注
 

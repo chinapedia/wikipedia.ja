@@ -1,17 +1,17 @@
 > この記事は[BSC](https://ja.wikipedia.org/wiki/BSC)から翻訳されています。
 
 
-**ベルナー・シュポルト・クラブ・ヤングボーイズ** (**Berner Sport Club Young Boys**) は、[スイス](../Page/スイス.md "wikilink")の首都[ベルン](../Page/ベルン.md "wikilink")に本拠を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。2019-20シーズンは[スーパーリーグ](https://ja.wikipedia.org/wiki/スーパーリーグ_\(スイス\) "wikilink") (1部相当) に所属。
+**ベルナー・シュポルト・クラブ・ヤングボーイズ** (**Berner Sport Club Young Boys**) は、[スイス](../Page/スイス.md "wikilink")の首都[ベルン](../Page/ベルン.md "wikilink")に本拠を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。2019-20シーズンは[スーパーリーグ](../Page/スーパーリーグ_\(スイス\).md "wikilink") (1部相当) に所属。
 
 ## 歴史
 
-[1898年](../Page/1898年.md "wikilink")に創設された。当時[バーゼル](../Page/バーゼル.md "wikilink")にあったオールドボーイズ・バーゼルから着想を得て命名された。1909年、1910年、1911年と国内優勝を成し遂げ、スイス・サッカー史において初の三連覇を達成した。1950年代にもリーグ戦四連覇を果たすなど大成功を収めた。しかし、1986年のリーグ優勝、1987年のカップ戦優勝以来、かつてのような輝かしい戦果を収めるには至っていない。1997年には2部に降格したが、[2000年](../Page/2000年.md "wikilink")に1部に復帰した。 2017-18シーズンは1985-86シーズン年以来の優勝を果たし、[FCバーゼル](https://ja.wikipedia.org/wiki/FCバーゼル "wikilink")の9連覇を阻止した。
+[1898年](../Page/1898年.md "wikilink")に創設された。当時[バーゼル](../Page/バーゼル.md "wikilink")にあったオールドボーイズ・バーゼルから着想を得て命名された。1909年、1910年、1911年と国内優勝を成し遂げ、スイス・サッカー史において初の三連覇を達成した。1950年代にもリーグ戦四連覇を果たすなど大成功を収めた。しかし、1986年のリーグ優勝、1987年のカップ戦優勝以来、かつてのような輝かしい戦果を収めるには至っていない。1997年には2部に降格したが、[2000年](../Page/2000年.md "wikilink")に1部に復帰した。 2017-18シーズンは1985-86シーズン年以来の優勝を果たし、[FCバーゼル](../Page/FCバーゼル.md "wikilink")の9連覇を阻止した。
 
 ## タイトル
 
 ### 国内タイトル
 
-  - **[スーパーリーグ](https://ja.wikipedia.org/wiki/スーパーリーグ_\(スイス\) "wikilink"):13回**
+  - **[スーパーリーグ](../Page/スーパーリーグ_\(スイス\).md "wikilink"):13回**
       - 1902-03, 1908-09, 1909-10, 1910-11, 1919-20, 1928-29, 1956-57, 1957-58, 1958-59, 1959-60, 1985-86, 2017-18, 2018-19
 
 <!-- end list -->
@@ -26,26 +26,26 @@
 
 ## 過去の成績
 
-| シーズン    | ディビジョン                                                                  | [スイス・カップ](../Page/スイス・カップ.md "wikilink") |
-| ------- | ----------------------------------------------------------------------- | ---------------------------------------- |
-| リーグ     | 試                                                                       | 勝                                        |
-| 2003-04 | [スイス・スーパーリーグ](https://ja.wikipedia.org/wiki/スーパーリーグ_\(スイス\) "wikilink") | 36                                       |
-| 2004-05 | スイス・スーパーリーグ                                                             | 34                                       |
-| 2005-06 | スイス・スーパーリーグ                                                             | 36                                       |
-| 2006-07 | スイス・スーパーリーグ                                                             | 36                                       |
-| 2007-08 | スイス・スーパーリーグ                                                             | 36                                       |
-| 2008-09 | スイス・スーパーリーグ                                                             | 36                                       |
-| 2009-10 | スイス・スーパーリーグ                                                             | 36                                       |
-| 2010-11 | スイス・スーパーリーグ                                                             | 36                                       |
-| 2011-12 | スイス・スーパーリーグ                                                             | 34                                       |
-| 2012-13 | スイス・スーパーリーグ                                                             | 36                                       |
-| 2013-14 | スイス・スーパーリーグ                                                             | 36                                       |
-| 2014-15 | スイス・スーパーリーグ                                                             | 36                                       |
-| 2015-16 | スイス・スーパーリーグ                                                             | 36                                       |
-| 2016-17 | スイス・スーパーリーグ                                                             | 36                                       |
-| 2017-18 | スイス・スーパーリーグ                                                             | 36                                       |
-| 2018-19 | スイス・スーパーリーグ                                                             | 36                                       |
-| 2019-20 | スイス・スーパーリーグ                                                             | 36                                       |
+| シーズン    | ディビジョン                                               | [スイス・カップ](../Page/スイス・カップ.md "wikilink") |
+| ------- | ---------------------------------------------------- | ---------------------------------------- |
+| リーグ     | 試                                                    | 勝                                        |
+| 2003-04 | [スイス・スーパーリーグ](../Page/スーパーリーグ_\(スイス\).md "wikilink") | 36                                       |
+| 2004-05 | スイス・スーパーリーグ                                          | 34                                       |
+| 2005-06 | スイス・スーパーリーグ                                          | 36                                       |
+| 2006-07 | スイス・スーパーリーグ                                          | 36                                       |
+| 2007-08 | スイス・スーパーリーグ                                          | 36                                       |
+| 2008-09 | スイス・スーパーリーグ                                          | 36                                       |
+| 2009-10 | スイス・スーパーリーグ                                          | 36                                       |
+| 2010-11 | スイス・スーパーリーグ                                          | 36                                       |
+| 2011-12 | スイス・スーパーリーグ                                          | 34                                       |
+| 2012-13 | スイス・スーパーリーグ                                          | 36                                       |
+| 2013-14 | スイス・スーパーリーグ                                          | 36                                       |
+| 2014-15 | スイス・スーパーリーグ                                          | 36                                       |
+| 2015-16 | スイス・スーパーリーグ                                          | 36                                       |
+| 2016-17 | スイス・スーパーリーグ                                          | 36                                       |
+| 2017-18 | スイス・スーパーリーグ                                          | 36                                       |
+| 2018-19 | スイス・スーパーリーグ                                          | 36                                       |
+| 2019-20 | スイス・スーパーリーグ                                          | 36                                       |
 
 ## 欧州の成績
 
@@ -88,7 +88,7 @@
 </tr>
 <tr class="odd">
 <td><p>準々決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCエルツゲビルゲ・アウエ" title="wikilink">エルツゲビルゲ・アウエ</a></p></td>
+<td><p><a href="../Page/FCエルツゲビルゲ・アウエ.md" title="wikilink">エルツゲビルゲ・アウエ</a></p></td>
 <td><p>2-2</p></td>
 <td><p>0-0</p></td>
 <td><p>2-1</p></td>
@@ -99,7 +99,7 @@
 </tr>
 <tr class="even">
 <td><p>準決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スタッド・ランス" title="wikilink">ランス</a></p></td>
+<td><p><a href="../Page/スタッド・ランス.md" title="wikilink">ランス</a></p></td>
 <td><p>1-0</p></td>
 <td><p>0-3</p></td>
 <td><p>rowspan="63" style="background-color:#CFF" align="center" </p></td>
@@ -112,7 +112,7 @@
 <td><p>1959-60</p></td>
 <td><p><a href="../Page/UEFAチャンピオンズカップ_1959-60.md" title="wikilink">UEFAチャンピオンズカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アイントラハト・フランクフルト" title="wikilink">フランクフルト</a></p></td>
+<td><p><a href="../Page/アイントラハト・フランクフルト.md" title="wikilink">フランクフルト</a></p></td>
 <td><p>1-4</p></td>
 <td><p>1-1</p></td>
 <td><p>'''2-5</p></td>
@@ -132,7 +132,7 @@
 </tr>
 <tr class="odd">
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ハンブルガーSV" title="wikilink">ハンブルガー</a></p></td>
+<td><p><a href="../Page/ハンブルガーSV.md" title="wikilink">ハンブルガー</a></p></td>
 <td><p>0-5</p></td>
 <td><p>3-3</p></td>
 <td><p>'''3-8</p></td>
@@ -145,7 +145,7 @@
 <td><p>1975-76</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1975-76" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ハンブルガーSV" title="wikilink">ハンブルガー</a></p></td>
+<td><p><a href="../Page/ハンブルガーSV.md" title="wikilink">ハンブルガー</a></p></td>
 <td><p>0-0</p></td>
 <td><p>2-4</p></td>
 <td><p>'''2-4</p></td>
@@ -156,7 +156,7 @@
 <td><p>1977-78</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップウィナーズカップ_1977-78" title="wikilink">UEFAカップウィナーズカップ</a></p></td>
 <td><p>予備予選</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レンジャーズFC" title="wikilink">レンジャーズ</a></p></td>
+<td><p><a href="../Page/レンジャーズFC.md" title="wikilink">レンジャーズ</a></p></td>
 <td><p>0-1</p></td>
 <td><p>2-2</p></td>
 <td><p>'''2-3</p></td>
@@ -167,7 +167,7 @@
 <td><p>1979-80</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップウィナーズカップ_1979-80" title="wikilink">UEFAカップウィナーズカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCステアウア・ブカレスト" title="wikilink">ステアウア・ブカレスト</a></p></td>
+<td><p><a href="../Page/FCステアウア・ブカレスト.md" title="wikilink">ステアウア・ブカレスト</a></p></td>
 <td><p>2-2</p></td>
 <td><p>0-6</p></td>
 <td><p>'''2-8</p></td>
@@ -198,10 +198,10 @@
 </tr>
 <tr class="odd">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ADOデン・ハーグ" title="wikilink">ADOデン・ハーグ</a></p></td>
+<td><p><a href="../Page/ADOデン・ハーグ.md" title="wikilink">ADOデン・ハーグ</a></p></td>
 <td><p>1-2</p></td>
 <td><p>1-0</p></td>
-<td><p>'''2-2 (<a href="https://ja.wikipedia.org/wiki/アウェーゴール" title="wikilink">a</a>)</p></td>
+<td><p>'''2-2 (<a href="../Page/アウェーゴール.md" title="wikilink">a</a>)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -209,7 +209,7 @@
 </tr>
 <tr class="even">
 <td><p>準々決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アヤックス・アムステルダム" title="wikilink">アヤックス</a></p></td>
+<td><p><a href="../Page/アヤックス・アムステルダム.md" title="wikilink">アヤックス</a></p></td>
 <td><p>0-1</p></td>
 <td><p>0-1</p></td>
 <td><p>'''0-2</p></td>
@@ -222,7 +222,7 @@
 <td><p>1993-94</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1993-94" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/セルティックFC" title="wikilink">セルティック</a></p></td>
+<td><p><a href="../Page/セルティックFC.md" title="wikilink">セルティック</a></p></td>
 <td><p>0-0</p></td>
 <td><p>0-1</p></td>
 <td><p>'''0-1</p></td>
@@ -242,9 +242,9 @@
 </tr>
 <tr class="odd">
 <td><p>2004-05</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2004-05" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
+<td><p><a href="../Page/UEFAチャンピオンズリーグ_2004-05.md" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レッドスター・ベオグラード" title="wikilink">ツルヴェナ・ズヴェズダ</a></p></td>
+<td><p><a href="../Page/レッドスター・ベオグラード.md" title="wikilink">ツルヴェナ・ズヴェズダ</a></p></td>
 <td><p>2-2</p></td>
 <td><p>0-3</p></td>
 <td><p>'''2-5</p></td>
@@ -264,7 +264,7 @@
 </tr>
 <tr class="odd">
 <td><p>3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オリンピック・マルセイユ" title="wikilink">マルセイユ</a></p></td>
+<td><p><a href="../Page/オリンピック・マルセイユ.md" title="wikilink">マルセイユ</a></p></td>
 <td><p>2-3</p></td>
 <td><p>1-2</p></td>
 <td><p>'''3-5</p></td>
@@ -286,7 +286,7 @@
 </tr>
 <tr class="odd">
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オリンピック・マルセイユ" title="wikilink">マルセイユ</a></p></td>
+<td><p><a href="../Page/オリンピック・マルセイユ.md" title="wikilink">マルセイユ</a></p></td>
 <td><p>3-3</p></td>
 <td><p>0-0</p></td>
 <td><p>'''3-3 (a)</p></td>
@@ -308,7 +308,7 @@
 </tr>
 <tr class="odd">
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RCランス" title="wikilink">ランス</a></p></td>
+<td><p><a href="../Page/RCランス.md" title="wikilink">ランス</a></p></td>
 <td><p>1-1</p></td>
 <td><p>1-5</p></td>
 <td><p>'''2-6</p></td>
@@ -330,7 +330,7 @@
 </tr>
 <tr class="odd">
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クラブ・ブルッヘ" title="wikilink">クラブ・ブルッヘ</a></p></td>
+<td><p><a href="../Page/クラブ・ブルッヘ.md" title="wikilink">クラブ・ブルッヘ</a></p></td>
 <td><p>2-2</p></td>
 <td><p>0-2</p></td>
 <td><p>'''2-4</p></td>
@@ -343,7 +343,7 @@
 <td><p>2009-10</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2009-10" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アスレティック・ビルバオ" title="wikilink">アスレティック・ビルバオ</a></p></td>
+<td><p><a href="../Page/アスレティック・ビルバオ.md" title="wikilink">アスレティック・ビルバオ</a></p></td>
 <td><p>0–1</p></td>
 <td><p>2–1</p></td>
 <td><p>'''2-2 (a)</p></td>
@@ -354,7 +354,7 @@
 <td><p>2010-11</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2010-11" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フェネルバフチェSK" title="wikilink">フェネルバフチェ</a></p></td>
+<td><p><a href="../Page/フェネルバフチェSK.md" title="wikilink">フェネルバフチェ</a></p></td>
 <td><p>2–2</p></td>
 <td><p>1–0</p></td>
 <td><p>'''3-2</p></td>
@@ -363,7 +363,7 @@
 </tr>
 <tr class="even">
 <td><p>プレーオフ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トッテナム・ホットスパーFC" title="wikilink">トッテナム・ホットスパー</a></p></td>
+<td><p><a href="../Page/トッテナム・ホットスパーFC.md" title="wikilink">トッテナム・ホットスパー</a></p></td>
 <td><p>3–2</p></td>
 <td><p>0–4</p></td>
 <td><p>'''3-6</p></td>
@@ -384,7 +384,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ヘタフェCF" title="wikilink">ヘタフェ</a></p></td>
+<td><p><a href="../Page/ヘタフェCF.md" title="wikilink">ヘタフェ</a></p></td>
 <td><p>2–0</p></td>
 <td><p>0–1</p></td>
 <td></td>
@@ -429,7 +429,7 @@
 </tr>
 <tr class="even">
 <td><p>プレーオフ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SCブラガ" title="wikilink">ブラガ</a></p></td>
+<td><p><a href="../Page/SCブラガ.md" title="wikilink">ブラガ</a></p></td>
 <td><p>2–2</p></td>
 <td><p>0–0</p></td>
 <td><p>'''2-2 (a)</p></td>
@@ -495,7 +495,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ウディネーゼ・カルチョ" title="wikilink">ウディネーゼ</a></p></td>
+<td><p><a href="../Page/ウディネーゼ・カルチョ.md" title="wikilink">ウディネーゼ</a></p></td>
 <td><p>3–1</p></td>
 <td><p>3–2</p></td>
 <td></td>
@@ -539,7 +539,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ACスパルタ・プラハ" title="wikilink">スパルタ・プラハ</a></p></td>
+<td><p><a href="../Page/ACスパルタ・プラハ.md" title="wikilink">スパルタ・プラハ</a></p></td>
 <td><p>1–3</p></td>
 <td><p>2–0</p></td>
 <td></td>
@@ -562,7 +562,7 @@
 </tr>
 <tr class="even">
 <td><p>ラウンド32</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エヴァートンFC" title="wikilink">エヴァートン</a></p></td>
+<td><p><a href="../Page/エヴァートンFC.md" title="wikilink">エヴァートン</a></p></td>
 <td><p>1–4</p></td>
 <td><p>1–3</p></td>
 <td><p>'''2-7</p></td>
@@ -575,7 +575,7 @@
 <td><p>2015-16</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2015-16" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ASモナコ" title="wikilink">モナコ</a></p></td>
+<td><p><a href="../Page/ASモナコ.md" title="wikilink">モナコ</a></p></td>
 <td><p>1–3</p></td>
 <td><p>0–4</p></td>
 <td><p>'''1-7</p></td>
@@ -607,7 +607,7 @@
 </tr>
 <tr class="even">
 <td><p>プレーオフ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ボルシア・メンヒェングラートバッハ" title="wikilink">ボルシアMG</a></p></td>
+<td><p><a href="../Page/ボルシア・メンヒェングラートバッハ.md" title="wikilink">ボルシアMG</a></p></td>
 <td><p>1–3</p></td>
 <td><p>1–6</p></td>
 <td><p>'''2-9</p></td>
@@ -653,7 +653,7 @@
 <td><p>2017-18</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2017-18" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCディナモ・キエフ" title="wikilink">ディナモ・キエフ</a></p></td>
+<td><p><a href="../Page/FCディナモ・キエフ.md" title="wikilink">ディナモ・キエフ</a></p></td>
 <td><p>1–3</p></td>
 <td><p>2–0</p></td>
 <td><p>'''3-3 (a)</p></td>
@@ -662,7 +662,7 @@
 </tr>
 <tr class="odd">
 <td><p>プレーオフ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PFC_CSKAモスクワ" title="wikilink">CSKAモスクワ</a></p></td>
+<td><p><a href="../Page/PFC_CSKAモスクワ.md" title="wikilink">CSKAモスクワ</a></p></td>
 <td><p>0–1</p></td>
 <td><p>0–2</p></td>
 <td><p>'''0-3</p></td>
@@ -674,7 +674,7 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2017-18" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>グループB</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCディナモ・キエフ" title="wikilink">ディナモ・キエフ</a></p></td>
+<td><p><a href="../Page/FCディナモ・キエフ.md" title="wikilink">ディナモ・キエフ</a></p></td>
 <td><p>0-1</p></td>
 <td><p>2-2</p></td>
 <td><p>'''3位</p></td>
@@ -683,7 +683,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/パルチザン・ベオグラード" title="wikilink">パルチザン・ベオグラード</a></p></td>
+<td><p><a href="../Page/パルチザン・ベオグラード.md" title="wikilink">パルチザン・ベオグラード</a></p></td>
 <td><p>1-1</p></td>
 <td><p>1-2</p></td>
 <td></td>
@@ -727,7 +727,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/バレンシアCF" title="wikilink">バレンシア</a></p></td>
+<td><p><a href="../Page/バレンシアCF.md" title="wikilink">バレンシア</a></p></td>
 <td><p>1-1</p></td>
 <td><p>1-3</p></td>
 <td></td>
@@ -752,7 +752,7 @@
 <td><p>2019-20</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2019-20" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>プレーオフ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レッドスター・ベオグラード" title="wikilink">ツルヴェナ・ズヴェズダ</a></p></td>
+<td><p><a href="../Page/レッドスター・ベオグラード.md" title="wikilink">ツルヴェナ・ズヴェズダ</a></p></td>
 <td><p>2-2</p></td>
 <td><p>1-1</p></td>
 <td><p>'''3-3 (a)</p></td>
@@ -762,7 +762,7 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2019-20" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>グループG</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCポルト" title="wikilink">ポルト</a></p></td>
+<td><p><a href="../Page/FCポルト.md" title="wikilink">ポルト</a></p></td>
 <td><p>1-2</p></td>
 <td><p>1-2</p></td>
 <td><p>'''3位</p></td>
@@ -782,7 +782,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/レンジャーズFC" title="wikilink">レンジャーズ</a></p></td>
+<td><p><a href="../Page/レンジャーズFC.md" title="wikilink">レンジャーズ</a></p></td>
 <td><p>2-1</p></td>
 <td><p>1-1</p></td>
 <td></td>
@@ -853,15 +853,15 @@
 
 <!-- end list -->
 
-  - [ヴヤディン・ボシュコヴ](https://ja.wikipedia.org/wiki/ヴヤディン・ボシュコヴ "wikilink") 1962-1964
+  - [ヴヤディン・ボシュコヴ](../Page/ヴヤディン・ボシュコヴ.md "wikilink") 1962-1964
 
   - [アラン・ズッター](https://ja.wikipedia.org/wiki/アラン・ズッター "wikilink") 1987-1988
 
-  - [アンテ・シムンザ](https://ja.wikipedia.org/wiki/アンテ・シムンザ "wikilink") 1998
+  - [アンテ・シムンザ](../Page/アンテ・シムンザ.md "wikilink") 1998
 
   - [ピルミン・シュヴェクラー](https://ja.wikipedia.org/wiki/ピルミン・シュヴェクラー "wikilink") 2005-2006
 
-  - [ハカン・ヤキン](https://ja.wikipedia.org/wiki/ハカン・ヤキン "wikilink") 2005-2008
+  - [ハカン・ヤキン](../Page/ハカン・ヤキン.md "wikilink") 2005-2008
 
   - [ダヴィデ・キウミエント](https://ja.wikipedia.org/wiki/ダヴィデ・キウミエント "wikilink") 2006-2007
 
@@ -875,13 +875,13 @@
 
   - [ポール・アゴスティーノ](https://ja.wikipedia.org/wiki/ポール・アゴスティーノ "wikilink") 1992-1994
 
-  - [ヨハン・フォンランテン](https://ja.wikipedia.org/wiki/ヨハン・フォンランテン "wikilink") 2001-2003
+  - [ヨハン・フォンランテン](../Page/ヨハン・フォンランテン.md "wikilink") 2001-2003
 
   - [ステファヌ・シャピュイサ](../Page/ステファヌ・シャピュイサ.md "wikilink") 2002-2005
 
   - [石俊](https://ja.wikipedia.org/wiki/石俊 "wikilink") 2005-2008
 
-  - [ドゥンビア・セイドゥ](https://ja.wikipedia.org/wiki/ドゥンビア・セイドゥ "wikilink") 2008-2010
+  - [ドゥンビア・セイドゥ](../Page/ドゥンビア・セイドゥ.md "wikilink") 2008-2010
 
   - [エマヌエル・マユカ](https://ja.wikipedia.org/wiki/エマヌエル・マユカ "wikilink") 2010-2012
 

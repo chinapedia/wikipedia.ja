@@ -1,7 +1,7 @@
 > この記事は[SC](https://ja.wikipedia.org/wiki/SC)から翻訳されています。
 
 
-**scヘーレンフェーン**（**Sportclub Heerenveen**）は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の北部、[フリースラント州](https://ja.wikipedia.org/wiki/フリースラント州 "wikilink")の都市[ヘーレンフェーン](https://ja.wikipedia.org/wiki/ヘーレンフェーン "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。"sc"は正確には小文字で書かれる。
+**scヘーレンフェーン**（**Sportclub Heerenveen**）は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の北部、[フリースラント州](../Page/フリースラント州.md "wikilink")の都市[ヘーレンフェーン](https://ja.wikipedia.org/wiki/ヘーレンフェーン "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。"sc"は正確には小文字で書かれる。
 
 伝統的にフリースラントの象徴カラーである青白の縞模様にフリースの花である睡蓮をあしらったデザインをホーム用に使っているが、赤色の睡蓮の花はハートマークやチューリップの花と誤解されることが多く、2016年7月には英BBCも「不思議の国のアリスに登場するハートのクイーンの従者の衣装になら見事に似合うだろう」と誤解して「フットボール界で最もダサいシャツの一つ」に選んだ\[1\]。
 
@@ -13,7 +13,7 @@
 
 2003-04シーズンに約20年間クラブで働いていたフォッペ・デ・ハーンが退任し、過去にアシスタントを務めていたヘルジャン・フェルベークが監督に就任。1年目でUEFAカップ出場権を獲得するなど成功を収めたが、2007-08シーズンにクラブが契約終了を発表。フェルベークはフェイエノールトの新監督就任が決まり、ヘーレンフェーンは2008-09シーズンにノルウェーのトロント・ソリードを監督に迎えてリーグ5位とベーカー獲得と、クラブに初タイトルをもたらしたが、2009年8月31日にソリードが突然退任すると、その後はヤン・デ・ヨンゲ、ヤン・エーフェルス(暫定)、ロン・ヤンス、マルコ・ファン・バステン、ドワイト・ローデウウェーヘス、フォッペ・デ・ハーン(暫定)と短期間で監督が入れ替わり、2015-16シーズンにクラブの混乱状況の責任を取って運営陣が総辞職、ルーク・アイセンハが新会長に就任し、2016-17シーズンはユルヘン・ストレペルを新監督に迎えている。
 
-地理的な理由もあり伝統的にスカンジナビアでのスカウティングに強い。また優秀なFWのスカウティングで多くの成果を上げており、過去数シーズンに選手の売却で得た移籍金は、[アフォンソ・アウヴェス](https://ja.wikipedia.org/wiki/アフォンソ・アウヴェス "wikilink")（1800万ユーロ）、[ミラレム・スレイマニ](../Page/ミラレム・スレイマニ.md "wikilink")（1600万ユーロ）、[クラース・ヤン・フンテラール](https://ja.wikipedia.org/wiki/クラース・ヤン・フンテラール "wikilink")（950万ユーロ）、[ダニエル・プラニッチ](https://ja.wikipedia.org/wiki/ダニエル・プラニッチ "wikilink")（800万ユーロ）、[ゲオルギオス・サマラス](../Page/ゲオルギオス・サマラス.md "wikilink")（750万ユーロ）などかなりの高額にのぼる。一方で近年はユースからハキム・ツィエク、ジェリー・シン・ジュステを始めとして多くのタレントがブレイクしている。
+地理的な理由もあり伝統的にスカンジナビアでのスカウティングに強い。また優秀なFWのスカウティングで多くの成果を上げており、過去数シーズンに選手の売却で得た移籍金は、[アフォンソ・アウヴェス](https://ja.wikipedia.org/wiki/アフォンソ・アウヴェス "wikilink")（1800万ユーロ）、[ミラレム・スレイマニ](../Page/ミラレム・スレイマニ.md "wikilink")（1600万ユーロ）、[クラース・ヤン・フンテラール](../Page/クラース・ヤン・フンテラール.md "wikilink")（950万ユーロ）、[ダニエル・プラニッチ](https://ja.wikipedia.org/wiki/ダニエル・プラニッチ "wikilink")（800万ユーロ）、[ゲオルギオス・サマラス](../Page/ゲオルギオス・サマラス.md "wikilink")（750万ユーロ）などかなりの高額にのぼる。一方で近年はユースからハキム・ツィエク、ジェリー・シン・ジュステを始めとして多くのタレントがブレイクしている。
 
 ## タイトル
 
@@ -108,7 +108,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/UDレイリア" title="wikilink">レイリア</a></p></td>
+<td><p><a href="../Page/UDレイリア.md" title="wikilink">レイリア</a></p></td>
 <td><p>style="background-color:#CFF" align="center" </p></td>
 <td><p>0-1</p></td>
 <td></td>
@@ -129,7 +129,7 @@
 </tr>
 <tr class="even">
 <td><p>準々決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCジロンダン・ボルドー" title="wikilink">ジロンダン・ボルドー</a></p></td>
+<td><p><a href="../Page/FCジロンダン・ボルドー.md" title="wikilink">ジロンダン・ボルドー</a></p></td>
 <td><p>style="background-color:#CFF" align="center" </p></td>
 <td><p>0-2</p></td>
 <td><p>'''0-2</p></td>
@@ -158,7 +158,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/FCナント" title="wikilink">ナント</a></p></td>
+<td><p><a href="../Page/FCナント.md" title="wikilink">ナント</a></p></td>
 <td><p>style="background-color:#CFF" align="center" </p></td>
 <td><p>1-3</p></td>
 <td></td>
@@ -198,7 +198,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/MSVデュースブルク" title="wikilink">デュースブルク</a></p></td>
+<td><p><a href="../Page/MSVデュースブルク.md" title="wikilink">デュースブルク</a></p></td>
 <td><p>style="background-color:#CFF" align="center" </p></td>
 <td><p>0-2</p></td>
 <td></td>
@@ -261,7 +261,7 @@
 <td><p>2000-01</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2000-01" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>グループC</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/バレンシアCF" title="wikilink">バレンシア</a></p></td>
+<td><p><a href="../Page/バレンシアCF.md" title="wikilink">バレンシア</a></p></td>
 <td><p>0-1</p></td>
 <td><p>1-1</p></td>
 <td><p>'''4位</p></td>
@@ -299,7 +299,7 @@
 </tr>
 <tr class="odd">
 <td><p>3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCバーゼル" title="wikilink">バーゼル</a></p></td>
+<td><p><a href="../Page/FCバーゼル.md" title="wikilink">バーゼル</a></p></td>
 <td><p>2-3</p></td>
 <td><p>1-2</p></td>
 <td><p>'''3-5</p></td>
@@ -339,7 +339,7 @@
 </tr>
 <tr class="odd">
 <td><p>3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ビジャレアルCF" title="wikilink">ビジャレアル</a></p></td>
+<td><p><a href="../Page/ビジャレアルCF.md" title="wikilink">ビジャレアル</a></p></td>
 <td><p>1-2</p></td>
 <td><p>0-0</p></td>
 <td><p>'''1-2</p></td>
@@ -359,7 +359,7 @@
 </tr>
 <tr class="odd">
 <td><p>グループG</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SLベンフィカ" title="wikilink">ベンフィカ</a></p></td>
+<td><p><a href="../Page/SLベンフィカ.md" title="wikilink">ベンフィカ</a></p></td>
 <td><p>style="background-color:#CFF" align="center" </p></td>
 <td><p>2-4</p></td>
 <td><p>'''3位</p></td>
@@ -399,7 +399,7 @@
 </tr>
 <tr class="odd">
 <td><p>3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ニューカッスル・ユナイテッドFC" title="wikilink">ニューカッスル・ユナイテッド</a></p></td>
+<td><p><a href="../Page/ニューカッスル・ユナイテッドFC.md" title="wikilink">ニューカッスル・ユナイテッド</a></p></td>
 <td><p>1-2</p></td>
 <td><p>1-2</p></td>
 <td><p>'''2-4</p></td>
@@ -428,7 +428,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/PFC_CSKAモスクワ" title="wikilink">CSKAモスクワ</a></p></td>
+<td><p><a href="../Page/PFC_CSKAモスクワ.md" title="wikilink">CSKAモスクワ</a></p></td>
 <td><p>0-0</p></td>
 <td><p>style="background-color:#CFF" align="center" </p></td>
 <td></td>
@@ -438,7 +438,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/オリンピック・マルセイユ" title="wikilink">オリンピック・マルセイユ</a></p></td>
+<td><p><a href="../Page/オリンピック・マルセイユ.md" title="wikilink">オリンピック・マルセイユ</a></p></td>
 <td><p>style="background-color:#CFF" align="center" </p></td>
 <td><p>0-1</p></td>
 <td></td>
@@ -448,7 +448,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/レフスキ・ソフィア" title="wikilink">レフスキ・ソフィア</a></p></td>
+<td><p><a href="../Page/レフスキ・ソフィア.md" title="wikilink">レフスキ・ソフィア</a></p></td>
 <td><p>2-1</p></td>
 <td><p>style="background-color:#CFF" align="center" </p></td>
 <td></td>
@@ -459,7 +459,7 @@
 </tr>
 <tr class="odd">
 <td><p>3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCステアウア・ブカレスト" title="wikilink">ステアウア・ブカレスト</a></p></td>
+<td><p><a href="../Page/FCステアウア・ブカレスト.md" title="wikilink">ステアウア・ブカレスト</a></p></td>
 <td><p>1-3</p></td>
 <td><p>1-0</p></td>
 <td><p>'''2-3</p></td>
@@ -479,7 +479,7 @@
 </tr>
 <tr class="odd">
 <td><p>グループD</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/CAオサスナ" title="wikilink">オサスナ</a></p></td>
+<td><p><a href="../Page/CAオサスナ.md" title="wikilink">オサスナ</a></p></td>
 <td><p>style="background-color:#CFF" align="center" </p></td>
 <td><p>0-0</p></td>
 <td><p>'''5位</p></td>
@@ -508,7 +508,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/RCランス" title="wikilink">ランス</a></p></td>
+<td><p><a href="../Page/RCランス.md" title="wikilink">ランス</a></p></td>
 <td><p>1-0</p></td>
 <td><p>style="background-color:#CFF" align="center" </p></td>
 <td></td>
@@ -548,7 +548,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/VfLヴォルフスブルク" title="wikilink">ヴォルフスブルク</a></p></td>
+<td><p><a href="../Page/VfLヴォルフスブルク.md" title="wikilink">ヴォルフスブルク</a></p></td>
 <td><p>style="background-color:#CFF" align="center" </p></td>
 <td><p>1-5</p></td>
 <td></td>
@@ -558,7 +558,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/SCブラガ" title="wikilink">ブラガ</a></p></td>
+<td><p><a href="../Page/SCブラガ.md" title="wikilink">ブラガ</a></p></td>
 <td><p>1-2</p></td>
 <td><p>style="background-color:#CFF" align="center" </p></td>
 <td></td>
@@ -568,7 +568,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ポーツマスFC" title="wikilink">ポーツマス</a></p></td>
+<td><p><a href="../Page/ポーツマスFC.md" title="wikilink">ポーツマス</a></p></td>
 <td><p>style="background-color:#CFF" align="center" </p></td>
 <td><p>0-3</p></td>
 <td></td>
@@ -589,7 +589,7 @@
 </tr>
 <tr class="even">
 <td><p>グループD</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スポルティング・クルーベ・デ・ポルトゥガル" title="wikilink">スポルティングCP</a></p></td>
+<td><p><a href="../Page/スポルティング・クルーベ・デ・ポルトゥガル.md" title="wikilink">スポルティングCP</a></p></td>
 <td><p>2-3</p></td>
 <td><p>1-1</p></td>
 <td><p>'''3位</p></td>
@@ -674,7 +674,7 @@
 
   - [マルコ・ファン・バステン](../Page/マルコ・ファン・バステン.md "wikilink") 2012-2014
 
-  - [ドワイト・ローデヴェーヘス](https://ja.wikipedia.org/wiki/ドワイト・ローデヴェーヘス "wikilink") 2014-2015
+  - [ドワイト・ローデヴェーヘス](../Page/ドワイト・ローデヴェーヘス.md "wikilink") 2014-2015
 
   - [フォッペ・デ・ハーン](https://ja.wikipedia.org/wiki/フォッペ・デ・ハーン "wikilink") 2015-2016
 
@@ -698,7 +698,7 @@
 
 ### DF
 
-  - [エリック・エドマン](https://ja.wikipedia.org/wiki/エリック・エドマン "wikilink") 2001-2004
+  - [エリック・エドマン](../Page/エリック・エドマン.md "wikilink") 2001-2004
 
   - [ジャンニ・ザイフェルローン](https://ja.wikipedia.org/wiki/ジャンニ・ザイフェルローン "wikilink") 2006-2008
 
@@ -738,15 +738,15 @@
 
 ### FW
 
-  - [ヨン・ダール・トマソン](https://ja.wikipedia.org/wiki/ヨン・ダール・トマソン "wikilink") 1994-1997
+  - [ヨン・ダール・トマソン](../Page/ヨン・ダール・トマソン.md "wikilink") 1994-1997
 
-  - [ルート・ファン・ニステルローイ](https://ja.wikipedia.org/wiki/ルート・ファン・ニステルローイ "wikilink") 1997-1998
+  - [ルート・ファン・ニステルローイ](../Page/ルート・ファン・ニステルローイ.md "wikilink") 1997-1998
 
-  - [マルクス・アルベック](https://ja.wikipedia.org/wiki/マルクス・アルベック "wikilink") 2000-2002
+  - [マルクス・アルベック](../Page/マルクス・アルベック.md "wikilink") 2000-2002
 
   - [ゲオルギオス・サマラス](../Page/ゲオルギオス・サマラス.md "wikilink") 2002-2006
 
-  - [クラース・ヤン・フンテラール](https://ja.wikipedia.org/wiki/クラース・ヤン・フンテラール "wikilink") 2004-2006
+  - [クラース・ヤン・フンテラール](../Page/クラース・ヤン・フンテラール.md "wikilink") 2004-2006
 
   - [ダニエル・プラニッチ](https://ja.wikipedia.org/wiki/ダニエル・プラニッチ "wikilink") 2005-2009
 

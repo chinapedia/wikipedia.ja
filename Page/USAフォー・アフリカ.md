@@ -1,58 +1,58 @@
 > この記事は[USA](https://ja.wikipedia.org/wiki/USA)から翻訳されています。
 
 
-**USAフォー・アフリカ**(**USA for Africa**, United Support of Artists for Africa)は[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[スーパースター](https://ja.wikipedia.org/wiki/スーパースター "wikilink")が一堂に会したプロジェクトの名称。当時深刻化していた[アフリカ](../Page/アフリカ.md "wikilink")の飢餓救済のための[チャリティーソング](https://ja.wikipedia.org/wiki/チャリティーソング "wikilink")である「[ウィ・アー・ザ・ワールド](../Page/ウィ・アー・ザ・ワールド.md "wikilink")(We Are The World)」をリリースした。
+**USAフォー・アフリカ**(**USA for Africa**, United Support of Artists for Africa)は[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[スーパースター](../Page/スーパースター.md "wikilink")が一堂に会したプロジェクトの名称。当時深刻化していた[アフリカ](../Page/アフリカ.md "wikilink")の飢餓救済のための[チャリティーソング](https://ja.wikipedia.org/wiki/チャリティーソング "wikilink")である「[ウィ・アー・ザ・ワールド](../Page/ウィ・アー・ザ・ワールド.md "wikilink")(We Are The World)」をリリースした。
 
 ## いきさつ
 
-[1984年](../Page/1984年.md "wikilink")、[ボブ・ゲルドフ](../Page/ボブ・ゲルドフ.md "wikilink")の呼びかけで[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")のスーパースターたちが集まり、アフリカの飢餓救済のためのプロジェクト「[バンド・エイド](https://ja.wikipedia.org/wiki/バンド・エイド "wikilink")」を結成。大きな話題を呼び、チャリティー・ソング「ドゥ・ゼイ・ノウ・イッツ・クリスマス」が大ヒットする。
+[1984年](../Page/1984年.md "wikilink")、[ボブ・ゲルドフ](../Page/ボブ・ゲルドフ.md "wikilink")の呼びかけで[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")のスーパースターたちが集まり、アフリカの飢餓救済のためのプロジェクト「[バンド・エイド](../Page/バンド・エイド.md "wikilink")」を結成。大きな話題を呼び、チャリティー・ソング「ドゥ・ゼイ・ノウ・イッツ・クリスマス」が大ヒットする。
 
-これに触発された形で[ハリー・ベラフォンテ](https://ja.wikipedia.org/wiki/ハリー・ベラフォンテ "wikilink")がアメリカで同様のプロジェクトを作ることを提唱する。呼びかけたのはまず[ライオネル・リッチー](https://ja.wikipedia.org/wiki/ライオネル・リッチー "wikilink")。そこから[マイケル・ジャクソン](https://ja.wikipedia.org/wiki/マイケル・ジャクソン "wikilink")、[スティーヴィー・ワンダー](../Page/スティーヴィー・ワンダー.md "wikilink")、[クインシー・ジョーンズ](../Page/クインシー・ジョーンズ.md "wikilink")ら数々の大物アーティストが芋づる式に呼びかけに応じ、最終的に集まったアーティストは45人に達した（主な参加アーティストは[ウィ・アー・ザ・ワールド](../Page/ウィ・アー・ザ・ワールド.md "wikilink")の項を参照）。参加アーティストは全員が無償で参加している。
+これに触発された形で[ハリー・ベラフォンテ](../Page/ハリー・ベラフォンテ.md "wikilink")がアメリカで同様のプロジェクトを作ることを提唱する。呼びかけたのはまず[ライオネル・リッチー](https://ja.wikipedia.org/wiki/ライオネル・リッチー "wikilink")。そこから[マイケル・ジャクソン](https://ja.wikipedia.org/wiki/マイケル・ジャクソン "wikilink")、[スティーヴィー・ワンダー](../Page/スティーヴィー・ワンダー.md "wikilink")、[クインシー・ジョーンズ](../Page/クインシー・ジョーンズ.md "wikilink")ら数々の大物アーティストが芋づる式に呼びかけに応じ、最終的に集まったアーティストは45人に達した（主な参加アーティストは[ウィ・アー・ザ・ワールド](../Page/ウィ・アー・ザ・ワールド.md "wikilink")の項を参照）。参加アーティストは全員が無償で参加している。
 
-マイケル・ジャクソンとライオネル・リッチーが共同で曲を書き、プロデューサーのクインシー・ジョーンズの下、1985年1月28日にレコーディングが開始された。プロジェクトは「United Support of Artists」のイニシャルとアメリカ合衆国の略称とのダブルミーニングで「USAフォー・アフリカ」と名付けられ、3月8日、「We Are The World（ウィー・アー・ザ・ワールド）」をリリース。世界的な話題を呼んだこの曲は瞬く間に世界各国でチャート1位を記録した。しかし日本では、通常盤（7インチ盤）と12インチ盤とで売り上げ集計が分散されたこともあり[オリコン週間シングルチャート最高位は第](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")2位であった（通常盤と12インチ盤を合計すれば同チャート1位相当、同12インチ盤が2位だった週の第1位は[小泉今日子](https://ja.wikipedia.org/wiki/小泉今日子 "wikilink")の「常夏娘」）。
+マイケル・ジャクソンとライオネル・リッチーが共同で曲を書き、プロデューサーのクインシー・ジョーンズの下、1985年1月28日にレコーディングが開始された。プロジェクトは「United Support of Artists」のイニシャルとアメリカ合衆国の略称とのダブルミーニングで「USAフォー・アフリカ」と名付けられ、3月8日、「We Are The World（ウィー・アー・ザ・ワールド）」をリリース。世界的な話題を呼んだこの曲は瞬く間に世界各国でチャート1位を記録した。しかし日本では、通常盤（7インチ盤）と12インチ盤とで売り上げ集計が分散されたこともあり[オリコン週間シングルチャート最高位は第](../Page/オリコンチャート.md "wikilink")2位であった（通常盤と12インチ盤を合計すれば同チャート1位相当、同12インチ盤が2位だった週の第1位は[小泉今日子](https://ja.wikipedia.org/wiki/小泉今日子 "wikilink")の「常夏娘」）。
 
 「[We Are The World](https://ja.wikipedia.org/wiki/We_Are_The_World "wikilink")（ウィー・アー・ザ・ワールド）」はシングルとアルバムの両方がリリースされた。また[2004年](../Page/2004年.md "wikilink")には制作ドキュメンタリー映像「We Are The World THE STORY BEHIND THE SONG」のDVDがリリースされている。
 
 ## メンバー
 
-  - [アル・ジャロウ](https://ja.wikipedia.org/wiki/アル・ジャロウ "wikilink")
-  - [ウィリー・ネルソン](https://ja.wikipedia.org/wiki/ウィリー・ネルソン "wikilink")
+  - [アル・ジャロウ](../Page/アル・ジャロウ.md "wikilink")
+  - [ウィリー・ネルソン](../Page/ウィリー・ネルソン.md "wikilink")
   - [ウェイロン・ジェニングス](https://ja.wikipedia.org/wiki/ウェイロン・ジェニングス "wikilink")
-  - [キム・カーンズ](https://ja.wikipedia.org/wiki/キム・カーンズ "wikilink")
+  - [キム・カーンズ](../Page/キム・カーンズ.md "wikilink")
   - [クインシー・ジョーンズ](../Page/クインシー・ジョーンズ.md "wikilink")（プロデューサー及び指揮）
-  - [ケニー・ロギンス](https://ja.wikipedia.org/wiki/ケニー・ロギンス "wikilink")
-  - [ケニー・ロジャース](https://ja.wikipedia.org/wiki/ケニー・ロジャース_\(カントリー歌手\) "wikilink")
+  - [ケニー・ロギンス](../Page/ケニー・ロギンス.md "wikilink")
+  - [ケニー・ロジャース](../Page/ケニー・ロジャース_\(カントリー歌手\).md "wikilink")
   - [ジェフリー・オズボーン](https://ja.wikipedia.org/wiki/ジェフリー・オズボーン "wikilink")
-  - [ジェームス・イングラム](https://ja.wikipedia.org/wiki/ジェームス・イングラム "wikilink")
-  - [ジャッキー・ジャクソン](https://ja.wikipedia.org/wiki/ジャッキー・ジャクソン "wikilink")
+  - [ジェームス・イングラム](../Page/ジェームス・イングラム.md "wikilink")
+  - [ジャッキー・ジャクソン](../Page/ジャッキー・ジャクソン.md "wikilink")
   - [シンディ・ローパー](../Page/シンディ・ローパー.md "wikilink")
   - [シーラ・E](https://ja.wikipedia.org/wiki/シーラ・E "wikilink")
   - [スティーヴィー・ワンダー](../Page/スティーヴィー・ワンダー.md "wikilink")
   - [スティーブ・ペリー](https://ja.wikipedia.org/wiki/スティーブ・ペリー "wikilink")
-  - [スモーキー・ロビンソン](https://ja.wikipedia.org/wiki/スモーキー・ロビンソン "wikilink")
+  - [スモーキー・ロビンソン](../Page/スモーキー・ロビンソン.md "wikilink")
   - [ダイアナ・ロス](../Page/ダイアナ・ロス.md "wikilink")
-  - [ダリル・ホール&ジョン・オーツ](https://ja.wikipedia.org/wiki/ダリル・ホール&ジョン・オーツ "wikilink")
-  - [ダン・エイクロイド](https://ja.wikipedia.org/wiki/ダン・エイクロイド "wikilink")
-  - [ディオンヌ・ワーウィック](https://ja.wikipedia.org/wiki/ディオンヌ・ワーウィック "wikilink")
+  - [ダリル・ホール&ジョン・オーツ](../Page/ダリル・ホール&ジョン・オーツ.md "wikilink")
+  - [ダン・エイクロイド](../Page/ダン・エイクロイド.md "wikilink")
+  - [ディオンヌ・ワーウィック](../Page/ディオンヌ・ワーウィック.md "wikilink")
 
 <!-- end list -->
 
-  - [ティト・ジャクソン](https://ja.wikipedia.org/wiki/ティト・ジャクソン "wikilink")
-  - [ティナ・ターナー](https://ja.wikipedia.org/wiki/ティナ・ターナー "wikilink")
-  - [ハリー・ベラフォンテ](https://ja.wikipedia.org/wiki/ハリー・ベラフォンテ "wikilink")
-  - [ヒューイ・ルイス&ザ・ニュース](https://ja.wikipedia.org/wiki/ヒューイ・ルイス&ザ・ニュース "wikilink")
-  - [ビリー・ジョエル](https://ja.wikipedia.org/wiki/ビリー・ジョエル "wikilink")
+  - [ティト・ジャクソン](../Page/ティト・ジャクソン.md "wikilink")
+  - [ティナ・ターナー](../Page/ティナ・ターナー.md "wikilink")
+  - [ハリー・ベラフォンテ](../Page/ハリー・ベラフォンテ.md "wikilink")
+  - [ヒューイ・ルイス&ザ・ニュース](../Page/ヒューイ・ルイス&ザ・ニュース.md "wikilink")
+  - [ビリー・ジョエル](../Page/ビリー・ジョエル.md "wikilink")
   - [ブルース・スプリングスティーン](https://ja.wikipedia.org/wiki/ブルース・スプリングスティーン "wikilink")
   - [ベット・ミドラー](https://ja.wikipedia.org/wiki/ベット・ミドラー "wikilink")
-  - [ポインター・シスターズ](https://ja.wikipedia.org/wiki/ポインター・シスターズ "wikilink")
+  - [ポインター・シスターズ](../Page/ポインター・シスターズ.md "wikilink")
   - [ボブ・ゲルドフ](../Page/ボブ・ゲルドフ.md "wikilink")
   - [ボブ・ディラン](../Page/ボブ・ディラン.md "wikilink")
-  - [ポール・サイモン](https://ja.wikipedia.org/wiki/ポール・サイモン "wikilink")
+  - [ポール・サイモン](../Page/ポール・サイモン.md "wikilink")
   - [マイケル・ジャクソン](https://ja.wikipedia.org/wiki/マイケル・ジャクソン "wikilink")
-  - [マーロン・ジャクソン](https://ja.wikipedia.org/wiki/マーロン・ジャクソン "wikilink")
+  - [マーロン・ジャクソン](../Page/マーロン・ジャクソン.md "wikilink")
   - [ライオネル・リッチー](https://ja.wikipedia.org/wiki/ライオネル・リッチー "wikilink")
-  - [ラトーヤ・ジャクソン](https://ja.wikipedia.org/wiki/ラトーヤ・ジャクソン "wikilink")
-  - [ランディ・ジャクソン](https://ja.wikipedia.org/wiki/ランディ・ジャクソン "wikilink")
+  - [ラトーヤ・ジャクソン](../Page/ラトーヤ・ジャクソン.md "wikilink")
+  - [ランディ・ジャクソン](../Page/ランディ・ジャクソン.md "wikilink")
   - [リンジー・バッキンガム](../Page/リンジー・バッキンガム.md "wikilink")
   - [レイ・チャールズ](../Page/レイ・チャールズ.md "wikilink")
 
@@ -82,10 +82,10 @@
 
 ## 逸話
 
-  - [ヒューイ・ルイスは](https://ja.wikipedia.org/wiki/ヒューイ・ルイス&ザ・ニュース "wikilink")、スケジュールの都合でレコーディングに参加できなかった[プリンスの代役として呼ばれた](https://ja.wikipedia.org/wiki/プリンス_%28ミュージシャン%29 "wikilink")。
-  - [ボブ・ディラン](../Page/ボブ・ディラン.md "wikilink")、[レイ・チャールズ](../Page/レイ・チャールズ.md "wikilink")、[ブルース・スプリングスティーン](https://ja.wikipedia.org/wiki/ブルース・スプリングスティーン "wikilink")、[ジェームス・イングラム](https://ja.wikipedia.org/wiki/ジェームス・イングラム "wikilink")は[オーヴァーダビング](https://ja.wikipedia.org/wiki/オーヴァーダビング "wikilink")である。
-  - [クリストファー・クロス](https://ja.wikipedia.org/wiki/クリストファー・クロス "wikilink")は「[キム・カーンズ](https://ja.wikipedia.org/wiki/キム・カーンズ "wikilink")は呼ばれて自分は呼ばれなかった」と不満を漏らしている。ちなみにクリストファーもキムも相前後してグラミー賞を取っているがその後クリストファーは目立ったヒット曲に恵まれなかった。一方キムはケニー・ロジャース、ジェームス・イングラム、バーバラ・ストライザントなどとデュオを組むなど幅広く活動していた。
-  - [トールマン](https://ja.wikipedia.org/wiki/トールマン "wikilink")F1チームの1985年式マシン、[TG185に](https://ja.wikipedia.org/wiki/トールマン・TG185 "wikilink")、「USA FOR AFRICA」のロゴがシーズン通しで、フロントウィングおよびサイドポンツーン下部に掲出されていた。
+  - [ヒューイ・ルイスは](../Page/ヒューイ・ルイス&ザ・ニュース.md "wikilink")、スケジュールの都合でレコーディングに参加できなかった[プリンスの代役として呼ばれた](https://ja.wikipedia.org/wiki/プリンス_%28ミュージシャン%29 "wikilink")。
+  - [ボブ・ディラン](../Page/ボブ・ディラン.md "wikilink")、[レイ・チャールズ](../Page/レイ・チャールズ.md "wikilink")、[ブルース・スプリングスティーン](https://ja.wikipedia.org/wiki/ブルース・スプリングスティーン "wikilink")、[ジェームス・イングラム](../Page/ジェームス・イングラム.md "wikilink")は[オーヴァーダビング](https://ja.wikipedia.org/wiki/オーヴァーダビング "wikilink")である。
+  - [クリストファー・クロス](../Page/クリストファー・クロス.md "wikilink")は「[キム・カーンズ](../Page/キム・カーンズ.md "wikilink")は呼ばれて自分は呼ばれなかった」と不満を漏らしている。ちなみにクリストファーもキムも相前後してグラミー賞を取っているがその後クリストファーは目立ったヒット曲に恵まれなかった。一方キムはケニー・ロジャース、ジェームス・イングラム、バーバラ・ストライザントなどとデュオを組むなど幅広く活動していた。
+  - [トールマン](../Page/トールマン.md "wikilink")F1チームの1985年式マシン、[TG185に](https://ja.wikipedia.org/wiki/トールマン・TG185 "wikilink")、「USA FOR AFRICA」のロゴがシーズン通しで、フロントウィングおよびサイドポンツーン下部に掲出されていた。
 
 ## 外部リンク
 

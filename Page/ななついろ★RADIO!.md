@@ -1,27 +1,27 @@
 > この記事は[RADIO!](https://ja.wikipedia.org/wiki/RADIO!)から翻訳されています。
 
 
-『'''ななついろ★RADIO\! '''』（ななついろラジオ）は、[ゲーム](../Page/ゲーム.md "wikilink")・[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[ななついろ★ドロップス](https://ja.wikipedia.org/wiki/ななついろ★ドロップス "wikilink")』に関連した[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。
+『'''ななついろ★RADIO\! '''』（ななついろラジオ）は、[ゲーム](../Page/ゲーム.md "wikilink")・[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[ななついろ★ドロップス](../Page/ななついろ★ドロップス.md "wikilink")』に関連した[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。
 
 ## パーソナリティ
 
   - [結本ミチル](https://ja.wikipedia.org/wiki/結本ミチル "wikilink")（秋姫すもも役）（愛称：ミッチェル）
-  - [後藤麻衣](https://ja.wikipedia.org/wiki/後藤麻衣_\(声優\) "wikilink")（ユキちゃん役）（愛称：ごまちゃん）
+  - [後藤麻衣](../Page/後藤麻衣_\(声優\).md "wikilink")（ユキちゃん役）（愛称：ごまちゃん）
 
 ## 主題歌　
 
   - オープニング曲**「ぴゅあいろ★みらくる」**
       -
-        作詞・作曲：[水月陵](https://ja.wikipedia.org/wiki/水月陵 "wikilink")　歌：[Akira](https://ja.wikipedia.org/wiki/Akira "wikilink")
-  - エンディング曲**「コイスル★フローライト」** （原作ゲーム『[ななついろ★ドロップス](https://ja.wikipedia.org/wiki/ななついろ★ドロップス "wikilink")』テーマソング、テレビアニメ第12話エンディングテーマ）
+        作詞・作曲：[水月陵](../Page/水月陵.md "wikilink")　歌：[Akira](https://ja.wikipedia.org/wiki/Akira "wikilink")
+  - エンディング曲**「コイスル★フローライト」** （原作ゲーム『[ななついろ★ドロップス](../Page/ななついろ★ドロップス.md "wikilink")』テーマソング、テレビアニメ第12話エンディングテーマ）
       -
         作詞・作曲：水月陵、歌：Akira、コーラス：KIYO
 
 ## 配信日など
 
   - 配信日：毎週[金曜日](../Page/金曜日.md "wikilink")更新（[10月5日](../Page/10月5日.md "wikilink")より隔週更新に変更）
-  - 配信サイト：[メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink")および[超\!放送局](../Page/超!放送局.md "wikilink")
-  - 放送期間：[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月6日](../Page/4月6日.md "wikilink") - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月21日](https://ja.wikipedia.org/wiki/3月21日 "wikilink")
+  - 配信サイト：[メディアワークス](../Page/メディアワークス.md "wikilink")および[超\!放送局](../Page/超!放送局.md "wikilink")
+  - 放送期間：[2007年](../Page/2007年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink") - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月21日](../Page/3月21日.md "wikilink")
 
 メディアワークスでは最新回に加えて3回前までのバックナンバーが提供されている。またバックナンバーは高音質版もある。超\!放送局では最新回のみ。
 
@@ -29,18 +29,18 @@
 
 2007年[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")から[8月7日](../Page/8月7日.md "wikilink")まで、「七夕だよ♪バックナンバー祭」として、第1回から最新回までのバックナンバーが32kbpsで配信された。
 
-[文化放送](../Page/文化放送.md "wikilink")にて、8月18日27時〜28時、「[超\!アニメロアワー](https://ja.wikipedia.org/wiki/超!アニメロアワー "wikilink") ななついろ★RADIO\! サマースペシャル」と題した特別番組が放送された\[1\]。パーソナリティーは上記2名に加え[鷲崎健](https://ja.wikipedia.org/wiki/鷲崎健 "wikilink")、ゲストに[川瀬浩平](https://ja.wikipedia.org/wiki/川瀬浩平 "wikilink")、[いとうのいぢ](https://ja.wikipedia.org/wiki/いとうのいぢ "wikilink")、[神野正樹](https://ja.wikipedia.org/wiki/神野正樹 "wikilink")を迎える。
+[文化放送](../Page/文化放送.md "wikilink")にて、8月18日27時〜28時、「[超\!アニメロアワー](../Page/超!アニメロアワー.md "wikilink") ななついろ★RADIO\! サマースペシャル」と題した特別番組が放送された\[1\]。パーソナリティーは上記2名に加え[鷲崎健](../Page/鷲崎健.md "wikilink")、ゲストに[川瀬浩平](../Page/川瀬浩平.md "wikilink")、[いとうのいぢ](../Page/いとうのいぢ.md "wikilink")、[神野正樹](../Page/神野正樹.md "wikilink")を迎える。
 
 ## イベント
 
-  - 2007年[4月1日](../Page/4月1日.md "wikilink")に[秋葉原UDXビル](https://ja.wikipedia.org/wiki/秋葉原UDXビル "wikilink")で開催された[電撃文庫 春の祭典にて](https://ja.wikipedia.org/wiki/電撃文庫_春の祭典 "wikilink")、「ななついろ★ドロップスPure\!\! Webラジオ公開録音＋α！？」と題して公開録音が行われた。出演はパーソナリティー2名に加え、MCとして、[鷲崎健](https://ja.wikipedia.org/wiki/鷲崎健 "wikilink")が招かれた。
+  - 2007年[4月1日](../Page/4月1日.md "wikilink")に[秋葉原UDXビル](https://ja.wikipedia.org/wiki/秋葉原UDXビル "wikilink")で開催された[電撃文庫 春の祭典にて](https://ja.wikipedia.org/wiki/電撃文庫_春の祭典 "wikilink")、「ななついろ★ドロップスPure\!\! Webラジオ公開録音＋α！？」と題して公開録音が行われた。出演はパーソナリティー2名に加え、MCとして、[鷲崎健](../Page/鷲崎健.md "wikilink")が招かれた。
   - 2007年[8月18日](../Page/8月18日.md "wikilink")に[幕張メッセ](../Page/幕張メッセ.md "wikilink")で開催された[キャラホビ2007 C3×HOBBYにて](https://ja.wikipedia.org/wiki/キャラホビ_C3×HOBBY "wikilink")、公開録音が行われた。
-  - 2007年[9月1日](../Page/9月1日.md "wikilink")に[大阪 THE LIVE HOUSE somaで](https://ja.wikipedia.org/wiki/大阪_THE_LIVE_HOUSE_soma "wikilink")「ななついろ★RADIO\! 大阪公開録音&ライブ 大阪でピュアっす\!」と題するイベントが行われた。出演はパーソナリティー2名に加え、ゲストとして、[成瀬未亜](https://ja.wikipedia.org/wiki/成瀬未亜 "wikilink")、[いとうのいぢ](https://ja.wikipedia.org/wiki/いとうのいぢ "wikilink")、[神野正樹](https://ja.wikipedia.org/wiki/神野正樹 "wikilink")、[市川環](https://ja.wikipedia.org/wiki/市川環 "wikilink")（脚本）、[風間ぼなんざ](https://ja.wikipedia.org/wiki/風間ぼなんざ "wikilink")（脚本）、[Akira](https://ja.wikipedia.org/wiki/Akira "wikilink")（主題歌ボーカル）が招かれた。
+  - 2007年[9月1日](../Page/9月1日.md "wikilink")に[大阪 THE LIVE HOUSE somaで](https://ja.wikipedia.org/wiki/大阪_THE_LIVE_HOUSE_soma "wikilink")「ななついろ★RADIO\! 大阪公開録音&ライブ 大阪でピュアっす\!」と題するイベントが行われた。出演はパーソナリティー2名に加え、ゲストとして、[成瀬未亜](../Page/成瀬未亜.md "wikilink")、[いとうのいぢ](../Page/いとうのいぢ.md "wikilink")、[神野正樹](../Page/神野正樹.md "wikilink")、[市川環](https://ja.wikipedia.org/wiki/市川環 "wikilink")（脚本）、[風間ぼなんざ](https://ja.wikipedia.org/wiki/風間ぼなんざ "wikilink")（脚本）、[Akira](https://ja.wikipedia.org/wiki/Akira "wikilink")（主題歌ボーカル）が招かれた。
   - 2007年[11月24日](../Page/11月24日.md "wikilink")に[幕張メッセ](../Page/幕張メッセ.md "wikilink")で開催の[電撃15年祭](https://ja.wikipedia.org/wiki/電撃15年祭 "wikilink")にて、公開録音が行われた（第31回：11月30日放送分）。ゲストは成瀬未亜、いとうのいぢ。
 
 ## コーナー
 
-『ななついろ★ドロップス』のテーマが「初恋」「成長」であるため、それにちなんだコーナーが用意されている。 なお、アニメ『[ななついろ★ドロップス](https://ja.wikipedia.org/wiki/ななついろ★ドロップス "wikilink")』の放送終了とともに、コーナーも改編した（第27回10月5日配信分より改編）。
+『ななついろ★ドロップス』のテーマが「初恋」「成長」であるため、それにちなんだコーナーが用意されている。 なお、アニメ『[ななついろ★ドロップス](../Page/ななついろ★ドロップス.md "wikilink")』の放送終了とともに、コーナーも改編した（第27回10月5日配信分より改編）。
 
   - ふつおたコーナー
     リスナーから送られた普通のお便りを読み上げる。
@@ -51,7 +51,7 @@
     第39回はラジオ最終回スペシャルということで計6回行った。
   - ななついろ★ミュージックボックス
     ななついろ★ドロップスの楽曲を紹介するコーナー。必要に応じてあったりなかったりする。
-      - \#4（[4月27日](../Page/4月27日.md "wikilink")）：コイスル★フローライト／[Akira](https://ja.wikipedia.org/wiki/Akira "wikilink")（[ななついろ★ドロップス](https://ja.wikipedia.org/wiki/ななついろ★ドロップス "wikilink")、[ななついろ★ドロップスPure\!\!](https://ja.wikipedia.org/wiki/ななついろ★ドロップスPure!! "wikilink") OP曲）
+      - \#4（[4月27日](../Page/4月27日.md "wikilink")）：コイスル★フローライト／[Akira](https://ja.wikipedia.org/wiki/Akira "wikilink")（[ななついろ★ドロップス](../Page/ななついろ★ドロップス.md "wikilink")、[ななついろ★ドロップスPure\!\!](https://ja.wikipedia.org/wiki/ななついろ★ドロップスPure!! "wikilink") OP曲）
       - \#7（[5月18日](../Page/5月18日.md "wikilink")）：虹色のルシア／[KIYO](https://ja.wikipedia.org/wiki/KIYO "wikilink")（ななついろ★ドロップス、ななついろ★ドロップスPure\!\! 秋姫すももED曲）
       - \#9（[6月1日](../Page/6月1日.md "wikilink")）：★★★ダイスキ★★★／Akira（ななついろ★ドロップス、ななついろ★ドロップスPure\!\! 結城ノナED曲）
       - \#11（[6月15日](../Page/6月15日.md "wikilink")）：あしたへ……あなたへ。／KIYO（ななついろ★ドロップス、ななついろ★ドロップスPure\!\! 八重野撫子ED曲）
@@ -72,16 +72,16 @@
 
   - 黒いお悩み相談ルーム
     第27回から追加。
-    10月5日配信分より開始された新コーナー。黒ユキちゃん（声：[後藤麻衣](https://ja.wikipedia.org/wiki/後藤麻衣_\(声優\) "wikilink")）が、辛口トークでリスナーの相談を切る。後藤麻衣曰く、「『後藤さん』が答えるんじゃなくて、あくまで『ユキちゃん』が台本通りに答えるので恨まないで」とのこと。
+    10月5日配信分より開始された新コーナー。黒ユキちゃん（声：[後藤麻衣](../Page/後藤麻衣_\(声優\).md "wikilink")）が、辛口トークでリスナーの相談を切る。後藤麻衣曰く、「『後藤さん』が答えるんじゃなくて、あくまで『ユキちゃん』が台本通りに答えるので恨まないで」とのこと。
 
 ## ゲスト
 
-  - \#4,5,20,31（4月27日, 5月2日, 8月16日, 11月30日）: [成瀬未亜](https://ja.wikipedia.org/wiki/成瀬未亜 "wikilink")（PS2版・皐ユリーシア役）
-  - \#6,31（5月11日, 11月30日）: [いとうのいぢ](https://ja.wikipedia.org/wiki/いとうのいぢ "wikilink")（原画家）
-  - \#13(6月29日）: [野島裕史](https://ja.wikipedia.org/wiki/野島裕史 "wikilink")（アニメ版・石蕗正晴役）
-  - \#14(7月6日): [黒河奈美](https://ja.wikipedia.org/wiki/黒河奈美 "wikilink")（PS2版およびアニメ版・小岩井フローラ役）
-  - \#15(7月13日): [神野正樹](https://ja.wikipedia.org/wiki/神野正樹 "wikilink")（シナリオライター）
-  - \#17(7月27日): [LOVERIN TAMBURIN](https://ja.wikipedia.org/wiki/LOVERIN_TAMBURIN "wikilink")
+  - \#4,5,20,31（4月27日, 5月2日, 8月16日, 11月30日）: [成瀬未亜](../Page/成瀬未亜.md "wikilink")（PS2版・皐ユリーシア役）
+  - \#6,31（5月11日, 11月30日）: [いとうのいぢ](../Page/いとうのいぢ.md "wikilink")（原画家）
+  - \#13(6月29日）: [野島裕史](../Page/野島裕史.md "wikilink")（アニメ版・石蕗正晴役）
+  - \#14(7月6日): [黒河奈美](../Page/黒河奈美.md "wikilink")（PS2版およびアニメ版・小岩井フローラ役）
+  - \#15(7月13日): [神野正樹](../Page/神野正樹.md "wikilink")（シナリオライター）
+  - \#17(7月27日): [LOVERIN TAMBURIN](../Page/LOVERIN_TAMBURIN.md "wikilink")
 
 ## 脚注
 

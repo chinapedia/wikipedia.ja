@@ -5,7 +5,7 @@
 
 ## 解説
 
-[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")[シングル](../Page/シングル.md "wikilink")「[Forever Memories](https://ja.wikipedia.org/wiki/Forever_Memories "wikilink")」から12thシングル「[キレイだ](https://ja.wikipedia.org/wiki/キレイだ "wikilink")」までの12枚のシングルと、今[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")までにリリースされた3枚の[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")から選りすぐった人気曲4曲を網羅したw-inds.初のベストアルバム。全16曲収録。
+[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")[シングル](../Page/シングル.md "wikilink")「[Forever Memories](../Page/Forever_Memories.md "wikilink")」から12thシングル「[キレイだ](https://ja.wikipedia.org/wiki/キレイだ "wikilink")」までの12枚のシングルと、今[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")までにリリースされた3枚の[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")から選りすぐった人気曲4曲を網羅したw-inds.初のベストアルバム。全16曲収録。
 
 タイトルの"bestracks"は、ベストアルバムの“ベスト”と、楽曲の単位を表す“[トラック](../Page/トラック.md "wikilink")”と、日本語で“軌跡”を表す"track"という英単語を混ぜた[造語](../Page/造語.md "wikilink")である。
 
@@ -43,13 +43,13 @@
 <tr class="even">
 <td><p>M-2</p></td>
 <td><p>Feel The Fate</p></td>
-<td><p><a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ系</a>『<a href="https://ja.wikipedia.org/wiki/とりあえずイイ感じ。" title="wikilink">とりあえずイイ感じ。</a>』<a href="https://ja.wikipedia.org/wiki/エンディングテーマ" title="wikilink">エンディングテーマ</a><br />
+<td><p><a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ系</a>『<a href="../Page/とりあえずイイ感じ。.md" title="wikilink">とりあえずイイ感じ。</a>』<a href="https://ja.wikipedia.org/wiki/エンディングテーマ" title="wikilink">エンディングテーマ</a><br />
 日本テレビ系『shinD六本木野獣会』エンディングテーマ</p></td>
 </tr>
 <tr class="odd">
 <td><p>M-3</p></td>
 <td><p>Paradox</p></td>
-<td><p>日本テレビ系『<a href="https://ja.wikipedia.org/wiki/FUN" title="wikilink">FUN</a>』FUN'S RECOMMEND#019<br />
+<td><p>日本テレビ系『<a href="../Page/FUN.md" title="wikilink">FUN</a>』FUN'S RECOMMEND#019<br />
 映画『<a href="https://ja.wikipedia.org/wiki/Star_Light" title="wikilink">Star Light</a>』主題歌</p></td>
 </tr>
 <tr class="even">
@@ -76,7 +76,7 @@
 <tr class="even">
 <td><p>M-11</p></td>
 <td><p>SUPER LOVER〜I need you tonight〜</p></td>
-<td><p>日本テレビ系『<a href="https://ja.wikipedia.org/wiki/あんたにグラッツェ!" title="wikilink">あんグラ☆NOW!</a>』2003年5月度<a href="https://ja.wikipedia.org/wiki/エンディングテーマ" title="wikilink">エンディングテーマ</a></p></td>
+<td><p>日本テレビ系『<a href="../Page/あんたにグラッツェ!.md" title="wikilink">あんグラ☆NOW!</a>』2003年5月度<a href="https://ja.wikipedia.org/wiki/エンディングテーマ" title="wikilink">エンディングテーマ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>M-12</p></td>

@@ -1,22 +1,22 @@
 > この記事は[The Intergalactic Collection ](https://ja.wikipedia.org/wiki/The_Intergalactic_Collection_)から翻訳されています。
 
 
-『'''The Intergalactic Collection 〜ギャラコレ〜 '''』（ジ・インターギャラクティック・コレクション）は、[2003年](../Page/2003年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")に発売された、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽グループである](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")の初の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")である。[2002年](../Page/2002年.md "wikilink")にグループを脱退した[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")の[LISA在籍期間に発表した楽曲により構成されている](https://ja.wikipedia.org/wiki/LISA_\(歌手\) "wikilink")。
+『'''The Intergalactic Collection 〜ギャラコレ〜 '''』（ジ・インターギャラクティック・コレクション）は、[2003年](../Page/2003年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")に発売された、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽グループである](../Page/音楽ユニット.md "wikilink")[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")の初の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")である。[2002年](../Page/2002年.md "wikilink")にグループを脱退した[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")の[LISA在籍期間に発表した楽曲により構成されている](../Page/LISA_\(歌手\).md "wikilink")。
 
 ## 解説
 
-  - 「come again... and AGAIN\!」およびインディーズ時代の楽曲を収録したボーナスCDを含む2枚組。Disc 1 のみ[CCCDである](../Page/コピーコントロールCD.md "wikilink")。Disc 2 は[CD EXTRA仕様であり](https://ja.wikipedia.org/wiki/CD_EXTRA "wikilink")、特典映像が収録されている。
+  - 「come again... and AGAIN\!」およびインディーズ時代の楽曲を収録したボーナスCDを含む2枚組。Disc 1 のみ[CCCDである](../Page/コピーコントロールCD.md "wikilink")。Disc 2 は[CD EXTRA仕様であり](../Page/CD_EXTRA.md "wikilink")、特典映像が収録されている。
   - 選曲はオフィシャルサイト上での人気投票を基に行われた。
-  - [インタールード](https://ja.wikipedia.org/wiki/インタールード "wikilink")には[Lori Fine](https://ja.wikipedia.org/wiki/Lori_Fine "wikilink") ([COLDFEET](https://ja.wikipedia.org/wiki/COLDFEET "wikilink"))、[パトリック・ハーラン](https://ja.wikipedia.org/wiki/パトリック・ハーラン "wikilink")（[パックンマックン](../Page/パックンマックン.md "wikilink")）らが参加。
+  - [インタールード](https://ja.wikipedia.org/wiki/インタールード "wikilink")には[Lori Fine](https://ja.wikipedia.org/wiki/Lori_Fine "wikilink") ([COLDFEET](https://ja.wikipedia.org/wiki/COLDFEET "wikilink"))、[パトリック・ハーラン](../Page/パトリック・ハーラン.md "wikilink")（[パックンマックン](../Page/パックンマックン.md "wikilink")）らが参加。
   - インタールードのストーリーは、「m-floが主催する宇宙規模のファッションショー "INTERGALACTIC COLLECTION 2013" 」である。
-  - 以下の楽曲はオリジナルアルバム『[Planet Shining](https://ja.wikipedia.org/wiki/Planet_Shining "wikilink")』（[2000年](../Page/2000年.md "wikilink")） および『[EXPO EXPO](https://ja.wikipedia.org/wiki/EXPO_EXPO "wikilink")』（2002年）には収録されていない: 「MIrrorball Satellite 2012」「flo jack」「One Sugar Dream」。
-  - 「[Quantan Leap](https://ja.wikipedia.org/wiki/the_Quantum_EP "wikilink")」はオリジナルバージョンではなく、『[THE REPLACEMENT PERCUSSIONISTS](https://ja.wikipedia.org/wiki/The_Replacement_Percussionists "wikilink")』（2000年）に収録されている"DJ Watarai Remix"バージョンである。
+  - 以下の楽曲はオリジナルアルバム『[Planet Shining](../Page/Planet_Shining.md "wikilink")』（[2000年](../Page/2000年.md "wikilink")） および『[EXPO EXPO](../Page/EXPO_EXPO.md "wikilink")』（2002年）には収録されていない: 「MIrrorball Satellite 2012」「flo jack」「One Sugar Dream」。
+  - 「[Quantan Leap](https://ja.wikipedia.org/wiki/the_Quantum_EP "wikilink")」はオリジナルバージョンではなく、『[THE REPLACEMENT PERCUSSIONISTS](../Page/The_Replacement_Percussionists.md "wikilink")』（2000年）に収録されている"DJ Watarai Remix"バージョンである。
 
 ## 収録曲
 
 1.  The Intergalactic Collection (Interlude)
 2.  [How You Like Me Now?](../Page/How_You_Like_Me_Now?.md "wikilink")
-      - 2ndアルバム「[EXPO EXPO](https://ja.wikipedia.org/wiki/EXPO_EXPO "wikilink")」に収録されているアカペラから始まるフックバージョンで収録。
+      - 2ndアルバム「[EXPO EXPO](../Page/EXPO_EXPO.md "wikilink")」に収録されているアカペラから始まるフックバージョンで収録。
 3.  Mirrorball Satellite 2012
 4.  [Quantum Leap (DJ Watarai Remix)](https://ja.wikipedia.org/wiki/the_Quantum_EP "wikilink")
 5.  The Cat Walk (Interlude)

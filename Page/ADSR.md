@@ -5,7 +5,7 @@
 
 ## 概要
 
-シンセサイザー（[アナログシンセサイザー](https://ja.wikipedia.org/wiki/アナログシンセサイザー "wikilink")の場合）の3つの音声信号の機能 ([VCO](https://ja.wikipedia.org/wiki/VCO "wikilink")/[VCF](../Page/VCF.md "wikilink")/[VCA](https://ja.wikipedia.org/wiki/VCA "wikilink")) は、任意の電圧で制御する事により作動する。また、ノートオン・ノートオフ（鍵盤楽器にたとえると、鍵盤の鍵を押す／離す事に相当する）に応じて、楽器音的な時間的変化をする制御信号を作り出し、それを音声信号の機能に送るのがエンベロープ・ジェネレーターの役目になっている。
+シンセサイザー（[アナログシンセサイザー](../Page/アナログシンセサイザー.md "wikilink")の場合）の3つの音声信号の機能 ([VCO](https://ja.wikipedia.org/wiki/VCO "wikilink")/[VCF](../Page/VCF.md "wikilink")/[VCA](https://ja.wikipedia.org/wiki/VCA "wikilink")) は、任意の電圧で制御する事により作動する。また、ノートオン・ノートオフ（鍵盤楽器にたとえると、鍵盤の鍵を押す／離す事に相当する）に応じて、楽器音的な時間的変化をする制御信号を作り出し、それを音声信号の機能に送るのがエンベロープ・ジェネレーターの役目になっている。
 
 ## 機能
 
@@ -24,6 +24,6 @@
 
 ## ADSR以外のパターン
 
-パラメーターの数はA、D、S、Rの4つという場合が多いが、[コルグ](https://ja.wikipedia.org/wiki/コルグ "wikilink")の一部の機種のように5つのものや、[オーバーハイム](https://ja.wikipedia.org/wiki/オーバーハイム "wikilink")の初期の機種では3つというものもあり、必ずしも4つではない。
+パラメーターの数はA、D、S、Rの4つという場合が多いが、[コルグ](https://ja.wikipedia.org/wiki/コルグ "wikilink")の一部の機種のように5つのものや、[オーバーハイム](../Page/オーバーハイム.md "wikilink")の初期の機種では3つというものもあり、必ずしも4つではない。
 
 [Category:シンセサイザー](https://ja.wikipedia.org/wiki/Category:シンセサイザー "wikilink") [Category:電子音源の合成方式](https://ja.wikipedia.org/wiki/Category:電子音源の合成方式 "wikilink")

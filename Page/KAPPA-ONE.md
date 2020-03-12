@@ -9,7 +9,7 @@
 
 受賞作はすべて、光文社の[カッパ・ノベルス](https://ja.wikipedia.org/wiki/カッパ・ノベルス "wikilink")から刊行されている。2008年6月の締め切りを伝えて以降、公式サイトの情報が更新されておらず、現在原稿の募集をしているかは不明である。
 
-初回だけは純粋な公募ではなく、光文社文庫の公募アンソロジー『[本格推理](https://ja.wikipedia.org/wiki/本格推理_\(光文社文庫\) "wikilink")』に掲載されたことのあるアマチュア作家から4人（[石持浅海](https://ja.wikipedia.org/wiki/石持浅海 "wikilink")、[林泰広](https://ja.wikipedia.org/wiki/林泰広 "wikilink")、[東川篤哉](https://ja.wikipedia.org/wiki/東川篤哉 "wikilink")、[加賀美雅之](https://ja.wikipedia.org/wiki/加賀美雅之 "wikilink")）が選出された。4人の書き下ろし長編は2002年4月にKAPPA-ONEの第一期として刊行された。この4作品はすべて推理小説だったが、KAPPA-ONE自体は推理小説の賞というわけではなく、その後推理小説を発表したのは[相原大輔](https://ja.wikipedia.org/wiki/相原大輔 "wikilink")、[船越百恵](https://ja.wikipedia.org/wiki/船越百恵 "wikilink")、[詠坂雄二](https://ja.wikipedia.org/wiki/詠坂雄二 "wikilink")の3人だけである。KAPPA-ONEから刊行された14作品中、推理小説は半分の7作品である。
+初回だけは純粋な公募ではなく、光文社文庫の公募アンソロジー『[本格推理](https://ja.wikipedia.org/wiki/本格推理_\(光文社文庫\) "wikilink")』に掲載されたことのあるアマチュア作家から4人（[石持浅海](https://ja.wikipedia.org/wiki/石持浅海 "wikilink")、[林泰広](https://ja.wikipedia.org/wiki/林泰広 "wikilink")、[東川篤哉](https://ja.wikipedia.org/wiki/東川篤哉 "wikilink")、[加賀美雅之](../Page/加賀美雅之.md "wikilink")）が選出された。4人の書き下ろし長編は2002年4月にKAPPA-ONEの第一期として刊行された。この4作品はすべて推理小説だったが、KAPPA-ONE自体は推理小説の賞というわけではなく、その後推理小説を発表したのは[相原大輔](https://ja.wikipedia.org/wiki/相原大輔 "wikilink")、[船越百恵](https://ja.wikipedia.org/wiki/船越百恵 "wikilink")、[詠坂雄二](https://ja.wikipedia.org/wiki/詠坂雄二 "wikilink")の3人だけである。KAPPA-ONEから刊行された14作品中、推理小説は半分の7作品である。
 
 プロ・アマは問わないという規定であり、すでに書籍を刊行していた[陰山琢磨](https://ja.wikipedia.org/wiki/陰山琢磨 "wikilink")と[大濱真対](https://ja.wikipedia.org/wiki/大濱真対 "wikilink")もKAPPA-ONEから作品を刊行している。
 
@@ -19,13 +19,13 @@
       - [石持浅海](https://ja.wikipedia.org/wiki/石持浅海 "wikilink")：アイルランドの薔薇（推薦：[西澤保彦](../Page/西澤保彦.md "wikilink")）
       - [林泰広](https://ja.wikipedia.org/wiki/林泰広 "wikilink")：The unseen　見えない精霊（推薦：[泡坂妻夫](../Page/泡坂妻夫.md "wikilink")）
       - [東川篤哉](https://ja.wikipedia.org/wiki/東川篤哉 "wikilink")：密室の鍵貸します（推薦：[有栖川有栖](../Page/有栖川有栖.md "wikilink")）
-      - [加賀美雅之](https://ja.wikipedia.org/wiki/加賀美雅之 "wikilink")：双月城の惨劇（推薦：[二階堂黎人](../Page/二階堂黎人.md "wikilink")）
+      - [加賀美雅之](../Page/加賀美雅之.md "wikilink")：双月城の惨劇（推薦：[二階堂黎人](../Page/二階堂黎人.md "wikilink")）
   - 第二期（2003年5月-7月連続刊行）
       - [相原大輔](https://ja.wikipedia.org/wiki/相原大輔 "wikilink")：首切り坂（推薦：[若竹七海](https://ja.wikipedia.org/wiki/若竹七海 "wikilink")）
       - [浅田靖丸](https://ja.wikipedia.org/wiki/浅田靖丸 "wikilink")：幻神伝（推薦：[菊地秀行](../Page/菊地秀行.md "wikilink")）
       - [佐神良](https://ja.wikipedia.org/wiki/佐神良 "wikilink")（さがみ りょう）：S.I.B　セーラーガール・イン・ブラッド（推薦：[岩井志麻子](../Page/岩井志麻子.md "wikilink")）
   - 第三期（2004年6月、2冊同時刊行）
-      - [船越百恵](https://ja.wikipedia.org/wiki/船越百恵 "wikilink")：眼球蒐集家　アイボール コレクター（推薦：[三雲岳斗](https://ja.wikipedia.org/wiki/三雲岳斗 "wikilink")）
+      - [船越百恵](https://ja.wikipedia.org/wiki/船越百恵 "wikilink")：眼球蒐集家　アイボール コレクター（推薦：[三雲岳斗](../Page/三雲岳斗.md "wikilink")）
       - [陰山琢磨](https://ja.wikipedia.org/wiki/陰山琢磨 "wikilink")：蒼穹の槍（推薦：[山田正紀](../Page/山田正紀.md "wikilink")）
   - KAPPA-ONE 2005（2005年5月-6月連続刊行）
       - [大濱真対](https://ja.wikipedia.org/wiki/大濱真対 "wikilink")（おおはま まつい）：異進化猟域 バグズ（推薦：[牧野修](../Page/牧野修.md "wikilink")）

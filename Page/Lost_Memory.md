@@ -1,9 +1,9 @@
 > この記事は[Lost Memory](https://ja.wikipedia.org/wiki/Lost_Memory)から翻訳されています。
 
 
-『**Lost Memory**』（ロストメモリー）は、Child-Dreamにより制作された[RPGツクール95](https://ja.wikipedia.org/wiki/RPGツクール95 "wikilink")製の[ロールプレイングゲーム](../Page/ロールプレイングゲーム.md "wikilink")。
+『**Lost Memory**』（ロストメモリー）は、Child-Dreamにより制作された[RPGツクール95](../Page/RPGツクール95.md "wikilink")製の[ロールプレイングゲーム](../Page/ロールプレイングゲーム.md "wikilink")。
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")にリリースされ、[2001年](../Page/2001年.md "wikilink")には[RPGツクール2000](https://ja.wikipedia.org/wiki/RPGツクール2000 "wikilink")製のリメイク作品「**21世紀版Lost Memory**」がリリースされている。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")にリリースされ、[2001年](../Page/2001年.md "wikilink")には[RPGツクール2000](../Page/RPGツクール2000.md "wikilink")製のリメイク作品「**21世紀版Lost Memory**」がリリースされている。
 
 ## 内容
 

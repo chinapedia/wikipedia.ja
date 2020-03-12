@@ -1,41 +1,41 @@
 > この記事は[YANAGIMAN](https://ja.wikipedia.org/wiki/YANAGIMAN)から翻訳されています。
 
 
-**YANAGIMAN**（ヤナギマン、[1960年](../Page/1960年.md "wikilink")[11月9日](../Page/11月9日.md "wikilink") - ）は、[鹿児島県](https://ja.wikipedia.org/wiki/鹿児島県 "wikilink")[鹿児島市](../Page/鹿児島市.md "wikilink")出身の[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")、[編曲家](../Page/編曲家.md "wikilink")、[ベーシスト](../Page/ベーシスト.md "wikilink")、[YouTuber](https://ja.wikipedia.org/wiki/YouTuber "wikilink")である。[ケツメイシ](https://ja.wikipedia.org/wiki/ケツメイシ "wikilink")、[FUNKY MONKEY BABYSを始めとする様々なアーティストのプロデュース](https://ja.wikipedia.org/wiki/FUNKY_MONKEY_BABYS "wikilink")、作曲、作詞、編曲を手がけている。[燦々ぬまづ大使](https://ja.wikipedia.org/wiki/燦々ぬまづ大使 "wikilink")（静岡県沼津市PR大使）。[長浜ブランドアンバサダー（滋賀県長浜市PR大使）](../Page/長浜市.md "wikilink")。[奄美観光大使（鹿児島県奄美大島PR大使）](../Page/奄美大島.md "wikilink")。JOIN大使（一般社団法人 移住交流推進機構PR大使）。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+**YANAGIMAN**（ヤナギマン、[1960年](../Page/1960年.md "wikilink")[11月9日](../Page/11月9日.md "wikilink") - ）は、[鹿児島県](../Page/鹿児島県.md "wikilink")[鹿児島市](../Page/鹿児島市.md "wikilink")出身の[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")、[編曲家](../Page/編曲家.md "wikilink")、[ベーシスト](../Page/ベーシスト.md "wikilink")、[YouTuber](https://ja.wikipedia.org/wiki/YouTuber "wikilink")である。[ケツメイシ](../Page/ケツメイシ.md "wikilink")、[FUNKY MONKEY BABYSを始めとする様々なアーティストのプロデュース](https://ja.wikipedia.org/wiki/FUNKY_MONKEY_BABYS "wikilink")、作曲、作詞、編曲を手がけている。[燦々ぬまづ大使](https://ja.wikipedia.org/wiki/燦々ぬまづ大使 "wikilink")（静岡県沼津市PR大使）。[長浜ブランドアンバサダー（滋賀県長浜市PR大使）](../Page/長浜市.md "wikilink")。[奄美観光大使（鹿児島県奄美大島PR大使）](../Page/奄美大島.md "wikilink")。JOIN大使（一般社団法人 移住交流推進機構PR大使）。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
 
 ## 来歴
 
-鹿児島県の奄美大島で生まれ育ち。[鹿児島県立鶴丸高等学校](https://ja.wikipedia.org/wiki/鹿児島県立鶴丸高等学校 "wikilink")卒業。[熊本大学](../Page/熊本大学.md "wikilink")[薬学部](../Page/薬学部.md "wikilink")中退。子供の頃から音楽に親しんでいて、最初に影響を受けたのは[サイモン&ガーファンクル](../Page/サイモン&ガーファンクル.md "wikilink")。大学のときは[アース・ウィンド・アンド・ファイアー](../Page/アース・ウィンド・アンド・ファイアー.md "wikilink")に夢中。その後ジャズミュージシャンとして東京で音楽活動。
+鹿児島県の奄美大島で生まれ育ち。[鹿児島県立鶴丸高等学校](../Page/鹿児島県立鶴丸高等学校.md "wikilink")卒業。[熊本大学](../Page/熊本大学.md "wikilink")[薬学部](../Page/薬学部.md "wikilink")中退。子供の頃から音楽に親しんでいて、最初に影響を受けたのは[サイモン&ガーファンクル](../Page/サイモン&ガーファンクル.md "wikilink")。大学のときは[アース・ウィンド・アンド・ファイアー](../Page/アース・ウィンド・アンド・ファイアー.md "wikilink")に夢中。その後ジャズミュージシャンとして東京で音楽活動。
 
-[1989年](../Page/1989年.md "wikilink")、マサチューセッツ州ボストンの[バークリー音楽大学](https://ja.wikipedia.org/wiki/バークリー音楽大学 "wikilink")へ入学。帰国後[福岡へ](https://ja.wikipedia.org/wiki/福岡県 "wikilink")。テレビで[レポーター](https://ja.wikipedia.org/wiki/レポーター "wikilink")などを務める。[デイト・オブ・バース](https://ja.wikipedia.org/wiki/デイト・オブ・バース "wikilink")のレコーディングとツアーに参加。
+[1989年](../Page/1989年.md "wikilink")、マサチューセッツ州ボストンの[バークリー音楽大学](../Page/バークリー音楽大学.md "wikilink")へ入学。帰国後[福岡へ](../Page/福岡県.md "wikilink")。テレビで[レポーター](https://ja.wikipedia.org/wiki/レポーター "wikilink")などを務める。[デイト・オブ・バース](../Page/デイト・オブ・バース.md "wikilink")のレコーディングとツアーに参加。
 
-[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、35歳のときに『サウンド＆レコーディング・マガジン』主催のコンテストで優勝したのをきっかけに活動の拠点を東京に移す。アーティストからアーティストへの紹介で、いろいろな仕事が入ってくるようになり、Soul loversのプロデュース、アレンジを始める。その後、Soul loversのMahyaの紹介で[ケツメイシ](https://ja.wikipedia.org/wiki/ケツメイシ "wikilink")と知り合い、作品を作り始める。ケツメイシのヒップホップ系の楽曲を手がけてヒットしたが、もともとは普通のポップスなどしかやっておらず、[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")や[ヒップホップ](../Page/ヒップホップ.md "wikilink")は得意なジャンルではなく新ジャンル開拓のために、かなり勉強した\[1\]。
+[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、35歳のときに『サウンド＆レコーディング・マガジン』主催のコンテストで優勝したのをきっかけに活動の拠点を東京に移す。アーティストからアーティストへの紹介で、いろいろな仕事が入ってくるようになり、Soul loversのプロデュース、アレンジを始める。その後、Soul loversのMahyaの紹介で[ケツメイシ](../Page/ケツメイシ.md "wikilink")と知り合い、作品を作り始める。ケツメイシのヒップホップ系の楽曲を手がけてヒットしたが、もともとは普通のポップスなどしかやっておらず、[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")や[ヒップホップ](../Page/ヒップホップ.md "wikilink")は得意なジャンルではなく新ジャンル開拓のために、かなり勉強した\[1\]。
 
-国内ではケツメイシ、[FUNKY MONKEY BABYS](https://ja.wikipedia.org/wiki/FUNKY_MONKEY_BABYS "wikilink")、[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")、[Crystal Kay](https://ja.wikipedia.org/wiki/Crystal_Kay "wikilink")、[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")、[中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")、[加藤ミリヤ](https://ja.wikipedia.org/wiki/加藤ミリヤ "wikilink")、[エレファントカシマシ](https://ja.wikipedia.org/wiki/エレファントカシマシ "wikilink")、[BoA](../Page/BoA.md "wikilink")、[Def Tech](https://ja.wikipedia.org/wiki/Def_Tech "wikilink")、[平原綾香](https://ja.wikipedia.org/wiki/平原綾香 "wikilink")など様々なアーティストへの楽曲提供や編曲、プロデュースを行う。また、ビルボードシーンで活躍中の[Usherの](https://ja.wikipedia.org/wiki/アッシャー_\(歌手\) "wikilink")[リミックス](https://ja.wikipedia.org/wiki/リミックス "wikilink")や、香港の歌手IVANWANG、[HotCha](https://ja.wikipedia.org/wiki/HotCha "wikilink")、[Ella Koonなど国外のアーティストへの楽曲提供も行う](https://ja.wikipedia.org/wiki/エラ・クーン "wikilink")。
+国内ではケツメイシ、[FUNKY MONKEY BABYS](https://ja.wikipedia.org/wiki/FUNKY_MONKEY_BABYS "wikilink")、[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")、[Crystal Kay](https://ja.wikipedia.org/wiki/Crystal_Kay "wikilink")、[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")、[中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")、[加藤ミリヤ](https://ja.wikipedia.org/wiki/加藤ミリヤ "wikilink")、[エレファントカシマシ](https://ja.wikipedia.org/wiki/エレファントカシマシ "wikilink")、[BoA](../Page/BoA.md "wikilink")、[Def Tech](https://ja.wikipedia.org/wiki/Def_Tech "wikilink")、[平原綾香](https://ja.wikipedia.org/wiki/平原綾香 "wikilink")など様々なアーティストへの楽曲提供や編曲、プロデュースを行う。また、ビルボードシーンで活躍中の[Usherの](../Page/アッシャー_\(歌手\).md "wikilink")[リミックス](../Page/リミックス.md "wikilink")や、香港の歌手IVANWANG、[HotCha](../Page/HotCha.md "wikilink")、[Ella Koonなど国外のアーティストへの楽曲提供も行う](https://ja.wikipedia.org/wiki/エラ・クーン "wikilink")。
 
-[2007年](../Page/2007年.md "wikilink")にはBoA『[LOVE LETTER](https://ja.wikipedia.org/wiki/LOVE_LETTER_\(BoAの曲\) "wikilink")』でレコード大賞金賞\[2\]、2011年にはFUNKY MONKEY BABYS『[それでも信じてる](https://ja.wikipedia.org/wiki/それでも信じてる/ラブレター "wikilink")』\[3\]でレコード大賞優秀作品賞を受賞した。
+[2007年](../Page/2007年.md "wikilink")にはBoA『[LOVE LETTER](../Page/LOVE_LETTER_\(BoAの曲\).md "wikilink")』でレコード大賞金賞\[2\]、2011年にはFUNKY MONKEY BABYS『[それでも信じてる](https://ja.wikipedia.org/wiki/それでも信じてる/ラブレター "wikilink")』\[3\]でレコード大賞優秀作品賞を受賞した。
 
 [2013年](../Page/2013年.md "wikilink")までに関わってきた作品の累積出荷枚数が2,000万枚以上に達している\[4\]。
 
 [2018年](../Page/2018年.md "wikilink")[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")、YouTube『桜坂ちゃんねる』を開始。[高木豊](../Page/高木豊.md "wikilink")と飯野雅がMCを務める野球番組や、自身もミュージシャンオーディション番組などに出演し配信している。
 
-[2019年](../Page/2019年.md "wikilink")[5月3日](https://ja.wikipedia.org/wiki/5月3日 "wikilink")、カンボジアの孤児院への寄付を熱望するYANAGIMANは、その趣旨に賛同してくれた[島谷ひとみ](https://ja.wikipedia.org/wiki/島谷ひとみ "wikilink")に新譜を書き下ろし。2万人強の[パシフィコ横浜で](https://ja.wikipedia.org/wiki/横浜国際平和会議場 "wikilink")『サイクル』を披露する\[5\]。
+[2019年](../Page/2019年.md "wikilink")[5月3日](../Page/5月3日.md "wikilink")、カンボジアの孤児院への寄付を熱望するYANAGIMANは、その趣旨に賛同してくれた[島谷ひとみ](https://ja.wikipedia.org/wiki/島谷ひとみ "wikilink")に新譜を書き下ろし。2万人強の[パシフィコ横浜で](../Page/横浜国際平和会議場.md "wikilink")『サイクル』を披露する\[5\]。
 
 ## 主な代表作
 
   - 『[それでも信じてる](https://ja.wikipedia.org/wiki/それでも信じてる/ラブレター "wikilink")』『[ありがとう](https://ja.wikipedia.org/wiki/ありがとう_\(FUNKY_MONKEY_BABYSの曲\) "wikilink")』[FUNKY MONKEY BABYS](https://ja.wikipedia.org/wiki/FUNKY_MONKEY_BABYS "wikilink")\[6\]
-  - 『[LOVE LETTER](https://ja.wikipedia.org/wiki/LOVE_LETTER_\(BoAの曲\) "wikilink")』『[make a secret](https://ja.wikipedia.org/wiki/make_a_secret "wikilink")』『[DO THE MOTION](https://ja.wikipedia.org/wiki/DO_THE_MOTION "wikilink")』[BoA](../Page/BoA.md "wikilink")
-  - 『[バラード](https://ja.wikipedia.org/wiki/バラード/君とつくる未来 "wikilink")』『[さくら](https://ja.wikipedia.org/wiki/さくら_\(ケツメイシの曲\) "wikilink")』『[トモダチ](https://ja.wikipedia.org/wiki/トモダチ_\(ケツメイシの曲\) "wikilink")』『[夏の思い出](../Page/夏の思い出_\(ケツメイシの曲\).md "wikilink")』『[涙](../Page/涙_\(ケツメイシの曲\).md "wikilink")』[ケツメイシ](https://ja.wikipedia.org/wiki/ケツメイシ "wikilink")\[7\]
+  - 『[LOVE LETTER](../Page/LOVE_LETTER_\(BoAの曲\).md "wikilink")』『[make a secret](https://ja.wikipedia.org/wiki/make_a_secret "wikilink")』『[DO THE MOTION](../Page/DO_THE_MOTION.md "wikilink")』[BoA](../Page/BoA.md "wikilink")
+  - 『[バラード](https://ja.wikipedia.org/wiki/バラード/君とつくる未来 "wikilink")』『[さくら](../Page/さくら_\(ケツメイシの曲\).md "wikilink")』『[トモダチ](https://ja.wikipedia.org/wiki/トモダチ_\(ケツメイシの曲\) "wikilink")』『[夏の思い出](../Page/夏の思い出_\(ケツメイシの曲\).md "wikilink")』『[涙](../Page/涙_\(ケツメイシの曲\).md "wikilink")』[ケツメイシ](../Page/ケツメイシ.md "wikilink")\[7\]
   - 『[素直なまま](https://ja.wikipedia.org/wiki/素直なまま "wikilink")』[中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")
-  - 『[Lies](https://ja.wikipedia.org/wiki/Lies "wikilink")』[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")
+  - 『[Lies](../Page/Lies.md "wikilink")』[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")
   - 『[FLOATIN'](https://ja.wikipedia.org/wiki/FLOATIN' "wikilink")』『愛しすぎて』『STILL ECHO』[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")
   - 『[1,2,3 for 5](https://ja.wikipedia.org/wiki/1,2,3_for_5 "wikilink")』『くれないの街』『見つめられない』『愛のシューティングスター』[ゴスペラーズ](../Page/ゴスペラーズ.md "wikilink")\[8\]
-  - 『[俺たちの明日](https://ja.wikipedia.org/wiki/俺たちの明日 "wikilink")』『[大地のシンフォニー](https://ja.wikipedia.org/wiki/大地のシンフォニー "wikilink")』\[9\]『[starting over](https://ja.wikipedia.org/wiki/STARTING_OVER_\(エレファントカシマシのアルバム\) "wikilink")』『まぬけなJohnny』『FLYER』[エレファントカシマシ](https://ja.wikipedia.org/wiki/エレファントカシマシ "wikilink")\[10\]\[11\]
+  - 『[俺たちの明日](../Page/俺たちの明日.md "wikilink")』『[大地のシンフォニー](https://ja.wikipedia.org/wiki/大地のシンフォニー "wikilink")』\[9\]『[starting over](../Page/STARTING_OVER_\(エレファントカシマシのアルバム\).md "wikilink")』『まぬけなJohnny』『FLYER』[エレファントカシマシ](https://ja.wikipedia.org/wiki/エレファントカシマシ "wikilink")\[10\]\[11\]
   - 『[One Time](https://ja.wikipedia.org/wiki/One_Time "wikilink")』『[オメデトウ](https://ja.wikipedia.org/wiki/オメデトウ_\(mihimaru_GTの曲\) "wikilink")』[mihimaru GT](https://ja.wikipedia.org/wiki/mihimaru_GT "wikilink")
   - 『[勇者たち](https://ja.wikipedia.org/wiki/勇者たち "wikilink")』[加藤ミリヤ](https://ja.wikipedia.org/wiki/加藤ミリヤ "wikilink")
   - 『[なんとかなるさ](https://ja.wikipedia.org/wiki/pacific_\(NEWSのアルバム\) "wikilink")』[NEWS](https://ja.wikipedia.org/wiki/NEWS_\(グループ\) "wikilink")
   - 『[Motherland](https://ja.wikipedia.org/wiki/Motherland_\(Crystal_Kayの曲\) "wikilink")』[Crystal Kay](https://ja.wikipedia.org/wiki/Crystal_Kay "wikilink")
-  - 『[遠くても 遠くても](https://ja.wikipedia.org/wiki/遠くても_遠くても "wikilink")』『[Sing a Song](https://ja.wikipedia.org/wiki/Sing_a_Song_\(Skoop_On_Somebodyの曲\) "wikilink")』[Skoop On Somebody](https://ja.wikipedia.org/wiki/Skoop_On_Somebody "wikilink")
+  - 『[遠くても 遠くても](https://ja.wikipedia.org/wiki/遠くても_遠くても "wikilink")』『[Sing a Song](https://ja.wikipedia.org/wiki/Sing_a_Song_\(Skoop_On_Somebodyの曲\) "wikilink")』[Skoop On Somebody](../Page/Skoop_On_Somebody.md "wikilink")
   - 『[Love is… with KG](https://ja.wikipedia.org/wiki/Love_is…_with_KG/好きでいさせて "wikilink")』『[さよならをキミに...feat.Spontania](https://ja.wikipedia.org/wiki/さよならをキミに...feat.Spontania "wikilink")』『[キミがおしえてくれた事feat.SEAMO](https://ja.wikipedia.org/wiki/キミがおしえてくれた事feat.SEAMO "wikilink")』『[ヒカリ](https://ja.wikipedia.org/wiki/ヒカリ_\(Tiaraの曲\) "wikilink")』[Tiara](https://ja.wikipedia.org/wiki/Tiara "wikilink")\[12\]
 
 ## 手掛けた主な関連アーティスト (プロデュース・作曲・編曲)
@@ -45,40 +45,40 @@
   - [RSP](../Page/RSP_\(音楽グループ\).md "wikilink")
   - [青山テルマ](https://ja.wikipedia.org/wiki/青山テルマ "wikilink")
   - [阿川泰子](../Page/阿川泰子.md "wikilink")
-  - [Usher](https://ja.wikipedia.org/wiki/アッシャー_\(歌手\) "wikilink")
+  - [Usher](../Page/アッシャー_\(歌手\).md "wikilink")
   - [阿部真央](https://ja.wikipedia.org/wiki/阿部真央 "wikilink")\[13\]
-  - [アルファ](https://ja.wikipedia.org/wiki/アルファ_\(音楽グループ\) "wikilink")
+  - [アルファ](../Page/アルファ_\(音楽グループ\).md "wikilink")
   - eT
   - 石田託也
-  - [伊禮麻乃](https://ja.wikipedia.org/wiki/伊禮麻乃 "wikilink")
-  - [エイジアエンジニア](https://ja.wikipedia.org/wiki/エイジアエンジニア "wikilink")
+  - [伊禮麻乃](../Page/伊禮麻乃.md "wikilink")
+  - [エイジアエンジニア](../Page/エイジアエンジニア.md "wikilink")
   - EDEN\[14\]
   - [Every Little Thing](../Page/Every_Little_Thing.md "wikilink")
   - [Ella Koon](https://ja.wikipedia.org/wiki/エラ・クーン "wikilink")
   - [エレファントカシマシ](https://ja.wikipedia.org/wiki/エレファントカシマシ "wikilink")
-  - [岡本真夜](https://ja.wikipedia.org/wiki/岡本真夜 "wikilink")
-  - [奥華子](https://ja.wikipedia.org/wiki/奥華子 "wikilink")
+  - [岡本真夜](../Page/岡本真夜.md "wikilink")
+  - [奥華子](../Page/奥華子.md "wikilink")
   - [オレンジポート](https://ja.wikipedia.org/wiki/ORANGE_PORT "wikilink")\[15\]
 
 ### か行
 
   - [加藤ミリヤ](https://ja.wikipedia.org/wiki/加藤ミリヤ "wikilink")
-  - [川口大輔](https://ja.wikipedia.org/wiki/川口大輔 "wikilink")
+  - [川口大輔](../Page/川口大輔.md "wikilink")
   - [関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")\[16\]
   - Kingrass Hoppers
   - Can'ce♡浜姫
-  - [葛谷葉子](https://ja.wikipedia.org/wiki/葛谷葉子 "wikilink")
-  - [久保田利伸](https://ja.wikipedia.org/wiki/久保田利伸 "wikilink")
+  - [葛谷葉子](../Page/葛谷葉子.md "wikilink")
+  - [久保田利伸](../Page/久保田利伸.md "wikilink")
   - [C・W・ニコル](../Page/C・W・ニコル.md "wikilink")
   - [Crystal Kay](https://ja.wikipedia.org/wiki/Crystal_Kay "wikilink")
   - [K](https://ja.wikipedia.org/wiki/K "wikilink")
   - [劇団番町ボーイズ☆](https://ja.wikipedia.org/wiki/劇団番町ボーイズ☆ "wikilink")\[17\]
-  - [ケツメイシ](https://ja.wikipedia.org/wiki/ケツメイシ "wikilink")
+  - [ケツメイシ](../Page/ケツメイシ.md "wikilink")
   - [CHEMISTRY](../Page/CHEMISTRY.md "wikilink")
   - kenshiro
   - [倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")
   - [ゴスペラーズ](../Page/ゴスペラーズ.md "wikilink")
-  - [COOLON](https://ja.wikipedia.org/wiki/COOLON "wikilink")
+  - [COOLON](../Page/COOLON.md "wikilink")
   - [果山サキ](https://ja.wikipedia.org/wiki/果山サキ "wikilink")
 
 ### さ行
@@ -90,13 +90,13 @@
   - [ji ma ma](https://ja.wikipedia.org/wiki/ji_ma_ma "wikilink")
   - [シクラメン](https://ja.wikipedia.org/wiki/シクラメン_\(グループ\) "wikilink")
   - [島谷ひとみ](https://ja.wikipedia.org/wiki/島谷ひとみ "wikilink")
-  - [清水翔太](https://ja.wikipedia.org/wiki/清水翔太 "wikilink")
+  - [清水翔太](../Page/清水翔太.md "wikilink")
   - [JAMIL](https://ja.wikipedia.org/wiki/ジャミール "wikilink")
   - Zooco
   - [Sweep](https://ja.wikipedia.org/wiki/Sweep "wikilink")
-  - [Skoop On Somebody](https://ja.wikipedia.org/wiki/Skoop_On_Somebody "wikilink")
+  - [Skoop On Somebody](../Page/Skoop_On_Somebody.md "wikilink")
   - [Spontania](../Page/Spontania.md "wikilink")（[Hi-Timez](https://ja.wikipedia.org/wiki/Hi-Timez "wikilink")）
-  - [鈴木桃子](https://ja.wikipedia.org/wiki/鈴木桃子 "wikilink")\[18\]
+  - [鈴木桃子](../Page/鈴木桃子.md "wikilink")\[18\]
   - [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")
   - [スリジエ](https://ja.wikipedia.org/wiki/スリジエ "wikilink")\[19\]
   - [three tight b](https://ja.wikipedia.org/wiki/three_tight_b "wikilink")
@@ -104,7 +104,7 @@
   - [関口和之](../Page/関口和之.md "wikilink")\[20\]
   - [関口和之 feat. KONISHIKI](../Page/関口和之.md "wikilink")
   - [関口和之](../Page/関口和之.md "wikilink")&砂山オールスターズ
-  - [世良公則](https://ja.wikipedia.org/wiki/世良公則 "wikilink")\[21\]
+  - [世良公則](../Page/世良公則.md "wikilink")\[21\]
   - ぜんりょくボーイズ\[22\]
   - [Sowelu](https://ja.wikipedia.org/wiki/Sowelu "wikilink")
   - SOUL LOVERS
@@ -120,11 +120,11 @@
     1.  ME\*
   - [Def Tech](https://ja.wikipedia.org/wiki/Def_Tech "wikilink")
   - [10神ACTOR](https://ja.wikipedia.org/wiki/10神ACTOR "wikilink")
-  - [童子-T](https://ja.wikipedia.org/wiki/童子-T "wikilink")\[26\]
+  - [童子-T](../Page/童子-T.md "wikilink")\[26\]
 
 ### な行
 
-  - [Nao](https://ja.wikipedia.org/wiki/三宅尚子 "wikilink")
+  - [Nao](../Page/三宅尚子.md "wikilink")
   - [中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")
   - [中西圭三](https://ja.wikipedia.org/wiki/中西圭三 "wikilink")
   - [NEWS](https://ja.wikipedia.org/wiki/NEWS_\(グループ\) "wikilink")
@@ -133,11 +133,11 @@
 ### は行
 
   - [橋本ひろし](../Page/橋本ひろし.md "wikilink")\[28\]
-  - [はるな愛](https://ja.wikipedia.org/wiki/はるな愛 "wikilink")\[29\]
+  - [はるな愛](../Page/はるな愛.md "wikilink")\[29\]
   - Vi jandeux
   - [美少女クラブ](https://ja.wikipedia.org/wiki/美少女クラブ "wikilink")
   - [hitomi](https://ja.wikipedia.org/wiki/hitomi "wikilink")
-  - [HIBARI](https://ja.wikipedia.org/wiki/HIBARI "wikilink")
+  - [HIBARI](../Page/HIBARI.md "wikilink")
   - [平原綾香](https://ja.wikipedia.org/wiki/平原綾香 "wikilink")
   - [FUNKY MONKEY BABYS](https://ja.wikipedia.org/wiki/FUNKY_MONKEY_BABYS "wikilink")
   - [ファンキー加藤](https://ja.wikipedia.org/wiki/ファンキー加藤 "wikilink")
@@ -150,12 +150,12 @@
   - [HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")
   - [星井七瀬](https://ja.wikipedia.org/wiki/星井七瀬 "wikilink")\[31\]
   - [星村麻衣](https://ja.wikipedia.org/wiki/星村麻衣 "wikilink")
-  - [FREENOTE](https://ja.wikipedia.org/wiki/FREENOTE "wikilink")
+  - [FREENOTE](../Page/FREENOTE.md "wikilink")
 
 ### ま行
 
   - [Micro](../Page/Micro.md "wikilink") ([Def Tech](https://ja.wikipedia.org/wiki/Def_Tech "wikilink"))
-  - [光永亮太](https://ja.wikipedia.org/wiki/光永亮太 "wikilink")
+  - [光永亮太](../Page/光永亮太.md "wikilink")
   - [Missing Link](../Page/Missing_Link.md "wikilink")\[32\]
   - [Missing Linkと塚地武雅](../Page/Missing_Link.md "wikilink")
   - [mihimaru GT](https://ja.wikipedia.org/wiki/mihimaru_GT "wikilink")
@@ -170,8 +170,8 @@
 
   - [やなわらばー](https://ja.wikipedia.org/wiki/やなわらばー "wikilink")
   - [山口岩男](https://ja.wikipedia.org/wiki/山口岩男 "wikilink")
-  - [山下久美子](https://ja.wikipedia.org/wiki/山下久美子 "wikilink")
-  - [湯別メインストリート](https://ja.wikipedia.org/wiki/湯別メインストリート "wikilink")
+  - [山下久美子](../Page/山下久美子.md "wikilink")
+  - [湯別メインストリート](../Page/湯別メインストリート.md "wikilink")
   - [Unico](https://ja.wikipedia.org/wiki/Unico "wikilink")
   - [UNISON SQUARE GARDEN](https://ja.wikipedia.org/wiki/UNISON_SQUARE_GARDEN "wikilink")
   - [吉見一星](https://ja.wikipedia.org/wiki/吉見一星 "wikilink")
@@ -179,12 +179,12 @@
 ### ら行
 
   - [LOVE](../Page/LOVE_\(歌手\).md "wikilink")
-  - [Runningman Tokyo](https://ja.wikipedia.org/wiki/ZOO_\(ダンス&ボーカルユニット\) "wikilink")\[33\]
-  - [Lead](https://ja.wikipedia.org/wiki/Lead "wikilink")
-  - [LISA](https://ja.wikipedia.org/wiki/LISA_\(歌手\) "wikilink")
+  - [Runningman Tokyo](../Page/ZOO_\(ダンス&ボーカルユニット\).md "wikilink")\[33\]
+  - [Lead](../Page/Lead.md "wikilink")
+  - [LISA](../Page/LISA_\(歌手\).md "wikilink")
   - [リサメロディー](https://ja.wikipedia.org/wiki/リサメロディー "wikilink")\[34\]
   - Ryuji
-  - [Leyona](https://ja.wikipedia.org/wiki/Leyona "wikilink")
+  - [Leyona](../Page/Leyona.md "wikilink")
   - [rosetta garden](https://ja.wikipedia.org/wiki/rosetta_garden "wikilink")
   - [lecca](https://ja.wikipedia.org/wiki/lecca "wikilink")
 

@@ -1,16 +1,16 @@
 > この記事は[D](https://ja.wikipedia.org/wiki/D)から翻訳されています。
 
 
-**アーサー・D・リトル**（Arthur D. Little）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[ボストン](../Page/ボストン.md "wikilink")で設立された、世界最古の[経営戦略](https://ja.wikipedia.org/wiki/経営戦略 "wikilink")[コンサルティング](https://ja.wikipedia.org/wiki/コンサルティング "wikilink")会社である。[1886年](../Page/1886年.md "wikilink")、[マサチューセッツ工科大学](../Page/マサチューセッツ工科大学.md "wikilink")の[科学者](../Page/科学者.md "wikilink")で、[酢酸塩](https://ja.wikipedia.org/wiki/酢酸塩 "wikilink")の発見者でもあるアーサー・デホン・リトルによって設立された。かつてはボストン・コンサルティング・グループ創設者のブルースヘンダーソンも所属していた。
+**アーサー・D・リトル**（Arthur D. Little）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[ボストン](../Page/ボストン.md "wikilink")で設立された、世界最古の[経営戦略](../Page/経営戦略.md "wikilink")[コンサルティング](../Page/コンサルティング.md "wikilink")会社である。[1886年](../Page/1886年.md "wikilink")、[マサチューセッツ工科大学](../Page/マサチューセッツ工科大学.md "wikilink")の[科学者](../Page/科学者.md "wikilink")で、[酢酸塩](https://ja.wikipedia.org/wiki/酢酸塩 "wikilink")の発見者でもあるアーサー・デホン・リトルによって設立された。かつてはボストン・コンサルティング・グループ創設者のブルースヘンダーソンも所属していた。
 
 「“Side-by-Side”、常に顧客とともにあること」をコンセプトとして、クライアントの“腹に落ちる”成果を出すことを目標としている。
 
 ## 概要
 
-[1886年](../Page/1886年.md "wikilink")の設立当初より、「技術をいかにビジネスや社会に応用するか。」という現在の[MOT](https://ja.wikipedia.org/wiki/技術経営 "wikilink")（Management of Technology）に近いビジョンを掲げていた。創業者のバックグラウンドによる影響もあり、技術力を中心としたマネジメントのコンサルティングに強みを持つ。
+[1886年](../Page/1886年.md "wikilink")の設立当初より、「技術をいかにビジネスや社会に応用するか。」という現在の[MOT](../Page/技術経営.md "wikilink")（Management of Technology）に近いビジョンを掲げていた。創業者のバックグラウンドによる影響もあり、技術力を中心としたマネジメントのコンサルティングに強みを持つ。
 具体的には技術をコアコンピタンスに掲げる企業に対する全社戦略・事業戦略や技術経営（MOT）を中心とした事業を行っており、具体的には TIME(TELECOMMUNICATION, INFORMATION, MEDIA & ELECTRONICS), Auto, Energy & Utilities, Chemicals, Consumer Goods and Retail, Healthcare , Manufacturing, Private Equity, Public Services, Travel & Transportationなどのクライアントに対してコンサルティング活動を行っている。\[1\]
 
-グローバルでは、約1,000人のコンサルタントがコンサルティング活動に従事している。主な戦略系コンサルティング会社の競合として、[マッキンゼー](https://ja.wikipedia.org/wiki/マッキンゼー "wikilink")、[ボストン・コンサルティング・グループ](https://ja.wikipedia.org/wiki/ボストン・コンサルティング・グループ "wikilink")、[ベイン・アンド・カンパニー](https://ja.wikipedia.org/wiki/ベイン・アンド・カンパニー "wikilink")、[A.T.カーニー](https://ja.wikipedia.org/wiki/A.T.カーニー "wikilink")、[ローランド・ベルガー](https://ja.wikipedia.org/wiki/ローランド・ベルガー "wikilink")、[Strategy&](https://ja.wikipedia.org/wiki/Strategy& "wikilink")、[L.E.K.コンサルティング](https://ja.wikipedia.org/wiki/L.E.K.コンサルティング "wikilink")が挙げられることが多い。
+グローバルでは、約1,000人のコンサルタントがコンサルティング活動に従事している。主な戦略系コンサルティング会社の競合として、[マッキンゼー](https://ja.wikipedia.org/wiki/マッキンゼー "wikilink")、[ボストン・コンサルティング・グループ](../Page/ボストン・コンサルティング・グループ.md "wikilink")、[ベイン・アンド・カンパニー](https://ja.wikipedia.org/wiki/ベイン・アンド・カンパニー "wikilink")、[A.T.カーニー](../Page/A.T.カーニー.md "wikilink")、[ローランド・ベルガー](../Page/ローランド・ベルガー.md "wikilink")、[Strategy&](https://ja.wikipedia.org/wiki/Strategy& "wikilink")、[L.E.K.コンサルティング](https://ja.wikipedia.org/wiki/L.E.K.コンサルティング "wikilink")が挙げられることが多い。
 
 ## 沿革
 
@@ -22,9 +22,9 @@
 
 リトル自身は事業を継続、[1909年](../Page/1909年.md "wikilink")にアーサー・D・リトル社を正式に設立した。彼はコンサルティング手法の実践と研究を続けると共に、[1893年](../Page/1893年.md "wikilink")～[1916年](../Page/1916年.md "wikilink")まで、MITで製紙化学について教鞭をとった。
 
-[1911年](../Page/1911年.md "wikilink")、アーサー・D・リトルは[ゼネラルモーターズ](https://ja.wikipedia.org/wiki/ゼネラルモーターズ "wikilink")社の最初の研究開発センターの設立を支援した。これがアーサー・D・リトルの経営コンサルティング部門の設立につながったと同時に、経営コンサルティング業界が誕生した瞬間であったといわれる。 \[3\]
+[1911年](../Page/1911年.md "wikilink")、アーサー・D・リトルは[ゼネラルモーターズ](../Page/ゼネラルモーターズ.md "wikilink")社の最初の研究開発センターの設立を支援した。これがアーサー・D・リトルの経営コンサルティング部門の設立につながったと同時に、経営コンサルティング業界が誕生した瞬間であったといわれる。 \[3\]
 
-[1917年](../Page/1917年.md "wikilink")、マサチューセッツ州ケンブリッジ、MIT新キャンパスの隣にアーサー・D・リトル・ビルディングを建築しそこへ移転。この建物は[1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink")に[アメリカ合衆国国家歴史登録財](https://ja.wikipedia.org/wiki/アメリカ合衆国国家歴史登録財 "wikilink")に登録されている。\[4\]
+[1917年](../Page/1917年.md "wikilink")、マサチューセッツ州ケンブリッジ、MIT新キャンパスの隣にアーサー・D・リトル・ビルディングを建築しそこへ移転。この建物は[1976年](../Page/1976年.md "wikilink")に[アメリカ合衆国国家歴史登録財](https://ja.wikipedia.org/wiki/アメリカ合衆国国家歴史登録財 "wikilink")に登録されている。\[4\]
 
 ## 日本法人
 
@@ -33,11 +33,11 @@
 ### 主な出身者
 
   - [西川潔](https://ja.wikipedia.org/wiki/西川潔 "wikilink")（[ngi groupファウンダー](https://ja.wikipedia.org/wiki/ngi_group "wikilink")）
-  - [梅田望夫](https://ja.wikipedia.org/wiki/梅田望夫 "wikilink")（ミューズ・アソシエイツ）
+  - [梅田望夫](../Page/梅田望夫.md "wikilink")（ミューズ・アソシエイツ）
   - [グレン・S・フクシマ](../Page/グレン・S・フクシマ.md "wikilink")（元[エアバス](../Page/エアバス.md "wikilink")・ジャパンCEO）
   - 清水弘（[日本工業大学](../Page/日本工業大学.md "wikilink")専門職大学院専任教授）
   - 川口盛之助（未来学者）
-  - 久保雄一朗（[トランスコスモス](https://ja.wikipedia.org/wiki/トランスコスモス "wikilink") 執行役員）
+  - 久保雄一朗（[トランスコスモス](../Page/トランスコスモス.md "wikilink") 執行役員）
   - 小林雅（インフィニティ・ベンチャーズLLP 共同代表パートナー）
   - 高田貴久（プレセナ・ストラテジック・パートナーズ代表取締役・グローバルCEO）
   - 菅原敬（株式会社アイスタイル　取締役CFO グローバルセグメントSVP）

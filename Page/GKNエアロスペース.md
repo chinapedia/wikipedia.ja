@@ -9,7 +9,7 @@
 
 [1930年](../Page/1930年.md "wikilink")にスウェーデンの航空局向けに航空機用エンジンを製造するため、[NOHAB](https://ja.wikipedia.org/wiki/NOHAB "wikilink")の子会社として**ノーハブフリューグモートルファブリーケル**（*Nohab Flygmotorfabriker AB* ）が[トロルヘッタン](https://ja.wikipedia.org/wiki/トロルヘッタン "wikilink")で創業された。
 
-[1937年](../Page/1937年.md "wikilink")、同社は[SAAB](https://ja.wikipedia.org/wiki/SAAB "wikilink")の傘下に移って**スヴェンスカフリューグモートル**（*Svenska Flygmotor AB* ）となった。[1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")にボルボがほとんどの株式を保有したことで同年に**ボルボフリューグモートル**（*Volvo Flygmotor* ）へと社名を変更した。1990年代にはスウェーデン語では伝わりにくいとして**ボルボエアロ**（*Volvo Aero*）に社名を変更。
+[1937年](../Page/1937年.md "wikilink")、同社は[SAAB](../Page/SAAB.md "wikilink")の傘下に移って**スヴェンスカフリューグモートル**（*Svenska Flygmotor AB* ）となった。[1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")にボルボがほとんどの株式を保有したことで同年に**ボルボフリューグモートル**（*Volvo Flygmotor* ）へと社名を変更した。1990年代にはスウェーデン語では伝わりにくいとして**ボルボエアロ**（*Volvo Aero*）に社名を変更。
 
 2012年に英エンジニアリング大手[GKN](https://ja.wikipedia.org/wiki/GKN "wikilink")によって買収され、同社の子会社となった。のちに社名が変更され現社名の**GKNエアロスペース**（*GKN Aerospace*）となっている。
 

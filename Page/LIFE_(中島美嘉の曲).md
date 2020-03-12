@@ -5,23 +5,23 @@
 
 ## 概要
 
-表題曲は、ドラマ『[ライフ](https://ja.wikipedia.org/wiki/ライフ_\(漫画\)#テレビドラマ "wikilink")』主題歌に起用され、2007年の「[見えない星](https://ja.wikipedia.org/wiki/見えない星 "wikilink")」以来となるドラマ主題歌を務めた。
+表題曲は、ドラマ『[ライフ](https://ja.wikipedia.org/wiki/ライフ_\(漫画\)#テレビドラマ "wikilink")』主題歌に起用され、2007年の「[見えない星](../Page/見えない星.md "wikilink")」以来となるドラマ主題歌を務めた。
 
-CDの累計売り上げは、「[GLAMOROUS SKY](https://ja.wikipedia.org/wiki/GLAMOROUS_SKY "wikilink")」以来の10万を突破し、[着うた](../Page/着うた.md "wikilink")では、累計180万ダウンロードを記録した。
+CDの累計売り上げは、「[GLAMOROUS SKY](../Page/GLAMOROUS_SKY.md "wikilink")」以来の10万を突破し、[着うた](../Page/着うた.md "wikilink")では、累計180万ダウンロードを記録した。
 
 ## 収録曲
 
 （全編曲：[COLDFEET](https://ja.wikipedia.org/wiki/COLDFEET "wikilink")）
 
 1.  LIFE
-      - 作詞：[高柳恋](https://ja.wikipedia.org/wiki/高柳恋 "wikilink")・[ヒロイズム](https://ja.wikipedia.org/wiki/ヒロイズム_\(音楽プロデューサー\) "wikilink") 作曲：JUNKOO 編曲：[COLDFEET](https://ja.wikipedia.org/wiki/COLDFEET "wikilink")
+      - 作詞：[高柳恋](../Page/高柳恋.md "wikilink")・[ヒロイズム](https://ja.wikipedia.org/wiki/ヒロイズム_\(音楽プロデューサー\) "wikilink") 作曲：JUNKOO 編曲：[COLDFEET](https://ja.wikipedia.org/wiki/COLDFEET "wikilink")
       - [フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[ライフ](https://ja.wikipedia.org/wiki/ライフ_\(漫画\)#テレビドラマ "wikilink")』主題歌。
       - 歌詞は原作と脚本を元に書き下ろされ、「[命](https://ja.wikipedia.org/wiki/命 "wikilink")」をテーマとした\[1\]困難に立ち向かう全ての人へのメッセージソング。2007年7月10日より、Yahoo\!サウンドステーションで初披露し、史上初となるインターネットで解禁された\[2\]。
 2.  LIFE（ballad）
       - フジテレビ系ドラマ『ライフ』挿入歌
 3.  IT'S TOO LATE
-      - [カネボウ化粧品](https://ja.wikipedia.org/wiki/カネボウ化粧品 "wikilink")「KATE」CMソング
-      - 作詞：中島美嘉・[宮崎歩](https://ja.wikipedia.org/wiki/宮崎歩 "wikilink")　作曲：[Lori Fine](https://ja.wikipedia.org/wiki/COLDFEET "wikilink") <SMALL>[COLDFEET](https://ja.wikipedia.org/wiki/COLDFEET "wikilink")）</SMALL>　編曲：[COLDFEET](https://ja.wikipedia.org/wiki/COLDFEET "wikilink")
+      - [カネボウ化粧品](../Page/カネボウ化粧品.md "wikilink")「KATE」CMソング
+      - 作詞：中島美嘉・[宮崎歩](../Page/宮崎歩.md "wikilink")　作曲：[Lori Fine](https://ja.wikipedia.org/wiki/COLDFEET "wikilink") <SMALL>[COLDFEET](https://ja.wikipedia.org/wiki/COLDFEET "wikilink")）</SMALL>　編曲：[COLDFEET](https://ja.wikipedia.org/wiki/COLDFEET "wikilink")
 
 <!-- end list -->
 

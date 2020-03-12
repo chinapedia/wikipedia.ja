@@ -1,19 +1,19 @@
 > この記事は[Chou-fleur](https://ja.wikipedia.org/wiki/Chou-fleur)から翻訳されています。
 
 
-『**Chou-fleur**』（シュー・フルール）は、[岡村孝子](https://ja.wikipedia.org/wiki/岡村孝子 "wikilink")の通算7枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。1991年7月17日発売。発売元は[ファンハウス](https://ja.wikipedia.org/wiki/BMG_JAPAN#ファンハウス "wikilink")（現・[ソニー・ミュージックレーベルズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\)#ソニー・ミュージックレーベルズ "wikilink")）。
+『**Chou-fleur**』（シュー・フルール）は、[岡村孝子](../Page/岡村孝子.md "wikilink")の通算7枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。1991年7月17日発売。発売元は[ファンハウス](https://ja.wikipedia.org/wiki/BMG_JAPAN#ファンハウス "wikilink")（現・[ソニー・ミュージックレーベルズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\)#ソニー・ミュージックレーベルズ "wikilink")）。
 
 ## 解説
 
-2作目のセレクション・アルバム『[After Tone II](https://ja.wikipedia.org/wiki/After_Tone_II "wikilink")』（1990年12月5日発売）を挟んでリリースされた、7枚目のオリジナル・アルバム。タイトルの“シュー・フルール” とは、[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")で「花野菜」という意味で、花野菜とは[カリフラワー](../Page/カリフラワー.md "wikilink")の別名である。
+2作目のセレクション・アルバム『[After Tone II](../Page/After_Tone_II.md "wikilink")』（1990年12月5日発売）を挟んでリリースされた、7枚目のオリジナル・アルバム。タイトルの“シュー・フルール” とは、[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")で「花野菜」という意味で、花野菜とは[カリフラワー](../Page/カリフラワー.md "wikilink")の別名である。
 
-前作アルバム『[After Tone II](https://ja.wikipedia.org/wiki/After_Tone_II "wikilink")』に引き続き、[オリコンアルバムヒットチャートの第](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位を獲得した（7月29日付）。[1988年](../Page/1988年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")発売の4枚目のアルバム『[SOLEIL](https://ja.wikipedia.org/wiki/SOLEIL_\(アルバム\) "wikilink")』から5作連続の1位を達成し、[1991年のオリコン年間アルバムヒットチャートの第](https://ja.wikipedia.org/wiki/1991年の音楽#邦楽_アルバム "wikilink")21位にランクされた。
+前作アルバム『[After Tone II](../Page/After_Tone_II.md "wikilink")』に引き続き、[オリコンアルバムヒットチャートの第](../Page/オリコンチャート.md "wikilink")1位を獲得した（7月29日付）。[1988年](../Page/1988年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")発売の4枚目のアルバム『[SOLEIL](../Page/SOLEIL_\(アルバム\).md "wikilink")』から5作連続の1位を達成し、[1991年のオリコン年間アルバムヒットチャートの第](https://ja.wikipedia.org/wiki/1991年の音楽#邦楽_アルバム "wikilink")21位にランクされた。
 
-14枚目のシングルの「[Good-Day 〜思い出に変わるならば〜](../Page/Good-Day_〜思い出に変わるならば〜.md "wikilink")」（1991年5月23日発売）はアルバム・バージョンで収録されている。この楽曲は、[日本テレビ系で放送されたテレビドラマ](../Page/日本テレビ放送網.md "wikilink")・スペシャル『五月の風〜ひとりひとりの二人』（出演：[鈴木保奈美](https://ja.wikipedia.org/wiki/鈴木保奈美 "wikilink")・[松下由樹](https://ja.wikipedia.org/wiki/松下由樹 "wikilink")・[風間トオル](https://ja.wikipedia.org/wiki/風間トオル "wikilink")他）の主題歌である。同ドラマでは、挿入歌にも岡村の楽曲が使用された。
+14枚目のシングルの「[Good-Day 〜思い出に変わるならば〜](../Page/Good-Day_〜思い出に変わるならば〜.md "wikilink")」（1991年5月23日発売）はアルバム・バージョンで収録されている。この楽曲は、[日本テレビ系で放送されたテレビドラマ](../Page/日本テレビ放送網.md "wikilink")・スペシャル『五月の風〜ひとりひとりの二人』（出演：[鈴木保奈美](https://ja.wikipedia.org/wiki/鈴木保奈美 "wikilink")・[松下由樹](https://ja.wikipedia.org/wiki/松下由樹 "wikilink")・[風間トオル](../Page/風間トオル.md "wikilink")他）の主題歌である。同ドラマでは、挿入歌にも岡村の楽曲が使用された。
 
-収録曲のうち「愛を急がないで」は、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系ドラマ『幸せを急がないで 派遣OL恋物語』（1992年1月 - 3月、日曜21時放送。出演：[鷲尾いさ子](https://ja.wikipedia.org/wiki/鷲尾いさ子 "wikilink")[布施博](https://ja.wikipedia.org/wiki/布施博 "wikilink")他）の主題歌である。のちに[第一生命のコマーシャルソングにも起用され](https://ja.wikipedia.org/wiki/第一生命保険 "wikilink")、翌年4月29日に15枚目のシングル「[ミストラル 〜季節風〜](../Page/ミストラル_〜季節風〜.md "wikilink")」の[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")として[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")されている。
+収録曲のうち「愛を急がないで」は、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系ドラマ『幸せを急がないで 派遣OL恋物語』（1992年1月 - 3月、日曜21時放送。出演：[鷲尾いさ子](../Page/鷲尾いさ子.md "wikilink")[布施博](../Page/布施博.md "wikilink")他）の主題歌である。のちに[第一生命のコマーシャルソングにも起用され](../Page/第一生命保険.md "wikilink")、翌年4月29日に15枚目のシングル「[ミストラル 〜季節風〜](../Page/ミストラル_〜季節風〜.md "wikilink")」の[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")として[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")されている。
 
-前作まで、ほぼ全てのアレンジは[萩田光雄](https://ja.wikipedia.org/wiki/萩田光雄 "wikilink")と[田代修二](https://ja.wikipedia.org/wiki/田代修二 "wikilink")が担当していたが\[1\]、本作から[清水信之](https://ja.wikipedia.org/wiki/清水信之 "wikilink")を新たに起用している。
+前作まで、ほぼ全てのアレンジは[萩田光雄](../Page/萩田光雄.md "wikilink")と[田代修二](https://ja.wikipedia.org/wiki/田代修二 "wikilink")が担当していたが\[1\]、本作から[清水信之](../Page/清水信之.md "wikilink")を新たに起用している。
 
 「OKAMURA TAKAKO CONCERT TOUR '91 SUMMER\&FALL Chou - fleur」（25会場30公演）が催された。
 
@@ -41,7 +41,7 @@
 
   -
     全作詞・作曲: 岡村孝子
-    編曲: [萩田光男](https://ja.wikipedia.org/wiki/萩田光雄 "wikilink") M-3・4・7・8 、[田代修二](https://ja.wikipedia.org/wiki/田代修二 "wikilink") M-2・9 、[清水信之](https://ja.wikipedia.org/wiki/清水信之 "wikilink") M-1・5・6
+    編曲: [萩田光男](../Page/萩田光雄.md "wikilink") M-3・4・7・8 、[田代修二](https://ja.wikipedia.org/wiki/田代修二 "wikilink") M-2・9 、[清水信之](../Page/清水信之.md "wikilink") M-1・5・6
 
 ## 関連作品
 
@@ -50,15 +50,15 @@
   - **愛を急がないで**
       - [After Tone III](../Page/After_Tone_III.md "wikilink")
       - [夢見る頃を過ぎても](../Page/夢見る頃を過ぎても_\(岡村孝子のアルバム\).md "wikilink")
-      - [DO MY BEST](https://ja.wikipedia.org/wiki/DO_MY_BEST "wikilink")
-      - [TOY BOX](https://ja.wikipedia.org/wiki/TOY_BOX_\(岡村孝子のアルバム\) "wikilink")
+      - [DO MY BEST](../Page/DO_MY_BEST.md "wikilink")
+      - [TOY BOX](../Page/TOY_BOX_\(岡村孝子のアルバム\).md "wikilink")
   - **ポプラ**
       - [After Tone III](../Page/After_Tone_III.md "wikilink")
       - [夢見る頃を過ぎても](../Page/夢見る頃を過ぎても_\(岡村孝子のアルバム\).md "wikilink")
   - **Good-Day 〜思い出に変わるならば〜**
       - [After Tone III](../Page/After_Tone_III.md "wikilink")
-      - [DO MY BEST](https://ja.wikipedia.org/wiki/DO_MY_BEST "wikilink")
-      - [TOY BOX](https://ja.wikipedia.org/wiki/TOY_BOX_\(岡村孝子のアルバム\) "wikilink")
+      - [DO MY BEST](../Page/DO_MY_BEST.md "wikilink")
+      - [TOY BOX](../Page/TOY_BOX_\(岡村孝子のアルバム\).md "wikilink")
       - [Best★BEST 岡村孝子](https://ja.wikipedia.org/wiki/Best★BEST_岡村孝子 "wikilink")
   - **新しいスタート**
       - [After Tone III](../Page/After_Tone_III.md "wikilink")
@@ -67,5 +67,5 @@
 
 [Category:岡村孝子のアルバム](https://ja.wikipedia.org/wiki/Category:岡村孝子のアルバム "wikilink") [Category:1991年のアルバム](https://ja.wikipedia.org/wiki/Category:1991年のアルバム "wikilink") [Category:ファンハウスのアルバム](https://ja.wikipedia.org/wiki/Category:ファンハウスのアルバム "wikilink") [Category:1991年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1991年のオリコンアルバムチャート1位獲得作品 "wikilink")
 
-1.  3枚目のシングル「[はぐれそうな天使](../Page/はぐれそうな天使.md "wikilink")」のアレンジは[船山基紀](https://ja.wikipedia.org/wiki/船山基紀 "wikilink")による。
-2.  「ポプラ」を歌う際の振付は、[あみん](https://ja.wikipedia.org/wiki/あみん "wikilink")再結成コンサートにおける「[世界中メリークリスマス](https://ja.wikipedia.org/wiki/In_the_prime#収録曲 "wikilink")」歌唱時の、加藤晴子ソロパートの部分でも披露している。2007年12月19日発売のDVD『[25th Anniversary Aming Concert Tour 2007 In the prime 〜ひまわり〜](https://ja.wikipedia.org/wiki/25th_Anniversary_Aming_Concert_Tour_2007_In_the_prime_〜ひまわり〜 "wikilink")』で試聴可能。なお、岡村のライヴ作品『[Encore IV 〜Smile for You〜](https://ja.wikipedia.org/wiki/Encore_IV_〜Smile_for_You〜 "wikilink")』には「ポプラ」のダンス練習シーンが映像化されている。
+1.  3枚目のシングル「[はぐれそうな天使](../Page/はぐれそうな天使.md "wikilink")」のアレンジは[船山基紀](../Page/船山基紀.md "wikilink")による。
+2.  「ポプラ」を歌う際の振付は、[あみん](../Page/あみん.md "wikilink")再結成コンサートにおける「[世界中メリークリスマス](https://ja.wikipedia.org/wiki/In_the_prime#収録曲 "wikilink")」歌唱時の、加藤晴子ソロパートの部分でも披露している。2007年12月19日発売のDVD『[25th Anniversary Aming Concert Tour 2007 In the prime 〜ひまわり〜](https://ja.wikipedia.org/wiki/25th_Anniversary_Aming_Concert_Tour_2007_In_the_prime_〜ひまわり〜 "wikilink")』で試聴可能。なお、岡村のライヴ作品『[Encore IV 〜Smile for You〜](https://ja.wikipedia.org/wiki/Encore_IV_〜Smile_for_You〜 "wikilink")』には「ポプラ」のダンス練習シーンが映像化されている。

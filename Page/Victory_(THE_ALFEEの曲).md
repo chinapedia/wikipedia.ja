@@ -52,7 +52,7 @@
   - [The Alfee Meets Dance](https://ja.wikipedia.org/wiki/THE_ALFEEのディスコグラフィ#非公認ベスト盤 "wikilink")（\#1）
   - [THE ALFEE EMOTIONAL MESSAGE SONGS](https://ja.wikipedia.org/wiki/THE_ALFEE_EMOTIONAL_MESSAGE_SONGS "wikilink")（\#1）
   - [THE ALFEE 單曲特集](https://ja.wikipedia.org/wiki/THE_ALFEEのディスコグラフィ#非公認ベスト盤 "wikilink")（\#1）
-  - [THE ALFEE 30th ANNIVERSARY HIT SINGLE COLLECTION 37](https://ja.wikipedia.org/wiki/THE_ALFEE_30th_ANNIVERSARY_HIT_SINGLE_COLLECTION_37 "wikilink")（\#1）
+  - [THE ALFEE 30th ANNIVERSARY HIT SINGLE COLLECTION 37](../Page/THE_ALFEE_30th_ANNIVERSARY_HIT_SINGLE_COLLECTION_37.md "wikilink")（\#1）
 
 ## 関連作品
 

@@ -12,16 +12,16 @@
 ## パーソナリティ
 
   - 月曜　[薬師寺保栄](https://ja.wikipedia.org/wiki/薬師寺保栄 "wikilink")、[桜井加代子](https://ja.wikipedia.org/wiki/桜井加代子 "wikilink")
-  - 火曜　[辻本茂雄](https://ja.wikipedia.org/wiki/辻本茂雄 "wikilink")、[渡辺千恵](https://ja.wikipedia.org/wiki/渡辺千恵 "wikilink")、[SABOTEN](https://ja.wikipedia.org/wiki/SABOTEN "wikilink")
+  - 火曜　[辻本茂雄](../Page/辻本茂雄.md "wikilink")、[渡辺千恵](https://ja.wikipedia.org/wiki/渡辺千恵 "wikilink")、[SABOTEN](../Page/SABOTEN.md "wikilink")
   - 水曜　[黒岩唯一](../Page/黒岩唯一.md "wikilink")、[秋山花恵](https://ja.wikipedia.org/wiki/秋山花恵 "wikilink")
   - 木曜　黒岩唯一、[KENTA](https://ja.wikipedia.org/wiki/KENTA "wikilink")
   - 金曜　週替わりパーソナリティ、[加藤己奈](https://ja.wikipedia.org/wiki/加藤己奈 "wikilink")
 
 ## 主なコーナー
 
-  - [独占\!\!Jリーグエキスプレス](https://ja.wikipedia.org/wiki/独占!!Jリーグエキスプレス "wikilink")
-  - [ローソン・ミュージックアクション](https://ja.wikipedia.org/wiki/ゲルゲットショッキングセンター "wikilink")
+  - [独占\!\!Jリーグエキスプレス](../Page/独占!!Jリーグエキスプレス.md "wikilink")
+  - [ローソン・ミュージックアクション](../Page/ゲルゲットショッキングセンター.md "wikilink")
   - [STOP THE SMAP](https://ja.wikipedia.org/wiki/STOP_THE_SMAP "wikilink")（これのみ2016年10月現在も放送中）
-  - [ハイ\!SPEEDで行こう\!](https://ja.wikipedia.org/wiki/ハイ!SPEEDで行こう! "wikilink")
+  - [ハイ\!SPEEDで行こう\!](../Page/ハイ!SPEEDで行こう!.md "wikilink")
 
 [Category:1998年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1998年のラジオ番組_\(日本\) "wikilink") [Category:東海ラジオのラジオ番組](https://ja.wikipedia.org/wiki/Category:東海ラジオのラジオ番組 "wikilink") [Category:東海ラジオの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:東海ラジオの帯番組の歴史 "wikilink") [Category:ローカルラジオ局のバラエティ番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のバラエティ番組 "wikilink")

@@ -1,11 +1,11 @@
 > この記事は[D](https://ja.wikipedia.org/wiki/D)から翻訳されています。
 
 
-**ジョン・ダン・マクドナルド**（John Dann MacDonald、[1916年](../Page/1916年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink") - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[12月28日](../Page/12月28日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ペンシルベニア州](../Page/ペンシルベニア州.md "wikilink")シャロン出身の[推理作家](../Page/推理作家.md "wikilink")、[SF作家](https://ja.wikipedia.org/wiki/SF作家 "wikilink")。別ペンネームにジョン・ウェイド・ファレル、ピーター・リードがある。探偵小説「[トラヴィス・マッギー](https://ja.wikipedia.org/wiki/トラヴィス・マッギー "wikilink")」シリーズで知られる。
+**ジョン・ダン・マクドナルド**（John Dann MacDonald、[1916年](../Page/1916年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink") - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[12月28日](../Page/12月28日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ペンシルベニア州](../Page/ペンシルベニア州.md "wikilink")シャロン出身の[推理作家](../Page/推理作家.md "wikilink")、[SF作家](../Page/SF作家.md "wikilink")。別ペンネームにジョン・ウェイド・ファレル、ピーター・リードがある。探偵小説「[トラヴィス・マッギー](https://ja.wikipedia.org/wiki/トラヴィス・マッギー "wikilink")」シリーズで知られる。
 
 ## 経歴
 
-[ペンシルベニア大学](../Page/ペンシルベニア大学.md "wikilink")[ウォートン・スクール](https://ja.wikipedia.org/wiki/ウォートン・スクール "wikilink")、[シラキューズ大学](https://ja.wikipedia.org/wiki/シラキューズ大学 "wikilink")マーティン・J・ホイットマン校を卒業の後、1939年[ハーヴァード大学](https://ja.wikipedia.org/wiki/ハーヴァード大学 "wikilink")の経営学修士号（[MBA](https://ja.wikipedia.org/wiki/MBA "wikilink")）を取得 。
+[ペンシルベニア大学](../Page/ペンシルベニア大学.md "wikilink")[ウォートン・スクール](../Page/ウォートン・スクール.md "wikilink")、[シラキューズ大学](https://ja.wikipedia.org/wiki/シラキューズ大学 "wikilink")マーティン・J・ホイットマン校を卒業の後、1939年[ハーヴァード大学](https://ja.wikipedia.org/wiki/ハーヴァード大学 "wikilink")の経営学修士号（[MBA](https://ja.wikipedia.org/wiki/MBA "wikilink")）を取得 。
 
 シラキューズ大学時代に、[ドロシー・プレンティス](https://ja.wikipedia.org/wiki/ドロシー・プレンティス "wikilink")（Dorothy Prentiss）と出会い、1937年在学中に結婚。
 
@@ -17,9 +17,9 @@
 
 ペーパーバック小説がブームとなった1950年、彼は最初の長編小説『真鍮のカップケーキ（*Brass Cupcake*）』をファーセット・パブリケーションズ社のゴールド・メダル・ブックス（Fawcett Publications' Gold Medal Books）から発表した。
 
-SF小説では、『[アスタウンディング](https://ja.wikipedia.org/wiki/アスタウンディング "wikilink")』誌に『*Cosmetics*』（1948）、『*Wine of the Dreamer*』（1951）、『*Ballroom of the Skies*』（1952）を発表した。
+SF小説では、『[アスタウンディング](../Page/アスタウンディング.md "wikilink")』誌に『*Cosmetics*』（1948）、『*Wine of the Dreamer*』（1951）、『*Ballroom of the Skies*』（1952）を発表した。
 
-1962年には[アメリカ探偵作家クラブ](https://ja.wikipedia.org/wiki/アメリカ探偵作家クラブ "wikilink")（MWA）の会長に就任。
+1962年には[アメリカ探偵作家クラブ](../Page/アメリカ探偵作家クラブ.md "wikilink")（MWA）の会長に就任。
 
 1972年にはアメリカ探偵作家クラブからの巨匠賞とグランドマスター(grand master)の称号が贈られた。 1980年には米国図書賞（American Book Award）を受賞。
 
@@ -53,7 +53,7 @@ SF小説では、『[アスタウンディング](https://ja.wikipedia.org/wiki/
 
 『金時計の秘密(*The Girl, the Gold Watch & Everything*)』は1980年にテレビ映画化されたが、これは本来の小説の趣旨を捕らえることに失敗した作品とされている。
 
-短編小説『*Linda*』は、1973年（[ステラ・スティーヴンス](https://ja.wikipedia.org/wiki/ステラ・スティーヴンス "wikilink")(Stella Stevens)主演）と1993年（[ヴァージニア・マドセン](https://ja.wikipedia.org/wiki/ヴァージニア・マドセン "wikilink")主演）で2度テレビ化されている。
+短編小説『*Linda*』は、1973年（[ステラ・スティーヴンス](https://ja.wikipedia.org/wiki/ステラ・スティーヴンス "wikilink")(Stella Stevens)主演）と1993年（[ヴァージニア・マドセン](../Page/ヴァージニア・マドセン.md "wikilink")主演）で2度テレビ化されている。
 
 マクドナルドのディザスター小説『コンドミニアム(*Condominium*)』は、1980年に[ダン・ハガティ](https://ja.wikipedia.org/wiki/ダン・ハガティ "wikilink")(Dan Haggerty)と[バーバラ・イーデン](https://ja.wikipedia.org/wiki/バーバラ・イーデン "wikilink")(Barbara Eden) 主演でテレビ映画化された。
 

@@ -1,21 +1,21 @@
 > この記事は[R10 TDI](https://ja.wikipedia.org/wiki/R10_TDI)から翻訳されています。
 
 
-**アウディ・R10 TDI**とは、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の自動車メーカー[アウディ](https://ja.wikipedia.org/wiki/アウディ "wikilink")が[ル・マン24時間レース](../Page/ル・マン24時間レース.md "wikilink")への参戦を目的に、[R8の後継として開発した](https://ja.wikipedia.org/wiki/アウディ・R8_\(レーシングカー\) "wikilink")、[耐久レース](https://ja.wikipedia.org/wiki/耐久レース "wikilink")専用の[プロトタイプレーシングカー](https://ja.wikipedia.org/wiki/プロトタイプレーシングカー "wikilink")である。
+**アウディ・R10 TDI**とは、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の自動車メーカー[アウディ](https://ja.wikipedia.org/wiki/アウディ "wikilink")が[ル・マン24時間レース](../Page/ル・マン24時間レース.md "wikilink")への参戦を目的に、[R8の後継として開発した](../Page/アウディ・R8_\(レーシングカー\).md "wikilink")、[耐久レース](../Page/耐久レース.md "wikilink")専用の[プロトタイプレーシングカー](https://ja.wikipedia.org/wiki/プロトタイプレーシングカー "wikilink")である。
 
 TDI (Turbocharged Direct Injection) とは[フォルクスワーゲン](https://ja.wikipedia.org/wiki/フォルクスワーゲン "wikilink")グループの[直噴](https://ja.wikipedia.org/wiki/直噴 "wikilink")式[ターボ](../Page/ターボチャージャー.md "wikilink")[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")の技術名称である\[1\]。
 
 ## 概要
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")（[中央ヨーロッパ時間](https://ja.wikipedia.org/wiki/中央ヨーロッパ時間 "wikilink")）に発表され、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に初参戦した。 開発及びチーム運営に[ヨースト・レーシング](https://ja.wikipedia.org/wiki/ヨースト・レーシング "wikilink")が係わり、[ダラーラ](https://ja.wikipedia.org/wiki/ダラーラ "wikilink")により製作された。
+[2005年](../Page/2005年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")（[中央ヨーロッパ時間](../Page/中央ヨーロッパ時間.md "wikilink")）に発表され、[2006年](../Page/2006年.md "wikilink")に初参戦した。 開発及びチーム運営に[ヨースト・レーシング](https://ja.wikipedia.org/wiki/ヨースト・レーシング "wikilink")が係わり、[ダラーラ](../Page/ダラーラ.md "wikilink")により製作された。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")の[ル・マン24時間レース](../Page/ル・マン24時間レース.md "wikilink")にて、[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")車初の総合優勝を果たす。
+[2006年](../Page/2006年.md "wikilink")の[ル・マン24時間レース](../Page/ル・マン24時間レース.md "wikilink")にて、[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")車初の総合優勝を果たす。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")のル・マンには燃料に[シェルの](https://ja.wikipedia.org/wiki/ロイヤル・ダッチ・シェル "wikilink")[バイオフューエルを用いる](https://ja.wikipedia.org/wiki/バイオディーゼル "wikilink")、R10 TDIプロトタイプにて参戦した。こちらは、リアが2段ウィングが特徴。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")のル・マンには燃料に[シェルの](../Page/ロイヤル・ダッチ・シェル.md "wikilink")[バイオフューエルを用いる](../Page/バイオディーゼル.md "wikilink")、R10 TDIプロトタイプにて参戦した。こちらは、リアが2段ウィングが特徴。
 
 ## 機構・スタイル
 
-[エンジン](../Page/エンジン.md "wikilink")は、5.5リッターの水冷[V型12気筒](https://ja.wikipedia.org/wiki/V型12気筒 "wikilink")（バンク角90度）[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")に[アルミニウム](../Page/アルミニウム.md "wikilink")製の[ツインターボ](https://ja.wikipedia.org/wiki/ツインターボ "wikilink")で過給を施した。
+[エンジン](../Page/エンジン.md "wikilink")は、5.5リッターの水冷[V型12気筒](../Page/V型12気筒.md "wikilink")（バンク角90度）[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")に[アルミニウム](../Page/アルミニウム.md "wikilink")製の[ツインターボ](../Page/ツインターボ.md "wikilink")で過給を施した。
 
 ## ル・マン24時間レースでの戦績
 
@@ -23,8 +23,8 @@ TDI (Turbocharged Direct Injection) とは[フォルクスワーゲン](https://
 
 ### 2006年
 
-  - 1位 アウディ・スポーツ・チーム・ヨースト - \#8：F. ビエッラ/[E. ピロ](https://ja.wikipedia.org/wiki/エマニュエル・ピロ "wikilink")/M. ヴェルナー
-  - 3位 アウディ・スポーツ・チーム・ヨースト - \#7：R. カペッロ/[T. クリステンセン](https://ja.wikipedia.org/wiki/トム・クリステンセン "wikilink")/[A. マクニッシュ](https://ja.wikipedia.org/wiki/アラン・マクニッシュ "wikilink")
+  - 1位 アウディ・スポーツ・チーム・ヨースト - \#8：F. ビエッラ/[E. ピロ](../Page/エマニュエル・ピロ.md "wikilink")/M. ヴェルナー
+  - 3位 アウディ・スポーツ・チーム・ヨースト - \#7：R. カペッロ/[T. クリステンセン](https://ja.wikipedia.org/wiki/トム・クリステンセン "wikilink")/[A. マクニッシュ](../Page/アラン・マクニッシュ.md "wikilink")
 
 ### 2007年
 

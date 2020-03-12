@@ -3,9 +3,9 @@
 
 **HJ文庫G**（エイチジェイぶんこジー）は、[ホビージャパン](../Page/ホビージャパン.md "wikilink")が発行する[文庫](../Page/文庫.md "wikilink")レーベル。
 
-[2007年](../Page/2007年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")に創刊され、[リプレイや](https://ja.wikipedia.org/wiki/リプレイ_\(TRPG\) "wikilink")[小説化](../Page/小説化.md "wikilink")作品等の[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")に関連する出版物を取り扱う。 前年の[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に創刊された同社の[HJ文庫](https://ja.wikipedia.org/wiki/HJ文庫 "wikilink")とは姉妹レーベルの関係にある。
+[2007年](../Page/2007年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")に創刊され、[リプレイや](../Page/リプレイ_\(TRPG\).md "wikilink")[小説化](../Page/小説化.md "wikilink")作品等の[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")に関連する出版物を取り扱う。 前年の[2006年](../Page/2006年.md "wikilink")に創刊された同社の[HJ文庫](../Page/HJ文庫.md "wikilink")とは姉妹レーベルの関係にある。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月27日](../Page/12月27日.md "wikilink")より「**遊べるノベル**」シリーズとして[ゲームブック](https://ja.wikipedia.org/wiki/ゲームブック "wikilink")の刊行を開始。このシリーズは、往年の名作として知られる作品\[1\]を、登場人物の変更や挿絵のリニューアルで現代風に脚色したリメイク作品となっている。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月27日](../Page/12月27日.md "wikilink")より「**遊べるノベル**」シリーズとして[ゲームブック](../Page/ゲームブック.md "wikilink")の刊行を開始。このシリーズは、往年の名作として知られる作品\[1\]を、登場人物の変更や挿絵のリニューアルで現代風に脚色したリメイク作品となっている。
 
 ## HJ文庫Gタイトル一覧
 
@@ -14,7 +14,7 @@
 <!-- end list -->
 
   - ウォーハンマーノベル
-      - ドラッケンフェルズ（[ジャック・ヨーヴィル](https://ja.wikipedia.org/wiki/キム・ニューマン "wikilink")：著/[クリステル・スヴェーン](https://ja.wikipedia.org/wiki/クリステル・スヴェーン "wikilink")：画/[待兼音二郎](https://ja.wikipedia.org/wiki/待兼音二郎 "wikilink")、[崎浜かおる](https://ja.wikipedia.org/wiki/崎浜かおる "wikilink")、[渡部夢霧](https://ja.wikipedia.org/wiki/渡部夢霧 "wikilink")：訳）※同作には別訳の[角川文庫](https://ja.wikipedia.org/wiki/角川文庫 "wikilink")版（1992年刊）[角川文庫Fシリーズ](https://ja.wikipedia.org/wiki/角川文庫Fシリーズ "wikilink")も存在する。
+      - ドラッケンフェルズ（[ジャック・ヨーヴィル](../Page/キム・ニューマン.md "wikilink")：著/[クリステル・スヴェーン](https://ja.wikipedia.org/wiki/クリステル・スヴェーン "wikilink")：画/[待兼音二郎](https://ja.wikipedia.org/wiki/待兼音二郎 "wikilink")、[崎浜かおる](https://ja.wikipedia.org/wiki/崎浜かおる "wikilink")、[渡部夢霧](https://ja.wikipedia.org/wiki/渡部夢霧 "wikilink")：訳）※同作には別訳の[角川文庫](../Page/角川文庫.md "wikilink")版（1992年刊）[角川文庫Fシリーズ](../Page/角川文庫Fシリーズ.md "wikilink")も存在する。
       - 吸血鬼ジュヌヴィエーヴ（ジャック・ヨーヴィル：著/クリステル・スヴェーン：画/[藤沢涼](https://ja.wikipedia.org/wiki/藤沢涼 "wikilink")、[小林尚海](https://ja.wikipedia.org/wiki/小林尚海 "wikilink")、[朝月千晶](https://ja.wikipedia.org/wiki/朝月千晶 "wikilink")：訳）
       - ベルベットビースト（ジャック・ヨーヴィル：著/クリステル・スヴェーン：画/待兼音二郎、[矢野真弓](https://ja.wikipedia.org/wiki/矢野真弓 "wikilink")、[木暮里緒](https://ja.wikipedia.org/wiki/木暮里緒 "wikilink")：訳）
       - シルバーネイル（ジャック・ヨーヴィル：著/クリステル・スヴェーン：画/藤沢涼、小林尚海：訳） - 短編集
@@ -59,8 +59,8 @@
 
 <!-- end list -->
 
-  - [デストラップ・ダンジョン](https://ja.wikipedia.org/wiki/死のワナの地下迷宮 "wikilink")（[イアン・リビングストン](https://ja.wikipedia.org/wiki/イアン・リビングストン "wikilink")：原作/[空中幼彩](https://ja.wikipedia.org/wiki/空中幼彩 "wikilink")、[あっと](https://ja.wikipedia.org/wiki/あっと "wikilink")：画）
-  - [ハウス・オブ・ヘル](https://ja.wikipedia.org/wiki/地獄の館 "wikilink")（[スティーブ・ジャクソン](https://ja.wikipedia.org/wiki/スティーブ・ジャクソン_\(イギリスのゲームデザイナー\) "wikilink")：原作/[SK (フライトプラン)](https://ja.wikipedia.org/wiki/SK_\(フライトプラン\) "wikilink")：画）
+  - [デストラップ・ダンジョン](https://ja.wikipedia.org/wiki/死のワナの地下迷宮 "wikilink")（[イアン・リビングストン](../Page/イアン・リビングストン.md "wikilink")：原作/[空中幼彩](../Page/空中幼彩.md "wikilink")、[あっと](https://ja.wikipedia.org/wiki/あっと "wikilink")：画）
+  - [ハウス・オブ・ヘル](https://ja.wikipedia.org/wiki/地獄の館 "wikilink")（[スティーブ・ジャクソン](../Page/スティーブ・ジャクソン_\(イギリスのゲームデザイナー\).md "wikilink")：原作/[SK (フライトプラン)](https://ja.wikipedia.org/wiki/SK_\(フライトプラン\) "wikilink")：画）
   - [サムライ・ソード](https://ja.wikipedia.org/wiki/サムライの剣 "wikilink")（スティーブ・ジャクソン、イアン・リビングストン：原作\[2\]/[榛名まお](https://ja.wikipedia.org/wiki/榛名まお "wikilink")：画）
 
 ## 脚注
@@ -80,5 +80,5 @@
 
 [Category:ホビージャパンの出版物](https://ja.wikipedia.org/wiki/Category:ホビージャパンの出版物 "wikilink") [Category:HJ文庫](https://ja.wikipedia.org/wiki/Category:HJ文庫 "wikilink") [Category:テーブルトークRPG関連の文庫・叢書](https://ja.wikipedia.org/wiki/Category:テーブルトークRPG関連の文庫・叢書 "wikilink") [Category:ゲームブック](https://ja.wikipedia.org/wiki/Category:ゲームブック "wikilink") [Category:文庫本](https://ja.wikipedia.org/wiki/Category:文庫本 "wikilink") [Category:2007年刊行開始の刊行物](https://ja.wikipedia.org/wiki/Category:2007年刊行開始の刊行物 "wikilink")
 
-1.  [社会思想社](../Page/社会思想社.md "wikilink")の[ファイティング・ファンタジー](https://ja.wikipedia.org/wiki/ファイティング・ファンタジー "wikilink")シリーズ。詳しくは該当項目を参照のこと。
+1.  [社会思想社](../Page/社会思想社.md "wikilink")の[ファイティング・ファンタジー](../Page/ファイティング・ファンタジー.md "wikilink")シリーズ。詳しくは該当項目を参照のこと。
 2.  社会思想社版『サムライの剣』では、著者はジミー・トムソンとマーク・スミス。ジャクソンとリビングストンは監修でクレジットされていた。

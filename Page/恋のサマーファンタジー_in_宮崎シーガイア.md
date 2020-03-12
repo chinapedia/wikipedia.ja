@@ -1,7 +1,7 @@
 > この記事は[ in ](https://ja.wikipedia.org/wiki/_in_)から翻訳されています。
 
 
-**恋のサマーファンタジー in 宮崎シーガイア**（こいのサマーファンタジー イン みやざきシーガイア）は、[バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")より[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")8月22日に発売の[セガサターン](../Page/セガサターン.md "wikilink")用[恋愛シミュレーションゲーム](https://ja.wikipedia.org/wiki/恋愛シミュレーションゲーム "wikilink")。開発は[日本システムサプライ](https://ja.wikipedia.org/wiki/日本システムサプライ "wikilink")。ゲームタイトル画面での著作表記はMMC PLANNING。[奥菜恵](https://ja.wikipedia.org/wiki/奥菜恵 "wikilink")をヒロインとし、[シーガイア](https://ja.wikipedia.org/wiki/シーガイア "wikilink")を舞台としたゲームである。
+**恋のサマーファンタジー in 宮崎シーガイア**（こいのサマーファンタジー イン みやざきシーガイア）は、[バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")より[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")8月22日に発売の[セガサターン](../Page/セガサターン.md "wikilink")用[恋愛シミュレーションゲーム](https://ja.wikipedia.org/wiki/恋愛シミュレーションゲーム "wikilink")。開発は[日本システムサプライ](../Page/日本システムサプライ.md "wikilink")。ゲームタイトル画面での著作表記はMMC PLANNING。[奥菜恵](https://ja.wikipedia.org/wiki/奥菜恵 "wikilink")をヒロインとし、[シーガイア](../Page/シーガイア.md "wikilink")を舞台としたゲームである。
 
 ## 概要
 

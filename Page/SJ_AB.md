@@ -1,11 +1,11 @@
 > この記事は[SJ AB](https://ja.wikipedia.org/wiki/SJ_AB)から翻訳されています。
 
 
-**SJ AB**（エスイー・アーベー、Statens järnvägar aktiebolag : 国家鉄道株式会社）は、[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")の[国鉄](https://ja.wikipedia.org/wiki/国鉄 "wikilink")線における旅客鉄道事業を行う国有企業である。日本語では、スウェーデン国鉄、スウェーデン鉄道とも呼ばれている。
+**SJ AB**（エスイー・アーベー、Statens järnvägar aktiebolag : 国家鉄道株式会社）は、[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")の[国鉄](../Page/国鉄.md "wikilink")線における旅客鉄道事業を行う国有企業である。日本語では、スウェーデン国鉄、スウェーデン鉄道とも呼ばれている。
 
 ## 概要
 
-スウェーデンの国鉄（SJ : Statens Järnvägar, 国家鉄道）は王立鉄道委員会（Kungl. Järnvägsstyrelsen）が国営事業として運営していたが、スウェーデン政府は[1988年](../Page/1988年.md "wikilink")に産業省所管のBanverket（線路管理局）を設立して国鉄線の保有管理事業を切り離したのを皮切りに、王立鉄道委員会所管の現業事業について[2001年](../Page/2001年.md "wikilink")[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink")までにSJ ABなど以下の7国有会社に分割した\[1\]。王立鉄道委員会は国鉄事業切り離し後の2004年に産業省鉄道委員会に改組されたあと、2009年に同省所管の他の運輸行政監督官庁と統合されて産業省運輸委員会（Transportstyrelsen）に改組された。また線路管理局は[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に道路管理などの他の機関と統合して産業省交通局（Trafikverket）に改組されることが決まっている。
+スウェーデンの国鉄（SJ : Statens Järnvägar, 国家鉄道）は王立鉄道委員会（Kungl. Järnvägsstyrelsen）が国営事業として運営していたが、スウェーデン政府は[1988年](../Page/1988年.md "wikilink")に産業省所管のBanverket（線路管理局）を設立して国鉄線の保有管理事業を切り離したのを皮切りに、王立鉄道委員会所管の現業事業について[2001年](../Page/2001年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")までにSJ ABなど以下の7国有会社に分割した\[1\]。王立鉄道委員会は国鉄事業切り離し後の2004年に産業省鉄道委員会に改組されたあと、2009年に同省所管の他の運輸行政監督官庁と統合されて産業省運輸委員会（Transportstyrelsen）に改組された。また線路管理局は[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に道路管理などの他の機関と統合して産業省交通局（Trafikverket）に改組されることが決まっている。
 
   - SJ AB（国家鉄道株式会社、旧国鉄旅客部門）旅客列車運行事業体。
   - Green Cargo AB（グリーン・カーゴ株式会社、旧国鉄貨物部門）貨物列車運行事業体。
@@ -15,7 +15,7 @@
   - Jernhusen AB（イェルンフセン株式会社、旧国鉄不動産部門）不動産および国鉄線駅舎管理事業体。
   - TraffiCare AB（トラフィケア株式会社、旧国鉄ターミナル営業部門および清掃部門）ターミナル駅構内営業事業および列車清掃事業体。
 
-このうちSJ ABの営業する路線は、スウェーデン南部を幅広くカバーしており、[ストックホルム](../Page/ストックホルム.md "wikilink")、[ヨーテボリ](https://ja.wikipedia.org/wiki/ヨーテボリ "wikilink")、[マルメ](https://ja.wikipedia.org/wiki/マルメ "wikilink")などの主要都市間には、同社を代表する高速列車[X2000](https://ja.wikipedia.org/wiki/X2000 "wikilink")が運行されている。営業範囲は国内のみならず、[デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink")の首都[コペンハーゲン](https://ja.wikipedia.org/wiki/コペンハーゲン "wikilink")、[ノルウェー](../Page/ノルウェー.md "wikilink")の[オスロ](https://ja.wikipedia.org/wiki/オスロ "wikilink")へ向かう国際列車もX2000にて運行されている。
+このうちSJ ABの営業する路線は、スウェーデン南部を幅広くカバーしており、[ストックホルム](../Page/ストックホルム.md "wikilink")、[ヨーテボリ](../Page/ヨーテボリ.md "wikilink")、[マルメ](../Page/マルメ.md "wikilink")などの主要都市間には、同社を代表する高速列車[X2000](https://ja.wikipedia.org/wiki/X2000 "wikilink")が運行されている。営業範囲は国内のみならず、[デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink")の首都[コペンハーゲン](../Page/コペンハーゲン.md "wikilink")、[ノルウェー](../Page/ノルウェー.md "wikilink")の[オスロ](../Page/オスロ.md "wikilink")へ向かう国際列車もX2000にて運行されている。
 
 ## 主要路線
 
@@ -85,7 +85,7 @@
   - [Rb形](https://ja.wikipedia.org/wiki/スウェーデン国鉄Rb形電気機関車 "wikilink")
   - [D形](https://ja.wikipedia.org/wiki/スウェーデン国鉄D形電気機関車 "wikilink")（一部に動態保存あり）
   - [F形](https://ja.wikipedia.org/wiki/スウェーデン国鉄F形電気機関車 "wikilink")
-  - [Dm3形](https://ja.wikipedia.org/wiki/スウェーデン国鉄Dm3形電気機関車 "wikilink")（現在はMtab所属、[オーフォート鉄道](https://ja.wikipedia.org/wiki/オーフォート鉄道 "wikilink")用）
+  - [Dm3形](https://ja.wikipedia.org/wiki/スウェーデン国鉄Dm3形電気機関車 "wikilink")（現在はMtab所属、[オーフォート鉄道](../Page/オーフォート鉄道.md "wikilink")用）
 
 :\*[Da形](https://ja.wikipedia.org/wiki/スウェーデン国鉄Dm3形電気機関車 "wikilink")（Mtabに移管、全廃）
 
@@ -128,7 +128,7 @@
 ## 関連項目
 
   - [スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")
-  - [スウェーデンの交通](https://ja.wikipedia.org/wiki/スウェーデンの交通 "wikilink")
+  - [スウェーデンの交通](../Page/スウェーデンの交通.md "wikilink")
   - [スウェーデン式サウンディング試験](https://ja.wikipedia.org/wiki/スウェーデン式サウンディング試験 "wikilink")
 
 ## 外部リンク

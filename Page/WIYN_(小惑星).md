@@ -1,9 +1,9 @@
 > この記事は[WIYN \(\)](https://ja.wikipedia.org/wiki/WIYN_\(\))から翻訳されています。
 
 
-**WIYN** (4299 WIYN) は小惑星帯に位置する小惑星。インディアナ小惑星計画 (Indiana Asteroid Program) により[ゲーテ・リンク天文台](https://ja.wikipedia.org/wiki/ゲーテ・リンク天文台 "wikilink")で発見された。
+**WIYN** (4299 WIYN) は小惑星帯に位置する小惑星。インディアナ小惑星計画 (Indiana Asteroid Program) により[ゲーテ・リンク天文台](../Page/ゲーテ・リンク天文台.md "wikilink")で発見された。
 
-小惑星名の由来となったWIYNは[キットピーク国立天文台](../Page/キットピーク国立天文台.md "wikilink")にある望遠鏡で、運用する[ウィスコンシン大学](https://ja.wikipedia.org/wiki/ウィスコンシン大学 "wikilink")、[インディアナ大学](https://ja.wikipedia.org/wiki/インディアナ大学システム "wikilink")、[イェール大学](../Page/イェール大学.md "wikilink")、国立光学天文台の頭文字をつなげて名付けられている (University of **W**isconsin, **I**ndiana University, **Y**ale University, **N**ational Optical Astronomy Observatories)。
+小惑星名の由来となったWIYNは[キットピーク国立天文台](../Page/キットピーク国立天文台.md "wikilink")にある望遠鏡で、運用する[ウィスコンシン大学](../Page/ウィスコンシン大学.md "wikilink")、[インディアナ大学](../Page/インディアナ大学システム.md "wikilink")、[イェール大学](../Page/イェール大学.md "wikilink")、国立光学天文台の頭文字をつなげて名付けられている (University of **W**isconsin, **I**ndiana University, **Y**ale University, **N**ational Optical Astronomy Observatories)。
 
 ## 関連項目
 

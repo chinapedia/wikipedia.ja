@@ -9,7 +9,7 @@
 
 [1993年](../Page/1993年.md "wikilink")7月に「[ロンドン](../Page/ロンドン.md "wikilink")に行ってくる。今回はレコーディングの予定はまったくない。曲が出来ても[デモテープ](https://ja.wikipedia.org/wiki/デモテープ "wikilink")は作らない。曲が出来るまでは戻ってくる気はない」と宣言し単身渡英。ロンドンで生活する中、[アコースティックギター](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink")1本で全楽曲のデモを完成させた。この時期に布袋は[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")や[アムステルダム](https://ja.wikipedia.org/wiki/アムステルダム "wikilink")、[ジャマイカ](../Page/ジャマイカ.md "wikilink")をはじめ様々な土地への旅も経験しており、後のインタビューで「作ろうと思って作った曲は1曲もない。ロンドンでの生活や旅の経験がなければ出来なかったものばかりだから」と語っている。\[1\]
 
-ある程度の方向性を決めてから楽曲作りを始めたこれまでの作品とは異なり、「**ノーコンセプト**」として始動したアルバムである。GUITARHYTHM本来のコンセプトである「ギターとコンピューターの融合」から離れ、アルバム全体が**[バンドサウンド](https://ja.wikipedia.org/wiki/バンドサウンド "wikilink")を主体**として構築されている。またこれまでのソロ・キャリアでは意図的に抑えてきたメロディアスなサウンドを、本作ではある程度取り入れている。インタビュー上では「[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")然り[COMPLEX](https://ja.wikipedia.org/wiki/COMPLEX "wikilink")然り、基本的に[メロディ](../Page/メロディ.md "wikilink")が湧いてくるタイプなんだけど、サウンド・コラージュという[コンセプト](https://ja.wikipedia.org/wiki/コンセプト "wikilink")がまずあったから『[GUITARHYTHM III](../Page/GUITARHYTHM_III.md "wikilink")』まではそういうのを殺してきた部分もあった。今回は言葉とメロディ、歌が流れていくようにって思えたんで、素直にメロディも昇華してると思う」とされている。\[2\]
+ある程度の方向性を決めてから楽曲作りを始めたこれまでの作品とは異なり、「**ノーコンセプト**」として始動したアルバムである。GUITARHYTHM本来のコンセプトである「ギターとコンピューターの融合」から離れ、アルバム全体が**[バンドサウンド](https://ja.wikipedia.org/wiki/バンドサウンド "wikilink")を主体**として構築されている。またこれまでのソロ・キャリアでは意図的に抑えてきたメロディアスなサウンドを、本作ではある程度取り入れている。インタビュー上では「[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")然り[COMPLEX](../Page/COMPLEX.md "wikilink")然り、基本的に[メロディ](../Page/メロディ.md "wikilink")が湧いてくるタイプなんだけど、サウンド・コラージュという[コンセプト](https://ja.wikipedia.org/wiki/コンセプト "wikilink")がまずあったから『[GUITARHYTHM III](../Page/GUITARHYTHM_III.md "wikilink")』まではそういうのを殺してきた部分もあった。今回は言葉とメロディ、歌が流れていくようにって思えたんで、素直にメロディも昇華してると思う」とされている。\[2\]
 
 現在のところ、全曲布袋が作詞を手掛けた唯一のアルバムである。「今回は詞と曲を一緒に書きたいと思っていた。書きたいことがけっこうあったし、第三者に依頼する以前にデモの段階で歌詞が出てきた」と布袋は語っている。\[3\]
 
@@ -25,15 +25,15 @@
 
 また布袋は、ロンドンで生活中に[フェンダー・テレキャスター・カスタム](https://ja.wikipedia.org/wiki/フェンダー・テレキャスター・カスタム "wikilink")と[マッチレスの](https://ja.wikipedia.org/wiki/マッチレス・アンプ "wikilink")「DC-30」を手に入れており、レコーディングとツアーのメイン機材として使用された。「DC-30」は以後長らくメイン・アンプのひとつとして定着していく。
 
-[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")や[COMPLEX](https://ja.wikipedia.org/wiki/COMPLEX "wikilink")を始め、ソロ作品でも前作『[GUITARHYTHM III](../Page/GUITARHYTHM_III.md "wikilink")』まで布袋のアルバムに携わってきた[エンジニアのマイケル](https://ja.wikipedia.org/wiki/レコーディング・エンジニア "wikilink")・ツィマリングが本作には参加しておらず、[クイーンや](../Page/クイーン_\(バンド\).md "wikilink")[デヴィッド・ボウイ](https://ja.wikipedia.org/wiki/デヴィッド・ボウイ "wikilink")などを手掛けた が[ミックスを担当している](../Page/ミキシング.md "wikilink")。
+[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")や[COMPLEX](../Page/COMPLEX.md "wikilink")を始め、ソロ作品でも前作『[GUITARHYTHM III](../Page/GUITARHYTHM_III.md "wikilink")』まで布袋のアルバムに携わってきた[エンジニアのマイケル](../Page/レコーディング・エンジニア.md "wikilink")・ツィマリングが本作には参加しておらず、[クイーンや](../Page/クイーン_\(バンド\).md "wikilink")[デヴィッド・ボウイ](https://ja.wikipedia.org/wiki/デヴィッド・ボウイ "wikilink")などを手掛けた が[ミックスを担当している](../Page/ミキシング.md "wikilink")。
 
 ## リリース
 
-[1994年](../Page/1994年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")に[東芝EMIのイーストワールドレーベルより](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")[コンパクトディスク](../Page/コンパクトディスク.md "wikilink")でリリースされた。
+[1994年](../Page/1994年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")に[東芝EMIのイーストワールドレーベルより](../Page/EMIミュージック・ジャパン.md "wikilink")[コンパクトディスク](../Page/コンパクトディスク.md "wikilink")でリリースされた。
 
 予約生産限定盤としてLP盤も8月24日にリリースされており、前作と同様に曲順がCD盤とは異なっている他、ボーナストラックとして1曲追加されている。
 
-後に収録曲のうち6曲の[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")を収録したビデオ『SERIOUS CLIPS』（1994年）もリリースされた。
+後に収録曲のうち6曲の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")を収録したビデオ『SERIOUS CLIPS』（1994年）もリリースされた。
 
 ## アートワーク
 
@@ -41,7 +41,7 @@
 
 ## ツアー
 
-本作を受けての全国ライブツアーは『**GUITARHYTHM SERIOUS? TOUR**』と題し、1994年[6月10日](../Page/6月10日.md "wikilink")の[渋谷公会堂](https://ja.wikipedia.org/wiki/渋谷公会堂 "wikilink")を皮切りに、27都市44公演を行っている。全公演が[ホール](../Page/ホール.md "wikilink")規模の会場にて行われた。
+本作を受けての全国ライブツアーは『**GUITARHYTHM SERIOUS? TOUR**』と題し、1994年[6月10日](../Page/6月10日.md "wikilink")の[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")を皮切りに、27都市44公演を行っている。全公演が[ホール](../Page/ホール.md "wikilink")規模の会場にて行われた。
 
 また、追加公演として『**GUITARHYTHM SERIOUS\! CLIMAX ARENA TOUR**』と題し、[11月21日](../Page/11月21日.md "wikilink")の[大阪城ホール](../Page/大阪城ホール.md "wikilink")を皮切りに5都市9公演が行われている。こちらは全公演が[アリーナ](../Page/アリーナ.md "wikilink")規模の会場で行われた。このツアーから、最終日となった[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")の[日本武道館](../Page/日本武道館.md "wikilink")公演がライブ・ビデオ『GUITARHYTHM SERIOUS\! CLIMAX』（1995年）としてリリースされた。
 
@@ -58,7 +58,7 @@
 1.  **TIME HAS COME**
       -
         メロディー自体は布袋が[ピアノ](../Page/ピアノ.md "wikilink")で作曲したものだが、クレジット上の作曲者はオーケストラ・[アレンジメントを手掛けた](../Page/編曲.md "wikilink")となっている。布袋曰く「ピアノのみの世界をこれだけ大きくしたのはアレンジを超えたものだと思って、彼のクレジットにした」とのこと\[6\]。
-        後に[ビョーク](https://ja.wikipedia.org/wiki/ビョーク "wikilink")や[オアシス](https://ja.wikipedia.org/wiki/オアシス_\(バンド\) "wikilink")、[ジャミロクワイ](https://ja.wikipedia.org/wiki/ジャミロクワイ "wikilink")、[スーパーグラス](../Page/スーパーグラス.md "wikilink")など数多くのミュージシャンのオーケストラ・アレンジメントを手掛けることになるヘイルだが、この楽曲がフル・オーケストラの初仕事だったとのことである\[7\]。ヘイルは後の布袋作品にも多数関わっており、[2007年](../Page/2007年.md "wikilink")に行われた『[MTV UNPLUGGED 布袋寅泰 supported by music.jp](https://ja.wikipedia.org/wiki/MTV_UNPLUGGED_\(布袋寅泰のアルバム\) "wikilink")』にはピアニストとして、2012年の『GREATEST SUPER LIVE GUITAR×SYMPHONY HOTEI with THE ORCHESTRA World Premiere』にも指揮者及びピアニストとして参加している。
+        後に[ビョーク](https://ja.wikipedia.org/wiki/ビョーク "wikilink")や[オアシス](https://ja.wikipedia.org/wiki/オアシス_\(バンド\) "wikilink")、[ジャミロクワイ](../Page/ジャミロクワイ.md "wikilink")、[スーパーグラス](../Page/スーパーグラス.md "wikilink")など数多くのミュージシャンのオーケストラ・アレンジメントを手掛けることになるヘイルだが、この楽曲がフル・オーケストラの初仕事だったとのことである\[7\]。ヘイルは後の布袋作品にも多数関わっており、[2007年](../Page/2007年.md "wikilink")に行われた『[MTV UNPLUGGED 布袋寅泰 supported by music.jp](https://ja.wikipedia.org/wiki/MTV_UNPLUGGED_\(布袋寅泰のアルバム\) "wikilink")』にはピアニストとして、2012年の『GREATEST SUPER LIVE GUITAR×SYMPHONY HOTEI with THE ORCHESTRA World Premiere』にも指揮者及びピアニストとして参加している。
 2.  **SERIOUS?**
       -
         デモの時点では『POSITIVE?』という仮タイトルだった。
@@ -75,10 +75,10 @@
 6.  **INTERMISSION**
       -
         壮大なストリングスのイントロから始まるバラードナンバー。
-        歌詞はスペインの[マラガ県](https://ja.wikipedia.org/wiki/マラガ県 "wikilink")を旅していた際に出てきたもの\[10\]。「地球の縁に腰かけて　生命がけの暇つぶし」のフレーズは、前年上梓した著書「よい夢を、おやすみ。」のオビに書かれているもの。
+        歌詞はスペインの[マラガ県](../Page/マラガ県.md "wikilink")を旅していた際に出てきたもの\[10\]。「地球の縁に腰かけて　生命がけの暇つぶし」のフレーズは、前年上梓した著書「よい夢を、おやすみ。」のオビに書かれているもの。
 7.  **SIREN**
       -
-        [花田裕之](https://ja.wikipedia.org/wiki/花田裕之 "wikilink")に提供した楽曲のセルフカバー。
+        [花田裕之](../Page/花田裕之.md "wikilink")に提供した楽曲のセルフカバー。
 8.  **OUTSIDER**
 9.  **[さらば青春の光](https://ja.wikipedia.org/wiki/さらば青春の光_\(布袋寅泰の曲\) "wikilink")**
       -
@@ -87,7 +87,7 @@
 10. **ESCAPE**
       -
         7枚目のシングルの[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")。アルバムバージョンで収録。
-        突如思い立ち、夜行列車で[バースまで旅に出て現地のホテルで作った楽曲である](https://ja.wikipedia.org/wiki/バース_\(イングランド\) "wikilink")\[11\]。
+        突如思い立ち、夜行列車で[バースまで旅に出て現地のホテルで作った楽曲である](../Page/バース_\(イングランド\).md "wikilink")\[11\]。
         PVはスペインで撮影された。
 11. **RUN BABY RUN**
 12. **GUITARHYTHM FOREVER**
@@ -114,14 +114,14 @@
 
   - **布袋寅泰** - [プロデューサー](../Page/音楽プロデューサー.md "wikilink")
   - **** - ミックス・エンジニア
-  - **JOHN "TEDDY BEAR" BROUGH** - [レコーディング・エンジニア](https://ja.wikipedia.org/wiki/レコーディング・エンジニア "wikilink")（オーケストラ・トラックを除く）
+  - **JOHN "TEDDY BEAR" BROUGH** - [レコーディング・エンジニア](../Page/レコーディング・エンジニア.md "wikilink")（オーケストラ・トラックを除く）
   - **JOHN GALLEN** - レコーディング・エンジニア（オーケストラ・トラックのみ）
   - **今井邦彦** - レコーディング・エンジニア（「ESCAPE」のみ）
   - **JAMES CADSKY (REAL WORLD STUDIO)** - アシスタント・エンジニア
   - **ASHLEY ALEXANDER (ABBEY ROAD STUDIO)** - アシスタント・エンジニア
   - **JAKE DAVIES (WHITFIELD STUDIO)** - アシスタント・エンジニア
   - **DOMINIK TARQUA (MOUNTAIN STUDIO)** - アシスタント・エンジニア
-  - **KEVIN METCALFE** - [マスタリング・エンジニア](https://ja.wikipedia.org/wiki/マスタリング・エンジニア "wikilink")
+  - **KEVIN METCALFE** - [マスタリング・エンジニア](../Page/マスタリング・エンジニア.md "wikilink")
 
 <!-- end list -->
 
@@ -155,17 +155,17 @@
   - **SHOKO KAWANO** - ヘアー、メイク・アップ
   - **TOSHIAKI UESUGI** - デザイン
   - **IRc2コーポレーション** - マネージメント
-  - **[糟谷銑司](https://ja.wikipedia.org/wiki/糟谷銑司 "wikilink") (TOY BOX PUBLISHERS)** - [エグゼクティブ・プロデューサー](https://ja.wikipedia.org/wiki/エグゼクティブ・プロデューサー "wikilink")
+  - **[糟谷銑司](https://ja.wikipedia.org/wiki/糟谷銑司 "wikilink") (TOY BOX PUBLISHERS)** - [エグゼクティブ・プロデューサー](../Page/エグゼクティブ・プロデューサー.md "wikilink")
   - **[石坂敬一](../Page/石坂敬一.md "wikilink")（東芝EMI）** - エグゼクティブ・プロデューサー
 
 ## リリース履歴
 
-| No. | 日付                                                                                            | [レーベル](../Page/レコードレーベル.md "wikilink")                                    | 規格                                                                 | [規格品番](https://ja.wikipedia.org/wiki/規格品番 "wikilink") | 最高順位 | 備考                                                                                                                                                                                                                         |
-| --- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------ | ----------------------------------------------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | [1994年](../Page/1994年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")                        | [東芝EMI](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")／イーストワールド | [CD](../Page/コンパクトディスク.md "wikilink")                              | TOCT-8370                                             | 2位   |                                                                                                                                                                                                                            |
-| 2   | [1994年](../Page/1994年.md "wikilink")[8月24日](../Page/8月24日.md "wikilink")                      | 東芝EMI／イーストワールド                                                            | [LP](../Page/レコード.md "wikilink")                                   | TOJT-8370                                             | \-   | 曲順がCD版と異なる、ボーナストラック1曲収録                                                                                                                                                                                                    |
-| 3   | [2000年](../Page/2000年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink") | 東芝EMI／アストロノーツスター                                                          | CD                                                                 | AJCH-30007                                            | \-   | [デジタルリマスタリング盤](https://ja.wikipedia.org/wiki/デジタルリマスター "wikilink")                                                                                                                                                         |
-| 4   | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月24日](../Page/12月24日.md "wikilink") | EMIミュージック・ジャパン／ヴァージン                                                      | [SHM-CD](https://ja.wikipedia.org/wiki/スーパー・ハイ・マテリアルCD "wikilink") | TOCT-95005                                            | 52位  | 2000年[デジタルリマスタリング盤](https://ja.wikipedia.org/wiki/デジタルリマスター "wikilink")、[紙ジャケット仕様](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")、『[GUITARHYTHM BOX](https://ja.wikipedia.org/wiki/GUITARHYTHM_BOX "wikilink")』でのリリース |
+| No. | 日付                                                                                            | [レーベル](../Page/レコードレーベル.md "wikilink")                 | 規格                                                                 | [規格品番](../Page/規格品番.md "wikilink") | 最高順位 | 備考                                                                                                                                                                                                      |
+| --- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------------ | ---------------------------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | [1994年](../Page/1994年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")                        | [東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")／イーストワールド | [CD](../Page/コンパクトディスク.md "wikilink")                              | TOCT-8370                          | 2位   |                                                                                                                                                                                                         |
+| 2   | [1994年](../Page/1994年.md "wikilink")[8月24日](../Page/8月24日.md "wikilink")                      | 東芝EMI／イーストワールド                                         | [LP](../Page/レコード.md "wikilink")                                   | TOJT-8370                          | \-   | 曲順がCD版と異なる、ボーナストラック1曲収録                                                                                                                                                                                 |
+| 3   | [2000年](../Page/2000年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink") | 東芝EMI／アストロノーツスター                                       | CD                                                                 | AJCH-30007                         | \-   | [デジタルリマスタリング盤](../Page/デジタルリマスター.md "wikilink")                                                                                                                                                         |
+| 4   | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月24日](../Page/12月24日.md "wikilink") | EMIミュージック・ジャパン／ヴァージン                                   | [SHM-CD](https://ja.wikipedia.org/wiki/スーパー・ハイ・マテリアルCD "wikilink") | TOCT-95005                         | 52位  | 2000年[デジタルリマスタリング盤](../Page/デジタルリマスター.md "wikilink")、[紙ジャケット仕様](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")、『[GUITARHYTHM BOX](https://ja.wikipedia.org/wiki/GUITARHYTHM_BOX "wikilink")』でのリリース |
 
 ## 脚注
 

@@ -1,11 +1,11 @@
 > この記事は[ SOS!!!](https://ja.wikipedia.org/wiki/_SOS!!!)から翻訳されています。
 
 
-『**ドラミちゃん ミニドラSOS\!\!\!**』（ドラミちゃん ミニドラエスオーエス）は、[ドラえもんの妹](https://ja.wikipedia.org/wiki/ドラえもん_\(キャラクター\) "wikilink")[ドラミ](../Page/ドラミ.md "wikilink")の活躍を描いた[アニメ映画](https://ja.wikipedia.org/wiki/アニメ映画 "wikilink")。[1989年](../Page/1989年.md "wikilink")[3月11日](../Page/3月11日.md "wikilink")公開。
+『**ドラミちゃん ミニドラSOS\!\!\!**』（ドラミちゃん ミニドラエスオーエス）は、[ドラえもんの妹](../Page/ドラえもん_\(キャラクター\).md "wikilink")[ドラミ](../Page/ドラミ.md "wikilink")の活躍を描いた[アニメ映画](https://ja.wikipedia.org/wiki/アニメ映画 "wikilink")。[1989年](../Page/1989年.md "wikilink")[3月11日](../Page/3月11日.md "wikilink")公開。
 
-『[ドラえもん のび太の日本誕生](https://ja.wikipedia.org/wiki/ドラえもん_のび太の日本誕生 "wikilink")』の同時上映作品として制作された。ドラミの初主演映画であり、また[ミニドラ](../Page/ミニドラ.md "wikilink")の存在が一躍有名になった作品でもある。『[ドラえもん](https://ja.wikipedia.org/wiki/ドラえもん "wikilink")』のレギュラーキャラクターの成長した姿や、彼らの子供たちの活躍が見られることも特徴。
+『[ドラえもん のび太の日本誕生](../Page/ドラえもん_のび太の日本誕生.md "wikilink")』の同時上映作品として制作された。ドラミの初主演映画であり、また[ミニドラ](../Page/ミニドラ.md "wikilink")の存在が一躍有名になった作品でもある。『[ドラえもん](https://ja.wikipedia.org/wiki/ドラえもん "wikilink")』のレギュラーキャラクターの成長した姿や、彼らの子供たちの活躍が見られることも特徴。
 
-この映画の主題歌として作られた『ハロー\! ドラミちゃん』は、その後もドラミ映画各作品や、テレビシリーズにおいて登場時の[テーマソングとして長年使用され続けることとなった](https://ja.wikipedia.org/wiki/主題歌 "wikilink")。
+この映画の主題歌として作られた『ハロー\! ドラミちゃん』は、その後もドラミ映画各作品や、テレビシリーズにおいて登場時の[テーマソングとして長年使用され続けることとなった](../Page/主題歌.md "wikilink")。
 
 原作は[藤子・F・不二雄](../Page/藤子・F・不二雄.md "wikilink")、監督は[森脇真琴](https://ja.wikipedia.org/wiki/森脇真琴 "wikilink")。
 
@@ -42,7 +42,7 @@
     声 - [たてかべ和也](../Page/たてかべ和也.md "wikilink")
     本名、剛田ヤサシ。ジャイアンの息子。顔や体格は父親譲りだが、性格はまるで正反対で、気弱で心優しい性格。ミニドラとは一番仲良くなる。
   - ゆかり
-    声 - [麻見順子](https://ja.wikipedia.org/wiki/麻見順子 "wikilink")
+    声 - [麻見順子](../Page/麻見順子.md "wikilink")
     劇中ではのびスケ達の試合を観戦していた。のちにのびスケと結婚する\[4\]。
   - [野比静香](../Page/源静香.md "wikilink")
     声 - [野村道子](../Page/野村道子.md "wikilink")
@@ -63,13 +63,13 @@
 
   - 原作 - [藤子・F・不二雄](../Page/藤子・F・不二雄.md "wikilink")
   - 監督 - [森脇真琴](https://ja.wikipedia.org/wiki/森脇真琴 "wikilink")
-  - 脚本 - [もとひら了](https://ja.wikipedia.org/wiki/もとひら了 "wikilink")
+  - 脚本 - [もとひら了](../Page/もとひら了.md "wikilink")
   - 作画監督 - [高倉佳彦](https://ja.wikipedia.org/wiki/高倉佳彦 "wikilink")　　　　　　
   - レイアウト - [本多敏行](../Page/本多敏行.md "wikilink")
   - 美術設定 - [河野次郎](https://ja.wikipedia.org/wiki/河野次郎 "wikilink")
   - 美術監督 - 増田直子
   - 撮影監督 - 熊谷正弘
-  - 録音監督 - [大熊昭](https://ja.wikipedia.org/wiki/大熊昭 "wikilink")
+  - 録音監督 - [大熊昭](../Page/大熊昭.md "wikilink")
   - 音楽 - [田中公平](../Page/田中公平.md "wikilink")
   - 原画 - [林静香](https://ja.wikipedia.org/wiki/林静香 "wikilink")、市川修、東海林真一、林隆文、[木上益治](../Page/木上益治.md "wikilink")、[藤田宗克](https://ja.wikipedia.org/wiki/藤田宗克 "wikilink")
   - 動画 - 黒川祥一、岸沢和江、大森孝敏、[原勝徳](https://ja.wikipedia.org/wiki/原勝徳 "wikilink")、中満貴裕、斉藤徳明、小原健二、田口裕美、天野順子、阿部毅彦、石井明治、菊池市松、高見沢真由美、伊藤武、細木隆浩、野口陽子、阿部恵子
@@ -80,31 +80,31 @@
   - 背景 - [スタジオユニ](../Page/スタジオユニ.md "wikilink")
   - 撮影 - [東京アニメーションフィルム](../Page/アニメフィルム.md "wikilink")
   - エリ合成 - 末弘孝史、酒井幸徳
-  - 演出助手 - [塚田庄英](https://ja.wikipedia.org/wiki/塚田庄英 "wikilink")
+  - 演出助手 - [塚田庄英](../Page/塚田庄英.md "wikilink")
   - 編集 - [岡安肇](https://ja.wikipedia.org/wiki/岡安肇 "wikilink")、[小島俊彦](https://ja.wikipedia.org/wiki/小島俊彦 "wikilink")、中葉由美子、村井秀明、川崎晃洋
-  - 効果 - 松田昭彦（[フィズサウンドクリエイション](https://ja.wikipedia.org/wiki/フィズサウンドクリエイション "wikilink")）
+  - 効果 - 松田昭彦（[フィズサウンドクリエイション](../Page/フィズサウンドクリエイション.md "wikilink")）
   - 整音 - 中戸川次男　
   - 録音スタジオ - [APUスタジオ](https://ja.wikipedia.org/wiki/APU_MEGURO_STUDIO "wikilink")
-  - 録音制作 - [オーディオプランニングユー](https://ja.wikipedia.org/wiki/AUDIO_PLANNING_U "wikilink")
+  - 録音制作 - [オーディオプランニングユー](../Page/AUDIO_PLANNING_U.md "wikilink")
   - 技術協力 - 森幹生
   - タイトル - 道川昭
-  - 現像 - [東京現像所](https://ja.wikipedia.org/wiki/東京現像所 "wikilink")
-  - 制作進行 - 大澤正亨、斉藤敦、[水島努](https://ja.wikipedia.org/wiki/水島努 "wikilink")、星野達也
+  - 現像 - [東京現像所](../Page/東京現像所.md "wikilink")
+  - 制作進行 - 大澤正亨、斉藤敦、[水島努](../Page/水島努.md "wikilink")、星野達也
   - 制作デスク - 山川順一
-  - プロデューサー - 別紙壮一、[茂木仁史](https://ja.wikipedia.org/wiki/茂木仁史 "wikilink")、小泉美明、[木村純一](https://ja.wikipedia.org/wiki/木村純一 "wikilink")
+  - プロデューサー - 別紙壮一、[茂木仁史](../Page/茂木仁史.md "wikilink")、小泉美明、[木村純一](../Page/木村純一.md "wikilink")
   - 制作協力 - [藤子プロ](https://ja.wikipedia.org/wiki/藤子プロ "wikilink")、[旭通信社](https://ja.wikipedia.org/wiki/アサツー_ディ・ケイ "wikilink")
   - 制作 - [シンエイ動画](../Page/シンエイ動画.md "wikilink")、[小学館](../Page/小学館.md "wikilink")、[テレビ朝日](../Page/テレビ朝日.md "wikilink")
 
 ## 主題歌
 
   - 「ハロー\! ドラミちゃん」
-    作詞 - 吉元由美 / 作曲・編曲 - [菊池俊輔](https://ja.wikipedia.org/wiki/菊池俊輔 "wikilink") / 歌 - [山野さと子](../Page/山野さと子.md "wikilink")
+    作詞 - 吉元由美 / 作曲・編曲 - [菊池俊輔](../Page/菊池俊輔.md "wikilink") / 歌 - [山野さと子](../Page/山野さと子.md "wikilink")
 
 ## その他
 
   - 大人ののび太、静香、スネ夫、ジャイアンが初めて映画に初登場をしている。大人静香の素顔も初公開された。
   - のび太の息子の名前の一般的な表記はカタカナの「ノビスケ」だが、本作では「のびスケ」としてクレジットされている。
-  - 大人ののび太は、原作漫画などにときおり登場する姿は[のび助に似ているが](https://ja.wikipedia.org/wiki/野比のび助 "wikilink")、本作ではデザインがかなり異なり、小学生時代同様に眼鏡をかけている。この大人のび太のデザインはレギュラーアニメでも同じで、後年に至るまで長らく使用されていたが、[広森信吾が吹き替えたものは多くなく](https://ja.wikipedia.org/wiki/拡森信吾 "wikilink")、映画ではこの作品のみで、他には「タイムワープリール」「タイムカプセル」「無人島はボクの島」などスペシャル版を中心としたごく限られた話で登場したのみであった。後年は小原乃梨子が少年時代の声をやや太めに演じただけとなっている。
+  - 大人ののび太は、原作漫画などにときおり登場する姿は[のび助に似ているが](../Page/野比のび助.md "wikilink")、本作ではデザインがかなり異なり、小学生時代同様に眼鏡をかけている。この大人のび太のデザインはレギュラーアニメでも同じで、後年に至るまで長らく使用されていたが、[広森信吾が吹き替えたものは多くなく](https://ja.wikipedia.org/wiki/拡森信吾 "wikilink")、映画ではこの作品のみで、他には「タイムワープリール」「タイムカプセル」「無人島はボクの島」などスペシャル版を中心としたごく限られた話で登場したのみであった。後年は小原乃梨子が少年時代の声をやや太めに演じただけとなっている。
   - 本作ではのび太が少年時代に使用していた机がその後も野比家に保管され、ノビスケの机として使用されていることが明かされている。静香は「パパ（のび太）の思い出の品だから」と説明しているが、タイムマシンの搭乗口として残されているという意味もあるらしく、実際ドラミはここから登場した。
   - なお本作の時点でノビスケはドラミと初対面であり、その後の会話からドラえもんとも面識がないことが示唆されている。従って本編中で「ノビスケがドラえもんの存在を知っている」という前提で描かれるエピソードは、時系列上本作より後のことである。
   - 本作の製作には脚本製作段階から原作者の藤子も関与しており、半ば監修の形での参加となった。主にアニメスタッフが出したアイデアに否応を言う事だったが、海底牧場の存在など自らもアイデアを提供している。\[6\]
@@ -115,13 +115,13 @@
 
 ## 参考資料
 
-  - ビデオ『ドラミちゃん ミニドラSOS\!\!\! / [チンプイ](https://ja.wikipedia.org/wiki/チンプイ "wikilink") エリさま活動大写真』 [東宝](../Page/東宝.md "wikilink")、1996年。
+  - ビデオ『ドラミちゃん ミニドラSOS\!\!\! / [チンプイ](../Page/チンプイ.md "wikilink") エリさま活動大写真』 [東宝](../Page/東宝.md "wikilink")、1996年。
 
 [Category:ドラえもん映画作品](https://ja.wikipedia.org/wiki/Category:ドラえもん映画作品 "wikilink") [Category:1989年のアニメ映画](https://ja.wikipedia.org/wiki/Category:1989年のアニメ映画 "wikilink") [Category:東京を舞台としたアニメ映画](https://ja.wikipedia.org/wiki/Category:東京を舞台としたアニメ映画 "wikilink") [Category:未来を題材にした作品](https://ja.wikipedia.org/wiki/Category:未来を題材にした作品 "wikilink")
 
 1.  書籍『映画ドラミちゃんミニドラSOS\!\!（てんとう虫コミックスアニメ版）』目次に掲載の集合写真の日付が 2011.04.05 であることより
 2.  ちなみに、現実の2011年では[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")が発生し、その日付が本作の公開日の[3月11日](../Page/3月11日.md "wikilink")であった。映画の舞台となった2011年4月4日から5日は、現実には、東日本大震災の混乱が未だに残っている時期だった
-3.  劇中、リニアモーターカーの[HSST](../Page/HSST.md "wikilink")が[西武101系電車](https://ja.wikipedia.org/wiki/西武101系電車 "wikilink")を追い抜く描写があるが、HSSTは現実の[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")に[愛知高速交通東部丘陵線](https://ja.wikipedia.org/wiki/愛知高速交通東部丘陵線 "wikilink")（愛称：リニモ）として開業している。
+3.  劇中、リニアモーターカーの[HSST](../Page/HSST.md "wikilink")が[西武101系電車](https://ja.wikipedia.org/wiki/西武101系電車 "wikilink")を追い抜く描写があるが、HSSTは現実の[2005年](../Page/2005年.md "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")に[愛知高速交通東部丘陵線](https://ja.wikipedia.org/wiki/愛知高速交通東部丘陵線 "wikilink")（愛称：リニモ）として開業している。
 4.  書籍「映画アニメ ドラえもん のび太のドラビアンナイト・ドラミちゃん アララ♥少年山賊団\!」に掲載の記事『野比家おもしろキャラ家系図』より
-5.  この作品を参考にしたかは不明だが、[2012年](../Page/2012年.md "wikilink")に放送された[ReBORN](https://ja.wikipedia.org/wiki/ReBORN "wikilink")（『ドラえもん』を実写化した[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")[CM](../Page/コマーシャルメッセージ.md "wikilink")）「ラジコン運転」編において、[小川直也](https://ja.wikipedia.org/wiki/小川直也 "wikilink")演じる30歳のジャイアンが経営している店舗名も「スーパーマーケットジャイアンズ」である。
+5.  この作品を参考にしたかは不明だが、[2012年](../Page/2012年.md "wikilink")に放送された[ReBORN](https://ja.wikipedia.org/wiki/ReBORN "wikilink")（『ドラえもん』を実写化した[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")[CM](../Page/コマーシャルメッセージ.md "wikilink")）「ラジコン運転」編において、[小川直也](../Page/小川直也.md "wikilink")演じる30歳のジャイアンが経営している店舗名も「スーパーマーケットジャイアンズ」である。
 6.  <https://web.archive.org/web/20040610232410/http://homepage.mac.com/wayang_gamelan/interview/moriwaki/index.html>

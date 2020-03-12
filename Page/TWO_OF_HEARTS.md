@@ -1,7 +1,7 @@
 > この記事は[TWO OF HEARTS](https://ja.wikipedia.org/wiki/TWO_OF_HEARTS)から翻訳されています。
 
 
-「**TWO OF HEARTS**」（トゥー・オブ・ハーツ）は、[PAMELAH](https://ja.wikipedia.org/wiki/PAMELAH "wikilink")の10枚目のシングル。
+「**TWO OF HEARTS**」（トゥー・オブ・ハーツ）は、[PAMELAH](../Page/PAMELAH.md "wikilink")の10枚目のシングル。
 
 ## 概要
 
@@ -10,7 +10,7 @@
 ## 収録曲
 
 1.  **TWO OF HEARTS**
-      - 作詞：[水原由貴](https://ja.wikipedia.org/wiki/水原由貴 "wikilink")　作曲・編曲：[小澤正澄](../Page/小澤正澄.md "wikilink")
+      - 作詞：[水原由貴](../Page/水原由貴.md "wikilink")　作曲・編曲：[小澤正澄](../Page/小澤正澄.md "wikilink")
 2.  **a short lived love**
       - 作詞：水原由貴　作曲・編曲：小澤正澄
 3.  **TWO OF HEARTS (inst.)**

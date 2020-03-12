@@ -1,7 +1,7 @@
 > この記事は[ALSOK](https://ja.wikipedia.org/wiki/ALSOK)から翻訳されています。
 
 
-**ALSOK昇日セキュリティサービス株式会社**（アルソックしょうじつセキュリティサービス、ALSOK SHOJITSU SECURITY SERVICE CO., LTD）は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")に本社を置く[綜合警備保障](https://ja.wikipedia.org/wiki/綜合警備保障 "wikilink")グループの警備会社。
+**ALSOK昇日セキュリティサービス株式会社**（アルソックしょうじつセキュリティサービス、ALSOK SHOJITSU SECURITY SERVICE CO., LTD）は、[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")に本社を置く[綜合警備保障](https://ja.wikipedia.org/wiki/綜合警備保障 "wikilink")グループの警備会社。
 
 [2017年](../Page/2017年.md "wikilink")1月までは[日立製作所](../Page/日立製作所.md "wikilink")の完全子会社「**株式会社日立セキュリティサービス**」であったが、同年2月1日付で日立製作所が株式の90%を綜合警備保障に譲渡し、商号変更した\[1\]。
 

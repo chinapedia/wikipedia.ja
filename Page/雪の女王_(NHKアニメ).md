@@ -1,7 +1,7 @@
 > この記事は[ \(NHK\)](https://ja.wikipedia.org/wiki/_\(NHK\))から翻訳されています。
 
 
-『**雪の女王 〜THE SNOW QUEEN〜**』（ゆきのじょおう ザ・スノウクイーン）は、[アンデルセン生誕](../Page/ハンス・クリスチャン・アンデルセン.md "wikilink")200年（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")）を記念して制作されたテレビ[アニメ](../Page/アニメ.md "wikilink")作品。同名のアンデルセン童話『[雪の女王](../Page/雪の女王.md "wikilink")』を元に構成された。2005年[5月22日](../Page/5月22日.md "wikilink")から[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[2月12日](../Page/2月12日.md "wikilink")まで[NHKアニメ劇場](https://ja.wikipedia.org/wiki/NHKアニメ劇場 "wikilink")枠（毎週日曜19時30分 - 19時55分）で放送された。全36話（製作発表時は39話予定）。2006年[5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink")と[5月5日](../Page/5月5日.md "wikilink")（10時05分 - 11時20分）に総集編が放送された。総集編は全6話。また、2011年4月4日から5月24日まで、[NHK BSプレミアムの](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")[BS深夜アニメ館](https://ja.wikipedia.org/wiki/BS深夜アニメ館 "wikilink")にて再放送された。
+『**雪の女王 〜THE SNOW QUEEN〜**』（ゆきのじょおう ザ・スノウクイーン）は、[アンデルセン生誕](../Page/ハンス・クリスチャン・アンデルセン.md "wikilink")200年（[2005年](../Page/2005年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")）を記念して制作されたテレビ[アニメ](../Page/アニメ.md "wikilink")作品。同名のアンデルセン童話『[雪の女王](../Page/雪の女王.md "wikilink")』を元に構成された。2005年[5月22日](../Page/5月22日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[2月12日](../Page/2月12日.md "wikilink")まで[NHKアニメ劇場](../Page/NHKアニメ劇場.md "wikilink")枠（毎週日曜19時30分 - 19時55分）で放送された。全36話（製作発表時は39話予定）。2006年[5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink")と[5月5日](../Page/5月5日.md "wikilink")（10時05分 - 11時20分）に総集編が放送された。総集編は全6話。また、2011年4月4日から5月24日まで、[NHK BSプレミアムの](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")[BS深夜アニメ館](https://ja.wikipedia.org/wiki/BS深夜アニメ館 "wikilink")にて再放送された。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 また、ゲルダと旅をする吟遊詩人のラギは、アニメオリジナルのキャラクターである。
 
-内容的には『[ガンバの冒険](https://ja.wikipedia.org/wiki/ガンバの冒険 "wikilink")』、『[白鯨伝説](https://ja.wikipedia.org/wiki/白鯨伝説 "wikilink")』、『[宝島](https://ja.wikipedia.org/wiki/宝島_\(テレビアニメ\) "wikilink")』などの過去の出崎作品同様[ロードムービー](https://ja.wikipedia.org/wiki/ロードムービー "wikilink")的な要素が強く、メルヘン色は薄い。終盤では「復活する[魔王](https://ja.wikipedia.org/wiki/魔王 "wikilink")との戦い」をメインとしたヒロイックなストーリーも展開された。
+内容的には『[ガンバの冒険](../Page/ガンバの冒険.md "wikilink")』、『[白鯨伝説](../Page/白鯨伝説.md "wikilink")』、『[宝島](https://ja.wikipedia.org/wiki/宝島_\(テレビアニメ\) "wikilink")』などの過去の出崎作品同様[ロードムービー](../Page/ロードムービー.md "wikilink")的な要素が強く、メルヘン色は薄い。終盤では「復活する[魔王](../Page/魔王.md "wikilink")との戦い」をメインとしたヒロイックなストーリーも展開された。
 
 他のアンデルセン童話の要素も数多く織り込まれている。また、アンデルセン童話を伝説として紹介した上でアニメオリジナルのストーリーが多くなっている。
 
@@ -30,85 +30,85 @@
 
   - 雪の女王 - [涼風真世](../Page/涼風真世.md "wikilink")
   - ゲルダ - [川澄綾子](../Page/川澄綾子.md "wikilink")
-  - カイ / 春の国の王子 - [夏樹リオ](https://ja.wikipedia.org/wiki/夏樹リオ "wikilink")
-  - カール（カイの父） - [高嶋政宏](https://ja.wikipedia.org/wiki/高嶋政宏 "wikilink")
-  - ニナ（カイの母） - [日高のり子](https://ja.wikipedia.org/wiki/日高のり子 "wikilink")
-  - ヨハンネ（カイの妹） - [城雅子](https://ja.wikipedia.org/wiki/城雅子 "wikilink")
-  - マティルデ（ゲルダの祖母） - [翠準子](https://ja.wikipedia.org/wiki/翠準子 "wikilink")
-  - 赤トロル（女王の侍従） - [後藤哲夫](https://ja.wikipedia.org/wiki/後藤哲夫 "wikilink")
-  - 青トロル（女王の侍従） - [鈴木琢磨](https://ja.wikipedia.org/wiki/鈴木琢磨 "wikilink")
+  - カイ / 春の国の王子 - [夏樹リオ](../Page/夏樹リオ.md "wikilink")
+  - カール（カイの父） - [高嶋政宏](../Page/高嶋政宏.md "wikilink")
+  - ニナ（カイの母） - [日高のり子](../Page/日高のり子.md "wikilink")
+  - ヨハンネ（カイの妹） - [城雅子](../Page/城雅子.md "wikilink")
+  - マティルデ（ゲルダの祖母） - [翠準子](../Page/翠準子.md "wikilink")
+  - 赤トロル（女王の侍従） - [後藤哲夫](../Page/後藤哲夫.md "wikilink")
+  - 青トロル（女王の侍従） - [鈴木琢磨](../Page/鈴木琢磨.md "wikilink")
   - アザラシ（カイのペット） - [佐久間レイ](../Page/佐久間レイ.md "wikilink")
-  - アモール（ラギの飼猿） - [長沢美樹](https://ja.wikipedia.org/wiki/長沢美樹 "wikilink")
+  - アモール（ラギの飼猿） - [長沢美樹](../Page/長沢美樹.md "wikilink")
   - 風の化身 / 愚か者 / 魔王 - [大塚明夫](../Page/大塚明夫.md "wikilink")
-  - ラギ（[吟遊詩人](https://ja.wikipedia.org/wiki/吟遊詩人 "wikilink")）、語り - [仲村トオル](../Page/仲村トオル.md "wikilink")
+  - ラギ（[吟遊詩人](../Page/吟遊詩人.md "wikilink")）、語り - [仲村トオル](../Page/仲村トオル.md "wikilink")
 
 ### ゲスト
 
-  - 村人 - [仲野裕](https://ja.wikipedia.org/wiki/仲野裕 "wikilink")、[相沢正輝](../Page/相沢まさき.md "wikilink")、[大西健晴](https://ja.wikipedia.org/wiki/大西健晴 "wikilink")（第1話）
-  - 子ども - [西村朋紘](https://ja.wikipedia.org/wiki/西村朋紘 "wikilink")、[有島モユ](https://ja.wikipedia.org/wiki/有島モユ "wikilink")、[青山桐子](https://ja.wikipedia.org/wiki/青山桐子 "wikilink")、[相橋愛子](https://ja.wikipedia.org/wiki/相橋愛子 "wikilink")（第1話）
-  - 洗濯屋の男 - [星野充昭](https://ja.wikipedia.org/wiki/星野充昭 "wikilink")（第2話）
-  - 洗濯する女 - [真山亜子](https://ja.wikipedia.org/wiki/真山亜子 "wikilink")、[村上はるみ](../Page/村上はるみ.md "wikilink")（第2，3話）
+  - 村人 - [仲野裕](../Page/仲野裕.md "wikilink")、[相沢正輝](../Page/相沢まさき.md "wikilink")、[大西健晴](../Page/大西健晴.md "wikilink")（第1話）
+  - 子ども - [西村朋紘](../Page/西村朋紘.md "wikilink")、[有島モユ](../Page/有島モユ.md "wikilink")、[青山桐子](../Page/青山桐子.md "wikilink")、[相橋愛子](https://ja.wikipedia.org/wiki/相橋愛子 "wikilink")（第1話）
+  - 洗濯屋の男 - [星野充昭](../Page/星野充昭.md "wikilink")（第2話）
+  - 洗濯する女 - [真山亜子](../Page/真山亜子.md "wikilink")、[村上はるみ](../Page/村上はるみ.md "wikilink")（第2，3話）
   - 男の子 - 西村朋紘（第3話）
-  - 街の男 - [宝亀克寿](https://ja.wikipedia.org/wiki/宝亀克寿 "wikilink")（第4話）
+  - 街の男 - [宝亀克寿](../Page/宝亀克寿.md "wikilink")（第4話）
   - マスター - [小林和矢](https://ja.wikipedia.org/wiki/小林和矢 "wikilink")（第4話）
   - よっぱらい - [二又一成](../Page/二又一成.md "wikilink")（第4話）
   - カスパ - [井上順](../Page/井上順.md "wikilink")（第5話）
-  - ソアン - [宮本充](https://ja.wikipedia.org/wiki/宮本充 "wikilink")（第5話）
+  - ソアン - [宮本充](../Page/宮本充.md "wikilink")（第5話）
   - アゥネーテ - [三石琴乃](../Page/三石琴乃.md "wikilink")（第5話）
-  - ピエロ - [坂口候一](https://ja.wikipedia.org/wiki/坂口候一 "wikilink")（第5話）
-  - パン屋 - [河相智哉](https://ja.wikipedia.org/wiki/河相智哉 "wikilink")（第5話）
-  - 魚屋 - [橘U子](https://ja.wikipedia.org/wiki/橘U子 "wikilink")（第5話）
+  - ピエロ - [坂口候一](../Page/坂口候一.md "wikilink")（第5話）
+  - パン屋 - [河相智哉](../Page/河相智哉.md "wikilink")（第5話）
+  - 魚屋 - [橘U子](../Page/橘U子.md "wikilink")（第5話）
   - 子ども - 青山桐子（第5話）
   - トーマス - [たてかべ和也](../Page/たてかべ和也.md "wikilink")（第6話）
   - アーニャ - [勝生真沙子](../Page/勝生真沙子.md "wikilink")（第6話）
-  - リーネ - [仲尾あずさ](https://ja.wikipedia.org/wiki/仲尾あづさ "wikilink")（第6話）
-  - パブの女主人 - [梅田貴公美](https://ja.wikipedia.org/wiki/梅田貴公美 "wikilink")（第6話）
-  - グロブ王 - [家中宏](https://ja.wikipedia.org/wiki/家中宏 "wikilink")（第7話）
+  - リーネ - [仲尾あずさ](../Page/仲尾あづさ.md "wikilink")（第6話）
+  - パブの女主人 - [梅田貴公美](../Page/梅田貴公美.md "wikilink")（第6話）
+  - グロブ王 - [家中宏](../Page/家中宏.md "wikilink")（第7話）
   - オリーネ - [鶴ひろみ](../Page/鶴ひろみ.md "wikilink")（第7話）
   - 大臣 - [相沢正輝](../Page/相沢まさき.md "wikilink")（第7話）
   - 家来 - [桐本琢也](https://ja.wikipedia.org/wiki/桐本琢也 "wikilink")（第7話）
-  - 商人 - [西凛太朗](https://ja.wikipedia.org/wiki/西凜太朗 "wikilink")（第7話）
-  - 街の人 - [田中完](https://ja.wikipedia.org/wiki/田中完 "wikilink")（第7話）
+  - 商人 - [西凛太朗](../Page/西凜太朗.md "wikilink")（第7話）
+  - 街の人 - [田中完](../Page/田中完.md "wikilink")（第7話）
   - 旅の女 - [東さおり](../Page/東さおり.md "wikilink")（第7話）
-  - 兵 - [酒井敬幸](../Page/酒井敬幸.md "wikilink")、[逢坂力](https://ja.wikipedia.org/wiki/逢坂力 "wikilink")（第7話）
+  - 兵 - [酒井敬幸](../Page/酒井敬幸.md "wikilink")、[逢坂力](../Page/逢坂力.md "wikilink")（第7話）
   - 魔法使い - [池内淳子](../Page/池内淳子.md "wikilink")（第8，9話）
   - ネズミ- [中尾隆聖](../Page/中尾隆聖.md "wikilink")（第8，9話）
   - 川の精 - [島本須美](../Page/島本須美.md "wikilink")（第8，9話）
-  - バラの精 - [潘恵子](https://ja.wikipedia.org/wiki/潘恵子 "wikilink")（第8，9話）
-  - スズの兵隊 - [志村知幸](https://ja.wikipedia.org/wiki/志村知幸 "wikilink")、[園部啓一](https://ja.wikipedia.org/wiki/園部啓一 "wikilink")（第8，9話）
-  - クラウス - [水谷優子](https://ja.wikipedia.org/wiki/水谷優子 "wikilink")（第10話）
-  - クラウスの父（仕立て屋） - [松本保典](https://ja.wikipedia.org/wiki/松本保典 "wikilink")（第10話）
-  - クラウスの母 - [伊藤美紀](https://ja.wikipedia.org/wiki/伊藤美紀_\(声優\) "wikilink")（第10話）
+  - バラの精 - [潘恵子](../Page/潘恵子.md "wikilink")（第8，9話）
+  - スズの兵隊 - [志村知幸](../Page/志村知幸.md "wikilink")、[園部啓一](../Page/園部啓一.md "wikilink")（第8，9話）
+  - クラウス - [水谷優子](../Page/水谷優子.md "wikilink")（第10話）
+  - クラウスの父（仕立て屋） - [松本保典](../Page/松本保典.md "wikilink")（第10話）
+  - クラウスの母 - [伊藤美紀](../Page/伊藤美紀_\(声優\).md "wikilink")（第10話）
   - 警官 - [横尾博之](../Page/横尾博之.md "wikilink")、[四宮豪](../Page/四宮豪.md "wikilink")（第10話）
-  - 花屋 - [加藤木賢志](https://ja.wikipedia.org/wiki/加藤木賢志 "wikilink")（第10話）
+  - 花屋 - [加藤木賢志](../Page/加藤木賢志.md "wikilink")（第10話）
   - イーダ - [すずき紀子](../Page/すずき紀子.md "wikilink")（第10話）
-  - 亭主 - [高橋良吉](https://ja.wikipedia.org/wiki/高橋良吉 "wikilink")（第10話）
+  - 亭主 - [高橋良吉](../Page/高橋良吉.md "wikilink")（第10話）
   - 街の人 - [小伏伸之](https://ja.wikipedia.org/wiki/小伏伸之 "wikilink")（第10話）
   - カーレン - [小林沙苗](../Page/小林沙苗.md "wikilink")（第11話）
-  - オルセン（カーレンの父/家具職人）- [宗矢樹頼](https://ja.wikipedia.org/wiki/宗矢樹頼 "wikilink")（第11話）
-  - フリーズ伯爵夫人（街の富豪）- [高島雅羅](https://ja.wikipedia.org/wiki/高島雅羅 "wikilink")（第11話）
-  - イエンス（カーレンの次弟）- [木内レイコ](https://ja.wikipedia.org/wiki/木内レイコ "wikilink")（第11話）
+  - オルセン（カーレンの父/家具職人）- [宗矢樹頼](../Page/宗矢樹頼.md "wikilink")（第11話）
+  - フリーズ伯爵夫人（街の富豪）- [高島雅羅](../Page/高島雅羅.md "wikilink")（第11話）
+  - イエンス（カーレンの次弟）- [木内レイコ](../Page/木内レイコ.md "wikilink")（第11話）
   - オルガ（カーレンの三弟）- [浅井清己](../Page/浅井清己.md "wikilink")（第11話）
   - レネ（カーレンの次妹）- 青山桐子（第11話）
   - エッダ - [磯西真喜](https://ja.wikipedia.org/wiki/磯西真喜 "wikilink")（第11話）
   - 靴屋 - 後藤哲夫（第11話）
   - 伯爵夫人の従者 - 鈴木琢磨（第11話）
   - 上流階級の少女 - 夏樹リオ（第11話）
-  - 男 - [宮島史年](https://ja.wikipedia.org/wiki/宮島史年 "wikilink")（第11話）
+  - 男 - [宮島史年](../Page/宮島史年.md "wikilink")（第11話）
   - ダニエル（ロクロ職人） - [田村亮](../Page/田村亮_\(俳優\).md "wikilink")（第12話）
   - ペーター（ダニエルの息子） - [山口勝平](../Page/山口勝平.md "wikilink")（第12話）
-  - 傘屋のおやじ - [麦人](https://ja.wikipedia.org/wiki/麦人 "wikilink")（第12話）
+  - 傘屋のおやじ - [麦人](../Page/麦人.md "wikilink")（第12話）
   - 女の子 - [大谷育江](../Page/大谷育江.md "wikilink")、相橋愛子、[小橋知子](../Page/小橋知子.md "wikilink")
   - 男の子 - 城雅子
-  - 猟師 - [大川透](https://ja.wikipedia.org/wiki/大川透 "wikilink")（第13話）
-  - 客 - [滝知史](https://ja.wikipedia.org/wiki/滝知史 "wikilink")（第13話）
-  - 男 - [白熊寛嗣](https://ja.wikipedia.org/wiki/白熊寛嗣 "wikilink")（第13話）
-  - マティアス - [池田勝](https://ja.wikipedia.org/wiki/池田勝 "wikilink")（第14話）
-  - エマ - [堀越真己](https://ja.wikipedia.org/wiki/堀越真己 "wikilink")（第14話）
-  - 山賊親分 - [郷里大輔](https://ja.wikipedia.org/wiki/郷里大輔 "wikilink")（第14話）
+  - 猟師 - [大川透](../Page/大川透.md "wikilink")（第13話）
+  - 客 - [滝知史](../Page/滝知史.md "wikilink")（第13話）
+  - 男 - [白熊寛嗣](../Page/白熊寛嗣.md "wikilink")（第13話）
+  - マティアス - [池田勝](../Page/池田勝.md "wikilink")（第14話）
+  - エマ - [堀越真己](../Page/堀越真己.md "wikilink")（第14話）
+  - 山賊親分 - [郷里大輔](../Page/郷里大輔.md "wikilink")（第14話）
   - 子分 - 鈴木琢磨（第14話）
-  - 船員 - [石野竜三](https://ja.wikipedia.org/wiki/石野竜三 "wikilink")（第14話）
-  - 男 - [平野俊隆](https://ja.wikipedia.org/wiki/平野俊隆 "wikilink")（第14話）
+  - 船員 - [石野竜三](../Page/石野竜三.md "wikilink")（第14話）
+  - 男 - [平野俊隆](../Page/平野俊隆.md "wikilink")（第14話）
   - ハンス・アレキサンドル・ホルム（発明家） - [関口知宏](../Page/関口知宏.md "wikilink")（第15、16、22、24、36話）
   - 長老 - [大竹宏](../Page/大竹宏.md "wikilink")（第15話）
   - ウェイトレス - 城雅子（第15話）
@@ -116,30 +116,30 @@
   - ヴィロム親方 - [玄田哲章](https://ja.wikipedia.org/wiki/玄田哲章 "wikilink")（第16、26話）
   - ヴィロムの息子 - [川島得愛](https://ja.wikipedia.org/wiki/川島得愛 "wikilink")（第16、26話）
   - 鉱夫 - 後藤哲夫、鈴木琢磨（第16話）
-  - 店主 - [小形満](https://ja.wikipedia.org/wiki/小形満 "wikilink")（第16話）
+  - 店主 - [小形満](../Page/小形満.md "wikilink")（第16話）
   - 牧師 - [三浦博和](../Page/三浦博和.md "wikilink")（第16話）
-  - ヘレーネ - [こだま愛](https://ja.wikipedia.org/wiki/こだま愛 "wikilink")（第17話）
+  - ヘレーネ - [こだま愛](../Page/こだま愛.md "wikilink")（第17話）
   - ラスムス - [雪野五月](https://ja.wikipedia.org/wiki/雪野五月 "wikilink")（第17話）
-  - マーレン - [定岡小百合](https://ja.wikipedia.org/wiki/定岡小百合 "wikilink")（第17話）
-  - ラスムスの父 - [堀内賢雄](https://ja.wikipedia.org/wiki/堀内賢雄 "wikilink")（第17話）
+  - マーレン - [定岡小百合](../Page/定岡小百合.md "wikilink")（第17話）
+  - ラスムスの父 - [堀内賢雄](../Page/堀内賢雄.md "wikilink")（第17話）
   - 女たち - [前田敏子](../Page/前田敏子.md "wikilink")、夏樹リオ、城雅子（第17話）
   - 医者 - 鈴木琢磨（第17話）
   - ルービン船長 - [田中健](../Page/田中健_\(俳優\).md "wikilink")（第18話）
-  - 船員 - [大木民夫](https://ja.wikipedia.org/wiki/大木民夫 "wikilink")、[沢木郁也](https://ja.wikipedia.org/wiki/沢木郁也 "wikilink")、[内藤玲](https://ja.wikipedia.org/wiki/内藤玲 "wikilink")（第18話）
-  - パルメ - [中村秀利](https://ja.wikipedia.org/wiki/中村秀利 "wikilink")（第18話）
+  - 船員 - [大木民夫](../Page/大木民夫.md "wikilink")、[沢木郁也](../Page/沢木郁也.md "wikilink")、[内藤玲](../Page/内藤玲.md "wikilink")（第18話）
+  - パルメ - [中村秀利](../Page/中村秀利.md "wikilink")（第18話）
   - マリア - 大谷育江（第19話）
-  - おばあちゃん（マリアの祖母） - [京田尚子](https://ja.wikipedia.org/wiki/京田尚子 "wikilink")（第19話）
+  - おばあちゃん（マリアの祖母） - [京田尚子](../Page/京田尚子.md "wikilink")（第19話）
   - 家主 - 後藤哲夫（第19話）
-  - 宿屋こけもも亭主人 - [麻生智久](https://ja.wikipedia.org/wiki/麻生智久 "wikilink")（第19話）
+  - 宿屋こけもも亭主人 - [麻生智久](../Page/麻生智久.md "wikilink")（第19話）
   - 街の男 - 鈴木琢磨（第19話）
   - 修道女 - 夏樹リオ（第19話）
   - 少年 - 城雅子（第19話）
-  - 子ども - [笠原拓巳](https://ja.wikipedia.org/wiki/笠原拓巳 "wikilink")、[川崎樹音](https://ja.wikipedia.org/wiki/川崎樹音 "wikilink")（[てれび戦士](https://ja.wikipedia.org/wiki/てれび戦士 "wikilink")（当時））\[1\]（第19話）
+  - 子ども - [笠原拓巳](../Page/笠原拓巳.md "wikilink")、[川崎樹音](https://ja.wikipedia.org/wiki/川崎樹音 "wikilink")（[てれび戦士](https://ja.wikipedia.org/wiki/てれび戦士 "wikilink")（当時））\[1\]（第19話）
   - クリスティーネ - [渕崎ゆり子](../Page/渕崎ゆり子.md "wikilink")（第21話）
-  - イエッペ - [志村知幸](https://ja.wikipedia.org/wiki/志村知幸 "wikilink")（第21話）
-  - パーテル - [高橋直純](https://ja.wikipedia.org/wiki/高橋直純 "wikilink")（第21話）
+  - イエッペ - [志村知幸](../Page/志村知幸.md "wikilink")（第21話）
+  - パーテル - [高橋直純](../Page/高橋直純.md "wikilink")（第21話）
   - おばあちゃん - [野沢雅子](../Page/野沢雅子.md "wikilink")（第21話）
-  - フレディ - [内田直哉](https://ja.wikipedia.org/wiki/内田直哉 "wikilink")（第22話）
+  - フレディ - [内田直哉](../Page/内田直哉.md "wikilink")（第22話）
   - アメリア - [篠原恵美](../Page/篠原恵美.md "wikilink")（第22話）
   - エリック - [坂本千夏](../Page/坂本千夏.md "wikilink")（第22話）
   - 団員 - 鈴木琢磨（第22話）
@@ -148,14 +148,14 @@
   - 荷車のおじさん - 後藤哲夫（第24話）
   - 街の男 - 鈴木琢磨（第24話）
   - 街の女 - 城雅子（第24話）
-  - アルフレッド王 - [錦織一清](https://ja.wikipedia.org/wiki/錦織一清 "wikilink")（第25話）
+  - アルフレッド王 - [錦織一清](../Page/錦織一清.md "wikilink")（第25話）
   - アウネス王妃 - 佐久間レイ（第25話）
   - 兄王 - 星野充昭（第25話）
-  - 司祭 - [成田剣](https://ja.wikipedia.org/wiki/成田剣 "wikilink")（第25話）
+  - 司祭 - [成田剣](../Page/成田剣.md "wikilink")（第25話）
   - 兵士 - 鈴木琢磨（第25話）
-  - 長老トロル - [立木文彦](https://ja.wikipedia.org/wiki/立木文彦 "wikilink")（第26話）
+  - 長老トロル - [立木文彦](../Page/立木文彦.md "wikilink")（第26話）
   - 巨人ホルガー - 麦人（第26話）
-  - モーリー - [矢尾一樹](https://ja.wikipedia.org/wiki/矢尾一樹 "wikilink")（第28話）
+  - モーリー - [矢尾一樹](../Page/矢尾一樹.md "wikilink")（第28話）
   - ローシー- 有島モユ（第28話）
   - 春の国の王女- 城雅子（第28話）
   - 警備隊長- 宝亀克寿（第28話）
@@ -163,18 +163,18 @@
   - 兵士- 鈴木琢磨（第28話）
   - べー（トナカイ） - [菅原文太](https://ja.wikipedia.org/wiki/菅原文太 "wikilink")（第29～31、36話）
   - アマンダ（山賊の女頭目） - [草笛光子](../Page/草笛光子.md "wikilink")（第29～31話）
-  - フリーダ（山賊の娘） - [横山智佐](https://ja.wikipedia.org/wiki/横山智佐 "wikilink")（第29～31、36話）
+  - フリーダ（山賊の娘） - [横山智佐](../Page/横山智佐.md "wikilink")（第29～31、36話）
   - ガイオン（別な山賊一味の頭目） - [内海賢二](../Page/内海賢二.md "wikilink")（第29～31話）
-  - ギルバート - [川田紳司](https://ja.wikipedia.org/wiki/川田紳司 "wikilink")（第29～31話）
-  - アマンダの子分 - 田中完（第29～31話）、後藤哲夫（第29話）、[下山吉光](https://ja.wikipedia.org/wiki/下山吉光 "wikilink")（第29話）
+  - ギルバート - [川田紳司](../Page/川田紳司.md "wikilink")（第29～31話）
+  - アマンダの子分 - 田中完（第29～31話）、後藤哲夫（第29話）、[下山吉光](../Page/下山吉光.md "wikilink")（第29話）
   - ガイオンの子分 - 鈴木琢磨（第29～31話）、後藤哲夫（第30、31話）、下山吉光（第30、31話）
-  - 白熊- [阪脩](https://ja.wikipedia.org/wiki/阪脩 "wikilink")（第31話）
+  - 白熊- [阪脩](../Page/阪脩.md "wikilink")（第31話）
   - 医者- [桐本琢也](https://ja.wikipedia.org/wiki/桐本琢也 "wikilink")（第31話）
   - 賢者 - [川原亜矢子](https://ja.wikipedia.org/wiki/川原亜矢子 "wikilink")（第32話）
   - 風使い - [小原乃梨子](../Page/小原乃梨子.md "wikilink")（第32話）
   - トナカイ - 鈴木琢磨（第32話）
-  - ゲルダの父 - [中村大樹](https://ja.wikipedia.org/wiki/中村大樹 "wikilink")（第33話）
-  - ゲルダの母 - [河原木志穂](https://ja.wikipedia.org/wiki/河原木志穂 "wikilink")（第33話）
+  - ゲルダの父 - [中村大樹](../Page/中村大樹.md "wikilink")（第33話）
+  - ゲルダの母 - [河原木志穂](../Page/河原木志穂.md "wikilink")（第33話）
 
 ### 配役の序列
 
@@ -182,11 +182,11 @@
 
 ## スタッフ
 
-  - 監督 - [出崎統](https://ja.wikipedia.org/wiki/出崎統 "wikilink")
+  - 監督 - [出崎統](../Page/出崎統.md "wikilink")
   - 監督補 - [矢野篤](https://ja.wikipedia.org/wiki/矢野篤 "wikilink")
-  - シリーズ構成 - [十川誠志](https://ja.wikipedia.org/wiki/十川誠志 "wikilink")
+  - シリーズ構成 - [十川誠志](../Page/十川誠志.md "wikilink")
   - 時代考証 - 舛田啓介
-  - キャラクターデザイン - [杉野昭夫](https://ja.wikipedia.org/wiki/杉野昭夫 "wikilink")
+  - キャラクターデザイン - [杉野昭夫](../Page/杉野昭夫.md "wikilink")
   - 美術監督 - [河野次郎](https://ja.wikipedia.org/wiki/河野次郎 "wikilink")
   - 色彩設計 - 伊藤純子
   - 撮影監督 - 白尾仁志
@@ -194,14 +194,14 @@
   - 音楽 - [千住明](../Page/千住明.md "wikilink")
   - 音響監督 - [山田知明](https://ja.wikipedia.org/wiki/山田知明 "wikilink")
   - アニメーションプロデューサー - 宮本秀晃
-  - アニメーション制作 - [トムス・エンタテインメント](https://ja.wikipedia.org/wiki/トムス・エンタテインメント "wikilink")
+  - アニメーション制作 - [トムス・エンタテインメント](../Page/トムス・エンタテインメント.md "wikilink")
   - 共同制作 - [NHKエンタープライズ](../Page/NHKエンタープライズ.md "wikilink")
   - 制作・著作 - NHK
 
 ## 主題歌
 
   - オープニングテーマ - 「スノーダイヤモンド」
-    作曲・編曲 - [千住明](../Page/千住明.md "wikilink") / バイオリン演奏 - [千住真理子](https://ja.wikipedia.org/wiki/千住真理子 "wikilink")
+    作曲・編曲 - [千住明](../Page/千住明.md "wikilink") / バイオリン演奏 - [千住真理子](../Page/千住真理子.md "wikilink")
   - エンディングテーマ - 「大好きな君に」
     作詞・作曲・歌 - [小田和正](../Page/小田和正.md "wikilink")
 
@@ -230,8 +230,8 @@
 <tr class="odd">
 <td><p>第1話</p></td>
 <td><p>ゲルダとカイ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/十川誠志" title="wikilink">十川誠志</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/出崎統" title="wikilink">出崎統</a></p></td>
+<td><p><a href="../Page/十川誠志.md" title="wikilink">十川誠志</a></p></td>
+<td><p><a href="../Page/出崎統.md" title="wikilink">出崎統</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/矢野篤" title="wikilink">矢野篤</a></p></td>
 <td><p>八崎健二</p></td>
 <td><p><strong>2005年</strong><br />
@@ -267,7 +267,7 @@
 <tr class="odd">
 <td><p>第5話</p></td>
 <td><p>はじめての道</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/富田祐弘" title="wikilink">富田祐弘</a></p></td>
+<td><p><a href="../Page/富田祐弘.md" title="wikilink">富田祐弘</a></p></td>
 <td><p>矢野篤</p></td>
 <td><p>立中順平</p></td>
 <td><p>6月19日</p></td>
@@ -276,7 +276,7 @@
 <tr class="even">
 <td><p>第6話</p></td>
 <td><p>えんどう豆と少女</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/島田満" title="wikilink">島田満</a></p></td>
+<td><p><a href="../Page/島田満.md" title="wikilink">島田満</a></p></td>
 <td><p>熨斗谷充孝</p></td>
 <td><p>小林ゆかり</p></td>
 <td><p>6月26日</p></td>
@@ -286,7 +286,7 @@
 <td><p>第7話</p></td>
 <td><p>悪い王様</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/中村誠_(脚本家)" title="wikilink">中村誠</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/鏑木ひろ" title="wikilink">鏑木ひろ</a></p></td>
+<td><p><a href="../Page/鏑木ひろ.md" title="wikilink">鏑木ひろ</a></p></td>
 <td><p>八崎健二</p></td>
 <td><p>7月3日</p></td>
 <td></td>
@@ -377,7 +377,7 @@
 <tr class="odd">
 <td><p>第17話</p></td>
 <td><p>あの女はろくでなし</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/金春智子" title="wikilink">金春智子</a></p></td>
+<td><p><a href="../Page/金春智子.md" title="wikilink">金春智子</a></p></td>
 <td><p>矢野篤</p></td>
 <td><p>望月謙</p></td>
 <td><p>9月18日</p></td>
@@ -515,7 +515,7 @@
 <td><p>賢者と風使い</p></td>
 <td><p>金春智子</p></td>
 <td><p>前島健一</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/湖川友謙" title="wikilink">湖川友謙</a></p></td>
+<td><p><a href="../Page/湖川友謙.md" title="wikilink">湖川友謙</a></p></td>
 <td><p>1月15日</p></td>
 <td></td>
 </tr>

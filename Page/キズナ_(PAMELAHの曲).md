@@ -1,17 +1,17 @@
 > この記事は[ \(PAMELAH\)](https://ja.wikipedia.org/wiki/_\(PAMELAH\))から翻訳されています。
 
 
-「**キズナ**」は、[PAMELAH](https://ja.wikipedia.org/wiki/PAMELAH "wikilink")の11枚目のシングル。
+「**キズナ**」は、[PAMELAH](../Page/PAMELAH.md "wikilink")の11枚目のシングル。
 
 ## 概要
 
-表題曲は、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系特撮ドラマ『[仮面天使ロゼッタ](https://ja.wikipedia.org/wiki/仮面天使ロゼッタ "wikilink")』エンディング・テーマ。
+表題曲は、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系特撮ドラマ『[仮面天使ロゼッタ](../Page/仮面天使ロゼッタ.md "wikilink")』エンディング・テーマ。
 
 ## 収録曲
 
 1.  **キズナ**　（4:02）
       -
-        作詞：[水原由貴](https://ja.wikipedia.org/wiki/水原由貴 "wikilink")　作曲・編曲：[小澤正澄](../Page/小澤正澄.md "wikilink")
+        作詞：[水原由貴](../Page/水原由貴.md "wikilink")　作曲・編曲：[小澤正澄](../Page/小澤正澄.md "wikilink")
         マイナーのミディアム・テンポの遠距離恋愛ソング。最初はシンセがもっと入っていたが歌入れ後のミックスで音数をかなり減らした。しかし、水原の「もうちょっと足してほしい」という意見が出たため話し合って納得したものが完成品。
 2.  **心の鍵**　（3:18）
       -

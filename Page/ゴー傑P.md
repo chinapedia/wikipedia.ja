@@ -1,13 +1,13 @@
 > この記事は[P](https://ja.wikipedia.org/wiki/P)から翻訳されています。
 
 
-**ゴー傑P**（ゴーけつピー）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")まで[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")で放送されていた番組。[小籔千豊](https://ja.wikipedia.org/wiki/小籔千豊 "wikilink")（[吉本新喜劇](https://ja.wikipedia.org/wiki/吉本新喜劇 "wikilink")座長）と[笑い飯](../Page/笑い飯.md "wikilink")（[西田幸治](../Page/笑い飯.md "wikilink")・[哲夫](../Page/笑い飯.md "wikilink")）がパーソナリティを務めていた。
+**ゴー傑P**（ゴーけつピー）は、[2006年](../Page/2006年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")まで[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")で放送されていた番組。[小籔千豊](../Page/小籔千豊.md "wikilink")（[吉本新喜劇](../Page/吉本新喜劇.md "wikilink")座長）と[笑い飯](../Page/笑い飯.md "wikilink")（[西田幸治](../Page/笑い飯.md "wikilink")・[哲夫](../Page/笑い飯.md "wikilink")）がパーソナリティを務めていた。
 
 当ページでは、[2018年](../Page/2018年.md "wikilink")[4月13日](../Page/4月13日.md "wikilink")から、月に1回のペースで[土曜日](../Page/土曜日.md "wikilink")の0:20 - 2:00（[金曜日](../Page/金曜日.md "wikilink")の24:20 - 26:00）に放送される**小藪×笑い飯の「土020」**（こやぶ×わらいめしの「どーれーにじゅう」）についても述べる。ただし、放送開始・終了日などを暦日で表記していることに留意されたい。
 
 ## 概要
 
-基本として、毎週土曜日の未明（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")4月から半年間は2:00 - 4:30、それ以外の期間は2:00 - 4:55）に生放送。『[ゴーゴーモンキーズ](https://ja.wikipedia.org/wiki/ゴーゴーモンキーズ "wikilink")』（MBSラジオで2006年3月まで放送されていた深夜番組）の水曜パーソナリティだった小籔と笑い飯を「ホスト」として、毎週1組のゲストを交えながら、主にフリートークを展開していた。
+基本として、毎週土曜日の未明（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")4月から半年間は2:00 - 4:30、それ以外の期間は2:00 - 4:55）に生放送。『[ゴーゴーモンキーズ](../Page/ゴーゴーモンキーズ.md "wikilink")』（MBSラジオで2006年3月まで放送されていた深夜番組）の水曜パーソナリティだった小籔と笑い飯を「ホスト」として、毎週1組のゲストを交えながら、主にフリートークを展開していた。
 
 レギュラー番組としては2009年3月で終了したが、MBSラジオでは、2010年と2011年に当番組から派生した特別企画を放送。2018年の4月改編からは、月に1回ながら、『**小藪×笑い飯の「土020」**』を土曜日の未明に放送している。
 
@@ -27,7 +27,7 @@
 
 2010年12月5日に夜8時から「ゴー傑P\!一夜限定復活祭」として一夜限りの復活。 2011年9月3日には「[31.5時間ラジオ 「ラジオの力」〜対話が日本を元気にする〜](https://ja.wikipedia.org/wiki/MBS開局60周年アワー_音楽の時間ですょ_目指せ1179曲てアンタ!? "wikilink")」の企画として[平田進也](../Page/平田進也.md "wikilink")をゲストに招き「真夜中の豪傑トーク」として放送。
 
-その他の特徴としては、CM入り・CM明けのジングルに過去のゲストの発言をサンプリングする、という点がある。特に2007年後半から顕著になったもので、[村西とおる](https://ja.wikipedia.org/wiki/村西とおる "wikilink")の「疫病になりますよ」、などが生まれた。
+その他の特徴としては、CM入り・CM明けのジングルに過去のゲストの発言をサンプリングする、という点がある。特に2007年後半から顕著になったもので、[村西とおる](../Page/村西とおる.md "wikilink")の「疫病になりますよ」、などが生まれた。
 
 番組タイトルであるゴー傑PのPは、「（毎回ゲストに呼ぶ）プロフェッショナル(**Professional**)をプロファイリング(**Profiling**)」の**P**から。
 
@@ -37,30 +37,30 @@
 
   - 第1回 4月9日 [バッファロー吾郎](../Page/バッファロー吾郎.md "wikilink")他数人の若手芸人が電話で出演
   - 第2回 4月16日 [亀山つとむ](https://ja.wikipedia.org/wiki/亀山つとむ "wikilink")
-  - 第3回 4月23日 [宮根誠司](https://ja.wikipedia.org/wiki/宮根誠司 "wikilink")
+  - 第3回 4月23日 [宮根誠司](../Page/宮根誠司.md "wikilink")
   - 第4回 4月30日 [大林素子](https://ja.wikipedia.org/wiki/大林素子 "wikilink")
-  - 第5回 5月7日 ゲストなし（MBSからの使者として、この番組の放送作家[寺本覚が苦情を言いに登場](https://ja.wikipedia.org/wiki/ザ・プラン9 "wikilink")）
-  - 第6回 5月14日 [石田英司](https://ja.wikipedia.org/wiki/石田英司 "wikilink")（毎日放送のテレビ制作局制作一部専任部長）
+  - 第5回 5月7日 ゲストなし（MBSからの使者として、この番組の放送作家[寺本覚が苦情を言いに登場](../Page/ザ・プラン9.md "wikilink")）
+  - 第6回 5月14日 [石田英司](../Page/石田英司.md "wikilink")（毎日放送のテレビ制作局制作一部専任部長）
   - 第7回 5月21日 [畑中フー](../Page/畑中フー.md "wikilink")（[ナレーター](https://ja.wikipedia.org/wiki/ナレーター "wikilink")）
   - 第8回 5月28日 [佐々木博和](../Page/佐々木博和.md "wikilink")
   - 第9回 6月4日 [すぎはら美里](https://ja.wikipedia.org/wiki/すぎはら美里 "wikilink")
-  - 第10回 6月11日 [伊藤 "ジョニー" 信吾](https://ja.wikipedia.org/wiki/伊藤信吾 "wikilink")（[男前豆腐店](../Page/男前豆腐店.md "wikilink")社長）
+  - 第10回 6月11日 [伊藤 "ジョニー" 信吾](../Page/伊藤信吾.md "wikilink")（[男前豆腐店](../Page/男前豆腐店.md "wikilink")社長）
   - 第11回 6月18日 [千堂あきほ](../Page/千堂あきほ.md "wikilink")
   - 第12回 6月25日 [名越康文](../Page/名越康文.md "wikilink")、[土肥ポン太](../Page/土肥ポン太.md "wikilink")
-  - 第13回 7月2日 [今出東二](https://ja.wikipedia.org/wiki/今出東二 "wikilink")
+  - 第13回 7月2日 [今出東二](../Page/今出東二.md "wikilink")
   - 第14回 7月9日 ゲストなし（MBSからの使者として、この番組の構成作家寺本覚が料理の鉄人のテーマ曲に乗って苦情を言いに登場）
-  - 第15回 7月16日 [中山市朗](https://ja.wikipedia.org/wiki/中山市朗 "wikilink")
-  - 第16回 7月23日 [桂吉弥](https://ja.wikipedia.org/wiki/桂吉弥 "wikilink")
+  - 第15回 7月16日 [中山市朗](../Page/中山市朗.md "wikilink")
+  - 第16回 7月23日 [桂吉弥](../Page/桂吉弥.md "wikilink")
   - 第17回 7月30日 いちのせかつみ（[ファイナンシャルプランナー](https://ja.wikipedia.org/wiki/ファイナンシャルプランナー "wikilink")）
-  - 第18回 8月6日 [柳田理科雄](https://ja.wikipedia.org/wiki/柳田理科雄 "wikilink")
-  - 第19回 8月13日 [小関順二](https://ja.wikipedia.org/wiki/小関順二 "wikilink")
+  - 第18回 8月6日 [柳田理科雄](../Page/柳田理科雄.md "wikilink")
+  - 第19回 8月13日 [小関順二](../Page/小関順二.md "wikilink")
   - 第20回 8月20日 [金子達仁](https://ja.wikipedia.org/wiki/金子達仁 "wikilink")
   - 第21回 8月27日 [高橋智隆](../Page/高橋智隆.md "wikilink")、クロイノ君（ロボット）
-  - 第22回 9月3日 [森川美穂](https://ja.wikipedia.org/wiki/森川美穂 "wikilink")、[上田たかゆき](https://ja.wikipedia.org/wiki/上田たかゆき "wikilink")（電話で出演）、[前田阿希子](https://ja.wikipedia.org/wiki/前田阿希子 "wikilink")
+  - 第22回 9月3日 [森川美穂](../Page/森川美穂.md "wikilink")、[上田たかゆき](https://ja.wikipedia.org/wiki/上田たかゆき "wikilink")（電話で出演）、[前田阿希子](../Page/前田阿希子.md "wikilink")
   - 第23回 9月10日 [北芝健](https://ja.wikipedia.org/wiki/北芝健 "wikilink")
   - 第24回 9月17日 弘法院恵正（[霊媒師](https://ja.wikipedia.org/wiki/霊媒師 "wikilink")、[霊能力者](https://ja.wikipedia.org/wiki/霊能力者 "wikilink")）
   - 第25回 9月24日 [山之内幸夫](https://ja.wikipedia.org/wiki/山之内幸夫 "wikilink")
-  - 第26回 10月1日 [グレート小鹿](https://ja.wikipedia.org/wiki/グレート小鹿 "wikilink")
+  - 第26回 10月1日 [グレート小鹿](../Page/グレート小鹿.md "wikilink")
   - 第27回 10月8日 [安田理央](https://ja.wikipedia.org/wiki/安田理央 "wikilink")（ライター）
   - 第28回 10月15日 [秀島一生](../Page/秀島一生.md "wikilink")（航空評論家）
   - 第29回 10月22日 [八木裕](../Page/八木裕.md "wikilink")
@@ -70,8 +70,8 @@
   - 第33回 11月19日 武野功明（探偵）
   - 第34回 11月26日 [北尾トロ](https://ja.wikipedia.org/wiki/北尾トロ "wikilink")
   - 第35回 12月3日 [ペヤングマキ](https://ja.wikipedia.org/wiki/ペヤングマキ "wikilink")
-  - 第36回 12月10日 [佐々木恭介](https://ja.wikipedia.org/wiki/佐々木恭介 "wikilink")
-  - 第37回 12月17日 [ジャルジャル](https://ja.wikipedia.org/wiki/ジャルジャル "wikilink")、[今別府直之](../Page/今別府直之.md "wikilink")
+  - 第36回 12月10日 [佐々木恭介](../Page/佐々木恭介.md "wikilink")
+  - 第37回 12月17日 [ジャルジャル](../Page/ジャルジャル.md "wikilink")、[今別府直之](../Page/今別府直之.md "wikilink")
   - 第38回 12月24日 笠谷勉（便利屋「スマイル」代表）
   - 第39回 12月31日 ゲストなし（構成作家寺本覚と、忘年会も兼ねての年末総集編）
 
@@ -85,7 +85,7 @@
   - 第44回 3月4日 [藤田徳人](https://ja.wikipedia.org/wiki/藤田徳人 "wikilink")（整形外科医）
   - 第45回 3月11日 [う〜み](../Page/う〜み.md "wikilink")
   - 第46回 3月18日 [赤澤竜也](https://ja.wikipedia.org/wiki/赤澤竜也 "wikilink")
-  - 第47回 3月25日 [北川昌弘](https://ja.wikipedia.org/wiki/北川昌弘 "wikilink")
+  - 第47回 3月25日 [北川昌弘](../Page/北川昌弘.md "wikilink")
   - 第48回 4月1日 ゲストなし。リスナーからのダメ出しをつのる回。競馬特番のため深夜3時から放送。
   - 第49回 4月8日 湯沢利彦（プロレス美術館館長）野球中継延長のため、深夜3時から放送。
   - 第50回 4月15日 松下雄一郎（[デイリースポーツ](../Page/デイリースポーツ.md "wikilink")記者）。野球中継延長のため、深夜3時から放送。
@@ -95,31 +95,31 @@
   - 第54回 5月13日 [新条まゆ](https://ja.wikipedia.org/wiki/新条まゆ "wikilink")。野球中継延長のため、40分遅れの放送開始。
   - 第55回 5月20日 [太田直子](https://ja.wikipedia.org/wiki/太田直子 "wikilink")
   - 第56回 5月27日 [アダム徳永](https://ja.wikipedia.org/wiki/アダム徳永 "wikilink")
-  - 第57回 6月3日 [川畑泰史](https://ja.wikipedia.org/wiki/川畑泰史 "wikilink")。野球中継延長のため、30分遅れの放送開始。
+  - 第57回 6月3日 [川畑泰史](../Page/川畑泰史.md "wikilink")。野球中継延長のため、30分遅れの放送開始。
   - 第58回 6月10日 永瀬忠志（リヤカーマン）
-  - 第59回 6月17日 [横見浩彦](https://ja.wikipedia.org/wiki/横見浩彦 "wikilink")。野球中継延長のため、約5分遅れの放送開始。
-  - 第60回 6月24日 [竹原慎二](https://ja.wikipedia.org/wiki/竹原慎二 "wikilink")
-  - 第61回 7月1日 [石原壮一郎](https://ja.wikipedia.org/wiki/石原壮一郎 "wikilink")。野球中継延長のため、2時間遅れの放送開始。
+  - 第59回 6月17日 [横見浩彦](../Page/横見浩彦.md "wikilink")。野球中継延長のため、約5分遅れの放送開始。
+  - 第60回 6月24日 [竹原慎二](../Page/竹原慎二.md "wikilink")
+  - 第61回 7月1日 [石原壮一郎](../Page/石原壮一郎.md "wikilink")。野球中継延長のため、2時間遅れの放送開始。
   - 第62回 7月8日 白井達郎（万博ミュージアム館長）
   - 第63回 7月15日 [小阪由佳](https://ja.wikipedia.org/wiki/小阪由佳 "wikilink")。野球中継延長のため、20分遅れの放送開始。
   - 第64回 7月22日 今仲恵理子（「KANSAI一週間」編集部）
   - 第65回 7月29日 [大竹敏之](https://ja.wikipedia.org/wiki/大竹敏之 "wikilink")。野球中継延長のため、90分遅れの放送開始。
-  - 第66回 8月5日 ゲストなし。[オーサカキング](https://ja.wikipedia.org/wiki/オーサカキング "wikilink")での小籔軍団によるステージの模様を放送。野球中継延長のため、15分遅れの放送開始。
+  - 第66回 8月5日 ゲストなし。[オーサカキング](../Page/オーサカキング.md "wikilink")での小籔軍団によるステージの模様を放送。野球中継延長のため、15分遅れの放送開始。
   - 第67回 8月12日 [サニー・フランシス](../Page/サニー・フランシス.md "wikilink")。野球中継延長のため、50分遅れの放送開始。
-  - 第68回 8月19日 [井田茂](https://ja.wikipedia.org/wiki/井田茂 "wikilink")。野球中継延長のため、約5分遅れの放送開始。
-  - 第69回 8月26日 [越中詩郎](https://ja.wikipedia.org/wiki/越中詩郎 "wikilink")野球中継延長のため、30分遅れの放送開始。
-  - 第70回 9月2日 [ミサイルマン](https://ja.wikipedia.org/wiki/ミサイルマン_\(お笑いコンビ\) "wikilink")。また過去のゲストの中から厳選された6人（秀島や永瀬など）が電話で出演した。野球中継延長のため、75分遅れの放送開始。
+  - 第68回 8月19日 [井田茂](../Page/井田茂.md "wikilink")。野球中継延長のため、約5分遅れの放送開始。
+  - 第69回 8月26日 [越中詩郎](../Page/越中詩郎.md "wikilink")野球中継延長のため、30分遅れの放送開始。
+  - 第70回 9月2日 [ミサイルマン](../Page/ミサイルマン_\(お笑いコンビ\).md "wikilink")。また過去のゲストの中から厳選された6人（秀島や永瀬など）が電話で出演した。野球中継延長のため、75分遅れの放送開始。
   - 第71回 9月9日 [春野恵子](https://ja.wikipedia.org/wiki/春野恵子 "wikilink")野球中継延長のため、20分遅れの放送開始。
   - 第72回 9月16日 [加藤ヒロユキ](https://ja.wikipedia.org/wiki/加藤ヒロユキ "wikilink")
   - 第73回 9月23日 ゲストなし。構成作家の寺本覚が登場。野球中継延長のため、85分遅れの放送開始。
-  - 第74回 9月30日 [木村和久](https://ja.wikipedia.org/wiki/木村和久 "wikilink")野球中継延長のため、25分遅れの放送開始。
+  - 第74回 9月30日 [木村和久](../Page/木村和久.md "wikilink")野球中継延長のため、25分遅れの放送開始。
   - 第75回 10月7日 山崎英生（ライター）
-  - 第76回 10月14日 [サキタハヂメ](https://ja.wikipedia.org/wiki/サキタハヂメ "wikilink")、土肥ポン太。野球中継延長のため、35分遅れの放送開始。
+  - 第76回 10月14日 [サキタハヂメ](../Page/サキタハヂメ.md "wikilink")、土肥ポン太。野球中継延長のため、35分遅れの放送開始。
   - 第77回 10月21日 杉岡幸徳（エッセイスト）。野球中継延長のため、30分遅れの放送開始。
-  - 第78回 10月28日 [村西とおる](https://ja.wikipedia.org/wiki/村西とおる "wikilink")。野球中継延長のため、25分遅れの放送開始。
+  - 第78回 10月28日 [村西とおる](../Page/村西とおる.md "wikilink")。野球中継延長のため、25分遅れの放送開始。
   - 第79回 11月4日 相坂耕作（赤松の郷昆虫文化館）
   - 第80回 11月11日 宮地めぐみ（[温泉](../Page/温泉.md "wikilink")ライター）、バッファロー吾郎（イベント告知のためオープニングトークに登場）一般リスナー4名（エンディングトークに登場）
-  - 第81回 11月18日 寺田勝広 ([川越藩](https://ja.wikipedia.org/wiki/川越藩 "wikilink") 火縄銃鉄砲隊保存会代表)
+  - 第81回 11月18日 寺田勝広 ([川越藩](../Page/川越藩.md "wikilink") 火縄銃鉄砲隊保存会代表)
   - 第82回 11月25日 飛島竜一 (科学ジャーナリスト)
   - 第83回 12月2日 [小椋ケンイチ](https://ja.wikipedia.org/wiki/小椋ケンイチ "wikilink")
   - 第84回 12月9日 [来栖けい](../Page/来栖けい.md "wikilink")
@@ -139,8 +139,8 @@
   - 第94回 2月24日 [平田進也](../Page/平田進也.md "wikilink")（[日本旅行](../Page/日本旅行.md "wikilink")社員）
   - 第95回 3月2日 [山口敏太郎](../Page/山口敏太郎.md "wikilink")（作家）
   - 第96回 3月9日 [まりか](https://ja.wikipedia.org/wiki/まりか "wikilink")
-  - 第97回 3月16日 一義（[ホスト](https://ja.wikipedia.org/wiki/ホストクラブ "wikilink")）
-  - 第98回 3月23日 桐生正幸 (犯罪心理学者、[関西国際大学](https://ja.wikipedia.org/wiki/関西国際大学 "wikilink")教授)
+  - 第97回 3月16日 一義（[ホスト](../Page/ホストクラブ.md "wikilink")）
+  - 第98回 3月23日 桐生正幸 (犯罪心理学者、[関西国際大学](../Page/関西国際大学.md "wikilink")教授)
   - 第99回 3月30日 ゲストなし。構成作家の寺本覚が登場。競馬特番のため深夜3時から二時間放送。
   - 第100回 4月6日 横田仁美（トータルファッションプロデューサー）
   - 第101回 4月13日 [遠藤秀紀](https://ja.wikipedia.org/wiki/遠藤秀紀 "wikilink")。野球中継延長のため55分遅れの放送開始。
@@ -150,24 +150,24 @@
   - 第105回 5月11日 [PUFFY](../Page/PUFFY.md "wikilink")（歌手）小籔のみとトーク。
   - 第106回 5月18日 [安斎レオ](../Page/安斎レオ.md "wikilink")。野球中継延長のため65分遅れの放送開始。
   - 第107回 5月25日 [山本竜二](../Page/山本竜二.md "wikilink")
-  - 第108回 6月1日 西園誠一郎（[パティシエ](https://ja.wikipedia.org/wiki/パティシエ "wikilink")）
+  - 第108回 6月1日 西園誠一郎（[パティシエ](../Page/パティシエ.md "wikilink")）
   - 第109回 6月8日 [ゲイリー・ジェイ・コフマン](https://ja.wikipedia.org/wiki/ゲイリー・ジェイ・コフマン "wikilink")
-  - 第110回 6月15日 廣瀬郁実（[仏像](https://ja.wikipedia.org/wiki/仏像 "wikilink")ガール）
+  - 第110回 6月15日 廣瀬郁実（[仏像](../Page/仏像.md "wikilink")ガール）
   - 第111回 6月22日 [石神秀幸](../Page/石神秀幸.md "wikilink")
   - 第112回 6月29日 [杉山光男](../Page/杉山光男.md "wikilink")
-  - 第113回 7月6日 佐藤雅信（[TENGA](https://ja.wikipedia.org/wiki/TENGA "wikilink")社員）
+  - 第113回 7月6日 佐藤雅信（[TENGA](../Page/TENGA.md "wikilink")社員）
   - 第114回 7月13日 須田良規（プロ[雀士](https://ja.wikipedia.org/wiki/雀士 "wikilink")）
   - 第115回 7月20日 平田進也（添乗員）。野球中継延長のため30分遅れの放送開始。
-  - 第116回 7月27日 [大野実](https://ja.wikipedia.org/wiki/大野実 "wikilink")。野球中継延長のため10分遅れの放送開始。
+  - 第116回 7月27日 [大野実](../Page/大野実.md "wikilink")。野球中継延長のため10分遅れの放送開始。
   - 第117回 8月3日 [松田馨](../Page/松田馨.md "wikilink")
-  - 第118回 8月10日 [リリアン](https://ja.wikipedia.org/wiki/リリアン_\(タレント\) "wikilink")
-  - 第119回 8月17日 隼ポリン（[トランポリン](https://ja.wikipedia.org/wiki/トランポリン "wikilink")芸人）、[中恭太](../Page/中恭太.md "wikilink")、[桂三若](https://ja.wikipedia.org/wiki/桂三若 "wikilink")。野球中継延長のため15分遅れの放送開始。
+  - 第118回 8月10日 [リリアン](../Page/リリアン_\(タレント\).md "wikilink")
+  - 第119回 8月17日 隼ポリン（[トランポリン](../Page/トランポリン.md "wikilink")芸人）、[中恭太](../Page/中恭太.md "wikilink")、[桂三若](../Page/桂三若.md "wikilink")。野球中継延長のため15分遅れの放送開始。
   - 第120回 8月24日 葛城凶（妖怪絵師、妖怪伝道師、妖怪堂店主）
   - 第121回 8月31日 田口真丈（清水音泉）
   - 第122回 9月7日 [中村智彦](https://ja.wikipedia.org/wiki/中村智彦 "wikilink")
   - 第123回 9月14日 平塚俊樹（証拠調査士）。野球中継延長のため30分遅れの放送開始。
   - 第124回 9月21日 増沢伸義（株式会社アイコ取締役営業部長）
-  - 第125回 9月28日 [オーサカキング](https://ja.wikipedia.org/wiki/オーサカキング "wikilink")での公開収録（ゲスト：平田）の模様を放送。野球中継延長のため75分遅れの放送開始。
+  - 第125回 9月28日 [オーサカキング](../Page/オーサカキング.md "wikilink")での公開収録（ゲスト：平田）の模様を放送。野球中継延長のため75分遅れの放送開始。
   - 第126回 10月5日 スーザン史子（自動車ライター）。野球中継延長のため80分遅れの放送開始。
   - 第127回 10月12日 [村岡昌憲](https://ja.wikipedia.org/wiki/村岡昌憲 "wikilink")
   - 第128回 10月19日 村本博之（[タクシー](../Page/タクシー.md "wikilink")運転手、[矢沢永吉](../Page/矢沢永吉.md "wikilink")ファン）。野球中継延長のため5分遅れの放送開始。
@@ -176,8 +176,8 @@
   - 第131回 11月9日 まこと（[マイケル・ジャクソン](https://ja.wikipedia.org/wiki/マイケル・ジャクソン "wikilink")ものまね士）。野球中継延長のため55分遅れの放送開始。
   - 第132回 11月16日 [天津](https://ja.wikipedia.org/wiki/天津 "wikilink")（木村と向）
   - 第133回 11月23日 中嶋大介（アホアホ本収集家）
-  - 第134回 11月30日 [立見里歌](https://ja.wikipedia.org/wiki/立見里歌 "wikilink")
-  - 第135回 12月7日 [名越稔洋](https://ja.wikipedia.org/wiki/名越稔洋 "wikilink")
+  - 第134回 11月30日 [立見里歌](../Page/立見里歌.md "wikilink")
+  - 第135回 12月7日 [名越稔洋](../Page/名越稔洋.md "wikilink")
   - 第136回 12月14日 [島田秀平](https://ja.wikipedia.org/wiki/島田秀平 "wikilink")
   - 第137回 12月21日 四元正弘（[電通総研](../Page/電通総研.md "wikilink")）、土肥ポン太
   - 第138回 12月28日 石田英司、スチャッテ（[サラリーマン](../Page/サラリーマン.md "wikilink")）
@@ -189,7 +189,7 @@
   - 第141回 1月18日 村西とおる、リリアン、平田進也、村本博之、弘法院恵正（テレビでの特番「豪傑テレビ」（2月7日1時25分から放送）の収録を兼ねる）
   - 第142回 1月26日 土田英生（劇団「MONO」代表、劇作家）
   - 第143回 2月1日 [江辺香織](https://ja.wikipedia.org/wiki/江辺香織 "wikilink")
-  - 第144回 2月8日 [三善英史](https://ja.wikipedia.org/wiki/三善英史 "wikilink")、ラッキィ池田（振付師）
+  - 第144回 2月8日 [三善英史](../Page/三善英史.md "wikilink")、ラッキィ池田（振付師）
   - 第145回 2月15日 [柴原孝典](../Page/柴原孝典.md "wikilink")
   - 第146回 2月22日 [ふくだあかり](https://ja.wikipedia.org/wiki/ふくだあかり "wikilink")
   - 第147回 3月1日 [長島☆自演乙☆雄一郎](https://ja.wikipedia.org/wiki/長島☆自演乙☆雄一郎 "wikilink")
@@ -213,7 +213,7 @@
 
 ## ペルーの国歌
 
-この番組では、[ジングル](https://ja.wikipedia.org/wiki/ジングル "wikilink")及びエンディングテーマに[ペルー](https://ja.wikipedia.org/wiki/ペルー "wikilink")共和国の[国歌](../Page/国歌.md "wikilink")が使用されている。これは番組の第1回目でオープニングテーマがまったく決まっていないことからリスナーから募集した際、[バッファロー吾郎](../Page/バッファロー吾郎.md "wikilink")の[竹若元博](https://ja.wikipedia.org/wiki/竹若元博 "wikilink")から推薦されたのがこの曲であった。2回目からのオープニングになる予定だったが、第1回目を仕事の都合で欠席した小籔からのダメ出しであえなくオープニングには使われなかった。
+この番組では、[ジングル](https://ja.wikipedia.org/wiki/ジングル "wikilink")及びエンディングテーマに[ペルー](https://ja.wikipedia.org/wiki/ペルー "wikilink")共和国の[国歌](../Page/国歌.md "wikilink")が使用されている。これは番組の第1回目でオープニングテーマがまったく決まっていないことからリスナーから募集した際、[バッファロー吾郎](../Page/バッファロー吾郎.md "wikilink")の[竹若元博](../Page/竹若元博.md "wikilink")から推薦されたのがこの曲であった。2回目からのオープニングになる予定だったが、第1回目を仕事の都合で欠席した小籔からのダメ出しであえなくオープニングには使われなかった。
 
 ## ライブイベント
 
@@ -224,11 +224,11 @@
 
 ## 関連項目
 
-  - [ゴーJ\!](https://ja.wikipedia.org/wiki/ゴーJ! "wikilink")
-  - [ゴーK\!](https://ja.wikipedia.org/wiki/ゴーK! "wikilink")
+  - [ゴーJ\!](../Page/ゴーJ!.md "wikilink")
+  - [ゴーK\!](../Page/ゴーK!.md "wikilink")
   - [丑バラ](../Page/丑バラ.md "wikilink")
   - [月極ラジオ](../Page/月極ラジオ.md "wikilink")
-  - [ゴーゴーモンキーズ](https://ja.wikipedia.org/wiki/ゴーゴーモンキーズ "wikilink")
+  - [ゴーゴーモンキーズ](../Page/ゴーゴーモンキーズ.md "wikilink")
   - [笑い飯の月曜お楽しみアワー](https://ja.wikipedia.org/wiki/笑い飯の月曜お楽しみアワー "wikilink")・笑い飯の金曜お楽しみアワー
 
 ## 外部リンク

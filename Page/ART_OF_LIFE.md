@@ -1,9 +1,9 @@
 > この記事は[ART OF LIFE](https://ja.wikipedia.org/wiki/ART_OF_LIFE)から翻訳されています。
 
 
-『**ART OF LIFE**』（アート・オブ・ライフ）は、日本のロックバンド[X JAPANが](../Page/X_JAPAN.md "wikilink")[1993年](../Page/1993年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")にリリースした[スタジオ・アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")であり、収録曲のタイトルである。
+『**ART OF LIFE**』（アート・オブ・ライフ）は、日本のロックバンド[X JAPANが](../Page/X_JAPAN.md "wikilink")[1993年](../Page/1993年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")にリリースした[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")であり、収録曲のタイトルである。
 
-当初はアルバム『[Jealousy](https://ja.wikipedia.org/wiki/Jealousy_\(Xのアルバム\) "wikilink")』に収録し、2枚組として発表する予定であったが、[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")中に[YOSHIKI](../Page/YOSHIKI.md "wikilink")が倒れたことや、ヴォーカル・レコーディングの難航、[ソニー](../Page/ソニー.md "wikilink")の上場問題が絡んだ時間的制約から「ART OF LIFE」の収録は見送られ、後にミニ・アルバムとしてリリースされることになった。そのため、制作を開始してからアルバムが世間に発表されるまでに3年7ヵ月を要した\[1\]。 元々は「Say Anything」の第二章という位置づけであり、同曲終盤でのYOSHIKIの語りのあとに本作に繋がるという設定となっている。 「Say Anything」がアルバムの最後のトラックに収録されているのは、前記の通り「Jealousy」が本作と2枚組みでのリリースを念頭に置いていたためである。
+当初はアルバム『[Jealousy](../Page/Jealousy_\(Xのアルバム\).md "wikilink")』に収録し、2枚組として発表する予定であったが、[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")中に[YOSHIKI](../Page/YOSHIKI.md "wikilink")が倒れたことや、ヴォーカル・レコーディングの難航、[ソニー](../Page/ソニー.md "wikilink")の上場問題が絡んだ時間的制約から「ART OF LIFE」の収録は見送られ、後にミニ・アルバムとしてリリースされることになった。そのため、制作を開始してからアルバムが世間に発表されるまでに3年7ヵ月を要した\[1\]。 元々は「Say Anything」の第二章という位置づけであり、同曲終盤でのYOSHIKIの語りのあとに本作に繋がるという設定となっている。 「Say Anything」がアルバムの最後のトラックに収録されているのは、前記の通り「Jealousy」が本作と2枚組みでのリリースを念頭に置いていたためである。
 
 再生時間が約30分という長編作であり、[ロックをベースに](../Page/ロック_\(音楽\).md "wikilink")[クラシック音楽](../Page/クラシック音楽.md "wikilink")的要素、[ピアノ](../Page/ピアノ.md "wikilink")・[ソロなどで構成されている](https://ja.wikipedia.org/wiki/独奏 "wikilink")。歌詞は全て[英語](../Page/英語.md "wikilink")であり、YOSHIKIの半生をモチーフとした内容となっている。ジャケット・カバーで使われている頭部X線写真もYOSHIKI自身のものである\[2\]。
 
@@ -11,15 +11,15 @@
 
 ## 制作
 
-[1989年](../Page/1989年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")の「Rose & Blood Tour」[渋谷公会堂](https://ja.wikipedia.org/wiki/渋谷公会堂 "wikilink")公演の直後に過労性神経循環無力症で倒れたYOSHIKIが、その静養中にサビの部分を作曲し、「Rose & Blood Tour」終了後の[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[6月](../Page/6月.md "wikilink")の作曲合宿中に打ち込みとピアノ・ソロ部分の生ピアノによる楽曲全体のデモ・テープを完成させた。当初付けられていたタイトルは「LIFE OF ART」であった。サビを作曲した段階ではバラードを想定していたが、作曲の過程で組曲となった。YOSHIKIが全パートの主旋律を共同プロデューサーの[津田直士](https://ja.wikipedia.org/wiki/津田直士 "wikilink")に聴かせたところ、それぞれの主旋律ごとに分割して個別の曲にする提案を受けたとインタビューで語っている\[3\]。しかし、これについて津田はニコニコ生放送で否定している。
+[1989年](../Page/1989年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")の「Rose & Blood Tour」[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")公演の直後に過労性神経循環無力症で倒れたYOSHIKIが、その静養中にサビの部分を作曲し、「Rose & Blood Tour」終了後の[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[6月](../Page/6月.md "wikilink")の作曲合宿中に打ち込みとピアノ・ソロ部分の生ピアノによる楽曲全体のデモ・テープを完成させた。当初付けられていたタイトルは「LIFE OF ART」であった。サビを作曲した段階ではバラードを想定していたが、作曲の過程で組曲となった。YOSHIKIが全パートの主旋律を共同プロデューサーの[津田直士](https://ja.wikipedia.org/wiki/津田直士 "wikilink")に聴かせたところ、それぞれの主旋律ごとに分割して個別の曲にする提案を受けたとインタビューで語っている\[3\]。しかし、これについて津田はニコニコ生放送で否定している。
 
-自らの生涯を描くにあたって、小学校2年で初めて買ったレコードである[シューベルトの](../Page/フランツ・シューベルト.md "wikilink")[交響曲第8番ロ短調「未完成」をとり入れることが構想段階でまとまっていた](https://ja.wikipedia.org/wiki/交響曲第7番_\(シューベルト\) "wikilink")\[4\]。そのため、「未完成」のフレーズが曲中に多く使われている\[5\]。
+自らの生涯を描くにあたって、小学校2年で初めて買ったレコードである[シューベルトの](../Page/フランツ・シューベルト.md "wikilink")[交響曲第8番ロ短調「未完成」をとり入れることが構想段階でまとまっていた](../Page/交響曲第7番_\(シューベルト\).md "wikilink")\[4\]。そのため、「未完成」のフレーズが曲中に多く使われている\[5\]。
 
 1990年[11月24日](../Page/11月24日.md "wikilink")にアルバム『Jealousy』のレコーディングで渡米したが、同年[12月3日](../Page/12月3日.md "wikilink")にYOSHIKIが首の骨の異常からくる激痛に襲われたため「ART OF LIFE」を含めたドラムのレコーディングはすべて首にギプスを装着した状態で行われた。「ART OF LIFE」のドラムのレコーディングは[1991年](../Page/1991年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")に3日間かけて行われた\[6\]。その後『Jealousy』の締め切りが前倒しとなったため、『Jealousy』への収録が見送られた「ART OF LIFE」の制作はドラム・トラックのレコーディングだけを終えたまま、1年半後の[1992年](../Page/1992年.md "wikilink")[9月](../Page/9月.md "wikilink")まで中断となった。またベースのTAIJIが翌年に脱退した為、HEATHのベースラインに録り直された。
 
 冒頭のピアノ・パートはYOSHIKIがギターのレコーディング中にピアノのフレーズが頭に浮かんだため、急遽そのスタジオの隅にあった、埃を被り、微妙にチューニングが狂った古いスタインウェイで弾いたものを仮テイクとして録ったものが使われている。その後、同じフレーズを正式にチューニングが整ったピアノで収録する予定であったが、仮テイクのものにリバーブを深くかけたところデチューン具合が良好であったため、そのまま採用された。また中盤のインプロビゼーションによるピアノ・ソロも、デモ・テープ用に日本でレコーディングした最初のテイクをそのまま採用している。
 
-ソロ・ギターは[HIDE](https://ja.wikipedia.org/wiki/HIDE "wikilink")、リズム・ギターは[PATA](https://ja.wikipedia.org/wiki/PATA "wikilink")が担当した。ソロ・ギターのフレーズはHIDEが作ったものをYOSHIKIが譜面に起こし、オーケストラと絡める構成にした。リズム・ギターのレコーディングは1992年9月から約1週間に渡ってエンタープライズ・スタジオで行われ、エンジニアはスタン片山が担当した。ツイン・ギターのフレーズはYOSHIKIが作り、両パートともHIDEが弾いている。HIDEは初めてレコーディングで[サスティナー搭載ギターを使用した](https://ja.wikipedia.org/wiki/サステイン#エレクトリック・ギター "wikilink")\[7\]。
+ソロ・ギターは[HIDE](https://ja.wikipedia.org/wiki/HIDE "wikilink")、リズム・ギターは[PATA](../Page/PATA.md "wikilink")が担当した。ソロ・ギターのフレーズはHIDEが作ったものをYOSHIKIが譜面に起こし、オーケストラと絡める構成にした。リズム・ギターのレコーディングは1992年9月から約1週間に渡ってエンタープライズ・スタジオで行われ、エンジニアはスタン片山が担当した。ツイン・ギターのフレーズはYOSHIKIが作り、両パートともHIDEが弾いている。HIDEは初めてレコーディングで[サスティナー搭載ギターを使用した](https://ja.wikipedia.org/wiki/サステイン#エレクトリック・ギター "wikilink")\[7\]。
 
 [Toshlは](https://ja.wikipedia.org/wiki/ToshI "wikilink")1992年9月-10月の2ヶ月間に渡って仮歌を録り、本番テイクのヴォーカル・レコーディングには1992年の[11月](../Page/11月.md "wikilink")から翌1993年の[6月](../Page/6月.md "wikilink")までの8ヶ月を費やした。
 

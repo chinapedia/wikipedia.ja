@@ -1,11 +1,11 @@
 > この記事は[BACK DROP BOMB](https://ja.wikipedia.org/wiki/BACK_DROP_BOMB)から翻訳されています。
 
 
-**BACK DROP BOMB**（バック・ドロップ・ボム）は、[1994年](../Page/1994年.md "wikilink")に結成された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミクスチャー・ロック](https://ja.wikipedia.org/wiki/ミクスチャー・ロック "wikilink")・[バンド](../Page/バンド_\(音楽\).md "wikilink")。自身でマネージメント・オフィスiniを運営する。
+**BACK DROP BOMB**（バック・ドロップ・ボム）は、[1994年](../Page/1994年.md "wikilink")に結成された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミクスチャー・ロック](../Page/ミクスチャー・ロック.md "wikilink")・[バンド](../Page/バンド_\(音楽\).md "wikilink")。自身でマネージメント・オフィスiniを運営する。
 
 ## メンバー
 
-  - 白川貴善（ボーカル） - ストリートブランド「empire」を展開。現在は有限会社empireにてシューズブランドオルフィックを展開。ex.[THE MAD CAPSULE MARKETSのBs](https://ja.wikipedia.org/wiki/THE_MAD_CAPSULE_MARKETS "wikilink")/Vo/Pro の[TAKESHI UEDAのソロプロジェクトAA](../Page/上田剛士.md "wikilink")＝ではVoを務める。
+  - 白川貴善（ボーカル） - ストリートブランド「empire」を展開。現在は有限会社empireにてシューズブランドオルフィックを展開。ex.[THE MAD CAPSULE MARKETSのBs](../Page/THE_MAD_CAPSULE_MARKETS.md "wikilink")/Vo/Pro の[TAKESHI UEDAのソロプロジェクトAA](../Page/上田剛士.md "wikilink")＝ではVoを務める。
   - 小島真史（ボーカル）
   - 田中仁（ギター）
   - 篭橋俊樹（ベース）
@@ -18,7 +18,7 @@
 
 ## 概要
 
-[ハードコア・パンク](../Page/ハードコア・パンク.md "wikilink")、[ヒップホップ](../Page/ヒップホップ.md "wikilink")、[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")、[スカ](../Page/スカ.md "wikilink")などの要素を融合させた楽曲を制作している。[DJ HASEBE](https://ja.wikipedia.org/wiki/DJ_HASEBE "wikilink")、[DJ WATARAI](../Page/DJ_WATARAI.md "wikilink")、[FIRE BALL](https://ja.wikipedia.org/wiki/FIRE_BALL_\(レゲエグループ\) "wikilink")、[BRAHMAN](https://ja.wikipedia.org/wiki/BRAHMAN "wikilink")との共演歴がある。
+[ハードコア・パンク](../Page/ハードコア・パンク.md "wikilink")、[ヒップホップ](../Page/ヒップホップ.md "wikilink")、[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")、[スカ](../Page/スカ.md "wikilink")などの要素を融合させた楽曲を制作している。[DJ HASEBE](../Page/DJ_HASEBE.md "wikilink")、[DJ WATARAI](../Page/DJ_WATARAI.md "wikilink")、[FIRE BALL](../Page/FIRE_BALL_\(レゲエグループ\).md "wikilink")、[BRAHMAN](../Page/BRAHMAN.md "wikilink")との共演歴がある。
 
 ## ディスコグラフィー
 
@@ -444,14 +444,14 @@ CTCR-14792:通常盤</p></td>
 <li>CLAP / <a href="https://ja.wikipedia.org/wiki/BLUE_ENCOUNT" title="wikilink">BLUE ENCOUNT</a></li>
 <li>YOU UP AROUND / <a href="https://ja.wikipedia.org/wiki/locofrank" title="wikilink">locofrank</a></li>
 <li>NEVER SEEM TO LAST / <a href="../Page/ACIDMAN.md" title="wikilink">ACIDMAN</a></li>
-<li>IN ORDER TO FIND THE NEW SENSE / <a href="https://ja.wikipedia.org/wiki/ASPARAGUS" title="wikilink">ASPARAGUS</a></li>
-<li>BLACK SKY ABOVE / <a href="https://ja.wikipedia.org/wiki/HUSKING_BEE" title="wikilink">HUSKING BEE</a></li>
+<li>IN ORDER TO FIND THE NEW SENSE / <a href="../Page/ASPARAGUS.md" title="wikilink">ASPARAGUS</a></li>
+<li>BLACK SKY ABOVE / <a href="../Page/HUSKING_BEE.md" title="wikilink">HUSKING BEE</a></li>
 <li>TURN ON THE LIGHT / <a href="https://ja.wikipedia.org/wiki/LOW_IQ_01" title="wikilink">LOW IQ 01と</a><a href="https://ja.wikipedia.org/wiki/曾田茂一" title="wikilink">曾田茂一</a></li>
 <li>FLIP OUT / <a href="https://ja.wikipedia.org/wiki/FIRE_BALL" title="wikilink">FIRE BALL</a></li>
-<li>THAT'S THE WAY WE UNITE / <a href="https://ja.wikipedia.org/wiki/Dragon_Ash" title="wikilink">Dragon Ash</a></li>
+<li>THAT'S THE WAY WE UNITE / <a href="../Page/Dragon_Ash.md" title="wikilink">Dragon Ash</a></li>
 <li>MASTADABESTAH / <a href="https://ja.wikipedia.org/wiki/THE_NOVEMBERS" title="wikilink">THE NOVEMBERS</a></li>
 <li>REMIND ME / <a href="../Page/LITE_(バンド).md" title="wikilink">LITE</a></li>
-<li>FLOW (IT'S LIKE THAT) / <a href="https://ja.wikipedia.org/wiki/BRAHMAN" title="wikilink">BRAHMAN</a>
+<li>FLOW (IT'S LIKE THAT) / <a href="../Page/BRAHMAN.md" title="wikilink">BRAHMAN</a>
 </div>
 </div></li>
 </ol></td>
@@ -663,7 +663,7 @@ TFBQ-18013:DVD</p></td>
 <td><p>2000年08月23日</p></td>
 <td><p>Team R Official Album ROUND, aROUND, gROUND</p></td>
 <td><p>TFCC-88164</p></td>
-<td><p>1. ROUND,AROUND,GROUND(<a href="https://ja.wikipedia.org/wiki/COCOBAT" title="wikilink">COCOBAT</a>,<a href="https://ja.wikipedia.org/wiki/BRAHMAN" title="wikilink">BRAHMAN</a>,BACK DROP BOMB,R SOUND,RUMINA)<br />
+<td><p>1. ROUND,AROUND,GROUND(<a href="https://ja.wikipedia.org/wiki/COCOBAT" title="wikilink">COCOBAT</a>,<a href="../Page/BRAHMAN.md" title="wikilink">BRAHMAN</a>,BACK DROP BOMB,R SOUND,RUMINA)<br />
 3. BACK DROP BOMB(BACK DROP BOMB)</p></td>
 <td><p>Toy's Factory</p></td>
 </tr>
@@ -771,7 +771,7 @@ TFBQ-18013:DVD</p></td>
 
   - 2000年 - MICROMAX TOUR
   - 2000年 - [NUMBER GIRLとのスプリット](https://ja.wikipedia.org/wiki/NUMBER_GIRL "wikilink")・ツアー『W-EXPOSURE TOUR』
-  - 2001年 - [HUSKING BEE](https://ja.wikipedia.org/wiki/HUSKING_BEE "wikilink")、[CAPTAIN HEDGE HOGとのトリプルヘッドライナー](https://ja.wikipedia.org/wiki/CAPTAIN_HEDGE_HOG "wikilink")・ツアー『DELTA SOUNDS TOUR』
+  - 2001年 - [HUSKING BEE](../Page/HUSKING_BEE.md "wikilink")、[CAPTAIN HEDGE HOGとのトリプルヘッドライナー](https://ja.wikipedia.org/wiki/CAPTAIN_HEDGE_HOG "wikilink")・ツアー『DELTA SOUNDS TOUR』
   - 2001年 - HUSKING BEEとのダブルヘッドライナー『BIPORALITY TOUR』
   - 2003年 - NIXEDUPTOUR
   - 2006年 - BASIS\&breakdawn double release tour
@@ -781,7 +781,7 @@ TFBQ-18013:DVD</p></td>
   - 2013年04月19日〜05月10日 - BACK DROP BOMB tour "3days preface"
   - 2013年05月15日〜06月30日 - BACK DROP BOMB & HUSKING BEE Wレコ発『Double Bond』tour
       -
-        w/[HUSKING BEE](https://ja.wikipedia.org/wiki/HUSKING_BEE "wikilink")
+        w/[HUSKING BEE](../Page/HUSKING_BEE.md "wikilink")
   - 2014年06月14日〜11月09日 - Broccasion Live
   - 2014年12月22日〜2015年02月06日 - BACK DROP BOMB TOUR "Loftinaction" ‘14-‘15
       -
@@ -801,7 +801,7 @@ TFBQ-18013:DVD</p></td>
   - 2002年08月17日 - [RISING SUN ROCK FESTIVAL](https://ja.wikipedia.org/wiki/RISING_SUN_ROCK_FESTIVAL "wikilink") 2002 in EZO
   - 2003年07月26日 - FUJI ROCK FESTIVAL '03
   - 2003年12月01日・06日・09日 - [くるり](../Page/くるり.md "wikilink") presents 百鬼夜行 2003
-  - 2003年12月30日 - [COUNTDOWN JAPAN](https://ja.wikipedia.org/wiki/COUNTDOWN_JAPAN "wikilink") 03/04
+  - 2003年12月30日 - [COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 03/04
   - 2004年08月07日 - ROCK IN JAPAN FESTIVAL 2004
   - 2004年12月31日 - COUNTDOWN JAPAN 04/05
   - 2005年02月06日 - If The 30's UNITED
@@ -817,13 +817,13 @@ TFBQ-18013:DVD</p></td>
   - 2008年05月18日 - JAPAN STREET CALLING TOUR
   - 2008年06月08日 - [FRONTIER BACKYARD](https://ja.wikipedia.org/wiki/FRONTIER_BACKYARD "wikilink") 2008 「NEO CLASSICAL」
   - 2009年04月29日 - Maximum Sound Style
-  - 2009年05月05日 - [MTV](https://ja.wikipedia.org/wiki/MTV "wikilink") LIVE JAPAN TOUR'09 SPRING ～ROAD TO VMAJ～ played by Sony Ericsson
+  - 2009年05月05日 - [MTV](../Page/MTV.md "wikilink") LIVE JAPAN TOUR'09 SPRING ～ROAD TO VMAJ～ played by Sony Ericsson
   - 2009年07月31日 - ROCK IN JAPAN FESTIVAL 2009
   - 2009年09月06日 - PUNKAFOOLIC\! SHIBUYA CRASH 2009
   - 2009年12月29日 - COUNTDOWN JAPAN 09/10
   - 2010年04月29日 - GARNI 12th Anniversary SATISFACTION\#4
   - 2011年08月05日 - ROCK IN JAPAN FESTIVAL 2011
-  - 2011年10月08日 - [BRAHMAN](https://ja.wikipedia.org/wiki/BRAHMAN "wikilink") 2011 TOUR「霹靂」
+  - 2011年10月08日 - [BRAHMAN](../Page/BRAHMAN.md "wikilink") 2011 TOUR「霹靂」
   - 2011年12月30日 - COUNTDOWN JAPAN 11/12
   - 2012年02月25日 - DEVILOCK NIGHT THE FINAL
   - 2012年04月13日・27日・28日・05月02日・05日 - BAD FOOD STUFF
@@ -843,13 +843,13 @@ TFBQ-18013:DVD</p></td>
   - 2013年09月03日 - [MEANING](https://ja.wikipedia.org/wiki/MEANING "wikilink") Alloy Steel Strikes Tour
   - 2013年10月12日・13日 - MADOllie2013
   - 2013年11月02日 - "ONE" Distribution LIVE
-  - 2014年03月28日 - [HUSKING BEE](https://ja.wikipedia.org/wiki/HUSKING_BEE "wikilink") presents New Peace Vol.2
+  - 2014年03月28日 - [HUSKING BEE](../Page/HUSKING_BEE.md "wikilink") presents New Peace Vol.2
   - 2014年04月08日・10日 - [MAN WITH A MISSION](https://ja.wikipedia.org/wiki/MAN_WITH_A_MISSION "wikilink") Tales of Purefly Tour 2014
   - 2014年06月15日 - [rega](https://ja.wikipedia.org/wiki/rega "wikilink") 2014 TOUR「DISCUSS」
   - 2014年07月19日 - SUMMER CAMP 2014
   - 2014年07月25日 - CIRCLE OF US Fes.
   - 2014年08月10日 - SAY HELLO FESTIVAL 2014
-  - 2014年09月19日 - [FAKE?](https://ja.wikipedia.org/wiki/FAKE? "wikilink") & BACK DROP BOMB
+  - 2014年09月19日 - [FAKE?](../Page/FAKE?.md "wikilink") & BACK DROP BOMB
   - 2014年12月14日 - FRONTIER BACKYARD 10th anniversary presents "10 surroundings"
   - 2014年12月29日 - COUNTDOWN JAPAN 14/15
   - 2015年05月09日 - MADOllie2015 spring
@@ -863,12 +863,12 @@ TFBQ-18013:DVD</p></td>
 
 ## 関連項目
 
-  - [BRAHMAN](https://ja.wikipedia.org/wiki/BRAHMAN "wikilink")
-  - [54-71](https://ja.wikipedia.org/wiki/54-71 "wikilink")
+  - [BRAHMAN](../Page/BRAHMAN.md "wikilink")
+  - [54-71](../Page/54-71.md "wikilink")
   - [AA=](../Page/上田剛士.md "wikilink") (白川貴善)
   - [WORD (小島真史)](https://ja.wikipedia.org/wiki/WORD_\(小島真史\) "wikilink")
-  - [FIRE BALL](https://ja.wikipedia.org/wiki/FIRE_BALL_\(レゲエグループ\) "wikilink")
-  - [DJ BAKU](https://ja.wikipedia.org/wiki/DJ_BAKU "wikilink") (田中仁)
+  - [FIRE BALL](../Page/FIRE_BALL_\(レゲエグループ\).md "wikilink")
+  - [DJ BAKU](../Page/DJ_BAKU.md "wikilink") (田中仁)
 
 ## 外部リンク
 

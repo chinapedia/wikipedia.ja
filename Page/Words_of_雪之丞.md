@@ -1,7 +1,7 @@
 > この記事は[Words of ](https://ja.wikipedia.org/wiki/Words_of_)から翻訳されています。
 
 
-『**Words of 雪之丞**』（ワーズ オブ ゆきのじょう）は、作詞家・[森雪之丞](https://ja.wikipedia.org/wiki/森雪之丞 "wikilink")の[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月26日](../Page/4月26日.md "wikilink")に[ビクタースピードスターから発売](https://ja.wikipedia.org/wiki/SPEEDSTAR_RECORDS "wikilink")。
+『**Words of 雪之丞**』（ワーズ オブ ゆきのじょう）は、作詞家・[森雪之丞](../Page/森雪之丞.md "wikilink")の[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")に[ビクタースピードスターから発売](../Page/SPEEDSTAR_RECORDS.md "wikilink")。
 
 ## 解説
 
@@ -20,8 +20,8 @@
     <!-- end list -->
       -
         森は、トリビュートの企画が持ち上がった時、真っ先に「POISON」をポルノグラフィティが歌っている絵が浮かんだという\[1\]。
-2.  **遊びにきてね** / [柴咲コウ](https://ja.wikipedia.org/wiki/柴咲コウ "wikilink") meets [sugiurumun](https://ja.wikipedia.org/wiki/SUGIURUMN "wikilink")
-      - 原曲：[PSY・S](https://ja.wikipedia.org/wiki/PSY・S "wikilink")(1990年)
+2.  **遊びにきてね** / [柴咲コウ](https://ja.wikipedia.org/wiki/柴咲コウ "wikilink") meets [sugiurumun](../Page/SUGIURUMN.md "wikilink")
+      - 原曲：[PSY・S](../Page/PSY・S.md "wikilink")(1990年)
     <!-- end list -->
       -
         音楽の中でシュールな世界観をどこまで構築できるかという挑戦的な歌詞をリメイクできるのは、圧倒的な“個”でありながら、“世界すべて”にも成り得る女神、柴咲コウしかいないと思ったと語っている\[2\]。
@@ -29,26 +29,26 @@
       - 原曲：[hide](https://ja.wikipedia.org/wiki/hide "wikilink")(1993年)
     <!-- end list -->
       -
-        SONIC STRORAGEは、I.N.A、[KAZのユニット](https://ja.wikipedia.org/wiki/K.A.Z_\(ギタリスト\) "wikilink")。
+        SONIC STRORAGEは、I.N.A、[KAZのユニット](../Page/K.A.Z_\(ギタリスト\).md "wikilink")。
 4.  **月の舟** / [CHEMISTRY](../Page/CHEMISTRY.md "wikilink")
       - 原曲：[池田聡](../Page/池田聡.md "wikilink")(1988年)
-5.  **青空** / [RYOJI](../Page/Ryoji.md "wikilink") from [ケツメイシ](https://ja.wikipedia.org/wiki/ケツメイシ "wikilink") feat. [高橋幸宏](../Page/高橋幸宏.md "wikilink")
+5.  **青空** / [RYOJI](../Page/Ryoji.md "wikilink") from [ケツメイシ](../Page/ケツメイシ.md "wikilink") feat. [高橋幸宏](../Page/高橋幸宏.md "wikilink")
       - 原曲：高橋幸宏(1994年)
 6.  **[悲しみよこんにちは](../Page/悲しみよこんにちは_\(斉藤由貴の曲\).md "wikilink")** / [つじあやの](https://ja.wikipedia.org/wiki/つじあやの "wikilink")
       - 原曲：[斉藤由貴](https://ja.wikipedia.org/wiki/斉藤由貴 "wikilink")(1986年)
     <!-- end list -->
       -
         ウクレレだけをバックに、つじあやのが可憐に歌いあげるヴァージョン\[3\]。
-7.  **天使の遺言** / [斉藤和義](https://ja.wikipedia.org/wiki/斉藤和義 "wikilink")
-      - 原曲：[早川義夫](https://ja.wikipedia.org/wiki/早川義夫 "wikilink")(2000年)
+7.  **天使の遺言** / [斉藤和義](../Page/斉藤和義.md "wikilink")
+      - 原曲：[早川義夫](../Page/早川義夫.md "wikilink")(2000年)
     <!-- end list -->
       -
         本作の中で、唯一シングルとしてリリースされていない\[4\]。
         森が多大な影響を受けたバンド「[ジャックス](../Page/ジャックス_\(バンド\).md "wikilink")」のボーカル「早川義夫」がソロ活動に復帰したあと、詞を依頼され感激と緊張と興奮の中で書きあげた\[5\]。
 8.  **君たちキゥイ・パパイア・マンゴーだね** / [BONNIE PINK](https://ja.wikipedia.org/wiki/BONNIE_PINK "wikilink") meets Mansfield
-      - 原曲：[中原めいこ](https://ja.wikipedia.org/wiki/中原めいこ "wikilink")(1984年)
-9.  **愛をちょうだい** / Fever The Quarter (shogo from [175R](../Page/175R.md "wikilink")　&　[takuya](https://ja.wikipedia.org/wiki/TAKUYA "wikilink") from ROBOTS)
-      - 原曲：[VANILLA](https://ja.wikipedia.org/wiki/VANILLA_\(バンド\) "wikilink")(1995年)
+      - 原曲：[中原めいこ](../Page/中原めいこ.md "wikilink")(1984年)
+9.  **愛をちょうだい** / Fever The Quarter (shogo from [175R](../Page/175R.md "wikilink")　&　[takuya](../Page/TAKUYA.md "wikilink") from ROBOTS)
+      - 原曲：[VANILLA](../Page/VANILLA_\(バンド\).md "wikilink")(1995年)
 10. **[ダイヤモンド・ダスト](../Page/ダイヤモンド・ダスト.md "wikilink")** / [大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")
       - 原曲：[氷室京介](../Page/氷室京介.md "wikilink")(1999年)
     <!-- end list -->

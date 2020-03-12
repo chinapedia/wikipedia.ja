@@ -7,16 +7,16 @@
 
 「物」と「者」の2つのモノからクイズを出題していた番組で、[所ジョージ](https://ja.wikipedia.org/wiki/所ジョージ "wikilink")が司会を、当時日本テレビのアナウンサーだった[井田由美](../Page/井田由美.md "wikilink")がアシスタントを務めていた。同じく所が司会を務めていた前番組『[クイズ笑って許して\!](../Page/笑って許して!!.md "wikilink")』を一旦休止させた上で開始された。津村順天堂の一社提供番組であると同時に所の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")でもあり、商品名と司会者名双方がタイトルに取り入れられていた。
 
-しかし、番組は半年で終了し、津村順天堂の一社提供枠は3か月後にスタートした[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[バスクリンタイム 所さんのただものではない\!](https://ja.wikipedia.org/wiki/所さんのただものではない! "wikilink")』へ移行した。日本テレビではその後、『[とんねるずの子供は寝なさい\!?](https://ja.wikipedia.org/wiki/とんねるずの子供は寝なさい!? "wikilink")』がつなぎ番組として放送され、そして同年10月にかつての前番組である『クイズ笑って許して\!』が『笑って許して\!\!』と改題した上で復活することになった。
+しかし、番組は半年で終了し、津村順天堂の一社提供枠は3か月後にスタートした[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[バスクリンタイム 所さんのただものではない\!](../Page/所さんのただものではない!.md "wikilink")』へ移行した。日本テレビではその後、『[とんねるずの子供は寝なさい\!?](../Page/とんねるずの子供は寝なさい!?.md "wikilink")』がつなぎ番組として放送され、そして同年10月にかつての前番組である『クイズ笑って許して\!』が『笑って許して\!\!』と改題した上で復活することになった。
 
 ## 出演者
 
   - [所ジョージ](https://ja.wikipedia.org/wiki/所ジョージ "wikilink")（司会）
   - [井田由美](../Page/井田由美.md "wikilink")（アシスタント）
-  - [堀ちえみ](https://ja.wikipedia.org/wiki/堀ちえみ "wikilink")（トッカン軍リーダー）
-  - [柴俊夫](https://ja.wikipedia.org/wiki/柴俊夫 "wikilink")（長老軍リーダー）
-  - [轟二郎](https://ja.wikipedia.org/wiki/轟二郎 "wikilink")（おヒントマン）
-  - [ジャイアント吉田](https://ja.wikipedia.org/wiki/ドンキーカルテット "wikilink")（レギュラー）
+  - [堀ちえみ](../Page/堀ちえみ.md "wikilink")（トッカン軍リーダー）
+  - [柴俊夫](../Page/柴俊夫.md "wikilink")（長老軍リーダー）
+  - [轟二郎](../Page/轟二郎.md "wikilink")（おヒントマン）
+  - [ジャイアント吉田](../Page/ドンキーカルテット.md "wikilink")（レギュラー）
 
 ## 内容
 

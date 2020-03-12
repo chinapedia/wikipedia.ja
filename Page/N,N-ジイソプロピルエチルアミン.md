@@ -13,7 +13,7 @@
 
 ## 安全性
 
-引火点 10 ℃の[可燃性液体](https://ja.wikipedia.org/wiki/可燃性液体 "wikilink")である。[皮膚](../Page/皮膚.md "wikilink")や[目](../Page/目.md "wikilink")に接触すると[炎症](https://ja.wikipedia.org/wiki/炎症 "wikilink")を発生することがある。ラットでの経口毒性は 200–500 mg/kg 程度。[消防法](../Page/消防法.md "wikilink")に定める第4類危険物 第1石油類に該当する\[1\]。
+引火点 10 ℃の[可燃性液体](https://ja.wikipedia.org/wiki/可燃性液体 "wikilink")である。[皮膚](../Page/皮膚.md "wikilink")や[目](../Page/目.md "wikilink")に接触すると[炎症](../Page/炎症.md "wikilink")を発生することがある。ラットでの経口毒性は 200–500 mg/kg 程度。[消防法](../Page/消防法.md "wikilink")に定める第4類危険物 第1石油類に該当する\[1\]。
 
 ## 脚注
 

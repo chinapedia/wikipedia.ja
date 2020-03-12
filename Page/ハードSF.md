@@ -5,17 +5,17 @@
 
 日本語では対応する言葉がなく、英語がそのまま片仮名で用いられているが、中国語では「」（科幻＝科学幻想＝SF）と訳されている。
 
-「ハードSF」という用語は1957年、[ジョン・W・キャンベル](../Page/ジョン・W・キャンベル.md "wikilink")の *[Islands of Space](https://ja.wikipedia.org/wiki/:en:Islands_of_Space "wikilink")* についての[アスタウンディング](https://ja.wikipedia.org/wiki/アスタウンディング "wikilink")誌に掲載されたレビューでが使ったのが初出とされている\[3\]\[4\]\[5\]。
+「ハードSF」という用語は1957年、[ジョン・W・キャンベル](../Page/ジョン・W・キャンベル.md "wikilink")の *[Islands of Space](https://ja.wikipedia.org/wiki/:en:Islands_of_Space "wikilink")* についての[アスタウンディング](../Page/アスタウンディング.md "wikilink")誌に掲載されたレビューでが使ったのが初出とされている\[3\]\[4\]\[5\]。
 
 ## 定義
 
-「ハードSF」とされる作品群においては、科学技術、とくに既知の[天文学](https://ja.wikipedia.org/wiki/天文学 "wikilink")・[物理学](../Page/物理学.md "wikilink")・[化学](../Page/化学.md "wikilink")・[数学](../Page/数学.md "wikilink")・[工学](../Page/工学.md "wikilink")技術などの正確で論理的で厳密な描写と、これらの科学知識に裏付けられた理論上可能なアイデアが中心となり、後にそれを否定する発見があったとしても「ハードSF」でなくなるわけではない\[6\]。例えば、P・スカイラー・ミラーは[アーサー・C・クラーク](../Page/アーサー・C・クラーク.md "wikilink")の1961年の長編『[渇きの海](https://ja.wikipedia.org/wiki/渇きの海 "wikilink")』をハードSFと呼んだ\[7\]。月のクレーター内に砂で埋まったポケットがあるというアイデアは今では否定されているものの、ハードSFという分類は今も有効である。なお、ここで言う「科学」は「[自然科学](../Page/自然科学.md "wikilink")」であり、[人文科学](../Page/人文科学.md "wikilink")や[社会科学](../Page/社会科学.md "wikilink")は含まれず、[心理学](../Page/心理学.md "wikilink")などの科学を取り入れたSFについては、英語圏では[ソフトSF](https://ja.wikipedia.org/wiki/ソフトSF "wikilink") (Soft science fiction) という語がある。これはハードSFの対義語として\[8\]1970年代後半に生まれた用語である。日本語圏では一般的ではなく、単なる逐語的対義語としてソフトSFという言葉が使われることがある程度である。実際、厳密な分類ではなく、レビューや評論で作品を分類するのに便利な用語でしかない。
+「ハードSF」とされる作品群においては、科学技術、とくに既知の[天文学](../Page/天文学.md "wikilink")・[物理学](../Page/物理学.md "wikilink")・[化学](../Page/化学.md "wikilink")・[数学](../Page/数学.md "wikilink")・[工学](../Page/工学.md "wikilink")技術などの正確で論理的で厳密な描写と、これらの科学知識に裏付けられた理論上可能なアイデアが中心となり、後にそれを否定する発見があったとしても「ハードSF」でなくなるわけではない\[6\]。例えば、P・スカイラー・ミラーは[アーサー・C・クラーク](../Page/アーサー・C・クラーク.md "wikilink")の1961年の長編『[渇きの海](../Page/渇きの海.md "wikilink")』をハードSFと呼んだ\[7\]。月のクレーター内に砂で埋まったポケットがあるというアイデアは今では否定されているものの、ハードSFという分類は今も有効である。なお、ここで言う「科学」は「[自然科学](../Page/自然科学.md "wikilink")」であり、[人文科学](../Page/人文科学.md "wikilink")や[社会科学](../Page/社会科学.md "wikilink")は含まれず、[心理学](../Page/心理学.md "wikilink")などの科学を取り入れたSFについては、英語圏では[ソフトSF](https://ja.wikipedia.org/wiki/ソフトSF "wikilink") (Soft science fiction) という語がある。これはハードSFの対義語として\[8\]1970年代後半に生まれた用語である。日本語圏では一般的ではなく、単なる逐語的対義語としてソフトSFという言葉が使われることがある程度である。実際、厳密な分類ではなく、レビューや評論で作品を分類するのに便利な用語でしかない。
 
 ハードSFとはどんなものか、を説明した成文としては、以下のようなものがある。
 
-[大野万紀](https://ja.wikipedia.org/wiki/大野万紀 "wikilink")の『SFハンドブック』\[9\]の「ハードSF」の項目では、[石原藤夫](../Page/石原藤夫.md "wikilink")による「小説の〈問題意識〉、〈舞台設定〉、〈展開〉、〈解決〉のすべてにおいて、理工学的な知識に基づいた科学的ないしは空想科学的な認識や手法を生かしたもの」\[10\]、[小松左京](../Page/小松左京.md "wikilink")による「科学の理論的追求が、そのフロンティアにおいて遭遇している〈問題〉について、文学的な〈処理〉を行う」\[11\]、[自由国民社](https://ja.wikipedia.org/wiki/自由国民社 "wikilink")『世界のSF文学総解説』\[12\]からの「SFというジャンルを、SFのもつ科学ムード的、イメージ的側面に重きをおいてとらえていった場合、その中核的な部分にあたる作品をいう」といった定義を引用している。
+[大野万紀](https://ja.wikipedia.org/wiki/大野万紀 "wikilink")の『SFハンドブック』\[9\]の「ハードSF」の項目では、[石原藤夫](../Page/石原藤夫.md "wikilink")による「小説の〈問題意識〉、〈舞台設定〉、〈展開〉、〈解決〉のすべてにおいて、理工学的な知識に基づいた科学的ないしは空想科学的な認識や手法を生かしたもの」\[10\]、[小松左京](../Page/小松左京.md "wikilink")による「科学の理論的追求が、そのフロンティアにおいて遭遇している〈問題〉について、文学的な〈処理〉を行う」\[11\]、[自由国民社](../Page/自由国民社.md "wikilink")『世界のSF文学総解説』\[12\]からの「SFというジャンルを、SFのもつ科学ムード的、イメージ的側面に重きをおいてとらえていった場合、その中核的な部分にあたる作品をいう」といった定義を引用している。
 
-また、石原藤夫と[金子隆一の](https://ja.wikipedia.org/wiki/金子隆一_\(SF\) "wikilink")『SF キイ・パーソン&キイ・ブック』\[13\]での「科学的仮説や論理が小説のプロットと一体化していて、前者をのぞくと、質の問題とは無関係に、小説とは呼べないものになってしまうようなサイエンス・フィクションのことである」とある。
+また、石原藤夫と[金子隆一の](../Page/金子隆一_\(SF\).md "wikilink")『SF キイ・パーソン&キイ・ブック』\[13\]での「科学的仮説や論理が小説のプロットと一体化していて、前者をのぞくと、質の問題とは無関係に、小説とは呼べないものになってしまうようなサイエンス・フィクションのことである」とある。
 
 [1990年代](../Page/1990年代.md "wikilink")になって、[DNAや](../Page/デオキシリボ核酸.md "wikilink")[ミトコンドリア](../Page/ミトコンドリア.md "wikilink")など、新たに興隆した[バイオテクノロジー](https://ja.wikipedia.org/wiki/バイオテクノロジー "wikilink")の知識を駆使した作品群が続々と登場したが、その分類をめぐっては、該博な[生物学](../Page/生物学.md "wikilink")的アイデアを中心としていることに注目して「新たな形式のハードSF」とみなされる一方で、「SFではなくバイオホラー、あるいは理数系ホラー」という異なるジャンル概念に分化させる意見もあり、評価は一定していない。
 
@@ -27,7 +27,7 @@
 
 ただし、どの程度までを「科学的」とみなすか、そもそも「科学的」とはどういうことかで様々な見方がある。ハードSFとされる作品にも[疑似科学](../Page/疑似科学.md "wikilink")は取り上げられているがこれを科学的とみなせるかという問題がある。
 
-ハードSFファンには作品内の科学的に不正確な点を探すことを「ゲーム」のように楽しむ者もいる。例えば[MITのグループは](../Page/マサチューセッツ工科大学.md "wikilink")[ハル・クレメント](../Page/ハル・クレメント.md "wikilink")の1953年の長編『重力の使命』に登場する惑星メスクリンは赤道付近が鋭くとがっていなければならないと指摘し、[フロリダ州](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")の高校では[ラリー・ニーヴン](../Page/ラリー・ニーヴン.md "wikilink")の1970年の長編『[リングワールド](https://ja.wikipedia.org/wiki/リングワールド "wikilink")』について計算を行い、表土が数千年で海に滑り込んだはずだと指摘した\[15\]。『リングワールド』はその巨大環状構造物が不安定であり、最終的に中心の太陽とぶつかってしまうと指摘されたことでも有名であり、ニーヴンは続編『[リングワールドふたたび](https://ja.wikipedia.org/wiki/リングワールドふたたび "wikilink")』で誤りを訂正し不安定さをストーリーに取り入れた。
+ハードSFファンには作品内の科学的に不正確な点を探すことを「ゲーム」のように楽しむ者もいる。例えば[MITのグループは](../Page/マサチューセッツ工科大学.md "wikilink")[ハル・クレメント](../Page/ハル・クレメント.md "wikilink")の1953年の長編『重力の使命』に登場する惑星メスクリンは赤道付近が鋭くとがっていなければならないと指摘し、[フロリダ州](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")の高校では[ラリー・ニーヴン](../Page/ラリー・ニーヴン.md "wikilink")の1970年の長編『[リングワールド](../Page/リングワールド.md "wikilink")』について計算を行い、表土が数千年で海に滑り込んだはずだと指摘した\[15\]。『リングワールド』はその巨大環状構造物が不安定であり、最終的に中心の太陽とぶつかってしまうと指摘されたことでも有名であり、ニーヴンは続編『[リングワールドふたたび](../Page/リングワールドふたたび.md "wikilink")』で誤りを訂正し不安定さをストーリーに取り入れた。
 
 ## 類似ジャンルとの比較
 
@@ -39,7 +39,7 @@
 
 そのため、ハードSFを書く作家について言えば、その職業的知識や経験を作品に生かせる元あるいは現役の技術者や科学者などといった経歴を持つ者が多い。
 
-ハードSFは[スペースオペラ](../Page/スペースオペラ.md "wikilink")とも好対照を見せている。ここでは[超光速航法](https://ja.wikipedia.org/wiki/超光速航法 "wikilink")を例にとる。現実の物理学では[相対性理論](https://ja.wikipedia.org/wiki/相対性理論 "wikilink")によって、物体は[光速度](https://ja.wikipedia.org/wiki/光速度 "wikilink")を超えるまで加速することはできない。しかし、太陽系外、特に複数の恒星系間を股に掛けて舞台とするSFでは、光速度を超える速さでの移動が物語上要求されるため、硬軟を問わず無数の超光速航行理論が提唱されている。
+ハードSFは[スペースオペラ](../Page/スペースオペラ.md "wikilink")とも好対照を見せている。ここでは[超光速航法](../Page/超光速航法.md "wikilink")を例にとる。現実の物理学では[相対性理論](../Page/相対性理論.md "wikilink")によって、物体は[光速度](https://ja.wikipedia.org/wiki/光速度 "wikilink")を超えるまで加速することはできない。しかし、太陽系外、特に複数の恒星系間を股に掛けて舞台とするSFでは、光速度を超える速さでの移動が物語上要求されるため、硬軟を問わず無数の超光速航行理論が提唱されている。
 
 ハードSF作品においては宇宙を舞台にする場合、舞台は太陽系内か、近郊の恒星系にとどめることになる。疑似科学あるいは最先端の物理学の仮説を応用・拡張して、超光速航法の理論を構築するものもあるが、あくまで超光速の移動手段は登場せず、亜光速以下の速度の移動手段しか登場しないものも多い。
 
@@ -53,75 +53,75 @@
 
 ### 小説家
 
-| 名前                                                                        | 作品                                                                                                                                                                |
-| ------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [アーサー・C・クラーク](../Page/アーサー・C・クラーク.md "wikilink")                          | 『[2001年宇宙の旅](../Page/2001年宇宙の旅.md "wikilink")』、『楽園の泉』等                                                                                                            |
-| [ロバート・A・ハインライン](../Page/ロバート・A・ハインライン.md "wikilink")                      | 『[月は無慈悲な夜の女王](https://ja.wikipedia.org/wiki/月は無慈悲な夜の女王 "wikilink")』等                                                                                              |
-| [アイザック・アシモフ](../Page/アイザック・アシモフ.md "wikilink")                            | 『[われはロボット](https://ja.wikipedia.org/wiki/われはロボット "wikilink")』等                                                                                                    |
-| [ロバート・L・フォワード](https://ja.wikipedia.org/wiki/ロバート・L・フォワード "wikilink")     | 『竜の卵』、『ロシュワールド』、『火星の虹』等                                                                                                                                           |
-| [チャールズ・シェフィールド](../Page/チャールズ・シェフィールド.md "wikilink")                      | 『マッカンドルー航宙記』『ニムロデ狩り』等                                                                                                                                             |
-| [スティーヴン・バクスター](../Page/スティーヴン・バクスター.md "wikilink")                        | 「[ジーリー](https://ja.wikipedia.org/wiki/ジーリー "wikilink")」シリーズ、『タイム・シップ』等                                                                                            |
-| [グレゴリー・ベンフォード](../Page/グレゴリー・ベンフォード.md "wikilink")                        | 『夜の大海の中で』、『大いなる天上の河』等                                                                                                                                             |
-| [ラリー・ニーヴン](../Page/ラリー・ニーヴン.md "wikilink")                                | 「[ノウンスペース](https://ja.wikipedia.org/wiki/ノウンスペース "wikilink")」シリーズ等                                                                                                |
-| [ルーディ・ラッカー](../Page/ルーディ・ラッカー.md "wikilink")                              | 『時空ドーナツ』等                                                                                                                                                         |
-| [グレッグ・ベア](../Page/グレッグ・ベア.md "wikilink")                                  | 『女王天使』、『永劫』、『久遠』等                                                                                                                                                 |
-| [グレッグ・イーガン](../Page/グレッグ・イーガン.md "wikilink")                              | 『[宇宙消失](https://ja.wikipedia.org/wiki/宇宙消失 "wikilink")』、『順列都市』等                                                                                                   |
-| [デイヴィッド・ブリン](../Page/デイヴィッド・ブリン.md "wikilink")                            | 「知性化」シリーズ、『サンダイバー』等                                                                                                                                               |
-| [カール・セーガン](../Page/カール・セーガン.md "wikilink")                                | 『コンタクト』                                                                                                                                                           |
-| [フレッド・ホイル](https://ja.wikipedia.org/wiki/フレッド・ホイル "wikilink")             | 『10月1日では遅すぎる』等                                                                                                                                                    |
-| [キム・スタンリー・ロビンスン](https://ja.wikipedia.org/wiki/キム・スタンリー・ロビンスン "wikilink") | 『レッド・マーズ』、『グリーン・マーズ』等                                                                                                                                             |
-| [ポール・プロイス](https://ja.wikipedia.org/wiki/ポール・プロイス "wikilink")             | 『天国への門』、『地獄への門』等                                                                                                                                                  |
-| [ポール・アンダースン](../Page/ポール・アンダースン.md "wikilink")                            | 『タウ・ゼロ』、『アーヴァタール』等                                                                                                                                                |
-| [ジェイムズ・P・ホーガン](../Page/ジェイムズ・P・ホーガン.md "wikilink")                        | 『[星を継ぐもの](../Page/星を継ぐもの.md "wikilink")』、『[未来の二つの顔](https://ja.wikipedia.org/wiki/未来の二つの顔 "wikilink")』、『[造物主の掟](https://ja.wikipedia.org/wiki/造物主の掟 "wikilink")』等 |
-| [ハル・クレメント](../Page/ハル・クレメント.md "wikilink")                                | 『重力の使命』等                                                                                                                                                          |
-| [ジュール・ヴェルヌ](../Page/ジュール・ヴェルヌ.md "wikilink")                              | 『[月世界旅行](https://ja.wikipedia.org/wiki/月世界旅行 "wikilink")』、『[海底二万里](https://ja.wikipedia.org/wiki/海底二万里 "wikilink")』等                                              |
-| [スタニスワフ・レム](../Page/スタニスワフ・レム.md "wikilink")                              | 『[ソラリスの陽のもとに](https://ja.wikipedia.org/wiki/ソラリスの陽のもとに "wikilink")』、『虚数』等                                                                                         |
-| [石原藤夫](../Page/石原藤夫.md "wikilink")                                        | 「惑星」シリーズ、『宇宙船オロモルフ号の冒険』等                                                                                                                                          |
-| [堀晃](../Page/堀晃.md "wikilink")                                            | 「トリニティ」シリーズ、『バビロニア・ウェーブ』等                                                                                                                                         |
-| [クライン・ユーベルシュタイン](https://ja.wikipedia.org/wiki/クライン・ユーベルシュタイン "wikilink") | 『緑の石』、『青い紐』、『赤い星』等                                                                                                                                                |
-| [小松左京](../Page/小松左京.md "wikilink")                                        | 『[さよならジュピター](../Page/さよならジュピター.md "wikilink")』、『[日本沈没](https://ja.wikipedia.org/wiki/日本沈没 "wikilink")』等                                                           |
-| [豊田有恒](../Page/豊田有恒.md "wikilink")                                        | 『ダイノサウルス作戦』等                                                                                                                                                      |
-| [谷甲州](https://ja.wikipedia.org/wiki/谷甲州 "wikilink")                       | 「[航空宇宙軍史](https://ja.wikipedia.org/wiki/航空宇宙軍史 "wikilink")」シリーズ等                                                                                                  |
-| [瀬名秀明](../Page/瀬名秀明.md "wikilink")                                        | 『[BRAIN VALLEY](https://ja.wikipedia.org/wiki/BRAIN_VALLEY "wikilink")』等                                                                                          |
-| [野尻抱介](../Page/野尻抱介.md "wikilink")                                        | 「[ロケットガール](https://ja.wikipedia.org/wiki/ロケットガール "wikilink")」シリーズ、『太陽の簒奪者』等                                                                                       |
-| [山本弘](../Page/山本弘_\(作家\).md "wikilink")                                   | 「[サイバーナイト](https://ja.wikipedia.org/wiki/サイバーナイト "wikilink")」シリーズ、『時の果てのフェブラリー』等                                                                                  |
-| [光瀬龍](../Page/光瀬龍.md "wikilink")                                          | 『[百億の昼と千億の夜](../Page/百億の昼と千億の夜.md "wikilink")』、『宇宙年代記』シリーズ等                                                                                                       |
-| [笹本祐一](../Page/笹本祐一.md "wikilink")                                        | 「[ARIEL](https://ja.wikipedia.org/wiki/ARIEL "wikilink")」シリーズ、「[星のパイロット](https://ja.wikipedia.org/wiki/星のパイロット "wikilink")」シリーズ等\[16\]                            |
-| [神林長平](https://ja.wikipedia.org/wiki/神林長平 "wikilink")                     | 「[戦闘妖精・雪風](https://ja.wikipedia.org/wiki/戦闘妖精・雪風 "wikilink")」シリーズ、『魂の駆動体』等                                                                                        |
-| [小川一水](../Page/小川一水.md "wikilink")                                        | 『[第六大陸](https://ja.wikipedia.org/wiki/第六大陸 "wikilink")』、『天涯の砦』                                                                                                    |
-| [林譲治](https://ja.wikipedia.org/wiki/林譲治_\(作家\) "wikilink")                | [AADDシリーズ](https://ja.wikipedia.org/wiki/AADDシリーズ "wikilink")、『ルナ・シューター』等                                                                                         |
+| 名前                                                                        | 作品                                                                                                                          |
+| ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| [アーサー・C・クラーク](../Page/アーサー・C・クラーク.md "wikilink")                          | 『[2001年宇宙の旅](../Page/2001年宇宙の旅.md "wikilink")』、『楽園の泉』等                                                                      |
+| [ロバート・A・ハインライン](../Page/ロバート・A・ハインライン.md "wikilink")                      | 『[月は無慈悲な夜の女王](../Page/月は無慈悲な夜の女王.md "wikilink")』等                                                                           |
+| [アイザック・アシモフ](../Page/アイザック・アシモフ.md "wikilink")                            | 『[われはロボット](../Page/われはロボット.md "wikilink")』等                                                                                 |
+| [ロバート・L・フォワード](../Page/ロバート・L・フォワード.md "wikilink")                        | 『竜の卵』、『ロシュワールド』、『火星の虹』等                                                                                                     |
+| [チャールズ・シェフィールド](../Page/チャールズ・シェフィールド.md "wikilink")                      | 『マッカンドルー航宙記』『ニムロデ狩り』等                                                                                                       |
+| [スティーヴン・バクスター](../Page/スティーヴン・バクスター.md "wikilink")                        | 「[ジーリー](../Page/ジーリー.md "wikilink")」シリーズ、『タイム・シップ』等                                                                         |
+| [グレゴリー・ベンフォード](../Page/グレゴリー・ベンフォード.md "wikilink")                        | 『夜の大海の中で』、『大いなる天上の河』等                                                                                                       |
+| [ラリー・ニーヴン](../Page/ラリー・ニーヴン.md "wikilink")                                | 「[ノウンスペース](../Page/ノウンスペース.md "wikilink")」シリーズ等                                                                             |
+| [ルーディ・ラッカー](../Page/ルーディ・ラッカー.md "wikilink")                              | 『時空ドーナツ』等                                                                                                                   |
+| [グレッグ・ベア](../Page/グレッグ・ベア.md "wikilink")                                  | 『女王天使』、『永劫』、『久遠』等                                                                                                           |
+| [グレッグ・イーガン](../Page/グレッグ・イーガン.md "wikilink")                              | 『[宇宙消失](https://ja.wikipedia.org/wiki/宇宙消失 "wikilink")』、『順列都市』等                                                             |
+| [デイヴィッド・ブリン](../Page/デイヴィッド・ブリン.md "wikilink")                            | 「知性化」シリーズ、『サンダイバー』等                                                                                                         |
+| [カール・セーガン](../Page/カール・セーガン.md "wikilink")                                | 『コンタクト』                                                                                                                     |
+| [フレッド・ホイル](../Page/フレッド・ホイル.md "wikilink")                                | 『10月1日では遅すぎる』等                                                                                                              |
+| [キム・スタンリー・ロビンスン](https://ja.wikipedia.org/wiki/キム・スタンリー・ロビンスン "wikilink") | 『レッド・マーズ』、『グリーン・マーズ』等                                                                                                       |
+| [ポール・プロイス](https://ja.wikipedia.org/wiki/ポール・プロイス "wikilink")             | 『天国への門』、『地獄への門』等                                                                                                            |
+| [ポール・アンダースン](../Page/ポール・アンダースン.md "wikilink")                            | 『タウ・ゼロ』、『アーヴァタール』等                                                                                                          |
+| [ジェイムズ・P・ホーガン](../Page/ジェイムズ・P・ホーガン.md "wikilink")                        | 『[星を継ぐもの](../Page/星を継ぐもの.md "wikilink")』、『[未来の二つの顔](../Page/未来の二つの顔.md "wikilink")』、『[造物主の掟](../Page/造物主の掟.md "wikilink")』等 |
+| [ハル・クレメント](../Page/ハル・クレメント.md "wikilink")                                | 『重力の使命』等                                                                                                                    |
+| [ジュール・ヴェルヌ](../Page/ジュール・ヴェルヌ.md "wikilink")                              | 『[月世界旅行](../Page/月世界旅行.md "wikilink")』、『[海底二万里](../Page/海底二万里.md "wikilink")』等                                              |
+| [スタニスワフ・レム](../Page/スタニスワフ・レム.md "wikilink")                              | 『[ソラリスの陽のもとに](https://ja.wikipedia.org/wiki/ソラリスの陽のもとに "wikilink")』、『虚数』等                                                   |
+| [石原藤夫](../Page/石原藤夫.md "wikilink")                                        | 「惑星」シリーズ、『宇宙船オロモルフ号の冒険』等                                                                                                    |
+| [堀晃](../Page/堀晃.md "wikilink")                                            | 「トリニティ」シリーズ、『バビロニア・ウェーブ』等                                                                                                   |
+| [クライン・ユーベルシュタイン](../Page/クライン・ユーベルシュタイン.md "wikilink")                    | 『緑の石』、『青い紐』、『赤い星』等                                                                                                          |
+| [小松左京](../Page/小松左京.md "wikilink")                                        | 『[さよならジュピター](../Page/さよならジュピター.md "wikilink")』、『[日本沈没](../Page/日本沈没.md "wikilink")』等                                        |
+| [豊田有恒](../Page/豊田有恒.md "wikilink")                                        | 『ダイノサウルス作戦』等                                                                                                                |
+| [谷甲州](../Page/谷甲州.md "wikilink")                                          | 「[航空宇宙軍史](../Page/航空宇宙軍史.md "wikilink")」シリーズ等                                                                               |
+| [瀬名秀明](../Page/瀬名秀明.md "wikilink")                                        | 『[BRAIN VALLEY](https://ja.wikipedia.org/wiki/BRAIN_VALLEY "wikilink")』等                                                    |
+| [野尻抱介](../Page/野尻抱介.md "wikilink")                                        | 「[ロケットガール](https://ja.wikipedia.org/wiki/ロケットガール "wikilink")」シリーズ、『太陽の簒奪者』等                                                 |
+| [山本弘](../Page/山本弘_\(作家\).md "wikilink")                                   | 「[サイバーナイト](https://ja.wikipedia.org/wiki/サイバーナイト "wikilink")」シリーズ、『時の果てのフェブラリー』等                                            |
+| [光瀬龍](../Page/光瀬龍.md "wikilink")                                          | 『[百億の昼と千億の夜](../Page/百億の昼と千億の夜.md "wikilink")』、『宇宙年代記』シリーズ等                                                                 |
+| [笹本祐一](../Page/笹本祐一.md "wikilink")                                        | 「[ARIEL](../Page/ARIEL.md "wikilink")」シリーズ、「[星のパイロット](https://ja.wikipedia.org/wiki/星のパイロット "wikilink")」シリーズ等\[16\]         |
+| [神林長平](../Page/神林長平.md "wikilink")                                        | 「[戦闘妖精・雪風](../Page/戦闘妖精・雪風.md "wikilink")」シリーズ、『魂の駆動体』等                                                                     |
+| [小川一水](../Page/小川一水.md "wikilink")                                        | 『[第六大陸](../Page/第六大陸.md "wikilink")』、『天涯の砦』                                                                                 |
+| [林譲治](../Page/林譲治_\(作家\).md "wikilink")                                   | [AADDシリーズ](https://ja.wikipedia.org/wiki/AADDシリーズ "wikilink")、『ルナ・シューター』等                                                   |
 
 ### SF漫画家
 
-| 名前                                                      | 作品                                                                                                                         |
-| ------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| [星野之宣](https://ja.wikipedia.org/wiki/星野之宣 "wikilink")   | 『[2001夜物語](https://ja.wikipedia.org/wiki/2001夜物語 "wikilink")』、『コドク・エクスペリメント』等                                              |
-| [士郎正宗](https://ja.wikipedia.org/wiki/士郎正宗 "wikilink")   | 『[攻殻機動隊](https://ja.wikipedia.org/wiki/攻殻機動隊 "wikilink")』、『ブラック・マジック』等                                                     |
-| [山下いくと](https://ja.wikipedia.org/wiki/山下いくと "wikilink") | 『[ダークウィスパー](https://ja.wikipedia.org/wiki/ダークウィスパー "wikilink")』                                                            |
-| [幸村誠](../Page/幸村誠.md "wikilink")                        | 『[プラネテス](https://ja.wikipedia.org/wiki/プラネテス "wikilink")』                                                                  |
-| [的場健](https://ja.wikipedia.org/wiki/的場健 "wikilink")     | 『まっすぐ天へ』（[金子隆一原作](https://ja.wikipedia.org/wiki/金子隆一_\(SF\) "wikilink")）                                                   |
-| [弐瓶勉](../Page/弐瓶勉.md "wikilink")                        | 『[BLAME\!](https://ja.wikipedia.org/wiki/BLAME! "wikilink")』、『[BIOMEGA](https://ja.wikipedia.org/wiki/BIOMEGA "wikilink")』 |
+| 名前                                                    | 作品                                                                                                      |
+| ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| [星野之宣](../Page/星野之宣.md "wikilink")                    | 『[2001夜物語](../Page/2001夜物語.md "wikilink")』、『コドク・エクスペリメント』等                                              |
+| [士郎正宗](https://ja.wikipedia.org/wiki/士郎正宗 "wikilink") | 『[攻殻機動隊](../Page/攻殻機動隊.md "wikilink")』、『ブラック・マジック』等                                                     |
+| [山下いくと](../Page/山下いくと.md "wikilink")                  | 『[ダークウィスパー](../Page/ダークウィスパー.md "wikilink")』                                                            |
+| [幸村誠](../Page/幸村誠.md "wikilink")                      | 『[プラネテス](../Page/プラネテス.md "wikilink")』                                                                  |
+| [的場健](https://ja.wikipedia.org/wiki/的場健 "wikilink")   | 『まっすぐ天へ』（[金子隆一原作](../Page/金子隆一_\(SF\).md "wikilink")）                                                   |
+| [弐瓶勉](../Page/弐瓶勉.md "wikilink")                      | 『[BLAME\!](https://ja.wikipedia.org/wiki/BLAME! "wikilink")』、『[BIOMEGA](../Page/BIOMEGA.md "wikilink")』 |
 
 ### SF科学研究者
 
-| 名前                                                           | 著作                             |
-| ------------------------------------------------------------ | ------------------------------ |
-| [金子隆一](https://ja.wikipedia.org/wiki/金子隆一_\(SF\) "wikilink") | 『新世紀未来科学』等                     |
-| [山崎昶](https://ja.wikipedia.org/wiki/山崎昶 "wikilink")          | 『SFを化学する』等                     |
-| [福江純](https://ja.wikipedia.org/wiki/福江純 "wikilink")          | 『SFを科学する』（石原藤夫との共著）、『SF天文学入門』等 |
+| 名前                                                  | 著作                             |
+| --------------------------------------------------- | ------------------------------ |
+| [金子隆一](../Page/金子隆一_\(SF\).md "wikilink")           | 『新世紀未来科学』等                     |
+| [山崎昶](https://ja.wikipedia.org/wiki/山崎昶 "wikilink") | 『SFを化学する』等                     |
+| [福江純](../Page/福江純.md "wikilink")                    | 『SFを科学する』（石原藤夫との共著）、『SF天文学入門』等 |
 
 ## 脚注・出典
 
 ## 関連項目
 
-  - [ハードSF研究所](https://ja.wikipedia.org/wiki/ハードSF研究所 "wikilink")
+  - [ハードSF研究所](../Page/ハードSF研究所.md "wikilink")
   - [サイエンス・フィクション](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")
   - [スペースオペラ](../Page/スペースオペラ.md "wikilink")
-  - [SF考証](https://ja.wikipedia.org/wiki/SF考証 "wikilink")
-  - [超光速航法](https://ja.wikipedia.org/wiki/超光速航法 "wikilink")
+  - [SF考証](../Page/SF考証.md "wikilink")
+  - [超光速航法](../Page/超光速航法.md "wikilink")
   - [軌道エレベータ](https://ja.wikipedia.org/wiki/軌道エレベータ "wikilink")
-  - [ダイソン球](https://ja.wikipedia.org/wiki/ダイソン球 "wikilink")
-  - [恒星船](https://ja.wikipedia.org/wiki/恒星船 "wikilink")
+  - [ダイソン球](../Page/ダイソン球.md "wikilink")
+  - [恒星船](../Page/恒星船.md "wikilink")
   - [タイムマシン](https://ja.wikipedia.org/wiki/タイムマシン "wikilink")
   - [サイバーパンク](https://ja.wikipedia.org/wiki/サイバーパンク "wikilink")
 

@@ -1,7 +1,7 @@
 > この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
 
 
-**プロジェクトX〜挑戦者たち〜の放送一覧**（プロジェクトエックス〜ちょうせんしゃたち〜のほうそういちらん）では、[NHK総合テレビジョン](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")で放映された番組『[プロジェクトX〜挑戦者たち〜](../Page/プロジェクトX〜挑戦者たち〜.md "wikilink")』の全作品（全187本+特集3本の合計190本）のタイトルを一覧する（放送日は本放送時[2000年](../Page/2000年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月28日](../Page/12月28日.md "wikilink")のもの。「特選‐」を含むアンコール放送分は除く）。
+**プロジェクトX〜挑戦者たち〜の放送一覧**（プロジェクトエックス〜ちょうせんしゃたち〜のほうそういちらん）では、[NHK総合テレビジョン](../Page/NHK総合テレビジョン.md "wikilink")で放映された番組『[プロジェクトX〜挑戦者たち〜](../Page/プロジェクトX〜挑戦者たち〜.md "wikilink")』の全作品（全187本+特集3本の合計190本）のタイトルを一覧する（放送日は本放送時[2000年](../Page/2000年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")から[2005年](../Page/2005年.md "wikilink")[12月28日](../Page/12月28日.md "wikilink")のもの。「特選‐」を含むアンコール放送分は除く）。
 
 ## 2000年
 
@@ -68,8 +68,8 @@
 <td><p>5月2日</p></td>
 <td><p>妻へ贈った<a href="../Page/ダイニングキッチン.md" title="wikilink">ダイニングキッチン</a><br />
 勝負は一坪・住宅革命の秘密</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/公団住宅" title="wikilink">公団住宅</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日本住宅公団" title="wikilink">日本住宅公団</a><br />
+<td><p><a href="../Page/公団住宅.md" title="wikilink">公団住宅</a></p></td>
+<td><p><a href="../Page/日本住宅公団.md" title="wikilink">日本住宅公団</a><br />
 （現・<a href="../Page/都市再生機構.md" title="wikilink">都市再生機構</a>）</p></td>
 <td><p>-</p></td>
 </tr>
@@ -81,7 +81,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/東海道新幹線" title="wikilink">東海道新幹線</a></p></td>
 <td><p><a href="../Page/日本国有鉄道.md" title="wikilink">日本国有鉄道</a><br />
 （現・<a href="../Page/JR.md" title="wikilink">JR</a>グループ）<br />
-<a href="https://ja.wikipedia.org/wiki/鉄道技術研究所" title="wikilink">鉄道技術研究所</a><br />
+<a href="../Page/鉄道技術研究所.md" title="wikilink">鉄道技術研究所</a><br />
 （現・<a href="../Page/鉄道総合技術研究所.md" title="wikilink">鉄道総合技術研究所</a>）</p></td>
 <td><p>-</p></td>
 </tr>
@@ -91,15 +91,15 @@
 <td><p><a href="../Page/カール・ルイス.md" title="wikilink">カール・ルイス</a>の魔法の<a href="../Page/靴.md" title="wikilink">靴</a><br />
 超軽量シューズ・若手社員の闘い</p></td>
 <td><p>超軽量シューズ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ミズノ" title="wikilink">ミズノ</a></p></td>
+<td><p><a href="../Page/ミズノ.md" title="wikilink">ミズノ</a></p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
 <td><p>009</p></td>
 <td><p>5月23日</p></td>
 <td><p>海底ロマン! 深海6500mへの挑戦<br />
-<a href="https://ja.wikipedia.org/wiki/潜水艇" title="wikilink">潜水調査船</a>・世界記録までの25年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/しんかい6500" title="wikilink">しんかい6500</a></p></td>
+<a href="../Page/潜水艇.md" title="wikilink">潜水調査船</a>・世界記録までの25年</p></td>
+<td><p><a href="../Page/しんかい6500.md" title="wikilink">しんかい6500</a></p></td>
 <td><p><a href="../Page/三菱重工業.md" title="wikilink">三菱重工業</a></p></td>
 <td><p>-</p></td>
 </tr>
@@ -108,7 +108,7 @@
 <td><p>5月30日</p></td>
 <td><p>全島一万人 史上最大の脱出作戦<br />
 〜三原山噴火・13時間のドラマ〜</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/三原山" title="wikilink">三原山</a>大噴火</p></td>
+<td><p><a href="../Page/三原山.md" title="wikilink">三原山</a>大噴火</p></td>
 <td><p><a href="../Page/大島町.md" title="wikilink">大島町</a></p></td>
 <td><p>-</p></td>
 </tr>
@@ -125,7 +125,7 @@
 <td><p>012</p></td>
 <td><p>6月13日</p></td>
 <td><p>裕弥ちゃん1歳 輝け命<br />
-日本初・親から子への<a href="../Page/肝臓.md" title="wikilink">肝臓</a><a href="https://ja.wikipedia.org/wiki/移植_(医療)" title="wikilink">移植</a></p></td>
+日本初・親から子への<a href="../Page/肝臓.md" title="wikilink">肝臓</a><a href="../Page/移植_(医療).md" title="wikilink">移植</a></p></td>
 <td><p>親から子への生体肝移植</p></td>
 <td><p>島根医科大学<br />
 （現・<a href="../Page/島根大学.md" title="wikilink">島根大学</a>医学部）</p></td>
@@ -143,10 +143,10 @@
 <tr class="even">
 <td><p>014</p></td>
 <td><p>6月27日</p></td>
-<td><p>厳冬<a href="https://ja.wikipedia.org/wiki/黒部ダム" title="wikilink">黒四ダム</a><br />
+<td><p>厳冬<a href="../Page/黒部ダム.md" title="wikilink">黒四ダム</a><br />
 断崖絶壁の輸送作戦</p></td>
 <td><p>黒四ダムの資材輸送作戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/間組" title="wikilink">間組</a>(呼称は<a href="https://ja.wikipedia.org/wiki/ハザマ" title="wikilink">ハザマ</a>)<br />
+<td><p><a href="../Page/間組.md" title="wikilink">間組</a>(呼称は<a href="https://ja.wikipedia.org/wiki/ハザマ" title="wikilink">ハザマ</a>)<br />
 （現・<a href="https://ja.wikipedia.org/wiki/安藤ハザマ" title="wikilink">安藤ハザマ</a>）</p></td>
 <td><p>-</p></td>
 </tr>
@@ -155,8 +155,8 @@
 <td><p>7月4日</p></td>
 <td><p>海のかなたの<a href="https://ja.wikipedia.org/wiki/阪神甲子園球場" title="wikilink">甲子園</a><br />
 熱血教師たち・沖縄野球 涙の初勝利</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/第40回全国高等学校野球選手権大会" title="wikilink">沖縄初の高校野球全国大会出場</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/沖縄県立首里高等学校" title="wikilink">首里高校</a></p></td>
+<td><p><a href="../Page/第40回全国高等学校野球選手権大会.md" title="wikilink">沖縄初の高校野球全国大会出場</a></p></td>
+<td><p><a href="../Page/沖縄県立首里高等学校.md" title="wikilink">首里高校</a></p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -165,7 +165,7 @@
 <td><p>翼はよみがえった（前編）<br />
 <a href="../Page/YS-11.md" title="wikilink">YS-11</a>・日本初の国産旅客機</p></td>
 <td><p>YS-11</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日本航空機製造" title="wikilink">日本航空機製造</a></p></td>
+<td><p><a href="../Page/日本航空機製造.md" title="wikilink">日本航空機製造</a></p></td>
 <td><p>[1]</p></td>
 </tr>
 <tr class="odd">
@@ -183,7 +183,7 @@ YS-11・運命の初飛行</p></td>
 <td><p>国境を越えた救出劇<br />
 大やけどの<a href="../Page/コンスタンティン・スコロプイシュヌイ.md" title="wikilink">コンスタンチン君</a>・命のリレー</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ソビエト連邦" title="wikilink">ソビエト連邦</a>のコンスタンチン君火傷治療</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/第一管区海上保安本部" title="wikilink">第一管区海上保安本部</a><br />
+<td><p><a href="../Page/第一管区海上保安本部.md" title="wikilink">第一管区海上保安本部</a><br />
 <a href="../Page/札幌医科大学.md" title="wikilink">札幌医科大学</a></p></td>
 <td><p>-</p></td>
 </tr>
@@ -192,7 +192,7 @@ YS-11・運命の初飛行</p></td>
 <td><p>8月22日</p></td>
 <td><p>宇宙ロマン<a href="https://ja.wikipedia.org/wiki/すばる望遠鏡" title="wikilink">すばる</a><br />
 ～140億光年 世界一の望遠鏡～</p></td>
-<td><p>大型光学<a href="https://ja.wikipedia.org/wiki/望遠鏡" title="wikilink">望遠鏡</a>「すばる」</p></td>
+<td><p>大型光学<a href="../Page/望遠鏡.md" title="wikilink">望遠鏡</a>「すばる」</p></td>
 <td><p>三菱電機</p></td>
 <td><p>-</p></td>
 </tr>
@@ -221,16 +221,16 @@ YS-11・運命の初飛行</p></td>
 <td><p>9月12日</p></td>
 <td><p>海底3000メートルの大捜索<br />
 ～<a href="../Page/H-IIロケット8号機.md" title="wikilink">HIIロケットエンジンを探し出せ</a>～</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/LE-7" title="wikilink">ロケットエンジン残骸の海底捜査</a></p></td>
+<td><p><a href="../Page/LE-7.md" title="wikilink">ロケットエンジン残骸の海底捜査</a></p></td>
 <td><p>海洋科学技術センター<br />
-（現・<a href="https://ja.wikipedia.org/wiki/海洋研究開発機構" title="wikilink">海洋研究開発機構</a>）</p></td>
+（現・<a href="../Page/海洋研究開発機構.md" title="wikilink">海洋研究開発機構</a>）</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
 <td><p>023</p></td>
 <td><p>10月3日</p></td>
 <td><p>悪から金を取り戻せ<br />
-～<a href="../Page/豊田商事事件.md" title="wikilink">豊田商事事件</a>・<a href="https://ja.wikipedia.org/wiki/中坊公平" title="wikilink">中坊公平</a>チームの闘い～</p></td>
+～<a href="../Page/豊田商事事件.md" title="wikilink">豊田商事事件</a>・<a href="../Page/中坊公平.md" title="wikilink">中坊公平</a>チームの闘い～</p></td>
 <td><p>豊田商事事件</p></td>
 <td><p>中坊公平弁護士チーム</p></td>
 <td><p>前編</p></td>
@@ -248,7 +248,7 @@ YS-11・運命の初飛行</p></td>
 <td><p>025</p></td>
 <td><p>10月17日</p></td>
 <td><p>幻の金堂 ゼロからの挑戦<br />
-～<a href="../Page/薬師寺.md" title="wikilink">薬師寺</a>・<a href="https://ja.wikipedia.org/wiki/西岡常一" title="wikilink">鬼の名工と若武者たち</a>～</p></td>
+～<a href="../Page/薬師寺.md" title="wikilink">薬師寺</a>・<a href="../Page/西岡常一.md" title="wikilink">鬼の名工と若武者たち</a>～</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/薬師寺#伽藍" title="wikilink">薬師寺金堂再建</a></p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
@@ -258,7 +258,7 @@ YS-11・運命の初飛行</p></td>
 <td><p>10月24日</p></td>
 <td><p>うまいコメが食べたい<br />
 コシヒカリ ブランド米の伝説</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/コシヒカリ" title="wikilink">コシヒカリ</a></p></td>
+<td><p><a href="../Page/コシヒカリ.md" title="wikilink">コシヒカリ</a></p></td>
 <td><p>新潟県長岡農業試験場</p></td>
 <td><p>-</p></td>
 </tr>
@@ -288,7 +288,7 @@ YS-11・運命の初飛行</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1991年のル・マン24時間レース" title="wikilink">ル・マンを制覇せよ</a><br />
 ロータリーエンジン・奇跡の逆転劇</p></td>
 <td><p>マツダ<br />
-<a href="https://ja.wikipedia.org/wiki/マツダスピード" title="wikilink">マツダスピード</a></p></td>
+<a href="../Page/マツダスピード.md" title="wikilink">マツダスピード</a></p></td>
 <td><p>後編</p></td>
 <td></td>
 </tr>
@@ -296,7 +296,7 @@ YS-11・運命の初飛行</p></td>
 <td><p>030</p></td>
 <td><p>11月21日</p></td>
 <td><p>ツッパリ生徒と<a href="https://ja.wikipedia.org/wiki/山口良治" title="wikilink">泣き虫先生</a><br />
-～<a href="https://ja.wikipedia.org/wiki/京都市立伏見工業高等学校" title="wikilink">伏見工業ラグビー部</a>・日本一への挑戦～</p></td>
+～<a href="../Page/京都市立伏見工業高等学校.md" title="wikilink">伏見工業ラグビー部</a>・日本一への挑戦～</p></td>
 <td><p>伏見工業高校 <a href="../Page/全国高等学校ラグビーフットボール大会.md" title="wikilink">高校ラグビー優勝</a></p></td>
 <td><p>伏見工業高校</p></td>
 <td></td>
@@ -306,9 +306,9 @@ YS-11・運命の初飛行</p></td>
 <td><p>11月28日</p></td>
 <td><p>よみがえれ、日本海<br />
 ナホトカ号 重油流出・30万人の奇跡</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ナホトカ号重油流出事故" title="wikilink">ナホトカ号重油流出事故</a>による<br />
+<td><p><a href="../Page/ナホトカ号重油流出事故.md" title="wikilink">ナホトカ号重油流出事故</a>による<br />
 流出重油のボランティア回収作業</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/三国町" title="wikilink">三国町</a>（現・<a href="https://ja.wikipedia.org/wiki/坂井市" title="wikilink">坂井市</a>）<br />
+<td><p><a href="../Page/三国町.md" title="wikilink">三国町</a>（現・<a href="../Page/坂井市.md" title="wikilink">坂井市</a>）<br />
 重油災害ボランティアセンター</p></td>
 <td><p>-</p></td>
 </tr>
@@ -326,7 +326,7 @@ YS-11・運命の初飛行</p></td>
 <td><p>12月12日</p></td>
 <td><p>町工場、世界へ翔ぶ<br />
 ～トランジスタラジオ・営業マンたちの闘い～</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トランジスタラジオ" title="wikilink">トランジスタラジオ</a></p></td>
+<td><p><a href="../Page/トランジスタラジオ.md" title="wikilink">トランジスタラジオ</a></p></td>
 <td><p><a href="../Page/ソニー.md" title="wikilink">ソニー</a></p></td>
 <td><p>-</p></td>
 </tr>
@@ -335,8 +335,8 @@ YS-11・運命の初飛行</p></td>
 <td><p>12月19日</p></td>
 <td><p>女たちの10年戦争<br />
 ～「男女雇用機会均等法」誕生～</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/雇用の分野における男女の均等な機会及び待遇の確保等に関する法律" title="wikilink">男女雇用機会均等法</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/労働省" title="wikilink">労働省</a><br />
+<td><p><a href="../Page/雇用の分野における男女の均等な機会及び待遇の確保等に関する法律.md" title="wikilink">男女雇用機会均等法</a></p></td>
+<td><p><a href="../Page/労働省.md" title="wikilink">労働省</a><br />
 （現・<a href="../Page/厚生労働省.md" title="wikilink">厚生労働省</a>）</p></td>
 <td><p>-</p></td>
 </tr>
@@ -362,7 +362,7 @@ YS-11・運命の初飛行</p></td>
 <td><p>1月9日</p></td>
 <td><p><a href="../Page/エベレスト.md" title="wikilink">エベレスト</a>へ 熱き1400日<br />
 ～日本女子登山隊の闘い～</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/田部井淳子" title="wikilink">日本の女子登山家のエベレスト登頂</a></p></td>
+<td><p><a href="../Page/田部井淳子.md" title="wikilink">日本の女子登山家のエベレスト登頂</a></p></td>
 <td><p>日本女子登山隊</p></td>
 <td><p>-</p></td>
 </tr>
@@ -372,7 +372,7 @@ YS-11・運命の初飛行</p></td>
 <td><p>奇跡の心臓手術に挑む<br />
 ～天才外科医の秘めた決意～</p></td>
 <td><p>バチスタ手術（<a href="https://ja.wikipedia.org/wiki/左室形成術" title="wikilink">左室形成術</a>）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/湘南鎌倉総合病院" title="wikilink">湘南鎌倉総合病院</a> <a href="https://ja.wikipedia.org/wiki/須磨久善" title="wikilink">須磨久善</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/湘南鎌倉総合病院" title="wikilink">湘南鎌倉総合病院</a> <a href="../Page/須磨久善.md" title="wikilink">須磨久善</a></p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -380,7 +380,7 @@ YS-11・運命の初飛行</p></td>
 <td><p>1月23日</p></td>
 <td><p><a href="../Page/ゴジラ.md" title="wikilink">ゴジラ</a>誕生<br />
 特撮に賭けた80人の若者たち</p></td>
-<td><p>映画『<a href="https://ja.wikipedia.org/wiki/ゴジラ_(1954年の映画)" title="wikilink">ゴジラ</a>』</p></td>
+<td><p>映画『<a href="../Page/ゴジラ_(1954年の映画).md" title="wikilink">ゴジラ</a>』</p></td>
 <td><p><a href="../Page/東宝.md" title="wikilink">東宝</a></p></td>
 <td><p>-</p></td>
 </tr>
@@ -400,7 +400,7 @@ YS-11・運命の初飛行</p></td>
 ～世紀の難工事に挑む～</p></td>
 <td><p>瀬戸大橋建設</p></td>
 <td><p><a href="../Page/本州四国連絡橋公団.md" title="wikilink">本州四国連絡橋公団</a><br />
-（現・<a href="https://ja.wikipedia.org/wiki/本州四国連絡高速道路" title="wikilink">本州四国連絡高速道路</a>）</p></td>
+（現・<a href="../Page/本州四国連絡高速道路.md" title="wikilink">本州四国連絡高速道路</a>）</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -427,14 +427,14 @@ YS-11・運命の初飛行</p></td>
 <td><p>倒産からの大逆転劇 <a href="../Page/炊飯器.md" title="wikilink">電気釜</a><br />
 ～町工場一家の総力戦～</p></td>
 <td><p>電気釜</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東芝" title="wikilink">東芝</a><br />
+<td><p><a href="../Page/東芝.md" title="wikilink">東芝</a><br />
 光伸社</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
 <td><p>043</p></td>
 <td><p>3月6日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/襟裳岬" title="wikilink">えりも岬に春を呼べ</a><br />
+<td><p><a href="../Page/襟裳岬.md" title="wikilink">えりも岬に春を呼べ</a><br />
 ～砂漠を森に・北の家族の半世紀～</p></td>
 <td><p>襟裳岬の植林活動</p></td>
 <td><p>-</p></td>
@@ -445,8 +445,8 @@ YS-11・運命の初飛行</p></td>
 <td><p>3月13日</p></td>
 <td><p>戦場にかける橋<br />
 ～カンボジア・技術者と兵士の闘い～</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カンボジア" title="wikilink">カンボジア</a>日本橋建設</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大林組" title="wikilink">大林組</a></p></td>
+<td><p><a href="../Page/カンボジア.md" title="wikilink">カンボジア</a>日本橋建設</p></td>
+<td><p><a href="../Page/大林組.md" title="wikilink">大林組</a></p></td>
 <td><p>前編</p></td>
 </tr>
 <tr class="odd">
@@ -490,7 +490,7 @@ YS-11・運命の初飛行</p></td>
 <td><p>4月24日</p></td>
 <td><p>耳を澄ませ 赤ちゃんの声<br />
 ～伝説のパルモア病院誕生～</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/新生児学" title="wikilink">新生児医療</a></p></td>
+<td><p><a href="../Page/新生児学.md" title="wikilink">新生児医療</a></p></td>
 <td><p>パルモア病院</p></td>
 <td></td>
 </tr>
@@ -516,10 +516,10 @@ YS-11・運命の初飛行</p></td>
 <tr class="even">
 <td><p>052</p></td>
 <td><p>5月15日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/霞が関ビルディング" title="wikilink">霞が関ビル</a> <a href="https://ja.wikipedia.org/wiki/超高層ビル" title="wikilink">超高層への果てしなき戦い</a><br />
+<td><p><a href="../Page/霞が関ビルディング.md" title="wikilink">霞が関ビル</a> <a href="https://ja.wikipedia.org/wiki/超高層ビル" title="wikilink">超高層への果てしなき戦い</a><br />
 ～地震列島日本の革命技術～</p></td>
 <td><p>霞が関ビル</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/鹿島建設" title="wikilink">鹿島建設</a></p></td>
+<td><p><a href="../Page/鹿島建設.md" title="wikilink">鹿島建設</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -563,7 +563,7 @@ YS-11・運命の初飛行</p></td>
 <tr class="odd">
 <td><p>057</p></td>
 <td><p>6月19日</p></td>
-<td><p><a href="../Page/新村出.md" title="wikilink">父と</a><a href="https://ja.wikipedia.org/wiki/新村猛" title="wikilink">息子</a> 執念燃ゆ 大辞典<br />
+<td><p><a href="../Page/新村出.md" title="wikilink">父と</a><a href="../Page/新村猛.md" title="wikilink">息子</a> 執念燃ゆ 大辞典<br />
 〜30年・空前の言葉探し〜</p></td>
 <td><p><a href="../Page/広辞苑.md" title="wikilink">広辞苑</a></p></td>
 <td><p><a href="../Page/岩波書店.md" title="wikilink">岩波書店</a></p></td>
@@ -576,7 +576,7 @@ YS-11・運命の初飛行</p></td>
 〜世界初・自動改札機誕生〜</p></td>
 <td><p><a href="../Page/自動改札機.md" title="wikilink">自動改札機</a></p></td>
 <td><p>立石電機<br />
-(現・<a href="https://ja.wikipedia.org/wiki/オムロン" title="wikilink">オムロン</a>)</p></td>
+(現・<a href="../Page/オムロン.md" title="wikilink">オムロン</a>)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -600,8 +600,8 @@ YS-11・運命の初飛行</p></td>
 <td><p>061</p></td>
 <td><p>7月17日</p></td>
 <td><p>炎のアラビア 一発必中 油をあてろ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アラビア海" title="wikilink">アラビア海</a>油田開発</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アラビア石油" title="wikilink">アラビア石油</a></p></td>
+<td><p><a href="../Page/アラビア海.md" title="wikilink">アラビア海</a>油田開発</p></td>
+<td><p><a href="../Page/アラビア石油.md" title="wikilink">アラビア石油</a></p></td>
 <td><p>前編</p></td>
 </tr>
 <tr class="even">
@@ -629,7 +629,7 @@ YS-11・運命の初飛行</p></td>
 <td><p>8月28日</p></td>
 <td><p>鉄の男たち 逆境からの日本一<br />
 〜伝説の釜石ラグビー部〜</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/釜石シーウェイブス" title="wikilink">新日鉄釜石ラグビー部</a> <a href="../Page/日本ラグビーフットボール選手権大会.md" title="wikilink">日本選手権優勝</a></p></td>
+<td><p><a href="../Page/釜石シーウェイブス.md" title="wikilink">新日鉄釜石ラグビー部</a> <a href="../Page/日本ラグビーフットボール選手権大会.md" title="wikilink">日本選手権優勝</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/新日鐵住金釜石製鐵所" title="wikilink">新日本製鐵(現・新日鐵住金)釜石製鐵所</a></p></td>
 <td></td>
 </tr>
@@ -638,7 +638,7 @@ YS-11・運命の初飛行</p></td>
 <td><p>9月4日</p></td>
 <td><p>逆転 田舎工場 世界を制す<br />
 〜クオーツ・革命の腕時計〜</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クォーツ時計" title="wikilink">クォーツ時計</a></p></td>
+<td><p><a href="../Page/クォーツ時計.md" title="wikilink">クォーツ時計</a></p></td>
 <td><p>諏訪精工舎<br />
 （現：<a href="../Page/セイコーエプソン.md" title="wikilink">セイコーエプソン</a>）</p></td>
 <td></td>
@@ -656,7 +656,7 @@ YS-11・運命の初飛行</p></td>
 <td><p>066</p></td>
 <td><p>9月18日</p></td>
 <td><p>絶体絶命　650人決死の脱出劇<br />
-〜<a href="https://ja.wikipedia.org/wiki/土石流" title="wikilink">土石流</a>と闘った8時間〜</p></td>
+〜<a href="../Page/土石流.md" title="wikilink">土石流</a>と闘った8時間〜</p></td>
 <td><p>「<a href="https://ja.wikipedia.org/wiki/竜ヶ水駅#1993年8月6日の水害による影響" title="wikilink">鹿児島8・6大水害</a>」からの救出作業</p></td>
 <td><p><a href="../Page/鹿児島県警察.md" title="wikilink">鹿児島県警察</a><br />
 <a href="../Page/九州旅客鉄道.md" title="wikilink">九州旅客鉄道</a></p></td>
@@ -665,7 +665,7 @@ YS-11・運命の初飛行</p></td>
 <tr class="even">
 <td><p>067</p></td>
 <td><p>9月25日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シールドマシン" title="wikilink">巨大モグラ</a> <a href="../Page/ドーバー海峡.md" title="wikilink">ドーバーを掘れ</a><br />
+<td><p><a href="../Page/シールドマシン.md" title="wikilink">巨大モグラ</a> <a href="../Page/ドーバー海峡.md" title="wikilink">ドーバーを掘れ</a><br />
 〜地下一筋・男たちは国境を越えた〜</p></td>
 <td><p><a href="../Page/英仏海峡トンネル.md" title="wikilink">ドーバー海峡トンネル掘削</a></p></td>
 <td><p><a href="../Page/川崎重工業.md" title="wikilink">川崎重工業</a></p></td>
@@ -674,7 +674,7 @@ YS-11・運命の初飛行</p></td>
 <tr class="odd">
 <td><p>068</p></td>
 <td><p>10月2日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スヴャトスラフ・リヒテル" title="wikilink">リヒテルが愛した執念のピアノ</a></p></td>
+<td><p><a href="../Page/スヴャトスラフ・リヒテル.md" title="wikilink">リヒテルが愛した執念のピアノ</a></p></td>
 <td><p>グランドピアノ開発</p></td>
 <td><p>日本楽器<br />
 (現・<a href="../Page/ヤマハ.md" title="wikilink">ヤマハ</a>)</p></td>
@@ -683,7 +683,7 @@ YS-11・運命の初飛行</p></td>
 <tr class="even">
 <td><p>069</p></td>
 <td><p>10月7日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レーザー" title="wikilink">レーザー</a>・光の<a href="https://ja.wikipedia.org/wiki/メス_(刃物)" title="wikilink">メスで命を救え</a></p></td>
+<td><p><a href="../Page/レーザー.md" title="wikilink">レーザー</a>・光の<a href="../Page/メス_(刃物).md" title="wikilink">メスで命を救え</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/レーザーメス" title="wikilink">レーザーメス</a></p></td>
 <td><p>持田製薬ME<br />
 (現・<a href="https://ja.wikipedia.org/wiki/持田シーメンスメディカルシステム" title="wikilink">持田シーメンスメディカルシステム</a>)</p></td>
@@ -711,7 +711,7 @@ YS-11・運命の初飛行</p></td>
 <td><p>072</p></td>
 <td><p>11月6日</p></td>
 <td><p><a href="../Page/通天閣.md" title="wikilink">通天閣</a> 熱き7人<br />
-〜商店主と<a href="https://ja.wikipedia.org/wiki/内藤多仲" title="wikilink">塔博士の挑戦</a>〜</p></td>
+〜商店主と<a href="../Page/内藤多仲.md" title="wikilink">塔博士の挑戦</a>〜</p></td>
 <td><p>二代目通天閣建設</p></td>
 <td><p>通天閣観光</p></td>
 <td></td>
@@ -763,7 +763,7 @@ YS-11・運命の初飛行</p></td>
 <td><p>1月15日</p></td>
 <td><p>王が眠る 神秘の遺跡<br />
 〜父と息子・執念の吉野ヶ里〜</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/吉野ヶ里遺跡" title="wikilink">吉野ヶ里遺跡</a>発掘</p></td>
+<td><p><a href="../Page/吉野ヶ里遺跡.md" title="wikilink">吉野ヶ里遺跡</a>発掘</p></td>
 <td><p><a href="../Page/佐賀県.md" title="wikilink">佐賀県</a></p></td>
 <td></td>
 </tr>
@@ -773,8 +773,8 @@ YS-11・運命の初飛行</p></td>
 <td><p>医師たちは走った<br />
 〜医療革命 集団検診〜</p></td>
 <td><p>過疎村の<a href="https://ja.wikipedia.org/wiki/集団検診" title="wikilink">集団検診</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/八千穂村" title="wikilink">八千穂村</a><br />
-（現・<a href="https://ja.wikipedia.org/wiki/佐久穂町" title="wikilink">佐久穂町</a>）</p></td>
+<td><p><a href="../Page/八千穂村.md" title="wikilink">八千穂村</a><br />
+（現・<a href="../Page/佐久穂町.md" title="wikilink">佐久穂町</a>）</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -801,8 +801,8 @@ YS-11・運命の初飛行</p></td>
 <td><p><a href="../Page/庄内平野.md" title="wikilink">突風平野</a> 風車よ闘え!<br />
 〜執念がエネルギーを生んだ〜</p></td>
 <td><p><a href="../Page/風力発電.md" title="wikilink">風力発電</a>開発</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山形県" title="wikilink">山形県</a><a href="../Page/立川町.md" title="wikilink">立川町</a><br />
-（現・<a href="https://ja.wikipedia.org/wiki/庄内町" title="wikilink">庄内町</a>）</p></td>
+<td><p><a href="../Page/山形県.md" title="wikilink">山形県</a><a href="../Page/立川町.md" title="wikilink">立川町</a><br />
+（現・<a href="../Page/庄内町.md" title="wikilink">庄内町</a>）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -810,7 +810,7 @@ YS-11・運命の初飛行</p></td>
 <td><p>2月26日</p></td>
 <td><p>決断 命の一滴<br />
 〜<a href="../Page/白血病.md" title="wikilink">白血病</a>・日本初の骨髄バンク〜</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/骨髄バンク" title="wikilink">骨髄バンク</a></p></td>
+<td><p><a href="../Page/骨髄バンク.md" title="wikilink">骨髄バンク</a></p></td>
 <td><p>日本骨髄バンク</p></td>
 <td></td>
 </tr>
@@ -856,7 +856,7 @@ YS-11・運命の初飛行</p></td>
 <td><p>5月7日</p></td>
 <td><p>制覇せよ 世界最高峰レース<br />
 〜マン島・オートバイにかけた若者たち〜</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マン島TTレース" title="wikilink">マン島TTレース</a></p></td>
+<td><p><a href="../Page/マン島TTレース.md" title="wikilink">マン島TTレース</a></p></td>
 <td><p><a href="../Page/本田技研工業.md" title="wikilink">本田技研工業</a></p></td>
 <td></td>
 </tr>
@@ -873,8 +873,8 @@ YS-11・運命の初飛行</p></td>
 <td><p>5月22日</p></td>
 <td><p>命の水 <a href="../Page/木曽川.md" title="wikilink">暴れ川を制圧せよ</a><br />
 〜日本最大 愛知用水・13年のドラマ〜</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/愛知用水" title="wikilink">愛知用水</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/愛知用水公団" title="wikilink">愛知用水公団</a></p></td>
+<td><p><a href="../Page/愛知用水.md" title="wikilink">愛知用水</a></p></td>
+<td><p><a href="../Page/愛知用水公団.md" title="wikilink">愛知用水公団</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -882,7 +882,7 @@ YS-11・運命の初飛行</p></td>
 <td><p>6月11日</p></td>
 <td><p>桜ロード 巨木輸送作戦</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/荘川桜#大移植工事" title="wikilink">荘川桜の移植作戦</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/電源開発" title="wikilink">電源開発</a></p></td>
+<td><p><a href="../Page/電源開発.md" title="wikilink">電源開発</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -913,7 +913,7 @@ YS-11・運命の初飛行</p></td>
 <tr class="odd">
 <td><p>093</p></td>
 <td><p>7月23日</p></td>
-<td><p>救命救急 <a href="https://ja.wikipedia.org/wiki/救急救命室" title="wikilink">ER誕生</a><br />
+<td><p>救命救急 <a href="../Page/救急救命室.md" title="wikilink">ER誕生</a><br />
 〜日本初 衝撃の最前線〜</p></td>
 <td><p>救急医療</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/大阪大学" title="wikilink">大阪大学</a>医学部</p></td>
@@ -943,14 +943,14 @@ YS-11・運命の初飛行</p></td>
 <td><p>運命の最終テスト<br />
 〜<a href="../Page/ワードプロセッサ.md" title="wikilink">ワープロ</a>・日本語に挑んだ若者たち〜</p></td>
 <td><p><a href="../Page/JW-10.md" title="wikilink">日本語ワードプロセッサー</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東芝" title="wikilink">東芝</a></p></td>
+<td><p><a href="../Page/東芝.md" title="wikilink">東芝</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>096</p></td>
 <td><p>9月10日</p></td>
 <td><p>赤い<a href="../Page/メロン.md" title="wikilink">メロン</a> 北の大地の20年戦争</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/夕張メロン" title="wikilink">夕張メロン</a></p></td>
+<td><p><a href="../Page/夕張メロン.md" title="wikilink">夕張メロン</a></p></td>
 <td><p><a href="../Page/夕張市.md" title="wikilink">夕張市</a></p></td>
 <td></td>
 </tr>
@@ -958,7 +958,7 @@ YS-11・運命の初飛行</p></td>
 <td><p>097</p></td>
 <td><p>9月17日</p></td>
 <td><p>革命トイレ、市場を制す</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ウォシュレット" title="wikilink">ウォシュレット</a></p></td>
+<td><p><a href="../Page/ウォシュレット.md" title="wikilink">ウォシュレット</a></p></td>
 <td><p>東陶機器<br />
 （現・<a href="../Page/TOTO_(企業).md" title="wikilink">TOTO</a>）</p></td>
 <td></td>
@@ -968,7 +968,7 @@ YS-11・運命の初飛行</p></td>
 <td><p>10月8日</p></td>
 <td><p>勝負の警備システム 作動せよ</p></td>
 <td><p>警備システム</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/セコム" title="wikilink">セコム</a></p></td>
+<td><p><a href="../Page/セコム.md" title="wikilink">セコム</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1032,7 +1032,7 @@ YS-11・運命の初飛行</p></td>
 <td><p>104</p></td>
 <td><p>1月7日</p></td>
 <td><p>世界最大の船 火花散る闘い</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/タンカー" title="wikilink">タンカー</a>「<a href="https://ja.wikipedia.org/wiki/出光丸" title="wikilink">出光丸</a>」</p></td>
+<td><p><a href="../Page/タンカー.md" title="wikilink">タンカー</a>「<a href="https://ja.wikipedia.org/wiki/出光丸" title="wikilink">出光丸</a>」</p></td>
 <td><p>石川島播磨重工業<br />
 （現・<a href="../Page/IHI.md" title="wikilink">IHI</a>）</p></td>
 </tr>
@@ -1049,7 +1049,7 @@ YS-11・運命の初飛行</p></td>
 <td><p>爆発の嵐 <a href="../Page/スエズ運河.md" title="wikilink">スエズ運河</a>を掘れ</p></td>
 <td><p>スエズ運河拡張</p></td>
 <td><p>水野組<br />
-（現・<a href="https://ja.wikipedia.org/wiki/五洋建設" title="wikilink">五洋建設</a>）</p></td>
+（現・<a href="../Page/五洋建設.md" title="wikilink">五洋建設</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>107</p></td>
@@ -1062,7 +1062,7 @@ YS-11・運命の初飛行</p></td>
 <tr class="odd">
 <td><p>108</p></td>
 <td><p>2月18日</p></td>
-<td><p><a href="../Page/太平洋.md" title="wikilink">太平洋</a>1万キロ 決死の<a href="https://ja.wikipedia.org/wiki/海底ケーブル" title="wikilink">海底ケーブル</a></p></td>
+<td><p><a href="../Page/太平洋.md" title="wikilink">太平洋</a>1万キロ 決死の<a href="../Page/海底ケーブル.md" title="wikilink">海底ケーブル</a></p></td>
 <td><p><a href="../Page/国際電話.md" title="wikilink">国際電話</a></p></td>
 <td><p><a href="../Page/国際電信電話.md" title="wikilink">国際電信電話</a><br />
 （現・<a href="../Page/KDDI.md" title="wikilink">KDDI</a>）</p></td>
@@ -1105,9 +1105,9 @@ YS-11・運命の初飛行</p></td>
 <tr class="odd">
 <td><p>114</p></td>
 <td><p>5月20日</p></td>
-<td><p>嵐の海の<a href="https://ja.wikipedia.org/wiki/SOS" title="wikilink">SOS</a> 運命の<a href="../Page/舵.md" title="wikilink">舵</a>を切れ</p></td>
+<td><p>嵐の海の<a href="../Page/SOS.md" title="wikilink">SOS</a> 運命の<a href="../Page/舵.md" title="wikilink">舵</a>を切れ</p></td>
 <td><p>貨物船尾道丸遭難事件</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/第一中央汽船" title="wikilink">第一中央汽船</a></p></td>
+<td><p><a href="../Page/第一中央汽船.md" title="wikilink">第一中央汽船</a></p></td>
 </tr>
 <tr class="even">
 <td><p>115</p></td>
@@ -1141,21 +1141,21 @@ YS-11・運命の初飛行</p></td>
 <tr class="even">
 <td><p>119</p></td>
 <td><p>7月1日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/醤油" title="wikilink">醤油</a> <a href="https://ja.wikipedia.org/wiki/アメリカ合衆国" title="wikilink">アメリカ市場を開拓せよ</a></p></td>
+<td><p><a href="../Page/醤油.md" title="wikilink">醤油</a> <a href="https://ja.wikipedia.org/wiki/アメリカ合衆国" title="wikilink">アメリカ市場を開拓せよ</a></p></td>
 <td><p>醤油のアメリカ進出</p></td>
 <td><p><a href="../Page/キッコーマン.md" title="wikilink">キッコーマン</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>120</p></td>
 <td><p>7月8日</p></td>
-<td><p><a href="../Page/駅伝競走.md" title="wikilink">駅伝日本一</a> 運命の<a href="https://ja.wikipedia.org/wiki/たすき" title="wikilink">タスキをつなげ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/全国高等学校駅伝競走大会" title="wikilink">高校駅伝</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/兵庫県立西脇工業高等学校" title="wikilink">西脇工業高校</a></p></td>
+<td><p><a href="../Page/駅伝競走.md" title="wikilink">駅伝日本一</a> 運命の<a href="../Page/たすき.md" title="wikilink">タスキをつなげ</a></p></td>
+<td><p><a href="../Page/全国高等学校駅伝競走大会.md" title="wikilink">高校駅伝</a></p></td>
+<td><p><a href="../Page/兵庫県立西脇工業高等学校.md" title="wikilink">西脇工業高校</a></p></td>
 </tr>
 <tr class="even">
 <td><p>121</p></td>
 <td><p>7月15日</p></td>
-<td><p>日本初の<a href="../Page/高速道路.md" title="wikilink">ハイウエー</a> 勝負は<a href="https://ja.wikipedia.org/wiki/天王山トンネル" title="wikilink">天王山</a></p></td>
+<td><p>日本初の<a href="../Page/高速道路.md" title="wikilink">ハイウエー</a> 勝負は<a href="../Page/天王山トンネル.md" title="wikilink">天王山</a></p></td>
 <td><p><a href="../Page/名神高速道路.md" title="wikilink">名神高速道路</a></p></td>
 <td><p><a href="../Page/日本道路公団.md" title="wikilink">日本道路公団</a></p></td>
 </tr>
@@ -1163,16 +1163,16 @@ YS-11・運命の初飛行</p></td>
 <td><p>122</p></td>
 <td><p>7月22日</p></td>
 <td><p>復活の日 <a href="../Page/ロボット.md" title="wikilink">ロボット</a>犬にかける</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エンタテインメントロボット" title="wikilink">エンタテインメントロボット</a>「<a href="https://ja.wikipedia.org/wiki/AIBO" title="wikilink">AIBO</a>」</p></td>
+<td><p><a href="../Page/エンタテインメントロボット.md" title="wikilink">エンタテインメントロボット</a>「<a href="../Page/AIBO.md" title="wikilink">AIBO</a>」</p></td>
 <td><p><a href="../Page/ソニー.md" title="wikilink">ソニー</a></p></td>
 </tr>
 <tr class="even">
 <td><p>123</p></td>
 <td><p>9月2日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/桂離宮" title="wikilink">桂離宮</a> 職人魂ここにあり<br />
+<td><p><a href="../Page/桂離宮.md" title="wikilink">桂離宮</a> 職人魂ここにあり<br />
 〜空前の修復作戦〜</p></td>
 <td><p>桂離宮修復</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大林組" title="wikilink">大林組</a></p></td>
+<td><p><a href="../Page/大林組.md" title="wikilink">大林組</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>124</p></td>
@@ -1185,7 +1185,7 @@ YS-11・運命の初飛行</p></td>
 <tr class="even">
 <td><p>125</p></td>
 <td><p>9月30日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/霧多布湿原" title="wikilink">霧の岬</a> 命の診療所</p></td>
+<td><p><a href="../Page/霧多布湿原.md" title="wikilink">霧の岬</a> 命の診療所</p></td>
 <td><p>僻地医療</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/釧路赤十字病院" title="wikilink">釧路赤十字病院</a></p></td>
 </tr>
@@ -1194,7 +1194,7 @@ YS-11・運命の初飛行</p></td>
 <td><p>10月7日</p></td>
 <td><p>食洗機 100万台への死闘<br />
 〜赤字部署の40年〜</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/食器洗い機" title="wikilink">食器洗い機</a></p></td>
+<td><p><a href="../Page/食器洗い機.md" title="wikilink">食器洗い機</a></p></td>
 <td><p>松下電器産業<br />
 （現・<a href="https://ja.wikipedia.org/wiki/パナソニック" title="wikilink">パナソニック</a>）</p></td>
 </tr>
@@ -1204,14 +1204,14 @@ YS-11・運命の初飛行</p></td>
 <td><p><a href="../Page/交響曲第9番_(ベートーヴェン).md" title="wikilink">第九への果てなき道</a><br />
 〜貧乏楽団の逆転劇〜</p></td>
 <td><p>群馬交響楽団草創期</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/群馬交響楽団" title="wikilink">群馬交響楽団</a></p></td>
+<td><p><a href="../Page/群馬交響楽団.md" title="wikilink">群馬交響楽団</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>128</p></td>
 <td><p>10月28日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日本万国博覧会" title="wikilink">大阪万博</a> 史上最大の警備作戦</p></td>
+<td><p><a href="../Page/日本万国博覧会.md" title="wikilink">大阪万博</a> 史上最大の警備作戦</p></td>
 <td><p>大阪万博の会場警備</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日本万国博覧会記念機構" title="wikilink">日本万国博覧会協会</a></p></td>
+<td><p><a href="../Page/日本万国博覧会記念機構.md" title="wikilink">日本万国博覧会協会</a></p></td>
 </tr>
 <tr class="even">
 <td><p>129</p></td>
@@ -1223,16 +1223,16 @@ YS-11・運命の初飛行</p></td>
 <tr class="odd">
 <td><p>130</p></td>
 <td><p>11月11日</p></td>
-<td><p>幻の絵巻復元 <a href="https://ja.wikipedia.org/wiki/ニューヨーク" title="wikilink">ニューヨーク</a>の激闘</p></td>
+<td><p>幻の絵巻復元 <a href="../Page/ニューヨーク.md" title="wikilink">ニューヨーク</a>の激闘</p></td>
 <td><p>北野天神縁起絵巻修復</p></td>
 <td><p><a href="../Page/メトロポリタン美術館.md" title="wikilink">メトロポリタン美術館</a></p></td>
 </tr>
 <tr class="even">
 <td><p>131</p></td>
 <td><p>11月18日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/由布院温泉" title="wikilink">湯布院</a> <a href="https://ja.wikipedia.org/wiki/癒し" title="wikilink">癒し</a>の里の百年戦争</p></td>
+<td><p><a href="../Page/由布院温泉.md" title="wikilink">湯布院</a> <a href="../Page/癒し.md" title="wikilink">癒し</a>の里の百年戦争</p></td>
 <td><p><a href="../Page/温泉.md" title="wikilink">温泉</a><a href="https://ja.wikipedia.org/wiki/観光地" title="wikilink">観光地</a>の整備</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/湯布院町" title="wikilink">湯布院町</a></p></td>
+<td><p><a href="../Page/湯布院町.md" title="wikilink">湯布院町</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -1270,15 +1270,15 @@ YS-11・運命の初飛行</p></td>
 <tr class="odd">
 <td><p>134</p></td>
 <td><p>1月20日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小松製作所" title="wikilink">日</a><a href="../Page/キャタピラー_(企業).md" title="wikilink">米</a><a href="https://ja.wikipedia.org/wiki/ブルドーザー" title="wikilink">ブルドーザー</a>対決</p></td>
+<td><p><a href="../Page/小松製作所.md" title="wikilink">日</a><a href="../Page/キャタピラー_(企業).md" title="wikilink">米</a><a href="../Page/ブルドーザー.md" title="wikilink">ブルドーザー</a>対決</p></td>
 <td><p>ブルドーザーのアメリカ進出</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小松製作所" title="wikilink">小松製作所</a></p></td>
+<td><p><a href="../Page/小松製作所.md" title="wikilink">小松製作所</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>135</p></td>
 <td><p>1月27日</p></td>
-<td><p>撃墜予告 <a href="https://ja.wikipedia.org/wiki/メヘラーバード国際空港" title="wikilink">テヘラン発最終フライトに急げ</a></p></td>
+<td><p>撃墜予告 <a href="../Page/メヘラーバード国際空港.md" title="wikilink">テヘラン発最終フライトに急げ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/イラン・イラク戦争" title="wikilink">イラン・イラク戦争</a>での邦人脱出劇</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/在イラン日本国大使館" title="wikilink">在イラン日本国大使館</a><br />
 <a href="../Page/ターキッシュ_エアラインズ.md" title="wikilink">トルコ航空</a></p></td>
@@ -1288,7 +1288,7 @@ YS-11・運命の初飛行</p></td>
 <td><p>136</p></td>
 <td><p>2月3日</p></td>
 <td><p>海の革命<a href="../Page/エンジン.md" title="wikilink">エンジン</a> 嵐の出漁</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/船外機" title="wikilink">船外機</a></p></td>
+<td><p><a href="../Page/船外機.md" title="wikilink">船外機</a></p></td>
 <td><p><a href="../Page/ヤマハ発動機.md" title="wikilink">ヤマハ発動機</a></p></td>
 <td></td>
 </tr>
@@ -1296,7 +1296,7 @@ YS-11・運命の初飛行</p></td>
 <td><p>137</p></td>
 <td><p>2月17日</p></td>
 <td><p>われら茨の道を行く<br />
-〜<a href="https://ja.wikipedia.org/wiki/日本車" title="wikilink">国産乗用車</a>・攻防戦〜</p></td>
+〜<a href="../Page/日本車.md" title="wikilink">国産乗用車</a>・攻防戦〜</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/トヨタ・クラウン#初代（RS型～S30系:1955年～1962年）" title="wikilink">トヨペットクラウン開発</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/トヨタ自動車" title="wikilink">トヨタ自動車</a></p></td>
 <td></td>
@@ -1331,9 +1331,9 @@ YS-11・運命の初飛行</p></td>
 <td><p>141</p></td>
 <td><p>4月13日</p></td>
 <td><p>不屈の町工場 走れ魂の<a href="../Page/オートバイ.md" title="wikilink">バイク</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/鈴鹿8時間耐久ロードレース" title="wikilink">鈴鹿8時間耐久レース</a></p></td>
+<td><p><a href="../Page/鈴鹿8時間耐久ロードレース.md" title="wikilink">鈴鹿8時間耐久レース</a></p></td>
 <td><p>ヨシムラパーツオブジャパン<br />
-（現：<a href="https://ja.wikipedia.org/wiki/ヨシムラジャパン" title="wikilink">ヨシムラジャパン</a>）</p></td>
+（現：<a href="../Page/ヨシムラジャパン.md" title="wikilink">ヨシムラジャパン</a>）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1376,7 +1376,7 @@ YS-11・運命の初飛行</p></td>
 <td><p>146</p></td>
 <td><p>6月8日</p></td>
 <td><p>宿命の最強決戦<br />
-〜柔道金メダル・<a href="https://ja.wikipedia.org/wiki/神永昭夫" title="wikilink">師</a><a href="../Page/上村春樹.md" title="wikilink">弟の絆</a>〜</p></td>
+〜柔道金メダル・<a href="../Page/神永昭夫.md" title="wikilink">師</a><a href="../Page/上村春樹.md" title="wikilink">弟の絆</a>〜</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1976年モントリオールオリンピック" title="wikilink">モントリオール五輪</a> <a href="../Page/1976年モントリオールオリンピックの柔道競技.md" title="wikilink">柔道金メダル</a></p></td>
 <td><p>柔道日本代表</p></td>
 <td></td>
@@ -1411,7 +1411,7 @@ YS-11・運命の初飛行</p></td>
 <td><p>7月13日</p></td>
 <td><p>中央突破・疾走せよ不屈の雑草馬</p></td>
 <td><p><a href="../Page/メイセイオペラ.md" title="wikilink">メイセイオペラ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/岩手県競馬組合" title="wikilink">岩手競馬</a></p></td>
+<td><p><a href="../Page/岩手県競馬組合.md" title="wikilink">岩手競馬</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1468,7 +1468,7 @@ YS-11・運命の初飛行</p></td>
 <tr class="even">
 <td><p>155</p></td>
 <td><p>10月12日</p></td>
-<td><p>列島踏破30万人 執念の<a href="https://ja.wikipedia.org/wiki/住宅地図" title="wikilink">住宅地図</a></p></td>
+<td><p>列島踏破30万人 執念の<a href="../Page/住宅地図.md" title="wikilink">住宅地図</a></p></td>
 <td><p>住宅地図</p></td>
 <td><p><a href="../Page/ゼンリン.md" title="wikilink">ゼンリン</a></p></td>
 <td></td>
@@ -1479,7 +1479,7 @@ YS-11・運命の初飛行</p></td>
 <td><p>瞬間冷凍 時間よ止まれ<br />
 〜冷凍食品誕生〜</p></td>
 <td><p><a href="../Page/冷凍食品.md" title="wikilink">冷凍食品</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ニチレイ" title="wikilink">ニチレイ</a></p></td>
+<td><p><a href="../Page/ニチレイ.md" title="wikilink">ニチレイ</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1487,7 +1487,7 @@ YS-11・運命の初飛行</p></td>
 <td><p>10月26日</p></td>
 <td><p><a href="../Page/アジアハイウェイ.md" title="wikilink">アジアハイウェー</a> ジャングルの死闘</p></td>
 <td><p>アジアハイウェイ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/前田建設工業" title="wikilink">前田建設工業</a></p></td>
+<td><p><a href="../Page/前田建設工業.md" title="wikilink">前田建設工業</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1510,7 +1510,7 @@ YS-11・運命の初飛行</p></td>
 <tr class="odd">
 <td><p>160</p></td>
 <td><p>11月30日</p></td>
-<td><p>衝撃の<a href="https://ja.wikipedia.org/wiki/ケネディ大統領暗殺事件" title="wikilink">ケネディ暗殺</a> 日米<a href="https://ja.wikipedia.org/wiki/衛星中継" title="wikilink">衛星中継</a></p></td>
+<td><p>衝撃の<a href="../Page/ケネディ大統領暗殺事件.md" title="wikilink">ケネディ暗殺</a> 日米<a href="https://ja.wikipedia.org/wiki/衛星中継" title="wikilink">衛星中継</a></p></td>
 <td><p>日米衛星中継</p></td>
 <td><p>国際電信電話<br />
 （現：KDDI）</p></td>
@@ -1538,7 +1538,7 @@ YS-11・運命の初飛行</p></td>
 <td><p>1月11日</p></td>
 <td><p>鉄道分断 突貫作戦 奇跡の74日間</p></td>
 <td><p><a href="../Page/JR神戸線.md" title="wikilink">JR神戸線</a><a href="https://ja.wikipedia.org/wiki/六甲道駅" title="wikilink">六甲道駅</a>復旧</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/奥村組" title="wikilink">奥村組</a></p></td>
+<td><p><a href="../Page/奥村組.md" title="wikilink">奥村組</a></p></td>
 <td><p>[11]</p></td>
 </tr>
 <tr class="even">
@@ -1547,7 +1547,7 @@ YS-11・運命の初飛行</p></td>
 <td><p>魔法の糸に懸ける<br />
 〜瀬戸際からのファッション革命〜</p></td>
 <td><p>極細繊維・<a href="https://ja.wikipedia.org/wiki/人工皮革" title="wikilink">人工皮革</a>開発</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東レ" title="wikilink">東レ</a></p></td>
+<td><p><a href="../Page/東レ.md" title="wikilink">東レ</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1563,7 +1563,7 @@ YS-11・運命の初飛行</p></td>
 <td><p>2月8日</p></td>
 <td><p><a href="../Page/地下鉄サリン事件.md" title="wikilink">地下鉄サリン</a> <a href="../Page/救急医療.md" title="wikilink">救急医療</a>チーム 最後の決断</p></td>
 <td><p><a href="../Page/サリン.md" title="wikilink">サリン</a>の解毒治療</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/聖路加国際病院" title="wikilink">聖路加国際病院</a></p></td>
+<td><p><a href="../Page/聖路加国際病院.md" title="wikilink">聖路加国際病院</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1572,7 +1572,7 @@ YS-11・運命の初飛行</p></td>
 <td><p>そして街中に音楽が飛び出した<br />
 〜逆転のカセットテープ〜</p></td>
 <td><p><a href="../Page/コンパクトカセット.md" title="wikilink">カセットテープ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/TDK" title="wikilink">TDK</a></p></td>
+<td><p><a href="../Page/TDK.md" title="wikilink">TDK</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1587,9 +1587,9 @@ YS-11・運命の初飛行</p></td>
 <tr class="odd">
 <td><p>167</p></td>
 <td><p>3月29日</p></td>
-<td><p>千年の秘技・<a href="https://ja.wikipedia.org/wiki/たたら製鉄" title="wikilink">たたら製鉄</a> 復活への炎</p></td>
+<td><p>千年の秘技・<a href="../Page/たたら製鉄.md" title="wikilink">たたら製鉄</a> 復活への炎</p></td>
 <td><p>たたら製鉄復活</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日立金属" title="wikilink">日立金属</a><br />
+<td><p><a href="../Page/日立金属.md" title="wikilink">日立金属</a><br />
 <a href="../Page/日本美術刀剣保存協会.md" title="wikilink">日本美術刀剣保存協会</a></p></td>
 <td></td>
 </tr>
@@ -1605,7 +1605,7 @@ YS-11・運命の初飛行</p></td>
 <tr class="odd">
 <td><p>169</p></td>
 <td><p>4月12日</p></td>
-<td><p>ブランド<a href="https://ja.wikipedia.org/wiki/ミシン" title="wikilink">ミシン</a>誕生 流転の技術者立つ</p></td>
+<td><p>ブランド<a href="../Page/ミシン.md" title="wikilink">ミシン</a>誕生 流転の技術者立つ</p></td>
 <td><p>自動糸切りミシン</p></td>
 <td><p><a href="../Page/JUKI.md" title="wikilink">JUKI</a></p></td>
 <td></td>
@@ -1615,30 +1615,30 @@ YS-11・運命の初飛行</p></td>
 <td><p>4月19日</p></td>
 <td><p>焼け跡の家族工場 世界へ</p></td>
 <td><p>世界初の自動<a href="../Page/謄写版.md" title="wikilink">孔版印刷機</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/理想科学工業" title="wikilink">理想科学工業</a></p></td>
+<td><p><a href="../Page/理想科学工業.md" title="wikilink">理想科学工業</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>171</p></td>
 <td><p>5月10日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/空と君のあいだに/ファイト!" title="wikilink">ファイト!</a> 町工場に捧げる日本一の歌</p></td>
-<td><p>淀川工業高校 <a href="https://ja.wikipedia.org/wiki/全日本合唱コンクール" title="wikilink">合唱日本一</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大阪府立淀川工科高等学校" title="wikilink">淀川工業高校</a><a href="../Page/グリークラブ.md" title="wikilink">グリークラブ</a></p></td>
+<td><p>淀川工業高校 <a href="../Page/全日本合唱コンクール.md" title="wikilink">合唱日本一</a></p></td>
+<td><p><a href="../Page/大阪府立淀川工科高等学校.md" title="wikilink">淀川工業高校</a><a href="../Page/グリークラブ.md" title="wikilink">グリークラブ</a></p></td>
 <td><p>[12]</p></td>
 </tr>
 <tr class="even">
 <td><p>172</p></td>
 <td><p>5月17日</p></td>
 <td><p>東洋一の巨大ホテル 不夜城作戦に挑む</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ホテルニューオータニ" title="wikilink">ホテルニューオータニ</a>建設</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大成建設" title="wikilink">大成建設</a></p></td>
+<td><p><a href="../Page/ホテルニューオータニ.md" title="wikilink">ホテルニューオータニ</a>建設</p></td>
+<td><p><a href="../Page/大成建設.md" title="wikilink">大成建設</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>173</p></td>
 <td><p>5月24日</p></td>
 <td><p>命の離島へ・母たちの果てなき戦い</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/公衆衛生看護婦" title="wikilink">公衆衛生看護婦</a></p></td>
+<td><p><a href="../Page/公衆衛生看護婦.md" title="wikilink">公衆衛生看護婦</a></p></td>
 <td><p><a href="../Page/沖縄県.md" title="wikilink">沖縄県</a></p></td>
 <td></td>
 </tr>
@@ -1656,14 +1656,14 @@ YS-11・運命の初飛行</p></td>
 <td><p>6月21日</p></td>
 <td><p>炎なき台所革命<br />
 〜IHに懸けた30年〜</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/電磁調理器" title="wikilink">IHクッキングヒーター</a></p></td>
+<td><p><a href="../Page/電磁調理器.md" title="wikilink">IHクッキングヒーター</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/パナソニック" title="wikilink">松下電器産業</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>176</p></td>
 <td><p>7月5日</p></td>
-<td><p>海の<a href="../Page/ダイヤモンド.md" title="wikilink">ダイヤ</a> 世界初<a href="https://ja.wikipedia.org/wiki/クロマグロ" title="wikilink">クロマグロ</a>完全養殖</p></td>
+<td><p>海の<a href="../Page/ダイヤモンド.md" title="wikilink">ダイヤ</a> 世界初<a href="../Page/クロマグロ.md" title="wikilink">クロマグロ</a>完全養殖</p></td>
 <td><p>クロマグロの養殖</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/近畿大学" title="wikilink">近畿大学</a></p></td>
 <td></td>
@@ -1680,7 +1680,7 @@ YS-11・運命の初飛行</p></td>
 <td><p>178</p></td>
 <td><p>9月13日</p></td>
 <td><p>北の<a href="../Page/ワイン.md" title="wikilink">ワイン</a> 故郷再生への大勝負</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/十勝ワイン" title="wikilink">十勝ワイン</a></p></td>
+<td><p><a href="../Page/十勝ワイン.md" title="wikilink">十勝ワイン</a></p></td>
 <td><p>北海道<a href="../Page/池田町_(北海道).md" title="wikilink">池田町</a><br />
 <a href="https://ja.wikipedia.org/wiki/池田町ブドウ・ブドウ酒研究所" title="wikilink">池田町ブドウ・ブドウ酒研究所</a></p></td>
 <td></td>
@@ -1688,10 +1688,10 @@ YS-11・運命の初飛行</p></td>
 <tr class="odd">
 <td><p>179</p></td>
 <td><p>10月11日</p></td>
-<td><p>シリーズ<a href="https://ja.wikipedia.org/wiki/黒部ダム" title="wikilink">黒四ダム</a>(1)<br />
-<a href="https://ja.wikipedia.org/wiki/関電トンネル" title="wikilink">秘境へのトンネル</a> 地底の戦士たち</p></td>
+<td><p>シリーズ<a href="../Page/黒部ダム.md" title="wikilink">黒四ダム</a>(1)<br />
+<a href="../Page/関電トンネル.md" title="wikilink">秘境へのトンネル</a> 地底の戦士たち</p></td>
 <td><p>黒部ダム建設</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/熊谷組" title="wikilink">熊谷組</a></p></td>
+<td><p><a href="../Page/熊谷組.md" title="wikilink">熊谷組</a></p></td>
 <td><p>前編</p></td>
 </tr>
 <tr class="even">
@@ -1718,7 +1718,7 @@ YS-11・運命の初飛行</p></td>
 <td><p>11月8日</p></td>
 <td><p>悲願の<a href="../Page/関越トンネル.md" title="wikilink">関越トンネル</a> 一発発破に懸ける</p></td>
 <td><p><a href="../Page/関越自動車道.md" title="wikilink">関越自動車道</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/熊谷組" title="wikilink">熊谷組</a></p></td>
+<td><p><a href="../Page/熊谷組.md" title="wikilink">熊谷組</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1727,13 +1727,13 @@ YS-11・運命の初飛行</p></td>
 <td><p>旭山動物園 <a href="https://ja.wikipedia.org/wiki/ペンギン" title="wikilink">ペンギン</a>翔ぶ<br />
 〜閉園からの復活〜</p></td>
 <td><p>旭山動物園の再興</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/旭川市旭山動物園" title="wikilink">旭川市旭山動物園</a></p></td>
+<td><p><a href="../Page/旭川市旭山動物園.md" title="wikilink">旭川市旭山動物園</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>184</p></td>
 <td><p>11月29日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/太陽" title="wikilink">太陽</a>に懸けろ<br />
+<td><p><a href="../Page/太陽.md" title="wikilink">太陽</a>に懸けろ<br />
 〜住宅エネルギー革命〜</p></td>
 <td><p><a href="../Page/太陽光発電.md" title="wikilink">太陽光発電</a>システム</p></td>
 <td><p><a href="../Page/京セラ.md" title="wikilink">京セラ</a></p></td>
@@ -1778,7 +1778,7 @@ YS-11・運命の初飛行</p></td>
 4.  当初8月21日に放送予定だったが、[台風11号のため](https://ja.wikipedia.org/wiki/平成13年台風第11号 "wikilink")8月26日に振替放送。
 5.  この回終了直後に[アメリカ同時多発テロ事件](https://ja.wikipedia.org/wiki/アメリカ同時多発テロ事件 "wikilink")のニュースが入り、報道特別番組に切り替わる
 6.  [久保純子](../Page/久保純子.md "wikilink")が産休のためこの回で降板
-7.  この回より久保に代わって[膳場貴子](https://ja.wikipedia.org/wiki/膳場貴子 "wikilink")が出演
+7.  この回より久保に代わって[膳場貴子](../Page/膳場貴子.md "wikilink")が出演
 8.
 9.
 10.

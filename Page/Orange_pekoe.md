@@ -1,20 +1,20 @@
 > この記事は[Orange pekoe](https://ja.wikipedia.org/wiki/Orange_pekoe)から翻訳されています。
 
 
-**orange pekoe**（オレンジ・ペコー）は、日本の[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")である。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")結成。[2002年](../Page/2002年.md "wikilink")シングル「Happy Valley」でメジャーデビュー。[レコード会社](https://ja.wikipedia.org/wiki/レコード会社 "wikilink")は[キングレコード](../Page/キングレコード.md "wikilink")である。2007年2月12日よりNWPからMS Entertainmentへ所属事務所を移籍したが、2008年5月より独立している。
+**orange pekoe**（オレンジ・ペコー）は、日本の[音楽ユニット](../Page/音楽ユニット.md "wikilink")である。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")結成。[2002年](../Page/2002年.md "wikilink")シングル「Happy Valley」でメジャーデビュー。[レコード会社](../Page/レコード会社.md "wikilink")は[キングレコード](../Page/キングレコード.md "wikilink")である。2007年2月12日よりNWPからMS Entertainmentへ所属事務所を移籍したが、2008年5月より独立している。
 
 ## メンバー
 
   - 藤本一馬（[1979年](../Page/1979年.md "wikilink")[7月13日](../Page/7月13日.md "wikilink") - ）
-      - [兵庫県](../Page/兵庫県.md "wikilink")[宝塚市](../Page/宝塚市.md "wikilink")出身。[血液型O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[ギター](../Page/ギター.md "wikilink")、[作曲](../Page/作曲.md "wikilink")、[アレンジ](../Page/編曲.md "wikilink")、[プログラミングを担当](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")。[三田学園中学校・高等学校](https://ja.wikipedia.org/wiki/三田学園中学校・高等学校 "wikilink")卒業。
+      - [兵庫県](../Page/兵庫県.md "wikilink")[宝塚市](../Page/宝塚市.md "wikilink")出身。[血液型O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[ギター](../Page/ギター.md "wikilink")、[作曲](../Page/作曲.md "wikilink")、[アレンジ](../Page/編曲.md "wikilink")、[プログラミングを担当](../Page/ミュージックシーケンサー.md "wikilink")。[三田学園中学校・高等学校](../Page/三田学園中学校・高等学校.md "wikilink")卒業。
   - ナガシマトモコ（本名：長島智子 [1979年](../Page/1979年.md "wikilink")[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink") - ）
-      - [兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")出身。血液型B型。[ヴォーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")を担当。[親和女子中学校・高等学校](https://ja.wikipedia.org/wiki/親和女子中学校・高等学校 "wikilink")卒業。
+      - [兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")出身。血液型B型。[ヴォーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[作詞](../Page/作詞.md "wikilink")を担当。[親和女子中学校・高等学校](https://ja.wikipedia.org/wiki/親和女子中学校・高等学校 "wikilink")卒業。
 
 ## 概要
 
-[神戸市](../Page/神戸市.md "wikilink")出身のナガシマトモコ、[宝塚市](../Page/宝塚市.md "wikilink")出身の藤本一馬によるユニット。1998年、[関西学院大学](https://ja.wikipedia.org/wiki/関西学院大学 "wikilink")の軽音楽部で創作活動を開始。2000年からは神戸・大阪など関西のカフェやライブハウスで活動を始め、2001年4月にミニ[アルバム](../Page/アルバム.md "wikilink")『orangepekoe』でインディーズデビュー。[FM802](../Page/FM802.md "wikilink")などでリスナーに支持され人気が拡大。2002年4月、[シングル](../Page/シングル.md "wikilink")『Happy Valley』でBMGファンハウス（後の[BMG JAPAN](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")、現・[アリオラジャパン](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink")）よりメジャーデビュー。全国FM局32局の[ヘヴィー・ローテーション](https://ja.wikipedia.org/wiki/ヘヴィー・ローテーション "wikilink")曲に選ばれ広く認知される。1stアルバム「Organic Plastic Music」は30万枚以上を売上げ、[カンバラクニエ](https://ja.wikipedia.org/wiki/カンバラクニエ "wikilink")の手によるジャケットデザインと相乗して話題を呼んだ。
+[神戸市](../Page/神戸市.md "wikilink")出身のナガシマトモコ、[宝塚市](../Page/宝塚市.md "wikilink")出身の藤本一馬によるユニット。1998年、[関西学院大学](../Page/関西学院大学.md "wikilink")の軽音楽部で創作活動を開始。2000年からは神戸・大阪など関西のカフェやライブハウスで活動を始め、2001年4月にミニ[アルバム](../Page/アルバム.md "wikilink")『orangepekoe』でインディーズデビュー。[FM802](../Page/FM802.md "wikilink")などでリスナーに支持され人気が拡大。2002年4月、[シングル](../Page/シングル.md "wikilink")『Happy Valley』でBMGファンハウス（後の[BMG JAPAN](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")、現・[アリオラジャパン](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink")）よりメジャーデビュー。全国FM局32局の[ヘヴィー・ローテーション](../Page/ヘヴィー・ローテーション.md "wikilink")曲に選ばれ広く認知される。1stアルバム「Organic Plastic Music」は30万枚以上を売上げ、[カンバラクニエ](https://ja.wikipedia.org/wiki/カンバラクニエ "wikilink")の手によるジャケットデザインと相乗して話題を呼んだ。
 
-録音・サポートメンバーとしてジャズミュージシャンが多く参加しているが、曲はあくまでポップスでジャズではない。作曲を担当する藤本一馬は、[ビートルズ](../Page/ビートルズ.md "wikilink")や[スティーヴィー・ワンダー](../Page/スティーヴィー・ワンダー.md "wikilink")、[ミルトン・ナシメント](https://ja.wikipedia.org/wiki/ミルトン・ナシメント "wikilink")などに影響を受けたと語っている。アルバム中には、アコースティックサウンドを活用したり、[ボサノヴァ](../Page/ボサノヴァ.md "wikilink")や[サンバテイストに仕上げた作品も多い](../Page/サンバ_\(ブラジル\).md "wikilink")。特定のジャンルに規定されない、独特のスタイルを取る。
+録音・サポートメンバーとしてジャズミュージシャンが多く参加しているが、曲はあくまでポップスでジャズではない。作曲を担当する藤本一馬は、[ビートルズ](../Page/ビートルズ.md "wikilink")や[スティーヴィー・ワンダー](../Page/スティーヴィー・ワンダー.md "wikilink")、[ミルトン・ナシメント](../Page/ミルトン・ナシメント.md "wikilink")などに影響を受けたと語っている。アルバム中には、アコースティックサウンドを活用したり、[ボサノヴァ](../Page/ボサノヴァ.md "wikilink")や[サンバテイストに仕上げた作品も多い](../Page/サンバ_\(ブラジル\).md "wikilink")。特定のジャンルに規定されない、独特のスタイルを取る。
 
 ナガシマトモコのヴォーカルは中低音域を中心とした伸びやかなもので、落ち着いた女性的な雰囲気を与えている。そのため、作品が使用されるCMは、大人の女性をイメージした製品・サービスであることが多い。
 
@@ -152,7 +152,7 @@ BVCS-29933:通常盤</p></td>
 </tr>
 <tr class="even">
 <td><p>8th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/6月29日.md" title="wikilink">6月29日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/6月29日.md" title="wikilink">6月29日</a></p></td>
 <td></td>
 <td><p>BVCS-29063</p></td>
 <td><ol>
@@ -332,7 +332,7 @@ BVCS-21036:通常盤</p></td>
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/12月14日.md" title="wikilink">12月14日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/12月14日.md" title="wikilink">12月14日</a></p></td>
 <td></td>
 <td><p>BVCS-21040:初回生産限定盤<br />
 BVCS-21039:通常盤</p></td>
@@ -495,7 +495,7 @@ BVCL-11:通常盤</p></td>
 </tr>
 <tr class="odd">
 <td><p>ライブ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/2月23日" title="wikilink">2月23日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/2月23日" title="wikilink">2月23日</a></p></td>
 <td></td>
 <td><p>BVCS-21038</p></td>
 <td><ol>
@@ -517,7 +517,7 @@ BVCL-11:通常盤</p></td>
 </tr>
 <tr class="even">
 <td><p>リミックス</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/11月22日" title="wikilink">11月22日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/11月22日" title="wikilink">11月22日</a></p></td>
 <td></td>
 <td><p>BVCS-27028:初回生産限定盤<br />
 BVCS-24017:通常盤</p></td>
@@ -594,7 +594,7 @@ BVCS-21043:通常盤</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/6月29日.md" title="wikilink">6月29日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/6月29日.md" title="wikilink">6月29日</a></p></td>
 <td></td>
 <td><p>BVBS-21012</p></td>
 <td><ol>
@@ -635,7 +635,7 @@ BVCS-21043:通常盤</p></td>
 | 2004年06月30日 | ROSSA                                                                                                                             | BVC3-35005 |                                                                |
 | 2004年09月08日 | Menow～ageHa Lounge vol.3 compiled by orange pekoe                                                                                 | GAGH-10    | kiseki                                                         |
 | 2004年09月22日 | Beautiful Songs series Cool Beauty                                                                                                | VICL-61495 | やわらかな夜                                                         |
-| 2005年10月19日 | [まだまだあぶない刑事](https://ja.wikipedia.org/wiki/まだまだあぶない刑事 "wikilink") オリジナル・サウンドトラック                                                  | BVCR-11073 | 空の庭                                                            |
+| 2005年10月19日 | [まだまだあぶない刑事](../Page/まだまだあぶない刑事.md "wikilink") オリジナル・サウンドトラック                                                                     | BVCR-11073 | 空の庭                                                            |
 | 2006年12月06日 | 須永辰緒『World Standard.06～A Tatsuo Sunaga Live Mix』                                                                                  | FLRC-049   | LOVE LIFE (Sunaga t experience Remix)                          |
 | 2007年10月10日 | ジョビニアーナ -愛と微笑みと花-                                                                                                                 | AICL-1859  |                                                                |
 | 2008年01月23日 | MODAL JAZZ loves DISNEY                                                                                                           | AVCW-12638 | A Dream Is a Wish Your Heart Makes(Cinderella)                 |
@@ -670,19 +670,19 @@ BVCS-21043:通常盤</p></td>
 
 ## タイアップ
 
-| 曲名                     | タイアップ                                                                                                                                          |
-| ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| やわらかな夜                 | [シーボン](https://ja.wikipedia.org/wiki/シーボン "wikilink")CMソング                                                                                     |
-| Happy Valley           |                                                                                                                                                |
-| 空に架かるcircle            | [TBS系](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")「[チューボーですよ\!](https://ja.wikipedia.org/wiki/チューボーですよ! "wikilink")」エンディングテーマ |
-| LOVE LIFE              | [NHK大阪](../Page/NHK大阪放送局.md "wikilink")「かんさい元気宣言」CMソング                                                                                         |
-| 極楽鳥 〜Bird of Paradise〜 | TBS系「[ランク王国](https://ja.wikipedia.org/wiki/ランク王国 "wikilink")」オープニングテーマ                                                                         |
-| スウィート・ムービー             | [NTTドコモ九州](https://ja.wikipedia.org/wiki/エヌ・ティ・ティ・ドコモ九州 "wikilink")「505iS」CMソング                                                                |
-| 輪舞                     | ジュエルベリテオオクボ（現・ベリテ）CMソング                                                                                                                        |
-| 空の庭                    | [東映](../Page/東映.md "wikilink")配給映画「[まだまだあぶない刑事](https://ja.wikipedia.org/wiki/まだまだあぶない刑事 "wikilink")」オープニングテーマ                                 |
-| 君の夜空                   | [セイコー](../Page/セイコーホールディングス.md "wikilink")「ルキア」CMソング                                                                                           |
-| マリーゴールド                | [フジテレビ系アニメ](../Page/フジネットワーク.md "wikilink")「[リストランテ・パラディーゾ](https://ja.wikipedia.org/wiki/リストランテ・パラディーゾ#テレビアニメ "wikilink")」オープニングテーマ           |
-| ゆらぎ                    | [北國銀行](../Page/北國銀行.md "wikilink")「夏の感謝祭り」CMソング                                                                                                |
+| 曲名                     | タイアップ                                                                                                                                |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| やわらかな夜                 | [シーボン](https://ja.wikipedia.org/wiki/シーボン "wikilink")CMソング                                                                           |
+| Happy Valley           |                                                                                                                                      |
+| 空に架かるcircle            | [TBS系](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")「[チューボーですよ\!](../Page/チューボーですよ!.md "wikilink")」エンディングテーマ          |
+| LOVE LIFE              | [NHK大阪](../Page/NHK大阪放送局.md "wikilink")「かんさい元気宣言」CMソング                                                                               |
+| 極楽鳥 〜Bird of Paradise〜 | TBS系「[ランク王国](../Page/ランク王国.md "wikilink")」オープニングテーマ                                                                                  |
+| スウィート・ムービー             | [NTTドコモ九州](../Page/エヌ・ティ・ティ・ドコモ九州.md "wikilink")「505iS」CMソング                                                                         |
+| 輪舞                     | ジュエルベリテオオクボ（現・ベリテ）CMソング                                                                                                              |
+| 空の庭                    | [東映](../Page/東映.md "wikilink")配給映画「[まだまだあぶない刑事](../Page/まだまだあぶない刑事.md "wikilink")」オープニングテーマ                                          |
+| 君の夜空                   | [セイコー](../Page/セイコーホールディングス.md "wikilink")「ルキア」CMソング                                                                                 |
+| マリーゴールド                | [フジテレビ系アニメ](../Page/フジネットワーク.md "wikilink")「[リストランテ・パラディーゾ](https://ja.wikipedia.org/wiki/リストランテ・パラディーゾ#テレビアニメ "wikilink")」オープニングテーマ |
+| ゆらぎ                    | [北國銀行](../Page/北國銀行.md "wikilink")「夏の感謝祭り」CMソング                                                                                      |
 
 ## 主なライブ
 
@@ -713,7 +713,7 @@ BVCS-21043:通常盤</p></td>
   - 2001年10月20日 - MINAMI WHEEL 2001
   - 2003年08月24日 - [小岩井ロックフェスティバル](https://ja.wikipedia.org/wiki/小岩井ロックフェスティバル "wikilink")
   - 2004年08月28日 - [SETSTOCK](../Page/SETSTOCK.md "wikilink")'04
-  - 2005年07月30日・08月06日 - [情熱大陸](https://ja.wikipedia.org/wiki/情熱大陸 "wikilink") SPECIAL LIVE SUMMER TIME BONANZA'05
+  - 2005年07月30日・08月06日 - [情熱大陸](../Page/情熱大陸.md "wikilink") SPECIAL LIVE SUMMER TIME BONANZA'05
   - 2005年08月14日 - [SUMMER SONIC](https://ja.wikipedia.org/wiki/SUMMER_SONIC "wikilink") 2005
   - 2005年10月02日 - 神戸ハーバーランド街角音楽祭'05 -Kiss FM KOBE 開局15周年記念-
   - 2005年10月21日 - MINAMI WHEEL 2005

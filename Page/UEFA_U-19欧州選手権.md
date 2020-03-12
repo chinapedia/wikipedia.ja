@@ -1,7 +1,7 @@
 > この記事は[UEFA U-19](https://ja.wikipedia.org/wiki/UEFA_U-19)から翻訳されています。
 
 
-**UEFA U-19欧州選手権**（）は、[欧州サッカー連盟](../Page/欧州サッカー連盟.md "wikilink")（UEFA）が主催する、19歳以下の[ナショナルチーム](https://ja.wikipedia.org/wiki/ナショナルチーム "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の大陸選手権大会である。
+**UEFA U-19欧州選手権**（）は、[欧州サッカー連盟](../Page/欧州サッカー連盟.md "wikilink")（UEFA）が主催する、19歳以下の[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の大陸選手権大会である。
 
 ## 概要
 
@@ -304,7 +304,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFA_U-18欧州選手権1970" title="wikilink">23</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1970年" title="wikilink">1970年</a></p></td>
+<td><p><a href="../Page/1970年.md" title="wikilink">1970年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>1 - 1</strong> <a href="../Page/延長戦.md" title="wikilink">aet</a></p></td>
@@ -667,7 +667,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFA_U-19欧州選手権2005" title="wikilink">54</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>3 - 1</strong></p></td>
@@ -678,7 +678,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/UEFA_U-19欧州選手権2006.md" title="wikilink">55</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>2 - 1</strong></p></td>
@@ -845,7 +845,7 @@
 </table>
 
   - **　準決勝における平均得点によりスペインが優勝
-  - **　[コイントス](https://ja.wikipedia.org/wiki/コイントス "wikilink")により勝敗を決した
+  - **　[コイントス](../Page/コイントス.md "wikilink")により勝敗を決した
   - **　グループリーグにおける平均得点によりスペインが優勝
   - **　[PK戦](../Page/PK戦.md "wikilink")により勝敗を決したが、スコア不明
 
@@ -1240,13 +1240,13 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFA_U-19欧州選手権2002" title="wikilink">2002</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フェルナンド・トーレス" title="wikilink">フェルナンド・トーレス</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フェルナンド・トーレス" title="wikilink">フェルナンド・トーレス</a></p></td>
+<td><p><a href="../Page/フェルナンド・トーレス.md" title="wikilink">フェルナンド・トーレス</a></p></td>
+<td><p><a href="../Page/フェルナンド・トーレス.md" title="wikilink">フェルナンド・トーレス</a></p></td>
 <td><p>4</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFA_U-19欧州選手権2003" title="wikilink">2003</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アルベルト・アクィラーニ" title="wikilink">アルベルト・アクィラーニ</a></p></td>
+<td><p><a href="../Page/アルベルト・アクィラーニ.md" title="wikilink">アルベルト・アクィラーニ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/パウロ・セルジオ・モレイラ・ゴンサルヴェス" title="wikilink">パウロ・セルジオ</a></p></td>
 <td><p>5</p></td>
 </tr>

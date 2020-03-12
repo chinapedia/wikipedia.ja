@@ -3,21 +3,21 @@
 
 『**BEAT out\!**』（ビート アウト\!）は日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[GLAY](../Page/GLAY.md "wikilink")のメジャー2作目のオリジナル・アルバム。
 
-[1996年](../Page/1996年.md "wikilink")[2月7日](../Page/2月7日.md "wikilink")に[ポリドールよりリリースされた](https://ja.wikipedia.org/wiki/ポリドール・レコード "wikilink")。
+[1996年](../Page/1996年.md "wikilink")[2月7日](../Page/2月7日.md "wikilink")に[ポリドールよりリリースされた](../Page/ポリドール・レコード.md "wikilink")。
 
-[2001年](../Page/2001年.md "wikilink")2月7日に[エクスタシーレコード](https://ja.wikipedia.org/wiki/エクスタシーレコード "wikilink")より、[2003年](../Page/2003年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")に[東芝EMIより再リリースされている](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")。
+[2001年](../Page/2001年.md "wikilink")2月7日に[エクスタシーレコード](../Page/エクスタシーレコード.md "wikilink")より、[2003年](../Page/2003年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")に[東芝EMIより再リリースされている](../Page/EMIミュージック・ジャパン.md "wikilink")。
 
 ## 解説
 
-本来は[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[11月](../Page/11月.md "wikilink")にリリースする予定だったが、[スタッフ](../Page/スタッフ.md "wikilink")から「アルバムを出す前にもう一枚[シングル](../Page/シングル.md "wikilink")を出してほしい」という声がかかり、2ヶ月半も延期してのリリースとなった\[1\]。そしてリリースしたシングルが、ブレイクの転機となった「[グロリアス](https://ja.wikipedia.org/wiki/グロリアス_\(GLAYの曲\) "wikilink")」である。
+本来は[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[11月](../Page/11月.md "wikilink")にリリースする予定だったが、[スタッフ](../Page/スタッフ.md "wikilink")から「アルバムを出す前にもう一枚[シングル](../Page/シングル.md "wikilink")を出してほしい」という声がかかり、2ヶ月半も延期してのリリースとなった\[1\]。そしてリリースしたシングルが、ブレイクの転機となった「[グロリアス](../Page/グロリアス_\(GLAYの曲\).md "wikilink")」である。
 
 1995年の本作制作時は、[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")が1回か2回ほど中断したこともあり、途中で完成しないかもしれないと思ったこともあり、また、アルバムをどうやって世に出すかについても、スタッフと色々意見がぶつかり合っていた。しかし、「グロリアス」の制作に入った段階で、ようやく出口が見えたと[TAKURO](../Page/TAKURO.md "wikilink")が語っている\[2\]。そのため、TAKUROは本作に関しては、「グロリアス」の制作に入るまでは、自分にとって傷口からダラダラ血を流しているようなアルバムだったが、「グロリアス」のおかげで、全てが前に加速し出したのを感じたことを当時のインタビューで語っている\[3\]。
 
-今作からサポート[ドラマー](../Page/ドラマー.md "wikilink")として、[永井利光](../Page/永井利光.md "wikilink")が参加しており、「[Yes, Summerdays](https://ja.wikipedia.org/wiki/Yes,_Summerdays "wikilink")」、「月に祈る」以外は全て永井が[ドラムを担当](../Page/ドラムセット.md "wikilink")。以降GLAYのサポートドラマーとして欠かせない存在となっていくことになる。[TERU](../Page/TERU.md "wikilink")は当時のインタビューで、「前回はドラムにしても、レコーディングに来てもらって、そこで初めて[アレンジしてある楽曲を叩いてもらうという感じでしたから](../Page/編曲.md "wikilink")。今回はライブツアーを一緒にまわった永井さんとアレンジして、その勢いのままレコーディングすることができたし。そこがやっぱり最大の違いですね」と永井が加わったことにより、前作以上にレコーディングに大きな手応えを感じたことを語っている\[4\]。
+今作からサポート[ドラマー](../Page/ドラマー.md "wikilink")として、[永井利光](../Page/永井利光.md "wikilink")が参加しており、「[Yes, Summerdays](../Page/Yes,_Summerdays.md "wikilink")」、「月に祈る」以外は全て永井が[ドラムを担当](../Page/ドラムセット.md "wikilink")。以降GLAYのサポートドラマーとして欠かせない存在となっていくことになる。[TERU](../Page/TERU.md "wikilink")は当時のインタビューで、「前回はドラムにしても、レコーディングに来てもらって、そこで初めて[アレンジしてある楽曲を叩いてもらうという感じでしたから](../Page/編曲.md "wikilink")。今回はライブツアーを一緒にまわった永井さんとアレンジして、その勢いのままレコーディングすることができたし。そこがやっぱり最大の違いですね」と永井が加わったことにより、前作以上にレコーディングに大きな手応えを感じたことを語っている\[4\]。
 
-タイトルに関しては、TAKUROが“BEAT”と言う単語を使いたいと考えており、ある時“BEAT out”と言う言葉が閃き、実際辞書で引いて見たら、本当にその熟語があってとてもいい意味だったため、タイトルに決定した\[5\]。また、当時TAKUROは、本作までを3部作と考えており、「[灰とダイヤモンド](https://ja.wikipedia.org/wiki/灰とダイヤモンド_\(GLAYのアルバム\) "wikilink")」、「[SPEED POP](https://ja.wikipedia.org/wiki/SPEED_POP "wikilink")」が来て「BEAT out\!」と言う流れは、自分の中で一つの時期が終わって、また新しい展開に突入する見たいな気持ちがあり、メンバーそれぞれの個性も、本作を制作したことによって見えてきた部分もあり、そう言う意味でも一区切りだったと語っている\[6\]。
+タイトルに関しては、TAKUROが“BEAT”と言う単語を使いたいと考えており、ある時“BEAT out”と言う言葉が閃き、実際辞書で引いて見たら、本当にその熟語があってとてもいい意味だったため、タイトルに決定した\[5\]。また、当時TAKUROは、本作までを3部作と考えており、「[灰とダイヤモンド](../Page/灰とダイヤモンド_\(GLAYのアルバム\).md "wikilink")」、「[SPEED POP](../Page/SPEED_POP.md "wikilink")」が来て「BEAT out\!」と言う流れは、自分の中で一つの時期が終わって、また新しい展開に突入する見たいな気持ちがあり、メンバーそれぞれの個性も、本作を制作したことによって見えてきた部分もあり、そう言う意味でも一区切りだったと語っている\[6\]。
 
-8thシングル「グロリアス」の初のトップ10入りなど、人気急上昇中だった影響もあり、本作でシングル・アルバム通じて初の[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位を獲得し、最終的には80万枚のセールスを記録した。
+8thシングル「グロリアス」の初のトップ10入りなど、人気急上昇中だった影響もあり、本作でシングル・アルバム通じて初の[オリコンチャート](../Page/オリコンチャート.md "wikilink")1位を獲得し、最終的には80万枚のセールスを記録した。
 
 ## 評価
 
@@ -33,12 +33,12 @@ CDジャーナルは、「最近(1996年当時)のバンドの中では飛び抜
       - 作詞・作曲:TAKURO / 編曲：GLAY、佐久間正英
     <!-- end list -->
       -
-        [ライブでもオープニングを飾ることの多いハードな曲](https://ja.wikipedia.org/wiki/演奏会 "wikilink")。この曲には[PVが作られた](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。[HISASHI](../Page/HISASHI.md "wikilink")曰く、「最高のオープニングナンバー」。[ベストアルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『[REVIEW-BEST OF GLAY](../Page/REVIEW-BEST_OF_GLAY.md "wikilink")』にも収録された。
-2.  **[Yes, Summerdays](https://ja.wikipedia.org/wiki/Yes,_Summerdays "wikilink")**
+        [ライブでもオープニングを飾ることの多いハードな曲](../Page/演奏会.md "wikilink")。この曲には[PVが作られた](../Page/ミュージック・ビデオ.md "wikilink")。[HISASHI](../Page/HISASHI.md "wikilink")曰く、「最高のオープニングナンバー」。[ベストアルバム](../Page/ベスト・アルバム.md "wikilink")『[REVIEW-BEST OF GLAY](../Page/REVIEW-BEST_OF_GLAY.md "wikilink")』にも収録された。
+2.  **[Yes, Summerdays](../Page/Yes,_Summerdays.md "wikilink")**
       - 作詞・作曲:TAKURO / 編曲：GLAY、佐久間正英
     <!-- end list -->
       -
-        6thシングル。[MIKI](https://ja.wikipedia.org/wiki/三貴 "wikilink")「[カメリアダイヤモンド](https://ja.wikipedia.org/wiki/カメリアダイヤモンド "wikilink")」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。リマスタリングされており、シングル版のものに比べ、ボーカルや楽器全体の音がハッキリと聴きやすくなっている。
+        6thシングル。[MIKI](../Page/三貴.md "wikilink")「[カメリアダイヤモンド](https://ja.wikipedia.org/wiki/カメリアダイヤモンド "wikilink")」[CMソング](../Page/コマーシャルソング.md "wikilink")。リマスタリングされており、シングル版のものに比べ、ボーカルや楽器全体の音がハッキリと聴きやすくなっている。
 3.  **原色の空<Cloudy Sky>**
       - 作詞・作曲:TAKURO / 編曲：GLAY、佐久間正英
     <!-- end list -->
@@ -53,17 +53,17 @@ CDジャーナルは、「最近(1996年当時)のバンドの中では飛び抜
       - 作詞・作曲:TAKURO / 編曲：GLAY、佐久間正英
     <!-- end list -->
       -
-        7分を超える[バラード](../Page/バラード.md "wikilink")（[イントロだけでも](../Page/導入部.md "wikilink")1分以上ある）。PVでは曲の終盤でTERUが涙するシーンがある。後に9thシングル「[BELOVED](https://ja.wikipedia.org/wiki/BELOVED_\(GLAYの曲\) "wikilink")」の[カップリングに別バージョンが収録された](https://ja.wikipedia.org/wiki/レコード#A面/B面 "wikilink")。[ミズノ](https://ja.wikipedia.org/wiki/ミズノ "wikilink")スポーツ企業CMソング。
+        7分を超える[バラード](../Page/バラード.md "wikilink")（[イントロだけでも](../Page/導入部.md "wikilink")1分以上ある）。PVでは曲の終盤でTERUが涙するシーンがある。後に9thシングル「[BELOVED](../Page/BELOVED_\(GLAYの曲\).md "wikilink")」の[カップリングに別バージョンが収録された](https://ja.wikipedia.org/wiki/レコード#A面/B面 "wikilink")。[ミズノ](../Page/ミズノ.md "wikilink")スポーツ企業CMソング。
 6.  **月に祈る**
       - 作詞・作曲:TAKURO / 編曲：GLAY、佐久間正英
     <!-- end list -->
       -
         当時のライブの定番曲だった。メンバーはこの曲のイントロを絶賛していた。
-7.  **[生きてく強さ](https://ja.wikipedia.org/wiki/生きてく強さ "wikilink")**
+7.  **[生きてく強さ](../Page/生きてく強さ.md "wikilink")**
       - 作詞・作曲:TAKURO / 編曲：GLAY、佐久間正英
     <!-- end list -->
       -
-        7thシングル。[テレビ朝日](../Page/テレビ朝日.md "wikilink")『[かざあなダウンタウン](https://ja.wikipedia.org/wiki/かざあなダウンタウン "wikilink")』オープニングテーマ。
+        7thシングル。[テレビ朝日](../Page/テレビ朝日.md "wikilink")『[かざあなダウンタウン](../Page/かざあなダウンタウン.md "wikilink")』オープニングテーマ。
         ほんのわずかだが、曲の最後の音が次曲に繋がっている。
 8.  **週末のBaby talk**
       - 作詞・作曲:[TERU](../Page/TERU.md "wikilink") / 編曲：GLAY、佐久間正英
@@ -73,7 +73,7 @@ CDジャーナルは、「最近(1996年当時)のバンドの中では飛び抜
         TERUは本曲に関して、これまでのGLAYになかったイントロからいきなり歌が入ってくるというパターンや、ヴォーカルを最大限に生かそうと声質をちょっと変えて見たりと、GLAYで新しいことに挑戦しようと思って書いた曲と語っている\[10\]。
         また、歌詞は女性を視点に書いたもので、コーラスも女性を参加させようと言うことで\[11\]、当時[JUDY AND MARYのボーカルであった](../Page/JUDY_AND_MARY.md "wikilink")[YUKIが](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")[コーラスで参加している](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。
         CDでーたは、本曲に関して「どこか肩の力の抜けた、それでいてアルタナーティブに通じるパワーをもつこの曲は、GLAYのバンドとしての有機的な一体感とキャパシティの広さを象徴している。」と評価している。
-9.  **[グロリアス](https://ja.wikipedia.org/wiki/グロリアス_\(GLAYの曲\) "wikilink")**
+9.  **[グロリアス](../Page/グロリアス_\(GLAYの曲\).md "wikilink")**
       - 作詞・作曲:TAKURO / 編曲：GLAY、佐久間正英
     <!-- end list -->
       -
@@ -122,7 +122,7 @@ CDジャーナルは、「最近(1996年当時)のバンドの中では飛び抜
         アウトロがフェードアウトではなく最後まで収録されている。
 5.  **Together**
       -
-        9thシングル「[BELOVED](https://ja.wikipedia.org/wiki/BELOVED_\(GLAYの曲\) "wikilink")」のカップリング曲と同じく、冒頭にストリングスイントロが追加されたバージョンで収録されている。
+        9thシングル「[BELOVED](../Page/BELOVED_\(GLAYの曲\).md "wikilink")」のカップリング曲と同じく、冒頭にストリングスイントロが追加されたバージョンで収録されている。
 6.  **月に祈る**
 7.  **生きてく強さ**
 8.  **週末のBaby talk**
@@ -140,7 +140,7 @@ CDジャーナルは、「最近(1996年当時)のバンドの中では飛び抜
 
 **BEAT out\! Anthology Demo & Live in 1996**
 
-1.  **More than Love Live ver. From [東京厚生年金会館](https://ja.wikipedia.org/wiki/東京厚生年金会館 "wikilink")**
+1.  **More than Love Live ver. From [東京厚生年金会館](../Page/東京厚生年金会館.md "wikilink")**
 2.  **More than Love AG Demo**
 3.  **Yes, Summerdays AG Demo**
 4.  **Yes, Summerdays Demo**
@@ -223,7 +223,7 @@ CDジャーナルは、「最近(1996年当時)のバンドの中では飛び抜
   - [D.I.E.](../Page/D.I.E..md "wikilink")：[ピアノ](../Page/ピアノ.md "wikilink")（\#5）
   - [そうる透](../Page/そうる透.md "wikilink")：ドラムス（\#2,6）
   - [YUKI](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")：[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")（\#8）
-  - [佐久間正英](https://ja.wikipedia.org/wiki/佐久間正英 "wikilink")：[コンピュータ・プログラミング](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")、[キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")
+  - [佐久間正英](../Page/佐久間正英.md "wikilink")：[コンピュータ・プログラミング](../Page/ミュージックシーケンサー.md "wikilink")、[キーボード](../Page/キーボード_\(楽器\).md "wikilink")
 
 ## 脚注
 

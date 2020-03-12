@@ -1,9 +1,9 @@
 > この記事は[Vodafone 902SH](https://ja.wikipedia.org/wiki/Vodafone_902SH)から翻訳されています。
 
 
-**Vodafone 902SH**（ボーダフォン902SH）は[シャープ](../Page/シャープ.md "wikilink")が開発し、ボーダフォン日本法人（現[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")）が販売する[W-CDMA](../Page/W-CDMA.md "wikilink")通信方式のVodafone 3G（現[SoftBank 3G](https://ja.wikipedia.org/wiki/SoftBank_3G "wikilink")）サービスを利用可能な[携帯電話](../Page/携帯電話.md "wikilink")端末である。
+**Vodafone 902SH**（ボーダフォン902SH）は[シャープ](../Page/シャープ.md "wikilink")が開発し、ボーダフォン日本法人（現[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")）が販売する[W-CDMA](../Page/W-CDMA.md "wikilink")通信方式のVodafone 3G（現[SoftBank 3G](../Page/SoftBank_3G.md "wikilink")）サービスを利用可能な[携帯電話](../Page/携帯電話.md "wikilink")端末である。
 
-[2004年](../Page/2004年.md "wikilink")9月22日にボーダフォンよりプレスリリース、2004年12月29日より発売開始した。[JATE通過は](https://ja.wikipedia.org/wiki/電気通信端末機器審査協会 "wikilink")2004年8月6日。
+[2004年](../Page/2004年.md "wikilink")9月22日にボーダフォンよりプレスリリース、2004年12月29日より発売開始した。[JATE通過は](../Page/電気通信端末機器審査協会.md "wikilink")2004年8月6日。
 
 ## 評判
 
@@ -16,7 +16,7 @@
 ## 関連項目
 
   - [ソフトバンクモバイルの端末一覧](https://ja.wikipedia.org/wiki/ソフトバンクモバイルの端末一覧 "wikilink")
-  - [Vodafone 802SH](https://ja.wikipedia.org/wiki/Vodafone_802SH "wikilink")
+  - [Vodafone 802SH](../Page/Vodafone_802SH.md "wikilink")
 
 ## 脚注
 

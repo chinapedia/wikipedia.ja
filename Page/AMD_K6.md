@@ -20,7 +20,7 @@
 
 ## 概要
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:AMD_K6-166ALR.jpg "wikilink") K6はx86命令を内部でRISC86OPに変換し、内部のRISC86[パイプラインで命令を高速実行する](https://ja.wikipedia.org/wiki/命令パイプライン "wikilink")、[Socket 7互換](https://ja.wikipedia.org/wiki/Socket_7 "wikilink")[CPU](../Page/CPU.md "wikilink")である。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:AMD_K6-166ALR.jpg "wikilink") K6はx86命令を内部でRISC86OPに変換し、内部のRISC86[パイプラインで命令を高速実行する](https://ja.wikipedia.org/wiki/命令パイプライン "wikilink")、[Socket 7互換](../Page/Socket_7.md "wikilink")[CPU](../Page/CPU.md "wikilink")である。
 
 [インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")製CPUとの[ソケット互換CPUとして](../Page/CPUソケット.md "wikilink")、同一ソケットで同一クロック動作のインテル純正CPUを凌駕する高性能を発揮するため、低価格パーソナルコンピュータ (PC) を中心に普及し、また既存PCのアップグレード用としても市場に受け入れられた。 製造時期によって使用半導体製造プロセスが異なり、これにより166MHz〜233MHzと、200〜300MHzの2モデルに分類される。
 
@@ -32,9 +32,9 @@ AMDは、x86互換プロセッサメーカーであった、Atiq Raza率いる[N
 
 このCPUは時期により様々な開発コードネームが用いられたが、その一つに「Catapult」があった。これは、この新CPUを強大な[ゴリアテ](../Page/ゴリアテ.md "wikilink")（=インテル）を打ち倒した[ダビデ](../Page/ダビデ.md "wikilink") (=AMD) の武器（[投石機](https://ja.wikipedia.org/wiki/投石機 "wikilink")）になぞらえての命名であり、AMDが相当な自信と意気込みをもってこのCPUの開発に臨んだことを窺わせていた。
 
-K6は上述の通りインテルの[Pentium](https://ja.wikipedia.org/wiki/Pentium "wikilink") (Socket 7) とソケット互換であり、出荷開始の段階でインテルのMMX Pentiumシリーズよりも高クロック（233MHz）動作モデルが提供され、発売当初は、x86系で最速クロック動作のCPUとなった。このため、AMDはK6を「インテル製品よりも高速な初めての互換プロセッサ」だとして大々的に売り出した。K6はその発売開始一か月後にインテルが販売開始した当時最速のインテル製プロセッサ[Pentium IIと競合する製品であったとAMDは宣伝していたが](../Page/Pentium_II.md "wikilink")、クロックあたりの命令実行効率ではPentium IIにやや劣っていた。発表から約1年後の1998年5月には、[SIMD](https://ja.wikipedia.org/wiki/SIMD "wikilink")拡張命令セットである[3DNow\!](https://ja.wikipedia.org/wiki/3DNow! "wikilink")を追加した[K6-2](https://ja.wikipedia.org/wiki/K6-2 "wikilink")という後継プロセッサが登場している。
+K6は上述の通りインテルの[Pentium](https://ja.wikipedia.org/wiki/Pentium "wikilink") (Socket 7) とソケット互換であり、出荷開始の段階でインテルのMMX Pentiumシリーズよりも高クロック（233MHz）動作モデルが提供され、発売当初は、x86系で最速クロック動作のCPUとなった。このため、AMDはK6を「インテル製品よりも高速な初めての互換プロセッサ」だとして大々的に売り出した。K6はその発売開始一か月後にインテルが販売開始した当時最速のインテル製プロセッサ[Pentium IIと競合する製品であったとAMDは宣伝していたが](../Page/Pentium_II.md "wikilink")、クロックあたりの命令実行効率ではPentium IIにやや劣っていた。発表から約1年後の1998年5月には、[SIMD](../Page/SIMD.md "wikilink")拡張命令セットである[3DNow\!](../Page/3DNow!.md "wikilink")を追加した[K6-2](https://ja.wikipedia.org/wiki/K6-2 "wikilink")という後継プロセッサが登場している。
 
-Pentium IIでは、Socket 7ではなく、[Slot 1](../Page/Slot_1.md "wikilink") (P6バス) が採用されており、Socket 7ユーザーがPentium IIにアップグレードするには、[マザーボード](https://ja.wikipedia.org/wiki/マザーボード "wikilink")ごと（そして多くの場合メモリも）交換しなければならなかった。これに対しK6はSocket 7を採用していたため、[ローエンド](https://ja.wikipedia.org/wiki/ローエンド "wikilink")向けPC用の[CPU](../Page/CPU.md "wikilink")として採用されたり、Socket 7ユーザーのアップグレード用[CPU](../Page/CPU.md "wikilink")としても使用された。
+Pentium IIでは、Socket 7ではなく、[Slot 1](../Page/Slot_1.md "wikilink") (P6バス) が採用されており、Socket 7ユーザーがPentium IIにアップグレードするには、[マザーボード](../Page/マザーボード.md "wikilink")ごと（そして多くの場合メモリも）交換しなければならなかった。これに対しK6はSocket 7を採用していたため、[ローエンド](https://ja.wikipedia.org/wiki/ローエンド "wikilink")向けPC用の[CPU](../Page/CPU.md "wikilink")として採用されたり、Socket 7ユーザーのアップグレード用[CPU](../Page/CPU.md "wikilink")としても使用された。
 
 ## 特徴
 
@@ -44,8 +44,8 @@ K6は次のような特徴を備えている。
   - 8192エントリー2レベル分岐予測
   - 16エントリーBTB
   - 最大2命令[デコード](https://ja.wikipedia.org/wiki/エンコード#デコード "wikilink")
-  - [投機的実行](https://ja.wikipedia.org/wiki/投機的実行 "wikilink")
-  - [レジスタ・リネーム](https://ja.wikipedia.org/wiki/レジスタ・リネーミング "wikilink")
+  - [投機的実行](../Page/投機的実行.md "wikilink")
+  - [レジスタ・リネーム](../Page/レジスタ・リネーミング.md "wikilink")
   - 24エントリー[リザベーションステーション](https://ja.wikipedia.org/wiki/リザベーションステーション "wikilink")
   - [アウト・オブ・オーダー実行](../Page/アウト・オブ・オーダー実行.md "wikilink")
   - 1クロックあたり最高6個(5個＋分岐1個)のRISC86命令実行
@@ -54,13 +54,13 @@ K6は次のような特徴を備えている。
 
 デコーダはRISC86OPという内部命令に変換され、サイクルあたり最大4つのRISC86OPが出力可能である。この4つのRISC86OPがグループ化され（4つに満たない場合NOP命令で埋められる）、後段の24エントリーある[リザベーション・ステーション](https://ja.wikipedia.org/wiki/リザベーション・ステーション "wikilink")に送られる。
 
-命令は、[リザベーション・ステーション](https://ja.wikipedia.org/wiki/リザベーション・ステーション "wikilink")から5命令、分岐予測ユニットから分岐命令が実行可能である、また内部に整数2つ、MMX1つ、FPU1つ、ロード1つ、ストア1つ、分岐1つの計7つの並列実行ユニットを備えている。MMX実行ユニットはレジスタXパイプラインにしか繋がっておらず、2つのMMX実行ユニットをもつ[MMX Pentiumおよび](https://ja.wikipedia.org/wiki/Intel_Pentium_\(1993年\)#第三世代 "wikilink")[Pentium IIにこの点で劣っている](../Page/Pentium_II.md "wikilink")。これはのちの[K6-2でMMX命令が](https://ja.wikipedia.org/wiki/AMD_K6-2 "wikilink")2命令実行できるように改良された。
+命令は、[リザベーション・ステーション](https://ja.wikipedia.org/wiki/リザベーション・ステーション "wikilink")から5命令、分岐予測ユニットから分岐命令が実行可能である、また内部に整数2つ、MMX1つ、FPU1つ、ロード1つ、ストア1つ、分岐1つの計7つの並列実行ユニットを備えている。MMX実行ユニットはレジスタXパイプラインにしか繋がっておらず、2つのMMX実行ユニットをもつ[MMX Pentiumおよび](https://ja.wikipedia.org/wiki/Intel_Pentium_\(1993年\)#第三世代 "wikilink")[Pentium IIにこの点で劣っている](../Page/Pentium_II.md "wikilink")。これはのちの[K6-2でMMX命令が](../Page/AMD_K6-2.md "wikilink")2命令実行できるように改良された。
 
-また、K6は整数乗算を[パイプライン実行できず](https://ja.wikipedia.org/wiki/命令パイプライン "wikilink")、一方[K5はパイプライン実行を行えるため](https://ja.wikipedia.org/wiki/AMD_K5 "wikilink")、整数乗算命令のスループットは先代から大幅に低下している。
+また、K6は整数乗算を[パイプライン実行できず](https://ja.wikipedia.org/wiki/命令パイプライン "wikilink")、一方[K5はパイプライン実行を行えるため](../Page/AMD_K5.md "wikilink")、整数乗算命令のスループットは先代から大幅に低下している。
 
-ただし、K6では[分岐予測](https://ja.wikipedia.org/wiki/分岐予測 "wikilink")や[投機実行の実装により](https://ja.wikipedia.org/wiki/投機的実行 "wikilink")[パイプラインを効率的に利用可能にするさまざまな機能がサポートされており](https://ja.wikipedia.org/wiki/命令パイプライン "wikilink")、K5では分岐先予測のバッファを保持していなかったのに対し、分岐先予測バッファとして16エントリーを保持するようになっている。
+ただし、K6では[分岐予測](../Page/分岐予測.md "wikilink")や[投機実行の実装により](../Page/投機的実行.md "wikilink")[パイプラインを効率的に利用可能にするさまざまな機能がサポートされており](https://ja.wikipedia.org/wiki/命令パイプライン "wikilink")、K5では分岐先予測のバッファを保持していなかったのに対し、分岐先予測バッファとして16エントリーを保持するようになっている。
 
-さらに、[レジスタリネーム機能もサポートされており](https://ja.wikipedia.org/wiki/レジスタ・リネーミング "wikilink")、汎用レジスタ本数が少ないというx86系プロセッサの弱点を補っている。
+さらに、[レジスタリネーム機能もサポートされており](../Page/レジスタ・リネーミング.md "wikilink")、汎用レジスタ本数が少ないというx86系プロセッサの弱点を補っている。
 
 ## 各世代についての詳細
 
@@ -90,8 +90,8 @@ K6は次のような特徴を備えている。
 
 ## 関連項目
 
-  - [AMD K6-2](https://ja.wikipedia.org/wiki/AMD_K6-2 "wikilink")
-  - [AMD K6-III](https://ja.wikipedia.org/wiki/AMD_K6-III "wikilink")
+  - [AMD K6-2](../Page/AMD_K6-2.md "wikilink")
+  - [AMD K6-III](../Page/AMD_K6-III.md "wikilink")
   - [アドバンスト・マイクロ・デバイセズ](https://ja.wikipedia.org/wiki/アドバンスト・マイクロ・デバイセズ "wikilink")
 
 ## 外部リンク

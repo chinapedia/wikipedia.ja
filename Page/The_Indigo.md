@@ -10,21 +10,21 @@
   - [2000年](../Page/2000年.md "wikilink")：シングル「[BLUE](https://ja.wikipedia.org/wiki/BLUE_\(the_Indigoの曲\) "wikilink")」で[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")を果たす。
   - [2002年](../Page/2002年.md "wikilink")：高木が作家活動のために卒業する。
   - [2004年](../Page/2004年.md "wikilink")：[韓国](../Page/大韓民国.md "wikilink")・[米国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[中国と](../Page/中華人民共和国.md "wikilink")、活動の範囲を精力的に拡大する。
-  - [2007年](../Page/2007年.md "wikilink")：ベストアルバムをきっかけとして、一時的にソロでの活動に重点を置く。田岡が[Kiss-FM KOBE](https://ja.wikipedia.org/wiki/兵庫エフエム放送 "wikilink")・[ニュージーランド航空](https://ja.wikipedia.org/wiki/ニュージーランド航空 "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")『DISCOVER NEW ZEALAND』の[ラジオパーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")となる。
+  - [2007年](../Page/2007年.md "wikilink")：ベストアルバムをきっかけとして、一時的にソロでの活動に重点を置く。田岡が[Kiss-FM KOBE](https://ja.wikipedia.org/wiki/兵庫エフエム放送 "wikilink")・[ニュージーランド航空](../Page/ニュージーランド航空.md "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")『DISCOVER NEW ZEALAND』の[ラジオパーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")となる。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")：3月19日に市川が事実上の復帰を発表\[1\]。制作活動を再開。
 
 ## メンバー
 
-  - **田岡 美樹**（たおか みき／[1974年](../Page/1974年.md "wikilink")[7月4日](../Page/7月4日.md "wikilink")生まれ／[広島県](../Page/広島県.md "wikilink")出身／[AB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")／[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")担当）
+  - **田岡 美樹**（たおか みき／[1974年](../Page/1974年.md "wikilink")[7月4日](../Page/7月4日.md "wikilink")生まれ／[広島県](../Page/広島県.md "wikilink")出身／[AB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")／[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[作詞](../Page/作詞.md "wikilink")担当）
 
 <!-- end list -->
 
   -
-    デビュー以前は[吉祥寺（中央口）や](https://ja.wikipedia.org/wiki/吉祥寺#吉祥寺（東京都武蔵野市） "wikilink")[広島（八丁堀）の](https://ja.wikipedia.org/wiki/広島本通商店街 "wikilink")[タワーレコード](../Page/タワーレコード.md "wikilink")に勤務しており、広島店においてはバイヤーを務めると同時に[テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")『P:S（ピース）』内[CD紹介コーナーも兼任していた](../Page/コンパクトディスク.md "wikilink")。ちょうどその頃に作った「BLUE」が大きなきっかけとなって[上京](../Page/上京.md "wikilink")。その後the Indigoを結成してデビュー。
+    デビュー以前は[吉祥寺（中央口）や](https://ja.wikipedia.org/wiki/吉祥寺#吉祥寺（東京都武蔵野市） "wikilink")[広島（八丁堀）の](../Page/広島本通商店街.md "wikilink")[タワーレコード](../Page/タワーレコード.md "wikilink")に勤務しており、広島店においてはバイヤーを務めると同時に[テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")『P:S（ピース）』内[CD紹介コーナーも兼任していた](../Page/コンパクトディスク.md "wikilink")。ちょうどその頃に作った「BLUE」が大きなきっかけとなって[上京](../Page/上京.md "wikilink")。その後the Indigoを結成してデビュー。
 
 <!-- end list -->
 
-  - **市川 裕一**（いちかわ ゆういち／[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[8月30日](../Page/8月30日.md "wikilink")生まれ／[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身／[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")／[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")・トラックメイキング担当）
+  - **市川 裕一**（いちかわ ゆういち／[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[8月30日](../Page/8月30日.md "wikilink")生まれ／[東京都](../Page/東京都.md "wikilink")出身／[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")／[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")・トラックメイキング担当）
 
 <!-- end list -->
 
@@ -33,7 +33,7 @@
 
 ## 元メンバー
 
-  - **高木 権一**（たかぎ けんいち／[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[11月13日](../Page/11月13日.md "wikilink")生まれ／[山口県](../Page/山口県.md "wikilink")出身／O型／[ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")）
+  - **高木 権一**（たかぎ けんいち／[1970年](../Page/1970年.md "wikilink")[11月13日](../Page/11月13日.md "wikilink")生まれ／[山口県](../Page/山口県.md "wikilink")出身／O型／[ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")）
 
 <!-- end list -->
 
@@ -63,7 +63,7 @@
     1.  ココロニ（[テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[ビートたけしのTVタックル](../Page/ビートたけしのTVタックル.md "wikilink")』エンディングテーマ／「フジテレビフラワーセンター」テーマソング）
           -
             作詞：田岡美樹、作曲・編曲：市川裕一
-    2.  やさしさあつめて（「[恋愛カタログ](https://ja.wikipedia.org/wiki/恋愛カタログ "wikilink")」テーマソング）
+    2.  やさしさあつめて（「[恋愛カタログ](../Page/恋愛カタログ.md "wikilink")」テーマソング）
           -
             作詞：田岡美樹、作曲・編曲：市川裕一
     3.  大切なもの（テレビ朝日『[やじうまワイド](../Page/やじうまワイド.md "wikilink")』テーマソング）
@@ -98,11 +98,11 @@
             作詞：田岡美樹、作曲・編曲：市川裕一
     3.  [雨にぬれても](../Page/雨にぬれても.md "wikilink")（カバー）
           -
-            作詞・作曲：ハル・デヴィッド・[バート・バカラック](https://ja.wikipedia.org/wiki/バート・バカラック "wikilink")、編曲：市川裕一
+            作詞・作曲：ハル・デヴィッド・[バート・バカラック](../Page/バート・バカラック.md "wikilink")、編曲：市川裕一
 7.  **UNDER THE BLUE SKY**（[2003年](../Page/2003年.md "wikilink")[2月5日](../Page/2月5日.md "wikilink")発売） - オリコン67位
     1.  UNDER THE BLUE SKY（「[魔法遣いに大切なこと](https://ja.wikipedia.org/wiki/魔法遣いに大切なこと "wikilink")」エンディングテーマソング）
           -
-            作詞：田岡美樹、作曲：市川裕一、編曲：[羽毛田丈史](https://ja.wikipedia.org/wiki/羽毛田丈史 "wikilink")・市川裕一
+            作詞：田岡美樹、作曲：市川裕一、編曲：[羽毛田丈史](../Page/羽毛田丈史.md "wikilink")・市川裕一
     2.  クリア（「魔法遣いに大切なこと」挿入歌）
           -
             作詞：田岡美樹、作曲：市川裕一、編曲：羽毛田丈史・市川裕一
@@ -111,7 +111,7 @@
             作詞：田岡美樹、作曲：市川裕一、編曲：羽毛田丈史・市川裕一
     4.  UNDER THE BLUE SKY（instrumental）
     5.  クリア（instrumental）
-8.  **Sweet Radio featuring [西寺郷太](https://ja.wikipedia.org/wiki/ノーナ・リーヴス "wikilink")**（2003年[7月30日](../Page/7月30日.md "wikilink")発売）
+8.  **Sweet Radio featuring [西寺郷太](../Page/ノーナ・リーヴス.md "wikilink")**（2003年[7月30日](../Page/7月30日.md "wikilink")発売）
     1.  Sweet Radio featuring 西寺郷太
           -
             作詞・作曲：田岡美樹・市川裕一・西寺郷太、編曲：市川裕一
@@ -123,8 +123,8 @@
     1.  I Do\!（「[藍より青し](../Page/藍より青し.md "wikilink")〜縁〜」エンディングテーマソング）
     2.  presence（「藍より青し〜縁〜」スペシャルエンディングテーマソング）
     3.  Little Wing
-10. **ファンタジスタ★ガール**（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月26日](../Page/10月26日.md "wikilink")発売）
-    1.  ファンタジスタ★ガール（「[アニマル横町](https://ja.wikipedia.org/wiki/アニマル横町 "wikilink")」エンディングテーマソング）
+10. **ファンタジスタ★ガール**（[2005年](../Page/2005年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink")発売）
+    1.  ファンタジスタ★ガール（「[アニマル横町](../Page/アニマル横町.md "wikilink")」エンディングテーマソング）
           -
             作詞：田岡美樹、作曲・編曲：市川裕一
     2.  ファンタジスタ★ガール（インストゥルメンタル）
@@ -149,8 +149,8 @@
     2.  ココロニ
     3.  ラベンダーの傘
     4.  pain
-    5.  恋の女神（「[全米オープンテニス](https://ja.wikipedia.org/wiki/全米オープン_\(テニス\) "wikilink")」イメージソング）
-    6.  BEAUTY（「天使のブラ」テレビコマーシャルイメージソング,TSS（[テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")）[ひろしま満点ママ\!\!](https://ja.wikipedia.org/wiki/ひろしま満点ママ!! "wikilink")2002年度テーマソング）
+    5.  恋の女神（「[全米オープンテニス](../Page/全米オープン_\(テニス\).md "wikilink")」イメージソング）
+    6.  BEAUTY（「天使のブラ」テレビコマーシャルイメージソング,TSS（[テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")）[ひろしま満点ママ\!\!](../Page/ひろしま満点ママ!!.md "wikilink")2002年度テーマソング）
     7.  SHE SAID
     8.  HOME TOWN
     9.  夏のプリズム
@@ -212,7 +212,7 @@
     10. 愛の呼吸
     11. Just the way you are
     12. flair
-7.  **Future Folk**（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月8日](../Page/11月8日.md "wikilink")発売）
+7.  **Future Folk**（[2006年](../Page/2006年.md "wikilink")[11月8日](../Page/11月8日.md "wikilink")発売）
     1.  マスターミュージック
     2.  CLOSE TO YOU
     3.  別れの詩
@@ -317,9 +317,9 @@
 <!-- end list -->
 
 1.  [そして僕は途方に暮れる](https://ja.wikipedia.org/wiki/そして僕は途方に暮れる "wikilink")（原曲は[大沢誉志幸](https://ja.wikipedia.org/wiki/大沢誉志幸 "wikilink")）
-2.  [赤い風船](../Page/赤い風船_\(浅田美代子の曲\).md "wikilink")（[浅田美代子](https://ja.wikipedia.org/wiki/浅田美代子 "wikilink")）
-3.  [情熱の薔薇](../Page/情熱の薔薇.md "wikilink")（[THE BLUE HEARTS](https://ja.wikipedia.org/wiki/THE_BLUE_HEARTS "wikilink")）
-4.  [眠れぬ夜](https://ja.wikipedia.org/wiki/眠れぬ夜 "wikilink")（[オフコース](https://ja.wikipedia.org/wiki/オフコース "wikilink")）
+2.  [赤い風船](../Page/赤い風船_\(浅田美代子の曲\).md "wikilink")（[浅田美代子](../Page/浅田美代子.md "wikilink")）
+3.  [情熱の薔薇](../Page/情熱の薔薇.md "wikilink")（[THE BLUE HEARTS](../Page/THE_BLUE_HEARTS.md "wikilink")）
+4.  [眠れぬ夜](../Page/眠れぬ夜.md "wikilink")（[オフコース](https://ja.wikipedia.org/wiki/オフコース "wikilink")）
 5.  [Hello, my friend](../Page/Hello,_my_friend.md "wikilink")（[松任谷由実](../Page/松任谷由実.md "wikilink")）
 6.  [不思議なピーチパイ](https://ja.wikipedia.org/wiki/不思議なピーチパイ "wikilink")（[竹内まりや](https://ja.wikipedia.org/wiki/竹内まりや "wikilink")）
 7.  MY GIRL（E-ZEE BAND）
@@ -442,7 +442,7 @@
 
 **[吉本坂46](https://ja.wikipedia.org/wiki/吉本坂46 "wikilink")**
 
-  - 「[好きになってごめんなさい](https://ja.wikipedia.org/wiki/不能ではいられない "wikilink")」（作曲・編曲）
+  - 「[好きになってごめんなさい](../Page/不能ではいられない.md "wikilink")」（作曲・編曲）
 
 **[坂本真綾](https://ja.wikipedia.org/wiki/坂本真綾 "wikilink")**
 

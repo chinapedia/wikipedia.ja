@@ -1,26 +1,26 @@
 > この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
 
 
-**NHK松山放送局**（エヌエイチケイまつやまほうそうきょく）は、[愛媛県](../Page/愛媛県.md "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局である](https://ja.wikipedia.org/wiki/日本放送協会放送局の一覧 "wikilink")。[2019年](../Page/2019年.md "wikilink")（[令和](https://ja.wikipedia.org/wiki/令和 "wikilink")元年）[6月14日](../Page/6月14日.md "wikilink")付けで「松山拠点放送局」に改称された\[1\]。
+**NHK松山放送局**（エヌエイチケイまつやまほうそうきょく）は、[愛媛県](../Page/愛媛県.md "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局である](../Page/日本放送協会放送局の一覧.md "wikilink")。[2019年](../Page/2019年.md "wikilink")（[令和](https://ja.wikipedia.org/wiki/令和 "wikilink")元年）[6月14日](../Page/6月14日.md "wikilink")付けで「松山拠点放送局」に改称された\[1\]。
 
 ## 概要
 
-[愛媛県](../Page/愛媛県.md "wikilink")内向けの放送のほか、[四国](../Page/四国.md "wikilink")地方の**[拠点局](https://ja.wikipedia.org/wiki/基幹局 "wikilink")**として四国内各放送局を統括している。なお、[ラジオ第2放送は](https://ja.wikipedia.org/wiki/NHKラジオ第2放送 "wikilink")[山口県](../Page/山口県.md "wikilink")の[屋代島](https://ja.wikipedia.org/wiki/屋代島 "wikilink")（周防大島）、[徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")[三好市](https://ja.wikipedia.org/wiki/三好市 "wikilink")なども放送エリアに含まれる。
+[愛媛県](../Page/愛媛県.md "wikilink")内向けの放送のほか、[四国](../Page/四国.md "wikilink")地方の**[拠点局](../Page/基幹局.md "wikilink")**として四国内各放送局を統括している。なお、[ラジオ第2放送は](../Page/NHKラジオ第2放送.md "wikilink")[山口県](../Page/山口県.md "wikilink")の[屋代島](../Page/屋代島.md "wikilink")（周防大島）、[徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")[三好市](../Page/三好市.md "wikilink")なども放送エリアに含まれる。
 
 1941年の開局当初の[呼出符号](https://ja.wikipedia.org/wiki/識別信号 "wikilink")（コールサイン）は**JOVG**だったが、1945年1月1日に**中央放送局**に昇格し、その後[1948年](../Page/1948年.md "wikilink")に呼出符号は**JOZK**及び**JOZB**に変更された。
 
 ## 沿革
 
-  - [1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")（[昭和](../Page/昭和.md "wikilink")16年）[3月9日](../Page/3月9日.md "wikilink") - **[社団法人](https://ja.wikipedia.org/wiki/社団法人 "wikilink")日本放送協会松山放送局**開局、放送開始（[中波](../Page/中波.md "wikilink")、[呼出符号](https://ja.wikipedia.org/wiki/識別信号 "wikilink")：JOVG）。
+  - [1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")（[昭和](../Page/昭和.md "wikilink")16年）[3月9日](../Page/3月9日.md "wikilink") - **[社団法人](../Page/社団法人.md "wikilink")日本放送協会松山放送局**開局、放送開始（[中波](../Page/中波.md "wikilink")、[呼出符号](https://ja.wikipedia.org/wiki/識別信号 "wikilink")：JOVG）。
   - [1943年](../Page/1943年.md "wikilink")（昭和18年）[12月1日](../Page/12月1日.md "wikilink") - 大阪中央放送局松山分室（四国4県管轄）設置。
-  - [1945年](../Page/1945年.md "wikilink")（昭和20年）[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink") - 松山分室、**中央放送局（松山中央放送局）**に昇格。
-  - [1946年](../Page/1946年.md "wikilink")（昭和21年）[9月1日](../Page/9月1日.md "wikilink") - [ラジオ第2放送開始](https://ja.wikipedia.org/wiki/NHKラジオ第2放送 "wikilink")（呼出符号：JOVG）。
-  - [1948年](../Page/1948年.md "wikilink")（昭和23年）[7月1日](../Page/7月1日.md "wikilink") - [ラジオ第1放送の呼出符号](https://ja.wikipedia.org/wiki/NHKラジオ第1放送 "wikilink")：JOZK、第2放送の呼出符号：JOZBに変更。
+  - [1945年](../Page/1945年.md "wikilink")（昭和20年）[1月1日](../Page/1月1日.md "wikilink") - 松山分室、**中央放送局（松山中央放送局）**に昇格。
+  - [1946年](../Page/1946年.md "wikilink")（昭和21年）[9月1日](../Page/9月1日.md "wikilink") - [ラジオ第2放送開始](../Page/NHKラジオ第2放送.md "wikilink")（呼出符号：JOVG）。
+  - [1948年](../Page/1948年.md "wikilink")（昭和23年）[7月1日](../Page/7月1日.md "wikilink") - [ラジオ第1放送の呼出符号](../Page/NHKラジオ第1放送.md "wikilink")：JOZK、第2放送の呼出符号：JOZBに変更。
   - [1950年](../Page/1950年.md "wikilink")（昭和25年）[6月1日](../Page/6月1日.md "wikilink") - [放送法](../Page/放送法.md "wikilink")施行に伴い社団法人日本放送協会が解散。[特殊法人](../Page/特殊法人.md "wikilink")としての**日本放送協会**が設立され一切の権利義務を継承。
-  - [1957年](../Page/1957年.md "wikilink")（昭和32年）[5月29日](../Page/5月29日.md "wikilink") - [総合テレビ放送開始](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")（呼出符号：JOZK-TV）。
-  - [1962年](../Page/1962年.md "wikilink")（昭和37年）6月1日 - [教育テレビ放送開始](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")（呼出符号：JOZB-TV）。
+  - [1957年](../Page/1957年.md "wikilink")（昭和32年）[5月29日](../Page/5月29日.md "wikilink") - [総合テレビ放送開始](../Page/NHK総合テレビジョン.md "wikilink")（呼出符号：JOZK-TV）。
+  - [1962年](../Page/1962年.md "wikilink")（昭和37年）6月1日 - [教育テレビ放送開始](../Page/NHK教育テレビジョン.md "wikilink")（呼出符号：JOZB-TV）。
   - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")（昭和44年）[3月1日](../Page/3月1日.md "wikilink") - FM放送開始（呼出符号：JOZK-FM）。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（[平成](../Page/平成.md "wikilink")18年）
+  - [2006年](../Page/2006年.md "wikilink")（[平成](../Page/平成.md "wikilink")18年）
       - [6月21日](../Page/6月21日.md "wikilink") - 県内4つの民放と同時に[地上デジタル放送の試験放送開始](../Page/地上デジタルテレビ放送.md "wikilink")。
       - [10月1日](../Page/10月1日.md "wikilink") - 地上デジタル放送開始。
   - [2009年](../Page/2009年.md "wikilink")（平成21年）[5月1日](../Page/5月1日.md "wikilink") - [遠藤景子](https://ja.wikipedia.org/wiki/遠藤景子 "wikilink")が、事実上初の女性拠点局長として着任。
@@ -51,11 +51,11 @@
 
 #### 総合テレビ リモコンキーID：1
 
-  - **[松山](https://ja.wikipedia.org/wiki/松山親局送信所 "wikilink")** 16ch JOZK-DTV 1 kW（[行道山](https://ja.wikipedia.org/wiki/行道山 "wikilink")）
-  - [新居浜](https://ja.wikipedia.org/wiki/新居浜中継局 "wikilink") 41ch 300W（金子山）
+  - **[松山](https://ja.wikipedia.org/wiki/松山親局送信所 "wikilink")** 16ch JOZK-DTV 1 kW（[行道山](../Page/行道山.md "wikilink")）
+  - [新居浜](../Page/新居浜中継局.md "wikilink") 41ch 300W（金子山）
   - 川之江 16ch 10W（近見山）
   - 今治 41ch 10W（近見山）
-  - [宇和島](https://ja.wikipedia.org/wiki/宇和島テレビ中継局 "wikilink") 19ch 50W（泉が森）
+  - [宇和島](../Page/宇和島テレビ中継局.md "wikilink") 19ch 50W（泉が森）
   - 中山 24ch 3W（秦皇山）
   - 宇和石城 15ch 1W（小泉山）
   - [八幡浜](https://ja.wikipedia.org/wiki/八幡浜中継局#八幡浜テレビ・FM中継局 "wikilink") 41ch 20W（権現山※）
@@ -86,11 +86,11 @@
 
 #### Eテレ リモコンキーID：2
 
-  - **[松山](https://ja.wikipedia.org/wiki/松山親局送信所 "wikilink")** 13ch JOZB-DTV 1 kW（[行道山](https://ja.wikipedia.org/wiki/行道山 "wikilink")）
-  - [新居浜](https://ja.wikipedia.org/wiki/新居浜中継局 "wikilink") 39ch 300W（金子山）
+  - **[松山](https://ja.wikipedia.org/wiki/松山親局送信所 "wikilink")** 13ch JOZB-DTV 1 kW（[行道山](../Page/行道山.md "wikilink")）
+  - [新居浜](../Page/新居浜中継局.md "wikilink") 39ch 300W（金子山）
   - 川之江 22ch 10W（近見山）
   - 今治 39ch 10W（近見山）
-  - [宇和島](https://ja.wikipedia.org/wiki/宇和島テレビ中継局 "wikilink") 13ch 50W（泉が森）
+  - [宇和島](../Page/宇和島テレビ中継局.md "wikilink") 13ch 50W（泉が森）
   - 中山 13ch 3W（秦皇山）
   - 宇和石城 13ch 1W（小泉山）
   - [八幡浜](https://ja.wikipedia.org/wiki/八幡浜中継局#八幡浜テレビ・FM中継局 "wikilink") 56ch 20W（権現山※）
@@ -133,10 +133,10 @@
 
 #### 総合テレビ
 
-  - **[松山](https://ja.wikipedia.org/wiki/松山親局送信所 "wikilink")** 6ch JOZK-TV 5 kW（[城山](https://ja.wikipedia.org/wiki/城山_\(松山市\) "wikilink")）
-  - [新居浜](https://ja.wikipedia.org/wiki/新居浜中継局 "wikilink") 2ch 250W（金子山）
+  - **[松山](https://ja.wikipedia.org/wiki/松山親局送信所 "wikilink")** 6ch JOZK-TV 5 kW（[城山](../Page/城山_\(松山市\).md "wikilink")）
+  - [新居浜](../Page/新居浜中継局.md "wikilink") 2ch 250W（金子山）
   - [八幡浜](https://ja.wikipedia.org/wiki/八幡浜中継局#八幡浜テレビ・FM中継局 "wikilink") V8ch 250W（権現山※）
-  - [宇和島](https://ja.wikipedia.org/wiki/宇和島テレビ中継局 "wikilink") V6ch 75W（泉が森）
+  - [宇和島](../Page/宇和島テレビ中継局.md "wikilink") V6ch 75W（泉が森）
   - 大洲 V9ch 30W（高山寺山）
   - 南宇和 V9ch 100W
   - 菊間 57ch 100W
@@ -169,7 +169,7 @@
   - 宇和島下高串 44ch 0.1W
   - 宇和島保田 48ch 0.1W
   - 今治 32ch 100W（近見山）
-  - [城北](https://ja.wikipedia.org/wiki/城北中継局 "wikilink") 41ch 3W
+  - [城北](../Page/城北中継局.md "wikilink") 41ch 3W
   - 津島横浦 58ch 0.1W
 
 </div>
@@ -178,10 +178,10 @@
 
 #### 教育テレビ
 
-  - **[松山](https://ja.wikipedia.org/wiki/松山親局送信所 "wikilink")** 2ch JOZB-TV 5 kW（[城山](https://ja.wikipedia.org/wiki/城山_\(松山市\) "wikilink")）
-  - [新居浜](https://ja.wikipedia.org/wiki/新居浜中継局 "wikilink") 4ch 250W（金子山）
+  - **[松山](https://ja.wikipedia.org/wiki/松山親局送信所 "wikilink")** 2ch JOZB-TV 5 kW（[城山](../Page/城山_\(松山市\).md "wikilink")）
+  - [新居浜](../Page/新居浜中継局.md "wikilink") 4ch 250W（金子山）
   - [八幡浜](https://ja.wikipedia.org/wiki/八幡浜中継局#八幡浜テレビ・FM中継局 "wikilink") V2ch 250W（権現山※）
-  - [宇和島](https://ja.wikipedia.org/wiki/宇和島テレビ中継局 "wikilink") V1ch 75W（泉が森）
+  - [宇和島](../Page/宇和島テレビ中継局.md "wikilink") V1ch 75W（泉が森）
   - 大洲 V1ch 30W（高山寺山）
   - 南宇和 V12ch 100W
   - 菊間 54ch 100W
@@ -214,7 +214,7 @@
   - 宇和島下高串 39ch 0.1W
   - 宇和島保田 44ch 0.1W
   - 今治 30ch 100W（近見山）
-  - [城北](https://ja.wikipedia.org/wiki/城北中継局 "wikilink") 39ch 3W
+  - [城北](../Page/城北中継局.md "wikilink") 39ch 3W
   - 津島横浦 52ch 0.1W
 
 </div>
@@ -224,7 +224,7 @@
 
 ### ラジオ
 
-  - 出力が他の拠点局よりも極端に低く、ラジオ第1放送とラジオ第2放送に関しては、管轄の[NHK高知放送局](https://ja.wikipedia.org/wiki/NHK高知放送局 "wikilink")よりも出力が下回っている。
+  - 出力が他の拠点局よりも極端に低く、ラジオ第1放送とラジオ第2放送に関しては、管轄の[NHK高知放送局](../Page/NHK高知放送局.md "wikilink")よりも出力が下回っている。
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
@@ -240,7 +240,7 @@
   - 城辺 1341 kHz 100W
   - 野村 1323 kHz 100W
 
-以下の放送局は[NHK広島放送局](https://ja.wikipedia.org/wiki/NHK広島放送局 "wikilink")のもの。
+以下の放送局は[NHK広島放送局](../Page/NHK広島放送局.md "wikilink")のもの。
 
   - 広島 1071 kHz 20 kW
   - 尾道 999 kHz 1 kW
@@ -259,7 +259,7 @@
   - [八幡浜](https://ja.wikipedia.org/wiki/八幡浜中継局 "wikilink") 1035 kHz 100W
   - 大洲 1476 kHz 100W
   - 城辺 1539 kHz 100W
-  - [池田](https://ja.wikipedia.org/wiki/池田中継局 "wikilink")（[徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")） 1359 kHz 100W
+  - [池田](../Page/池田中継局.md "wikilink")（[徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")） 1359 kHz 100W
 
 以下の放送局はNHK広島放送局のもの。
 
@@ -271,8 +271,8 @@
 
 #### FM放送
 
-  - **[松山](https://ja.wikipedia.org/wiki/松山親局送信所 "wikilink")** 87.7 MHz JOZK-FM 1 kW（[城山](https://ja.wikipedia.org/wiki/城山_\(松山市\) "wikilink")）
-  - [新居浜](https://ja.wikipedia.org/wiki/新居浜中継局 "wikilink") 87.0 MHz 100W
+  - **[松山](https://ja.wikipedia.org/wiki/松山親局送信所 "wikilink")** 87.7 MHz JOZK-FM 1 kW（[城山](../Page/城山_\(松山市\).md "wikilink")）
+  - [新居浜](../Page/新居浜中継局.md "wikilink") 87.0 MHz 100W
   - [八幡浜](https://ja.wikipedia.org/wiki/八幡浜中継局#八幡浜テレビ・FM中継局 "wikilink") V86.5 MHz 100W
   - 宇和島V 84.8 MHz 100W
   - 大洲 85.9 MHz 30W
@@ -292,7 +292,7 @@
 
   - 宇和島支局：〒798-0031 [宇和島市](../Page/宇和島市.md "wikilink")栄町港1丁目1-14 スズケンビル3階
   - 新居浜支局：〒792-0025 [新居浜市](../Page/新居浜市.md "wikilink")一宮町1丁目5-50 新居浜ビル4階
-  - 八幡浜支局：〒796-0067 [八幡浜市](https://ja.wikipedia.org/wiki/八幡浜市 "wikilink")字中央163-1 セントルローズ201
+  - 八幡浜支局：〒796-0067 [八幡浜市](../Page/八幡浜市.md "wikilink")字中央163-1 セントルローズ201
   - 今治支局：〒794-0015 [今治市](../Page/今治市.md "wikilink")常盤町1丁目8-18 山本農機ビル403
 
 ## 情報カメラ設置ポイント
@@ -303,16 +303,16 @@
       - [松山空港](../Page/松山空港.md "wikilink")
   - [今治市](../Page/今治市.md "wikilink")
       - [来島海峡大橋](../Page/来島海峡大橋.md "wikilink")
-      - [大島](https://ja.wikipedia.org/wiki/大島_\(愛媛県今治市\) "wikilink")・亀老山
+      - [大島](../Page/大島_\(愛媛県今治市\).md "wikilink")・亀老山
   - [新居浜市](../Page/新居浜市.md "wikilink")
       - 新居浜支局屋上
   - [西条市](../Page/西条市.md "wikilink")
       - [石鎚山](../Page/石鎚山.md "wikilink")中腹（石鎚スキー場付近）
   - [四国中央市](../Page/四国中央市.md "wikilink")
-      - [松山自動車道](../Page/松山自動車道.md "wikilink") [三島川之江I.C.付近](https://ja.wikipedia.org/wiki/三島川之江インターチェンジ "wikilink")
+      - [松山自動車道](../Page/松山自動車道.md "wikilink") [三島川之江I.C.付近](../Page/三島川之江インターチェンジ.md "wikilink")
   - [宇和島市](../Page/宇和島市.md "wikilink")
       - 宇和島市役所（2013年3月、宇和島港湾合同庁舎より移転）
-  - [愛南町](https://ja.wikipedia.org/wiki/愛南町 "wikilink")
+  - [愛南町](../Page/愛南町.md "wikilink")
       - 中浦・NHK南宇和テレビ中継局
 
 ## 主な松山局制作番組
@@ -324,7 +324,7 @@
 <!-- end list -->
 
   - [四国 おひるのクローバー](https://ja.wikipedia.org/wiki/四国_おひるのクローバー "wikilink")（平日11:30 - 12:00）\[6\]
-  - [四国らしんばん](https://ja.wikipedia.org/wiki/四国らしんばん "wikilink")（金曜日19:30 - 19:55）
+  - [四国らしんばん](../Page/四国らしんばん.md "wikilink")（金曜日19:30 - 19:55）
 
 ※土日祝のお昼のニュース（12:10）、夕方のニュース・気象情報（18:45）も2011年度までは各県ごとの放送だったが、2012年度からは原則四国ブロック放送となる。なお台風や地震などの災害関連や、選挙関係において各県ごとの放送になる場合もある。
 
@@ -380,11 +380,11 @@
 
   - ニュースワイドえひめ→モーニングワイドえひめ
   - まつやまハロースタジオ→いよ路情報→ふれスタえひめ→えひめ おひるのたまご
-  - [てれごじ。](https://ja.wikipedia.org/wiki/てれごじ。 "wikilink")→だんだん5
+  - [てれごじ。](../Page/てれごじ。.md "wikilink")→だんだん5
   - 愛媛ダンランテレビ
-  - 640えひめ→630えひめ→イブニングネットワークえひめ→えひめイブニングニュース→NHKイブニングえひめ→[いよかんワイド](https://ja.wikipedia.org/wiki/いよかんワイド "wikilink")
+  - 640えひめ→630えひめ→イブニングネットワークえひめ→えひめイブニングニュース→NHKイブニングえひめ→[いよかんワイド](../Page/いよかんワイド.md "wikilink")
   - Discover四国 （金曜日19:30 - 20:43、年10回放送）
-  - 土曜ワイド四国→[おはよう四国](https://ja.wikipedia.org/wiki/おはよう四国 "wikilink")（土曜日7:30 - 8:00）
+  - 土曜ワイド四国→[おはよう四国](../Page/おはよう四国.md "wikilink")（土曜日7:30 - 8:00）
 
 ### ラジオ第1放送
 
@@ -396,7 +396,7 @@
 ### FM放送
 
   - [FMリクエストアワー](https://ja.wikipedia.org/wiki/FMリクエストアワー "wikilink")
-  - 2009年度まで月～金曜日を通して「FMゆうやけジョッキー」を18時から18:50に放送していた。2010年度は金曜のみこの枠をもともと[NHK広島放送局](https://ja.wikipedia.org/wiki/NHK広島放送局 "wikilink")が制作し、[中国地方](../Page/中国地方.md "wikilink")向けに制作していた「[ゆうナビ\!](https://ja.wikipedia.org/wiki/ゆうナビ! "wikilink")」を瀬戸内海ブロックネットと位置づけて、広島・松山で1週ごとの交互制作で放送したが、1年で終了し、瀬戸内海ブロックネットを含む夕方のローカル放送から完全撤退し、[東京からのネット受け番組に変更された](../Page/NHK放送センター.md "wikilink")。
+  - 2009年度まで月～金曜日を通して「FMゆうやけジョッキー」を18時から18:50に放送していた。2010年度は金曜のみこの枠をもともと[NHK広島放送局](../Page/NHK広島放送局.md "wikilink")が制作し、[中国地方](../Page/中国地方.md "wikilink")向けに制作していた「[ゆうナビ\!](https://ja.wikipedia.org/wiki/ゆうナビ! "wikilink")」を瀬戸内海ブロックネットと位置づけて、広島・松山で1週ごとの交互制作で放送したが、1年で終了し、瀬戸内海ブロックネットを含む夕方のローカル放送から完全撤退し、[東京からのネット受け番組に変更された](../Page/NHK放送センター.md "wikilink")。
 
 ## アナウンサー・キャスター
 
@@ -430,7 +430,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/伊藤源太" title="wikilink">伊藤源太</a></p></td>
+<td><p><a href="../Page/伊藤源太.md" title="wikilink">伊藤源太</a></p></td>
 <td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
 <td><p>アナウンス専任部長</p></td>
 <td><p>ニュースなど</p></td>
@@ -445,20 +445,20 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/金子峻" title="wikilink">金子峻</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK宮崎放送局" title="wikilink">宮崎</a></p></td>
+<td><p><a href="../Page/NHK宮崎放送局.md" title="wikilink">宮崎</a></p></td>
 <td><p>地域</p></td>
 <td><p>ニュースなど</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/小西政親" title="wikilink">小西政親</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK富山放送局" title="wikilink">富山</a></p></td>
+<td><p><a href="../Page/NHK富山放送局.md" title="wikilink">富山</a></p></td>
 <td><p>地域</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/おはようえひめ" title="wikilink">おはようえひめ</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/酒井博司" title="wikilink">酒井博司</a></p></td>
+<td><p><a href="../Page/酒井博司.md" title="wikilink">酒井博司</a></p></td>
 <td><p><a href="../Page/NHK大阪放送局.md" title="wikilink">大阪</a></p></td>
 <td><p>スポーツ</p></td>
 <td><p>スポーツ中継<br />
@@ -466,8 +466,8 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/武田涼介" title="wikilink">武田涼介</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK放送研修センター・日本語センター" title="wikilink">日本語センター（出向）</a></p></td>
+<td><p><a href="../Page/武田涼介.md" title="wikilink">武田涼介</a></p></td>
+<td><p><a href="../Page/NHK放送研修センター・日本語センター.md" title="wikilink">日本語センター（出向）</a></p></td>
 <td><p>特になし</p></td>
 <td><p>おはようえひめ<br />
 四国だ!ゴーゴー</p></td>
@@ -482,22 +482,22 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/深澤健太" title="wikilink">深澤健太</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK山形放送局" title="wikilink">山形</a></p></td>
+<td><p><a href="../Page/NHK山形放送局.md" title="wikilink">山形</a></p></td>
 <td><p>スポーツ</p></td>
 <td><p>スポーツ中継<br />
 ニュースなど</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/谷地健吾" title="wikilink">谷地健吾</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHKラジオセンター" title="wikilink">ラジオセンター</a></p></td>
+<td><p><a href="../Page/谷地健吾.md" title="wikilink">谷地健吾</a></p></td>
+<td><p><a href="../Page/NHKラジオセンター.md" title="wikilink">ラジオセンター</a></p></td>
 <td><p>地域</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/四国らしんばん" title="wikilink">四国らしんばん</a></p></td>
+<td><p><a href="../Page/四国らしんばん.md" title="wikilink">四国らしんばん</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/武藤友樹" title="wikilink">武藤友樹</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK福岡放送局" title="wikilink">福岡</a></p></td>
+<td><p><a href="../Page/武藤友樹.md" title="wikilink">武藤友樹</a></p></td>
+<td><p><a href="../Page/NHK福岡放送局.md" title="wikilink">福岡</a></p></td>
 <td><p>特になし</p></td>
 <td><p>ニュースなど</p></td>
 <td></td>
@@ -510,7 +510,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/首藤奈知子" title="wikilink">首藤奈知子</a>*</p></td>
+<td><p><a href="../Page/首藤奈知子.md" title="wikilink">首藤奈知子</a>*</p></td>
 <td><p>東京アナウンス室</p></td>
 <td><p>地域</p></td>
 <td><p>ひめDON!<br />
@@ -595,8 +595,8 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/丹友美" title="wikilink">丹友美</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK山口放送局" title="wikilink">山口</a></p></td>
+<td><p><a href="../Page/丹友美.md" title="wikilink">丹友美</a></p></td>
+<td><p><a href="../Page/NHK山口放送局.md" title="wikilink">山口</a></p></td>
 <td><p>ひめポン!（リポーター）</p></td>
 <td></td>
 </tr>
@@ -633,7 +633,7 @@
 </tr>
 <tr class="odd">
 <td><p>佐藤万里奈</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK北九州放送局" title="wikilink">北九州</a></p></td>
+<td><p><a href="../Page/NHK北九州放送局.md" title="wikilink">北九州</a></p></td>
 <td><p>ひめポン!（気象情報）<br />
 えひめ845（気象情報）</p></td>
 <td></td>
@@ -651,7 +651,7 @@
 
   - ブロック別ニュースポータルサイトの開設はNHKの拠点局の中では最も遅く、全拠点局の中で唯一、ブロック別ニュースポータルサイトのバナーが貼られていない。
   - 2012年4月7日からは、土曜・日曜・祝日・年末年始のローカルニュースはすべて四国ブロックの放送になり、高知・[徳島](../Page/NHK徳島放送局.md "wikilink")・[香川の各県域放送は原則平日のみの放送となっている](https://ja.wikipedia.org/wiki/NHK高松放送局 "wikilink")\[11\]。ただし、[台風](../Page/台風.md "wikilink")等の[自然災害](../Page/自然災害.md "wikilink")や日曜日については国政・県政関係の選挙の投票日の場合は各々の県域になることもある（4局とも県域になるケースもあれば特定の県だけ差し替えるケースもある）。
-  - NHKの拠点局で唯一、平日（祝日を除く）の11:30から『[テレビ体操](https://ja.wikipedia.org/wiki/ラジオ体操 "wikilink")』を、11:35から『[NHKプレマップ](https://ja.wikipedia.org/wiki/NHKプレマップ "wikilink")』（いずれも東京からの裏送り）を放送していたが、2017年4月3日に『[四国 おひるのクローバー](https://ja.wikipedia.org/wiki/四国_おひるのクローバー "wikilink")』が11:30-12:00にスタートしたことで解消した。全国の気象情報では拠点局が所在する地域では唯一予報が非表示である\[12\]。
+  - NHKの拠点局で唯一、平日（祝日を除く）の11:30から『[テレビ体操](https://ja.wikipedia.org/wiki/ラジオ体操 "wikilink")』を、11:35から『[NHKプレマップ](../Page/NHKプレマップ.md "wikilink")』（いずれも東京からの裏送り）を放送していたが、2017年4月3日に『[四国 おひるのクローバー](https://ja.wikipedia.org/wiki/四国_おひるのクローバー "wikilink")』が11:30-12:00にスタートしたことで解消した。全国の気象情報では拠点局が所在する地域では唯一予報が非表示である\[12\]。
   - NHKの拠点局で唯一、祝日を除く平日18時台の地域向け番組終了時に「終」マークを表示していない。
   - アナログ放送については教育テレビの親局が2chの放送局で唯一総合テレビを9chを親局としていない放送局であり、総合テレビについては拠点局で唯一1～3chを親局としていない局でもあった。
   - 全国のNHK各局と同じく朝の番組（『[おはよう日本](../Page/NHKニュースおはよう日本.md "wikilink")』や『[あさイチ](https://ja.wikipedia.org/wiki/あさイチ "wikilink")』など）で天気ループを表示しているが、デジタル放送では、『おはよう日本』内での表示に連動データ放送、『あさイチ』での表示にはアナログで使われているものと同一（2012年夏よりフォントのみ変更）のループと2種類を使い分けていた。これは、『あさイチ』内では一部の曜日で番組連動データ放送で双方向サービスなどを行っており、データ放送での天気ループ表示は技術的に難しいが、気象情報も生活に欠かせない情報だからというわけであり、アナログと同じループを『あさイチ』に限りデジタルでも使用していた。2014年度以降はデータ放送型を廃して、旧来の方式のものに統一している。

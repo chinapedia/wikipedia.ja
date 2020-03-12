@@ -1,15 +1,15 @@
 > この記事は[If](https://ja.wikipedia.org/wiki/If)から翻訳されています。
 
 
-**if文**（イフぶん）は[プログラミング言語](../Page/プログラミング言語.md "wikilink")において、[真理値](https://ja.wikipedia.org/wiki/真理値 "wikilink")に従って「もしXならば、Yせよ、さもなくばZせよ」というような条件実行の「[文 (プログラミング)](https://ja.wikipedia.org/wiki/文_\(プログラミング\) "wikilink") 」で、[制御構造](https://ja.wikipedia.org/wiki/制御構造 "wikilink")のひとつである。**if else文**と呼ばれることもある。
+**if文**（イフぶん）は[プログラミング言語](../Page/プログラミング言語.md "wikilink")において、[真理値](https://ja.wikipedia.org/wiki/真理値 "wikilink")に従って「もしXならば、Yせよ、さもなくばZせよ」というような条件実行の「[文 (プログラミング)](https://ja.wikipedia.org/wiki/文_\(プログラミング\) "wikilink") 」で、[制御構造](../Page/制御構造.md "wikilink")のひとつである。**if else文**と呼ばれることもある。
 
 具体的な構文はプログラミング言語によって異なるが一般的に、条件式と、条件式の評価結果の値が「真として扱うべき値」の場合に実行される「then節」と呼ばれる部分があり、「偽として扱うべき値」の場合に実行されるelse節と呼ばれる部分が付く場合もある。
 
-then節とelse節が式になる「[条件演算子](https://ja.wikipedia.org/wiki/条件演算子 "wikilink")」がある言語も多い。言語によってはifが文ではなく、条件演算子と同様の「if式」である言語もある。
+then節とelse節が式になる「[条件演算子](../Page/条件演算子.md "wikilink")」がある言語も多い。言語によってはifが文ではなく、条件演算子と同様の「if式」である言語もある。
 
 ## 真偽値
 
-「真として（あるいは、偽として）扱うべき値」について詳説する。条件式の値が[真理値](https://ja.wikipedia.org/wiki/真理値 "wikilink")をとる[ブーリアン型](https://ja.wikipedia.org/wiki/ブーリアン型 "wikilink")でなければならない言語もあるが、そのように限定していない言語もある。C言語にはそもそもブーリアン型が無くintで代用しているが、条件式としては汎整数型のゼロ（0）の他、[ヌルポインタ](https://ja.wikipedia.org/wiki/ヌルポインタ "wikilink")や 0.0 なども偽として扱われる。Rubyではnilとfalse以外は真として扱われる。JavaScriptにはtruthyとfalsyという用語があり、falseの他いくつかの値がfalsyで、その他の多くの値はtruthyである。比較的少数の偽になる値の他は、真、という言語が多いが、それと逆に、[Dart](https://ja.wikipedia.org/wiki/Dart "wikilink")言語（のproduction mode）のようにtrue以外は偽という言語もある（checked modeではbool以外の型だとエラー）。
+「真として（あるいは、偽として）扱うべき値」について詳説する。条件式の値が[真理値](https://ja.wikipedia.org/wiki/真理値 "wikilink")をとる[ブーリアン型](../Page/ブーリアン型.md "wikilink")でなければならない言語もあるが、そのように限定していない言語もある。C言語にはそもそもブーリアン型が無くintで代用しているが、条件式としては汎整数型のゼロ（0）の他、[ヌルポインタ](https://ja.wikipedia.org/wiki/ヌルポインタ "wikilink")や 0.0 なども偽として扱われる。Rubyではnilとfalse以外は真として扱われる。JavaScriptにはtruthyとfalsyという用語があり、falseの他いくつかの値がfalsyで、その他の多くの値はtruthyである。比較的少数の偽になる値の他は、真、という言語が多いが、それと逆に、[Dart](https://ja.wikipedia.org/wiki/Dart "wikilink")言語（のproduction mode）のようにtrue以外は偽という言語もある（checked modeではbool以外の型だとエラー）。
 
 ## 構文と構文以外
 
@@ -369,7 +369,7 @@ end if
 
 `左辺 && 右辺`
 
-という論理式で、左辺が真にならなければ右辺を評価しない言語（[短絡評価](https://ja.wikipedia.org/wiki/短絡評価 "wikilink")）では、これを
+という論理式で、左辺が真にならなければ右辺を評価しない言語（[短絡評価](../Page/短絡評価.md "wikilink")）では、これを
 
 `If (左辺) { 右辺 }`
 
@@ -396,9 +396,9 @@ CHDIR C:\HOGE || ECHO フォルダがみつかりません
 
 ## 関連項目
 
-  - [論理包含](https://ja.wikipedia.org/wiki/論理包含 "wikilink")
-  - [分岐命令](https://ja.wikipedia.org/wiki/分岐命令 "wikilink") - [機械語](../Page/機械語.md "wikilink")
-  - [制御構造](https://ja.wikipedia.org/wiki/制御構造 "wikilink")
+  - [論理包含](../Page/論理包含.md "wikilink")
+  - [分岐命令](../Page/分岐命令.md "wikilink") - [機械語](../Page/機械語.md "wikilink")
+  - [制御構造](../Page/制御構造.md "wikilink")
   - [ヨーダ記法](https://ja.wikipedia.org/wiki/ヨーダ記法 "wikilink") - If文内の条件式で定数を左辺に置くプログラミングスタイル
 
 [Category:制御構造](https://ja.wikipedia.org/wiki/Category:制御構造 "wikilink") [Category:条件](https://ja.wikipedia.org/wiki/Category:条件 "wikilink")

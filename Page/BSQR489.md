@@ -1,19 +1,19 @@
 > この記事は[BSQR489](https://ja.wikipedia.org/wiki/BSQR489)から翻訳されています。
 
 
-**BSQR489**（**ビーエスキューアールよんはちきゅう**）は、[BSフジ](../Page/BSフジ.md "wikilink")の超短波放送チャンネル（[BSデジタル音声放送](https://ja.wikipedia.org/wiki/BSデジタル音声放送 "wikilink")）の一つ。
+**BSQR489**（**ビーエスキューアールよんはちきゅう**）は、[BSフジ](../Page/BSフジ.md "wikilink")の超短波放送チャンネル（[BSデジタル音声放送](../Page/BSデジタル音声放送.md "wikilink")）の一つ。
 
 ## 概要
 
-[文化放送](https://ja.wikipedia.org/wiki/文化放送 "wikilink")（JOQR）が制作を担当し、[2000年](../Page/2000年.md "wikilink")（[平成](../Page/平成.md "wikilink")12年）[12月1日](../Page/12月1日.md "wikilink")より放送開始。チャンネル番号は489で、BSQR489はこれに由来。放送開始前につけられていた仮称は、RadioQR 489。
+[文化放送](../Page/文化放送.md "wikilink")（JOQR）が制作を担当し、[2000年](../Page/2000年.md "wikilink")（[平成](../Page/平成.md "wikilink")12年）[12月1日](../Page/12月1日.md "wikilink")より放送開始。チャンネル番号は489で、BSQR489はこれに由来。放送開始前につけられていた仮称は、RadioQR 489。
 
-その後[BSデジタル放送](https://ja.wikipedia.org/wiki/BSデジタル放送 "wikilink")はテレビ放送を中心に普及を図っていくことが国の方針で決まり、ラジオ放送の終了が決定。これに伴い[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）[3月31日](../Page/3月31日.md "wikilink")をもって放送を終了した。
+その後[BSデジタル放送](https://ja.wikipedia.org/wiki/BSデジタル放送 "wikilink")はテレビ放送を中心に普及を図っていくことが国の方針で決まり、ラジオ放送の終了が決定。これに伴い[2006年](../Page/2006年.md "wikilink")（平成18年）[3月31日](../Page/3月31日.md "wikilink")をもって放送を終了した。
 
 ## 特徴
 
 昼間から夕方（12時 - 20時）にかけては、「[楽音潮流](https://ja.wikipedia.org/wiki/楽音潮流 "wikilink")」シリーズや「[日野ミッドナイトグラフィティ 走れ\!歌謡曲](../Page/日野ミッドナイトグラフィティ_走れ!歌謡曲.md "wikilink")」などの音楽番組が中心に放送されていた。
 
-一方で夜（20時以降）はアニメ・ゲーム系番組\[1\]中心の放送になっていた。放送されている番組は文化放送で制作・放送されている番組の再放送がほとんどであった\[2\]が、一部BSQR489独自の番組もあった。独自番組は、BSデジタルという聴取がかなり難しい配信環境であるため\[3\][BBQR](https://ja.wikipedia.org/wiki/BBQR "wikilink")\[4\]でも配信されていることが多かった。
+一方で夜（20時以降）はアニメ・ゲーム系番組\[1\]中心の放送になっていた。放送されている番組は文化放送で制作・放送されている番組の再放送がほとんどであった\[2\]が、一部BSQR489独自の番組もあった。独自番組は、BSデジタルという聴取がかなり難しい配信環境であるため\[3\][BBQR](../Page/BBQR.md "wikilink")\[4\]でも配信されていることが多かった。
 
 音声だけでなく数十秒サイクルで切り替わる静止画を映す機能もあったため、番組によっては様々な映像を同時に配信していた。
 
@@ -25,22 +25,22 @@
 
 **アニメ・ゲーム系番組**
 
-  - [井上喜久子のキャラメルタウン](https://ja.wikipedia.org/wiki/井上喜久子のキャラメルタウン "wikilink") （月 20:00 - 21:00、再放送 水 23:00 - 24:00）
+  - [井上喜久子のキャラメルタウン](../Page/井上喜久子のキャラメルタウン.md "wikilink") （月 20:00 - 21:00、再放送 水 23:00 - 24:00）
   - [広井王子のマル天ミックス\!](https://ja.wikipedia.org/wiki/広井王子のマル天ミックス! "wikilink") （火 20:00 - 20:30）<sup>★</sup>
   - [エウレカセブン RADIO Ray=Out](https://ja.wikipedia.org/wiki/交響詩篇エウレカセブン#ラジオ放送 "wikilink") （水 20:00 - 20:30）<sup>★</sup>
-  - [セガサミーアワー はーい井上商店ですよ\!](https://ja.wikipedia.org/wiki/セガサミーアワー_はーい井上商店ですよ! "wikilink") （水 20:30 - 21:00）<sup>★</sup>
-  - [智一・美樹のラジオビッグバン](https://ja.wikipedia.org/wiki/智一・美樹のラジオビッグバン "wikilink") （水 21:00 - 22:00\[5\]）<sup>★</sup>
-  - [アクターズゲイト2+81](https://ja.wikipedia.org/wiki/アクターズゲイト2+81 "wikilink")（木 21:00 - 21:30）<sup>★</sup>
+  - [セガサミーアワー はーい井上商店ですよ\!](../Page/セガサミーアワー_はーい井上商店ですよ!.md "wikilink") （水 20:30 - 21:00）<sup>★</sup>
+  - [智一・美樹のラジオビッグバン](../Page/智一・美樹のラジオビッグバン.md "wikilink") （水 21:00 - 22:00\[5\]）<sup>★</sup>
+  - [アクターズゲイト2+81](../Page/アクターズゲイト2+81.md "wikilink")（木 21:00 - 21:30）<sup>★</sup>
   - [堀江由衣の天使のたまご](../Page/堀江由衣の天使のたまご.md "wikilink") （金 20:00 - 20:30）<sup>★</sup>
-  - [PONY CANYON STYLE まるなび\!?](https://ja.wikipedia.org/wiki/PONY_CANYON_STYLE_まるなび!? "wikilink") （金 21:00 - 21:30）<sup>★</sup>
-  - [山本麻里安のはにわマイハウス](https://ja.wikipedia.org/wiki/山本麻里安のはにわマイハウス "wikilink") （隔週金 21:30 - 22:30、再放送 土 20:00 - 21:00）
-  - [A\&G 超RADIO SHOW〜アニスパ\!〜](https://ja.wikipedia.org/wiki/A&G_超RADIO_SHOW〜アニスパ!〜 "wikilink") （土 21:00 - 23:00\[6\]）<sup>★</sup>
+  - [PONY CANYON STYLE まるなび\!?](../Page/PONY_CANYON_STYLE_まるなび!?.md "wikilink") （金 21:00 - 21:30）<sup>★</sup>
+  - [山本麻里安のはにわマイハウス](../Page/山本麻里安のはにわマイハウス.md "wikilink") （隔週金 21:30 - 22:30、再放送 土 20:00 - 21:00）
+  - [A\&G 超RADIO SHOW〜アニスパ\!〜](../Page/A&G_超RADIO_SHOW〜アニスパ!〜.md "wikilink") （土 21:00 - 23:00\[6\]）<sup>★</sup>
   - [eXtendedMusic](https://ja.wikipedia.org/wiki/eXtendedMusic "wikilink")
 
 **他ジャンルの番組**
 
   - [楽音潮流](https://ja.wikipedia.org/wiki/楽音潮流 "wikilink")シリーズ
-  - Fantasy of TAIWAN（月 16:00 - 17:00、[再放送](https://ja.wikipedia.org/wiki/再放送 "wikilink") 日 15:00 - 16:00）
+  - Fantasy of TAIWAN（月 16:00 - 17:00、[再放送](../Page/再放送.md "wikilink") 日 15:00 - 16:00）
   - おとばこ。（火 13:00 - 14:00、再放送 金 16:00 - 17:00）
   - Under Ground Music（金 17:00 - 18:00、再放送 日 16:00 - 17:00）
   - [日野ミッドナイトグラフィティ 走れ\!歌謡曲](../Page/日野ミッドナイトグラフィティ_走れ!歌謡曲.md "wikilink")（文化放送で当日未明3:00 - 5:00の番組を同日夕方18:00 - 20:00に時差（ディレイ）放送\[7\]。）<sup>★</sup>
@@ -64,25 +64,25 @@
   - [Go\!Go\!タマサブロー](https://ja.wikipedia.org/wiki/Go!Go!タマサブロー "wikilink")
   - [ホビー派でいこう\!](https://ja.wikipedia.org/wiki/ホビー派でいこう! "wikilink")
   - [いちご100% Sweet Cafe](https://ja.wikipedia.org/wiki/いちご100%#ラジオ "wikilink")
-  - [GENEON Presents 週刊アニメプレス ～これが今夜の御主人様～](https://ja.wikipedia.org/wiki/GENEON_Presents_週刊アニメプレス "wikilink")
-  - [真・感覚ラジオ番組 小野坂・伊福部のyoungやんぐヤング](https://ja.wikipedia.org/wiki/真・感覚ラジオ番組_小野坂・伊福部のyoungやんぐヤング "wikilink")
+  - [GENEON Presents 週刊アニメプレス ～これが今夜の御主人様～](../Page/GENEON_Presents_週刊アニメプレス.md "wikilink")
+  - [真・感覚ラジオ番組 小野坂・伊福部のyoungやんぐヤング](../Page/真・感覚ラジオ番組_小野坂・伊福部のyoungやんぐヤング.md "wikilink")
   - [Haruna Eyed View](https://ja.wikipedia.org/wiki/Haruna_Eyed_View "wikilink")（2000年12月5日 - 2002年3月）
   - [広井王子アワー 孝宏・麻理のうナ玉](https://ja.wikipedia.org/wiki/広井王子アワー_孝宏・麻理のうナ玉 "wikilink")（2000年12月5日 - 2002年3月）
   - [Radio Revolution つくってドン！](https://ja.wikipedia.org/wiki/Radio_Revolution_つくってドン！ "wikilink")（2000年12月6日 - 2002年3月）
   - [大橋照子のしゃべり・バビデヴー](https://ja.wikipedia.org/wiki/大橋照子のしゃべり・バビデヴー "wikilink")（2000年12月7日 - 2001年3月）
   - [大橋照子のこれでキメましょう\!](https://ja.wikipedia.org/wiki/大橋照子のこれでキメましょう! "wikilink")（2001年4月 - 2002年3月）
   - [三石琴乃◎エーベルナイツII](https://ja.wikipedia.org/wiki/三石琴乃◎エーベルナイツII "wikilink")
-  - [シスター・プリンセス ～お兄ちゃんといっしょ～](https://ja.wikipedia.org/wiki/シスター・プリンセス〜お兄ちゃんといっしょ "wikilink")
-  - [電撃G's Radio](https://ja.wikipedia.org/wiki/電撃G's_Radio "wikilink")
+  - [シスター・プリンセス ～お兄ちゃんといっしょ～](../Page/シスター・プリンセス〜お兄ちゃんといっしょ.md "wikilink")
+  - [電撃G's Radio](../Page/電撃G's_Radio.md "wikilink")
   - [BGP RADIO SHOW\! 波多野・今井のなまちゅ〜](https://ja.wikipedia.org/wiki/BGP_RADIO_SHOW!_波多野・今井のなまちゅ〜 "wikilink")（2002年7月 - 2002年10月4日）
   - [あち・ゆき・まなびの僕らじ](https://ja.wikipedia.org/wiki/あち・ゆき・まなびの僕らじ "wikilink")（2000年12月8日 - 2002年6月）
   - [ポリケロののわぁんちゃってSAY YOU\!](https://ja.wikipedia.org/wiki/ポリケロののわぁんちゃってSAY_YOU! "wikilink")
   - [A.S.O.T](https://ja.wikipedia.org/wiki/A.S.O.T "wikilink")
-  - [マグナカルタRadio](https://ja.wikipedia.org/wiki/マグナカルタ_\(ゲーム\) "wikilink")
+  - [マグナカルタRadio](../Page/マグナカルタ_\(ゲーム\).md "wikilink")
   - [ムギュッと\!双恋](https://ja.wikipedia.org/wiki/ムギュッと!双恋 "wikilink")♥
-  - [白石涼子のシカイ良好☆ふんたららん](https://ja.wikipedia.org/wiki/白石涼子のシカイ良好☆ふんたららん "wikilink")
+  - [白石涼子のシカイ良好☆ふんたららん](../Page/白石涼子のシカイ良好☆ふんたららん.md "wikilink")
   - [めぐみゅうの神楽坂ハッピーチューナー](https://ja.wikipedia.org/wiki/めぐみゅうの神楽坂ハッピーチューナー "wikilink")
-  - [GENEON Presents 週刊アニメプレス](https://ja.wikipedia.org/wiki/GENEON_Presents_週刊アニメプレス "wikilink")
+  - [GENEON Presents 週刊アニメプレス](../Page/GENEON_Presents_週刊アニメプレス.md "wikilink")
   - [ヒヤマ・クラタの声優パソ☆コン](https://ja.wikipedia.org/wiki/ヒヤマ・クラタの声優パソ☆コン "wikilink")（2000年12月7日 - 2001年9月）
   - [おとばこ](https://ja.wikipedia.org/wiki/おとばこ "wikilink")
   - [ロジろじ。](https://ja.wikipedia.org/wiki/ロジろじ。 "wikilink")
@@ -95,7 +95,7 @@
   - [新世紀歌謡大行進](https://ja.wikipedia.org/wiki/新世紀歌謡大行進 "wikilink")
   - [吉田照美のやる気MANMAN\!](../Page/吉田照美のやる気MANMAN!.md "wikilink")
   - [FRIDAY SUPER COUNTDOWN 50](https://ja.wikipedia.org/wiki/FRIDAY_SUPER_COUNTDOWN_50 "wikilink")
-  - [永田町発サタデートリビューン](https://ja.wikipedia.org/wiki/永田町発サタデートリビューン "wikilink")
+  - [永田町発サタデートリビューン](../Page/永田町発サタデートリビューン.md "wikilink")
   - [Feel the Fantasy 絵本の国へ](https://ja.wikipedia.org/wiki/Feel_the_Fantasy_絵本の国へ "wikilink")
   - [ドリームチャパラ](https://ja.wikipedia.org/wiki/ドリームチャパラ "wikilink")
 

@@ -15,7 +15,7 @@
 
 ## エピソード
 
-  - 前名の「ブラック田ヨンピル」は、黒田の黒を単純に[英語](../Page/英語.md "wikilink")読みさせ、芸名を考えていた際に見ていた[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")でたまたま[チョー・ヨンピル](https://ja.wikipedia.org/wiki/チョー・ヨンピル "wikilink")が歌っていたという、単純な名前である。また現在の「ジョン」は、飼っていた犬の名前である。
+  - 前名の「ブラック田ヨンピル」は、黒田の黒を単純に[英語](../Page/英語.md "wikilink")読みさせ、芸名を考えていた際に見ていた[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")でたまたま[チョー・ヨンピル](../Page/チョー・ヨンピル.md "wikilink")が歌っていたという、単純な名前である。また現在の「ジョン」は、飼っていた犬の名前である。
   - ミドルネームの「B」は「Black」の「B」。これは「**黒**田」から来ている。
   - 2003年に発表されたウルフルズのシングル「[ええねん](https://ja.wikipedia.org/wiki/ええねん "wikilink")」の歌詞は、彼の復帰を祝う[トータス松本](../Page/トータス松本.md "wikilink")の思いが込められている。
   - 独特の言葉のセンスと自身が醸し出す雰囲気が良い具合に交じり合って「[しりとり歌人戦](https://ja.wikipedia.org/wiki/しりとり歌人戦 "wikilink")」（2004年12月17日放送）で優勝。「[芸能界しりとり竜王戦SP](https://ja.wikipedia.org/wiki/芸能界しりとり竜王戦SP "wikilink")」（2004年12月27日放送）でも「デリカシーのかけらもない言葉」をテーマに「手品やってよ」という名回答を繰り出し、審査員の高得点と特別審査員の[松本人志](../Page/松本人志.md "wikilink")の絶賛を得た。
@@ -28,7 +28,7 @@
 
 <!-- end list -->
 
-  - **Chu Chu Chu** （[2011年](../Page/2011年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink")、[UP-FRONT WORKS](https://ja.wikipedia.org/wiki/アップフロントワークス "wikilink")）
+  - **Chu Chu Chu** （[2011年](../Page/2011年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink")、[UP-FRONT WORKS](../Page/アップフロントワークス.md "wikilink")）
 
 ### アルバム
 

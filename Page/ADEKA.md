@@ -3,20 +3,20 @@
 
 **ADEKA**（アデカ）は、[古河グループ](../Page/古河グループ.md "wikilink")（[古河三水会](https://ja.wikipedia.org/wiki/古河三水会 "wikilink")）の化学品・食品事業を担う創立100年を超える大手[化学](../Page/化学.md "wikilink")メーカー。 樹脂添加剤など数多くの中間素材で世界トップシェアを誇る。 『世界とともに生きる』という経営理念のもと、中東・ブラジルといった当社初進出となる地域への事業展開も進めており、現在、世界13の国や地域に、23の海外拠点を有している。
 
-旧称は**旭電化工業株式会社**（あさひでんかこうぎょう）。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[5月1日](../Page/5月1日.md "wikilink")より現社名に変更した。
+旧称は**旭電化工業株式会社**（あさひでんかこうぎょう）。[2006年](../Page/2006年.md "wikilink")[5月1日](../Page/5月1日.md "wikilink")より現社名に変更した。
 
 ## 主力製品・事業
 
   - 化学品部門
       - 機能性化学品：情報・電子化学品、[合成樹脂添加剤](https://ja.wikipedia.org/wiki/合成樹脂添加剤 "wikilink")・油剤、[機能性樹脂](../Page/合成樹脂.md "wikilink")
-      - 汎用化学品：[ソーダ製品](https://ja.wikipedia.org/wiki/ナトリウム "wikilink")・[塩素](../Page/塩素.md "wikilink")製品、[過酸化製品](https://ja.wikipedia.org/wiki/過酸化物 "wikilink")、工業薬品
+      - 汎用化学品：[ソーダ製品](https://ja.wikipedia.org/wiki/ナトリウム "wikilink")・[塩素](../Page/塩素.md "wikilink")製品、[過酸化製品](../Page/過酸化物.md "wikilink")、工業薬品
   - 食品部門
       - 加工油脂：[マーガリン](../Page/マーガリン.md "wikilink")・[ファットスプレッド](../Page/ファットスプレッド.md "wikilink")、[ショートニング](../Page/ショートニング.md "wikilink")、[ラード](../Page/ラード.md "wikilink")、[チョコレート](https://ja.wikipedia.org/wiki/チョコレート "wikilink")用油脂、[食用油](../Page/油脂.md "wikilink")、食用[硬化油](https://ja.wikipedia.org/wiki/硬化油 "wikilink")、その他
-      - 加工食品：[ホイップクリーム](../Page/ホイップクリーム.md "wikilink")、各種[フィリング](https://ja.wikipedia.org/wiki/フィリング "wikilink")材、濃縮乳状食品、冷凍[パイ](https://ja.wikipedia.org/wiki/パイ "wikilink")生地、冷凍[ケーキ](../Page/ケーキ.md "wikilink")、[マヨネーズ](../Page/マヨネーズ.md "wikilink")・[ドレッシング](https://ja.wikipedia.org/wiki/ドレッシング "wikilink")、[スープ](../Page/スープ.md "wikilink")、[食品添加物](https://ja.wikipedia.org/wiki/食品添加物 "wikilink")製剤、その他
+      - 加工食品：[ホイップクリーム](../Page/ホイップクリーム.md "wikilink")、各種[フィリング](https://ja.wikipedia.org/wiki/フィリング "wikilink")材、濃縮乳状食品、冷凍[パイ](../Page/パイ.md "wikilink")生地、冷凍[ケーキ](../Page/ケーキ.md "wikilink")、[マヨネーズ](../Page/マヨネーズ.md "wikilink")・[ドレッシング](https://ja.wikipedia.org/wiki/ドレッシング "wikilink")、[スープ](../Page/スープ.md "wikilink")、[食品添加物](https://ja.wikipedia.org/wiki/食品添加物 "wikilink")製剤、その他
 
 ## 主要事業所
 
-  - 本社 - [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[荒川区](https://ja.wikipedia.org/wiki/荒川区 "wikilink")[東尾久](../Page/東尾久.md "wikilink")七丁目2番35号
+  - 本社 - [東京都](../Page/東京都.md "wikilink")[荒川区](https://ja.wikipedia.org/wiki/荒川区 "wikilink")[東尾久](../Page/東尾久.md "wikilink")七丁目2番35号
   - 大阪支社 - [大阪市](../Page/大阪市.md "wikilink")[中央区南本町](../Page/中央区_\(大阪市\).md "wikilink")4-2-21(イヨビル5F)
   - 支店 - 名古屋、福岡
   - 営業所 - 札幌、仙台
@@ -40,10 +40,10 @@
   - [1928年](../Page/1928年.md "wikilink") - 農業薬品製造部門を分離して[日本農薬](../Page/日本農薬.md "wikilink")株式会社を設立。
   - [1929年](../Page/1929年.md "wikilink") - リス印[マーガリン](../Page/マーガリン.md "wikilink")製造開始。
   - [1949年](../Page/1949年.md "wikilink") - [東京証券取引所](../Page/東京証券取引所.md "wikilink")一部に上場。
-  - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink") - [ミツワ石鹸](https://ja.wikipedia.org/wiki/ミツワ石鹸 "wikilink")、[第一工業製薬](https://ja.wikipedia.org/wiki/第一工業製薬 "wikilink")と合同で「日本サンホーム」（現・[P\&Gジャパン](https://ja.wikipedia.org/wiki/プロクター・アンド・ギャンブル "wikilink")）を設立。
+  - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink") - [ミツワ石鹸](../Page/ミツワ石鹸.md "wikilink")、[第一工業製薬](../Page/第一工業製薬.md "wikilink")と合同で「日本サンホーム」（現・[P\&Gジャパン](../Page/プロクター・アンド・ギャンブル.md "wikilink")）を設立。
   - [1999年](../Page/1999年.md "wikilink")4月1日 - 子会社の東海電化工業株式会社と合併\[1\]
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink") - **株式会社ADEKA**に社名変更、本社を[荒川区](https://ja.wikipedia.org/wiki/荒川区 "wikilink")に移転。
-  - [2018年](../Page/2018年.md "wikilink") - 日本農薬と資本・業務提携を締結。9月28日付で[株式公開買付け](https://ja.wikipedia.org/wiki/株式公開買付け "wikilink")並びに[第三者割当増資](https://ja.wikipedia.org/wiki/第三者割当増資 "wikilink")により、日本農薬を連結子会社とする\[2\]\[3\]。
+  - [2006年](../Page/2006年.md "wikilink") - **株式会社ADEKA**に社名変更、本社を[荒川区](https://ja.wikipedia.org/wiki/荒川区 "wikilink")に移転。
+  - [2018年](../Page/2018年.md "wikilink") - 日本農薬と資本・業務提携を締結。9月28日付で[株式公開買付け](../Page/株式公開買付け.md "wikilink")並びに[第三者割当増資](../Page/第三者割当増資.md "wikilink")により、日本農薬を連結子会社とする\[2\]\[3\]。
 
 ## 主要関係会社
 
@@ -60,11 +60,11 @@
 
 ## 提供番組
 
-  - [ポッポちゃん](https://ja.wikipedia.org/wiki/ポッポちゃん "wikilink") - [ニッポン放送](../Page/ニッポン放送.md "wikilink")の開局（1954年）から始まった[ラジオドラマ](https://ja.wikipedia.org/wiki/ラジオドラマ "wikilink")。
+  - [ポッポちゃん](https://ja.wikipedia.org/wiki/ポッポちゃん "wikilink") - [ニッポン放送](../Page/ニッポン放送.md "wikilink")の開局（1954年）から始まった[ラジオドラマ](../Page/ラジオドラマ.md "wikilink")。
   - [変幻三日月丸](https://ja.wikipedia.org/wiki/変幻三日月丸 "wikilink") - [フジテレビの開局](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")（1959年）から始まった[時代劇](../Page/時代劇.md "wikilink")。
   - [九ちゃん☆ハイ☆でした\!](https://ja.wikipedia.org/wiki/九ちゃん☆ハイ☆でした! "wikilink") - 1962年から1963年までフジテレビで放送された、[坂本九](../Page/坂本九.md "wikilink")メインの音楽[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。それまで[明治屋](https://ja.wikipedia.org/wiki/明治屋 "wikilink")が提供していた『[マイ・マイ・ショー](https://ja.wikipedia.org/wiki/マイ・マイ・ショー "wikilink")』の提供変更と共に改題、当社が発売していた合成洗剤「テル」に因んで、「テルテルショー」という冠名称が付いた。
   - [アベック歌合戦](https://ja.wikipedia.org/wiki/アベック歌合戦 "wikilink") - 1966年10月から[ナショナル魔法瓶工業](https://ja.wikipedia.org/wiki/ナショナル魔法瓶工業 "wikilink")（「エヴェレストヂャー」名義）と共に提供を担当。名義は「アデカソフト」。
-  - [塩谷育代](https://ja.wikipedia.org/wiki/塩谷育代 "wikilink")のゴルフ魅せます、[吉川なよ子](https://ja.wikipedia.org/wiki/吉川なよ子 "wikilink")の爽やかゴルフ - 古河グループの1社として提供に参加。
+  - [塩谷育代](../Page/塩谷育代.md "wikilink")のゴルフ魅せます、[吉川なよ子](../Page/吉川なよ子.md "wikilink")の爽やかゴルフ - 古河グループの1社として提供に参加。
 
 ## 脚注
 
@@ -72,10 +72,10 @@
 
   - [古河財閥](../Page/古河財閥.md "wikilink")
   - [古河グループ](../Page/古河グループ.md "wikilink")
-  - [プロクター・アンド・ギャンブル](https://ja.wikipedia.org/wiki/プロクター・アンド・ギャンブル "wikilink") - かつて同社が手がけた家庭用洗剤石鹸事業「アデカクリーン」「アデカスーパー」「テル」の関連商標を所有。
-      - 旧・[ミツワ石鹸](https://ja.wikipedia.org/wiki/ミツワ石鹸 "wikilink") - P\&Gジャパンの母体、「日本サンホーム」の合弁元、現在「ミツワ石鹸」の商標は[玉の肌石鹸](https://ja.wikipedia.org/wiki/玉の肌石鹸 "wikilink")が、「[ミューズ](https://ja.wikipedia.org/wiki/ミューズ_\(薬用石鹸\) "wikilink")」は[レキットベンキーザー](https://ja.wikipedia.org/wiki/レキットベンキーザー "wikilink")・ジャパンが保有。
-      - [第一工業製薬](https://ja.wikipedia.org/wiki/第一工業製薬 "wikilink") - 同じくP\&Gジャパンの母体、「日本サンホーム」の合弁元。「モノゲン」「ゲンブ石鹸」本舗。
-      - [P\&G製品一覧](https://ja.wikipedia.org/wiki/P&G製品一覧 "wikilink") - かつての家庭用製品を掲載。
+  - [プロクター・アンド・ギャンブル](../Page/プロクター・アンド・ギャンブル.md "wikilink") - かつて同社が手がけた家庭用洗剤石鹸事業「アデカクリーン」「アデカスーパー」「テル」の関連商標を所有。
+      - 旧・[ミツワ石鹸](../Page/ミツワ石鹸.md "wikilink") - P\&Gジャパンの母体、「日本サンホーム」の合弁元、現在「ミツワ石鹸」の商標は[玉の肌石鹸](https://ja.wikipedia.org/wiki/玉の肌石鹸 "wikilink")が、「[ミューズ](https://ja.wikipedia.org/wiki/ミューズ_\(薬用石鹸\) "wikilink")」は[レキットベンキーザー](https://ja.wikipedia.org/wiki/レキットベンキーザー "wikilink")・ジャパンが保有。
+      - [第一工業製薬](../Page/第一工業製薬.md "wikilink") - 同じくP\&Gジャパンの母体、「日本サンホーム」の合弁元。「モノゲン」「ゲンブ石鹸」本舗。
+      - [P\&G製品一覧](../Page/P&G製品一覧.md "wikilink") - かつての家庭用製品を掲載。
 
 ## 外部リンク
 

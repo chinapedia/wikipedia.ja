@@ -3,9 +3,9 @@
 
 **[デイム](https://ja.wikipedia.org/wiki/ナイト#女性（デイム） "wikilink")・アントニア・スーザン・バイアット**（**Dame Antonia Susan Byatt**, [1938年](../Page/1938年.md "wikilink")[8月24日](../Page/8月24日.md "wikilink") - ）は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[小説家](../Page/小説家.md "wikilink")。
 
-[ケンブリッジ大学](../Page/ケンブリッジ大学.md "wikilink")のニューナム・カレッジ、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[ペンシルベニア州](../Page/ペンシルベニア州.md "wikilink")のBryn Mawr College 、[オックスフォード](https://ja.wikipedia.org/wiki/オックスフォード "wikilink")の[サマーヴィル・カレッジ](https://ja.wikipedia.org/wiki/サマーヴィル・カレッジ "wikilink")などで学ぶ。
+[ケンブリッジ大学](../Page/ケンブリッジ大学.md "wikilink")のニューナム・カレッジ、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[ペンシルベニア州](../Page/ペンシルベニア州.md "wikilink")のBryn Mawr College 、[オックスフォード](../Page/オックスフォード.md "wikilink")の[サマーヴィル・カレッジ](../Page/サマーヴィル・カレッジ.md "wikilink")などで学ぶ。
 
-[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")の「[抱擁](https://ja.wikipedia.org/wiki/抱擁_\(映画\) "wikilink")」（*Possession: A Romance*）で[ブッカー賞](../Page/ブッカー賞.md "wikilink")を受賞。この作品は後に映画化された。
+[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")の「[抱擁](../Page/抱擁_\(映画\).md "wikilink")」（*Possession: A Romance*）で[ブッカー賞](../Page/ブッカー賞.md "wikilink")を受賞。この作品は後に映画化された。
 
 小説家の[マーガレット・ドラブル](../Page/マーガレット・ドラブル.md "wikilink")は妹にあたる。
 

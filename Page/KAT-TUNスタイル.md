@@ -1,29 +1,29 @@
 > この記事は[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN)から翻訳されています。
 
 
-**KAT-TUNスタイル**（カトゥーンスタイル、英字表記：**KAT-TUN STYLE**\[1\]）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")から[2012年](../Page/2012年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで、[ニッポン放送](../Page/ニッポン放送.md "wikilink")をキーステーションに[NRN系列全国ネットで放送していた](../Page/全国ラジオネットワーク.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。当時[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")のメンバーだった[田口淳之介](https://ja.wikipedia.org/wiki/田口淳之介 "wikilink")・[田中聖](https://ja.wikipedia.org/wiki/田中聖 "wikilink")が[パーソナリティを務めていた](../Page/ラジオパーソナリティ.md "wikilink")。
+**KAT-TUNスタイル**（カトゥーンスタイル、英字表記：**KAT-TUN STYLE**\[1\]）は、[2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2012年](../Page/2012年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで、[ニッポン放送](../Page/ニッポン放送.md "wikilink")をキーステーションに[NRN系列全国ネットで放送していた](../Page/全国ラジオネットワーク.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。当時[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")のメンバーだった[田口淳之介](https://ja.wikipedia.org/wiki/田口淳之介 "wikilink")・[田中聖](../Page/田中聖.md "wikilink")が[パーソナリティを務めていた](../Page/ラジオパーソナリティ.md "wikilink")。
 
 ## 概要
 
-[平日](https://ja.wikipedia.org/wiki/平日 "wikilink")22時台から23時台の[ワイド番組](https://ja.wikipedia.org/wiki/ワイド番組 "wikilink")に内包される形で放送している（2009年以降は、独立番組として扱われる場合もある。後述参照）。
+[平日](../Page/平日.md "wikilink")22時台から23時台の[ワイド番組](../Page/ワイド番組.md "wikilink")に内包される形で放送している（2009年以降は、独立番組として扱われる場合もある。後述参照）。
 
 ### 開始 - 2009年11月27日
 
-開始当初は毎週[月曜](../Page/月曜日.md "wikilink") - [金曜の](../Page/金曜日.md "wikilink")23:35頃から、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")からは毎週月曜 - [木曜](https://ja.wikipedia.org/wiki/木曜日 "wikilink")23:35頃からの10分番組である（ただし、2008年3月31日以降のニッポン放送ウェブサイト内全番組表では23:30と明記\[2\]）。
+開始当初は毎週[月曜](../Page/月曜日.md "wikilink") - [金曜の](../Page/金曜日.md "wikilink")23:35頃から、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")からは毎週月曜 - [木曜](../Page/木曜日.md "wikilink")23:35頃からの10分番組である（ただし、2008年3月31日以降のニッポン放送ウェブサイト内全番組表では23:30と明記\[2\]）。
 
-2006年[9月29日](../Page/9月29日.md "wikilink")までは『[東貴博 ニッポン全国 ラジベガス](https://ja.wikipedia.org/wiki/東貴博_ニッポン全国_ラジベガス "wikilink")』の[内包番組であったが](https://ja.wikipedia.org/wiki/フロート番組 "wikilink")、番組名変更に伴い2006年[10月2日](../Page/10月2日.md "wikilink")からは『[ヤンピース](https://ja.wikipedia.org/wiki/ヤンピース "wikilink")』（月曜 - 木曜は『[東貴博のヤンピース](https://ja.wikipedia.org/wiki/東貴博のヤンピース "wikilink")』、金曜は『[南海キャンディーズ 山里亮太のヤンピース フライデースペシャル](https://ja.wikipedia.org/wiki/南海キャンディーズ_山里亮太のヤンピース_フライデースペシャル "wikilink")』。2008年[9月1日](../Page/9月1日.md "wikilink")から[9月5日](../Page/9月5日.md "wikilink")までは、スペシャル番組『[ヤンピーススペシャル ティーンズコイバナ学園](https://ja.wikipedia.org/wiki/ヤンピーススペシャル_ティーンズコイバナ学園 "wikilink")』）内での放送となる。2006年[3月31日](../Page/3月31日.md "wikilink")までこの時間帯だった『[AAAのA〜お話](https://ja.wikipedia.org/wiki/AAAのA〜お話 "wikilink")』は、2006年[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")より22時50分頃からの5分番組となった。
+2006年[9月29日](../Page/9月29日.md "wikilink")までは『[東貴博 ニッポン全国 ラジベガス](../Page/東貴博_ニッポン全国_ラジベガス.md "wikilink")』の[内包番組であったが](../Page/フロート番組.md "wikilink")、番組名変更に伴い2006年[10月2日](../Page/10月2日.md "wikilink")からは『[ヤンピース](../Page/ヤンピース.md "wikilink")』（月曜 - 木曜は『[東貴博のヤンピース](../Page/東貴博のヤンピース.md "wikilink")』、金曜は『[南海キャンディーズ 山里亮太のヤンピース フライデースペシャル](../Page/南海キャンディーズ_山里亮太のヤンピース_フライデースペシャル.md "wikilink")』。2008年[9月1日](../Page/9月1日.md "wikilink")から[9月5日](../Page/9月5日.md "wikilink")までは、スペシャル番組『[ヤンピーススペシャル ティーンズコイバナ学園](https://ja.wikipedia.org/wiki/ヤンピーススペシャル_ティーンズコイバナ学園 "wikilink")』）内での放送となる。2006年[3月31日](../Page/3月31日.md "wikilink")までこの時間帯だった『[AAAのA〜お話](../Page/AAAのA〜お話.md "wikilink")』は、2006年[4月3日](../Page/4月3日.md "wikilink")より22時50分頃からの5分番組となった。
 
 レギュラー放送の場合は曜日によってコーナーが違い、大々的なイベントや番組の節目等では1週間単位でスペシャルコーナーを設ける。
 
 [2007年](../Page/2007年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")より田中に代わり、新たに[赤西仁](https://ja.wikipedia.org/wiki/赤西仁 "wikilink")が田口とパーソナリティを務めたが、2008年3月31日よりメンバーシャッフルとして再び田中聖と田口の2人でパーソナリティを務めている。赤西は3月28日を最後に降板。この改編時から、金曜日は[亀梨和也](../Page/亀梨和也.md "wikilink")がパーソナリティを務める『[亀梨和也のKス バイ Kス](https://ja.wikipedia.org/wiki/亀梨和也のKス・バイ・Kス "wikilink")』『亀梨和也のKス バイ Kス・KAT-TUNスタイルフライデースペシャル』（当初は『亀梨和也（仮）』『亀梨和也（仮）KAT-TUNスタイルフライデースペシャル』）を開始。
 
-2008年[9月8日](https://ja.wikipedia.org/wiki/9月8日 "wikilink")より、『[銀河に吠えろ\!宇宙GメンTAKUYA](https://ja.wikipedia.org/wiki/銀河に吠えろ!宇宙GメンTAKUYA "wikilink")』内の放送になった。『銀河に吠えろ\!宇宙GメンTAKUYA』の時間帯で特別番組『[オールナイトニッポンGOLD](https://ja.wikipedia.org/wiki/オールナイトニッポンGOLD "wikilink")』が放送された場合には23:50 - 24:00に放送された。
+2008年[9月8日](../Page/9月8日.md "wikilink")より、『[銀河に吠えろ\!宇宙GメンTAKUYA](https://ja.wikipedia.org/wiki/銀河に吠えろ!宇宙GメンTAKUYA "wikilink")』内の放送になった。『銀河に吠えろ\!宇宙GメンTAKUYA』の時間帯で特別番組『[オールナイトニッポンGOLD](https://ja.wikipedia.org/wiki/オールナイトニッポンGOLD "wikilink")』が放送された場合には23:50 - 24:00に放送された。
 
 ### 2009年11月30日 - 2011年9月30日
 
 [2009年](../Page/2009年.md "wikilink")[11月30日](../Page/11月30日.md "wikilink")より『銀河に吠えろ\!宇宙GメンTAKUYA』終了・『オールナイトニッポンGOLD』レギュラー編成化に伴い、毎週月曜 - 木曜23:50 - 24:00へ放送時間を変更。なお、新聞番組表では独立番組として扱われているが、ニッポン放送公式ウェブサイト内全番組表では『オールナイトニッポンGOLD』の内包番組として扱われている。
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[2月8日](../Page/2月8日.md "wikilink")から[2月11日](../Page/2月11日.md "wikilink")まで、[上田竜也](https://ja.wikipedia.org/wiki/上田竜也 "wikilink")と[中丸雄一](https://ja.wikipedia.org/wiki/中丸雄一 "wikilink")がゲスト出演し、「TTUNスペシャル」と題して放送。その週(2月10日)に発売されるKAT-TUNの新曲、Love yourself〜君が嫌いな君が好き〜に合わせて、4人がひとりずつ、「○○が嫌いな○○が好き」というコーナーを実施した。これは自分の嫌いなところを発表し、他の3人がそれをポジティブに受け止めていく、というコーナー。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[2月8日](../Page/2月8日.md "wikilink")から[2月11日](../Page/2月11日.md "wikilink")まで、[上田竜也](../Page/上田竜也.md "wikilink")と[中丸雄一](../Page/中丸雄一.md "wikilink")がゲスト出演し、「TTUNスペシャル」と題して放送。その週(2月10日)に発売されるKAT-TUNの新曲、Love yourself〜君が嫌いな君が好き〜に合わせて、4人がひとりずつ、「○○が嫌いな○○が好き」というコーナーを実施した。これは自分の嫌いなところを発表し、他の3人がそれをポジティブに受け止めていく、というコーナー。
 
 2010年[7月22日](../Page/7月22日.md "wikilink")、放送1000回をむかえ、『いい加減にせんかい！(千回)』と題して放送した。放送1回目のテープをながして、「棒読み\!」と突っ込んでいた。放送1000回を記念して、[9月20日](../Page/9月20日.md "wikilink")から[23日と](../Page/9月23日.md "wikilink")[27日から](https://ja.wikipedia.org/wiki/9月27日 "wikilink")[30日の](../Page/9月30日.md "wikilink")2週に渡り公開収録スペシャルが放送された。
 
@@ -36,7 +36,7 @@
 ## パーソナリティ
 
   - [田口淳之介](https://ja.wikipedia.org/wiki/田口淳之介 "wikilink")（番組開始 - 番組終了）
-  - [田中聖](https://ja.wikipedia.org/wiki/田中聖 "wikilink")（番組開始 - [2007年](../Page/2007年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月31日](../Page/3月31日.md "wikilink") - 番組終了）
+  - [田中聖](../Page/田中聖.md "wikilink")（番組開始 - [2007年](../Page/2007年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月31日](../Page/3月31日.md "wikilink") - 番組終了）
   - [赤西仁](https://ja.wikipedia.org/wiki/赤西仁 "wikilink")（2007年[10月1日](../Page/10月1日.md "wikilink") - 2008年[3月28日](../Page/3月28日.md "wikilink")）
 
 ## ネット局
@@ -62,7 +62,7 @@
 
 #### 2006年
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink") - [6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink") **W杯特別週間**
+  - [2006年](../Page/2006年.md "wikilink")[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink") - [6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink") **W杯特別週間**
 
 <!-- end list -->
 
@@ -70,7 +70,7 @@
     1週目 **「やらしさ選手権」**
     「優しさ選手権」宛に届いたお題に対し、どちらが[セクシー](https://ja.wikipedia.org/wiki/セクシー "wikilink")な受け答えが出来るかを競う。罰ゲームは、[ニッポン放送](../Page/ニッポン放送.md "wikilink")社屋の屋上から初恋の人の名を叫ぶ。（結果：田口 5 - 3 田中）
     2週目 **「第1回ジャニーズ王選手権」**
-    出題された[ジャニーズに関するクイズに早押しで解答する](../Page/ジャニーズ事務所.md "wikilink")。2ポイント先取でその日の勝者となり、火曜から木曜の3日間で2勝した方が勝ちとなる。罰ゲームは、[父親](https://ja.wikipedia.org/wiki/父親 "wikilink")に電話をして感謝の気持ちを伝えるというものだったが、父親が電話に出なかったため留守番電話での伝言となった。（結果: 田口 2 - 1 田中）
+    出題された[ジャニーズに関するクイズに早押しで解答する](../Page/ジャニーズ事務所.md "wikilink")。2ポイント先取でその日の勝者となり、火曜から木曜の3日間で2勝した方が勝ちとなる。罰ゲームは、[父親](../Page/父親.md "wikilink")に電話をして感謝の気持ちを伝えるというものだったが、父親が電話に出なかったため留守番電話での伝言となった。（結果: 田口 2 - 1 田中）
 
 <!-- end list -->
 
@@ -142,7 +142,7 @@
 
 <!-- end list -->
 
-  - 2007年[4月9日](../Page/4月9日.md "wikilink") - [4月13日](../Page/4月13日.md "wikilink")、[4月16日](https://ja.wikipedia.org/wiki/4月16日 "wikilink") - [4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink") **春のアポなしテレフォン 根掘り葉掘り聞いちゃいまスペシャル**
+  - 2007年[4月9日](../Page/4月9日.md "wikilink") - [4月13日](../Page/4月13日.md "wikilink")、[4月16日](../Page/4月16日.md "wikilink") - [4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink") **春のアポなしテレフォン 根掘り葉掘り聞いちゃいまスペシャル**
 
 <!-- end list -->
 
@@ -378,10 +378,10 @@
 <!-- end list -->
 
   -
-    テーマを元に[リスナー](https://ja.wikipedia.org/wiki/リスナー "wikilink")からの珍回答を募集するコーナー。実際にやったというレポートも募集している。
+    テーマを元に[リスナー](../Page/リスナー.md "wikilink")からの珍回答を募集するコーナー。実際にやったというレポートも募集している。
       -
-        [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink") - [5月8日](../Page/5月8日.md "wikilink")…「ラジオの聞き方編」
-        2006年[5月15日](../Page/5月15日.md "wikilink") - [7月3日](https://ja.wikipedia.org/wiki/7月3日 "wikilink")…「昼休みの過ごし方編」
+        [2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink") - [5月8日](../Page/5月8日.md "wikilink")…「ラジオの聞き方編」
+        2006年[5月15日](../Page/5月15日.md "wikilink") - [7月3日](../Page/7月3日.md "wikilink")…「昼休みの過ごし方編」
         2006年[7月10日](../Page/7月10日.md "wikilink") - [11月6日](../Page/11月6日.md "wikilink")…「告白の仕方編」
         2006年[11月13日](../Page/11月13日.md "wikilink") - [1月22日](../Page/1月22日.md "wikilink")…「仲直りの仕方編」
         2006年[12月18日](../Page/12月18日.md "wikilink")・[12月25日](../Page/12月25日.md "wikilink")…「年越しの仕方編」
@@ -510,7 +510,7 @@
 
 ## 連載
 
-  - KAT-TUN スタイル（月刊 [TVnavi](https://ja.wikipedia.org/wiki/TVnavi "wikilink")）
+  - KAT-TUN スタイル（月刊 [TVnavi](../Page/TVnavi.md "wikilink")）
 
 ## 脚注
 

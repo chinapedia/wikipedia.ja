@@ -1,13 +1,13 @@
 > この記事は[SIG SG552](https://ja.wikipedia.org/wiki/SIG_SG552)から翻訳されています。
 
 
-**SIG SG552**は、[スイス](../Page/スイス.md "wikilink")の[シグ](../Page/シグ.md "wikilink")社（現スイス・アームズ社）により開発された[特殊部隊](../Page/特殊部隊.md "wikilink")向け[アサルトライフル](../Page/アサルトライフル.md "wikilink")である。[SIG SG550の](../Page/SIG_SG550.md "wikilink")[コマンド](../Page/コマンド部隊.md "wikilink")[カービン](https://ja.wikipedia.org/wiki/カービン "wikilink")バージョンSIG SG551をさらにコンパクトにしたもので、ハンドガードと[銃身が短くなっている](https://ja.wikipedia.org/wiki/銃砲身 "wikilink")。現在は改良型のSG553にモデルチェンジされている。
+**SIG SG552**は、[スイス](../Page/スイス.md "wikilink")の[シグ](../Page/シグ.md "wikilink")社（現スイス・アームズ社）により開発された[特殊部隊](../Page/特殊部隊.md "wikilink")向け[アサルトライフル](../Page/アサルトライフル.md "wikilink")である。[SIG SG550の](../Page/SIG_SG550.md "wikilink")[コマンド](../Page/コマンド部隊.md "wikilink")[カービン](../Page/カービン.md "wikilink")バージョンSIG SG551をさらにコンパクトにしたもので、ハンドガードと[銃身が短くなっている](https://ja.wikipedia.org/wiki/銃砲身 "wikilink")。現在は改良型のSG553にモデルチェンジされている。
 
 ## 概要
 
-[SIG SG550と異なり](../Page/SIG_SG550.md "wikilink")、リコイルスプリングはガスピストン部ではなく[ボルトキャリアの後ろに設置される](https://ja.wikipedia.org/wiki/ボルト_\(銃\) "wikilink")。SIG SG550から標準装備であった折りたたみ[銃床](https://ja.wikipedia.org/wiki/銃床 "wikilink")が引き継がれており、遠距離では照準を確実とする。
+[SIG SG550と異なり](../Page/SIG_SG550.md "wikilink")、リコイルスプリングはガスピストン部ではなく[ボルトキャリアの後ろに設置される](https://ja.wikipedia.org/wiki/ボルト_\(銃\) "wikilink")。SIG SG550から標準装備であった折りたたみ[銃床](../Page/銃床.md "wikilink")が引き継がれており、遠距離では照準を確実とする。
 
-室内近接戦闘（[CQB](https://ja.wikipedia.org/wiki/CQB "wikilink")）などの超短距離戦では、発射可能な状態のまま銃床を折りたたむことで、銃全体を半分近くまでコンパクトにすることができる。後継のSG553ではリコイルスプリングがSG550同様、ガスピストン部に戻されている。
+室内近接戦闘（[CQB](../Page/CQB.md "wikilink")）などの超短距離戦では、発射可能な状態のまま銃床を折りたたむことで、銃全体を半分近くまでコンパクトにすることができる。後継のSG553ではリコイルスプリングがSG550同様、ガスピストン部に戻されている。
 
 このモデルは、世界中の[軍隊](../Page/軍隊.md "wikilink")や[警察](../Page/警察.md "wikilink")の[特殊部隊](../Page/特殊部隊.md "wikilink")などといった[法執行機関](https://ja.wikipedia.org/wiki/法執行機関 "wikilink")によって使用されている。
 
@@ -52,9 +52,9 @@
 
 :; 『[スティーヴ・オースティン S.W.A.T.](https://ja.wikipedia.org/wiki/スティーヴ・オースティン_S.W.A.T. "wikilink")』
 
-:; 『[バイオハザードII アポカリプス](https://ja.wikipedia.org/wiki/バイオハザードII_アポカリプス "wikilink")』
+:; 『[バイオハザードII アポカリプス](../Page/バイオハザードII_アポカリプス.md "wikilink")』
 
-:: ラクーンシティ警察[特殊部隊](../Page/特殊部隊.md "wikilink")「[S.T.A.R.S.](https://ja.wikipedia.org/wiki/S.T.A.R.S. "wikilink")」がフォアグリップと[タクティカルライトを装着したものを](https://ja.wikipedia.org/wiki/懐中電灯 "wikilink")、CSA隊員がダットサイト、タクティカルライト、レーザーサイトを装着したものを使用する。
+:: ラクーンシティ警察[特殊部隊](../Page/特殊部隊.md "wikilink")「[S.T.A.R.S.](https://ja.wikipedia.org/wiki/S.T.A.R.S. "wikilink")」がフォアグリップと[タクティカルライトを装着したものを](../Page/懐中電灯.md "wikilink")、CSA隊員がダットサイト、タクティカルライト、レーザーサイトを装着したものを使用する。
 
 ::; 『[バイオハザードV リトリビューション](https://ja.wikipedia.org/wiki/バイオハザードV_リトリビューション "wikilink")』
 
@@ -63,7 +63,7 @@
       -
         アリス救出チームの1人、[レオン・S・ケネディ](https://ja.wikipedia.org/wiki/レオン・S・ケネディ "wikilink")がEO Tech社製ホロサイトとタクティカルライトを装着したものを使用する。
 
-:; 『[マイアミ・バイス](https://ja.wikipedia.org/wiki/マイアミ・バイス_\(映画\) "wikilink")』
+:; 『[マイアミ・バイス](../Page/マイアミ・バイス_\(映画\).md "wikilink")』
 
 :: ジェームズ・ソニー・クロケットが使用。
 
@@ -76,7 +76,7 @@
   -
 
       -
-        ヒューゴーが使用（[赤外線](../Page/赤外線.md "wikilink")[スコープ付き](https://ja.wikipedia.org/wiki/照準器 "wikilink")）。
+        ヒューゴーが使用（[赤外線](../Page/赤外線.md "wikilink")[スコープ付き](../Page/照準器.md "wikilink")）。
 
 ### 漫画・アニメ
 
@@ -121,7 +121,7 @@
   -
 
       -
-        主人公とヒロインの未但馬裕佳梨が所持している。[タクティカルライトと](https://ja.wikipedia.org/wiki/懐中電灯 "wikilink")[ホロサイトを装着している](https://ja.wikipedia.org/wiki/照準器#オプティカルサイト（Optical_sight） "wikilink")。
+        主人公とヒロインの未但馬裕佳梨が所持している。[タクティカルライトと](../Page/懐中電灯.md "wikilink")[ホロサイトを装着している](https://ja.wikipedia.org/wiki/照準器#オプティカルサイト（Optical_sight） "wikilink")。
 
 ### ゲーム
 
@@ -138,7 +138,7 @@
 
 :; 『[Alliance of Valiant Arms](https://ja.wikipedia.org/wiki/Alliance_of_Valiant_Arms "wikilink")』
 
-:: 「SG552 Commando」という名称で、ゲーム内[兵科](https://ja.wikipedia.org/wiki/兵科 "wikilink")「ポイントマン」のメイン[武器](../Page/武器.md "wikilink")として登場。改造すると「SG552 RIS」と言う武器になり、カスタムパーツが装着可能になる。
+:: 「SG552 Commando」という名称で、ゲーム内[兵科](../Page/兵科.md "wikilink")「ポイントマン」のメイン[武器](../Page/武器.md "wikilink")として登場。改造すると「SG552 RIS」と言う武器になり、カスタムパーツが装着可能になる。
 
 :; 『[Far Cry 3](https://ja.wikipedia.org/wiki/Far_Cry_3 "wikilink")』
 
@@ -156,7 +156,7 @@
 
 :: [テロリストのアサルトクラスが装備可能](https://ja.wikipedia.org/wiki/テロリズム "wikilink")。
 
-:; 『[カウンターストライク](https://ja.wikipedia.org/wiki/カウンターストライク "wikilink")』
+:; 『[カウンターストライク](../Page/カウンターストライク.md "wikilink")』
 
 :: 「SSG552」という名称で登場。
 
@@ -168,15 +168,15 @@
 
 :: 「S552」の名称で登場。
 
-:; 『[バトルフィールドシリーズ](https://ja.wikipedia.org/wiki/バトルフィールド_\(コンピューターゲーム\) "wikilink")』
+:; 『[バトルフィールドシリーズ](../Page/バトルフィールド_\(コンピューターゲーム\).md "wikilink")』
 
 ::; 『[BF3](https://ja.wikipedia.org/wiki/バトルフィールド3 "wikilink")』
 
-::: マルチプレイで[工兵](../Page/工兵.md "wikilink")が使用できる[カービン](https://ja.wikipedia.org/wiki/カービン "wikilink")ライフルとしてSG553が登場。
+::: マルチプレイで[工兵](../Page/工兵.md "wikilink")が使用できる[カービン](../Page/カービン.md "wikilink")ライフルとしてSG553が登場。
 
 ::; 『[BF4](https://ja.wikipedia.org/wiki/バトルフィールド4 "wikilink")』
 
-::: 全[兵科](https://ja.wikipedia.org/wiki/兵科 "wikilink")共通のカービンライフルとしてSG553が登場。
+::: 全[兵科](../Page/兵科.md "wikilink")共通のカービンライフルとしてSG553が登場。
 
 ::; 『[BFH](https://ja.wikipedia.org/wiki/バトルフィールド_ハードライン "wikilink")』
 
@@ -191,7 +191,7 @@
   -
 
       -
-        [ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[特殊部隊](../Page/特殊部隊.md "wikilink")「[GSG-9](https://ja.wikipedia.org/wiki/GSG-9 "wikilink")」の攻撃側オペレーターの「IQ」のみ使用できる武器として「552 Command」という名前で登場。発売当初はメインウェポン中最強の威力を誇っていたが、何度かバージョンが入ったことにより弱体化している。
+        [ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[特殊部隊](../Page/特殊部隊.md "wikilink")「[GSG-9](../Page/GSG-9.md "wikilink")」の攻撃側オペレーターの「IQ」のみ使用できる武器として「552 Command」という名前で登場。発売当初はメインウェポン中最強の威力を誇っていたが、何度かバージョンが入ったことにより弱体化している。
 
 :; 『[レッドクルシブル2](https://ja.wikipedia.org/wiki/レッドクルシブル2 "wikilink")』
 

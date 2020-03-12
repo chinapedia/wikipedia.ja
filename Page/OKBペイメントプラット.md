@@ -1,7 +1,7 @@
 > この記事は[OKB](https://ja.wikipedia.org/wiki/OKB)から翻訳されています。
 
 
-**OKBペイメントプラット**（きょうりつクレジット）は、[大垣共立銀行](../Page/大垣共立銀行.md "wikilink")の系列会社であり、[UCカードのブラザーズカンパニーであるとともに](https://ja.wikipedia.org/wiki/ユーシーカード "wikilink")、[三菱UFJニコス](https://ja.wikipedia.org/wiki/三菱UFJニコス "wikilink")（[MUFGカード](../Page/MUFGカード.md "wikilink")）、[JCBカードの](../Page/ジェーシービー.md "wikilink")[フランチャイジー](https://ja.wikipedia.org/wiki/フランチャイジー "wikilink")である。旧共立クレジット。
+**OKBペイメントプラット**（きょうりつクレジット）は、[大垣共立銀行](../Page/大垣共立銀行.md "wikilink")の系列会社であり、[UCカードのブラザーズカンパニーであるとともに](../Page/ユーシーカード.md "wikilink")、[三菱UFJニコス](../Page/三菱UFJニコス.md "wikilink")（[MUFGカード](../Page/MUFGカード.md "wikilink")）、[JCBカードの](../Page/ジェーシービー.md "wikilink")[フランチャイジー](https://ja.wikipedia.org/wiki/フランチャイジー "wikilink")である。旧共立クレジット。
 
 ## 概要
 

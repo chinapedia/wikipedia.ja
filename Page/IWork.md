@@ -1,9 +1,9 @@
 > この記事は[IWork](https://ja.wikipedia.org/wiki/IWork)から翻訳されています。
 
 
-**iWork**（アイワーク）とは、[アップルが開発](../Page/アップル_\(企業\).md "wikilink")・販売しているソフトウェア製品（[オフィススイート](../Page/オフィススイート.md "wikilink")）である。「iWork」とは、[ワープロソフト](../Page/ワープロソフト.md "wikilink")([Pages](https://ja.wikipedia.org/wiki/Pages "wikilink"))、[プレゼンテーションソフトウェア](../Page/プレゼンテーションソフトウェア.md "wikilink")([Keynote](../Page/Keynote.md "wikilink"))、[表計算ソフト](../Page/表計算ソフト.md "wikilink")([Numbers](../Page/Numbers_\(ソフトウェア\).md "wikilink"))の3つをまとめての呼称である。[2013年](../Page/2013年.md "wikilink")[10月22日](../Page/10月22日.md "wikilink")以降は、MacやiOS機器の新規購入者に対して無料で提供されている。
+**iWork**（アイワーク）とは、[アップルが開発](../Page/アップル_\(企業\).md "wikilink")・販売しているソフトウェア製品（[オフィススイート](../Page/オフィススイート.md "wikilink")）である。「iWork」とは、[ワープロソフト](../Page/ワープロソフト.md "wikilink")([Pages](../Page/Pages.md "wikilink"))、[プレゼンテーションソフトウェア](../Page/プレゼンテーションソフトウェア.md "wikilink")([Keynote](../Page/Keynote.md "wikilink"))、[表計算ソフト](../Page/表計算ソフト.md "wikilink")([Numbers](../Page/Numbers_\(ソフトウェア\).md "wikilink"))の3つをまとめての呼称である。[2013年](../Page/2013年.md "wikilink")[10月22日](../Page/10月22日.md "wikilink")以降は、MacやiOS機器の新規購入者に対して無料で提供されている。
 
-リリース当初〜iWork '09リリース頃までは[AppleWorks](https://ja.wikipedia.org/wiki/AppleWorks "wikilink")の後継としてパッケージ販売されている製品であったが、Keynote, Pages, Numbersがそれぞれ単独販売になりiOS対応製品の追加を経て、2015年現在は[iCloud](https://ja.wikipedia.org/wiki/iCloud "wikilink")との連携でiWork for iCoudとしてマルチプラットフォーム化を果たす等、製品の多様性強化が進んでいる。
+リリース当初〜iWork '09リリース頃までは[AppleWorks](../Page/AppleWorks.md "wikilink")の後継としてパッケージ販売されている製品であったが、Keynote, Pages, Numbersがそれぞれ単独販売になりiOS対応製品の追加を経て、2015年現在は[iCloud](https://ja.wikipedia.org/wiki/iCloud "wikilink")との連携でiWork for iCoudとしてマルチプラットフォーム化を果たす等、製品の多様性強化が進んでいる。
 
 ## 概要
 
@@ -11,11 +11,11 @@ iWorkは、2005年、[プレゼンテーションソフト](https://ja.wikipedia
 
 ## 歴史
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")1月 - それまで単独製品であった[Keynote](../Page/Keynote.md "wikilink")が、新たに登場した[Pages](https://ja.wikipedia.org/wiki/Pages "wikilink")とセットになり、「iWork '05」として販売開始。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")1月 - 「iWork '06」発売開始。[ユニバーサルバイナリ](https://ja.wikipedia.org/wiki/ユニバーサルバイナリ "wikilink")化。
+  - [2005年](../Page/2005年.md "wikilink")1月 - それまで単独製品であった[Keynote](../Page/Keynote.md "wikilink")が、新たに登場した[Pages](../Page/Pages.md "wikilink")とセットになり、「iWork '05」として販売開始。
+  - [2006年](../Page/2006年.md "wikilink")1月 - 「iWork '06」発売開始。[ユニバーサルバイナリ](https://ja.wikipedia.org/wiki/ユニバーサルバイナリ "wikilink")化。
   - [2007年](../Page/2007年.md "wikilink")8月 - 「iWork '08」発売開始。新たに[Numbersが追加される](../Page/Numbers_\(ソフトウェア\).md "wikilink")。
   - [2009年](../Page/2009年.md "wikilink")1月6日 - 「iWork '09」(9.0)発売開始。Mac OS X Tiger v10.4.11以降対応。iWork '09で作った文書、スプレッドシート、プレゼンテーションが手軽に共有出来る**iWork.com**(beta)が発表される。
-  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink") - iWork for [iPad](https://ja.wikipedia.org/wiki/iPad "wikilink")発売開始。3つのアプリケーションは単品発売されている。
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月3日](../Page/4月3日.md "wikilink") - iWork for [iPad](https://ja.wikipedia.org/wiki/iPad "wikilink")発売開始。3つのアプリケーションは単品発売されている。
   - [2011年](../Page/2011年.md "wikilink")[1月6日](../Page/1月6日.md "wikilink") - [Mac App StoreでMac](https://ja.wikipedia.org/wiki/Mac_App_Store "wikilink") OS X版の3つのアプリケーションが単品発売開始。
   - 2011年[5月31日](../Page/5月31日.md "wikilink") - [iPad](https://ja.wikipedia.org/wiki/iPad "wikilink")版がユニバーサルアプリケーション化し、[iOS全般に対応](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")。
   - 2011年[7月20日](../Page/7月20日.md "wikilink") - iWork 9.1リリース。Mac OS X Lionの、フルスクリーン、再開、自動保存、バージョンの機能サポート追加\[2\]。

@@ -1,13 +1,13 @@
 > この記事は[UEFA EURO 2000](https://ja.wikipedia.org/wiki/UEFA_EURO_2000)から翻訳されています。
 
 
-**UEFA EURO 2000決勝**は、[2000年](../Page/2000年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink")、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")・[ロッテルダム](../Page/ロッテルダム.md "wikilink")の[フェイエノールト・スタディオン](https://ja.wikipedia.org/wiki/フェイエノールト・スタディオン "wikilink")で行われた。[フランスが](../Page/サッカーフランス代表.md "wikilink")[イタリアに延長](../Page/サッカーイタリア代表.md "wikilink")[ゴールデンゴール](../Page/ゴールデンゴール.md "wikilink")で逆転勝ちし優勝を決めた。
+**UEFA EURO 2000決勝**は、[2000年](../Page/2000年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink")、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")・[ロッテルダム](../Page/ロッテルダム.md "wikilink")の[フェイエノールト・スタディオン](../Page/フェイエノールト・スタディオン.md "wikilink")で行われた。[フランスが](../Page/サッカーフランス代表.md "wikilink")[イタリアに延長](../Page/サッカーイタリア代表.md "wikilink")[ゴールデンゴール](../Page/ゴールデンゴール.md "wikilink")で逆転勝ちし優勝を決めた。
 
 ## 試合経過
 
-後半10分に[マルコ・デルヴェッキオ](../Page/マルコ・デルヴェッキオ.md "wikilink")のゴールでイタリアが先制。その後フランスは何度もチャンスを掴むがイタリアの堅い守備に阻まれ、得点ならず。このまま試合はロスタイムに突入。イタリアの優勝が目前に迫まる中、[シルヴァン・ヴィルトール](https://ja.wikipedia.org/wiki/シルヴァン・ヴィルトール "wikilink")がゴールを決め、土壇場で1-1の同点に追いついた。
+後半10分に[マルコ・デルヴェッキオ](../Page/マルコ・デルヴェッキオ.md "wikilink")のゴールでイタリアが先制。その後フランスは何度もチャンスを掴むがイタリアの堅い守備に阻まれ、得点ならず。このまま試合はロスタイムに突入。イタリアの優勝が目前に迫まる中、[シルヴァン・ヴィルトール](../Page/シルヴァン・ヴィルトール.md "wikilink")がゴールを決め、土壇場で1-1の同点に追いついた。
 
-試合は延長戦に突入。勢いに乗るフランスは延長前半13分に[ダヴィド・トレゼゲ](https://ja.wikipedia.org/wiki/ダヴィド・トレゼゲ "wikilink")が[ゴールデンゴール](../Page/ゴールデンゴール.md "wikilink")を決め、2-1で勝利。[1984年大会以来](../Page/UEFA欧州選手権1984.md "wikilink")2度目の優勝を果たした。また、この優勝で史上初となる「[W杯](https://ja.wikipedia.org/wiki/FIFAワールドカップ "wikilink")→[EURO連覇](https://ja.wikipedia.org/wiki/UEFA欧州選手権 "wikilink")」達成となった\[1\]。
+試合は延長戦に突入。勢いに乗るフランスは延長前半13分に[ダヴィド・トレゼゲ](../Page/ダヴィド・トレゼゲ.md "wikilink")が[ゴールデンゴール](../Page/ゴールデンゴール.md "wikilink")を決め、2-1で勝利。[1984年大会以来](../Page/UEFA欧州選手権1984.md "wikilink")2度目の優勝を果たした。また、この優勝で史上初となる「[W杯](../Page/FIFAワールドカップ.md "wikilink")→[EURO連覇](../Page/UEFA欧州選手権.md "wikilink")」達成となった\[1\]。
 
 ## 試合結果
 
@@ -84,7 +84,7 @@
 <td><p><strong>監督</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ロジェ・ルメール" title="wikilink">ロジェ・ルメール</a></p></td>
+<td><p><a href="../Page/ロジェ・ルメール.md" title="wikilink">ロジェ・ルメール</a></p></td>
 </tr>
 </tbody>
 </table></td>
@@ -188,7 +188,7 @@
 ## 外部リンク
 
   - [French passion fits final](http://usproxy.bbc.com/2/hi/euro2000/teams/france/817520.stm)
-  - [Host nations: Holland and Belgium Winners: France](http://soccernet.espn.go.com/feature?id=530723&cc=4716) ([ESPN](https://ja.wikipedia.org/wiki/ESPN "wikilink"))
+  - [Host nations: Holland and Belgium Winners: France](http://soccernet.espn.go.com/feature?id=530723&cc=4716) ([ESPN](../Page/ESPN.md "wikilink"))
 
 [Category:サッカーの試合](https://ja.wikipedia.org/wiki/Category:サッカーの試合 "wikilink") [Category:UEFA_EURO_2000](https://ja.wikipedia.org/wiki/Category:UEFA_EURO_2000 "wikilink") [Category:ロッテルダムのスポーツ競技大会](https://ja.wikipedia.org/wiki/Category:ロッテルダムのスポーツ競技大会 "wikilink") [Category:サッカーフランス代表](https://ja.wikipedia.org/wiki/Category:サッカーフランス代表 "wikilink") [Category:サッカーイタリア代表](https://ja.wikipedia.org/wiki/Category:サッカーイタリア代表 "wikilink") [Category:イタリア・フランス関係](https://ja.wikipedia.org/wiki/Category:イタリア・フランス関係 "wikilink")
 

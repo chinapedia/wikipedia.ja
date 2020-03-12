@@ -1,22 +1,22 @@
 > この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
 
 
-**パース・グローリー・フットボール・クラブ** () は、[オーストラリア](https://ja.wikipedia.org/wiki/オーストラリア "wikilink")の西部、[西オーストラリア州](https://ja.wikipedia.org/wiki/西オーストラリア州 "wikilink")の州都[パースをホームタウンとする](https://ja.wikipedia.org/wiki/パース_\(西オーストラリア州\) "wikilink")、オーストラリアプロサッカーリーグ（[Aリーグ](https://ja.wikipedia.org/wiki/Aリーグ "wikilink")）に加盟するプロサッカークラブ。
+**パース・グローリー・フットボール・クラブ** () は、[オーストラリア](../Page/オーストラリア.md "wikilink")の西部、[西オーストラリア州](../Page/西オーストラリア州.md "wikilink")の州都[パースをホームタウンとする](../Page/パース_\(西オーストラリア州\).md "wikilink")、オーストラリアプロサッカーリーグ（[Aリーグ](../Page/Aリーグ.md "wikilink")）に加盟するプロサッカークラブ。
 
 ## 概要
 
-[1996年](../Page/1996年.md "wikilink")発足。1996/97シーズンから[オーストラリアン・ナショナルサッカーリーグ](https://ja.wikipedia.org/wiki/オーストラリアン・ナショナルサッカーリーグ "wikilink")に参戦。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に開幕した[Aリーグ](https://ja.wikipedia.org/wiki/Aリーグ "wikilink")には、初年度から参戦している。
+[1996年](../Page/1996年.md "wikilink")発足。1996/97シーズンから[オーストラリアン・ナショナルサッカーリーグ](../Page/オーストラリアン・ナショナルサッカーリーグ.md "wikilink")に参戦。[2005年](../Page/2005年.md "wikilink")に開幕した[Aリーグ](../Page/Aリーグ.md "wikilink")には、初年度から参戦している。
 
 ## タイトル
 
 ### 国内タイトル
 
-  - '''[オーストラリアン・ナショナルサッカーリーグ](https://ja.wikipedia.org/wiki/オーストラリアン・ナショナルサッカーリーグ "wikilink")
+  - '''[オーストラリアン・ナショナルサッカーリーグ](../Page/オーストラリアン・ナショナルサッカーリーグ.md "wikilink")
       - **レギュラーシーズン：3回**
           - 1999-2000, 2001-2002, 2003-2004
       - **ファイナルシリーズ：2回**
           - 2002-2003, 2003-2004
-  - **[Aリーグ](https://ja.wikipedia.org/wiki/Aリーグ "wikilink")**
+  - **[Aリーグ](../Page/Aリーグ.md "wikilink")**
       - **レギュラーシーズン：1回**
           - 2018-2019
 

@@ -7,7 +7,7 @@ BeBox が登場したのは[1995年](https://ja.wikipedia.org/wiki/1995年 "wiki
 
 ## ハードウェア仕様
 
-初期のプロトタイプには、[AT\&T](../Page/AT&T.md "wikilink") の [Hobbit](https://ja.wikipedia.org/wiki/Hobbit "wikilink") プロセッサが2基と、AT\&T 9308S [DSP](https://ja.wikipedia.org/wiki/デジタルシグナルプロセッサ "wikilink") が3基搭載されていた。
+初期のプロトタイプには、[AT\&T](../Page/AT&T.md "wikilink") の [Hobbit](https://ja.wikipedia.org/wiki/Hobbit "wikilink") プロセッサが2基と、AT\&T 9308S [DSP](../Page/デジタルシグナルプロセッサ.md "wikilink") が3基搭載されていた。
 
 以下は量産モデルのスペックである。
 

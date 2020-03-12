@@ -1,9 +1,9 @@
 > この記事は[R25cafe](https://ja.wikipedia.org/wiki/R25cafe)から翻訳されています。
 
 
-[260px](https://ja.wikipedia.org/wiki/ファイル:R25cafe.JPG "wikilink") **R25 cafe**（アール25カフェ）は、かつて[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[中央区](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")[銀座](https://ja.wikipedia.org/wiki/銀座 "wikilink")7丁目の[リクルートビル](https://ja.wikipedia.org/wiki/リクルートホールディングス "wikilink")（現 [ヒューリック銀座7丁目ビル](https://ja.wikipedia.org/wiki/ヒューリック銀座7丁目ビル "wikilink")）1階にあった[カフェ](https://ja.wikipedia.org/wiki/カフェ "wikilink")の名前。リクルートが運営する。[フリーペーパー](https://ja.wikipedia.org/wiki/フリーペーパー "wikilink")の[R25が創刊されてから](https://ja.wikipedia.org/wiki/R25_\(雑誌\) "wikilink")2周年を記念して造られ、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（[平成](../Page/平成.md "wikilink")18年）[7月6日](../Page/7月6日.md "wikilink")にオープンした。「仕事の合間の10分間の止まり木」をコンセプトにしており、[公衆無線LAN](../Page/公衆無線LAN.md "wikilink")や電源用のコンセントが整備されていた。カウンターには、[ノートパソコン](../Page/ノートパソコン.md "wikilink")や[iPad](https://ja.wikipedia.org/wiki/iPad "wikilink")も常設されていた。
+[260px](https://ja.wikipedia.org/wiki/ファイル:R25cafe.JPG "wikilink") **R25 cafe**（アール25カフェ）は、かつて[東京都](../Page/東京都.md "wikilink")[中央区](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")[銀座](https://ja.wikipedia.org/wiki/銀座 "wikilink")7丁目の[リクルートビル](../Page/リクルートホールディングス.md "wikilink")（現 [ヒューリック銀座7丁目ビル](https://ja.wikipedia.org/wiki/ヒューリック銀座7丁目ビル "wikilink")）1階にあった[カフェ](../Page/カフェ.md "wikilink")の名前。リクルートが運営する。[フリーペーパー](../Page/フリーペーパー.md "wikilink")の[R25が創刊されてから](../Page/R25_\(雑誌\).md "wikilink")2周年を記念して造られ、[2006年](../Page/2006年.md "wikilink")（[平成](../Page/平成.md "wikilink")18年）[7月6日](../Page/7月6日.md "wikilink")にオープンした。「仕事の合間の10分間の止まり木」をコンセプトにしており、[公衆無線LAN](../Page/公衆無線LAN.md "wikilink")や電源用のコンセントが整備されていた。カウンターには、[ノートパソコン](../Page/ノートパソコン.md "wikilink")や[iPad](https://ja.wikipedia.org/wiki/iPad "wikilink")も常設されていた。
 
-店内にはR25やL25が置いてあり、軽食をとることができた。コーヒーの上に「R25」の文字を書く[コーヒーアート](https://ja.wikipedia.org/wiki/コーヒーアート "wikilink")が特徴的。オリジナルの[コーヒーカップ](https://ja.wikipedia.org/wiki/コーヒーカップ "wikilink")も置いており、限定品であった。 カフェは[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[シアトル](../Page/シアトル.md "wikilink")にあるコーヒーショップ「[ZOKA](https://ja.wikipedia.org/wiki/ZOKA "wikilink")（ゾッカ）」とコラボレーションしてオープンしたものであった。
+店内にはR25やL25が置いてあり、軽食をとることができた。コーヒーの上に「R25」の文字を書く[コーヒーアート](https://ja.wikipedia.org/wiki/コーヒーアート "wikilink")が特徴的。オリジナルの[コーヒーカップ](../Page/コーヒーカップ.md "wikilink")も置いており、限定品であった。 カフェは[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[シアトル](../Page/シアトル.md "wikilink")にあるコーヒーショップ「[ZOKA](https://ja.wikipedia.org/wiki/ZOKA "wikilink")（ゾッカ）」とコラボレーションしてオープンしたものであった。
 
 また、リクルートの企業メッセージ『まだ、ここにない、出会い。』をコンセプトとして、季節ごとにリクルート社の商品サービスを紹介するショールームカフェイベントが行われていた。
 
@@ -15,7 +15,7 @@
 
 ## 関連項目
 
-  - [R25 (雑誌)](https://ja.wikipedia.org/wiki/R25_\(雑誌\) "wikilink")
+  - [R25 (雑誌)](../Page/R25_\(雑誌\).md "wikilink")
   - [L25 (雑誌)](../Page/L25_\(雑誌\).md "wikilink")
   - [ZOKA](https://ja.wikipedia.org/wiki/ZOKA "wikilink")
 

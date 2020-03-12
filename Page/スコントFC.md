@@ -77,11 +77,11 @@
 
 ### GK
 
-  - [アレクサンドルス・コリンコ](https://ja.wikipedia.org/wiki/アレクサンドルス・コリンコ "wikilink") 1996
+  - [アレクサンドルス・コリンコ](../Page/アレクサンドルス・コリンコ.md "wikilink") 1996
 
 ### DF
 
-  - [イグナス・デドゥラ](https://ja.wikipedia.org/wiki/イグナス・デドゥラ "wikilink") 2001-2004
+  - [イグナス・デドゥラ](../Page/イグナス・デドゥラ.md "wikilink") 2001-2004
 
 ### MF
 
@@ -97,13 +97,13 @@
 
 ### FW
 
-  - [マリアン・パハース](https://ja.wikipedia.org/wiki/マリアン・パハース "wikilink") 1995-1998
+  - [マリアン・パハース](../Page/マリアン・パハース.md "wikilink") 1995-1998
 
   - [マーリス・ヴェルパコフスキス](../Page/マーリス・ヴェルパコフスキス.md "wikilink") 2001-2003
 
   - [ウラジーミル・ドバリシビリ](https://ja.wikipedia.org/wiki/ウラジーミル・ドバリシビリ "wikilink") 2008-2009
 
-  - [エドガラス・ヤンカウスカス](https://ja.wikipedia.org/wiki/エドガラス・ヤンカウスカス "wikilink") 2008
+  - [エドガラス・ヤンカウスカス](../Page/エドガラス・ヤンカウスカス.md "wikilink") 2008
 
 ## 外部リンク
 

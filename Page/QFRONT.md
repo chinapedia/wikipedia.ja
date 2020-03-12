@@ -1,17 +1,17 @@
 > この記事は[QFRONT](https://ja.wikipedia.org/wiki/QFRONT)から翻訳されています。
 
 
-**QFRONT**（キューフロント）は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")にある商業ビル。
+**QFRONT**（キューフロント）は、[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")にある商業ビル。
 
 ## 概要
 
 [渋谷スクランブル交差点](https://ja.wikipedia.org/wiki/渋谷スクランブル交差点 "wikilink")前に立地する。1960年から1998年まで同地に存在していた「峰岸ビル」を建て替え、[東急百貨店さっぽろ店](https://ja.wikipedia.org/wiki/東急百貨店さっぽろ店 "wikilink")などの不動産を管理する同社子会社の札幌プラザ株式会社が事業主となり1999年12月に竣工した。
 
-壁面の大部分がガラス貼りでその内側に大型の[街頭ビジョン](https://ja.wikipedia.org/wiki/街頭ビジョン "wikilink")「キューズ・アイ（Q's EYE）」が設置されており、渋谷スクランブル交差点周辺の[ランドマーク](https://ja.wikipedia.org/wiki/ランドマーク "wikilink")となっている。建物脇には[渋谷センター街](../Page/渋谷センター街.md "wikilink")入口がある。
+壁面の大部分がガラス貼りでその内側に大型の[街頭ビジョン](https://ja.wikipedia.org/wiki/街頭ビジョン "wikilink")「キューズ・アイ（Q's EYE）」が設置されており、渋谷スクランブル交差点周辺の[ランドマーク](../Page/ランドマーク.md "wikilink")となっている。建物脇には[渋谷センター街](../Page/渋谷センター街.md "wikilink")入口がある。
 
-キューズ・アイは各企業が出稿した[コマーシャルを流している](https://ja.wikipedia.org/wiki/コマーシャルメッセージ "wikilink")。中央の「メインビジョン」（横13m×縦7.7m）とその周囲を取り囲むように設置されている「アートビジョン」（横19m×縦23.9m）の2種類の[LED](https://ja.wikipedia.org/wiki/LED "wikilink")ディスプレイで構成されている。メインビジョンは[HD画質の放映に対応](../Page/高精細度ビデオ.md "wikilink")。メインビジョンとアートビジョンを連動させることで1200[インチ](../Page/インチ.md "wikilink")の一つの巨大画面として使用することもできる。過去には「message a 55」と呼ばれる特別番組があり、ルールに則した内容のコンテンツならば、個人を対象にイラストや映像等で作成したメッセージをキューズ・アイに流してもらうことができた。
+キューズ・アイは各企業が出稿した[コマーシャルを流している](../Page/コマーシャルメッセージ.md "wikilink")。中央の「メインビジョン」（横13m×縦7.7m）とその周囲を取り囲むように設置されている「アートビジョン」（横19m×縦23.9m）の2種類の[LED](https://ja.wikipedia.org/wiki/LED "wikilink")ディスプレイで構成されている。メインビジョンは[HD画質の放映に対応](../Page/高精細度ビデオ.md "wikilink")。メインビジョンとアートビジョンを連動させることで1200[インチ](../Page/インチ.md "wikilink")の一つの巨大画面として使用することもできる。過去には「message a 55」と呼ばれる特別番組があり、ルールに則した内容のコンテンツならば、個人を対象にイラストや映像等で作成したメッセージをキューズ・アイに流してもらうことができた。
 
-不動産は2002年に札幌プラザ親会社の[東急百貨店](../Page/東急百貨店.md "wikilink")が[証券化](https://ja.wikipedia.org/wiki/証券化 "wikilink")を実施し[特別目的会社](https://ja.wikipedia.org/wiki/特別目的会社 "wikilink")であるキューエフ・アセット・ファンディング有限会社に信託受益権を売却。2003年9月に[東急リアル・エステート投資法人](https://ja.wikipedia.org/wiki/東急リアル・エステート投資法人 "wikilink")が同社から信託受益権を取得している。
+不動産は2002年に札幌プラザ親会社の[東急百貨店](../Page/東急百貨店.md "wikilink")が[証券化](../Page/証券化.md "wikilink")を実施し[特別目的会社](https://ja.wikipedia.org/wiki/特別目的会社 "wikilink")であるキューエフ・アセット・ファンディング有限会社に信託受益権を売却。2003年9月に[東急リアル・エステート投資法人](https://ja.wikipedia.org/wiki/東急リアル・エステート投資法人 "wikilink")が同社から信託受益権を取得している。
 
 
 
@@ -43,7 +43,7 @@
 
   - [東急グループ](https://ja.wikipedia.org/wiki/東急グループ "wikilink")
   - [東急百貨店](../Page/東急百貨店.md "wikilink")
-  - [109 (商業施設)](https://ja.wikipedia.org/wiki/109_\(商業施設\) "wikilink")
+  - [109 (商業施設)](../Page/109_\(商業施設\).md "wikilink")
   - [TSUTAYA](https://ja.wikipedia.org/wiki/TSUTAYA "wikilink")
   - [スターバックス](../Page/スターバックス.md "wikilink")
   - [里見甫](../Page/里見甫.md "wikilink")

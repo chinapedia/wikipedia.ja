@@ -1,19 +1,19 @@
 > この記事は[Maika \(AV\)](https://ja.wikipedia.org/wiki/Maika_\(AV\))から翻訳されています。
 
 
-**Maika**（まいか、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[5月15日](../Page/5月15日.md "wikilink") - ）は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身の元[AV女優](../Page/AV女優.md "wikilink")。
+**Maika**（まいか、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[5月15日](../Page/5月15日.md "wikilink") - ）は、[東京都](../Page/東京都.md "wikilink")出身の元[AV女優](../Page/AV女優.md "wikilink")。
 
 ## 略歴
 
-[2004年](../Page/2004年.md "wikilink")11月に**MEW**として『新人 MEW 僕ラハコノ娘ニ恋ヲスル』で[エスワン](https://ja.wikipedia.org/wiki/エスワン "wikilink")スタートと同時にAVデビュー。同年行われた[アウトビジョン](https://ja.wikipedia.org/wiki/アウトビジョン "wikilink")の大忘年会で、エスワンの最優秀新人賞に選ばれた\[1\]。
+[2004年](../Page/2004年.md "wikilink")11月に**MEW**として『新人 MEW 僕ラハコノ娘ニ恋ヲスル』で[エスワン](../Page/エスワン.md "wikilink")スタートと同時にAVデビュー。同年行われた[アウトビジョン](https://ja.wikipedia.org/wiki/アウトビジョン "wikilink")の大忘年会で、エスワンの最優秀新人賞に選ばれた\[1\]。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に[CROSS（有限会社古松映像クロス事業部）初の専属女優になった](https://ja.wikipedia.org/wiki/CROSS_\(アダルトビデオ\) "wikilink")。
+[2006年](../Page/2006年.md "wikilink")に[CROSS（有限会社古松映像クロス事業部）初の専属女優になった](../Page/CROSS_\(アダルトビデオ\).md "wikilink")。
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に**Maika**に改名、[ティーパワーズ](https://ja.wikipedia.org/wiki/ティーパワーズ "wikilink")所属。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に**Maika**に改名、[ティーパワーズ](../Page/ティーパワーズ.md "wikilink")所属。
 
-[2012年](../Page/2012年.md "wikilink")2月11日、[桜ここみ](https://ja.wikipedia.org/wiki/桜ここみ "wikilink")、成瀬心美、[めぐり](https://ja.wikipedia.org/wiki/めぐり_\(AV女優\) "wikilink")（藤浦めぐ）、[神咲詩織](https://ja.wikipedia.org/wiki/神咲詩織 "wikilink")、[Maikaによる](https://ja.wikipedia.org/wiki/MEW_\(AV女優\) "wikilink")5人組のユニット「“me-me”（ミーム）」でデビューライブを行った。5人のリーダーは彼女が務めた\[2\]。同年4月、[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")で放送されている[ビ〜チ9](https://ja.wikipedia.org/wiki/ビ〜チ9 "wikilink")に[インフルエンザ](https://ja.wikipedia.org/wiki/インフルエンザ "wikilink")に罹った神咲詩織の代役として出演しMCを担当した\[3\]。11月1日、成瀬心美・Maika・神咲詩織・桜ここみの4人で、me-me(ミーム)のライブを9ヶ月ぶりに実施した\[4\]。
+[2012年](../Page/2012年.md "wikilink")2月11日、[桜ここみ](https://ja.wikipedia.org/wiki/桜ここみ "wikilink")、成瀬心美、[めぐり](https://ja.wikipedia.org/wiki/めぐり_\(AV女優\) "wikilink")（藤浦めぐ）、[神咲詩織](https://ja.wikipedia.org/wiki/神咲詩織 "wikilink")、[Maikaによる](https://ja.wikipedia.org/wiki/MEW_\(AV女優\) "wikilink")5人組のユニット「“me-me”（ミーム）」でデビューライブを行った。5人のリーダーは彼女が務めた\[2\]。同年4月、[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")で放送されている[ビ〜チ9](https://ja.wikipedia.org/wiki/ビ〜チ9 "wikilink")に[インフルエンザ](../Page/インフルエンザ.md "wikilink")に罹った神咲詩織の代役として出演しMCを担当した\[3\]。11月1日、成瀬心美・Maika・神咲詩織・桜ここみの4人で、me-me(ミーム)のライブを9ヶ月ぶりに実施した\[4\]。
 
-[2014年](../Page/2014年.md "wikilink")7月、セガ（後の[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）のゲーム「[龍が如く](https://ja.wikipedia.org/wiki/龍が如く "wikilink")」のキャラクター出演をかけたセクシー女優人気投票にエントリー\[5\]\[6\]\[7\]。同年8月24日、[ニコニコ生放送](https://ja.wikipedia.org/wiki/ニコニコ生放送 "wikilink")の「龍が如く特別番組～セクシー女優・男の出演者発表～」で結果発表。53,117票を集め25位に、「[龍が如く0 誓いの場所](https://ja.wikipedia.org/wiki/龍が如く0_誓いの場所 "wikilink")」への出演権を獲得した\[8\]。
+[2014年](../Page/2014年.md "wikilink")7月、セガ（後の[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）のゲーム「[龍が如く](../Page/龍が如く.md "wikilink")」のキャラクター出演をかけたセクシー女優人気投票にエントリー\[5\]\[6\]\[7\]。同年8月24日、[ニコニコ生放送](https://ja.wikipedia.org/wiki/ニコニコ生放送 "wikilink")の「龍が如く特別番組～セクシー女優・男の出演者発表～」で結果発表。53,117票を集め25位に、「[龍が如く0 誓いの場所](https://ja.wikipedia.org/wiki/龍が如く0_誓いの場所 "wikilink")」への出演権を獲得した\[8\]。
 
 [2016年](../Page/2016年.md "wikilink")[3月20日](../Page/3月20日.md "wikilink")AV女優を引退、今後は水上真理としてアーティスト活動を行う\[9\]。
 
@@ -111,12 +111,12 @@
 ### テレビ
 
   - [ビ〜チ9](https://ja.wikipedia.org/wiki/ビ〜チ9 "wikilink")（2010年9月、2012年1月 - 4月、[テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")）
-  - [魚拓と成瀬のツキとスッポンぽん](https://ja.wikipedia.org/wiki/魚拓と成瀬のツキとスッポンぽん "wikilink") \#9,\#10、\#87,\#88（2014年11月2日,9日、2016年5月15日,22日、[パチ・スロ サイトセブンTV](https://ja.wikipedia.org/wiki/パチ・スロ_サイトセブンTV "wikilink")）
+  - [魚拓と成瀬のツキとスッポンぽん](https://ja.wikipedia.org/wiki/魚拓と成瀬のツキとスッポンぽん "wikilink") \#9,\#10、\#87,\#88（2014年11月2日,9日、2016年5月15日,22日、[パチ・スロ サイトセブンTV](../Page/パチ・スロ_サイトセブンTV.md "wikilink")）
   - [もう\!バカリズムさんのドH\!](https://ja.wikipedia.org/wiki/もう!バカリズムさんのドH! "wikilink")（2014年12月29日、[NOTTV](https://ja.wikipedia.org/wiki/NOTTV "wikilink")）※me-me\*メンバーとして出演
 
 ### ラジオ
 
-  - 世界進出計画～西東京から世界へ～（[FM西東京](https://ja.wikipedia.org/wiki/エフエム西東京 "wikilink")）
+  - 世界進出計画～西東京から世界へ～（[FM西東京](../Page/エフエム西東京.md "wikilink")）
 
 ### 映画
 

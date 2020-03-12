@@ -1,11 +1,11 @@
 > この記事は[Romance \(ALI PROJECT\)](https://ja.wikipedia.org/wiki/Romance_\(ALI_PROJECT\))から翻訳されています。
 
 
-『**Romance**』（ロマンス）は、[宝野アリカ](https://ja.wikipedia.org/wiki/宝野アリカ "wikilink")と[片倉三起也](https://ja.wikipedia.org/wiki/片倉三起也 "wikilink")による日本の[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")・[ALI PROJECTの](https://ja.wikipedia.org/wiki/ALI_PROJECT "wikilink")4枚目の[ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")アルバム。 [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月6日](../Page/12月6日.md "wikilink")に[徳間ジャパンコミュニケーションズ](https://ja.wikipedia.org/wiki/徳間ジャパンコミュニケーションズ "wikilink")から発売された。
+『**Romance**』（ロマンス）は、[宝野アリカ](https://ja.wikipedia.org/wiki/宝野アリカ "wikilink")と[片倉三起也](../Page/片倉三起也.md "wikilink")による日本の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[ALI PROJECTの](https://ja.wikipedia.org/wiki/ALI_PROJECT "wikilink")4枚目の[ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")アルバム。 [2006年](../Page/2006年.md "wikilink")[12月6日](../Page/12月6日.md "wikilink")に[徳間ジャパンコミュニケーションズ](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")から発売された。
 
 ## 概要
 
-18thシングル「[薔薇獄乙女](https://ja.wikipedia.org/wiki/薔薇獄乙女 "wikilink")」と同時発売で、3rdストリングスアルバム『[神々の黄昏](../Page/神々の黄昏_\(ALI_PROJECTのアルバム\).md "wikilink")』からは約1年ぶりのリリースとなる。2006年リリースのアルバムでは3枚目となる。ちなみに、同日に同ALI PROJECTの[薔薇獄乙女](https://ja.wikipedia.org/wiki/薔薇獄乙女 "wikilink")もリリースされている。比較的初期の楽曲が多く、その中に最近の楽曲も含みつつ、ストリングスアレンジがなされ収録されている他、新曲も収録されている。
+18thシングル「[薔薇獄乙女](../Page/薔薇獄乙女.md "wikilink")」と同時発売で、3rdストリングスアルバム『[神々の黄昏](../Page/神々の黄昏_\(ALI_PROJECTのアルバム\).md "wikilink")』からは約1年ぶりのリリースとなる。2006年リリースのアルバムでは3枚目となる。ちなみに、同日に同ALI PROJECTの[薔薇獄乙女](../Page/薔薇獄乙女.md "wikilink")もリリースされている。比較的初期の楽曲が多く、その中に最近の楽曲も含みつつ、ストリングスアレンジがなされ収録されている他、新曲も収録されている。
 
 ### キャッチコピー
 
@@ -47,7 +47,7 @@
 ## 参加ミュージシャン
 
   - 作詞：[宝野アリカ](https://ja.wikipedia.org/wiki/宝野アリカ "wikilink")
-  - 作曲：[片倉三起也](https://ja.wikipedia.org/wiki/片倉三起也 "wikilink")(M1-M7,M9-M10)、[Franz Peter Schubert](../Page/フランツ・シューベルト.md "wikilink")(M8)
+  - 作曲：[片倉三起也](../Page/片倉三起也.md "wikilink")(M1-M7,M9-M10)、[Franz Peter Schubert](../Page/フランツ・シューベルト.md "wikilink")(M8)
   - 編曲：[平野義久](https://ja.wikipedia.org/wiki/平野義久 "wikilink")(M1-M6,M9)、斉藤聡(M7,M10)
   - Vocals：[宝野アリカ](https://ja.wikipedia.org/wiki/宝野アリカ "wikilink")
   - Strings：月光String Orchestra

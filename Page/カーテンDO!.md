@@ -8,8 +8,8 @@
   - [1999年](../Page/1999年.md "wikilink")3月 [神戸市](../Page/神戸市.md "wikilink")[西区にて創業](../Page/西区_\(神戸市\).md "wikilink")
   - [2000年](../Page/2000年.md "wikilink")7月 神戸市西区にカーテンDO\! 1号店オープン
   - [2003年](../Page/2003年.md "wikilink")7月 『株式会社ジパング』に組織変更
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")7月 本社を神戸市[中央区に移転](../Page/中央区_\(神戸市\).md "wikilink")
-  - [2015年](../Page/2015年.md "wikilink")11月 [神戸地方裁判所](https://ja.wikipedia.org/wiki/神戸地方裁判所 "wikilink")において破産手続開始決定
+  - [2006年](../Page/2006年.md "wikilink")7月 本社を神戸市[中央区に移転](../Page/中央区_\(神戸市\).md "wikilink")
+  - [2015年](../Page/2015年.md "wikilink")11月 [神戸地方裁判所](../Page/神戸地方裁判所.md "wikilink")において破産手続開始決定
   - [2018年](../Page/2018年.md "wikilink")10月 法人格消滅
 
 ## 全国の店舗
@@ -36,9 +36,9 @@
 ### 関西エリア
 
   - [滋賀県](../Page/滋賀県.md "wikilink")-1店舗
-  - [奈良県](https://ja.wikipedia.org/wiki/奈良県 "wikilink")-2店舗
-  - [京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")-1店舗
-  - [大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")-3店舗
+  - [奈良県](../Page/奈良県.md "wikilink")-2店舗
+  - [京都府](../Page/京都府.md "wikilink")-1店舗
+  - [大阪府](../Page/大阪府.md "wikilink")-3店舗
   - [和歌山県](../Page/和歌山県.md "wikilink")-1店舗
   - [兵庫県](../Page/兵庫県.md "wikilink")-7店舗
 
@@ -51,7 +51,7 @@
 
 ### 九州・沖縄エリア
 
-  - [福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")-1店舗
+  - [福岡県](../Page/福岡県.md "wikilink")-1店舗
   - [大分県](../Page/大分県.md "wikilink")-2店舗
   - [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")-1店舗
 

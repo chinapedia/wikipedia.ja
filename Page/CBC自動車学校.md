@@ -1,11 +1,11 @@
 > この記事は[CBC](https://ja.wikipedia.org/wiki/CBC)から翻訳されています。
 
 
-**有限会社CBC自動車学校**（シービーシーじどうしゃがっこう、*CBC DRIVING SCHOOL*）は、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")[西区にある](https://ja.wikipedia.org/wiki/西区_\(名古屋市\) "wikilink")[愛知県公安委員会](https://ja.wikipedia.org/wiki/愛知県公安委員会 "wikilink")指定の[自動車学校を運営する企業である](../Page/自動車教習所.md "wikilink")。
+**有限会社CBC自動車学校**（シービーシーじどうしゃがっこう、*CBC DRIVING SCHOOL*）は、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")[西区にある](../Page/西区_\(名古屋市\).md "wikilink")[愛知県公安委員会](https://ja.wikipedia.org/wiki/愛知県公安委員会 "wikilink")指定の[自動車学校を運営する企業である](../Page/自動車教習所.md "wikilink")。
 
 ## 取得できる免許
 
-  - [普通自動車](https://ja.wikipedia.org/wiki/普通自動車 "wikilink")[免許](../Page/運転免許.md "wikilink")（[MT](../Page/マニュアルトランスミッション.md "wikilink")・[AT](../Page/オートマチックトランスミッション.md "wikilink")）
+  - [普通自動車](../Page/普通自動車.md "wikilink")[免許](../Page/運転免許.md "wikilink")（[MT](../Page/マニュアルトランスミッション.md "wikilink")・[AT](../Page/オートマチックトランスミッション.md "wikilink")）
 
 ## 所在地
 
@@ -21,7 +21,7 @@
 
 ## 関連項目
 
-  - [日本の自動車教習所一覧](https://ja.wikipedia.org/wiki/日本の自動車教習所一覧 "wikilink")
+  - [日本の自動車教習所一覧](../Page/日本の自動車教習所一覧.md "wikilink")
 
 ## 脚注
 

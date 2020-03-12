@@ -9,7 +9,7 @@
 
 2001年放送のアニメ『[テニスの王子様](https://ja.wikipedia.org/wiki/テニスの王子様_\(アニメ\) "wikilink")』エンディングテーマ「You got game?」にてデビュー。
 
-2015年12月には[香月優奈](https://ja.wikipedia.org/wiki/香月優奈 "wikilink")（ex.[LAZY KNACK](https://ja.wikipedia.org/wiki/LAZY_KNACK "wikilink")、[The FLARE](../Page/The_FLARE.md "wikilink")）とツインボーカルユニット「GEMINIDS」結成。
+2015年12月には[香月優奈](https://ja.wikipedia.org/wiki/香月優奈 "wikilink")（ex.[LAZY KNACK](../Page/LAZY_KNACK.md "wikilink")、[The FLARE](../Page/The_FLARE.md "wikilink")）とツインボーカルユニット「GEMINIDS」結成。
 
 2017年11月、現在の所属事務所に移籍と共に「Kimeru」から「KIMERU」に改名した。
 
@@ -40,7 +40,7 @@
 <td><p>2002年12月4日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Make_You_Free" title="wikilink">Make You Free</a></p></td>
 <td><p>作詞：真琴<br />
-作曲：<a href="https://ja.wikipedia.org/wiki/Ikuo" title="wikilink">渋谷郁央</a><br />
+作曲：<a href="../Page/Ikuo.md" title="wikilink">渋谷郁央</a><br />
 編曲：渋谷郁央・藤田宜久</p></td>
 </tr>
 <tr class="odd">
@@ -120,7 +120,7 @@
 <td><p>2007年8月8日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/君じゃなきゃダメなんだ" title="wikilink">君じゃなきゃダメなんだ</a></p></td>
 <td><p>作詞：留歌<br />
-作曲：<a href="https://ja.wikipedia.org/wiki/都啓一" title="wikilink">都啓一</a><br />
+作曲：<a href="../Page/都啓一.md" title="wikilink">都啓一</a><br />
 編曲：都啓一</p></td>
 </tr>
 <tr class="odd">
@@ -135,7 +135,7 @@
 <td><p>14th</p></td>
 <td><p>2008年1月23日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/恋してキメル!" title="wikilink">恋してキメル!</a></p></td>
-<td><p>作詞：<a href="https://ja.wikipedia.org/wiki/ROLLY" title="wikilink">ROLLY</a><br />
+<td><p>作詞：<a href="../Page/ROLLY.md" title="wikilink">ROLLY</a><br />
 作曲：ROLLY<br />
 編曲：ROLLY</p></td>
 </tr>
@@ -248,11 +248,11 @@
 | --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | **You got game?**     | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『[テニスの王子様](https://ja.wikipedia.org/wiki/テニスの王子様_\(アニメ\) "wikilink")』EDテーマ    |
 | **Make You Free**     | テレビ東京系アニメ『テニスの王子様』OPテーマ                                                                                                                  |
-| **OVERLAP**           | テレビ東京系アニメ『[遊☆戯☆王デュエルモンスターズ](https://ja.wikipedia.org/wiki/遊☆戯☆王デュエルモンスターズ "wikilink")』OPテーマ                                              |
-| **Answers will come** | [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")』EDテーマ         |
-| **恋してキメル\!**          | テレビ東京系アニメ『[ティーンエイジ・ミュータント・ニンジャ・タートルズ](https://ja.wikipedia.org/wiki/ティーンエイジ・ミュータント・ニンジャ・タートルズ "wikilink")』EDテーマ                          |
-| **STYLE**             | [BS-TBS](../Page/BS-TBS.md "wikilink")アニメ『[MUSASHI -GUN道-](https://ja.wikipedia.org/wiki/MUSASHI_-GUN道- "wikilink")』EDテーマ                |
-| **with you**          | 日本テレビ系『[MusiG](https://ja.wikipedia.org/wiki/MusiG "wikilink")』EDテーマ                                                                     |
+| **OVERLAP**           | テレビ東京系アニメ『[遊☆戯☆王デュエルモンスターズ](../Page/遊☆戯☆王デュエルモンスターズ.md "wikilink")』OPテーマ                                                                 |
+| **Answers will come** | [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")』EDテーマ                            |
+| **恋してキメル\!**          | テレビ東京系アニメ『[ティーンエイジ・ミュータント・ニンジャ・タートルズ](../Page/ティーンエイジ・ミュータント・ニンジャ・タートルズ.md "wikilink")』EDテーマ                                             |
+| **STYLE**             | [BS-TBS](../Page/BS-TBS.md "wikilink")アニメ『[MUSASHI -GUN道-](../Page/MUSASHI_-GUN道-.md "wikilink")』EDテーマ                                   |
+| **with you**          | 日本テレビ系『[MusiG](../Page/MusiG.md "wikilink")』EDテーマ                                                                                        |
 | **君じゃなきゃダメなんだ**       | 日本テレビ系『[ダウンタウンDX](https://ja.wikipedia.org/wiki/ダウンタウンDX "wikilink")』EDテーマ                                                               |
 | **voyage**            | [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")系『[ジャンクSPORTS](../Page/ジャンクSPORTS.md "wikilink")』EDテーマ                            |
 | **go forward**        | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『[遊☆戯☆王VRAINS](https://ja.wikipedia.org/wiki/遊☆戯☆王VRAINS "wikilink")』2代目OPテーマ |
@@ -336,7 +336,7 @@
       - Live Musical『SHOW BY ROCK\!\!』-深淵のCrossAmbivalence-（2017年10月19日 - 29日、AiiA 2.5 Theater Tokyo） - アダム 役
       - [Live Musical『SHOW BY ROCK\!\!』〜THE FES 2018〜](https://ja.wikipedia.org/wiki/SHOW_BY_ROCK!!#舞台 "wikilink")（2018年6月26日 - 27日、Zeep DiverCity） - アダム 役
   - [家庭教師ヒットマンREBORN\! the STAGE](https://ja.wikipedia.org/wiki/家庭教師ヒットマンREBORN!#舞台 "wikilink")（2018年9月21日 - 30日、[天王洲 銀河劇場](../Page/天王洲_銀河劇場.md "wikilink")/10月3日 - 6日、メルパルクホール大阪） - [ランボ](https://ja.wikipedia.org/wiki/ランボ "wikilink") 役\[4\]
-      - 家庭教師ヒットマンREBORN\! the STAGE -vs VARIA part I-（2019年6月14日 - 23日、[シアター1010](https://ja.wikipedia.org/wiki/シアター1010 "wikilink") / 6月27日 - 30日、柏原市民文化会館 リビエールホール）\[5\]
+      - 家庭教師ヒットマンREBORN\! the STAGE -vs VARIA part I-（2019年6月14日 - 23日、[シアター1010](../Page/シアター1010.md "wikilink") / 6月27日 - 30日、柏原市民文化会館 リビエールホール）\[5\]
       - 家庭教師ヒットマンREBORN\! the STAGE -vs VARIA part Ⅱ-（2020年1月6日 -13日 天王洲 銀河劇場 /1月17日 - 19日 梅田芸術劇場ドラマシティ）\[6\]
 
 ### 舞台（シリーズ作品以外）
@@ -348,7 +348,7 @@
   - [ニコニコニーコ](https://ja.wikipedia.org/wiki/ニコニコニーコ "wikilink")due『5王子とさすらいの花嫁』（2012年9月1日 - 9日） - キメル/プリンス・メルキー 役
   - アニソンぷらすPresents『喝采』〈ミュージカルバージョン〉 - 木村庄之助 役
   - 眠れぬ町の王子様（2012年11月28日 - 12月2日、全労済ホール スペース・ゼロ） - 主演 龍之介 役
-  - 本格朗読劇『[極上文學](https://ja.wikipedia.org/wiki/極上文學 "wikilink")』「[夢十夜](https://ja.wikipedia.org/wiki/夢十夜 "wikilink")」（2013年1月17日 - 21日、シアターサンモール） - 座長・蝶 役
+  - 本格朗読劇『[極上文學](https://ja.wikipedia.org/wiki/極上文學 "wikilink")』「[夢十夜](../Page/夢十夜.md "wikilink")」（2013年1月17日 - 21日、シアターサンモール） - 座長・蝶 役
   - 舞台『壺を割った男』（2013年2月20日 - 26日、恵比寿エコー劇場） - 安部タケル 役
   - 劇団TEAM-ODAC再演企画公演『ダルマ』（2013年5月15日 - 19日、全労済ホール スペース・ゼロ） - 天馬 役
   - 舞台『ティーチャー』（2013年7月19日 - 28日、シアターグリーンBIG THREE THEATER） - 主役・池田裕太 役
@@ -390,7 +390,7 @@
 
 ### ラジオレギュラー番組
 
-  - [東海ラジオミッドナイトスペシャル](https://ja.wikipedia.org/wiki/東海ラジオミッドナイトスペシャル "wikilink") Kimeruのキラ☆キラれこーでぃんぐ（2005年1月3日 - 2006年3月、[東海ラジオ](../Page/東海ラジオ放送.md "wikilink")）
+  - [東海ラジオミッドナイトスペシャル](../Page/東海ラジオミッドナイトスペシャル.md "wikilink") Kimeruのキラ☆キラれこーでぃんぐ（2005年1月3日 - 2006年3月、[東海ラジオ](../Page/東海ラジオ放送.md "wikilink")）
   - KimeruのShining Collection（2006年4月 - 2006年12月、[fm fukuoka](../Page/エフエム福岡.md "wikilink") / [FMK](../Page/エフエム熊本.md "wikilink")）
   - GROOVE FROM K・WEST（2006年4月 - 2006年9月、[bayfm](../Page/ベイエフエム.md "wikilink")）
 

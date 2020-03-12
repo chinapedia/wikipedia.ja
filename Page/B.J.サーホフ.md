@@ -1,7 +1,7 @@
 > この記事は[B.J.](https://ja.wikipedia.org/wiki/B.J.)から翻訳されています。
 
 
-**ウィリアム・ジェームズ・サーホフ**（William James "B. J." Surhoff, [1964年](../Page/1964年.md "wikilink")[8月4日](../Page/8月4日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ニューヨーク州](../Page/ニューヨーク州.md "wikilink")[ニューヨーク市](https://ja.wikipedia.org/wiki/ニューヨーク市 "wikilink")[ブロンクス区](https://ja.wikipedia.org/wiki/ブロンクス区 "wikilink")出身の元[プロ野球選手](../Page/プロ野球選手.md "wikilink")（[外野手](../Page/外野手.md "wikilink")、[捕手](../Page/捕手.md "wikilink")、[三塁手](https://ja.wikipedia.org/wiki/三塁手 "wikilink")）。右投左打。
+**ウィリアム・ジェームズ・サーホフ**（William James "B. J." Surhoff, [1964年](../Page/1964年.md "wikilink")[8月4日](../Page/8月4日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ニューヨーク州](../Page/ニューヨーク州.md "wikilink")[ニューヨーク市](https://ja.wikipedia.org/wiki/ニューヨーク市 "wikilink")[ブロンクス区](../Page/ブロンクス区.md "wikilink")出身の元[プロ野球選手](../Page/プロ野球選手.md "wikilink")（[外野手](../Page/外野手.md "wikilink")、[捕手](../Page/捕手.md "wikilink")、[三塁手](../Page/三塁手.md "wikilink")）。右投左打。
 
 父のは元[NBA](../Page/NBA.md "wikilink")選手。2歳上の実兄は元メジャーリーガー。甥の[ブライアン・モラン](https://ja.wikipedia.org/wiki/ブライアン・モラン_\(野球\) "wikilink")、[コリン・モランの兄弟もプロ野球選手である](https://ja.wikipedia.org/wiki/コリン・モラン_\(野球\) "wikilink")\[1\]。
 
@@ -9,19 +9,19 @@
 
 ### プロ入り前
 
-の[MLBドラフト](https://ja.wikipedia.org/wiki/1982年のMLBドラフト "wikilink")5巡目（全体128位）で地元[ニューヨーク・ヤンキース](../Page/ニューヨーク・ヤンキース.md "wikilink")から指名を受けるが契約せず、[ノースカロライナ大学チャペルヒル校](https://ja.wikipedia.org/wiki/ノースカロライナ大学チャペルヒル校 "wikilink")に進学した。には第13回[日米大学野球選手権](https://ja.wikipedia.org/wiki/日米大学野球選手権 "wikilink")に出場\[2\]、さらに[ロサンゼルスオリンピックに](https://ja.wikipedia.org/wiki/1984年ロサンゼルスオリンピックの野球競技 "wikilink")[アメリカ代表として出場し](../Page/野球アメリカ合衆国代表.md "wikilink")、[銀メダル](https://ja.wikipedia.org/wiki/銀メダル "wikilink")を獲得した。
+の[MLBドラフト](https://ja.wikipedia.org/wiki/1982年のMLBドラフト "wikilink")5巡目（全体128位）で地元[ニューヨーク・ヤンキース](../Page/ニューヨーク・ヤンキース.md "wikilink")から指名を受けるが契約せず、[ノースカロライナ大学チャペルヒル校](../Page/ノースカロライナ大学チャペルヒル校.md "wikilink")に進学した。には第13回[日米大学野球選手権](https://ja.wikipedia.org/wiki/日米大学野球選手権 "wikilink")に出場\[2\]、さらに[ロサンゼルスオリンピックに](https://ja.wikipedia.org/wiki/1984年ロサンゼルスオリンピックの野球競技 "wikilink")[アメリカ代表として出場し](../Page/野球アメリカ合衆国代表.md "wikilink")、[銀メダル](https://ja.wikipedia.org/wiki/銀メダル "wikilink")を獲得した。
 
 ### 現役時代
 
-の[MLBドラフト](https://ja.wikipedia.org/wiki/1985年のMLBドラフト "wikilink")1巡目（全体1位）で[ミルウォーキー・ブルワーズ](../Page/ミルウォーキー・ブルワーズ.md "wikilink")から指名され、プロ入り。捕手としてプレーし、同年A級で打率.332、はAAA級[バンクーバー・カナディアンズで打率](https://ja.wikipedia.org/wiki/サクラメント・リバーキャッツ "wikilink").308を記録した\[3\]。
+の[MLBドラフト](https://ja.wikipedia.org/wiki/1985年のMLBドラフト "wikilink")1巡目（全体1位）で[ミルウォーキー・ブルワーズ](../Page/ミルウォーキー・ブルワーズ.md "wikilink")から指名され、プロ入り。捕手としてプレーし、同年A級で打率.332、はAAA級[バンクーバー・カナディアンズで打率](../Page/サクラメント・リバーキャッツ.md "wikilink").308を記録した\[3\]。
 
-は開幕メジャー入りを果たし、4月8日の[ボストン・レッドソックス](https://ja.wikipedia.org/wiki/ボストン・レッドソックス "wikilink")戦でデビュー\[4\]。同年は115試合に出場して打率.299、7本塁打、68打点、11盗塁を記録した。翌には打率.245、5本塁打、38打点だが、21盗塁と捕手にしては快足ぶりを発揮。打撃を生かして徐々に捕手以外でのポジションでの出場が増え、以後は[三塁手](https://ja.wikipedia.org/wiki/三塁手 "wikilink")、のちに[外野手](../Page/外野手.md "wikilink")に転向。
+は開幕メジャー入りを果たし、4月8日の[ボストン・レッドソックス](../Page/ボストン・レッドソックス.md "wikilink")戦でデビュー\[4\]。同年は115試合に出場して打率.299、7本塁打、68打点、11盗塁を記録した。翌には打率.245、5本塁打、38打点だが、21盗塁と捕手にしては快足ぶりを発揮。打撃を生かして徐々に捕手以外でのポジションでの出場が増え、以後は[三塁手](../Page/三塁手.md "wikilink")、のちに[外野手](../Page/外野手.md "wikilink")に転向。
 
 に打率.320を記録し、初の二桁本塁打（13本）を記録。
 
-シーズン終了後に優勝できるチームを希望し、[ボルチモア・オリオールズ](https://ja.wikipedia.org/wiki/ボルチモア・オリオールズ "wikilink")へ3年契約で[FAで移籍](https://ja.wikipedia.org/wiki/フリーエージェント_\(プロスポーツ\)#メジャーリーグベースボール "wikilink")\[5\]。以後は、捕手としての出場はなかった。には143試合に出場して打率.292、21本塁打、82打点の成績を残し、オフに[日米野球](https://ja.wikipedia.org/wiki/日米野球 "wikilink")で来日。3年契約を満了し、12月に4年総額1,850万ドルで契約延長\[6\]。は開幕直後に[ウィル・クラーク](../Page/ウィル・クラーク.md "wikilink")に代わり3番打者として起用され、初の[オールスター選出を果たす](https://ja.wikipedia.org/wiki/1999年のMLBオールスターゲーム "wikilink")。全162試合に出場し、球団史上最多のシーズン673打数で207安打、104得点、28本塁打、107打点、打率.308と軒並み自己最高の記録。
+シーズン終了後に優勝できるチームを希望し、[ボルチモア・オリオールズ](../Page/ボルチモア・オリオールズ.md "wikilink")へ3年契約で[FAで移籍](https://ja.wikipedia.org/wiki/フリーエージェント_\(プロスポーツ\)#メジャーリーグベースボール "wikilink")\[5\]。以後は、捕手としての出場はなかった。には143試合に出場して打率.292、21本塁打、82打点の成績を残し、オフに[日米野球](../Page/日米野球.md "wikilink")で来日。3年契約を満了し、12月に4年総額1,850万ドルで契約延長\[6\]。は開幕直後に[ウィル・クラーク](../Page/ウィル・クラーク.md "wikilink")に代わり3番打者として起用され、初の[オールスター選出を果たす](../Page/1999年のMLBオールスターゲーム.md "wikilink")。全162試合に出場し、球団史上最多のシーズン673打数で207安打、104得点、28本塁打、107打点、打率.308と軒並み自己最高の記録。
 
-シーズン途中の7月31日に[アトランタ・ブレーブス](https://ja.wikipedia.org/wiki/アトランタ・ブレーブス "wikilink")へトレードで移籍するが、この頃から成績が下降し、には25試合の出場に終わった。
+シーズン途中の7月31日に[アトランタ・ブレーブス](../Page/アトランタ・ブレーブス.md "wikilink")へトレードで移籍するが、この頃から成績が下降し、には25試合の出場に終わった。
 
 にオリオールズに復帰し、3シーズンプレーして、限りで現役を引退した。
 
@@ -278,7 +278,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ボルチモア・オリオールズ" title="wikilink">BAL</a></p></td>
+<td><p><a href="../Page/ボルチモア・オリオールズ.md" title="wikilink">BAL</a></p></td>
 <td><p>143</p></td>
 <td><p>590</p></td>
 <td><p>537</p></td>
@@ -412,7 +412,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/アトランタ・ブレーブス" title="wikilink">ATL</a></p></td>
+<td><p><a href="../Page/アトランタ・ブレーブス.md" title="wikilink">ATL</a></p></td>
 <td><p>44</p></td>
 <td><p>143</p></td>
 <td><p>128</p></td>
@@ -642,9 +642,9 @@
 <th><p>球<br />
 団</p></th>
 <th><p><a href="../Page/捕手.md" title="wikilink">捕手</a>（C）</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/一塁手" title="wikilink">一塁（1B）</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/二塁手" title="wikilink">二塁（2B）</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/三塁手" title="wikilink">三塁（3B）</a></p></th>
+<th><p><a href="../Page/一塁手.md" title="wikilink">一塁（1B）</a></p></th>
+<th><p><a href="../Page/二塁手.md" title="wikilink">二塁（2B）</a></p></th>
+<th><p><a href="../Page/三塁手.md" title="wikilink">三塁（3B）</a></p></th>
 <th><p><a href="../Page/遊撃手.md" title="wikilink">遊撃（SS）</a></p></th>
 <th><p><a href="../Page/中堅手.md" title="wikilink">中堅（CF）</a></p></th>
 <th><p><a href="../Page/左翼手.md" title="wikilink">左翼（LF）</a></p></th>
@@ -659,19 +659,19 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/刺殺" title="wikilink">刺<br />
 <br />
 殺</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/補殺" title="wikilink">補<br />
+<td><p><a href="../Page/補殺.md" title="wikilink">補<br />
 <br />
 殺</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/失策" title="wikilink">失<br />
+<td><p><a href="../Page/失策.md" title="wikilink">失<br />
 <br />
 策</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/併殺" title="wikilink">併<br />
+<td><p><a href="../Page/併殺.md" title="wikilink">併<br />
 <br />
 殺</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/守備率" title="wikilink">守<br />
+<td><p><a href="../Page/守備率.md" title="wikilink">守<br />
 備<br />
 率</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/捕逸" title="wikilink">捕<br />
+<td><p><a href="../Page/捕逸.md" title="wikilink">捕<br />
 <br />
 逸</a></p></td>
 <td><p>企<br />
@@ -955,7 +955,7 @@
 
 ### 記録
 
-  - [MLBオールスターゲーム](https://ja.wikipedia.org/wiki/MLBオールスターゲーム "wikilink")選出：1回（[1999年](https://ja.wikipedia.org/wiki/1999年のMLBオールスターゲーム "wikilink")
+  - [MLBオールスターゲーム](../Page/MLBオールスターゲーム.md "wikilink")選出：1回（[1999年](../Page/1999年のMLBオールスターゲーム.md "wikilink")
 
 ### 背番号
 
@@ -965,7 +965,7 @@
 
 ### 代表歴
 
-  - 第13回[日米大学野球選手権大会](https://ja.wikipedia.org/wiki/日米大学野球選手権大会 "wikilink") アメリカ合衆国代表（1984年）
+  - 第13回[日米大学野球選手権大会](../Page/日米大学野球選手権大会.md "wikilink") アメリカ合衆国代表（1984年）
 
 ## 脚注
 
@@ -983,6 +983,6 @@
 2.  [第13回 日米大学野球選手権](https://www.jubf.net/us/index13.html)（2018年10月2日閲覧）
 3.
 4.
-5.  「30球団マンスリー・リポート ボルチモア・オリオールズ 自身最高の活躍を続けるサーホフ監督も「チーム最高の打者」と絶賛」『[月刊メジャー・リーグ](https://ja.wikipedia.org/wiki/月刊メジャー・リーグ "wikilink")』 1999年9月号、[ベースボールマガジン](https://ja.wikipedia.org/wiki/ベースボールマガジン "wikilink")社、1999年、[雑誌](https://ja.wikipedia.org/wiki/雑誌コード "wikilink") 08625-9、89頁。
+5.  「30球団マンスリー・リポート ボルチモア・オリオールズ 自身最高の活躍を続けるサーホフ監督も「チーム最高の打者」と絶賛」『[月刊メジャー・リーグ](https://ja.wikipedia.org/wiki/月刊メジャー・リーグ "wikilink")』 1999年9月号、[ベースボールマガジン](../Page/ベースボールマガジン.md "wikilink")社、1999年、[雑誌](../Page/雑誌コード.md "wikilink") 08625-9、89頁。
 6.
 7.

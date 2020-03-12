@@ -1,7 +1,7 @@
 > この記事は[ONE MIC](https://ja.wikipedia.org/wiki/ONE_MIC)から翻訳されています。
 
 
-『**ONE MIC**』（ワン・マイク）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヒップホップ](../Page/ヒップホップ.md "wikilink")ソロ[MCである](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")[童子-T](https://ja.wikipedia.org/wiki/童子-T "wikilink")のメジャー3枚目のオリジナルアルバム。発売元は、[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。
+『**ONE MIC**』（ワン・マイク）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヒップホップ](../Page/ヒップホップ.md "wikilink")ソロ[MCである](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")[童子-T](../Page/童子-T.md "wikilink")のメジャー3枚目のオリジナルアルバム。発売元は、[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
 
 ## 概要
 
@@ -17,22 +17,22 @@
 1.  One Mic
       -
         Produced by [DJ TAKADA](https://ja.wikipedia.org/wiki/DJ_TAKADA "wikilink"),童子-T
-2.  悲しみにさよなら feat.[Full Of Harmony](https://ja.wikipedia.org/wiki/Full_Of_Harmony "wikilink")
+2.  悲しみにさよなら feat.[Full Of Harmony](../Page/Full_Of_Harmony.md "wikilink")
       -
         Produced by 童子-T,[Shingo.S](https://ja.wikipedia.org/wiki/Shingo.S "wikilink")
 3.  Don't Stop
       -
-        Produced by [KREVA](https://ja.wikipedia.org/wiki/KREVA "wikilink")
-        Chorus:[SONOMI](https://ja.wikipedia.org/wiki/SONOMI_\(歌手\) "wikilink"),青山テルマ
-4.  One Love Feat.[清水翔太](https://ja.wikipedia.org/wiki/清水翔太 "wikilink")
+        Produced by [KREVA](../Page/KREVA.md "wikilink")
+        Chorus:[SONOMI](../Page/SONOMI_\(歌手\).md "wikilink"),青山テルマ
+4.  One Love Feat.[清水翔太](../Page/清水翔太.md "wikilink")
       -
-        Produced by [813](https://ja.wikipedia.org/wiki/813_\(ユニット\) "wikilink")（[DJ YUTAKA](https://ja.wikipedia.org/wiki/DJ_YUTAKA "wikilink") / Shingo.S）
-5.  Turn It Up feat.[VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink"), [LITTLE](https://ja.wikipedia.org/wiki/LITTLE "wikilink"), [KOHEI JAPAN](https://ja.wikipedia.org/wiki/KOHEI_JAPAN "wikilink"), [青山テルマ](https://ja.wikipedia.org/wiki/青山テルマ "wikilink")
+        Produced by [813](https://ja.wikipedia.org/wiki/813_\(ユニット\) "wikilink")（[DJ YUTAKA](../Page/DJ_YUTAKA.md "wikilink") / Shingo.S）
+5.  Turn It Up feat.[VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink"), [LITTLE](../Page/LITTLE.md "wikilink"), [KOHEI JAPAN](../Page/KOHEI_JAPAN.md "wikilink"), [青山テルマ](https://ja.wikipedia.org/wiki/青山テルマ "wikilink")
       -
         Produced by [BUZZER BEATS](https://ja.wikipedia.org/wiki/BUZZER_BEATS "wikilink")
 6.  童子兄さん
       -
-        Produced by [ALI-KICK](https://ja.wikipedia.org/wiki/ALI-KICK "wikilink")（[Romancrew](https://ja.wikipedia.org/wiki/Romancrew "wikilink")）
+        Produced by [ALI-KICK](https://ja.wikipedia.org/wiki/ALI-KICK "wikilink")（[Romancrew](../Page/Romancrew.md "wikilink")）
 7.  Play That Beat feat.[ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink")
       -
         Produced by [ROCK-Tee](../Page/ROCK-Tee.md "wikilink")（Woody-Wood Studio）
@@ -42,7 +42,7 @@
 9.  Sagami feat.[TIPTOP\!](https://ja.wikipedia.org/wiki/TIPTOP! "wikilink"), [KEY-CREW](https://ja.wikipedia.org/wiki/KEY-CREW "wikilink")
       -
         Produced by DIORI a.k.a D-Originu（[UBG](https://ja.wikipedia.org/wiki/UBG "wikilink")）
-10. Special Girl feat.[HI-D](https://ja.wikipedia.org/wiki/HI-D "wikilink")
+10. Special Girl feat.[HI-D](../Page/HI-D.md "wikilink")
       -
         Produced by [G.M-KAZ](https://ja.wikipedia.org/wiki/G.M-KAZ "wikilink")
 11. Summer Days feat.[安良城紅](https://ja.wikipedia.org/wiki/BENI "wikilink")
@@ -57,7 +57,7 @@
 14. 光る未来 feat.[加藤ミリヤ](https://ja.wikipedia.org/wiki/加藤ミリヤ "wikilink")
       -
         Produced by [BUZZER BEATS](https://ja.wikipedia.org/wiki/BUZZER_BEATS "wikilink")
-15. Best Friends feat.[Mummy-D](https://ja.wikipedia.org/wiki/Mummy-D "wikilink")（[RHYMESTER](https://ja.wikipedia.org/wiki/RHYMESTER "wikilink")）, [JUJU](https://ja.wikipedia.org/wiki/JUJU "wikilink")
+15. Best Friends feat.[Mummy-D](../Page/Mummy-D.md "wikilink")（[RHYMESTER](../Page/RHYMESTER.md "wikilink")）, [JUJU](https://ja.wikipedia.org/wiki/JUJU "wikilink")
       -
         Produced by D.O.I
 16. 続少年A

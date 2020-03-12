@@ -5,7 +5,7 @@
 
   - プロセッサの速度
   - [主記憶装置](../Page/主記憶装置.md "wikilink")の速度
-  - グラフィックス性能（[2次元コンピュータグラフィックス](https://ja.wikipedia.org/wiki/2次元コンピュータグラフィックス "wikilink")）
+  - グラフィックス性能（[2次元コンピュータグラフィックス](../Page/2次元コンピュータグラフィックス.md "wikilink")）
   - ゲーム用グラフィックス性能（[3次元コンピュータグラフィックス](../Page/3次元コンピュータグラフィックス.md "wikilink")）
   - [ハードディスクドライブ](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")の転送速度
 
@@ -17,7 +17,7 @@
 
 のスコアに換算され、**Windows エクスペリエンス インデックス**にその結果が報告される。そのうち、スコアが最も低いものが基本スコアとなり、Windowsを利用するにあたって、多くの機能が快適に利用できるかどうか大きな指標となる。
 
-このことからWindows エクスペリエンス インデックスの結果によっては、Windowsの一部機能に制限が生じる。たとえば、グラフィックス関連のスコアが2.0に満たない場合、[グラフィカルユーザインタフェース](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")である[Windows Aeroを利用することができず](https://ja.wikipedia.org/wiki/Windows_Aero "wikilink")、2.0以上3.0未満の場合は動作するものの、透明効果である"Aero Glass"の機能などの快適な利用は望めない。
+このことからWindows エクスペリエンス インデックスの結果によっては、Windowsの一部機能に制限が生じる。たとえば、グラフィックス関連のスコアが2.0に満たない場合、[グラフィカルユーザインタフェース](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")である[Windows Aeroを利用することができず](../Page/Windows_Aero.md "wikilink")、2.0以上3.0未満の場合は動作するものの、透明効果である"Aero Glass"の機能などの快適な利用は望めない。
 
 また、Windows 8以降からはこの機能は廃止されているが、WinSAT自体は存在するため、非公式ツール等を使用することによりこの機能を使用することができる。
 
@@ -26,7 +26,7 @@
 WinSATでは以下の項目のテストが行われ、上記5項目のベースとなる。
 
   - Aero評価
-  - [Direct3D](https://ja.wikipedia.org/wiki/Direct3D "wikilink") Alpha Blending評価
+  - [Direct3D](../Page/Direct3D.md "wikilink") Alpha Blending評価
   - Direct3D Texture Load評価
   - Direct3D ALU評価
   - [Windows Mediaファイルの再生](https://ja.wikipedia.org/wiki/Windows_Media "wikilink")

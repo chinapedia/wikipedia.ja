@@ -1,7 +1,7 @@
 > この記事は[PES](https://ja.wikipedia.org/wiki/PES)から翻訳されています。
 
 
-**PES**（ペス、[1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink")[12月27日](../Page/12月27日.md "wikilink") - ）は[日本のヒップホップ](https://ja.wikipedia.org/wiki/日本のヒップホップ "wikilink")ユニット[RIP SLYMEの](https://ja.wikipedia.org/wiki/RIP_SLYME "wikilink")[MCである](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身。[FUNKY GRAMMAR UNITの一員](https://ja.wikipedia.org/wiki/FUNKY_GRAMMAR_UNIT "wikilink")。別名PESSY（ペスィー）、PSY（ピーエスワイ）。PESの名付け親は[RYO-Z](../Page/RYO-Z.md "wikilink")で、[とんかつ](https://ja.wikipedia.org/wiki/とんかつ "wikilink")を食べながら命名。下の本名は昌嗣（まさつぐ）である。RIP SLYMEでの活動のほかに、[MELLOW YELLOWの](https://ja.wikipedia.org/wiki/MELLOW_YELLOW "wikilink")[KIN](https://ja.wikipedia.org/wiki/KIN "wikilink")らと共にブランド[Optimystik](https://ja.wikipedia.org/wiki/Optimystik "wikilink")を立ち上げたが、2011年に離れている。
+**PES**（ペス、[1976年](../Page/1976年.md "wikilink")[12月27日](../Page/12月27日.md "wikilink") - ）は[日本のヒップホップ](../Page/日本のヒップホップ.md "wikilink")ユニット[RIP SLYMEの](../Page/RIP_SLYME.md "wikilink")[MCである](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。[東京都](../Page/東京都.md "wikilink")出身。[FUNKY GRAMMAR UNITの一員](../Page/FUNKY_GRAMMAR_UNIT.md "wikilink")。別名PESSY（ペスィー）、PSY（ピーエスワイ）。PESの名付け親は[RYO-Z](../Page/RYO-Z.md "wikilink")で、[とんかつ](https://ja.wikipedia.org/wiki/とんかつ "wikilink")を食べながら命名。下の本名は昌嗣（まさつぐ）である。RIP SLYMEでの活動のほかに、[MELLOW YELLOWの](../Page/MELLOW_YELLOW.md "wikilink")[KIN](../Page/KIN.md "wikilink")らと共にブランド[Optimystik](https://ja.wikipedia.org/wiki/Optimystik "wikilink")を立ち上げたが、2011年に離れている。
 
 ## 来歴
 
@@ -15,7 +15,7 @@
 
 独特でインパクトのある高めなボイスが特徴。
 
-2匹の[チワワ](https://ja.wikipedia.org/wiki/チワワ "wikilink")（ジョルジオ（楽園ベイベーのPVに出演）とジョアンナ）と[インコ](https://ja.wikipedia.org/wiki/インコ "wikilink")（クック）を飼っている。
+2匹の[チワワ](../Page/チワワ.md "wikilink")（ジョルジオ（楽園ベイベーのPVに出演）とジョアンナ）と[インコ](../Page/インコ.md "wikilink")（クック）を飼っている。
 
 両腕と左手に[刺青](https://ja.wikipedia.org/wiki/刺青 "wikilink")がある。
 
@@ -25,7 +25,7 @@
 
 爪に黒の[マニキュア](../Page/マニキュア.md "wikilink")を塗っていたこともある。
 
-[RHYMESTER](https://ja.wikipedia.org/wiki/RHYMESTER "wikilink")の[Mummy-D](https://ja.wikipedia.org/wiki/Mummy-D "wikilink")は「現在、メロディがついてる感じのラップがチャートでは主流になっているが、その大本はリップスライムのPESで間違いない」「誰もやっていなかった歌っぽくフローすることを始めたのは完全にPES」「PESは[アレステッド・ディベロップメント](https://ja.wikipedia.org/wiki/アレステッド・ディベロップメント "wikilink")のスピーチに相当影響されていると思う」と分析している。\[2\]
+[RHYMESTER](../Page/RHYMESTER.md "wikilink")の[Mummy-D](../Page/Mummy-D.md "wikilink")は「現在、メロディがついてる感じのラップがチャートでは主流になっているが、その大本はリップスライムのPESで間違いない」「誰もやっていなかった歌っぽくフローすることを始めたのは完全にPES」「PESは[アレステッド・ディベロップメント](https://ja.wikipedia.org/wiki/アレステッド・ディベロップメント "wikilink")のスピーチに相当影響されていると思う」と分析している。\[2\]
 
 ## ディスコグラフィー
 
@@ -171,7 +171,7 @@ WPCL-11198:通常盤</p></td>
 
 ### 参加楽曲
 
-  - 天邪鬼 / ROCK TEE feat. [KIN](https://ja.wikipedia.org/wiki/KIN "wikilink"), PESSY
+  - 天邪鬼 / ROCK TEE feat. [KIN](../Page/KIN.md "wikilink"), PESSY
       - オムニバス『THE BEST OF JAPANESE HIP HOP vol.5』収録
   - エピローグ / MEP SLOWN
       - オムニバス『THE BEST OF JAPANESE HIP HOP vol.6』収録
@@ -180,35 +180,35 @@ WPCL-11198:通常盤</p></td>
   - Two of us "rub delight mix"
       - [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")『[ayu-mi-x](https://ja.wikipedia.org/wiki/ayu-mi-x "wikilink")』収録
   - 野生の証明 (PES REMIX)
-      - [RHYMESTER](https://ja.wikipedia.org/wiki/RHYMESTER "wikilink")『リスペクト改』収録
+      - [RHYMESTER](../Page/RHYMESTER.md "wikilink")『リスペクト改』収録
   - MORE FUN? (DJ FUMIYA UP ROCK FUNK MIX)
-      - [PENPALS](https://ja.wikipedia.org/wiki/PENPALS "wikilink")『MORE FUN?～FTR250』収録
+      - [PENPALS](../Page/PENPALS.md "wikilink")『MORE FUN?～FTR250』収録
   - 亜流 feat. PES（2001年11月30日）
-      - [MELLOW YELLOW](https://ja.wikipedia.org/wiki/MELLOW_YELLOW "wikilink")『CRAZY CLIMBER』収録
+      - [MELLOW YELLOW](../Page/MELLOW_YELLOW.md "wikilink")『CRAZY CLIMBER』収録
   - OH\!TENGO SUERTE (1976 mix:PES from RIP SLYME & DJ NON) (2001年12月19日)
       - [高中正義](../Page/高中正義.md "wikilink")『REMIX LAGOON\~高中正義REMIXES\~』収録
   - A Song feat. PES & SU from RIP SLYME（2005年5月18日）
       - [breakthrough](https://ja.wikipedia.org/wiki/breakthrough "wikilink")『BREAKTHROUGH』収録
-  - ウィークエンド・シャッフル feat. [MCU](https://ja.wikipedia.org/wiki/MCU "wikilink"), [RYO-Z](../Page/RYO-Z.md "wikilink"), [KREVA](https://ja.wikipedia.org/wiki/KREVA "wikilink"), [CUEZERO](https://ja.wikipedia.org/wiki/CUEZERO "wikilink"), CHANNEL, [KOHEI JAPAN](https://ja.wikipedia.org/wiki/KOHEI_JAPAN "wikilink"), SU, LITTLE, [ILMARI](../Page/ILMARI.md "wikilink"), [GAKU-MC](https://ja.wikipedia.org/wiki/GAKU-MC "wikilink"), [SONOMI](https://ja.wikipedia.org/wiki/SONOMI_\(歌手\) "wikilink"), PES, KIN, [童子-T](https://ja.wikipedia.org/wiki/童子-T "wikilink")（2006年3月6日）
-      - [RHYMESTER](https://ja.wikipedia.org/wiki/RHYMESTER "wikilink")『[HEAT ISLAND](https://ja.wikipedia.org/wiki/HEAT_ISLAND_\(アルバム\) "wikilink")』収録
+  - ウィークエンド・シャッフル feat. [MCU](https://ja.wikipedia.org/wiki/MCU "wikilink"), [RYO-Z](../Page/RYO-Z.md "wikilink"), [KREVA](../Page/KREVA.md "wikilink"), [CUEZERO](../Page/CUEZERO.md "wikilink"), CHANNEL, [KOHEI JAPAN](../Page/KOHEI_JAPAN.md "wikilink"), SU, LITTLE, [ILMARI](../Page/ILMARI.md "wikilink"), [GAKU-MC](../Page/GAKU-MC.md "wikilink"), [SONOMI](../Page/SONOMI_\(歌手\).md "wikilink"), PES, KIN, [童子-T](../Page/童子-T.md "wikilink")（2006年3月6日）
+      - [RHYMESTER](../Page/RHYMESTER.md "wikilink")『[HEAT ISLAND](../Page/HEAT_ISLAND_\(アルバム\).md "wikilink")』収録
   - white sonata no.8 featuring PES
-      - [SBK](https://ja.wikipedia.org/wiki/スケボーキング "wikilink")『RETURNS』収録
-  - The Light feat. Kj from [Dragon Ash](https://ja.wikipedia.org/wiki/Dragon_Ash "wikilink"), [森山直太朗](../Page/森山直太朗.md "wikilink"), PES from [RIP SLYME](https://ja.wikipedia.org/wiki/RIP_SLYME "wikilink")(2009年1月28日)
-      - [Miss Monday](https://ja.wikipedia.org/wiki/Miss_Monday "wikilink")『Love & The Light (w/a white lie)』収録
-  - Steppin' Out feat. K.I.N ([MELLOW YELLOW](https://ja.wikipedia.org/wiki/MELLOW_YELLOW "wikilink")) & PES (RIP SLYME) (2009年4月25日)
-      - [瘋癲](https://ja.wikipedia.org/wiki/瘋癲_\(バンド\) "wikilink")『FREE』収録
-  - セイルアウェイ / [YA-KYIM](https://ja.wikipedia.org/wiki/YA-KYIM "wikilink") respects PES(RIP SLYME) (2009年8月19日)
+      - [SBK](../Page/スケボーキング.md "wikilink")『RETURNS』収録
+  - The Light feat. Kj from [Dragon Ash](../Page/Dragon_Ash.md "wikilink"), [森山直太朗](../Page/森山直太朗.md "wikilink"), PES from [RIP SLYME](../Page/RIP_SLYME.md "wikilink")(2009年1月28日)
+      - [Miss Monday](../Page/Miss_Monday.md "wikilink")『Love & The Light (w/a white lie)』収録
+  - Steppin' Out feat. K.I.N ([MELLOW YELLOW](../Page/MELLOW_YELLOW.md "wikilink")) & PES (RIP SLYME) (2009年4月25日)
+      - [瘋癲](../Page/瘋癲_\(バンド\).md "wikilink")『FREE』収録
+  - セイルアウェイ / [YA-KYIM](../Page/YA-KYIM.md "wikilink") respects PES(RIP SLYME) (2009年8月19日)
       - YA-KYIM『HAPPY\!ENJOY\!FRESH\!』収録
   - BEAT SURF feat. PES, [VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink") (2010年6月16日)
       - Dragon Ash『AMBITIOUS』収録
   - Last Vacation feat. RYO-Z,PES (from RIP SLYME) & [JUJU](https://ja.wikipedia.org/wiki/JUJU "wikilink") (2010年7月21日)
-      - [DJ HASEBE](https://ja.wikipedia.org/wiki/DJ_HASEBE "wikilink")『SOMETHING WONDERFUL』収録
+      - [DJ HASEBE](../Page/DJ_HASEBE.md "wikilink")『SOMETHING WONDERFUL』収録
   - 春のせい
       - [RADIO BLOSSOMS](https://ja.wikipedia.org/wiki/ACCESSキャンペーン "wikilink") 2011年ACCESSキャンペーンソング
   - FOCUS feat. PES (2011年3月11日)
-      - [K.I.N](https://ja.wikipedia.org/wiki/KIN "wikilink") 『IVORY TOWER』収録
+      - [K.I.N](../Page/KIN.md "wikilink") 『IVORY TOWER』収録
   - Mirror Ball / PES from RIP SLYME × Shun ＆ Jose from [TOTALFAT](https://ja.wikipedia.org/wiki/TOTALFAT "wikilink") (2013年5月22日)
-      - [ALLY & DIAZ](https://ja.wikipedia.org/wiki/山嵐_\(バンド\) "wikilink")『ALLY & DIAZ II』収録
+      - [ALLY & DIAZ](../Page/山嵐_\(バンド\).md "wikilink")『ALLY & DIAZ II』収録
   - In My Life (Remix) feat. PES (2013年6月5日)
       - [SALU](https://ja.wikipedia.org/wiki/SALU "wikilink")『In My Life』収録
   - poolside feat. PES (RIP SLYME)(2014年10月2日)
@@ -232,9 +232,9 @@ WPCL-11198:通常盤</p></td>
 
 RIP SLYMEのPV出演は除く
 
-  - [Dragon Ash](https://ja.wikipedia.org/wiki/Dragon_Ash "wikilink")「[Amploud](https://ja.wikipedia.org/wiki/Lily's_e.p. "wikilink")」
-  - [瘋癲](https://ja.wikipedia.org/wiki/瘋癲 "wikilink")「Steppin' Out feat. K.I.N ([MELLOW YELLOW](https://ja.wikipedia.org/wiki/MELLOW_YELLOW "wikilink")) & PES ([RIP SLYME](https://ja.wikipedia.org/wiki/RIP_SLYME "wikilink"))」
-  - [PENPALS](https://ja.wikipedia.org/wiki/PENPALS "wikilink")　「MORE FUN?」
+  - [Dragon Ash](../Page/Dragon_Ash.md "wikilink")「[Amploud](../Page/Lily's_e.p..md "wikilink")」
+  - [瘋癲](https://ja.wikipedia.org/wiki/瘋癲 "wikilink")「Steppin' Out feat. K.I.N ([MELLOW YELLOW](../Page/MELLOW_YELLOW.md "wikilink")) & PES ([RIP SLYME](../Page/RIP_SLYME.md "wikilink"))」
+  - [PENPALS](../Page/PENPALS.md "wikilink")　「MORE FUN?」
 
 ## ミュージックビデオ
 

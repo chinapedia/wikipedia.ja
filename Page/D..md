@@ -1,13 +1,13 @@
 > この記事は[D.](https://ja.wikipedia.org/wiki/D.)から翻訳されています。
 
 
-『**D.**』（ディー）は、[Des-ROWの](https://ja.wikipedia.org/wiki/右寺修 "wikilink")1枚目のアルバムである。
+『**D.**』（ディー）は、[Des-ROWの](../Page/右寺修.md "wikilink")1枚目のアルバムである。
 
 リリースは[2004年](../Page/2004年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink")。初回版には特典として特製ステッカーが封入されていた。
 
 ## 概要
 
-  - [コナミスタイル](https://ja.wikipedia.org/wiki/コナミスタイル "wikilink")のみの販売。
+  - [コナミスタイル](../Page/コナミスタイル.md "wikilink")のみの販売。
   - コナミスタイルにて予約が5000枚以上集まれば商品化という方向で企画がスタートし、予約が5000枚に達したことで商品化が決定した。
   - [BEMANIシリーズ](../Page/BEMANIシリーズ.md "wikilink")に提供された楽曲のアレンジ・ヴァージョン、及び新曲を収録している。
   - ちなみに、収録されている楽曲のタイトルは全て原題と微妙に異なっている。全15曲。
@@ -68,9 +68,9 @@
 
 ## 参加ミュージシャン
 
-  - [Des-ROW](https://ja.wikipedia.org/wiki/右寺修 "wikilink")
+  - [Des-ROW](../Page/右寺修.md "wikilink")
   - [YU](https://ja.wikipedia.org/wiki/TSUBOI "wikilink")
-  - [ムルムル](https://ja.wikipedia.org/wiki/日高明大 "wikilink")
+  - [ムルムル](../Page/日高明大.md "wikilink")
   - ナオキ189
   - かも
 

@@ -7,16 +7,16 @@
 
 ## 概要
 
-[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")1月16日、[ウイングス](../Page/ウイングス.md "wikilink")日本公演の為に来日した際、ポールが成田空港の税関で[大麻取締法](https://ja.wikipedia.org/wiki/大麻取締法 "wikilink")違反(不法所持)で現行犯逮捕されるという事件が起こった。ポールはこれにより数日間の勾留のあと日本からの[国外退去処分を受けて本国に帰国](https://ja.wikipedia.org/wiki/退去強制 "wikilink")、日本公演は中止になってしまう。この一件以降ウイングスは活動休止、翌年の[1981年](../Page/1981年.md "wikilink")4月、結成以来のメンバーであった[デニー・レイン](https://ja.wikipedia.org/wiki/デニー・レイン "wikilink")の脱退表明によって解散することになる。 本作は、その逮捕事件の数ヶ月後にポール・マッカートニー名義のソロ・アルバムとしてリリースされ、その話題性もあり英国1位、米国3位のヒットとなった。
+[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")1月16日、[ウイングス](../Page/ウイングス.md "wikilink")日本公演の為に来日した際、ポールが成田空港の税関で[大麻取締法](../Page/大麻取締法.md "wikilink")違反(不法所持)で現行犯逮捕されるという事件が起こった。ポールはこれにより数日間の勾留のあと日本からの[国外退去処分を受けて本国に帰国](../Page/退去強制.md "wikilink")、日本公演は中止になってしまう。この一件以降ウイングスは活動休止、翌年の[1981年](../Page/1981年.md "wikilink")4月、結成以来のメンバーであった[デニー・レイン](../Page/デニー・レイン.md "wikilink")の脱退表明によって解散することになる。 本作は、その逮捕事件の数ヶ月後にポール・マッカートニー名義のソロ・アルバムとしてリリースされ、その話題性もあり英国1位、米国3位のヒットとなった。
 
 『ポール・マッカートニー』名義のアルバムはビートルズ解散直後の『[マッカートニー](../Page/マッカートニー_\(アルバム\).md "wikilink")』以来10年ぶりであり、本作も『マッカートニー』同様、自宅スタジオでのワンマン・レコーディングにより制作された。録音機材は『マッカートニー』制作時の4トラックから16トラックに進歩しており、[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")風の打ち込みなども導入されている。シングルカットされ、久々の大ヒット曲となった「カミング・アップ」や、「ウォーターフォールズ」などを収録しているほか、ニュー・ウェーブを意識したかのような[テクノ・ポップ](https://ja.wikipedia.org/wiki/テクノ・ポップ "wikilink")作品や、日本を揶揄したかのような東洋風味のインスト「フローズン・ジャパニーズ」など、他のポールの作品には見られない風変わりな曲も多く収録されている。
 
 ## 収録曲
 
-1.  [カミング・アップ](https://ja.wikipedia.org/wiki/カミング・アップ_\(曲\) "wikilink") - Coming Up
-2.  [テンポラリー・セクレタリー](https://ja.wikipedia.org/wiki/テンポラリー・セクレタリー "wikilink") - Temporary Secretary
+1.  [カミング・アップ](../Page/カミング・アップ_\(曲\).md "wikilink") - Coming Up
+2.  [テンポラリー・セクレタリー](../Page/テンポラリー・セクレタリー.md "wikilink") - Temporary Secretary
 3.  オン・ザ・ウェイ - On The Way
-4.  [ウォーターフォールズ](https://ja.wikipedia.org/wiki/ウォーターフォールズ "wikilink") - Waterfalls
+4.  [ウォーターフォールズ](../Page/ウォーターフォールズ.md "wikilink") - Waterfalls
 5.  ノーボディ・ノウズ - Nobody Knows
 6.  フロント・パーラー - Front Parlour
 7.  [サマーズ・デイ・ソング](https://ja.wikipedia.org/wiki/サマーズ・デイ・ソング "wikilink") - Summer's Day Song
@@ -34,7 +34,7 @@
 
 1.  チェック・マイ・マシーン - Check My Machine
 2.  シークレット・フレンド - Secret Friend
-3.  [グッドナイト・トゥナイト](https://ja.wikipedia.org/wiki/グッドナイト・トゥナイト "wikilink") - Goodnight Tonight（ウイングス）
+3.  [グッドナイト・トゥナイト](../Page/グッドナイト・トゥナイト.md "wikilink") - Goodnight Tonight（ウイングス）
 
 <!-- end list -->
 
@@ -54,7 +54,7 @@
 
 ## 演奏者
 
-  - [ポール・マッカートニー](../Page/ポール・マッカートニー.md "wikilink")：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink"), [ギター](../Page/エレクトリック・ギター.md "wikilink"), [ベース](../Page/エレクトリックベース.md "wikilink"), [エレクトリックピアノ](../Page/エレクトリックピアノ.md "wikilink"), [シンセサイザー](../Page/シンセサイザー.md "wikilink"), [キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink"), [ドラムス](../Page/ドラムセット.md "wikilink")
-  - [リンダ・マッカートニー](https://ja.wikipedia.org/wiki/リンダ・マッカートニー "wikilink")：[アディショナルボーカル](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
+  - [ポール・マッカートニー](../Page/ポール・マッカートニー.md "wikilink")：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink"), [ギター](../Page/エレクトリック・ギター.md "wikilink"), [ベース](../Page/エレクトリックベース.md "wikilink"), [エレクトリックピアノ](../Page/エレクトリックピアノ.md "wikilink"), [シンセサイザー](../Page/シンセサイザー.md "wikilink"), [キーボード](../Page/キーボード_\(楽器\).md "wikilink"), [ドラムス](../Page/ドラムセット.md "wikilink")
+  - [リンダ・マッカートニー](../Page/リンダ・マッカートニー.md "wikilink")：[アディショナルボーカル](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
 
 [Category:ポール・マッカートニーのアルバム](https://ja.wikipedia.org/wiki/Category:ポール・マッカートニーのアルバム "wikilink") [Category:1980年のアルバム](https://ja.wikipedia.org/wiki/Category:1980年のアルバム "wikilink") [Category:全英アルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:全英アルバムチャート1位獲得作品 "wikilink") [Category:ポール・マッカートニーがプロデュースしたアルバム](https://ja.wikipedia.org/wiki/Category:ポール・マッカートニーがプロデュースしたアルバム "wikilink")

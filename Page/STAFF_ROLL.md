@@ -5,8 +5,8 @@
 
 ## 解説
 
-  - [1999年](../Page/1999年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")に行われた[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")での初めてのコンサートに合わせて発売された1stアルバム。ヒットシングル「[Get down](https://ja.wikipedia.org/wiki/Get_down "wikilink")」「[叫び](https://ja.wikipedia.org/wiki/叫び_\(野猿の曲\) "wikilink")」「[SNOW BLIND](https://ja.wikipedia.org/wiki/SNOW_BLIND "wikilink")」「[Be cool\!](https://ja.wikipedia.org/wiki/Be_Cool! "wikilink")」を含む全12曲を収録。
-  - このアルバムに収録されている全てのシングル曲に[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[とんねるずのみなさんのおかげでした](../Page/とんねるずのみなさんのおかげでした.md "wikilink")」の[タイアップ](https://ja.wikipedia.org/wiki/タイアップ "wikilink")がついている。
+  - [1999年](../Page/1999年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")に行われた[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")での初めてのコンサートに合わせて発売された1stアルバム。ヒットシングル「[Get down](../Page/Get_down.md "wikilink")」「[叫び](../Page/叫び_\(野猿の曲\).md "wikilink")」「[SNOW BLIND](../Page/SNOW_BLIND.md "wikilink")」「[Be cool\!](https://ja.wikipedia.org/wiki/Be_Cool! "wikilink")」を含む全12曲を収録。
+  - このアルバムに収録されている全てのシングル曲に[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[とんねるずのみなさんのおかげでした](../Page/とんねるずのみなさんのおかげでした.md "wikilink")」の[タイアップ](../Page/タイアップ.md "wikilink")がついている。
   - 初回盤には、野猿のミニ[写真集](../Page/写真集.md "wikilink")が特典として付いていた。
   - このアルバムで「[第41回日本レコード大賞](https://ja.wikipedia.org/wiki/第41回日本レコード大賞 "wikilink")」企画賞を受賞。
 
@@ -14,20 +14,20 @@
 
 1.  **[Be cool\!](https://ja.wikipedia.org/wiki/Be_Cool! "wikilink")**
       -
-        作詞：[秋元康](../Page/秋元康.md "wikilink")、作曲・編曲：[後藤次利](https://ja.wikipedia.org/wiki/後藤次利 "wikilink")
-        「[第50回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第50回NHK紅白歌合戦 "wikilink")」出場曲
+        作詞：[秋元康](../Page/秋元康.md "wikilink")、作曲・編曲：[後藤次利](../Page/後藤次利.md "wikilink")
+        「[第50回NHK紅白歌合戦](../Page/第50回NHK紅白歌合戦.md "wikilink")」出場曲
         4thシングル
 2.  **おまえがいれば -You are my only……-**
       -
         作詞：秋元康、作曲・編曲：後藤次利
-3.  **[SNOW BLIND](https://ja.wikipedia.org/wiki/SNOW_BLIND "wikilink")**
+3.  **[SNOW BLIND](../Page/SNOW_BLIND.md "wikilink")**
       -
-        作詞：秋元康、作曲：後藤次利、編曲：後藤次利・[田原音彦](https://ja.wikipedia.org/wiki/田原音彦 "wikilink")
+        作詞：秋元康、作曲：後藤次利、編曲：後藤次利・[田原音彦](../Page/田原音彦.md "wikilink")
         3rdシングル
 4.  **Time has gone.**
       -
         作詞：秋元康、作曲・編曲：後藤次利
-5.  **[叫び](https://ja.wikipedia.org/wiki/叫び_\(野猿の曲\) "wikilink")**
+5.  **[叫び](../Page/叫び_\(野猿の曲\).md "wikilink")**
       -
         作詞：秋元康、作曲：後藤次利、編曲：後藤次利・田原音彦
         2ndシングル
@@ -45,7 +45,7 @@
       -
         作詞：秋元康、作曲・編曲：後藤次利
         [平山晃哉](https://ja.wikipedia.org/wiki/平山晃哉 "wikilink")のソロナンバー
-10. **[Get down](https://ja.wikipedia.org/wiki/Get_down "wikilink")**
+10. **[Get down](../Page/Get_down.md "wikilink")**
       -
         作詞：秋元康、作曲：後藤次利、編曲：後藤次利・田原音彦
         結成時メンバーでの作品
@@ -56,7 +56,7 @@
 12. **KONOMAMAZUTTO**(ITSUKAFUTARIDE)
       -
         作詞：[木梨憲武](../Page/木梨憲武.md "wikilink")、作曲・編曲：後藤次利
-        [シークレットトラックとして収録](https://ja.wikipedia.org/wiki/隠しトラック "wikilink")
+        [シークレットトラックとして収録](../Page/隠しトラック.md "wikilink")
 
 ## 参加ミュージシャン
 

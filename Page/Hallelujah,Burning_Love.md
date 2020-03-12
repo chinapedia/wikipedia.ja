@@ -17,6 +17,6 @@
 
 ## 関連項目
 
-  - [2000年の音楽](https://ja.wikipedia.org/wiki/2000年の音楽 "wikilink")
+  - [2000年の音楽](../Page/2000年の音楽.md "wikilink")
 
 [Category:郷ひろみの楽曲](https://ja.wikipedia.org/wiki/Category:郷ひろみの楽曲 "wikilink") [Category:2000年のシングル](https://ja.wikipedia.org/wiki/Category:2000年のシングル "wikilink") [Category:楽曲_は](https://ja.wikipedia.org/wiki/Category:楽曲_は "wikilink")

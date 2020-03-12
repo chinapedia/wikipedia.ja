@@ -20,7 +20,7 @@
 <tr class="odd">
 <td><p><strong><a href="../Page/田中有紀美.md" title="wikilink">田中有紀美</a></strong><br />
 <small>（たなか ゆきみ）</small></p></td>
-<td><p>、<a href="https://ja.wikipedia.org/wiki/ABO式血液型#A型の亜種" title="wikilink">A型</a>、<a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a>出身</p></td>
+<td><p>、<a href="https://ja.wikipedia.org/wiki/ABO式血液型#A型の亜種" title="wikilink">A型</a>、<a href="../Page/東京都.md" title="wikilink">東京都</a>出身</p></td>
 <td><p>ゆきどん</p></td>
 <td><p><a href="../Page/赤.md" title="wikilink">赤</a></p></td>
 <td><p>右手4拍子・左手3拍子、エレクトーン</p></td>
@@ -32,7 +32,7 @@
 <td><p>、<a href="https://ja.wikipedia.org/wiki/ABO式血液型#A型の亜種" title="wikilink">A型</a>、<a href="https://ja.wikipedia.org/wiki/愛知県" title="wikilink">愛知県</a>出身</p></td>
 <td><p>まゆちん、まゆっちょ</p></td>
 <td><p><a href="../Page/青.md" title="wikilink">青</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/新体操" title="wikilink">新体操</a>（県大会2位）</p></td>
+<td><p><a href="../Page/新体操.md" title="wikilink">新体操</a>（県大会2位）</p></td>
 <td><p>まゆのさわやかさ</p></td>
 </tr>
 <tr class="odd">
@@ -50,7 +50,7 @@
 ## 経歴
 
   - [1993年](../Page/1993年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")にスターランドレーベルより「素直に言えない〜もっとそばにいたいけど〜」でデビュー。同レーベルにて[シングル](../Page/シングル.md "wikilink")2枚をリリース。
-  - 翌年の[1994年](../Page/1994年.md "wikilink")[11月2日](../Page/11月2日.md "wikilink")に[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")に移籍し「[少し自惚れて](https://ja.wikipedia.org/wiki/少し自惚れて "wikilink")」をリリース。初の[オリコンランクインを果たす](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")。 [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[12月31日](../Page/12月31日.md "wikilink")の解散までに、同レコード会社にてシングル7枚・[アルバム](../Page/アルバム.md "wikilink")3枚をリリース。
+  - 翌年の[1994年](../Page/1994年.md "wikilink")[11月2日](../Page/11月2日.md "wikilink")に[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")に移籍し「[少し自惚れて](https://ja.wikipedia.org/wiki/少し自惚れて "wikilink")」をリリース。初の[オリコンランクインを果たす](../Page/オリコンチャート.md "wikilink")。 [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[12月31日](../Page/12月31日.md "wikilink")の解散までに、同レコード会社にてシングル7枚・[アルバム](../Page/アルバム.md "wikilink")3枚をリリース。
   - 主なシングル作品に「[運命'95](https://ja.wikipedia.org/wiki/運命'95 "wikilink")」「[Boom Boom My Heart](https://ja.wikipedia.org/wiki/Boom_Boom_My_Heart "wikilink")」などがある。
 
 ## 活動
@@ -63,7 +63,7 @@
 ### テレビ出演
 
   - [フジテレビ系の番組を紹介する](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『赤丸チェック』が、Melodyとして初のテレビレギュラー番組。
-  - 歌番組『[アイドルオンステージ](https://ja.wikipedia.org/wiki/アイドルオンステージ "wikilink")』（[BS2](https://ja.wikipedia.org/wiki/NHK衛星第2テレビジョン "wikilink")）では準レギュラー。番組の放映期間とMelodyの活動期間がほぼ同時期であり、デビューシングルからラストシングルまでの全曲で出演を果たしている。また、シングル曲だけではなくカップリング曲・ソロ曲・カバー曲を歌う機会も与えられていた。シングル「[Oh Please\!](https://ja.wikipedia.org/wiki/Oh_Please! "wikilink")」の時期に1度司会も務める。
+  - 歌番組『[アイドルオンステージ](../Page/アイドルオンステージ.md "wikilink")』（[BS2](../Page/NHK衛星第2テレビジョン.md "wikilink")）では準レギュラー。番組の放映期間とMelodyの活動期間がほぼ同時期であり、デビューシングルからラストシングルまでの全曲で出演を果たしている。また、シングル曲だけではなくカップリング曲・ソロ曲・カバー曲を歌う機会も与えられていた。シングル「[Oh Please\!](https://ja.wikipedia.org/wiki/Oh_Please! "wikilink")」の時期に1度司会も務める。
 
 ### 音楽活動・パート割り
 
@@ -82,15 +82,15 @@
 
   - Melody活動中にも、3人各々が個性を生かした活動を展開。
   - **若杉**は司会のアシスタント等、バラエティ番組に多数出演。『[新春かくし芸大会](../Page/新春かくし芸大会.md "wikilink")』にも一員として出演し、後に自身がナビゲーターをつとめる『[パワーギャング](https://ja.wikipedia.org/wiki/パワーギャング "wikilink")』など、トーク部分を活かせる活動が目された。
-  - **望月**はドラマ『[東京大学物語](https://ja.wikipedia.org/wiki/東京大学物語 "wikilink")』をはじめ、ドラマ出演が多かったが、単独で『M-STAGE』『アイドルオンステージ』といった歌番組に出るなどのソロ活動もあった。
-  - **田中**は「[レモンスカッシュ](https://ja.wikipedia.org/wiki/レモンスカッシュ "wikilink")」のCMに出演後、『逸見政孝物語』『[奇跡のロマンス](https://ja.wikipedia.org/wiki/奇跡のロマンス "wikilink")』といったドラマ出演を多数経験。映画「嵐の季節」や単発ドラマでは主演も務め、女優業を中心にその魅力を発揮していた。
+  - **望月**はドラマ『[東京大学物語](../Page/東京大学物語.md "wikilink")』をはじめ、ドラマ出演が多かったが、単独で『M-STAGE』『アイドルオンステージ』といった歌番組に出るなどのソロ活動もあった。
+  - **田中**は「[レモンスカッシュ](https://ja.wikipedia.org/wiki/レモンスカッシュ "wikilink")」のCMに出演後、『逸見政孝物語』『[奇跡のロマンス](../Page/奇跡のロマンス.md "wikilink")』といったドラマ出演を多数経験。映画「嵐の季節」や単発ドラマでは主演も務め、女優業を中心にその魅力を発揮していた。
 
 ### 解散
 
   - デビュー4年目の1996年には、[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")でのライヴも成功。ライヴビデオ、[PV集](https://ja.wikipedia.org/wiki/ミュージックビデオ "wikilink")、（二か月連続で）シングル、と精力的に作品をリリース。インストアライヴを行った[タワーレコード](../Page/タワーレコード.md "wikilink")渋谷店では、「Boom Boom My Heart」が（当時の同店舗の）1日のCD売り上げ記録を更新。すべてが順調に上昇気流に乗り始めた、と思われていたが、突然の活動休止状態となる。
   - 同年秋、既に一部CD店にて予約を受け付けていたシングルのリリース予定が白紙になる。
   - 翌1997年、ファンクラブ会報にて解散が正式発表された。解散宣言後、ファンクラブバスツアー開催。この時、**望月**は*「私はMelodyが解散するとは思ってなかった…」*という言葉を残した。
-  - 同年暮れに、[新宿NSビル](https://ja.wikipedia.org/wiki/新宿NSビル "wikilink")のラストアルバム発売記念イベントを最後に[解散](https://ja.wikipedia.org/wiki/解散 "wikilink")。ちなみに、この時期（[1990年代](../Page/1990年代.md "wikilink")中盤）のアイドルグループで、解散宣言を行ったのは**[CoCo](https://ja.wikipedia.org/wiki/CoCo_\(アイドルグループ\) "wikilink")**とMelodyだけである。
+  - 同年暮れに、[新宿NSビル](../Page/新宿NSビル.md "wikilink")のラストアルバム発売記念イベントを最後に[解散](https://ja.wikipedia.org/wiki/解散 "wikilink")。ちなみに、この時期（[1990年代](../Page/1990年代.md "wikilink")中盤）のアイドルグループで、解散宣言を行ったのは**[CoCo](../Page/CoCo_\(アイドルグループ\).md "wikilink")**とMelodyだけである。
   - 発売されなかった2ndオリジナルアルバムの一部の曲は、ラストアルバム『fine〜フィーネ〜』に収録されている。
 
 ## 解散後
@@ -124,7 +124,7 @@
 <th><p>#</p></th>
 <th><p>収録曲</p></th>
 <th><p>備考</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -143,9 +143,9 @@
 <td><p><strong>素直に言えない〜もっとそばにいたいけど〜</strong></p></td>
 <td><p>1</p></td>
 <td><p><strong>素直に言えない〜もっとそばにいたいけど〜</strong><br />
-作詞: <a href="https://ja.wikipedia.org/wiki/三浦徳子" title="wikilink">三浦徳子</a><br />
+作詞: <a href="../Page/三浦徳子.md" title="wikilink">三浦徳子</a><br />
 作曲: <a href="../Page/清岡千穂.md" title="wikilink">清岡千穂</a><br />
-編曲: <a href="https://ja.wikipedia.org/wiki/樫原伸彦" title="wikilink">樫原伸彦</a></p></td>
+編曲: <a href="../Page/樫原伸彦.md" title="wikilink">樫原伸彦</a></p></td>
 <td></td>
 <td><p>SIDN-9</p></td>
 </tr>
@@ -204,13 +204,13 @@
 作曲: <a href="https://ja.wikipedia.org/wiki/松本俊明" title="wikilink">松本俊明</a><br />
 編曲: <a href="https://ja.wikipedia.org/wiki/鈴木雅也" title="wikilink">鈴木雅也</a></p></td>
 <td><p>移籍第1弾シングル。<br />
-本作よりディレクターは元<a href="https://ja.wikipedia.org/wiki/NSP_(バンド)" title="wikilink">NSPの平賀和人</a>。</p></td>
+本作よりディレクターは元<a href="../Page/NSP_(バンド).md" title="wikilink">NSPの平賀和人</a>。</p></td>
 <td><p>PCDA-00665</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
 <td><p><strong>唇がふれあえば</strong><br />
-作詞：<a href="https://ja.wikipedia.org/wiki/天野滋" title="wikilink">天野滋</a><br />
+作詞：<a href="../Page/天野滋.md" title="wikilink">天野滋</a><br />
 作曲：<a href="../Page/RABBIT.md" title="wikilink">野下俊哉</a><br />
 編曲：鈴木雅也</p></td>
 <td><p>作曲は<a href="../Page/RABBIT.md" title="wikilink">RABBIT</a>の野下俊哉。</p></td>
@@ -267,12 +267,12 @@
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/運命&#39;95" title="wikilink">運命'95</a></strong></p></td>
 <td><p>1</p></td>
 <td><p><strong>運命'95</strong><br />
-作詞: <a href="https://ja.wikipedia.org/wiki/森若香織" title="wikilink">森若香織</a><br />
-作曲: <a href="https://ja.wikipedia.org/wiki/黒沢健一" title="wikilink">黒沢健一</a><br />
+作詞: <a href="../Page/森若香織.md" title="wikilink">森若香織</a><br />
+作曲: <a href="../Page/黒沢健一.md" title="wikilink">黒沢健一</a><br />
 編曲: <a href="https://ja.wikipedia.org/wiki/新川博" title="wikilink">新川博</a></p></td>
-<td><p>作詞に元<a href="https://ja.wikipedia.org/wiki/GO-BANG&#39;S" title="wikilink">GO-BANG'S</a>の森若香織と作曲に<a href="https://ja.wikipedia.org/wiki/L⇔R" title="wikilink">L⇔R</a>の黒沢健一を迎えた意欲作。<br />
+<td><p>作詞に元<a href="../Page/GO-BANG&#39;S.md" title="wikilink">GO-BANG'S</a>の森若香織と作曲に<a href="https://ja.wikipedia.org/wiki/L⇔R" title="wikilink">L⇔R</a>の黒沢健一を迎えた意欲作。<br />
 オムニバス盤『まちぶせ〜アーティストからの贈りもの』（PCCA-1032）・『Myこれ!クション 秘蔵アイドルユニット16』（PCCA-1845）、ミックスCD『申し訳ないとフロム赤坂 アイドルMIX』（PCCA-2663）収録。<br />
-L⇔Rのアルバム『<a href="https://ja.wikipedia.org/wiki/Let_me_Roll_it!" title="wikilink">Let me Roll it!</a>』に<a href="https://ja.wikipedia.org/wiki/セルフカバー" title="wikilink">セルフカバー</a>が収録されているが、タイトルは「MAYBE BABY」に変更され、歌詞も差し替えられている（作詞は黒沢健一）。</p></td>
+L⇔Rのアルバム『<a href="https://ja.wikipedia.org/wiki/Let_me_Roll_it!" title="wikilink">Let me Roll it!</a>』に<a href="../Page/セルフカバー.md" title="wikilink">セルフカバー</a>が収録されているが、タイトルは「MAYBE BABY」に変更され、歌詞も差し替えられている（作詞は黒沢健一）。</p></td>
 <td><p>PCDA-00758</p></td>
 </tr>
 <tr class="even">
@@ -335,11 +335,11 @@ L⇔Rのアルバム『<a href="https://ja.wikipedia.org/wiki/Let_me_Roll_it!" t
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Oh_Please!" title="wikilink">Oh Please!</a></strong></p></td>
 <td><p>1</p></td>
 <td><p><strong>Oh Please!</strong><br />
-作詞：<a href="https://ja.wikipedia.org/wiki/中山加奈子" title="wikilink">中山加奈子</a><br />
+作詞：<a href="../Page/中山加奈子.md" title="wikilink">中山加奈子</a><br />
 作曲：増本直樹<br />
 編曲：鈴木雅也</p></td>
 <td><p>メインボーカルは田中有紀美。<br />
-作詞は<a href="https://ja.wikipedia.org/wiki/プリンセス_プリンセス" title="wikilink">プリンセス プリンセスの解散を直前に控えた中山加奈子</a>。</p></td>
+作詞は<a href="../Page/プリンセス_プリンセス.md" title="wikilink">プリンセス プリンセスの解散を直前に控えた中山加奈子</a>。</p></td>
 <td><p>PCDA-00848</p></td>
 </tr>
 <tr class="even">
@@ -449,7 +449,7 @@ L⇔Rのアルバム『<a href="https://ja.wikipedia.org/wiki/Let_me_Roll_it!" t
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
 <th><p>備考</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -480,7 +480,7 @@ L⇔Rのアルバム『<a href="https://ja.wikipedia.org/wiki/Let_me_Roll_it!" t
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
 <th><p>備考</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -521,16 +521,16 @@ L⇔Rのアルバム『<a href="https://ja.wikipedia.org/wiki/Let_me_Roll_it!" t
 
 ### タイアップ曲
 
-| 楽曲                                                                                                                                           | タイアップ                                                                                                                | 収録作品                                                                                    |
-| -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| 少し自惚れて                                                                                                                                       | [テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[リングの魂](https://ja.wikipedia.org/wiki/リングの魂 "wikilink")』オープニングテーマ曲             | シングル「[少し自惚れて](https://ja.wikipedia.org/wiki/少し自惚れて "wikilink")」                         |
-| 世界中の微笑み集めてもかなわない                                                                                                                             | '95 [Ban SELECT](https://ja.wikipedia.org/wiki/Ban_\(制汗デオドラント\) "wikilink") CF イメージソング                               | シングル「[世界中の微笑み集めてもかなわない](https://ja.wikipedia.org/wiki/世界中の微笑み集めてもかなわない "wikilink")」     |
-| [NHK BS2](https://ja.wikipedia.org/wiki/NHK衛星第2テレビジョン "wikilink")『[アイドルオンステージ](https://ja.wikipedia.org/wiki/アイドルオンステージ "wikilink")』3月期・今月の歌 |                                                                                                                      |                                                                                         |
-| シルバーリングに口づけを                                                                                                                                 | [テレビ北海道](../Page/テレビ北海道.md "wikilink")『[月刊TV POWER GANG](https://ja.wikipedia.org/wiki/パワーギャング "wikilink")』エンディングテーマ |                                                                                         |
-| 運命'95                                                                                                                                        | [Kodak](../Page/コダック.md "wikilink")『[長野オリンピック編](../Page/1998年長野オリンピック.md "wikilink")』CMソング                           | シングル「[運命'95](https://ja.wikipedia.org/wiki/運命'95 "wikilink")」                           |
-| 青空をあげたい                                                                                                                                      | コダック フィルム CMソング                                                                                                      | シングル「[青空をあげたい](https://ja.wikipedia.org/wiki/青空をあげたい "wikilink")」                       |
-| Boom Boom My Heart (RADIO MIX)                                                                                                               | [ブルボン](../Page/ブルボン.md "wikilink")[ガム](../Page/チューインガム.md "wikilink")『[シュガーレス](../Page/シュガーレス.md "wikilink")』CMソング   | シングル「[Boom Boom My Heart](https://ja.wikipedia.org/wiki/Boom_Boom_My_Heart "wikilink")」 |
-| Boom Boom My Heart (SELFISH MIX)                                                                                                             | [TOKYO GAME SHOW](https://ja.wikipedia.org/wiki/東京ゲームショウ "wikilink")'96 イメージソング                                      |                                                                                         |
+| 楽曲                                                                                                     | タイアップ                                                                                                                | 収録作品                                                                                    |
+| ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| 少し自惚れて                                                                                                 | [テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[リングの魂](../Page/リングの魂.md "wikilink")』オープニングテーマ曲                                | シングル「[少し自惚れて](https://ja.wikipedia.org/wiki/少し自惚れて "wikilink")」                         |
+| 世界中の微笑み集めてもかなわない                                                                                       | '95 [Ban SELECT](https://ja.wikipedia.org/wiki/Ban_\(制汗デオドラント\) "wikilink") CF イメージソング                               | シングル「[世界中の微笑み集めてもかなわない](https://ja.wikipedia.org/wiki/世界中の微笑み集めてもかなわない "wikilink")」     |
+| [NHK BS2](../Page/NHK衛星第2テレビジョン.md "wikilink")『[アイドルオンステージ](../Page/アイドルオンステージ.md "wikilink")』3月期・今月の歌 |                                                                                                                      |                                                                                         |
+| シルバーリングに口づけを                                                                                           | [テレビ北海道](../Page/テレビ北海道.md "wikilink")『[月刊TV POWER GANG](https://ja.wikipedia.org/wiki/パワーギャング "wikilink")』エンディングテーマ |                                                                                         |
+| 運命'95                                                                                                  | [Kodak](../Page/コダック.md "wikilink")『[長野オリンピック編](../Page/1998年長野オリンピック.md "wikilink")』CMソング                           | シングル「[運命'95](https://ja.wikipedia.org/wiki/運命'95 "wikilink")」                           |
+| 青空をあげたい                                                                                                | コダック フィルム CMソング                                                                                                      | シングル「[青空をあげたい](https://ja.wikipedia.org/wiki/青空をあげたい "wikilink")」                       |
+| Boom Boom My Heart (RADIO MIX)                                                                         | [ブルボン](../Page/ブルボン.md "wikilink")[ガム](../Page/チューインガム.md "wikilink")『[シュガーレス](../Page/シュガーレス.md "wikilink")』CMソング   | シングル「[Boom Boom My Heart](https://ja.wikipedia.org/wiki/Boom_Boom_My_Heart "wikilink")」 |
+| Boom Boom My Heart (SELFISH MIX)                                                                       | [TOKYO GAME SHOW](../Page/東京ゲームショウ.md "wikilink")'96 イメージソング                                                         |                                                                                         |
 
 ### ビデオ
 
@@ -542,7 +542,7 @@ L⇔Rのアルバム『<a href="https://ja.wikipedia.org/wiki/Let_me_Roll_it!" t
 <th><p>発売日</p></th>
 <th><p>収録曲</p></th>
 <th><p>備考</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -644,7 +644,7 @@ L⇔Rのアルバム『<a href="https://ja.wikipedia.org/wiki/Let_me_Roll_it!" t
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/タヒチ" title="wikilink">タヒチ</a>にて撮影。<br />
 写真集発売と同時期に「<a href="https://ja.wikipedia.org/wiki/ヤングマガジン" title="wikilink">ヤングマガジン</a>」にて、タヒチロケによる表紙＋グラビア18Pが掲載される。<br />
-「<a href="https://ja.wikipedia.org/wiki/ランク王国" title="wikilink">ランク王国</a>」アイドル写真集月間売り上げ第1位（1997年4月26日オンエア）。</p></td>
+「<a href="../Page/ランク王国.md" title="wikilink">ランク王国</a>」アイドル写真集月間売り上げ第1位（1997年4月26日オンエア）。</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -663,7 +663,7 @@ L⇔Rのアルバム『<a href="https://ja.wikipedia.org/wiki/Let_me_Roll_it!" t
 **Melody**
 
   - Oh\!ソレ見ヨウヨ、赤丸チェック、見逃せナイト（1993年 - 1995年、[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）- レギュラー
-  - [アイドルオンステージ](https://ja.wikipedia.org/wiki/アイドルオンステージ "wikilink")（1993年 - 1997年、[NHK-BS2](https://ja.wikipedia.org/wiki/NHK衛星第2テレビジョン "wikilink")）- 準レギュラー
+  - [アイドルオンステージ](../Page/アイドルオンステージ.md "wikilink")（1993年 - 1997年、[NHK-BS2](../Page/NHK衛星第2テレビジョン.md "wikilink")）- 準レギュラー
   - [夕食ばんざい](https://ja.wikipedia.org/wiki/夕食ばんざい "wikilink")（1994年、フジテレビ系）
   - [どうーなってるの?\!](../Page/どうーなってるの?!.md "wikilink")（1994年、フジテレビ系）
   - [24時間テレビ](https://ja.wikipedia.org/wiki/24時間テレビ_「愛は地球を救う」 "wikilink")（1994年 - 1996年、[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")）
@@ -671,17 +671,17 @@ L⇔Rのアルバム『<a href="https://ja.wikipedia.org/wiki/Let_me_Roll_it!" t
   - [クイズ世界はSHOW by ショーバイ\!\!](../Page/クイズ世界はSHOW_by_ショーバイ!!.md "wikilink")（1995年、日本テレビ系）
   - M-STAGE（1995年 - 1996年、日本テレビ系）
   - [ドリフ大爆笑](../Page/ドリフ大爆笑.md "wikilink")（1995年 - 1996年、フジテレビ系）
-  - [スーパージョッキー](https://ja.wikipedia.org/wiki/スーパージョッキー "wikilink")（1995年 - 1996年、日本テレビ系）- 歌ゲスト
-  - [天才・たけしの元気が出るテレビ\!\!](https://ja.wikipedia.org/wiki/天才・たけしの元気が出るテレビ!! "wikilink")（1996年、日本テレビ系）
+  - [スーパージョッキー](../Page/スーパージョッキー.md "wikilink")（1995年 - 1996年、日本テレビ系）- 歌ゲスト
+  - [天才・たけしの元気が出るテレビ\!\!](../Page/天才・たけしの元気が出るテレビ!!.md "wikilink")（1996年、日本テレビ系）
   - クイズ歌うぞ音楽王（1996年、フジテレビ系）
 
 **[田中有紀美](../Page/田中有紀美.md "wikilink")**の単独出演は同項目を参照のこと。
 
 **望月まゆ**
 
-  - 夏の[ソリトン](../Page/ソリトンシリーズ.md "wikilink")（1994年、[NHK教育テレビ](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")）
+  - 夏の[ソリトン](../Page/ソリトンシリーズ.md "wikilink")（1994年、[NHK教育テレビ](../Page/NHK教育テレビジョン.md "wikilink")）
   - M-STAGE（1995年、日本テレビ系）
-  - [アイドルオンステージ](https://ja.wikipedia.org/wiki/アイドルオンステージ "wikilink")（1995年 - 1996年、NHK-BS2）
+  - [アイドルオンステージ](../Page/アイドルオンステージ.md "wikilink")（1995年 - 1996年、NHK-BS2）
   - [とんねるずの生でダラダラいかせて\!\!](../Page/とんねるずの生でダラダラいかせて!!.md "wikilink")（1996年）
 
 **若杉南**
@@ -691,7 +691,7 @@ L⇔Rのアルバム『<a href="https://ja.wikipedia.org/wiki/Let_me_Roll_it!" t
   - 赤丸スペシャル（1994年、フジテレビ系）
   - See-X（1994年、フジテレビ系）
   - [おはようテレワッサン](https://ja.wikipedia.org/wiki/おはようテレワッサン "wikilink")（1994年、中京テレビ）
-  - [アイドルオンステージ](https://ja.wikipedia.org/wiki/アイドルオンステージ "wikilink")（1996年、NHK-BS2）
+  - [アイドルオンステージ](../Page/アイドルオンステージ.md "wikilink")（1996年、NHK-BS2）
   - 新春芸能人マラソン爆走炎の都島決戦（1996年、[TBS系](../Page/TBSテレビ.md "wikilink")）
   - 第5回爆笑オールスター春の紅白大運動会スペシャル（1996年、フジテレビ系）
   - めざせアトランタ\!（1996年、[テレビ朝日](../Page/テレビ朝日.md "wikilink")系）
@@ -706,16 +706,16 @@ L⇔Rのアルバム『<a href="https://ja.wikipedia.org/wiki/Let_me_Roll_it!" t
 **Melody**
 
   - [世にも奇妙な物語](https://ja.wikipedia.org/wiki/世にも奇妙な物語 "wikilink") 春の特別編「転校生」（1994年3月30日、フジテレビ系）
-  - [3番テーブルの客](https://ja.wikipedia.org/wiki/3番テーブルの客 "wikilink") 第10回（1996年12月23日、フジテレビ系）
+  - [3番テーブルの客](../Page/3番テーブルの客.md "wikilink") 第10回（1996年12月23日、フジテレビ系）
 
 **[田中有紀美](../Page/田中有紀美.md "wikilink")**の単独出演は同項目を参照のこと。
 
 **望月まゆ**
 
   - [スキャンダル](../Page/スキャンダル_\(テレビドラマ\).md "wikilink")（1993年、フジテレビ系）
-  - [もう涙は見せない](https://ja.wikipedia.org/wiki/もう涙は見せない "wikilink")（1993年、フジテレビ系）
+  - [もう涙は見せない](../Page/もう涙は見せない.md "wikilink")（1993年、フジテレビ系）
   - 女教師・沢木圭子2（1994年、フジテレビ系）- 準主演
-  - [東京大学物語](https://ja.wikipedia.org/wiki/東京大学物語 "wikilink")（1994年、テレビ朝日系）
+  - [東京大学物語](../Page/東京大学物語.md "wikilink")（1994年、テレビ朝日系）
   - 生きていてママ（1994年、TBS系）
   - リカちゃんの研修日誌（1995年、日本テレビ系）- 主演
   - ホームスイートホーム（1995年、テレビ朝日系）- 準主演
@@ -723,7 +723,7 @@ L⇔Rのアルバム『<a href="https://ja.wikipedia.org/wiki/Let_me_Roll_it!" t
 
 **若杉南**
 
-  - [17才-at seventeen-](https://ja.wikipedia.org/wiki/17才-at_seventeen- "wikilink")（1994年6月2日、フジテレビ系）
+  - [17才-at seventeen-](../Page/17才-at_seventeen-.md "wikilink")（1994年6月2日、フジテレビ系）
   - [ハートにS](../Page/ハートにS.md "wikilink")「初恋時計」（1994年12月20日、フジテレビ系）
   - [うちの母ですが…](https://ja.wikipedia.org/wiki/うちの母ですが… "wikilink")（1995年、テレビ朝日系）
 
@@ -753,7 +753,7 @@ L⇔Rのアルバム『<a href="https://ja.wikipedia.org/wiki/Let_me_Roll_it!" t
   - [伊集院光のOh\!デカナイト](../Page/伊集院光のOh!デカナイト.md "wikilink")（1994年、1995年）
   - 電波ファイター（1995年、[CBCラジオ](../Page/CBCラジオ.md "wikilink")）- レギュラー
   - [MelodyのMusic Party](https://ja.wikipedia.org/wiki/海砂利水魚のディスコ・ザ・ガマ#MelodyのMusic_Party "wikilink")（1996年 - 1997年、[ニッポン放送](../Page/ニッポン放送.md "wikilink")） [海砂利水魚のディスコ・ザ・ガマ](https://ja.wikipedia.org/wiki/海砂利水魚のディスコ・ザ・ガマ "wikilink")内 - 冠番組
-  - [ゲルゲットショッキングセンター](https://ja.wikipedia.org/wiki/ゲルゲットショッキングセンター "wikilink")（1996年、ニッポン放送）- レギュラー
+  - [ゲルゲットショッキングセンター](../Page/ゲルゲットショッキングセンター.md "wikilink")（1996年、ニッポン放送）- レギュラー
 
 ## CM
 
@@ -764,7 +764,7 @@ L⇔Rのアルバム『<a href="https://ja.wikipedia.org/wiki/Let_me_Roll_it!" t
   - [通商産業省](../Page/経済産業省.md "wikilink")「日本タンナーズ協会」（1995年）
   - [ハウス食品](../Page/ハウス食品.md "wikilink")「ザ・じゃが」（1995年）
   - [ブルボン](../Page/ブルボン.md "wikilink")「シュガーレスガム」（1996年）
-  - [東京ゲームショウ](https://ja.wikipedia.org/wiki/東京ゲームショウ "wikilink")（1996年）
+  - [東京ゲームショウ](../Page/東京ゲームショウ.md "wikilink")（1996年）
 
 **[田中有紀美](../Page/田中有紀美.md "wikilink")**の単独出演は同項目を参照のこと。
 
@@ -784,7 +784,7 @@ L⇔Rのアルバム『<a href="https://ja.wikipedia.org/wiki/Let_me_Roll_it!" t
   - [少年サンデー](https://ja.wikipedia.org/wiki/少年サンデー "wikilink")（1994年）
   - [ヤングアニマル](https://ja.wikipedia.org/wiki/ヤングアニマル "wikilink")（1994年、1995年）
   - [ファミコン通信](https://ja.wikipedia.org/wiki/ファミコン通信 "wikilink")（1994年、1995年）
-  - [SPA\!](https://ja.wikipedia.org/wiki/SPA! "wikilink")（1995年）
+  - [SPA\!](../Page/SPA!.md "wikilink")（1995年）
   - GATIN（1995年）
   - ヤングテイオー（1996年）他
 
@@ -792,8 +792,8 @@ L⇔Rのアルバム『<a href="https://ja.wikipedia.org/wiki/Let_me_Roll_it!" t
 
 **望月まゆ**
 
-  - [週刊現代](https://ja.wikipedia.org/wiki/週刊現代 "wikilink")（1994年）
-  - [週刊ポスト](https://ja.wikipedia.org/wiki/週刊ポスト "wikilink")（1994年）他
+  - [週刊現代](../Page/週刊現代.md "wikilink")（1994年）
+  - [週刊ポスト](../Page/週刊ポスト.md "wikilink")（1994年）他
 
 ## グッズ
 
@@ -802,17 +802,17 @@ L⇔Rのアルバム『<a href="https://ja.wikipedia.org/wiki/Let_me_Roll_it!" t
 
 ## 関連項目
 
-  - [NSP](https://ja.wikipedia.org/wiki/NSP_\(バンド\) "wikilink")
+  - [NSP](../Page/NSP_\(バンド\).md "wikilink")
   - [河合夕子](../Page/河合夕子.md "wikilink") - ボーカルディレクションを担当。
-  - [森若香織](https://ja.wikipedia.org/wiki/森若香織 "wikilink")
+  - [森若香織](../Page/森若香織.md "wikilink")
   - 鈴木雅也 - 大半の楽曲アレンジを担当。ライヴで[キーボードを担当](../Page/キーボード_\(楽器\).md "wikilink")。
-  - 吉田佳史（[TRICERATOPS](https://ja.wikipedia.org/wiki/TRICERATOPS "wikilink")）- ライヴで[ドラムを担当](../Page/ドラムセット.md "wikilink")。
-  - [高井寿](https://ja.wikipedia.org/wiki/高井寿 "wikilink") - ライヴで[ギター](../Page/ギター.md "wikilink")を担当。
+  - 吉田佳史（[TRICERATOPS](../Page/TRICERATOPS.md "wikilink")）- ライヴで[ドラムを担当](../Page/ドラムセット.md "wikilink")。
+  - [高井寿](../Page/高井寿.md "wikilink") - ライヴで[ギター](../Page/ギター.md "wikilink")を担当。
   - 彩木映利 - シングル曲の[振付](https://ja.wikipedia.org/wiki/振付 "wikilink")を担当。
-  - [レイモンド・ジョンソン](https://ja.wikipedia.org/wiki/レイモンド・ジョンソン "wikilink") - ライヴステージの振付を担当。
+  - [レイモンド・ジョンソン](../Page/レイモンド・ジョンソン.md "wikilink") - ライヴステージの振付を担当。
   - [木野正人](https://ja.wikipedia.org/wiki/CHA-CHA "wikilink") - PV「Oh Please\!」の振付を担当。
-  - [吉田朋代](https://ja.wikipedia.org/wiki/吉田朋代_\(シンガーソングライター\) "wikilink") -「PIECE OF THE CHANCE」のコーラスで参加。
-  - [斉藤瞳](https://ja.wikipedia.org/wiki/斉藤瞳 "wikilink") （[メロン記念日](../Page/メロン記念日.md "wikilink")）- ライヴやブログ等でファンであることを度々公言している。
+  - [吉田朋代](../Page/吉田朋代_\(シンガーソングライター\).md "wikilink") -「PIECE OF THE CHANCE」のコーラスで参加。
+  - [斉藤瞳](../Page/斉藤瞳.md "wikilink") （[メロン記念日](../Page/メロン記念日.md "wikilink")）- ライヴやブログ等でファンであることを度々公言している。
 
 ## 脚注
 
@@ -826,7 +826,7 @@ L⇔Rのアルバム『<a href="https://ja.wikipedia.org/wiki/Let_me_Roll_it!" t
 [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:過去のフォスター所属者](https://ja.wikipedia.org/wiki/Category:過去のフォスター所属者 "wikilink")
 
 1.  「アイドル黄金時代大名鑑」グラフィック社、2002年3月25日発行
-2.  「[日経エンタテインメント\!](https://ja.wikipedia.org/wiki/日経エンタテインメント! "wikilink")」日経BP社、2013年11月号 No.200
+2.  「[日経エンタテインメント\!](../Page/日経エンタテインメント!.md "wikilink")」日経BP社、2013年11月号 No.200
 3.  「オリコン・ウィーク The Ichiban」オリコン、1999年12月20日号
 4.  「別冊宝島　100万人のアイドルポップス」宝島社、2002年10月30日発行
 5.  「ラグジュアリー歌謡」disk union DU BOOKS、2013年3月1日発行

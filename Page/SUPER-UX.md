@@ -1,7 +1,7 @@
 > この記事は[SUPER-UX](https://ja.wikipedia.org/wiki/SUPER-UX)から翻訳されています。
 
 
-**SUPER-UX**は、[日本電気](../Page/日本電気.md "wikilink")（NEC）のベクトルスーパコンピュータ[SXシリーズ用](https://ja.wikipedia.org/wiki/NEC_SX "wikilink")[UNIX](../Page/UNIX.md "wikilink")である。
+**SUPER-UX**は、[日本電気](../Page/日本電気.md "wikilink")（NEC）のベクトルスーパコンピュータ[SXシリーズ用](../Page/NEC_SX.md "wikilink")[UNIX](../Page/UNIX.md "wikilink")である。
 
 当初のSXシリーズは、当時の他の日本製スパコンメーカ（富士通と日立）と同様、自社の[汎用機](../Page/メインフレーム.md "wikilink")（NECの場合は[ACOS](../Page/Advanced_Comprehensive_Operating_System.md "wikilink")）を高性能計算以外の処理に使う構成としていたこともあり、その汎用機用OSであるACOS\[1\]をベースとした[SX-OS](https://ja.wikipedia.org/wiki/SX-OS "wikilink")を使用していた。
 

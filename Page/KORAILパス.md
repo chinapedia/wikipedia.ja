@@ -1,7 +1,7 @@
 > この記事は[KORAIL](https://ja.wikipedia.org/wiki/KORAIL)から翻訳されています。
 
 
-**コレールパス**（KORAIL PASS）は、[韓国鉄道公社](https://ja.wikipedia.org/wiki/韓国鉄道公社 "wikilink")（KORAIL）が[韓国を訪れる外国人向けに発行している](../Page/大韓民国.md "wikilink")[周遊乗車券](https://ja.wikipedia.org/wiki/周遊券 "wikilink")。旧称、コリアレールパス（**K**OREA **R**AIL **PASS**、**KRパス**）。かつて「[平昌コレールパス](https://ja.wikipedia.org/wiki/#平昌コレールパス "wikilink")」として期間限定で販売されていた類似の商品についてもこの項で併記する。
+**コレールパス**（KORAIL PASS）は、[韓国鉄道公社](../Page/韓国鉄道公社.md "wikilink")（KORAIL）が[韓国を訪れる外国人向けに発行している](../Page/大韓民国.md "wikilink")[周遊乗車券](https://ja.wikipedia.org/wiki/周遊券 "wikilink")。旧称、コリアレールパス（**K**OREA **R**AIL **PASS**、**KRパス**）。かつて「[平昌コレールパス](https://ja.wikipedia.org/wiki/#平昌コレールパス "wikilink")」として期間限定で販売されていた類似の商品についてもこの項で併記する。
 
 ## 概要
 
@@ -20,7 +20,7 @@
 
 ### 購入法
 
-[KRpass_voucher.JPG](https://ja.wikipedia.org/wiki/File:KRpass_voucher.JPG "fig:KRpass_voucher.JPG") 韓国鉄道公社の購入ページで直接本券が発券可能なほか、[ソウル](https://ja.wikipedia.org/wiki/ソウル駅 "wikilink")・[永登浦](https://ja.wikipedia.org/wiki/永登浦駅 "wikilink")・[大田](https://ja.wikipedia.org/wiki/大田駅 "wikilink")・[東大邱](https://ja.wikipedia.org/wiki/東大邱駅 "wikilink")・[釜山](https://ja.wikipedia.org/wiki/釜山駅 "wikilink")・[慶州](../Page/慶州駅.md "wikilink")・[光州などといった主要駅の旅行センターや](https://ja.wikipedia.org/wiki/光州駅 "wikilink")、指定[旅行代理店](../Page/旅行代理店.md "wikilink")で購入が可能。また、オンラインで本券を購入した場合、同時に座席指定も可能。
+[KRpass_voucher.JPG](https://ja.wikipedia.org/wiki/File:KRpass_voucher.JPG "fig:KRpass_voucher.JPG") 韓国鉄道公社の購入ページで直接本券が発券可能なほか、[ソウル](https://ja.wikipedia.org/wiki/ソウル駅 "wikilink")・[永登浦](../Page/永登浦駅.md "wikilink")・[大田](https://ja.wikipedia.org/wiki/大田駅 "wikilink")・[東大邱](../Page/東大邱駅.md "wikilink")・[釜山](https://ja.wikipedia.org/wiki/釜山駅 "wikilink")・[慶州](../Page/慶州駅.md "wikilink")・[光州などといった主要駅の旅行センターや](../Page/光州駅.md "wikilink")、指定[旅行代理店](../Page/旅行代理店.md "wikilink")で購入が可能。また、オンラインで本券を購入した場合、同時に座席指定も可能。
 
 2017年8月1日以前は、韓国国内では原則として販売しなかったほか、事前に海外の旅行代理店で交換券（バウチャー）を購入するか、韓国鉄道公社の購入ページから引換券を直接購入して表示される「Eチケット」を印刷した後、韓国入国後に本券と交換する必要があった。
 
@@ -54,18 +54,18 @@
 
 ### 使用可能な路線及び特典
 
-  - [広域電鉄](../Page/広域電鉄.md "wikilink")・[首都圏電鉄](https://ja.wikipedia.org/wiki/首都圏電鉄 "wikilink")、[団体列車](https://ja.wikipedia.org/wiki/団体専用列車 "wikilink")、[SRTを除くKORAIL全線の一般室](https://ja.wikipedia.org/wiki/SRT_\(列車\) "wikilink")[指定席](https://ja.wikipedia.org/wiki/指定席 "wikilink")、観光列車（[O-train](https://ja.wikipedia.org/wiki/中部内陸循環列車 "wikilink")・[V-train](https://ja.wikipedia.org/wiki/白頭大幹峡谷列車 "wikilink")・[A-train](https://ja.wikipedia.org/wiki/旌善アリラン列車 "wikilink")・[S-train](https://ja.wikipedia.org/wiki/南道海洋観光列車 "wikilink")・[G-train](https://ja.wikipedia.org/wiki/西海金光列車 "wikilink")・[DMZ-train](https://ja.wikipedia.org/wiki/DMZ-Train "wikilink")）が乗車可（事前に座席指定券の発行を受ける。座席指定券の発券枚数は1人1日2枚まで\[1\]）
-      - 年末年始、[旧正月](https://ja.wikipedia.org/wiki/旧正月 "wikilink")、[秋夕](https://ja.wikipedia.org/wiki/秋夕 "wikilink")、夏休みは[KTX](https://ja.wikipedia.org/wiki/韓国高速鉄道 "wikilink")・[ITX-セマウル](https://ja.wikipedia.org/wiki/ITX-セマウル "wikilink")・[ムグンファ号](https://ja.wikipedia.org/wiki/ムグンファ号 "wikilink")の指定席は利用できない（立席は可）。
+  - [広域電鉄](../Page/広域電鉄.md "wikilink")・[首都圏電鉄](../Page/首都圏電鉄.md "wikilink")、[団体列車](../Page/団体専用列車.md "wikilink")、[SRTを除くKORAIL全線の一般室](https://ja.wikipedia.org/wiki/SRT_\(列車\) "wikilink")[指定席](https://ja.wikipedia.org/wiki/指定席 "wikilink")、観光列車（[O-train](https://ja.wikipedia.org/wiki/中部内陸循環列車 "wikilink")・[V-train](https://ja.wikipedia.org/wiki/白頭大幹峡谷列車 "wikilink")・[A-train](https://ja.wikipedia.org/wiki/旌善アリラン列車 "wikilink")・[S-train](https://ja.wikipedia.org/wiki/南道海洋観光列車 "wikilink")・[G-train](https://ja.wikipedia.org/wiki/西海金光列車 "wikilink")・[DMZ-train](https://ja.wikipedia.org/wiki/DMZ-Train "wikilink")）が乗車可（事前に座席指定券の発行を受ける。座席指定券の発券枚数は1人1日2枚まで\[1\]）
+      - 年末年始、[旧正月](https://ja.wikipedia.org/wiki/旧正月 "wikilink")、[秋夕](https://ja.wikipedia.org/wiki/秋夕 "wikilink")、夏休みは[KTX](https://ja.wikipedia.org/wiki/韓国高速鉄道 "wikilink")・[ITX-セマウル](https://ja.wikipedia.org/wiki/ITX-セマウル "wikilink")・[ムグンファ号](../Page/ムグンファ号.md "wikilink")の指定席は利用できない（立席は可）。
       - [平昌オリンピック前後の](https://ja.wikipedia.org/wiki/2018年平昌オリンピック "wikilink")2018年2月1日 - 3月25日の間は、[京江線](https://ja.wikipedia.org/wiki/京江線 "wikilink")直通のKTXは利用不可。別途発売される「[平昌コレールパス](https://ja.wikipedia.org/wiki/#平昌コレールパス "wikilink")」のみ利用可能。
   - 特室は一般室料金との差の半額で使用可
   - 提携する[ホテル](../Page/ホテル.md "wikilink")が割引
-  - [ウリィ銀行](https://ja.wikipedia.org/wiki/ウリィ銀行 "wikilink")で両替時、優待レート適用（米ドルと日本円に限る）
-  - [ソウルシティツアーバス](https://ja.wikipedia.org/wiki/ソウルシティツアーバス "wikilink")乗車券購入時、15パーセント割引
+  - [ウリィ銀行](../Page/ウリィ銀行.md "wikilink")で両替時、優待レート適用（米ドルと日本円に限る）
+  - [ソウルシティツアーバス](../Page/ソウルシティツアーバス.md "wikilink")乗車券購入時、15パーセント割引
   - その他、特定観光施設が割引
 
 ### 航路とのセット商品
 
-[博多港](../Page/博多港.md "wikilink") - [釜山港](https://ja.wikipedia.org/wiki/釜山港 "wikilink")間の高速船「[ビートル](https://ja.wikipedia.org/wiki/ビートル_\(高速船\) "wikilink")」を運航する[JR九州高速船](../Page/JR九州高速船.md "wikilink")（2006年4月からは[未来高速](https://ja.wikipedia.org/wiki/未来高速 "wikilink")「[コビー](https://ja.wikipedia.org/wiki/コビー "wikilink")」と共同運航化）では、それぞれ**「コリアレール&ビートルパス」**として、航路の往復運賃とコリアレールパスをセットにした商品を販売している。各商品の種類と料金は以下の通り（2006年4月現在）。
+[博多港](../Page/博多港.md "wikilink") - [釜山港](https://ja.wikipedia.org/wiki/釜山港 "wikilink")間の高速船「[ビートル](../Page/ビートル_\(高速船\).md "wikilink")」を運航する[JR九州高速船](../Page/JR九州高速船.md "wikilink")（2006年4月からは[未来高速](https://ja.wikipedia.org/wiki/未来高速 "wikilink")「[コビー](https://ja.wikipedia.org/wiki/コビー "wikilink")」と共同運航化）では、それぞれ**「コリアレール&ビートルパス」**として、航路の往復運賃とコリアレールパスをセットにした商品を販売している。各商品の種類と料金は以下の通り（2006年4月現在）。
 
 なお博多港 - 釜山港間の運賃は、両社とも通常期片道13,000円（子供半額）、往復24,000円（子供料金は未来高速のみ設定で半額）、平日割引だと20,000円（両社とも大人のみ設定）である。
 
@@ -86,7 +86,7 @@
 
 ## 平昌コレールパス
 
-**平昌コレールパス**（ピョンチャン コレールパス）は、[韓国鉄道公社](https://ja.wikipedia.org/wiki/韓国鉄道公社 "wikilink")の外国人専用鉄道パス。[2018年平昌オリンピック](https://ja.wikipedia.org/wiki/2018年平昌オリンピック "wikilink")および[平昌パラリンピック](https://ja.wikipedia.org/wiki/平昌パラリンピック "wikilink")の期間中のみ利用可能。両大会期間中（2018年2月1日～3月25日）、KTX[京江線](https://ja.wikipedia.org/wiki/京江線 "wikilink")が利用できる唯一の外国人専用鉄道パスである（通常の[コレールパス](https://ja.wikipedia.org/wiki/コレールパス "wikilink")では利用不可）。
+**平昌コレールパス**（ピョンチャン コレールパス）は、[韓国鉄道公社](../Page/韓国鉄道公社.md "wikilink")の外国人専用鉄道パス。[2018年平昌オリンピック](https://ja.wikipedia.org/wiki/2018年平昌オリンピック "wikilink")および[平昌パラリンピック](https://ja.wikipedia.org/wiki/平昌パラリンピック "wikilink")の期間中のみ利用可能。両大会期間中（2018年2月1日～3月25日）、KTX[京江線](https://ja.wikipedia.org/wiki/京江線 "wikilink")が利用できる唯一の外国人専用鉄道パスである（通常の[コレールパス](https://ja.wikipedia.org/wiki/コレールパス "wikilink")では利用不可）。
 
 ### 概要
 
@@ -98,7 +98,7 @@
   - 使用開始日までは1回に限り使用開始日を変更可能
   - 平昌コレールパス本券としても使用可能な、記念のプリペイド式[交通系ICカード](../Page/乗車カード.md "wikilink")（Rail+カード）つき
   - 予約購入特典（2017年10月10日～2018年1月10日の期間に購入）として5,000ウォンチャージつき
-  - 予約購入特典としてソウル、[釜山](../Page/釜山広域市.md "wikilink")、[慶州](../Page/慶州市.md "wikilink")、[仁川](../Page/仁川広域市.md "wikilink")、[済州](https://ja.wikipedia.org/wiki/済州市 "wikilink")、[大邱の](../Page/大邱広域市.md "wikilink")6都市で使用できるシティツアーの無料クーポンつき
+  - 予約購入特典としてソウル、[釜山](../Page/釜山広域市.md "wikilink")、[慶州](../Page/慶州市.md "wikilink")、[仁川](../Page/仁川広域市.md "wikilink")、[済州](../Page/済州市.md "wikilink")、[大邱の](../Page/大邱広域市.md "wikilink")6都市で使用できるシティツアーの無料クーポンつき
   - 予約購入特典として空港鉄道手荷物保管および配送サービス10％割引
   - 予約購入特典として免税店、ホテル、博物館などの提携サービス割引
   - 2018年2月15日から18日は韓国の[ソルラル](https://ja.wikipedia.org/wiki/ソルラル "wikilink")（旧正月）連休にあたるため混雑が予想される。
@@ -107,9 +107,9 @@
 
 ## 関連項目
 
-  - [大韓民国の鉄道](https://ja.wikipedia.org/wiki/大韓民国の鉄道 "wikilink")
+  - [大韓民国の鉄道](../Page/大韓民国の鉄道.md "wikilink")
   - [日韓共同きっぷ](../Page/日韓共同きっぷ.md "wikilink")
-  - [ソウルシティパス](../Page/ソウルシティパス.md "wikilink") - [首都圏電鉄](https://ja.wikipedia.org/wiki/首都圏電鉄 "wikilink")（[広域電鉄](../Page/広域電鉄.md "wikilink")、[ソウル](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")・[仁川の](../Page/仁川広域市.md "wikilink")[地下鉄](https://ja.wikipedia.org/wiki/韓国の地下鉄 "wikilink")）で使用可能な周遊乗車券
+  - [ソウルシティパス](../Page/ソウルシティパス.md "wikilink") - [首都圏電鉄](../Page/首都圏電鉄.md "wikilink")（[広域電鉄](../Page/広域電鉄.md "wikilink")、[ソウル](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")・[仁川の](../Page/仁川広域市.md "wikilink")[地下鉄](../Page/韓国の地下鉄.md "wikilink")）で使用可能な周遊乗車券
 
 ## 外部リンク
 

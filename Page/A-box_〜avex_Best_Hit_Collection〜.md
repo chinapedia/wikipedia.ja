@@ -7,10 +7,10 @@
 
 ### 解説
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[2月10日](../Page/2月10日.md "wikilink")にリリース。
+  - [2006年](../Page/2006年.md "wikilink")[2月10日](../Page/2月10日.md "wikilink")にリリース。
   - エイベックス所属のアーティストを中心とした[1990年代](../Page/1990年代.md "wikilink")から[2000年代](../Page/2000年代.md "wikilink")にかけたヒット曲ばかりを集めた、通販限定のオムニバスCDである。
   - CD4枚組で全60曲を収録した、オリジナルマスター音源を使用。
-  - 販売される放映番組は、[住商ホームショッピング](https://ja.wikipedia.org/wiki/住商ホームショッピング "wikilink")は2006年2月下旬、[TBS](../Page/TBSテレビ.md "wikilink")『[ブランチショッピング](https://ja.wikipedia.org/wiki/王様のブランチ "wikilink")』は同年3月、[テレビ朝日](../Page/テレビ朝日.md "wikilink")『[セレクションX](https://ja.wikipedia.org/wiki/セレクションX/F "wikilink")』は同年3月16日開始。
+  - 販売される放映番組は、[住商ホームショッピング](../Page/住商ホームショッピング.md "wikilink")は2006年2月下旬、[TBS](../Page/TBSテレビ.md "wikilink")『[ブランチショッピング](https://ja.wikipedia.org/wiki/王様のブランチ "wikilink")』は同年3月、[テレビ朝日](../Page/テレビ朝日.md "wikilink")『[セレクションX](https://ja.wikipedia.org/wiki/セレクションX/F "wikilink")』は同年3月16日開始。
   - 2010年では、通常のCD流通ルートのみならず、全国の[高速道路](../Page/高速道路.md "wikilink")[内売店向けにも出荷されている](../Page/サービスエリア.md "wikilink")、「a-box」の全4枚のうち各1枚として販売されている。
 
 ### 収録曲
@@ -35,28 +35,28 @@
 <td><p><a href="../Page/TRF.md" title="wikilink">TRF</a></p></td>
 <td><p>1993年6月21日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/avex_trax" title="wikilink">avex trax</a></p></td>
-<td><p><a href="../Page/ブリストル・マイヤーズ_スクイブ.md" title="wikilink">ブリストル・マイヤーズ スクイブ</a>「<a href="https://ja.wikipedia.org/wiki/シーブリーズ" title="wikilink">シーブリーズ</a>」CMソング</p></td>
+<td><p><a href="../Page/ブリストル・マイヤーズ_スクイブ.md" title="wikilink">ブリストル・マイヤーズ スクイブ</a>「<a href="../Page/シーブリーズ.md" title="wikilink">シーブリーズ</a>」CMソング</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Boys_&amp;_Girls_(浜崎あゆみの曲)" title="wikilink">Boys &amp; Girls</a></p></td>
+<td><p><a href="../Page/Boys_&amp;_Girls_(浜崎あゆみの曲).md" title="wikilink">Boys &amp; Girls</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/浜崎あゆみ" title="wikilink">浜崎あゆみ</a></p></td>
 <td><p>1999年7月14日</p></td>
-<td><p><a href="../Page/花王.md" title="wikilink">花王</a>「<a href="https://ja.wikipedia.org/wiki/ソフィーナ" title="wikilink">ソフィーナ</a> オーブ ルージュ ドレシャス」CMソング</p></td>
+<td><p><a href="../Page/花王.md" title="wikilink">花王</a>「<a href="../Page/ソフィーナ.md" title="wikilink">ソフィーナ</a> オーブ ルージュ ドレシャス」CMソング</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/VALENTI" title="wikilink">VALENTI</a></p></td>
+<td><p><a href="../Page/VALENTI.md" title="wikilink">VALENTI</a></p></td>
 <td><p><a href="../Page/BoA.md" title="wikilink">BoA</a></p></td>
 <td><p>2002年8月28日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_2" title="wikilink">プレイステーション2用ソフト</a>「PROJECT MINERVA」イメージソング<br />
-<a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ系</a>「『<a href="https://ja.wikipedia.org/wiki/AX_MUSIC-TV" title="wikilink">AX MUSIC-TV</a>』AX POWER PLAY #009」テーマソング</p></td>
+<a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ系</a>「『<a href="../Page/AX_MUSIC-TV.md" title="wikilink">AX MUSIC-TV</a>』AX POWER PLAY #009」テーマソング</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/桃ノ花ビラ" title="wikilink">桃ノ花ビラ</a></p></td>
+<td><p><a href="../Page/桃ノ花ビラ.md" title="wikilink">桃ノ花ビラ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/大塚愛" title="wikilink">大塚愛</a></p></td>
 <td><p>2003年9月10日</p></td>
 <td><p><a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ系ドラマ</a>『<a href="../Page/すいか_(テレビドラマ).md" title="wikilink">すいか</a>』主題歌</p></td>
@@ -64,7 +64,7 @@
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Feel_Like_dance" title="wikilink">Feel Like dance</a></p></td>
+<td><p><a href="../Page/Feel_Like_dance.md" title="wikilink">Feel Like dance</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/globe" title="wikilink">globe</a></p></td>
 <td><p>1995年8月9日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/avex_globe" title="wikilink">avex globe</a></p></td>
@@ -72,7 +72,7 @@
 </tr>
 <tr class="even">
 <td><p>6</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Dear_My_Friend_(Every_Little_Thingの曲)" title="wikilink">Dear My Friend</a></p></td>
+<td><p><a href="../Page/Dear_My_Friend_(Every_Little_Thingの曲).md" title="wikilink">Dear My Friend</a></p></td>
 <td><p><a href="../Page/Every_Little_Thing.md" title="wikilink">Every Little Thing</a></p></td>
 <td><p>1997年1月22日</p></td>
 <td><p>avex trax</p></td>
@@ -93,7 +93,7 @@
 <td><p>1997年2月13日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/cutting_edge" title="wikilink">cutting edge</a><br />
 （レーベル：motorod）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ワールド_(企業)" title="wikilink">ワールド</a>「O・Z・O・C」CMソング</p></td>
+<td><p><a href="../Page/ワールド_(企業).md" title="wikilink">ワールド</a>「O・Z・O・C」CMソング</p></td>
 </tr>
 <tr class="odd">
 <td><p>9</p></td>
@@ -101,12 +101,12 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/hitomi" title="wikilink">hitomi</a></p></td>
 <td><p>1996年8月7日</p></td>
 <td><p>avex trax</p></td>
-<td><p><a href="../Page/関西テレビ放送.md" title="wikilink">関西テレビ</a>・<a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ系ドラマ</a>『<a href="https://ja.wikipedia.org/wiki/もう我慢できない!" title="wikilink">もう我慢できない!</a>』エンディング・テーマ</p></td>
+<td><p><a href="../Page/関西テレビ放送.md" title="wikilink">関西テレビ</a>・<a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ系ドラマ</a>『<a href="../Page/もう我慢できない!.md" title="wikilink">もう我慢できない!</a>』エンディング・テーマ</p></td>
 </tr>
 <tr class="even">
 <td><p>10</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ごきげんだぜっ!_〜Nothing_But_Something〜" title="wikilink">ごきげんだぜっ! 〜Nothing But Something〜</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/DA_PUMP" title="wikilink">DA PUMP</a></p></td>
+<td><p><a href="../Page/DA_PUMP.md" title="wikilink">DA PUMP</a></p></td>
 <td><p>1998年4月22日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/avex_tune" title="wikilink">avex tune</a></p></td>
 <td><p><a href="../Page/シャープ.md" title="wikilink">シャープ</a>「MD-J」CMソング<br />
@@ -118,7 +118,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/MAX_(音楽グループ)" title="wikilink">MAX</a></p></td>
 <td><p>1997年4月9日</p></td>
 <td><p>avex trax</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/たらみ" title="wikilink">たらみ</a>「スイーティースイーティー」CMソング<br />
+<td><p><a href="../Page/たらみ.md" title="wikilink">たらみ</a>「スイーティースイーティー」CMソング<br />
 パル企画映画『Give me a Shake レディースMAX』主題歌</p></td>
 </tr>
 <tr class="even">
@@ -126,7 +126,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/survival_dAnce_〜no_no_cry_more〜" title="wikilink">survival dAnce 〜no no cry more〜</a></p></td>
 <td><p>TRF</p></td>
 <td><p>1994年5月25日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ系ドラマ</a>『<a href="https://ja.wikipedia.org/wiki/17才-at_seventeen-" title="wikilink">17才-at seventeen-</a>』主題歌</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ系ドラマ</a>『<a href="../Page/17才-at_seventeen-.md" title="wikilink">17才-at seventeen-</a>』主題歌</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -139,15 +139,15 @@
 </tr>
 <tr class="even">
 <td><p>14</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/GOING_GOING_HOME" title="wikilink">GOING GOING HOME</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/H_Jungle_with_t" title="wikilink">H Jungle with t</a></p></td>
+<td><p><a href="../Page/GOING_GOING_HOME.md" title="wikilink">GOING GOING HOME</a></p></td>
+<td><p><a href="../Page/H_Jungle_with_t.md" title="wikilink">H Jungle with t</a></p></td>
 <td><p>1995年7月19日</p></td>
 <td><p>avex trax</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ系</a>『<a href="https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP" title="wikilink">HEY!HEY!HEY!MUSIC CHAMP</a>』イメージソング</p></td>
 </tr>
 <tr class="odd">
 <td><p>15</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/CAN_YOU_CELEBRATE?" title="wikilink">CAN YOU CELEBRATE?</a></p></td>
+<td><p><a href="../Page/CAN_YOU_CELEBRATE?.md" title="wikilink">CAN YOU CELEBRATE?</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/安室奈美恵" title="wikilink">安室奈美恵</a></p></td>
 <td><p>1997年2月19日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ系ドラマ</a>『<a href="https://ja.wikipedia.org/wiki/バージンロード" title="wikilink">バージンロード</a>』主題歌</p></td>
@@ -200,29 +200,29 @@
 <td><p>globe</p></td>
 <td><p>1997年10月15日</p></td>
 <td><p>avex globe</p></td>
-<td><p><a href="../Page/TBSテレビ.md" title="wikilink">TBS系ドラマ</a>『<a href="https://ja.wikipedia.org/wiki/青い鳥_(テレビドラマ)" title="wikilink">青い鳥</a>』主題歌</p></td>
+<td><p><a href="../Page/TBSテレビ.md" title="wikilink">TBS系ドラマ</a>『<a href="../Page/青い鳥_(テレビドラマ).md" title="wikilink">青い鳥</a>』主題歌</p></td>
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/夢見る少女じゃいられない" title="wikilink">夢見る少女じゃいられない</a></p></td>
+<td><p><a href="../Page/夢見る少女じゃいられない.md" title="wikilink">夢見る少女じゃいられない</a></p></td>
 <td><p>相川七瀬</p></td>
 <td><p>1995年11月8日</p></td>
 <td><p>cutting edge<br />
 （レーベル：motorod）</p></td>
 <td><p>「SUPER NOVA RACING」CMソング<br />
-<a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ系</a>『<a href="https://ja.wikipedia.org/wiki/Vの炎" title="wikilink">Vの炎</a>』エンディング・テーマ</p></td>
+<a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ系</a>『<a href="../Page/Vの炎.md" title="wikilink">Vの炎</a>』エンディング・テーマ</p></td>
 </tr>
 <tr class="even">
 <td><p>6</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/You&#39;re_my_sunshine" title="wikilink">You're my sunshine</a></p></td>
+<td><p><a href="../Page/You&#39;re_my_sunshine.md" title="wikilink">You're my sunshine</a></p></td>
 <td><p>安室奈美恵</p></td>
 <td><p>1996年6月5日</p></td>
 <td><p>avex trax</p></td>
-<td><p><a href="../Page/ブリストル・マイヤーズ_スクイブ.md" title="wikilink">ブリストル・マイヤーズ スクイブ</a>「<a href="https://ja.wikipedia.org/wiki/シーブリーズ" title="wikilink">シーブリーズ</a>」'96 CMソング</p></td>
+<td><p><a href="../Page/ブリストル・マイヤーズ_スクイブ.md" title="wikilink">ブリストル・マイヤーズ スクイブ</a>「<a href="../Page/シーブリーズ.md" title="wikilink">シーブリーズ</a>」'96 CMソング</p></td>
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/叫び_(野猿の曲)" title="wikilink">叫び</a></p></td>
+<td><p><a href="../Page/叫び_(野猿の曲).md" title="wikilink">叫び</a></p></td>
 <td><p><a href="../Page/野猿.md" title="wikilink">野猿</a></p></td>
 <td><p>1998年9月17日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ系</a>『<a href="../Page/とんねるずのみなさんのおかげでした.md" title="wikilink">とんねるずのみなさんのおかげでした</a>』エンディング・テーマ</p></td>
@@ -270,23 +270,23 @@
 </tr>
 <tr class="odd">
 <td><p>13</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FRIENDSHIP_(H_Jungle_with_tの曲)" title="wikilink">FRIENDSHIP</a></p></td>
+<td><p><a href="../Page/FRIENDSHIP_(H_Jungle_with_tの曲).md" title="wikilink">FRIENDSHIP</a></p></td>
 <td><p>H Jungle with t</p></td>
 <td><p>1996年4月24日</p></td>
 <td><p>avex trax</p></td>
-<td><p><a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ系ドラマ</a>『<a href="https://ja.wikipedia.org/wiki/竜馬におまかせ!" title="wikilink">竜馬におまかせ!</a>』主題歌</p></td>
+<td><p><a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ系ドラマ</a>『<a href="../Page/竜馬におまかせ!.md" title="wikilink">竜馬におまかせ!</a>』主題歌</p></td>
 </tr>
 <tr class="even">
 <td><p>14</p></td>
 <td><p><a href="../Page/WAになっておどろう.md" title="wikilink">ILE AIYE 〜WAになっておどろう〜</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/AGHARTA" title="wikilink">AGHARTA</a></p></td>
+<td><p><a href="../Page/AGHARTA.md" title="wikilink">AGHARTA</a></p></td>
 <td><p>1995年7月19日</p></td>
 <td><p>avex ideak</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHKテレビ</a>『<a href="https://ja.wikipedia.org/wiki/みんなのうた" title="wikilink">みんなのうた</a>』より</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHKテレビ</a>『<a href="../Page/みんなのうた.md" title="wikilink">みんなのうた</a>』より</p></td>
 </tr>
 <tr class="odd">
 <td><p>15</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SEASONS_(浜崎あゆみの曲)" title="wikilink">SEASONS</a></p></td>
+<td><p><a href="../Page/SEASONS_(浜崎あゆみの曲).md" title="wikilink">SEASONS</a></p></td>
 <td><p>浜崎あゆみ</p></td>
 <td><p>2000年6月7日</p></td>
 <td><p>avex trax</p></td>
@@ -311,7 +311,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/LOVE_2000_(hitomiの曲)" title="wikilink">LOVE 2000</a></p></td>
+<td><p><a href="../Page/LOVE_2000_(hitomiの曲).md" title="wikilink">LOVE 2000</a></p></td>
 <td><p>hitomi</p></td>
 <td><p>2000年6月28日</p></td>
 <td><p>avex trax</p></td>
@@ -319,7 +319,7 @@
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Chase_the_Chance" title="wikilink">Chase the Chance</a></p></td>
+<td><p><a href="../Page/Chase_the_Chance.md" title="wikilink">Chase the Chance</a></p></td>
 <td><p>安室奈美恵</p></td>
 <td><p>1995年12月3日</p></td>
 <td><p><a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ系ドラマ</a>『<a href="../Page/ザ・シェフ.md" title="wikilink">ザ・シェフ</a>』主題歌</p></td>
@@ -330,12 +330,12 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/Ride_on_time_(MAXの曲)" title="wikilink">Ride on time</a></p></td>
 <td><p>MAX</p></td>
 <td><p>1998年7月23日</p></td>
-<td><p><a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a>系ドラマ『<a href="https://ja.wikipedia.org/wiki/スウィートデビル" title="wikilink">スウィートデビル</a>』エンディング・テーマ</p></td>
+<td><p><a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a>系ドラマ『<a href="../Page/スウィートデビル.md" title="wikilink">スウィートデビル</a>』エンディング・テーマ</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/CRAZY_GONNA_CRAZY" title="wikilink">CRAZY GONNA CRAZY</a></p></td>
+<td><p><a href="../Page/CRAZY_GONNA_CRAZY.md" title="wikilink">CRAZY GONNA CRAZY</a></p></td>
 <td><p>TRF</p></td>
 <td><p>1995年1月1日</p></td>
 <td><p><a href="../Page/関西テレビ放送.md" title="wikilink">関西テレビ</a>・<a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ系ドラマ</a>『<a href="../Page/我慢できない!.md" title="wikilink">我慢できない!</a>』主題歌</p></td>
@@ -355,12 +355,12 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/m-flo" title="wikilink">m-flo</a></p></td>
 <td><p>2000年9月6日</p></td>
 <td><p>rhythm zone</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/TDK" title="wikilink">TDK</a>「d-movin」CMソング</p></td>
+<td><p><a href="../Page/TDK.md" title="wikilink">TDK</a>「d-movin」CMソング</p></td>
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ESCAPE_(MOON_CHILDの曲)" title="wikilink">ESCAPE</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/MOON_CHILD_(バンド)" title="wikilink">MOON CHILD</a></p></td>
+<td><p><a href="../Page/ESCAPE_(MOON_CHILDの曲).md" title="wikilink">ESCAPE</a></p></td>
+<td><p><a href="../Page/MOON_CHILD_(バンド).md" title="wikilink">MOON CHILD</a></p></td>
 <td><p>1997年5月28日</p></td>
 <td><p>avex trax</p></td>
 <td><p><a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ系ドラマ</a>『<a href="../Page/FiVE.md" title="wikilink">FiVE</a>』主題歌</p></td>
@@ -385,8 +385,8 @@
 </tr>
 <tr class="even">
 <td><p>10</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Believe_(Folder5の曲)" title="wikilink">Believe</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Folder5" title="wikilink">Folder5</a></p></td>
+<td><p><a href="../Page/Believe_(Folder5の曲).md" title="wikilink">Believe</a></p></td>
+<td><p><a href="../Page/Folder5.md" title="wikilink">Folder5</a></p></td>
 <td><p>2000年11月29日</p></td>
 <td><p>avex tune</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ系アニメ</a>『<a href="../Page/ONE_PIECE.md" title="wikilink">ONE PIECE</a>』オープニング・テーマ</p></td>
@@ -397,7 +397,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/Fayray" title="wikilink">Fayray</a></p></td>
 <td><p>2003年1月29日</p></td>
 <td><p>avex trax</p></td>
-<td><p><a href="../Page/讀賣テレビ放送.md" title="wikilink">よみうりテレビ</a>・<a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ系ドラマ</a>『<a href="https://ja.wikipedia.org/wiki/メッセージ〜言葉が裏切っていく〜" title="wikilink">メッセージ〜言葉が裏切っていく〜</a>』主題歌</p></td>
+<td><p><a href="../Page/讀賣テレビ放送.md" title="wikilink">よみうりテレビ</a>・<a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ系ドラマ</a>『<a href="../Page/メッセージ〜言葉が裏切っていく〜.md" title="wikilink">メッセージ〜言葉が裏切っていく〜</a>』主題歌</p></td>
 </tr>
 <tr class="even">
 <td><p>12</p></td>
@@ -409,24 +409,24 @@
 </tr>
 <tr class="odd">
 <td><p>13</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Joy_to_the_love_(globe)" title="wikilink">Joy to the love</a></p></td>
+<td><p><a href="../Page/Joy_to_the_love_(globe).md" title="wikilink">Joy to the love</a></p></td>
 <td><p>globe</p></td>
 <td><p>1995年9月27日</p></td>
 <td><p>avex globe</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トヨタ自動車" title="wikilink">トヨタ自動車</a>「<a href="https://ja.wikipedia.org/wiki/トヨタ・サイノス" title="wikilink">サイノス</a>」CMソング</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/トヨタ自動車" title="wikilink">トヨタ自動車</a>「<a href="../Page/トヨタ・サイノス.md" title="wikilink">サイノス</a>」CMソング</p></td>
 </tr>
 <tr class="even">
 <td><p>14</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Time_goes_by" title="wikilink">Time goes by</a></p></td>
+<td><p><a href="../Page/Time_goes_by.md" title="wikilink">Time goes by</a></p></td>
 <td><p>Every Little Thing</p></td>
 <td><p>1998年2月11日</p></td>
 <td><p>avex trax</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ系ドラマ</a>『<a href="https://ja.wikipedia.org/wiki/甘い結婚" title="wikilink">甘い結婚</a>』主題歌<br />
-<a href="https://ja.wikipedia.org/wiki/トヨタ自動車" title="wikilink">TOYOTA</a>「<a href="https://ja.wikipedia.org/wiki/トヨタ・ハイラックス" title="wikilink">HILUX</a> SURF SSR-V」CFソング</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ系ドラマ</a>『<a href="../Page/甘い結婚.md" title="wikilink">甘い結婚</a>』主題歌<br />
+<a href="https://ja.wikipedia.org/wiki/トヨタ自動車" title="wikilink">TOYOTA</a>「<a href="../Page/トヨタ・ハイラックス.md" title="wikilink">HILUX</a> SURF SSR-V」CFソング</p></td>
 </tr>
 <tr class="odd">
 <td><p>15</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/WOW_WAR_TONIGHT_〜時には起こせよムーヴメント" title="wikilink">WOW WAR TONIGHT 〜時には起こせよムーヴメント</a></p></td>
+<td><p><a href="../Page/WOW_WAR_TONIGHT_〜時には起こせよムーヴメント.md" title="wikilink">WOW WAR TONIGHT 〜時には起こせよムーヴメント</a></p></td>
 <td><p>H Jungle with t</p></td>
 <td><p>1995年3月15日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ系</a>『<a href="https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP" title="wikilink">HEY!HEY!HEY!MUSIC CHAMP</a>』</p></td>
@@ -451,7 +451,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/DEPARTURES" title="wikilink">DEPARTURES</a></p></td>
+<td><p><a href="../Page/DEPARTURES.md" title="wikilink">DEPARTURES</a></p></td>
 <td><p>globe</p></td>
 <td><p>1996年1月1日</p></td>
 <td><p>avex globe</p></td>
@@ -475,7 +475,7 @@
 </tr>
 <tr class="even">
 <td><p>4</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/出逢った頃のように" title="wikilink">出逢った頃のように</a></p></td>
+<td><p><a href="../Page/出逢った頃のように.md" title="wikilink">出逢った頃のように</a></p></td>
 <td><p>Every Little Thing</p></td>
 <td><p>1997年8月6日</p></td>
 <td><p>avex trax</p></td>
@@ -483,7 +483,7 @@
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/恋心_(相川七瀬の曲)" title="wikilink">恋心</a></p></td>
+<td><p><a href="../Page/恋心_(相川七瀬の曲).md" title="wikilink">恋心</a></p></td>
 <td><p>相川七瀬</p></td>
 <td><p>1996年10月7日</p></td>
 <td><p>cutting edge<br />
@@ -503,16 +503,16 @@
 <td><p><a href="../Page/Be_My_Love.md" title="wikilink">Be My Love</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/SPEED" title="wikilink">SPEED</a></p></td>
 <td><p>2003年8月27日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SONIC_GROOVE" title="wikilink">SONIC GROOVE</a></p></td>
+<td><p><a href="../Page/SONIC_GROOVE.md" title="wikilink">SONIC GROOVE</a></p></td>
 <td><p>「<a href="https://ja.wikipedia.org/wiki/セーブ・ザ・チルドレン・ジャパン" title="wikilink">Save the Children</a> 一緒に、始めよう。」イメージソング</p></td>
 </tr>
 <tr class="even">
 <td><p>8</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Body_Feels_EXIT" title="wikilink">Body Feels EXIT</a></p></td>
+<td><p><a href="../Page/Body_Feels_EXIT.md" title="wikilink">Body Feels EXIT</a></p></td>
 <td><p>安室奈美恵</p></td>
 <td><p>1995年10月25日</p></td>
 <td><p>avex trax</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/タイトー" title="wikilink">タイトー</a>「<a href="https://ja.wikipedia.org/wiki/X-55" title="wikilink">X-55</a>」CMソング</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/タイトー" title="wikilink">タイトー</a>「<a href="../Page/X-55.md" title="wikilink">X-55</a>」CMソング</p></td>
 </tr>
 <tr class="odd">
 <td><p>9</p></td>
@@ -524,10 +524,10 @@
 </tr>
 <tr class="even">
 <td><p>10</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/TO_BE" title="wikilink">TO BE</a></p></td>
+<td><p><a href="../Page/TO_BE.md" title="wikilink">TO BE</a></p></td>
 <td><p>浜崎あゆみ</p></td>
 <td><p>1999年5月12日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日本たばこ産業" title="wikilink">JT</a>「<a href="https://ja.wikipedia.org/wiki/桃の天然水" title="wikilink">桃の天然水</a>」TVCFソング</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/日本たばこ産業" title="wikilink">JT</a>「<a href="../Page/桃の天然水.md" title="wikilink">桃の天然水</a>」TVCFソング</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -557,7 +557,7 @@
 </tr>
 <tr class="even">
 <td><p>14</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/寒い夜だから…" title="wikilink">寒い夜だから…</a></p></td>
+<td><p><a href="../Page/寒い夜だから….md" title="wikilink">寒い夜だから…</a></p></td>
 <td><p>TRF</p></td>
 <td><p>1993年12月16日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ系</a>『<a href="../Page/丸井.md" title="wikilink">○I○I</a> TOKYO TASTE Rooms.』エンディング・テーマ</p></td>
@@ -566,10 +566,10 @@
 <tr class="odd">
 <td><p>15</p></td>
 <td><p><a href="../Page/明日があるさ.md" title="wikilink">明日があるさ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Re:Japan" title="wikilink">Re:Japan</a></p></td>
+<td><p><a href="../Page/Re:Japan.md" title="wikilink">Re:Japan</a></p></td>
 <td><p>2001年3月28日</p></td>
-<td><p><a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ系ドラマ</a>『<a href="https://ja.wikipedia.org/wiki/明日があるさ_(テレビドラマ)" title="wikilink">明日があるさ</a>』主題歌<br />
-缶コーヒー「<a href="https://ja.wikipedia.org/wiki/ジョージア_(缶コーヒー)" title="wikilink">GEORGIA</a>」キャンペーンソング</p></td>
+<td><p><a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ系ドラマ</a>『<a href="../Page/明日があるさ_(テレビドラマ).md" title="wikilink">明日があるさ</a>』主題歌<br />
+缶コーヒー「<a href="../Page/ジョージア_(缶コーヒー).md" title="wikilink">GEORGIA</a>」キャンペーンソング</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -663,14 +663,14 @@
   - [新生活提案セレクションX/F](https://ja.wikipedia.org/wiki/新生活提案セレクションX/F "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）
   - [てれとshop](../Page/てれとshop.md "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
   - [ワールドコレクションゴールド](https://ja.wikipedia.org/wiki/ワールドコレクションゴールド "wikilink")（[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")）
-  - [おおきにGoodチョイス\!](https://ja.wikipedia.org/wiki/おおきにGoodチョイス! "wikilink")（[ABC](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")）
-  - [ショップ・マニフィカ](https://ja.wikipedia.org/wiki/ショップ・マニフィカ "wikilink")（[東京テレビランド](../Page/東京テレビランド.md "wikilink")）
-  - [saQwaサクワスタイル](https://ja.wikipedia.org/wiki/サクワ "wikilink")（[デジタルダイレクト](https://ja.wikipedia.org/wiki/デジタルダイレクト "wikilink")）
+  - [おおきにGoodチョイス\!](../Page/おおきにGoodチョイス!.md "wikilink")（[ABC](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")）
+  - [ショップ・マニフィカ](../Page/ショップ・マニフィカ.md "wikilink")（[東京テレビランド](../Page/東京テレビランド.md "wikilink")）
+  - [saQwaサクワスタイル](../Page/サクワ.md "wikilink")（[デジタルダイレクト](https://ja.wikipedia.org/wiki/デジタルダイレクト "wikilink")）
 
 #### ネット通販
 
-  - [ディノス](https://ja.wikipedia.org/wiki/ディノス "wikilink")
-  - [プライムショッピング](https://ja.wikipedia.org/wiki/CJプライムショッピング "wikilink")
+  - [ディノス](../Page/ディノス.md "wikilink")
+  - [プライムショッピング](../Page/CJプライムショッピング.md "wikilink")
 
 ## 外部リンク
 

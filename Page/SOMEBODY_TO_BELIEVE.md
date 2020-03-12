@@ -7,13 +7,13 @@
 
 ## 収録曲
 
-  - 全作詞：[向井玲子](../Page/向井玲子.md "wikilink")　編曲：[明石昌夫](https://ja.wikipedia.org/wiki/明石昌夫 "wikilink")
+  - 全作詞：[向井玲子](../Page/向井玲子.md "wikilink")　編曲：[明石昌夫](../Page/明石昌夫.md "wikilink")
 
 <!-- end list -->
 
 1.  **SOMEBODY TO BELIEVE**
       -
-        作曲：[川島だりあ](https://ja.wikipedia.org/wiki/川島だりあ "wikilink")
+        作曲：[川島だりあ](../Page/川島だりあ.md "wikilink")
 2.  **CALL MY NAME**
       -
         作曲：[大槻啓之](https://ja.wikipedia.org/wiki/大槻啓之 "wikilink")
@@ -21,7 +21,7 @@
 
 ## 参加ミュージシャン
 
-  - [増崎孝司](https://ja.wikipedia.org/wiki/増崎孝司 "wikilink")（[DIMENSION](https://ja.wikipedia.org/wiki/DIMENSION "wikilink")） - ギター
+  - [増崎孝司](https://ja.wikipedia.org/wiki/増崎孝司 "wikilink")（[DIMENSION](../Page/DIMENSION.md "wikilink")） - ギター
   - [鈴木英俊](../Page/鈴木英俊.md "wikilink") - ギター
   - 明石昌夫 - ベース、プログラミング
   - [鈴木康志](../Page/鈴木康志.md "wikilink") - ディレクター

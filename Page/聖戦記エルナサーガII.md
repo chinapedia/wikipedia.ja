@@ -1,13 +1,13 @@
 > この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
 
 
-『**聖戦記エルナサーガII**』（せいせんきエルナサーガ2）は、[堤抄子](https://ja.wikipedia.org/wiki/堤抄子 "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[聖戦記エルナサーガ](https://ja.wikipedia.org/wiki/聖戦記エルナサーガ "wikilink")』の続編に当たる。
+『**聖戦記エルナサーガII**』（せいせんきエルナサーガ2）は、[堤抄子](../Page/堤抄子.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[聖戦記エルナサーガ](https://ja.wikipedia.org/wiki/聖戦記エルナサーガ "wikilink")』の続編に当たる。
 
 ## 概要
 
 『聖戦記エルナサーガ』の世界を継承した[ファンタジー漫画](../Page/ファンタジー漫画.md "wikilink")の続編。
 
-復刊ドットコムの投票結果を受け、出版元である[エニックス](https://ja.wikipedia.org/wiki/エニックス "wikilink")（現：[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")）より旧作の復刊が決定し、同時に続編制作の打診を受けて『[月刊Gファンタジー](https://ja.wikipedia.org/wiki/月刊Gファンタジー "wikilink")』にて[2002年](../Page/2002年.md "wikilink")に連載を開始。当時連載して間もない『[アダ戦記](https://ja.wikipedia.org/wiki/アダ戦記 "wikilink")』（一賽舎→現[一迅社](https://ja.wikipedia.org/wiki/一迅社 "wikilink")）と連載時期が重なった為、5巻程度のスケールで連載する予定であったが、7巻まで継続。月刊誌の連載2本を同時進行していたが、途中から3ヶ月に一月休載を入れるペースになった。『アダ戦記』を終了してからは通常通りの連載ペースを保った。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に連載終了。単行本は全7巻。
+復刊ドットコムの投票結果を受け、出版元である[エニックス](https://ja.wikipedia.org/wiki/エニックス "wikilink")（現：[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")）より旧作の復刊が決定し、同時に続編制作の打診を受けて『[月刊Gファンタジー](../Page/月刊Gファンタジー.md "wikilink")』にて[2002年](../Page/2002年.md "wikilink")に連載を開始。当時連載して間もない『[アダ戦記](../Page/アダ戦記.md "wikilink")』（一賽舎→現[一迅社](../Page/一迅社.md "wikilink")）と連載時期が重なった為、5巻程度のスケールで連載する予定であったが、7巻まで継続。月刊誌の連載2本を同時進行していたが、途中から3ヶ月に一月休載を入れるペースになった。『アダ戦記』を終了してからは通常通りの連載ペースを保った。[2006年](../Page/2006年.md "wikilink")に連載終了。単行本は全7巻。
 
 前作は中世ファンタジーであったが、今作は現代ファンタジーであり、主人公のエルナは女子高生という設定。これは雑誌のターゲット層を反映したものとも言われている。
 

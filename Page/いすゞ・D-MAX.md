@@ -1,13 +1,13 @@
 > この記事は[D-MAX](https://ja.wikipedia.org/wiki/D-MAX)から翻訳されています。
 
 
-**D-MAX**（ディーマックス）は、[いすゞ自動車](../Page/いすゞ自動車.md "wikilink")が[タイで製造する](../Page/タイ王国.md "wikilink")[ピックアップトラック](https://ja.wikipedia.org/wiki/ピックアップトラック "wikilink")である。
+**D-MAX**（ディーマックス）は、[いすゞ自動車](../Page/いすゞ自動車.md "wikilink")が[タイで製造する](../Page/タイ王国.md "wikilink")[ピックアップトラック](../Page/ピックアップトラック.md "wikilink")である。
 
 ## 概要
 
-[ゼネラルモーターズ](https://ja.wikipedia.org/wiki/ゼネラルモーターズ "wikilink") (GM) と共同開発した世界戦略車種であり、[シボレー・コロラド](https://ja.wikipedia.org/wiki/シボレー・コロラド "wikilink")などは姉妹車となる。かつて[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")でも販売されていた[ファスターや](../Page/いすゞ・ファスター.md "wikilink")[ロデオの後継にあたる車種である](https://ja.wikipedia.org/wiki/いすゞ・ロデオ "wikilink")。
+[ゼネラルモーターズ](../Page/ゼネラルモーターズ.md "wikilink") (GM) と共同開発した世界戦略車種であり、[シボレー・コロラド](https://ja.wikipedia.org/wiki/シボレー・コロラド "wikilink")などは姉妹車となる。かつて[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")でも販売されていた[ファスターや](../Page/いすゞ・ファスター.md "wikilink")[ロデオの後継にあたる車種である](../Page/いすゞ・ロデオ.md "wikilink")。
 
-いすゞが販売網を持っていない[南アメリカ](../Page/南アメリカ.md "wikilink")や[北アフリカ](../Page/北アフリカ.md "wikilink")などの一部の地域では[シボレー](https://ja.wikipedia.org/wiki/シボレー "wikilink")に[OEM](../Page/OEM.md "wikilink")供給され、「シボレー・D-MAX」、「[シボレー・LUV](https://ja.wikipedia.org/wiki/シボレー・LUV "wikilink") D-MAX」、「シボレー・T-シリーズ」等の名称で販売されている。また、オセアニアでは[ホールデン向けに](https://ja.wikipedia.org/wiki/ホールデン_\(自動車\) "wikilink")「ホールデン・ロデオ」がOEM供給されていたが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に販売が打ち切られ、代わってGMタイランドが製造する姉妹車のシボレー・コロラドをベースとする「ホールデン・コロラド」が販売されている。
+いすゞが販売網を持っていない[南アメリカ](../Page/南アメリカ.md "wikilink")や[北アフリカ](../Page/北アフリカ.md "wikilink")などの一部の地域では[シボレー](../Page/シボレー.md "wikilink")に[OEM](../Page/OEM.md "wikilink")供給され、「シボレー・D-MAX」、「[シボレー・LUV](https://ja.wikipedia.org/wiki/シボレー・LUV "wikilink") D-MAX」、「シボレー・T-シリーズ」等の名称で販売されている。また、オセアニアでは[ホールデン向けに](../Page/ホールデン_\(自動車\).md "wikilink")「ホールデン・ロデオ」がOEM供給されていたが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に販売が打ち切られ、代わってGMタイランドが製造する姉妹車のシボレー・コロラドをベースとする「ホールデン・コロラド」が販売されている。
 
 なお[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")がいすゞからのOEMで2017年以降、北米以外の世界各地でD-MAXの同型車を販売する事が決定している。
 
@@ -19,18 +19,18 @@ Dは、ディーゼル(Diesel)・直噴(Direct Injection)・デザイン(Design)
 
 ## 初代
 
-[2002年](../Page/2002年.md "wikilink")（平成14年）、TFの後継車種として発売。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）には大幅な[フェイスリフト](https://ja.wikipedia.org/wiki/フェイスリフト "wikilink")を行っている。デザイン面のコンセプトは"GOOD STANCE FOR TOUGHNESS"。エンジンは全て[直列4気筒](https://ja.wikipedia.org/wiki/直列4気筒 "wikilink")直噴コモンレール[ディーゼルで](../Page/ディーゼルエンジン.md "wikilink")2500cc、3000cc、3000ccターボ（2006年追加）の3種類が設定される。
+[2002年](../Page/2002年.md "wikilink")（平成14年）、TFの後継車種として発売。[2006年](../Page/2006年.md "wikilink")（平成18年）には大幅な[フェイスリフト](https://ja.wikipedia.org/wiki/フェイスリフト "wikilink")を行っている。デザイン面のコンセプトは"GOOD STANCE FOR TOUGHNESS"。エンジンは全て[直列4気筒](../Page/直列4気筒.md "wikilink")直噴コモンレール[ディーゼルで](../Page/ディーゼルエンジン.md "wikilink")2500cc、3000cc、3000ccターボ（2006年追加）の3種類が設定される。
 
 2005年にはタイ年間過去最高販売台数163,153台を記録し、2005年タイ カーオブザイヤー、ベストセラーピックアップ、最優秀省燃費ピックアップを受賞した。
 
-派生車種として[SUV](https://ja.wikipedia.org/wiki/SUV "wikilink")の[MU-7が存在する](https://ja.wikipedia.org/wiki/いすゞ・MU-7 "wikilink")。2011年モデルについては前後にカメラが付いている。
+派生車種として[SUV](https://ja.wikipedia.org/wiki/SUV "wikilink")の[MU-7が存在する](../Page/いすゞ・MU-7.md "wikilink")。2011年モデルについては前後にカメラが付いている。
 
 ### 沿革
 
   - [2002年](../Page/2002年.md "wikilink")（平成14年＝仏暦2545年）[5月16日](../Page/5月16日.md "wikilink") - 発売開始。
   - [2004年](../Page/2004年.md "wikilink")（平成16年＝仏暦2547年） - 第38回[東京モーターショー](../Page/東京モーターショー.md "wikilink")で展示される。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年＝仏暦2548年）- [マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")でノックダウン生産開始。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年＝仏暦2549年）[8月9日](../Page/8月9日.md "wikilink") - 大幅改良して発売。フロントデザインを中心に[フェイスリフト](https://ja.wikipedia.org/wiki/フェイスリフト "wikilink")を敢行した。
+  - [2005年](../Page/2005年.md "wikilink")（平成17年＝仏暦2548年）- [マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")でノックダウン生産開始。
+  - [2006年](../Page/2006年.md "wikilink")（平成18年＝仏暦2549年）[8月9日](../Page/8月9日.md "wikilink") - 大幅改良して発売。フロントデザインを中心に[フェイスリフト](https://ja.wikipedia.org/wiki/フェイスリフト "wikilink")を敢行した。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年＝仏暦2551年）[9月15日](../Page/9月15日.md "wikilink")-オーストラリアで販売開始。
   - [2009年](../Page/2009年.md "wikilink")（平成21年＝仏暦2552年）[1月18日](../Page/1月18日.md "wikilink")-南アメリカで初めて開催された“\[Dakar Rally\][1](http://www.dakar.com)”通称パリダカで ブルース ガーランド、ハリー（浩彰）鈴木組が ディーゼルピックアップクラス優勝（総合11位）
 
@@ -166,13 +166,13 @@ Dmax 2011 ls 3.0 td.jpg|初代シボレー・D-MAX
 
 ## 3代目
 
-[タイで](../Page/タイ王国.md "wikilink")2019年（令和元年）10月11日に発表、19日から発売開始する。8年ぶりの全面改良となる \[2\]\[3\]。3代目は[ゼネラルモーターズ](https://ja.wikipedia.org/wiki/ゼネラルモーターズ "wikilink")とのピックアップ事業の提携を解消したことに伴い、[シボレー・コロラド](https://ja.wikipedia.org/wiki/シボレー・コロラド "wikilink")との兄弟車ではなくなる。
+[タイで](../Page/タイ王国.md "wikilink")2019年（令和元年）10月11日に発表、19日から発売開始する。8年ぶりの全面改良となる \[2\]\[3\]。3代目は[ゼネラルモーターズ](../Page/ゼネラルモーターズ.md "wikilink")とのピックアップ事業の提携を解消したことに伴い、[シボレー・コロラド](https://ja.wikipedia.org/wiki/シボレー・コロラド "wikilink")との兄弟車ではなくなる。
 
 エクステリアはフロントライトにBi-LEDプロジェクターランプ、テールライトにダブルLEDエッジライトが採用され、リアバンパーはインテグレートステップバンパーとなっている。インテリアには[Android Auto](https://ja.wikipedia.org/wiki/Android_Auto "wikilink")/[Apple CarPlayに対応した](https://ja.wikipedia.org/wiki/CarPlay "wikilink")9インチスクリーンのインフォテインメントシステムも装備される。
 
 エンジンは4JJ1型をベースに新開発された4JJ3型 3.0LターボディーゼルとRZ4E型1.9Lターボディーゼルが搭載される。4JJ3型エンジンは最高出力140kW (188ps)、 最大トルク450N・m (332lb-ft) を発揮する。
 
-前モデルと比較して[燃費](https://ja.wikipedia.org/wiki/燃費 "wikilink")は 2-7%改善、ボディー剛性は[高張力鋼](../Page/高張力鋼.md "wikilink")板を使うなどにより20%高められている\[4\]。
+前モデルと比較して[燃費](../Page/燃費.md "wikilink")は 2-7%改善、ボディー剛性は[高張力鋼](../Page/高張力鋼.md "wikilink")板を使うなどにより20%高められている\[4\]。
 
 ### 沿革
 
@@ -187,8 +187,8 @@ Dmax 2011 ls 3.0 td.jpg|初代シボレー・D-MAX
 <!-- end list -->
 
   -
-    泰国いすゞ自動車サムロン工場（[サムットプラカン県](https://ja.wikipedia.org/wiki/サムットプラーカーン県 "wikilink")[ムアン郡](https://ja.wikipedia.org/wiki/ムアンサムットプラーカーン郡 "wikilink")）
-    泰国いすゞ自動車ゲートウェイ工場（[チャチュンサオ県](https://ja.wikipedia.org/wiki/チャチューンサオ県 "wikilink")[プレーンヤーオ郡](https://ja.wikipedia.org/wiki/プレーンヤーオ郡 "wikilink")）
+    泰国いすゞ自動車サムロン工場（[サムットプラカン県](../Page/サムットプラーカーン県.md "wikilink")[ムアン郡](../Page/ムアンサムットプラーカーン郡.md "wikilink")）
+    泰国いすゞ自動車ゲートウェイ工場（[チャチュンサオ県](../Page/チャチューンサオ県.md "wikilink")[プレーンヤーオ郡](https://ja.wikipedia.org/wiki/プレーンヤーオ郡 "wikilink")）
 
 <!-- end list -->
 
@@ -197,19 +197,19 @@ Dmax 2011 ls 3.0 td.jpg|初代シボレー・D-MAX
 <!-- end list -->
 
   -
-    いすゞ本社の現筆頭株主、[三菱商事](https://ja.wikipedia.org/wiki/三菱商事 "wikilink")との合弁会社。タイでは三菱商事と同じ[三菱グループ](../Page/三菱グループ.md "wikilink")に属する[三菱自動車工業](../Page/三菱自動車工業.md "wikilink")と競合関係。
+    いすゞ本社の現筆頭株主、[三菱商事](../Page/三菱商事.md "wikilink")との合弁会社。タイでは三菱商事と同じ[三菱グループ](../Page/三菱グループ.md "wikilink")に属する[三菱自動車工業](../Page/三菱自動車工業.md "wikilink")と競合関係。
 
 ## 姉妹車
 
   - [シボレー・コロラド](https://ja.wikipedia.org/wiki/シボレー・コロラド "wikilink")
-  - [シボレー・トレイルブレイザー](https://ja.wikipedia.org/wiki/シボレー・トレイルブレイザー "wikilink")(2代目)
+  - [シボレー・トレイルブレイザー](../Page/シボレー・トレイルブレイザー.md "wikilink")(2代目)
   - GMC・キャニオン
-  - [いすゞ・i-350/i-280](https://ja.wikipedia.org/wiki/いすゞ・iシリーズ "wikilink")
+  - [いすゞ・i-350/i-280](../Page/いすゞ・iシリーズ.md "wikilink")
 
 ## 関連項目
 
-  - [いすゞ・ロデオ](https://ja.wikipedia.org/wiki/いすゞ・ロデオ "wikilink")
-  - [いすゞ・MU-7](https://ja.wikipedia.org/wiki/いすゞ・MU-7 "wikilink")
+  - [いすゞ・ロデオ](../Page/いすゞ・ロデオ.md "wikilink")
+  - [いすゞ・MU-7](../Page/いすゞ・MU-7.md "wikilink")
   - [いすゞ・MU-X](https://ja.wikipedia.org/wiki/いすゞ・MU-X "wikilink")
 
 ## 参照

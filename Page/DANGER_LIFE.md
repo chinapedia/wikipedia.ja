@@ -5,7 +5,7 @@
 
 ## 内容
 
-昨年に、[下村成二郎](../Page/下村成二郎.md "wikilink")脱退後、[水野松也](../Page/水野松也.md "wikilink")が新ボーカリストとして加入した唯一のオリジナルアルバム。事実上、BLIZARDのラストアルバムである。プロデュースは、元[LAZY](../Page/レイジー.md "wikilink")、現[LOUDNESS](https://ja.wikipedia.org/wiki/LOUDNESS "wikilink")のドラマーである、樋口宗孝が担当。これを機会に、[寺沢功一](../Page/寺沢功一.md "wikilink")（ベース）が、樋口と[SLY](../Page/SLY.md "wikilink")を結成する。
+昨年に、[下村成二郎](../Page/下村成二郎.md "wikilink")脱退後、[水野松也](../Page/水野松也.md "wikilink")が新ボーカリストとして加入した唯一のオリジナルアルバム。事実上、BLIZARDのラストアルバムである。プロデュースは、元[LAZY](../Page/レイジー.md "wikilink")、現[LOUDNESS](../Page/LOUDNESS.md "wikilink")のドラマーである、樋口宗孝が担当。これを機会に、[寺沢功一](../Page/寺沢功一.md "wikilink")（ベース）が、樋口と[SLY](../Page/SLY.md "wikilink")を結成する。
 
 ## 収録曲
 

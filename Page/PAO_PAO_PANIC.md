@@ -1,13 +1,13 @@
 > この記事は[PAO PAO PANIC](https://ja.wikipedia.org/wiki/PAO_PAO_PANIC)から翻訳されています。
 
 
-**PAO PAO PANIC**は東京で活動する2人組。NHK[ウインターソングバトル](https://ja.wikipedia.org/wiki/ウインターソングバトル "wikilink")に出場。元は3人組だったが[ドラムの](../Page/ドラムセット.md "wikilink")**NAOKING**が2005年11月23日をもって脱退。また[2007年](../Page/2007年.md "wikilink")[5月31日](../Page/5月31日.md "wikilink")のライブをもって解散。
+**PAO PAO PANIC**は東京で活動する2人組。NHK[ウインターソングバトル](../Page/ウインターソングバトル.md "wikilink")に出場。元は3人組だったが[ドラムの](../Page/ドラムセット.md "wikilink")**NAOKING**が2005年11月23日をもって脱退。また[2007年](../Page/2007年.md "wikilink")[5月31日](../Page/5月31日.md "wikilink")のライブをもって解散。
 
-改名前は**SIGNALS**。[ライブや](https://ja.wikipedia.org/wiki/演奏会 "wikilink")[熱唱オンエアバトル](https://ja.wikipedia.org/wiki/熱唱オンエアバトル "wikilink")などで活動していた。
+改名前は**SIGNALS**。[ライブや](../Page/演奏会.md "wikilink")[熱唱オンエアバトル](../Page/熱唱オンエアバトル.md "wikilink")などで活動していた。
 
 ## メンバー
 
-  - **立林 慎吾"TATTY"**（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")･[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")）
+  - **立林 慎吾"TATTY"**（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")･[ベース](../Page/ベース_\(弦楽器\).md "wikilink")）
   - **森本 直**（[ギター](../Page/ギター.md "wikilink")）
 
 ### サポートメンバー

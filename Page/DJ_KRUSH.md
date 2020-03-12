@@ -1,15 +1,15 @@
 > この記事は[DJ KRUSH](https://ja.wikipedia.org/wiki/DJ_KRUSH)から翻訳されています。
 
 
-**DJ KRUSH**（ディージェイ・クラッシュ、[1962年](../Page/1962年.md "wikilink")[7月29日](../Page/7月29日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の作曲家 / producer / [DJ](https://ja.wikipedia.org/wiki/DJ "wikilink")\[1\]。[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身。本名は石 英明（いし ひであき）。
+**DJ KRUSH**（ディージェイ・クラッシュ、[1962年](../Page/1962年.md "wikilink")[7月29日](../Page/7月29日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の作曲家 / producer / [DJ](https://ja.wikipedia.org/wiki/DJ "wikilink")\[1\]。[東京都](../Page/東京都.md "wikilink")出身。本名は石 英明（いし ひであき）。
 
 ## 来歴
 
 映画「[ワイルド・スタイル](https://ja.wikipedia.org/wiki/ワイルド・スタイル "wikilink")」に偶然出会い[ヒップホップ](../Page/ヒップホップ.md "wikilink")を始める\[2\]。当時のヒップホップ創世記には、ディスコミキサーというべき機材はなく、現在の物とはかけ離れた位の大きさのミキサーに自作で取り付けたスイッチやLRのフェーダーを割り箸で繋げてDJをしていた。
 
-[1980年代](../Page/1980年代.md "wikilink")後期からは[原宿](../Page/原宿.md "wikilink")の[ホコ天](https://ja.wikipedia.org/wiki/ホコ天 "wikilink")にてCRAZY-A、B-FRESH、DJ KRUSHの実弟DJ BANG等とストリートで活動してきた。そこで[MURO](https://ja.wikipedia.org/wiki/MURO "wikilink")やDJ GOと知り合い、やがて**[KRUSH POSSE](https://ja.wikipedia.org/wiki/KRUSH_POSSE "wikilink")**を結成し\[3\]数多くのコンテストやライブに参加することになる。日本で初めてターンテーブルを楽器として操るDJとして注目を浴びる\[4\]。
+[1980年代](../Page/1980年代.md "wikilink")後期からは[原宿](../Page/原宿.md "wikilink")の[ホコ天](https://ja.wikipedia.org/wiki/ホコ天 "wikilink")にてCRAZY-A、B-FRESH、DJ KRUSHの実弟DJ BANG等とストリートで活動してきた。そこで[MURO](../Page/MURO.md "wikilink")やDJ GOと知り合い、やがて**[KRUSH POSSE](https://ja.wikipedia.org/wiki/KRUSH_POSSE "wikilink")**を結成し\[3\]数多くのコンテストやライブに参加することになる。日本で初めてターンテーブルを楽器として操るDJとして注目を浴びる\[4\]。
 
-90年に差し掛かってきた頃から本人の音楽性に変化が生じる。もっと自分らしくDJ一人でも表現出来るヒップホップを模索する。[KRUSH POSSE解散をきっかけにその意欲はさらに強まり](https://ja.wikipedia.org/wiki/KRUSH_POSSE "wikilink")、莫大な数の[トラックを作りやがてそれがイギリスを拠点とする独創的レーベル](https://ja.wikipedia.org/wiki/楽曲 "wikilink")・の[ジェームス・ラベル](https://ja.wikipedia.org/wiki/ジェームス・ラベル "wikilink")の耳に止まる。同時期に[アメリカは](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[西海岸にて](https://ja.wikipedia.org/wiki/ウエスト・サイド "wikilink")[DJ SHADOWも同じようなムーブメントを起こしており](https://ja.wikipedia.org/wiki/DJシャドウ "wikilink")、それらは[トリップ・ホップ](../Page/トリップ・ホップ.md "wikilink")とも呼ばれていた。
+90年に差し掛かってきた頃から本人の音楽性に変化が生じる。もっと自分らしくDJ一人でも表現出来るヒップホップを模索する。[KRUSH POSSE解散をきっかけにその意欲はさらに強まり](https://ja.wikipedia.org/wiki/KRUSH_POSSE "wikilink")、莫大な数の[トラックを作りやがてそれがイギリスを拠点とする独創的レーベル](https://ja.wikipedia.org/wiki/楽曲 "wikilink")・の[ジェームス・ラベル](https://ja.wikipedia.org/wiki/ジェームス・ラベル "wikilink")の耳に止まる。同時期に[アメリカは](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[西海岸にて](https://ja.wikipedia.org/wiki/ウエスト・サイド "wikilink")[DJ SHADOWも同じようなムーブメントを起こしており](../Page/DJシャドウ.md "wikilink")、それらは[トリップ・ホップ](../Page/トリップ・ホップ.md "wikilink")とも呼ばれていた。
 
 1994年の1stアルバム『KRUSH』のリリースを皮切りに、これまでに8枚のソロアルバム、4枚のリミックスルバム、3枚のミックスアルバムをワールドワイドでリリース。いずれも国内外の様々なチャートの上位にランクインする。6thアルバム『漸-ZEN-』(‘00)では、“インディーズのグラミー賞” といわれる米国AFIMアワードにおいて"ベスト・エレクトロニカ・アルバム 2001" 最優秀賞を獲得。8thアルバム『寂』(‘04)：CMJ（全米カレッジラジオ）RPMチャートにてDJ作品としては異例の3週連続1位を獲得。
 
@@ -124,7 +124,7 @@ AICT-24</p></td>
 <li>舞石〜bu-seki〜</li>
 <li>扉-3〜tobira-3〜</li>
 </ol></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/近藤等則" title="wikilink">近藤等則</a>×DJ KRUSH」名義</p></td>
+<td><p>「<a href="../Page/近藤等則.md" title="wikilink">近藤等則</a>×DJ KRUSH」名義</p></td>
 </tr>
 <tr class="odd">
 <td><p>4th</p></td>
@@ -206,7 +206,7 @@ AIJT-5004:LP</p></td>
 <li>ile[']ktrik</li>
 <li>BEATAHOLIC REFORMATORY</li>
 </ol></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/流_(音楽ユニット)" title="wikilink">流として</a></p></td>
+<td><p><a href="../Page/流_(音楽ユニット).md" title="wikilink">流として</a></p></td>
 </tr>
 <tr class="even">
 <td><p>6th</p></td>
@@ -537,7 +537,7 @@ SYUM-0316:LP</p></td>
 
 ### その他
 
-  - [INORAN](https://ja.wikipedia.org/wiki/INORAN "wikilink")「想」（1997年10月22日）全曲プロデュース
+  - [INORAN](../Page/INORAN.md "wikilink")「想」（1997年10月22日）全曲プロデュース
   - [BOREDOMS](https://ja.wikipedia.org/wiki/BOREDOMS "wikilink")「リボア vol.3 compiled & DJ mixed by DJ KRUSH」（2001年2月21日）
   - 「Oumupo 6 remixed by DJ KRUSH」（2006年10月05日）
 
@@ -664,7 +664,7 @@ SIBL-5:DVD</p></td>
 </tr>
 <tr class="even">
 <td><p>1999年</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/久保田利伸" title="wikilink">久保田利伸</a>「SOUL BANGIN' （DJ KRUSH Remix）」</strong></p></td>
+<td><p><strong><a href="../Page/久保田利伸.md" title="wikilink">久保田利伸</a>「SOUL BANGIN' （DJ KRUSH Remix）」</strong></p></td>
 <td><p>TDCD-90454</p></td>
 <td><p>1.Soul Bangin' (DJ Krush 80's Mix)</p></td>
 </tr>
@@ -694,25 +694,25 @@ SIBL-5:DVD</p></td>
 </tr>
 <tr class="odd">
 <td><p>1999年11月26日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/FUNK_THE_PEANUTS" title="wikilink">FUNK THE PEANUTS</a> rated R「you go girl!」</strong></p></td>
+<td><p><strong><a href="../Page/FUNK_THE_PEANUTS.md" title="wikilink">FUNK THE PEANUTS</a> rated R「you go girl!」</strong></p></td>
 <td><p>TOCT-55009</p></td>
 <td><p>3.you go girl!〜DJ KRUSH remix〜</p></td>
 </tr>
 <tr class="even">
 <td><p>2000年3月15日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Dragon_Ash" title="wikilink">Dragon Ash</a> feat.<a href="https://ja.wikipedia.org/wiki/ラッパ我リヤ" title="wikilink">ラッパ我リヤ</a>　「<a href="../Page/Deep_Impact.md" title="wikilink">Deep Impact</a>」</strong></p></td>
+<td><p><strong><a href="../Page/Dragon_Ash.md" title="wikilink">Dragon Ash</a> feat.<a href="../Page/ラッパ我リヤ.md" title="wikilink">ラッパ我リヤ</a>　「<a href="../Page/Deep_Impact.md" title="wikilink">Deep Impact</a>」</strong></p></td>
 <td><p>VICL-35112</p></td>
 <td><p>2.Deep Impact(DJ KRUSH Remix)</p></td>
 </tr>
 <tr class="odd">
 <td><p>2000年03月23日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ACO" title="wikilink">ACO</a>「the other side of absolute」</strong></p></td>
+<td><p><strong><a href="../Page/ACO.md" title="wikilink">ACO</a>「the other side of absolute」</strong></p></td>
 <td><p>KSC2-336</p></td>
 <td><p>2.哀愁とバラード(DJ KRUSH REMIX)</p></td>
 </tr>
 <tr class="even">
 <td><p>2000年7月12日</p></td>
-<td><p><strong><a href="../Page/LUNA_SEA.md" title="wikilink">LUNA SEA</a>「<a href="https://ja.wikipedia.org/wiki/LUNACY" title="wikilink">LUNACY</a>」</strong></p></td>
+<td><p><strong><a href="../Page/LUNA_SEA.md" title="wikilink">LUNA SEA</a>「<a href="../Page/LUNACY.md" title="wikilink">LUNACY</a>」</strong></p></td>
 <td><p>MVCH-29047</p></td>
 <td><p>2.Sweetest Coma Again feat. DJ KRUSH<br />
 4.KISS feat. DJ KRUSH</p></td>
@@ -785,7 +785,7 @@ SIBL-5:DVD</p></td>
 </tr>
 <tr class="even">
 <td><p>2006年11月22日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/MURO" title="wikilink">MURO</a>「MUROTIMATE BREAKS&amp;BEATS VOL.1」</strong></p></td>
+<td><p><strong><a href="../Page/MURO.md" title="wikilink">MURO</a>「MUROTIMATE BREAKS&amp;BEATS VOL.1」</strong></p></td>
 <td><p>TFCC-86402</p></td>
 <td><p>13.HALLUCINATION feat.DJ KRUSH</p></td>
 </tr>
@@ -830,15 +830,15 @@ SIBL-5:DVD</p></td>
 
 ## ミュージックビデオ
 
-|                                                         |                                                                                         |
-| ------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| **監督**                                                  | **曲名**                                                                                  |
-| [太田達也](https://ja.wikipedia.org/wiki/太田達也 "wikilink")   | 「時の旅路(DJ KRUSH feat.INDEN)」「Aletheuo (truthspeaking)(DJ KRUSH feat.ANGELINA ESPARZA)」   |
-| [大坪草次郎](https://ja.wikipedia.org/wiki/大坪草次郎 "wikilink") | 「Tragicomic(DJ KRUSH featuring ACO,TWIGY)」「Danger of Love(DJ KRUSH featuring Zap Mama)」 |
-| [諸沢利彦](https://ja.wikipedia.org/wiki/諸沢利彦 "wikilink")   | 「Still Island(DJ KRUSH with Shuuzan Morita)」「Univearth」                                 |
-| [安田潤司](https://ja.wikipedia.org/wiki/安田潤司 "wikilink")   | 「ONLY THE STRONG SURVIVE(DJ KRUSH with C.L.SMOOTH)」「Final Home(ft. Esthero)」            |
-| 諸沢利彦                                                    | 「Kemuri (Untouchable Mix)」「猛者-MOSA- feat. KAN」                                          |
-|                                                         |                                                                                         |
+|                                                       |                                                                                         |
+| ----------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| **監督**                                                | **曲名**                                                                                  |
+| [太田達也](https://ja.wikipedia.org/wiki/太田達也 "wikilink") | 「時の旅路(DJ KRUSH feat.INDEN)」「Aletheuo (truthspeaking)(DJ KRUSH feat.ANGELINA ESPARZA)」   |
+| [大坪草次郎](../Page/大坪草次郎.md "wikilink")                  | 「Tragicomic(DJ KRUSH featuring ACO,TWIGY)」「Danger of Love(DJ KRUSH featuring Zap Mama)」 |
+| [諸沢利彦](https://ja.wikipedia.org/wiki/諸沢利彦 "wikilink") | 「Still Island(DJ KRUSH with Shuuzan Morita)」「Univearth」                                 |
+| [安田潤司](https://ja.wikipedia.org/wiki/安田潤司 "wikilink") | 「ONLY THE STRONG SURVIVE(DJ KRUSH with C.L.SMOOTH)」「Final Home(ft. Esthero)」            |
+| 諸沢利彦                                                  | 「Kemuri (Untouchable Mix)」「猛者-MOSA- feat. KAN」                                          |
+|                                                       |                                                                                         |
 
 ## 主なライブ
 
@@ -854,7 +854,7 @@ SIBL-5:DVD</p></td>
   - 2010年04月09日 - OSAKA POP
   - 2010年12月31日 - ELECTRONIC TRIBE YEBISU NEW YEAR'S PARTY
   - 2011年06月02日 - [ビッグビーチフェスティバル](https://ja.wikipedia.org/wiki/ビッグビーチフェスティバル "wikilink")
-  - 2011年08月12日 - RISING SUN ROCK FESTIVAL 2011 in EZO(「DJ KRUSH meets [こだま和文](https://ja.wikipedia.org/wiki/こだま和文 "wikilink").[志人](https://ja.wikipedia.org/wiki/志人 "wikilink")」として出演)
+  - 2011年08月12日 - RISING SUN ROCK FESTIVAL 2011 in EZO(「DJ KRUSH meets [こだま和文](../Page/こだま和文.md "wikilink").[志人](https://ja.wikipedia.org/wiki/志人 "wikilink")」として出演)
   - 2012年07月20日 - LAMP 5th Anniversary
   - 2012年07月28日 - FUJI ROCK FESTIVAL '12
   - 2012年09月13日 - [J-WAVE](../Page/J-WAVE.md "wikilink") Gilles Peterson's WORLDWIDE SHOWCASE 2012 〜Sixth Sense〜
@@ -867,10 +867,10 @@ SIBL-5:DVD</p></td>
 
 ## 関連項目
 
-  - [N.M.L.](../Page/N.M.L..md "wikilink")（[ZERO LANDMINE](https://ja.wikipedia.org/wiki/ZERO_LANDMINE "wikilink")）
-  - [瘋癲 (バンド)](https://ja.wikipedia.org/wiki/瘋癲_\(バンド\) "wikilink")
-  - [流 (音楽ユニット)](https://ja.wikipedia.org/wiki/流_\(音楽ユニット\) "wikilink")
-  - TBS「[いのちの響](https://ja.wikipedia.org/wiki/いのちの響 "wikilink")」
+  - [N.M.L.](../Page/N.M.L..md "wikilink")（[ZERO LANDMINE](../Page/ZERO_LANDMINE.md "wikilink")）
+  - [瘋癲 (バンド)](../Page/瘋癲_\(バンド\).md "wikilink")
+  - [流 (音楽ユニット)](../Page/流_\(音楽ユニット\).md "wikilink")
+  - TBS「[いのちの響](../Page/いのちの響.md "wikilink")」
   - [DJ YAS](https://ja.wikipedia.org/wiki/DJ_YAS "wikilink")
   - [安田潤司](https://ja.wikipedia.org/wiki/安田潤司 "wikilink")
 

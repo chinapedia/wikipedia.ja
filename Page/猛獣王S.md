@@ -1,9 +1,9 @@
 > この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
 
 
-**猛獣王S**（モウジュウオウS）は、[2002年](../Page/2002年.md "wikilink")に[サミー](https://ja.wikipedia.org/wiki/サミー "wikilink")が開発・販売した[パチスロ](../Page/パチスロ.md "wikilink")機である。
+**猛獣王S**（モウジュウオウS）は、[2002年](../Page/2002年.md "wikilink")に[サミー](../Page/サミー.md "wikilink")が開発・販売した[パチスロ](../Page/パチスロ.md "wikilink")機である。
 
-大ヒットマシン『[獣王](https://ja.wikipedia.org/wiki/獣王 "wikilink")』の後継機として登場したが、本機の登場までに数々の問題が生じた。まず、フラグコピー打法発覚によるサミーグループの戦線離脱、『[灼熱牙王](https://ja.wikipedia.org/wiki/灼熱牙王 "wikilink")』のリリース自粛、そして『[ミリオンゴッド](../Page/ミリオンゴッド.md "wikilink")』などの爆裂機自粛要請による、『獣王』の後継機として既に内定しつつあった『超獣王』の自粛を受けて本機はリリースされた。
+大ヒットマシン『[獣王](../Page/獣王.md "wikilink")』の後継機として登場したが、本機の登場までに数々の問題が生じた。まず、フラグコピー打法発覚によるサミーグループの戦線離脱、『[灼熱牙王](https://ja.wikipedia.org/wiki/灼熱牙王 "wikilink")』のリリース自粛、そして『[ミリオンゴッド](../Page/ミリオンゴッド.md "wikilink")』などの爆裂機自粛要請による、『獣王』の後継機として既に内定しつつあった『超獣王』の自粛を受けて本機はリリースされた。
 
 ## 仕様
 
@@ -52,7 +52,7 @@
 
 ## ゲーム機
 
-  - [オンラインゲーム](../Page/オンラインゲーム.md "wikilink")サイト『[777town.net](https://ja.wikipedia.org/wiki/777town.net "wikilink")』にてプレイが可能である。
+  - [オンラインゲーム](../Page/オンラインゲーム.md "wikilink")サイト『[777town.net](../Page/777town.net.md "wikilink")』にてプレイが可能である。
 
 ## 外部リンク
 

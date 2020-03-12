@@ -1,9 +1,9 @@
 > この記事は[Tears \(\)](https://ja.wikipedia.org/wiki/Tears_\(\))から翻訳されています。
 
 
-「**Tears**」（ティアーズ）は、[森下由実子](https://ja.wikipedia.org/wiki/森下由実子 "wikilink")の楽曲で、「遠藤由美子」から改名後1枚目のシングル。[1993年](../Page/1993年.md "wikilink")[8月18日](../Page/8月18日.md "wikilink")に[ZAIN RECORDSから発売](https://ja.wikipedia.org/wiki/ZAIN_RECORDS "wikilink")。
+「**Tears**」（ティアーズ）は、[森下由実子](https://ja.wikipedia.org/wiki/森下由実子 "wikilink")の楽曲で、「遠藤由美子」から改名後1枚目のシングル。[1993年](../Page/1993年.md "wikilink")[8月18日](../Page/8月18日.md "wikilink")に[ZAIN RECORDSから発売](../Page/ZAIN_RECORDS.md "wikilink")。
 
-表題曲は、[TBS系](../Page/TBSテレビ.md "wikilink")『[COUNT DOWN TV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")』オープニングテーマ。カップリング曲は、TBS系『[天に代わりて嫁を討つ](https://ja.wikipedia.org/wiki/天に代わりて嫁を討つ "wikilink")』テーマソング。
+表題曲は、[TBS系](../Page/TBSテレビ.md "wikilink")『[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")』オープニングテーマ。カップリング曲は、TBS系『[天に代わりて嫁を討つ](https://ja.wikipedia.org/wiki/天に代わりて嫁を討つ "wikilink")』テーマソング。
 
 ## 収録曲
 
@@ -13,7 +13,7 @@
 
 1.  **Tears**
       -
-        作曲:[川島だりあ](https://ja.wikipedia.org/wiki/川島だりあ "wikilink")　編曲:[明石昌夫](https://ja.wikipedia.org/wiki/明石昌夫 "wikilink")
+        作曲:[川島だりあ](../Page/川島だりあ.md "wikilink")　編曲:[明石昌夫](../Page/明石昌夫.md "wikilink")
 2.  **恋と理屈**
       -
         作曲:[大槻啓之](https://ja.wikipedia.org/wiki/大槻啓之 "wikilink")　編曲:[池田大介](../Page/池田大介_\(編曲家\).md "wikilink")
@@ -22,7 +22,7 @@
 ## 参加ミュージシャン
 
   - [鈴木英俊](../Page/鈴木英俊.md "wikilink") - ギター
-  - [増崎孝司](https://ja.wikipedia.org/wiki/増崎孝司 "wikilink")（[DIMENSION](https://ja.wikipedia.org/wiki/DIMENSION "wikilink")） - ギター
+  - [増崎孝司](https://ja.wikipedia.org/wiki/増崎孝司 "wikilink")（[DIMENSION](../Page/DIMENSION.md "wikilink")） - ギター
   - [小澤正澄](../Page/小澤正澄.md "wikilink") - ギター
   - 明石昌夫 - ベース、シンセサイザー
   - 池田大介 - キーボード
@@ -33,7 +33,7 @@
 
 <!-- end list -->
 
-  - 『[KICK OFF](https://ja.wikipedia.org/wiki/KICK_OFF_\(森下由実子のアルバム\) "wikilink")』 (\#1,2)
+  - 『[KICK OFF](../Page/KICK_OFF_\(森下由実子のアルバム\).md "wikilink")』 (\#1,2)
 
 <!-- end list -->
 
@@ -41,7 +41,7 @@
 
 <!-- end list -->
 
-  - 『[COUNTDOWN BEING](https://ja.wikipedia.org/wiki/COUNTDOWN_BEING "wikilink")』 (\#1)
+  - 『[COUNTDOWN BEING](../Page/COUNTDOWN_BEING.md "wikilink")』 (\#1)
 
 ## 脚注
 

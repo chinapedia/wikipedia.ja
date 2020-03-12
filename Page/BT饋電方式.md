@@ -1,13 +1,13 @@
 > この記事は[BT](https://ja.wikipedia.org/wiki/BT)から翻訳されています。
 
 
-**BT饋電方式**（ビーティーきでんほうしき、）とは、[交流電化](../Page/交流電化.md "wikilink")された[電気鉄道](https://ja.wikipedia.org/wiki/電気鉄道 "wikilink")で、[通信回線](https://ja.wikipedia.org/wiki/通信回線 "wikilink")への[誘導障害](https://ja.wikipedia.org/wiki/誘導障害 "wikilink")を抑制して[鉄道車両](../Page/鉄道車両.md "wikilink")に電気を送る方式の1つであり、 [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では開業当初の[東海道新幹線](https://ja.wikipedia.org/wiki/東海道新幹線 "wikilink")をはじめ、[日本国有鉄道](../Page/日本国有鉄道.md "wikilink")（国鉄）の交流電化区間で広く使われたが、後に、より利点が多い[AT饋電方式](../Page/AT饋電方式.md "wikilink")が替わって導入されて、新幹線ではAT饋電方式に改修されている。
+**BT饋電方式**（ビーティーきでんほうしき、）とは、[交流電化](../Page/交流電化.md "wikilink")された[電気鉄道](../Page/電気鉄道.md "wikilink")で、[通信回線](https://ja.wikipedia.org/wiki/通信回線 "wikilink")への[誘導障害](https://ja.wikipedia.org/wiki/誘導障害 "wikilink")を抑制して[鉄道車両](../Page/鉄道車両.md "wikilink")に電気を送る方式の1つであり、 [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では開業当初の[東海道新幹線](https://ja.wikipedia.org/wiki/東海道新幹線 "wikilink")をはじめ、[日本国有鉄道](../Page/日本国有鉄道.md "wikilink")（国鉄）の交流電化区間で広く使われたが、後に、より利点が多い[AT饋電方式](../Page/AT饋電方式.md "wikilink")が替わって導入されて、新幹線ではAT饋電方式に改修されている。
 
-「饋」が[常用漢字](../Page/常用漢字.md "wikilink")外であることから[鉄道に関する技術上の基準を定める省令](https://ja.wikipedia.org/wiki/鉄道に関する技術上の基準を定める省令 "wikilink")などの「**き**電」に従い『BTき電方式』と表記されることもある。
+「饋」が[常用漢字](../Page/常用漢字.md "wikilink")外であることから[鉄道に関する技術上の基準を定める省令](../Page/鉄道に関する技術上の基準を定める省令.md "wikilink")などの「**き**電」に従い『BTき電方式』と表記されることもある。
 
 ## 誕生の背景
 
-交流電化方式では[架線](../Page/架線.md "wikilink")および[レールに交流の電流が流れるため](https://ja.wikipedia.org/wiki/軌条 "wikilink")、[電磁誘導](../Page/電磁誘導.md "wikilink")現象により、近くの通信線などに誘導障害を与えるおそれがあった。また、交流の電気は直流の電気よりも地面に逃げやすく、電流が迷走して[水道管](../Page/水道管.md "wikilink")や[電話線の金属管に流れ](https://ja.wikipedia.org/wiki/電話回線 "wikilink")、誘導障害のもととなることを避けなければならなかった。それだけでなく、日本での交流電化方式開発当時の鉄道通信線は、[線路敷の近傍の電柱に別途架設した裸銅線の架空線が多数連なったものであり](https://ja.wikipedia.org/wiki/線路_\(鉄道\) "wikilink")、風雨・風雪や誘導障害など様々な障害を受けやすかった。これらの現象の回避のため、レールに流れる電流を強制的に「回収」する饋電方式が必要であった。それだけでなく、レールの[抵抗によりレールの](../Page/電気抵抗.md "wikilink")[電位](../Page/電位.md "wikilink")が上昇し、[感電](https://ja.wikipedia.org/wiki/感電 "wikilink")事故を起こすことも回避しなければならなかった。
+交流電化方式では[架線](../Page/架線.md "wikilink")および[レールに交流の電流が流れるため](https://ja.wikipedia.org/wiki/軌条 "wikilink")、[電磁誘導](../Page/電磁誘導.md "wikilink")現象により、近くの通信線などに誘導障害を与えるおそれがあった。また、交流の電気は直流の電気よりも地面に逃げやすく、電流が迷走して[水道管](../Page/水道管.md "wikilink")や[電話線の金属管に流れ](../Page/電話回線.md "wikilink")、誘導障害のもととなることを避けなければならなかった。それだけでなく、日本での交流電化方式開発当時の鉄道通信線は、[線路敷の近傍の電柱に別途架設した裸銅線の架空線が多数連なったものであり](../Page/線路_\(鉄道\).md "wikilink")、風雨・風雪や誘導障害など様々な障害を受けやすかった。これらの現象の回避のため、レールに流れる電流を強制的に「回収」する饋電方式が必要であった。それだけでなく、レールの[抵抗によりレールの](../Page/電気抵抗.md "wikilink")[電位](../Page/電位.md "wikilink")が上昇し、[感電](../Page/感電.md "wikilink")事故を起こすことも回避しなければならなかった。
 
 日本国外では[鉄道](../Page/鉄道.md "wikilink")沿線に[民家](https://ja.wikipedia.org/wiki/民家 "wikilink")が少ないことも多く、これらの手法を用いない「直接饋電方式」が採用されている区間も多い。
 
@@ -21,13 +21,13 @@
 
 ## 問題点と現状
 
-BT饋電方式では約4 kmごとにブースター[セクション](https://ja.wikipedia.org/wiki/セクション "wikilink")を設ける必要がある。原理図のとおり1つの[エアセクション](../Page/エアセクション.md "wikilink")（二つの電気的に[絶縁された架線を並べて配置する区間](https://ja.wikipedia.org/wiki/絶縁_\(電気\) "wikilink")）にすると、[列車](../Page/列車.md "wikilink")進入時は[パンタグラフに架線](https://ja.wikipedia.org/wiki/集電装置 "wikilink")[電流](../Page/電流.md "wikilink")がそのまま流れセクション同士が短絡されてBTの吸い上げ機能が機能しなくなるばかりか、進出時に架線電流をパンタグラフで遮断することになるため、過大な[アークが発生する](https://ja.wikipedia.org/wiki/電弧 "wikilink")。これを防ぐため、エアセクションを2つに分割し、抵抗によって電流を制限することでアークを抑えることとした。しかしながら大きなアークによる架線へのダメージは大きく、架線を断線させる事故は各地で度々発生した。特に[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")（[昭和](../Page/昭和.md "wikilink")36年）、[東北本線](https://ja.wikipedia.org/wiki/東北本線 "wikilink")[越河駅](../Page/越河駅.md "wikilink")のブースターセクションで発生したアークによる架線断線事故は、BT饋電方式を[東海道新幹線](https://ja.wikipedia.org/wiki/東海道新幹線 "wikilink")に採用することを決定した国鉄関係者へ、大きな衝撃を与えた。新幹線ではブースターセクション通過ごとに惰行運転するのは高速運転の支障となるため、東海道新幹線ブースターセクションを3つに分割し両端を抵抗を介して給電する対策を施した\[1\]。 ブースターセクションという「弱点」を抱えつつも、当時の通信線の妨害耐性が低く、帰線電流を確実にで吸い上げるBT方式が工期の関係もあって選ばれ、分布的な解析がやりきれなかった単巻変圧器を用いる[AT饋電方式](../Page/AT饋電方式.md "wikilink")は避けられた。
+BT饋電方式では約4 kmごとにブースター[セクション](https://ja.wikipedia.org/wiki/セクション "wikilink")を設ける必要がある。原理図のとおり1つの[エアセクション](../Page/エアセクション.md "wikilink")（二つの電気的に[絶縁された架線を並べて配置する区間](https://ja.wikipedia.org/wiki/絶縁_\(電気\) "wikilink")）にすると、[列車](../Page/列車.md "wikilink")進入時は[パンタグラフに架線](../Page/集電装置.md "wikilink")[電流](../Page/電流.md "wikilink")がそのまま流れセクション同士が短絡されてBTの吸い上げ機能が機能しなくなるばかりか、進出時に架線電流をパンタグラフで遮断することになるため、過大な[アークが発生する](https://ja.wikipedia.org/wiki/電弧 "wikilink")。これを防ぐため、エアセクションを2つに分割し、抵抗によって電流を制限することでアークを抑えることとした。しかしながら大きなアークによる架線へのダメージは大きく、架線を断線させる事故は各地で度々発生した。特に[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")（[昭和](../Page/昭和.md "wikilink")36年）、[東北本線](https://ja.wikipedia.org/wiki/東北本線 "wikilink")[越河駅](../Page/越河駅.md "wikilink")のブースターセクションで発生したアークによる架線断線事故は、BT饋電方式を[東海道新幹線](https://ja.wikipedia.org/wiki/東海道新幹線 "wikilink")に採用することを決定した国鉄関係者へ、大きな衝撃を与えた。新幹線ではブースターセクション通過ごとに惰行運転するのは高速運転の支障となるため、東海道新幹線ブースターセクションを3つに分割し両端を抵抗を介して給電する対策を施した\[1\]。 ブースターセクションという「弱点」を抱えつつも、当時の通信線の妨害耐性が低く、帰線電流を確実にで吸い上げるBT方式が工期の関係もあって選ばれ、分布的な解析がやりきれなかった単巻変圧器を用いる[AT饋電方式](../Page/AT饋電方式.md "wikilink")は避けられた。
 
 [bt_feed.gif](https://ja.wikipedia.org/wiki/File:bt_feed.gif "fig:bt_feed.gif")
 
-BT饋電方式を採用した交流区間を走る[動力車](../Page/動力車.md "wikilink")は、電気的に接続された[パンタグラフを複数上げることができない](https://ja.wikipedia.org/wiki/集電装置 "wikilink")。もし電気的に接続された2つのパンタグラフを上げたままブースターセクションを通過するとセクションを[短絡](https://ja.wikipedia.org/wiki/短絡 "wikilink")してしまい、BTの機能を失わせてしまうばかりか、大きな架線電流が動力車の[特別高圧母線を通過してしまう](../Page/特高圧引通線.md "wikilink")。これを防ぐため、在来線車両と[0系車両や](https://ja.wikipedia.org/wiki/新幹線0系電車 "wikilink")[100系車両の](../Page/新幹線100系電車.md "wikilink")1編成内の各[電動車ユニットを独立させてそれぞれにパンタグラフを](https://ja.wikipedia.org/wiki/動力車#ユニット方式 "wikilink")1基、設けることにした。したがって16両[編成で](https://ja.wikipedia.org/wiki/編成_\(鉄道\) "wikilink")0系は8基、100系は6基、パンタグラフが近接して並ぶことになった。
+BT饋電方式を採用した交流区間を走る[動力車](../Page/動力車.md "wikilink")は、電気的に接続された[パンタグラフを複数上げることができない](../Page/集電装置.md "wikilink")。もし電気的に接続された2つのパンタグラフを上げたままブースターセクションを通過するとセクションを[短絡](../Page/短絡.md "wikilink")してしまい、BTの機能を失わせてしまうばかりか、大きな架線電流が動力車の[特別高圧母線を通過してしまう](../Page/特高圧引通線.md "wikilink")。これを防ぐため、在来線車両と[0系車両や](https://ja.wikipedia.org/wiki/新幹線0系電車 "wikilink")[100系車両の](../Page/新幹線100系電車.md "wikilink")1編成内の各[電動車ユニットを独立させてそれぞれにパンタグラフを](https://ja.wikipedia.org/wiki/動力車#ユニット方式 "wikilink")1基、設けることにした。したがって16両[編成で](https://ja.wikipedia.org/wiki/編成_\(鉄道\) "wikilink")0系は8基、100系は6基、パンタグラフが近接して並ぶことになった。
 
-しかしこのことは同時に、パンタグラフの架線からの[離線](https://ja.wikipedia.org/wiki/離線 "wikilink")率の増加（[AT饋電方式](../Page/AT饋電方式.md "wikilink")の項を参照）、走行[抵抗の増大](../Page/抗力.md "wikilink")、大きな[騒音](https://ja.wikipedia.org/wiki/騒音 "wikilink")などをもたらし、後の更なる高速化の際に重大な問題となった。また設備側でも[電磁誘導](../Page/電磁誘導.md "wikilink")による障害の発生、多数のパンタグラフによる架線の[摩耗](../Page/摩耗.md "wikilink")や[振動](https://ja.wikipedia.org/wiki/振動 "wikilink")、ブースタートランスが1基でも故障するとその区間の列車運行ができなくなるなど、問題が多かった。
+しかしこのことは同時に、パンタグラフの架線からの[離線](https://ja.wikipedia.org/wiki/離線 "wikilink")率の増加（[AT饋電方式](../Page/AT饋電方式.md "wikilink")の項を参照）、走行[抵抗の増大](../Page/抗力.md "wikilink")、大きな[騒音](../Page/騒音.md "wikilink")などをもたらし、後の更なる高速化の際に重大な問題となった。また設備側でも[電磁誘導](../Page/電磁誘導.md "wikilink")による障害の発生、多数のパンタグラフによる架線の[摩耗](../Page/摩耗.md "wikilink")や[振動](../Page/振動.md "wikilink")、ブースタートランスが1基でも故障するとその区間の列車運行ができなくなるなど、問題が多かった。
 
 そのため、ブースターセクションが不要である[AT饋電方式](../Page/AT饋電方式.md "wikilink")が、後の[交流電化](../Page/交流電化.md "wikilink")の主流となり、[山陽新幹線](https://ja.wikipedia.org/wiki/山陽新幹線 "wikilink")・[東北新幹線](https://ja.wikipedia.org/wiki/東北新幹線 "wikilink")・[上越新幹線](https://ja.wikipedia.org/wiki/上越新幹線 "wikilink")、新規[交流電化](../Page/交流電化.md "wikilink")[在来線](../Page/在来線.md "wikilink")などは、この方式が用いられている。
 
@@ -35,7 +35,7 @@ BT饋電方式を採用した交流区間を走る[動力車](../Page/動力車.
 
 [東海道新幹線](https://ja.wikipedia.org/wiki/東海道新幹線 "wikilink")では輸送力増強のための変電所増強策を兼ねて[1984年](../Page/1984年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")59年）からAT饋電方式と、構内同一饋電方式への変更が始まり、[1991年](../Page/1991年.md "wikilink")（平成3年）に完成、これによって構内異相セクション短絡問題とブースターセクションでのアーク問題がなくなった。東北・上越新幹線の車両同様に[特高圧引通線](../Page/特高圧引通線.md "wikilink")で編成全体が引き通されてからはパンタグラフの並列運転が可能となり、騒音発生源であるパンタグラフを16両編成で最終的に3基まで減らすことができた。[のぞみに充当する](https://ja.wikipedia.org/wiki/のぞみ_\(列車\) "wikilink")[300系では当初](../Page/新幹線300系電車.md "wikilink")3基のパンタグラフを装備していたが改良によりパンタグラフを2基にまで減らすことができた。
 
-このように欠点の多いBT饋電方式であるが、架線と並列につなぐ饋電線が本質的に不要なことと、レールから吸い上げた電流を通す帰線（負饋電線）がレールと同[電位](../Page/電位.md "wikilink")であるため架線柱の構造はシンプルで済む。一方でAT饋電方式の帰線〈AT饋電線〉は架線電圧と同じだが逆極性（＝[位相](../Page/位相.md "wikilink")差が180度）の電圧のため電線相互には架線電圧の2倍の絶縁を要する\[2\]。そのためAT饋電線は離隔距離を大きくとるばかりか、絶縁に使用する[碍子も架線電圧の](https://ja.wikipedia.org/wiki/がいし "wikilink")2倍を見込む必要があるため、架線柱への装柱は設計に困難があり、BT饋電方式からAT饋電方式への変更は費用的に高くつく。それゆえに、BT饋電方式から[AT饋電方式](../Page/AT饋電方式.md "wikilink")への変更は[輸送力](https://ja.wikipedia.org/wiki/輸送力 "wikilink")増強のための変電所強化が必要となった東海道新幹線の例にとどまり、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（[平成](../Page/平成.md "wikilink")22年）現在も[在来線](../Page/在来線.md "wikilink")ではBT饋電方式の区間が多く存在している。
+このように欠点の多いBT饋電方式であるが、架線と並列につなぐ饋電線が本質的に不要なことと、レールから吸い上げた電流を通す帰線（負饋電線）がレールと同[電位](../Page/電位.md "wikilink")であるため架線柱の構造はシンプルで済む。一方でAT饋電方式の帰線〈AT饋電線〉は架線電圧と同じだが逆極性（＝[位相](../Page/位相.md "wikilink")差が180度）の電圧のため電線相互には架線電圧の2倍の絶縁を要する\[2\]。そのためAT饋電線は離隔距離を大きくとるばかりか、絶縁に使用する[碍子も架線電圧の](../Page/がいし.md "wikilink")2倍を見込む必要があるため、架線柱への装柱は設計に困難があり、BT饋電方式からAT饋電方式への変更は費用的に高くつく。それゆえに、BT饋電方式から[AT饋電方式](../Page/AT饋電方式.md "wikilink")への変更は[輸送力](https://ja.wikipedia.org/wiki/輸送力 "wikilink")増強のための変電所強化が必要となった東海道新幹線の例にとどまり、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（[平成](../Page/平成.md "wikilink")22年）現在も[在来線](../Page/在来線.md "wikilink")ではBT饋電方式の区間が多く存在している。
 
 ## 脚注
 
@@ -48,7 +48,7 @@ BT饋電方式を採用した交流区間を走る[動力車](../Page/動力車.
   - [デッドセクション](../Page/デッドセクション.md "wikilink")
   - [架線](../Page/架線.md "wikilink")
   - [饋電線](https://ja.wikipedia.org/wiki/饋電線 "wikilink")
-  - [集電装置](https://ja.wikipedia.org/wiki/集電装置 "wikilink")
+  - [集電装置](../Page/集電装置.md "wikilink")
 
 ## 外部リンク
 

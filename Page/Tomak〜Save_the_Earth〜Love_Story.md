@@ -1,17 +1,17 @@
 > この記事は[TomakSave the EarthLove Story](https://ja.wikipedia.org/wiki/TomakSave_the_EarthLove_Story)から翻訳されています。
 
 
-『**Tomak〜Save the Earth〜Love Story**』（トマック〜セイブ・ジ・アース〜ラブ・ストーリー）とは2001年5月、[韓国のSeed](https://ja.wikipedia.org/wiki/大韓民国 "wikilink")9社によって作られた[恋愛シミュレーションゲーム](https://ja.wikipedia.org/wiki/恋愛シミュレーションゲーム "wikilink")。
+『**Tomak〜Save the Earth〜Love Story**』（トマック〜セイブ・ジ・アース〜ラブ・ストーリー）とは2001年5月、[韓国のSeed](../Page/大韓民国.md "wikilink")9社によって作られた[恋愛シミュレーションゲーム](https://ja.wikipedia.org/wiki/恋愛シミュレーションゲーム "wikilink")。
 
 ## 概要
 
-神に滅ぼされようとする地球を救うために**頭だけの姿**で地上に降臨した[愛](https://ja.wikipedia.org/wiki/愛 "wikilink")の[女神](https://ja.wikipedia.org/wiki/女神 "wikilink")に愛を注ぐという**生首育成ゲーム**である。
+神に滅ぼされようとする地球を救うために**頭だけの姿**で地上に降臨した[愛](../Page/愛.md "wikilink")の[女神](../Page/女神.md "wikilink")に愛を注ぐという**生首育成ゲーム**である。
 
 日本では、2002年3月、[サンソフト](https://ja.wikipedia.org/wiki/サンソフト "wikilink")より[Windows版が発売](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。同年12月19日には[PlayStation 2版も発売される](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。なお、「Tomak()」とは、韓国語で「切れ端」「断片」といった意味である。
 
-続編としてSeed9社より『again』が発売されたが、これは恋愛シミュレーションゲームではなくアーケード版[シューティングゲーム](https://ja.wikipedia.org/wiki/シューティングゲーム "wikilink")である。
+続編としてSeed9社より『again』が発売されたが、これは恋愛シミュレーションゲームではなくアーケード版[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")である。
 
-『again』は日本では未発売だが、『[月刊アルカディア](https://ja.wikipedia.org/wiki/月刊アルカディア "wikilink")』において少しだけ紹介されたことがある。
+『again』は日本では未発売だが、『[月刊アルカディア](../Page/月刊アルカディア.md "wikilink")』において少しだけ紹介されたことがある。
 
 ## 設定
 
@@ -37,24 +37,24 @@
 
 [声優](../Page/声優.md "wikilink")は日本で発売されたPC版のもの。カッコ内の日本人名はPlayStation 2版のもの。
 
-  - 愛の女神エビアン：[榎本温子](https://ja.wikipedia.org/wiki/榎本温子 "wikilink")
+  - 愛の女神エビアン：[榎本温子](../Page/榎本温子.md "wikilink")
     抜群の美貌を持つ女神だが、人間界に愛があることを証明するため「頭だけ」の姿で地上に舞い降りる。性格はかなり人間ぽい。
-  - 嫉妬の女神デザワ：[金月真美](https://ja.wikipedia.org/wiki/金月真美 "wikilink")
+  - 嫉妬の女神デザワ：[金月真美](../Page/金月真美.md "wikilink")
     エビアンの妹で。今回の計画の発案者。
-  - 破壊の神バスタイル：[沼田祐介](https://ja.wikipedia.org/wiki/沼田祐介 "wikilink")
+  - 破壊の神バスタイル：[沼田祐介](../Page/沼田祐介.md "wikilink")
     異形然とした容姿通り破壊を好む攻撃的な神で、エビアンに好意をもっており主人公の邪魔をする。実は小心者であり、精神面でも神の中で最も多くの人間性を内包しており、本心ではエビアンの力になりたがっている。
-  - モーニングサンシャイン：[堀秀行](https://ja.wikipedia.org/wiki/堀秀行 "wikilink")
+  - モーニングサンシャイン：[堀秀行](../Page/堀秀行.md "wikilink")
     天界を統べる全能の神。彼と名前が似ている「ナイトムーンシャイン」という人物も登場する。
-  - イ・ソヨン（北条愛美）：[満仲由紀子](https://ja.wikipedia.org/wiki/満仲由紀子 "wikilink")
+  - イ・ソヨン（北条愛美）：[満仲由紀子](../Page/満仲由紀子.md "wikilink")
     活発な女の子。主人公とはコンパで出会う。
-  - チャン・ウンジュ（織原綾乃）：[前田このみ](https://ja.wikipedia.org/wiki/前田このみ_\(声優\) "wikilink")
+  - チャン・ウンジュ（織原綾乃）：[前田このみ](../Page/前田このみ_\(声優\).md "wikilink")
     主人公の幼馴染で、初恋の相手。さばさばした性格で主人公の異性関係の相談役的存在。
-  - キム・チヒョン（桜井いずみ）：[中山さら](https://ja.wikipedia.org/wiki/中山さら "wikilink")
+  - キム・チヒョン（桜井いずみ）：[中山さら](../Page/中山さら.md "wikilink")
     同じく主人公の幼馴染で、やや大人びた性格。
-  - パク・ソンテ（杉野昭治）：[梶原彰](https://ja.wikipedia.org/wiki/梶原彰 "wikilink")
-    カン・ソンフン（麻生桂一）：[渡辺武彦](https://ja.wikipedia.org/wiki/渡辺武彦 "wikilink")
+  - パク・ソンテ（杉野昭治）：[梶原彰](../Page/梶原彰.md "wikilink")
+    カン・ソンフン（麻生桂一）：[渡辺武彦](../Page/渡辺武彦.md "wikilink")
     主人公の友人。
-  - 李春香：[佐藤朱](https://ja.wikipedia.org/wiki/佐藤朱 "wikilink")
+  - 李春香：[佐藤朱](../Page/佐藤朱.md "wikilink")
     親の仕事の関係で海外から引っ越してきた女の子。日本版で追加されたキャラクター。
 
 ## 外部リンク

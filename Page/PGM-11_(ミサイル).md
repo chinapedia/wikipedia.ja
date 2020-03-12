@@ -1,27 +1,27 @@
 > この記事は[PGM-11 \(\)](https://ja.wikipedia.org/wiki/PGM-11_\(\))から翻訳されています。
 
 
-**PGM-11 レッドストーン** (**Redstone**) は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の初期の[短距離弾道ミサイル](https://ja.wikipedia.org/wiki/短距離弾道ミサイル "wikilink") (SRBM) である 。[アメリカ陸軍](https://ja.wikipedia.org/wiki/アメリカ陸軍 "wikilink")と[ヴェルナー・フォン・ブラウン](https://ja.wikipedia.org/wiki/ヴェルナー・フォン・ブラウン "wikilink")らのチームによって開発され、後に[人工衛星](https://ja.wikipedia.org/wiki/人工衛星 "wikilink")や[マーキュリー計画](../Page/マーキュリー計画.md "wikilink")の有人宇宙船を打ち上げる[ロケット](../Page/ロケット.md "wikilink")として転用された。名称は、アメリカ陸軍の[レッドストーン兵器廠](https://ja.wikipedia.org/wiki/レッドストーン兵器廠 "wikilink")にちなむ。
+**PGM-11 レッドストーン** (**Redstone**) は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の初期の[短距離弾道ミサイル](../Page/短距離弾道ミサイル.md "wikilink") (SRBM) である 。[アメリカ陸軍](../Page/アメリカ陸軍.md "wikilink")と[ヴェルナー・フォン・ブラウン](../Page/ヴェルナー・フォン・ブラウン.md "wikilink")らのチームによって開発され、後に[人工衛星](https://ja.wikipedia.org/wiki/人工衛星 "wikilink")や[マーキュリー計画](../Page/マーキュリー計画.md "wikilink")の有人宇宙船を打ち上げる[ロケット](../Page/ロケット.md "wikilink")として転用された。名称は、アメリカ陸軍の[レッドストーン兵器廠](../Page/レッドストーン兵器廠.md "wikilink")にちなむ。
 
 ## 概要
 
-レッドストーンは[ナチス・ドイツ](https://ja.wikipedia.org/wiki/ナチス・ドイツ "wikilink")の[V2ロケット](https://ja.wikipedia.org/wiki/V2ロケット "wikilink")の技術を用いて改良・大型化された[弾道ミサイル](https://ja.wikipedia.org/wiki/弾道ミサイル "wikilink")で、本体全長21 [m](../Page/メートル.md "wikilink")、直径1.8 [m](../Page/メートル.md "wikilink")、質量約28,000 [kg](https://ja.wikipedia.org/wiki/キログラム "wikilink")。生産は[クライスラー](https://ja.wikipedia.org/wiki/クライスラー "wikilink")が担当した。ロケットエンジンとして25%の水と75%のエチル[アルコール](https://ja.wikipedia.org/wiki/アルコール "wikilink")（[エタノール](https://ja.wikipedia.org/wiki/エタノール "wikilink")）を[燃料](https://ja.wikipedia.org/wiki/燃料 "wikilink")とし、[液体酸素](https://ja.wikipedia.org/wiki/液体酸素 "wikilink")を[酸化剤](https://ja.wikipedia.org/wiki/酸化剤 "wikilink")として用いたA-6型を採用、真空中の推力は414.3 [kN](https://ja.wikipedia.org/wiki/ニュートン_\(単位\) "wikilink") (42,251 [kgf](https://ja.wikipedia.org/wiki/重量キログラム "wikilink")) であった。
+レッドストーンは[ナチス・ドイツ](../Page/ナチス・ドイツ.md "wikilink")の[V2ロケット](../Page/V2ロケット.md "wikilink")の技術を用いて改良・大型化された[弾道ミサイル](../Page/弾道ミサイル.md "wikilink")で、本体全長21 [m](../Page/メートル.md "wikilink")、直径1.8 [m](../Page/メートル.md "wikilink")、質量約28,000 [kg](https://ja.wikipedia.org/wiki/キログラム "wikilink")。生産は[クライスラー](../Page/クライスラー.md "wikilink")が担当した。ロケットエンジンとして25%の水と75%のエチル[アルコール](https://ja.wikipedia.org/wiki/アルコール "wikilink")（[エタノール](https://ja.wikipedia.org/wiki/エタノール "wikilink")）を[燃料](../Page/燃料.md "wikilink")とし、[液体酸素](../Page/液体酸素.md "wikilink")を[酸化剤](../Page/酸化剤.md "wikilink")として用いたA-6型を採用、真空中の推力は414.3 [kN](../Page/ニュートン_\(単位\).md "wikilink") (42,251 [kgf](../Page/重量キログラム.md "wikilink")) であった。
 
 ## 歴史
 
-[アラバマ州](https://ja.wikipedia.org/wiki/アラバマ州 "wikilink")[ハンツビル](https://ja.wikipedia.org/wiki/ハンツビル "wikilink")の[アメリカ陸軍弾道ミサイル局](https://ja.wikipedia.org/wiki/アメリカ陸軍弾道ミサイル局 "wikilink")で[ヴェルナー・フォン・ブラウン](https://ja.wikipedia.org/wiki/ヴェルナー・フォン・ブラウン "wikilink")の指揮の下で地対地ミサイルとして本格開発が開始されたのは[1950年](../Page/1950年.md "wikilink")のことであり、生産開始は[1952年](../Page/1952年.md "wikilink")のことであった。名称は1952年4月8日に兵器廠に由来する。レッドストーンとはこの地域の[赤い](https://ja.wikipedia.org/wiki/酸化鉄\(III\) "wikilink")[岩と](https://ja.wikipedia.org/wiki/赤鉄鉱 "wikilink")[土に由来する](https://ja.wikipedia.org/wiki/:en:Geography_of_Alabama#Climate_and_soil "wikilink")。\[1\]初の実射試験は[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")に行われている。[クライスラー](https://ja.wikipedia.org/wiki/クライスラー "wikilink")が1952年にミサイルの生産と支援機器の生産を受注して[ミシガン州](https://ja.wikipedia.org/wiki/ミシガン州 "wikilink")ワーレンのミシガンミサイル工廠で生産した。[アメリカ海軍](https://ja.wikipedia.org/wiki/アメリカ海軍 "wikilink")が所有するこの工廠は以前は海軍の航空機工場として知られ、[ジェットエンジン](https://ja.wikipedia.org/wiki/ジェットエンジン "wikilink")の生産に使用されていた。海軍のジェットエンジンの製造計画が中止された事により施設はクライスラー社によってミサイルの生産に使用できるようになった。[ノースアメリカン](https://ja.wikipedia.org/wiki/ノースアメリカン "wikilink")航空機会社の[ロケットダイン](https://ja.wikipedia.org/wiki/ロケットダイン "wikilink")部門はロケットエンジンを供給し、スペリー・ランド社の一部門であるフォードインスツルメント社は誘導と制御装置を供給し、レイノルズメタル社はクライスラー社の下請けとして胴体の組み立てを請け負った。
+[アラバマ州](../Page/アラバマ州.md "wikilink")[ハンツビル](../Page/ハンツビル.md "wikilink")の[アメリカ陸軍弾道ミサイル局](https://ja.wikipedia.org/wiki/アメリカ陸軍弾道ミサイル局 "wikilink")で[ヴェルナー・フォン・ブラウン](../Page/ヴェルナー・フォン・ブラウン.md "wikilink")の指揮の下で地対地ミサイルとして本格開発が開始されたのは[1950年](../Page/1950年.md "wikilink")のことであり、生産開始は[1952年](../Page/1952年.md "wikilink")のことであった。名称は1952年4月8日に兵器廠に由来する。レッドストーンとはこの地域の[赤い](../Page/酸化鉄\(III\).md "wikilink")[岩と](../Page/赤鉄鉱.md "wikilink")[土に由来する](https://ja.wikipedia.org/wiki/:en:Geography_of_Alabama#Climate_and_soil "wikilink")。\[1\]初の実射試験は[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")に行われている。[クライスラー](../Page/クライスラー.md "wikilink")が1952年にミサイルの生産と支援機器の生産を受注して[ミシガン州](../Page/ミシガン州.md "wikilink")ワーレンのミシガンミサイル工廠で生産した。[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")が所有するこの工廠は以前は海軍の航空機工場として知られ、[ジェットエンジン](../Page/ジェットエンジン.md "wikilink")の生産に使用されていた。海軍のジェットエンジンの製造計画が中止された事により施設はクライスラー社によってミサイルの生産に使用できるようになった。[ノースアメリカン](../Page/ノースアメリカン.md "wikilink")航空機会社の[ロケットダイン](../Page/ロケットダイン.md "wikilink")部門はロケットエンジンを供給し、スペリー・ランド社の一部門であるフォードインスツルメント社は誘導と制御装置を供給し、レイノルズメタル社はクライスラー社の下請けとして胴体の組み立てを請け負った。
 
-部隊配備開始は[1958年](../Page/1958年.md "wikilink")6月で射程320 [kmの](https://ja.wikipedia.org/wiki/キロメートル "wikilink")[核ミサイル](../Page/核ミサイル.md "wikilink")として[西ドイツ](https://ja.wikipedia.org/wiki/西ドイツ "wikilink")駐留の第40野戦砲兵群へ配備された。これらの部隊は西ドイツのKreuznach とWackernheimに1964年6月まで配備された。レッドストーンが配備された第2の部隊は[オクラホマ州](https://ja.wikipedia.org/wiki/オクラホマ州 "wikilink")の[フォート・シルの第](https://ja.wikipedia.org/wiki/:en:Fort_Sill "wikilink")46特科群で1959年から1964年6月まで西ドイツのNeckarsulmに配備された。レッドストーンが配備された第3の部隊はオクラホマ州の[フォート・シルの大](https://ja.wikipedia.org/wiki/:en:Fort_Sill "wikilink")209特科群で1958年から1964年まで担当した。第209部隊の最初の任務は西ドイツに駐留する二つのレッドストーンの部隊を支援する事が目的で[ニューメキシコ州](https://ja.wikipedia.org/wiki/ニューメキシコ州 "wikilink")の[ホワイトサンズ・ミサイル実験場](https://ja.wikipedia.org/wiki/ホワイトサンズ・ミサイル実験場 "wikilink")で駐留する部隊の訓練を行った。それぞれのレッドストーン部隊は打ち上げの為にAとBの二つの隊によって構成され司令部、液体酸素、液体窒素製造部、整備部等から構成された。4基の移動式打ち上げ装置と再装填により計8基のレッドストーンが西ドイツに駐留した4隊に1964年前半まで配備された。レッドストーンの射程はからだった。燃焼中は25%の水と75%のエチルアルコールを混合した燃料と液体酸素を燃焼した。ミサイルの本体はエンジンの停止後20から30秒後に予め設定された目標までの距離に応じて分離される。本体は弾道軌道上を落下地点へ向かって制御が継続される。推進ユニットは制御されず弾道軌道上を飛行して目標よりも低い地点に落ちる。レッドストーンは予め設定された軌道を慣性誘導装置によって軌道を飛行する。慣性誘導装置は地上からの支援によらず制御されるので外部からの妨害に対して耐性がある。
+部隊配備開始は[1958年](../Page/1958年.md "wikilink")6月で射程320 [kmの](../Page/キロメートル.md "wikilink")[核ミサイル](../Page/核ミサイル.md "wikilink")として[西ドイツ](../Page/西ドイツ.md "wikilink")駐留の第40野戦砲兵群へ配備された。これらの部隊は西ドイツのKreuznach とWackernheimに1964年6月まで配備された。レッドストーンが配備された第2の部隊は[オクラホマ州](../Page/オクラホマ州.md "wikilink")の[フォート・シルの第](https://ja.wikipedia.org/wiki/:en:Fort_Sill "wikilink")46特科群で1959年から1964年6月まで西ドイツのNeckarsulmに配備された。レッドストーンが配備された第3の部隊はオクラホマ州の[フォート・シルの大](https://ja.wikipedia.org/wiki/:en:Fort_Sill "wikilink")209特科群で1958年から1964年まで担当した。第209部隊の最初の任務は西ドイツに駐留する二つのレッドストーンの部隊を支援する事が目的で[ニューメキシコ州](../Page/ニューメキシコ州.md "wikilink")の[ホワイトサンズ・ミサイル実験場](https://ja.wikipedia.org/wiki/ホワイトサンズ・ミサイル実験場 "wikilink")で駐留する部隊の訓練を行った。それぞれのレッドストーン部隊は打ち上げの為にAとBの二つの隊によって構成され司令部、液体酸素、液体窒素製造部、整備部等から構成された。4基の移動式打ち上げ装置と再装填により計8基のレッドストーンが西ドイツに駐留した4隊に1964年前半まで配備された。レッドストーンの射程はからだった。燃焼中は25%の水と75%のエチルアルコールを混合した燃料と液体酸素を燃焼した。ミサイルの本体はエンジンの停止後20から30秒後に予め設定された目標までの距離に応じて分離される。本体は弾道軌道上を落下地点へ向かって制御が継続される。推進ユニットは制御されず弾道軌道上を飛行して目標よりも低い地点に落ちる。レッドストーンは予め設定された軌道を慣性誘導装置によって軌道を飛行する。慣性誘導装置は地上からの支援によらず制御されるので外部からの妨害に対して耐性がある。
 
-レッドストーンは初期の500kTの[W18](https://ja.wikipedia.org/wiki/Mark_18_\(核爆弾\) "wikilink")"Super Oralloy"弾頭や3.8 MTの[W39原子爆弾を備えた最初のロケット運搬型核爆弾で](https://ja.wikipedia.org/wiki/Mark_39_\(核爆弾\) "wikilink")1958年8月に太平洋の[ジョンストン島](https://ja.wikipedia.org/wiki/ジョンストン島 "wikilink")での[ハードタック作戦](https://ja.wikipedia.org/wiki/ハードタック作戦 "wikilink")で使用された。1958年8月1日にレッドストーンNo.CC50が核実験*Teak*で打ち上げられ高度に達した。1958年8月12日にレッドストーンNo.CC51が核実験*Orange*で打ち上げられ高度に達した。両方のペイロードは3.75 MTだった。 生産は[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")まで行なわれ、[1964年](../Page/1964年.md "wikilink")に退役した。
+レッドストーンは初期の500kTの[W18](https://ja.wikipedia.org/wiki/Mark_18_\(核爆弾\) "wikilink")"Super Oralloy"弾頭や3.8 MTの[W39原子爆弾を備えた最初のロケット運搬型核爆弾で](https://ja.wikipedia.org/wiki/Mark_39_\(核爆弾\) "wikilink")1958年8月に太平洋の[ジョンストン島](../Page/ジョンストン島.md "wikilink")での[ハードタック作戦](https://ja.wikipedia.org/wiki/ハードタック作戦 "wikilink")で使用された。1958年8月1日にレッドストーンNo.CC50が核実験*Teak*で打ち上げられ高度に達した。1958年8月12日にレッドストーンNo.CC51が核実験*Orange*で打ち上げられ高度に達した。両方のペイロードは3.75 MTだった。 生産は[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")まで行なわれ、[1964年](../Page/1964年.md "wikilink")に退役した。
 
-「レッドストーン」ミサイルの派生型の「ジュノーI」ロケットによりアメリカ初の人工衛星「[エクスプローラー1号](https://ja.wikipedia.org/wiki/エクスプローラー1号 "wikilink")」が打ち上げられた。また、マーキュリー計画では、「レッドストーン」ミサイルの派生型「レッドストーン・マーキュリー」ロケットにより、無人機および2機の有人宇宙船「[フリーダム7](https://ja.wikipedia.org/wiki/マーキュリー・レッドストーン3号 "wikilink")」および「[リバティ・ベル7](https://ja.wikipedia.org/wiki/マーキュリー・レッドストーン4号 "wikilink")」を弾道飛行させることに成功した。
+「レッドストーン」ミサイルの派生型の「ジュノーI」ロケットによりアメリカ初の人工衛星「[エクスプローラー1号](../Page/エクスプローラー1号.md "wikilink")」が打ち上げられた。また、マーキュリー計画では、「レッドストーン」ミサイルの派生型「レッドストーン・マーキュリー」ロケットにより、無人機および2機の有人宇宙船「[フリーダム7](../Page/マーキュリー・レッドストーン3号.md "wikilink")」および「[リバティ・ベル7](../Page/マーキュリー・レッドストーン4号.md "wikilink")」を弾道飛行させることに成功した。
 
 ## 派生機種
 
 ### ジュピターC/ジュノーI
 
-ジュピターC () は弾道ミサイル[ジュピターIRBMの前の世代の弾道ミサイル](https://ja.wikipedia.org/wiki/ジュピター_\(ミサイル\) "wikilink")**レッドストーンSRBM**を改良した大気圏再突入テスト用又は衛星打ち上げ用ロケットである。似通った名前を使っているジュピターIRBMとは設計が全く異なる。
+ジュピターC () は弾道ミサイル[ジュピターIRBMの前の世代の弾道ミサイル](../Page/ジュピター_\(ミサイル\).md "wikilink")**レッドストーンSRBM**を改良した大気圏再突入テスト用又は衛星打ち上げ用ロケットである。似通った名前を使っているジュピターIRBMとは設計が全く異なる。
 
 1段目は、レッドストーンSRBMの燃料タンクを延長し容量を増やし燃焼時間を延ばした。エンジンはA-6の改良型のA-7を用いた。また、燃料は[エタノール](https://ja.wikipedia.org/wiki/エタノール "wikilink")水溶液から[Hydyne](https://ja.wikipedia.org/wiki/Hydyne "wikilink")に変更し、毒性があるが、推力と比推力を向上させた。さらに、[サージェント](https://ja.wikipedia.org/wiki/サージェント "wikilink")SRBMから派生した小型の固体燃料ロケット「ベイビー・サージェント」を、11本円環状に並べたものを2段目とした。その2段目の中央に、第3段として同型の固体燃料ロケットが3本備わる。
 
@@ -45,14 +45,14 @@
   - 翼幅： 3.66 m （12 ft）
   - 直径： 1.78 m （70 in）
   - 発射重量： 27,800 kg （61,300 lb）
-  - 機関： [ノースアメリカン](https://ja.wikipedia.org/wiki/ノースアメリカン "wikilink")/[ロケットダイン](https://ja.wikipedia.org/wiki/ロケットダイン "wikilink") NAA75-100 (A-6) 液体燃料ロケット・モーター
-  - 燃料/酸化剤： [エタノール](https://ja.wikipedia.org/wiki/エタノール "wikilink")水溶液/[液体酸素](https://ja.wikipedia.org/wiki/液体酸素 "wikilink")
+  - 機関： [ノースアメリカン](../Page/ノースアメリカン.md "wikilink")/[ロケットダイン](../Page/ロケットダイン.md "wikilink") NAA75-100 (A-6) 液体燃料ロケット・モーター
+  - 燃料/酸化剤： [エタノール](https://ja.wikipedia.org/wiki/エタノール "wikilink")水溶液/[液体酸素](../Page/液体酸素.md "wikilink")
   - 推力： 347 kN （78,000 lbf）
-  - 速度： [M](https://ja.wikipedia.org/wiki/マッハ数 "wikilink") 5.5
+  - 速度： [M](../Page/マッハ数.md "wikilink") 5.5
   - 到達高度： 92 km （57 mi）
   - 射程： 325 km （175 mi）
-  - 精度： 300 m （1000 ft） [CEP](https://ja.wikipedia.org/wiki/平均誤差半径 "wikilink")
-  - 弾頭： [W39](https://ja.wikipedia.org/wiki/Mark_39_\(核爆弾\) "wikilink")[熱核弾頭](../Page/水素爆弾.md "wikilink")（[核出力](https://ja.wikipedia.org/wiki/核出力 "wikilink")：4 Mt）
+  - 精度： 300 m （1000 ft） [CEP](../Page/平均誤差半径.md "wikilink")
+  - 弾頭： [W39](https://ja.wikipedia.org/wiki/Mark_39_\(核爆弾\) "wikilink")[熱核弾頭](../Page/水素爆弾.md "wikilink")（[核出力](../Page/核出力.md "wikilink")：4 Mt）
 
 ## ギャラリー
 
@@ -73,9 +73,9 @@ Image:Redstone msl 1 53 01.jpg|初期のレッドストーンの生産 (1953年)
 
 ## 関連項目
 
-  - [MGM-31 パーシング](https://ja.wikipedia.org/wiki/MGM-31_\(ミサイル\) "wikilink")
-  - [オルガー・N・トフトイ](https://ja.wikipedia.org/wiki/オルガー・トフトイ "wikilink")
-  - [アメリカ合衆国のミサイル一覧](https://ja.wikipedia.org/wiki/アメリカ合衆国のミサイル一覧 "wikilink")
+  - [MGM-31 パーシング](../Page/MGM-31_\(ミサイル\).md "wikilink")
+  - [オルガー・N・トフトイ](../Page/オルガー・トフトイ.md "wikilink")
+  - [アメリカ合衆国のミサイル一覧](../Page/アメリカ合衆国のミサイル一覧.md "wikilink")
 
 ## 外部リンク
 

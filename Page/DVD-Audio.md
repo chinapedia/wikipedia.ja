@@ -5,11 +5,11 @@
 
 ## オーディオフォーマット
 
-チャンネル数は最大6（5.1チャンネル[サラウンド](https://ja.wikipedia.org/wiki/サラウンド "wikilink")）、[標本化周波数は](../Page/サンプリング周波数.md "wikilink")[ステレオ](../Page/ステレオ.md "wikilink")で最大192[kHz](https://ja.wikipedia.org/wiki/キロヘルツ "wikilink")、マルチチャンネルで最大96kHz。[量子化ビット数は最大](https://ja.wikipedia.org/wiki/ビット深度_\(音響機器\) "wikilink")24ビット（[ダイナミックレンジ](https://ja.wikipedia.org/wiki/ダイナミックレンジ "wikilink")144[dB](https://ja.wikipedia.org/wiki/デシベル "wikilink")）。
+チャンネル数は最大6（5.1チャンネル[サラウンド](../Page/サラウンド.md "wikilink")）、[標本化周波数は](../Page/サンプリング周波数.md "wikilink")[ステレオ](../Page/ステレオ.md "wikilink")で最大192[kHz](https://ja.wikipedia.org/wiki/キロヘルツ "wikilink")、マルチチャンネルで最大96kHz。[量子化ビット数は最大](https://ja.wikipedia.org/wiki/ビット深度_\(音響機器\) "wikilink")24ビット（[ダイナミックレンジ](../Page/ダイナミックレンジ.md "wikilink")144[dB](../Page/デシベル.md "wikilink")）。
 
 ## 普及状態の推移
 
-[Hi-Fi](https://ja.wikipedia.org/wiki/Hi-Fi "wikilink")オーディオ向けの媒体として、また従来の[CD-DA](../Page/CD-DA.md "wikilink")では不可能であった5.1ch[サラウンド](https://ja.wikipedia.org/wiki/サラウンド "wikilink")といったマルチチャンネルオーディオの媒体として期待された\[1\]が、結果的にはほとんど普及しなかった。次世代のオーディオ媒体としては、同時期に登場した、CD-DAと互換性を持つハイブリッドディスクを制作可能な[Super Audio CD](https://ja.wikipedia.org/wiki/Super_Audio_CD "wikilink")（SACD）に市場を譲る形となり、普及推進のため2002年に発足したDVDオーディオプロモーション協議会も2007年には解散した\[2\]\[3\]\[4\]。
+[Hi-Fi](../Page/Hi-Fi.md "wikilink")オーディオ向けの媒体として、また従来の[CD-DA](../Page/CD-DA.md "wikilink")では不可能であった5.1ch[サラウンド](../Page/サラウンド.md "wikilink")といったマルチチャンネルオーディオの媒体として期待された\[1\]が、結果的にはほとんど普及しなかった。次世代のオーディオ媒体としては、同時期に登場した、CD-DAと互換性を持つハイブリッドディスクを制作可能な[Super Audio CD](../Page/Super_Audio_CD.md "wikilink")（SACD）に市場を譲る形となり、普及推進のため2002年に発足したDVDオーディオプロモーション協議会も2007年には解散した\[2\]\[3\]\[4\]。
 
 ## 著作権保護
 
@@ -24,9 +24,9 @@
   -
 ## 関連項目
 
-  - [音響機器](https://ja.wikipedia.org/wiki/音響機器 "wikilink")
+  - [音響機器](../Page/音響機器.md "wikilink")
   - [ハイレゾリューションオーディオ](https://ja.wikipedia.org/wiki/ハイレゾリューションオーディオ "wikilink")
-  - [Super Audio CD](https://ja.wikipedia.org/wiki/Super_Audio_CD "wikilink")
+  - [Super Audio CD](../Page/Super_Audio_CD.md "wikilink")
 
 [Category:DVD](https://ja.wikipedia.org/wiki/Category:DVD "wikilink") [Category:12センチディスク](https://ja.wikipedia.org/wiki/Category:12センチディスク "wikilink") [Category:パナソニックのAV機器](https://ja.wikipedia.org/wiki/Category:パナソニックのAV機器 "wikilink")
 

@@ -1,9 +1,9 @@
 > この記事は[Best Dreamin\'](https://ja.wikipedia.org/wiki/Best_Dreamin\')から翻訳されています。
 
 
-『**Best Dreamin**'』（ベスト・ドリーミン）は、[第2期かぐや姫の](https://ja.wikipedia.org/wiki/かぐや姫_\(フォークグループ\) "wikilink")2枚組[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")である。
+『**Best Dreamin**'』（ベスト・ドリーミン）は、[第2期かぐや姫の](../Page/かぐや姫_\(フォークグループ\).md "wikilink")2枚組[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")である。
 
-[第50回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第50回NHK紅白歌合戦 "wikilink")初出場の翌日に発売。2010年12月8日にBlu-spec CDで再発。
+[第50回NHK紅白歌合戦](../Page/第50回NHK紅白歌合戦.md "wikilink")初出場の翌日に発売。2010年12月8日にBlu-spec CDで再発。
 
 メンバー3人が選曲し、[南こうせつ](https://ja.wikipedia.org/wiki/南こうせつ "wikilink")の歌以外は同じ人の歌が連続にならないように工夫されている。
 
@@ -11,13 +11,13 @@
 
 ### Disc 1
 
-1.  **[神田川](https://ja.wikipedia.org/wiki/神田川_\(曲\) "wikilink")** 作詞 [喜多条忠](https://ja.wikipedia.org/wiki/喜多條忠 "wikilink")/作曲 [南こうせつ](https://ja.wikipedia.org/wiki/南こうせつ "wikilink")
-2.  **雪が降る日に** 作詞 [伊勢正三](https://ja.wikipedia.org/wiki/伊勢正三 "wikilink")/作曲 南こうせつ
+1.  **[神田川](../Page/神田川_\(曲\).md "wikilink")** 作詞 [喜多条忠](../Page/喜多條忠.md "wikilink")/作曲 [南こうせつ](https://ja.wikipedia.org/wiki/南こうせつ "wikilink")
+2.  **雪が降る日に** 作詞 [伊勢正三](../Page/伊勢正三.md "wikilink")/作曲 南こうせつ
 3.  **置手紙** 作詞・作曲 伊勢正三
 4.  **おはようおやすみ日曜日** 作詞 伊勢正三/作曲 [山田つぐと](https://ja.wikipedia.org/wiki/山田つぐと "wikilink")
 5.  **けれど生きている** 作詞 山田つぐと/作曲 南こうせつ
 6.  **[青春](../Page/青春_\(かぐや姫の曲\).md "wikilink")** 作詞 伊勢正三/作曲 南こうせつ
-7.  **[アビーロードの街](https://ja.wikipedia.org/wiki/アビイ・ロード "wikilink")** 作詞 伊勢正三/作曲 南こうせつ
+7.  **[アビーロードの街](../Page/アビイ・ロード.md "wikilink")** 作詞 伊勢正三/作曲 南こうせつ
 8.  **加茂の流れに** (Live) 作詞・作曲 南こうせつ
 9.  **大きな片想い** 作詞・作曲 南こうせつ
 10. **君がよければ** 作詞・作曲 山田つぐと
@@ -34,7 +34,7 @@
 
 ### Disc 2
 
-1.  **[22才の別れ](https://ja.wikipedia.org/wiki/22才の別れ "wikilink")** 作詞・作曲 伊勢正三
+1.  **[22才の別れ](../Page/22才の別れ.md "wikilink")** 作詞・作曲 伊勢正三
 2.  **[妹](../Page/妹_\(曲\).md "wikilink")** 作詞 喜多条忠/作曲 南こうせつ
 3.  **赤い花束** 作詞・作曲 山田つぐと
 4.  **うちのお父さん** 作詞・作曲 南こうせつ
@@ -51,7 +51,7 @@
 15. **ペテン師** (Live) 作詞 喜多条 忠/作曲 伊勢正三
 16. **こもれ陽** 作詞・作曲 山田つぐと
 17. **ひとりきり** 作詞・作曲 南こうせつ
-18. **[なごり雪](https://ja.wikipedia.org/wiki/なごり雪 "wikilink")** 作詞・作曲 伊勢正三
+18. **[なごり雪](../Page/なごり雪.md "wikilink")** 作詞・作曲 伊勢正三
 19. **マキシーのために** 作詞 喜多条忠/作曲 南こうせつ
 20. **おまえが大きくなった時** 作詞・作曲 南こうせつ
 

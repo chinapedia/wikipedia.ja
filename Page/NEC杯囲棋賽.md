@@ -1,31 +1,31 @@
 > この記事は[NEC](https://ja.wikipedia.org/wiki/NEC)から翻訳されています。
 
 
-**NEC杯囲棋賽**（NECはいいきさい、NEC杯围棋赛）は、[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")の[囲碁](../Page/囲碁.md "wikilink")の[棋戦](https://ja.wikipedia.org/wiki/棋戦_\(囲碁\) "wikilink")。1995年に創設、2009年まで14期行われた。
+**NEC杯囲棋賽**（NECはいいきさい、NEC杯围棋赛）は、[中国](../Page/中国.md "wikilink")の[囲碁](../Page/囲碁.md "wikilink")の[棋戦](https://ja.wikipedia.org/wiki/棋戦_\(囲碁\) "wikilink")。1995年に創設、2009年まで14期行われた。
 
 また、1997年から2001年には**NEC新秀戦**（NEC新秀赛）が行われた。
 
-  - 主催 [中国囲棋協会](https://ja.wikipedia.org/wiki/中国囲棋協会 "wikilink")、[囲棋天地](https://ja.wikipedia.org/wiki/囲棋天地 "wikilink")
+  - 主催 [中国囲棋協会](../Page/中国囲棋協会.md "wikilink")、[囲棋天地](https://ja.wikipedia.org/wiki/囲棋天地 "wikilink")
   - 賛助 [NEC](../Page/日本電気.md "wikilink")
   - 優勝賞金 第1期は12万元、その後20万元
 
 対局は各地で開催され、公開早碁で行われる。このため開催地の地元出身棋士には多大な声援が贈られるのも特徴の一つ。持ち時間は一人10分で、使い切ると1手30秒の秒読み。
 
-出場棋士は、予選通過の8名、前回1、2位の2名、棋士ランキング上位2名の、計12名で、トーナメント戦で争われる。第2期から6期の優勝者は、[日中スーパー囲碁](https://ja.wikipedia.org/wiki/日中スーパー囲碁 "wikilink")の優勝者戦に出場した。
+出場棋士は、予選通過の8名、前回1、2位の2名、棋士ランキング上位2名の、計12名で、トーナメント戦で争われる。第2期から6期の優勝者は、[日中スーパー囲碁](../Page/日中スーパー囲碁.md "wikilink")の優勝者戦に出場した。
 
 ## 歴代優勝者と決勝戦
 
 （左が優勝者）
 
-1.  1996年 [曹大元](https://ja.wikipedia.org/wiki/曹大元 "wikilink") - [鄭弘](https://ja.wikipedia.org/wiki/鄭弘 "wikilink")
+1.  1996年 [曹大元](../Page/曹大元.md "wikilink") - [鄭弘](https://ja.wikipedia.org/wiki/鄭弘 "wikilink")
 2.  1997年 [邵煒剛](https://ja.wikipedia.org/wiki/邵煒剛 "wikilink") - 曹大元
-3.  1998年 [常昊](https://ja.wikipedia.org/wiki/常昊 "wikilink") - 曹大元
-4.  1999年 [周鶴洋](https://ja.wikipedia.org/wiki/周鶴洋 "wikilink") - 常昊
+3.  1998年 [常昊](../Page/常昊.md "wikilink") - 曹大元
+4.  1999年 [周鶴洋](../Page/周鶴洋.md "wikilink") - 常昊
 5.  2000年 邵煒剛 - 常昊
 6.  2001年 [羅洗河](../Page/羅洗河.md "wikilink") - 周鶴洋
 7.  2002年 常昊 - [劉世振](https://ja.wikipedia.org/wiki/劉世振 "wikilink")
 8.  2003年 [王磊](https://ja.wikipedia.org/wiki/王磊_\(囲碁\) "wikilink") - 周鶴洋
-9.  2004年 [古力](https://ja.wikipedia.org/wiki/古力 "wikilink") - 常昊
+9.  2004年 [古力](../Page/古力.md "wikilink") - 常昊
 10. 2005年 常昊 - 古力
 11. 2006年 古力 - 劉世振
 12. 2007年 [邱峻](https://ja.wikipedia.org/wiki/邱峻 "wikilink") - [周睿羊](https://ja.wikipedia.org/wiki/周睿羊 "wikilink")
@@ -52,7 +52,7 @@
 
 ## 関連項目
 
-  - [NECカップ囲碁トーナメント戦](https://ja.wikipedia.org/wiki/NECカップ囲碁トーナメント戦 "wikilink")
+  - [NECカップ囲碁トーナメント戦](../Page/NECカップ囲碁トーナメント戦.md "wikilink")
 
 ## 外部リンク
 

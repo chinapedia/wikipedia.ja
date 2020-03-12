@@ -1,7 +1,7 @@
 > この記事は[TIPA](https://ja.wikipedia.org/wiki/TIPA)から翻訳されています。
 
 
-**TIPA** は[上で](../Page/LaTeX.md "wikilink")[国際音声記号](../Page/国際音声記号.md "wikilink") (IPA) やその他の音声記号を表示するための[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")である。[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")の[福井玲](https://ja.wikipedia.org/wiki/福井玲 "wikilink")によって開発された。より古い [TSIPA](https://ja.wikipedia.org/wiki/TSIPA "wikilink") というソフトウェアが元になっている。
+**TIPA** は[上で](../Page/LaTeX.md "wikilink")[国際音声記号](../Page/国際音声記号.md "wikilink") (IPA) やその他の音声記号を表示するための[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")である。[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")の[福井玲](../Page/福井玲.md "wikilink")によって開発された。より古い [TSIPA](https://ja.wikipedia.org/wiki/TSIPA "wikilink") というソフトウェアが元になっている。
 
 [標準の書体である](../Page/TeX.md "wikilink")[Computer Modernに合わせたデザインのほかいくつかの書体が利用可能](https://ja.wikipedia.org/wiki/Computer_Modern "wikilink")。利用したい記号に対応するマクロ名を入力するか、次の環境内でショートカット文字を利用する。例えば、曖昧母音は命令、または以下の環境内でショートカット文字を用いることで表示できる。
 

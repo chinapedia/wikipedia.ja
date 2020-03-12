@@ -1,7 +1,7 @@
 > この記事は[ALIVE \(\)](https://ja.wikipedia.org/wiki/ALIVE_\(\))から翻訳されています。
 
 
-『**ALIVE**』（アライブ）は[2003年](../Page/2003年.md "wikilink")公開の[日本映画](../Page/日本映画.md "wikilink")。漫画家の[高橋ツトム](../Page/高橋ツトム.md "wikilink")が[1999年](../Page/1999年.md "wikilink")に『週刊ヤングジャンプ』に発表したコミックを『[VERSUS -ヴァーサス-](../Page/VERSUS_\(映画\).md "wikilink")』、『[あずみ](https://ja.wikipedia.org/wiki/あずみ_\(映画\) "wikilink")』監督の[北村龍平](../Page/北村龍平.md "wikilink")が映画化したSFソリッド・サバイバル・アクション。主演は『[VERSUS -ヴァーサス-](../Page/VERSUS_\(映画\).md "wikilink")』、『[あずみ](https://ja.wikipedia.org/wiki/あずみ_\(映画\) "wikilink")』など北村常連組のひとりでもある俳優、[榊英雄](../Page/榊英雄.md "wikilink")。
+『**ALIVE**』（アライブ）は[2003年](../Page/2003年.md "wikilink")公開の[日本映画](../Page/日本映画.md "wikilink")。漫画家の[高橋ツトム](../Page/高橋ツトム.md "wikilink")が[1999年](../Page/1999年.md "wikilink")に『週刊ヤングジャンプ』に発表したコミックを『[VERSUS -ヴァーサス-](../Page/VERSUS_\(映画\).md "wikilink")』、『[あずみ](../Page/あずみ_\(映画\).md "wikilink")』監督の[北村龍平](../Page/北村龍平.md "wikilink")が映画化したSFソリッド・サバイバル・アクション。主演は『[VERSUS -ヴァーサス-](../Page/VERSUS_\(映画\).md "wikilink")』、『[あずみ](../Page/あずみ_\(映画\).md "wikilink")』など北村常連組のひとりでもある俳優、[榊英雄](../Page/榊英雄.md "wikilink")。
 
 ## ストーリー
 
@@ -10,28 +10,28 @@
 ## スタッフ
 
   - 監督：[北村龍平](../Page/北村龍平.md "wikilink")
-  - 脚本：北村龍平 [山口雄大](https://ja.wikipedia.org/wiki/山口雄大 "wikilink") [桐山勲](https://ja.wikipedia.org/wiki/桐山勲 "wikilink")
+  - 脚本：北村龍平 [山口雄大](../Page/山口雄大.md "wikilink") [桐山勲](https://ja.wikipedia.org/wiki/桐山勲 "wikilink")
   - 原作：[高橋ツトム](../Page/高橋ツトム.md "wikilink")
-  - 撮影：[古谷巧](https://ja.wikipedia.org/wiki/古谷巧 "wikilink")
+  - 撮影：[古谷巧](../Page/古谷巧.md "wikilink")
   - 音楽：[森野宣彦](https://ja.wikipedia.org/wiki/森野宣彦 "wikilink") [矢野大介](https://ja.wikipedia.org/wiki/矢野大介 "wikilink")
   - VFXスーパーバイザー：進威志
-  - [アクション監督](https://ja.wikipedia.org/wiki/アクション監督 "wikilink")：[下村勇二](https://ja.wikipedia.org/wiki/下村勇二 "wikilink")
+  - [アクション監督](https://ja.wikipedia.org/wiki/アクション監督 "wikilink")：[下村勇二](../Page/下村勇二.md "wikilink")
 
 ## キャスト
 
   - 八代天周：[榊英雄](../Page/榊英雄.md "wikilink")
   - 三枝百合華：[りょう](https://ja.wikipedia.org/wiki/りょう "wikilink")
   - 三枝明日香：[小雪](https://ja.wikipedia.org/wiki/小雪_\(女優\) "wikilink")
-  - 原みさ子：[小田エリカ](https://ja.wikipedia.org/wiki/小田エリカ "wikilink")
-  - 徳武：[ベンガル](https://ja.wikipedia.org/wiki/ベンガル_\(俳優\) "wikilink")
-  - 小島：[國村隼](https://ja.wikipedia.org/wiki/國村隼 "wikilink")
-  - 松田：[菅田俊](https://ja.wikipedia.org/wiki/菅田俊 "wikilink")
-  - ゼロス：[坂口拓](https://ja.wikipedia.org/wiki/坂口拓 "wikilink")
+  - 原みさ子：[小田エリカ](../Page/小田エリカ.md "wikilink")
+  - 徳武：[ベンガル](../Page/ベンガル_\(俳優\).md "wikilink")
+  - 小島：[國村隼](../Page/國村隼.md "wikilink")
+  - 松田：[菅田俊](../Page/菅田俊.md "wikilink")
+  - ゼロス：[坂口拓](../Page/坂口拓.md "wikilink")
   - 権藤：[杉本哲太](https://ja.wikipedia.org/wiki/杉本哲太 "wikilink")
   - 刑務所長：[石橋蓮司](../Page/石橋蓮司.md "wikilink")
-  - 死刑囚：[小沢仁志](https://ja.wikipedia.org/wiki/小沢仁志 "wikilink")、[松岡俊介](https://ja.wikipedia.org/wiki/松岡俊介 "wikilink")、[殺陣剛太](../Page/殺陣剛太.md "wikilink")
-  - 戦闘部隊指揮官：[松田賢二](https://ja.wikipedia.org/wiki/松田賢二 "wikilink")
-  - 警備員：[田中要次](https://ja.wikipedia.org/wiki/田中要次 "wikilink")
+  - 死刑囚：[小沢仁志](../Page/小沢仁志.md "wikilink")、[松岡俊介](../Page/松岡俊介.md "wikilink")、[殺陣剛太](../Page/殺陣剛太.md "wikilink")
+  - 戦闘部隊指揮官：[松田賢二](../Page/松田賢二.md "wikilink")
+  - 警備員：[田中要次](../Page/田中要次.md "wikilink")
   - 研究員：[吉原歩](https://ja.wikipedia.org/wiki/吉原歩 "wikilink")、伊沢響、[谷門進士](https://ja.wikipedia.org/wiki/谷門進士 "wikilink")
   - 戦闘部隊隊員：[松本実](https://ja.wikipedia.org/wiki/松本実 "wikilink")、新井雄一郎、大場一史、古宮基成、片山武宏
 

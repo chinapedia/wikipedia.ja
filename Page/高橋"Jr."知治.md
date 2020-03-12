@@ -7,7 +7,7 @@
 
 Jungapop、三宅伸治Band、FBM、などに在籍中
 
-サポートベーシストとして、[ウルフルズ](../Page/ウルフルズ.md "wikilink")、[相川七瀬](https://ja.wikipedia.org/wiki/相川七瀬 "wikilink")、[See-Saw](https://ja.wikipedia.org/wiki/See-Saw "wikilink")、[FictionJunction](https://ja.wikipedia.org/wiki/FictionJunction "wikilink")、[Kalafina](https://ja.wikipedia.org/wiki/Kalafina "wikilink")、[三宅伸治](https://ja.wikipedia.org/wiki/三宅伸治 "wikilink")、[阿部義晴](https://ja.wikipedia.org/wiki/阿部義晴 "wikilink")など数々のアーティストに参加経験あり。
+サポートベーシストとして、[ウルフルズ](../Page/ウルフルズ.md "wikilink")、[相川七瀬](https://ja.wikipedia.org/wiki/相川七瀬 "wikilink")、[See-Saw](../Page/See-Saw.md "wikilink")、[FictionJunction](../Page/FictionJunction.md "wikilink")、[Kalafina](https://ja.wikipedia.org/wiki/Kalafina "wikilink")、[三宅伸治](../Page/三宅伸治.md "wikilink")、[阿部義晴](../Page/阿部義晴.md "wikilink")など数々のアーティストに参加経験あり。
 
 ## 来歴
 
@@ -16,11 +16,11 @@ Jungapop、三宅伸治Band、FBM、などに在籍中
   - 1992年 - アルバム「名前もない道の上で」発売
   - 1994年 - "Girl U Need"としてメジャーデビュー。
   - 1996年 - "JUNGA POPに加入。
-  - 2004年 - [三宅伸治BAND](https://ja.wikipedia.org/wiki/三宅伸治BAND "wikilink")（[三宅伸治](https://ja.wikipedia.org/wiki/三宅伸治 "wikilink")、**高橋"Jr."知治**、[大島賢治](../Page/大島賢治.md "wikilink")）活動開始
+  - 2004年 - [三宅伸治BAND](https://ja.wikipedia.org/wiki/三宅伸治BAND "wikilink")（[三宅伸治](../Page/三宅伸治.md "wikilink")、**高橋"Jr."知治**、[大島賢治](../Page/大島賢治.md "wikilink")）活動開始
   - 2006年 - [GIBIER du MARIでメジャーデビュー](https://ja.wikipedia.org/wiki/GIBIER_du_MARI "wikilink")。
   - 2007年4月 - “[氣志團](../Page/氣志團.md "wikilink")四天王Presents”「春のぽっかぽかツアー2007 NEET NEET NEET～あいつら100%伝説」に[西園寺瞳](https://ja.wikipedia.org/wiki/西園寺瞳 "wikilink")のユニット、[Tommy\&The Bonjaskys](https://ja.wikipedia.org/wiki/Tommy&The_Bonjaskys "wikilink") として参加。
-  - 2007年5月 - [三宅伸治](https://ja.wikipedia.org/wiki/三宅伸治 "wikilink")「BLUES'N ROLL」発売記念ツアー、三宅伸治BAND（[三宅伸治](https://ja.wikipedia.org/wiki/三宅伸治 "wikilink")、**高橋"Jr."知治**、[大島賢治](../Page/大島賢治.md "wikilink")、NAOH、[厚見玲衣](https://ja.wikipedia.org/wiki/厚見玲衣 "wikilink")、渡辺隆雄）
-  - 2007年7月 - 「[夏木マリ](https://ja.wikipedia.org/wiki/夏木マリ "wikilink") L×4 Linda Linda Love Live」ツアー（[GIBIER du MARI](https://ja.wikipedia.org/wiki/GIBIER_du_MARI "wikilink")）
+  - 2007年5月 - [三宅伸治](../Page/三宅伸治.md "wikilink")「BLUES'N ROLL」発売記念ツアー、三宅伸治BAND（[三宅伸治](../Page/三宅伸治.md "wikilink")、**高橋"Jr."知治**、[大島賢治](../Page/大島賢治.md "wikilink")、NAOH、[厚見玲衣](https://ja.wikipedia.org/wiki/厚見玲衣 "wikilink")、渡辺隆雄）
+  - 2007年7月 - 「[夏木マリ](../Page/夏木マリ.md "wikilink") L×4 Linda Linda Love Live」ツアー（[GIBIER du MARI](https://ja.wikipedia.org/wiki/GIBIER_du_MARI "wikilink")）
   - 2007年7月 - [JUNGA POP](https://ja.wikipedia.org/wiki/JUNGA_POP "wikilink")、初関西ツアー
   - 2008年11月 - [氣志團](../Page/氣志團.md "wikilink")のギタリスト、[西園寺瞳](https://ja.wikipedia.org/wiki/西園寺瞳 "wikilink")のソロユニット「Tommy & The Bonjaskys」が、ミニアルバム「We are The Bonjaskys\!」をUK PROJECTより発売。
   - 2013年7月 - Jungapop　４枚目にアルバム Honkey Zill
@@ -36,12 +36,12 @@ Jungapop、三宅伸治Band、FBM、などに在籍中
   - [坂口良治](../Page/坂口良治.md "wikilink") (Dr)
   - [尾上一平](https://ja.wikipedia.org/wiki/尾上一平 "wikilink")(Vo)
   - 高橋"Jr."知治 (Bass)
-  - [蓑輪単志](https://ja.wikipedia.org/wiki/蓑輪単志 "wikilink") (Key)
-  - [是永巧一](https://ja.wikipedia.org/wiki/是永巧一 "wikilink") (Gt)
+  - [蓑輪単志](../Page/蓑輪単志.md "wikilink") (Key)
+  - [是永巧一](../Page/是永巧一.md "wikilink") (Gt)
 
 ### 三宅伸治BAND
 
-  - [三宅伸治](https://ja.wikipedia.org/wiki/三宅伸治 "wikilink")（Vo/Gu）
+  - [三宅伸治](../Page/三宅伸治.md "wikilink")（Vo/Gu）
   - 高橋"Jr."知治(Bass)
   - [大島賢治](../Page/大島賢治.md "wikilink")（Dr）
 
@@ -66,16 +66,16 @@ Jungapop、三宅伸治Band、FBM、などに在籍中
 
 ## 関連項目
 
-  - [とよた真帆](https://ja.wikipedia.org/wiki/とよた真帆 "wikilink") - 監督作品「La paume〜ひよこと百円君」の音楽を担当
+  - [とよた真帆](../Page/とよた真帆.md "wikilink") - 監督作品「La paume〜ひよこと百円君」の音楽を担当
   - [小原礼](../Page/小原礼.md "wikilink") - アルバム『THE BASS & GROOVE』、高橋"Jr."知治のソロ「Texahoma Drive」をプロデュース
-  - [三宅伸治](https://ja.wikipedia.org/wiki/三宅伸治 "wikilink") - 三宅率いる、ザ・ハリケーン、三宅伸治BANDなどにベーシストとして参加。
-  - [阿部義晴](https://ja.wikipedia.org/wiki/阿部義晴 "wikilink") - 阿部率いる、阿部義晴☆ポルチーニにベーシストとして参加。
+  - [三宅伸治](../Page/三宅伸治.md "wikilink") - 三宅率いる、ザ・ハリケーン、三宅伸治BANDなどにベーシストとして参加。
+  - [阿部義晴](../Page/阿部義晴.md "wikilink") - 阿部率いる、阿部義晴☆ポルチーニにベーシストとして参加。
   - [ichiro](https://ja.wikipedia.org/wiki/ichiro "wikilink") - GIBIER du MARIのメンバー。
-  - [中村あゆみ](https://ja.wikipedia.org/wiki/中村あゆみ "wikilink") - 「I'm NUDE」 作詞：飯塚麻純/作曲：西田昌史/編曲：高橋"Jr"知治
-  - [鮫島秀樹](https://ja.wikipedia.org/wiki/鮫島秀樹 "wikilink")
-  - [日野"JINO"賢二](https://ja.wikipedia.org/wiki/日野賢二 "wikilink")
+  - [中村あゆみ](../Page/中村あゆみ.md "wikilink") - 「I'm NUDE」 作詞：飯塚麻純/作曲：西田昌史/編曲：高橋"Jr"知治
+  - [鮫島秀樹](../Page/鮫島秀樹.md "wikilink")
+  - [日野"JINO"賢二](../Page/日野賢二.md "wikilink")
   - [KenKen](../Page/KenKen.md "wikilink")
-  - [TOKIE](https://ja.wikipedia.org/wiki/TOKIE "wikilink")
+  - [TOKIE](../Page/TOKIE.md "wikilink")
   - [今沢カゲロウ](../Page/今沢カゲロウ.md "wikilink")
   - [高橋是清](../Page/高橋是清.md "wikilink")
   - [Sandii](https://ja.wikipedia.org/wiki/Sandii "wikilink")

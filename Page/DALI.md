@@ -1,11 +1,11 @@
 > この記事は[DALI](https://ja.wikipedia.org/wiki/DALI)から翻訳されています。
 
 
-『**DALI**』（ダリ）は、[ALI PROJECT](https://ja.wikipedia.org/wiki/ALI_PROJECT "wikilink") の2枚目の[オリジナルアルバムである](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。[1994年](../Page/1994年.md "wikilink")[2月16日](../Page/2月16日.md "wikilink")に[東芝EMIから発売された](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")。
+『**DALI**』（ダリ）は、[ALI PROJECT](https://ja.wikipedia.org/wiki/ALI_PROJECT "wikilink") の2枚目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。[1994年](../Page/1994年.md "wikilink")[2月16日](../Page/2月16日.md "wikilink")に[東芝EMIから発売された](../Page/EMIミュージック・ジャパン.md "wikilink")。
 
 ## 概要
 
-前作『[月下の一群](../Page/月下の一群_\(ALI_PROJECTのアルバム\).md "wikilink")』から2年後のリリースとなった。自身の[レーベル](../Page/レコードレーベル.md "wikilink") ZAZOU Records からの再発もされたが、[2007年](../Page/2007年.md "wikilink")に販売を終了。[2009年](../Page/2009年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink")に[東芝EMIから](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")[月下の一群](../Page/月下の一群_\(ALI_PROJECTのアルバム\).md "wikilink")、[星と月のソナタ](https://ja.wikipedia.org/wiki/星と月のソナタ "wikilink")と同時に[デジタル・リマスタリング](https://ja.wikipedia.org/wiki/デジタル・リマスタリング "wikilink")を施し再発された。[東芝EMI版とZAZOU](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink") Records版では帯の色など微妙に異なる仕様となっている。
+前作『[月下の一群](../Page/月下の一群_\(ALI_PROJECTのアルバム\).md "wikilink")』から2年後のリリースとなった。自身の[レーベル](../Page/レコードレーベル.md "wikilink") ZAZOU Records からの再発もされたが、[2007年](../Page/2007年.md "wikilink")に販売を終了。[2009年](../Page/2009年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink")に[東芝EMIから](../Page/EMIミュージック・ジャパン.md "wikilink")[月下の一群](../Page/月下の一群_\(ALI_PROJECTのアルバム\).md "wikilink")、[星と月のソナタ](../Page/星と月のソナタ.md "wikilink")と同時に[デジタル・リマスタリング](https://ja.wikipedia.org/wiki/デジタル・リマスタリング "wikilink")を施し再発された。[東芝EMI版とZAZOU](../Page/EMIミュージック・ジャパン.md "wikilink") Records版では帯の色など微妙に異なる仕様となっている。
 
 ## 収録曲
 

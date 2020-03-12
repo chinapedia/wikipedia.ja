@@ -1,25 +1,25 @@
 > この記事は[Microsoft Silverlight](https://ja.wikipedia.org/wiki/Microsoft_Silverlight)から翻訳されています。
 
 
-**Microsoft Silverlight**（マイクロソフト・シルバーライト）は、[マイクロソフト](../Page/マイクロソフト.md "wikilink")が開発した[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")用の[プラグイン](../Page/プラグイン.md "wikilink")。[HTML5](https://ja.wikipedia.org/wiki/HTML5 "wikilink")への移行により2021年10月12日でサポートが終了する\[1\]。
+**Microsoft Silverlight**（マイクロソフト・シルバーライト）は、[マイクロソフト](../Page/マイクロソフト.md "wikilink")が開発した[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")用の[プラグイン](../Page/プラグイン.md "wikilink")。[HTML5](../Page/HTML5.md "wikilink")への移行により2021年10月12日でサポートが終了する\[1\]。
 
 ## 概要
 
-Silverlightは当初WPF/E（Windows Presentation Foundation / Everywhere）と呼ばれていたアニメーション・[ベクターグラフィックス](https://ja.wikipedia.org/wiki/ベクターグラフィックス "wikilink")の表示や音声・動画再生などの機能を備える、いわゆる[リッチインターネットアプリケーション](https://ja.wikipedia.org/wiki/リッチインターネットアプリケーション "wikilink")（RIA）プラットフォームで、[Windows Presentation Foundationのサブセットの技術として発表された](../Page/Windows_Presentation_Foundation.md "wikilink")。
+Silverlightは当初WPF/E（Windows Presentation Foundation / Everywhere）と呼ばれていたアニメーション・[ベクターグラフィックス](https://ja.wikipedia.org/wiki/ベクターグラフィックス "wikilink")の表示や音声・動画再生などの機能を備える、いわゆる[リッチインターネットアプリケーション](../Page/リッチインターネットアプリケーション.md "wikilink")（RIA）プラットフォームで、[Windows Presentation Foundationのサブセットの技術として発表された](../Page/Windows_Presentation_Foundation.md "wikilink")。
 
-RIAプラットフォームとしての特長はWindows Presentation Foundationのサブセットとして位置づけられているように、開発環境や開発スキルに[.NET Frameworkを生かせるところにある](https://ja.wikipedia.org/wiki/.NET_Framework "wikilink")。WPFと同様にユーザー インターフェイスは[XAMLで定義し](../Page/Extensible_Application_Markup_Language.md "wikilink")、ロジックは[Visual Basic .NET](https://ja.wikipedia.org/wiki/Visual_Basic_.NET "wikilink")、[C\#のほか](../Page/C_Sharp.md "wikilink")、[JScript .NET](https://ja.wikipedia.org/wiki/JScript_.NET "wikilink")、[IronRuby](https://ja.wikipedia.org/wiki/IronRuby "wikilink")、[IronPython](https://ja.wikipedia.org/wiki/IronPython "wikilink")などの[動的プログラミング言語](https://ja.wikipedia.org/wiki/動的プログラミング言語 "wikilink")など、各種 .NET Framework上で動く言語に対応する。
+RIAプラットフォームとしての特長はWindows Presentation Foundationのサブセットとして位置づけられているように、開発環境や開発スキルに[.NET Frameworkを生かせるところにある](https://ja.wikipedia.org/wiki/.NET_Framework "wikilink")。WPFと同様にユーザー インターフェイスは[XAMLで定義し](../Page/Extensible_Application_Markup_Language.md "wikilink")、ロジックは[Visual Basic .NET](../Page/Visual_Basic_.NET.md "wikilink")、[C\#のほか](../Page/C_Sharp.md "wikilink")、[JScript .NET](https://ja.wikipedia.org/wiki/JScript_.NET "wikilink")、[IronRuby](../Page/IronRuby.md "wikilink")、[IronPython](../Page/IronPython.md "wikilink")などの[動的プログラミング言語](../Page/動的プログラミング言語.md "wikilink")など、各種 .NET Framework上で動く言語に対応する。
 
-ウェブブラウザは[Internet Explorerでは現在も利用可能だが](../Page/Internet_Explorer.md "wikilink")、[Microsoft Edge](https://ja.wikipedia.org/wiki/Microsoft_Edge "wikilink")\[2\]\[3\]、[Google Chrome](https://ja.wikipedia.org/wiki/Google_Chrome "wikilink") 45以降\[4\]\[5\]\[6\]、[Firefox](../Page/Mozilla_Firefox.md "wikilink") 52以降\[7\]\[8\]\[9\]\[10\]、[Opera](https://ja.wikipedia.org/wiki/Opera "wikilink") 20以降\[11\]、及び[Linux](https://ja.wikipedia.org/wiki/Linux "wikilink")や[Android](https://ja.wikipedia.org/wiki/Android "wikilink")や[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")上の主要ブラウザ等では利用不可能となっている。
+ウェブブラウザは[Internet Explorerでは現在も利用可能だが](../Page/Internet_Explorer.md "wikilink")、[Microsoft Edge](https://ja.wikipedia.org/wiki/Microsoft_Edge "wikilink")\[2\]\[3\]、[Google Chrome](https://ja.wikipedia.org/wiki/Google_Chrome "wikilink") 45以降\[4\]\[5\]\[6\]、[Firefox](../Page/Mozilla_Firefox.md "wikilink") 52以降\[7\]\[8\]\[9\]\[10\]、[Opera](https://ja.wikipedia.org/wiki/Opera "wikilink") 20以降\[11\]、及び[Linux](../Page/Linux.md "wikilink")や[Android](../Page/Android.md "wikilink")や[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")上の主要ブラウザ等では利用不可能となっている。
 
-[Windows Phone 7のアプリケーション開発フレームワークとして採用されていた](https://ja.wikipedia.org/wiki/Windows_Phone_7 "wikilink")。Silverlight 5からは[Xbox 360にも対応させるという話もあったが](https://ja.wikipedia.org/wiki/Xbox_360 "wikilink")\[12\]、結局対応させなかった\[13\]。
+[Windows Phone 7のアプリケーション開発フレームワークとして採用されていた](https://ja.wikipedia.org/wiki/Windows_Phone_7 "wikilink")。Silverlight 5からは[Xbox 360にも対応させるという話もあったが](../Page/Xbox_360.md "wikilink")\[12\]、結局対応させなかった\[13\]。
 
-Silverlightでは、動画再生で利点が多い。たとえば、広く利用されている[Windows Media Video形式や](https://ja.wikipedia.org/wiki/Windows_Media_Video "wikilink")[H.264](https://ja.wikipedia.org/wiki/H.264 "wikilink")形式の動画ファイルを扱える点、IIS 7の拡張機能であるSmoothStreamingを利用して、テレビに近い感覚で動画をザッピングできる点（視聴者の再生環境の帯域と CPU の負荷状況に応じて、適切なビットレートの動画ファイルが配信される）、[PlayReady](https://ja.wikipedia.org/wiki/PlayReady "wikilink")と呼ばれる同社の [DRM](https://ja.wikipedia.org/wiki/デジタル著作権管理 "wikilink") 技術を採用している点などがあげられる。[PlayReady](https://ja.wikipedia.org/wiki/PlayReady "wikilink")は既存のWMDRMとも互換性があるので、WMDRMで暗号化されている動画ファイルは再エンコードや再暗号化をすることなく、Silverlightで再生することができる。
+Silverlightでは、動画再生で利点が多い。たとえば、広く利用されている[Windows Media Video形式や](../Page/Windows_Media_Video.md "wikilink")[H.264](../Page/H.264.md "wikilink")形式の動画ファイルを扱える点、IIS 7の拡張機能であるSmoothStreamingを利用して、テレビに近い感覚で動画をザッピングできる点（視聴者の再生環境の帯域と CPU の負荷状況に応じて、適切なビットレートの動画ファイルが配信される）、[PlayReady](https://ja.wikipedia.org/wiki/PlayReady "wikilink")と呼ばれる同社の [DRM](../Page/デジタル著作権管理.md "wikilink") 技術を採用している点などがあげられる。[PlayReady](https://ja.wikipedia.org/wiki/PlayReady "wikilink")は既存のWMDRMとも互換性があるので、WMDRMで暗号化されている動画ファイルは再エンコードや再暗号化をすることなく、Silverlightで再生することができる。
 
 ## バージョン
 
 ### Silverlight 1
 
-Silverlight 1.0は[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[9月6日](../Page/9月6日.md "wikilink")に公開された\[14\]。JavaScriptを利用したプログラムのみに対応していた。Silverlight 1.1では[共通言語ランタイム](../Page/共通言語ランタイム.md "wikilink")（CLR）や[動的言語ランタイム](https://ja.wikipedia.org/wiki/動的言語ランタイム "wikilink")（DLR）を利用したプログラミングに対応し、JavaScriptだけでなく.NETや動的言語によってアプリケーションを開発に対応する予定であったが、Silverlight 1.1はアルファ版までの公開にとどまった。
+Silverlight 1.0は[2007年](../Page/2007年.md "wikilink")[9月6日](../Page/9月6日.md "wikilink")に公開された\[14\]。JavaScriptを利用したプログラムのみに対応していた。Silverlight 1.1では[共通言語ランタイム](../Page/共通言語ランタイム.md "wikilink")（CLR）や[動的言語ランタイム](../Page/動的言語ランタイム.md "wikilink")（DLR）を利用したプログラミングに対応し、JavaScriptだけでなく.NETや動的言語によってアプリケーションを開発に対応する予定であったが、Silverlight 1.1はアルファ版までの公開にとどまった。
 
 ### Silverlight 2
 
@@ -31,7 +31,7 @@ Silverlight 3は[2009年](../Page/2009年.md "wikilink")[7月11日](../Page/7月
 
 ### Silverlight 4
 
-Silverlight 4は[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月16日](https://ja.wikipedia.org/wiki/4月16日 "wikilink")に公開された\[17\]。PDC09でSilverlight 4が発表され、同日からベータ版の提供が開始された。MIX10でRC版が発表された。Silverlight 4の主な新機能は、Webカメラ、マイクのサポート、オフラインのDRM対応、マルチキャストストリーム、コピー・アンド・ペースト、ドラッグ・アンド・ドロップ、マウスホイール、右クリック、印刷のサポートなど。さらに、ブラウザー外実行と呼ばれる機能が拡張されており、使用者権限の昇格モード（信頼されたアプリケーション）を備えることによって、ローカルファイルへのアクセスやアプリケーション内でのHTMLレンダリング、COMオートメーションなどがサポートされる。
+Silverlight 4は[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月16日](../Page/4月16日.md "wikilink")に公開された\[17\]。PDC09でSilverlight 4が発表され、同日からベータ版の提供が開始された。MIX10でRC版が発表された。Silverlight 4の主な新機能は、Webカメラ、マイクのサポート、オフラインのDRM対応、マルチキャストストリーム、コピー・アンド・ペースト、ドラッグ・アンド・ドロップ、マウスホイール、右クリック、印刷のサポートなど。さらに、ブラウザー外実行と呼ばれる機能が拡張されており、使用者権限の昇格モード（信頼されたアプリケーション）を備えることによって、ローカルファイルへのアクセスやアプリケーション内でのHTMLレンダリング、COMオートメーションなどがサポートされる。
 
 ### Silverlight 5
 
@@ -67,7 +67,7 @@ RIAStats.comの調査では、2011年3月2日時点における日本のSilverli
 
 ## Moonlight
 
-Moonlightは[.NET Frameworkのオープンソース実装である](https://ja.wikipedia.org/wiki/.NET_Framework "wikilink")[Monoの開発プロジェクト主導により開発が行われているMicrosoft](https://ja.wikipedia.org/wiki/Mono_\(ソフトウェア\) "wikilink") Silverlightの[オープンソース](../Page/オープンソース.md "wikilink")実装である。MoonlightはSilverlight 2に基づいている。ただし、Monoプロジェクトはオープンソースであるため、Moonlight単体でDRM保護コンテンツがサポートされる見込みはない。DRM対応プレイヤーをオープンソースで実装することはDRMの技術的意義に馴染まないからである\[23\]。
+Moonlightは[.NET Frameworkのオープンソース実装である](https://ja.wikipedia.org/wiki/.NET_Framework "wikilink")[Monoの開発プロジェクト主導により開発が行われているMicrosoft](../Page/Mono_\(ソフトウェア\).md "wikilink") Silverlightの[オープンソース](../Page/オープンソース.md "wikilink")実装である。MoonlightはSilverlight 2に基づいている。ただし、Monoプロジェクトはオープンソースであるため、Moonlight単体でDRM保護コンテンツがサポートされる見込みはない。DRM対応プレイヤーをオープンソースで実装することはDRMの技術的意義に馴染まないからである\[23\]。
 
 ## 藍澤光
 

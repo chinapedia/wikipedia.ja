@@ -7,18 +7,18 @@
 
 [脱サラ](https://ja.wikipedia.org/wiki/脱サラ "wikilink")して[ボーカリスト](https://ja.wikipedia.org/wiki/ボーカリスト "wikilink")になったという上柿方人を中心に結成、[スカ](../Page/スカ.md "wikilink")や[ワールドミュージック](../Page/ワールドミュージック.md "wikilink")風などの、骨っぽい感のある音楽を展開。
 
-[1989年](../Page/1989年.md "wikilink")[9月16日](../Page/9月16日.md "wikilink")放送の『[三宅裕司のいかすバンド天国](https://ja.wikipedia.org/wiki/三宅裕司のいかすバンド天国 "wikilink")』（イカ天、[TBSテレビ](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")）に出場、「**旅でスカ**」を演奏。ベストボーカル賞、在宅審査員賞受賞と共にチャレンジャーにも選ばれるが、当時のイカ天キング・[BEGINに](https://ja.wikipedia.org/wiki/BEGIN_\(バンド\) "wikilink")2対5で敗れる。
+[1989年](../Page/1989年.md "wikilink")[9月16日](../Page/9月16日.md "wikilink")放送の『[三宅裕司のいかすバンド天国](../Page/三宅裕司のいかすバンド天国.md "wikilink")』（イカ天、[TBSテレビ](../Page/TBSテレビ.md "wikilink")）に出場、「**旅でスカ**」を演奏。ベストボーカル賞、在宅審査員賞受賞と共にチャレンジャーにも選ばれるが、当時のイカ天キング・[BEGINに](../Page/BEGIN_\(バンド\).md "wikilink")2対5で敗れる。
 
-その後、同じイカ天出身の[NORMA JEANと一緒の全国ツアーも行う](../Page/NORMA_JEAN_\(日本\).md "wikilink")。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink")の『輝く\!日本イカ天大賞』にも出場し、ベストスピリッツ賞を受賞。その音楽性の高さが買われ、同年[7月4日](../Page/7月4日.md "wikilink")、シングル『旅でスカ』を[BMGビクターからリリースしメジャーデビュー](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。
+その後、同じイカ天出身の[NORMA JEANと一緒の全国ツアーも行う](../Page/NORMA_JEAN_\(日本\).md "wikilink")。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[1月1日](../Page/1月1日.md "wikilink")の『輝く\!日本イカ天大賞』にも出場し、ベストスピリッツ賞を受賞。その音楽性の高さが買われ、同年[7月4日](../Page/7月4日.md "wikilink")、シングル『旅でスカ』を[BMGビクターからリリースしメジャーデビュー](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。
 
-この他、『[FM ROCK KIDS](../Page/FM_ROCK_KIDS.md "wikilink")』（[FM北海道](../Page/エフエム北海道.md "wikilink")）の[土曜日](../Page/土曜日.md "wikilink")で月一回出演のパーソナリティも務めていた。その後、[1993年](../Page/1993年.md "wikilink")から[1994年](../Page/1994年.md "wikilink")頃に活動を停止したものと思われる。ベースの棗田、ドラムの加藤はその後[ザ・コブラツイスターズ](https://ja.wikipedia.org/wiki/ザ・コブラツイスターズ "wikilink")で活動していた。
+この他、『[FM ROCK KIDS](../Page/FM_ROCK_KIDS.md "wikilink")』（[FM北海道](../Page/エフエム北海道.md "wikilink")）の[土曜日](../Page/土曜日.md "wikilink")で月一回出演のパーソナリティも務めていた。その後、[1993年](../Page/1993年.md "wikilink")から[1994年](../Page/1994年.md "wikilink")頃に活動を停止したものと思われる。ベースの棗田、ドラムの加藤はその後[ザ・コブラツイスターズ](../Page/ザ・コブラツイスターズ.md "wikilink")で活動していた。
 
 ## メンバー
 
   - 上柿方人 （[ボーカル](https://ja.wikipedia.org/wiki/ボーカリスト "wikilink")、[ギター](../Page/ギタリスト.md "wikilink")）
   - 宮崎見真 （ギター）
   - 棗田泰之 （[ベース](../Page/ベーシスト.md "wikilink")）
-  - 加藤一郎 （[ドラム](https://ja.wikipedia.org/wiki/ドラマー "wikilink")）
+  - 加藤一郎 （[ドラム](../Page/ドラマー.md "wikilink")）
 
 ## ディスコグラフィー
 
@@ -52,7 +52,7 @@
 
 ## 関連項目
 
-  - [三宅裕司のいかすバンド天国](https://ja.wikipedia.org/wiki/三宅裕司のいかすバンド天国 "wikilink")
-  - [三宅裕司のいかすバンド天国に出場したバンド](https://ja.wikipedia.org/wiki/三宅裕司のいかすバンド天国に出場したバンド "wikilink")
+  - [三宅裕司のいかすバンド天国](../Page/三宅裕司のいかすバンド天国.md "wikilink")
+  - [三宅裕司のいかすバンド天国に出場したバンド](../Page/三宅裕司のいかすバンド天国に出場したバンド.md "wikilink")
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:スカ](https://ja.wikipedia.org/wiki/Category:スカ "wikilink") [Category:イカ天出身のバンド](https://ja.wikipedia.org/wiki/Category:イカ天出身のバンド "wikilink")

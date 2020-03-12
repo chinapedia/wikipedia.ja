@@ -1,11 +1,11 @@
 > この記事は[PERIOD \(\)](https://ja.wikipedia.org/wiki/PERIOD_\(\))から翻訳されています。
 
 
-「**PERIOD**」（ピリオド）は、[キリト](https://ja.wikipedia.org/wiki/キリト "wikilink")の4枚目のシングル。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月20日](../Page/9月20日.md "wikilink")発売。発売元は[avex](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。
+「**PERIOD**」（ピリオド）は、[キリト](../Page/キリト.md "wikilink")の4枚目のシングル。[2006年](../Page/2006年.md "wikilink")[9月20日](../Page/9月20日.md "wikilink")発売。発売元は[avex](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。
 
 ## 解説
 
-  - [藤原いくろう](https://ja.wikipedia.org/wiki/藤原いくろう "wikilink")とキリトによるシンフォニックコンサート（東京ニューシティー管弦楽団演奏）のメモリアルシングル。
+  - [藤原いくろう](../Page/藤原いくろう.md "wikilink")とキリトによるシンフォニックコンサート（東京ニューシティー管弦楽団演奏）のメモリアルシングル。
   - カップリングは、アルバム『[Hameln](../Page/Hameln_\(アルバム\).md "wikilink")』収録曲、「EXIT」のシンフォニックバージョン。
   - 初回デジパック仕様。
 

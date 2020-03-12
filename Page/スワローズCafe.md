@@ -1,7 +1,7 @@
 > この記事は[Cafe](https://ja.wikipedia.org/wiki/Cafe)から翻訳されています。
 
 
-『**スワローズCafe**』（スワローズカフェ）は、[フジテレビで](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月23日](../Page/3月23日.md "wikilink")まで放送されていた[関東ローカル](https://ja.wikipedia.org/wiki/関東ローカル "wikilink")の[ミニ番組](https://ja.wikipedia.org/wiki/ミニ番組 "wikilink")である。[ヤクルトの](../Page/ヤクルト本社.md "wikilink")[一社提供](https://ja.wikipedia.org/wiki/一社提供 "wikilink")。
+『**スワローズCafe**』（スワローズカフェ）は、[フジテレビで](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[2007年](../Page/2007年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月23日](../Page/3月23日.md "wikilink")まで放送されていた[関東ローカル](../Page/関東ローカル.md "wikilink")の[ミニ番組](../Page/ミニ番組.md "wikilink")である。[ヤクルトの](../Page/ヤクルト本社.md "wikilink")[一社提供](../Page/一社提供.md "wikilink")。
 
 ## 概要
 
@@ -25,9 +25,9 @@
 ## 関連項目
 
   - [東京ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")
-  - [ミニ番組](https://ja.wikipedia.org/wiki/ミニ番組 "wikilink")
+  - [ミニ番組](../Page/ミニ番組.md "wikilink")
   - [野球道 (フジテレビ系列)](../Page/野球道_\(フジテレビ系列\).md "wikilink")
-  - [SWALLOWS BASEBALL L\!VE](https://ja.wikipedia.org/wiki/SWALLOWS_BASEBALL_L!VE "wikilink")（CSフジテレビONE）
+  - [SWALLOWS BASEBALL L\!VE](../Page/SWALLOWS_BASEBALL_L!VE.md "wikilink")（CSフジテレビONE）
   - [スワローズTV\!](https://ja.wikipedia.org/wiki/スワローズTV! "wikilink")（CSフジテレビONE）
 
 ## 外部リンク

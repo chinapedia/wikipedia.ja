@@ -7,7 +7,7 @@
 
 2007年4月に語学留学から帰国した[赤西仁](https://ja.wikipedia.org/wiki/赤西仁 "wikilink")の復帰第一弾シングル。既に5人でレコーディングされていたが、赤西が帰国した事により改めてレコーディングを行ったものを収録し、発売した。収録曲・ジャケットデザインともに、初回限定盤と通常盤で異なる。初回限定盤には[DVD](../Page/DVD.md "wikilink")が同梱される。
 
-本作でデビューシングル『[Real Face](https://ja.wikipedia.org/wiki/Real_Face "wikilink")』以来、4作連続で[オリコンシングルチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位を獲得。4作連続で初動売上30万枚越えは、[KinKi Kids以来の記録である](../Page/KinKi_Kids.md "wikilink")\[1\]。
+本作でデビューシングル『[Real Face](../Page/Real_Face.md "wikilink")』以来、4作連続で[オリコンシングルチャート](../Page/オリコンチャート.md "wikilink")1位を獲得。4作連続で初動売上30万枚越えは、[KinKi Kids以来の記録である](../Page/KinKi_Kids.md "wikilink")\[1\]。
 
 作曲としてクレジットされているzero-rockは、ex.Fish\&Chipsのmaru。　maruのソロアルバム「唄者-ウタモノ-」には、『　「喜びの歌」　』としてオリジナルバージョンが収録されている。
 
@@ -19,12 +19,12 @@
 
 1.  **喜びの歌**
       -
-        作詞：N.B.Comics、Rap詞：[JOKER](https://ja.wikipedia.org/wiki/田中聖 "wikilink")、作曲：zero-rock、編曲：Gin.K
+        作詞：N.B.Comics、Rap詞：[JOKER](../Page/田中聖.md "wikilink")、作曲：zero-rock、編曲：Gin.K
     <!-- end list -->
-      - [田中聖](https://ja.wikipedia.org/wiki/田中聖 "wikilink")主演 [TBS系ドラマ](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")『[特急田中3号](../Page/特急田中3号.md "wikilink")』主題歌
+      - [田中聖](../Page/田中聖.md "wikilink")主演 [TBS系ドラマ](../Page/TBSテレビ.md "wikilink")『[特急田中3号](../Page/特急田中3号.md "wikilink")』主題歌
     <!-- end list -->
       -
-        田中が作詞したラップ詞の一部に、これまで発売したシングル『[Real Face](https://ja.wikipedia.org/wiki/Real_Face "wikilink")』『[SIGNAL](https://ja.wikipedia.org/wiki/SIGNAL_\(KAT-TUNの曲\) "wikilink")』『[僕らの街で](https://ja.wikipedia.org/wiki/僕らの街で "wikilink")』のタイトルが出てくる。
+        田中が作詞したラップ詞の一部に、これまで発売したシングル『[Real Face](../Page/Real_Face.md "wikilink")』『[SIGNAL](../Page/SIGNAL_\(KAT-TUNの曲\).md "wikilink")』『[僕らの街で](../Page/僕らの街で.md "wikilink")』のタイトルが出てくる。
         当初『特急田中3号』では5人でレコーディングしたものを使用していたが、前述の再レコーディングに伴い、第3話よりCDに収録されているものに差し替えられた。
 2.  **Your side**
       -

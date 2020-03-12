@@ -1,7 +1,7 @@
 > この記事は[RON](https://ja.wikipedia.org/wiki/RON)から翻訳されています。
 
 
-**R・O・N**（ロン、[1982年](../Page/1982年.md "wikilink")[2月19日](../Page/2月19日.md "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性[作詞家](../Page/作詞家.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")、[編曲家](../Page/編曲家.md "wikilink")、[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")。本名は飯田 龍太（いいだ りゅうた）。[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身。R・O・Nのサウンドメイキングプロジェクト[STEREO DIVE FOUNDATIONとしても活動中](https://ja.wikipedia.org/wiki/STEREO_DIVE_FOUNDATION "wikilink")。[ROSARYHILL](https://ja.wikipedia.org/wiki/ROSARYHILL "wikilink")、[(K)NoW_NAME](https://ja.wikipedia.org/wiki/\(K\)NoW_NAME "wikilink")のメンバー。[OLDCODEX](https://ja.wikipedia.org/wiki/OLDCODEX "wikilink")の元メンバー。所属[芸能事務所](../Page/芸能事務所.md "wikilink")はベリーグー。
+**R・O・N**（ロン、[1982年](../Page/1982年.md "wikilink")[2月19日](../Page/2月19日.md "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性[作詞家](../Page/作詞家.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")、[編曲家](../Page/編曲家.md "wikilink")、[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")。本名は飯田 龍太（いいだ りゅうた）。[東京都](../Page/東京都.md "wikilink")出身。R・O・Nのサウンドメイキングプロジェクト[STEREO DIVE FOUNDATIONとしても活動中](https://ja.wikipedia.org/wiki/STEREO_DIVE_FOUNDATION "wikilink")。[ROSARYHILL](https://ja.wikipedia.org/wiki/ROSARYHILL "wikilink")、[(K)NoW_NAME](https://ja.wikipedia.org/wiki/\(K\)NoW_NAME "wikilink")のメンバー。[OLDCODEX](https://ja.wikipedia.org/wiki/OLDCODEX "wikilink")の元メンバー。所属[芸能事務所](../Page/芸能事務所.md "wikilink")はベリーグー。
 
 ## 概要
 
@@ -32,10 +32,10 @@ STEREO DIVE FOUNDATION
 
 ### オリジナルアルバム
 
-|     | 発売日                                                                                         | タイトル                                                                           | 規格 | 規格品番      | オリコン |
-| --- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | -- | --------- | ---- |
-| 1st | [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[1月25日](../Page/1月25日.md "wikilink") | **[promise](https://ja.wikipedia.org/wiki/promise_\(R・O・Nのアルバム\) "wikilink")** | CD | LHCA-5029 | 圏外   |
-|     |                                                                                             |                                                                                |    |           |      |
+|     | 発売日                                                                      | タイトル                                                                           | 規格 | 規格品番      | オリコン |
+| --- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------ | -- | --------- | ---- |
+| 1st | [2006年](../Page/2006年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink") | **[promise](https://ja.wikipedia.org/wiki/promise_\(R・O・Nのアルバム\) "wikilink")** | CD | LHCA-5029 | 圏外   |
+|     |                                                                          |                                                                                |    |           |      |
 
 R・O・N
 
@@ -48,53 +48,53 @@ STEREO DIVE FOUNDATION
 
 ## タイアップ一覧
 
-| 年\[3\] | 楽曲       | タイアップ先                                                                                                                                                                                                                                                                                                          |
-| ------ | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2013年  | Daisy    | [TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")・[朝日放送テレビ](../Page/朝日放送テレビ.md "wikilink")・[テレビ愛知](../Page/テレビ愛知.md "wikilink")系[アニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[境界の彼方](https://ja.wikipedia.org/wiki/境界の彼方#テレビアニメ "wikilink")』[エンディングテーマ](https://ja.wikipedia.org/wiki/主題歌 "wikilink") |
-| 2014年  | AXIS     | [テレビ東京系列アニメ](../Page/TXNネットワーク.md "wikilink")『[ノブナガ・ザ・フール](https://ja.wikipedia.org/wiki/ノブナガ・ザ・フール#テレビアニメ "wikilink")』第1期エンディングテーマ                                                                                                                                                                             |
-| 2015年  | Renegade | 朝日放送テレビ・TOKYO MX・テレビ愛知系アニメ『[GANGSTA.](https://ja.wikipedia.org/wiki/GANGSTA.#テレビアニメ "wikilink")』オープニングテーマ                                                                                                                                                                                                       |
-| 2016年  | Genesis  | [独立放送局](../Page/独立放送局.md "wikilink")・テレビ愛知系アニメ『[Dimension W](https://ja.wikipedia.org/wiki/Dimension_W#テレビアニメ "wikilink")』オープニングテーマ                                                                                                                                                                             |
-| 2019年  | Chronos  | [『食戟のソーマ 神ノ皿』オープニングテーマ](https://ja.wikipedia.org/wiki/食戟のソーマ_\(アニメ\) "wikilink")                                                                                                                                                                                                                                |
-|        |          |                                                                                                                                                                                                                                                                                                                 |
+| 年\[3\] | 楽曲       | タイアップ先                                                                                                                                                                                                                                                                                       |
+| ------ | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2013年  | Daisy    | [TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")・[朝日放送テレビ](../Page/朝日放送テレビ.md "wikilink")・[テレビ愛知](../Page/テレビ愛知.md "wikilink")系[アニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[境界の彼方](https://ja.wikipedia.org/wiki/境界の彼方#テレビアニメ "wikilink")』[エンディングテーマ](../Page/主題歌.md "wikilink") |
+| 2014年  | AXIS     | [テレビ東京系列アニメ](../Page/TXNネットワーク.md "wikilink")『[ノブナガ・ザ・フール](https://ja.wikipedia.org/wiki/ノブナガ・ザ・フール#テレビアニメ "wikilink")』第1期エンディングテーマ                                                                                                                                                          |
+| 2015年  | Renegade | 朝日放送テレビ・TOKYO MX・テレビ愛知系アニメ『[GANGSTA.](https://ja.wikipedia.org/wiki/GANGSTA.#テレビアニメ "wikilink")』オープニングテーマ                                                                                                                                                                                    |
+| 2016年  | Genesis  | [独立放送局](../Page/独立放送局.md "wikilink")・テレビ愛知系アニメ『[Dimension W](https://ja.wikipedia.org/wiki/Dimension_W#テレビアニメ "wikilink")』オープニングテーマ                                                                                                                                                          |
+| 2019年  | Chronos  | [『食戟のソーマ 神ノ皿』オープニングテーマ](https://ja.wikipedia.org/wiki/食戟のソーマ_\(アニメ\) "wikilink")                                                                                                                                                                                                             |
+|        |          |                                                                                                                                                                                                                                                                                              |
 
 STEREO DIVE FOUNDATION\[2\]
 
 ## 提供楽曲
 
   - [新谷良子](../Page/新谷良子.md "wikilink")
-      - [ピンクのバンビ](https://ja.wikipedia.org/wiki/ピンクのバンビ "wikilink")（作曲・編曲）
-      - [ワガママ date show](https://ja.wikipedia.org/wiki/ワガママ_date_show "wikilink")（作詞・作曲・編曲）
-      - [ランチBOX～初級編～](https://ja.wikipedia.org/wiki/ワガママ_date_show "wikilink")（編曲）
-      - [ランチBOX～中級編～](https://ja.wikipedia.org/wiki/あいのうただから "wikilink")（編曲）
-      - [ランチBOX～上級編～](https://ja.wikipedia.org/wiki/Ray_of_sunshine "wikilink")（編曲）
-      - [Trip into Tiny Peace\!](https://ja.wikipedia.org/wiki/ファンシー☆フリル "wikilink")（作詞・作曲・編曲）
-      - [ランチBOX](https://ja.wikipedia.org/wiki/ファンシー☆フリル "wikilink")（編曲）
-      - [誰がバンビに恋したか？ (Instrumental)](https://ja.wikipedia.org/wiki/ファンシー☆フリル "wikilink")（作曲・編曲）
-      - [Slow Down](https://ja.wikipedia.org/wiki/ファンシー☆フリル "wikilink")（編曲）
+      - [ピンクのバンビ](../Page/ピンクのバンビ.md "wikilink")（作曲・編曲）
+      - [ワガママ date show](../Page/ワガママ_date_show.md "wikilink")（作詞・作曲・編曲）
+      - [ランチBOX～初級編～](../Page/ワガママ_date_show.md "wikilink")（編曲）
+      - [ランチBOX～中級編～](../Page/あいのうただから.md "wikilink")（編曲）
+      - [ランチBOX～上級編～](../Page/Ray_of_sunshine.md "wikilink")（編曲）
+      - [Trip into Tiny Peace\!](../Page/ファンシー☆フリル.md "wikilink")（作詞・作曲・編曲）
+      - [ランチBOX](../Page/ファンシー☆フリル.md "wikilink")（編曲）
+      - [誰がバンビに恋したか？ (Instrumental)](../Page/ファンシー☆フリル.md "wikilink")（作曲・編曲）
+      - [Slow Down](../Page/ファンシー☆フリル.md "wikilink")（編曲）
       - [トリックスター](https://ja.wikipedia.org/wiki/恋の構造/トリックスター "wikilink")（作詞・作曲・編曲）
       - [Wonderstory](https://ja.wikipedia.org/wiki/Wonderstory/HAPPY_END "wikilink")（作詞・作曲）
       - [HAPPY END](https://ja.wikipedia.org/wiki/Wonderstory/HAPPY_END "wikilink")（編曲）
-      - [スィートサマー](https://ja.wikipedia.org/wiki/Pretty_Good! "wikilink")（作詞・作曲・編曲）
-      - [Close your eyes (Instrumental)](https://ja.wikipedia.org/wiki/Pretty_Good! "wikilink")（作曲・編曲）
-      - [Chained Diary](https://ja.wikipedia.org/wiki/Pretty_Good! "wikilink")（作詞・作曲・編曲）
-      - [Pretty Good\!](https://ja.wikipedia.org/wiki/Pretty_Good! "wikilink")（編曲）
-      - [Tomorrow (new)](https://ja.wikipedia.org/wiki/Pretty_Good! "wikilink")（作詞・作曲・編曲）
-      - [ラストソング](https://ja.wikipedia.org/wiki/Pretty_Good! "wikilink")（作詞・作曲）
+      - [スィートサマー](../Page/Pretty_Good!.md "wikilink")（作詞・作曲・編曲）
+      - [Close your eyes (Instrumental)](../Page/Pretty_Good!.md "wikilink")（作曲・編曲）
+      - [Chained Diary](../Page/Pretty_Good!.md "wikilink")（作詞・作曲・編曲）
+      - [Pretty Good\!](../Page/Pretty_Good!.md "wikilink")（編曲）
+      - [Tomorrow (new)](../Page/Pretty_Good!.md "wikilink")（作詞・作曲・編曲）
+      - [ラストソング](../Page/Pretty_Good!.md "wikilink")（作詞・作曲）
       - 迷い姫ぱにっく（作曲・編曲）
-      - [CANDY☆POP☆SWEET☆HEART](https://ja.wikipedia.org/wiki/CANDY☆POP☆SWEET☆HEART "wikilink")（作詞・作曲・編曲）
-      - [STEREOLOVE](https://ja.wikipedia.org/wiki/空にとける虹と君の声 "wikilink")（作詞・作曲・編曲）
-      - [Trickstar's next Trick](https://ja.wikipedia.org/wiki/空にとける虹と君の声 "wikilink")（作詞・作曲・編曲）
-      - [Pink Bambi Ragtime (Instrumental)](https://ja.wikipedia.org/wiki/空にとける虹と君の声 "wikilink")（作曲・編曲）
-      - [空にとける虹と君の声](https://ja.wikipedia.org/wiki/空にとける虹と君の声 "wikilink")（作詞・作曲・編曲）
-      - [Darebam March (Instrumental)](https://ja.wikipedia.org/wiki/The_Great_bambi_Pop_Swindle "wikilink")（作曲・編曲）
-      - [ロストシンフォニー](https://ja.wikipedia.org/wiki/ロストシンフォニー "wikilink")（作詞・作曲・編曲）
-      - [Parallel Paradise](https://ja.wikipedia.org/wiki/ロストシンフォニー "wikilink")（作詞・作曲・編曲）
-      - [Wonderful World](https://ja.wikipedia.org/wiki/Wonderful_World_\(新谷良子のアルバム\) "wikilink")（作詞・作曲・編曲）
-      - [Bandwagon](https://ja.wikipedia.org/wiki/Wonderful_World_\(新谷良子のアルバム\) "wikilink")（作詞）
-      - [チェックメイト](https://ja.wikipedia.org/wiki/Wonderful_World_\(新谷良子のアルバム\) "wikilink")（作詞・作曲・編曲）
-      - [sentido cervato (Instrumental)](https://ja.wikipedia.org/wiki/Wonderful_World_\(新谷良子のアルバム\) "wikilink")（作曲・編曲）（太田貴史との共作曲・編曲）
-      - [ハリケーンミキサー](https://ja.wikipedia.org/wiki/Wonderful_World_\(新谷良子のアルバム\) "wikilink")（作詞・作曲・編曲）
-      - [Be Free (as a shootingstar)](https://ja.wikipedia.org/wiki/Wonderful_World_\(新谷良子のアルバム\) "wikilink")（作詞・作曲・編曲）
+      - [CANDY☆POP☆SWEET☆HEART](../Page/CANDY☆POP☆SWEET☆HEART.md "wikilink")（作詞・作曲・編曲）
+      - [STEREOLOVE](../Page/空にとける虹と君の声.md "wikilink")（作詞・作曲・編曲）
+      - [Trickstar's next Trick](../Page/空にとける虹と君の声.md "wikilink")（作詞・作曲・編曲）
+      - [Pink Bambi Ragtime (Instrumental)](../Page/空にとける虹と君の声.md "wikilink")（作曲・編曲）
+      - [空にとける虹と君の声](../Page/空にとける虹と君の声.md "wikilink")（作詞・作曲・編曲）
+      - [Darebam March (Instrumental)](../Page/The_Great_bambi_Pop_Swindle.md "wikilink")（作曲・編曲）
+      - [ロストシンフォニー](../Page/ロストシンフォニー.md "wikilink")（作詞・作曲・編曲）
+      - [Parallel Paradise](../Page/ロストシンフォニー.md "wikilink")（作詞・作曲・編曲）
+      - [Wonderful World](../Page/Wonderful_World_\(新谷良子のアルバム\).md "wikilink")（作詞・作曲・編曲）
+      - [Bandwagon](../Page/Wonderful_World_\(新谷良子のアルバム\).md "wikilink")（作詞）
+      - [チェックメイト](../Page/Wonderful_World_\(新谷良子のアルバム\).md "wikilink")（作詞・作曲・編曲）
+      - [sentido cervato (Instrumental)](../Page/Wonderful_World_\(新谷良子のアルバム\).md "wikilink")（作曲・編曲）（太田貴史との共作曲・編曲）
+      - [ハリケーンミキサー](../Page/Wonderful_World_\(新谷良子のアルバム\).md "wikilink")（作詞・作曲・編曲）
+      - [Be Free (as a shootingstar)](../Page/Wonderful_World_\(新谷良子のアルバム\).md "wikilink")（作詞・作曲・編曲）
       - [crossing days](https://ja.wikipedia.org/wiki/crossingdays "wikilink")（作詞・作曲・編曲）
       - [手のひらの太陽](https://ja.wikipedia.org/wiki/crossingdays "wikilink")（作詞・作曲・編曲）
       - [月とオルゴール](https://ja.wikipedia.org/wiki/月とオルゴール "wikilink")（作詞・作曲・編曲）
@@ -121,7 +121,7 @@ STEREO DIVE FOUNDATION\[2\]
   - 新谷良子 with PBB
       - [S・I・B](https://ja.wikipedia.org/wiki/BANDScore "wikilink")（作詞・作曲・編曲）
       - [Bitter Love](https://ja.wikipedia.org/wiki/BANDScore "wikilink")（作詞・作曲・編曲）
-  - [鈴木達央](https://ja.wikipedia.org/wiki/鈴木達央 "wikilink")
+  - [鈴木達央](../Page/鈴木達央.md "wikilink")
       - Yasterdays（作詞・作曲・編曲）
       - VOICE（作詞・作曲・編曲）
       - myself（作詞・作曲・編曲）
@@ -138,7 +138,7 @@ STEREO DIVE FOUNDATION\[2\]
       - miss you always（作詞・作曲・編曲）
       - everlasting note（作詞・作曲・編曲）
       - highend days（作詞・作曲・編曲）
-  - [JAM Project](https://ja.wikipedia.org/wiki/JAM_Project "wikilink")
+  - [JAM Project](../Page/JAM_Project.md "wikilink")
       - [Three souls](https://ja.wikipedia.org/wiki/レスキューファイアー_\(曲\) "wikilink")（編曲）
       - Space Roller Coaster GO GO\!（編曲）
       - [BIG BANG EXPLOSION 〜Song for Ragnarok Party〜](https://ja.wikipedia.org/wiki/冒険王_〜Across_the_Legendary_kingdom〜 "wikilink")（編曲）
@@ -152,28 +152,28 @@ STEREO DIVE FOUNDATION\[2\]
       - A-ROCK～電脳Wars～（作曲・編曲）
       - ENTER THE HEROS（編曲）
       - 羽衣伝説 〜龍と天女の愛物語〜（作曲・編曲）
-  - [影山ヒロノブ](https://ja.wikipedia.org/wiki/影山ヒロノブ "wikilink")
+  - [影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink")
       - [ROCK JAPAN](https://ja.wikipedia.org/wiki/ROCK_JAPAN "wikilink")（編曲）
       - [C.C.R (Crazy Cyber Riders)](https://ja.wikipedia.org/wiki/ROCK_JAPAN "wikilink")（編曲）
       - [CROSS WORLD〜俺達のフロンティアスピリット〜](https://ja.wikipedia.org/wiki/ROCK_JAPAN "wikilink")（編曲）
-  - [遠藤正明](https://ja.wikipedia.org/wiki/遠藤正明 "wikilink")
+  - [遠藤正明](../Page/遠藤正明.md "wikilink")
       - "CIRCUS MAN"（作曲・編曲）
       - ROCK ME（作曲・編曲）
       - BRING IT ON\!（作曲・編曲）
       - 愛をとりもどせ\!\!（編曲）
       - 空色デイズ（編曲）
-  - [三重野瞳](https://ja.wikipedia.org/wiki/三重野瞳 "wikilink")
+  - [三重野瞳](../Page/三重野瞳.md "wikilink")
       - いたげる。（編曲）
-  - [美郷あき](https://ja.wikipedia.org/wiki/美郷あき "wikilink")
+  - [美郷あき](../Page/美郷あき.md "wikilink")
       - [Love Wind](https://ja.wikipedia.org/wiki/Scarlet_Bomb! "wikilink")（作詞・作曲・編曲）
       - once more again（作曲・編曲）
-  - [野川さくら](https://ja.wikipedia.org/wiki/野川さくら "wikilink")
+  - [野川さくら](../Page/野川さくら.md "wikilink")
       - HAPPY HARMONICS（作詞・作曲・編曲）
       - TWINKLE☆CHERRY PINK（作曲・編曲）
-  - [喜多村英梨](https://ja.wikipedia.org/wiki/喜多村英梨 "wikilink")
+  - [喜多村英梨](../Page/喜多村英梨.md "wikilink")
       - PIXY（作曲・編曲）
       - STARLET SEEKER（作詞・作曲・編曲）
-  - [浪川大輔](https://ja.wikipedia.org/wiki/浪川大輔 "wikilink")
+  - [浪川大輔](../Page/浪川大輔.md "wikilink")
       - [Alright\!\!](https://ja.wikipedia.org/wiki/I.D. "wikilink")（作曲・編曲）
       - [デリンジャー](https://ja.wikipedia.org/wiki/Recollection "wikilink")（編曲）
       - [Colorless sky](https://ja.wikipedia.org/wiki/Elements_\(浪川大輔のアルバム\) "wikilink")（作詞・作曲・編曲）
@@ -190,7 +190,7 @@ STEREO DIVE FOUNDATION\[2\]
   - [Coming Century](../Page/V6_\(グループ\).md "wikilink")
       - Precious Song（作詞・作曲・編曲）
       - 想いのカケラ（作詞・作曲）
-  - [PaniCrew](https://ja.wikipedia.org/wiki/PaniCrew "wikilink")
+  - [PaniCrew](../Page/PaniCrew.md "wikilink")
       - Good Luck（作詞・作曲・編曲）
   - [柿原徹也](https://ja.wikipedia.org/wiki/柿原徹也 "wikilink")
       - [adrenaline](https://ja.wikipedia.org/wiki/still_on_Journey "wikilink")（編曲）
@@ -201,7 +201,7 @@ STEREO DIVE FOUNDATION\[2\]
   - [緒方恵美](../Page/緒方恵美.md "wikilink")
       - [Eros](https://ja.wikipedia.org/wiki/Rebuild "wikilink")（作曲・編曲）
       - Hikari（編曲）
-  - [寺島拓篤](https://ja.wikipedia.org/wiki/寺島拓篤 "wikilink")
+  - [寺島拓篤](../Page/寺島拓篤.md "wikilink")
       - [HERO](https://ja.wikipedia.org/wiki/NEW_GAME "wikilink")（作曲・編曲）
       - existence（作曲・編曲）
       - サマータイマー（作曲・編曲）
@@ -210,7 +210,7 @@ STEREO DIVE FOUNDATION\[2\]
       - TOUCH（作詞・作曲・編曲）
       - ZERO（作詞・作曲・編曲）
       - Against The Wind（作詞）
-  - [Strawberry JAM](https://ja.wikipedia.org/wiki/Strawberry_JAM "wikilink")
+  - [Strawberry JAM](../Page/Strawberry_JAM.md "wikilink")
       - 約束の橋（編曲）
       - いっぽんでもニンジン（編曲）
       - 永遠の羽（編曲）
@@ -226,14 +226,14 @@ STEREO DIVE FOUNDATION\[2\]
       - Melancholic Sunshine（作詞・作曲・編曲）
       - Resonant World feat. 松永真穂（作詞・作曲・編曲）
       - Android Rhapsody（作詞・作曲・編曲）
-  - [石田燿子](https://ja.wikipedia.org/wiki/石田燿子 "wikilink")
+  - [石田燿子](../Page/石田燿子.md "wikilink")
       - アシタノツバサ (Another Version)（編曲）
   - Metamorphose
       - Over The Testament（編曲）
       - Beat The Wings\!（作曲・編曲）
-  - [佐藤聡美](https://ja.wikipedia.org/wiki/佐藤聡美 "wikilink")
+  - [佐藤聡美](../Page/佐藤聡美.md "wikilink")
       - Starlight Fortune（作曲・編曲）
-  - [野水いおり](https://ja.wikipedia.org/wiki/野水伊織 "wikilink")
+  - [野水いおり](../Page/野水伊織.md "wikilink")
       - [サイレン](https://ja.wikipedia.org/wiki/Black_†_White "wikilink")（編曲）
       - [カンパネッラ](https://ja.wikipedia.org/wiki/DARAKENA "wikilink")（編曲）
   - [黒崎真音](https://ja.wikipedia.org/wiki/黒崎真音 "wikilink")
@@ -261,16 +261,16 @@ STEREO DIVE FOUNDATION\[2\]
       - [高鳴りのソルフェージュ](https://ja.wikipedia.org/wiki/創傷イノセンス "wikilink")（編曲）
       - [アイマイ☆シェイキーハート](https://ja.wikipedia.org/wiki/ギミー!レボリューション "wikilink")（編曲）
       - [セツナRing a Bell](https://ja.wikipedia.org/wiki/Magic_Hour_\(内田真礼のアルバム\) "wikilink")（編曲）
-  - [串田アキラ](https://ja.wikipedia.org/wiki/串田アキラ "wikilink")
+  - [串田アキラ](../Page/串田アキラ.md "wikilink")
       - オレカ オマエカ 限界バトル\!\! (Remix ver.)（編曲）
-  - [五條真由美](https://ja.wikipedia.org/wiki/五條真由美 "wikilink")
+  - [五條真由美](../Page/五條真由美.md "wikilink")
       - ケロロ☆ポップスター（編曲）
   - [sweet ARMS](https://ja.wikipedia.org/wiki/sweet_ARMS "wikilink")
       - Blazing Heart（編曲）
       - Blade of Hope (Another Version)（編曲）
   - [LIFriends](https://ja.wikipedia.org/wiki/LIFriends "wikilink") feat. [新里宏太](https://ja.wikipedia.org/wiki/新里宏太 "wikilink")
       - 君の瞳にロックオン（作曲・編曲）
-  - [吉野裕行](https://ja.wikipedia.org/wiki/吉野裕行 "wikilink")
+  - [吉野裕行](../Page/吉野裕行.md "wikilink")
       - [74R](https://ja.wikipedia.org/wiki/Peace_\(吉野裕行のアルバム\) "wikilink")（作曲・編曲）
       - サイレン（作曲・編曲）
       - ねじれた夜（作曲・編曲）
@@ -285,12 +285,12 @@ STEREO DIVE FOUNDATION\[2\]
       - ターミナル（作曲・編曲）
   - Minutes Til Midnight
       - Gospel Of The Throttle 狂奔 REMIX ver.（作曲・編曲）（Cliff Magretaとの共作曲）
-  - [BEE-HIVE](https://ja.wikipedia.org/wiki/BEE-HIVE "wikilink")
+  - [BEE-HIVE](../Page/BEE-HIVE.md "wikilink")
       - Time to go（作曲・編曲）
       - Crazy love（編曲
   - [i☆Ris](https://ja.wikipedia.org/wiki/i☆Ris "wikilink")
       - Believe in（作曲・編曲）
-  - [高橋直純](https://ja.wikipedia.org/wiki/高橋直純 "wikilink")
+  - [高橋直純](../Page/高橋直純.md "wikilink")
       - glorydays（作詞）
   - [ももいろクローバーZ](https://ja.wikipedia.org/wiki/ももいろクローバーZ "wikilink")
       - DNA狂詩曲 -ZZ ver.-（編曲）
@@ -315,7 +315,7 @@ STEREO DIVE FOUNDATION\[2\]
   - [3B junior](https://ja.wikipedia.org/wiki/3B_junior "wikilink")
       - まけずぎらい（作曲・編曲）
       - バトルロイヤル（作曲・編曲）
-  - [Lead](https://ja.wikipedia.org/wiki/Lead "wikilink")
+  - [Lead](../Page/Lead.md "wikilink")
       - Stand up Action（作曲・編曲）
   - カナメとハルキー
       - SBS（作詞・作曲・編曲）
@@ -330,7 +330,7 @@ STEREO DIVE FOUNDATION\[2\]
       - ふわり☆ぶらんにゅーでい（作曲・編曲）
   - [まよチキ\!](https://ja.wikipedia.org/wiki/まよチキ! "wikilink")
       - Give Me Everything（作曲・編曲）
-  - [さよなら絶望先生](https://ja.wikipedia.org/wiki/さよなら絶望先生 "wikilink")
+  - [さよなら絶望先生](../Page/さよなら絶望先生.md "wikilink")
       - 古都に佇む女（作曲・編曲）
       - キリトリ線（作曲・編曲）
   - [波打際のむろみさん](https://ja.wikipedia.org/wiki/波打際のむろみさん "wikilink")
@@ -404,7 +404,7 @@ STEREO DIVE FOUNDATION\[2\]
       - 夢恋花（作曲・編曲）
   - [ガーリッシュナンバー](https://ja.wikipedia.org/wiki/ガーリッシュナンバー "wikilink")
       - SSS（作曲・編曲）
-  - [覇穹 封神演義](https://ja.wikipedia.org/wiki/封神演義_\(漫画\) "wikilink")
+  - [覇穹 封神演義](../Page/封神演義_\(漫画\).md "wikilink")
       - 陰翳渇仰 ～Inei Katsugou～（作曲・編曲）
   - [キラキラ☆プリキュアアラモード](https://ja.wikipedia.org/wiki/キラキラ☆プリキュアアラモード "wikilink")
       - [シュビドゥビ☆スイーツタイム](https://ja.wikipedia.org/wiki/シュビドゥビ☆スイーツタイム/勇気が君を待ってる "wikilink")（作詞・作曲・編曲）
@@ -464,7 +464,7 @@ STEREO DIVE FOUNDATION\[2\]
       - T.D.D LEGEND（作曲・編曲）（Kohei by SIMONSAYZとの共作曲）
   - [ラブライブ\!サンシャイン\!\!](https://ja.wikipedia.org/wiki/ラブライブ!サンシャイン!! "wikilink")
       - Guilty Night, Guilty Kiss\!（作曲・編曲）
-  - [THE IDOLM@STER](https://ja.wikipedia.org/wiki/THE_IDOLM@STER "wikilink")
+  - [THE IDOLM@STER](../Page/THE_IDOLM@STER.md "wikilink")
       - Best Friend (Version Azusa)（編曲）
   - [THE IDOLM@STER STATION\!\!\!](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_STATION!!! "wikilink")
       - It's ALRIGHT\!（作曲・編曲）
@@ -483,10 +483,10 @@ STEREO DIVE FOUNDATION\[2\]
 
   - 2004年4月～2006年3月 [日テレ系](../Page/日本テレビ放送網.md "wikilink")「[NNNニュースプラス1](../Page/NNNニュースプラス1.md "wikilink")」
   - 2007年4月～9月 日テレ系「[NNN News D](../Page/NNNニュースダッシュ.md "wikilink")」
-  - 2007年10月～放送中 日テレ系「[NNNストレイトニュース](https://ja.wikipedia.org/wiki/NNNストレイトニュース "wikilink")」
-  - 2010年10月～12月[NHK BS2](https://ja.wikipedia.org/wiki/NHK衛星第2テレビジョン "wikilink")「[心霊探偵 八雲](https://ja.wikipedia.org/wiki/心霊探偵_八雲 "wikilink")」
+  - 2007年10月～放送中 日テレ系「[NNNストレイトニュース](../Page/NNNストレイトニュース.md "wikilink")」
+  - 2010年10月～12月[NHK BS2](../Page/NHK衛星第2テレビジョン.md "wikilink")「[心霊探偵 八雲](../Page/心霊探偵_八雲.md "wikilink")」
   - 2012年4月～9月 [MBS他](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")[UHF局](../Page/UHFアニメ.md "wikilink")「[黒子のバスケ](https://ja.wikipedia.org/wiki/黒子のバスケ_\(アニメ\) "wikilink")」（第1期のみ）
-  - 2015年1月～3月 [TBS他](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")「[銃皇無尽のファフニール](https://ja.wikipedia.org/wiki/銃皇無尽のファフニール "wikilink")」
+  - 2015年1月～3月 [TBS他](../Page/TBSテレビ.md "wikilink")「[銃皇無尽のファフニール](https://ja.wikipedia.org/wiki/銃皇無尽のファフニール "wikilink")」
   - 2015年7月～12月 [TOKYO MX他UHF局](../Page/東京メトロポリタンテレビジョン.md "wikilink")「[アクエリオンロゴス](https://ja.wikipedia.org/wiki/アクエリオンロゴス "wikilink")」
   - 2018年1月～3月 TOKYO MX他「[働くお兄さん\!](https://ja.wikipedia.org/wiki/働くお兄さん! "wikilink")」
   - 2018年7月～ TOKYO MX他「働くお兄さん\!の２\!」(11話「カラオケ屋のお兄さん！」では声優としても出演)
@@ -500,7 +500,7 @@ STEREO DIVE FOUNDATION\[2\]
 
 ### ラジオCD
 
-  - 2004年12月 [chu→lip☆リボルバー](https://ja.wikipedia.org/wiki/マジキュー_ラブラドールリボルバー "wikilink")
+  - 2004年12月 [chu→lip☆リボルバー](../Page/マジキュー_ラブラドールリボルバー.md "wikilink")
 
 ## サポート
 
@@ -543,5 +543,5 @@ STEREO DIVE FOUNDATION\[2\]
 [Category:日本の作詞家](https://ja.wikipedia.org/wiki/Category:日本の作詞家 "wikilink") [Category:日本の作曲家](https://ja.wikipedia.org/wiki/Category:日本の作曲家 "wikilink") [Category:日本の編曲家](https://ja.wikipedia.org/wiki/Category:日本の編曲家 "wikilink") [Category:日本の音楽プロデューサー](https://ja.wikipedia.org/wiki/Category:日本の音楽プロデューサー "wikilink") [Category:日本の男性シンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本の男性シンガーソングライター "wikilink") [Category:日本の男性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の男性ポップ歌手 "wikilink") [Category:日本の男性ロック歌手](https://ja.wikipedia.org/wiki/Category:日本の男性ロック歌手 "wikilink") [Category:日本のロック・ギタリスト](https://ja.wikipedia.org/wiki/Category:日本のロック・ギタリスト "wikilink") [Category:日本のキーボーディスト](https://ja.wikipedia.org/wiki/Category:日本のキーボーディスト "wikilink") [Category:アニメ音楽の作詞家](https://ja.wikipedia.org/wiki/Category:アニメ音楽の作詞家 "wikilink") [Category:アニメ音楽の作曲家](https://ja.wikipedia.org/wiki/Category:アニメ音楽の作曲家 "wikilink") [Category:ゲーム音楽の作曲家](https://ja.wikipedia.org/wiki/Category:ゲーム音楽の作曲家 "wikilink") [Category:ランティスのアーティスト](https://ja.wikipedia.org/wiki/Category:ランティスのアーティスト "wikilink") [Category:1982年生](https://ja.wikipedia.org/wiki/Category:1982年生 "wikilink") [Category:東京都出身の人物](https://ja.wikipedia.org/wiki/Category:東京都出身の人物 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.  [OLDCODEX Official Website|BIO](http://www.oldcodex.com/bio.php)
-2.  R・O・N名義の[サウンドトラック](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")は含まない。
+2.  R・O・N名義の[サウンドトラック](../Page/サウンドトラック.md "wikilink")は含まない。
 3.  楽曲が起用された年ではなく、音源化された年で明記。

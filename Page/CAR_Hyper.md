@@ -5,7 +5,7 @@
 
 [モータースポーツ](https://ja.wikipedia.org/wiki/モータースポーツ "wikilink")や自動車関連イベントのレポート、新車インプレッション、番組出演者の愛車自腹チューンナップ企画、番組提供・協力ショップの紹介など、様々な自動車関連の情報を放送している。
 
-2007年9月に番組が終了し、後番組として同年10月から「[CAR☆Xs](https://ja.wikipedia.org/wiki/CAR☆Xs "wikilink")（カーエックス）」が放送開始。なお「CAR☆Xs」から制作局はとちぎテレビに変更になり「Hyper」未放送の[チバテレビにもネットされているが](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink")、その一方でテレ玉にはネットされていなかった。しかし後にネットされるようになった。
+2007年9月に番組が終了し、後番組として同年10月から「[CAR☆Xs](https://ja.wikipedia.org/wiki/CAR☆Xs "wikilink")（カーエックス）」が放送開始。なお「CAR☆Xs」から制作局はとちぎテレビに変更になり「Hyper」未放送の[チバテレビにもネットされているが](../Page/千葉テレビ放送.md "wikilink")、その一方でテレ玉にはネットされていなかった。しかし後にネットされるようになった。
 
 ## 放送局
 
@@ -15,16 +15,16 @@
 
 ## 出演者
 
-  - [砂子塾長](https://ja.wikipedia.org/wiki/砂子塾長 "wikilink")（レーシングドライバー）
+  - [砂子塾長](../Page/砂子塾長.md "wikilink")（レーシングドライバー）
   - [山田英二](../Page/山田英二.md "wikilink")\[ラーマン山田\]（レーシングドライバー）
-  - [青木孝行](https://ja.wikipedia.org/wiki/青木孝行 "wikilink")\[ブルー青木\]（レーシングドライバー）
+  - [青木孝行](../Page/青木孝行.md "wikilink")\[ブルー青木\]（レーシングドライバー）
   - [木下隆之](../Page/木下隆之.md "wikilink")\[木下アニキ\]（レーシングドライバー）
   - 植松忠雄（レーシングドライバー）
-  - [新井敏弘](https://ja.wikipedia.org/wiki/新井敏弘 "wikilink")（ラリードライバー）
-  - [谷口行規](https://ja.wikipedia.org/wiki/谷口行規 "wikilink")（[ユークス](../Page/ユークス.md "wikilink")社長）\[1\]
+  - [新井敏弘](../Page/新井敏弘.md "wikilink")（ラリードライバー）
+  - [谷口行規](../Page/谷口行規.md "wikilink")（[ユークス](../Page/ユークス.md "wikilink")社長）\[1\]
   - 滝本猛夫（[トータルシステム](https://ja.wikipedia.org/wiki/トータルシステム "wikilink")（[洗剤革命](https://ja.wikipedia.org/wiki/洗剤革命 "wikilink")）社長、番組内ではその風貌から「陳さん」と呼ばれている）\[2\]
   - ENDLESSレディ
-  - [アップルガール](https://ja.wikipedia.org/wiki/アップルオートネットワーク "wikilink")
+  - [アップルガール](../Page/アップルオートネットワーク.md "wikilink")
       - 青島あきな（現：[大田明奈](../Page/大田明奈.md "wikilink")）
       - 内山智花
       - [上田聡美](https://ja.wikipedia.org/wiki/上田聡美 "wikilink")

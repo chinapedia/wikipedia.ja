@@ -1,7 +1,7 @@
 > この記事は[BS](https://ja.wikipedia.org/wiki/BS)から翻訳されています。
 
 
-**BS特集**（ビーエスとくしゅう）は、[NHK衛星第1テレビジョン](https://ja.wikipedia.org/wiki/NHK衛星第1テレビジョン "wikilink")および[NHKデジタル衛星ハイビジョン](https://ja.wikipedia.org/wiki/NHKデジタル衛星ハイビジョン "wikilink")で放映される[ノンフィクション](../Page/ノンフィクション.md "wikilink")番組である。内容は討論、[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")など多岐にわたる。放送時間は不定期である。
+**BS特集**（ビーエスとくしゅう）は、[NHK衛星第1テレビジョン](https://ja.wikipedia.org/wiki/NHK衛星第1テレビジョン "wikilink")および[NHKデジタル衛星ハイビジョン](../Page/NHKデジタル衛星ハイビジョン.md "wikilink")で放映される[ノンフィクション](../Page/ノンフィクション.md "wikilink")番組である。内容は討論、[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")など多岐にわたる。放送時間は不定期である。
 
 ## これまで放送された番組
 

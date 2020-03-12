@@ -1,13 +1,13 @@
 > この記事は[Cawaii!](https://ja.wikipedia.org/wiki/Cawaii!)から翻訳されています。
 
 
-**Cawaii\!**（カワイイ\!）とは[主婦の友社](https://ja.wikipedia.org/wiki/主婦の友社 "wikilink")がかつて発行していた[ギャル](https://ja.wikipedia.org/wiki/ギャル "wikilink")系[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")。
+**Cawaii\!**（カワイイ\!）とは[主婦の友社](../Page/主婦の友社.md "wikilink")がかつて発行していた[ギャル](../Page/ギャル.md "wikilink")系[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")。
 
 ## 概要
 
-[1996年](../Page/1996年.md "wikilink")3月創刊。雑誌名の由来は「[可愛い](https://ja.wikipedia.org/wiki/可愛い "wikilink")」。読者層は[女子高生](https://ja.wikipedia.org/wiki/女子高生 "wikilink") - 20歳。コンセプトは「女子高生みんなで作る雑誌。」多くの[モデルがいる](https://ja.wikipedia.org/wiki/ファッションモデル "wikilink")。
+[1996年](../Page/1996年.md "wikilink")3月創刊。雑誌名の由来は「[可愛い](https://ja.wikipedia.org/wiki/可愛い "wikilink")」。読者層は[女子高生](../Page/女子高生.md "wikilink") - 20歳。コンセプトは「女子高生みんなで作る雑誌。」多くの[モデルがいる](../Page/ファッションモデル.md "wikilink")。
 
-毎年2月号の表紙は、その年に[成人式](../Page/成人式.md "wikilink")を迎えるCawaii\! Girlsの振袖姿である。例えば[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")は[大石理紗](https://ja.wikipedia.org/wiki/大石理紗 "wikilink")・[土岐田麗子](https://ja.wikipedia.org/wiki/土岐田麗子 "wikilink")、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")は[斉川あい](https://ja.wikipedia.org/wiki/斉川あい "wikilink")・[青木亜希](../Page/青木亜希.md "wikilink")・[陸守絵麻](../Page/陸守絵麻.md "wikilink")。なお、この5人はその号で卒業。
+毎年2月号の表紙は、その年に[成人式](../Page/成人式.md "wikilink")を迎えるCawaii\! Girlsの振袖姿である。例えば[2005年](../Page/2005年.md "wikilink")は[大石理紗](https://ja.wikipedia.org/wiki/大石理紗 "wikilink")・[土岐田麗子](../Page/土岐田麗子.md "wikilink")、[2006年](../Page/2006年.md "wikilink")は[斉川あい](../Page/斉川あい.md "wikilink")・[青木亜希](../Page/青木亜希.md "wikilink")・[陸守絵麻](../Page/陸守絵麻.md "wikilink")。なお、この5人はその号で卒業。
 
 2004年5月に[タイ語版が創刊](../Page/タイ王国.md "wikilink")。日本雑誌のタイ語版は本誌が初となった。創刊当初は30%がタイでの独自記事、残り70%を翻訳が占めていたが、年々独自記事の割合を増やしている\[1\]\[2\]。尚、海外版は中国及び台湾でも発売されている\[3\]。
 
@@ -30,9 +30,9 @@ Cawaii\! レギュラーモデル。
   - [鈴木杏奈(現・住谷杏奈)](https://ja.wikipedia.org/wiki/住谷杏奈 "wikilink") - [レイザーラモンHG](../Page/レイザーラモンHG.md "wikilink")の妻
   - [板野友美](https://ja.wikipedia.org/wiki/板野友美 "wikilink") - 当時[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")のメンバー
   - [稲森寿世](https://ja.wikipedia.org/wiki/稲森寿世 "wikilink")
-  - [森本容子](https://ja.wikipedia.org/wiki/森本容子 "wikilink") - 創刊当初からの読者モデル。[女子高生](https://ja.wikipedia.org/wiki/女子高生 "wikilink")の頃・卒業後のショップスタッフの頃を通じ読者モデルとして活動。とりわけショップスタッフの頃は「カリスマ販売員」として毎号のように特集が組まれる。[S Cawaii\!創刊号](https://ja.wikipedia.org/wiki/S_Cawaii! "wikilink")（[2000年](../Page/2000年.md "wikilink")11月号）の表紙に掲載されると共にレギュラーモデルとして毎号のようにファッションページにも登場。
+  - [森本容子](https://ja.wikipedia.org/wiki/森本容子 "wikilink") - 創刊当初からの読者モデル。[女子高生](../Page/女子高生.md "wikilink")の頃・卒業後のショップスタッフの頃を通じ読者モデルとして活動。とりわけショップスタッフの頃は「カリスマ販売員」として毎号のように特集が組まれる。[S Cawaii\!創刊号](../Page/S_Cawaii!.md "wikilink")（[2000年](../Page/2000年.md "wikilink")11月号）の表紙に掲載されると共にレギュラーモデルとして毎号のようにファッションページにも登場。
   - 櫻井絵理 - 後に「ERI」の名で「[deeps](https://ja.wikipedia.org/wiki/deeps "wikilink")」の一員となりCDデビュー
-  - [菅原禄弥](../Page/菅原禄弥.md "wikilink") - [2001年](../Page/2001年.md "wikilink")2月号まで。[1999年](../Page/1999年.md "wikilink")に[女優活動を開始後](../Page/俳優.md "wikilink")、[Rayのレギュラーモデルとして活動](https://ja.wikipedia.org/wiki/Ray_\(雑誌\) "wikilink")。現在は S
+  - [菅原禄弥](../Page/菅原禄弥.md "wikilink") - [2001年](../Page/2001年.md "wikilink")2月号まで。[1999年](../Page/1999年.md "wikilink")に[女優活動を開始後](../Page/俳優.md "wikilink")、[Rayのレギュラーモデルとして活動](../Page/Ray_\(雑誌\).md "wikilink")。現在は S
 
 ## コミックCawaii\!
 
@@ -50,24 +50,24 @@ Cawaii\! レギュラーモデル。
 
 **姉妹誌**
 
-  - [S Cawaii\!](https://ja.wikipedia.org/wiki/S_Cawaii! "wikilink")
+  - [S Cawaii\!](../Page/S_Cawaii!.md "wikilink")
   - [GISELe](https://ja.wikipedia.org/wiki/GISELe "wikilink")
   - [Hanachu](../Page/Hanachu.md "wikilink")
 
 **ライバル誌**
 
-  - [bis](https://ja.wikipedia.org/wiki/JJ_\(雑誌\) "wikilink")（[光文社](../Page/光文社.md "wikilink")）
+  - [bis](../Page/JJ_\(雑誌\).md "wikilink")（[光文社](../Page/光文社.md "wikilink")）
   - [SEVENTEEN](../Page/Seventeen_\(日本の雑誌\).md "wikilink")（[集英社](../Page/集英社.md "wikilink")）
   - [TeenGirl](https://ja.wikipedia.org/wiki/TeenGirl "wikilink")（[宝島社](../Page/宝島社.md "wikilink")）
-  - [Popteen](../Page/Popteen.md "wikilink")（[角川春樹事務所](https://ja.wikipedia.org/wiki/角川春樹事務所 "wikilink")）
+  - [Popteen](../Page/Popteen.md "wikilink")（[角川春樹事務所](../Page/角川春樹事務所.md "wikilink")）
   - [Happie nuts](https://ja.wikipedia.org/wiki/Happie_nuts "wikilink")（[インフォレスト](../Page/インフォレスト.md "wikilink")）
-  - [Egg](../Page/Egg.md "wikilink")（[大洋図書](https://ja.wikipedia.org/wiki/大洋図書 "wikilink")）
+  - [Egg](../Page/Egg.md "wikilink")（[大洋図書](../Page/大洋図書.md "wikilink")）
   - [Ego system](https://ja.wikipedia.org/wiki/Ego_system "wikilink")（[リイド社](../Page/リイド社.md "wikilink")）
   - [Ranzuki](../Page/Ranzuki.md "wikilink")（[ぶんか社](../Page/ぶんか社.md "wikilink")）
 
 **音楽ゲーム**
 
-  - [pop'n music](https://ja.wikipedia.org/wiki/pop'n_music "wikilink") - [KONAMIの音楽ゲーム](https://ja.wikipedia.org/wiki/コナミデジタルエンタテインメント "wikilink")。本誌とのコラボレーションによりcawaii専属モデルの2人の歌唱による楽曲が収録され、連載コーナー「SaiGO\!3」の登場キャラクターであるチェリリー＆スージーが楽曲の担当キャラとしてゲスト出演した\[7\]（AC15 - AC17まで収録。現在は楽曲、キャラクター共に削除されている）。
+  - [pop'n music](https://ja.wikipedia.org/wiki/pop'n_music "wikilink") - [KONAMIの音楽ゲーム](../Page/コナミデジタルエンタテインメント.md "wikilink")。本誌とのコラボレーションによりcawaii専属モデルの2人の歌唱による楽曲が収録され、連載コーナー「SaiGO\!3」の登場キャラクターであるチェリリー＆スージーが楽曲の担当キャラとしてゲスト出演した\[7\]（AC15 - AC17まで収録。現在は楽曲、キャラクター共に削除されている）。
 
 ## 脚注
 

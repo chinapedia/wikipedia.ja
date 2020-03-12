@@ -1,7 +1,7 @@
 > この記事は[Open Archives Initiative Protocol for Metadata Harvesting](https://ja.wikipedia.org/wiki/Open_Archives_Initiative_Protocol_for_Metadata_Harvesting)から翻訳されています。
 
 
-**Open Archives Initiative Protocol for Metadata Harvesting**(OAI-PMH)は、OAI([Open Archives Initiative](https://ja.wikipedia.org/wiki/Open_Archives_Initiative "wikilink"))によって定められた[プロトコル](../Page/プロトコル.md "wikilink")で、[ハーベスタ](https://ja.wikipedia.org/wiki/ハーベスタ "wikilink")により[メタデータ](https://ja.wikipedia.org/wiki/メタデータ "wikilink")をまとめて機械的に収集するためのものである。
+**Open Archives Initiative Protocol for Metadata Harvesting**(OAI-PMH)は、OAI([Open Archives Initiative](https://ja.wikipedia.org/wiki/Open_Archives_Initiative "wikilink"))によって定められた[プロトコル](../Page/プロトコル.md "wikilink")で、[ハーベスタ](https://ja.wikipedia.org/wiki/ハーベスタ "wikilink")により[メタデータ](../Page/メタデータ.md "wikilink")をまとめて機械的に収集するためのものである。
 
 OAI-PMHは、[HTTP上で](../Page/Hypertext_Transfer_Protocol.md "wikilink")[XML形式のメッセージをやり取りする](../Page/Extensible_Markup_Language.md "wikilink")。
 
@@ -34,18 +34,18 @@ OAI-PMHをサポートする[ソフトウェア](../Page/ソフトウェア.md "
 
 ## ワークショップ
 
-[2001年](../Page/2001年.md "wikilink")から、毎年[ジュネーヴ](../Page/ジュネーヴ.md "wikilink")でCERNの[ワークショップ](https://ja.wikipedia.org/wiki/ワークショップ "wikilink")が開催されている。
+[2001年](../Page/2001年.md "wikilink")から、毎年[ジュネーヴ](../Page/ジュネーヴ.md "wikilink")でCERNの[ワークショップ](../Page/ワークショップ.md "wikilink")が開催されている。
 
 ## 関連項目
 
-  - [リポジトリ](https://ja.wikipedia.org/wiki/リポジトリ "wikilink")
-  - [メタデータ](https://ja.wikipedia.org/wiki/メタデータ "wikilink")
+  - [リポジトリ](../Page/リポジトリ.md "wikilink")
+  - [メタデータ](../Page/メタデータ.md "wikilink")
   - [ダブリンコア](../Page/Dublin_Core.md "wikilink")
 
 ## 外部リンク
 
   - [The Open Archives Initiative Protocol for Metadata Harvesting](http://www.openarchives.org/OAI/2.0/openarchivesprotocol.htm) --Protocolドキュメント(英語)
-  - [Open Archives Initiative - Protocol for Metadata Harvesting - v.2.0](http://www.nii.ac.jp/metadata/oai-pmh2.0/OpenArchivesProtocol.htm) ----[NIIによるドキュメントの和訳](https://ja.wikipedia.org/wiki/国立情報学研究所 "wikilink")
+  - [Open Archives Initiative - Protocol for Metadata Harvesting - v.2.0](http://www.nii.ac.jp/metadata/oai-pmh2.0/OpenArchivesProtocol.htm) ----[NIIによるドキュメントの和訳](../Page/国立情報学研究所.md "wikilink")
   - [Openarchives.eu - The European Guide to OAI-PMH Digital Repositories in the World](http://www.openarchives.eu)
 
 [de:Open Archives Initiative\#OAI Protocol for Metadata Harvesting](https://ja.wikipedia.org/wiki/de:Open_Archives_Initiative#OAI_Protocol_for_Metadata_Harvesting "wikilink")

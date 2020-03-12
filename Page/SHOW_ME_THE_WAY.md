@@ -11,14 +11,14 @@
 
 1.  SHOW ME THE WAY
       -
-        作詞・作曲・編曲：[松川敏也](https://ja.wikipedia.org/wiki/松川敏也 "wikilink")
+        作詞・作曲・編曲：[松川敏也](../Page/松川敏也.md "wikilink")
 2.  Money Money
       -
-        作詞：[下村成二郎](https://ja.wikipedia.org/wiki/下村成二郎 "wikilink")　作曲・編曲：松川敏也
+        作詞：[下村成二郎](../Page/下村成二郎.md "wikilink")　作曲・編曲：松川敏也
 
 ## アルバム内容
 
-11曲中3曲は[栗林誠一郎](https://ja.wikipedia.org/wiki/栗林誠一郎 "wikilink")による作曲で収録曲の「OVER HEAT」は後に、栗林が[湯川れい子](https://ja.wikipedia.org/wiki/湯川れい子 "wikilink")作詞による「[The Grapes of Worth](../Page/Summer_Illusion.md "wikilink")」というタイトルでセルフカバー。下村成二郎在籍ラストのアルバム。前作のアルバム「[BLIZARD](../Page/ブリザード_\(アルバム\).md "wikilink")」に続き、[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")が全曲のコーラスで参加。
+11曲中3曲は[栗林誠一郎](../Page/栗林誠一郎.md "wikilink")による作曲で収録曲の「OVER HEAT」は後に、栗林が[湯川れい子](../Page/湯川れい子.md "wikilink")作詞による「[The Grapes of Worth](../Page/Summer_Illusion.md "wikilink")」というタイトルでセルフカバー。下村成二郎在籍ラストのアルバム。前作のアルバム「[BLIZARD](../Page/ブリザード_\(アルバム\).md "wikilink")」に続き、[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")が全曲のコーラスで参加。
 
 ## アルバム収録曲
 
@@ -38,7 +38,7 @@
 
   -
     作詞:[星野今日子](../Page/星野今日子.md "wikilink")(1,5,8,9)、下村成二郎(2,7,11)、松川敏也(3,4,6,10)
-    作曲:[栗林誠一郎](https://ja.wikipedia.org/wiki/栗林誠一郎 "wikilink")(1,5,8)、松川敏也(2〜4,6,7,9〜11)
+    作曲:[栗林誠一郎](../Page/栗林誠一郎.md "wikilink")(1,5,8)、松川敏也(2〜4,6,7,9〜11)
 
 ## 関連項目
 

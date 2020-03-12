@@ -7,7 +7,7 @@
 
 ## 人物
 
-バッハオーフェンの研究は[ルイス・モルガンによる発展を介して](../Page/ルイス・ヘンリー・モーガン.md "wikilink")、[ヴァルター・ベンヤミン](../Page/ヴァルター・ベンヤミン.md "wikilink")、[エーリヒ・フロム](https://ja.wikipedia.org/wiki/エーリヒ・フロム "wikilink")、[トーマス・マン](../Page/トーマス・マン.md "wikilink")、[ロバート・グレーヴス](../Page/ロバート・グレーヴス.md "wikilink")、[ライナー・マリア・リルケ](https://ja.wikipedia.org/wiki/ライナー・マリア・リルケ "wikilink")等に多大な影響を与えた。[エンゲルスは](https://ja.wikipedia.org/wiki/フリードリヒ・エンゲルス "wikilink")『[家族・私有財産・国家の起源](../Page/家族・私有財産・国家の起源.md "wikilink")』の序文でバッハオーフェンについて大きく言及している。
+バッハオーフェンの研究は[ルイス・モルガンによる発展を介して](../Page/ルイス・ヘンリー・モーガン.md "wikilink")、[ヴァルター・ベンヤミン](../Page/ヴァルター・ベンヤミン.md "wikilink")、[エーリヒ・フロム](../Page/エーリヒ・フロム.md "wikilink")、[トーマス・マン](../Page/トーマス・マン.md "wikilink")、[ロバート・グレーヴス](../Page/ロバート・グレーヴス.md "wikilink")、[ライナー・マリア・リルケ](../Page/ライナー・マリア・リルケ.md "wikilink")等に多大な影響を与えた。[エンゲルスは](https://ja.wikipedia.org/wiki/フリードリヒ・エンゲルス "wikilink")『[家族・私有財産・国家の起源](../Page/家族・私有財産・国家の起源.md "wikilink")』の序文でバッハオーフェンについて大きく言及している。
 
 バッハオーフェンは、文化進化の4つの段階を提案した。
 
@@ -39,7 +39,7 @@
 <!-- end list -->
 
   -
-    　[岡道男](../Page/岡道男.md "wikilink")・[河上倫逸](../Page/河上倫逸.md "wikilink")監訳、[みすず書房](https://ja.wikipedia.org/wiki/みすず書房 "wikilink")（全3巻）、1991－95年
+    　[岡道男](../Page/岡道男.md "wikilink")・[河上倫逸](../Page/河上倫逸.md "wikilink")監訳、[みすず書房](../Page/みすず書房.md "wikilink")（全3巻）、1991－95年
 
 <!-- end list -->
 
@@ -48,18 +48,18 @@
 <!-- end list -->
 
   -
-    　[吉原達也](https://ja.wikipedia.org/wiki/吉原達也 "wikilink")、[平田公夫](https://ja.wikipedia.org/wiki/平田公夫 "wikilink")訳　[白水社](https://ja.wikipedia.org/wiki/白水社 "wikilink")（上・下）、1992－93年　[日本翻訳文化賞](../Page/日本翻訳文化賞.md "wikilink")受賞
+    　[吉原達也](https://ja.wikipedia.org/wiki/吉原達也 "wikilink")、[平田公夫](https://ja.wikipedia.org/wiki/平田公夫 "wikilink")訳　[白水社](../Page/白水社.md "wikilink")（上・下）、1992－93年　[日本翻訳文化賞](../Page/日本翻訳文化賞.md "wikilink")受賞
 
 <!-- end list -->
 
-  - 『古代墳墓象徴試論』 平田公夫・[吉原達也](https://ja.wikipedia.org/wiki/吉原達也 "wikilink")訳、[作品社](https://ja.wikipedia.org/wiki/作品社 "wikilink")、2004年
+  - 『古代墳墓象徴試論』 平田公夫・[吉原達也](https://ja.wikipedia.org/wiki/吉原達也 "wikilink")訳、[作品社](../Page/作品社.md "wikilink")、2004年
 
 ## 関連項目
 
   - [フリードリヒ・ニーチェ](../Page/フリードリヒ・ニーチェ.md "wikilink")
   - [ヤーコプ・ブルクハルト](../Page/ヤーコプ・ブルクハルト.md "wikilink")
   - [カール・グスタフ・ユング](../Page/カール・グスタフ・ユング.md "wikilink")
-  - [カール・ケレーニイ](https://ja.wikipedia.org/wiki/カール・ケレーニイ "wikilink")
+  - [カール・ケレーニイ](../Page/カール・ケレーニイ.md "wikilink")
   - [ヴァルター・ベンヤミン](../Page/ヴァルター・ベンヤミン.md "wikilink")
 
 <!-- end list -->
@@ -70,7 +70,7 @@
 <!-- end list -->
 
   - [上山安敏](../Page/上山安敏.md "wikilink")　研究で著名
-  - [石塚正英](https://ja.wikipedia.org/wiki/石塚正英 "wikilink")　『バッハオーフェン』　[論創社](../Page/論創社.md "wikilink")　2001年
+  - [石塚正英](../Page/石塚正英.md "wikilink")　『バッハオーフェン』　[論創社](../Page/論創社.md "wikilink")　2001年
   - [臼井隆一郎](https://ja.wikipedia.org/wiki/臼井隆一郎 "wikilink")編『バッハオーフェン論集成』　世界書院　1992年、論考訳文集。
 
 [Category:スイスの学者](https://ja.wikipedia.org/wiki/Category:スイスの学者 "wikilink") [Category:ローマ法学者](https://ja.wikipedia.org/wiki/Category:ローマ法学者 "wikilink") [Category:裁判官](https://ja.wikipedia.org/wiki/Category:裁判官 "wikilink") [Category:19世紀の社会科学者](https://ja.wikipedia.org/wiki/Category:19世紀の社会科学者 "wikilink") [Category:バーゼル大学の教員](https://ja.wikipedia.org/wiki/Category:バーゼル大学の教員 "wikilink") [Category:バーゼル出身の人物](https://ja.wikipedia.org/wiki/Category:バーゼル出身の人物 "wikilink") [Category:1815年生](https://ja.wikipedia.org/wiki/Category:1815年生 "wikilink") [Category:1887年没](https://ja.wikipedia.org/wiki/Category:1887年没 "wikilink") [Category:法制史学者](https://ja.wikipedia.org/wiki/Category:法制史学者 "wikilink") [Category:家母長制](https://ja.wikipedia.org/wiki/Category:家母長制 "wikilink")

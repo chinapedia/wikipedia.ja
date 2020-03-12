@@ -1,15 +1,15 @@
 > この記事は[CD](https://ja.wikipedia.org/wiki/CD)から翻訳されています。
 
 
-**CDカステリョン**（**Club Deportivo Castellón**）は、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[カステリョンを本拠地とする](https://ja.wikipedia.org/wiki/カステリョン・デ・ラ・プラナ "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。2017-18シーズンは[テルセーラ・ディビシオン](../Page/テルセーラ・ディビシオン.md "wikilink")（4部相当）に所属している。16,000人収容の[ノウ・エスタディ・カステリア](https://ja.wikipedia.org/wiki/ノウ・エスタディ・カステリア "wikilink")をホームスタジアムとしている。
+**CDカステリョン**（**Club Deportivo Castellón**）は、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[カステリョンを本拠地とする](../Page/カステリョン・デ・ラ・プラナ.md "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。2017-18シーズンは[テルセーラ・ディビシオン](../Page/テルセーラ・ディビシオン.md "wikilink")（4部相当）に所属している。16,000人収容の[ノウ・エスタディ・カステリア](https://ja.wikipedia.org/wiki/ノウ・エスタディ・カステリア "wikilink")をホームスタジアムとしている。
 
-1922年創設。[プリメーラ・ディビシオン](https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン "wikilink")（1部）には通算で11シーズン所属。1972-73シーズンに[コパ・デル・レイ](../Page/コパ・デル・レイ.md "wikilink")で準優勝を果たしている。同じカステリョン県には[ビジャレアルCF](https://ja.wikipedia.org/wiki/ビジャレアルCF "wikilink")がある。
+1922年創設。[プリメーラ・ディビシオン](../Page/プリメーラ・ディビシオン.md "wikilink")（1部）には通算で11シーズン所属。1972-73シーズンに[コパ・デル・レイ](../Page/コパ・デル・レイ.md "wikilink")で準優勝を果たしている。同じカステリョン県には[ビジャレアルCF](../Page/ビジャレアルCF.md "wikilink")がある。
 
 ## 歴史
 
-カステリョンにサッカーがもたらされたのは1911年であり、デポルティーボ(Deportivo)、カスタリア(Castalia)、ジムナシティコ(Gimnástico)、クルトゥラル(Cultural)、セルバンテス(Cervantes)などといったクラブが存在していたが、1922年7月22日にCDカステリョンが設立された。何度か[プリメーラ・ディビシオン](https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン "wikilink")（1部）に上り詰めており、1941-42シーズンに初めてプリメーラに在籍すると、1942-43シーズンには史上最高位の4位となった。[ビセンテ・デル・ボスケ](../Page/ビセンテ・デル・ボスケ.md "wikilink")を擁した1972-73シーズンにはリーグ戦で5位になるとともに、[コパ・デル・レイ](../Page/コパ・デル・レイ.md "wikilink")では決勝に進出。デル・ボスケは後に[レアル・マドリード](https://ja.wikipedia.org/wiki/レアル・マドリード "wikilink")に移籍し、同クラブの監督や[スペイン代表監督にもなった](https://ja.wikipedia.org/wiki/サッカースペイン代表 "wikilink")。1983-84シーズンには[コパ・デ・ラ・リーガ](https://ja.wikipedia.org/wiki/コパ・デ・ラ・リーガ "wikilink")で優勝した。1989-90シーズンからの2シーズンもプリメーラで戦ったが、1990-91シーズン終了後に[セグンダ・ディビシオン](../Page/セグンダ・ディビシオン.md "wikilink")（2部）降格となり、1993-94シーズン終了後には[セグンダ・ディビシオンB](../Page/セグンダ・ディビシオンB.md "wikilink")（3部相当）降格となった。
+カステリョンにサッカーがもたらされたのは1911年であり、デポルティーボ(Deportivo)、カスタリア(Castalia)、ジムナシティコ(Gimnástico)、クルトゥラル(Cultural)、セルバンテス(Cervantes)などといったクラブが存在していたが、1922年7月22日にCDカステリョンが設立された。何度か[プリメーラ・ディビシオン](../Page/プリメーラ・ディビシオン.md "wikilink")（1部）に上り詰めており、1941-42シーズンに初めてプリメーラに在籍すると、1942-43シーズンには史上最高位の4位となった。[ビセンテ・デル・ボスケ](../Page/ビセンテ・デル・ボスケ.md "wikilink")を擁した1972-73シーズンにはリーグ戦で5位になるとともに、[コパ・デル・レイ](../Page/コパ・デル・レイ.md "wikilink")では決勝に進出。デル・ボスケは後に[レアル・マドリード](https://ja.wikipedia.org/wiki/レアル・マドリード "wikilink")に移籍し、同クラブの監督や[スペイン代表監督にもなった](https://ja.wikipedia.org/wiki/サッカースペイン代表 "wikilink")。1983-84シーズンには[コパ・デ・ラ・リーガ](https://ja.wikipedia.org/wiki/コパ・デ・ラ・リーガ "wikilink")で優勝した。1989-90シーズンからの2シーズンもプリメーラで戦ったが、1990-91シーズン終了後に[セグンダ・ディビシオン](../Page/セグンダ・ディビシオン.md "wikilink")（2部）降格となり、1993-94シーズン終了後には[セグンダ・ディビシオンB](../Page/セグンダ・ディビシオンB.md "wikilink")（3部相当）降格となった。
 
-2004-05シーズンはセグンダBで4位となり、昇格プレーオフに勝利してセグンダ昇格を決めた。2005年から2006年にかけて、[ベガルタ仙台](../Page/ベガルタ仙台.md "wikilink")から[福田健二](https://ja.wikipedia.org/wiki/福田健二 "wikilink")がレンタル移籍で在籍していた。セグンダに5シーズン在籍したが、2009-10シーズンは21位に勝ち点13離されて22位（最下位）となり、セグンダBに降格した。2010-11シーズンはセグンダBで10位だったが、2011年7月18日、給料未払いのためにセグンダBから除外され、[テルセーラ・ディビシオン](../Page/テルセーラ・ディビシオン.md "wikilink")（4部相当）強制降格となった\[1\]。
+2004-05シーズンはセグンダBで4位となり、昇格プレーオフに勝利してセグンダ昇格を決めた。2005年から2006年にかけて、[ベガルタ仙台](../Page/ベガルタ仙台.md "wikilink")から[福田健二](../Page/福田健二.md "wikilink")がレンタル移籍で在籍していた。セグンダに5シーズン在籍したが、2009-10シーズンは21位に勝ち点13離されて22位（最下位）となり、セグンダBに降格した。2010-11シーズンはセグンダBで10位だったが、2011年7月18日、給料未払いのためにセグンダBから除外され、[テルセーラ・ディビシオン](../Page/テルセーラ・ディビシオン.md "wikilink")（4部相当）強制降格となった\[1\]。
 
 ## タイトル
 
@@ -154,42 +154,42 @@
 <tr class="odd">
 <td><p>1941–42</p></td>
 <td><p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>8位</p></td>
 <td><p>ベスト16</p></td>
 </tr>
 <tr class="even">
 <td><p>1942–43</p></td>
 <td><p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>4位</p></td>
 <td><p>ベスト16</p></td>
 </tr>
 <tr class="odd">
 <td><p>1943–44</p></td>
 <td><p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>5位</p></td>
 <td><p>ベスト16</p></td>
 </tr>
 <tr class="even">
 <td><p>1944–45</p></td>
 <td><p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>8位</p></td>
 <td><p>ベスト8</p></td>
 </tr>
 <tr class="odd">
 <td><p>1945–46</p></td>
 <td><p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>8位</p></td>
 <td><p>1回戦敗退</p></td>
 </tr>
 <tr class="even">
 <td><p>1946–47</p></td>
 <td><p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>14位</p></td>
 <td><p>ベスト8</p></td>
 </tr>
@@ -397,14 +397,14 @@
 <tr class="even">
 <td><p>1972–73</p></td>
 <td><p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>5位</p></td>
 <td><p>準優勝</p></td>
 </tr>
 <tr class="odd">
 <td><p>1973–74</p></td>
 <td><p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>16位</p></td>
 <td><p>ベスト16</p></td>
 </tr>
@@ -460,7 +460,7 @@
 <tr class="odd">
 <td><p>1981–82</p></td>
 <td><p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>18位</p></td>
 <td><p>3回戦敗退</p></td>
 </tr>
@@ -516,14 +516,14 @@
 <tr class="odd">
 <td><p>1989–90</p></td>
 <td><p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>14位</p></td>
 <td><p>2回戦敗退</p></td>
 </tr>
 <tr class="even">
 <td><p>1990–91</p></td>
 <td><p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>19位</p></td>
 <td><p>4回戦敗退</p></td>
 </tr>
@@ -763,7 +763,7 @@
 
 -----
 
-  - **11**シーズン - [プリメーラ・ディビシオン](https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン "wikilink")（1部）
+  - **11**シーズン - [プリメーラ・ディビシオン](../Page/プリメーラ・ディビシオン.md "wikilink")（1部）
   - **40**シーズン - [セグンダ・ディビシオン](../Page/セグンダ・ディビシオン.md "wikilink")（2部）
   - **12**シーズン - [セグンダ・ディビシオンB](../Page/セグンダ・ディビシオンB.md "wikilink")（3部相当、1977年創設）
   - **21**シーズン - [テルセーラ・ディビシオン](../Page/テルセーラ・ディビシオン.md "wikilink")（4部相当、1977年までは3部相当）
@@ -789,7 +789,7 @@
 
   - [ハビエル・オリバ](https://ja.wikipedia.org/wiki/ハビエル・オリバ "wikilink") 2002-2009
 
-  - [カルロス・サンチェス・ガルシア](https://ja.wikipedia.org/wiki/カルロス・サンチェス・ガルシア "wikilink") 2006-2010
+  - [カルロス・サンチェス・ガルシア](../Page/カルロス・サンチェス・ガルシア.md "wikilink") 2006-2010
 
 <!-- end list -->
 
@@ -810,9 +810,9 @@
 
   - [エンリケ・サウラ](https://ja.wikipedia.org/wiki/エンリケ・サウラ "wikilink") 1985-1988
 
-  - [ガイスカ・メンディエタ](https://ja.wikipedia.org/wiki/ガイスカ・メンディエタ "wikilink") 1991-1992
+  - [ガイスカ・メンディエタ](../Page/ガイスカ・メンディエタ.md "wikilink") 1991-1992
 
-  - [ムラデン・ムラデノビッチ](https://ja.wikipedia.org/wiki/ムラデン・ムラデノビッチ "wikilink") 1991-1993
+  - [ムラデン・ムラデノビッチ](../Page/ムラデン・ムラデノビッチ.md "wikilink") 1991-1993
 
 <!-- end list -->
 
@@ -822,7 +822,7 @@
 
   - [ロベルト・フェルナンデス・ボニーロ](https://ja.wikipedia.org/wiki/ロベルト・フェルナンデス・ボニーロ "wikilink") 1979-1981
 
-  - [福田健二](https://ja.wikipedia.org/wiki/福田健二 "wikilink") 2005.12-2006.9
+  - [福田健二](../Page/福田健二.md "wikilink") 2005.12-2006.9
 
 ## 脚注
 

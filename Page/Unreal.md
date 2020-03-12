@@ -5,10 +5,10 @@
 
 ## 概要
 
-同タイプのゲームとしてid Softwareの[Quake](https://ja.wikipedia.org/wiki/Quake "wikilink")シリーズが先行していたが、より洗練されたストーリー、演出、ビジュアル、音楽が評価され、Quakeシリーズおよび同年Valve Softwareから発売される[ハーフライフシリーズと三巨頭をなすゲームとなった](https://ja.wikipedia.org/wiki/ハーフライフ_\(ゲーム\) "wikilink")。
+同タイプのゲームとしてid Softwareの[Quake](../Page/Quake.md "wikilink")シリーズが先行していたが、より洗練されたストーリー、演出、ビジュアル、音楽が評価され、Quakeシリーズおよび同年Valve Softwareから発売される[ハーフライフシリーズと三巨頭をなすゲームとなった](../Page/ハーフライフ_\(ゲーム\).md "wikilink")。
 
   -
-    ソフトウェアレンダリング（[Direct3D](https://ja.wikipedia.org/wiki/Direct3D "wikilink")）も標準サポートしており、Voodoo非搭載PCでもプレイは可能ではあった。しかし描画速度は著しく遅かった。
+    ソフトウェアレンダリング（[Direct3D](../Page/Direct3D.md "wikilink")）も標準サポートしており、Voodoo非搭載PCでもプレイは可能ではあった。しかし描画速度は著しく遅かった。
     後のパッチによって[OpenGL](../Page/OpenGL.md "wikilink")でもプレイ可能になったものの、風景テクスチャが崩れ気味、キャラクタのポリゴンが荒いなどの問題点もあった。
 
 『Quake』の舞台が屋内中心であったのに対し、『Unreal』は広大なオープンフィールドも用意されている点が新しかった。マップ作成は複数のスタッフが担当しているが、スタート時のマップは全スタッフが総力を挙げて作っており、閉塞的で暗く迷路のような宇宙船を脱出すると、鳥が飛び太陽が差す美しく広大な高地に出るという演出が挿入される。

@@ -5,7 +5,7 @@
 
 ## 来歴
 
-  - 1989年1月、[福井祥史](https://ja.wikipedia.org/wiki/福井祥史 "wikilink")（ex.[D'ERLANGER](../Page/D'ERLANGER.md "wikilink")）とLEZYNA（ex.[JUSTY-NASTY](https://ja.wikipedia.org/wiki/JUSTY-NASTY "wikilink")）を中心に結成。メンバーの前歴が人気バンドの経験者ということで当初から注目された。曲調としては、LEZYNAの作る曲はマニアックな部分まで作りこまれてはいるものの、楽曲としては聴きやすいものだった。
+  - 1989年1月、[福井祥史](../Page/福井祥史.md "wikilink")（ex.[D'ERLANGER](../Page/D'ERLANGER.md "wikilink")）とLEZYNA（ex.[JUSTY-NASTY](../Page/JUSTY-NASTY.md "wikilink")）を中心に結成。メンバーの前歴が人気バンドの経験者ということで当初から注目された。曲調としては、LEZYNAの作る曲はマニアックな部分まで作りこまれてはいるものの、楽曲としては聴きやすいものだった。
   - 1990年1月、アルバム『DANCERAMA』をインディーズよりリリース。同年9月、アルバム『Charme』リリース。
   - 1991年3月、アルバム『nouvelle parfum』をリリースしメジャーデビュー。
   - 1992年2月、アルバム『ALiBI』リリース。同年12月、ミニアルバム"SOUL FLOWER"リリース。
@@ -15,16 +15,16 @@
 
 ### 解散時のメンバー
 
-  - [福井祥史](https://ja.wikipedia.org/wiki/福井祥史 "wikilink")（Vo）
+  - [福井祥史](../Page/福井祥史.md "wikilink")（Vo）
       -
         [D'ERLANGER](../Page/D'ERLANGER.md "wikilink")（DIZZY名義）→STRAWBERRY FIELDS→[VINYL](../Page/VINYL.md "wikilink")→引退
   - [LEZYNA](https://ja.wikipedia.org/wiki/LEZYNA "wikilink")（小池裕明）（Gt）
       -
-        [JUSTY-NASTY](https://ja.wikipedia.org/wiki/JUSTY-NASTY "wikilink")→STRAWBERRY FIELDS→ex.JUSTY-NASTYの大石とのセッション等→JUSTY-NASTY(2015-), EX-ANS(2016-), [広石武彦](../Page/広石武彦.md "wikilink")ソロ(2017), Respect up beat \#5(2018)
+        [JUSTY-NASTY](../Page/JUSTY-NASTY.md "wikilink")→STRAWBERRY FIELDS→ex.JUSTY-NASTYの大石とのセッション等→JUSTY-NASTY(2015-), EX-ANS(2016-), [広石武彦](../Page/広石武彦.md "wikilink")ソロ(2017), Respect up beat \#5(2018)
   - [SEISHIRO](https://ja.wikipedia.org/wiki/SEISHIRO "wikilink")（矢倉勢司郎）（Ba）
       -
         [大阪芸術大学](../Page/大阪芸術大学.md "wikilink")を中退し、STRAWBERRY FIELDSに参加。
-        [CHAOS MODE](https://ja.wikipedia.org/wiki/CHAOS_MODE_\(ロックバンド\) "wikilink")→STRAWBERRY FIELDS→[ROUAGE](https://ja.wikipedia.org/wiki/ROUAGE "wikilink")などでサポート→[THE SODOM PROJECT](https://ja.wikipedia.org/wiki/THE_SODOM_PROJECT "wikilink") , METALIC
+        [CHAOS MODE](https://ja.wikipedia.org/wiki/CHAOS_MODE_\(ロックバンド\) "wikilink")→STRAWBERRY FIELDS→[ROUAGE](../Page/ROUAGE.md "wikilink")などでサポート→[THE SODOM PROJECT](https://ja.wikipedia.org/wiki/THE_SODOM_PROJECT "wikilink") , METALIC
   - [SHU-KEN](https://ja.wikipedia.org/wiki/SHU-KEN "wikilink")（Dr）
       -
         STRAWBERRY FIELDS→[FiX](https://ja.wikipedia.org/wiki/Tezya_\(ヴォーカリスト\) "wikilink")→[WORLD WIDE LOVE](https://ja.wikipedia.org/wiki/WORLD_WIDE_LOVE "wikilink")
@@ -114,7 +114,7 @@
 
   - [ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")
   - [D'ERLANGER](../Page/D'ERLANGER.md "wikilink")
-  - [JUSTY-NASTY](https://ja.wikipedia.org/wiki/JUSTY-NASTY "wikilink")
+  - [JUSTY-NASTY](../Page/JUSTY-NASTY.md "wikilink")
   - [VINYL](../Page/VINYL.md "wikilink")
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ヴィジュアル系](https://ja.wikipedia.org/wiki/Category:ヴィジュアル系 "wikilink") [Category:1989年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1989年に結成した音楽グループ "wikilink") [Category:1993年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1993年に解散した音楽グループ "wikilink") [Category:NBCユニバーサル・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:NBCユニバーサル・ジャパンのアーティスト "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink")

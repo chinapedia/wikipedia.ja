@@ -3,18 +3,18 @@
 
 '''SunnydayOrange' '''（サニーデイオレンジ）は、日本の[バンド](../Page/バンド_\(音楽\).md "wikilink")。
 
-2001年、オオヌキタケシと西沢文孝の二人で**SunnydayOrange**を結成し、音楽制作とライブ活動を開始。2003年7月、[きりばやしひろき](https://ja.wikipedia.org/wiki/きりばやしひろき "wikilink")が加入し、バンド名に「'（ダッシュ）」が付く。2008年12月、[きりばやしひろき](https://ja.wikipedia.org/wiki/きりばやしひろき "wikilink")が脱退。
+2001年、オオヌキタケシと西沢文孝の二人で**SunnydayOrange**を結成し、音楽制作とライブ活動を開始。2003年7月、[きりばやしひろき](../Page/きりばやしひろき.md "wikilink")が加入し、バンド名に「'（ダッシュ）」が付く。2008年12月、[きりばやしひろき](../Page/きりばやしひろき.md "wikilink")が脱退。
 
 「360°センターステージ」による独特のライブパフォーマンスを行なっている。
 
 ## メンバー
 
-  - [オオヌキタケシ](https://ja.wikipedia.org/wiki/オオヌキタケシ "wikilink") - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - [オオヌキタケシ](https://ja.wikipedia.org/wiki/オオヌキタケシ "wikilink") - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
 
 ### 旧メンバー
 
   - [西沢文孝](https://ja.wikipedia.org/wiki/西沢文孝 "wikilink") - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")
-  - [きりばやしひろき](https://ja.wikipedia.org/wiki/きりばやしひろき "wikilink") - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ドラム](../Page/ドラムセット.md "wikilink")、[ピアノ](../Page/ピアノ.md "wikilink")、[ギター](../Page/ギター.md "wikilink")
+  - [きりばやしひろき](../Page/きりばやしひろき.md "wikilink") - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ドラム](../Page/ドラムセット.md "wikilink")、[ピアノ](../Page/ピアノ.md "wikilink")、[ギター](../Page/ギター.md "wikilink")
   - [宇野振一](https://ja.wikipedia.org/wiki/宇野振一 "wikilink") - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")
 
 ## 作品

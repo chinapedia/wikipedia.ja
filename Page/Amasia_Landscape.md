@@ -1,7 +1,7 @@
 > この記事は[Amasia Landscape](https://ja.wikipedia.org/wiki/Amasia_Landscape)から翻訳されています。
 
 
-**Amasia Landscape**（アメイジア・ランドスケープ）は日本の[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")。[長尾大](https://ja.wikipedia.org/wiki/長尾大 "wikilink")がフルプロデュースし、映像を音楽・文章と融合させて配信する。現在は[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")の[Akicoを中心とし](https://ja.wikipedia.org/wiki/Akiko_\(ボーカリスト\) "wikilink")、映像・文章に於いても各分野にて第一線で活躍する[クリエイター](https://ja.wikipedia.org/wiki/クリエイター "wikilink")をクルーとした体制で活動中。
+**Amasia Landscape**（アメイジア・ランドスケープ）は日本の[音楽ユニット](../Page/音楽ユニット.md "wikilink")。[長尾大](../Page/長尾大.md "wikilink")がフルプロデュースし、映像を音楽・文章と融合させて配信する。現在は[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")の[Akicoを中心とし](https://ja.wikipedia.org/wiki/Akiko_\(ボーカリスト\) "wikilink")、映像・文章に於いても各分野にて第一線で活躍する[クリエイター](https://ja.wikipedia.org/wiki/クリエイター "wikilink")をクルーとした体制で活動中。
 
 ユニット名は世界6大陸のプレートが2億年後、再び一つの場所に集まって生まれる超大陸「Amasia大陸」とその風景（Landscape）に想いを馳せて命名している。
 
@@ -12,10 +12,10 @@
 いずれも「CD+DVD」の1形態でのリリース
 
 1.  Goldenvine （2005年7月27日）
-    1.  桃源郷 （[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『[ビューティフル ジョー](https://ja.wikipedia.org/wiki/ビューティフル_ジョー "wikilink")』エンディングテーマ、熊本朝日放送局名告知）
+    1.  桃源郷 （[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『[ビューティフル ジョー](../Page/ビューティフル_ジョー.md "wikilink")』エンディングテーマ、熊本朝日放送局名告知）
     2.  金色の葡萄 ～GOLDEN VINE～
     3.  青い鳥
-    4.  Ark （『[ボルヴィック](https://ja.wikipedia.org/wiki/ボルヴィック "wikilink") MIVAキャンペーン』イメージソング）
+    4.  Ark （『[ボルヴィック](../Page/ボルヴィック.md "wikilink") MIVAキャンペーン』イメージソング）
     5.  語りべの詩 （『[広島工業大学](../Page/広島工業大学.md "wikilink")』CMソング）
     6.  夕暮れの坂道
 2.  Flower Crown （2005年12月14日）

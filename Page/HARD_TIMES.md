@@ -25,7 +25,7 @@ CDジャーナルは「ハード・エッジなギター・ワークが冴える
 <!-- end list -->
 
   -
-    作詞:[松川敏也](https://ja.wikipedia.org/wiki/松川敏也 "wikilink")(1,3〜6,8)、[下村成二郎](https://ja.wikipedia.org/wiki/下村成二郎 "wikilink")(2,7)
+    作詞:[松川敏也](../Page/松川敏也.md "wikilink")(1,3〜6,8)、[下村成二郎](../Page/下村成二郎.md "wikilink")(2,7)
     作曲・編曲:松川敏也(1〜8)
 
 ## 批評
@@ -33,7 +33,7 @@ CDジャーナルは「ハード・エッジなギター・ワークが冴える
 ## 関連項目
 
   - [ビーイング](../Page/ビーイング.md "wikilink")
-  - [1986年の音楽](https://ja.wikipedia.org/wiki/1986年の音楽 "wikilink")
+  - [1986年の音楽](../Page/1986年の音楽.md "wikilink")
 
 [Category:1986年のアルバム](https://ja.wikipedia.org/wiki/Category:1986年のアルバム "wikilink") [Category:Blizardのアルバム](https://ja.wikipedia.org/wiki/Category:Blizardのアルバム "wikilink") [Category:ワーナーミュージック・ジャパンのアルバム](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのアルバム "wikilink")
 

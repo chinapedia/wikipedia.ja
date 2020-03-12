@@ -1,7 +1,7 @@
 > この記事は[LPIC](https://ja.wikipedia.org/wiki/LPIC)から翻訳されています。
 
 
-**LPIC**とは、[Linux Professional Institute](../Page/Linux_Professional_Institute.md "wikilink") (LPI) によって運営されている[Linux](../Page/Linux.md "wikilink")[技術者](https://ja.wikipedia.org/wiki/技術者 "wikilink")の技術者[認定資格](https://ja.wikipedia.org/wiki/認定資格 "wikilink")の名称。
+**LPIC**とは、[Linux Professional Institute](../Page/Linux_Professional_Institute.md "wikilink") (LPI) によって運営されている[Linux](../Page/Linux.md "wikilink")[技術者](../Page/技術者.md "wikilink")の技術者[認定資格](https://ja.wikipedia.org/wiki/認定資格 "wikilink")の名称。
 
 ## 概要
 

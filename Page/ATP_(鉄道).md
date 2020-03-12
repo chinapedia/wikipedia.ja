@@ -17,7 +17,7 @@
 
 <!-- end list -->
 
-  - [ワシントンメトロ](https://ja.wikipedia.org/wiki/ワシントンメトロ "wikilink")
+  - [ワシントンメトロ](../Page/ワシントンメトロ.md "wikilink")
 
 <!-- end list -->
 
@@ -26,8 +26,8 @@
 
 <!-- end list -->
 
-  - [MTR](https://ja.wikipedia.org/wiki/香港MTR "wikilink")[東鉄線](https://ja.wikipedia.org/wiki/東鉄線 "wikilink")
-  - 地下鉄（[MTR](https://ja.wikipedia.org/wiki/香港MTR "wikilink")）[観塘線、荃湾線、港島線、将軍澳線、東涌線および機場快線（エアポートエクスプレス）](https://ja.wikipedia.org/wiki/香港MTR#路線 "wikilink")
+  - [MTR](../Page/香港MTR.md "wikilink")[東鉄線](https://ja.wikipedia.org/wiki/東鉄線 "wikilink")
+  - 地下鉄（[MTR](../Page/香港MTR.md "wikilink")）[観塘線、荃湾線、港島線、将軍澳線、東涌線および機場快線（エアポートエクスプレス）](https://ja.wikipedia.org/wiki/香港MTR#路線 "wikilink")
 
 <!-- end list -->
 
@@ -35,7 +35,7 @@
 
 <!-- end list -->
 
-  - \[2\][台湾鉄路管理局](https://ja.wikipedia.org/wiki/台湾鉄路管理局 "wikilink") [縦貫線](../Page/縦貫線_\(台湾鉄路管理局\).md "wikilink")、[屏東線](https://ja.wikipedia.org/wiki/屏東線 "wikilink")、[宜蘭線](https://ja.wikipedia.org/wiki/宜蘭線 "wikilink")、[北廻線](https://ja.wikipedia.org/wiki/北廻線 "wikilink")、[台東線](https://ja.wikipedia.org/wiki/台東線 "wikilink")、[南廻線](https://ja.wikipedia.org/wiki/南廻線 "wikilink")、[内湾線](https://ja.wikipedia.org/wiki/内湾線 "wikilink")、[六家線](https://ja.wikipedia.org/wiki/六家線 "wikilink")、[沙崙線](https://ja.wikipedia.org/wiki/沙崙線 "wikilink")
+  - \[2\][台湾鉄路管理局](https://ja.wikipedia.org/wiki/台湾鉄路管理局 "wikilink") [縦貫線](../Page/縦貫線_\(台湾鉄路管理局\).md "wikilink")、[屏東線](https://ja.wikipedia.org/wiki/屏東線 "wikilink")、[宜蘭線](https://ja.wikipedia.org/wiki/宜蘭線 "wikilink")、[北廻線](https://ja.wikipedia.org/wiki/北廻線 "wikilink")、[台東線](https://ja.wikipedia.org/wiki/台東線 "wikilink")、[南廻線](https://ja.wikipedia.org/wiki/南廻線 "wikilink")、[内湾線](https://ja.wikipedia.org/wiki/内湾線 "wikilink")、[六家線](https://ja.wikipedia.org/wiki/六家線 "wikilink")、[沙崙線](../Page/沙崙線.md "wikilink")
 
 <!-- end list -->
 
@@ -51,7 +51,7 @@
 
 <!-- end list -->
 
-  - [韓国鉄道公社](https://ja.wikipedia.org/wiki/韓国鉄道公社 "wikilink") \[3\][京釜線](https://ja.wikipedia.org/wiki/京釜線 "wikilink")、[湖南線](https://ja.wikipedia.org/wiki/湖南線 "wikilink")
+  - [韓国鉄道公社](../Page/韓国鉄道公社.md "wikilink") \[3\][京釜線](../Page/京釜線.md "wikilink")、[湖南線](https://ja.wikipedia.org/wiki/湖南線 "wikilink")
 
 <!-- end list -->
 
@@ -59,25 +59,25 @@
 
 <!-- end list -->
 
-  - [マニラ・ライトレール](https://ja.wikipedia.org/wiki/マニラ・ライトレール "wikilink")[1号線](https://ja.wikipedia.org/wiki/マニラLRT-1線 "wikilink")
+  - [マニラ・ライトレール](../Page/マニラ・ライトレール.md "wikilink")[1号線](https://ja.wikipedia.org/wiki/マニラLRT-1線 "wikilink")
 
 ## 脚注
 
 ## 関連項目
 
   - [ERTMS](https://ja.wikipedia.org/wiki/ERTMS "wikilink")
-      - [ETCS](https://ja.wikipedia.org/wiki/ETCS "wikilink")
+      - [ETCS](../Page/ETCS.md "wikilink")
       - [GSM-R](https://ja.wikipedia.org/wiki/GSM-R "wikilink")
   - [自動列車保安装置](../Page/自動列車保安装置.md "wikilink")
   - [列車集中制御装置](../Page/列車集中制御装置.md "wikilink") (CTC)
   - [自動列車停止装置](../Page/自動列車停止装置.md "wikilink") (ATS)
   - [自動列車制御装置](../Page/自動列車制御装置.md "wikilink") (ATC)
   - [自動列車運転装置](../Page/自動列車運転装置.md "wikilink") (ATO)
-  - [定位置停止装置](https://ja.wikipedia.org/wiki/定位置停止装置 "wikilink") (TASC)
-  - [緊急列車防護装置](https://ja.wikipedia.org/wiki/緊急列車防護装置 "wikilink") (TE装置)
-  - [緊急列車停止装置](https://ja.wikipedia.org/wiki/緊急列車停止装置 "wikilink") (EB装置)
-  - [デッドマン装置](https://ja.wikipedia.org/wiki/デッドマン装置 "wikilink")
-  - [速度照査](https://ja.wikipedia.org/wiki/速度照査 "wikilink")
+  - [定位置停止装置](../Page/定位置停止装置.md "wikilink") (TASC)
+  - [緊急列車防護装置](../Page/緊急列車防護装置.md "wikilink") (TE装置)
+  - [緊急列車停止装置](../Page/緊急列車停止装置.md "wikilink") (EB装置)
+  - [デッドマン装置](../Page/デッドマン装置.md "wikilink")
+  - [速度照査](../Page/速度照査.md "wikilink")
   - [踏切](../Page/踏切.md "wikilink")
   - [信号保安](../Page/信号保安.md "wikilink")
   - [鉄道信号機](../Page/鉄道信号機.md "wikilink")

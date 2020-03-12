@@ -5,7 +5,7 @@
 
 ## 略歴
 
-[ニーダーエースターライヒ州](https://ja.wikipedia.org/wiki/ニーダーエースターライヒ州 "wikilink")[ノインキルヒェン](https://ja.wikipedia.org/wiki/ノインキルヒェン_\(ニーダーエスターライヒ州\) "wikilink")（[Neunkirchen](https://ja.wikipedia.org/wiki/:de:Neunkirchen_\(Niederösterreich\) "wikilink")）に生まれ、[ヴィンパッシング](https://ja.wikipedia.org/wiki/ヴィンパッシング "wikilink")（[Wimpassing](https://ja.wikipedia.org/wiki/:de:Wimpassing_im_Schwarzatale "wikilink")）で育った。[ウィーン音楽アカデミー](https://ja.wikipedia.org/wiki/ウィーン音楽アカデミー "wikilink")で[トランペット](../Page/トランペット.md "wikilink")と[作曲](../Page/作曲.md "wikilink")を学び、1992年頃から本格的に作曲活動を始める。2012年現在は[ウィーン](https://ja.wikipedia.org/wiki/ウィーン "wikilink")に在住し、[映画音楽](https://ja.wikipedia.org/wiki/映画音楽 "wikilink")や[ポップスの作曲など](../Page/ポピュラー音楽.md "wikilink")、精力的に活動を続けている。
+[ニーダーエースターライヒ州](https://ja.wikipedia.org/wiki/ニーダーエースターライヒ州 "wikilink")[ノインキルヒェン](https://ja.wikipedia.org/wiki/ノインキルヒェン_\(ニーダーエスターライヒ州\) "wikilink")（[Neunkirchen](https://ja.wikipedia.org/wiki/:de:Neunkirchen_\(Niederösterreich\) "wikilink")）に生まれ、[ヴィンパッシング](https://ja.wikipedia.org/wiki/ヴィンパッシング "wikilink")（[Wimpassing](https://ja.wikipedia.org/wiki/:de:Wimpassing_im_Schwarzatale "wikilink")）で育った。[ウィーン音楽アカデミー](https://ja.wikipedia.org/wiki/ウィーン音楽アカデミー "wikilink")で[トランペット](../Page/トランペット.md "wikilink")と[作曲](../Page/作曲.md "wikilink")を学び、1992年頃から本格的に作曲活動を始める。2012年現在は[ウィーン](https://ja.wikipedia.org/wiki/ウィーン "wikilink")に在住し、[映画音楽](../Page/映画音楽.md "wikilink")や[ポップスの作曲など](../Page/ポピュラー音楽.md "wikilink")、精力的に活動を続けている。
 
 ## 作品リスト
 
@@ -37,7 +37,7 @@
 <!-- end list -->
 
   -
-    [ローラーコースター](https://ja.wikipedia.org/wiki/ローラーコースター "wikilink")がモチーフのスピード感あふれる楽曲。[絶叫マシン](https://ja.wikipedia.org/wiki/絶叫マシン "wikilink")が題材のためか、曲中に悲鳴が挿入されているのが特徴。
+    [ローラーコースター](../Page/ローラーコースター.md "wikilink")がモチーフのスピード感あふれる楽曲。[絶叫マシン](../Page/絶叫マシン.md "wikilink")が題材のためか、曲中に悲鳴が挿入されているのが特徴。
 
 <!-- end list -->
 

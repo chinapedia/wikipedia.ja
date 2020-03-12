@@ -5,7 +5,7 @@
 
 ## 概要
 
-20歳前後の女性をターゲットとしており、『[JJ](https://ja.wikipedia.org/wiki/JJ_\(雑誌\) "wikilink")』『[CanCam](https://ja.wikipedia.org/wiki/CanCam "wikilink")』『[ViVi](../Page/ViVi.md "wikilink")』とともに[赤文字雑誌](https://ja.wikipedia.org/wiki/赤文字雑誌 "wikilink")の一角をなす。私立[短大](https://ja.wikipedia.org/wiki/短期大学 "wikilink")・[大学生](https://ja.wikipedia.org/wiki/大学生 "wikilink")または[アパレル](https://ja.wikipedia.org/wiki/アパレル "wikilink")等の比較的服装規定が緩いとされる[社会人](https://ja.wikipedia.org/wiki/社会人 "wikilink")をターゲット読者層にしている傾向がある。[フリルや](https://ja.wikipedia.org/wiki/フリル_\(服飾\) "wikilink")[レース](https://ja.wikipedia.org/wiki/レース_\(手芸\) "wikilink")、小花柄などの「カワイイ系」のアイテムを主流に『JJ』『CanCam』『ViVi』よりも安価な[ブランド](../Page/ブランド.md "wikilink")の服を紹介している。
+20歳前後の女性をターゲットとしており、『[JJ](../Page/JJ_\(雑誌\).md "wikilink")』『[CanCam](../Page/CanCam.md "wikilink")』『[ViVi](../Page/ViVi.md "wikilink")』とともに[赤文字雑誌](https://ja.wikipedia.org/wiki/赤文字雑誌 "wikilink")の一角をなす。私立[短大](../Page/短期大学.md "wikilink")・[大学生](https://ja.wikipedia.org/wiki/大学生 "wikilink")または[アパレル](https://ja.wikipedia.org/wiki/アパレル "wikilink")等の比較的服装規定が緩いとされる[社会人](https://ja.wikipedia.org/wiki/社会人 "wikilink")をターゲット読者層にしている傾向がある。[フリルや](https://ja.wikipedia.org/wiki/フリル_\(服飾\) "wikilink")[レース](../Page/レース_\(手芸\).md "wikilink")、小花柄などの「カワイイ系」のアイテムを主流に『JJ』『CanCam』『ViVi』よりも安価な[ブランド](../Page/ブランド.md "wikilink")の服を紹介している。
 
 2009年の日本雑誌協会による発表によると、発行部数は約21万部\[1\]。発行部数比較では、「赤文字」中、3 - 4位であることが多い\[2\]。
 
@@ -37,23 +37,23 @@
 **主な出身者**
 
   - [松田千奈](../Page/松田千奈.md "wikilink")
-  - [橋本麗香](https://ja.wikipedia.org/wiki/橋本麗香 "wikilink")
+  - [橋本麗香](../Page/橋本麗香.md "wikilink")
   - [菅原禄弥](../Page/菅原禄弥.md "wikilink")
   - [菊川怜](https://ja.wikipedia.org/wiki/菊川怜 "wikilink")
   - [山内麻美](../Page/山内麻美.md "wikilink")
-  - [松本莉緒](https://ja.wikipedia.org/wiki/松本莉緒 "wikilink")
+  - [松本莉緒](../Page/松本莉緒.md "wikilink")
   - [葛岡碧](../Page/葛岡碧.md "wikilink")
   - [葵](../Page/葵_\(女優\).md "wikilink")
-  - [酒井彩名](https://ja.wikipedia.org/wiki/酒井彩名 "wikilink")
+  - [酒井彩名](../Page/酒井彩名.md "wikilink")
   - [小泉梓](https://ja.wikipedia.org/wiki/小泉梓 "wikilink")
   - [宇井愛美](https://ja.wikipedia.org/wiki/宇井愛美 "wikilink")
   - [小林優美](../Page/小林優美_\(ファッションモデル\).md "wikilink")
   - [陸守絵麻](../Page/陸守絵麻.md "wikilink")
-  - [紺野ゆり](https://ja.wikipedia.org/wiki/紺野ゆり "wikilink")
+  - [紺野ゆり](../Page/紺野ゆり.md "wikilink")
   - [竹富聖花](https://ja.wikipedia.org/wiki/竹富聖花 "wikilink")
-  - [三浦葵](https://ja.wikipedia.org/wiki/三浦葵 "wikilink")
+  - [三浦葵](../Page/三浦葵.md "wikilink")
   - [香里奈](https://ja.wikipedia.org/wiki/香里奈 "wikilink")
-  - [遠藤瞳](https://ja.wikipedia.org/wiki/遠藤瞳 "wikilink")
+  - [遠藤瞳](../Page/遠藤瞳.md "wikilink")
   - [森絵梨佳](../Page/森絵梨佳.md "wikilink")
   - [今井りか](../Page/今井りか.md "wikilink")
   - [泉里香](../Page/泉里香.md "wikilink")
@@ -89,7 +89,7 @@
   - [井口綾子](https://ja.wikipedia.org/wiki/井口綾子 "wikilink")
   - [八木麻衣子](https://ja.wikipedia.org/wiki/八木麻衣子 "wikilink")
   - [鷲尾春果](../Page/鷲尾春果.md "wikilink")
-  - [小川恵理子](https://ja.wikipedia.org/wiki/小川恵理子 "wikilink")
+  - [小川恵理子](../Page/小川恵理子.md "wikilink")
   - [伊藤友里](../Page/伊藤友里.md "wikilink")
   - [川本彩](https://ja.wikipedia.org/wiki/川本彩 "wikilink")
   - [大西真美](https://ja.wikipedia.org/wiki/大西真美 "wikilink")
@@ -716,7 +716,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/香里奈" title="wikilink">香里奈</a><br />
 <a href="../Page/今井りか.md" title="wikilink">今井りか</a><br />
 <a href="../Page/泉里香.md" title="wikilink">泉里香</a><br />
-<a href="https://ja.wikipedia.org/wiki/三浦葵" title="wikilink">三浦葵</a><br />
+<a href="../Page/三浦葵.md" title="wikilink">三浦葵</a><br />
 <a href="../Page/美優.md" title="wikilink">美優</a></p></td>
 <td><p>香里奈<br />
 今井<br />

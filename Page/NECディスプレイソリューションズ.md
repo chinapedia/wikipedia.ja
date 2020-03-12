@@ -14,8 +14,8 @@
 ## 沿革
 
   - [2000年](../Page/2000年.md "wikilink")[1月18日](../Page/1月18日.md "wikilink") - **NEC三菱電機ビジュアルシステムズ株式会社**(略称：NMV)設立。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月31日](../Page/3月31日.md "wikilink") - [三菱電機](../Page/三菱電機.md "wikilink")との合弁を解消。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月1日](../Page/4月1日.md "wikilink") - NECの100%子会社としてNECディスプレイソリューションズ株式会社（初代）に社名変更。
+  - [2005年](../Page/2005年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink") - [三菱電機](../Page/三菱電機.md "wikilink")との合弁を解消。
+  - [2005年](../Page/2005年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink") - NECの100%子会社としてNECディスプレイソリューションズ株式会社（初代）に社名変更。
   - [2007年](../Page/2007年.md "wikilink")4月1日 - NECビューテクノロジー株式会社(略称：NVT)が旧NDSを吸収合併し、NECディスプレイソリューションズ株式会社（2代目）となる。
 
 ## 事業所

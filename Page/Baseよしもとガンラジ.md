@@ -1,7 +1,7 @@
 > この記事は[Base](https://ja.wikipedia.org/wiki/Base)から翻訳されています。
 
 
-**baseよしもとガンラジ**は、[ラジオ大阪の番組である](../Page/大阪放送.md "wikilink")（製作は[アイ・ティ・エス](https://ja.wikipedia.org/wiki/アイ・ティ・エス "wikilink")）。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで放送。
+**baseよしもとガンラジ**は、[ラジオ大阪の番組である](../Page/大阪放送.md "wikilink")（製作は[アイ・ティ・エス](../Page/アイ・ティ・エス.md "wikilink")）。[2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで放送。
 
 ## 放送時間
 
@@ -31,17 +31,17 @@
 <tbody>
 <tr class="odd">
 <td><p>2006年4月3日 - 2007年3月30日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中山功太" title="wikilink">中山功太</a><br />
-<a href="https://ja.wikipedia.org/wiki/ネゴシックス" title="wikilink">ネゴシックス</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NON_STYLE" title="wikilink">NON STYLE</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アジアン" title="wikilink">アジアン</a></p></td>
+<td><p><a href="../Page/中山功太.md" title="wikilink">中山功太</a><br />
+<a href="../Page/ネゴシックス.md" title="wikilink">ネゴシックス</a></p></td>
+<td><p><a href="../Page/NON_STYLE.md" title="wikilink">NON STYLE</a></p></td>
+<td><p><a href="../Page/アジアン.md" title="wikilink">アジアン</a></p></td>
 <td><p><a href="../Page/ストリーク.md" title="wikilink">ストリーク</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2007年4月2日 - 2008年3月27日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中山功太" title="wikilink">中山功太</a><br />
+<td><p><a href="../Page/中山功太.md" title="wikilink">中山功太</a><br />
 <a href="https://ja.wikipedia.org/wiki/天津_(お笑い)" title="wikilink">天津</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スマイル_(お笑いコンビ)" title="wikilink">スマイル</a></p></td>
+<td><p><a href="../Page/スマイル_(お笑いコンビ).md" title="wikilink">スマイル</a></p></td>
 <td></td>
 <td></td>
 </tr>

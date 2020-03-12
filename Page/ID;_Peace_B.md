@@ -5,28 +5,28 @@
 
 ## 概要
 
-当時から[H.O.T.](https://ja.wikipedia.org/wiki/H.O.T. "wikilink")や[神話](https://ja.wikipedia.org/wiki/神話_\(音楽グループ\) "wikilink")・[FLY TO THE SKY](https://ja.wikipedia.org/wiki/フライ・トゥ・ザ・スカイ "wikilink")・[S.E.S.](https://ja.wikipedia.org/wiki/S.E.S. "wikilink")らの人気[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")が多数所属する韓国随一の芸能事務所であった[SMエンターテインメント](https://ja.wikipedia.org/wiki/SMエンターテインメント "wikilink")が、BoAを11歳の頃より育成し満を持してデビューを企画、[2000年](../Page/2000年.md "wikilink")[8月26日](../Page/8月26日.md "wikilink")に、デビューアルバムとして発売された。
+当時から[H.O.T.](../Page/H.O.T..md "wikilink")や[神話](../Page/神話_\(音楽グループ\).md "wikilink")・[FLY TO THE SKY](../Page/フライ・トゥ・ザ・スカイ.md "wikilink")・[S.E.S.](../Page/S.E.S..md "wikilink")らの人気[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")が多数所属する韓国随一の芸能事務所であった[SMエンターテインメント](../Page/SMエンターテインメント.md "wikilink")が、BoAを11歳の頃より育成し満を持してデビューを企画、[2000年](../Page/2000年.md "wikilink")[8月26日](../Page/8月26日.md "wikilink")に、デビューアルバムとして発売された。
 
 全12曲を収録した他、巻末に豊富なボーナスデータが収録されており、公式[サイトへの自動接続機能を有するなど](../Page/ウェブサイト.md "wikilink")、一般の音響機器による再生よりも、むしろ[パソコンによって再生ないし閲覧されることを意識して製作されている](../Page/パーソナルコンピュータ.md "wikilink")。
 
-[R\&Bやダンスチューンを配したこのアルバムは](../Page/リズム・アンド・ブルース.md "wikilink")、映画『[シュリ](https://ja.wikipedia.org/wiki/シュリ "wikilink")』の[カン・ジェギュ](https://ja.wikipedia.org/wiki/カン・ジェギュ "wikilink")監督に撮影された[PVによってプロモーション展開され](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")、各種[チャート](https://ja.wikipedia.org/wiki/チャート "wikilink")でのトップ10入りを果たした。
+[R\&Bやダンスチューンを配したこのアルバムは](../Page/リズム・アンド・ブルース.md "wikilink")、映画『[シュリ](../Page/シュリ.md "wikilink")』の[カン・ジェギュ](../Page/カン・ジェギュ.md "wikilink")監督に撮影された[PVによってプロモーション展開され](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")、各種[チャート](https://ja.wikipedia.org/wiki/チャート "wikilink")でのトップ10入りを果たした。
 
-  - 2000年9月13日-[2001年](../Page/2001年.md "wikilink")12月31日にかけての韓国3大[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")の一角[SBS（ソウル放送）の歌番組](https://ja.wikipedia.org/wiki/ソウル放送 "wikilink")「<span lang="ko">생방송 인기가요 20</span>（生放送 人気歌謡20）」におけるレギュラー[VJへの起用](https://ja.wikipedia.org/wiki/ビデオジョッキー "wikilink")
+  - 2000年9月13日-[2001年](../Page/2001年.md "wikilink")12月31日にかけての韓国3大[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")の一角[SBS（ソウル放送）の歌番組](https://ja.wikipedia.org/wiki/ソウル放送 "wikilink")「<span lang="ko">생방송 인기가요 20</span>（生放送 人気歌謡20）」におけるレギュラー[VJへの起用](../Page/ビデオジョッキー.md "wikilink")
   - 2000年11月24日に音楽情報専門チャンネル「[m-net](https://ja.wikipedia.org/wiki/m-net "wikilink")」の「2000 M.net Music Video Festival」 における「女性新人賞」受賞
   - 2000年12月13日は[KMTV](https://ja.wikipedia.org/wiki/KMTV "wikilink")の 「2000 KMTV 歌謡大典」における「今年の女性新人賞」受賞
-  - 2000年10月-2001年3月においては、多数の[CMモデル契約を行った](https://ja.wikipedia.org/wiki/コマーシャルメッセージ "wikilink")。
-  - 2000年12月10日の公式[ファンクラブ](https://ja.wikipedia.org/wiki/ファンクラブ "wikilink")「[JumpingBoA](https://ja.wikipedia.org/wiki/JumpingBoA "wikilink")」の第1期創立
+  - 2000年10月-2001年3月においては、多数の[CMモデル契約を行った](../Page/コマーシャルメッセージ.md "wikilink")。
+  - 2000年12月10日の公式[ファンクラブ](../Page/ファンクラブ.md "wikilink")「[JumpingBoA](https://ja.wikipedia.org/wiki/JumpingBoA "wikilink")」の第1期創立
 
-などをもたらし、また翌[2001年](../Page/2001年.md "wikilink")3月には海外進出志向の1.5集スペシャルアルバム「[Jumping into the World](https://ja.wikipedia.org/wiki/Don't_start_now_-_Jumping_into_the_World "wikilink")」の早々のリリースを導いて、念願の海外進出を果たす原動力となった。
+などをもたらし、また翌[2001年](../Page/2001年.md "wikilink")3月には海外進出志向の1.5集スペシャルアルバム「[Jumping into the World](../Page/Don't_start_now_-_Jumping_into_the_World.md "wikilink")」の早々のリリースを導いて、念願の海外進出を果たす原動力となった。
 
 ## 代表曲
 
-タイトル曲である「**[ID; Peace B](https://ja.wikipedia.org/wiki/ID;_Peace_B_\(曲\) "wikilink")**」が[日本語](../Page/日本語.md "wikilink")版で製作され、日本におけるデビューシングルとなったほか、当アルバムに収録されている「<span lang="ko">먼 훗날 우리</span>（モン フンナル ウリ） - **''Someday Somewhere**''」についても日本語版が製作され、「[Amazing Kiss](https://ja.wikipedia.org/wiki/Amazing_Kiss "wikilink")」のカップリング曲となって、日本におけるセカンドシングルとして発売されたが、韓国国内で話題となった「**Sara**」は、日本での活動においては取り上げられなかった。
+タイトル曲である「**[ID; Peace B](../Page/ID;_Peace_B_\(曲\).md "wikilink")**」が[日本語](../Page/日本語.md "wikilink")版で製作され、日本におけるデビューシングルとなったほか、当アルバムに収録されている「<span lang="ko">먼 훗날 우리</span>（モン フンナル ウリ） - **''Someday Somewhere**''」についても日本語版が製作され、「[Amazing Kiss](../Page/Amazing_Kiss.md "wikilink")」のカップリング曲となって、日本におけるセカンドシングルとして発売されたが、韓国国内で話題となった「**Sara**」は、日本での活動においては取り上げられなかった。
 
 ## 収録曲
 
-1.  　**[ID; Peace B](https://ja.wikipedia.org/wiki/ID;_Peace_B_\(曲\) "wikilink")**
-      - [作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink") ： [ユ・ヨンジン](https://ja.wikipedia.org/wiki/ユ・ヨンジン "wikilink")（ユ・ヨンジン）。
+1.  　**[ID; Peace B](../Page/ID;_Peace_B_\(曲\).md "wikilink")**
+      - [作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink") ： [ユ・ヨンジン](https://ja.wikipedia.org/wiki/ユ・ヨンジン "wikilink")（ユ・ヨンジン）。
     <!-- end list -->
       -
         *ID; Peace B* は、曲中の主人公が「ピースB」と称するネットワーク[ID](../Page/ID.md "wikilink")。
@@ -115,7 +115,7 @@
 ## その他
 
   - 当アルバムの発売日は[2000年](../Page/2000年.md "wikilink")[8月26日](../Page/8月26日.md "wikilink")であるとする説と、一日早い2000年[8月25日](../Page/8月25日.md "wikilink")であるとする説の2説がある。
-  - 当アルバムは日本での成功の原動力となり、その日本での評判の噂が逆輸入され、相乗効果を生んで「“[韓民族の優秀性](../Page/朝鮮民族.md "wikilink")”を示し、日本征伐に成功した」（韓国の3大新聞[中央日報](https://ja.wikipedia.org/wiki/中央日報 "wikilink")の見出）…2集『**[No.1](https://ja.wikipedia.org/wiki/No.1_\(BoAのアルバム\) "wikilink")**』の50万枚超の大セールスを生み、その後の日韓両国における万全の地位を築くにいたった原点であるとされている。
+  - 当アルバムは日本での成功の原動力となり、その日本での評判の噂が逆輸入され、相乗効果を生んで「“[韓民族の優秀性](../Page/朝鮮民族.md "wikilink")”を示し、日本征伐に成功した」（韓国の3大新聞[中央日報](../Page/中央日報.md "wikilink")の見出）…2集『**[No.1](../Page/No.1_\(BoAのアルバム\).md "wikilink")**』の50万枚超の大セールスを生み、その後の日韓両国における万全の地位を築くにいたった原点であるとされている。
 
 ## 外部リンク
 

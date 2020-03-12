@@ -3,7 +3,7 @@
 
 **Openmoko**とはハードウェア仕様やオペレーティングシステムを含む[オープンソース](../Page/オープンソース.md "wikilink")[携帯電話](../Page/携帯電話.md "wikilink")を製作するプロジェクトである\[1\]。Openmoko Inc.が推進している。
 
-最初のサブプロジェクトは[Openmoko Linuxという](https://ja.wikipedia.org/wiki/Openmoko_Linux "wikilink")[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")を使用した[Linux](https://ja.wikipedia.org/wiki/Linux "wikilink")ベースの携帯電話オペレーティングシステムである。
+最初のサブプロジェクトは[Openmoko Linuxという](https://ja.wikipedia.org/wiki/Openmoko_Linux "wikilink")[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")を使用した[Linux](../Page/Linux.md "wikilink")ベースの携帯電話オペレーティングシステムである。
 
 次のサブプロジェクトはOpenmoko Linuxで動作するハードウェア端末の開発で最初に発売された端末は[Neo 1973で](https://ja.wikipedia.org/wiki/Neo_1973 "wikilink")\[2\]</ref>\[3\]、その後2008年6月25日に後継機種である[Neo FreeRunnerを発売した](https://ja.wikipedia.org/wiki/Neo_FreeRunner "wikilink")\[4\]。他の殆どの携帯電話プラットフォームと異なり、エンドユーザーがオペレーティングシステムやソフトウェアスタックを修正できるように設計されており、他にも[Openmoko対応携帯電話](http://wiki.openmoko.org/wiki/OpenMoko-supported_hardware)がある。
 
@@ -19,9 +19,9 @@
 
 ## ソフトウェア
 
-最初にOpenmoko Inc.が開発したのは**[Openmoko Linux](https://ja.wikipedia.org/wiki/Openmoko_Linux "wikilink")**もしくは**Om**という携帯電話オペレーティングシステムである。これは[X.Org Serverで構築した](https://ja.wikipedia.org/wiki/X.Org_Server "wikilink")[グラフィカルユーザインタフェース](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")と[Linuxカーネル](../Page/Linuxカーネル.md "wikilink")が使用されている。また、[OpenEmbedded](https://ja.wikipedia.org/wiki/OpenEmbedded "wikilink")で構築されたフレームワークと[opkg](https://ja.wikipedia.org/wiki/opkg "wikilink")パッケージシステムを使って[パッケージソフトウェア](../Page/パッケージソフトウェア.md "wikilink")を作成しメンテナンスする。**Om 2007**バージョンでは[GTK+](https://ja.wikipedia.org/wiki/GTK+ "wikilink")ツールキットと[Matchbox](https://ja.wikipedia.org/wiki/Matchbox "wikilink")ウインドウマネージャが使われている。2008年8月リリースの**Om 2008**では[Qt](https://ja.wikipedia.org/wiki/Qt "wikilink")ツールキットと[Enlightenment](https://ja.wikipedia.org/wiki/Enlightenment "wikilink") 17をサポートしたが、両バージョンとも安定するほどに至る改善にはならなかった。その結果、Openmokoは自身が出資したfreesmartphone.orgの[ミドルウェア](https://ja.wikipedia.org/wiki/ミドルウェア "wikilink")をベースにした安定環境を提供することを目標に**Om 2009**の開発を始めた。しかし、このバージョンは完成すること無く2009年4月にOpenmokoによるソフトウェア開発は中止となった。
+最初にOpenmoko Inc.が開発したのは**[Openmoko Linux](https://ja.wikipedia.org/wiki/Openmoko_Linux "wikilink")**もしくは**Om**という携帯電話オペレーティングシステムである。これは[X.Org Serverで構築した](../Page/X.Org_Server.md "wikilink")[グラフィカルユーザインタフェース](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")と[Linuxカーネル](../Page/Linuxカーネル.md "wikilink")が使用されている。また、[OpenEmbedded](https://ja.wikipedia.org/wiki/OpenEmbedded "wikilink")で構築されたフレームワークと[opkg](https://ja.wikipedia.org/wiki/opkg "wikilink")パッケージシステムを使って[パッケージソフトウェア](../Page/パッケージソフトウェア.md "wikilink")を作成しメンテナンスする。**Om 2007**バージョンでは[GTK+](https://ja.wikipedia.org/wiki/GTK+ "wikilink")ツールキットと[Matchbox](https://ja.wikipedia.org/wiki/Matchbox "wikilink")ウインドウマネージャが使われている。2008年8月リリースの**Om 2008**では[Qt](../Page/Qt.md "wikilink")ツールキットと[Enlightenment](https://ja.wikipedia.org/wiki/Enlightenment "wikilink") 17をサポートしたが、両バージョンとも安定するほどに至る改善にはならなかった。その結果、Openmokoは自身が出資したfreesmartphone.orgの[ミドルウェア](../Page/ミドルウェア.md "wikilink")をベースにした安定環境を提供することを目標に**Om 2009**の開発を始めた。しかし、このバージョンは完成すること無く2009年4月にOpenmokoによるソフトウェア開発は中止となった。
 
-それでもこの作業はいくつかのコミュニティによって受け継がれた。数グループがオリジナルソフトの修正バージョンを開発したり、携帯電話で動く他のシステムに[移植されていった](https://ja.wikipedia.org/wiki/移植_\(ソフトウェア\) "wikilink")。Openmokoの携帯電話は現在[Android](https://ja.wikipedia.org/wiki/Android "wikilink")や[Debian](../Page/Debian.md "wikilink")、[Gentoo](../Page/Gentoo_Linux.md "wikilink")、QtMoko、[SHRに対応している](https://ja.wikipedia.org/wiki/SHR_\(オペレーティングシステム\) "wikilink")。
+それでもこの作業はいくつかのコミュニティによって受け継がれた。数グループがオリジナルソフトの修正バージョンを開発したり、携帯電話で動く他のシステムに[移植されていった](../Page/移植_\(ソフトウェア\).md "wikilink")。Openmokoの携帯電話は現在[Android](../Page/Android.md "wikilink")や[Debian](../Page/Debian.md "wikilink")、[Gentoo](../Page/Gentoo_Linux.md "wikilink")、QtMoko、[SHRに対応している](https://ja.wikipedia.org/wiki/SHR_\(オペレーティングシステム\) "wikilink")。
 
 ## Openmoko Incのハードウェア
 
@@ -35,11 +35,11 @@ GTA01のデザインをベースにした2つめのハードウェアは[Dash Ex
 
 [Neo 1973](https://ja.wikipedia.org/wiki/Neo_1973 "wikilink")（コードネーム:GTA01）は開発者のみにリリースされた。900 MHz、1800 MHz、1900 MHzのに対応している。ゲームやユーティリティを含めた[デスクトップやサーバープラットフォームで動く多くのLinuxとUNIXのプログラムをこのスマートフォンで動作させることに成功した](../Page/デスクトップパソコン.md "wikilink")。加えて、Linux、[NetBSD](../Page/NetBSD.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")、[L4カーネルがユーザーによる開発の元で動作している](../Page/L4マイクロカーネルファミリー.md "wikilink")。
 
-このハードウェアプラットフォームでは[QEMU](https://ja.wikipedia.org/wiki/QEMU "wikilink")を使用することで[Openmoko software suiteを含むソフトウェアを高レベルの互換性でエミュレートできる](https://ja.wikipedia.org/wiki/Openmoko_Linux "wikilink")。
+このハードウェアプラットフォームでは[QEMU](../Page/QEMU.md "wikilink")を使用することで[Openmoko software suiteを含むソフトウェアを高レベルの互換性でエミュレートできる](https://ja.wikipedia.org/wiki/Openmoko_Linux "wikilink")。
 
 ### Neo FreeRunner
 
-Neo FreeRunner（コードネーム:GTA02）はNeo 1973の新バージョンであり、より速いプロセッサ（400MHzクロック）、802.11b/g Wi-Fi、2つの[加速度計](https://ja.wikipedia.org/wiki/加速度計 "wikilink")、3Dグラフィックアクセラレータが搭載された。2008年6月25日に一般市場向けに発売された\[11\]。
+Neo FreeRunner（コードネーム:GTA02）はNeo 1973の新バージョンであり、より速いプロセッサ（400MHzクロック）、802.11b/g Wi-Fi、2つの[加速度計](../Page/加速度計.md "wikilink")、3Dグラフィックアクセラレータが搭載された。2008年6月25日に一般市場向けに発売された\[11\]。
 
 ### Dash Express
 
@@ -85,13 +85,13 @@ Golden Delicious GTA04 boardはNeo FreeRunnerに内蔵されているGTA02 board
 
 ## 関連項目
 
-  - [Android](https://ja.wikipedia.org/wiki/Android "wikilink")
+  - [Android](../Page/Android.md "wikilink")
   - [LiMo Foundation](https://ja.wikipedia.org/wiki/LiMo_Foundation "wikilink")
   - [Linux Phone Standards Forum](https://ja.wikipedia.org/wiki/Linux_Phone_Standards_Forum "wikilink")
   - [Maemo](https://ja.wikipedia.org/wiki/Maemo "wikilink")
   - [MeeGo](https://ja.wikipedia.org/wiki/MeeGo "wikilink")
   - [Mobilinux](https://ja.wikipedia.org/wiki/Mobilinux "wikilink")
-  - [オープン・ハンドセット・アライアンス](https://ja.wikipedia.org/wiki/オープン・ハンドセット・アライアンス "wikilink")
+  - [オープン・ハンドセット・アライアンス](../Page/オープン・ハンドセット・アライアンス.md "wikilink")
   - [オープン・モバイル・アライアンス](https://ja.wikipedia.org/wiki/オープン・モバイル・アライアンス "wikilink")
   - [OpenBTS](https://ja.wikipedia.org/wiki/OpenBTS "wikilink")
   - [SHR (Stable Hybrid Release)](https://ja.wikipedia.org/wiki/SHR_\(オペレーティングシステム\) "wikilink")

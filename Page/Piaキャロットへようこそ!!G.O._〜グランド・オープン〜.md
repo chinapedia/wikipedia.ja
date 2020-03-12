@@ -6,8 +6,8 @@
 ## 歴史
 
   - Piaキャロットへようこそ\!\!G.O. 〜グランド・オープン〜
-    [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")2月3日、初回限定版発売。同梱特典が異なる3バージョンが存在する。
-      - スイーツパック - OP曲のフルバージョンとED曲、「[Go\!Go\!ウェイトレス](../Page/Go!Go!ウェイトレス.md "wikilink")」の[YURIA](https://ja.wikipedia.org/wiki/YURIA "wikilink")バージョンを収録したマキシシングルが付属。
+    [2006年](../Page/2006年.md "wikilink")2月3日、初回限定版発売。同梱特典が異なる3バージョンが存在する。
+      - スイーツパック - OP曲のフルバージョンとED曲、「[Go\!Go\!ウェイトレス](../Page/Go!Go!ウェイトレス.md "wikilink")」の[YURIA](../Page/YURIA.md "wikilink")バージョンを収録したマキシシングルが付属。
       - ブランチパック - ドラマCDが付属。
       - ランチボックス - F\&Cのファンクラブ会員向け通販限定。
     2006年6月30日、スタンダード版発売。
@@ -49,17 +49,17 @@
       - うらわ（香苗・さな・瑞希・澄光）（FC01所属）
       - 宮村優（美森・燕・美湖）（FC01所属）
   - 原画・キャラクターデザイン
-      - [フミオ](https://ja.wikipedia.org/wiki/フミオ "wikilink")（あやの・美森・美湖、パッケージイラスト）
+      - [フミオ](../Page/フミオ.md "wikilink")（あやの・美森・美湖、パッケージイラスト）
       - [村上水軍](https://ja.wikipedia.org/wiki/村上水軍_\(イラストレーター\) "wikilink")（香苗・さな・瑞希）
-      - [きみづか葵](https://ja.wikipedia.org/wiki/きみづか葵 "wikilink")（千尋・かずみ・トキ子）
+      - [きみづか葵](../Page/きみづか葵.md "wikilink")（千尋・かずみ・トキ子）
       - [水瀬凛](https://ja.wikipedia.org/wiki/水瀬凛 "wikilink")（みさき・小春・文華・澄光）
       - [ひなた睦月](https://ja.wikipedia.org/wiki/ひなた睦月 "wikilink")（留美・燕）
   - 制服デザイン：[コゲどんぼ](../Page/こげどんぼ*.md "wikilink")（[ブロッコリー](../Page/ブロッコリー_\(企業\).md "wikilink")）
   - 音楽：[DOORS MUSIC ENTERTAINMENT](../Page/DOORS_MUSIC_ENTERTAINMENT.md "wikilink")
       - OP曲：**スマイル0円 〜Go\!Go\!ウェイトレス2〜**
-          - 作詞：[かなすぎはじめ](https://ja.wikipedia.org/wiki/金杉はじめ "wikilink") / 作曲：[小池雅也](https://ja.wikipedia.org/wiki/小池雅也 "wikilink") / ボーカル：[スイーツ探検隊](https://ja.wikipedia.org/wiki/スイーツ探検隊 "wikilink")×LOVE
+          - 作詞：[かなすぎはじめ](https://ja.wikipedia.org/wiki/金杉はじめ "wikilink") / 作曲：[小池雅也](../Page/小池雅也.md "wikilink") / ボーカル：[スイーツ探検隊](https://ja.wikipedia.org/wiki/スイーツ探検隊 "wikilink")×LOVE
       - ED曲：**Summer Days 〜これからもずっと〜**
-          - 作詞：[新堂真弓](https://ja.wikipedia.org/wiki/新堂真弓 "wikilink") / 作曲：[小池雅也](https://ja.wikipedia.org/wiki/小池雅也 "wikilink") / ボーカル：スイーツ探検隊(YURIA)
+          - 作詞：[新堂真弓](../Page/新堂真弓.md "wikilink") / 作曲：[小池雅也](../Page/小池雅也.md "wikilink") / ボーカル：スイーツ探検隊(YURIA)
 
 ## ぴあきゃろG.O. TOYBOX 〜サマーフェア〜
 
@@ -82,8 +82,8 @@
   - スタッフ
     基本的なスタッフはG.O.本編と共通。以下では本作独自の部分について述べる。
       - シナリオ：稲村竜一、草薙こうたろう
-      - 壁紙イラスト：[橋本タカシ](https://ja.wikipedia.org/wiki/橋本タカシ "wikilink")、[鈴平ひろ](https://ja.wikipedia.org/wiki/鈴平ひろ "wikilink")、蓮見江蘭、藤宮博也、さとPON、田中松太郎、あかざわRED、なまにくATK、ひだかすずね、香月☆一、[たにはらなつき](https://ja.wikipedia.org/wiki/たにはらなつき "wikilink")、みつまむ
-      - OP曲ボーカル：[み〜こ](https://ja.wikipedia.org/wiki/み〜こ "wikilink")([MOSAIC.WAV](https://ja.wikipedia.org/wiki/MOSAIC.WAV "wikilink"))
+      - 壁紙イラスト：[橋本タカシ](../Page/橋本タカシ.md "wikilink")、[鈴平ひろ](https://ja.wikipedia.org/wiki/鈴平ひろ "wikilink")、蓮見江蘭、藤宮博也、さとPON、田中松太郎、あかざわRED、なまにくATK、ひだかすずね、香月☆一、[たにはらなつき](../Page/たにはらなつき.md "wikilink")、みつまむ
+      - OP曲ボーカル：[み〜こ](../Page/み〜こ.md "wikilink")([MOSAIC.WAV](../Page/MOSAIC.WAV.md "wikilink"))
 
 ## ぴあ雀
 
@@ -99,7 +99,7 @@
 
   - スタッフ
 
-:\* キャラクター原案：[フミオ](https://ja.wikipedia.org/wiki/フミオ "wikilink")、[ひなた睦月](https://ja.wikipedia.org/wiki/ひなた睦月 "wikilink")、[きみづか葵](https://ja.wikipedia.org/wiki/きみづか葵 "wikilink")、[村上水軍](https://ja.wikipedia.org/wiki/村上水軍 "wikilink")、[水瀬凛](https://ja.wikipedia.org/wiki/水瀬凛 "wikilink")
+:\* キャラクター原案：[フミオ](../Page/フミオ.md "wikilink")、[ひなた睦月](https://ja.wikipedia.org/wiki/ひなた睦月 "wikilink")、[きみづか葵](../Page/きみづか葵.md "wikilink")、[村上水軍](../Page/村上水軍.md "wikilink")、[水瀬凛](https://ja.wikipedia.org/wiki/水瀬凛 "wikilink")
 
 ## ぴあきゃろG.O. TOYBOX2 〜スプリングフェア〜
 
@@ -117,19 +117,19 @@
   - 澄光の占い部屋
   - Piaスロットへようこそ\!\!G.O.
 
-また、本作と『ぴあきゃろG.O. TOYBOX 〜サマーフェア〜』の購入で『[Pia♥キャロットへようこそ\!\!](https://ja.wikipedia.org/wiki/Piaキャロットへようこそ!! "wikilink")』の[Vista対応版がプレゼントされるキャンペーンも行われた](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink")。
+また、本作と『ぴあきゃろG.O. TOYBOX 〜サマーフェア〜』の購入で『[Pia♥キャロットへようこそ\!\!](../Page/Piaキャロットへようこそ!!.md "wikilink")』の[Vista対応版がプレゼントされるキャンペーンも行われた](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink")。
 
   - スタッフ
     基本的なスタッフはG.O.本編と共通。以下では本作独自の部分について述べる。
       - シナリオ：稲村竜一、草薙こうたろう、うらわ
-      - 壁紙イラスト：[ひなた睦月](https://ja.wikipedia.org/wiki/ひなた睦月 "wikilink")、満月○、[きみづか葵](https://ja.wikipedia.org/wiki/きみづか葵 "wikilink")、[水瀬凛](https://ja.wikipedia.org/wiki/水瀬凛 "wikilink")、[村上水軍](https://ja.wikipedia.org/wiki/村上水軍_\(イラストレーター\) "wikilink")、[フミオ](https://ja.wikipedia.org/wiki/フミオ "wikilink")、[七瀬葵](https://ja.wikipedia.org/wiki/七瀬葵 "wikilink")、[みさくらなんこつ](https://ja.wikipedia.org/wiki/みさくらなんこつ "wikilink")、[涼香](https://ja.wikipedia.org/wiki/涼香 "wikilink")、すまき俊悟、萩原音泉、[秋蕎麦](https://ja.wikipedia.org/wiki/秋蕎麦 "wikilink")、彼ノ矢大輔、鳴海、山岡治朗、[光星](https://ja.wikipedia.org/wiki/光星 "wikilink")、丸ちゃん。
+      - 壁紙イラスト：[ひなた睦月](https://ja.wikipedia.org/wiki/ひなた睦月 "wikilink")、満月○、[きみづか葵](../Page/きみづか葵.md "wikilink")、[水瀬凛](https://ja.wikipedia.org/wiki/水瀬凛 "wikilink")、[村上水軍](https://ja.wikipedia.org/wiki/村上水軍_\(イラストレーター\) "wikilink")、[フミオ](../Page/フミオ.md "wikilink")、[七瀬葵](../Page/七瀬葵.md "wikilink")、[みさくらなんこつ](https://ja.wikipedia.org/wiki/みさくらなんこつ "wikilink")、[涼香](https://ja.wikipedia.org/wiki/涼香 "wikilink")、すまき俊悟、萩原音泉、[秋蕎麦](https://ja.wikipedia.org/wiki/秋蕎麦 "wikilink")、彼ノ矢大輔、鳴海、山岡治朗、[光星](https://ja.wikipedia.org/wiki/光星 "wikilink")、丸ちゃん。
 
 ## 関連商品
 
   - 漫画
     コンプティーク2005年8月号-2006年11月号に『**Pia♥キャロットへようこそ\!\!G.O. 〜グランド・オープン5号店〜**』のタイトルで連載、シナリオD、[さとPON](https://ja.wikipedia.org/wiki/さとPON "wikilink")作画。制服のデザインがあがっていなかったことから連載当初はぱろぱろを使用していた。
   - 小説
-    『**Pia♥キャロットへようこそ\!\!G.O. A-Girl Diary**』が[電撃G's magazine](https://ja.wikipedia.org/wiki/電撃G's_magazine "wikilink")2005年11月号 - 2006年5月号にかけて連載。ででん作、[ひなた睦月](https://ja.wikipedia.org/wiki/ひなた睦月 "wikilink")イラスト。
+    『**Pia♥キャロットへようこそ\!\!G.O. A-Girl Diary**』が[電撃G's magazine](../Page/電撃G's_magazine.md "wikilink")2005年11月号 - 2006年5月号にかけて連載。ででん作、[ひなた睦月](https://ja.wikipedia.org/wiki/ひなた睦月 "wikilink")イラスト。
     留美がオタク趣味で周囲を振り回しつつ、本店マネージャーから5号店店長へと成長していくさまを描く。
     小説オリジナルヒロインとして、新人ウェイトレスの「小日向きりり」が登場する。
   - パチスロ
@@ -141,7 +141,7 @@
 
 ## 参考文献
 
-  - 『[電撃G's magazine](https://ja.wikipedia.org/wiki/電撃G's_magazine "wikilink")』[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")
+  - 『[電撃G's magazine](../Page/電撃G's_magazine.md "wikilink")』[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")
       -
       -
 ## 外部リンク

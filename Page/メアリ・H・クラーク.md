@@ -1,29 +1,29 @@
 > この記事は[H](https://ja.wikipedia.org/wiki/H)から翻訳されています。
 
 
-**メアリ・ヒギンズ・クラーク**（, [1927年](../Page/1927年.md "wikilink")[12月24日](../Page/12月24日.md "wikilink")\[1\] - [2020年](../Page/2020年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink")\[2\]\[3\]）は、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")在住の[小説家](../Page/小説家.md "wikilink")。「[サスペンス](https://ja.wikipedia.org/wiki/サスペンス "wikilink")の女王」として知られる\[4\]。
+**メアリ・ヒギンズ・クラーク**（, [1927年](../Page/1927年.md "wikilink")[12月24日](../Page/12月24日.md "wikilink")\[1\] - [2020年](../Page/2020年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink")\[2\]\[3\]）は、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ニューヨーク](../Page/ニューヨーク.md "wikilink")在住の[小説家](../Page/小説家.md "wikilink")。「[サスペンス](../Page/サスペンス.md "wikilink")の女王」として知られる\[4\]。
 
 ## 生涯
 
-ニューヨークで、[アイルランド系の家庭に生まれた](https://ja.wikipedia.org/wiki/アイルランド系アメリカ人 "wikilink")\[5\]。11歳で父親と死別し、家計を助けるため15歳から働き始める\[6\]。[秘書](https://ja.wikipedia.org/wiki/秘書 "wikilink")や[スチュワーデス](https://ja.wikipedia.org/wiki/スチュワーデス "wikilink")として働いた後、結婚を機会に執筆の道に入る。[キャロル・H・クラーク](https://ja.wikipedia.org/wiki/キャロル・H・クラーク "wikilink")は実の娘\[7\]。
+ニューヨークで、[アイルランド系の家庭に生まれた](../Page/アイルランド系アメリカ人.md "wikilink")\[5\]。11歳で父親と死別し、家計を助けるため15歳から働き始める\[6\]。[秘書](../Page/秘書.md "wikilink")や[スチュワーデス](https://ja.wikipedia.org/wiki/スチュワーデス "wikilink")として働いた後、結婚を機会に執筆の道に入る。[キャロル・H・クラーク](https://ja.wikipedia.org/wiki/キャロル・H・クラーク "wikilink")は実の娘\[7\]。
 
 その作品の多くは、精神的な[トラウマ](https://ja.wikipedia.org/wiki/トラウマ "wikilink")を持つ女性がそれを克服するという[モチーフ](https://ja.wikipedia.org/wiki/モチーフ "wikilink")による。視覚的な表現が巧みであり、[映画](../Page/映画.md "wikilink")のようだと評されることもある。
 
-2020年1月31日、[フロリダ州](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")で[老衰](https://ja.wikipedia.org/wiki/老衰 "wikilink")のため死去。\[8\]。
+2020年1月31日、[フロリダ州](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")で[老衰](../Page/老衰.md "wikilink")のため死去。\[8\]。
 
 ## 作品
 
-  - 『[子供たちはどこにいる](https://ja.wikipedia.org/wiki/子供たちはどこにいる "wikilink")』 (Where Are The Children? [1975年](../Page/1975年.md "wikilink"))[深町真理子](https://ja.wikipedia.org/wiki/深町真理子 "wikilink")訳. [河出書房新社](https://ja.wikipedia.org/wiki/河出書房新社 "wikilink"), 1977　[新潮文庫](../Page/新潮文庫.md "wikilink")、1980　
+  - 『[子供たちはどこにいる](https://ja.wikipedia.org/wiki/子供たちはどこにいる "wikilink")』 (Where Are The Children? [1975年](../Page/1975年.md "wikilink"))[深町真理子](https://ja.wikipedia.org/wiki/深町真理子 "wikilink")訳. [河出書房新社](../Page/河出書房新社.md "wikilink"), 1977　[新潮文庫](../Page/新潮文庫.md "wikilink")、1980　
   - 『[誰かが見ている](https://ja.wikipedia.org/wiki/誰かが見ている "wikilink")』 (A Stranger is Watching [1977年](../Page/1977年.md "wikilink"))
   - 『[揺りかごが落ちる](https://ja.wikipedia.org/wiki/揺りかごが落ちる "wikilink")』 (The Cradle Will Fall [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")) 深町真理子訳. 新潮文庫 1981
-  - 『[永遠の闇に眠れ](https://ja.wikipedia.org/wiki/永遠の闇に眠れ "wikilink")』 (A Cry in the Night [1982年](../Page/1982年.md "wikilink"))[山本瑠美子](https://ja.wikipedia.org/wiki/山本瑠美子 "wikilink")訳. [角川文庫](https://ja.wikipedia.org/wiki/角川文庫 "wikilink") 1986
+  - 『[永遠の闇に眠れ](https://ja.wikipedia.org/wiki/永遠の闇に眠れ "wikilink")』 (A Cry in the Night [1982年](../Page/1982年.md "wikilink"))[山本瑠美子](https://ja.wikipedia.org/wiki/山本瑠美子 "wikilink")訳. [角川文庫](../Page/角川文庫.md "wikilink") 1986
   - 『[暗夜に過去がよみがえる](https://ja.wikipedia.org/wiki/暗夜に過去がよみがえる "wikilink")』 (Stillwatch [1984年](../Page/1984年.md "wikilink"))深町真理子 訳. 新潮文庫 1989
   - 『[いまは涙を忘れて](https://ja.wikipedia.org/wiki/いまは涙を忘れて "wikilink")』 (Weep No More, My Lady [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink"))深町真理子 訳. 新潮文庫 1993
   - 『[愛しいひとの眠る間に](https://ja.wikipedia.org/wiki/愛しいひとの眠る間に "wikilink")』 (While My Pretty One Sleeps [1989年](../Page/1989年.md "wikilink"))深町真理子 訳. 新潮文庫 1990
   - 『[アナスタシア・シンドローム](https://ja.wikipedia.org/wiki/アナスタシア・シンドローム "wikilink")』 (The Anastasia Syndrome and other Stories 1989年)深町真理子 訳. 新潮文庫 1993
-  - 『[ダンスシューズが死を招く](https://ja.wikipedia.org/wiki/ダンスシューズが死を招く "wikilink")』 (Loves Music, Loves to Dance [1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink"))深町真理子 訳. 新潮文庫 1996
-  - 『[オルゴールの鳴る部屋で](https://ja.wikipedia.org/wiki/オルゴールの鳴る部屋で "wikilink")』 (All around the town [1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink"))[宇佐川晶子](https://ja.wikipedia.org/wiki/宇佐川晶子 "wikilink")訳. 新潮文庫 1996.
-  - 『[あなたに会いたくて](https://ja.wikipedia.org/wiki/あなたに会いたくて "wikilink")』 (I'll Be Seeing You [1993年](../Page/1993年.md "wikilink"))宇佐川晶子訳. 新潮文庫 1997
+  - 『[ダンスシューズが死を招く](https://ja.wikipedia.org/wiki/ダンスシューズが死を招く "wikilink")』 (Loves Music, Loves to Dance [1991年](../Page/1991年.md "wikilink"))深町真理子 訳. 新潮文庫 1996
+  - 『[オルゴールの鳴る部屋で](https://ja.wikipedia.org/wiki/オルゴールの鳴る部屋で "wikilink")』 (All around the town [1992年](../Page/1992年.md "wikilink"))[宇佐川晶子](https://ja.wikipedia.org/wiki/宇佐川晶子 "wikilink")訳. 新潮文庫 1996.
+  - 『[あなたに会いたくて](../Page/あなたに会いたくて.md "wikilink")』 (I'll Be Seeing You [1993年](../Page/1993年.md "wikilink"))宇佐川晶子訳. 新潮文庫 1997
   - 『[リメンバー・ハウスの闇のなかで](https://ja.wikipedia.org/wiki/リメンバー・ハウスの闇のなかで "wikilink")』 (Remember Me [1994年](../Page/1994年.md "wikilink"))宇佐川晶子訳. 新潮文庫 1999
   - (The Lottery Winner 1994年)
   - 『[恋人と呼ばせて](https://ja.wikipedia.org/wiki/恋人と呼ばせて "wikilink")』 (Let me call you Sweetheart [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink"))深町真理子訳. 新潮文庫 1999
@@ -40,11 +40,11 @@
   - (On the Street Where You Live 2001年)
   - 『[魔が解き放たれる夜に](https://ja.wikipedia.org/wiki/魔が解き放たれる夜に "wikilink")』 (Daddy's little girl [2002年](../Page/2002年.md "wikilink"))安原和見 訳. 新潮文庫 2004
   - 『[消えたニック・スペンサー](https://ja.wikipedia.org/wiki/消えたニック・スペンサー "wikilink")』 (The Second Time Around [2003年](../Page/2003年.md "wikilink"))宇佐川晶子 訳. 新潮文庫 2005.
-  - 『[20年目のクラスメート](https://ja.wikipedia.org/wiki/20年目のクラスメート "wikilink")』 (Nighttime is my Time [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink"))宇佐川晶子 訳. 新潮文庫 2006
+  - 『[20年目のクラスメート](https://ja.wikipedia.org/wiki/20年目のクラスメート "wikilink")』 (Nighttime is my Time [2004年](../Page/2004年.md "wikilink"))宇佐川晶子 訳. 新潮文庫 2006
   - (The Christmas Thief 2004年、娘キャロルとの共作)
-  - (No Place Like Home [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink"))
-  - (Two Little Girls in Blue [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink"))
-  - (I Heard that Song Before [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink"))
+  - (No Place Like Home [2005年](../Page/2005年.md "wikilink"))
+  - (Two Little Girls in Blue [2006年](../Page/2006年.md "wikilink"))
+  - (I Heard that Song Before [2007年](../Page/2007年.md "wikilink"))
   - (Kitchen Privileges (Memoirs) 2007年)
   - (Santa Cruise 2007年、娘キャロルとの共作)
   - (Where are you now? [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink"))

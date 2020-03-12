@@ -1,9 +1,9 @@
 > この記事は[QR](https://ja.wikipedia.org/wiki/QR)から翻訳されています。
 
 
-**日産・QRエンジン**とは、[日産自動車](https://ja.wikipedia.org/wiki/日産自動車 "wikilink")の[直列4気筒](https://ja.wikipedia.org/wiki/直列4気筒 "wikilink")DOHC[ガソリンエンジン](https://ja.wikipedia.org/wiki/ガソリンエンジン "wikilink")の系列である。
+**日産・QRエンジン**とは、[日産自動車](../Page/日産自動車.md "wikilink")の[直列4気筒](../Page/直列4気筒.md "wikilink")DOHC[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")の系列である。
 
-QR20系は[SRエンジン](https://ja.wikipedia.org/wiki/日産・SRエンジン "wikilink")、QR25系は[KAエンジンの後継として開発された](https://ja.wikipedia.org/wiki/日産・KAエンジン "wikilink")。QR系（QR20DD）の初搭載は[ブルーバードシルフィである](../Page/日産・シルフィ.md "wikilink")。QR20DEの初搭載は[エクストレイルで](https://ja.wikipedia.org/wiki/日産・エクストレイル "wikilink")、既存のSRエンジン搭載車は平成12年排出ガス規制に適合するため、そのほとんどがQRエンジンに切り替わった。QR25DEの初搭載は[プレサージュである](../Page/日産・プレサージュ.md "wikilink")。
+QR20系は[SRエンジン](../Page/日産・SRエンジン.md "wikilink")、QR25系は[KAエンジンの後継として開発された](https://ja.wikipedia.org/wiki/日産・KAエンジン "wikilink")。QR系（QR20DD）の初搭載は[ブルーバードシルフィである](../Page/日産・シルフィ.md "wikilink")。QR20DEの初搭載は[エクストレイルで](../Page/日産・エクストレイル.md "wikilink")、既存のSRエンジン搭載車は平成12年排出ガス規制に適合するため、そのほとんどがQRエンジンに切り替わった。QR25DEの初搭載は[プレサージュである](../Page/日産・プレサージュ.md "wikilink")。
 
 ## バリエーション
 
@@ -36,17 +36,17 @@ QR20系は[SRエンジン](https://ja.wikipedia.org/wiki/日産・SRエンジン
 
 #### 搭載車種
 
-  - [エクストレイル](https://ja.wikipedia.org/wiki/日産・エクストレイル "wikilink")（T30）
+  - [エクストレイル](../Page/日産・エクストレイル.md "wikilink")（T30）
   - [プリメーラ](../Page/日産・プリメーラ.md "wikilink")（P12）
   - [リバティ](../Page/日産・リバティ.md "wikilink")（M12）
   - [セレナ](../Page/日産・セレナ.md "wikilink")（C24）
   - [アベニール](../Page/日産・アベニール.md "wikilink")
-  - [ウイングロード](https://ja.wikipedia.org/wiki/日産・ウイングロード "wikilink")（Y11）
+  - [ウイングロード](../Page/日産・ウイングロード.md "wikilink")（Y11）
   - [ティアナ](../Page/日産・ティアナ.md "wikilink")（[東風日産で生産される中国向け](https://ja.wikipedia.org/wiki/東風汽車有限公司 "wikilink")。日本仕様には設定なし）
   - [アトラス](../Page/日産・アトラス.md "wikilink")（F24）
-  - [キャラバン](https://ja.wikipedia.org/wiki/日産・キャラバン "wikilink")（E25後期）
-  - [NV350キャラバン](https://ja.wikipedia.org/wiki/日産・キャラバン "wikilink")（E26）
-      - [いすゞ・コモ](https://ja.wikipedia.org/wiki/いすゞ・コモ "wikilink")（E25後期/E26）
+  - [キャラバン](../Page/日産・キャラバン.md "wikilink")（E25後期）
+  - [NV350キャラバン](../Page/日産・キャラバン.md "wikilink")（E26）
+      - [いすゞ・コモ](../Page/いすゞ・コモ.md "wikilink")（E25後期/E26）
 
 ### QR25DD
 
@@ -88,14 +88,14 @@ QR20系は[SRエンジン](https://ja.wikipedia.org/wiki/日産・SRエンジン
   - [セレナ](../Page/日産・セレナ.md "wikilink")（C24後期）
   - ティアナ（J32・4WD車、L33）
   - ティアナセドリック
-  - [ムラーノ](https://ja.wikipedia.org/wiki/日産・ムラーノ "wikilink")
+  - [ムラーノ](../Page/日産・ムラーノ.md "wikilink")
   - エクストレイル（T30輸出仕様、T31、T32）
   - キャラバン（E25後期）
   - NV350キャラバン（E26）
       - いすゞ・コモ（E25後期/E26）
       - [三菱ふそう・キャンターバン](https://ja.wikipedia.org/wiki/三菱ふそう・キャンターバン "wikilink")（E26）
-  - [セントラ](https://ja.wikipedia.org/wiki/日産・セントラ "wikilink")（B16）※海外専売車種
-  - [アルティマ](https://ja.wikipedia.org/wiki/日産・アルティマ "wikilink")（L31、L32/U32）※海外専売車種
+  - [セントラ](../Page/日産・セントラ.md "wikilink")（B16）※海外専売車種
+  - [アルティマ](../Page/日産・アルティマ.md "wikilink")（L31、L32/U32）※海外専売車種
   - [エルグランド](../Page/日産・エルグランド.md "wikilink")（E52）
 
 型式こそ違うが（ルノー＆ルノーサムスン呼称は**「2TR」**）、同エンジンのリファイン版が以下の2車種(実質的には1車種)にも搭載されている。
@@ -104,7 +104,7 @@ QR20系は[SRエンジン](https://ja.wikipedia.org/wiki/日産・SRエンジン
 
 ## 関連項目
 
-  - [日産のエンジン型式一覧](https://ja.wikipedia.org/wiki/日産のエンジン型式一覧 "wikilink")
+  - [日産のエンジン型式一覧](../Page/日産のエンジン型式一覧.md "wikilink")
   - [ルノーのエンジン型式一覧](https://ja.wikipedia.org/wiki/ルノーのエンジン型式一覧 "wikilink")
 
 [Category:日産自動車のエンジン](https://ja.wikipedia.org/wiki/Category:日産自動車のエンジン "wikilink")

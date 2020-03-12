@@ -5,7 +5,7 @@
 
 ## 解説
 
-  - [2004年](../Page/2004年.md "wikilink")[5月19日](../Page/5月19日.md "wikilink")に[SME Recordsよりリリースされた](https://ja.wikipedia.org/wiki/エスエムイーレコーズ "wikilink")。
+  - [2004年](../Page/2004年.md "wikilink")[5月19日](../Page/5月19日.md "wikilink")に[SME Recordsよりリリースされた](../Page/エスエムイーレコーズ.md "wikilink")。
   - 初回生産限定盤はDVD付き。
 
 ## 収録曲
@@ -15,7 +15,7 @@
     <!-- end list -->
       -
         恋愛3部作の3作目。
-        [リクルート社の結婚情報誌](https://ja.wikipedia.org/wiki/リクルートホールディングス "wikilink")『[ゼクシィ](https://ja.wikipedia.org/wiki/ゼクシィ "wikilink")』との[コラボレーション](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")曲
+        [リクルート社の結婚情報誌](../Page/リクルートホールディングス.md "wikilink")『[ゼクシィ](https://ja.wikipedia.org/wiki/ゼクシィ "wikilink")』との[コラボレーション](../Page/コラボレーション.md "wikilink")曲
 2.  **あなたが旅立ったあの春のにおい**
       - 作詞：ai / 作曲：nao / 編曲：家原正樹、nao
 

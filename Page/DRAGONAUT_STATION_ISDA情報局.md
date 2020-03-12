@@ -1,19 +1,19 @@
 > この記事は[DRAGONAUT STATION ISDA](https://ja.wikipedia.org/wiki/DRAGONAUT_STATION_ISDA)から翻訳されています。
 
 
-**DRAGONAUT STATION ISDA情報局**（ドラゴノーツステーション アイエスディーエーじょうほうきょく）はアニメ『[ドラゴノーツ -ザ・レゾナンス-](../Page/ドラゴノーツ_-ザ・レゾナンス-.md "wikilink")』の関連番組として、[音泉](https://ja.wikipedia.org/wiki/音泉 "wikilink")にて配信された[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。
+**DRAGONAUT STATION ISDA情報局**（ドラゴノーツステーション アイエスディーエーじょうほうきょく）はアニメ『[ドラゴノーツ -ザ・レゾナンス-](../Page/ドラゴノーツ_-ザ・レゾナンス-.md "wikilink")』の関連番組として、[音泉](../Page/音泉.md "wikilink")にて配信された[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。
 
 ## パーソナリティ
 
-  - **[福井裕佳梨](https://ja.wikipedia.org/wiki/福井裕佳梨 "wikilink")** （サキ役）
+  - **[福井裕佳梨](../Page/福井裕佳梨.md "wikilink")** （サキ役）
   - **[小林ゆう](https://ja.wikipedia.org/wiki/小林ゆう "wikilink")** （リョウコ役）
-  - **[中村知世](https://ja.wikipedia.org/wiki/中村知世 "wikilink")** （メグミ役）
+  - **[中村知世](../Page/中村知世.md "wikilink")** （メグミ役）
 
 ## 配信概要
 
   - 配信期間 - [2007年](../Page/2007年.md "wikilink")[9月5日](../Page/9月5日.md "wikilink")から同年12月26日まで。全17回。
   - 配信日 - 毎週水曜日
-  - 配信サイト - [音泉](https://ja.wikipedia.org/wiki/音泉 "wikilink")
+  - 配信サイト - [音泉](../Page/音泉.md "wikilink")
 
 ## コーナー
 
@@ -36,13 +36,13 @@
 ## ゲスト
 
   - [諏訪部順一](../Page/諏訪部順一.md "wikilink")(\#4)
-  - [竹若拓磨](https://ja.wikipedia.org/wiki/竹若拓磨 "wikilink")(\#7)
-  - [小野大輔](https://ja.wikipedia.org/wiki/小野大輔 "wikilink")(\#14)
-  - [丸山詠二](https://ja.wikipedia.org/wiki/丸山詠二 "wikilink")(\#16)
+  - [竹若拓磨](../Page/竹若拓磨.md "wikilink")(\#7)
+  - [小野大輔](../Page/小野大輔.md "wikilink")(\#14)
+  - [丸山詠二](../Page/丸山詠二.md "wikilink")(\#16)
 
 ## ラジオCD
 
-2008年5月28日にコナミデジタルエンタテインメントから2枚組のラジオCDが発売。 全17回の放送分と、ラジオCDオリジナルで、アニメ本編でアキラ役の[沢城みゆき](https://ja.wikipedia.org/wiki/沢城みゆき "wikilink")とマキナ役の[後藤邑子](https://ja.wikipedia.org/wiki/後藤邑子 "wikilink")がパーソナリティのラジオ番組が収録。
+2008年5月28日にコナミデジタルエンタテインメントから2枚組のラジオCDが発売。 全17回の放送分と、ラジオCDオリジナルで、アニメ本編でアキラ役の[沢城みゆき](../Page/沢城みゆき.md "wikilink")とマキナ役の[後藤邑子](https://ja.wikipedia.org/wiki/後藤邑子 "wikilink")がパーソナリティのラジオ番組が収録。
 
 ## 関連項目
 

@@ -5,7 +5,7 @@
 
 ## 解説
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月9日](../Page/2月9日.md "wikilink")に[SME Recordsよりリリースされた](https://ja.wikipedia.org/wiki/エスエムイーレコーズ "wikilink")。
+  - [2005年](../Page/2005年.md "wikilink")[2月9日](../Page/2月9日.md "wikilink")に[SME Recordsよりリリースされた](../Page/エスエムイーレコーズ.md "wikilink")。
 
 ## 収録曲
 

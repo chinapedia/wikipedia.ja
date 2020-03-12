@@ -39,7 +39,7 @@
       - [5月16日](../Page/5月16日.md "wikilink") - 日本語に加え海外10言語でのサービスを開始。検索対象動画は約2800万に増加。
       - [8月6日](../Page/8月6日.md "wikilink") - サジェスト機能を開始。検索対象動画は約4200万に増加。
       - [8月21日](../Page/8月21日.md "wikilink") - [Facebook](../Page/Facebook.md "wikilink")用[アプリケーションの提供を開始](../Page/アプリケーションソフトウェア.md "wikilink")。
-      - [10月30日](../Page/10月30日.md "wikilink") - サイト全体を大幅にリニューアルし、クロール対象として[ニコニコ動画](https://ja.wikipedia.org/wiki/ニコニコ動画 "wikilink")を新たに追加した。検索対象動画は約6800万に増加。
+      - [10月30日](../Page/10月30日.md "wikilink") - サイト全体を大幅にリニューアルし、クロール対象として[ニコニコ動画](../Page/ニコニコ動画.md "wikilink")を新たに追加した。検索対象動画は約6800万に増加。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")
       - [1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink") - [@nifty](https://ja.wikipedia.org/wiki/@nifty "wikilink")のトップページで、検索対象を「動画」にして検索すると、Foooooの動画検索エンジンを使った検索ができるサービスを開始。検索対象動画は約8500万に増加。
       - ～[5月19日](../Page/5月19日.md "wikilink") - 検索対象動画は約1億3000万に増加。トップページ大幅リューアル、動くサムネイルも稼動。
@@ -53,9 +53,9 @@
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - ~~[Stage6](https://ja.wikipedia.org/wiki/Stage6 "wikilink")~~
-  - [Dailymotion](https://ja.wikipedia.org/wiki/Dailymotion "wikilink")
-  - [Veoh](https://ja.wikipedia.org/wiki/Veoh "wikilink")
+  - ~~[Stage6](../Page/Stage6.md "wikilink")~~
+  - [Dailymotion](../Page/Dailymotion.md "wikilink")
+  - [Veoh](../Page/Veoh.md "wikilink")
   - [Google](../Page/Google.md "wikilink")
   - [メタカフェ](https://ja.wikipedia.org/wiki/メタカフェ "wikilink")
   - [Iフィルム](https://ja.wikipedia.org/wiki/Iフィルム "wikilink")
@@ -87,7 +87,7 @@
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [AOL](https://ja.wikipedia.org/wiki/AOL "wikilink")
+  - [AOL](../Page/AOL.md "wikilink")
   - [jumpcut](https://ja.wikipedia.org/wiki/jumpcut "wikilink")
   - [シャークル](https://ja.wikipedia.org/wiki/シャークル "wikilink")
   - [vidiac](https://ja.wikipedia.org/wiki/vidiac "wikilink")
@@ -115,7 +115,7 @@
   - [grouper](https://ja.wikipedia.org/wiki/grouper "wikilink")
   - [revver](https://ja.wikipedia.org/wiki/revver "wikilink")
   - [break](https://ja.wikipedia.org/wiki/break "wikilink")
-  - [ニコニコ動画](https://ja.wikipedia.org/wiki/ニコニコ動画 "wikilink") (アカウントが必要)
+  - [ニコニコ動画](../Page/ニコニコ動画.md "wikilink") (アカウントが必要)
 
 </div>
 

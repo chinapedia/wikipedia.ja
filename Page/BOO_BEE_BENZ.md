@@ -5,11 +5,11 @@
 
 ## 概要・来歴
 
-[2002年](../Page/2002年.md "wikilink")に竹内雄彦、山下亮、新田正伸、平岡正也の4人で結成。[ロードオブメジャー](https://ja.wikipedia.org/wiki/ロードオブメジャー "wikilink")や[ザ・ルーズドッグス](https://ja.wikipedia.org/wiki/ザ・ルーズドッグス "wikilink")が[インディーズ](../Page/インディーズ.md "wikilink")のころ、レーベルメイトとして一緒にツアーで全国各地を周った過去がある。
+[2002年](../Page/2002年.md "wikilink")に竹内雄彦、山下亮、新田正伸、平岡正也の4人で結成。[ロードオブメジャー](../Page/ロードオブメジャー.md "wikilink")や[ザ・ルーズドッグス](../Page/ザ・ルーズドッグス.md "wikilink")が[インディーズ](../Page/インディーズ.md "wikilink")のころ、レーベルメイトとして一緒にツアーで全国各地を周った過去がある。
 
 [2004年](../Page/2004年.md "wikilink")にライブハウスツアーに参加し、自主制作盤『to me』をリリース。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")にシングル「東京の空」をtearbridge recordsからリリース。同作収録曲の「to me」「君という花」は[大塚愛](https://ja.wikipedia.org/wiki/大塚愛 "wikilink")主演のドラマ『[東京フレンズ](../Page/東京フレンズ.md "wikilink")』の主題歌に起用された。
+[2005年](../Page/2005年.md "wikilink")にシングル「東京の空」をtearbridge recordsからリリース。同作収録曲の「to me」「君という花」は[大塚愛](https://ja.wikipedia.org/wiki/大塚愛 "wikilink")主演のドラマ『[東京フレンズ](../Page/東京フレンズ.md "wikilink")』の主題歌に起用された。
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[12月23日](../Page/12月23日.md "wikilink")に開催されたライブで山下と新田が脱退\[1\]。以後2人組バンドとして活動。
 
@@ -33,7 +33,7 @@
 <a href="../Page/ギター.md" title="wikilink">ギター</a></p></td>
 <td><ul>
 <li><a href="../Page/1982年.md" title="wikilink">1982年</a><a href="../Page/8月16日.md" title="wikilink">8月16日</a>生まれ。</li>
-<li>楽曲の<a href="https://ja.wikipedia.org/wiki/作詞" title="wikilink">作詞</a>・<a href="../Page/作曲.md" title="wikilink">作曲</a>も行っている。</li>
+<li>楽曲の<a href="../Page/作詞.md" title="wikilink">作詞</a>・<a href="../Page/作曲.md" title="wikilink">作曲</a>も行っている。</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -65,7 +65,7 @@
 <tr class="even">
 <td><p><strong>新田正伸</strong><br />
 （にった まさのぶ）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ベース_(弦楽器)" title="wikilink">ベース</a></p></td>
+<td><p><a href="../Page/ベース_(弦楽器).md" title="wikilink">ベース</a></p></td>
 <td><ul>
 <li>2010年12月23日に開催されたライブを以て脱退。</li>
 </ul></td>
@@ -95,7 +95,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/6月8日.md" title="wikilink">6月8日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/6月8日.md" title="wikilink">6月8日</a></p></td>
 <td><p><strong>東京の空</strong></p></td>
 <td><ol>
 <li>to me</li>
@@ -150,7 +150,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/9月6日.md" title="wikilink">9月6日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/9月6日.md" title="wikilink">9月6日</a></p></td>
 <td><p><strong>THE TOURIST</strong></p></td>
 <td><ol>
 <li>僕ら</li>
@@ -206,7 +206,7 @@
 <li>ラプソディ / <a href="../Page/シュノーケル_(バンド).md" title="wikilink">シュノーケル</a></li>
 <li><strong>here / BOO BEE BENZ</strong></li>
 <li>ユリイカ / <a href="https://ja.wikipedia.org/wiki/People_In_The_Box" title="wikilink">People In The Box</a></li>
-<li>イメージはとっても大事 / <a href="https://ja.wikipedia.org/wiki/ANATAKIKOU" title="wikilink">ANATAKIKOU</a></li>
+<li>イメージはとっても大事 / <a href="../Page/ANATAKIKOU.md" title="wikilink">ANATAKIKOU</a></li>
 </ol></td>
 <td><p>SECL-661</p></td>
 </tr>
@@ -234,7 +234,7 @@
 
 | 枚   | 発売日                                                                                         | タイトル        | フォーマット |
 | --- | ------------------------------------------------------------------------------------------- | ----------- | ------ |
-| 1st | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[6月8日](../Page/6月8日.md "wikilink")   | **Line**    | iTunes |
+| 1st | [2005年](../Page/2005年.md "wikilink")[6月8日](../Page/6月8日.md "wikilink")                      | **Line**    | iTunes |
 | 2nd | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月30日](../Page/1月30日.md "wikilink") | **Eyes on** | iTunes |
 |     |                                                                                             |             |        |
 

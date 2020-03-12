@@ -1,15 +1,15 @@
 > この記事は[HHR](https://ja.wikipedia.org/wiki/HHR)から翻訳されています。
 
 
-**HHR**は、[GMが製造し](https://ja.wikipedia.org/wiki/ゼネラルモーターズ "wikilink")[シボレー](https://ja.wikipedia.org/wiki/シボレー "wikilink")ブランドで販売していた自動車である。
+**HHR**は、[GMが製造し](../Page/ゼネラルモーターズ.md "wikilink")[シボレー](../Page/シボレー.md "wikilink")ブランドで販売していた自動車である。
 
 ## 概要
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")の[ロサンゼルスオートショー](https://ja.wikipedia.org/wiki/ロサンゼルスオートショー "wikilink")で[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")モデルとして発表された。[シボレー・コバルト](https://ja.wikipedia.org/wiki/シボレー・コバルト "wikilink")などと同じGMデルタ・プラットフォームを採用している。
+[2005年](../Page/2005年.md "wikilink")の[ロサンゼルスオートショー](../Page/ロサンゼルスオートショー.md "wikilink")で[2006年](../Page/2006年.md "wikilink")モデルとして発表された。[シボレー・コバルト](../Page/シボレー・コバルト.md "wikilink")などと同じGMデルタ・プラットフォームを採用している。
 
 デザインは1949年型[シボレー・サバーバン](../Page/シボレー・サバーバン.md "wikilink")をモチーフに現代風にアレンジしたものだが、そのコンセプトも含めて[クライスラー・PTクルーザー](../Page/クライスラー・PTクルーザー.md "wikilink")に酷似していると批判された。ちなみにHHRの担当デザイナーはそのPTクルーザーをデザインした[ブライアン・ネスビット](https://ja.wikipedia.org/wiki/ブライアン・ネスビット "wikilink")である。
 
-エンジンはコバルト同様[直列4気筒](https://ja.wikipedia.org/wiki/直列4気筒 "wikilink")エコテックで、2.2L（LSとLT）と[可変バルブ機構](../Page/可変バルブ機構.md "wikilink")付き2.4L（2LT）の2種類が用意される。
+エンジンはコバルト同様[直列4気筒](../Page/直列4気筒.md "wikilink")エコテックで、2.2L（LSとLT）と[可変バルブ機構](../Page/可変バルブ機構.md "wikilink")付き2.4L（2LT）の2種類が用意される。
 
 生産は[メキシコ](../Page/メキシコ.md "wikilink")のラモスアリスペ工場で行われている。GMは年間6万台の販売を見込んでいたが、初年度は9万3千台以上を販売し、まずまずのヒット作となった。
 
@@ -23,10 +23,10 @@
 
 ## 関連項目
 
-  - [シボレー](https://ja.wikipedia.org/wiki/シボレー "wikilink")
+  - [シボレー](../Page/シボレー.md "wikilink")
   - [クライスラー・PTクルーザー](../Page/クライスラー・PTクルーザー.md "wikilink")
   - [フォード・サンダーバード](../Page/フォード・サンダーバード.md "wikilink")（11代目）
-  - [フォード・マスタング](https://ja.wikipedia.org/wiki/フォード・マスタング "wikilink")（6代目）
+  - [フォード・マスタング](../Page/フォード・マスタング.md "wikilink")（6代目）
 
 ## 外部リンク
 

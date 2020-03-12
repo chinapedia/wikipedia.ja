@@ -9,7 +9,7 @@
 
 プロセステーブルを埋め尽くすだけでなく、Fork爆弾はプロセッサ時間とメモリも占有する。結果としてFork爆弾以外のプロセス群やシステムは動作が困難（低速）となるか、動作できなくなる。
 
-悪意を持って仕掛けられることもあるが、通常のソフトウェア開発において偶然Fork爆弾が発生してしまうこともある。ネットワーク[ソケットで要求を待ちうける](../Page/ソケット_\(BSD\).md "wikilink")[クライアントサーバモデル](../Page/クライアントサーバモデル.md "wikilink")における[サーバ](../Page/サーバ.md "wikilink")プログラムは、[無限ループ](https://ja.wikipedia.org/wiki/無限ループ "wikilink")となっていることが多く、しかもforkで子プロセスを生成する。そういったアプリケーションにちょっとしたバグがあれば、評価中にFork爆弾のように振る舞うことがある。
+悪意を持って仕掛けられることもあるが、通常のソフトウェア開発において偶然Fork爆弾が発生してしまうこともある。ネットワーク[ソケットで要求を待ちうける](../Page/ソケット_\(BSD\).md "wikilink")[クライアントサーバモデル](../Page/クライアントサーバモデル.md "wikilink")における[サーバ](../Page/サーバ.md "wikilink")プログラムは、[無限ループ](../Page/無限ループ.md "wikilink")となっていることが多く、しかもforkで子プロセスを生成する。そういったアプリケーションにちょっとしたバグがあれば、評価中にFork爆弾のように振る舞うことがある。
 
 ## 例
 
@@ -25,7 +25,7 @@
 forkbomb(){ forkbomb|forkbomb & } ; forkbomb
 ```
 
-[Microsoft Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink") の cmd および command.com 用[バッチファイル](https://ja.wikipedia.org/wiki/バッチファイル "wikilink"):
+[Microsoft Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink") の cmd および command.com 用[バッチファイル](../Page/バッチファイル.md "wikilink"):
 
 ``` dos
 %0|%0
@@ -77,7 +77,7 @@ Fork爆弾が起動させられてしまった場合、その対処としてはF
 :(){ :|: & };:
 ```
 
-というシェル版Fork爆弾を考えてみよう。このコードが意味することは、`fork` を済ませた親プロセスがシステムに残り続けるわけではなく、すぐに終了するという事実である。従ってFork爆弾はプロセステーブルを埋めると同時に次々と終了している。そこで十分に頻繁に新たなプロセスを起動させようとすれば、Fork爆弾以外のプロセスを起動できる可能性がある。何もしないで存在するだけのプロセスをどんどん起動していけばFork爆弾プロセスの個数を減らすことができ、最終的に一掃できる可能性がある。例えば、次のような [Z Shell](https://ja.wikipedia.org/wiki/Z_Shell "wikilink") 用コードでFork爆弾を一掃できる可能性がある。
+というシェル版Fork爆弾を考えてみよう。このコードが意味することは、`fork` を済ませた親プロセスがシステムに残り続けるわけではなく、すぐに終了するという事実である。従ってFork爆弾はプロセステーブルを埋めると同時に次々と終了している。そこで十分に頻繁に新たなプロセスを起動させようとすれば、Fork爆弾以外のプロセスを起動できる可能性がある。何もしないで存在するだけのプロセスをどんどん起動していけばFork爆弾プロセスの個数を減らすことができ、最終的に一掃できる可能性がある。例えば、次のような [Z Shell](../Page/Z_Shell.md "wikilink") 用コードでFork爆弾を一掃できる可能性がある。
 
 ``` bash
 while (sleep 100 &) do; done
@@ -120,7 +120,7 @@ FreeBSDでは、システム管理者が `/etc/login.conf` に制限を置くこ
 
 ## 関連項目
 
-  - [無限ループ](https://ja.wikipedia.org/wiki/無限ループ "wikilink")
+  - [無限ループ](../Page/無限ループ.md "wikilink")
   - [Fork](../Page/Fork.md "wikilink")
 
 ## 外部リンク

@@ -28,8 +28,8 @@ BMD-1と同様に、[輸送機](../Page/輸送機.md "wikilink")及び[ヘリコ
 ## 関連項目
 
   - [BMD-1](../Page/BMD-1.md "wikilink")
-  - [BMD-3](https://ja.wikipedia.org/wiki/BMD-3 "wikilink")
-  - [BMD-4](https://ja.wikipedia.org/wiki/BMD-4 "wikilink")
+  - [BMD-3](../Page/BMD-3.md "wikilink")
+  - [BMD-4](../Page/BMD-4.md "wikilink")
   - [歩兵戦闘車](../Page/歩兵戦闘車.md "wikilink")
 
 [Category:歩兵戦闘車](https://ja.wikipedia.org/wiki/Category:歩兵戦闘車 "wikilink") [Category:ソビエト連邦の装甲戦闘車両](https://ja.wikipedia.org/wiki/Category:ソビエト連邦の装甲戦闘車両 "wikilink") [Category:空挺戦車](https://ja.wikipedia.org/wiki/Category:空挺戦車 "wikilink")

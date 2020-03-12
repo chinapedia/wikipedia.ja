@@ -7,7 +7,7 @@
 
 ## 概要
 
-[スポーツツアラーモデルであるが](https://ja.wikipedia.org/wiki/ツアラー_\(オートバイ\)#スポーツツアラー "wikilink")、特に[ZZR1100と](https://ja.wikipedia.org/wiki/カワサキ・ZZR1100 "wikilink")[ZZR1400は最高速性能を示した](https://ja.wikipedia.org/wiki/カワサキ・ZZR1400 "wikilink")[メガスポーツ](https://ja.wikipedia.org/wiki/スーパースポーツ#メガスポーツ "wikilink")[ツアラーである](https://ja.wikipedia.org/wiki/ツアラー_\(オートバイ\)# "wikilink")。
+[スポーツツアラーモデルであるが](https://ja.wikipedia.org/wiki/ツアラー_\(オートバイ\)#スポーツツアラー "wikilink")、特に[ZZR1100と](../Page/カワサキ・ZZR1100.md "wikilink")[ZZR1400は最高速性能を示した](../Page/カワサキ・ZZR1400.md "wikilink")[メガスポーツ](https://ja.wikipedia.org/wiki/スーパースポーツ#メガスポーツ "wikilink")[ツアラーである](https://ja.wikipedia.org/wiki/ツアラー_\(オートバイ\)# "wikilink")。
 
 過去に「**ZZR**」だけでなく「**ZZ-R**」とも表記されていたことから「ダブルゼットアール」や「ダブルズィーアール」と読む人も多く、一般的には「**ゼットゼットアール**」と発音されている。某有名雑誌の公開質問で、。[2003年](../Page/2003年.md "wikilink")には、川崎重工業が公式に商標登録（商標登録番号第3172777号\[1\]）は“**ZZR**”であり\[2\]、商標上の日本語呼称は“**ゼットゼットアアル**”であると発表しているが\[3\]、同時に読み方は規制しないともしている\[4\]。ジーアールとの商標登録の問題という見方が有力である。
 
@@ -15,7 +15,7 @@
 
 ### ZZR1400
 
-[ZX-12Rとの統合を受けた](https://ja.wikipedia.org/wiki/カワサキ・ニンジャZX-12R "wikilink")2007年から現在にいたるまでの[フラッグシップ](https://ja.wikipedia.org/wiki/フラグシップ機 "wikilink")。[北米](https://ja.wikipedia.org/wiki/北米 "wikilink")や[オーストラリア](../Page/オーストラリア.md "wikilink")では**Ninja ZX-14**とネーミングされ、[2012年](../Page/2012年.md "wikilink")モデルより北米・オセアニア・アジア仕様は**Ninja ZX-14R**に変更されている。
+[ZX-12Rとの統合を受けた](../Page/カワサキ・ニンジャZX-12R.md "wikilink")2007年から現在にいたるまでの[フラッグシップ](../Page/フラグシップ機.md "wikilink")。[北米](https://ja.wikipedia.org/wiki/北米 "wikilink")や[オーストラリア](../Page/オーストラリア.md "wikilink")では**Ninja ZX-14**とネーミングされ、[2012年](../Page/2012年.md "wikilink")モデルより北米・オセアニア・アジア仕様は**Ninja ZX-14R**に変更されている。
 
 ### ZZR1200
 
@@ -35,7 +35,7 @@
 
 ### ZZR400
 
-ZZR600をベースとしてエンジンなどの仕様を変更した、[並列4気筒エンジン搭載車両としては最小モデルとなるZZR](https://ja.wikipedia.org/wiki/直列4気筒 "wikilink")。
+ZZR600をベースとしてエンジンなどの仕様を変更した、[並列4気筒エンジン搭載車両としては最小モデルとなるZZR](../Page/直列4気筒.md "wikilink")。
 
 ### ZZR250
 

@@ -7,13 +7,13 @@
 
 [1963年](../Page/1963年.md "wikilink")9月創刊。第1弾は[フレドリック・ブラウン](../Page/フレドリック・ブラウン.md "wikilink")の短編集『[未来世界から来た男](https://ja.wikipedia.org/wiki/未来世界から来た男 "wikilink")』。1959年から刊行されていた[創元推理文庫](https://ja.wikipedia.org/wiki/創元推理文庫 "wikilink")の「SF部門」として始まったが、[1991年](../Page/1991年.md "wikilink")11月に現行の「創元SF文庫」と名称を変更、独立した叢書となった。この年、[東京創元社](../Page/東京創元社.md "wikilink")刊行の文庫が、それまで著者別に付けられた番号（601番以降が与えられていた）で分類されていたのを、他社と同様に著者名の五十音別で分類するよう変更されたことに伴うもの。この際、それまで作品別に付けられていた[背色](https://ja.wikipedia.org/wiki/背色 "wikilink")・背にある文字（題名、作者名等）の色も、すべて藤色の背と黒字に統一された。
 
-[2007年](../Page/2007年.md "wikilink")2月からは、日本人作家のSF作品も刊行されている。第1回配本は[田中芳樹](../Page/田中芳樹.md "wikilink")『[銀河英雄伝説](../Page/銀河英雄伝説.md "wikilink")』と[堀晃](../Page/堀晃.md "wikilink")『[バビロニア・ウェーブ](https://ja.wikipedia.org/wiki/バビロニア・ウェーブ "wikilink")』であった。日本SFの刊行とともに、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")から[大森望](https://ja.wikipedia.org/wiki/大森望 "wikilink")、[日下三蔵](../Page/日下三蔵.md "wikilink")共編による《[年刊日本SF傑作選](https://ja.wikipedia.org/wiki/年刊日本SF傑作選 "wikilink")》の刊行を開始し、さらにその関連企画として[2009年](../Page/2009年.md "wikilink")に[創元SF短編賞](https://ja.wikipedia.org/wiki/創元SF短編賞 "wikilink")を創設した。
+[2007年](../Page/2007年.md "wikilink")2月からは、日本人作家のSF作品も刊行されている。第1回配本は[田中芳樹](../Page/田中芳樹.md "wikilink")『[銀河英雄伝説](../Page/銀河英雄伝説.md "wikilink")』と[堀晃](../Page/堀晃.md "wikilink")『[バビロニア・ウェーブ](https://ja.wikipedia.org/wiki/バビロニア・ウェーブ "wikilink")』であった。日本SFの刊行とともに、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")から[大森望](../Page/大森望.md "wikilink")、[日下三蔵](../Page/日下三蔵.md "wikilink")共編による《[年刊日本SF傑作選](https://ja.wikipedia.org/wiki/年刊日本SF傑作選 "wikilink")》の刊行を開始し、さらにその関連企画として[2009年](../Page/2009年.md "wikilink")に[創元SF短編賞](https://ja.wikipedia.org/wiki/創元SF短編賞 "wikilink")を創設した。
 
 ## 収録作品の移動
 
 「創元SF文庫」への名称変更に伴って、それまで「SF部門」で刊行されていた一部作品が「創元推理文庫F」（それまでの「怪奇と冒険部門」ないし「帆船マーク」）に移動された。
 
-  - [コリン・ウィルソン](https://ja.wikipedia.org/wiki/コリン・ウィルソン "wikilink")『賢者の石』
+  - [コリン・ウィルソン](../Page/コリン・ウィルソン.md "wikilink")『賢者の石』
   - [フリッツ・ライバー](../Page/フリッツ・ライバー.md "wikilink")《ファファード&グレイ・マウザー》シリーズ（最初の3巻）
   - [マイケル・ムアコック](../Page/マイケル・ムアコック.md "wikilink")《[ルーンの杖秘録](../Page/エターナル・チャンピオンシリーズ.md "wikilink")》（全4巻）、《[ブラス城年代記](../Page/エターナル・チャンピオンシリーズ.md "wikilink")》（全3巻）
 
@@ -33,12 +33,12 @@
   - [アン・マキャフリー](https://ja.wikipedia.org/wiki/アン・マキャフリー "wikilink")『[歌う船](https://ja.wikipedia.org/wiki/歌う船 "wikilink")』
   - [ロイス・マクマスター・ビジョルド](../Page/L・M・ビジョルド.md "wikilink")《[ヴォルコシガン・サガ](https://ja.wikipedia.org/wiki/ヴォルコシガン・サガ "wikilink")》シリーズ
   - [ロバート・A・ハインライン](../Page/ロバート・A・ハインライン.md "wikilink")『[異星の客](../Page/異星の客.md "wikilink")』
-  - [アーサー・C・クラーク](../Page/アーサー・C・クラーク.md "wikilink")『[地球幼年期の終わり](https://ja.wikipedia.org/wiki/幼年期の終り "wikilink")』
-  - [アイザック・アシモフ](../Page/アイザック・アシモフ.md "wikilink")『[銀河帝国の興亡](https://ja.wikipedia.org/wiki/ファウンデーションシリーズ "wikilink")』
+  - [アーサー・C・クラーク](../Page/アーサー・C・クラーク.md "wikilink")『[地球幼年期の終わり](../Page/幼年期の終り.md "wikilink")』
+  - [アイザック・アシモフ](../Page/アイザック・アシモフ.md "wikilink")『[銀河帝国の興亡](../Page/ファウンデーションシリーズ.md "wikilink")』
   - [J・G・バラード](../Page/J・G・バラード.md "wikilink")『[結晶世界](https://ja.wikipedia.org/wiki/結晶世界 "wikilink")』
   - [レイ・ブラッドベリ](../Page/レイ・ブラッドベリ.md "wikilink")『[十月はたそがれの国](https://ja.wikipedia.org/wiki/十月はたそがれの国 "wikilink")』
   - [アイザック・アシモフ](../Page/アイザック・アシモフ.md "wikilink")『[わたしはロボット](../Page/われはロボット.md "wikilink")』
-  - [ネヴィル・シュート](https://ja.wikipedia.org/wiki/ネヴィル・シュート "wikilink")『[渚にて](https://ja.wikipedia.org/wiki/渚にて_\(小説\) "wikilink")』
+  - [ネヴィル・シュート](https://ja.wikipedia.org/wiki/ネヴィル・シュート "wikilink")『[渚にて](../Page/渚にて_\(小説\).md "wikilink")』
   - [田中芳樹](../Page/田中芳樹.md "wikilink")《[銀河英雄伝説](../Page/銀河英雄伝説.md "wikilink")》
   - [ポール・アンダースン](../Page/ポール・アンダースン.md "wikilink")『[タウ・ゼロ](https://ja.wikipedia.org/wiki/タウ・ゼロ "wikilink")』
   - [エドモンド・ハミルトン](../Page/エドモンド・ハミルトン.md "wikilink")《[スター・キング・シリーズ](https://ja.wikipedia.org/wiki/スターキング "wikilink")》

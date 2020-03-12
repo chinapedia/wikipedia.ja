@@ -6,7 +6,7 @@
 ## 概要
 
   - ベストアルバム『[DRIVE-GLAY complete BEST](../Page/DRIVE-GLAY_complete_BEST.md "wikilink")』からの先行シングル。そのためオリジナルアルバムには未収録となっている。先行シングルでありながらも、初動売上は40万枚を超えた。
-  - 「[MERMAID](https://ja.wikipedia.org/wiki/MERMAID_\(GLAYの曲\) "wikilink")」「[とまどい／SPECIAL THANKS](https://ja.wikipedia.org/wiki/とまどい/SPECIAL_THANKS "wikilink")」同様「紙製＋歌詞カードが一体の形式」のジャケット。
+  - 「[MERMAID](../Page/MERMAID_\(GLAYの曲\).md "wikilink")」「[とまどい／SPECIAL THANKS](https://ja.wikipedia.org/wiki/とまどい/SPECIAL_THANKS "wikilink")」同様「紙製＋歌詞カードが一体の形式」のジャケット。
   - 初回限定版としてロングケース付き版が存在する。尚、前々作、及び前作に比べ初回限定版ロングケースの出荷が極端に少なかったため（約7万枚）、当時はプレミア化されていた。
   - 2000年11月の発売であったため、2001年と跨ってランクインした。
   - 『Missing You』のジャケットはロス郊外の砂漠で撮る予定だったがロケバスが来なく出発が遅れたため、急きょ場所が変更された。
@@ -38,6 +38,6 @@
 
 ## 関連項目
 
-  - [2000年の音楽](https://ja.wikipedia.org/wiki/2000年の音楽 "wikilink")
+  - [2000年の音楽](../Page/2000年の音楽.md "wikilink")
 
 [Category:GLAYの楽曲](https://ja.wikipedia.org/wiki/Category:GLAYの楽曲 "wikilink") [Category:TAKUROが制作した楽曲](https://ja.wikipedia.org/wiki/Category:TAKUROが制作した楽曲 "wikilink") [Category:2000年のシングル](https://ja.wikipedia.org/wiki/Category:2000年のシングル "wikilink") [Category:2000年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2000年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:楽曲_み](https://ja.wikipedia.org/wiki/Category:楽曲_み "wikilink") [Category:ポニーキャニオンの楽曲](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンの楽曲 "wikilink")

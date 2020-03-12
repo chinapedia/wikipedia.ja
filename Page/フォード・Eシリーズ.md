@@ -1,11 +1,11 @@
 > この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
 
 
-[Ford--Econoline.jpg](https://ja.wikipedia.org/wiki/File:Ford--Econoline.jpg "fig:Ford--Econoline.jpg") **フォードEシリーズ**は主に[コマーシャル用途として使用される](../Page/商用車.md "wikilink")[バンである](https://ja.wikipedia.org/wiki/バン_\(自動車\) "wikilink")。 1961年にファルコンエコノラインとして登場、[VWのバンを参考に開発された](https://ja.wikipedia.org/wiki/フォルクスワーゲン "wikilink")、[フルサイズバン](https://ja.wikipedia.org/wiki/フルサイズバン "wikilink")の元祖である。 （[GMシボレーや](https://ja.wikipedia.org/wiki/シボレー "wikilink")[クライスラー](../Page/クライスラー.md "wikilink")も同時期に開発されている。） 当初はVWバン同様のサイズ（[ホイールベース](https://ja.wikipedia.org/wiki/ホイールベース "wikilink")2300mm程度）で作られたが、平均的な北米家庭には小さすぎるため、68年,75年とモデルチェンジを繰り返す毎に拡大され、いつしかフルサイズバンと呼ばれるようになった。
+[Ford--Econoline.jpg](https://ja.wikipedia.org/wiki/File:Ford--Econoline.jpg "fig:Ford--Econoline.jpg") **フォードEシリーズ**は主に[コマーシャル用途として使用される](../Page/商用車.md "wikilink")[バンである](https://ja.wikipedia.org/wiki/バン_\(自動車\) "wikilink")。 1961年にファルコンエコノラインとして登場、[VWのバンを参考に開発された](https://ja.wikipedia.org/wiki/フォルクスワーゲン "wikilink")、[フルサイズバン](https://ja.wikipedia.org/wiki/フルサイズバン "wikilink")の元祖である。 （[GMシボレーや](../Page/シボレー.md "wikilink")[クライスラー](../Page/クライスラー.md "wikilink")も同時期に開発されている。） 当初はVWバン同様のサイズ（[ホイールベース](../Page/ホイールベース.md "wikilink")2300mm程度）で作られたが、平均的な北米家庭には小さすぎるため、68年,75年とモデルチェンジを繰り返す毎に拡大され、いつしかフルサイズバンと呼ばれるようになった。
 
 標準的なE150シャシとヘビーデューティー向けのE350シャシなどが存在する。（旧モデルでは更にヘビーデューティー向けのE450シャシが存在）
 
-[エンジン](../Page/エンジン.md "wikilink")は[リンカーンや](https://ja.wikipedia.org/wiki/リンカーン_\(自動車\) "wikilink")[フォード・エクスプローラー](https://ja.wikipedia.org/wiki/フォード・エクスプローラー "wikilink")と同様の[V8](../Page/V型8気筒.md "wikilink") 4.6L [SOHC](../Page/SOHC.md "wikilink")24バルブが標準搭載され、オプションで[フォード・エクスペディション](https://ja.wikipedia.org/wiki/フォード・エクスペディション "wikilink")同様のV8 5.4L SOHC24バルブを搭載する事が可能である。E350シャシベースであれば、V10の6.8L SOHC 24バルブも存在する。
+[エンジン](../Page/エンジン.md "wikilink")は[リンカーンや](../Page/リンカーン_\(自動車\).md "wikilink")[フォード・エクスプローラー](../Page/フォード・エクスプローラー.md "wikilink")と同様の[V8](../Page/V型8気筒.md "wikilink") 4.6L [SOHC](../Page/SOHC.md "wikilink")24バルブが標準搭載され、オプションで[フォード・エクスペディション](../Page/フォード・エクスペディション.md "wikilink")同様のV8 5.4L SOHC24バルブを搭載する事が可能である。E350シャシベースであれば、V10の6.8L SOHC 24バルブも存在する。
 
 ## 1961 - 1967
 
@@ -33,7 +33,7 @@
 
 ## 1975 - 1991
 
-[83-91_Ford_Club_Wagon.jpg](https://ja.wikipedia.org/wiki/File:83-91_Ford_Club_Wagon.jpg "fig:83-91_Ford_Club_Wagon.jpg") [1975年](../Page/1975年.md "wikilink")にフルモデルチェンジし、新型の販売を開始。人間工学に基づいたモデルとフル・フレーム構造で[シャシは](https://ja.wikipedia.org/wiki/シャシ_\(自動車\) "wikilink")[トラックのものを使用した](https://ja.wikipedia.org/wiki/フォード・Fシリーズ "wikilink")。商用モデルがエコノライン、乗用モデルがクラブワゴンという名前になった。
+[83-91_Ford_Club_Wagon.jpg](https://ja.wikipedia.org/wiki/File:83-91_Ford_Club_Wagon.jpg "fig:83-91_Ford_Club_Wagon.jpg") [1975年](../Page/1975年.md "wikilink")にフルモデルチェンジし、新型の販売を開始。人間工学に基づいたモデルとフル・フレーム構造で[シャシは](../Page/シャシ_\(自動車\).md "wikilink")[トラックのものを使用した](../Page/フォード・Fシリーズ.md "wikilink")。商用モデルがエコノライン、乗用モデルがクラブワゴンという名前になった。
 
 [1979年](../Page/1979年.md "wikilink")に一部改良。フロント・グリル、ヘッドライトが変更され、正方形の規格型ヘッドライトに改良された。
 
@@ -63,11 +63,11 @@
 
 ### 2003年モデル
 
-['03-'05_Ford_E-350_Cutaway_(Byward_Auto_Classic).jpg](https://ja.wikipedia.org/wiki/File:'03-'05_Ford_E-350_Cutaway_\(Byward_Auto_Classic\).jpg "fig:'03-'05_Ford_E-350_Cutaway_(Byward_Auto_Classic).jpg") [2003年](../Page/2003年.md "wikilink")に一部改良を実施。フロントグリルのデザインが変更され、[フォードのロゴ](https://ja.wikipedia.org/wiki/フォード・モーター "wikilink")・マークが装着され、新しいエンジンカバー、カップホルダー、グローブボックスが装備された。
+['03-'05_Ford_E-350_Cutaway_(Byward_Auto_Classic).jpg](https://ja.wikipedia.org/wiki/File:'03-'05_Ford_E-350_Cutaway_\(Byward_Auto_Classic\).jpg "fig:'03-'05_Ford_E-350_Cutaway_(Byward_Auto_Classic).jpg") [2003年](../Page/2003年.md "wikilink")に一部改良を実施。フロントグリルのデザインが変更され、[フォードのロゴ](../Page/フォード・モーター.md "wikilink")・マークが装着され、新しいエンジンカバー、カップホルダー、グローブボックスが装備された。
 
 [2004年](../Page/2004年.md "wikilink")には、 新型6.0Lパワー・ストローク（Power Strok）ディーゼルエンジンが7.3Lディーゼルエンジンの[代替として搭載され](../Page/ダウンサイジングコンセプト.md "wikilink")、エンジン出力は7.3Lと揃えられた。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")には、[V10の](https://ja.wikipedia.org/wiki/V型10気筒 "wikilink")6.8Lエンジンが搭載された。
+[2006年](../Page/2006年.md "wikilink")には、[V10の](../Page/V型10気筒.md "wikilink")6.8Lエンジンが搭載された。
 
 ## 2008 - 2013
 
@@ -95,7 +95,7 @@
 
 ## 関連項目
 
-  - [フォード・モーター](https://ja.wikipedia.org/wiki/フォード・モーター "wikilink")
+  - [フォード・モーター](../Page/フォード・モーター.md "wikilink")
   - [リンカーン・ナビゲーター](../Page/リンカーン・ナビゲーター.md "wikilink")
 
 ## 外部リンク

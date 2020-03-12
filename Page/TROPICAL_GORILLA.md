@@ -54,7 +54,7 @@
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/10月11日.md" title="wikilink">10月11日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/10月11日.md" title="wikilink">10月11日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/CELL_No.9" title="wikilink">CELL No.9</a></strong></p></td>
 <td><p>DFCL-1316</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -72,7 +72,7 @@
 </div>
 </div></li>
 </ol></td>
-<td><p>「TROPICAL GORILLA×<a href="https://ja.wikipedia.org/wiki/BEAT_CRUSADERS" title="wikilink">BEAT CRUSADERS</a>」名義<br />
+<td><p>「TROPICAL GORILLA×<a href="../Page/BEAT_CRUSADERS.md" title="wikilink">BEAT CRUSADERS</a>」名義<br />
 オリコン最高12位、登場回数6回</p></td>
 </tr>
 <tr class="odd">
@@ -232,16 +232,16 @@
 <li>I'm So Alone / <a href="https://ja.wikipedia.org/wiki/Mad_Caddies" title="wikilink">Mad Caddies</a></li>
 <li>Yet / <a href="https://ja.wikipedia.org/wiki/Fat_Randy" title="wikilink">Fat Randy</a></li>
 <li>Porno Shop / <a href="https://ja.wikipedia.org/wiki/Teen_Idols" title="wikilink">Teen Idols</a></li>
-<li>I Can... / <a href="https://ja.wikipedia.org/wiki/POTSHOT" title="wikilink">POTSHOT</a></li>
+<li>I Can... / <a href="../Page/POTSHOT.md" title="wikilink">POTSHOT</a></li>
 <li>Ghost Town / <a href="https://ja.wikipedia.org/wiki/Strung_Out" title="wikilink">Strung Out</a></li>
 <li><strong>Nutter Better Bites / Tropical Gorilla</strong></li>
 <li>E To C / <a href="https://ja.wikipedia.org/wiki/SNUFF" title="wikilink">SNUFF</a></li>
-<li>Amnesia / <a href="https://ja.wikipedia.org/wiki/NICOTINE" title="wikilink">NICOTINE</a></li>
+<li>Amnesia / <a href="../Page/NICOTINE.md" title="wikilink">NICOTINE</a></li>
 <li>All About Paula / <a href="https://ja.wikipedia.org/wiki/Limp" title="wikilink">Limp</a></li>
 <li>Like A Dream / <a href="https://ja.wikipedia.org/wiki/EASY_GRIP" title="wikilink">EASY GRIP</a></li>
 <li>Gettin Air / <a href="https://ja.wikipedia.org/wiki/Chixdiggit" title="wikilink">Chixdiggit</a></li>
 <li>Strange / <a href="https://ja.wikipedia.org/wiki/Infield_Fly" title="wikilink">Infield Fly</a></li>
-<li>Eat The Meek (Rude Boy Mix) / <a href="https://ja.wikipedia.org/wiki/NOFX" title="wikilink">NOFX</a>
+<li>Eat The Meek (Rude Boy Mix) / <a href="../Page/NOFX.md" title="wikilink">NOFX</a>
 </div>
 </div></li>
 </ol></td>
@@ -259,10 +259,10 @@
 <ol>
 <li><strong>CRAZY / TROPICAL GORILLA</strong></li>
 <li>SEX IN THE WAY / <a href="https://ja.wikipedia.org/wiki/DISGUSTEENS" title="wikilink">DISGUSTEENS</a></li>
-<li>LONG DISTANCE / <a href="https://ja.wikipedia.org/wiki/BEAT_CRUSADERS" title="wikilink">BEAT CRUSADERS</a></li>
+<li>LONG DISTANCE / <a href="../Page/BEAT_CRUSADERS.md" title="wikilink">BEAT CRUSADERS</a></li>
 <li>SHE'S MY EX / <a href="https://ja.wikipedia.org/wiki/NOSHOW" title="wikilink">NOSHOW</a></li>
 <li>MINUTE / <a href="https://ja.wikipedia.org/wiki/SHORT_CIRCUIT" title="wikilink">SHORT CIRCUIT</a></li>
-<li>BIRTHDAY I.O.U. / <a href="https://ja.wikipedia.org/wiki/HUSKING_BEE" title="wikilink">HUSKING BEE</a></li>
+<li>BIRTHDAY I.O.U. / <a href="../Page/HUSKING_BEE.md" title="wikilink">HUSKING BEE</a></li>
 <li>ORIGINAL ME / <a href="https://ja.wikipedia.org/wiki/THUMB" title="wikilink">THUMB</a></li>
 <li>BREAKIN UP / <a href="https://ja.wikipedia.org/wiki/one/more/mile" title="wikilink">one/more/mile</a></li>
 <li>CAN'T SAY / <a href="https://ja.wikipedia.org/wiki/WATER_CLOSET" title="wikilink">WATER CLOSET</a></li>
@@ -275,7 +275,7 @@
 <td><p>Ambience Records</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/3月9日.md" title="wikilink">3月9日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/3月9日.md" title="wikilink">3月9日</a></p></td>
 <td><p><strong>animation <a href="https://ja.wikipedia.org/wiki/BECK_(漫画)" title="wikilink">BECK</a> original soundtrack “KEITH”</strong></p></td>
 <td><p>DFCL-1178</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -290,11 +290,11 @@
 <li>Piece Of Tears / <a href="https://ja.wikipedia.org/wiki/GOOFY&#39;S_HOLIDAY" title="wikilink">GOOFY'S HOLIDAY</a></li>
 <li>Like A Foojin / Typhoon24 Feat.Tatsuzo Of Ykz</li>
 <li>Journey / GOOFY'S HOLIDAY</li>
-<li>50￠ Wisdom / <a href="https://ja.wikipedia.org/wiki/BEAT_CRUSADERS" title="wikilink">BEAT CRUSADERS</a></li>
-<li>Brightest / <a href="https://ja.wikipedia.org/wiki/HUSKING_BEE" title="wikilink">HUSKING BEE</a></li>
+<li>50￠ Wisdom / <a href="../Page/BEAT_CRUSADERS.md" title="wikilink">BEAT CRUSADERS</a></li>
+<li>Brightest / <a href="../Page/HUSKING_BEE.md" title="wikilink">HUSKING BEE</a></li>
 <li>Face / Sister</li>
 <li>I Call You Love / <a href="https://ja.wikipedia.org/wiki/Meister" title="wikilink">Meister</a></li>
-<li>Little More Than Before (Slip Out) / <a href="https://ja.wikipedia.org/wiki/10-FEET" title="wikilink">10-FEET</a></li>
+<li>Little More Than Before (Slip Out) / <a href="../Page/10-FEET.md" title="wikilink">10-FEET</a></li>
 <li>Moon On The Water / Beat Crusaders
 </div>
 </div></li>
@@ -302,7 +302,7 @@
 <td><p>オリコン最高20位、登場回数10回</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="../Page/3月28日.md" title="wikilink">3月28日</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/3月28日.md" title="wikilink">3月28日</a></p></td>
 <td><p><strong>POWER STOCK[DVD]</strong></p></td>
 <td><p>RLBA-1002</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -318,15 +318,15 @@
 <li>鋼 / <a href="https://ja.wikipedia.org/wiki/鐡槌" title="wikilink">鐡槌</a></li>
 <li>Another man / <a href="https://ja.wikipedia.org/wiki/雷矢" title="wikilink">雷矢</a></li>
 <li>CRAZY SUMMER / <a href="https://ja.wikipedia.org/wiki/KENZI_&amp;_THE_TRIPS" title="wikilink">KENZI &amp; THE TRIPS</a></li>
-<li>ノット・サティスファイド / <a href="https://ja.wikipedia.org/wiki/仲野茂" title="wikilink">仲野茂</a>(FROM <a href="https://ja.wikipedia.org/wiki/ANARCHY" title="wikilink">ANARCHY</a>)</li>
-<li>JAIL BIRD / <a href="https://ja.wikipedia.org/wiki/Mic_Jack_Production" title="wikilink">Mic Jack Production</a></li>
+<li>ノット・サティスファイド / <a href="https://ja.wikipedia.org/wiki/仲野茂" title="wikilink">仲野茂</a>(FROM <a href="../Page/ANARCHY.md" title="wikilink">ANARCHY</a>)</li>
+<li>JAIL BIRD / <a href="../Page/Mic_Jack_Production.md" title="wikilink">Mic Jack Production</a></li>
 <li>213 to tha 052 / <a href="https://ja.wikipedia.org/wiki/PHOBIA_OF_THUG" title="wikilink">PHOBIA OF THUG</a></li>
-<li>物憂げ世情 / <a href="https://ja.wikipedia.org/wiki/ジャパハリネット" title="wikilink">ジャパハリネット</a></li>
-<li>魂を売りとばせ! / <a href="https://ja.wikipedia.org/wiki/KING_BROTHERS" title="wikilink">KING BROTHERS</a></li>
-<li>A Couple Days / <a href="https://ja.wikipedia.org/wiki/NAHT" title="wikilink">NAHT</a></li>
+<li>物憂げ世情 / <a href="../Page/ジャパハリネット.md" title="wikilink">ジャパハリネット</a></li>
+<li>魂を売りとばせ! / <a href="../Page/KING_BROTHERS.md" title="wikilink">KING BROTHERS</a></li>
+<li>A Couple Days / <a href="../Page/NAHT.md" title="wikilink">NAHT</a></li>
 <li>オデッセイ2005 SEX / <a href="https://ja.wikipedia.org/wiki/M.J.Q" title="wikilink">M.J.Q</a></li>
 <li>JUST RYDE OUT / <a href="https://ja.wikipedia.org/wiki/THE_RYDERS" title="wikilink">THE RYDERS</a></li>
-<li>CIRCLE BACK / <a href="https://ja.wikipedia.org/wiki/BRAHMAN" title="wikilink">BRAHMAN</a></li>
+<li>CIRCLE BACK / <a href="../Page/BRAHMAN.md" title="wikilink">BRAHMAN</a></li>
 <li>FUCKING THING / <a href="https://ja.wikipedia.org/wiki/UPPER" title="wikilink">UPPER</a></li>
 <li>C-3PO / <a href="https://ja.wikipedia.org/wiki/SUPERSNAZZ" title="wikilink">SUPERSNAZZ</a></li>
 <li><strong>Sunlit Skinny / TROPICAL GORILLA</strong></li>
@@ -358,10 +358,10 @@
 <li>WALK / <a href="https://ja.wikipedia.org/wiki/CORNER" title="wikilink">CORNER</a></li>
 <li>＃4 / <a href="https://ja.wikipedia.org/wiki/SLIME_BALL" title="wikilink">SLIME BALL</a></li>
 <li>YOU CAME BACK / <a href="https://ja.wikipedia.org/wiki/NOT_REBOUND" title="wikilink">NOT REBOUND</a></li>
-<li>the steady-state theory / <a href="https://ja.wikipedia.org/wiki/ロリータ18号" title="wikilink">ロリータ18号</a></li>
+<li>the steady-state theory / <a href="../Page/ロリータ18号.md" title="wikilink">ロリータ18号</a></li>
 <li>A SMALL POTATO'S MIND / <a href="https://ja.wikipedia.org/wiki/THE_OZONES" title="wikilink">THE OZONES</a></li>
 <li>欠けボタンの浜 / <a href="https://ja.wikipedia.org/wiki/MOGA_THE_¥5" title="wikilink">MOGA THE ¥5</a></li>
-<li>摩訶不思議テーゼ / <a href="https://ja.wikipedia.org/wiki/BEYONDS" title="wikilink">BEYONDS</a></li>
+<li>摩訶不思議テーゼ / <a href="../Page/BEYONDS.md" title="wikilink">BEYONDS</a></li>
 <li><strong>OUT OF SIGHT,IN MY MIND / TROPICAL GORILLA</strong></li>
 <li>瞬く過現未 / <a href="https://ja.wikipedia.org/wiki/藤井めぐみ" title="wikilink">藤井めぐみ</a>&amp;<a href="https://ja.wikipedia.org/wiki/THE_MOON" title="wikilink">THE MOON</a></li>
 <li>SING TO ME / <a href="https://ja.wikipedia.org/wiki/dr.snufkin" title="wikilink">dr.snufkin</a></li>
@@ -370,7 +370,7 @@
 </div>
 </div></li>
 </ol></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/HUSKING_BEE" title="wikilink">HUSKING BEEトリビュートアルバム</a><br />
+<td><p><a href="../Page/HUSKING_BEE.md" title="wikilink">HUSKING BEEトリビュートアルバム</a><br />
 オリコン最高185位</p></td>
 </tr>
 <tr class="odd">
@@ -384,18 +384,18 @@
 <div class="NavContent" style="text-align:left;">
 <ol>
 <li>I Know What You Want / <a href="https://ja.wikipedia.org/wiki/MUGWUMPS" title="wikilink">MUGWUMPS</a></li>
-<li>That's Enough / <a href="https://ja.wikipedia.org/wiki/COKEHEAD_HIPSTERS" title="wikilink">COKEHEAD HIPSTERS</a></li>
+<li>That's Enough / <a href="../Page/COKEHEAD_HIPSTERS.md" title="wikilink">COKEHEAD HIPSTERS</a></li>
 <li>Too Late / <a href="https://ja.wikipedia.org/wiki/STOMPIN&#39;_BIRD" title="wikilink">STOMPIN' BIRD</a></li>
 <li>What Kind Of Love / <a href="https://ja.wikipedia.org/wiki/Ken_Yokoyama" title="wikilink">Ken Yokoyama</a></li>
 <li>Come And Gone / <a href="https://ja.wikipedia.org/wiki/PONI-CAMP" title="wikilink">PONI-CAMP</a></li>
 <li>Now You Don't Remember / <a href="https://ja.wikipedia.org/wiki/FUCK_YOU_HEROES" title="wikilink">FUCK YOU HEROES</a></li>
-<li>Sweet Dreams / <a href="https://ja.wikipedia.org/wiki/BEAT_CRUSADERS" title="wikilink">BEAT CRUSADERS</a></li>
+<li>Sweet Dreams / <a href="../Page/BEAT_CRUSADERS.md" title="wikilink">BEAT CRUSADERS</a></li>
 <li>All You Need / <a href="https://ja.wikipedia.org/wiki/THE_ONE_THOUGHT_MOMENT" title="wikilink">THE ONE THOUGHT MOMENT</a></li>
 <li>Martin / <a href="https://ja.wikipedia.org/wiki/WATER_CLOSET" title="wikilink">WATER CLOSET</a></li>
 <li><strong>Little Git / TROPICAL GORILLA</strong></li>
 <li>Dicky Trois / <a href="https://ja.wikipedia.org/wiki/RAZORS_EDGE" title="wikilink">RAZORS EDGE</a></li>
 <li>Not Listening / <a href="../Page/PUFFY.md" title="wikilink">PUFFY</a></li>
-<li>Vikings / <a href="https://ja.wikipedia.org/wiki/BEYONDS" title="wikilink">BEYONDS</a></li>
+<li>Vikings / <a href="../Page/BEYONDS.md" title="wikilink">BEYONDS</a></li>
 <li>Sunny Places / <a href="https://ja.wikipedia.org/wiki/ELECTRIC_SUMMER" title="wikilink">ELECTRIC SUMMER</a></li>
 <li>Ecstacy / <a href="https://ja.wikipedia.org/wiki/S.M.N." title="wikilink">S.M.N.</a></li>
 <li>Damage Is Done / <a href="https://ja.wikipedia.org/wiki/SLIME_BALL" title="wikilink">SLIME BALL</a>
@@ -415,18 +415,18 @@
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>BRIGHTEN UP / <a href="https://ja.wikipedia.org/wiki/BRAHMAN" title="wikilink">BRAHMAN</a></li>
+<li>BRIGHTEN UP / <a href="../Page/BRAHMAN.md" title="wikilink">BRAHMAN</a></li>
 <li>NOTHING / <a href="https://ja.wikipedia.org/wiki/LOW_IQ_01" title="wikilink">LOW IQ 01</a></li>
 <li>NO TIME / <a href="https://ja.wikipedia.org/wiki/Riddim_Saunter" title="wikilink">Riddim Saunter</a></li>
-<li>DOO WEE / <a href="https://ja.wikipedia.org/wiki/BACK_DROP_BOMB" title="wikilink">BACK DROP BOMB</a></li>
+<li>DOO WEE / <a href="../Page/BACK_DROP_BOMB.md" title="wikilink">BACK DROP BOMB</a></li>
 <li>SAVE YOU LOVE / <a href="https://ja.wikipedia.org/wiki/LEADERS_OF_THE_PACK" title="wikilink">LEADERS OF THE PACK</a></li>
 <li><strong>COSTELLO / TROPICAL GORILLA</strong></li>
 <li>WHISTLE / <a href="https://ja.wikipedia.org/wiki/Oi-SKALL_MATES" title="wikilink">Oi-SKALL MATES</a></li>
-<li>YOU WANNA DO / <a href="https://ja.wikipedia.org/wiki/RUDEBONES" title="wikilink">RUDEBONES</a></li>
-<li>LUNCH IN THE JAIL / <a href="https://ja.wikipedia.org/wiki/YOUR_SONG_IS_GOOD" title="wikilink">YOUR SONG IS GOOD</a></li>
-<li>SOUL TO SOUL / <a href="https://ja.wikipedia.org/wiki/DOPING_PANDA" title="wikilink">DOPING PANDA</a></li>
+<li>YOU WANNA DO / <a href="../Page/RUDEBONES.md" title="wikilink">RUDEBONES</a></li>
+<li>LUNCH IN THE JAIL / <a href="../Page/YOUR_SONG_IS_GOOD.md" title="wikilink">YOUR SONG IS GOOD</a></li>
+<li>SOUL TO SOUL / <a href="../Page/DOPING_PANDA.md" title="wikilink">DOPING PANDA</a></li>
 <li>FAR PLACE / <a href="https://ja.wikipedia.org/wiki/BROWN_&amp;_THE_FOUR_BACKS" title="wikilink">BROWN &amp; THE FOUR BACKS</a></li>
-<li>NO TIME / <a href="https://ja.wikipedia.org/wiki/SPECIAL_OTHERS" title="wikilink">SPECIAL OTHERS</a></li>
+<li>NO TIME / <a href="../Page/SPECIAL_OTHERS.md" title="wikilink">SPECIAL OTHERS</a></li>
 <li>WE ARE THE WORLD / <a href="https://ja.wikipedia.org/wiki/CUBISMO_GRAFICO_Orchestra" title="wikilink">CUBISMO GRAFICO Orchestra</a></li>
 <li>IRISH FARM / <a href="https://ja.wikipedia.org/wiki/COMEBACK_MY_DAUGHTERS" title="wikilink">COMEBACK MY DAUGHTERS</a>
 </div>
@@ -445,12 +445,12 @@
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>まだ無理な要求 / <a href="https://ja.wikipedia.org/wiki/ABNORMALS" title="wikilink">ABNORMALS</a></li>
+<li>まだ無理な要求 / <a href="../Page/ABNORMALS.md" title="wikilink">ABNORMALS</a></li>
 <li>STEP UP / <a href="https://ja.wikipedia.org/wiki/the_band_apart" title="wikilink">the band apart</a></li>
 <li>tragic prayer / <a href="https://ja.wikipedia.org/wiki/the_brown" title="wikilink">the brown</a></li>
 <li>Step up and flash / <a href="https://ja.wikipedia.org/wiki/the_chef_cooks_me" title="wikilink">the chef cooks me</a></li>
-<li>EASY COME,EASY GO / <a href="https://ja.wikipedia.org/wiki/THE_CHERRY_COKE$" title="wikilink">THE CHERRY COKE$</a></li>
-<li>IS THIS A JOKE? / <a href="https://ja.wikipedia.org/wiki/COKEHEAD_HIPSTERS" title="wikilink">COKEHEAD HIPSTERS</a></li>
+<li>EASY COME,EASY GO / <a href="../Page/THE_CHERRY_COKE$.md" title="wikilink">THE CHERRY COKE$</a></li>
+<li>IS THIS A JOKE? / <a href="../Page/COKEHEAD_HIPSTERS.md" title="wikilink">COKEHEAD HIPSTERS</a></li>
 <li>SKATEBOARD GO TO HELL feat. MUE / <a href="https://ja.wikipedia.org/wiki/COQUETTISH" title="wikilink">COQUETTISH</a></li>
 <li>MY ROOTS / <a href="https://ja.wikipedia.org/wiki/COUNT_OF_STRENGTH" title="wikilink">COUNT OF STRENGTH</a></li>
 <li>KINGDOM in my eye. / <a href="https://ja.wikipedia.org/wiki/DASHBOARD" title="wikilink">DASHBOARD</a></li>
@@ -469,17 +469,17 @@
 <li>THE LETTER TO THE PRESIDENT / <a href="https://ja.wikipedia.org/wiki/FULLSCRATCH" title="wikilink">FULLSCRATCH</a></li>
 <li>ALL BEGAN TO HURRY / <a href="https://ja.wikipedia.org/wiki/GLEAM_GARDEN" title="wikilink">GLEAM GARDEN</a></li>
 <li>ARE YOU STRAIGHT EDGE? / <a href="https://ja.wikipedia.org/wiki/HARDCORE_FANCLUB" title="wikilink">HARDCORE FANCLUB</a></li>
-<li>Fire / <a href="https://ja.wikipedia.org/wiki/HAWAIIAN6" title="wikilink">HAWAIIAN6</a></li>
-<li>remains / <a href="https://ja.wikipedia.org/wiki/HOLSTEIN" title="wikilink">HOLSTEIN</a></li>
+<li>Fire / <a href="../Page/HAWAIIAN6.md" title="wikilink">HAWAIIAN6</a></li>
+<li>remains / <a href="../Page/HOLSTEIN.md" title="wikilink">HOLSTEIN</a></li>
 <li>AREA47 / <a href="https://ja.wikipedia.org/wiki/IDOL_PUNCH" title="wikilink">IDOL PUNCH</a></li>
 <li>Situation / <a href="https://ja.wikipedia.org/wiki/ISCREAM_7_SHOWERS" title="wikilink">ISCREAM 7 SHOWERS</a></li>
 <li>Identity war / <a href="https://ja.wikipedia.org/wiki/Jr.MONSTER" title="wikilink">Jr.MONSTER</a></li>
 <li>フルクライマックス / <a href="https://ja.wikipedia.org/wiki/kamomekamome" title="wikilink">kamomekamome</a></li>
 <li>概念 / <a href="https://ja.wikipedia.org/wiki/LAST_TARGET" title="wikilink">LAST TARGET</a></li>
 <li>HORSE WITH A KAPPA FACE / <a href="https://ja.wikipedia.org/wiki/LIVE_CLEAN_STAY_YOUNG" title="wikilink">LIVE CLEAN STAY YOUNG</a></li>
-<li>あらしの夜に… / <a href="https://ja.wikipedia.org/wiki/THE_LOCAL_ART" title="wikilink">THE LOCAL ART</a></li>
+<li>あらしの夜に… / <a href="../Page/THE_LOCAL_ART.md" title="wikilink">THE LOCAL ART</a></li>
 <li>cycled promises / <a href="https://ja.wikipedia.org/wiki/locofrank" title="wikilink">locofrank</a></li>
-<li>足跡 / <a href="https://ja.wikipedia.org/wiki/LOST_IN_TIME" title="wikilink">LOST IN TIME</a></li>
+<li>足跡 / <a href="../Page/LOST_IN_TIME.md" title="wikilink">LOST IN TIME</a></li>
 <li>INSTANT FOOD CHAIN / <a href="https://ja.wikipedia.org/wiki/MEATBUNS" title="wikilink">MEATBUNS</a></li>
 <li>JUSTICE / <a href="https://ja.wikipedia.org/wiki/M.G.T" title="wikilink">M.G.T</a></li>
 <li>Here Comes May Again / <a href="https://ja.wikipedia.org/wiki/MUGWUMPS" title="wikilink">MUGWUMPS</a></li>
@@ -495,7 +495,7 @@
 <li>SLAVE DRIVER / <a href="https://ja.wikipedia.org/wiki/REAL_SHIT" title="wikilink">REAL SHIT</a></li>
 <li>夢幻 / <a href="https://ja.wikipedia.org/wiki/RISE" title="wikilink">RISE</a></li>
 <li>BELIEVING / <a href="https://ja.wikipedia.org/wiki/S.M.N." title="wikilink">S.M.N.</a></li>
-<li>Hi Baby / <a href="https://ja.wikipedia.org/wiki/SABOTEN" title="wikilink">SABOTEN</a></li>
+<li>Hi Baby / <a href="../Page/SABOTEN.md" title="wikilink">SABOTEN</a></li>
 <li>Errorizer / <a href="https://ja.wikipedia.org/wiki/SAIGAN_TERROR" title="wikilink">SAIGAN TERROR</a></li>
 <li>Climb The Wall / <a href="https://ja.wikipedia.org/wiki/SCUM_BANDITZ" title="wikilink">SCUM BANDITZ</a></li>
 <li>シャフトロング / <a href="https://ja.wikipedia.org/wiki/SHACHI" title="wikilink">SHACHI</a></li>
@@ -524,7 +524,7 @@
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>I WANNA BE A DREAMMAKER / <a href="https://ja.wikipedia.org/wiki/BEAT_CRUSADERS" title="wikilink">BEAT CRUSADERS</a></li>
+<li>I WANNA BE A DREAMMAKER / <a href="../Page/BEAT_CRUSADERS.md" title="wikilink">BEAT CRUSADERS</a></li>
 <li>TREKKIN' CREW / <a href="https://ja.wikipedia.org/wiki/SpecialThanks" title="wikilink">SpecialThanks</a></li>
 <li>Get up / <a href="https://ja.wikipedia.org/wiki/locofrank" title="wikilink">locofrank</a></li>
 <li>MOKUKARA PARTY TONIGHT / <a href="https://ja.wikipedia.org/wiki/WATER_CLOSET" title="wikilink">WATER CLOSET</a></li>
@@ -537,7 +537,7 @@
 <li>9番目の約束 / <a href="https://ja.wikipedia.org/wiki/F.I.B" title="wikilink">F.I.B</a></li>
 <li><strong>PUSSYMAN / TROPICAL GORILLA</strong></li>
 <li>WAYA / <a href="https://ja.wikipedia.org/wiki/SLIME_BALL" title="wikilink">SLIME BALL</a></li>
-<li>サヨナラ77 / <a href="https://ja.wikipedia.org/wiki/ASPARAGUS" title="wikilink">ASPARAGUS</a>
+<li>サヨナラ77 / <a href="../Page/ASPARAGUS.md" title="wikilink">ASPARAGUS</a>
 </div>
 </div></li>
 </ol></td>
@@ -553,10 +553,10 @@
 <div class="NavContent" style="text-align:left;">
 <ol>
 <li>I Just Want Some Skank / <a href="https://ja.wikipedia.org/wiki/NO_HITTER" title="wikilink">NO HITTER</a></li>
-<li>Red Tape / <a href="https://ja.wikipedia.org/wiki/BREAKfAST" title="wikilink">BREAKfAST</a></li>
+<li>Red Tape / <a href="../Page/BREAKfAST.md" title="wikilink">BREAKfAST</a></li>
 <li>Beverly Hills / <a href="https://ja.wikipedia.org/wiki/原爆オナニーズ" title="wikilink">原爆オナニーズ</a></li>
 <li>What's Problem / <a href="https://ja.wikipedia.org/wiki/STEPLIGHTLY" title="wikilink">STEPLIGHTLY</a></li>
-<li>Karma Stew / <a href="https://ja.wikipedia.org/wiki/BEYONDS" title="wikilink">BEYONDS</a></li>
+<li>Karma Stew / <a href="../Page/BEYONDS.md" title="wikilink">BEYONDS</a></li>
 <li>Moral Majority / <a href="https://ja.wikipedia.org/wiki/SPY_MASTER" title="wikilink">SPY MASTER</a></li>
 <li>Wasted / <a href="https://ja.wikipedia.org/wiki/デラシネ" title="wikilink">デラシネ</a></li>
 <li>Coup D'Etat / <a href="https://ja.wikipedia.org/wiki/HARDCORE_FANCLUB" title="wikilink">HARDCORE FANCLUB</a></li>
@@ -592,7 +592,7 @@
 
 ## 関連項目
 
-  - [BEAT CRUSADERS](https://ja.wikipedia.org/wiki/BEAT_CRUSADERS "wikilink")
+  - [BEAT CRUSADERS](../Page/BEAT_CRUSADERS.md "wikilink")
 
 ## 外部リンク
 

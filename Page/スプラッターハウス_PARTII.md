@@ -1,9 +1,9 @@
 > この記事は[ PARTII](https://ja.wikipedia.org/wiki/_PARTII)から翻訳されています。
 
 
-『**スプラッターハウス PARTII**』（*SPLATTER HOUSE PARTII*）は、[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")にナムコ（後の[バンダイナムコエンターテインメント](../Page/バンダイナムコエンターテインメント.md "wikilink")）から[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")『[スプラッターハウス](https://ja.wikipedia.org/wiki/スプラッターハウス "wikilink")』の家庭用オリジナル続編として[メガドライブ](../Page/メガドライブ.md "wikilink")で発売された[アクションゲーム](../Page/アクションゲーム.md "wikilink")である。
+『**スプラッターハウス PARTII**』（*SPLATTER HOUSE PARTII*）は、[1992年](../Page/1992年.md "wikilink")にナムコ（後の[バンダイナムコエンターテインメント](../Page/バンダイナムコエンターテインメント.md "wikilink")）から[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")『[スプラッターハウス](../Page/スプラッターハウス.md "wikilink")』の家庭用オリジナル続編として[メガドライブ](../Page/メガドライブ.md "wikilink")で発売された[アクションゲーム](../Page/アクションゲーム.md "wikilink")である。
 
-なお、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月1日](../Page/7月1日.md "wikilink")より[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")の[バーチャルコンソール](https://ja.wikipedia.org/wiki/バーチャルコンソール "wikilink")で配信されている。
+なお、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月1日](../Page/7月1日.md "wikilink")より[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")の[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")で配信されている。
 
 ## ゲーム内容
 
@@ -15,7 +15,7 @@
 
 ### アイテム
 
-  - [鉄パイプ](https://ja.wikipedia.org/wiki/鉄パイプ "wikilink")
+  - [鉄パイプ](../Page/鉄パイプ.md "wikilink")
     デッドマンを壁に叩きつける。
   - [骨](../Page/骨.md "wikilink")
     巨大な骨。振り下ろしてデスノイドαを一撃で叩き潰せる。
@@ -25,11 +25,11 @@
     振り下ろして敵を切り裂く。ハサミ同様、最初は襲ってくる。ブランデッドに有効。
   - [オール](https://ja.wikipedia.org/wiki/オール "wikilink")
     デッドマンを湖へ吹っ飛ばす。
-  - ダムデッドの[頭蓋骨](https://ja.wikipedia.org/wiki/頭蓋骨 "wikilink")
+  - ダムデッドの[頭蓋骨](../Page/頭蓋骨.md "wikilink")
     特定のダムデッドを倒すと、ダムデッドの頭だけが残り、アイテムとして入手できる。投げつけて使用する。攻撃力は高くはないが、敵に当てると高いスコアが得られる。
   - [ショットガン](https://ja.wikipedia.org/wiki/ショットガン "wikilink")
     装弾数は8発。唯一壁にかけてある武器で、今作では登場するのは1丁のみであり、それを使い切るとその後一切登場しない。デスノイドαに有効。
-  - [フラスコ](https://ja.wikipedia.org/wiki/フラスコ "wikilink")
+  - [フラスコ](../Page/フラスコ.md "wikilink")
     実験用の液体が入ったフラスコ。投げつけて使用する。可燃性なのか、敵に当たると燃え上がり、焼き尽くす。マッドデッドを倒すことが出来る唯一の武器。
   - [毒針](https://ja.wikipedia.org/wiki/毒針 "wikilink")
     ヘルテンタクルズが飛ばしてくる毒針。叩き落とすことでアイテムとして入手でき、投げ返す事が出来る。ただし、「毒針」とあるが毒の要素は一切ない。
@@ -38,7 +38,7 @@
 
 日本国外では「SPLATTER HOUSE 2」の題で出されており、以下の変更点が存在する。
 
-  - リックのヘルマスクが[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌舞伎役者](https://ja.wikipedia.org/wiki/歌舞伎役者 "wikilink")が被るような[デザイン](../Page/デザイン.md "wikilink")から[頭蓋骨](https://ja.wikipedia.org/wiki/頭蓋骨 "wikilink")を漠したものに変更されている。それに合わせてステージ間のデザインも変更された。マニュアル内の一部のゲーム画面説明やリックのイラストは何故か日本国内のものをそのまま流用している。
+  - リックのヘルマスクが[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌舞伎役者](https://ja.wikipedia.org/wiki/歌舞伎役者 "wikilink")が被るような[デザイン](../Page/デザイン.md "wikilink")から[頭蓋骨](../Page/頭蓋骨.md "wikilink")を漠したものに変更されている。それに合わせてステージ間のデザインも変更された。マニュアル内の一部のゲーム画面説明やリックのイラストは何故か日本国内のものをそのまま流用している。
   - ステージ間の[アイキャッチ](https://ja.wikipedia.org/wiki/アイキャッチ "wikilink")で出る状況の説明文の英語が日本語版とフォントが違っている。更に文字サイズも若干大きい。
   - ライフ数が最大で4つになっている。難易度変更時のライフ最大数も日本版とは異なる他、ステージクリア時は全快するようになっている。
   - パスワードコンティニュー制になっている。パスワードはゲームオーバー時に表示される。
@@ -157,7 +157,7 @@
 ## 評価
 
   - ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「クロスレビュー」では6・5・5・5の合計21点（満40点）になっている\[2\]。
-  - ゲーム誌『[メガドライブFAN](https://ja.wikipedia.org/wiki/ドリームキャストFAN "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、19.81（満30点）点となっている\[3\]。また、同雑誌1993年7月号特別付録の「メガドライブ&ゲームギア オールカタログ'93」では、「ゲームの難易度はかなり高め」と紹介されている\[4\]。
+  - ゲーム誌『[メガドライブFAN](../Page/ドリームキャストFAN.md "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、19.81（満30点）点となっている\[3\]。また、同雑誌1993年7月号特別付録の「メガドライブ&ゲームギア オールカタログ'93」では、「ゲームの難易度はかなり高め」と紹介されている\[4\]。
 
 <!-- end list -->
 
@@ -166,15 +166,15 @@
 
 \!項目 |キャラクタ||音楽||操作性||熱中度||お買得度||オリジナリティ \!総合 |- \!得点 |3.72||3.49||2.67||3.34||3.32||3.27 \!19.81 |}
 
-  - ゲーム本『メガドライブ大全』（[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")、[太田出版](https://ja.wikipedia.org/wiki/太田出版 "wikilink")）では、「続編を謳っているが、敵も『死霊』より『エイリアン』に近く、グロくはあるが怖さは薄れた」、「前作で頼りになったスライディングが出にくく、全体の難しさはアップ」と評している\[5\]。
+  - ゲーム本『メガドライブ大全』（[2004年](../Page/2004年.md "wikilink")、[太田出版](../Page/太田出版.md "wikilink")）では、「続編を謳っているが、敵も『死霊』より『エイリアン』に近く、グロくはあるが怖さは薄れた」、「前作で頼りになったスライディングが出にくく、全体の難しさはアップ」と評している\[5\]。
 
 ## 脚注
 
 ## 関連項目
 
-  - [スプラッターハウス](https://ja.wikipedia.org/wiki/スプラッターハウス "wikilink")
-  - [スプラッターハウス PARTIII](https://ja.wikipedia.org/wiki/スプラッターハウス_PARTIII "wikilink")
-  - [スプラッターハウス わんぱくグラフィティ](https://ja.wikipedia.org/wiki/スプラッターハウス_わんぱくグラフィティ "wikilink")
+  - [スプラッターハウス](../Page/スプラッターハウス.md "wikilink")
+  - [スプラッターハウス PARTIII](../Page/スプラッターハウス_PARTIII.md "wikilink")
+  - [スプラッターハウス わんぱくグラフィティ](../Page/スプラッターハウス_わんぱくグラフィティ.md "wikilink")
 
 ## 外部リンク
 

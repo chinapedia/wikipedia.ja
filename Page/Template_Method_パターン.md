@@ -1,11 +1,11 @@
 > この記事は[Template Method ](https://ja.wikipedia.org/wiki/Template_Method_)から翻訳されています。
 
 
-**Template Method パターン**（テンプレート・メソッド・パターン）とは、[GoF](https://ja.wikipedia.org/wiki/ギャング・オブ・フォー_\(情報工学\) "wikilink")(Gang of Four; 4人のギャングたち)によって定義された[デザインパターンの](https://ja.wikipedia.org/wiki/デザインパターン_\(ソフトウェア\) "wikilink")1つである。「振る舞いに関するパターン」に属する。Template Method パターンの目的は、ある処理のおおまかなアルゴリズムをあらかじめ決めておいて、そのアルゴリズムの具体的な設計をサブクラスに任せることである。そのため、システムの[フレームワークを構築するための手段としてよく活用される](https://ja.wikipedia.org/wiki/アプリケーションフレームワーク "wikilink")。
+**Template Method パターン**（テンプレート・メソッド・パターン）とは、[GoF](https://ja.wikipedia.org/wiki/ギャング・オブ・フォー_\(情報工学\) "wikilink")(Gang of Four; 4人のギャングたち)によって定義された[デザインパターンの](https://ja.wikipedia.org/wiki/デザインパターン_\(ソフトウェア\) "wikilink")1つである。「振る舞いに関するパターン」に属する。Template Method パターンの目的は、ある処理のおおまかなアルゴリズムをあらかじめ決めておいて、そのアルゴリズムの具体的な設計をサブクラスに任せることである。そのため、システムの[フレームワークを構築するための手段としてよく活用される](../Page/アプリケーションフレームワーク.md "wikilink")。
 
 ## クラス図
 
-以下に Template Method パターンの[クラス図](https://ja.wikipedia.org/wiki/クラス図 "wikilink")を挙げる。
+以下に Template Method パターンの[クラス図](../Page/クラス図.md "wikilink")を挙げる。
 
 [center](https://ja.wikipedia.org/wiki/画像:Template_Method_UML_class_diagram.svg "wikilink")
 
@@ -82,11 +82,11 @@ public class TemplateMethodTest{
 
 ## 関係するパターン
 
-[Factory Method パターンは](https://ja.wikipedia.org/wiki/Factory_Method_パターン "wikilink")、内部に Template Method パターンを包含することが多い。
+[Factory Method パターンは](../Page/Factory_Method_パターン.md "wikilink")、内部に Template Method パターンを包含することが多い。
 
 ## 関連項目
 
-  - [Factory Method パターン](https://ja.wikipedia.org/wiki/Factory_Method_パターン "wikilink")
+  - [Factory Method パターン](../Page/Factory_Method_パターン.md "wikilink")
   - [デザインパターン](https://ja.wikipedia.org/wiki/デザインパターン_\(ソフトウェア\) "wikilink")
 
 ## 脚注

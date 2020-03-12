@@ -1,11 +1,11 @@
 > この記事は[SPANOVA](https://ja.wikipedia.org/wiki/SPANOVA)から翻訳されています。
 
 
-**SPANOVA**（スパノヴァ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の兄弟[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")である。1997年[ダブリューイーエー・ジャパン](https://ja.wikipedia.org/wiki/ダブリューイーエー・ジャパン "wikilink")（ワーナーミュージック・ジャパン）よりデビュー。制作はプライベートスタジオ「Daily Planet Studio」で行っている。2002年 felicity に移籍。J-POP シーンでの活動と平行して、海外の[クロスオーバー](../Page/クロスオーバー_\(音楽\).md "wikilink")／[エレクトロニカ](../Page/エレクトロニカ.md "wikilink")シーンでも活動を展開。 2010年5月に最新 EP『SetsunaLized SetsunaRider』（iTunes Japan Store エレクトロニックチャート1位）をドロップ。その他アートシーンでのコラボレーションでも注目を集めている。
+**SPANOVA**（スパノヴァ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の兄弟[音楽ユニット](../Page/音楽ユニット.md "wikilink")である。1997年[ダブリューイーエー・ジャパン](https://ja.wikipedia.org/wiki/ダブリューイーエー・ジャパン "wikilink")（ワーナーミュージック・ジャパン）よりデビュー。制作はプライベートスタジオ「Daily Planet Studio」で行っている。2002年 felicity に移籍。J-POP シーンでの活動と平行して、海外の[クロスオーバー](../Page/クロスオーバー_\(音楽\).md "wikilink")／[エレクトロニカ](../Page/エレクトロニカ.md "wikilink")シーンでも活動を展開。 2010年5月に最新 EP『SetsunaLized SetsunaRider』（iTunes Japan Store エレクトロニックチャート1位）をドロップ。その他アートシーンでのコラボレーションでも注目を集めている。
 
 ## メンバー
 
-  - **KEN TASAKI**　(田崎憲、[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[3月4日](../Page/3月4日.md "wikilink") - )
+  - **KEN TASAKI**　(田崎憲、[1970年](../Page/1970年.md "wikilink")[3月4日](../Page/3月4日.md "wikilink") - )
   - **SHIN TASAKI**　(田崎伸、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[11月5日](../Page/11月5日.md "wikilink") - )
 
 ## ディスコグラフィー
@@ -22,7 +22,7 @@
   - **[Daily Planet](https://itunes.apple.com/jp/album/daily-planet-ep/id370922082)**（1997年1月25日）ミニアルバム
   - **[DEAD MUSIC FLAMINGO](https://itunes.apple.com/jp/album/dead-music-flamingo/id370924617)**（1998年2月25日）
   - **[SUPER BALL](https://itunes.apple.com/jp/album/super-ball/id370924251)**（1999年5月26日）
-      - 4.サーフィング（[スペースシャワーTV](https://ja.wikipedia.org/wiki/スペースシャワーTV "wikilink")1999年5月度[POWER PUSH](https://ja.wikipedia.org/wiki/スペースシャワーTV歴代POWER_PUSH一覧 "wikilink")）
+      - 4.サーフィング（[スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")1999年5月度[POWER PUSH](../Page/スペースシャワーTV歴代POWER_PUSH一覧.md "wikilink")）
   - **SPEAK LOUD**（2000年9月27日）ミニアルバム
   - **[Diary Of The Headphonist](https://itunes.apple.com/jp/album/diary-of-the-headphonist/id370922822)**（2000年11月22日）
   - **[BEAUTIFUL LIFELINES](https://itunes.apple.com/jp/album/beautiful-lifelines/id432523001)**（2002年9月25日）
@@ -35,26 +35,26 @@
 
 ### 楽曲提供
 
-| アーティスト名                                                                                                                                | 楽曲名                                                                                                                                   | 収録作品                                                                           | リリース日      |
-| -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ---------- |
-| [雪乃](https://ja.wikipedia.org/wiki/雪乃 "wikilink")                                                                                      | [豹 -PANTHER-](https://itunes.apple.com/jp/album/bao-panther/id619629066?i=619629171)                                                  | アルバム『VOCALIZE』                                                                 | 2013.03.27 |
-| [南波志帆](https://ja.wikipedia.org/wiki/南波志帆 "wikilink")                                                                                  | [まちかどハルジオン](https://itunes.apple.com/jp/album/machikadoharujion/id448646440?i=448646597)                                              | アルバム『水色ジェネレーション』                                                               | 2011.07.20 |
-| [YOSHIKA](https://ja.wikipedia.org/wiki/YOSHIKA "wikilink")                                                                            | [Stand up](https://itunes.apple.com/jp/album/stand-up-recorded-in-2006/id290141517?i=290141523)                                       | シングル『Stand up』                                                                 | 2008 09.17 |
-| YOSHIKA                                                                                                                                | [happiness](https://itunes.apple.com/jp/album/machikadoharujion/id448646440?i=448646597)                                              | アルバム『timeless』                                                                 | 2006.01.18 |
-| [AI](https://ja.wikipedia.org/wiki/AI_\(歌手\) "wikilink")                                                                               | [What Is A Life](https://itunes.apple.com/jp/album/what-is-a-life/id154704621?i=154704662)                                            | 映画サントラ『[嫌われ松子の一生](https://ja.wikipedia.org/wiki/嫌われ松子の一生 "wikilink")』          |            |
-| [HALCALI](../Page/HALCALI.md "wikilink")                                                                                               | [芝生 feat. 谷川俊太郎](https://itunes.apple.com/jp/album/zhi-sheng-feat.-gu-chuan-jun/id305328458?i=305328466)                              | アルバム『音樂のススメ』                                                                   | 2004.11.24 |
-| [GAKU-MC](https://ja.wikipedia.org/wiki/GAKU-MC "wikilink")                                                                            | [Guys on the Moon/東京スーパースターズ/flash back/I wish/Happy Vibes](https://itunes.apple.com/jp/album/a-day-in-the-life/id882517009)          | アルバム『a day in the life』                                                        | 2002.06.26 |
-| [Chocolat](https://ja.wikipedia.org/wiki/Chocolat "wikilink")                                                                          | Butterfly                                                                                                                             | アルバム『ハムスター』                                                                    | 1999.08.21 |
-| [佐藤竹善](https://ja.wikipedia.org/wiki/佐藤竹善 "wikilink")（[SING LIKE TALKING](https://ja.wikipedia.org/wiki/SING_LIKE_TALKING "wikilink")） | [BLUE](https://itunes.apple.com/jp/album/blue/id83807511?i=83807593)                                                                  | アルバム『Okura』                                                                    | 2005.11.02 |
-| [CHEMISTRY](../Page/CHEMISTRY.md "wikilink")                                                                                           | Dance With Me（KOREA / JAPAN Ver.）                                                                                                     | シングル『キミがいる』（カップリング曲）                                                           | 2005.02.23 |
-| CHEMISTRY                                                                                                                              | Long Long Way                                                                                                                         | シングル『Long Long Way』（表題曲）                                                       | 2004.10.27 |
-| CHEMISTRY                                                                                                                              | いとしい人（映画『\[69 sixty nine\]』主題歌）                                                                                                       | シングル『Mirage in blue / いとしい人』（表題曲）                                              | 2004.07.07 |
-| CHEMISTRY                                                                                                                              | いとしい人（映画『\[69 sixty nine\]』主題歌）/Bound for Identity 〜dear friend 〜/YOUR NAME NEVER GONE                                                | アルバム『One × One』                                                                | 2004.02.19 |
-| CHEMISTRY                                                                                                                              | YOUR NAME NEVER GONE」（表題曲）                                                                                                            | シングル/『YOUR NAME NEVER GONE』（表題曲）ALBUM                                          | 2003.11.19 |
-| Chocolat                                                                                                                               | 迷子の鳥/ヘブン11/バレリーナ                                                                                                                      | アルバム『Chocolat Notes』                                                           | 2003.10.28 |
-| [20th Century](../Page/V6_\(グループ\).md "wikilink")                                                                                      | Working Man                                                                                                                           | アルバム『[\! -attention-](https://ja.wikipedia.org/wiki/!_-attention- "wikilink")』 | 1999.09.29 |
-| 佐藤竹善（SING LIKE TALKING）                                                                                                                | Believe In Life - featuring [西村智彦](https://ja.wikipedia.org/wiki/西村智彦 "wikilink") & [山弦](https://ja.wikipedia.org/wiki/山弦 "wikilink") | アルバム『CORNERSTONES 2』                                                           | 2002.12.18 |
-|                                                                                                                                        |                                                                                                                                       |                                                                                |            |
+| アーティスト名                                                                                                             | 楽曲名                                                                                                                                   | 収録作品                                                        | リリース日      |
+| ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | ---------- |
+| [雪乃](https://ja.wikipedia.org/wiki/雪乃 "wikilink")                                                                   | [豹 -PANTHER-](https://itunes.apple.com/jp/album/bao-panther/id619629066?i=619629171)                                                  | アルバム『VOCALIZE』                                              | 2013.03.27 |
+| [南波志帆](https://ja.wikipedia.org/wiki/南波志帆 "wikilink")                                                               | [まちかどハルジオン](https://itunes.apple.com/jp/album/machikadoharujion/id448646440?i=448646597)                                              | アルバム『水色ジェネレーション』                                            | 2011.07.20 |
+| [YOSHIKA](../Page/YOSHIKA.md "wikilink")                                                                            | [Stand up](https://itunes.apple.com/jp/album/stand-up-recorded-in-2006/id290141517?i=290141523)                                       | シングル『Stand up』                                              | 2008 09.17 |
+| YOSHIKA                                                                                                             | [happiness](https://itunes.apple.com/jp/album/machikadoharujion/id448646440?i=448646597)                                              | アルバム『timeless』                                              | 2006.01.18 |
+| [AI](https://ja.wikipedia.org/wiki/AI_\(歌手\) "wikilink")                                                            | [What Is A Life](https://itunes.apple.com/jp/album/what-is-a-life/id154704621?i=154704662)                                            | 映画サントラ『[嫌われ松子の一生](../Page/嫌われ松子の一生.md "wikilink")』          |            |
+| [HALCALI](../Page/HALCALI.md "wikilink")                                                                            | [芝生 feat. 谷川俊太郎](https://itunes.apple.com/jp/album/zhi-sheng-feat.-gu-chuan-jun/id305328458?i=305328466)                              | アルバム『音樂のススメ』                                                | 2004.11.24 |
+| [GAKU-MC](../Page/GAKU-MC.md "wikilink")                                                                            | [Guys on the Moon/東京スーパースターズ/flash back/I wish/Happy Vibes](https://itunes.apple.com/jp/album/a-day-in-the-life/id882517009)          | アルバム『a day in the life』                                     | 2002.06.26 |
+| [Chocolat](../Page/Chocolat.md "wikilink")                                                                          | Butterfly                                                                                                                             | アルバム『ハムスター』                                                 | 1999.08.21 |
+| [佐藤竹善](../Page/佐藤竹善.md "wikilink")（[SING LIKE TALKING](https://ja.wikipedia.org/wiki/SING_LIKE_TALKING "wikilink")） | [BLUE](https://itunes.apple.com/jp/album/blue/id83807511?i=83807593)                                                                  | アルバム『Okura』                                                 | 2005.11.02 |
+| [CHEMISTRY](../Page/CHEMISTRY.md "wikilink")                                                                        | Dance With Me（KOREA / JAPAN Ver.）                                                                                                     | シングル『キミがいる』（カップリング曲）                                        | 2005.02.23 |
+| CHEMISTRY                                                                                                           | Long Long Way                                                                                                                         | シングル『Long Long Way』（表題曲）                                    | 2004.10.27 |
+| CHEMISTRY                                                                                                           | いとしい人（映画『\[69 sixty nine\]』主題歌）                                                                                                       | シングル『Mirage in blue / いとしい人』（表題曲）                           | 2004.07.07 |
+| CHEMISTRY                                                                                                           | いとしい人（映画『\[69 sixty nine\]』主題歌）/Bound for Identity 〜dear friend 〜/YOUR NAME NEVER GONE                                                | アルバム『One × One』                                             | 2004.02.19 |
+| CHEMISTRY                                                                                                           | YOUR NAME NEVER GONE」（表題曲）                                                                                                            | シングル/『YOUR NAME NEVER GONE』（表題曲）ALBUM                       | 2003.11.19 |
+| Chocolat                                                                                                            | 迷子の鳥/ヘブン11/バレリーナ                                                                                                                      | アルバム『Chocolat Notes』                                        | 2003.10.28 |
+| [20th Century](../Page/V6_\(グループ\).md "wikilink")                                                                   | Working Man                                                                                                                           | アルバム『[\! -attention-](../Page/!_-attention-.md "wikilink")』 | 1999.09.29 |
+| 佐藤竹善（SING LIKE TALKING）                                                                                             | Believe In Life - featuring [西村智彦](https://ja.wikipedia.org/wiki/西村智彦 "wikilink") & [山弦](https://ja.wikipedia.org/wiki/山弦 "wikilink") | アルバム『CORNERSTONES 2』                                        | 2002.12.18 |
+|                                                                                                                     |                                                                                                                                       |                                                             |            |
 
 他
 
@@ -62,8 +62,8 @@
 
   - [NINI TOUNUMA](https://ja.wikipedia.org/wiki/NINI_TOUNUMA "wikilink")
   - [HALCALI](../Page/HALCALI.md "wikilink")
-  - [YOSHIKA](https://ja.wikipedia.org/wiki/YOSHIKA "wikilink")
-  - [佐藤竹善](https://ja.wikipedia.org/wiki/佐藤竹善 "wikilink")
+  - [YOSHIKA](../Page/YOSHIKA.md "wikilink")
+  - [佐藤竹善](../Page/佐藤竹善.md "wikilink")
   - [GAKU MC](https://ja.wikipedia.org/wiki/GAKU_MC "wikilink")
 
 ### リミックス
@@ -83,7 +83,7 @@
 
 　　※SPANOVA「Absentminded」, SOME WATER AND SUN「Sowbreaker」「Cold Ease」
 
-  - 映画『[嫌われ松子の一生](https://ja.wikipedia.org/wiki/嫌われ松子の一生 "wikilink")』劇中曲「What Is A Life」（楽曲提供・アレンジ）
+  - 映画『[嫌われ松子の一生](../Page/嫌われ松子の一生.md "wikilink")』劇中曲「What Is A Life」（楽曲提供・アレンジ）
 
 　　※ヴォーカル　[AI](https://ja.wikipedia.org/wiki/AI_\(歌手\) "wikilink")
 
@@ -91,7 +91,7 @@
 
 　　※SOME WATER AND SUN is Shin Tasaki and John Hughes
 
-  - [Scott Helen](https://ja.wikipedia.org/wiki/:en:Savath_and_Savalas/ "wikilink")（プロデュース） × SPN（楽曲提供）　/　[Chocolat](https://ja.wikipedia.org/wiki/Chocolat "wikilink")「バレリーナ」
+  - [Scott Helen](https://ja.wikipedia.org/wiki/:en:Savath_and_Savalas/ "wikilink")（プロデュース） × SPN（楽曲提供）　/　[Chocolat](../Page/Chocolat.md "wikilink")「バレリーナ」
 
 　　※[Prefuse73](https://ja.wikipedia.org/wiki/:en:Savath_and_Savalas/ "wikilink") / [SAVAS+SAVALAS](https://ja.wikipedia.org/wiki/:en:Savath_and_Savalas/ "wikilink")...
 
@@ -103,7 +103,7 @@
 
 　　※[Tortoise](https://ja.wikipedia.org/wiki/Tortoise "wikilink") , [Sea & Cake](https://ja.wikipedia.org/wiki/:en:Sea_and_cake/ "wikilink")...
 
-  - レイハラカミ（プロデュース） × SPN（楽曲提供）　/　[Chocolat](https://ja.wikipedia.org/wiki/Chocolat "wikilink")「迷子の鳥」「ヘブン11」
+  - レイハラカミ（プロデュース） × SPN（楽曲提供）　/　[Chocolat](../Page/Chocolat.md "wikilink")「迷子の鳥」「ヘブン11」
 
 <!-- end list -->
 

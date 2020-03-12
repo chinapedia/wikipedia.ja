@@ -1,11 +1,11 @@
 > この記事は[Hanako](https://ja.wikipedia.org/wiki/Hanako)から翻訳されています。
 
 
-『**Hanako**』（はなこ）は、[マガジンハウス](https://ja.wikipedia.org/wiki/マガジンハウス "wikilink")が出版する[雑誌](../Page/雑誌.md "wikilink")。
+『**Hanako**』（はなこ）は、[マガジンハウス](../Page/マガジンハウス.md "wikilink")が出版する[雑誌](../Page/雑誌.md "wikilink")。
 
 ## 概要
 
-20代女性を主要読者とした情報系雑誌。創刊から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")までは[週刊誌](../Page/週刊誌.md "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")1月26日号（867号）以降は隔週刊。さらに2018年9月より月刊化。
+20代女性を主要読者とした情報系雑誌。創刊から[2005年](../Page/2005年.md "wikilink")までは[週刊誌](../Page/週刊誌.md "wikilink")。[2006年](../Page/2006年.md "wikilink")1月26日号（867号）以降は隔週刊。さらに2018年9月より月刊化。
 
 [1988年](../Page/1988年.md "wikilink")6月2日創刊。創刊号の表紙は[ケン・ドーンのイラスト](https://ja.wikipedia.org/wiki/ケン・ドーン_\(アーティスト\) "wikilink")。タイトルロゴもケン・ドーン作。250円。発行人は[木滑良久](https://ja.wikipedia.org/wiki/木滑良久 "wikilink")、初代編集長は[椎根和](https://ja.wikipedia.org/wiki/椎根和 "wikilink")。初期目標は35万部。[首都圏の情報だけを集めた雑誌は数少なかった](https://ja.wikipedia.org/wiki/首都圏_\(日本\) "wikilink")。創刊号の特集は「いい部屋はステイタス」\[1\]。
 
@@ -13,9 +13,9 @@
 
 創刊後から[1989年](../Page/1989年.md "wikilink")にかけて雑誌が対象とする読者像が時代を象徴する女性像となり、「Hanako」「Hanako族」は[1989年](../Page/1989年.md "wikilink")の[流行語大賞](https://ja.wikipedia.org/wiki/流行語大賞 "wikilink")も受賞している。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")3月にはHanakoの[関西](https://ja.wikipedia.org/wiki/関西 "wikilink")版として『Hanako・WEST』が発売。
 
-[1993年](../Page/1993年.md "wikilink")頃からの[バブル景気](../Page/バブル景気.md "wikilink")崩壊から、Hanako族の終焉ともいわれたが、[ナタ・デ・ココ](../Page/ナタ・デ・ココ.md "wikilink")や[アッシーくん](https://ja.wikipedia.org/wiki/アッシーくん "wikilink")を特集で取り上げ、ブームの先鞭をつけるなどの話題もあった。2000年代に入ってから長期的な紙媒体雑誌の低迷、ライフスタイルの多様化もあり発行部数は最盛期には及ばない。
+[1993年](../Page/1993年.md "wikilink")頃からの[バブル景気](../Page/バブル景気.md "wikilink")崩壊から、Hanako族の終焉ともいわれたが、[ナタ・デ・ココ](../Page/ナタ・デ・ココ.md "wikilink")や[アッシーくん](../Page/アッシーくん.md "wikilink")を特集で取り上げ、ブームの先鞭をつけるなどの話題もあった。2000年代に入ってから長期的な紙媒体雑誌の低迷、ライフスタイルの多様化もあり発行部数は最盛期には及ばない。
 
-2004年9月-2005年8月の平均発行部数は『Hanako』が8万5388部、『Hanako WEST』が6万2869部となっている\[3\]。2007年12月発売号では[森永卓郎](../Page/森永卓郎.md "wikilink")と[三浦展](https://ja.wikipedia.org/wiki/三浦展 "wikilink")との「格差社会を生き延びる条件」を対談している。
+2004年9月-2005年8月の平均発行部数は『Hanako』が8万5388部、『Hanako WEST』が6万2869部となっている\[3\]。2007年12月発売号では[森永卓郎](../Page/森永卓郎.md "wikilink")と[三浦展](../Page/三浦展.md "wikilink")との「格差社会を生き延びる条件」を対談している。
 
 なお、『Hanako WEST』は[2009年](../Page/2009年.md "wikilink")12月発売の[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")2月号をもって休刊された。入れ替わるかたちで2011年以降季刊誌として『Hanako FOR MEN』が発売されている。
 
@@ -25,8 +25,8 @@
 
 いずれも当雑誌とタイアップしたテレビドラマ。
 
-  - [オイシーのが好き\!](https://ja.wikipedia.org/wiki/オイシーのが好き! "wikilink") - 1989年に[TBS系で放送](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")。主演は[松下由樹](https://ja.wikipedia.org/wiki/松下由樹 "wikilink")。
-  - [恋は戦い\!](https://ja.wikipedia.org/wiki/恋は戦い! "wikilink") - [2003年](../Page/2003年.md "wikilink")に[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")系で放送。主演は[坂井真紀](https://ja.wikipedia.org/wiki/坂井真紀 "wikilink")。
+  - [オイシーのが好き\!](../Page/オイシーのが好き!.md "wikilink") - 1989年に[TBS系で放送](../Page/TBSテレビ.md "wikilink")。主演は[松下由樹](https://ja.wikipedia.org/wiki/松下由樹 "wikilink")。
+  - [恋は戦い\!](../Page/恋は戦い!.md "wikilink") - [2003年](../Page/2003年.md "wikilink")に[テレビ朝日](../Page/テレビ朝日.md "wikilink")系で放送。主演は[坂井真紀](https://ja.wikipedia.org/wiki/坂井真紀 "wikilink")。
 
 ## 脚注
 

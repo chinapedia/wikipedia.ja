@@ -1,11 +1,11 @@
 > この記事は[U.S.NAVY](https://ja.wikipedia.org/wiki/U.S.NAVY)から翻訳されています。
 
 
-『**U.S.NAVY**』（ユー・エス・ネイビー）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に[カプコン](https://ja.wikipedia.org/wiki/カプコン "wikilink")から稼働された[アーケード用](../Page/アーケードゲーム.md "wikilink")[横スクロールシューティングゲーム](../Page/シューティングゲーム.md "wikilink")。日本国外版タイトルは『*Carrier Air Wing*』（[空母航空団](https://ja.wikipedia.org/wiki/空母航空団 "wikilink")）。
+『**U.S.NAVY**』（ユー・エス・ネイビー）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に[カプコン](../Page/カプコン.md "wikilink")から稼働された[アーケード用](../Page/アーケードゲーム.md "wikilink")[横スクロールシューティングゲーム](../Page/シューティングゲーム.md "wikilink")。日本国外版タイトルは『*Carrier Air Wing*』（[空母航空団](https://ja.wikipedia.org/wiki/空母航空団 "wikilink")）。
 
 基本的には同社のアーケードゲーム『[エリア88](https://ja.wikipedia.org/wiki/エリア88_\(アーケードゲーム\) "wikilink")』（[1989年](../Page/1989年.md "wikilink")）のシステムをそのまま踏襲している。2人同時プレイ可能。
 
-自機を「[F-14 TOMCAT](../Page/F-14_\(戦闘機\).md "wikilink")」、「[F/A-18 HORNET](https://ja.wikipedia.org/wiki/F/A-18_\(航空機\) "wikilink")」、「[A-6 INTRUDER](https://ja.wikipedia.org/wiki/A-6_\(航空機\) "wikilink")」の3種類から選択し、死の商人組織「ラブー」を壊滅させるのを目的としている。
+自機を「[F-14 TOMCAT](../Page/F-14_\(戦闘機\).md "wikilink")」、「[F/A-18 HORNET](https://ja.wikipedia.org/wiki/F/A-18_\(航空機\) "wikilink")」、「[A-6 INTRUDER](../Page/A-6_\(航空機\).md "wikilink")」の3種類から選択し、死の商人組織「ラブー」を壊滅させるのを目的としている。
 
 ゲーム誌『[ゲーメスト](../Page/ゲーメスト.md "wikilink")』の企画「第5回[ゲーメスト大賞](https://ja.wikipedia.org/wiki/ゲーメスト大賞 "wikilink")」（1991年度）にて大賞10位、ベストシューティング賞3位を獲得した。
 
@@ -438,7 +438,7 @@ SUPER SHELL POD2
 
 ### 万引き技
 
-司令官が作戦を指示しているときに、ショットとサブウェポンのボタンを高速で連打すると即座にゲームが始まるが、この際資金が減らずにサブウェポンを入手できるという[バグ](https://ja.wikipedia.org/wiki/バグ "wikilink")がある。更にレバーを右に連打していると、高価な武器を購入できる。これはプレイヤーから「[万引き](https://ja.wikipedia.org/wiki/万引き "wikilink")技」と通称され、ハイスコアを稼ぐときも必須のテクニックとなった（使用しなかったサブウェポンはステージクリア時に売却される。また全クリア時に保有している資金は全て得点に換算される）。これは[連射](https://ja.wikipedia.org/wiki/連射 "wikilink")装置などで一定以上の連射速度があれば、入手だけは確実にできたため、連射装置のついたボタンをこのゲームに限り「万引きボタン」と呼ぶことがある。
+司令官が作戦を指示しているときに、ショットとサブウェポンのボタンを高速で連打すると即座にゲームが始まるが、この際資金が減らずにサブウェポンを入手できるという[バグ](../Page/バグ.md "wikilink")がある。更にレバーを右に連打していると、高価な武器を購入できる。これはプレイヤーから「[万引き](../Page/万引き.md "wikilink")技」と通称され、ハイスコアを稼ぐときも必須のテクニックとなった（使用しなかったサブウェポンはステージクリア時に売却される。また全クリア時に保有している資金は全て得点に換算される）。これは[連射](../Page/連射.md "wikilink")装置などで一定以上の連射速度があれば、入手だけは確実にできたため、連射装置のついたボタンをこのゲームに限り「万引きボタン」と呼ぶことがある。
 
 後年のシューティングゲームにはソフトウェア側で連射機能を備えているものが多く見られるが、本作の発売された当時、アーケードゲームにおいて自動連射を実現するにはゲーム筐体に連射用の回路を取り付ける改造が必要であった。このため、楽に「万引き技」の恩恵にあずかれるのはこのような配慮をしてくれた店舗に限られた。
 
@@ -465,7 +465,7 @@ SUPER SHELL POD2
 <!-- end list -->
 
   - MISSION 3 敵艦隊上陸阻止作戦
-    J国へ上陸を企てる敵艦隊を攻撃する。ボスは**[ミサイル巡洋艦キーロフ](https://ja.wikipedia.org/wiki/キーロフ級ミサイル巡洋艦 "wikilink")**。ブリーフィングでは[戦艦](https://ja.wikipedia.org/wiki/戦艦 "wikilink")と説明される。
+    J国へ上陸を企てる敵艦隊を攻撃する。ボスは**[ミサイル巡洋艦キーロフ](../Page/キーロフ級ミサイル巡洋艦.md "wikilink")**。ブリーフィングでは[戦艦](https://ja.wikipedia.org/wiki/戦艦 "wikilink")と説明される。
 
 MISSION 4 造船所爆破作戦
 
@@ -475,7 +475,7 @@ MISSION 4 造船所爆破作戦
 <!-- end list -->
 
   - MISSION 5 兵器実験エリア攻撃作戦 1 (空中戦)
-    北極海上空。出てくる敵はステルス機が多くサブウェポンがあまり役に立たない。ボスは**[早期警戒機メインステイ](https://ja.wikipedia.org/wiki/A-50_\(航空機\) "wikilink")**。空中機雷とミサイルで反撃してくる。
+    北極海上空。出てくる敵はステルス機が多くサブウェポンがあまり役に立たない。ボスは**[早期警戒機メインステイ](../Page/A-50_\(航空機\).md "wikilink")**。空中機雷とミサイルで反撃してくる。
 
 <!-- end list -->
 
@@ -490,7 +490,7 @@ MISSION 4 造船所爆破作戦
 <!-- end list -->
 
   - MISSION 8 砂漠基地攻撃作戦
-    中東某国。ブリーフィング時に提示されるボスは真のボスを輸送している[装甲列車](https://ja.wikipedia.org/wiki/装甲列車 "wikilink")に過ぎない。ボスは**列車砲台カール**。実在した[カール自走臼砲](../Page/カール自走臼砲.md "wikilink")にそっくりだがレーザー砲とVLS式弾道ミサイルを備える。
+    中東某国。ブリーフィング時に提示されるボスは真のボスを輸送している[装甲列車](../Page/装甲列車.md "wikilink")に過ぎない。ボスは**列車砲台カール**。実在した[カール自走臼砲](../Page/カール自走臼砲.md "wikilink")にそっくりだがレーザー砲とVLS式弾道ミサイルを備える。
 
 <!-- end list -->
 
@@ -500,7 +500,7 @@ MISSION 4 造船所爆破作戦
 <!-- end list -->
 
   - MISSION 10 成層圏
-    ラブーの最終兵器を積んだソ連版宇宙往還機[ブランを追跡し成層圏へ](https://ja.wikipedia.org/wiki/ブラン_\(オービタ\) "wikilink")。ブースタを破壊しブラン本体にある程度ダメージを与えると内部から最終兵器（[ラストボス](https://ja.wikipedia.org/wiki/ラストボス "wikilink")）であるレーザー攻撃衛星を放出。
+    ラブーの最終兵器を積んだソ連版宇宙往還機[ブランを追跡し成層圏へ](../Page/ブラン_\(オービタ\).md "wikilink")。ブースタを破壊しブラン本体にある程度ダメージを与えると内部から最終兵器（[ラストボス](https://ja.wikipedia.org/wiki/ラストボス "wikilink")）であるレーザー攻撃衛星を放出。
 
 ## キャラクター
 
@@ -522,11 +522,11 @@ MISSION 4 造船所爆破作戦
 
   -
     空中戦闘と地上攻撃のマルチタイプ。ラパイドガンの性能に優れ、他のショットも大きく劣らないため初心者向き。
-    パイロットは**ジェームス・ロイ**。ルイジアナ州出身で米海軍アクロバットチーム[ブルーエンジェルス](https://ja.wikipedia.org/wiki/ブルーエンジェルス "wikilink")のメンバー。
+    パイロットは**ジェームス・ロイ**。ルイジアナ州出身で米海軍アクロバットチーム[ブルーエンジェルス](../Page/ブルーエンジェルス.md "wikilink")のメンバー。
 
 <!-- end list -->
 
-  - [A-6E](https://ja.wikipedia.org/wiki/A-6_\(航空機\) "wikilink") INTRUDER
+  - [A-6E](../Page/A-6_\(航空機\).md "wikilink") INTRUDER
 
 <!-- end list -->
 
@@ -538,13 +538,13 @@ MISSION 4 造船所爆破作戦
 
 ## スタッフ
 
-  - プロデューサー：KIHAJI（[岡本吉起](https://ja.wikipedia.org/wiki/岡本吉起 "wikilink")）
-  - ディレクター：POO（[船水紀孝](https://ja.wikipedia.org/wiki/船水紀孝 "wikilink")）
+  - プロデューサー：KIHAJI（[岡本吉起](../Page/岡本吉起.md "wikilink")）
+  - ディレクター：POO（[船水紀孝](../Page/船水紀孝.md "wikilink")）
   - 企画：SHOCHAN（岡野正衛）、SAICHAN
   - オブジェクト・デザイン：MANABOU（新谷さゆり）、S THING（坂下眞司）、KURATA-N（倉谷栄治）
   - スクロール・デザイン：FUKUMOYAN（福本容子）、OHAGI、MASAKORO、KYO（京谷有紀）、KISABON（木佐貫久司）
   - プログラマー：TOMIYAN、YOKOYAN、MEIJIN
-  - サウンド：CHA CHA（[松前真奈美](https://ja.wikipedia.org/wiki/松前真奈美 "wikilink")）
+  - サウンド：CHA CHA（[松前真奈美](../Page/松前真奈美.md "wikilink")）
 
 ## 評価
 

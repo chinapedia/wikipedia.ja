@@ -1,9 +1,9 @@
 > この記事は[DIVE!!](https://ja.wikipedia.org/wiki/DIVE!!)から翻訳されています。
 
 
-『**DIVE\!\!**』（ダイブ）は、[森絵都](https://ja.wikipedia.org/wiki/森絵都 "wikilink")による、[水泳](../Page/水泳.md "wikilink")の[飛込み競技](https://ja.wikipedia.org/wiki/飛込み競技 "wikilink")を題材とした「[スポ根](https://ja.wikipedia.org/wiki/スポ根 "wikilink")」[青春小説](https://ja.wikipedia.org/wiki/青春小説 "wikilink")。[2000年](../Page/2000年.md "wikilink")から[2002年](../Page/2002年.md "wikilink")にかけて、[講談社](../Page/講談社.md "wikilink")より全4巻が刊行された。第52回[小学館児童出版文化賞](https://ja.wikipedia.org/wiki/小学館児童出版文化賞 "wikilink")受賞作。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に[角川文庫](https://ja.wikipedia.org/wiki/角川文庫 "wikilink")より[文庫版](https://ja.wikipedia.org/wiki/文庫版 "wikilink")（上・下）が発売された。
+『**DIVE\!\!**』（ダイブ）は、[森絵都](https://ja.wikipedia.org/wiki/森絵都 "wikilink")による、[水泳](../Page/水泳.md "wikilink")の[飛込み競技](https://ja.wikipedia.org/wiki/飛込み競技 "wikilink")を題材とした「[スポ根](../Page/スポ根.md "wikilink")」[青春小説](https://ja.wikipedia.org/wiki/青春小説 "wikilink")。[2000年](../Page/2000年.md "wikilink")から[2002年](../Page/2002年.md "wikilink")にかけて、[講談社](../Page/講談社.md "wikilink")より全4巻が刊行された。第52回[小学館児童出版文化賞](../Page/小学館児童出版文化賞.md "wikilink")受賞作。[2006年](../Page/2006年.md "wikilink")に[角川文庫](../Page/角川文庫.md "wikilink")より[文庫版](https://ja.wikipedia.org/wiki/文庫版 "wikilink")（上・下）が発売された。
 
-[2003年](../Page/2003年.md "wikilink")に[NHK-FMの](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink")「[青春アドベンチャー](https://ja.wikipedia.org/wiki/青春アドベンチャー "wikilink")」で[ラジオドラマ](https://ja.wikipedia.org/wiki/ラジオドラマ "wikilink")化、[熊澤尚人](https://ja.wikipedia.org/wiki/熊澤尚人 "wikilink")監督で映画化、2008年6月公開。また、[池野雅博](https://ja.wikipedia.org/wiki/池野雅博 "wikilink")作画で[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")化されたものが『[週刊少年サンデー](https://ja.wikipedia.org/wiki/週刊少年サンデー "wikilink")』[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")28号より2008年27号まで連載されていた。2017年より、紅柴るづる作画による新たな漫画版が『[ヤングエース](https://ja.wikipedia.org/wiki/ヤングエース "wikilink")』2017年7月号から連載中。2018年9月に舞台版が上演予定\[1\]。
+[2003年](../Page/2003年.md "wikilink")に[NHK-FMの](../Page/NHK-FM放送.md "wikilink")「[青春アドベンチャー](https://ja.wikipedia.org/wiki/青春アドベンチャー "wikilink")」で[ラジオドラマ](../Page/ラジオドラマ.md "wikilink")化、[熊澤尚人](https://ja.wikipedia.org/wiki/熊澤尚人 "wikilink")監督で映画化、2008年6月公開。また、[池野雅博](../Page/池野雅博.md "wikilink")作画で[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")化されたものが『[週刊少年サンデー](https://ja.wikipedia.org/wiki/週刊少年サンデー "wikilink")』[2007年](../Page/2007年.md "wikilink")28号より2008年27号まで連載されていた。2017年より、紅柴るづる作画による新たな漫画版が『[ヤングエース](https://ja.wikipedia.org/wiki/ヤングエース "wikilink")』2017年7月号から連載中。2018年9月に舞台版が上演予定\[1\]。
 
 ## あらすじ
 
@@ -16,25 +16,25 @@
 ### 主人公
 
   - 坂井知季（さかい ともき）
-    声 - [梶裕貴](https://ja.wikipedia.org/wiki/梶裕貴 "wikilink")、[橋本ちなみ](https://ja.wikipedia.org/wiki/橋本ちなみ "wikilink")（小学生時代） / 演 - [林遣都](https://ja.wikipedia.org/wiki/林遣都 "wikilink")、[芦原伊織](https://ja.wikipedia.org/wiki/芦原伊織 "wikilink")（幼年時代）
-    MDCに在籍する[中学生](https://ja.wikipedia.org/wiki/中学生 "wikilink")。[飛込み歴は](https://ja.wikipedia.org/wiki/飛込競技 "wikilink")6年。天性の柔軟な体と優れた動体視力を誇る「ダイヤモンドの瞳」を持つ。初めは平凡な選手だったが、夏陽子の指導で急速に成長していく。
+    声 - [梶裕貴](../Page/梶裕貴.md "wikilink")、[橋本ちなみ](https://ja.wikipedia.org/wiki/橋本ちなみ "wikilink")（小学生時代） / 演 - [林遣都](../Page/林遣都.md "wikilink")、[芦原伊織](https://ja.wikipedia.org/wiki/芦原伊織 "wikilink")（幼年時代）
+    MDCに在籍する[中学生](https://ja.wikipedia.org/wiki/中学生 "wikilink")。[飛込み歴は](../Page/飛込競技.md "wikilink")6年。天性の柔軟な体と優れた動体視力を誇る「ダイヤモンドの瞳」を持つ。初めは平凡な選手だったが、夏陽子の指導で急速に成長していく。
   - 富士谷要一（ふじたに よういち）
-    声 - [櫻井孝宏](https://ja.wikipedia.org/wiki/櫻井孝宏 "wikilink")、[藤田奈央](https://ja.wikipedia.org/wiki/藤田奈央 "wikilink")（小学生時代） / 演 - [池松壮亮](https://ja.wikipedia.org/wiki/池松壮亮 "wikilink")、[北村匠海](https://ja.wikipedia.org/wiki/北村匠海 "wikilink")（幼年時代）
+    声 - [櫻井孝宏](../Page/櫻井孝宏.md "wikilink")、[藤田奈央](https://ja.wikipedia.org/wiki/藤田奈央 "wikilink")（小学生時代） / 演 - [池松壮亮](../Page/池松壮亮.md "wikilink")、[北村匠海](../Page/北村匠海.md "wikilink")（幼年時代）
     元飛込み選手の両親を持つサラブレッド。小学2年生から飛込みを始めて、現在高校生。3年連続中学生チャンピオンの実績を持つ、MDC一の実力者で裏のボス（サッチン談）。一寸の乱れもない安定した演技が武器。レモンイエローの競パンで試合に出る。
   - 沖津飛沫（おきつ しぶき）
-    声 - [中村悠一](https://ja.wikipedia.org/wiki/中村悠一 "wikilink") / 演 - [溝端淳平](https://ja.wikipedia.org/wiki/溝端淳平 "wikilink")
-    幻の[高校生](https://ja.wikipedia.org/wiki/高校生 "wikilink")ダイバー。[昭和](../Page/昭和.md "wikilink")の初めに天才ダイバーと騒がれた、沖津白波の孫。13歳から、海に向かって飛込みをしていた。夏陽子との「契約」でMDCにやって来た。巨体を生かした豪快で勇壮な演技が持ち味。[腰](https://ja.wikipedia.org/wiki/腰 "wikilink")に重大な欠陥を抱えている。
+    声 - [中村悠一](../Page/中村悠一.md "wikilink") / 演 - [溝端淳平](../Page/溝端淳平.md "wikilink")
+    幻の[高校生](https://ja.wikipedia.org/wiki/高校生 "wikilink")ダイバー。[昭和](../Page/昭和.md "wikilink")の初めに天才ダイバーと騒がれた、沖津白波の孫。13歳から、海に向かって飛込みをしていた。夏陽子との「契約」でMDCにやって来た。巨体を生かした豪快で勇壮な演技が持ち味。[腰](../Page/腰.md "wikilink")に重大な欠陥を抱えている。
 
 ### MDCのクラブメイト
 
   - 丸山レイジ（まるやま レイジ）
-    声 - [内山昂輝](https://ja.wikipedia.org/wiki/内山昂輝 "wikilink")、[内村史子](https://ja.wikipedia.org/wiki/内村史子 "wikilink")（小学生時代） / 演 - [山崎将平](https://ja.wikipedia.org/wiki/山崎将平 "wikilink")
-    知季と同い年で、同じ頃に飛込みを始めた。神経質なところがあり、演技の際にも[ジンクス](https://ja.wikipedia.org/wiki/ジンクス "wikilink")を気にする。
+    声 - [内山昂輝](../Page/内山昂輝.md "wikilink")、[内村史子](https://ja.wikipedia.org/wiki/内村史子 "wikilink")（小学生時代） / 演 - [山崎将平](../Page/山崎将平.md "wikilink")
+    知季と同い年で、同じ頃に飛込みを始めた。神経質なところがあり、演技の際にも[ジンクス](../Page/ジンクス.md "wikilink")を気にする。
   - 大広陵（おおひろ りょう）
     声 - [逢坂良太](https://ja.wikipedia.org/wiki/逢坂良太 "wikilink") / 演 - [福田雄也](https://ja.wikipedia.org/wiki/福田雄也 "wikilink")
     知季と同い年で、半年遅れで飛込みを始めた。負けず嫌いな性格。昔、要一に試合前に真っ赤な海パンを隠されたことがある（当時は要一が隠したとは知らなかった）。後にとある事情で飛び込みを止め、学校のバスケ部に入部する。
   - 吉田幸也（よしだ さちや）
-    声 - [小林裕介](https://ja.wikipedia.org/wiki/小林裕介 "wikilink") / 演 - [村瀬継太](https://ja.wikipedia.org/wiki/村瀬継太 "wikilink")
+    声 - [小林裕介](https://ja.wikipedia.org/wiki/小林裕介 "wikilink") / 演 - [村瀬継太](../Page/村瀬継太.md "wikilink")
     年齢は知季たちより1つ下。趣味はママさん[シンクロの人間模様の観察](https://ja.wikipedia.org/wiki/アーティスティックスイミング "wikilink")。愛称はサッチン。選考には参加せず、「サポーター」を務める。[高所恐怖症](../Page/高所恐怖症.md "wikilink")である。
 
 ### MDCのコーチ
@@ -43,25 +43,25 @@
     声 - [名塚佳織](../Page/名塚佳織.md "wikilink") / 演 - [瀬戸朝香](../Page/瀬戸朝香.md "wikilink")
     MDCに新しくやって来たコーチで、中学生の担当。MDCの創設者である、水城真之介の孫。飛込みに関する天性の勘を持つ。MDCのコーチになるため、アメリカでコーチング技術を学んだ。コーチとしての技量は富士谷コーチが保証するほど。まだ結婚願望は捨てていない。
   - 富士谷敬介（ふじたに けいすけ）
-    声 - [小西克幸](https://ja.wikipedia.org/wiki/小西克幸 "wikilink") / 演 - [光石研](https://ja.wikipedia.org/wiki/光石研 "wikilink")
+    声 - [小西克幸](../Page/小西克幸.md "wikilink") / 演 - [光石研](../Page/光石研.md "wikilink")
     中学生と小学生の両方を監督する。要一の父で、飛込みの元オリンピック選手。父子の間には一定の距離を置いており、実の息子にも関わらず要一を「君」と呼ぶ。
   - 大島力（おおしま りき）
-    声 - [羽多野渉](https://ja.wikipedia.org/wiki/羽多野渉 "wikilink")
+    声 - [羽多野渉](../Page/羽多野渉.md "wikilink")
     小学生を担当している。津軽から上京してきた飛沫と同居している。飛沫曰く「やたらよくしゃべる上に心配性」。得意料理（唯一のレパートリー）は[すき焼き](../Page/すき焼き.md "wikilink")。
 
 ### ライバルたち
 
   - 寺本健一郎（てらもと けんいちろう）
-    演 - [寺内健](https://ja.wikipedia.org/wiki/寺内健 "wikilink")
+    演 - [寺内健](../Page/寺内健.md "wikilink")
     作中には名前のみ登場する。日本飛込み界のエース。実力が突出しており、代表は確実といわれる。精神的に弱い面がある。
   - 松野清孝（まつの きよたか）
-    声 - [小野賢章](https://ja.wikipedia.org/wiki/小野賢章 "wikilink")
+    声 - [小野賢章](../Page/小野賢章.md "wikilink")
     基本に忠実で安定した演技をするが、高さやスピードに欠ける。ネガティブな性格で影が薄く、発言もはっきりしない。要一たちと共にアジア合同強化合宿のメンバーに選ばれたが、途中で肩を痛めて帰国した。
   - ピンキー山田
-    声 - [杉田智和](https://ja.wikipedia.org/wiki/杉田智和 "wikilink")
+    声 - [杉田智和](../Page/杉田智和.md "wikilink")
     本名は山田篤彦（やまだ あつひこ）。ショッキングピンクの海パンをトレードマークにしている。要一が手放しで絶賛するほど素質には恵まれているが、精神面がもろいため試合の途中で必ずくずれだす。最終的には、キャメル山田となる。
   - 辻利彦（つじ としひこ）
-    声 - [蒼井翔太](https://ja.wikipedia.org/wiki/蒼井翔太 "wikilink") / 演 - [広瀬斗史輝](https://ja.wikipedia.org/wiki/広瀬斗史輝 "wikilink")
+    声 - [蒼井翔太](../Page/蒼井翔太.md "wikilink") / 演 - [広瀬斗史輝](https://ja.wikipedia.org/wiki/広瀬斗史輝 "wikilink")
     もともとは[器械体操](https://ja.wikipedia.org/wiki/器械体操 "wikilink")の選手。美しさやダイナミックな演技を追求するために高い台から跳ぶ選手が多い中、得点を上げるために低い台から飛んでいく(例10mの台と7.5mの台とを往復し、難しい演技で得点を稼ぐ)老獪な（要一に言わせれば「せこい」）選手。
   - 炎のジロー
     声 - [河西健吾](https://ja.wikipedia.org/wiki/河西健吾 "wikilink")
@@ -87,18 +87,18 @@
 ### 知季の関係者
 
   - 坂井弘也（さかい ひろや）
-    声 - [木村良平](https://ja.wikipedia.org/wiki/木村良平 "wikilink") / 演 - [池田純矢](https://ja.wikipedia.org/wiki/池田純矢 "wikilink")
+    声 - [木村良平](../Page/木村良平.md "wikilink") / 演 - [池田純矢](../Page/池田純矢.md "wikilink")
     知季の弟で、早生まれ（知季が4月、弘也が次の年の3月）なので同学年。兄弟というより仲の良い友達といった関係だったが、彼が未羽と付き合いだしたことで、陰険な態度になる。未羽のことが好きで、知季とうまくいっていない未羽に積極的にアプローチする。
   - 野村未羽（のむら みう）
-    声 - [日高里菜](https://ja.wikipedia.org/wiki/日高里菜 "wikilink") / 演 - [瓜生美咲](https://ja.wikipedia.org/wiki/瓜生美咲 "wikilink")
+    声 - [日高里菜](https://ja.wikipedia.org/wiki/日高里菜 "wikilink") / 演 - [瓜生美咲](../Page/瓜生美咲.md "wikilink")
     知季、弘也と同学年。中学1年の春に知季に告白して付き合いだした。だが、後に弘也と内緒で付き合っていることが発覚する。
   - 坂井恵（さかい　めぐみ）
     　声 - [竹内恵美子](https://ja.wikipedia.org/wiki/竹内恵美子 "wikilink") / 演　- [角南範子](https://ja.wikipedia.org/wiki/角南範子 "wikilink")
   - 坂井久志（さかい　ひさし）
-    声　- [田所陽向](https://ja.wikipedia.org/wiki/田所陽向 "wikilink")　/ 演　- [佐藤恒治](https://ja.wikipedia.org/wiki/佐藤恒治 "wikilink")
+    声　- [田所陽向](https://ja.wikipedia.org/wiki/田所陽向 "wikilink")　/ 演　- [佐藤恒治](../Page/佐藤恒治.md "wikilink")
     知季、弘也の両親。
   - チクワ
-    声　- [下野紘](https://ja.wikipedia.org/wiki/下野紘 "wikilink")
+    声　- [下野紘](../Page/下野紘.md "wikilink")
 
 ### 飛沫の関係者
 
@@ -120,8 +120,8 @@
     声　- [乃神亜衣子](https://ja.wikipedia.org/wiki/乃神亜衣子 "wikilink")
     敬介の妻で、要一の母。旧姓は仲野。元「飛込み界のマドンナ」。現在は日水連の仕事をしている。現役時代に前原会長からセクハラを受けたことがあり、それ以来の前原アンチ。
   - 前原一朗（まえはら いちろう）
-    声 - [大塚明夫](../Page/大塚明夫.md "wikilink") / 演 - [江守徹](https://ja.wikipedia.org/wiki/江守徹 "wikilink")
-    [日水連の現会長](https://ja.wikipedia.org/wiki/日本水泳連盟 "wikilink")。78歳。元競泳選手だがオリンピックには縁がなかった。メダルに対する執念から「メダルの鬼」とも呼ばれる。
+    声 - [大塚明夫](../Page/大塚明夫.md "wikilink") / 演 - [江守徹](../Page/江守徹.md "wikilink")
+    [日水連の現会長](../Page/日本水泳連盟.md "wikilink")。78歳。元競泳選手だがオリンピックには縁がなかった。メダルに対する執念から「メダルの鬼」とも呼ばれる。
 
 ## 既刊一覧
 
@@ -151,38 +151,38 @@
 
 ## 映画
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月14日](../Page/6月14日.md "wikilink")公開。[林遣都](https://ja.wikipedia.org/wiki/林遣都 "wikilink")、[池松壮亮](https://ja.wikipedia.org/wiki/池松壮亮 "wikilink")、[溝端淳平](https://ja.wikipedia.org/wiki/溝端淳平 "wikilink")の10代の若手俳優3人が主演を務めた。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月14日](../Page/6月14日.md "wikilink")公開。[林遣都](../Page/林遣都.md "wikilink")、[池松壮亮](../Page/池松壮亮.md "wikilink")、[溝端淳平](../Page/溝端淳平.md "wikilink")の10代の若手俳優3人が主演を務めた。
 
 ### キャスト
 
-  - 坂井知季 - [林遣都](https://ja.wikipedia.org/wiki/林遣都 "wikilink")
-  - 富士谷要一 - [池松壮亮](https://ja.wikipedia.org/wiki/池松壮亮 "wikilink")
-  - 沖津飛沫 - [溝端淳平](https://ja.wikipedia.org/wiki/溝端淳平 "wikilink")
+  - 坂井知季 - [林遣都](../Page/林遣都.md "wikilink")
+  - 富士谷要一 - [池松壮亮](../Page/池松壮亮.md "wikilink")
+  - 沖津飛沫 - [溝端淳平](../Page/溝端淳平.md "wikilink")
   - 麻木夏陽子 - [瀬戸朝香](../Page/瀬戸朝香.md "wikilink")
-  - 丸山レイジ - [山崎将平](https://ja.wikipedia.org/wiki/山崎将平 "wikilink")
+  - 丸山レイジ - [山崎将平](../Page/山崎将平.md "wikilink")
   - 大広陵 - [福田雄也](https://ja.wikipedia.org/wiki/福田雄也 "wikilink")
-  - 吉田幸也 - [村瀬継太](https://ja.wikipedia.org/wiki/村瀬継太 "wikilink")
-  - 鈴木英雄 - [小野賢章](https://ja.wikipedia.org/wiki/小野賢章 "wikilink")
-  - 井上大介 - [椎名鯛造](https://ja.wikipedia.org/wiki/椎名鯛造 "wikilink")
+  - 吉田幸也 - [村瀬継太](../Page/村瀬継太.md "wikilink")
+  - 鈴木英雄 - [小野賢章](../Page/小野賢章.md "wikilink")
+  - 井上大介 - [椎名鯛造](../Page/椎名鯛造.md "wikilink")
   - 辻利彦 - [広瀬斗史輝](https://ja.wikipedia.org/wiki/広瀬斗史輝 "wikilink")
-  - 坂井弘也 - [池田純矢](https://ja.wikipedia.org/wiki/池田純矢 "wikilink")
-  - 野村未羽 - [瓜生美咲](https://ja.wikipedia.org/wiki/瓜生美咲 "wikilink")
+  - 坂井弘也 - [池田純矢](../Page/池田純矢.md "wikilink")
+  - 野村未羽 - [瓜生美咲](../Page/瓜生美咲.md "wikilink")
   - 幼年時代の知季 - [芦原伊織](https://ja.wikipedia.org/wiki/芦原伊織 "wikilink")
-  - 幼年時代の要一 - [北村匠海](https://ja.wikipedia.org/wiki/北村匠海 "wikilink")
-  - 知季の友人 - [山田健太](https://ja.wikipedia.org/wiki/山田健太 "wikilink")
+  - 幼年時代の要一 - [北村匠海](../Page/北村匠海.md "wikilink")
+  - 知季の友人 - [山田健太](../Page/山田健太.md "wikilink")
   - 西川恭子 - [蓮佛美沙子](https://ja.wikipedia.org/wiki/蓮佛美沙子 "wikilink")
-  - 川口コーチ - [金戸恵太](https://ja.wikipedia.org/wiki/金戸恵太 "wikilink")
+  - 川口コーチ - [金戸恵太](../Page/金戸恵太.md "wikilink")
   - 孫コーチ - [候偉](https://ja.wikipedia.org/wiki/候偉 "wikilink")
   - 沖津白波 - [山本敬樹](https://ja.wikipedia.org/wiki/山本敬樹 "wikilink")
   - ニュースキャスター - [高井康子](https://ja.wikipedia.org/wiki/高井康子 "wikilink")
   - 実況アナウンサー - [中尾俊直](https://ja.wikipedia.org/wiki/中尾俊直 "wikilink")
   - 大会解説者 - [末弘昭人](https://ja.wikipedia.org/wiki/末弘昭人 "wikilink")
-  - 寺本健一郎 - [寺内健](https://ja.wikipedia.org/wiki/寺内健 "wikilink")
-  - 富士谷順子 - [筒井真理子](https://ja.wikipedia.org/wiki/筒井真理子 "wikilink")
-  - 坂井久志 - [佐藤恒治](https://ja.wikipedia.org/wiki/佐藤恒治 "wikilink")
+  - 寺本健一郎 - [寺内健](../Page/寺内健.md "wikilink")
+  - 富士谷順子 - [筒井真理子](../Page/筒井真理子.md "wikilink")
+  - 坂井久志 - [佐藤恒治](../Page/佐藤恒治.md "wikilink")
   - 坂井恵 - [角南範子](https://ja.wikipedia.org/wiki/角南範子 "wikilink")
-  - 富士谷敬介 - [光石研](https://ja.wikipedia.org/wiki/光石研 "wikilink")
-  - 前原一朗 - [江守徹](https://ja.wikipedia.org/wiki/江守徹 "wikilink")
+  - 富士谷敬介 - [光石研](../Page/光石研.md "wikilink")
+  - 前原一朗 - [江守徹](../Page/江守徹.md "wikilink")
 
 ### スタッフ
 
@@ -191,8 +191,8 @@
   - エグゼクティブ・プロデューサー：[井上文雄](https://ja.wikipedia.org/wiki/井上文雄 "wikilink")
   - プロデューサー：[岡田和則](https://ja.wikipedia.org/wiki/岡田和則 "wikilink")、[中村陽介](https://ja.wikipedia.org/wiki/中村陽介 "wikilink")
   - 協力プロデューサー：[樋口慎祐](https://ja.wikipedia.org/wiki/樋口慎祐 "wikilink")、[久保田修](https://ja.wikipedia.org/wiki/久保田修_\(映画プロデューサー\) "wikilink")
-  - 脚本：[戸田山雅司](https://ja.wikipedia.org/wiki/戸田山雅司 "wikilink")、[林民夫](https://ja.wikipedia.org/wiki/林民夫 "wikilink")
-  - 撮影：[佐光朗](https://ja.wikipedia.org/wiki/佐光朗 "wikilink")（[J.S.C.](https://ja.wikipedia.org/wiki/日本映画撮影監督協会 "wikilink")）
+  - 脚本：[戸田山雅司](../Page/戸田山雅司.md "wikilink")、[林民夫](https://ja.wikipedia.org/wiki/林民夫 "wikilink")
+  - 撮影：[佐光朗](../Page/佐光朗.md "wikilink")（[J.S.C.](../Page/日本映画撮影監督協会.md "wikilink")）
   - 証明：[加藤弘行](https://ja.wikipedia.org/wiki/加藤弘行 "wikilink")
   - 美術：[柴田博英](https://ja.wikipedia.org/wiki/柴田博英 "wikilink")
   - 録音：[横溝正俊](https://ja.wikipedia.org/wiki/横溝正俊 "wikilink")
@@ -201,16 +201,16 @@
   - スクリプター：[赤澤環](https://ja.wikipedia.org/wiki/赤澤環 "wikilink")
   - 助監督：[阿部溝良](https://ja.wikipedia.org/wiki/阿部溝良 "wikilink")
   - 制作担当：[山下秀治](https://ja.wikipedia.org/wiki/山下秀治 "wikilink")、[中村秀康](https://ja.wikipedia.org/wiki/中村秀康 "wikilink")
-  - エキストラなど協力　[日本体育大学](https://ja.wikipedia.org/wiki/日本体育大学 "wikilink")・[天理大学](https://ja.wikipedia.org/wiki/天理大学 "wikilink")水泳部飛込部員など
-  - 製作：「ダイブ\!\!」製作委員会（[角川映画](../Page/角川映画.md "wikilink")、[日本映画ファンド](https://ja.wikipedia.org/wiki/日本映画ファンド "wikilink")、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")、[C\&Iエンタテインメント](https://ja.wikipedia.org/wiki/C&Iエンタテインメント "wikilink")、[WOWOW](../Page/WOWOW.md "wikilink")、[読売新聞](https://ja.wikipedia.org/wiki/読売新聞 "wikilink")）
+  - エキストラなど協力　[日本体育大学](https://ja.wikipedia.org/wiki/日本体育大学 "wikilink")・[天理大学](../Page/天理大学.md "wikilink")水泳部飛込部員など
+  - 製作：「ダイブ\!\!」製作委員会（[角川映画](../Page/角川映画.md "wikilink")、[日本映画ファンド](https://ja.wikipedia.org/wiki/日本映画ファンド "wikilink")、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")、[C\&Iエンタテインメント](https://ja.wikipedia.org/wiki/C&Iエンタテインメント "wikilink")、[WOWOW](../Page/WOWOW.md "wikilink")、[読売新聞](../Page/読売新聞.md "wikilink")）
 
 ### 主題歌
 
-  - 『[SKY](https://ja.wikipedia.org/wiki/SKY_\(大橋卓弥の曲\) "wikilink")』 [大橋卓弥](https://ja.wikipedia.org/wiki/大橋卓弥 "wikilink")
+  - 『[SKY](../Page/SKY_\(大橋卓弥の曲\).md "wikilink")』 [大橋卓弥](../Page/大橋卓弥.md "wikilink")
 
 ## テレビアニメ
 
-2017年7月より9月まで、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[ノイタミナ](https://ja.wikipedia.org/wiki/ノイタミナ "wikilink")」ほかにて放送された\[2\]。アニメーション制作は『[バッテリー](https://ja.wikipedia.org/wiki/バッテリー_\(小説\)#テレビアニメ "wikilink")』の[ゼロジー](https://ja.wikipedia.org/wiki/ゼロジー "wikilink")が担当した。
+2017年7月より9月まで、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[ノイタミナ](../Page/ノイタミナ.md "wikilink")」ほかにて放送された\[2\]。アニメーション制作は『[バッテリー](https://ja.wikipedia.org/wiki/バッテリー_\(小説\)#テレビアニメ "wikilink")』の[ゼロジー](https://ja.wikipedia.org/wiki/ゼロジー "wikilink")が担当した。
 
 同年11月22日に全12話を収録したBlu-ray Disc BOX 完全生産限定版（ANZX-13681〜6）およびDVD BOX 完全生産限定版（ANZB-13681〜6）が発売された\[3\]。
 
@@ -218,8 +218,8 @@
 
   - 原作 - 森絵都\[4\]
   - 監督 - 鈴木薫\[5\]
-  - シリーズ構成 - [待田堂子](https://ja.wikipedia.org/wiki/待田堂子 "wikilink")\[6\]
-  - キャラクター原案 - [ヤスダスズヒト](https://ja.wikipedia.org/wiki/ヤスダスズヒト "wikilink")\[7\]
+  - シリーズ構成 - [待田堂子](../Page/待田堂子.md "wikilink")\[6\]
+  - キャラクター原案 - [ヤスダスズヒト](../Page/ヤスダスズヒト.md "wikilink")\[7\]
   - アニメーションキャラクターデザイン - [谷津美弥子](https://ja.wikipedia.org/wiki/谷津美弥子 "wikilink")\[8\]
   - 総作画監督 - 谷津美弥子、草間英興
   - 美術監督 - 榊枝利行、根本洋行
@@ -231,8 +231,8 @@
   - 編集 - 宇都宮正記
   - 音楽 - [林ゆうき](https://ja.wikipedia.org/wiki/林ゆうき "wikilink")、KOHTA YAMAMOTO\[9\]
   - 音楽プロデューサー - [佐野弘明](https://ja.wikipedia.org/wiki/佐野弘明 "wikilink")、舩橋宗寛
-  - 音楽制作 - [フジパシフィックミュージック](https://ja.wikipedia.org/wiki/フジパシフィックミュージック "wikilink")
-  - 音響監督 - [岩浪美和](https://ja.wikipedia.org/wiki/岩浪美和 "wikilink")
+  - 音楽制作 - [フジパシフィックミュージック](../Page/フジパシフィックミュージック.md "wikilink")
+  - 音響監督 - [岩浪美和](../Page/岩浪美和.md "wikilink")
   - チーフプロデューサー - [山本幸治](https://ja.wikipedia.org/wiki/山本幸治_\(プロデューサー\) "wikilink")、三宅将典
   - プロデューサー - 木村誠、林健一
   - アニメーションプロデューサー - 先川幸矢、宮城夢乃
@@ -263,7 +263,7 @@
 <tr class="odd">
 <td><p>episode 01</p></td>
 <td><p>DIVE TO BLUE</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/待田堂子" title="wikilink">待田堂子</a></p></td>
+<td><p><a href="../Page/待田堂子.md" title="wikilink">待田堂子</a></p></td>
 <td><p>鈴木薫</p></td>
 <td><p>植田羊一</p></td>
 <td></td>
@@ -279,17 +279,17 @@
 <tr class="odd">
 <td><p>episode 03</p></td>
 <td><p>ENTER SHIBUKI</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大野敏哉" title="wikilink">大野敏哉</a></p></td>
+<td><p><a href="../Page/大野敏哉.md" title="wikilink">大野敏哉</a></p></td>
 <td><p>西本由紀夫</p></td>
 <td><p>秦義人</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/なかじまちゅうじ" title="wikilink">なかじまちゅうじ</a>、臼田美夫<br />
+<td><p><a href="../Page/なかじまちゅうじ.md" title="wikilink">なかじまちゅうじ</a>、臼田美夫<br />
 羽野広範</p></td>
 </tr>
 <tr class="even">
 <td><p>episode 04</p></td>
 <td><p>THE STRONG MEN</p></td>
 <td><p>待田堂子</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/追崎史敏" title="wikilink">追崎史敏</a></p></td>
+<td><p><a href="../Page/追崎史敏.md" title="wikilink">追崎史敏</a></p></td>
 <td><p>宇都宮正記</p></td>
 <td><p>藤田正幸、波風立志</p></td>
 </tr>
@@ -373,7 +373,7 @@ Cha Sanghoon</p></td>
 
 ## 舞台
 
-**「DIVE\!\!」The STAGE\!\!**というタイトルで、2018年9月20日～30日に[シアター1010](https://ja.wikipedia.org/wiki/シアター1010 "wikilink")、10月6日～7日に[森ノ宮ピロティホール](https://ja.wikipedia.org/wiki/森ノ宮ピロティホール "wikilink")で上演予定\[14\]。
+**「DIVE\!\!」The STAGE\!\!**というタイトルで、2018年9月20日～30日に[シアター1010](../Page/シアター1010.md "wikilink")、10月6日～7日に[森ノ宮ピロティホール](https://ja.wikipedia.org/wiki/森ノ宮ピロティホール "wikilink")で上演予定\[14\]。
 
 ### キャスト（舞台）
 
@@ -385,9 +385,9 @@ Cha Sanghoon</p></td>
   - 麻木夏陽子 - [名塚佳織](../Page/名塚佳織.md "wikilink")\[20\]
   - 山田篤彦 - [安達勇人](https://ja.wikipedia.org/wiki/安達勇人 "wikilink")\[21\]
   - 平山二郎 - [宮城紘大](https://ja.wikipedia.org/wiki/宮城紘大 "wikilink")\[22\]
-  - 松野清孝 - [瀬戸祐介](https://ja.wikipedia.org/wiki/瀬戸祐介 "wikilink")\[23\]
+  - 松野清孝 - [瀬戸祐介](../Page/瀬戸祐介.md "wikilink")\[23\]
   - 辻利彦 - [西野太盛](https://ja.wikipedia.org/wiki/西野太盛 "wikilink")\[24\]
-  - 富士谷敬介 - [唐橋充](https://ja.wikipedia.org/wiki/唐橋充 "wikilink")\[25\] 他
+  - 富士谷敬介 - [唐橋充](../Page/唐橋充.md "wikilink")\[25\] 他
 
 ### スタッフ（舞台）
 

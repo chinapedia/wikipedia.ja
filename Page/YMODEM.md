@@ -146,7 +146,7 @@ SOH(01h)、STX(02h)、EOT(04h)、ACK(06h)、NAK(15h)、CAN(18h)の6つの[コン
 
   - ファイル名: ファイル名をセットする。
     ファイルサイズ: ファイルの大きさを10進数ASCII文字列でセットする。
-    タイムスタンプ: ファイルの更新日時を[グリニッジ標準時](../Page/グリニッジ標準時.md "wikilink")[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink")からの経過秒数に直し、8進数ASCII文字列でセットする。
+    タイムスタンプ: ファイルの更新日時を[グリニッジ標準時](../Page/グリニッジ標準時.md "wikilink")[1970年](../Page/1970年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")からの経過秒数に直し、8進数ASCII文字列でセットする。
     パーミッション: [UNIX](../Page/UNIX.md "wikilink")ではこれを8進数ASCII文字列でセットする。必要のない場合やUNIX以外では**NUL**をセットする。
     シリアルナンバー: UNIXではこれを8進数ASCII文字列でセットする。必要のない場合やUNIX以外では**NUL**をセットする。
 

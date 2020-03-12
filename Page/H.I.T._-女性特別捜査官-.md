@@ -1,7 +1,7 @@
 > この記事は[H.I.T. --](https://ja.wikipedia.org/wiki/H.I.T._--)から翻訳されています。
 
 
-『**ヒット**』（*H.I.T*: *H*omicide *I*nvestigation *T*eam、）は、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[3月19日](../Page/3月19日.md "wikilink")から同年[5月22日](../Page/5月22日.md "wikilink")まで韓国[MBCで放送された](https://ja.wikipedia.org/wiki/文化放送_\(韓国\) "wikilink")、キム・ジョンハクプロダクション（[:ko:김종학 프로덕션](https://ja.wikipedia.org/wiki/:ko:김종학_프로덕션 "wikilink")）演出の**犯罪捜査ドラマ**である（タイトルの意味は「強力犯罪捜査隊」）。
+『**ヒット**』（*H.I.T*: *H*omicide *I*nvestigation *T*eam、）は、[2007年](../Page/2007年.md "wikilink")[3月19日](../Page/3月19日.md "wikilink")から同年[5月22日](../Page/5月22日.md "wikilink")まで韓国[MBCで放送された](../Page/文化放送_\(韓国\).md "wikilink")、キム・ジョンハクプロダクション（[:ko:김종학 프로덕션](https://ja.wikipedia.org/wiki/:ko:김종학_프로덕션 "wikilink")）演出の**犯罪捜査ドラマ**である（タイトルの意味は「強力犯罪捜査隊」）。
 
 日本では、[サンテレビや](../Page/サンテレビジョン.md "wikilink")[BS朝日などで放送された](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")。
 
@@ -25,12 +25,12 @@
 
 ## キャスト
 
-  - チャ・スギョン（）警部補：[コ・ヒョンジョン](https://ja.wikipedia.org/wiki/コ・ヒョンジョン "wikilink")
+  - チャ・スギョン（）警部補：[コ・ヒョンジョン](../Page/コ・ヒョンジョン.md "wikilink")
       - ソウル市警の刑事から新設されたH.I.Tチームのチーム長に抜擢される。水虫防止用の靴下を履き、人前でも平気で足を掻く女性らしさに欠けた性格。14年前のソウル東南部連続殺人事件で恋人を失った傷を抱えつつ、様々な犯罪に立ち向かい、事件解決に執念を燃やす。
 
 <!-- end list -->
 
-  - キム・ジェユン（）検事：[ハ・ジョンウ](https://ja.wikipedia.org/wiki/ハ・ジョンウ "wikilink")
+  - キム・ジェユン（）検事：[ハ・ジョンウ](../Page/ハ・ジョンウ.md "wikilink")
       - H.I.Tチーム担当検事。裕福な家庭に育ち、頭脳明晰ではあるが、幼い頃に誘拐事件に巻き込まれたトラウマが原因で、冷めた性格に育つ。しかし、スギョンや他の仲間たちに影響され、いつしか正義感に目覚め、検事として成長する。
 
 <!-- end list -->
@@ -70,8 +70,8 @@
 
 ## 主題歌
 
-  - オープニング主題歌 [スーパージュニア](https://ja.wikipedia.org/wiki/スーパージュニア "wikilink") 「Success」
-  - エンディング主題歌 [スーパージュニア](https://ja.wikipedia.org/wiki/スーパージュニア "wikilink") 「H.I.T」
+  - オープニング主題歌 [スーパージュニア](../Page/スーパージュニア.md "wikilink") 「Success」
+  - エンディング主題歌 [スーパージュニア](../Page/スーパージュニア.md "wikilink") 「H.I.T」
 
 ## 外部リンク
 

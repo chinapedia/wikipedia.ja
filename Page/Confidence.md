@@ -1,17 +1,17 @@
 > この記事は[Confidence](https://ja.wikipedia.org/wiki/Confidence)から翻訳されています。
 
 
-『**Confidence**』（コンフィデンス）は、[HYのインディーズデビュー後](https://ja.wikipedia.org/wiki/HY_\(バンド\) "wikilink")4枚目の[アルバム](../Page/アルバム.md "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月12日](../Page/4月12日.md "wikilink")にリリースされた。
+『**Confidence**』（コンフィデンス）は、[HYのインディーズデビュー後](https://ja.wikipedia.org/wiki/HY_\(バンド\) "wikilink")4枚目の[アルバム](../Page/アルバム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[4月12日](../Page/4月12日.md "wikilink")にリリースされた。
 
 ## 解説
 
-通算4枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。
+通算4枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。
 
-アルバムタイトルは「[信頼](https://ja.wikipedia.org/wiki/信頼 "wikilink")」という意味。「モノクロ」「NAO」「canvas」は、[PVが製作された](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。「NAO」はボーカルの仲宗根泉が友人から聞いた失恋話をもとにしている\[1\]。
+アルバムタイトルは「[信頼](../Page/信頼.md "wikilink")」という意味。「モノクロ」「NAO」「canvas」は、[PVが製作された](../Page/ミュージック・ビデオ.md "wikilink")。「NAO」はボーカルの仲宗根泉が友人から聞いた失恋話をもとにしている\[1\]。
 
-前作から引き続き、[オリコンアルバムチャートで](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位を獲得。インディーズ（メジャーデビューしていない）アーティストとしては、史上初となる3作目の同チャート1位獲得となった。
+前作から引き続き、[オリコンアルバムチャートで](../Page/オリコンチャート.md "wikilink")1位を獲得。インディーズ（メジャーデビューしていない）アーティストとしては、史上初となる3作目の同チャート1位獲得となった。
 
-オリコンインディーズチャートでは、[Aqua Timezの](https://ja.wikipedia.org/wiki/Aqua_Timez "wikilink")『[空いっぱいに奏でる祈り](https://ja.wikipedia.org/wiki/空いっぱいに奏でる祈り "wikilink")』に次いで年間チャート2位を獲得した。
+オリコンインディーズチャートでは、[Aqua Timezの](https://ja.wikipedia.org/wiki/Aqua_Timez "wikilink")『[空いっぱいに奏でる祈り](../Page/空いっぱいに奏でる祈り.md "wikilink")』に次いで年間チャート2位を獲得した。
 
 ## 収録曲
 

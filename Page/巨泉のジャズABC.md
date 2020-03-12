@@ -25,7 +25,7 @@
 
 ## 関連項目
 
-  - 『[オトナのJAZZ TIME](https://ja.wikipedia.org/wiki/オトナのJAZZ_TIME "wikilink")』 - 相互にエール交換していた友好番組。
+  - 『[オトナのJAZZ TIME](../Page/オトナのJAZZ_TIME.md "wikilink")』 - 相互にエール交換していた友好番組。
   - 『[私のジャズコレクション](https://ja.wikipedia.org/wiki/私のジャズコレクション "wikilink")』 - [アール・エフ・ラジオ日本](../Page/アール・エフ・ラジオ日本.md "wikilink")で放送されていた、[津村昭単独出演のジャズ番組](https://ja.wikipedia.org/wiki/ツムラ#沿革 "wikilink")（～[1996年](../Page/1996年.md "wikilink")10月)
   - 『[ホットジャズライン](https://ja.wikipedia.org/wiki/ホットジャズライン "wikilink")』 - 同時期に[ラジオ関西](../Page/ラジオ関西.md "wikilink")で放送されていたジャズ番組（～[2004年](../Page/2004年.md "wikilink")3月）
 

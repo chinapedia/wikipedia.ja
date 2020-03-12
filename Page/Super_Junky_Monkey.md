@@ -1,7 +1,7 @@
 > この記事は[Super Junky Monkey](https://ja.wikipedia.org/wiki/Super_Junky_Monkey)から翻訳されています。
 
 
-**Super Junky Monkey**（スーパー・ジャンキー・モンキー）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ガールズバンド](https://ja.wikipedia.org/wiki/ガールズバンド "wikilink")である。1991年結成。1994年[ソニーレコード](https://ja.wikipedia.org/wiki/ソニーレコード "wikilink")よりメジャーデビュー。
+**Super Junky Monkey**（スーパー・ジャンキー・モンキー）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ガールズバンド](../Page/ガールズバンド.md "wikilink")である。1991年結成。1994年[ソニーレコード](https://ja.wikipedia.org/wiki/ソニーレコード "wikilink")よりメジャーデビュー。
 
 ## メンバー
 
@@ -14,7 +14,7 @@
 
 1991年3月、結成。
 
-1993年11月、[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")で行われた 「CMJ MUSIC MARATHON」に出演 。 1994年3月20日、インディーズのRIOTレーベルよりライブCD「キャベツ」をリリース。同年7月、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")・[トロント](../Page/トロント.md "wikilink")で開催された「CANADIAN MUSIC AWARDS」に　[ピーター・ガブリエル](../Page/ピーター・ガブリエル.md "wikilink")らと並んで選ばれる。[MTV JAPAN](https://ja.wikipedia.org/wiki/MTV_JAPAN "wikilink") オリジナルステーションID(ジングル)を日本人アーティストとして初めて製作録音。タイトルは「ENDLESS ZOOM」。同年7月から8月、ニューヨーク、[シアトル](../Page/シアトル.md "wikilink")でライブ。同年10月21日、2nd アルバム(メジャーデビューアルバム)「SCREW UP」を[ソニーレコード](https://ja.wikipedia.org/wiki/ソニーレコード "wikilink")よりリリース。
+1993年11月、[ニューヨーク](../Page/ニューヨーク.md "wikilink")で行われた 「CMJ MUSIC MARATHON」に出演 。 1994年3月20日、インディーズのRIOTレーベルよりライブCD「キャベツ」をリリース。同年7月、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")・[トロント](../Page/トロント.md "wikilink")で開催された「CANADIAN MUSIC AWARDS」に　[ピーター・ガブリエル](../Page/ピーター・ガブリエル.md "wikilink")らと並んで選ばれる。[MTV JAPAN](https://ja.wikipedia.org/wiki/MTV_JAPAN "wikilink") オリジナルステーションID(ジングル)を日本人アーティストとして初めて製作録音。タイトルは「ENDLESS ZOOM」。同年7月から8月、ニューヨーク、[シアトル](../Page/シアトル.md "wikilink")でライブ。同年10月21日、2nd アルバム(メジャーデビューアルバム)「SCREW UP」を[ソニーレコード](https://ja.wikipedia.org/wiki/ソニーレコード "wikilink")よりリリース。
 
 1995年1月、「THE ２nd ANNUAL TOKYO JOURNAL INNOVATIVE AWARDS」を音楽部門で受賞。同年1月20日、「NEW YORK FESTIVAL Station/Network I.D.部門」で「ENDLESS ZOOM」が金賞受賞。同年5月30日、トリスターミュージックから「SCREW UP」を全米リリース。同年9月、ニューワークで、ライブ＆アルバムレコーディング。同年12月2日、アメリカの音楽雑誌「[ビルボード](../Page/ビルボード.md "wikilink")」の表紙を飾る。
 

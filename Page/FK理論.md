@@ -3,9 +3,9 @@
 
 **FK理論**（エフケーりろん、「FK」はFrank-Kamenetskiiの略）とは[1939年](../Page/1939年.md "wikilink")に Frank Kamenetskii（[:en:David A. Frank-Kamenetskii](https://ja.wikipedia.org/wiki/:en:David_A._Frank-Kamenetskii "wikilink")）が考案した[物質](../Page/物質.md "wikilink")の[発火](https://ja.wikipedia.org/wiki/発火 "wikilink")に関する[理論](../Page/理論.md "wikilink")である。
 
-物質が[自然発火](https://ja.wikipedia.org/wiki/自然発火 "wikilink")を起こす[条件](https://ja.wikipedia.org/wiki/条件 "wikilink")を[計算](../Page/計算.md "wikilink")する Frank-Kamenetskii の発火理論、あるいは、[粉塵爆発](https://ja.wikipedia.org/wiki/粉塵爆発 "wikilink")の発生条件を計算する熱爆発理論として用いられている。
+物質が[自然発火](../Page/自然発火.md "wikilink")を起こす[条件](../Page/条件.md "wikilink")を[計算](../Page/計算.md "wikilink")する Frank-Kamenetskii の発火理論、あるいは、[粉塵爆発](../Page/粉塵爆発.md "wikilink")の発生条件を計算する熱爆発理論として用いられている。
 
-[化学合成](https://ja.wikipedia.org/wiki/化学合成 "wikilink")の安全においては[反応](https://ja.wikipedia.org/wiki/反応 "wikilink")過程で発火、熱爆発、暴走反応などが起こらないよう[計算](../Page/計算.md "wikilink")するために用いられる理論であり、[化学実験](https://ja.wikipedia.org/wiki/化学実験 "wikilink")の[安全管理のためには重要な概念である](https://ja.wikipedia.org/wiki/安全管理者 "wikilink")。
+[化学合成](../Page/化学合成.md "wikilink")の安全においては[反応](https://ja.wikipedia.org/wiki/反応 "wikilink")過程で発火、熱爆発、暴走反応などが起こらないよう[計算](../Page/計算.md "wikilink")するために用いられる理論であり、[化学実験](https://ja.wikipedia.org/wiki/化学実験 "wikilink")の[安全管理のためには重要な概念である](../Page/安全管理者.md "wikilink")。
 
 [工業](../Page/工業.md "wikilink")[設備](../Page/設備.md "wikilink")などで発火[事故](../Page/事故.md "wikilink")が起こる[リスク](../Page/リスク.md "wikilink")を計算したり、粉塵爆発が起こる[危険](../Page/危険.md "wikilink")性を評価するために用いられる。
 
@@ -16,11 +16,11 @@
 \[\rho c_v \frac{\partial T}{\partial t} = \lambda \nabla^2 T + q \rho B Y_{Fo} e^{-E/(RT)}\]
 
   - \(T\)混合物の温度
-  - \(c_v\) 一定の[熱容量](https://ja.wikipedia.org/wiki/熱容量 "wikilink")
+  - \(c_v\) 一定の[熱容量](../Page/熱容量.md "wikilink")
   - \(\lambda\) [熱伝導率](../Page/熱伝導率.md "wikilink")
   - \(B\) 時間の経過と共に1の次元を有する[頻度因子](https://ja.wikipedia.org/wiki/頻度因子 "wikilink")
   - \(Y_{Fo}\) 初期燃料の[質量分率](https://ja.wikipedia.org/wiki/質量分率 "wikilink")
-  - \(E\) [活性化エネルギー](https://ja.wikipedia.org/wiki/活性化エネルギー "wikilink")
+  - \(E\) [活性化エネルギー](../Page/活性化エネルギー.md "wikilink")
   - \(R\) [気体定数](../Page/気体定数.md "wikilink")
 
 ### 無次元化

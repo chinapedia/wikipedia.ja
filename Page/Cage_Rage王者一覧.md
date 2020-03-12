@@ -20,7 +20,7 @@
 <tbody>
 <tr class="odd">
 <td><p>初</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マーク・エプスタイン" title="wikilink">マーク・エプスタイン</a></p></td>
+<td><p><a href="../Page/マーク・エプスタイン.md" title="wikilink">マーク・エプスタイン</a></p></td>
 <td><p>2004年2月15日 - 不詳</p></td>
 <td><p>0</p></td>
 <td></td>
@@ -34,7 +34,7 @@
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/イアン・フリーマン" title="wikilink">イアン・フリーマン</a></p></td>
+<td><p><a href="../Page/イアン・フリーマン.md" title="wikilink">イアン・フリーマン</a></p></td>
 <td><p>2004年11月27日 - 2004年11月27日</p></td>
 <td><p>1</p></td>
 <td></td>
@@ -48,7 +48,7 @@
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アントニオ・シウバ" title="wikilink">アントニオ・シウバ</a></p></td>
+<td><p><a href="../Page/アントニオ・シウバ.md" title="wikilink">アントニオ・シウバ</a></p></td>
 <td><p>2006年9月30日 - 2008年10月20日</p></td>
 <td><p>0</p></td>
 <td></td>
@@ -78,17 +78,17 @@
 <tbody>
 <tr class="odd">
 <td><p>初</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マーク・エプスタイン" title="wikilink">マーク・エプスタイン</a></p></td>
+<td><p><a href="../Page/マーク・エプスタイン.md" title="wikilink">マーク・エプスタイン</a></p></td>
 <td><p>2004年5月23日 - 2004年7月10日</p></td>
 <td><p>0</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マイケル・ビスピン" title="wikilink">マイケル・ビスピン</a></p></td>
+<td><p><a href="../Page/マイケル・ビスピン.md" title="wikilink">マイケル・ビスピン</a></p></td>
 <td><p>2004年7月10日 - 2005年9月</p></td>
 <td><p>1</p></td>
-<td><p>○ <a href="https://ja.wikipedia.org/wiki/マーク・エプスタイン" title="wikilink">マーク・エプスタイン</a>（Cage Rage 9）</p></td>
+<td><p>○ <a href="../Page/マーク・エプスタイン.md" title="wikilink">マーク・エプスタイン</a>（Cage Rage 9）</p></td>
 </tr>
 <tr class="odd">
 <td><p>-</p></td>
@@ -99,11 +99,11 @@
 </tr>
 <tr class="even">
 <td><p>3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/メルヴィン・マヌーフ" title="wikilink">メルヴィン・マヌーフ</a></p></td>
+<td><p><a href="../Page/メルヴィン・マヌーフ.md" title="wikilink">メルヴィン・マヌーフ</a></p></td>
 <td><p>2005年9月10日 - 不詳</p></td>
 <td><p>2</p></td>
-<td><p>○ <a href="https://ja.wikipedia.org/wiki/エヴァンゲリスタ・サイボーグ" title="wikilink">エヴァンゲリスタ・サイボーグ</a>（Cage Rage 15）<br />
-○ <a href="https://ja.wikipedia.org/wiki/イアン・フリーマン" title="wikilink">イアン・フリーマン</a>（Cage Rage 17）</p></td>
+<td><p>○ <a href="../Page/エヴァンゲリスタ・サイボーグ.md" title="wikilink">エヴァンゲリスタ・サイボーグ</a>（Cage Rage 15）<br />
+○ <a href="../Page/イアン・フリーマン.md" title="wikilink">イアン・フリーマン</a>（Cage Rage 17）</p></td>
 </tr>
 <tr class="odd">
 <td><p>-</p></td>
@@ -121,7 +121,7 @@
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ビクトー・ベウフォート" title="wikilink">ビクトー・ベウフォート</a></p></td>
+<td><p><a href="../Page/ビクトー・ベウフォート.md" title="wikilink">ビクトー・ベウフォート</a></p></td>
 <td><p>2007年9月22日 - 2008年10月20日</p></td>
 <td><p>0</p></td>
 <td></td>
@@ -167,7 +167,7 @@
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アンデウソン・シウバ" title="wikilink">アンデウソン・シウバ</a></p></td>
+<td><p><a href="../Page/アンデウソン・シウバ.md" title="wikilink">アンデウソン・シウバ</a></p></td>
 <td><p>2004年9月11日 - 2008年10月20日</p></td>
 <td><p>3</p></td>
 <td><p>○ <a href="https://ja.wikipedia.org/wiki/ホルヘ・リベラ_(格闘家)" title="wikilink">ホルヘ・リベラ</a>（Cage Rage 11）<br />
@@ -199,7 +199,7 @@
 <tbody>
 <tr class="odd">
 <td><p>初</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クリス・ライトル" title="wikilink">クリス・ライトル</a></p></td>
+<td><p><a href="../Page/クリス・ライトル.md" title="wikilink">クリス・ライトル</a></p></td>
 <td><p>2006年2月4日 - 2007年7月</p></td>
 <td><p>0</p></td>
 <td></td>
@@ -213,7 +213,7 @@
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ポール・デイリー" title="wikilink">ポール・デイリー</a></p></td>
+<td><p><a href="../Page/ポール・デイリー.md" title="wikilink">ポール・デイリー</a></p></td>
 <td><p>2007年9月22日 - 2008年10月20日</p></td>
 <td><p>0</p></td>
 <td></td>
@@ -259,10 +259,10 @@
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ビトー・ヒベイロ" title="wikilink">ビトー・"シャオリン"・ヒベイロ</a></p></td>
+<td><p><a href="../Page/ビトー・ヒベイロ.md" title="wikilink">ビトー・"シャオリン"・ヒベイロ</a></p></td>
 <td><p>2005年9月10日 - 2008年10月20日</p></td>
 <td><p>2</p></td>
-<td><p>○ <a href="https://ja.wikipedia.org/wiki/アブドゥル・モハメッド" title="wikilink">アブドゥル・モハメッド</a>（Cage Rage 18）<br />
+<td><p>○ <a href="../Page/アブドゥル・モハメッド.md" title="wikilink">アブドゥル・モハメッド</a>（Cage Rage 18）<br />
 ○ <a href="https://ja.wikipedia.org/wiki/中村大介" title="wikilink">中村大介</a>（Cage Rage 19）</p></td>
 </tr>
 <tr class="even">
@@ -290,7 +290,7 @@
 <tbody>
 <tr class="odd">
 <td><p>初</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/今成正和" title="wikilink">今成正和</a></p></td>
+<td><p><a href="../Page/今成正和.md" title="wikilink">今成正和</a></p></td>
 <td><p>2007年2月23日 - 2008年10月20日</p></td>
 <td><p>1</p></td>
 <td><p>○ <a href="../Page/ジーン・シウバ.md" title="wikilink">ジーン・シウバ</a>（Cage Rage 25）</p></td>
@@ -387,14 +387,14 @@
 <tbody>
 <tr class="odd">
 <td><p>初</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マーク・エプスタイン" title="wikilink">マーク・エプスタイン</a></p></td>
+<td><p><a href="../Page/マーク・エプスタイン.md" title="wikilink">マーク・エプスタイン</a></p></td>
 <td><p>2006年4月22日 - 2006年9月30日</p></td>
 <td><p>0</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/イアン・フリーマン" title="wikilink">イアン・フリーマン</a></p></td>
+<td><p><a href="../Page/イアン・フリーマン.md" title="wikilink">イアン・フリーマン</a></p></td>
 <td><p>2006年9月30日 - 不詳</p></td>
 <td><p>0</p></td>
 <td></td>
@@ -408,7 +408,7 @@
 </tr>
 <tr class="even">
 <td><p>3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ポール・カフーン" title="wikilink">ポール・カフーン</a></p></td>
+<td><p><a href="../Page/ポール・カフーン.md" title="wikilink">ポール・カフーン</a></p></td>
 <td><p>2007年7月14日 - 2008年5月10日</p></td>
 <td><p>0</p></td>
 <td></td>
@@ -462,14 +462,14 @@
 <td><p>空位</p></td>
 <td><p>2007年8月 - 2007年9月22日</p></td>
 <td><p>-</p></td>
-<td><p>ガレシックの<a href="https://ja.wikipedia.org/wiki/HERO&#39;S" title="wikilink">HERO'S</a>移籍により空位</p></td>
+<td><p>ガレシックの<a href="../Page/HERO&#39;S.md" title="wikilink">HERO'S</a>移籍により空位</p></td>
 </tr>
 <tr class="even">
 <td><p>3</p></td>
 <td><p>マット・エウィン</p></td>
 <td><p>2007年9月22日 - 2008年10月20日</p></td>
 <td><p>1</p></td>
-<td><p>○ <a href="https://ja.wikipedia.org/wiki/マーク・エプスタイン" title="wikilink">マーク・エプスタイン</a>（Cage Rage 26）</p></td>
+<td><p>○ <a href="../Page/マーク・エプスタイン.md" title="wikilink">マーク・エプスタイン</a>（Cage Rage 26）</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -513,7 +513,7 @@
 <td><p>ポール・ジェンキンス</p></td>
 <td><p>2004年7月10日 - 2006年6月13日</p></td>
 <td><p>1</p></td>
-<td><p>△ <a href="https://ja.wikipedia.org/wiki/ポール・デイリー" title="wikilink">ポール・デイリー</a>（Cage Rage 11）</p></td>
+<td><p>△ <a href="../Page/ポール・デイリー.md" title="wikilink">ポール・デイリー</a>（Cage Rage 11）</p></td>
 </tr>
 <tr class="even">
 <td><p>-</p></td>
@@ -524,7 +524,7 @@
 </tr>
 <tr class="odd">
 <td><p>4</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ポール・デイリー" title="wikilink">ポール・デイリー</a></p></td>
+<td><p><a href="../Page/ポール・デイリー.md" title="wikilink">ポール・デイリー</a></p></td>
 <td><p>2006年7月1日 - 2007年9月22日</p></td>
 <td><p>2</p></td>
 <td><p>○ ソル・ギルバート（Cage Rage 18）<br />
@@ -569,7 +569,7 @@
 <tbody>
 <tr class="odd">
 <td><p>初</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アブドゥル・モハメッド" title="wikilink">アブドゥル・モハメッド</a></p></td>
+<td><p><a href="../Page/アブドゥル・モハメッド.md" title="wikilink">アブドゥル・モハメッド</a></p></td>
 <td><p>2005年9月10日 - 不詳</p></td>
 <td><p>2</p></td>
 <td><p>○ ロス・ポイントン（Cage Rage 21）<br />

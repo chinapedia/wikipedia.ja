@@ -1,11 +1,11 @@
 > この記事は[18 -eighteen-](https://ja.wikipedia.org/wiki/18_-eighteen-)から翻訳されています。
 
 
-『**18 -eighteen-**』（エイティーン）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[8月24日](../Page/8月24日.md "wikilink")にリリースされた[北出菜奈](https://ja.wikipedia.org/wiki/北出菜奈 "wikilink")のアルバム。
+『**18 -eighteen-**』（エイティーン）は、[2005年](../Page/2005年.md "wikilink")[8月24日](../Page/8月24日.md "wikilink")にリリースされた[北出菜奈](../Page/北出菜奈.md "wikilink")のアルバム。
 
 ## 概要
 
-シングル曲「[消せない罪](../Page/消せない罪.md "wikilink")」、「撃たれる雨」、「HOLD HEART」、「pureness」、「[KISS or KISS](https://ja.wikipedia.org/wiki/KISS_or_KISS "wikilink")」、「悲しみのキズ」を収録したアルバム。両A面シングル『pureness/七色』のうち、「七色」は収録していない。北出菜奈本人が全ての楽曲の作詞に携わっている。
+シングル曲「[消せない罪](../Page/消せない罪.md "wikilink")」、「撃たれる雨」、「HOLD HEART」、「pureness」、「[KISS or KISS](../Page/KISS_or_KISS.md "wikilink")」、「悲しみのキズ」を収録したアルバム。両A面シングル『pureness/七色』のうち、「七色」は収録していない。北出菜奈本人が全ての楽曲の作詞に携わっている。
 
 ## 収録曲
 
@@ -16,12 +16,12 @@ SECL-216, ¥3,059
 
 <!-- end list -->
 
-1.  [KISS or KISS](https://ja.wikipedia.org/wiki/KISS_or_KISS "wikilink")
+1.  [KISS or KISS](../Page/KISS_or_KISS.md "wikilink")
       -
-        作曲: [本間昭光](https://ja.wikipedia.org/wiki/本間昭光 "wikilink")
+        作曲: [本間昭光](../Page/本間昭光.md "wikilink")
 2.  [消せない罪](../Page/消せない罪.md "wikilink")
       -
-        作曲: [西川進](https://ja.wikipedia.org/wiki/西川進 "wikilink")
+        作曲: [西川進](../Page/西川進.md "wikilink")
 3.  螺旋
       -
         作曲: 西川進
@@ -34,7 +34,7 @@ SECL-216, ¥3,059
 6.  Alice
       -
         作曲: 本間昭光
-        全国[東映](../Page/東映.md "wikilink")系公開映画『[深紅](https://ja.wikipedia.org/wiki/深紅_\(小説\) "wikilink")』イメージソング
+        全国[東映](../Page/東映.md "wikilink")系公開映画『[深紅](../Page/深紅_\(小説\).md "wikilink")』イメージソング
 7.  悲しみのキズ
       -
         作曲: 山口寛雄

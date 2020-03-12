@@ -6,22 +6,22 @@
 ## メンバー
 
   - [須藤まゆみ](../Page/須藤まゆみ.md "wikilink")
-  - [割田康彦](https://ja.wikipedia.org/wiki/割田康彦 "wikilink")
+  - [割田康彦](../Page/割田康彦.md "wikilink")
 
 ## ディスコグラフィー
 
-自主制作盤を除く作品は全て東芝EMI（現：[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")・[EMI Records Japanレーベル](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")）より発売。
+自主制作盤を除く作品は全て東芝EMI（現：[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")・[EMI Records Japanレーベル](../Page/EMIミュージック・ジャパン.md "wikilink")）より発売。
 
 ### シングル
 
-1.  普通の日々:1994年11月9日発売（[TBS系ドラマ](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")「[家族A](https://ja.wikipedia.org/wiki/家族A "wikilink")」エンディングテーマ）
+1.  普通の日々:1994年11月9日発売（[TBS系ドラマ](../Page/TBSテレビ.md "wikilink")「[家族A](../Page/家族A.md "wikilink")」エンディングテーマ）
 2.  Say\! Happy Birthday:1995年2月17日発売（TBS系「[どうぶつ奇想天外\!](../Page/どうぶつ奇想天外!.md "wikilink")」エンディングテーマ）
 3.  最後の一撃〜Final Game,Final Round〜:1995年5月31日発売
-4.  素直なままで恋をしようよ:1996年1月31日発売（[フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[明日はだいじょうぶ](https://ja.wikipedia.org/wiki/明日はだいじょうぶ "wikilink")」主題歌）
-5.  「いつか」は今日だった:1996年6月5日発売（TBS系「[ブロードキャスター](https://ja.wikipedia.org/wiki/ブロードキャスター "wikilink")」エンディングテーマ）
-6.  僕は君が好きだよ:1996年11月7日発売（TBS系ドラマ「[おひさまがいっぱい](https://ja.wikipedia.org/wiki/おひさまがいっぱい "wikilink")」主題歌）
-7.  恋はVITALITY:1997年4月28日発売（TBS系「[チューボーですよ\!](https://ja.wikipedia.org/wiki/チューボーですよ! "wikilink")」オープニングテーマ）
-8.  PARADISE:1997年11月27日発売（[プレイステーション用ゲーム](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")「[オレっ\!トンバ](https://ja.wikipedia.org/wiki/オレっ!トンバ "wikilink")」オープニングテーマ、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系「[わいん好き](https://ja.wikipedia.org/wiki/わいん好き "wikilink")」エンディングテーマ）
+4.  素直なままで恋をしようよ:1996年1月31日発売（[フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[明日はだいじょうぶ](../Page/明日はだいじょうぶ.md "wikilink")」主題歌）
+5.  「いつか」は今日だった:1996年6月5日発売（TBS系「[ブロードキャスター](../Page/ブロードキャスター.md "wikilink")」エンディングテーマ）
+6.  僕は君が好きだよ:1996年11月7日発売（TBS系ドラマ「[おひさまがいっぱい](../Page/おひさまがいっぱい.md "wikilink")」主題歌）
+7.  恋はVITALITY:1997年4月28日発売（TBS系「[チューボーですよ\!](../Page/チューボーですよ!.md "wikilink")」オープニングテーマ）
+8.  PARADISE:1997年11月27日発売（[プレイステーション用ゲーム](../Page/PlayStation_\(ゲーム機\).md "wikilink")「[オレっ\!トンバ](https://ja.wikipedia.org/wiki/オレっ!トンバ "wikilink")」オープニングテーマ、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系「[わいん好き](https://ja.wikipedia.org/wiki/わいん好き "wikilink")」エンディングテーマ）
 
 ### アルバム
 
@@ -45,6 +45,6 @@
 
   - ラジオニアンＱ殿（[FM愛知](../Page/エフエム愛知.md "wikilink"))
   - パワーレボリューション([Date-fm](../Page/エフエム仙台.md "wikilink"))
-  - チューニング・オン([FM横浜](https://ja.wikipedia.org/wiki/横浜エフエム放送 "wikilink"))
+  - チューニング・オン([FM横浜](../Page/横浜エフエム放送.md "wikilink"))
 
 [Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:過去の研音グループ所属者](https://ja.wikipedia.org/wiki/Category:過去の研音グループ所属者 "wikilink") [Category:EMIミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのアーティスト "wikilink")

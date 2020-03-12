@@ -1,7 +1,7 @@
 > この記事は[R-TYPE TACTICS](https://ja.wikipedia.org/wiki/R-TYPE_TACTICS)から翻訳されています。
 
 
-『**R-TYPE TACTICS**』（アール・タイプ タクティクス）は、[アイレムソフトウェアエンジニアリング](https://ja.wikipedia.org/wiki/アイレムソフトウェアエンジニアリング "wikilink")から[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[9月20日](../Page/9月20日.md "wikilink")に発売された[PlayStation Portable用](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")[戦略シミュレーションゲーム](../Page/ウォー・シミュレーションゲーム.md "wikilink")。[R-TYPE](https://ja.wikipedia.org/wiki/R-TYPE "wikilink")シリーズの生誕20周年作品に当たる。
+『**R-TYPE TACTICS**』（アール・タイプ タクティクス）は、[アイレムソフトウェアエンジニアリング](https://ja.wikipedia.org/wiki/アイレムソフトウェアエンジニアリング "wikilink")から[2007年](../Page/2007年.md "wikilink")[9月20日](../Page/9月20日.md "wikilink")に発売された[PlayStation Portable用](../Page/PlayStation_Portable.md "wikilink")[戦略シミュレーションゲーム](../Page/ウォー・シミュレーションゲーム.md "wikilink")。[R-TYPE](https://ja.wikipedia.org/wiki/R-TYPE "wikilink")シリーズの生誕20周年作品に当たる。
 
 [シューティングゲーム](../Page/シューティングゲーム.md "wikilink")としてはシリーズ最終作として製作された『[R-TYPE FINAL](../Page/R-TYPE_FINAL.md "wikilink")』に登場した多数の[R戦闘機](https://ja.wikipedia.org/wiki/R戦闘機 "wikilink")の設定が活かされ、様々なRタイプ戦闘機が宇宙や異星、異次元空間を舞台にグロテスクなバイド帝国のユニットと戦闘を繰り広げるSFシミュレーションゲームとなっている。
 
@@ -118,7 +118,7 @@
 #### 支援機
 
   - TP-02C POWアーマー
-    汎用補給機。他のユニットに隣接して「補給」コマンドを選択することで他のユニットに弾薬・燃料を補給できる。また、施設の[占領](https://ja.wikipedia.org/wiki/占領 "wikilink")能力を持つ。申し訳程度にバルカンも備えているが戦闘力は低い。機体とそっくりな偽者の「デコイ」を作成する能力を持つ。
+    汎用補給機。他のユニットに隣接して「補給」コマンドを選択することで他のユニットに弾薬・燃料を補給できる。また、施設の[占領](../Page/占領.md "wikilink")能力を持つ。申し訳程度にバルカンも備えているが戦闘力は低い。機体とそっくりな偽者の「デコイ」を作成する能力を持つ。
   - TP-02M フロッグマン
     潜水攻撃機。水中でしか動かせないが、強力なミサイル、魚雷を装備する為、一部のミッションでは頼りになる。
   - Rr2o-3 工作機
@@ -206,7 +206,7 @@
   - B-GrB グリッドロック・ブルー
     デジタル生命。『FINAL』STAGE6.2のボス。レッドよりも僅かにHPが低く、燃料が多い。
   - B-Fnmt ファインモーション
-    高速移動要塞。『FINAL』STAGE5.0のボス。強力な[レーザー](https://ja.wikipedia.org/wiki/レーザー "wikilink")を装備するほか、体当たり攻撃が可能。　重力フィールドで撃破した敵からソルモナジウムを奪取する。
+    高速移動要塞。『FINAL』STAGE5.0のボス。強力な[レーザー](../Page/レーザー.md "wikilink")を装備するほか、体当たり攻撃が可能。　重力フィールドで撃破した敵からソルモナジウムを奪取する。
 
 #### ボス
 
@@ -223,11 +223,11 @@
   - Bydo? 漆黒の瞳孔
     バイドを生み出していると思われる謎の生命体。自らは精神波で攻撃を仕掛けるほか、「艦船の残骸」や高度な技術で作られた「巨大[推進装置](https://ja.wikipedia.org/wiki/推進装置 "wikilink")」を操って地球軍の前に立ちはだかる。倒すと…。
       - 巨大推進装置
-    漆黒の瞳孔をバイド帝星最深部に拘束している謎の噴射装置。『R-TYPE LEO』のステージ6終盤によく似た形状のものが登場する。制御を掌握されてしまっているのか、漆黒の[瞳孔](https://ja.wikipedia.org/wiki/瞳孔 "wikilink")の周囲に近づくと噴射攻撃を仕掛けてくる。地球軍の科学力では作れないほどの高度な技術が使われており、誰が何の為に作ったものかは不明。
+    漆黒の瞳孔をバイド帝星最深部に拘束している謎の噴射装置。『R-TYPE LEO』のステージ6終盤によく似た形状のものが登場する。制御を掌握されてしまっているのか、漆黒の[瞳孔](../Page/瞳孔.md "wikilink")の周囲に近づくと噴射攻撃を仕掛けてくる。地球軍の科学力では作れないほどの高度な技術が使われており、誰が何の為に作ったものかは不明。
 
 ## 体験版
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[7月20日](../Page/7月20日.md "wikilink")に発売された[ファミ通PSP Vol.8](http://www.enterbrain.co.jp/jp/p_catalog/magazine/2007/2007_18036-09.html)には本作の[体験版](https://ja.wikipedia.org/wiki/体験版 "wikilink")が収録されたUMDが付属した。[チュートリアル](https://ja.wikipedia.org/wiki/チュートリアル "wikilink")やプレストーリーも閲覧できる。無線LAN機能を利用した2人対戦も可能。
+[2007年](../Page/2007年.md "wikilink")[7月20日](../Page/7月20日.md "wikilink")に発売された[ファミ通PSP Vol.8](http://www.enterbrain.co.jp/jp/p_catalog/magazine/2007/2007_18036-09.html)には本作の[体験版](../Page/体験版.md "wikilink")が収録されたUMDが付属した。[チュートリアル](https://ja.wikipedia.org/wiki/チュートリアル "wikilink")やプレストーリーも閲覧できる。無線LAN機能を利用した2人対戦も可能。
 
 体験版に収録されているのは以下の3ステージ。
 

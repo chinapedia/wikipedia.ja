@@ -1,7 +1,7 @@
 > この記事は[M-3H](https://ja.wikipedia.org/wiki/M-3H)から翻訳されています。
 
 
-**M-3Hロケット**（ミュー3エイチ）は、日本の[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")宇宙航空研究所（後の[文部省](../Page/文部省.md "wikilink")[宇宙科学研究所](../Page/宇宙科学研究所.md "wikilink")、現[宇宙航空研究開発機構](https://ja.wikipedia.org/wiki/宇宙航空研究開発機構 "wikilink")宇宙科学研究所、以下、東大）が[日産自動車](https://ja.wikipedia.org/wiki/日産自動車 "wikilink")宇宙航空事業部（以下、日産）と共同で開発し、日産が製造、東大が運用した[科学衛星](../Page/科学衛星.md "wikilink")打ち上げ用の3段式の[固体燃料](https://ja.wikipedia.org/wiki/固体燃料 "wikilink")[ロケット](../Page/ロケット.md "wikilink")。
+**M-3Hロケット**（ミュー3エイチ）は、日本の[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")宇宙航空研究所（後の[文部省](../Page/文部省.md "wikilink")[宇宙科学研究所](../Page/宇宙科学研究所.md "wikilink")、現[宇宙航空研究開発機構](https://ja.wikipedia.org/wiki/宇宙航空研究開発機構 "wikilink")宇宙科学研究所、以下、東大）が[日産自動車](../Page/日産自動車.md "wikilink")宇宙航空事業部（以下、日産）と共同で開発し、日産が製造、東大が運用した[科学衛星](../Page/科学衛星.md "wikilink")打ち上げ用の3段式の[固体燃料](https://ja.wikipedia.org/wiki/固体燃料 "wikilink")[ロケット](../Page/ロケット.md "wikilink")。
 
 ## 技術的特徴
 
@@ -59,7 +59,7 @@ M-3CとM-3Hは構成上共通点が多く、両者を併せてミューロケッ
 <td><p>1号機</p></td>
 <td><p><a href="../Page/1977年.md" title="wikilink">1977年</a><a href="../Page/2月19日.md" title="wikilink">2月19日</a>14:15</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/たんせい3号" title="wikilink">たんせい3号</a> （MS-T3）</p></td>
+<td><p><a href="../Page/たんせい3号.md" title="wikilink">たんせい3号</a> （MS-T3）</p></td>
 <td><p>129</p></td>
 <td><p>楕円 - 近823km, 遠4,087km, 傾斜角67°</p></td>
 <td><p>楕円 - 近790km, 遠3,810km, 傾斜角66°</p></td>
@@ -69,7 +69,7 @@ M-3CとM-3Hは構成上共通点が多く、両者を併せてミューロケッ
 <td><p>2号機</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1978年" title="wikilink">1978年</a><a href="../Page/2月4日.md" title="wikilink">2月4日</a>16:00</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/きょっこう" title="wikilink">きょっこう</a> （EXOS-A）</p></td>
+<td><p><a href="../Page/きょっこう.md" title="wikilink">きょっこう</a> （EXOS-A）</p></td>
 <td><p>126</p></td>
 <td><p>楕円 - 近531km, 遠4,037km, 傾斜角67°</p></td>
 <td><p>楕円 - 近630km, 遠3,970km, 傾斜角65°</p></td>
@@ -79,7 +79,7 @@ M-3CとM-3Hは構成上共通点が多く、両者を併せてミューロケッ
 <td><p>3号機</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1978年" title="wikilink">1978年</a><a href="../Page/9月16日.md" title="wikilink">9月16日</a>14:00</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/じきけん" title="wikilink">じきけん</a> （EXOS-B）</p></td>
+<td><p><a href="../Page/じきけん.md" title="wikilink">じきけん</a> （EXOS-B）</p></td>
 <td><p>90</p></td>
 <td><p>長楕円 - 近248km, 遠31,492km, 傾斜角31°</p></td>
 <td><p>長楕円 - 近220km, 遠30,100km, 傾斜角31°</p></td>

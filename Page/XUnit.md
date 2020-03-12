@@ -1,11 +1,11 @@
 > この記事は[XUnit](https://ja.wikipedia.org/wiki/XUnit)から翻訳されています。
 
 
-**xUnit**とは、[コンピュータ](../Page/コンピュータ.md "wikilink")[プログラムの](../Page/プログラム_\(コンピュータ\).md "wikilink")[単体テスト](https://ja.wikipedia.org/wiki/ソフトウェアテスト#単体テスト（Unit_Testing） "wikilink")（ユニットテスト）を行うためのテスティング[フレームワークの総称である](https://ja.wikipedia.org/wiki/アプリケーションフレームワーク "wikilink")。これらのフレームワークでは、関数やクラスなど、ソフトウェアの様々な要素（ユニット）をテストすることができる。xUnitフレームワークの主な利点は、テストを自動化できること、同じテストを何度も書かずに済むこと、個々のテストの結果がどうあるべきかを覚えておかなくても良いことである。
+**xUnit**とは、[コンピュータ](../Page/コンピュータ.md "wikilink")[プログラムの](../Page/プログラム_\(コンピュータ\).md "wikilink")[単体テスト](https://ja.wikipedia.org/wiki/ソフトウェアテスト#単体テスト（Unit_Testing） "wikilink")（ユニットテスト）を行うためのテスティング[フレームワークの総称である](../Page/アプリケーションフレームワーク.md "wikilink")。これらのフレームワークでは、関数やクラスなど、ソフトウェアの様々な要素（ユニット）をテストすることができる。xUnitフレームワークの主な利点は、テストを自動化できること、同じテストを何度も書かずに済むこと、個々のテストの結果がどうあるべきかを覚えておかなくても良いことである。
 
-このようなフレームワークの最初の実装は、[ケント・ベック](../Page/ケント・ベック.md "wikilink")が開発した[Smalltalk](../Page/Smalltalk.md "wikilink")用のテスティングフレームワーク**[SUnit](https://ja.wikipedia.org/wiki/SUnit "wikilink")**である。その後、各コンピュータ[プログラム言語](https://ja.wikipedia.org/wiki/プログラム言語 "wikilink")や開発環境毎に、同様の設計を持つフレームワークが多数作成されている。xUnitそれ自体は非常に単純なプログラムであるが、近年のソフトウェア開発で採用されつつある。[JUnit](https://ja.wikipedia.org/wiki/JUnit "wikilink")（[Java](https://ja.wikipedia.org/wiki/Java "wikilink")用のxUnit）の項目も参照。
+このようなフレームワークの最初の実装は、[ケント・ベック](../Page/ケント・ベック.md "wikilink")が開発した[Smalltalk](../Page/Smalltalk.md "wikilink")用のテスティングフレームワーク**[SUnit](https://ja.wikipedia.org/wiki/SUnit "wikilink")**である。その後、各コンピュータ[プログラム言語](https://ja.wikipedia.org/wiki/プログラム言語 "wikilink")や開発環境毎に、同様の設計を持つフレームワークが多数作成されている。xUnitそれ自体は非常に単純なプログラムであるが、近年のソフトウェア開発で採用されつつある。[JUnit](../Page/JUnit.md "wikilink")（[Java](https://ja.wikipedia.org/wiki/Java "wikilink")用のxUnit）の項目も参照。
 
-[アジャイルソフトウェア開発](https://ja.wikipedia.org/wiki/アジャイルソフトウェア開発 "wikilink")（[エクストリーム・プログラミング](../Page/エクストリーム・プログラミング.md "wikilink")など）においては、[リファクタリング](../Page/リファクタリング_\(プログラミング\).md "wikilink")・[テストファースト](https://ja.wikipedia.org/wiki/テストファースト "wikilink")等の前提となる重要な要素である。
+[アジャイルソフトウェア開発](../Page/アジャイルソフトウェア開発.md "wikilink")（[エクストリーム・プログラミング](../Page/エクストリーム・プログラミング.md "wikilink")など）においては、[リファクタリング](../Page/リファクタリング_\(プログラミング\).md "wikilink")・[テストファースト](https://ja.wikipedia.org/wiki/テストファースト "wikilink")等の前提となる重要な要素である。
 
 ## xUnitの設計
 
@@ -38,11 +38,11 @@ setup() と teardown() の各メソッドは、テストフィクスチャの初
 
 ### アサーション（表明、検証）
 
-テスト対象の関数やクラスなどについて、振る舞いや状態を確認するための関数やマクロを、[アサーションと呼ぶ](https://ja.wikipedia.org/wiki/表明 "wikilink")。アサーションが失敗した時（実際の実行結果が期待される結果と異なっていた場合）は、一般的には、例外が投げられ現在のテストの実行は中断される。
+テスト対象の関数やクラスなどについて、振る舞いや状態を確認するための関数やマクロを、[アサーションと呼ぶ](../Page/表明.md "wikilink")。アサーションが失敗した時（実際の実行結果が期待される結果と異なっていた場合）は、一般的には、例外が投げられ現在のテストの実行は中断される。
 
 ## xUnitの一覧
 
-  - [JUnit](https://ja.wikipedia.org/wiki/JUnit "wikilink"), [TestNG](../Page/TestNG.md "wikilink")（[Java](https://ja.wikipedia.org/wiki/Java "wikilink")用）
+  - [JUnit](../Page/JUnit.md "wikilink"), [TestNG](../Page/TestNG.md "wikilink")（[Java](https://ja.wikipedia.org/wiki/Java "wikilink")用）
   - [SUnit](http://sunit.sourceforge.net/)（[Smalltalk](../Page/Smalltalk.md "wikilink")用）
   - [CUnit](http://cunit.sourceforge.net/), [Cutter](http://cutter.sourceforge.net/index.html.ja)（[C言語](../Page/C言語.md "wikilink")用）
   - [CppUnit](http://sourceforge.net/projects/cppunit/), [Cutter](http://cutter.sourceforge.net/index.html.ja)（[C++](../Page/C++.md "wikilink")用）

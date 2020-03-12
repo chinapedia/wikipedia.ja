@@ -1,13 +1,13 @@
 > この記事は[A Song for ](https://ja.wikipedia.org/wiki/A_Song_for_)から翻訳されています。
 
 
-『**A Song for ××**』（エイ・ソング・フォー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の1枚目のオリジナル・[アルバム](../Page/アルバム.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+『**A Song for ××**』（エイ・ソング・フォー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の1枚目のオリジナル・[アルバム](../Page/アルバム.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 解説
 
 シングル、アルバム通して初の首位獲得作であり、浜崎の初の[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")作品である。本来の表記は「A Song for **××**」であるが、「A Song for **XX**」というように「X」で表記されることもある。
 
-5thシングル「[Depend on you](https://ja.wikipedia.org/wiki/Depend_on_you "wikilink")」のカップリング「Two of us」は本作には収録されていない。
+5thシングル「[Depend on you](../Page/Depend_on_you.md "wikilink")」のカップリング「Two of us」は本作には収録されていない。
 
 1999年3月17日に、本作収録曲をリミックスした、初のリミックスアルバム『[ayu-mi-x](https://ja.wikipedia.org/wiki/ayu-mi-x "wikilink")』が発売された。
 
@@ -21,7 +21,7 @@
 1.  **Prologue** \[1:25\]
       -
         作曲・編曲：[星野靖彦](https://ja.wikipedia.org/wiki/星野靖彦 "wikilink")
-        [インスト曲](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")
+        [インスト曲](../Page/器楽曲.md "wikilink")
 2.  **A Song for ××** \[4:44\]
       -
         作曲・編曲：星野靖彦
@@ -39,39 +39,39 @@
       -
         作曲：星野靖彦、編曲：本間昭光
         1stシングル
-        [TBS](../Page/TBSテレビ.md "wikilink")『[COUNT DOWN TV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")』1998年[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")度オープニングテーマ
+        [TBS](../Page/TBSテレビ.md "wikilink")『[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")』1998年[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")度オープニングテーマ
 7.  **Wishing** \[4:29\]
       -
         作曲：桑原秀明、編曲：本間昭光
-8.  **[YOU](https://ja.wikipedia.org/wiki/YOU_\(浜崎あゆみの曲\) "wikilink")** \[4:44\]
+8.  **[YOU](../Page/YOU_\(浜崎あゆみの曲\).md "wikilink")** \[4:44\]
       -
         作曲：星野靖彦、編曲：本間昭光
         2ndシングル
-        [チバビジョン](https://ja.wikipedia.org/wiki/チバビジョン "wikilink") フォーカスデイリーズ CMソング、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")「[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")」エンディングテーマ
+        [チバビジョン](../Page/チバビジョン.md "wikilink") フォーカスデイリーズ CMソング、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")「[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")」エンディングテーマ
 9.  **As if...** \[5:36\]
       -
-        作曲：[菊池一仁](https://ja.wikipedia.org/wiki/菊池一仁 "wikilink")、編曲：本間昭光
+        作曲：[菊池一仁](../Page/菊池一仁.md "wikilink")、編曲：本間昭光
 10. **POWDER SNOW** \[5:26\]
       -
         作曲：桑原秀明、編曲：本間昭光
-11. **[Trust](https://ja.wikipedia.org/wiki/Trust_\(浜崎あゆみの曲\) "wikilink")** \[4:48\]
+11. **[Trust](../Page/Trust_\(浜崎あゆみの曲\).md "wikilink")** \[4:48\]
       -
         作曲：[木村貴志](https://ja.wikipedia.org/wiki/木村貴志 "wikilink")、編曲：本間昭光・木村貴志
         3rdシングル
-        [花王](../Page/花王.md "wikilink")[ソフィーナ](https://ja.wikipedia.org/wiki/ソフィーナ "wikilink")「[オーブ](../Page/AUBE_\(化粧品\).md "wikilink")(AUBE)ルージュフィーリア」[テレビコマーシャル](https://ja.wikipedia.org/wiki/テレビコマーシャル "wikilink")イメージソング
-12. **[Depend on you](https://ja.wikipedia.org/wiki/Depend_on_you "wikilink")** \[4:20\]
+        [花王](../Page/花王.md "wikilink")[ソフィーナ](../Page/ソフィーナ.md "wikilink")「[オーブ](../Page/AUBE_\(化粧品\).md "wikilink")(AUBE)ルージュフィーリア」[テレビコマーシャル](https://ja.wikipedia.org/wiki/テレビコマーシャル "wikilink")イメージソング
+12. **[Depend on you](../Page/Depend_on_you.md "wikilink")** \[4:20\]
       -
         作曲：菊池一仁、編曲：本間昭光・[守尾崇](https://ja.wikipedia.org/wiki/守尾崇 "wikilink")
         5thシングル
-        [TBS系](../Page/TBSテレビ.md "wikilink")『[COUNT DOWN TV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")』1998年[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")度エンディングテーマ
-        [アトラス](../Page/アトラス_\(ゲーム会社\).md "wikilink")[PS用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")『[サウザンドアームズ](https://ja.wikipedia.org/wiki/サウザンドアームズ "wikilink")』オープニングテーマ
+        [TBS系](../Page/TBSテレビ.md "wikilink")『[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")』1998年[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")度エンディングテーマ
+        [アトラス](../Page/アトラス_\(ゲーム会社\).md "wikilink")[PS用ゲームソフト](../Page/PlayStation_\(ゲーム機\).md "wikilink")『[サウザンドアームズ](https://ja.wikipedia.org/wiki/サウザンドアームズ "wikilink")』オープニングテーマ
 13. **SIGNAL** \[4:25\]
       -
         作曲：桑原秀明、編曲：本間昭光
 14. **from your letter** \[4:37\]
       -
         作曲・編曲：[富樫明生](https://ja.wikipedia.org/wiki/富樫明生 "wikilink")
-15. **[For My Dear...](https://ja.wikipedia.org/wiki/For_My_Dear... "wikilink")** \[4:32\]
+15. **[For My Dear...](../Page/For_My_Dear....md "wikilink")** \[4:32\]
       -
         作曲・編曲：星野靖彦
         4thシングル

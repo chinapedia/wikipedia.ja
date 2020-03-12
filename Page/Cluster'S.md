@@ -1,7 +1,7 @@
 > この記事は[Cluster\'S](https://ja.wikipedia.org/wiki/Cluster\'S)から翻訳されています。
 
 
-**Cluster'S**（クラスターエス）は、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")の[CLUSTER EDGE](https://ja.wikipedia.org/wiki/CLUSTER_EDGE "wikilink")（クラスターエッジ）の男性[声優](../Page/声優.md "wikilink")による音楽プロジェクトの総称。
+**Cluster'S**（クラスターエス）は、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")の[CLUSTER EDGE](../Page/CLUSTER_EDGE.md "wikilink")（クラスターエッジ）の男性[声優](../Page/声優.md "wikilink")による音楽プロジェクトの総称。
 
 「Cluster'S」の「S：エス」は複数という意味の「S」、音楽という意味の「SongのS」、奏者という意味の「SingerのS」、そして特別なモノという意味の「SpecialのS」を表現している。
 
@@ -13,10 +13,10 @@
 
 ## メンバー
 
-  - [下野紘](https://ja.wikipedia.org/wiki/下野紘 "wikilink")（アゲート・フローライト役）
-  - [福山潤](https://ja.wikipedia.org/wiki/福山潤 "wikilink")（ベリル・ジャスパー役）
+  - [下野紘](../Page/下野紘.md "wikilink")（アゲート・フローライト役）
+  - [福山潤](../Page/福山潤.md "wikilink")（ベリル・ジャスパー役）
   - [岸尾大輔](../Page/岸尾だいすけ.md "wikilink")（フォン・アイナ・サルファー役）
-  - [吉野裕行](https://ja.wikipedia.org/wiki/吉野裕行 "wikilink")（クロム役）
+  - [吉野裕行](../Page/吉野裕行.md "wikilink")（クロム役）
 
 ## 概要
 

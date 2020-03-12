@@ -5,7 +5,7 @@
 
 ## 概要
 
-リミックスアルバムとしては『[SUPER EUROBEAT presents ayu-ro mix](https://ja.wikipedia.org/wiki/SUPER_EUROBEAT_presents_ayu-ro_mix "wikilink")』から2ヵ月連続のリリース。
+リミックスアルバムとしては『[SUPER EUROBEAT presents ayu-ro mix](../Page/SUPER_EUROBEAT_presents_ayu-ro_mix.md "wikilink")』から2ヵ月連続のリリース。
 
 『**[ayu-mi-x](https://ja.wikipedia.org/wiki/ayu-mi-x "wikilink")**』シリーズの第2弾となる本作は、2ndアルバム『[LOVEppears](../Page/LOVEppears.md "wikilink")』収録曲を中心としたリミックスアルバムで、リミックスのジャンル別に全4タイトルが発売。[2000年](../Page/2000年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")に「[Acoustic Orchestra](https://ja.wikipedia.org/wiki/#ayu-mi-x_II_version_Acoustic_Orchestra "wikilink")」「[JPN](https://ja.wikipedia.org/wiki/#ayu-mi-x_II_version_JPN "wikilink")」「[US+EU](https://ja.wikipedia.org/wiki/#ayu-mi-x_II_version_US+EU "wikilink")」の3タイトルが同時発売され、同年[3月29日](../Page/3月29日.md "wikilink")に「[Non-Stop Mega Mix](https://ja.wikipedia.org/wiki/#ayu-mi-x_II_version_Non-Stop_Mega_Mix "wikilink")」が発売された。
 
@@ -16,16 +16,16 @@
 ## ayu-mi-x II version Acoustic Orchestra
 
   - 全編[アコースティック](https://ja.wikipedia.org/wiki/アコースティック楽器 "wikilink")・[オーケストラ](../Page/オーケストラ.md "wikilink")風に[アレンジされている](../Page/編曲.md "wikilink")。
-  - [ボーナス・トラック](https://ja.wikipedia.org/wiki/ボーナス・トラック "wikilink")として、[インスト](https://ja.wikipedia.org/wiki/オフヴォーカル "wikilink")・メロ・バージョンを4曲収録。
+  - [ボーナス・トラック](../Page/ボーナス・トラック.md "wikilink")として、[インスト](https://ja.wikipedia.org/wiki/オフヴォーカル "wikilink")・メロ・バージョンを4曲収録。
 
 ### 収録曲
 
-1.  [Fly high](https://ja.wikipedia.org/wiki/Fly_high_\(浜崎あゆみの曲\) "wikilink") "Acoustic Orchestra version"
+1.  [Fly high](../Page/Fly_high_\(浜崎あゆみの曲\).md "wikilink") "Acoustic Orchestra version"
 2.  [Who...](../Page/LOVEppears.md "wikilink") "Acoustic Orchestra version"
-3.  [Boys & Girls](https://ja.wikipedia.org/wiki/Boys_&_Girls_\(浜崎あゆみの曲\) "wikilink") "Acoustic Orchestra version"
-4.  [TO BE](https://ja.wikipedia.org/wiki/TO_BE "wikilink") "Acoustic Orchestra version"
+3.  [Boys & Girls](../Page/Boys_&_Girls_\(浜崎あゆみの曲\).md "wikilink") "Acoustic Orchestra version"
+4.  [TO BE](../Page/TO_BE.md "wikilink") "Acoustic Orchestra version"
 5.  [And then](../Page/LOVEppears.md "wikilink") "Acoustic Orchestra version"
-6.  [End roll](https://ja.wikipedia.org/wiki/A_\(シングル\) "wikilink") "Acoustic Orchestra version"
+6.  [End roll](../Page/A_\(シングル\).md "wikilink") "Acoustic Orchestra version"
 7.  [immature](https://ja.wikipedia.org/wiki/appears "wikilink") "Acoustic Orchestra version"
 8.  [appears](https://ja.wikipedia.org/wiki/appears "wikilink") "Acoustic Orchestra version"
 9.  End roll "inst. melo version"
@@ -39,7 +39,7 @@
 
 ### 収録曲
 
-1.  [Trauma](https://ja.wikipedia.org/wiki/A_\(シングル\) "wikilink") "[YUKIHIRO FUKUTOMI](../Page/福富幸宏.md "wikilink") REMIX"
+1.  [Trauma](../Page/A_\(シングル\).md "wikilink") "[YUKIHIRO FUKUTOMI](../Page/福富幸宏.md "wikilink") REMIX"
       -
         Remixed by Yukihiro Fukutomi
 2.  Fly high "[Groove That Speed](../Page/GTS_\(DJグループ\).md "wikilink") Mix"
@@ -48,13 +48,13 @@
 3.  immature "CLUB BAHIA MIX"
       -
         Remixed by MINT meets HOW
-4.  [too late](https://ja.wikipedia.org/wiki/A_\(シングル\) "wikilink") "LaB LIFe Remix"
+4.  [too late](../Page/A_\(シングル\).md "wikilink") "LaB LIFe Remix"
       -
         Remixed by LaB LIFe
 5.  Boys & Girls "Inskadisco mix"
       -
         Remixed by THE GROUPE featuring Sogabe Keiichi
-6.  [WHATEVER](https://ja.wikipedia.org/wiki/WHATEVER_\(浜崎あゆみの曲\) "wikilink") "[FPM](https://ja.wikipedia.org/wiki/Fantastic_Plastic_Machine "wikilink")'s WINTER BOSSA"
+6.  [WHATEVER](../Page/WHATEVER_\(浜崎あゆみの曲\).md "wikilink") "[FPM](../Page/Fantastic_Plastic_Machine.md "wikilink")'s WINTER BOSSA"
       -
         Remixed by Tomoyuki Tanaka \[Fantastic Plastic Machine\]
 7.  End roll "da urban maesto mix"
@@ -66,7 +66,7 @@
 9.  And then "Future Disc Mix"
       -
         Remixed by Nord Rider
-10. [monochrome](https://ja.wikipedia.org/wiki/A_\(シングル\) "wikilink") "D-Z WHITE INSTINCT Mix"
+10. [monochrome](../Page/A_\(シングル\).md "wikilink") "D-Z WHITE INSTINCT Mix"
       -
         Remix produced by C-NTALOW. K-ZILLOW Remixed by D-Z
 11. appears "[DJ-TURBO](../Page/GTS_\(DJグループ\).md "wikilink") Remix"
@@ -147,7 +147,7 @@
 12. monochrome "Orb 7"Vocal Mix"
 13. Who... "Who Dub It?"
 14. TO BE "Acoustic Orchestra version"
-15. WHATEVER "[FPM](https://ja.wikipedia.org/wiki/Fantastic_Plastic_Machine "wikilink")'s WINTER BOSSA"
+15. WHATEVER "[FPM](../Page/Fantastic_Plastic_Machine.md "wikilink")'s WINTER BOSSA"
 16. Boys & Girls "Inskadisco mix"
 17. too late "LaB LIFe Remix"
 18. And then "Future Disc Mix" 〜Acoustic Orchestra version
@@ -166,10 +166,10 @@
 
 <!-- end list -->
 
-1.  [Far away](https://ja.wikipedia.org/wiki/Far_away_\(浜崎あゆみの曲\) "wikilink") "HΛL'S MIX 2000"
+1.  [Far away](../Page/Far_away_\(浜崎あゆみの曲\).md "wikilink") "HΛL'S MIX 2000"
       -
         Remixed by HΛL
-2.  [Prologue](https://ja.wikipedia.org/wiki/A_Song_for_×× "wikilink") "Hybrid Remix"
+2.  [Prologue](../Page/A_Song_for_××.md "wikilink") "Hybrid Remix"
       -
         Remix & Additional Production by Hybrid
 3.  Who... "Who Dub It? -Main Mix-"
@@ -195,7 +195,7 @@
         Remixed by Michiaki
 10. Fly high "Higher and higher mix"
       -
-        Remixed by [Yuta Nakano](https://ja.wikipedia.org/wiki/中野雄太 "wikilink")
+        Remixed by [Yuta Nakano](../Page/中野雄太.md "wikilink")
 11. Fly high "POP 'e.a' Mix"
       -
         Remixed by POP

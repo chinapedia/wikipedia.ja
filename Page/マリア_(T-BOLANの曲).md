@@ -1,11 +1,11 @@
 > この記事は[ \(T-BOLAN\)](https://ja.wikipedia.org/wiki/_\(T-BOLAN\))から翻訳されています。
 
 
-「**マリア**」は、[T-BOLAN](https://ja.wikipedia.org/wiki/T-BOLAN "wikilink")の12枚目のシングル。
+「**マリア**」は、[T-BOLAN](../Page/T-BOLAN.md "wikilink")の12枚目のシングル。
 
 ## 内容
 
-もともとアコースティックアルバム『[夏の終わりにII](https://ja.wikipedia.org/wiki/夏の終わりにII_〜Lookin'_for_the_eighth_color_of_the_rainbow〜 "wikilink")』において発表された楽曲（編曲はT-BOLAN・[葉山たけし](../Page/葉山たけし.md "wikilink")）で、シングルとしてリメイクされた。
+もともとアコースティックアルバム『[夏の終わりにII](../Page/夏の終わりにII_〜Lookin'_for_the_eighth_color_of_the_rainbow〜.md "wikilink")』において発表された楽曲（編曲はT-BOLAN・[葉山たけし](../Page/葉山たけし.md "wikilink")）で、シングルとしてリメイクされた。
 
 楽曲をロック調へとアレンジし、リカットという形ながら、好セールスを記録する。本作はT-BOLANのシングル作品としては3番目の売上を記録するヒット曲となった。
 
@@ -15,14 +15,14 @@
 
 1.  **マリア**
       -
-        作詞･作曲:[森友嵐士](https://ja.wikipedia.org/wiki/森友嵐士 "wikilink") 編曲:T-BOLAN・明石昌夫
+        作詞･作曲:[森友嵐士](../Page/森友嵐士.md "wikilink") 編曲:T-BOLAN・明石昌夫
 2.  **心とかして**
       -
         作詞･作曲:森友嵐士 編曲:T-BOLAN・明石昌夫
 
 ## 収録アルバム
 
-  - [夏の終わりにII 〜Lookin' for the eighth color of the rainbow〜](https://ja.wikipedia.org/wiki/夏の終わりにII_〜Lookin'_for_the_eighth_color_of_the_rainbow〜 "wikilink") (\#1、Acoustic version)
+  - [夏の終わりにII 〜Lookin' for the eighth color of the rainbow〜](../Page/夏の終わりにII_〜Lookin'_for_the_eighth_color_of_the_rainbow〜.md "wikilink") (\#1、Acoustic version)
   - [SINGLES](../Page/SINGLES_\(T-BOLANのアルバム\).md "wikilink") (\#1)
   - [T-BOLAN FINAL BEST GREATEST SONGS & MORE](../Page/T-BOLAN_FINAL_BEST_GREATEST_SONGS_&_MORE.md "wikilink") (\#1)
   - [complete of T-BOLAN at the BEING studio](https://ja.wikipedia.org/wiki/complete_of_T-BOLAN_at_the_BEING_studio "wikilink") (\#1)
@@ -30,7 +30,7 @@
   - [T-BOLAN BEST HITS](../Page/T-BOLAN_BEST_HITS.md "wikilink") (\#1)
   - [LEGENDS](https://ja.wikipedia.org/wiki/LEGENDS "wikilink") (\#1)
   - コンピレーションアルバム『It's TV SHOW\!\!』 (\#1)
-  - コンピレーションアルバム『[COUNTDOWN BEING](https://ja.wikipedia.org/wiki/COUNTDOWN_BEING "wikilink")』 (\#1)
+  - コンピレーションアルバム『[COUNTDOWN BEING](../Page/COUNTDOWN_BEING.md "wikilink")』 (\#1)
   - [ADDITIONAL DISC](https://ja.wikipedia.org/wiki/T-BOLAN_THE_COMPLETE "wikilink") (\#1,\#2)
   - [T-BOLAN 〜夏の終わりに BEST〜 LOVE SONGS+1 & LIFE SONGS](https://ja.wikipedia.org/wiki/T-BOLAN_〜夏の終わりに_BEST〜_LOVE_SONGS+1_&_LIFE_SONGS "wikilink") (\#1、Acoustic version)
 

@@ -7,10 +7,10 @@
 
 1.  **UNBELIEVABLE**
       -
-        作詞:[高樹沙耶](https://ja.wikipedia.org/wiki/益戸育江 "wikilink") 作曲:[織田哲郎](../Page/織田哲郎.md "wikilink") 編曲:[明石昌夫](https://ja.wikipedia.org/wiki/明石昌夫 "wikilink")
+        作詞:[高樹沙耶](https://ja.wikipedia.org/wiki/益戸育江 "wikilink") 作曲:[織田哲郎](../Page/織田哲郎.md "wikilink") 編曲:[明石昌夫](../Page/明石昌夫.md "wikilink")
 2.  **LAST SUMMER DAYS**
       -
-        作詞:[小田佳奈子](../Page/小田佳奈子.md "wikilink") 作曲:[栗林誠一郎](https://ja.wikipedia.org/wiki/栗林誠一郎 "wikilink") 編曲:[池田大介](../Page/池田大介_\(編曲家\).md "wikilink")
+        作詞:[小田佳奈子](../Page/小田佳奈子.md "wikilink") 作曲:[栗林誠一郎](../Page/栗林誠一郎.md "wikilink") 編曲:[池田大介](../Page/池田大介_\(編曲家\).md "wikilink")
 
 ## アルバム内容
 
@@ -29,7 +29,7 @@
         （シングル欄参照）
 4.  **Silent Beach**
       -
-        作詞:小田佳奈子 作曲:[川島だりあ](https://ja.wikipedia.org/wiki/川島だりあ "wikilink") 編曲:池田大介
+        作詞:小田佳奈子 作曲:[川島だりあ](../Page/川島だりあ.md "wikilink") 編曲:池田大介
 5.  **TRUE LOVE**
       -
         作詞・作曲:宝仙明伽音 編曲:寺尾広
@@ -51,12 +51,12 @@
 
 ## 参加ミュージシャン
 
-  - [小野塚晃](../Page/小野塚晃.md "wikilink") from [DIMENSION](https://ja.wikipedia.org/wiki/DIMENSION "wikilink") - キーボード
+  - [小野塚晃](../Page/小野塚晃.md "wikilink") from [DIMENSION](../Page/DIMENSION.md "wikilink") - キーボード
   - [増崎孝司](https://ja.wikipedia.org/wiki/増崎孝司 "wikilink") from DIMENSION - ギター
   - 鈴木英俊 - ギター
   - 渡辺直樹 - ベース
   - [勝田かず樹](https://ja.wikipedia.org/wiki/勝田かず樹 "wikilink") form DIMENSION - サックス
-  - [栗林誠一郎](https://ja.wikipedia.org/wiki/栗林誠一郎 "wikilink") - コーラス
+  - [栗林誠一郎](../Page/栗林誠一郎.md "wikilink") - コーラス
   - [牧穂エミ](../Page/牧穂エミ.md "wikilink") - コーラス
   - [大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink") - コーラス
 

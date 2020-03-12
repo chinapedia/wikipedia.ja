@@ -21,8 +21,8 @@
 
 1.  **YOU**
       -
-        [作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：ayumi hamasaki / [作曲](../Page/作曲.md "wikilink")：[Yasuhiko Hoshino](https://ja.wikipedia.org/wiki/星野靖彦 "wikilink") / [編曲](../Page/編曲.md "wikilink")：[Akimitsu Homma](../Page/本間昭光.md "wikilink")
-        [チバビジョン](https://ja.wikipedia.org/wiki/チバビジョン "wikilink") フォーカスデイリーズ CM-CFソング
+        [作詞](../Page/作詞.md "wikilink")：ayumi hamasaki / [作曲](../Page/作曲.md "wikilink")：[Yasuhiko Hoshino](https://ja.wikipedia.org/wiki/星野靖彦 "wikilink") / [編曲](../Page/編曲.md "wikilink")：[Akimitsu Homma](../Page/本間昭光.md "wikilink")
+        [チバビジョン](../Page/チバビジョン.md "wikilink") フォーカスデイリーズ CM-CFソング
         [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")』エンディングテーマ
 2.  **YOU (Acoustic Version)**
 3.  **YOU (Instrumental)**
@@ -53,7 +53,7 @@
 
   - **YOU**
       - 『[A Song for ××](../Page/A_Song_for_××.md "wikilink")』
-      - 『[A BALLADS](https://ja.wikipedia.org/wiki/A_BALLADS "wikilink")』 (northern breeze)
+      - 『[A BALLADS](../Page/A_BALLADS.md "wikilink")』 (northern breeze)
       - 『[A COMPLETE 〜ALL SINGLES〜](https://ja.wikipedia.org/wiki/A_COMPLETE_〜ALL_SINGLES〜 "wikilink")』
 
 ## 脚注

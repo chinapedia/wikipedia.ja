@@ -9,7 +9,7 @@
 
 当初は10分番組で、月曜 - 木曜が時間帯で金曜は[朝日放送の](../Page/朝日放送テレビ.md "wikilink")『[探偵\!ナイトスクープ](../Page/探偵!ナイトスクープ.md "wikilink")』後の土曜0時16分（金曜24時16分）から放送されていたが、月曜 - 金曜通して同じ時間帯に放送。
 
-2006年9月までは75分の拡大版や特番を除いて[テレビ朝日](../Page/テレビ朝日.md "wikilink")系の『[ネオバラエティ](https://ja.wikipedia.org/wiki/ネオバラエティ "wikilink")』枠と『探偵\!ナイトスクープ』は同時ネット局より5分遅れの時差放送となっていた。番組初期に『[内村プロデュース](https://ja.wikipedia.org/wiki/内村プロデュース "wikilink")』の生放送スペシャルが放送されたときには通常通りの10分放送だったため、録画時差放送となったことがあった。
+2006年9月までは75分の拡大版や特番を除いて[テレビ朝日](../Page/テレビ朝日.md "wikilink")系の『[ネオバラエティ](https://ja.wikipedia.org/wiki/ネオバラエティ "wikilink")』枠と『探偵\!ナイトスクープ』は同時ネット局より5分遅れの時差放送となっていた。番組初期に『[内村プロデュース](../Page/内村プロデュース.md "wikilink")』の生放送スペシャルが放送されたときには通常通りの10分放送だったため、録画時差放送となったことがあった。
 
 しかし、2006年10月の改編で5分に短縮され、23時台の各番組は完全同時ネットに移行した。
 
@@ -18,11 +18,11 @@
 ### 2008年4月 -
 
   - [小室早弥香](../Page/小室早弥香.md "wikilink")（月曜）
-  - [田嶌万友香](https://ja.wikipedia.org/wiki/田嶌万友香 "wikilink")（火曜）
-  - 斎藤康之・[山下洋平](https://ja.wikipedia.org/wiki/山下洋平 "wikilink")（水曜、隔週毎）
+  - [田嶌万友香](../Page/田嶌万友香.md "wikilink")（火曜）
+  - 斎藤康之・[山下洋平](../Page/山下洋平.md "wikilink")（水曜、隔週毎）
   - [小坂知里](https://ja.wikipedia.org/wiki/小坂知里 "wikilink")（火曜・木曜 ）
 
-※高松本社所属の小室と小坂は、20:54の『[KSBニュース](https://ja.wikipedia.org/wiki/KSBニュース "wikilink")』や『[KSBスーパーJチャンネル](../Page/KSBスーパーJチャンネル.md "wikilink")』（金曜日）も担当している。
+※高松本社所属の小室と小坂は、20:54の『[KSBニュース](../Page/KSBニュース.md "wikilink")』や『[KSBスーパーJチャンネル](../Page/KSBスーパーJチャンネル.md "wikilink")』（金曜日）も担当している。
 
 ### 過去のニュースキャスター
 
@@ -30,8 +30,8 @@
   - 木村久美（2006年6月 - 12月）
   - [楠木栄理](https://ja.wikipedia.org/wiki/楠木栄理 "wikilink")（2006年7月 - 2007年9月）
   - [寺西瑞紀](../Page/寺西瑞紀.md "wikilink")（2005年 - 2006年6月）
-  - [畑嶋恵理奈](https://ja.wikipedia.org/wiki/畑嶋恵理奈 "wikilink")
-  - [本庄里恵子](https://ja.wikipedia.org/wiki/本庄里恵子 "wikilink")
+  - [畑嶋恵理奈](../Page/畑嶋恵理奈.md "wikilink")
+  - [本庄里恵子](../Page/本庄里恵子.md "wikilink")
   - [岡薫](../Page/岡薫.md "wikilink")
   - ほか
 

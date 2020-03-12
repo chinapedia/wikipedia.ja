@@ -1,7 +1,7 @@
 > この記事は[RGB21](https://ja.wikipedia.org/wiki/RGB21)から翻訳されています。
 
 
-**RGB21ピン**とは、[アナログ](../Page/アナログ.md "wikilink")で映像・音声を伝送するための[端子](https://ja.wikipedia.org/wiki/端子 "wikilink")の名称。[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")で標準化された[SCART端子](https://ja.wikipedia.org/wiki/SCART端子 "wikilink")と同一形状である。SCART規格では[コンポジット](../Page/コンポジット映像信号.md "wikilink")、[RGB](../Page/RGB.md "wikilink")（RGBの代わりに[S端子](../Page/S端子.md "wikilink")映像信号を伝送する拡張規格もある）と2チャンネルの音声を伝送出来るが、日本ではゲーム機器や一部のパソコンなどのRGB接続手段として使われることが多く、コンポジット接続は省略されたためRGB接続専用端子として「RGB21ピン端子」という名称が多用されている\[1\]。[EIAJで規格化された端子である](../Page/電子情報技術産業協会.md "wikilink") (EIAJ CPR-1201)。
+**RGB21ピン**とは、[アナログ](../Page/アナログ.md "wikilink")で映像・音声を伝送するための[端子](https://ja.wikipedia.org/wiki/端子 "wikilink")の名称。[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")で標準化された[SCART端子](../Page/SCART端子.md "wikilink")と同一形状である。SCART規格では[コンポジット](../Page/コンポジット映像信号.md "wikilink")、[RGB](../Page/RGB.md "wikilink")（RGBの代わりに[S端子](../Page/S端子.md "wikilink")映像信号を伝送する拡張規格もある）と2チャンネルの音声を伝送出来るが、日本ではゲーム機器や一部のパソコンなどのRGB接続手段として使われることが多く、コンポジット接続は省略されたためRGB接続専用端子として「RGB21ピン端子」という名称が多用されている\[1\]。[EIAJで規格化された端子である](../Page/電子情報技術産業協会.md "wikilink") (EIAJ CPR-1201)。
 
 ## 概要
 
@@ -56,11 +56,11 @@ RGB接続は垂直同期信号 (V SYNC) と水平同期信号 (H SYNC) を別に
 ## RGB21ピン端子で接続できる機器（純正ケーブルあり）
 
   - [スーパーファミコン](../Page/スーパーファミコン.md "wikilink")（SHVC-010で対応）※ケーブル内のコンデンサが劣化している場合あり\[5\]。現在はコンデンサを格納しやすく設計された自作用基板が存在する\[6\]。
-  - [PlayStation](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")、[PS one](../Page/PS_one.md "wikilink")、[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")（SCPH-1050で対応）※サードパーティ製のRGBケーブルは空中配線で、音声の左右が逆に接続されている\[7\]。自作に必要なコンデンサ・抵抗の仕様はスーパーファミコン用と同じ\[8\]。
+  - [PlayStation](../Page/PlayStation_\(ゲーム機\).md "wikilink")、[PS one](../Page/PS_one.md "wikilink")、[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")（SCPH-1050で対応）※サードパーティ製のRGBケーブルは空中配線で、音声の左右が逆に接続されている\[7\]。自作に必要なコンデンサ・抵抗の仕様はスーパーファミコン用と同じ\[8\]。
   - [セガサターン](../Page/セガサターン.md "wikilink")（HSS-0109で対応）※純正RGBケーブルはグランドが接続されておらず音声ノイズが乗る\[9\]。
   - [ネオジオ](https://ja.wikipedia.org/wiki/ネオジオ "wikilink")、[ネオジオCD](../Page/ネオジオCD.md "wikilink")（FCG-9で対応）
   - [スーパーカセットビジョン](../Page/スーパーカセットビジョン.md "wikilink")（専用RGB接続コードで対応）
-  - [SMC-777](https://ja.wikipedia.org/wiki/SMC-777 "wikilink")（ソニーSMK-702で対応\[10\]）
+  - [SMC-777](../Page/SMC-777.md "wikilink")（ソニーSMK-702で対応\[10\]）
   - [MSX](https://ja.wikipedia.org/wiki/MSX "wikilink")2（およびその後継規格）（ソニーHBK-0821Ⅱ・松下FS-VC3011・ヤマハRC-01・東芝TVC-15P等で対応）
       - 東芝パソコン接続アダプターTVC-15PはRGB信号強度と水平位置の調整が可能
   - [FM77AV](https://ja.wikipedia.org/wiki/FM-7#FM77AV "wikilink")（およびその後継規格）（FM77-721で対応、詳しくは外部リンクを参照のこと）
@@ -91,7 +91,7 @@ RGB接続は垂直同期信号 (V SYNC) と水平同期信号 (H SYNC) を別に
 
 ## 関連項目
 
-  - [AVマルチ](https://ja.wikipedia.org/wiki/AVマルチ "wikilink")
+  - [AVマルチ](../Page/AVマルチ.md "wikilink")
 
 [Category:映像端子](https://ja.wikipedia.org/wiki/Category:映像端子 "wikilink") [Category:音声端子](https://ja.wikipedia.org/wiki/Category:音声端子 "wikilink") [Category:コネクタ](https://ja.wikipedia.org/wiki/Category:コネクタ "wikilink")
 

@@ -1,7 +1,7 @@
 > この記事は[SHAKE IT \(T-BOLAN\)](https://ja.wikipedia.org/wiki/SHAKE_IT_\(T-BOLAN\))から翻訳されています。
 
 
-「**SHAKE IT**」（シェイク・イット）は、[T-BOLAN](https://ja.wikipedia.org/wiki/T-BOLAN "wikilink")の13枚目のシングル。
+「**SHAKE IT**」（シェイク・イット）は、[T-BOLAN](../Page/T-BOLAN.md "wikilink")の13枚目のシングル。
 
 ## 解説
 
@@ -13,7 +13,7 @@
 
 1.  **SHAKE IT**
       -
-        作詞：森下桂人 作曲：[森友嵐士](https://ja.wikipedia.org/wiki/森友嵐士 "wikilink") 編曲：T-BOLAN・[明石昌夫](https://ja.wikipedia.org/wiki/明石昌夫 "wikilink")
+        作詞：森下桂人 作曲：[森友嵐士](../Page/森友嵐士.md "wikilink") 編曲：T-BOLAN・[明石昌夫](../Page/明石昌夫.md "wikilink")
 2.  **HOW DO YOU FEEL?**
       -
         作詞･作曲：森友嵐士 編曲：T-BOLAN・[葉山たけし](../Page/葉山たけし.md "wikilink")

@@ -9,7 +9,7 @@
 
 Changin' My Lifeの4thシングルであり、「[満月をさがして](../Page/満月をさがして.md "wikilink")」ではフルムーン(声優:[myco](https://ja.wikipedia.org/wiki/myco "wikilink"))の2ndシングルで、フルムーン（神山満月）の父親のバンド「ROUTE:L」の楽曲のカバーという扱いになっている。このためか、作中の挿入歌として使用される際は2番の歌詞は使われなかった。アニメ側からの依頼によりこのような楽曲になったわけではないらしいが、アニメ第42話では楽曲名と同じサブタイトル「エターナルスノー」が採用されるなど、大きい影響を与えた。
 
-また、タクト(声優:[斎藤恭央](https://ja.wikipedia.org/wiki/桜塚やっくん "wikilink"))、若松円（声優:[可名](https://ja.wikipedia.org/wiki/可名 "wikilink")）が歌うバージョンもある。前者はロック調、後者はダンスミュージック調のアレンジとなっている。なお、このCDの「ETERNAL SNOW(diamond dust mix)」は、作中で若松円が歌うバージョンのアレンジに準じているが、これはmycoの歌唱によるもの。声優によるカバーバージョンは、「[満月をさがして オリジナルサウンドトラック](https://ja.wikipedia.org/wiki/満月をさがして_オリジナルサウンドトラック "wikilink")2」に収録されている。
+また、タクト(声優:[斎藤恭央](../Page/桜塚やっくん.md "wikilink"))、若松円（声優:[可名](https://ja.wikipedia.org/wiki/可名 "wikilink")）が歌うバージョンもある。前者はロック調、後者はダンスミュージック調のアレンジとなっている。なお、このCDの「ETERNAL SNOW(diamond dust mix)」は、作中で若松円が歌うバージョンのアレンジに準じているが、これはmycoの歌唱によるもの。声優によるカバーバージョンは、「[満月をさがして オリジナルサウンドトラック](https://ja.wikipedia.org/wiki/満月をさがして_オリジナルサウンドトラック "wikilink")2」に収録されている。
 
 また初めて東芝EMIが発売した[DVD VIDEO SOUNDである](https://ja.wikipedia.org/wiki/DVD_VIDEO_SOUND "wikilink")。
 

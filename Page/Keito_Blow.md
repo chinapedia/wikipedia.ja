@@ -5,7 +5,7 @@
 
 ## 概略
 
-2002年4月に[LD\&Kからマキシシングル](https://ja.wikipedia.org/wiki/LD&K_Records "wikilink")『Introduction』をリリース。その2か月後に、[瀧見憲司](https://ja.wikipedia.org/wiki/瀧見憲司 "wikilink")プロデュースによるミニアルバム『I'm Here』で[ソニーレコード](https://ja.wikipedia.org/wiki/ソニーレコード "wikilink")からメジャーデビュー。
+2002年4月に[LD\&Kからマキシシングル](../Page/LD&K_Records.md "wikilink")『Introduction』をリリース。その2か月後に、[瀧見憲司](https://ja.wikipedia.org/wiki/瀧見憲司 "wikilink")プロデュースによるミニアルバム『I'm Here』で[ソニーレコード](https://ja.wikipedia.org/wiki/ソニーレコード "wikilink")からメジャーデビュー。
 
 2005年には再びLD\&Kへ移籍。また、自身の作品以外にも[YUKIや](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")[misono](https://ja.wikipedia.org/wiki/misono "wikilink")などに楽曲提供するほか、CMソングも多数手がけている。
 
@@ -253,7 +253,7 @@ SRCL-5798</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ベスト・アルバム" title="wikilink">Best</a></p></td>
+<td><p><a href="../Page/ベスト・アルバム.md" title="wikilink">Best</a></p></td>
 <td><p>2008年9月10日</p></td>
 <td><p><strong>Keitrail</strong></p></td>
 <td><p>LDCD-50052</p></td>
@@ -294,8 +294,8 @@ SRCL-5798</p></td>
 ## 楽曲提供
 
   - [misono](https://ja.wikipedia.org/wiki/misono "wikilink")「子供の事情＞大人の私情2」（作曲）
-  - [YUKI](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")「[首輪](https://ja.wikipedia.org/wiki/歓びの種 "wikilink")」（作曲）
-  - [新垣結衣](https://ja.wikipedia.org/wiki/新垣結衣 "wikilink")「[Make my day](https://ja.wikipedia.org/wiki/Make_my_day_\(新垣結衣の曲\) "wikilink")」（作詞・作曲）
+  - [YUKI](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")「[首輪](../Page/歓びの種.md "wikilink")」（作曲）
+  - [新垣結衣](https://ja.wikipedia.org/wiki/新垣結衣 "wikilink")「[Make my day](../Page/Make_my_day_\(新垣結衣の曲\).md "wikilink")」（作詞・作曲）
   - [豊崎愛生](https://ja.wikipedia.org/wiki/豊崎愛生 "wikilink")「Alright」（作詞・作曲）
 
 ## ミュージックビデオ
@@ -304,7 +304,7 @@ SRCL-5798</p></td>
 | ------------------------------------------------------------------------- | -------------------------------------------- |
 | **監督**                                                                    | **曲名**                                       |
 | [江原慎太郎](https://ja.wikipedia.org/wiki/江原慎太郎 "wikilink")                   | 「Boy」                                        |
-| [奥和義](https://ja.wikipedia.org/wiki/奥和義 "wikilink")                       | 「Cherish」「Don't be a good boy」「Rock with me」 |
+| [奥和義](../Page/奥和義.md "wikilink")                                          | 「Cherish」「Don't be a good boy」「Rock with me」 |
 | [くぼめぐ](https://ja.wikipedia.org/wiki/くぼめぐ "wikilink")                     | 「Blow your mind」「Smash & Extasy」             |
 | [SHUICHI BAMBAA](https://ja.wikipedia.org/wiki/SHUICHI_BAMBAA "wikilink") | 「Leggy girl」                                 |
 | 不明                                                                        | 「beautiful butterfly」                        |

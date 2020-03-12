@@ -1,7 +1,7 @@
 > この記事は[THE LONG HANDMEMBER\'S SELECTION](https://ja.wikipedia.org/wiki/THE_LONG_HANDMEMBER\'S_SELECTION)から翻訳されています。
 
 
-『**THE LONG HAND〜MEMBER'S SELECTION〜**』（ザ ロング ハンド メンバーズ セレクション）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[SOPHIA](https://ja.wikipedia.org/wiki/SOPHIA "wikilink")の2枚目の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。
+『**THE LONG HAND〜MEMBER'S SELECTION〜**』（ザ ロング ハンド メンバーズ セレクション）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[SOPHIA](../Page/SOPHIA.md "wikilink")の2枚目の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。
 
 ## 概要
 

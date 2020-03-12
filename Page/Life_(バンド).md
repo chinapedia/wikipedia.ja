@@ -19,7 +19,7 @@
 2.  **Fear**（2002年11月7日）
     1.  Fear\[4:06\]（作詞・作曲：川端芽久美／編曲：Life）
     2.  Days\[3:02\]（作詞・作曲：川端芽久美／編曲：Life）
-3.  **chain**（2003年2月21日）[TBS系](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")「[COUNT DOWN TV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")」2003年2月度エンディングテーマ
+3.  **chain**（2003年2月21日）[TBS系](../Page/TBSテレビ.md "wikilink")「[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")」2003年2月度エンディングテーマ
     1.  chain\[3:41\]（作詞・作曲：川端芽久美／編曲：Life）
     2.  夢のあと\[4:40\]（作詞・作曲：川端芽久美／編曲：Life）
 

@@ -1,15 +1,15 @@
 > この記事は[Twenty4-7](https://ja.wikipedia.org/wiki/Twenty4-7)から翻訳されています。
 
 
-**twenty4-7**（トウェンティー・フォー・セヴン）は、[大阪](../Page/大阪.md "wikilink")出身の2人組[ヒップホップ](../Page/ヒップホップ.md "wikilink")[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")[グループである](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")。[2007年](../Page/2007年.md "wikilink")に[rhythm zoneよりメジャーデビュー](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")、[2012年](../Page/2012年.md "wikilink")解散。主に大阪を拠点として活動していた。
+**twenty4-7**（トウェンティー・フォー・セヴン）は、[大阪](../Page/大阪.md "wikilink")出身の2人組[ヒップホップ](../Page/ヒップホップ.md "wikilink")[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")[グループである](../Page/音楽ユニット.md "wikilink")。[2007年](../Page/2007年.md "wikilink")に[rhythm zoneよりメジャーデビュー](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")、[2012年](../Page/2012年.md "wikilink")解散。主に大阪を拠点として活動していた。
 
 ## 略歴
 
-2人は高校からの知り合いであったが、卒業後はそれぞれ別々に音楽活動を行なっていた。その後、お互いの音楽活動がうまくいっていなかった事をきっかけに、[2003年](../Page/2003年.md "wikilink")にtwenty4-7を結成、[2004年](../Page/2004年.md "wikilink")から本格的なライブ活動を開始。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に行われた[rhythm zone主催のオーディション](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")「STARZ AUDITION 2006」にて大阪地区優勝を果たし\[1\]、[2007年](../Page/2007年.md "wikilink")にシングル『Fly Out』でメジャーデビュー\[2\]。
+2人は高校からの知り合いであったが、卒業後はそれぞれ別々に音楽活動を行なっていた。その後、お互いの音楽活動がうまくいっていなかった事をきっかけに、[2003年](../Page/2003年.md "wikilink")にtwenty4-7を結成、[2004年](../Page/2004年.md "wikilink")から本格的なライブ活動を開始。[2006年](../Page/2006年.md "wikilink")に行われた[rhythm zone主催のオーディション](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")「STARZ AUDITION 2006」にて大阪地区優勝を果たし\[1\]、[2007年](../Page/2007年.md "wikilink")にシングル『Fly Out』でメジャーデビュー\[2\]。
 
 ユニット名は「24時間7日間」「四六時中」を意味しており、四六時中音楽をやりたい、四六時中寝る暇が無いくらいスケジュール三昧になって欲しい、四六時中twenty4-7の音楽を聴いて欲しい、などの思いが込められているという\[3\]。
 
-[2012年](../Page/2012年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")、オフィシャルサイトにて解散が発表され\[4\]\[5\]、[4月4日](../Page/4月4日.md "wikilink")のミニアルバム『Last Message』リリース、及び[6月9日](../Page/6月9日.md "wikilink")に[UMEDA CLUB QUATTROで行われたワンマンライブを持って解散となった](https://ja.wikipedia.org/wiki/CLUB_QUATTRO "wikilink")\[6\]。
+[2012年](../Page/2012年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")、オフィシャルサイトにて解散が発表され\[4\]\[5\]、[4月4日](../Page/4月4日.md "wikilink")のミニアルバム『Last Message』リリース、及び[6月9日](../Page/6月9日.md "wikilink")に[UMEDA CLUB QUATTROで行われたワンマンライブを持って解散となった](../Page/CLUB_QUATTRO.md "wikilink")\[6\]。
 
 ## メンバー
 
@@ -19,7 +19,7 @@
 
   -
     担当：MC
-    出身：[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")生まれ、[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")育ち
+    出身：[福岡県](../Page/福岡県.md "wikilink")生まれ、[大阪府](../Page/大阪府.md "wikilink")育ち
     血液型：[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")
     身長：169cm
 
@@ -115,7 +115,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><strong>Letter 〜10年後の君へ〜 feat. <a href="https://ja.wikipedia.org/wiki/MAY&#39;S" title="wikilink">MAY'S</a>／愛の色</strong></p></td>
+<td><p><strong>Letter 〜10年後の君へ〜 feat. <a href="../Page/MAY&#39;S.md" title="wikilink">MAY'S</a>／愛の色</strong></p></td>
 <td><p>2010年11月10日</p></td>
 <td></td>
 <td></td>
@@ -202,7 +202,7 @@
   - **STARZ FILE**（2006年10月25日）
       -
         GOING MY WAY
-  - **Super Wave** / [RIKI](https://ja.wikipedia.org/wiki/竹内力 "wikilink")（2008年12月3日）
+  - **Super Wave** / [RIKI](../Page/竹内力.md "wikilink")（2008年12月3日）
       -
         悲しげな瞳 feat. [ARIA](../Page/ARIA_\(歌手\).md "wikilink") & twenty4-7
   - **Special Calling 〜Exclusive Collection〜**（2009年3月25日）
@@ -230,7 +230,7 @@
 | [井上強](https://ja.wikipedia.org/wiki/井上強 "wikilink")                                        | 「summer story」                                                                                                                   |
 | [江原慎太郎](https://ja.wikipedia.org/wiki/江原慎太郎 "wikilink")                                    | 「Last Message 〜卒業〜」                                                                                                              |
 | [大鶴義丹](../Page/大鶴義丹.md "wikilink") & [青山賢治](https://ja.wikipedia.org/wiki/青山賢治 "wikilink") | 「[BELIEVE](https://www.youtube.com/watch?v=_IHp6R38jWw)」                                                                         |
-| [下山天](https://ja.wikipedia.org/wiki/下山天 "wikilink")                                        | 「Back AGAIN」                                                                                                                     |
+| [下山天](../Page/下山天.md "wikilink")                                                           | 「Back AGAIN」                                                                                                                     |
 | [竹久正記](../Page/竹久正記.md "wikilink")                                                         | 「I CRY」                                                                                                                          |
 | [tatsuaki](https://ja.wikipedia.org/wiki/tatsuaki "wikilink")                              | 「[STRONG BODY](https://www.youtube.com/watch?v=3nDvtOkSCG4)(阪井あゆみ×twenty4-7)」                                                    |
 | [森田一平](https://ja.wikipedia.org/wiki/森田一平 "wikilink")                                      | 「[Letter 〜10年後の君へ〜 feat.MAY'S](https://www.youtube.com/watch?v=qZ1DMutn3Y4)」「[愛の色](https://www.youtube.com/watch?v=quF1cimSQSY)」 |
@@ -251,7 +251,7 @@
 
 <!-- end list -->
 
-  - 第43回[日本有線大賞](https://ja.wikipedia.org/wiki/日本有線大賞 "wikilink") （2010年11月18日、[TBS](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")） - 有線放送協会賞を受賞。
+  - 第43回[日本有線大賞](../Page/日本有線大賞.md "wikilink") （2010年11月18日、[TBS](../Page/TBSテレビ.md "wikilink")） - 有線放送協会賞を受賞。
 
 ## 主なライブ
 
@@ -267,9 +267,9 @@
 
 ## 関連項目
 
-  - [アシャンティ (歌手)](https://ja.wikipedia.org/wiki/アシャンティ_\(歌手\) "wikilink") - 来日公演時に[フロントアクトを務めた](https://ja.wikipedia.org/wiki/オープニングアクト "wikilink")。
+  - [アシャンティ (歌手)](../Page/アシャンティ_\(歌手\).md "wikilink") - 来日公演時に[フロントアクトを務めた](https://ja.wikipedia.org/wiki/オープニングアクト "wikilink")。
   - [STY](../Page/STY.md "wikilink")
-  - [2007年の音楽](https://ja.wikipedia.org/wiki/2007年の音楽 "wikilink")
+  - [2007年の音楽](../Page/2007年の音楽.md "wikilink")
   - [余命 (小説)](https://ja.wikipedia.org/wiki/余命_\(小説\) "wikilink")
 
 ## 脚注

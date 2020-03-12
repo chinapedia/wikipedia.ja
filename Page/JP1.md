@@ -8,7 +8,7 @@
 大きく分けて以下の3つの機能を有する。
 
   - オートメーション（主にJP1/AJS3, JP1/AO, JP1/DH）
-    様々な[プロセス](../Page/プロセス.md "wikilink")サービスや[ジョブ](https://ja.wikipedia.org/wiki/ジョブ "wikilink")の起動順序を定義し、[ジョブ管理システム](https://ja.wikipedia.org/wiki/ジョブ管理システム "wikilink")として使用する事が出来る。
+    様々な[プロセス](../Page/プロセス.md "wikilink")サービスや[ジョブ](https://ja.wikipedia.org/wiki/ジョブ "wikilink")の起動順序を定義し、[ジョブ管理システム](../Page/ジョブ管理システム.md "wikilink")として使用する事が出来る。
   - モニタリング（主にJP1/IM, JP1/PFM, JP1/NNMi）
     JP1同士のイベント送受信が可能で、イベント情報を[IMに集約](../Page/インスタントメッセンジャー.md "wikilink")・管理する事で集中[監視](../Page/監視.md "wikilink")ツールとして使用する事が出来る。
   - コンプライアンス（主にJP1/ITDM2, JP1/秘文）
@@ -20,12 +20,12 @@
 
 ## 関連項目
 
-  - [ミドルウェア](https://ja.wikipedia.org/wiki/ミドルウェア "wikilink")
+  - [ミドルウェア](../Page/ミドルウェア.md "wikilink")
   - *日立オープンミドルウェアシリーズ*
       -
         [Cosminexus](https://ja.wikipedia.org/wiki/Cosminexus "wikilink")：統合システム構築基盤
         [OpenTP1](../Page/OpenTP1.md "wikilink")：オンライントランザクション処理ソフトウェア
-        [HiRDB](https://ja.wikipedia.org/wiki/HiRDB "wikilink")：スケーラブルデータベース
+        [HiRDB](../Page/HiRDB.md "wikilink")：スケーラブルデータベース
         [COBOL2002](https://ja.wikipedia.org/wiki/COBOL2002 "wikilink")：ビジネスアプリケーション環境開発
         [Groupmax](https://ja.wikipedia.org/wiki/Groupmax "wikilink")：[グループウェア](../Page/グループウェア.md "wikilink")
         [EUR](https://ja.wikipedia.org/wiki/EndUserReporting "wikilink")：[帳票](https://ja.wikipedia.org/wiki/帳票 "wikilink")システム構築支援ソフトウェア
@@ -35,11 +35,11 @@
 
   - *競合製品*
       -
-        [Tivoli](https://ja.wikipedia.org/wiki/Tivoli "wikilink")：[IBM](../Page/IBM.md "wikilink")
-        [Systemwalker](https://ja.wikipedia.org/wiki/Systemwalker "wikilink")：[富士通](../Page/富士通.md "wikilink")
+        [Tivoli](../Page/Tivoli.md "wikilink")：[IBM](../Page/IBM.md "wikilink")
+        [Systemwalker](../Page/Systemwalker.md "wikilink")：[富士通](../Page/富士通.md "wikilink")
         [千手](https://ja.wikipedia.org/wiki/千手 "wikilink")：[野村総合研究所](../Page/野村総合研究所.md "wikilink")
         [OpenView](../Page/OpenView.md "wikilink")：[ヒューレット・パッカード](../Page/ヒューレット・パッカード.md "wikilink")(HP)
-        [Hinemos](https://ja.wikipedia.org/wiki/Hinemos "wikilink")：[NTTデータ](https://ja.wikipedia.org/wiki/NTTデータ "wikilink")
+        [Hinemos](https://ja.wikipedia.org/wiki/Hinemos "wikilink")：[NTTデータ](../Page/NTTデータ.md "wikilink")
 
 ## 脚注
 

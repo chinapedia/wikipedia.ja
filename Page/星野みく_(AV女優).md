@@ -1,13 +1,13 @@
 > この記事は[ \(AV\)](https://ja.wikipedia.org/wiki/_\(AV\))から翻訳されています。
 
 
-**星野 みく**（ほしの みく、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[8月15日](../Page/8月15日.md "wikilink") - ）は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身の[AV女優](../Page/AV女優.md "wikilink")。
+**星野 みく**（ほしの みく、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[8月15日](../Page/8月15日.md "wikilink") - ）は、[東京都](../Page/東京都.md "wikilink")出身の[AV女優](../Page/AV女優.md "wikilink")。
 
 趣味・特技は[ショッピング](../Page/買物.md "wikilink")。
 
 ## 略歴
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に『新人ギリギリモザイク』でAVデビュー。
+  - [2006年](../Page/2006年.md "wikilink")に『新人ギリギリモザイク』でAVデビュー。
   - 2007年10月26日に発売したSunny Smile サニー・スマイル 星野みくを最後に単体ものがでいないため、引退したと思われる。
 
 ## 作品
@@ -18,16 +18,16 @@
 
 <!-- end list -->
 
-  - 新人×ギリギリモザイク 新人ギリギリモザイク（4月19日 DVD、[エスワン](https://ja.wikipedia.org/wiki/エスワン "wikilink")）デビュー作
+  - 新人×ギリギリモザイク 新人ギリギリモザイク（4月19日 DVD、[エスワン](../Page/エスワン.md "wikilink")）デビュー作
   - ギリギリモザイク 学校でセックスしよっ♥（5月19日 DVD、エスワン）
   - ギリギリモザイク じっくり濃厚セックス（6月19日 DVD、エスワン）
   - ギリギリモザイク 6つのコスチュームでパコパコ\!（7月19日 DVD、エスワン）
   - ギリギリモザイク みくとの共同生活は24時間セックスざんまい\!（8月19日 DVD、エスワン）
   - ギリギリモザイク 無限バコバコ 12（9月19日 DVD、エスワン）
   - S1ガールズコレクション S1女学院♥み～んなでパコパコ学園祭\! 2（10月7日 DVD、エスワン）他多数出演
-  - ギリギリモザイク 街で噂のエッチな姉妹 2（10月19日 DVD、エスワン）共演 [杏珠](https://ja.wikipedia.org/wiki/杏珠 "wikilink")
+  - ギリギリモザイク 街で噂のエッチな姉妹 2（10月19日 DVD、エスワン）共演 [杏珠](../Page/杏珠.md "wikilink")
   - ギリギリモザイク Wメイド～ご主人様抜いて差し上げます♥（11月7日 DVD、エスワン）共演 吉乃ひとみ
-  - FRAGRANCE 19 代々木 MIKU 19歳 星野みく（12月25日 DVD、[YeLLOW](https://ja.wikipedia.org/wiki/CA_\(アダルトビデオ\) "wikilink")）
+  - FRAGRANCE 19 代々木 MIKU 19歳 星野みく（12月25日 DVD、[YeLLOW](../Page/CA_\(アダルトビデオ\).md "wikilink")）
 
 <!-- end list -->
 

@@ -1,9 +1,9 @@
 > この記事は[UFC 59](https://ja.wikipedia.org/wiki/UFC_59)から翻訳されています。
 
 
-**UFC 59: Reality Check**（ユーエフシー・フィフティナイン：リアリティ・チェック）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月15日](../Page/4月15日.md "wikilink")、[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[アナハイム](https://ja.wikipedia.org/wiki/アナハイム "wikilink")の[アローヘッド・ポンド・オブ・アナハイムで開催された](../Page/ホンダセンター.md "wikilink")。
+**UFC 59: Reality Check**（ユーエフシー・フィフティナイン：リアリティ・チェック）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2006年](../Page/2006年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink")、[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[アナハイム](../Page/アナハイム.md "wikilink")の[アローヘッド・ポンド・オブ・アナハイムで開催された](../Page/ホンダセンター.md "wikilink")。
 
-大会メインイベントでは、[アンドレイ・アルロフスキー](https://ja.wikipedia.org/wiki/アンドレイ・アルロフスキー "wikilink")と[ティム・シルビア](../Page/ティム・シルビア.md "wikilink")によるUFC世界ヘビー級タイトルマッチが行われた。
+大会メインイベントでは、[アンドレイ・アルロフスキー](../Page/アンドレイ・アルロフスキー.md "wikilink")と[ティム・シルビア](../Page/ティム・シルビア.md "wikilink")によるUFC世界ヘビー級タイトルマッチが行われた。
 
 ## 大会概要
 
@@ -11,7 +11,7 @@
 
 出場が予定されていた[ジェレミー・ホーン](../Page/ジェレミー・ホーン.md "wikilink")の欠場により、第6試合には替わって[ジャスティン・レヴェンス](https://ja.wikipedia.org/wiki/ジャスティン・レヴェンス "wikilink")が出場した。
 
-[WEC世界ライトヘビー級王者](https://ja.wikipedia.org/wiki/World_Extreme_Cagefighting "wikilink")[スコット・スミスがUFCデビュー](https://ja.wikipedia.org/wiki/スコット・スミス_\(格闘家\) "wikilink")。
+[WEC世界ライトヘビー級王者](../Page/World_Extreme_Cagefighting.md "wikilink")[スコット・スミスがUFCデビュー](https://ja.wikipedia.org/wiki/スコット・スミス_\(格闘家\) "wikilink")。
 
 プレリミナリィカードのうち、第4試合のみPPVで放送された。
 
@@ -21,16 +21,16 @@
 
   - 第1試合 ウェルター級 5分3R
     ○  [チアゴ・アウベス](https://ja.wikipedia.org/wiki/チアゴ・アウベス "wikilink") vs.  デリック・ノーブル ×
-    1R 2:54 TKO（レフェリーストップ：[パウンド](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    1R 2:54 TKO（レフェリーストップ：[パウンド](../Page/グラウンドパンチ.md "wikilink")）
   - 第2試合 ライトヘビー級 5分3R
-    ○  [ジェイソン・ランバート](https://ja.wikipedia.org/wiki/ジェイソン・ランバート "wikilink") vs.  [テリー・マーティン](https://ja.wikipedia.org/wiki/テリー・マーティン "wikilink") ×
-    2R 2:37 TKO（レフェリーストップ：[パウンド](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    ○  [ジェイソン・ランバート](../Page/ジェイソン・ランバート.md "wikilink") vs.  [テリー・マーティン](../Page/テリー・マーティン.md "wikilink") ×
+    2R 2:37 TKO（レフェリーストップ：[パウンド](../Page/グラウンドパンチ.md "wikilink")）
   - 第3試合 ミドル級 5分3R
-    ○  [デビッド・テレル](https://ja.wikipedia.org/wiki/デビッド・テレル "wikilink") vs.  [スコット・スミス](https://ja.wikipedia.org/wiki/スコット・スミス_\(格闘家\) "wikilink") ×
-    1R 3:08 [チョークスリーパー](https://ja.wikipedia.org/wiki/裸絞 "wikilink")
+    ○  [デビッド・テレル](../Page/デビッド・テレル.md "wikilink") vs.  [スコット・スミス](https://ja.wikipedia.org/wiki/スコット・スミス_\(格闘家\) "wikilink") ×
+    1R 3:08 [チョークスリーパー](../Page/裸絞.md "wikilink")
   - 第4試合 ウェルター級 5分3R
-    ○  [カロ・パリジャン](../Page/カロ・パリジャン.md "wikilink") vs.  [ニック・トンプソン](https://ja.wikipedia.org/wiki/ニック・トンプソン "wikilink") ×
-    1R 4:44 ギブアップ（[パウンド](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    ○  [カロ・パリジャン](../Page/カロ・パリジャン.md "wikilink") vs.  [ニック・トンプソン](../Page/ニック・トンプソン.md "wikilink") ×
+    1R 4:44 ギブアップ（[パウンド](../Page/グラウンドパンチ.md "wikilink")）
 
 ### メインカード
 
@@ -39,16 +39,16 @@
     3R終了 判定2-1（30-27、28-29、29-28）
   - 第6試合 ミドル級 5分3R
     ○  [エヴァン・タナー](../Page/エヴァン・タナー.md "wikilink") vs.  [ジャスティン・レヴェンス](https://ja.wikipedia.org/wiki/ジャスティン・レヴェンス "wikilink") ×
-    1R 3:14 [三角絞め](https://ja.wikipedia.org/wiki/三角絞め "wikilink")
+    1R 3:14 [三角絞め](../Page/三角絞め.md "wikilink")
   - 第7試合 ライトヘビー級 5分3R
-    ○  [ティト・オーティズ](https://ja.wikipedia.org/wiki/ティト・オーティズ "wikilink") vs.  [フォレスト・グリフィン](../Page/フォレスト・グリフィン.md "wikilink") ×
+    ○  [ティト・オーティズ](../Page/ティト・オーティズ.md "wikilink") vs.  [フォレスト・グリフィン](../Page/フォレスト・グリフィン.md "wikilink") ×
     3R終了 判定2-1（30-27、28-29、29-27）
   - 第8試合 ウェルター級 5分3R
     ○  [ショーン・シャーク](../Page/ショーン・シャーク.md "wikilink") vs.  [ニック・ディアス](../Page/ニック・ディアス.md "wikilink") ×
     3R終了 判定3-0（30-27、30-27、30-27）
   - 第9試合 UFC世界ヘビー級タイトルマッチ 5分5R
-    ○  [ティム・シルビア](../Page/ティム・シルビア.md "wikilink") vs.  [アンドレイ・アルロフスキー](https://ja.wikipedia.org/wiki/アンドレイ・アルロフスキー "wikilink") ×
-    1R 2:43 TKO（レフェリーストップ：右アッパー→[パウンド](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    ○  [ティム・シルビア](../Page/ティム・シルビア.md "wikilink") vs.  [アンドレイ・アルロフスキー](../Page/アンドレイ・アルロフスキー.md "wikilink") ×
+    1R 2:43 TKO（レフェリーストップ：右アッパー→[パウンド](../Page/グラウンドパンチ.md "wikilink")）
     ※シルビアが王座獲得に成功。
 
 ### 賞
@@ -61,7 +61,7 @@
 ## 関連項目
 
   - [UFCの大会一覧](../Page/UFCの大会一覧.md "wikilink")
-  - [UFC王者一覧](https://ja.wikipedia.org/wiki/UFC王者一覧 "wikilink")
+  - [UFC王者一覧](../Page/UFC王者一覧.md "wikilink")
 
 ## 外部リンク
 

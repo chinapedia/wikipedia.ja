@@ -40,7 +40,7 @@ DAISHI・HIROKI・DAISUKEはタトゥーを彫っている。
 ## 関連項目
 
   - [Psycho le Cému](https://ja.wikipedia.org/wiki/Psycho_le_Cému "wikilink")
-  - [2007年の音楽](https://ja.wikipedia.org/wiki/2007年の音楽 "wikilink")
+  - [2007年の音楽](../Page/2007年の音楽.md "wikilink")
 
 ## 外部リンク
 

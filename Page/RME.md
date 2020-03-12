@@ -1,11 +1,11 @@
 > この記事は[RME](https://ja.wikipedia.org/wiki/RME)から翻訳されています。
 
 
-**RME株式会社**は、[声優](../Page/声優.md "wikilink")のマネージメント主体の[芸能事務所](../Page/芸能事務所.md "wikilink")。代表取締役会長は[青二プロダクション](https://ja.wikipedia.org/wiki/青二プロダクション "wikilink")所属声優の**[柴田秀勝](https://ja.wikipedia.org/wiki/柴田秀勝 "wikilink")**。代表取締役社長は柴田勝俊。
+**RME株式会社**は、[声優](../Page/声優.md "wikilink")のマネージメント主体の[芸能事務所](../Page/芸能事務所.md "wikilink")。代表取締役会長は[青二プロダクション](../Page/青二プロダクション.md "wikilink")所属声優の**[柴田秀勝](../Page/柴田秀勝.md "wikilink")**。代表取締役社長は柴田勝俊。
 
 ## 概要
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月1日](../Page/12月1日.md "wikilink")に設立登記。
+[2006年](../Page/2006年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")に設立登記。
 
 名前の由来は ***R**esolution called a **M**aterial **E**volution* (「**素材からの脱却**」の意)の各頭文字をとっている。
 
@@ -43,7 +43,7 @@
 
   - [加藤祐希](https://ja.wikipedia.org/wiki/加藤祐希 "wikilink")
   - [亀山敦弘](https://ja.wikipedia.org/wiki/亀山敦弘 "wikilink")
-  - [菊タロー](https://ja.wikipedia.org/wiki/菊タロー "wikilink")
+  - [菊タロー](../Page/菊タロー.md "wikilink")
   - [木村剛士](https://ja.wikipedia.org/wiki/木村剛士 "wikilink")
   - [霧乃誠](https://ja.wikipedia.org/wiki/霧乃誠 "wikilink")
   - [kum+](https://ja.wikipedia.org/wiki/kum+ "wikilink")
@@ -70,7 +70,7 @@
 <!-- end list -->
 
   - [高野智哉](https://ja.wikipedia.org/wiki/高野智哉 "wikilink")
-  - [瀧川鯉朝](https://ja.wikipedia.org/wiki/瀧川鯉朝 "wikilink")
+  - [瀧川鯉朝](../Page/瀧川鯉朝.md "wikilink")
   - [富澤雄基](https://ja.wikipedia.org/wiki/富澤雄基 "wikilink")
 
 <!-- end list -->
@@ -214,7 +214,7 @@
 
   - [谷野悠里子](https://ja.wikipedia.org/wiki/谷野悠里子 "wikilink")
   - [山崎沙織](https://ja.wikipedia.org/wiki/山崎沙織 "wikilink")
-  - [山田きのこ](https://ja.wikipedia.org/wiki/山田きのこ "wikilink")
+  - [山田きのこ](../Page/山田きのこ.md "wikilink")
   - [山根希美](https://ja.wikipedia.org/wiki/山根希美 "wikilink")
   - [横田彩](https://ja.wikipedia.org/wiki/横田彩 "wikilink")
   - [吉岡香織](https://ja.wikipedia.org/wiki/吉岡香織 "wikilink")
@@ -227,50 +227,50 @@
 ### 男性
 
   - [安芸此葉](https://ja.wikipedia.org/wiki/安芸此葉 "wikilink")（現所属：[StudioShamanika](https://ja.wikipedia.org/wiki/StudioShamanika "wikilink")）
-  - [荒川太朗](https://ja.wikipedia.org/wiki/荒川太朗 "wikilink")（フリー転向後死去）
-  - [内野一](https://ja.wikipedia.org/wiki/内野一 "wikilink")
+  - [荒川太朗](../Page/荒川太朗.md "wikilink")（フリー転向後死去）
+  - [内野一](../Page/内野一.md "wikilink")
   - [大塚智則](https://ja.wikipedia.org/wiki/大塚智則 "wikilink")（現所属：[リンク・エンタテインメンツ](https://ja.wikipedia.org/wiki/リンク・エンタテインメンツ "wikilink")）
-  - [岡哲也](https://ja.wikipedia.org/wiki/岡哲也 "wikilink")（現所属：[プロダクション・エース](https://ja.wikipedia.org/wiki/プロダクション・エース "wikilink")）
-  - [菊池康弘](https://ja.wikipedia.org/wiki/菊池康弘 "wikilink")（現所属：[アトミックモンキー](https://ja.wikipedia.org/wiki/アトミックモンキー "wikilink")）
+  - [岡哲也](https://ja.wikipedia.org/wiki/岡哲也 "wikilink")（現所属：[プロダクション・エース](../Page/プロダクション・エース.md "wikilink")）
+  - [菊池康弘](https://ja.wikipedia.org/wiki/菊池康弘 "wikilink")（現所属：[アトミックモンキー](../Page/アトミックモンキー.md "wikilink")）
   - [木村竜二](https://ja.wikipedia.org/wiki/木村裕二 "wikilink")（フリー）
-  - [興津和幸](https://ja.wikipedia.org/wiki/興津和幸 "wikilink")（現所属：[ケッケコーポレーション](https://ja.wikipedia.org/wiki/ケッケコーポレーション "wikilink")）
+  - [興津和幸](../Page/興津和幸.md "wikilink")（現所属：[ケッケコーポレーション](../Page/ケッケコーポレーション.md "wikilink")）
   - [勝沼紀義](https://ja.wikipedia.org/wiki/勝沼紀義 "wikilink")（フリー）
   - [桂一雅](https://ja.wikipedia.org/wiki/桂一雅 "wikilink")（現所属：プロダクション・エース）
   - [神谷和夫](https://ja.wikipedia.org/wiki/神谷和夫 "wikilink")
   - [佐藤友啓](https://ja.wikipedia.org/wiki/佐藤友啓 "wikilink")（現所属：[ディーカラー](https://ja.wikipedia.org/wiki/ディーカラー "wikilink")）
-  - [瀬水暁](https://ja.wikipedia.org/wiki/瀬水暁 "wikilink")（フリー）
-  - [高橋伸也](https://ja.wikipedia.org/wiki/高橋伸也_\(声優\) "wikilink")（現所属：[プロ・フィット](https://ja.wikipedia.org/wiki/プロ・フィット "wikilink")）
+  - [瀬水暁](../Page/瀬水暁.md "wikilink")（フリー）
+  - [高橋伸也](https://ja.wikipedia.org/wiki/高橋伸也_\(声優\) "wikilink")（現所属：[プロ・フィット](../Page/プロ・フィット.md "wikilink")）
   - [立花有悟](https://ja.wikipedia.org/wiki/立花有悟 "wikilink")（現所属：Beginning）
   - [中嶋将平](https://ja.wikipedia.org/wiki/中嶋将平 "wikilink")（現所属：[スターダス・21](https://ja.wikipedia.org/wiki/スターダス・21 "wikilink")）
-  - [花輪英司](https://ja.wikipedia.org/wiki/花輪英司 "wikilink")（現所属：[ケンユウオフィス](https://ja.wikipedia.org/wiki/ケンユウオフィス "wikilink")）
-  - [ボンバー森尾](https://ja.wikipedia.org/wiki/ボンバー森尾 "wikilink")（現所属：ディクトリー代表）
-  - [御園行洋](https://ja.wikipedia.org/wiki/御園行洋 "wikilink")
+  - [花輪英司](../Page/花輪英司.md "wikilink")（現所属：[ケンユウオフィス](../Page/ケンユウオフィス.md "wikilink")）
+  - [ボンバー森尾](../Page/ボンバー森尾.md "wikilink")（現所属：ディクトリー代表）
+  - [御園行洋](../Page/御園行洋.md "wikilink")
 
 ### 女性
 
   - [Ashir](https://ja.wikipedia.org/wiki/Ashir "wikilink")（フリー）
   - [池田亜希子](https://ja.wikipedia.org/wiki/池田亜希子 "wikilink")
   - [梶田夕貴](../Page/梶田夕貴.md "wikilink")（フリー）
-  - [加藤沙織](https://ja.wikipedia.org/wiki/加藤沙織 "wikilink")（現所属：[アクセント](https://ja.wikipedia.org/wiki/アクセント_\(芸能プロダクション\) "wikilink")）
+  - [加藤沙織](https://ja.wikipedia.org/wiki/加藤沙織 "wikilink")（現所属：[アクセント](../Page/アクセント_\(芸能プロダクション\).md "wikilink")）
   - [加藤雅美](https://ja.wikipedia.org/wiki/加藤雅美_\(声優\) "wikilink")
   - [河野ひろみ](https://ja.wikipedia.org/wiki/河野ひろみ "wikilink")（フリー）
   - [こころぎほのか](https://ja.wikipedia.org/wiki/こころぎほのか "wikilink")（フリー）
   - [小林美奈](https://ja.wikipedia.org/wiki/小林美奈 "wikilink")（現所属：ケッケコーポレーション）
   - [紗川じゅん](../Page/紗川じゅん.md "wikilink")
-  - [佐藤麻子](../Page/佐藤麻子.md "wikilink")（現所属：[81プロデュース](https://ja.wikipedia.org/wiki/81プロデュース "wikilink")）
+  - [佐藤麻子](../Page/佐藤麻子.md "wikilink")（現所属：[81プロデュース](../Page/81プロデュース.md "wikilink")）
   - [篠原なるみ](https://ja.wikipedia.org/wiki/篠原なるみ "wikilink")（フリー）
-  - [鈴木弘子](https://ja.wikipedia.org/wiki/鈴木弘子 "wikilink")（現所属：[賢プロダクション](https://ja.wikipedia.org/wiki/賢プロダクション "wikilink")）
-  - [田中茉理花](https://ja.wikipedia.org/wiki/田中茉理花 "wikilink")（旧名：田中まりか、フリー）
+  - [鈴木弘子](../Page/鈴木弘子.md "wikilink")（現所属：[賢プロダクション](../Page/賢プロダクション.md "wikilink")）
+  - [田中茉理花](../Page/田中茉理花.md "wikilink")（旧名：田中まりか、フリー）
   - [中村サチコ](https://ja.wikipedia.org/wiki/中村サチコ "wikilink")
   - [永田佳代](../Page/永田佳代.md "wikilink")（フリー）
-  - [羽吹梨里](https://ja.wikipedia.org/wiki/羽吹梨里 "wikilink")
+  - [羽吹梨里](../Page/羽吹梨里.md "wikilink")
   - [ひなたたまり](https://ja.wikipedia.org/wiki/ひなたたまり "wikilink")（フリー）
   - [飛野かなこ](https://ja.wikipedia.org/wiki/飛野かなこ "wikilink")
-  - [藤原あかり](https://ja.wikipedia.org/wiki/藤原あかり "wikilink")
+  - [藤原あかり](../Page/藤原あかり.md "wikilink")
   - [堀江真理子](https://ja.wikipedia.org/wiki/堀江真理子 "wikilink")（現所属：ケンユウオフィス）
   - [マイア](https://ja.wikipedia.org/wiki/マイア_\(声優\) "wikilink")
   - [舞原ゆめ](https://ja.wikipedia.org/wiki/舞原ゆめ "wikilink")（現所属：[クロコダイル](https://ja.wikipedia.org/wiki/クロコダイル_\(声優事務所\) "wikilink")）
-  - [真木碧](https://ja.wikipedia.org/wiki/真木碧 "wikilink")（フリー、[クロコデイル](https://ja.wikipedia.org/wiki/クロコデイル "wikilink")（業務提携））
+  - [真木碧](../Page/真木碧.md "wikilink")（フリー、[クロコデイル](https://ja.wikipedia.org/wiki/クロコデイル "wikilink")（業務提携））
   - [山田智子](https://ja.wikipedia.org/wiki/山田智子 "wikilink")（現所属：ケンユウオフィス）
   - [吉田愛理](../Page/吉田愛理.md "wikilink")
   - [若宮春奈](https://ja.wikipedia.org/wiki/若宮春奈 "wikilink")（現所属：[アールグルッペ](https://ja.wikipedia.org/wiki/アールグルッペ "wikilink")）

@@ -1,7 +1,7 @@
 > この記事は[Flower \(\)](https://ja.wikipedia.org/wiki/Flower_\(\))から翻訳されています。
 
 
-『**flower**』（フラワー）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[8月10日](../Page/8月10日.md "wikilink")に発売された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")の17枚目のシングルである。
+『**flower**』（フラワー）は、[2005年](../Page/2005年.md "wikilink")[8月10日](../Page/8月10日.md "wikilink")に発売された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")の17枚目のシングルである。
 
 ## 概要
 
@@ -31,6 +31,6 @@
 
 <!-- end list -->
 
-  - 『[BEST 〜first things〜](https://ja.wikipedia.org/wiki/BEST_〜first_things〜 "wikilink")』
+  - 『[BEST 〜first things〜](../Page/BEST_〜first_things〜.md "wikilink")』
 
 [Category:倖田來未の楽曲](https://ja.wikipedia.org/wiki/Category:倖田來未の楽曲 "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:大谷靖夫が制作した楽曲](https://ja.wikipedia.org/wiki/Category:大谷靖夫が制作した楽曲 "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")

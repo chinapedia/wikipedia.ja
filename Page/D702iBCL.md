@@ -7,7 +7,7 @@
 
 D702iBCLは、[D702i](../Page/D702i.md "wikilink") をベースに[法人](../Page/法人.md "wikilink")向け端末製品として開発された。法人専用モデルのため、個人での購入はできない。型番にある *BCL* とは、*Business Camera Less* の略である。その名が示すとおり、D702iに装備されていた二個の[カメラが廃されている](../Page/デジタルカメラ.md "wikilink")。[盗撮](https://ja.wikipedia.org/wiki/盗撮 "wikilink")による機密情報の流出を防止するため[カメラ](../Page/カメラ.md "wikilink")および[カメラ付き携帯電話](../Page/カメラ付き携帯電話.md "wikilink")の持ち込みを禁止している[企業](../Page/企業.md "wikilink")や[工場](../Page/工場.md "wikilink")、[研究所](../Page/研究所.md "wikilink")においても、差し支えなく利用できるとしている。
 
-D702iのシンプルな機能、ストレート形の外観はそのままである。[テレビ電話](https://ja.wikipedia.org/wiki/テレビ電話 "wikilink")用のインカメラも備えていないため、テレビ電話の利用は[キャラ電](https://ja.wikipedia.org/wiki/キャラ電 "wikilink")に限られる。カラーバリエーションはBLACK（ブラック）の一種類のみ。
+D702iのシンプルな機能、ストレート形の外観はそのままである。[テレビ電話](../Page/テレビ電話.md "wikilink")用のインカメラも備えていないため、テレビ電話の利用は[キャラ電](https://ja.wikipedia.org/wiki/キャラ電 "wikilink")に限られる。カラーバリエーションはBLACK（ブラック）の一種類のみ。
 
 ## 仕様
 
@@ -31,9 +31,9 @@ D702iのシンプルな機能、ストレート形の外観はそのままであ
 
 ## 歴史
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink"): D702i 発売開始。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[5月19日](../Page/5月19日.md "wikilink"): D702iBCL、[電気通信端末機器審査協会](../Page/電気通信端末機器審査協会.md "wikilink") (JATE) による審査を通過（認定番号: *A06-0186001*）。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[6月26日](../Page/6月26日.md "wikilink"): D702iBCL、発売開始。
+  - [2006年](../Page/2006年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink"): D702i 発売開始。
+  - [2006年](../Page/2006年.md "wikilink")[5月19日](../Page/5月19日.md "wikilink"): D702iBCL、[電気通信端末機器審査協会](../Page/電気通信端末機器審査協会.md "wikilink") (JATE) による審査を通過（認定番号: *A06-0186001*）。
+  - [2006年](../Page/2006年.md "wikilink")[6月26日](../Page/6月26日.md "wikilink"): D702iBCL、発売開始。
 
 ## 関連項目
 

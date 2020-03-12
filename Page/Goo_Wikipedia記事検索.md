@@ -3,7 +3,7 @@
 
 **goo Wikipedia記事検索**（グー ウィキペディア きじけんさく）は、[NTTレゾナント](../Page/NTTレゾナント.md "wikilink")が運営しているポータルサイト「[goo](https://ja.wikipedia.org/wiki/goo "wikilink")」が開設している、[ウィキペディア日本語版](../Page/ウィキペディア日本語版.md "wikilink")の[全文検索](../Page/全文検索.md "wikilink")サービスである。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")4月より[goo辞書](https://ja.wikipedia.org/wiki/goo辞書 "wikilink")内の「フリー百科事典」として[三省堂](https://ja.wikipedia.org/wiki/三省堂 "wikilink")の辞書とともにミラーされていたが、6月に独立し、現在の名称となった。なお、[検索](../Page/検索.md "wikilink")したキーワードが「goo 辞書」にある場合は、そのページが検索結果の右側に表示される。
+[2006年](../Page/2006年.md "wikilink")4月より[goo辞書](https://ja.wikipedia.org/wiki/goo辞書 "wikilink")内の「フリー百科事典」として[三省堂](../Page/三省堂.md "wikilink")の辞書とともにミラーされていたが、6月に独立し、現在の名称となった。なお、[検索](../Page/検索.md "wikilink")したキーワードが「goo 辞書」にある場合は、そのページが検索結果の右側に表示される。
 
 goo Wikipedia記事検索では[言語間リンクがページの下部に表示されたり](https://ja.wikipedia.org/wiki/Help:言語間リンク "wikilink")、半角の[アットマーク](https://ja.wikipedia.org/wiki/アットマーク "wikilink")が全角に置換されている場合があるほか、リンク切れの内部リンクが赤色で表示されない。
 

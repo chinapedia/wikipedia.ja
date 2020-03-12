@@ -9,7 +9,7 @@
 
 レギュラーシーズンは毎週1試合以上（計36試合）生放送（原則としてJ sports 4にて日曜日放送）。プレーオフは週2試合（12試合以上）生放送。
 
-[NBAファイナル](https://ja.wikipedia.org/wiki/NBAファイナル "wikilink")は、2005/06シーズンまでは[NHK BS1で生中継されていたためJ](https://ja.wikipedia.org/wiki/NHK_BS1 "wikilink") SPORTSでの放送はなかったが、2006/07シーズンは全試合の生中継が決定した。
+[NBAファイナル](../Page/NBAファイナル.md "wikilink")は、2005/06シーズンまでは[NHK BS1で生中継されていたためJ](../Page/NHK_BS1.md "wikilink") SPORTSでの放送はなかったが、2006/07シーズンは全試合の生中継が決定した。
 
 また、過去の名勝負を放送する「NBA GRAETEST GAME」については、「J SPORTSクラシック NBA」として放送する場合がある。
 
@@ -17,7 +17,7 @@
 
 ### WNBA
 
-2006年10月、[WNBAファイナル](https://ja.wikipedia.org/wiki/WNBAファイナル "wikilink")を全戦放送した。
+2006年10月、[WNBAファイナル](../Page/WNBAファイナル.md "wikilink")を全戦放送した。
 
 ### NCAA男子バスケットボールトーナメント
 
@@ -29,7 +29,7 @@
 
 ### FIBA主催大会
 
-2007年から2011年まで[国際バスケットボール連盟](../Page/国際バスケットボール連盟.md "wikilink")(FIBA)主催大会の放映権を獲得。その間に開催される[ワールドカップ](https://ja.wikipedia.org/wiki/2010年バスケットボール世界選手権 "wikilink")・各大陸選手権（[アジア](https://ja.wikipedia.org/wiki/FIBA男子アジアカップ "wikilink")・[アメリカ](../Page/バスケットボールアメリカ選手権.md "wikilink")・[欧州](https://ja.wikipedia.org/wiki/バスケットボール欧州選手権 "wikilink")・[アフリカ](../Page/バスケットボールアフリカ選手権.md "wikilink")）・[北京オリンピック](../Page/2008年北京オリンピックのバスケットボール競技.md "wikilink")・[ロンドンオリンピック世界最終予選を中継した](https://ja.wikipedia.org/wiki/2012年ロンドンオリンピックのバスケットボール競技 "wikilink")。
+2007年から2011年まで[国際バスケットボール連盟](../Page/国際バスケットボール連盟.md "wikilink")(FIBA)主催大会の放映権を獲得。その間に開催される[ワールドカップ](../Page/2010年バスケットボール世界選手権.md "wikilink")・各大陸選手権（[アジア](../Page/FIBA男子アジアカップ.md "wikilink")・[アメリカ](../Page/バスケットボールアメリカ選手権.md "wikilink")・[欧州](../Page/バスケットボール欧州選手権.md "wikilink")・[アフリカ](../Page/バスケットボールアフリカ選手権.md "wikilink")）・[北京オリンピック](../Page/2008年北京オリンピックのバスケットボール競技.md "wikilink")・[ロンドンオリンピック世界最終予選を中継した](https://ja.wikipedia.org/wiki/2012年ロンドンオリンピックのバスケットボール競技 "wikilink")。
 
 ### B.LEAGUE
 
@@ -39,11 +39,11 @@
 
 ### 実況
 
-  - [清野茂樹](https://ja.wikipedia.org/wiki/清野茂樹 "wikilink")
-  - [久保田光彦](https://ja.wikipedia.org/wiki/久保田光彦 "wikilink")
-  - [島村俊治](https://ja.wikipedia.org/wiki/島村俊治 "wikilink")
-  - [節丸裕一](https://ja.wikipedia.org/wiki/節丸裕一 "wikilink")
-  - [山下末則](https://ja.wikipedia.org/wiki/山下末則 "wikilink")
+  - [清野茂樹](../Page/清野茂樹.md "wikilink")
+  - [久保田光彦](../Page/久保田光彦.md "wikilink")
+  - [島村俊治](../Page/島村俊治.md "wikilink")
+  - [節丸裕一](../Page/節丸裕一.md "wikilink")
+  - [山下末則](../Page/山下末則.md "wikilink")
   - [渡邊哲夫](../Page/渡邊哲夫.md "wikilink")
   - [加藤暁](../Page/加藤暁.md "wikilink")
 
@@ -51,17 +51,17 @@
 
   - [大前一樹](../Page/大前一樹.md "wikilink")
   - [谷口広明](https://ja.wikipedia.org/wiki/谷口広明 "wikilink")
-  - [吉田暁央](https://ja.wikipedia.org/wiki/吉田暁央 "wikilink")
-  - [下田恒幸](https://ja.wikipedia.org/wiki/下田恒幸 "wikilink")
+  - [吉田暁央](../Page/吉田暁央.md "wikilink")
+  - [下田恒幸](../Page/下田恒幸.md "wikilink")
 
 ### 解説
 
   - [北原憲彦](../Page/北原憲彦.md "wikilink")
-  - [島本和彦](https://ja.wikipedia.org/wiki/島本和彦_\(バスケットボール解説者\) "wikilink")
+  - [島本和彦](../Page/島本和彦_\(バスケットボール解説者\).md "wikilink")
   - [塚本清彦](../Page/塚本清彦.md "wikilink")
   - [中原雄](../Page/中原雄.md "wikilink")
-  - [萩原美樹子](https://ja.wikipedia.org/wiki/萩原美樹子 "wikilink")
-  - [原田裕花](https://ja.wikipedia.org/wiki/原田裕花 "wikilink")
+  - [萩原美樹子](../Page/萩原美樹子.md "wikilink")
+  - [原田裕花](../Page/原田裕花.md "wikilink")
   - [永田睦子](../Page/永田睦子.md "wikilink")
 
 ## 関連項目

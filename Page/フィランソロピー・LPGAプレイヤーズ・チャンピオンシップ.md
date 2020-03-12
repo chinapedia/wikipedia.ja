@@ -1,15 +1,15 @@
 > この記事は[LPGA](https://ja.wikipedia.org/wiki/LPGA)から翻訳されています。
 
 
-**フィランソロピー・LPGAプレイヤーズ・チャンピオンシップ**（Philanthropy LPGA Players Championship）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")まで開催されていた[日本女子プロゴルフ協会](../Page/日本女子プロゴルフ協会.md "wikilink")公認の女子プロ[ゴルフ](../Page/ゴルフ.md "wikilink")[トーナメントである](../Page/トーナメント方式.md "wikilink")。
+**フィランソロピー・LPGAプレイヤーズ・チャンピオンシップ**（Philanthropy LPGA Players Championship）は、[2006年](../Page/2006年.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")まで開催されていた[日本女子プロゴルフ協会](../Page/日本女子プロゴルフ協会.md "wikilink")公認の女子プロ[ゴルフ](../Page/ゴルフ.md "wikilink")[トーナメントである](../Page/トーナメント方式.md "wikilink")。
 
 ## 概要
 
-本大会はサブタイトルに「日本プロゴルフ殿堂設立支援大会」としており、将来的な日本版ゴルフ殿堂の設立を目指す他、メインスポンサー（主催者）である[特定非営利活動法人](../Page/特定非営利活動法人.md "wikilink")「[NPOスポーツフィランソロピー協会](https://ja.wikipedia.org/wiki/NPOスポーツフィランソロピー協会 "wikilink")」が、働く女性の支援・育児・健康などの支援をする[チャリティー](https://ja.wikipedia.org/wiki/チャリティー "wikilink")活動を行うことを目指していた。
+本大会はサブタイトルに「日本プロゴルフ殿堂設立支援大会」としており、将来的な日本版ゴルフ殿堂の設立を目指す他、メインスポンサー（主催者）である[特定非営利活動法人](../Page/特定非営利活動法人.md "wikilink")「[NPOスポーツフィランソロピー協会](https://ja.wikipedia.org/wiki/NPOスポーツフィランソロピー協会 "wikilink")」が、働く女性の支援・育児・健康などの支援をする[チャリティー](../Page/チャリティー.md "wikilink")活動を行うことを目指していた。
 
 大会は前年度の女子プロゴルフツアーの賞金上位選手などが出場するもので、メジャー大会と同じく4日間ストロークプレーで優勝を争っていた。
 
-大会の特別協賛社は[2007年](../Page/2007年.md "wikilink")の第2回大会は[クラシエホールディングス](../Page/クラシエホールディングス.md "wikilink")を始めとしたクラシエグループ（旧・カネボウ）が、2008年の第3回大会は[カゴメ](https://ja.wikipedia.org/wiki/カゴメ "wikilink")が務めていたが、[2009年](../Page/2009年.md "wikilink")大会の[スポンサー](https://ja.wikipedia.org/wiki/スポンサー "wikilink")探しが難航。結局、2008年[12月16日](../Page/12月16日.md "wikilink")に発表されたツアー日程から漏れ、わずか3回で幕を下ろすことになった。
+大会の特別協賛社は[2007年](../Page/2007年.md "wikilink")の第2回大会は[クラシエホールディングス](../Page/クラシエホールディングス.md "wikilink")を始めとしたクラシエグループ（旧・カネボウ）が、2008年の第3回大会は[カゴメ](../Page/カゴメ.md "wikilink")が務めていたが、[2009年](../Page/2009年.md "wikilink")大会の[スポンサー](../Page/スポンサー.md "wikilink")探しが難航。結局、2008年[12月16日](../Page/12月16日.md "wikilink")に発表されたツアー日程から漏れ、わずか3回で幕を下ろすことになった。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")実績、賞金総額1億3000万円、優勝賞金2340万円。賞金の1割は前述のチャリティー活動に寄付されていた。
 
@@ -28,16 +28,16 @@
 <tbody>
 <tr class="odd">
 <td><p>第1回</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/7月20日.md" title="wikilink">7月20日</a>〜<a href="https://ja.wikipedia.org/wiki/7月23日" title="wikilink">23日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/7月20日.md" title="wikilink">7月20日</a>〜<a href="../Page/7月23日.md" title="wikilink">23日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/全美貞" title="wikilink">全美貞</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/茨城県" title="wikilink">茨城県</a></p></td>
+<td><p><a href="../Page/茨城県.md" title="wikilink">茨城県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/潮来カントリー倶楽部" title="wikilink">潮来カントリー倶楽部</a></p></td>
 </tr>
 <tr class="even">
 <td><p>第2回</p></td>
 <td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/7月19日.md" title="wikilink">7月19日</a>〜<a href="../Page/7月22日.md" title="wikilink">22日</a></p></td>
 <td><p><a href="../Page/張娜.md" title="wikilink">張娜</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/千葉県" title="wikilink">千葉県</a></p></td>
+<td><p><a href="../Page/千葉県.md" title="wikilink">千葉県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/習志野カントリークラブ_キング・クイーンコース" title="wikilink">習志野カントリークラブ キング・クイーンコース</a></p></td>
 </tr>
 <tr class="odd">

@@ -1,9 +1,9 @@
 > この記事は[VOFAN](https://ja.wikipedia.org/wiki/VOFAN)から翻訳されています。
 
 
-**VOFAN**（ヴォーハン）は、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")の[イラストレーター](../Page/イラストレーター.md "wikilink")、[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")。男性。[台南市](../Page/台南市.md "wikilink")生まれ。私立[中原大学](https://ja.wikipedia.org/wiki/中原大学 "wikilink")建築学科卒。[国立台北芸術大学](https://ja.wikipedia.org/wiki/国立台北芸術大学 "wikilink")大学院科技芸術科修士課程修了。本名は**戴源亨**。 ペンネームの由来が[バーチャロン](https://ja.wikipedia.org/wiki/バーチャロン "wikilink")ファンを略したものであるため、台湾での一般的な読まれ方はブイオーファンである。
+**VOFAN**（ヴォーハン）は、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")の[イラストレーター](../Page/イラストレーター.md "wikilink")、[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")。男性。[台南市](../Page/台南市.md "wikilink")生まれ。私立[中原大学](../Page/中原大学.md "wikilink")建築学科卒。[国立台北芸術大学](../Page/国立台北芸術大学.md "wikilink")大学院科技芸術科修士課程修了。本名は**戴源亨**。 ペンネームの由来が[バーチャロン](https://ja.wikipedia.org/wiki/バーチャロン "wikilink")ファンを略したものであるため、台湾での一般的な読まれ方はブイオーファンである。
 
-[イラスト風のカラー掌編](../Page/イラストレーション.md "wikilink")[CG漫画を中心に作品を発表し続け](../Page/コンピュータグラフィックス.md "wikilink")、鮮やかな色を操りながら、爽やかな作風を持ち、色彩の明暗を使って独特な光と[空気感](https://ja.wikipedia.org/wiki/空気感 "wikilink")を描き出す。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、「台湾からの光の魔術師」として[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")に紹介された。
+[イラスト風のカラー掌編](../Page/イラストレーション.md "wikilink")[CG漫画を中心に作品を発表し続け](../Page/コンピュータグラフィックス.md "wikilink")、鮮やかな色を操りながら、爽やかな作風を持ち、色彩の明暗を使って独特な光と[空気感](https://ja.wikipedia.org/wiki/空気感 "wikilink")を描き出す。[2005年](../Page/2005年.md "wikilink")、「台湾からの光の魔術師」として[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")に紹介された。
 
 単行本は台湾では5冊刊行されているが、日本ではそのうち1冊が同時刊行となっている。
 
@@ -11,7 +11,7 @@
 
   - [2002年](../Page/2002年.md "wikilink") - 6月から月刊誌『Frontier開拓動漫畫情報誌』でコラム「Oh\!My Cosplay」の挿絵カットを担当。
   - [2004年](../Page/2004年.md "wikilink") - 2月から『週刊FAMITSU電玩通』（中国語版[ファミ通](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")）で表紙絵を担当。7月から台湾の雑誌『[月刊挑戦者](https://ja.wikipedia.org/wiki/月刊挑戦者 "wikilink")』で、詩と漫画を融合させた『[Colorful Dreams](https://ja.wikipedia.org/wiki/Colorful_Dreams "wikilink")』の連載を開始。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") - 11月・12月、[講談社](../Page/講談社.md "wikilink")の文芸誌『[ファウスト](../Page/ファウスト_\(文芸誌\).md "wikilink")』で「日光舞踏会」、「陰影舞踏曲」を発表し日本デビュー。
+  - [2005年](../Page/2005年.md "wikilink") - 11月・12月、[講談社](../Page/講談社.md "wikilink")の文芸誌『[ファウスト](../Page/ファウスト_\(文芸誌\).md "wikilink")』で「日光舞踏会」、「陰影舞踏曲」を発表し日本デビュー。
 
 ## 作品一覧
 
@@ -31,9 +31,9 @@
 
 <!-- end list -->
 
-  - 日光舞踏会（[ファウスト](../Page/ファウスト_\(文芸誌\).md "wikilink") [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")冬季号Vol.6 SIDE-A、[講談社](../Page/講談社.md "wikilink")、2005年11月）
+  - 日光舞踏会（[ファウスト](../Page/ファウスト_\(文芸誌\).md "wikilink") [2005年](../Page/2005年.md "wikilink")冬季号Vol.6 SIDE-A、[講談社](../Page/講談社.md "wikilink")、2005年11月）
   - 陰影舞踏曲（ファウスト Vol.6 SIDE-B、講談社、2005年12月）
-  - 極上のペンギンミサイル\! -上好的企鵝飛彈\!（[コミックファウスト](https://ja.wikipedia.org/wiki/コミックファウスト "wikilink")、講談社、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")6月）
+  - 極上のペンギンミサイル\! -上好的企鵝飛彈\!（[コミックファウスト](../Page/コミックファウスト.md "wikilink")、講談社、[2006年](../Page/2006年.md "wikilink")6月）
   - 1/60.∞ 六十分の一秒、無限遠（ファウスト Vol.7、講談社、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")8月）
   - 距離96公分的世界（[季刊GELATIN](https://ja.wikipedia.org/wiki/季刊GELATIN "wikilink") 2009あき、[ワニマガジン社](../Page/ワニマガジン社.md "wikilink")、[2009年](../Page/2009年.md "wikilink")9月）
   - 祈晴師（季刊GELATIN2010ふゆ、ワニマガジン社、2009年12月）
@@ -62,8 +62,8 @@
 
 <!-- end list -->
 
-  - SS／書き下ろしイラスト（SS 2005年12月号 [飛鳥新社](https://ja.wikipedia.org/wiki/飛鳥新社 "wikilink")）
-  - [〈物語〉シリーズ](https://ja.wikipedia.org/wiki/〈物語〉シリーズ "wikilink")（[西尾維新](../Page/西尾維新.md "wikilink")）／表紙・巻中イラスト・TVアニメエンドカード（[講談社](../Page/講談社.md "wikilink")）
+  - SS／書き下ろしイラスト（SS 2005年12月号 [飛鳥新社](../Page/飛鳥新社.md "wikilink")）
+  - [〈物語〉シリーズ](../Page/〈物語〉シリーズ.md "wikilink")（[西尾維新](../Page/西尾維新.md "wikilink")）／表紙・巻中イラスト・TVアニメエンドカード（[講談社](../Page/講談社.md "wikilink")）
       - [化物語](https://ja.wikipedia.org/wiki/化物語 "wikilink")（2006年11・12月） - 2009年7月、アニメ化された。
       - [傷物語](https://ja.wikipedia.org/wiki/傷物語 "wikilink")（2008年5月） - 2016年1月、2016年8月、2017年1月に全3部作として劇場用アニメ化された。
       - [偽物語](https://ja.wikipedia.org/wiki/偽物語 "wikilink")（2008年9月・2009年6月） - 2012年1月、アニメ化された。
@@ -98,7 +98,7 @@
 
 ### ゲームキャラクターデザイン
 
-  - [TRUE REMEMBRANCE](../Page/TRUE_REMEMBRANCE.md "wikilink") 〜記憶のかけら〜（[アークシステムワークス](https://ja.wikipedia.org/wiki/アークシステムワークス "wikilink")）※Win版同作品のリメイク
+  - [TRUE REMEMBRANCE](../Page/TRUE_REMEMBRANCE.md "wikilink") 〜記憶のかけら〜（[アークシステムワークス](../Page/アークシステムワークス.md "wikilink")）※Win版同作品のリメイク
   - [拡散性ミリオンアーサー](https://ja.wikipedia.org/wiki/拡散性ミリオンアーサー "wikilink")（[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")）※キャラクターイラストの一部
   - [時と永遠 〜トキトワ〜](https://ja.wikipedia.org/wiki/時と永遠_〜トキトワ〜 "wikilink")（[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")）※キャラクターデザイン原案
   - [ラストクロニクル](https://ja.wikipedia.org/wiki/ラストクロニクル "wikilink")（[ホビージャパン](../Page/ホビージャパン.md "wikilink")のＴＣＧ）※カードイラスト

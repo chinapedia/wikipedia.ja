@@ -13,11 +13,11 @@
 
 ### ノックダウン生産
 
-[イラン](../Page/イラン.md "wikilink")ではモディラン自動車製造（MVM / Modiran Vehicle Manufacturing）が[奇瑞汽車](../Page/奇瑞汽車.md "wikilink")と提携し、「MVM 110」という名称で「QQ」の[ノックダウン生産](https://ja.wikipedia.org/wiki/ノックダウン生産 "wikilink")をおこなっている。MVMは[2000年](../Page/2000年.md "wikilink")に[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")・大宇自動車と提携しマティスをノックダウン生産していたが、大宇が経営危機で[米国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")･[ゼネラルモーターズ](https://ja.wikipedia.org/wiki/ゼネラルモーターズ "wikilink")子会社の[GM大宇](https://ja.wikipedia.org/wiki/GM大宇 "wikilink")になると提携を解消。背景にはイランの米国企業製品輸入制限法により部品の調達が難しくなった事があり、これはある商品が国情を背景にその[コピー商品](../Page/コピー商品.md "wikilink")だと訴えられた商品に取って代わられるという皮肉な話と言える。
+[イラン](../Page/イラン.md "wikilink")ではモディラン自動車製造（MVM / Modiran Vehicle Manufacturing）が[奇瑞汽車](../Page/奇瑞汽車.md "wikilink")と提携し、「MVM 110」という名称で「QQ」の[ノックダウン生産](../Page/ノックダウン生産.md "wikilink")をおこなっている。MVMは[2000年](../Page/2000年.md "wikilink")に[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")・大宇自動車と提携しマティスをノックダウン生産していたが、大宇が経営危機で[米国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")･[ゼネラルモーターズ](../Page/ゼネラルモーターズ.md "wikilink")子会社の[GM大宇](https://ja.wikipedia.org/wiki/GM大宇 "wikilink")になると提携を解消。背景にはイランの米国企業製品輸入制限法により部品の調達が難しくなった事があり、これはある商品が国情を背景にその[コピー商品](../Page/コピー商品.md "wikilink")だと訴えられた商品に取って代わられるという皮肉な話と言える。
 
 ### コピー問題
 
-[GMが中国で販売している競合車種](https://ja.wikipedia.org/wiki/ゼネラルモーターズ "wikilink")[シボレー・スパーク(大宇・マティス)に酷似しているとして同社から告訴されたことがある](../Page/GM大宇・マティス.md "wikilink")。
+[GMが中国で販売している競合車種](../Page/ゼネラルモーターズ.md "wikilink")[シボレー・スパーク(大宇・マティス)に酷似しているとして同社から告訴されたことがある](../Page/GM大宇・マティス.md "wikilink")。
 
 File: Chevrolet Spark 2005 & Chery iQ 2008 (11333085623).jpg|左側が大宇・マティスで右側がチェリー・QQである。
 

@@ -9,7 +9,7 @@
 
 KEKB、PEP-II合わせてこれまでに10億以上のB中間子・反B中間子対が生成されている。衝突部には、測定器（KEKBではベル測定器、PEP-IIではBaBar測定器）が置かれ、生成したB中間子と反B中間子が短時間のうちに崩壊する様子のわずかな差が観測されて、B中間子における[CP対称性の破れ](../Page/CP対称性の破れ.md "wikilink")の詳しい探求が行われている。
 
-これらの実験結果は、CP対称性についての[小林・益川理論](../Page/小林・益川理論.md "wikilink")の正しさを証明し、[小林誠と](https://ja.wikipedia.org/wiki/小林誠_\(物理学者\) "wikilink")[益川敏英](../Page/益川敏英.md "wikilink")は[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")の[ノーベル物理学賞](../Page/ノーベル物理学賞.md "wikilink")を授与された。
+これらの実験結果は、CP対称性についての[小林・益川理論](../Page/小林・益川理論.md "wikilink")の正しさを証明し、[小林誠と](../Page/小林誠_\(物理学者\).md "wikilink")[益川敏英](../Page/益川敏英.md "wikilink")は[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")の[ノーベル物理学賞](../Page/ノーベル物理学賞.md "wikilink")を授与された。
 
 ## 目的
 

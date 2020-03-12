@@ -5,14 +5,14 @@
 
 ## 概要
 
-[スバル・1000](https://ja.wikipedia.org/wiki/スバル・1000 "wikilink")（[1966年](../Page/1966年.md "wikilink")発売）のマイナーチェンジ版として[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")3月発売。[マイカー時代](https://ja.wikipedia.org/wiki/マイカー時代 "wikilink")の到来に伴い、[トヨタ・カローラ](../Page/トヨタ・カローラ.md "wikilink")1100（1966年11月発売）、[日産・サニー](../Page/日産・サニー.md "wikilink")1000（1966年4月発売）などが位置する、いわゆる小型車市場で、富士重工初の小型車であるスバル・1000は1969年3月には月販4,000台を上回り、一定のシェアを確保することに成功した。しかし、市場からのさらなる豪華さ、モアパワーの要求に応え、商品性の向上を図ったもの。翌[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")7月には、さらなるマイナーチェンジを受け、[スバル・ff-1 1300Gシリーズに移行したことを考えれば](https://ja.wikipedia.org/wiki/スバル・ff-1_1300G "wikilink")、結果的に多少中途半端なモデルであったことは否定できず、1年余りの短命なモデルに終わった。一方、アメリカ向け輸出車両としては、富士重工業としては初となる本格的な小型車で、1970年から[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")にかけて1万台余りが海を渡っている。
+[スバル・1000](../Page/スバル・1000.md "wikilink")（[1966年](../Page/1966年.md "wikilink")発売）のマイナーチェンジ版として[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")3月発売。[マイカー時代](https://ja.wikipedia.org/wiki/マイカー時代 "wikilink")の到来に伴い、[トヨタ・カローラ](../Page/トヨタ・カローラ.md "wikilink")1100（1966年11月発売）、[日産・サニー](../Page/日産・サニー.md "wikilink")1000（1966年4月発売）などが位置する、いわゆる小型車市場で、富士重工初の小型車であるスバル・1000は1969年3月には月販4,000台を上回り、一定のシェアを確保することに成功した。しかし、市場からのさらなる豪華さ、モアパワーの要求に応え、商品性の向上を図ったもの。翌[1970年](../Page/1970年.md "wikilink")7月には、さらなるマイナーチェンジを受け、[スバル・ff-1 1300Gシリーズに移行したことを考えれば](../Page/スバル・ff-1_1300G.md "wikilink")、結果的に多少中途半端なモデルであったことは否定できず、1年余りの短命なモデルに終わった。一方、アメリカ向け輸出車両としては、富士重工業としては初となる本格的な小型車で、1970年から[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")にかけて1万台余りが海を渡っている。
 
 ## 初代 A14/15型 （1969年-1970年）
 
   - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")3月1日 - スバル・ff-1シリーズ発売。
       - 6月 - ff-1スポーツセダン「箱根ターンパイク・ヒルクライム大会」クラス優勝・総合2位（小関典幸）
       - 10月6日 - ff-1スーパーツーリング発売。
-  - [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")2月 - ff-1スポーツセダン「70RCCウィンターラリー」クラス優勝・総合2位（江原/中原）
+  - [1970年](../Page/1970年.md "wikilink")2月 - ff-1スポーツセダン「70RCCウィンターラリー」クラス優勝・総合2位（江原/中原）
       - 7月10日 - ff-1 1300Gシリーズ発売。
 
 ## 主要諸元
@@ -39,7 +39,7 @@
 <td><p>3,900mm×1,480mm×1,390mm</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ホイールベース" title="wikilink">ホイールベース</a></p></td>
+<td><p><a href="../Page/ホイールベース.md" title="wikilink">ホイールベース</a></p></td>
 <td><p>2,420mm</p></td>
 <td></td>
 </tr>
@@ -80,7 +80,7 @@
 </tr>
 <tr class="odd">
 <td><p>エンジン形式</p></td>
-<td><p>EA61型<a href="https://ja.wikipedia.org/wiki/水冷エンジン" title="wikilink">水冷</a><a href="../Page/水平対向エンジン.md" title="wikilink">水平対向</a>4気筒<a href="https://ja.wikipedia.org/wiki/OHV" title="wikilink">OHV</a></p></td>
+<td><p>EA61型<a href="../Page/水冷エンジン.md" title="wikilink">水冷</a><a href="../Page/水平対向エンジン.md" title="wikilink">水平対向</a>4気筒<a href="../Page/OHV.md" title="wikilink">OHV</a></p></td>
 <td><p>EA61S型水冷水平対向4気筒OHV<br />
 <a href="../Page/ミクニ.md" title="wikilink">三国工業製ソレックス</a>×2[1]</p></td>
 </tr>
@@ -116,7 +116,7 @@
 </tr>
 <tr class="even">
 <td><p>ブレーキ（前輪/後輪）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ドラムブレーキ" title="wikilink">リーディングトレーリング</a></p></td>
+<td><p><a href="../Page/ドラムブレーキ.md" title="wikilink">リーディングトレーリング</a></p></td>
 <td><p><a href="../Page/ディスクブレーキ.md" title="wikilink">ディスク</a>/リーディングトレーリング</p></td>
 </tr>
 <tr class="odd">
@@ -129,7 +129,7 @@
 
 ## エンジン
 
-搭載される標準の「EA61」、そのツインキャブ版で、スポーツセダン、スーパーツーリングに搭載される「EA61S」[エンジン](../Page/エンジン.md "wikilink")ともに、[スバル・1000](https://ja.wikipedia.org/wiki/スバル・1000 "wikilink")の「EA52」（ボア×ストローク：72.0×60.0mm）、およびスバル・1000スポーツセダンの「EA53」のボアを4mm拡大したのみで、大きな変更は行われていない。
+搭載される標準の「EA61」、そのツインキャブ版で、スポーツセダン、スーパーツーリングに搭載される「EA61S」[エンジン](../Page/エンジン.md "wikilink")ともに、[スバル・1000](../Page/スバル・1000.md "wikilink")の「EA52」（ボア×ストローク：72.0×60.0mm）、およびスバル・1000スポーツセダンの「EA53」のボアを4mm拡大したのみで、大きな変更は行われていない。
 
 ## シャシー・サスペンション
 
@@ -166,8 +166,8 @@
 ## 関連項目
 
   - [富士重工業](https://ja.wikipedia.org/wiki/富士重工業 "wikilink")
-  - [スバル・1000](https://ja.wikipedia.org/wiki/スバル・1000 "wikilink")
-  - [スバル・ff-1 1300G](https://ja.wikipedia.org/wiki/スバル・ff-1_1300G "wikilink")
+  - [スバル・1000](../Page/スバル・1000.md "wikilink")
+  - [スバル・ff-1 1300G](../Page/スバル・ff-1_1300G.md "wikilink")
   - [スバル・レオーネ](../Page/スバル・レオーネ.md "wikilink")
   - [スバル・EA型エンジン](https://ja.wikipedia.org/wiki/スバル・EA型エンジン "wikilink")
 

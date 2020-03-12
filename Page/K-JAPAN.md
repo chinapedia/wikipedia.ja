@@ -5,13 +5,13 @@
 
 ## 概要
 
-日本人旅行者・在留者向けに[日本語](../Page/日本語.md "wikilink")で放送していた。昼間の時間帯は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[文化放送](../Page/文化放送.md "wikilink")の番組をネットしていた。[コールサインは](https://ja.wikipedia.org/wiki/識別信号 "wikilink")**KJPN**、放送局の買収後は**KORL**。[周波数](../Page/周波数.md "wikilink")は690、940、1180[kHzと変遷している](https://ja.wikipedia.org/wiki/キロヘルツ "wikilink")。[出力](https://ja.wikipedia.org/wiki/空中線電力 "wikilink")10[kWで](../Page/ワット.md "wikilink")[ハワイ全島で聴取可能](https://ja.wikipedia.org/wiki/ハワイ島 "wikilink")。最終的な放送時間は番組配信時差の関係で日曜から金曜の6:00から18:00までだった。
+日本人旅行者・在留者向けに[日本語](../Page/日本語.md "wikilink")で放送していた。昼間の時間帯は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[文化放送](../Page/文化放送.md "wikilink")の番組をネットしていた。[コールサインは](https://ja.wikipedia.org/wiki/識別信号 "wikilink")**KJPN**、放送局の買収後は**KORL**。[周波数](../Page/周波数.md "wikilink")は690、940、1180[kHzと変遷している](https://ja.wikipedia.org/wiki/キロヘルツ "wikilink")。[出力](../Page/空中線電力.md "wikilink")10[kWで](../Page/ワット.md "wikilink")[ハワイ全島で聴取可能](../Page/ハワイ島.md "wikilink")。最終的な放送時間は番組配信時差の関係で日曜から金曜の6:00から18:00までだった。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")より、周波数をFM 101.0MHzに変更。変更後、文化放送の番組は放送されなかった。[2007年](../Page/2007年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink")、中波放送を終了。
+[2006年](../Page/2006年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")より、周波数をFM 101.0MHzに変更。変更後、文化放送の番組は放送されなかった。[2007年](../Page/2007年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink")、中波放送を終了。
 
 同年[7月2日](../Page/7月2日.md "wikilink")から一時FM101.1MHz[1](http://www.101hawaii.net/)[101FM](../Page/101FM.md "wikilink")へ移行していた。（移行に伴いインターネットの[ストリーミング](../Page/ストリーミング.md "wikilink")も休止）。
 
-所在地：[ハワイ州](../Page/ハワイ州.md "wikilink")[ホノルル市](https://ja.wikipedia.org/wiki/ホノルル市 "wikilink")フォートストリートモール900　450号室（ハワイ拠点）、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[赤坂一丁目](../Page/赤坂_\(東京都港区\).md "wikilink")4-3-301（日本拠点）
+所在地：[ハワイ州](../Page/ハワイ州.md "wikilink")[ホノルル市](https://ja.wikipedia.org/wiki/ホノルル市 "wikilink")フォートストリートモール900　450号室（ハワイ拠点）、[東京都](../Page/東京都.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[赤坂一丁目](../Page/赤坂_\(東京都港区\).md "wikilink")4-3-301（日本拠点）
 
 ## 番組
 
@@ -29,14 +29,14 @@ FMへの移行に伴い中継廃止。
 
   - [太田英明 ナマ朝\!](../Page/太田英明_ナマ朝!.md "wikilink")（日曜 - 木曜 10:00 - 11:30 （日本時間 月曜 - 金曜 5:00 - 6:30））
   - [吉田たかよし プラス\!](../Page/吉田たかよし_プラス!.md "wikilink")（日曜 - 木曜 11:30 - 13:30 （日本時間 月曜 - 金曜 6:30 - 8:30））
-  - [くにまるワイド ごぜんさま〜](https://ja.wikipedia.org/wiki/くにまるワイド_ごぜんさま〜 "wikilink")（日曜 - 木曜 13:30 - 16:30 （日本時間 月曜 - 金曜 8:30 - 11:30））
+  - [くにまるワイド ごぜんさま〜](../Page/くにまるワイド_ごぜんさま〜.md "wikilink")（日曜 - 木曜 13:30 - 16:30 （日本時間 月曜 - 金曜 8:30 - 11:30））
   - [天理教アワー](https://ja.wikipedia.org/wiki/天理教アワー "wikilink")（日曜 7:00〜8:00）
 
 ## 関連項目
 
-  - [KZOO](https://ja.wikipedia.org/wiki/KZOO "wikilink")（同じく日本人向けラジオ放送局；メインは[TBS](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")）
+  - [KZOO](../Page/KZOO.md "wikilink")（同じく日本人向けラジオ放送局；メインは[TBS](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")）
   - [ハワイ州のラジオ放送局の一覧](../Page/ハワイ州のラジオ放送局の一覧.md "wikilink")
-  - [北米と中米のラジオ放送局の一覧](https://ja.wikipedia.org/wiki/北米と中米のラジオ放送局の一覧 "wikilink")
+  - [北米と中米のラジオ放送局の一覧](../Page/北米と中米のラジオ放送局の一覧.md "wikilink")
 
 ## 外部リンク
 

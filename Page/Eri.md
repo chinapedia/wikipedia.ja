@@ -1,21 +1,21 @@
 > この記事は[Eri](https://ja.wikipedia.org/wiki/Eri)から翻訳されています。
 
 
-**eri**（えり、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[2月11日](../Page/2月11日.md "wikilink") - ）は、[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")生まれ、[東京](https://ja.wikipedia.org/wiki/東京 "wikilink")育ちの[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、chico、mother、VTOPIAの[デザイナー](../Page/デザイナー.md "wikilink")。ビンテージショップDEPTのオーナー兼バイヤー。 血液型O型。
+**eri**（えり、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[2月11日](../Page/2月11日.md "wikilink") - ）は、[ニューヨーク](../Page/ニューヨーク.md "wikilink")生まれ、[東京](../Page/東京.md "wikilink")育ちの[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、chico、mother、VTOPIAの[デザイナー](../Page/デザイナー.md "wikilink")。ビンテージショップDEPTのオーナー兼バイヤー。 血液型O型。
 
 ## 略歴
 
 1997年、「立花ハジメとLow Powers」のボーカルとしてアルバムをリリース。
 
-2001年、雑誌『[Olive](https://ja.wikipedia.org/wiki/Olive "wikilink")』にて連載を開始。
+2001年、雑誌『[Olive](../Page/Olive.md "wikilink")』にて連載を開始。
 
 2002年、ブランド「chico」スタート。
 
 2004年、ブランド「mother」スタート。中目黒に旗艦店をオープンする。
 
-2006年、[市川実和子](https://ja.wikipedia.org/wiki/市川実和子 "wikilink")、[東野翠れん](https://ja.wikipedia.org/wiki/東野翠れん "wikilink")との共著『縷縷日記』（[リトルモア](https://ja.wikipedia.org/wiki/リトルモア "wikilink")）を上梓。
+2006年、[市川実和子](https://ja.wikipedia.org/wiki/市川実和子 "wikilink")、[東野翠れん](../Page/東野翠れん.md "wikilink")との共著『縷縷日記』（[リトルモア](https://ja.wikipedia.org/wiki/リトルモア "wikilink")）を上梓。
 
-2007年、雑誌『[装苑](https://ja.wikipedia.org/wiki/装苑 "wikilink")』にて「100の隙間」連載開始。
+2007年、雑誌『[装苑](../Page/装苑.md "wikilink")』にて「100の隙間」連載開始。
 
 2009年、ジュエリーブランド「VTOPIA」スタート。
 

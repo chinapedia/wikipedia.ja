@@ -1,14 +1,14 @@
 > この記事は[Multi Colored Vox](https://ja.wikipedia.org/wiki/Multi_Colored_Vox)から翻訳されています。
 
 
-**Multi Colored Vox**（マルチ・カラード・ヴォックス）は[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")出身の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。略称、**マルカラ**。[2002年](../Page/2002年.md "wikilink")3月結成。2007年1月12日解散。
+**Multi Colored Vox**（マルチ・カラード・ヴォックス）は[大阪府](../Page/大阪府.md "wikilink")出身の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。略称、**マルカラ**。[2002年](../Page/2002年.md "wikilink")3月結成。2007年1月12日解散。
 
 ## メンバー
 
   - **藤井和也**（ボーカル･ギター）　解散時のブログにて、音楽活動終了を宣言。
   - **林克哉**（ベース･コーラス）　2012年、[my way my loveに加入](https://ja.wikipedia.org/wiki/my_way_my_love "wikilink")。
   - **詫間啓司**（ベース･コーラス）2003年5月脱退。2009年、[第45回衆議院議員総選挙](https://ja.wikipedia.org/wiki/第45回衆議院議員総選挙 "wikilink")の[京都府第5区](../Page/京都府第5区.md "wikilink")に[幸福実現党](https://ja.wikipedia.org/wiki/幸福実現党 "wikilink")公認で立候補するも落選。
-  - **[多奈部聖士](https://ja.wikipedia.org/wiki/多奈部聖士 "wikilink")**（ベース･コーラス）2003年5月加入、2004年12月脱退。2005年、キーボーディストとして[ナショヲナル](https://ja.wikipedia.org/wiki/ナショヲナル "wikilink")結成。
+  - **[多奈部聖士](../Page/多奈部聖士.md "wikilink")**（ベース･コーラス）2003年5月加入、2004年12月脱退。2005年、キーボーディストとして[ナショヲナル](https://ja.wikipedia.org/wiki/ナショヲナル "wikilink")結成。
   - **永江由侍**（ドラム･コーラス）2006年6月脱退。同年、[Bacon](https://ja.wikipedia.org/wiki/Bacon "wikilink")に加入。
 
 ## ディスコグラフィー
@@ -69,8 +69,8 @@
 
 ## 関連項目
 
-  - [NANANINE](https://ja.wikipedia.org/wiki/NANANINE "wikilink")
-  - [ザ・ガールハント](https://ja.wikipedia.org/wiki/ザ・ガールハント "wikilink")
+  - [NANANINE](../Page/NANANINE.md "wikilink")
+  - [ザ・ガールハント](../Page/ザ・ガールハント.md "wikilink")
   - [真空メロウ](https://ja.wikipedia.org/wiki/真空メロウ "wikilink")
   - [solaris (日本のバンド)](https://ja.wikipedia.org/wiki/solaris_\(日本のバンド\) "wikilink")
   - [サキノハカ](https://ja.wikipedia.org/wiki/サキノハカ "wikilink")

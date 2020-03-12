@@ -6,9 +6,9 @@
 ## 収録曲
 
 1.  **Love Graduation**
-      - 作詞・作曲：[望月衛](https://ja.wikipedia.org/wiki/望月衛介 "wikilink")、編曲：[明石昌夫](https://ja.wikipedia.org/wiki/明石昌夫 "wikilink")
-      - TBS『[ランク王国](https://ja.wikipedia.org/wiki/ランク王国 "wikilink")』オープニングテーマ
-      - アルバム『[PRECIOUS GARDEN](https://ja.wikipedia.org/wiki/PRECIOUS_GARDEN_\(アルバム\) "wikilink")』にも収録
+      - 作詞・作曲：[望月衛](../Page/望月衛介.md "wikilink")、編曲：[明石昌夫](../Page/明石昌夫.md "wikilink")
+      - TBS『[ランク王国](../Page/ランク王国.md "wikilink")』オープニングテーマ
+      - アルバム『[PRECIOUS GARDEN](../Page/PRECIOUS_GARDEN_\(アルバム\).md "wikilink")』にも収録
 2.  **星の涙を**
       - 作詞：[UCO](https://ja.wikipedia.org/wiki/UCO "wikilink")、作曲：[椎名へきる](../Page/椎名へきる.md "wikilink")、編曲：明石昌夫
 3.  Love Graduation (backtracks)

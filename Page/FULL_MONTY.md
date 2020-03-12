@@ -1,7 +1,7 @@
 > この記事は[FULL MONTY](https://ja.wikipedia.org/wiki/FULL_MONTY)から翻訳されています。
 
 
-'''FULL MONTY '''（フル・モンティ）は[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")[久留米市](../Page/久留米市.md "wikilink")出身の[ロック](../Page/ロック_\(音楽\).md "wikilink")[BANDである](../Page/バンド_\(音楽\).md "wikilink")。
+'''FULL MONTY '''（フル・モンティ）は[福岡県](../Page/福岡県.md "wikilink")[久留米市](../Page/久留米市.md "wikilink")出身の[ロック](../Page/ロック_\(音楽\).md "wikilink")[BANDである](../Page/バンド_\(音楽\).md "wikilink")。
 
 1998年12月25日結成。[パンクサウンドや](../Page/パンク・ロック.md "wikilink")[ロックサウンドを基盤に](../Page/ロック_\(音楽\).md "wikilink")[スカ](../Page/スカ.md "wikilink")や[ハードコア](../Page/ハードコア・パンク.md "wikilink")、[ロックンロール](../Page/ロックンロール.md "wikilink")まで融合させ、日本語でストレートな楽曲にバンドサウンドとブラスのサウンドを結合させた、[パンク](../Page/パンク・ロック.md "wikilink")・[ブラス](https://ja.wikipedia.org/wiki/ブラス "wikilink")・[ロック](../Page/ロック_\(音楽\).md "wikilink")・[バンド](../Page/バンド_\(音楽\).md "wikilink")。日本国内から海外まで幅広くライブ活動を精力的におこなう。
 
@@ -15,7 +15,7 @@
   - **HIRAI**（[9月18日](../Page/9月18日.md "wikilink") - ）ドラム
   - **RyuTARO**（[2月11日](../Page/2月11日.md "wikilink") - ）トロンボーン･ボーカル
   - **KAZUYA**　テナーサックス･ボーカル
-  - **HIROKI**（[5月9日](https://ja.wikipedia.org/wiki/5月9日 "wikilink") - ）ドラム
+  - **HIROKI**（[5月9日](../Page/5月9日.md "wikilink") - ）ドラム
 
 ### 元メンバー
 
@@ -617,7 +617,7 @@
 
 ## 関連項目
 
-  - [日本のパンク・ロック](https://ja.wikipedia.org/wiki/日本のパンク・ロック "wikilink")
+  - [日本のパンク・ロック](../Page/日本のパンク・ロック.md "wikilink")
   - [福岡県出身の人物一覧](https://ja.wikipedia.org/wiki/福岡県出身の人物一覧 "wikilink")
 
 ## 外部リンク

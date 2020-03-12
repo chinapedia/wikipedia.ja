@@ -9,11 +9,11 @@ __TOC__{{-}}
 
 ## 概要
 
-元[ソ連空軍](https://ja.wikipedia.org/wiki/ソ連空軍 "wikilink")の[パイロットだった](https://ja.wikipedia.org/wiki/パイロット_\(航空\) "wikilink")が[計算機科学](../Page/計算機科学.md "wikilink")者に転進後、独自理論に基づいて開発したアンチウイルスエンジンをベースにした[アンチウイルスソフト](https://ja.wikipedia.org/wiki/アンチウイルスソフト "wikilink")である。ロシア、[ウクライナ](../Page/ウクライナ.md "wikilink")などの旧[ソ連地域を中心とした企業](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")、個人ユーザが多く、製品のサポートとより一層の研究開発を目的として、[2003年](../Page/2003年.md "wikilink")にDoctor Web, Ltd.が設立された。100% 出資の日本法人である株式会社 Doctor Web Pacific は 2010年12月に業務を開始した。
+元[ソ連空軍](../Page/ソ連空軍.md "wikilink")の[パイロットだった](https://ja.wikipedia.org/wiki/パイロット_\(航空\) "wikilink")が[計算機科学](../Page/計算機科学.md "wikilink")者に転進後、独自理論に基づいて開発したアンチウイルスエンジンをベースにした[アンチウイルスソフト](https://ja.wikipedia.org/wiki/アンチウイルスソフト "wikilink")である。ロシア、[ウクライナ](../Page/ウクライナ.md "wikilink")などの旧[ソ連地域を中心とした企業](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")、個人ユーザが多く、製品のサポートとより一層の研究開発を目的として、[2003年](../Page/2003年.md "wikilink")にDoctor Web, Ltd.が設立された。100% 出資の日本法人である株式会社 Doctor Web Pacific は 2010年12月に業務を開始した。
 
 ## 関連項目
 
-  - [アンチウイルスソフトウェア](https://ja.wikipedia.org/wiki/アンチウイルスソフトウェア "wikilink")
+  - [アンチウイルスソフトウェア](../Page/アンチウイルスソフトウェア.md "wikilink")
   - [ウイルスチェイサー](../Page/ウイルスチェイサー.md "wikilink")
 
 ## 外部リンク

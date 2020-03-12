@@ -1,7 +1,7 @@
 > この記事は[Sun Ray](https://ja.wikipedia.org/wiki/Sun_Ray)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Sunray.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:SunRay.JPG "wikilink") [SunRay2FS.JPG](https://ja.wikipedia.org/wiki/File:SunRay2FS.JPG "fig:SunRay2FS.JPG") **Sun Ray**（サン・レイ）とは[オラクル](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink")（以前は[サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")）が発売している[シンクライアント](https://ja.wikipedia.org/wiki/シンクライアント "wikilink")シリーズないしソリューションとしての総称。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Sunray.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:SunRay.JPG "wikilink") [SunRay2FS.JPG](https://ja.wikipedia.org/wiki/File:SunRay2FS.JPG "fig:SunRay2FS.JPG") **Sun Ray**（サン・レイ）とは[オラクル](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink")（以前は[サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")）が発売している[シンクライアント](../Page/シンクライアント.md "wikilink")シリーズないしソリューションとしての総称。
 
 ## 概要
 
@@ -23,7 +23,7 @@
 ### ソフトウェア
 
   - Sun Ray Software - サーバ管理ソフト。[Windows系とのリモート接続](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")（[ターミナル サービス](https://ja.wikipedia.org/wiki/リモート_デスクトップ_サービス "wikilink")）もサポートしている。
-  - Sun Secure Global Desktop Software - 関連製品。元[タランテラ製品のそれを改良したもの](https://ja.wikipedia.org/wiki/タランテラ_\(企業\) "wikilink")。Windowsや主だった[Unix系](https://ja.wikipedia.org/wiki/Unix系 "wikilink")OSに[Java](https://ja.wikipedia.org/wiki/Java "wikilink")をサポートした[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")を介してリモート接続ができる。
+  - Sun Secure Global Desktop Software - 関連製品。元[タランテラ製品のそれを改良したもの](../Page/タランテラ_\(企業\).md "wikilink")。Windowsや主だった[Unix系](../Page/Unix系.md "wikilink")OSに[Java](https://ja.wikipedia.org/wiki/Java "wikilink")をサポートした[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")を介してリモート接続ができる。
 
 ### その他
 

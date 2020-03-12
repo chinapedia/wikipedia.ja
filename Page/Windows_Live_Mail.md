@@ -27,11 +27,11 @@ Windows Live メールは以下の機能を持っている。
   - フォトメール、デジタル写真の共有
   - [RSS](../Page/RSS.md "wikilink") フィードの購読や管理
   - 電子メールをすばやく検索
-  - メッセージを簡単に、[Windows Live Spacesに投稿できる](https://ja.wikipedia.org/wiki/Windows_Live_Spaces "wikilink")
-  - [Windows Live Messenger](https://ja.wikipedia.org/wiki/Windows_Live_Messenger "wikilink")、[Windows Live Writerとの連動](https://ja.wikipedia.org/wiki/Windows_Live_Writer "wikilink")
+  - メッセージを簡単に、[Windows Live Spacesに投稿できる](../Page/Windows_Live_Spaces.md "wikilink")
+  - [Windows Live Messenger](https://ja.wikipedia.org/wiki/Windows_Live_Messenger "wikilink")、[Windows Live Writerとの連動](../Page/Windows_Live_Writer.md "wikilink")
   - 画像付きのメール作成
-  - [Webメール](https://ja.wikipedia.org/wiki/Webメール "wikilink")への対応（Windows Live Hotmail、Gmail/Google Mail、Yahoo\! メール）
-  - [Outlookのようなマルチラインメッセージリスト](https://ja.wikipedia.org/wiki/Microsoft_Outlook "wikilink")
+  - [Webメール](../Page/Webメール.md "wikilink")への対応（Windows Live Hotmail、Gmail/Google Mail、Yahoo\! メール）
+  - [Outlookのようなマルチラインメッセージリスト](../Page/Microsoft_Outlook.md "wikilink")
   - Emoticons （[IM](../Page/インスタントメッセンジャー.md "wikilink") に用いられる感情表現のアニメーション）
   - スペルチェック
   - 異なる[POPアカウントの為の別々のインボックスフォルダ](../Page/Post_Office_Protocol.md "wikilink")
@@ -59,7 +59,7 @@ Windows Live メールは以下の機能を持っている。
 ## 利用上の注意
 
   - OAuth 2.0に非対応
-    本ソフトは[OAuth](https://ja.wikipedia.org/wiki/OAuth "wikilink") 2.0方式の認証に対応していない。リリース当初はWebメールへの対応を謳っていたが、[Gmail](https://ja.wikipedia.org/wiki/Gmail "wikilink")などでは2014年頃からOAuth 2.0での認証を必須としているため、通常は利用することができなくなった。Gmailについては、推奨されていないが「安全性の低いアプリの許可」を有効にすることで利用することはできる\[13\]。
+    本ソフトは[OAuth](https://ja.wikipedia.org/wiki/OAuth "wikilink") 2.0方式の認証に対応していない。リリース当初はWebメールへの対応を謳っていたが、[Gmail](../Page/Gmail.md "wikilink")などでは2014年頃からOAuth 2.0での認証を必須としているため、通常は利用することができなくなった。Gmailについては、推奨されていないが「安全性の低いアプリの許可」を有効にすることで利用することはできる\[13\]。
   - 文字コードの指定
     本ソフトを利用してメール送信する際に、「－」（全角ハイフン、減算記号、[JIS](../Page/ISO-2022-JP.md "wikilink")16進コード：「215d」）などを含んでいると、既定のエンコードを日本語(JIS)を選択していてもUnicode(UTF-8)でエンコードされたメールが送信されてしまう。Unicode(UTF-8)形式のメールをサポートしていない古いメールクライアントで受信した場合に問題が発生する\[14\]\[15\]ため、マイクロソフト社は画像や絵文字を本文中に含む場合は「－」「～」等の文字を含めないよう送信者側で注意するようにアナウンスしている\[16\]。
   - メッセージの日付指定で検索

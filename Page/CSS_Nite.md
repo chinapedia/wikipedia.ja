@@ -1,13 +1,13 @@
 > この記事は[CSS Nite](https://ja.wikipedia.org/wiki/CSS_Nite)から翻訳されています。
 
 
-**CSS Nite**（**シーエスエス・ナイト**）は、当初は[CSSをはじめとした](../Page/Cascading_Style_Sheets.md "wikilink")[ウェブ標準](https://ja.wikipedia.org/wiki/ウェブ標準 "wikilink")にまつわるテーマで中心とした[ウェブデザイナー](https://ja.wikipedia.org/wiki/ウェブデザイナー "wikilink")を対象とした[イベント](../Page/イベント.md "wikilink")であったが、現在ではウェブデザインやウェブマーケティングに関するテーマを総合的に扱う業界最大規模のイベントとなっている。主催は[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")[スイッチ](https://ja.wikipedia.org/wiki/スイッチ_\(企業\) "wikilink")。2005年10月から開催されている\[1\]。
+**CSS Nite**（**シーエスエス・ナイト**）は、当初は[CSSをはじめとした](../Page/Cascading_Style_Sheets.md "wikilink")[ウェブ標準](../Page/ウェブ標準.md "wikilink")にまつわるテーマで中心とした[ウェブデザイナー](../Page/ウェブデザイナー.md "wikilink")を対象とした[イベント](../Page/イベント.md "wikilink")であったが、現在ではウェブデザインやウェブマーケティングに関するテーマを総合的に扱う業界最大規模のイベントとなっている。主催は[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")[スイッチ](https://ja.wikipedia.org/wiki/スイッチ_\(企業\) "wikilink")。2005年10月から開催されている\[1\]。
 
 なお、*Nite*はNightの[スラング](../Page/スラング.md "wikilink")的表現である\[2\]。
 
 ## イベント形態
 
-[Apple Store](https://ja.wikipedia.org/wiki/Apple_Store "wikilink") Ginzaで毎月第3木曜日の19時から開催されていたマンスリーイベントが元になっており（現在では終了）、数百名規模の大規模な東京版LP、小規模な東京版After Darkのほか、[大阪](../Page/大阪.md "wikilink")、[名古屋](../Page/名古屋.md "wikilink")、[札幌](../Page/札幌.md "wikilink")など日本の各地で地方版が開催されている。2017年3月の時点では日本国外での開催実績もある\[3\]。
+[Apple Store](../Page/Apple_Store.md "wikilink") Ginzaで毎月第3木曜日の19時から開催されていたマンスリーイベントが元になっており（現在では終了）、数百名規模の大規模な東京版LP、小規模な東京版After Darkのほか、[大阪](../Page/大阪.md "wikilink")、[名古屋](../Page/名古屋.md "wikilink")、[札幌](../Page/札幌.md "wikilink")など日本の各地で地方版が開催されている。2017年3月の時点では日本国外での開催実績もある\[3\]。
 
 2005年から開催されている\[4\]\[5\]。
 
@@ -16,7 +16,7 @@
 
 ## CSS Nite
 
-毎月第3木曜日の19時から[Apple Store](https://ja.wikipedia.org/wiki/Apple_Store "wikilink") Ginzaで開催されていたマンスリーイベント。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月20日](../Page/10月20日.md "wikilink")のVol.1から[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[3月15日](../Page/3月15日.md "wikilink")のVol.18までの18ヶ月間開催され、マンスリーイベントとしての幕をいったん閉じた。
+毎月第3木曜日の19時から[Apple Store](../Page/Apple_Store.md "wikilink") Ginzaで開催されていたマンスリーイベント。[2005年](../Page/2005年.md "wikilink")[10月20日](../Page/10月20日.md "wikilink")のVol.1から[2007年](../Page/2007年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")のVol.18までの18ヶ月間開催され、マンスリーイベントとしての幕をいったん閉じた。
 
 現在、マンスリーではなく、隔月程度の開催ペースになっているが、アップルストア銀座でのCSS Niteは2011年9月開催分でVol.59となっている。 なお、ほかの開催分と区別するため、Vol.21からCSS Nite in Ginza, Vol.21のように表記を変更している。
 
@@ -86,11 +86,11 @@ LP（エルピー）はLPレコードに由来する（Long Playの略）。CSS 
 
 ### Web標準の日
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月15日](../Page/7月15日.md "wikilink")、株式会社[ミツエーリンクス](https://ja.wikipedia.org/wiki/ミツエーリンクス "wikilink")が運営する[Web標準Blog](http://standards.mitsue.co.jp/)とCSS Niteが共同で開催。
+[2006年](../Page/2006年.md "wikilink")[7月15日](../Page/7月15日.md "wikilink")、株式会社[ミツエーリンクス](https://ja.wikipedia.org/wiki/ミツエーリンクス "wikilink")が運営する[Web標準Blog](http://standards.mitsue.co.jp/)とCSS Niteが共同で開催。
 
 ### Web標準の日々
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[7月15](https://ja.wikipedia.org/wiki/7月15 "wikilink")、[7月16日](../Page/7月16日.md "wikilink")の2日間、デジタルハリウッドの後援で、秋葉原のデジハリ関連の3つの建物で「The Days of Web Standards 2007［Web標準の日々］」を開催。延べ参加人数1,000名以上を記録。
+[2007年](../Page/2007年.md "wikilink")[7月15](https://ja.wikipedia.org/wiki/7月15 "wikilink")、[7月16日](../Page/7月16日.md "wikilink")の2日間、デジタルハリウッドの後援で、秋葉原のデジハリ関連の3つの建物で「The Days of Web Standards 2007［Web標準の日々］」を開催。延べ参加人数1,000名以上を記録。
 
 ### そのほか
 
@@ -98,7 +98,7 @@ LP（エルピー）はLPレコードに由来する（Long Playの略）。CSS 
 
 ## CSS Nite運営に関する批判と議論
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")、CSS Nite運営に対する批判\[8\]が生じ、運営会社が収支概算を公開するなどの対応を行った。\[9\]
+[2007年](../Page/2007年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")、CSS Nite運営に対する批判\[8\]が生じ、運営会社が収支概算を公開するなどの対応を行った。\[9\]
 
 ## 脚注
 
@@ -107,9 +107,9 @@ LP（エルピー）はLPレコードに由来する（Long Playの略）。CSS 
 ## 関連項目
 
   - [Cascading Style Sheets](../Page/Cascading_Style_Sheets.md "wikilink")
-  - [ウェブ標準](https://ja.wikipedia.org/wiki/ウェブ標準 "wikilink")
-  - [ウェブデザイナー](https://ja.wikipedia.org/wiki/ウェブデザイナー "wikilink")
-  - [Apple Store](https://ja.wikipedia.org/wiki/Apple_Store "wikilink")
+  - [ウェブ標準](../Page/ウェブ標準.md "wikilink")
+  - [ウェブデザイナー](../Page/ウェブデザイナー.md "wikilink")
+  - [Apple Store](../Page/Apple_Store.md "wikilink")
 
 ## 外部リンク
 

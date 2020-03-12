@@ -7,7 +7,7 @@
 
 1.  **Jungle Life**
       - 作詞：[田中花乃](https://ja.wikipedia.org/wiki/田中花乃 "wikilink")、作曲：[木根尚登](https://ja.wikipedia.org/wiki/木根尚登 "wikilink")、編曲：[湯浅公一](https://ja.wikipedia.org/wiki/湯浅公一 "wikilink")、[溝口和彦](https://ja.wikipedia.org/wiki/溝口和彦 "wikilink")
-      - アルバム『[Sadistic Pink](https://ja.wikipedia.org/wiki/Sadistic_Pink "wikilink")』にも収録
+      - アルバム『[Sadistic Pink](../Page/Sadistic_Pink.md "wikilink")』にも収録
 2.  **Jungle Life (JUNGLE 2001 MIX)**
 3.  Jungle Life (backtracks)
 

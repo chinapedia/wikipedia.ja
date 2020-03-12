@@ -5,7 +5,7 @@
 
 ## 解説
 
-globeのソロプロジェクト。[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")による楽曲であり、ボーカルが入らない[インストゥルメンタル](https://ja.wikipedia.org/wiki/インストゥルメンタル "wikilink")作品となっている。小室のソロシングルとしては[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")の[SPEED TK RE-MIX](https://ja.wikipedia.org/wiki/SPEED_TK_RE-MIX "wikilink")（**TETSUYA "TK" KOMURO**名義で発売）以来となる。総計43980枚を売り上げ、オリコンベスト10に入った。
+globeのソロプロジェクト。[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")による楽曲であり、ボーカルが入らない[インストゥルメンタル](https://ja.wikipedia.org/wiki/インストゥルメンタル "wikilink")作品となっている。小室のソロシングルとしては[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")の[SPEED TK RE-MIX](../Page/SPEED_TK_RE-MIX.md "wikilink")（**TETSUYA "TK" KOMURO**名義で発売）以来となる。総計43980枚を売り上げ、オリコンベスト10に入った。
 
 ## 収録曲
 

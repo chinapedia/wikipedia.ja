@@ -1,13 +1,13 @@
 > この記事は[ECHO](https://ja.wikipedia.org/wiki/ECHO)から翻訳されています。
 
 
-『**ECHO**』（エコー）は[遊佐未森](../Page/遊佐未森.md "wikilink")の10枚目のオリジナルアルバム。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月11日](../Page/2月11日.md "wikilink")に[東芝EMI](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink") から発売された。
+『**ECHO**』（エコー）は[遊佐未森](../Page/遊佐未森.md "wikilink")の10枚目のオリジナルアルバム。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月11日](../Page/2月11日.md "wikilink")に[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink") から発売された。
 
 ## 概要
 
 前作のオリジナルアルバム『[roka](https://ja.wikipedia.org/wiki/roka "wikilink")』から1年後に発売された、東芝EMI移籍後の初のアルバムとなる。
 
-プロデュースと録音、[ミキシング](https://ja.wikipedia.org/wiki/ミキシング "wikilink")を[カラム・マルコム](https://ja.wikipedia.org/wiki/カラム・マルコム "wikilink")（Calum Malcolm）が務めた。コ・プロデュースは遊佐未森と、[ソニー・ミュージックエンタテインメントから](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")[ソイツァーミュージック](https://ja.wikipedia.org/wiki/ソイツァーミュージック "wikilink")に異動した[福岡知彦](https://ja.wikipedia.org/wiki/福岡知彦 "wikilink")が引き続き担当した。録音は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[スコットランド](../Page/スコットランド.md "wikilink")、[エディンバラ](../Page/エディンバラ.md "wikilink")近郊の[イースト・ロージアン](https://ja.wikipedia.org/wiki/イースト・ロージアン "wikilink")で行われた。
+プロデュースと録音、[ミキシング](../Page/ミキシング.md "wikilink")を[カラム・マルコム](https://ja.wikipedia.org/wiki/カラム・マルコム "wikilink")（Calum Malcolm）が務めた。コ・プロデュースは遊佐未森と、[ソニー・ミュージックエンタテインメントから](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")[ソイツァーミュージック](https://ja.wikipedia.org/wiki/ソイツァーミュージック "wikilink")に異動した[福岡知彦](https://ja.wikipedia.org/wiki/福岡知彦 "wikilink")が引き続き担当した。録音は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[スコットランド](../Page/スコットランド.md "wikilink")、[エディンバラ](../Page/エディンバラ.md "wikilink")近郊の[イースト・ロージアン](https://ja.wikipedia.org/wiki/イースト・ロージアン "wikilink")で行われた。
 
 『[タペストリー](https://ja.wikipedia.org/wiki/タペストリー_\(遊佐未森の曲\) "wikilink")』が[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[10月16日](../Page/10月16日.md "wikilink")に、『[レモンの木](https://ja.wikipedia.org/wiki/レモンの木 "wikilink")』が[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[1月16日](https://ja.wikipedia.org/wiki/1月16日 "wikilink")に、それぞれ先行シングルとして発売された。
 
@@ -15,7 +15,7 @@
 
 1.  **バースデイ**（作詞：[杉林恭雄](https://ja.wikipedia.org/wiki/杉林恭雄 "wikilink")　作曲：杉林恭雄）
 2.  **ミラクル**（作詞：遊佐未森　作曲：[小河星志](https://ja.wikipedia.org/wiki/小河星志 "wikilink")）
-3.  **レモンの木**（作詞：遊佐未森　作曲：遊佐未森＋[古賀森男](https://ja.wikipedia.org/wiki/古賀森男 "wikilink")）
+3.  **レモンの木**（作詞：遊佐未森　作曲：遊佐未森＋[古賀森男](../Page/古賀森男.md "wikilink")）
 4.  **ラララ**（作詞：遊佐未森　作曲：遊佐未森）
 5.  **水の中**（作詞：遊佐未森　作曲：遊佐未森）
       -
@@ -42,7 +42,7 @@
   - [ジミー・マクメネミー](https://ja.wikipedia.org/wiki/ジミー・マクメネミー "wikilink")（Jimmy McMenemy）
   - [鈴木達也](https://ja.wikipedia.org/wiki/鈴木達也_\(ドラマー\) "wikilink")
   - [渡辺等](https://ja.wikipedia.org/wiki/渡辺等 "wikilink")
-  - [古賀森男](https://ja.wikipedia.org/wiki/古賀森男 "wikilink")
+  - [古賀森男](../Page/古賀森男.md "wikilink")
   - [梯郁夫](https://ja.wikipedia.org/wiki/梯郁夫 "wikilink")
   - [冨田恵一](https://ja.wikipedia.org/wiki/冨田恵一 "wikilink")
   - カラム・マルコム（Calum Malcolm）
@@ -56,6 +56,6 @@
 
 ## 関連項目
 
-  - [1998年の音楽](https://ja.wikipedia.org/wiki/1998年の音楽 "wikilink")
+  - [1998年の音楽](../Page/1998年の音楽.md "wikilink")
 
 [Category:遊佐未森のアルバム](https://ja.wikipedia.org/wiki/Category:遊佐未森のアルバム "wikilink") [Category:1998年のアルバム](https://ja.wikipedia.org/wiki/Category:1998年のアルバム "wikilink") [Category:EMIミュージック・ジャパンのアルバム](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのアルバム "wikilink")

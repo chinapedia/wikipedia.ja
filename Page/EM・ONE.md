@@ -1,21 +1,21 @@
 > この記事は[EMONE](https://ja.wikipedia.org/wiki/EMONE)から翻訳されています。
 
 
-**EM・ONE**（エムワン）は、2007年3月31日に提供開始された[イー・モバイル](https://ja.wikipedia.org/wiki/イー・モバイル "wikilink")の無線通信サービス向けに供給される[携帯情報端末](../Page/携帯情報端末.md "wikilink") (PDA) である。EM・ONEは愛称であり、製品としての型番は**S01SH**（エス ぜろいち エスエイチ） 、後継にあたる**EM・ONE α**（エムワン アルファ）は型番が**S01SH2**（エス ぜろいち エスエイチ ツー）となる。
+**EM・ONE**（エムワン）は、2007年3月31日に提供開始された[イー・モバイル](../Page/イー・モバイル.md "wikilink")の無線通信サービス向けに供給される[携帯情報端末](../Page/携帯情報端末.md "wikilink") (PDA) である。EM・ONEは愛称であり、製品としての型番は**S01SH**（エス ぜろいち エスエイチ） 、後継にあたる**EM・ONE α**（エムワン アルファ）は型番が**S01SH2**（エス ぜろいち エスエイチ ツー）となる。
 
 ## 概要
 
-[イー・モバイル](https://ja.wikipedia.org/wiki/イー・モバイル "wikilink")としては初の製品である。同社と[シャープ](../Page/シャープ.md "wikilink")・[マイクロソフト](../Page/マイクロソフト.md "wikilink")の3社による共同開発。通話機能そのものは搭載していないが、skypeなどを通じて無料の通話は可能。
+[イー・モバイル](../Page/イー・モバイル.md "wikilink")としては初の製品である。同社と[シャープ](../Page/シャープ.md "wikilink")・[マイクロソフト](../Page/マイクロソフト.md "wikilink")の3社による共同開発。通話機能そのものは搭載していないが、skypeなどを通じて無料の通話は可能。
 
 （キャリアであるイー・モバイルによる通話向き製品はその後2008年3月に登場している）
 
-端末単体、及び[USBケーブルか](../Page/ユニバーサル・シリアル・バス.md "wikilink")[Bluetooth](https://ja.wikipedia.org/wiki/Bluetooth "wikilink")を介して[パソコン等に接続しての](../Page/パーソナルコンピュータ.md "wikilink")[データ通信](https://ja.wikipedia.org/wiki/データ通信 "wikilink")サービスを享受できる。データ通信方式は最大速度3.6Mbpsの[HSDPA](https://ja.wikipedia.org/wiki/HSDPA "wikilink")の他、IEEE 802.11b/gの[無線LAN](../Page/無線LAN.md "wikilink")にも対応。
+端末単体、及び[USBケーブルか](../Page/ユニバーサル・シリアル・バス.md "wikilink")[Bluetooth](../Page/Bluetooth.md "wikilink")を介して[パソコン等に接続しての](../Page/パーソナルコンピュータ.md "wikilink")[データ通信](../Page/データ通信.md "wikilink")サービスを享受できる。データ通信方式は最大速度3.6Mbpsの[HSDPA](https://ja.wikipedia.org/wiki/HSDPA "wikilink")の他、IEEE 802.11b/gの[無線LAN](../Page/無線LAN.md "wikilink")にも対応。
 
-[OSに](../Page/オペレーティングシステム.md "wikilink")[Windows Mobile 5.0を搭載](https://ja.wikipedia.org/wiki/Windows_Mobile "wikilink")。シャープの会長の依頼によって作成されたともいわれる特製版である \[1\]。
+[OSに](../Page/オペレーティングシステム.md "wikilink")[Windows Mobile 5.0を搭載](../Page/Windows_Mobile.md "wikilink")。シャープの会長の依頼によって作成されたともいわれる特製版である \[1\]。
 
-[ワンセグ](https://ja.wikipedia.org/wiki/ワンセグ "wikilink")によるテレビ視聴も可能。
+[ワンセグ](../Page/ワンセグ.md "wikilink")によるテレビ視聴も可能。
 
-2007年10月5日、**EM・ONE α**（エムワン･アルファ）が発売された。OSは[Windows Mobile 6.0になった](https://ja.wikipedia.org/wiki/Windows_Mobile "wikilink")。
+2007年10月5日、**EM・ONE α**（エムワン･アルファ）が発売された。OSは[Windows Mobile 6.0になった](../Page/Windows_Mobile.md "wikilink")。
 
 ## 機種一覧
 
@@ -36,7 +36,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/EM・ONE" title="wikilink">EM・ONE</a> (S01SH)</p></td>
+<td><p><a href="../Page/EM・ONE.md" title="wikilink">EM・ONE</a> (S01SH)</p></td>
 <td><p>2007年3月31日</p></td>
 <td><p>ASV液晶<br />
 4.1インチ<br />
@@ -76,7 +76,7 @@ QWERTYキーボード<br />
   - キャッチコピー
     「イー・モバイルで[ユビキタス](https://ja.wikipedia.org/wiki/ユビキタス "wikilink")」「指、来たっスね」
   - ベースメロディ
-    「[きらきら星](https://ja.wikipedia.org/wiki/きらきら星 "wikilink")」
+    「[きらきら星](../Page/きらきら星.md "wikilink")」
 
 ## 脚注
 
@@ -86,7 +86,7 @@ QWERTYキーボード<br />
 
 ## 関連項目
 
-  - [Pocket PC](https://ja.wikipedia.org/wiki/Pocket_PC "wikilink")
+  - [Pocket PC](../Page/Pocket_PC.md "wikilink")
   - [スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")
   - [EMONSTER](https://ja.wikipedia.org/wiki/EMONSTER "wikilink")
   - [シャープ製のスマートフォン](https://ja.wikipedia.org/wiki/シャープ製のスマートフォン "wikilink")

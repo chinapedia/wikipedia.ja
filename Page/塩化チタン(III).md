@@ -1,11 +1,11 @@
 > この記事は[\(III\)](https://ja.wikipedia.org/wiki/\(III\))から翻訳されています。
 
 
-**塩化チタン(III)**（えんかチタン さん、titanium(III) chloride）は化学式 TiCl<sub>3</sub> で表される化合物である。**三塩化チタン**とも呼ばれる。[水和物](https://ja.wikipedia.org/wiki/水和物 "wikilink")も単に塩化チタン(III) と呼ばれることが多い。3種類知られる[チタン](../Page/チタン.md "wikilink")の[塩化物](https://ja.wikipedia.org/wiki/塩化物 "wikilink")のうち、最も一般的なものである。[ポリオレフィン](../Page/ポリオレフィン.md "wikilink")の製造において重要な[触媒](../Page/触媒.md "wikilink")である。毒物及び劇物取締法により劇物に指定されている\[1\]。
+**塩化チタン(III)**（えんかチタン さん、titanium(III) chloride）は化学式 TiCl<sub>3</sub> で表される化合物である。**三塩化チタン**とも呼ばれる。[水和物](../Page/水和物.md "wikilink")も単に塩化チタン(III) と呼ばれることが多い。3種類知られる[チタン](../Page/チタン.md "wikilink")の[塩化物](../Page/塩化物.md "wikilink")のうち、最も一般的なものである。[ポリオレフィン](../Page/ポリオレフィン.md "wikilink")の製造において重要な[触媒](../Page/触媒.md "wikilink")である。毒物及び劇物取締法により劇物に指定されている\[1\]。
 
 ## 電子配置
 
-塩化チタン(III) 中のチタン原子は1個の[d電子](https://ja.wikipedia.org/wiki/d電子 "wikilink")を持つため[常磁性](../Page/常磁性.md "wikilink")を示す。すなわち、この化合物は[磁石](../Page/磁石.md "wikilink")に引き寄せられる。一方、同族元素類縁体である塩化ハフニウム(III) と[塩化ジルコニウム(III)](https://ja.wikipedia.org/wiki/塩化ジルコニウム\(III\) "wikilink") は[反磁性](https://ja.wikipedia.org/wiki/反磁性 "wikilink")（磁石に反発する性質）を持つ。それらの重金属は金属−金属結合を形成するのに対し、チタン(III) イオンは普通そのような性質を持たないため、このような違いが現れる。
+塩化チタン(III) 中のチタン原子は1個の[d電子](https://ja.wikipedia.org/wiki/d電子 "wikilink")を持つため[常磁性](../Page/常磁性.md "wikilink")を示す。すなわち、この化合物は[磁石](../Page/磁石.md "wikilink")に引き寄せられる。一方、同族元素類縁体である塩化ハフニウム(III) と[塩化ジルコニウム(III)](https://ja.wikipedia.org/wiki/塩化ジルコニウム\(III\) "wikilink") は[反磁性](../Page/反磁性.md "wikilink")（磁石に反発する性質）を持つ。それらの重金属は金属−金属結合を形成するのに対し、チタン(III) イオンは普通そのような性質を持たないため、このような違いが現れる。
 
 溶液中ではd電子の遷移によって紫色を示すが、禁制遷移であるため色は薄い。
 
@@ -23,15 +23,15 @@
 
 ### 複塩
 
-[塩化セシウム](https://ja.wikipedia.org/wiki/塩化セシウム "wikilink")と塩化チタン(III) を[ヘキサクロロベンゼン](https://ja.wikipedia.org/wiki/ヘキサクロロベンゼン "wikilink")中で混合すると、結晶性の[複塩](https://ja.wikipedia.org/wiki/複塩 "wikilink") CsTi<sub>2</sub>Cl<sub>7</sub> が得られる。この塩は CsCl と TiCl<sub>3</sub> を 1:2 の比で含む。CsCl<sub>3</sub> (A) と Cl<sub>4</sub> (B) の単位がABACの形で重なった構造を持ち、Ti<sup>3+</sup> (C) は八面体型の空洞に1周期の4分の1ごとに配置されている\[3\]。
+[塩化セシウム](https://ja.wikipedia.org/wiki/塩化セシウム "wikilink")と塩化チタン(III) を[ヘキサクロロベンゼン](../Page/ヘキサクロロベンゼン.md "wikilink")中で混合すると、結晶性の[複塩](https://ja.wikipedia.org/wiki/複塩 "wikilink") CsTi<sub>2</sub>Cl<sub>7</sub> が得られる。この塩は CsCl と TiCl<sub>3</sub> を 1:2 の比で含む。CsCl<sub>3</sub> (A) と Cl<sub>4</sub> (B) の単位がABACの形で重なった構造を持ち、Ti<sup>3+</sup> (C) は八面体型の空洞に1周期の4分の1ごとに配置されている\[3\]。
 
 ## 合成と取り扱い
 
-塩化チタン(IV) を還元することによって得られ、これは通常、電気化学反応によって行われる。[塩化アルミニウム](https://ja.wikipedia.org/wiki/塩化アルミニウム "wikilink")との混合物として市販されており、[テトラヒドロフラン](https://ja.wikipedia.org/wiki/テトラヒドロフラン "wikilink")を加えることによって、錯体 TiCl<sub>3</sub>(thf)<sub>3</sub> として単離することができる\[4\]。
+塩化チタン(IV) を還元することによって得られ、これは通常、電気化学反応によって行われる。[塩化アルミニウム](../Page/塩化アルミニウム.md "wikilink")との混合物として市販されており、[テトラヒドロフラン](../Page/テトラヒドロフラン.md "wikilink")を加えることによって、錯体 TiCl<sub>3</sub>(thf)<sub>3</sub> として単離することができる\[4\]。
 
 チタンを含む鉱石を分析する方法のひとつとして、Ti<sup>3+</sup> の形にして行うものが知られる。すなわち、酸で溶かして Ti<sup>4+</sup> を含む溶液を得たあと、[亜鉛アマルガム](../Page/アマルガム.md "wikilink")（ジョーンズ還元剤）で還元し、Ti<sup>3+</sup> とする。生成した溶液を酸化還元滴定で分析する\[5\]。
 
-塩化チタン(III) や追加の配位子を含んだ錯体は、空気中の酸素による酸化を避けるため、不活性ガスの雰囲気下で取り扱う。空気にさらした塩化チタン(III) を使って還元的[カップリング反応](https://ja.wikipedia.org/wiki/カップリング反応 "wikilink")などを行うと、思わしくない結果が得られることが多い\[6\]。
+塩化チタン(III) や追加の配位子を含んだ錯体は、空気中の酸素による酸化を避けるため、不活性ガスの雰囲気下で取り扱う。空気にさらした塩化チタン(III) を使って還元的[カップリング反応](../Page/カップリング反応.md "wikilink")などを行うと、思わしくない結果が得られることが多い\[6\]。
 
 ## 反応
 
@@ -47,7 +47,7 @@
   -
     <ce>TiCl3\\ + 3 Me2NH -\> TiCl3(NHMe2)3\\ + CH3Cl</ce>
 
-[アセチルアセトン](https://ja.wikipedia.org/wiki/アセチルアセトン "wikilink")と反応させると、トリス（アセチルアセトナト）錯体を与える。
+[アセチルアセトン](../Page/アセチルアセトン.md "wikilink")と反応させると、トリス（アセチルアセトナト）錯体を与える。
 
   -
     <ce>TiCl3\\ + 3 NH4(acac) -\> Ti(acac)3\\ + 3 NH4Cl</ce>
@@ -64,7 +64,7 @@
 
 ## 関連項目
 
-  - [マクマリー反応](https://ja.wikipedia.org/wiki/マクマリー反応 "wikilink")
+  - [マクマリー反応](../Page/マクマリー反応.md "wikilink")
 
 [Category:無機化合物](https://ja.wikipedia.org/wiki/Category:無機化合物 "wikilink") [Category:塩化物](https://ja.wikipedia.org/wiki/Category:塩化物 "wikilink") [Category:チタンの化合物](https://ja.wikipedia.org/wiki/Category:チタンの化合物 "wikilink") [Category:劇物](https://ja.wikipedia.org/wiki/Category:劇物 "wikilink")
 

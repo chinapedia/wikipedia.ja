@@ -1,7 +1,7 @@
 > この記事は[Mimomemo the memorable songs of mimori yusa](https://ja.wikipedia.org/wiki/Mimomemo_the_memorable_songs_of_mimori_yusa)から翻訳されています。
 
 
-『**mimomemo the memorable songs of mimori yusa**』（ミモメモ 遊佐未森メモラブルソングズ）は[遊佐未森](../Page/遊佐未森.md "wikilink")の2枚目となる[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月1日](../Page/3月1日.md "wikilink")に[エピックソニー](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink") から発売された。
+『**mimomemo the memorable songs of mimori yusa**』（ミモメモ 遊佐未森メモラブルソングズ）は[遊佐未森](../Page/遊佐未森.md "wikilink")の2枚目となる[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月1日](../Page/3月1日.md "wikilink")に[エピックソニー](../Page/エピックレコードジャパン.md "wikilink") から発売された。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 ## 収録曲
 
-1.  **山行きバス［道草ノススメ］**（作詞：[工藤順子](https://ja.wikipedia.org/wiki/工藤順子 "wikilink")　作曲：[外間隆史](https://ja.wikipedia.org/wiki/外間隆史 "wikilink")）
+1.  **山行きバス［道草ノススメ］**（作詞：[工藤順子](../Page/工藤順子.md "wikilink")　作曲：[外間隆史](../Page/外間隆史.md "wikilink")）
       -
         アルバム『[ハルモニオデオン](../Page/ハルモニオデオン.md "wikilink")』より
 2.  **森とさかな**（作詞：工藤順子　作曲：遊佐未森）
@@ -51,7 +51,7 @@
 14. **潮見表**（作詞：遊佐未森　作曲：遊佐未森）
       -
         アルバム『roka』より、ただしイントロのS.E.はカット
-15. **[Silent Bells](https://ja.wikipedia.org/wiki/Silent_Bells "wikilink")**（作詞：[古賀森男](https://ja.wikipedia.org/wiki/古賀森男 "wikilink")＋遊佐未森　作曲：古賀森男＋遊佐未森）
+15. **[Silent Bells](https://ja.wikipedia.org/wiki/Silent_Bells "wikilink")**（作詞：[古賀森男](../Page/古賀森男.md "wikilink")＋遊佐未森　作曲：古賀森男＋遊佐未森）
       -
         シングル曲、アルバム未収録、ただしイントロのピアノはカット
 
@@ -77,6 +77,6 @@
 
 ## 関連項目
 
-  - [1998年の音楽](https://ja.wikipedia.org/wiki/1998年の音楽 "wikilink")
+  - [1998年の音楽](../Page/1998年の音楽.md "wikilink")
 
 [Category:遊佐未森のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:遊佐未森のベスト・アルバム "wikilink") [Category:1998年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:1998年のベスト・アルバム "wikilink") [Category:EPICソニーのアルバム](https://ja.wikipedia.org/wiki/Category:EPICソニーのアルバム "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")

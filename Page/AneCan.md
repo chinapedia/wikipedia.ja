@@ -1,13 +1,13 @@
 > この記事は[AneCan](https://ja.wikipedia.org/wiki/AneCan)から翻訳されています。
 
 
-**AneCan**（**姉キャン**、アネキャン）は、[小学館](../Page/小学館.md "wikilink")発行の[月刊](https://ja.wikipedia.org/wiki/月刊 "wikilink")[女性](../Page/女性.md "wikilink")[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")である。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[3月7日](../Page/3月7日.md "wikilink")に創刊して[2016年](../Page/2016年.md "wikilink")[11月7日](../Page/11月7日.md "wikilink")発売の12月号で休刊した\[1\]。雑誌名は「お姉さん系CanCam」の略称で、「[CanCam](https://ja.wikipedia.org/wiki/CanCam "wikilink")」の姉妹誌と位置付けられている。
+**AneCan**（**姉キャン**、アネキャン）は、[小学館](../Page/小学館.md "wikilink")発行の[月刊](https://ja.wikipedia.org/wiki/月刊 "wikilink")[女性](../Page/女性.md "wikilink")[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")である。[2007年](../Page/2007年.md "wikilink")[3月7日](../Page/3月7日.md "wikilink")に創刊して[2016年](../Page/2016年.md "wikilink")[11月7日](../Page/11月7日.md "wikilink")発売の12月号で休刊した\[1\]。雑誌名は「お姉さん系CanCam」の略称で、「[CanCam](../Page/CanCam.md "wikilink")」の姉妹誌と位置付けられている。
 
 ## 概要
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")の春季と秋季に「CanCam」の新たな試みとして、10代後半から20代前半に「CanCam」に親しんだ20代後半から30代の子供がいない女性\[2\]を主な訴求層に[パイロット版](../Page/パイロット版.md "wikilink")として「**お姉さん系CanCam**」が刊行され、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")3月7日から[月刊誌](https://ja.wikipedia.org/wiki/月刊誌 "wikilink")として創刊された。
+[2006年](../Page/2006年.md "wikilink")の春季と秋季に「CanCam」の新たな試みとして、10代後半から20代前半に「CanCam」に親しんだ20代後半から30代の子供がいない女性\[2\]を主な訴求層に[パイロット版](../Page/パイロット版.md "wikilink")として「**お姉さん系CanCam**」が刊行され、[2007年](../Page/2007年.md "wikilink")3月7日から[月刊誌](https://ja.wikipedia.org/wiki/月刊誌 "wikilink")として創刊された。
 
-[専属モデル](https://ja.wikipedia.org/wiki/専属モデル "wikilink")は10人で他はあまり起用されず、若手モデルにとって憧憬の存在となっている。[蛯原友里](https://ja.wikipedia.org/wiki/蛯原友里 "wikilink")、[押切もえ](https://ja.wikipedia.org/wiki/押切もえ "wikilink")、[高垣麗子](https://ja.wikipedia.org/wiki/高垣麗子 "wikilink")の3人はトップ3と称されて三人で表紙を飾った号も複数ある。専属モデルが一度に集まることは少ないが[2013年](../Page/2013年.md "wikilink")10月号で全員が集合したショットが掲載された。[2014年](../Page/2014年.md "wikilink")2月号で[岡田准一](https://ja.wikipedia.org/wiki/岡田准一 "wikilink")が男性として初めて表紙を飾った（蛯原とのカップリングカバー）。
+[専属モデル](https://ja.wikipedia.org/wiki/専属モデル "wikilink")は10人で他はあまり起用されず、若手モデルにとって憧憬の存在となっている。[蛯原友里](https://ja.wikipedia.org/wiki/蛯原友里 "wikilink")、[押切もえ](https://ja.wikipedia.org/wiki/押切もえ "wikilink")、[高垣麗子](../Page/高垣麗子.md "wikilink")の3人はトップ3と称されて三人で表紙を飾った号も複数ある。専属モデルが一度に集まることは少ないが[2013年](../Page/2013年.md "wikilink")10月号で全員が集合したショットが掲載された。[2014年](../Page/2014年.md "wikilink")2月号で[岡田准一](../Page/岡田准一.md "wikilink")が男性として初めて表紙を飾った（蛯原とのカップリングカバー）。
 
 小学館では対象年齢が近接するものとして「[Oggi](https://ja.wikipedia.org/wiki/Oggi "wikilink")」「[Domani](https://ja.wikipedia.org/wiki/Domani_\(雑誌\) "wikilink")」を発行しているが、「AneCan」はカジュアルなコーディネートを多く取り上げている。1冊の分量はおおよそ250 - 500ページと月によって大きな開きがある。「CanCam」と同じく、ほぼ全面がフルカラー印刷である。2016年12月号（11月7日発売）をもって休刊となり、同誌のウェブサイト『AneCan.tv』も2017年10月31日に閉鎖した\[3\]。
 
@@ -31,7 +31,7 @@
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/押切もえ" title="wikilink">押切もえ</a></strong></p></td>
 <td></td>
 <td><p>A</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/千葉県" title="wikilink">千葉県</a></p></td>
+<td><p><a href="../Page/千葉県.md" title="wikilink">千葉県</a></p></td>
 <td><p>T169 B82 W56 H84</p></td>
 <td><p>2009年1月号</p></td>
 <td><p>Oshikiri Be-Do!<br />
@@ -50,7 +50,7 @@ SALON de MOE</p></td>
 <td><p><a href="http://www.anecan.tv/model/miki.html">2</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/森絵里香" title="wikilink">森絵里香</a></strong></p></td>
+<td><p><strong><a href="../Page/森絵里香.md" title="wikilink">森絵里香</a></strong></p></td>
 <td></td>
 <td><p>O</p></td>
 <td><p><a href="../Page/静岡県.md" title="wikilink">静岡県</a></p></td>
@@ -60,7 +60,7 @@ SALON de MOE</p></td>
 <td><p><a href="http://www.anecan.tv/model/erika.html">3</a></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/葛岡碧" title="wikilink">葛岡碧</a></strong></p></td>
+<td><p><strong><a href="../Page/葛岡碧.md" title="wikilink">葛岡碧</a></strong></p></td>
 <td></td>
 <td><p>O</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/宮城県" title="wikilink">宮城県</a></p></td>
@@ -70,7 +70,7 @@ SALON de MOE</p></td>
 <td><p><a href="http://www.anecan.tv/model/midori.html">4</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/近藤しづか" title="wikilink">近藤しづか</a></strong></p></td>
+<td><p><strong><a href="../Page/近藤しづか.md" title="wikilink">近藤しづか</a></strong></p></td>
 <td></td>
 <td><p>A</p></td>
 <td><p>千葉県</p></td>
@@ -90,7 +90,7 @@ SALON de MOE</p></td>
 <td><p><a href="http://www.anecan.tv/model/mew.html">6</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/大石参月" title="wikilink">大石参月</a></strong></p></td>
+<td><p><strong><a href="../Page/大石参月.md" title="wikilink">大石参月</a></strong></p></td>
 <td></td>
 <td><p>AB</p></td>
 <td><p>静岡県</p></td>
@@ -142,7 +142,7 @@ SALON de MOE</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/磯山さやか" title="wikilink">磯山さやか</a></strong></p></td>
 <td></td>
 <td><p>A</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/茨城県" title="wikilink">茨城県</a></p></td>
+<td><p><a href="../Page/茨城県.md" title="wikilink">茨城県</a></p></td>
 <td><p>T155 B88 W60 H86</p></td>
 <td><p>2015年1月号</p></td>
 <td><p>-</p></td>
@@ -185,21 +185,21 @@ SALON de MOE</p></td>
 ### スポンサー企業のタイアップ
 
   - [RMK](https://ja.wikipedia.org/wiki/RMK "wikilink")
-  - [ケイト・スペード](https://ja.wikipedia.org/wiki/ケイト・スペード "wikilink")
+  - [ケイト・スペード](../Page/ケイト・スペード.md "wikilink")
   - [STRAWBERRY-FIELDS](https://ja.wikipedia.org/wiki/STRAWBERRY-FIELDS "wikilink")
 
 ### 過去の専属モデル
 
-  - [堀内葉子](https://ja.wikipedia.org/wiki/堀内葉子 "wikilink")（創刊号 - 2008年3月号）
+  - [堀内葉子](../Page/堀内葉子.md "wikilink")（創刊号 - 2008年3月号）
   - [臼田あさ美](https://ja.wikipedia.org/wiki/臼田あさ美 "wikilink")（創刊号 - 2008年12月号）
-  - [大桑マイミ](https://ja.wikipedia.org/wiki/大桑マイミ "wikilink")（創刊号 - 2009年5月号）
-  - [澤野ひとみ](https://ja.wikipedia.org/wiki/澤野ひとみ "wikilink")（創刊号 - 2011年3月号）
+  - [大桑マイミ](../Page/大桑マイミ.md "wikilink")（創刊号 - 2009年5月号）
+  - [澤野ひとみ](../Page/澤野ひとみ.md "wikilink")（創刊号 - 2011年3月号）
   - [alan](https://ja.wikipedia.org/wiki/alan "wikilink")（2009年6月号 - 2011年10月号）
-  - [熊澤枝里子](https://ja.wikipedia.org/wiki/熊澤枝里子 "wikilink")（2008年6月号 - 2013年）
-  - [真山景子](https://ja.wikipedia.org/wiki/真山景子 "wikilink")（創刊号 - 2014年4月号）
-  - [鈴木サチ](https://ja.wikipedia.org/wiki/鈴木サチ "wikilink")（創刊号 - 2014年10月号）
+  - [熊澤枝里子](../Page/熊澤枝里子.md "wikilink")（2008年6月号 - 2013年）
+  - [真山景子](../Page/真山景子.md "wikilink")（創刊号 - 2014年4月号）
+  - [鈴木サチ](../Page/鈴木サチ.md "wikilink")（創刊号 - 2014年10月号）
   - [蛯原友里](https://ja.wikipedia.org/wiki/蛯原友里 "wikilink")（2009年1月号 - 2016年6月号）
-  - [高垣麗子](https://ja.wikipedia.org/wiki/高垣麗子 "wikilink")（2008年2月号 - 2016年7月号）
+  - [高垣麗子](../Page/高垣麗子.md "wikilink")（2008年2月号 - 2016年7月号）
 
 ## 脚注
 

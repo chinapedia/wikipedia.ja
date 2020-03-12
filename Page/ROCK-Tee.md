@@ -1,11 +1,11 @@
 > この記事は[ROCK-Tee](https://ja.wikipedia.org/wiki/ROCK-Tee)から翻訳されています。
 
 
-**ROCK-Tee**（ロック ティー、本名：**角田 頼泰**、[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[12月8日](../Page/12月8日.md "wikilink") - ） 日本の[ヒップホップ](../Page/ヒップホップ.md "wikilink")ユニット[EAST ENDのメンバーで](../Page/EAST_END.md "wikilink")[DJを担当](https://ja.wikipedia.org/wiki/ディスクジョッキー "wikilink")。[FUNKY GRAMMAR UNIT所属](https://ja.wikipedia.org/wiki/FUNKY_GRAMMAR_UNIT "wikilink")。[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")出身。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。**ROCK-T**と表記していた頃もある。
+**ROCK-Tee**（ロック ティー、本名：**角田 頼泰**、[1970年](../Page/1970年.md "wikilink")[12月8日](../Page/12月8日.md "wikilink") - ） 日本の[ヒップホップ](../Page/ヒップホップ.md "wikilink")ユニット[EAST ENDのメンバーで](../Page/EAST_END.md "wikilink")[DJを担当](../Page/ディスクジョッキー.md "wikilink")。[FUNKY GRAMMAR UNIT所属](../Page/FUNKY_GRAMMAR_UNIT.md "wikilink")。[東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")出身。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。**ROCK-T**と表記していた頃もある。
 
 ## 来歴
 
-[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")、[GAKU-MC](https://ja.wikipedia.org/wiki/GAKU-MC "wikilink")、[YOGGY](https://ja.wikipedia.org/wiki/YOGGY "wikilink")と共に[EAST END結成](../Page/EAST_END.md "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")2月、方向性の違いによりEAST ENDを脱退。同年秋、原宿にショップ「CRIB」をオープンする。かつては、[RIP SLYMEの](https://ja.wikipedia.org/wiki/RIP_SLYME "wikilink")[PES](https://ja.wikipedia.org/wiki/PES "wikilink")、[KICK THE CAN CREWの](https://ja.wikipedia.org/wiki/KICK_THE_CAN_CREW "wikilink")[KREVA](https://ja.wikipedia.org/wiki/KREVA "wikilink")がバイトとして在籍していた。[2003年](../Page/2003年.md "wikilink")、EAST ENDに復帰し再始動。 EAST ENDに所属する以前には、「DEF BEAT CREW」というグループに在籍していた。元[RHYMESTER](https://ja.wikipedia.org/wiki/RHYMESTER "wikilink")の[Dr.LOOPER](https://ja.wikipedia.org/wiki/Dr.LOOPER "wikilink")とLR STEREOとして活動もしている。
+[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")、[GAKU-MC](../Page/GAKU-MC.md "wikilink")、[YOGGY](../Page/YOGGY.md "wikilink")と共に[EAST END結成](../Page/EAST_END.md "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")2月、方向性の違いによりEAST ENDを脱退。同年秋、原宿にショップ「CRIB」をオープンする。かつては、[RIP SLYMEの](../Page/RIP_SLYME.md "wikilink")[PES](../Page/PES.md "wikilink")、[KICK THE CAN CREWの](../Page/KICK_THE_CAN_CREW.md "wikilink")[KREVA](../Page/KREVA.md "wikilink")がバイトとして在籍していた。[2003年](../Page/2003年.md "wikilink")、EAST ENDに復帰し再始動。 EAST ENDに所属する以前には、「DEF BEAT CREW」というグループに在籍していた。元[RHYMESTER](../Page/RHYMESTER.md "wikilink")の[Dr.LOOPER](https://ja.wikipedia.org/wiki/Dr.LOOPER "wikilink")とLR STEREOとして活動もしている。
 
 ## ディスコグラフィ
 
@@ -18,7 +18,7 @@ EAST ENDの作品を除く
 
 ### リミックス
 
-  - [RHYMESTER](https://ja.wikipedia.org/wiki/RHYMESTER "wikilink"),「リスペクト改」（2000年2月26日）
+  - [RHYMESTER](../Page/RHYMESTER.md "wikilink"),「リスペクト改」（2000年2月26日）
 
 <!-- end list -->
 
@@ -82,12 +82,12 @@ EAST ENDの作品を除く
 
 <!-- end list -->
 
-  - [KREVA](https://ja.wikipedia.org/wiki/KREVA "wikilink"),「[ファンキーグラマラス feat.Mummy-D(マボロシ/RHYMESTER)](https://ja.wikipedia.org/wiki/ファンキーグラマラス_feat.Mummy-D\(マボロシ/RHYMESTER\) "wikilink")」（2005年1月13日）
+  - [KREVA](../Page/KREVA.md "wikilink"),「[ファンキーグラマラス feat.Mummy-D(マボロシ/RHYMESTER)](https://ja.wikipedia.org/wiki/ファンキーグラマラス_feat.Mummy-D\(マボロシ/RHYMESTER\) "wikilink")」（2005年1月13日）
 
 <!-- end list -->
 
   -
-    ファンキーグラマラス feat.[Mummy-D](https://ja.wikipedia.org/wiki/Mummy-D "wikilink")\<ROCK-Tee's Funk-Tank Freak Show Remix\>
+    ファンキーグラマラス feat.[Mummy-D](../Page/Mummy-D.md "wikilink")\<ROCK-Tee's Funk-Tank Freak Show Remix\>
 
 <!-- end list -->
 
@@ -100,7 +100,7 @@ EAST ENDの作品を除く
 
 <!-- end list -->
 
-  - [瘋癲](https://ja.wikipedia.org/wiki/瘋癲_\(バンド\) "wikilink"),「FREE」（2009年4月25日）
+  - [瘋癲](../Page/瘋癲_\(バンド\).md "wikilink"),「FREE」（2009年4月25日）
 
 <!-- end list -->
 
@@ -114,11 +114,11 @@ EAST ENDの作品を除く
 <!-- end list -->
 
   -
-    天邪鬼(ROCK TEE featuring [KIN](https://ja.wikipedia.org/wiki/KIN "wikilink"),[PES](https://ja.wikipedia.org/wiki/PES "wikilink")SY)
+    天邪鬼(ROCK TEE featuring [KIN](../Page/KIN.md "wikilink"),[PES](../Page/PES.md "wikilink")SY)
 
 <!-- end list -->
 
-  - [RIP SLYME](https://ja.wikipedia.org/wiki/RIP_SLYME "wikilink"),『Talkin'Cheap』（1998年2月21日）
+  - [RIP SLYME](../Page/RIP_SLYME.md "wikilink"),『Talkin'Cheap』（1998年2月21日）
 
 <!-- end list -->
 
@@ -132,7 +132,7 @@ EAST ENDの作品を除く
 <!-- end list -->
 
   -
-    例のヤツ / [INNOSENCE](https://ja.wikipedia.org/wiki/INNOSENCE "wikilink"),BUTCHER
+    例のヤツ / [INNOSENCE](../Page/INNOSENCE.md "wikilink"),BUTCHER
     往来蝶 / [三善/善三](https://ja.wikipedia.org/wiki/三善/善三 "wikilink"),MINE神-HOLD
 
 <!-- end list -->
@@ -164,7 +164,7 @@ EAST ENDの作品を除く
 
 <!-- end list -->
 
-  - [童子-T](https://ja.wikipedia.org/wiki/童子-T "wikilink"),『童夢』（2005年2月23日）
+  - [童子-T](../Page/童子-T.md "wikilink"),『童夢』（2005年2月23日）
 
 <!-- end list -->
 
@@ -173,7 +173,7 @@ EAST ENDの作品を除く
 
 <!-- end list -->
 
-  - [LITTLE](https://ja.wikipedia.org/wiki/LITTLE "wikilink"),「はつ恋の〜What's Going On〜 feat.[トータス松本](../Page/トータス松本.md "wikilink")」（2005年5月18日）,『[LIFE](../Page/LIFE_\(LITTLEのアルバム\).md "wikilink")』 （2005年6月22日）
+  - [LITTLE](../Page/LITTLE.md "wikilink"),「はつ恋の〜What's Going On〜 feat.[トータス松本](../Page/トータス松本.md "wikilink")」（2005年5月18日）,『[LIFE](../Page/LIFE_\(LITTLEのアルバム\).md "wikilink")』 （2005年6月22日）
 
 <!-- end list -->
 
@@ -182,7 +182,7 @@ EAST ENDの作品を除く
 
 <!-- end list -->
 
-  - [BY PHAR THE DOPEST](https://ja.wikipedia.org/wiki/BY_PHAR_THE_DOPEST "wikilink"),「恥じゃない」（2006年12月6日）
+  - [BY PHAR THE DOPEST](../Page/BY_PHAR_THE_DOPEST.md "wikilink"),「恥じゃない」（2006年12月6日）
 
 <!-- end list -->
 
@@ -191,7 +191,7 @@ EAST ENDの作品を除く
 
 <!-- end list -->
 
-  - 童子-T,『[ONE MIC](https://ja.wikipedia.org/wiki/ONE_MIC "wikilink")』（[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[8月29日](../Page/8月29日.md "wikilink")）
+  - 童子-T,『[ONE MIC](../Page/ONE_MIC.md "wikilink")』（[2007年](../Page/2007年.md "wikilink")[8月29日](../Page/8月29日.md "wikilink")）
 
 <!-- end list -->
 

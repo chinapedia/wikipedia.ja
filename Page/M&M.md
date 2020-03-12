@@ -1,18 +1,18 @@
 > この記事は[M\&M](https://ja.wikipedia.org/wiki/M\&M)から翻訳されています。
 
 
-**M\&M**は、日本の[イラストレーター](../Page/イラストレーター.md "wikilink")、[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")の[原画家](https://ja.wikipedia.org/wiki/原画家 "wikilink")。**ミッキー**（塗り担当）と**マッキー**（原画担当）の二人組。共に[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")出身。株式会社アルカディアワークス所属。
+**M\&M**は、日本の[イラストレーター](../Page/イラストレーター.md "wikilink")、[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")の[原画家](https://ja.wikipedia.org/wiki/原画家 "wikilink")。**ミッキー**（塗り担当）と**マッキー**（原画担当）の二人組。共に[大阪府](../Page/大阪府.md "wikilink")出身。株式会社アルカディアワークス所属。
 
 ## 略歴
 
   - 以前は、**E.T**（プログラム担当）と**ODE**（シナリオ担当）を合わせた4人でサークル「M\&M」として同人活動もしていた。
-  - [choco chipと共に](https://ja.wikipedia.org/wiki/choco_chip "wikilink")[アトリエかぐや](https://ja.wikipedia.org/wiki/アトリエかぐや "wikilink")の2大看板原画家として知られており、[2001年](../Page/2001年.md "wikilink")から[2011年](../Page/2011年.md "wikilink")までTEAM HEARTBEAT作品の原画を担当していたが、2011年に同社の企画担当にあった桐生タツヒコが独立してアルカディアワークスで新ブランド「[アストロノーツ](https://ja.wikipedia.org/wiki/アストロノーツ_\(ブランド\) "wikilink")」を立ち上げると、同社へ移籍した。
+  - [choco chipと共に](https://ja.wikipedia.org/wiki/choco_chip "wikilink")[アトリエかぐや](../Page/アトリエかぐや.md "wikilink")の2大看板原画家として知られており、[2001年](../Page/2001年.md "wikilink")から[2011年](../Page/2011年.md "wikilink")までTEAM HEARTBEAT作品の原画を担当していたが、2011年に同社の企画担当にあった桐生タツヒコが独立してアルカディアワークスで新ブランド「[アストロノーツ](https://ja.wikipedia.org/wiki/アストロノーツ_\(ブランド\) "wikilink")」を立ち上げると、同社へ移籍した。
 
 ## 作品
 
 ### イラスト
 
-  - [メンズヤング](https://ja.wikipedia.org/wiki/メンズヤング "wikilink")（[双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink")） 表紙 2004年10月号～2006年2月号
+  - [メンズヤング](../Page/メンズヤング.md "wikilink")（[双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink")） 表紙 2004年10月号～2006年2月号
 
 ### 原画
 
@@ -21,13 +21,13 @@
   - [女教師](https://ja.wikipedia.org/wiki/女教師_\(ゲーム\) "wikilink")
       - 女教師 DVD EDITION
   - [人形の館 〜淫夢に抱かれたメイドたち〜](https://ja.wikipedia.org/wiki/人形の館_〜淫夢に抱かれたメイドたち〜 "wikilink")
-  - [人妻コスプレ喫茶](https://ja.wikipedia.org/wiki/人妻コスプレ喫茶 "wikilink")
+  - [人妻コスプレ喫茶](../Page/人妻コスプレ喫茶.md "wikilink")
   - [最終痴漢電車2](https://ja.wikipedia.org/wiki/最終痴漢電車2 "wikilink")
   - [瀬里奈](../Page/瀬里奈_\(ゲーム\).md "wikilink")
   - [マジカルウィッチアカデミー ～ボクと先生のマジカルレッスン～](https://ja.wikipedia.org/wiki/マジカルウィッチアカデミー "wikilink")
   - [牝奴隷 〜犯された放課後〜](https://ja.wikipedia.org/wiki/牝奴隷_〜犯された放課後〜 "wikilink")
-  - [人妻コスプレ喫茶2](https://ja.wikipedia.org/wiki/人妻コスプレ喫茶2 "wikilink")
-  - [ダンジョンクルセイダーズ ～TALES OF DEMON EATER～](https://ja.wikipedia.org/wiki/ダンジョンクルセイダーズ "wikilink")
+  - [人妻コスプレ喫茶2](../Page/人妻コスプレ喫茶2.md "wikilink")
+  - [ダンジョンクルセイダーズ ～TALES OF DEMON EATER～](../Page/ダンジョンクルセイダーズ.md "wikilink")
   - [虜ノ姫 〜淫魔の調律〜](https://ja.wikipedia.org/wiki/虜ノ姫_〜淫魔の調律〜 "wikilink")
   - [夏神](https://ja.wikipedia.org/wiki/夏神 "wikilink")
   - [ダンジョンクルセイダーズ2 〜永劫の楽土〜](https://ja.wikipedia.org/wiki/ダンジョンクルセイダーズ2_〜永劫の楽土〜 "wikilink")
@@ -36,7 +36,7 @@
   - [最終痴漢電車3](https://ja.wikipedia.org/wiki/最終痴漢電車3 "wikilink")
   - [禁断の病棟 〜特殊精神科医 遊佐惣介の診察記録〜](https://ja.wikipedia.org/wiki/禁断の病棟_〜特殊精神科医_遊佐惣介の診察記録〜 "wikilink")
 
-以上全て[アトリエかぐや](https://ja.wikipedia.org/wiki/アトリエかぐや "wikilink")製作のアダルトゲーム。
+以上全て[アトリエかぐや](../Page/アトリエかぐや.md "wikilink")製作のアダルトゲーム。
 
   - [DEMONION 魔王の地下要塞](https://ja.wikipedia.org/wiki/DEMONION_魔王の地下要塞 "wikilink")（[アストロノーツ・シリウス](https://ja.wikipedia.org/wiki/アストロノーツ_\(ブランド\) "wikilink")）
   - [聖エステラ学院の七人の魔女](https://ja.wikipedia.org/wiki/聖エステラ学院の七人の魔女 "wikilink")（アストロノーツ・シリウス）

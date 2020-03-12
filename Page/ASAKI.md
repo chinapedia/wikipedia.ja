@@ -1,19 +1,19 @@
 > この記事は[ASAKI](https://ja.wikipedia.org/wiki/ASAKI)から翻訳されています。
 
 
-**ASAKI**（アサキ、12月13日 - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ギタリスト](../Page/ギタリスト.md "wikilink")、[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")。[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")[弘前市](../Page/弘前市.md "wikilink")出身。[血液型B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。自ら率いるAGE of PUNKの[ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")&[ギター](../Page/ギター.md "wikilink")の他、[GUNIW TOOLS](https://ja.wikipedia.org/wiki/GUNIW_TOOLS "wikilink")、[vez](https://ja.wikipedia.org/wiki/vez "wikilink")（ヴェズ）、ROLL-B DINOSAURのギタリストとしても活動中。
+**ASAKI**（アサキ、12月13日 - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ギタリスト](../Page/ギタリスト.md "wikilink")、[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")。[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")[弘前市](../Page/弘前市.md "wikilink")出身。[血液型B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。自ら率いるAGE of PUNKの[ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")&[ギター](../Page/ギター.md "wikilink")の他、[GUNIW TOOLS](../Page/GUNIW_TOOLS.md "wikilink")、[vez](https://ja.wikipedia.org/wiki/vez "wikilink")（ヴェズ）、ROLL-B DINOSAURのギタリストとしても活動中。
 
 ## 来歴
 
-  - 1994年、[GUNIW TOOLSに加入](https://ja.wikipedia.org/wiki/GUNIW_TOOLS "wikilink")。
+  - 1994年、[GUNIW TOOLSに加入](../Page/GUNIW_TOOLS.md "wikilink")。
   - 1996年、GUNIW TOOLSのギタリストとしてメジャーデビュー。
   - 2000年、GUNIW TOOLS活動休止。
   - 2001年、AGE of PUNKをソロプロジェクトとして立ち上げ（2012年にバンド化、後述）。
-  - 2002年、[BUGに加入](https://ja.wikipedia.org/wiki/BUG_\(バンド\) "wikilink")。
-  - 2012年3月、[vez](https://ja.wikipedia.org/wiki/vez "wikilink")（ヴェズ）を結成。メンバーは他に高木フトシ（[BAD SiX BABiES](https://ja.wikipedia.org/wiki/BAD_SiX_BABiES "wikilink"), ex.[THE HATE HONEY](https://ja.wikipedia.org/wiki/THE_HATE_HONEY "wikilink")）（Vo & Gt）、飯田成一（johnny loves brautigan, ex.[ZI:KILL](https://ja.wikipedia.org/wiki/ZI:KILL "wikilink"), [CRAZE](../Page/CRAZE.md "wikilink")）（Ba）、YANA（[ZEPPET STORE](https://ja.wikipedia.org/wiki/ZEPPET_STORE "wikilink"), [GHEEE](https://ja.wikipedia.org/wiki/GHEEE "wikilink"), NACANO）（Dr）。
+  - 2002年、[BUGに加入](../Page/BUG_\(バンド\).md "wikilink")。
+  - 2012年3月、[vez](https://ja.wikipedia.org/wiki/vez "wikilink")（ヴェズ）を結成。メンバーは他に高木フトシ（[BAD SiX BABiES](https://ja.wikipedia.org/wiki/BAD_SiX_BABiES "wikilink"), ex.[THE HATE HONEY](https://ja.wikipedia.org/wiki/THE_HATE_HONEY "wikilink")）（Vo & Gt）、飯田成一（johnny loves brautigan, ex.[ZI:KILL](../Page/ZI:KILL.md "wikilink"), [CRAZE](../Page/CRAZE.md "wikilink")）（Ba）、YANA（[ZEPPET STORE](../Page/ZEPPET_STORE.md "wikilink"), [GHEEE](../Page/GHEEE.md "wikilink"), NACANO）（Dr）。
   - 2012年12月、BUG活動休止。
   - 2014年8月、GUNIW TOOLS再始動。
-  - 2015年7月、ROLL-B DINOSAUR（ロール・ビー・ダイナソー）に加入。[織田哲郎](../Page/織田哲郎.md "wikilink")（Vo & Gt）が[ダイアモンド✡ユカイ](https://ja.wikipedia.org/wiki/ダイアモンド☆ユカイ "wikilink")（Vo）をヴォーカルに迎えて結成した新バンドで、メンバーは他にJOE（[FUZZY CONTROL](https://ja.wikipedia.org/wiki/FUZZY_CONTROL "wikilink")）（Ba）、[CHERRY](https://ja.wikipedia.org/wiki/小柳"cherry"昌法 "wikilink")（[LINDBERG](../Page/LINDBERG.md "wikilink")）（Dr）\[1\]。
+  - 2015年7月、ROLL-B DINOSAUR（ロール・ビー・ダイナソー）に加入。[織田哲郎](../Page/織田哲郎.md "wikilink")（Vo & Gt）が[ダイアモンド✡ユカイ](../Page/ダイアモンド☆ユカイ.md "wikilink")（Vo）をヴォーカルに迎えて結成した新バンドで、メンバーは他にJOE（[FUZZY CONTROL](../Page/FUZZY_CONTROL.md "wikilink")）（Ba）、[CHERRY](https://ja.wikipedia.org/wiki/小柳"cherry"昌法 "wikilink")（[LINDBERG](../Page/LINDBERG.md "wikilink")）（Dr）\[1\]。
 
 ## AGE of PUNK
 
@@ -27,9 +27,9 @@
   - **曽我“JETTSOUL”将之** （そがじぇっとそうるまさゆき [1967年](../Page/1967年.md "wikilink")[3月20日](../Page/3月20日.md "wikilink") 、[大分県](../Page/大分県.md "wikilink")[大分市](../Page/大分市.md "wikilink")出身）- Bass, Chorus
       -
         自身のバンド活動、サポート活動、ライブPAエンジニア、デザイン関係でも活動中。[SOGA"JETTSOUL"MASAYUKI Official Site](http://jettsoul.web.fc2.com/)
-  - **岡崎達成**（おかざきかつしげ [1967年](../Page/1967年.md "wikilink")[2月22日](../Page/2月22日.md "wikilink") 、[茨城県](https://ja.wikipedia.org/wiki/茨城県 "wikilink")[日立市](https://ja.wikipedia.org/wiki/日立市 "wikilink")出身）- Drum, Chorus
+  - **岡崎達成**（おかざきかつしげ [1967年](../Page/1967年.md "wikilink")[2月22日](../Page/2月22日.md "wikilink") 、[茨城県](../Page/茨城県.md "wikilink")[日立市](../Page/日立市.md "wikilink")出身）- Drum, Chorus
       -
-        元[M-AGE](../Page/M-AGE.md "wikilink")、[Lucy](https://ja.wikipedia.org/wiki/Lucy "wikilink")。
+        元[M-AGE](../Page/M-AGE.md "wikilink")、[Lucy](../Page/Lucy.md "wikilink")。
 
 ## 作品
 
@@ -144,12 +144,12 @@
 
 ## AGE of PUNK以外の活動
 
-  - [GUNIW TOOLS](https://ja.wikipedia.org/wiki/GUNIW_TOOLS "wikilink")（1996〜2000、2014〜）
+  - [GUNIW TOOLS](../Page/GUNIW_TOOLS.md "wikilink")（1996〜2000、2014〜）
   - [m.o.v.e](https://ja.wikipedia.org/wiki/m.o.v.e "wikilink")のサポート（主にギター、1998〜 ）
-  - [BUG](https://ja.wikipedia.org/wiki/BUG_\(バンド\) "wikilink")（2002〜2012） 活動休止
+  - [BUG](../Page/BUG_\(バンド\).md "wikilink")（2002〜2012） 活動休止
   - かぼす　[kyoとのアコースティックユニット](https://ja.wikipedia.org/wiki/kyo_\(ミュージシャン\) "wikilink")
   - vez（2012〜2017）
-  - ACxAC　[CHIROLYN](https://ja.wikipedia.org/wiki/CHIROLYN "wikilink")とのアコースティックユニット
+  - ACxAC　[CHIROLYN](../Page/CHIROLYN.md "wikilink")とのアコースティックユニット
   - test of PUNK
   - ROLL-B DINOSAUR（2015〜 ）
 
@@ -159,10 +159,10 @@
 
   - [m.o.v.e](https://ja.wikipedia.org/wiki/m.o.v.e "wikilink")
   - [t-kimura](https://ja.wikipedia.org/wiki/t-kimura "wikilink")
-  - [今井寿](https://ja.wikipedia.org/wiki/今井寿 "wikilink")
+  - [今井寿](../Page/今井寿.md "wikilink")
   - [SUILEN](https://ja.wikipedia.org/wiki/SUILEN "wikilink")
   - [織田哲郎](../Page/織田哲郎.md "wikilink")
-  - [ダイアモンド✡ユカイ](https://ja.wikipedia.org/wiki/ダイアモンド☆ユカイ "wikilink")
+  - [ダイアモンド✡ユカイ](../Page/ダイアモンド☆ユカイ.md "wikilink")
 
 ## 外部リンク
 

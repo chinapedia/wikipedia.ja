@@ -1,11 +1,11 @@
 > この記事は[The Spartanic Rockers](https://ja.wikipedia.org/wiki/The_Spartanic_Rockers)から翻訳されています。
 
 
-**The Spartanic Rockers**（ザ・スパルタニック・ロッカーズ）は[日本人](https://ja.wikipedia.org/wiki/日本人 "wikilink")としてはじめて、[ブレイクダンス](../Page/ブレイクダンス.md "wikilink")の世界大会で優勝を成し遂げた[ダンス](https://ja.wikipedia.org/wiki/ダンス "wikilink")チーム。
+**The Spartanic Rockers**（ザ・スパルタニック・ロッカーズ）は[日本人](https://ja.wikipedia.org/wiki/日本人 "wikilink")としてはじめて、[ブレイクダンス](../Page/ブレイクダンス.md "wikilink")の世界大会で優勝を成し遂げた[ダンス](../Page/ダンス.md "wikilink")チーム。
 
 ## 概要
 
-チームの母体は[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")、[スイス](../Page/スイス.md "wikilink")の[ベルン](../Page/ベルン.md "wikilink")にてDEF-ICEという人物によって創設された。日本ブランチは[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")にリーダーの[宮田健男](https://ja.wikipedia.org/wiki/宮田健男 "wikilink")が創設。その後[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")で行われている世界大会[UK B-BOY CHAMPIONSHIPS](https://ja.wikipedia.org/wiki/UK_B-BOY_CHAMPIONSHIPS "wikilink") にて優勝を飾るほか、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")で行われている[Battle of the YearでBest](https://ja.wikipedia.org/wiki/Battle_of_the_Year "wikilink")-Showを獲得するなど、世界的に数々の実績を残している。近年では[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")末にイギリスで行われたBeat Battleというイベントにおいて準優勝という実績を残している。
+チームの母体は[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")、[スイス](../Page/スイス.md "wikilink")の[ベルン](../Page/ベルン.md "wikilink")にてDEF-ICEという人物によって創設された。日本ブランチは[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")にリーダーの[宮田健男](../Page/宮田健男.md "wikilink")が創設。その後[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")で行われている世界大会[UK B-BOY CHAMPIONSHIPS](https://ja.wikipedia.org/wiki/UK_B-BOY_CHAMPIONSHIPS "wikilink") にて優勝を飾るほか、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")で行われている[Battle of the YearでBest](../Page/Battle_of_the_Year.md "wikilink")-Showを獲得するなど、世界的に数々の実績を残している。近年では[2005年](../Page/2005年.md "wikilink")末にイギリスで行われたBeat Battleというイベントにおいて準優勝という実績を残している。
 
 ## 受賞歴/活動歴
 

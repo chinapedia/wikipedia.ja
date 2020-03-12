@@ -1,11 +1,11 @@
 > この記事は[Still life \(\)](https://ja.wikipedia.org/wiki/Still_life_\(\))から翻訳されています。
 
 
-『**still life**』（スティル　ライフ）は[遊佐未森](../Page/遊佐未森.md "wikilink")の[コンピレーション・アルバム](https://ja.wikipedia.org/wiki/コンピレーション・アルバム "wikilink")。[2001年](../Page/2001年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")に[エピックレコードジャパン](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink") から発売された。
+『**still life**』（スティル　ライフ）は[遊佐未森](../Page/遊佐未森.md "wikilink")の[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")に[エピックレコードジャパン](../Page/エピックレコードジャパン.md "wikilink") から発売された。
 
 ## 概要
 
-遊佐の曲の中から「[ヒーリング（癒し）](https://ja.wikipedia.org/wiki/癒し "wikilink")」をテーマに選曲された。シングル曲は一曲しか選ばれていない。
+遊佐の曲の中から「[ヒーリング（癒し）](../Page/癒し.md "wikilink")」をテーマに選曲された。シングル曲は一曲しか選ばれていない。
 
 ## 収録曲
 
@@ -51,6 +51,6 @@
 
 ## 関連項目
 
-  - [2001年の音楽](https://ja.wikipedia.org/wiki/2001年の音楽 "wikilink")
+  - [2001年の音楽](../Page/2001年の音楽.md "wikilink")
 
 [Category:遊佐未森のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:遊佐未森のベスト・アルバム "wikilink") [Category:2001年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:2001年のベスト・アルバム "wikilink") [Category:エピックレコードジャパンのアルバム](https://ja.wikipedia.org/wiki/Category:エピックレコードジャパンのアルバム "wikilink")

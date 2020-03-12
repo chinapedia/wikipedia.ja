@@ -1,7 +1,7 @@
 > この記事は[MIHORI](https://ja.wikipedia.org/wiki/MIHORI)から翻訳されています。
 
 
-**MIHORI**（みほり）は、山口県および[広島県](../Page/広島県.md "wikilink")に[外食産業](../Page/外食産業.md "wikilink")を展開する企業。本部は[山口県](../Page/山口県.md "wikilink")[山口市](../Page/山口市.md "wikilink")[大内中央](https://ja.wikipedia.org/wiki/大内町_\(山口県\) "wikilink")。グループでの年商は、[2011年](../Page/2011年.md "wikilink")度（[平成](../Page/平成.md "wikilink")23年度）で約19億7000万円。特製の[唐揚げ](https://ja.wikipedia.org/wiki/唐揚げ "wikilink")の素などの販売（店頭及び[楽天市場](https://ja.wikipedia.org/wiki/楽天市場 "wikilink")など）もしている。
+**MIHORI**（みほり）は、山口県および[広島県](../Page/広島県.md "wikilink")に[外食産業](../Page/外食産業.md "wikilink")を展開する企業。本部は[山口県](../Page/山口県.md "wikilink")[山口市](../Page/山口市.md "wikilink")[大内中央](../Page/大内町_\(山口県\).md "wikilink")。グループでの年商は、[2011年](../Page/2011年.md "wikilink")度（[平成](../Page/平成.md "wikilink")23年度）で約19億7000万円。特製の[唐揚げ](https://ja.wikipedia.org/wiki/唐揚げ "wikilink")の素などの販売（店頭及び[楽天市場](https://ja.wikipedia.org/wiki/楽天市場 "wikilink")など）もしている。
 
 ## 沿革
 
@@ -9,18 +9,18 @@
   - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")（昭和58年）3月 - [有限会社](../Page/有限会社.md "wikilink")みほり峠として設立。
   - [1988年](../Page/1988年.md "wikilink")（昭和63年）8月 - 会社形態を株式会社に組織変更。
   - [2000年](../Page/2000年.md "wikilink")（平成12年）6月 - 有限会社フジコーを吸収。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）7月 - 社名をMIHORIに変更。
+  - [2005年](../Page/2005年.md "wikilink")（平成17年）7月 - 社名をMIHORIに変更。
 
 ## グループ店舗
 
-  - みほり峠 （[うどん](../Page/うどん.md "wikilink")・[蕎麦](https://ja.wikipedia.org/wiki/蕎麦 "wikilink")・[寿司](https://ja.wikipedia.org/wiki/寿司 "wikilink")などの和風[ファミリーレストラン](../Page/ファミリーレストラン.md "wikilink")）
+  - みほり峠 （[うどん](../Page/うどん.md "wikilink")・[蕎麦](../Page/蕎麦.md "wikilink")・[寿司](../Page/寿司.md "wikilink")などの和風[ファミリーレストラン](../Page/ファミリーレストラン.md "wikilink")）
   - 和み家（[個室](https://ja.wikipedia.org/wiki/個室 "wikilink")重視\[1\]の和風レストラン）
   - こだわりとんかつ一丁、とんかつ一筋六白屋（[豚カツ](../Page/豚カツ.md "wikilink")レストラン）
   - カルビ王国、えんず\[2\]、炭火焼肉牛福（ファミリー向け[焼肉](../Page/焼肉.md "wikilink")屋）
   - 炭火ステーキ炉舎\[3\]（[ステーキ](../Page/ステーキ.md "wikilink")・[ハンバーグ](../Page/ハンバーグ.md "wikilink")レストラン）
-  - 旨いもの台所どうぞどうぞ（[焼き鳥](../Page/焼き鳥.md "wikilink")・[釜飯](https://ja.wikipedia.org/wiki/釜飯 "wikilink")などの[居酒屋](https://ja.wikipedia.org/wiki/居酒屋 "wikilink")風レストラン）
+  - 旨いもの台所どうぞどうぞ（[焼き鳥](../Page/焼き鳥.md "wikilink")・[釜飯](../Page/釜飯.md "wikilink")などの[居酒屋](../Page/居酒屋.md "wikilink")風レストラン）
   - 旬菜厨房奈のは（[ビュッフェ形式レストラン](https://ja.wikipedia.org/wiki/食べ放題#ビュッフェ形式 "wikilink")）
-  - 珈琲舎カフェ珈紋（[カフェ](https://ja.wikipedia.org/wiki/カフェ "wikilink")）
+  - 珈琲舎カフェ珈紋（[カフェ](../Page/カフェ.md "wikilink")）
 
 ## 脚注
 

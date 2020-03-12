@@ -1,11 +1,11 @@
 > この記事は[Stock \(\)](https://ja.wikipedia.org/wiki/Stock_\(\))から翻訳されています。
 
 
-『**Stock**』（ストック）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")、[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の12枚目の[スタジオ・アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。このアルバムは1988年3月3日に[ワーナー・パイオニアよりリリースされた](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink") ([LP](https://ja.wikipedia.org/wiki/レコード#レコード盤の形状 "wikilink"): L-12652, [CT](../Page/コンパクトカセット.md "wikilink"): LKF-8152, [CD](../Page/コンパクトディスク.md "wikilink"): 32XL-193)。
+『**Stock**』（ストック）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")、[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の12枚目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。このアルバムは1988年3月3日に[ワーナー・パイオニアよりリリースされた](../Page/ワーナーミュージック・ジャパン.md "wikilink") ([LP](https://ja.wikipedia.org/wiki/レコード#レコード盤の形状 "wikilink"): L-12652, [CT](../Page/コンパクトカセット.md "wikilink"): LKF-8152, [CD](../Page/コンパクトディスク.md "wikilink"): 32XL-193)。
 
 ## 背景と構成
 
-『Stock』は、過去3年間に中森の[シングル](../Page/シングル.md "wikilink")候補楽曲として制作された中から華やかな楽曲を集めた[スタジオ・アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")で、1988年3月3日に[LP](https://ja.wikipedia.org/wiki/レコード#レコード盤の形状 "wikilink") (L-12652)と[コンパクトカセット](../Page/コンパクトカセット.md "wikilink") (LKF-8152)と[CD](../Page/コンパクトディスク.md "wikilink") (32XL-193)の3形態で同時発売された\[1\]\[2\]\[3\]\[4\]。本作の[帯にも](https://ja.wikipedia.org/wiki/帯_\(出版\) "wikilink")、「AKINA "IN THE GROOVE" アナザー・シングルスとも呼べる珠玉の10曲を集めたニュー・アルバム\!」との記述がある\[5\]。このアルバムはシングル楽曲を収録していない\[6\]。『Hotwax presents 歌謡曲 名曲名盤ガイド 1980's』の馬飼野元宏はこのアルバムの楽曲的特徴について「ロック・テイスト」と指摘し、『オリコン・ウィークリー』では、「激しさ、パワー、スピード感という3大要素をフィーチャーして構成されたアルバム。」と解説している\[7\]\[8\]。本作3曲目の「CRYSTAL HEAVEN」には、女優の[浅野ゆう子](../Page/浅野ゆう子.md "wikilink")を迎え、YUKOのペンネームでこの楽曲で詞を提供している\[9\]。シングル「[AL-MAUJ (アルマージ)](https://ja.wikipedia.org/wiki/AL-MAUJ "wikilink")」発売の際、宣伝の一部でこのアルバムのタイトルを『FIRE WATER』と告知していた。
+『Stock』は、過去3年間に中森の[シングル](../Page/シングル.md "wikilink")候補楽曲として制作された中から華やかな楽曲を集めた[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")で、1988年3月3日に[LP](https://ja.wikipedia.org/wiki/レコード#レコード盤の形状 "wikilink") (L-12652)と[コンパクトカセット](../Page/コンパクトカセット.md "wikilink") (LKF-8152)と[CD](../Page/コンパクトディスク.md "wikilink") (32XL-193)の3形態で同時発売された\[1\]\[2\]\[3\]\[4\]。本作の[帯にも](https://ja.wikipedia.org/wiki/帯_\(出版\) "wikilink")、「AKINA "IN THE GROOVE" アナザー・シングルスとも呼べる珠玉の10曲を集めたニュー・アルバム\!」との記述がある\[5\]。このアルバムはシングル楽曲を収録していない\[6\]。『Hotwax presents 歌謡曲 名曲名盤ガイド 1980's』の馬飼野元宏はこのアルバムの楽曲的特徴について「ロック・テイスト」と指摘し、『オリコン・ウィークリー』では、「激しさ、パワー、スピード感という3大要素をフィーチャーして構成されたアルバム。」と解説している\[7\]\[8\]。本作3曲目の「CRYSTAL HEAVEN」には、女優の[浅野ゆう子](../Page/浅野ゆう子.md "wikilink")を迎え、YUKOのペンネームでこの楽曲で詞を提供している\[9\]。シングル「[AL-MAUJ (アルマージ)](../Page/AL-MAUJ.md "wikilink")」発売の際、宣伝の一部でこのアルバムのタイトルを『FIRE WATER』と告知していた。
 
 ## 批評
 
@@ -13,11 +13,11 @@
 
 ## チャート成績
 
-『Stock』は、[オリコン週間アルバムチャートの](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1988年3月14日付で初登場し、最高順位2位を記録した\[17\]\[18\]\[19\]。同チャートには、計16週に渡ってランクインしている\[20\]。形態別のオリコンチャートのうち、LPチャートでは最高順位1位を記録した\[21\]。また、カセットチャートでは計17週に渡ってランクインされた\[22\]。1988年度のオリコン年間アルバムチャートでは、14位を記録した。
+『Stock』は、[オリコン週間アルバムチャートの](../Page/オリコンチャート.md "wikilink")1988年3月14日付で初登場し、最高順位2位を記録した\[17\]\[18\]\[19\]。同チャートには、計16週に渡ってランクインしている\[20\]。形態別のオリコンチャートのうち、LPチャートでは最高順位1位を記録した\[21\]。また、カセットチャートでは計17週に渡ってランクインされた\[22\]。1988年度のオリコン年間アルバムチャートでは、14位を記録した。
 
 ## ライブ・パフォーマンス
 
-本作リリース後の1988年7月20日より、本作と次作スタジオ・アルバム『[Femme Fatale](https://ja.wikipedia.org/wiki/Femme_Fatale_\(中森明菜のアルバム\) "wikilink")』を引っ提げた全国コンサート・ツアー[Femme Fataleを開催した](https://ja.wikipedia.org/wiki/Femme_Fatale_\(中森明菜のアルバム\)#Femme_Fatale_\(コンサート・ツアー\) "wikilink")\[23\]\[24\]。また、本作収録曲は音楽番組でも披露された。1988年8月19日放送の[テレビ朝日系の音楽番組](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』では本作2曲目の「夢のふち」を、翌年の1989年2月22日放送の[フジテレビ系音楽番組](../Page/フジテレビ系列.md "wikilink")『[夜のヒットスタジオ](https://ja.wikipedia.org/wiki/夜のヒットスタジオ "wikilink")DELUXE』と同年3月3日放送の『ミュージックステーション』では本作1曲目の「FAREWELL」がテレビ披露された\[25\]\[26\]\[27\]\[28\]。
+本作リリース後の1988年7月20日より、本作と次作スタジオ・アルバム『[Femme Fatale](../Page/Femme_Fatale_\(中森明菜のアルバム\).md "wikilink")』を引っ提げた全国コンサート・ツアー[Femme Fataleを開催した](https://ja.wikipedia.org/wiki/Femme_Fatale_\(中森明菜のアルバム\)#Femme_Fatale_\(コンサート・ツアー\) "wikilink")\[23\]\[24\]。また、本作収録曲は音楽番組でも披露された。1988年8月19日放送の[テレビ朝日系の音楽番組](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』では本作2曲目の「夢のふち」を、翌年の1989年2月22日放送の[フジテレビ系音楽番組](../Page/フジテレビ系列.md "wikilink")『[夜のヒットスタジオ](https://ja.wikipedia.org/wiki/夜のヒットスタジオ "wikilink")DELUXE』と同年3月3日放送の『ミュージックステーション』では本作1曲目の「FAREWELL」がテレビ披露された\[25\]\[26\]\[27\]\[28\]。
 
 ## 収録曲
 

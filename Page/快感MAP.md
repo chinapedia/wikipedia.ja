@@ -1,7 +1,7 @@
 > この記事は[MAP](https://ja.wikipedia.org/wiki/MAP)から翻訳されています。
 
 
-『**快感MAP**』（かいかんまっぷ）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月3日](../Page/10月3日.md "wikilink")（2日深夜）から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")（3月31日深夜）まで[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")で毎週[火曜日](../Page/火曜日.md "wikilink")0:15 - 0:45（[月曜日](../Page/月曜日.md "wikilink")[深夜](https://ja.wikipedia.org/wiki/深夜 "wikilink")、『[ネオネオバラエティ](https://ja.wikipedia.org/wiki/ネオネオバラエティ "wikilink")』枠）にて放送されていた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。
+『**快感MAP**』（かいかんまっぷ）は、[2006年](../Page/2006年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")（2日深夜）から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")（3月31日深夜）まで[テレビ朝日](../Page/テレビ朝日.md "wikilink")で毎週[火曜日](../Page/火曜日.md "wikilink")0:15 - 0:45（[月曜日](../Page/月曜日.md "wikilink")[深夜](../Page/深夜.md "wikilink")、『[ネオネオバラエティ](../Page/ネオネオバラエティ.md "wikilink")』枠）にて放送されていた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。
 
 姉妹番組にあたる『**[大胆MAP](https://ja.wikipedia.org/wiki/大胆MAP "wikilink")**』がゴールデン枠のレギュラー番組に昇格したことに伴い、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月7日](../Page/1月7日.md "wikilink")より『**快感MAP〜もしものシミュレーション〜**』に改題され、内容も大幅にリニューアルした。2008年4月より『[お試しかっ\!](https://ja.wikipedia.org/wiki/もしものシミュレーションバラエティー_お試しかっ! "wikilink")』と改題し、月曜『[ネオバラエティ](https://ja.wikipedia.org/wiki/ネオバラエティ "wikilink")』枠に移動。
 
@@ -14,7 +14,7 @@
 ### 出演者
 
   - [久本雅美](../Page/久本雅美.md "wikilink")（編集長）
-  - [タカアンドトシ](https://ja.wikipedia.org/wiki/タカアンドトシ "wikilink")（コーディネーター） - 大胆MAPでは兼司会担当
+  - [タカアンドトシ](../Page/タカアンドトシ.md "wikilink")（コーディネーター） - 大胆MAPでは兼司会担当
 
 #### 準レギュラー
 
@@ -22,26 +22,26 @@
 
 <!-- end list -->
 
-  - [ほっしゃん。](https://ja.wikipedia.org/wiki/星田英利 "wikilink") - 主に芸能がらみの取材を担当
+  - [ほっしゃん。](../Page/星田英利.md "wikilink") - 主に芸能がらみの取材を担当
   - [小池栄子](https://ja.wikipedia.org/wiki/小池栄子 "wikilink")（2007年9月まで）
-  - [西川史子](../Page/西川史子.md "wikilink") - 主に[整形](../Page/美容外科学.md "wikilink")・[性転換がらみの取材を担当](https://ja.wikipedia.org/wiki/性別適合手術 "wikilink")　※後に[お願い\!ランキング](https://ja.wikipedia.org/wiki/お願い!ランキング "wikilink")の人気企画『西川史子の美人ニューハーフランキング』として復活する。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")には[1996年](../Page/1996年.md "wikilink")[ミス日本](https://ja.wikipedia.org/wiki/ミス日本 "wikilink")の同期生の[近澤美歩](https://ja.wikipedia.org/wiki/近澤美歩 "wikilink")（同年グランプリ受賞）を訪ねる企画のレポートも担当した。
-  - [カンニング竹山](https://ja.wikipedia.org/wiki/カンニング竹山 "wikilink") - 主に「取材拒否の名店」のような取材を担当
-  - [飯尾和樹](https://ja.wikipedia.org/wiki/飯尾和樹 "wikilink")（[ずん](https://ja.wikipedia.org/wiki/ずん "wikilink")）
+  - [西川史子](../Page/西川史子.md "wikilink") - 主に[整形](../Page/美容外科学.md "wikilink")・[性転換がらみの取材を担当](../Page/性別適合手術.md "wikilink")　※後に[お願い\!ランキング](https://ja.wikipedia.org/wiki/お願い!ランキング "wikilink")の人気企画『西川史子の美人ニューハーフランキング』として復活する。[2007年](../Page/2007年.md "wikilink")には[1996年](../Page/1996年.md "wikilink")[ミス日本](../Page/ミス日本.md "wikilink")の同期生の[近澤美歩](https://ja.wikipedia.org/wiki/近澤美歩 "wikilink")（同年グランプリ受賞）を訪ねる企画のレポートも担当した。
+  - [カンニング竹山](../Page/カンニング竹山.md "wikilink") - 主に「取材拒否の名店」のような取材を担当
+  - [飯尾和樹](../Page/飯尾和樹.md "wikilink")（[ずん](../Page/ずん.md "wikilink")）
   - [ハリセンボン](https://ja.wikipedia.org/wiki/ハリセンボン_\(お笑いコンビ\) "wikilink")
-  - [にしおかすみこ](https://ja.wikipedia.org/wiki/にしおかすみこ "wikilink")
-  - [山里亮太](https://ja.wikipedia.org/wiki/山里亮太 "wikilink")（[南海キャンディーズ](https://ja.wikipedia.org/wiki/南海キャンディーズ "wikilink")）
-  - [ヒロシ](https://ja.wikipedia.org/wiki/ヒロシ "wikilink")
+  - [にしおかすみこ](../Page/にしおかすみこ.md "wikilink")
+  - [山里亮太](../Page/山里亮太.md "wikilink")（[南海キャンディーズ](../Page/南海キャンディーズ.md "wikilink")）
+  - [ヒロシ](../Page/ヒロシ.md "wikilink")
   - [北陽](../Page/北陽.md "wikilink")
 
 ### 『大胆MAP』との関係
 
-『[大胆MAP](https://ja.wikipedia.org/wiki/大胆MAP "wikilink")』は、『快感MAP』の姉妹番組にあたる。2007年4月より[ドスペ2](https://ja.wikipedia.org/wiki/ドスペ2 "wikilink")枠・[日曜ワイド枠で不定期に放映されていた](https://ja.wikipedia.org/wiki/スペシャルサンデー "wikilink")。内容は『快感MAP』とほぼ同じだが、ロケを担当する出演者がコーディネーターと名乗らず調査員と名乗ること、そしてその取材した内容が審査され「保存」か「削除」かが決められることなどの違いがある。
+『[大胆MAP](https://ja.wikipedia.org/wiki/大胆MAP "wikilink")』は、『快感MAP』の姉妹番組にあたる。2007年4月より[ドスペ2](../Page/ドスペ2.md "wikilink")枠・[日曜ワイド枠で不定期に放映されていた](../Page/スペシャルサンデー.md "wikilink")。内容は『快感MAP』とほぼ同じだが、ロケを担当する出演者がコーディネーターと名乗らず調査員と名乗ること、そしてその取材した内容が審査され「保存」か「削除」かが決められることなどの違いがある。
 
 2007年[9月22日](../Page/9月22日.md "wikilink")、[ゴールデンタイム](https://ja.wikipedia.org/wiki/ゴールデンタイム "wikilink")（19:00 - 20:54）にアニメの声優をテーマにした『大胆MAP』特番が放映された。これが好評だったため、『大胆MAP』は[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月20日](../Page/1月20日.md "wikilink")から日曜19時台でのゴールデン進出およびレギュラー化が決定し、それまで『快感MAP』で扱われていた内容や出演者のほとんどが『大胆MAP』に移行することとなった。
 
 ## 2008年1月より
 
-[タカアンドトシ](https://ja.wikipedia.org/wiki/タカアンドトシ "wikilink")が、「Mr.S」と名乗る謎の人物の指令に従い、日常生活で起こりうる危険や疑問について体を張ってシミュレーションをする。全篇ロケVTRのみで構成される。
+[タカアンドトシ](../Page/タカアンドトシ.md "wikilink")が、「Mr.S」と名乗る謎の人物の指令に従い、日常生活で起こりうる危険や疑問について体を張ってシミュレーションをする。全篇ロケVTRのみで構成される。
 
 ### 出演者
 
@@ -51,12 +51,12 @@
 
 | 放送対象地域                                                                               | 放送局                                                             | 系列                                                                          | 放送日時                   | 遅れ      |
 | ------------------------------------------------------------------------------------ | --------------------------------------------------------------- | --------------------------------------------------------------------------- | ---------------------- | ------- |
-| [関東広域圏](../Page/広域放送.md "wikilink")                                                  | [テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")（EX）     | [テレビ朝日系列](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink") | 火曜 0時15分 - 0時45分（月曜深夜） | **制作局** |
+| [関東広域圏](../Page/広域放送.md "wikilink")                                                  | [テレビ朝日](../Page/テレビ朝日.md "wikilink")（EX）                        | [テレビ朝日系列](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink") | 火曜 0時15分 - 0時45分（月曜深夜） | **制作局** |
 | [青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")                                  | [青森朝日放送](../Page/青森朝日放送.md "wikilink")（ABA）                     | 同時ネット                                                                       |                        |         |
 | [岩手県](../Page/岩手県.md "wikilink")                                                     | [岩手朝日テレビ](../Page/岩手朝日テレビ.md "wikilink")（IAT）                   |                                                                             |                        |         |
 | [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")                                  | [東日本放送](../Page/東日本放送.md "wikilink")（KHB）                       |                                                                             |                        |         |
 | [秋田県](../Page/秋田県.md "wikilink")                                                     | [秋田朝日放送](../Page/秋田朝日放送.md "wikilink")（AAB）                     |                                                                             |                        |         |
-| [山形県](https://ja.wikipedia.org/wiki/山形県 "wikilink")                                  | [山形テレビ](../Page/山形テレビ.md "wikilink")（YTS）                       |                                                                             |                        |         |
+| [山形県](../Page/山形県.md "wikilink")                                                     | [山形テレビ](../Page/山形テレビ.md "wikilink")（YTS）                       |                                                                             |                        |         |
 | [福島県](../Page/福島県.md "wikilink")                                                     | [福島放送](../Page/福島放送.md "wikilink")（KFB）                         |                                                                             |                        |         |
 | [新潟県](../Page/新潟県.md "wikilink")                                                     | [新潟テレビ21](https://ja.wikipedia.org/wiki/新潟テレビ21 "wikilink")（UX） |                                                                             |                        |         |
 | [長野県](../Page/長野県.md "wikilink")                                                     | [長野朝日放送](../Page/長野朝日放送.md "wikilink")（abn）                     |                                                                             |                        |         |
@@ -69,7 +69,7 @@
 | [長崎県](../Page/長崎県.md "wikilink")                                                     | [長崎文化放送](https://ja.wikipedia.org/wiki/長崎文化放送 "wikilink")（NCC）  | 火曜 1時15分 - 1時45分（月曜深夜）                                                      |                        |         |
 | [大分県](../Page/大分県.md "wikilink")                                                     | [大分朝日放送](../Page/大分朝日放送.md "wikilink")（OAB）                     |                                                                             |                        |         |
 | [山口県](../Page/山口県.md "wikilink")                                                     | [山口朝日放送](../Page/山口朝日放送.md "wikilink")（yab）                     | 日曜 0時30分 - 1時00分（土曜深夜）                                                      | 19日遅れ                  |         |
-| [福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")                                  | [九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")（KBC）  | 土曜 10時00分 - 10時30分                                                          | 26日遅れ                  |         |
+| [福岡県](../Page/福岡県.md "wikilink")                                                     | [九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")（KBC）  | 土曜 10時00分 - 10時30分                                                          | 26日遅れ                  |         |
 | [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")                                  | [北海道テレビ](../Page/北海道テレビ放送.md "wikilink")（HTB）                   | 土曜 1時15分 - 1時45分（金曜深夜）                                                      | 39日遅れ                  |         |
 | [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")                                  | [熊本朝日放送](../Page/熊本朝日放送.md "wikilink")（KAB）                     | 日曜 16時30分 - 17時00分                                                          | 41日遅れ                  |         |
 | [愛媛県](../Page/愛媛県.md "wikilink")                                                     | [愛媛朝日テレビ](../Page/愛媛朝日テレビ.md "wikilink")（eat）                   | 日曜 1時30分 - 2時00分（土曜深夜）                                                      | 54日遅れ                  |         |
@@ -78,19 +78,19 @@
 
   - [朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")・[鹿児島放送](../Page/鹿児島放送.md "wikilink")を除くANNフルネット22局で放送された。
   - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")では2008年3月をもって[大胆MAP](https://ja.wikipedia.org/wiki/大胆MAP "wikilink")開始によるリニューアル前にネット打ち切りとなり、4月20日から同じく日曜日に『[お試しかっ\!](https://ja.wikipedia.org/wiki/お試しかっ! "wikilink")』が開始している。
-  - [愛媛朝日テレビ](../Page/愛媛朝日テレビ.md "wikilink")では2008年4月20日 を以って打ち切られた。後番組は[広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")の『[アグレッシブですけど、何か?](https://ja.wikipedia.org/wiki/アグレッシブですけど、何か? "wikilink")』。
+  - [愛媛朝日テレビ](../Page/愛媛朝日テレビ.md "wikilink")では2008年4月20日 を以って打ち切られた。後番組は[広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")の『[アグレッシブですけど、何か?](../Page/アグレッシブですけど、何か?.md "wikilink")』。
 
 ## スタッフ
 
-  - ナレーター ：[垂木勉](https://ja.wikipedia.org/wiki/垂木勉 "wikilink")
-  - 企画 : [平城隆司](https://ja.wikipedia.org/wiki/平城隆司 "wikilink")（2007年6月までチーフプロデューサー）
-  - 構成 : [鈴木おさむ](../Page/鈴木おさむ.md "wikilink")、[樋口卓治](https://ja.wikipedia.org/wiki/樋口卓治 "wikilink")、佐藤俊明
-  - 技術 : 桝田茂雄（[テイクシステムズ](https://ja.wikipedia.org/wiki/テイクシステムズ "wikilink")）
+  - ナレーター ：[垂木勉](../Page/垂木勉.md "wikilink")
+  - 企画 : [平城隆司](../Page/平城隆司.md "wikilink")（2007年6月までチーフプロデューサー）
+  - 構成 : [鈴木おさむ](../Page/鈴木おさむ.md "wikilink")、[樋口卓治](../Page/樋口卓治.md "wikilink")、佐藤俊明
+  - 技術 : 桝田茂雄（[テイクシステムズ](../Page/テイクシステムズ.md "wikilink")）
   - カメラ : 雨森貴之、西村佳晃
-  - 照明 : 宮内貴生（[KYORITZ](https://ja.wikipedia.org/wiki/共立_\(照明\) "wikilink")）
+  - 照明 : 宮内貴生（[KYORITZ](../Page/共立_\(照明\).md "wikilink")）
   - 音声 : 森永茂
   - VE : 青木和敬
-  - ロケ技術 : [TSP](https://ja.wikipedia.org/wiki/東京サウンドプロダクション "wikilink")
+  - ロケ技術 : [TSP](../Page/東京サウンドプロダクション.md "wikilink")
   - デザイン : 堀場綾枝子
   - 美術進行 : 楢崎仁志（[テレビ朝日クリエイト](../Page/テレビ朝日クリエイト.md "wikilink")）
   - 電飾 : 川村浩太
@@ -119,8 +119,8 @@
 ## 関連項目
 
   - [決定\!これが日本のベスト100](../Page/決定!これが日本のベスト100全国一斉○○テスト.md "wikilink") - 『大胆MAP』のコンセプトに近い番組
-  - [独占\!女だらけの60分 レディGO\!](https://ja.wikipedia.org/wiki/独占!女だらけの60分_レディGO! "wikilink") -『快感MAP』のコンセプトに近い番組。
-  - [マチャミナイト ガチンコ視聴率バトル 私がPだ\!](https://ja.wikipedia.org/wiki/ガチンコ視聴率バトル "wikilink") - 『快感MAP』開始までに月曜[ネオバラエティ第3部](https://ja.wikipedia.org/wiki/ネオバラエティ第3部 "wikilink")で放送されていた番組。
+  - [独占\!女だらけの60分 レディGO\!](../Page/独占!女だらけの60分_レディGO!.md "wikilink") -『快感MAP』のコンセプトに近い番組。
+  - [マチャミナイト ガチンコ視聴率バトル 私がPだ\!](../Page/ガチンコ視聴率バトル.md "wikilink") - 『快感MAP』開始までに月曜[ネオバラエティ第3部](../Page/ネオバラエティ第3部.md "wikilink")で放送されていた番組。
 
 いずれの番組も、スタッフはほぼ同じ、元の平城隆司部長発による番組である。
 

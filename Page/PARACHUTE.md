@@ -5,13 +5,13 @@
 
 ## 来歴
 
-1979年に[TOTOや](https://ja.wikipedia.org/wiki/TOTO_\(バンド\) "wikilink")[エアプレイ](https://ja.wikipedia.org/wiki/エアプレイ "wikilink")にならうかのようにスタジオワークやライヴ演奏などで注目を浴びていた国内の若手一流ミュージシャンが集結して結成された[スーパーグループ](https://ja.wikipedia.org/wiki/スーパーグループ "wikilink")\[2\]\[3\]。
+1979年に[TOTOや](../Page/TOTO_\(バンド\).md "wikilink")[エアプレイ](../Page/エアプレイ.md "wikilink")にならうかのようにスタジオワークやライヴ演奏などで注目を浴びていた国内の若手一流ミュージシャンが集結して結成された[スーパーグループ](../Page/スーパーグループ.md "wikilink")\[2\]\[3\]。
 
-メンバーチェンジを経て、[林立夫](https://ja.wikipedia.org/wiki/林立夫 "wikilink")、[斎藤ノブ](https://ja.wikipedia.org/wiki/斎藤ノブ "wikilink")、[マイク・ダン](https://ja.wikipedia.org/wiki/マイク・ダン_\(ベーシスト\) "wikilink")、[松原正樹](https://ja.wikipedia.org/wiki/松原正樹 "wikilink")、[今剛](https://ja.wikipedia.org/wiki/今剛 "wikilink")、[安藤芳彦](https://ja.wikipedia.org/wiki/安藤芳彦 "wikilink")、[小林泉美の](https://ja.wikipedia.org/wiki/小林泉美_\(歌手\) "wikilink")7人により、「音楽はスポーツだ\!」のキャッチコピーでデビュー\[4\]\[5\]。
+メンバーチェンジを経て、[林立夫](../Page/林立夫.md "wikilink")、[斎藤ノブ](https://ja.wikipedia.org/wiki/斎藤ノブ "wikilink")、[マイク・ダン](https://ja.wikipedia.org/wiki/マイク・ダン_\(ベーシスト\) "wikilink")、[松原正樹](../Page/松原正樹.md "wikilink")、[今剛](../Page/今剛.md "wikilink")、[安藤芳彦](https://ja.wikipedia.org/wiki/安藤芳彦 "wikilink")、[小林泉美の](../Page/小林泉美_\(歌手\).md "wikilink")7人により、「音楽はスポーツだ\!」のキャッチコピーでデビュー\[4\]\[5\]。
 
 バンド名は[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")にちなみ、「どこからでも（パラレルに）シュートが撃てるようなバンドを目指す」という思いに由来\[6\]。
 
-1980年5月に1stアルバム『PARACHUTE from ASIAN PORT』をリリース\[7\]。その後小林泉美が脱退し、同年12月発売の2nd[アルバム](../Page/アルバム.md "wikilink")『6 kinds 6 sizes』では6人となったが、そのアルバムにゲストミュージシャンとして参加した[井上鑑](https://ja.wikipedia.org/wiki/井上鑑 "wikilink")がその後正式メンバーとして加入する\[8\]\[9\]。
+1980年5月に1stアルバム『PARACHUTE from ASIAN PORT』をリリース\[7\]。その後小林泉美が脱退し、同年12月発売の2nd[アルバム](../Page/アルバム.md "wikilink")『6 kinds 6 sizes』では6人となったが、そのアルバムにゲストミュージシャンとして参加した[井上鑑](../Page/井上鑑.md "wikilink")がその後正式メンバーとして加入する\[8\]\[9\]。
 
 1981年、3rdアルバム『HAERE MAI』を発表。当初2枚組の予定で録音が開始されたが、レコード会社との意見の食い違いで1枚で発売され、収録時間の関係で短くカットされた曲がある\[10\]。
 
@@ -25,24 +25,24 @@
 
 ## メンバー
 
-  - **[林立夫](https://ja.wikipedia.org/wiki/林立夫 "wikilink")**（はやしたつお、[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")[5月21日](../Page/5月21日.md "wikilink") - 、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身）
+  - **[林立夫](../Page/林立夫.md "wikilink")**（はやしたつお、[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")[5月21日](../Page/5月21日.md "wikilink") - 、[東京都](../Page/東京都.md "wikilink")出身）
       - [ドラム担当](../Page/ドラムセット.md "wikilink")。
-  - **[斉藤ノヴ](https://ja.wikipedia.org/wiki/斉藤ノヴ "wikilink")**（さいとうノヴ、[1950年](../Page/1950年.md "wikilink")[11月6日](../Page/11月6日.md "wikilink") - 、[京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")出身）
+  - **[斉藤ノヴ](https://ja.wikipedia.org/wiki/斉藤ノヴ "wikilink")**（さいとうノヴ、[1950年](../Page/1950年.md "wikilink")[11月6日](../Page/11月6日.md "wikilink") - 、[京都府](../Page/京都府.md "wikilink")出身）
       - [パーカッション](../Page/パーカッション.md "wikilink")担当。
   - **[マイク・ダン](https://ja.wikipedia.org/wiki/マイク・ダン_\(ベーシスト\) "wikilink")**（[1946年](../Page/1946年.md "wikilink")[7月20日](../Page/7月20日.md "wikilink") - 、[ニュージーランド](../Page/ニュージーランド.md "wikilink")出身）
-      - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。
-  - **[松原正樹](https://ja.wikipedia.org/wiki/松原正樹 "wikilink")**（まつばらまさき、[1954年](../Page/1954年.md "wikilink")[6月27日](../Page/6月27日.md "wikilink") - [2016年](../Page/2016年.md "wikilink")[2月8日](https://ja.wikipedia.org/wiki/2月8日 "wikilink")、[福井県](../Page/福井県.md "wikilink")出身）
+      - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。
+  - **[松原正樹](../Page/松原正樹.md "wikilink")**（まつばらまさき、[1954年](../Page/1954年.md "wikilink")[6月27日](../Page/6月27日.md "wikilink") - [2016年](../Page/2016年.md "wikilink")[2月8日](../Page/2月8日.md "wikilink")、[福井県](../Page/福井県.md "wikilink")出身）
       - [ギター](../Page/ギター.md "wikilink")担当。
-  - **[今剛](https://ja.wikipedia.org/wiki/今剛 "wikilink")**（こんつよし、[1958年](../Page/1958年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink") - 、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")出身）
+  - **[今剛](../Page/今剛.md "wikilink")**（こんつよし、[1958年](../Page/1958年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink") - 、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")出身）
       - ギター担当。
   - **[安藤芳彦](https://ja.wikipedia.org/wiki/安藤芳彦 "wikilink")**（あんどうよしひこ、[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")[11月7日](../Page/11月7日.md "wikilink") - 、東京都出身）
-      - [キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")、ボーカル担当。
-  - **[井上鑑](https://ja.wikipedia.org/wiki/井上鑑 "wikilink")**（いのうえあきら、[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")[9月8日](https://ja.wikipedia.org/wiki/9月8日 "wikilink") - 、東京都出身）
+      - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")、ボーカル担当。
+  - **[井上鑑](../Page/井上鑑.md "wikilink")**（いのうえあきら、[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")[9月8日](../Page/9月8日.md "wikilink") - 、東京都出身）
       - キーボード担当。小林の脱退後、加入。
 
 ### 元メンバー
 
-  - [小林泉美](https://ja.wikipedia.org/wiki/小林泉美_\(歌手\) "wikilink")（こばやしいずみ、[1957年](../Page/1957年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink") - 、[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")出身）
+  - [小林泉美](../Page/小林泉美_\(歌手\).md "wikilink")（こばやしいずみ、[1957年](../Page/1957年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink") - 、[千葉県](../Page/千葉県.md "wikilink")出身）
       - キーボード、ボーカル担当。1stアルバムのレコーディング後、脱退。
 
 ## ディスコグラフィー

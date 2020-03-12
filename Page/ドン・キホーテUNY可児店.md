@@ -17,7 +17,7 @@
 
 ### ピアゴ可児店
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:PIAGO_Kani.jpg "wikilink") 旧ピアゴ可児店は、かつて同地に存在した「ショップランド可児」の建て替え店舗。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") (平成20年) [9月23日](../Page/9月23日.md "wikilink")に同店から北東約1kmにオープンした、**[ラスパ御嵩](https://ja.wikipedia.org/wiki/ラスパ御嵩 "wikilink")**と約1年半にわたって共存したが、老朽化および社内競合可避のため、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink") (平成22年) [5月9日](https://ja.wikipedia.org/wiki/5月9日 "wikilink")に撤退という形で閉店。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:PIAGO_Kani.jpg "wikilink") 旧ピアゴ可児店は、かつて同地に存在した「ショップランド可児」の建て替え店舗。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") (平成20年) [9月23日](../Page/9月23日.md "wikilink")に同店から北東約1kmにオープンした、**[ラスパ御嵩](https://ja.wikipedia.org/wiki/ラスパ御嵩 "wikilink")**と約1年半にわたって共存したが、老朽化および社内競合可避のため、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink") (平成22年) [5月9日](../Page/5月9日.md "wikilink")に撤退という形で閉店。
 
 閉店後の夏から秋にかけて店舗を解体。一旦は更地となり、他社による出店が模索され住民説明会が開催されたが\[2\]、土地所有者の要請など諸事情によりユニーが再出店を決め、約2年半のブランクを経て再開店した\[3\]。
 
@@ -60,8 +60,8 @@
 
 ## アクセス
 
-  - 店舗の向かい側を名鉄広見線が通っているが、近くに駅はない。最寄り駅の[名鉄](https://ja.wikipedia.org/wiki/名古屋鉄道 "wikilink")[新可児駅](https://ja.wikipedia.org/wiki/新可児駅 "wikilink")・[JR東海](https://ja.wikipedia.org/wiki/東海旅客鉄道 "wikilink")[太多線](https://ja.wikipedia.org/wiki/太多線 "wikilink")[可児駅](https://ja.wikipedia.org/wiki/可児駅 "wikilink")まで徒歩20分程度。[学校前駅があった頃は](https://ja.wikipedia.org/wiki/学校前駅_\(岐阜県\) "wikilink")、新可児駅より近かった。以前の最寄りバス停は[可児市コミュニティバス](https://ja.wikipedia.org/wiki/可児市コミュニティバス "wikilink") (さつきバス) 兼山線の子守大橋 (こまもりおおはし) 停留所だったが、現在は店内駐車場に「ドン・キホーテUNY可児店」停留所が設置された。(祝日を除く月曜-土曜のみ運転・停車で、ドン・キホーテUNY休業日は通過となる。)
-  - 一般路線バスの場合、[東濃鉄道](https://ja.wikipedia.org/wiki/東濃鉄道 "wikilink")バス八百津線の子守神社前停留所が最寄り。
+  - 店舗の向かい側を名鉄広見線が通っているが、近くに駅はない。最寄り駅の[名鉄](https://ja.wikipedia.org/wiki/名古屋鉄道 "wikilink")[新可児駅](../Page/新可児駅.md "wikilink")・[JR東海](../Page/東海旅客鉄道.md "wikilink")[太多線](https://ja.wikipedia.org/wiki/太多線 "wikilink")[可児駅](https://ja.wikipedia.org/wiki/可児駅 "wikilink")まで徒歩20分程度。[学校前駅があった頃は](../Page/学校前駅_\(岐阜県\).md "wikilink")、新可児駅より近かった。以前の最寄りバス停は[可児市コミュニティバス](../Page/可児市コミュニティバス.md "wikilink") (さつきバス) 兼山線の子守大橋 (こまもりおおはし) 停留所だったが、現在は店内駐車場に「ドン・キホーテUNY可児店」停留所が設置された。(祝日を除く月曜-土曜のみ運転・停車で、ドン・キホーテUNY休業日は通過となる。)
+  - 一般路線バスの場合、[東濃鉄道](../Page/東濃鉄道.md "wikilink")バス八百津線の子守神社前停留所が最寄り。
 
 ## ショップランド可児
 
@@ -79,7 +79,7 @@
 
 いずれの店舗も「ピアゴ可児店」には出店していない。※印はショップブランド閉店後、ラスパ御嵩に移転したテナント。
 
-  - [キクチメガネ](https://ja.wikipedia.org/wiki/キクチメガネ "wikilink")
+  - [キクチメガネ](../Page/キクチメガネ.md "wikilink")
   - ティー・ジェイ
   - お茶のおおもり
   - カメラのアマノ (当時は同店が本店扱い)
@@ -97,9 +97,9 @@
   - 輸入雑貨店
   - [コメダ珈琲店](https://ja.wikipedia.org/wiki/コメダ珈琲店 "wikilink")可児広見店 - [岐阜銀行](../Page/岐阜銀行.md "wikilink")広見支店跡地。同支店は十六銀行との合併に伴い解体。
   - サワセイ (ギフト)
-  - [ハートアップ](https://ja.wikipedia.org/wiki/日本オプティカル "wikilink") (メガネ)
+  - [ハートアップ](../Page/日本オプティカル.md "wikilink") (メガネ)
   - [auショップ](../Page/KDDI.md "wikilink")
-  - [岐阜県立可児工業高等学校](https://ja.wikipedia.org/wiki/岐阜県立可児工業高等学校 "wikilink")
+  - [岐阜県立可児工業高等学校](../Page/岐阜県立可児工業高等学校.md "wikilink")
 
 ## 脚注
 

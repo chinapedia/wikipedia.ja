@@ -1,9 +1,9 @@
 > この記事は[Microsoft Developer Network](https://ja.wikipedia.org/wiki/Microsoft_Developer_Network)から翻訳されています。
 
 
-**Microsoft Developer Network** (マイクロソフト デベロッパー ネットワーク\[1\]、**MSDN**) とは、[マイクロソフト](../Page/マイクロソフト.md "wikilink")の開発者[ネットワークであり同社が開発者向けに提供する](https://ja.wikipedia.org/wiki/コンピュータネットワーク "wikilink")[サービス](../Page/サービス.md "wikilink")の総称。
+**Microsoft Developer Network** (マイクロソフト デベロッパー ネットワーク\[1\]、**MSDN**) とは、[マイクロソフト](../Page/マイクロソフト.md "wikilink")の開発者[ネットワークであり同社が開発者向けに提供する](../Page/コンピュータネットワーク.md "wikilink")[サービス](../Page/サービス.md "wikilink")の総称。
 
-2016年には、MSDNと[TechNetのコンテンツを](https://ja.wikipedia.org/wiki/Microsoft_TechNet "wikilink")**Microsoft Docs** (docs.microsoft.com) に移行することが発表された\[2\]\[3\]。その後は徐々に移行が進み、古いコンテンツは削除されるかDocsにリダイレクトされるようになっている。Docsでは各ページのデータ（[マークダウンテキストや画像ファイル](https://ja.wikipedia.org/wiki/Markdown "wikilink")）が[GitHub](https://ja.wikipedia.org/wiki/GitHub "wikilink")で管理されるようになっており\[4\]、プルリクエスト機能やフィードバック用リポジトリを利用することでコミュニティによる各国語の翻訳改善などの貢献も可能となっている。
+2016年には、MSDNと[TechNetのコンテンツを](../Page/Microsoft_TechNet.md "wikilink")**Microsoft Docs** (docs.microsoft.com) に移行することが発表された\[2\]\[3\]。その後は徐々に移行が進み、古いコンテンツは削除されるかDocsにリダイレクトされるようになっている。Docsでは各ページのデータ（[マークダウンテキストや画像ファイル](https://ja.wikipedia.org/wiki/Markdown "wikilink")）が[GitHub](https://ja.wikipedia.org/wiki/GitHub "wikilink")で管理されるようになっており\[4\]、プルリクエスト機能やフィードバック用リポジトリを利用することでコミュニティによる各国語の翻訳改善などの貢献も可能となっている。
 
 ## 無償提供サービス
 
@@ -11,17 +11,17 @@
 
 マイクロソフトの製品やテクノロジに関わる技術情報および [API](https://ja.wikipedia.org/wiki/Application_Programming_Interface "wikilink") リファレンスを提供している。後継はMicrosoft Docs。
 
-[Windows API](https://ja.wikipedia.org/wiki/Windows_API "wikilink")、[ATL](https://ja.wikipedia.org/wiki/Active_Template_Library "wikilink")/[MFC](https://ja.wikipedia.org/wiki/Microsoft_Foundation_Class "wikilink")、[VBA](../Page/Visual_Basic_for_Applications.md "wikilink")、[.NET Frameworkなどのリファレンスが含まれる](https://ja.wikipedia.org/wiki/.NET_Framework "wikilink")。Docsには[.NET Coreや](https://ja.wikipedia.org/wiki/.NET_Core "wikilink")[Xamarin](https://ja.wikipedia.org/wiki/Xamarin "wikilink")に関するドキュメントも収録されている。
+[Windows API](../Page/Windows_API.md "wikilink")、[ATL](../Page/Active_Template_Library.md "wikilink")/[MFC](../Page/Microsoft_Foundation_Class.md "wikilink")、[VBA](../Page/Visual_Basic_for_Applications.md "wikilink")、[.NET Frameworkなどのリファレンスが含まれる](https://ja.wikipedia.org/wiki/.NET_Framework "wikilink")。Docsには[.NET Coreや](https://ja.wikipedia.org/wiki/.NET_Core "wikilink")[Xamarin](https://ja.wikipedia.org/wiki/Xamarin "wikilink")に関するドキュメントも収録されている。
 
 [Microsoft Visual Studioのバージョン](https://ja.wikipedia.org/wiki/Microsoft_Visual_Studio "wikilink")2008までは、オフラインで利用可能なMSDNライブラリのスタンドアロン版が付属していた。
 
 ### ブログ
 
-マイクロソフト社員専用の[ブログ](https://ja.wikipedia.org/wiki/ブログ "wikilink")である。
+マイクロソフト社員専用の[ブログ](../Page/ブログ.md "wikilink")である。
 
 ### フォーラム
 
-マイクロソフトの製品に関する技術的な話題を専門とする[電子掲示板](https://ja.wikipedia.org/wiki/電子掲示板 "wikilink")。
+マイクロソフトの製品に関する技術的な話題を専門とする[電子掲示板](../Page/電子掲示板.md "wikilink")。
 
 ### サンプル
 
@@ -43,9 +43,9 @@
   - MSDN Library
   - [オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink") - [Microsoft Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")
   - [アプリケーション](../Page/アプリケーションソフトウェア.md "wikilink") - [Microsoft Office](../Page/Microsoft_Office.md "wikilink") など
-  - [サーバ](../Page/サーバ.md "wikilink")ー - [Windows Server](https://ja.wikipedia.org/wiki/Windows_Server "wikilink") や Microsoft Office servers など
+  - [サーバ](../Page/サーバ.md "wikilink")ー - [Windows Server](../Page/Windows_Server.md "wikilink") や Microsoft Office servers など
   - ツールとリソース - [.NET Framework](https://ja.wikipedia.org/wiki/.NET_Framework "wikilink") など
-  - デザイナ向けツール - [Microsoft Expression](https://ja.wikipedia.org/wiki/Microsoft_Expression "wikilink") など
+  - デザイナ向けツール - [Microsoft Expression](../Page/Microsoft_Expression.md "wikilink") など
   - 開発者向けツール - [Microsoft Visual Studio](https://ja.wikipedia.org/wiki/Microsoft_Visual_Studio "wikilink") ファミリーなど
 
 を提供している\[7\]。[Sun Microsystems, Inc.](../Page/サン・マイクロシステムズ.md "wikilink") と Microsoft Corporation との間の和解合意に準拠するため 2005 年末を持って  が含まれた製品の提供が終了している\[8\]。
@@ -60,7 +60,7 @@ MSDN サブスクリプションとは別に、教職員や学生向けに MSDN 
 
 ## 関連項目
 
-  - [Microsoft TechNet](https://ja.wikipedia.org/wiki/Microsoft_TechNet "wikilink")
+  - [Microsoft TechNet](../Page/Microsoft_TechNet.md "wikilink")
 
 ## 脚注
 

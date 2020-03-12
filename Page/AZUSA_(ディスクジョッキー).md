@@ -1,19 +1,19 @@
 > この記事は[AZUSA \(\)](https://ja.wikipedia.org/wiki/AZUSA_\(\))から翻訳されています。
 
 
-**AZUSA**（アズサ、旧名：**千駄 あずさ**、[1973年](../Page/1973年.md "wikilink")[6月9日](../Page/6月9日.md "wikilink") - ）は日本の[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")を中心に活動している[ディスクジョッキー](https://ja.wikipedia.org/wiki/ディスクジョッキー "wikilink")、[ラジオパーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")。拠点は名古屋であるが、[東京に本社を持つ](https://ja.wikipedia.org/wiki/東京都 "wikilink")「[サンディ](https://ja.wikipedia.org/wiki/サンディ_\(芸能事務所\) "wikilink")」に所属している。
+**AZUSA**（アズサ、旧名：**千駄 あずさ**、[1973年](../Page/1973年.md "wikilink")[6月9日](../Page/6月9日.md "wikilink") - ）は日本の[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")を中心に活動している[ディスクジョッキー](../Page/ディスクジョッキー.md "wikilink")、[ラジオパーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")。拠点は名古屋であるが、[東京に本社を持つ](../Page/東京都.md "wikilink")「[サンディ](../Page/サンディ_\(芸能事務所\).md "wikilink")」に所属している。
 
-[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[渥美郡](../Page/渥美郡.md "wikilink")[渥美町](https://ja.wikipedia.org/wiki/渥美町 "wikilink")（現在の[田原市](../Page/田原市.md "wikilink")）出身、[血液型はO型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[専修大学](../Page/専修大学.md "wikilink")[文学部](../Page/文学部.md "wikilink")英米文学科卒業。
+[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[渥美郡](../Page/渥美郡.md "wikilink")[渥美町](../Page/渥美町.md "wikilink")（現在の[田原市](../Page/田原市.md "wikilink")）出身、[血液型はO型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[専修大学](../Page/専修大学.md "wikilink")[文学部](../Page/文学部.md "wikilink")英米文学科卒業。
 
 女性[ラクロス](../Page/ラクロス.md "wikilink")のクラブチームである「[名古屋ラクロスクラブ](https://ja.wikipedia.org/wiki/名古屋ラクロスクラブ "wikilink")」の一員でもある。[上級救命士の資格も持っている](https://ja.wikipedia.org/wiki/救命士 "wikilink")。
 
-2007年3月の[FM AICHI](../Page/エフエム愛知.md "wikilink")『[ラブ・オンライン](https://ja.wikipedia.org/wiki/ラブ・オンライン "wikilink")』終了を以ってDJ業を休業。語学留学の後2008年2月に帰国。同年4月よりライバル局である[ZIP-FM](../Page/ZIP-FM.md "wikilink")のミュージック・ナビゲーターとして復帰している。
+2007年3月の[FM AICHI](../Page/エフエム愛知.md "wikilink")『[ラブ・オンライン](../Page/ラブ・オンライン.md "wikilink")』終了を以ってDJ業を休業。語学留学の後2008年2月に帰国。同年4月よりライバル局である[ZIP-FM](../Page/ZIP-FM.md "wikilink")のミュージック・ナビゲーターとして復帰している。
 
 ## 出演番組
 
 ### 過去の担当番組（FM AICHI）
 
-  - [ラブ・オンライン](https://ja.wikipedia.org/wiki/ラブ・オンライン "wikilink")（2001年4月〜2007年3月30日）
+  - [ラブ・オンライン](../Page/ラブ・オンライン.md "wikilink")（2001年4月〜2007年3月30日）
   - サンデープレシャスモーニング（2001年4月〜2004年3月）
 
 ### 過去の担当番組（ZIP-FM）
@@ -30,8 +30,8 @@
 
 ## 関連項目
 
-  - [専修大学の人物一覧](https://ja.wikipedia.org/wiki/専修大学の人物一覧 "wikilink")
-  - [深谷里奈](https://ja.wikipedia.org/wiki/深谷里奈 "wikilink")（[東海ラジオ](../Page/東海ラジオ放送.md "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")。友人であり、東海ラジオ公式サイトの深谷の日記に時折顔を出している）
+  - [専修大学の人物一覧](../Page/専修大学の人物一覧.md "wikilink")
+  - [深谷里奈](../Page/深谷里奈.md "wikilink")（[東海ラジオ](../Page/東海ラジオ放送.md "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")。友人であり、東海ラジオ公式サイトの深谷の日記に時折顔を出している）
 
 ## 外部リンク
 

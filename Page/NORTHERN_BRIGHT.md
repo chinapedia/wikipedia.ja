@@ -5,11 +5,11 @@
 
 ## 概要
 
-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、[Sony Recordsよりデビュー](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")。[オアシス日本公演のオープニングアクトもつとめ話題に](https://ja.wikipedia.org/wiki/オアシス_\(バンド\) "wikilink")。[2000年](../Page/2000年.md "wikilink")に[DefSTAR RECORDSに移籍](https://ja.wikipedia.org/wiki/デフスターレコーズ "wikilink")。
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、[Sony Recordsよりデビュー](../Page/ソニー・ミュージックレコーズ.md "wikilink")。[オアシス日本公演のオープニングアクトもつとめ話題に](https://ja.wikipedia.org/wiki/オアシス_\(バンド\) "wikilink")。[2000年](../Page/2000年.md "wikilink")に[DefSTAR RECORDSに移籍](../Page/デフスターレコーズ.md "wikilink")。
 
 ## メンバー
 
-  - 新井仁（あらいひとし、[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[9月25日](../Page/9月25日.md "wikilink") - ）ボーカル・ギター
+  - 新井仁（あらいひとし、[1970年](../Page/1970年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink") - ）ボーカル・ギター
   - 島田正史（しまだまさのり、[1964年](../Page/1964年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink") - ）ベース
   - 原"GEN"秀樹（はらひでき、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[7月16日](../Page/7月16日.md "wikilink") - ）ドラム
 
@@ -37,7 +37,7 @@
 <td><ol>
 <li>Icecream Summer[5:41]（作詞・作曲：新井仁／編曲：northern bright）
 <ul>
-<li><a href="https://ja.wikipedia.org/wiki/演劇集団キャラメルボックス" title="wikilink">演劇集団キャラメルボックス</a>『<a href="https://ja.wikipedia.org/wiki/銀河旋律" title="wikilink">銀河旋律</a>』OPダンス曲</li>
+<li><a href="../Page/演劇集団キャラメルボックス.md" title="wikilink">演劇集団キャラメルボックス</a>『<a href="https://ja.wikipedia.org/wiki/銀河旋律" title="wikilink">銀河旋律</a>』OPダンス曲</li>
 </ul></li>
 <li>End Of The Season[5:19]（作詞・作曲：新井仁／編曲：northern bright）</li>
 <li>Words Of Love[5:55]（作詞・作曲：新井仁／編曲：northern bright）</li>
@@ -70,7 +70,7 @@ DFCZ-1009</p></td>
 <td><ol>
 <li>Sugar &amp; Spice[5:24]（作詞：新井仁／作曲・編曲：northern bright）</li>
 <li>Monterey Park[4:53]（作詞：新井仁／作曲・編曲：northern bright）</li>
-<li>Barabajagal[4:22]（作詞・作曲：<a href="https://ja.wikipedia.org/wiki/ドノヴァン" title="wikilink">ドノヴァン</a>・フィリップス・レイッチ／編曲：northern bright）</li>
+<li>Barabajagal[4:22]（作詞・作曲：<a href="../Page/ドノヴァン.md" title="wikilink">ドノヴァン</a>・フィリップス・レイッチ／編曲：northern bright）</li>
 <li>Sugar &amp; Spice (Long Hot Summer Mix)[5:25]</li>
 </ol></td>
 <td></td>
@@ -85,7 +85,7 @@ DFCZ-1012</p></td>
 <td><ol>
 <li>Wildflower[4:00]（作詞：新井仁／作曲・編曲：northern bright）
 <ul>
-<li><a href="https://ja.wikipedia.org/wiki/TBSテレビ" title="wikilink">TBS系列ドラマ</a> <a href="https://ja.wikipedia.org/wiki/チープ・ラブ" title="wikilink">チープ・ラブ</a>主題歌</li>
+<li><a href="../Page/TBSテレビ.md" title="wikilink">TBS系列ドラマ</a> <a href="../Page/チープ・ラブ.md" title="wikilink">チープ・ラブ</a>主題歌</li>
 </ul></li>
 <li>Mountain High[4:00]（作詞：新井仁／作曲・編曲：northern bright）</li>
 </ol></td>
@@ -101,7 +101,7 @@ DFCZ-1016</p></td>
 <td><ol>
 <li>Adventure[4:14]（作詞：新井仁／作曲：northern bright／編曲：northern bright・村山達哉／キーボード：<a href="https://ja.wikipedia.org/wiki/高野勲" title="wikilink">Isao Takano</a>）
 <ul>
-<li><a href="https://ja.wikipedia.org/wiki/TBSテレビ" title="wikilink">TBS系列</a><a href="https://ja.wikipedia.org/wiki/COUNT_DOWN_TV" title="wikilink">COUNT DOWN TVオープニングテーマ</a></li>
+<li><a href="../Page/TBSテレビ.md" title="wikilink">TBS系列</a><a href="../Page/COUNT_DOWN_TV.md" title="wikilink">COUNT DOWN TVオープニングテーマ</a></li>
 </ul></li>
 <li>North Of The Border (Acoustic Version)[3:49]</li>
 </ol></td>
@@ -119,7 +119,7 @@ DFCZ-1016</p></td>
 <li>GET YOURSELF ARRESTED(DOPE×3、歩キダシタラ止マラナイ～散歩のつもりが国境越える～MIX)[6:17]</li>
 </ol></td>
 <td><p>オリコン65位<br />
-「NORTHERN BRIGHT <a href="https://ja.wikipedia.org/wiki/SHAKKAZOMBIE" title="wikilink">SHAKKAZOMBIE</a>」名義</p></td>
+「NORTHERN BRIGHT <a href="../Page/SHAKKAZOMBIE.md" title="wikilink">SHAKKAZOMBIE</a>」名義</p></td>
 </tr>
 <tr class="odd">
 <td><p>7th</p></td>
@@ -127,7 +127,7 @@ DFCZ-1016</p></td>
 <td><p><strong>PULP FLAVOUR</strong></p></td>
 <td><p>DFCZ-1032</p></td>
 <td><ol>
-<li>PULP FLAVOR[5:23]（作詞：新井仁／作曲：northern bright／編曲：northern bright・<a href="https://ja.wikipedia.org/wiki/松田岳二" title="wikilink">Gakuji"Chabe"Matsuda</a>）</li>
+<li>PULP FLAVOR[5:23]（作詞：新井仁／作曲：northern bright／編曲：northern bright・<a href="../Page/松田岳二.md" title="wikilink">Gakuji"Chabe"Matsuda</a>）</li>
 <li>BETTER ALL THE TIME (Instrumental)[4:48]（作曲：northern bright／編曲：northern bright・高野勲）</li>
 <li><a href="https://ja.wikipedia.org/wiki/カム・トゥゲザー" title="wikilink">COME TOGETHER</a>[5:12]（作詞：<a href="../Page/ジョン・レノン.md" title="wikilink">ジョン・レノン</a>／作曲：<a href="../Page/ポール・マッカートニー.md" title="wikilink">ポール・マッカートニー</a>／編曲：northern bright・見津優</li>
 <li>PULP FLAVOUR (ELEVATOR SUITE remix)[3:23]</li>
@@ -140,7 +140,7 @@ DFCZ-1016</p></td>
 <td><p><strong>COME ON,NOW!</strong></p></td>
 <td><p>DFCL-1061</p></td>
 <td><ol>
-<li>COME ON,NOW![5:15]（作詞：新井仁・麻生哲朗／作曲：northern bright／編曲：<a href="https://ja.wikipedia.org/wiki/亀田誠治" title="wikilink">亀田誠治</a>）</li>
+<li>COME ON,NOW![5:15]（作詞：新井仁・麻生哲朗／作曲：northern bright／編曲：<a href="../Page/亀田誠治.md" title="wikilink">亀田誠治</a>）</li>
 <li>COME ON,NOW! (NB RELIEVED mix)[6:27]</li>
 <li>COME ON,NOW! (Instrumental)[5:15]</li>
 </ol></td>
@@ -184,7 +184,7 @@ Recorded@Our Room E.P.feat.<a href="https://ja.wikipedia.org/wiki/Bice" title="w
 <td><ol>
 <li>SHOOTING FROM THE SHINING STAR[4:59]（作詞・作曲：新井仁／編曲：NORTHERN BRIGHT）</li>
 <li>～ SEE YOU TOMORROW[3:03]（作曲：新井仁／編曲：NORTHERN BRIGHT）</li>
-<li>BRIGHT LIGHT CITY[4:46]（作詞・作曲：<a href="https://ja.wikipedia.org/wiki/ルー・リード" title="wikilink">ルー・リード</a>／編曲：NORTHERN BRIGHT）</li>
+<li>BRIGHT LIGHT CITY[4:46]（作詞・作曲：<a href="../Page/ルー・リード.md" title="wikilink">ルー・リード</a>／編曲：NORTHERN BRIGHT）</li>
 <li>PALE BLUE EYES[5:31]</li>
 <li>SHOOTING FROM THE SHINING STAR ( acoustic )[4:31]</li>
 <li>SHOOTING FROM THE SHINING STAR ( radio edit )[4:58]</li>
@@ -214,7 +214,7 @@ Recorded@Our Room E.P.feat.<a href="https://ja.wikipedia.org/wiki/Bice" title="w
 <td><ol>
 <li>STRAIGHT FROM MY HEART[4:40]（作詞：新井仁／作曲・編曲：NORTHERN BRIGHT）
 <ul>
-<li>アニメ「<a href="https://ja.wikipedia.org/wiki/Get_Ride!_アムドライバー" title="wikilink">Get Ride! アムドライバー</a>」エンディングテーマ</li>
+<li>アニメ「<a href="../Page/Get_Ride!_アムドライバー.md" title="wikilink">Get Ride! アムドライバー</a>」エンディングテーマ</li>
 </ul></li>
 <li>STRAIGHT FROM MY HEART (acoustic version)[4:30]</li>
 <li>STRAIGHT FROM MY HEART (instrumental)[4:40]</li>
@@ -322,8 +322,8 @@ SYFT-031LP:LP</p></td>
 <td><p><strong>Seven Colours Gradations</strong></p></td>
 <td><p>POCE-7317</p></td>
 <td><ol>
-<li>FREEDOM (<a href="https://ja.wikipedia.org/wiki/タヒチ80" title="wikilink">TAHITI 80</a> remix)[3:52]</li>
-<li>FEELS LIKE SUMMER (<a href="https://ja.wikipedia.org/wiki/Fantastic_Plastic_Machine" title="wikilink">FPM</a> euphoria mix)[5:31]</li>
+<li>FREEDOM (<a href="../Page/タヒチ80.md" title="wikilink">TAHITI 80</a> remix)[3:52]</li>
+<li>FEELS LIKE SUMMER (<a href="../Page/Fantastic_Plastic_Machine.md" title="wikilink">FPM</a> euphoria mix)[5:31]</li>
 <li>SHOOTING FROM THE SHINING STAR (<a href="https://ja.wikipedia.org/wiki/矢野博康" title="wikilink">HIROYASU YANO</a>'S AGAT mix)[7:40]</li>
 <li>HAPPINESS (岡村靖幸 remix)[5:01]</li>
 <li>YOUNG LOVERS (DUCK ROCK TONES ON ROCKETS RMX)[7:21]</li>
@@ -419,7 +419,7 @@ DFBZ-7004:DVD</p></td>
 
 ### 参加作品
 
-1.  [Cymbals](https://ja.wikipedia.org/wiki/Cymbals "wikilink")（2001年11月21日）
+1.  [Cymbals](../Page/Cymbals.md "wikilink")（2001年11月21日）
       -
         4.Highway Star, Speed Star (NORTHERN BRIGHT remix)
 2.  輝け！金曜ドラマ王 90's（2002年09月19日）
@@ -443,7 +443,7 @@ DFBZ-7004:DVD</p></td>
 8.  Tribute to Eric Crapton（2007年01月24日）
       -
         4.SUNSHINE OF YOUR LOVE
-9.  [鈴木亜美](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")「[CONNETTA](https://ja.wikipedia.org/wiki/CONNETTA "wikilink")」（2007年3月21日）
+9.  [鈴木亜美](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")「[CONNETTA](../Page/CONNETTA.md "wikilink")」（2007年3月21日）
       -
         8.EVERYTHING TO me
 
@@ -464,8 +464,8 @@ DFBZ-7004:DVD</p></td>
   - 2001年04月19日・2002年02月27日 - 日本テレビ系「[AX MUSIC-FACTORY](https://ja.wikipedia.org/wiki/AX_MUSIC-FACTORY "wikilink")」
   - 2001年07月07日・2002年02月16日 - フジテレビ系「[エブナイ](https://ja.wikipedia.org/wiki/エブナイ "wikilink")」
   - 2002年02月02日 - フジテレビ系「FACTORY8」
-  - 2002年02月13日 - フジテレビ系「[アヤパン](https://ja.wikipedia.org/wiki/アヤパン_\(テレビ番組\) "wikilink")」
-  - 2002年02月26日 - テレビ東京系「[MelodiX\!](https://ja.wikipedia.org/wiki/プレミアMelodiX! "wikilink")」
+  - 2002年02月13日 - フジテレビ系「[アヤパン](../Page/アヤパン_\(テレビ番組\).md "wikilink")」
+  - 2002年02月26日 - テレビ東京系「[MelodiX\!](../Page/プレミアMelodiX!.md "wikilink")」
   - 2002年03月22日 - テレビ朝日系「[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")」
 
 ## 主なライブ
@@ -475,11 +475,11 @@ DFBZ-7004:DVD</p></td>
 
 ## 関連項目
 
-  - [沖井礼二](https://ja.wikipedia.org/wiki/沖井礼二 "wikilink")
-  - [近藤金吾](https://ja.wikipedia.org/wiki/近藤金吾 "wikilink")
-  - [SHAKKAZOMBIE](https://ja.wikipedia.org/wiki/SHAKKAZOMBIE "wikilink")
+  - [沖井礼二](../Page/沖井礼二.md "wikilink")
+  - [近藤金吾](../Page/近藤金吾.md "wikilink")
+  - [SHAKKAZOMBIE](../Page/SHAKKAZOMBIE.md "wikilink")
   - [鈴木亜美](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")
-      - アルバム『[CONNETTA](https://ja.wikipedia.org/wiki/CONNETTA "wikilink")』（2007年3月21日）(CD+AタイプDVD)に収録されているオリジナルショートムービー「join」に新井が特別出演
+      - アルバム『[CONNETTA](../Page/CONNETTA.md "wikilink")』（2007年3月21日）(CD+AタイプDVD)に収録されているオリジナルショートムービー「join」に新井が特別出演
 
 ## 外部リンク
 

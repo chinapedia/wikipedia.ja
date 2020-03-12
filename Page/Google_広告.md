@@ -1,7 +1,7 @@
 > この記事は[Google ](https://ja.wikipedia.org/wiki/Google_)から翻訳されています。
 
 
-**Google 広告**（グーグルこうこく、**Google Ads**）は、[Google](https://ja.wikipedia.org/wiki/Google "wikilink")が提供する広告出稿サービスである。出稿された広告は、[Google Adsenseなどを用いて様々なWebサイトに表示される](https://ja.wikipedia.org/wiki/Google_Adsense "wikilink")。
+**Google 広告**（グーグルこうこく、**Google Ads**）は、[Google](../Page/Google.md "wikilink")が提供する広告出稿サービスである。出稿された広告は、[Google Adsenseなどを用いて様々なWebサイトに表示される](https://ja.wikipedia.org/wiki/Google_Adsense "wikilink")。
 
 2018年7月に現在のサービスに変更を行っており、旧称は「Google Adwords」であった。\[1\]
 

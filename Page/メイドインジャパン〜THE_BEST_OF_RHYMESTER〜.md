@@ -1,11 +1,11 @@
 > この記事は[THE BEST OF RHYMESTER](https://ja.wikipedia.org/wiki/THE_BEST_OF_RHYMESTER)から翻訳されています。
 
 
-『**メイドインジャパン〜THE BEST OF RHYMESTER〜**』は、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[1月31日](../Page/1月31日.md "wikilink")に発売された[RHYMESTER](https://ja.wikipedia.org/wiki/RHYMESTER "wikilink")初の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。[メジャー](https://ja.wikipedia.org/wiki/レコード会社#メジャーとインディーズ "wikilink")5枚目（[インディーズ](../Page/インディーズ.md "wikilink")を含めると8枚目）の[アルバム](../Page/アルバム.md "wikilink")になる。
+『**メイドインジャパン〜THE BEST OF RHYMESTER〜**』は、[2007年](../Page/2007年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink")に発売された[RHYMESTER](../Page/RHYMESTER.md "wikilink")初の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[メジャー](https://ja.wikipedia.org/wiki/レコード会社#メジャーとインディーズ "wikilink")5枚目（[インディーズ](../Page/インディーズ.md "wikilink")を含めると8枚目）の[アルバム](../Page/アルバム.md "wikilink")になる。
 
 ブックレットにはそれぞれの楽曲のセルフライナーノーツが収録されている。
 
-初回生産限定盤には[PVのノン](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")・ストップで繋げたVJ Mix DVD付。
+初回生産限定盤には[PVのノン](../Page/ミュージック・ビデオ.md "wikilink")・ストップで繋げたVJ Mix DVD付。
 
 ## 収録曲
 

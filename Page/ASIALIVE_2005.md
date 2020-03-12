@@ -5,11 +5,11 @@
 
 ## 概要
 
-「ASIALIVE 2005」は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月](../Page/9月.md "wikilink")に日本国内外3都市4公演で開催されたライブツアー。
+「ASIALIVE 2005」は、[2005年](../Page/2005年.md "wikilink")[9月](../Page/9月.md "wikilink")に日本国内外3都市4公演で開催されたライブツアー。
 
-[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")に[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")で行った「Live in USA」以来約1年ぶりとなる海外公演を含んだツアーで、海外公演を含むツアーはL'Arc〜en〜Cielとしては初となった。また、日本以外の[東アジア](https://ja.wikipedia.org/wiki/東アジア "wikilink")公演としては自身初となる[ソウル](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")、[上海でのライヴツアーとなった](../Page/上海市.md "wikilink")。さらに、日本公演は[東京ドーム](../Page/東京ドーム.md "wikilink")で行われており、本会場でライヴを行うのは「TOUR 2000 REAL」以来4年9ヶ月ぶりとなった。
+[2004年](../Page/2004年.md "wikilink")に[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")で行った「Live in USA」以来約1年ぶりとなる海外公演を含んだツアーで、海外公演を含むツアーはL'Arc〜en〜Cielとしては初となった。また、日本以外の[東アジア](../Page/東アジア.md "wikilink")公演としては自身初となる[ソウル](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")、[上海でのライヴツアーとなった](../Page/上海市.md "wikilink")。さらに、日本公演は[東京ドーム](../Page/東京ドーム.md "wikilink")で行われており、本会場でライヴを行うのは「TOUR 2000 REAL」以来4年9ヶ月ぶりとなった。
 
-また、本ツアーの模様は[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月22日](../Page/12月22日.md "wikilink")に[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")系特別番組『密着\! L'Arc〜en〜Ciel ASIALIVE 2005』にて放送された。ライヴの模様に加え、ツアーを終えたメンバーへのインタビューを入れた構成となっており、翌年発売されたライブビデオ『ASIALIVE 2005』のDisc2にも放送された映像の一部が収録されている。
+また、本ツアーの模様は[2005年](../Page/2005年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")に[テレビ朝日](../Page/テレビ朝日.md "wikilink")系特別番組『密着\! L'Arc〜en〜Ciel ASIALIVE 2005』にて放送された。ライヴの模様に加え、ツアーを終えたメンバーへのインタビューを入れた構成となっており、翌年発売されたライブビデオ『ASIALIVE 2005』のDisc2にも放送された映像の一部が収録されている。
 
 ### 公演日程
 
@@ -34,33 +34,33 @@
 <div class="NavContent" style="text-align:left;">
 <ol>
 <li><strong><a href="https://ja.wikipedia.org/wiki/snow_drop_(L&#39;Arc〜en〜Cielの曲)" title="wikilink">a swell in the sun</a></strong></li>
-<li><strong><a href="https://ja.wikipedia.org/wiki/Killing_Me" title="wikilink">Killing Me</a></strong></li>
-<li><strong><a href="https://ja.wikipedia.org/wiki/HEAVEN&#39;S_DRIVE" title="wikilink">HEAVEN'S DRIVE</a></strong></li>
-<li><strong><a href="https://ja.wikipedia.org/wiki/Driver&#39;s_High" title="wikilink">Driver's High</a></strong></li>
-<li><strong><a href="https://ja.wikipedia.org/wiki/AWAKE_(L&#39;Arc〜en〜Cielのアルバム)" title="wikilink">LOST HEAVEN</a></strong></li>
+<li><strong><a href="../Page/Killing_Me.md" title="wikilink">Killing Me</a></strong></li>
+<li><strong><a href="../Page/HEAVEN&#39;S_DRIVE.md" title="wikilink">HEAVEN'S DRIVE</a></strong></li>
+<li><strong><a href="../Page/Driver&#39;s_High.md" title="wikilink">Driver's High</a></strong></li>
+<li><strong><a href="../Page/AWAKE_(L&#39;Arc〜en〜Cielのアルバム).md" title="wikilink">LOST HEAVEN</a></strong></li>
 <li><strong><a href="https://ja.wikipedia.org/wiki/snow_drop_(L&#39;Arc〜en〜Cielの曲)" title="wikilink">snow drop</a></strong></li>
 <li><strong><a href="https://ja.wikipedia.org/wiki/winter_fall" title="wikilink">winter fall</a></strong></li>
 <li><strong><a href="https://ja.wikipedia.org/wiki/forbidden_lover" title="wikilink">forbidden lover</a></strong></li>
-<li><strong><a href="https://ja.wikipedia.org/wiki/叙情詩_(曲)" title="wikilink">叙情詩</a></strong></li>
-<li><strong><a href="https://ja.wikipedia.org/wiki/STAY_AWAY" title="wikilink">get out from the shell</a></strong></li>
-<li><strong><a href="https://ja.wikipedia.org/wiki/New_World_(L&#39;Arc〜en〜Cielの曲)" title="wikilink">New World</a></strong></li>
-<li><strong><a href="https://ja.wikipedia.org/wiki/自由への招待" title="wikilink">自由への招待</a></strong></li>
-<li><strong><a href="https://ja.wikipedia.org/wiki/STAY_AWAY" title="wikilink">STAY AWAY -formation A-</a></strong></li>
-<li><strong><a href="https://ja.wikipedia.org/wiki/AWAKE_(L&#39;Arc〜en〜Cielのアルバム)" title="wikilink">AS ONE</a></strong></li>
-<li><strong><a href="https://ja.wikipedia.org/wiki/READY_STEADY_GO_(L&#39;Arc〜en〜Cielの曲)" title="wikilink">READY STEADY GO</a></strong></li>
+<li><strong><a href="../Page/叙情詩_(曲).md" title="wikilink">叙情詩</a></strong></li>
+<li><strong><a href="../Page/STAY_AWAY.md" title="wikilink">get out from the shell</a></strong></li>
+<li><strong><a href="../Page/New_World_(L&#39;Arc〜en〜Cielの曲).md" title="wikilink">New World</a></strong></li>
+<li><strong><a href="../Page/自由への招待.md" title="wikilink">自由への招待</a></strong></li>
+<li><strong><a href="../Page/STAY_AWAY.md" title="wikilink">STAY AWAY -formation A-</a></strong></li>
+<li><strong><a href="../Page/AWAKE_(L&#39;Arc〜en〜Cielのアルバム).md" title="wikilink">AS ONE</a></strong></li>
+<li><strong><a href="../Page/READY_STEADY_GO_(L&#39;Arc〜en〜Cielの曲).md" title="wikilink">READY STEADY GO</a></strong></li>
 <li><strong>L'Arc〜en〜Ciel PARADE</strong>
 <dl>
-<dt><a href="https://ja.wikipedia.org/wiki/Blurry_Eyes" title="wikilink">Blurry Eyes</a><br />
-<a href="https://ja.wikipedia.org/wiki/DIVE_TO_BLUE" title="wikilink">DIVE TO BLUE</a><br />
-<a href="https://ja.wikipedia.org/wiki/浸食_〜lose_control〜" title="wikilink">浸食 〜lose control〜</a><br />
-<a href="https://ja.wikipedia.org/wiki/花葬" title="wikilink">花葬</a><br />
-<a href="https://ja.wikipedia.org/wiki/Flower_(L&#39;Arc〜en〜Cielの曲)" title="wikilink">flower</a></dt>
+<dt><a href="../Page/Blurry_Eyes.md" title="wikilink">Blurry Eyes</a><br />
+<a href="../Page/DIVE_TO_BLUE.md" title="wikilink">DIVE TO BLUE</a><br />
+<a href="../Page/浸食_〜lose_control〜.md" title="wikilink">浸食 〜lose control〜</a><br />
+<a href="../Page/花葬.md" title="wikilink">花葬</a><br />
+<a href="../Page/Flower_(L&#39;Arc〜en〜Cielの曲).md" title="wikilink">flower</a></dt>
 
 </dl></li>
-<li><strong><a href="https://ja.wikipedia.org/wiki/HONEY_(L&#39;Arc〜en〜Cielの曲)" title="wikilink">HONEY</a></strong></li>
+<li><strong><a href="../Page/HONEY_(L&#39;Arc〜en〜Cielの曲).md" title="wikilink">HONEY</a></strong></li>
 <li><strong>Link</strong></li>
-<li><strong><a href="https://ja.wikipedia.org/wiki/瞳の住人" title="wikilink">瞳の住人</a></strong></li>
-<li><strong><a href="https://ja.wikipedia.org/wiki/虹_(L&#39;Arc〜en〜Cielの曲)" title="wikilink">虹</a></strong></li>
+<li><strong><a href="../Page/瞳の住人.md" title="wikilink">瞳の住人</a></strong></li>
+<li><strong><a href="../Page/虹_(L&#39;Arc〜en〜Cielの曲).md" title="wikilink">虹</a></strong></li>
 </ol>
 </div>
 </div></td>
@@ -68,14 +68,14 @@
 <tr class="even">
 <td><p><a href="../Page/9月10日.md" title="wikilink">9月10日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/上海" title="wikilink">上海</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/上海体育館" title="wikilink">上海体育館</a></p></td>
+<td><p><a href="../Page/上海体育館.md" title="wikilink">上海体育館</a></p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
 <p>セットリスト</p>
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li><strong><a href="https://ja.wikipedia.org/wiki/Killing_Me" title="wikilink">Killing Me</a></strong></li>
+<li><strong><a href="../Page/Killing_Me.md" title="wikilink">Killing Me</a></strong></li>
 <li><strong>HEAVEN'S DRIVE</strong></li>
 <li><strong>Driver's High</strong></li>
 <li><strong>LOST HEAVEN</strong></li>
@@ -108,7 +108,7 @@ DIVE TO BLUE<br />
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/9月24日.md" title="wikilink">9月24日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京" title="wikilink">東京</a></p></td>
+<td><p><a href="../Page/東京.md" title="wikilink">東京</a></p></td>
 <td><p><a href="../Page/東京ドーム.md" title="wikilink">東京ドーム</a></p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
@@ -117,13 +117,13 @@ DIVE TO BLUE<br />
 <div class="NavContent" style="text-align:left;">
 <ol>
 <li><strong>Killing Me</strong></li>
-<li><strong><a href="https://ja.wikipedia.org/wiki/HEART_(L&#39;Arc〜en〜Cielのアルバム)" title="wikilink">Promised land</a></strong></li>
+<li><strong><a href="../Page/HEART_(L&#39;Arc〜en〜Cielのアルバム).md" title="wikilink">Promised land</a></strong></li>
 <li><strong>Driver's High</strong></li>
 <li><strong>snow drop</strong></li>
 <li><strong>winter fall</strong></li>
-<li><strong><a href="https://ja.wikipedia.org/wiki/True_(L&#39;Arc〜en〜Cielのアルバム)" title="wikilink">Caress of Venus</a></strong></li>
+<li><strong><a href="../Page/True_(L&#39;Arc〜en〜Cielのアルバム).md" title="wikilink">Caress of Venus</a></strong></li>
 <li><strong>HEAVEN'S DRIVE</strong></li>
-<li><strong><a href="https://ja.wikipedia.org/wiki/LOVE_FLIES" title="wikilink">LOVE FLIES</a></strong></li>
+<li><strong><a href="../Page/LOVE_FLIES.md" title="wikilink">LOVE FLIES</a></strong></li>
 <li><strong>叙情詩</strong></li>
 <li><strong>get out from the shell</strong></li>
 <li><strong>New World</strong></li>
@@ -200,37 +200,37 @@ DIVE TO BLUE<br />
 
 ## ライブビデオ
 
-『**ASIALIVE 2005**』（アジアライブ にせんご）は、日本のバンド、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")のライブビデオ。[DVD版は](../Page/DVD-Video.md "wikilink")[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[6月21日](../Page/6月21日.md "wikilink")、[BD版は](../Page/Blu-ray_Disc.md "wikilink")[2014年](../Page/2014年.md "wikilink")[3月19日](../Page/3月19日.md "wikilink")発売。発売元は[Ki/oon Records](https://ja.wikipedia.org/wiki/Ki/oon_Records "wikilink")。
+『**ASIALIVE 2005**』（アジアライブ にせんご）は、日本のバンド、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")のライブビデオ。[DVD版は](../Page/DVD-Video.md "wikilink")[2006年](../Page/2006年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")、[BD版は](../Page/Blu-ray_Disc.md "wikilink")[2014年](../Page/2014年.md "wikilink")[3月19日](../Page/3月19日.md "wikilink")発売。発売元は[Ki/oon Records](https://ja.wikipedia.org/wiki/Ki/oon_Records "wikilink")。
 
 ### 解説
 
-L'Arc〜en〜Cielの結成15周年を記念して行われた企画、「L'Anniversary」の第1弾として発売された作品。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月](../Page/9月.md "wikilink")に、[ソウルと](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")[上海](../Page/上海市.md "wikilink")、[東京の](https://ja.wikipedia.org/wiki/東京都 "wikilink")3ヶ所で行われた「ASIALIVE 2005」の模様を収録。
+L'Arc〜en〜Cielの結成15周年を記念して行われた企画、「L'Anniversary」の第1弾として発売された作品。[2005年](../Page/2005年.md "wikilink")[9月](../Page/9月.md "wikilink")に、[ソウルと](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")[上海](../Page/上海市.md "wikilink")、[東京の](../Page/東京都.md "wikilink")3ヶ所で行われた「ASIALIVE 2005」の模様を収録。
 
-本作で自身初の試みとしてDVD2枚組で発売が行われたが（「Disc 1」には、当日に演奏された23曲の中から11曲が収録）、「Disc 2」の内容は[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")で放送された番組『密着\! L'Arc〜en〜Ciel ASIALIVE 2005』の再構成版が収録された（なお、インタビュアーの[堂真理子](https://ja.wikipedia.org/wiki/堂真理子 "wikilink")が一切映っていないほか、インタビュー内容なども変更・追加がなされた）。テレビ朝日での放送は全国ネットではなかったため、視聴出来なかったファンへの配慮と思われる。
+本作で自身初の試みとしてDVD2枚組で発売が行われたが（「Disc 1」には、当日に演奏された23曲の中から11曲が収録）、「Disc 2」の内容は[テレビ朝日](../Page/テレビ朝日.md "wikilink")で放送された番組『密着\! L'Arc〜en〜Ciel ASIALIVE 2005』の再構成版が収録された（なお、インタビュアーの[堂真理子](https://ja.wikipedia.org/wiki/堂真理子 "wikilink")が一切映っていないほか、インタビュー内容なども変更・追加がなされた）。テレビ朝日での放送は全国ネットではなかったため、視聴出来なかったファンへの配慮と思われる。
 
-なお、上海公演の模様は、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月4日](../Page/4月4日.md "wikilink")に発売された、5枚組DVD-BOX『[FIVE LIVE ARCHIVES](https://ja.wikipedia.org/wiki/FIVE_LIVE_ARCHIVES "wikilink")』に収録されている。
+なお、上海公演の模様は、[2007年](../Page/2007年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")に発売された、5枚組DVD-BOX『[FIVE LIVE ARCHIVES](../Page/FIVE_LIVE_ARCHIVES.md "wikilink")』に収録されている。
 
-また、[2014年](../Page/2014年.md "wikilink")[2月26日](https://ja.wikipedia.org/wiki/2月26日 "wikilink")には本作を含む音楽作品18タイトルを収録した[BD-BOX](https://ja.wikipedia.org/wiki/DVD-BOX "wikilink")『[L'Aive Blu-ray BOX -Limited Edition-](https://ja.wikipedia.org/wiki/L'Aive_Blu-ray_BOX_-Limited_Edition- "wikilink")』が発売され、本作のライブ音源CDも収録された。さらに、同年[3月19日](../Page/3月19日.md "wikilink")にはBlu-ray Disc版が単体でリリースされた。
+また、[2014年](../Page/2014年.md "wikilink")[2月26日](../Page/2月26日.md "wikilink")には本作を含む音楽作品18タイトルを収録した[BD-BOX](https://ja.wikipedia.org/wiki/DVD-BOX "wikilink")『[L'Aive Blu-ray BOX -Limited Edition-](https://ja.wikipedia.org/wiki/L'Aive_Blu-ray_BOX_-Limited_Edition- "wikilink")』が発売され、本作のライブ音源CDも収録された。さらに、同年[3月19日](../Page/3月19日.md "wikilink")にはBlu-ray Disc版が単体でリリースされた。
 
 ### 収録曲
 
 #### Disc 1　Tokyo Dome
 
-1.  **[Killing Me](https://ja.wikipedia.org/wiki/Killing_Me "wikilink")**
+1.  **[Killing Me](../Page/Killing_Me.md "wikilink")**
 2.  **[Caress of Venus](https://ja.wikipedia.org/wiki/True_\(L'Arc〜en〜Cielのアルバム\)#収録曲 "wikilink")**
-3.  **[Driver's High](https://ja.wikipedia.org/wiki/Driver's_High "wikilink")**
+3.  **[Driver's High](../Page/Driver's_High.md "wikilink")**
 4.  **[winter fall](https://ja.wikipedia.org/wiki/winter_fall "wikilink")**
-5.  **[New World](https://ja.wikipedia.org/wiki/New_World_\(L'Arc〜en〜Cielの曲\) "wikilink")**
-6.  **[叙情詩](https://ja.wikipedia.org/wiki/叙情詩_\(曲\) "wikilink")**
+5.  **[New World](../Page/New_World_\(L'Arc〜en〜Cielの曲\).md "wikilink")**
+6.  **[叙情詩](../Page/叙情詩_\(曲\).md "wikilink")**
 7.  **L'Arc〜en〜Ciel PARADE**
-      - [Blurry Eyes](https://ja.wikipedia.org/wiki/Blurry_Eyes "wikilink")
-        [DIVE TO BLUE](https://ja.wikipedia.org/wiki/DIVE_TO_BLUE "wikilink")
-        [浸食 〜lose control〜](https://ja.wikipedia.org/wiki/浸食_〜lose_control〜 "wikilink")
-        [花葬](https://ja.wikipedia.org/wiki/花葬 "wikilink")
-        [flower](https://ja.wikipedia.org/wiki/Flower_\(L'Arc〜en〜Cielの曲\) "wikilink")
-8.  **[STAY AWAY](https://ja.wikipedia.org/wiki/STAY_AWAY "wikilink")**
+      - [Blurry Eyes](../Page/Blurry_Eyes.md "wikilink")
+        [DIVE TO BLUE](../Page/DIVE_TO_BLUE.md "wikilink")
+        [浸食 〜lose control〜](../Page/浸食_〜lose_control〜.md "wikilink")
+        [花葬](../Page/花葬.md "wikilink")
+        [flower](../Page/Flower_\(L'Arc〜en〜Cielの曲\).md "wikilink")
+8.  **[STAY AWAY](../Page/STAY_AWAY.md "wikilink")**
 9.  **[AS ONE](https://ja.wikipedia.org/wiki/AWAKE_\(L'Arc〜en〜Cielのアルバム\)#収録曲 "wikilink")**
-10. **[READY STEADY GO](https://ja.wikipedia.org/wiki/READY_STEADY_GO_\(L'Arc〜en〜Cielの曲\) "wikilink")**
+10. **[READY STEADY GO](../Page/READY_STEADY_GO_\(L'Arc〜en〜Cielの曲\).md "wikilink")**
       -
         EXTRA
 
@@ -243,16 +243,16 @@ L'Arc〜en〜Cielの結成15周年を記念して行われた企画、「L'Anniv
 <!-- end list -->
 
 1.  **Killing Me（in Seoul）**
-2.  **[HEAVEN'S DRIVE](https://ja.wikipedia.org/wiki/HEAVEN'S_DRIVE "wikilink") （in Seoul）**
-3.  **[自由への招待](https://ja.wikipedia.org/wiki/自由への招待 "wikilink") （in Shanghai）**
+2.  **[HEAVEN'S DRIVE](../Page/HEAVEN'S_DRIVE.md "wikilink") （in Seoul）**
+3.  **[自由への招待](../Page/自由への招待.md "wikilink") （in Shanghai）**
 4.  **[get out from the shell](https://ja.wikipedia.org/wiki/STAY_AWAY#収録曲 "wikilink") （in Shanghai）**
-5.  **[HONEY](https://ja.wikipedia.org/wiki/HONEY_\(L'Arc〜en〜Cielの曲\) "wikilink") （in Shanghai）**
+5.  **[HONEY](../Page/HONEY_\(L'Arc〜en〜Cielの曲\).md "wikilink") （in Shanghai）**
 6.  **[LOST HEAVEN](https://ja.wikipedia.org/wiki/AWAKE_\(L'Arc〜en〜Cielのアルバム\)#収録曲 "wikilink") （in Shanghai）**
-7.  **[Link](https://ja.wikipedia.org/wiki/Link_\(L'Arc〜en〜Cielの曲\) "wikilink") （in Tokyo）**
-8.  **[虹](https://ja.wikipedia.org/wiki/虹_\(L'Arc〜en〜Cielの曲\) "wikilink") （in Tokyo）**
+7.  **[Link](../Page/Link_\(L'Arc〜en〜Cielの曲\).md "wikilink") （in Tokyo）**
+8.  **[虹](../Page/虹_\(L'Arc〜en〜Cielの曲\).md "wikilink") （in Tokyo）**
 
 ## 関連項目
 
-  - 『[FIVE LIVE ARCHIVES](https://ja.wikipedia.org/wiki/FIVE_LIVE_ARCHIVES "wikilink")』 <small> - 「ASIALIVE 2005」[6月21日](../Page/6月21日.md "wikilink")の[上海](https://ja.wikipedia.org/wiki/上海 "wikilink")公演を収録</small>
+  - 『[FIVE LIVE ARCHIVES](../Page/FIVE_LIVE_ARCHIVES.md "wikilink")』 <small> - 「ASIALIVE 2005」[6月21日](../Page/6月21日.md "wikilink")の[上海](https://ja.wikipedia.org/wiki/上海 "wikilink")公演を収録</small>
 
 [Category:L'Arc〜en〜Cielの映像作品](https://ja.wikipedia.org/wiki/Category:L'Arc〜en〜Cielの映像作品 "wikilink") [Category:2005年のコンサート・ツアー](https://ja.wikipedia.org/wiki/Category:2005年のコンサート・ツアー "wikilink") [Category:2006年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2006年のライブ・ビデオ "wikilink")

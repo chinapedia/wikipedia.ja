@@ -5,9 +5,9 @@
 
 ## 解説
 
-セカンド・アルバム『[EXPO EXPO](https://ja.wikipedia.org/wiki/EXPO_EXPO "wikilink")』(2001年) からのリカット・シングルとして、完全受注生産で発売された。 タイトル曲は、発売前のTakuのコメントによれば「21世紀へのアプローチの曲」。"Original Version" と "LIVING in TOKYO remix" が収録された（ファン投票により、1曲目は "Original Version" となった経緯がある)。また、トラック6以降には「[come again](https://ja.wikipedia.org/wiki/come_again "wikilink")」のリミックス素材音源が収録されており、これを利用した"come againリミックスコンテスト" が行われた。このコンテンストの優勝作品は[境亜寿香](https://ja.wikipedia.org/wiki/境亜寿香 "wikilink")による「come again (Tokyo Cafe Remix)」で、リミックスアルバム『[EXPO防衛ロボット GRAN SONIK](https://ja.wikipedia.org/wiki/EXPO防衛ロボット_GRAN_SONIK "wikilink")』(2001年) に収録された。
+セカンド・アルバム『[EXPO EXPO](../Page/EXPO_EXPO.md "wikilink")』(2001年) からのリカット・シングルとして、完全受注生産で発売された。 タイトル曲は、発売前のTakuのコメントによれば「21世紀へのアプローチの曲」。"Original Version" と "LIVING in TOKYO remix" が収録された（ファン投票により、1曲目は "Original Version" となった経緯がある)。また、トラック6以降には「[come again](https://ja.wikipedia.org/wiki/come_again "wikilink")」のリミックス素材音源が収録されており、これを利用した"come againリミックスコンテスト" が行われた。このコンテンストの優勝作品は[境亜寿香](https://ja.wikipedia.org/wiki/境亜寿香 "wikilink")による「come again (Tokyo Cafe Remix)」で、リミックスアルバム『[EXPO防衛ロボット GRAN SONIK](../Page/EXPO防衛ロボット_GRAN_SONIK.md "wikilink")』(2001年) に収録された。
 
-PVは、[VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")、☆Taku、[LISAをモデルとしたアニメーション映像となっている](https://ja.wikipedia.org/wiki/LISA_\(歌手\) "wikilink")。m-floの14枚目のシングル『[Dispatch](https://ja.wikipedia.org/wiki/Dispatch "wikilink")』では本作PVの続きのPV映像がある。さらに、後の『[BEAT SPACE NINE](https://ja.wikipedia.org/wiki/BEAT_SPACE_NINE "wikilink")』([2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")) の最終トラックに収録されたm-flo loves LISA「[TRIPOD BABY](https://ja.wikipedia.org/wiki/TRIPOD_BABY "wikilink")」のPVは、本作のPVのキャラクター(たとえばキノコ等)を使用している。(なお、VERBAL、☆Taku、LISAをモチーフにしたキャラクターのデザインは変更されている。)
+PVは、[VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")、☆Taku、[LISAをモデルとしたアニメーション映像となっている](../Page/LISA_\(歌手\).md "wikilink")。m-floの14枚目のシングル『[Dispatch](../Page/Dispatch.md "wikilink")』では本作PVの続きのPV映像がある。さらに、後の『[BEAT SPACE NINE](../Page/BEAT_SPACE_NINE.md "wikilink")』([2005年](../Page/2005年.md "wikilink")) の最終トラックに収録されたm-flo loves LISA「[TRIPOD BABY](../Page/TRIPOD_BABY.md "wikilink")」のPVは、本作のPVのキャラクター(たとえばキノコ等)を使用している。(なお、VERBAL、☆Taku、LISAをモチーフにしたキャラクターのデザインは変更されている。)
 
 ## 収録曲
 
@@ -35,7 +35,7 @@ PVは、[VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")、☆Taku、[L
 <tbody>
 <tr class="odd">
 <td><p>2001年03月28日</p></td>
-<td><p>オリジナルアルバム『<a href="https://ja.wikipedia.org/wiki/EXPO_EXPO" title="wikilink">EXPO EXPO</a>』(#1)</p></td>
+<td><p>オリジナルアルバム『<a href="../Page/EXPO_EXPO.md" title="wikilink">EXPO EXPO</a>』(#1)</p></td>
 <td><p>RZCD-45021</p></td>
 </tr>
 <tr class="even">
@@ -45,12 +45,12 @@ PVは、[VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")、☆Taku、[L
 </tr>
 <tr class="odd">
 <td><p>2001年11月28日</p></td>
-<td><p>『<a href="https://ja.wikipedia.org/wiki/EXPO防衛ロボット_GRAN_SONIK" title="wikilink">EXPO防衛ロボット GRAN SONIK</a>』(#4)</p></td>
+<td><p>『<a href="../Page/EXPO防衛ロボット_GRAN_SONIK.md" title="wikilink">EXPO防衛ロボット GRAN SONIK</a>』(#4)</p></td>
 <td><p>RZCD-45037</p></td>
 </tr>
 <tr class="even">
 <td><p>2003年03月05日</p></td>
-<td><p>ベストアルバム『<a href="https://ja.wikipedia.org/wiki/The_Intergalactic_Collection_〜ギャラコレ〜" title="wikilink">The Intergalactic Collection 〜ギャラコレ〜</a>』(#1)</p></td>
+<td><p>ベストアルバム『<a href="../Page/The_Intergalactic_Collection_〜ギャラコレ〜.md" title="wikilink">The Intergalactic Collection 〜ギャラコレ〜</a>』(#1)</p></td>
 <td><p>RZCD-45081</p></td>
 </tr>
 <tr class="odd">

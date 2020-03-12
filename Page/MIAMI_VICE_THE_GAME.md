@@ -1,7 +1,7 @@
 > この記事は[MIAMI VICE THE GAME](https://ja.wikipedia.org/wiki/MIAMI_VICE_THE_GAME)から翻訳されています。
 
 
-『**MIAMI VICE THE GAME**』（マイアミバイス）は、2006年8月に[ヴィヴェンディユニバーサルゲームス・ジャパンが発売した](https://ja.wikipedia.org/wiki/Vivendi_Universal_Games "wikilink")[PlayStation Portable用のアクションアドベンチャーである](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")。このゲームは実写映画『[マイアミ・バイス](https://ja.wikipedia.org/wiki/マイアミ・バイス_\(映画\) "wikilink")』が基になっており\[1\]、ソニー・クロケットは[コリン・ファレル](https://ja.wikipedia.org/wiki/コリン・ファレル "wikilink")に、リカルド・タブスは[ジェイミー・フォックス](https://ja.wikipedia.org/wiki/ジェイミー・フォックス "wikilink")にそれぞれ似ている部分があった。
+『**MIAMI VICE THE GAME**』（マイアミバイス）は、2006年8月に[ヴィヴェンディユニバーサルゲームス・ジャパンが発売した](https://ja.wikipedia.org/wiki/Vivendi_Universal_Games "wikilink")[PlayStation Portable用のアクションアドベンチャーである](../Page/PlayStation_Portable.md "wikilink")。このゲームは実写映画『[マイアミ・バイス](../Page/マイアミ・バイス_\(映画\).md "wikilink")』が基になっており\[1\]、ソニー・クロケットは[コリン・ファレル](../Page/コリン・ファレル.md "wikilink")に、リカルド・タブスは[ジェイミー・フォックス](../Page/ジェイミー・フォックス.md "wikilink")にそれぞれ似ている部分があった。
 
 ## 概要
 

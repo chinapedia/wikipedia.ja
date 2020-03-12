@@ -13,20 +13,20 @@
 
 ## グレン・L・マーティン社の手掛けた機種
 
-  - [B-10](https://ja.wikipedia.org/wiki/B-10_\(航空機\) "wikilink")
-  - [B-26](https://ja.wikipedia.org/wiki/B-26_\(航空機\) "wikilink")
+  - [B-10](../Page/B-10_\(航空機\).md "wikilink")
+  - [B-26](../Page/B-26_\(航空機\).md "wikilink")
   - [B-29 (ライセンス生産)](../Page/B-29_\(航空機\).md "wikilink")
   - [XB-48](https://ja.wikipedia.org/wiki/XB-48 "wikilink")
-  - [XB-51](https://ja.wikipedia.org/wiki/XB-51_\(航空機\) "wikilink")
-  - [B-57 (ライセンス生産)](https://ja.wikipedia.org/wiki/イングリッシュ・エレクトリック_キャンベラ "wikilink")
-  - [PBM](https://ja.wikipedia.org/wiki/PBM_\(航空機\) "wikilink")
+  - [XB-51](../Page/XB-51_\(航空機\).md "wikilink")
+  - [B-57 (ライセンス生産)](../Page/イングリッシュ・エレクトリック_キャンベラ.md "wikilink")
+  - [PBM](../Page/PBM_\(航空機\).md "wikilink")
   - [P5M](https://ja.wikipedia.org/wiki/P5M_\(航空機\) "wikilink")
   - [P6M](https://ja.wikipedia.org/wiki/P6M_\(航空機\) "wikilink")
 
 ### 旅客機
 
-  - [チャイナクリッパー](https://ja.wikipedia.org/wiki/マーチン_M130 "wikilink")（飛行艇）
-  - [M2-0-2](https://ja.wikipedia.org/wiki/マーチン2-0-2 "wikilink")
+  - [チャイナクリッパー](../Page/マーチン_M130.md "wikilink")（飛行艇）
+  - [M2-0-2](../Page/マーチン2-0-2.md "wikilink")
   - [M4-0-4](https://ja.wikipedia.org/wiki/マーチン4-0-4 "wikilink")
 
 [Category:ロッキード・マーティン](https://ja.wikipedia.org/wiki/Category:ロッキード・マーティン "wikilink") [Category:アメリカ合衆国の航空機技術者](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の航空機技術者 "wikilink") [Category:1866年生](https://ja.wikipedia.org/wiki/Category:1866年生 "wikilink") [Category:1955年没](https://ja.wikipedia.org/wiki/Category:1955年没 "wikilink")

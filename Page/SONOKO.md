@@ -1,13 +1,13 @@
 > この記事は[SONOKO](https://ja.wikipedia.org/wiki/SONOKO)から翻訳されています。
 
 
-**株式会社SONOKO**（そのこ）は、主に健康と[ダイエット](https://ja.wikipedia.org/wiki/ダイエット "wikilink")を目的とした食品、及び[化粧品](../Page/化粧品.md "wikilink")の製造・販売する企業であり、およびそのブランドである。名称の由来は創業者[鈴木その子](https://ja.wikipedia.org/wiki/鈴木その子 "wikilink")の名前からとったものである。
+**株式会社SONOKO**（そのこ）は、主に健康と[ダイエット](https://ja.wikipedia.org/wiki/ダイエット "wikilink")を目的とした食品、及び[化粧品](../Page/化粧品.md "wikilink")の製造・販売する企業であり、およびそのブランドである。名称の由来は創業者[鈴木その子](../Page/鈴木その子.md "wikilink")の名前からとったものである。
 
 ## 会社概説
 
 創業者の鈴木その子が存命中は、**株式会社ときの商事**（ときのしょうじ）→**株式会社トキノ**という社名であったが、[2000年](../Page/2000年.md "wikilink")に鈴木その子が亡くなった後、[2001年](../Page/2001年.md "wikilink")にその知名度から社名をソノコ（後に現在のSONOKO）に変更している。
 
-鈴木その子が晩年には[テレビ](../Page/テレビ.md "wikilink")等の[メディアを中心に](../Page/メディア_\(媒体\).md "wikilink")[美白](https://ja.wikipedia.org/wiki/美白 "wikilink")で有名であったことから、一般には化粧品会社のイメージを強く持つ人もいる。しかし、同社は鈴木が[料理研究家](https://ja.wikipedia.org/wiki/料理研究家 "wikilink")になった経緯からもわかるように本来は食品事業が中心である。現在は、食品事業・[サプリメント](https://ja.wikipedia.org/wiki/サプリメント "wikilink")事業・化粧品事業・カフェ事業の計4事業を展開している。
+鈴木その子が晩年には[テレビ](../Page/テレビ.md "wikilink")等の[メディアを中心に](../Page/メディア_\(媒体\).md "wikilink")[美白](../Page/美白.md "wikilink")で有名であったことから、一般には化粧品会社のイメージを強く持つ人もいる。しかし、同社は鈴木が[料理研究家](../Page/料理研究家.md "wikilink")になった経緯からもわかるように本来は食品事業が中心である。現在は、食品事業・[サプリメント](../Page/サプリメント.md "wikilink")事業・化粧品事業・カフェ事業の計4事業を展開している。
 
 「人間は本来的に、自ら美しくなろうとする力が備わっている。必要なのは、細胞一つ一つの力を引き出し、内側から健康的に美しくなるということ」という内外美容の考え方に基づいている。
 
@@ -30,22 +30,22 @@
 [thumb](https://ja.wikipedia.org/wiki/ファイル:SONOKO_\(Ginza_Saiwai_Bldg.\).jpg "wikilink")
 
   - SONOKO CAFE（銀座幸ビル1～2F）
-      - 1F（カフェフロア、食品販売）：「ノンオイル・無添加・厳選素材」をコンセプトとした[カフェ](https://ja.wikipedia.org/wiki/カフェ "wikilink")。ノンオイルの[カレー](../Page/カレー.md "wikilink")や中華など各種商品が試食でき、販売も行う。
-      - 2F（ビューティーフロア、会員専用サロン）：美容に関する[カウンセリング](https://ja.wikipedia.org/wiki/カウンセリング "wikilink")を実施。[化粧品](../Page/化粧品.md "wikilink")をはじめ、サプリメントなども取り扱う。SONOKO会員またはスタッフにアテンドを依頼した人のみ利用できる。
+      - 1F（カフェフロア、食品販売）：「ノンオイル・無添加・厳選素材」をコンセプトとした[カフェ](../Page/カフェ.md "wikilink")。ノンオイルの[カレー](../Page/カレー.md "wikilink")や中華など各種商品が試食でき、販売も行う。
+      - 2F（ビューティーフロア、会員専用サロン）：美容に関する[カウンセリング](../Page/カウンセリング.md "wikilink")を実施。[化粧品](../Page/化粧品.md "wikilink")をはじめ、サプリメントなども取り扱う。SONOKO会員またはスタッフにアテンドを依頼した人のみ利用できる。
 
 ## 沿革
 
   - [1974年](../Page/1974年.md "wikilink") 株式会社ときの商事設立。[銀座](https://ja.wikipedia.org/wiki/銀座 "wikilink")に新日本料理レストラン「トキノ」をオープン。
   - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink") 株式会社トキノへ社名変更。
   - [2001年](../Page/2001年.md "wikilink") 株式会社ソノコへ社名変更。
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink") 株式会社SONOKOへ表記を変更。
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") 本社を東京都[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[浜松町](https://ja.wikipedia.org/wiki/浜松町 "wikilink")から現在の銀座に移転
-  - [2016年](../Page/2016年.md "wikilink") トリドール（現・[トリドールホールディングス](https://ja.wikipedia.org/wiki/トリドールホールディングス "wikilink")）により買収
+  - [2007年](../Page/2007年.md "wikilink") 株式会社SONOKOへ表記を変更。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") 本社を東京都[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[浜松町](../Page/浜松町.md "wikilink")から現在の銀座に移転
+  - [2016年](../Page/2016年.md "wikilink") トリドール（現・[トリドールホールディングス](../Page/トリドールホールディングス.md "wikilink")）により買収
 
 ## 関連項目
 
-  - [鈴木その子](https://ja.wikipedia.org/wiki/鈴木その子 "wikilink")（創業者）
-  - [浅野温子](../Page/浅野温子.md "wikilink")（[2009年](../Page/2009年.md "wikilink")[4月16日](https://ja.wikipedia.org/wiki/4月16日 "wikilink")、プロジェクト担当執行役員に就任）
+  - [鈴木その子](../Page/鈴木その子.md "wikilink")（創業者）
+  - [浅野温子](../Page/浅野温子.md "wikilink")（[2009年](../Page/2009年.md "wikilink")[4月16日](../Page/4月16日.md "wikilink")、プロジェクト担当執行役員に就任）
 
 ## 外部リンク
 

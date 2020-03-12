@@ -1,7 +1,7 @@
 > この記事は[FNN](https://ja.wikipedia.org/wiki/FNN)から翻訳されています。
 
 
-『**FNNスーパーニュース**』（エフエヌエヌ スーパーニュース、[ラテン文字](../Page/ラテン文字.md "wikilink")表記：*FNN Super NEWS*）は、[フジテレビおよび](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[FNN](../Page/フジニュースネットワーク.md "wikilink")[系列各局で](https://ja.wikipedia.org/wiki/フジネットワーク "wikilink")[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")から[2015年](../Page/2015年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで、[月曜日](../Page/月曜日.md "wikilink")から[金曜日](../Page/金曜日.md "wikilink")の[夕方](https://ja.wikipedia.org/wiki/夕方 "wikilink")に[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")されていた[ニュース番組](https://ja.wikipedia.org/wiki/報道番組 "wikilink")。
+『**FNNスーパーニュース**』（エフエヌエヌ スーパーニュース、[ラテン文字](../Page/ラテン文字.md "wikilink")表記：*FNN Super NEWS*）は、[フジテレビおよび](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[FNN](../Page/フジニュースネットワーク.md "wikilink")[系列各局で](../Page/フジネットワーク.md "wikilink")[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")から[2015年](../Page/2015年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで、[月曜日](../Page/月曜日.md "wikilink")から[金曜日](../Page/金曜日.md "wikilink")の[夕方](https://ja.wikipedia.org/wiki/夕方 "wikilink")に[生放送](../Page/生放送.md "wikilink")されていた[ニュース番組](../Page/報道番組.md "wikilink")。
 
 土曜日・日曜日は、[2001年](../Page/2001年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")までは『FNNスーパーニュース』として放送し、2001年[4月7日](../Page/4月7日.md "wikilink")から『**[FNNスーパーニュースWEEKEND](https://ja.wikipedia.org/wiki/FNNスーパーニュースWEEKEND "wikilink")**』（以下、**週末版**と記す）に改題している。週末版についての詳細は、改題前も含めて同番組の項目で解説する。
 
@@ -11,71 +11,71 @@
 
 17時台と18時台は2011年3月25日までテーマ曲や[Qショット](https://ja.wikipedia.org/wiki/Qショット "wikilink")などのBGMが全く異なっていたことや、2012年7月20日まで[EPGにおいて](../Page/電子番組ガイド.md "wikilink")17:54までを『スーパーニュース』、17:54以降を『FNNスーパーニュース』として扱われていたことから\[1\]、厳密に言えば別番組の扱いとなっていた。なお、フジテレビ公式サイトで発表される番組表では当初から前者で一括りにされており、2012年7月23日よりEPGにおける扱いも前者に統一された\[2\]。ただし、公表される番組内容や、[データ放送](../Page/データ放送.md "wikilink")（表示中の場合は17:54に一旦解除される）も同一であった。また、17時台と18時台後半（18:40 - 18:51.15）は各地域局の任意ネットである。
 
-番組は[ハイビジョン制作](https://ja.wikipedia.org/wiki/ハイビジョン制作 "wikilink")。[地上デジタル放送では](../Page/地上デジタルテレビ放送.md "wikilink")2011年3月25日まで[連動データ放送を実施していたが](../Page/データ放送.md "wikilink")、2014年5月12日から再開された。
+番組は[ハイビジョン制作](../Page/ハイビジョン制作.md "wikilink")。[地上デジタル放送では](../Page/地上デジタルテレビ放送.md "wikilink")2011年3月25日まで[連動データ放送を実施していたが](../Page/データ放送.md "wikilink")、2014年5月12日から再開された。
 
 ## 歴史
 
 ### 1998年度 - 1999年度（宮川時代・黒岩時代）
 
-前番組『**[FNNニュース555 ザ・ヒューマン](../Page/FNNニュース555_ザ・ヒューマン.md "wikilink")**』の後を受け、1998年3月30日に放送開始した。メインキャスターには、『[ニュースJAPAN](https://ja.wikipedia.org/wiki/ニュースJAPAN "wikilink")』を担当していた[宮川俊二](../Page/宮川俊二.md "wikilink")と『[めざましテレビ](https://ja.wikipedia.org/wiki/めざましテレビ "wikilink")』を担当していた[八木亜希子](../Page/八木亜希子.md "wikilink")を起用した。スポーツは『スーパータイム』、『ザ・ヒューマン』から続投の[八木沼純子](https://ja.wikipedia.org/wiki/八木沼純子 "wikilink")に加えて[福原直英](https://ja.wikipedia.org/wiki/福原直英 "wikilink")が、天気予報は[気象予報士](../Page/気象予報士.md "wikilink")の資格を持つ[松尾紀子](https://ja.wikipedia.org/wiki/松尾紀子 "wikilink")が、レポーター（のちのフィールドキャスターに相当）は[佐々木恭子](https://ja.wikipedia.org/wiki/佐々木恭子 "wikilink")が担当した。
+前番組『**[FNNニュース555 ザ・ヒューマン](../Page/FNNニュース555_ザ・ヒューマン.md "wikilink")**』の後を受け、1998年3月30日に放送開始した。メインキャスターには、『[ニュースJAPAN](https://ja.wikipedia.org/wiki/ニュースJAPAN "wikilink")』を担当していた[宮川俊二](../Page/宮川俊二.md "wikilink")と『[めざましテレビ](https://ja.wikipedia.org/wiki/めざましテレビ "wikilink")』を担当していた[八木亜希子](../Page/八木亜希子.md "wikilink")を起用した。スポーツは『スーパータイム』、『ザ・ヒューマン』から続投の[八木沼純子](../Page/八木沼純子.md "wikilink")に加えて[福原直英](../Page/福原直英.md "wikilink")が、天気予報は[気象予報士](../Page/気象予報士.md "wikilink")の資格を持つ[松尾紀子](../Page/松尾紀子.md "wikilink")が、レポーター（のちのフィールドキャスターに相当）は[佐々木恭子](../Page/佐々木恭子.md "wikilink")が担当した。
 
 前番組と違い、スポーツコーナーを全国ニュースに直結した構成になる。このことにより、FNN・FNS系列局はローカルニュースの構成で融通が効くことになった。これに伴い前番組までスポーツコーナーをネットしていなかった[関西テレビでも放送](../Page/関西テレビ放送.md "wikilink")。関西テレビローカルのスポーツコーナーも存続した。
 
-1999年4月、八木以外の出演者をリニューアルし、八木の新たなる相棒は3月までFNNワシントン支局長を務めていた事のある[黒岩祐治](../Page/黒岩祐治.md "wikilink")（現・[神奈川県知事](https://ja.wikipedia.org/wiki/神奈川県知事 "wikilink")）であった。放送時間が30分拡大、17:25スタートになり、スポーツは[西岡孝洋](https://ja.wikipedia.org/wiki/西岡孝洋 "wikilink")が、レポーターは[島田彩夏](https://ja.wikipedia.org/wiki/島田彩夏 "wikilink")が、天気は[佐藤里佳](https://ja.wikipedia.org/wiki/佐藤里佳 "wikilink")が担当した。7月からは、17時台の解説者として[大林宏](https://ja.wikipedia.org/wiki/大林宏_\(アナウンサー\) "wikilink")（解説委員で元アナウンサー）が、レポーターとして[内田恭子](https://ja.wikipedia.org/wiki/内田恭子 "wikilink")が加わった。
+1999年4月、八木以外の出演者をリニューアルし、八木の新たなる相棒は3月までFNNワシントン支局長を務めていた事のある[黒岩祐治](../Page/黒岩祐治.md "wikilink")（現・[神奈川県知事](https://ja.wikipedia.org/wiki/神奈川県知事 "wikilink")）であった。放送時間が30分拡大、17:25スタートになり、スポーツは[西岡孝洋](../Page/西岡孝洋.md "wikilink")が、レポーターは[島田彩夏](../Page/島田彩夏.md "wikilink")が、天気は[佐藤里佳](https://ja.wikipedia.org/wiki/佐藤里佳 "wikilink")が担当した。7月からは、17時台の解説者として[大林宏](../Page/大林宏_\(アナウンサー\).md "wikilink")（解説委員で元アナウンサー）が、レポーターとして[内田恭子](https://ja.wikipedia.org/wiki/内田恭子 "wikilink")が加わった。
 
   - 1998年度・1999年度の沿革
 
 <!-- end list -->
 
   - 1998年3月30日 - 放送を開始。
-  - 1998年7月12日 - [第18回参議院議員通常選挙](https://ja.wikipedia.org/wiki/第18回参議院議員通常選挙 "wikilink")が開票され、**『FNN選挙スペシャル 激突\!熟女軍団が斬る泣き笑いニッポン列島』**が放送。司会は『ニュースJAPAN』の[安藤優子](https://ja.wikipedia.org/wiki/安藤優子 "wikilink")が担当。サブキャスターは『[報道2001](../Page/報道2001.md "wikilink")』の[露木茂](../Page/露木茂.md "wikilink")役員待遇メディア事業本部専任局長と『[FNNスピーク](../Page/FNNスピーク.md "wikilink")』の[近藤サト](https://ja.wikipedia.org/wiki/近藤サト "wikilink")が、解説キャスターは当番組より宮川と八木が担当した。
-  - 1998年10月1日 - [松岡修造](https://ja.wikipedia.org/wiki/松岡修造 "wikilink")が降板し、列島中継が終了し17:55からニュースを放送。
+  - 1998年7月12日 - [第18回参議院議員通常選挙](https://ja.wikipedia.org/wiki/第18回参議院議員通常選挙 "wikilink")が開票され、**『FNN選挙スペシャル 激突\!熟女軍団が斬る泣き笑いニッポン列島』**が放送。司会は『ニュースJAPAN』の[安藤優子](../Page/安藤優子.md "wikilink")が担当。サブキャスターは『[報道2001](../Page/報道2001.md "wikilink")』の[露木茂](../Page/露木茂.md "wikilink")役員待遇メディア事業本部専任局長と『[FNNスピーク](../Page/FNNスピーク.md "wikilink")』の[近藤サト](../Page/近藤サト.md "wikilink")が、解説キャスターは当番組より宮川と八木が担当した。
+  - 1998年10月1日 - [松岡修造](../Page/松岡修造.md "wikilink")が降板し、列島中継が終了し17:55からニュースを放送。
   - 1999年1月7日 - 木・金担当フィールドキャスターとして[伊藤利尋](../Page/伊藤利尋.md "wikilink")が登場する。
-  - 1999年3月5日 - 松尾が産休のため半年降板、3月8日より「ポップアップ天気」は（月 - 水）は[佐藤里佳](https://ja.wikipedia.org/wiki/佐藤里佳 "wikilink")が（木・金）は[島田彩夏](https://ja.wikipedia.org/wiki/島田彩夏 "wikilink")が週末版のスポーツも兼務で担当。
+  - 1999年3月5日 - 松尾が産休のため半年降板、3月8日より「ポップアップ天気」は（月 - 水）は[佐藤里佳](https://ja.wikipedia.org/wiki/佐藤里佳 "wikilink")が（木・金）は[島田彩夏](../Page/島田彩夏.md "wikilink")が週末版のスポーツも兼務で担当。
   - 1999年3月31日 - 宮川、福原、八木沼、佐々木が降板し、夕暮れ探検隊が終了した。宮川は『[FNNスーパーニュースWEEKEND](https://ja.wikipedia.org/wiki/FNNスーパーニュースWEEKEND "wikilink")』、福原は『[めざましテレビ](https://ja.wikipedia.org/wiki/めざましテレビ "wikilink")』、佐々木は『[情報プレゼンター とくダネ\!](../Page/情報プレゼンター_とくダネ!.md "wikilink")』担当になった。
   - 1999年5月 - 17:55までを八木のみで担当。
   - 1999年9月6日 - 産休していた松尾が復帰。
-  - 1999年11月 - [バレーボールワールドカップ](https://ja.wikipedia.org/wiki/バレーボールワールドカップ "wikilink")タイアップドラマ『[Vの嵐](https://ja.wikipedia.org/wiki/Vの嵐 "wikilink")』放送に伴い、2週間にかけて18:50終了。
+  - 1999年11月 - [バレーボールワールドカップ](../Page/バレーボールワールドカップ.md "wikilink")タイアップドラマ『[Vの嵐](../Page/Vの嵐.md "wikilink")』放送に伴い、2週間にかけて18:50終了。
   - 1999年11月21日 - 黒岩が『報道2001』と掛け持つ事になった。これはそれまで『報道2001』を担当していた当時フジテレビアナウンサーだった[露木茂](../Page/露木茂.md "wikilink")に政界工作関与の疑惑が起きたためである。
-  - 2000年3月31日 - ほぼ全ての出演者が降板し、黒岩は引き続き『報道2001』を担当、八木がフジテレビを退社・[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")として復帰するまで休養、大林は『ニュースJAPAN』コメンテーター担当に、松尾は『[めざまし天気](https://ja.wikipedia.org/wiki/めざまし天気 "wikilink")』金曜担当にそれぞれ異動した。西岡・島田・内田はフィールドキャスターとして残った。
+  - 2000年3月31日 - ほぼ全ての出演者が降板し、黒岩は引き続き『報道2001』を担当、八木がフジテレビを退社・[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")として復帰するまで休養、大林は『ニュースJAPAN』コメンテーター担当に、松尾は『[めざまし天気](../Page/めざまし天気.md "wikilink")』金曜担当にそれぞれ異動した。西岡・島田・内田はフィールドキャスターとして残った。
 
 ### 2000年度 - 2014年度（安藤時代）
 
 #### 2000年度 - 2009年度
 
-2000年4月3日、番組スタイルや出演者・放送時間・ロゴ・テーマ曲などを一新する大幅なリニューアルを行う。[同局午後のワイドショー番組](https://ja.wikipedia.org/wiki/フジテレビ系列平日午後のワイドショー枠 "wikilink")『[2時のホント](https://ja.wikipedia.org/wiki/2時のホント "wikilink")』の終了・午後ワイドショー枠の撤退（午後ワイドショー枠に関しては、その後復活・廃止を繰り返し、当番組の終了とともに再度の復活を果たしている。）を受け、独立した芸能コーナー「文化芸能部」の設置や、[グルメ企画の特集など](https://ja.wikipedia.org/wiki/食通 "wikilink")、[ワイドショー](https://ja.wikipedia.org/wiki/ワイドショー "wikilink")の要素を持つネタを扱うスタイルとなる\[3\]。本番組の路線変更は成功し、以降、他局の夕方ニュースもそのスタイルを追随することとなる。
+2000年4月3日、番組スタイルや出演者・放送時間・ロゴ・テーマ曲などを一新する大幅なリニューアルを行う。[同局午後のワイドショー番組](../Page/フジテレビ系列平日午後のワイドショー枠.md "wikilink")『[2時のホント](../Page/2時のホント.md "wikilink")』の終了・午後ワイドショー枠の撤退（午後ワイドショー枠に関しては、その後復活・廃止を繰り返し、当番組の終了とともに再度の復活を果たしている。）を受け、独立した芸能コーナー「文化芸能部」の設置や、[グルメ企画の特集など](../Page/食通.md "wikilink")、[ワイドショー](../Page/ワイドショー.md "wikilink")の要素を持つネタを扱うスタイルとなる\[3\]。本番組の路線変更は成功し、以降、他局の夕方ニュースもそのスタイルを追随することとなる。
 
 開始当初は『夕方の新習慣』というキャッチフレーズも付いた。テレビ雑誌には「いち早く\!より深く\!ラーメンから宇宙まで出来事の核心全力追跡」と掲載した。放送時間は17:00スタートに繰り上げ、後年段階的に繰り上げを行った。17時台の放送はフジテレビのみだったが、2001年10月1日の[富山テレビ](../Page/富山テレビ放送.md "wikilink")、[高知さんさんテレビ](../Page/高知さんさんテレビ.md "wikilink")を皮切りに、17時台をネットする地方局が徐々に増加していった（ネット状況に関しては[後述参照](https://ja.wikipedia.org/wiki/#FNN系列各局の番組名と放送開始時間 "wikilink")）。
 
-リニューアル当初の出演者は『ニュースJAPAN』の安藤優子・[木村太郎と](https://ja.wikipedia.org/wiki/木村太郎_\(ジャーナリスト\) "wikilink")『[プロ野球ニュース](../Page/プロ野球ニュース.md "wikilink")』の[木佐彩子](https://ja.wikipedia.org/wiki/木佐彩子 "wikilink")、ニューヨーク勤務の後アナウンス専任部長となった須田哲夫、『[2時のホント](https://ja.wikipedia.org/wiki/2時のホント "wikilink")』の境鶴丸・[菊間千乃](https://ja.wikipedia.org/wiki/菊間千乃 "wikilink")が加わった。安藤は『スーパータイム』以来6年ぶりに夕方の報道番組へ復帰となった。その後、木佐・菊間の降板、木佐の後を引き継いだ[西山喜久恵](../Page/西山喜久恵.md "wikilink")の第1子出産による降板、[石原良純](https://ja.wikipedia.org/wiki/石原良純 "wikilink")のお天気キャスター起用、須田の『[新報道2001](https://ja.wikipedia.org/wiki/新報道2001 "wikilink")』担当による週後半の男性キャスターの交代などがあった。
+リニューアル当初の出演者は『ニュースJAPAN』の安藤優子・[木村太郎と](https://ja.wikipedia.org/wiki/木村太郎_\(ジャーナリスト\) "wikilink")『[プロ野球ニュース](../Page/プロ野球ニュース.md "wikilink")』の[木佐彩子](https://ja.wikipedia.org/wiki/木佐彩子 "wikilink")、ニューヨーク勤務の後アナウンス専任部長となった須田哲夫、『[2時のホント](../Page/2時のホント.md "wikilink")』の境鶴丸・[菊間千乃](../Page/菊間千乃.md "wikilink")が加わった。安藤は『スーパータイム』以来6年ぶりに夕方の報道番組へ復帰となった。その後、木佐・菊間の降板、木佐の後を引き継いだ[西山喜久恵](../Page/西山喜久恵.md "wikilink")の第1子出産による降板、[石原良純](../Page/石原良純.md "wikilink")のお天気キャスター起用、須田の『[新報道2001](https://ja.wikipedia.org/wiki/新報道2001 "wikilink")』担当による週後半の男性キャスターの交代などがあった。
 
-レポーターは番組ホームページにおいて、「フィールドキャスター」と称され、島田・内田のほか、報道局記者の[小泉陽一](https://ja.wikipedia.org/wiki/小泉陽一 "wikilink")とスポーツから転じた西岡が加わった（2000年9月まで18時台の全国ニュースも担当）。メンバーは徐々に入れ替わり、[滝川クリステル](https://ja.wikipedia.org/wiki/滝川クリステル "wikilink")、[秋元優里](https://ja.wikipedia.org/wiki/秋元優里 "wikilink")らを輩出するなど若手アナウンサー・キャスターの登竜門的存在となった。
+レポーターは番組ホームページにおいて、「フィールドキャスター」と称され、島田・内田のほか、報道局記者の[小泉陽一](https://ja.wikipedia.org/wiki/小泉陽一 "wikilink")とスポーツから転じた西岡が加わった（2000年9月まで18時台の全国ニュースも担当）。メンバーは徐々に入れ替わり、[滝川クリステル](https://ja.wikipedia.org/wiki/滝川クリステル "wikilink")、[秋元優里](../Page/秋元優里.md "wikilink")らを輩出するなど若手アナウンサー・キャスターの登竜門的存在となった。
 
 2002年4月1日に、安藤に交代して初めて放送時間を16:59.30にスタートに繰り上げ、テーマ曲も一新された（週末版は2009年3月29日まで従来のものを使用）。このテーマ曲はアレンジ版も含めば2011年3月の[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")発生前まで長らく使われた。
 
 2005年1月からハイビジョン放送を開始し、当初は生放送のスタジオ撮影のみに限られたがのちにVTR中も含めた全編でハイビジョン放送になった。
 
-2005年4月1日から[TBSが](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")16:54開始の『[イブニング・ファイブ](https://ja.wikipedia.org/wiki/イブニング・ファイブ "wikilink")』（全国ニュースは『[JNNイブニング・ニュース](https://ja.wikipedia.org/wiki/JNNイブニング・ニュース "wikilink")』として放送）を立ち上げ、民放キー局4社が全て17時台に生番組を編成するようになる。当番組は同日から16:55スタート繰り上げを行い、2007年10月1日からは16:53スタートに繰り上げた。
+2005年4月1日から[TBSが](../Page/TBSテレビ.md "wikilink")16:54開始の『[イブニング・ファイブ](../Page/イブニング・ファイブ.md "wikilink")』（全国ニュースは『[JNNイブニング・ニュース](../Page/JNNイブニング・ニュース.md "wikilink")』として放送）を立ち上げ、民放キー局4社が全て17時台に生番組を編成するようになる。当番組は同日から16:55スタート繰り上げを行い、2007年10月1日からは16:53スタートに繰り上げた。
 
 #### 2010年度 - 2014年度
 
-2010年3月29日、安藤と木村の就任10周年を機にテーマ曲やスタジオセットが変更。それと同時に在京キー局の夕方枠報道番組で女性がメインキャスターを務めるのは当番組のみとなった。同年[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")から[リアルタイム字幕放送](https://ja.wikipedia.org/wiki/リアルタイム字幕放送 "wikilink")を実施している（週末版は2007年4月1日からすでに実施）。また、同日には月-金曜の放送期間において『[FNNスーパータイム](../Page/FNNスーパータイム.md "wikilink")』の12年半を越え、[FNN月-金曜夕方の全国ニュース番組で歴代最長寿となった](https://ja.wikipedia.org/wiki/フジテレビ系列夕方ニュース枠 "wikilink")。
+2010年3月29日、安藤と木村の就任10周年を機にテーマ曲やスタジオセットが変更。それと同時に在京キー局の夕方枠報道番組で女性がメインキャスターを務めるのは当番組のみとなった。同年[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")から[リアルタイム字幕放送](../Page/リアルタイム字幕放送.md "wikilink")を実施している（週末版は2007年4月1日からすでに実施）。また、同日には月-金曜の放送期間において『[FNNスーパータイム](../Page/FNNスーパータイム.md "wikilink")』の12年半を越え、[FNN月-金曜夕方の全国ニュース番組で歴代最長寿となった](../Page/フジテレビ系列夕方ニュース枠.md "wikilink")。
 
 2011年3月25日を以って番組を11年担当した須田が降板し（当初は3月22日で降板予定であった）、同年3月28日には9年ぶりにテーマ曲が完全にリニューアルされ、17時台と18時台で曲が別だったがこれを機に統一された。番組の構成はあまり変えずにいたが、これを機に番組スタイルが大きく変わっていった。まず、2000年4月の全面刷新時より放送されていた「スポーツの力」がコーナー終了となり「文化芸能部」に吸収、「文化芸能部」も2012年6月でコーナー終了となった。同2011年10月31日からフジテレビの全ての報道・[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")が[ステレオ放送](../Page/ステレオ放送.md "wikilink")に切り替わったため、放送開始以来変わることがなかった音声モードが[モノラルからステレオに変更された](https://ja.wikipedia.org/wiki/モノラル放送 "wikilink")。
 
 2012年4月2日からテーマ曲を一新し、関東地区での放送開始時刻を16:50に繰り上げ、民放の夕方の報道番組（関東地区）の中では、1番早くスタートすることとなった。
 
-2012年10月1日、大島・奥寺が『ニュースJAPAN』へ異動、週末版のキャスター・[石本沙織](https://ja.wikipedia.org/wiki/石本沙織 "wikilink")（フジテレビアナウンサー）と『FNNスピーク』の[境鶴丸](../Page/境鶴丸.md "wikilink")（1年半ぶりの復帰）をサブキャスターに起用\[4\]。同時にテーマ曲とテロップのフォントも変更し、16:53の飛び乗りポイントが廃止され、関東地区および17時台をネットする全ての地方局での放送開始時刻が16:50に統一された。また、これ以降特集コーナーにおけるグルメ企画を廃止、[社会問題](https://ja.wikipedia.org/wiki/社会問題 "wikilink")に関する特集に重点を置くようになった。また、17時台では、[尖閣諸島問題](https://ja.wikipedia.org/wiki/尖閣諸島問題 "wikilink")や[北朝鮮による日本人拉致問題](../Page/北朝鮮による日本人拉致問題.md "wikilink")に焦点を当てた特別企画を時間を割いて放送するなど、「脱グルメ」「脱芸能」に方針転換した\[5\]。このことに関して当時フジテレビ社長の[豊田皓](https://ja.wikipedia.org/wiki/豊田皓 "wikilink")が2012年10月の定例会見で言及しており、「今一度、報道の原点に立ち返り、ニュースの本質へ切り込み、信頼されるニュース番組を目指す」としている\[6\]。
+2012年10月1日、大島・奥寺が『ニュースJAPAN』へ異動、週末版のキャスター・[石本沙織](https://ja.wikipedia.org/wiki/石本沙織 "wikilink")（フジテレビアナウンサー）と『FNNスピーク』の[境鶴丸](../Page/境鶴丸.md "wikilink")（1年半ぶりの復帰）をサブキャスターに起用\[4\]。同時にテーマ曲とテロップのフォントも変更し、16:53の飛び乗りポイントが廃止され、関東地区および17時台をネットする全ての地方局での放送開始時刻が16:50に統一された。また、これ以降特集コーナーにおけるグルメ企画を廃止、[社会問題](../Page/社会問題.md "wikilink")に関する特集に重点を置くようになった。また、17時台では、[尖閣諸島問題](https://ja.wikipedia.org/wiki/尖閣諸島問題 "wikilink")や[北朝鮮による日本人拉致問題](../Page/北朝鮮による日本人拉致問題.md "wikilink")に焦点を当てた特別企画を時間を割いて放送するなど、「脱グルメ」「脱芸能」に方針転換した\[5\]。このことに関して当時フジテレビ社長の[豊田皓](../Page/豊田皓.md "wikilink")が2012年10月の定例会見で言及しており、「今一度、報道の原点に立ち返り、ニュースの本質へ切り込み、信頼されるニュース番組を目指す」としている\[6\]。
 
-2013年2月4日以降、直後の19時台の番組を18:55開始の[フライングスタート化させることがしばしばあった](https://ja.wikipedia.org/wiki/フライングスタート_\(放送\) "wikilink")。その際当番組は5分短縮となるが、通常時には本編終了後から[ジャンクションを流す間に入れているスポットCMを](https://ja.wikipedia.org/wiki/クロスプログラム "wikilink")、短縮放送時は省略するため、実質2分程度早い終了となった。またその場合、18時台後半の任意ネット枠が4分短縮された。この短縮版対応については、2013年4月のリニューアル以降も継続して行われている。
+2013年2月4日以降、直後の19時台の番組を18:55開始の[フライングスタート化させることがしばしばあった](../Page/フライングスタート_\(放送\).md "wikilink")。その際当番組は5分短縮となるが、通常時には本編終了後から[ジャンクションを流す間に入れているスポットCMを](https://ja.wikipedia.org/wiki/クロスプログラム "wikilink")、短縮放送時は省略するため、実質2分程度早い終了となった。またその場合、18時台後半の任意ネット枠が4分短縮された。この短縮版対応については、2013年4月のリニューアル以降も継続して行われている。
 
 2013年3月29日を以ってコメンテーターである木村と若狭、長年天気コーナーを担当していた石原と三井、さらに長らくスポーツニュース担当だった舞の海が降板した。
 
-2013年4月1日から関東地区での放送開始時刻を16:30に繰り上げ、在京キー局の夕方枠報道番組の中では単独で最も早く始まる番組となった。この改編によるキャッチフレーズは「**ライブ&ライフ**」。このリニューアルを機に完全にコメンテーターは撤廃された（ただし不定期でゲストコメンテーターが出演する事はある）\[7\]。さらに12年ぶりにお天気コーナーが一新され、太谷智一が加入\[8\]。また、スポーツ・芸能コーナーが一時廃止されていたが「トレすぽ」としてスポーツは2年ぶりに、芸能コーナーは9か月ぶりに復活した。16:52:30、17:54にそれぞれ飛び乗り点が設けられる。16時台の放送は関東地区以外では[長野放送](https://ja.wikipedia.org/wiki/長野放送 "wikilink")、[石川テレビ](../Page/石川テレビ放送.md "wikilink")（2013年6月28日まで）、[テレビくまもと](../Page/テレビ熊本.md "wikilink")、[沖縄テレビ](../Page/沖縄テレビ放送.md "wikilink")（水曜のみ）が行った。また、番組ロゴが13年ぶりに全面刷新され表記も英文字表記の『Super NEWS』に改められ、スタジオセット(報道局が見えない仕様)やテーマ曲が再び一新された。同年9月30日より関東地区での放送時刻を16:50に復すこととなった\[9\]\[10\]\[11\]。なお、半年前と異なり、CMを挟み16:52:30から本編開始となった。
+2013年4月1日から関東地区での放送開始時刻を16:30に繰り上げ、在京キー局の夕方枠報道番組の中では単独で最も早く始まる番組となった。この改編によるキャッチフレーズは「**ライブ&ライフ**」。このリニューアルを機に完全にコメンテーターは撤廃された（ただし不定期でゲストコメンテーターが出演する事はある）\[7\]。さらに12年ぶりにお天気コーナーが一新され、太谷智一が加入\[8\]。また、スポーツ・芸能コーナーが一時廃止されていたが「トレすぽ」としてスポーツは2年ぶりに、芸能コーナーは9か月ぶりに復活した。16:52:30、17:54にそれぞれ飛び乗り点が設けられる。16時台の放送は関東地区以外では[長野放送](../Page/長野放送.md "wikilink")、[石川テレビ](../Page/石川テレビ放送.md "wikilink")（2013年6月28日まで）、[テレビくまもと](../Page/テレビ熊本.md "wikilink")、[沖縄テレビ](../Page/沖縄テレビ放送.md "wikilink")（水曜のみ）が行った。また、番組ロゴが13年ぶりに全面刷新され表記も英文字表記の『Super NEWS』に改められ、スタジオセット(報道局が見えない仕様)やテーマ曲が再び一新された。同年9月30日より関東地区での放送時刻を16:50に復すこととなった\[9\]\[10\]\[11\]。なお、半年前と異なり、CMを挟み16:52:30から本編開始となった。
 
 2014年1月6日から関東地区のみ『[ドラマチックα](https://ja.wikipedia.org/wiki/ドラマチックα "wikilink")』終了後にクロスプログラムを挿入。同年5月12日から、3年ぶりにデータ放送が再開された。
 
-2014年9月29日から長年『めざましテレビ』を担当してきた[生野陽子](https://ja.wikipedia.org/wiki/生野陽子 "wikilink")を初めて報道アナとして起用し\[12\]、同時にリニューアルも実施。番組のメインコンセプトは「ニュースで日本人の心を豊かにする」で、新コーナーもスタートした。さらに2013年4月の大幅刷新以来コメンテーターは廃止されていたが、[江上剛](https://ja.wikipedia.org/wiki/江上剛 "wikilink")を起用するのを機に1年半ぶりに復活しスタジオセットの一部がマイナーチェンジされた\[13\]。
+2014年9月29日から長年『めざましテレビ』を担当してきた[生野陽子](https://ja.wikipedia.org/wiki/生野陽子 "wikilink")を初めて報道アナとして起用し\[12\]、同時にリニューアルも実施。番組のメインコンセプトは「ニュースで日本人の心を豊かにする」で、新コーナーもスタートした。さらに2013年4月の大幅刷新以来コメンテーターは廃止されていたが、[江上剛](../Page/江上剛.md "wikilink")を起用するのを機に1年半ぶりに復活しスタジオセットの一部がマイナーチェンジされた\[13\]。
 
 2015年3月27日をもって終了となり、通算17年にわたる歴史に幕を降ろした。安藤は同年3月30日放送開始の午後帯の新情報・ワイドショー番組『[直撃LIVE グッディ\!](https://ja.wikipedia.org/wiki/直撃LIVE_グッディ! "wikilink")』のメインキャスターに就任。後継番組『[みんなのニュース](https://ja.wikipedia.org/wiki/みんなのニュース "wikilink")』（同日放送開始）では[伊藤利尋](../Page/伊藤利尋.md "wikilink")（フジテレビアナウンサー）がメインキャスターを務め、[椿原慶子](https://ja.wikipedia.org/wiki/椿原慶子 "wikilink")・生野（ともにフジテレビアナウンサー）も初代メインキャスターとして引き続き出演した\[14\]。当番組の出演者で安藤、榎並、細貝（フィールドキャスター）以外の出演者は後継番組『みんなのニュース』に続投となった。また当番組で放送されていた「リアル\!」と「オオタニ天気」は、後継番組『みんなのニュース』でも継続されていた（開始当初のみ。その後、いずれもコーナー名をリニューアルして番組終了まで継続）。
 
@@ -134,7 +134,7 @@
 <tr class="odd">
 <td><p>1999.07.05</p></td>
 <td><p>2000.03.31</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大林宏_(アナウンサー)" title="wikilink">大林宏</a><sup>2</sup></p></td>
+<td><p><a href="../Page/大林宏_(アナウンサー).md" title="wikilink">大林宏</a><sup>2</sup></p></td>
 </tr>
 <tr class="even">
 <td><p>期間</p></td>
@@ -154,7 +154,7 @@
 <tr class="odd">
 <td><p>2000.04.03</p></td>
 <td><p>2000.09.29</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/安藤優子" title="wikilink">安藤優子</a><sup>3</sup></p></td>
+<td><p><a href="../Page/安藤優子.md" title="wikilink">安藤優子</a><sup>3</sup></p></td>
 </tr>
 <tr class="even">
 <td><p>2000.10.02</p></td>
@@ -184,7 +184,7 @@
 <tr class="odd">
 <td><p>2009.07.06</p></td>
 <td><p>2009.09.30</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/田淵裕章" title="wikilink">田淵裕章</a><sup>5</sup></p></td>
+<td><p><a href="../Page/田淵裕章.md" title="wikilink">田淵裕章</a><sup>5</sup></p></td>
 </tr>
 <tr class="even">
 <td><p>2009.10.01</p></td>
@@ -199,7 +199,7 @@
 <tr class="even">
 <td><p>2010.06.28</p></td>
 <td><p>2011.03.25</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山本周" title="wikilink">山本周</a></p></td>
+<td><p><a href="../Page/山本周.md" title="wikilink">山本周</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2011.03.28</p></td>
@@ -278,9 +278,9 @@
 <tr class="even">
 <td><p>1998.03.30</p></td>
 <td><p>1998.09.30</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/松岡修造" title="wikilink">松岡修造</a><sup>1・2</sup><br />
-<a href="https://ja.wikipedia.org/wiki/八木沼純子" title="wikilink">八木沼純子</a><sup>1</sup><br />
-<a href="https://ja.wikipedia.org/wiki/福原直英" title="wikilink">福原直英</a>○</p></td>
+<td><p><a href="../Page/松岡修造.md" title="wikilink">松岡修造</a><sup>1・2</sup><br />
+<a href="../Page/八木沼純子.md" title="wikilink">八木沼純子</a><sup>1</sup><br />
+<a href="../Page/福原直英.md" title="wikilink">福原直英</a>○</p></td>
 <td><p>（不在）</p></td>
 </tr>
 <tr class="odd">
@@ -294,12 +294,12 @@
 <td><p>1999.03.08</p></td>
 <td><p>1999.03.31</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/佐藤里佳" title="wikilink">佐藤里佳</a>○</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/島田彩夏" title="wikilink">島田彩夏</a>○<sup>3</sup></p></td>
+<td><p><a href="../Page/島田彩夏.md" title="wikilink">島田彩夏</a>○<sup>3</sup></p></td>
 </tr>
 <tr class="odd">
 <td><p>1999.04.01</p></td>
 <td><p>1999.09.03</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/西岡孝洋" title="wikilink">西岡孝洋</a>○</p></td>
+<td><p><a href="../Page/西岡孝洋.md" title="wikilink">西岡孝洋</a>○</p></td>
 <td><p>佐藤里佳○</p></td>
 </tr>
 <tr class="even">
@@ -311,14 +311,14 @@
 <tr class="odd">
 <td><p>2000.04.03</p></td>
 <td><p>2001.03.30</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/荻原次晴" title="wikilink">荻原次晴</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/菊間千乃" title="wikilink">菊間千乃</a>○</p></td>
+<td><p><a href="../Page/荻原次晴.md" title="wikilink">荻原次晴</a></p></td>
+<td><p><a href="../Page/菊間千乃.md" title="wikilink">菊間千乃</a>○</p></td>
 </tr>
 <tr class="even">
 <td><p>2001.04.02</p></td>
 <td><p>2002.03.29</p></td>
 <td><p>荻原次晴</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/舞の海秀平" title="wikilink">舞の海</a><sup>5</sup></p></td>
+<td><p><a href="../Page/舞の海秀平.md" title="wikilink">舞の海</a><sup>5</sup></p></td>
 </tr>
 <tr class="odd">
 <td><p>2002.04.01</p></td>
@@ -348,7 +348,7 @@
 <td><p>2011.03.28</p></td>
 <td><p>2012.09.28</p></td>
 <td><p>舞の海<br />
-<a href="https://ja.wikipedia.org/wiki/梅津弥英子" title="wikilink">梅津弥英子</a>○</p></td>
+<a href="../Page/梅津弥英子.md" title="wikilink">梅津弥英子</a>○</p></td>
 <td><p>梅津弥英子○<br />
 <a href="https://ja.wikipedia.org/wiki/榎並大二郎" title="wikilink">榎並大二郎</a>○</p></td>
 </tr>
@@ -400,7 +400,7 @@
 <td><p>2014.09.29</p></td>
 <td><p>2015.03.27</p></td>
 <td><p>榎並大二郎○</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/やくみつる" title="wikilink">やくみつる</a><br />
+<td><p><a href="../Page/やくみつる.md" title="wikilink">やくみつる</a><br />
 <a href="https://ja.wikipedia.org/wiki/福井慶仁" title="wikilink">福井慶仁</a>○</p></td>
 </tr>
 <tr class="even">
@@ -426,12 +426,12 @@
 
   - ○印が付いているキャスターは出演当時フジテレビアナウンサー。松尾・石原・三井・太谷は[気象予報士](../Page/気象予報士.md "wikilink")。
       - 松尾はフジテレビアナウンサーであるが、気象予報士の資格を取得しているため「気象予報士」として出演した。産休中は佐藤・島田が代役を務めていた。
-  - 舞の海は[NHKの](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[大相撲中継](https://ja.wikipedia.org/wiki/大相撲中継 "wikilink")の専属解説者を務めていた関係で、[大相撲](https://ja.wikipedia.org/wiki/大相撲 "wikilink")開催期間中は永島などが代役を務めた。2012年10月から2013年3月まで「スペシャルキャスター」として、リポートなどで不定期出演していた。
+  - 舞の海は[NHKの](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[大相撲中継](../Page/大相撲中継.md "wikilink")の専属解説者を務めていた関係で、[大相撲](https://ja.wikipedia.org/wiki/大相撲 "wikilink")開催期間中は永島などが代役を務めた。2012年10月から2013年3月まで「スペシャルキャスター」として、リポートなどで不定期出演していた。
 
 ### 歴代フィールドキャスター
 
   -
-    ※全員、出演当時フジテレビ所属。滝川のみ[共同テレビからの出向であった](https://ja.wikipedia.org/wiki/共同テレビジョン "wikilink")。2010年度以後は当番組の素材は深夜の『[ニュースJAPAN](https://ja.wikipedia.org/wiki/ニュースJAPAN "wikilink")』でも使われることから、実質両番組兼務であった。
+    ※全員、出演当時フジテレビ所属。滝川のみ[共同テレビからの出向であった](../Page/共同テレビジョン.md "wikilink")。2010年度以後は当番組の素材は深夜の『[ニュースJAPAN](https://ja.wikipedia.org/wiki/ニュースJAPAN "wikilink")』でも使われることから、実質両番組兼務であった。
 
 | 歴代フィールドキャスター一覧          |
 | ----------------------- |
@@ -464,7 +464,7 @@
 
 ### 代役について
 
-基本的にフィールドキャスター陣がカバーすることが多いが、[FNS各局のアナウンサーが代役を務めることもある](https://ja.wikipedia.org/wiki/フジネットワーク "wikilink")。以下、基本的にレギュラー陣、フィールドキャスター陣以外の代役について記す。※印のアナウンサーは、所属局の夕方のニュースをそれぞれ担当している。
+基本的にフィールドキャスター陣がカバーすることが多いが、[FNS各局のアナウンサーが代役を務めることもある](../Page/フジネットワーク.md "wikilink")。以下、基本的にレギュラー陣、フィールドキャスター陣以外の代役について記す。※印のアナウンサーは、所属局の夕方のニュースをそれぞれ担当している。
 
 <table>
 <thead>
@@ -544,7 +544,7 @@
 
 <!-- end list -->
 
-  - 初期は地方発のニュースは一部を除いて系列局が編集したものを放送した。2000年4月に17時台へ本格的に進出した際、17時台が[関東ローカル](https://ja.wikipedia.org/wiki/関東ローカル "wikilink")放送だったために系列局の手を借りることが減っていった。その結果、番組独自の取材班による取材、フジテレビで映像を編集してキャスターではなくナレーターによるナレーションが定着。速報時の第一報の中継や台風といった多元中継については系列局が担当。生中継の多用や識者のゲスト起用も行っている。
+  - 初期は地方発のニュースは一部を除いて系列局が編集したものを放送した。2000年4月に17時台へ本格的に進出した際、17時台が[関東ローカル](../Page/関東ローカル.md "wikilink")放送だったために系列局の手を借りることが減っていった。その結果、番組独自の取材班による取材、フジテレビで映像を編集してキャスターではなくナレーターによるナレーションが定着。速報時の第一報の中継や台風といった多元中継については系列局が担当。生中継の多用や識者のゲスト起用も行っている。
   - 世相やトレンド情報も取り上げる。アザラシの[タマちゃん](../Page/タマちゃん.md "wikilink")をいち早く紹介した番組である。
   - 17時台進出後、原則として挨拶は17時台のオープニングだけで、17:54の全国ニュースでの挨拶はない（16時台進出後は16時台のオープニングにも行う）。ただし、18時台最初のニュースを読む前に必ず先頭に「まずは」と付けてから読む。
   - [1999年](../Page/1999年.md "wikilink")からリポーター（公式サイトでいう「フィールドキャスター」）を起用している。リポーターは若手アナウンサーが曜日シフト制で担当し、取材・中継を行う。なお、メインキャスターも取材を行う。リポート以外に年末年始の[FNNニュース](https://ja.wikipedia.org/wiki/FNNニュース "wikilink")のキャスターを担当する他、長野、森下、田淵、大島、椿原のようにメインキャスターに昇格した者もいる。リポートの際の特徴として、FNN標準のものではなくメインキャスターと同じオレンジのテロップで氏名を表記する。
@@ -568,7 +568,7 @@
       - 2013年4月 - 2015年3月 : 「オオタニ天気」（みんなのニュースでも継続）
   - 石原が担当する時はコラム「石原良純の空をみよう」を放送。
   - 普段はフジテレビのみであるため関東地方の天気を伝えるが、特別編成（主に新内閣組閣関連）で全国ネットになる場合、全国の天気に変更される。また、台風・豪雨等の気象関連ニュースについて全国ニュースに登場して解説することもある。
-  - 「ズバリ\!お天気」からはメインキャスターの安藤がパートナーを務める。2010年10月から2012年3月までは芸能担当キャスター（吉崎、梅津）がパートナーとなり、この時期のみ屋外（フジテレビ7F、[フジテレビ湾岸スタジオ](https://ja.wikipedia.org/wiki/フジテレビ湾岸スタジオ "wikilink")屋上など）で予報を伝えていた（それまではバーチャルセットを使用）。
+  - 「ズバリ\!お天気」からはメインキャスターの安藤がパートナーを務める。2010年10月から2012年3月までは芸能担当キャスター（吉崎、梅津）がパートナーとなり、この時期のみ屋外（フジテレビ7F、[フジテレビ湾岸スタジオ](../Page/フジテレビ湾岸スタジオ.md "wikilink")屋上など）で予報を伝えていた（それまではバーチャルセットを使用）。
   - 2013年3月まで長年に渡り6時台のみだったが、同年4月からは5時台にも伝えるようになった。
   - オオタニ天気において、前述の通りキー局のフジテレビでは16時台、17時台、番組最終の3回(一部ネット局では、最終を除く2回)のコーナーを設けており、始め2回はフジテレビ本社前でゆるキャラとともに、最終ではスタジオに移動して安藤と共に天気概況および予報を伝える。最終版ではゆるキャラもスタジオに移動しており、主に安藤にイジられている。なお、週の最後である金曜日は「ゆるキャラバン」と銘打ち、その週に登場したゆるキャラの地元に赴き、現地より中継でコーナーを進行、そのため金曜日のみ3回とも中継となる（2013年5月最終週より、ゆるキャラバンの放送は、金曜日から月曜日に変更されており、それに伴い、安藤が翌週登場するゆるキャラの予告をするようになった）。しかし、このゆるキャラ演出は2014年9月26日を持って廃止された。
 
@@ -578,7 +578,7 @@
 
 <!-- end list -->
 
-  - 17時台に放送される特集コーナー。「みみより@ホーム（みみよりあっとほーむ）」を2001年10月に改題。ドキュメントや追跡・密着取材（麻薬Gメンや海上保安庁などの捜査・警備機関など）といった硬派な内容となっている。ナレーションは、同局昼のニュース番組『FNNスピーク』のキャスターが担当することが多い。[小林清志](https://ja.wikipedia.org/wiki/小林清志 "wikilink")が集中的に担当したこともあり、また[ニッポン放送](../Page/ニッポン放送.md "wikilink")から移籍した[松元真一郎](https://ja.wikipedia.org/wiki/松元真一郎 "wikilink")も担当する。
+  - 17時台に放送される特集コーナー。「みみより@ホーム（みみよりあっとほーむ）」を2001年10月に改題。ドキュメントや追跡・密着取材（麻薬Gメンや海上保安庁などの捜査・警備機関など）といった硬派な内容となっている。ナレーションは、同局昼のニュース番組『FNNスピーク』のキャスターが担当することが多い。[小林清志](../Page/小林清志.md "wikilink")が集中的に担当したこともあり、また[ニッポン放送](../Page/ニッポン放送.md "wikilink")から移籍した[松元真一郎](../Page/松元真一郎.md "wikilink")も担当する。
   - 2010年より追跡取材「追セキ」というコーナーを不定期に放送、このコーナーではVTRの前後に取材したリポーターがスタジオに出演する。
 
 <!-- end list -->
@@ -598,7 +598,7 @@
 
 <!-- end list -->
 
-  - 17時台後半に放送される特集コーナー。密着取材によるドキュメントなど「ハード・硬派」な内容も放送するが、グルメ・旅行・生活実用などを定着させ、どちらかといえば「ソフト」な内容となっている。[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")や[タレント](../Page/タレント.md "wikilink")等がリポーターとして出演。[迫文代](https://ja.wikipedia.org/wiki/迫文代 "wikilink")、[小谷あゆみ](https://ja.wikipedia.org/wiki/小谷あゆみ "wikilink")、[黒住祐子](https://ja.wikipedia.org/wiki/黒住祐子 "wikilink")、[高橋ゆかり](https://ja.wikipedia.org/wiki/高橋ゆかり "wikilink")、[永山美穂](https://ja.wikipedia.org/wiki/永山美穂 "wikilink")、[竹島久美子](https://ja.wikipedia.org/wiki/竹島久美子 "wikilink")、[吉田かほり](https://ja.wikipedia.org/wiki/吉田かほり "wikilink")、[影島香代子](https://ja.wikipedia.org/wiki/影島香代子 "wikilink")、[吉井歌奈子](https://ja.wikipedia.org/wiki/吉井歌奈子 "wikilink")、[植村智子](https://ja.wikipedia.org/wiki/植村智子 "wikilink")、[坂本祐祈](https://ja.wikipedia.org/wiki/坂本祐祈 "wikilink")、[木竜亜希子](https://ja.wikipedia.org/wiki/木竜亜希子 "wikilink")、[山元香里](https://ja.wikipedia.org/wiki/山元香里 "wikilink")、[榊菜美](https://ja.wikipedia.org/wiki/榊菜美 "wikilink")、[ドロンズ石本](https://ja.wikipedia.org/wiki/ドロンズ石本 "wikilink")、[かつみ・さゆり](https://ja.wikipedia.org/wiki/かつみ・さゆり "wikilink")、他が挙げられる。ナレーションは、[真中了](https://ja.wikipedia.org/wiki/真中了 "wikilink")が担当することが多い。2011年3月11日に発生した[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")の影響で一時的に放送を見合わせた。
+  - 17時台後半に放送される特集コーナー。密着取材によるドキュメントなど「ハード・硬派」な内容も放送するが、グルメ・旅行・生活実用などを定着させ、どちらかといえば「ソフト」な内容となっている。[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")や[タレント](../Page/タレント.md "wikilink")等がリポーターとして出演。[迫文代](../Page/迫文代.md "wikilink")、[小谷あゆみ](https://ja.wikipedia.org/wiki/小谷あゆみ "wikilink")、[黒住祐子](../Page/黒住祐子.md "wikilink")、[高橋ゆかり](../Page/高橋ゆかり.md "wikilink")、[永山美穂](https://ja.wikipedia.org/wiki/永山美穂 "wikilink")、[竹島久美子](https://ja.wikipedia.org/wiki/竹島久美子 "wikilink")、[吉田かほり](https://ja.wikipedia.org/wiki/吉田かほり "wikilink")、[影島香代子](../Page/影島香代子.md "wikilink")、[吉井歌奈子](../Page/吉井歌奈子.md "wikilink")、[植村智子](../Page/植村智子.md "wikilink")、[坂本祐祈](https://ja.wikipedia.org/wiki/坂本祐祈 "wikilink")、[木竜亜希子](../Page/木竜亜希子.md "wikilink")、[山元香里](../Page/山元香里.md "wikilink")、[榊菜美](https://ja.wikipedia.org/wiki/榊菜美 "wikilink")、[ドロンズ石本](../Page/ドロンズ石本.md "wikilink")、[かつみ・さゆり](../Page/かつみ・さゆり.md "wikilink")、他が挙げられる。ナレーションは、[真中了](../Page/真中了.md "wikilink")が担当することが多い。2011年3月11日に発生した[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")の影響で一時的に放送を見合わせた。
   - 関東ローカルであるために関東地方の情報を取り上げることが多いが、全国各地でも放送される「スーパーリポート」コーナーでも放送されることがあった。
   - 「スーパー特報」を不定期で録画ネットしている地域（さくらんぼテレビ・岡山放送など）では地元にメリットがない地域性の高い特集以外を放送されることがあった。
   - 2014年9月26日までは長年に渡り18時台の関東ローカル枠で放送されていたが同年9月29日から「リアル\!」の開始に伴い、「コレみて」の後継コーナーとして17時台後半へ移動した。
@@ -720,7 +720,7 @@
 
 #### 1998年度（宮川時代）
 
-基本的には『スーパータイム』→『ザ・ヒューマン』時代の番組構成・内容を踏襲した。ただし、『[ニュースプラス1](https://ja.wikipedia.org/wiki/NNNニュースプラス1 "wikilink")』（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）に対抗して冒頭に「スーパー列島中継」が入ったことと、特集とスポーツの順番を入れ替え、全国ニュースとスポーツを直結した点のみ異なる。
+基本的には『スーパータイム』→『ザ・ヒューマン』時代の番組構成・内容を踏襲した。ただし、『[ニュースプラス1](../Page/NNNニュースプラス1.md "wikilink")』（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）に対抗して冒頭に「スーパー列島中継」が入ったことと、特集とスポーツの順番を入れ替え、全国ニュースとスポーツを直結した点のみ異なる。
 
 <div class="NavFrame" style="clear:both; border:0">
 
@@ -857,7 +857,7 @@
 
 ### 連動データ放送
 
-地上波デジタル放送と[ワンセグ](https://ja.wikipedia.org/wiki/ワンセグ "wikilink")放送では、番組と連動してデータ放送を実施している（2011年3月25日以降実施されていなかったが2014年5月12日から3年ぶりに再開）。 地上波デジタル放送のデータ放送では、逆L字で実施。視聴地域のあすの天気と、「きょうのスーパーニュース」（全国）、「スーパー特報」（フジテレビのみ）、「ズバリ\!天気」（フジテレビのみ）のメニューがあった。 ワンセグ放送のデータ放送では、「きょうのスーパーニュース」を実施。
+地上波デジタル放送と[ワンセグ](../Page/ワンセグ.md "wikilink")放送では、番組と連動してデータ放送を実施している（2011年3月25日以降実施されていなかったが2014年5月12日から3年ぶりに再開）。 地上波デジタル放送のデータ放送では、逆L字で実施。視聴地域のあすの天気と、「きょうのスーパーニュース」（全国）、「スーパー特報」（フジテレビのみ）、「ズバリ\!天気」（フジテレビのみ）のメニューがあった。 ワンセグ放送のデータ放送では、「きょうのスーパーニュース」を実施。
 
   - きょうのスーパーニュース
     17時台のニュース、スーパーリポート、文化芸能部、18時台のニュース、スポーツ力の内容が表示（放送されていないコーナーでも全国で見ることができる）。
@@ -882,7 +882,7 @@
 <td><p>1998年3月30日 - 1999年3月31日</p></td>
 <td><p>（放送なし）</p></td>
 <td><p>「The THEME from SUPER NEWS」<br />
-（<a href="https://ja.wikipedia.org/wiki/本間勇輔" title="wikilink">本間勇輔</a>）</p></td>
+（<a href="../Page/本間勇輔.md" title="wikilink">本間勇輔</a>）</p></td>
 <td><p>1998年10月1日からはトランペット調のアレンジ版が使用された。</p></td>
 </tr>
 <tr class="even">
@@ -906,7 +906,7 @@
 <td><p>「LANDING TIMEMACHINE」<br />
 （<a href="../Page/浅倉大介.md" title="wikilink">浅倉大介</a>）[16]</p></td>
 <td><p>最終回でも『ツインビーヤッホー！ 君に会うために』が使用<br />
-（その際安藤時代第1回目の<a href="../Page/2000年.md" title="wikilink">2000年</a><a href="https://ja.wikipedia.org/wiki/4月3日" title="wikilink">4月3日</a>放送分のオープニングが流れた）。</p></td>
+（その際安藤時代第1回目の<a href="../Page/2000年.md" title="wikilink">2000年</a><a href="../Page/4月3日.md" title="wikilink">4月3日</a>放送分のオープニングが流れた）。</p></td>
 </tr>
 <tr class="odd">
 <td><p>2001年10月1日 - 2002年3月29日</p></td>
@@ -933,7 +933,7 @@
 <tr class="even">
 <td><p>2011年3月28日 - 2012年3月30日</p></td>
 <td><p>「FNNスーパーニュース2011テーマ」<br />
-（<a href="https://ja.wikipedia.org/wiki/渡辺俊幸" title="wikilink">渡辺俊幸</a>）</p></td>
+（<a href="../Page/渡辺俊幸.md" title="wikilink">渡辺俊幸</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -974,7 +974,7 @@
           - 関東ローカル枠において、えなみゼミ（18:40 - 、一部地域のみ）の放送状況も記載する。
       - FNN枠（17:54 - 18:15）は全局ネットのため、省略。
       - ○印…フルネット △印…部分ネット（17時台） ▲印…部分ネット（関東ローカル枠内えなみゼミのネット） ×印…非ネット
-  - 18:15以降の対応についての詳細は「[FNN夕方ローカルニュース一覧](https://ja.wikipedia.org/wiki/FNN夕方ローカルニュース一覧 "wikilink")」を参照。
+  - 18:15以降の対応についての詳細は「[FNN夕方ローカルニュース一覧](../Page/FNN夕方ローカルニュース一覧.md "wikilink")」を参照。
 
 <table>
 <caption>『FNNスーパーニュース』ネット局</caption>
@@ -1023,10 +1023,10 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/宮城県" title="wikilink">宮城県</a></p></td>
 <td><p><a href="../Page/仙台放送.md" title="wikilink">仙台放送</a>（OX）</p></td>
-<td><p>16:50 - 19:00 <a href="https://ja.wikipedia.org/wiki/仙台放送スーパーニュース" title="wikilink">FNN仙台放送スーパーニュース</a></p></td>
+<td><p>16:50 - 19:00 <a href="../Page/仙台放送スーパーニュース.md" title="wikilink">FNN仙台放送スーパーニュース</a></p></td>
 <td><ul>
 <li>17時台は2005年<a href="../Page/10月3日.md" title="wikilink">10月3日</a>からネット。</li>
-<li>2000年<a href="https://ja.wikipedia.org/wiki/7月3日" title="wikilink">7月3日</a> - 2006年<a href="../Page/12月22日.md" title="wikilink">12月22日</a>までは15:59 - 16:55まで『<a href="https://ja.wikipedia.org/wiki/ヨジテレビ!" title="wikilink">ヨジテレビ!</a>』を放送。</li>
+<li>2000年<a href="../Page/7月3日.md" title="wikilink">7月3日</a> - 2006年<a href="../Page/12月22日.md" title="wikilink">12月22日</a>までは15:59 - 16:55まで『<a href="../Page/ヨジテレビ!.md" title="wikilink">ヨジテレビ!</a>』を放送。</li>
 </ul></td>
 <td></td>
 </tr>
@@ -1034,7 +1034,7 @@
 <td><p><a href="../Page/秋田県.md" title="wikilink">秋田県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/秋田テレビ" title="wikilink">秋田テレビ</a>（AKT）</p></td>
 <td><p>［月曜 - 木曜］<br />
-16:50 - 19:00 <a href="https://ja.wikipedia.org/wiki/AKTスーパーニュース" title="wikilink">AKTスーパーニュース</a><br />
+16:50 - 19:00 <a href="../Page/AKTスーパーニュース.md" title="wikilink">AKTスーパーニュース</a><br />
 ［金曜］<br />
 15:30 - 16:50 <a href="https://ja.wikipedia.org/wiki/SUPER_jumpin&#39;" title="wikilink">SUPER jumpin'</a><br />
 16:50 - 19:00 AKTスーパーニュース</p></td>
@@ -1044,9 +1044,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/山形県" title="wikilink">山形県</a></p></td>
+<td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
 <td><p><a href="../Page/さくらんぼテレビジョン.md" title="wikilink">さくらんぼテレビ</a>（SAY）</p></td>
-<td><p>16:50 - 19:00 <a href="https://ja.wikipedia.org/wiki/SAYスーパーニュース" title="wikilink">SAYスーパーニュース</a></p></td>
+<td><p>16:50 - 19:00 <a href="../Page/SAYスーパーニュース.md" title="wikilink">SAYスーパーニュース</a></p></td>
 <td><ul>
 <li>17時台は2004年<a href="https://ja.wikipedia.org/wiki/10月4日" title="wikilink">10月4日</a>からネット。</li>
 </ul></td>
@@ -1055,10 +1055,10 @@
 <tr class="even">
 <td><p><a href="../Page/福島県.md" title="wikilink">福島県</a></p></td>
 <td><p><a href="../Page/福島テレビ.md" title="wikilink">福島テレビ</a>（FTV）</p></td>
-<td><p>16:50 - 19:00 <a href="https://ja.wikipedia.org/wiki/FTVスーパーニュース" title="wikilink">FNN FTVスーパーニュース</a></p></td>
+<td><p>16:50 - 19:00 <a href="../Page/FTVスーパーニュース.md" title="wikilink">FNN FTVスーパーニュース</a></p></td>
 <td><ul>
 <li>17時台は2003年3月31日からネット。</li>
-<li>前番組は17時台のみ『<a href="https://ja.wikipedia.org/wiki/テレポート_(福島テレビ)" title="wikilink">テレポート</a>』、18時台のみ『<a href="https://ja.wikipedia.org/wiki/FTVスーパーニュース" title="wikilink">FNN FTVスーパーニュース テレポート</a>』 → 17時台のみ『<a href="https://ja.wikipedia.org/wiki/Lばんテレポート" title="wikilink">Lばんテレポート</a>』、18時台のみ『<a href="https://ja.wikipedia.org/wiki/FTVスーパーニュース" title="wikilink">FTVスーパーニュース FNN</a>』 → 『<a href="https://ja.wikipedia.org/wiki/Lばんスーパーニュース" title="wikilink">Lばんスーパーニュース</a>』 → 『<a href="https://ja.wikipedia.org/wiki/FTVスーパーニュース" title="wikilink">情熱スクープ FTVスーパーニュースFNN</a>』。</li>
+<li>前番組は17時台のみ『<a href="https://ja.wikipedia.org/wiki/テレポート_(福島テレビ)" title="wikilink">テレポート</a>』、18時台のみ『<a href="../Page/FTVスーパーニュース.md" title="wikilink">FNN FTVスーパーニュース テレポート</a>』 → 17時台のみ『<a href="../Page/Lばんテレポート.md" title="wikilink">Lばんテレポート</a>』、18時台のみ『<a href="../Page/FTVスーパーニュース.md" title="wikilink">FTVスーパーニュース FNN</a>』 → 『<a href="../Page/Lばんスーパーニュース.md" title="wikilink">Lばんスーパーニュース</a>』 → 『<a href="../Page/FTVスーパーニュース.md" title="wikilink">情熱スクープ FTVスーパーニュースFNN</a>』。</li>
 <li>2003年3月31日から2008年3月28日までと2014年3月31日から同年9月26日までは17時台にローカルコーナーを設けていた。</li>
 <li>18時台の音楽は独自のものが使用される。</li>
 <li>「つながろう!福島」（震災復興特集）放送時は18:40の「えなみゼミ」は非ネットとする。</li>
@@ -1068,8 +1068,8 @@
 <tr class="odd">
 <td><p><a href="../Page/新潟県.md" title="wikilink">新潟県</a></p></td>
 <td><p><a href="../Page/NST新潟総合テレビ.md" title="wikilink">新潟総合テレビ</a>（NST）</p></td>
-<td><p>17:53 - 17:54 <a href="https://ja.wikipedia.org/wiki/NSTスーパーニュース" title="wikilink">NSTスーパーニュース</a>ヘッドライン<br />
-17:54 - 19:00 <a href="https://ja.wikipedia.org/wiki/NSTスーパーニュース" title="wikilink">FNN NSTスーパーニュース</a></p></td>
+<td><p>17:53 - 17:54 <a href="../Page/NSTスーパーニュース.md" title="wikilink">NSTスーパーニュース</a>ヘッドライン<br />
+17:54 - 19:00 <a href="../Page/NSTスーパーニュース.md" title="wikilink">FNN NSTスーパーニュース</a></p></td>
 <td><p>×</p></td>
 <td><ul>
 <li>17:53から1分間は、ローカル枠のヘッドラインを放送。</li>
@@ -1078,20 +1078,20 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/長野県.md" title="wikilink">長野県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/長野放送" title="wikilink">長野放送</a>（NBS）</p></td>
-<td><p>16:50 - 19:00 <a href="https://ja.wikipedia.org/wiki/NBSスーパーニュース" title="wikilink">FNN NBSスーパーニュース</a></p></td>
+<td><p><a href="../Page/長野放送.md" title="wikilink">長野放送</a>（NBS）</p></td>
+<td><p>16:50 - 19:00 <a href="../Page/NBSスーパーニュース.md" title="wikilink">FNN NBSスーパーニュース</a></p></td>
 <td><p>○</p></td>
 <td><ul>
 <li>17時台は2006年4月3日からネット。それまで17時台はドラマの再放送枠に充てていた。</li>
 <li>2007年<a href="../Page/9月28日.md" title="wikilink">9月28日</a>までは放送開始1分前にカウントダウンとして<a href="../Page/長野県.md" title="wikilink">長野県</a>内ニュース・天気予報を1分間長野から伝えてきたが、同年10月1日に16時台の時間拡大に伴い廃止された。</li>
 <li>2013年4月1日 - 9月27日は16:30からネットしていた。</li>
-<li>18:40の「えなみゼミ」は2014年10月6日からネット。「トク選」→「ニュース総ざらい」までの2014年10月3日までは非ネットだったが2014年6月9日 - 7月11日までは<a href="https://ja.wikipedia.org/wiki/2014_FIFAワールドカップ" title="wikilink">2014 FIFAワールドカップ期間中という事もあり臨時でネットしていた</a>（ただし以前はNBS独自で「トク選」のコーナーがあった）。</li>
+<li>18:40の「えなみゼミ」は2014年10月6日からネット。「トク選」→「ニュース総ざらい」までの2014年10月3日までは非ネットだったが2014年6月9日 - 7月11日までは<a href="../Page/2014_FIFAワールドカップ.md" title="wikilink">2014 FIFAワールドカップ期間中という事もあり臨時でネットしていた</a>（ただし以前はNBS独自で「トク選」のコーナーがあった）。</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/静岡県.md" title="wikilink">静岡県</a></p></td>
 <td><p><a href="../Page/テレビ静岡.md" title="wikilink">テレビ静岡</a>（SUT）</p></td>
-<td><p>17:54 - 19:00 <a href="https://ja.wikipedia.org/wiki/FNNテレビ静岡スーパーニュース" title="wikilink">FNNテレビ静岡スーパーニュース</a></p></td>
+<td><p>17:54 - 19:00 <a href="../Page/FNNテレビ静岡スーパーニュース.md" title="wikilink">FNNテレビ静岡スーパーニュース</a></p></td>
 <td><p>×</p></td>
 <td><ul>
 <li>17時台の時間帯はドラマの再放送やアニメを放送している。</li>
@@ -1103,7 +1103,7 @@
 <td><p>16:30 - 18:55 <a href="https://ja.wikipedia.org/wiki/BBTスーパーニュース_チャンネル8" title="wikilink">BBTスーパーニュース チャンネル8</a></p></td>
 <td><p>○</p></td>
 <td><ul>
-<li>前番組は、17時台のみ『BBTスーパーニュース』、18時台のみ『<a href="https://ja.wikipedia.org/wiki/BBTスーパーニュース" title="wikilink">BBTスーパーニュース FNN</a>』 → 17時台のみ（後に16時台のみ）情報番組『<a href="https://ja.wikipedia.org/wiki/Youドキッ!たいむ" title="wikilink">Youドキッ!たいむ</a>』、18時台『FNN BBTスーパーニュース』。</li>
+<li>前番組は、17時台のみ『BBTスーパーニュース』、18時台のみ『<a href="../Page/BBTスーパーニュース.md" title="wikilink">BBTスーパーニュース FNN</a>』 → 17時台のみ（後に16時台のみ）情報番組『<a href="../Page/Youドキッ!たいむ.md" title="wikilink">Youドキッ!たいむ</a>』、18時台『FNN BBTスーパーニュース』。</li>
 <li>17時台は2001年10月1日からネット。</li>
 <li>2012年4月6日から9月28日まで、18:40の「トク選」は金曜放送分のみネットせず、特集企画「とやま物語」を放映。</li>
 <li>「えなみゼミ」のネットを取りやめ、富山からの放送時間を拡大することもある。</li>
@@ -1112,7 +1112,7 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/石川県" title="wikilink">石川県</a></p></td>
 <td><p><a href="../Page/石川テレビ放送.md" title="wikilink">石川テレビ</a>（ITC）</p></td>
-<td><p>16:50 - 19:00 <a href="https://ja.wikipedia.org/wiki/石川テレビスーパーニュース" title="wikilink">FNN石川テレビスーパーニュース</a></p></td>
+<td><p>16:50 - 19:00 <a href="../Page/石川テレビスーパーニュース.md" title="wikilink">FNN石川テレビスーパーニュース</a></p></td>
 <td><ul>
 <li>17時台は2003年3月31日からネットするも2012年3月30日限りで一旦打ち切りになったが、同年<a href="../Page/7月30日.md" title="wikilink">7月30日</a>からネット再開。</li>
 <li>2013年4月1日 - <a href="../Page/6月28日.md" title="wikilink">6月28日</a>は16:30からネットしていた。</li>
@@ -1122,17 +1122,17 @@
 <tr class="even">
 <td><p><a href="../Page/福井県.md" title="wikilink">福井県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/福井テレビジョン放送" title="wikilink">福井テレビ</a>（FTB）</p></td>
-<td><p>16:50 - 17:54 <a href="https://ja.wikipedia.org/wiki/おかえりなさ〜い" title="wikilink">おかえりなさ〜い</a><br />
-17:54 - 19:00 <a href="https://ja.wikipedia.org/wiki/FNN福井テレビスーパーニュース" title="wikilink">FNN福井テレビスーパーニュース</a></p></td>
+<td><p>16:50 - 17:54 <a href="../Page/おかえりなさ〜い.md" title="wikilink">おかえりなさ〜い</a><br />
+17:54 - 19:00 <a href="../Page/FNN福井テレビスーパーニュース.md" title="wikilink">FNN福井テレビスーパーニュース</a></p></td>
 <td><p>×</p></td>
 <td><ul>
-<li>17時台は2009年<a href="https://ja.wikipedia.org/wiki/4月3日" title="wikilink">4月3日</a>までは一部ネット。文化芸能部またはニュース 17:50頃 - 。</li>
+<li>17時台は2009年<a href="../Page/4月3日.md" title="wikilink">4月3日</a>までは一部ネット。文化芸能部またはニュース 17:50頃 - 。</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/広域放送.md" title="wikilink">中京広域圏</a></p></td>
 <td><p><a href="../Page/東海テレビ放送.md" title="wikilink">東海テレビ</a>（THK）</p></td>
-<td><p>16:49 - 19:00 <a href="https://ja.wikipedia.org/wiki/東海テレビスーパーニュース" title="wikilink">FNN東海テレビスーパーニュース</a></p></td>
+<td><p>16:49 - 19:00 <a href="../Page/東海テレビスーパーニュース.md" title="wikilink">FNN東海テレビスーパーニュース</a></p></td>
 <td><p>△[21]</p></td>
 <td><ul>
 <li>17時台は2011年4月4日から同時ネット。その前週まではFNNから事前送りされる全国ニュース素材の一部とローカルニュース素材を織り交ぜ東海テレビのキャスターがリードをつけて伝える形での放送だった（このスタイルはその後もローカル情報が多い時に不定期で見られる）。</li>
@@ -1141,21 +1141,21 @@
 <tr class="even">
 <td><p><a href="../Page/広域放送.md" title="wikilink">近畿広域圏</a></p></td>
 <td><p><a href="../Page/関西テレビ放送.md" title="wikilink">関西テレビ</a>（KTV）</p></td>
-<td><p>16:48 - 19:00 <a href="https://ja.wikipedia.org/wiki/FNNスーパーニュースアンカー" title="wikilink">FNNスーパーニュースアンカー</a></p></td>
+<td><p>16:48 - 19:00 <a href="../Page/FNNスーパーニュースアンカー.md" title="wikilink">FNNスーパーニュースアンカー</a></p></td>
 <td><p>×</p></td>
 <td><p>×</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/島根県.md" title="wikilink">島根県</a>・<a href="../Page/鳥取県.md" title="wikilink">鳥取県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/山陰中央テレビジョン放送" title="wikilink">山陰中央テレビ</a>（TSK）</p></td>
-<td><p>16:50 - 19:00 <a href="https://ja.wikipedia.org/wiki/TSKスーパーニュース" title="wikilink">FNN TSKスーパーニュース</a></p></td>
+<td><p>16:50 - 19:00 <a href="../Page/TSKスーパーニュース.md" title="wikilink">FNN TSKスーパーニュース</a></p></td>
 <td><p>○</p></td>
 <td><p>▲</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/岡山県・香川県の放送" title="wikilink">岡山県・香川県</a></p></td>
+<td><p><a href="../Page/岡山県・香川県の放送.md" title="wikilink">岡山県・香川県</a></p></td>
 <td><p><a href="../Page/岡山放送.md" title="wikilink">岡山放送</a>（OHK）</p></td>
-<td><p>16:50 - 19:00 <a href="https://ja.wikipedia.org/wiki/OHKスーパーニュース" title="wikilink">OHKスーパーニュース</a></p></td>
+<td><p>16:50 - 19:00 <a href="../Page/OHKスーパーニュース.md" title="wikilink">OHKスーパーニュース</a></p></td>
 <td><ul>
 <li>17時台はドラマ再放送に充てていたが、14時台に放送されていた関西テレビ制作の午後ワイド番組の代替枠として2006年4月3日よりネット開始。</li>
 </ul></td>
@@ -1164,7 +1164,7 @@
 <tr class="odd">
 <td><p><a href="../Page/広島県.md" title="wikilink">広島県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/テレビ新広島" title="wikilink">テレビ新広島</a>（tss）</p></td>
-<td><p>16:50 - 19:00 <a href="https://ja.wikipedia.org/wiki/TSSスーパーニュース" title="wikilink">tssスーパーニュース FNN</a></p></td>
+<td><p>16:50 - 19:00 <a href="../Page/TSSスーパーニュース.md" title="wikilink">tssスーパーニュース FNN</a></p></td>
 <td><p>×</p></td>
 <td><ul>
 <li>17時台は2014年9月29日からネット。それまでは『5時ドラ!』と題し、ドラマの再放送を放送していたが、学校の長期休暇期間中はバラエティ番組の再放送に切り替えることがあった。</li>
@@ -1173,32 +1173,32 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/愛媛県.md" title="wikilink">愛媛県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビ愛媛" title="wikilink">テレビ愛媛</a>[22]（EBC）</p></td>
-<td><p>16:50 - 19:00 <a href="https://ja.wikipedia.org/wiki/EBCスーパーニュース" title="wikilink">EBCスーパーニュース FNN</a></p></td>
+<td><p><a href="../Page/テレビ愛媛.md" title="wikilink">テレビ愛媛</a>[22]（EBC）</p></td>
+<td><p>16:50 - 19:00 <a href="../Page/EBCスーパーニュース.md" title="wikilink">EBCスーパーニュース FNN</a></p></td>
 <td><p>▲</p></td>
 <td><ul>
 <li>17時台は2002年4月1日からネット開始。うち、2006年4月3日 - 2012年3月30日までは17時台フルネット。2012年4月2日からは16:53に飛び乗りスタート、10月1日からは17時台フルネットに戻し、16:48から2分間のローカル枠を設けた。</li>
-<li><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a> - <a href="../Page/2009年.md" title="wikilink">2009年</a>は<a href="https://ja.wikipedia.org/wiki/テレチュー2・5h" title="wikilink">テレチュー2・5h</a>内包（コンプレックスのコンプレックス）。</li>
+<li><a href="../Page/2005年.md" title="wikilink">2005年</a> - <a href="../Page/2009年.md" title="wikilink">2009年</a>は<a href="../Page/テレチュー2・5h.md" title="wikilink">テレチュー2・5h</a>内包（コンプレックスのコンプレックス）。</li>
 <li>2014年9月29日からは、17時台の「オオタニ天気」を差し替え、愛媛県内のニュース・天気を放送するようになった。</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/高知県.md" title="wikilink">高知県</a></p></td>
 <td><p><a href="../Page/高知さんさんテレビ.md" title="wikilink">高知さんさんテレビ</a>（KSS）</p></td>
-<td><p>16:50 - 19:00 <a href="https://ja.wikipedia.org/wiki/SUNSUNスーパーニュース" title="wikilink">SUNSUNスーパーニュース</a></p></td>
+<td><p>16:50 - 19:00 <a href="../Page/SUNSUNスーパーニュース.md" title="wikilink">SUNSUNスーパーニュース</a></p></td>
 <td><ul>
 <li>17時台は2001年10月1日からネット。</li>
 </ul></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/テレビ西日本.md" title="wikilink">テレビ西日本</a>（TNC）</p></td>
-<td><p>17:54 - 19:00 <a href="https://ja.wikipedia.org/wiki/TNCスーパーニュース" title="wikilink">TNCスーパーニュース FNN</a></p></td>
+<td><p>17:54 - 19:00 <a href="../Page/TNCスーパーニュース.md" title="wikilink">TNCスーパーニュース FNN</a></p></td>
 <td><p>×</p></td>
 <td><ul>
 <li>17時台は、ドラマ再放送枠だった。2008年3月31日 - <a href="../Page/4月30日.md" title="wikilink">4月30日</a>は一部ネット（ - 17:43）[23]、2008年<a href="../Page/5月1日.md" title="wikilink">5月1日</a> - 2009年<a href="../Page/3月27日.md" title="wikilink">3月27日</a>、2010年3月29日 - <a href="../Page/7月30日.md" title="wikilink">7月30日</a>はフルネット、2009年3月30日 - 2010年3月26日は一部ネット（16:53.05 - 17:05頃）、以後非ネット。</li>
-<li>1998年3月30日 - 2009年3月27日までは『<a href="https://ja.wikipedia.org/wiki/TNCスーパーニュース" title="wikilink">TNCスーパーニュース FNN（第1期）</a>』、2009年3月30日 - 2010年3月26日までは『<a href="https://ja.wikipedia.org/wiki/ハチナビ_スーパーニュース" title="wikilink">FNNハチナビ スーパーニュース</a>』、2010年3月29日から2012年3月30日までは『<a href="https://ja.wikipedia.org/wiki/ハチナビプラス" title="wikilink">ハチナビプラス TNCスーパーニュースFNN</a>』18時台として放送。2012年度以降17時台はドラマ再放送。</li>
+<li>1998年3月30日 - 2009年3月27日までは『<a href="../Page/TNCスーパーニュース.md" title="wikilink">TNCスーパーニュース FNN（第1期）</a>』、2009年3月30日 - 2010年3月26日までは『<a href="https://ja.wikipedia.org/wiki/ハチナビ_スーパーニュース" title="wikilink">FNNハチナビ スーパーニュース</a>』、2010年3月29日から2012年3月30日までは『<a href="https://ja.wikipedia.org/wiki/ハチナビプラス" title="wikilink">ハチナビプラス TNCスーパーニュースFNN</a>』18時台として放送。2012年度以降17時台はドラマ再放送。</li>
 <li>プロ野球<a href="https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス" title="wikilink">福岡ソフトバンクホークス</a>の試合を19時から中継する場合、18:40のニュースコーナーを野球中継に差し替えることがある。</li>
 <li>2008年4月から半年間、16:50からローカルニュースを放送。2009年度は『ハチナビ スーパーニュース』として17時台は部分ネットとし、残りはローカル情報を放送。17時台を全くネットしない日や、逆にフルネットする日もあった。18時台は『TNCスーパーニュース』からの流れを受け継ぐ。</li>
 </ul></td>
@@ -1206,10 +1206,10 @@
 <tr class="odd">
 <td><p><a href="../Page/佐賀県.md" title="wikilink">佐賀県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/サガテレビ" title="wikilink">サガテレビ</a>（sts）</p></td>
-<td><p>16:50 - 17:54 <a href="https://ja.wikipedia.org/wiki/かちかちワイド" title="wikilink">かちかちワイド</a><br />
+<td><p>16:50 - 17:54 <a href="../Page/かちかちワイド.md" title="wikilink">かちかちワイド</a><br />
 17:54 - 19:00 <a href="https://ja.wikipedia.org/wiki/stsスーパーニュース" title="wikilink">FNN SAGA TVスーパーニュース</a></p></td>
 <td><ul>
-<li>かちかちワイド（第1部）が、『<a href="https://ja.wikipedia.org/wiki/カチカチてれび" title="wikilink">カチカチてれび</a>』時代に番組内のコーナーとして「文化芸能部」をネットしていたことがある。</li>
+<li>かちかちワイド（第1部）が、『<a href="../Page/カチカチてれび.md" title="wikilink">カチカチてれび</a>』時代に番組内のコーナーとして「文化芸能部」をネットしていたことがある。</li>
 <li>前番組は『<a href="https://ja.wikipedia.org/wiki/stsスーパーニュース" title="wikilink">stsスーパーニュース FNN → FNN stsスーパーニュース</a>』だった。</li>
 </ul></td>
 <td></td>
@@ -1217,11 +1217,11 @@
 <tr class="even">
 <td><p><a href="../Page/長崎県.md" title="wikilink">長崎県</a></p></td>
 <td><p><a href="../Page/テレビ長崎.md" title="wikilink">テレビ長崎</a>（KTN）</p></td>
-<td><p>16:50 - 19:00 <a href="https://ja.wikipedia.org/wiki/KTNスーパーニュース" title="wikilink">KTNスーパーニュース</a></p></td>
+<td><p>16:50 - 19:00 <a href="../Page/KTNスーパーニュース.md" title="wikilink">KTNスーパーニュース</a></p></td>
 <td><p>○</p></td>
 <td><ul>
-<li>かつて存在した前番組は17時台のみ『テレビみゅ〜で』、18時台のみ『<a href="https://ja.wikipedia.org/wiki/KTNスーパーニュース" title="wikilink">KTNスーパーニュース FNN（第1期）</a>』</li>
-<li>17時台は『<a href="https://ja.wikipedia.org/wiki/Gopan" title="wikilink">できたてGopan</a>』の時間枠変更により2007年4月2日よりネットを開始。『<a href="https://ja.wikipedia.org/wiki/Gopan" title="wikilink">金よう夕Gopan</a>』の放送開始に伴い2009年10月2日から金曜日のみ一旦非ネット（重大ニュース放送時を除く）となったが、同番組の放送時間変更により2010年10月1日より金曜日のネットを再開。『<a href="https://ja.wikipedia.org/wiki/Gopan" title="wikilink">生活てれび スーパーGopan</a>』放送開始に伴って2011年4月12日より部分ネットに移行し、同年10月1日から一旦非ネットとなった（非ネット後も『生活てれび スーパーGopan』放送休止時に1週間の臨時ネットが組まれていた）。『Gopan』への改題と放送時間変更により、2013年3月25日からネットに復帰した（なお、同年3月29日までは臨時ネットの扱いで、同年4月1日より正式に復帰）。なお、不定期で『Gopan』の放送時間が17時台（16:50 - 17:54）となる場合があり、当日は17時台のネットが休止となる。</li>
+<li>かつて存在した前番組は17時台のみ『テレビみゅ〜で』、18時台のみ『<a href="../Page/KTNスーパーニュース.md" title="wikilink">KTNスーパーニュース FNN（第1期）</a>』</li>
+<li>17時台は『<a href="../Page/Gopan.md" title="wikilink">できたてGopan</a>』の時間枠変更により2007年4月2日よりネットを開始。『<a href="../Page/Gopan.md" title="wikilink">金よう夕Gopan</a>』の放送開始に伴い2009年10月2日から金曜日のみ一旦非ネット（重大ニュース放送時を除く）となったが、同番組の放送時間変更により2010年10月1日より金曜日のネットを再開。『<a href="../Page/Gopan.md" title="wikilink">生活てれび スーパーGopan</a>』放送開始に伴って2011年4月12日より部分ネットに移行し、同年10月1日から一旦非ネットとなった（非ネット後も『生活てれび スーパーGopan』放送休止時に1週間の臨時ネットが組まれていた）。『Gopan』への改題と放送時間変更により、2013年3月25日からネットに復帰した（なお、同年3月29日までは臨時ネットの扱いで、同年4月1日より正式に復帰）。なお、不定期で『Gopan』の放送時間が17時台（16:50 - 17:54）となる場合があり、当日は17時台のネットが休止となる。</li>
 <li>18時台は2002年度のみ『KTNスーパーニュースGopan』として放送。</li>
 <li>ヘッドラインは2007年10月1日より独自で導入しており、時期により全国ニュースが組まれていた。2012年3月30日を以って一旦終了したが、2013年4月1日より放送開始前の形式でローカルでの独自ヘッドラインを再開した。</li>
 <li>2014年3月21日をもって『Gopan』の放送が終了し、同年3月31日より後継番組の『<a href="https://ja.wikipedia.org/wiki/ヨジマル!" title="wikilink">ヨジマル!</a>』の放送を開始したが、『スーパーニュース』に関しては『ヨジマル!』放送開始以降も従来通りとなる。</li>
@@ -1230,9 +1230,9 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/熊本県" title="wikilink">熊本県</a></p></td>
 <td><p><a href="../Page/テレビ熊本.md" title="wikilink">テレビ熊本</a>（TKU）</p></td>
-<td><p>16:50 - 19:00 <a href="https://ja.wikipedia.org/wiki/TKUスーパーニュース" title="wikilink">TKUスーパーニュース</a></p></td>
+<td><p>16:50 - 19:00 <a href="../Page/TKUスーパーニュース.md" title="wikilink">TKUスーパーニュース</a></p></td>
 <td><ul>
-<li>前番組は、18時台のみ『<a href="https://ja.wikipedia.org/wiki/TKUスーパーニュース" title="wikilink">TKUスーパーニュース FNN（第1期）</a>』 → 2002年4月1日から2013年3月29日までは『<a href="https://ja.wikipedia.org/wiki/TKUスーパーニュースぴゅあピュア" title="wikilink">TKUスーパーニュースぴゅあピュア</a>』（17時台）、『<a href="https://ja.wikipedia.org/wiki/TKUスーパーニュースぴゅあピュア" title="wikilink">FNN TKUスーパーニュースぴゅあピュア</a>』（18時台）。</li>
+<li>前番組は、18時台のみ『<a href="../Page/TKUスーパーニュース.md" title="wikilink">TKUスーパーニュース FNN（第1期）</a>』 → 2002年4月1日から2013年3月29日までは『<a href="../Page/TKUスーパーニュースぴゅあピュア.md" title="wikilink">TKUスーパーニュースぴゅあピュア</a>』（17時台）、『<a href="../Page/TKUスーパーニュースぴゅあピュア.md" title="wikilink">FNN TKUスーパーニュースぴゅあピュア</a>』（18時台）。</li>
 <li>17時台は16:53.05 - 17:05頃を同時ネット、文化芸能部を時差ネットしていたが、2012年度は同時ネットを一時取り止めていた。</li>
 <li>2013年4月1日 - 9月27日は16:30からネットしていた。</li>
 </ul></td>
@@ -1240,9 +1240,9 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/大分県.md" title="wikilink">大分県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビ大分" title="wikilink">テレビ大分</a>（TOS）</p></td>
+<td><p><a href="../Page/テレビ大分.md" title="wikilink">テレビ大分</a>（TOS）</p></td>
 <td><p>16:50 - 17:54 <a href="https://ja.wikipedia.org/wiki/ゆ〜わくワイド" title="wikilink">ゆ〜わくワイド</a><br />
-17:54 - 19:00 <a href="https://ja.wikipedia.org/wiki/TOSスーパーニュース" title="wikilink">FNN TOSスーパーニュース</a></p></td>
+17:54 - 19:00 <a href="../Page/TOSスーパーニュース.md" title="wikilink">FNN TOSスーパーニュース</a></p></td>
 <td><p>×</p></td>
 <td><ul>
 <li>17:53から1分間ローカルコーナー（ローカルのヘッドライン）を放送。</li>
@@ -1250,8 +1250,8 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/宮崎県.md" title="wikilink">宮崎県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビ宮崎" title="wikilink">テレビ宮崎</a>（UMK）</p></td>
-<td><p>16:50 - 19:00 <a href="https://ja.wikipedia.org/wiki/UMKスーパーニュース" title="wikilink">UMKスーパーニュース FNN</a></p></td>
+<td><p><a href="../Page/テレビ宮崎.md" title="wikilink">テレビ宮崎</a>（UMK）</p></td>
+<td><p>16:50 - 19:00 <a href="../Page/UMKスーパーニュース.md" title="wikilink">UMKスーパーニュース FNN</a></p></td>
 <td><p>○</p></td>
 <td><ul>
 <li>1998年3月30日 - 現在</li>
@@ -1259,19 +1259,19 @@
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/鹿児島県" title="wikilink">鹿児島県</a></p></td>
+<td><p><a href="../Page/鹿児島県.md" title="wikilink">鹿児島県</a></p></td>
 <td><p><a href="../Page/鹿児島テレビ放送.md" title="wikilink">鹿児島テレビ</a>（KTS）</p></td>
-<td><p>16:50 - 18:56 <a href="https://ja.wikipedia.org/wiki/KTSスーパーニュース" title="wikilink">KTSスーパーニュース FNN</a></p></td>
+<td><p>16:50 - 18:56 <a href="../Page/KTSスーパーニュース.md" title="wikilink">KTSスーパーニュース FNN</a></p></td>
 <td><ul>
 <li>17時台は2006年4月3日から部分ネット、2007年4月2日からフルネットに移行。</li>
-<li>前番組は18時台のみ『<a href="https://ja.wikipedia.org/wiki/KTSスーパーニュース" title="wikilink">KTSスーパーニュース FNN（第1期）</a>』 → 2006年度のみ『<a href="https://ja.wikipedia.org/wiki/スーパーニュースイマジン" title="wikilink">FNNスーパーニュースイマジン</a>』として放送。</li>
+<li>前番組は18時台のみ『<a href="../Page/KTSスーパーニュース.md" title="wikilink">KTSスーパーニュース FNN（第1期）</a>』 → 2006年度のみ『<a href="../Page/スーパーニュースイマジン.md" title="wikilink">FNNスーパーニュースイマジン</a>』として放送。</li>
 </ul></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/沖縄県.md" title="wikilink">沖縄県</a></p></td>
 <td><p><a href="../Page/沖縄テレビ放送.md" title="wikilink">沖縄テレビ</a>（OTV）</p></td>
-<td><p>16:50 - 19:00 <a href="https://ja.wikipedia.org/wiki/OTVスーパーニュース" title="wikilink">FNN OTVスーパーニュース</a></p></td>
+<td><p>16:50 - 19:00 <a href="../Page/OTVスーパーニュース.md" title="wikilink">FNN OTVスーパーニュース</a></p></td>
 <td><ul>
 <li>17時台は2003年10月1日からネット。毎年<a href="../Page/5月5日.md" title="wikilink">5月5日</a>は<a href="https://ja.wikipedia.org/wiki/那覇ハーリー" title="wikilink">那覇ハーリー</a>中継のため非ネット。</li>
 <li>2013年8月 - 9月は水曜のみ16:30からネットしていた。</li>
@@ -1283,9 +1283,9 @@
 
 ## CSでの放送
 
-  - 2009年3月まではフジテレビ739（現・[フジテレビONE](https://ja.wikipedia.org/wiki/フジテレビONE "wikilink")）で、2012年3月23日まで[フジテレビTWO](https://ja.wikipedia.org/wiki/フジテレビTWO "wikilink")で[時差放送を行っていた](https://ja.wikipedia.org/wiki/遅れネット "wikilink")。
+  - 2009年3月まではフジテレビ739（現・[フジテレビONE](https://ja.wikipedia.org/wiki/フジテレビONE "wikilink")）で、2012年3月23日まで[フジテレビTWO](https://ja.wikipedia.org/wiki/フジテレビTWO "wikilink")で[時差放送を行っていた](../Page/遅れネット.md "wikilink")。
   - 当初は19:00より番組全編を時差放送した。終了時点では19:00より20:03まで、フジテレビでの17:54から19:00までのパートを時差放送。ネット送出・ローカル送出マスターを経由せず、局内のサーバーで収録する。ただし、重大な事件・事故が発生した場合は20時03分からの番組を休止し、放送時間を延長する場合があった。
-  - [プロ野球中継](https://ja.wikipedia.org/wiki/プロ野球中継 "wikilink")（フジテレビONEでヤクルトのホームゲームとフジテレビTWOでFNS各局が放送権を持つ中日・阪神・広島の対巨人戦の中継が同時間帯に重なる場合のみ）やサッカー中継などスポーツ中継の特別編成の場合は休止される（プロ野球中継が雨天中止の場合でもプロ野球関連の番組が放送されるため組まれた日は雨天中止に関係なく休止）。フジテレビ739で放送していた時代は[SWALLOWS BASEBALL L\!VEを放送していた関係で](https://ja.wikipedia.org/wiki/SWALLOWS_BASEBALL_L!VE "wikilink")、特にプロ野球シーズンはほぼ不定期放送に近い傾向にあった。
+  - [プロ野球中継](../Page/プロ野球中継.md "wikilink")（フジテレビONEでヤクルトのホームゲームとフジテレビTWOでFNS各局が放送権を持つ中日・阪神・広島の対巨人戦の中継が同時間帯に重なる場合のみ）やサッカー中継などスポーツ中継の特別編成の場合は休止される（プロ野球中継が雨天中止の場合でもプロ野球関連の番組が放送されるため組まれた日は雨天中止に関係なく休止）。フジテレビ739で放送していた時代は[SWALLOWS BASEBALL L\!VEを放送していた関係で](../Page/SWALLOWS_BASEBALL_L!VE.md "wikilink")、特にプロ野球シーズンはほぼ不定期放送に近い傾向にあった。
   - 権利関係の都合で放送できないコーナー（特にスポーツや芸能関係のニュースなど）がある場合は、昼間のお台場の[レインボーブリッジ](../Page/レインボーブリッジ.md "wikilink")に「**引き続きニュースをお伝えします**」という文字を挿入した風景の静止画像（[かぶせ放送](https://ja.wikipedia.org/wiki/かぶせ放送 "wikilink")）に差し替えられる。音声も原則として放送されない。五輪関連については民放連に加盟している地上波と同一法人で運営を行っているためそのまま放送された。
       - 2010年2月以降は地上から16:9サイズで撮影した昼間のレインボーブリッジの静止画をバックに「**このニュース項目の映像は放送権がないためご視聴いただけません。ご了承下さい**」（音声も無音状態）という表示に変更された。
       - 以前、17時台も放送した時期、文化芸能部の部分を放送した際は権利関係から音声部分のみを放送。現在は音声のみの事例が少なくなった。
@@ -1295,7 +1295,7 @@
 
 ### 特別番組
 
-  - [特別番組](https://ja.wikipedia.org/wiki/特別番組 "wikilink")として、[タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")をメインキャスターに加えて『**[タモリ&安藤優子のSuperスーパーニュースSpecial](https://ja.wikipedia.org/wiki/タモリ&安藤優子のSuperスーパーニュースSpecial "wikilink")**』を2002年12月18日と2004年4月7日の2回放送した。また、年末の日曜夕方にスーパー特報の総集編の特別番組も放送している。
+  - [特別番組](../Page/特別番組.md "wikilink")として、[タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")をメインキャスターに加えて『**[タモリ&安藤優子のSuperスーパーニュースSpecial](../Page/タモリ&安藤優子のSuperスーパーニュースSpecial.md "wikilink")**』を2002年12月18日と2004年4月7日の2回放送した。また、年末の日曜夕方にスーパー特報の総集編の特別番組も放送している。
   - 2007年1月8日には、『**スーパーニュースプレミアム**』と題し、16:30 - 19:00にかけて放送された。これはフジテレビ・富山テレビ・テレビ愛媛のみの放送で、安藤と西山のみ出演した（他の地域では16:55、17:54開始でタイトルは通常通り）。その後も祝日を中心に放送されているが、主にスーパー特報に準じた内容となっている。
 
 ## 脚注
@@ -1308,9 +1308,9 @@
 
   - [FNN](../Page/フジニュースネットワーク.md "wikilink")
   - [FNNニュース](https://ja.wikipedia.org/wiki/FNNニュース "wikilink")
-  - [フジテレビ系列夕方ニュース枠](https://ja.wikipedia.org/wiki/フジテレビ系列夕方ニュース枠 "wikilink")
+  - [フジテレビ系列夕方ニュース枠](../Page/フジテレビ系列夕方ニュース枠.md "wikilink")
   - [FNNスーパーニュースWEEKEND](https://ja.wikipedia.org/wiki/FNNスーパーニュースWEEKEND "wikilink")
-  - [めちゃ×2イケてるッ\!](https://ja.wikipedia.org/wiki/めちゃ×2イケてるッ! "wikilink") - 「MNNメチャ×2ニュース」という、当番組をベースとしたパロディーコント企画が放送された。
+  - [めちゃ×2イケてるッ\!](../Page/めちゃ×2イケてるッ!.md "wikilink") - 「MNNメチャ×2ニュース」という、当番組をベースとしたパロディーコント企画が放送された。
 
 ## 外部リンク
 

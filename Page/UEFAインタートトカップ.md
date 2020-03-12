@@ -11,7 +11,7 @@
 
 ## 大会のシステム
 
-  - [ホーム・アンド・アウェー](https://ja.wikipedia.org/wiki/ホーム・アンド・アウェー "wikilink")の[トーナメント方式](../Page/トーナメント方式.md "wikilink")。
+  - [ホーム・アンド・アウェー](../Page/ホーム・アンド・アウェー.md "wikilink")の[トーナメント方式](../Page/トーナメント方式.md "wikilink")。
 
 ### 1995年-2005年
 
@@ -41,7 +41,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAインタートトカップ_1995" title="wikilink">1995</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCジロンダン・ボルドー" title="wikilink">FCジロンダン・ボルドー</a></p></td>
+<td><p><a href="../Page/FCジロンダン・ボルドー.md" title="wikilink">FCジロンダン・ボルドー</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAインタートトカップ_1996" title="wikilink">1996</a></p></td>
@@ -49,11 +49,11 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAインタートトカップ_1997" title="wikilink">1997</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/AJオセール" title="wikilink">AJオセール</a></p></td>
+<td><p><a href="../Page/AJオセール.md" title="wikilink">AJオセール</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAインタートトカップ_1998" title="wikilink">1998</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヴェルダー・ブレーメン" title="wikilink">ヴェルダー・ブレーメン</a></p></td>
+<td><p><a href="../Page/ヴェルダー・ブレーメン.md" title="wikilink">ヴェルダー・ブレーメン</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAインタートトカップ_1999" title="wikilink">1999</a></p></td>
@@ -65,7 +65,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAインタートトカップ_2001" title="wikilink">2001</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アストン・ヴィラFC" title="wikilink">アストン・ヴィラFC</a></p></td>
+<td><p><a href="../Page/アストン・ヴィラFC.md" title="wikilink">アストン・ヴィラFC</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAインタートトカップ_2002" title="wikilink">2002</a></p></td>
@@ -73,57 +73,57 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAインタートトカップ_2003" title="wikilink">2003</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シャルケ04" title="wikilink">シャルケ04</a></p></td>
+<td><p><a href="../Page/シャルケ04.md" title="wikilink">シャルケ04</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAインタートトカップ_2004" title="wikilink">2004</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/LOSCリール・メトロポール" title="wikilink">LOSCリール・メトロポール</a></p></td>
+<td><p><a href="../Page/LOSCリール・メトロポール.md" title="wikilink">LOSCリール・メトロポール</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAインタートトカップ_2005" title="wikilink">2005</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RCランス" title="wikilink">RCランス</a></p></td>
+<td><p><a href="../Page/RCランス.md" title="wikilink">RCランス</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAインタートトカップ_2006" title="wikilink">2006</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ニューカッスル・ユナイテッドFC" title="wikilink">ニューカッスル・ユナイテッドFC</a></p></td>
+<td><p><a href="../Page/ニューカッスル・ユナイテッドFC.md" title="wikilink">ニューカッスル・ユナイテッドFC</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/AJオセール" title="wikilink">AJオセール</a></p></td>
+<td><p><a href="../Page/AJオセール.md" title="wikilink">AJオセール</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/カイセリスポル" title="wikilink">カイセリスポル</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ヘルタ・ベルリン" title="wikilink">ヘルタ・ベルリン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SVリート" title="wikilink">SVリート</a></p></td>
+<td><p><a href="../Page/SVリート.md" title="wikilink">SVリート</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAインタートトカップ_2007" title="wikilink">2007</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アトレティコ・マドリード" title="wikilink">アトレティコ・マドリード</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/UCサンプドリア" title="wikilink">UCサンプドリア</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ハンブルガーSV" title="wikilink">ハンブルガーSV</a></p></td>
+<td><p><a href="../Page/UCサンプドリア.md" title="wikilink">UCサンプドリア</a></p></td>
+<td><p><a href="../Page/ハンブルガーSV.md" title="wikilink">ハンブルガーSV</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/オールボーBK" title="wikilink">オールボーBK</a></p></td>
+<td><p><a href="../Page/オールボーBK.md" title="wikilink">オールボーBK</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/FCトボル" title="wikilink">FCトボル</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAインタートトカップ_2008" title="wikilink">2008</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デポルティーボ・ラ・コルーニャ" title="wikilink">デポルティーボ・ラ・コルーニャ</a></p></td>
+<td><p><a href="../Page/デポルティーボ・ラ・コルーニャ.md" title="wikilink">デポルティーボ・ラ・コルーニャ</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/スタッド・レンヌ" title="wikilink">スタッド・レンヌ</a></p></td>
+<td><p><a href="../Page/スタッド・レンヌ.md" title="wikilink">スタッド・レンヌ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/SSCナポリ" title="wikilink">SSCナポリ</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/SKシュトゥルム・グラーツ" title="wikilink">SKシュトゥルム・グラーツ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/グラスホッパー・クラブ・チューリッヒ" title="wikilink">グラスホッパー・クラブ・チューリッヒ</a></p></td>
+<td><p><a href="../Page/SKシュトゥルム・グラーツ.md" title="wikilink">SKシュトゥルム・グラーツ</a></p></td>
+<td><p><a href="../Page/グラスホッパー・クラブ・チューリッヒ.md" title="wikilink">グラスホッパー・クラブ・チューリッヒ</a></p></td>
 </tr>
 </tbody>
 </table>
 
 ## 関連項目
 
-  - [UEFAランキング](https://ja.wikipedia.org/wiki/UEFAランキング "wikilink")
+  - [UEFAランキング](../Page/UEFAランキング.md "wikilink")
 
 [Category:現存しないクラブによる国際サッカー大会](https://ja.wikipedia.org/wiki/Category:現存しないクラブによる国際サッカー大会 "wikilink") [Category:UEFAサッカー大会](https://ja.wikipedia.org/wiki/Category:UEFAサッカー大会 "wikilink") [Category:1961年開始のスポーツイベント](https://ja.wikipedia.org/wiki/Category:1961年開始のスポーツイベント "wikilink") [Category:2008年終了のスポーツイベント](https://ja.wikipedia.org/wiki/Category:2008年終了のスポーツイベント "wikilink")

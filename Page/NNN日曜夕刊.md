@@ -1,21 +1,21 @@
 > この記事は[NNN](https://ja.wikipedia.org/wiki/NNN)から翻訳されています。
 
 
-『**NNN日曜夕刊**』（エヌエヌエヌ にちようゆうかん）は、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")（[NNN](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")）で[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[1996年](../Page/1996年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")までにかけて[日曜日](../Page/日曜日.md "wikilink")に放送された夕方の[ニュース](https://ja.wikipedia.org/wiki/報道番組 "wikilink")[番組](../Page/テレビ番組.md "wikilink")。
+『**NNN日曜夕刊**』（エヌエヌエヌ にちようゆうかん）は、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")（[NNN](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")）で[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[1996年](../Page/1996年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")までにかけて[日曜日](../Page/日曜日.md "wikilink")に放送された夕方の[ニュース](../Page/報道番組.md "wikilink")[番組](../Page/テレビ番組.md "wikilink")。
 
 ## 番組概要
 
-[夕刊](https://ja.wikipedia.org/wiki/夕刊 "wikilink")の日曜休刊開始に伴い、『**日曜夕刊**』という10分間のニュース番組として1961年4月2日にスタートした。1965年頃から流動的な日曜夕方編成の影響を受けて枠自体が消滅することも度々あったものの、1974年4月編成からこのタイトルとなり、18:00のスタートに、以後日曜夕方の全国ニュースとして定着した。
+[夕刊](../Page/夕刊.md "wikilink")の日曜休刊開始に伴い、『**日曜夕刊**』という10分間のニュース番組として1961年4月2日にスタートした。1965年頃から流動的な日曜夕方編成の影響を受けて枠自体が消滅することも度々あったものの、1974年4月編成からこのタイトルとなり、18:00のスタートに、以後日曜夕方の全国ニュースとして定着した。
 
 [1966年](../Page/1966年.md "wikilink")4月に[NNNが発足し](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")、タイトルが『**NNN日曜夕刊**』となった。
 
-1996年4月7日から、月曜日から土曜日の『[NNNニュースプラス1](https://ja.wikipedia.org/wiki/NNNニュースプラス1 "wikilink")』のタイトルを合わせ、日曜日は『**NNNニュースプラス1・サンデー**』としてリニューアルされる\[1\]。これを新設するにあたり、同年3月31日の放送をもって終了。この日のエンディングで、芦沢が「長い間親しんでいただきました『日曜夕刊』は、今日が最後となりました」と話したのに続き、鷹西が「来週からは『プラス1・サンデー』としてお目にかかります。では…」と挨拶（ここで二人同時にお辞儀する）し、35年の歴史に幕を閉じた。
+1996年4月7日から、月曜日から土曜日の『[NNNニュースプラス1](../Page/NNNニュースプラス1.md "wikilink")』のタイトルを合わせ、日曜日は『**NNNニュースプラス1・サンデー**』としてリニューアルされる\[1\]。これを新設するにあたり、同年3月31日の放送をもって終了。この日のエンディングで、芦沢が「長い間親しんでいただきました『日曜夕刊』は、今日が最後となりました」と話したのに続き、鷹西が「来週からは『プラス1・サンデー』としてお目にかかります。では…」と挨拶（ここで二人同時にお辞儀する）し、35年の歴史に幕を閉じた。
 
 1974年4月以降、[天気予報](../Page/天気予報.md "wikilink")はこの番組では放送されず、次に放送された『日本テレビ天気予報』なる独立した番組で天気予報が放送されていた。
 
-全国ネット枠の最後には、今週の主な予定を紹介し、BGMには[ジョージ・ウィンストン](https://ja.wikipedia.org/wiki/ジョージ・ウィンストン "wikilink")の"Longing/Love"（あこがれ/愛）が使われていた。その後の全国ネット枠の提供後クレジット部分の最後には、大半の局がその後もニュースを放送することから「**ひき続きニュースをお伝えします**」のテロップが日本テレビ発で表示された。
+全国ネット枠の最後には、今週の主な予定を紹介し、BGMには[ジョージ・ウィンストン](../Page/ジョージ・ウィンストン.md "wikilink")の"Longing/Love"（あこがれ/愛）が使われていた。その後の全国ネット枠の提供後クレジット部分の最後には、大半の局がその後もニュースを放送することから「**ひき続きニュースをお伝えします**」のテロップが日本テレビ発で表示された。
 
-また、フラッシュニュースで使用されたBGMは、現在も放送中の『[NNNニュースサンデー](https://ja.wikipedia.org/wiki/NNNニュースサンデー "wikilink")』内の｢ニュースフラッシュ｣で使用されていた。
+また、フラッシュニュースで使用されたBGMは、現在も放送中の『[NNNニュースサンデー](../Page/NNNニュースサンデー.md "wikilink")』内の｢ニュースフラッシュ｣で使用されていた。
 
 ## 歴代のメインキャスター
 
@@ -36,22 +36,22 @@
 <tr class="even">
 <td><p>1965.04</p></td>
 <td><p>1974.03</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小林完吾" title="wikilink">小林完吾</a><sup>1</sup></p></td>
+<td><p><a href="../Page/小林完吾.md" title="wikilink">小林完吾</a><sup>1</sup></p></td>
 </tr>
 <tr class="odd">
 <td><p>1974.04</p></td>
 <td><p>1988.03</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/本多当一郎" title="wikilink">本多当一郎</a><sup>1・2・3・8</sup></p></td>
+<td><p><a href="../Page/本多当一郎.md" title="wikilink">本多当一郎</a><sup>1・2・3・8</sup></p></td>
 </tr>
 <tr class="even">
 <td><p>1988.04</p></td>
 <td><p>1990.03</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/芦沢俊美" title="wikilink">芦沢俊美</a><sup>2・9</sup></p></td>
+<td><p><a href="../Page/芦沢俊美.md" title="wikilink">芦沢俊美</a><sup>2・9</sup></p></td>
 </tr>
 <tr class="odd">
 <td><p>1990.04</p></td>
 <td><p>1991.03</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/久能靖" title="wikilink">久能靖</a><sup>4</sup></p></td>
+<td><p><a href="../Page/久能靖.md" title="wikilink">久能靖</a><sup>4</sup></p></td>
 </tr>
 <tr class="even">
 <td><p>1991.04</p></td>
@@ -66,14 +66,14 @@
 <tr class="even">
 <td><p>1992.10</p></td>
 <td><p>1996.03</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/鷹西美佳" title="wikilink">鷹西美佳</a><sup>7</sup></p></td>
+<td><p><a href="../Page/鷹西美佳.md" title="wikilink">鷹西美佳</a><sup>7</sup></p></td>
 </tr>
 <tr class="odd">
 <td><p><small></p>
 <ul>
 <li>本番組キャスターは小林以外全員、同時期の<a href="https://ja.wikipedia.org/wiki/日本テレビ系列夕方ニュース枠#平日・土曜日" title="wikilink">土曜夕方ニュース番組を兼務</a>。</li>
-<li><sup>1</sup>　休暇などで不在の時は<a href="https://ja.wikipedia.org/wiki/舛方勝宏" title="wikilink">舛方勝宏</a>が代行した。</li>
-<li><sup>2</sup>　週末の『<a href="https://ja.wikipedia.org/wiki/NNN昼のニュース" title="wikilink">NNN昼のニュース</a>』も兼務。</li>
+<li><sup>1</sup>　休暇などで不在の時は<a href="../Page/舛方勝宏.md" title="wikilink">舛方勝宏</a>が代行した。</li>
+<li><sup>2</sup>　週末の『<a href="../Page/NNN昼のニュース.md" title="wikilink">NNN昼のニュース</a>』も兼務。</li>
 <li><sup>3</sup>　週末の『<a href="https://ja.wikipedia.org/wiki/NNNきょうの出来事" title="wikilink">NNNきょうの出来事</a>』も兼務（詳細は当番組のページを参照）。</li>
 <li><sup>4</sup>　金曜日の『NNNニュースプラス1』も兼務。</li>
 <li><sup>5</sup>　水・木曜日の『NNNニュースプラス1』も兼務。</li>
@@ -117,7 +117,7 @@
 <tr class="odd">
 <td><p><small></p>
 <ul>
-<li><sup>1</sup> 関東ローカルは別番組『<a href="https://ja.wikipedia.org/wiki/NTVニュース" title="wikilink">NTVニュース</a>』として放送していた。</li>
+<li><sup>1</sup> 関東ローカルは別番組『<a href="../Page/NTVニュース.md" title="wikilink">NTVニュース</a>』として放送していた。</li>
 <li><sup>2</sup> 関東ローカルのみ最後の5分間を内包。ほとんどの地域は18:20まで放送、ローカルニュースは別のタイトルで放送した地域が多かった。[2]</li>
 </ul>
 <p></small></p></td>
@@ -130,9 +130,9 @@
 
   - 1961.04 - 1965.03：初代
   - 1965.04 - 1974.03：二代目
-  - 1974.04 - 1982.03：三代目…NNNニュースのテーマ曲（作曲：[黛敏郎](../Page/黛敏郎.md "wikilink")）『[NNN朝のニュース](https://ja.wikipedia.org/wiki/NNN朝のニュース "wikilink")』、『[NNN昼のニュース](https://ja.wikipedia.org/wiki/NNN昼のニュース "wikilink")』、『[NNNきょうの出来事](https://ja.wikipedia.org/wiki/NNNきょうの出来事 "wikilink")』などと同じ曲。
-      - 「[荒野の七人](https://ja.wikipedia.org/wiki/荒野の七人 "wikilink")」のテーマだった地域もある。
-  - 1982.04 - 1991.09：四代目…まず画面中央部が一瞬光ったあと、たくさんのNが放射状に放たれ、タイトル（背景は群青色）。赤いNNNの真ん中のNが残り、立体的に回転し、最後は背景の色が暗い青に変わる。[シンセサイザー](../Page/シンセサイザー.md "wikilink")で当時の『NNN朝のニュース』、『NNN昼のニュース』、『[NNN JUST NEWS](https://ja.wikipedia.org/wiki/NNN_JUST_NEWS "wikilink")』と共通で使用（作曲：[三枝成彰](../Page/三枝成彰.md "wikilink")）
+  - 1974.04 - 1982.03：三代目…NNNニュースのテーマ曲（作曲：[黛敏郎](../Page/黛敏郎.md "wikilink")）『[NNN朝のニュース](../Page/NNN朝のニュース.md "wikilink")』、『[NNN昼のニュース](../Page/NNN昼のニュース.md "wikilink")』、『[NNNきょうの出来事](https://ja.wikipedia.org/wiki/NNNきょうの出来事 "wikilink")』などと同じ曲。
+      - 「[荒野の七人](../Page/荒野の七人.md "wikilink")」のテーマだった地域もある。
+  - 1982.04 - 1991.09：四代目…まず画面中央部が一瞬光ったあと、たくさんのNが放射状に放たれ、タイトル（背景は群青色）。赤いNNNの真ん中のNが残り、立体的に回転し、最後は背景の色が暗い青に変わる。[シンセサイザー](../Page/シンセサイザー.md "wikilink")で当時の『NNN朝のニュース』、『NNN昼のニュース』、『[NNN JUST NEWS](../Page/NNN_JUST_NEWS.md "wikilink")』と共通で使用（作曲：[三枝成彰](../Page/三枝成彰.md "wikilink")）
   - 1991.10 - 1996.03：五代目…作曲者不詳。タイトルロゴは[3DCGを採用](../Page/3次元コンピュータグラフィックス.md "wikilink")。なお、タイトル表示の背景は当時の『NNN昼のニュース』の終了タイトルと同じものだった。
       - [鹿児島讀賣テレビ](../Page/鹿児島讀賣テレビ.md "wikilink")だけテーマソングと『日曜夕刊』のロゴの字体は同じながら独自の3DCGタイトル出し『**KYTニュース 日曜夕刊 NNN**』と出した
 
@@ -153,12 +153,12 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/関東地方" title="wikilink">関東広域圏</a></p></td>
 <td><p><a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日本テレビネットワーク協議会" title="wikilink">日本テレビ系列</a></p></td>
+<td><p><a href="../Page/日本テレビネットワーク協議会.md" title="wikilink">日本テレビ系列</a></p></td>
 <td><p><strong>制作・幹事局</strong></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/札幌テレビ放送" title="wikilink">札幌テレビ</a></p></td>
+<td><p><a href="../Page/札幌テレビ放送.md" title="wikilink">札幌テレビ</a></p></td>
 <td><p>[3]</p></td>
 <td></td>
 </tr>
@@ -187,7 +187,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/山形県" title="wikilink">山形県</a></p></td>
+<td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
 <td><p><a href="../Page/山形放送.md" title="wikilink">山形放送</a></p></td>
 <td><p>[7]</p></td>
 <td></td>
@@ -195,7 +195,7 @@
 <tr class="even">
 <td><p><a href="../Page/福島県.md" title="wikilink">福島県</a></p></td>
 <td><p><a href="../Page/福島テレビ.md" title="wikilink">福島テレビ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フジネットワーク" title="wikilink">フジテレビ系列</a></p></td>
+<td><p><a href="../Page/フジネットワーク.md" title="wikilink">フジテレビ系列</a></p></td>
 <td><p>1966年4月3日から1971年9月26日まで[8][9]</p></td>
 </tr>
 <tr class="odd">
@@ -248,7 +248,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/中京圏" title="wikilink">中京広域圏</a></p></td>
+<td><p><a href="../Page/中京圏.md" title="wikilink">中京広域圏</a></p></td>
 <td><p><a href="../Page/名古屋テレビ放送.md" title="wikilink">名古屋テレビ</a></p></td>
 <td><p>テレビ朝日系列</p></td>
 <td><p>1962年4月1日から1973年3月25日まで[13]</p></td>
@@ -310,7 +310,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/福岡放送.md" title="wikilink">福岡放送</a></p></td>
 <td></td>
 <td></td>
@@ -322,19 +322,19 @@
 <td><p>1969年4月6日から1977年3月27日まで[20][21]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/長崎国際テレビ" title="wikilink">長崎国際テレビ</a></p></td>
+<td><p><a href="../Page/長崎国際テレビ.md" title="wikilink">長崎国際テレビ</a></p></td>
 <td><p>日本テレビ系列</p></td>
 <td><p>開局直後の1991年4月7日から</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/熊本県" title="wikilink">熊本県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/熊本県民テレビ" title="wikilink">熊本県民テレビ</a></p></td>
+<td><p><a href="../Page/熊本県民テレビ.md" title="wikilink">熊本県民テレビ</a></p></td>
 <td><p>開局直後の1982年4月4日から</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/鹿児島県" title="wikilink">鹿児島県</a></p></td>
+<td><p><a href="../Page/鹿児島県.md" title="wikilink">鹿児島県</a></p></td>
 <td><p><a href="../Page/鹿児島テレビ放送.md" title="wikilink">鹿児島テレビ</a></p></td>
 <td><p>フジテレビ系列</p></td>
 <td><p>1982年10月3日から1985年3月31日まで[22][23]</p></td>
@@ -350,20 +350,20 @@
 
 ## 補足
 
-  - 番組末期の全国ネットエンディング（18:18頃）のBGMは、未だに[青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")の『[news every.](https://ja.wikipedia.org/wiki/news_every. "wikilink")』のローカル[提供クレジット](https://ja.wikipedia.org/wiki/提供クレジット "wikilink")（平日、主に月曜日）及びエンディング（土曜日、現在はノンスポンサーのため使用していない）のBGMとして使われている。
-  - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")・[FNN系列でも](../Page/フジニュースネットワーク.md "wikilink")[1965年](../Page/1965年.md "wikilink")ごろから[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")までの間『[（サンケイ→FNN）テレビ日曜夕刊](https://ja.wikipedia.org/wiki/FNNテレビ土曜・日曜夕刊 "wikilink")』が放送されていた。その終了後もFNN加盟の[東海テレビ放送](../Page/東海テレビ放送.md "wikilink")・[富山テレビ放送](../Page/富山テレビ放送.md "wikilink")・[石川テレビ放送](../Page/石川テレビ放送.md "wikilink")が継続して『FNN[中日新聞テレビ日曜夕刊](../Page/中日新聞テレビ日曜夕刊.md "wikilink")』（2019年現在も「[Live News it\!](https://ja.wikipedia.org/wiki/Live_News_it! "wikilink")」日曜週末版の差し替えタイトルとして現存。富山・石川は『北陸中日新聞・日曜夕刊』に改名）という番組を放送しており、新聞や時代によってはタイトルが『テレビ日曜夕刊』『日曜夕刊』という表記となったため、2つの『日曜夕刊』が並存していたことになる。
-  - また、以前は[サンテレビジョン](../Page/サンテレビジョン.md "wikilink")でも日曜18時台に『[SUN-TV日曜夕刊](https://ja.wikipedia.org/wiki/SUN-TV日曜夕刊 "wikilink")』が放映されていたほか、KBS京都でも『日曜夕刊』があり、京阪神でもテレビ面で3つの『日曜夕刊』が存在した。
-  - その他、[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")が『[日曜夕刊\!こちらデスク](../Page/日曜夕刊!こちらデスク.md "wikilink")』を放送していたが、当番組と区別するため、新聞番組表では『日曜夕刊』のクレジットがない所も多く見られた。
+  - 番組末期の全国ネットエンディング（18:18頃）のBGMは、未だに[青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")の『[news every.](https://ja.wikipedia.org/wiki/news_every. "wikilink")』のローカル[提供クレジット](../Page/提供クレジット.md "wikilink")（平日、主に月曜日）及びエンディング（土曜日、現在はノンスポンサーのため使用していない）のBGMとして使われている。
+  - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")・[FNN系列でも](../Page/フジニュースネットワーク.md "wikilink")[1965年](../Page/1965年.md "wikilink")ごろから[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")までの間『[（サンケイ→FNN）テレビ日曜夕刊](../Page/FNNテレビ土曜・日曜夕刊.md "wikilink")』が放送されていた。その終了後もFNN加盟の[東海テレビ放送](../Page/東海テレビ放送.md "wikilink")・[富山テレビ放送](../Page/富山テレビ放送.md "wikilink")・[石川テレビ放送](../Page/石川テレビ放送.md "wikilink")が継続して『FNN[中日新聞テレビ日曜夕刊](../Page/中日新聞テレビ日曜夕刊.md "wikilink")』（2019年現在も「[Live News it\!](https://ja.wikipedia.org/wiki/Live_News_it! "wikilink")」日曜週末版の差し替えタイトルとして現存。富山・石川は『北陸中日新聞・日曜夕刊』に改名）という番組を放送しており、新聞や時代によってはタイトルが『テレビ日曜夕刊』『日曜夕刊』という表記となったため、2つの『日曜夕刊』が並存していたことになる。
+  - また、以前は[サンテレビジョン](../Page/サンテレビジョン.md "wikilink")でも日曜18時台に『[SUN-TV日曜夕刊](../Page/SUN-TV日曜夕刊.md "wikilink")』が放映されていたほか、KBS京都でも『日曜夕刊』があり、京阪神でもテレビ面で3つの『日曜夕刊』が存在した。
+  - その他、[テレビ朝日](../Page/テレビ朝日.md "wikilink")が『[日曜夕刊\!こちらデスク](../Page/日曜夕刊!こちらデスク.md "wikilink")』を放送していたが、当番組と区別するため、新聞番組表では『日曜夕刊』のクレジットがない所も多く見られた。
   - [テレビ長崎](../Page/テレビ長崎.md "wikilink")（KTN）は1977年3月27日を以ってネットを終了。同時に日曜18時台後半の日テレ系番組も打ち切り。なお、1977年4月3日以降の日曜18時台はフジテレビ系アニメ番組枠（時差ネット『[世界名作劇場](../Page/世界名作劇場.md "wikilink")』\[24\] + 同時ネット『[サザエさん](https://ja.wikipedia.org/wiki/サザエさん_\(テレビアニメ\) "wikilink")』）へ切り替えられた。
-  - [KKB開局直後から放送を開始した](../Page/鹿児島放送.md "wikilink")[鹿児島テレビ](../Page/鹿児島テレビ放送.md "wikilink")（KTS）は1985年3月31日を以ってネットを終了（昼と夕方のニュース枠を交換するため。それまでの昼FNN・夕方NNNを、1985年4月1日から昼NNN・夕方FNNに改編）。また、同じく日テレ系列の『[NNN6:30きょうのニュース](https://ja.wikipedia.org/wiki/NNN6:30きょうのニュース "wikilink")』 ・ 『[独占\!\!スポーツ情報](https://ja.wikipedia.org/wiki/独占!!スポーツ情報 "wikilink")』も、時を同じくして1985年3月を以って放送打ち切り。なお、1985年4月7日以降の日曜18時台はフジテレビ系時差ネット枠（後半は『[世界名作劇場](../Page/世界名作劇場.md "wikilink")』\[25\]の固定枠）へ切り替えられた。
+  - [KKB開局直後から放送を開始した](../Page/鹿児島放送.md "wikilink")[鹿児島テレビ](../Page/鹿児島テレビ放送.md "wikilink")（KTS）は1985年3月31日を以ってネットを終了（昼と夕方のニュース枠を交換するため。それまでの昼FNN・夕方NNNを、1985年4月1日から昼NNN・夕方FNNに改編）。また、同じく日テレ系列の『[NNN6:30きょうのニュース](../Page/NNN6:30きょうのニュース.md "wikilink")』 ・ 『[独占\!\!スポーツ情報](../Page/独占!!スポーツ情報.md "wikilink")』も、時を同じくして1985年3月を以って放送打ち切り。なお、1985年4月7日以降の日曜18時台はフジテレビ系時差ネット枠（後半は『[世界名作劇場](../Page/世界名作劇場.md "wikilink")』\[25\]の固定枠）へ切り替えられた。
   - 全国ネット枠のスポンサーはマストバイ局では日本テレビと同じネットスポンサーであったが、非マストバイ局の一部ではローカルスポンサーに差し替えられていた。
 
 ## 脚注・出典
 
 ## 関連項目
 
-  - [THE独占サンデー](https://ja.wikipedia.org/wiki/THE独占サンデー "wikilink")
-  - [真相報道 バンキシャ\!](https://ja.wikipedia.org/wiki/真相報道_バンキシャ! "wikilink")
+  - [THE独占サンデー](../Page/THE独占サンデー.md "wikilink")
+  - [真相報道 バンキシャ\!](../Page/真相報道_バンキシャ!.md "wikilink")
 
 [Category:NNN日曜夕刊](https://ja.wikipedia.org/wiki/Category:NNN日曜夕刊 "wikilink") [Category:NNN番組の歴史](https://ja.wikipedia.org/wiki/Category:NNN番組の歴史 "wikilink")
 
@@ -372,7 +372,7 @@
 3.  開局から1972年3月31日まで、フジテレビ系列にも加盟。但し、当時もニュース番組供給協定はNNN単独加盟。
 4.  腸捻転解消 から1991年9月30日まで、テレビ朝日系列にも加盟。
 5.  開局から1980年3月31日まで、テレビ朝日系列にも加盟。
-6.  開局から1975年9月28日まで、当該時間帯に『[ビッグスポーツ](https://ja.wikipedia.org/wiki/ビッグスポーツ "wikilink")』（17時台）→『[シャープ・スターアクション](https://ja.wikipedia.org/wiki/シャープ・スターアクション "wikilink")』（18時台）をそれぞれ放送。因みに、1975年9月28日まで日曜夕方のニュースは『[朝日新聞テレビ夕刊](https://ja.wikipedia.org/wiki/朝日新聞テレビ夕刊 "wikilink")』をネット。
+6.  開局から1975年9月28日まで、当該時間帯に『[ビッグスポーツ](../Page/ビッグスポーツ.md "wikilink")』（17時台）→『[シャープ・スターアクション](https://ja.wikipedia.org/wiki/シャープ・スターアクション "wikilink")』（18時台）をそれぞれ放送。因みに、1975年9月28日まで日曜夕方のニュースは『[朝日新聞テレビ夕刊](../Page/朝日新聞テレビ夕刊.md "wikilink")』をネット。
 7.  1980年4月1日から1993年3月31日まで、テレビ朝日系列にも加盟。全国ニュースの後、別番組扱いで「山形新聞日曜夕刊」→「YBC日曜夕刊」と題し、県内ニュースを放送（主題曲は同じもの）。
 8.  NNN加盟は1966年4月1日の発足時から1971年5月30日まで。1971年6月1日から1983年9月30日まで、TBS系列にも加盟。
 9.  ネット打ち切りの日付についての出典は、河北新報1971年9月と10月のテレビ欄より(青森県立図書館で閲覧)。同年9月の日曜日FTVテレビ欄に「5:00 日曜夕刊」&｢5:20 笑点｣と記載あり。

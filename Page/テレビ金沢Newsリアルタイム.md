@@ -6,7 +6,7 @@
 ## 概要
 
   - 『[NNN Newsリアルタイム サタデー](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")』の[石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")内向けのニュースで、ローカルニュース用のタイトルとなる。アナウンサーは交代で担当。なお、平日夕方のローカルニュースは『[となりのテレ金ちゃん](https://ja.wikipedia.org/wiki/となりのテレ金ちゃん "wikilink")』（金曜日は『花のテレ金ちゃん』）のニュースで伝えられる。
-  - ニュースタイトルおよびサブ項目は『NNN Newsリアルタイム』と同一デザイン。また、オープニングの[BGMは平日版全国ニュースの](https://ja.wikipedia.org/wiki/バックグラウンドミュージック "wikilink")「リアルFLASH」のものを使用している。
+  - ニュースタイトルおよびサブ項目は『NNN Newsリアルタイム』と同一デザイン。また、オープニングの[BGMは平日版全国ニュースの](../Page/バックグラウンドミュージック.md "wikilink")「リアルFLASH」のものを使用している。
   - 番組開始時より放送時間が18:20～18:30となっていたが、[2009年](../Page/2009年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")より放送時間が30分繰り上げとなった。
   - なお、『テレビ金沢Newsリアルタイム』は[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月27日](../Page/3月27日.md "wikilink")の放送で終了した（『NNN Newsリアルタイム サタデー』が終了するのに伴うため）。
 
@@ -25,7 +25,7 @@
 
 <!-- end list -->
 
-  - 12月29日から1月4日まで『びービーみつばち』が休止。12月29日から1月3日までは『[NNNニュース](https://ja.wikipedia.org/wiki/NNNニュース "wikilink")』が放送された。1月4日は17:50から19:00まで『[Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")』が放送された。内容は以下の通り。
+  - 12月29日から1月4日まで『びービーみつばち』が休止。12月29日から1月3日までは『[NNNニュース](../Page/NNNニュース.md "wikilink")』が放送された。1月4日は17:50から19:00まで『[Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")』が放送された。内容は以下の通り。
   - 17:50～18:16 - 全国ニュース
   - 18:16 - リアル特集
   - 18:36 - エンタメスポーツ

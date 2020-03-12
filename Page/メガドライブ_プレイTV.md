@@ -1,7 +1,7 @@
 > この記事は[ TV](https://ja.wikipedia.org/wiki/_TV)から翻訳されています。
 
 
-『**メガドライブ プレイTV**』は、[セガトイズ](https://ja.wikipedia.org/wiki/セガトイズ "wikilink")から発売されているTV[ゲーム機](../Page/ゲーム機.md "wikilink")。これまでに3バージョンが発売されている。
+『**メガドライブ プレイTV**』は、[セガトイズ](../Page/セガトイズ.md "wikilink")から発売されているTV[ゲーム機](../Page/ゲーム機.md "wikilink")。これまでに3バージョンが発売されている。
 
 ## 概要
 
@@ -24,14 +24,14 @@
       - [Dr.エッグマンのミーンビーンマシーン](https://ja.wikipedia.org/wiki/Dr.エッグマンのミーンビーンマシーン "wikilink") (Dr. Robotnik's Mean Bean Machine) - 『[ぷよぷよ](../Page/ぷよぷよ.md "wikilink")』の北米版で、キャラクターが差し替えられている。
       - [カメレオンキッド](https://ja.wikipedia.org/wiki/カメレオンキッド "wikilink") (Kid Chameleon)
       - [フリッキー](../Page/フリッキー.md "wikilink") (Flicky)
-  - **メガドライブ プレイTV2** （[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")発売、3,980円（税込））
+  - **メガドライブ プレイTV2** （[2005年](../Page/2005年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")発売、3,980円（税込））
       - [ソニック・ザ・ヘッジホッグ2](../Page/ソニック・ザ・ヘッジホッグ2.md "wikilink") (Sonic the Hedgehog 2)
       - [エコー・ザ・ドルフィン](https://ja.wikipedia.org/wiki/エコー・ザ・ドルフィン "wikilink") (Ecco the Dolphin)
-      - [ゲイングランド](https://ja.wikipedia.org/wiki/ゲイングランド "wikilink") (Gain Ground)
+      - [ゲイングランド](../Page/ゲイングランド.md "wikilink") (Gain Ground)
       - [ジ・ウーズ](https://ja.wikipedia.org/wiki/ジ・ウーズ "wikilink") (The Ooze)
-      - [コラムス](https://ja.wikipedia.org/wiki/コラムス "wikilink") (Columns)
+      - [コラムス](../Page/コラムス.md "wikilink") (Columns)
       - [アレックスキッド 天空魔城](https://ja.wikipedia.org/wiki/アレックスキッド_天空魔城 "wikilink") (Alex Kidd in the Enchanted Castle)
-  - **メガドライブ プレイTV3** （[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")発売、3,980円（税込））
+  - **メガドライブ プレイTV3** （[2005年](../Page/2005年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")発売、3,980円（税込））
       - [ストリートファイターII](../Page/ストリートファイターII.md "wikilink")ダッシュプラス (Street Fighter II': Special Champion Edition)
       - [大魔界村](../Page/大魔界村.md "wikilink") (Ghouls 'n Ghosts)
 

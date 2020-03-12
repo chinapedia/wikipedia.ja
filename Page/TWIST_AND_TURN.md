@@ -9,10 +9,10 @@
 
 ## 収録曲
 
-1.  Twist (of love) ([森岡賢](https://ja.wikipedia.org/wiki/森岡賢 "wikilink"))
-2.  Spindle -the **Fluke** remix ([藤井麻輝](https://ja.wikipedia.org/wiki/藤井麻輝 "wikilink"))
+1.  Twist (of love) ([森岡賢](../Page/森岡賢.md "wikilink"))
+2.  Spindle -the **Fluke** remix ([藤井麻輝](../Page/藤井麻輝.md "wikilink"))
 3.  Back Lash -the **[EMF](../Page/EMF_\(バンド\).md "wikilink")** remix (藤井麻輝)
-4.  Jaro '68 -the **[Pop Will Eat Itself](https://ja.wikipedia.org/wiki/ポップ・ウィル・イート・イットセルフ "wikilink")** remix (藤井麻輝)
+4.  Jaro '68 -the **[Pop Will Eat Itself](../Page/ポップ・ウィル・イート・イットセルフ.md "wikilink")** remix (藤井麻輝)
 5.  Believe In A Blue World -the **[Orbital](../Page/オービタル.md "wikilink")** remix (森岡賢)
 6.  Twist of Love -the **[Andrew Barker](../Page/808ステイト.md "wikilink")** remix (森岡賢)
 7.  Faith Is A -the **Adamski** remix (藤井麻輝)

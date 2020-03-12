@@ -1,7 +1,7 @@
 > この記事は[EZ](https://ja.wikipedia.org/wiki/EZ)から翻訳されています。
 
 
-**EZテレビ**は[au](../Page/Au_\(携帯電話\).md "wikilink")（[KDDI](../Page/KDDI.md "wikilink")・[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")）および[ナノ・メディア](https://ja.wikipedia.org/wiki/ナノ・メディア "wikilink")が提供する、[携帯電話](../Page/携帯電話.md "wikilink")端末にて[テレビ](../Page/テレビ.md "wikilink")を視聴するための[EZアプリ（BREW）または](https://ja.wikipedia.org/wiki/BREW "wikilink")、[EZWeb](https://ja.wikipedia.org/wiki/EZWeb "wikilink")のサイト。
+**EZテレビ**は[au](../Page/Au_\(携帯電話\).md "wikilink")（[KDDI](../Page/KDDI.md "wikilink")・[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")）および[ナノ・メディア](../Page/ナノ・メディア.md "wikilink")が提供する、[携帯電話](../Page/携帯電話.md "wikilink")端末にて[テレビ](../Page/テレビ.md "wikilink")を視聴するための[EZアプリ（BREW）または](../Page/BREW.md "wikilink")、[EZWeb](https://ja.wikipedia.org/wiki/EZWeb "wikilink")のサイト。
 
 ## 概要
 
@@ -13,9 +13,9 @@
 
 ## EZテレビ（アナログ）
 
-[地上アナログ放送に対応し](../Page/NTSC.md "wikilink")、日本のほぼ全域で視聴可能。また、[基地局](https://ja.wikipedia.org/wiki/基地局 "wikilink")ごとに割り当てられた位置情報を利用して自動的にチャンネルを設定できる、「オートエリア設定」。番組でかかった曲名をその場で検索し、EZ「[着うた](../Page/着うた.md "wikilink")®」EZ「[着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")®」ダウンロードや、「au Records」でCD/DVD購入も可能な「聴かせて検索」に対応。また、静止画や動画の録画、インターネットによる電子番組表の閲覧といったサービスが利用できる。
+[地上アナログ放送に対応し](../Page/NTSC.md "wikilink")、日本のほぼ全域で視聴可能。また、[基地局](https://ja.wikipedia.org/wiki/基地局 "wikilink")ごとに割り当てられた位置情報を利用して自動的にチャンネルを設定できる、「オートエリア設定」。番組でかかった曲名をその場で検索し、EZ「[着うた](../Page/着うた.md "wikilink")®」EZ「[着うたフル](../Page/着うたフル.md "wikilink")®」ダウンロードや、「au Records」でCD/DVD購入も可能な「聴かせて検索」に対応。また、静止画や動画の録画、インターネットによる電子番組表の閲覧といったサービスが利用できる。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")頃から[地デジの受信できる地域が拡大され](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")、各県の[県庁所在地](https://ja.wikipedia.org/wiki/県庁所在地 "wikilink")および近辺の[市町村](../Page/市町村.md "wikilink")で受信が可能になったことから、同年発売の[W42K](https://ja.wikipedia.org/wiki/W42K "wikilink")を最後に、地上アナログ放送を受信できる機種は発売されなくなった。
+[2006年](../Page/2006年.md "wikilink")頃から[地デジの受信できる地域が拡大され](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")、各県の[県庁所在地](https://ja.wikipedia.org/wiki/県庁所在地 "wikilink")および近辺の[市町村](../Page/市町村.md "wikilink")で受信が可能になったことから、同年発売の[W42K](../Page/W42K.md "wikilink")を最後に、地上アナログ放送を受信できる機種は発売されなくなった。
 
 ### 対応機種
 
@@ -24,11 +24,11 @@
 <!-- end list -->
 
   -
-    [CDMA 1X端末で唯一対応](https://ja.wikipedia.org/wiki/CDMA_1X "wikilink")。
+    [CDMA 1X端末で唯一対応](../Page/CDMA_1X.md "wikilink")。
 
 <!-- end list -->
 
-  - [W32SA](https://ja.wikipedia.org/wiki/W32SA "wikilink")
+  - [W32SA](../Page/W32SA.md "wikilink")
 
 <!-- end list -->
 
@@ -37,7 +37,7 @@
 
 <!-- end list -->
 
-  - [W33SA II](https://ja.wikipedia.org/wiki/W33SA "wikilink")/W33SA
+  - [W33SA II](../Page/W33SA.md "wikilink")/W33SA
 
 <!-- end list -->
 
@@ -46,31 +46,31 @@
 
 <!-- end list -->
 
-  - [W42K](https://ja.wikipedia.org/wiki/W42K "wikilink")
+  - [W42K](../Page/W42K.md "wikilink")
 
 <!-- end list -->
 
   -
-    [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")時点で最後の対応機種である。
+    [2006年](../Page/2006年.md "wikilink")時点で最後の対応機種である。
 
 ## EZテレビ ワンセグ
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")より放送を開始した移動体向け[地上デジタル放送](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")「[ワンセグ](https://ja.wikipedia.org/wiki/ワンセグ "wikilink")」に対応。あえてアプリ化することにより、機種ごとの機能差を少なくすることができるため、鮮明な映像と高音質な音声が楽しめるだけでなく全機種がデータ放送、字幕、録画といったデジタル放送サービスにフル対応している。
+[2006年](../Page/2006年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")より放送を開始した移動体向け[地上デジタル放送](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")「[ワンセグ](../Page/ワンセグ.md "wikilink")」に対応。あえてアプリ化することにより、機種ごとの機能差を少なくすることができるため、鮮明な映像と高音質な音声が楽しめるだけでなく全機種がデータ放送、字幕、録画といったデジタル放送サービスにフル対応している。
 
 また、番組でかかった曲名をその場で検索し、EZ「着うた®」EZ「着うたフル®」ダウンロードや、「au Records」でCD/DVD購入も可能な「聴かせて検索」などの独自機能も搭載。しかし、起動に少々時間を要することや、データ放送の受信にパケット通信を要するなどのデメリットも抱える。
 
 ### 対応機種
 
-  - [W33SA II](https://ja.wikipedia.org/wiki/W33SA "wikilink")/W33SA
+  - [W33SA II](../Page/W33SA.md "wikilink")/W33SA
 
 <!-- end list -->
 
   -
-    *世界初のワンセグ対応*携帯。ただし[画面比](../Page/アスペクト比.md "wikilink")（横：縦の比）は4：3のため、全画面表示すると左右が欠ける（[額縁放送](https://ja.wikipedia.org/wiki/額縁放送 "wikilink")には有効）。視聴可能時間は2時間45分。
+    *世界初のワンセグ対応*携帯。ただし[画面比](../Page/アスペクト比.md "wikilink")（横：縦の比）は4：3のため、全画面表示すると左右が欠ける（[額縁放送](../Page/額縁放送.md "wikilink")には有効）。視聴可能時間は2時間45分。
 
 <!-- end list -->
 
-  - [W41H](https://ja.wikipedia.org/wiki/W41H "wikilink")
+  - [W41H](../Page/W41H.md "wikilink")
 
 <!-- end list -->
 
@@ -79,7 +79,7 @@
 
 <!-- end list -->
 
-  - [W43H II](https://ja.wikipedia.org/wiki/W43H "wikilink")/W43H
+  - [W43H II](../Page/W43H.md "wikilink")/W43H
 
 <!-- end list -->
 
@@ -88,7 +88,7 @@
 
 <!-- end list -->
 
-  - [W43SA](https://ja.wikipedia.org/wiki/W43SA "wikilink")
+  - [W43SA](../Page/W43SA.md "wikilink")
 
 <!-- end list -->
 
@@ -97,7 +97,7 @@
 
 <!-- end list -->
 
-  - [W44S](https://ja.wikipedia.org/wiki/W44S "wikilink")
+  - [W44S](../Page/W44S.md "wikilink")
 
 <!-- end list -->
 

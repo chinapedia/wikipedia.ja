@@ -5,7 +5,7 @@
 
 ## 概要
 
-2002年の[サマーソニック](https://ja.wikipedia.org/wiki/サマーソニック "wikilink")で復活した[SOFT BALLETは](../Page/SOFT_BALLET.md "wikilink")『SYMBIONT』のリリース後、精力的に活動し、「BRIGHT MY WAY」と「SMASHING THE SUN」の2枚のシングルに続いて本作をリリースし、最後のツアー〈大団宴〉へ臨んだ。なお、このアルバムはCDエクストラ（[エンハンスドCD](https://ja.wikipedia.org/wiki/エンハンスドCD "wikilink")）仕様となっており、「SMASHING THE SUN」のPVが収録されている。
+2002年の[サマーソニック](../Page/サマーソニック.md "wikilink")で復活した[SOFT BALLETは](../Page/SOFT_BALLET.md "wikilink")『SYMBIONT』のリリース後、精力的に活動し、「BRIGHT MY WAY」と「SMASHING THE SUN」の2枚のシングルに続いて本作をリリースし、最後のツアー〈大団宴〉へ臨んだ。なお、このアルバムはCDエクストラ（[エンハンスドCD](https://ja.wikipedia.org/wiki/エンハンスドCD "wikilink")）仕様となっており、「SMASHING THE SUN」のPVが収録されている。
 
 初回盤は渋谷AX（2002年秋）と赤坂BLITZ（2003年春）でのライヴ映像を収録した特典DVDが付属する。
 

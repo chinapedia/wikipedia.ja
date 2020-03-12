@@ -9,7 +9,7 @@
 
 ## 収録曲
 
-1.  YOU ([遠藤遼一](../Page/遠藤遼一.md "wikilink") / [森岡賢](https://ja.wikipedia.org/wiki/森岡賢 "wikilink") / [藤井麻輝](https://ja.wikipedia.org/wiki/藤井麻輝 "wikilink"))
+1.  YOU ([遠藤遼一](../Page/遠藤遼一.md "wikilink") / [森岡賢](../Page/森岡賢.md "wikilink") / [藤井麻輝](../Page/藤井麻輝.md "wikilink"))
 2.  PHOENIX (遠藤遼一 / 森岡賢, 藤井麻輝 / 藤井麻輝, 森岡賢)
 3.  PERFECTION (遠藤遼一 / 森岡賢 / 森岡賢, 藤井麻輝)
 4.  RIDE (遠藤遼一, 藤井麻輝 / 森岡賢, 藤井麻輝, 遠藤遼一 / 藤井麻輝, 森岡賢)

@@ -1,7 +1,7 @@
 > この記事は[8!TOKIO!!](https://ja.wikipedia.org/wiki/8!TOKIO!!)から翻訳されています。
 
 
-『**男女8人恋愛ツアー\!TOKIOのな・り・ゆ・き\!\!**』（だんじょはちにんれんあいツアー トキオのなりゆき）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月13日](https://ja.wikipedia.org/wiki/10月13日 "wikilink")から[1999年](../Page/1999年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")まで[フジテレビ系列で放送された](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[恋愛バラエティ番組](https://ja.wikipedia.org/wiki/恋愛バラエティ番組 "wikilink")。スタートから1999年3月までは毎週火曜日23:00 - 23:20だったが、同年4月から終了までは毎週木曜日23:00 - 23:20に放送されていた。
+『**男女8人恋愛ツアー\!TOKIOのな・り・ゆ・き\!\!**』（だんじょはちにんれんあいツアー トキオのなりゆき）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月13日](../Page/10月13日.md "wikilink")から[1999年](../Page/1999年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")まで[フジテレビ系列で放送された](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[恋愛バラエティ番組](../Page/恋愛バラエティ番組.md "wikilink")。スタートから1999年3月までは毎週火曜日23:00 - 23:20だったが、同年4月から終了までは毎週木曜日23:00 - 23:20に放送されていた。
 
 この番組の発展形が1999年10月11日から放送開始となった『**[あいのり](../Page/あいのり.md "wikilink")**』。『あいのり』と異なる点は現在のツアーが終わったら次のツアーではメンバー総入れ替えになる点、移動は徒歩や公共交通機関を使用していた点など。
 
@@ -22,7 +22,7 @@
 ## スタッフ
 
   - プロデューサー・演出：[西山仁紫](../Page/西山仁紫.md "wikilink")
-  - 技術協力：[八峯テレビ](https://ja.wikipedia.org/wiki/八峯テレビ "wikilink")
+  - 技術協力：[八峯テレビ](../Page/八峯テレビ.md "wikilink")
 
 ## テーマソング
 

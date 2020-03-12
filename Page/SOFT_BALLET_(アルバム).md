@@ -5,9 +5,9 @@
 
 ## 概要
 
-[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")7月に解散したSOFT BALLETはベストアルバムをリリースした。[森岡賢](https://ja.wikipedia.org/wiki/森岡賢 "wikilink")作品だけを収録したDisc YELLOWと[藤井麻輝](https://ja.wikipedia.org/wiki/藤井麻輝 "wikilink")作品だけを収録したDisc BLUEとの2枚組。したがって[遠藤遼一](../Page/遠藤遼一.md "wikilink")作品や2名以上による共作曲は収録されていない。
+[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")7月に解散したSOFT BALLETはベストアルバムをリリースした。[森岡賢](../Page/森岡賢.md "wikilink")作品だけを収録したDisc YELLOWと[藤井麻輝](../Page/藤井麻輝.md "wikilink")作品だけを収録したDisc BLUEとの2枚組。したがって[遠藤遼一](../Page/遠藤遼一.md "wikilink")作品や2名以上による共作曲は収録されていない。
 
-[1989年](../Page/1989年.md "wikilink")から[1991年](../Page/1991年.md "wikilink")の、[アルファレコード](https://ja.wikipedia.org/wiki/アルファレコード "wikilink")時代の楽曲は全て新たに録音されたもの。
+[1989年](../Page/1989年.md "wikilink")から[1991年](../Page/1991年.md "wikilink")の、[アルファレコード](../Page/アルファレコード.md "wikilink")時代の楽曲は全て新たに録音されたもの。
 
 [1992年](../Page/1992年.md "wikilink")から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")の、[XEOレーベル時代の楽曲は](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")、Disc YELLOW収録曲ではオリジナル版が収録されているが、Disc BLUEでは「GENE SETS」を除きリミックスが施されている。
 

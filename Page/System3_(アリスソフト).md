@@ -1,11 +1,11 @@
 > この記事は[System3 \(\)](https://ja.wikipedia.org/wiki/System3_\(\))から翻訳されています。
 
 
-**System3**は[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")を手がける[アリスソフト](../Page/アリスソフト.md "wikilink")が製作した[ゲームエンジン](https://ja.wikipedia.org/wiki/ゲームエンジン "wikilink")である。
+**System3**は[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")を手がける[アリスソフト](../Page/アリスソフト.md "wikilink")が製作した[ゲームエンジン](../Page/ゲームエンジン.md "wikilink")である。
 
 ## 概要
 
-[MS-DOS](../Page/MS-DOS.md "wikilink")や[Windows 3.1用に作られたSystem](../Page/Microsoft_Windows_3.x.md "wikilink")3と、[Windows95以降で動くSystem](../Page/Microsoft_Windows_95.md "wikilink")3.5以降のバージョンに大別され、それらの間には[互換性](https://ja.wikipedia.org/wiki/互換性 "wikilink")がない。現在では、System3.xと表記されたとき特に断りがなければSystem3.5以降のバージョンを指していることがほとんどである。
+[MS-DOS](../Page/MS-DOS.md "wikilink")や[Windows 3.1用に作られたSystem](../Page/Microsoft_Windows_3.x.md "wikilink")3と、[Windows95以降で動くSystem](../Page/Microsoft_Windows_95.md "wikilink")3.5以降のバージョンに大別され、それらの間には[互換性](../Page/互換性.md "wikilink")がない。現在では、System3.xと表記されたとき特に断りがなければSystem3.5以降のバージョンを指していることがほとんどである。
 
 ## System3.5
 

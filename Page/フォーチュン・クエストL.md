@@ -1,13 +1,13 @@
 > この記事は[L](https://ja.wikipedia.org/wiki/L)から翻訳されています。
 
 
-『**フォーチュン・クエストL**』（フォーチュン・クエスト エル\[1\]） は、[深沢美潮](https://ja.wikipedia.org/wiki/深沢美潮 "wikilink")の小説『[フォーチュン・クエスト](../Page/フォーチュン・クエスト.md "wikilink")』シリーズを原作とした[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。
+『**フォーチュン・クエストL**』（フォーチュン・クエスト エル\[1\]） は、[深沢美潮](../Page/深沢美潮.md "wikilink")の小説『[フォーチュン・クエスト](../Page/フォーチュン・クエスト.md "wikilink")』シリーズを原作とした[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。
 
 ## 概要
 
 1997年10月18日から[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink") (MBS) で、1998年6月2日から[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")で放送された。他にも[東北放送](../Page/東北放送.md "wikilink") (TBC) や[テレビユー福島](../Page/テレビユー福島.md "wikilink") (TUF) でも放送された。全26話。
 
-MBSとしては、[1989年](../Page/1989年.md "wikilink")に放送された『[小松左京アニメ劇場](../Page/小松左京アニメ劇場.md "wikilink")』に次ぐ[深夜アニメ](../Page/深夜アニメ.md "wikilink")である。2018年現在も続いているMBSの深夜アニメ枠『[アニメシャワー](https://ja.wikipedia.org/wiki/アニメシャワー "wikilink")』（放送当時の名称は「あにめシャワ〜」）で放送された最初の作品の一つでもある（もう1作は『[銀河漂流バイファム](../Page/銀河漂流バイファム.md "wikilink")』の[再放送](https://ja.wikipedia.org/wiki/再放送 "wikilink")）。
+MBSとしては、[1989年](../Page/1989年.md "wikilink")に放送された『[小松左京アニメ劇場](../Page/小松左京アニメ劇場.md "wikilink")』に次ぐ[深夜アニメ](../Page/深夜アニメ.md "wikilink")である。2018年現在も続いているMBSの深夜アニメ枠『[アニメシャワー](https://ja.wikipedia.org/wiki/アニメシャワー "wikilink")』（放送当時の名称は「あにめシャワ〜」）で放送された最初の作品の一つでもある（もう1作は『[銀河漂流バイファム](../Page/銀河漂流バイファム.md "wikilink")』の[再放送](../Page/再放送.md "wikilink")）。
 
 ストーリーは、1話から5話が『新フォーチュン・クエスト』1巻（以下「新1巻」等と表記）、6話から11話が新2巻、12話から14話が新3巻、17話から18話が新L1巻を原作としている。15話・16話、19話から26話は完全オリジナルである。
 
@@ -24,34 +24,34 @@ MBSとしては、[1989年](../Page/1989年.md "wikilink")に放送された『[
 
 ### 主要キャラクター
 
-  - パステル：[中川亜紀子](https://ja.wikipedia.org/wiki/中川亜紀子 "wikilink")
-  - クレイ：[森川智之](https://ja.wikipedia.org/wiki/森川智之 "wikilink")
+  - パステル：[中川亜紀子](../Page/中川亜紀子.md "wikilink")
+  - クレイ：[森川智之](../Page/森川智之.md "wikilink")
   - トラップ：[岩永哲哉](../Page/岩永哲哉.md "wikilink")
-  - ルーミィ：[柊美冬](https://ja.wikipedia.org/wiki/石村知子 "wikilink")
+  - ルーミィ：[柊美冬](../Page/石村知子.md "wikilink")
   - シロ：[笠井律子](https://ja.wikipedia.org/wiki/笠井律子 "wikilink")
-  - ノル：[大西健晴](https://ja.wikipedia.org/wiki/大西健晴 "wikilink")
-  - キットン：[高戸靖広](https://ja.wikipedia.org/wiki/高戸靖広 "wikilink")
-  - ギア・リンゼイ：[真殿光昭](https://ja.wikipedia.org/wiki/真殿光昭 "wikilink")
+  - ノル：[大西健晴](../Page/大西健晴.md "wikilink")
+  - キットン：[高戸靖広](../Page/高戸靖広.md "wikilink")
+  - ギア・リンゼイ：[真殿光昭](../Page/真殿光昭.md "wikilink")
   - マリーナ：[根谷美智子](../Page/根谷美智子.md "wikilink")
-  - アンドラス：[鈴木勝美](https://ja.wikipedia.org/wiki/鈴木勝美 "wikilink")
+  - アンドラス：[鈴木勝美](../Page/鈴木勝美.md "wikilink")
 
 ### 原作小説に登場するキャラクター
 
-  - ステア・ブーツ：[山野史人](https://ja.wikipedia.org/wiki/山野史人 "wikilink")
+  - ステア・ブーツ：[山野史人](../Page/山野史人.md "wikilink")
   - トラップの父：[平尾仁](https://ja.wikipedia.org/wiki/平尾仁 "wikilink")彰
-  - トラップの母：[麻見順子](https://ja.wikipedia.org/wiki/麻見順子 "wikilink")
+  - トラップの母：[麻見順子](../Page/麻見順子.md "wikilink")
   - アンダーソン：[堀部隆一](../Page/堀部隆一.md "wikilink")
   - クレイの母：[辻桃子](https://ja.wikipedia.org/wiki/奥以桃子 "wikilink")
-  - エイブス：[平野正人](https://ja.wikipedia.org/wiki/平野正人 "wikilink")
-  - エイブスの部下：[井上隆之](../Page/井上隆之.md "wikilink")、[風間信彦](../Page/風間信彦.md "wikilink")、[志賀克也](https://ja.wikipedia.org/wiki/志賀克也 "wikilink") - 部下の数は原作よりも少なく設定されている。
+  - エイブス：[平野正人](../Page/平野正人.md "wikilink")
+  - エイブスの部下：[井上隆之](../Page/井上隆之.md "wikilink")、[風間信彦](../Page/風間信彦.md "wikilink")、[志賀克也](../Page/志賀克也.md "wikilink") - 部下の数は原作よりも少なく設定されている。
   - カピオカ：志賀克也
-  - シロの母：[さとうあい](https://ja.wikipedia.org/wiki/さとうあい "wikilink")
-  - ルタ：[伊藤舞子](https://ja.wikipedia.org/wiki/伊藤舞子 "wikilink") - 原作小説の新1-3、L1巻には登場しない。登場は無印1巻。
+  - シロの母：[さとうあい](../Page/さとうあい.md "wikilink")
+  - ルタ：[伊藤舞子](../Page/伊藤舞子.md "wikilink") - 原作小説の新1-3、L1巻には登場しない。登場は無印1巻。
   - ゼン婆さん：[後藤真寿美](../Page/後藤真寿美.md "wikilink")
-  - スワンソン：[中田和宏](https://ja.wikipedia.org/wiki/中田和宏 "wikilink")
-  - ヒル・ウォーカー：[松本大](https://ja.wikipedia.org/wiki/松本大_\(声優\) "wikilink")
+  - スワンソン：[中田和宏](../Page/中田和宏.md "wikilink")
+  - ヒル・ウォーカー：[松本大](../Page/松本大_\(声優\).md "wikilink")
   - ルイザ：[深水由美](../Page/深水由美.md "wikilink")
-  - リロイ：[石井康嗣](https://ja.wikipedia.org/wiki/石井康嗣 "wikilink")
+  - リロイ：[石井康嗣](../Page/石井康嗣.md "wikilink")
   - マックス：[國府田マリ子](../Page/國府田マリ子.md "wikilink")
   - ウォーレス：[長島雄一](../Page/チョー_\(俳優\).md "wikilink")
 
@@ -62,44 +62,44 @@ MBSとしては、[1989年](../Page/1989年.md "wikilink")に放送された『[
 ここでは主要なキャラクターのみ記述する。
 
   - ジュリア：[中山真奈美](../Page/中山さら.md "wikilink")
-  - ウッドワード：[牛山茂](https://ja.wikipedia.org/wiki/牛山茂 "wikilink")
-  - グレアム：[山下啓介](https://ja.wikipedia.org/wiki/山下啓介 "wikilink")
-  - プルル：[丹下桜](https://ja.wikipedia.org/wiki/丹下桜 "wikilink")
+  - ウッドワード：[牛山茂](../Page/牛山茂.md "wikilink")
+  - グレアム：[山下啓介](../Page/山下啓介.md "wikilink")
+  - プルル：[丹下桜](../Page/丹下桜.md "wikilink")
   - 仙女：[鷹森淑乃](../Page/鷹森淑乃.md "wikilink")
   - 兵士：風間信彦、[小池浩司](../Page/小池浩司.md "wikilink")
-  - ヘボン：[広瀬正志](https://ja.wikipedia.org/wiki/広瀬正志 "wikilink")
+  - ヘボン：[広瀬正志](../Page/広瀬正志.md "wikilink")
   - アリシア：[雪乃五月](https://ja.wikipedia.org/wiki/雪野五月 "wikilink")
-  - マリア：[池本小百合](https://ja.wikipedia.org/wiki/池本小百合 "wikilink")
-  - ソフィア：[日野由利加](https://ja.wikipedia.org/wiki/日野由利加 "wikilink") - スタッフロールのキャスト表示では「日野由利香」となっている。
+  - マリア：[池本小百合](../Page/池本小百合.md "wikilink")
+  - ソフィア：[日野由利加](../Page/日野由利加.md "wikilink") - スタッフロールのキャスト表示では「日野由利香」となっている。
   - デイジー：[南央美](../Page/南央美.md "wikilink")
   - グロリア：深水由美
   - パメラ：[浅川悠](../Page/浅川悠.md "wikilink") - スタッフロールのキャスト表示では「淺野悠」となっている。
-  - リン：[津野田なるみ](https://ja.wikipedia.org/wiki/津野田なるみ "wikilink")
+  - リン：[津野田なるみ](../Page/津野田なるみ.md "wikilink")
   - キャシー：[鈴木砂織](https://ja.wikipedia.org/wiki/鈴木砂織 "wikilink")
-  - アンリ：[稲葉実](https://ja.wikipedia.org/wiki/稲葉実 "wikilink")
-  - ビリー：[岡野浩介](https://ja.wikipedia.org/wiki/岡野浩介 "wikilink") - スタッフロールのキャスト表示では「岡部浩介」となっている。
+  - アンリ：[稲葉実](../Page/稲葉実.md "wikilink")
+  - ビリー：[岡野浩介](../Page/岡野浩介.md "wikilink") - スタッフロールのキャスト表示では「岡部浩介」となっている。
   - ローズバッド：[益富隆一](https://ja.wikipedia.org/wiki/益富隆一 "wikilink") - スタッフロールのキャスト表示による。
   - リンダ：さとうあい
-  - ダマカス：[茶風林](https://ja.wikipedia.org/wiki/茶風林 "wikilink")
-  - ユリアーノ：[林延年](https://ja.wikipedia.org/wiki/神奈延年 "wikilink")
+  - ダマカス：[茶風林](../Page/茶風林.md "wikilink")
+  - ユリアーノ：[林延年](../Page/神奈延年.md "wikilink")
 
 上記のように、スタッフロールでのキャスト表示は誤記が多い。「益富隆一」も該当する声優・俳優が存在しないことから誤記の可能性がある。
 
 ## スタッフ
 
   - 企画 - 榎善教
-  - 総監督 - [渡部高志](https://ja.wikipedia.org/wiki/渡部高志 "wikilink")
+  - 総監督 - [渡部高志](../Page/渡部高志.md "wikilink")
   - 監督 - [佐藤英一](https://ja.wikipedia.org/wiki/佐藤英一 "wikilink")
   - シリーズ構成 - [影山由美](../Page/影山由美.md "wikilink")
   - キャラクターデザイナー - [宮田奈保美](https://ja.wikipedia.org/wiki/宮田奈保美 "wikilink")
   - 美術監督 - 中原英統
   - 色彩設定 - 金野広幸
-  - 音響監督 - [藤野貞義](https://ja.wikipedia.org/wiki/藤野貞義 "wikilink")
+  - 音響監督 - [藤野貞義](../Page/藤野貞義.md "wikilink")
   - 撮影監督 - 神山茂男
   - OPアニメーション - 加藤洋人
   - EDアニメーション - 則座誠、宮田奈保美
   - 音楽プロデューサー - 富岡国介
-  - プロデューサー - [丸谷嘉彦](https://ja.wikipedia.org/wiki/丸谷嘉彦 "wikilink")、竹田洋樹
+  - プロデューサー - [丸谷嘉彦](../Page/丸谷嘉彦.md "wikilink")、竹田洋樹
   - アニメーションプロデューサー - 萩原攷司、岡田修一
   - アニメーション制作 - [イージーフイルム](https://ja.wikipedia.org/wiki/イージーフイルム "wikilink")
   - 製作 - フォーチュン・クエストL製作委員会
@@ -141,7 +141,7 @@ MBSとしては、[1989年](../Page/1989年.md "wikilink")に放送された『[
 <tr class="even">
 <td><p>2</p></td>
 <td><p>盗まれたトラップ?</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/松井亜弥" title="wikilink">松井亜弥</a></p></td>
+<td><p><a href="../Page/松井亜弥.md" title="wikilink">松井亜弥</a></p></td>
 <td><p>渡辺純央</p></td>
 <td><p>松下純子</p></td>
 <td><p>10月25日</p></td>
@@ -151,7 +151,7 @@ MBSとしては、[1989年](../Page/1989年.md "wikilink")に放送された『[
 <td><p>3</p></td>
 <td><p>テラソン山のミステリー!?</p></td>
 <td><p>堀井明子</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/水島精二" title="wikilink">水島精二</a></p></td>
+<td><p><a href="../Page/水島精二.md" title="wikilink">水島精二</a></p></td>
 <td><p>石崎すすむ</p></td>
 <td><p><a href="../Page/岡迫亘弘.md" title="wikilink">岡迫亘弘</a></p></td>
 <td><p>11月8日</p></td>
@@ -159,7 +159,7 @@ MBSとしては、[1989年](../Page/1989年.md "wikilink")に放送された『[
 <tr class="even">
 <td><p>4</p></td>
 <td><p>白い竜の祭壇</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/吉田玲子" title="wikilink">吉田玲子</a></p></td>
+<td><p><a href="../Page/吉田玲子.md" title="wikilink">吉田玲子</a></p></td>
 <td><p><a href="../Page/奥田誠治_(アニメーション演出家).md" title="wikilink">奥田誠治</a></p></td>
 <td><p>則座誠</p></td>
 <td><p>浜田勝</p></td>
@@ -186,7 +186,7 @@ MBSとしては、[1989年](../Page/1989年.md "wikilink")に放送された『[
 <tr class="odd">
 <td><p>7</p></td>
 <td><p>ストロベリーハウスの用心棒</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/成田良美" title="wikilink">成田良美</a></p></td>
+<td><p><a href="../Page/成田良美.md" title="wikilink">成田良美</a></p></td>
 <td><p>奥田誠治</p></td>
 <td><p>栗山美秀</p></td>
 <td><p>高鉾誠</p></td>
@@ -196,7 +196,7 @@ MBSとしては、[1989年](../Page/1989年.md "wikilink")に放送された『[
 <td><p>8</p></td>
 <td><p>森が呼んでいる?</p></td>
 <td><p>影山由美</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/石山タカ明" title="wikilink">石山タカ明</a></p></td>
+<td><p><a href="../Page/石山タカ明.md" title="wikilink">石山タカ明</a></p></td>
 <td><p>津田義三</p></td>
 <td><p>浜田勝</p></td>
 <td><p>12月13日</p></td>
@@ -271,7 +271,7 @@ MBSとしては、[1989年](../Page/1989年.md "wikilink")に放送された『[
 <tr class="even">
 <td><p>16</p></td>
 <td><p>はばたく心</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/渡部高志" title="wikilink">渡部高志</a></p></td>
+<td><p><a href="../Page/渡部高志.md" title="wikilink">渡部高志</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/宮田奈保美" title="wikilink">宮田奈保美</a></p></td>
 <td><p>2月28日</p></td>
 <td></td>
@@ -346,7 +346,7 @@ MBSとしては、[1989年](../Page/1989年.md "wikilink")に放送された『[
 <td><p>24</p></td>
 <td><p>そんな関係</p></td>
 <td><p>吉田玲子</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/岩崎良明" title="wikilink">岩崎良明</a></p></td>
+<td><p><a href="../Page/岩崎良明.md" title="wikilink">岩崎良明</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/日下部光雄" title="wikilink">日下部光雄</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/島袋美由紀" title="wikilink">島袋美由紀</a></p></td>
 <td><p>5月9日</p></td>
@@ -379,7 +379,7 @@ MBSとしては、[1989年](../Page/1989年.md "wikilink")に放送された『[
   - [東北放送](../Page/東北放送.md "wikilink") (TBC) - 主題歌を歌っていた[sus4](https://ja.wikipedia.org/wiki/sus4 "wikilink")のメンバー・[根本美緒](https://ja.wikipedia.org/wiki/根本美緒 "wikilink")は2001年から3年間TBCにアナウンサーとして在籍していた。
   - [テレビユー福島](../Page/テレビユー福島.md "wikilink") (TUF) - 上記3局は深夜に放送されたのに対して、TUFは早朝での放送であった。
 
-[関東地方](https://ja.wikipedia.org/wiki/関東地方 "wikilink")ではテレビ東京にて放送されたため、製作局・多数の[地上波](../Page/地上波.md "wikilink")ネットが[TBS](../Page/TBSテレビ.md "wikilink")[系列ではあるものの](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")、[テレビ東京系アニメ](../Page/テレビ東京系アニメ.md "wikilink")として扱われることがある特殊なケースである。TBSでMBS製作深夜アニメが放送されることは『[コードギアス 反逆のルルーシュ](../Page/コードギアス_反逆のルルーシュ.md "wikilink")（第1期）』（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")）まで約10年間なかった（その間関東地方では[独立UHF局が放送していた](../Page/全国独立放送協議会.md "wikilink")）。その後、2012年7月期に放送された『[貧乏神が\!](../Page/貧乏神が!.md "wikilink")』はテレビ東京製作委員会参加・MBSネットと言う組み合わせとなった。
+[関東地方](https://ja.wikipedia.org/wiki/関東地方 "wikilink")ではテレビ東京にて放送されたため、製作局・多数の[地上波](../Page/地上波.md "wikilink")ネットが[TBS](../Page/TBSテレビ.md "wikilink")[系列ではあるものの](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")、[テレビ東京系アニメ](../Page/テレビ東京系アニメ.md "wikilink")として扱われることがある特殊なケースである。TBSでMBS製作深夜アニメが放送されることは『[コードギアス 反逆のルルーシュ](../Page/コードギアス_反逆のルルーシュ.md "wikilink")（第1期）』（[2006年](../Page/2006年.md "wikilink")）まで約10年間なかった（その間関東地方では[独立UHF局が放送していた](../Page/全国独立放送協議会.md "wikilink")）。その後、2012年7月期に放送された『[貧乏神が\!](../Page/貧乏神が!.md "wikilink")』はテレビ東京製作委員会参加・MBSネットと言う組み合わせとなった。
 
 なお、テレビ東京での放送では、当時同局など[TXN](https://ja.wikipedia.org/wiki/TXN "wikilink")や同時ネット局の各番組で放送されていた「ウェザーブレイク」が当番組にも付いていた。
 

@@ -13,13 +13,13 @@
 
 6.「INFANTILE VICE」
 
-  - [チチ松村](https://ja.wikipedia.org/wiki/チチ松村 "wikilink")（[ゴンチチ](../Page/ゴンチチ.md "wikilink")）　―　六弦アコースティックスティールギター
+  - [チチ松村](../Page/チチ松村.md "wikilink")（[ゴンチチ](../Page/ゴンチチ.md "wikilink")）　―　六弦アコースティックスティールギター
   - [ゴンザレス三上](https://ja.wikipedia.org/wiki/ゴンザレス三上 "wikilink")（[ゴンチチ](../Page/ゴンチチ.md "wikilink")）―　十二弦ギター
 
 9.「PILED HIGHER DEEPER」
 
-  - CRA￥（現TAKESHI UEDA）（ [THE MAD CAPSULE MARKETS](https://ja.wikipedia.org/wiki/THE_MAD_CAPSULE_MARKETS "wikilink") ※当時)　―　ベース
-  - ISHIG∀KI（石垣愛）（ [THE MAD CAPSULE MARKETS](https://ja.wikipedia.org/wiki/THE_MAD_CAPSULE_MARKETS "wikilink") ※当時)　―　ギター
+  - CRA￥（現TAKESHI UEDA）（ [THE MAD CAPSULE MARKETS](../Page/THE_MAD_CAPSULE_MARKETS.md "wikilink") ※当時)　―　ベース
+  - ISHIG∀KI（石垣愛）（ [THE MAD CAPSULE MARKETS](../Page/THE_MAD_CAPSULE_MARKETS.md "wikilink") ※当時)　―　ギター
 
 10.「GENE SETS」
 
@@ -31,10 +31,10 @@
 
 ## 収録曲
 
-1.  PARADE ([遠藤遼一](../Page/遠藤遼一.md "wikilink") / [森岡賢](https://ja.wikipedia.org/wiki/森岡賢 "wikilink"))
+1.  PARADE ([遠藤遼一](../Page/遠藤遼一.md "wikilink") / [森岡賢](../Page/森岡賢.md "wikilink"))
 2.  JEWEL SNAKE (遠藤遼一 / 森岡賢)
 3.  WHITE SHAMAN (遠藤遼一 / 森岡賢)
-4.  TRANSCODE ([藤井麻輝](https://ja.wikipedia.org/wiki/藤井麻輝 "wikilink") / 藤井麻輝)
+4.  TRANSCODE ([藤井麻輝](../Page/藤井麻輝.md "wikilink") / 藤井麻輝)
 5.  DEEP-SETS (遠藤遼一 / 藤井麻輝)
 6.  INFANTILE VICE (遠藤遼一 / 藤井麻輝)
 7.  PHASE (遠藤遼一 / 森岡賢)

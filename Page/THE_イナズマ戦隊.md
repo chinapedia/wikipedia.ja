@@ -1,7 +1,7 @@
 > この記事は[THE ](https://ja.wikipedia.org/wiki/THE_)から翻訳されています。
 
 
-**THE イナズマ戦隊**（ザ・イナズマせんたい）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックンロール](../Page/ロックンロール.md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。所属事務所は[ソニー・ミュージックアーティスツ](https://ja.wikipedia.org/wiki/ソニー・ミュージックアーティスツ "wikilink")。
+**THE イナズマ戦隊**（ザ・イナズマせんたい）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックンロール](../Page/ロックンロール.md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。所属事務所は[ソニー・ミュージックアーティスツ](../Page/ソニー・ミュージックアーティスツ.md "wikilink")。
 
 「[THE](https://ja.wikipedia.org/wiki/英語の冠詞 "wikilink")」の後に母音が来ると、発音は「ザ」ではなく「ジ」になるため「ズィ・イナズマせんたい」と読むほうが本来は正しいが、このバンド名は「ザ・イナズマせんたい」と読む。
 
@@ -9,28 +9,28 @@
 
   - **上中 丈弥**（うえなか じょうや、 - ） [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")。[大阪府](../Page/大阪府.md "wikilink")[堺市](https://ja.wikipedia.org/wiki/堺市 "wikilink")出身。
   - **山田 武郎**（やまだ たけお、 - ） [ギター](../Page/ギター.md "wikilink")。大阪府堺市出身。
-  - **中田 俊哉**（なかた としや、1978年[9月1日](../Page/9月1日.md "wikilink")（歳） - ） [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。大阪府堺市出身。
-  - **久保 裕行**（くぼ ひろゆき、 - ） [ドラム](../Page/ドラムセット.md "wikilink")。[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[広尾町](https://ja.wikipedia.org/wiki/広尾町 "wikilink")出身。
+  - **中田 俊哉**（なかた としや、1978年[9月1日](../Page/9月1日.md "wikilink")（歳） - ） [ベース](../Page/ベース_\(弦楽器\).md "wikilink")。大阪府堺市出身。
+  - **久保 裕行**（くぼ ひろゆき、 - ） [ドラム](../Page/ドラムセット.md "wikilink")。[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[広尾町](../Page/広尾町.md "wikilink")出身。
 
 ## 来歴・概要
 
 大阪府堺市出身のフロントマン3人が北海道の[酪農学園大学](../Page/酪農学園大学.md "wikilink")へ進学後、学内でドラマーに出会い、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")にその活動をスタートさせる。札幌を拠点に活動を続け、[2002年](../Page/2002年.md "wikilink")春に上京。8月にミニアルバム『THEイナズマ戦隊』を発売。
 
-[2003年](../Page/2003年.md "wikilink")[2月13日](../Page/2月13日.md "wikilink")に[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")からシングル『月に吠えろ』でデビュー。2ndシングル『応援歌』は彼等の代表作である。年間100本を超えるライブをこなす。
+[2003年](../Page/2003年.md "wikilink")[2月13日](../Page/2月13日.md "wikilink")に[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")からシングル『月に吠えろ』でデビュー。2ndシングル『応援歌』は彼等の代表作である。年間100本を超えるライブをこなす。
 
-[2004年](../Page/2004年.md "wikilink")3月には、『ぼくらの七日間戦争』のベストセラー作家[宗田理](https://ja.wikipedia.org/wiki/宗田理 "wikilink")の小説『天路 TENRO』に2曲の詩が登場する、異色コラボを実現させた両A面3rdシングル『陽はまた昇る\!\! / 天路』を発売、その後のツアーは各地でソールドアウト。
+[2004年](../Page/2004年.md "wikilink")3月には、『ぼくらの七日間戦争』のベストセラー作家[宗田理](../Page/宗田理.md "wikilink")の小説『天路 TENRO』に2曲の詩が登場する、異色コラボを実現させた両A面3rdシングル『陽はまた昇る\!\! / 天路』を発売、その後のツアーは各地でソールドアウト。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")夏、[日本クラウン](https://ja.wikipedia.org/wiki/日本クラウン "wikilink")に移籍。[7月21日](../Page/7月21日.md "wikilink")に移籍後初シングル『あの夏の日々』を発売。全国17局におよぶテレビ・ラジオのパワープレイを獲得すると同時に、多数の番組のテーマ曲となる（c/w『明日を迎えに行こう』は[川崎フロンターレ](https://ja.wikipedia.org/wiki/川崎フロンターレ "wikilink")公認応援ソング）。
+[2005年](../Page/2005年.md "wikilink")夏、[日本クラウン](../Page/日本クラウン.md "wikilink")に移籍。[7月21日](../Page/7月21日.md "wikilink")に移籍後初シングル『あの夏の日々』を発売。全国17局におよぶテレビ・ラジオのパワープレイを獲得すると同時に、多数の番組のテーマ曲となる（c/w『明日を迎えに行こう』は[川崎フロンターレ](https://ja.wikipedia.org/wiki/川崎フロンターレ "wikilink")公認応援ソング）。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")は3枚のシングルを発売。8thシングル『嗚呼\!\!されど青春ごっこ』のジャケットのイラストには、[どおくまん](../Page/どおくまん.md "wikilink")プロを起用。
+[2006年](../Page/2006年.md "wikilink")は3枚のシングルを発売。8thシングル『嗚呼\!\!されど青春ごっこ』のジャケットのイラストには、[どおくまん](../Page/どおくまん.md "wikilink")プロを起用。
 
 [2007年](../Page/2007年.md "wikilink")1月、4thアルバム『熱血商店街』を発売、初のホール公演を含む大会場に限定したツアーを行う。[5月9日](../Page/5月9日.md "wikilink")に10枚目のシングル『情熱の風』を発売。
 
 ちなみに歌詞カードの歌詞は、ほぼ上中による手書きで（手書きでない作品も何点かある）、クレジットに「歌詞の中に誤字・脱字がございますが、作者の意図ではございません。単なる間違いです。」と書いている。
 
-近年はジャニーズグループの楽曲を手がけていることでも知られる。（[関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")『[ズッコケ男道](../Page/ズッコケ男道.md "wikilink")』、『[無責任ヒーロー](https://ja.wikipedia.org/wiki/無責任ヒーロー "wikilink")』、[Kis-My-Ft2](https://ja.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")『[Everybody Go](https://ja.wikipedia.org/wiki/Everybody_Go "wikilink")』、『[We never give up\!](https://ja.wikipedia.org/wiki/We_never_give_up! "wikilink")』など）
+近年はジャニーズグループの楽曲を手がけていることでも知られる。（[関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")『[ズッコケ男道](../Page/ズッコケ男道.md "wikilink")』、『[無責任ヒーロー](https://ja.wikipedia.org/wiki/無責任ヒーロー "wikilink")』、[Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")『[Everybody Go](https://ja.wikipedia.org/wiki/Everybody_Go "wikilink")』、『[We never give up\!](https://ja.wikipedia.org/wiki/We_never_give_up! "wikilink")』など）
 
-[2013年](../Page/2013年.md "wikilink")には[TwellV](https://ja.wikipedia.org/wiki/ワールド・ハイビジョン・チャンネル "wikilink")『[カウンターのふたり](https://ja.wikipedia.org/wiki/カウンターのふたり "wikilink")シーズン2』の主題歌『[Don't Worry](https://ja.wikipedia.org/wiki/Don't_Worry "wikilink")』を発表。
+[2013年](../Page/2013年.md "wikilink")には[TwellV](../Page/ワールド・ハイビジョン・チャンネル.md "wikilink")『[カウンターのふたり](https://ja.wikipedia.org/wiki/カウンターのふたり "wikilink")シーズン2』の主題歌『[Don't Worry](https://ja.wikipedia.org/wiki/Don't_Worry "wikilink")』を発表。
 
 ## ディスコグラフィ
 
@@ -90,7 +90,7 @@
 </tr>
 <tr class="even">
 <td><p>5th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/7月21日.md" title="wikilink">7月21日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/7月21日.md" title="wikilink">7月21日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/あの夏の日々" title="wikilink">あの夏の日々</a></strong></p></td>
 <td><p>CRCP-10113</p></td>
 <td><p>あの夏の日々／リキみすぎずに抜き過ぎず／ええじゃないか音頭 ～ズッコケ中1編～／明日を迎えに行こう(川崎フロンターレ応援ソング)</p></td>
@@ -106,7 +106,7 @@
 </tr>
 <tr class="even">
 <td><p>7th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/5月10日.md" title="wikilink">5月10日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/5月10日.md" title="wikilink">5月10日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/五月雨_(THE_イナズマ戦隊の曲)" title="wikilink">五月雨</a></strong></p></td>
 <td><p>CRCP-10136</p></td>
 <td><p>五月雨／孤独の王様／新下剋上でやんす</p></td>
@@ -221,7 +221,7 @@ SLRL-10012:通常盤</p></td>
 </tr>
 <tr class="even">
 <td><p>3rd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/10月21日.md" title="wikilink">10月21日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/10月21日.md" title="wikilink">10月21日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/為さねば成らぬIII枚目" title="wikilink">為さねば成らぬIII枚目</a></strong></p></td>
 <td><p>CRCP-40124</p></td>
 <td><p>青春、恋の猛烈光線／為さねば成らぬぞ</p></td>
@@ -387,26 +387,26 @@ SLRL-10017:通常盤</p></td>
 
 ## ミュージックビデオ
 
-|                                                                    |                                                                                                                                                          |
-| ------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **監督**                                                             | **曲名**                                                                                                                                                   |
-| [井上哲央](../Page/井上哲央.md "wikilink")                                 | 「あの夏の日々」「オマモリ」                                                                                                                                           |
-| [大沢昌史](https://ja.wikipedia.org/wiki/大沢昌史 "wikilink")              | 「応援歌」「月に吠えろ」                                                                                                                                             |
-| [岡川太郎](https://ja.wikipedia.org/wiki/岡川太郎 "wikilink")              | 「情熱の風」「全身ゴーマイウェイ」                                                                                                                                        |
-| [金子雅伸](https://ja.wikipedia.org/wiki/金子雅伸 "wikilink")              | 「応援歌 ('04 LIVE Ver.)」                                                                                                                                    |
-| [土屋隆俊](https://ja.wikipedia.org/wiki/土屋隆俊 "wikilink")              | 「五月雨」                                                                                                                                                    |
-| [手塚一紀](https://ja.wikipedia.org/wiki/手塚一紀 "wikilink")              | 「銀座通り」                                                                                                                                                   |
-| [放送芸術学院専門学校](https://ja.wikipedia.org/wiki/放送芸術学院専門学校 "wikilink")生 | 「[ご機嫌行進曲～行ってきます～](https://www.youtube.com/watch?v=XbD58gSSOBM)」                                                                                          |
-| [邑瀬晃浩](https://ja.wikipedia.org/wiki/邑瀬晃浩 "wikilink")              | 「合言葉〜シャララ〜」                                                                                                                                              |
-| [山口保幸](../Page/山口保幸.md "wikilink")                                 | 「嗚呼                                                                                                                                                      |
-| [山根真樹](https://ja.wikipedia.org/wiki/山根真樹 "wikilink")              | 「パーダラ･ブギ〜後悔するにゃ若すぎる〜」「応援歌 (New Version)」「陽はまた昇る                                                                                                          |
-| [和田由紀](https://ja.wikipedia.org/wiki/和田由紀 "wikilink")              | 「さらば青春の日々」                                                                                                                                               |
-| 不明                                                                 | 「恋のドッキドキ大作戦」「Oh\!スザンヌ」「[愛じゃないか](https://www.youtube.com/watch?v=kDdYL2uFBHQ)」「素晴らしき人生」「未来の地図」「[GLORY DAYS](https://www.youtube.com/watch?v=wKqnGSFFEYs)」 |
-|                                                                    |                                                                                                                                                          |
+|                                                       |                                                                                                                                                          |
+| ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **監督**                                                | **曲名**                                                                                                                                                   |
+| [井上哲央](../Page/井上哲央.md "wikilink")                    | 「あの夏の日々」「オマモリ」                                                                                                                                           |
+| [大沢昌史](https://ja.wikipedia.org/wiki/大沢昌史 "wikilink") | 「応援歌」「月に吠えろ」                                                                                                                                             |
+| [岡川太郎](https://ja.wikipedia.org/wiki/岡川太郎 "wikilink") | 「情熱の風」「全身ゴーマイウェイ」                                                                                                                                        |
+| [金子雅伸](https://ja.wikipedia.org/wiki/金子雅伸 "wikilink") | 「応援歌 ('04 LIVE Ver.)」                                                                                                                                    |
+| [土屋隆俊](https://ja.wikipedia.org/wiki/土屋隆俊 "wikilink") | 「五月雨」                                                                                                                                                    |
+| [手塚一紀](https://ja.wikipedia.org/wiki/手塚一紀 "wikilink") | 「銀座通り」                                                                                                                                                   |
+| [放送芸術学院専門学校](../Page/放送芸術学院専門学校.md "wikilink")生       | 「[ご機嫌行進曲～行ってきます～](https://www.youtube.com/watch?v=XbD58gSSOBM)」                                                                                          |
+| [邑瀬晃浩](https://ja.wikipedia.org/wiki/邑瀬晃浩 "wikilink") | 「合言葉〜シャララ〜」                                                                                                                                              |
+| [山口保幸](../Page/山口保幸.md "wikilink")                    | 「嗚呼                                                                                                                                                      |
+| [山根真樹](https://ja.wikipedia.org/wiki/山根真樹 "wikilink") | 「パーダラ･ブギ〜後悔するにゃ若すぎる〜」「応援歌 (New Version)」「陽はまた昇る                                                                                                          |
+| [和田由紀](https://ja.wikipedia.org/wiki/和田由紀 "wikilink") | 「さらば青春の日々」                                                                                                                                               |
+| 不明                                                    | 「恋のドッキドキ大作戦」「Oh\!スザンヌ」「[愛じゃないか](https://www.youtube.com/watch?v=kDdYL2uFBHQ)」「素晴らしき人生」「未来の地図」「[GLORY DAYS](https://www.youtube.com/watch?v=wKqnGSFFEYs)」 |
+|                                                       |                                                                                                                                                          |
 
 ## 楽曲提供
 
-**[崎本大海](https://ja.wikipedia.org/wiki/崎本大海 "wikilink")**
+**[崎本大海](../Page/崎本大海.md "wikilink")**
 
   - 「[夜更けのバラッド](https://ja.wikipedia.org/wiki/夜更けのバラッド "wikilink")」(作詞・作曲)
 
@@ -431,7 +431,7 @@ SLRL-10017:通常盤</p></td>
   - 「[ゴリゴリ](https://ja.wikipedia.org/wiki/PUZZLE_\(関ジャニ∞のアルバム\) "wikilink")」(作詞)
   - 「[ギガマジメ我ファイト](https://ja.wikipedia.org/wiki/PUZZLE_\(関ジャニ∞のアルバム\) "wikilink")」(作詞)
 
-**[Kis-My-Ft2](https://ja.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")**
+**[Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")**
 
   - 「[Everybody Go](https://ja.wikipedia.org/wiki/Everybody_Go "wikilink")」(作詞)
   - 「[We never give up\!](https://ja.wikipedia.org/wiki/We_never_give_up! "wikilink")」(作詞)
@@ -464,11 +464,11 @@ SLRL-10017:通常盤</p></td>
   - 2012年 - 「いかすぜ★バンドマン」ツアー
   - 2012年 - THEイナズマ戦隊プレゼンツ『NEO TIGER HOLE』
       -
-        w/[ザ50回転ズ](../Page/ザ50回転ズ.md "wikilink")/[セカイイチ](https://ja.wikipedia.org/wiki/セカイイチ "wikilink")/[蜜](https://ja.wikipedia.org/wiki/蜜_\(バンド\) "wikilink")
+        w/[ザ50回転ズ](../Page/ザ50回転ズ.md "wikilink")/[セカイイチ](../Page/セカイイチ.md "wikilink")/[蜜](https://ja.wikipedia.org/wiki/蜜_\(バンド\) "wikilink")
   - 2013年 - THEイナズマ戦隊2013ツアー「GLORY DAYS」
   - 2013年09月13日 - THEイナズマ戦隊presents「NEO TIGER HOLE vol.4」
       -
-        w/[OverTheDogs](https://ja.wikipedia.org/wiki/OverTheDogs "wikilink")/[GOING UNDER GROUND](https://ja.wikipedia.org/wiki/GOING_UNDER_GROUND "wikilink")/[サンドクロック](https://ja.wikipedia.org/wiki/サンドクロック "wikilink")
+        w/[OverTheDogs](https://ja.wikipedia.org/wiki/OverTheDogs "wikilink")/[GOING UNDER GROUND](../Page/GOING_UNDER_GROUND.md "wikilink")/[サンドクロック](https://ja.wikipedia.org/wiki/サンドクロック "wikilink")
   - 2013年10月11日〜11月17日 - THEイナズマ戦隊ワンマンライブ2013「虎のご返杯」～17(イナ)周年直前ツアー～
   - 2013年12月07日〜2014年02月01日 - THEイナズマ戦隊ワンマンライブ2013-2014「唄モノSTATION」～17(イナ)周年直前ツアー～
   - 2014年08月17日 - THEイナズマ戦隊・結成17周年プレミアムワンマンライブ「Inazuma Fun Fan Carnival～イナ達のイナ達はイナ友達だ\!\!世界に広げようイナ達の輪\!\!～」
@@ -477,7 +477,7 @@ SLRL-10017:通常盤</p></td>
   - 2015年07月23日〜07月24日 - Road to 20th anniversary 緊急ホームルーム\!しくじりイナズマ先生
   - 2015年10月25日〜12月02日 - Road to 20th anniversary THEイナズマ戦隊 presents 「NEO TIGER HOLE tour 2015」
       -
-        w/[JaaBourBonz](https://ja.wikipedia.org/wiki/JaaBourBonz "wikilink")/[Scoobie Do](https://ja.wikipedia.org/wiki/Scoobie_Do "wikilink")/[堂島孝平](https://ja.wikipedia.org/wiki/堂島孝平 "wikilink")/SPYAIR
+        w/[JaaBourBonz](https://ja.wikipedia.org/wiki/JaaBourBonz "wikilink")/[Scoobie Do](../Page/Scoobie_Do.md "wikilink")/[堂島孝平](../Page/堂島孝平.md "wikilink")/SPYAIR
   - 2016年01月30日〜03月12日 - Road to 20th anniversary THEイナズマ戦隊 Acoustic Live 「唄モノSTATION ～OLD ROOKIES～」
   - 2016年09月30日〜12月06日 - Road to 20th anniversary 11th Album Release Tour 「GALAPAGOS」
 
@@ -521,7 +521,7 @@ SLRL-10017:通常盤</p></td>
   - 2011年07月10日 - [京都大作戦](https://ja.wikipedia.org/wiki/京都大作戦 "wikilink")2011～今年も楽しむ覚悟でいらっ祭～
   - 2011年08月21日 - 音楽をチカラに。 Sky Jamboree 2011 ～one pray in nagasaki～
   - 2011年09月17日 - HIGHER GROUND 2011
-  - 2011年09月24日 - [ガガガSP](https://ja.wikipedia.org/wiki/ガガガSP "wikilink") 長田大行進曲 2011
+  - 2011年09月24日 - [ガガガSP](../Page/ガガガSP.md "wikilink") 長田大行進曲 2011
   - 2011年10月15日 - MINAMI WHEEL 2011
   - 2012年03月17日 - HAPPY JACK 2012
   - 2012年05月03日 - [FUNKIST](https://ja.wikipedia.org/wiki/FUNKIST "wikilink") SUNSHINE 7 tour 2012
@@ -533,7 +533,7 @@ SLRL-10017:通常盤</p></td>
   - 2012年08月26日 - DISK GARAGE MUSIC MONSTERS -2012 summer-
   - 2012年10月03日 - CLUB Que Shimokitazawa 「新夜想曲第十八番・ウタゲアリキ」 No.18 anniversary
   - 2012年10月17日・18日 - [UNLIMITS](https://ja.wikipedia.org/wiki/UNLIMITS "wikilink") NeON TOUR 2012-秋の夜長にNeONを灯す-
-  - 2012年10月20日 - [TRIPLANE](https://ja.wikipedia.org/wiki/TRIPLANE "wikilink") Two-Man LIVE TOUR2012～俺らがやらなきゃ誰がやる\!
+  - 2012年10月20日 - [TRIPLANE](../Page/TRIPLANE.md "wikilink") Two-Man LIVE TOUR2012～俺らがやらなきゃ誰がやる\!
   - 2012年10月28日 - ～7th memory～ROCK the ROCK\!\!
   - 2012年11月22日 - LIVE\! TOWER RECORDS 「Zepp\! Step\! SMA\!」
   - 2012年11月24日 - FM長野presents NAGANO CLUB JUNK BOX 13th Anniversary 「LiveLiveLive\!\!\!」
@@ -625,14 +625,14 @@ SLRL-10017:通常盤</p></td>
 
 ## 関連項目
 
-  - [関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink") - 『[ズッコケ男道](../Page/ズッコケ男道.md "wikilink")』『[無責任ヒーロー](https://ja.wikipedia.org/wiki/無責任ヒーロー "wikilink")』など複数の楽曲の[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")を上中丈弥が、[作曲](../Page/作曲.md "wikilink")を久保裕行または上中丈弥が担当している。
+  - [関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink") - 『[ズッコケ男道](../Page/ズッコケ男道.md "wikilink")』『[無責任ヒーロー](https://ja.wikipedia.org/wiki/無責任ヒーロー "wikilink")』など複数の楽曲の[作詞](../Page/作詞.md "wikilink")を上中丈弥が、[作曲](../Page/作曲.md "wikilink")を久保裕行または上中丈弥が担当している。
   - [青春パンク](../Page/青春パンク.md "wikilink")
 
 ## 脚注
 
 ## 外部リンク
 
-  - [イナズマ戦隊 オフィシャルウェブサイト](http://www.inazumasentai.com/) - [ソニー・ミュージックアーティスツ](https://ja.wikipedia.org/wiki/ソニー・ミュージックアーティスツ "wikilink")による公式ページ
+  - [イナズマ戦隊 オフィシャルウェブサイト](http://www.inazumasentai.com/) - [ソニー・ミュージックアーティスツ](../Page/ソニー・ミュージックアーティスツ.md "wikilink")による公式ページ
 
   - [日本クラウン THEイナズマ戦隊](http://www.crownrecord.co.jp/artist/inasen/)
 

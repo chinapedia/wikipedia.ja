@@ -1,7 +1,7 @@
 > この記事は[BOOMERANG](https://ja.wikipedia.org/wiki/BOOMERANG)から翻訳されています。
 
 
-**BOOMERANG**（ブーメラン）は、[カートゥーン ネットワークの放送枠の名称](https://ja.wikipedia.org/wiki/カートゥーン_ネットワーク "wikilink")。米カートゥーン・ネットワーク運営のクラシックカートゥーン作品を専門とした海外のチャンネル名でもある。
+**BOOMERANG**（ブーメラン）は、[カートゥーン ネットワークの放送枠の名称](../Page/カートゥーン_ネットワーク.md "wikilink")。米カートゥーン・ネットワーク運営のクラシックカートゥーン作品を専門とした海外のチャンネル名でもある。
 
 本項では、特に断りのない限り日本の同名放送枠について説明する。
 
@@ -9,7 +9,7 @@
 
 ### アメリカ
 
-米カートゥーン・ネットワーク社が2000年4月1日から立ち上げた24時間放送のクラシックカートゥーン専門の番組枠である。主に[1963年](../Page/1963年.md "wikilink")頃から[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")頃までのカートゥーン作品を中心に放送されており、海外では[トムとジェリー](https://ja.wikipedia.org/wiki/トムとジェリー "wikilink")や[ルーニー・テューンズ](https://ja.wikipedia.org/wiki/ルーニー・テューンズ "wikilink")もこの時間帯で放送されている。
+米カートゥーン・ネットワーク社が2000年4月1日から立ち上げた24時間放送のクラシックカートゥーン専門の番組枠である。主に[1963年](../Page/1963年.md "wikilink")頃から[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")頃までのカートゥーン作品を中心に放送されており、海外では[トムとジェリー](../Page/トムとジェリー.md "wikilink")や[ルーニー・テューンズ](https://ja.wikipedia.org/wiki/ルーニー・テューンズ "wikilink")もこの時間帯で放送されている。
 
 2017年まで、日本では専用のチャンネルが存在しなかったが、代わりに日本独自の放送枠が用意されていた。2018年1月30日より新たにチャンネルが開局された。これは次項で解説する。
 
@@ -17,9 +17,9 @@
 
 日本のカートゥーン ネットワークで2001年8月に初めて設立された放送枠である。その後一度は廃止されるも、2006年の番組編成大幅改正に伴うゾーン編成の強化により再設。
 
-「**アノ日ヲモウ一度**」をキャッチフレーズに[1960年から](../Page/1960年代.md "wikilink")[1970年代](../Page/1970年代.md "wikilink")の間に日本で放送された[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")及び[カートゥーン](https://ja.wikipedia.org/wiki/カートゥーン "wikilink")をメインに放送している。この枠では主に[ハンナ・バーベラ・プロダクション](../Page/ハンナ・バーベラ・プロダクション.md "wikilink")作品と[手塚治虫](../Page/手塚治虫.md "wikilink")原作のアニメ作品を取り扱っている。
+「**アノ日ヲモウ一度**」をキャッチフレーズに[1960年から](../Page/1960年代.md "wikilink")[1970年代](../Page/1970年代.md "wikilink")の間に日本で放送された[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")及び[カートゥーン](../Page/カートゥーン.md "wikilink")をメインに放送している。この枠では主に[ハンナ・バーベラ・プロダクション](../Page/ハンナ・バーベラ・プロダクション.md "wikilink")作品と[手塚治虫](../Page/手塚治虫.md "wikilink")原作のアニメ作品を取り扱っている。
 
-新設以前から放送している[トムとジェリー](https://ja.wikipedia.org/wiki/トムとジェリー "wikilink")と[ルーニー・テューンズ](https://ja.wikipedia.org/wiki/ルーニー・テューンズ "wikilink")や、新設後から再放送されている[チキチキマシン猛レース](../Page/チキチキマシン猛レース.md "wikilink")などの一部作品は対象外になる（BOOMERANG枠として取り扱っていない）ケースがある。
+新設以前から放送している[トムとジェリー](../Page/トムとジェリー.md "wikilink")と[ルーニー・テューンズ](https://ja.wikipedia.org/wiki/ルーニー・テューンズ "wikilink")や、新設後から再放送されている[チキチキマシン猛レース](../Page/チキチキマシン猛レース.md "wikilink")などの一部作品は対象外になる（BOOMERANG枠として取り扱っていない）ケースがある。
 
 ゾーンとしては2015年12月29日で廃止されたが、2018年1月30日にサービスが開始するライブ配信サービスのdTVチャンネルにてチャンネルが開局された。
 
@@ -27,15 +27,15 @@
 
 ### カートゥーン作品
 
-※これらの作品は全て[吹き替え](https://ja.wikipedia.org/wiki/吹き替え "wikilink")作品である。
+※これらの作品は全て[吹き替え](../Page/吹き替え.md "wikilink")作品である。
 
-  - [アダムス・ファミリー](https://ja.wikipedia.org/wiki/アダムス・ファミリー "wikilink")
+  - [アダムス・ファミリー](../Page/アダムス・ファミリー.md "wikilink")
   - [宇宙怪人ゴースト](https://ja.wikipedia.org/wiki/宇宙怪人ゴースト "wikilink")
-  - [宇宙家族ジェットソン](https://ja.wikipedia.org/wiki/宇宙家族ジェットソン "wikilink")
-  - [宇宙忍者ゴームズ](https://ja.wikipedia.org/wiki/ファンタスティック・フォー "wikilink")
+  - [宇宙家族ジェットソン](../Page/宇宙家族ジェットソン.md "wikilink")
+  - [宇宙忍者ゴームズ](../Page/ファンタスティック・フォー.md "wikilink")
   - [怪獣王ターガン](https://ja.wikipedia.org/wiki/怪獣王ターガン "wikilink")
   - [クマゴロー](https://ja.wikipedia.org/wiki/クマゴロー "wikilink")
-  - [原始家族フリントストーン](https://ja.wikipedia.org/wiki/原始家族フリントストーン "wikilink")
+  - [原始家族フリントストーン](../Page/原始家族フリントストーン.md "wikilink")
   - [科学少年J.Q](https://ja.wikipedia.org/wiki/科学少年J.Q "wikilink")
   - [スーパースリー](../Page/スーパースリー_\(アニメ\).md "wikilink")
   - [スクービー&スクラッピードゥー](https://ja.wikipedia.org/wiki/弱虫クルッパー "wikilink")
@@ -46,19 +46,19 @@
   - [ドラドラ子猫とチャカチャカ娘](https://ja.wikipedia.org/wiki/ドラドラ子猫とチャカチャカ娘 "wikilink")
   - [ドラ猫大将](../Page/ドラ猫大将.md "wikilink")
   - [爆走バギー大レース](https://ja.wikipedia.org/wiki/爆走バギー大レース "wikilink")
-  - [秘密探偵クルクル](https://ja.wikipedia.org/wiki/秘密探偵クルクル "wikilink")
+  - [秘密探偵クルクル](../Page/秘密探偵クルクル.md "wikilink")
   - [ペネロッピー絶体絶命](https://ja.wikipedia.org/wiki/ペネロッピー絶体絶命 "wikilink")
 
 ### 日本アニメ作品
 
-  - [宇宙の騎士テッカマン](https://ja.wikipedia.org/wiki/宇宙の騎士テッカマン "wikilink")
-  - [海のトリトン](https://ja.wikipedia.org/wiki/海のトリトン "wikilink")
+  - [宇宙の騎士テッカマン](../Page/宇宙の騎士テッカマン.md "wikilink")
+  - [海のトリトン](../Page/海のトリトン.md "wikilink")
   - [荒野の少年イサム](../Page/荒野の少年イサム.md "wikilink")
   - [悟空の大冒険](../Page/悟空の大冒険.md "wikilink")
   - [ジャングル大帝](../Page/ジャングル大帝.md "wikilink")
-  - [破裏拳ポリマー](https://ja.wikipedia.org/wiki/破裏拳ポリマー "wikilink")
-  - [ポールのミラクル大作戦](https://ja.wikipedia.org/wiki/ポールのミラクル大作戦 "wikilink")
-  - [マッハGoGoGo](https://ja.wikipedia.org/wiki/マッハGoGoGo "wikilink")
+  - [破裏拳ポリマー](../Page/破裏拳ポリマー.md "wikilink")
+  - [ポールのミラクル大作戦](../Page/ポールのミラクル大作戦.md "wikilink")
+  - [マッハGoGoGo](../Page/マッハGoGoGo.md "wikilink")
   - [リボンの騎士](../Page/リボンの騎士.md "wikilink")
   - [科学忍者隊ガッチャマン](../Page/科学忍者隊ガッチャマン.md "wikilink")
 

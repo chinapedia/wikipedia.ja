@@ -1,11 +1,11 @@
 > この記事は[SAKAI](https://ja.wikipedia.org/wiki/SAKAI)から翻訳されています。
 
 
-『**SAKAIです〜デザートーク〜**』（さかいです デザートーク）は、[日本テレビ系列局で放送されていた](../Page/日本テレビネットワーク協議会.md "wikilink")[日本テレビ製作の](../Page/日本テレビ放送網.md "wikilink")[トーク番組](https://ja.wikipedia.org/wiki/トーク番組 "wikilink")。製作局の日本テレビでは[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[9月29日](../Page/9月29日.md "wikilink")から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月2日](../Page/10月2日.md "wikilink")まで、毎週月曜 - 金曜 13:30 - 13:55 （[日本標準時](../Page/日本標準時.md "wikilink")）に放送。
+『**SAKAIです〜デザートーク〜**』（さかいです デザートーク）は、[日本テレビ系列局で放送されていた](../Page/日本テレビネットワーク協議会.md "wikilink")[日本テレビ製作の](../Page/日本テレビ放送網.md "wikilink")[トーク番組](../Page/トーク番組.md "wikilink")。製作局の日本テレビでは[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[9月29日](../Page/9月29日.md "wikilink")から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月2日](../Page/10月2日.md "wikilink")まで、毎週月曜 - 金曜 13:30 - 13:55 （[日本標準時](../Page/日本標準時.md "wikilink")）に放送。
 
 ## 概要
 
-[堺正章](https://ja.wikipedia.org/wiki/堺正章 "wikilink")が司会を務めたトーク番組で、アシスタントは[吉川十和子](https://ja.wikipedia.org/wiki/吉川十和子 "wikilink")が務めた。
+[堺正章](../Page/堺正章.md "wikilink")が司会を務めたトーク番組で、アシスタントは[吉川十和子](https://ja.wikipedia.org/wiki/吉川十和子 "wikilink")が務めた。
 
 番組タイトルの「デザートーク」とは、「[デザート](../Page/デザート.md "wikilink")」と「[トーク](https://ja.wikipedia.org/wiki/トーク "wikilink")」を組み合わせた造語である。後期にはサブ司会にキャスターの[久和ひとみ](../Page/久和ひとみ.md "wikilink")を加え、タイトルから「SAKAIです」を外し、番組タイトルが『**デザートーク**』に改題された。また、当初は堺の曲「二十三夜」をエンディングテーマに使用していたが、後期は[今井優子](https://ja.wikipedia.org/wiki/今井優子 "wikilink")のデビュー曲「哀しみのペイヴメント」が採用された。
 
@@ -33,7 +33,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/札幌テレビ放送" title="wikilink">札幌テレビ</a></p></td>
+<td><p><a href="../Page/札幌テレビ放送.md" title="wikilink">札幌テレビ</a></p></td>
 <td><p>同時ネット</p></td>
 <td></td>
 <td></td>
@@ -53,7 +53,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/山形県" title="wikilink">山形県</a></p></td>
+<td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
 <td><p><a href="../Page/山形放送.md" title="wikilink">山形放送</a></p></td>
 <td><p>日本テレビ系列<br />
 <a href="https://ja.wikipedia.org/wiki/All-nippon_News_Network" title="wikilink">テレビ朝日系列</a></p></td>
@@ -140,7 +140,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/岡山県・香川県の放送" title="wikilink">香川県・岡山県</a></p></td>
+<td><p><a href="../Page/岡山県・香川県の放送.md" title="wikilink">香川県・岡山県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/西日本放送テレビ" title="wikilink">西日本放送</a></p></td>
 <td><p>日本テレビ系列</p></td>
 <td><p>同時ネット</p></td>
@@ -161,7 +161,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/福岡放送.md" title="wikilink">福岡放送</a></p></td>
 <td><p>同時ネット</p></td>
 <td></td>

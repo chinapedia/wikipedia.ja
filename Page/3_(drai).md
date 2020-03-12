@@ -17,8 +17,8 @@
 
 ## 収録曲
 
-1.  BACK LASH ([遠藤遼一](../Page/遠藤遼一.md "wikilink") / [藤井麻輝](https://ja.wikipedia.org/wiki/藤井麻輝 "wikilink") / [SOFT BALLET](../Page/SOFT_BALLET.md "wikilink"))
-2.  EXIST (遠藤遼一 / [森岡賢](https://ja.wikipedia.org/wiki/森岡賢 "wikilink") / SOFT BALLET)
+1.  BACK LASH ([遠藤遼一](../Page/遠藤遼一.md "wikilink") / [藤井麻輝](../Page/藤井麻輝.md "wikilink") / [SOFT BALLET](../Page/SOFT_BALLET.md "wikilink"))
+2.  EXIST (遠藤遼一 / [森岡賢](../Page/森岡賢.md "wikilink") / SOFT BALLET)
 3.  BRILLIANT FAULT AND SKY WAS BLUE (森岡賢, [高木延子](https://ja.wikipedia.org/wiki/高木延子 "wikilink") / 森岡賢 / 森岡賢)
 4.  MUCH OF MADNESS, MORE OF SIN (藤井麻輝, [幸田志保](https://ja.wikipedia.org/wiki/幸田志保 "wikilink") / 藤井麻輝 / 藤井麻輝)
 5.  FLOW (遠藤遼一 / 遠藤遼一 / 遠藤遼一, 藤井麻輝)

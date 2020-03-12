@@ -1,7 +1,7 @@
 > この記事は[ SOUND STROLL](https://ja.wikipedia.org/wiki/_SOUND_STROLL)から翻訳されています。
 
 
-**地中海 SOUND STROLL**（ちちゅうかい さうんど すとろーる）は、土曜9:30～10:00に[NACK5で放送されていた](../Page/エフエムナックファイブ.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。放送期間は[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")～[2011年](../Page/2011年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink")。なお、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月5日](../Page/4月5日.md "wikilink")放送分より番組タイトル名が**相田翔子 SOUND STROLL**（あいだしょうこ さうんど すとろーる）に改題された。
+**地中海 SOUND STROLL**（ちちゅうかい さうんど すとろーる）は、土曜9:30～10:00に[NACK5で放送されていた](../Page/エフエムナックファイブ.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。放送期間は[2005年](../Page/2005年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")～[2011年](../Page/2011年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink")。なお、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月5日](../Page/4月5日.md "wikilink")放送分より番組タイトル名が**相田翔子 SOUND STROLL**（あいだしょうこ さうんど すとろーる）に改題された。
 
 ## パーソナリティ
 
@@ -15,9 +15,9 @@
 
 ## 概要
 
-  - この番組も「[飯田圭織・今夜も交信中\!](https://ja.wikipedia.org/wiki/飯田圭織・今夜も交信中! "wikilink")」同様、厳密に言えば、独立した「番組」ではない。日本全国のどの[新聞](../Page/新聞.md "wikilink")のラジオ番組欄にも番組名が載ったことは一度も無い。編成上は、「[EXCITING SATURDAY](../Page/EXCITING_SATURDAY_\(NACK5\).md "wikilink")（DJ：[堀江ゆかり](../Page/堀江ゆかり.md "wikilink")　土曜 7：00～12：00）」内の1コーナーである。
+  - この番組も「[飯田圭織・今夜も交信中\!](../Page/飯田圭織・今夜も交信中!.md "wikilink")」同様、厳密に言えば、独立した「番組」ではない。日本全国のどの[新聞](../Page/新聞.md "wikilink")のラジオ番組欄にも番組名が載ったことは一度も無い。編成上は、「[EXCITING SATURDAY](../Page/EXCITING_SATURDAY_\(NACK5\).md "wikilink")（DJ：[堀江ゆかり](../Page/堀江ゆかり.md "wikilink")　土曜 7：00～12：00）」内の1コーナーである。
   - タイトルの意味は、「地中海諸国（対象となる地域は[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")，[イタリア](../Page/イタリア.md "wikilink")，[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")，[ギリシャ](../Page/ギリシャ.md "wikilink")など）を音楽にのせて、散策していく」。その意味の通り、地中海諸国の街を毎週１つ紹介しながら、紹介された街にちなんだ音楽・曲を流していく。
-  - 当番組は比較的[アップフロントワークス](https://ja.wikipedia.org/wiki/アップフロントワークス "wikilink")内の「**地中海レーベル**」との[コラボレーション](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")的な要素が含まれていた。
+  - 当番組は比較的[アップフロントワークス](../Page/アップフロントワークス.md "wikilink")内の「**地中海レーベル**」との[コラボレーション](../Page/コラボレーション.md "wikilink")的な要素が含まれていた。
   - 番組冒頭の挨拶は、飯田圭織が、紹介される街にちなんだ言語でなされる。以下に示すが、いずれも日本語で「おはようございます」という意味である。
 
 <!-- end list -->
@@ -58,13 +58,13 @@
 
 ## 備考
 
-  - 番組で最初に取り上げられた街は、 フランス・[アルル](https://ja.wikipedia.org/wiki/アルル "wikilink")である（2005年4月2日放送分）。[フィンセント・ファン・ゴッホ](https://ja.wikipedia.org/wiki/フィンセント・ファン・ゴッホ "wikilink")が愛した街として有名で、彼の絵画のタイトルにもなっている。（『[アルルの女](https://ja.wikipedia.org/wiki/アルルの女 "wikilink")(l'Arlésienne)』）
+  - 番組で最初に取り上げられた街は、 フランス・[アルル](../Page/アルル.md "wikilink")である（2005年4月2日放送分）。[フィンセント・ファン・ゴッホ](https://ja.wikipedia.org/wiki/フィンセント・ファン・ゴッホ "wikilink")が愛した街として有名で、彼の絵画のタイトルにもなっている。（『[アルルの女](../Page/アルルの女.md "wikilink")(l'Arlésienne)』）
   - 2005年8月27日放送分では、リスナーからのお便りを読むコーナーに代わって、[因幡晃](../Page/因幡晃.md "wikilink")がゲスト出演。因幡晃30th　Anniversary CONCERT TOUR 「ミーム～心の遺伝子の叫び」の宣伝を兼ねた物で、新曲「人生それは終りのない旅 」が番組内で流れた。
-  - 番組で最初に取り上げられた映画は、『[アメリ](https://ja.wikipedia.org/wiki/アメリ "wikilink")』（2001年仏）である（2006年4月1日放送分）。また、2006年5月20日放送分では、初めて地中海諸国以外を舞台にした映画『[サウンド・オブ・ミュージック](../Page/サウンド・オブ・ミュージック.md "wikilink")』（1965年米。[オーストリア](../Page/オーストリア.md "wikilink")・[ザルツブルク](../Page/ザルツブルク.md "wikilink")が舞台）が紹介された。さらに、2006年5月27日放送分では、リスナーからのリクエストで『[ニュー・シネマ・パラダイス](../Page/ニュー・シネマ・パラダイス.md "wikilink")』（1989年伊・仏） が紹介されるなど、「地中海諸国」という枠にとらわれずに、あらゆるジャンルのヨーロッパ映画に範囲を広げている。
+  - 番組で最初に取り上げられた映画は、『[アメリ](../Page/アメリ.md "wikilink")』（2001年仏）である（2006年4月1日放送分）。また、2006年5月20日放送分では、初めて地中海諸国以外を舞台にした映画『[サウンド・オブ・ミュージック](../Page/サウンド・オブ・ミュージック.md "wikilink")』（1965年米。[オーストリア](../Page/オーストリア.md "wikilink")・[ザルツブルク](../Page/ザルツブルク.md "wikilink")が舞台）が紹介された。さらに、2006年5月27日放送分では、リスナーからのリクエストで『[ニュー・シネマ・パラダイス](../Page/ニュー・シネマ・パラダイス.md "wikilink")』（1989年伊・仏） が紹介されるなど、「地中海諸国」という枠にとらわれずに、あらゆるジャンルのヨーロッパ映画に範囲を広げている。
 
 ## 関連項目
 
-  - [飯田圭織・今夜も交信中\!](https://ja.wikipedia.org/wiki/飯田圭織・今夜も交信中! "wikilink")
+  - [飯田圭織・今夜も交信中\!](../Page/飯田圭織・今夜も交信中!.md "wikilink")
 
 ## 外部リンク
 

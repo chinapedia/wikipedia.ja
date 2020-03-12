@@ -1,13 +1,13 @@
 > この記事は[Dutch Training](https://ja.wikipedia.org/wiki/Dutch_Training)から翻訳されています。
 
 
-**Dutch Training**（ダッチトレーニング）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")8月に結成した日本の[バンドである](../Page/バンド_\(音楽\).md "wikilink")。[1999年](../Page/1999年.md "wikilink")、[ソニー・ミュージックエンタテインメント傘下の](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")[キューンレコードより](https://ja.wikipedia.org/wiki/キューンミュージック "wikilink")1stシングル「HIGH LIFE」でメジャーデビューした。
+**Dutch Training**（ダッチトレーニング）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")8月に結成した日本の[バンドである](../Page/バンド_\(音楽\).md "wikilink")。[1999年](../Page/1999年.md "wikilink")、[ソニー・ミュージックエンタテインメント傘下の](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")[キューンレコードより](../Page/キューンミュージック.md "wikilink")1stシングル「HIGH LIFE」でメジャーデビューした。
 
 ## エピソード
 
 デビュー時はMIDIシーケンスやサンプリング、アンプシミュレイターを主体としたサウンドであった。デビューシングル「HIGH LIFE」は外国語FM放送局[FM Inter-Waveや](https://ja.wikipedia.org/wiki/FM_Inter-Wave "wikilink")[J-WAVE](../Page/J-WAVE.md "wikilink")等、首都圏FM局を中心にパワープレイされた。
 
-3rdシングル、「Stay」がフジテレビ系ドラマ「[モナリザの微笑](https://ja.wikipedia.org/wiki/モナリザの微笑_\(テレビドラマ\) "wikilink")」挿入歌に採用された。
+3rdシングル、「Stay」がフジテレビ系ドラマ「[モナリザの微笑](../Page/モナリザの微笑_\(テレビドラマ\).md "wikilink")」挿入歌に採用された。
 
 ロック、ポップ、テクノ、アンビエントを軸に楽曲をまとめ上げている。ファーストアルバムではサンプリングやブレイクビーツを多様。セカンドアルバム「Gain」ではシーケンサーや電子楽器、シンセ等を一切排除し、全編生ドラムで大陸的なバンドサウンドへと変化を遂げる（サポートドラマーは[佐野康夫](../Page/佐野康夫.md "wikilink")）。
 
@@ -49,7 +49,7 @@
 <!-- end list -->
 
   -
-    （[フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[モナリザの微笑](https://ja.wikipedia.org/wiki/モナリザの微笑_\(テレビドラマ\) "wikilink")」挿入歌)
+    （[フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[モナリザの微笑](../Page/モナリザの微笑_\(テレビドラマ\).md "wikilink")」挿入歌)
 
 <!-- end list -->
 
@@ -59,7 +59,7 @@
 <!-- end list -->
 
   -
-    （[テレビ朝日](../Page/テレビ朝日.md "wikilink")系「[内村プロデュース](https://ja.wikipedia.org/wiki/内村プロデュース "wikilink")」エンディングテーマ)
+    （[テレビ朝日](../Page/テレビ朝日.md "wikilink")系「[内村プロデュース](../Page/内村プロデュース.md "wikilink")」エンディングテーマ)
 
 <!-- end list -->
 
@@ -68,7 +68,7 @@
 <!-- end list -->
 
   -
-    （TBS系「[カウントダウンTV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")－Neo」オープニングテーマ)
+    （TBS系「[カウントダウンTV](../Page/COUNT_DOWN_TV.md "wikilink")－Neo」オープニングテーマ)
 
 <!-- end list -->
 
@@ -116,7 +116,7 @@
 7.  灰になるまで - 作詞・作曲 : ふしぎ　　Drなし
 
 Sound Produced by Nobuo Ariga & Ducth Training
-Directed by Takahiro Narishima ([Ki/oon Records](https://ja.wikipedia.org/wiki/キューンミュージック "wikilink"))
+Directed by Takahiro Narishima ([Ki/oon Records](../Page/キューンミュージック.md "wikilink"))
 Recorded and Mixed by Yasuo Matsumoto (ZeeQ)
 Assisted by Masahiro Takeda (SUNRISE STUDIO), Makoto Hoshino ([VICTOR STUDIO](https://ja.wikipedia.org/wiki/VICTOR_STUDIO "wikilink"))
 Recorded at TOWER SIDE st., VICTOR st.
@@ -126,15 +126,15 @@ Artist Promotion：Toru Yamamoto (Ki/oon Records)
 Artist Management：Isao Nakatsuchi, Daikichi Kasai (DB MUSIC)
 Sales Promotion：Hirokuni Sakai, Shunsuke Arita (SMD)
 Recording Coordination：Hiroyasu Kakuta (YOU-STAFF)
-Products Coordination：Aya Sasamori ([Ki/oon Records](https://ja.wikipedia.org/wiki/キューンミュージック "wikilink"))
-Visual Coordination：Kenichi Nomura ([Ki/oon Records](https://ja.wikipedia.org/wiki/キューンミュージック "wikilink"))
+Products Coordination：Aya Sasamori ([Ki/oon Records](../Page/キューンミュージック.md "wikilink"))
+Visual Coordination：Kenichi Nomura ([Ki/oon Records](../Page/キューンミュージック.md "wikilink"))
 Art Direction：Shinnoichi Yoshida (King Cay Lab.)
 Design：Akiko Sato (King Cay Lab.)
 Photography：Fumiki Endo
 Hair and Make up：Mie Yasui
 Styling：Tomohiro Aman
 Location Coordination：Yasuo “YAZ” Ishii (IMPEX Co., LTD. Macau)
-Exectives：Tatsuo Adachi, Fumie Takahashi ([Ki/oon Records](https://ja.wikipedia.org/wiki/キューンミュージック "wikilink")), Norio Sakaki (DB MUSIC)
+Exectives：Tatsuo Adachi, Fumie Takahashi ([Ki/oon Records](../Page/キューンミュージック.md "wikilink")), Norio Sakaki (DB MUSIC)
 Thanks to：Ultra Master, MANU, Kyoichi Sugimoto ([LÄ-PPISCH](https://ja.wikipedia.org/wiki/LÄ-PPISCH "wikilink")), Makoto Nagahama, LEO MUSIC CO.
 
 ## 外部リンク

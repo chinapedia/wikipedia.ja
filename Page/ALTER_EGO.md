@@ -7,7 +7,7 @@
 
 海外のリミキサー陣によるリミックスアルバム。SOFT BALLETのメンバーは制作に携わっていないが、M-2、M-8やM-12は後のライブにおいて一部が使用された。
 
-リミックスアルバムとしては他に『[TWIST AND TURN](https://ja.wikipedia.org/wiki/TWIST_AND_TURN "wikilink")』と『[FORMs](https://ja.wikipedia.org/wiki/FORMs "wikilink")』の2枚がある。
+リミックスアルバムとしては他に『[TWIST AND TURN](../Page/TWIST_AND_TURN.md "wikilink")』と『[FORMs](../Page/FORMs.md "wikilink")』の2枚がある。
 
 ## 収録曲
 

@@ -9,10 +9,10 @@
 
 ## 収録曲
 
-1.  BODY TO BODY ([森岡賢](https://ja.wikipedia.org/wiki/森岡賢 "wikilink"))
+1.  BODY TO BODY ([森岡賢](../Page/森岡賢.md "wikilink"))
 2.  KO・KA・GE・NI (森岡賢)
 3.  TWIST OF LOVE -Original Version (森岡賢)
-4.  NEEDLE -Japanese Version ([藤井麻輝](https://ja.wikipedia.org/wiki/藤井麻輝 "wikilink"))
+4.  NEEDLE -Japanese Version ([藤井麻輝](../Page/藤井麻輝.md "wikilink"))
 5.  ESCAPE -Rebuild (藤井麻輝)
 6.  PRIVATE PRIDE -Remake (森岡賢)
 7.  EGO DANCE -Single Version (森岡賢)

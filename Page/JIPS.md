@@ -33,9 +33,9 @@
 ## 関連項目
 
   - [文字コード](../Page/文字コード.md "wikilink")
-  - [Microsoftコードページ932](https://ja.wikipedia.org/wiki/Microsoftコードページ932 "wikilink")
+  - [Microsoftコードページ932](../Page/Microsoftコードページ932.md "wikilink")
   - [EBCDIC](https://ja.wikipedia.org/wiki/EBCDIC "wikilink")
-  - [IBM漢字システム](https://ja.wikipedia.org/wiki/IBM漢字システム "wikilink")
+  - [IBM漢字システム](../Page/IBM漢字システム.md "wikilink")
   - [JEF漢字コード](https://ja.wikipedia.org/wiki/JEF漢字コード "wikilink")
   - [KEIS](https://ja.wikipedia.org/wiki/KEIS "wikilink")
 

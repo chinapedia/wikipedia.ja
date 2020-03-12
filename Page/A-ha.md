@@ -3,33 +3,33 @@
 
 [A-haClassicLogo.PNG](https://ja.wikipedia.org/wiki/File:A-haClassicLogo.PNG "fig:A-haClassicLogo.PNG") [A-ha_logo_FOTM.JPG](https://ja.wikipedia.org/wiki/File:A-ha_logo_FOTM.JPG "fig:A-ha_logo_FOTM.JPG") [A-ha_Morten1.jpg](https://ja.wikipedia.org/wiki/File:A-ha_Morten1.jpg "fig:A-ha_Morten1.jpg") **a-ha**（**アーハ**、**アハー**）は、[英語](../Page/英語.md "wikilink")歌詞の楽曲を演奏する[ノルウェー](../Page/ノルウェー.md "wikilink")出身の3人組[バンド](../Page/バンド_\(音楽\).md "wikilink")。1982年結成。「[テイク・オン・ミー](https://ja.wikipedia.org/wiki/テイク・オン・ミー "wikilink")（Take On Me）」の世界的なヒットや『[007 リビング・デイライツ](../Page/007_リビング・デイライツ.md "wikilink")』（The Living Daylights）の主題歌、[1994年](../Page/1994年.md "wikilink")リレハンメルパラリンピックのテーマ曲(Shapes That Go Together)、2009ベルリン世界陸上テーマ曲(Foot of the Mountain)を歌ったグループとして知られる。
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")12月4日にユニット結成の地、[オスロ](https://ja.wikipedia.org/wiki/オスロ "wikilink")でのコンサートを最後に解散した。[2015年](../Page/2015年.md "wikilink")、デビュー30周年を記念して2年限定で再結成すると公式発表された。同年9月に[ロック・イン・リオ](https://ja.wikipedia.org/wiki/ロック・イン・リオ "wikilink")6([ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink"))で再結成パフォーマンスを行う。更に6年ぶり10枚目のニューアルバム「Cast In Steel」が同年9月4日に全世界でリリースされた。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")の[SUMMER SONIC以来](https://ja.wikipedia.org/wiki/サマーソニック "wikilink")、10年ぶり[2020年](../Page/2020年.md "wikilink")3月に単独来日公演が行われると発表された。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")12月4日にユニット結成の地、[オスロ](../Page/オスロ.md "wikilink")でのコンサートを最後に解散した。[2015年](../Page/2015年.md "wikilink")、デビュー30周年を記念して2年限定で再結成すると公式発表された。同年9月に[ロック・イン・リオ](https://ja.wikipedia.org/wiki/ロック・イン・リオ "wikilink")6([ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink"))で再結成パフォーマンスを行う。更に6年ぶり10枚目のニューアルバム「Cast In Steel」が同年9月4日に全世界でリリースされた。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")の[SUMMER SONIC以来](../Page/サマーソニック.md "wikilink")、10年ぶり[2020年](../Page/2020年.md "wikilink")3月に単独来日公演が行われると発表された。
 
 ## 歴史
 
-[モートン・ハルケット](https://ja.wikipedia.org/wiki/モートン・ハルケット "wikilink")（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")）、[ポール・ワークター＝サヴォイ](https://ja.wikipedia.org/wiki/ポール・ワークター＝サヴォイ "wikilink")（[ギター](../Page/ギター.md "wikilink")）、[マグネ・フルホルメン](../Page/マグネ・フルホルメン.md "wikilink")（[キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")、ギター）の3人で[1982年](../Page/1982年.md "wikilink")に結成。 [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")へ渡り、[1984年](../Page/1984年.md "wikilink")に「[テイク・オン・ミー](https://ja.wikipedia.org/wiki/テイク・オン・ミー "wikilink")」でデビュー。トニー・マンスフィールドのプロデュースによるこの「1st version」は母国ノルウェーで3位を記録するヒットにはなったものの、国際的なマーケットでは注目されなかった。
+[モートン・ハルケット](../Page/モートン・ハルケット.md "wikilink")（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")）、[ポール・ワークター＝サヴォイ](https://ja.wikipedia.org/wiki/ポール・ワークター＝サヴォイ "wikilink")（[ギター](../Page/ギター.md "wikilink")）、[マグネ・フルホルメン](../Page/マグネ・フルホルメン.md "wikilink")（[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、ギター）の3人で[1982年](../Page/1982年.md "wikilink")に結成。 [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")へ渡り、[1984年](../Page/1984年.md "wikilink")に「[テイク・オン・ミー](https://ja.wikipedia.org/wiki/テイク・オン・ミー "wikilink")」でデビュー。トニー・マンスフィールドのプロデュースによるこの「1st version」は母国ノルウェーで3位を記録するヒットにはなったものの、国際的なマーケットでは注目されなかった。
 
-翌[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")、アラン・ターニーによってアレンジし直され再びリリースされた「[テイク・オン・ミー](https://ja.wikipedia.org/wiki/テイク・オン・ミー "wikilink")」は全米1位・全英2位の大ヒットを記録する。[ビルボード](../Page/ビルボード.md "wikilink")（Billboard）誌では、1985年10月19日に週間ランキング第1位を獲得。1985年ビルボード誌年間ランキングでは第17位。イントロのフレーズとモートンの[ファルセット](../Page/ファルセット.md "wikilink")が印象的なこの曲は、[ロトスコープ](https://ja.wikipedia.org/wiki/ロトスコープ "wikilink")によるスケッチ風アニメと実写とを巧みに合成した当時としては斬新な[ミュージックビデオ](https://ja.wikipedia.org/wiki/ミュージックビデオ "wikilink")の効果も手伝って、全世界的なヒットとなった。
+翌[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")、アラン・ターニーによってアレンジし直され再びリリースされた「[テイク・オン・ミー](https://ja.wikipedia.org/wiki/テイク・オン・ミー "wikilink")」は全米1位・全英2位の大ヒットを記録する。[ビルボード](../Page/ビルボード.md "wikilink")（Billboard）誌では、1985年10月19日に週間ランキング第1位を獲得。1985年ビルボード誌年間ランキングでは第17位。イントロのフレーズとモートンの[ファルセット](../Page/ファルセット.md "wikilink")が印象的なこの曲は、[ロトスコープ](../Page/ロトスコープ.md "wikilink")によるスケッチ風アニメと実写とを巧みに合成した当時としては斬新な[ミュージックビデオ](https://ja.wikipedia.org/wiki/ミュージックビデオ "wikilink")の効果も手伝って、全世界的なヒットとなった。
 
-その後アメリカやアジアではこれといったヒットが続かなかったが、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")では、セカンドシングル「The Sun Always Shines on T.V.」が1位となったのをはじめ、1990年までにベスト10ヒット8曲を記録。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")には映画「[007 リビング・デイライツ](../Page/007_リビング・デイライツ.md "wikilink")」の主題歌を担当するなど、1980年代後期を代表する人気バンドとなった。ヨーロッパ各国や南米などでの人気も高く、[1991年](../Page/1991年.md "wikilink")に[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")の[リオ・デ・ジャネイロ](https://ja.wikipedia.org/wiki/リオ・デ・ジャネイロ "wikilink")で開催された[ロック・イン・リオ](https://ja.wikipedia.org/wiki/ロック・イン・リオ "wikilink")2では、[ジョージ・マイケル](https://ja.wikipedia.org/wiki/ジョージ・マイケル "wikilink")や[ガンズ・アンド・ローゼズ](https://ja.wikipedia.org/wiki/ガンズ・アンド・ローゼズ "wikilink")といった英米のアーティストを遥かにしのぐ19万5000人の観客を動員。この記録は「the largest paying audience」として、一時[ギネスブックにも掲載された](https://ja.wikipedia.org/wiki/ギネス・ワールド・レコーズ "wikilink")。
+その後アメリカやアジアではこれといったヒットが続かなかったが、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")では、セカンドシングル「The Sun Always Shines on T.V.」が1位となったのをはじめ、1990年までにベスト10ヒット8曲を記録。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")には映画「[007 リビング・デイライツ](../Page/007_リビング・デイライツ.md "wikilink")」の主題歌を担当するなど、1980年代後期を代表する人気バンドとなった。ヨーロッパ各国や南米などでの人気も高く、[1991年](../Page/1991年.md "wikilink")に[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")の[リオ・デ・ジャネイロ](https://ja.wikipedia.org/wiki/リオ・デ・ジャネイロ "wikilink")で開催された[ロック・イン・リオ](https://ja.wikipedia.org/wiki/ロック・イン・リオ "wikilink")2では、[ジョージ・マイケル](../Page/ジョージ・マイケル.md "wikilink")や[ガンズ・アンド・ローゼズ](https://ja.wikipedia.org/wiki/ガンズ・アンド・ローゼズ "wikilink")といった英米のアーティストを遥かにしのぐ19万5000人の観客を動員。この記録は「the largest paying audience」として、一時[ギネスブックにも掲載された](https://ja.wikipedia.org/wiki/ギネス・ワールド・レコーズ "wikilink")。
 
-[1994年](../Page/1994年.md "wikilink")には[リレハンメル](https://ja.wikipedia.org/wiki/リレハンメル "wikilink")[パラリンピック](https://ja.wikipedia.org/wiki/パラリンピック "wikilink")のテーマ曲を提供するが、ワールドツアー後、3人はそれぞれソロ活動に専念する。ポールは妻ローレン・サヴォイやフロード・アンランドと組んだ[Savoyとして](https://ja.wikipedia.org/wiki/サヴォイ_\(バンド\) "wikilink")、モートンはソロシンガーとして活動、それぞれノルウェーでナンバー1ヒットを記録している。マグネはKjetil BjerkestrandとTimbersoundというユニットを組み、ノルウェー映画やTVドラマのサウンドトラック制作を手がける一方、画家・彫刻家としての地位を築いている。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に[ノーベル平和賞](../Page/ノーベル平和賞.md "wikilink")記念コンサートを機にバンドとしての活動を再開。[2000年](../Page/2000年.md "wikilink")に発売されたアルバム「Minor Earth Major Sky」は[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")を中心とするヨーロッパ各国でプラチナ･アルバムを獲得する大ヒットとなった。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")1月には、シングル「Analogue (All I Want)」が18年ぶりに全英チャートにトップ10入りしている。
+[1994年](../Page/1994年.md "wikilink")には[リレハンメル](../Page/リレハンメル.md "wikilink")[パラリンピック](../Page/パラリンピック.md "wikilink")のテーマ曲を提供するが、ワールドツアー後、3人はそれぞれソロ活動に専念する。ポールは妻ローレン・サヴォイやフロード・アンランドと組んだ[Savoyとして](https://ja.wikipedia.org/wiki/サヴォイ_\(バンド\) "wikilink")、モートンはソロシンガーとして活動、それぞれノルウェーでナンバー1ヒットを記録している。マグネはKjetil BjerkestrandとTimbersoundというユニットを組み、ノルウェー映画やTVドラマのサウンドトラック制作を手がける一方、画家・彫刻家としての地位を築いている。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に[ノーベル平和賞](../Page/ノーベル平和賞.md "wikilink")記念コンサートを機にバンドとしての活動を再開。[2000年](../Page/2000年.md "wikilink")に発売されたアルバム「Minor Earth Major Sky」は[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")を中心とするヨーロッパ各国でプラチナ･アルバムを獲得する大ヒットとなった。[2006年](../Page/2006年.md "wikilink")1月には、シングル「Analogue (All I Want)」が18年ぶりに全英チャートにトップ10入りしている。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")11月に、イギリスの音楽雑誌「Q Magazine」の主催するQ Awardsで「Q Inspiration Award」を受賞している。
+[2006年](../Page/2006年.md "wikilink")11月に、イギリスの音楽雑誌「Q Magazine」の主催するQ Awardsで「Q Inspiration Award」を受賞している。
 
 [2009年](../Page/2009年.md "wikilink")6月に発売された通算9枚目のアルバム「Foot of The Mountain」でバンドのルーツである80年代シンセサウンドを復活させている。先行発売された[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")ではアルバムチャート1位、母国[ノルウェー](../Page/ノルウェー.md "wikilink")では2位を記録。7月末に発売された[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")では、8月2日発表の同月8日付け全英アルバムチャートで初登場5位を記録。[1988年](../Page/1988年.md "wikilink")に2位を記録したアルバム『Stay on These Roads』以来21年ぶり４枚目の全英トップ10ヒットとなった。アルバムタイトルでもあるシングル曲「Foot of The Mountain」は、[2009年](../Page/2009年.md "wikilink")8月に[ベルリン](https://ja.wikipedia.org/wiki/ベルリン "wikilink")で開催される[世界陸上競技選手権大会](../Page/世界陸上競技選手権大会.md "wikilink")(世界陸上)の公式テーマ曲に選出された。2009年10月、2010年のツアーを最後に解散することを発表した\[1\]。
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")8月7日・8日には[SUMMER SONICに出演した](https://ja.wikipedia.org/wiki/サマーソニック "wikilink")。そして12月4日に行われた[ノルウェー](../Page/ノルウェー.md "wikilink")・オスロスペクトラムでのライブを最後に、バンド活動に終止符を打った。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")8月7日・8日には[SUMMER SONICに出演した](../Page/サマーソニック.md "wikilink")。そして12月4日に行われた[ノルウェー](../Page/ノルウェー.md "wikilink")・オスロスペクトラムでのライブを最後に、バンド活動に終止符を打った。
 
 [2012年](../Page/2012年.md "wikilink")11月6日、ノルウェー王国[聖オーラヴ勲章](https://ja.wikipedia.org/wiki/聖オーラヴ勲章 "wikilink")第1級騎士を授与された\[2\]
 
 [2015年](../Page/2015年.md "wikilink")9月、30周年を記念して[ロック・イン・リオ](https://ja.wikipedia.org/wiki/ロック・イン・リオ "wikilink")6で再結成パフォーマンスを行うと発表した。同年9月4日、6年ぶり10枚目のニューアルバム「Cast In Steel」をリリース。2009年に発売された9枚目のアルバム「Foot of The Mountain」以来6年ぶり5枚目の全英アルバムチャートトップ10ヒットとなった。[2016年](../Page/2016年.md "wikilink")にイギリス、ドイツ他でツアーを予定している。\[3\]
 
-[2017年](../Page/2017年.md "wikilink")9月8日、[MTVアンプラグド](../Page/MTVアンプラグド.md "wikilink")in Giskeで新曲2曲(This Is Our Home・A Break In The Clouds)を披露した。ゲストにAlison Moyet (元[ヤズー](https://ja.wikipedia.org/wiki/ヤズー "wikilink"))、Ian McCulloch([エコー&ザ・バニーメン](https://ja.wikipedia.org/wiki/エコー&ザ・バニーメン "wikilink")）、Lissie, Ingrid Helene Håvik（ノルウェイのインディ・バンドHighasakiteのリード・ヴォーカル）が参加。DVD、ブルーレイ化されている。
+[2017年](../Page/2017年.md "wikilink")9月8日、[MTVアンプラグド](../Page/MTVアンプラグド.md "wikilink")in Giskeで新曲2曲(This Is Our Home・A Break In The Clouds)を披露した。ゲストにAlison Moyet (元[ヤズー](https://ja.wikipedia.org/wiki/ヤズー "wikilink"))、Ian McCulloch([エコー&ザ・バニーメン](../Page/エコー&ザ・バニーメン.md "wikilink")）、Lissie, Ingrid Helene Håvik（ノルウェイのインディ・バンドHighasakiteのリード・ヴォーカル）が参加。DVD、ブルーレイ化されている。
 
 9月17日[2018年](../Page/2018年.md "wikilink")春夏ロンドンコレクションで[エンポリオ・アルマーニ](https://ja.wikipedia.org/wiki/エンポリオ・アルマーニ "wikilink")のショー後に行われたアフターパーティでLiveが行われた。
 
-2018年夏、前座に[OMD](https://ja.wikipedia.org/wiki/OMD "wikilink")、Tom Bailey([トンプソン・ツインズ](https://ja.wikipedia.org/wiki/トンプソン・ツインズ "wikilink"))をゲストに迎え、エレクトリック・ツアーを行うとSNS上で発表した。
+2018年夏、前座に[OMD](https://ja.wikipedia.org/wiki/OMD "wikilink")、Tom Bailey([トンプソン・ツインズ](../Page/トンプソン・ツインズ.md "wikilink"))をゲストに迎え、エレクトリック・ツアーを行うとSNS上で発表した。
 
 [2020年](../Page/2020年.md "wikilink")3月10日から10年ぶりの単独来日公演が決定。ファーストアルバムを完全再現した内容になると発表された。
 
@@ -163,7 +163,7 @@
 <!-- end list -->
 
   -
-    ([2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[8月27日](../Page/8月27日.md "wikilink")～[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月11日](../Page/11月11日.md "wikilink")　ドイツ、ノルウェー、アメリカ、ベルギー、オランダ、イギリス、セネガル、イタリア、ウクライナ、ロシア)
+    ([2005年](../Page/2005年.md "wikilink")[8月27日](../Page/8月27日.md "wikilink")～[2006年](../Page/2006年.md "wikilink")[11月11日](../Page/11月11日.md "wikilink")　ドイツ、ノルウェー、アメリカ、ベルギー、オランダ、イギリス、セネガル、イタリア、ウクライナ、ロシア)
 
 <!-- end list -->
 
@@ -226,7 +226,7 @@
 <!-- end list -->
 
   -
-    7月2日・7日 東京・[NHKホール](https://ja.wikipedia.org/wiki/NHKホール "wikilink")、7月3日・5日・22日 東京・[渋谷公会堂](https://ja.wikipedia.org/wiki/渋谷公会堂 "wikilink")、7月9日 [福岡サンパレス](https://ja.wikipedia.org/wiki/福岡サンパレス "wikilink")、7月10日・11日 [神戸国際会館](https://ja.wikipedia.org/wiki/神戸国際会館 "wikilink")、7月12日 大阪・[フェスティバルホール](../Page/フェスティバルホール.md "wikilink")、7月14日 [広島郵便貯金会館](../Page/広島県立文化芸術ホール.md "wikilink")、7月15日 岡山・[倉敷市民会館](https://ja.wikipedia.org/wiki/倉敷市民会館 "wikilink")、7月17日・18日 [名古屋市公会堂](https://ja.wikipedia.org/wiki/名古屋市公会堂 "wikilink")、7月19日 [横浜文化体育館](https://ja.wikipedia.org/wiki/横浜文化体育館 "wikilink")、7月22日 東京・[中野サンプラザ](https://ja.wikipedia.org/wiki/中野サンプラザ "wikilink")、7月24日 [北海道厚生年金会館](https://ja.wikipedia.org/wiki/さっぽろ芸術文化の館 "wikilink")
+    7月2日・7日 東京・[NHKホール](../Page/NHKホール.md "wikilink")、7月3日・5日・22日 東京・[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")、7月9日 [福岡サンパレス](../Page/福岡サンパレス.md "wikilink")、7月10日・11日 [神戸国際会館](../Page/神戸国際会館.md "wikilink")、7月12日 大阪・[フェスティバルホール](../Page/フェスティバルホール.md "wikilink")、7月14日 [広島郵便貯金会館](../Page/広島県立文化芸術ホール.md "wikilink")、7月15日 岡山・[倉敷市民会館](../Page/倉敷市民会館.md "wikilink")、7月17日・18日 [名古屋市公会堂](../Page/名古屋市公会堂.md "wikilink")、7月19日 [横浜文化体育館](../Page/横浜文化体育館.md "wikilink")、7月22日 東京・[中野サンプラザ](../Page/中野サンプラザ.md "wikilink")、7月24日 [北海道厚生年金会館](../Page/さっぽろ芸術文化の館.md "wikilink")
 
 <!-- end list -->
 
@@ -235,7 +235,7 @@
 <!-- end list -->
 
   -
-    6月21日 [名古屋市国際展示場](https://ja.wikipedia.org/wiki/名古屋市国際展示場 "wikilink")、6月22日・23日・7月2日 東京・[日本武道館](../Page/日本武道館.md "wikilink")、6月25日 札幌・[真駒内屋内競技場](https://ja.wikipedia.org/wiki/真駒内屋内競技場 "wikilink")、6月27日 [仙台市体育館](https://ja.wikipedia.org/wiki/仙台市体育館 "wikilink")、6月29日 [大阪城ホール](../Page/大阪城ホール.md "wikilink")、6月30日 [神戸ワールド記念ホール](https://ja.wikipedia.org/wiki/神戸ワールド記念ホール "wikilink")、7月1日 [横浜文化体育館](https://ja.wikipedia.org/wiki/横浜文化体育館 "wikilink")、7月3日 [静岡市民文化会館](../Page/静岡市民文化会館.md "wikilink")、7月5日 [広島厚生年金会館](https://ja.wikipedia.org/wiki/広島厚生年金会館 "wikilink")、7月6日 [福岡国際センター](https://ja.wikipedia.org/wiki/福岡国際センター "wikilink")、7月7日 [松山市民会館](../Page/松山市民会館.md "wikilink")、7月9日 [長野県民文化会館](https://ja.wikipedia.org/wiki/長野県民文化会館 "wikilink")、7月10日 [山梨県民文化ホール](https://ja.wikipedia.org/wiki/山梨県民文化ホール "wikilink")、7月11日 [新潟県民会館](https://ja.wikipedia.org/wiki/新潟県民会館 "wikilink")、7月12日 [石川厚生年金会館](https://ja.wikipedia.org/wiki/北陸電力会館_本多の森ホール "wikilink")
+    6月21日 [名古屋市国際展示場](../Page/名古屋市国際展示場.md "wikilink")、6月22日・23日・7月2日 東京・[日本武道館](../Page/日本武道館.md "wikilink")、6月25日 札幌・[真駒内屋内競技場](../Page/真駒内屋内競技場.md "wikilink")、6月27日 [仙台市体育館](../Page/仙台市体育館.md "wikilink")、6月29日 [大阪城ホール](../Page/大阪城ホール.md "wikilink")、6月30日 [神戸ワールド記念ホール](https://ja.wikipedia.org/wiki/神戸ワールド記念ホール "wikilink")、7月1日 [横浜文化体育館](../Page/横浜文化体育館.md "wikilink")、7月3日 [静岡市民文化会館](../Page/静岡市民文化会館.md "wikilink")、7月5日 [広島厚生年金会館](https://ja.wikipedia.org/wiki/広島厚生年金会館 "wikilink")、7月6日 [福岡国際センター](../Page/福岡国際センター.md "wikilink")、7月7日 [松山市民会館](../Page/松山市民会館.md "wikilink")、7月9日 [長野県民文化会館](https://ja.wikipedia.org/wiki/長野県民文化会館 "wikilink")、7月10日 [山梨県民文化ホール](https://ja.wikipedia.org/wiki/山梨県民文化ホール "wikilink")、7月11日 [新潟県民会館](../Page/新潟県民会館.md "wikilink")、7月12日 [石川厚生年金会館](../Page/北陸電力会館_本多の森ホール.md "wikilink")
 
 <!-- end list -->
 
@@ -244,7 +244,7 @@
 <!-- end list -->
 
   -
-    9月3日 [福岡サンパレス](https://ja.wikipedia.org/wiki/福岡サンパレス "wikilink")、9月5日 [九州厚生年金会館](https://ja.wikipedia.org/wiki/九州厚生年金会館 "wikilink")、9月6日 [愛媛県民文化会館](https://ja.wikipedia.org/wiki/愛媛県民文化会館 "wikilink")、9月8日 [長野県民文化会館](https://ja.wikipedia.org/wiki/長野県民文化会館 "wikilink")、9月9日 [宮城県スポーツセンター](https://ja.wikipedia.org/wiki/宮城県スポーツセンター "wikilink")、 9月11日 北海道厚生年金会館、9月13日 大阪城ホール、9月14日 広島郵便貯金会館、9月16日・17日・30日 東京・日本武道館、9月18日 神戸ワールド記念ホール、9月20日 静岡市民文化会館、9月21日 新潟県民会館、9月22日 山梨県文化ホール、9月24日 [愛知県体育館](https://ja.wikipedia.org/wiki/愛知県体育館 "wikilink")、9月26日 [金沢市観光会館](https://ja.wikipedia.org/wiki/金沢市観光会館 "wikilink")、9月27日 [群馬県民会館](../Page/群馬県民会館.md "wikilink")、9月28日 横浜文化体育館
+    9月3日 [福岡サンパレス](../Page/福岡サンパレス.md "wikilink")、9月5日 [九州厚生年金会館](https://ja.wikipedia.org/wiki/九州厚生年金会館 "wikilink")、9月6日 [愛媛県民文化会館](https://ja.wikipedia.org/wiki/愛媛県民文化会館 "wikilink")、9月8日 [長野県民文化会館](https://ja.wikipedia.org/wiki/長野県民文化会館 "wikilink")、9月9日 [宮城県スポーツセンター](../Page/宮城県スポーツセンター.md "wikilink")、 9月11日 北海道厚生年金会館、9月13日 大阪城ホール、9月14日 広島郵便貯金会館、9月16日・17日・30日 東京・日本武道館、9月18日 神戸ワールド記念ホール、9月20日 静岡市民文化会館、9月21日 新潟県民会館、9月22日 山梨県文化ホール、9月24日 [愛知県体育館](../Page/愛知県体育館.md "wikilink")、9月26日 [金沢市観光会館](https://ja.wikipedia.org/wiki/金沢市観光会館 "wikilink")、9月27日 [群馬県民会館](../Page/群馬県民会館.md "wikilink")、9月28日 横浜文化体育館
 
 <!-- end list -->
 
@@ -253,7 +253,7 @@
 <!-- end list -->
 
   -
-    11月8日 [大阪厚生年金会館](https://ja.wikipedia.org/wiki/大阪厚生年金会館 "wikilink")、11月9日 [Zepp FUKUOKA](https://ja.wikipedia.org/wiki/Zepp#Zepp_Fukuoka "wikilink")、11月11日 広島郵便貯金会館、11月13日 [東京厚生年金会館](https://ja.wikipedia.org/wiki/東京厚生年金会館 "wikilink")、11月14日 [東京国際フォーラム](https://ja.wikipedia.org/wiki/東京国際フォーラム "wikilink") ホールA、11月16日 [宮城県民会館](https://ja.wikipedia.org/wiki/宮城県民会館 "wikilink")、11月18日 静岡市民文化会館
+    11月8日 [大阪厚生年金会館](https://ja.wikipedia.org/wiki/大阪厚生年金会館 "wikilink")、11月9日 [Zepp FUKUOKA](https://ja.wikipedia.org/wiki/Zepp#Zepp_Fukuoka "wikilink")、11月11日 広島郵便貯金会館、11月13日 [東京厚生年金会館](../Page/東京厚生年金会館.md "wikilink")、11月14日 [東京国際フォーラム](../Page/東京国際フォーラム.md "wikilink") ホールA、11月16日 [宮城県民会館](../Page/宮城県民会館.md "wikilink")、11月18日 静岡市民文化会館
 
 <!-- end list -->
 
@@ -266,7 +266,7 @@
 
 <!-- end list -->
 
-  - [SUMMER SONIC 2010](https://ja.wikipedia.org/wiki/サマーソニック "wikilink")(2010年)
+  - [SUMMER SONIC 2010](../Page/サマーソニック.md "wikilink")(2010年)
 
 <!-- end list -->
 

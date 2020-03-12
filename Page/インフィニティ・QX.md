@@ -1,20 +1,20 @@
 > この記事は[QX](https://ja.wikipedia.org/wiki/QX)から翻訳されています。
 
 
-**QX**は、[日産で製造](../Page/日産自動車.md "wikilink")、[インフィニティブランドで販売していた](https://ja.wikipedia.org/wiki/インフィニティ_\(日産自動車\) "wikilink")[スポーツ・ユーティリティ・ビークル](../Page/スポーツ・ユーティリティ・ビークル.md "wikilink")（SUV）である。
+**QX**は、[日産で製造](../Page/日産自動車.md "wikilink")、[インフィニティブランドで販売していた](../Page/インフィニティ_\(日産自動車\).md "wikilink")[スポーツ・ユーティリティ・ビークル](../Page/スポーツ・ユーティリティ・ビークル.md "wikilink")（SUV）である。
 
 ## 歴代モデル
 
 ### 初代 JR50型 (1996-2003年)
 
-[R50型テラノ](https://ja.wikipedia.org/wiki/日産・テラノ#2代目_R50型_\(1995-2002年\) "wikilink")（[パスファインダー](../Page/日産・パスファインダー.md "wikilink")）をインフィニティ向けにデザインし直したもので、インフィニティブランドとしては初のSUVである。[アキュラ・SLX](https://ja.wikipedia.org/wiki/アキュラ・SLX "wikilink")および[レクサス・LX](https://ja.wikipedia.org/wiki/レクサス・LX "wikilink")発売の約1年後である1996年に1997年[モデルとして投入された](https://ja.wikipedia.org/wiki/モデルイヤー "wikilink")。これを日本国内向けとしたものがテラノレグラスである。
+[R50型テラノ](https://ja.wikipedia.org/wiki/日産・テラノ#2代目_R50型_\(1995-2002年\) "wikilink")（[パスファインダー](../Page/日産・パスファインダー.md "wikilink")）をインフィニティ向けにデザインし直したもので、インフィニティブランドとしては初のSUVである。[アキュラ・SLX](https://ja.wikipedia.org/wiki/アキュラ・SLX "wikilink")および[レクサス・LX](../Page/レクサス・LX.md "wikilink")発売の約1年後である1996年に1997年[モデルとして投入された](https://ja.wikipedia.org/wiki/モデルイヤー "wikilink")。これを日本国内向けとしたものがテラノレグラスである。
 
-同時に北米で販売されていたパスファインダーとの違いとして、[AWDシステムの機能向上](../Page/四輪駆動.md "wikilink")、インテリアの高級化が挙げられる。ただ、[高級車](https://ja.wikipedia.org/wiki/高級車 "wikilink")ではあったものの、[最低地上高](https://ja.wikipedia.org/wiki/最低地上高 "wikilink")は211 mmで、[オフロード](../Page/オフロード.md "wikilink")カーとしての能力も有していた。
+同時に北米で販売されていたパスファインダーとの違いとして、[AWDシステムの機能向上](../Page/四輪駆動.md "wikilink")、インテリアの高級化が挙げられる。ただ、[高級車](../Page/高級車.md "wikilink")ではあったものの、[最低地上高](../Page/最低地上高.md "wikilink")は211 mmで、[オフロード](../Page/オフロード.md "wikilink")カーとしての能力も有していた。
 
-2列5人乗り。[VG33E型](../Page/日産・VGエンジン.md "wikilink") 3.3リットル [V6](https://ja.wikipedia.org/wiki/V型6気筒 "wikilink") [SOHC](../Page/SOHC.md "wikilink")（後期型は[VQ35DE型](https://ja.wikipedia.org/wiki/日産・VQエンジン "wikilink") 3.5リットル V6 [DOHC](../Page/DOHC.md "wikilink")）エンジンに4速[ATを組み合わせる](../Page/オートマチックトランスミッション.md "wikilink")。エンジンは[福島県](../Page/福島県.md "wikilink")のいわき工場で、車体は[九州工場で生産が行われた](https://ja.wikipedia.org/wiki/日産自動車九州工場 "wikilink")\[1\]。
+2列5人乗り。[VG33E型](../Page/日産・VGエンジン.md "wikilink") 3.3リットル [V6](../Page/V型6気筒.md "wikilink") [SOHC](../Page/SOHC.md "wikilink")（後期型は[VQ35DE型](../Page/日産・VQエンジン.md "wikilink") 3.5リットル V6 [DOHC](../Page/DOHC.md "wikilink")）エンジンに4速[ATを組み合わせる](../Page/オートマチックトランスミッション.md "wikilink")。エンジンは[福島県](../Page/福島県.md "wikilink")のいわき工場で、車体は[九州工場で生産が行われた](https://ja.wikipedia.org/wiki/日産自動車九州工場 "wikilink")\[1\]。
 
   - 2000年
-    2001年モデルとしてマイナーチェンジ。フェイスリフトが行われたほか、搭載エンジンがV6 3.3リットルからV6 3.5リットルに変更され、出力も125 kW (168 hp) から179 kW (240 hp) に向上した。また、[タイミングベルト](https://ja.wikipedia.org/wiki/タイミングベルト "wikilink")が[タイミングチェーン](../Page/タイミングチェーン.md "wikilink")と交換され、[RWDモデルも追加された](https://ja.wikipedia.org/wiki/後輪駆動 "wikilink")。さらに、時計一体型の[ダッシュボードや](https://ja.wikipedia.org/wiki/ダッシュボード_\(自動車\) "wikilink")、17インチ[アルミホイール](../Page/アルミホイール.md "wikilink")や[キセノンヘッドランプが装備された](../Page/ディスチャージヘッドランプ.md "wikilink")。
+    2001年モデルとしてマイナーチェンジ。フェイスリフトが行われたほか、搭載エンジンがV6 3.3リットルからV6 3.5リットルに変更され、出力も125 kW (168 hp) から179 kW (240 hp) に向上した。また、[タイミングベルト](../Page/タイミングベルト.md "wikilink")が[タイミングチェーン](../Page/タイミングチェーン.md "wikilink")と交換され、[RWDモデルも追加された](../Page/後輪駆動.md "wikilink")。さらに、時計一体型の[ダッシュボードや](../Page/ダッシュボード_\(自動車\).md "wikilink")、17インチ[アルミホイール](../Page/アルミホイール.md "wikilink")や[キセノンヘッドランプが装備された](../Page/ディスチャージヘッドランプ.md "wikilink")。
   - 2002年11月
     生産を終了。
   - 2003年
@@ -24,7 +24,7 @@
 
 ### 2代目 JA60型 (2004-2010年)
 
-北米製フルサイズ[ピックアップである](https://ja.wikipedia.org/wiki/ピックアップトラック "wikilink")[タイタンをベースとし](../Page/日産・タイタン.md "wikilink")、[プラットフォームとして](https://ja.wikipedia.org/wiki/プラットフォーム_\(自動車\) "wikilink")[F-Alphaプラットフォームが採用され](https://ja.wikipedia.org/wiki/日産・F-Alphaプラットフォーム "wikilink")、QX4よりも大型化された。3列シートの8人乗り、および2列目がキャプテンシートの7人乗りのワゴンボディーが与えられた。エンジンは[VK56DE型](../Page/日産・VKエンジン.md "wikilink") 5.6リットル [V8](../Page/V型8気筒.md "wikilink") DOHCエンジンで、[オーバードライブ](https://ja.wikipedia.org/wiki/オーバードライブ "wikilink")装置付き5速[ATが組み合わされた](../Page/オートマチックトランスミッション.md "wikilink")。また、2005年モデルからは[RWDモデルも追加された](https://ja.wikipedia.org/wiki/後輪駆動 "wikilink")。
+北米製フルサイズ[ピックアップである](../Page/ピックアップトラック.md "wikilink")[タイタンをベースとし](../Page/日産・タイタン.md "wikilink")、[プラットフォームとして](../Page/プラットフォーム_\(自動車\).md "wikilink")[F-Alphaプラットフォームが採用され](https://ja.wikipedia.org/wiki/日産・F-Alphaプラットフォーム "wikilink")、QX4よりも大型化された。3列シートの8人乗り、および2列目がキャプテンシートの7人乗りのワゴンボディーが与えられた。エンジンは[VK56DE型](../Page/日産・VKエンジン.md "wikilink") 5.6リットル [V8](../Page/V型8気筒.md "wikilink") DOHCエンジンで、[オーバードライブ](../Page/オーバードライブ.md "wikilink")装置付き5速[ATが組み合わされた](../Page/オートマチックトランスミッション.md "wikilink")。また、2005年モデルからは[RWDモデルも追加された](../Page/後輪駆動.md "wikilink")。
 
 車体は米国[ミシシッピ州](https://ja.wikipedia.org/wiki/ミシシッピ州 "wikilink")の[キャントン工場](https://ja.wikipedia.org/wiki/カントン_\(ミシシッピ州\) "wikilink")、エンジンは[テネシー州](../Page/テネシー州.md "wikilink")のデカード工場にて生産された。なお、このモデルはアメリカで生産された最初のインフィニティモデルである。
 
@@ -41,13 +41,13 @@
   - 2009年[5月11日](../Page/5月11日.md "wikilink")
     [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")モデルを発表。
 
-[インフィニティ・FX](https://ja.wikipedia.org/wiki/インフィニティ・FX "wikilink")同様、日本の輸入SUVディーラーが逆輸入（並行輸入）という形で販売している。
+[インフィニティ・FX](../Page/インフィニティ・FX.md "wikilink")同様、日本の輸入SUVディーラーが逆輸入（並行輸入）という形で販売している。
 
 {{-}}
 
 ### 3代目 Z62型 (2010-2014年)
 
-2010年4月の[ニューヨーク国際オートショー](https://ja.wikipedia.org/wiki/ニューヨーク国際オートショー "wikilink")\[2\]、ならびに[北京モーターショー](https://ja.wikipedia.org/wiki/北京モーターショー "wikilink")で発表された。
+2010年4月の[ニューヨーク国際オートショー](../Page/ニューヨーク国際オートショー.md "wikilink")\[2\]、ならびに[北京モーターショー](https://ja.wikipedia.org/wiki/北京モーターショー "wikilink")で発表された。
 
 今回のモデルは4代目パトロール（Y62型）と主要コンポーネントを共用することで、クオリティを更に向上させながら価格上昇をも抑えた。エンジンには[M56にも搭載される](https://ja.wikipedia.org/wiki/インフィニティ・M "wikilink")[VK56VDを](https://ja.wikipedia.org/wiki/日産・VK56VD "wikilink")、QXの性格に合わせ低中速トルク重視としたチューニングを施した上で搭載した。なお、このモデルから生産が日本の[日産車体九州](https://ja.wikipedia.org/wiki/日産車体九州 "wikilink")に移行されている\[3\]。
 
@@ -76,8 +76,8 @@
 ## 関連項目
 
   - [日産自動車](../Page/日産自動車.md "wikilink")
-  - [日産・テラノ](https://ja.wikipedia.org/wiki/日産・テラノ "wikilink")
-  - [日産・サファリ](https://ja.wikipedia.org/wiki/日産・サファリ "wikilink")
+  - [日産・テラノ](../Page/日産・テラノ.md "wikilink")
+  - [日産・サファリ](../Page/日産・サファリ.md "wikilink")
   - [日産・タイタン](../Page/日産・タイタン.md "wikilink")
   - [日産・エクステラ](../Page/日産・エクステラ.md "wikilink")
   - [日産・アルマーダ](../Page/日産・アルマーダ.md "wikilink")

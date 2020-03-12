@@ -1,15 +1,15 @@
 > この記事は[SAY](https://ja.wikipedia.org/wiki/SAY)から翻訳されています。
 
 
-『**SAYスーパーニュース**』（セイ スーパーニュース、[ラテン文字](../Page/ラテン文字.md "wikilink")表記：*SAY Super NEWS*）は、[さくらんぼテレビで放送されていた夕方の](../Page/さくらんぼテレビジョン.md "wikilink")[山形県](https://ja.wikipedia.org/wiki/山形県 "wikilink")向け[ローカルワイド](https://ja.wikipedia.org/wiki/ローカルワイド番組 "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")。
+『**SAYスーパーニュース**』（セイ スーパーニュース、[ラテン文字](../Page/ラテン文字.md "wikilink")表記：*SAY Super NEWS*）は、[さくらんぼテレビで放送されていた夕方の](../Page/さくらんぼテレビジョン.md "wikilink")[山形県](../Page/山形県.md "wikilink")向け[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")。
 
 ## 放送時間
 
 ### 平日
 
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月30日](../Page/3月30日.md "wikilink") - [2000年](../Page/2000年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink") 17:54.45-19:00（一時期、17:25-17:55の関東ローカルパートもネット）
-  - 2000年[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink") - [2004年](../Page/2004年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink") 17:53.45-19:00
-  - 2004年[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink") - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")3月31日 16:59-19:00
+  - 2000年[4月3日](../Page/4月3日.md "wikilink") - [2004年](../Page/2004年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink") 17:53.45-19:00
+  - 2004年[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink") - [2005年](../Page/2005年.md "wikilink")3月31日 16:59-19:00
   - 2005年[4月1日](../Page/4月1日.md "wikilink") - [2007年](../Page/2007年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink") 16:55-19:00
   - 2007年10月1日 - 2011年ころ 16:52-19:00 - 冒頭1分間に全国ヘッドライン1項目・山形県内ヘッドライン1項目を紹介
   - 2011年ころ - 2012年3月30日 16:53-19:00
@@ -41,17 +41,17 @@
 
 ### 週末
 
-  - [岩渕葵](https://ja.wikipedia.org/wiki/岩渕葵 "wikilink")が担当する。岩渕[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")が休みの場合はシフト担当となる。
+  - [岩渕葵](../Page/岩渕葵.md "wikilink")が担当する。岩渕[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")が休みの場合はシフト担当となる。
 
 ### 過去
 
   - [対馬孝之](../Page/対馬孝之.md "wikilink")（現[青森朝日放送](../Page/青森朝日放送.md "wikilink")アナウンサー。平日メインキャスター）
-  - [丹舞子](https://ja.wikipedia.org/wiki/丹舞子 "wikilink")（当時同局アナウンサーで元[福島放送](../Page/福島放送.md "wikilink")アナウンサー。平日サブキャスター）
+  - [丹舞子](../Page/丹舞子.md "wikilink")（当時同局アナウンサーで元[福島放送](../Page/福島放送.md "wikilink")アナウンサー。平日サブキャスター）
   - [林いくみ](https://ja.wikipedia.org/wiki/林いくみ "wikilink")（当時アナウンサー。平日サブ→メインキャスター）
-  - [榎戸教子](https://ja.wikipedia.org/wiki/榎戸教子 "wikilink")（現[テレビ大阪](../Page/テレビ大阪.md "wikilink")アナウンサー。天気予報担当）
+  - [榎戸教子](../Page/榎戸教子.md "wikilink")（現[テレビ大阪](../Page/テレビ大阪.md "wikilink")アナウンサー。天気予報担当）
   - [海野麻美](https://ja.wikipedia.org/wiki/海野麻美 "wikilink")（当時アナウンサー。天気予報担当）
-  - [遠藤敦子](https://ja.wikipedia.org/wiki/遠藤敦子 "wikilink")（現報道部主任。土曜日・日曜日キャスター→天気予報担当→平日サブキャスター）
-  - [武藤悠代](https://ja.wikipedia.org/wiki/武藤悠代 "wikilink")（当時アナウンサーで[NHK山形放送局](https://ja.wikipedia.org/wiki/NHK山形放送局 "wikilink")契約キャスターでもあった。天気予報担当）
+  - [遠藤敦子](../Page/遠藤敦子.md "wikilink")（現報道部主任。土曜日・日曜日キャスター→天気予報担当→平日サブキャスター）
+  - [武藤悠代](https://ja.wikipedia.org/wiki/武藤悠代 "wikilink")（当時アナウンサーで[NHK山形放送局](../Page/NHK山形放送局.md "wikilink")契約キャスターでもあった。天気予報担当）
   - [安井成行](https://ja.wikipedia.org/wiki/安井成行 "wikilink")（現[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")アナウンサー。週刊スポーツ担当）
   - [鈴木智子](https://ja.wikipedia.org/wiki/小岩智子 "wikilink")（現[静岡第一テレビ](../Page/静岡第一テレビ.md "wikilink")アナウンサー。平日サブキャスター。2005年8月1日-）
   - [吉田菜穂](https://ja.wikipedia.org/wiki/吉田菜穂 "wikilink")（当時アナウンサー。月曜日の天気予報担当）
@@ -136,7 +136,7 @@
   -
 
       -
-        FNNスーパーニュースの[関東ローカル](https://ja.wikipedia.org/wiki/関東ローカル "wikilink")コーナー「スーパー特報」の短縮録画放送。
+        FNNスーパーニュースの[関東ローカル](../Page/関東ローカル.md "wikilink")コーナー「スーパー特報」の短縮録画放送。
 
 <!-- end list -->
 
@@ -164,7 +164,7 @@
 
 ## SAY歴代の夕方ニュース
 
-  - 1997年3月15日 - 1997年3月30日『[SAYスーパータイム](https://ja.wikipedia.org/wiki/SAYスーパータイム "wikilink")』
+  - 1997年3月15日 - 1997年3月30日『[SAYスーパータイム](../Page/SAYスーパータイム.md "wikilink")』
   - 1997年3月31日 - 1998年3月29日『[SAYニュース555 ザ・ヒューマン](https://ja.wikipedia.org/wiki/SAYニュース555_ザ・ヒューマン "wikilink")』
   - 1998年3月30日 - 2015年3月29日『SAYスーパーニュース』
   - 2015年3月30日 - 2018年4月1日『[さくらんぼテレビ みんなのニュース](https://ja.wikipedia.org/wiki/さくらんぼテレビ_みんなのニュース "wikilink")』

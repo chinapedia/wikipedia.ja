@@ -1,19 +1,19 @@
 > この記事は[AS](https://ja.wikipedia.org/wiki/AS)から翻訳されています。
 
 
-**アソシアシヨン・スポルティーヴ・ナンシー・ロレーヌ**（**Association Sportive Nancy Lorraine**）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[ナンシー](https://ja.wikipedia.org/wiki/ナンシー "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。
+**アソシアシヨン・スポルティーヴ・ナンシー・ロレーヌ**（**Association Sportive Nancy Lorraine**）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[ナンシー](../Page/ナンシー.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。
 
 ## 歴史
 
-[220px](https://ja.wikipedia.org/wiki/ファイル:Mpicotnancy.jpg "wikilink") [1967年](../Page/1967年.md "wikilink")創設。1970年代には[ミシェル・プラティニ](../Page/ミシェル・プラティニ.md "wikilink")を擁し、1976-77シーズンにクラブ最高位となる[リーグ](../Page/リーグ・アン.md "wikilink")4位に躍進。1977-78シーズンに初のタイトルとなる[フランスカップを獲得した](https://ja.wikipedia.org/wiki/クープ・ドゥ・フランス "wikilink")。
+[220px](https://ja.wikipedia.org/wiki/ファイル:Mpicotnancy.jpg "wikilink") [1967年](../Page/1967年.md "wikilink")創設。1970年代には[ミシェル・プラティニ](../Page/ミシェル・プラティニ.md "wikilink")を擁し、1976-77シーズンにクラブ最高位となる[リーグ](../Page/リーグ・アン.md "wikilink")4位に躍進。1977-78シーズンに初のタイトルとなる[フランスカップを獲得した](../Page/クープ・ドゥ・フランス.md "wikilink")。
 
-2004-05シーズンに[リーグ・ドゥ](../Page/リーグ・ドゥ.md "wikilink")（2部）で優勝。2005-06シーズンは昇格後1年目にして[リーグカップを制した](../Page/クープ・ドゥ・ラ・リーグ.md "wikilink")。これにより[UEFAカップ出場権を手にし](../Page/UEFAヨーロッパリーグ.md "wikilink")、1978-79シーズン以来となる2度目の欧州カップ戦に参加。UEFAカップでは[シャルケ04](https://ja.wikipedia.org/wiki/シャルケ04 "wikilink")、[フェイエノールト](../Page/フェイエノールト.md "wikilink")などの強豪を倒し、ベスト32まで進出した。2007-08シーズンは過去タイとなるリーグ4位につけ、2008-09シーズンには再び[UEFAヨーロッパリーグ](../Page/UEFAヨーロッパリーグ.md "wikilink")に出場した。2016-17シーズンには[リーグ・アン](../Page/リーグ・アン.md "wikilink")19位となり、[リーグ・ドゥ](../Page/リーグ・ドゥ.md "wikilink")降格した。
+2004-05シーズンに[リーグ・ドゥ](../Page/リーグ・ドゥ.md "wikilink")（2部）で優勝。2005-06シーズンは昇格後1年目にして[リーグカップを制した](../Page/クープ・ドゥ・ラ・リーグ.md "wikilink")。これにより[UEFAカップ出場権を手にし](../Page/UEFAヨーロッパリーグ.md "wikilink")、1978-79シーズン以来となる2度目の欧州カップ戦に参加。UEFAカップでは[シャルケ04](../Page/シャルケ04.md "wikilink")、[フェイエノールト](../Page/フェイエノールト.md "wikilink")などの強豪を倒し、ベスト32まで進出した。2007-08シーズンは過去タイとなるリーグ4位につけ、2008-09シーズンには再び[UEFAヨーロッパリーグ](../Page/UEFAヨーロッパリーグ.md "wikilink")に出場した。2016-17シーズンには[リーグ・アン](../Page/リーグ・アン.md "wikilink")19位となり、[リーグ・ドゥ](../Page/リーグ・ドゥ.md "wikilink")降格した。
 
 ## タイトル
 
 ### 国内タイトル
 
-  - **[カップ](https://ja.wikipedia.org/wiki/クープ・ドゥ・フランス "wikilink")：1回**
+  - **[カップ](../Page/クープ・ドゥ・フランス.md "wikilink")：1回**
 
 <!-- end list -->
 
@@ -117,7 +117,7 @@
 
   - [アーセン・ベンゲル](../Page/アーセン・ベンゲル.md "wikilink") 1984-1987
 
-  - [エメ・ジャケ](https://ja.wikipedia.org/wiki/エメ・ジャケ "wikilink") 1990-1991
+  - [エメ・ジャケ](../Page/エメ・ジャケ.md "wikilink") 1990-1991
 
   - [ラースロー・ベレニ](https://ja.wikipedia.org/wiki/ラースロー・ベレニ "wikilink") 1994-2000
 
@@ -139,13 +139,13 @@
 
 ### GK
 
-  - [アリ・ブムニジェル](https://ja.wikipedia.org/wiki/アリ・ブムニジェル "wikilink") 1991-1992
+  - [アリ・ブムニジェル](../Page/アリ・ブムニジェル.md "wikilink") 1991-1992
 
   - [ギー・エンディ・アセンベ](https://ja.wikipedia.org/wiki/ギー・エンディ・アセンベ "wikilink") 2011-
 
 ### DF
 
-  - [ロジェ・ルメール](https://ja.wikipedia.org/wiki/ロジェ・ルメール "wikilink") 1971-1973
+  - [ロジェ・ルメール](../Page/ロジェ・ルメール.md "wikilink") 1971-1973
 
   - [パプ・マリック・ディアカテ](https://ja.wikipedia.org/wiki/パプ・マリック・ディアカテ "wikilink") 2001-2007
 
@@ -161,7 +161,7 @@
 
   - [ヴラディミル・ペトロヴィッチ](https://ja.wikipedia.org/wiki/ヴラディミル・ペトロヴィッチ "wikilink") 1987-1988
 
-  - [ムスタファ・ハッジ](https://ja.wikipedia.org/wiki/ムスタファ・ハッジ "wikilink") 1992-1996
+  - [ムスタファ・ハッジ](../Page/ムスタファ・ハッジ.md "wikilink") 1992-1996
 
   - [ウィルソン・オルマ](../Page/ウィルソン・オルマ.md "wikilink") 1996-1997
 
@@ -171,9 +171,9 @@
 
   - [サンバ・ディアキテ](https://ja.wikipedia.org/wiki/サンバ・ディアキテ "wikilink") 2010-2012
 
-  - [ベノワ・ペドレッティ](https://ja.wikipedia.org/wiki/ベノワ・ペドレッティ "wikilink") 2015-2018
+  - [ベノワ・ペドレッティ](../Page/ベノワ・ペドレッティ.md "wikilink") 2015-2018
 
-  - [アルー・ディアッラ](https://ja.wikipedia.org/wiki/アルー・ディアッラ "wikilink") 2016-2017
+  - [アルー・ディアッラ](../Page/アルー・ディアッラ.md "wikilink") 2016-2017
 
 ### FW
 

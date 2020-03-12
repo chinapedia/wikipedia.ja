@@ -1,9 +1,9 @@
 > この記事は[Boy\'s](https://ja.wikipedia.org/wiki/Boy\'s)から翻訳されています。
 
 
-『**Boy'sたいむ**』（ぼーいずたいむ）は、[藤凪かおる](https://ja.wikipedia.org/wiki/藤凪かおる "wikilink")（ふじなぎ かおる）による[4コマ](https://ja.wikipedia.org/wiki/4コマ "wikilink")漫画作品。
+『**Boy'sたいむ**』（ぼーいずたいむ）は、[藤凪かおる](../Page/藤凪かおる.md "wikilink")（ふじなぎ かおる）による[4コマ](https://ja.wikipedia.org/wiki/4コマ "wikilink")漫画作品。
 
-[芳文社](https://ja.wikipedia.org/wiki/芳文社 "wikilink")の『[まんがタイムジャンボ](https://ja.wikipedia.org/wiki/まんがタイムジャンボ "wikilink")』[2004年](../Page/2004年.md "wikilink")9月号から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")8月号まで連載された。
+[芳文社](../Page/芳文社.md "wikilink")の『[まんがタイムジャンボ](../Page/まんがタイムジャンボ.md "wikilink")』[2004年](../Page/2004年.md "wikilink")9月号から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")8月号まで連載された。
 
 “*Reversible Life*”という副題がついている。
 
@@ -75,7 +75,7 @@
     ひろむ・龍太郎・司・篤の4人しか登場していない。他の寮生もいるはずだが初期にモブキャラで出てきた他はほとんど登場しない。
   - ファミレス
     ひろむが本来の女の子の姿でアルバイトしている。
-    制服はピンク色のチェック柄の[エプロン](https://ja.wikipedia.org/wiki/エプロン "wikilink")にミニスカート、ピンク色の[ニーソックス](https://ja.wikipedia.org/wiki/ニーソックス "wikilink")。
+    制服はピンク色のチェック柄の[エプロン](../Page/エプロン.md "wikilink")にミニスカート、ピンク色の[ニーソックス](../Page/ニーソックス.md "wikilink")。
     女の子姿のひろむに片想い中の龍太郎のせいで、男子寮生がよく来店する。
 
 ## 書誌情報等

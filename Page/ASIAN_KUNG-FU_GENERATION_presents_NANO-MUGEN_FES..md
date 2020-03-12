@@ -1,13 +1,13 @@
 > この記事は[ASIAN KUNG-FU GENERATION presents NANO-MUGEN FES.](https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION_presents_NANO-MUGEN_FES.)から翻訳されています。
 
 
-**ASIAN KUNG-FU GENERATION presents NANO-MUGEN FES.**（アジアン カンフー ジェネレーション プレゼンツ ナノ-ムゲン フェス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")・[ASIAN KUNG-FU GENERATIONが主催する](https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION "wikilink")[ロック・フェスティバル](../Page/ロック・フェスティバル.md "wikilink")である。コンセプトは「日本一敷居の低いロックフェス」(但し、「敷居の低い」は誤用) である。イベント名の由来は、メンバーが当時知っていた最小の単位「[ナノ](https://ja.wikipedia.org/wiki/ナノ "wikilink")」に「[無限](../Page/無限.md "wikilink")」をかけて、「最小から無限大へ」という意味から来ている。
+**ASIAN KUNG-FU GENERATION presents NANO-MUGEN FES.**（アジアン カンフー ジェネレーション プレゼンツ ナノ-ムゲン フェス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")・[ASIAN KUNG-FU GENERATIONが主催する](../Page/ASIAN_KUNG-FU_GENERATION.md "wikilink")[ロック・フェスティバル](../Page/ロック・フェスティバル.md "wikilink")である。コンセプトは「日本一敷居の低いロックフェス」(但し、「敷居の低い」は誤用) である。イベント名の由来は、メンバーが当時知っていた最小の単位「[ナノ](https://ja.wikipedia.org/wiki/ナノ "wikilink")」に「[無限](../Page/無限.md "wikilink")」をかけて、「最小から無限大へ」という意味から来ている。
 
 [日本武道館](../Page/日本武道館.md "wikilink")での開催が第1回と思われがちであるが、メジャーデビュー以前から主催し開催している。2007年は、メンバー自身が数多くのロックフェスに出演することを希望したため、休止となった。2008年は、2006年と同じく[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")で2日間に渡って開催された。
 
 ## NANO-MUGEN FES.（新宿LOFT）
 
-[2003年](../Page/2003年.md "wikilink")[8月11日](../Page/8月11日.md "wikilink")に、[新宿LOFTで行われた](https://ja.wikipedia.org/wiki/ロフト_\(ライブハウス\) "wikilink")。これが初のNANO-MUGEN FES.である。
+[2003年](../Page/2003年.md "wikilink")[8月11日](../Page/8月11日.md "wikilink")に、[新宿LOFTで行われた](../Page/ロフト_\(ライブハウス\).md "wikilink")。これが初のNANO-MUGEN FES.である。
 
 ### 出演者
 
@@ -22,11 +22,11 @@
 <tbody>
 <tr class="odd">
 <td><p>8月11日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロフト_(ライブハウス)" title="wikilink">新宿LOFT</a></p></td>
+<td><p><a href="../Page/ロフト_(ライブハウス).md" title="wikilink">新宿LOFT</a></p></td>
 <td><ul>
 <li>ASIAN KUNG-FU GENERATION</li>
-<li><a href="https://ja.wikipedia.org/wiki/ART-SCHOOL" title="wikilink">ART-SCHOOL</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/PEALOUT" title="wikilink">PEALOUT</a></li>
+<li><a href="../Page/ART-SCHOOL.md" title="wikilink">ART-SCHOOL</a></li>
+<li><a href="../Page/PEALOUT.md" title="wikilink">PEALOUT</a></li>
 <li><a href="../Page/椿屋四重奏.md" title="wikilink">椿屋四重奏</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/HOT_SCLAP" title="wikilink">HOT SCLAP</a></li>
 </ul></td>
@@ -83,7 +83,7 @@
 <td><ul>
 <li>ASIAN KUNG-FU GENERATION</li>
 <li><a href="../Page/ACIDMAN.md" title="wikilink">ACIDMAN</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/GOING_UNDER_GROUND" title="wikilink">GOING UNDER GROUND</a></li>
+<li><a href="../Page/GOING_UNDER_GROUND.md" title="wikilink">GOING UNDER GROUND</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ストレイテナー" title="wikilink">ストレイテナー</a></li>
 </ul></td>
 </tr>
@@ -92,7 +92,7 @@
 
 ## NANO-MUGEN FES. in OSAKA
 
-[2004年](../Page/2004年.md "wikilink")[8月9日](../Page/8月9日.md "wikilink")に、[大阪なんばHatchで行われた](https://ja.wikipedia.org/wiki/湊町リバープレイス "wikilink")。これより、海外アーティストも出演するようになった。
+[2004年](../Page/2004年.md "wikilink")[8月9日](../Page/8月9日.md "wikilink")に、[大阪なんばHatchで行われた](../Page/湊町リバープレイス.md "wikilink")。これより、海外アーティストも出演するようになった。
 
 ### 出演者
 
@@ -107,10 +107,10 @@
 <tbody>
 <tr class="odd">
 <td><p>8月9日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/湊町リバープレイス" title="wikilink">なんばHatch</a></p></td>
+<td><p><a href="../Page/湊町リバープレイス.md" title="wikilink">なんばHatch</a></p></td>
 <td><ul>
 <li>ASIAN KUNG-FU GENERATION</li>
-<li><a href="https://ja.wikipedia.org/wiki/ゼブラヘッド" title="wikilink">ZEBRAHEAD</a></li>
+<li><a href="../Page/ゼブラヘッド.md" title="wikilink">ZEBRAHEAD</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/クリブス" title="wikilink">The Cribs</a></li>
 </ul></td>
 </tr>
@@ -119,7 +119,7 @@
 
 ## NANO-MUGEN FES. 2005
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月9日](../Page/7月9日.md "wikilink")に、[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")で行われた。2ステージ設けられた。また、[コンピレーションアルバムも発売された](https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION_presents_NANO-MUGEN_COMPILATION "wikilink")。
+[2005年](../Page/2005年.md "wikilink")[7月9日](../Page/7月9日.md "wikilink")に、[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")で行われた。2ステージ設けられた。また、[コンピレーションアルバムも発売された](../Page/ASIAN_KUNG-FU_GENERATION_presents_NANO-MUGEN_COMPILATION.md "wikilink")。
 
 ### 出演者
 
@@ -138,16 +138,16 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/横浜アリーナ" title="wikilink">横浜アリーナ</a></p></td>
 <td><p>A STAGE</p></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/アッシュ_(バンド)" title="wikilink">ASH</a></li>
+<li><a href="../Page/アッシュ_(バンド).md" title="wikilink">ASH</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ドッグス・ダイ・イン・ホット・カーズ" title="wikilink">Dogs Die In Hot Cars</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ELLEGARDEN" title="wikilink">ELLEGARDEN</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/SPARTA_LOCALS" title="wikilink">SPARTA LOCALS</a></li>
+<li><a href="../Page/ELLEGARDEN.md" title="wikilink">ELLEGARDEN</a></li>
+<li><a href="../Page/SPARTA_LOCALS.md" title="wikilink">SPARTA LOCALS</a></li>
 </ul></td>
 </tr>
 <tr class="even">
 <td><p>B STAGE</p></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
+<li><a href="../Page/ASIAN_KUNG-FU_GENERATION.md" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
 <li><a href="../Page/ファラー.md" title="wikilink">Farrah</a></li>
 <li><a href="../Page/インダストリアル・ソルト.md" title="wikilink">INDUSTRIAL SALT</a>[1]</li>
 <li><a href="https://ja.wikipedia.org/wiki/ストレイテナー" title="wikilink">ストレイテナー</a></li>
@@ -160,7 +160,7 @@
 
 ## NANO-MUGEN FES.2006
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月16日](../Page/7月16日.md "wikilink")・[17日に](../Page/7月17日.md "wikilink")、横浜アリーナで行われた。初の2日間開催になる。バンドステージ·アコースティックステージ・DJステージが設けられた。
+[2006年](../Page/2006年.md "wikilink")[7月16日](../Page/7月16日.md "wikilink")・[17日に](../Page/7月17日.md "wikilink")、横浜アリーナで行われた。初の2日間開催になる。バンドステージ·アコースティックステージ・DJステージが設けられた。
 
 <table>
 <thead>
@@ -177,11 +177,11 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/横浜アリーナ" title="wikilink">横浜アリーナ</a></p></td>
 <td><p>BAND STAGE</p></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
+<li><a href="../Page/ASIAN_KUNG-FU_GENERATION.md" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/THE_RENTALS" title="wikilink">THE RENTALS</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/SILVER_SUN" title="wikilink">SILVER SUN</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ELLEGARDEN" title="wikilink">ELLEGARDEN</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/MO&#39;SOME_TONEBENDER" title="wikilink">MO'SOME TONEBENDER</a></li>
+<li><a href="../Page/ELLEGARDEN.md" title="wikilink">ELLEGARDEN</a></li>
+<li><a href="../Page/MO&#39;SOME_TONEBENDER.md" title="wikilink">MO'SOME TONEBENDER</a></li>
 <li><a href="../Page/チャットモンチー.md" title="wikilink">チャットモンチー</a></li>
 </ul></td>
 </tr>
@@ -205,7 +205,7 @@ DJ STAGE</p>
 <li>ASIAN KUNG-FU GENERATION</li>
 <li>THE RENTALS</li>
 <li>SILVER SUN</li>
-<li><a href="https://ja.wikipedia.org/wiki/BEAT_CRUSADERS" title="wikilink">BEAT CRUSADERS</a></li>
+<li><a href="../Page/BEAT_CRUSADERS.md" title="wikilink">BEAT CRUSADERS</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ストレイテナー" title="wikilink">ストレイテナー</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/髭（HiGE）" title="wikilink">髭（HiGE）</a></li>
 </ul></td>
@@ -246,15 +246,15 @@ DJ STAGE</p>
 <td><p>7月20日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/横浜アリーナ" title="wikilink">横浜アリーナ</a></p></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/アッシュ_(バンド)" title="wikilink">Ash</a></li>
+<li><a href="../Page/ASIAN_KUNG-FU_GENERATION.md" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
+<li><a href="../Page/アッシュ_(バンド).md" title="wikilink">Ash</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ヤング・パンクス" title="wikilink">THE YOUNG PUNX!</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ステレオフォニックス" title="wikilink">Stereophonics</a></li>
+<li><a href="../Page/ステレオフォニックス.md" title="wikilink">Stereophonics</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/PHANTOM_PLANET" title="wikilink">PHANTOM PLANET</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ストレイテナー" title="wikilink">ストレイテナー</a></li>
 <li><a href="../Page/アナログフィッシュ.md" title="wikilink">アナログフィッシュ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/9mm_Parabellum_Bullet" title="wikilink">9mm Parabellum Bullet</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/トクマルシューゴ" title="wikilink">トクマルシューゴ</a></li>
+<li><a href="../Page/9mm_Parabellum_Bullet.md" title="wikilink">9mm Parabellum Bullet</a></li>
+<li><a href="../Page/トクマルシューゴ.md" title="wikilink">トクマルシューゴ</a></li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -264,10 +264,10 @@ DJ STAGE</p>
 <li>Ash</li>
 <li><a href="https://ja.wikipedia.org/wiki/SPACE_COWBOY" title="wikilink">SPACE COWBOY</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ハローグッバイ_(バンド)" title="wikilink">hellogoodbye</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/サード・アイ・ブラインド" title="wikilink">THIRD EYE BLIND</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ELLEGARDEN" title="wikilink">ELLEGARDEN</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ART-SCHOOL" title="wikilink">ART-SCHOOL</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/SPECIAL_OTHERS" title="wikilink">SPECIAL OTHERS</a></li>
+<li><a href="../Page/サード・アイ・ブラインド.md" title="wikilink">THIRD EYE BLIND</a></li>
+<li><a href="../Page/ELLEGARDEN.md" title="wikilink">ELLEGARDEN</a></li>
+<li><a href="../Page/ART-SCHOOL.md" title="wikilink">ART-SCHOOL</a></li>
+<li><a href="../Page/SPECIAL_OTHERS.md" title="wikilink">SPECIAL OTHERS</a></li>
 <li><a href="../Page/8otto.md" title="wikilink">8otto</a></li>
 </ul></td>
 <td></td>
@@ -294,7 +294,7 @@ DJ STAGE</p>
 <td><p>7月19日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/横浜アリーナ" title="wikilink">横浜アリーナ</a></p></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
+<li><a href="../Page/ASIAN_KUNG-FU_GENERATION.md" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/マニック・ストリート・プリーチャーズ" title="wikilink">Manic Street Preachers</a>（出演中止）</li>
 <li><a href="https://ja.wikipedia.org/wiki/ナダ・サーフ" title="wikilink">Nada Surf</a></li>
 <li><a href="../Page/ベン・フォールズ.md" title="wikilink">Ben Folds</a></li>
@@ -343,14 +343,14 @@ NANO-MUGEN FES.2009開催直前の[2009年](../Page/2009年.md "wikilink")[7月6
 <tbody>
 <tr class="odd">
 <td><p>7月6日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UNIT" title="wikilink">代官山UNIT</a></p></td>
-<td><p>*<a href="https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION" title="wikilink">ASIAN KUNG-FU GENERATION</a></p></td>
+<td><p>*<a href="../Page/ASIAN_KUNG-FU_GENERATION.md" title="wikilink">ASIAN KUNG-FU GENERATION</a></p></td>
 </tr>
 <tr class="even">
 <td><p>7月9日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大阪市" title="wikilink">大阪市</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/湊町リバープレイス" title="wikilink">なんばHatch</a></p></td>
+<td><p><a href="../Page/大阪市.md" title="wikilink">大阪市</a></p></td>
+<td><p><a href="../Page/湊町リバープレイス.md" title="wikilink">なんばHatch</a></p></td>
 <td><p>*ASIAN KUNG-FU GENERATION<br />
 *<a href="https://ja.wikipedia.org/wiki/Gregory_and_the_hawk" title="wikilink">Gregory and the hawk</a><br />
 *<a href="../Page/LOSTAGE.md" title="wikilink">LOSTAGE</a></p></td>
@@ -358,7 +358,7 @@ NANO-MUGEN FES.2009開催直前の[2009年](../Page/2009年.md "wikilink")[7月6
 <tr class="odd">
 <td><p>7月10日</p></td>
 <td><p><a href="../Page/名古屋市.md" title="wikilink">名古屋市</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Zepp" title="wikilink">Zepp Nagoya</a></p></td>
+<td><p><a href="../Page/Zepp.md" title="wikilink">Zepp Nagoya</a></p></td>
 <td><p>*ASIAN KUNG-FU GENERATION<br />
 *Gregory and the hawk<br />
 *<a href="https://ja.wikipedia.org/wiki/mudy_on_the_昨晩" title="wikilink">mudy on the 昨晩</a></p></td>
@@ -386,7 +386,7 @@ NANO-MUGEN FES.2009開催直前の[2009年](../Page/2009年.md "wikilink")[7月6
 <td><p>7月21日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/広島市" title="wikilink">広島市</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/CLUB_QUATTRO#広島CLUB_QUATTRO" title="wikilink">広島 CLUB QUATTRO</a></p></td>
-<td><p>*<a href="https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION" title="wikilink">ASIAN KUNG-FU GENERATION</a><br />
+<td><p>*<a href="../Page/ASIAN_KUNG-FU_GENERATION.md" title="wikilink">ASIAN KUNG-FU GENERATION</a><br />
 *<a href="https://ja.wikipedia.org/wiki/:en:Ra_Ra_Riot" title="wikilink">Ra Ra Riot</a><br />
 *<a href="https://ja.wikipedia.org/wiki/Predawn" title="wikilink">Predawn</a></p></td>
 </tr>
@@ -400,8 +400,8 @@ NANO-MUGEN FES.2009開催直前の[2009年](../Page/2009年.md "wikilink")[7月6
 </tr>
 <tr class="odd">
 <td><p>7月24日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Zepp" title="wikilink">Zepp Tokyo</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
+<td><p><a href="../Page/Zepp.md" title="wikilink">Zepp Tokyo</a></p></td>
 <td><p>*ASIAN KUNG-FU GENERATION<br />
 *Ra Ra Riot<br />
 *<a href="https://ja.wikipedia.org/wiki/環ROY" title="wikilink">環ROY</a><br />
@@ -450,10 +450,10 @@ NANO-MUGEN FES.2009開催直前の[2009年](../Page/2009年.md "wikilink")[7月6
 <tbody>
 <tr class="odd">
 <td><p>7月4日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/LIQUIDROOM" title="wikilink">LIQUIDROOM</a></p></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
+<li><a href="../Page/ASIAN_KUNG-FU_GENERATION.md" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
 <li>Dr.Downer</li>
 <li>長谷川健一</li>
 </ul></td>
@@ -470,8 +470,8 @@ NANO-MUGEN FES.2009開催直前の[2009年](../Page/2009年.md "wikilink")[7月6
 </tr>
 <tr class="odd">
 <td><p>7月7日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大阪市" title="wikilink">大阪市</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Zepp" title="wikilink">Zepp Osaka</a></p></td>
+<td><p><a href="../Page/大阪市.md" title="wikilink">大阪市</a></p></td>
+<td><p><a href="../Page/Zepp.md" title="wikilink">Zepp Osaka</a></p></td>
 <td><ul>
 <li>ASIAN KUNG-FU GENERATION</li>
 <li>Nada Surf</li>
@@ -481,7 +481,7 @@ NANO-MUGEN FES.2009開催直前の[2009年](../Page/2009年.md "wikilink")[7月6
 <tr class="even">
 <td><p>7月8日</p></td>
 <td><p><a href="../Page/名古屋市.md" title="wikilink">名古屋市</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Zepp" title="wikilink">Zepp Nagoya</a></p></td>
+<td><p><a href="../Page/Zepp.md" title="wikilink">Zepp Nagoya</a></p></td>
 <td><ul>
 <li>ASIAN KUNG-FU GENERATION</li>
 <li><a href="https://ja.wikipedia.org/wiki/ナダ・サーフ" title="wikilink">Nada Surf</a></li>
@@ -512,10 +512,10 @@ NANO-MUGEN FES.2009開催直前の[2009年](../Page/2009年.md "wikilink")[7月6
 <td><p><a href="https://ja.wikipedia.org/wiki/横浜アリーナ" title="wikilink">横浜アリーナ</a></p></td>
 <td><p>BAND STAGE</p></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
+<li><a href="../Page/ASIAN_KUNG-FU_GENERATION.md" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ウィー・アー・サイエンティスツ" title="wikilink">WE ARE SCIENTISTS</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ウィーザー" title="wikilink">WEEZER</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/アッシュ_(バンド)" title="wikilink">ASH</a></li>
+<li><a href="../Page/ウィーザー.md" title="wikilink">WEEZER</a></li>
+<li><a href="../Page/アッシュ_(バンド).md" title="wikilink">ASH</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/the_HIATUS" title="wikilink">the HIATUS</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/磯部正文" title="wikilink">磯部正文</a>BAND</li>
 <li><a href="https://ja.wikipedia.org/wiki/ねごと" title="wikilink">ねごと</a></li>
@@ -556,7 +556,7 @@ NANO-MUGEN FES.2009開催直前の[2009年](../Page/2009年.md "wikilink")[7月6
 <td><p>Acoustic Stage</p></td>
 <td><ul>
 <li>THE RENTALS</li>
-<li><a href="https://ja.wikipedia.org/wiki/星野源" title="wikilink">星野源</a></li>
+<li><a href="../Page/星野源.md" title="wikilink">星野源</a></li>
 </ul></td>
 <td></td>
 <td></td>
@@ -595,14 +595,14 @@ NANO-MUGEN FES.2009開催直前の[2009年](../Page/2009年.md "wikilink")[7月6
 <td><p><a href="https://ja.wikipedia.org/wiki/広島市" title="wikilink">広島市</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/CLUB_QUATTRO#広島CLUB_QUATTRO" title="wikilink">広島 CLUB QUATTRO</a></p></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
+<li><a href="../Page/ASIAN_KUNG-FU_GENERATION.md" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/オズマ_(バンド)" title="wikilink">Ozma</a></li>
 <li>The Cigavettes</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td><p>6月5日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大阪市" title="wikilink">大阪市</a></p></td>
+<td><p><a href="../Page/大阪市.md" title="wikilink">大阪市</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/CLUB_QUATTRO#梅田CLUB_QUATTRO" title="wikilink">梅田 CLUB QUATTRO</a></p></td>
 <td><ul>
 <li>ASIAN KUNG-FU GENERATION</li>
@@ -622,8 +622,8 @@ NANO-MUGEN FES.2009開催直前の[2009年](../Page/2009年.md "wikilink")[7月6
 </tr>
 <tr class="even">
 <td><p>6月8日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Zepp" title="wikilink">Zepp DiverCity</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
+<td><p><a href="../Page/Zepp.md" title="wikilink">Zepp DiverCity</a></p></td>
 <td><ul>
 <li>ASIAN KUNG-FU GENERATION</li>
 <li>Ozma</li>
@@ -655,13 +655,13 @@ NANO-MUGEN FES.2009開催直前の[2009年](../Page/2009年.md "wikilink")[7月6
 <td><p><a href="https://ja.wikipedia.org/wiki/横浜アリーナ" title="wikilink">横浜アリーナ</a></p></td>
 <td><p>BAND STAGE</p></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
+<li><a href="../Page/ASIAN_KUNG-FU_GENERATION.md" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
 <li><a href="../Page/ファウンテンズ・オブ・ウェイン.md" title="wikilink">Fountains Of Wayne</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/モーション・シティ・サウンドトラック" title="wikilink">Motion City Soundtrack</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/:en:Mates_of_State" title="wikilink">Mates of State</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/フィーダー_(バンド)" title="wikilink">Feeder</a></li>
+<li><a href="../Page/フィーダー_(バンド).md" title="wikilink">Feeder</a></li>
 <li>Dr.DOWNER</li>
-<li><a href="https://ja.wikipedia.org/wiki/KREVA" title="wikilink">KREVA</a></li>
+<li><a href="../Page/KREVA.md" title="wikilink">KREVA</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ストレイテナー" title="wikilink">ストレイテナー</a></li>
 </ul></td>
 </tr>
@@ -697,9 +697,9 @@ GUESTReALM</p></td>
 <li>ASIAN KUNG-FU GENERATION</li>
 <li>Fountains Of Wayne</li>
 <li>Mates of State</li>
-<li><a href="https://ja.wikipedia.org/wiki/スウェード_(バンド)" title="wikilink">Suede</a></li>
+<li><a href="../Page/スウェード_(バンド).md" title="wikilink">Suede</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/CHARA" title="wikilink">Chara</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/10-FEET" title="wikilink">10-FEET</a></li>
+<li><a href="../Page/10-FEET.md" title="wikilink">10-FEET</a></li>
 <li><a href="../Page/チャットモンチー.md" title="wikilink">チャットモンチー</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/the_HIATUS" title="wikilink">the HIATUS</a></li>
 </ul></td>
@@ -758,9 +758,9 @@ GUESTReALM</p></td>
 <td><p><a href="../Page/京都市.md" title="wikilink">京都市</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/KBSホール_(日本)" title="wikilink">KBSホール</a></p></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
+<li><a href="../Page/ASIAN_KUNG-FU_GENERATION.md" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/:en:Sara_Radle" title="wikilink">Sara Radle</a> (ex - <a href="https://ja.wikipedia.org/wiki/:en:The_Rentals" title="wikilink">The Rentals</a>)</li>
-<li><a href="https://ja.wikipedia.org/wiki/SPECIAL_OTHERS" title="wikilink">SPECIAL OTHERS</a></li>
+<li><a href="../Page/SPECIAL_OTHERS.md" title="wikilink">SPECIAL OTHERS</a></li>
 <li>スカート</li>
 </ul></td>
 </tr>
@@ -809,7 +809,7 @@ GUESTReALM</p></td>
 </tr>
 <tr class="even">
 <td><p>6月26日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/仙台市" title="wikilink">仙台市</a></p></td>
+<td><p><a href="../Page/仙台市.md" title="wikilink">仙台市</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Rensa" title="wikilink">仙台Rensa</a></p></td>
 <td><ul>
 <li>ASIAN KUNG-FU GENERATION</li>
@@ -819,7 +819,7 @@ GUESTReALM</p></td>
 </tr>
 <tr class="odd">
 <td><p>6月28日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ミーツポート#TOKYO_DOME_CITY_HALL" title="wikilink">TOKYO DOME CITY HALL</a></p></td>
 <td><ul>
 <li>ASIAN KUNG-FU GENERATION</li>
@@ -900,7 +900,7 @@ GUESTReALM</p></td>
 <li>ASIAN KUNG-FU GENERATION</li>
 <li><a href="https://ja.wikipedia.org/wiki/the_chef_cooks_me" title="wikilink">the chef cooks me</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/the_HIATUS" title="wikilink">the HIATUS</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/NICO_Touches_the_Walls" title="wikilink">NICO Touches the Walls</a> (Acoustic) (SIDE STAGE)</li>
+<li><a href="../Page/NICO_Touches_the_Walls.md" title="wikilink">NICO Touches the Walls</a> (Acoustic) (SIDE STAGE)</li>
 <li><a href="https://ja.wikipedia.org/wiki/アウル・シティー" title="wikilink">OWL CITY</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/レンタルズ" title="wikilink">THE RENTALS</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ティーガン&amp;サラ" title="wikilink">TEGAN &amp; SARA</a></li>
@@ -922,7 +922,7 @@ GUESTReALM</p></td>
 <td><p>Ken's CAFE</p></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/片平里菜" title="wikilink">片平里菜</a></li>
-<li>木下理樹（<a href="https://ja.wikipedia.org/wiki/ART-SCHOOL" title="wikilink">ART-SCHOOL</a>）</li>
+<li>木下理樹（<a href="../Page/ART-SCHOOL.md" title="wikilink">ART-SCHOOL</a>）</li>
 <li>YeYe</li>
 </ul></td>
 <td></td>
@@ -932,7 +932,7 @@ GUESTReALM</p></td>
 <td><p>kiyoshi's bar<br />
 GUESTReALM</p></td>
 <td><ul>
-<li>磯部正文（<a href="https://ja.wikipedia.org/wiki/HUSKING_BEE" title="wikilink">HUSKING BEE</a>）</li>
+<li>磯部正文（<a href="../Page/HUSKING_BEE.md" title="wikilink">HUSKING BEE</a>）</li>
 <li>Kat MacDowell</li>
 <li>小川コータ&amp;とまそん</li>
 </ul></td>
@@ -945,13 +945,13 @@ GUESTReALM</p></td>
 ## 備考
 
   - 2005年は2つのステージが対面状に設計されており、アッシュのライブ時に次のアクトであるアジカンを待つ客が反対側のステージに集中したため、以降バンドステージのすぐ横に小さなアコースティック・DJステージを付設する形に変更された。
-  - 2004年の武道館公演から毎回リニューアルされるフェスのロゴは、アジカンのCDジャケットと同じく[中村佑介](https://ja.wikipedia.org/wiki/中村佑介 "wikilink")が手がけている。
-  - ベーシストの[日向秀和](https://ja.wikipedia.org/wiki/日向秀和 "wikilink")（旧[ART-SCHOOL](https://ja.wikipedia.org/wiki/ART-SCHOOL "wikilink")、現[ストレイテナー](https://ja.wikipedia.org/wiki/ストレイテナー "wikilink")、[Nothing's Carved In Stone](https://ja.wikipedia.org/wiki/Nothing's_Carved_In_Stone "wikilink")[FULLARMOR](https://ja.wikipedia.org/wiki/FULLARMOR "wikilink")）は2004年の大阪公演を除き、開催された全てのフェスに参加（第1回はART-SCHOOLで、以降は全てストレイテナーで）しており、日向本人もインタビューなどで何度も語っている。
+  - 2004年の武道館公演から毎回リニューアルされるフェスのロゴは、アジカンのCDジャケットと同じく[中村佑介](../Page/中村佑介.md "wikilink")が手がけている。
+  - ベーシストの[日向秀和](https://ja.wikipedia.org/wiki/日向秀和 "wikilink")（旧[ART-SCHOOL](../Page/ART-SCHOOL.md "wikilink")、現[ストレイテナー](https://ja.wikipedia.org/wiki/ストレイテナー "wikilink")、[Nothing's Carved In Stone](https://ja.wikipedia.org/wiki/Nothing's_Carved_In_Stone "wikilink")[FULLARMOR](https://ja.wikipedia.org/wiki/FULLARMOR "wikilink")）は2004年の大阪公演を除き、開催された全てのフェスに参加（第1回はART-SCHOOLで、以降は全てストレイテナーで）しており、日向本人もインタビューなどで何度も語っている。
 
 ## コンピレーション・アルバム
 
-  - [ASIAN KUNG-FU GENERATION presents NANO-MUGEN COMPILATION](https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION_presents_NANO-MUGEN_COMPILATION "wikilink")
-  - [ASIAN KUNG-FU GENERATION presents NANO-MUGEN COMPILATION 2006](https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION_presents_NANO-MUGEN_COMPILATION_2006 "wikilink")
+  - [ASIAN KUNG-FU GENERATION presents NANO-MUGEN COMPILATION](../Page/ASIAN_KUNG-FU_GENERATION_presents_NANO-MUGEN_COMPILATION.md "wikilink")
+  - [ASIAN KUNG-FU GENERATION presents NANO-MUGEN COMPILATION 2006](../Page/ASIAN_KUNG-FU_GENERATION_presents_NANO-MUGEN_COMPILATION_2006.md "wikilink")
   - [ASIAN KUNG-FU GENERATION presents NANO-MUGEN COMPILATION 2008](../Page/ASIAN_KUNG-FU_GENERATION_presents_NANO-MUGEN_COMPILATION_2008.md "wikilink")
   - [ASIAN KUNG-FU GENERATION presents NANO-MUGEN COMPILATION 2009](https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION_presents_NANO-MUGEN_COMPILATION_2009 "wikilink")
   - [ASIAN KUNG-FU GENERATION presents NANO-MUGEN COMPILATION 2011](https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION_presents_NANO-MUGEN_COMPILATION_2011 "wikilink")
@@ -969,4 +969,4 @@ GUESTReALM</p></td>
 
 [Category:日本のロックフェスティバル](https://ja.wikipedia.org/wiki/Category:日本のロックフェスティバル "wikilink") [Category:ASIAN_KUNG-FU_GENERATION_presents_NANO-MUGEN_COMPILATION](https://ja.wikipedia.org/wiki/Category:ASIAN_KUNG-FU_GENERATION_presents_NANO-MUGEN_COMPILATION "wikilink") [Category:長大な項目名](https://ja.wikipedia.org/wiki/Category:長大な項目名 "wikilink")
 
-1.  ASIAN KUNG-FU GENERATIONの『[ループ&ループ](https://ja.wikipedia.org/wiki/ループ&ループ "wikilink")』をカバーした。
+1.  ASIAN KUNG-FU GENERATIONの『[ループ&ループ](../Page/ループ&ループ.md "wikilink")』をカバーした。

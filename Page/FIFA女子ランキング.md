@@ -83,12 +83,12 @@
 
   - 公表は年4回（原則として3月、6月、9月、12月）のみ（男子は毎月）。
   - FIFAが初めて公認した女子代表の国際試合（[フランス女子代表対](../Page/サッカーフランス女子代表.md "wikilink")[オランダ女子代表](https://ja.wikipedia.org/wiki/サッカーオランダ女子代表 "wikilink")：[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[4月17日](../Page/4月17日.md "wikilink")）以降の全試合を集計の対象とする。
-  - 直近の成績に影響されにくく、[FIFA女子ワールドカップ](https://ja.wikipedia.org/wiki/FIFA女子ワールドカップ "wikilink")や[オリンピックへの出場に大きな影響を受けにくい](https://ja.wikipedia.org/wiki/オリンピックサッカー競技 "wikilink")。
+  - 直近の成績に影響されにくく、[FIFA女子ワールドカップ](../Page/FIFA女子ワールドカップ.md "wikilink")や[オリンピックへの出場に大きな影響を受けにくい](https://ja.wikipedia.org/wiki/オリンピックサッカー競技 "wikilink")。
   - 国・地域によってはランキングから外れたり、復活したりすることがある。
 
 さらに2008年3月21日発表のランキングからは、[暫定ランキング(Provisional ranking)のチームが](https://ja.wikipedia.org/wiki/FIFA女子ランキング#暫定ランキング "wikilink")、ランクから除外となった。
 
-なお男子代表については[FIFAランキング](https://ja.wikipedia.org/wiki/FIFAランキング "wikilink")を参照のこと。
+なお男子代表については[FIFAランキング](../Page/FIFAランキング.md "wikilink")を参照のこと。
 
 ## 暫定ランキング
 
@@ -118,7 +118,7 @@
 
 ## 関連項目
 
-  - [FIFAランキング](https://ja.wikipedia.org/wiki/FIFAランキング "wikilink")
+  - [FIFAランキング](../Page/FIFAランキング.md "wikilink")
   - [ワールドフットボールイロレーティング](https://ja.wikipedia.org/wiki/ワールドフットボールイロレーティング "wikilink")
 
 ## 外部リンク

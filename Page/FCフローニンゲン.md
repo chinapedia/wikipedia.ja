@@ -1,7 +1,7 @@
 > この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
 
 
-**FCフローニンゲン**（）は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の北東部、[フローニンゲン州](https://ja.wikipedia.org/wiki/フローニンゲン州 "wikilink")の州都[フローニンゲン](../Page/フローニンゲン.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。日本では[サッカーダイジェスト](../Page/サッカーダイジェスト.md "wikilink")など一部のメディアでFCフローニンヘンと表記されることがある。
+**FCフローニンゲン**（）は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の北東部、[フローニンゲン州](../Page/フローニンゲン州.md "wikilink")の州都[フローニンゲン](../Page/フローニンゲン.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。日本では[サッカーダイジェスト](../Page/サッカーダイジェスト.md "wikilink")など一部のメディアでFCフローニンヘンと表記されることがある。
 
 ## 概要
 
@@ -159,7 +159,7 @@ PlotData=
 </tr>
 <tr class="even">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヌーシャテル・ザマックス" title="wikilink">ヌーシャテル・ザマックス</a></p></td>
+<td><p><a href="../Page/ヌーシャテル・ザマックス.md" title="wikilink">ヌーシャテル・ザマックス</a></p></td>
 <td><p>0-0</p></td>
 <td><p>1-1</p></td>
 <td><p>'''1-1 (a)</p></td>
@@ -219,7 +219,7 @@ PlotData=
 </tr>
 <tr class="even">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/パルチザン・ベオグラード" title="wikilink">パルチザン</a></p></td>
+<td><p><a href="../Page/パルチザン・ベオグラード.md" title="wikilink">パルチザン</a></p></td>
 <td><p>4-3</p></td>
 <td><p>1-3</p></td>
 <td><p>'''5-6</p></td>
@@ -231,7 +231,7 @@ PlotData=
 <td><p>1991-92</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1991-92" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCロートヴァイス・エアフルト" title="wikilink">ロートヴァイス・エアフルト</a></p></td>
+<td><p><a href="../Page/FCロートヴァイス・エアフルト.md" title="wikilink">ロートヴァイス・エアフルト</a></p></td>
 <td><p>0-1</p></td>
 <td><p>0-1</p></td>
 <td><p>'''0-2</p></td>
@@ -358,7 +358,7 @@ PlotData=
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/モンペリエHSC" title="wikilink">モンペリエ</a></p></td>
+<td><p><a href="../Page/モンペリエHSC.md" title="wikilink">モンペリエ</a></p></td>
 <td><p>style="background-color:#CFF" align="center" </p></td>
 <td><p>0-3</p></td>
 <td></td>
@@ -371,7 +371,7 @@ PlotData=
 <td><p>2006-07</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ_2006-07" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/パルチザン・ベオグラード" title="wikilink">パルチザン</a></p></td>
+<td><p><a href="../Page/パルチザン・ベオグラード.md" title="wikilink">パルチザン</a></p></td>
 <td><p>1–0</p></td>
 <td><p>2–4</p></td>
 <td><p>'''3-4</p></td>
@@ -381,7 +381,7 @@ PlotData=
 <td><p>2007-08</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ_2007-08" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ACFフィオレンティーナ" title="wikilink">フィオレンティーナ</a></p></td>
+<td><p><a href="../Page/ACFフィオレンティーナ.md" title="wikilink">フィオレンティーナ</a></p></td>
 <td><p>1–1</p></td>
 <td><p>1-1</p></td>
 <td><p>'''2-2 (3-4p)</p></td>
@@ -391,7 +391,7 @@ PlotData=
 <td><p>2014-15</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2014-15" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アバディーンFC" title="wikilink">アバディーン</a></p></td>
+<td><p><a href="../Page/アバディーンFC.md" title="wikilink">アバディーン</a></p></td>
 <td><p>0-0</p></td>
 <td><p>1-2</p></td>
 <td><p>'''1-2</p></td>
@@ -401,7 +401,7 @@ PlotData=
 <td><p>2015-16</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2015-16" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>グループF</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SCブラガ" title="wikilink">ブラガ</a></p></td>
+<td><p><a href="../Page/SCブラガ.md" title="wikilink">ブラガ</a></p></td>
 <td><p>0-1</p></td>
 <td><p>0-0</p></td>
 <td><p>'''4位</p></td>
@@ -418,7 +418,7 @@ PlotData=
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/オリンピック・マルセイユ" title="wikilink">マルセイユ</a></p></td>
+<td><p><a href="../Page/オリンピック・マルセイユ.md" title="wikilink">マルセイユ</a></p></td>
 <td><p>0-3</p></td>
 <td><p>1-2</p></td>
 <td></td>
@@ -440,11 +440,11 @@ PlotData=
 
 ## 歴代監督
 
-  - [ハン・ベルガー](https://ja.wikipedia.org/wiki/ハン・ベルガー "wikilink") 1983-1986
+  - [ハン・ベルガー](../Page/ハン・ベルガー.md "wikilink") 1983-1986
 
   - [ハンス・ヴェステルホフ](https://ja.wikipedia.org/wiki/ハンス・ヴェステルホフ "wikilink") 1988-92
 
-  - [ピム・ファーベーク](https://ja.wikipedia.org/wiki/ピム・ファーベーク "wikilink") 1992-1993
+  - [ピム・ファーベーク](../Page/ピム・ファーベーク.md "wikilink") 1992-1993
 
   - ハンス・ヴェステルホフ 1994-96
 
@@ -454,11 +454,11 @@ PlotData=
 
   - ヤン・ファン・ダイク 1998-2001
 
-  - [ドワイト・ローデヴェーヘス](https://ja.wikipedia.org/wiki/ドワイト・ローデヴェーヘス "wikilink") 2001
+  - [ドワイト・ローデヴェーヘス](../Page/ドワイト・ローデヴェーヘス.md "wikilink") 2001
 
   - [ロン・ヤンス](../Page/ロン・ヤンス.md "wikilink") 2002-2010
 
-  - [ピーター・ハウストラ](https://ja.wikipedia.org/wiki/ピーター・ハウストラ "wikilink") 2010-2012
+  - [ピーター・ハウストラ](../Page/ピーター・ハウストラ.md "wikilink") 2010-2012
 
   - [ロベルト・マースカント](https://ja.wikipedia.org/wiki/ロベルト・マースカント "wikilink") 2012-2013
 
@@ -474,15 +474,15 @@ PlotData=
 
 ### DF
 
-  - [ロナルド・クーマン](https://ja.wikipedia.org/wiki/ロナルド・クーマン "wikilink") 1980-1983
+  - [ロナルド・クーマン](../Page/ロナルド・クーマン.md "wikilink") 1980-1983
 
-  - [ヤン・フェーノフ](https://ja.wikipedia.org/wiki/ヤン・フェーノフ "wikilink") 1988-1998
+  - [ヤン・フェーノフ](../Page/ヤン・フェーノフ.md "wikilink") 1988-1998
 
-  - [ミハエル・ライツィハー](https://ja.wikipedia.org/wiki/ミハエル・ライツィハー "wikilink") 1993-1994
+  - [ミハエル・ライツィハー](../Page/ミハエル・ライツィハー.md "wikilink") 1993-1994
 
   - [ブルーノ・シルバ](https://ja.wikipedia.org/wiki/ブルーノ・シルバ "wikilink") 2005-2008
 
-  - [ヘドヴィヘス・マドゥロ](https://ja.wikipedia.org/wiki/ヘドヴィヘス・マドゥロ "wikilink") 2015-2017
+  - [ヘドヴィヘス・マドゥロ](../Page/ヘドヴィヘス・マドゥロ.md "wikilink") 2015-2017
 
   - [ジェイソン・デビッドソン](https://ja.wikipedia.org/wiki/ジェイソン・デビッドソン "wikilink") 2016-2017
 
@@ -490,7 +490,7 @@ PlotData=
 
   - [ファンディ・アマド](https://ja.wikipedia.org/wiki/ファンディ・アマド "wikilink") 1983-1985
 
-  - [ヨハン・ニースケンス](https://ja.wikipedia.org/wiki/ヨハン・ニースケンス "wikilink") 1985-1986
+  - [ヨハン・ニースケンス](../Page/ヨハン・ニースケンス.md "wikilink") 1985-1986
 
   - [エルウィン・クーマン](../Page/エルウィン・クーマン.md "wikilink") 1978-1979, 1982-1985, 1994-1998
 
@@ -502,7 +502,7 @@ PlotData=
 
 ### FW
 
-  - [アリエン・ロッベン](https://ja.wikipedia.org/wiki/アリエン・ロッベン "wikilink") 2000-2002
+  - [アリエン・ロッベン](../Page/アリエン・ロッベン.md "wikilink") 2000-2002
 
   - [ルイス・アルベルト・スアレス](https://ja.wikipedia.org/wiki/ルイス・アルベルト・スアレス "wikilink") 2006-2007
 

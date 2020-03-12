@@ -64,11 +64,11 @@
 
 ## 歴代所属選手
 
-  - [ピエール・ファン・ホーイドンク](https://ja.wikipedia.org/wiki/ピエール・ファン・ホーイドンク "wikilink") 1989-1991
+  - [ピエール・ファン・ホーイドンク](../Page/ピエール・ファン・ホーイドンク.md "wikilink") 1989-1991
 
-  - [ミオドラグ・ボージョヴィッチ](https://ja.wikipedia.org/wiki/ミオドラグ・ボージョヴィッチ "wikilink") 1999-2000
+  - [ミオドラグ・ボージョヴィッチ](../Page/ミオドラグ・ボージョヴィッチ.md "wikilink") 1999-2000
 
-  - [スティーブン・レイバット](https://ja.wikipedia.org/wiki/スティーブン・レイバット "wikilink") 2000-2001
+  - [スティーブン・レイバット](../Page/スティーブン・レイバット.md "wikilink") 2000-2001
 
   - [ヴラトコ・ラジッチ](https://ja.wikipedia.org/wiki/ヴラトコ・ラジッチ "wikilink") 2011
 

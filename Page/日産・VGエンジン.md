@@ -1,17 +1,17 @@
 > この記事は[VG](https://ja.wikipedia.org/wiki/VG)から翻訳されています。
 
 
-**VGエンジン**は[日産自動車](../Page/日産自動車.md "wikilink")がかつて製造していた[V型6気筒](https://ja.wikipedia.org/wiki/V型6気筒 "wikilink")エンジンである。
+**VGエンジン**は[日産自動車](../Page/日産自動車.md "wikilink")がかつて製造していた[V型6気筒](../Page/V型6気筒.md "wikilink")エンジンである。
 
 ## 概要
 
-[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")登場。は60[度](https://ja.wikipedia.org/wiki/度_\(角度\) "wikilink")、燃料供給装置は[日産・ECCS制御の](https://ja.wikipedia.org/wiki/エンジンコントロールユニット "wikilink")[電子制御式燃料噴射](../Page/燃料噴射装置.md "wikilink")(EGI)である。当初より3.0[リットル](../Page/リットル.md "wikilink")の大排気量エンジンがラインナップされ、同時期に登場した直列6気筒の[RB型とともに](https://ja.wikipedia.org/wiki/日産・RBエンジン "wikilink")、旧式化した[日産・L型エンジン](https://ja.wikipedia.org/wiki/日産・L型エンジン "wikilink")を急速に置き換えていった。
+[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")登場。は60[度](../Page/度_\(角度\).md "wikilink")、燃料供給装置は[日産・ECCS制御の](../Page/エンジンコントロールユニット.md "wikilink")[電子制御式燃料噴射](../Page/燃料噴射装置.md "wikilink")(EGI)である。当初より3.0[リットル](../Page/リットル.md "wikilink")の大排気量エンジンがラインナップされ、同時期に登場した直列6気筒の[RB型とともに](../Page/日産・RBエンジン.md "wikilink")、旧式化した[日産・L型エンジン](../Page/日産・L型エンジン.md "wikilink")を急速に置き換えていった。
 
-初搭載はY30型[セドリック](https://ja.wikipedia.org/wiki/日産・セドリック "wikilink")・[グロリアである](../Page/日産・グロリア.md "wikilink")。[1991年](../Page/1991年.md "wikilink")には[マキシマ用にVG](../Page/日産・マキシマ.md "wikilink")30系のFF専用後継として[VE30DEが登場](https://ja.wikipedia.org/wiki/日産・VEエンジン "wikilink")。[1994年](../Page/1994年.md "wikilink")には後継の[VQエンジンが登場しており](https://ja.wikipedia.org/wiki/日産・VQエンジン "wikilink")[2002年](../Page/2002年.md "wikilink")に一旦製造中止になったが、[2004年](../Page/2004年.md "wikilink")にVG20Pが登場して[2007年](../Page/2007年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")まで製造されていた。
+初搭載はY30型[セドリック](../Page/日産・セドリック.md "wikilink")・[グロリアである](../Page/日産・グロリア.md "wikilink")。[1991年](../Page/1991年.md "wikilink")には[マキシマ用にVG](../Page/日産・マキシマ.md "wikilink")30系のFF専用後継として[VE30DEが登場](../Page/日産・VEエンジン.md "wikilink")。[1994年](../Page/1994年.md "wikilink")には後継の[VQエンジンが登場しており](../Page/日産・VQエンジン.md "wikilink")[2002年](../Page/2002年.md "wikilink")に一旦製造中止になったが、[2004年](../Page/2004年.md "wikilink")にVG20Pが登場して[2007年](../Page/2007年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")まで製造されていた。
 
 VGとは「very good」の意味である。（日産自動車の整備書から）VG型はそれまでの[NAPS](https://ja.wikipedia.org/wiki/NAPS "wikilink")での[排ガス対策技術も用いられていたエンジンであったが](../Page/自動車排出ガス規制.md "wikilink")、登場当初より日産の新世代の高出力エンジンを意味する**PLASMA**（プラズマ）の愛称も与えられ、トヨタのLASREシリーズに対抗する事ともなった。
 
-1980年代後半には、米国のエンジンチューナーである[エレクトラモーティブ](https://ja.wikipedia.org/wiki/エレクトラモーティブ "wikilink")（後に日産に買収され、ニッサン・パフォーマンス・テクノロジー（NPTI）となる）の手により、VG30系をベースに独自のチューニングが行われたレース用エンジンが登場した。これらは[マーチ・85G](https://ja.wikipedia.org/wiki/マーチ・85G "wikilink")/日産から[マーチ・88G](https://ja.wikipedia.org/wiki/マーチ・88G "wikilink")/日産に至るマシン群に搭載され[全日本スポーツプロトタイプカー耐久選手権](https://ja.wikipedia.org/wiki/全日本スポーツプロトタイプカー耐久選手権 "wikilink")（JSPC）に参戦したほか、米国の[IMSAシリーズに参戦する](https://ja.wikipedia.org/wiki/国際モータースポーツ協会 "wikilink")[日産・GTP ZX-Tや](../Page/日産・GTP_ZX-T.md "wikilink")などにも搭載された。特にGTP ZX-TやNPT-90は1988年 - 1991年に4年連続でIMSA GTPクラスのシリーズチャンピオンを獲得するなど、大きな活躍を見せている。
+1980年代後半には、米国のエンジンチューナーである[エレクトラモーティブ](https://ja.wikipedia.org/wiki/エレクトラモーティブ "wikilink")（後に日産に買収され、ニッサン・パフォーマンス・テクノロジー（NPTI）となる）の手により、VG30系をベースに独自のチューニングが行われたレース用エンジンが登場した。これらは[マーチ・85G](https://ja.wikipedia.org/wiki/マーチ・85G "wikilink")/日産から[マーチ・88G](https://ja.wikipedia.org/wiki/マーチ・88G "wikilink")/日産に至るマシン群に搭載され[全日本スポーツプロトタイプカー耐久選手権](../Page/全日本スポーツプロトタイプカー耐久選手権.md "wikilink")（JSPC）に参戦したほか、米国の[IMSAシリーズに参戦する](../Page/国際モータースポーツ協会.md "wikilink")[日産・GTP ZX-Tや](../Page/日産・GTP_ZX-T.md "wikilink")などにも搭載された。特にGTP ZX-TやNPT-90は1988年 - 1991年に4年連続でIMSA GTPクラスのシリーズチャンピオンを獲得するなど、大きな活躍を見せている。
 
 また、自動車以外では1990年に[スケールド・コンポジッツ](../Page/スケールド・コンポジッツ.md "wikilink")が[リノ・エアレース](../Page/リノ・エアレース.md "wikilink")アンリミテッドクラス用に製作した[エアレース](https://ja.wikipedia.org/wiki/エアレース "wikilink")機、に、600馬力にチューニングされたVG30ターボエンジンが2基用いられていた。
 
@@ -63,7 +63,7 @@ VG20Eは[JASO規格のエンジンオイル清浄性試験](https://ja.wikipedia
 
 #### VG20DET
 
-  - 1,998cc DOHC 24バルブ ハイフローセラミック式ターボ または [インタークーラー](https://ja.wikipedia.org/wiki/インタークーラー "wikilink")ターボ
+  - 1,998cc DOHC 24バルブ ハイフローセラミック式ターボ または [インタークーラー](../Page/インタークーラー.md "wikilink")ターボ
 
 **参考スペックと搭載車種**
 
@@ -164,7 +164,7 @@ VG20Eは[JASO規格のエンジンオイル清浄性試験](https://ja.wikipedia
   - （2-2）169kW(230PS)/6,400rpm　273N・m(27.8kg・m)/4,800rpm　※同上
       - フェアレディZ（Z32）1989年7月-2000年8月
   - （2-3）169kW(230PS)/6,000rpm　279N・m(28.5kg・m)/4,000rpm　※同上
-      - [MID4](https://ja.wikipedia.org/wiki/日産・MID4 "wikilink")　1985年（プロトタイプ。市販化されず）
+      - [MID4](../Page/日産・MID4.md "wikilink")　1985年（プロトタイプ。市販化されず）
 
 #### VG30DET
 
@@ -181,12 +181,12 @@ VG20Eは[JASO規格のエンジンオイル清浄性試験](https://ja.wikipedia
 
 [VG30DETT_001.jpg](https://ja.wikipedia.org/wiki/File:VG30DETT_001.jpg "fig:VG30DETT_001.jpg")
 
-  - 2,960cc DOHC 24バルブ インタークーラー[ツインターボ](https://ja.wikipedia.org/wiki/ツインターボ "wikilink")　プレミアムガソリン仕様
+  - 2,960cc DOHC 24バルブ インタークーラー[ツインターボ](../Page/ツインターボ.md "wikilink")　プレミアムガソリン仕様
 
 **参考スペックと搭載車種**
 
   - （1-1）242kW(330PS)/6,800rpm　382N・m(39.0kg・m)/3,200rpm
-      - [MID4-II](https://ja.wikipedia.org/wiki/日産・MID4 "wikilink")　1987年（プロトタイプ。市販化されず）
+      - [MID4-II](../Page/日産・MID4.md "wikilink")　1987年（プロトタイプ。市販化されず）
   - （1-2）206kW(280PS)/6,400rpm 388N・m(39.6kg・m)/3,600rpm
       - フェアレディZ（Z32）1989年7月-2000年8月
 

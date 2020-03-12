@@ -1,13 +1,13 @@
 > この記事は[NEC](https://ja.wikipedia.org/wiki/NEC)から翻訳されています。
 
 
-**N.E.C.**（**Nijmegen Eendracht Combinatie**）は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")東部、[ヘルダーラント州](https://ja.wikipedia.org/wiki/ヘルダーラント州 "wikilink")の都市[ナイメヘン](https://ja.wikipedia.org/wiki/ナイメヘン "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。**N.E.C.**は「Nijmegen Eendracht Combinatie」の略称であり、大手電器メーカー[NECとの関連はない](../Page/日本電気.md "wikilink")。読み方は「エヌ・エー・セー」で、「ネック」という通称で呼ばれることもある。「ナイメヘン」はN.E.C.の中に含まれているため、誤解を招かないように正確性を期する場合のみ「N.E.C.ナイメヘン」と表記される。
+**N.E.C.**（**Nijmegen Eendracht Combinatie**）は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")東部、[ヘルダーラント州](../Page/ヘルダーラント州.md "wikilink")の都市[ナイメヘン](https://ja.wikipedia.org/wiki/ナイメヘン "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。**N.E.C.**は「Nijmegen Eendracht Combinatie」の略称であり、大手電器メーカー[NECとの関連はない](../Page/日本電気.md "wikilink")。読み方は「エヌ・エー・セー」で、「ネック」という通称で呼ばれることもある。「ナイメヘン」はN.E.C.の中に含まれているため、誤解を招かないように正確性を期する場合のみ「N.E.C.ナイメヘン」と表記される。
 
 ## 歴史
 
 [1900年](../Page/1900年.md "wikilink")創立の歴史あるクラブではあるが、タイトル獲得経験は2部リーグ（[エールステ・ディヴィジ](../Page/エールステ・ディヴィジ.md "wikilink")）で2回、3部リーグ（[トゥヴェーデ・ディヴィジ](../Page/トゥヴェーデ・ディヴィジ.md "wikilink")）で1度あるのみで、1部リーグ（[エールディヴィジ](../Page/エールディヴィジ.md "wikilink")）での優勝経験はない。
 
-2008-09シーズンの[UEFAカップではグループリーグで](https://ja.wikipedia.org/wiki/UEFAカップ_2008-09 "wikilink")[ロシアの](https://ja.wikipedia.org/wiki/ロシアサッカー・プレミアリーグ "wikilink")[FCスパルタク・モスクワ](../Page/FCスパルタク・モスクワ.md "wikilink")や[イタリアの](../Page/セリエA_\(サッカー\).md "wikilink")[ウディネーゼ・カルチョ](https://ja.wikipedia.org/wiki/ウディネーゼ・カルチョ "wikilink")に勝利し、決勝トーナメントに進出した。
+2008-09シーズンの[UEFAカップではグループリーグで](https://ja.wikipedia.org/wiki/UEFAカップ_2008-09 "wikilink")[ロシアの](../Page/ロシアサッカー・プレミアリーグ.md "wikilink")[FCスパルタク・モスクワ](../Page/FCスパルタク・モスクワ.md "wikilink")や[イタリアの](../Page/セリエA_\(サッカー\).md "wikilink")[ウディネーゼ・カルチョ](../Page/ウディネーゼ・カルチョ.md "wikilink")に勝利し、決勝トーナメントに進出した。
 
 ## タイトル
 
@@ -117,7 +117,7 @@
 <td><p>2003-04</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ_2003-04" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヴィスワ・クラクフ" title="wikilink">ヴィスワ・クラクフ</a></p></td>
+<td><p><a href="../Page/ヴィスワ・クラクフ.md" title="wikilink">ヴィスワ・クラクフ</a></p></td>
 <td><p>1–2</p></td>
 <td><p>1–2</p></td>
 <td><p>'''2–4</p></td>
@@ -144,7 +144,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/トッテナム・ホットスパーFC" title="wikilink">トッテナム・ホットスパー</a></p></td>
+<td><p><a href="../Page/トッテナム・ホットスパーFC.md" title="wikilink">トッテナム・ホットスパー</a></p></td>
 <td><p>0–1</p></td>
 <td><p>style="background-color:#CFF" align="center" </p></td>
 <td></td>
@@ -164,7 +164,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ウディネーゼ・カルチョ" title="wikilink">ウディネーゼ</a></p></td>
+<td><p><a href="../Page/ウディネーゼ・カルチョ.md" title="wikilink">ウディネーゼ</a></p></td>
 <td><p>2-0</p></td>
 <td><p>style="background-color:#CFF" align="center" </p></td>
 <td></td>
@@ -175,7 +175,7 @@
 </tr>
 <tr class="odd">
 <td><p>3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ハンブルガーSV" title="wikilink">ハンブルガーSV</a></p></td>
+<td><p><a href="../Page/ハンブルガーSV.md" title="wikilink">ハンブルガーSV</a></p></td>
 <td><p>0–3</p></td>
 <td><p>0–1</p></td>
 <td><p>'''0–4</p></td>
@@ -200,7 +200,7 @@
 
 ## 歴代監督
 
-  - [ヨハン・ニースケンス](https://ja.wikipedia.org/wiki/ヨハン・ニースケンス "wikilink") 2000-2004
+  - [ヨハン・ニースケンス](../Page/ヨハン・ニースケンス.md "wikilink") 2000-2004
 
   - [セース・ロク](https://ja.wikipedia.org/wiki/セース・ロク "wikilink") 2004-2005
 
@@ -208,7 +208,7 @@
 
   - [マリオ・ベーン](https://ja.wikipedia.org/wiki/マリオ・ベーン "wikilink") 2006-2009
 
-  - [ドワイト・ローデヴェーヘス](https://ja.wikipedia.org/wiki/ドワイト・ローデヴェーヘス "wikilink") 2009
+  - [ドワイト・ローデヴェーヘス](../Page/ドワイト・ローデヴェーヘス.md "wikilink") 2009
 
   - [ウィルヤン・フルート](https://ja.wikipedia.org/wiki/ウィルヤン・フルート "wikilink") 2009-2011
 
@@ -234,7 +234,7 @@
 
 ### MF
 
-  - [フース・ヒディンク](https://ja.wikipedia.org/wiki/フース・ヒディンク "wikilink") 1978-1981
+  - [フース・ヒディンク](../Page/フース・ヒディンク.md "wikilink") 1978-1981
 
   - [エドガル・バレット](https://ja.wikipedia.org/wiki/エドガル・バレット "wikilink")　2004-2007
 

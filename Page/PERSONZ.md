@@ -5,17 +5,17 @@
 
 ## 概要
 
-[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")結成。当初は女性[ボーカリストの](https://ja.wikipedia.org/wiki/ボーカル "wikilink")[JILL](https://ja.wikipedia.org/wiki/JILL "wikilink")と[ギタリスト](../Page/ギタリスト.md "wikilink")の[本田毅](../Page/本田毅.md "wikilink")の2人の[ユニットという色彩が強く](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")、[バンド名も](../Page/バンド_\(音楽\).md "wikilink")**[NOTHING PERSONAL](https://ja.wikipedia.org/wiki/NOTHING_PERSONAL_\(バンド\) "wikilink")**を名乗っていた。その後、元[AUTO-MOD](../Page/AUTO-MOD.md "wikilink")（一時並行して在籍）の[ベーシスト](../Page/ベーシスト.md "wikilink")、[渡邉貢](../Page/渡邉貢.md "wikilink")と[ドラマー](../Page/ドラマー.md "wikilink")の[藤田勉](https://ja.wikipedia.org/wiki/藤田勉 "wikilink")が加わり、[1984年](../Page/1984年.md "wikilink")にバンド名を**PERSONZ**に改名。[新宿LOFTを中心としたライブ活動を展開する](https://ja.wikipedia.org/wiki/ロフト_\(ライブハウス\) "wikilink")。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に[メジャーデビュー](https://ja.wikipedia.org/wiki/メジャーデビュー "wikilink")。ドラマ『[ママハハ・ブギ](../Page/ママハハ・ブギ.md "wikilink")』（[TBS](../Page/TBSテレビ.md "wikilink")）の[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")「[DEAR FRIENDS](https://ja.wikipedia.org/wiki/DEAR_FRIENDS_\(PERSONZの曲\) "wikilink")」や、[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")No.1アルバム『[DREAMERS ONLY](https://ja.wikipedia.org/wiki/DREAMERS_ONLY "wikilink")』が[ヒットした](https://ja.wikipedia.org/wiki/ヒット曲 "wikilink")。
+[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")結成。当初は女性[ボーカリストの](https://ja.wikipedia.org/wiki/ボーカル "wikilink")[JILL](../Page/JILL.md "wikilink")と[ギタリスト](../Page/ギタリスト.md "wikilink")の[本田毅](../Page/本田毅.md "wikilink")の2人の[ユニットという色彩が強く](../Page/音楽ユニット.md "wikilink")、[バンド名も](../Page/バンド_\(音楽\).md "wikilink")**[NOTHING PERSONAL](https://ja.wikipedia.org/wiki/NOTHING_PERSONAL_\(バンド\) "wikilink")**を名乗っていた。その後、元[AUTO-MOD](../Page/AUTO-MOD.md "wikilink")（一時並行して在籍）の[ベーシスト](../Page/ベーシスト.md "wikilink")、[渡邉貢](../Page/渡邉貢.md "wikilink")と[ドラマー](../Page/ドラマー.md "wikilink")の[藤田勉](../Page/藤田勉.md "wikilink")が加わり、[1984年](../Page/1984年.md "wikilink")にバンド名を**PERSONZ**に改名。[新宿LOFTを中心としたライブ活動を展開する](../Page/ロフト_\(ライブハウス\).md "wikilink")。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に[メジャーデビュー](https://ja.wikipedia.org/wiki/メジャーデビュー "wikilink")。ドラマ『[ママハハ・ブギ](../Page/ママハハ・ブギ.md "wikilink")』（[TBS](../Page/TBSテレビ.md "wikilink")）の[主題歌](../Page/主題歌.md "wikilink")「[DEAR FRIENDS](https://ja.wikipedia.org/wiki/DEAR_FRIENDS_\(PERSONZの曲\) "wikilink")」や、[オリコンチャート](../Page/オリコンチャート.md "wikilink")No.1アルバム『[DREAMERS ONLY](https://ja.wikipedia.org/wiki/DREAMERS_ONLY "wikilink")』が[ヒットした](../Page/ヒット曲.md "wikilink")。
 
-[1992年](../Page/1992年.md "wikilink")に本田が脱退。その後しばらく正式メンバーとしてのギタリストは不在であったが、1996年に元[ガラパゴスの](https://ja.wikipedia.org/wiki/ガラパゴス_\(バンド\) "wikilink")[田中詠司](https://ja.wikipedia.org/wiki/田中詠司 "wikilink")が加入。2001年に田中が脱退した後、[2002年](../Page/2002年.md "wikilink")から本田が復帰。以降、オリジナルメンバーで活動を続けている。2005年には、すべて新曲のライブでもレコーディングでもない世界初のDVDアルバム『[RODEO DRIVE](https://ja.wikipedia.org/wiki/RODEO_DRIVE_\(PERSONZの映像作品\) "wikilink")』を発表。この作品は編集無しの一発録りという、珍しい構成になっている。
+[1992年](../Page/1992年.md "wikilink")に本田が脱退。その後しばらく正式メンバーとしてのギタリストは不在であったが、1996年に元[ガラパゴスの](../Page/ガラパゴス_\(バンド\).md "wikilink")[田中詠司](https://ja.wikipedia.org/wiki/田中詠司 "wikilink")が加入。2001年に田中が脱退した後、[2002年](../Page/2002年.md "wikilink")から本田が復帰。以降、オリジナルメンバーで活動を続けている。2005年には、すべて新曲のライブでもレコーディングでもない世界初のDVDアルバム『[RODEO DRIVE](https://ja.wikipedia.org/wiki/RODEO_DRIVE_\(PERSONZの映像作品\) "wikilink")』を発表。この作品は編集無しの一発録りという、珍しい構成になっている。
 
 ## メンバー
 
 ### 正式メンバー
 
-  - [JILL](https://ja.wikipedia.org/wiki/JILL "wikilink")（ジル）:[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink") [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身
+  - [JILL](../Page/JILL.md "wikilink")（ジル）:[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink") [東京都](../Page/東京都.md "wikilink")出身
   - [渡邉貢](../Page/渡邉貢.md "wikilink")（わたなべ みつぐ）:[ベーシスト](../Page/ベーシスト.md "wikilink") [新潟県](../Page/新潟県.md "wikilink")出身
-  - [藤田勉](https://ja.wikipedia.org/wiki/藤田勉 "wikilink")（ふじた つとむ）:[ドラマー](../Page/ドラマー.md "wikilink") 新潟県出身
+  - [藤田勉](../Page/藤田勉.md "wikilink")（ふじた つとむ）:[ドラマー](../Page/ドラマー.md "wikilink") 新潟県出身
 
 <!-- end list -->
 
@@ -28,7 +28,7 @@
 
 ### 以前に所属していたメンバー
 
-  - [田中詠司](https://ja.wikipedia.org/wiki/田中詠司 "wikilink")（たなか えいじ）:ギタリスト（1996年3月 - 2001年4月21日）、ex-[GALAPAGOS](https://ja.wikipedia.org/wiki/ガラパゴス_\(バンド\) "wikilink")、現在はSWEET NUMBER NINEに所属。
+  - [田中詠司](https://ja.wikipedia.org/wiki/田中詠司 "wikilink")（たなか えいじ）:ギタリスト（1996年3月 - 2001年4月21日）、ex-[GALAPAGOS](../Page/ガラパゴス_\(バンド\).md "wikilink")、現在はSWEET NUMBER NINEに所属。
 
 ## ディスコグラフィ
 
@@ -46,10 +46,10 @@
 10. [sayonaraは言わない](https://ja.wikipedia.org/wiki/sayonaraは言わない "wikilink")（1994年3月2日） - [劇場アニメ](../Page/アニメーション映画.md "wikilink")『[幽☆遊☆白書 冥界死闘篇 炎の絆](../Page/幽☆遊☆白書_冥界死闘篇_炎の絆.md "wikilink")』主題歌
 11. [悲しみの天使](https://ja.wikipedia.org/wiki/悲しみの天使 "wikilink")（1994年6月1日） - テレビ東京系『[ダイヤモンドサッカー](https://ja.wikipedia.org/wiki/ダイヤモンドサッカー "wikilink")』エンディング・テーマ
 12. [VENUSの憂鬱](https://ja.wikipedia.org/wiki/VENUSの憂鬱 "wikilink")（1994年11月16日） - フジテレビ系『[なるほど\!ザ・ワールド](../Page/なるほど!ザ・ワールド.md "wikilink")』エンディング・テーマ
-13. [Stay as a Friend -友達のままで-](https://ja.wikipedia.org/wiki/Stay_as_a_Friend_-友達のままで- "wikilink")（1995年3月1日） - ABC・TV朝日系ドラマ『[SALE\!](https://ja.wikipedia.org/wiki/SALE! "wikilink")』主題歌
+13. [Stay as a Friend -友達のままで-](https://ja.wikipedia.org/wiki/Stay_as_a_Friend_-友達のままで- "wikilink")（1995年3月1日） - ABC・TV朝日系ドラマ『[SALE\!](../Page/SALE!.md "wikilink")』主題歌
 14. [blue heaven](https://ja.wikipedia.org/wiki/Blue_heaven_\(PERSONZの曲\) "wikilink")（1996年5月9日）
 15. [Open Sesame\!](https://ja.wikipedia.org/wiki/Open_Sesame!_\(曲\) "wikilink")（1996年9月11日）
-16. [夢の涯てまでも](https://ja.wikipedia.org/wiki/夢の涯てまでも_\(PERSONZの曲\) "wikilink")（1996年11月13日） - テレビ東京系アニメ『[爆走兄弟レッツ&ゴー\!\!](https://ja.wikipedia.org/wiki/爆走兄弟レッツ&ゴー!! "wikilink")』4代目エンディング・テーマ
+16. [夢の涯てまでも](https://ja.wikipedia.org/wiki/夢の涯てまでも_\(PERSONZの曲\) "wikilink")（1996年11月13日） - テレビ東京系アニメ『[爆走兄弟レッツ&ゴー\!\!](../Page/爆走兄弟レッツ&ゴー!!.md "wikilink")』4代目エンディング・テーマ
 17. [River](https://ja.wikipedia.org/wiki/River_\(PERSONZの曲\) "wikilink")（1998年2月25日）
 18. [DEAR FRIENDS -21st version-](https://ja.wikipedia.org/wiki/DEAR_FRIENDS_-21st_version- "wikilink")（2001年2月9日）
 19. [SINGIN'](https://ja.wikipedia.org/wiki/SINGIN'_\(曲\) "wikilink") （2002年9月26日）

@@ -6,8 +6,8 @@
 ## 解説
 
   - [1996年](../Page/1996年.md "wikilink")[4月24日](../Page/4月24日.md "wikilink")に[エイベックスよりリリースされた](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。
-  - [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")[水曜ドラマ](https://ja.wikipedia.org/wiki/水曜ドラマ_\(日本テレビ\) "wikilink")『[竜馬におまかせ\!](https://ja.wikipedia.org/wiki/竜馬におまかせ! "wikilink")』の[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")。
-  - 曲調が[ジャングルではなくなった](https://ja.wikipedia.org/wiki/ジャングル_\(音楽\) "wikilink")。
+  - [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")[水曜ドラマ](../Page/水曜ドラマ_\(日本テレビ\).md "wikilink")『[竜馬におまかせ\!](../Page/竜馬におまかせ!.md "wikilink")』の[主題歌](../Page/主題歌.md "wikilink")。
+  - 曲調が[ジャングルではなくなった](../Page/ジャングル_\(音楽\).md "wikilink")。
   - 浜田は「H Jungle with tの中で一番難しい曲であり、声の強弱を効かせる様に要求された」と語る。トラックダウンは前2曲はロンドンで行われたが、本作はロサンゼルスで行われた\[1\]。
   - 歌詞のテーマは「普遍的な友情」である\[2\]。
   - ドラマの視聴率が低調だったこともあり、前2作に比べあまりセールスが振るわなかった。

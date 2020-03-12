@@ -12,7 +12,7 @@
 
 1\. **VALENTI**
 
-  - 作詞: [康珍化](https://ja.wikipedia.org/wiki/康珍化 "wikilink") 作曲: [原一博](../Page/原一博.md "wikilink")
+  - 作詞: [康珍化](../Page/康珍化.md "wikilink") 作曲: [原一博](../Page/原一博.md "wikilink")
 
 2\. **Realize (stay with me)**
 
@@ -29,7 +29,7 @@
 <!-- end list -->
 
   - [ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")社ゲーム「PROJECT MINERVA」CMソング
-  - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系「[JAPAN COUNTDOWN](https://ja.wikipedia.org/wiki/JAPAN_COUNTDOWN "wikilink")」オープニングテーマ
+  - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系「[JAPAN COUNTDOWN](../Page/JAPAN_COUNTDOWN.md "wikilink")」オープニングテーマ
 
 <!-- end list -->
 

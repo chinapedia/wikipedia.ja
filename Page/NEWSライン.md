@@ -7,7 +7,7 @@
 
 平日最終便のローカルワイドニュースとして放送されていた『[TVNニュース](https://ja.wikipedia.org/wiki/TVNニュース "wikilink")』を本番組にリニューアルする形で[2001年](../Page/2001年.md "wikilink")にスタートした。開始当初の放送時間は、平日22:30 - 22:55の25分間。
 
-放送当日の[奈良県](../Page/奈良県.md "wikilink")内のストレートニュースのほかに、県内各地の人や取り組みなどを紹介する「地域の話題」、特集、インタビュー、イベントの告知を行う「お知らせ」などで構成されていた。また、[万葉学者](../Page/万葉学者.md "wikilink")の[中西進](https://ja.wikipedia.org/wiki/中西進 "wikilink")が[万葉集](../Page/万葉集.md "wikilink")の歌が詠まれた場所を訪ねる「中西進の万葉こゝろ旅」をシリーズ企画として放送していた。同コーナーはのちに、[紀行番組](https://ja.wikipedia.org/wiki/紀行番組 "wikilink")として番組化された。
+放送当日の[奈良県](../Page/奈良県.md "wikilink")内のストレートニュースのほかに、県内各地の人や取り組みなどを紹介する「地域の話題」、特集、インタビュー、イベントの告知を行う「お知らせ」などで構成されていた。また、[万葉学者](../Page/万葉学者.md "wikilink")の[中西進](../Page/中西進.md "wikilink")が[万葉集](../Page/万葉集.md "wikilink")の歌が詠まれた場所を訪ねる「中西進の万葉こゝろ旅」をシリーズ企画として放送していた。同コーナーはのちに、[紀行番組](../Page/紀行番組.md "wikilink")として番組化された。
 
 スタジオセットは、本番組と同様にニューススタジオを使用する『TVNニュース』、『[News Up なら](https://ja.wikipedia.org/wiki/News_Up_なら "wikilink")』と共用し、末期のセットは本番組終了後も『TVNニュース』で引き続き使用されていた。
 
@@ -19,7 +19,7 @@
 
 キャスターは曜日ごとに2名のペアリングで担当していた。最終回時点のキャスターは以下の通り。
 
-  - [臼井雅基](https://ja.wikipedia.org/wiki/臼井雅基 "wikilink")
+  - [臼井雅基](../Page/臼井雅基.md "wikilink")
   - [野上ともよ](https://ja.wikipedia.org/wiki/野上ともよ "wikilink")
 
 ### 過去のキャスター
@@ -28,7 +28,7 @@
   - [堀江良信](../Page/堀江良信.md "wikilink")
   - [根木近江美](https://ja.wikipedia.org/wiki/根木近江美 "wikilink")
   - [小田美保代](https://ja.wikipedia.org/wiki/小田美保代 "wikilink")
-  - [坂口親宏](https://ja.wikipedia.org/wiki/坂口親宏 "wikilink")
+  - [坂口親宏](../Page/坂口親宏.md "wikilink")
   - [中野みき](https://ja.wikipedia.org/wiki/中野みき "wikilink")
   - [永倉由季](https://ja.wikipedia.org/wiki/永倉由季 "wikilink")
 

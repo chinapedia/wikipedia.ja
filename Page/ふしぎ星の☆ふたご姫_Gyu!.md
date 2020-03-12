@@ -1,11 +1,11 @@
 > この記事は[ Gyu!](https://ja.wikipedia.org/wiki/_Gyu!)から翻訳されています。
 
 
-『**ふしぎ星の☆ふたご姫 Gyu\!**』（ふしぎぼしの ふたごひめ ぎゅっ\!）は、日本の[アニメ](../Page/アニメ.md "wikilink")作品。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[テレビ東京系列で放送された](https://ja.wikipedia.org/wiki/TXN "wikilink")。
+『**ふしぎ星の☆ふたご姫 Gyu\!**』（ふしぎぼしの ふたごひめ ぎゅっ\!）は、日本の[アニメ](../Page/アニメ.md "wikilink")作品。[2006年](../Page/2006年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[テレビ東京系列で放送された](https://ja.wikipedia.org/wiki/TXN "wikilink")。
 
 ## 概要
 
-テレビ東京系で[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")から2006年[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")まで放送された『[ふしぎ星の☆ふたご姫](https://ja.wikipedia.org/wiki/ふしぎ星の☆ふたご姫 "wikilink")』の続編。当初は前作の終了をもって完結の予定だったが、続編の製作が決定した。玩具は前作に引き続いて[バンダイ](../Page/バンダイ.md "wikilink")から発売された。
+テレビ東京系で[2005年](../Page/2005年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から2006年[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")まで放送された『[ふしぎ星の☆ふたご姫](../Page/ふしぎ星の☆ふたご姫.md "wikilink")』の続編。当初は前作の終了をもって完結の予定だったが、続編の製作が決定した。玩具は前作に引き続いて[バンダイ](../Page/バンダイ.md "wikilink")から発売された。
 
 前作に引き続き、[小学館](../Page/小学館.md "wikilink")は主力スポンサーの一つであったが、第27話（[9月30日](../Page/9月30日.md "wikilink")放送分）を最後に降板した\[1\]。前作にて小学館の雑誌で行われていた[漫画化](https://ja.wikipedia.org/wiki/漫画化 "wikilink")は今回は見送られている。主題歌（ED前期）には『[学園天国](../Page/学園天国_\(曲\).md "wikilink")』のリメイクが採用された。
 
@@ -17,16 +17,16 @@
 
 ## 前作との違い
 
-前作と違ってキャラクターのコスチュームが違う。前作ではプリンス・プリンセスの正装であったが、今作ではロイヤルワンダー学園の制服を着用している。制服は上は大きな襟の付いたジャケットで、下は男性キャラはズボン、女性キャラはスカートである。制服の色はキャラクターによって違う。通学時はその上に、腰が隠れる程度の丈の白い[マント](https://ja.wikipedia.org/wiki/マント "wikilink")を着用する。
+前作と違ってキャラクターのコスチュームが違う。前作ではプリンス・プリンセスの正装であったが、今作ではロイヤルワンダー学園の制服を着用している。制服は上は大きな襟の付いたジャケットで、下は男性キャラはズボン、女性キャラはスカートである。制服の色はキャラクターによって違う。通学時はその上に、腰が隠れる程度の丈の白い[マント](../Page/マント.md "wikilink")を着用する。
 
 ## 登場人物
 
 ## スタッフ
 
-  - 原案 - [バースデイ](https://ja.wikipedia.org/wiki/バースデイ_\(企業\) "wikilink")
-  - 総監督 - [佐藤順一](https://ja.wikipedia.org/wiki/佐藤順一 "wikilink")
-  - 監督 - [河本昇悟](https://ja.wikipedia.org/wiki/河本昇悟 "wikilink")
-  - シリーズ構成 - [中瀬理香](https://ja.wikipedia.org/wiki/中瀬理香 "wikilink")
+  - 原案 - [バースデイ](../Page/バースデイ_\(企業\).md "wikilink")
+  - 総監督 - [佐藤順一](../Page/佐藤順一.md "wikilink")
+  - 監督 - [河本昇悟](../Page/河本昇悟.md "wikilink")
+  - シリーズ構成 - [中瀬理香](../Page/中瀬理香.md "wikilink")
   - キャラクターデザイン - 数井浩子、小林明美、吉川美貴
   - 総作画監督 - 原田大基、丹羽恭利
   - コンセプトデザイン - [宮尾佳和](https://ja.wikipedia.org/wiki/宮尾佳和 "wikilink")、[プレックス](../Page/プレックス.md "wikilink")
@@ -37,23 +37,23 @@
   - 編集 - [西山茂](https://ja.wikipedia.org/wiki/西山茂_\(編集技師\) "wikilink")
   - 音楽 - [中川幸太郎](../Page/中川幸太郎.md "wikilink")
   - 音響監督 - [本山哲](https://ja.wikipedia.org/wiki/本山哲_\(音響監督\) "wikilink")
-  - プロデューサー - 具嶋朋子→[吉野文](https://ja.wikipedia.org/wiki/吉野文 "wikilink")、高橋知子
-  - アニメーション制作 - [ハルフィルムメーカー](https://ja.wikipedia.org/wiki/ハルフィルムメーカー "wikilink")
-  - 制作 - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、[NAS](https://ja.wikipedia.org/wiki/日本アドシステムズ "wikilink")
+  - プロデューサー - 具嶋朋子→[吉野文](../Page/吉野文.md "wikilink")、高橋知子
+  - アニメーション制作 - [ハルフィルムメーカー](../Page/ハルフィルムメーカー.md "wikilink")
+  - 制作 - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、[NAS](../Page/日本アドシステムズ.md "wikilink")
 
 ## 主題歌
 
 ### オープニングテーマ
 
   - 「[キミのアシタ](../Page/キミのアシタ.md "wikilink")」
-    作詞 - 森林檎 / 作曲・編曲 - [本田洋一郎](https://ja.wikipedia.org/wiki/本田洋一郎_\(作曲家\) "wikilink") / 歌 - [FLIP-FLAP](https://ja.wikipedia.org/wiki/FLIP-FLAP "wikilink")
+    作詞 - 森林檎 / 作曲・編曲 - [本田洋一郎](https://ja.wikipedia.org/wiki/本田洋一郎_\(作曲家\) "wikilink") / 歌 - [FLIP-FLAP](../Page/FLIP-FLAP.md "wikilink")
 
 ### エンディングテーマ
 
   - 「[学園天国](../Page/学園天国_\(曲\).md "wikilink")」（第1話（2006年4月1日）- 第26話（2006年9月23日））
-    作詞 - [阿久悠](https://ja.wikipedia.org/wiki/阿久悠 "wikilink") / 作曲 - [井上忠夫](https://ja.wikipedia.org/wiki/井上大輔 "wikilink") / 編曲 - [佐橋俊彦](https://ja.wikipedia.org/wiki/佐橋俊彦 "wikilink")・[坂部剛](https://ja.wikipedia.org/wiki/坂部剛 "wikilink") / 歌 - [ワンダー☆5](https://ja.wikipedia.org/wiki/ワンダー☆5 "wikilink")
+    作詞 - [阿久悠](../Page/阿久悠.md "wikilink") / 作曲 - [井上忠夫](https://ja.wikipedia.org/wiki/井上大輔 "wikilink") / 編曲 - [佐橋俊彦](../Page/佐橋俊彦.md "wikilink")・[坂部剛](https://ja.wikipedia.org/wiki/坂部剛 "wikilink") / 歌 - [ワンダー☆5](https://ja.wikipedia.org/wiki/ワンダー☆5 "wikilink")
 
-    [フィンガー5](https://ja.wikipedia.org/wiki/フィンガー5 "wikilink")が[1974年](../Page/1974年.md "wikilink")に発売した曲のカバー曲。
+    [フィンガー5](../Page/フィンガー5.md "wikilink")が[1974年](../Page/1974年.md "wikilink")に発売した曲のカバー曲。
 
   - 「学園天国〜ファイン★レインばーじょん」（第27話（2006年9月30日））
     歌 - ファイン★レイン（小島めぐみ&後藤邑子）
@@ -86,8 +86,8 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>新しい学校☆めざせ友達100万人</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中瀬理香" title="wikilink">中瀬理香</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/佐藤順一" title="wikilink">佐藤順一</a></p></td>
+<td><p><a href="../Page/中瀬理香.md" title="wikilink">中瀬理香</a></p></td>
+<td><p><a href="../Page/佐藤順一.md" title="wikilink">佐藤順一</a></p></td>
 <td><p>福田貴之</p></td>
 <td><p>細居美恵子</p></td>
 <td><p><strong>2006年</strong><br />
@@ -96,7 +96,7 @@
 <tr class="even">
 <td><p>2</p></td>
 <td><p>学園仲良し計画☆着ぐるみダンス</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/河本昇悟" title="wikilink">河本昇悟</a></p></td>
+<td><p><a href="../Page/河本昇悟.md" title="wikilink">河本昇悟</a></p></td>
 <td><p>筑紫大介</p></td>
 <td><p>木野下澄江</p></td>
 <td><p>4月8日</p></td>
@@ -115,7 +115,7 @@
 <td><p>4</p></td>
 <td><p>いきなり退学〜!?☆初めての授業</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/福嶋幸典" title="wikilink">福嶋幸典</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/玉川達文" title="wikilink">玉川達文</a></p></td>
+<td><p><a href="../Page/玉川達文.md" title="wikilink">玉川達文</a></p></td>
 <td><p>星野真澄</p></td>
 <td><p>4月22日</p></td>
 <td></td>
@@ -123,16 +123,16 @@
 <tr class="odd">
 <td><p>5</p></td>
 <td><p>学園ニュース☆レインの女子アナ大作戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/高橋ナツコ" title="wikilink">高橋ナツコ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/佐山聖子" title="wikilink">佐山聖子</a></p></td>
+<td><p><a href="../Page/高橋ナツコ.md" title="wikilink">高橋ナツコ</a></p></td>
+<td><p><a href="../Page/佐山聖子.md" title="wikilink">佐山聖子</a></p></td>
 <td><p><a href="../Page/ふじもとよしたか.md" title="wikilink">藤本義孝</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/志田ただし" title="wikilink">志田ただし</a></p></td>
+<td><p><a href="../Page/志田ただし.md" title="wikilink">志田ただし</a></p></td>
 <td><p>4月29日</p></td>
 </tr>
 <tr class="even">
 <td><p>6</p></td>
 <td><p>クラブ活動☆ファインのおなら大実験</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/まさきひろ" title="wikilink">まさきひろ</a></p></td>
+<td><p><a href="../Page/まさきひろ.md" title="wikilink">まさきひろ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/小野勝巳" title="wikilink">小野勝巳</a></p></td>
 <td><p>吉田俊司</p></td>
 <td><p>平塚知哉</p></td>
@@ -440,7 +440,7 @@
 <td><p>40</p></td>
 <td><p>新春カートレース☆お年玉は誰の手に!?</p></td>
 <td><p>高橋ナツコ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/紅優" title="wikilink">紅優</a></p></td>
+<td><p><a href="../Page/紅優.md" title="wikilink">紅優</a></p></td>
 <td><p>大脊戸聡</p></td>
 <td><p>シノミン<br />
 上田幸一郎</p></td>
@@ -579,14 +579,14 @@
 
 ### 日本国内での放送
 
-| 放送地域                                                           | 放送局                                                     | 放送期間                                                                                                                                                                 | 放送日時             | 放送系列                                                    | 備考      |
-| -------------------------------------------------------------- | ------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ------------------------------------------------------- | ------- |
-| [関東広域圏](../Page/広域放送.md "wikilink")                            | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink") | [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月1日](../Page/4月1日.md "wikilink") - [2007年](../Page/2007年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink") | 土曜 10:00 - 10:30 | [テレビ東京系列](https://ja.wikipedia.org/wiki/TXN "wikilink") | **製作局** |
-| [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")            | [テレビ北海道](../Page/テレビ北海道.md "wikilink")                  |                                                                                                                                                                      |                  |                                                         |         |
-| [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")            | [テレビ愛知](../Page/テレビ愛知.md "wikilink")                    |                                                                                                                                                                      |                  |                                                         |         |
-| [大阪府](../Page/大阪府.md "wikilink")                               | [テレビ大阪](../Page/テレビ大阪.md "wikilink")                    |                                                                                                                                                                      |                  |                                                         |         |
-| [岡山県・香川県](https://ja.wikipedia.org/wiki/岡山県・香川県の放送 "wikilink") | [テレビせとうち](../Page/テレビせとうち.md "wikilink")                |                                                                                                                                                                      |                  |                                                         |         |
-| [福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")            | [TVQ九州放送](../Page/TVQ九州放送.md "wikilink")                |                                                                                                                                                                      |                  |                                                         |         |
+| 放送地域                                                | 放送局                                                     | 放送期間                                                                                                                                              | 放送日時             | 放送系列                                                    | 備考      |
+| --------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ------------------------------------------------------- | ------- |
+| [関東広域圏](../Page/広域放送.md "wikilink")                 | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink") | [2006年](../Page/2006年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink") - [2007年](../Page/2007年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink") | 土曜 10:00 - 10:30 | [テレビ東京系列](https://ja.wikipedia.org/wiki/TXN "wikilink") | **製作局** |
+| [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink") | [テレビ北海道](../Page/テレビ北海道.md "wikilink")                  |                                                                                                                                                   |                  |                                                         |         |
+| [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink") | [テレビ愛知](../Page/テレビ愛知.md "wikilink")                    |                                                                                                                                                   |                  |                                                         |         |
+| [大阪府](../Page/大阪府.md "wikilink")                    | [テレビ大阪](../Page/テレビ大阪.md "wikilink")                    |                                                                                                                                                   |                  |                                                         |         |
+| [岡山県・香川県](../Page/岡山県・香川県の放送.md "wikilink")         | [テレビせとうち](../Page/テレビせとうち.md "wikilink")                |                                                                                                                                                   |                  |                                                         |         |
+| [福岡県](../Page/福岡県.md "wikilink")                    | [TVQ九州放送](../Page/TVQ九州放送.md "wikilink")                |                                                                                                                                                   |                  |                                                         |         |
 
 ### 日本国外での放送
 
@@ -603,7 +603,7 @@
 
 [バンダイ](../Page/バンダイ.md "wikilink")より[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用ソフト『**スタイルブック 〜ふしぎ星の☆ふたご姫 Gyu\!**』が2006年[3月23日](../Page/3月23日.md "wikilink")に発売されている。
 
-このソフトは[ゲームソフト](../Page/ゲームソフト.md "wikilink")ではなく[電子手帳](https://ja.wikipedia.org/wiki/電子手帳 "wikilink")ソフトであり、日記帳やスケジュール帳・アラーム・会計簿（おこづかい管理）機能などが搭載されている（いずれの機能も、最大で1年分(365日\[4\])のデータを記録可能）。
+このソフトは[ゲームソフト](../Page/ゲームソフト.md "wikilink")ではなく[電子手帳](../Page/電子手帳.md "wikilink")ソフトであり、日記帳やスケジュール帳・アラーム・会計簿（おこづかい管理）機能などが搭載されている（いずれの機能も、最大で1年分(365日\[4\])のデータを記録可能）。
 
 また、電子手帳の機能やフレンドリスト（最大20人登録可）に登録した友人と通信機能を使用してデータを交換することで「スマイルポイント」が蓄積され「アイテムショップ」で「鉛筆」「シール」「リーフレット」などのレアアイテムを購入することが出来る。
 
@@ -616,7 +616,7 @@
   - [（小学館の）幼稚園](../Page/幼稚園_\(雑誌\).md "wikilink")（2006年4月号 - 2007年3月号）
   - [めばえ](https://ja.wikipedia.org/wiki/めばえ_\(雑誌\) "wikilink")（2006年4月号 - 2007年3月号）
   - [学習幼稚園](https://ja.wikipedia.org/wiki/学習幼稚園 "wikilink")
-  - [小学一年生](https://ja.wikipedia.org/wiki/小学館の学年別学習雑誌 "wikilink")（2006年4月号 - 9月号）
+  - [小学一年生](../Page/小学館の学年別学習雑誌.md "wikilink")（2006年4月号 - 9月号）
       - 前作で行われていた『[ちゃお](https://ja.wikipedia.org/wiki/ちゃお "wikilink")』への漫画版の掲載は今作では一切行われなかった。
 
 #### 絵本
@@ -626,7 +626,7 @@
 
 #### 書籍
 
-  - ふしぎ星の☆ふたご姫 Gyu\! キャラクターファンブック（2007年 [ジャイブ](https://ja.wikipedia.org/wiki/ジャイブ "wikilink") ISBN 978-4-86176-404-2）
+  - ふしぎ星の☆ふたご姫 Gyu\! キャラクターファンブック（2007年 [ジャイブ](../Page/ジャイブ.md "wikilink") ISBN 978-4-86176-404-2）
 
 #### DVD
 
@@ -663,7 +663,7 @@ DVDは[バンダイビジュアル](../Page/バンダイビジュアル.md "wiki
 ## その他
 
   - [都営バス](../Page/都営バス.md "wikilink")が、2006年6月末から2007年1月中旬まで練馬・巣鴨・渋谷・江戸川地区を中心に『ふしぎ星の☆ふたご姫 Gyu\!』の[ラッピングバス](https://ja.wikipedia.org/wiki/ラッピングバス "wikilink")を1台ずつ計4台運行した\[5\]。
-  - 2006年5月には、[ゲーマーズ](../Page/ゲーマーズ.md "wikilink")本店での関連CD購入者を対象にしたトーク&ライブイベントが[代々木アニメーション学院](https://ja.wikipedia.org/wiki/代々木アニメーション学院 "wikilink")[秋葉原](https://ja.wikipedia.org/wiki/秋葉原 "wikilink")校で開かれた。司会は[おたっきぃ佐々木](https://ja.wikipedia.org/wiki/おたっきぃ佐々木 "wikilink")、出演は総監督の[佐藤順一](https://ja.wikipedia.org/wiki/佐藤順一 "wikilink")、主題歌を歌う[FLIP-FLAP](https://ja.wikipedia.org/wiki/FLIP-FLAP "wikilink")・[ワンダー☆5](https://ja.wikipedia.org/wiki/ワンダー☆5 "wikilink")、ファイン役の[小島めぐみ](https://ja.wikipedia.org/wiki/小島めぐみ "wikilink")、レイン役の[後藤邑子](https://ja.wikipedia.org/wiki/後藤邑子 "wikilink")。
+  - 2006年5月には、[ゲーマーズ](../Page/ゲーマーズ.md "wikilink")本店での関連CD購入者を対象にしたトーク&ライブイベントが[代々木アニメーション学院](../Page/代々木アニメーション学院.md "wikilink")[秋葉原](https://ja.wikipedia.org/wiki/秋葉原 "wikilink")校で開かれた。司会は[おたっきぃ佐々木](../Page/おたっきぃ佐々木.md "wikilink")、出演は総監督の[佐藤順一](../Page/佐藤順一.md "wikilink")、主題歌を歌う[FLIP-FLAP](../Page/FLIP-FLAP.md "wikilink")・[ワンダー☆5](https://ja.wikipedia.org/wiki/ワンダー☆5 "wikilink")、ファイン役の[小島めぐみ](../Page/小島めぐみ.md "wikilink")、レイン役の[後藤邑子](https://ja.wikipedia.org/wiki/後藤邑子 "wikilink")。
       - 上記のイベントによると、ふしぎ星の☆ふたご姫第2期の番組タイトル候補に『ふしぎ星の☆ふたご姫PE（*Princess Edition*）』があったが、「ふしぎ星の☆ふたご姫 ペ」と読めることから[お蔵入り](../Page/お蔵入り.md "wikilink")になった。
   - 小学館の幼稚園の連載期間中、人物作画担当として[大西陽一](https://ja.wikipedia.org/wiki/大西陽一 "wikilink")が担当しており、その後に発売されたテレビ絵本でも確認が出来る。
   - このアニメ終了後、テレビ東京土曜朝10時前半枠における女児向けアニメは2011年4月9日開始の『[プリティーリズム・オーロラドリーム](https://ja.wikipedia.org/wiki/プリティーリズム・オーロラドリーム "wikilink")』まで存在しなかった\[6\]。
@@ -685,7 +685,7 @@ DVDは[バンダイビジュアル](../Page/バンダイビジュアル.md "wiki
 
 [Category:アニメ作品_ふ](https://ja.wikipedia.org/wiki/Category:アニメ作品_ふ "wikilink") [Category:2006年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2006年のテレビアニメ "wikilink") [Category:学園アニメ](https://ja.wikipedia.org/wiki/Category:学園アニメ "wikilink") [Category:架空の養成学校を舞台とした作品](https://ja.wikipedia.org/wiki/Category:架空の養成学校を舞台とした作品 "wikilink") [Category:めばえ](https://ja.wikipedia.org/wiki/Category:めばえ "wikilink") [Category:幼稚園_(雑誌)](https://ja.wikipedia.org/wiki/Category:幼稚園_\(雑誌\) "wikilink") [Category:小学館の学習雑誌](https://ja.wikipedia.org/wiki/Category:小学館の学習雑誌 "wikilink") [Category:いたずら・ぶっく](https://ja.wikipedia.org/wiki/Category:いたずら・ぶっく "wikilink") [Category:2006年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2006年のコンピュータゲーム "wikilink") [Category:ニンテンドーDS用ソフト](https://ja.wikipedia.org/wiki/Category:ニンテンドーDS用ソフト "wikilink")
 
-1.  『[小学一年生](https://ja.wikipedia.org/wiki/小学館の学年別学習雑誌 "wikilink")』においてアニメ情報が掲載されていたが、これも9月号限りで終了した。ただし『[小学館の幼稚園](../Page/幼稚園_\(雑誌\).md "wikilink")』での連載はアニメ終了間際の2007年の3月号まで続けられた。
+1.  『[小学一年生](../Page/小学館の学年別学習雑誌.md "wikilink")』においてアニメ情報が掲載されていたが、これも9月号限りで終了した。ただし『[小学館の幼稚園](../Page/幼稚園_\(雑誌\).md "wikilink")』での連載はアニメ終了間際の2007年の3月号まで続けられた。
 2.  『ケロロ軍曹（第1期）』→『ふしぎ星の☆ふたご姫』→『ふしぎ星の☆ふたご姫 Gyu\!』→『ケロロ軍曹（第4期以降第7期まで）』の順。
 3.  アニメ専用ケーブルチャンネル
 4.  \[<http://www.bandaigames.channel.or.jp/list/ds_stylebook/hutagohime/game2_enjoy.html>　スタイルブック 〜ふしぎ星の☆ふたご姫 Gyu\!公式サイト・あそぶ\]

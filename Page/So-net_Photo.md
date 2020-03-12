@@ -18,7 +18,7 @@
   - 2006年[7月4日](../Page/7月4日.md "wikilink") 正式版サービス開始。有料サービスが選択可能に。
   - 2006年[7月21日](../Page/7月21日.md "wikilink") [SonyStyle](https://ja.wikipedia.org/wiki/SonyStyle "wikilink")とのコラボレーション企画「Salonα」開始。（2009年1月30日終了）
   - 2007年[4月25日](../Page/4月25日.md "wikilink") [アクトビラ](../Page/アクトビラ.md "wikilink")版So-net Photo開始。[テレビ向けポータル](../Page/テレビ向けポータル.md "wikilink")用コンテンツを提供。
-  - 2007年[4月25日](../Page/4月25日.md "wikilink") [ブラビア](https://ja.wikipedia.org/wiki/ブラビア "wikilink")の[アプリキャスト](https://ja.wikipedia.org/wiki/アプリキャスト "wikilink")向けサービス開始。デジタルテレビにウィジェットを提供。
+  - 2007年[4月25日](../Page/4月25日.md "wikilink") [ブラビア](../Page/ブラビア.md "wikilink")の[アプリキャスト](https://ja.wikipedia.org/wiki/アプリキャスト "wikilink")向けサービス開始。デジタルテレビにウィジェットを提供。
   - 2007年[9月19日](../Page/9月19日.md "wikilink") [So-net blogからの画像挿入やスライドショー作成に対応](../Page/So-net_blog.md "wikilink")。のちにトラックバックによる「関連ブログ」も追加。
   - 2007年[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink") [Cyber-shot](https://ja.wikipedia.org/wiki/Cyber-shot "wikilink")付属の画像管理ソフト[Picture Motion Browserと連携](https://ja.wikipedia.org/wiki/Picture_Motion_Browser "wikilink")。「DSC-T2」内蔵PMBからの投稿も可能に。
   - 2008年[1月30日](../Page/1月30日.md "wikilink") 個別画像画面リニューアル。
@@ -30,15 +30,15 @@
 
 ### 写真によるコミュニケーション
 
-フォトシェアリングではあるが、同じ[Flickr](https://ja.wikipedia.org/wiki/Flickr "wikilink")の「Groups」や[フォト蔵](../Page/フォト蔵.md "wikilink")の「コミュニティ」機能のように、グループを形成するための機能は現在、提供されていない。代わりに、投稿者による画像への[タギング](https://ja.wikipedia.org/wiki/タギング "wikilink")が推奨され、[タグ](https://ja.wikipedia.org/wiki/タグ "wikilink")による画像の分類だけでなく、[タグ](https://ja.wikipedia.org/wiki/タグ "wikilink")を媒介としたコミュニティが数多く形成されているのが特徴。（ただし、利用者による自発的なコミュニティのため、ランキングなどでタグが確認できるもの以外は探し出すのが困難）。
+フォトシェアリングではあるが、同じ[Flickr](../Page/Flickr.md "wikilink")の「Groups」や[フォト蔵](../Page/フォト蔵.md "wikilink")の「コミュニティ」機能のように、グループを形成するための機能は現在、提供されていない。代わりに、投稿者による画像への[タギング](../Page/タギング.md "wikilink")が推奨され、[タグ](../Page/タグ.md "wikilink")による画像の分類だけでなく、[タグ](../Page/タグ.md "wikilink")を媒介としたコミュニティが数多く形成されているのが特徴。（ただし、利用者による自発的なコミュニティのため、ランキングなどでタグが確認できるもの以外は探し出すのが困難）。
 
   - [街角激写団](http://pht.so-net.ne.jp/photo/tags/%E8%A1%97%E8%A7%92%E6%BF%80%E5%86%99%E5%9B%A3)
   - [カエル同盟](http://pht.so-net.ne.jp/photo/tags/%E3%82%AB%E3%82%A8%E3%83%AB%E5%90%8C%E7%9B%9F)
   - [虫無視倶楽部](http://pht.so-net.ne.jp/photo/tags/%E8%99%AB%E7%84%A1%E8%A6%96%E5%80%B6%E6%A5%BD%E9%83%A8)
 
-### [フォークソノミー](https://ja.wikipedia.org/wiki/フォークソノミー "wikilink")による画像事典
+### [フォークソノミー](../Page/フォークソノミー.md "wikilink")による画像事典
 
-サイト内の一コーナーとして、おのおのの投稿者により投稿された画像を、[タグ](https://ja.wikipedia.org/wiki/タグ "wikilink")を軸に一覧して表示する**「画像事典」**が提供されている。なお〝事典〟と銘打つものの、いわば[タギング](https://ja.wikipedia.org/wiki/タギング "wikilink")された画像の検索機能であり、画像に関する解説などがあるわけではない。2008年12月時点で、タギングされた画像は130万点、タグは約10万件（2008年12月プレスリリースより）。
+サイト内の一コーナーとして、おのおのの投稿者により投稿された画像を、[タグ](../Page/タグ.md "wikilink")を軸に一覧して表示する**「画像事典」**が提供されている。なお〝事典〟と銘打つものの、いわば[タギング](../Page/タギング.md "wikilink")された画像の検索機能であり、画像に関する解説などがあるわけではない。2008年12月時点で、タギングされた画像は130万点、タグは約10万件（2008年12月プレスリリースより）。
 
   - [画像事典](http://pht.so-net.ne.jp/photo/tags/)
 
@@ -103,7 +103,7 @@
 
 ### 制限
 
-  - アップロード可能容量：5[MB以下](https://ja.wikipedia.org/wiki/メガバイト "wikilink")
+  - アップロード可能容量：5[MB以下](../Page/メガバイト.md "wikilink")
   - 対応拡張子：[gif](../Page/Graphics_Interchange_Format.md "wikilink")、[jpg](../Page/JPEG.md "wikilink")
 
 ## 外部リンク

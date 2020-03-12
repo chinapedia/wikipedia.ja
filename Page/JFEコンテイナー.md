@@ -5,9 +5,9 @@
 
 ## 主要事業所
 
-  - 本社 - [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")猿楽町
+  - 本社 - [東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")猿楽町
   - 大阪営業 - [大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[西区江戸堀](../Page/西区_\(大阪市\).md "wikilink")
-  - 千葉工場 - [千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[千葉市](../Page/千葉市.md "wikilink")[中央区新浜町](../Page/中央区_\(千葉市\).md "wikilink")
+  - 千葉工場 - [千葉県](../Page/千葉県.md "wikilink")[千葉市](../Page/千葉市.md "wikilink")[中央区新浜町](../Page/中央区_\(千葉市\).md "wikilink")
   - 川崎工場 - [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[川崎市](../Page/川崎市.md "wikilink")[川崎区](../Page/川崎区.md "wikilink")浮島町
   - 堺工場 - 大阪府[堺市](https://ja.wikipedia.org/wiki/堺市 "wikilink")[堺区](../Page/堺区.md "wikilink")大浜西町
   - 水島工場 - [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")[倉敷市](../Page/倉敷市.md "wikilink")水島西通1丁目

@@ -5,9 +5,9 @@
 
 ## 概要
 
-『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』（WJ、[集英社](../Page/集英社.md "wikilink")）誌上において[1993年](../Page/1993年.md "wikilink")36・37合併号から[1994年](../Page/1994年.md "wikilink")29号まで全42話で連載。『[Vジャンプ](https://ja.wikipedia.org/wiki/Vジャンプ "wikilink")』における「[SHADOW LADY](https://ja.wikipedia.org/wiki/SHADOW_LADY#VJ版 "wikilink")」の次となる桂正和6作目の連載作品。『WJ』上では「[電影少女](../Page/電影少女.md "wikilink")」の次に当たり、5作目の連載作品となる。単行本は[ジャンプ・コミックス](https://ja.wikipedia.org/wiki/ジャンプ・コミックス "wikilink")より全5巻。
+『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』（WJ、[集英社](../Page/集英社.md "wikilink")）誌上において[1993年](../Page/1993年.md "wikilink")36・37合併号から[1994年](../Page/1994年.md "wikilink")29号まで全42話で連載。『[Vジャンプ](https://ja.wikipedia.org/wiki/Vジャンプ "wikilink")』における「[SHADOW LADY](https://ja.wikipedia.org/wiki/SHADOW_LADY#VJ版 "wikilink")」の次となる桂正和6作目の連載作品。『WJ』上では「[電影少女](../Page/電影少女.md "wikilink")」の次に当たり、5作目の連載作品となる。単行本は[ジャンプ・コミックス](../Page/ジャンプ・コミックス.md "wikilink")より全5巻。
 
-連載期間は10ヶ月弱と、事実上の[打ち切り](https://ja.wikipedia.org/wiki/打ち切り "wikilink")作品であったにも関わらず、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")化と[OVA](../Page/OVA.md "wikilink")化もされた。さらに[金田龍](../Page/金田龍.md "wikilink")を[監督に](../Page/映画監督.md "wikilink")[実写](../Page/実写.md "wikilink")[映画](../Page/映画.md "wikilink")化する計画も有ったものの、頓挫した\[1\]。作者は[トレンディドラマ](https://ja.wikipedia.org/wiki/トレンディドラマ "wikilink")風に仕上げるつもりだったが\[2\]、掲載誌の読者年齢層や、[アンケートシステム](https://ja.wikipedia.org/wiki/アンケートシステム "wikilink")の影響で、[サイキック能力を用いたバトル要素を取り入れた](../Page/超能力.md "wikilink")。
+連載期間は10ヶ月弱と、事実上の[打ち切り](../Page/打ち切り.md "wikilink")作品であったにも関わらず、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")化と[OVA](../Page/OVA.md "wikilink")化もされた。さらに[金田龍](../Page/金田龍.md "wikilink")を[監督に](../Page/映画監督.md "wikilink")[実写](../Page/実写.md "wikilink")[映画](../Page/映画.md "wikilink")化する計画も有ったものの、頓挫した\[1\]。作者は[トレンディドラマ](../Page/トレンディドラマ.md "wikilink")風に仕上げるつもりだったが\[2\]、掲載誌の読者年齢層や、[アンケートシステム](https://ja.wikipedia.org/wiki/アンケートシステム "wikilink")の影響で、[サイキック能力を用いたバトル要素を取り入れた](../Page/超能力.md "wikilink")。
 
 原作とアニメでは設定が若干異なり、話の順序や結末も異なる。（後述）
 
@@ -22,9 +22,9 @@
 ## 登場人物
 
   - 桃生 純太（ももなり じゅんた）
-    [声](../Page/声優.md "wikilink") - [難波圭一](https://ja.wikipedia.org/wiki/難波圭一 "wikilink")
+    [声](../Page/声優.md "wikilink") - [難波圭一](../Page/難波圭一.md "wikilink")
     私立歩駒（ふこま）高校に通う16歳。実家は時計店を営んでいる。血液型はO型。
-    後にメガプレイボーイ(以下メガプレと記述)と呼ばれる男であり、かりんの未来では100人以上の子供を作った大迷惑者として扱われている。しかし、それは覚醒後の話で、現在では女の裸やそれに近いもの（[水着](https://ja.wikipedia.org/wiki/水着 "wikilink")や[レオタード](https://ja.wikipedia.org/wiki/レオタード "wikilink")）を見るとゲロを吐いてしまう女性アレルギーという特異体質に悩まされている。
+    後にメガプレイボーイ(以下メガプレと記述)と呼ばれる男であり、かりんの未来では100人以上の子供を作った大迷惑者として扱われている。しかし、それは覚醒後の話で、現在では女の裸やそれに近いもの（[水着](../Page/水着.md "wikilink")や[レオタード](../Page/レオタード.md "wikilink")）を見るとゲロを吐いてしまう女性アレルギーという特異体質に悩まされている。
     基本的には善人である。一度は敵わないと諦めていたが不良に脱がされ続ける倫子を見て、倫子を助ける為不良に立ち向かったり、ことみが二人組の男に襲われ後に制裁を加え、同じ様な特異体質で悩んでいることみの体質改善の協力もしたりした。亜美の気持ちには少しも気づいていないが、心の底では気に掛けて大切に思っている。
   - 葵 かりん（あおい かりん）
     声 - [冨永み〜な](../Page/冨永みーな.md "wikilink")
@@ -56,7 +56,7 @@
     メガプレの影響で竜二の本命である倫子が純太に惚れてしまい、復讐に走る。最初は金の力でチンピラを雇ったりしていたが、かりんに誤ってDCM弾を撃ち込まれ、サイキック能力に目覚めた。変身能力を使い、純太になり、亜美を体育館に呼び出し襲った。倫子の家に行き、倫子のパジャマを破り、抱きついた。そしてサイキック能力を用いて純太に戦いを挑む。かりん曰く究極のサイキックウェポンである「サイコジャケット」を使うことができ、力に関しては純太を凌駕する。しかし、歪んだ人格は冷えた家族関係や金目当ての男女関係による、愛情を与えられなかった孤独さに起因している。DCM弾の影響で精神面にも変化が現れ始め、優しさと純粋な愛情に目覚める。そうした変容を読んだ純太により、敢えて倫子を危険にさらす策により倒された。
     その後、療養中に倫子とよりを戻すことになった模様。
   - 染屋 垣麿（そめや かきまろ）・市川 一期（いちかわ いちご）
-    声 - [岩田光央](https://ja.wikipedia.org/wiki/岩田光央 "wikilink") / [菊池英博](https://ja.wikipedia.org/wiki/菊池英博_\(声優\) "wikilink")
+    声 - [岩田光央](../Page/岩田光央.md "wikilink") / [菊池英博](../Page/菊池英博_\(声優\).md "wikilink")
     共に純太の友達で原作ではほとんど出番がない。TV版では少し増える。
   - 三兄弟（さんきょうだい）
     竜二に雇われた三人組のチンピラ。モヒカンの男、大男、バンダナをまいた男。かりんと互角に戦える力を持っている。純太と倫子のデートを妨害する。大男は倫子を持ち上げ、スカートと捲り上げる。しかし、中がホットパンツだったことに怒り、倫子を投げ飛ばす。竜二の思惑では純太を痛めつけるつもりだったが、倫子にも手を出してしまう。竜二では逆らえないらしく、モヒカンの男は倫子を捕まえサービスと称し人前で倫子の服を切り裂いた。倫子が抵抗するも、タンクトップをめくり上げる。かりんに止められるが、倫子を人質にかりんが手を出せない状況にする。さらに倫子のスカートを破り、ホットパンツも下ろそうとする。倫子が下着を穿いていないことがわかるも、下ろし続ける。ギリギリの所で亜美に邪魔され、亜美を殴る。これがきっかけで純太が覚醒し、純太に倫子は助けられ、敗れてしまう。
@@ -71,15 +71,15 @@
     かりんのタイムマシーンのコンピューター。非常に優秀な様で聞かれた質問には正確に答えている。
     コンピューターに名前があり、人格のようなものが見受けられるのはアニメだけの設定。
   - 横森（よこもり）
-    声 - [大林隆之介](https://ja.wikipedia.org/wiki/大林隆介 "wikilink")
+    声 - [大林隆之介](../Page/大林隆介.md "wikilink")
     かりんの上司。時空通信によって未来からかりんに指示を与える。
   - 森（もり）
-    声 - [筈見純](https://ja.wikipedia.org/wiki/筈見純 "wikilink")
+    声 - [筈見純](../Page/筈見純.md "wikilink")
     事件の黒幕であり、環境庁所属。かりんが持っていくはずだったDCM弾をすり換えた張本人。
     桃生純太とその子孫のDNAを自分の思いどおりに操れるサイキックソルジャーに変えて、自分の住みやすい世界を作ろうとした。
     戦いに敗れた後は全ての悪事が発覚し横森たちに追い詰められるが、高笑いと共に自ら銃で自害するという壮絶な最期を迎える。
   - 川崎 るらら（かわさき るらら）
-    声 - [玉川紗己子](https://ja.wikipedia.org/wiki/玉川砂記子 "wikilink")
+    声 - [玉川紗己子](../Page/玉川砂記子.md "wikilink")
     デビル純太と呼ばれる森に操られている状態の純太の最後の子供。正史では100人目の子供であったが、ジュンが生まれたために101人目の子供となる。兄弟達の中で、自分だけ子供がいないことに焦りを感じている。
     高いサイキック能力を持ち、正史では生まれないはずのジュンに対抗するため、実の父である純太と子供を作りに来たが、純太がメガプレのDNAを自分の物にしたため彼女の存在自体も消えた。
     アニメでは上記の設定とは違い、単に森に洗脳されている純太の子孫になっている。最後はかりんの必死の説得により洗脳が解け善人に戻る。また、100年後の未来から来たことになっているため、純太は父ではなくお爺ちゃんという位置付け。
@@ -126,7 +126,7 @@
 
 テレビアニメは、[1994年](../Page/1994年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink")から[12月23日](../Page/12月23日.md "wikilink")まで[日本テレビにて放送](../Page/日本テレビ放送網.md "wikilink")。
 
-制作は[マッドハウス](https://ja.wikipedia.org/wiki/マッドハウス "wikilink")、[スタジオディーン](https://ja.wikipedia.org/wiki/スタジオディーン "wikilink")。全12話。このテレビアニメにオリジナルストーリーを3話足した物が[OVA](../Page/OVA.md "wikilink")として[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に[バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")より販売された。[VHS](../Page/VHS.md "wikilink")・[LDで全](../Page/レーザーディスク.md "wikilink")5巻。アニメの桃生純太にはサイキック能力はない。
+制作は[マッドハウス](../Page/マッドハウス.md "wikilink")、[スタジオディーン](../Page/スタジオディーン.md "wikilink")。全12話。このテレビアニメにオリジナルストーリーを3話足した物が[OVA](../Page/OVA.md "wikilink")として[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に[バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")より販売された。[VHS](../Page/VHS.md "wikilink")・[LDで全](../Page/レーザーディスク.md "wikilink")5巻。アニメの桃生純太にはサイキック能力はない。
 
 [2013年](../Page/2013年.md "wikilink")にアニメ化20年を記念して[DVD](../Page/DVD.md "wikilink")・[BD化されることになった](../Page/Blu-ray_Disc.md "wikilink")（[2014年](../Page/2014年.md "wikilink")1月29日発売）。
 
@@ -181,27 +181,27 @@
 ### スタッフ
 
   - 企画 - [武井英彦](https://ja.wikipedia.org/wiki/武井英彦 "wikilink")、[落合茂一](https://ja.wikipedia.org/wiki/落合茂一 "wikilink")
-  - シリーズ構成・脚本 - [浦畑達彦](https://ja.wikipedia.org/wiki/浦畑達彦 "wikilink")
+  - シリーズ構成・脚本 - [浦畑達彦](../Page/浦畑達彦.md "wikilink")
   - キャラクターデザイン - [高橋久美子](../Page/高橋久美子_\(アニメーター\).md "wikilink")
-  - メカデザイン - [小池健](https://ja.wikipedia.org/wiki/小池健 "wikilink")
+  - メカデザイン - [小池健](../Page/小池健.md "wikilink")
   - 美術監督 - 海野よしみ
   - 色彩設計 - 秋山久美、三笠修
   - 撮影監督 - 沖野雅英、山口仁
   - 音楽 - [高野ふじお](https://ja.wikipedia.org/wiki/高野ふじお "wikilink")
   - 録音監督 - [斯波重治](../Page/斯波重治.md "wikilink")
   - プロデューサー - 前田伸一郎、岡田洋、長谷川洋、[丸山正雄](../Page/丸山正雄.md "wikilink")
-  - アニメーション制作 - [マッドハウス](https://ja.wikipedia.org/wiki/マッドハウス "wikilink")、[スタジオディーン](https://ja.wikipedia.org/wiki/スタジオディーン "wikilink")
-  - 監督 - [坂田純一](https://ja.wikipedia.org/wiki/坂田純一 "wikilink")
+  - アニメーション制作 - [マッドハウス](../Page/マッドハウス.md "wikilink")、[スタジオディーン](../Page/スタジオディーン.md "wikilink")
+  - 監督 - [坂田純一](../Page/坂田純一.md "wikilink")
   - 企画制作 - [日本テレビ](../Page/日本テレビ放送網.md "wikilink")
   - 製作 - [パオハウス](https://ja.wikipedia.org/wiki/パオハウス "wikilink")
   - 製作協力 - [バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")、[ムービック](../Page/ムービック.md "wikilink")
 
 ### 主題歌
 
-  - オープニングテーマ「[Blurry Eyes](https://ja.wikipedia.org/wiki/Blurry_Eyes "wikilink")」
+  - オープニングテーマ「[Blurry Eyes](../Page/Blurry_Eyes.md "wikilink")」
     作詞 - [hyde](https://ja.wikipedia.org/wiki/hyde "wikilink") / 作曲 - [tetsu](https://ja.wikipedia.org/wiki/tetsuya "wikilink") / 編曲・歌 - [L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")
   - エンディングテーマ「[シングルベッド](../Page/シングルベッド.md "wikilink")」
-    作詞 - [つんく](https://ja.wikipedia.org/wiki/つんく "wikilink") / 作曲 - [はたけ](https://ja.wikipedia.org/wiki/はたけ "wikilink") / 編曲 - 鳥山雄司、[シャ乱Q](../Page/シャ乱Q.md "wikilink") / 歌 - シャ乱Q
+    作詞 - [つんく](https://ja.wikipedia.org/wiki/つんく "wikilink") / 作曲 - [はたけ](../Page/はたけ.md "wikilink") / 編曲 - 鳥山雄司、[シャ乱Q](../Page/シャ乱Q.md "wikilink") / 歌 - シャ乱Q
 
 ### 原作とアニメの変更点
 
@@ -238,8 +238,8 @@
 <tr class="even">
 <td><p>1</p></td>
 <td><p>未来からの少女 かりん</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/福冨博" title="wikilink">福冨博</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/うえだしげる" title="wikilink">うえだしげる</a></p></td>
+<td><p><a href="../Page/福冨博.md" title="wikilink">福冨博</a></p></td>
+<td><p><a href="../Page/うえだしげる.md" title="wikilink">うえだしげる</a></p></td>
 <td><p>北尾勝</p></td>
 <td><p><strong>1994年</strong><br />
 10月7日</p></td>
@@ -271,7 +271,7 @@
 <tr class="even">
 <td><p>5</p></td>
 <td><p>誰にも言えない! ことみ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/加瀬充子" title="wikilink">加瀬充子</a></p></td>
+<td><p><a href="../Page/加瀬充子.md" title="wikilink">加瀬充子</a></p></td>
 <td><p>阿宮正和</p></td>
 <td><p>坂元大二郎</p></td>
 <td><p>11月4日</p></td>
@@ -279,7 +279,7 @@
 <tr class="odd">
 <td><p>6</p></td>
 <td><p>純太はことみに何をした?</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山内重保" title="wikilink">山内重保</a></p></td>
+<td><p><a href="../Page/山内重保.md" title="wikilink">山内重保</a></p></td>
 <td><p>牧野滋人</p></td>
 <td><p>長野伸明</p></td>
 <td><p>11月11日</p></td>
@@ -289,7 +289,7 @@
 <td><p>私のすべてをあげたいの!</p></td>
 <td><p>小寺勝之</p></td>
 <td><p>野間吐晶</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/横田守" title="wikilink">横田守</a></p></td>
+<td><p><a href="../Page/横田守.md" title="wikilink">横田守</a></p></td>
 <td><p>11月18日</p></td>
 </tr>
 <tr class="odd">
@@ -303,7 +303,7 @@
 <tr class="even">
 <td><p>9</p></td>
 <td><p>その弾丸は竜二の胸に…</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/神戸守" title="wikilink">神戸守</a><br />
+<td><p><a href="../Page/神戸守.md" title="wikilink">神戸守</a><br />
 小高義規</p></td>
 <td><p>小高義規</p></td>
 <td><p><a href="../Page/古賀誠_(アニメーター).md" title="wikilink">古賀誠</a></p></td>
@@ -354,14 +354,14 @@
 <td><p>100年後の忘れもの</p></td>
 <td><p>加瀬充子</p></td>
 <td><p>小高義規</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/長森佳容" title="wikilink">長森佳容</a></p></td>
+<td><p><a href="../Page/長森佳容.md" title="wikilink">長森佳容</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
 <td><p>ぼくはあなたを忘れない</p></td>
 <td><p>阿部司</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/坂田純一" title="wikilink">坂田純一</a></p></td>
+<td><p><a href="../Page/坂田純一.md" title="wikilink">坂田純一</a></p></td>
 <td><p>君塚勝教</p></td>
 <td></td>
 </tr>
@@ -373,7 +373,7 @@
 | 放送地域                                                | 放送局                                     | 放送期間                                                                                                              | 放送日時             | 放送系列                                            | 備考      |
 | --------------------------------------------------- | --------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ---------------- | ----------------------------------------------- | ------- |
 | [関東広域圏](../Page/広域放送.md "wikilink")                 | [日本テレビ](../Page/日本テレビ放送網.md "wikilink") | [1994年](../Page/1994年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink") - [12月23日](../Page/12月23日.md "wikilink") | 金曜 17:30 - 18:00 | [日本テレビ系列](../Page/日本テレビネットワーク協議会.md "wikilink") | **制作局** |
-| [山形県](https://ja.wikipedia.org/wiki/山形県 "wikilink") | [山形放送](../Page/山形放送.md "wikilink")      | 不明                                                                                                                | 不明               |                                                 |         |
+| [山形県](../Page/山形県.md "wikilink")                    | [山形放送](../Page/山形放送.md "wikilink")      | 不明                                                                                                                | 不明               |                                                 |         |
 | [新潟県](../Page/新潟県.md "wikilink")                    | [テレビ新潟](../Page/テレビ新潟放送網.md "wikilink") | 不明                                                                                                                | 不明               |                                                 |         |
 | [石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink") | [テレビ金沢](../Page/テレビ金沢.md "wikilink")    | 不明                                                                                                                | 不明               |                                                 |         |
 
@@ -394,7 +394,7 @@
   - [日本テレビ系アニメ](../Page/日本テレビ系アニメ.md "wikilink")
   - [SHADOW LADY](../Page/SHADOW_LADY.md "wikilink") - 「VJ版」は前の連載作品であり、「WJ版」は次の連載作品。
   - [電影少女](../Page/電影少女.md "wikilink") - 『WJ』上での前の連載作品。
-  - [ZETMAN 桂正和短編集](https://ja.wikipedia.org/wiki/ZETMAN_桂正和短編集 "wikilink") - 同時期の短篇を収録。
+  - [ZETMAN 桂正和短編集](../Page/ZETMAN_桂正和短編集.md "wikilink") - 同時期の短篇を収録。
 
 <!-- end list -->
 

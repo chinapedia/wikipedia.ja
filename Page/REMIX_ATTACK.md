@@ -1,7 +1,7 @@
 > この記事は[REMIX ATTACK](https://ja.wikipedia.org/wiki/REMIX_ATTACK)から翻訳されています。
 
 
-『**REMIX ATTACK**』（リミックス・アタック）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月23日](../Page/3月23日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")[AAAの初の](https://ja.wikipedia.org/wiki/AAA_\(音楽グループ\) "wikilink")[リミックスアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。
+『**REMIX ATTACK**』（リミックス・アタック）は、[2006年](../Page/2006年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")[AAAの初の](../Page/AAA_\(音楽グループ\).md "wikilink")[リミックスアルバム](../Page/スタジオ・アルバム.md "wikilink")。
 
 ## 解説
 

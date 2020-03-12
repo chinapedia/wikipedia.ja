@@ -1,7 +1,7 @@
 > この記事は[ZERO \(B\'z\)](https://ja.wikipedia.org/wiki/ZERO_\(B\'z\))から翻訳されています。
 
 
-「**ZERO**」(ゼロ)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")、[B'z](../Page/B'z.md "wikilink")の11作目の[シングル](../Page/シングル.md "wikilink")。
+「**ZERO**」(ゼロ)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[ユニット](../Page/音楽ユニット.md "wikilink")、[B'z](../Page/B'z.md "wikilink")の11作目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 概要
 
@@ -21,18 +21,18 @@ B'zのシングルは4thシングル「[BE THERE](../Page/BE_THERE.md "wikilink"
 
 1.  **ZERO** (4:50)
       -
-        これまでのポップ路線から大きく異なる[ハードロック](../Page/ハードロック.md "wikilink")と[ファンク](https://ja.wikipedia.org/wiki/ファンク "wikilink")を融合したヘヴィな楽曲\[3\]であり、松本も当時のインタビューで「これをシングルにするのは大きな博打」「結果が出てからすべて話す」と述べたほどだった。
+        これまでのポップ路線から大きく異なる[ハードロック](../Page/ハードロック.md "wikilink")と[ファンク](../Page/ファンク.md "wikilink")を融合したヘヴィな楽曲\[3\]であり、松本も当時のインタビューで「これをシングルにするのは大きな博打」「結果が出てからすべて話す」と述べたほどだった。
         また、スタッフからは(曲がハードな為)タイアップを付けようと提案されていたが、松本が「勝負したい」というこだわりからシングル表題曲では「[LADY-GO-ROUND](../Page/LADY-GO-ROUND.md "wikilink")」以来のノンタイアップとなり、本作が1位を獲得した際には、「今までで一番嬉しかった」と稲葉と共に述べている\[4\]。
         間奏にはB'zでは珍しくラップが取り入れられている。
-        『B'z LIVE-GYM Pleasure '92 "TIME"』で未発表曲として先行演奏されており、[PVも同ツアーの映像で稲葉の口の動きや松本の手の動きなどが曲と連動するように編集されている](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")\[5\]。
-        B'zの[ライブでの](https://ja.wikipedia.org/wiki/演奏会 "wikilink")[演奏](../Page/演奏.md "wikilink")回数も多く、[2003年](../Page/2003年.md "wikilink")頃まではほぼ毎回演奏されていた。[2015年](../Page/2015年.md "wikilink")に行われたツアー『[B'z LIVE-GYM 2015 -EPIC NIGHT-](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_2015_-EPIC_NIGHT- "wikilink")』では、2人の演奏によるスローな[ブルース](../Page/ブルース.md "wikilink")アレンジが披露された。
+        『B'z LIVE-GYM Pleasure '92 "TIME"』で未発表曲として先行演奏されており、[PVも同ツアーの映像で稲葉の口の動きや松本の手の動きなどが曲と連動するように編集されている](../Page/ミュージック・ビデオ.md "wikilink")\[5\]。
+        B'zの[ライブでの](../Page/演奏会.md "wikilink")[演奏](../Page/演奏.md "wikilink")回数も多く、[2003年](../Page/2003年.md "wikilink")頃まではほぼ毎回演奏されていた。[2015年](../Page/2015年.md "wikilink")に行われたツアー『[B'z LIVE-GYM 2015 -EPIC NIGHT-](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_2015_-EPIC_NIGHT- "wikilink")』では、2人の演奏によるスローな[ブルース](../Page/ブルース.md "wikilink")アレンジが披露された。
 2.  **恋心 (KOI-GOKORO)** (3:47)
       -
         表題曲とは異なり非常にポップな曲。
-        タイトル通り男性の恋心について歌われており、稲葉が当時[パーソナリティー](https://ja.wikipedia.org/wiki/パーソナリティー "wikilink")を務めた[ラジオ番組](../Page/ラジオ番組.md "wikilink")『[B'z WAVE-GYM](../Page/B'z_WAVE-GYM.md "wikilink")』の番組宛に送られてきた[手紙](https://ja.wikipedia.org/wiki/手紙 "wikilink")のメッセージに刺激を受けて制作された。
+        タイトル通り男性の恋心について歌われており、稲葉が当時[パーソナリティー](https://ja.wikipedia.org/wiki/パーソナリティー "wikilink")を務めた[ラジオ番組](../Page/ラジオ番組.md "wikilink")『[B'z WAVE-GYM](../Page/B'z_WAVE-GYM.md "wikilink")』の番組宛に送られてきた[手紙](../Page/手紙.md "wikilink")のメッセージに刺激を受けて制作された。
         稲葉は歌詞について「松本さんのメロディーを聴いて“胸キュン”な感じがあったので、それを表現しようとした」と語っている\[6\]。
         [歌詞](../Page/歌詞.md "wikilink")に「松本」が登場するが、これは稲葉が[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")などでは頻繁に人物名が歌詞中に登場していて、そういうものを自分もやってみたかったからだという。
-        ノンタイアップかつ[オリジナル・アルバム未収録であるが](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")、ファンの人気が非常に高く、[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『[B'z The Best "Treasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"Treasure" "wikilink")』の収録曲を決めるファン投票1位、ベスト・アルバム『[B'z The Best "ULTRA Treasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure" "wikilink")』では2位にランクインし収録された。
+        ノンタイアップかつ[オリジナル・アルバム未収録であるが](../Page/スタジオ・アルバム.md "wikilink")、ファンの人気が非常に高く、[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[B'z The Best "Treasure"](../Page/B'z_The_Best_"Treasure".md "wikilink")』の収録曲を決めるファン投票1位、ベスト・アルバム『[B'z The Best "ULTRA Treasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure" "wikilink")』では2位にランクインし収録された。
         [有線ランキングでは表題曲の](../Page/有線ラジオ放送.md "wikilink")「ZERO」よりも人気が高かったため、松本は「非常に残念な結果になってしまった」と稲葉と共に語っている。松本はこの曲について「『ZERO』を表題曲にできたことで、その対極という位置づけで作った曲」と述べている。
         B'zでは珍しく[振り付け](https://ja.wikipedia.org/wiki/振り付け "wikilink")がある曲\[7\]で、一時期はライブでは演奏されていなかったが、ベスト・アルバムを機に再びライブで演奏される機会が多くなった。
         [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に行われたツアー『[B'z LIVE-GYM Pleasure '95 "BUZZ\!\!"](../Page/"BUZZ!!"_THE_MOVIE.md "wikilink")』では新たな振り付けが披露されたが、一度きりのお目見えでそれ以降は通常のものに戻っている。
@@ -44,10 +44,10 @@ B'zのシングルは4thシングル「[BE THERE](../Page/BE_THERE.md "wikilink"
 ## 参加ミュージシャン
 
   - [松本孝弘](../Page/松本孝弘.md "wikilink"):[ギター](../Page/ギター.md "wikilink")、全曲[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")
-  - [稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink"):[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、全曲[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")
-  - [明石昌夫](https://ja.wikipedia.org/wiki/明石昌夫 "wikilink"):[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")\[8\]\[9\]、全曲編曲
+  - [稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink"):[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、全曲[作詞](../Page/作詞.md "wikilink")
+  - [明石昌夫](../Page/明石昌夫.md "wikilink"):[ベース](../Page/ベース_\(弦楽器\).md "wikilink")\[8\]\[9\]、全曲編曲
   - [田中一光](https://ja.wikipedia.org/wiki/田中一光_\(ドラマー\) "wikilink"):[ドラム](../Page/ドラムセット.md "wikilink")
-  - [勝田一樹](https://ja.wikipedia.org/wiki/勝田一樹 "wikilink"):[サクソフォーン](../Page/サクソフォーン.md "wikilink")
+  - [勝田一樹](../Page/勝田一樹.md "wikilink"):[サクソフォーン](../Page/サクソフォーン.md "wikilink")
   - 澤野博敬:[トランペット](../Page/トランペット.md "wikilink")
   - [野村裕幸](../Page/野村裕幸.md "wikilink"):[トロンボーン](../Page/トロンボーン.md "wikilink")
   - 高原由妃:[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink") (\#2)
@@ -58,14 +58,14 @@ B'zのシングルは4thシングル「[BE THERE](../Page/BE_THERE.md "wikilink"
 **ZERO**
 
   - [RUN](../Page/RUN_\(アルバム\).md "wikilink")
-  - [B'z The Best "Pleasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"Pleasure" "wikilink")
+  - [B'z The Best "Pleasure"](../Page/B'z_The_Best_"Pleasure".md "wikilink")
   - [B'z The Best "ULTRA Pleasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Pleasure" "wikilink")
   - [B'z The Best XXV 1988-1998](https://ja.wikipedia.org/wiki/B'z_The_Best_XXV_1988-1998 "wikilink")
   - [B'z TV STYLE II Songless Version](../Page/B'z_TV_STYLE_II_Songless_Version.md "wikilink") (TV STYLE)
 
 **恋心 (KOI-GOKORO)**
 
-  - [B'z The Best "Treasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"Treasure" "wikilink")
+  - [B'z The Best "Treasure"](../Page/B'z_The_Best_"Treasure".md "wikilink")
   - [B'z The Best "ULTRA Treasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure" "wikilink")
   - [B'z TV STYLE II Songless Version](../Page/B'z_TV_STYLE_II_Songless_Version.md "wikilink") (TV STYLE)
 
@@ -105,7 +105,7 @@ B'zのシングルは4thシングル「[BE THERE](../Page/BE_THERE.md "wikilink"
 
 ## 関連項目
 
-  - [1992年の音楽](https://ja.wikipedia.org/wiki/1992年の音楽 "wikilink")
+  - [1992年の音楽](../Page/1992年の音楽.md "wikilink")
 
 ## 外部リンク
 
@@ -121,6 +121,6 @@ B'zのシングルは4thシングル「[BE THERE](../Page/BE_THERE.md "wikilink"
 4.  会報誌Be＋wiZ vol.16より
 5.  『[B'z The Best XXV 1988-1998](https://ja.wikipedia.org/wiki/B'z_The_Best_XXV_1988-1998 "wikilink")』初回限定盤に付属しているMUSIC VIDEOの[ライナーノーツ](../Page/ライナーノーツ.md "wikilink")にて。
 6.  『Treasure : B'z Chronicle 1988～1998 10th anniversary special issue』P60より
-7.  他に「[Wonderful Opportunity](../Page/IN_THE_LIFE.md "wikilink")」や「[MVP](https://ja.wikipedia.org/wiki/SPLASH! "wikilink")」がある
+7.  他に「[Wonderful Opportunity](../Page/IN_THE_LIFE.md "wikilink")」や「[MVP](../Page/SPLASH!.md "wikilink")」がある
 8.  『Treasure : B'z Chronicle 1988～1998 10th anniversary special issue』P26より
 9.  実際にはクレジットの表記はない

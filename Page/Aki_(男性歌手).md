@@ -1,21 +1,21 @@
 > この記事は[Aki \(\)](https://ja.wikipedia.org/wiki/Aki_\(\))から翻訳されています。
 
 
-**aki**（アキ、[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[10月10日](../Page/10月10日.md "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[ヴォーカリスト](../Page/歌手.md "wikilink")。[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")出身。[左利き](../Page/左利き.md "wikilink")。
+**aki**（アキ、[1970年](../Page/1970年.md "wikilink")[10月10日](../Page/10月10日.md "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[ヴォーカリスト](../Page/歌手.md "wikilink")。[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")出身。[左利き](../Page/左利き.md "wikilink")。
 
 ロックバンド[Laputa](../Page/Laputa.md "wikilink")の元[ヴォーカルで](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、2005年から**aki**としてソロで活動中。レーベル「Khaos Number (カオスナンバー)」を主催している。
 
 ## 来歴
 
-[1996年](../Page/1996年.md "wikilink")、Laputaのヴォーカルとして、シングル「[硝子の肖像](https://ja.wikipedia.org/wiki/硝子の肖像 "wikilink")」で[東芝EMIよりメジャーデビュー](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")\[2\]。[2000年](../Page/2000年.md "wikilink")に[日本クラウン](https://ja.wikipedia.org/wiki/日本クラウン "wikilink")への移籍を経て、シングル11枚、アルバム8枚、ミニアルバム3枚をリリースする。
+[1996年](../Page/1996年.md "wikilink")、Laputaのヴォーカルとして、シングル「[硝子の肖像](https://ja.wikipedia.org/wiki/硝子の肖像 "wikilink")」で[東芝EMIよりメジャーデビュー](../Page/EMIミュージック・ジャパン.md "wikilink")\[2\]。[2000年](../Page/2000年.md "wikilink")に[日本クラウン](../Page/日本クラウン.md "wikilink")への移籍を経て、シングル11枚、アルバム8枚、ミニアルバム3枚をリリースする。
 
-[2004年](../Page/2004年.md "wikilink")、9月5日の[渋谷公会堂](https://ja.wikipedia.org/wiki/渋谷公会堂 "wikilink")のライヴを以って、Laputaが無期限活動休止となる\[3\]。
+[2004年](../Page/2004年.md "wikilink")、9月5日の[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")のライヴを以って、Laputaが無期限活動休止となる\[3\]。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")よりソロ活動を開始し、8月3日に1stシングル「COME INTO CONFLICT」でソロデビュー、9月7日に1stアルバム『CONFLICT』をリリース\[4\]。
+[2005年](../Page/2005年.md "wikilink")よりソロ活動を開始し、8月3日に1stシングル「COME INTO CONFLICT」でソロデビュー、9月7日に1stアルバム『CONFLICT』をリリース\[4\]。
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")、レーベル「Khaos Number (カオスナンバー)」を設立\[5\]。
 
-[2011年](../Page/2011年.md "wikilink")11月27日、[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")で開催された[KISAKI](https://ja.wikipedia.org/wiki/KISAKI "wikilink")プロデュースによるイベント「輪・廻・転・生〜A RETURN of "VISUAL MONSTER"〜」に出演\[6\]。
+[2011年](../Page/2011年.md "wikilink")11月27日、[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")で開催された[KISAKI](../Page/KISAKI.md "wikilink")プロデュースによるイベント「輪・廻・転・生〜A RETURN of "VISUAL MONSTER"〜」に出演\[6\]。
 
 [2013年](../Page/2013年.md "wikilink")8月、[DEAD ENDのトリビュートアルバム](https://ja.wikipedia.org/wiki/DEAD_END_\(バンド\) "wikilink")『[DEAD END Tribute -SONG OF LUNATICS-](https://ja.wikipedia.org/wiki/DEAD_END_Tribute_-SONG_OF_LUNATICS- "wikilink")』の第4弾情報解禁参加アーティストとして発表され\[7\]、収録曲「Sacrifice Of The Vision」にヴォーカリストとして参加\[8\]。
 
@@ -23,7 +23,7 @@
 
 ## 影響
 
-中学生の頃に[チェッカーズ](../Page/チェッカーズ.md "wikilink")をきいたことがきっかけでバンドを好きになる\[11\]。高校時代に[モトリー・クルー](https://ja.wikipedia.org/wiki/モトリー・クルー "wikilink")を聴いたことで衝撃を受けて[LAメタル](../Page/LAメタル.md "wikilink")にはまり、その後は[DEAD END](https://ja.wikipedia.org/wiki/DEAD_END_\(バンド\) "wikilink")、[LOUDNESS](https://ja.wikipedia.org/wiki/LOUDNESS "wikilink")、[44MAGNUM](https://ja.wikipedia.org/wiki/44MAGNUM "wikilink")、[GASTANK](https://ja.wikipedia.org/wiki/GASTUNK "wikilink")、[REACTION](https://ja.wikipedia.org/wiki/REACTION_\(バンド\) "wikilink")、SNIPER、MARINO、TILTなどの[ジャパニーズ・メタル](https://ja.wikipedia.org/wiki/ジャパニーズ・メタル "wikilink")をよく聴いていたという\[12\]。なかでもDEAD ENDからの影響は大きく、かつて[MORRIE](https://ja.wikipedia.org/wiki/MORRIE "wikilink")のコピーをしていたことが「今現在のボーカルスタイルの基礎になって」いるとのこと\[13\]。DEAD ENDのトリビュートアルバム『[DEAD END Tribute -SONG OF LUNATICS-](https://ja.wikipedia.org/wiki/DEAD_END_Tribute_-SONG_OF_LUNATICS- "wikilink")』のレコーディングの際には「『[DEAD LINE](https://ja.wikipedia.org/wiki/DEAD_LINE_\(DEAD_ENDのアルバム\) "wikilink")』のアナログ盤（通常盤とピクチャー盤）二枚をスタジオに持込み、当時の初期衝動を思い出しながら歌いました」と語っている\[14\]。
+中学生の頃に[チェッカーズ](../Page/チェッカーズ.md "wikilink")をきいたことがきっかけでバンドを好きになる\[11\]。高校時代に[モトリー・クルー](../Page/モトリー・クルー.md "wikilink")を聴いたことで衝撃を受けて[LAメタル](../Page/LAメタル.md "wikilink")にはまり、その後は[DEAD END](https://ja.wikipedia.org/wiki/DEAD_END_\(バンド\) "wikilink")、[LOUDNESS](../Page/LOUDNESS.md "wikilink")、[44MAGNUM](../Page/44MAGNUM.md "wikilink")、[GASTANK](../Page/GASTUNK.md "wikilink")、[REACTION](https://ja.wikipedia.org/wiki/REACTION_\(バンド\) "wikilink")、SNIPER、MARINO、TILTなどの[ジャパニーズ・メタル](../Page/ジャパニーズ・メタル.md "wikilink")をよく聴いていたという\[12\]。なかでもDEAD ENDからの影響は大きく、かつて[MORRIE](../Page/MORRIE.md "wikilink")のコピーをしていたことが「今現在のボーカルスタイルの基礎になって」いるとのこと\[13\]。DEAD ENDのトリビュートアルバム『[DEAD END Tribute -SONG OF LUNATICS-](https://ja.wikipedia.org/wiki/DEAD_END_Tribute_-SONG_OF_LUNATICS- "wikilink")』のレコーディングの際には「『[DEAD LINE](https://ja.wikipedia.org/wiki/DEAD_LINE_\(DEAD_ENDのアルバム\) "wikilink")』のアナログ盤（通常盤とピクチャー盤）二枚をスタジオに持込み、当時の初期衝動を思い出しながら歌いました」と語っている\[14\]。
 
 ## エピソード
 
@@ -46,21 +46,21 @@
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/8月3日.md" title="wikilink">8月3日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/8月3日.md" title="wikilink">8月3日</a></p></td>
 <td><p><strong>COME INTO CONFLICT</strong></p></td>
 <td><p>CXCD-001Ver.1,2</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/3月1日.md" title="wikilink">3月1日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/3月1日.md" title="wikilink">3月1日</a></p></td>
 <td><p><strong>THE CELL MIXES</strong></p></td>
 <td><p>CXCD-003</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/7月19日.md" title="wikilink">7月19日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/7月19日.md" title="wikilink">7月19日</a></p></td>
 <td><p><strong>FORGET ME NOT/GO AHEAD</strong></p></td>
 <td><p>CXCD-004</p></td>
 <td></td>
@@ -111,7 +111,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/9月7日.md" title="wikilink">9月7日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/9月7日.md" title="wikilink">9月7日</a></p></td>
 <td><p><strong>CONFLICT</strong></p></td>
 <td><p>CXCD-002</p></td>
 <td></td>
@@ -132,7 +132,7 @@
 </tr>
 <tr class="even">
 <td><p>4</p></td>
-<td><p><a href="../Page/2015年.md" title="wikilink">2015年</a><a href="https://ja.wikipedia.org/wiki/2月6日" title="wikilink">2月6日</a></p></td>
+<td><p><a href="../Page/2015年.md" title="wikilink">2015年</a><a href="../Page/2月6日.md" title="wikilink">2月6日</a></p></td>
 <td><p><strong>FORCE</strong></p></td>
 <td><p>KNCP-0013</p></td>
 <td></td>

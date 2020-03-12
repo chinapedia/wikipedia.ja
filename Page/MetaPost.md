@@ -1,7 +1,7 @@
 > この記事は[MetaPost](https://ja.wikipedia.org/wiki/MetaPost)から翻訳されています。
 
 
-**MetaPost**は[プログラミング言語](../Page/プログラミング言語.md "wikilink")、およびその[インタプリタ](../Page/インタプリタ.md "wikilink")の両方を意味する。[ドナルド・クヌース](../Page/ドナルド・クヌース.md "wikilink")が作った[METAFONT](https://ja.wikipedia.org/wiki/METAFONT "wikilink")に由来する。[PostScript](../Page/PostScript.md "wikilink")内における図形の描写に優れる。METAFONTの優れた宣言構文を共有している。
+**MetaPost**は[プログラミング言語](../Page/プログラミング言語.md "wikilink")、およびその[インタプリタ](../Page/インタプリタ.md "wikilink")の両方を意味する。[ドナルド・クヌース](../Page/ドナルド・クヌース.md "wikilink")が作った[METAFONT](../Page/METAFONT.md "wikilink")に由来する。[PostScript](../Page/PostScript.md "wikilink")内における図形の描写に優れる。METAFONTの優れた宣言構文を共有している。
 
 ## 例
 
@@ -80,7 +80,7 @@ MetaPostインタプリタ ([Linux](../Page/Linux.md "wikilink")上で`mpost`コ
 
   - [PGF/TikZ](https://ja.wikipedia.org/wiki/PGF/TikZ "wikilink")
 
-  - [METAFONT](https://ja.wikipedia.org/wiki/METAFONT "wikilink")
+  - [METAFONT](../Page/METAFONT.md "wikilink")
 
   -
   - [Asymptote](https://ja.wikipedia.org/wiki/Asymptote "wikilink")
@@ -88,7 +88,7 @@ MetaPostインタプリタ ([Linux](../Page/Linux.md "wikilink")上で`mpost`コ
 ## 脚注・出典
 
   - MetaFun (modules for Metapost) by Hans Hagen, [1](http://wiki.contextgarden.net/MetaFun)
-  - [Donald Knuth](https://ja.wikipedia.org/wiki/Donald_Knuth "wikilink"): *The [METAFONT](https://ja.wikipedia.org/wiki/METAFONT "wikilink")book*, ([Computers and Typesetting](https://ja.wikipedia.org/wiki/Computers_and_Typesetting "wikilink") Volume C) [Addison-Wesley](https://ja.wikipedia.org/wiki/Addison-Wesley "wikilink") 1986. ISBN 0-201-13444-6
+  - [Donald Knuth](https://ja.wikipedia.org/wiki/Donald_Knuth "wikilink"): *The [METAFONT](../Page/METAFONT.md "wikilink")book*, ([Computers and Typesetting](https://ja.wikipedia.org/wiki/Computers_and_Typesetting "wikilink") Volume C) [Addison-Wesley](https://ja.wikipedia.org/wiki/Addison-Wesley "wikilink") 1986. ISBN 0-201-13444-6
   - Comprehensive T<sub>E</sub>X Archive Network ([CTAN](https://ja.wikipedia.org/wiki/CTAN "wikilink")): <http://www.ctan.org/>. Repository of the T<sub>E</sub>X source and hundreds of add-ons and style files.
   - (La)TeX Navigator provides 305 simple MetaPost examples: <http://tex.loria.fr/prod-graph/zoonekynd/metapost/metapost.html>
   - Taco Hoekwater: [MetaPost developments—autumn 2006](http://www.tug.org/TUGboat/Articles/tb27-1/tb86hoekwater-metapost.pdf). *TUGboat* **27**:1 (2006).

@@ -15,12 +15,12 @@
 
 ## 受賞歴
 
-  - [1982年](../Page/1982年.md "wikilink") [アルバート・ラスカー基礎医学研究賞](https://ja.wikipedia.org/wiki/アルバート・ラスカー基礎医学研究賞 "wikilink")
+  - [1982年](../Page/1982年.md "wikilink") [アルバート・ラスカー基礎医学研究賞](../Page/アルバート・ラスカー基礎医学研究賞.md "wikilink")
   - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink") [パサノ賞](https://ja.wikipedia.org/wiki/パサノ賞 "wikilink")
   - [1984年](../Page/1984年.md "wikilink") [ガードナー国際賞](../Page/ガードナー国際賞.md "wikilink")
   - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") [ディクソン賞](https://ja.wikipedia.org/wiki/ディクソン賞 "wikilink")
   - [1989年](../Page/1989年.md "wikilink") [ノーベル生理学・医学賞](../Page/ノーベル生理学・医学賞.md "wikilink")
-  - [2003年](../Page/2003年.md "wikilink") [アメリカ国家科学賞](https://ja.wikipedia.org/wiki/アメリカ国家科学賞 "wikilink")
+  - [2003年](../Page/2003年.md "wikilink") [アメリカ国家科学賞](../Page/アメリカ国家科学賞.md "wikilink")
 
 ## 外部リンク
 

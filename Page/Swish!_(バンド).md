@@ -1,45 +1,45 @@
 > この記事は[Swish! \(\)](https://ja.wikipedia.org/wiki/Swish!_\(\))から翻訳されています。
 
 
-**Swish\!**（スウィッシュ！）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性](../Page/男性.md "wikilink")3人組[ロックバンド](../Page/バンド_\(音楽\).md "wikilink")。旧称は**SunSet Swish**。所属[レコード会社](https://ja.wikipedia.org/wiki/レコード会社 "wikilink")は[ソニー・ミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")で、[レーベルは](../Page/レコードレーベル.md "wikilink")[SME Records](https://ja.wikipedia.org/wiki/エスエムイーレコーズ "wikilink")。所属[芸能事務所](../Page/芸能事務所.md "wikilink")は[Music Ray'n](../Page/ミュージックレイン.md "wikilink")。
+**Swish\!**（スウィッシュ！）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性](../Page/男性.md "wikilink")3人組[ロックバンド](../Page/バンド_\(音楽\).md "wikilink")。旧称は**SunSet Swish**。所属[レコード会社](../Page/レコード会社.md "wikilink")は[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")で、[レーベルは](../Page/レコードレーベル.md "wikilink")[SME Records](../Page/エスエムイーレコーズ.md "wikilink")。所属[芸能事務所](../Page/芸能事務所.md "wikilink")は[Music Ray'n](../Page/ミュージックレイン.md "wikilink")。
 
 ## 概要
 
   - 高校からの同級生であった石田、佐伯、冨田で結成されたトリオ[バンド](../Page/バンド_\(音楽\).md "wikilink")。
   - [大阪で活動していた当時はSwishだけだったのだが](../Page/大阪府.md "wikilink")、上京してからSunSetを付ける。
-  - 「風のランナー」「マイペース」「夏が来れば」のPVには『[曲がり角の彼女](https://ja.wikipedia.org/wiki/曲がり角の彼女 "wikilink")』に出演していた関連で[要潤](../Page/要潤.md "wikilink")が出演している。
+  - 「風のランナー」「マイペース」「夏が来れば」のPVには『[曲がり角の彼女](../Page/曲がり角の彼女.md "wikilink")』に出演していた関連で[要潤](../Page/要潤.md "wikilink")が出演している。
 
 ## 歴史
 
   - [2004年](../Page/2004年.md "wikilink")
       - [2月](https://ja.wikipedia.org/wiki/2月 "wikilink") - 石田、冨田が高校時代から活動していたバンドが突然解散。予約していたライブハウスが1つ断れず、佐伯に頼み、一日限りのバンドとして3人で結成。[2月14日](../Page/2月14日.md "wikilink")に大阪・枚方ブロウダウンで初ライブを行う。しかし、その後も関西地区でストリートライブを行うこととなる。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
       - [1月](https://ja.wikipedia.org/wiki/1月 "wikilink") - 音楽プロデューサーの目に留まり、上京。代々木公園、渋谷、溝の口、吉祥寺でストリートライブを決行。
-      - [4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - 「[明日、笑えるように](https://ja.wikipedia.org/wiki/明日、笑えるように "wikilink")」がこの[クールのドラマ](https://ja.wikipedia.org/wiki/クール_\(放送\) "wikilink")『[曲がり角の彼女](https://ja.wikipedia.org/wiki/曲がり角の彼女 "wikilink")』の挿入歌として抜擢される。さらにストリート活動にも力が入り、範囲を関東地区へ広げていく。
+      - [4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - 「[明日、笑えるように](../Page/明日、笑えるように.md "wikilink")」がこの[クールのドラマ](../Page/クール_\(放送\).md "wikilink")『[曲がり角の彼女](../Page/曲がり角の彼女.md "wikilink")』の挿入歌として抜擢される。さらにストリート活動にも力が入り、範囲を関東地区へ広げていく。
       - [6月1日](../Page/6月1日.md "wikilink") - デビューシングル『明日、笑えるように』リリース。
       - [6月](../Page/6月.md "wikilink") - 全国を自分達の車（サンセット号）で巡る「SunSet Swish Hi-Way Tour 2005」を開始。各地でストリートライブを展開、その他ライブハウス出演、CDショップのインストアライブを決行。
-      - [11月](../Page/11月.md "wikilink") - 大阪万博記念公園にてFM大阪開局記念イベント「F.O.B. Live」にオープニングアクトとして出演。このF.O.B. Liveには、[コブクロ](https://ja.wikipedia.org/wiki/コブクロ "wikilink")、[馬場俊英](https://ja.wikipedia.org/wiki/馬場俊英 "wikilink")、[キンモクセイ他多数の出演があった](../Page/キンモクセイ_\(バンド\).md "wikilink")。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")
-      - [1月25日](../Page/1月25日.md "wikilink") - 2ndシングル「[風のランナー](https://ja.wikipedia.org/wiki/風のランナー "wikilink")」発売。アニメ『冒険王ビィト エクセリオン』がのエンディングテーマとしてタイアップする。またリリースをきっかけに「SunSet Swish Hi-Way Tour 2006」をスタートさせる。
-      - [2月](https://ja.wikipedia.org/wiki/2月 "wikilink") - 大阪厚生年金会館芸術ホールにて「トルバドゥールナイトフェスティバル」に出演。このトルバドゥールナイトフェスティバルには馬場俊英、[navy\&ivory](https://ja.wikipedia.org/wiki/navy&ivory "wikilink")、[SANISAI](https://ja.wikipedia.org/wiki/SANISAI "wikilink")他多数の出演があった。
-      - [3月1日](../Page/3月1日.md "wikilink") - 3rdシングル「[マイペース](https://ja.wikipedia.org/wiki/マイペース_\(SunSet_Swishの曲\) "wikilink")」発売。アニメ『BLEACH』[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")1月～3月期のエンディングテーマとして抜擢される。アニメタイアップや数え歌のような特徴的な歌いだし、さらに俳優の[要潤](../Page/要潤.md "wikilink")が出演するPVの相乗効果により自身として初となるオリコン初登場TOP10入り（8位）となる。ミュージックレインレーベルで出したシングルはこれで最後となった。
-      - [7月5日](../Page/7月5日.md "wikilink") - メジャーレーベル[SMEレコーズ移籍後の](https://ja.wikipedia.org/wiki/エスエムイーレコーズ "wikilink")4thシングル「[夏が来れば](../Page/夏が来れば.md "wikilink")」発売。
+      - [11月](../Page/11月.md "wikilink") - 大阪万博記念公園にてFM大阪開局記念イベント「F.O.B. Live」にオープニングアクトとして出演。このF.O.B. Liveには、[コブクロ](https://ja.wikipedia.org/wiki/コブクロ "wikilink")、[馬場俊英](../Page/馬場俊英.md "wikilink")、[キンモクセイ他多数の出演があった](../Page/キンモクセイ_\(バンド\).md "wikilink")。
+  - [2006年](../Page/2006年.md "wikilink")
+      - [1月25日](../Page/1月25日.md "wikilink") - 2ndシングル「[風のランナー](../Page/風のランナー.md "wikilink")」発売。アニメ『冒険王ビィト エクセリオン』がのエンディングテーマとしてタイアップする。またリリースをきっかけに「SunSet Swish Hi-Way Tour 2006」をスタートさせる。
+      - [2月](https://ja.wikipedia.org/wiki/2月 "wikilink") - 大阪厚生年金会館芸術ホールにて「トルバドゥールナイトフェスティバル」に出演。このトルバドゥールナイトフェスティバルには馬場俊英、[navy\&ivory](https://ja.wikipedia.org/wiki/navy&ivory "wikilink")、[SANISAI](../Page/SANISAI.md "wikilink")他多数の出演があった。
+      - [3月1日](../Page/3月1日.md "wikilink") - 3rdシングル「[マイペース](../Page/マイペース_\(SunSet_Swishの曲\).md "wikilink")」発売。アニメ『BLEACH』[2006年](../Page/2006年.md "wikilink")1月～3月期のエンディングテーマとして抜擢される。アニメタイアップや数え歌のような特徴的な歌いだし、さらに俳優の[要潤](../Page/要潤.md "wikilink")が出演するPVの相乗効果により自身として初となるオリコン初登場TOP10入り（8位）となる。ミュージックレインレーベルで出したシングルはこれで最後となった。
+      - [7月5日](../Page/7月5日.md "wikilink") - メジャーレーベル[SMEレコーズ移籍後の](../Page/エスエムイーレコーズ.md "wikilink")4thシングル「[夏が来れば](../Page/夏が来れば.md "wikilink")」発売。
       - [10月18日](../Page/10月18日.md "wikilink") - 5thシングル「[君がいるから](../Page/君がいるから_\(SunSet_Swishの曲\).md "wikilink")」を発売。[10月21日](../Page/10月21日.md "wikilink")に公開される映画『[天使の卵](https://ja.wikipedia.org/wiki/天使の卵_\(映画\) "wikilink")』及び続編のドラマである『[天使の梯子](https://ja.wikipedia.org/wiki/天使の卵_\(映画\)#天使の梯子 "wikilink")』の主題歌となる。
       - [11月15日](../Page/11月15日.md "wikilink") - 1stアルバム『[あなたの街で逢いましょう](https://ja.wikipedia.org/wiki/あなたの街で逢いましょう "wikilink")』を発売する。
       - [12月30日](../Page/12月30日.md "wikilink") - [第48回日本レコード大賞にて](https://ja.wikipedia.org/wiki/日本レコード大賞 "wikilink")「マイペース」が新人賞を受賞。
   - [2007年](../Page/2007年.md "wikilink")
       - [1月25日](../Page/1月25日.md "wikilink") - 1stワンマンツアー『あなたの街で逢いましょう』名古屋から開始。[2月10日](../Page/2月10日.md "wikilink")福岡で終了。
       - [2月28日](../Page/2月28日.md "wikilink") - 6thシングル「[モザイクカケラ](../Page/モザイクカケラ.md "wikilink")」発売。『[コードギアス 反逆のルルーシュ](../Page/コードギアス_反逆のルルーシュ.md "wikilink")』のエンディングテーマに。SSS初めてPV全てにCGが使われた。
-      - [5月](https://ja.wikipedia.org/wiki/5月 "wikilink") - [阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")の[矢野燿大](../Page/矢野燿大.md "wikilink")捕手が「マイペース」を、阪神主催試合の[打席](https://ja.wikipedia.org/wiki/打席 "wikilink")登場曲に使用。
+      - [5月](https://ja.wikipedia.org/wiki/5月 "wikilink") - [阪神タイガース](../Page/阪神タイガース.md "wikilink")の[矢野燿大](../Page/矢野燿大.md "wikilink")捕手が「マイペース」を、阪神主催試合の[打席](../Page/打席.md "wikilink")登場曲に使用。
       - [5月19日](../Page/5月19日.md "wikilink") - BENT-WEBにて、『SunSet Swishのそれはナイっす！』連載開始。
       - [5月24日](../Page/5月24日.md "wikilink") - 2ndワンマンツアー『モザイクカケラ2007』大阪からスタート。[6月17日](../Page/6月17日.md "wikilink")名古屋にて終了。
-      - [8月22日](../Page/8月22日.md "wikilink") - 7thシングル「[ありがとう](../Page/ありがとう_\(SunSet_Swishの曲\).md "wikilink")」発売。『[おおきく振りかぶって](https://ja.wikipedia.org/wiki/おおきく振りかぶって "wikilink")』のエンディングテーマに起用。カップリング曲の「Top Of The Morning」は[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")の[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")『[おはよう朝日です](../Page/おはよう朝日です.md "wikilink")』のテーマ曲となっている（2007年3月31日～）。
+      - [8月22日](../Page/8月22日.md "wikilink") - 7thシングル「[ありがとう](../Page/ありがとう_\(SunSet_Swishの曲\).md "wikilink")」発売。『[おおきく振りかぶって](../Page/おおきく振りかぶって.md "wikilink")』のエンディングテーマに起用。カップリング曲の「Top Of The Morning」は[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")の[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")『[おはよう朝日です](../Page/おはよう朝日です.md "wikilink")』のテーマ曲となっている（2007年3月31日～）。
       - [10月7日](../Page/10月7日.md "wikilink") - [東京ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")の[古田敦也](../Page/古田敦也.md "wikilink")選手の引退セレモニーで「ありがとう」が使用される。
       - [11月6日](../Page/11月6日.md "wikilink") - 3rdワンマンツアー『ありがとう2007』名古屋から開始。[11月20日](../Page/11月20日.md "wikilink")東京で終了。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")
       - [3月5日](../Page/3月5日.md "wikilink") - 8thシングル「[PASSION](../Page/PASSION_\(SunSet_Swishの曲\).md "wikilink")」発売。『[RHプラス](../Page/RHプラス.md "wikilink")』のエンディングテーマに起用。[ジャケットには](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")、[同じ事務所に所属する](../Page/ミュージックレイン.md "wikilink")、[声優](../Page/声優.md "wikilink")の[寿美菜子](https://ja.wikipedia.org/wiki/寿美菜子 "wikilink")が起用されている。また、PVには[上地雄輔](https://ja.wikipedia.org/wiki/上地雄輔 "wikilink")が出演している。
       - [6月18日](../Page/6月18日.md "wikilink") - 9thシングル「[I Love You](../Page/I_Love_You_\(SunSet_Swishの曲\).md "wikilink")」発売。『[ゼクシィ](https://ja.wikipedia.org/wiki/ゼクシィ "wikilink")』のCMソングで話題となった。
-      - [7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink") - 2ndアルバム『[PASSION](../Page/PASSION_\(SunSet_Swishのアルバム\).md "wikilink")』発売。
+      - [7月23日](../Page/7月23日.md "wikilink") - 2ndアルバム『[PASSION](../Page/PASSION_\(SunSet_Swishのアルバム\).md "wikilink")』発売。
       - [11月5日](../Page/11月5日.md "wikilink") - 10thシングル「[あすなろ](https://ja.wikipedia.org/wiki/あすなろ_\(SunSet_Swishの曲\) "wikilink")」発売。映画『ハンサム★スーツ』挿入歌。PVには同映画の原作・脚本を務めた[鈴木おさむ](../Page/鈴木おさむ.md "wikilink")と妻の[大島美幸](https://ja.wikipedia.org/wiki/大島美幸 "wikilink")（大島も同映画に出演）が出演している。
   - [2009年](../Page/2009年.md "wikilink")
       - [4月22日](../Page/4月22日.md "wikilink") - 配信限定シングル「[浪漫少年](https://ja.wikipedia.org/wiki/浪漫少年 "wikilink")」を配信開始。
@@ -65,7 +65,7 @@
   - 3人共[大阪府](../Page/大阪府.md "wikilink")[枚方市](../Page/枚方市.md "wikilink")出身である。
   - **石田 順三**（いしだ じゅんぞう、 - [A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")）
       - [ピアノ](../Page/ピアノ.md "wikilink")、作曲担当。このバンドのリーダーを務める。
-      - [ベースの演奏も出来る](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。カップリング等でベースを担当する事もある。
+      - [ベースの演奏も出来る](../Page/ベース_\(弦楽器\).md "wikilink")。カップリング等でベースを担当する事もある。
       - SSSの楽曲の詞の半分は石田が書いている。
   - **佐伯 大介**（さえき だいすけ、 - [O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink") ）
       - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。高音の透き通った声でボーカルを務める。
@@ -92,20 +92,20 @@
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/6月1日.md" title="wikilink">6月1日</a></p></td>
-<td><p>''' <a href="https://ja.wikipedia.org/wiki/明日、笑えるように" title="wikilink">明日、笑えるように</a> '''</p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/6月1日.md" title="wikilink">6月1日</a></p></td>
+<td><p>''' <a href="../Page/明日、笑えるように.md" title="wikilink">明日、笑えるように</a> '''</p></td>
 <td><p>79位</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/1月25日.md" title="wikilink">1月25日</a></p></td>
-<td><p>''' <a href="https://ja.wikipedia.org/wiki/風のランナー" title="wikilink">風のランナー</a> '''</p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/1月25日.md" title="wikilink">1月25日</a></p></td>
+<td><p>''' <a href="../Page/風のランナー.md" title="wikilink">風のランナー</a> '''</p></td>
 <td><p>84位</p></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
 <td><p>2006年<a href="../Page/3月1日.md" title="wikilink">3月1日</a></p></td>
-<td><p>''' <a href="https://ja.wikipedia.org/wiki/マイペース_(SunSet_Swishの曲)" title="wikilink">マイペース</a> '''</p></td>
+<td><p>''' <a href="../Page/マイペース_(SunSet_Swishの曲).md" title="wikilink">マイペース</a> '''</p></td>
 <td><p>6位</p></td>
 </tr>
 <tr class="even">
@@ -207,13 +207,13 @@
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/11月15日.md" title="wikilink">11月15日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/11月15日.md" title="wikilink">11月15日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/あなたの街で逢いましょう" title="wikilink">あなたの街で逢いましょう</a></strong></p></td>
 <td><p>14位</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="https://ja.wikipedia.org/wiki/7月23日" title="wikilink">7月23日</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/7月23日.md" title="wikilink">7月23日</a></p></td>
 <td><p><strong><a href="../Page/PASSION_(SunSet_Swishのアルバム).md" title="wikilink">PASSION</a></strong></p></td>
 <td><p>25位</p></td>
 </tr>
@@ -270,20 +270,20 @@
 
 ### 参加作品
 
-| 発売日         | タイトル                                                                             | 規格品番       | 収録曲                            |
-| ----------- | -------------------------------------------------------------------------------- | ---------- | ------------------------------ |
-| 2007年09月12日 | [おおきく振りかぶって](https://ja.wikipedia.org/wiki/おおきく振りかぶって "wikilink") オリジナル・サウンドトラック | SVWC-7483  | ありがとう TV version               |
-| 2008年03月26日 | [RHプラス](../Page/RHプラス.md "wikilink") オリジナル・サウンドトラック                              | SVWC-7544  | PASSION(RHプラスエンディングVer.)       |
-| 2008年04月16日 | J-MOVIE SONGS                                                                    | MHCL-1321  | 君がいるから                         |
-| 2009年01月14日 | CODE GEASS COMPLETE BEST                                                         | SMCL-163   | モザイクカケラ                        |
-| 2009年12月09日 | GUNDAM UNPLUGGED～アコギ de ガンダム A.C. 2009～                                          | SECL-20009 | きらめきのララァ / 冨田勇樹 (SunSet Swish) |
-| 2010年03月03日 | ありがとうのうた                                                                         | BVCL-78    | ありがとう                          |
-| 2010年07月21日 | Happy Songs                                                                      | COCP-36284 | I Love You                     |
-|             |                                                                                  |            |                                |
+| 発売日         | タイトル                                                          | 規格品番       | 収録曲                            |
+| ----------- | ------------------------------------------------------------- | ---------- | ------------------------------ |
+| 2007年09月12日 | [おおきく振りかぶって](../Page/おおきく振りかぶって.md "wikilink") オリジナル・サウンドトラック | SVWC-7483  | ありがとう TV version               |
+| 2008年03月26日 | [RHプラス](../Page/RHプラス.md "wikilink") オリジナル・サウンドトラック           | SVWC-7544  | PASSION(RHプラスエンディングVer.)       |
+| 2008年04月16日 | J-MOVIE SONGS                                                 | MHCL-1321  | 君がいるから                         |
+| 2009年01月14日 | CODE GEASS COMPLETE BEST                                      | SMCL-163   | モザイクカケラ                        |
+| 2009年12月09日 | GUNDAM UNPLUGGED～アコギ de ガンダム A.C. 2009～                       | SECL-20009 | きらめきのララァ / 冨田勇樹 (SunSet Swish) |
+| 2010年03月03日 | ありがとうのうた                                                      | BVCL-78    | ありがとう                          |
+| 2010年07月21日 | Happy Songs                                                   | COCP-36284 | I Love You                     |
+|             |                                                               |            |                                |
 
 ## ラジオ番組
 
-  - [SunSet Swishの今夜もマイペース](https://ja.wikipedia.org/wiki/SunSet_Swishの今夜もマイペース "wikilink") ([fm osaka](../Page/エフエム大阪.md "wikilink"))
+  - [SunSet Swishの今夜もマイペース](../Page/SunSet_Swishの今夜もマイペース.md "wikilink") ([fm osaka](../Page/エフエム大阪.md "wikilink"))
   - [SunSet Swish On The Street\!](https://ja.wikipedia.org/wiki/SunSet_Swish_On_The_Street! "wikilink")([NACK5](../Page/エフエムナックファイブ.md "wikilink"))
   - [SunSet SwishのSUNでナイト\!](https://ja.wikipedia.org/wiki/SunSet_SwishのSUNでナイト! "wikilink")([FM AICHI](../Page/エフエム愛知.md "wikilink")）
 
@@ -307,9 +307,9 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/土屋隆俊" title="wikilink">土屋隆俊</a></p></td>
 <td><p>「I Love You」<br />
-「PASSION」(出演:<a href="https://ja.wikipedia.org/wiki/映美くらら" title="wikilink">映美くらら</a>・<a href="https://ja.wikipedia.org/wiki/平山祐介" title="wikilink">平山祐介</a>・<a href="https://ja.wikipedia.org/wiki/上地雄輔" title="wikilink">上地雄輔</a>)<br />
-「ありがとう」(出演:<a href="https://ja.wikipedia.org/wiki/桑野信義" title="wikilink">桑野信義</a>)<br />
-「さくらびと」(出演:映美くらら・<a href="https://ja.wikipedia.org/wiki/西島数博" title="wikilink">西島数博</a>)<br />
+「PASSION」(出演:<a href="../Page/映美くらら.md" title="wikilink">映美くらら</a>・<a href="https://ja.wikipedia.org/wiki/平山祐介" title="wikilink">平山祐介</a>・<a href="https://ja.wikipedia.org/wiki/上地雄輔" title="wikilink">上地雄輔</a>)<br />
+「ありがとう」(出演:<a href="../Page/桑野信義.md" title="wikilink">桑野信義</a>)<br />
+「さくらびと」(出演:映美くらら・<a href="../Page/西島数博.md" title="wikilink">西島数博</a>)<br />
 「バライロ」<br />
 「夏が来れば」(出演:<a href="../Page/要潤.md" title="wikilink">要潤</a>・<a href="../Page/小越勇輝.md" title="wikilink">小越勇輝</a>)</p></td>
 </tr>

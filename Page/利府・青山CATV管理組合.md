@@ -15,31 +15,31 @@
 
 ### テレビ局
 
-| アナログ | デジタル | 放送局                                                                                                                  |
-| ---- | ---- | -------------------------------------------------------------------------------------------------------------------- |
-| 1    |      | [東北放送](../Page/東北放送.md "wikilink")                                                                                   |
-| 3    |      | [NHK仙台](https://ja.wikipedia.org/wiki/NHK仙台放送局 "wikilink")[総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink") |
-| 4    |      | [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[BS2](https://ja.wikipedia.org/wiki/NHK衛星第2テレビジョン "wikilink")  |
-| 5    |      | [NHK仙台](https://ja.wikipedia.org/wiki/NHK仙台放送局 "wikilink")[教育](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink") |
-| 7    |      | [ミヤギテレビ](../Page/宮城テレビ放送.md "wikilink")                                                                              |
-| 9    |      | [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[BS1](https://ja.wikipedia.org/wiki/NHK衛星第1テレビジョン "wikilink")  |
-| 10   |      | [東日本放送](../Page/東日本放送.md "wikilink")                                                                                 |
-| 11   |      | 自主放送                                                                                                                 |
-| 12   |      | [仙台放送](../Page/仙台放送.md "wikilink")                                                                                   |
+| アナログ | デジタル | 放送局                                                                                                                 |
+| ---- | ---- | ------------------------------------------------------------------------------------------------------------------- |
+| 1    |      | [東北放送](../Page/東北放送.md "wikilink")                                                                                  |
+| 3    |      | [NHK仙台](../Page/NHK仙台放送局.md "wikilink")[総合](../Page/NHK総合テレビジョン.md "wikilink")                                      |
+| 4    |      | [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[BS2](../Page/NHK衛星第2テレビジョン.md "wikilink")                    |
+| 5    |      | [NHK仙台](../Page/NHK仙台放送局.md "wikilink")[教育](../Page/NHK教育テレビジョン.md "wikilink")                                      |
+| 7    |      | [ミヤギテレビ](../Page/宮城テレビ放送.md "wikilink")                                                                             |
+| 9    |      | [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[BS1](https://ja.wikipedia.org/wiki/NHK衛星第1テレビジョン "wikilink") |
+| 10   |      | [東日本放送](../Page/東日本放送.md "wikilink")                                                                                |
+| 11   |      | 自主放送                                                                                                                |
+| 12   |      | [仙台放送](../Page/仙台放送.md "wikilink")                                                                                  |
 
 ### ラジオ局
 
-| MHz  | 放送局                                                                                                               |
-| ---- | ----------------------------------------------------------------------------------------------------------------- |
-| 77.1 | [Date fm](../Page/エフエム仙台.md "wikilink")                                                                           |
-| 82.5 | [NHK仙台](https://ja.wikipedia.org/wiki/NHK仙台放送局 "wikilink")[FM](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink") |
+| MHz  | 放送局                                                                         |
+| ---- | --------------------------------------------------------------------------- |
+| 77.1 | [Date fm](../Page/エフエム仙台.md "wikilink")                                     |
+| 82.5 | [NHK仙台](../Page/NHK仙台放送局.md "wikilink")[FM](../Page/NHK-FM放送.md "wikilink") |
 
 2006年11月[地上デジタル放送](https://ja.wikipedia.org/wiki/地上デジタル放送 "wikilink")の再送信を同一周波数パススルー方式により開始。
 
 ## 関連項目
 
   - [ケーブルテレビ局の一覧](../Page/ケーブルテレビ局の一覧.md "wikilink")
-  - [セット トップ ボックス](https://ja.wikipedia.org/wiki/セットトップボックス "wikilink")
+  - [セット トップ ボックス](../Page/セットトップボックス.md "wikilink")
   - [ホームターミナル](https://ja.wikipedia.org/wiki/ホームターミナル "wikilink")
   - [ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")
   - [日本ケーブルキャスセンター](../Page/日本ケーブルキャスセンター.md "wikilink")

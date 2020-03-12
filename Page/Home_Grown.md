@@ -1,15 +1,15 @@
 > この記事は[Home Grown](https://ja.wikipedia.org/wiki/Home_Grown)から翻訳されています。
 
 
-**Home Grown**（ホーム・グロウン）は、日本の[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")・[バンド](../Page/バンド_\(音楽\).md "wikilink")。バンド名はジャマイカ人[ギタリスト](../Page/ギタリスト.md "wikilink")、[アール・チナ・スミス](https://ja.wikipedia.org/wiki/アール・チナ・スミス "wikilink")による同名の楽曲に由来。
+**Home Grown**（ホーム・グロウン）は、日本の[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")・[バンド](../Page/バンド_\(音楽\).md "wikilink")。バンド名はジャマイカ人[ギタリスト](../Page/ギタリスト.md "wikilink")、[アール・チナ・スミス](../Page/アール・チナ・スミス.md "wikilink")による同名の楽曲に由来。
 
-[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")初頭に[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")で結成されて以来、数多くのレゲエ・アーティストの[ライブや](https://ja.wikipedia.org/wiki/演奏会 "wikilink")[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")に参加。他アーティストへの楽曲提供や[プロデュース](https://ja.wikipedia.org/wiki/プロデュース "wikilink")も手掛けている。
+[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")初頭に[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")で結成されて以来、数多くのレゲエ・アーティストの[ライブや](../Page/演奏会.md "wikilink")[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")に参加。他アーティストへの楽曲提供や[プロデュース](https://ja.wikipedia.org/wiki/プロデュース "wikilink")も手掛けている。
 
 2002年7月17日、アルバム『Home Grown』を[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")よりリリースし[メジャー・デビュー](https://ja.wikipedia.org/wiki/メジャー・デビュー "wikilink")。
 
 ## メンバー
 
-  - Tanco\<[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")\>
+  - Tanco\<[ベース](../Page/ベース_\(弦楽器\).md "wikilink")\>
   - Yukky＜[ドラム](../Page/ドラムセット.md "wikilink")＞
   - I-Watch＜[ギター](../Page/ギター.md "wikilink")＞
   - Mama-R＜[キーボード](../Page/キーボード_\(楽器\).md "wikilink")＞
@@ -18,7 +18,7 @@
 ### 元メンバー
 
   - Shinji Man＜[パーカッション](../Page/パーカッション.md "wikilink")＞
-      - 本名：菅野真司。[2011年](../Page/2011年.md "wikilink")[7月26日](../Page/7月26日.md "wikilink")、[膵臓癌のため死去](https://ja.wikipedia.org/wiki/膵癌 "wikilink")。52歳没\[1\]。
+      - 本名：菅野真司。[2011年](../Page/2011年.md "wikilink")[7月26日](../Page/7月26日.md "wikilink")、[膵臓癌のため死去](../Page/膵癌.md "wikilink")。52歳没\[1\]。
   - Kon“MPC”Ken＜[MPC](https://ja.wikipedia.org/wiki/AKAI_professional#サンプラー "wikilink")＞（2008年に脱退）
 
 ## ディスコグラフィー
@@ -63,7 +63,7 @@
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p>2005年7月20日</p></td>
-<td><p><strong>Beach Walk feat.Takafin from <a href="https://ja.wikipedia.org/wiki/Mighty_Jam_Rock" title="wikilink">Mighty Jam Rock</a></strong></p></td>
+<td><p><strong>Beach Walk feat.Takafin from <a href="../Page/Mighty_Jam_Rock.md" title="wikilink">Mighty Jam Rock</a></strong></p></td>
 <td><p>PCCA-02160</p></td>
 <td><ol>
 <li>Beach Walk</li>
@@ -462,7 +462,7 @@
 
 <!-- end list -->
 
-  - [トリビュート・アルバム](https://ja.wikipedia.org/wiki/トリビュート・アルバム "wikilink")「[Hey ANIKI\!](../Page/Hey_ANIKI!.md "wikilink")」（2004年4月28日）
+  - [トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")「[Hey ANIKI\!](../Page/Hey_ANIKI!.md "wikilink")」（2004年4月28日）
 
 <!-- end list -->
 
@@ -471,7 +471,7 @@
 
 <!-- end list -->
 
-  - [KREVA](https://ja.wikipedia.org/wiki/KREVA "wikilink")「[新人クレバ](https://ja.wikipedia.org/wiki/新人クレバ "wikilink")」（2004年11月3日）
+  - [KREVA](../Page/KREVA.md "wikilink")「[新人クレバ](../Page/新人クレバ.md "wikilink")」（2004年11月3日）
 
 <!-- end list -->
 
@@ -489,7 +489,7 @@
 
 <!-- end list -->
 
-  - [エイジアエンジニア](https://ja.wikipedia.org/wiki/エイジアエンジニア "wikilink")『ぜひっ\!\!』（2005年9月28日）
+  - [エイジアエンジニア](../Page/エイジアエンジニア.md "wikilink")『ぜひっ\!\!』（2005年9月28日）
 
 <!-- end list -->
 
@@ -516,7 +516,7 @@
 
 <!-- end list -->
 
-  - [CORN HEAD](https://ja.wikipedia.org/wiki/CORN_HEAD "wikilink")「LOVE SEEKER」（2006年5月24日）
+  - [CORN HEAD](../Page/CORN_HEAD.md "wikilink")「LOVE SEEKER」（2006年5月24日）
 
 <!-- end list -->
 
@@ -535,7 +535,7 @@
 
 
 
-  - [Spinna B-ILL](https://ja.wikipedia.org/wiki/Spinna_B-ILL "wikilink")「あるがまま with HOME GROWN」（2016年5月11日）　
+  - [Spinna B-ILL](../Page/Spinna_B-ILL.md "wikilink")「あるがまま with HOME GROWN」（2016年5月11日）　
 
 　　Side-A あるがまま with HOME GROWN
 
@@ -543,7 +543,7 @@
 
 　
 
-  - [Spinna B-ILL](https://ja.wikipedia.org/wiki/Spinna_B-ILL "wikilink") with HOME GROWN「幸せの実」（2018年09月14日）
+  - [Spinna B-ILL](../Page/Spinna_B-ILL.md "wikilink") with HOME GROWN「幸せの実」（2018年09月14日）
 
 　　Side-A 幸せの実
 
@@ -552,16 +552,16 @@
 
 \== ミュージックビデオ ==
 
-|                                                                                                             |                                                                                                      |
-| ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| **監督**                                                                                                      | **曲名**                                                                                               |
-| [太田黒哲](https://ja.wikipedia.org/wiki/太田黒哲 "wikilink")                                                       | 「One Love」                                                                                           |
-| [奥和義](../Page/奥和義.md "wikilink")                                                                            | 「Stay with Me feat.Super Criss(FIRE BALL)」                                                           |
-| [泰太郎](https://ja.wikipedia.org/wiki/泰太郎 "wikilink")                                                         | 「Give Thanks」「Beach Walk feat.Takafin from Mighty Jam Rock」「Dancehall Fire feat.BOY-KEN」「Irie Music」 |
-| [tatsuaki](https://ja.wikipedia.org/wiki/tatsuaki "wikilink")                                               | 「[BIG 10](http://www.indiesmusic.com/musicvideo/video.asp?id=10569)」                                 |
-| [丹下紘希](https://ja.wikipedia.org/wiki/丹下紘希 "wikilink")                                                       | 「Happy Birthday -いっしょに踊りたいぜ Baby-」「Oasis」「Sound Terrorist」                                           |
-| [番場秀一](https://ja.wikipedia.org/wiki/番場秀一 "wikilink")と[中村浩紀](https://ja.wikipedia.org/wiki/中村浩紀 "wikilink") | 「Sunset」                                                                                             |
-|                                                                                                             |                                                                                                      |
+|                                                                                          |                                                                                                      |
+| ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| **監督**                                                                                   | **曲名**                                                                                               |
+| [太田黒哲](https://ja.wikipedia.org/wiki/太田黒哲 "wikilink")                                    | 「One Love」                                                                                           |
+| [奥和義](../Page/奥和義.md "wikilink")                                                         | 「Stay with Me feat.Super Criss(FIRE BALL)」                                                           |
+| [泰太郎](https://ja.wikipedia.org/wiki/泰太郎 "wikilink")                                      | 「Give Thanks」「Beach Walk feat.Takafin from Mighty Jam Rock」「Dancehall Fire feat.BOY-KEN」「Irie Music」 |
+| [tatsuaki](https://ja.wikipedia.org/wiki/tatsuaki "wikilink")                            | 「[BIG 10](http://www.indiesmusic.com/musicvideo/video.asp?id=10569)」                                 |
+| [丹下紘希](../Page/丹下紘希.md "wikilink")                                                       | 「Happy Birthday -いっしょに踊りたいぜ Baby-」「Oasis」「Sound Terrorist」                                           |
+| [番場秀一](../Page/番場秀一.md "wikilink")と[中村浩紀](https://ja.wikipedia.org/wiki/中村浩紀 "wikilink") | 「Sunset」                                                                                             |
+|                                                                                          |                                                                                                      |
 
 ## 主なライブ
 
@@ -577,7 +577,7 @@
   - 2012年06月02日 - 頂 2012
   - 2012年07月08日 - 京都大作戦2012〜短冊に こめた願いよ 叶いな祭〜
   - 2012年08月19日 - SUMMER SONIC 2012
-  - 2012年11月09日・17日 - [RYO the SKYWALKER](https://ja.wikipedia.org/wiki/RYO_the_SKYWALKER "wikilink") -"Word Piece" Tour 2012-
+  - 2012年11月09日・17日 - [RYO the SKYWALKER](../Page/RYO_the_SKYWALKER.md "wikilink") -"Word Piece" Tour 2012-
   - 2013年05月04日・06日 - DANCEHALL ROCK 2K13
   - 2013年06月09日 - 富士レゲエフェスティバル2013
   - 2013年08月11日 - 東北レゲエ祭2013
@@ -587,7 +587,7 @@
   - 2014年08月16日 - 東北レゲエ祭2014
   - 2014年09月07日 - MIGHTY CROWN ENTERTAINMENT Presents [横浜レゲエ祭](../Page/横浜レゲエ祭.md "wikilink") 2014 -One Link-
   - 2014年09月14日 - [りんご音楽祭](https://ja.wikipedia.org/wiki/りんご音楽祭 "wikilink") 2014
-  - 2015年04月05日 - [FIRE BALL](https://ja.wikipedia.org/wiki/FIRE_BALL_\(レゲエグループ\) "wikilink") presents 大炎上
+  - 2015年04月05日 - [FIRE BALL](../Page/FIRE_BALL_\(レゲエグループ\).md "wikilink") presents 大炎上
   - 2015年05月05日 - DANCEHALL ROCK 2K15
   - 2015年06月14日 - 富士レゲエフェスティバル2015
   - 2015年09月05日 - 23rd [Sunset Live](https://ja.wikipedia.org/wiki/サンセットライブ "wikilink") 2015 -Love & Unity-

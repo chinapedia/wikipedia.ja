@@ -1,7 +1,7 @@
 > この記事は[Lost Melodies](https://ja.wikipedia.org/wiki/Lost_Melodies)から翻訳されています。
 
 
-『**Lost Melodies**』は、1994年4月25日に[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")からリリースされた、[奥井亜紀](../Page/奥井亜紀.md "wikilink")のファーストアルバム。このアルバムから"wea japan"レーベル発売となる。（シングル『銀のスプーンで』のみワーナーブラザーズレーベルとなっている）
+『**Lost Melodies**』は、1994年4月25日に[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")からリリースされた、[奥井亜紀](../Page/奥井亜紀.md "wikilink")のファーストアルバム。このアルバムから"wea japan"レーベル発売となる。（シングル『銀のスプーンで』のみワーナーブラザーズレーベルとなっている）
 
 ## 解説
 
@@ -47,7 +47,7 @@
 
   - [菅野よう子](../Page/菅野よう子.md "wikilink")
   - [小野寺明敏](https://ja.wikipedia.org/wiki/小野寺明敏 "wikilink")
-  - [大村雅朗](https://ja.wikipedia.org/wiki/大村雅朗 "wikilink")
+  - [大村雅朗](../Page/大村雅朗.md "wikilink")
   - [鶴来正基](https://ja.wikipedia.org/wiki/鶴来正基 "wikilink")
   - [coba](https://ja.wikipedia.org/wiki/coba "wikilink")
 

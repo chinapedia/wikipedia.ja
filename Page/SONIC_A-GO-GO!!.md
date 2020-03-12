@@ -1,13 +1,13 @@
 > この記事は[SONIC A-GO-GO!!](https://ja.wikipedia.org/wiki/SONIC_A-GO-GO!!)から翻訳されています。
 
 
-**SONIC A-GO-GO\!\!**（ソニック・ア・ゴー・ゴー）は[CROSS FMで放送されたラジオ番組](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")。放送期間は[1996年](../Page/1996年.md "wikilink")4月-[1999年](../Page/1999年.md "wikilink")3月。[ナビゲーターは](https://ja.wikipedia.org/wiki/ディスクジョッキー "wikilink")[中島ヒロト](https://ja.wikipedia.org/wiki/中島ヒロト "wikilink")。北九州第1スタジオから生放送された。
+**SONIC A-GO-GO\!\!**（ソニック・ア・ゴー・ゴー）は[CROSS FMで放送されたラジオ番組](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")。放送期間は[1996年](../Page/1996年.md "wikilink")4月-[1999年](../Page/1999年.md "wikilink")3月。[ナビゲーターは](../Page/ディスクジョッキー.md "wikilink")[中島ヒロト](../Page/中島ヒロト.md "wikilink")。北九州第1スタジオから生放送された。
 
 ## 概要
 
   - それまで毎週金曜日の夕方、中島ヒロトが担当していた「**[HIROTO'S FRIDAY RADIO JACK](https://ja.wikipedia.org/wiki/FRIDAY_RADIO_JACK "wikilink")**」がリニューアルする形でスタートしたが、1997年からは時間帯が移動、金曜日午後のワイドプログラムとなった。
   - 番組のサブタイトルは「**WEEKEND PARTY**」。またタイムテーブルでは「**HIROTO'S SONIC A-GO-GO\!\!**」と表記されていた。
-  - 1999年4月からは再度リニューアル、「**[RADIO SONIC](https://ja.wikipedia.org/wiki/RADIO_SONIC "wikilink")**」として新たにスタートすることになった。
+  - 1999年4月からは再度リニューアル、「**[RADIO SONIC](../Page/RADIO_SONIC.md "wikilink")**」として新たにスタートすることになった。
 
 ## 放送時間
 
@@ -31,7 +31,7 @@
 <!-- end list -->
 
   -
-    [トム・デュフレーが担当する全編英語](https://ja.wikipedia.org/wiki/Tom_Dufleit "wikilink")・ワンマンDJによる洋楽専門番組で、ジングルにはスポンサーである**[LUCKY STRIKE](https://ja.wikipedia.org/wiki/ラッキーストライク "wikilink")**のサウンドロゴが使われた。
+    [トム・デュフレーが担当する全編英語](https://ja.wikipedia.org/wiki/Tom_Dufleit "wikilink")・ワンマンDJによる洋楽専門番組で、ジングルにはスポンサーである**[LUCKY STRIKE](../Page/ラッキーストライク.md "wikilink")**のサウンドロゴが使われた。
     途中、トピックスを紹介するコーナーでは、その日本語訳を中島ヒロトが紹介した。
     このコーナーは月曜日-金曜日を通じて放送され、月曜日-木曜日は「[CARAMEL PAIRATES](https://ja.wikipedia.org/wiki/CARAMEL_PAIRATES "wikilink")」内で放送された。
 
@@ -42,7 +42,7 @@
 <!-- end list -->
 
   -
-    スポンサーは[小倉競輪場](https://ja.wikipedia.org/wiki/小倉競輪場 "wikilink")・[門司競輪場](https://ja.wikipedia.org/wiki/門司競輪場 "wikilink")。オールディーズのリクエストを特集。
+    スポンサーは[小倉競輪場](../Page/小倉競輪場.md "wikilink")・[門司競輪場](../Page/門司競輪場.md "wikilink")。オールディーズのリクエストを特集。
     このコーナーは月曜日-金曜日を通じて放送され、月曜日-木曜日は「CARAMEL PAIRATES」内で放送された。
     1997年4月からは、後番組の「[BRAVO CALLIN'](../Page/BRAVO_CALLIN'.md "wikilink")」に引き継がれた。
 
@@ -72,9 +72,9 @@
 <!-- end list -->
 
   -
-    スポンサーである[ザ・モール小倉の情報や](https://ja.wikipedia.org/wiki/ザ・モール_\(ショッピングセンター\) "wikilink")、同店舗に備え付けられたリクエストボックスへ集められたリクエスト曲を紹介した。
-    このコーナーは月曜日-金曜日を通じて放送され、月曜日-木曜日は「[DAYLIGHT DRIVIN'](https://ja.wikipedia.org/wiki/DAYLIGHT_DRIVIN' "wikilink")」内で放送された。
-    1999年4月からは、後番組の「[CHELSEA-CHAIN](https://ja.wikipedia.org/wiki/CHELSEA-CHAIN "wikilink")」に引き継がれた。
+    スポンサーである[ザ・モール小倉の情報や](../Page/ザ・モール_\(ショッピングセンター\).md "wikilink")、同店舗に備え付けられたリクエストボックスへ集められたリクエスト曲を紹介した。
+    このコーナーは月曜日-金曜日を通じて放送され、月曜日-木曜日は「[DAYLIGHT DRIVIN'](../Page/DAYLIGHT_DRIVIN'.md "wikilink")」内で放送された。
+    1999年4月からは、後番組の「[CHELSEA-CHAIN](../Page/CHELSEA-CHAIN.md "wikilink")」に引き継がれた。
 
 <!-- end list -->
 
@@ -83,7 +83,7 @@
 <!-- end list -->
 
   -
-    同局の[ラジオカー](https://ja.wikipedia.org/wiki/ラジオカー "wikilink")であるクロスカーに乗ったリポーターが街中へ出かけて、様々なイベントなどを紹介した。
+    同局の[ラジオカー](../Page/ラジオカー.md "wikilink")であるクロスカーに乗ったリポーターが街中へ出かけて、様々なイベントなどを紹介した。
 
 <!-- end list -->
 
@@ -94,7 +94,7 @@
   -
     スポンサーである[井筒屋](../Page/井筒屋.md "wikilink")の情報を紹介した。週によっては、井筒屋の販売店員が直接出演して商品の紹介を行った。
     このコーナーは月曜日-金曜日を通じて放送され、月曜日-木曜日は「DAYLIGHT DRIVIN'」内で放送された。
-    また提供クレジットは、月曜日-木曜日は[立山律子](https://ja.wikipedia.org/wiki/立山律子 "wikilink")が英語で紹介していたが、金曜日のこの番組では中島ヒロトが日本語で紹介していた。
+    また提供クレジットは、月曜日-木曜日は[立山律子](../Page/立山律子.md "wikilink")が英語で紹介していたが、金曜日のこの番組では中島ヒロトが日本語で紹介していた。
     1997年4月からは、後番組の「CHELSEA-CHAIN」に引き継がれた。
 
 <!-- end list -->
@@ -105,7 +105,7 @@
 
   -
     福岡県内の主なCDショップのシングルチャート上位10曲を紹介。
-    1999年4月からは、土曜日朝の番組「[MOZI MOZI SATURDAY](https://ja.wikipedia.org/wiki/MOZI_MOZI_SATURDAY "wikilink")」に引き継がれた。
+    1999年4月からは、土曜日朝の番組「[MOZI MOZI SATURDAY](../Page/MOZI_MOZI_SATURDAY.md "wikilink")」に引き継がれた。
 
 <!-- end list -->
 
@@ -153,9 +153,9 @@
   -
     スポンサーは[タイ国政府観光庁と福岡市内のホテル](../Page/タイ王国.md "wikilink")・リッツファイブ。
     タイ国の観光スポットや、観光に関する情報を紹介するコーナーだが、この番組ではタイ国周辺でヒットしている曲を紹介した後、タイ国政府観光庁からのお知らせを紹介して、中島ヒロトが「WELCOME TO THAILAND\!」と言ってコーナーを締めていた。
-    このコーナーは1998年3月までは「[SMOOVE TOUCH](https://ja.wikipedia.org/wiki/SMOOVE_TOUCH "wikilink")」内で放送されていたが、番組終了によりこの時間に変更となった。
-    またこのコーナーは月曜日-金曜日を通じて放送され、月曜日-木曜日は「[SHAKE HIP GROOVIN'](https://ja.wikipedia.org/wiki/SHAKE_HIP_GROOVIN' "wikilink")」内で放送された。
-    なお、1999年4月からは後番組「[RADIO SONIC](https://ja.wikipedia.org/wiki/RADIO_SONIC "wikilink")」に引き継がれた。
+    このコーナーは1998年3月までは「[SMOOVE TOUCH](../Page/SMOOVE_TOUCH.md "wikilink")」内で放送されていたが、番組終了によりこの時間に変更となった。
+    またこのコーナーは月曜日-金曜日を通じて放送され、月曜日-木曜日は「[SHAKE HIP GROOVIN'](../Page/SHAKE_HIP_GROOVIN'.md "wikilink")」内で放送された。
+    なお、1999年4月からは後番組「[RADIO SONIC](../Page/RADIO_SONIC.md "wikilink")」に引き継がれた。
 
 <!-- end list -->
 
@@ -205,16 +205,16 @@
 
 ## エピソードなど
 
-  - 1998年4月-1999年3月の期間、CROSS FM金曜日の番組は7:00-24:00を通じてナビゲーターが男性ばかりであったため、中島ヒロトが他の4人（[TOGGY](https://ja.wikipedia.org/wiki/TOGGY "wikilink")、[永松ケンシ](https://ja.wikipedia.org/wiki/永松ケンシ "wikilink")、[YUYA](https://ja.wikipedia.org/wiki/YUYA "wikilink")、[MASAKI](https://ja.wikipedia.org/wiki/MASAKI "wikilink")）を含めて「**FRIDAY MEN'S FIVE**」と呼んでいた。リスナーにもウケがよかったのか、このメンバーで当時の深夜番組「[MIDNIGHT WALK](https://ja.wikipedia.org/wiki/MIDNIGHT_WALK#番組内で放送された特別企画 "wikilink")」で特別番組を担当した。
+  - 1998年4月-1999年3月の期間、CROSS FM金曜日の番組は7:00-24:00を通じてナビゲーターが男性ばかりであったため、中島ヒロトが他の4人（[TOGGY](https://ja.wikipedia.org/wiki/TOGGY "wikilink")、[永松ケンシ](../Page/永松ケンシ.md "wikilink")、[YUYA](../Page/YUYA.md "wikilink")、[MASAKI](https://ja.wikipedia.org/wiki/MASAKI "wikilink")）を含めて「**FRIDAY MEN'S FIVE**」と呼んでいた。リスナーにもウケがよかったのか、このメンバーで当時の深夜番組「[MIDNIGHT WALK](https://ja.wikipedia.org/wiki/MIDNIGHT_WALK#番組内で放送された特別企画 "wikilink")」で特別番組を担当した。
   - 同時期、この番組の前の番組「[DIGITAL MORNING DRIVE](../Page/DIGITAL_MORNING_DRIVE.md "wikilink")」のエンディングで中島ヒロトが登場しTOGGYとクロストークをした後、この番組のオープニングでも再びTOGGYとのクロストークが展開されるという、他のどの番組にも見られないクロストークがあった。ちなみにこの番組のエンディングでも後の番組「[BRAVO CALLIN'](../Page/BRAVO_CALLIN'.md "wikilink")」の永松ケンシが登場しクロストークをするが、「BRAVO CALLIN'」のオープニングに中島ヒロトは登場しなかった。
   - 番組内では[山崎まさよし](https://ja.wikipedia.org/wiki/山崎まさよし "wikilink")が音楽（ギター）、中島ヒロトがヴォーカルというユニット「まさやんズ」が結成されるなど、いろいろなアーティストたちと中島の交流が広い一面も見られた。
   - 1998年12月の同局のキャンペーンウィークではこの番組のステッカーも作られ、スタジオに来たリスナーにプレゼントされた。但し番組内で発表されたキーワードがもらえる条件になっていた。またこのキャンペーンの一環として[12月11日](../Page/12月11日.md "wikilink")の「[MIDNIGHT WALK](../Page/MIDNIGHT_WALK.md "wikilink")」で、ディレクターの田中ゆきと2人でこの番組の裏番組「**裏ソニック**」を放送した。
 
 ## 関連項目
 
-  - [RADIO SONIC](https://ja.wikipedia.org/wiki/RADIO_SONIC "wikilink") - この番組の後中島ヒロトが担当した番組
+  - [RADIO SONIC](../Page/RADIO_SONIC.md "wikilink") - この番組の後中島ヒロトが担当した番組
   - [BUZZ DRIVE](https://ja.wikipedia.org/wiki/BUZZ_DRIVE "wikilink") - 同時期、「JRA SOUNDTARCKS」のコーナーを中島ヒロトが担当していた
-  - [GROOVE TRAIN 9to0](https://ja.wikipedia.org/wiki/GROOVE_TRAIN_9to0 "wikilink") - 同上
+  - [GROOVE TRAIN 9to0](../Page/GROOVE_TRAIN_9to0.md "wikilink") - 同上
   - [MIDNIGHT WALK](../Page/MIDNIGHT_WALK.md "wikilink")
 
 [Category:JFL系ラジオの音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:JFL系ラジオの音楽番組の歴史 "wikilink") [Category:CROSS_FMの番組](https://ja.wikipedia.org/wiki/Category:CROSS_FMの番組 "wikilink") [Category:1996年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1996年のラジオ番組_\(日本\) "wikilink")

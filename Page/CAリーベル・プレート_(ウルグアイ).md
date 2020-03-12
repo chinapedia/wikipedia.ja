@@ -40,7 +40,7 @@
 
   - [ディエゴ・ロペス](../Page/ルイス・ディエゴ・ロペス.md "wikilink") 1994-1996
 
-  - [ロベルト・フローレス](https://ja.wikipedia.org/wiki/ロベルト・フローレス "wikilink") 2006-2008
+  - [ロベルト・フローレス](../Page/ロベルト・フローレス.md "wikilink") 2006-2008
 
   - [ヘンリー・ヒメネス](https://ja.wikipedia.org/wiki/ヘンリー・ヒメネス "wikilink") 2007-2009
 

@@ -7,7 +7,7 @@
 
   - メジャーデビュー5周年記念3週連続リリース第1弾シングル。
   - 「サンキューセールス」と言うことで、定価390円と[yasu](https://ja.wikipedia.org/wiki/yasu "wikilink")も「エイベックスの売り上げはほとんどないそうです」というほど安値だったこともあり、初動売り上げは約4万枚と当時の最高初動を売り上げ、デビューシングル「[RED ZONE](../Page/RED_ZONE_\(Janne_Da_Arcの曲\).md "wikilink")」に迫る売り上げをみせた。
-  - この3週連続リリースのヒットによって22ndシングル「[Love is Here](https://ja.wikipedia.org/wiki/Love_is_Here "wikilink")」も最高初動を更新し、続く23rdシングル「[月光花](../Page/月光花.md "wikilink")」のヒットにつながることとなった。
+  - この3週連続リリースのヒットによって22ndシングル「[Love is Here](../Page/Love_is_Here.md "wikilink")」も最高初動を更新し、続く23rdシングル「[月光花](../Page/月光花.md "wikilink")」のヒットにつながることとなった。
 
 ## 収録曲
 
@@ -20,7 +20,7 @@
         [yasu](https://ja.wikipedia.org/wiki/yasu "wikilink")曰く「別れた男女2人が大切なものを失って人形のようになってしまった」という意味で「DOLLS」になったとのこと。
 2.  **[マリアの爪痕](https://ja.wikipedia.org/wiki/マリアの爪痕 "wikilink") -Live at Hirakata West High School November 18th,2003-**
       -
-        13thシングルの[ライブ](https://ja.wikipedia.org/wiki/ライブ "wikilink")バージョン。
+        13thシングルの[ライブ](../Page/ライブ.md "wikilink")バージョン。
         限定版にのみ収録されている。
 
 ## 脚注

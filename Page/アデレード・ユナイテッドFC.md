@@ -1,13 +1,13 @@
 > この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
 
 
-**アデレード・ユナイテッド・フットボール・クラブ**（）は、[オーストラリア](https://ja.wikipedia.org/wiki/オーストラリア "wikilink")の中央南部、[南オーストラリア州](https://ja.wikipedia.org/wiki/南オーストラリア州 "wikilink")の州都[アデレード](https://ja.wikipedia.org/wiki/アデレード "wikilink")をホームタウンとする、オーストラリアプロサッカーリーグ（[Aリーグ](https://ja.wikipedia.org/wiki/Aリーグ "wikilink")）に加盟するプロサッカークラブ。
+**アデレード・ユナイテッド・フットボール・クラブ**（）は、[オーストラリア](../Page/オーストラリア.md "wikilink")の中央南部、[南オーストラリア州](../Page/南オーストラリア州.md "wikilink")の州都[アデレード](../Page/アデレード.md "wikilink")をホームタウンとする、オーストラリアプロサッカーリーグ（[Aリーグ](../Page/Aリーグ.md "wikilink")）に加盟するプロサッカークラブ。
 
 ## 概略
 
-[2003年](../Page/2003年.md "wikilink")、それまで[オーストラリアン・ナショナルサッカーリーグ](https://ja.wikipedia.org/wiki/オーストラリアン・ナショナルサッカーリーグ "wikilink")(NSL)に所属していたアデレード・シティが撤退、[1977年](../Page/1977年.md "wikilink")のNSL発足時から在籍していたチームの消滅により、アデレードからNSLチームが一時消滅することとなったため、同年9月設立され、僅か数週間で急遽選手を集め創設された。急造チームにも関わらず、チームは7連勝するなど快進撃を見せ、プレリミナリー・ファイナルに進出。[パース・グローリーFC](https://ja.wikipedia.org/wiki/パース・グローリーFC "wikilink")に敗れたものの、初年度として十分な成績を残した。しかしそのシーズンをもってNSLは終了、翌シーズンから[Aリーグ](https://ja.wikipedia.org/wiki/Aリーグ "wikilink")が開催され、創設8チームの1つとなった。なおNSLからそのままAリーグに参加した3チームの1つである（他にパース・グローリー、ニューカッスル・ジェッツ）。
+[2003年](../Page/2003年.md "wikilink")、それまで[オーストラリアン・ナショナルサッカーリーグ](../Page/オーストラリアン・ナショナルサッカーリーグ.md "wikilink")(NSL)に所属していたアデレード・シティが撤退、[1977年](../Page/1977年.md "wikilink")のNSL発足時から在籍していたチームの消滅により、アデレードからNSLチームが一時消滅することとなったため、同年9月設立され、僅か数週間で急遽選手を集め創設された。急造チームにも関わらず、チームは7連勝するなど快進撃を見せ、プレリミナリー・ファイナルに進出。[パース・グローリーFC](../Page/パース・グローリーFC.md "wikilink")に敗れたものの、初年度として十分な成績を残した。しかしそのシーズンをもってNSLは終了、翌シーズンから[Aリーグ](../Page/Aリーグ.md "wikilink")が開催され、創設8チームの1つとなった。なおNSLからそのままAリーグに参加した3チームの1つである（他にパース・グローリー、ニューカッスル・ジェッツ）。
 
-[Aリーグ](https://ja.wikipedia.org/wiki/Aリーグ "wikilink")のクラブチームとして唯一2度（2007、2008）の[AFCチャンピオンズリーグ](../Page/AFCチャンピオンズリーグ.md "wikilink")出場経験を持つ。[AFCチャンピオンズリーグ2008](https://ja.wikipedia.org/wiki/AFCチャンピオンズリーグ2008 "wikilink")ではオーストラリア勢として初の決勝トーナメント進出を決め、決勝トーナメントでも[鹿島アントラーズ](../Page/鹿島アントラーズ.md "wikilink")、[FCブニョドコル](https://ja.wikipedia.org/wiki/FCブニョドコル "wikilink")を破り決勝に進出するも、その決勝では[ガンバ大阪](../Page/ガンバ大阪.md "wikilink")に破れ準優勝となった。しかし、ガンバ大阪が優勝した事により「開催国以外のアジア最上位チーム枠」での[FIFAクラブワールドカップ2008](https://ja.wikipedia.org/wiki/FIFAクラブワールドカップ2008 "wikilink")出場を決め、本大会ではまたもガンバ大阪に敗れるも、5位決定戦でアフリカ王者の[アル・アハリ](https://ja.wikipedia.org/wiki/アル・アハリ "wikilink")を下し世界5位に輝いた。
+[Aリーグ](../Page/Aリーグ.md "wikilink")のクラブチームとして唯一2度（2007、2008）の[AFCチャンピオンズリーグ](../Page/AFCチャンピオンズリーグ.md "wikilink")出場経験を持つ。[AFCチャンピオンズリーグ2008](../Page/AFCチャンピオンズリーグ2008.md "wikilink")ではオーストラリア勢として初の決勝トーナメント進出を決め、決勝トーナメントでも[鹿島アントラーズ](../Page/鹿島アントラーズ.md "wikilink")、[FCブニョドコル](../Page/FCブニョドコル.md "wikilink")を破り決勝に進出するも、その決勝では[ガンバ大阪](../Page/ガンバ大阪.md "wikilink")に破れ準優勝となった。しかし、ガンバ大阪が優勝した事により「開催国以外のアジア最上位チーム枠」での[FIFAクラブワールドカップ2008](https://ja.wikipedia.org/wiki/FIFAクラブワールドカップ2008 "wikilink")出場を決め、本大会ではまたもガンバ大阪に敗れるも、5位決定戦でアフリカ王者の[アル・アハリ](../Page/アル・アハリ.md "wikilink")を下し世界5位に輝いた。
 
 [2009年](../Page/2009年.md "wikilink")2月、世界的な不況の煽りを受け、建設機器を扱う旧経営陣が経営から撤退。一時的に経営権がオーストラリアサッカー協会に譲度された。
 
@@ -15,7 +15,7 @@
 
 ### 国内タイトル
 
-  - **[リーグ](https://ja.wikipedia.org/wiki/Aリーグ "wikilink")：1回**
+  - **[リーグ](../Page/Aリーグ.md "wikilink")：1回**
       - 2015–2016
   - **Aリーグレギュラーシーズン：2回**
       - 2005-2006, 2015–2016
@@ -63,7 +63,7 @@
 
 ## 歴代監督
 
-  - [アウレリオ・ヴィドマー](https://ja.wikipedia.org/wiki/アウレリオ・ヴィドマー "wikilink") 2007-2010
+  - [アウレリオ・ヴィドマー](../Page/アウレリオ・ヴィドマー.md "wikilink") 2007-2010
 
   - [リニ・クーレン](https://ja.wikipedia.org/wiki/リニ・クーレン "wikilink") 2010-2011
 
@@ -71,7 +71,7 @@
 
   - [ジョセフ・ゴンボウ](https://ja.wikipedia.org/wiki/ジョセフ・ゴンボウ "wikilink") 2013-2015
 
-  - [ギジェルモ・アモール](https://ja.wikipedia.org/wiki/ギジェルモ・アモール "wikilink") 2015-2017
+  - [ギジェルモ・アモール](../Page/ギジェルモ・アモール.md "wikilink") 2015-2017
 
   - [マルコ・クルツ](https://ja.wikipedia.org/wiki/マルコ・クルツ "wikilink") 2017-2019
 
@@ -95,7 +95,7 @@
 
   - [サーシャ・オグネノヴスキ](https://ja.wikipedia.org/wiki/サーシャ・オグネノヴスキ "wikilink") 2008-2009
 
-  - [マーク・ルダン](https://ja.wikipedia.org/wiki/マーク・ルダン "wikilink") 2009-2010
+  - [マーク・ルダン](../Page/マーク・ルダン.md "wikilink") 2009-2010
 
   - [エルサン・ギュリュム](https://ja.wikipedia.org/wiki/エルサン・ギュリュム "wikilink") 2017-
 
@@ -119,9 +119,9 @@
 
   - [シェーン・スメルツ](https://ja.wikipedia.org/wiki/シェーン・スメルツ "wikilink") 2003-2004
 
-  - [アウレリオ・ヴィドマー](https://ja.wikipedia.org/wiki/アウレリオ・ヴィドマー "wikilink") 2003-2004
+  - [アウレリオ・ヴィドマー](../Page/アウレリオ・ヴィドマー.md "wikilink") 2003-2004
 
-  - [フェルナンド・ルイス・レッキ](https://ja.wikipedia.org/wiki/フェルナンド・ルイス・レッキ "wikilink") 2005-2007
+  - [フェルナンド・ルイス・レッキ](../Page/フェルナンド・ルイス・レッキ.md "wikilink") 2005-2007
 
   - [トラヴィス・ドッド](https://ja.wikipedia.org/wiki/トラヴィス・ドッド "wikilink") 2005-2011
 

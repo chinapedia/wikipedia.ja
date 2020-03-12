@@ -1,7 +1,7 @@
 > この記事は[RADIO SONIC](https://ja.wikipedia.org/wiki/RADIO_SONIC)から翻訳されています。
 
 
-**RADIO SONIC**（レイディオ・ソニック）は[CROSS FMで放送されたラジオ番組](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")。放送期間は[1999年](../Page/1999年.md "wikilink")[4月9日](../Page/4月9日.md "wikilink")-[2000年](../Page/2000年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")、放送時間は毎週[金曜日](../Page/金曜日.md "wikilink")13:00〜21:00、北九州第1スタジオから生放送された。[ナビゲーターは](https://ja.wikipedia.org/wiki/ディスクジョッキー "wikilink")[中島ヒロト](https://ja.wikipedia.org/wiki/中島ヒロト "wikilink")と[鈴木麻由が務めた](https://ja.wikipedia.org/wiki/鈴木麻由_\(ディスクジョッキー\) "wikilink")。
+**RADIO SONIC**（レイディオ・ソニック）は[CROSS FMで放送されたラジオ番組](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")。放送期間は[1999年](../Page/1999年.md "wikilink")[4月9日](../Page/4月9日.md "wikilink")-[2000年](../Page/2000年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")、放送時間は毎週[金曜日](../Page/金曜日.md "wikilink")13:00〜21:00、北九州第1スタジオから生放送された。[ナビゲーターは](../Page/ディスクジョッキー.md "wikilink")[中島ヒロト](../Page/中島ヒロト.md "wikilink")と[鈴木麻由が務めた](https://ja.wikipedia.org/wiki/鈴木麻由_\(ディスクジョッキー\) "wikilink")。
 
 ## 概要
 
@@ -11,7 +11,7 @@
 
 ## ナビゲーター
 
-  - [中島ヒロト](https://ja.wikipedia.org/wiki/中島ヒロト "wikilink")
+  - [中島ヒロト](../Page/中島ヒロト.md "wikilink")
 
 <!-- end list -->
 
@@ -36,7 +36,7 @@
   -
     スポンサーは[タイ国政府観光庁とホテル](../Page/タイ王国.md "wikilink")・リッツファイブ（[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")）。提供クレジットは中島ヒロトが読み上げたものがジングル化された。
     タイ国の観光スポットや、観光に関する情報を紹介するコーナーだが、この番組ではタイ国周辺でヒットしている曲を紹介した後、タイ国政府観光庁からのお知らせを紹介して、中島ヒロトが「WELCOME TO THAILAND\!」と言ってコーナーを締めていた。
-    このコーナーは月曜日-金曜日を通じて放送され、月曜日-木曜日は「[HAKATA PARADISE](https://ja.wikipedia.org/wiki/HAKATA_PARADISE "wikilink")」内で放送された。
+    このコーナーは月曜日-金曜日を通じて放送され、月曜日-木曜日は「[HAKATA PARADISE](../Page/HAKATA_PARADISE.md "wikilink")」内で放送された。
     2000年4月からは後番組「[CROSS GO\!GO\! FRID@Y](../Page/CROSS_GO!GO!_FRID@Y.md "wikilink")」に引き継がれた。
 
 <!-- end list -->
@@ -58,7 +58,7 @@
   -
     スポンサーである[JR九州から届く旅の情報](../Page/九州旅客鉄道.md "wikilink")、列車の情報を紹介した。
     提供クレジットは中島ヒロトが読み上げたものがジングル化された。
-    このコーナーは月曜日-金曜日を通じて放送され、月曜日-木曜日は「[HAKATA PARADISE](https://ja.wikipedia.org/wiki/HAKATA_PARADISE "wikilink")」内で放送された。
+    このコーナーは月曜日-金曜日を通じて放送され、月曜日-木曜日は「[HAKATA PARADISE](../Page/HAKATA_PARADISE.md "wikilink")」内で放送された。
     2000年4月からは後番組「[CROSS GO\!GO\! FRID@Y](../Page/CROSS_GO!GO!_FRID@Y.md "wikilink")」に引き継がれた。
 
 <!-- end list -->
@@ -70,7 +70,7 @@
   -
     スポンサーである[西日本新聞](../Page/西日本新聞.md "wikilink")に掲載された記事、トピックスを紹介した。また番組後半期では、ナビゲーター2人が扮するラジオドラマも放送された。
     提供クレジットは中島ヒロトが読み上げたものがジングル化された。
-    このコーナーは月曜日-金曜日を通じて放送され、月曜日-木曜日は「[HAKATA PARADISE](https://ja.wikipedia.org/wiki/HAKATA_PARADISE "wikilink")」内で「**PARADISE CAFE**」というコーナータイトルで放送された。
+    このコーナーは月曜日-金曜日を通じて放送され、月曜日-木曜日は「[HAKATA PARADISE](../Page/HAKATA_PARADISE.md "wikilink")」内で「**PARADISE CAFE**」というコーナータイトルで放送された。
     2000年4月からは後番組「[CROSS GO\!GO\! FRID@Y](../Page/CROSS_GO!GO!_FRID@Y.md "wikilink")」に引き継がれ、タイトルも「FRIDAY CAFE」に改められた。
 
 <!-- end list -->
@@ -80,7 +80,7 @@
 <!-- end list -->
 
   -
-    スポンサーである[ワーナー・マイカル・シネマズ](https://ja.wikipedia.org/wiki/ワーナー・マイカル・シネマズ "wikilink")の大野城・上峰・戸畑3館で上映される映画の情報を紹介した。
+    スポンサーである[ワーナー・マイカル・シネマズ](../Page/ワーナー・マイカル・シネマズ.md "wikilink")の大野城・上峰・戸畑3館で上映される映画の情報を紹介した。
     提供クレジットは鈴木麻由が英語で読み上げたものがジングル化された。
     2000年4月からは後番組「[CROSS GO\!GO\! FRID@Y](../Page/CROSS_GO!GO!_FRID@Y.md "wikilink")」に引き継がれた。
 
@@ -125,7 +125,7 @@
 
 <!-- end list -->
 
-  - [明日への伝言板](https://ja.wikipedia.org/wiki/明日への伝言板 "wikilink") (1999年10月-2000年3月 20:45-20:50)
+  - [明日への伝言板](../Page/明日への伝言板.md "wikilink") (1999年10月-2000年3月 20:45-20:50)
 
 <!-- end list -->
 
@@ -135,10 +135,10 @@
 ## エピソードなど
 
   - この番組のタイトルでも「SONIC」という言葉が使われたのは、中島ヒロトが「SONIC」という言葉が好きだったからという理由らしい。
-  - 「SNAP SHOT」「MUSIC EXPRESS」「CAFE SONIC」の提供クレジットのジングルでは、「[HAKATA PARADISE](https://ja.wikipedia.org/wiki/HAKATA_PARADISE "wikilink")」でのジングルと同じBGMが使用されていた。
-  - 中島ヒロトは折り返し地点になる17時頃にはよく「銀チョコ」（背を割ったコッペパンにクリームをはさみ、チョコレートをかけたパン、[フジパン](https://ja.wikipedia.org/wiki/フジパン "wikilink")製）を食べてひと休みしていたらしい。
-  - この番組と、後の番組「[GROOVE TRAIN 9to0](https://ja.wikipedia.org/wiki/GROOVE_TRAIN_9to0 "wikilink")」が共同企画したクラブイヴェント「**SONIC GROOVE**」が、福岡市と北九州市でそれぞれ1回ずつ開催された。中島ヒロトと「GROOVE TRAIN 9to0」ナビゲーターの[MASAKI](https://ja.wikipedia.org/wiki/MASAKI "wikilink")、「[ELE-TOPIA](../Page/ELE-TOPIA.md "wikilink")」ナビゲーターの[木本和久](../Page/木本和久.md "wikilink")3人がターンテーブルを回し、鈴木麻由も出演した。
-  - 同時期の「[BRAVO CALLIN'](../Page/BRAVO_CALLIN'.md "wikilink")」を担当していた[永松ケンシ](https://ja.wikipedia.org/wiki/永松ケンシ "wikilink")とは仲が良い反面、たびたび殴り合いにまで発展する[喧嘩](https://ja.wikipedia.org/wiki/喧嘩 "wikilink")をすることもあったという。しかし、後に中島ヒロトは、自身が[TNCテレビ西日本で担当していた](../Page/テレビ西日本.md "wikilink")「[マニアマニエラ](https://ja.wikipedia.org/wiki/マニアマニエラ "wikilink")」を降板する際、永松ケンシを後任として強く推薦したことを番組内で語っている。
+  - 「SNAP SHOT」「MUSIC EXPRESS」「CAFE SONIC」の提供クレジットのジングルでは、「[HAKATA PARADISE](../Page/HAKATA_PARADISE.md "wikilink")」でのジングルと同じBGMが使用されていた。
+  - 中島ヒロトは折り返し地点になる17時頃にはよく「銀チョコ」（背を割ったコッペパンにクリームをはさみ、チョコレートをかけたパン、[フジパン](../Page/フジパン.md "wikilink")製）を食べてひと休みしていたらしい。
+  - この番組と、後の番組「[GROOVE TRAIN 9to0](../Page/GROOVE_TRAIN_9to0.md "wikilink")」が共同企画したクラブイヴェント「**SONIC GROOVE**」が、福岡市と北九州市でそれぞれ1回ずつ開催された。中島ヒロトと「GROOVE TRAIN 9to0」ナビゲーターの[MASAKI](https://ja.wikipedia.org/wiki/MASAKI "wikilink")、「[ELE-TOPIA](../Page/ELE-TOPIA.md "wikilink")」ナビゲーターの[木本和久](../Page/木本和久.md "wikilink")3人がターンテーブルを回し、鈴木麻由も出演した。
+  - 同時期の「[BRAVO CALLIN'](../Page/BRAVO_CALLIN'.md "wikilink")」を担当していた[永松ケンシ](../Page/永松ケンシ.md "wikilink")とは仲が良い反面、たびたび殴り合いにまで発展する[喧嘩](../Page/喧嘩.md "wikilink")をすることもあったという。しかし、後に中島ヒロトは、自身が[TNCテレビ西日本で担当していた](../Page/テレビ西日本.md "wikilink")「[マニアマニエラ](https://ja.wikipedia.org/wiki/マニアマニエラ "wikilink")」を降板する際、永松ケンシを後任として強く推薦したことを番組内で語っている。
   - 中島ヒロトが同局卒業となった最終回当日、深夜番組「[MIDNIGHT WALK](../Page/MIDNIGHT_WALK.md "wikilink")」に生出演しリスナーと電話などで交流した。番組後半では鈴木麻由もゲスト出演した。
   - この番組終了後、13:00-17:00は「[CROSS GO\!GO\! FRID@Y](../Page/CROSS_GO!GO!_FRID@Y.md "wikilink")」に引き継がれた。また17:00-21:00は再び「BRAVO CALLIN'」になり、引き続き鈴木麻由が担当することになった。
 

@@ -12,8 +12,8 @@
 ## 収録曲
 
 1.  **Miracle Night Diving** (4:56)
-    （作詞：[YUKI](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")　作曲：[TAKUYA](https://ja.wikipedia.org/wiki/TAKUYA "wikilink")）
-2.  **[Over Drive](https://ja.wikipedia.org/wiki/Over_Drive_\(JUDY_AND_MARYの曲\) "wikilink")** (4:18)
+    （作詞：[YUKI](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")　作曲：[TAKUYA](../Page/TAKUYA.md "wikilink")）
+2.  **[Over Drive](../Page/Over_Drive_\(JUDY_AND_MARYの曲\).md "wikilink")** (4:18)
     （作詞：YUKI　作曲：TAKUYA）
       -
         7thシングル曲。
@@ -22,9 +22,9 @@
       -
         TAKUYAの出身地である京都を幻想的に描いている。歌詞に鴨川が登場する。
 4.  **Little Miss Highway**　(4:58)
-    （作詞：YUKI　作曲：[五十嵐公太](https://ja.wikipedia.org/wiki/五十嵐公太 "wikilink")）
+    （作詞：YUKI　作曲：[五十嵐公太](../Page/五十嵐公太.md "wikilink")）
 5.  **あなたは生きている** (3:47)
-    （作詞：YUKI　作曲：[恩田快人](https://ja.wikipedia.org/wiki/恩田快人 "wikilink")）
+    （作詞：YUKI　作曲：[恩田快人](../Page/恩田快人.md "wikilink")）
 6.  **[ドキドキ](../Page/ドキドキ.md "wikilink")** (4:14)
     （作詞：YUKI　作曲：恩田快人）
       -
@@ -32,7 +32,7 @@
 7.  **[ステレオ全開](../Page/そばかす_\(曲\).md "wikilink")** (3:56)
     （作詞：Tack and yukky　作曲：TAKUYA）
       -
-        元[サッカー日本代表](https://ja.wikipedia.org/wiki/サッカー日本代表 "wikilink")の[柳本啓成](https://ja.wikipedia.org/wiki/柳本啓成 "wikilink")が、冒頭の「オフサイド〜」の掛け声で参加。
+        元[サッカー日本代表](../Page/サッカー日本代表.md "wikilink")の[柳本啓成](../Page/柳本啓成.md "wikilink")が、冒頭の「オフサイド〜」の掛け声で参加。
         後に9thシングル「そばかす」のカップリング曲としてシングルカットされた。シングルでは上記の掛け声はカットされている。
 8.  **Oh\! Can Not Angel** (4:30)
     （作詞：YUKI　作曲：五十嵐公太）
@@ -41,14 +41,14 @@
 9.  **プラチナ** (3:27)
     （作詞：YUKI　作曲：恩田快人）
       -
-        [甲本ヒロト](https://ja.wikipedia.org/wiki/甲本ヒロト "wikilink")と[真島昌利](https://ja.wikipedia.org/wiki/真島昌利 "wikilink")がコーラス参加。恩田とYUKIが大ファンであったことからオファーした。
+        [甲本ヒロト](../Page/甲本ヒロト.md "wikilink")と[真島昌利](../Page/真島昌利.md "wikilink")がコーラス参加。恩田とYUKIが大ファンであったことからオファーした。
 10. **アネモネの恋** (4:13)
     （作詞：YUKI　作曲：恩田快人）
-11. **[帰れない2人](https://ja.wikipedia.org/wiki/手紙をかくよ "wikilink")** (3:55)
+11. **[帰れない2人](../Page/手紙をかくよ.md "wikilink")** (3:55)
     （作詞：YUKI　作曲：恩田快人）
 
 ## 関連項目
 
-  - 『[JUDY AND MARY 15th Anniversary Tribute Album](https://ja.wikipedia.org/wiki/JUDY_AND_MARY_15th_Anniversary_Tribute_Album "wikilink")』（「Over Drive」を[mihimaru GTが](https://ja.wikipedia.org/wiki/mihimaru_GT "wikilink")、「KYOTO」を[シギが](https://ja.wikipedia.org/wiki/シギ_\(歌手\) "wikilink")、「ドキドキ」を[真心ブラザーズ](https://ja.wikipedia.org/wiki/真心ブラザーズ "wikilink")が、それぞれカバーしているアルバム）
+  - 『[JUDY AND MARY 15th Anniversary Tribute Album](https://ja.wikipedia.org/wiki/JUDY_AND_MARY_15th_Anniversary_Tribute_Album "wikilink")』（「Over Drive」を[mihimaru GTが](https://ja.wikipedia.org/wiki/mihimaru_GT "wikilink")、「KYOTO」を[シギが](../Page/シギ_\(歌手\).md "wikilink")、「ドキドキ」を[真心ブラザーズ](../Page/真心ブラザーズ.md "wikilink")が、それぞれカバーしているアルバム）
 
 [Category:JUDY_AND_MARYのアルバム](https://ja.wikipedia.org/wiki/Category:JUDY_AND_MARYのアルバム "wikilink") [Category:EPICソニーのアルバム](https://ja.wikipedia.org/wiki/Category:EPICソニーのアルバム "wikilink") [Category:1995年のアルバム](https://ja.wikipedia.org/wiki/Category:1995年のアルバム "wikilink") [Category:佐久間正英がプロデュースしたアルバム](https://ja.wikipedia.org/wiki/Category:佐久間正英がプロデュースしたアルバム "wikilink")

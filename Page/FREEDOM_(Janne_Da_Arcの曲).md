@@ -8,7 +8,7 @@
   - 2ヶ月連続リリース第1弾シングル。
   - メジャーデビュー後初めてのセルフプロデュース作品。
   - 前作よりはオリコンチャートで順位を上げることができたが、初動売り上げは「[feel the wind](https://ja.wikipedia.org/wiki/feel_the_wind "wikilink")」よりも落ちてしまった。
-  - これまでの活動の集大成とも言える『[SINGLES](https://ja.wikipedia.org/wiki/SINGLES_\(Janne_Da_Arcのアルバム\) "wikilink")』発売以来のシングルとなった。
+  - これまでの活動の集大成とも言える『[SINGLES](../Page/SINGLES_\(Janne_Da_Arcのアルバム\).md "wikilink")』発売以来のシングルとなった。
 
 ## 収録曲
 
@@ -23,7 +23,7 @@
       - 作詞・作曲:[kiyo](https://ja.wikipedia.org/wiki/kiyo "wikilink")
 3.  **桜 (acoustic ver.)**
       -
-        通常版のみに収録された、[シークレット・トラック](https://ja.wikipedia.org/wiki/隠しトラック "wikilink")。1stアルバム『[D・N・A](../Page/D・N・A.md "wikilink")』収録曲のアレンジ版。
+        通常版のみに収録された、[シークレット・トラック](../Page/隠しトラック.md "wikilink")。1stアルバム『[D・N・A](../Page/D・N・A.md "wikilink")』収録曲のアレンジ版。
 
 ## 収録アルバム
 

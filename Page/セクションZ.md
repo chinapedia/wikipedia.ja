@@ -1,9 +1,9 @@
 > この記事は[Z](https://ja.wikipedia.org/wiki/Z)から翻訳されています。
 
 
-『**セクションZ**』は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")に[カプコン](https://ja.wikipedia.org/wiki/カプコン "wikilink")が稼働した[アーケード用の横スクロール](../Page/アーケードゲーム.md "wikilink")[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")。
+『**セクションZ**』は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")に[カプコン](../Page/カプコン.md "wikilink")が稼働した[アーケード用の横スクロール](../Page/アーケードゲーム.md "wikilink")[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")。
 
-[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[5月25日](../Page/5月25日.md "wikilink")には一部ゲームシステムを変更し、[ファミリーコンピュータ ディスクシステムにて発売された](https://ja.wikipedia.org/wiki/ファミリーコンピュータ_ディスクシステム "wikilink")。
+[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[5月25日](../Page/5月25日.md "wikilink")には一部ゲームシステムを変更し、[ファミリーコンピュータ ディスクシステムにて発売された](../Page/ファミリーコンピュータ_ディスクシステム.md "wikilink")。
 
 ## ゲーム内容
 
@@ -11,7 +11,7 @@
 
 [アルファベット](https://ja.wikipedia.org/wiki/アルファベット "wikilink")のAからZまでのセクションを進んでいき、セクションZのボスである人工生命体エルブレインを破壊するのが目的。
 
-セクションE、J、O、Tには[ボスが登場する](https://ja.wikipedia.org/wiki/ボスキャラクター "wikilink")。ボスを倒すと次のセクションに進める。ループゲームで、セクションZのボスを倒すと再びセクションAから始まる。
+セクションE、J、O、Tには[ボスが登場する](../Page/ボスキャラクター.md "wikilink")。ボスを倒すと次のセクションに進める。ループゲームで、セクションZのボスを倒すと再びセクションAから始まる。
 
 残機制で、敵に当たる、敵の攻撃に受ける、電撃レーザーに触れる、ピンボールの玉にぶつかるのいずれかでミスとなり、残機が1つ減る。残機がなくなるとゲームオーバー。
 
@@ -47,7 +47,7 @@
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カプコン_クラシックス_コレクション" title="wikilink">Capcom Classics Collection</a></p></td>
+<td><p><a href="../Page/カプコン_クラシックス_コレクション.md" title="wikilink">Capcom Classics Collection</a></p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_2" title="wikilink">PlayStation 2</a><br />
 <a href="../Page/Xbox_(ゲーム機).md" title="wikilink">Xbox</a></p></td>
@@ -63,10 +63,10 @@
 <td><p>3</p></td>
 <td><p>Capcom Classics Collection Remixed</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_Portable" title="wikilink">PlayStation Portable</a></p></td>
+<td><p><a href="../Page/PlayStation_Portable.md" title="wikilink">PlayStation Portable</a></p></td>
 <td><p>カプコン</p></td>
 <td><p>カプコン</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ユニバーサル・メディア・ディスク" title="wikilink">UMD</a></p></td>
+<td><p><a href="../Page/ユニバーサル・メディア・ディスク.md" title="wikilink">UMD</a></p></td>
 <td></td>
 <td><p>-</p></td>
 <td><p>アーケード版の移植</p></td>
@@ -88,7 +88,7 @@
 <td><p>Capcom Arcade Cabinet</p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_3" title="wikilink">PlayStation 3</a><br />
-<a href="https://ja.wikipedia.org/wiki/PlayStation_Portable" title="wikilink">PlayStation Portable</a><br />
+<a href="../Page/PlayStation_Portable.md" title="wikilink">PlayStation Portable</a><br />
 (<a href="https://ja.wikipedia.org/wiki/PlayStation_Network" title="wikilink">PlayStation Network</a>)</p></td>
 <td><p>カプコン</p></td>
 <td><p>カプコン</p></td>
@@ -101,8 +101,8 @@
 <td><p>6</p></td>
 <td><p>Capcom Arcade Cabinet</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Xbox_360" title="wikilink">Xbox 360</a><br />
-(<a href="https://ja.wikipedia.org/wiki/Xbox_Live" title="wikilink">Xbox Live Arcade</a>)</p></td>
+<td><p><a href="../Page/Xbox_360.md" title="wikilink">Xbox 360</a><br />
+(<a href="../Page/Xbox_Live.md" title="wikilink">Xbox Live Arcade</a>)</p></td>
 <td><p>カプコン</p></td>
 <td><p>カプコン</p></td>
 <td><p>ダウンロード</p></td>
@@ -175,7 +175,7 @@ Xbox Live Arcade</p></td>
 
   - ゲーム・デザイン：西山隆志
   - プログラマー：有馬敏夫
-  - 音楽：[河本圭代](https://ja.wikipedia.org/wiki/河本圭代 "wikilink")
+  - 音楽：[河本圭代](../Page/河本圭代.md "wikilink")
 
 <!-- end list -->
 
@@ -198,7 +198,7 @@ Xbox Live Arcade</p></td>
 
 <!-- end list -->
 
-  - ゲーム誌『[ファミリーコンピュータMagazine](https://ja.wikipedia.org/wiki/ファミリーコンピュータMagazine "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、14.68点（満25点）となっている\[2\]。
+  - ゲーム誌『[ファミリーコンピュータMagazine](../Page/ファミリーコンピュータMagazine.md "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、14.68点（満25点）となっている\[2\]。
 
 | 項目 | キャラクタ | 音楽   | 操作性  | 熱中度  | お買得度 | オリジナリティ | 総合    |
 | -- | ----- | ---- | ---- | ---- | ---- | ------- | ----- |
@@ -208,7 +208,7 @@ Xbox Live Arcade</p></td>
 
 ## 関連作品
 
-  - [サイドアーム](https://ja.wikipedia.org/wiki/サイドアーム_\(シューティングゲーム\) "wikilink")
+  - [サイドアーム](../Page/サイドアーム_\(シューティングゲーム\).md "wikilink")
 
 ## 脚注
 

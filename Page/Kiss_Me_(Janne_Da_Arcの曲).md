@@ -7,7 +7,7 @@
 
   - 2ヶ月連続リリースシングル第2弾シングル。
   - 前作「FREEDOM」の2週間後に発売された。
-  - 3曲目の無音トラックを挟んで、前作に続き[シークレットトラック](https://ja.wikipedia.org/wiki/隠しトラック "wikilink")（「[explosion](../Page/ANOTHER_STORY_\(Janne_Da_Arcのアルバム\).md "wikilink")」、「[霞ゆく空背にして](https://ja.wikipedia.org/wiki/霞ゆく空背にして "wikilink")」のライブバージョン）が、収録されている。なお、このライブ音源は『[男尻Night](https://ja.wikipedia.org/wiki/男尻Night "wikilink")』からのテイクである。
+  - 3曲目の無音トラックを挟んで、前作に続き[シークレットトラック](../Page/隠しトラック.md "wikilink")（「[explosion](../Page/ANOTHER_STORY_\(Janne_Da_Arcのアルバム\).md "wikilink")」、「[霞ゆく空背にして](https://ja.wikipedia.org/wiki/霞ゆく空背にして "wikilink")」のライブバージョン）が、収録されている。なお、このライブ音源は『[男尻Night](https://ja.wikipedia.org/wiki/男尻Night "wikilink")』からのテイクである。
 
 ## 収録曲
 
@@ -15,13 +15,13 @@
       - 作詞・作曲:[yasu](https://ja.wikipedia.org/wiki/yasu "wikilink")
     <!-- end list -->
       -
-        化粧品の[タイアップ](https://ja.wikipedia.org/wiki/タイアップ "wikilink")の予定があったが、白紙になった。
+        化粧品の[タイアップ](../Page/タイアップ.md "wikilink")の予定があったが、白紙になった。
         代わりに『[スポーツうるぐす](../Page/スポーツうるぐす.md "wikilink")』の4〜5月度のエンディングテーマに起用されている。
 2.  **Hysteric Moon**
       - 作詞:yasu 作曲:[ka-yu](https://ja.wikipedia.org/wiki/ka-yu "wikilink")
     <!-- end list -->
       -
-        [yasu](https://ja.wikipedia.org/wiki/yasu "wikilink")が[ストーカー](https://ja.wikipedia.org/wiki/ストーカー "wikilink")にあったという実話を基に作った歌。
+        [yasu](https://ja.wikipedia.org/wiki/yasu "wikilink")が[ストーカー](../Page/ストーカー.md "wikilink")にあったという実話を基に作った歌。
 
 ## 収録アルバム
 

@@ -7,13 +7,13 @@
 
   - 前作より約1年ぶりの発表。
   - 「[J・A・M](https://ja.wikipedia.org/wiki/J・A・M "wikilink")」ではパンク色が強かったのに対し、今作ではポップな曲が並んだ。以降のバンド独自のサウンドへ転換するきっかけとなったアルバムである。
-  - [オリコン初のTOP](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")10入り、最高5位を記録。バンドは本作でブレイクを果たした。
-  - 今作で初めて[TAKUYA](https://ja.wikipedia.org/wiki/TAKUYA "wikilink")による楽曲がアルバムに収録された。
+  - [オリコン初のTOP](../Page/オリコンチャート.md "wikilink")10入り、最高5位を記録。バンドは本作でブレイクを果たした。
+  - 今作で初めて[TAKUYA](../Page/TAKUYA.md "wikilink")による楽曲がアルバムに収録された。
 
 ## 収録曲
 
 1.  **POPSTAR** (3:40)
-    （作詞：[YUKI](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")　作曲：[恩田快人](https://ja.wikipedia.org/wiki/恩田快人 "wikilink")）
+    （作詞：[YUKI](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")　作曲：[恩田快人](../Page/恩田快人.md "wikilink")）
 2.  **どうしよう** (3:12)
     （作詞：YUKI　作曲：恩田快人）
 3.  **[Hello\! Orange Sunshine](https://ja.wikipedia.org/wiki/Hello!_Orange_Sunshine/RADIO "wikilink")** (4:36)
@@ -21,7 +21,7 @@
       -
         4thシングル曲。
 4.  **[RADIO](https://ja.wikipedia.org/wiki/Hello!_Orange_Sunshine/RADIO "wikilink")** (4:23)
-    （作詞：Tack and yukky　作曲：[TAKUYA](https://ja.wikipedia.org/wiki/TAKUYA "wikilink")）
+    （作詞：Tack and yukky　作曲：[TAKUYA](../Page/TAKUYA.md "wikilink")）
       -
         4thシングル曲。
 5.  **[Cheese "PIZZA"](https://ja.wikipedia.org/wiki/Cheese_"PIZZA"/クリスマス "wikilink")** (4:51)
@@ -51,6 +51,6 @@
 
 ## 関連項目
 
-  - 『[JUDY AND MARY 15th Anniversary Tribute Album](https://ja.wikipedia.org/wiki/JUDY_AND_MARY_15th_Anniversary_Tribute_Album "wikilink")』（「RADIO」を半沢武志 ([FreeTEMPO](https://ja.wikipedia.org/wiki/FreeTEMPO "wikilink"))が、「小さな頃から」を[スネオヘアー](../Page/スネオヘアー.md "wikilink")が、それぞれカバーしているアルバム）
+  - 『[JUDY AND MARY 15th Anniversary Tribute Album](https://ja.wikipedia.org/wiki/JUDY_AND_MARY_15th_Anniversary_Tribute_Album "wikilink")』（「RADIO」を半沢武志 ([FreeTEMPO](../Page/FreeTEMPO.md "wikilink"))が、「小さな頃から」を[スネオヘアー](../Page/スネオヘアー.md "wikilink")が、それぞれカバーしているアルバム）
 
 [Category:JUDY_AND_MARYのアルバム](https://ja.wikipedia.org/wiki/Category:JUDY_AND_MARYのアルバム "wikilink") [Category:EPICソニーのアルバム](https://ja.wikipedia.org/wiki/Category:EPICソニーのアルバム "wikilink") [Category:1994年のアルバム](https://ja.wikipedia.org/wiki/Category:1994年のアルバム "wikilink") [Category:佐久間正英がプロデュースしたアルバム](https://ja.wikipedia.org/wiki/Category:佐久間正英がプロデュースしたアルバム "wikilink")

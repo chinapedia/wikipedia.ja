@@ -1,7 +1,7 @@
 > この記事は[ vs.](https://ja.wikipedia.org/wiki/_vs.)から翻訳されています。
 
 
-**機動戦士ガンダム vs.シリーズ**とは、[カプコン](https://ja.wikipedia.org/wiki/カプコン "wikilink")が開発（エクストリームバーサス以降は[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")が担当）、[バンプレスト](https://ja.wikipedia.org/wiki/バンプレスト "wikilink")（現在はバンダイナムコゲームスの1ブランド、エクストリームバーサス以降はバンダイナムコゲームスレーベルで担当）が発売している以下のアーケード、およびコンシューマーゲームの総称である。
+**機動戦士ガンダム vs.シリーズ**とは、[カプコン](../Page/カプコン.md "wikilink")が開発（エクストリームバーサス以降は[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")が担当）、[バンプレスト](../Page/バンプレスト.md "wikilink")（現在はバンダイナムコゲームスの1ブランド、エクストリームバーサス以降はバンダイナムコゲームスレーベルで担当）が発売している以下のアーケード、およびコンシューマーゲームの総称である。
 
 ## シリーズ一覧
 
@@ -9,59 +9,59 @@
 
 #### 宇宙世紀シリーズ
 
-  - [機動戦士ガンダム 連邦vs.ジオン](../Page/機動戦士ガンダム_連邦vs.ジオン.md "wikilink") （[NAOMI](https://ja.wikipedia.org/wiki/NAOMI "wikilink")、[2001年](../Page/2001年.md "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")稼動開始）
+  - [機動戦士ガンダム 連邦vs.ジオン](../Page/機動戦士ガンダム_連邦vs.ジオン.md "wikilink") （[NAOMI](../Page/NAOMI.md "wikilink")、[2001年](../Page/2001年.md "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")稼動開始）
     シリーズ第1作。通称「連ジ」。8方向レバー+4ボタンの操作系統、「コストを0にした陣営が勝ち」などのゲームシステムは本作の時点で確立されている。
   - [機動戦士ガンダム 連邦vs.ジオンDX](../Page/機動戦士ガンダム_連邦vs.ジオン.md "wikilink") （NAOMI、2001年9月14日稼動開始）
     通称「連ジDX」。宙域ステージの追加、連邦側に機体が3体追加（うち2体は『[機動戦士ガンダム 第08MS小隊](../Page/機動戦士ガンダム_第08MS小隊.md "wikilink")』からのゲスト出演）、隠し要素「[鹵獲](../Page/鹵獲.md "wikilink")モード」（敵陣営の機体を使用できるようになる）、[旧ザクと](../Page/ザクI.md "wikilink")[ギャン](../Page/ギャン.md "wikilink")の性能が変更される（以後の宇宙世紀シリーズの2体は本作の性能を基にしている）など、大幅な仕様追加・変更がなされた。
-  - [機動戦士Ζガンダム エゥーゴvs.ティターンズ](../Page/機動戦士Ζガンダム_エゥーゴvs.ティターンズ.md "wikilink") （[SYSTEM246](https://ja.wikipedia.org/wiki/SYSTEM246 "wikilink")、2003年9月稼動開始）
-    通称「エウティタ」「無印Ζ」。舞台を[グリプス戦役](https://ja.wikipedia.org/wiki/グリプス戦役 "wikilink")時代に移し機体も一新（ただしグリプス戦役に登場した機体がすべて登場する訳ではない）。新システムとしてゲージ系システムのはしりとなった「ハイパーコンビネーション」、変形の追加など。[キュベレイ](https://ja.wikipedia.org/wiki/キュベレイ "wikilink")と一年戦争時代の機体が**プレイ時間**によって追加されていく要素もあった。
-  - [機動戦士Ζガンダム エゥーゴvs.ティターンズDX](https://ja.wikipedia.org/wiki/機動戦士Ζガンダム_エゥーゴvs.ティターンズDX "wikilink") （SYSTEM246、2004年8月稼動開始）
+  - [機動戦士Ζガンダム エゥーゴvs.ティターンズ](../Page/機動戦士Ζガンダム_エゥーゴvs.ティターンズ.md "wikilink") （[SYSTEM246](../Page/SYSTEM246.md "wikilink")、2003年9月稼動開始）
+    通称「エウティタ」「無印Ζ」。舞台を[グリプス戦役](../Page/グリプス戦役.md "wikilink")時代に移し機体も一新（ただしグリプス戦役に登場した機体がすべて登場する訳ではない）。新システムとしてゲージ系システムのはしりとなった「ハイパーコンビネーション」、変形の追加など。[キュベレイ](../Page/キュベレイ.md "wikilink")と一年戦争時代の機体が**プレイ時間**によって追加されていく要素もあった。
+  - [機動戦士Ζガンダム エゥーゴvs.ティターンズDX](../Page/機動戦士Ζガンダム_エゥーゴvs.ティターンズDX.md "wikilink") （SYSTEM246、2004年8月稼動開始）
     通称「エウティタDX」「ΖDX」。前作のPS2版で追加された機体に加え6体の機体が追加され、グリプス戦役に登場した機体のうち、テレビアニメ『機動戦士Ζガンダム』に登場する機体がすべて収録された。「ハイパーコンビネーション」が「覚醒」に変わり、効果の異なる3種の[アドバンテージ](../Page/アドバンテージ.md "wikilink")状態を選択できるようになり、機体間のバランス調整も行われた。
     隠し要素として[一年戦争](../Page/一年戦争.md "wikilink")時代のパイロットとステージが選択（PS2版連ジDXの追加ステージはアーケードでは今作が初登場）できるようになるといった要素もあった。
 
 #### ガンダムSEEDシリーズ
 
-  - [機動戦士ガンダムSEED 連合vs.Z.A.F.T.](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_連合vs.Z.A.F.T. "wikilink") （SYSTEM246、2005年7月稼動開始）
+  - [機動戦士ガンダムSEED 連合vs.Z.A.F.T.](../Page/機動戦士ガンダムSEED_連合vs.Z.A.F.T..md "wikilink") （SYSTEM246、2005年7月稼動開始）
     通称「連ザ」。『[機動戦士ガンダムSEED](../Page/機動戦士ガンダムSEED.md "wikilink")』の「[ヤキン・ドゥーエ戦役](https://ja.wikipedia.org/wiki/コズミック・イラ#ヤキン・ドゥーエ戦役（C.E.70-72） "wikilink")」を舞台にキャラ・機体を一新。新システムとして高速移動・戦闘を可能にする「ブーストダッシュ」や[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")における溜め撃ちの「チャージショット」が追加され、覚醒の効果が選択できなくなった代わりにゲージが貯まった時点で個別に発動できるようになり、機体によっては武装が（チャージショット含めて）5つに増えた、CPU戦において特定のターゲットを破壊すればクリアとなるステージの導入など。一方でコスト表記の見直しや宙域ステージの撤廃、シールドガードがコマンド入力による任意発動になるなど、宇宙世紀シリーズからの変更点も少なからずある。
-    隠し要素として続編の『[機動戦士ガンダムSEED DESTINY](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_DESTINY "wikilink")』から[インパルスガンダム](https://ja.wikipedia.org/wiki/インパルスガンダム "wikilink")3形態と[シン・アスカ](https://ja.wikipedia.org/wiki/シン・アスカ "wikilink")がゲスト登場した。本作より公式の全国大会『Premium Dogfight』が開催されるようになった。売り上げ約5,300本\[1\]。
-  - [機動戦士ガンダムSEED DESTINY 連合vs.Z.A.F.T.II](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_DESTINY_連合vs.Z.A.F.T.II "wikilink") （SYSTEM246、2006年6月稼動開始）
+    隠し要素として続編の『[機動戦士ガンダムSEED DESTINY](../Page/機動戦士ガンダムSEED_DESTINY.md "wikilink")』から[インパルスガンダム](../Page/インパルスガンダム.md "wikilink")3形態と[シン・アスカ](../Page/シン・アスカ.md "wikilink")がゲスト登場した。本作より公式の全国大会『Premium Dogfight』が開催されるようになった。売り上げ約5,300本\[1\]。
+  - [機動戦士ガンダムSEED DESTINY 連合vs.Z.A.F.T.II](../Page/機動戦士ガンダムSEED_DESTINY_連合vs.Z.A.F.T.II.md "wikilink") （SYSTEM246、2006年6月稼動開始）
     通称「連ザII」。稼働開始当初の登場機体は大半が『DESTINY』登場の機体で、隠し要素の開放により『SEED』の機体とパイロットが登場する要素があった。前作からシステムはあまり変わっていないが、覚醒の効果が再び3種類から選択できるようになった（「復活」に相当するものがないなど、性能は異なる）。
-    隠し要素として『[機動戦士ガンダムSEED C.E.73 STARGAZER](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_C.E.73_STARGAZER "wikilink")』から[ストライクノワールがゲスト登場した](https://ja.wikipedia.org/wiki/ストライクガンダム#ストライクノワール "wikilink")（パイロットのスウェンは家庭用の『PLUS』で登場）。売り上げ約7,200本\[2\]。
+    隠し要素として『[機動戦士ガンダムSEED C.E.73 STARGAZER](../Page/機動戦士ガンダムSEED_C.E.73_STARGAZER.md "wikilink")』から[ストライクノワールがゲスト登場した](https://ja.wikipedia.org/wiki/ストライクガンダム#ストライクノワール "wikilink")（パイロットのスウェンは家庭用の『PLUS』で登場）。売り上げ約7,200本\[2\]。
 
 #### ガンダムVS.ガンダムシリーズ
 
   - [機動戦士ガンダム ガンダムVS.ガンダム](https://ja.wikipedia.org/wiki/機動戦士ガンダム_ガンダムVS.ガンダム "wikilink") （SYSTEM256、2008年3月稼動開始）
-    通称「ガンガン」「GvsG」。今までのシリーズとは異なり、「[デビルガンダム](https://ja.wikipedia.org/wiki/デビルガンダム "wikilink")によってすべてのガンダムvsシリーズが融合した架空の[電脳世界](https://ja.wikipedia.org/wiki/電脳世界 "wikilink")」を舞台に、今までにアニメ化された16作品の主役級とライバル・サポート機体が登場する[オールスター](https://ja.wikipedia.org/wiki/オールスター "wikilink")作品。
+    通称「ガンガン」「GvsG」。今までのシリーズとは異なり、「[デビルガンダム](../Page/デビルガンダム.md "wikilink")によってすべてのガンダムvsシリーズが融合した架空の[電脳世界](https://ja.wikipedia.org/wiki/電脳世界 "wikilink")」を舞台に、今までにアニメ化された16作品の主役級とライバル・サポート機体が登場する[オールスター](https://ja.wikipedia.org/wiki/オールスター "wikilink")作品。
     ゲームシステムが前作からさらに変更され、覚醒が「Gクロスオーバー」という協力攻撃になり、機体再登場時に残りコストが使用機体のコストを割るとその割合だけ耐久値が減った状態で再登場する「コストオーバーシステム」や、対戦毎にチーム編成が変わる「チームシャッフル」、機体毎の特徴付けが今まで以上に明確化されるなど、前作とは全く異なるゲーム性となった。
     隠し要素として『[機動戦士ガンダム00](https://ja.wikipedia.org/wiki/機動戦士ガンダム00 "wikilink")』より[ガンダムエクシアと刹那](https://ja.wikipedia.org/wiki/機動戦士ガンダム00の登場兵器#ガンダムエクシア "wikilink")・F・セイエイがゲスト登場した。機体総数は隠し機体とラストボス含めて34体。基本的に1作につき2体ずつ登場（1stは4体、00はエクシアのみ）している。
   - [機動戦士ガンダム ガンダムVS.ガンダムNEXT](https://ja.wikipedia.org/wiki/機動戦士ガンダム_ガンダムVS.ガンダムNEXT "wikilink") （SYSTEM256、2009年3月稼動開始）
     通称「ガンガンNEXT」「ガンネク」「GvsGNEXT」。前作と同じ架空の電脳世界を舞台にしたオールスター作品。
     ゲームシステムではGクロスオーバーが削除された代わりにほぼすべての行動をブーストダッシュでキャンセルする「NEXTダッシュ」が追加。CPU戦では一部のコースには次のステージを複数の候補から選べる「NEXTステージセレクト」が追加。
-    隠し要素として『[機動戦士ガンダムUC](https://ja.wikipedia.org/wiki/機動戦士ガンダムUC "wikilink")』より[ユニコーンガンダム](https://ja.wikipedia.org/wiki/ユニコーンガンダム "wikilink")がゲスト登場した（パイロットのバナージは家庭用の『PLUS』で登場）。機体総数はCPU戦のみで登場する機体を含めて64体で、前作とは異なり作品毎の登場機体数にばらつきがある（2〜6体）。
+    隠し要素として『[機動戦士ガンダムUC](../Page/機動戦士ガンダムUC.md "wikilink")』より[ユニコーンガンダム](https://ja.wikipedia.org/wiki/ユニコーンガンダム "wikilink")がゲスト登場した（パイロットのバナージは家庭用の『PLUS』で登場）。機体総数はCPU戦のみで登場する機体を含めて64体で、前作とは異なり作品毎の登場機体数にばらつきがある（2〜6体）。
 
 #### エクストリームバーサスシリーズ
 
-  - [機動戦士ガンダム エクストリームバーサス](https://ja.wikipedia.org/wiki/機動戦士ガンダム_エクストリームバーサス "wikilink") （[SYSTEM357](https://ja.wikipedia.org/wiki/SYSTEM357 "wikilink")、2010年9月稼動開始）
+  - [機動戦士ガンダム エクストリームバーサス](https://ja.wikipedia.org/wiki/機動戦士ガンダム_エクストリームバーサス "wikilink") （[SYSTEM357](../Page/SYSTEM357.md "wikilink")、2010年9月稼動開始）
     通称「ガンエク」「エクバ」「EXVS.」など。『NEXT』の流れを受け継ぎながら、システム基板がSYSTEM357に変わったことによりグラフィックが大幅に向上している。
     ゲームシステムではNEXTダッシュを発展させた「エクストリームアクション」や、『連合vs.Z.A.F.T.II』における「覚醒」を発展させた「エクストリームバースト」を搭載。また対戦以外にもICカードの採用やプレイヤーナビのレンタルなど、新しい要素が組み込まれている。
     毎月のアップデート（3月は東北地方太平洋沖地震で延期）では、新たな機体の参戦やゲームの不具合を修正している。
-    『NEXT』では主人公機のみの参戦だった『UC』が敵機も含めた本格登場となった他、『[機動戦士ガンダム MS IGLOO](https://ja.wikipedia.org/wiki/機動戦士ガンダム_MS_IGLOO "wikilink")』と『[機動戦士クロスボーン・ガンダム](https://ja.wikipedia.org/wiki/機動戦士クロスボーン・ガンダム "wikilink")』、『[機動戦士ガンダムSEED ASTRAY](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_ASTRAY "wikilink")』が初登場し、2011年7月のアップデートでは『[劇場版 機動戦士ガンダム00 -A wakening of the Trailblazer-](https://ja.wikipedia.org/wiki/劇場版_機動戦士ガンダム00_-A_wakening_of_the_Trailblazer- "wikilink")』が新たに登場、[ダブルオークアンタが参戦した](https://ja.wikipedia.org/wiki/機動戦士ガンダム00の登場兵器#ダブルオークアンタ "wikilink")。
+    『NEXT』では主人公機のみの参戦だった『UC』が敵機も含めた本格登場となった他、『[機動戦士ガンダム MS IGLOO](../Page/機動戦士ガンダム_MS_IGLOO.md "wikilink")』と『[機動戦士クロスボーン・ガンダム](../Page/機動戦士クロスボーン・ガンダム.md "wikilink")』、『[機動戦士ガンダムSEED ASTRAY](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_ASTRAY "wikilink")』が初登場し、2011年7月のアップデートでは『[劇場版 機動戦士ガンダム00 -A wakening of the Trailblazer-](https://ja.wikipedia.org/wiki/劇場版_機動戦士ガンダム00_-A_wakening_of_the_Trailblazer- "wikilink")』が新たに登場、[ダブルオークアンタが参戦した](https://ja.wikipedia.org/wiki/機動戦士ガンダム00の登場兵器#ダブルオークアンタ "wikilink")。
     ボス機体として、EXVS.オリジナルのエクストリームガンダムが参戦している。
-  - [機動戦士ガンダム エクストリームバーサス フルブースト](https://ja.wikipedia.org/wiki/機動戦士ガンダム_エクストリームバーサス_フルブースト "wikilink")（[SYSTEM357](https://ja.wikipedia.org/wiki/SYSTEM357 "wikilink")、2012年4月稼働開始）
+  - [機動戦士ガンダム エクストリームバーサス フルブースト](https://ja.wikipedia.org/wiki/機動戦士ガンダム_エクストリームバーサス_フルブースト "wikilink")（[SYSTEM357](../Page/SYSTEM357.md "wikilink")、2012年4月稼働開始）
     通称「フルブ」「EXVS.FB」など。基本要素は『EXVS.』を受け継ぎつつ、「エクストリームバースト」を2タイプから選択できるなどシステムの多様化が図られている。
     前作から引き続き、『VS.シリーズ』10周年記念漫画『[ガンダムEXA](https://ja.wikipedia.org/wiki/ガンダムEXA "wikilink")』とのコラボレーションが広がり、オリジナル機体であるエクストリームガンダム type-レオスがプレイヤー機体として参戦している。また、『[機動戦士ガンダム 閃光のハサウェイ](../Page/機動戦士ガンダム_閃光のハサウェイ.md "wikilink")』がシリーズに初登場した。
     ICカードは専用のものから[バナパスポートに変更している](https://ja.wikipedia.org/wiki/ALL.Net#バナパスポート "wikilink")。
-  - [機動戦士ガンダム エクストリームバーサス マキシブースト](https://ja.wikipedia.org/wiki/機動戦士ガンダム_エクストリームバーサス_マキシブースト "wikilink")（[SYSTEM357](https://ja.wikipedia.org/wiki/SYSTEM357 "wikilink")、2014年3月稼働開始）
+  - [機動戦士ガンダム エクストリームバーサス マキシブースト](https://ja.wikipedia.org/wiki/機動戦士ガンダム_エクストリームバーサス_マキシブースト "wikilink")（[SYSTEM357](../Page/SYSTEM357.md "wikilink")、2014年3月稼働開始）
     通称「マキブ」「EXVS.MB」など。『フルブースト』のシステムを引き継ぎつつ、「EXオーバードライブ」などの新要素を備えている。登場機体はアーケード版『フルブースト』全機体に加え、さらに本作からの登場となる機体が加わっている。
-    『[機動戦士ガンダムAGE](https://ja.wikipedia.org/wiki/機動戦士ガンダムAGE "wikilink")』が初登場し、2015年7月のアップデートでは『[プラモ狂四郎](https://ja.wikipedia.org/wiki/プラモ狂四郎 "wikilink")』が新たに登場した。
-  - [機動戦士ガンダム エクストリームバーサス マキシブースト ON](https://ja.wikipedia.org/wiki/機動戦士ガンダム_エクストリームバーサス_マキシブースト_ON "wikilink")（[SYSTEM357](https://ja.wikipedia.org/wiki/SYSTEM357 "wikilink")、2016年3月稼働開始）
+    『[機動戦士ガンダムAGE](https://ja.wikipedia.org/wiki/機動戦士ガンダムAGE "wikilink")』が初登場し、2015年7月のアップデートでは『[プラモ狂四郎](../Page/プラモ狂四郎.md "wikilink")』が新たに登場した。
+  - [機動戦士ガンダム エクストリームバーサス マキシブースト ON](https://ja.wikipedia.org/wiki/機動戦士ガンダム_エクストリームバーサス_マキシブースト_ON "wikilink")（[SYSTEM357](../Page/SYSTEM357.md "wikilink")、2016年3月稼働開始）
     通称「マキブオン」「EXVS.MBON」など。『マキシブースト』のシステムを引き継ぐ一方で、「EXオーバードライブ」を廃止し「EXバースト」を3タイプから選択可能となるなどの変更が施されている。
     『[鉄拳7](https://ja.wikipedia.org/wiki/鉄拳7 "wikilink")』のようにオンライン対戦機能を有している。登場機体はアーケード版『マキシブースト』全機体に加え、さらに本作からの登場となる機体が加わっている。
     アップデートで『[機動戦士ガンダム サンダーボルト](https://ja.wikipedia.org/wiki/機動戦士ガンダム_サンダーボルト "wikilink")』、『[ガンダムビルドファイターズ](https://ja.wikipedia.org/wiki/ガンダムビルドファイターズ "wikilink")』が初登場した。
   - [機動戦士ガンダム エクストリームバーサス2](https://ja.wikipedia.org/wiki/機動戦士ガンダム_エクストリームバーサス2 "wikilink")（[System BNA1](https://ja.wikipedia.org/wiki/System_BNA1 "wikilink")、2018年[10月30日](../Page/10月30日.md "wikilink")稼働開始）
     通称「エクバ2」「EXVS.2」など。システム基板がSystem BNA1に変更されたことによりグラフィックが従来のエクストリームバーサスシリーズよりも更に向上している。
     家庭用からシリーズに入ったユーザーのためにパッド型コントローラー搭載型筐体に変更されている。登場機体はアーケード版『マキシブーストON』からほぼ全ての機体\[3\]に加え、さらに本作からの登場となる機体が加わっている。
-    『[ガンダムビルドファイターズトライ](https://ja.wikipedia.org/wiki/ガンダムビルドファイターズトライ "wikilink")』が初登場し、アップデートで『[SDガンダム外伝](https://ja.wikipedia.org/wiki/SDガンダム外伝_ジークジオン編 "wikilink")』、『[機動戦士ガンダムNT](https://ja.wikipedia.org/wiki/機動戦士ガンダムNT "wikilink")』が初登場した。
+    『[ガンダムビルドファイターズトライ](https://ja.wikipedia.org/wiki/ガンダムビルドファイターズトライ "wikilink")』が初登場し、アップデートで『[SDガンダム外伝](../Page/SDガンダム外伝_ジークジオン編.md "wikilink")』、『[機動戦士ガンダムNT](https://ja.wikipedia.org/wiki/機動戦士ガンダムNT "wikilink")』が初登場した。
 
 #### 架空の作品
 
@@ -73,7 +73,7 @@
   - [機動戦士ガンダムΖΖ](https://ja.wikipedia.org/wiki/機動戦士ガンダムΖΖ "wikilink") エゥーゴVS.ネオ・ジオン
   - [機動戦士ガンダム 逆襲のシャア](../Page/機動戦士ガンダム_逆襲のシャア.md "wikilink") ロンド・ベルVS.ネオ・ジオン
   - [機動戦士ガンダムF91](../Page/機動戦士ガンダムF91.md "wikilink") 連邦VS.クロスボーン・バンガード
-  - [機動戦士Vガンダム](https://ja.wikipedia.org/wiki/機動戦士Vガンダム "wikilink") リガ・ミリティアVS.ザンスカール帝国
+  - [機動戦士Vガンダム](../Page/機動戦士Vガンダム.md "wikilink") リガ・ミリティアVS.ザンスカール帝国
   - [機動武闘伝Gガンダム](../Page/機動武闘伝Gガンダム.md "wikilink") シャッフル同盟VS.デビルガンダム軍団
   - [新機動戦記ガンダムW](../Page/新機動戦記ガンダムW.md "wikilink") OZVS.ホワイトファング
   - [機動新世紀ガンダムX](../Page/機動新世紀ガンダムX.md "wikilink") 宇宙革命軍VS.新地球連邦軍
@@ -90,13 +90,13 @@
         第1作（以下「無印」）のディスクとDXのディスクの2枚組。シリーズ唯一のDC版で、元々最初に発売が発表されたコンシューマ版はDC版の無印だったが、DXも移植することになり発売はPS2版よりも後となった。尚、無印がコンシューマ版に移植されたのはDC版のみである。PS2版にあったミッションモードはない。対戦は「マルチマッチング」サービスを通じてのみ行えたが（無印とDXそれぞれでサーバーが独立しており、無印vs.DXのような対戦は不可だった）、前述の通り現在は終了し、[スタンドアロン](https://ja.wikipedia.org/wiki/スタンドアロン "wikilink")でのプレイのみ行えるようになっている。
   - [機動戦士Ζガンダム エゥーゴvs.ティターンズ](../Page/機動戦士Ζガンダム_エゥーゴvs.ティターンズ.md "wikilink")（PlayStation 2、2003年12月4日発売）
     アーケード版からの+α移植。使用可能機体が7体（エゥーゴ3体、ティターンズ4体）、CPU戦コースが1つ追加された。ブロードバンド回線を使用したKDDIの[マルチマッチングBB](https://ja.wikipedia.org/wiki/マルチマッチングBB "wikilink")により定額で通信対戦が楽しめるようになった（2011年6月30日を以ってサービス終了）。
-  - [機動戦士ガンダム ガンダムvs.Ζガンダム](https://ja.wikipedia.org/wiki/機動戦士ガンダム_ガンダムvs.Ζガンダム "wikilink")（PlayStation 2・[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")、2004年12月9日発売）
-    エゥーゴvs.ティターンズDXからの+α移植。使用機体として[ΖΖガンダム](https://ja.wikipedia.org/wiki/ΖΖガンダム "wikilink")と[キュベレイMk-IIが追加](https://ja.wikipedia.org/wiki/キュベレイ#.E3.82.AD.E3.83.A5.E3.83.99.E3.83.AC.E3.82.A4Mk-II "wikilink")。ミッションモードの代わりに、パイロットごとに[グリプス戦役](https://ja.wikipedia.org/wiki/グリプス戦役 "wikilink")・一年戦争の追体験や[if](https://ja.wikipedia.org/wiki/if "wikilink")展開を味わえる「宇宙世紀モード」が収録。ゲーム中に得たポイントを使用して作中に登場した機体などを観られる「コレクションモード」もある。
+  - [機動戦士ガンダム ガンダムvs.Ζガンダム](../Page/機動戦士ガンダム_ガンダムvs.Ζガンダム.md "wikilink")（PlayStation 2・[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")、2004年12月9日発売）
+    エゥーゴvs.ティターンズDXからの+α移植。使用機体として[ΖΖガンダム](https://ja.wikipedia.org/wiki/ΖΖガンダム "wikilink")と[キュベレイMk-IIが追加](https://ja.wikipedia.org/wiki/キュベレイ#.E3.82.AD.E3.83.A5.E3.83.99.E3.83.AC.E3.82.A4Mk-II "wikilink")。ミッションモードの代わりに、パイロットごとに[グリプス戦役](../Page/グリプス戦役.md "wikilink")・一年戦争の追体験や[if](https://ja.wikipedia.org/wiki/if "wikilink")展開を味わえる「宇宙世紀モード」が収録。ゲーム中に得たポイントを使用して作中に登場した機体などを観られる「コレクションモード」もある。
     PS2版は前作と同じく2011年6月30日までマルチマッチングBBに対応していたが、GC版は発売当初から対応しておらず、代わりに画面分割を用いた4人対戦が行える。シリーズ唯一のゲームキューブ版でもある。
 
 #### ガンダムSEEDシリーズ
 
-  - [機動戦士ガンダムSEED 連合vs.Z.A.F.T.](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_連合vs.Z.A.F.T. "wikilink") （PlayStation 2、2005年11月7日発売、[PlayStation Portable](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")、2007年4月6日発売）
+  - [機動戦士ガンダムSEED 連合vs.Z.A.F.T.](../Page/機動戦士ガンダムSEED_連合vs.Z.A.F.T..md "wikilink") （PlayStation 2、2005年11月7日発売、[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")、2007年4月6日発売）
     アーケード版からの+α移植。『SEED DESTINY』からAC版に登場した3機以外に第1クールで登場した[セカンドステージシリーズ・ニューミレニアムシリーズの](https://ja.wikipedia.org/wiki/コズミック・イラの機動兵器#セカンドステージシリーズ "wikilink")7機とそのパイロットが登場した。一方で過去の家庭用vsシリーズの定番であったミッションモード的なモードはなく（後日発売されたPSP版にはアドホックモードによる通信はある）、マルチマッチングBBによる通信対戦も無くなった。
     売り上げ本数約47.6万本\[6\]。
   - [機動戦士ガンダムSEED DESTINY 連合vs.Z.A.F.T.II PLUS](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_DESTINY_連合vs.Z.A.F.T.II_PLUS "wikilink")（PlayStation 2、2006年12月7日発売）
@@ -106,19 +106,19 @@
 #### ガンダムVS.ガンダムシリーズ
 
   - [機動戦士ガンダム ガンダムVS.ガンダム](https://ja.wikipedia.org/wiki/機動戦士ガンダム_ガンダムVS.ガンダム "wikilink")（PlayStation Portable、2008年11月20日発売）
-    アーケード版からの+α移植。追加機体として[ガンキャノン](../Page/ガンキャノン.md "wikilink")、[ケンプファー](../Page/ケンプファー.md "wikilink")、[試作1号機](https://ja.wikipedia.org/wiki/ガンダム開発計画#ガンダム試作1号機（ゼフィランサス） "wikilink")（および換装機体の[試作1号機Fb](https://ja.wikipedia.org/wiki/ガンダム開発計画#ガンダム試作1号機フルバーニアン（ゼフィランサスFb） "wikilink")）、[デスティニーガンダム](https://ja.wikipedia.org/wiki/デスティニーガンダム "wikilink")が登場。一方でCPU戦の追加コースは存在せず（追加機体もCPU戦では対戦モード以外では相手にできない）、ミッションモード的なモードも存在しない。
+    アーケード版からの+α移植。追加機体として[ガンキャノン](../Page/ガンキャノン.md "wikilink")、[ケンプファー](../Page/ケンプファー.md "wikilink")、[試作1号機](https://ja.wikipedia.org/wiki/ガンダム開発計画#ガンダム試作1号機（ゼフィランサス） "wikilink")（および換装機体の[試作1号機Fb](https://ja.wikipedia.org/wiki/ガンダム開発計画#ガンダム試作1号機フルバーニアン（ゼフィランサスFb） "wikilink")）、[デスティニーガンダム](../Page/デスティニーガンダム.md "wikilink")が登場。一方でCPU戦の追加コースは存在せず（追加機体もCPU戦では対戦モード以外では相手にできない）、ミッションモード的なモードも存在しない。
     アドホックによる最大4人までの対戦が可能で、[PlayStation 3の機能の一つである](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")[アドホック・パーティー](https://ja.wikipedia.org/wiki/アドホック・パーティー "wikilink")を使用して擬似的に通信対戦も可能。
   - [機動戦士ガンダム ガンダムVS.ガンダムNEXT PLUS](https://ja.wikipedia.org/wiki/機動戦士ガンダム_ガンダムVS.ガンダムNEXT "wikilink")（PlayStation Portable、2009年12月3日発売）
-    アーケード版からの+α移植。新規参戦作品として『[新機動戦記ガンダムW Endless Waltz](https://ja.wikipedia.org/wiki/新機動戦記ガンダムW_Endless_Waltz "wikilink")』から[ウイングガンダムゼロ](../Page/ウイングガンダムゼロ.md "wikilink")カスタムと[ガンダムナタク](https://ja.wikipedia.org/wiki/ガンダムナタク "wikilink")が追加されるほか、『[機動戦士ガンダム00](https://ja.wikipedia.org/wiki/機動戦士ガンダム00 "wikilink")』の[ダブルオーライザーや](https://ja.wikipedia.org/wiki/ダブルオーガンダム "wikilink")[リボーンズガンダム](https://ja.wikipedia.org/wiki/リボーンズガンダム "wikilink")など、既存作品にも多数の機体が追加。ミッションモードにあたるものとして、モビルスーツやパイロットを成長させながらミッションをクリアする「NEXT-PLUS」モードが収録された。
+    アーケード版からの+α移植。新規参戦作品として『[新機動戦記ガンダムW Endless Waltz](../Page/新機動戦記ガンダムW_Endless_Waltz.md "wikilink")』から[ウイングガンダムゼロ](../Page/ウイングガンダムゼロ.md "wikilink")カスタムと[ガンダムナタク](https://ja.wikipedia.org/wiki/ガンダムナタク "wikilink")が追加されるほか、『[機動戦士ガンダム00](https://ja.wikipedia.org/wiki/機動戦士ガンダム00 "wikilink")』の[ダブルオーライザーや](https://ja.wikipedia.org/wiki/ダブルオーガンダム "wikilink")[リボーンズガンダム](https://ja.wikipedia.org/wiki/リボーンズガンダム "wikilink")など、既存作品にも多数の機体が追加。ミッションモードにあたるものとして、モビルスーツやパイロットを成長させながらミッションをクリアする「NEXT-PLUS」モードが収録された。
 
 #### エクストリームバーサスシリーズ
 
   - [機動戦士ガンダム エクストリームバーサス](https://ja.wikipedia.org/wiki/機動戦士ガンダム_エクストリームバーサス "wikilink")（[PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、2011年12月1日発売）
-    アーケード版からの+α移植。シリーズ初のPS3版。機体には[アストレイブルーフレーム](https://ja.wikipedia.org/wiki/ガンダムアストレイ#ブルーフレーム "wikilink")、[ガンダムデュナメス](https://ja.wikipedia.org/wiki/ガンダムデュナメス "wikilink")が追加された。ダウンロードコンテンツとして[ジオング](../Page/ジオング.md "wikilink")、[ジ・О](https://ja.wikipedia.org/wiki/ジ・О "wikilink")、[ゴトラタン](https://ja.wikipedia.org/wiki/ゴトラタン "wikilink")、[フリーダムガンダム](../Page/フリーダムガンダム.md "wikilink")、[アルケーガンダム](https://ja.wikipedia.org/wiki/アルケーガンダム "wikilink")、『[機動戦士ガンダム外伝 THE BLUE DESTINY](https://ja.wikipedia.org/wiki/機動戦士ガンダム外伝_THE_BLUE_DESTINY "wikilink")』の[ブルー1号機が有料で配信される](https://ja.wikipedia.org/wiki/陸戦型ガンダム#ブルーデスティニー "wikilink")。アーケードモードには新たにFルートが追加された。全200以上のステージがある「トライアルミッション」モードが用意されており、このモードではMSのレベルアップやスキルの付与が可能になっている。またザクII、ドム、クィン・マンサ、ラー・カイラム、ラフレシア、ディビニダド、アドラステア、デストロイガンダム、ビグ・ラングなどCPU専用の機体が多数追加されている。
+    アーケード版からの+α移植。シリーズ初のPS3版。機体には[アストレイブルーフレーム](https://ja.wikipedia.org/wiki/ガンダムアストレイ#ブルーフレーム "wikilink")、[ガンダムデュナメス](https://ja.wikipedia.org/wiki/ガンダムデュナメス "wikilink")が追加された。ダウンロードコンテンツとして[ジオング](../Page/ジオング.md "wikilink")、[ジ・О](https://ja.wikipedia.org/wiki/ジ・О "wikilink")、[ゴトラタン](https://ja.wikipedia.org/wiki/ゴトラタン "wikilink")、[フリーダムガンダム](../Page/フリーダムガンダム.md "wikilink")、[アルケーガンダム](https://ja.wikipedia.org/wiki/アルケーガンダム "wikilink")、『[機動戦士ガンダム外伝 THE BLUE DESTINY](../Page/機動戦士ガンダム外伝_THE_BLUE_DESTINY.md "wikilink")』の[ブルー1号機が有料で配信される](https://ja.wikipedia.org/wiki/陸戦型ガンダム#ブルーデスティニー "wikilink")。アーケードモードには新たにFルートが追加された。全200以上のステージがある「トライアルミッション」モードが用意されており、このモードではMSのレベルアップやスキルの付与が可能になっている。またザクII、ドム、クィン・マンサ、ラー・カイラム、ラフレシア、ディビニダド、アドラステア、デストロイガンダム、ビグ・ラングなどCPU専用の機体が多数追加されている。
     [PlayStation Networkに対応しており](https://ja.wikipedia.org/wiki/PSN "wikilink")4人でのオンライン通信対戦が可能（無料）。
     2012年12月13日に廉価版となる「機動戦士ガンダム EXTREME VS. PlayStation3 the Best」が発売され、追加ダウンロードコンテンツとして[Ξガンダム](https://ja.wikipedia.org/wiki/機動戦士ガンダム_閃光のハサウェイの登場兵器#Ξガンダム "wikilink")、[ガンダム試作3号機](https://ja.wikipedia.org/wiki/ガンダム試作3号機 "wikilink")、[アリオスガンダム](https://ja.wikipedia.org/wiki/アリオスガンダム "wikilink")、[ストライクノワール](https://ja.wikipedia.org/wiki/ストライクノワール "wikilink")が有料で配信される\[8\]。
   - [機動戦士ガンダム エクストリームバーサス フルブースト](https://ja.wikipedia.org/wiki/機動戦士ガンダム_エクストリームバーサス_フルブースト "wikilink")（[PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、2014年1月30日発売）
-    アーケード版からの+α移植。初回生産特典として『[ガンダム・センチネル](https://ja.wikipedia.org/wiki/ガンダム・センチネル "wikilink")』の[Ex-Sガンダムが使用可能になるプロダクトコードが付属](https://ja.wikipedia.org/wiki/Sガンダム#Ex-Sガンダム "wikilink")。
+    アーケード版からの+α移植。初回生産特典として『[ガンダム・センチネル](../Page/ガンダム・センチネル.md "wikilink")』の[Ex-Sガンダムが使用可能になるプロダクトコードが付属](https://ja.wikipedia.org/wiki/Sガンダム#Ex-Sガンダム "wikilink")。
     追加DLCとして『[MSV](../Page/モビルスーツバリエーション.md "wikilink")』が初参戦した。
   - [機動戦士ガンダム エクストリームバーサス フォース](https://ja.wikipedia.org/wiki/機動戦士ガンダム_エクストリームバーサス_フォース "wikilink")（[PlayStation Vita](https://ja.wikipedia.org/wiki/PlayStation_Vita "wikilink")、2015年12月23日発売）
     『エクストリームバーサス』シリーズとしては初の家庭用オリジナル作品として発売された。『[ガンダム Gのレコンギスタ](https://ja.wikipedia.org/wiki/ガンダム_Gのレコンギスタ "wikilink")』と『[機動戦士ガンダム 鉄血のオルフェンズ](https://ja.wikipedia.org/wiki/機動戦士ガンダム_鉄血のオルフェンズ "wikilink")』が初参戦した。
@@ -129,7 +129,7 @@
 
   - [ガンダムバーサス](https://ja.wikipedia.org/wiki/ガンダムバーサス "wikilink")（[PlayStation 4](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")、[2017年](../Page/2017年.md "wikilink")[7月6日](../Page/7月6日.md "wikilink")発売）
     第5世代のVS.シリーズ。家庭用オリジナル作品として発売\[9\]。
-    『[機動戦士ガンダム外伝 ミッシングリンク](https://ja.wikipedia.org/wiki/機動戦士ガンダム_サイドストーリーズ "wikilink")』、『[ジオニックフロント 機動戦士ガンダム0079](https://ja.wikipedia.org/wiki/ジオニックフロント_機動戦士ガンダム0079 "wikilink")』、『[機動戦士ガンダム外伝 コロニーの落ちた地で…](https://ja.wikipedia.org/wiki/機動戦士ガンダム外伝_コロニーの落ちた地で… "wikilink")』が初参戦した。
+    『[機動戦士ガンダム外伝 ミッシングリンク](https://ja.wikipedia.org/wiki/機動戦士ガンダム_サイドストーリーズ "wikilink")』、『[ジオニックフロント 機動戦士ガンダム0079](../Page/ジオニックフロント_機動戦士ガンダム0079.md "wikilink")』、『[機動戦士ガンダム外伝 コロニーの落ちた地で…](../Page/機動戦士ガンダム外伝_コロニーの落ちた地で….md "wikilink")』が初参戦した。
 
 ## シリーズを通しての基本システム
 
@@ -215,8 +215,8 @@
 
   - [ガンダムシリーズゲーム作品一覧](../Page/ガンダムシリーズゲーム作品一覧.md "wikilink")
   - [対戦アクションゲーム一覧](https://ja.wikipedia.org/wiki/対戦アクションゲーム一覧 "wikilink")
-  - [ガチャフォース](https://ja.wikipedia.org/wiki/ガチャフォース "wikilink") - カプコンより発売のロボット対戦ゲーム。本シリーズと使用エンジン、企画者が共通。
-  - [戦国BASARA BATTLE HEROES](https://ja.wikipedia.org/wiki/戦国BASARA#戦国BASARA_BATTLE_HEROES "wikilink") - カプコンから2009年4月に発売された[戦国BASARA](https://ja.wikipedia.org/wiki/戦国BASARA "wikilink")シリーズを元にした同ジャンルの対戦アクションゲーム。
+  - [ガチャフォース](../Page/ガチャフォース.md "wikilink") - カプコンより発売のロボット対戦ゲーム。本シリーズと使用エンジン、企画者が共通。
+  - [戦国BASARA BATTLE HEROES](https://ja.wikipedia.org/wiki/戦国BASARA#戦国BASARA_BATTLE_HEROES "wikilink") - カプコンから2009年4月に発売された[戦国BASARA](../Page/戦国BASARA.md "wikilink")シリーズを元にした同ジャンルの対戦アクションゲーム。
 
 [Category:機動戦士ガンダム_vs.シリーズ](https://ja.wikipedia.org/wiki/Category:機動戦士ガンダム_vs.シリーズ "wikilink")
 
@@ -229,7 +229,7 @@
 7.  [バンダイナムコゲームス 2007年度第3四半期決算資料](http://www.bandainamco.co.jp/ir/result/pdf/20070214_1.pdf)4ページ
 8.  追加DLCは既にフルブーストに登場している機体や、EXVS.に先行して参戦する機体で構成されている。
 9.  [「機動戦士ガンダム VS.」シリーズ15周年！第5世代の最新作「GUNDAM VERSUS」がPS4にて制作決定！](http://www.gundam.info/topic/16445) (GUNDAM.INFO)
-10. 宇宙世紀シリーズ：[ガンダム](https://ja.wikipedia.org/wiki/ガンダム_\(架空の兵器\) "wikilink")、[陸戦型ガンダム](../Page/陸戦型ガンダム.md "wikilink")、[陸戦型ジム](../Page/陸戦型ジム.md "wikilink")、[旧型ザク](../Page/ザクI.md "wikilink")、[ザク/シャア専用ザク](../Page/ザクII.md "wikilink")、[Ζガンダム](../Page/Ζガンダム.md "wikilink")、[ガンダムMk-II](../Page/ガンダムMk-II.md "wikilink")、[百式](../Page/百式_\(ガンダムシリーズ\).md "wikilink")、[リック・ディアス](../Page/リック・ディアス.md "wikilink")、[ディジェ](https://ja.wikipedia.org/wiki/リック・ディアス#ディジェ "wikilink")、[ハイザック](https://ja.wikipedia.org/wiki/ハイザック "wikilink")、[ハンブラビ](https://ja.wikipedia.org/wiki/ハンブラビ "wikilink")、[パラス・アテネ](https://ja.wikipedia.org/wiki/パラス・アテネ "wikilink")。SEEDシリーズ：[ストライクガンダム](https://ja.wikipedia.org/wiki/ストライクガンダム "wikilink")、[ジン](../Page/ジン_\(ガンダムシリーズ\).md "wikilink")、[バクゥ](https://ja.wikipedia.org/wiki/バクゥ "wikilink")、[インパルスガンダム](https://ja.wikipedia.org/wiki/インパルスガンダム "wikilink")、[ザクウォーリア](https://ja.wikipedia.org/wiki/ザクウォーリア "wikilink")/ザクファントム、[アカツキ](https://ja.wikipedia.org/wiki/アカツキ_\(ガンダムシリーズ\) "wikilink")、[ウィンダム](https://ja.wikipedia.org/wiki/ウィンダム_\(ガンダムシリーズ\) "wikilink")、[ダガーL](https://ja.wikipedia.org/wiki/ストライクダガー#ダガーL "wikilink")。
+10. 宇宙世紀シリーズ：[ガンダム](https://ja.wikipedia.org/wiki/ガンダム_\(架空の兵器\) "wikilink")、[陸戦型ガンダム](../Page/陸戦型ガンダム.md "wikilink")、[陸戦型ジム](../Page/陸戦型ジム.md "wikilink")、[旧型ザク](../Page/ザクI.md "wikilink")、[ザク/シャア専用ザク](../Page/ザクII.md "wikilink")、[Ζガンダム](../Page/Ζガンダム.md "wikilink")、[ガンダムMk-II](../Page/ガンダムMk-II.md "wikilink")、[百式](../Page/百式_\(ガンダムシリーズ\).md "wikilink")、[リック・ディアス](../Page/リック・ディアス.md "wikilink")、[ディジェ](https://ja.wikipedia.org/wiki/リック・ディアス#ディジェ "wikilink")、[ハイザック](../Page/ハイザック.md "wikilink")、[ハンブラビ](https://ja.wikipedia.org/wiki/ハンブラビ "wikilink")、[パラス・アテネ](https://ja.wikipedia.org/wiki/パラス・アテネ "wikilink")。SEEDシリーズ：[ストライクガンダム](https://ja.wikipedia.org/wiki/ストライクガンダム "wikilink")、[ジン](../Page/ジン_\(ガンダムシリーズ\).md "wikilink")、[バクゥ](../Page/バクゥ.md "wikilink")、[インパルスガンダム](../Page/インパルスガンダム.md "wikilink")、[ザクウォーリア](../Page/ザクウォーリア.md "wikilink")/ザクファントム、[アカツキ](https://ja.wikipedia.org/wiki/アカツキ_\(ガンダムシリーズ\) "wikilink")、[ウィンダム](../Page/ウィンダム_\(ガンダムシリーズ\).md "wikilink")、[ダガーL](https://ja.wikipedia.org/wiki/ストライクダガー#ダガーL "wikilink")。
 11. 地上用MSと宇宙用MSは違う機種を選んでも同一機種でもよく、武装選択可能な機種では宇宙と地上で同一武装でも違う武装でもかまわない。
 12. [ジンオーカー](https://ja.wikipedia.org/wiki/ジン_\(ガンダムシリーズ\)#ジンオーカー "wikilink")、[ジンワスプ](https://ja.wikipedia.org/wiki/ジン_\(ガンダムシリーズ\)#ジンワスプ "wikilink")、[ザウート](https://ja.wikipedia.org/wiki/ザウート "wikilink")、バクゥ、[ラゴゥ](https://ja.wikipedia.org/wiki/バクゥ#ラゴゥ "wikilink")、ディン/指揮官用ディン、[グーン](https://ja.wikipedia.org/wiki/グーン "wikilink")、[ゾノ](https://ja.wikipedia.org/wiki/グーン#ゾノ "wikilink")、[ガズウート](https://ja.wikipedia.org/wiki/ザウート#ガズウート "wikilink")、[アッシュ](https://ja.wikipedia.org/wiki/グーン#アッシュ "wikilink")、[バビ](https://ja.wikipedia.org/wiki/バビ "wikilink")、ダガーL（ジェットストライカー）、ウィンダム（ジェットストライカー）
-13. 『[Ζガンダム](https://ja.wikipedia.org/wiki/機動戦士Ζガンダム "wikilink")』序版でティターンズからエゥーゴに転向した[エマ・シーン](../Page/エマ・シーン.md "wikilink")、『Ζガンダム』中盤でエゥーゴからティターンズへ転向した[レコア・ロンド](https://ja.wikipedia.org/wiki/レコア・ロンド "wikilink")、元ジオン公国軍人でありながらエゥーゴに参加しアクシズと敵対する道を選んだ[シャア・アズナブル](https://ja.wikipedia.org/wiki/シャア・アズナブル "wikilink")（クワトロ・バジーナ）（ガンダムvs. Ζガンダムのみ）については両陣営で使用可能である。
+13. 『[Ζガンダム](https://ja.wikipedia.org/wiki/機動戦士Ζガンダム "wikilink")』序版でティターンズからエゥーゴに転向した[エマ・シーン](../Page/エマ・シーン.md "wikilink")、『Ζガンダム』中盤でエゥーゴからティターンズへ転向した[レコア・ロンド](../Page/レコア・ロンド.md "wikilink")、元ジオン公国軍人でありながらエゥーゴに参加しアクシズと敵対する道を選んだ[シャア・アズナブル](../Page/シャア・アズナブル.md "wikilink")（クワトロ・バジーナ）（ガンダムvs. Ζガンダムのみ）については両陣営で使用可能である。

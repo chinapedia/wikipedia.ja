@@ -1,13 +1,13 @@
 > この記事は[BUNBUN \(\)](https://ja.wikipedia.org/wiki/BUNBUN_\(\))から翻訳されています。
 
 
-**BUNBUN**（ブンブン、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[9月22日](../Page/9月22日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性](../Page/男性.md "wikilink")[イラストレーター](../Page/イラストレーター.md "wikilink")である。[京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")[八幡市](../Page/八幡市.md "wikilink")出身。
+**BUNBUN**（ブンブン、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[9月22日](../Page/9月22日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性](../Page/男性.md "wikilink")[イラストレーター](../Page/イラストレーター.md "wikilink")である。[京都府](../Page/京都府.md "wikilink")[八幡市](../Page/八幡市.md "wikilink")出身。
 
-「[ソードアート・オンライン](https://ja.wikipedia.org/wiki/ソードアート・オンライン "wikilink")シリーズ」などで知られる**abec**（アベシ）は、BUNBUNが元々趣味のイラストブログで使用していた別名義である\[1\]。abec名義で『[このライトノベルがすごい\!](https://ja.wikipedia.org/wiki/このライトノベルがすごい! "wikilink")2011』でイラストレーター部門第6位を、『このライトノベルがすごい\!2012』で同部門第3位を獲得し、『このライトノベルがすごい\!2013』において同部門第1位に輝いた。
+「[ソードアート・オンライン](https://ja.wikipedia.org/wiki/ソードアート・オンライン "wikilink")シリーズ」などで知られる**abec**（アベシ）は、BUNBUNが元々趣味のイラストブログで使用していた別名義である\[1\]。abec名義で『[このライトノベルがすごい\!](../Page/このライトノベルがすごい!.md "wikilink")2011』でイラストレーター部門第6位を、『このライトノベルがすごい\!2012』で同部門第3位を獲得し、『このライトノベルがすごい\!2013』において同部門第1位に輝いた。
 
 ## 人物
 
-[アニメーター](https://ja.wikipedia.org/wiki/アニメーター "wikilink")の[堀口悠紀子](../Page/堀口悠紀子.md "wikilink")は実姉。実父は元八幡市[副市長で](https://ja.wikipedia.org/wiki/副市町村長 "wikilink")、[2012年](../Page/2012年.md "wikilink")[2月12日](../Page/2月12日.md "wikilink")に同市[市長に当選した](../Page/市町村長.md "wikilink")[堀口文昭](https://ja.wikipedia.org/wiki/堀口文昭 "wikilink")\[2\]。
+[アニメーター](../Page/アニメーター.md "wikilink")の[堀口悠紀子](../Page/堀口悠紀子.md "wikilink")は実姉。実父は元八幡市[副市長で](../Page/副市町村長.md "wikilink")、[2012年](../Page/2012年.md "wikilink")[2月12日](../Page/2月12日.md "wikilink")に同市[市長に当選した](../Page/市町村長.md "wikilink")[堀口文昭](https://ja.wikipedia.org/wiki/堀口文昭 "wikilink")\[2\]。
 
 ## 主な参加作品
 
@@ -16,19 +16,19 @@
 #### 挿絵・イラスト
 
   - [カレとカノジョと召喚魔法](https://ja.wikipedia.org/wiki/カレとカノジョと召喚魔法 "wikilink")（著：[上月司](https://ja.wikipedia.org/wiki/上月司 "wikilink") / [電撃文庫](../Page/電撃文庫.md "wikilink")） 全6巻
-  - [薔薇のマリア](https://ja.wikipedia.org/wiki/薔薇のマリア "wikilink")（著：[十文字青](../Page/十文字青.md "wikilink") / [角川スニーカー文庫](https://ja.wikipedia.org/wiki/角川スニーカー文庫 "wikilink")） 全27巻
+  - [薔薇のマリア](../Page/薔薇のマリア.md "wikilink")（著：[十文字青](../Page/十文字青.md "wikilink") / [角川スニーカー文庫](https://ja.wikipedia.org/wiki/角川スニーカー文庫 "wikilink")） 全27巻
       - ノラ猫マリィ（著：[十文字青](../Page/十文字青.md "wikilink") / 角川書店単行本）
-  - 僕らA.I（著：[川上亮](https://ja.wikipedia.org/wiki/川上亮 "wikilink") / [富士見ミステリー文庫](https://ja.wikipedia.org/wiki/富士見ミステリー文庫 "wikilink")）
-  - [神曲奏界ポリフォニカ ブラック・シリーズ](https://ja.wikipedia.org/wiki/神曲奏界ポリフォニカ#小説版 "wikilink")（著：[大迫純一](../Page/大迫純一.md "wikilink") / [GA文庫](https://ja.wikipedia.org/wiki/GA文庫 "wikilink")）全14巻
+  - 僕らA.I（著：[川上亮](https://ja.wikipedia.org/wiki/川上亮 "wikilink") / [富士見ミステリー文庫](../Page/富士見ミステリー文庫.md "wikilink")）
+  - [神曲奏界ポリフォニカ ブラック・シリーズ](https://ja.wikipedia.org/wiki/神曲奏界ポリフォニカ#小説版 "wikilink")（著：[大迫純一](../Page/大迫純一.md "wikilink") / [GA文庫](../Page/GA文庫.md "wikilink")）全14巻
   - ラジオガール・ウィズ・ジャミング（著：[深山森](https://ja.wikipedia.org/wiki/深山森 "wikilink") / 電撃文庫）
   - [ゾアハンター](https://ja.wikipedia.org/wiki/ゾアハンター "wikilink")（著：[大迫純一](../Page/大迫純一.md "wikilink") / GA文庫） 全7巻
-  - アスカ -麻雀餓狼伝-（著：[吉村夜](https://ja.wikipedia.org/wiki/吉村夜 "wikilink") / [スーパーダッシュ文庫](https://ja.wikipedia.org/wiki/スーパーダッシュ文庫 "wikilink")）
-  - 全死大戦（著：[元長柾木](https://ja.wikipedia.org/wiki/元長柾木 "wikilink") / [角川文庫](https://ja.wikipedia.org/wiki/角川文庫 "wikilink")）全2巻
+  - アスカ -麻雀餓狼伝-（著：[吉村夜](https://ja.wikipedia.org/wiki/吉村夜 "wikilink") / [スーパーダッシュ文庫](../Page/スーパーダッシュ文庫.md "wikilink")）
+  - 全死大戦（著：[元長柾木](../Page/元長柾木.md "wikilink") / [角川文庫](../Page/角川文庫.md "wikilink")）全2巻
   - [ニーナとうさぎと魔法の戦車](https://ja.wikipedia.org/wiki/ニーナとうさぎと魔法の戦車 "wikilink")（著：[兎月竜之介](https://ja.wikipedia.org/wiki/兎月竜之介 "wikilink") / スーパーダッシュ文庫） 全8巻
   - RINGADAWN（著：[あやめゆう](https://ja.wikipedia.org/wiki/あやめゆう "wikilink") / [C★NOVELSファンタジア](https://ja.wikipedia.org/wiki/C★NOVELSファンタジア "wikilink")） 全3巻
-  - [ファイヤーガール](https://ja.wikipedia.org/wiki/ファイヤーガール "wikilink")（著：[星空めてお](https://ja.wikipedia.org/wiki/星空めてお "wikilink") / [TYPE-MOON BOOKS](../Page/TYPE-MOON.md "wikilink")） 全7巻
+  - [ファイヤーガール](https://ja.wikipedia.org/wiki/ファイヤーガール "wikilink")（著：[星空めてお](../Page/星空めてお.md "wikilink") / [TYPE-MOON BOOKS](../Page/TYPE-MOON.md "wikilink")） 全7巻
   - 勇者であるシリーズ
-      - [鷲尾須美は勇者である](https://ja.wikipedia.org/wiki/鷲尾須美は勇者である "wikilink")（著：[タカヒロ](https://ja.wikipedia.org/wiki/タカヒロ "wikilink") / [電撃G's magazine](https://ja.wikipedia.org/wiki/電撃G's_magazine "wikilink")）
+      - [鷲尾須美は勇者である](https://ja.wikipedia.org/wiki/鷲尾須美は勇者である "wikilink")（著：[タカヒロ](../Page/タカヒロ.md "wikilink") / [電撃G's magazine](../Page/電撃G's_magazine.md "wikilink")）
       - [乃木若葉は勇者である](https://ja.wikipedia.org/wiki/乃木若葉は勇者である "wikilink")（著：朱白あおい / 電撃G's magazine） 全2巻
       - [楠芽吹は勇者である](https://ja.wikipedia.org/wiki/楠芽吹は勇者である "wikilink")（著：朱白あおい / 電撃G's magazine）
   - クロニクル・レギオン（著：[丈月城](https://ja.wikipedia.org/wiki/丈月城 "wikilink") / [ダッシュエックス文庫](https://ja.wikipedia.org/wiki/ダッシュエックス文庫 "wikilink")）\[3\] 全7巻
@@ -48,10 +48,10 @@
 
 #### ゲーム
 
-  - [偽りの輪舞曲](https://ja.wikipedia.org/wiki/偽りの輪舞曲 "wikilink")（[サクセス](https://ja.wikipedia.org/wiki/サクセス_\(ゲーム会社\) "wikilink") / キャラクターデザイン）
+  - [偽りの輪舞曲](../Page/偽りの輪舞曲.md "wikilink")（[サクセス](../Page/サクセス_\(ゲーム会社\).md "wikilink") / キャラクターデザイン）
   - 神曲奏界ポリフォニカ THE BLACK（KuroCo / [キャラクターデザイン](../Page/キャラクターデザイン.md "wikilink")）
-  - [拡散性ミリオンアーサー](https://ja.wikipedia.org/wiki/拡散性ミリオンアーサー "wikilink")（[スクウェア・エニックス](https://ja.wikipedia.org/wiki/スクウェア・エニックス "wikilink") / 一部キャラクターデザイン、カードイラスト）
-  - [戦国大戦](https://ja.wikipedia.org/wiki/戦国大戦 "wikilink")（[セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink") / 武将カードイラスト：[お鍋の方](https://ja.wikipedia.org/wiki/興雲院 "wikilink")、[荒川長実](https://ja.wikipedia.org/wiki/荒川長実 "wikilink")、[鍋島直茂](../Page/鍋島直茂.md "wikilink") 等）
+  - [拡散性ミリオンアーサー](https://ja.wikipedia.org/wiki/拡散性ミリオンアーサー "wikilink")（[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink") / 一部キャラクターデザイン、カードイラスト）
+  - [戦国大戦](https://ja.wikipedia.org/wiki/戦国大戦 "wikilink")（[セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink") / 武将カードイラスト：[お鍋の方](../Page/興雲院.md "wikilink")、[荒川長実](https://ja.wikipedia.org/wiki/荒川長実 "wikilink")、[鍋島直茂](../Page/鍋島直茂.md "wikilink") 等）
   - [Fate/Grand Order](https://ja.wikipedia.org/wiki/Fate/Grand_Order "wikilink")（[TYPE-MOON](../Page/TYPE-MOON.md "wikilink") / 一部キャラクターデザイン）
   - [ファイアーエムブレム ヒーローズ](https://ja.wikipedia.org/wiki/ファイアーエムブレム_ヒーローズ "wikilink")（[任天堂](../Page/任天堂.md "wikilink") / 一部キャラクターデザイン）
   - [新サクラ大戦](https://ja.wikipedia.org/wiki/新サクラ大戦 "wikilink")（[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink") / ゲストキャラクターデザイン）

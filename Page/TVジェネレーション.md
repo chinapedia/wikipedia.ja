@@ -1,15 +1,15 @@
 > この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
 
 
-『**MOGITATE\!TVジェネレーション**』（もぎたて テレビジェネレーション）は、[1993年](../Page/1993年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink")から[1994年](../Page/1994年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")まで[TBS系列局で放送されていた](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[TBS製作の](../Page/TBSテレビ.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。全47回。放送時間は毎週[木曜](https://ja.wikipedia.org/wiki/木曜日 "wikilink") 22:00 - 22:54 （[日本標準時](../Page/日本標準時.md "wikilink")）。
+『**MOGITATE\!TVジェネレーション**』（もぎたて テレビジェネレーション）は、[1993年](../Page/1993年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink")から[1994年](../Page/1994年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")まで[TBS系列局で放送されていた](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[TBS製作の](../Page/TBSテレビ.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。全47回。放送時間は毎週[木曜](../Page/木曜日.md "wikilink") 22:00 - 22:54 （[日本標準時](../Page/日本標準時.md "wikilink")）。
 
 ## 概要
 
-放送開始1年前まで日曜19:30枠で放送されていた『[テレビ探偵団](https://ja.wikipedia.org/wiki/テレビ探偵団 "wikilink")』のリニューアル版で、[山田邦子](../Page/山田邦子.md "wikilink")と[辰巳琢郎](../Page/辰巳琢郎.md "wikilink")と[松村邦洋](../Page/松村邦洋.md "wikilink")が司会を務めていた。番組は毎回スタジオにゲストを招き、その人物の半生とゆかりの映像、そして過去のテレビ番組、ニュース、コマーシャルなどの映像を進行に用いていた。タイトルに「**MOGITATE\!**」とあることから推察できるとおり、当時山田が並行出演していた『[MOGITATE\!バナナ大使](../Page/MOGITATE!バナナ大使.md "wikilink")』のスタッフの一部が参加していた。(ただし番組中で「MOGITATE\!」という表現が使われたことは一度もない)
+放送開始1年前まで日曜19:30枠で放送されていた『[テレビ探偵団](../Page/テレビ探偵団.md "wikilink")』のリニューアル版で、[山田邦子](../Page/山田邦子.md "wikilink")と[辰巳琢郎](../Page/辰巳琢郎.md "wikilink")と[松村邦洋](../Page/松村邦洋.md "wikilink")が司会を務めていた。番組は毎回スタジオにゲストを招き、その人物の半生とゆかりの映像、そして過去のテレビ番組、ニュース、コマーシャルなどの映像を進行に用いていた。タイトルに「**MOGITATE\!**」とあることから推察できるとおり、当時山田が並行出演していた『[MOGITATE\!バナナ大使](../Page/MOGITATE!バナナ大使.md "wikilink")』のスタッフの一部が参加していた。(ただし番組中で「MOGITATE\!」という表現が使われたことは一度もない)
 
 『テレビ探偵団』は[三菱電機](../Page/三菱電機.md "wikilink")の一社提供だったが、本番組は三菱電機を含む複数社提供で放送されていた。
 
-スタジオゲストは基本1名(1グループ)だが、メインゲストの関係者が特別ゲストとして登場するケースもあった。第19回では[柳沢慎吾](https://ja.wikipedia.org/wiki/柳沢慎吾 "wikilink")の憧れの人として[清水健太郎](https://ja.wikipedia.org/wiki/清水健太郎 "wikilink")が登場し生歌を披露した。第40回では、ゲスト[伊藤かずえ](../Page/伊藤かずえ.md "wikilink")とレギュラー３人の憧れの人として、[尾崎紀世彦](https://ja.wikipedia.org/wiki/尾崎紀世彦 "wikilink")、[伊藤麻衣子](../Page/いとうまい子.md "wikilink")、[あべ静江](../Page/あべ静江.md "wikilink")、宮崎謙実が出演し、尾崎とあべはスタジオで生歌を披露した。
+スタジオゲストは基本1名(1グループ)だが、メインゲストの関係者が特別ゲストとして登場するケースもあった。第19回では[柳沢慎吾](../Page/柳沢慎吾.md "wikilink")の憧れの人として[清水健太郎](https://ja.wikipedia.org/wiki/清水健太郎 "wikilink")が登場し生歌を披露した。第40回では、ゲスト[伊藤かずえ](../Page/伊藤かずえ.md "wikilink")とレギュラー３人の憧れの人として、[尾崎紀世彦](https://ja.wikipedia.org/wiki/尾崎紀世彦 "wikilink")、[伊藤麻衣子](../Page/いとうまい子.md "wikilink")、[あべ静江](../Page/あべ静江.md "wikilink")、宮崎謙実が出演し、尾崎とあべはスタジオで生歌を披露した。
 
 最終回では、当時TBSのアナウンサーだった[渡辺真理](../Page/渡辺真理.md "wikilink")の進行の下、司会3人のリクエスト番組をクイズ仕立てで紹介した。そして番組のラストでは、引き続き山田邦子と松村邦洋が司会を務める土曜19:00枠の後継番組『[テレビの王様](../Page/テレビの王様.md "wikilink")』の宣伝をして締めくくった。(渡辺真理は、最終回以外にも企画コーナーの司会役として、第32回と第40回に出演している)
 
@@ -25,28 +25,28 @@
 
   - 第01回　(1993年04月15日)　[松田聖子](../Page/松田聖子.md "wikilink")
   - 第02回　(1993年04月22日)　[萩本欽一](../Page/萩本欽一.md "wikilink")
-  - 第03回　(1993年04月29日)　[高嶋政伸](https://ja.wikipedia.org/wiki/高嶋政伸 "wikilink")
-  - 第04回　(1993年05月06日)　[上岡龍太郎](../Page/上岡龍太郎.md "wikilink")、(特別ゲスト)　[和田弘とマヒナスターズ](../Page/和田弘とマヒナスターズ.md "wikilink")&[内田あかり](https://ja.wikipedia.org/wiki/内田あかり "wikilink")
+  - 第03回　(1993年04月29日)　[高嶋政伸](../Page/高嶋政伸.md "wikilink")
+  - 第04回　(1993年05月06日)　[上岡龍太郎](../Page/上岡龍太郎.md "wikilink")、(特別ゲスト)　[和田弘とマヒナスターズ](../Page/和田弘とマヒナスターズ.md "wikilink")&[内田あかり](../Page/内田あかり.md "wikilink")
   - 第05回　(1993年05月13日)　[沢口靖子](https://ja.wikipedia.org/wiki/沢口靖子 "wikilink")
-  - 第06回　(1993年05月20日)　[東ちづる](https://ja.wikipedia.org/wiki/東ちづる "wikilink")
+  - 第06回　(1993年05月20日)　[東ちづる](../Page/東ちづる.md "wikilink")
   - 第07回　(1993年05月27日)　[津川雅彦](../Page/津川雅彦.md "wikilink")
-  - 第08回　(1993年06月03日)　[池谷幸雄](https://ja.wikipedia.org/wiki/池谷幸雄 "wikilink")、(特別ゲスト)　[横森良造](../Page/横森良造.md "wikilink")
+  - 第08回　(1993年06月03日)　[池谷幸雄](../Page/池谷幸雄.md "wikilink")、(特別ゲスト)　[横森良造](../Page/横森良造.md "wikilink")
   - 第09回　(1993年06月10日)　[時任三郎](https://ja.wikipedia.org/wiki/時任三郎 "wikilink")、(特別ゲスト)　[ペギー葉山](../Page/ペギー葉山.md "wikilink")、[秋満義孝](https://ja.wikipedia.org/wiki/秋満義孝 "wikilink")(ピアノ演奏)
   - 第10回　(1993年06月17日)　[地井武男](../Page/地井武男.md "wikilink")
-  - 第11回　(1993年06月24日)　[田中義剛](https://ja.wikipedia.org/wiki/田中義剛 "wikilink")
+  - 第11回　(1993年06月24日)　[田中義剛](../Page/田中義剛.md "wikilink")
   - 第12回　(1993年07月01日)　[和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")
   - 第13回　(1993年07月08日)　[逸見政孝](../Page/逸見政孝.md "wikilink")
   - 第14回　(1993年07月15日)　[小堺一機](../Page/小堺一機.md "wikilink")
-  - 第15回　(1993年07月22日)　[長山藍子](https://ja.wikipedia.org/wiki/長山藍子 "wikilink")
+  - 第15回　(1993年07月22日)　[長山藍子](../Page/長山藍子.md "wikilink")
   - 第16回　(1993年07月29日)　[榊原郁恵](../Page/榊原郁恵.md "wikilink")
   - 第17回　(1993年08月05日)　[ダチョウ倶楽部](../Page/ダチョウ倶楽部.md "wikilink")
-  - 第18回　(1993年08月12日)　[酒井和歌子](https://ja.wikipedia.org/wiki/酒井和歌子 "wikilink")
-  - 第19回　(1993年08月19日)　[柳沢慎吾](https://ja.wikipedia.org/wiki/柳沢慎吾 "wikilink")、(特別ゲスト)　[清水健太郎](https://ja.wikipedia.org/wiki/清水健太郎 "wikilink")
+  - 第18回　(1993年08月12日)　[酒井和歌子](../Page/酒井和歌子.md "wikilink")
+  - 第19回　(1993年08月19日)　[柳沢慎吾](../Page/柳沢慎吾.md "wikilink")、(特別ゲスト)　[清水健太郎](https://ja.wikipedia.org/wiki/清水健太郎 "wikilink")
   - 第20回　(1993年08月26日)　[野際陽子](../Page/野際陽子.md "wikilink")
   - 第21回　(1993年09月02日)　[峰竜太](../Page/峰竜太.md "wikilink")
   - 第22回　(1993年09月09日)　[沢田亜矢子](../Page/沢田亜矢子.md "wikilink")
   - 第23回　(1993年09月16日)　[西城秀樹](https://ja.wikipedia.org/wiki/西城秀樹 "wikilink")
-  - 第24回　(1993年09月23日)　[山口美江](https://ja.wikipedia.org/wiki/山口美江 "wikilink")
+  - 第24回　(1993年09月23日)　[山口美江](../Page/山口美江.md "wikilink")
   - 第25回　(1993年10月14日)　[柳葉敏郎](../Page/柳葉敏郎.md "wikilink")
   - 第26回　(1993年10月21日)　[森末慎二](../Page/森末慎二.md "wikilink")
   - 第27回　(1993年10月28日)　[片岡鶴太郎](../Page/片岡鶴太郎.md "wikilink")
@@ -58,17 +58,17 @@
   - 第33回　(1993年12月09日)　[井上順](../Page/井上順.md "wikilink")
   - 第34回　(1993年12月16日)　[関根勤](../Page/関根勤.md "wikilink")
   - 第35回　(1993年12月23日)　[伊東四朗](../Page/伊東四朗.md "wikilink")
-  - 第36回　(1994年01月06日)　[近藤真彦](https://ja.wikipedia.org/wiki/近藤真彦 "wikilink")
+  - 第36回　(1994年01月06日)　[近藤真彦](../Page/近藤真彦.md "wikilink")
   - 第37回　(1994年01月13日)　[多岐川裕美](../Page/多岐川裕美.md "wikilink")
   - 第38回　(1994年01月20日)　[林隆三](../Page/林隆三.md "wikilink")
   - 第39回　(1994年01月27日)　[西郷輝彦](https://ja.wikipedia.org/wiki/西郷輝彦 "wikilink")
   - 第40回　(1994年02月03日)　[伊藤 かずえ](../Page/伊藤かずえ.md "wikilink")、（特別ゲスト）[伊藤麻衣子](../Page/いとうまい子.md "wikilink")、[あべ静江](../Page/あべ静江.md "wikilink")、[尾崎紀世彦](https://ja.wikipedia.org/wiki/尾崎紀世彦 "wikilink")、宮崎謙実
   - 第41回　(1994年02月10日)　[渡辺徹](https://ja.wikipedia.org/wiki/渡辺徹_\(俳優\) "wikilink")
-  - 第42回　(1994年02月17日)　[山本陽子](https://ja.wikipedia.org/wiki/山本陽子 "wikilink")
+  - 第42回　(1994年02月17日)　[山本陽子](../Page/山本陽子.md "wikilink")
   - 第43回　(1994年02月24日)　[渡辺正行](../Page/渡辺正行.md "wikilink")
-  - 第44回　(1994年03月03日)　[竜雷太](https://ja.wikipedia.org/wiki/竜雷太 "wikilink")
-  - 第45回　(1994年03月10日)　[小林亜星](../Page/小林亜星.md "wikilink")、(特別ゲスト)　[高橋元太郎](https://ja.wikipedia.org/wiki/高橋元太郎 "wikilink")、カータン、ガンちゃん(石村治樹)、しんぺいちゃん([坂本新兵](../Page/坂本新兵.md "wikilink"))
-  - 第46回　(1994年03月17日)　[谷啓](https://ja.wikipedia.org/wiki/谷啓 "wikilink")
+  - 第44回　(1994年03月03日)　[竜雷太](../Page/竜雷太.md "wikilink")
+  - 第45回　(1994年03月10日)　[小林亜星](../Page/小林亜星.md "wikilink")、(特別ゲスト)　[高橋元太郎](../Page/高橋元太郎.md "wikilink")、カータン、ガンちゃん(石村治樹)、しんぺいちゃん([坂本新兵](../Page/坂本新兵.md "wikilink"))
+  - 第46回　(1994年03月17日)　[谷啓](../Page/谷啓.md "wikilink")
   - 第47回　(1994年03月24日)　最終回
 
 ## スタッフ
@@ -101,8 +101,8 @@
     視聴者が懐かしのテレビ番組の中で見つけた面白いシーンを、その番組のオープニングと併せて紹介していたコーナー。以下に紹介例を示す。
 
       - 『[オバケのQ太郎](../Page/オバケのQ太郎.md "wikilink")（第1作）』（TBS）が日曜19:30枠での放送最終日となる1967年3月26日放送の第83回Bパートで、ギャングに捕まったオバQと正太を、翌週放送開始の『[パーマン（第1作）](https://ja.wikipedia.org/wiki/パーマン#1作目 "wikilink")』のパーマン1号が助ける。
-      - 『[Gu-Guガンモ](https://ja.wikipedia.org/wiki/Gu-Guガンモ#アニメ "wikilink")』（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）で、半平太が姉・つくねの必殺技「タマクダキ」を破ろうと股の上に[剣山](https://ja.wikipedia.org/wiki/剣山 "wikilink")を仕掛けるが、うっかり剣山が裏返しになり、逆に痛い目に遭う。
-      - 『[巨人の星](https://ja.wikipedia.org/wiki/巨人の星_\(アニメ\) "wikilink")』（[よみうりテレビ](../Page/讀賣テレビ放送.md "wikilink")）第106話で、[中日に入団した](https://ja.wikipedia.org/wiki/中日ドラゴンズ "wikilink")[アームストロング・オズマ](../Page/アームストロング・オズマ.md "wikilink")の練習相手の投手の中に[板東英二](../Page/板東英二.md "wikilink")がいた。後年、板東が出演する番組でしばしば流された同シーンを、最初にピックアップして放送したのは本番組である。
+      - 『[Gu-Guガンモ](https://ja.wikipedia.org/wiki/Gu-Guガンモ#アニメ "wikilink")』（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）で、半平太が姉・つくねの必殺技「タマクダキ」を破ろうと股の上に[剣山](../Page/剣山.md "wikilink")を仕掛けるが、うっかり剣山が裏返しになり、逆に痛い目に遭う。
+      - 『[巨人の星](https://ja.wikipedia.org/wiki/巨人の星_\(アニメ\) "wikilink")』（[よみうりテレビ](../Page/讀賣テレビ放送.md "wikilink")）第106話で、[中日に入団した](../Page/中日ドラゴンズ.md "wikilink")[アームストロング・オズマ](../Page/アームストロング・オズマ.md "wikilink")の練習相手の投手の中に[板東英二](../Page/板東英二.md "wikilink")がいた。後年、板東が出演する番組でしばしば流された同シーンを、最初にピックアップして放送したのは本番組である。
       - 第８回では『[ミラーマン](../Page/ミラーマン.md "wikilink")』の替歌があったという視聴者ハガキから、アコーディオン奏者の横森良造をゲストに迎え、司会3人が子供の頃に流行った替歌を披露した。
 
   - ニュースジェネレーション
@@ -114,7 +114,7 @@
   - なんでも調査局
     辰巳が担当していたコーナーで、毎回テーマを決めて特集を組み、VTRを作成して解説していた。例として、刑事ドラマ、スポ根、[大河ドラマ](../Page/大河ドラマ.md "wikilink")、[オールスター大運動会などの特集があった](https://ja.wikipedia.org/wiki/オールスター紅白大運動会 "wikilink")。初めは単に「特集」と呼んでいたが、番組中盤から「なんでも調査局」と命名された。
 
-      - 第45回では、「[うっかり八兵衛](https://ja.wikipedia.org/wiki/うっかり八兵衛 "wikilink")と巡る京都太秦時代劇の旅」というツアーを実施、うっかり八兵衛役の[高橋元太郎](https://ja.wikipedia.org/wiki/高橋元太郎 "wikilink")はスタジオにも登場した。
+      - 第45回では、「[うっかり八兵衛](https://ja.wikipedia.org/wiki/うっかり八兵衛 "wikilink")と巡る京都太秦時代劇の旅」というツアーを実施、うっかり八兵衛役の[高橋元太郎](../Page/高橋元太郎.md "wikilink")はスタジオにも登場した。
 
   - おハガキプレイバック
     松村が担当していたコーナーで、視聴者から寄せられた懐かしのテレビ番組に出ていた意外な人物などを紹介する。『テレビ探偵団』の「私だけが知っている」に相当するコーナー。以下に紹介例を示す。
@@ -135,14 +135,14 @@
 
 ## ゲスト
 
-  - [竜雷太](https://ja.wikipedia.org/wiki/竜雷太 "wikilink") - ゲストの半生をつづるコーナーでは「[太陽にほえろ\!](../Page/太陽にほえろ!.md "wikilink")」で竜が演じた石塚誠の生涯が自身の半生として紹介された。
+  - [竜雷太](../Page/竜雷太.md "wikilink") - ゲストの半生をつづるコーナーでは「[太陽にほえろ\!](../Page/太陽にほえろ!.md "wikilink")」で竜が演じた石塚誠の生涯が自身の半生として紹介された。
   - [ダチョウ倶楽部](../Page/ダチョウ倶楽部.md "wikilink") - ギャグを紹介するコーナーでは、「ムッシュムラムラ」の原典である[関敬六](../Page/関敬六.md "wikilink")がVTR出演した。
 
 \--\>
 
 ## 関連項目
 
-  - [テレビ探偵団](https://ja.wikipedia.org/wiki/テレビ探偵団 "wikilink")
+  - [テレビ探偵団](../Page/テレビ探偵団.md "wikilink")
   - [テレビの王様](../Page/テレビの王様.md "wikilink")
 
 [Category:1993年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1993年のテレビ番組_\(日本\) "wikilink") [Category:TBSのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:TBSのバラエティ番組の歴史 "wikilink") [Category:日本のテレビ番組の歴史](https://ja.wikipedia.org/wiki/Category:日本のテレビ番組の歴史 "wikilink") [Category:山田邦子](https://ja.wikipedia.org/wiki/Category:山田邦子 "wikilink")

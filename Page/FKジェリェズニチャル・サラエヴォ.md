@@ -5,9 +5,9 @@
 
 ## 概要
 
-[1921年](../Page/1921年.md "wikilink")9月19日、RSDジェリェズニチャル（）として創設。後に総合スポーツクラブ、SDジェリェズニチャル（）の一部門となった。クラブはサッカーの他に11部門を持つ。「ジェリェズニチャル」とは鉄道従業員の意で、クラブが鉄道従業員達によって設立された事に由来する\[1\]。略して「ジェーリョ（、欲望や願望といった意味も持つ）」、またはチームカラーから「プラヴィ（、青）」の愛称で呼ばれる。[FKサラエヴォ](https://ja.wikipedia.org/wiki/FKサラエヴォ "wikilink")との対戦はとして盛り上がりを見せる。
+[1921年](../Page/1921年.md "wikilink")9月19日、RSDジェリェズニチャル（）として創設。後に総合スポーツクラブ、SDジェリェズニチャル（）の一部門となった。クラブはサッカーの他に11部門を持つ。「ジェリェズニチャル」とは鉄道従業員の意で、クラブが鉄道従業員達によって設立された事に由来する\[1\]。略して「ジェーリョ（、欲望や願望といった意味も持つ）」、またはチームカラーから「プラヴィ（、青）」の愛称で呼ばれる。[FKサラエヴォ](../Page/FKサラエヴォ.md "wikilink")との対戦はとして盛り上がりを見せる。
 
-[1947年](../Page/1947年.md "wikilink")[ユーゴスラビアリーグに参加し](../Page/ユーゴスラビア・プルヴァ・リーガ.md "wikilink")、[1972年](../Page/1972年.md "wikilink")にはリーグ優勝を果たした。1部リーグには述べ34シーズン参加し、ボスニア・ヘルツェゴビナのクラブではFKサラエヴォに次ぐ数字となる\[2\]。[UEFA](https://ja.wikipedia.org/wiki/UEFA "wikilink")主催の国際大会ではFKサラエヴォの実績を上回り、[イビチャ・オシム](../Page/イビチャ・オシム.md "wikilink")がクラブを率いた[UEFAカップ1984-85](https://ja.wikipedia.org/wiki/UEFAカップ1984-85 "wikilink")では準決勝まで進出した。[国際サッカー歴史統計連盟](https://ja.wikipedia.org/wiki/国際サッカー歴史統計連盟 "wikilink") (IFFHS) が発表した20世紀ヨーロッパにおけるクラブランキングでは、ボスニア・ヘルツェゴビナのクラブとしては最上位の110位にランクされた\[3\]。イビチャの息子である[アマル・オシム](https://ja.wikipedia.org/wiki/アマル・オシム "wikilink")も選手、監督として在籍し、監督として2009-10シーズン終了時までに3回の優勝を果たしている。
+[1947年](../Page/1947年.md "wikilink")[ユーゴスラビアリーグに参加し](../Page/ユーゴスラビア・プルヴァ・リーガ.md "wikilink")、[1972年](../Page/1972年.md "wikilink")にはリーグ優勝を果たした。1部リーグには述べ34シーズン参加し、ボスニア・ヘルツェゴビナのクラブではFKサラエヴォに次ぐ数字となる\[2\]。[UEFA](https://ja.wikipedia.org/wiki/UEFA "wikilink")主催の国際大会ではFKサラエヴォの実績を上回り、[イビチャ・オシム](../Page/イビチャ・オシム.md "wikilink")がクラブを率いた[UEFAカップ1984-85](https://ja.wikipedia.org/wiki/UEFAカップ1984-85 "wikilink")では準決勝まで進出した。[国際サッカー歴史統計連盟](https://ja.wikipedia.org/wiki/国際サッカー歴史統計連盟 "wikilink") (IFFHS) が発表した20世紀ヨーロッパにおけるクラブランキングでは、ボスニア・ヘルツェゴビナのクラブとしては最上位の110位にランクされた\[3\]。イビチャの息子である[アマル・オシム](../Page/アマル・オシム.md "wikilink")も選手、監督として在籍し、監督として2009-10シーズン終了時までに3回の優勝を果たしている。
 
 ホームスタジアムはスタディオン・グルバヴィツァ。[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")に開場した。スタジアムが立地するグルバヴィツァ地区はサラエヴォ郊外南西部に位置する住宅街で、内戦時には激しい市街戦が繰り広げられた（[サラエヴォ包囲](https://ja.wikipedia.org/wiki/サラエヴォ包囲 "wikilink")を参照）。内戦時の当地はセルビア人の占領下にあったため閉場され、[1996年](../Page/1996年.md "wikilink")に使用が再開された。この地区を題材にした映画[サラエボの花](https://ja.wikipedia.org/wiki/サラエボの花 "wikilink")の公開時には、グルバヴィツァで8年間指揮を執ったイビチャ・オシムのコメントが寄せられた\[4\]。[2004年](../Page/2004年.md "wikilink")に改築が全て終了し、球技専用場としては国内最大規模の24,000人収容となった\[5\]。スタジアムの横には新しくトレーニンググラウンドが設置され、[蒸気機関車](../Page/蒸気機関車.md "wikilink")が置かれている。
 
@@ -189,7 +189,7 @@
 <td><p>1970-71</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/インターシティーズ・フェアーズカップ" title="wikilink">インターシティーズ・フェアーズカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RSCアンデルレヒト" title="wikilink">アンデルレヒト</a></p></td>
+<td><p><a href="../Page/RSCアンデルレヒト.md" title="wikilink">アンデルレヒト</a></p></td>
 <td><p>3–4</p></td>
 <td><p>4-5</p></td>
 <td><p>'''7-9</p></td>
@@ -199,7 +199,7 @@
 <td><p>1971-72</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1971-72" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クラブ・ブルッヘ" title="wikilink">クラブ・ブルッヘ</a></p></td>
+<td><p><a href="../Page/クラブ・ブルッヘ.md" title="wikilink">クラブ・ブルッヘ</a></p></td>
 <td><p>3–0</p></td>
 <td><p>3-1</p></td>
 <td><p>'''6–1</p></td>
@@ -210,7 +210,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ボローニャFC" title="wikilink">ボローニャ</a></p></td>
 <td><p>1–1</p></td>
 <td><p>2–2</p></td>
-<td><p>'''3-3 (<a href="https://ja.wikipedia.org/wiki/アウェーゴール" title="wikilink">a</a>)</p></td>
+<td><p>'''3-3 (<a href="../Page/アウェーゴール.md" title="wikilink">a</a>)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -258,7 +258,7 @@
 </tr>
 <tr class="odd">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCシオン" title="wikilink">シオン</a></p></td>
+<td><p><a href="../Page/FCシオン.md" title="wikilink">シオン</a></p></td>
 <td><p>2–1</p></td>
 <td><p>1–1</p></td>
 <td><p>'''3-1</p></td>
@@ -278,7 +278,7 @@
 </tr>
 <tr class="odd">
 <td><p>準々決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCディナモ・ミンスク" title="wikilink">ディナモ・ミンスク</a></p></td>
+<td><p><a href="../Page/FCディナモ・ミンスク.md" title="wikilink">ディナモ・ミンスク</a></p></td>
 <td><p>2–0</p></td>
 <td><p>1–1</p></td>
 <td><p>'''3-1</p></td>
@@ -300,7 +300,7 @@
 <td><p>1998-99</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1998-99" title="wikilink">UEFAカップ</a></p></td>
 <td><p>予選プレーオフ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/キルマーノックFC" title="wikilink">キルマーノック</a></p></td>
+<td><p><a href="../Page/キルマーノックFC.md" title="wikilink">キルマーノック</a></p></td>
 <td><p>1–1</p></td>
 <td><p>0-1</p></td>
 <td><p>'''1-2</p></td>
@@ -310,7 +310,7 @@
 <td><p>2000-01</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ_2000-01" title="wikilink">UEFAカップ</a></p></td>
 <td><p>予選</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヴィスワ・クラクフ" title="wikilink">ヴィスワ・クラクフ</a></p></td>
+<td><p><a href="../Page/ヴィスワ・クラクフ.md" title="wikilink">ヴィスワ・クラクフ</a></p></td>
 <td><p>0–0</p></td>
 <td><p>1-3</p></td>
 <td><p>'''1-3</p></td>
@@ -348,7 +348,7 @@
 </tr>
 <tr class="even">
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ニューカッスル・ユナイテッドFC" title="wikilink">ニューカッスル・ユナイテッド</a></p></td>
+<td><p><a href="../Page/ニューカッスル・ユナイテッドFC.md" title="wikilink">ニューカッスル・ユナイテッド</a></p></td>
 <td><p>0–1</p></td>
 <td><p>0-4</p></td>
 <td><p>'''0-5</p></td>
@@ -359,7 +359,7 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ_2002-03" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マラガCF" title="wikilink">マラガ</a></p></td>
+<td><p><a href="../Page/マラガCF.md" title="wikilink">マラガ</a></p></td>
 <td><p>0–0</p></td>
 <td><p>0-1</p></td>
 <td><p>'''0-1</p></td>
@@ -428,7 +428,7 @@
 </tr>
 <tr class="even">
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マッカビ・テルアビブFC" title="wikilink">マッカビ・テルアビブ</a></p></td>
+<td><p><a href="../Page/マッカビ・テルアビブFC.md" title="wikilink">マッカビ・テルアビブ</a></p></td>
 <td><p>0–2</p></td>
 <td><p>0–6</p></td>
 <td><p>'''0–8</p></td>
@@ -518,7 +518,7 @@
 </tr>
 <tr class="odd">
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/AIKソルナ" title="wikilink">AIK</a></p></td>
+<td><p><a href="../Page/AIKソルナ.md" title="wikilink">AIK</a></p></td>
 <td><p>0-0</p></td>
 <td><p>0-2</p></td>
 <td><p>'''0-2</p></td>
@@ -551,7 +551,7 @@
 
 ## 現所属メンバー
 
-\[6\]    ([第2主将](https://ja.wikipedia.org/wiki/主将 "wikilink"))      ([主将](https://ja.wikipedia.org/wiki/キャプテン_\(サッカー\) "wikilink"))
+\[6\]    ([第2主将](../Page/主将.md "wikilink"))      ([主将](https://ja.wikipedia.org/wiki/キャプテン_\(サッカー\) "wikilink"))
 
 ## 歴代所属選手
 
@@ -563,9 +563,9 @@
 
   - [レフィク・シャバナジョヴィッチ](https://ja.wikipedia.org/wiki/レフィク・シャバナジョヴィッチ "wikilink") 1983-1987
 
-  - [アマル・オシム](https://ja.wikipedia.org/wiki/アマル・オシム "wikilink") 1986-1991、1997-1998
+  - [アマル・オシム](../Page/アマル・オシム.md "wikilink") 1986-1991、1997-1998
 
-  - [ラデ・ボグダノビッチ](https://ja.wikipedia.org/wiki/ラデ・ボグダノビッチ "wikilink") 1987-1992
+  - [ラデ・ボグダノビッチ](../Page/ラデ・ボグダノビッチ.md "wikilink") 1987-1992
 
   - [マリオ・スタニッチ](https://ja.wikipedia.org/wiki/マリオ・スタニッチ "wikilink") 1988-1992
 

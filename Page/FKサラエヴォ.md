@@ -97,7 +97,7 @@
 <td><p>1980-81</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1980-81" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ハンブルガーSV" title="wikilink">HSV</a></p></td>
+<td><p><a href="../Page/ハンブルガーSV.md" title="wikilink">HSV</a></p></td>
 <td><p>3–3</p></td>
 <td><p>2–4</p></td>
 <td><p>'''5–7</p></td>
@@ -125,7 +125,7 @@
 </tr>
 <tr class="even">
 <td><p>3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RSCアンデルレヒト" title="wikilink">アンデルレヒト</a></p></td>
+<td><p><a href="../Page/RSCアンデルレヒト.md" title="wikilink">アンデルレヒト</a></p></td>
 <td><p>1–0</p></td>
 <td><p>1–6</p></td>
 <td><p>'''2–6</p></td>
@@ -176,7 +176,7 @@
 </tr>
 <tr class="odd">
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ベシクタシュJK" title="wikilink">ベシクタシュ</a></p></td>
+<td><p><a href="../Page/ベシクタシュJK.md" title="wikilink">ベシクタシュ</a></p></td>
 <td><p>0–5</p></td>
 <td><p>2–2</p></td>
 <td><p>'''2–7</p></td>
@@ -229,14 +229,14 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/KRCヘンク" title="wikilink">ヘンク</a></p></td>
 <td><p>0–1</p></td>
 <td><p>2–1</p></td>
-<td><p>'''2–2 (<a href="https://ja.wikipedia.org/wiki/アウェーゴール" title="wikilink">a</a>)</p></td>
+<td><p>'''2–2 (<a href="../Page/アウェーゴール.md" title="wikilink">a</a>)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCディナモ・キエフ" title="wikilink">ディナモ・キエフ</a></p></td>
+<td><p><a href="../Page/FCディナモ・キエフ.md" title="wikilink">ディナモ・キエフ</a></p></td>
 <td><p>0–1</p></td>
 <td><p>0–3</p></td>
 <td><p>'''0–4</p></td>
@@ -297,7 +297,7 @@
 </tr>
 <tr class="odd">
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ACスパルタ・プラハ" title="wikilink">スパルタ・プラハ</a></p></td>
+<td><p><a href="../Page/ACスパルタ・プラハ.md" title="wikilink">スパルタ・プラハ</a></p></td>
 <td><p>0–2</p></td>
 <td><p>0–5</p></td>
 <td><p>'''0–7</p></td>
@@ -317,7 +317,7 @@
 </tr>
 <tr class="odd">
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レフスキ・ソフィア" title="wikilink">レフスキ・ソフィア</a></p></td>
+<td><p><a href="../Page/レフスキ・ソフィア.md" title="wikilink">レフスキ・ソフィア</a></p></td>
 <td><p>3–1</p></td>
 <td><p>0–1</p></td>
 <td><p>'''3–2</p></td>
@@ -378,7 +378,7 @@
 </tr>
 <tr class="odd">
 <td><p>プレーオフ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ボルシア・メンヒェングラートバッハ" title="wikilink">ボルシアMG</a></p></td>
+<td><p><a href="../Page/ボルシア・メンヒェングラートバッハ.md" title="wikilink">ボルシアMG</a></p></td>
 <td><p>2–3</p></td>
 <td><p>0–7</p></td>
 <td><p>'''2–10</p></td>
@@ -419,7 +419,7 @@
 </tr>
 <tr class="odd">
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アタランタBC" title="wikilink">アタランタ</a></p></td>
+<td><p><a href="../Page/アタランタBC.md" title="wikilink">アタランタ</a></p></td>
 <td><p>0–8</p></td>
 <td><p>2–2</p></td>
 <td><p>'''2–10</p></td>
@@ -431,7 +431,7 @@
 <td><p>2019-20</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2019-20" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>予選1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/セルティックFC" title="wikilink">セルティック</a></p></td>
+<td><p><a href="../Page/セルティックFC.md" title="wikilink">セルティック</a></p></td>
 <td><p>1-3</p></td>
 <td><p>1-2</p></td>
 <td><p>'''2-5</p></td>

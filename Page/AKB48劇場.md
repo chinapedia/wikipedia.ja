@@ -1,11 +1,11 @@
 > この記事は[AKB48](https://ja.wikipedia.org/wiki/AKB48)から翻訳されています。
 
 
-**AKB48劇場**（エーケービーフォーティエイトシアター、 ）は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[外神田](../Page/外神田.md "wikilink")（[秋葉原](https://ja.wikipedia.org/wiki/秋葉原 "wikilink")電気街）の[ドン・キホーテ秋葉原店](../Page/ドン・キホーテ_\(企業\).md "wikilink")\[1\]8階に所在する[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")専用の[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")である。
+**AKB48劇場**（エーケービーフォーティエイトシアター、 ）は、[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[外神田](../Page/外神田.md "wikilink")（[秋葉原](https://ja.wikipedia.org/wiki/秋葉原 "wikilink")電気街）の[ドン・キホーテ秋葉原店](../Page/ドン・キホーテ_\(企業\).md "wikilink")\[1\]8階に所在する[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")専用の[ライブハウス](../Page/ライブハウス.md "wikilink")である。
 
 ## 概説
 
-[Akihabara_Main_Street_at_1-02_p.m._on_Sunday_23_January_2011.JPG](https://ja.wikipedia.org/wiki/File:Akihabara_Main_Street_at_1-02_p.m._on_Sunday_23_January_2011.JPG "fig:Akihabara_Main_Street_at_1-02_p.m._on_Sunday_23_January_2011.JPG")と[秋葉原UDX](../Page/秋葉原UDX.md "wikilink")正面の通りが交わる南角に位置する。\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:AKB48_theater.jpg "wikilink") 「会いに行けるアイドル」というコンセプトを体現したAKB48の活動拠点である。2005年12月8日にデビュー公演が行われた。本劇場は[AKB48の公演でのみ運用されているが](https://ja.wikipedia.org/wiki/AKB48の劇場公演 "wikilink")、AKB48姉妹グループの出張公演が開催されることもある。2009年8月から2012年3月の間は[SDN48](https://ja.wikipedia.org/wiki/SDN48 "wikilink")と共用していた。本劇場の竣工は2005年であるが、劇場施設そのものはAKB48グループでは[大阪市](../Page/大阪市.md "wikilink")・[難波](https://ja.wikipedia.org/wiki/難波 "wikilink")の[NMB48劇場](https://ja.wikipedia.org/wiki/NMB48劇場 "wikilink")（1999年竣工の旧[baseよしもと](https://ja.wikipedia.org/wiki/baseよしもと "wikilink")、2011年改装開業）の方が古い。
+[Akihabara_Main_Street_at_1-02_p.m._on_Sunday_23_January_2011.JPG](https://ja.wikipedia.org/wiki/File:Akihabara_Main_Street_at_1-02_p.m._on_Sunday_23_January_2011.JPG "fig:Akihabara_Main_Street_at_1-02_p.m._on_Sunday_23_January_2011.JPG")と[秋葉原UDX](../Page/秋葉原UDX.md "wikilink")正面の通りが交わる南角に位置する。\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:AKB48_theater.jpg "wikilink") 「会いに行けるアイドル」というコンセプトを体現したAKB48の活動拠点である。2005年12月8日にデビュー公演が行われた。本劇場は[AKB48の公演でのみ運用されているが](https://ja.wikipedia.org/wiki/AKB48の劇場公演 "wikilink")、AKB48姉妹グループの出張公演が開催されることもある。2009年8月から2012年3月の間は[SDN48](https://ja.wikipedia.org/wiki/SDN48 "wikilink")と共用していた。本劇場の竣工は2005年であるが、劇場施設そのものはAKB48グループでは[大阪市](../Page/大阪市.md "wikilink")・[難波](../Page/難波.md "wikilink")の[NMB48劇場](https://ja.wikipedia.org/wiki/NMB48劇場 "wikilink")（1999年竣工の旧[baseよしもと](https://ja.wikipedia.org/wiki/baseよしもと "wikilink")、2011年改装開業）の方が古い。
 
 ## 劇場の立地
 
@@ -31,7 +31,7 @@
 
 ### どんでん返し
 
-ステージ後方には、回転式の壁が10枚ある。そのうち、上手・下手側のそれぞれ2枚が開閉可能な黒の[ブラインド](https://ja.wikipedia.org/wiki/ブラインド "wikilink")となっており、それ以外の6枚は裏が[鏡](../Page/鏡.md "wikilink")となっている。鏡の前にはパネルをはめ込むことができる。シアターの女神公演等、鏡を使用する公演では開演前に**「インターネット中継に観客が（鏡を通じて）映りこむことがある」**旨の周知がなされる。中央の2枚の表には照明器具が埋め込まれている。出演メンバーは、曲目により[どんでん返しから登退場することもある](../Page/強盗返.md "wikilink")。
+ステージ後方には、回転式の壁が10枚ある。そのうち、上手・下手側のそれぞれ2枚が開閉可能な黒の[ブラインド](../Page/ブラインド.md "wikilink")となっており、それ以外の6枚は裏が[鏡](../Page/鏡.md "wikilink")となっている。鏡の前にはパネルをはめ込むことができる。シアターの女神公演等、鏡を使用する公演では開演前に**「インターネット中継に観客が（鏡を通じて）映りこむことがある」**旨の周知がなされる。中央の2枚の表には照明器具が埋め込まれている。出演メンバーは、曲目により[どんでん返しから登退場することもある](../Page/強盗返.md "wikilink")。
 
 ### 2本の柱
 
@@ -47,7 +47,7 @@
 
 ### 送風機
 
-業務用大型[送風機](https://ja.wikipedia.org/wiki/送風機 "wikilink")「TYFAN」が、ステージ上手と下手の天井に設置されている。
+業務用大型[送風機](../Page/送風機.md "wikilink")「TYFAN」が、ステージ上手と下手の天井に設置されている。
 
 ### LED
 
@@ -77,11 +77,11 @@ Electro-Voice社製の大型スピーカーが設置されている。
 
 #### 48's Cafe
 
-ロビーは劇場開設時から2008年末まで「48's Cafe」という[カフェスペースになっていた](../Page/喫茶店.md "wikilink")。[ソフトドリンク](../Page/ソフトドリンク.md "wikilink")や[ソフトクリーム](https://ja.wikipedia.org/wiki/ソフトクリーム "wikilink")に加え、[オムライス](https://ja.wikipedia.org/wiki/オムライス "wikilink")や[ピラフ](../Page/ピラフ.md "wikilink")などの[軽食](../Page/軽食.md "wikilink")が提供されていた。現在この機能は駅前の「AKB48カフェ＆ショップ」が引き継いでいる。
+ロビーは劇場開設時から2008年末まで「48's Cafe」という[カフェスペースになっていた](../Page/喫茶店.md "wikilink")。[ソフトドリンク](../Page/ソフトドリンク.md "wikilink")や[ソフトクリーム](../Page/ソフトクリーム.md "wikilink")に加え、[オムライス](../Page/オムライス.md "wikilink")や[ピラフ](../Page/ピラフ.md "wikilink")などの[軽食](../Page/軽食.md "wikilink")が提供されていた。現在この機能は駅前の「AKB48カフェ＆ショップ」が引き継いでいる。
 
   - ロビーでのサプライズ
       - ロビーにおいて、事前の予告なくメンバー数名がカフェやグッズ売場の売り子になることがあった。
-  - [篠田麻里子](https://ja.wikipedia.org/wiki/篠田麻里子 "wikilink")・[大堀恵](https://ja.wikipedia.org/wiki/大堀恵 "wikilink")・[小原春香](../Page/小原春香.md "wikilink")がスタッフ「カフェっ娘」として勤務していた。
+  - [篠田麻里子](https://ja.wikipedia.org/wiki/篠田麻里子 "wikilink")・[大堀恵](../Page/大堀恵.md "wikilink")・[小原春香](../Page/小原春香.md "wikilink")がスタッフ「カフェっ娘」として勤務していた。
 
 #### グッズ売場
 
@@ -89,7 +89,7 @@ Electro-Voice社製の大型スピーカーが設置されている。
 
 #### 当たり券入りガチャガチャ
 
-ロビーには数台の[ガチャガチャが設置され](https://ja.wikipedia.org/wiki/カプセルトイ "wikilink")、期間を区切って販売されていた。1回300円。当初はメンバーの写真入り[缶バッジやシールなどが封入されていたが](https://ja.wikipedia.org/wiki/ピンズ "wikilink")、その後、当たり券またははずれ券のみが封入されたカプセルが定番となった。はずれ券1枚でメンバーの写真1枚と交換ができるほか、はずれ券100枚で3順後入場券と引き換えられる特典もあった。当たりの例として、
+ロビーには数台の[ガチャガチャが設置され](../Page/カプセルトイ.md "wikilink")、期間を区切って販売されていた。1回300円。当初はメンバーの写真入り[缶バッジやシールなどが封入されていたが](../Page/ピンズ.md "wikilink")、その後、当たり券またははずれ券のみが封入されたカプセルが定番となった。はずれ券1枚でメンバーの写真1枚と交換ができるほか、はずれ券100枚で3順後入場券と引き換えられる特典もあった。当たりの例として、
 
   - お気に入りのメンバーとの2ショットポラ、3ショットポラ撮影券
   - お気に入りメンバーの自画撮りポラ券
@@ -106,7 +106,7 @@ Electro-Voice社製の大型スピーカーが設置されている。
   - 劇場支配人と行く居酒屋感想券
   - お気に入りのメンバーと一緒に楽屋からしか乗れない専用[エレベーター](../Page/エレベーター.md "wikilink")で1階まで降りられる券。
 
-このガチャでは、当たり券封入の不透明性や[領収書](https://ja.wikipedia.org/wiki/領収書 "wikilink")が発行されないなどの問題が指摘されてきた。ガチャの実施は公式ブログで発表されていた。販売は2009年5月、当たり券等の特典利用については同年末までにそれぞれ終了した\[11\]。
+このガチャでは、当たり券封入の不透明性や[領収書](../Page/領収書.md "wikilink")が発行されないなどの問題が指摘されてきた。ガチャの実施は公式ブログで発表されていた。販売は2009年5月、当たり券等の特典利用については同年末までにそれぞれ終了した\[11\]。
 
 #### MVPボード
 
@@ -148,12 +148,12 @@ Electro-Voice社製の大型スピーカーが設置されている。
 [Category:AKB48](https://ja.wikipedia.org/wiki/Category:AKB48 "wikilink") [Category:秋葉原](https://ja.wikipedia.org/wiki/Category:秋葉原 "wikilink") [Category:東京都の劇場](https://ja.wikipedia.org/wiki/Category:東京都の劇場 "wikilink") [Category:ドン・キホーテ_(企業)](https://ja.wikipedia.org/wiki/Category:ドン・キホーテ_\(企業\) "wikilink") [Category:2005年開業の施設](https://ja.wikipedia.org/wiki/Category:2005年開業の施設 "wikilink") [Category:ライブハウス](https://ja.wikipedia.org/wiki/Category:ライブハウス "wikilink") [Category:日本のアイドルイベント](https://ja.wikipedia.org/wiki/Category:日本のアイドルイベント "wikilink")
 
 1.  旧[ミナミビル](https://ja.wikipedia.org/wiki/ミナミ無線電機 "wikilink")（「ミナミ電気館秋葉原本店」→「T-ZONEミナミ」→「T・ZONE秋葉原本店」→「ミナミムセン秋葉原本店」）。建物はドン・キホーテの関連会社である日本商業施設が所有している
-2.  「ロングインタビュー秋元康」『[クイック・ジャパン](https://ja.wikipedia.org/wiki/クイック・ジャパン "wikilink")』[太田出版](https://ja.wikipedia.org/wiki/太田出版 "wikilink")、87号、2009年、74頁。ISBN 978-4778312008。
+2.  「ロングインタビュー秋元康」『[クイック・ジャパン](https://ja.wikipedia.org/wiki/クイック・ジャパン "wikilink")』[太田出版](../Page/太田出版.md "wikilink")、87号、2009年、74頁。ISBN 978-4778312008。
 3.  [AKB48オフィシャルファンクラブ「2本柱の会」](http://www.akb48.co.jp/fanclub/) - AKB48公式サイト
 4.
 5.  姉妹グループのNMB48劇場でも同様のサービスストライプが行われている。NMB48劇場は柱がないため[ヒョウ](../Page/ヒョウ.md "wikilink")柄のテープを客席後方の壁に貼られている。
 6.
-7.  2台の[SHARP](../Page/シャープ.md "wikilink")・[AQUOSが天井から吊されている](https://ja.wikipedia.org/wiki/アクオス "wikilink")。
+7.  2台の[SHARP](../Page/シャープ.md "wikilink")・[AQUOSが天井から吊されている](../Page/アクオス.md "wikilink")。
 8.  ここで映しだされている映像は、[DMM.com](../Page/DMM.com.md "wikilink")が運営する「AKB48 LIVE\!\! ON DEMAND」のライブ配信で、定点カメラ映像として月額会員限定で公開されている。
 9.  かつては劇場を共用していたSDN48のメンバーの肖像写真も飾られていたが、2012年3月の活動終了に伴い撤去された。
 10. 2015年末をもって閉店。

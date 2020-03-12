@@ -22,24 +22,24 @@ CPU:
 
 サウンド:
 
-  - [ヤマハ](../Page/ヤマハ.md "wikilink") [YM2151](https://ja.wikipedia.org/wiki/YM2151 "wikilink") ([FM音源](../Page/FM音源.md "wikilink")チップ) @ 3.57958 MHz（BGM）
-  - 8チャンネル ナムコ CUS30 ([波形メモリ音源](https://ja.wikipedia.org/wiki/波形メモリ音源 "wikilink")チップ) @ 96 kHz（効果音）
+  - [ヤマハ](../Page/ヤマハ.md "wikilink") [YM2151](../Page/YM2151.md "wikilink") ([FM音源](../Page/FM音源.md "wikilink")チップ) @ 3.57958 MHz（BGM）
+  - 8チャンネル ナムコ CUS30 ([波形メモリ音源](../Page/波形メモリ音源.md "wikilink")チップ) @ 96 kHz（効果音）
   - 2チャンネル Namco 63701X [DAC](../Page/デジタル-アナログ変換回路.md "wikilink") @ 6 MHz
 
 ## ゲームタイトル一覧
 
-  - [妖怪道中記](https://ja.wikipedia.org/wiki/妖怪道中記 "wikilink")（第1弾）
+  - [妖怪道中記](../Page/妖怪道中記.md "wikilink")（第1弾）
   - [ドラゴンスピリット](../Page/ドラゴンスピリット.md "wikilink")（第2弾）
   - [ブレイザー](https://ja.wikipedia.org/wiki/ブレイザー_\(ゲーム\) "wikilink")（第3弾）
   - [クエスター](../Page/クエスター.md "wikilink")（第4弾）
   - [パックマニア](../Page/パックマニア.md "wikilink")（第5弾）
   - [ギャラガ'88](../Page/ギャラガ'88.md "wikilink")（第6弾）
   - [プロ野球ワールドスタジアム](../Page/プロ野球ワールドスタジアム.md "wikilink")（第7弾）
-  - [超絶倫人ベラボーマン](https://ja.wikipedia.org/wiki/超絶倫人ベラボーマン "wikilink")（第8弾）
+  - [超絶倫人ベラボーマン](../Page/超絶倫人ベラボーマン.md "wikilink")（第8弾）
   - [メルヘンメイズ](../Page/メルヘンメイズ.md "wikilink")（第9弾）
-  - [爆突機銃艇](https://ja.wikipedia.org/wiki/爆突機銃艇 "wikilink")（第10弾）
+  - [爆突機銃艇](../Page/爆突機銃艇.md "wikilink")（第10弾）
   - [プロテニス ワールドコート](../Page/プロテニス_ワールドコート.md "wikilink")（第11弾）
-  - [スプラッターハウス](https://ja.wikipedia.org/wiki/スプラッターハウス "wikilink")（第12弾）
+  - [スプラッターハウス](../Page/スプラッターハウス.md "wikilink")（第12弾）
   - [フェイスオフ](https://ja.wikipedia.org/wiki/フェイスオフ "wikilink")（第13弾）
   - [ロンパーズ](https://ja.wikipedia.org/wiki/ロンパーズ "wikilink")（第14弾）
   - [ブラストオフ](https://ja.wikipedia.org/wiki/ブラストオフ "wikilink")（第15弾）

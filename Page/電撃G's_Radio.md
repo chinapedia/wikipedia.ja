@@ -1,17 +1,17 @@
 > この記事は[G\'s Radio](https://ja.wikipedia.org/wiki/G\'s_Radio)から翻訳されています。
 
 
-**電撃G's Radio**（でんげきジーズラジオ）は、[文化放送](../Page/文化放送.md "wikilink")ほかで[2002年](../Page/2002年.md "wikilink")[10月13日](https://ja.wikipedia.org/wiki/10月13日 "wikilink")から[2004年](../Page/2004年.md "wikilink")[6月27日](../Page/6月27日.md "wikilink")まで放送された[ラジオ番組](../Page/ラジオ番組.md "wikilink")。全90回。略称Gラジ、ジーラジ。
+**電撃G's Radio**（でんげきジーズラジオ）は、[文化放送](../Page/文化放送.md "wikilink")ほかで[2002年](../Page/2002年.md "wikilink")[10月13日](../Page/10月13日.md "wikilink")から[2004年](../Page/2004年.md "wikilink")[6月27日](../Page/6月27日.md "wikilink")まで放送された[ラジオ番組](../Page/ラジオ番組.md "wikilink")。全90回。略称Gラジ、ジーラジ。
 
 ## 概要
 
-[ゲーム雑誌](https://ja.wikipedia.org/wiki/ゲーム雑誌 "wikilink")『[電撃G's magazine](../Page/電撃G's_magazine.md "wikilink")』（[メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink")）のタイアップ企画である点は前番組『[シスター・プリンセス〜お兄ちゃんといっしょ](../Page/シスター・プリンセス〜お兄ちゃんといっしょ.md "wikilink")』と同様で、[パーソナリティも前番組に引き続き](../Page/ラジオパーソナリティ.md "wikilink")[桑谷夏子](../Page/桑谷夏子.md "wikilink")・[望月久代](../Page/望月久代.md "wikilink")が務めているが、第15回（[2003年](../Page/2003年.md "wikilink")[1月19日](../Page/1月19日.md "wikilink")放送）より桑谷・望月及び『[シスター・プリンセス](../Page/シスター・プリンセス.md "wikilink")』で共演した[小林由美子](../Page/小林由美子.md "wikilink")・[水樹奈々](../Page/水樹奈々.md "wikilink")の[ユニット](../Page/ユニット.md "wikilink")「[Prits](../Page/Prits.md "wikilink")」の妹分として公開オーディションで選ばれた新ユニット「[Puppy's](../Page/Puppy's.md "wikilink")」（パピーズ）の[伊藤靖子](https://ja.wikipedia.org/wiki/伊藤靖子 "wikilink")・[長谷川静香](https://ja.wikipedia.org/wiki/長谷川静香 "wikilink")・[又吉愛](../Page/又吉愛.md "wikilink")が準レギュラーで加入している。\[1\]
+[ゲーム雑誌](../Page/ゲーム雑誌.md "wikilink")『[電撃G's magazine](../Page/電撃G's_magazine.md "wikilink")』（[メディアワークス](../Page/メディアワークス.md "wikilink")）のタイアップ企画である点は前番組『[シスター・プリンセス〜お兄ちゃんといっしょ](../Page/シスター・プリンセス〜お兄ちゃんといっしょ.md "wikilink")』と同様で、[パーソナリティも前番組に引き続き](../Page/ラジオパーソナリティ.md "wikilink")[桑谷夏子](../Page/桑谷夏子.md "wikilink")・[望月久代](../Page/望月久代.md "wikilink")が務めているが、第15回（[2003年](../Page/2003年.md "wikilink")[1月19日](../Page/1月19日.md "wikilink")放送）より桑谷・望月及び『[シスター・プリンセス](../Page/シスター・プリンセス.md "wikilink")』で共演した[小林由美子](../Page/小林由美子.md "wikilink")・[水樹奈々](../Page/水樹奈々.md "wikilink")の[ユニット](../Page/ユニット.md "wikilink")「[Prits](../Page/Prits.md "wikilink")」の妹分として公開オーディションで選ばれた新ユニット「[Puppy's](../Page/Puppy's.md "wikilink")」（パピーズ）の[伊藤靖子](https://ja.wikipedia.org/wiki/伊藤靖子 "wikilink")・[長谷川静香](https://ja.wikipedia.org/wiki/長谷川静香 "wikilink")・[又吉愛](../Page/又吉愛.md "wikilink")が準レギュラーで加入している。\[1\]
 
 リスナーのことを放送の時期によって、男性の場合は、「お兄ちゃんネーム」\[2\]、「おじさまネーム」\[3\]、「G's ネーム」\[4\]で、女性の場合は、「お姉ちゃんネーム」\[5\]、「おばさまネーム」\[6\]\[7\]\[8\]、「マダムネーム」\[9\]\[10\]、「～ご婦人」\[11\]\[12\]\[13\]、「G's ネーム」\[14\]で呼んでいる。
 
-番組開始当初は、『[シスター・プリンセス](../Page/シスター・プリンセス.md "wikilink")』の内の一人のキャラクターの視点で、「妹からの手紙」というテーマでラジオドラマが放送された。 2003年に入り、『シスター・プリンセス』原作者の[公野櫻子](../Page/公野櫻子.md "wikilink")書き下ろしによるオリジナルの[リスナー](https://ja.wikipedia.org/wiki/リスナー "wikilink")参加企画『パピー・ガールズ 〜わたしのおじさま〜』が先のラジオドラマと入れ替わって開始。同企画終了後、[メディアミックス](../Page/メディアミックス.md "wikilink")を控えた『[双恋](https://ja.wikipedia.org/wiki/双恋 "wikilink")』の[ラジオドラマ](https://ja.wikipedia.org/wiki/ラジオドラマ "wikilink")を放送 。『双恋』タイアップラジオ番組『[ムギュッと\!双恋](https://ja.wikipedia.org/wiki/双恋#ラジオ "wikilink")』が始まる直前の[2004年](../Page/2004年.md "wikilink")[6月](../Page/6月.md "wikilink")で放送を終えた。
+番組開始当初は、『[シスター・プリンセス](../Page/シスター・プリンセス.md "wikilink")』の内の一人のキャラクターの視点で、「妹からの手紙」というテーマでラジオドラマが放送された。 2003年に入り、『シスター・プリンセス』原作者の[公野櫻子](../Page/公野櫻子.md "wikilink")書き下ろしによるオリジナルの[リスナー](../Page/リスナー.md "wikilink")参加企画『パピー・ガールズ 〜わたしのおじさま〜』が先のラジオドラマと入れ替わって開始。同企画終了後、[メディアミックス](../Page/メディアミックス.md "wikilink")を控えた『[双恋](../Page/双恋.md "wikilink")』の[ラジオドラマ](../Page/ラジオドラマ.md "wikilink")を放送 。『双恋』タイアップラジオ番組『[ムギュッと\!双恋](https://ja.wikipedia.org/wiki/双恋#ラジオ "wikilink")』が始まる直前の[2004年](../Page/2004年.md "wikilink")[6月](../Page/6月.md "wikilink")で放送を終えた。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月2日](../Page/12月2日.md "wikilink")\[15\]には、[スペシャルウィークに際し](../Page/聴取率.md "wikilink")、[A\&G DREAM SQUARE枠内の](https://ja.wikipedia.org/wiki/文化放送A&G_DREAM_SQUARE "wikilink")60分の特番『**電撃G's Radio 2006**』と題し、1回限り復活した。パーソナリティは本放送時と同じ桑谷夏子・望月久代が担当し、Pritsの話や、放送当時のことなどを振り返った。
+[2006年](../Page/2006年.md "wikilink")[12月2日](../Page/12月2日.md "wikilink")\[15\]には、[スペシャルウィークに際し](../Page/聴取率.md "wikilink")、[A\&G DREAM SQUARE枠内の](../Page/文化放送A&G_DREAM_SQUARE.md "wikilink")60分の特番『**電撃G's Radio 2006**』と題し、1回限り復活した。パーソナリティは本放送時と同じ桑谷夏子・望月久代が担当し、Pritsの話や、放送当時のことなどを振り返った。
 
 ## コーナー
 
@@ -38,7 +38,7 @@
   -
 
       -
-        このコーナーでは、[メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink")や、[キングレコード](../Page/キングレコード.md "wikilink")などからの最新情報を伝えるコーナー。
+        このコーナーでは、[メディアワークス](../Page/メディアワークス.md "wikilink")や、[キングレコード](../Page/キングレコード.md "wikilink")などからの最新情報を伝えるコーナー。
 
 ### ラジオドラマ
 
@@ -60,7 +60,7 @@
 
 第18回(2003年[2月9日](../Page/2月9日.md "wikilink")放送分)から、ストーリーが展開され、第47回（2003年[8月31日](../Page/8月31日.md "wikilink")放送）まで不定期に実施され、毎回一人の視点でのモノローグ形式を主としていた。
 
-番組オリジナルのリスナー参加企画。G's本誌で行われている「シスプリ」を始めとする[読者参加企画](https://ja.wikipedia.org/wiki/読者参加企画 "wikilink")と同様、リスナーのハガキを基に今後の展開を決定する。後に、ラジオドラマをまとめた[ドラマCD](https://ja.wikipedia.org/wiki/ドラマCD "wikilink")が、G's本誌で通販される（現在は取り扱い終了）。
+番組オリジナルのリスナー参加企画。G's本誌で行われている「シスプリ」を始めとする[読者参加企画](https://ja.wikipedia.org/wiki/読者参加企画 "wikilink")と同様、リスナーのハガキを基に今後の展開を決定する。後に、ラジオドラマをまとめた[ドラマCD](../Page/ドラマCD.md "wikilink")が、G's本誌で通販される（現在は取り扱い終了）。
 
 保護欲を刺激する仔犬系美少女が「おじさま」と慕うリスナーに宛てた手紙を朗読するというシチュエーションを、ラジオドラマ形式で綴る。ヒロインはそれぞれ、「あごの下を撫でられたい」などの、ともすれば性的にも受け取れる欲求を持っており、また恥じらいなどの感覚を持っていない無垢な性格ゆえの台詞回しが、本作の特徴と言える。
 
@@ -153,7 +153,7 @@
 ## 関連項目
 
   - [Prits](../Page/Prits.md "wikilink") - 2002年[12月22日](../Page/12月22日.md "wikilink")放送で、本番組のクリスマススペシャルに出演した。
-  - [麻衣&愛の電撃G'sラジオ ストロベリー・パニック\! 〜お姉様といちご・そうどう〜](../Page/麻衣&愛の電撃G'sラジオ_ストロベリー・パニック!_〜お姉様といちご・そうどう〜.md "wikilink") - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")11月から2006年12月にかけて放送された[ウェブラジオ](https://ja.wikipedia.org/wiki/ウェブラジオ "wikilink")で、ラジオネームの付け方がこの番組同様、特有である。
+  - [麻衣&愛の電撃G'sラジオ ストロベリー・パニック\! 〜お姉様といちご・そうどう〜](../Page/麻衣&愛の電撃G'sラジオ_ストロベリー・パニック!_〜お姉様といちご・そうどう〜.md "wikilink") - [2005年](../Page/2005年.md "wikilink")11月から2006年12月にかけて放送された[ウェブラジオ](https://ja.wikipedia.org/wiki/ウェブラジオ "wikilink")で、ラジオネームの付け方がこの番組同様、特有である。
   - [鈴木史朗](../Page/鈴木史朗.md "wikilink") - 第17回(2003年2月2日放送分)で「パピー・ガールズ 〜わたしのおじさま〜」の簡単な紹介の際に、伊藤靖子がおじさまのイメージとして挙げた人物。
   - [堀江由衣](https://ja.wikipedia.org/wiki/堀江由衣 "wikilink") - 「[シスプリラジオ](../Page/シスター・プリンセス〜お兄ちゃんといっしょ.md "wikilink")」でゲスト出演したことがあり、2003年8月31日放送で、[シスター・プリンセス](../Page/シスター・プリンセス.md "wikilink")で共演した小林由美子、水樹奈々と共にメッセージを寄せていた。
   - [お台場](../Page/お台場.md "wikilink") - 2004年[6月22日](../Page/6月22日.md "wikilink")放送でバーチャル世界旅行と称し、全編ロケした場所。自由の女神像のレプリカが設置されていたことから、オープニングで、[アメリカ横断ウルトラクイズ](https://ja.wikipedia.org/wiki/アメリカ横断ウルトラクイズ "wikilink")の掛け声が起用された。
@@ -186,4 +186,4 @@
 19.
 20. 2003年[7月21日](../Page/7月21日.md "wikilink")に収録
 21. 第44回放送分(2003年[8月3日](../Page/8月3日.md "wikilink"))で放送され、このストーリーは、第45回放送分(2003年[8月10日](../Page/8月10日.md "wikilink"))で全編が放送された。
-22. 桑谷夏子・望月久代・[小林由美子](../Page/小林由美子.md "wikilink")・[堀江由衣](https://ja.wikipedia.org/wiki/堀江由衣 "wikilink")・[千葉千恵巳](../Page/千葉千恵巳.md "wikilink")・[柚木涼香](https://ja.wikipedia.org/wiki/柚木涼香 "wikilink")・[横手久美子](https://ja.wikipedia.org/wiki/横手久美子 "wikilink")・[神崎ちろ](../Page/神崎ちろ.md "wikilink")・[川澄綾子](../Page/川澄綾子.md "wikilink")・[かかずゆみ](https://ja.wikipedia.org/wiki/かかずゆみ "wikilink")・[半場友恵](../Page/半場友恵.md "wikilink")・[水樹奈々](../Page/水樹奈々.md "wikilink")
+22. 桑谷夏子・望月久代・[小林由美子](../Page/小林由美子.md "wikilink")・[堀江由衣](https://ja.wikipedia.org/wiki/堀江由衣 "wikilink")・[千葉千恵巳](../Page/千葉千恵巳.md "wikilink")・[柚木涼香](../Page/柚木涼香.md "wikilink")・[横手久美子](https://ja.wikipedia.org/wiki/横手久美子 "wikilink")・[神崎ちろ](../Page/神崎ちろ.md "wikilink")・[川澄綾子](../Page/川澄綾子.md "wikilink")・[かかずゆみ](../Page/かかずゆみ.md "wikilink")・[半場友恵](../Page/半場友恵.md "wikilink")・[水樹奈々](../Page/水樹奈々.md "wikilink")

@@ -1,13 +1,13 @@
 > この記事は[SIMM](https://ja.wikipedia.org/wiki/SIMM)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:SIMM-muistikampoja.jpg "wikilink") **SIMM**（しむ、*' Single In-line Memory Module*' ）とは、[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")で [RAM](../Page/Random_Access_Memory.md "wikilink") として使われるメモリモジュールの一種である。現在主流である [DIMM](https://ja.wikipedia.org/wiki/DIMM "wikilink") とは異なり、SIMM の接点はモジュールの両面で[冗長化](../Page/冗長化.md "wikilink")されている。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:SIMM-muistikampoja.jpg "wikilink") **SIMM**（しむ、*' Single In-line Memory Module*' ）とは、[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")で [RAM](../Page/Random_Access_Memory.md "wikilink") として使われるメモリモジュールの一種である。現在主流である [DIMM](../Page/DIMM.md "wikilink") とは異なり、SIMM の接点はモジュールの両面で[冗長化](../Page/冗長化.md "wikilink")されている。
 
-最も初期の PC マザーボード（[8088](../Page/Intel_8088.md "wikilink") ベースの PC や [XT](https://ja.wikipedia.org/wiki/PC/AT#PC_XT "wikilink") など）では、[DIP](https://ja.wikipedia.org/wiki/DIP "wikilink") チップをソケットに嵌め込むようになっていた。[80286](../Page/Intel_80286.md "wikilink") ベースの [PC/AT](https://ja.wikipedia.org/wiki/PC/AT "wikilink") では記憶量が大幅に増え、[マザーボード](https://ja.wikipedia.org/wiki/マザーボード "wikilink")のスペースを節約したり簡単にメモリ増設できるように、メモリモジュールが使われるようになった。メモリを増やすには、それまでは 8個か9個の [DRAM](../Page/Dynamic_Random_Access_Memory.md "wikilink") チップを挿し込まねばならなかったのが、メモリモジュールを1枚追加するだけで済むようになった。80286 ベースのコンピュータの中には（非標準の）SIPP (single in-line pin package) メモリモジュールを使うものもあったが、SIPP の 30本のピンが挿入時に折れたり壊れたりすることが多かったため、ピンではなく接点プレートを採用している SIMM への置き換えが急速に進んだ。
+最も初期の PC マザーボード（[8088](../Page/Intel_8088.md "wikilink") ベースの PC や [XT](https://ja.wikipedia.org/wiki/PC/AT#PC_XT "wikilink") など）では、[DIP](../Page/DIP.md "wikilink") チップをソケットに嵌め込むようになっていた。[80286](../Page/Intel_80286.md "wikilink") ベースの [PC/AT](https://ja.wikipedia.org/wiki/PC/AT "wikilink") では記憶量が大幅に増え、[マザーボード](../Page/マザーボード.md "wikilink")のスペースを節約したり簡単にメモリ増設できるように、メモリモジュールが使われるようになった。メモリを増やすには、それまでは 8個か9個の [DRAM](../Page/Dynamic_Random_Access_Memory.md "wikilink") チップを挿し込まねばならなかったのが、メモリモジュールを1枚追加するだけで済むようになった。80286 ベースのコンピュータの中には（非標準の）SIPP (single in-line pin package) メモリモジュールを使うものもあったが、SIPP の 30本のピンが挿入時に折れたり壊れたりすることが多かったため、ピンではなく接点プレートを採用している SIMM への置き換えが急速に進んだ。
 
 SIMM を考案したのは [IBM](../Page/IBM.md "wikilink") に在籍していた Skip Coppola で、[1980年代](../Page/1980年代.md "wikilink")中頃の [PS/2](https://ja.wikipedia.org/wiki/IBM_PS/2 "wikilink") で初めて採用された。これにより、いくつかの問題が解決された。例えば、マザーボードの面積の問題（チップをソケットに取り付けるよりも、占有面積が遥かに少なくて済む）や、メモリ容量の急激な進化の問題（特定の RAM チップに対応するソケットを備えたマザーボードは、すぐに時代遅れとなる）である。また、メーカー（この場合は IBM）が RAM チップを調達するのに、そのベンダーが変わったり、チップのパッケージが変わったりしても、中間基板である SIMM で互換性を保つことができる。 SIMM基板の製造は、IBMの他に[キングストンテクノロジー](https://ja.wikipedia.org/wiki/キングストンテクノロジー "wikilink")などがいち早く参入した。
 
-初期の SIMM は、30ピンの8[ビット](../Page/ビット.md "wikilink") データ（[パリティ付きでは](https://ja.wikipedia.org/wiki/パリティビット "wikilink") 9ビット）だった。[MC68040](https://ja.wikipedia.org/wiki/MC68040 "wikilink") や [80486](../Page/Intel486.md "wikilink") のようなプロセッサでは[32ビット](https://ja.wikipedia.org/wiki/32ビット "wikilink")データバスのため、30ピンの SIMM を使うマザーボードであれば 4枚セットでインストールする必要があった。
+初期の SIMM は、30ピンの8[ビット](../Page/ビット.md "wikilink") データ（[パリティ付きでは](../Page/パリティビット.md "wikilink") 9ビット）だった。[MC68040](../Page/MC68040.md "wikilink") や [80486](../Page/Intel486.md "wikilink") のようなプロセッサでは[32ビット](../Page/32ビット.md "wikilink")データバスのため、30ピンの SIMM を使うマザーボードであれば 4枚セットでインストールする必要があった。
 
 二世代目の SIMM は、72ピンの 32ビットデータ（パリティ付きでは36ビット）で、[1990年代](../Page/1990年代.md "wikilink")の前半頃に 30ピン SIMM から 72ピン SIMM へ移行した。
 
@@ -224,8 +224,8 @@ SIMM は、[JEDEC](https://ja.wikipedia.org/wiki/JEDEC "wikilink") の JESD-21C 
 
 ### 類似の他種
 
-  - [DIMM](https://ja.wikipedia.org/wiki/DIMM "wikilink") (Dual in-line memory module)
-  - [RDRAM](https://ja.wikipedia.org/wiki/RDRAM "wikilink") (Rambus Dynamic Random Access Memory)
+  - [DIMM](../Page/DIMM.md "wikilink") (Dual in-line memory module)
+  - [RDRAM](../Page/RDRAM.md "wikilink") (Rambus Dynamic Random Access Memory)
 
 ## 外部リンク
 

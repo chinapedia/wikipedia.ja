@@ -15,7 +15,7 @@
 | その後:                                                                                                                                                                                                                                                                                                                                                                                                    |
 | 除籍:                                                                                                                                                                                                                                                                                                                                                                                                     |
 | 性能諸元                                                                                                                                                                                                                                                                                                                                                                                                    |
-| [排水量](https://ja.wikipedia.org/wiki/排水量 "wikilink"):                                                                                                                                                                                                                                                                                                                                                    |
+| [排水量](../Page/排水量.md "wikilink"):                                                                                                                                                                                                                                                                                                                                                                       |
 | 全長:                                                                                                                                                                                                                                                                                                                                                                                                     |
 | 全幅:                                                                                                                                                                                                                                                                                                                                                                                                     |
 | 吃水:                                                                                                                                                                                                                                                                                                                                                                                                     |
@@ -29,15 +29,15 @@
 
 </div>
 
-**リッチモンド・K・ターナー** (**USS Richmond K. Turner, DLG/CG-20**) は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の[ミサイル巡洋艦](https://ja.wikipedia.org/wiki/ミサイル巡洋艦 "wikilink")。[リーヒ級ミサイル巡洋艦](https://ja.wikipedia.org/wiki/リーヒ級ミサイル巡洋艦 "wikilink")の5番艦。艦名は[リッチモンド・K・ターナー](https://ja.wikipedia.org/wiki/リッチモンド・K・ターナー "wikilink")[海軍大将](https://ja.wikipedia.org/wiki/海軍大将 "wikilink")に因んで命名された。
+**リッチモンド・K・ターナー** (**USS Richmond K. Turner, DLG/CG-20**) は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の[ミサイル巡洋艦](../Page/ミサイル巡洋艦.md "wikilink")。[リーヒ級ミサイル巡洋艦](../Page/リーヒ級ミサイル巡洋艦.md "wikilink")の5番艦。艦名は[リッチモンド・K・ターナー](../Page/リッチモンド・K・ターナー.md "wikilink")[海軍大将](../Page/海軍大将.md "wikilink")に因んで命名された。
 
 ## 艦歴
 
-リッチモンド・K・ターナーは1961年1月9日に[ニュージャージー州](../Page/ニュージャージー州.md "wikilink")[カムデンの](https://ja.wikipedia.org/wiki/カムデン_\(ニュージャージー州\) "wikilink")[ニューヨーク造船所](../Page/ニューヨーク造船所.md "wikilink")で起工する。1964年6月13日に就役し、8月10日に[フィラデルフィア海軍造船所](../Page/フィラデルフィア海軍造船所.md "wikilink")を出港、[バージニア州](../Page/バージニア州.md "wikilink")[ヨークタウン](https://ja.wikipedia.org/wiki/ヨークタウン "wikilink")および[ノーフォーク](https://ja.wikipedia.org/wiki/ノーフォーク_\(バージニア州\) "wikilink")、[キューバ](../Page/キューバ.md "wikilink")の[グアンタナモ湾](https://ja.wikipedia.org/wiki/グアンタナモ湾 "wikilink")を経由し母港の[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[サンディエゴ](../Page/サンディエゴ.md "wikilink")に向かう。[パナマ運河](../Page/パナマ運河.md "wikilink")通過後[メキシコ](../Page/メキシコ.md "wikilink")の[アカプルコ](https://ja.wikipedia.org/wiki/アカプルコ "wikilink")を訪問し、サンディエゴには1964年9月11日に到着した。
+リッチモンド・K・ターナーは1961年1月9日に[ニュージャージー州](../Page/ニュージャージー州.md "wikilink")[カムデンの](../Page/カムデン_\(ニュージャージー州\).md "wikilink")[ニューヨーク造船所](../Page/ニューヨーク造船所.md "wikilink")で起工する。1964年6月13日に就役し、8月10日に[フィラデルフィア海軍造船所](../Page/フィラデルフィア海軍造船所.md "wikilink")を出港、[バージニア州](../Page/バージニア州.md "wikilink")[ヨークタウン](https://ja.wikipedia.org/wiki/ヨークタウン "wikilink")および[ノーフォーク](../Page/ノーフォーク_\(バージニア州\).md "wikilink")、[キューバ](../Page/キューバ.md "wikilink")の[グアンタナモ湾](https://ja.wikipedia.org/wiki/グアンタナモ湾 "wikilink")を経由し母港の[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[サンディエゴ](../Page/サンディエゴ.md "wikilink")に向かう。[パナマ運河](../Page/パナマ運河.md "wikilink")通過後[メキシコ](../Page/メキシコ.md "wikilink")の[アカプルコ](../Page/アカプルコ.md "wikilink")を訪問し、サンディエゴには1964年9月11日に到着した。
 
-1965年6月4日、太平洋西部への最初の配備のためサンディエゴを出港する。リッチモンド・K・ターナーは[南シナ海](../Page/南シナ海.md "wikilink")で第77任務部隊に加わり、ミサイル護衛艦として空母[コーラル・シー](https://ja.wikipedia.org/wiki/コーラル・シー_\(空母\) "wikilink")(*USS Coral Sea, CVA-43*)、[インディペンデンス](https://ja.wikipedia.org/wiki/インディペンデンス_\(CV-62\) "wikilink")(*USS Independence, CV-62*)および[オリスカニー](https://ja.wikipedia.org/wiki/オリスカニー_\(空母\) "wikilink")(*USS Oriskany, CV-34*)の支援を行った。
+1965年6月4日、太平洋西部への最初の配備のためサンディエゴを出港する。リッチモンド・K・ターナーは[南シナ海](../Page/南シナ海.md "wikilink")で第77任務部隊に加わり、ミサイル護衛艦として空母[コーラル・シー](../Page/コーラル・シー_\(空母\).md "wikilink")(*USS Coral Sea, CVA-43*)、[インディペンデンス](../Page/インディペンデンス_\(CV-62\).md "wikilink")(*USS Independence, CV-62*)および[オリスカニー](../Page/オリスカニー_\(空母\).md "wikilink")(*USS Oriskany, CV-34*)の支援を行った。
 
-リッチモンド・K・ターナーは1965年9月に[トンキン湾](https://ja.wikipedia.org/wiki/トンキン湾 "wikilink")での捜索救助駆逐艦部隊に配属される。同任務の期間に8名のパイロットを救出し、任務が終了すると[スービック海軍基地](https://ja.wikipedia.org/wiki/スービック海軍基地 "wikilink")を離れ12月8日にサンディエゴに到着する。
+リッチモンド・K・ターナーは1965年9月に[トンキン湾](../Page/トンキン湾.md "wikilink")での捜索救助駆逐艦部隊に配属される。同任務の期間に8名のパイロットを救出し、任務が終了すると[スービック海軍基地](../Page/スービック海軍基地.md "wikilink")を離れ12月8日にサンディエゴに到着する。
 
 1966年10月15日にサンディエゴを出港、再び東南アジア海域へ向かい、1967年3月28日に母港に帰還するとその後海軍兵学校生の訓練巡航で真珠湾へ向かう。
 
@@ -45,15 +45,15 @@
 
 その後リッチモンド・K・ターナーは南部カリフォルニア作戦海域での対潜水艦戦訓練艦としての任務に従事する。2月に海軍長官の巡航が行われ、3月1日には[サンディエゴ海軍基地](https://ja.wikipedia.org/wiki/サンディエゴ海軍基地 "wikilink")において艦載ミサイルシステムの広範囲なアップグレード作業に入る。作業の完了後訓練と海外展開のための準備に入り、1970年1月には4度目の西太平洋配備に入る。
 
-1970年3月4日に日本の[横須賀に到着し](https://ja.wikipedia.org/wiki/横須賀海軍施設 "wikilink")、その後2ヶ月間を日本海での作戦任務に従事する。1960年6月から7月にかけて[ベトナム](https://ja.wikipedia.org/wiki/ベトナム "wikilink")沖合で活動し、その後[グアム](../Page/グアム.md "wikilink")、真珠湾経由で8月にサンディエゴに帰還する。
+1970年3月4日に日本の[横須賀に到着し](../Page/横須賀海軍施設.md "wikilink")、その後2ヶ月間を日本海での作戦任務に従事する。1960年6月から7月にかけて[ベトナム](https://ja.wikipedia.org/wiki/ベトナム "wikilink")沖合で活動し、その後[グアム](../Page/グアム.md "wikilink")、真珠湾経由で8月にサンディエゴに帰還する。
 
 1971年3月22日にリッチモンド・K・ターナーは[メイン州](../Page/メイン州.md "wikilink")[バスに向けて出港し](https://ja.wikipedia.org/wiki/バス_\(メイン州\) "wikilink")、4月27日に[バス鉄工所](https://ja.wikipedia.org/wiki/バス鉄工所 "wikilink")に到着する。リッチモンド・K・ターナーは5月5日に予備役となり、海軍のミサイル巡洋艦対空戦闘能力増強プログラムの下改修が行われる。作業の終了後リッチモンド・K・ターナーは1972年5月17日にバス鉄工所で再就役した。
 
-就役後は7ヶ月にわたってアメリカ東海岸沿岸、[カリブ海](../Page/カリブ海.md "wikilink")で様々な試験、回復訓練及び演習を行う。1972年11月22日に[ロードアイランド州](https://ja.wikipedia.org/wiki/ロードアイランド州 "wikilink")[ニューポートへ帰還し](https://ja.wikipedia.org/wiki/ニューポート_\(ロードアイランド州\) "wikilink")、1973年1月9日まで同地に留まった後、[ボストン海軍工廠](https://ja.wikipedia.org/wiki/ボストン海軍工廠 "wikilink")入りし二ヶ月間の調整が行われる。3月にボストンを出港し、リッチモンド・K・ターナーは1973年にUNITAS巡航で南アメリカへ展開した。
+就役後は7ヶ月にわたってアメリカ東海岸沿岸、[カリブ海](../Page/カリブ海.md "wikilink")で様々な試験、回復訓練及び演習を行う。1972年11月22日に[ロードアイランド州](https://ja.wikipedia.org/wiki/ロードアイランド州 "wikilink")[ニューポートへ帰還し](https://ja.wikipedia.org/wiki/ニューポート_\(ロードアイランド州\) "wikilink")、1973年1月9日まで同地に留まった後、[ボストン海軍工廠](../Page/ボストン海軍工廠.md "wikilink")入りし二ヶ月間の調整が行われる。3月にボストンを出港し、リッチモンド・K・ターナーは1973年にUNITAS巡航で南アメリカへ展開した。
 
 リッチモンド・K・ターナーは1975年7月に CG-20 （ミサイル巡洋艦）へ艦種変更され、1976年7月4日にはアメリカ建国200周年記念のニューヨークにおける国際観閲式に参加した。
 
-1998年8月9日にリッチモンド・K・ターナーは SINKEX 演習の標的艦として[プエルトリコ](../Page/プエルトリコ.md "wikilink")近海で海没処分となる。攻撃は[フィリピン・シー](https://ja.wikipedia.org/wiki/フィリピン・シー_\(ミサイル巡洋艦\) "wikilink")(*USS Philippine Sea, CG-58*)、[ソーン](https://ja.wikipedia.org/wiki/ソーン_\(DD-988\) "wikilink")(*USS Thorn, DD-988*)、[ニコルソン](https://ja.wikipedia.org/wiki/ニコルソン_\(DD-982\) "wikilink")(*USS Nicholson, DD-982*)および第3空母航空団を含むエンタープライズ戦闘集団によって行われた。
+1998年8月9日にリッチモンド・K・ターナーは SINKEX 演習の標的艦として[プエルトリコ](../Page/プエルトリコ.md "wikilink")近海で海没処分となる。攻撃は[フィリピン・シー](https://ja.wikipedia.org/wiki/フィリピン・シー_\(ミサイル巡洋艦\) "wikilink")(*USS Philippine Sea, CG-58*)、[ソーン](../Page/ソーン_\(DD-988\).md "wikilink")(*USS Thorn, DD-988*)、[ニコルソン](https://ja.wikipedia.org/wiki/ニコルソン_\(DD-982\) "wikilink")(*USS Nicholson, DD-982*)および第3空母航空団を含むエンタープライズ戦闘集団によって行われた。
 
 ## 歴代艦長
 

@@ -1,9 +1,9 @@
 > この記事は[SC](https://ja.wikipedia.org/wiki/SC)から翻訳されています。
 
 
-**ロワイヤル・シャルルロワ・スポルティング・クラブ**（）は[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")の[エノー州](https://ja.wikipedia.org/wiki/エノー州 "wikilink")[シャルルロワ](https://ja.wikipedia.org/wiki/シャルルロワ "wikilink")にホームを置くサッカークラブである。**スポルティング・シャルルロワ**（）または**RCSC**と呼ばれることもある。2015-16シーズンは[ジュピラー・プロ・リーグ](https://ja.wikipedia.org/wiki/ベルギー・ファースト・ディビジョンA "wikilink")（1部）所属。
+**ロワイヤル・シャルルロワ・スポルティング・クラブ**（）は[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")の[エノー州](../Page/エノー州.md "wikilink")[シャルルロワ](../Page/シャルルロワ.md "wikilink")にホームを置くサッカークラブである。**スポルティング・シャルルロワ**（）または**RCSC**と呼ばれることもある。2015-16シーズンは[ジュピラー・プロ・リーグ](../Page/ベルギー・ファースト・ディビジョンA.md "wikilink")（1部）所属。
 
-愛称はシマウマを意味する「レス・ゼブラス」。同じ[ワロン地方のクラブである](https://ja.wikipedia.org/wiki/ワロン地域 "wikilink")[スタンダール・リエージュ](https://ja.wikipedia.org/wiki/スタンダール・リエージュ "wikilink")とのワロンダービーの盛り上がりは国内屈指である。
+愛称はシマウマを意味する「レス・ゼブラス」。同じ[ワロン地方のクラブである](../Page/ワロン地域.md "wikilink")[スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")とのワロンダービーの盛り上がりは国内屈指である。
 
 2010-11シーズンは最下位の16位に終わり、1984-85シーズン以来となる2部へと降格したが、翌年に2部で優勝し1部に復帰した。
 
@@ -40,7 +40,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/インターシティーズ・フェアーズカップ_1969–70" title="wikilink">1969–70</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/インターシティーズ・フェアーズカップ" title="wikilink">インターシティーズ・フェアーズカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NKザグレブ" title="wikilink">ザグレブ</a></p></td>
+<td><p><a href="../Page/NKザグレブ.md" title="wikilink">ザグレブ</a></p></td>
 <td><p>2–1</p></td>
 <td><p>3–1</p></td>
 <td><p>'''5–2</p></td>
@@ -48,7 +48,7 @@
 </tr>
 <tr class="even">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCルーアン" title="wikilink">ルーアン</a></p></td>
+<td><p><a href="../Page/FCルーアン.md" title="wikilink">ルーアン</a></p></td>
 <td><p>3–1</p></td>
 <td><p>0–2</p></td>
 <td><p>'''3–3(a)</p></td>
@@ -241,7 +241,7 @@
 
 ## 歴代所属選手
 
-### [GK](https://ja.wikipedia.org/wiki/ゴールキーパー_\(サッカー\) "wikilink")
+### [GK](../Page/ゴールキーパー_\(サッカー\).md "wikilink")
 
   - [ルディ・リウ](https://ja.wikipedia.org/wiki/ルディ・リウ "wikilink") 2011
 
@@ -265,7 +265,7 @@
 
 ### [MF](../Page/ミッドフィールダー.md "wikilink")
 
-  - [パル・ゼッターベリ](https://ja.wikipedia.org/wiki/パル・ゼッターベリ "wikilink") 1991-1993
+  - [パル・ゼッターベリ](../Page/パル・ゼッターベリ.md "wikilink") 1991-1993
 
   - [エンツォ・シーフォ](../Page/エンツォ・シーフォ.md "wikilink") 2000-2002
 
@@ -273,11 +273,11 @@
 
   - [ソティリス・ニニス](https://ja.wikipedia.org/wiki/ソティリス・ニニス "wikilink") 2016-2017
 
-### [FW](https://ja.wikipedia.org/wiki/フォワード_\(サッカー\) "wikilink")
+### [FW](../Page/フォワード_\(サッカー\).md "wikilink")
 
   - [ローリー・カニンガム](https://ja.wikipedia.org/wiki/ローリー・カニンガム "wikilink") 1987
 
-  - [グラハム・アーノルド](https://ja.wikipedia.org/wiki/グラハム・アーノルド "wikilink") 1994-1995
+  - [グラハム・アーノルド](../Page/グラハム・アーノルド.md "wikilink") 1994-1995
 
   - [ヴィクトル・イクペバ](https://ja.wikipedia.org/wiki/ヴィクトル・イクペバ "wikilink") 2004
 

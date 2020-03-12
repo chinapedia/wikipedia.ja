@@ -5,7 +5,7 @@
 
 ## 解説
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月26日](../Page/4月26日.md "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")のget over the recordsよりリリースされた。
+  - [2006年](../Page/2006年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")のget over the recordsよりリリースされた。
   - デビューシングル「太陽のカサ」を収録した。ボーナストラックとしてデビューシングルのカップリング曲「ふたりで」の新しいアコースティックヴァージョンが収録されている。
 
 ## 収録曲
@@ -20,7 +20,7 @@
 3.  **ピストル**
       -
         作詞：木谷雅 / 作曲：D·A·I
-        [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")ドラマ『[心霊探偵 八雲](https://ja.wikipedia.org/wiki/心霊探偵_八雲 "wikilink")』テーマ・ソング
+        [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")ドラマ『[心霊探偵 八雲](../Page/心霊探偵_八雲.md "wikilink")』テーマ・ソング
 4.  **星砂**
       -
         作詞：水島歌菜 / 作曲：片山義美
@@ -42,7 +42,7 @@
 10. **愛の言葉**
       -
         作詞：水島歌菜 / 作曲：片山義美
-        映画『[純ブライド](https://ja.wikipedia.org/wiki/純ブライド "wikilink")』主題歌
+        映画『[純ブライド](../Page/純ブライド.md "wikilink")』主題歌
 11. **extra world**
       -
         作詞：水島歌菜 / 作曲：片山義美

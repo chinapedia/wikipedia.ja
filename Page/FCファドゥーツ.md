@@ -120,7 +120,7 @@
 </tr>
 <tr class="even">
 <td><p>2008-09</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スーパーリーグ_(スイス)" title="wikilink">スイス・スーパーリーグ</a></p></td>
+<td><p><a href="../Page/スーパーリーグ_(スイス).md" title="wikilink">スイス・スーパーリーグ</a></p></td>
 <td><p>'''10位</p></td>
 <td><p>36</p></td>
 <td><p>5</p></td>
@@ -368,7 +368,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/リヴィングストンFC" title="wikilink">リヴィングストン</a></p></td>
 <td><p>1-1</p></td>
 <td><p>0-0</p></td>
-<td><p>'''1-1 (<a href="https://ja.wikipedia.org/wiki/アウェーゴール" title="wikilink">a</a>)</p></td>
+<td><p>'''1-1 (<a href="../Page/アウェーゴール.md" title="wikilink">a</a>)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 </tr>
 <tr class="even">
@@ -413,7 +413,7 @@
 </tr>
 <tr class="even">
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ベシクタシュJK" title="wikilink">ベシクタシュ</a></p></td>
+<td><p><a href="../Page/ベシクタシュJK.md" title="wikilink">ベシクタシュ</a></p></td>
 <td><p>0-1</p></td>
 <td><p>1-5</p></td>
 <td><p>'''1-6</p></td>
@@ -433,7 +433,7 @@
 </tr>
 <tr class="even">
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCバーゼル" title="wikilink">バーゼル</a></p></td>
+<td><p><a href="../Page/FCバーゼル.md" title="wikilink">バーゼル</a></p></td>
 <td><p>2-1</p></td>
 <td><p>0-1</p></td>
 <td><p>'''2-2 (a)</p></td>
@@ -445,7 +445,7 @@
 <td><p>2007-08</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ_2007-08" title="wikilink">UEFAカップ</a></p></td>
 <td><p>予選1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCディナモ・トビリシ" title="wikilink">ディナモ・トビリシ</a></p></td>
+<td><p><a href="../Page/FCディナモ・トビリシ.md" title="wikilink">ディナモ・トビリシ</a></p></td>
 <td><p>0-0</p></td>
 <td><p>0-2</p></td>
 <td><p>'''0-2</p></td>
@@ -465,7 +465,7 @@
 <td><p>2009-10</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2009-10" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フォルカークFC" title="wikilink">フォルカーク</a></p></td>
+<td><p><a href="../Page/フォルカークFC.md" title="wikilink">フォルカーク</a></p></td>
 <td><p>0–1</p></td>
 <td><p>2–0<br />
 (<a href="../Page/延長戦.md" title="wikilink">a.e.t.</a>)</p></td>
@@ -474,7 +474,7 @@
 </tr>
 <tr class="even">
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCスロヴァン・リベレツ" title="wikilink">スロヴァン・リベレツ</a></p></td>
+<td><p><a href="../Page/FCスロヴァン・リベレツ.md" title="wikilink">スロヴァン・リベレツ</a></p></td>
 <td><p>0–1</p></td>
 <td><p>0–2</p></td>
 <td><p>'''0–3</p></td>
@@ -486,7 +486,7 @@
 <td><p>2010-11</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2010-11" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブレンビーIF" title="wikilink">ブレンビーIF</a></p></td>
+<td><p><a href="../Page/ブレンビーIF.md" title="wikilink">ブレンビーIF</a></p></td>
 <td><p>0–0</p></td>
 <td><p>0–3</p></td>
 <td><p>'''0–3</p></td>
@@ -504,7 +504,7 @@
 </tr>
 <tr class="odd">
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ハポエル・テルアビブFC" title="wikilink">ハポエル・テルアビブ</a></p></td>
+<td><p><a href="../Page/ハポエル・テルアビブFC.md" title="wikilink">ハポエル・テルアビブ</a></p></td>
 <td><p>2–1</p></td>
 <td><p>0–4</p></td>
 <td><p>'''2–5</p></td>
@@ -554,7 +554,7 @@
 </tr>
 <tr class="even">
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ノーメ・カリュFC" title="wikilink">ノーメ・カリュ</a></p></td>
+<td><p><a href="../Page/ノーメ・カリュFC.md" title="wikilink">ノーメ・カリュ</a></p></td>
 <td><p>3–1</p></td>
 <td><p>2–0</p></td>
 <td><p>'''5–1</p></td>
@@ -564,7 +564,7 @@
 </tr>
 <tr class="odd">
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCトゥーン" title="wikilink">トゥーン</a></p></td>
+<td><p><a href="../Page/FCトゥーン.md" title="wikilink">トゥーン</a></p></td>
 <td><p>2–2</p></td>
 <td><p>0–0</p></td>
 <td><p>'''2–2 (a)</p></td>
@@ -616,7 +616,7 @@
 <td><p>2018-19</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2018-19" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>予選1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レフスキ・ソフィア" title="wikilink">レフスキ・ソフィア</a></p></td>
+<td><p><a href="../Page/レフスキ・ソフィア.md" title="wikilink">レフスキ・ソフィア</a></p></td>
 <td><p>1-0</p></td>
 <td><p>2-3</p></td>
 <td><p>'''3-3 (a)</p></td>
@@ -624,7 +624,7 @@
 </tr>
 <tr class="odd">
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FKジャルギリス" title="wikilink">ジャルギリス</a></p></td>
+<td><p><a href="../Page/FKジャルギリス.md" title="wikilink">ジャルギリス</a></p></td>
 <td><p>1-1</p></td>
 <td><p>0-1</p></td>
 <td><p>'''1-2</p></td>
@@ -637,7 +637,7 @@
 
 ## 現所属メンバー
 
-([第3主将](https://ja.wikipedia.org/wiki/主将 "wikilink"))   ([第2主将](https://ja.wikipedia.org/wiki/主将 "wikilink"))        ([主将](https://ja.wikipedia.org/wiki/キャプテン_\(サッカー\) "wikilink"))     ([第4主将](https://ja.wikipedia.org/wiki/主将 "wikilink"))
+([第3主将](../Page/主将.md "wikilink"))   ([第2主将](../Page/主将.md "wikilink"))        ([主将](https://ja.wikipedia.org/wiki/キャプテン_\(サッカー\) "wikilink"))     ([第4主将](../Page/主将.md "wikilink"))
 
 ## 歴代監督
 
@@ -663,7 +663,7 @@
 
   - [マルコ・リッツベルガー](https://ja.wikipedia.org/wiki/マルコ・リッツベルガー "wikilink") 2005-2012
 
-  - [マーク・ルダン](https://ja.wikipedia.org/wiki/マーク・ルダン "wikilink") 2009
+  - [マーク・ルダン](../Page/マーク・ルダン.md "wikilink") 2009
 
 ### MF
 

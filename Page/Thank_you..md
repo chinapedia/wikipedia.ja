@@ -1,7 +1,7 @@
 > この記事は[Thank you.](https://ja.wikipedia.org/wiki/Thank_you.)から翻訳されています。
 
 
-『**thank you.**』（サンキュー）は、日本のポップ・ロックバンド、[MONKEY MAJIKの通算](https://ja.wikipedia.org/wiki/MONKEY_MAJIK "wikilink")3枚目のオリジナルアルバム。
+『**thank you.**』（サンキュー）は、日本のポップ・ロックバンド、[MONKEY MAJIKの通算](../Page/MONKEY_MAJIK.md "wikilink")3枚目のオリジナルアルバム。
 
 ## 概要
 
@@ -14,7 +14,7 @@
 
 1.  **turn**
 2.  **another day**
-      - 本作のアルバムリード曲。[PVも制作されている](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。
+      - 本作のアルバムリード曲。[PVも制作されている](../Page/ミュージック・ビデオ.md "wikilink")。
 3.  **thank you**
 4.  **on and on**
 5.  **雪合戦**
@@ -32,12 +32,12 @@
 
 ## タイアップ
 
-  - [TBS系](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")「[日立 世界・ふしぎ発見\!](https://ja.wikipedia.org/wiki/日立_世界・ふしぎ発見! "wikilink")」エンディングテーマ（M-2）
+  - [TBS系](../Page/TBSテレビ.md "wikilink")「[日立 世界・ふしぎ発見\!](../Page/日立_世界・ふしぎ発見!.md "wikilink")」エンディングテーマ（M-2）
   - 東北電子専門学校CMソング（M-4）
   - インターネットアニメ「[Nice & neat](https://ja.wikipedia.org/wiki/Nice_&_neat "wikilink")」エンディングテーマ（M-5）
-  - [フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[西遊記](https://ja.wikipedia.org/wiki/西遊記_\(2006年のテレビドラマ\) "wikilink")」主題歌（M-10）
+  - [フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[西遊記](../Page/西遊記_\(2006年のテレビドラマ\).md "wikilink")」主題歌（M-10）
   - フジテレビ系「[FNS27時間テレビ みんな“なまか”だっ\!ウッキー\!ハッピー\!西遊記\!](../Page/FNS27時間テレビ_\(2007年\).md "wikilink")」CM前曲（M-10）
-  - [マンダム](https://ja.wikipedia.org/wiki/マンダム "wikilink")「LUCIDO-L」CMソング（M-11）
+  - [マンダム](../Page/マンダム.md "wikilink")「LUCIDO-L」CMソング（M-11）
 
 ## 脚注
 

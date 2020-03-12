@@ -13,7 +13,7 @@
 
   -
     [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[芦別市](https://ja.wikipedia.org/wiki/芦別市 "wikilink")出身\[2\]、[神奈川大学](https://ja.wikipedia.org/wiki/神奈川大学 "wikilink")卒業。血液型AB型。
-    妻は[作詞家](../Page/作詞家.md "wikilink")の[竜真知子](https://ja.wikipedia.org/wiki/竜真知子 "wikilink")。
+    妻は[作詞家](../Page/作詞家.md "wikilink")の[竜真知子](../Page/竜真知子.md "wikilink")。
     神奈川大学在学中にはアマチュアバンド「イーグルス」で活動\[3\]し、いくつかのバンドを経て、1973年に[フォーク](../Page/フォークソング.md "wikilink")・ロックバンド「[ノラ](https://ja.wikipedia.org/wiki/ノラ_\(バンド\) "wikilink")」を結成\[4\]。
     1975年の矢沢のソロシングル「[アイ・ラヴ・ユー、OK](https://ja.wikipedia.org/wiki/アイ・ラヴ・ユー、OK "wikilink")」で作詞を担当し、作詞家デビューとなる\[5\]。
 
@@ -36,7 +36,7 @@
 
 [1982年](../Page/1982年.md "wikilink")[6月](../Page/6月.md "wikilink")、1stアルバム『NOBODY』とシングル『MY ROAD SHOW』を同時リリース\[13\]。1983年公開の映画『[里見八犬伝](../Page/里見八犬伝_\(1983年の映画\).md "wikilink")』では音楽を担当し、その後も様々なアーティストへの楽曲提供、サウンドプロデュースを行う。
 
-矢沢との盟友関係はその後も続き、[1996年](../Page/1996年.md "wikilink")12月13日の日本武道館公演 （WILD HEART TOUR）のほか、[1999年](../Page/1999年.md "wikilink")9月15日の[横浜国際総合競技場](../Page/横浜国際総合競技場.md "wikilink")（TONIGHT THE NIGHT\!）で[サディスティックス](../Page/サディスティックス.md "wikilink")のメンバーらとコンサートにゲスト出演。[2002年](../Page/2002年.md "wikilink")8月に[東京国際フォーラム](https://ja.wikipedia.org/wiki/東京国際フォーラム "wikilink")で行われたアコースティック・ライヴには、相沢がギターで参加。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")8月には矢沢・相沢・木原の3人によるアコースティック・スペシャル・ライヴを、矢沢のファンクラブから抽選で招待した会員約70名の前で行い、インターネットで生配信された。[2007年](../Page/2007年.md "wikilink")12月19日には、矢沢の日本武道館公演（102回目）のアンコールにゲスト出演し、二人も参加した矢沢初の日本武道館公演（1977年[8月26日](../Page/8月26日.md "wikilink")）の1曲目「カモン・ベイビー」を演奏した。
+矢沢との盟友関係はその後も続き、[1996年](../Page/1996年.md "wikilink")12月13日の日本武道館公演 （WILD HEART TOUR）のほか、[1999年](../Page/1999年.md "wikilink")9月15日の[横浜国際総合競技場](../Page/横浜国際総合競技場.md "wikilink")（TONIGHT THE NIGHT\!）で[サディスティックス](../Page/サディスティックス.md "wikilink")のメンバーらとコンサートにゲスト出演。[2002年](../Page/2002年.md "wikilink")8月に[東京国際フォーラム](../Page/東京国際フォーラム.md "wikilink")で行われたアコースティック・ライヴには、相沢がギターで参加。[2006年](../Page/2006年.md "wikilink")8月には矢沢・相沢・木原の3人によるアコースティック・スペシャル・ライヴを、矢沢のファンクラブから抽選で招待した会員約70名の前で行い、インターネットで生配信された。[2007年](../Page/2007年.md "wikilink")12月19日には、矢沢の日本武道館公演（102回目）のアンコールにゲスト出演し、二人も参加した矢沢初の日本武道館公演（1977年[8月26日](../Page/8月26日.md "wikilink")）の1曲目「カモン・ベイビー」を演奏した。
 
 ## ディスコグラフィ
 
@@ -135,7 +135,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン" title="wikilink">東芝EMI</a></p></td>
+<td><p><a href="../Page/EMIミュージック・ジャパン.md" title="wikilink">東芝EMI</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -183,7 +183,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン" title="wikilink">WEA MUSIC</a></p></td>
+<td><p><a href="../Page/ワーナーミュージック・ジャパン.md" title="wikilink">WEA MUSIC</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -207,7 +207,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ポリスター" title="wikilink">ポリスター</a></p></td>
+<td><p><a href="../Page/ポリスター.md" title="wikilink">ポリスター</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -354,7 +354,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン" title="wikilink">東芝EMI</a></p></td>
+<td><p><a href="../Page/EMIミュージック・ジャパン.md" title="wikilink">東芝EMI</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -426,7 +426,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン" title="wikilink">WEA MUSIC</a></p></td>
+<td><p><a href="../Page/ワーナーミュージック・ジャパン.md" title="wikilink">WEA MUSIC</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -459,14 +459,14 @@
 | [TDKコア](https://ja.wikipedia.org/wiki/クリエイティヴ・コア "wikilink")                                |                                  |           |           |
 | 1986年11月21日                                                                                 | **NOBODY COLLECTIONS 1982〜1985** | LP        | T32A-1054 |
 | CD                                                                                          | 35HD-7019                        |           |           |
-| [東芝EMI](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")                            |                                  |           |           |
+| [東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")                                               |                                  |           |           |
 | 1989年[8月27日](../Page/8月27日.md "wikilink")                                                   | **NOBODY'S BEST**                | LP        | RT28-5269 |
 | CD                                                                                          | CT32-5269                        |           |           |
 | [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[2月28日](../Page/2月28日.md "wikilink") | **ИOBODY NOBODY**                | CT32-54   |           |
 | [ハミングバード](../Page/マイカルハミングバード.md "wikilink")                                                |                                  |           |           |
 | 1990年[11月28日](../Page/11月28日.md "wikilink")                                                 | **NOBODY SONGS**                 | CD        | CT32-1299 |
 | [1991年](../Page/1991年.md "wikilink")11月21日                                                  | **TRAX 〜BEST SELECTIONS**        | HBCL-8005 |           |
-| [WEA MUSIC](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")                       |                                  |           |           |
+| [WEA MUSIC](../Page/ワーナーミュージック・ジャパン.md "wikilink")                                          |                                  |           |           |
 | 1996年7月25日                                                                                  | **NOBODY 1982〜1994 GIFT**        | CD        | WPC6-8223 |
 
 #### ライブアルバム
@@ -477,7 +477,7 @@
 | 1984年[4月5日](../Page/4月5日.md "wikilink")                                                   | **NOBODY LIVE ワン\!** | LP | T28A-1028 |
 | CD                                                                                        | T32X-1002            |    |           |
 | WPC4-7053                                                                                 |                      |    |           |
-| [東芝EMI](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")                          |                      |    |           |
+| [東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")                                             |                      |    |           |
 | [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[4月6日](../Page/4月6日.md "wikilink") | **NOBODY LIVE 2**    | LP | WTP-90454 |
 | CD                                                                                        | CA32-1406            |    |           |
 
@@ -534,17 +534,17 @@
 
 #### タイアップ
 
-| 楽曲                                                                         | タイアップ                                                                                                            |
-| -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| **MY ROAD SHOW**                                                           | [東洋Zラジアル](https://ja.wikipedia.org/wiki/東洋ゴム工業 "wikilink")717 イメージソング                                            |
-| **FOR ONLY YOU**                                                           | [クラリオン](https://ja.wikipedia.org/wiki/クラリオン "wikilink")「シティコネクション」CMソング                                          |
-| **PURE GIRL I & II**                                                       | [花王](../Page/花王.md "wikilink")「ピュアシャンプー」 CMソング                                                                   |
-| **ディア・マイ・ハート 〜君のためにラヴ・ソング〜**                                               | [サンキスト](https://ja.wikipedia.org/wiki/サンキスト_\(飲料\) "wikilink") CMソング                                             |
-| [UCC COFFEE](../Page/UCC上島珈琲.md "wikilink")「ANOTHER DAY (彼女とアナザー・デイ)」CMソング |                                                                                                                  |
-| **EVERYBODY SHOUT**                                                        | [東宝映画](../Page/東宝映画.md "wikilink")「[19 ナインティーン](../Page/19_ナインティーン.md "wikilink")」挿入歌                            |
-| **RESTLESS HEART**                                                         | [資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")「アルパス」CMソング                                                   |
-| **DREAM 〜夢の中で**                                                            | [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")「[WIN](https://ja.wikipedia.org/wiki/WIN_\(テレビ番組\) "wikilink")」エンディングテーマ |
-| **YOU GOT TO WIN**                                                         | 日本テレビ系「WIN」オープニングテーマ                                                                                             |
+| 楽曲                                                                         | タイアップ                                                                                         |
+| -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| **MY ROAD SHOW**                                                           | [東洋Zラジアル](https://ja.wikipedia.org/wiki/東洋ゴム工業 "wikilink")717 イメージソング                         |
+| **FOR ONLY YOU**                                                           | [クラリオン](../Page/クラリオン.md "wikilink")「シティコネクション」CMソング                                          |
+| **PURE GIRL I & II**                                                       | [花王](../Page/花王.md "wikilink")「ピュアシャンプー」 CMソング                                                |
+| **ディア・マイ・ハート 〜君のためにラヴ・ソング〜**                                               | [サンキスト](https://ja.wikipedia.org/wiki/サンキスト_\(飲料\) "wikilink") CMソング                          |
+| [UCC COFFEE](../Page/UCC上島珈琲.md "wikilink")「ANOTHER DAY (彼女とアナザー・デイ)」CMソング |                                                                                               |
+| **EVERYBODY SHOUT**                                                        | [東宝映画](../Page/東宝映画.md "wikilink")「[19 ナインティーン](../Page/19_ナインティーン.md "wikilink")」挿入歌         |
+| **RESTLESS HEART**                                                         | [資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")「アルパス」CMソング                                |
+| **DREAM 〜夢の中で**                                                            | [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")「[WIN](../Page/WIN_\(テレビ番組\).md "wikilink")」エンディングテーマ |
+| **YOU GOT TO WIN**                                                         | 日本テレビ系「WIN」オープニングテーマ                                                                          |
 
 ## 主な提供楽曲
 
@@ -560,7 +560,7 @@
       - [恋のロックンロール・サーカス](https://ja.wikipedia.org/wiki/恋のロックンロール・サーカス "wikilink")
       - [愛の元気主義](https://ja.wikipedia.org/wiki/愛の元気主義 "wikilink")
       - Be Yourself（以上作曲）
-  - [石川秀美](https://ja.wikipedia.org/wiki/石川秀美 "wikilink")
+  - [石川秀美](../Page/石川秀美.md "wikilink")
       - デス・トラップ（作曲）
   - [アン・ルイス](../Page/アン・ルイス.md "wikilink")
       - [I Love Youより愛してる](https://ja.wikipedia.org/wiki/I_Love_Youより愛してる_\(シングル\) "wikilink")
@@ -569,9 +569,9 @@
       - [六本木心中](https://ja.wikipedia.org/wiki/六本木心中 "wikilink")
       - [ピンクダイヤモンド](https://ja.wikipedia.org/wiki/ピンクダイヤモンド "wikilink")
       - [あゝ無情](https://ja.wikipedia.org/wiki/あゝ無情_\(曲\) "wikilink")（以上作曲）
-  - [池田政典](https://ja.wikipedia.org/wiki/池田政典 "wikilink")
+  - [池田政典](../Page/池田政典.md "wikilink")
       - [NIGHT OF SUMMER SIDE](https://ja.wikipedia.org/wiki/NIGHT_OF_SUMMER_SIDE "wikilink")（作曲）
-  - [伊藤さやか](https://ja.wikipedia.org/wiki/伊藤さやか "wikilink")
+  - [伊藤さやか](../Page/伊藤さやか.md "wikilink")
       - [プリテンダー](https://ja.wikipedia.org/wiki/POSITIVE_SMILE "wikilink")
       - [ヘイ\!プリティ・ガール](https://ja.wikipedia.org/wiki/BROKEN_GENERATION "wikilink")
       - [高校三年生(春夏秋冬)](https://ja.wikipedia.org/wiki/理由なき反抗_\(伊藤さやかの曲\) "wikilink")（以上作曲）
@@ -580,56 +580,56 @@
       - [気分はモノクローム](https://ja.wikipedia.org/wiki/Save_me_\(アルバム\) "wikilink")（以上作曲）
   - [宇都宮隆](https://ja.wikipedia.org/wiki/宇都宮隆 "wikilink")
       - [Howling](https://ja.wikipedia.org/wiki/Howling_\(宇都宮隆の曲\) "wikilink")（作曲）
-  - [荻野目洋子](https://ja.wikipedia.org/wiki/荻野目洋子 "wikilink")
+  - [荻野目洋子](../Page/荻野目洋子.md "wikilink")
       - [フラミンゴ in パラダイス](https://ja.wikipedia.org/wiki/フラミンゴ_in_パラダイス "wikilink")
       - [Dance Beatは夜明けまで](https://ja.wikipedia.org/wiki/Dance_Beatは夜明けまで "wikilink")
       - [ストレンジャーtonight](https://ja.wikipedia.org/wiki/ストレンジャーtonight "wikilink")（以上作曲）
 
 ### か行
 
-  - [川村かおり](https://ja.wikipedia.org/wiki/川村カオリ "wikilink")
+  - [川村かおり](../Page/川村カオリ.md "wikilink")
       - [GENERATION Y](https://ja.wikipedia.org/wiki/Big_Beat "wikilink")
       - [HEY HEY](https://ja.wikipedia.org/wiki/HEY_HEY_\(川村カオリの曲\) "wikilink")
       - Telly Box
       - [DREAMER DREAMER](https://ja.wikipedia.org/wiki/DREAMER_DREAMER "wikilink")（以上作曲）
-  - [川島なお美](https://ja.wikipedia.org/wiki/川島なお美 "wikilink")
+  - [川島なお美](../Page/川島なお美.md "wikilink")
       - [BE BOP CRAZY](https://ja.wikipedia.org/wiki/BE_BOP_CRAZY "wikilink")
-  - [吉川晃司](https://ja.wikipedia.org/wiki/吉川晃司 "wikilink")
+  - [吉川晃司](../Page/吉川晃司.md "wikilink")
       - [モニカ](../Page/モニカ_\(曲\).md "wikilink")
       - [サヨナラは八月のララバイ](../Page/サヨナラは八月のララバイ.md "wikilink")
       - [You Gotta Chance 〜ダンスで夏を抱きしめて〜](https://ja.wikipedia.org/wiki/You_Gotta_Chance_〜ダンスで夏を抱きしめて〜 "wikilink")
       - [にくまれそうなNEWフェイス](https://ja.wikipedia.org/wiki/にくまれそうなNEWフェイス "wikilink")（以上作曲）
-  - [紅麗威甦](https://ja.wikipedia.org/wiki/紅麗威甦 "wikilink")
+  - [紅麗威甦](../Page/紅麗威甦.md "wikilink")
       - [門限破りのSATURDAY NIGHT](https://ja.wikipedia.org/wiki/門限破りのSATURDAY_NIGHT "wikilink")（作曲）
   - [小泉今日子](https://ja.wikipedia.org/wiki/小泉今日子 "wikilink")
       - [風のマジカル](https://ja.wikipedia.org/wiki/渚のはいから人魚/風のマジカル "wikilink")（作曲）
-  - [香坂みゆき](https://ja.wikipedia.org/wiki/香坂みゆき "wikilink")
+  - [香坂みゆき](../Page/香坂みゆき.md "wikilink")
       - One Night Show（作曲）
   - [小山茉美](../Page/小山茉美.md "wikilink")
       - さよならなんて言わないで
       - WineとKissとAfternoon（以上作曲）
-  - [近藤真彦](https://ja.wikipedia.org/wiki/近藤真彦 "wikilink")
+  - [近藤真彦](../Page/近藤真彦.md "wikilink")
       - タイム・スリップ・オン・ガール（作曲）
 
 ### さ行
 
-  - [サーカス](https://ja.wikipedia.org/wiki/サーカス_\(歌手\) "wikilink")
+  - [サーカス](../Page/サーカス_\(歌手\).md "wikilink")
       - [ガラスの夏](https://ja.wikipedia.org/wiki/ガラスの夏 "wikilink")
       - 危険がかわいい
       - 黄昏ロンリネス（以上作曲）
-  - [坂上忍](https://ja.wikipedia.org/wiki/坂上忍 "wikilink")
+  - [坂上忍](../Page/坂上忍.md "wikilink")
       - [悲しみのモノクローム](https://ja.wikipedia.org/wiki/悲しみのモノクローム "wikilink")（作詞、作曲）
-  - [THE 東南西北](https://ja.wikipedia.org/wiki/THE_東南西北 "wikilink")
+  - [THE 東南西北](../Page/THE_東南西北.md "wikilink")
       - [Hey My Little MAMA](https://ja.wikipedia.org/wiki/飛行少年 "wikilink")（作曲）
   - [沢田研二](../Page/沢田研二.md "wikilink")
-      - [彼は眠れない](https://ja.wikipedia.org/wiki/彼は眠れない "wikilink")
+      - [彼は眠れない](../Page/彼は眠れない.md "wikilink")
       - [DOWN](../Page/DOWN.md "wikilink")
-      - [プライド](https://ja.wikipedia.org/wiki/単純な永遠 "wikilink")
-      - [不安にさせよう](https://ja.wikipedia.org/wiki/単純な永遠 "wikilink")
-      - [月のギター](https://ja.wikipedia.org/wiki/単純な永遠 "wikilink")
-      - [失われた楽園](https://ja.wikipedia.org/wiki/PANORAMA_\(沢田研二のアルバム\) "wikilink")
-      - [涙が満月を曇らせる](https://ja.wikipedia.org/wiki/PANORAMA_\(沢田研二のアルバム\) "wikilink")（以上作曲）
-  - [沢向要士](https://ja.wikipedia.org/wiki/澤向要進 "wikilink")
+      - [プライド](../Page/単純な永遠.md "wikilink")
+      - [不安にさせよう](../Page/単純な永遠.md "wikilink")
+      - [月のギター](../Page/単純な永遠.md "wikilink")
+      - [失われた楽園](../Page/PANORAMA_\(沢田研二のアルバム\).md "wikilink")
+      - [涙が満月を曇らせる](../Page/PANORAMA_\(沢田研二のアルバム\).md "wikilink")（以上作曲）
+  - [沢向要士](../Page/澤向要進.md "wikilink")
       - どうしたんだLittle Girl（作曲）
   - [椎名恵](../Page/椎名恵.md "wikilink")
       - PLEASE DON'T YOU CRY
@@ -642,7 +642,7 @@
 
 ### た行
 
-  - [Diamond Yukai](https://ja.wikipedia.org/wiki/ダイアモンド☆ユカイ "wikilink")
+  - [Diamond Yukai](../Page/ダイアモンド☆ユカイ.md "wikilink")
       - UPSIDE DOWN
       - I MISS YOU
       - LONELY JACK KNIFE（以上作曲）
@@ -651,7 +651,7 @@
 
 ### な行
 
-  - [中川勝彦](https://ja.wikipedia.org/wiki/中川勝彦 "wikilink")
+  - [中川勝彦](../Page/中川勝彦.md "wikilink")
       - SALTY LADY
       - STARDUST
   - [長島秀幸](https://ja.wikipedia.org/wiki/長島秀幸 "wikilink")
@@ -660,10 +660,10 @@
       - [プラスティック・ラブレター](https://ja.wikipedia.org/wiki/プラスティック・ラブレター "wikilink")
       - 潮風のポートレート
       - ハート引力（以上作曲）
-  - [仲村知夏](https://ja.wikipedia.org/wiki/仲村知夏 "wikilink")
+  - [仲村知夏](../Page/仲村知夏.md "wikilink")
       - BAD ANGEL
   - [中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")
-      - [BLUE OCEAN](https://ja.wikipedia.org/wiki/D404ME "wikilink")（作曲）
+      - [BLUE OCEAN](../Page/D404ME.md "wikilink")（作曲）
   - [中村雅俊](https://ja.wikipedia.org/wiki/中村雅俊 "wikilink")
       - [憧れのSUMMER HOUSE](../Page/パズル・ナイト.md "wikilink")
       - BLUE OCEAN
@@ -678,7 +678,7 @@
       - [浮気な、パレット・キャット](https://ja.wikipedia.org/wiki/浮気な、パレット・キャット "wikilink")（作詞、作曲）
   - [早見優](../Page/早見優.md "wikilink")
       - Tonight\[14\]（作曲）
-  - [光GENJI](https://ja.wikipedia.org/wiki/光GENJI "wikilink")
+  - [光GENJI](../Page/光GENJI.md "wikilink")
       - [豹になれ](https://ja.wikipedia.org/wiki/VICTORY_\(アルバム\) "wikilink")（作曲）
       - [DEAD MAN'S CURVE](https://ja.wikipedia.org/wiki/VICTORY_\(アルバム\) "wikilink")（作曲）
       - [奇跡の女神](https://ja.wikipedia.org/wiki/奇跡の女神 "wikilink")（作曲）
@@ -686,11 +686,11 @@
   - [BLACK CATS](https://ja.wikipedia.org/wiki/BLACK_CATS "wikilink")
       - I WANNA ROCK
       - Scratch（以上作詞・作曲・編曲）
-  - [堀ちえみ](https://ja.wikipedia.org/wiki/堀ちえみ "wikilink")
+  - [堀ちえみ](../Page/堀ちえみ.md "wikilink")
       - [ストロベリー・ハート](https://ja.wikipedia.org/wiki/Strawberry_Heart "wikilink")
       - [7時のニュース](https://ja.wikipedia.org/wiki/Strawberry_Heart "wikilink")
       - [涙色のエアポート](https://ja.wikipedia.org/wiki/Strawberry_Heart "wikilink")（以上作曲）
-  - [本田理沙](https://ja.wikipedia.org/wiki/本田理沙 "wikilink")
+  - [本田理沙](../Page/本田理沙.md "wikilink")
       - [いちごがポロリ](https://ja.wikipedia.org/wiki/いちごがポロリ "wikilink")
       - [Flapper](https://ja.wikipedia.org/wiki/いちごがポロリ "wikilink")
       - ME HER スクランブル
@@ -705,12 +705,12 @@
   - [松田聖子](../Page/松田聖子.md "wikilink")
       - [MAUI](../Page/Windy_Shadow.md "wikilink")
       - [七色のパドル](../Page/天使のウィンク.md "wikilink")（以上作曲）
-  - [松本典子](https://ja.wikipedia.org/wiki/松本典子 "wikilink")
+  - [松本典子](../Page/松本典子.md "wikilink")
       - ジャスミン半島
   - [水谷豊](https://ja.wikipedia.org/wiki/水谷豊 "wikilink")
       - YOKOHAMAシャレード
       - 気分屋ルーシー
-  - [三原じゅん子](https://ja.wikipedia.org/wiki/三原じゅん子 "wikilink")
+  - [三原じゅん子](../Page/三原じゅん子.md "wikilink")
       - [口唇からショット・ガン](https://ja.wikipedia.org/wiki/口唇からショット・ガン "wikilink")（作曲）
 
 ### や行以降
@@ -723,7 +723,7 @@
       - Please Don't Go
       - GIMME LOVE
       - 5・6・7・8 DANCE\!
-  - [山本達彦](https://ja.wikipedia.org/wiki/山本達彦 "wikilink")
+  - [山本達彦](../Page/山本達彦.md "wikilink")
       - MIDNIGHT HARBOR（作曲・編曲）
       - LAST SHOW（編曲）
       - MAGIC（編曲）
@@ -754,7 +754,7 @@
       - ラストシーン（作曲・編曲）
       - 遥かホームタウン（作曲・編曲）
       - SNOW-SONG（作詞・編曲）
-  - [和久井映見](https://ja.wikipedia.org/wiki/和久井映見 "wikilink")
+  - [和久井映見](../Page/和久井映見.md "wikilink")
       - Count Down Moon（作曲）
   - [渡辺謙](../Page/渡辺謙.md "wikilink")
       - 夢のように（作曲）
@@ -764,7 +764,7 @@
   - [矢沢永吉](../Page/矢沢永吉.md "wikilink")
   - [HOUND DOG](../Page/HOUND_DOG.md "wikilink")
   - [アン・ルイス](../Page/アン・ルイス.md "wikilink")
-  - [吉川晃司](https://ja.wikipedia.org/wiki/吉川晃司 "wikilink")
+  - [吉川晃司](../Page/吉川晃司.md "wikilink")
   - [浅香唯](https://ja.wikipedia.org/wiki/浅香唯 "wikilink")
 
 ## 脚注

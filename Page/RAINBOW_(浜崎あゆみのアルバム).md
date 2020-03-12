@@ -7,13 +7,13 @@
 
 オリジナルアルバムでは前作『[I am...](../Page/I_am....md "wikilink")』からわずか11ヶ月後でのリリースとなる。自身では、初めて歌詞に英語が使われた。
 
-初回盤に封入されているパスワードを使うことによって、期間限定サイトにアクセスすることができ、そこで「RAINBOW」という曲のインストを聴くことができた。曲の感想を募集し、それを浜崎本人が見て、歌詞を付ける企画があった。当初はその楽曲を[2003年](../Page/2003年.md "wikilink")第一弾シングルとして発売する予定とアナウンスされていた（封入のチラシより）が、完成した曲は2003年[3月12日](../Page/3月12日.md "wikilink")に発売されたバラードベストアルバム『[A BALLADS](https://ja.wikipedia.org/wiki/A_BALLADS "wikilink")』に未発表による新曲として収録された。
+初回盤に封入されているパスワードを使うことによって、期間限定サイトにアクセスすることができ、そこで「RAINBOW」という曲のインストを聴くことができた。曲の感想を募集し、それを浜崎本人が見て、歌詞を付ける企画があった。当初はその楽曲を[2003年](../Page/2003年.md "wikilink")第一弾シングルとして発売する予定とアナウンスされていた（封入のチラシより）が、完成した曲は2003年[3月12日](../Page/3月12日.md "wikilink")に発売されたバラードベストアルバム『[A BALLADS](../Page/A_BALLADS.md "wikilink")』に未発表による新曲として収録された。
 
 オリジナルアルバムでは初めて[CCCDで発売](../Page/コピーコントロールCD.md "wikilink")。なお、CCCDのみの形態でリリースされたフルアルバムは本作のみである。
 
 2003年[7月9日](../Page/7月9日.md "wikilink")には、新たに「RAINBOW」の5.1chを追加収録した「[DVD-Audio](../Page/DVD-Audio.md "wikilink")」盤が発売された（「RAINBOW」以外は2chステレオのまま）。
 
-収録曲「Dolls」は[北野武](https://ja.wikipedia.org/wiki/北野武 "wikilink")が監督を担当した[同名映画をイメージして作られた曲で](https://ja.wikipedia.org/wiki/Dolls_\(映画\) "wikilink")\[1\]、『[ayu ready?](https://ja.wikipedia.org/wiki/ayu_ready? "wikilink")』第1回に彼がゲスト出演した際に「Dollsという曲を作りたい」と申し出て許可を取った経緯がある。
+収録曲「Dolls」は[北野武](https://ja.wikipedia.org/wiki/北野武 "wikilink")が監督を担当した[同名映画をイメージして作られた曲で](../Page/Dolls_\(映画\).md "wikilink")\[1\]、『[ayu ready?](https://ja.wikipedia.org/wiki/ayu_ready? "wikilink")』第1回に彼がゲスト出演した際に「Dollsという曲を作りたい」と申し出て許可を取った経緯がある。
 
 ## 収録曲
 
@@ -25,7 +25,7 @@
         [Panasonic](https://ja.wikipedia.org/wiki/パナソニック "wikilink") 「MDミニコンポ」 CMソング
 2.  **WE WISH**
       -
-        作曲：[D・A・I](https://ja.wikipedia.org/wiki/D・A・I "wikilink")/ 編曲：[HΛL (Toshiharu Umesaki, Takehito Shimizu, Yuta Nakano)](https://ja.wikipedia.org/wiki/HΛL "wikilink")
+        作曲：[D・A・I](https://ja.wikipedia.org/wiki/D・A・I "wikilink")/ 編曲：[HΛL (Toshiharu Umesaki, Takehito Shimizu, Yuta Nakano)](../Page/HΛL.md "wikilink")
         [コーセー](../Page/コーセー.md "wikilink")「VISÉE」CMソング
 3.  **Real me**
       -
@@ -43,10 +43,10 @@
 6.  **Over**
       -
         作曲：CMJK / 編曲：Toshiharu Umesaki, [Atsushi Sato](https://ja.wikipedia.org/wiki/ats- "wikilink")
-7.  **[HANABI](https://ja.wikipedia.org/wiki/H_\(シングル\) "wikilink")**
+7.  **[HANABI](../Page/H_\(シングル\).md "wikilink")**
       -
         作曲：CREA + D・A・I / 編曲：CMJK
-        27thシングル「[H](https://ja.wikipedia.org/wiki/H_\(シングル\) "wikilink")」収録曲
+        27thシングル「[H](../Page/H_\(シングル\).md "wikilink")」収録曲
         TU-KA イメージソング
 8.  **taskinillusion**
       -
@@ -56,7 +56,7 @@
       -
         作曲：pop / 編曲：CMJK
         Panasonic「ドッキンスタイルMD」CMソング
-10. **[July 1st](https://ja.wikipedia.org/wiki/H_\(シングル\) "wikilink")**
+10. **[July 1st](../Page/H_\(シングル\).md "wikilink")**
       -
         作曲：CREA + D・A・I / 編曲：tasuku
         27thシングル「H」収録曲
@@ -68,15 +68,15 @@
       -
         作曲・編曲：HΛL (Toshiharu Umesaki, Yuta Nakano)
         インスト
-13. **[Voyage](https://ja.wikipedia.org/wiki/Voyage_\(浜崎あゆみの曲\) "wikilink")**
+13. **[Voyage](../Page/Voyage_\(浜崎あゆみの曲\).md "wikilink")**
       -
         作曲：CREA + D・A・I / 編曲：[Ken Shima](../Page/島健.md "wikilink")
         28thシングル
-        TBSドラマ「[マイリトルシェフ](https://ja.wikipedia.org/wiki/マイリトルシェフ "wikilink")」主題歌
+        TBSドラマ「[マイリトルシェフ](../Page/マイリトルシェフ.md "wikilink")」主題歌
 14. **Close to you**
       -
-        作曲：CREA / 編曲：[Seiji Kameda](https://ja.wikipedia.org/wiki/亀田誠治 "wikilink")
-15. **[independent+](https://ja.wikipedia.org/wiki/H_\(シングル\) "wikilink")**
+        作曲：CREA / 編曲：[Seiji Kameda](../Page/亀田誠治.md "wikilink")
+15. **[independent+](../Page/H_\(シングル\).md "wikilink")**
       -
         作曲：CREA + D・A・I / 編曲：tasuku
         「independent」の直後、そのまま「+」（プラス）が繋がるように流れ、再び「independent」のアウトロに戻って終了するため厳密にはアルバムバージョンである。

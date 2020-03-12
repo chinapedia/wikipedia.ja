@@ -24,10 +24,10 @@
 
 ### VPS/クラウド
 
-[バーチャル・プライベート・サーバ](https://ja.wikipedia.org/wiki/バーチャル・プライベート・サーバ "wikilink")（VPS）サービス。SuitePROシリーズと、VPSクラウドが提供されている。
+[バーチャル・プライベート・サーバ](../Page/バーチャル・プライベート・サーバ.md "wikilink")（VPS）サービス。SuitePROシリーズと、VPSクラウドが提供されている。
 
   - SuitePRO - OSは[FedoraCore](https://ja.wikipedia.org/wiki/FedoraCore "wikilink") 3。
-  - SuitePRO V2 - [2007年](../Page/2007年.md "wikilink")7月供用開始。OSは[CentOS](https://ja.wikipedia.org/wiki/CentOS "wikilink") 4、のち5\[2\]。ディスク容量6～20GB（最大50GB）
+  - SuitePRO V2 - [2007年](../Page/2007年.md "wikilink")7月供用開始。OSは[CentOS](../Page/CentOS.md "wikilink") 4、のち5\[2\]。ディスク容量6～20GB（最大50GB）
   - SuitePRO V3 - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")5月供用開始。OSはCentOS 5。ディスク容量40～50GB（最大1TB）、メモリ1.7～2GB（最大16GB）、CPU(共有)1コア（最大4コア）
   - SuitePRO V4 - [2015年](../Page/2015年.md "wikilink")6月供用開始。OSはCentOS 6と7に加え、初めてWindows Server系（[2008](https://ja.wikipedia.org/wiki/Microsoft_Windows_Server_2008_R2 "wikilink")、[2012](https://ja.wikipedia.org/wiki/Microsoft_Windows_Server_2012_R2 "wikilink")）を採用した。ディスク容量100～4,100GB、メモリ2～32GB、CPU(仮想)2～8コア。また、[M2M](https://ja.wikipedia.org/wiki/M2M "wikilink")、[IoT](https://ja.wikipedia.org/wiki/IoT "wikilink")との親和性の高いMaster'sONEを[VPN](https://ja.wikipedia.org/wiki/VPN "wikilink")で接続できるオプションを設けた。
 
@@ -37,7 +37,7 @@
 
 ### 専用サーバ
 
-  - Solo（販売終了） - OSは[Red Hat Enterprise Linux](https://ja.wikipedia.org/wiki/Red_Hat_Enterprise_Linux "wikilink")5と6。ロードバランサによるWebサーバ複数台構成による負荷分散が可能。
+  - Solo（販売終了） - OSは[Red Hat Enterprise Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink")5と6。ロードバランサによるWebサーバ複数台構成による負荷分散が可能。
   - ベーシックモデル - ディスク容量250GB～1TB(RAID1)、メモリ4GB、CPU(Xeon)2コア
   - プレミアムモデル - ディスク容量300GB(RAID1)、メモリ16GB、CPU(Xeon)4～16コア
 
@@ -57,8 +57,8 @@ NTTPC社が[OEM](../Page/OEM.md "wikilink")として下流に多数[ISPを持つ
 
   - [サーバ](../Page/サーバ.md "wikilink")
   - [ホスティングサーバ](../Page/ホスティングサーバ.md "wikilink")
-  - [GMOインターネット](https://ja.wikipedia.org/wiki/GMOインターネット "wikilink")
-  - [NTT (日本電信電話)](https://ja.wikipedia.org/wiki/日本電信電話 "wikilink")
+  - [GMOインターネット](../Page/GMOインターネット.md "wikilink")
+  - [NTT (日本電信電話)](../Page/日本電信電話.md "wikilink")
 
 ## 外部リンク
 

@@ -10,12 +10,12 @@
 3.  **Interlude : Channel**
 4.  '''SOUL'd OUT is Comin' '''
       -
-        インディーズ期にリリースした「[DEMO TRACKS](https://ja.wikipedia.org/wiki/DEMO_TRACKS "wikilink")」にはこの曲の別バージョンが収録されている。2nd Verseも[Diggy-MO'](https://ja.wikipedia.org/wiki/Diggy-MO' "wikilink")が担当しており、その部分の歌詞は「SOUL'd OUT」収録バージョンとは異なる。
+        インディーズ期にリリースした「[DEMO TRACKS](https://ja.wikipedia.org/wiki/DEMO_TRACKS "wikilink")」にはこの曲の別バージョンが収録されている。2nd Verseも[Diggy-MO'](../Page/Diggy-MO'.md "wikilink")が担当しており、その部分の歌詞は「SOUL'd OUT」収録バージョンとは異なる。
 5.  **[Diggy Diggy Diggy](../Page/ウェカピポ.md "wikilink")**
 6.  **円卓の騎士**
 7.  **ア アラララァ ア アァ！**
 8.  **[Dream Drive](https://ja.wikipedia.org/wiki/Dream_Drive/Shut_Out "wikilink")**
-9.  **[Flyte Tyme](https://ja.wikipedia.org/wiki/Flyte_Tyme "wikilink") (Extended)**
+9.  **[Flyte Tyme](../Page/Flyte_Tyme.md "wikilink") (Extended)**
 10. **輪舞曲**
       -
         表記はないが、アルバムバージョンである。
@@ -34,7 +34,7 @@
         SOUL'd OUTとして最初に制作した楽曲。
 18. **戦士達 天使達 〜Livin' for Today〜**
       -
-        歌詞は[Diggy-MO'](https://ja.wikipedia.org/wiki/Diggy-MO' "wikilink")がSOUL'd OUT結成前から書いていたものであり、このアルバムの中で唯一トラックより先に歌詞を作った楽曲。
+        歌詞は[Diggy-MO'](../Page/Diggy-MO'.md "wikilink")がSOUL'd OUT結成前から書いていたものであり、このアルバムの中で唯一トラックより先に歌詞を作った楽曲。
 
 ## 脚注
 

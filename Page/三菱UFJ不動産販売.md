@@ -1,7 +1,7 @@
 > この記事は[UFJ](https://ja.wikipedia.org/wiki/UFJ)から翻訳されています。
 
 
-**三菱UFJ不動産販売株式会社**（みつびしユーエフジェイふどうさんはんばい）は、[三菱UFJフィナンシャル・グループ](https://ja.wikipedia.org/wiki/三菱UFJフィナンシャル・グループ "wikilink")の[不動産会社](https://ja.wikipedia.org/wiki/不動産流通業 "wikilink")。
+**三菱UFJ不動産販売株式会社**（みつびしユーエフジェイふどうさんはんばい）は、[三菱UFJフィナンシャル・グループ](../Page/三菱UFJフィナンシャル・グループ.md "wikilink")の[不動産会社](https://ja.wikipedia.org/wiki/不動産流通業 "wikilink")。
 
 ## 事業内容
 
@@ -17,11 +17,11 @@
 ## 沿革
 
   - [2001年](../Page/2001年.md "wikilink")（平成13年）10月 - 菱信住宅販売（株）と日信住宅販売（株）が経営統合し、日信住宅販売（株）を存続会社として社名変更、三菱信不動産販売株式会社となる。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）10月 - 三菱UFJフィナンシャル・グループ（MUFG）が発足。**三菱信不動産販売**（株）と**UFJ住宅販売**（株）が経営統合し、三菱信不動産販売（株）を存続会社として社名変更、三菱UFJ不動産販売株式会社となる。
+  - [2005年](../Page/2005年.md "wikilink")（平成17年）10月 - 三菱UFJフィナンシャル・グループ（MUFG）が発足。**三菱信不動産販売**（株）と**UFJ住宅販売**（株）が経営統合し、三菱信不動産販売（株）を存続会社として社名変更、三菱UFJ不動産販売株式会社となる。
 
 ## 取引金融機関
 
-  - [三菱UFJ信託銀行](https://ja.wikipedia.org/wiki/三菱UFJ信託銀行 "wikilink")
+  - [三菱UFJ信託銀行](../Page/三菱UFJ信託銀行.md "wikilink")
   - [三菱UFJ銀行](https://ja.wikipedia.org/wiki/三菱UFJ銀行 "wikilink")
 
 ## 加盟団体

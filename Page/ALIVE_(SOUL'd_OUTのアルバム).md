@@ -5,13 +5,13 @@
 
 これまでの2作品と比較してロック/ポップス色が強く、下準備中は楽屋で[Guns N' Rosesを流していたという](https://ja.wikipedia.org/wiki/ガンズ・アンド・ローゼズ "wikilink")。
 
-タイトルの「ALIVE」は、シングルの「[ALIVE](https://ja.wikipedia.org/wiki/ALIVE_\(SOUL'd_OUTの曲\) "wikilink")」が完成したときにこのアルバムの軸が見えてきて、そのことからこのタイトルになった。
+タイトルの「ALIVE」は、シングルの「[ALIVE](../Page/ALIVE_\(SOUL'd_OUTの曲\).md "wikilink")」が完成したときにこのアルバムの軸が見えてきて、そのことからこのタイトルになった。
 
 ## 収録曲
 
 1.  **Deep Space (Intro)**
-2.  **[ALIVE](https://ja.wikipedia.org/wiki/ALIVE_\(SOUL'd_OUTの曲\) "wikilink")**
-3.  **[TOKYO通信〜Urbs Communication〜](https://ja.wikipedia.org/wiki/TOKYO通信〜Urbs_Communication〜 "wikilink")**
+2.  **[ALIVE](../Page/ALIVE_\(SOUL'd_OUTの曲\).md "wikilink")**
+3.  **[TOKYO通信〜Urbs Communication〜](../Page/TOKYO通信〜Urbs_Communication〜.md "wikilink")**
       -
         シングルバージョンと若干異なる。
 4.  **Pop n' Top**

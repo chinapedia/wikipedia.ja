@@ -1,7 +1,7 @@
 > この記事は[Nico](https://ja.wikipedia.org/wiki/Nico)から翻訳されています。
 
 
-**nico**（ニコ）は、[YUUKI](https://ja.wikipedia.org/wiki/YUUKI "wikilink")、[東野佑美](../Page/東野佑美.md "wikilink")が結成したユニット。
+**nico**（ニコ）は、[YUUKI](../Page/YUUKI.md "wikilink")、[東野佑美](../Page/東野佑美.md "wikilink")が結成したユニット。
 
 ## プロフィール
 
@@ -11,7 +11,7 @@
 
 着用する衣装はショップオリジナルのものが提供され、『真夏でシュ\!』のプロモーション活動時の衣装は[SUPER LOVERSと発表されている](https://ja.wikipedia.org/wiki/SUPER_LOVERS "wikilink")。
 
-CDデビューイベントは2000年7月に[池袋](https://ja.wikipedia.org/wiki/池袋 "wikilink")[サンシャインシティ](../Page/サンシャインシティ.md "wikilink")中央広場で行われ、デビュー曲『真夏でシュ\!』を披露した。この時にCD即売会と握手会が開かれている。
+CDデビューイベントは2000年7月に[池袋](../Page/池袋.md "wikilink")[サンシャインシティ](../Page/サンシャインシティ.md "wikilink")中央広場で行われ、デビュー曲『真夏でシュ\!』を披露した。この時にCD即売会と握手会が開かれている。
 
 2006年以降、nicoとしての活動は行われておらず、今後活動再開の予定は現実的に無い状況にあるが、当初よりユニットとしての活動であった為に解散と言った形は取っていない。
 
@@ -19,10 +19,10 @@ CDデビューイベントは2000年7月に[池袋](https://ja.wikipedia.org/wik
 
 1.  『真夏でシュ\!』（SRCL-4867）
       - 2000年7月26日マキシシングルとして発売。nicoデビューシングル。夏そのものを感じる軽快な曲。横山優貴が赤色、東野佑美が黄色の衣装で跳ねながら踊る振り付けだった事から「不思議ジャンピングユニット」として紹介されていた。
-      - 『わかめスープ』（[理研ビタミン](https://ja.wikipedia.org/wiki/理研ビタミン "wikilink")）CMタイアップ曲
-      - 『新・真夜中の王国（[NHK-BS2](https://ja.wikipedia.org/wiki/NHK衛星第2テレビジョン "wikilink")）』オープニングテーマ。
+      - 『わかめスープ』（[理研ビタミン](../Page/理研ビタミン.md "wikilink")）CMタイアップ曲
+      - 『新・真夜中の王国（[NHK-BS2](../Page/NHK衛星第2テレビジョン.md "wikilink")）』オープニングテーマ。
 2.  『MAHALO』（SRCL-5030）
-      - 2001年2月21日[マキシシングル](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")として発売。nicoセカンドシングル。ひと夏の恋を歌った曲。プロモーション活動などで歌う時、曲のイメージに合わせてTシャツなど薄手の衣装が多く日本では時期的には寒かったはずだが、それを表に出した事は無い。振り付けには歌に合わせて腕を上げる独自のポーズが盛り込まれていた。MAHALOは[ハワイ語](https://ja.wikipedia.org/wiki/ハワイ語 "wikilink")で「ありがとう」の意味。プロモーションビデオの撮影は南の島で行われたが、具体的にどこの島かは明かされなかった。
+      - 2001年2月21日[マキシシングル](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")として発売。nicoセカンドシングル。ひと夏の恋を歌った曲。プロモーション活動などで歌う時、曲のイメージに合わせてTシャツなど薄手の衣装が多く日本では時期的には寒かったはずだが、それを表に出した事は無い。振り付けには歌に合わせて腕を上げる独自のポーズが盛り込まれていた。MAHALOは[ハワイ語](../Page/ハワイ語.md "wikilink")で「ありがとう」の意味。プロモーションビデオの撮影は南の島で行われたが、具体的にどこの島かは明かされなかった。
 3.  『アキストゼネコ』（SRCL-5086）
       - 2001年5月23日マキシシングルとして発売。タイトルは[アキストゼネコ占いに由来する](https://ja.wikipedia.org/wiki/あきすとぜねこ "wikilink")\[1\]。覆面ユニット『アキストゼニコ\!』名義で発表され、正体はしばらく明かされなかった\[2\]。アキストゼニコ\!として[渋谷AX](https://ja.wikipedia.org/wiki/渋谷AX "wikilink")でのイベントでこの曲を歌っている。衣装はCDジャケットと同イメージのものを着用していた。横山優貴、東野佑美の新しく作った別ユニットとして位置づけられている。
       - Girls Style Vol.1（SRCL-5184）にもアキストゼネコは収録されている。
@@ -32,12 +32,12 @@ CDデビューイベントは2000年7月に[池袋](https://ja.wikipedia.org/wik
 ### TV
 
   - 『[エブナイ](https://ja.wikipedia.org/wiki/エブナイ "wikilink")』（[フジテレビ系列](../Page/フジテレビ系列.md "wikilink")）火曜日のレギュラー。
-  - 『[みんなのうた](https://ja.wikipedia.org/wiki/みんなのうた "wikilink")（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")）』2001年4月放送。みんなのうたで『アキストゼネコ』が[パラパラ](../Page/パラパラ.md "wikilink")を踊る[CGの女性の画像とともにオンエアされた](../Page/コンピュータグラフィックス.md "wikilink")\[3\]。放送時に流れたCGは[大槻孝志](https://ja.wikipedia.org/wiki/大槻孝志 "wikilink")の手によるもので、振り付けは[DJよっしー](https://ja.wikipedia.org/wiki/DJよっしー "wikilink")が担当した\[4\]。
+  - 『[みんなのうた](../Page/みんなのうた.md "wikilink")（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")）』2001年4月放送。みんなのうたで『アキストゼネコ』が[パラパラ](../Page/パラパラ.md "wikilink")を踊る[CGの女性の画像とともにオンエアされた](../Page/コンピュータグラフィックス.md "wikilink")\[3\]。放送時に流れたCGは[大槻孝志](https://ja.wikipedia.org/wiki/大槻孝志 "wikilink")の手によるもので、振り付けは[DJよっしー](https://ja.wikipedia.org/wiki/DJよっしー "wikilink")が担当した\[4\]。
 
 ### CM
 
   - 『わかめスープ』（理研ビタミン）2000年3月放送。リケンのわかめスープとして知られているCMで、今期はnicoが出演した。横山優貴、東野佑美が街中で調子を合わせて歌いながら飛び跳ねるシーンが特徴的であった。この時に使用された曲（『わかめでシュ\!』、『わかめスープの歌』等と呼ばれていた。）は『真夏でシュ\!』が一部歌詞をCM用にアレンジされたものであった。
-  - 『[NTTドコモ東海](../Page/エヌ・ティ・ティ・ドコモ東海.md "wikilink")』2000年名古屋地域を中心とした地域内で放送された。同時期、CM放送地域でのNTTドコモ[PHS](../Page/PHS.md "wikilink")向きの[パンフレット](https://ja.wikipedia.org/wiki/パンフレット "wikilink")にも表紙などにnicoが掲載されている。
+  - 『[NTTドコモ東海](../Page/エヌ・ティ・ティ・ドコモ東海.md "wikilink")』2000年名古屋地域を中心とした地域内で放送された。同時期、CM放送地域でのNTTドコモ[PHS](../Page/PHS.md "wikilink")向きの[パンフレット](../Page/パンフレット.md "wikilink")にも表紙などにnicoが掲載されている。
 
 ## 脚注
 

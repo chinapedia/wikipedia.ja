@@ -1,7 +1,7 @@
 > この記事は[Underpath!](https://ja.wikipedia.org/wiki/Underpath!)から翻訳されています。
 
 
-**underpath\!**（アンダーパス）はアコースティック2人組。[岩手県](../Page/岩手県.md "wikilink")で活動。また[熱唱オンエアバトル](https://ja.wikipedia.org/wiki/熱唱オンエアバトル "wikilink")に出場。[2009年](../Page/2009年.md "wikilink")8月現在、[NHK盛岡放送局](https://ja.wikipedia.org/wiki/NHK盛岡放送局 "wikilink")製作のローカル番組、[いわてみんなのうた](https://ja.wikipedia.org/wiki/いわてみんなのうた "wikilink")でunderpath\!の歌う「たらりら」が[放送](../Page/放送.md "wikilink")されている。
+**underpath\!**（アンダーパス）はアコースティック2人組。[岩手県](../Page/岩手県.md "wikilink")で活動。また[熱唱オンエアバトル](../Page/熱唱オンエアバトル.md "wikilink")に出場。[2009年](../Page/2009年.md "wikilink")8月現在、[NHK盛岡放送局](../Page/NHK盛岡放送局.md "wikilink")製作のローカル番組、[いわてみんなのうた](https://ja.wikipedia.org/wiki/いわてみんなのうた "wikilink")でunderpath\!の歌う「たらりら」が[放送](../Page/放送.md "wikilink")されている。
 
 ## メンバー
 
@@ -208,7 +208,7 @@ SUNRISE
 
 ## たらりら
 
-2009年[3月30日](../Page/3月30日.md "wikilink")より「いわてみんなのうた」で、[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・[歌](../Page/歌.md "wikilink"):underpath\!、作曲:MIKAの「たらりら」が放送されるようになった。放送が開始されると「たらりら」は、[パステル](https://ja.wikipedia.org/wiki/パステル "wikilink")風の[アニメーション](../Page/アニメーション.md "wikilink")もあいまって子供たちの間で人気を博し\[1\]、MIKAの下には子供から手紙が届くようになった\[2\]。同年[4月27日](../Page/4月27日.md "wikilink")には同名の[自主制作シングルCDが](../Page/インディーズ.md "wikilink")[岩手県](../Page/岩手県.md "wikilink")内各地のCDショップで発売が開始された。
+2009年[3月30日](../Page/3月30日.md "wikilink")より「いわてみんなのうた」で、[作詞](../Page/作詞.md "wikilink")・[歌](../Page/歌.md "wikilink"):underpath\!、作曲:MIKAの「たらりら」が放送されるようになった。放送が開始されると「たらりら」は、[パステル](../Page/パステル.md "wikilink")風の[アニメーション](../Page/アニメーション.md "wikilink")もあいまって子供たちの間で人気を博し\[1\]、MIKAの下には子供から手紙が届くようになった\[2\]。同年[4月27日](../Page/4月27日.md "wikilink")には同名の[自主制作シングルCDが](../Page/インディーズ.md "wikilink")[岩手県](../Page/岩手県.md "wikilink")内各地のCDショップで発売が開始された。
 
 2009年8月現在、underpath\!には岩手県内各地から出演オファーが殺到している\[3\]。
 

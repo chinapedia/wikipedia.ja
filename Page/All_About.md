@@ -3,11 +3,11 @@
 
 **All About**（オールアバウト）は、株式会社[オールアバウト](../Page/オールアバウト.md "wikilink")が運営する総合情報サイトである。
 
-2001年に[株式会社リクルートと](https://ja.wikipedia.org/wiki/リクルートホールディングス "wikilink")[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[About Inc社との合弁会社として運営をスタートしたが](https://ja.wikipedia.org/wiki/:en:Dotdash "wikilink")、2004年9月に[ヤフー株式会社が米About社の持ち株分をすべて買い取るかたちで資本参加し](https://ja.wikipedia.org/wiki/ヤフー_\(企業\) "wikilink")、現在に至っている\[1\]。
+2001年に[株式会社リクルートと](../Page/リクルートホールディングス.md "wikilink")[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[About Inc社との合弁会社として運営をスタートしたが](https://ja.wikipedia.org/wiki/:en:Dotdash "wikilink")、2004年9月に[ヤフー株式会社が米About社の持ち株分をすべて買い取るかたちで資本参加し](https://ja.wikipedia.org/wiki/ヤフー_\(企業\) "wikilink")、現在に至っている\[1\]。
 
 ## 沿革
 
-日本語版All Aboutは、2001年2月15日に[リクルートと米About](https://ja.wikipedia.org/wiki/リクルートホールディングス "wikilink").comを運営する[About Inc社の合弁企業](https://ja.wikipedia.org/wiki/:en:Dotdash "wikilink")、リクルート・アバウトドットコム・ジャパン社による「All About Japan」としてサービスを開始した。About.comの方針を持ち込んで敷かれたさまざまなジャンルの専門家をAll Aboutガイドとして起用するガイド制は、現在も引き継がれている。
+日本語版All Aboutは、2001年2月15日に[リクルートと米About](../Page/リクルートホールディングス.md "wikilink").comを運営する[About Inc社の合弁企業](https://ja.wikipedia.org/wiki/:en:Dotdash "wikilink")、リクルート・アバウトドットコム・ジャパン社による「All About Japan」としてサービスを開始した。About.comの方針を持ち込んで敷かれたさまざまなジャンルの専門家をAll Aboutガイドとして起用するガイド制は、現在も引き継がれている。
 
 2004年7月には社名を株式会社オールアバウトとし、同9月には[ヤフーが米About社の株式持ち分をすべて取得](https://ja.wikipedia.org/wiki/ヤフー_\(企業\) "wikilink")。また同10月にはサイト名からJapanを外し、「All About」としている。
 

@@ -1,7 +1,7 @@
 > この記事は[Friday Party](https://ja.wikipedia.org/wiki/Friday_Party)から翻訳されています。
 
 
-「**Friday Party**」（フライデー パーティー）は、日本の音楽グループ[AAAの](https://ja.wikipedia.org/wiki/AAA_\(音楽グループ\) "wikilink")2枚目のシングル。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月5日](../Page/10月5日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+「**Friday Party**」（フライデー パーティー）は、日本の音楽グループ[AAAの](../Page/AAA_\(音楽グループ\).md "wikilink")2枚目のシングル。[2005年](../Page/2005年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 
@@ -20,7 +20,7 @@
 1.  **Friday Party**
     （作詞：[m.c.A・T](https://ja.wikipedia.org/wiki/m.c.A・T "wikilink")／作曲：[Akio Togashi](https://ja.wikipedia.org/wiki/m.c.A・T "wikilink")）
 2.  Friday Party（Instrumental）
-3.  Secret Track（[きれいな空 CM](https://ja.wikipedia.org/wiki/きれいな空 "wikilink")）
+3.  Secret Track（[きれいな空 CM](../Page/きれいな空.md "wikilink")）
 
 <!-- end list -->
 

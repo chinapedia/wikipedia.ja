@@ -23,15 +23,15 @@
 ## 概略
 
   - すべての[アルバム](../Page/アルバム.md "wikilink")を映像化（小道具、撮影、編集等は自力で）するという視覚と聴覚で世界観を表現したバンドであり、衣装やメイクも奇抜であった為[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")バンドに括られることもある。
-  - サウンド面では初期はアコースティックなアプローチがされていたが、JAKE脱退以降は[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")、[インダストリアル](https://ja.wikipedia.org/wiki/インダストリアル "wikilink")ロック系になっていった。コンテンポラリーダンサーのDINAHと、HIROPONの異次元空間のようなダンスが映像作品随所にちりばめられている。
-  - バンド名は「グニャグニャした道具」という意味の造語。FULLが[キーボードを適当に打って現れた](https://ja.wikipedia.org/wiki/キーボード_\(コンピュータ\) "wikilink")「guniw」という言葉を気に入り、あらゆる単語を付け加えてバンド名を考え、最終的に「GUNIW TOOLS」に決定。
+  - サウンド面では初期はアコースティックなアプローチがされていたが、JAKE脱退以降は[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")、[インダストリアル](../Page/インダストリアル.md "wikilink")ロック系になっていった。コンテンポラリーダンサーのDINAHと、HIROPONの異次元空間のようなダンスが映像作品随所にちりばめられている。
+  - バンド名は「グニャグニャした道具」という意味の造語。FULLが[キーボードを適当に打って現れた](../Page/キーボード_\(コンピュータ\).md "wikilink")「guniw」という言葉を気に入り、あらゆる単語を付け加えてバンド名を考え、最終的に「GUNIW TOOLS」に決定。
 
 ## メンバー
 
   - full（古川とも）：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
       -
-        本名・古川智（ふるかわ さとし）。[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink")生まれ。[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[帯広市](../Page/帯広市.md "wikilink")出身。[ビデオ編集](https://ja.wikipedia.org/wiki/ビデオ編集 "wikilink")、小物作りなど、多角的にこなす。[バンマス](https://ja.wikipedia.org/wiki/バンドマスター "wikilink")。GUNIW TOOLS以前にはゲームメーカーの[データイースト](../Page/データイースト.md "wikilink")に在籍し、[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")『[ダーウィン4078](https://ja.wikipedia.org/wiki/ダーウィン4078 "wikilink")』において、ゲームデザイン、グラフィック、サウンドなどほとんどを1人で手がけた事でも知られる。
-        自身所属のバンドのみならず、[BUCK-TICK](https://ja.wikipedia.org/wiki/BUCK-TICK "wikilink")の「[キャンディ](https://ja.wikipedia.org/wiki/キャンディ_\(BUCK-TICKの曲\) "wikilink")」や[MERRY](https://ja.wikipedia.org/wiki/MERRY "wikilink")の「ひらひらとんでる。」の[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")のプロデュースも手掛けた。
+        本名・古川智（ふるかわ さとし）。[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink")生まれ。[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[帯広市](../Page/帯広市.md "wikilink")出身。[ビデオ編集](https://ja.wikipedia.org/wiki/ビデオ編集 "wikilink")、小物作りなど、多角的にこなす。[バンマス](https://ja.wikipedia.org/wiki/バンドマスター "wikilink")。GUNIW TOOLS以前にはゲームメーカーの[データイースト](../Page/データイースト.md "wikilink")に在籍し、[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")『[ダーウィン4078](../Page/ダーウィン4078.md "wikilink")』において、ゲームデザイン、グラフィック、サウンドなどほとんどを1人で手がけた事でも知られる。
+        自身所属のバンドのみならず、[BUCK-TICK](../Page/BUCK-TICK.md "wikilink")の「[キャンディ](https://ja.wikipedia.org/wiki/キャンディ_\(BUCK-TICKの曲\) "wikilink")」や[MERRY](../Page/MERRY.md "wikilink")の「ひらひらとんでる。」の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")のプロデュースも手掛けた。
         BUCK-TICKの[櫻井敦司](../Page/櫻井敦司.md "wikilink")、[Plastic Treeの](https://ja.wikipedia.org/wiki/Plastic_Tree "wikilink")[有村竜太朗](https://ja.wikipedia.org/wiki/有村竜太朗 "wikilink")と親交が深い。
   - [ASAKI](../Page/ASAKI.md "wikilink")：[ギター](../Page/ギター.md "wikilink")
       -
@@ -44,7 +44,7 @@
   - JAKE：ギター。
       -
         1971年[1月9日](../Page/1月9日.md "wikilink")生まれ。\[3\]北海道[留萌市](../Page/留萌市.md "wikilink")出身。初期のサウンドプロデュースに貢献。
-        [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[NHKホール](https://ja.wikipedia.org/wiki/NHKホール "wikilink")のライブを最後に脱退。後に[SUPER SOUL SONICS](https://ja.wikipedia.org/wiki/SUPER_SOUL_SONICS "wikilink")（活動休止）、cloudchair（ソロプロジェクト）、THE MORTAL（[櫻井敦司](../Page/櫻井敦司.md "wikilink")のソロプロジェクト）等で活動。
+        [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[NHKホール](../Page/NHKホール.md "wikilink")のライブを最後に脱退。後に[SUPER SOUL SONICS](https://ja.wikipedia.org/wiki/SUPER_SOUL_SONICS "wikilink")（活動休止）、cloudchair（ソロプロジェクト）、THE MORTAL（[櫻井敦司](../Page/櫻井敦司.md "wikilink")のソロプロジェクト）等で活動。
 
 ### サポートメンバー
 
@@ -54,7 +54,7 @@
   - 岡崎達成：[ドラムス](../Page/ドラムセット.md "wikilink")
       -
         元[M-AGE](../Page/M-AGE.md "wikilink")
-  - 三代堅：[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - 三代堅：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
       -
         元M-AGE
 

@@ -1,19 +1,19 @@
 > この記事は[RX \(\)](https://ja.wikipedia.org/wiki/RX_\(\))から翻訳されています。
 
 
-**RX**（アールエックス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")。[ジャズ](../Page/ジャズ.md "wikilink")、[ファンク](https://ja.wikipedia.org/wiki/ファンク "wikilink")、[プログレッシブ・ロック](../Page/プログレッシブ・ロック.md "wikilink")などをベースにした[フュージョンをメインとしていたユニットである](../Page/フュージョン_\(音楽\).md "wikilink")。
+**RX**（アールエックス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")。[ジャズ](../Page/ジャズ.md "wikilink")、[ファンク](../Page/ファンク.md "wikilink")、[プログレッシブ・ロック](../Page/プログレッシブ・ロック.md "wikilink")などをベースにした[フュージョンをメインとしていたユニットである](../Page/フュージョン_\(音楽\).md "wikilink")。
 
 ## 概要
 
-[聖飢魔II](../Page/聖飢魔II.md "wikilink")の構成員であった**ライデン湯沢**（現 [雷電湯澤](https://ja.wikipedia.org/wiki/雷電湯澤 "wikilink")、[ドラム担当](../Page/ドラムセット.md "wikilink")）と**ゼノン石川**（現 [石川俊介](../Page/石川俊介.md "wikilink")、[ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")）を核として結成、そこへ聖飢魔IIをサポートしていた**妖怪マツザキ様**（又の名を怪人松崎様。現 [松崎雄一](https://ja.wikipedia.org/wiki/松崎雄一 "wikilink")、[キーボード担当](../Page/鍵盤楽器.md "wikilink")）が加わり、3名を中心として活動した。バンド名も **R**aiden Yuzawa、**X**enon Ishikawa、各々の頭文字を取って RX としている。
+[聖飢魔II](../Page/聖飢魔II.md "wikilink")の構成員であった**ライデン湯沢**（現 [雷電湯澤](../Page/雷電湯澤.md "wikilink")、[ドラム担当](../Page/ドラムセット.md "wikilink")）と**ゼノン石川**（現 [石川俊介](../Page/石川俊介.md "wikilink")、[ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")）を核として結成、そこへ聖飢魔IIをサポートしていた**妖怪マツザキ様**（又の名を怪人松崎様。現 [松崎雄一](../Page/松崎雄一.md "wikilink")、[キーボード担当](../Page/鍵盤楽器.md "wikilink")）が加わり、3名を中心として活動した。バンド名も **R**aiden Yuzawa、**X**enon Ishikawa、各々の頭文字を取って RX としている。
 
 ## 略歴
 
-[1991年](../Page/1991年.md "wikilink")に1stアルバム『CHEMICAL REACTION』発売。[本多俊之](https://ja.wikipedia.org/wiki/本多俊之 "wikilink")、[渡辺香津美](https://ja.wikipedia.org/wiki/渡辺香津美 "wikilink")、[和田アキラ](https://ja.wikipedia.org/wiki/和田アキラ "wikilink")ほか豪華なゲストも話題を呼び、[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")最高14位という[インストゥルメンタルとしては異例のヒットとなった](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")。同アルバムに伴うライブではアルバムに参加したミュージシャンの殆どがステージに立ち、その模様はライブ・アルバム『Rare' Xtra』に納められた。
+[1991年](../Page/1991年.md "wikilink")に1stアルバム『CHEMICAL REACTION』発売。[本多俊之](../Page/本多俊之.md "wikilink")、[渡辺香津美](../Page/渡辺香津美.md "wikilink")、[和田アキラ](https://ja.wikipedia.org/wiki/和田アキラ "wikilink")ほか豪華なゲストも話題を呼び、[オリコンチャート](../Page/オリコンチャート.md "wikilink")最高14位という[インストゥルメンタルとしては異例のヒットとなった](../Page/器楽曲.md "wikilink")。同アルバムに伴うライブではアルバムに参加したミュージシャンの殆どがステージに立ち、その模様はライブ・アルバム『Rare' Xtra』に納められた。
 
 聖飢魔IIの活動に専念するため一時的に活動を休止していたが、解散後に人間の姿で再始動、さっそく[2000年](../Page/2000年.md "wikilink")にはアルバム『Zeitmesser』を発表。初の全国ツアーも行う。
 
-翌[2001年](../Page/2001年.md "wikilink")に発表されたアルバム『Elements』には[ジョン・ウェットン](../Page/ジョン・ウェットン.md "wikilink")が参加。さらに彼は同アルバム完成直後に行われたライブにもゲスト出演し、これがきっかけでウェットンの[ロンドン](../Page/ロンドン.md "wikilink")公演のサポートが決定する。ウェットンと共に演奏された[エイジア](https://ja.wikipedia.org/wiki/エイジア "wikilink")の楽曲も納めたロンドン公演の模様は、DVDビデオ『live in LONDON』として発表された。
+翌[2001年](../Page/2001年.md "wikilink")に発表されたアルバム『Elements』には[ジョン・ウェットン](../Page/ジョン・ウェットン.md "wikilink")が参加。さらに彼は同アルバム完成直後に行われたライブにもゲスト出演し、これがきっかけでウェットンの[ロンドン](../Page/ロンドン.md "wikilink")公演のサポートが決定する。ウェットンと共に演奏された[エイジア](../Page/エイジア.md "wikilink")の楽曲も納めたロンドン公演の模様は、DVDビデオ『live in LONDON』として発表された。
 
 そして続くアルバム『KISS OF LIFE』を発表、東名阪ツアーを行う。そしてコンピレーション盤2枚を発売し、これに伴うツアー「RXの休息」の後再び活動を休止した。その後も同3名は「[デーモン小暮の邦楽維新Collaboration](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink")」において「黒船バンド」名義でのライヴ活動を行っていた。
 
@@ -78,7 +78,7 @@
 #### ライブアルバム
 
   - **[Rare 'Xtra](https://ja.wikipedia.org/wiki/Rare_'Xtra "wikilink")** （1994年）
-    1.  SOUL INTRO （作曲：[ジャコ・パストリアス](https://ja.wikipedia.org/wiki/ジャコ・パストリアス "wikilink")、編曲：松崎雄一）
+    1.  SOUL INTRO （作曲：[ジャコ・パストリアス](../Page/ジャコ・パストリアス.md "wikilink")、編曲：松崎雄一）
     2.  CHEMICAL REACTION （作・編曲：松崎雄一）
     3.  DEVIL'S TONGUE （作曲：ライデン湯沢、編曲：松崎雄一）
     4.  オヤマニアン （作曲：松崎雄一、編曲：松崎雄一、和田アキラ）

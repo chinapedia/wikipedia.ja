@@ -34,7 +34,7 @@
 ## メンバー
 
   - **三井 大樹**（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ギター](../Page/ギター.md "wikilink")）1981年5月28日生まれ
-  - **彦根 利夫**（[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")・[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")）1981年6月11日生まれ
+  - **彦根 利夫**（[ベース](../Page/ベース_\(弦楽器\).md "wikilink")・[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")）1981年6月11日生まれ
   - **太田 択馬**（[ドラム](../Page/ドラムセット.md "wikilink")・[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")）1977年5月28日生まれ
 
 ## 元メンバー
@@ -46,7 +46,7 @@
 
 ### album
 
-  - **『VISION』**（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")11月11日発売。）SBIX-2031
+  - **『VISION』**（[2005年](../Page/2005年.md "wikilink")11月11日発売。）SBIX-2031
       - 1.GO
       - 2.vibration
       - 3.風

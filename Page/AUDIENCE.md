@@ -15,7 +15,7 @@
 
 1.  **AUDIENCE "Dave Ford Mix"**
       -
-        [作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：ayumi hamasaki / [作曲](../Page/作曲.md "wikilink")：[D・A・I](https://ja.wikipedia.org/wiki/長尾大 "wikilink") / [編曲](../Page/編曲.md "wikilink")：[HΛL](https://ja.wikipedia.org/wiki/HΛL "wikilink")
+        [作詞](../Page/作詞.md "wikilink")：ayumi hamasaki / [作曲](../Page/作曲.md "wikilink")：[D・A・I](../Page/長尾大.md "wikilink") / [編曲](../Page/編曲.md "wikilink")：[HΛL](../Page/HΛL.md "wikilink")
 2.  **[SURREAL](../Page/SURREAL.md "wikilink") "Sample MadnesS remix"**
 3.  **AUDIENCE "Keith Litman's Radio Mix"**
 4.  **AUDIENCE "Feelin' U Mix"**

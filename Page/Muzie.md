@@ -11,17 +11,17 @@
 
   - [Aqua Timez](https://ja.wikipedia.org/wiki/Aqua_Timez "wikilink") - muzieでは「白い森」「向日葵」「静かな恋の物語」を発表した。
   - [fripSide](https://ja.wikipedia.org/wiki/fripSide "wikilink") - muzieで活動し数多くの[PCゲーム](https://ja.wikipedia.org/wiki/PCゲーム "wikilink")に曲を提供した。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")7月に[TVアニメ](https://ja.wikipedia.org/wiki/TVアニメ "wikilink")『[恋姫†無双](https://ja.wikipedia.org/wiki/恋姫†無双_\(アニメ\) "wikilink")』の主題歌で[メジャーデビュー](https://ja.wikipedia.org/wiki/メジャーレーベル "wikilink")。
-  - [磯貝サイモン](https://ja.wikipedia.org/wiki/磯貝サイモン "wikilink")
+  - [磯貝サイモン](../Page/磯貝サイモン.md "wikilink")
   - 風玉([らっぷびと](../Page/らっぷびと.md "wikilink"))
   - [MintJam](https://ja.wikipedia.org/wiki/MintJam "wikilink")
-  - [MALCO](https://ja.wikipedia.org/wiki/MALCO "wikilink")
+  - [MALCO](../Page/MALCO.md "wikilink")
   - [志方あきこ](../Page/志方あきこ.md "wikilink")
-  - [霜月はるか](https://ja.wikipedia.org/wiki/霜月はるか "wikilink")
+  - [霜月はるか](../Page/霜月はるか.md "wikilink")
   - [Silly](https://ja.wikipedia.org/wiki/Silly_\(バンド\) "wikilink")
-  - [サンタラ](https://ja.wikipedia.org/wiki/サンタラ "wikilink")
+  - [サンタラ](../Page/サンタラ.md "wikilink")
   - [トルネード竜巻](../Page/トルネード竜巻.md "wikilink") - 活動休止。
   - [アーバンギャルド](https://ja.wikipedia.org/wiki/アーバンギャルド "wikilink")
-  - [藤田麻衣子](https://ja.wikipedia.org/wiki/藤田麻衣子 "wikilink")
+  - [藤田麻衣子](../Page/藤田麻衣子.md "wikilink")
 
 ## 関連項目
 

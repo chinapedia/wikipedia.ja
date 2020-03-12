@@ -5,9 +5,9 @@
 
 ## 内容
 
-[ドリーム・シアター](https://ja.wikipedia.org/wiki/ドリーム・シアター "wikilink")や[マジェラン](../Page/マジェラン.md "wikilink")、[カイロ等のアルバムをリリースしている](../Page/カイロ_\(バンド\).md "wikilink")「[マグナ・カルタ・レコード](https://ja.wikipedia.org/wiki/マグナ・カルタ・レコード "wikilink")」がリリースした[トリビュート・アルバム](https://ja.wikipedia.org/wiki/トリビュート・アルバム "wikilink")。
+[ドリーム・シアター](../Page/ドリーム・シアター.md "wikilink")や[マジェラン](../Page/マジェラン.md "wikilink")、[カイロ等のアルバムをリリースしている](../Page/カイロ_\(バンド\).md "wikilink")「[マグナ・カルタ・レコード](https://ja.wikipedia.org/wiki/マグナ・カルタ・レコード "wikilink")」がリリースした[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")。
 
-ドリーム・シアターやマジェランのメンバー/元メンバーの他、[カール・パーマー](https://ja.wikipedia.org/wiki/カール・パーマー "wikilink")と[エイジア](https://ja.wikipedia.org/wiki/エイジア "wikilink")を結成していた[ジョン・ウェットン](../Page/ジョン・ウェットン.md "wikilink")と[ジェフ・ダウンズ](../Page/ジェフ・ダウンズ.md "wikilink")、[3(スリー)に参加した](../Page/3_\(バンド\).md "wikilink")[ロバート・ベリー](../Page/ロバート・ベリー.md "wikilink")、元[イエスの](../Page/イエス_\(バンド\).md "wikilink")[ピーター・バンクス](../Page/ピーター・バンクス.md "wikilink")と[イゴール・コロシェフ](../Page/イゴール・コロシェフ.md "wikilink")、さらに[グレン・ヒューズ](https://ja.wikipedia.org/wiki/グレン・ヒューズ "wikilink")や[サイモン・フィリップス](https://ja.wikipedia.org/wiki/サイモン・フィリップス "wikilink")等が参加している。
+ドリーム・シアターやマジェランのメンバー/元メンバーの他、[カール・パーマー](../Page/カール・パーマー.md "wikilink")と[エイジア](../Page/エイジア.md "wikilink")を結成していた[ジョン・ウェットン](../Page/ジョン・ウェットン.md "wikilink")と[ジェフ・ダウンズ](../Page/ジェフ・ダウンズ.md "wikilink")、[3(スリー)に参加した](../Page/3_\(バンド\).md "wikilink")[ロバート・ベリー](../Page/ロバート・ベリー.md "wikilink")、元[イエスの](../Page/イエス_\(バンド\).md "wikilink")[ピーター・バンクス](../Page/ピーター・バンクス.md "wikilink")と[イゴール・コロシェフ](../Page/イゴール・コロシェフ.md "wikilink")、さらに[グレン・ヒューズ](../Page/グレン・ヒューズ.md "wikilink")や[サイモン・フィリップス](https://ja.wikipedia.org/wiki/サイモン・フィリップス "wikilink")等が参加している。
 
 ## 収録曲（参加ミュージシャン）
 
@@ -27,15 +27,15 @@
   - [イゴール・コロシェフ](../Page/イゴール・コロシェフ.md "wikilink") (2、9)
   - ウェイン・ガードナー (2、3、5、7、8)
   - エリク・ノーランダー (4)
-  - [グレン・ヒューズ](https://ja.wikipedia.org/wiki/グレン・ヒューズ "wikilink") (4)
+  - [グレン・ヒューズ](../Page/グレン・ヒューズ.md "wikilink") (4)
   - [サイモン・フィリップス](https://ja.wikipedia.org/wiki/サイモン・フィリップス "wikilink") (1、4、6、9、10)
   - [ジェイムズ・ラブリエ](../Page/ジェイムズ・ラブリエ.md "wikilink") (5、9)
   - [ジェフ・ダウンズ](../Page/ジェフ・ダウンズ.md "wikilink") (8)
   - [ジェリー・グッドマン](https://ja.wikipedia.org/wiki/ジェリー・グッドマン "wikilink") (6)
-  - [ジョーダン・ルーデス](https://ja.wikipedia.org/wiki/ジョーダン・ルーデス "wikilink") (1、6)
+  - [ジョーダン・ルーデス](../Page/ジョーダン・ルーデス.md "wikilink") (1、6)
   - [ジョン・ウェットン](../Page/ジョン・ウェットン.md "wikilink") (2、7)
   - ジョン・ノヴェロ (5)
-  - [デレク・シェリニアン](https://ja.wikipedia.org/wiki/デレク・シェリニアン "wikilink") (10)
+  - [デレク・シェリニアン](../Page/デレク・シェリニアン.md "wikilink") (10)
   - ドアン・ペリー (5)
   - トレント・ガードナー (1、3、5、7、8)
   - [パット・マステロット](https://ja.wikipedia.org/wiki/パット・マステロット "wikilink") (2、3)
@@ -44,7 +44,7 @@
   - マーク・ボニーラ (4、6、10)
   - マーク・ロバートソン (7)
   - マーティン・バレ (5)
-  - [マイク・ポートノイ](https://ja.wikipedia.org/wiki/マイク・ポートノイ "wikilink") (7、8)
+  - [マイク・ポートノイ](../Page/マイク・ポートノイ.md "wikilink") (7、8)
   - マット・ギロリー (3)
   - [ロバート・ベリー](../Page/ロバート・ベリー.md "wikilink") (1、4、6、9、10)
 

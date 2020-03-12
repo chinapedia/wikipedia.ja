@@ -1,7 +1,7 @@
 > この記事は[MoinMoin](https://ja.wikipedia.org/wiki/MoinMoin)から翻訳されています。
 
 
-**MoinMoin**（モインモイン）は[Python](../Page/Python.md "wikilink")で書かれた[ウィキクローンの一つ](../Page/ウィキソフトウェア.md "wikilink")。ユルゲン・ヘルマン、トーマス・ヴァルドマンらによって開発された。ライセンスは[GPLである](../Page/GNU_General_Public_License.md "wikilink")。*[Moin](https://ja.wikipedia.org/wiki/Moin "wikilink")*とは北部ドイツ等で話される[フリジア語](https://ja.wikipedia.org/wiki/フリジア語 "wikilink")の挨拶の言葉であり、直訳すると「よき一日を！」という意味である\[1\]。
+**MoinMoin**（モインモイン）は[Python](../Page/Python.md "wikilink")で書かれた[ウィキクローンの一つ](../Page/ウィキソフトウェア.md "wikilink")。ユルゲン・ヘルマン、トーマス・ヴァルドマンらによって開発された。ライセンスは[GPLである](../Page/GNU_General_Public_License.md "wikilink")。*[Moin](https://ja.wikipedia.org/wiki/Moin "wikilink")*とは北部ドイツ等で話される[フリジア語](../Page/フリジア語.md "wikilink")の挨拶の言葉であり、直訳すると「よき一日を！」という意味である\[1\]。
 
 ## 特徴
 
@@ -14,7 +14,7 @@
   - ウィキ文法を意識せずに編集が行える[WYSIWYG](../Page/WYSIWYG.md "wikilink")エディタ。
   - スペルチェック機能。
 
-などの特徴\[2\]がある。また、欧米では非常にポピュラーな[ウィキ](../Page/ウィキ.md "wikilink")であり、[Apacheや](https://ja.wikipedia.org/wiki/Apacheソフトウェア財団 "wikilink")[Xen](https://ja.wikipedia.org/wiki/Xen_\(仮想化ソフトウェア\) "wikilink")、[Fedora](../Page/Fedora.md "wikilink")、[Debian](../Page/Debian.md "wikilink")、[Ubuntu](https://ja.wikipedia.org/wiki/Ubuntu "wikilink")など、著名なオープンソースプロジェクトのWikiに採用されている\[3\]。
+などの特徴\[2\]がある。また、欧米では非常にポピュラーな[ウィキ](../Page/ウィキ.md "wikilink")であり、[Apacheや](../Page/Apacheソフトウェア財団.md "wikilink")[Xen](../Page/Xen_\(仮想化ソフトウェア\).md "wikilink")、[Fedora](../Page/Fedora.md "wikilink")、[Debian](../Page/Debian.md "wikilink")、[Ubuntu](../Page/Ubuntu.md "wikilink")など、著名なオープンソースプロジェクトのWikiに採用されている\[3\]。
 
 ## DesktopEdition
 
@@ -25,7 +25,7 @@
   - Apache - [Apache Wiki](https://wiki.apache.org/general/)
   - Xen - [Xen Wiki](https://wiki.xen.org/wiki/)
   - Debian - [Debian Wiki](https://wiki.debian.org/)
-  - [Ubuntu](https://ja.wikipedia.org/wiki/Ubuntu "wikilink") - [Ubuntu Team Wiki](https://wiki.ubuntu.com/)
+  - [Ubuntu](../Page/Ubuntu.md "wikilink") - [Ubuntu Team Wiki](https://wiki.ubuntu.com/)
   - [CAcert](https://ja.wikipedia.org/wiki/CAcert "wikilink") - [CAcert Wiki](http://wiki.cacert.org/wiki/)
   - Dovecot - [Dovecot Wiki](https://wiki.dovecot.org/FrontPage)
   - FreeBSD - [FreeBSD Wiki](https://wiki.freebsd.org/)

@@ -1,14 +1,14 @@
 > この記事は[ \(AAA\)](https://ja.wikipedia.org/wiki/_\(AAA\))から翻訳されています。
 
 
-「**ハレルヤ**」は、日本の音楽グループ[AAAの](https://ja.wikipedia.org/wiki/AAA_\(音楽グループ\) "wikilink")5枚目の[シングル](../Page/シングル.md "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[2月15日](../Page/2月15日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+「**ハレルヤ**」は、日本の音楽グループ[AAAの](../Page/AAA_\(音楽グループ\).md "wikilink")5枚目の[シングル](../Page/シングル.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 
   - 前作「[DRAGON FIRE](../Page/DRAGON_FIRE.md "wikilink")」から約2ヵ月ぶりの発売となる。
-  - テレビドラマ「[ガチバカ\!](../Page/ガチバカ!.md "wikilink")」（[TBS](../Page/TBSテレビ.md "wikilink")）オープニングテーマ。[高橋克典](https://ja.wikipedia.org/wiki/高橋克典 "wikilink")演じる熱血教師が炎に包まれながら教鞭を振るうシーンに使用されている。
+  - テレビドラマ「[ガチバカ\!](../Page/ガチバカ!.md "wikilink")」（[TBS](../Page/TBSテレビ.md "wikilink")）オープニングテーマ。[高橋克典](../Page/高橋克典.md "wikilink")演じる熱血教師が炎に包まれながら教鞭を振るうシーンに使用されている。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月5日](../Page/3月5日.md "wikilink")に発売された、結婚や恋愛をテーマにした人気ドラマを中心に実際の結婚式にも使える楽曲を集めた「HAPPY\!〜CLIMAX marriage best〜」にも収録されている。
-  - PVの衣装には、[アディダス](https://ja.wikipedia.org/wiki/アディダス "wikilink")のジャージを加工して使われた。メンバー全員が揃う日が無く、アクロバットなダンスの振り付けは1日で仕上げた。
+  - PVの衣装には、[アディダス](../Page/アディダス.md "wikilink")のジャージを加工して使われた。メンバー全員が揃う日が無く、アクロバットなダンスの振り付けは1日で仕上げた。
   - デビュー曲「[BLOOD on FIRE](../Page/BLOOD_on_FIRE.md "wikilink")」以来のトップ10入り。
 
 ## 収録内容

@@ -5,44 +5,44 @@
 
 ## 解説
 
-初の「[CD](../Page/コンパクトディスク.md "wikilink")+[DVD](../Page/DVD-Video.md "wikilink")」と「CDのみ」の2形態で発売。CD収録曲の全て（ボーナストラック除く）の[PVがDVDに収録](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。
+初の「[CD](../Page/コンパクトディスク.md "wikilink")+[DVD](../Page/DVD-Video.md "wikilink")」と「CDのみ」の2形態で発売。CD収録曲の全て（ボーナストラック除く）の[PVがDVDに収録](../Page/ミュージック・ビデオ.md "wikilink")。
 
-本作DVDに収録されているPV3曲が「[MTV Video Music Awards Japan 2004](https://ja.wikipedia.org/wiki/MTV_Video_Music_Awards_Japan "wikilink")」「[SPACE SHOWER Music Video Awards 04](https://ja.wikipedia.org/wiki/SPACE_SHOWER_Music_Video_Awards "wikilink")」で受賞した。
+本作DVDに収録されているPV3曲が「[MTV Video Music Awards Japan 2004](../Page/MTV_Video_Music_Awards_Japan.md "wikilink")」「[SPACE SHOWER Music Video Awards 04](https://ja.wikipedia.org/wiki/SPACE_SHOWER_Music_Video_Awards "wikilink")」で受賞した。
 
-29thシングル「[&](https://ja.wikipedia.org/wiki/&_\(シングル\) "wikilink")」のカップリングである「theme of a-nation '03」は収録されていない。
+29thシングル「[&](../Page/&_\(シングル\).md "wikilink")」のカップリングである「theme of a-nation '03」は収録されていない。
 
 ## 収録曲
 
 ### DISC1 (CD)
 
   - 全8曲収録
-  - 全曲[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：ayumi hamasaki
+  - 全曲[作詞](../Page/作詞.md "wikilink")：ayumi hamasaki
 
 <!-- end list -->
 
 1.  **ANGEL'S SONG**
       -
-        [作曲](../Page/作曲.md "wikilink")：[Tetsuya Yukumi](../Page/湯汲哲也.md "wikilink") / [編曲](../Page/編曲.md "wikilink")：[HΛL (Toshiharu Umesaki, Takehito Shimizu, Yuta Nakano)](https://ja.wikipedia.org/wiki/HΛL "wikilink")
-        [Panasonic](https://ja.wikipedia.org/wiki/パナソニック "wikilink") 「[D-snap](https://ja.wikipedia.org/wiki/D-snap "wikilink")」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")
-2.  **[Greatful days](https://ja.wikipedia.org/wiki/&_\(シングル\) "wikilink")**
+        [作曲](../Page/作曲.md "wikilink")：[Tetsuya Yukumi](../Page/湯汲哲也.md "wikilink") / [編曲](../Page/編曲.md "wikilink")：[HΛL (Toshiharu Umesaki, Takehito Shimizu, Yuta Nakano)](../Page/HΛL.md "wikilink")
+        [Panasonic](https://ja.wikipedia.org/wiki/パナソニック "wikilink") 「[D-snap](../Page/D-snap.md "wikilink")」[CMソング](../Page/コマーシャルソング.md "wikilink")
+2.  **[Greatful days](../Page/&_\(シングル\).md "wikilink")**
       -
-        作曲：[BOUNCEBACK](https://ja.wikipedia.org/wiki/BOUNCEBACK "wikilink") / 編曲：HΛL
-        29thシングル「[&](https://ja.wikipedia.org/wiki/&_\(シングル\) "wikilink")」収録曲
-        フジテレビジョン系音楽バラエティー『[ayu ready?](https://ja.wikipedia.org/wiki/ayu_ready? "wikilink")』[テーマソング](https://ja.wikipedia.org/wiki/主題歌 "wikilink")
+        作曲：[BOUNCEBACK](../Page/BOUNCEBACK.md "wikilink") / 編曲：HΛL
+        29thシングル「[&](../Page/&_\(シングル\).md "wikilink")」収録曲
+        フジテレビジョン系音楽バラエティー『[ayu ready?](https://ja.wikipedia.org/wiki/ayu_ready? "wikilink")』[テーマソング](../Page/主題歌.md "wikilink")
 3.  **Because of You**
       -
         作曲：BOUNCEBACK / 編曲：HΛL
         Panasonic デジタルカメラ「[LUMIX](../Page/LUMIX.md "wikilink")」CMソング
-4.  **[ourselves](https://ja.wikipedia.org/wiki/&_\(シングル\) "wikilink")**
+4.  **[ourselves](../Page/&_\(シングル\).md "wikilink")**
       -
         作曲：BOUNCEBACK / 編曲：[CMJK](https://ja.wikipedia.org/wiki/CMJK "wikilink")
         29thシングル「&」収録曲
         [KOSE](../Page/コーセー.md "wikilink") MODE UP 'VISEE' TV-CFソング
-5.  **[HANABI 〜episode II〜](https://ja.wikipedia.org/wiki/&_\(シングル\) "wikilink")**
+5.  **[HANABI 〜episode II〜](../Page/&_\(シングル\).md "wikilink")**
       -
-        作曲：[CREA](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink") + [D・A・I](https://ja.wikipedia.org/wiki/長尾大 "wikilink") / 編曲：[tasuku](https://ja.wikipedia.org/wiki/tasuku "wikilink")
+        作曲：[CREA](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink") + [D・A・I](../Page/長尾大.md "wikilink") / 編曲：[tasuku](https://ja.wikipedia.org/wiki/tasuku "wikilink")
         29thシングル「&」収録曲
-6.  **[No way to say](https://ja.wikipedia.org/wiki/No_way_to_say "wikilink")**
+6.  **[No way to say](../Page/No_way_to_say.md "wikilink")**
       -
         作曲：BOUNCEBACK / 編曲：HΛL
         31stシングル
@@ -51,7 +51,7 @@
       -
         作曲：CREA + D・A・I / 編曲：CMJK
         30thシングル
-        [TBS系ドラマ](../Page/TBSテレビ.md "wikilink")『[高原へいらっしゃい](https://ja.wikipedia.org/wiki/高原へいらっしゃい#2003年版 "wikilink")』[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")
+        [TBS系ドラマ](../Page/TBSテレビ.md "wikilink")『[高原へいらっしゃい](https://ja.wikipedia.org/wiki/高原へいらっしゃい#2003年版 "wikilink")』[主題歌](../Page/主題歌.md "wikilink")
 8.  **Memorial address (take 2 version)** ※[Bonus Track](https://ja.wikipedia.org/wiki/ボーナストラック "wikilink")
       -
         作曲：Tetsuya Yukumi for LOVER SOUND TRACK / 編曲：[tasuku](https://ja.wikipedia.org/wiki/tasuku "wikilink")

@@ -9,7 +9,7 @@
   - 彩度：HSVとは違い、純色から彩度が落ちるということは、すなわち灰色になっていくという考え方に基づいている。
   - 輝度：明度100%を純色としてそこからどれだけ明るさが失われるかで表すHSVとは違い、輝度0%を黒、100%を白とし、その中間（50%）を純色とする。50%以下はHSVの明度を示し、50%以上はHSVの彩度を示すと考えると分かりやすいだろう。
 
-HLS色空間を使う代表的なアプリケーションとしては Microsoft Windows （ペイントを含む）、CSS3、Paint Shop Pro、[Inkscape](https://ja.wikipedia.org/wiki/Inkscape "wikilink") など。
+HLS色空間を使う代表的なアプリケーションとしては Microsoft Windows （ペイントを含む）、CSS3、Paint Shop Pro、[Inkscape](../Page/Inkscape.md "wikilink") など。
 
 ## RGBからHLS（HSL）への変換
 

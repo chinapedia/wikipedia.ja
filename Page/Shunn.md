@@ -6,7 +6,7 @@
 ## 略歴・概要・人物
 
   - 4歳でピアノを始め、高校生（[筑波大学附属高校](../Page/筑波大学附属中学校・高等学校.md "wikilink")）になってヴォーカルスクールに通い始め、[広瀬香美](https://ja.wikipedia.org/wiki/広瀬香美 "wikilink")に師事。
-  - [2003年](../Page/2003年.md "wikilink")[5月7日](../Page/5月7日.md "wikilink")：アニメ『[D・N・ANGEL](../Page/D・N・ANGEL.md "wikilink")』主題歌『白夜〜True Light〜』で[ビクター](https://ja.wikipedia.org/wiki/ビクター "wikilink")からCDデビュー。オリコン入りも果たす。同作品のラジオのパーソナリティとして、[入野自由](https://ja.wikipedia.org/wiki/入野自由 "wikilink")とタッグを組む。「宮本君、声優化計画」の影響か、声優としての活動も始める。
+  - [2003年](../Page/2003年.md "wikilink")[5月7日](../Page/5月7日.md "wikilink")：アニメ『[D・N・ANGEL](../Page/D・N・ANGEL.md "wikilink")』主題歌『白夜〜True Light〜』で[ビクター](https://ja.wikipedia.org/wiki/ビクター "wikilink")からCDデビュー。オリコン入りも果たす。同作品のラジオのパーソナリティとして、[入野自由](../Page/入野自由.md "wikilink")とタッグを組む。「宮本君、声優化計画」の影響か、声優としての活動も始める。
   - 全体的にうっとりとした様子をしていたためか、入野自由によって「うっとり」と呼ばれるようになる。
   - 声優初挑戦作品は『[機動戦士ガンダムSEED](../Page/機動戦士ガンダムSEED.md "wikilink")』[シャニ・アンドラス役](https://ja.wikipedia.org/wiki/生体CPU#シャニ・アンドラス "wikilink")。ゲームのアフレコや特別編でも、彼が一貫してアフレコに参加している。
   - アニメとのタイアップが薄くなってからは、改めて本格的に歌手として活動を開始。さらに『D・N・ANGEL』のラジオで培った経験を生かして『宮そばRADIO』をスタート。2008年現在100回目の放送回数を突破したネットラジオである。
@@ -23,26 +23,26 @@
 
   - [機動戦士ガンダムSEED](../Page/機動戦士ガンダムSEED.md "wikilink")（2002、2003年／[毎日放送](../Page/毎日放送.md "wikilink")／[シャニ・アンドラス役](https://ja.wikipedia.org/wiki/生体CPU#シャニ・アンドラス "wikilink")）
   - [D・N・ANGEL](../Page/D・N・ANGEL.md "wikilink")（2003年／[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")／ムッシュ宮本役）
-  - [機動戦士ガンダムSEED DESTINY](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_DESTINY "wikilink")（2004、2005年／[毎日放送](../Page/毎日放送.md "wikilink")／[シャニ・アンドラス役](https://ja.wikipedia.org/wiki/生体CPU#シャニ・アンドラス "wikilink")）
+  - [機動戦士ガンダムSEED DESTINY](../Page/機動戦士ガンダムSEED_DESTINY.md "wikilink")（2004、2005年／[毎日放送](../Page/毎日放送.md "wikilink")／[シャニ・アンドラス役](https://ja.wikipedia.org/wiki/生体CPU#シャニ・アンドラス "wikilink")）
 
 ### ゲーム
 
-  - ガンダムシリーズ（2004年 - 2019年、[バンダイ](../Page/バンダイ.md "wikilink") / [バンプレスト](https://ja.wikipedia.org/wiki/バンプレスト "wikilink") / [バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")、シャニ・アンドラス 役）
-      - [SDガンダム GGENERATIONシリーズ](https://ja.wikipedia.org/wiki/SDガンダム_GGENERATION "wikilink")（2004年 - 2019年） - 『GGENERATION SEED』以降
+  - ガンダムシリーズ（2004年 - 2019年、[バンダイ](../Page/バンダイ.md "wikilink") / [バンプレスト](../Page/バンプレスト.md "wikilink") / [バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")、シャニ・アンドラス 役）
+      - [SDガンダム GGENERATIONシリーズ](../Page/SDガンダム_GGENERATION.md "wikilink")（2004年 - 2019年） - 『GGENERATION SEED』以降
       - [機動戦士ガンダムSEED 終わらない明日へ](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_終わらない明日へ "wikilink")（2006年）
-      - [機動戦士ガンダムSEED DESTINY GENERATION of C.E.](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_DESTINY_GENERATION_of_C.E. "wikilink")（2007年）
+      - [機動戦士ガンダムSEED DESTINY GENERATION of C.E.](../Page/機動戦士ガンダムSEED_DESTINY_GENERATION_of_C.E..md "wikilink")（2007年）
       - [機動戦士ガンダム vs.シリーズ](../Page/機動戦士ガンダム_vs.シリーズ.md "wikilink")
-          - [機動戦士ガンダムSEED 連合vs.Z.A.F.T.](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_連合vs.Z.A.F.T. "wikilink")（2005年）
-          - [機動戦士ガンダムSEED DESTINY 連合vs.Z.A.F.T.II](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_DESTINY_連合vs.Z.A.F.T.II "wikilink")（2005年）
-          - [機動戦士ガンダムSEED DESTINY 連合vs.Z.A.F.T.II](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_DESTINY_連合vs.Z.A.F.T.II "wikilink") PLUS（2006年）
-          - [機動戦士ガンダムSEED 連合vs.Z.A.F.T. PORTABLE](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_連合vs.Z.A.F.T. "wikilink")（2007年）
+          - [機動戦士ガンダムSEED 連合vs.Z.A.F.T.](../Page/機動戦士ガンダムSEED_連合vs.Z.A.F.T..md "wikilink")（2005年）
+          - [機動戦士ガンダムSEED DESTINY 連合vs.Z.A.F.T.II](../Page/機動戦士ガンダムSEED_DESTINY_連合vs.Z.A.F.T.II.md "wikilink")（2005年）
+          - [機動戦士ガンダムSEED DESTINY 連合vs.Z.A.F.T.II](../Page/機動戦士ガンダムSEED_DESTINY_連合vs.Z.A.F.T.II.md "wikilink") PLUS（2006年）
+          - [機動戦士ガンダムSEED 連合vs.Z.A.F.T. PORTABLE](../Page/機動戦士ガンダムSEED_連合vs.Z.A.F.T..md "wikilink")（2007年）
           - [機動戦士ガンダム エクストリームバーサス](https://ja.wikipedia.org/wiki/機動戦士ガンダム_エクストリームバーサス "wikilink")（2010年）
           - [機動戦士ガンダム エクストリームバーサス フルブースト](https://ja.wikipedia.org/wiki/機動戦士ガンダム_エクストリームバーサス_フルブースト "wikilink")（2012年）
           - [機動戦士ガンダム エクストリームバーサス マキシブースト](https://ja.wikipedia.org/wiki/機動戦士ガンダム_エクストリームバーサス_マキシブースト "wikilink")（2014年）
           - [機動戦士ガンダム エクストリームバーサス マキシブースト ON](https://ja.wikipedia.org/wiki/機動戦士ガンダム_エクストリームバーサス_マキシブースト_ON "wikilink")（2016年）
       - [機動戦士ガンダムSEED BATTLE DESTINY](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_BATTLE_DESTINY "wikilink")（2012年）
       - [真・ガンダム無双](https://ja.wikipedia.org/wiki/ガンダム無双 "wikilink")（2013年）
-  - [第3次スーパーロボット大戦α 終焉の銀河へ](https://ja.wikipedia.org/wiki/第3次スーパーロボット大戦α_終焉の銀河へ "wikilink")（2005年、シャニ・アンドラス 役）
+  - [第3次スーパーロボット大戦α 終焉の銀河へ](../Page/第3次スーパーロボット大戦α_終焉の銀河へ.md "wikilink")（2005年、シャニ・アンドラス 役）
 
 ## ディスコグラフィー
 
@@ -65,7 +65,7 @@
 
   -
     最後のkiss＜Original Ver.＞／うそつき＜Original Ver.＞／最後のkiss＜ピアノ弾き語りVer.＞／うそつき＜アコースティックギターVer.＞
-    （[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月17日](../Page/11月17日.md "wikilink")／VICL-35731＜限定盤＞VICL-35761＜通常盤＞）
+    （[2005年](../Page/2005年.md "wikilink")[11月17日](../Page/11月17日.md "wikilink")／VICL-35731＜限定盤＞VICL-35761＜通常盤＞）
 
 <!-- end list -->
 
@@ -75,7 +75,7 @@
 
   -
     c/w「眠れない夜を越えて」
-    （[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")／VICL-35765）
+    （[2006年](../Page/2006年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")／VICL-35765）
 
 <!-- end list -->
 
@@ -94,7 +94,7 @@
 <!-- end list -->
 
   -
-    （[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月3日](../Page/12月3日.md "wikilink")／VICL-61250）
+    （[2005年](../Page/2005年.md "wikilink")[12月3日](../Page/12月3日.md "wikilink")／VICL-61250）
     The Way To Myself／Run Deeper\!／帰るべき場所／そばにいられるなら／Never,So Far Away／Anges／そばにいられるなら＜Starlight Version＞／Caged Bird＜Live Version＞／白夜〜True Light〜＜Live Version＞
 
 <!-- end list -->
@@ -151,7 +151,7 @@ Piano'n Piano 即興小曲集
 <!-- end list -->
 
   -
-    （[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月22日](../Page/10月22日.md "wikilink")／VICL-61145）
+    （[2005年](../Page/2005年.md "wikilink")[10月22日](../Page/10月22日.md "wikilink")／VICL-61145）
     最終回エンディング主題歌「道標」「白夜〜True Light〜（Acoustic Version）」収録
 
 <!-- end list -->
@@ -161,7 +161,7 @@ Piano'n Piano 即興小曲集
 <!-- end list -->
 
   -
-    （[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月21日](../Page/9月21日.md "wikilink")／VICL-61143）
+    （[2005年](../Page/2005年.md "wikilink")[9月21日](../Page/9月21日.md "wikilink")／VICL-61143）
     「Caged Bird」「道標（Acoustic Version）」収録
 
 ## 関連項目

@@ -9,7 +9,7 @@
 
 歌詞カードの一部に作曲者の記載ミスがあったため、初期に出荷されたものには訂正を伝える歌詞カードが封入されていた。その歌詞カードの表紙には、本作のジャケット写真に使われなかったカットが使用されている。　
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（[平成](../Page/平成.md "wikilink")17年）[3月24日](../Page/3月24日.md "wikilink")には「[SACD](../Page/Super_Audio_CD.md "wikilink")」「[DVD-Audio](../Page/DVD-Audio.md "wikilink")」[フォーマットでも発売された](../Page/音声ファイルフォーマット.md "wikilink")。これらには全曲が[5.1ch](https://ja.wikipedia.org/wiki/5.1ch "wikilink")[サラウンド](../Page/サラウンド.md "wikilink")で収録。また翌年には、このアルバムの収録曲（シングル曲も含む）を[クラシック調にアレンジしたアルバム](../Page/クラシック音楽.md "wikilink")『[MY STORY Classical](https://ja.wikipedia.org/wiki/MY_STORY_Classical "wikilink")』も発売された。
+[2005年](../Page/2005年.md "wikilink")（[平成](../Page/平成.md "wikilink")17年）[3月24日](../Page/3月24日.md "wikilink")には「[SACD](../Page/Super_Audio_CD.md "wikilink")」「[DVD-Audio](../Page/DVD-Audio.md "wikilink")」[フォーマットでも発売された](../Page/音声ファイルフォーマット.md "wikilink")。これらには全曲が[5.1ch](https://ja.wikipedia.org/wiki/5.1ch "wikilink")[サラウンド](../Page/サラウンド.md "wikilink")で収録。また翌年には、このアルバムの収録曲（シングル曲も含む）を[クラシック調にアレンジしたアルバム](../Page/クラシック音楽.md "wikilink")『[MY STORY Classical](../Page/MY_STORY_Classical.md "wikilink")』も発売された。
 
 ## 収録曲
 
@@ -23,16 +23,16 @@
 2.  **About You**
       -
         作曲：[菊池一仁](../Page/菊池一仁.md "wikilink") / 編曲：[tasuku](https://ja.wikipedia.org/wiki/tasuku "wikilink")
-        [森永製菓](https://ja.wikipedia.org/wiki/森永製菓 "wikilink")「ベイク」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")
-3.  **[GAME](https://ja.wikipedia.org/wiki/INSPIRE_\(浜崎あゆみの曲\) "wikilink")**
+        [森永製菓](https://ja.wikipedia.org/wiki/森永製菓 "wikilink")「ベイク」[CMソング](../Page/コマーシャルソング.md "wikilink")
+3.  **[GAME](../Page/INSPIRE_\(浜崎あゆみの曲\).md "wikilink")**
       -
-        作曲：[BOUNCEBACK](https://ja.wikipedia.org/wiki/BOUNCEBACK "wikilink") / 編曲：[HΛL](https://ja.wikipedia.org/wiki/HΛL "wikilink")
+        作曲：[BOUNCEBACK](../Page/BOUNCEBACK.md "wikilink") / 編曲：[HΛL](../Page/HΛL.md "wikilink")
         33rdシングルの[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")
         [パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink") MDステレオシステム「700MD」CMソング
 4.  **my name's WOMEN**
       -
         作曲：BOUNCEBACK / 編曲：HΛL
-        パナソニック「[D-snap](https://ja.wikipedia.org/wiki/D-snap "wikilink")」CMソング
+        パナソニック「[D-snap](../Page/D-snap.md "wikilink")」CMソング
         本作リリース後にPVが制作され、35thシングル「[STEP you/is this LOVE?](https://ja.wikipedia.org/wiki/STEP_you/is_this_LOVE? "wikilink")」のDVDに収録された。
 5.  **WONDERLAND**
       -
@@ -47,16 +47,16 @@
 8.  **HAPPY ENDING**
       -
         作曲：湯汲哲也 / 編曲：CMJK
-9.  **[Moments](https://ja.wikipedia.org/wiki/Moments "wikilink")**
+9.  **[Moments](../Page/Moments.md "wikilink")**
       -
-        作曲：湯汲哲也 / 編曲：[HIKARI](https://ja.wikipedia.org/wiki/HIKARI "wikilink")
+        作曲：湯汲哲也 / 編曲：[HIKARI](../Page/HIKARI.md "wikilink")
         32ndシングル
         [コーセー](../Page/コーセー.md "wikilink")「VISÉE」CMソング
 10. **walking proud**
       -
         作曲：湯汲哲也 / 編曲：HIKARI
         パナソニック ポータブル[MDCMソング](../Page/ミニディスク.md "wikilink")
-11. **[CAROLS](https://ja.wikipedia.org/wiki/CAROLS "wikilink")**
+11. **[CAROLS](../Page/CAROLS.md "wikilink")**
       -
         作曲：[木下智哉](https://ja.wikipedia.org/wiki/木下智哉 "wikilink") / 編曲：CMJK
         34thシングル
@@ -65,11 +65,11 @@
       -
         作曲・編曲：HΛL
         インスト
-13. **[INSPIRE](https://ja.wikipedia.org/wiki/INSPIRE_\(浜崎あゆみの曲\) "wikilink")**
+13. **[INSPIRE](../Page/INSPIRE_\(浜崎あゆみの曲\).md "wikilink")**
       -
         作曲：湯汲哲也 / 編曲：HΛL
         33rdシングル
-        [ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")・[グッゲンハイム美術館](../Page/グッゲンハイム美術館.md "wikilink")展 イメージソング
+        [ニューヨーク](../Page/ニューヨーク.md "wikilink")・[グッゲンハイム美術館](../Page/グッゲンハイム美術館.md "wikilink")展 イメージソング
 14. **HONEY**
       -
         作曲：湯汲哲也 / 編曲：HΛL

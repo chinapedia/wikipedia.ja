@@ -5,9 +5,9 @@
 
 ## 概要
 
-毎週[土曜日](../Page/土曜日.md "wikilink")に放送されていた若者向けの[音楽](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")で、[沖縄アクターズスクール](https://ja.wikipedia.org/wiki/沖縄アクターズスクール "wikilink")とライジングプロダクション（現：[ヴィジョンファクトリー](https://ja.wikipedia.org/wiki/ヴィジョンファクトリー "wikilink")）が制作協力をしていた。沖縄アクターズスクール所属のアイドルグループ[B.B.WAVES](https://ja.wikipedia.org/wiki/B.B.WAVES "wikilink")などが出演して歌やダンスなどのミニライブを展開していたほか、スクールのレッスンドキュメントや、最新のCD発売情報とイベント情報なども放送し、。なお、この番組には当時10代前半だった[山田優](https://ja.wikipedia.org/wiki/山田優 "wikilink")もレギュラー出演していた。
+毎週[土曜日](../Page/土曜日.md "wikilink")に放送されていた若者向けの[音楽](../Page/音楽番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")で、[沖縄アクターズスクール](../Page/沖縄アクターズスクール.md "wikilink")とライジングプロダクション（現：[ヴィジョンファクトリー](https://ja.wikipedia.org/wiki/ヴィジョンファクトリー "wikilink")）が制作協力をしていた。沖縄アクターズスクール所属のアイドルグループ[B.B.WAVES](../Page/B.B.WAVES.md "wikilink")などが出演して歌やダンスなどのミニライブを展開していたほか、スクールのレッスンドキュメントや、最新のCD発売情報とイベント情報なども放送し、。なお、この番組には当時10代前半だった[山田優](https://ja.wikipedia.org/wiki/山田優 "wikilink")もレギュラー出演していた。
 
-1997年に[サガテレビ](https://ja.wikipedia.org/wiki/サガテレビ "wikilink")が本番組のネットを開始して以来、他のフジテレビ系列局や独立UHF局も番組をネットするようになった。他のOTV製作番組は、『[郷土劇場](https://ja.wikipedia.org/wiki/郷土劇場 "wikilink")』のような長寿番組であっても普段沖縄県外の民放テレビ局でネットされることはなく、あってもCSチャンネルのみでの放送なので、いくつかの民放テレビ局で放送された本番組は非常に珍しいケースと言える 。
+1997年に[サガテレビ](https://ja.wikipedia.org/wiki/サガテレビ "wikilink")が本番組のネットを開始して以来、他のフジテレビ系列局や独立UHF局も番組をネットするようになった。他のOTV製作番組は、『[郷土劇場](../Page/郷土劇場.md "wikilink")』のような長寿番組であっても普段沖縄県外の民放テレビ局でネットされることはなく、あってもCSチャンネルのみでの放送なので、いくつかの民放テレビ局で放送された本番組は非常に珍しいケースと言える 。
 
 ## 放送時間
 
@@ -18,11 +18,11 @@
 
 ## 出演者
 
-  - [牧野アンナ](https://ja.wikipedia.org/wiki/牧野アンナ "wikilink")
+  - [牧野アンナ](../Page/牧野アンナ.md "wikilink")
   - [新垣寿子](https://ja.wikipedia.org/wiki/新垣寿子 "wikilink")
-  - [B.B.WAVES](https://ja.wikipedia.org/wiki/B.B.WAVES "wikilink")
+  - [B.B.WAVES](../Page/B.B.WAVES.md "wikilink")
   - [山田優](https://ja.wikipedia.org/wiki/山田優 "wikilink")
-  - [岩井証夫](https://ja.wikipedia.org/wiki/岩井証夫 "wikilink")
+  - [岩井証夫](../Page/岩井証夫.md "wikilink")
   - ほか
 
 ## 放送局
@@ -42,8 +42,8 @@
 
 ## 関連項目
 
-  - [沖縄アクターズスクール](https://ja.wikipedia.org/wiki/沖縄アクターズスクール "wikilink")
-  - [ライジングプロダクション](https://ja.wikipedia.org/wiki/ライジングプロダクション "wikilink")
+  - [沖縄アクターズスクール](../Page/沖縄アクターズスクール.md "wikilink")
+  - [ライジングプロダクション](../Page/ライジングプロダクション.md "wikilink")
   - [安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")
 
 [Category:1996年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1996年のテレビ番組_\(日本\) "wikilink") [Category:沖縄テレビ放送の番組](https://ja.wikipedia.org/wiki/Category:沖縄テレビ放送の番組 "wikilink") [Category:ローカルテレビ局の音楽番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の音楽番組 "wikilink")

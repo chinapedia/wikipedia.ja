@@ -1,11 +1,11 @@
 > この記事は[LIVE BANG!](https://ja.wikipedia.org/wiki/LIVE_BANG!)から翻訳されています。
 
 
-『**LIVE BANG\!**』（ライブバン）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月2日](../Page/10月2日.md "wikilink")から[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")・[TXN](https://ja.wikipedia.org/wiki/TXN "wikilink")系列で毎週日曜22:54 - 23:24に放送されていた[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")。
+『**LIVE BANG\!**』（ライブバン）は、[2005年](../Page/2005年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")・[TXN](https://ja.wikipedia.org/wiki/TXN "wikilink")系列で毎週日曜22:54 - 23:24に放送されていた[音楽番組](../Page/音楽番組.md "wikilink")。
 
-同番組のスタッフの一部は、同じくテレビ東京系列の『[JAPAN COUNTDOWN](https://ja.wikipedia.org/wiki/JAPAN_COUNTDOWN "wikilink")』にも関わっており、兄弟番組と位置付けられる。
+同番組のスタッフの一部は、同じくテレビ東京系列の『[JAPAN COUNTDOWN](../Page/JAPAN_COUNTDOWN.md "wikilink")』にも関わっており、兄弟番組と位置付けられる。
 
-[インディーズ](../Page/インディーズ.md "wikilink")で活躍していた[ヒップホップ](../Page/ヒップホップ.md "wikilink")シンガー[仁井山のメジャーデビュー作](https://ja.wikipedia.org/wiki/仁井山征弘 "wikilink")「TOKISOBA」の[PVを](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")[キャイ〜ン天野ひろゆきが監督したことに端を発し](../Page/天野ひろゆき.md "wikilink")、[キャイ〜ン](../Page/キャイ〜ン.md "wikilink")が司会を担当した。
+[インディーズ](../Page/インディーズ.md "wikilink")で活躍していた[ヒップホップ](../Page/ヒップホップ.md "wikilink")シンガー[仁井山のメジャーデビュー作](../Page/仁井山征弘.md "wikilink")「TOKISOBA」の[PVを](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")[キャイ〜ン天野ひろゆきが監督したことに端を発し](../Page/天野ひろゆき.md "wikilink")、[キャイ〜ン](../Page/キャイ〜ン.md "wikilink")が司会を担当した。
 
 ## 番組概要
 
@@ -16,21 +16,21 @@
 ### 番組MC
 
   - [キャイ〜ン](../Page/キャイ〜ン.md "wikilink")
-  - [坂本三佳](https://ja.wikipedia.org/wiki/坂本三佳 "wikilink")
+  - [坂本三佳](../Page/坂本三佳.md "wikilink")
   - [熊田曜子](https://ja.wikipedia.org/wiki/熊田曜子 "wikilink")
-  - [前田真理子](https://ja.wikipedia.org/wiki/前田真理子 "wikilink")（テレビ東京[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")）
+  - [前田真理子](../Page/前田真理子.md "wikilink")（テレビ東京[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")）
 
 ### プレゼンターのお笑いタレント
 
   - [ふかわりょう](../Page/ふかわりょう.md "wikilink") - 第3回目からレギュラー出演。
-  - [エレキコミック](https://ja.wikipedia.org/wiki/エレキコミック "wikilink")
+  - [エレキコミック](../Page/エレキコミック.md "wikilink")
   - [黄色のコンセント](../Page/黄色のコンセント.md "wikilink")
-  - [ますだおかだ](https://ja.wikipedia.org/wiki/ますだおかだ "wikilink")
+  - [ますだおかだ](../Page/ますだおかだ.md "wikilink")
   - ほか
 
 ### ナレーター
 
-  - [鮎貝健](https://ja.wikipedia.org/wiki/鮎貝健 "wikilink")
+  - [鮎貝健](../Page/鮎貝健.md "wikilink")
 
 ## 放送バックナンバー
 
@@ -40,19 +40,19 @@
   - 10月9日 - 休止
   - 10月16日 - shakabone／apnea
   - 10月23日 - ピンクフラミンゴMG／BABY JOE
-  - 10月30日 - [ひなた](https://ja.wikipedia.org/wiki/ひなた_\(音楽グループ\) "wikilink")／熊猫 xiongmao
-  - 11月6日 - [コンコンジャンプ](https://ja.wikipedia.org/wiki/コンコンジャンプ "wikilink")／ミルクティース
+  - 10月30日 - [ひなた](../Page/ひなた_\(音楽グループ\).md "wikilink")／熊猫 xiongmao
+  - 11月6日 - [コンコンジャンプ](../Page/コンコンジャンプ.md "wikilink")／ミルクティース
   - 11月13日 - The PERMANENTS／BO-PEEP
-  - 11月20日 - WED／[乙三](https://ja.wikipedia.org/wiki/乙三 "wikilink")
+  - 11月20日 - WED／[乙三](../Page/乙三.md "wikilink")
   - 11月27日 - [ザ50回転ズ](../Page/ザ50回転ズ.md "wikilink")／CUT THE CRAP
-  - 12月4日 - SARCASTIC+ZOOKEEPER／[好色人種](https://ja.wikipedia.org/wiki/好色人種 "wikilink")
+  - 12月4日 - SARCASTIC+ZOOKEEPER／[好色人種](../Page/好色人種.md "wikilink")
   - 12月11日 - [トライバルモンキーズ](https://ja.wikipedia.org/wiki/トライバルモンキーズ "wikilink")／[PRIEST](https://ja.wikipedia.org/wiki/PRIEST "wikilink")
-  - 12月18日 - [Kra](https://ja.wikipedia.org/wiki/Kra "wikilink")／アサカコウギ＆ザ・ホームスチール
+  - 12月18日 - [Kra](../Page/Kra.md "wikilink")／アサカコウギ＆ザ・ホームスチール
   - 12月25日 - 赤い疑惑／[ヤドカリ](../Page/ヤドカリ_\(ミュージシャン\).md "wikilink")
 
 ### 2006年
 
-  - [1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink") 特別番組（[ビートたけしのエジプトミステリー](https://ja.wikipedia.org/wiki/ビートたけしのエジプトミステリー "wikilink")）のために休止
+  - [1月1日](../Page/1月1日.md "wikilink") 特別番組（[ビートたけしのエジプトミステリー](https://ja.wikipedia.org/wiki/ビートたけしのエジプトミステリー "wikilink")）のために休止
   - [1月8日](../Page/1月8日.md "wikilink") THE ROOKIE OUTSIDER／[はしもとひろし](https://ja.wikipedia.org/wiki/はしもとひろし "wikilink")
   - [1月15日](../Page/1月15日.md "wikilink") - [AP & motherhood](https://ja.wikipedia.org/wiki/AP_&_motherhood "wikilink")／[セカハン](https://ja.wikipedia.org/wiki/セカハン "wikilink")
   - [1月22日](../Page/1月22日.md "wikilink") - [半崎美子](https://ja.wikipedia.org/wiki/半崎美子 "wikilink")／興梠マリ
@@ -72,7 +72,7 @@
 
 ## スタッフ
 
-  - 企画・構成・監修：[渋谷陽一](https://ja.wikipedia.org/wiki/渋谷陽一 "wikilink")
+  - 企画・構成・監修：[渋谷陽一](../Page/渋谷陽一.md "wikilink")
   - 構成：大谷広治郎
   - 編集：中嶋活史、八木英和
   - MA：内藤憲司
@@ -82,7 +82,7 @@
   - CG：ポリゴン・ピクチュアズ、バニラインク
   - 美術：山本知香子
   - スタイリスト：繁田美千穂
-  - 技術協力：[テクノマックス](https://ja.wikipedia.org/wiki/テクノマックス "wikilink")
+  - 技術協力：[テクノマックス](../Page/テクノマックス.md "wikilink")
   - 楽器協力：[ローランド](../Page/ローランド.md "wikilink")
   - 制作協力：[JCTV](../Page/日本ケーブルテレビジョン.md "wikilink")
   - デスク：飯塚理恵子

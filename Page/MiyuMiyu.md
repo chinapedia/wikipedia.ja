@@ -1,12 +1,12 @@
 > この記事は[MiyuMiyu](https://ja.wikipedia.org/wiki/MiyuMiyu)から翻訳されています。
 
 
-**MiyuMiyu**（**みゆみゆ**）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽バンド](https://ja.wikipedia.org/wiki/音楽バンド "wikilink")である。神奈川や東京の**[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")**を中心に活動。
+**MiyuMiyu**（**みゆみゆ**）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽バンド](https://ja.wikipedia.org/wiki/音楽バンド "wikilink")である。神奈川や東京の**[ライブハウス](../Page/ライブハウス.md "wikilink")**を中心に活動。
 
 ## メンバー
 
   - **yukiko**（ゆきこ）[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")＆[ギター](../Page/ギター.md "wikilink")担当
-  - **misa**（みさ）[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")＆[コーラス担当](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
+  - **misa**（みさ）[ベース](../Page/ベース_\(弦楽器\).md "wikilink")＆[コーラス担当](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
 
 ## 旧メンバー
 
@@ -14,7 +14,7 @@
 
 ## 来歴
 
-[神奈川県立大磯高等学校](../Page/神奈川県立大磯高等学校.md "wikilink")の軽音楽部に在籍していた三人でバンド結成。バンド名はメンバーのmisaのM、izumiのi、yukikoのyuを合わせて、語調を整えるため二回繰り返してMiyuMiyuとなった。当初は他のバンドのカバーをしていたが、やがてオリジナル曲を作りはじめ、神奈川や東京のライブハウスを中心に活動をするようになる。 [NHK総合の](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[熱唱オンエアバトル](https://ja.wikipedia.org/wiki/熱唱オンエアバトル "wikilink")には7回(通常回放送は6回)も出場し、第二回チャンピオン大会ではセミファイナルまで進出している。挑戦した6回すべてでオンエアを記録し、6連勝を達成。 また、その第二回チャンピオン大会のセミファイナルでは熱唱オンエアバトル、そしてその前身である[サマーソングバトル](../Page/サマーソングバトル.md "wikilink")、[ウインターソングバトル](../Page/ウインターソングバトル.md "wikilink")を含めた熱唱オンエアバトル関連の放送では唯一の400キロバトル台での敗退を経験した。（チャンピオン大会で使用される、満点が1090キロバトルのバケツを含まず）
+[神奈川県立大磯高等学校](../Page/神奈川県立大磯高等学校.md "wikilink")の軽音楽部に在籍していた三人でバンド結成。バンド名はメンバーのmisaのM、izumiのi、yukikoのyuを合わせて、語調を整えるため二回繰り返してMiyuMiyuとなった。当初は他のバンドのカバーをしていたが、やがてオリジナル曲を作りはじめ、神奈川や東京のライブハウスを中心に活動をするようになる。 [NHK総合の](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[熱唱オンエアバトル](../Page/熱唱オンエアバトル.md "wikilink")には7回(通常回放送は6回)も出場し、第二回チャンピオン大会ではセミファイナルまで進出している。挑戦した6回すべてでオンエアを記録し、6連勝を達成。 また、その第二回チャンピオン大会のセミファイナルでは熱唱オンエアバトル、そしてその前身である[サマーソングバトル](../Page/サマーソングバトル.md "wikilink")、[ウインターソングバトル](../Page/ウインターソングバトル.md "wikilink")を含めた熱唱オンエアバトル関連の放送では唯一の400キロバトル台での敗退を経験した。（チャンピオン大会で使用される、満点が1090キロバトルのバケツを含まず）
 
 ドラムスを担当していたizumiは2005年初夏から体調を崩し、自ら脱退を決意。2006年1月21日の初ワンマンライブをもって脱退することに決めて準備していたが、2006年の初めに交通事故に遭い、出演を果たせなかった。
 
@@ -46,7 +46,7 @@
     4.  seed
     <!-- end list -->
       -
-        [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月15日](../Page/7月15日.md "wikilink")（INHAUS RECORDS）
+        [2006年](../Page/2006年.md "wikilink")[7月15日](../Page/7月15日.md "wikilink")（INHAUS RECORDS）
 4.  流星
     1.  流星（アニメ「[デジモンセイバーズ](../Page/デジモンセイバーズ.md "wikilink")」後期エンディング主題歌）
     2.  color

@@ -9,15 +9,15 @@
 
 前作「[AUDIENCE](../Page/AUDIENCE.md "wikilink")」からわずか1か月後に発売された。作曲者「CREA」とは浜崎本人のペンネームであり、CREAとして作曲を手がけて最初に発表したシングルだが、発売当時はそのことは伏せられていた。
 
-タイトルの『M』は、サビの部分が「**'MARIA' (マリア)**」の頭文字から由来をしているが、実際は自身のプロデューサー[Max Matsuuraこと](https://ja.wikipedia.org/wiki/MAX_MATSUURA "wikilink")、[エイベックス株式会社代表取締役会長CEOの](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")[松浦勝人](https://ja.wikipedia.org/wiki/松浦勝人 "wikilink")であることを、小説「[M 愛すべき人がいて](https://ja.wikipedia.org/wiki/M_愛すべき人がいて "wikilink")」（[小松成美](../Page/小松成美.md "wikilink")・著／[幻冬舎](https://ja.wikipedia.org/wiki/幻冬舎 "wikilink")）内において公表した。その際、「(当時)携帯電話の電話帳に愛する彼を「M」というイニシャルで登録をしていた」事を明かし、小説の最後には、「もしも誰かに『今回の人生で一生に一度きりだと思える大恋愛をしましたか？』と問われたなら私は何の迷いもなくこう答えるだろう。『はい。**自分の身を滅ぼすほど、ひとりの男性を愛しました**』と」とコメントを寄せている\[2\]。
+タイトルの『M』は、サビの部分が「**'MARIA' (マリア)**」の頭文字から由来をしているが、実際は自身のプロデューサー[Max Matsuuraこと](https://ja.wikipedia.org/wiki/MAX_MATSUURA "wikilink")、[エイベックス株式会社代表取締役会長CEOの](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")[松浦勝人](https://ja.wikipedia.org/wiki/松浦勝人 "wikilink")であることを、小説「[M 愛すべき人がいて](../Page/M_愛すべき人がいて.md "wikilink")」（[小松成美](../Page/小松成美.md "wikilink")・著／[幻冬舎](../Page/幻冬舎.md "wikilink")）内において公表した。その際、「(当時)携帯電話の電話帳に愛する彼を「M」というイニシャルで登録をしていた」事を明かし、小説の最後には、「もしも誰かに『今回の人生で一生に一度きりだと思える大恋愛をしましたか？』と問われたなら私は何の迷いもなくこう答えるだろう。『はい。**自分の身を滅ぼすほど、ひとりの男性を愛しました**』と」とコメントを寄せている\[2\]。
 
-この小説を元にしたドラマを[2020年](../Page/2020年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に[テレビ朝日](../Page/テレビ朝日.md "wikilink")の[土曜ナイトドラマ](https://ja.wikipedia.org/wiki/土曜ナイトドラマ_\(テレビ朝日\) "wikilink") 枠でドラマ化されることを著者の小松成美のトークアプリ[755で公表された](https://ja.wikipedia.org/wiki/755_\(アプリケーション\) "wikilink")。
+この小説を元にしたドラマを[2020年](../Page/2020年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に[テレビ朝日](../Page/テレビ朝日.md "wikilink")の[土曜ナイトドラマ](../Page/土曜ナイトドラマ_\(テレビ朝日\).md "wikilink") 枠でドラマ化されることを著者の小松成美のトークアプリ[755で公表された](https://ja.wikipedia.org/wiki/755_\(アプリケーション\) "wikilink")。
 
-2週連続[オリコン週間シングルチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位を獲得し、累計131.9万枚を売り上げた\[3\]。また、[20世紀](../Page/20世紀.md "wikilink")最後（2000年[12月25日](../Page/12月25日.md "wikilink")）と[21世紀](../Page/21世紀.md "wikilink")最初（2001年[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink")付）のシングルチャート1位獲得作品でもあった。
+2週連続[オリコン週間シングルチャート](../Page/オリコンチャート.md "wikilink")1位を獲得し、累計131.9万枚を売り上げた\[3\]。また、[20世紀](../Page/20世紀.md "wikilink")最後（2000年[12月25日](../Page/12月25日.md "wikilink")）と[21世紀](../Page/21世紀.md "wikilink")最初（2001年[1月1日](../Page/1月1日.md "wikilink")付）のシングルチャート1位獲得作品でもあった。
 
 小説「M 愛すべき人がいて」が発売された[2019年](../Page/2019年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")、小松成美がゲスト出演し、「M 愛すべき人がいて」の秘話と浜崎あゆみのエピソード特集が組まれた、[TBS系](../Page/TBSテレビ.md "wikilink")[中居正広の金曜日のスマイルたちへ](../Page/中居正広の金曜日のスマイルたちへ.md "wikilink")が放送された、2019年[10月11日](../Page/10月11日.md "wikilink")の[レコチョク](https://ja.wikipedia.org/wiki/レコチョク "wikilink")デイリーシングルチャートで上位にランクインした。
 
-2001年[2月7日](../Page/2月7日.md "wikilink")には[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")等を収めた同名の[DVD](../Page/DVD.md "wikilink")シングルが発売された。
+2001年[2月7日](../Page/2月7日.md "wikilink")には[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")等を収めた同名の[DVD](../Page/DVD.md "wikilink")シングルが発売された。
 
 [日本音楽著作権協会](../Page/日本音楽著作権協会.md "wikilink")（JASRAC）の著作権使用料分配額（国内作品）ランキングでは、[2001年](../Page/2001年.md "wikilink")度の年間7位\[4\]を獲得した。
 
@@ -27,12 +27,12 @@
 
 1.  **M "Original Mix"**　
       -
-        [作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：ayumi hamasaki / [作曲](../Page/作曲.md "wikilink")：[CREA](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink") / [編曲](../Page/編曲.md "wikilink")：[HΛL](https://ja.wikipedia.org/wiki/HΛL "wikilink")
-        [ツーカー](../Page/ツーカー.md "wikilink")セルラー東京・東海[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")
+        [作詞](../Page/作詞.md "wikilink")：ayumi hamasaki / [作曲](../Page/作曲.md "wikilink")：[CREA](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink") / [編曲](../Page/編曲.md "wikilink")：[HΛL](../Page/HΛL.md "wikilink")
+        [ツーカー](../Page/ツーカー.md "wikilink")セルラー東京・東海[CMソング](../Page/コマーシャルソング.md "wikilink")
 2.  **M "Dub's Hard Pop Remix"**
 3.  **[SEASONS](../Page/SEASONS_\(浜崎あゆみの曲\).md "wikilink") "Yuta's weather report mix"**
 4.  **M "nicely nice winter parade remix"**
-5.  **[Far away](https://ja.wikipedia.org/wiki/Far_away "wikilink") "[Laugh & Peace](https://ja.wikipedia.org/wiki/Laugh_and_Peace "wikilink") MIX"**
+5.  **[Far away](https://ja.wikipedia.org/wiki/Far_away "wikilink") "[Laugh & Peace](../Page/Laugh_and_Peace.md "wikilink") MIX"**
 6.  **M "REWIRED MIX"**
 7.  **M "SMOKERS MIX"**
 8.  **M "RANK-M Mix"**
@@ -75,7 +75,7 @@
 
 Ayu（浜崎あゆみ）がヨーロッパで発売した2ndシングル。[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[トランスミュージックのグループである](../Page/トランス_\(音楽\).md "wikilink")[Above & Beyondらが](https://ja.wikipedia.org/wiki/アバヴ&ビヨンド "wikilink")[リミックス](../Page/リミックス.md "wikilink")を手がけた。
 
-[2001年](../Page/2001年.md "wikilink")に日本で発売されたリミックス・アルバム『[Cyber TRANCE presents ayu trance](https://ja.wikipedia.org/wiki/Cyber_TRANCE_presents_ayu_trance "wikilink")』に収録されている「M "Above & Beyond Mix"」は未収録。
+[2001年](../Page/2001年.md "wikilink")に日本で発売されたリミックス・アルバム『[Cyber TRANCE presents ayu trance](../Page/Cyber_TRANCE_presents_ayu_trance.md "wikilink")』に収録されている「M "Above & Beyond Mix"」は未収録。
 
 ### 収録曲
 

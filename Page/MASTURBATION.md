@@ -7,7 +7,7 @@
 
   - **卑龍**（ボーカル・ギター）
       -
-        [京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")[田辺市](https://ja.wikipedia.org/wiki/田辺市 "wikilink")で南国料理「グッドフェローズ」を経営したのち、現在は、京都府舞鶴市で「洋食キッチンベリーズ」を経営。
+        [京都府](../Page/京都府.md "wikilink")[田辺市](https://ja.wikipedia.org/wiki/田辺市 "wikilink")で南国料理「グッドフェローズ」を経営したのち、現在は、京都府舞鶴市で「洋食キッチンベリーズ」を経営。
         [<http://www.happy-t.co.jp/shopcms/info_874.html>](https://maizuru.mypl.net/shop/00000357975/)
   - **ロス**（初代ベース）脱退
   - **タツシ**（2代目ベース）
@@ -15,9 +15,9 @@
         現在は、新宿思い出横丁で食堂「つるかめ食堂」を経営。
         [奇形児でも活動していた](../Page/奇形児_\(バンド\).md "wikilink")。
   - **神風**（初代ドラム）脱退
-  - **[中村達也](https://ja.wikipedia.org/wiki/中村達也_\(ドラマー\) "wikilink")**（2代目ドラム）
+  - **[中村達也](../Page/中村達也_\(ドラマー\).md "wikilink")**（2代目ドラム）
       -
-        [the 原爆オナニーズ](https://ja.wikipedia.org/wiki/the_原爆オナニーズ "wikilink")、[ザ・スターリン](https://ja.wikipedia.org/wiki/ザ・スターリン "wikilink")、[NICKEY & THE WARRIORS](../Page/NICKEY_&_THE_WARRIORS.md "wikilink")、[THE STAR CLUB](../Page/THE_STAR_CLUB.md "wikilink")、[BLANKEY JET CITY](https://ja.wikipedia.org/wiki/BLANKEY_JET_CITY "wikilink")、[LOSALIOS](https://ja.wikipedia.org/wiki/LOSALIOS "wikilink")、[フリクションなど数々のバンドに在籍](https://ja.wikipedia.org/wiki/フリクション_\(バンド\) "wikilink")。
+        [the 原爆オナニーズ](https://ja.wikipedia.org/wiki/the_原爆オナニーズ "wikilink")、[ザ・スターリン](../Page/ザ・スターリン.md "wikilink")、[NICKEY & THE WARRIORS](../Page/NICKEY_&_THE_WARRIORS.md "wikilink")、[THE STAR CLUB](../Page/THE_STAR_CLUB.md "wikilink")、[BLANKEY JET CITY](../Page/BLANKEY_JET_CITY.md "wikilink")、[LOSALIOS](../Page/LOSALIOS.md "wikilink")、[フリクションなど数々のバンドに在籍](../Page/フリクション_\(バンド\).md "wikilink")。
 
 ## ディスコグラフィ
 
@@ -71,7 +71,7 @@
 
 ### DVD
 
-1.  **満身創痍**（2016年3月20日、MCR COMPANYから発売。）＊1985年3月2日[吉祥寺バウスシアター](https://ja.wikipedia.org/wiki/吉祥寺バウスシアター "wikilink")で[LAUGHIN' NOSE](../Page/LAUGHIN'_NOSE.md "wikilink")・[THE WILLARDと共演したライブを収録](https://ja.wikipedia.org/wiki/THE_WILLARD "wikilink")。
+1.  **満身創痍**（2016年3月20日、MCR COMPANYから発売。）＊1985年3月2日[吉祥寺バウスシアター](https://ja.wikipedia.org/wiki/吉祥寺バウスシアター "wikilink")で[LAUGHIN' NOSE](../Page/LAUGHIN'_NOSE.md "wikilink")・[THE WILLARDと共演したライブを収録](../Page/THE_WILLARD.md "wikilink")。
 
 ### 参加作品
 
@@ -80,9 +80,9 @@
 ## 関連項目
 
   - [奇形児](../Page/奇形児_\(バンド\).md "wikilink")
-  - [ザ・スターリン](https://ja.wikipedia.org/wiki/ザ・スターリン "wikilink")
+  - [ザ・スターリン](../Page/ザ・スターリン.md "wikilink")
   - [the 原爆オナニーズ](https://ja.wikipedia.org/wiki/the_原爆オナニーズ "wikilink")
-  - [日本のパンク・ロック](https://ja.wikipedia.org/wiki/日本のパンク・ロック "wikilink")
+  - [日本のパンク・ロック](../Page/日本のパンク・ロック.md "wikilink")
 
 ## 脚注
 

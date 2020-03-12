@@ -25,13 +25,13 @@
 
 ### 量産
 
-2008年から[フランス陸軍](https://ja.wikipedia.org/wiki/フランス陸軍 "wikilink")への引渡しが開始され、さらに3つのバッチを追加することで最終的には550両の歩兵戦闘車（VBCI/VCI）と150両の指揮統制車（VBCI/VPC）の計700輌が、配備開始後30年以上経ったAMX-10Pの代替として配備される予定である。
+2008年から[フランス陸軍](../Page/フランス陸軍.md "wikilink")への引渡しが開始され、さらに3つのバッチを追加することで最終的には550両の歩兵戦闘車（VBCI/VCI）と150両の指揮統制車（VBCI/VPC）の計700輌が、配備開始後30年以上経ったAMX-10Pの代替として配備される予定である。
 
 ### 国外への販売
 
 国外への販売実績はまだないが、輸出販売の売り込みも積極的に行われている。
 
-2007年夏に、[イギリス軍](https://ja.wikipedia.org/wiki/イギリス軍 "wikilink")の新型装甲車両選定計画である「FRES」の候補にVBCIに挙げられていたが、結局、モワク社の[ピラニアVに敗れた](https://ja.wikipedia.org/wiki/ピラーニャ "wikilink")。[アメリカ海兵隊](../Page/アメリカ海兵隊.md "wikilink")、[カナダ軍](https://ja.wikipedia.org/wiki/カナダ軍 "wikilink")、[オーストラリア軍](https://ja.wikipedia.org/wiki/オーストラリア軍 "wikilink")がVBCIに興味を示しているとされ、Nexter社はデモンストレータ用の1輌を作って売り込みを行なっている。
+2007年夏に、[イギリス軍](../Page/イギリス軍.md "wikilink")の新型装甲車両選定計画である「FRES」の候補にVBCIに挙げられていたが、結局、モワク社の[ピラニアVに敗れた](../Page/ピラーニャ.md "wikilink")。[アメリカ海兵隊](../Page/アメリカ海兵隊.md "wikilink")、[カナダ軍](../Page/カナダ軍.md "wikilink")、[オーストラリア軍](https://ja.wikipedia.org/wiki/オーストラリア軍 "wikilink")がVBCIに興味を示しているとされ、Nexter社はデモンストレータ用の1輌を作って売り込みを行なっている。
 
 ## 車体・装備
 
@@ -41,7 +41,7 @@
 
 当初からモジュール設計が想定されていたため、操縦室より後ろはペイロード区画\[3\]として多様な設計が可能なように考慮され、最大車内空間は13 m<sup>3</sup>、最大戦闘重量は28トン、最大ペイロード重量は10トンとされた。
 
-浮航能力はないが、[エアバス A400M](https://ja.wikipedia.org/wiki/エアバス_A400M "wikilink")[輸送機](../Page/輸送機.md "wikilink")による空輸が可能なように設計されている。 {{-}}
+浮航能力はないが、[エアバス A400M](../Page/エアバス_A400M.md "wikilink")[輸送機](../Page/輸送機.md "wikilink")による空輸が可能なように設計されている。 {{-}}
 
 ### 車内配置
 
@@ -57,7 +57,7 @@
 
 ### 装甲
 
-VBCIの装甲は[ルクレール](https://ja.wikipedia.org/wiki/ルクレール "wikilink")[主力戦車](../Page/主力戦車.md "wikilink")と同様に、[アルミニウム合金](https://ja.wikipedia.org/wiki/アルミニウム合金 "wikilink")製の車体フレームにTHD[スチールと](../Page/鋼.md "wikilink")[チタニウム合金の](../Page/チタン.md "wikilink")[複合装甲を装着する](https://ja.wikipedia.org/wiki/装甲#複合装甲 "wikilink")[増加装甲方式を採用しており](https://ja.wikipedia.org/wiki/装甲#増加装甲 "wikilink")、前線で装甲の交換が容易である。
+VBCIの装甲は[ルクレール](../Page/ルクレール.md "wikilink")[主力戦車](../Page/主力戦車.md "wikilink")と同様に、[アルミニウム合金](../Page/アルミニウム合金.md "wikilink")製の車体フレームにTHD[スチールと](../Page/鋼.md "wikilink")[チタニウム合金の](../Page/チタン.md "wikilink")[複合装甲を装着する](https://ja.wikipedia.org/wiki/装甲#複合装甲 "wikilink")[増加装甲方式を採用しており](https://ja.wikipedia.org/wiki/装甲#増加装甲 "wikilink")、前線で装甲の交換が容易である。
 
 ### 武装
 
@@ -65,12 +65,12 @@ VBCIの装甲は[ルクレール](https://ja.wikipedia.org/wiki/ルクレール 
 
   - 歩兵戦闘車型
     砲手1名用の仏Nexter Systems社製DRAGAR砲塔にはM811 25 mm榴弾と徹甲弾の給弾を素早く切り替え出来る。砲手用に昼光・[赤外線](../Page/赤外線.md "wikilink")両用映像装置とレーザー測距儀を含むマルチセンサー光学サイトを装備している。この砲手席の光学サイトは車内のコマンダーステーションでも表示が可能なだけでなく、砲の遠隔操作も可能になっている。砲塔にはLIRA赤外線デコイと発煙弾発射システムが備わっている。
-    フランス軍仕様の歩兵戦闘車型以外にも、輸出外販用に2名用砲塔、[テレスコープ弾](https://ja.wikipedia.org/wiki/テレスコープ弾 "wikilink")を使う40 mmCTAIシステムの案も存在する。
+    フランス軍仕様の歩兵戦闘車型以外にも、輸出外販用に2名用砲塔、[テレスコープ弾](../Page/テレスコープ弾.md "wikilink")を使う40 mmCTAIシステムの案も存在する。
 
 {{-}}
 
   - 対戦車ミサイル車型
-    歩兵戦闘車型の簡易な派生車種として、[対戦車ミサイル](../Page/対戦車ミサイル.md "wikilink")車型が作られる。1名用砲塔などはそのままに兵員用座席を4席分に代わり、[ERYX対戦車ミサイル用ラックを搭載している](https://ja.wikipedia.org/wiki/ERYX_\(ミサイル\) "wikilink")。使用時には、兵員室天井のハッチから兵士が身を乗り出して携行型発射機から発射する。ミサイルラックを兵員用座席に戻せば歩兵戦闘車型になる。
+    歩兵戦闘車型の簡易な派生車種として、[対戦車ミサイル](../Page/対戦車ミサイル.md "wikilink")車型が作られる。1名用砲塔などはそのままに兵員用座席を4席分に代わり、[ERYX対戦車ミサイル用ラックを搭載している](../Page/ERYX_\(ミサイル\).md "wikilink")。使用時には、兵員室天井のハッチから兵士が身を乗り出して携行型発射機から発射する。ミサイルラックを兵員用座席に戻せば歩兵戦闘車型になる。
   - 指揮車型
     VPCという名称の指揮車型には、FN12.7 mm機関銃塔のみが備わる。
   - 81 mm自走迫撃砲型
@@ -107,7 +107,7 @@ VBCIの装甲は[ルクレール](https://ja.wikipedia.org/wiki/ルクレール 
 
   - [歩兵戦闘車](../Page/歩兵戦闘車.md "wikilink")
       - [AMX-10P歩兵戦闘車](../Page/AMX-10P歩兵戦闘車.md "wikilink") - VBCIが代替したフランス陸軍の歩兵戦闘車
-      - [ルクレール](https://ja.wikipedia.org/wiki/ルクレール "wikilink") - フランス陸軍の主力戦車
+      - [ルクレール](../Page/ルクレール.md "wikilink") - フランス陸軍の主力戦車
       - [ラーテル歩兵戦闘車](../Page/ラーテル歩兵戦闘車.md "wikilink") - [南アフリカ製の装輪式歩兵戦闘車](https://ja.wikipedia.org/wiki/南アフリカ共和国 "wikilink")
       - [ボクサー装輪装甲車](https://ja.wikipedia.org/wiki/ボクサー装輪装甲車 "wikilink") - [ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")と[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の装輪装甲車
 

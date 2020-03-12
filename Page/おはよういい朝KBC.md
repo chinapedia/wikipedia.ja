@@ -31,15 +31,15 @@
   - きょうも晴れ晴れ！お便り＆リクエスト
   - 朝の[健康](../Page/健康.md "wikilink")
   - 千晴の鷹番デスク
-  - [ジャパネットたかた](../Page/ジャパネットたかた.md "wikilink")[ラジオショッピング](https://ja.wikipedia.org/wiki/ラジオショッピング "wikilink")
+  - [ジャパネットたかた](../Page/ジャパネットたかた.md "wikilink")[ラジオショッピング](../Page/ラジオショッピング.md "wikilink")
   - [JFマリンバンク海の天気予報](https://ja.wikipedia.org/wiki/JFマリンバンク海の天気予報 "wikilink")
 
 #### 土曜日
 
   - [上田利治の朝からどうでっか](https://ja.wikipedia.org/wiki/上田利治の朝からどうでっか "wikilink")（[バイオ・ナサ](https://ja.wikipedia.org/wiki/バイオ・ナサ "wikilink")提供）
   - おはようお便りネット
-  - [悠々百科](https://ja.wikipedia.org/wiki/悠々百科 "wikilink")（バイオ・ナサ提供）
-  - [だって博多の女やもん](https://ja.wikipedia.org/wiki/だって博多の女やもん "wikilink")（[二鶴堂](../Page/二鶴堂.md "wikilink")提供）
+  - [悠々百科](../Page/悠々百科.md "wikilink")（バイオ・ナサ提供）
+  - [だって博多の女やもん](../Page/だって博多の女やもん.md "wikilink")（[二鶴堂](../Page/二鶴堂.md "wikilink")提供）
   - 有紀の鷹番デスク
   - KBC[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")[ニュース](../Page/ニュース.md "wikilink")
 
@@ -53,10 +53,10 @@
 
 いずれも土曜日に放送された。
 
-  - 朝イチ[リクエスト](https://ja.wikipedia.org/wiki/リクエスト番組 "wikilink")
+  - 朝イチ[リクエスト](../Page/リクエスト番組.md "wikilink")
   - とっても健康らんど
       - 現在は「[土曜の朝は玲子におまかせ](../Page/土曜の朝は玲子におまかせ.md "wikilink")」内で放送。
-  - [おはよう\!ニッポン全国消防団](https://ja.wikipedia.org/wiki/おはよう!ニッポン全国消防団 "wikilink")（[ニッポン放送](../Page/ニッポン放送.md "wikilink")制作）
+  - [おはよう\!ニッポン全国消防団](../Page/おはよう!ニッポン全国消防団.md "wikilink")（[ニッポン放送](../Page/ニッポン放送.md "wikilink")制作）
 
 ## 過去のパーソナリティ
 
@@ -65,7 +65,7 @@
   - [岡本憲明](https://ja.wikipedia.org/wiki/岡本憲明 "wikilink")（月曜～金曜日）
   - [富永由利江](https://ja.wikipedia.org/wiki/富永由利江 "wikilink")（土曜日）
 
-岡本は4月から[夜はこれから\!ホークス派宣言](https://ja.wikipedia.org/wiki/夜はこれから!ホークス派宣言 "wikilink")のパーソナリティになった。
+岡本は4月から[夜はこれから\!ホークス派宣言](../Page/夜はこれから!ホークス派宣言.md "wikilink")のパーソナリティになった。
 
 ### 2004年4月～2005年4月1日
 

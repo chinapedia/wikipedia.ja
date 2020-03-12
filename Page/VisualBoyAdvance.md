@@ -1,7 +1,7 @@
 > この記事は[VisualBoyAdvance](https://ja.wikipedia.org/wiki/VisualBoyAdvance)から翻訳されています。
 
 
-**VisualBoyAdvance**（ビジュアル ボーイ アドバンス）とは、[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")、[ゲームボーイカラー](../Page/ゲームボーイカラー.md "wikilink")、[ゲームボーイアドバンス](https://ja.wikipedia.org/wiki/ゲームボーイアドバンス "wikilink")のゲームをプレイすることが可能な[エミュレータの一つである](https://ja.wikipedia.org/wiki/ゲームエミュレータ "wikilink")。*VBA*と略されることが多い。
+**VisualBoyAdvance**（ビジュアル ボーイ アドバンス）とは、[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")、[ゲームボーイカラー](../Page/ゲームボーイカラー.md "wikilink")、[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")のゲームをプレイすることが可能な[エミュレータの一つである](../Page/ゲームエミュレータ.md "wikilink")。*VBA*と略されることが多い。
 
 ## 特徴
 

@@ -5,11 +5,11 @@
 
 ## 解説
 
-「スマイル・フォー・ミー」は前年[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")に雑誌『[ヤング・ミュージック](https://ja.wikipedia.org/wiki/ヤング・ミュージック "wikilink")』（[集英社](../Page/集英社.md "wikilink")）の企画による国際電話対談でザ・タイガースと[ビー・ジースが意気投合し](https://ja.wikipedia.org/wiki/ビージーズ "wikilink")、ビー・ジーズの[バリー・ギブ](https://ja.wikipedia.org/wiki/バリー・ギブ "wikilink")と[モーリス・ギブ](https://ja.wikipedia.org/wiki/モーリス・ギブ "wikilink")が作詞・作曲を手がけたプレゼント曲である。
+「スマイル・フォー・ミー」は前年[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")に雑誌『[ヤング・ミュージック](https://ja.wikipedia.org/wiki/ヤング・ミュージック "wikilink")』（[集英社](../Page/集英社.md "wikilink")）の企画による国際電話対談でザ・タイガースと[ビー・ジースが意気投合し](../Page/ビージーズ.md "wikilink")、ビー・ジーズの[バリー・ギブ](https://ja.wikipedia.org/wiki/バリー・ギブ "wikilink")と[モーリス・ギブ](https://ja.wikipedia.org/wiki/モーリス・ギブ "wikilink")が作詞・作曲を手がけたプレゼント曲である。
 
-吹き込みは映画『[ザ・タイガース ハーイ\!ロンドン](https://ja.wikipedia.org/wiki/ザ・タイガース_ハーイ!ロンドン "wikilink")』の撮影のため滞在していた[ロンドン](../Page/ロンドン.md "wikilink")で行われた\[1\]。両面共に英語詞から成る作品。[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")盤も発売され、こちらは「淋しい雨」がA面扱いとなっていた\[2\]。
+吹き込みは映画『[ザ・タイガース ハーイ\!ロンドン](../Page/ザ・タイガース_ハーイ!ロンドン.md "wikilink")』の撮影のため滞在していた[ロンドン](../Page/ロンドン.md "wikilink")で行われた\[1\]。両面共に英語詞から成る作品。[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")盤も発売され、こちらは「淋しい雨」がA面扱いとなっていた\[2\]。
 
-曲終盤の転調部分のキーが沢田にとって高過ぎたため、この時ロンドンのレコーディングスタジオにタイガースを訪ねていた[中尾ミエ](https://ja.wikipedia.org/wiki/中尾ミエ "wikilink")(タイガースと同じ[渡辺プロダクション](https://ja.wikipedia.org/wiki/渡辺プロダクション "wikilink")所属)が沢田と共に歌う事で補われている。なおこの曲をライブ演奏する際は沢田が歌えるよう、転調しないアレンジに変えている。
+曲終盤の転調部分のキーが沢田にとって高過ぎたため、この時ロンドンのレコーディングスタジオにタイガースを訪ねていた[中尾ミエ](../Page/中尾ミエ.md "wikilink")(タイガースと同じ[渡辺プロダクション](../Page/渡辺プロダクション.md "wikilink")所属)が沢田と共に歌う事で補われている。なおこの曲をライブ演奏する際は沢田が歌えるよう、転調しないアレンジに変えている。
 
 録音順では「嘆き」が先だったものの渡辺プロダクションと日本グラモフォン両者の思惑によって後で録音された「スマイル・フォー・ミー」が先行発売される運びとなった。イギリスでは「淋しい雨」をＡ面にして「スマイル」がＢ面だった。
 
@@ -26,7 +26,7 @@
 
 ## 関連項目
 
-  - [1969年の音楽](https://ja.wikipedia.org/wiki/1969年の音楽 "wikilink")
+  - [1969年の音楽](../Page/1969年の音楽.md "wikilink")
 
 [Category:ザ・タイガースの楽曲](https://ja.wikipedia.org/wiki/Category:ザ・タイガースの楽曲 "wikilink") [Category:1969年のシングル](https://ja.wikipedia.org/wiki/Category:1969年のシングル "wikilink") [Category:楽曲_す](https://ja.wikipedia.org/wiki/Category:楽曲_す "wikilink")
 

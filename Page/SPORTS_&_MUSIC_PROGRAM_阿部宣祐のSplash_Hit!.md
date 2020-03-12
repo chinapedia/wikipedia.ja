@@ -1,7 +1,7 @@
 > この記事は[SPORTS \& MUSIC PROGRAM Splash Hit!](https://ja.wikipedia.org/wiki/SPORTS_\&_MUSIC_PROGRAM_Splash_Hit!)から翻訳されています。
 
 
-**SPORTS & MUSIC PROGRAM 阿部宣祐のSplash Hit\!**（**スポーツアンドミュージックプログラム あべのぶひろのスプラッシュヒット**）は、[ミュージックバード](https://ja.wikipedia.org/wiki/ミュージックバード "wikilink")で、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで放送されていた番組。放送時間は、毎週土曜日の18:00～18:55（JST）。また、一部の[コミュニティ放送](../Page/コミュニティ放送.md "wikilink")局でもネットされていた。
+**SPORTS & MUSIC PROGRAM 阿部宣祐のSplash Hit\!**（**スポーツアンドミュージックプログラム あべのぶひろのスプラッシュヒット**）は、[ミュージックバード](../Page/ミュージックバード.md "wikilink")で、[2006年](../Page/2006年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで放送されていた番組。放送時間は、毎週土曜日の18:00～18:55（JST）。また、一部の[コミュニティ放送](../Page/コミュニティ放送.md "wikilink")局でもネットされていた。
 
 ## 概要
 

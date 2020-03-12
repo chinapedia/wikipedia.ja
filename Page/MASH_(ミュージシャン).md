@@ -7,9 +7,9 @@
 
 [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[春日井市](https://ja.wikipedia.org/wiki/春日井市 "wikilink")出身\[2\]。なお『MASH』とは、小学校時代からのあだ名だったという。
 
-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（平成10年）からバンドのMCとして、[名古屋を中心として音楽活動を開始](../Page/名古屋市.md "wikilink")。[2001年](../Page/2001年.md "wikilink")（平成13年）に7人組HIP HOPバンド「ASIAN PIMPS」を結成。ASIAN PIMPSでは、アルバム『nagoyaROCKers』をリリース。2006年に解散。この他、[HB](https://ja.wikipedia.org/wiki/HB_\(アーティスト\) "wikilink")、[TOKONA-X](https://ja.wikipedia.org/wiki/TOKONA-X "wikilink")、[nobodyknows+](https://ja.wikipedia.org/wiki/nobodyknows+ "wikilink")の曲とコンサートツアーにも参加（後述）。
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（平成10年）からバンドのMCとして、[名古屋を中心として音楽活動を開始](../Page/名古屋市.md "wikilink")。[2001年](../Page/2001年.md "wikilink")（平成13年）に7人組HIP HOPバンド「ASIAN PIMPS」を結成。ASIAN PIMPSでは、アルバム『nagoyaROCKers』をリリース。2006年に解散。この他、[HB](https://ja.wikipedia.org/wiki/HB_\(アーティスト\) "wikilink")、[TOKONA-X](../Page/TOKONA-X.md "wikilink")、[nobodyknows+](https://ja.wikipedia.org/wiki/nobodyknows+ "wikilink")の曲とコンサートツアーにも参加（後述）。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）[11月8日](../Page/11月8日.md "wikilink")リリースのミニアルバム『情熱のばか』でソロデビュー。
+[2006年](../Page/2006年.md "wikilink")（平成18年）[11月8日](../Page/11月8日.md "wikilink")リリースのミニアルバム『情熱のばか』でソロデビュー。
 
 [2007年](../Page/2007年.md "wikilink")（平成19年）[8月8日](../Page/8月8日.md "wikilink")、[cutting edgeよりミニアルバム](https://ja.wikipedia.org/wiki/cutting_edge "wikilink")『天然音源』でメジャーデビュー。
 
@@ -417,10 +417,10 @@ CTCR-14872～3</p></td>
 <tr class="even">
 <td><p><a href="../Page/2004年.md" title="wikilink">2004年</a><a href="../Page/1月28日.md" title="wikilink">1月28日</a></p></td>
 <td><p>JYOSHIDAI ROCK feat. LOKU/WATT/Killa-D/MASH/ANTY the KUNOICHI/KEISHI/DJ abu</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/TOKONA-X" title="wikilink">TOKONA-X</a>『<a href="https://ja.wikipedia.org/wiki/トウカイXテイオー" title="wikilink">トウカイXテイオー</a>』</p></td>
+<td><p><a href="../Page/TOKONA-X.md" title="wikilink">TOKONA-X</a>『<a href="../Page/トウカイXテイオー.md" title="wikilink">トウカイXテイオー</a>』</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/6月28日.md" title="wikilink">6月28日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/6月28日.md" title="wikilink">6月28日</a></p></td>
 <td><p>Beautiful World／MASH/來々/Mr.SWING<br />
 M.A.R.V.I.N／H.O.Z.E./MASH/Smells Good</p></td>
 <td><p>V.A.『swing presents...Peace from Central Japan』</p></td>
@@ -461,45 +461,45 @@ M.A.R.V.I.N／H.O.Z.E./MASH/Smells Good</p></td>
 
 ## タイアップ一覧
 
-| 楽曲                  | タイアップ                                                                                                                                                                                                                                                                                                                                                                                      |
-| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **みなぎるパワー**         | [東海テレビ](../Page/東海テレビ放送.md "wikilink")『[もりすぎッ\!](https://ja.wikipedia.org/wiki/もりすぎッ! "wikilink")』2007年8月度EDテーマ                                                                                                                                                                                                                                                                            |
-| **ダンスダンスダンス**       | [TBS系テレビ全国ネット](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")『[COUNT DOWN TV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")』2008年2月度エンディングテーマ                                                                                                                                                                                                                                  |
-| **ハローハロー**          | H.I.S.劇場CMタイアップ曲                                                                                                                                                                                                                                                                                                                                                                           |
-| **好きな曲だけテープに吹き込んで** | [オートバックス](https://ja.wikipedia.org/wiki/オートバックス "wikilink")『スーパーカーナビフェア』CMソング                                                                                                                                                                                                                                                                                                              |
-| **稲穂**              | 2014年映画『[いつかの、玄関たちと、](https://ja.wikipedia.org/wiki/いつかの、玄関たちと、 "wikilink")』主題歌、[中京テレビ](../Page/中京テレビ放送.md "wikilink")『[SPORTS STADIUM](https://ja.wikipedia.org/wiki/SPORTS_STADIUM "wikilink")』2月度エンディングテーマ、[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")『[ごごたま](https://ja.wikipedia.org/wiki/ごごたま "wikilink")』2009年12月度エンディングテーマ                                             |
-| **勇気を見せてやる**        | [日本テレビ](../Page/日本テレビ放送網.md "wikilink")『\[\[秘密のケンミンSHOW|カミングアウトバラエティ                                                                                                                                                                                                                                                                                                                       |
-| **Boys～光り輝く明日へ～**   | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列アニメ『[メタルファイト ベイブレード](https://ja.wikipedia.org/wiki/メタルファイト_ベイブレード "wikilink")』エンディングテーマ                                                                                                                                                                                                                                           |
-| **おめでとう**           | 中京テレビ『SPORTS STADIUM』2010年3月度エンディングテーマ 、有限会社池田屋貸衣装店企業CMソング、株式会社マルエイ企業CMソング                                                                                                                                                                                                                                                                                                                 |
-| **夢追いの地図をひろげて**     | [毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink") / [GAORA](https://ja.wikipedia.org/wiki/GAORA "wikilink")（[CS放送](https://ja.wikipedia.org/wiki/衛星放送 "wikilink")）『[第82回選抜高等学校野球大会](https://ja.wikipedia.org/wiki/第82回選抜高等学校野球大会 "wikilink")』中継テーマソング、[CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")『[おかげ様で\!](https://ja.wikipedia.org/wiki/おかげ様で! "wikilink")』エンディングテーマ |
-| **so long**         | CBCテレビ『おかげ様で\!』オープニングテーマ                                                                                                                                                                                                                                                                                                                                                                   |
-| **青空**              | 株式会社TOP TVCMソング                                                                                                                                                                                                                                                                                                                                                                            |
-| **A Perfect World** | 『24時間テレビ36・愛は地球を救う』応援ソング                                                                                                                                                                                                                                                                                                                                                                   |
-| **こどもの国**           | 中京テレビ『[前略、大徳さん](https://ja.wikipedia.org/wiki/前略、大徳さん "wikilink")』オープニングテーマ                                                                                                                                                                                                                                                                                                                |
-| **パレード**            | 中京テレビ『前略、大徳さん』エンディングテーマ                                                                                                                                                                                                                                                                                                                                                                    |
-| **Lovers**          | 株式会社TOP TVCMソング                                                                                                                                                                                                                                                                                                                                                                            |
+| 楽曲                  | タイアップ                                                                                                                                                                                                                                                                                                                                                                   |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **みなぎるパワー**         | [東海テレビ](../Page/東海テレビ放送.md "wikilink")『[もりすぎッ\!](../Page/もりすぎッ!.md "wikilink")』2007年8月度EDテーマ                                                                                                                                                                                                                                                                            |
+| **ダンスダンスダンス**       | [TBS系テレビ全国ネット](../Page/TBSテレビ.md "wikilink")『[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")』2008年2月度エンディングテーマ                                                                                                                                                                                                                                                     |
+| **ハローハロー**          | H.I.S.劇場CMタイアップ曲                                                                                                                                                                                                                                                                                                                                                        |
+| **好きな曲だけテープに吹き込んで** | [オートバックス](https://ja.wikipedia.org/wiki/オートバックス "wikilink")『スーパーカーナビフェア』CMソング                                                                                                                                                                                                                                                                                           |
+| **稲穂**              | 2014年映画『[いつかの、玄関たちと、](https://ja.wikipedia.org/wiki/いつかの、玄関たちと、 "wikilink")』主題歌、[中京テレビ](../Page/中京テレビ放送.md "wikilink")『[SPORTS STADIUM](../Page/SPORTS_STADIUM.md "wikilink")』2月度エンディングテーマ、[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")『[ごごたま](https://ja.wikipedia.org/wiki/ごごたま "wikilink")』2009年12月度エンディングテーマ                                             |
+| **勇気を見せてやる**        | [日本テレビ](../Page/日本テレビ放送網.md "wikilink")『\[\[秘密のケンミンSHOW|カミングアウトバラエティ                                                                                                                                                                                                                                                                                                    |
+| **Boys～光り輝く明日へ～**   | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列アニメ『[メタルファイト ベイブレード](https://ja.wikipedia.org/wiki/メタルファイト_ベイブレード "wikilink")』エンディングテーマ                                                                                                                                                                                                                        |
+| **おめでとう**           | 中京テレビ『SPORTS STADIUM』2010年3月度エンディングテーマ 、有限会社池田屋貸衣装店企業CMソング、株式会社マルエイ企業CMソング                                                                                                                                                                                                                                                                                              |
+| **夢追いの地図をひろげて**     | [毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink") / [GAORA](https://ja.wikipedia.org/wiki/GAORA "wikilink")（[CS放送](../Page/衛星放送.md "wikilink")）『[第82回選抜高等学校野球大会](https://ja.wikipedia.org/wiki/第82回選抜高等学校野球大会 "wikilink")』中継テーマソング、[CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")『[おかげ様で\!](https://ja.wikipedia.org/wiki/おかげ様で! "wikilink")』エンディングテーマ |
+| **so long**         | CBCテレビ『おかげ様で\!』オープニングテーマ                                                                                                                                                                                                                                                                                                                                                |
+| **青空**              | 株式会社TOP TVCMソング                                                                                                                                                                                                                                                                                                                                                         |
+| **A Perfect World** | 『24時間テレビ36・愛は地球を救う』応援ソング                                                                                                                                                                                                                                                                                                                                                |
+| **こどもの国**           | 中京テレビ『[前略、大徳さん](https://ja.wikipedia.org/wiki/前略、大徳さん "wikilink")』オープニングテーマ                                                                                                                                                                                                                                                                                             |
+| **パレード**            | 中京テレビ『前略、大徳さん』エンディングテーマ                                                                                                                                                                                                                                                                                                                                                 |
+| **Lovers**          | 株式会社TOP TVCMソング                                                                                                                                                                                                                                                                                                                                                         |
 
 ## ミュージックビデオ
 
-|                                                            |                                                   |
-| ---------------------------------------------------------- | ------------------------------------------------- |
-| **曲名**                                                     | **監督**                                            |
-| [21世紀少年](https://www.youtube.com/watch?v=X9AMurvVmE4)      | ニシヤマチアキ                                           |
-| [みなぎるパワー](https://www.youtube.com/watch?v=4HWWH0lVP-U)     | ニシヤマチアキ                                           |
-| [ヒーロー](https://www.youtube.com/watch?v=YnPVA03xLJs)        | ニシヤマチアキ                                           |
-| [ダンスダンスダンス](https://www.youtube.com/watch?v=ANZfdC8v9Bk)   | [白組](https://ja.wikipedia.org/wiki/白組 "wikilink") |
-| [風に吹かれて](https://www.youtube.com/watch?v=c-BdaVDk48Y)      | ニシヤマチアキ                                           |
-| [光輝く明日へ](https://www.youtube.com/watch?v=cwqd6KbT1-A)      | ニシヤマチアキ                                           |
-| [稲穂](https://www.youtube.com/watch?v=PASY1io1r9w)          | 名取哲                                               |
-| [僕がいた](https://www.youtube.com/watch?v=S9t78ikgqHs)        | 名取哲                                               |
-| [夢追いの地図をひろげて](https://www.youtube.com/watch?v=sv4XaoNf4f4) | 加藤立                                               |
-| [太陽とカーテン](https://www.youtube.com/watch?v=komjhxvM6tM)     | 名取哲                                               |
-| [青空](https://www.youtube.com/watch?v=J2YUBY9gC4s)          | 名取哲                                               |
-| [トムソーヤ](https://www.youtube.com/watch?v=rThlmhEDPh8)       | 名取哲                                               |
-| [パレード](https://www.youtube.com/watch?v=CloVA1vQj_A)        | 鷲尾友公                                              |
-| [笑顔が似合う人](https://www.youtube.com/watch?v=050TeVoNEbU)     | 佐藤智也                                              |
-| [Lovers](https://www.youtube.com/watch?v=j20qsTPL2gQ)      | 名取哲                                               |
-|                                                            |                                                   |
+|                                                            |                                |
+| ---------------------------------------------------------- | ------------------------------ |
+| **曲名**                                                     | **監督**                         |
+| [21世紀少年](https://www.youtube.com/watch?v=X9AMurvVmE4)      | ニシヤマチアキ                        |
+| [みなぎるパワー](https://www.youtube.com/watch?v=4HWWH0lVP-U)     | ニシヤマチアキ                        |
+| [ヒーロー](https://www.youtube.com/watch?v=YnPVA03xLJs)        | ニシヤマチアキ                        |
+| [ダンスダンスダンス](https://www.youtube.com/watch?v=ANZfdC8v9Bk)   | [白組](../Page/白組.md "wikilink") |
+| [風に吹かれて](https://www.youtube.com/watch?v=c-BdaVDk48Y)      | ニシヤマチアキ                        |
+| [光輝く明日へ](https://www.youtube.com/watch?v=cwqd6KbT1-A)      | ニシヤマチアキ                        |
+| [稲穂](https://www.youtube.com/watch?v=PASY1io1r9w)          | 名取哲                            |
+| [僕がいた](https://www.youtube.com/watch?v=S9t78ikgqHs)        | 名取哲                            |
+| [夢追いの地図をひろげて](https://www.youtube.com/watch?v=sv4XaoNf4f4) | 加藤立                            |
+| [太陽とカーテン](https://www.youtube.com/watch?v=komjhxvM6tM)     | 名取哲                            |
+| [青空](https://www.youtube.com/watch?v=J2YUBY9gC4s)          | 名取哲                            |
+| [トムソーヤ](https://www.youtube.com/watch?v=rThlmhEDPh8)       | 名取哲                            |
+| [パレード](https://www.youtube.com/watch?v=CloVA1vQj_A)        | 鷲尾友公                           |
+| [笑顔が似合う人](https://www.youtube.com/watch?v=050TeVoNEbU)     | 佐藤智也                           |
+| [Lovers](https://www.youtube.com/watch?v=j20qsTPL2gQ)      | 名取哲                            |
+|                                                            |                                |
 
 ## 主なライブ
 

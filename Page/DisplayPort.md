@@ -3,23 +3,23 @@
 
 [thumb成分が遮断されている](https://ja.wikipedia.org/wiki/ファイル:DisplayPort_&_Mini_DisplayPort_\(Data_line_&_Control_signal_line\).PNG "wikilink")。制御信号線は1組の差動信号線を双方向で使用し、100kΩの抵抗を介して電源とグランドにプルアップとプルダウンされており、最高1Mbpsまでの速度に対応する。\]\] **DisplayPort**（**ディスプレイポート**）は、[液晶ディスプレイ](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")などのデジタル・[ディスプレイ装置の為に設計された映像出力](../Page/ディスプレイ_\(コンピュータ\).md "wikilink")[インタフェースの](../Page/インタフェース_\(情報技術\).md "wikilink")[規格](https://ja.wikipedia.org/wiki/規格 "wikilink")である\[1\]\[2\]。
 
-[DVIの後継を狙った規格であり](https://ja.wikipedia.org/wiki/Digital_Visual_Interface "wikilink")、[標準化団体](https://ja.wikipedia.org/wiki/標準化団体 "wikilink")である[VESA](../Page/VESA.md "wikilink")によって策定された。二次的な仕様ではあるが音声信号や汎用データの転送も可能である。音声信号伝送に関してはオプションである為、機器によって対応／非対応のものがある。
+[DVIの後継を狙った規格であり](../Page/Digital_Visual_Interface.md "wikilink")、[標準化団体](../Page/標準化団体.md "wikilink")である[VESA](../Page/VESA.md "wikilink")によって策定された。二次的な仕様ではあるが音声信号や汎用データの転送も可能である。音声信号伝送に関してはオプションである為、機器によって対応／非対応のものがある。
 
 ## 歴史
 
-[CRTディスプレイの時代から長年使われてきたアナログ](../Page/ブラウン管.md "wikilink")[VGAインタフェースは](https://ja.wikipedia.org/wiki/VGA端子 "wikilink")、[1999年](../Page/1999年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")にデジタル信号を扱う[DVIの登場によって置き換えが進むかに思われたが](https://ja.wikipedia.org/wiki/Digital_Visual_Interface "wikilink")、実際には両者の切り替わりには時間が掛かっていた。
+[CRTディスプレイの時代から長年使われてきたアナログ](../Page/ブラウン管.md "wikilink")[VGAインタフェースは](../Page/VGA端子.md "wikilink")、[1999年](../Page/1999年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")にデジタル信号を扱う[DVIの登場によって置き換えが進むかに思われたが](../Page/Digital_Visual_Interface.md "wikilink")、実際には両者の切り替わりには時間が掛かっていた。
 
-その後、[21世紀](../Page/21世紀.md "wikilink")に入り[ノートパソコン](../Page/ノートパソコン.md "wikilink")でのDVI端子の厚さに対する不満や、[デジタル家電での](https://ja.wikipedia.org/wiki/デジタル家庭電化製品 "wikilink")[HDMIの登場によって据え置き型の](https://ja.wikipedia.org/wiki/High-Definition_Multimedia_Interface "wikilink")[PCでもDVIからHDMIに対応するようになるなど](../Page/パーソナルコンピュータ.md "wikilink")、PC業界からはDVIやHDMIでは満たせない小型化やコスト低減、今後の高速化への余地を確保できるような新たなインタフェースが求められた。
+その後、[21世紀](../Page/21世紀.md "wikilink")に入り[ノートパソコン](../Page/ノートパソコン.md "wikilink")でのDVI端子の厚さに対する不満や、[デジタル家電での](../Page/デジタル家庭電化製品.md "wikilink")[HDMIの登場によって据え置き型の](https://ja.wikipedia.org/wiki/High-Definition_Multimedia_Interface "wikilink")[PCでもDVIからHDMIに対応するようになるなど](../Page/パーソナルコンピュータ.md "wikilink")、PC業界からはDVIやHDMIでは満たせない小型化やコスト低減、今後の高速化への余地を確保できるような新たなインタフェースが求められた。
 
-こういった背景でDisplayPortはそれまでのDVIを置き換える目的で開発され、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")の最初の規格である1.0が、[VESA](../Page/VESA.md "wikilink") (Video Electronics Standards Association)\[3\] によって発表され、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")にはVersion 1.1aが策定された\[4\]。特に[2007年](../Page/2007年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")にそれまでUDI (Unified Display Interface) 規格を推進してきた米[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")社がDisplayPortの支持に転向してからは、PC用ディスプレイで今後の利用が進むと考えられ、ビジネス用のPCではDisplayPortが、AVパソコンと呼ばれるPCではHDMIが採用されるというのが主流である\[5\]\[6\]。
+こういった背景でDisplayPortはそれまでのDVIを置き換える目的で開発され、[2006年](../Page/2006年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")の最初の規格である1.0が、[VESA](../Page/VESA.md "wikilink") (Video Electronics Standards Association)\[3\] によって発表され、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")にはVersion 1.1aが策定された\[4\]。特に[2007年](../Page/2007年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")にそれまでUDI (Unified Display Interface) 規格を推進してきた米[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")社がDisplayPortの支持に転向してからは、PC用ディスプレイで今後の利用が進むと考えられ、ビジネス用のPCではDisplayPortが、AVパソコンと呼ばれるPCではHDMIが採用されるというのが主流である\[5\]\[6\]。
 
-またDisplayPortではHDMIやDVIでは想定していなかった超高解像度での利用を視野に入れており、特定のビジネス用途（医療分野やCAD等）では他に選択肢がない。なお、この超高解像度のサポートは元々[マルチディスプレイ環境下での解像度の合計値を想定して定められたものである](https://ja.wikipedia.org/wiki/マルチモニター "wikilink")。
+またDisplayPortではHDMIやDVIでは想定していなかった超高解像度での利用を視野に入れており、特定のビジネス用途（医療分野やCAD等）では他に選択肢がない。なお、この超高解像度のサポートは元々[マルチディスプレイ環境下での解像度の合計値を想定して定められたものである](../Page/マルチモニター.md "wikilink")。
 
 ## 特徴
 
   - ライセンス料が必要なHDMIに対して、VESAはDisplayPortを無償で使用できるように策定していた\[7\]。2015年になってMPEG LA社がDisplayPortライセンスを策定しライセンス料の支払いを要求している\[8\]がVESAは認めていない\[9\]。VESAの公式サイトの[FAQ](https://www.vesa.org/faqs/#General%20DisplayPort%20FAQs)によれば、2017年10月現在、ライセンス料は支払われていないようである。[MPEG LAのプレスリリースによれば](https://ja.wikipedia.org/wiki/MPEG_LA "wikilink")、MPEG LAライセンスプールの一つ以上の特許が含まれている地域で製造または販売された場合、1製品当たり0.20ドルのライセンス料が発生するとしている\[10\]。2015年9月現在、MPEG LAのライセンスには[日立マクセル](https://ja.wikipedia.org/wiki/日立マクセル "wikilink")、[Philips](https://ja.wikipedia.org/wiki/Philips "wikilink")、[ラティスセミコンダクター](https://ja.wikipedia.org/wiki/ラティスセミコンダクター "wikilink")、[Rambus](https://ja.wikipedia.org/wiki/Rambus "wikilink")、[Sony](https://ja.wikipedia.org/wiki/Sony "wikilink")の特許が含まれる\[11\]。またDisplayPortはケーブルの両端に制御ICが必要なため、ケーブルの製造コストはHDMIより高い。DisplayPort規格は無料で利用できるが、規格へのアクセスにVESAの会員資格を必要とし\[12\]年会費は安い場合で5,000ドルである\[13\]。
-  - 複数のディスプレイを数珠つなぎにし、今までよりも簡単に[マルチディスプレイ環境を構築することが出来る](https://ja.wikipedia.org/wiki/マルチモニター "wikilink")。
-  - [PCや](../Page/パーソナルコンピュータ.md "wikilink")[セットトップボックス](https://ja.wikipedia.org/wiki/セットトップボックス "wikilink")はソース機器、モニタ・[プロジェクタ](../Page/プロジェクタ.md "wikilink")などはシンク機器として定義されている。
+  - 複数のディスプレイを数珠つなぎにし、今までよりも簡単に[マルチディスプレイ環境を構築することが出来る](../Page/マルチモニター.md "wikilink")。
+  - [PCや](../Page/パーソナルコンピュータ.md "wikilink")[セットトップボックス](../Page/セットトップボックス.md "wikilink")はソース機器、モニタ・[プロジェクタ](../Page/プロジェクタ.md "wikilink")などはシンク機器として定義されている。
   - ソース機器の対応次第で、DisplayPort-DVI／DisplayPort-HDMI変換アダプタを利用し、DVI/HDMIシンク機器への接続も可能になり、その逆も可能である。
   - 著作権保護技術[HDCPに対応しており](https://ja.wikipedia.org/wiki/コピーガード#HDCP.28High-bandwidth_Digital_Content_Protection.29 "wikilink")、これを利用した映像信号と音声信号の伝送が可能である。
   - 音声伝送に関してはOptionalとして定義されているため、対応している機器とそうでない機器がある。
@@ -299,12 +299,12 @@
 
 ## 関連項目
 
-  - [VGA端子](https://ja.wikipedia.org/wiki/VGA端子 "wikilink")
-  - [DVI](https://ja.wikipedia.org/wiki/Digital_Visual_Interface "wikilink")
+  - [VGA端子](../Page/VGA端子.md "wikilink")
+  - [DVI](../Page/Digital_Visual_Interface.md "wikilink")
   - [HDMI](https://ja.wikipedia.org/wiki/High-Definition_Multimedia_Interface "wikilink")
-  - [RCA](https://ja.wikipedia.org/wiki/RCA端子 "wikilink")
-  - [LVDS](https://ja.wikipedia.org/wiki/Low_voltage_differential_signaling "wikilink")
-  - [V-by-One HS](https://ja.wikipedia.org/wiki/V-by-One_HS "wikilink")
+  - [RCA](../Page/RCA端子.md "wikilink")
+  - [LVDS](../Page/Low_voltage_differential_signaling.md "wikilink")
+  - [V-by-One HS](../Page/V-by-One_HS.md "wikilink")
   - [Thunderbolt](https://ja.wikipedia.org/wiki/Thunderbolt "wikilink") - [インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")と[アップルが開発した汎用のデータ高速伝送技術](../Page/アップル_\(企業\).md "wikilink")。DisplayPortプロトコルをサポートする。コネクタ形状としてThunderbolt 2まではMini DisplayPortを、Thunderbolt 3は[USB Type-Cを採用している](https://ja.wikipedia.org/wiki/USB_Type-C "wikilink")。
   - [SlimPort](https://ja.wikipedia.org/wiki/SlimPort "wikilink")
 
@@ -318,8 +318,8 @@
 1.
 2.
 3.  VESAは、[HPや](../Page/ヒューレット・パッカード.md "wikilink")[デル](../Page/デル.md "wikilink")といったPCメーカーなどで構成されるディスプレイ関連の標準化などを手掛ける標準化団体である。
-4.  DisplayPortに似た規格に[LVDSがある](https://ja.wikipedia.org/wiki/Low_voltage_differential_signaling "wikilink")。
-5.  小型の端子を武器にモバイル用途での採用を狙うDisplayPortだが、HDMIもVer. 1.4でマイクロHDMI（タイプD）プラグが制定されており、また新たに携帯機器用の高速画像インタフェースとして[MHL](https://ja.wikipedia.org/wiki/MHL "wikilink")が登場している。
+4.  DisplayPortに似た規格に[LVDSがある](../Page/Low_voltage_differential_signaling.md "wikilink")。
+5.  小型の端子を武器にモバイル用途での採用を狙うDisplayPortだが、HDMIもVer. 1.4でマイクロHDMI（タイプD）プラグが制定されており、また新たに携帯機器用の高速画像インタフェースとして[MHL](../Page/MHL.md "wikilink")が登場している。
 6.
 7.
 8.
@@ -328,7 +328,7 @@
 11. {{ Cite web| title = DisplayPort Attachment 1| url = <http://www.mpegla.com/main/programs/DisplayPort/Documents/displayport-att1.pdf> |format=pdf |language=en | date = 2015年9月23日 | accessdate = 2015年9月23日 |deadlinkdate=2019-11-29 |archiveurl=<https://web.archive.org/web/20180123190708/http://www.mpegla.com/main/programs/DisplayPort/Documents/displayport-att1.pdf> |archivedate=2018-01-23}}
 12. {{ Cite web| title = VESA standards purchasing page | url = <https://www.vesa.org/vesa-standards/> |language=en |accessdate=2018-01-23 }}
 13. {{ Cite web| title = VESA membership application | url = <https://fs16.formsite.com/VESA/form70/index.html> |language=zh |accessdate=2018-01-23}}
-14. 2009年3月現在は、[LVDSがノートパソコン内部のヒンジ部分をつなぐ信号線として採用されている場合が多いが](https://ja.wikipedia.org/wiki/Low_voltage_differential_signaling "wikilink")、DisplayPortではLVDSより信号線が少なくDC結合が無く電圧も低く消費電力も少なくて済むので、送受信回路をグラフィックスLSIとタイミング・コントローラーLSIに統合しやすく、コスト削減と小面積化に貢献すると期待される。
+14. 2009年3月現在は、[LVDSがノートパソコン内部のヒンジ部分をつなぐ信号線として採用されている場合が多いが](../Page/Low_voltage_differential_signaling.md "wikilink")、DisplayPortではLVDSより信号線が少なくDC結合が無く電圧も低く消費電力も少なくて済むので、送受信回路をグラフィックスLSIとタイミング・コントローラーLSIに統合しやすく、コスト削減と小面積化に貢献すると期待される。
 15. DisplayPortの制御線はHDMIでのCECと同様にAVシアター・システムのような複数の映像機器を連動させる用途で、使用者のリモコン操作を一元的に扱う高機能な映像情報システムを組めるようになる。
 16.
 17.

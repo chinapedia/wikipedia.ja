@@ -1,13 +1,13 @@
 > この記事は[MIYAZAWA](https://ja.wikipedia.org/wiki/MIYAZAWA)から翻訳されています。
 
 
-『**MIYAZAWA**』（ミヤザワ）は、[THE BOOMおよび](https://ja.wikipedia.org/wiki/THE_BOOM "wikilink")[GANGA ZUMBAのボーカリスト](https://ja.wikipedia.org/wiki/GANGA_ZUMBA "wikilink")・[宮沢和史](https://ja.wikipedia.org/wiki/宮沢和史 "wikilink")が[2001年](../Page/2001年.md "wikilink")[11月28日](../Page/11月28日.md "wikilink")に発表した、3rdソロアルバムである。
+『**MIYAZAWA**』（ミヤザワ）は、[THE BOOMおよび](../Page/THE_BOOM.md "wikilink")[GANGA ZUMBAのボーカリスト](../Page/GANGA_ZUMBA.md "wikilink")・[宮沢和史](../Page/宮沢和史.md "wikilink")が[2001年](../Page/2001年.md "wikilink")[11月28日](../Page/11月28日.md "wikilink")に発表した、3rdソロアルバムである。
 
 ## 概要
 
 2001年3月、宮沢はTHE BOOMの全国ツアーが始まる前に[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[アルゼンチン](../Page/アルゼンチン.md "wikilink")へ渡り、このアルバムをレコーディング。アルバムタイトルは当初「AFROSICK 2」であったが、「宮沢和史の世界を知ってもらいたい」という思いから「MIYAZAWA」と改められた。
 
-レコーディングは[3月3日](../Page/3月3日.md "wikilink")にブラジル・[サルヴァドール](https://ja.wikipedia.org/wiki/サルヴァドール "wikilink")から始まり、アメリカへ渡りいったん[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")へ戻ったのち、再びアルゼンチンへ渡り[5月24日](../Page/5月24日.md "wikilink")に終了した。
+レコーディングは[3月3日](../Page/3月3日.md "wikilink")にブラジル・[サルヴァドール](../Page/サルヴァドール.md "wikilink")から始まり、アメリカへ渡りいったん[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")へ戻ったのち、再びアルゼンチンへ渡り[5月24日](../Page/5月24日.md "wikilink")に終了した。
 
 収録曲である「沖縄に降る雪」はペリカン便のＣＭソングとして使用されている。 また「Perfect Love」はドラマ『[恋を何年休んでいますか](https://ja.wikipedia.org/wiki/恋を何年休んでいますか "wikilink")』にて宮沢演じる島兼一が昔の恋人である小西有子（演　[小泉今日子](https://ja.wikipedia.org/wiki/小泉今日子 "wikilink")）に送った手紙の中で歌詞の一部が使われている。
 

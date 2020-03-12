@@ -1,11 +1,11 @@
 > この記事は[Ap bank fes \'05](https://ja.wikipedia.org/wiki/Ap_bank_fes_\'05)から翻訳されています。
 
 
-『**ap bank fes '05**』（エーピー バンク フェス ぜろご）は[Bank Band](../Page/Bank_Band.md "wikilink") with Great Artists & [Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")出演の映像作品である。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月21日](../Page/12月21日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より[DVD](../Page/DVD.md "wikilink")で発売された。
+『**ap bank fes '05**』（エーピー バンク フェス ぜろご）は[Bank Band](../Page/Bank_Band.md "wikilink") with Great Artists & [Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")出演の映像作品である。[2005年](../Page/2005年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より[DVD](../Page/DVD.md "wikilink")で発売された。
 
 ## 概要
 
-2005年7月16 - 18日に[静岡県](../Page/静岡県.md "wikilink")[つま恋にて開催された](https://ja.wikipedia.org/wiki/つま恋リゾート_彩の郷 "wikilink")[ap bank主催の野外音楽フェスティバル](https://ja.wikipedia.org/wiki/ap_bank "wikilink")『ap bank fes '05』のライブ映像やドキュメンタリー映像を収録している。なお、この収益はap bankの活動費に充てられる。
+2005年7月16 - 18日に[静岡県](../Page/静岡県.md "wikilink")[つま恋にて開催された](../Page/つま恋リゾート_彩の郷.md "wikilink")[ap bank主催の野外音楽フェスティバル](https://ja.wikipedia.org/wiki/ap_bank "wikilink")『ap bank fes '05』のライブ映像やドキュメンタリー映像を収録している。なお、この収益はap bankの活動費に充てられる。
 
 ## 収録曲
 
@@ -14,9 +14,9 @@
 ### Disc 1
 
 1.  **Opening**
-2.  **[プロポーズ](https://ja.wikipedia.org/wiki/プロポーズ_\(KANの曲\) "wikilink")**（[Bank Band](../Page/Bank_Band.md "wikilink")）
-3.  **[ストレンジ カメレオン](https://ja.wikipedia.org/wiki/ストレンジ_カメレオン "wikilink")**（Bank Band）
-4.  **[ハナミズキ](https://ja.wikipedia.org/wiki/ハナミズキ_\(曲\) "wikilink")**（[一青窈](https://ja.wikipedia.org/wiki/一青窈 "wikilink")）
+2.  **[プロポーズ](../Page/プロポーズ_\(KANの曲\).md "wikilink")**（[Bank Band](../Page/Bank_Band.md "wikilink")）
+3.  **[ストレンジ カメレオン](../Page/ストレンジ_カメレオン.md "wikilink")**（Bank Band）
+4.  **[ハナミズキ](../Page/ハナミズキ_\(曲\).md "wikilink")**（[一青窈](https://ja.wikipedia.org/wiki/一青窈 "wikilink")）
 5.  **[VALON-1](https://ja.wikipedia.org/wiki/VALON-1 "wikilink")**（[Salyu](https://ja.wikipedia.org/wiki/Salyu "wikilink")）
 6.  **Documentary 1**
 7.  **[情熱の薔薇](../Page/情熱の薔薇.md "wikilink")**（Bank Band）
@@ -36,11 +36,11 @@
 ### Disc 2
 
 1.  **Documentary 3**
-2.  **[アゲハ蝶](https://ja.wikipedia.org/wiki/アゲハ蝶 "wikilink")**（[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")）
+2.  **[アゲハ蝶](../Page/アゲハ蝶.md "wikilink")**（[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")）
 3.  **[FIND THE WAY](https://ja.wikipedia.org/wiki/FIND_THE_WAY "wikilink")**（[中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")）
 4.  **Documentary 4**
-5.  **[昨日のNo, 明日のYes](https://ja.wikipedia.org/wiki/沿志奏逢2#収録曲 "wikilink")**（[GAKU-MC](https://ja.wikipedia.org/wiki/GAKU-MC "wikilink")）
-6.  **[ストーリー](https://ja.wikipedia.org/wiki/ストーリー_\(スガシカオの曲\) "wikilink")**（[スガシカオ](https://ja.wikipedia.org/wiki/スガシカオ "wikilink")）
+5.  **[昨日のNo, 明日のYes](https://ja.wikipedia.org/wiki/沿志奏逢2#収録曲 "wikilink")**（[GAKU-MC](../Page/GAKU-MC.md "wikilink")）
+6.  **[ストーリー](../Page/ストーリー_\(スガシカオの曲\).md "wikilink")**（[スガシカオ](../Page/スガシカオ.md "wikilink")）
 7.  **Documentary 5**
 8.  *"[Young Bloods](https://ja.wikipedia.org/wiki/Young_Bloods "wikilink")*"（[佐野元春](../Page/佐野元春.md "wikilink")）
 
@@ -56,8 +56,8 @@
 ### Disc 3
 
 1.  **Documentary 6**
-2.  **[全力少年](https://ja.wikipedia.org/wiki/全力少年 "wikilink")**（[スキマスイッチ](https://ja.wikipedia.org/wiki/スキマスイッチ "wikilink")）
-3.  **[Swallowtail Butterfly 〜あいのうた〜](https://ja.wikipedia.org/wiki/Swallowtail_Butterfly_〜あいのうた〜 "wikilink")**（[CHARA](https://ja.wikipedia.org/wiki/CHARA "wikilink")）
+2.  **[全力少年](../Page/全力少年.md "wikilink")**（[スキマスイッチ](../Page/スキマスイッチ.md "wikilink")）
+3.  **[Swallowtail Butterfly 〜あいのうた〜](../Page/Swallowtail_Butterfly_〜あいのうた〜.md "wikilink")**（[CHARA](https://ja.wikipedia.org/wiki/CHARA "wikilink")）
 4.  **[家路](https://ja.wikipedia.org/wiki/Home_Bound#収録曲 "wikilink")**（[浜田省吾](https://ja.wikipedia.org/wiki/浜田省吾 "wikilink")）
 5.  **[HERO](https://ja.wikipedia.org/wiki/沿志奏逢#収録曲 "wikilink")**（Bank Band）
 6.  **[糸](https://ja.wikipedia.org/wiki/沿志奏逢#収録曲 "wikilink")**（Bank Band）

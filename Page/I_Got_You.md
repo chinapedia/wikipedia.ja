@@ -5,7 +5,7 @@
 
 ## 解説
 
-  - [2002年](../Page/2002年.md "wikilink")[12月18日](../Page/12月18日.md "wikilink")に[SONIC GROOVEよりリリースされた](https://ja.wikipedia.org/wiki/SONIC_GROOVE "wikilink")。
+  - [2002年](../Page/2002年.md "wikilink")[12月18日](../Page/12月18日.md "wikilink")に[SONIC GROOVEよりリリースされた](../Page/SONIC_GROOVE.md "wikilink")。
   - 移籍第1弾作品で、初のソロアルバム『[I'll Do It My Way](https://ja.wikipedia.org/wiki/I'll_Do_It_My_Way_\(アルバム\) "wikilink")』と同時リリースされた。
   - タイトル曲の日本語詞（訳）を自ら手がけている。
   - ビデオクリップが制作されたが、パッケージ化はされていない。

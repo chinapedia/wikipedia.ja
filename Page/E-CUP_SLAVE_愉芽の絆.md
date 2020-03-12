@@ -1,9 +1,9 @@
 > この記事は[E-CUP SLAVE ](https://ja.wikipedia.org/wiki/E-CUP_SLAVE_)から翻訳されています。
 
 
-**E-CUP SLAVE 愉芽の絆** （いーかっぷ　すれいぶ　ゆめのきずな）は、[岡本百合](https://ja.wikipedia.org/wiki/岡本百合 "wikilink")主演の[シネマジック](https://ja.wikipedia.org/wiki/シネマジック "wikilink")の[AV作品である](https://ja.wikipedia.org/wiki/アダルトビデオ "wikilink")。
+**E-CUP SLAVE 愉芽の絆** （いーかっぷ　すれいぶ　ゆめのきずな）は、[岡本百合](../Page/岡本百合.md "wikilink")主演の[シネマジック](../Page/シネマジック.md "wikilink")の[AV作品である](https://ja.wikipedia.org/wiki/アダルトビデオ "wikilink")。
 
-[1988年](../Page/1988年.md "wikilink")に活躍したAV女優・[岡本百合](https://ja.wikipedia.org/wiki/岡本百合 "wikilink")を主演とし、彼女のセールスポイントとしていた大きく且つ美しい[乳房](../Page/乳房.md "wikilink")「美巨乳」と豊満な肉体の魅力を[接写](https://ja.wikipedia.org/wiki/接写 "wikilink")を多用した撮影で余す所なく引き出し、その上ハイレベルで過激な[SMプレイが大反響を呼ぶ](../Page/SM_\(性風俗\).md "wikilink")。
+[1988年](../Page/1988年.md "wikilink")に活躍したAV女優・[岡本百合](../Page/岡本百合.md "wikilink")を主演とし、彼女のセールスポイントとしていた大きく且つ美しい[乳房](../Page/乳房.md "wikilink")「美巨乳」と豊満な肉体の魅力を[接写](../Page/接写.md "wikilink")を多用した撮影で余す所なく引き出し、その上ハイレベルで過激な[SMプレイが大反響を呼ぶ](../Page/SM_\(性風俗\).md "wikilink")。
 
 それまでいわゆる"単体モノ"にしか出演しなかった岡本であったが、同作品では過激なSMプレイに体当たりで挑んでいる。
 
@@ -11,19 +11,19 @@
 
 ## 出演
 
-  - 岡本百合（[岡本百合](https://ja.wikipedia.org/wiki/岡本百合 "wikilink")）
+  - 岡本百合（[岡本百合](../Page/岡本百合.md "wikilink")）
       - 山深い片田舎に住む娘。
       - 後にセックスパートナーとなる先生に密かな恋心を抱いていた。そして先生に処女を捧げる。
-      - 女校生の頃は二つ結びで清楚な服装だったが、卒業してからはボディコン風、三つ編みワンピース、[ゴシック風衣装と着衣に経年変化は窺い知れるが](https://ja.wikipedia.org/wiki/ゴシック・ファッション "wikilink")、普段の暮らしは窺い知れない。
+      - 女校生の頃は二つ結びで清楚な服装だったが、卒業してからはボディコン風、三つ編みワンピース、[ゴシック風衣装と着衣に経年変化は窺い知れるが](../Page/ゴシック・ファッション.md "wikilink")、普段の暮らしは窺い知れない。
       - 先生とは喫茶店で待ち合わせしてからデートをしており、普段は距離を置いて暮らしている。
-      - そのためか、先生とは深い仲となるが、別な男性と[婚約](https://ja.wikipedia.org/wiki/婚約 "wikilink")してしまう。
+      - そのためか、先生とは深い仲となるが、別な男性と[婚約](../Page/婚約.md "wikilink")してしまう。
 
 <!-- end list -->
 
   - 先生（[日比野達郎](https://ja.wikipedia.org/wiki/日比野達郎 "wikilink")（恵比寿太一郎名義））
       - 元々は百合の通っていた学校の先生であった。いつも[北原白秋](../Page/北原白秋.md "wikilink")の詩集等、文庫本を持ち歩く所から科目は国語と思われる。
       - 女性を緊縛しないと性的興奮が得られない性癖を持っている。そのため黒い縄は必需品となっており、いつも大きなカバンを持ち歩いている。
-      - 百合と[デート](https://ja.wikipedia.org/wiki/デート "wikilink")をする時は黒ずくめの[サングラス](https://ja.wikipedia.org/wiki/サングラス "wikilink")をどんなプレイ中でも一貫して外さずかけている（但し写真を撮影する際は銀縁の眼鏡を着用する）。
+      - 百合と[デート](../Page/デート.md "wikilink")をする時は黒ずくめの[サングラス](../Page/サングラス.md "wikilink")をどんなプレイ中でも一貫して外さずかけている（但し写真を撮影する際は銀縁の眼鏡を着用する）。
       - 百合を愛し、百合の事を真剣に考えていたのだが、他の男性と婚約してしまう百合に愛情から怨念へと変化してゆく。
 
 ## ストーリー
@@ -45,16 +45,16 @@
       - 舐め回し
       - 揉みしだき
       - 洗濯挟みによるクリッピング
-      - 吸引カップにより[乳首](https://ja.wikipedia.org/wiki/乳首 "wikilink")吸い上げ
+      - 吸引カップにより[乳首](../Page/乳首.md "wikilink")吸い上げ
   - [クンニリングス](../Page/クンニリングス.md "wikilink")
   - [鼻責め](../Page/鼻責め.md "wikilink")
       - [鼻フック](https://ja.wikipedia.org/wiki/鼻フック "wikilink")
       - 鼻鏡による鼻拡張
   - 鈴つき洗濯挟みによる[陰唇](https://ja.wikipedia.org/wiki/陰唇 "wikilink")クリッピング
-  - 脱糞ファック([浣腸](https://ja.wikipedia.org/wiki/浣腸 "wikilink")後[性交中に](https://ja.wikipedia.org/wiki/性行為 "wikilink")[排便](https://ja.wikipedia.org/wiki/排便 "wikilink"))
+  - 脱糞ファック([浣腸](../Page/浣腸.md "wikilink")後[性交中に](https://ja.wikipedia.org/wiki/性行為 "wikilink")[排便](../Page/排便.md "wikilink"))
   - 浣腸
-  - [アナルセックス](https://ja.wikipedia.org/wiki/アナルセックス "wikilink")
-  - [飲尿](https://ja.wikipedia.org/wiki/飲尿 "wikilink")
+  - [アナルセックス](../Page/アナルセックス.md "wikilink")
+  - [飲尿](../Page/飲尿.md "wikilink")
   - [イラマチオ](https://ja.wikipedia.org/wiki/イラマチオ "wikilink")
   - 熱蝋責め（舌の上にも熱蝋を落とす）
 
@@ -75,7 +75,7 @@
 
 <!-- end list -->
 
-  - [1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")[12月20日](../Page/12月20日.md "wikilink")に[大洋図書](https://ja.wikipedia.org/wiki/大洋図書 "wikilink")から廉価セル版[VHS](../Page/VHS.md "wikilink")ビデオカセット版が発売される。
+  - [1991年](../Page/1991年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink")に[大洋図書](../Page/大洋図書.md "wikilink")から廉価セル版[VHS](../Page/VHS.md "wikilink")ビデオカセット版が発売される。
 
 <!-- end list -->
 
@@ -94,7 +94,7 @@
   -
     番号:DD-65　定価:¥4,800(消費税別)
     藤岡未玖主演「背徳の絆」とカップリングして「背徳の絆・愉芽の絆」として発売。
-    宣伝グラビア用スチルのオマケ付きだが、現代の倫理審査では通過出来ないのか一部で[モザイクの上書きによる消し込み濃度が高くなってしまっている](https://ja.wikipedia.org/wiki/モザイク処理 "wikilink")。
+    宣伝グラビア用スチルのオマケ付きだが、現代の倫理審査では通過出来ないのか一部で[モザイクの上書きによる消し込み濃度が高くなってしまっている](../Page/モザイク処理.md "wikilink")。
     [2007年](../Page/2007年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")、シネマジック製品の販路変更\[3\]に伴い廃盤。
 
 [2013年](../Page/2013年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")現在、動画ダウンロードサイトで購入可能である。

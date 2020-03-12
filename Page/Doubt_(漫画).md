@@ -1,7 +1,7 @@
 > この記事は[Doubt \(\)](https://ja.wikipedia.org/wiki/Doubt_\(\))から翻訳されています。
 
 
-『**Doubt**』（ダウト）は、[外海良基](https://ja.wikipedia.org/wiki/外海良基 "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[月刊少年ガンガン](../Page/月刊少年ガンガン.md "wikilink")』（[スクウェア・エニックス](https://ja.wikipedia.org/wiki/スクウェア・エニックス "wikilink")）にて、[2007年](../Page/2007年.md "wikilink")8月号から[2009年](../Page/2009年.md "wikilink")3月号まで連載された。[デス・ゲーム](https://ja.wikipedia.org/wiki/デス・ゲーム "wikilink")を題材としたスリラーコミック。
+『**Doubt**』（ダウト）は、[外海良基](../Page/外海良基.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[月刊少年ガンガン](../Page/月刊少年ガンガン.md "wikilink")』（[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")）にて、[2007年](../Page/2007年.md "wikilink")8月号から[2009年](../Page/2009年.md "wikilink")3月号まで連載された。[デス・ゲーム](https://ja.wikipedia.org/wiki/デス・ゲーム "wikilink")を題材としたスリラーコミック。
 
 ## あらすじ
 
@@ -93,16 +93,16 @@
 <!-- end list -->
 
   - 立花姫香：[松岡由貴](../Page/松岡由貴.md "wikilink")
-  - 山本美弥子：[加藤英美里](https://ja.wikipedia.org/wiki/加藤英美里 "wikilink")
+  - 山本美弥子：[加藤英美里](../Page/加藤英美里.md "wikilink")
   - 加納洋子：[能登麻美子](https://ja.wikipedia.org/wiki/能登麻美子 "wikilink")
-  - 桜茂：[羽多野渉](https://ja.wikipedia.org/wiki/羽多野渉 "wikilink")
+  - 桜茂：[羽多野渉](../Page/羽多野渉.md "wikilink")
   - 西崎和幸：[水島大宙](https://ja.wikipedia.org/wiki/水島大宙 "wikilink")
-  - 柴田隆人：[高城元気](https://ja.wikipedia.org/wiki/高城元気 "wikilink")
-  - 世良彰：[前野智昭](https://ja.wikipedia.org/wiki/前野智昭 "wikilink")
+  - 柴田隆人：[高城元気](../Page/高城元気.md "wikilink")
+  - 世良彰：[前野智昭](../Page/前野智昭.md "wikilink")
   - ナレーション:[堀江由衣](https://ja.wikipedia.org/wiki/堀江由衣 "wikilink")
 
 ## 関連項目
 
-  - [汝は人狼なりや?](https://ja.wikipedia.org/wiki/汝は人狼なりや? "wikilink")
+  - [汝は人狼なりや?](../Page/汝は人狼なりや?.md "wikilink")
 
 [Category:漫画作品_た](https://ja.wikipedia.org/wiki/Category:漫画作品_た "wikilink") [Category:月刊少年ガンガンの漫画作品](https://ja.wikipedia.org/wiki/Category:月刊少年ガンガンの漫画作品 "wikilink") [Category:推理漫画](https://ja.wikipedia.org/wiki/Category:推理漫画 "wikilink") [Category:ホラー漫画](https://ja.wikipedia.org/wiki/Category:ホラー漫画 "wikilink") [Category:スリラー漫画](https://ja.wikipedia.org/wiki/Category:スリラー漫画 "wikilink") [Category:デス・ゲームを題材とした作品](https://ja.wikipedia.org/wiki/Category:デス・ゲームを題材とした作品 "wikilink") [Category:ドラマCD](https://ja.wikipedia.org/wiki/Category:ドラマCD "wikilink")

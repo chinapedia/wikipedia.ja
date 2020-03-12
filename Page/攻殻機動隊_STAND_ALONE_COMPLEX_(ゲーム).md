@@ -1,7 +1,7 @@
 > この記事は[ STAND ALONE COMPLEX \(\)](https://ja.wikipedia.org/wiki/_STAND_ALONE_COMPLEX_\(\))から翻訳されています。
 
 
-『**攻殻機動隊 STAND ALONE COMPLEX**』は、[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")から2004年3月に発売された[PlayStation 2の](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")。ジャンルはアクション・シューティング・アドベンチャー。アニメ『[攻殻機動隊 STAND ALONE COMPLEX](https://ja.wikipedia.org/wiki/攻殻機動隊_STAND_ALONE_COMPLEX "wikilink")』シリーズをゲーム化。
+『**攻殻機動隊 STAND ALONE COMPLEX**』は、[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")から2004年3月に発売された[PlayStation 2の](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")。ジャンルはアクション・シューティング・アドベンチャー。アニメ『[攻殻機動隊 STAND ALONE COMPLEX](../Page/攻殻機動隊_STAND_ALONE_COMPLEX.md "wikilink")』シリーズをゲーム化。
 
 ## ストーリー
 
@@ -13,10 +13,10 @@
 
 ステージごとに素子・バトーそれぞれの担当が決まっており、交互にそれらのステージを攻略してストーリーを進めていく。他の公安9課のメンバーは会話でのみ登場。
 
-  - [草薙素子](https://ja.wikipedia.org/wiki/草薙素子 "wikilink")
+  - [草薙素子](../Page/草薙素子.md "wikilink")
     三角蹴りや鉄骨に掴まっての空中移動など、身軽な義体ならではの超人的アクションが可能。また、敵指揮官のゴースト錠を入手した場合、ゴーストハックによって一部の敵を操ることも可能。反面、ロケットランチャーなどの重火器は装備できない。
     彼女の担当ステージは高層ビルや排気孔など高低差のあるステージが多く、義体アクションを的確に使いこなしてクリアしていくスタイルとなっている。
-  - [バトー](https://ja.wikipedia.org/wiki/バトー "wikilink")
+  - [バトー](../Page/バトー.md "wikilink")
     見た目どおりのパワーのある義体を持ち、ロケットランチャーや携帯ミサイルランチャーなどの重火器を装備できる。また、素子と同様に、敵指揮官のゴースト錠を入手した場合、ゴーストハックによって一部の敵を操ることも可能。ただし三角蹴りなどのアクションは行えない。
     ガードロボットやアームスーツなど頑丈な敵が出るステージが多く、豊富な火器を駆使してそれらの敵を排除するスタイルのステージが多い。
   - [タチコマ](https://ja.wikipedia.org/wiki/多脚戦車#タチコマ "wikilink")
@@ -25,10 +25,10 @@
 ### 東北自治区に関連する人物
 
   - 田上トシミ
-    声 - [佐々木優子](https://ja.wikipedia.org/wiki/佐々木優子 "wikilink")
+    声 - [佐々木優子](../Page/佐々木優子.md "wikilink")
     2024年に東北自治区の区長として着任した女性自衛官。中年女性の義体と少女型の義体の2つを使い分けるなど、行動に謎の多い女性。
   - 梧桐エイチ
-    声 - [清川元夢](https://ja.wikipedia.org/wiki/清川元夢 "wikilink")
+    声 - [清川元夢](../Page/清川元夢.md "wikilink")
     MM工学に多大なる影響を及ぼした研究者。後にイギリスの大学の客員教授に任命され、そのイギリスへ赴く際の飛行機の事故で死去したことになっている。
   - 矢沢ケイ
     農林水産省所属の科学者だったが、大戦中に疎開を理由に東北自治区に身柄を移される。MM米の研究をする一方、彼が掲げる理想に共感する者も多く「東北自治区のカリスマ」として慕われていた。
@@ -39,9 +39,9 @@
 
 ## 音楽
 
-アニメ版を担当した[菅野よう子](../Page/菅野よう子.md "wikilink")氏ではなく、本作では『[リッジレーサーシリーズ](https://ja.wikipedia.org/wiki/リッジレーサーシリーズ "wikilink")』『[ドラッグオンドラグーン](https://ja.wikipedia.org/wiki/ドラッグオンドラグーン "wikilink")』等で知られる[佐野信義](https://ja.wikipedia.org/wiki/佐野信義 "wikilink")氏が全編オリジナルで作曲している。
+アニメ版を担当した[菅野よう子](../Page/菅野よう子.md "wikilink")氏ではなく、本作では『[リッジレーサーシリーズ](../Page/リッジレーサーシリーズ.md "wikilink")』『[ドラッグオンドラグーン](../Page/ドラッグオンドラグーン.md "wikilink")』等で知られる[佐野信義](https://ja.wikipedia.org/wiki/佐野信義 "wikilink")氏が全編オリジナルで作曲している。
 
-[ドラムンベース](https://ja.wikipedia.org/wiki/ドラムンベース "wikilink")を主体としながら作中に登場するオリジナル民謡も手掛けており、アニメ版とはまた違った攻殻の電脳世界を演出している。
+[ドラムンベース](../Page/ドラムンベース.md "wikilink")を主体としながら作中に登場するオリジナル民謡も手掛けており、アニメ版とはまた違った攻殻の電脳世界を演出している。
 
 余談だが、本作のサントラ『攻殻機動隊 STAND ALONE COMPLEX ～Music Archive Files～』に収録された本人によるREMIX『stacomps2.DnB Sanodg Mix』は非常に完成度が高い。
 

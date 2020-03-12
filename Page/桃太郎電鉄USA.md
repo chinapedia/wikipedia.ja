@@ -40,11 +40,11 @@ CMキャラクターには[陣内智則](../Page/陣内智則.md "wikilink")と[
   - 本作では、新イベントキャラクターとして「ビル・ゲッツ」「マッドサイエンティスト」が登場する。
   - 本作では、10年目から、10年ごとにマップ上の物件駅名を示す看板が英語のみの表記となり、その年はカード売り場駅のカードが無料になる事がある\[6\]。
   - 本作では、物件のジャンルに「娯楽」「チェーン」が登場する。代わりに旧作の「水産」は登場しない（水産関連の物件も「食品」に分類される）。
-      - 「チェーン」は、ゲームを新しくプレイするたびに[コーヒー](https://ja.wikipedia.org/wiki/コーヒー "wikilink")・[チキン](../Page/フライドチキン.md "wikilink")・[バーガー](../Page/ハンバーガー.md "wikilink")・[ピザ](../Page/ピザ.md "wikilink")の4種類の中からランダムで決定され、多く所有するほど収益率が上がる。『[7](https://ja.wikipedia.org/wiki/桃太郎電鉄7 "wikilink")』の「チェーン店カード」とは異なり、通常の物件として扱われる。
+      - 「チェーン」は、ゲームを新しくプレイするたびに[コーヒー](https://ja.wikipedia.org/wiki/コーヒー "wikilink")・[チキン](../Page/フライドチキン.md "wikilink")・[バーガー](../Page/ハンバーガー.md "wikilink")・[ピザ](../Page/ピザ.md "wikilink")の4種類の中からランダムで決定され、多く所有するほど収益率が上がる。『[7](../Page/桃太郎電鉄7.md "wikilink")』の「チェーン店カード」とは異なり、通常の物件として扱われる。
   - 本作では、「ワープ駅」が登場しない代わりに「ゼロ駅」が登場する。この駅に止まると、持ち金（借金も含む）が0ドルになる。
   - 本作では、月面・海底・[19世紀](../Page/19世紀.md "wikilink")のマップが登場する。
-      - 月面マップの「[月面基地](https://ja.wikipedia.org/wiki/月面基地 "wikilink")駅」と海底マップの「[海底財宝駅](https://ja.wikipedia.org/wiki/バミューダトライアングル "wikilink")」が目的地だった場合は、援助金が5倍になる。
-          - 月面マップへは、あるプレイ年数が経過した後、[オーランド](https://ja.wikipedia.org/wiki/オーランド "wikilink")の隣のプラス駅が「[ロケット発射駅](https://ja.wikipedia.org/wiki/ケネディ宇宙センター "wikilink")」に変化し、月面への移動が可能になる。
+      - 月面マップの「[月面基地](../Page/月面基地.md "wikilink")駅」と海底マップの「[海底財宝駅](../Page/バミューダトライアングル.md "wikilink")」が目的地だった場合は、援助金が5倍になる。
+          - 月面マップへは、あるプレイ年数が経過した後、[オーランド](../Page/オーランド.md "wikilink")の隣のプラス駅が「[ロケット発射駅](https://ja.wikipedia.org/wiki/ケネディ宇宙センター "wikilink")」に変化し、月面への移動が可能になる。
       - 19世紀のマップは、ここに目的地が出現した時のみプレイヤー全員が揃って行くことになる。貧乏神は現代に置き去りにされるため、登場しない。
           - このマップはニューヨークを起点に幌馬車で目的地サンフランシスコを目指すもので、東西を直接横断するルート以外はほとんど存在しない（航路・空路もない）。目的地に到着して物件を買った後は現代に戻り、19世紀マップで目的地から一番遠かったプレイヤーに再び貧乏神\[7\]がつく。
           - マスは目的地を除くと、プラス駅・マイナス駅・ナイスカード駅\[8\]・物件駅しか登場せず、現代に登場するイベントキャラクター（スリの銀次など）も出てこない。
@@ -70,39 +70,39 @@ CMキャラクターには[陣内智則](../Page/陣内智則.md "wikilink")と[
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - **[アカプルコ](https://ja.wikipedia.org/wiki/アカプルコ "wikilink")**
+  - **[アカプルコ](../Page/アカプルコ.md "wikilink")**
   - **[アトランタ](../Page/アトランタ.md "wikilink")**
-  - [アナハイム](https://ja.wikipedia.org/wiki/アナハイム "wikilink")
-  - [アルバカーキ](https://ja.wikipedia.org/wiki/アルバカーキ "wikilink")
-  - **[アンカレッジ](https://ja.wikipedia.org/wiki/アンカレッジ "wikilink")**
-  - **[イエローナイフ](https://ja.wikipedia.org/wiki/イエローナイフ "wikilink")**
-  - **[インディアナポリス](https://ja.wikipedia.org/wiki/インディアナポリス "wikilink")**★
-  - [ウィニペグ](https://ja.wikipedia.org/wiki/ウィニペグ "wikilink")
-  - [エドモントン](https://ja.wikipedia.org/wiki/エドモントン "wikilink")
-  - [エルパソ](https://ja.wikipedia.org/wiki/エルパソ_\(テキサス州\) "wikilink")
+  - [アナハイム](../Page/アナハイム.md "wikilink")
+  - [アルバカーキ](../Page/アルバカーキ.md "wikilink")
+  - **[アンカレッジ](../Page/アンカレッジ.md "wikilink")**
+  - **[イエローナイフ](../Page/イエローナイフ.md "wikilink")**
+  - **[インディアナポリス](../Page/インディアナポリス.md "wikilink")**★
+  - [ウィニペグ](../Page/ウィニペグ.md "wikilink")
+  - [エドモントン](../Page/エドモントン.md "wikilink")
+  - [エルパソ](../Page/エルパソ_\(テキサス州\).md "wikilink")
   - [オークランド](../Page/オークランド_\(カリフォルニア州\).md "wikilink")★
-  - [オーランド](https://ja.wikipedia.org/wiki/オーランド "wikilink")
-  - [オクラホマシティ](https://ja.wikipedia.org/wiki/オクラホマシティ "wikilink")
+  - [オーランド](../Page/オーランド.md "wikilink")
+  - [オクラホマシティ](../Page/オクラホマシティ.md "wikilink")
   - [オタワ](../Page/オタワ.md "wikilink")
-  - **[カルガリー](https://ja.wikipedia.org/wiki/カルガリー "wikilink")**
-  - [カンクン](https://ja.wikipedia.org/wiki/カンクン "wikilink")
+  - **[カルガリー](../Page/カルガリー.md "wikilink")**
+  - [カンクン](../Page/カンクン.md "wikilink")
   - **[カンザスシティ](../Page/カンザスシティ_\(ミズーリ州\).md "wikilink")**
   - [キューバ](../Page/キューバ.md "wikilink")
   - [グアイマス](https://ja.wikipedia.org/wiki/:en:Guaymas "wikilink")
-  - [グアダラハラ](https://ja.wikipedia.org/wiki/グアダラハラ_\(メキシコ\) "wikilink")
-  - [グアテマラシティ](https://ja.wikipedia.org/wiki/グアテマラシティ "wikilink")
-  - [クリーブランド](https://ja.wikipedia.org/wiki/クリーブランド_\(オハイオ州\) "wikilink")★
-  - [グリーンベイ](https://ja.wikipedia.org/wiki/グリーンベイ_\(ウィスコンシン州\) "wikilink")
-  - [ケベック](https://ja.wikipedia.org/wiki/ケベック・シティー "wikilink")
-  - **[月面基地](https://ja.wikipedia.org/wiki/月面基地 "wikilink")**
-  - **[コロラドスプリングス](https://ja.wikipedia.org/wiki/コロラドスプリングス "wikilink")**
-  - [コロンビア](https://ja.wikipedia.org/wiki/コロンビア_\(サウスカロライナ州\) "wikilink")
-  - [サクラメント](https://ja.wikipedia.org/wiki/サクラメント_\(カリフォルニア州\) "wikilink")★
-  - [サバナ](https://ja.wikipedia.org/wiki/サバンナ_\(ジョージア州\) "wikilink")
+  - [グアダラハラ](../Page/グアダラハラ_\(メキシコ\).md "wikilink")
+  - [グアテマラシティ](../Page/グアテマラシティ.md "wikilink")
+  - [クリーブランド](../Page/クリーブランド_\(オハイオ州\).md "wikilink")★
+  - [グリーンベイ](../Page/グリーンベイ_\(ウィスコンシン州\).md "wikilink")
+  - [ケベック](../Page/ケベック・シティー.md "wikilink")
+  - **[月面基地](../Page/月面基地.md "wikilink")**
+  - **[コロラドスプリングス](../Page/コロラドスプリングス.md "wikilink")**
+  - [コロンビア](../Page/コロンビア_\(サウスカロライナ州\).md "wikilink")
+  - [サクラメント](../Page/サクラメント_\(カリフォルニア州\).md "wikilink")★
+  - [サバナ](../Page/サバンナ_\(ジョージア州\).md "wikilink")
   - [サンアントニオ](https://ja.wikipedia.org/wiki/サンアントニオ "wikilink")
-  - [サンサルバドル](https://ja.wikipedia.org/wiki/サンサルバドル "wikilink")
-  - [サンダーベイ](https://ja.wikipedia.org/wiki/サンダーベイ_\(オンタリオ州\) "wikilink")
-  - **[サンタモニカ](https://ja.wikipedia.org/wiki/サンタモニカ "wikilink")**
+  - [サンサルバドル](../Page/サンサルバドル.md "wikilink")
+  - [サンダーベイ](../Page/サンダーベイ_\(オンタリオ州\).md "wikilink")
+  - **[サンタモニカ](../Page/サンタモニカ.md "wikilink")**
 
 </div>
 
@@ -110,28 +110,28 @@ CMキャラクターには[陣内智則](../Page/陣内智則.md "wikilink")と[
 
   - **[サンディエゴ](../Page/サンディエゴ.md "wikilink")**
   - **[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")**★
-  - [サンホセ](https://ja.wikipedia.org/wiki/サンホセ_\(コスタリカ\) "wikilink")
+  - [サンホセ](../Page/サンホセ_\(コスタリカ\).md "wikilink")
   - **[シアトル](../Page/シアトル.md "wikilink")**
-  - [シウダーファレス](https://ja.wikipedia.org/wiki/シウダー・フアレス "wikilink")
+  - [シウダーファレス](../Page/シウダー・フアレス.md "wikilink")
   - **[シカゴ](../Page/シカゴ.md "wikilink")**★
-  - [ジャクソン](https://ja.wikipedia.org/wiki/ジャクソン_\(ミシシッピ州\) "wikilink")
+  - [ジャクソン](../Page/ジャクソン_\(ミシシッピ州\).md "wikilink")
   - [ジャクソンビル](https://ja.wikipedia.org/wiki/ジャクソンビル_\(フロリダ州\) "wikilink")
   - **[ジャマイカ](../Page/ジャマイカ.md "wikilink")**
-  - [シャーロット](https://ja.wikipedia.org/wiki/シャーロット_\(ノースカロライナ州\) "wikilink")
+  - [シャーロット](../Page/シャーロット_\(ノースカロライナ州\).md "wikilink")
   - [シンシナティ](../Page/シンシナティ.md "wikilink")★
-  - [スポケーン](https://ja.wikipedia.org/wiki/スポケーン "wikilink")
+  - [スポケーン](../Page/スポケーン.md "wikilink")
   - [スワード](https://ja.wikipedia.org/wiki/スワード_\(アラスカ州\) "wikilink")
-  - [セーラム](https://ja.wikipedia.org/wiki/セイラム_\(オレゴン州\) "wikilink")
-  - [セントポール](https://ja.wikipedia.org/wiki/セントポール_\(ミネソタ州\) "wikilink")
-  - [セントルイス](https://ja.wikipedia.org/wiki/セントルイス "wikilink")
+  - [セーラム](../Page/セイラム_\(オレゴン州\).md "wikilink")
+  - [セントポール](../Page/セントポール_\(ミネソタ州\).md "wikilink")
+  - [セントルイス](../Page/セントルイス.md "wikilink")
   - **[ソルトレイクシティ](../Page/ソルトレイクシティ.md "wikilink")**★
   - **[ダラス](../Page/ダラス.md "wikilink")**
   - [ダルース](../Page/ダルース_\(ミネソタ州\).md "wikilink")
   - [タンパ](../Page/タンパ.md "wikilink")
-  - [チワワ](https://ja.wikipedia.org/wiki/チワワ_\(チワワ州\) "wikilink")
-  - [ティコベース](https://ja.wikipedia.org/wiki/ティコ_\(クレーター\) "wikilink")
-  - [ティファナ](https://ja.wikipedia.org/wiki/ティフアナ "wikilink")
-  - [テグシガルパ](https://ja.wikipedia.org/wiki/テグシガルパ "wikilink")
+  - [チワワ](../Page/チワワ_\(チワワ州\).md "wikilink")
+  - [ティコベース](../Page/ティコ_\(クレーター\).md "wikilink")
+  - [ティファナ](../Page/ティフアナ.md "wikilink")
+  - [テグシガルパ](../Page/テグシガルパ.md "wikilink")
   - **[デトロイト](../Page/デトロイト.md "wikilink")**★
   - [デモイン](https://ja.wikipedia.org/wiki/デモイン_\(アイオワ州\) "wikilink")★
   - **[デンバー](../Page/デンバー.md "wikilink")**
@@ -139,72 +139,72 @@ CMキャラクターには[陣内智則](../Page/陣内智則.md "wikilink")と[
   - **[トロント](../Page/トロント.md "wikilink")**
   - **[ナッシュビル](https://ja.wikipedia.org/wiki/ナッシュビル "wikilink")**
   - **[ニューオーリンズ](../Page/ニューオーリンズ.md "wikilink")**
-  - **[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")**★
+  - **[ニューヨーク](../Page/ニューヨーク.md "wikilink")**★
   - [ハイチ](https://ja.wikipedia.org/wiki/ハイチ "wikilink")
 
 </div>
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [バッファロー](https://ja.wikipedia.org/wiki/バッファロー_\(ニューヨーク州\) "wikilink")
+  - [バッファロー](../Page/バッファロー_\(ニューヨーク州\).md "wikilink")
   - **[パナマ](https://ja.wikipedia.org/wiki/パナマシティ "wikilink")**
   - **[ハリウッド](../Page/ハリウッド.md "wikilink")**
   - **[バンクーバー](../Page/バンクーバー_\(ブリティッシュコロンビア州\).md "wikilink")**
   - [ピッツバーグ](https://ja.wikipedia.org/wiki/ピッツバーグ "wikilink")★
-  - [ビバリーヒルズ](https://ja.wikipedia.org/wiki/ビバリーヒルズ "wikilink")
+  - [ビバリーヒルズ](../Page/ビバリーヒルズ.md "wikilink")
   - **[ヒューストン](../Page/ヒューストン.md "wikilink")**
-  - [ファーゴ](https://ja.wikipedia.org/wiki/ファーゴ_\(ノースダコタ州\) "wikilink")
+  - [ファーゴ](../Page/ファーゴ_\(ノースダコタ州\).md "wikilink")
   - **[フィラデルフィア](../Page/フィラデルフィア.md "wikilink")**★
-  - [フェアバンクス](https://ja.wikipedia.org/wiki/フェアバンクス "wikilink")
-  - **[フェニックス](https://ja.wikipedia.org/wiki/フェニックス_\(アリゾナ州\) "wikilink")**
+  - [フェアバンクス](../Page/フェアバンクス.md "wikilink")
+  - **[フェニックス](../Page/フェニックス_\(アリゾナ州\).md "wikilink")**
   - **[プエルトリコ](../Page/プエルトリコ.md "wikilink")**
   - [プリンスジョージ](https://ja.wikipedia.org/wiki/:en:Prince_George,_British_Columbia "wikilink")
-  - [ボイジー](https://ja.wikipedia.org/wiki/ボイシ "wikilink")
+  - [ボイジー](../Page/ボイシ.md "wikilink")
   - **[ボストン](../Page/ボストン.md "wikilink")**
-  - [ポートランド](https://ja.wikipedia.org/wiki/ポートランド_\(オレゴン州\) "wikilink")
+  - [ポートランド](../Page/ポートランド_\(オレゴン州\).md "wikilink")
   - **[ホノルル](../Page/ホノルル.md "wikilink")**
-  - [ボルティモア](https://ja.wikipedia.org/wiki/ボルチモア "wikilink")
+  - [ボルティモア](../Page/ボルチモア.md "wikilink")
   - **[マイアミ](../Page/マイアミ.md "wikilink")**
-  - [マサトラン](https://ja.wikipedia.org/wiki/マサトラン "wikilink")
-  - [ミネアポリス](https://ja.wikipedia.org/wiki/ミネアポリス "wikilink")
-  - [ミルウォーキー](https://ja.wikipedia.org/wiki/ミルウォーキー "wikilink")
+  - [マサトラン](../Page/マサトラン.md "wikilink")
+  - [ミネアポリス](../Page/ミネアポリス.md "wikilink")
+  - [ミルウォーキー](../Page/ミルウォーキー.md "wikilink")
   - **[メキシコシティ](../Page/メキシコシティ.md "wikilink")**
-  - [メンフィス](https://ja.wikipedia.org/wiki/メンフィス_\(テネシー州\) "wikilink")
-  - [モンテレイ](https://ja.wikipedia.org/wiki/モンテレイ_\(メキシコ\) "wikilink")
-  - [モントゴメリ](https://ja.wikipedia.org/wiki/モンゴメリー_\(アラバマ州\) "wikilink")
+  - [メンフィス](../Page/メンフィス_\(テネシー州\).md "wikilink")
+  - [モンテレイ](../Page/モンテレイ_\(メキシコ\).md "wikilink")
+  - [モントゴメリ](../Page/モンゴメリー_\(アラバマ州\).md "wikilink")
   - **[モントリオール](../Page/モントリオール.md "wikilink")**
   - **[ラスベガス](../Page/ラスベガス.md "wikilink")**
-  - [リッチモンド](https://ja.wikipedia.org/wiki/リッチモンド_\(バージニア州\) "wikilink")
-  - [ルイビル](https://ja.wikipedia.org/wiki/ルイビル "wikilink")
+  - [リッチモンド](../Page/リッチモンド_\(バージニア州\).md "wikilink")
+  - [ルイビル](../Page/ルイビル.md "wikilink")
   - **[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")**
-  - [ローリー](https://ja.wikipedia.org/wiki/ローリー_\(ノースカロライナ州\) "wikilink")
+  - [ローリー](../Page/ローリー_\(ノースカロライナ州\).md "wikilink")
   - **[ワシントン](../Page/ワシントンD.C..md "wikilink")**
 
 </div>
 
 ### カード売場（22駅）
 
-  - [モービル](https://ja.wikipedia.org/wiki/モービル_\(アラバマ州\) "wikilink")
-  - [タルサ](https://ja.wikipedia.org/wiki/タルサ_\(オクラホマ州\) "wikilink")
+  - [モービル](../Page/モービル_\(アラバマ州\).md "wikilink")
+  - [タルサ](../Page/タルサ_\(オクラホマ州\).md "wikilink")
   - [ソーレル](https://ja.wikipedia.org/wiki/:en:Sorel-Tracy,_Quebec "wikilink")
   - [ウィチタ](../Page/ウィチタ.md "wikilink")
   - [メヒカリ](https://ja.wikipedia.org/wiki/メヒカリ_\(バハ・カリフォルニア州\) "wikilink")
   - [タラハシー](https://ja.wikipedia.org/wiki/タラハシー_\(フロリダ州\) "wikilink")
   - [ディキンソン](https://ja.wikipedia.org/wiki/:en:Dickinson,_North_Dakota "wikilink")
-  - [セントジョン](https://ja.wikipedia.org/wiki/セントジョン_\(ニューブランズウィック州\) "wikilink")
-  - [トピカ](https://ja.wikipedia.org/wiki/トピカ_\(カンザス州\) "wikilink")
-  - [コロンバス](https://ja.wikipedia.org/wiki/コロンバス_\(オハイオ州\) "wikilink")
+  - [セントジョン](../Page/セントジョン_\(ニューブランズウィック州\).md "wikilink")
+  - [トピカ](../Page/トピカ_\(カンザス州\).md "wikilink")
+  - [コロンバス](../Page/コロンバス_\(オハイオ州\).md "wikilink")
   - [ユマ](https://ja.wikipedia.org/wiki/ユマ_\(アリゾナ州\) "wikilink")
   - [パインポイント](https://ja.wikipedia.org/wiki/:en:Pine_Point,_Northwest_Territories "wikilink")
-  - [シャイアン](https://ja.wikipedia.org/wiki/シャイアン_\(ワイオミング州\) "wikilink")
+  - [シャイアン](../Page/シャイアン_\(ワイオミング州\).md "wikilink")
   - [コーンウォール](https://ja.wikipedia.org/wiki/:en:Cornwall,_Ontario "wikilink")
-  - [タコマ](https://ja.wikipedia.org/wiki/タコマ_\(ワシントン州\) "wikilink")
+  - [タコマ](../Page/タコマ_\(ワシントン州\).md "wikilink")
   - [ワシーラ](https://ja.wikipedia.org/wiki/ワシラ_\(アラスカ州\) "wikilink")
   - [センター](https://ja.wikipedia.org/wiki/:en:Center,_North_Dakota "wikilink")
-  - [ベラクルズ](https://ja.wikipedia.org/wiki/ベラクルス "wikilink")
-  - [モレリア](https://ja.wikipedia.org/wiki/モレリア "wikilink")
+  - [ベラクルズ](../Page/ベラクルス.md "wikilink")
+  - [モレリア](../Page/モレリア.md "wikilink")
   - [ハリファクス](https://ja.wikipedia.org/wiki/ハリファックス "wikilink")
-  - [メリダ](https://ja.wikipedia.org/wiki/メリダ_\(ユカタン州\) "wikilink")
+  - [メリダ](../Page/メリダ_\(ユカタン州\).md "wikilink")
   - [グレンダイブ](https://ja.wikipedia.org/wiki/:en:Glendive,_Montana "wikilink")
 
 ## 脚注
@@ -229,7 +229,7 @@ CMキャラクターには[陣内智則](../Page/陣内智則.md "wikilink")と[
 [Category:2004年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2004年のコンピュータゲーム "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:アメリカ合衆国を舞台としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国を舞台としたコンピュータゲーム "wikilink") [Category:桃太郎電鉄シリーズ](https://ja.wikipedia.org/wiki/Category:桃太郎電鉄シリーズ "wikilink")
 
 1.  持ち金は「桃鉄USA」モードが100万ドル（=1000万円）、「桃鉄公式戦」モードは1000万ドル（=1億円）からスタート。
-2.  『[HAPPY](https://ja.wikipedia.org/wiki/桃太郎電鉄HAPPY "wikilink")』の99年プレイ後のエンディングより。
+2.  『[HAPPY](../Page/桃太郎電鉄HAPPY.md "wikilink")』の99年プレイ後のエンディングより。
 3.  [月刊デジタルさくまにあ桃鉄研究所再開第25回目！](http://sakumania.com/momo/momoken-5/07.17.html)より。
 4.
 5.  この組み合わせは『15』まで同じ。

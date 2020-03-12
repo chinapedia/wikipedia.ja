@@ -1,29 +1,29 @@
 > この記事は[The 5.6.7.8\'s](https://ja.wikipedia.org/wiki/The_5.6.7.8\'s)から翻訳されています。
 
 
-**The 5.6.7.8's**（ザ・ファイブ・シックス・セブン・エイツ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ガールズバンド](https://ja.wikipedia.org/wiki/ガールズバンド "wikilink")。通称はゴロッパチ\[1\]。
+**The 5.6.7.8's**（ザ・ファイブ・シックス・セブン・エイツ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ガールズバンド](../Page/ガールズバンド.md "wikilink")。通称はゴロッパチ\[1\]。
 
 ## 概要
 
-1986年に[東京](https://ja.wikipedia.org/wiki/東京 "wikilink")で結成。現在はYoshiko Fujiyama (ギター&リードボーカル)、Sachiko (ドラム)、Chellio Panther Omo (ベース)の女性3人組で活動\[2\]。元々は[イカ天出身バンドで](https://ja.wikipedia.org/wiki/三宅裕司のいかすバンド天国 "wikilink")、当初から海外を視野に入れた活動を行なっていたが、[アメリカ映画](https://ja.wikipedia.org/wiki/アメリカ合衆国の映画 "wikilink")『[キル・ビル Vol.1](https://ja.wikipedia.org/wiki/キル・ビル#キル・ビル_Vol.1 "wikilink")』に出演したことにより、国際的な人気を不動のものにした\[3\]\[4\]。
+1986年に[東京](../Page/東京.md "wikilink")で結成。現在はYoshiko Fujiyama (ギター&リードボーカル)、Sachiko (ドラム)、Chellio Panther Omo (ベース)の女性3人組で活動\[2\]。元々は[イカ天出身バンドで](../Page/三宅裕司のいかすバンド天国.md "wikilink")、当初から海外を視野に入れた活動を行なっていたが、[アメリカ映画](../Page/アメリカ合衆国の映画.md "wikilink")『[キル・ビル Vol.1](https://ja.wikipedia.org/wiki/キル・ビル#キル・ビル_Vol.1 "wikilink")』に出演したことにより、国際的な人気を不動のものにした\[3\]\[4\]。
 
-[1950年代](../Page/1950年代.md "wikilink")、[1960年代](../Page/1960年代.md "wikilink")、[1970年代](../Page/1970年代.md "wikilink")、および[1980年代](../Page/1980年代.md "wikilink")のロックを演奏するというのがコンセプトで、そこからこのようなバンド名となった\[5\]。[アメリカのサーフミュージックと](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ガレージロック](https://ja.wikipedia.org/wiki/ガレージロック "wikilink")を思わせる音楽性を持ち、アメリカのロックの曲のカバーも行う。
+[1950年代](../Page/1950年代.md "wikilink")、[1960年代](../Page/1960年代.md "wikilink")、[1970年代](../Page/1970年代.md "wikilink")、および[1980年代](../Page/1980年代.md "wikilink")のロックを演奏するというのがコンセプトで、そこからこのようなバンド名となった\[5\]。[アメリカのサーフミュージックと](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ガレージロック](../Page/ガレージロック.md "wikilink")を思わせる音楽性を持ち、アメリカのロックの曲のカバーも行う。
 
 ### 海外での活動
 
 元[ホワイト・ストライプス](https://ja.wikipedia.org/wiki/ホワイト・ストライプス "wikilink")の[ジャック・ホワイト](https://ja.wikipedia.org/wiki/ジャック・ホワイト "wikilink")とは彼がバンドでブレイクする前から親交が深く、対バンはもちろん、ジャックが彼女たちの楽曲をカバーするほどの間柄\[6\]。のちにジャック主催レーベルのサードマン・レコードより、過去作のリイシューと7インチシングルをリリースした\[7\]\[8\]。
 
-また[2003年](../Page/2003年.md "wikilink")公開\[9\]の[クエンティン・タランティーノ](../Page/クエンティン・タランティーノ.md "wikilink")監督の映画『キル・ビル Vol.1』において、大立ち回りの舞台となる[居酒屋](https://ja.wikipedia.org/wiki/居酒屋 "wikilink")で演奏するバンド役として出演したことで国際的な人気を獲得した\[10\]\[11\]。
+また[2003年](../Page/2003年.md "wikilink")公開\[9\]の[クエンティン・タランティーノ](../Page/クエンティン・タランティーノ.md "wikilink")監督の映画『キル・ビル Vol.1』において、大立ち回りの舞台となる[居酒屋](../Page/居酒屋.md "wikilink")で演奏するバンド役として出演したことで国際的な人気を獲得した\[10\]\[11\]。
 
 2004年からは世界各地を巡るワールドツアーを開始\[12\]。
 
 ## 略歴
 
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")結成。当初はRONNIE“YOSHIKO”FUJIYAMA（[ボーカル](https://ja.wikipedia.org/wiki/ボーカリスト "wikilink")、[ギター](../Page/ギタリスト.md "wikilink")）、SACHIKO（[ドラム](https://ja.wikipedia.org/wiki/ドラマー "wikilink")）、RICO（ギター）、YOSHIE（[ベース](../Page/ベーシスト.md "wikilink")）の女性4人組バンドとして東京で活動を開始。初ライヴは[渋谷](../Page/渋谷.md "wikilink")の「屋根裏」という[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")だった。
+  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")結成。当初はRONNIE“YOSHIKO”FUJIYAMA（[ボーカル](https://ja.wikipedia.org/wiki/ボーカリスト "wikilink")、[ギター](../Page/ギタリスト.md "wikilink")）、SACHIKO（[ドラム](../Page/ドラマー.md "wikilink")）、RICO（ギター）、YOSHIE（[ベース](../Page/ベーシスト.md "wikilink")）の女性4人組バンドとして東京で活動を開始。初ライヴは[渋谷](../Page/渋谷.md "wikilink")の「屋根裏」という[ライブハウス](../Page/ライブハウス.md "wikilink")だった。
   - [1988年](../Page/1988年.md "wikilink")、ベーシストがYOSHIEからMIKAKOに交替。
-  - [1989年](../Page/1989年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink")、[TBSテレビ](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")の番組『[三宅裕司のいかすバンド天国](https://ja.wikipedia.org/wiki/三宅裕司のいかすバンド天国 "wikilink")』に出場（エントリーナンバー2番）、演奏収録時に[アメリカンバイク](https://ja.wikipedia.org/wiki/アメリカンバイク "wikilink")に乗って登場した。『モーターサイクル・ゴーゴーゴー』を演奏、**ベストプレイヤー賞**を受賞。同年、ファーストシングル「MOND GIRLS A GO-GO」を発売（同シングルには「モーターサイクル・ゴーゴーゴー」も収録）。このシングルが海外各地で評判となり、その後多くの国からオファーが舞い込み、世界的な活動をするきっかけとなる。
+  - [1989年](../Page/1989年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink")、[TBSテレビ](../Page/TBSテレビ.md "wikilink")の番組『[三宅裕司のいかすバンド天国](../Page/三宅裕司のいかすバンド天国.md "wikilink")』に出場（エントリーナンバー2番）、演奏収録時に[アメリカンバイク](https://ja.wikipedia.org/wiki/アメリカンバイク "wikilink")に乗って登場した。『モーターサイクル・ゴーゴーゴー』を演奏、**ベストプレイヤー賞**を受賞。同年、ファーストシングル「MOND GIRLS A GO-GO」を発売（同シングルには「モーターサイクル・ゴーゴーゴー」も収録）。このシングルが海外各地で評判となり、その後多くの国からオファーが舞い込み、世界的な活動をするきっかけとなる。
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")、ベーシストが現メンバーでもあるOMO、ギタリストが唯一の男性メンバーであるEDDIEに交替。
-  - [1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")、[オーストラリア](https://ja.wikipedia.org/wiki/オーストラリア "wikilink")で初の海外[コンサートツアー](https://ja.wikipedia.org/wiki/コンサートツアー "wikilink")を開始。この時にEDDIEが抜け、3人組バンドになる。
+  - [1992年](../Page/1992年.md "wikilink")、[オーストラリア](../Page/オーストラリア.md "wikilink")で初の海外[コンサートツアー](https://ja.wikipedia.org/wiki/コンサートツアー "wikilink")を開始。この時にEDDIEが抜け、3人組バンドになる。
   - [1994年](../Page/1994年.md "wikilink")、初のアメリカツアーを行う。
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、ギタリストとしてAYAが加入（後に脱退）。
   - [1996年](../Page/1996年.md "wikilink")、結成10周年記念として初のワンマンライヴを実施。ベーシストがOMOからYAMAに交替。
@@ -43,7 +43,7 @@
 
 <!-- end list -->
 
-  - **SACHIKO**（[ドラム](https://ja.wikipedia.org/wiki/ドラマー "wikilink")）
+  - **SACHIKO**（[ドラム](../Page/ドラマー.md "wikilink")）
 
 <!-- end list -->
 
@@ -218,7 +218,7 @@
 
 ## 関連項目
 
-  - [三宅裕司のいかすバンド天国](https://ja.wikipedia.org/wiki/三宅裕司のいかすバンド天国 "wikilink")
+  - [三宅裕司のいかすバンド天国](../Page/三宅裕司のいかすバンド天国.md "wikilink")
   - [三宅裕司のいかすバンド天国に出場したバンド](../Page/三宅裕司のいかすバンド天国に出場したバンド.md "wikilink")
 
 ## 脚注
@@ -242,6 +242,6 @@
 7.  日本人なら誰でも一度は耳にしたことのある童謡「証城寺の狸囃子」をカバーしている。
 8.
 9.  アメリカ公開は同年[10月10日](../Page/10月10日.md "wikilink")、日本公開は[10月25日](../Page/10月25日.md "wikilink")。
-10. 劇中で演奏した楽曲のうち、「Woo Hoo」（The Rock\*A\*Teensの[ロカビリー](https://ja.wikipedia.org/wiki/ロカビリー "wikilink")[カバー](../Page/カバー.md "wikilink")曲）は[2004年](../Page/2004年.md "wikilink")に[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")のシングル・チャートで28位を記録している。
+10. 劇中で演奏した楽曲のうち、「Woo Hoo」（The Rock\*A\*Teensの[ロカビリー](../Page/ロカビリー.md "wikilink")[カバー](../Page/カバー.md "wikilink")曲）は[2004年](../Page/2004年.md "wikilink")に[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")のシングル・チャートで28位を記録している。
 11. 出演のきっかけはタランティーノが来日した際、買い物をしていた東京の古着屋で店員がかけていたThe 5.6.7.8'sを気に入ったこと。その場で店員の私物の[CDを買い取り](../Page/コンパクトディスク.md "wikilink")、その後、バンドの生演奏も見て出演させることを決めたという。
 12.

@@ -3,12 +3,12 @@
 
 『**GO ON AS YOU ARE**』（ゴー・オン・アズ・ユー・アー）は[MONGOL800](../Page/MONGOL800.md "wikilink")のインディーズデビュー後1枚目の[アルバム](../Page/アルバム.md "wikilink")である。[2000年](../Page/2000年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")にリリース。
 
-発売元は[ハイ・ウェーブ](https://ja.wikipedia.org/wiki/ハイ・ウェーブ "wikilink")内の[レーベル](../Page/レコードレーベル.md "wikilink")、[TISSUE FREAK RECORDS](https://ja.wikipedia.org/wiki/TISSUE_FREAK_RECORDS "wikilink")。
+発売元は[ハイ・ウェーブ](../Page/ハイ・ウェーブ.md "wikilink")内の[レーベル](../Page/レコードレーベル.md "wikilink")、[TISSUE FREAK RECORDS](https://ja.wikipedia.org/wiki/TISSUE_FREAK_RECORDS "wikilink")。
 
 ## 内容
 
   - 初回盤はブックレットの写真の違いや、ISLANDの「Stay With Me」のカヴァーがボーナストラックで収められている。
-  - 2枚目のアルバム『[MESSAGE](https://ja.wikipedia.org/wiki/MESSAGE_\(MONGOL800のアルバム\) "wikilink")』のヒットで全国的には全く売れていなかった今作もオリコンチャートで上位を記録している。
+  - 2枚目のアルバム『[MESSAGE](../Page/MESSAGE_\(MONGOL800のアルバム\).md "wikilink")』のヒットで全国的には全く売れていなかった今作もオリコンチャートで上位を記録している。
   - 収録曲11曲中9曲が英語詞である。
 
 ## 収録曲

@@ -1,11 +1,11 @@
 > この記事は[HAYABUSA](https://ja.wikipedia.org/wiki/HAYABUSA)から翻訳されています。
 
 
-**HAYABUSA**（ハヤブサ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ポップス](../Page/ポピュラー音楽.md "wikilink")[デュオ](https://ja.wikipedia.org/wiki/デュオ "wikilink")である。2006年[フォーライフミュージックエンタテイメント](https://ja.wikipedia.org/wiki/フォーライフミュージックエンタテイメント "wikilink")よりメジャーデビュー。
+**HAYABUSA**（ハヤブサ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ポップス](../Page/ポピュラー音楽.md "wikilink")[デュオ](../Page/デュオ.md "wikilink")である。2006年[フォーライフミュージックエンタテイメント](../Page/フォーライフミュージックエンタテイメント.md "wikilink")よりメジャーデビュー。
 
 ## メンバー
 
-  - **佐潟武**（さがたたけし、[1982年](../Page/1982年.md "wikilink")[10月10日](../Page/10月10日.md "wikilink") - ）ボーカル。[鹿児島県](https://ja.wikipedia.org/wiki/鹿児島県 "wikilink")出身
+  - **佐潟武**（さがたたけし、[1982年](../Page/1982年.md "wikilink")[10月10日](../Page/10月10日.md "wikilink") - ）ボーカル。[鹿児島県](../Page/鹿児島県.md "wikilink")出身
   - **坂室賢一**（さかむろけんいち、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[2月22日](../Page/2月22日.md "wikilink")）作曲・アレンジ・コーラス・ギター・ピアノ。[石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")出身
 
 ## ディスコグラフィー
@@ -35,16 +35,16 @@
 
 ## タイアップ
 
-  - 「Miracle」･･･[日本テレビ系](https://ja.wikipedia.org/wiki/日本テレビ系 "wikilink")「[音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")｣2006年5月度エンディングテーマ／日本テレビ「[1/3娘](https://ja.wikipedia.org/wiki/1/3娘 "wikilink")」2006年5月期エンディングテーマ
-  - 「迷いながら」･･･日本テレビ｢1/3娘｣5月期エンディングテーマ／日本テレビ「[汐留イベント部](https://ja.wikipedia.org/wiki/汐留イベント部 "wikilink")」7月度エンディングテーマ
+  - 「Miracle」･･･[日本テレビ系](https://ja.wikipedia.org/wiki/日本テレビ系 "wikilink")「[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")｣2006年5月度エンディングテーマ／日本テレビ「[1/3娘](https://ja.wikipedia.org/wiki/1/3娘 "wikilink")」2006年5月期エンディングテーマ
+  - 「迷いながら」･･･日本テレビ｢1/3娘｣5月期エンディングテーマ／日本テレビ「[汐留イベント部](../Page/汐留イベント部.md "wikilink")」7月度エンディングテーマ
   - 「Miracle～piano version～」･･･映画「[青いうた～のど自慢 青春編～](https://ja.wikipedia.org/wiki/青いうた～のど自慢_青春編～ "wikilink")」エンディングテーマ
   - 「僕たちの時間」･･･「[エスコートカード](https://ja.wikipedia.org/wiki/エスコートカード "wikilink")」CMソング
 
 ## 関連項目
 
-  - [馬場俊英](https://ja.wikipedia.org/wiki/馬場俊英 "wikilink")
-  - [松本英子](https://ja.wikipedia.org/wiki/松本英子_\(歌手\) "wikilink")
-  - [押田誠](https://ja.wikipedia.org/wiki/押田誠 "wikilink")
+  - [馬場俊英](../Page/馬場俊英.md "wikilink")
+  - [松本英子](../Page/松本英子_\(歌手\).md "wikilink")
+  - [押田誠](../Page/押田誠.md "wikilink")
 
 ## 外部リンク
 

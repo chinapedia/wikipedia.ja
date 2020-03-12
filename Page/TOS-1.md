@@ -1,11 +1,11 @@
 > この記事は[TOS-1](https://ja.wikipedia.org/wiki/TOS-1)から翻訳されています。
 
 
-**TOS-1「ブラチーノ」**（、重火力投射システム）は、[サーモバリック爆薬](../Page/サーモバリック爆薬.md "wikilink")弾頭[ロケット弾](https://ja.wikipedia.org/wiki/ロケット弾 "wikilink")を運用するために、[T-72](https://ja.wikipedia.org/wiki/T-72 "wikilink")[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")の車体に220mmロケット弾発射器を装着した[多連装ロケットランチャー](https://ja.wikipedia.org/wiki/多連装ロケットランチャー "wikilink")である。
+**TOS-1「ブラチーノ」**（、重火力投射システム）は、[サーモバリック爆薬](../Page/サーモバリック爆薬.md "wikilink")弾頭[ロケット弾](../Page/ロケット弾.md "wikilink")を運用するために、[T-72](../Page/T-72.md "wikilink")[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")の車体に220mmロケット弾発射器を装着した[多連装ロケットランチャー](https://ja.wikipedia.org/wiki/多連装ロケットランチャー "wikilink")である。
 
 ## 概要
 
-オリジナルのTOS-1は、搭載している30発の220mmサーモバリック弾頭ロケット弾を15秒で撃ち尽すだけの連射性能を持っており、射程距離は最小で500m、最大でも3,500mと比較的近距離である。[ソ連崩壊](https://ja.wikipedia.org/wiki/ソ連崩壊 "wikilink")後の[ロシア連邦軍](https://ja.wikipedia.org/wiki/ロシア連邦軍 "wikilink")でも、[チェチェン紛争](https://ja.wikipedia.org/wiki/チェチェン紛争 "wikilink")でも使用されている。TOS-1では破砕弾頭などの、そのほかの各種弾頭のロケット弾は使用されない。このため現在唯一の火炎放射戦車と扱われることがある。
+オリジナルのTOS-1は、搭載している30発の220mmサーモバリック弾頭ロケット弾を15秒で撃ち尽すだけの連射性能を持っており、射程距離は最小で500m、最大でも3,500mと比較的近距離である。[ソ連崩壊](../Page/ソ連崩壊.md "wikilink")後の[ロシア連邦軍](../Page/ロシア連邦軍.md "wikilink")でも、[チェチェン紛争](https://ja.wikipedia.org/wiki/チェチェン紛争 "wikilink")でも使用されている。TOS-1では破砕弾頭などの、そのほかの各種弾頭のロケット弾は使用されない。このため現在唯一の火炎放射戦車と扱われることがある。
 
 TOS-1は、軽量級の防御が施された車輌・輸送車や、防御物の内部、または開けた地形にいる兵員を撃破するために設計されている。最初の実戦テストは1988年から1989年に行われ、場所はアフガン紛争中のPanjshir峡谷である。TOS-1が最初に一般公開されたのは1999年のオムスクにおいてであった。
 
@@ -40,9 +40,9 @@ TOS-1Aの「Solntsepyok」システムは以下の部品から構成される\[3
 
 TOS-1は[アフガニスタン侵攻におけるパンジシール](../Page/アフガニスタン紛争_\(1978年-1989年\).md "wikilink")（）渓谷での戦闘で初めて使用された。ロシア連邦になってからは、[1999年](../Page/1999年.md "wikilink")のに投入されている。
 
-TOS-1Aは[2014年](../Page/2014年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink")、[ISIL](https://ja.wikipedia.org/wiki/ISIL "wikilink")からのイラク・[バービル県](https://ja.wikipedia.org/wiki/バービル県 "wikilink")[Jurf Al Nasr解放戦にて初陣を飾った](https://ja.wikipedia.org/wiki/:en:Jurf_Al_Nasr "wikilink")\[6\]。
+TOS-1Aは[2014年](../Page/2014年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink")、[ISIL](https://ja.wikipedia.org/wiki/ISIL "wikilink")からのイラク・[バービル県](../Page/バービル県.md "wikilink")[Jurf Al Nasr解放戦にて初陣を飾った](https://ja.wikipedia.org/wiki/:en:Jurf_Al_Nasr "wikilink")\[6\]。
 
-[2015年](../Page/2015年.md "wikilink")9月、[欧州安全保障協力機構](https://ja.wikipedia.org/wiki/欧州安全保障協力機構 "wikilink")（）はウクライナ東部の反政府軍訓練地域にTOS-1が配置されていることを報告した\[7\]。
+[2015年](../Page/2015年.md "wikilink")9月、[欧州安全保障協力機構](../Page/欧州安全保障協力機構.md "wikilink")（）はウクライナ東部の反政府軍訓練地域にTOS-1が配置されていることを報告した\[7\]。
 
 [2016年](../Page/2016年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")、[アゼルバイジャン陸軍](https://ja.wikipedia.org/wiki/アゼルバイジャン陸軍 "wikilink")はTOS-1Aを[ナゴルノ・カラバフ国防軍](https://ja.wikipedia.org/wiki/ナゴルノ・カラバフ国防軍 "wikilink")に対して投入した\[8\]。
 
@@ -68,9 +68,9 @@ TOS-1Aは[2014年](../Page/2014年.md "wikilink")[10月24日](../Page/10月24日
 
 ## 関連項目
 
-  - [ロケット砲](https://ja.wikipedia.org/wiki/ロケット砲 "wikilink")
+  - [ロケット砲](../Page/ロケット砲.md "wikilink")
   - [多連装ロケット砲](https://ja.wikipedia.org/wiki/多連装ロケット砲 "wikilink")
-      - [T-72](https://ja.wikipedia.org/wiki/T-72 "wikilink")
+      - [T-72](../Page/T-72.md "wikilink")
 
 ## 外部リンク
 

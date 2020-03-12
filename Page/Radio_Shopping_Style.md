@@ -5,7 +5,7 @@
 
 ## 概要
 
-[ミュージックバード](https://ja.wikipedia.org/wiki/ミュージックバード "wikilink")としては初の[ラジオショッピング](https://ja.wikipedia.org/wiki/ラジオショッピング "wikilink")番組として制作され、『[アフタヌーン・パラダイス](https://ja.wikipedia.org/wiki/アフタヌーン・パラダイス "wikilink")』に内包される形で放送されていた。
+[ミュージックバード](../Page/ミュージックバード.md "wikilink")としては初の[ラジオショッピング](../Page/ラジオショッピング.md "wikilink")番組として制作され、『[アフタヌーン・パラダイス](../Page/アフタヌーン・パラダイス.md "wikilink")』に内包される形で放送されていた。
 
 ## 放送時間
 

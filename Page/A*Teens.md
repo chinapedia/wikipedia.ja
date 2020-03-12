@@ -5,11 +5,11 @@
 
 ## 概要
 
-[ABBA](https://ja.wikipedia.org/wiki/ABBA "wikilink")の楽曲をカバーしたデビューアルバム「The ABBA Generation」が世界中で大ヒットし、一躍スターダムにのし上がった。なお、当初は「ABBA Teens」のグループ名でデビューし、ファーストシングル「Mamma Mia」もこの名義で発売されていた。しかしABBA側の要請から改名している。
+[ABBA](../Page/ABBA.md "wikilink")の楽曲をカバーしたデビューアルバム「The ABBA Generation」が世界中で大ヒットし、一躍スターダムにのし上がった。なお、当初は「ABBA Teens」のグループ名でデビューし、ファーストシングル「Mamma Mia」もこの名義で発売されていた。しかしABBA側の要請から改名している。
 
 セカンドアルバム以降は独自の楽曲を発信し、その後も人気を保ち続けた。2001年には世界中で500万枚のアルバムを売り上げたと報告されている。
 
-2002年には[エルヴィス・プレスリー](../Page/エルヴィス・プレスリー.md "wikilink")の「[好きにならずにいられない](https://ja.wikipedia.org/wiki/好きにならずにいられない "wikilink") *(Can't Help Falling in Love)*」をカバーし、これがこの年公開の[ディズニー映画](https://ja.wikipedia.org/wiki/ウォルト・ディズニー・カンパニー "wikilink")「[リロ・アンド・スティッチ](https://ja.wikipedia.org/wiki/リロ・アンド・スティッチ "wikilink")」のテーマソングとなった。さらに[CNN](https://ja.wikipedia.org/wiki/CNN "wikilink")や[ABCのニュース番組への出演](https://ja.wikipedia.org/wiki/アメリカン・ブロードキャスティング・カンパニー "wikilink")、ヨーロッパや北米、南米の各地でのツアーも成功させ、その人気を確固たるものとする。
+2002年には[エルヴィス・プレスリー](../Page/エルヴィス・プレスリー.md "wikilink")の「[好きにならずにいられない](../Page/好きにならずにいられない.md "wikilink") *(Can't Help Falling in Love)*」をカバーし、これがこの年公開の[ディズニー映画](../Page/ウォルト・ディズニー・カンパニー.md "wikilink")「[リロ・アンド・スティッチ](../Page/リロ・アンド・スティッチ.md "wikilink")」のテーマソングとなった。さらに[CNN](https://ja.wikipedia.org/wiki/CNN "wikilink")や[ABCのニュース番組への出演](../Page/アメリカン・ブロードキャスティング・カンパニー.md "wikilink")、ヨーロッパや北米、南米の各地でのツアーも成功させ、その人気を確固たるものとする。
 
 しかし6年間の活動の後、2004年にグループでの活動を休止した。その活動休止中に相次いでダニーとマリーがソロデビューを果たし、2006年になってマリーの公式ウェブサイトにて正式にグループ解散が発表された。現在はサラ、アミットも含めメンバー全員が[ソロ](https://ja.wikipedia.org/wiki/ソロ "wikilink")として活動している。
 

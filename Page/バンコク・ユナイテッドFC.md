@@ -7,7 +7,7 @@
 
 1988年、[バンコク大学](https://ja.wikipedia.org/wiki/バンコク大学 "wikilink")の学生チームとして発足。大学リーグと掛け持ちでタイの下部リーグに参加していたところ勝ち上がり続けたため、学生以外の選手も補強してリーグを戦い、2003年にはタイ1部リーグで優勝するまでの強豪に成長した。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")、バンコク・ユニバーシティFC時代に初めてリーグ優勝し、翌2007年に[AFCチャンピオンズリーグ](../Page/AFCチャンピオンズリーグ.md "wikilink")へ初出場。[川崎フロンターレ](https://ja.wikipedia.org/wiki/川崎フロンターレ "wikilink")や[全南ドラゴンズ](https://ja.wikipedia.org/wiki/全南ドラゴンズ "wikilink")（韓国）と引き分けるなど善戦するも結局グループリーグ4位に終わった。
+[2006年](../Page/2006年.md "wikilink")、バンコク・ユニバーシティFC時代に初めてリーグ優勝し、翌2007年に[AFCチャンピオンズリーグ](../Page/AFCチャンピオンズリーグ.md "wikilink")へ初出場。[川崎フロンターレ](https://ja.wikipedia.org/wiki/川崎フロンターレ "wikilink")や[全南ドラゴンズ](../Page/全南ドラゴンズ.md "wikilink")（韓国）と引き分けるなど善戦するも結局グループリーグ4位に終わった。
 
 ソムチャイ監督は以前に[JSL](../Page/日本サッカーリーグ.md "wikilink")2部の[コスモ石油で](../Page/コスモ石油四日市FC.md "wikilink")1年ほどプレーしたことがあり、日本語がある程度理解できる。
 
@@ -15,7 +15,7 @@
 
 2010年、[トゥルー・コーポレーション](https://ja.wikipedia.org/wiki/トゥルー・コーポレーション "wikilink")がオーナーとなる。
 
-2012年、元[ロアッソ熊本](https://ja.wikipedia.org/wiki/ロアッソ熊本 "wikilink")のFW[宇留野純](https://ja.wikipedia.org/wiki/宇留野純 "wikilink")が加入。
+2012年、元[ロアッソ熊本](https://ja.wikipedia.org/wiki/ロアッソ熊本 "wikilink")のFW[宇留野純](../Page/宇留野純.md "wikilink")が加入。
 
 2016年、再びホームスタジアムを[タイ・ジャパニーズ・スタジアム](https://ja.wikipedia.org/wiki/タイ・ジャパニーズ・スタジアム "wikilink")から[タンマサート・スタジアム](https://ja.wikipedia.org/wiki/タンマサート・スタジアム "wikilink")に移転。このシーズンを2位で終えて翌年の[AFCチャンピオンズリーグ2017](https://ja.wikipedia.org/wiki/AFCチャンピオンズリーグ2017 "wikilink")予選2回戦の出場権を獲得したが、[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")の[ジョホール・ダルル・タクジムFC](https://ja.wikipedia.org/wiki/ジョホール・ダルル・タクジムFC "wikilink")に[PK戦](../Page/PK戦.md "wikilink")の末に敗退した。2018年シーズンに再び2位で終えたが、翌年の[AFCチャンピオンズリーグ2019](https://ja.wikipedia.org/wiki/AFCチャンピオンズリーグ2019 "wikilink")予選2回戦で[ベトナム](https://ja.wikipedia.org/wiki/ベトナム "wikilink")の[ハノイFC](https://ja.wikipedia.org/wiki/ハノイFC "wikilink")に0-1で敗れてまたしてもプレーオフ進出を逃した。
 
@@ -41,7 +41,7 @@
 <!-- end list -->
 
   -
-    [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")
+    [2006年](../Page/2006年.md "wikilink")
 
 ### 国際大会成績
 
@@ -68,7 +68,7 @@
 <th><p><a href="https://ja.wikipedia.org/wiki/タイ・リーグカップ" title="wikilink">リーグカップ</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/コー・ロイヤルカップ" title="wikilink">コー・ロイヤルカップ</a></p></th>
 <th><p><a href="../Page/AFCチャンピオンズリーグ.md" title="wikilink">ACL</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/AFCカップ" title="wikilink">AFCカップ</a></p></th>
+<th><p><a href="../Page/AFCカップ.md" title="wikilink">AFCカップ</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -317,7 +317,7 @@
 <td><p><a href="../Page/AFCチャンピオンズリーグ.md" title="wikilink">AFCチャンピオンズリーグ</a></p></td>
 <td><p>グループF</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/全南ドラゴンズ" title="wikilink">全南ドラゴンズ</a></p></td>
+<td><p><a href="../Page/全南ドラゴンズ.md" title="wikilink">全南ドラゴンズ</a></p></td>
 <td><p>0-0</p></td>
 <td><p>2-3</p></td>
 <td><p>4位</p></td>
@@ -347,7 +347,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/シンガポール・カップ" title="wikilink">シンガポール・カップ</a></p></td>
 <td><p>ラウンド16</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アルビレックス新潟シンガポール" title="wikilink">アルビレックス新潟S</a></p></td>
+<td><p><a href="../Page/アルビレックス新潟シンガポール.md" title="wikilink">アルビレックス新潟S</a></p></td>
 <td><p>4-1</p></td>
 <td></td>
 <td></td>
@@ -355,7 +355,7 @@
 <tr class="odd">
 <td><p>準々決勝</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヤング・ライオンズ" title="wikilink">ヤング・ライオンズ</a></p></td>
+<td><p><a href="../Page/ヤング・ライオンズ.md" title="wikilink">ヤング・ライオンズ</a></p></td>
 <td><p>0-1</p></td>
 <td><p>0-0</p></td>
 <td><p>0-1</p></td>
@@ -419,9 +419,9 @@
 
   - [末岡龍二](../Page/末岡龍二.md "wikilink") 2008
 
-  - [深澤仁博](https://ja.wikipedia.org/wiki/深澤仁博 "wikilink") 2007, 2010
+  - [深澤仁博](../Page/深澤仁博.md "wikilink") 2007, 2010
 
-  - [宇留野純](https://ja.wikipedia.org/wiki/宇留野純 "wikilink") 2012-2013
+  - [宇留野純](../Page/宇留野純.md "wikilink") 2012-2013
 
   - [キム・ユジン](https://ja.wikipedia.org/wiki/キム・ユジン "wikilink") 2014
 
@@ -431,7 +431,7 @@
 
   - [マリオ・ジュロヴスキー](https://ja.wikipedia.org/wiki/マリオ・ジュロヴスキー "wikilink") 2016-
 
-  - [ハーフナー・マイク](https://ja.wikipedia.org/wiki/ハーフナー・マイク "wikilink") 2019
+  - [ハーフナー・マイク](../Page/ハーフナー・マイク.md "wikilink") 2019
 
 ## 脚注
 

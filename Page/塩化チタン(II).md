@@ -3,11 +3,11 @@
 
 **塩化チタン(II)**（えんかチタン、titanium(II) chloride）とは、組成式が TiCl<sub>2</sub> と表される[無機化合物](https://ja.wikipedia.org/wiki/無機化合物 "wikilink")で、[チタン](../Page/チタン.md "wikilink")の塩化物の一種。**二塩化チタン**とも呼ばれる。水で容易に分解し、空気中で加熱すると発火する黒色の固体\[1\]。
 
-[塩化チタン(IV)](https://ja.wikipedia.org/wiki/塩化チタン\(IV\) "wikilink") や[塩化チタン(III)](../Page/塩化チタン\(III\).md "wikilink") よりも一般に高価だが、市販品が入手可能である。4族元素のチタンで最も安定な価数は +4価であるため、+2価の塩化チタン(II) は強い[還元](../Page/還元.md "wikilink")力を持つ。さらに[ルイス酸としての配位性を持つことを利用して](../Page/酸.md "wikilink")、合成反応における反応試剤としての用途がいくつか知られる。
+[塩化チタン(IV)](../Page/塩化チタン\(IV\).md "wikilink") や[塩化チタン(III)](../Page/塩化チタン\(III\).md "wikilink") よりも一般に高価だが、市販品が入手可能である。4族元素のチタンで最も安定な価数は +4価であるため、+2価の塩化チタン(II) は強い[還元](../Page/還元.md "wikilink")力を持つ。さらに[ルイス酸としての配位性を持つことを利用して](../Page/酸.md "wikilink")、合成反応における反応試剤としての用途がいくつか知られる。
 
 ## 合成
 
-塩化チタン(II) の合成法として代表的なものは、熱による塩化チタン(III) の[不均化](https://ja.wikipedia.org/wiki/不均化 "wikilink")反応である。副生する塩化チタン(IV) が揮発し、塩化チタン(II) が残る。
+塩化チタン(II) の合成法として代表的なものは、熱による塩化チタン(III) の[不均化](../Page/不均化.md "wikilink")反応である。副生する塩化チタン(IV) が揮発し、塩化チタン(II) が残る。
 
   -
     <ce>2TiCl3\\ + \\mathit{heat}</ce>*(500℃)*<ce> -\> TiCl2\\ + TiCl4 \\uparrow</ce>
@@ -22,7 +22,7 @@
 
 ### C-C結合生成
 
-[アルデヒド](../Page/アルデヒド.md "wikilink")または[ケトン](../Page/ケトン.md "wikilink")に塩化チタン(II) と亜鉛、または塩化チタン(IV) と亜鉛とを作用させると[ピナコールカップリング](https://ja.wikipedia.org/wiki/ピナコールカップリング "wikilink")が起こり、メソ体の 1,2-ジオールが選択的に得られる。この反応は[向山光昭](https://ja.wikipedia.org/wiki/向山光昭 "wikilink")らによって報告された\[4\]。
+[アルデヒド](../Page/アルデヒド.md "wikilink")または[ケトン](../Page/ケトン.md "wikilink")に塩化チタン(II) と亜鉛、または塩化チタン(IV) と亜鉛とを作用させると[ピナコールカップリング](https://ja.wikipedia.org/wiki/ピナコールカップリング "wikilink")が起こり、メソ体の 1,2-ジオールが選択的に得られる。この反応は[向山光昭](../Page/向山光昭.md "wikilink")らによって報告された\[4\]。
 
   -
     <ce>2R-CHO\\ + TiCl2\\ + Zn -\> R-CH(OH)-CH(OH)-R</ce>
@@ -36,14 +36,14 @@
 
 ### 還元反応
 
-[ニトロ化合物](https://ja.wikipedia.org/wiki/ニトロ化合物 "wikilink")に塩化チタン(II) を加えると、還元が起こり対応する[アミン](../Page/アミン.md "wikilink")が得られる\[7\]\[8\]。
+[ニトロ化合物](../Page/ニトロ化合物.md "wikilink")に塩化チタン(II) を加えると、還元が起こり対応する[アミン](../Page/アミン.md "wikilink")が得られる\[7\]\[8\]。
 
   -
     <ce>R-NO2\\ + TiCl2 -\> R-NH2</ce>
 
 ## 関連項目
 
-  - [塩化チタン(IV)](https://ja.wikipedia.org/wiki/塩化チタン\(IV\) "wikilink")
+  - [塩化チタン(IV)](../Page/塩化チタン\(IV\).md "wikilink")
   - [塩化チタン(III)](../Page/塩化チタン\(III\).md "wikilink")
 
 ## 参考文献

@@ -1,12 +1,12 @@
 > この記事は[Wiz-us](https://ja.wikipedia.org/wiki/Wiz-us)から翻訳されています。
 
 
-**ういずあす**（ういずあす）は[沖縄県](../Page/沖縄県.md "wikilink")出身・在住の3人組[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")である。メジャーデビュー前は「**ちゅらら**」という名前だったが、2007年[SME Recordsからのメジャーデビューを期に改名](https://ja.wikipedia.org/wiki/エスエムイーレコーズ "wikilink")。2009年2月、ユニット名を英語表記からひらがなの「ういずあす」に変更。
+**ういずあす**（ういずあす）は[沖縄県](../Page/沖縄県.md "wikilink")出身・在住の3人組[音楽ユニット](../Page/音楽ユニット.md "wikilink")である。メジャーデビュー前は「**ちゅらら**」という名前だったが、2007年[SME Recordsからのメジャーデビューを期に改名](../Page/エスエムイーレコーズ.md "wikilink")。2009年2月、ユニット名を英語表記からひらがなの「ういずあす」に変更。
 
 ## メンバー
 
   - **金城里菜**（きんじょうりな、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[4月18日](../Page/4月18日.md "wikilink") - ）唄と[三線](../Page/三線.md "wikilink")。[沖縄県](../Page/沖縄県.md "wikilink")[名護市](../Page/名護市.md "wikilink")出身
-  - **比嘉麗香**（ひがれいか、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[8月17日](../Page/8月17日.md "wikilink") - ）唄と三線。沖縄県[南城市](https://ja.wikipedia.org/wiki/南城市 "wikilink")出身
+  - **比嘉麗香**（ひがれいか、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[8月17日](../Page/8月17日.md "wikilink") - ）唄と三線。沖縄県[南城市](../Page/南城市.md "wikilink")出身
   - '''親川あやの '''（おやかわあやの、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink") - ）唄と太鼓。沖縄県[浦添市](../Page/浦添市.md "wikilink")出身
 
 ## ディスコグラフィー
@@ -32,7 +32,7 @@
 
 ## 関連項目
 
-  - [2007年の音楽](https://ja.wikipedia.org/wiki/2007年の音楽 "wikilink")
+  - [2007年の音楽](../Page/2007年の音楽.md "wikilink")
 
 ## 外部リンク
 

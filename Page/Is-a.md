@@ -1,11 +1,11 @@
 > この記事は[Is-a](https://ja.wikipedia.org/wiki/Is-a)から翻訳されています。
 
 
-[知識表現](https://ja.wikipedia.org/wiki/知識表現 "wikilink")、[オブジェクト指向プログラミング](../Page/オブジェクト指向プログラミング.md "wikilink")、[オブジェクト指向設計](https://ja.wikipedia.org/wiki/オブジェクト指向設計 "wikilink")では、**is-a**とは、ある[クラス](../Page/クラス_\(コンピュータ\).md "wikilink")**B**はもう一つのクラス**A**の[サブクラスである](https://ja.wikipedia.org/wiki/サブクラス_\(計算機科学\) "wikilink")(また、**A**は**B**の[スーパークラスである](https://ja.wikipedia.org/wiki/スーパークラス_\(計算機科学\) "wikilink"))という関係である。
+[知識表現](../Page/知識表現.md "wikilink")、[オブジェクト指向プログラミング](../Page/オブジェクト指向プログラミング.md "wikilink")、[オブジェクト指向設計](https://ja.wikipedia.org/wiki/オブジェクト指向設計 "wikilink")では、**is-a**とは、ある[クラス](../Page/クラス_\(コンピュータ\).md "wikilink")**B**はもう一つのクラス**A**の[サブクラスである](../Page/サブクラス_\(計算機科学\).md "wikilink")(また、**A**は**B**の[スーパークラスである](../Page/スーパークラス_\(計算機科学\).md "wikilink"))という関係である。
 
 言い換えれば、"*B*は*A*である"は通常、概念*B*は概念*A*の[特化](https://ja.wikipedia.org/wiki/特化 "wikilink")であり、概念*A*は概念*B*の[汎化](https://ja.wikipedia.org/wiki/汎化 "wikilink")であることを意味する。例として、「フルーツ」は「リンゴ」、「オレンジ」、「マンゴー」などの汎化である。リンゴはフルーツ***である(is-a)*** (Apple ***is a*** fruit.)と言える。
 
-[オブジェクト指向プログラミング](../Page/オブジェクト指向プログラミング.md "wikilink")では***is-a***関係は[継承という概念の中で使われる](https://ja.wikipedia.org/wiki/継承_\(プログラミング\) "wikilink")。たとえばリンゴは、「果肉に種が入った植物」に属するというような、フルーツすべてに共通するプロパティをすべて*継承*するといって差し支えない。
+[オブジェクト指向プログラミング](../Page/オブジェクト指向プログラミング.md "wikilink")では***is-a***関係は[継承という概念の中で使われる](../Page/継承_\(プログラミング\).md "wikilink")。たとえばリンゴは、「果肉に種が入った植物」に属するというような、フルーツすべてに共通するプロパティをすべて*継承*するといって差し支えない。
 
 ***is-a***関係とは、異なる種類の階層の性質をもつ関係に***[has-a](https://ja.wikipedia.org/wiki/has-a "wikilink")***がある。 オブジェクトと従属するオブジェクトの論理関係がis-aか、それともhas-aなのか、いつもはっきりと決定できるものではない。この曖昧さが、is-aのようなメタ言語的な用語を生み出した。
 
@@ -18,7 +18,7 @@
 
   - [包含](https://ja.wikipedia.org/wiki/包含 "wikilink")
 
-  - [継承](https://ja.wikipedia.org/wiki/継承_\(プログラミング\) "wikilink")
+  - [継承](../Page/継承_\(プログラミング\).md "wikilink")
 
   - [派生型](../Page/派生型.md "wikilink")
 

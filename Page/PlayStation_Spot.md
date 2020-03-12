@@ -1,7 +1,7 @@
 > この記事は[PlayStation Spot](https://ja.wikipedia.org/wiki/PlayStation_Spot)から翻訳されています。
 
 
-**PlayStation Spot**（プレイステーション・スポット）は、[PlayStation Portable](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink") (PSP) 向けの[無線LAN](../Page/無線LAN.md "wikilink")ターミナル。PSPの無線LAN機能に対応しており、[ゲームシェアリング](../Page/ゲームシェアリング.md "wikilink")機能を利用してゲームの[体験版](https://ja.wikipedia.org/wiki/体験版 "wikilink")を[ダウンロード](https://ja.wikipedia.org/wiki/ダウンロード "wikilink")したり、ネットワーク接続用の[アクセスポイントとして利用できる](../Page/アクセスポイント_\(無線LAN\).md "wikilink")。「シェアリング型」と「アクセスポイント型」の2種類がある。
+**PlayStation Spot**（プレイステーション・スポット）は、[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink") (PSP) 向けの[無線LAN](../Page/無線LAN.md "wikilink")ターミナル。PSPの無線LAN機能に対応しており、[ゲームシェアリング](../Page/ゲームシェアリング.md "wikilink")機能を利用してゲームの[体験版](../Page/体験版.md "wikilink")を[ダウンロード](https://ja.wikipedia.org/wiki/ダウンロード "wikilink")したり、ネットワーク接続用の[アクセスポイントとして利用できる](../Page/アクセスポイント_\(無線LAN\).md "wikilink")。「シェアリング型」と「アクセスポイント型」の2種類がある。
 [PlayStation Vita](https://ja.wikipedia.org/wiki/PlayStation_Vita "wikilink") (PS Vita) でも利用する事は可能。
 
 ## シェアリング型

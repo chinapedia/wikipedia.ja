@@ -1,11 +1,11 @@
 > この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
 
 
-『**CR奇跡の電役キャプテンロバート**』（シーアールきせきのぱちんこキャプテンロバート）は、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に[豊丸産業](https://ja.wikipedia.org/wiki/豊丸産業 "wikilink")から販売された[一般電役](https://ja.wikipedia.org/wiki/一般電役 "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。[保通協への登録名は](../Page/保安通信協会.md "wikilink")「**CR奇跡の電役キャプテンロバートZ**」。
+『**CR奇跡の電役キャプテンロバート**』（シーアールきせきのぱちんこキャプテンロバート）は、[2007年](../Page/2007年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に[豊丸産業](../Page/豊丸産業.md "wikilink")から販売された[一般電役](https://ja.wikipedia.org/wiki/一般電役 "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。[保通協への登録名は](../Page/保安通信協会.md "wikilink")「**CR奇跡の電役キャプテンロバートZ**」。
 
 ## 概要
 
-大当たり確率1/143.8、大当たり継続率96.4％（いずれもメーカー発表値）という高確率、一般電役タイプではあるが大当たり中の右打ちが不要という特徴を持っている。ラウンド中のBGMは[ロードオブメジャー](https://ja.wikipedia.org/wiki/ロードオブメジャー "wikilink")の「[僕らだけの歌](https://ja.wikipedia.org/wiki/僕らだけの歌 "wikilink")」などがある。
+大当たり確率1/143.8、大当たり継続率96.4％（いずれもメーカー発表値）という高確率、一般電役タイプではあるが大当たり中の右打ちが不要という特徴を持っている。ラウンド中のBGMは[ロードオブメジャー](../Page/ロードオブメジャー.md "wikilink")の「[僕らだけの歌](../Page/僕らだけの歌.md "wikilink")」などがある。
 
 ## 遊び方
 
@@ -43,9 +43,9 @@
   - 賞球数：6（始動口、大入賞口） & 13（その他の入賞口）
   - 普通電動役物の開放1回あたりの、概ねの入賞個数：8カウント
   - 特別電動役物の開放1回あたりの、概ねの入賞個数：1カウント
-  - 大当たりの[確変割合](https://ja.wikipedia.org/wiki/確率変動 "wikilink")：81/84（96.4%）
+  - 大当たりの[確変割合](../Page/確率変動.md "wikilink")：81/84（96.4%）
   - リミット：なし
-  - [時短](https://ja.wikipedia.org/wiki/時短_\(パチンコ\) "wikilink")：なし
+  - [時短](../Page/時短_\(パチンコ\).md "wikilink")：なし
   - 小当たり1回あたりの、普通電動役物の開放時間及び回数 ：4.5秒×1回
 
 ## 外部リンク

@@ -1,7 +1,7 @@
 > この記事は[YOU](https://ja.wikipedia.org/wiki/YOU)から翻訳されています。
 
 
-**道の駅YOU・遊・もり**（みちのえき ゆうゆうもり）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[茅部郡](https://ja.wikipedia.org/wiki/茅部郡 "wikilink")[森町上台町にある](https://ja.wikipedia.org/wiki/森町_\(北海道\) "wikilink")[国道5号](../Page/国道5号.md "wikilink")の[道の駅](../Page/道の駅.md "wikilink")である\[1\]。
+**道の駅YOU・遊・もり**（みちのえき ゆうゆうもり）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[茅部郡](../Page/茅部郡.md "wikilink")[森町上台町にある](../Page/森町_\(北海道\).md "wikilink")[国道5号](../Page/国道5号.md "wikilink")の[道の駅](../Page/道の駅.md "wikilink")である\[1\]。
 
 森町展望物産館プラザを整備して道の駅として登録した\[2\]。
 
@@ -22,9 +22,9 @@
     <!-- end list -->
       -
         ※（）内は24時間使用可能
-  - [公衆電話](https://ja.wikipedia.org/wiki/公衆電話 "wikilink")：2台
+  - [公衆電話](../Page/公衆電話.md "wikilink")：2台
   - 森町展望物産館プラザ\[4\]
-      - 特産物販売所（[売店](https://ja.wikipedia.org/wiki/売店 "wikilink")）
+      - 特産物販売所（[売店](../Page/売店.md "wikilink")）
       - 展望プラザ
   - [オニウシ公園](https://ja.wikipedia.org/wiki/オニウシ公園 "wikilink")
 
@@ -34,7 +34,7 @@
 
 ## アクセス
 
-[国道5号](../Page/国道5号.md "wikilink")沿いにあり、[道央自動車道](../Page/道央自動車道.md "wikilink")[森ICからも約](https://ja.wikipedia.org/wiki/森インターチェンジ "wikilink")2kmの道のりにある。
+[国道5号](../Page/国道5号.md "wikilink")沿いにあり、[道央自動車道](../Page/道央自動車道.md "wikilink")[森ICからも約](../Page/森インターチェンジ.md "wikilink")2kmの道のりにある。
 
   - 直接連絡
 
@@ -42,7 +42,7 @@
 
   - 間接連絡
 
-:\* [国道278号](https://ja.wikipedia.org/wiki/国道278号 "wikilink")
+:\* [国道278号](../Page/国道278号.md "wikilink")
 
 :\* [北海道道606号霞台森停車場線](https://ja.wikipedia.org/wiki/北海道道606号霞台森停車場線 "wikilink")
 
@@ -51,8 +51,8 @@
 ## 周辺
 
   - 青葉ヶ丘公園
-  - [森駅](https://ja.wikipedia.org/wiki/森駅_\(北海道\) "wikilink")
-  - [濁川温泉](https://ja.wikipedia.org/wiki/濁川温泉 "wikilink")
+  - [森駅](../Page/森駅_\(北海道\).md "wikilink")
+  - [濁川温泉](../Page/濁川温泉.md "wikilink")
   - 鳥崎渓谷
 
 ## 脚注・出典
@@ -61,9 +61,9 @@
 
 ## 関連項目
 
-  - [道の駅一覧 北海道地方](https://ja.wikipedia.org/wiki/道の駅一覧_北海道地方 "wikilink")
-  - [道の駅一覧 や-わ行](https://ja.wikipedia.org/wiki/道の駅一覧_や-わ行 "wikilink")
-  - [道の駅つど〜る・プラザ・さわら](https://ja.wikipedia.org/wiki/道の駅つど〜る・プラザ・さわら "wikilink")（森町（旧[砂原町](https://ja.wikipedia.org/wiki/砂原町 "wikilink")）にある道の駅）
+  - [道の駅一覧 北海道地方](../Page/道の駅一覧_北海道地方.md "wikilink")
+  - [道の駅一覧 や-わ行](../Page/道の駅一覧_や-わ行.md "wikilink")
+  - [道の駅つど〜る・プラザ・さわら](../Page/道の駅つど〜る・プラザ・さわら.md "wikilink")（森町（旧[砂原町](../Page/砂原町.md "wikilink")）にある道の駅）
 
 ## 外部リンク
 

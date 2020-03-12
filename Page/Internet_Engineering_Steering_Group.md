@@ -29,31 +29,31 @@
 
   - 応用分野 (app)
       - Lisa Dusseault、[Open Source Applications Foundation](https://ja.wikipedia.org/wiki/Open_Source_Applications_Foundation "wikilink")
-      - Ted Hardie、[クアルコム](https://ja.wikipedia.org/wiki/クアルコム "wikilink")
+      - Ted Hardie、[クアルコム](../Page/クアルコム.md "wikilink")
 
 <!-- end list -->
 
   - インターネット分野 (int)
-      - Mark Townsley、[シスコシステムズ](https://ja.wikipedia.org/wiki/シスコシステムズ "wikilink")
-      - Jari Arkko、[エリクソン](https://ja.wikipedia.org/wiki/エリクソン "wikilink")
+      - Mark Townsley、[シスコシステムズ](../Page/シスコシステムズ.md "wikilink")
+      - Jari Arkko、[エリクソン](../Page/エリクソン.md "wikilink")
 
 <!-- end list -->
 
   - 運用・管理分野 (ops)
-      - David Kessens、[ノキア](https://ja.wikipedia.org/wiki/ノキア "wikilink")
-      - Dan Romascanu、[アバイア](https://ja.wikipedia.org/wiki/アバイア "wikilink")
+      - David Kessens、[ノキア](../Page/ノキア.md "wikilink")
+      - Dan Romascanu、[アバイア](../Page/アバイア.md "wikilink")
 
 <!-- end list -->
 
   - リアルタイム応用・基盤分野 (rai)
-      - Cullen Jennings、[シスコシステムズ](https://ja.wikipedia.org/wiki/シスコシステムズ "wikilink")
+      - Cullen Jennings、[シスコシステムズ](../Page/シスコシステムズ.md "wikilink")
       - Jon Peterson、[NeuStar](https://ja.wikipedia.org/wiki/NeuStar "wikilink")
 
 <!-- end list -->
 
   - ルーティング分野 (rtg)
       - Bill Fenner、[AT\&T](../Page/AT&T.md "wikilink")
-      - Ross Callon、[ジュニパーネットワークス](https://ja.wikipedia.org/wiki/ジュニパーネットワークス "wikilink")
+      - Ross Callon、[ジュニパーネットワークス](../Page/ジュニパーネットワークス.md "wikilink")
 
 <!-- end list -->
 
@@ -65,16 +65,16 @@
 
   - トランスポート分野 (tsv)
       - Lars Eggert、[NEC](../Page/日本電気.md "wikilink") Network Laboratories
-      - Magnus Westerlund、[エリクソン](https://ja.wikipedia.org/wiki/エリクソン "wikilink")
+      - Magnus Westerlund、[エリクソン](../Page/エリクソン.md "wikilink")
 
 <!-- end list -->
 
   - 関連組織連絡メンバー
-      - Leslie Daigle、[シスコシステムズ](https://ja.wikipedia.org/wiki/シスコシステムズ "wikilink") - [IAB](../Page/インターネットアーキテクチャ委員会.md "wikilink") 責任者
+      - Leslie Daigle、[シスコシステムズ](../Page/シスコシステムズ.md "wikilink") - [IAB](../Page/インターネットアーキテクチャ委員会.md "wikilink") 責任者
       - Barbara Fuller、NeuStar Secretariat Services - IETF 理事
       - Michelle Cotton、[Internet Assigned Numbers Authority](../Page/Internet_Assigned_Numbers_Authority.md "wikilink")
       - Sandy Ginoza、[USC/ISI](https://ja.wikipedia.org/wiki/情報科学研究所 "wikilink") - [RFC編集者](../Page/Request_for_Comments.md "wikilink")
-      - Dave Meyer、シスコシステムズ/[オレゴン大学](https://ja.wikipedia.org/wiki/オレゴン大学 "wikilink") - [IAB](../Page/インターネットアーキテクチャ委員会.md "wikilink")
+      - Dave Meyer、シスコシステムズ/[オレゴン大学](../Page/オレゴン大学.md "wikilink") - [IAB](../Page/インターネットアーキテクチャ委員会.md "wikilink")
 
 ## 脚註
 

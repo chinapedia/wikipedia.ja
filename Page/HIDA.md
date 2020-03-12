@@ -1,13 +1,13 @@
 > この記事は[HIDA](https://ja.wikipedia.org/wiki/HIDA)から翻訳されています。
 
 
-**HIDA**（ヒダ）は、[日本のヒップホップ](https://ja.wikipedia.org/wiki/日本のヒップホップ "wikilink")[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。ヒップホップグループ[韻踏合組合](https://ja.wikipedia.org/wiki/韻踏合組合 "wikilink")、HEAD BANGERZに所属。大阪を拠点として活動している。別名HIDADDY（ヒダディー）。愛称はHIDAやん。本名は**肥田直幸**。
+**HIDA**（ヒダ）は、[日本のヒップホップ](../Page/日本のヒップホップ.md "wikilink")[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。ヒップホップグループ[韻踏合組合](https://ja.wikipedia.org/wiki/韻踏合組合 "wikilink")、HEAD BANGERZに所属。大阪を拠点として活動している。別名HIDADDY（ヒダディー）。愛称はHIDAやん。本名は**肥田直幸**。
 
 ## 来歴
 
 大阪にてソロのラッパーとして活動を始め、[2000年](../Page/2000年.md "wikilink")に[遊戯](https://ja.wikipedia.org/wiki/遊戯_\(ラッパー\) "wikilink")、[DJ KITADA KENらとHEAD](https://ja.wikipedia.org/wiki/DJ_KITADA_KEN "wikilink") BANGERZを結成。その後、グループごと韻踏合組合に合流した。HEAD BANGERZのメンバーと共に大阪でショップ「一二三屋」を経営している。
 
-ラッパーとしては、フリースタイルラップバトル大会“ULTIMATE MC BATTLE”（UMB）で4年連続で決勝進出している。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")にはHIDAが日本各地を周り[KREVA](https://ja.wikipedia.org/wiki/KREVA "wikilink")、[ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink")、[般若ら多くのラッパーとフリースタイルセッションを行った模様を収録したDVD](https://ja.wikipedia.org/wiki/般若_\(ミュージシャン\) "wikilink")『ヒダディー ひとり旅』をリリースした。
+ラッパーとしては、フリースタイルラップバトル大会“ULTIMATE MC BATTLE”（UMB）で4年連続で決勝進出している。[2007年](../Page/2007年.md "wikilink")にはHIDAが日本各地を周り[KREVA](../Page/KREVA.md "wikilink")、[ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink")、[般若ら多くのラッパーとフリースタイルセッションを行った模様を収録したDVD](https://ja.wikipedia.org/wiki/般若_\(ミュージシャン\) "wikilink")『ヒダディー ひとり旅』をリリースした。
 
 ## ディスコグラフィ
 
@@ -30,12 +30,12 @@
 
 <!-- end list -->
 
-  - [くレーベル](https://ja.wikipedia.org/wiki/くレーベル "wikilink"),『くレーベルコンピ【其の二】100%RAP』（2006年1月25日）
+  - [くレーベル](../Page/くレーベル.md "wikilink"),『くレーベルコンピ【其の二】100%RAP』（2006年1月25日）
 
 <!-- end list -->
 
   -
-    02.マッハGO GO / [KREVA](https://ja.wikipedia.org/wiki/KREVA "wikilink")、[CUEZERO](https://ja.wikipedia.org/wiki/CUEZERO "wikilink")、遊戯＆HIDA
+    02.マッハGO GO / [KREVA](../Page/KREVA.md "wikilink")、[CUEZERO](../Page/CUEZERO.md "wikilink")、遊戯＆HIDA
 
 <!-- end list -->
 

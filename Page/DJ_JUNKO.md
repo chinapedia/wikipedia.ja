@@ -1,15 +1,15 @@
 > この記事は[DJ JUNKO](https://ja.wikipedia.org/wiki/DJ_JUNKO)から翻訳されています。
 
 
-**DJ JUNKO**（ディージェー　ジュンコ、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink") - ）は、日本の女性[DJ](https://ja.wikipedia.org/wiki/ディスクジョッキー "wikilink")。
+**DJ JUNKO**（ディージェー　ジュンコ、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink") - ）は、日本の女性[DJ](../Page/ディスクジョッキー.md "wikilink")。
 
 ## 来歴
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、[2パック](https://ja.wikipedia.org/wiki/2パック "wikilink")のヒット曲「CALIFORNIA LOVE」を聴いたことをきっかけに[ブラックミュージック](../Page/ブラックミュージック.md "wikilink")に傾倒、同時にDJに興味をもち、[ターンテーブル](https://ja.wikipedia.org/wiki/ターンテーブル "wikilink")を手に入れ音楽を始めた。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")にはイベント「[DYNAMITE](https://ja.wikipedia.org/wiki/DYNAMITE_\(ライブイベント\) "wikilink")」の紅一点レギュラーDJとして[DJ TATSUTA](../Page/DJ_TATSUTA.md "wikilink")、[KREVA](https://ja.wikipedia.org/wiki/KREVA "wikilink")らと共にパフォーマンスを行った。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、[2パック](../Page/2パック.md "wikilink")のヒット曲「CALIFORNIA LOVE」を聴いたことをきっかけに[ブラックミュージック](../Page/ブラックミュージック.md "wikilink")に傾倒、同時にDJに興味をもち、[ターンテーブル](https://ja.wikipedia.org/wiki/ターンテーブル "wikilink")を手に入れ音楽を始めた。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")にはイベント「[DYNAMITE](https://ja.wikipedia.org/wiki/DYNAMITE_\(ライブイベント\) "wikilink")」の紅一点レギュラーDJとして[DJ TATSUTA](../Page/DJ_TATSUTA.md "wikilink")、[KREVA](../Page/KREVA.md "wikilink")らと共にパフォーマンスを行った。
 
-[2003年](../Page/2003年.md "wikilink")3月にはクラブハーレム監修のミックスCD第3弾『**HARLEM IN THE MIX**』を手がけ、[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")3月には、「STREET」や「BLACK」の表現を試みたシリーズアルバム『**STREET TO DA FULLEST**』を発売。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")からは、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")でのパフォーマンスを行い海外進出を始めた。
+[2003年](../Page/2003年.md "wikilink")3月にはクラブハーレム監修のミックスCD第3弾『**HARLEM IN THE MIX**』を手がけ、[2004年](../Page/2004年.md "wikilink")3月には、「STREET」や「BLACK」の表現を試みたシリーズアルバム『**STREET TO DA FULLEST**』を発売。[2005年](../Page/2005年.md "wikilink")からは、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")でのパフォーマンスを行い海外進出を始めた。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")には、NEXT ENTERTAINMENTより企画ミックスCD『PARTY』を、[Dj honda](https://ja.wikipedia.org/wiki/Dj_honda "wikilink") RECORDINGSよりSOUTH MIX vol.1として『**SOUTH TO DA FULLEST**』を発売した。
+[2006年](../Page/2006年.md "wikilink")には、NEXT ENTERTAINMENTより企画ミックスCD『PARTY』を、[Dj honda](https://ja.wikipedia.org/wiki/Dj_honda "wikilink") RECORDINGSよりSOUTH MIX vol.1として『**SOUTH TO DA FULLEST**』を発売した。
 
 現在は、関東を中心に月に10本以上のDJプレイを行うほか、大阪でもレギュラーイベントを行っている。また、女性アーティストだけを集めたイベント「Diamond@CLUB HARLEM」においては、DJとオーガナイザーの二役で活動している。
 

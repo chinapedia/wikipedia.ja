@@ -1,16 +1,16 @@
 > この記事は[H\?](https://ja.wikipedia.org/wiki/H\?)から翻訳されています。
 
 
-『**相澤仁美のHじゃダメ?**』は、[USEN](https://ja.wikipedia.org/wiki/USEN "wikilink")の無料[インターネットテレビ](https://ja.wikipedia.org/wiki/インターネットテレビ "wikilink")・[GyaOで放送されていた](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")[お色気番組](https://ja.wikipedia.org/wiki/お色気番組 "wikilink")である。[相澤仁美](https://ja.wikipedia.org/wiki/相澤仁美 "wikilink")が[MCを務める](https://ja.wikipedia.org/wiki/司会 "wikilink")[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")。ゲストは2回1セット交代で、[ロケは毎回](https://ja.wikipedia.org/wiki/ロケーション撮影 "wikilink")[ブティックホテル](https://ja.wikipedia.org/wiki/ブティックホテル "wikilink")で行われていた。2006年3月配信開始。同年5月終了。
+『**相澤仁美のHじゃダメ?**』は、[USEN](../Page/USEN.md "wikilink")の無料[インターネットテレビ](../Page/インターネットテレビ.md "wikilink")・[GyaOで放送されていた](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")[お色気番組](../Page/お色気番組.md "wikilink")である。[相澤仁美](https://ja.wikipedia.org/wiki/相澤仁美 "wikilink")が[MCを務める](../Page/司会.md "wikilink")[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")。ゲストは2回1セット交代で、[ロケは毎回](https://ja.wikipedia.org/wiki/ロケーション撮影 "wikilink")[ブティックホテル](../Page/ブティックホテル.md "wikilink")で行われていた。2006年3月配信開始。同年5月終了。
 
 ## ゲスト出演者・ロケ地
 
-  - 第1・2回：[愛川ゆず季](https://ja.wikipedia.org/wiki/愛川ゆず季 "wikilink")、P\&A PLAZA 901号室\[1\]・804号室（[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")）
-  - 第3・4回：[木口亜矢](https://ja.wikipedia.org/wiki/木口亜矢 "wikilink")、BTY HILLS 202号室・301号室（[横浜市](../Page/横浜市.md "wikilink")[都筑区](https://ja.wikipedia.org/wiki/都筑区 "wikilink")）
-  - 第5・6回：[滝ありさ](https://ja.wikipedia.org/wiki/滝ありさ "wikilink")、HOTEL SWEET 300号室\[2\]（[川崎市](../Page/川崎市.md "wikilink")[宮前区](../Page/宮前区.md "wikilink")）
+  - 第1・2回：[愛川ゆず季](https://ja.wikipedia.org/wiki/愛川ゆず季 "wikilink")、P\&A PLAZA 901号室\[1\]・804号室（[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")）
+  - 第3・4回：[木口亜矢](../Page/木口亜矢.md "wikilink")、BTY HILLS 202号室・301号室（[横浜市](../Page/横浜市.md "wikilink")[都筑区](https://ja.wikipedia.org/wiki/都筑区 "wikilink")）
+  - 第5・6回：[滝ありさ](../Page/滝ありさ.md "wikilink")、HOTEL SWEET 300号室\[2\]（[川崎市](../Page/川崎市.md "wikilink")[宮前区](../Page/宮前区.md "wikilink")）
   - 第7・8回：[伊藤あい](https://ja.wikipedia.org/wiki/伊藤あい "wikilink")、COLORFUL P\&A（東京都[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")）
-  - 第9・10回：[神楽坂恵](https://ja.wikipedia.org/wiki/神楽坂恵 "wikilink")、HOTEL CASTILE 504号室\[3\]（横浜市[港北区](https://ja.wikipedia.org/wiki/港北区 "wikilink")）
-  - 第11・12回：[福永ちな](https://ja.wikipedia.org/wiki/福永ちな "wikilink")、ロケ：HOTEL J2 1001号室\[4\]（横浜市港北区）
+  - 第9・10回：[神楽坂恵](../Page/神楽坂恵.md "wikilink")、HOTEL CASTILE 504号室\[3\]（横浜市[港北区](https://ja.wikipedia.org/wiki/港北区 "wikilink")）
+  - 第11・12回：[福永ちな](../Page/福永ちな.md "wikilink")、ロケ：HOTEL J2 1001号室\[4\]（横浜市港北区）
 
 ## コーナー
 
@@ -21,22 +21,22 @@
   - H-1グランプリ
     相澤とゲストが対決をし、勝者にはご褒美がある（後述）。
   - サービスショット
-    毎回、相澤とゲストそれぞれの[サービスショットがある](https://ja.wikipedia.org/wiki/サービスカット "wikilink")。
+    毎回、相澤とゲストそれぞれの[サービスショットがある](../Page/サービスカット.md "wikilink")。
 
 ## H-1グランプリ
 
   - 第1回
       -
-        勝者：愛川、種目：[バランスボール](https://ja.wikipedia.org/wiki/バランスボール "wikilink")de[万歩計](https://ja.wikipedia.org/wiki/万歩計 "wikilink")、賞品：RODENSTOCK 2006年最新モデル[サングラス](https://ja.wikipedia.org/wiki/サングラス "wikilink")
+        勝者：愛川、種目：[バランスボール](../Page/バランスボール.md "wikilink")de[万歩計](https://ja.wikipedia.org/wiki/万歩計 "wikilink")、賞品：RODENSTOCK 2006年最新モデル[サングラス](../Page/サングラス.md "wikilink")
   - 第2回
       -
-        勝者：相澤、種目：ブリッジde[山手線ゲーム](https://ja.wikipedia.org/wiki/山手線ゲーム "wikilink")、賞品：美人[黒酢](https://ja.wikipedia.org/wiki/黒酢 "wikilink")と黒酢化粧品のセット
+        勝者：相澤、種目：ブリッジde[山手線ゲーム](https://ja.wikipedia.org/wiki/山手線ゲーム "wikilink")、賞品：美人[黒酢](../Page/黒酢.md "wikilink")と黒酢化粧品のセット
   - 第3回
       -
         勝者：木口、種目：ロデオボーイdeお絵かき、賞品：RODENSTOCK 2006年最新モデルサングラス
   - 第4回
       -
-        勝者：相澤、種目：[フラフープ](https://ja.wikipedia.org/wiki/フラフープ "wikilink")de[縄跳び](../Page/縄跳び.md "wikilink")、賞品：美人黒酢と黒酢化粧品のセット
+        勝者：相澤、種目：[フラフープ](../Page/フラフープ.md "wikilink")de[縄跳び](../Page/縄跳び.md "wikilink")、賞品：美人黒酢と黒酢化粧品のセット
   - 第5回
       -
         勝者：相澤、種目：ケンケンなわ跳び、賞品：豆乳花ファイン30個
@@ -66,7 +66,7 @@
 
 [Category:GyaOのバラエティ番組](https://ja.wikipedia.org/wiki/Category:GyaOのバラエティ番組 "wikilink") [Category:テレビのお色気番組](https://ja.wikipedia.org/wiki/Category:テレビのお色気番組 "wikilink") [Category:2006年のWeb動画](https://ja.wikipedia.org/wiki/Category:2006年のWeb動画 "wikilink")
 
-1.  P\&A PLAZA 901号室は『[堂本剛の正直しんどい](https://ja.wikipedia.org/wiki/堂本剛の正直しんどい "wikilink")』でも登場している。
+1.  P\&A PLAZA 901号室は『[堂本剛の正直しんどい](../Page/堂本剛の正直しんどい.md "wikilink")』でも登場している。
 2.  第6回。
 3.  第9回。
 4.  第12回。

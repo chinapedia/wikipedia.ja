@@ -1,15 +1,15 @@
 > この記事は[AsR](https://ja.wikipedia.org/wiki/AsR)から翻訳されています。
 
 
-**AsR**（**エーエスアール**）は、**[高橋直純](https://ja.wikipedia.org/wiki/高橋直純 "wikilink")**と**[小森まなみ](../Page/小森まなみ.md "wikilink")**の[声優ユニット](https://ja.wikipedia.org/wiki/声優ユニット "wikilink")（歌って踊れる）である。
+**AsR**（**エーエスアール**）は、**[高橋直純](../Page/高橋直純.md "wikilink")**と**[小森まなみ](../Page/小森まなみ.md "wikilink")**の[声優ユニット](../Page/声優ユニット.md "wikilink")（歌って踊れる）である。
 
 ## 経歴
 
   - ユニット名は「**As**semble **R**esolution（2つの集合した決意）」を示す。
   - ゲーム「キューブバトラー」がきっかけで、1996年に結成。2001年3月に活動停止。
   - AsR内での役割は小森が作詞を全曲手掛け、高橋が作曲を半分手掛けている。
-  - 2004年12月25日に名古屋市公会堂で開催された「**[mamiのRADIかるコミュニケーション](https://ja.wikipedia.org/wiki/mamiのRADIかるコミュニケーション "wikilink") 20th Anniversary “Dream Power Party X”**」で、一夜限りの復活を果たす。「Ready Steady Go！」「YELLを君に！（小森の曲）」を歌い上げる（[高橋直純](https://ja.wikipedia.org/wiki/高橋直純 "wikilink")の復帰直後なので、2曲で終わったが）。**[スターチャイルド](https://ja.wikipedia.org/wiki/スターチャイルド "wikilink")レコード**所属。
-  - 「君のイナイ季節」「夏色の翼」「Ready Steady Go\!」は高橋も自身のアルバムで[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")している。
+  - 2004年12月25日に名古屋市公会堂で開催された「**[mamiのRADIかるコミュニケーション](https://ja.wikipedia.org/wiki/mamiのRADIかるコミュニケーション "wikilink") 20th Anniversary “Dream Power Party X”**」で、一夜限りの復活を果たす。「Ready Steady Go！」「YELLを君に！（小森の曲）」を歌い上げる（[高橋直純](../Page/高橋直純.md "wikilink")の復帰直後なので、2曲で終わったが）。**[スターチャイルド](../Page/スターチャイルド.md "wikilink")レコード**所属。
+  - 「君のイナイ季節」「夏色の翼」「Ready Steady Go\!」は高橋も自身のアルバムで[セルフカバー](../Page/セルフカバー.md "wikilink")している。
   - 「REVOLUTION」は元々はテレビアニメ「[神風怪盗ジャンヌ](../Page/神風怪盗ジャンヌ.md "wikilink")」キャラクターソングで、高橋が同作品で演じる水無月大和が「REVOLUTION〜まろんのために〜」としてソロで歌った楽曲をその後すぐAsRでセルフカバーした楽曲である。
 
 ## ディスコグラフィー
@@ -31,7 +31,7 @@
     4.  REVOLUTION（off vocal version）
     <!-- end list -->
       -
-        [1999年](../Page/1999年.md "wikilink")[7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink")
+        [1999年](../Page/1999年.md "wikilink")[7月23日](../Page/7月23日.md "wikilink")
 
 ### アルバム
 
@@ -43,7 +43,7 @@
       - 作詞：小森まなみ、作曲・編曲：Lake Davis Jr.
       - [セガサターン](../Page/セガサターン.md "wikilink")用ゲーム『[キューブバトラー](https://ja.wikipedia.org/wiki/キューブバトラー "wikilink") デバッガー翔編』テーマソング
 2.  あした元気になあれ（AsR Special Edition）
-      - 作詞：小森まなみ、作曲：高橋直純、編曲：[飯塚昌明](https://ja.wikipedia.org/wiki/飯塚昌明 "wikilink")
+      - 作詞：小森まなみ、作曲：高橋直純、編曲：[飯塚昌明](../Page/飯塚昌明.md "wikilink")
 3.  Never Surrender
       - 作詞：小森まなみ、作曲・編曲：Lake Davis Jr.
 4.  君のイナイ季節
@@ -52,7 +52,7 @@
       - 作詞：小森まなみ、作曲：高橋直純、編曲：池間史規
 6.  夏色の翼
       - 作詞：小森まなみ、作曲：高橋直純、編曲：池間史規
-      - ラジオ「[小森まなみのPop'n\!パジャマ](https://ja.wikipedia.org/wiki/小森まなみのPop'n!パジャマ "wikilink")RV」エンディングテーマ
+      - ラジオ「[小森まなみのPop'n\!パジャマ](../Page/小森まなみのPop'n!パジャマ.md "wikilink")RV」エンディングテーマ
 7.  REVOLUTION
       - 作詞：小森まなみ、作曲：高橋直純、編曲：池間史規・高橋直純
       - テレビアニメ「[神風怪盗ジャンヌ](../Page/神風怪盗ジャンヌ.md "wikilink")」キャラクターソングへの提供曲

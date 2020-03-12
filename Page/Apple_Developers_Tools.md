@@ -1,7 +1,7 @@
 > この記事は[Apple Developers Tools](https://ja.wikipedia.org/wiki/Apple_Developers_Tools)から翻訳されています。
 
 
-**Apple Developers Tools**は[アップルによる](../Page/アップル_\(企業\).md "wikilink")[統合開発環境](../Page/統合開発環境.md "wikilink")。[プログラミング言語](../Page/プログラミング言語.md "wikilink")としては、[C言語](../Page/C言語.md "wikilink")や[C++](../Page/C++.md "wikilink")、[Objective-C](../Page/Objective-C.md "wikilink")、[Java](https://ja.wikipedia.org/wiki/Java "wikilink")、[AppleScript](../Page/AppleScript.md "wikilink")を用いて[プログラムを開発する](../Page/プログラム_\(コンピュータ\).md "wikilink")。プロジェクト（プログラムを構成する[ソースコード](../Page/ソースコード.md "wikilink")やマルチメディアファイルなど）の管理、ソースコードの記述、[デバッグ](../Page/デバッグ.md "wikilink")、[コンパイル](https://ja.wikipedia.org/wiki/コンパイル "wikilink")を行う「[Xcode](https://ja.wikipedia.org/wiki/Xcode "wikilink")」、[GUIのデザインを行う](https://ja.wikipedia.org/wiki/グラフィカルユーザインターフェース "wikilink")「[Interface Builder](https://ja.wikipedia.org/wiki/Interface_Builder "wikilink")」（Xcodeの一部）、[コンパイラ](../Page/コンパイラ.md "wikilink")や[デバッガ](../Page/デバッガ.md "wikilink")、各種ユーティリティなどから構成され、[Mac App Storeから無償でダウンロードできる](https://ja.wikipedia.org/wiki/Mac_App_Store "wikilink")。
+**Apple Developers Tools**は[アップルによる](../Page/アップル_\(企業\).md "wikilink")[統合開発環境](../Page/統合開発環境.md "wikilink")。[プログラミング言語](../Page/プログラミング言語.md "wikilink")としては、[C言語](../Page/C言語.md "wikilink")や[C++](../Page/C++.md "wikilink")、[Objective-C](../Page/Objective-C.md "wikilink")、[Java](https://ja.wikipedia.org/wiki/Java "wikilink")、[AppleScript](../Page/AppleScript.md "wikilink")を用いて[プログラムを開発する](../Page/プログラム_\(コンピュータ\).md "wikilink")。プロジェクト（プログラムを構成する[ソースコード](../Page/ソースコード.md "wikilink")やマルチメディアファイルなど）の管理、ソースコードの記述、[デバッグ](../Page/デバッグ.md "wikilink")、[コンパイル](https://ja.wikipedia.org/wiki/コンパイル "wikilink")を行う「[Xcode](../Page/Xcode.md "wikilink")」、[GUIのデザインを行う](https://ja.wikipedia.org/wiki/グラフィカルユーザインターフェース "wikilink")「[Interface Builder](../Page/Interface_Builder.md "wikilink")」（Xcodeの一部）、[コンパイラ](../Page/コンパイラ.md "wikilink")や[デバッガ](../Page/デバッガ.md "wikilink")、各種ユーティリティなどから構成され、[Mac App Storeから無償でダウンロードできる](https://ja.wikipedia.org/wiki/Mac_App_Store "wikilink")。
 
 ## 機能
 
@@ -13,17 +13,17 @@ Xcodeはいわゆる[統合開発環境](../Page/統合開発環境.md "wikilink
 
 ### Interface Builder
 
-Interface Builderとは、GUIをデザインするためのソフトウェアまたは同等の機能を持つソフトウェア機能の一つ。[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink") の[Aquaが備えるGUI部品をサポートしており](../Page/Aqua_\(コンピュータ\).md "wikilink")、簡単にAquaを用いた美しい[インタフェースを構築できるだけでなく](https://ja.wikipedia.org/wiki/インタフェース_\(情報技術\) "wikilink")、アップルによるデザインガイドライン「Aqua Human Interface Guidelines」に従ったレイアウトが容易に行えるようになっている。部品の中にはウィンドウに配置するだけで機能するものもあり、開発の手間を軽減してくれる。またパレットファイルを作成する事でユーザーが機能を追加する事もできる。
+Interface Builderとは、GUIをデザインするためのソフトウェアまたは同等の機能を持つソフトウェア機能の一つ。[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink") の[Aquaが備えるGUI部品をサポートしており](../Page/Aqua_\(コンピュータ\).md "wikilink")、簡単にAquaを用いた美しい[インタフェースを構築できるだけでなく](../Page/インタフェース_\(情報技術\).md "wikilink")、アップルによるデザインガイドライン「Aqua Human Interface Guidelines」に従ったレイアウトが容易に行えるようになっている。部品の中にはウィンドウに配置するだけで機能するものもあり、開発の手間を軽減してくれる。またパレットファイルを作成する事でユーザーが機能を追加する事もできる。
 
 ### コンパイラ・ビルド環境
 
-コンパイラには [GCCや](../Page/GNUコンパイラコレクション.md "wikilink")[javac](https://ja.wikipedia.org/wiki/javac "wikilink")、Jikesが用いられ、ユーザからのコンパイル要求がXcodeを通して伝えられる。Xcodeでソースコードを編集し終えるとすぐにコンパイルを行うことで、ターンアラウンド（テストの中断、修正、[ビルド](https://ja.wikipedia.org/wiki/ビルド_\(ソフトウェア\) "wikilink")、再テストの過程）に要する時間の短縮を図っている。 また、[distcc](http://distcc.samba.org/)と[Bonjour](https://ja.wikipedia.org/wiki/Bonjour "wikilink")の連携によって複数の[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")マシンで分散ビルドを行うことができ、ビルドに要する時間が短縮される。
+コンパイラには [GCCや](../Page/GNUコンパイラコレクション.md "wikilink")[javac](https://ja.wikipedia.org/wiki/javac "wikilink")、Jikesが用いられ、ユーザからのコンパイル要求がXcodeを通して伝えられる。Xcodeでソースコードを編集し終えるとすぐにコンパイルを行うことで、ターンアラウンド（テストの中断、修正、[ビルド](https://ja.wikipedia.org/wiki/ビルド_\(ソフトウェア\) "wikilink")、再テストの過程）に要する時間の短縮を図っている。 また、[distcc](http://distcc.samba.org/)と[Bonjour](../Page/Bonjour.md "wikilink")の連携によって複数の[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")マシンで分散ビルドを行うことができ、ビルドに要する時間が短縮される。
 
 ### その他
 
   - ソースコードの入力補助
   - AppleScriptによる制御に対応
-  - [CodeWarrior](https://ja.wikipedia.org/wiki/CodeWarrior "wikilink")プロジェクトの移行に対応
+  - [CodeWarrior](../Page/CodeWarrior.md "wikilink")プロジェクトの移行に対応
   - 64ビットCPU [PowerPC G5への最適化に対応](../Page/PowerPC.md "wikilink")
 
 ## 関連項目

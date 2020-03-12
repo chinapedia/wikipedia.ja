@@ -1,19 +1,19 @@
 > この記事は[NNN](https://ja.wikipedia.org/wiki/NNN)から翻訳されています。
 
 
-『**NNNニュースダッシュ**』（エヌエヌエヌ ニュースダッシュ、英称:*NNN NEWS DASH*）は、[日本テレビをはじめとする](../Page/日本テレビ放送網.md "wikilink")[NNN加盟フルネット](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")28局\[1\]で、[1996年](../Page/1996年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[9月30日](../Page/9月30日.md "wikilink")まで放送されていた[お昼の](https://ja.wikipedia.org/wiki/昼 "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")。
+『**NNNニュースダッシュ**』（エヌエヌエヌ ニュースダッシュ、英称:*NNN NEWS DASH*）は、[日本テレビをはじめとする](../Page/日本テレビ放送網.md "wikilink")[NNN加盟フルネット](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")28局\[1\]で、[1996年](../Page/1996年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")まで放送されていた[お昼の](../Page/昼.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")。
 
 ## 概要
 
-月曜日から金曜日のみ『[日テレNEWS24](https://ja.wikipedia.org/wiki/日テレNEWS24 "wikilink")』・『[BS日テレ](../Page/BS日本.md "wikilink")』で[サイマル放送](https://ja.wikipedia.org/wiki/サイマル放送 "wikilink")されていたが、2006年8月に番組の制作局移管に伴い、NNN加盟フルネット局・BS日テレでサイマル放送された。正確には、BS日テレは開局以来、日テレNEWS24の再送信でネットしていた。土曜日・日曜日は[地上波](../Page/地上波.md "wikilink")のみでの放送であった。
+月曜日から金曜日のみ『[日テレNEWS24](https://ja.wikipedia.org/wiki/日テレNEWS24 "wikilink")』・『[BS日テレ](../Page/BS日本.md "wikilink")』で[サイマル放送](../Page/サイマル放送.md "wikilink")されていたが、2006年8月に番組の制作局移管に伴い、NNN加盟フルネット局・BS日テレでサイマル放送された。正確には、BS日テレは開局以来、日テレNEWS24の再送信でネットしていた。土曜日・日曜日は[地上波](../Page/地上波.md "wikilink")のみでの放送であった。
 
-何度か名称・ロゴ表記が変更されている。[2000年](../Page/2000年.md "wikilink")1月から英語表記『**NNN NEWS DASH**』、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月3日](../Page/10月3日.md "wikilink")から『**NNN ニュースD**』、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")4月からは『**NNN News D**』だった。"D"は"**D**ASH"の頭文字である。『ニュースD』に変更されてからはタイトルの読み方も「**ニュース・ディー**」に変わったが、一部地方局では「ニュースダッシュ」となっているところもあり、[ウェブサイト](../Page/ウェブサイト.md "wikilink")の[URIも](../Page/Uniform_Resource_Identifier.md "wikilink")『ニュースダッシュ』のままであった。なお、新聞のラテ欄、テレビ情報誌、日本テレビ他系列局ホームページの番組表は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")発表分より『**NNNニュースD**』という表記に。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")から、タイトルロゴが『**NNN News D**』と英字表記に変更、番組の基本色もゴールドから白調に変更されるなどリニューアルを行った。制作方法もハイビジョンを意識した物となった。また、NNNロゴも『NNNニュースダッシュ』と『NNNニュースD』では公式ロゴを使用していたが、最末期の『NNN News D』では独自ロゴ\[2\]になった。
+何度か名称・ロゴ表記が変更されている。[2000年](../Page/2000年.md "wikilink")1月から英語表記『**NNN NEWS DASH**』、[2005年](../Page/2005年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")から『**NNN ニュースD**』、[2007年](../Page/2007年.md "wikilink")4月からは『**NNN News D**』だった。"D"は"**D**ASH"の頭文字である。『ニュースD』に変更されてからはタイトルの読み方も「**ニュース・ディー**」に変わったが、一部地方局では「ニュースダッシュ」となっているところもあり、[ウェブサイト](../Page/ウェブサイト.md "wikilink")の[URIも](../Page/Uniform_Resource_Identifier.md "wikilink")『ニュースダッシュ』のままであった。なお、新聞のラテ欄、テレビ情報誌、日本テレビ他系列局ホームページの番組表は、[2006年](../Page/2006年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")発表分より『**NNNニュースD**』という表記に。[2007年](../Page/2007年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から、タイトルロゴが『**NNN News D**』と英字表記に変更、番組の基本色もゴールドから白調に変更されるなどリニューアルを行った。制作方法もハイビジョンを意識した物となった。また、NNNロゴも『NNNニュースダッシュ』と『NNNニュースD』では公式ロゴを使用していたが、最末期の『NNN News D』では独自ロゴ\[2\]になった。
 
-[2001年](../Page/2001年.md "wikilink")[8月27日](../Page/8月27日.md "wikilink")、日本の報道番組としては初となる全編[リアルタイム字幕放送](https://ja.wikipedia.org/wiki/リアルタイム字幕放送 "wikilink")の実施を開始した。\[3\]地上波放送（全曜日）とBS日テレ（地上波同時放送の平日11:50まで）で実施した。
+[2001年](../Page/2001年.md "wikilink")[8月27日](../Page/8月27日.md "wikilink")、日本の報道番組としては初となる全編[リアルタイム字幕放送](../Page/リアルタイム字幕放送.md "wikilink")の実施を開始した。\[3\]地上波放送（全曜日）とBS日テレ（地上波同時放送の平日11:50まで）で実施した。
 
 長年ホームページがなかったが、放送開始9年目の2005年[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")に開設。\[4\]
 
-日本テレビの昼の[改編](https://ja.wikipedia.org/wiki/改編 "wikilink")により、本番組は[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[9月30日](../Page/9月30日.md "wikilink")に終了し、11年半の放送を終えた。同年[10月1日](../Page/10月1日.md "wikilink")からは『**[NNNストレイトニュース](https://ja.wikipedia.org/wiki/NNNストレイトニュース "wikilink")**』が放送されている。
+日本テレビの昼の[改編](../Page/改編.md "wikilink")により、本番組は[2007年](../Page/2007年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")に終了し、11年半の放送を終えた。同年[10月1日](../Page/10月1日.md "wikilink")からは『**[NNNストレイトニュース](../Page/NNNストレイトニュース.md "wikilink")**』が放送されている。
 
 ## 放送時間
 
@@ -35,25 +35,25 @@
 
 ### 平日版
 
-| 期間                      | メイン                                                                 | サブ                                                      | 天気                                                      |
-| ----------------------- | ------------------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------- |
-| 月・火                     | 水                                                                   | 木                                                       | 金                                                       |
-| 1996年4月1日 - 9月27日       | [松永二三男](../Page/松永二三男.md "wikilink")<sup>1</sup>                    | [松本志のぶ](https://ja.wikipedia.org/wiki/松本志のぶ "wikilink") | [鷹西美佳](https://ja.wikipedia.org/wiki/鷹西美佳 "wikilink")   |
-| 1996年9月30日 - 1998年4月6日  | 松本志のぶ                                                               | 鷹西美佳                                                    |                                                         |
-| 1998年4月7日 - 1999年6月4日   | [金子茂](../Page/金子茂.md "wikilink")                                    |                                                         |                                                         |
-| 1999年6月7日 - 1999年12月29日 | [菅谷大介](https://ja.wikipedia.org/wiki/菅谷大介 "wikilink")               | 松本志のぶ                                                   | 鷹西美佳                                                    |
-| 2000年1月4日 - 2001年9月28日  | [小栗泉](../Page/小栗泉.md "wikilink")                                    | 菅谷大介                                                    | [三ヶ尻知子](https://ja.wikipedia.org/wiki/三ヶ尻知子 "wikilink") |
-| 2001年10月1日 - 2002年3月29日 | [舟津宜史](https://ja.wikipedia.org/wiki/舟津宜史 "wikilink")               |                                                         |                                                         |
-| 2002年4月1日 - 9月27日       | [杉江勇次](https://ja.wikipedia.org/wiki/杉江勇次 "wikilink")<sup>2・3</sup> |                                                         |                                                         |
-| 2002年9月30日 - 2004年3月26日 | 金子茂<sup>4</sup>                                                     | [阿部哲子](https://ja.wikipedia.org/wiki/阿部哲子 "wikilink")   |                                                         |
-| 2004年3月29日 - 2005年4月1日  | 阿部哲子                                                                | [延友陽子](https://ja.wikipedia.org/wiki/延友陽子 "wikilink")   |                                                         |
-| 2005年4月4日 - 9月30日       | [古市幸子](https://ja.wikipedia.org/wiki/古市幸子 "wikilink")               | [山下美穂子](https://ja.wikipedia.org/wiki/山下美穂子 "wikilink") |                                                         |
-| 2005年10月3日 - 2007年9月28日 | [舟橋明恵](https://ja.wikipedia.org/wiki/舟橋明恵 "wikilink")               |                                                         |                                                         |
+| 期間                      | メイン                                                   | サブ                                                    | 天気                                   |
+| ----------------------- | ----------------------------------------------------- | ----------------------------------------------------- | ------------------------------------ |
+| 月・火                     | 水                                                     | 木                                                     | 金                                    |
+| 1996年4月1日 - 9月27日       | [松永二三男](../Page/松永二三男.md "wikilink")<sup>1</sup>      | [松本志のぶ](../Page/松本志のぶ.md "wikilink")                  | [鷹西美佳](../Page/鷹西美佳.md "wikilink")   |
+| 1996年9月30日 - 1998年4月6日  | 松本志のぶ                                                 | 鷹西美佳                                                  |                                      |
+| 1998年4月7日 - 1999年6月4日   | [金子茂](../Page/金子茂.md "wikilink")                      |                                                       |                                      |
+| 1999年6月7日 - 1999年12月29日 | [菅谷大介](../Page/菅谷大介.md "wikilink")                    | 松本志のぶ                                                 | 鷹西美佳                                 |
+| 2000年1月4日 - 2001年9月28日  | [小栗泉](../Page/小栗泉.md "wikilink")                      | 菅谷大介                                                  | [三ヶ尻知子](../Page/三ヶ尻知子.md "wikilink") |
+| 2001年10月1日 - 2002年3月29日 | [舟津宜史](../Page/舟津宜史.md "wikilink")                    |                                                       |                                      |
+| 2002年4月1日 - 9月27日       | [杉江勇次](../Page/杉江勇次.md "wikilink")<sup>2・3</sup>      |                                                       |                                      |
+| 2002年9月30日 - 2004年3月26日 | 金子茂<sup>4</sup>                                       | [阿部哲子](../Page/阿部哲子.md "wikilink")                    |                                      |
+| 2004年3月29日 - 2005年4月1日  | 阿部哲子                                                  | [延友陽子](https://ja.wikipedia.org/wiki/延友陽子 "wikilink") |                                      |
+| 2005年4月4日 - 9月30日       | [古市幸子](https://ja.wikipedia.org/wiki/古市幸子 "wikilink") | [山下美穂子](../Page/山下美穂子.md "wikilink")                  |                                      |
+| 2005年10月3日 - 2007年9月28日 | [舟橋明恵](../Page/舟橋明恵.md "wikilink")                    |                                                       |                                      |
 
   - <sup>1</sup>　『NNN昼のニュース』から続投。
   - <sup>2</sup>　『[さきどり\!Navi](../Page/さきどり!Navi.md "wikilink")』を兼務。
   - <sup>3</sup>　『NNNストレイトニュース』も続投。
-  - <sup>4</sup>　『[午後は○○おもいッきりテレビ](https://ja.wikipedia.org/wiki/午後は○○おもいッきりテレビ "wikilink")』『[ザ・ワイド](https://ja.wikipedia.org/wiki/ザ・ワイド "wikilink")』ニュースコーナーを兼務。
+  - <sup>4</sup>　『[午後は○○おもいッきりテレビ](../Page/午後は○○おもいッきりテレビ.md "wikilink")』『[ザ・ワイド](../Page/ザ・ワイド.md "wikilink")』ニュースコーナーを兼務。
 
 ### 土曜版・日曜版
 
@@ -75,7 +75,7 @@
 <td><p>1996年4月6日 - 9月29日</p></td>
 <td><p>金子茂<br />
 <a href="https://ja.wikipedia.org/wiki/鈴木君枝" title="wikilink">鈴木君枝</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/鈴木健_(アナウンサー)" title="wikilink">鈴木健</a><sup>1</sup></p></td>
+<td><p><a href="../Page/鈴木健_(アナウンサー).md" title="wikilink">鈴木健</a><sup>1</sup></p></td>
 </tr>
 <tr class="odd">
 <td><p>1996年10月5日 - 1998年4月5日</p></td>
@@ -85,18 +85,18 @@
 </tr>
 <tr class="even">
 <td><p>1998年4月11日 - 6月</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/村山喜彦" title="wikilink">村山喜彦</a></p></td>
+<td><p><a href="../Page/村山喜彦.md" title="wikilink">村山喜彦</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1998年6月 - 2000年4月2日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/平川健太郎" title="wikilink">平川健太郎</a></p></td>
+<td><p><a href="../Page/平川健太郎.md" title="wikilink">平川健太郎</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2000年4月8日 - 2001年9月30日</p></td>
 <td><p>平川健太郎</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/矢島学" title="wikilink">矢島学</a></p></td>
+<td><p><a href="../Page/矢島学.md" title="wikilink">矢島学</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2001年10月6日 - 2002年9月29日</p></td>
@@ -105,7 +105,7 @@
 </tr>
 <tr class="even">
 <td><p>2002年10月5日 - 2004年9月26日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/河本香織" title="wikilink">河本香織</a></p></td>
+<td><p><a href="../Page/河本香織.md" title="wikilink">河本香織</a></p></td>
 <td><p>菅谷大介</p></td>
 </tr>
 <tr class="odd">
@@ -115,7 +115,7 @@
 </tr>
 <tr class="even">
 <td><p>2004年12月 - 2005年10月2日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/新谷保志" title="wikilink">新谷保志</a><sup>1・2</sup></p></td>
+<td><p><a href="../Page/新谷保志.md" title="wikilink">新谷保志</a><sup>1・2</sup></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -130,7 +130,7 @@
 </tr>
 <tr class="odd">
 <td><p>2006年10月6日 - 2007年9月30日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/杉上佐智枝" title="wikilink">杉上佐智枝</a><sup>1・3</sup></p></td>
+<td><p><a href="../Page/杉上佐智枝.md" title="wikilink">杉上佐智枝</a><sup>1・3</sup></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -139,11 +139,11 @@
   - 上記の末期キャスターは共に『NNNストレイトニュース』も続投。
   - <sup>1</sup>　同日[朝のニュースを兼務](https://ja.wikipedia.org/wiki/日本テレビ系列朝ニュース枠 "wikilink")。
   - <sup>2</sup>　舟津の人事異動による。
-  - <sup>3</sup>　『[あさ天サタデー](https://ja.wikipedia.org/wiki/あさ天サタデー "wikilink")』を兼務。
+  - <sup>3</sup>　『[あさ天サタデー](../Page/あさ天サタデー.md "wikilink")』を兼務。
 
 ### 補足
 
-  - メイン・サブキャスターについては、出演当時のを含めて、小栗・金子（第2期）は日本テレビ[報道局](https://ja.wikipedia.org/wiki/報道局 "wikilink")[キャスター](../Page/ニュースキャスター.md "wikilink")、舟橋は[セント・フォース](https://ja.wikipedia.org/wiki/セント・フォース "wikilink")所属のフリー[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")、その他は日本テレビアナウンサー。平日および日曜の天気担当は気象予報士。
+  - メイン・サブキャスターについては、出演当時のを含めて、小栗・金子（第2期）は日本テレビ[報道局](../Page/報道局.md "wikilink")[キャスター](../Page/ニュースキャスター.md "wikilink")、舟橋は[セント・フォース](../Page/セント・フォース.md "wikilink")所属のフリー[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")、その他は日本テレビアナウンサー。平日および日曜の天気担当は気象予報士。
 
 ## タイムテーブル（番組終了時）
 
@@ -191,12 +191,12 @@
 <!-- end list -->
 
   - 11:52 （主に各地方の）ニュース
-  - 11:54 [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")内のニュース
+  - 11:54 [東京都](../Page/東京都.md "wikilink")内のニュース
 
 <!-- end list -->
 
   -
-    （[警視庁](../Page/警視庁.md "wikilink")[記者クラブ](https://ja.wikipedia.org/wiki/記者クラブ "wikilink")から、ない場合も）
+    （[警視庁](../Page/警視庁.md "wikilink")[記者クラブ](../Page/記者クラブ.md "wikilink")から、ない場合も）
 
 <!-- end list -->
 
@@ -205,7 +205,7 @@
 <!-- end list -->
 
   -
-    （日テレNEWS24の経済番組「まーけっとnavi」キャスターの[宮崎明日香](https://ja.wikipedia.org/wiki/宮崎明日香 "wikilink")または[加藤亜希子](https://ja.wikipedia.org/wiki/加藤亜希子 "wikilink")が担当。[東証アローズから](https://ja.wikipedia.org/wiki/東京証券取引所 "wikilink")。祝日は休止）
+    （日テレNEWS24の経済番組「まーけっとnavi」キャスターの[宮崎明日香](../Page/宮崎明日香.md "wikilink")または[加藤亜希子](../Page/加藤亜希子.md "wikilink")が担当。[東証アローズから](../Page/東京証券取引所.md "wikilink")。祝日は休止）
 
 <!-- end list -->
 
@@ -242,28 +242,28 @@
   - 日テレNEWS24は平日のみ『日テレNEWS24』『[BS日テレ](../Page/BS日本.md "wikilink")』でもサイマル放送を行っており、地上波系列局のない[沖縄県](../Page/沖縄県.md "wikilink")や[クロスネットのため地上波では放送していない](../Page/クロスネット局.md "wikilink")[大分県](../Page/大分県.md "wikilink")と[宮崎県](../Page/宮崎県.md "wikilink")でも視聴できた。
   - 地上波（日本テレビ）での放送は11:50までだが、日テレNEWS24・BS日テレでは12:00までの放送となっていた。（日本テレビ地上波が）11:48に一旦終わるが、11:50に金子キャスターのみが出て日テレNEWS24・BS日テレのパートがスタートした。
   - ニュースの内容によっては権利映像（主に海外からのスポーツニュース）が含まれているため日テレNEWS24・BS日テレではその人物（スポーツ選手など）の静止画または“日テレNEWS24”のロゴが入ったお断り画面の静止画が入る場合があり、権利映像の放送時間が長い場合は日テレNEWS24のスタジオからの放送に差し替える場合もあった。
-  - BS日テレでは、地上波同時放送の11:50まで[リアルタイム字幕放送](https://ja.wikipedia.org/wiki/リアルタイム字幕放送 "wikilink")を実施していた。BS日テレでは“[ハイビジョン番組](https://ja.wikipedia.org/wiki/ハイビジョン制作 "wikilink")”と字幕放送マークは表示されていない。なお、BS日テレで字幕放送を行うのは『NNNニュースD』のみ。
-  - BS日テレは汐留移転前までは地上波と同じく4:3の[SD画質だった](https://ja.wikipedia.org/wiki/標準画質映像 "wikilink")。[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")の汐留移転後、BS日テレと[地上デジタル放送での](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")[ハイビジョン](../Page/ハイビジョン.md "wikilink")放送がスタート。
-  - 2005年[12月29日](https://ja.wikipedia.org/wiki/12月29日 "wikilink")、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[1月4日](../Page/1月4日.md "wikilink")、[5日の放送は](../Page/1月5日.md "wikilink")11:50以降、通常の「ニュースD」のスタジオでなく「日テレNEWS24」のスタジオからの放送となった（通常の「日テレNEWS24」と同じ編成での放送、読売テレビの『ニュースD』ローカルニュース時差放送は通常通り）。
-  - 2006年[3月21日](https://ja.wikipedia.org/wiki/3月21日 "wikilink")（祝日）は、地上波で[ワールド・ベースボール・クラシック](https://ja.wikipedia.org/wiki/ワールド・ベースボール・クラシック "wikilink")決勝戦放送のため、放送時間変更・短縮し地上波のみ放送。これに伴って日テレNEWS24・BS日テレでの同時放送は休止となり、『モーニングnavi』を放送。
-  - 2006年[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink")の放送は、[村上ファンド](https://ja.wikipedia.org/wiki/村上ファンド "wikilink")の[村上世彰](https://ja.wikipedia.org/wiki/村上世彰 "wikilink")代表（当時）の記者会見の模様を生中継で放送したため、地上波のみ『NNNニュースD』として放送し、日テレNEWS24・BS日テレ（11:30 - 12:00）ではそのまま記者会見の模様を放送した。
+  - BS日テレでは、地上波同時放送の11:50まで[リアルタイム字幕放送](../Page/リアルタイム字幕放送.md "wikilink")を実施していた。BS日テレでは“[ハイビジョン番組](../Page/ハイビジョン制作.md "wikilink")”と字幕放送マークは表示されていない。なお、BS日テレで字幕放送を行うのは『NNNニュースD』のみ。
+  - BS日テレは汐留移転前までは地上波と同じく4:3の[SD画質だった](../Page/標準画質映像.md "wikilink")。[2004年](../Page/2004年.md "wikilink")の汐留移転後、BS日テレと[地上デジタル放送での](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")[ハイビジョン](../Page/ハイビジョン.md "wikilink")放送がスタート。
+  - 2005年[12月29日](../Page/12月29日.md "wikilink")、[2006年](../Page/2006年.md "wikilink")[1月4日](../Page/1月4日.md "wikilink")、[5日の放送は](../Page/1月5日.md "wikilink")11:50以降、通常の「ニュースD」のスタジオでなく「日テレNEWS24」のスタジオからの放送となった（通常の「日テレNEWS24」と同じ編成での放送、読売テレビの『ニュースD』ローカルニュース時差放送は通常通り）。
+  - 2006年[3月21日](../Page/3月21日.md "wikilink")（祝日）は、地上波で[ワールド・ベースボール・クラシック](../Page/ワールド・ベースボール・クラシック.md "wikilink")決勝戦放送のため、放送時間変更・短縮し地上波のみ放送。これに伴って日テレNEWS24・BS日テレでの同時放送は休止となり、『モーニングnavi』を放送。
+  - 2006年[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink")の放送は、[村上ファンド](../Page/村上ファンド.md "wikilink")の[村上世彰](../Page/村上世彰.md "wikilink")代表（当時）の記者会見の模様を生中継で放送したため、地上波のみ『NNNニュースD』として放送し、日テレNEWS24・BS日テレ（11:30 - 12:00）ではそのまま記者会見の模様を放送した。
       - なお、この時のEPGの番組名表記は、日テレNEWS24では『NNNニュースD』で、BS日テレでは『日テレNEWS24』だった。
   - 2005年頃（詳細時期失念・平日のみ）までは11:50になると金子が「**ここからは**『**NNN24・NTV NONSTOP NEWS**』**でお送りします**」とアナウンスした。
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")[日曜日](../Page/日曜日.md "wikilink")9:42に発生した[能登半島地震](https://ja.wikipedia.org/wiki/能登半島地震 "wikilink")では緊急特番を放送した為、通常日曜日には[サイマル放送](https://ja.wikipedia.org/wiki/サイマル放送 "wikilink")を実施しない[日テレNEWS24](https://ja.wikipedia.org/wiki/日テレNEWS24 "wikilink")でも11:40 - 11:44にサイマル放送を実施。
+  - [2007年](../Page/2007年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")[日曜日](../Page/日曜日.md "wikilink")9:42に発生した[能登半島地震](../Page/能登半島地震.md "wikilink")では緊急特番を放送した為、通常日曜日には[サイマル放送](../Page/サイマル放送.md "wikilink")を実施しない[日テレNEWS24](https://ja.wikipedia.org/wiki/日テレNEWS24 "wikilink")でも11:40 - 11:44にサイマル放送を実施。
 
 ## 地上波放送の備考
 
-  - 2006年[8月27日](../Page/8月27日.md "wikilink")及び2007年[8月19日](../Page/8月19日.md "wikilink")（いずれも[日曜日](../Page/日曜日.md "wikilink")）の放送は、『[24時間テレビ愛は地球を救う](https://ja.wikipedia.org/wiki/24時間テレビ_「愛は地球を救う」 "wikilink")』放送のため、11:17 - 11:27\[5\]の放送となり、通常は全国天気を放送しない青森放送等でも全国の天気を放送した。ただし、2006年度のみ[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")のみ、『[サンデープロジェクト](https://ja.wikipedia.org/wiki/サンデープロジェクト "wikilink")』（[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")）同時放送の関係で平常同様11:30からの録画番組だったが、2007年度放送は、一切放送なし（[撮って出し](https://ja.wikipedia.org/wiki/撮って出し "wikilink")）。
-  - 日曜日の放送は[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")4月から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")9月まで、日本テレビ他一部地域では[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")『[@サプリッ\!](https://ja.wikipedia.org/wiki/@サプリッ! "wikilink")』に内包されていた。
+  - 2006年[8月27日](../Page/8月27日.md "wikilink")及び2007年[8月19日](../Page/8月19日.md "wikilink")（いずれも[日曜日](../Page/日曜日.md "wikilink")）の放送は、『[24時間テレビ愛は地球を救う](https://ja.wikipedia.org/wiki/24時間テレビ_「愛は地球を救う」 "wikilink")』放送のため、11:17 - 11:27\[5\]の放送となり、通常は全国天気を放送しない青森放送等でも全国の天気を放送した。ただし、2006年度のみ[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")のみ、『[サンデープロジェクト](../Page/サンデープロジェクト.md "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）同時放送の関係で平常同様11:30からの録画番組だったが、2007年度放送は、一切放送なし（[撮って出し](../Page/撮って出し.md "wikilink")）。
+  - 日曜日の放送は[2004年](../Page/2004年.md "wikilink")4月から[2005年](../Page/2005年.md "wikilink")9月まで、日本テレビ他一部地域では[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")『[@サプリッ\!](../Page/@サプリッ!.md "wikilink")』に内包されていた。
 
 ## その他
 
   - 麹町時代は報道番組の殆どが使用したEスタジオで放送。汐留移転後は報道フロアから放送しており、『NNNニュースD』となってからは[CGを多用して放送するようになった](../Page/コンピュータグラフィックス.md "wikilink")。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月3日](https://ja.wikipedia.org/wiki/7月3日 "wikilink")から[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで、平日の放送では、項目テロップが日テレNEWS24で使用されている項目テロップと同一のものを使用していた（「日テレNEWS24」の部分が「NNN NEWS」に差し替えられている）。ただし、土・日曜日の放送では従来どおり項目テロップは2005年10月のリニューアル時の物を使用（平日の放送では表示と同時に効果音を付けていたが、土・日曜日の放送は効果音はなし）。2007年4月からは再び独自のテロップを使用するようになった。
+  - [2006年](../Page/2006年.md "wikilink")[7月3日](../Page/7月3日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで、平日の放送では、項目テロップが日テレNEWS24で使用されている項目テロップと同一のものを使用していた（「日テレNEWS24」の部分が「NNN NEWS」に差し替えられている）。ただし、土・日曜日の放送では従来どおり項目テロップは2005年10月のリニューアル時の物を使用（平日の放送では表示と同時に効果音を付けていたが、土・日曜日の放送は効果音はなし）。2007年4月からは再び独自のテロップを使用するようになった。
   - [2000年](../Page/2000年.md "wikilink")9月までは『[CS★日テレ](../Page/CS★日テレ.md "wikilink")』でも土・日を含めて地上波[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")と同じ時間に毎日放送されていた。
-  - ニューススタジオでキャスターの背後に透明板がある為か、カメラに位置によっては[プロンプターに映し出される文字がうっすら映っていることがあった](https://ja.wikipedia.org/wiki/プロンプター_\(電気機器\) "wikilink")。
-  - 平日は、一部ニュース映像を『[午後は○○おもいッきりテレビ](https://ja.wikipedia.org/wiki/午後は○○おもいッきりテレビ#情報特急便 "wikilink")』や『[ザ・ワイド](https://ja.wikipedia.org/wiki/ザ・ワイド "wikilink")』でも一部スーパーを差し替えて二次使用していた。
-  - [テレビ大分](https://ja.wikipedia.org/wiki/テレビ大分 "wikilink")は『[FNNスピーク](../Page/FNNスピーク.md "wikilink")』（日曜は『[産経テレニュースFNN](https://ja.wikipedia.org/wiki/産経テレニュースFNN "wikilink")』）、[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")は『[ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")』をネットのため同番組はネットしていないが、[大分県](../Page/大分県.md "wikilink")と[宮崎県](../Page/宮崎県.md "wikilink")で大事件・大事故が発生した場合はTOSとUMKが[裏送り](https://ja.wikipedia.org/wiki/裏送り "wikilink")で中継をつなぐことがあった。
+  - ニューススタジオでキャスターの背後に透明板がある為か、カメラに位置によっては[プロンプターに映し出される文字がうっすら映っていることがあった](../Page/プロンプター_\(電気機器\).md "wikilink")。
+  - 平日は、一部ニュース映像を『[午後は○○おもいッきりテレビ](https://ja.wikipedia.org/wiki/午後は○○おもいッきりテレビ#情報特急便 "wikilink")』や『[ザ・ワイド](../Page/ザ・ワイド.md "wikilink")』でも一部スーパーを差し替えて二次使用していた。
+  - [テレビ大分](../Page/テレビ大分.md "wikilink")は『[FNNスピーク](../Page/FNNスピーク.md "wikilink")』（日曜は『[産経テレニュースFNN](https://ja.wikipedia.org/wiki/産経テレニュースFNN "wikilink")』）、[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")は『[ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")』をネットのため同番組はネットしていないが、[大分県](../Page/大分県.md "wikilink")と[宮崎県](../Page/宮崎県.md "wikilink")で大事件・大事故が発生した場合はTOSとUMKが[裏送り](../Page/裏送り.md "wikilink")で中継をつなぐことがあった。
 
 ## ネット局
 
@@ -300,7 +300,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/札幌テレビ放送" title="wikilink">札幌テレビ</a>（STV）</p></td>
+<td><p><a href="../Page/札幌テレビ放送.md" title="wikilink">札幌テレビ</a>（STV）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -329,7 +329,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/山形県" title="wikilink">山形県</a></p></td>
+<td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
 <td><p><a href="../Page/山形放送.md" title="wikilink">山形放送</a>（YBC）</p></td>
 <td></td>
 <td></td>
@@ -422,7 +422,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/岡山県・香川県の放送" title="wikilink">香川県<br />
+<td><p><a href="../Page/岡山県・香川県の放送.md" title="wikilink">香川県<br />
 岡山県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/西日本放送テレビ" title="wikilink">西日本放送</a>（RNC）</p></td>
 <td></td>
@@ -441,25 +441,25 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/福岡放送.md" title="wikilink">福岡放送</a>（FBS）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/長崎県.md" title="wikilink">長崎県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/長崎国際テレビ" title="wikilink">長崎国際テレビ</a>（NIB）</p></td>
+<td><p><a href="../Page/長崎国際テレビ.md" title="wikilink">長崎国際テレビ</a>（NIB）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/熊本県" title="wikilink">熊本県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/熊本県民テレビ" title="wikilink">くまもと県民テレビ</a>（KKT）</p></td>
+<td><p><a href="../Page/熊本県民テレビ.md" title="wikilink">くまもと県民テレビ</a>（KKT）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/鹿児島県" title="wikilink">鹿児島県</a></p></td>
+<td><p><a href="../Page/鹿児島県.md" title="wikilink">鹿児島県</a></p></td>
 <td><p><a href="../Page/鹿児島讀賣テレビ.md" title="wikilink">鹿児島読売テレビ</a>（KYT）</p></td>
 <td></td>
 <td></td>
@@ -479,8 +479,8 @@
 
 ここではローカルニュースを別番組として放送している局のみを記載する。ここに記載のないものは、ローカル枠も『NNNニュースD(News D)』または『NNNニュースダッシュ』として放送。またニュース以外の番組は割愛。
 
-  - [札幌テレビ](https://ja.wikipedia.org/wiki/札幌テレビ放送 "wikilink") - STVニュースD（ただし、STVのホームページのタイムテーブルには「NNNニュースD」と記載）
-  - [青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink") - [東奥日報ニュース](https://ja.wikipedia.org/wiki/東奥日報ニュース "wikilink")（土日は独立番組・詳細は上記参照のこと）
+  - [札幌テレビ](../Page/札幌テレビ放送.md "wikilink") - STVニュースD（ただし、STVのホームページのタイムテーブルには「NNNニュースD」と記載）
+  - [青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink") - [東奥日報ニュース](../Page/東奥日報ニュース.md "wikilink")（土日は独立番組・詳細は上記参照のこと）
   - [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink") - ABSニュースD（月 - 金・エンディングのみ表記。なお、ABSのホームページのタイムテーブルには「ABSニュースD〜NNN〜」と記載）
   - [テレビ岩手](../Page/テレビ岩手.md "wikilink")-[TVIニュース](https://ja.wikipedia.org/wiki/TVIニュース "wikilink")（NNNニュースダッシュのローカルパート）
   - [山形放送](../Page/山形放送.md "wikilink") - YBCニュースD（ただし、YBCのホームページやタイムテーブルには「NNNニュースD」と記載）
@@ -488,20 +488,20 @@
   - [福島中央テレビ](../Page/福島中央テレビ.md "wikilink") - FCTニュースD
   - [テレビ新潟](../Page/テレビ新潟放送網.md "wikilink") - [TNNニュースタワー](https://ja.wikipedia.org/wiki/TNNニュースタワー "wikilink")→TeNYニュースD
   - [テレビ信州](../Page/テレビ信州.md "wikilink") - TSBニュースD
-  - [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink") - [YBSニュース](https://ja.wikipedia.org/wiki/YBSニュース "wikilink")（平日）
-  - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink") - [KNBニュース](https://ja.wikipedia.org/wiki/KNBニュース "wikilink")
-  - [テレビ金沢](../Page/テレビ金沢.md "wikilink") - [北國新聞ニュース](https://ja.wikipedia.org/wiki/北國新聞ニュース "wikilink")
-  - [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink") - [ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")（平日、11:53頃からローカルニュース）、[FBCニュース](https://ja.wikipedia.org/wiki/FBCニュース "wikilink")（週末）
-  - [西日本放送](https://ja.wikipedia.org/wiki/西日本放送テレビ "wikilink") - [RNCニュース](https://ja.wikipedia.org/wiki/RNCニュース "wikilink")（ただし、RNCのホームページのタイムテーブルには「NNNニュースD」と表記）
+  - [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink") - [YBSニュース](../Page/YBSニュース.md "wikilink")（平日）
+  - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink") - [KNBニュース](../Page/KNBニュース.md "wikilink")
+  - [テレビ金沢](../Page/テレビ金沢.md "wikilink") - [北國新聞ニュース](../Page/北國新聞ニュース.md "wikilink")
+  - [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink") - [ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")（平日、11:53頃からローカルニュース）、[FBCニュース](../Page/FBCニュース.md "wikilink")（週末）
+  - [西日本放送](https://ja.wikipedia.org/wiki/西日本放送テレビ "wikilink") - [RNCニュース](../Page/RNCニュース.md "wikilink")（ただし、RNCのホームページのタイムテーブルには「NNNニュースD」と表記）
   - [広島テレビ](../Page/広島テレビ放送.md "wikilink") - NNNニュースダッシュひろしま→広島テレビニュース（ただし、広テレのホームページのタイムテーブルや実際の番組では「NNNニュースD」と表記。）
-  - [山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink") - [KRYニュース](https://ja.wikipedia.org/wiki/KRYニュース "wikilink")
-  - [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink") - [徳島新聞ニュース](https://ja.wikipedia.org/wiki/徳島新聞ニュース "wikilink")
-  - [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink") - [なんかいNEWS](https://ja.wikipedia.org/wiki/なんかいNEWS "wikilink")（週末）
-  - [高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink") - [RKCニュース](https://ja.wikipedia.org/wiki/RKCニュース "wikilink")（日曜日）
-  - [くまもと県民テレビ](https://ja.wikipedia.org/wiki/熊本県民テレビ "wikilink") - KKTニュースダッシュ（平日）（ただし、KKTのホームページのタイムテーブルには「NNN・KKTニュースD」と記載）
+  - [山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink") - [KRYニュース](../Page/KRYニュース.md "wikilink")
+  - [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink") - [徳島新聞ニュース](../Page/徳島新聞ニュース.md "wikilink")
+  - [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink") - [なんかいNEWS](../Page/なんかいNEWS.md "wikilink")（週末）
+  - [高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink") - [RKCニュース](../Page/RKCニュース.md "wikilink")（日曜日）
+  - [くまもと県民テレビ](../Page/熊本県民テレビ.md "wikilink") - KKTニュースダッシュ（平日）（ただし、KKTのホームページのタイムテーブルには「NNN・KKTニュースD」と記載）
   - [鹿児島読売テレビ](../Page/鹿児島讀賣テレビ.md "wikilink") - KYTニュースD〜NNN（平日・エンディングのみ表記）
 
-その他、中京テレビは[2002年](../Page/2002年.md "wikilink")[9月](../Page/9月.md "wikilink")まで「ほっとてれび」（12時まで）に内包する形で放送された。その後同[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から料理番組「[ピアット](https://ja.wikipedia.org/wiki/ピアット_\(テレビ番組\) "wikilink")」をスタートさせたため、独立された。
+その他、中京テレビは[2002年](../Page/2002年.md "wikilink")[9月](../Page/9月.md "wikilink")まで「ほっとてれび」（12時まで）に内包する形で放送された。その後同[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から料理番組「[ピアット](../Page/ピアット_\(テレビ番組\).md "wikilink")」をスタートさせたため、独立された。
 
 ## 脚注・出典
 

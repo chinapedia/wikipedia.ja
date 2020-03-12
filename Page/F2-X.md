@@ -1,11 +1,11 @@
 > この記事は[F2-X](https://ja.wikipedia.org/wiki/F2-X)から翻訳されています。
 
 
-『**F2-X**』（エフツー エックス）は、[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")まで[フジテレビで](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")された[平日](https://ja.wikipedia.org/wiki/平日 "wikilink")[午後](https://ja.wikipedia.org/wiki/午後 "wikilink")の[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。
+『**F2-X**』（エフツー エックス）は、[2004年](../Page/2004年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[2005年](../Page/2005年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")まで[フジテレビで](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[生放送](../Page/生放送.md "wikilink")された[平日](../Page/平日.md "wikilink")[午後](https://ja.wikipedia.org/wiki/午後 "wikilink")の[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。
 
 ## 概要
 
-毎回、お台場・[スタジオドリームメーカー](https://ja.wikipedia.org/wiki/スタジオドリームメーカー "wikilink")より[公開放送](https://ja.wikipedia.org/wiki/公開放送 "wikilink")を行っていた。ちなみに、[F2とはテレビ業界の](https://ja.wikipedia.org/wiki/F2層 "wikilink")[視聴率](../Page/視聴率.md "wikilink")用語で主婦層を表す言葉である。番組名は、これと放送時間の午後2時とをかけている。
+毎回、お台場・[スタジオドリームメーカー](https://ja.wikipedia.org/wiki/スタジオドリームメーカー "wikilink")より[公開放送](../Page/公開放送.md "wikilink")を行っていた。ちなみに、[F2とはテレビ業界の](https://ja.wikipedia.org/wiki/F2層 "wikilink")[視聴率](../Page/視聴率.md "wikilink")用語で主婦層を表す言葉である。番組名は、これと放送時間の午後2時とをかけている。
 
 前番組に引き続き『[NEWSレインボー発](https://ja.wikipedia.org/wiki/FNNレインボー発 "wikilink")』を内包した。
 
@@ -22,7 +22,7 @@
 <!-- end list -->
 
   - [福井謙二](../Page/福井謙二.md "wikilink")（月・火・水、2004年4月～2004年9月）
-  - [福原直英](https://ja.wikipedia.org/wiki/福原直英 "wikilink")（月・火・水、2004年10月～2005年4月）
+  - [福原直英](../Page/福原直英.md "wikilink")（月・火・水、2004年10月～2005年4月）
   - [田中大貴](../Page/田中大貴.md "wikilink")（木・金）
 
 <!-- end list -->
@@ -42,8 +42,8 @@
 
   - [山中秀樹](../Page/山中秀樹.md "wikilink")
   - [木幡美子](../Page/木幡美子.md "wikilink")
-  - [阿部知代](https://ja.wikipedia.org/wiki/阿部知代 "wikilink")
-  - [藤村さおり](https://ja.wikipedia.org/wiki/藤村さおり "wikilink")
+  - [阿部知代](../Page/阿部知代.md "wikilink")
+  - [藤村さおり](../Page/藤村さおり.md "wikilink")
   - [田代尚子](https://ja.wikipedia.org/wiki/田代尚子 "wikilink")
   - [松尾紀子](../Page/松尾紀子.md "wikilink")
 
@@ -62,8 +62,8 @@
 
 <!-- end list -->
 
-  - キレイの知枝袋（レポーター：[石塚義之](https://ja.wikipedia.org/wiki/石塚義之 "wikilink")（[アリtoキリギリス](https://ja.wikipedia.org/wiki/アリtoキリギリス "wikilink")））
-  - 若見えハンター（レポーター：[モンキッキー](https://ja.wikipedia.org/wiki/モンキッキー "wikilink")）
+  - キレイの知枝袋（レポーター：[石塚義之](../Page/石塚義之.md "wikilink")（[アリtoキリギリス](../Page/アリtoキリギリス.md "wikilink")））
+  - 若見えハンター（レポーター：[モンキッキー](../Page/モンキッキー.md "wikilink")）
 
 <!-- end list -->
 
@@ -71,7 +71,7 @@
 
 <!-- end list -->
 
-  - お悩み相談\!（レポーター：[長井秀和](../Page/長井秀和.md "wikilink")、[東貴博](https://ja.wikipedia.org/wiki/東貴博 "wikilink")（[Take2](https://ja.wikipedia.org/wiki/Take2 "wikilink")））
+  - お悩み相談\!（レポーター：[長井秀和](../Page/長井秀和.md "wikilink")、[東貴博](../Page/東貴博.md "wikilink")（[Take2](../Page/Take2.md "wikilink")））
 
 <!-- end list -->
 
@@ -79,7 +79,7 @@
 
 <!-- end list -->
 
-  - 専業マダム（レポーター：[TIM](https://ja.wikipedia.org/wiki/TIM_\(お笑いコンビ\) "wikilink")）
+  - 専業マダム（レポーター：[TIM](../Page/TIM_\(お笑いコンビ\).md "wikilink")）
 
 <!-- end list -->
 
@@ -87,7 +87,7 @@
 
 <!-- end list -->
 
-  - お庭マップ（レポーター：[ますだおかだ](https://ja.wikipedia.org/wiki/ますだおかだ "wikilink")）
+  - お庭マップ（レポーター：[ますだおかだ](../Page/ますだおかだ.md "wikilink")）
 
 <!-- end list -->
 
@@ -96,17 +96,17 @@
 <!-- end list -->
 
   - 踊る\!通販（前期）
-      - 「F2ドリームズ」としてレギュラー出演していた数名のイケメンタレント（[ウエンツ瑛士](https://ja.wikipedia.org/wiki/ウエンツ瑛士 "wikilink")（[WaT](https://ja.wikipedia.org/wiki/WaT "wikilink")）など）が、往年のヒット曲に合わせてエクササイズをしつつ通信販売の商品を紹介する。2004年9月終了。
+      - 「F2ドリームズ」としてレギュラー出演していた数名のイケメンタレント（[ウエンツ瑛士](../Page/ウエンツ瑛士.md "wikilink")（[WaT](../Page/WaT.md "wikilink")）など）が、往年のヒット曲に合わせてエクササイズをしつつ通信販売の商品を紹介する。2004年9月終了。
   - 笑う\!通販（後期）
-      - 2004年10月スタート。[パペットマペット](https://ja.wikipedia.org/wiki/パペットマペット "wikilink")・[ダイノジ](https://ja.wikipedia.org/wiki/ダイノジ "wikilink")・[タカアンドトシ](https://ja.wikipedia.org/wiki/タカアンドトシ "wikilink")・[ニブンノゴ\!](https://ja.wikipedia.org/wiki/ニブンノゴ! "wikilink")・[テツandトモ](../Page/テツandトモ.md "wikilink")など若手芸人が日替わりで登場し、ネタを披露しつつ通信販売の商品を紹介する。同時に、曜日ごとの日替わりで中堅芸人がレギュラー出演するようになる。
+      - 2004年10月スタート。[パペットマペット](../Page/パペットマペット.md "wikilink")・[ダイノジ](../Page/ダイノジ.md "wikilink")・[タカアンドトシ](../Page/タカアンドトシ.md "wikilink")・[ニブンノゴ\!](../Page/ニブンノゴ!.md "wikilink")・[テツandトモ](../Page/テツandトモ.md "wikilink")など若手芸人が日替わりで登場し、ネタを披露しつつ通信販売の商品を紹介する。同時に、曜日ごとの日替わりで中堅芸人がレギュラー出演するようになる。
 
 ## スタッフ
 
-  - 構成:[鶴間政行](https://ja.wikipedia.org/wiki/鶴間政行 "wikilink")、兼上頼正、[下尾雅美](https://ja.wikipedia.org/wiki/下尾雅美 "wikilink")
+  - 構成:[鶴間政行](../Page/鶴間政行.md "wikilink")、兼上頼正、[下尾雅美](../Page/下尾雅美.md "wikilink")
   - ナレーター:うすいたかやす、多比良健他
   - 音響効果:[第一音響](https://ja.wikipedia.org/wiki/第一音響 "wikilink")
-  - 編集協力:[WELT](https://ja.wikipedia.org/wiki/スタジオヴェルト "wikilink")
-  - 制作協力:[FCC](https://ja.wikipedia.org/wiki/フジクリエイティブコーポレーション "wikilink")、[共同テレビジョン](../Page/共同テレビジョン.md "wikilink")
+  - 編集協力:[WELT](../Page/スタジオヴェルト.md "wikilink")
+  - 制作協力:[FCC](../Page/フジクリエイティブコーポレーション.md "wikilink")、[共同テレビジョン](../Page/共同テレビジョン.md "wikilink")
   - ディレクター:大角肇、鈴木道正他
   - PD：竹内康人　
   - プロデューサー:[門澤清太](https://ja.wikipedia.org/wiki/門澤清太 "wikilink")、珠光令子
@@ -114,8 +114,8 @@
 
 ## ネット局
 
-  - 前番組『[F2](https://ja.wikipedia.org/wiki/F-2_\(テレビ番組\) "wikilink")』の流れから、ネット局は[北海道文化放送](../Page/北海道文化放送.md "wikilink")・[新潟総合テレビ](../Page/NST新潟総合テレビ.md "wikilink")・[沖縄テレビだった](../Page/沖縄テレビ放送.md "wikilink")。そのうちの北海道文化放送はニュースコーナーをネットせずにCMに差し替えていた。
-  - 西日本（一部地域を除く）のフジテレビ系列局は、同時間帯に前番組『F2』及びこの『F2-X』を放送せず、[関西テレビ制作の](../Page/関西テレビ放送.md "wikilink")『[2時ワクッ\!](https://ja.wikipedia.org/wiki/2時ワクッ! "wikilink")』（2005年12月終了）を放送していた。
+  - 前番組『[F2](../Page/F-2_\(テレビ番組\).md "wikilink")』の流れから、ネット局は[北海道文化放送](../Page/北海道文化放送.md "wikilink")・[新潟総合テレビ](../Page/NST新潟総合テレビ.md "wikilink")・[沖縄テレビだった](../Page/沖縄テレビ放送.md "wikilink")。そのうちの北海道文化放送はニュースコーナーをネットせずにCMに差し替えていた。
+  - 西日本（一部地域を除く）のフジテレビ系列局は、同時間帯に前番組『F2』及びこの『F2-X』を放送せず、[関西テレビ制作の](../Page/関西テレビ放送.md "wikilink")『[2時ワクッ\!](../Page/2時ワクッ!.md "wikilink")』（2005年12月終了）を放送していた。
 
 <table>
 <caption><strong>『F2-X』ネット局と放送時間（放送終了時点）</strong></caption>
@@ -133,7 +133,7 @@
 <td><p><a href="../Page/広域放送.md" title="wikilink">関東広域圏</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ</a>（CX）<br />
 <strong>『F2-X』制作局</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フジネットワーク" title="wikilink">フジテレビ系列</a></p></td>
+<td><p><a href="../Page/フジネットワーク.md" title="wikilink">フジテレビ系列</a></p></td>
 <td><p>月 - 金曜<br />
 14:05- 15:00</p></td>
 <td><p>同時ネット</p></td>

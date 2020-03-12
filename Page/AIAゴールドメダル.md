@@ -75,7 +75,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1919年" title="wikilink">1919年</a></p></td>
+<td><p><a href="../Page/1919年.md" title="wikilink">1919年</a></p></td>
 <td><p>該当者なし</p></td>
 <td></td>
 </tr>
@@ -106,7 +106,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1925年.md" title="wikilink">1925年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エドウィン・ラッチェンス" title="wikilink">エドウィン・ラッチェンス</a></p></td>
+<td><p><a href="../Page/エドウィン・ラッチェンス.md" title="wikilink">エドウィン・ラッチェンス</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -151,7 +151,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/1933年.md" title="wikilink">1933年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ラグナル・エストベリ" title="wikilink">ラグナル・エストベリ</a></p></td>
+<td><p><a href="../Page/ラグナル・エストベリ.md" title="wikilink">ラグナル・エストベリ</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -207,7 +207,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1944年.md" title="wikilink">1944年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ルイス・サリヴァン" title="wikilink">ルイス・サリヴァン</a></p></td>
+<td><p><a href="../Page/ルイス・サリヴァン.md" title="wikilink">ルイス・サリヴァン</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -222,7 +222,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/1947年.md" title="wikilink">1947年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エリエル・サーリネン" title="wikilink">エリエル・サーリネン</a></p></td>
+<td><p><a href="../Page/エリエル・サーリネン.md" title="wikilink">エリエル・サーリネン</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -248,7 +248,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1952年.md" title="wikilink">1952年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オーギュスト・ペレ" title="wikilink">オーギュスト・ペレ</a></p></td>
+<td><p><a href="../Page/オーギュスト・ペレ.md" title="wikilink">オーギュスト・ペレ</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -288,7 +288,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1959年.md" title="wikilink">1959年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヴァルター・グロピウス" title="wikilink">ヴァルター・グロピウス</a></p></td>
+<td><p><a href="../Page/ヴァルター・グロピウス.md" title="wikilink">ヴァルター・グロピウス</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -335,7 +335,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1968年" title="wikilink">1968年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マルセル・ブロイヤー" title="wikilink">マルセル・ブロイヤー</a></p></td>
+<td><p><a href="../Page/マルセル・ブロイヤー.md" title="wikilink">マルセル・ブロイヤー</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -344,7 +344,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1970年" title="wikilink">1970年</a></p></td>
+<td><p><a href="../Page/1970年.md" title="wikilink">1970年</a></p></td>
 <td><p><a href="../Page/バックミンスター・フラー.md" title="wikilink">バックミンスター・フラー</a></p></td>
 <td></td>
 </tr>
@@ -374,23 +374,23 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1976年" title="wikilink">1976年</a></p></td>
+<td><p><a href="../Page/1976年.md" title="wikilink">1976年</a></p></td>
 <td><p>該当者なし</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1977年.md" title="wikilink">1977年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/リチャード・ノイトラ" title="wikilink">リチャード・ノイトラ</a></p></td>
+<td><p><a href="../Page/リチャード・ノイトラ.md" title="wikilink">リチャード・ノイトラ</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1978年" title="wikilink">1978年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フィリップ・ジョンソン" title="wikilink">フィリップ・ジョンソン</a></p></td>
+<td><p><a href="../Page/フィリップ・ジョンソン.md" title="wikilink">フィリップ・ジョンソン</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1979年.md" title="wikilink">1979年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/イオ・ミン・ペイ" title="wikilink">イオ・ミン・ペイ</a></p></td>
+<td><p><a href="../Page/イオ・ミン・ペイ.md" title="wikilink">イオ・ミン・ペイ</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -399,7 +399,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1981年" title="wikilink">1981年</a></p></td>
+<td><p><a href="../Page/1981年.md" title="wikilink">1981年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ホセ・ルイ・セルト" title="wikilink">ホセ・ルイ・セルト</a></p></td>
 <td></td>
 </tr>
@@ -450,28 +450,28 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1991年" title="wikilink">1991年</a></p></td>
+<td><p><a href="../Page/1991年.md" title="wikilink">1991年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/チャールズ・ムーア_(建築家)" title="wikilink">チャールズ・ムーア</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1992年" title="wikilink">1992年</a></p></td>
+<td><p><a href="../Page/1992年.md" title="wikilink">1992年</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1993年.md" title="wikilink">1993年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ケヴィン・ローチ" title="wikilink">ケヴィン・ローチ</a></p></td>
+<td><p><a href="../Page/ケヴィン・ローチ.md" title="wikilink">ケヴィン・ローチ</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/1994年.md" title="wikilink">1994年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ノーマン・フォスター" title="wikilink">ノーマン・フォスター</a></p></td>
+<td><p><a href="../Page/ノーマン・フォスター.md" title="wikilink">ノーマン・フォスター</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/1995年" title="wikilink">1995年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シーザー・ペリ" title="wikilink">シーザー・ペリ</a></p></td>
+<td><p><a href="../Page/シーザー・ペリ.md" title="wikilink">シーザー・ペリ</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -481,7 +481,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/1997年" title="wikilink">1997年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/リチャード・マイヤー" title="wikilink">リチャード・マイヤー</a></p></td>
+<td><p><a href="../Page/リチャード・マイヤー.md" title="wikilink">リチャード・マイヤー</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -491,7 +491,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1999年.md" title="wikilink">1999年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フランク・ゲーリー" title="wikilink">フランク・ゲーリー</a></p></td>
+<td><p><a href="../Page/フランク・ゲーリー.md" title="wikilink">フランク・ゲーリー</a></p></td>
 <td><p><br />
 </p></td>
 </tr>
@@ -502,7 +502,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2001年.md" title="wikilink">2001年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マイケル・グレイヴス" title="wikilink">マイケル・グレイヴス</a></p></td>
+<td><p><a href="../Page/マイケル・グレイヴス.md" title="wikilink">マイケル・グレイヴス</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -516,22 +516,22 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2004年" title="wikilink">2004年</a></p></td>
+<td><p><a href="../Page/2004年.md" title="wikilink">2004年</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サンティアゴ・カラトラバ" title="wikilink">サンティアゴ・カラトラバ</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
+<td><p><a href="../Page/サンティアゴ・カラトラバ.md" title="wikilink">サンティアゴ・カラトラバ</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -542,7 +542,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2009年.md" title="wikilink">2009年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/グレン・マーカット" title="wikilink">グレン・マーカット</a></p></td>
+<td><p><a href="../Page/グレン・マーカット.md" title="wikilink">グレン・マーカット</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -552,17 +552,17 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2011年.md" title="wikilink">2011年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/槇文彦" title="wikilink">槇文彦</a></p></td>
+<td><p><a href="../Page/槇文彦.md" title="wikilink">槇文彦</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2012年.md" title="wikilink">2012年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スティーヴン・ホール" title="wikilink">スティーヴン・ホール</a></p></td>
+<td><p><a href="../Page/スティーヴン・ホール.md" title="wikilink">スティーヴン・ホール</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2013年.md" title="wikilink">2013年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トム・メイン" title="wikilink">トム・メイン</a></p></td>
+<td><p><a href="../Page/トム・メイン.md" title="wikilink">トム・メイン</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -580,7 +580,7 @@
 <tr class="even">
 <td><p><a href="../Page/2016年.md" title="wikilink">2016年</a></p></td>
 <td><p><br />
-<a href="https://ja.wikipedia.org/wiki/ロバート・ヴェンチューリ" title="wikilink">ロバート・ヴェンチューリ</a></p></td>
+<a href="../Page/ロバート・ヴェンチューリ.md" title="wikilink">ロバート・ヴェンチューリ</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -595,7 +595,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2019年.md" title="wikilink">2019年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/リチャード・ロジャース_(建築家)" title="wikilink">リチャード・ロジャース</a></p></td>
+<td><p><a href="../Page/リチャード・ロジャース_(建築家).md" title="wikilink">リチャード・ロジャース</a></p></td>
 <td></td>
 </tr>
 </tbody>

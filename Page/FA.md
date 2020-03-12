@@ -12,15 +12,15 @@
   - フリーエージェント（）
       - [フリーエージェント (プロスポーツ)](../Page/フリーエージェント_\(プロスポーツ\).md "wikilink")
       - [フリーエージェント (日本プロ野球)](https://ja.wikipedia.org/wiki/フリーエージェント_\(日本プロ野球\) "wikilink")
-  - [ファクトリーオートメーション](https://ja.wikipedia.org/wiki/ファクトリーオートメーション "wikilink")（）
+  - [ファクトリーオートメーション](../Page/ファクトリーオートメーション.md "wikilink")（）
   - ファイナンシャルアドバイザー（）
-  - [フライトアテンダント](https://ja.wikipedia.org/wiki/客室乗務員 "wikilink")（）
-  - [有限オートマトン](https://ja.wikipedia.org/wiki/有限オートマトン "wikilink")（）
+  - [フライトアテンダント](../Page/客室乗務員.md "wikilink")（）
+  - [有限オートマトン](../Page/有限オートマトン.md "wikilink")（）
   - [脂肪酸](../Page/脂肪酸.md "wikilink")（）
 
 ### 固有名詞
 
-  - [イングランドサッカー協会](https://ja.wikipedia.org/wiki/フットボール・アソシエーション "wikilink")（）
+  - [イングランドサッカー協会](../Page/フットボール・アソシエーション.md "wikilink")（）
 
 <!-- end list -->
 
@@ -29,17 +29,17 @@
 <!-- end list -->
 
   - コンピュータゲームのタイトル
-      - [FRONT MISSION ALTERNATIVE](https://ja.wikipedia.org/wiki/FRONT_MISSION_ALTERNATIVE "wikilink") - 公式で使用している略称。
-      - [FORTUNE ARTERIAL](https://ja.wikipedia.org/wiki/FORTUNE_ARTERIAL "wikilink") - [オーガストが発売したアダルトゲーム](../Page/オーガスト_\(ブランド\).md "wikilink")
+      - [FRONT MISSION ALTERNATIVE](../Page/FRONT_MISSION_ALTERNATIVE.md "wikilink") - 公式で使用している略称。
+      - [FORTUNE ARTERIAL](../Page/FORTUNE_ARTERIAL.md "wikilink") - [オーガストが発売したアダルトゲーム](../Page/オーガスト_\(ブランド\).md "wikilink")
       - [アーマード・コア フォーアンサー](https://ja.wikipedia.org/wiki/アーマード・コア_フォーアンサー "wikilink")（） - 「**fA**」と通称される
   - アニメーション作品のタイトル
-      - [鋼の錬金術師 FULLMETAL ALCHEMIST](https://ja.wikipedia.org/wiki/鋼の錬金術師_FULLMETAL_ALCHEMIST "wikilink") - [原作などの作品と区別する意味合いで使われる](https://ja.wikipedia.org/wiki/鋼の錬金術師 "wikilink")。
+      - [鋼の錬金術師 FULLMETAL ALCHEMIST](https://ja.wikipedia.org/wiki/鋼の錬金術師_FULLMETAL_ALCHEMIST "wikilink") - [原作などの作品と区別する意味合いで使われる](../Page/鋼の錬金術師.md "wikilink")。
 
 ## コード・形式名
 
 ### コード
 
-  - [国際標準化機構](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")の[言語コード](https://ja.wikipedia.org/wiki/ISO_639 "wikilink")（ISO 639-1）で、**[ペルシア語](https://ja.wikipedia.org/wiki/ペルシア語 "wikilink")**（Farsi）を示す。
+  - [国際標準化機構](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")の[言語コード](../Page/ISO_639.md "wikilink")（ISO 639-1）で、**[ペルシア語](https://ja.wikipedia.org/wiki/ペルシア語 "wikilink")**（Farsi）を示す。
 
 ### 形式名
 
@@ -58,7 +58,7 @@
 
 ## 関連項目
 
-  - [ラテン文字のアルファベット二文字組み合わせの一覧](https://ja.wikipedia.org/wiki/ラテン文字のアルファベット二文字組み合わせの一覧 "wikilink")
+  - [ラテン文字のアルファベット二文字組み合わせの一覧](../Page/ラテン文字のアルファベット二文字組み合わせの一覧.md "wikilink")
 
   -
   -

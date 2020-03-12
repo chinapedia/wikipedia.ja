@@ -1,9 +1,9 @@
 > この記事は[CATV](https://ja.wikipedia.org/wiki/CATV)から翻訳されています。
 
 
-**国府町CATV**（こくふちょうシーエイティーブイ）は、[徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")[徳島市](https://ja.wikipedia.org/wiki/徳島市 "wikilink")のうち、[国府町](https://ja.wikipedia.org/wiki/国府町_\(徳島県\) "wikilink")（旧名東郡国府町域）を中心とするエリアで[テレビ](../Page/テレビ.md "wikilink")放送配信およびインターネット接続事業を手がける[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局である。
+**国府町CATV**（こくふちょうシーエイティーブイ）は、[徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")[徳島市](../Page/徳島市.md "wikilink")のうち、[国府町](../Page/国府町_\(徳島県\).md "wikilink")（旧名東郡国府町域）を中心とするエリアで[テレビ](../Page/テレビ.md "wikilink")放送配信およびインターネット接続事業を手がける[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局である。
 
-国府町以外の徳島市内では、[入田町](https://ja.wikipedia.org/wiki/入田町 "wikilink")、[一宮町](https://ja.wikipedia.org/wiki/一宮町_\(徳島市\) "wikilink")、[下町](https://ja.wikipedia.org/wiki/下町_\(徳島市\) "wikilink")、[不動地区](https://ja.wikipedia.org/wiki/不動地区 "wikilink")をエリアとしている。これ以外は[テレビ徳島が担当](https://ja.wikipedia.org/wiki/テレビトクシマ "wikilink")。正式名称は**国府町農事放送農業協同組合**。
+国府町以外の徳島市内では、[入田町](../Page/入田町.md "wikilink")、[一宮町](https://ja.wikipedia.org/wiki/一宮町_\(徳島市\) "wikilink")、[下町](https://ja.wikipedia.org/wiki/下町_\(徳島市\) "wikilink")、[不動地区](../Page/不動地区.md "wikilink")をエリアとしている。これ以外は[テレビ徳島が担当](https://ja.wikipedia.org/wiki/テレビトクシマ "wikilink")。正式名称は**国府町農事放送農業協同組合**。
 
 略称はKBCだが、同じKBCの略称がある[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")とは無関係である。
 
@@ -11,7 +11,7 @@
 
 1960年前後に旧名東郡国府町で有線電話事業を展開し、農産物の市況や地域情報を専用電話機から配信していた。[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")事業に関しては、農村地域にもかかわらず政府の[モデル事業](https://ja.wikipedia.org/wiki/モデル事業 "wikilink")に指定されたためサービス開始が比較的早く、1980年代後半には国府町で[テレビ](../Page/テレビ.md "wikilink")映像・FM音声信号の配信を開始。大阪方面からの[テレビ](../Page/テレビ.md "wikilink")電波の受信状況が劇的に改善された。
 
-その後、ケーブルテレビ空白地域だった[徳島市](https://ja.wikipedia.org/wiki/徳島市 "wikilink")内の隣接地域にサービスエリアを拡大した。現在では[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")接続事業も手がける。なお、農事放送を目的に設立された組合であるため、現在も市況や地域情報を配信している。
+その後、ケーブルテレビ空白地域だった[徳島市](../Page/徳島市.md "wikilink")内の隣接地域にサービスエリアを拡大した。現在では[インターネット](../Page/インターネット.md "wikilink")接続事業も手がける。なお、農事放送を目的に設立された組合であるため、現在も市況や地域情報を配信している。
 
 ## 所在地
 
@@ -19,7 +19,7 @@
 
 ## サービスエリア
 
-  - [徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")[徳島市](https://ja.wikipedia.org/wiki/徳島市 "wikilink")国府町・入田町・一宮町・下町・不動
+  - [徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")[徳島市](../Page/徳島市.md "wikilink")国府町・入田町・一宮町・下町・不動
 
 ## 主な放送チャンネル
 
@@ -40,10 +40,10 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK徳島放送局" title="wikilink">NHK総合(徳島)</a></p></td>
+<td><p><a href="../Page/NHK徳島放送局.md" title="wikilink">NHK総合(徳島)</a></p></td>
 <td><p>NHKEテレ(徳島)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/四国放送" title="wikilink">四国放送</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/朝日放送テレビ" title="wikilink">朝日放送テレビ</a></p></td>
+<td><p><a href="../Page/朝日放送テレビ.md" title="wikilink">朝日放送テレビ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/MBSテレビ" title="wikilink">毎日放送</a></p></td>
 <td><p><a href="../Page/テレビ大阪.md" title="wikilink">テレビ大阪</a></p></td>
 <td><p><a href="../Page/関西テレビ放送.md" title="wikilink">関西テレビ</a></p></td>
@@ -69,11 +69,11 @@
 </tr>
 <tr class="even">
 <td><p>TV021</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK徳島放送局" title="wikilink">NHK徳島</a><a href="https://ja.wikipedia.org/wiki/NHK教育テレビジョン" title="wikilink">Eテレ</a></p></td>
+<td><p><a href="../Page/NHK徳島放送局.md" title="wikilink">NHK徳島</a><a href="../Page/NHK教育テレビジョン.md" title="wikilink">Eテレ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>TV031-0</p></td>
-<td><p>NHK徳島<a href="https://ja.wikipedia.org/wiki/NHK総合テレビジョン" title="wikilink">総合</a></p></td>
+<td><p>NHK徳島<a href="../Page/NHK総合テレビジョン.md" title="wikilink">総合</a></p></td>
 </tr>
 <tr class="even">
 <td><p>TV031-1</p></td>
@@ -89,7 +89,7 @@
 </tr>
 <tr class="odd">
 <td><p>TV061　</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/朝日放送テレビ" title="wikilink">朝日放送テレビ</a></p></td>
+<td><p><a href="../Page/朝日放送テレビ.md" title="wikilink">朝日放送テレビ</a></p></td>
 </tr>
 <tr class="even">
 <td><p>TV071</p></td>
@@ -113,7 +113,7 @@
 </tr>
 <tr class="odd">
 <td><p>BS101</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK_BS1" title="wikilink">NHK BS1</a></p></td>
+<td><p><a href="../Page/NHK_BS1.md" title="wikilink">NHK BS1</a></p></td>
 </tr>
 <tr class="even">
 <td><p>BS103</p></td>
@@ -153,7 +153,7 @@
 </tr>
 <tr class="odd">
 <td><p>BS200</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スター・チャンネル" title="wikilink">スター・チャンネル</a>1</p></td>
+<td><p><a href="../Page/スター・チャンネル.md" title="wikilink">スター・チャンネル</a>1</p></td>
 </tr>
 <tr class="even">
 <td><p>210</p></td>
@@ -177,15 +177,15 @@
 </tr>
 <tr class="odd">
 <td><p>217</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ゴルフネットワーク" title="wikilink">ゴルフネットワーク</a></p></td>
+<td><p><a href="../Page/ゴルフネットワーク.md" title="wikilink">ゴルフネットワーク</a></p></td>
 </tr>
 <tr class="even">
 <td><p>220</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ムービープラス" title="wikilink">ムービープラス</a></p></td>
+<td><p><a href="../Page/ムービープラス.md" title="wikilink">ムービープラス</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>221</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日本映画専門チャンネル" title="wikilink">日本映画専門チャンネル</a></p></td>
+<td><p><a href="../Page/日本映画専門チャンネル.md" title="wikilink">日本映画専門チャンネル</a></p></td>
 </tr>
 <tr class="even">
 <td><p>223</p></td>
@@ -193,15 +193,15 @@
 </tr>
 <tr class="odd">
 <td><p>225</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東映チャンネル" title="wikilink">東映チャンネル</a></p></td>
+<td><p><a href="../Page/東映チャンネル.md" title="wikilink">東映チャンネル</a></p></td>
 </tr>
 <tr class="even">
 <td><p>226</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/衛星劇場" title="wikilink">衛星劇場</a></p></td>
+<td><p><a href="../Page/衛星劇場.md" title="wikilink">衛星劇場</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>227</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スター・チャンネル" title="wikilink">スター・チャンネル</a>1</p></td>
+<td><p><a href="../Page/スター・チャンネル.md" title="wikilink">スター・チャンネル</a>1</p></td>
 </tr>
 <tr class="even">
 <td><p>228</p></td>
@@ -213,31 +213,31 @@
 </tr>
 <tr class="even">
 <td><p>232</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/AXN" title="wikilink">AXN</a></p></td>
+<td><p><a href="../Page/AXN.md" title="wikilink">AXN</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>233</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FOXチャンネル" title="wikilink">FOX</a></p></td>
+<td><p><a href="../Page/FOXチャンネル.md" title="wikilink">FOX</a></p></td>
 </tr>
 <tr class="even">
 <td><p>234</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/時代劇専門チャンネル" title="wikilink">時代劇専門チャンネル</a></p></td>
+<td><p><a href="../Page/時代劇専門チャンネル.md" title="wikilink">時代劇専門チャンネル</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>235</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/LaLa_TV" title="wikilink">LaLa TV</a></p></td>
+<td><p><a href="../Page/LaLa_TV.md" title="wikilink">LaLa TV</a></p></td>
 </tr>
 <tr class="even">
 <td><p>236</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アニマルプラネット" title="wikilink">アニマルプラネット</a></p></td>
+<td><p><a href="../Page/アニマルプラネット.md" title="wikilink">アニマルプラネット</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>241</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アニマックス" title="wikilink">アニマックス</a></p></td>
+<td><p><a href="../Page/アニマックス.md" title="wikilink">アニマックス</a></p></td>
 </tr>
 <tr class="even">
 <td><p>242</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/キッズステーション" title="wikilink">キッズステーション</a></p></td>
+<td><p><a href="../Page/キッズステーション.md" title="wikilink">キッズステーション</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>245</p></td>
@@ -245,7 +245,7 @@
 </tr>
 <tr class="even">
 <td><p>248</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/チャンネル銀河" title="wikilink">チャンネル銀河</a></p></td>
+<td><p><a href="../Page/チャンネル銀河.md" title="wikilink">チャンネル銀河</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>251</p></td>
@@ -253,7 +253,7 @@
 </tr>
 <tr class="even">
 <td><p>256</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ディスカバリーチャンネル" title="wikilink">ディスカバリーチャンネル</a></p></td>
+<td><p><a href="../Page/ディスカバリーチャンネル.md" title="wikilink">ディスカバリーチャンネル</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>259</p></td>
@@ -261,27 +261,27 @@
 </tr>
 <tr class="even">
 <td><p>261</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/MUSIC_ON!_TV" title="wikilink">MUSIC ON! TV</a></p></td>
+<td><p><a href="../Page/MUSIC_ON!_TV.md" title="wikilink">MUSIC ON! TV</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>262</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スペースシャワーTV" title="wikilink">スペースシャワーTV</a></p></td>
+<td><p><a href="../Page/スペースシャワーTV.md" title="wikilink">スペースシャワーTV</a></p></td>
 </tr>
 <tr class="even">
 <td><p>264</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/歌謡ポップスチャンネル" title="wikilink">歌謡ポップスチャンネル</a></p></td>
+<td><p><a href="../Page/歌謡ポップスチャンネル.md" title="wikilink">歌謡ポップスチャンネル</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>270</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/囲碁・将棋チャンネル" title="wikilink">囲碁・将棋チャンネル</a></p></td>
+<td><p><a href="../Page/囲碁・将棋チャンネル.md" title="wikilink">囲碁・将棋チャンネル</a></p></td>
 </tr>
 <tr class="even">
 <td><p>271</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ショップチャンネル" title="wikilink">ショップチャンネル</a></p></td>
+<td><p><a href="../Page/ショップチャンネル.md" title="wikilink">ショップチャンネル</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>272</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/QVC" title="wikilink">QVC</a></p></td>
+<td><p><a href="../Page/QVC.md" title="wikilink">QVC</a></p></td>
 </tr>
 <tr class="even">
 <td><p>274</p></td>
@@ -289,11 +289,11 @@
 </tr>
 <tr class="odd">
 <td><p>276</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/釣りビジョン" title="wikilink">釣りビジョン</a></p></td>
+<td><p><a href="../Page/釣りビジョン.md" title="wikilink">釣りビジョン</a></p></td>
 </tr>
 <tr class="even">
 <td><p>277</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/旅チャンネル" title="wikilink">旅チャンネル</a></p></td>
+<td><p><a href="../Page/旅チャンネル.md" title="wikilink">旅チャンネル</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>280</p></td>
@@ -309,23 +309,23 @@
 </tr>
 <tr class="even">
 <td><p>285</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/グリーンチャンネル" title="wikilink">グリーンチャンネル</a></p></td>
+<td><p><a href="../Page/グリーンチャンネル.md" title="wikilink">グリーンチャンネル</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>286</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/グリーンチャンネル" title="wikilink">グリーンチャンネル</a>2</p></td>
+<td><p><a href="../Page/グリーンチャンネル.md" title="wikilink">グリーンチャンネル</a>2</p></td>
 </tr>
 <tr class="even">
 <td><p>287</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日本レジャーチャンネル" title="wikilink">レジャーチャンネル</a></p></td>
+<td><p><a href="../Page/日本レジャーチャンネル.md" title="wikilink">レジャーチャンネル</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>290</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プレイボーイチャンネル" title="wikilink">プレイボーイチャンネル</a></p></td>
+<td><p><a href="../Page/プレイボーイチャンネル.md" title="wikilink">プレイボーイチャンネル</a></p></td>
 </tr>
 <tr class="even">
 <td><p>292</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レインボーチャンネル" title="wikilink">レインボーチャンネル</a></p></td>
+<td><p><a href="../Page/レインボーチャンネル.md" title="wikilink">レインボーチャンネル</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>293</p></td>
@@ -333,28 +333,28 @@
 </tr>
 <tr class="even">
 <td><p>310</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/鳴門競艇場" title="wikilink">鳴門競艇</a><br />
+<td><p><a href="../Page/鳴門競艇場.md" title="wikilink">鳴門競艇</a><br />
 <a href="https://ja.wikipedia.org/wiki/MALL_OF_TV" title="wikilink">MALL OF TV</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>313</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日本レジャーチャンネル" title="wikilink">レジャーチャンネル3</a></p></td>
+<td><p><a href="../Page/日本レジャーチャンネル.md" title="wikilink">レジャーチャンネル3</a></p></td>
 </tr>
 <tr class="even">
 <td><p>314</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日本レジャーチャンネル" title="wikilink">レジャーチャンネル4</a></p></td>
+<td><p><a href="../Page/日本レジャーチャンネル.md" title="wikilink">レジャーチャンネル4</a></p></td>
 </tr>
 </tbody>
 </table>
 
-  - デジタル放送は[i-HITSを使用している](https://ja.wikipedia.org/wiki/アイ・ヒッツ "wikilink")。
+  - デジタル放送は[i-HITSを使用している](../Page/アイ・ヒッツ.md "wikilink")。
   - デジタル再送信の要望を取り下げる見返り措置として、デジアナ変換によるよみうりテレビの再送信が2015年3月末まで実施される。\[1\]
   - デジアナ変換サービスは2015年3月31日で終了、但し四国放送およびNHKについては統一地方選挙（徳島県）の政見放送に対応するため、4月末まで放送
 
 ## 関連項目
 
   - [ケーブルテレビ局の一覧](../Page/ケーブルテレビ局の一覧.md "wikilink")
-  - [区域外再放送](https://ja.wikipedia.org/wiki/区域外再放送 "wikilink")
+  - [区域外再放送](../Page/区域外再放送.md "wikilink")
 
 ## 脚注
 

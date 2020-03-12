@@ -3,15 +3,15 @@
 
 **マツダSC**（マツダえすしー）は、[広島県](../Page/広島県.md "wikilink")を拠点とする、自動車メーカー[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")の[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")部である。
 
-前身は[日本サッカーリーグ](../Page/日本サッカーリーグ.md "wikilink")1部などに所属していた[マツダSC](https://ja.wikipedia.org/wiki/東洋工業サッカー部 "wikilink")（旧・東洋工業、現・[サンフレッチェ広島](https://ja.wikipedia.org/wiki/サンフレッチェ広島 "wikilink")）の[サテライト](https://ja.wikipedia.org/wiki/サテライト "wikilink")チーム、**マツダSC東洋クラブ**。
+前身は[日本サッカーリーグ](../Page/日本サッカーリーグ.md "wikilink")1部などに所属していた[マツダSC](../Page/東洋工業サッカー部.md "wikilink")（旧・東洋工業、現・[サンフレッチェ広島](https://ja.wikipedia.org/wiki/サンフレッチェ広島 "wikilink")）の[サテライト](../Page/サテライト.md "wikilink")チーム、**マツダSC東洋クラブ**。
 
 ## 概要
 
 1966年、[広島県リーグ発足に伴い](../Page/広島県社会人サッカーリーグ.md "wikilink")、JSL・東洋工業の2軍として創部。1軍を引退したOB選手、および1軍の若手が選手登録されていた。若手はここで経験を積ませ、ある程度認められるとトップチームである東洋工業に登録される流れになっていた。当時のチーム名は「東洋工業B」あるいは「東洋工業クラブ」。東洋工業のコーチやマネージャー、若手にくわえ、当時は今ほど選手登録に厳しくなかったため、1軍である東洋工業選手が調整としてプレーしていた。
 
-1984年から[中国サッカーリーグ](https://ja.wikipedia.org/wiki/中国サッカーリーグ "wikilink")に昇格。 1980年代に入ると、トップチームのマツダSCには地方のハンデキャップから有力な大学生新人がほとんど来ない状況となっていた（地元広島出身の[金田喜稔](https://ja.wikipedia.org/wiki/金田喜稔 "wikilink")・[木村和司](../Page/木村和司.md "wikilink")らが来なかった）が、ここで育てられた若手がのちに1993年の[Jリーグ開幕とともにサンフレッチェ広島で主力となることとなる](../Page/日本プロサッカーリーグ.md "wikilink")。
+1984年から[中国サッカーリーグ](../Page/中国サッカーリーグ.md "wikilink")に昇格。 1980年代に入ると、トップチームのマツダSCには地方のハンデキャップから有力な大学生新人がほとんど来ない状況となっていた（地元広島出身の[金田喜稔](../Page/金田喜稔.md "wikilink")・[木村和司](../Page/木村和司.md "wikilink")らが来なかった）が、ここで育てられた若手がのちに1993年の[Jリーグ開幕とともにサンフレッチェ広島で主力となることとなる](../Page/日本プロサッカーリーグ.md "wikilink")。
 
-1992年、マツダSCを母体としてサンフレッチェ広島が誕生。マツダSC東洋は「新生」マツダSCとして[宗政潤一郎](https://ja.wikipedia.org/wiki/宗政潤一郎 "wikilink")を監督に中国社会人リーグに登録。1990年代中期にはサンフレッチェ広島を戦力外となった選手も所属しており、1996年からの3連覇を含め5回優勝し、[全国地域リーグ決勝大会に出場していた](https://ja.wikipedia.org/wiki/全国地域サッカーチャンピオンズリーグ "wikilink")。
+1992年、マツダSCを母体としてサンフレッチェ広島が誕生。マツダSC東洋は「新生」マツダSCとして[宗政潤一郎](https://ja.wikipedia.org/wiki/宗政潤一郎 "wikilink")を監督に中国社会人リーグに登録。1990年代中期にはサンフレッチェ広島を戦力外となった選手も所属しており、1996年からの3連覇を含め5回優勝し、[全国地域リーグ決勝大会に出場していた](../Page/全国地域サッカーチャンピオンズリーグ.md "wikilink")。
 
 ## チーム成績・歴代監督
 
@@ -55,7 +55,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/1984年の地域リーグ_(サッカー)#中国" title="wikilink">1984</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中国サッカーリーグ" title="wikilink">中国</a></p></td>
+<td><p><a href="../Page/中国サッカーリーグ.md" title="wikilink">中国</a></p></td>
 <td><p>7位</p></td>
 <td><p>7</p></td>
 <td><p>14</p></td>
@@ -569,13 +569,13 @@
 </tbody>
 </table>
 
-注:ここでいうトップとは[東洋工業サッカー部](https://ja.wikipedia.org/wiki/東洋工業サッカー部 "wikilink")を指す。
+注:ここでいうトップとは[東洋工業サッカー部](../Page/東洋工業サッカー部.md "wikilink")を指す。
 
 ## タイトル
 
 ### リーグ戦
 
-  - **[中国サッカーリーグ](https://ja.wikipedia.org/wiki/中国サッカーリーグ "wikilink")：9回**
+  - **[中国サッカーリーグ](../Page/中国サッカーリーグ.md "wikilink")：9回**
 
 ## チーム名変遷
 
@@ -586,17 +586,17 @@
 ## 歴代監督
 
   - 1990年 - 1999年 : [宗政潤一郎](https://ja.wikipedia.org/wiki/宗政潤一郎 "wikilink")
-  - 1999年 - 2000年 : [上原洋史](https://ja.wikipedia.org/wiki/上原洋史 "wikilink")
+  - 1999年 - 2000年 : [上原洋史](../Page/上原洋史.md "wikilink")
 
 ## 主な在籍経験選手
 
 ## 関連項目
 
-  - [サンフレッチェ広島](https://ja.wikipedia.org/wiki/サンフレッチェ広島 "wikilink") (現在のチームにおいての、かつてのトップチーム。[旧・マツダSCが前身](https://ja.wikipedia.org/wiki/東洋工業サッカー部 "wikilink")。)
-  - [マツダオート広島サッカー部](https://ja.wikipedia.org/wiki/マツダオート広島サッカー部 "wikilink")
-  - [ヤンマークラブ](https://ja.wikipedia.org/wiki/ヤンマークラブ "wikilink")
-  - [読売サッカークラブ・ジュニオール](https://ja.wikipedia.org/wiki/読売サッカークラブ・ジュニオール "wikilink")
-  - [マツダブルーズーマーズ](https://ja.wikipedia.org/wiki/マツダブルーズーマーズ "wikilink")
+  - [サンフレッチェ広島](https://ja.wikipedia.org/wiki/サンフレッチェ広島 "wikilink") (現在のチームにおいての、かつてのトップチーム。[旧・マツダSCが前身](../Page/東洋工業サッカー部.md "wikilink")。)
+  - [マツダオート広島サッカー部](../Page/マツダオート広島サッカー部.md "wikilink")
+  - [ヤンマークラブ](../Page/ヤンマークラブ.md "wikilink")
+  - [読売サッカークラブ・ジュニオール](../Page/読売サッカークラブ・ジュニオール.md "wikilink")
+  - [マツダブルーズーマーズ](../Page/マツダブルーズーマーズ.md "wikilink")
 
 ## 参考資料
 

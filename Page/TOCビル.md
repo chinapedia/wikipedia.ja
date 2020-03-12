@@ -1,15 +1,15 @@
 > この記事は[TOC](https://ja.wikipedia.org/wiki/TOC)から翻訳されています。
 
 
-**TOCビル**（テーオーシービル）は、株式会社[テーオーシー](../Page/テーオーシー.md "wikilink")が経営し、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[品川区](https://ja.wikipedia.org/wiki/品川区 "wikilink")[西五反田](https://ja.wikipedia.org/wiki/西五反田 "wikilink")7丁目に位置する、[商業施設](https://ja.wikipedia.org/wiki/店 "wikilink")・[コンベンションセンター](https://ja.wikipedia.org/wiki/コンベンションセンター "wikilink")等の複合施設である。
+**TOCビル**（テーオーシービル）は、株式会社[テーオーシー](../Page/テーオーシー.md "wikilink")が経営し、[東京都](../Page/東京都.md "wikilink")[品川区](https://ja.wikipedia.org/wiki/品川区 "wikilink")[西五反田](https://ja.wikipedia.org/wiki/西五反田 "wikilink")7丁目に位置する、[商業施設](../Page/店.md "wikilink")・[コンベンションセンター](https://ja.wikipedia.org/wiki/コンベンションセンター "wikilink")等の複合施設である。
 
 五反田TOC（ビル）とも呼ばれる。なお、TOCとは「東京卸売センター」の略称である。
 
 ## 施設概要
 
-[星製薬](https://ja.wikipedia.org/wiki/星製薬 "wikilink")工場跡地に建設された地下3階地上13階の建造物で、落成当時は日本最大の[容積率](https://ja.wikipedia.org/wiki/容積率 "wikilink")であった。事務所・ショールームとして貸し出されている部分、飲食店舗や小売店舗群、展示ホール、貸し会議室等からなる。
+[星製薬](../Page/星製薬.md "wikilink")工場跡地に建設された地下3階地上13階の建造物で、落成当時は日本最大の[容積率](../Page/容積率.md "wikilink")であった。事務所・ショールームとして貸し出されている部分、飲食店舗や小売店舗群、展示ホール、貸し会議室等からなる。
 
-飲食店や小売店舗群は主に下層階および[地下街](https://ja.wikipedia.org/wiki/地下街 "wikilink")に位置する。また、13階の展示ホールはバーゲン会場や展示会場、[私立大学](../Page/私立大学.md "wikilink")の[入学試験](https://ja.wikipedia.org/wiki/入学試験 "wikilink")における校外受験会場や[新司法試験](https://ja.wikipedia.org/wiki/新司法試験 "wikilink")の受験会場などとして用いられる。中層階にはショールームや卸売業の店舗、事務所等が多く入居している。その他、資格試験[予備校](../Page/予備校.md "wikilink")、[郵便局](../Page/郵便局.md "wikilink")、[診療所](../Page/診療所.md "wikilink")など入居する施設は様々である。屋上には[ゴルフ](../Page/ゴルフ.md "wikilink")練習場（フタバゴルフガーデン）の他、[神社](https://ja.wikipedia.org/wiki/神社 "wikilink")（「氷川神社」）がある。テーオーシー本社も入居する。
+飲食店や小売店舗群は主に下層階および[地下街](../Page/地下街.md "wikilink")に位置する。また、13階の展示ホールはバーゲン会場や展示会場、[私立大学](../Page/私立大学.md "wikilink")の[入学試験](https://ja.wikipedia.org/wiki/入学試験 "wikilink")における校外受験会場や[新司法試験](https://ja.wikipedia.org/wiki/新司法試験 "wikilink")の受験会場などとして用いられる。中層階にはショールームや卸売業の店舗、事務所等が多く入居している。その他、資格試験[予備校](../Page/予備校.md "wikilink")、[郵便局](../Page/郵便局.md "wikilink")、[診療所](../Page/診療所.md "wikilink")など入居する施設は様々である。屋上には[ゴルフ](../Page/ゴルフ.md "wikilink")練習場（フタバゴルフガーデン）の他、[神社](https://ja.wikipedia.org/wiki/神社 "wikilink")（「氷川神社」）がある。テーオーシー本社も入居する。
 
 第2TOCビルから第5TOCビルおよびフロントビルも周囲に存在する。敷地内には[星薬科大学](../Page/星薬科大学.md "wikilink")発祥の地を記念する石碑がある。
 
@@ -25,8 +25,8 @@
 
   - [ユニクロ](../Page/ユニクロ.md "wikilink") - 都内最大級の店舗が、平成22年4月23日にリニューアルオープン
   - [ナチュラルローソン](../Page/ローソン.md "wikilink")
-  - [ABCマート](https://ja.wikipedia.org/wiki/ABCマート "wikilink")
-  - [キャンドゥ](https://ja.wikipedia.org/wiki/キャンドゥ "wikilink") - かつては[ショップ99](https://ja.wikipedia.org/wiki/ショップ99 "wikilink")が入居していた。
+  - [ABCマート](../Page/ABCマート.md "wikilink")
+  - [キャンドゥ](../Page/キャンドゥ.md "wikilink") - かつては[ショップ99](https://ja.wikipedia.org/wiki/ショップ99 "wikilink")が入居していた。
   - [ORIHICA](https://ja.wikipedia.org/wiki/ORIHICA "wikilink")
 
 飲食店約25店舗、小売店約60店舗。営業時間・休業日は店舗等によって異なる。
@@ -39,7 +39,7 @@
   - [大崎広小路駅](https://ja.wikipedia.org/wiki/大崎広小路駅 "wikilink")（東急池上線） - 徒歩5分
   - [不動前駅](https://ja.wikipedia.org/wiki/不動前駅 "wikilink")（[東急目黒線](https://ja.wikipedia.org/wiki/東急目黒線 "wikilink")） - 徒歩6分
   - [大崎駅](https://ja.wikipedia.org/wiki/大崎駅 "wikilink")（山手線・[埼京線](https://ja.wikipedia.org/wiki/埼京線 "wikilink")・[湘南新宿ライン](https://ja.wikipedia.org/wiki/湘南新宿ライン "wikilink")・[東京臨海高速鉄道りんかい線](https://ja.wikipedia.org/wiki/東京臨海高速鉄道りんかい線 "wikilink")） - 徒歩15分
-  - 年末年始を除く[平日](https://ja.wikipedia.org/wiki/平日 "wikilink")の午前8時から午後8時まで、五反田駅から無料[シャトルバス](../Page/シャトルバス.md "wikilink")が8分間隔で運行されている。（[東急バスに委託](../Page/東急バス荏原営業所.md "wikilink")）
+  - 年末年始を除く[平日](../Page/平日.md "wikilink")の午前8時から午後8時まで、五反田駅から無料[シャトルバス](../Page/シャトルバス.md "wikilink")が8分間隔で運行されている。（[東急バスに委託](../Page/東急バス荏原営業所.md "wikilink")）
   - [国道1号](../Page/国道1号.md "wikilink")（第二京浜、桜田通り）、[首都高速2号目黒線](../Page/首都高速2号目黒線.md "wikilink")に面している。
 
 ## 再開発
@@ -48,7 +48,7 @@
 
 ## 関連項目
 
-  - [アライドテレシス](https://ja.wikipedia.org/wiki/アライドテレシス "wikilink") - 第2TOCビルに本社が所在
+  - [アライドテレシス](../Page/アライドテレシス.md "wikilink") - 第2TOCビルに本社が所在
   - [東急バス荏原営業所](../Page/東急バス荏原営業所.md "wikilink") - シャトルバス「TOC EXPRESS」を運行受託
 
 ## 外部リンク

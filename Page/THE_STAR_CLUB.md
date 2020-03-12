@@ -21,7 +21,7 @@
   - **KYOUJI**（1980 - 1982）三代目。元**スポッツ**。EDDIEの脱退後、ベースに転向。
   - **LOU**（1982 - 1989）四代目。元**レジスタンス**。「SOLID FIST」を最後に脱退後、[THE RYDERS](https://ja.wikipedia.org/wiki/THE_RYDERS "wikilink")、[AGGRESSIVE DOGSに参加](https://ja.wikipedia.org/wiki/AGGRESSIVE_DOGS "wikilink")。
   - **MIKI**（1989 - 1990）サポート？？「凍てついた疾走者」を最後に脱退。
-  - **[TORUxxx](https://ja.wikipedia.org/wiki/TORUxxx "wikilink")**（1990 - 1993）五代目。「思考殺人」を最後に脱退。その後、自身のバンド[LONDS OF THREEを経て](https://ja.wikipedia.org/wiki/LONDS_OF_THREE "wikilink")[THE MAD CAPSULE MARKETS](https://ja.wikipedia.org/wiki/THE_MAD_CAPSULE_MARKETS "wikilink")、[Angelo](https://ja.wikipedia.org/wiki/Angelo "wikilink")のサポートメンバーとして活動。2012年再加入。
+  - **[TORUxxx](https://ja.wikipedia.org/wiki/TORUxxx "wikilink")**（1990 - 1993）五代目。「思考殺人」を最後に脱退。その後、自身のバンド[LONDS OF THREEを経て](https://ja.wikipedia.org/wiki/LONDS_OF_THREE "wikilink")[THE MAD CAPSULE MARKETS](../Page/THE_MAD_CAPSULE_MARKETS.md "wikilink")、[Angelo](../Page/Angelo.md "wikilink")のサポートメンバーとして活動。2012年再加入。
   - **KEN**（1994 - 1999）六代目。「41分18秒の苛烈なバトル・ビート」を最後に脱退。
   - **GAZZ**（1999 - 2000）七代目。「Trigger〜起爆剤〜」を最後に脱退。現[Monkey pirates](https://ja.wikipedia.org/wiki/Monkey_pirates "wikilink")
   - **UKI**（2000 - 2001）八代目。元[THE POWERNUDE](https://ja.wikipedia.org/wiki/THE_POWERNUDE "wikilink")。「2001」を最後に脱退後、[仏陀頭](https://ja.wikipedia.org/wiki/仏陀頭 "wikilink")に参加。現RAD-BELLY、RYDERS
@@ -42,10 +42,10 @@
   - **BUKKA**（1979）二代目。多分「1979 BOOTLEG」の頭3曲のドラム。脱退後、[原爆オナニーズ](https://ja.wikipedia.org/wiki/原爆オナニーズ "wikilink")に参加。
   - **OHGUCHI(MICKY)**（1979 - 1980）三代目。元**HAZARDS**。脱退後、[原爆オナニーズ](https://ja.wikipedia.org/wiki/原爆オナニーズ "wikilink")に参加。
   - **NO FUN PIG**（1980 - 1985）四代目。元**ROCKA ROLLA**。「PUNK\! PUNK\! PUNK\!」を最後に脱退。
-  - **[TATSUYA](https://ja.wikipedia.org/wiki/中村達也_\(ドラマー\) "wikilink")**（1985 - 1986）五代目。元[OXYDOLL](https://ja.wikipedia.org/wiki/OXYDOLL "wikilink")、[the 原爆オナニーズ](https://ja.wikipedia.org/wiki/the_原爆オナニーズ "wikilink")、[THE STALIN](https://ja.wikipedia.org/wiki/THE_STALIN "wikilink")、[THE GOD](https://ja.wikipedia.org/wiki/THE_GOD "wikilink")、[MASTURBATION](https://ja.wikipedia.org/wiki/MASTURBATION "wikilink")、[the 原爆オナニーズ](https://ja.wikipedia.org/wiki/the_原爆オナニーズ "wikilink")、[BLANKEY JET CITY](https://ja.wikipedia.org/wiki/BLANKEY_JET_CITY "wikilink")。「GROUND ZERO」を最後に脱退後再び[THE GODに参加](https://ja.wikipedia.org/wiki/THE_GOD "wikilink")。
+  - **[TATSUYA](../Page/中村達也_\(ドラマー\).md "wikilink")**（1985 - 1986）五代目。元[OXYDOLL](https://ja.wikipedia.org/wiki/OXYDOLL "wikilink")、[the 原爆オナニーズ](https://ja.wikipedia.org/wiki/the_原爆オナニーズ "wikilink")、[THE STALIN](https://ja.wikipedia.org/wiki/THE_STALIN "wikilink")、[THE GOD](https://ja.wikipedia.org/wiki/THE_GOD "wikilink")、[MASTURBATION](../Page/MASTURBATION.md "wikilink")、[the 原爆オナニーズ](https://ja.wikipedia.org/wiki/the_原爆オナニーズ "wikilink")、[BLANKEY JET CITY](../Page/BLANKEY_JET_CITY.md "wikilink")。「GROUND ZERO」を最後に脱退後再び[THE GODに参加](https://ja.wikipedia.org/wiki/THE_GOD "wikilink")。
   - **[HIRO](https://ja.wikipedia.org/wiki/HIRO "wikilink")**（1987 - 1993）六代目。元**CROWLEY**。「思考殺人」を最後に脱退後、[黒夢](../Page/黒夢.md "wikilink")に参加。
   - **KISHI**（1994 - 1998）七代目。元**ズブロッカ**。「魂のないアルバム」を最後に脱退。
-  - **KEIGO**（1998 - 2001）八代目。元[THE STALIN](https://ja.wikipedia.org/wiki/THE_STALIN "wikilink"),[NICKEY & THE WARRIORS](https://ja.wikipedia.org/wiki/NICKEY_&_THE_WARRIORS "wikilink")。「2001」を最後に脱退後、[COBRAに参加](../Page/COBRA_\(バンド\).md "wikilink")。
+  - **KEIGO**（1998 - 2001）八代目。元[THE STALIN](https://ja.wikipedia.org/wiki/THE_STALIN "wikilink"),[NICKEY & THE WARRIORS](../Page/NICKEY_&_THE_WARRIORS.md "wikilink")。「2001」を最後に脱退後、[COBRAに参加](../Page/COBRA_\(バンド\).md "wikilink")。
   - **RYO**（2001 - 2019）九代目ドラム。「PUBLIC EYE」を最後に脱退。
 
 ## ディスコグラフィー
@@ -255,11 +255,11 @@
   - [SA](../Page/SA_\(バンド\).md "wikilink")
   - [THE ZETT](https://ja.wikipedia.org/wiki/THE_ZETT "wikilink")
   - [石井聰亙](https://ja.wikipedia.org/wiki/石井聰亙 "wikilink")
-  - [川村カオリ](https://ja.wikipedia.org/wiki/川村カオリ "wikilink")
+  - [川村カオリ](../Page/川村カオリ.md "wikilink")
   - [奈良美智](https://ja.wikipedia.org/wiki/奈良美智 "wikilink")
-  - [美濃輪育久](https://ja.wikipedia.org/wiki/ミノワマン "wikilink")
+  - [美濃輪育久](../Page/ミノワマン.md "wikilink")
   - [山田一成](../Page/いつもここから.md "wikilink")
-  - [日本のパンク・ロック](https://ja.wikipedia.org/wiki/日本のパンク・ロック "wikilink")
+  - [日本のパンク・ロック](../Page/日本のパンク・ロック.md "wikilink")
 
 ## 外部リンク
 

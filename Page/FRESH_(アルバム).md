@@ -1,13 +1,13 @@
 > この記事は[FRESH \(\)](https://ja.wikipedia.org/wiki/FRESH_\(\))から翻訳されています。
 
 
-『**FRESH**』（フレッシュ）は、[JUDY AND MARY初の](../Page/JUDY_AND_MARY.md "wikilink")[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。[2000年](../Page/2000年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")発売。発売元は[エピックレコードジャパン](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")。
+『**FRESH**』（フレッシュ）は、[JUDY AND MARY初の](../Page/JUDY_AND_MARY.md "wikilink")[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。[2000年](../Page/2000年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")発売。発売元は[エピックレコードジャパン](../Page/エピックレコードジャパン.md "wikilink")。
 
 ## 解説
 
-JUDY AND MARY活動中にリリースされた唯一の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。[オリコン](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")[アルバム](../Page/アルバム.md "wikilink")チャートでは[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")の『[THE POWER SOURCE](../Page/THE_POWER_SOURCE.md "wikilink")』以来通算2作目の週間1位を獲得。累計売上も170万枚を超えるヒットとなった。
+JUDY AND MARY活動中にリリースされた唯一の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。[オリコン](../Page/オリコンチャート.md "wikilink")[アルバム](../Page/アルバム.md "wikilink")チャートでは[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")の『[THE POWER SOURCE](../Page/THE_POWER_SOURCE.md "wikilink")』以来通算2作目の週間1位を獲得。累計売上も170万枚を超えるヒットとなった。
 
-収録曲はほぼシングルコレクション的なものとなっている。本作発売以降、アルバム曲なども含めたコンピレーション盤『[The Great Escape -COMPLETE BEST-](https://ja.wikipedia.org/wiki/The_Great_Escape_-COMPLETE_BEST- "wikilink")』が解散後に発売されたほか、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")には本作以降に発売された楽曲なども含め、全2枚組・リマスタリング・[DVD付属などの仕様となった](../Page/DVD-Video.md "wikilink")『[COMPLETE BEST ALBUM「FRESH」](https://ja.wikipedia.org/wiki/COMPLETE_BEST_ALBUM「FRESH」 "wikilink")』が発売されている。初回盤のみデジパック仕様とピクチャーレーベル仕様。
+収録曲はほぼシングルコレクション的なものとなっている。本作発売以降、アルバム曲なども含めたコンピレーション盤『[The Great Escape -COMPLETE BEST-](../Page/The_Great_Escape_-COMPLETE_BEST-.md "wikilink")』が解散後に発売されたほか、[2006年](../Page/2006年.md "wikilink")には本作以降に発売された楽曲なども含め、全2枚組・リマスタリング・[DVD付属などの仕様となった](../Page/DVD-Video.md "wikilink")『[COMPLETE BEST ALBUM「FRESH」](../Page/COMPLETE_BEST_ALBUM「FRESH」.md "wikilink")』が発売されている。初回盤のみデジパック仕様とピクチャーレーベル仕様。
 
 後に発売された『COMPLETE BEST ALBUM「FRESH」』では、マスタリングに立ち会うなど、監修はほぼTAKUYAが行っている。
 
@@ -27,7 +27,7 @@ JUDY AND MARY活動中にリリースされた唯一の[ベストアルバム](h
       - 6thシングル1曲目。
 7.  **[自転車](https://ja.wikipedia.org/wiki/小さな頃から/自転車 "wikilink")**
       - 6thシングル2曲目。
-8.  **[Over Drive](https://ja.wikipedia.org/wiki/Over_Drive_\(JUDY_AND_MARYの曲\) "wikilink")**
+8.  **[Over Drive](../Page/Over_Drive_\(JUDY_AND_MARYの曲\).md "wikilink")**
       - 7thシングル。
 9.  **KYOTO**
       - 唯一のアルバム曲。『[MIRACLE DIVING](../Page/MIRACLE_DIVING.md "wikilink")』に収録されていたものと異なり、最後がフェードアウトしない。
@@ -45,7 +45,7 @@ JUDY AND MARY活動中にリリースされた唯一の[ベストアルバム](h
       - 15thシングル。
 16. **[LOVER SOUL](../Page/LOVER_SOUL.md "wikilink")**
       - 13thシングル。
-17. **[Brand New Wave Upper Ground](https://ja.wikipedia.org/wiki/Brand_New_Wave_Upper_Ground "wikilink")**
+17. **[Brand New Wave Upper Ground](../Page/Brand_New_Wave_Upper_Ground.md "wikilink")**
       - 18thシングル。
 
 [Category:JUDY_AND_MARYのベスト・アルバム](https://ja.wikipedia.org/wiki/Category:JUDY_AND_MARYのベスト・アルバム "wikilink") [Category:2000年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:2000年のベスト・アルバム "wikilink") [Category:2000年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2000年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink")

@@ -1,13 +1,13 @@
 > この記事は[ Re-Product\&Remix\&PV](https://ja.wikipedia.org/wiki/_Re-Product\&Remix\&PV)から翻訳されています。
 
 
-「**サクライロノキセツ 〜Re-Product\&Remix\&PV〜**」（サクライロノキセツ リプロダクトアンドリミックスアンドピーブイ）は、[yozuca\*](https://ja.wikipedia.org/wiki/yozuca* "wikilink")の8作目の[シングル](../Page/シングル.md "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月29日](../Page/9月29日.md "wikilink")に[Lantisから発売された](https://ja.wikipedia.org/wiki/ランティス "wikilink")。
+「**サクライロノキセツ 〜Re-Product\&Remix\&PV〜**」（サクライロノキセツ リプロダクトアンドリミックスアンドピーブイ）は、[yozuca\*](https://ja.wikipedia.org/wiki/yozuca* "wikilink")の8作目の[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")に[Lantisから発売された](../Page/ランティス.md "wikilink")。
 
 ## 概要
 
-2005年4作目のシングル。前作「[サクライロノキセツ](../Page/サクライロノキセツ.md "wikilink")」、および「[サクラサクミライコイユメ](https://ja.wikipedia.org/wiki/サクラサクミライコイユメ "wikilink")」のリミックスバージョンが計3種収録されている。
+2005年4作目のシングル。前作「[サクライロノキセツ](../Page/サクライロノキセツ.md "wikilink")」、および「[サクラサクミライコイユメ](../Page/サクラサクミライコイユメ.md "wikilink")」のリミックスバージョンが計3種収録されている。
 
-「サクラサクミライコイユメ」、「サクライロノキセツ」の[PVとメイキング映像を収録している](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")[DVD](../Page/DVD.md "wikilink")が同梱された。
+「サクラサクミライコイユメ」、「サクライロノキセツ」の[PVとメイキング映像を収録している](../Page/ミュージック・ビデオ.md "wikilink")[DVD](../Page/DVD.md "wikilink")が同梱された。
 
 ## 収録曲
 
@@ -25,7 +25,7 @@
 
 ## DVD
 
-1.  サクラサクミライコイユメ（[PV](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")）
+1.  サクラサクミライコイユメ（[PV](../Page/ミュージック・ビデオ.md "wikilink")）
 2.  サクライロノキセツ（PV・メイキング映像）
 
 ## 外部リンク

@@ -1,13 +1,13 @@
 > この記事は[Color of Seasons](https://ja.wikipedia.org/wiki/Color_of_Seasons)から翻訳されています。
 
 
-「**Color of Seasons**」（カラー・オブ・シーズンズ）は、日本の歌手グループ、[EARTHの](https://ja.wikipedia.org/wiki/EARTH_\(歌手グループ\) "wikilink")6枚目のシングル。[2001年](../Page/2001年.md "wikilink")[10月11日](../Page/10月11日.md "wikilink")発売。
+「**Color of Seasons**」（カラー・オブ・シーズンズ）は、日本の歌手グループ、[EARTHの](../Page/EARTH_\(歌手グループ\).md "wikilink")6枚目のシングル。[2001年](../Page/2001年.md "wikilink")[10月11日](../Page/10月11日.md "wikilink")発売。
 
 ## 解説
 
-  - [R\&Bを基調としたダンスソング](../Page/リズム・アンド・ブルース.md "wikilink")。メインボーカルは[瀬戸山清香](https://ja.wikipedia.org/wiki/瀬戸山清香 "wikilink")。
+  - [R\&Bを基調としたダンスソング](../Page/リズム・アンド・ブルース.md "wikilink")。メインボーカルは[瀬戸山清香](../Page/瀬戸山清香.md "wikilink")。
   - この曲の後、新曲を発売予定だったものの、突如解散してしまうことにより、この曲がEARTHにとってのラストシングルになった。
-  - [PVは](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、[沖縄で撮影された](../Page/沖縄県.md "wikilink")。監督は[前嶋輝](../Page/前嶋輝.md "wikilink")が担当した。
+  - [PVは](../Page/ミュージック・ビデオ.md "wikilink")、[沖縄で撮影された](../Page/沖縄県.md "wikilink")。監督は[前嶋輝](../Page/前嶋輝.md "wikilink")が担当した。
 
 ## タイアップ
 

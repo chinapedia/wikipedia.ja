@@ -1,11 +1,11 @@
 > この記事は[Port of Notes](https://ja.wikipedia.org/wiki/Port_of_Notes)から翻訳されています。
 
 
-**Port of Notes**（ポート・オブ・ノーツ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男女[デュオ](https://ja.wikipedia.org/wiki/デュオ "wikilink")である。1996年結成。[ボサノヴァ](../Page/ボサノヴァ.md "wikilink")、[ソウル](https://ja.wikipedia.org/wiki/ソウルミュージック "wikilink")、[ジャズ](../Page/ジャズ.md "wikilink")などさまざまなジャンルをあわせ持ち、ノスタルジックで暖かいアコースティックサウンドが人気を博している。
+**Port of Notes**（ポート・オブ・ノーツ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男女[デュオ](../Page/デュオ.md "wikilink")である。1996年結成。[ボサノヴァ](../Page/ボサノヴァ.md "wikilink")、[ソウル](../Page/ソウルミュージック.md "wikilink")、[ジャズ](../Page/ジャズ.md "wikilink")などさまざまなジャンルをあわせ持ち、ノスタルジックで暖かいアコースティックサウンドが人気を博している。
 
 ## メンバー
 
-  - **[畠山美由紀](https://ja.wikipedia.org/wiki/畠山美由紀 "wikilink")**（[Double Famousほか](https://ja.wikipedia.org/wiki/Double_Famous "wikilink")）
+  - **[畠山美由紀](../Page/畠山美由紀.md "wikilink")**（[Double Famousほか](../Page/Double_Famous.md "wikilink")）
   - **[小島大介](https://ja.wikipedia.org/wiki/小島大介 "wikilink")**（[1972年](../Page/1972年.md "wikilink")[9月7日](../Page/9月7日.md "wikilink")-）
       - 出身：[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")
       - （DSK, AURORAほか）
@@ -39,7 +39,7 @@
 
 ## 関連項目
 
-  - [Double Famous](https://ja.wikipedia.org/wiki/Double_Famous "wikilink")
+  - [Double Famous](../Page/Double_Famous.md "wikilink")
   - [松任谷由実](../Page/松任谷由実.md "wikilink")
   - [LITTLE CREATURES](../Page/LITTLE_CREATURES.md "wikilink")
 

@@ -19,8 +19,8 @@
 
 ## 提供番組
 
-  - [サンデープロジェクト](../Page/サンデープロジェクト.md "wikilink")（[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")、[2000年](../Page/2000年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink") - [2002年](../Page/2002年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")、[関東ローカル](https://ja.wikipedia.org/wiki/関東ローカル "wikilink")）
-  - [JNN報道特集](https://ja.wikipedia.org/wiki/JNN報道特集 "wikilink")（[TBS](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")、[2000年](../Page/2000年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink") - [2001年](../Page/2001年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")）
+  - [サンデープロジェクト](../Page/サンデープロジェクト.md "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")、[2000年](../Page/2000年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink") - [2002年](../Page/2002年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")、[関東ローカル](../Page/関東ローカル.md "wikilink")）
+  - [JNN報道特集](https://ja.wikipedia.org/wiki/JNN報道特集 "wikilink")（[TBS](../Page/TBSテレビ.md "wikilink")、[2000年](../Page/2000年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink") - [2001年](../Page/2001年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")）
 
 ## 外部リンク
 

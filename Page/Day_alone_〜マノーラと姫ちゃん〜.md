@@ -5,7 +5,7 @@
 
 ## ストーリー
 
-舞台は[東京](https://ja.wikipedia.org/wiki/東京都 "wikilink")。
+舞台は[東京](../Page/東京都.md "wikilink")。
 
 内向的で天然ボケ、勤務先の家電量販店ではいつもへまばかりしては、上司に叱られている冴えない**優香**。
 
@@ -23,10 +23,10 @@ day after tomorrowのボーカル[misono](https://ja.wikipedia.org/wiki/misono "
 
   - 龍居優香：[末永遥](../Page/末永遥.md "wikilink")
   - 古谷姫：[奥田恵梨華](https://ja.wikipedia.org/wiki/奥田恵梨華 "wikilink")
-  - 岡崎英彦：[鈴木一真](https://ja.wikipedia.org/wiki/鈴木一真 "wikilink")
+  - 岡崎英彦：[鈴木一真](../Page/鈴木一真.md "wikilink")
   - 店長岩倉：[佐藤 正宏](https://ja.wikipedia.org/wiki/佐藤_正宏 "wikilink")
   - 樋口克己：[康ヨシノリ](https://ja.wikipedia.org/wiki/康ヨシノリ "wikilink")
-  - 片山幸介：[螢雪次朗](https://ja.wikipedia.org/wiki/螢雪次朗 "wikilink")
+  - 片山幸介：[螢雪次朗](../Page/螢雪次朗.md "wikilink")
   - [千葉尚之](https://ja.wikipedia.org/wiki/千葉尚之 "wikilink")
   - [遠藤寿恵](https://ja.wikipedia.org/wiki/遠藤寿恵 "wikilink")
   - [アナ憲吾](https://ja.wikipedia.org/wiki/アナ憲吾 "wikilink")
@@ -36,10 +36,10 @@ day after tomorrowのボーカル[misono](https://ja.wikipedia.org/wiki/misono "
 
 ## 主題歌
 
-  - 「[君と逢えた奇蹟](https://ja.wikipedia.org/wiki/君と逢えた奇蹟 "wikilink")」（第1話 主題歌）
-  - 「[ユリノハナ](https://ja.wikipedia.org/wiki/ユリノハナ "wikilink")」（第2話・最終話 主題歌・挿入歌）
-  - 「[追伸](https://ja.wikipedia.org/wiki/君と逢えた奇蹟 "wikilink")」（挿入歌）
-  - 「[せつなさはこの胸の中に](https://ja.wikipedia.org/wiki/君と逢えた奇蹟 "wikilink")」（挿入歌）
+  - 「[君と逢えた奇蹟](../Page/君と逢えた奇蹟.md "wikilink")」（第1話 主題歌）
+  - 「[ユリノハナ](../Page/ユリノハナ.md "wikilink")」（第2話・最終話 主題歌・挿入歌）
+  - 「[追伸](../Page/君と逢えた奇蹟.md "wikilink")」（挿入歌）
+  - 「[せつなさはこの胸の中に](../Page/君と逢えた奇蹟.md "wikilink")」（挿入歌）
 
 ## リリース
 
@@ -52,10 +52,10 @@ day after tomorrowのボーカル[misono](https://ja.wikipedia.org/wiki/misono "
 <!-- end list -->
 
   - 収録内容
-      - 「[君と逢えた奇蹟](https://ja.wikipedia.org/wiki/君と逢えた奇蹟 "wikilink")」（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[1月13日](../Page/1月13日.md "wikilink")）
+      - 「[君と逢えた奇蹟](../Page/君と逢えた奇蹟.md "wikilink")」（[2005年](../Page/2005年.md "wikilink")[1月13日](../Page/1月13日.md "wikilink")）
         1.  第1話
         2.  第2話の予告
-      - 「[ユリノハナ](https://ja.wikipedia.org/wiki/ユリノハナ "wikilink")」（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")）
+      - 「[ユリノハナ](../Page/ユリノハナ.md "wikilink")」（[2005年](../Page/2005年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")）
         1.  第2話
         2.  最終話予告
       - 「[day alone](https://ja.wikipedia.org/wiki/day_alone "wikilink")」（2005年[3月9日](../Page/3月9日.md "wikilink")）
@@ -74,7 +74,7 @@ day after tomorrowのボーカル[misono](https://ja.wikipedia.org/wiki/misono "
 
 :\# DVD特典映像- day after tomorrow　ビデオクリップメイキング映像
 
-:\# DVD特典映像- [ボビー・オロゴン](https://ja.wikipedia.org/wiki/ボビー・オロゴン "wikilink")出演 [TV-CM](https://ja.wikipedia.org/wiki/コマーシャルメッセージ "wikilink")
+:\# DVD特典映像- [ボビー・オロゴン](../Page/ボビー・オロゴン.md "wikilink")出演 [TV-CM](../Page/コマーシャルメッセージ.md "wikilink")
 
   - 発売元：avex trax
 
@@ -83,7 +83,7 @@ day after tomorrowのボーカル[misono](https://ja.wikipedia.org/wiki/misono "
   - 発売：2005年[3月9日](../Page/3月9日.md "wikilink")
   - 著者：[尾崎花香](https://ja.wikipedia.org/wiki/尾崎花香 "wikilink")
   - 原案：[いずみ吉紘](https://ja.wikipedia.org/wiki/いずみ吉紘 "wikilink")とday after tomorrow
-  - 発売元：[幻冬舎](https://ja.wikipedia.org/wiki/幻冬舎 "wikilink")
+  - 発売元：[幻冬舎](../Page/幻冬舎.md "wikilink")
 
 ### コミック
 
@@ -93,9 +93,9 @@ day after tomorrowのボーカル[misono](https://ja.wikipedia.org/wiki/misono "
 
 ## スタッフ
 
-  - 監督：[西浦正記](https://ja.wikipedia.org/wiki/西浦正記 "wikilink")
+  - 監督：[西浦正記](../Page/西浦正記.md "wikilink")
   - 脚本：[いずみ吉紘](https://ja.wikipedia.org/wiki/いずみ吉紘 "wikilink")
-  - 主題歌・挿入歌：day after tomorrow（misono、[北野正人](https://ja.wikipedia.org/wiki/北野正人 "wikilink")、[鈴木大輔](https://ja.wikipedia.org/wiki/鈴木大輔_\(ミュージシャン\) "wikilink")）
+  - 主題歌・挿入歌：day after tomorrow（misono、[北野正人](../Page/北野正人.md "wikilink")、[鈴木大輔](https://ja.wikipedia.org/wiki/鈴木大輔_\(ミュージシャン\) "wikilink")）
   - 撮影：安藝孝仁、斎藤健雄（助手）
   - 照明：たしろよしオ、木幡和宏（助手）
   - VE：櫂田博
@@ -105,8 +105,8 @@ day after tomorrowのボーカル[misono](https://ja.wikipedia.org/wiki/misono "
   - 美術プロデューサー：木村文洋
   - ヘアメイク：野中真紀子、場渡わやか
   - スタイリスト：棚橋公子、岡島千景
-  - 技術協力：[ビデオスタッフ](https://ja.wikipedia.org/wiki/ビデオスタッフ "wikilink")、[東新](https://ja.wikipedia.org/wiki/ザ・ホライズン "wikilink")、Grand Diamond、Siamlite Film Service
-  - 協力：タイ、[タイ国政府観光庁](https://ja.wikipedia.org/wiki/タイ国政府観光庁 "wikilink")、[タイ国際航空](https://ja.wikipedia.org/wiki/タイ国際航空 "wikilink")、[TAITO](https://ja.wikipedia.org/wiki/タイトー "wikilink")
+  - 技術協力：[ビデオスタッフ](../Page/ビデオスタッフ.md "wikilink")、[東新](https://ja.wikipedia.org/wiki/ザ・ホライズン "wikilink")、Grand Diamond、Siamlite Film Service
+  - 協力：タイ、[タイ国政府観光庁](https://ja.wikipedia.org/wiki/タイ国政府観光庁 "wikilink")、[タイ国際航空](../Page/タイ国際航空.md "wikilink")、[TAITO](https://ja.wikipedia.org/wiki/タイトー "wikilink")
   - 編集：二口清隆、荒き康宏
   - 音楽：イヤトイ
   - 音響効果：佐藤卓嗣
@@ -119,14 +119,14 @@ day after tomorrowのボーカル[misono](https://ja.wikipedia.org/wiki/misono "
   - 販売促進：山本ヒデオ
   - 企画：安原勝利
   - アシスタント・プロデューサー：曽根友紀子
-  - プロデューサー：鈴木芳治、[清水淳司](https://ja.wikipedia.org/wiki/清水淳司 "wikilink")
-  - 制作：tm tomax、[FCC](https://ja.wikipedia.org/wiki/フジクリエイティブコーポレーション "wikilink")
+  - プロデューサー：鈴木芳治、[清水淳司](../Page/清水淳司.md "wikilink")
+  - 制作：tm tomax、[FCC](../Page/フジクリエイティブコーポレーション.md "wikilink")
   - 製作・著作：avex trax
 
 ## 関連項目
 
-  - [君と逢えた奇蹟](https://ja.wikipedia.org/wiki/君と逢えた奇蹟 "wikilink")
-  - [ユリノハナ](https://ja.wikipedia.org/wiki/ユリノハナ "wikilink")
+  - [君と逢えた奇蹟](../Page/君と逢えた奇蹟.md "wikilink")
+  - [ユリノハナ](../Page/ユリノハナ.md "wikilink")
   - [day alone](https://ja.wikipedia.org/wiki/day_alone "wikilink")
 
 ## 外部リンク

@@ -3,7 +3,7 @@
 
 『**ゲーセンUSA ミッドウェイアーケードトレジャーズ**』は、日本国外で発売された[MIDWAY ARCADE TREASURES 1と](https://ja.wikipedia.org/wiki/:en:Midway_Arcade_Treasures "wikilink")[MIDWAY ARCADE TREASURES 2を](https://ja.wikipedia.org/wiki/:en:Midway_Arcade_Treasures_2 "wikilink")1本にまとめた[オムニバス](../Page/オムニバス.md "wikilink")の[ゲームソフト](../Page/ゲームソフト.md "wikilink")。
 
-発売元の[ミッドウェイゲームズ](https://ja.wikipedia.org/wiki/ミッドウェイゲームズ "wikilink")が、ミッドウェイの他に[ウィリアムスと](https://ja.wikipedia.org/wiki/ウィリアムス_\(ゲーム\) "wikilink")[アタリ（ゲームズ）のゲームブランドも保有しているため](../Page/アタリ_\(企業\).md "wikilink")、この3社のゲームが収録されている。
+発売元の[ミッドウェイゲームズ](../Page/ミッドウェイゲームズ.md "wikilink")が、ミッドウェイの他に[ウィリアムスと](../Page/ウィリアムス_\(ゲーム\).md "wikilink")[アタリ（ゲームズ）のゲームブランドも保有しているため](../Page/アタリ_\(企業\).md "wikilink")、この3社のゲームが収録されている。
 
 ただしこの日本語版では1と2のすべてのゲームが収録されておらず、『[モータルコンバット](https://ja.wikipedia.org/wiki/モータルコンバット "wikilink")』といった一部の作品は収録されていない。
 
@@ -12,17 +12,17 @@
 ### MIDWAY ARCADE TREASURES 1
 
   - [720°](https://ja.wikipedia.org/wiki/720° "wikilink")
-  - [ガントレット](https://ja.wikipedia.org/wiki/ガントレット_\(ゲーム\) "wikilink")
-  - [バブルス](https://ja.wikipedia.org/wiki/バブルス "wikilink")
-  - [ペーパーボーイ](https://ja.wikipedia.org/wiki/ペーパーボーイ "wikilink")
+  - [ガントレット](../Page/ガントレット_\(ゲーム\).md "wikilink")
+  - [バブルス](../Page/バブルス.md "wikilink")
+  - [ペーパーボーイ](../Page/ペーパーボーイ.md "wikilink")
   - [ヴィンディケーターズ](https://ja.wikipedia.org/wiki/ヴィンディケーターズ "wikilink")
-  - [ジャウスト](https://ja.wikipedia.org/wiki/ジャウスト "wikilink")
+  - [ジャウスト](../Page/ジャウスト.md "wikilink")
   - [ジャウスト2](https://ja.wikipedia.org/wiki/ジャウスト2 "wikilink")
-  - [クラックス](https://ja.wikipedia.org/wiki/クラックス "wikilink")
-  - [マーブルマッドネス](https://ja.wikipedia.org/wiki/マーブルマッドネス "wikilink")
-  - [ランパート](https://ja.wikipedia.org/wiki/ランパート "wikilink")
-  - [ロードブラスターズ](https://ja.wikipedia.org/wiki/ロードブラスターズ "wikilink")
-  - [ロボトロン2084](https://ja.wikipedia.org/wiki/ロボトロン2084 "wikilink")
+  - [クラックス](../Page/クラックス.md "wikilink")
+  - [マーブルマッドネス](../Page/マーブルマッドネス.md "wikilink")
+  - [ランパート](../Page/ランパート.md "wikilink")
+  - [ロードブラスターズ](../Page/ロードブラスターズ.md "wikilink")
+  - [ロボトロン2084](../Page/ロボトロン2084.md "wikilink")
   - [サタンズホロウ](https://ja.wikipedia.org/wiki/サタンズホロウ "wikilink")
   - [スプラット\!](https://ja.wikipedia.org/wiki/スプラット! "wikilink")
   - [スパイハンター](https://ja.wikipedia.org/wiki/スパイハンター "wikilink")
@@ -58,7 +58,7 @@
 
 ### MIDWAY ARCADE TREASURES 3
 
-  - [ハードドライビン](https://ja.wikipedia.org/wiki/ハードドライビン "wikilink")
+  - [ハードドライビン](../Page/ハードドライビン.md "wikilink")
 
 ## 外部リンク
 

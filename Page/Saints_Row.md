@@ -1,9 +1,9 @@
 > この記事は[Saints Row](https://ja.wikipedia.org/wiki/Saints_Row)から翻訳されています。
 
 
-『**Saints Row**』（セインツ・ロウ）は[THQ](https://ja.wikipedia.org/wiki/THQ "wikilink")から[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")8月に発売された[アクションゲーム](../Page/アクションゲーム.md "wikilink")。主人公は[ストリートギャング](https://ja.wikipedia.org/wiki/ストリートギャング "wikilink")の一員となって敵のギャング団と戦い、街の支配権を争う。対応機種は[Xbox 360](https://ja.wikipedia.org/wiki/Xbox_360 "wikilink")。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")6月21日に日本語版が発売された。
+『**Saints Row**』（セインツ・ロウ）は[THQ](../Page/THQ.md "wikilink")から[2006年](../Page/2006年.md "wikilink")8月に発売された[アクションゲーム](../Page/アクションゲーム.md "wikilink")。主人公は[ストリートギャング](../Page/ストリートギャング.md "wikilink")の一員となって敵のギャング団と戦い、街の支配権を争う。対応機種は[Xbox 360](../Page/Xbox_360.md "wikilink")。[2007年](../Page/2007年.md "wikilink")6月21日に日本語版が発売された。
 
-『[グランド・セフト・オートシリーズ](https://ja.wikipedia.org/wiki/グランド・セフト・オートシリーズ "wikilink")』などに代表される、[オープンワールド](https://ja.wikipedia.org/wiki/オープンワールド "wikilink")系[クライムアクション](https://ja.wikipedia.org/wiki/クライムアクション "wikilink")ゲームで、道を歩く人々を殴ったり、車を奪ったりできる。日本国外では100万部以上の売れ行きとなり、Xbox 360、[PS3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、PCで続編[Saints Row 2がリリースされた](https://ja.wikipedia.org/wiki/Saints_Row_2 "wikilink")。
+『[グランド・セフト・オートシリーズ](https://ja.wikipedia.org/wiki/グランド・セフト・オートシリーズ "wikilink")』などに代表される、[オープンワールド](../Page/オープンワールド.md "wikilink")系[クライムアクション](https://ja.wikipedia.org/wiki/クライムアクション "wikilink")ゲームで、道を歩く人々を殴ったり、車を奪ったりできる。日本国外では100万部以上の売れ行きとなり、Xbox 360、[PS3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、PCで続編[Saints Row 2がリリースされた](https://ja.wikipedia.org/wiki/Saints_Row_2 "wikilink")。
 
 ## ストーリー
 
@@ -27,7 +27,7 @@
 
 リスペクトは紫のバーで表され、バーが満たされると新しいミッション（敵ギャングとの抗争）が解禁される。
 
-リスペクトを得る他の方法としては「敵ギャング・[警察官](https://ja.wikipedia.org/wiki/警察官 "wikilink")を殺す」「各所に落ちているCDを集める」「強盗を成功させる」などがある。
+リスペクトを得る他の方法としては「敵ギャング・[警察官](../Page/警察官.md "wikilink")を殺す」「各所に落ちているCDを集める」「強盗を成功させる」などがある。
 
 高価な服やアクセサリーを身につければ、得られるリスペクトも少し増える。
 
@@ -173,7 +173,7 @@
 <!-- end list -->
 
   -
-    [警察](https://ja.wikipedia.org/wiki/警察 "wikilink")の悪評度がついた際に規定の金額を払えば一瞬にして罪が消える。
+    [警察](../Page/警察.md "wikilink")の悪評度がついた際に規定の金額を払えば一瞬にして罪が消える。
     [ドライブスルー](../Page/ドライブスルー.md "wikilink")式。
 
 <!-- end list -->
@@ -201,7 +201,7 @@
 <!-- end list -->
 
   -
-    [酒屋](https://ja.wikipedia.org/wiki/酒屋 "wikilink")。
+    [酒屋](../Page/酒屋.md "wikilink")。
 
 <!-- end list -->
 
@@ -289,17 +289,17 @@
 
   -
     StilwaterのSaint's Row地区に本拠を置く新興で多人種構成のギャング団。
-    チームカラーは[紫](https://ja.wikipedia.org/wiki/紫 "wikilink")。
+    チームカラーは[紫](../Page/紫.md "wikilink")。
   - プレイヤー
     主人公。街で突然ギャングの抗争に巻き込まれ、殺されそうになった所をジュリアスとトロイに助けられ、サード・ストリート・セインツのメンバーとなる。
     次回作以降と違って極めて無口。しかし、一部のシーンでセリフがあるため、決して喋れないというわけではない。
-    外見的特徴はプレイヤーが作る。性別は[男性](../Page/男性.md "wikilink")のみだが、[アジア系](https://ja.wikipedia.org/wiki/アジア系 "wikilink")・[白人](../Page/白人.md "wikilink")・[黒人](https://ja.wikipedia.org/wiki/黒人 "wikilink")の3人種から選択が可能で、設定後も美容外科で変更が可能である。
+    外見的特徴はプレイヤーが作る。性別は[男性](../Page/男性.md "wikilink")のみだが、[アジア系](https://ja.wikipedia.org/wiki/アジア系 "wikilink")・[白人](../Page/白人.md "wikilink")・[黒人](../Page/黒人.md "wikilink")の3人種から選択が可能で、設定後も美容外科で変更が可能である。
   - ジュリアス・リトル(Julius Little)
     声 - [キース・デイヴィッド](https://ja.wikipedia.org/wiki/キース・デイヴィッド "wikilink")
     サード・ストリート・セインツのリーダー。黒人で紫のベレーをかぶっている。人望が厚く、周りからの信頼も高い。
     ストーリー終盤にスティルウォーター市警に身柄を拘束されるが、主人公の働きですぐ釈放される。しかし……。
   - トロイ(Troy)
-    声 - [マイケル・ラパポート](https://ja.wikipedia.org/wiki/マイケル・ラパポート "wikilink")
+    声 - [マイケル・ラパポート](../Page/マイケル・ラパポート.md "wikilink")
     サード・ストリート・セインツの幹部。髭を生やした茶髪の男。[タバコ](https://ja.wikipedia.org/wiki/タバコ "wikilink")を吸っていることが多い。
     表向きセインツの一員として活動しているが、実はスティルウォーター市警の潜入捜査官であることがストーリー最終盤で明らかになる。後に市警本部長に昇任する。
   - デックス(Dex)
@@ -307,12 +307,12 @@
     3rd Street Saintsの幹部。
     ロス・カルナレスへの攻撃の指揮を執る。セインツきっての頭脳派。
   - ジョニー・ギャット(Johnny Gat)
-    声 - [ダニエル・デイ・キム](https://ja.wikipedia.org/wiki/ダニエル・デイ・キム "wikilink")
+    声 - [ダニエル・デイ・キム](../Page/ダニエル・デイ・キム.md "wikilink")
     サード・ストリート・セインツの幹部。
     ヴァイスキングスへの攻撃の指揮を執る。このメンバーの中で最も暴力に訴えがちな節があり、入団儀式の際にギャングメンバーを勢い余って倒してしまうほどである。
     その性格が出ているためか、ヴァイスキングスのミッションは爆弾や売春宿襲撃などが多い。
   - リン(Lin)
-    声 - [ティア・カレル](https://ja.wikipedia.org/wiki/ティア・カレル "wikilink")
+    声 - [ティア・カレル](../Page/ティア・カレル.md "wikilink")
     サード・ストリート・セインツのメンバー。アジア系の[女性](../Page/女性.md "wikilink")。容姿は美しいが、性格は男勝りでドラテクも一流。愛車はシルバーにブルーストライプのVoxel。
     敵ギャングウェストサイド・ローラーズの内部にスパイとして潜入し情報を流す。
   - アイーシャ(Aisha)
@@ -327,7 +327,7 @@
     声 - [ホアキン・デ・アルメイダ](https://ja.wikipedia.org/wiki/ホアキン・デ・アルメイダ "wikilink")
     Los Carnalesのリーダー。父の跡を継いでリーダーになった。がっしりとした体格で、片方の目は白く濁っている。
   - Angelo Lopez
-    声 - [フレディ・ロドリゲス](https://ja.wikipedia.org/wiki/フレディ・ロドリゲス "wikilink")
+    声 - [フレディ・ロドリゲス](../Page/フレディ・ロドリゲス.md "wikilink")
     Hectorの弟で右腕。ストーリー終盤では、[ビジネスジェット](../Page/ビジネスジェット.md "wikilink")でスティールウォーターを離れようとするものの主人公にジェット機ごとRPGで爆破されて死亡する。
   - Victor Rodriguez
     声 - フィリップ・アンソニー・ロドリゲス
@@ -342,7 +342,7 @@
 ### バイス・キングス
 
   - Benjamin King
-    声 - [マイケル・クラーク・ダンカン](https://ja.wikipedia.org/wiki/マイケル・クラーク・ダンカン "wikilink")
+    声 - [マイケル・クラーク・ダンカン](../Page/マイケル・クラーク・ダンカン.md "wikilink")
     Vice Kingsのリーダー。Juliusの旧友。過激なやり方を好まず、CD販売の売り上げや売春など、ギャングとしては割合平和的なやり方で仕事をこなす。\[4\]
   - Warren Williams
     声 - オギー・バンクス
@@ -360,7 +360,7 @@
     声 - グレッグ・シムズ
     Westside Rollerzのリーダー。
   - William Sharp
-    声 - [デビッド・キャラダイン](https://ja.wikipedia.org/wiki/デビッド・キャラダイン "wikilink")
+    声 - [デビッド・キャラダイン](../Page/デビッド・キャラダイン.md "wikilink")
     Priceの叔父で初老の[弁護士](../Page/弁護士.md "wikilink")。Westside Rollerzの[ブレーン](https://ja.wikipedia.org/wiki/ブレーン "wikilink")。
   - Donnie
     声 - アンドリュー・キシノ
@@ -388,13 +388,13 @@
 ### その他
 
   - Richard Hughes
-    声 - [クランシー・ブラウン](https://ja.wikipedia.org/wiki/クランシー・ブラウン "wikilink")
+    声 - [クランシー・ブラウン](../Page/クランシー・ブラウン.md "wikilink")
     スティルウォーターの市会[議員](../Page/議員.md "wikilink")で、[市長](https://ja.wikipedia.org/wiki/市長 "wikilink")候補。ストーリー終盤で対立候補のマーシャルが主人公に殺害されたため市長に当選した。だがその直後に乗っていたヨットが爆発して死亡する。
   - Marshal Winslow
     声 - クリス・ウィリアムズ
     スティルウォーターの現市長であり、Richard Hugesの政敵。ストーリー終盤では、市警本部長のモンローから殺害の依頼を受けた主人公にキャンペーンバスをジャックされた後、踏切にバスごと放置されて、電車と衝突して死亡する。
   - モンロー
-    スティルウォーター市警[本部長](https://ja.wikipedia.org/wiki/本部長 "wikilink")。ストーリー終盤でジュリアスを身柄拘束して、主人公にMarshal Winslowの殺害を依頼した後、自らも車列を主人公とサード・ストリート・セインツのメンバーに襲われて、死亡する。後継の市警本部長には潜入捜査官であったトロイが引き継ぐことになった。
+    スティルウォーター市警[本部長](../Page/本部長.md "wikilink")。ストーリー終盤でジュリアスを身柄拘束して、主人公にMarshal Winslowの殺害を依頼した後、自らも車列を主人公とサード・ストリート・セインツのメンバーに襲われて、死亡する。後継の市警本部長には潜入捜査官であったトロイが引き継ぐことになった。
 
 ## 登場武器
 
@@ -418,7 +418,7 @@
 
 <!-- end list -->
 
-  - [バット](https://ja.wikipedia.org/wiki/バット_\(野球\) "wikilink")
+  - [バット](../Page/バット_\(野球\).md "wikilink")
 
 <!-- end list -->
 
@@ -450,7 +450,7 @@
 <!-- end list -->
 
   -
-    [警察官](https://ja.wikipedia.org/wiki/警察官 "wikilink")が所持している。モデルは[グロック17](https://ja.wikipedia.org/wiki/グロック17 "wikilink")。
+    [警察官](../Page/警察官.md "wikilink")が所持している。モデルは[グロック17](../Page/グロック17.md "wikilink")。
 
 <!-- end list -->
 
@@ -468,7 +468,7 @@
 <!-- end list -->
 
   -
-    フルオートで50口径弾を撃つ、高消費高威力の短銃。FBIや敵ギャングが所持している。ショップでも購入可能。モデルは[デザートイーグル](https://ja.wikipedia.org/wiki/デザートイーグル "wikilink")。
+    フルオートで50口径弾を撃つ、高消費高威力の短銃。FBIや敵ギャングが所持している。ショップでも購入可能。モデルは[デザートイーグル](../Page/デザートイーグル.md "wikilink")。
 
 ### ショットガン
 
@@ -477,7 +477,7 @@
 <!-- end list -->
 
   -
-    ギャングや警察官が所持している一般的に普及されているショットガン。ポンプアクション式なので連射力に欠ける。モデルは[レミントンM870](https://ja.wikipedia.org/wiki/レミントンM870 "wikilink")。
+    ギャングや警察官が所持している一般的に普及されているショットガン。ポンプアクション式なので連射力に欠ける。モデルは[レミントンM870](../Page/レミントンM870.md "wikilink")。
 
 <!-- end list -->
 
@@ -486,7 +486,7 @@
 <!-- end list -->
 
   -
-    中折れ式水平2連[ソードオフ・ショットガン](https://ja.wikipedia.org/wiki/ソードオフ・ショットガン "wikilink")。実際は2発装填なのだがゲーム中では何故か6発入っている。Tombstoneよりは連射が早い。
+    中折れ式水平2連[ソードオフ・ショットガン](../Page/ソードオフ・ショットガン.md "wikilink")。実際は2発装填なのだがゲーム中では何故か6発入っている。Tombstoneよりは連射が早い。
 
 <!-- end list -->
 
@@ -504,7 +504,7 @@
 <!-- end list -->
 
   -
-    ギャング御用達のサブマシンガン。モデルは現実でもギャングが好んで使用していた事で知られる[TEC9](https://ja.wikipedia.org/wiki/TEC-DC9 "wikilink")。
+    ギャング御用達のサブマシンガン。モデルは現実でもギャングが好んで使用していた事で知られる[TEC9](../Page/TEC-DC9.md "wikilink")。
 
 <!-- end list -->
 
@@ -531,7 +531,7 @@
 <!-- end list -->
 
   -
-    SWAT隊員の主力武器であるアサルトライフル。外見上のモデルは[M4カービン](https://ja.wikipedia.org/wiki/M4カービン "wikilink")。
+    SWAT隊員の主力武器であるアサルトライフル。外見上のモデルは[M4カービン](../Page/M4カービン.md "wikilink")。
 
 <!-- end list -->
 
@@ -586,12 +586,12 @@
 
 ## 関連項目
 
-  - [クライムアクションゲーム](https://ja.wikipedia.org/wiki/クライムアクションゲーム "wikilink")
+  - [クライムアクションゲーム](../Page/クライムアクションゲーム.md "wikilink")
   - [Saints Row 2](https://ja.wikipedia.org/wiki/Saints_Row_2 "wikilink")
   - [Saints Row: The Third](https://ja.wikipedia.org/wiki/Saints_Row:_The_Third "wikilink")
   - [Saints Row IV](https://ja.wikipedia.org/wiki/Saints_Row_IV "wikilink")
-  - [THQ](https://ja.wikipedia.org/wiki/THQ "wikilink")
-  - [ギャング](https://ja.wikipedia.org/wiki/ギャング "wikilink")
+  - [THQ](../Page/THQ.md "wikilink")
+  - [ギャング](../Page/ギャング.md "wikilink")
 
 ## 出典
 
@@ -602,4 +602,4 @@
 1.  ゲームユニオンVOL1　p42[三才ブックス](https://ja.wikipedia.org/wiki/三才ブックス "wikilink")
 2.
 3.
-4.  続編[Saints Row 2でも生存しており](https://ja.wikipedia.org/wiki/Saints_Row_2 "wikilink")、ギャングから足を洗い自伝を書いているなどの事後が一部語られている。また[Saints Row IVでは](https://ja.wikipedia.org/wiki/Saints_Row_IV "wikilink")、[アメリカ合衆国大統領](../Page/アメリカ合衆国大統領.md "wikilink")に選出された主人公の[補佐官として](https://ja.wikipedia.org/wiki/アメリカ合衆国大統領首席補佐官 "wikilink")[ホワイトハウス](../Page/ホワイトハウス.md "wikilink")に勤務している。
+4.  続編[Saints Row 2でも生存しており](https://ja.wikipedia.org/wiki/Saints_Row_2 "wikilink")、ギャングから足を洗い自伝を書いているなどの事後が一部語られている。また[Saints Row IVでは](https://ja.wikipedia.org/wiki/Saints_Row_IV "wikilink")、[アメリカ合衆国大統領](../Page/アメリカ合衆国大統領.md "wikilink")に選出された主人公の[補佐官として](../Page/アメリカ合衆国大統領首席補佐官.md "wikilink")[ホワイトハウス](../Page/ホワイトハウス.md "wikilink")に勤務している。

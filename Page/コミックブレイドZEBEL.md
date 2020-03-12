@@ -1,9 +1,9 @@
 > この記事は[ZEBEL](https://ja.wikipedia.org/wiki/ZEBEL)から翻訳されています。
 
 
-『**コミックブレイドZEBEL**』（コミックブレイドゼーベル）は、[マッグガーデン](https://ja.wikipedia.org/wiki/マッグガーデン "wikilink")が発刊していた、『[月刊コミックブレイド](https://ja.wikipedia.org/wiki/月刊コミックブレイド "wikilink")』の増刊号である漫画雑誌。
+『**コミックブレイドZEBEL**』（コミックブレイドゼーベル）は、[マッグガーデン](../Page/マッグガーデン.md "wikilink")が発刊していた、『[月刊コミックブレイド](../Page/月刊コミックブレイド.md "wikilink")』の増刊号である漫画雑誌。
 
-初期の位置付けは“[少女漫画](../Page/少女漫画.md "wikilink")増刊号”。2004年11月15日創刊、2007年5月21日休刊。VOL.1 - 6まで続いた。表紙は全て[黒乃奈々絵](https://ja.wikipedia.org/wiki/黒乃奈々絵 "wikilink")による。
+初期の位置付けは“[少女漫画](../Page/少女漫画.md "wikilink")増刊号”。2004年11月15日創刊、2007年5月21日休刊。VOL.1 - 6まで続いた。表紙は全て[黒乃奈々絵](../Page/黒乃奈々絵.md "wikilink")による。
 
 ## 作品一覧
 
@@ -11,16 +11,16 @@
 
 ### 連載作品
 
-  - [Vassalord.](https://ja.wikipedia.org/wiki/Vassalord. "wikilink")（[黒乃奈々絵](https://ja.wikipedia.org/wiki/黒乃奈々絵 "wikilink")） - 1 - 6
-  - [からっと\!](https://ja.wikipedia.org/wiki/からっと! "wikilink")（[渡辺祥智](../Page/渡辺祥智.md "wikilink")） - 1 - 6
+  - [Vassalord.](../Page/Vassalord..md "wikilink")（[黒乃奈々絵](../Page/黒乃奈々絵.md "wikilink")） - 1 - 6
+  - [からっと\!](../Page/からっと!.md "wikilink")（[渡辺祥智](../Page/渡辺祥智.md "wikilink")） - 1 - 6
   - [なかよし公園](https://ja.wikipedia.org/wiki/なかよし公園 "wikilink")（[ねじまき我人](https://ja.wikipedia.org/wiki/ねじまき我人 "wikilink")） - 1 - 6
-  - [新生 真田十勇士](https://ja.wikipedia.org/wiki/新生_真田十勇士 "wikilink") （[亜樹新](https://ja.wikipedia.org/wiki/亜樹新 "wikilink")） - 2 - 6
-  - [混沌の城](https://ja.wikipedia.org/wiki/混沌の城 "wikilink")（[夢枕獏](../Page/夢枕獏.md "wikilink")×[松葉博](https://ja.wikipedia.org/wiki/松葉博 "wikilink")） - 3 - 6
-  - [町立ジャーマンローズ高校2年Eins組](https://ja.wikipedia.org/wiki/町立ジャーマンローズ高校2年Eins組 "wikilink")（[土方](https://ja.wikipedia.org/wiki/土工 "wikilink")） - 3 - 6
-  - [転生學園月光録](https://ja.wikipedia.org/wiki/転生學園月光録 "wikilink")（[宮尾にゅん](https://ja.wikipedia.org/wiki/宮尾にゅん "wikilink")） - 5,6
+  - [新生 真田十勇士](https://ja.wikipedia.org/wiki/新生_真田十勇士 "wikilink") （[亜樹新](../Page/亜樹新.md "wikilink")） - 2 - 6
+  - [混沌の城](https://ja.wikipedia.org/wiki/混沌の城 "wikilink")（[夢枕獏](../Page/夢枕獏.md "wikilink")×[松葉博](../Page/松葉博.md "wikilink")） - 3 - 6
+  - [町立ジャーマンローズ高校2年Eins組](https://ja.wikipedia.org/wiki/町立ジャーマンローズ高校2年Eins組 "wikilink")（[土方](../Page/土工.md "wikilink")） - 3 - 6
+  - [転生學園月光録](../Page/転生學園月光録.md "wikilink")（[宮尾にゅん](https://ja.wikipedia.org/wiki/宮尾にゅん "wikilink")） - 5,6
       - 以上全てavarusに移籍
-  - 地獄奇行（[空廼カイリ](https://ja.wikipedia.org/wiki/空廼カイリ "wikilink")） - 1 - 3（未完）
-  - 雑草館の住人達（[影木栄貴](https://ja.wikipedia.org/wiki/影木栄貴 "wikilink")） - 3 - 6（単行本にて完結）
+  - 地獄奇行（[空廼カイリ](../Page/空廼カイリ.md "wikilink")） - 1 - 3（未完）
+  - 雑草館の住人達（[影木栄貴](../Page/影木栄貴.md "wikilink")） - 3 - 6（単行本にて完結）
   - ひとさきの花（[藤野もやむ](https://ja.wikipedia.org/wiki/藤野もやむ "wikilink")） - 3 - 5（完結）
   - ラスティックロック（[藪京介](https://ja.wikipedia.org/wiki/藪京介 "wikilink")） - 3,4（完結）
   - [イルゲネス ―The Genetic Sodom ILEGENES―](https://ja.wikipedia.org/wiki/イルゲネス_―The_Genetic_Sodom_ILEGENES― "wikilink")（小説）（[桑原水菜](../Page/桑原水菜.md "wikilink")） - 1 - 6（単行本にて完結）
@@ -29,19 +29,19 @@
 
 本誌やMASAMUNE連載作品のものが掲載された。
 
-  - [ARIA](https://ja.wikipedia.org/wiki/ARIA_\(漫画\) "wikilink")（[天野こずえ](../Page/天野こずえ.md "wikilink")） - 1
-  - [oguna](https://ja.wikipedia.org/wiki/oguna "wikilink")（[中島かずき](https://ja.wikipedia.org/wiki/中島かずき "wikilink")×[唐々煙](https://ja.wikipedia.org/wiki/唐々煙 "wikilink")） - 1,3 - 6
+  - [ARIA](../Page/ARIA_\(漫画\).md "wikilink")（[天野こずえ](../Page/天野こずえ.md "wikilink")） - 1
+  - [oguna](https://ja.wikipedia.org/wiki/oguna "wikilink")（[中島かずき](../Page/中島かずき.md "wikilink")×[唐々煙](https://ja.wikipedia.org/wiki/唐々煙 "wikilink")） - 1,3 - 6
   - [私立聖カトレア小学校](https://ja.wikipedia.org/wiki/私立聖カトレア小学校 "wikilink")（[藪京介](https://ja.wikipedia.org/wiki/藪京介 "wikilink")） - 2
   - [TALES OF SYMPHONIA EXTRALORD](https://ja.wikipedia.org/wiki/テイルズ_オブ_シンフォニア "wikilink")（[壱村仁](https://ja.wikipedia.org/wiki/壱村仁 "wikilink")） - 2 - 6
-  - [僕と彼女の×××](https://ja.wikipedia.org/wiki/僕と彼女の××× "wikilink")（[森永あい](https://ja.wikipedia.org/wiki/森永あい "wikilink")） - 2 - 6
+  - [僕と彼女の×××](../Page/僕と彼女の×××.md "wikilink")（[森永あい](../Page/森永あい.md "wikilink")） - 2 - 6
   - 有栖シリーズ（[有栖川有栖](../Page/有栖川有栖.md "wikilink")×[鈴木有布子](https://ja.wikipedia.org/wiki/鈴木有布子 "wikilink")）
       - 殺刃の家 - 2
       - 壁抜け男の謎 - 3
       - ハードロック・ラバーズ・オンリー - 4
       - 瑠璃荘事件 - 5
-  - [西の善き魔女](https://ja.wikipedia.org/wiki/西の善き魔女 "wikilink")（小説）（[荻原規子](https://ja.wikipedia.org/wiki/荻原規子 "wikilink")） - 3
+  - [西の善き魔女](../Page/西の善き魔女.md "wikilink")（小説）（[荻原規子](../Page/荻原規子.md "wikilink")） - 3
   - 西の善き魔女（荻原規子×[桃川春日子](https://ja.wikipedia.org/wiki/桃川春日子 "wikilink")） - 3 - 6
-  - [あさっての方向。](https://ja.wikipedia.org/wiki/あさっての方向。 "wikilink")（[山田J太](../Page/山田J太.md "wikilink")） - 3 - 6
+  - [あさっての方向。](../Page/あさっての方向。.md "wikilink")（[山田J太](../Page/山田J太.md "wikilink")） - 3 - 6
 
 ### 読切作品
 
@@ -51,7 +51,7 @@
       - こぼれもの（[藤野もやむ](https://ja.wikipedia.org/wiki/藤野もやむ "wikilink")）
       - すてきなあのこ（[志村貴子](../Page/志村貴子.md "wikilink")）
       - チキチキ阿羅漢荘（[藪京介](https://ja.wikipedia.org/wiki/藪京介 "wikilink")）
-      - ライヤー・ライヤー（[浅野りん](https://ja.wikipedia.org/wiki/浅野りん "wikilink")）
+      - ライヤー・ライヤー（[浅野りん](../Page/浅野りん.md "wikilink")）
       - てっぺん（[たなかのか](https://ja.wikipedia.org/wiki/たなかのか "wikilink")）
       - The Devil Loves Her.（[村上渉](https://ja.wikipedia.org/wiki/村上渉 "wikilink")）
       - 飛んでけさようなら。（[田中子規](https://ja.wikipedia.org/wiki/田中子規 "wikilink")）
@@ -59,20 +59,20 @@
       - 侍 ワンス アポン ア タイム（[なるしまゆり](../Page/なるしまゆり.md "wikilink")）
       - THE END OF SUMMER AND GAMP VAMP GIRL "SAY…"（[山田J太](../Page/山田J太.md "wikilink")）
       - オンナトモダチ（[梶原にき](https://ja.wikipedia.org/wiki/梶原にき "wikilink")）
-      - プリンス☆ちわわんこ（[茶屋町勝呂](https://ja.wikipedia.org/wiki/茶屋町勝呂 "wikilink")）
-      - コスモス荘へようこそ（[森永あい](https://ja.wikipedia.org/wiki/森永あい "wikilink")）
+      - プリンス☆ちわわんこ（[茶屋町勝呂](../Page/茶屋町勝呂.md "wikilink")）
+      - コスモス荘へようこそ（[森永あい](../Page/森永あい.md "wikilink")）
       - サクマイ（[蘇我紫菜](https://ja.wikipedia.org/wiki/蘇我紫菜 "wikilink")）
-      - 銀座探偵局（[大沢在昌](https://ja.wikipedia.org/wiki/大沢在昌 "wikilink")×[さとがねしょう](https://ja.wikipedia.org/wiki/さとがねしょう "wikilink")）
-      - ミズタマ（[依澄れい](https://ja.wikipedia.org/wiki/依澄れい "wikilink")）
+      - 銀座探偵局（[大沢在昌](../Page/大沢在昌.md "wikilink")×[さとがねしょう](https://ja.wikipedia.org/wiki/さとがねしょう "wikilink")）
+      - ミズタマ（[依澄れい](../Page/依澄れい.md "wikilink")）
       - 宵闇 〜転生學園幼蒼録外伝〜（[夏乃あゆみ](https://ja.wikipedia.org/wiki/夏乃あゆみ "wikilink")）
-      - 炎（[松葉博](https://ja.wikipedia.org/wiki/松葉博 "wikilink")）
+      - 炎（[松葉博](../Page/松葉博.md "wikilink")）
   - VOL.2（2005年7月19日発売）
-      - CHANGE×CHANGE（[松葉博](https://ja.wikipedia.org/wiki/松葉博 "wikilink")）
+      - CHANGE×CHANGE（[松葉博](../Page/松葉博.md "wikilink")）
       - キモチクラベ ―夏―（[藤野もやむ](https://ja.wikipedia.org/wiki/藤野もやむ "wikilink")）
       - 妖精予備軍（[淡島うらら](https://ja.wikipedia.org/wiki/淡島うらら "wikilink")）
-      - ねらわれた学園（[眉村卓](https://ja.wikipedia.org/wiki/眉村卓 "wikilink")×[田中子規](https://ja.wikipedia.org/wiki/田中子規 "wikilink")）
-      - Idus Martiae（[朝香祥](https://ja.wikipedia.org/wiki/朝香祥 "wikilink")×[あやめぐむ](https://ja.wikipedia.org/wiki/あやめぐむ "wikilink")）
-      - 君かえごっこ（[梅川和実](https://ja.wikipedia.org/wiki/梅川和実 "wikilink")）
+      - ねらわれた学園（[眉村卓](../Page/眉村卓.md "wikilink")×[田中子規](https://ja.wikipedia.org/wiki/田中子規 "wikilink")）
+      - Idus Martiae（[朝香祥](../Page/朝香祥.md "wikilink")×[あやめぐむ](https://ja.wikipedia.org/wiki/あやめぐむ "wikilink")）
+      - 君かえごっこ（[梅川和実](../Page/梅川和実.md "wikilink")）
       - Blue Nathaneal（[稲荷家房之介](https://ja.wikipedia.org/wiki/稲荷家房之介 "wikilink")）
   - VOL.3（2006年03月17日発売）
       - SUNNY SIDE WALK（[宮尾にゅん](https://ja.wikipedia.org/wiki/宮尾にゅん "wikilink")）
@@ -93,7 +93,7 @@
 ### 企画
 
   - 漫画
-      - 歌舞伎取材マンガ 歌舞伎座のぞき観レポート（[入江亜季](https://ja.wikipedia.org/wiki/入江亜季 "wikilink")） - 1
+      - 歌舞伎取材マンガ 歌舞伎座のぞき観レポート（[入江亜季](../Page/入江亜季.md "wikilink")） - 1
       - 新装版 新撰組異聞 PEACE MAKER 限定版プレミアムBOX特典DVD アフレコリポート（[草刈一朗](https://ja.wikipedia.org/wiki/草刈一朗 "wikilink")） - 2
       - 新人マンガ家奮闘記（草刈一朗） - 3,4
       - イルゲネス ―The Genetic Sodom ILEGENES― 全サドラマCDきっとアフレコレポート（[田丸さと](https://ja.wikipedia.org/wiki/田丸さと "wikilink")） - 5

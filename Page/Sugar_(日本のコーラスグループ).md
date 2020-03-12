@@ -1,11 +1,11 @@
 > この記事は[Sugar \(\)](https://ja.wikipedia.org/wiki/Sugar_\(\))から翻訳されています。
 
 
-**Sugar**（シュガー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の3人組女声[コーラス・グループ](https://ja.wikipedia.org/wiki/コーラス・グループ "wikilink")。元々は[バンドとして結成されたため](../Page/バンド_\(音楽\).md "wikilink")、デビュー当初は3人とも楽器を演奏しながら歌っていたが、活動後期には得意分野であるコーラスに特化して楽器を持たずに歌うこともあった。代表曲『[ウエディング・ベル](https://ja.wikipedia.org/wiki/ウエディング・ベル "wikilink")』は、きれいなコーラスと、自分を振って別の女性と結婚した元恋人に悪態をつく歌詞で一躍注目された。
+**Sugar**（シュガー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の3人組女声[コーラス・グループ](../Page/コーラス・グループ.md "wikilink")。元々は[バンドとして結成されたため](../Page/バンド_\(音楽\).md "wikilink")、デビュー当初は3人とも楽器を演奏しながら歌っていたが、活動後期には得意分野であるコーラスに特化して楽器を持たずに歌うこともあった。代表曲『[ウエディング・ベル](https://ja.wikipedia.org/wiki/ウエディング・ベル "wikilink")』は、きれいなコーラスと、自分を振って別の女性と結婚した元恋人に悪態をつく歌詞で一躍注目された。
 
 ## メンバー
 
-  - ミキ（笠松美樹、[1960年](../Page/1960年.md "wikilink")[7月15日](../Page/7月15日.md "wikilink") - ）-- [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")、[ピアノ](../Page/ピアノ.md "wikilink") 　[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[大田区](https://ja.wikipedia.org/wiki/大田区 "wikilink")出身。[日本大学鶴ヶ丘高等学校](https://ja.wikipedia.org/wiki/日本大学鶴ヶ丘高等学校 "wikilink")卒業。
+  - ミキ（笠松美樹、[1960年](../Page/1960年.md "wikilink")[7月15日](../Page/7月15日.md "wikilink") - ）-- [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、[ピアノ](../Page/ピアノ.md "wikilink") 　[東京都](../Page/東京都.md "wikilink")[大田区](https://ja.wikipedia.org/wiki/大田区 "wikilink")出身。[日本大学鶴ヶ丘高等学校](../Page/日本大学鶴ヶ丘高等学校.md "wikilink")卒業。
 
 <!-- end list -->
 
@@ -28,15 +28,15 @@
 <!-- end list -->
 
   -
-    解散後は[タレント](../Page/タレント.md "wikilink")としてラジオのリポーターなどを中心に活動。1988年6月に結婚後も仕事を続けていたが、第一子の出産直前に[常位胎盤早期剥離](https://ja.wikipedia.org/wiki/常位胎盤早期剥離 "wikilink")による[羊水塞栓症を発症し](https://ja.wikipedia.org/wiki/塞栓 "wikilink")29歳で死去（胎児も死産となった）。
+    解散後は[タレント](../Page/タレント.md "wikilink")としてラジオのリポーターなどを中心に活動。1988年6月に結婚後も仕事を続けていたが、第一子の出産直前に[常位胎盤早期剥離](https://ja.wikipedia.org/wiki/常位胎盤早期剥離 "wikilink")による[羊水塞栓症を発症し](../Page/塞栓.md "wikilink")29歳で死去（胎児も死産となった）。
 
 ## 来歴
 
-クミとモーリが[横浜市立寺尾中学校](https://ja.wikipedia.org/wiki/横浜市立寺尾中学校 "wikilink")在校中に出会い、モーリの通う[神奈川県立鶴見高等学校](https://ja.wikipedia.org/wiki/神奈川県立鶴見高等学校 "wikilink")で[音楽バンド](../Page/バンド_\(音楽\).md "wikilink")「かりんとう」の活動を開始。[第14回ヤマハポピュラーソングコンテストに出場する](https://ja.wikipedia.org/wiki/ヤマハポピュラーソングコンテスト "wikilink")。2人は「[杉山清貴&オメガトライブ](https://ja.wikipedia.org/wiki/オメガトライブ#杉山清貴&オメガトライブ "wikilink")」の前身バンドである「きゅうてぃぱんちょす」結成時（1978年12月）のメンバーでもあった。 その後、ミキが合流し、「シュガー」となる。グループ名の由来は｢自分達がしお（塩）らしくない｣という意味から。
+クミとモーリが[横浜市立寺尾中学校](https://ja.wikipedia.org/wiki/横浜市立寺尾中学校 "wikilink")在校中に出会い、モーリの通う[神奈川県立鶴見高等学校](../Page/神奈川県立鶴見高等学校.md "wikilink")で[音楽バンド](../Page/バンド_\(音楽\).md "wikilink")「かりんとう」の活動を開始。[第14回ヤマハポピュラーソングコンテストに出場する](https://ja.wikipedia.org/wiki/ヤマハポピュラーソングコンテスト "wikilink")。2人は「[杉山清貴&オメガトライブ](https://ja.wikipedia.org/wiki/オメガトライブ#杉山清貴&オメガトライブ "wikilink")」の前身バンドである「きゅうてぃぱんちょす」結成時（1978年12月）のメンバーでもあった。 その後、ミキが合流し、「シュガー」となる。グループ名の由来は｢自分達がしお（塩）らしくない｣という意味から。
 
   - [1981年](../Page/1981年.md "wikilink") 『[ウエディング・ベル](https://ja.wikipedia.org/wiki/ウエディング・ベル "wikilink")』でデビュー
-      - 週間2位/1982年度年間13位（[オリコン](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")）
-  - [1982年](../Page/1982年.md "wikilink") [第33回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第33回NHK紅白歌合戦 "wikilink")出場
+      - 週間2位/1982年度年間13位（[オリコン](../Page/オリコンチャート.md "wikilink")）
+  - [1982年](../Page/1982年.md "wikilink") [第33回NHK紅白歌合戦](../Page/第33回NHK紅白歌合戦.md "wikilink")出場
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink") 解散
 
 ## ディスコグラフィ
@@ -50,8 +50,8 @@
 5.  ウエディング・ベル II／アバンチュールはルックスしだい II（1982年11月21日）
 6.  キスがいっぱい／春・花ざかり（1983年4月5日）
 7.  中ブラ・ラブ／中ブラ・ラブ（カラオケ）（1983年5月5日）
-8.  タマゴ／IMAGINATION EXPRESS＜夢急行＞（[まんがはじめて物語](https://ja.wikipedia.org/wiki/まんがはじめて物語 "wikilink")第4期ED／OP）（1983年6月5日）
-9.  CIRCUS GAME／スイマセン My love（[伊賀野カバ丸](https://ja.wikipedia.org/wiki/伊賀野カバ丸 "wikilink")OP／ED）（1983年11月5日）
+8.  タマゴ／IMAGINATION EXPRESS＜夢急行＞（[まんがはじめて物語](../Page/まんがはじめて物語.md "wikilink")第4期ED／OP）（1983年6月5日）
+9.  CIRCUS GAME／スイマセン My love（[伊賀野カバ丸](../Page/伊賀野カバ丸.md "wikilink")OP／ED）（1983年11月5日）
 10. 恋はマスカレード／MIDNIGHT CALL（1984年4月21日）
 11. ナイト・ポリス／Goin' Man（1985年9月5日）
 
@@ -155,7 +155,7 @@
 
 ### みんなのうた
 
-[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[みんなのうた](https://ja.wikipedia.org/wiki/みんなのうた "wikilink")』で2曲を歌っている。
+[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[みんなのうた](../Page/みんなのうた.md "wikilink")』で2曲を歌っている。
 
   - カメレオン（1984年8月-9月放送）
   - こぶたのしっぽ（1986年6月-7月放送）
@@ -168,19 +168,19 @@
 
 ### テレビドラマ
 
-  - [ザ・サスペンス](https://ja.wikipedia.org/wiki/ザ・サスペンス "wikilink")「[刑事ガモさんシリーズ](https://ja.wikipedia.org/wiki/刑事ガモさんシリーズ "wikilink") 1 女子大生危険な帰り道」（1982年、[TBS](../Page/TBSテレビ.md "wikilink")）
+  - [ザ・サスペンス](../Page/ザ・サスペンス.md "wikilink")「[刑事ガモさんシリーズ](https://ja.wikipedia.org/wiki/刑事ガモさんシリーズ "wikilink") 1 女子大生危険な帰り道」（1982年、[TBS](../Page/TBSテレビ.md "wikilink")）
   - ドラマスペシャル「[赤川次郎](../Page/赤川次郎.md "wikilink")のおやすみ、テディ・ベア」（1983年、TBS）
 
 ### バラエティ
 
-  - [日立テレビシティ](https://ja.wikipedia.org/wiki/日立テレビシティ "wikilink")「[ニャロメのおもしろ数学教室](https://ja.wikipedia.org/wiki/ニャロメ#ニャロメのおもしろ入門シリーズ "wikilink")」(1982年、[TBS](../Page/TBSテレビ.md "wikilink"))
-  - [シュガー・泰葉の歌謡最前線](https://ja.wikipedia.org/wiki/歌謡最前線_\(日本テレビ\) "wikilink")(1982～83年、[NTV](../Page/日本テレビ放送網.md "wikilink")) - [泰葉](https://ja.wikipedia.org/wiki/泰葉 "wikilink")と共にメインMC。
+  - [日立テレビシティ](../Page/日立テレビシティ.md "wikilink")「[ニャロメのおもしろ数学教室](https://ja.wikipedia.org/wiki/ニャロメ#ニャロメのおもしろ入門シリーズ "wikilink")」(1982年、[TBS](../Page/TBSテレビ.md "wikilink"))
+  - [シュガー・泰葉の歌謡最前線](https://ja.wikipedia.org/wiki/歌謡最前線_\(日本テレビ\) "wikilink")(1982～83年、[NTV](../Page/日本テレビ放送網.md "wikilink")) - [泰葉](../Page/泰葉.md "wikilink")と共にメインMC。
 
 ### NHK紅白歌合戦出場歴
 
-| 年度/放送回                                                                                                    | 回 | 曲目        | 出演順   | 対戦相手                                           |
-| --------------------------------------------------------------------------------------------------------- | - | --------- | ----- | ---------------------------------------------- |
-| [1982年](../Page/1982年.md "wikilink")（昭和57年）/[第33回](https://ja.wikipedia.org/wiki/第33回NHK紅白歌合戦 "wikilink") | 初 | ウエディング・ベル | 07/22 | [サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink") |
+| 年度/放送回                                                                                 | 回 | 曲目        | 出演順   | 対戦相手                                           |
+| -------------------------------------------------------------------------------------- | - | --------- | ----- | ---------------------------------------------- |
+| [1982年](../Page/1982年.md "wikilink")（昭和57年）/[第33回](../Page/第33回NHK紅白歌合戦.md "wikilink") | 初 | ウエディング・ベル | 07/22 | [サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink") |
 
   - 注意点
 
@@ -205,4 +205,4 @@
 [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:コーラス・グループ](https://ja.wikipedia.org/wiki/Category:コーラス・グループ "wikilink") [Category:フォーライフミュージックエンタテイメントのアーティスト](https://ja.wikipedia.org/wiki/Category:フォーライフミュージックエンタテイメントのアーティスト "wikilink") [Category:1981年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1981年に結成した音楽グループ "wikilink") [Category:1987年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1987年に解散した音楽グループ "wikilink")
 
 1.  [小島豊美](https://ja.wikipedia.org/wiki/小島豊美 "wikilink")とアヴァンデザイン活字楽団『昭和のテレビ童謡クロニクル 『ひらけ\! ポンキッキ』から『ピッカピカ音楽館』まで』DU BOOKS、2015年、317頁。ISBN 978-4-907583-45-3
-2.  2009年4月に[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[月9ドラマ](../Page/フジテレビ月曜9時枠の連続ドラマ.md "wikilink")『[婚カツ\!](https://ja.wikipedia.org/wiki/婚カツ! "wikilink")』の[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")として[PUFFY](../Page/PUFFY.md "wikilink")がカバー
+2.  2009年4月に[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[月9ドラマ](../Page/フジテレビ月曜9時枠の連続ドラマ.md "wikilink")『[婚カツ\!](https://ja.wikipedia.org/wiki/婚カツ! "wikilink")』の[主題歌](../Page/主題歌.md "wikilink")として[PUFFY](../Page/PUFFY.md "wikilink")がカバー

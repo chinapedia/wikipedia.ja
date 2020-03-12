@@ -7,20 +7,20 @@
 
 ## 歴史
 
-TsAGIは1918年12月1日に「ロシア航空界の父」と今日でも呼ばれている[ニコライ・ジュコーフスキー](../Page/ニコライ・ジュコーフスキー.md "wikilink")によってモスクワで設立され、1935年に現在の[モスクワ州](https://ja.wikipedia.org/wiki/モスクワ州 "wikilink")[ジュコーフスキーへ移転した](https://ja.wikipedia.org/wiki/ジュコーフスキー_\(モスクワ州\) "wikilink")。当初の施設規模はあまり大きなものではなく、[航空技師](https://ja.wikipedia.org/wiki/Category:航空エンジニア "wikilink") 達の寄り合い所帯程度の存在でしかなかったが、[航空機](../Page/航空機.md "wikilink")の高速化とそれに伴う[流体力学](../Page/流体力学.md "wikilink")の発達と重要化に伴い、また[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")との[冷戦](../Page/冷戦.md "wikilink")の激化がTsAGIへの投資の増加を招いた。
+TsAGIは1918年12月1日に「ロシア航空界の父」と今日でも呼ばれている[ニコライ・ジュコーフスキー](../Page/ニコライ・ジュコーフスキー.md "wikilink")によってモスクワで設立され、1935年に現在の[モスクワ州](../Page/モスクワ州.md "wikilink")[ジュコーフスキーへ移転した](https://ja.wikipedia.org/wiki/ジュコーフスキー_\(モスクワ州\) "wikilink")。当初の施設規模はあまり大きなものではなく、[航空技師](https://ja.wikipedia.org/wiki/Category:航空エンジニア "wikilink") 達の寄り合い所帯程度の存在でしかなかったが、[航空機](../Page/航空機.md "wikilink")の高速化とそれに伴う[流体力学](../Page/流体力学.md "wikilink")の発達と重要化に伴い、また[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")との[冷戦](../Page/冷戦.md "wikilink")の激化がTsAGIへの投資の増加を招いた。
 
-結果としてTsAGIは現在でも世界最大の流体力学研究所といわれている。事実、TsAGIには世界最大の[風洞](https://ja.wikipedia.org/wiki/風洞 "wikilink")実験装置が設置されており、[冷戦](../Page/冷戦.md "wikilink")期にはソビエトの[軍用機](../Page/軍用機.md "wikilink")や[宇宙船](../Page/宇宙船.md "wikilink")の形状を決める上で、今日では世界の研究において重要な位置を占めるようになっている。
+結果としてTsAGIは現在でも世界最大の流体力学研究所といわれている。事実、TsAGIには世界最大の[風洞](../Page/風洞.md "wikilink")実験装置が設置されており、[冷戦](../Page/冷戦.md "wikilink")期にはソビエトの[軍用機](../Page/軍用機.md "wikilink")や[宇宙船](../Page/宇宙船.md "wikilink")の形状を決める上で、今日では世界の研究において重要な位置を占めるようになっている。
 
 ## 主な成果
 
-TsAGIの成果としては、主に冷戦期に製造され、西側に大きな脅威を与えた航空機の形状を決定したという点が大きい。また冷戦末期において登場した[エネルギア](../Page/エネルギア.md "wikilink")ロケットや、[ブラン宇宙往還機の形状決定にも大きな影響を及ぼした](https://ja.wikipedia.org/wiki/ブラン_\(オービタ\) "wikilink")。
+TsAGIの成果としては、主に冷戦期に製造され、西側に大きな脅威を与えた航空機の形状を決定したという点が大きい。また冷戦末期において登場した[エネルギア](../Page/エネルギア.md "wikilink")ロケットや、[ブラン宇宙往還機の形状決定にも大きな影響を及ぼした](../Page/ブラン_\(オービタ\).md "wikilink")。
 
-具体的な内容として、たとえば[ミグ設計局の](../Page/MiG.md "wikilink")[MiG-21とスホーイ設計局の](https://ja.wikipedia.org/wiki/MiG-21_\(航空機\) "wikilink")[Su-9や](https://ja.wikipedia.org/wiki/Su-9_\(航空機\) "wikilink")、[MiG-29と](../Page/MiG-29_\(航空機\).md "wikilink")[Su-27の形状が非常に酷似しているのは](https://ja.wikipedia.org/wiki/Su-27_\(航空機\) "wikilink")、これらを製造するときに使用された流体力学のデータが、両設計局ともTsAGI提供のものだったからである。他には[Tu-144](https://ja.wikipedia.org/wiki/Tu-144_\(航空機\) "wikilink")[超音速輸送機](https://ja.wikipedia.org/wiki/超音速輸送機 "wikilink")に使用されている[オージー翼はTsAGIの生み出したものといわれている](https://ja.wikipedia.org/wiki/翼平面形 "wikilink")。
+具体的な内容として、たとえば[ミグ設計局の](../Page/MiG.md "wikilink")[MiG-21とスホーイ設計局の](../Page/MiG-21_\(航空機\).md "wikilink")[Su-9や](../Page/Su-9_\(航空機\).md "wikilink")、[MiG-29と](../Page/MiG-29_\(航空機\).md "wikilink")[Su-27の形状が非常に酷似しているのは](https://ja.wikipedia.org/wiki/Su-27_\(航空機\) "wikilink")、これらを製造するときに使用された流体力学のデータが、両設計局ともTsAGI提供のものだったからである。他には[Tu-144](../Page/Tu-144_\(航空機\).md "wikilink")[超音速輸送機](../Page/超音速輸送機.md "wikilink")に使用されている[オージー翼はTsAGIの生み出したものといわれている](../Page/翼平面形.md "wikilink")。
 
 ## 関連
 
-  - [スホーイ](https://ja.wikipedia.org/wiki/スホーイ "wikilink")
-  - [ツポレフ](https://ja.wikipedia.org/wiki/ツポレフ "wikilink")
+  - [スホーイ](../Page/スホーイ.md "wikilink")
+  - [ツポレフ](../Page/ツポレフ.md "wikilink")
   - [ミグ](../Page/MiG.md "wikilink")
 
 ## 外部リンク

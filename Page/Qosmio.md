@@ -1,7 +1,7 @@
 > この記事は[Qosmio](https://ja.wikipedia.org/wiki/Qosmio)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Toshiba_Qosmio_X70-A-12N_PSPLTE-2895.jpg "wikilink") **Qosmio**（コスミオ）は、かつて存在していた[東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")（現・[Dynabook](https://ja.wikipedia.org/wiki/ダイナブック_\(企業\) "wikilink")）製[ノートパソコン](../Page/ノートパソコン.md "wikilink")の商品名、および商標である。[Windows 8](https://ja.wikipedia.org/wiki/Microsoft_Windows_8 "wikilink")（2013年2月現在）をプリインストールした[PC/AT互換機](https://ja.wikipedia.org/wiki/PC/AT互換機 "wikilink")。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Toshiba_Qosmio_X70-A-12N_PSPLTE-2895.jpg "wikilink") **Qosmio**（コスミオ）は、かつて存在していた[東芝](../Page/東芝.md "wikilink")（現・[Dynabook](https://ja.wikipedia.org/wiki/ダイナブック_\(企業\) "wikilink")）製[ノートパソコン](../Page/ノートパソコン.md "wikilink")の商品名、および商標である。[Windows 8](https://ja.wikipedia.org/wiki/Microsoft_Windows_8 "wikilink")（2013年2月現在）をプリインストールした[PC/AT互換機](https://ja.wikipedia.org/wiki/PC/AT互換機 "wikilink")。
 
 同社のメインブランドである[dynabookのフラッグシップAVノートモデルであるが](https://ja.wikipedia.org/wiki/ダイナブック_\(パソコン\) "wikilink")、同ブランドの高性能グラフィックス搭載モデルとして「dynabook Qosmio」を用い、棲み分けを行っていたが、2010年夏モデルでは「dynabook Qosmio」に揃えられた。2010年秋冬モデルからの命名ルール変更により、TVチューナー搭載モデルに用いることになった。2013年夏モデルを最後に販売を終了しており、現在は発売されていない。
 
@@ -20,7 +20,7 @@
 <!-- end list -->
 
   -
-    当初は15型[XGA](https://ja.wikipedia.org/wiki/XGA "wikilink")液晶を搭載。最上位モデルのE10/1KLDEWは[Centrino](https://ja.wikipedia.org/wiki/Centrino "wikilink")対応の[Pentium Mを搭載](https://ja.wikipedia.org/wiki/Pentium_M "wikilink")。
+    当初は15型[XGA](https://ja.wikipedia.org/wiki/XGA "wikilink")液晶を搭載。最上位モデルのE10/1KLDEWは[Centrino](../Page/Centrino.md "wikilink")対応の[Pentium Mを搭載](../Page/Pentium_M.md "wikilink")。
 
 <!-- end list -->
 
@@ -38,7 +38,7 @@
 <!-- end list -->
 
   -
-    G系列に東芝[RAID](../Page/RAID.md "wikilink")を搭載した最上位仕様G20を追加。[ExpressCard](https://ja.wikipedia.org/wiki/ExpressCard "wikilink")を搭載。2005年4月には既存のE10・F10・G10を刷新しHDD容量の増量や機能強化を行った。また、同年6月には2色のボディカラーが選べるF系列の新機種F20シリーズを設定した。
+    G系列に東芝[RAID](../Page/RAID.md "wikilink")を搭載した最上位仕様G20を追加。[ExpressCard](../Page/ExpressCard.md "wikilink")を搭載。2005年4月には既存のE10・F10・G10を刷新しHDD容量の増量や機能強化を行った。また、同年6月には2色のボディカラーが選べるF系列の新機種F20シリーズを設定した。
 
 <!-- end list -->
 
@@ -65,7 +65,7 @@
 <!-- end list -->
 
   -
-    G30/697HSはノートパソコンとしては世界初の[地上デジタル](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")[TVチューナー](https://ja.wikipedia.org/wiki/TVチューナー "wikilink")と[HD DVD](../Page/HD_DVD.md "wikilink")-ROMドライブを搭載。また、F系列の3代目モデルとなるF30シリーズを設定。F30/695LSとF30/695LSBLは地上デジタルチューナーを搭載した。
+    G30/697HSはノートパソコンとしては世界初の[地上デジタル](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")[TVチューナー](../Page/TVチューナー.md "wikilink")と[HD DVD](../Page/HD_DVD.md "wikilink")-ROMドライブを搭載。また、F系列の3代目モデルとなるF30シリーズを設定。F30/695LSとF30/695LSBLは地上デジタルチューナーを搭載した。
 
 <!-- end list -->
 
@@ -110,7 +110,7 @@
 <!-- end list -->
 
   -
-    F40/88EBLとG40/97EにHD DVD-RWドライブを世界で初めて搭載。HDDに録画したハイビジョン番組やハイビジョンビデオカメラで撮影した高精細映像をHD DVD-RWメディアにHD画質のまま残せて、書き換えもできる。またHD DVD-Rの書き込み速度が2倍速対応になった。さらに[デジタル放送](https://ja.wikipedia.org/wiki/デジタル放送 "wikilink")の録画新ルール「[ダビング10](../Page/ダビング10.md "wikilink")」（コピー9回、ムーブ1回）や、従来標準画質でしか記録できなかったDVDにHD画質で記録できる[HD Recに対応](../Page/HD_Rec.md "wikilink")。ただしハイビジョンビデオカメラ映像（HDV形式）のみの対応で、録画した地上デジタル放送の記録には非対応である。さらに、G40には新世代[アーキテクチャ](https://ja.wikipedia.org/wiki/アーキテクチャ "wikilink")（45nmプロセス）採用のintel Core 2 Duo T9300を搭載したG40/98Eを新たに追加した。G40/97E・G40/98Eは「REGZA LINK（レグザリンク）」対応。
+    F40/88EBLとG40/97EにHD DVD-RWドライブを世界で初めて搭載。HDDに録画したハイビジョン番組やハイビジョンビデオカメラで撮影した高精細映像をHD DVD-RWメディアにHD画質のまま残せて、書き換えもできる。またHD DVD-Rの書き込み速度が2倍速対応になった。さらに[デジタル放送](../Page/デジタル放送.md "wikilink")の録画新ルール「[ダビング10](../Page/ダビング10.md "wikilink")」（コピー9回、ムーブ1回）や、従来標準画質でしか記録できなかったDVDにHD画質で記録できる[HD Recに対応](../Page/HD_Rec.md "wikilink")。ただしハイビジョンビデオカメラ映像（HDV形式）のみの対応で、録画した地上デジタル放送の記録には非対応である。さらに、G40には新世代[アーキテクチャ](../Page/アーキテクチャ.md "wikilink")（45nmプロセス）採用のintel Core 2 Duo T9300を搭載したG40/98Eを新たに追加した。G40/97E・G40/98Eは「REGZA LINK（レグザリンク）」対応。
 
 <!-- end list -->
 
@@ -119,7 +119,7 @@
 <!-- end list -->
 
   -
-    この代では、まずF40シリーズが2機種が発売された。上位機種(F40/86FBL)はintel Core 2 Duoを搭載した高機能のブラックボディ。下位機種(F40/85L)はintel Celeronを搭載したホワイトボディである。なお、2008年夏モデルより、Service Pack 1適応済みのWindows Vista Home Premiumを搭載し、下位機種では付属していなかった地上デジタル受信専用 室内用アンテナが付属するようになる。2008年6月には、追加モデルとして、[Cell技術を用いたメディアプロセッサ](https://ja.wikipedia.org/wiki/Cell_Broadband_Engine "wikilink")（映像専用エンジン）「[SpursEngine](https://ja.wikipedia.org/wiki/SpursEngine "wikilink") SE1000」を搭載したG50シリーズとF50/88Gを発売した\[1\]。CPUには高性能のintel Core 2 Duo\[2\] を搭載。データを録画しながら高速圧縮していくリアルタイムビデオ圧縮（[H.264](https://ja.wikipedia.org/wiki/H.264 "wikilink")）を実現。地上デジタル放送をTSモードからEPモードまで5段階から選んで録画でき、EPモードで録画すれば、ファイルサイズをTSモードの1/8に圧縮でき、HDDへの録画時間が約8倍に拡大した。またDVD書き込み時に必要なエンコード要する時間を大幅に短縮したことで、書き込み時にかかる作業時間を約半分に抑えられる。さらに容量が大きいため動作が遅く、ファイル変換処理が長時間かかるホームビデオの編集もスムーズに行える。ホームビデオの映像を目的に応じてアップコンバートしたりダウンコンバートする変換がスピーディに行え、編集したファイルの出力は、従来機に比べ約10倍の速度で変換が可能。また、G50シリーズは18.4型ワイドFHD（フルHD）液晶に大型化されたほか、Webカメラと連携して、リモコンやマウスを持たずに「グー」や「パー」などの簡単なハンドジェスチャだけで動画系アプリケーションの再生や停止などの操作ができる「ハンドジェスチャリモコン」を搭載。また、高性能グラフィックアクセラレーターを搭載したTVチューナーレスモデルとして「dynabook Qosmio」FXシリーズを新たに設定した。
+    この代では、まずF40シリーズが2機種が発売された。上位機種(F40/86FBL)はintel Core 2 Duoを搭載した高機能のブラックボディ。下位機種(F40/85L)はintel Celeronを搭載したホワイトボディである。なお、2008年夏モデルより、Service Pack 1適応済みのWindows Vista Home Premiumを搭載し、下位機種では付属していなかった地上デジタル受信専用 室内用アンテナが付属するようになる。2008年6月には、追加モデルとして、[Cell技術を用いたメディアプロセッサ](../Page/Cell_Broadband_Engine.md "wikilink")（映像専用エンジン）「[SpursEngine](https://ja.wikipedia.org/wiki/SpursEngine "wikilink") SE1000」を搭載したG50シリーズとF50/88Gを発売した\[1\]。CPUには高性能のintel Core 2 Duo\[2\] を搭載。データを録画しながら高速圧縮していくリアルタイムビデオ圧縮（[H.264](../Page/H.264.md "wikilink")）を実現。地上デジタル放送をTSモードからEPモードまで5段階から選んで録画でき、EPモードで録画すれば、ファイルサイズをTSモードの1/8に圧縮でき、HDDへの録画時間が約8倍に拡大した。またDVD書き込み時に必要なエンコード要する時間を大幅に短縮したことで、書き込み時にかかる作業時間を約半分に抑えられる。さらに容量が大きいため動作が遅く、ファイル変換処理が長時間かかるホームビデオの編集もスムーズに行える。ホームビデオの映像を目的に応じてアップコンバートしたりダウンコンバートする変換がスピーディに行え、編集したファイルの出力は、従来機に比べ約10倍の速度で変換が可能。また、G50シリーズは18.4型ワイドFHD（フルHD）液晶に大型化されたほか、Webカメラと連携して、リモコンやマウスを持たずに「グー」や「パー」などの簡単なハンドジェスチャだけで動画系アプリケーションの再生や停止などの操作ができる「ハンドジェスチャリモコン」を搭載。また、高性能グラフィックアクセラレーターを搭載したTVチューナーレスモデルとして「dynabook Qosmio」FXシリーズを新たに設定した。
 
 <!-- end list -->
 
@@ -146,7 +146,7 @@
 <!-- end list -->
 
   -
-    「[SpursEngine](https://ja.wikipedia.org/wiki/SpursEngine "wikilink")」を改良。超解像技術「レゾリューションプラス」にはネット動画の映像をフルスクリーンの状態でも美しく再生できる機能を追加、「顔deナビ」にはDVDフェイスメニューを使ったオリジナルDVD作成機能を追加、ビデオ高速変換機能には[Ipodなどで再生できる](https://ja.wikipedia.org/wiki/iPod "wikilink")[MP4](https://ja.wikipedia.org/wiki/MP4 "wikilink")形式への変換も可能になった。また、F50にも「SpursEngine」が搭載された（ハンドジェスチャリモコン機能なし）。「dynabook Qosmio」では32ビット版と64ビット版が選べるセレクタブルOSとなった。
+    「[SpursEngine](https://ja.wikipedia.org/wiki/SpursEngine "wikilink")」を改良。超解像技術「レゾリューションプラス」にはネット動画の映像をフルスクリーンの状態でも美しく再生できる機能を追加、「顔deナビ」にはDVDフェイスメニューを使ったオリジナルDVD作成機能を追加、ビデオ高速変換機能には[Ipodなどで再生できる](https://ja.wikipedia.org/wiki/iPod "wikilink")[MP4](../Page/MP4.md "wikilink")形式への変換も可能になった。また、F50にも「SpursEngine」が搭載された（ハンドジェスチャリモコン機能なし）。「dynabook Qosmio」では32ビット版と64ビット版が選べるセレクタブルOSとなった。
 
 <!-- end list -->
 
@@ -173,7 +173,7 @@
 <!-- end list -->
 
   -
-    従来までラインナップされていた「Qosmio」が無くなり、「dynabook Qosmio」のみとなる。V65シリーズは1機種のみとなり、CPUはintel Core i5-450Mに変更し、OfficeをHome and Business 2010に更新した。また、東芝ノートPC25周年を記念し、一体型デスクトップモデルのDX/98Mを追加。本機種は1TBの大容量HDDや「SpursEngine」を備えており、ディスプレイ下部には[オンキヨー](https://ja.wikipedia.org/wiki/オンキヨー "wikilink")製ステレオスピーカーを搭載している。東芝製の一体型デスクトップPCは1999年に発売された法人向けモデル「DynaTop」以来、11年ぶりとなる。
+    従来までラインナップされていた「Qosmio」が無くなり、「dynabook Qosmio」のみとなる。V65シリーズは1機種のみとなり、CPUはintel Core i5-450Mに変更し、OfficeをHome and Business 2010に更新した。また、東芝ノートPC25周年を記念し、一体型デスクトップモデルのDX/98Mを追加。本機種は1TBの大容量HDDや「SpursEngine」を備えており、ディスプレイ下部には[オンキヨー](../Page/オンキヨー.md "wikilink")製ステレオスピーカーを搭載している。東芝製の一体型デスクトップPCは1999年に発売された法人向けモデル「DynaTop」以来、11年ぶりとなる。
 
 <!-- end list -->
 
@@ -191,7 +191,7 @@
 <!-- end list -->
 
   -
-    Pentium搭載のベーシックノートT560は液晶サイズのサイズダウンによりT550となり、セレクタブルOSが廃止され64ビット版となった。Core i5搭載のハイスタンダードノートT750は[東レ](https://ja.wikipedia.org/wiki/東レ "wikilink")が開発した[ナノ](https://ja.wikipedia.org/wiki/ナノ "wikilink")積層技術を応用したフィルム「PICASUS（ピカサス）」をベースに[名阪真空工業](https://ja.wikipedia.org/wiki/名阪真空工業 "wikilink")を加えた3社で共同開発した新加飾技術をLCDカバーに採用し、金属を使わずに金属調の質感と光沢を表現。汚れが付きにくい防指紋コーディングを施した。ボディカラーは濃い青緑系の新色「シャイニーオーシャン」となった。液晶一体型デスクトップモデルのD710は当初、Pentium搭載モデル（D710/T5B）のみだったが、後に、Core i5搭載の上位モデルD711/T9BとD710の中位モデルD710/T7Bが追加され先代同様3機種となった。D711/T9BはCore i5-2520MやBDXL対応のブルーレイディスクドライブを搭載した他、TVチューナーは地上・BS・110度CSデジタルダブルチューナーにグレードアップ。D710/T7BもCore i5-480Mとブルーレイディスクドライブを搭載している。また、カラーラインナップにリュクスホワイトが追加され3色展開となった。
+    Pentium搭載のベーシックノートT560は液晶サイズのサイズダウンによりT550となり、セレクタブルOSが廃止され64ビット版となった。Core i5搭載のハイスタンダードノートT750は[東レ](../Page/東レ.md "wikilink")が開発した[ナノ](https://ja.wikipedia.org/wiki/ナノ "wikilink")積層技術を応用したフィルム「PICASUS（ピカサス）」をベースに[名阪真空工業](https://ja.wikipedia.org/wiki/名阪真空工業 "wikilink")を加えた3社で共同開発した新加飾技術をLCDカバーに採用し、金属を使わずに金属調の質感と光沢を表現。汚れが付きにくい防指紋コーディングを施した。ボディカラーは濃い青緑系の新色「シャイニーオーシャン」となった。液晶一体型デスクトップモデルのD710は当初、Pentium搭載モデル（D710/T5B）のみだったが、後に、Core i5搭載の上位モデルD711/T9BとD710の中位モデルD710/T7Bが追加され先代同様3機種となった。D711/T9BはCore i5-2520MやBDXL対応のブルーレイディスクドライブを搭載した他、TVチューナーは地上・BS・110度CSデジタルダブルチューナーにグレードアップ。D710/T7BもCore i5-480Mとブルーレイディスクドライブを搭載している。また、カラーラインナップにリュクスホワイトが追加され3色展開となった。
 
 <!-- end list -->
 
@@ -200,7 +200,7 @@
 <!-- end list -->
 
   -
-    スタンダードAVノートのT500番台は第2世代に移行となり、ラインナップを拡充。新たに、[Bluetooth](https://ja.wikipedia.org/wiki/Bluetooth "wikilink")内蔵モデルと、約8時間の稼働を実現した長時間バッテリーを採用した[intel Core i3-2310M搭載モデルを追加した](https://ja.wikipedia.org/wiki/intel_Core_i3 "wikilink")。ハイスタンダードAVノートのT700番台も第2世代に移行となり、テレビチューナーにはノートPCでは業界初となる地上・BS・110度CSデジタルダブルチューナーを採用。カラーもリュクスホワイトとシャイニーレッドの2色展開となった。さらに、世界初となる2Dと3Dを同時表示する「3Dウィンドウ」を搭載した3D対応モデルのT800番台を新設。液晶一体型のD700番台はCPUを刷新し、Pentium搭載モデル（D711/T5C）、Core i5搭載モデル（D711/T7C）、Core i7搭載モデル（D711/T9C）となった。また、Core i5搭載モデルはTVチューナーを地上・BS・110度CSデジタルダブルチューナーにグレードアップされた。
+    スタンダードAVノートのT500番台は第2世代に移行となり、ラインナップを拡充。新たに、[Bluetooth](../Page/Bluetooth.md "wikilink")内蔵モデルと、約8時間の稼働を実現した長時間バッテリーを採用した[intel Core i3-2310M搭載モデルを追加した](https://ja.wikipedia.org/wiki/intel_Core_i3 "wikilink")。ハイスタンダードAVノートのT700番台も第2世代に移行となり、テレビチューナーにはノートPCでは業界初となる地上・BS・110度CSデジタルダブルチューナーを採用。カラーもリュクスホワイトとシャイニーレッドの2色展開となった。さらに、世界初となる2Dと3Dを同時表示する「3Dウィンドウ」を搭載した3D対応モデルのT800番台を新設。液晶一体型のD700番台はCPUを刷新し、Pentium搭載モデル（D711/T5C）、Core i5搭載モデル（D711/T7C）、Core i7搭載モデル（D711/T9C）となった。また、Core i5搭載モデルはTVチューナーを地上・BS・110度CSデジタルダブルチューナーにグレードアップされた。
 
 <!-- end list -->
 
@@ -209,7 +209,7 @@
 <!-- end list -->
 
   -
-    液晶一体型デスクトップモデルのD700番台が新設の「dynabook REGZA PC」へ移行したため、再びAVノートの位置づけとなった。スタンダードAVノートのT500番台はクアッドコアCPUのCore i7-2670QM搭載モデルとお手軽なCeleron B800搭載モデルの2種類に整理。ハイスタンダードAVノートのT700番台はクアッドコアのCore i7-2670QMにランクアップ、メモリを8GBに倍増し基本性能を強化。さらに、[Adobe Photoshop Elements](https://ja.wikipedia.org/wiki/Adobe_Photoshop_Elements "wikilink") 9と[Adobe Premiere](https://ja.wikipedia.org/wiki/Adobe_Premiere "wikilink") Elements 9を新たにプリインストールした。遅れて、グラスレス3DモデルのT800番台もモデルチェンジ。CPUをCore i7-2640Mにランクアップするとともに、前モデルでも搭載されていたAdobe Photoshop Elementsが"9"に更新するとともに、新たにAdobe Premiere Elements 9を新たにプリインストールされた。
+    液晶一体型デスクトップモデルのD700番台が新設の「dynabook REGZA PC」へ移行したため、再びAVノートの位置づけとなった。スタンダードAVノートのT500番台はクアッドコアCPUのCore i7-2670QM搭載モデルとお手軽なCeleron B800搭載モデルの2種類に整理。ハイスタンダードAVノートのT700番台はクアッドコアのCore i7-2670QMにランクアップ、メモリを8GBに倍増し基本性能を強化。さらに、[Adobe Photoshop Elements](../Page/Adobe_Photoshop_Elements.md "wikilink") 9と[Adobe Premiere](../Page/Adobe_Premiere.md "wikilink") Elements 9を新たにプリインストールした。遅れて、グラスレス3DモデルのT800番台もモデルチェンジ。CPUをCore i7-2640Mにランクアップするとともに、前モデルでも搭載されていたAdobe Photoshop Elementsが"9"に更新するとともに、新たにAdobe Premiere Elements 9を新たにプリインストールされた。
 
 <!-- end list -->
 
@@ -218,7 +218,7 @@
 <!-- end list -->
 
   -
-    Qosmioシリーズ共通で、ブルーレイディスクドライブがBDXLに対応し、付属品のワイヤレスマウスを[レーザー](https://ja.wikipedia.org/wiki/レーザー "wikilink")式に変更。スタンダードAVノートのT500番台はラインナップをCeleron搭載モデルに集約。HDD容量が減った（750GB→640GB）が、これに伴って、Officeが前機種のPersonal 2010からHome and Business 2010にグレードアップし、前機種ではCore i7搭載モデルに搭載されていたAdobe Photoshop Elements 9とAdobe Premiere Elements 9 も新たに追加された。ハイスタンダードAVノートのT700番台はHDD容量を増量（750GB→1TB）したほか、ボディカラーはシャイニーレッドに替わって1年ぶりにシャイニーオーシャンが復活し、ホワイト系はオーロラホワイトに変更。遅れてグラスレス3DのT800番台もモデルチェンジを行い、T700番台と同様にHDDを増量（750GB→1TB）。ボディカラーは従来のシャイニーレッドから先に発表・発売されたT751/T8EBと同じシャイニーオーシャンに変更された。
+    Qosmioシリーズ共通で、ブルーレイディスクドライブがBDXLに対応し、付属品のワイヤレスマウスを[レーザー](../Page/レーザー.md "wikilink")式に変更。スタンダードAVノートのT500番台はラインナップをCeleron搭載モデルに集約。HDD容量が減った（750GB→640GB）が、これに伴って、Officeが前機種のPersonal 2010からHome and Business 2010にグレードアップし、前機種ではCore i7搭載モデルに搭載されていたAdobe Photoshop Elements 9とAdobe Premiere Elements 9 も新たに追加された。ハイスタンダードAVノートのT700番台はHDD容量を増量（750GB→1TB）したほか、ボディカラーはシャイニーレッドに替わって1年ぶりにシャイニーオーシャンが復活し、ホワイト系はオーロラホワイトに変更。遅れてグラスレス3DのT800番台もモデルチェンジを行い、T700番台と同様にHDDを増量（750GB→1TB）。ボディカラーは従来のシャイニーレッドから先に発表・発売されたT751/T8EBと同じシャイニーオーシャンに変更された。
 
 <!-- end list -->
 
@@ -245,7 +245,7 @@
 <!-- end list -->
 
   -
-    Core i7搭載モデルはHDDが[NAND型フラッシュメモリ](https://ja.wikipedia.org/wiki/NAND型フラッシュメモリ "wikilink")を搭載し、高速アクセスを可能にしたハイブリッドHDDに、Celeron搭載モデルはCPUをHT（ハイパー・スレッティング）対応のCore i3-3120Mに強化、メモリを8GBに倍増して基本性能を強化。ソフトウェアではTV視聴・録画ソフトが「dynabook TV Center」となり、番組表の改良、最大20倍の長時間録画対応、簡易編集機能の追加など機能面を大幅に向上。OfficeもOffice Home and Business 2013に、Core i7搭載モデルに設定されているAdobe Photoshop ElementsとAdobe Premiere Elementsも"11"に更新された。
+    Core i7搭載モデルはHDDが[NAND型フラッシュメモリ](../Page/NAND型フラッシュメモリ.md "wikilink")を搭載し、高速アクセスを可能にしたハイブリッドHDDに、Celeron搭載モデルはCPUをHT（ハイパー・スレッティング）対応のCore i3-3120Mに強化、メモリを8GBに倍増して基本性能を強化。ソフトウェアではTV視聴・録画ソフトが「dynabook TV Center」となり、番組表の改良、最大20倍の長時間録画対応、簡易編集機能の追加など機能面を大幅に向上。OfficeもOffice Home and Business 2013に、Core i7搭載モデルに設定されているAdobe Photoshop ElementsとAdobe Premiere Elementsも"11"に更新された。
 
 <!-- end list -->
 
@@ -254,7 +254,7 @@
 <!-- end list -->
 
   -
-    ラインナップはCore i7搭載モデルのみとなり、デザインを一新したほか、カラーは新色のクレッセントゴールドのみの設定とした。CPUは第4世代のCore i7-4700MQに、ディスプレイは静電容量式[タッチパネル](https://ja.wikipedia.org/wiki/タッチパネル "wikilink")付フルHD液晶に強化されたほか、ワイヤレスマウスは従来の[レシーバー](https://ja.wikipedia.org/wiki/レシーバー "wikilink")を用いるレーザー式からレシーバー不要の[Bluetooth](https://ja.wikipedia.org/wiki/Bluetooth "wikilink")を用いる光学式に変更。ハイスピードHDMIケーブルを用いることで[4K](https://ja.wikipedia.org/wiki/4K "wikilink")対応液晶テレビへの4K2K出力にも対応した。
+    ラインナップはCore i7搭載モデルのみとなり、デザインを一新したほか、カラーは新色のクレッセントゴールドのみの設定とした。CPUは第4世代のCore i7-4700MQに、ディスプレイは静電容量式[タッチパネル](../Page/タッチパネル.md "wikilink")付フルHD液晶に強化されたほか、ワイヤレスマウスは従来の[レシーバー](https://ja.wikipedia.org/wiki/レシーバー "wikilink")を用いるレーザー式からレシーバー不要の[Bluetooth](../Page/Bluetooth.md "wikilink")を用いる光学式に変更。ハイスピードHDMIケーブルを用いることで[4K](https://ja.wikipedia.org/wiki/4K "wikilink")対応液晶テレビへの4K2K出力にも対応した。
 
 ## 脚注
 

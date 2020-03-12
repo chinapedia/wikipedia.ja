@@ -1,11 +1,11 @@
 > この記事は[EMD SD9](https://ja.wikipedia.org/wiki/EMD_SD9)から翻訳されています。
 
 
-**EMD SD9**は1954年1月から1959年6月にかけて製造された[GM-EMD社製の](https://ja.wikipedia.org/wiki/エレクトロ・モーティブ・ディーゼル "wikilink")6動軸駆動[ディーゼル機関車](../Page/ディーゼル機関車.md "wikilink")である。アメリカ合衆国で主に使用され、少数が韓国・チリ・ベネズエラに輸出された。
+**EMD SD9**は1954年1月から1959年6月にかけて製造された[GM-EMD社製の](../Page/エレクトロ・モーティブ・ディーゼル.md "wikilink")6動軸駆動[ディーゼル機関車](../Page/ディーゼル機関車.md "wikilink")である。アメリカ合衆国で主に使用され、少数が韓国・チリ・ベネズエラに輸出された。
 
 ## 概要
 
-SD9はエンジンに[V型16気筒](https://ja.wikipedia.org/wiki/V型16気筒 "wikilink")の[EMD 567Cエンジンを搭載し](https://ja.wikipedia.org/wiki/EMD_567系エンジン "wikilink")、1750PSの出力を発揮する。この形式の外見は前身の[SD7とほぼ同一で](https://ja.wikipedia.org/wiki/EMD_SD7形ディーゼル機関車 "wikilink")、主な変更点は機関車のエンド側のナンバーボードの上部に外側へ傾斜を付けられた小型の標識灯が追加されたことである。最終製造ロットでは車体形状が[SD18や](https://ja.wikipedia.org/wiki/EMD_SD18形ディーゼル機関車 "wikilink")[SD24と同一のものへ変更され](https://ja.wikipedia.org/wiki/EMD_SD24形ディーゼル機関車 "wikilink")、それまでの4基の36[インチ](../Page/インチ.md "wikilink")冷却ファンの代わりに48インチファン2基が装備された。
+SD9はエンジンに[V型16気筒](../Page/V型16気筒.md "wikilink")の[EMD 567Cエンジンを搭載し](../Page/EMD_567系エンジン.md "wikilink")、1750PSの出力を発揮する。この形式の外見は前身の[SD7とほぼ同一で](https://ja.wikipedia.org/wiki/EMD_SD7形ディーゼル機関車 "wikilink")、主な変更点は機関車のエンド側のナンバーボードの上部に外側へ傾斜を付けられた小型の標識灯が追加されたことである。最終製造ロットでは車体形状が[SD18や](https://ja.wikipedia.org/wiki/EMD_SD18形ディーゼル機関車 "wikilink")[SD24と同一のものへ変更され](https://ja.wikipedia.org/wiki/EMD_SD24形ディーゼル機関車 "wikilink")、それまでの4基の36[インチ](../Page/インチ.md "wikilink")冷却ファンの代わりに48インチファン2基が装備された。
 
 なお、総数471両がアメリカ合衆国用として製造された。多くが改修され、現在も運用中である。
 

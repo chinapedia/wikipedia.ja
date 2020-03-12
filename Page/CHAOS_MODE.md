@@ -1,7 +1,7 @@
 > この記事は[CHAOS MODE](https://ja.wikipedia.org/wiki/CHAOS_MODE)から翻訳されています。
 
 
-『**CHAOS MODE**』（カオス・モード）は[Janne Da Arcの](https://ja.wikipedia.org/wiki/Janne_Da_Arc "wikilink")[インディーズ](../Page/インディーズ.md "wikilink")3rd[ミニ・アルバム](https://ja.wikipedia.org/wiki/ミニ・アルバム "wikilink") 。[1999年](../Page/1999年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink")発売。
+『**CHAOS MODE**』（カオス・モード）は[Janne Da Arcの](../Page/Janne_Da_Arc.md "wikilink")[インディーズ](../Page/インディーズ.md "wikilink")3rd[ミニ・アルバム](https://ja.wikipedia.org/wiki/ミニ・アルバム "wikilink") 。[1999年](../Page/1999年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink")発売。
 
 ## 内容
 
@@ -16,7 +16,7 @@
 2.  **-R-TYPE ｢瞳の色｣**
     (作詞・作曲:YASU)
       -
-        曲名の由来は[アイレムの](https://ja.wikipedia.org/wiki/アピエス "wikilink")[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")「[R-TYPE](https://ja.wikipedia.org/wiki/R-TYPE "wikilink")」から。[PVが存在する](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。
+        曲名の由来は[アイレムの](../Page/アピエス.md "wikilink")[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")「[R-TYPE](https://ja.wikipedia.org/wiki/R-TYPE "wikilink")」から。[PVが存在する](../Page/ミュージック・ビデオ.md "wikilink")。
 3.  **Psycho Dance**
     (作詞:YASU 作曲:Janne Da Arc)
 4.  **....song**

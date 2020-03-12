@@ -1,13 +1,13 @@
 > この記事は[ THE FIRST](https://ja.wikipedia.org/wiki/_THE_FIRST)から翻訳されています。
 
 
-『'''ウルトラマン THE FIRST '''』（ - ザファースト）は、特撮テレビ番組『[ウルトラマン](../Page/ウルトラマン.md "wikilink")』を原作とする[高田裕三](../Page/高田裕三.md "wikilink")の漫画作品。[角川書店](../Page/角川書店.md "wikilink")の雑誌『[特撮エース](https://ja.wikipedia.org/wiki/特撮エース "wikilink")』創刊号より連載。同誌休刊後は、『[特撮ニュータイプ](https://ja.wikipedia.org/wiki/月刊ニュータイプ#姉妹誌 "wikilink")』に掲載紙を移した。
+『'''ウルトラマン THE FIRST '''』（ - ザファースト）は、特撮テレビ番組『[ウルトラマン](../Page/ウルトラマン.md "wikilink")』を原作とする[高田裕三](../Page/高田裕三.md "wikilink")の漫画作品。[角川書店](../Page/角川書店.md "wikilink")の雑誌『[特撮エース](../Page/特撮エース.md "wikilink")』創刊号より連載。同誌休刊後は、『[特撮ニュータイプ](https://ja.wikipedia.org/wiki/月刊ニュータイプ#姉妹誌 "wikilink")』に掲載紙を移した。
 
 ## 概要
 
 「特撮エース」時代は、原作TV版の第1話～第5話、第7話をコミカライズ。「特撮ニュータイプ」に移ってからは『第2部 さらばウルトラマン』と題し、TV版最終回を中心にアレンジしたストーリーになっている。
 
-登場人物の細かい設定等は、[金城哲夫](https://ja.wikipedia.org/wiki/金城哲夫 "wikilink")の『[小説 ウルトラマン](https://ja.wikipedia.org/wiki/小説_ウルトラマン "wikilink")』における設定を引用している部分もある。
+登場人物の細かい設定等は、[金城哲夫](../Page/金城哲夫.md "wikilink")の『[小説 ウルトラマン](https://ja.wikipedia.org/wiki/小説_ウルトラマン "wikilink")』における設定を引用している部分もある。
 
 ## 登場人物
 
@@ -57,24 +57,24 @@
   - [ネロンガ](https://ja.wikipedia.org/wiki/ウルトラマンの登場怪獣#透明怪獣_ネロンガ "wikilink")
     300年前に村井強衛門という侍に封印されたと言われる、獰猛な怪獣。伊和水力発電所に出現。自らの体を透明化させ、角から電撃を放つ。
     ラゴンと戦い、これを電撃で倒したが、ウルトラマンと科特隊の連携により倒された。
-  - [ラゴン](https://ja.wikipedia.org/wiki/ラゴン_\(ウルトラ怪獣\) "wikilink")
+  - [ラゴン](../Page/ラゴン_\(ウルトラ怪獣\).md "wikilink")
     巨大化した海底原人。高エネルギー爆弾、ジュピター41がヒレに絡まっている。
     伊和水力発電所近隣の地下洞窟内で出現。ネロンガと戦ったが、放電攻撃の前に敗れてしまう。その後ジュピター41は、ウルトラマンが宇宙空間で爆発させた。
   - [グリーンモンス](https://ja.wikipedia.org/wiki/ウルトラマンの登場怪獣#怪奇植物_グリーンモンス "wikilink")
     食肉植物ミロガンダが怪獣となったもので、科特隊のスーパーガンやスパイダーショットのエネルギーさえも吸収し巨大化した。
     TV版よりもさらに生物らしさが強調されたデザインとなっている。スペシウム光線さえも効かなかったが、最期は太陽に投げ込まれて葬られた。
-  - [アントラー](https://ja.wikipedia.org/wiki/アントラー_\(ウルトラ怪獣\) "wikilink")
+  - [アントラー](../Page/アントラー_\(ウルトラ怪獣\).md "wikilink")
     中近東の町・バラージに現れた伝説の怪獣。角から放つ磁力光線で敵を引き寄せ、その表皮は磁力によりコーティングされ、スペシウム光線も通用しない強敵。バラージの青い石を苦手としており、最期は青い石の影響で表皮の磁力が剥がれ、スペシウム光線で倒された。
     本作の設定では皮膚が黒く見えるのは磁力線のせいであり、表皮の色は赤色だということになっている。
-  - [ジャミラ](https://ja.wikipedia.org/wiki/ジャミラ_\(ウルトラ怪獣\) "wikilink")
+  - [ジャミラ](../Page/ジャミラ_\(ウルトラ怪獣\).md "wikilink")
     怪獣墓場の調査に赴きバルタンの母船および製造中のゼットンを発見、バルタンに拉致され改造されてしまう。ウルトラマンにバルタンやゼットンの警告を行うがイデのマルス133によって死亡。死後、その正体は科特隊を除いて隠蔽された。
-  - [ブルトン](https://ja.wikipedia.org/wiki/ブルトン_\(ウルトラ怪獣\) "wikilink")
+  - [ブルトン](../Page/ブルトン_\(ウルトラ怪獣\).md "wikilink")
     バルタンが怪獣墓場から調達した怪獣。ゼットンを製造していたバルタンたちの護衛をしていたらしく、ジャミラも拉致した。ウルトラマンに亜空間を破壊する歪んだ時空を作り出され、爆発四散した。
   - [ゼットン](../Page/ゼットン.md "wikilink")
     対ウルトラマン用に戦闘能力を調整された宇宙怪獣で、ハヤタが地球にいない間に科特隊基地を潰そうとした。ウルトラマンの何倍もの巨躯を誇り、科特隊基地を壊滅させ、[自衛隊](../Page/自衛隊.md "wikilink")と[在日米軍](https://ja.wikipedia.org/wiki/在日米軍 "wikilink")の戦闘機部隊を蹴散らした。ウルトラマンのどんな必殺技も寄せ付けない頑丈な装甲を持ち、ウルトラマンのカラータイマーをビームで破壊するが、ウルトラマンの捨て身の行動で生じた隙を突かれ、イデの開発した反重力ミサイルを顔面に打ち込まれて倒された。
     本作品では、バルタン星人が怪獣墓場で製造した怪獣とされ、下半身が多脚系になっているなどデザインもより昆虫的なフォルムに仕上がっている。
 
-この他、プロローグで『[ウルトラQ](https://ja.wikipedia.org/wiki/ウルトラQ "wikilink")』に登場した[ゴメス](https://ja.wikipedia.org/wiki/ウルトラQの登場怪獣#古代怪獣_ゴメス "wikilink")、[リトラ](https://ja.wikipedia.org/wiki/ウルトラQの登場怪獣#原始怪鳥_リトラ "wikilink")、[ナメゴン](https://ja.wikipedia.org/wiki/ウルトラQの登場怪獣#火星怪獣_ナメゴン "wikilink")、[ガラモン](https://ja.wikipedia.org/wiki/ガラモン_\(ウルトラ怪獣\) "wikilink")、[セミ人間](https://ja.wikipedia.org/wiki/セミ人間 "wikilink")、[カネゴン](https://ja.wikipedia.org/wiki/カネゴン "wikilink")、[ケムール人](https://ja.wikipedia.org/wiki/ケムール人 "wikilink")が、多々良島で[レッドキング](../Page/レッドキング.md "wikilink")、[チャンドラー](https://ja.wikipedia.org/wiki/チャンドラー_\(ウルトラ怪獣\) "wikilink")、[マグラー](https://ja.wikipedia.org/wiki/ウルトラマンの登場怪獣#地底怪獣_マグラー "wikilink")、[ピグモン](https://ja.wikipedia.org/wiki/ピグモン "wikilink")（複数登場）、[ゲスラ](https://ja.wikipedia.org/wiki/ゲスラ "wikilink")（原典よりサイズは小さい）が登場。また[ガボラ](https://ja.wikipedia.org/wiki/ガボラ "wikilink")・[ジラース](https://ja.wikipedia.org/wiki/ジラース "wikilink")・[ギャンゴ](https://ja.wikipedia.org/wiki/ギャンゴ "wikilink")・[ペスター](https://ja.wikipedia.org/wiki/ペスター "wikilink")なども出現した。怪獣墓場には多数の怪獣の死体（[ベムラー](https://ja.wikipedia.org/wiki/ウルトラマンの登場怪獣#宇宙怪獣_ベムラー "wikilink")、[ネロンガ](https://ja.wikipedia.org/wiki/ネロンガ "wikilink")、[テレスドン](../Page/テレスドン.md "wikilink")、[ガマクジラ](https://ja.wikipedia.org/wiki/ガマクジラ "wikilink")、[ガヴァドン](https://ja.wikipedia.org/wiki/ガヴァドン "wikilink")（A.B含む）、[シーボーズ](https://ja.wikipedia.org/wiki/ウルトラマンの登場怪獣#亡霊怪獣_シーボーズ "wikilink")、[グビラ](https://ja.wikipedia.org/wiki/ウルトラマンの登場怪獣#深海怪獣_グビラ "wikilink")、ゴメス、[ケムラー](https://ja.wikipedia.org/wiki/ケムラー_\(ウルトラ怪獣\) "wikilink")、[ドドンゴの姿も映っていたが](https://ja.wikipedia.org/wiki/ウルトラマンの登場怪獣#ミイラ怪獣_ドドンゴ "wikilink")、これらは全てゼットンの材料になった模様。
+この他、プロローグで『[ウルトラQ](../Page/ウルトラQ.md "wikilink")』に登場した[ゴメス](https://ja.wikipedia.org/wiki/ウルトラQの登場怪獣#古代怪獣_ゴメス "wikilink")、[リトラ](https://ja.wikipedia.org/wiki/ウルトラQの登場怪獣#原始怪鳥_リトラ "wikilink")、[ナメゴン](https://ja.wikipedia.org/wiki/ウルトラQの登場怪獣#火星怪獣_ナメゴン "wikilink")、[ガラモン](https://ja.wikipedia.org/wiki/ガラモン_\(ウルトラ怪獣\) "wikilink")、[セミ人間](https://ja.wikipedia.org/wiki/セミ人間 "wikilink")、[カネゴン](../Page/カネゴン.md "wikilink")、[ケムール人](../Page/ケムール人.md "wikilink")が、多々良島で[レッドキング](../Page/レッドキング.md "wikilink")、[チャンドラー](../Page/チャンドラー_\(ウルトラ怪獣\).md "wikilink")、[マグラー](https://ja.wikipedia.org/wiki/ウルトラマンの登場怪獣#地底怪獣_マグラー "wikilink")、[ピグモン](../Page/ピグモン.md "wikilink")（複数登場）、[ゲスラ](https://ja.wikipedia.org/wiki/ゲスラ "wikilink")（原典よりサイズは小さい）が登場。また[ガボラ](../Page/ガボラ.md "wikilink")・[ジラース](../Page/ジラース.md "wikilink")・[ギャンゴ](https://ja.wikipedia.org/wiki/ギャンゴ "wikilink")・[ペスター](../Page/ペスター.md "wikilink")なども出現した。怪獣墓場には多数の怪獣の死体（[ベムラー](https://ja.wikipedia.org/wiki/ウルトラマンの登場怪獣#宇宙怪獣_ベムラー "wikilink")、[ネロンガ](https://ja.wikipedia.org/wiki/ネロンガ "wikilink")、[テレスドン](../Page/テレスドン.md "wikilink")、[ガマクジラ](https://ja.wikipedia.org/wiki/ガマクジラ "wikilink")、[ガヴァドン](https://ja.wikipedia.org/wiki/ガヴァドン "wikilink")（A.B含む）、[シーボーズ](https://ja.wikipedia.org/wiki/ウルトラマンの登場怪獣#亡霊怪獣_シーボーズ "wikilink")、[グビラ](https://ja.wikipedia.org/wiki/ウルトラマンの登場怪獣#深海怪獣_グビラ "wikilink")、ゴメス、[ケムラー](../Page/ケムラー_\(ウルトラ怪獣\).md "wikilink")、[ドドンゴの姿も映っていたが](https://ja.wikipedia.org/wiki/ウルトラマンの登場怪獣#ミイラ怪獣_ドドンゴ "wikilink")、これらは全てゼットンの材料になった模様。
 
 ## TV版との主な相違点
 

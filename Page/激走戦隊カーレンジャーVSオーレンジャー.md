@@ -32,9 +32,9 @@ VSシリーズ</p></td>
 
 [スーパー戦隊シリーズ](https://ja.wikipedia.org/wiki/スーパー戦隊シリーズ "wikilink")『[激走戦隊カーレンジャー](../Page/激走戦隊カーレンジャー.md "wikilink")』のオリジナルビデオ作品であり、前作『[超力戦隊オーレンジャー オーレVSカクレンジャー](../Page/超力戦隊オーレンジャー_オーレVSカクレンジャー.md "wikilink")』に端を発した[スーパー戦隊OVシリーズの第](../Page/スーパー戦隊Vシネマ.md "wikilink")2弾に当たる。前作と同様、本作品もスーパー戦隊シリーズ前作『[超力戦隊オーレンジャー](../Page/超力戦隊オーレンジャー.md "wikilink")』とのクロスオーバー作品として制作されており、本作品からは2大戦隊の巨大ロボも共演するようになる。『カーレンジャー』テレビシリーズに比定すると、暴走皇帝エグゾスが登場する第37話以降、ゾンネットの帰郷に関連する第45話より前にあたると思われる。
 
-2大戦隊共に互いの存在を知らず、またレッドレーサーはマシン帝国バラノイアを知らなかったために騒動に繋がり、さらにオーレッドも宇宙暴走族ボーゾックを知らずに加勢した彼らを自分たちの味方だと勘違いするという展開も含め、主体となる『カーレンジャー』のコミカル且つ強烈な作風が『オーレンジャー』をすっかり呑み込んでおり、三浦参謀長役の[宮内洋](../Page/宮内洋.md "wikilink")も当初は「こんな戦隊はおかしい\!」と戸惑いを隠せなかった。しかし[坂本太郎監督に説き伏せられて悩みながら参加するうちにカーレンジャーを理解し](https://ja.wikipedia.org/wiki/坂本太郎_\(テレビドラマ監督\) "wikilink")、それからは楽しそうに演じるようになったという。
+2大戦隊共に互いの存在を知らず、またレッドレーサーはマシン帝国バラノイアを知らなかったために騒動に繋がり、さらにオーレッドも宇宙暴走族ボーゾックを知らずに加勢した彼らを自分たちの味方だと勘違いするという展開も含め、主体となる『カーレンジャー』のコミカル且つ強烈な作風が『オーレンジャー』をすっかり呑み込んでおり、三浦参謀長役の[宮内洋](../Page/宮内洋.md "wikilink")も当初は「こんな戦隊はおかしい\!」と戸惑いを隠せなかった。しかし[坂本太郎監督に説き伏せられて悩みながら参加するうちにカーレンジャーを理解し](../Page/坂本太郎_\(テレビドラマ監督\).md "wikilink")、それからは楽しそうに演じるようになったという。
 
-上記したナンセンスな作風は、『カーレンジャー』テレビシリーズの脚本も務めた[浦沢義雄](https://ja.wikipedia.org/wiki/浦沢義雄 "wikilink")の腕によるところが大きいが、ヒーローというジャンルにもキャラクターにも愛着がなく、ただ面白いことだけをやりたいという姿勢の浦沢にとって、戦隊同士の共演作品は人物が多すぎて不自由な思いをするものだった。宮内を登場させることも含めて、[髙寺成紀プロデューサーの意向や発想を反映した作品だったと浦沢は語っている](https://ja.wikipedia.org/wiki/高寺重徳 "wikilink")。
+上記したナンセンスな作風は、『カーレンジャー』テレビシリーズの脚本も務めた[浦沢義雄](../Page/浦沢義雄.md "wikilink")の腕によるところが大きいが、ヒーローというジャンルにもキャラクターにも愛着がなく、ただ面白いことだけをやりたいという姿勢の浦沢にとって、戦隊同士の共演作品は人物が多すぎて不自由な思いをするものだった。宮内を登場させることも含めて、[髙寺成紀プロデューサーの意向や発想を反映した作品だったと浦沢は語っている](https://ja.wikipedia.org/wiki/高寺重徳 "wikilink")。
 
 ## あらすじ
 
@@ -62,57 +62,57 @@ VSシリーズ</p></td>
 
   - プロデューサー：[髙寺成紀](https://ja.wikipedia.org/wiki/高寺重徳 "wikilink")（東映）、[加藤和夫](../Page/加藤和夫.md "wikilink")（東映ビデオ）
   - 原作：[八手三郎](../Page/八手三郎.md "wikilink")　
-  - 連載：[テレビマガジン](https://ja.wikipedia.org/wiki/テレビマガジン "wikilink")、[てれびくん](https://ja.wikipedia.org/wiki/てれびくん "wikilink")、[テレビランド](https://ja.wikipedia.org/wiki/テレビランド "wikilink")
-  - 監督：[坂本太郎](https://ja.wikipedia.org/wiki/坂本太郎_\(テレビドラマ監督\) "wikilink")
-  - 脚本：[浦沢義雄](https://ja.wikipedia.org/wiki/浦沢義雄 "wikilink")
-  - 撮影：[いのくままさお](https://ja.wikipedia.org/wiki/いのくままさお "wikilink")
-  - 音楽：[佐橋俊彦](https://ja.wikipedia.org/wiki/佐橋俊彦 "wikilink")、[横山菁児](https://ja.wikipedia.org/wiki/横山菁児 "wikilink")
-  - アクション監督：[J.ムラカミ](https://ja.wikipedia.org/wiki/村上潤 "wikilink")（[ジャパンアクションクラブ](https://ja.wikipedia.org/wiki/ジャパンアクションエンタープライズ "wikilink")）
-  - 助監督：[竹本昇](https://ja.wikipedia.org/wiki/竹本昇 "wikilink")　
+  - 連載：[テレビマガジン](../Page/テレビマガジン.md "wikilink")、[てれびくん](../Page/てれびくん.md "wikilink")、[テレビランド](../Page/テレビランド.md "wikilink")
+  - 監督：[坂本太郎](../Page/坂本太郎_\(テレビドラマ監督\).md "wikilink")
+  - 脚本：[浦沢義雄](../Page/浦沢義雄.md "wikilink")
+  - 撮影：[いのくままさお](../Page/いのくままさお.md "wikilink")
+  - 音楽：[佐橋俊彦](../Page/佐橋俊彦.md "wikilink")、[横山菁児](../Page/横山菁児.md "wikilink")
+  - アクション監督：[J.ムラカミ](../Page/村上潤.md "wikilink")（[ジャパンアクションクラブ](../Page/ジャパンアクションエンタープライズ.md "wikilink")）
+  - 助監督：[竹本昇](../Page/竹本昇.md "wikilink")　
   - 制作：東映、[東映ビデオ](../Page/東映ビデオ.md "wikilink")
 
 ## キャスト
 
-  - 陣内恭介 / レッドレーサー（声）：[岸祐二](https://ja.wikipedia.org/wiki/岸祐二 "wikilink")
-  - 土門直樹 / ブルーレーサー（声）：[増島愛浩](https://ja.wikipedia.org/wiki/増島愛浩 "wikilink")
-  - 上杉実 / グリーンレーサー（声）：[福田佳弘](https://ja.wikipedia.org/wiki/福田佳弘 "wikilink")
-  - 志乃原菜摘 / イエローレーサー（声）：[本橋由香](https://ja.wikipedia.org/wiki/本橋由香 "wikilink")
+  - 陣内恭介 / レッドレーサー（声）：[岸祐二](../Page/岸祐二.md "wikilink")
+  - 土門直樹 / ブルーレーサー（声）：[増島愛浩](../Page/増島愛浩.md "wikilink")
+  - 上杉実 / グリーンレーサー（声）：[福田佳弘](../Page/福田佳弘.md "wikilink")
+  - 志乃原菜摘 / イエローレーサー（声）：[本橋由香](../Page/本橋由香.md "wikilink")
   - 八神洋子 / ピンクレーサー（声）：[来栖あつこ](https://ja.wikipedia.org/wiki/来栖あつこ "wikilink")
   - 星野吾郎 / オーレッド（声）：[宍戸勝](https://ja.wikipedia.org/wiki/宍戸勝 "wikilink")
-  - 四日市昌平 / オーグリーン（声）：[正岡邦夫](https://ja.wikipedia.org/wiki/正岡邦夫 "wikilink")
+  - 四日市昌平 / オーグリーン（声）：[正岡邦夫](../Page/正岡邦夫.md "wikilink")
   - 三田祐司 / オーブルー（声）：[合田雅吏](../Page/合田雅吏.md "wikilink")
-  - 二条樹里 / オーイエロー（声）：[穂高あゆみ](https://ja.wikipedia.org/wiki/穂高あゆみ "wikilink")
+  - 二条樹里 / オーイエロー（声）：[穂高あゆみ](../Page/穂高あゆみ.md "wikilink")
   - 丸尾桃 / オーピンク（声）：[さとう珠緒](https://ja.wikipedia.org/wiki/さとう珠緒 "wikilink")
   - 三浦尚之参謀長：[宮内洋](../Page/宮内洋.md "wikilink")
   - 美女ゾンネット：[七瀬理香](https://ja.wikipedia.org/wiki/七瀬理香 "wikilink")
 
 ### 声の出演
 
-  - ダップ：[まるたまり](https://ja.wikipedia.org/wiki/まるたまり "wikilink")
-  - シグナルマン・ポリス・コバーン：[大塚芳忠](https://ja.wikipedia.org/wiki/大塚芳忠 "wikilink")
+  - ダップ：[まるたまり](../Page/まるたまり.md "wikilink")
+  - シグナルマン・ポリス・コバーン：[大塚芳忠](../Page/大塚芳忠.md "wikilink")
   - 総長ガイナモ：[大竹宏](../Page/大竹宏.md "wikilink")
-  - 副長ゼルモダ：[津久井教生](https://ja.wikipedia.org/wiki/津久井教生 "wikilink")
-  - 発明家グラッチ：[長嶝高士](https://ja.wikipedia.org/wiki/長嶝高士 "wikilink")
-  - 暴走皇帝エグゾス：[小林修](https://ja.wikipedia.org/wiki/小林修_\(声優\) "wikilink")
-  - SSスタタンゾ：[高戸靖広](https://ja.wikipedia.org/wiki/高戸靖広 "wikilink")
-  - バラモビル：[渡部猛](https://ja.wikipedia.org/wiki/渡部猛 "wikilink")
+  - 副長ゼルモダ：[津久井教生](../Page/津久井教生.md "wikilink")
+  - 発明家グラッチ：[長嶝高士](../Page/長嶝高士.md "wikilink")
+  - 暴走皇帝エグゾス：[小林修](../Page/小林修_\(声優\).md "wikilink")
+  - SSスタタンゾ：[高戸靖広](../Page/高戸靖広.md "wikilink")
+  - バラモビル：[渡部猛](../Page/渡部猛.md "wikilink")
 
 ### スーツアクター
 
-  - レッドレーサー、オーレッド、RVロボ、VRVロボ、オーレンジャーロボ、総長ガイナモ - [横山一敏](https://ja.wikipedia.org/wiki/横山一敏 "wikilink")
-  - ブルーレーサー、オーレンジャーロボ - [竹内康博](https://ja.wikipedia.org/wiki/竹内康博 "wikilink")
-  - グリーンレーサー - [大藤直樹](https://ja.wikipedia.org/wiki/大藤直樹 "wikilink")
-  - [大林勝](https://ja.wikipedia.org/wiki/大林勝 "wikilink")
-  - [中川素州](https://ja.wikipedia.org/wiki/中川素州 "wikilink")
-  - [田邊智恵](https://ja.wikipedia.org/wiki/田邊智恵 "wikilink")
-  - バラモビル - [蜂須賀祐一](https://ja.wikipedia.org/wiki/蜂須賀祐一 "wikilink")
-  - [福沢博文](https://ja.wikipedia.org/wiki/福沢博文 "wikilink")
+  - レッドレーサー、オーレッド、RVロボ、VRVロボ、オーレンジャーロボ、総長ガイナモ - [横山一敏](../Page/横山一敏.md "wikilink")
+  - ブルーレーサー、オーレンジャーロボ - [竹内康博](../Page/竹内康博.md "wikilink")
+  - グリーンレーサー - [大藤直樹](../Page/大藤直樹.md "wikilink")
+  - [大林勝](../Page/大林勝.md "wikilink")
+  - [中川素州](../Page/中川素州.md "wikilink")
+  - [田邊智恵](../Page/田邊智恵.md "wikilink")
+  - バラモビル - [蜂須賀祐一](../Page/蜂須賀祐一.md "wikilink")
+  - [福沢博文](../Page/福沢博文.md "wikilink")
   - [森美昭](https://ja.wikipedia.org/wiki/森美昭 "wikilink")
-  - [伊藤慎](https://ja.wikipedia.org/wiki/伊藤慎 "wikilink")
-  - [神尾直子](https://ja.wikipedia.org/wiki/神尾直子 "wikilink")
+  - [伊藤慎](../Page/伊藤慎.md "wikilink")
+  - [神尾直子](../Page/神尾直子.md "wikilink")
   - シグナルマン - [O-BITOH](https://ja.wikipedia.org/wiki/O-BITOH "wikilink")
-  - [中川清人](https://ja.wikipedia.org/wiki/中川清人 "wikilink")
-  - [村上利恵](https://ja.wikipedia.org/wiki/村上利恵 "wikilink")
+  - [中川清人](../Page/中川清人.md "wikilink")
+  - [村上利恵](../Page/村上利恵.md "wikilink")
 
 ## 音楽
 
@@ -120,7 +120,7 @@ VSシリーズ</p></td>
 
 :; オープニングテーマ「激走戦隊カーレンジャー 〜フルアクセルヴァージョン〜」
 
-:: 作詞：[森雪之丞](https://ja.wikipedia.org/wiki/森雪之丞 "wikilink") / 作曲：小路隆 / 編曲：[奥慶一](https://ja.wikipedia.org/wiki/奥慶一 "wikilink") / 歌：[高山成孝](https://ja.wikipedia.org/wiki/高山成孝 "wikilink")
+:: 作詞：[森雪之丞](../Page/森雪之丞.md "wikilink") / 作曲：小路隆 / 編曲：[奥慶一](../Page/奥慶一.md "wikilink") / 歌：[高山成孝](https://ja.wikipedia.org/wiki/高山成孝 "wikilink")
 
 :; エンディングテーマ 「天国サンバ」
 
@@ -136,7 +136,7 @@ VSシリーズ</p></td>
   -
 
       -
-        作詞：小泉卓 / 作曲・編曲：佐橋俊彦 / 歌：[坂井紀雄](https://ja.wikipedia.org/wiki/坂井紀雄 "wikilink")
+        作詞：小泉卓 / 作曲・編曲：佐橋俊彦 / 歌：[坂井紀雄](../Page/坂井紀雄.md "wikilink")
 
 ## メディア
 

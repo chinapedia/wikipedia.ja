@@ -5,11 +5,11 @@
 
 ## 解説
 
-  - 産休後の復帰第1弾シングルだった「[I HAVE NEVER SEEN](https://ja.wikipedia.org/wiki/I_HAVE_NEVER_SEEN "wikilink")」から3ヶ月ぶりの復帰第2弾シングルで、[avex traxよりリリース](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+  - 産休後の復帰第1弾シングルだった「[I HAVE NEVER SEEN](../Page/I_HAVE_NEVER_SEEN.md "wikilink")」から3ヶ月ぶりの復帰第2弾シングルで、[avex traxよりリリース](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
   - ジャケットもPV撮影現場で撮られたもの。
   - 本人出演の[コーセー](../Page/コーセー.md "wikilink") "VISEE" CMソング。"VISEE" で流れたヴァージョンは、CDと多少アレンジが違う。
   - この曲が発売された[1999年](../Page/1999年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink")当日に[安室奈美恵実母殺害事件](https://ja.wikipedia.org/wiki/安室奈美恵実母殺害事件 "wikilink")が起こった。発売日は自身が出演する"nice One" のCM記者発表イベントが予定されていたが、急遽キャンセルになるなど、この事件の影響で、一時プロモーション活動が一切ストップされた。事件12日後の3月29日に「[HEY\!HEY\!HEY\!](https://ja.wikipedia.org/wiki/HEY!HEY!HEY! "wikilink")」に出演時した際には「ご心配をおかけしました」と第一声コメントを残した。2000年の1月、自分の公式ホームページで「このとき、引退を真剣に考えていました。しかしファンのみなさんの温かい言葉で励まされ、やっと立ち直ることができました」とコメントしている。また、後に「あの当時、歌う曲が「RESPECT the POWER OF LOVE」で本当によかった。歌ってて自分も元気になれた。もし他の曲なら泣いて歌えなかったかも…」とも語った。
-  - 「[第50回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第50回NHK紅白歌合戦 "wikilink")」に出場し（5年連続）、[黒人](https://ja.wikipedia.org/wiki/黒人 "wikilink")のゴスペル合唱団と一緒にデニム生地で作成されたドレスを着て同曲を披露した。
+  - 「[第50回NHK紅白歌合戦](../Page/第50回NHK紅白歌合戦.md "wikilink")」に出場し（5年連続）、[黒人](../Page/黒人.md "wikilink")のゴスペル合唱団と一緒にデニム生地で作成されたドレスを着て同曲を披露した。
 
 ## 収録曲
 
@@ -29,7 +29,7 @@ track2 Remix & Re-production: Roland Clark
 
 <!-- end list -->
 
-  - オリジナル『**[GENIUS 2000](https://ja.wikipedia.org/wiki/GENIUS_2000 "wikilink")**』
+  - オリジナル『**[GENIUS 2000](../Page/GENIUS_2000.md "wikilink")**』
       - 表記されていないが、アルバム・ヴァージョンで収録（フェード・インせず、最後まで流れる終わり方となる）。
   - ベスト『**[LOVE ENHANCED {{Color](https://ja.wikipedia.org/wiki/LOVE_ENHANCED_single_collection "wikilink")**』(new mix)
       - [アレンジを変更して収録](../Page/編曲.md "wikilink")

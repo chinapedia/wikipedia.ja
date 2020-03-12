@@ -5,10 +5,10 @@
 
 ## 経歴
 
-  - [2002年](../Page/2002年.md "wikilink")[7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink")、[KAIENTAI DOJOでデビュー](https://ja.wikipedia.org/wiki/KAIENTAI_DOJO "wikilink")。ユニット「[X's](https://ja.wikipedia.org/wiki/X's "wikilink")」に加入したが後に、[つぼ原人に洗脳されてユニット](../Page/小坪弘良.md "wikilink")「[パルプンテ](https://ja.wikipedia.org/wiki/パルプンテ_\(プロレス\) "wikilink")」に移籍。その後、ユニット「[ロス・クワトロ・タバスコス](https://ja.wikipedia.org/wiki/ロス・クワトロ・タバスコス "wikilink")」との決着戦でチームは敗北して、じゃんけんの末に[プエルトリコ](../Page/プエルトリコ.md "wikilink")への無期限再修業に送り出された。
+  - [2002年](../Page/2002年.md "wikilink")[7月23日](../Page/7月23日.md "wikilink")、[KAIENTAI DOJOでデビュー](../Page/KAIENTAI_DOJO.md "wikilink")。ユニット「[X's](https://ja.wikipedia.org/wiki/X's "wikilink")」に加入したが後に、[つぼ原人に洗脳されてユニット](../Page/小坪弘良.md "wikilink")「[パルプンテ](https://ja.wikipedia.org/wiki/パルプンテ_\(プロレス\) "wikilink")」に移籍。その後、ユニット「[ロス・クワトロ・タバスコス](https://ja.wikipedia.org/wiki/ロス・クワトロ・タバスコス "wikilink")」との決着戦でチームは敗北して、じゃんけんの末に[プエルトリコ](../Page/プエルトリコ.md "wikilink")への無期限再修業に送り出された。
   - [2004年](../Page/2004年.md "wikilink")[6月6日](../Page/6月6日.md "wikilink")、[千葉Blue Fieldで開催した](https://ja.wikipedia.org/wiki/Blue_Field "wikilink")「X's卒業興行」の全試合終了後に来場したが姿を消す。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[1月3日](../Page/1月3日.md "wikilink")、K-DOJO千葉Blue Field大会「[CLUB-K ビックリショー](https://ja.wikipedia.org/wiki/CLUB-K_ビックリショー "wikilink")」に参戦したが再び姿を消す。
-  - [2012年](../Page/2012年.md "wikilink")[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")、K-DOJO[後楽園ホール](https://ja.wikipedia.org/wiki/後楽園ホール "wikilink")大会「[KAIENTAI DOJO 10周年記念興行 CLUB-K SUPER evolution10](https://ja.wikipedia.org/wiki/CLUB-K_SUPER "wikilink")」に[OB選手として参戦](https://ja.wikipedia.org/wiki/OB・OG "wikilink")。
+  - [2005年](../Page/2005年.md "wikilink")[1月3日](../Page/1月3日.md "wikilink")、K-DOJO千葉Blue Field大会「[CLUB-K ビックリショー](https://ja.wikipedia.org/wiki/CLUB-K_ビックリショー "wikilink")」に参戦したが再び姿を消す。
+  - [2012年](../Page/2012年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")、K-DOJO[後楽園ホール](../Page/後楽園ホール.md "wikilink")大会「[KAIENTAI DOJO 10周年記念興行 CLUB-K SUPER evolution10](https://ja.wikipedia.org/wiki/CLUB-K_SUPER "wikilink")」に[OB選手として参戦](https://ja.wikipedia.org/wiki/OB・OG "wikilink")。
 
 ## 得意技
 

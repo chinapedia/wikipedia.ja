@@ -1,9 +1,9 @@
 > この記事は[CA!](https://ja.wikipedia.org/wiki/CA!)から翻訳されています。
 
 
-『**CAとお呼びっ\!**』（シーエーとおよびっ）は、[花津ハナヨ](../Page/花津ハナヨ.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。[小学館](../Page/小学館.md "wikilink")「[ビッグコミックスピリッツ](https://ja.wikipedia.org/wiki/ビッグコミックスピリッツ "wikilink")」で[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")から[2007年](../Page/2007年.md "wikilink")2号まで連載された。
+『**CAとお呼びっ\!**』（シーエーとおよびっ）は、[花津ハナヨ](../Page/花津ハナヨ.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。[小学館](../Page/小学館.md "wikilink")「[ビッグコミックスピリッツ](https://ja.wikipedia.org/wiki/ビッグコミックスピリッツ "wikilink")」で[2005年](../Page/2005年.md "wikilink")から[2007年](../Page/2007年.md "wikilink")2号まで連載された。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")には[テレビドラマ](../Page/テレビドラマ.md "wikilink")された。
+[2006年](../Page/2006年.md "wikilink")には[テレビドラマ](../Page/テレビドラマ.md "wikilink")された。
 
 ## ストーリー
 
@@ -13,11 +13,11 @@
 
 ## テレビドラマ
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月5日](../Page/7月5日.md "wikilink")から[9月13日](../Page/9月13日.md "wikilink")まで毎週水曜日22:00 - 22:54\[1\]に、[日本テレビ系の](../Page/日本テレビ放送網.md "wikilink")「[水曜ドラマ](https://ja.wikipedia.org/wiki/水曜ドラマ_\(日本テレビ\) "wikilink")」枠で放送され、[観月ありさ](https://ja.wikipedia.org/wiki/観月ありさ "wikilink")は『[あした天気になあれ。](https://ja.wikipedia.org/wiki/あした天気になあれ。 "wikilink")』以来3年ぶりの同局系ドラマ主演となった。
+[2006年](../Page/2006年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink")から[9月13日](../Page/9月13日.md "wikilink")まで毎週水曜日22:00 - 22:54\[1\]に、[日本テレビ系の](../Page/日本テレビ放送網.md "wikilink")「[水曜ドラマ](../Page/水曜ドラマ_\(日本テレビ\).md "wikilink")」枠で放送され、[観月ありさ](https://ja.wikipedia.org/wiki/観月ありさ "wikilink")は『[あした天気になあれ。](../Page/あした天気になあれ。.md "wikilink")』以来3年ぶりの同局系ドラマ主演となった。
 
-[スポンサー](https://ja.wikipedia.org/wiki/スポンサー "wikilink")バック時は独特の[提供クレジット](https://ja.wikipedia.org/wiki/提供クレジット "wikilink")を使用しており、飛行機の発射をイメージした独特の演出となっていた。
+[スポンサー](../Page/スポンサー.md "wikilink")バック時は独特の[提供クレジット](../Page/提供クレジット.md "wikilink")を使用しており、飛行機の発射をイメージした独特の演出となっていた。
 
-原作漫画がコミカルな内容であり、原作寄りのテイストにするために実在の航空会社とは提携をしなかったものの、劇中[全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")（ANA）が主に使用する[羽田空港第](https://ja.wikipedia.org/wiki/東京国際空港 "wikilink")2ターミナルビルやANAの航空機が登場する。また、空港のターミナルビルの描写として大型[見本市](https://ja.wikipedia.org/wiki/見本市 "wikilink")会場「[東京ビッグサイト](../Page/東京国際展示場.md "wikilink")」が多用されていた。
+原作漫画がコミカルな内容であり、原作寄りのテイストにするために実在の航空会社とは提携をしなかったものの、劇中[全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")（ANA）が主に使用する[羽田空港第](https://ja.wikipedia.org/wiki/東京国際空港 "wikilink")2ターミナルビルやANAの航空機が登場する。また、空港のターミナルビルの描写として大型[見本市](../Page/見本市.md "wikilink")会場「[東京ビッグサイト](../Page/東京国際展示場.md "wikilink")」が多用されていた。
 
 茶髪、ミニスカートの制服、ヒールの高い靴を履くなど、実際の客室乗務ではありえない非現実さをドラマの売りにしている。
 
@@ -29,7 +29,7 @@
 
   - 山田紗依〈28〉
     演 - [観月ありさ](https://ja.wikipedia.org/wiki/観月ありさ "wikilink")
-    初登場時は入社2年目。岡山出身で、[契約制客室乗務員](https://ja.wikipedia.org/wiki/契約制客室乗務員 "wikilink")。両親譲りの見栄っ張りで一人っ子。原作の最終話で正社員になる。
+    初登場時は入社2年目。岡山出身で、[契約制客室乗務員](../Page/契約制客室乗務員.md "wikilink")。両親譲りの見栄っ張りで一人っ子。原作の最終話で正社員になる。
     失敗ばかりするが、乗客のことを1番に考えているCA。同じ会社で働くパイロット、高岡に恋をする。
   - 高岡真
     演 - [谷原章介](../Page/谷原章介.md "wikilink")
@@ -57,7 +57,7 @@
     演 - [川原亜矢子](https://ja.wikipedia.org/wiki/川原亜矢子 "wikilink")
     紗依の上司（チーフ）。全盛期は伝説のCAという異名を持つ。
   - 南田俊彦
-    演 - [沢村一樹](https://ja.wikipedia.org/wiki/沢村一樹 "wikilink")
+    演 - [沢村一樹](../Page/沢村一樹.md "wikilink")
     紗依の配属されている課の課長。元敏腕パイロット。
   - 辺母木
     客室系総合職。二階堂と同じ出身大学。最終話で紗依と結婚する。
@@ -82,15 +82,15 @@
     演 - [忍成修吾](../Page/忍成修吾.md "wikilink")
     行きつけの居酒屋の店員。
   - 橋本彩
-    演 - [中山恵](https://ja.wikipedia.org/wiki/中山恵 "wikilink")
+    演 - [中山恵](../Page/中山恵.md "wikilink")
   - 工藤まりな
     演 - [鎌田亜未](https://ja.wikipedia.org/wiki/鎌田亜未 "wikilink")
   - 今井樹里
     演 - [矢吹春奈](https://ja.wikipedia.org/wiki/矢吹春奈 "wikilink")
   - 桜井舞子
-    演 - [民部良子](https://ja.wikipedia.org/wiki/民部良子 "wikilink")
+    演 - [民部良子](../Page/民部良子.md "wikilink")
   - 大木太一
-    演 - [金田明夫](https://ja.wikipedia.org/wiki/金田明夫 "wikilink")
+    演 - [金田明夫](../Page/金田明夫.md "wikilink")
   - 虎馬
     紗依が大学に入って最初に参加した合コンで、バカにした男。
 
@@ -100,9 +100,9 @@
 
 <!-- end list -->
 
-  - 高橋マサル - [賀集利樹](https://ja.wikipedia.org/wiki/賀集利樹 "wikilink")
+  - 高橋マサル - [賀集利樹](../Page/賀集利樹.md "wikilink")
   - 高橋久美子 - [小西美帆](../Page/小西美帆.md "wikilink")
-  - [ト字たかお](https://ja.wikipedia.org/wiki/ト字たかお "wikilink")、[木村翠](../Page/木村翠.md "wikilink")、[高柳葉子](https://ja.wikipedia.org/wiki/高柳葉子 "wikilink")、[若杉宏二](https://ja.wikipedia.org/wiki/若杉宏二 "wikilink")、[吉永秀平](https://ja.wikipedia.org/wiki/吉永秀平 "wikilink")、[岩尾万太郎](../Page/岩尾万太郎.md "wikilink")、[加藤四朗](../Page/加藤四朗.md "wikilink")、[杉村好江](https://ja.wikipedia.org/wiki/杉村好江 "wikilink")、[菊地佐玖子](https://ja.wikipedia.org/wiki/菊地佐玖子 "wikilink")、[真下有紀](https://ja.wikipedia.org/wiki/真下有紀 "wikilink")、[飯口美穂](../Page/飯口美穂.md "wikilink")、[明日香まゆ美](https://ja.wikipedia.org/wiki/明日香まゆ美 "wikilink")、[水森コウ太](https://ja.wikipedia.org/wiki/水森コウ太 "wikilink")、[後藤康夫](../Page/後藤康夫_\(俳優\).md "wikilink")、[関谷知大](https://ja.wikipedia.org/wiki/関谷知大 "wikilink")、[野々目良子](https://ja.wikipedia.org/wiki/野々目良子 "wikilink")、[長倉正和](https://ja.wikipedia.org/wiki/長倉正和 "wikilink")、[三輪優子](https://ja.wikipedia.org/wiki/三輪優子 "wikilink")、[布施曜子](https://ja.wikipedia.org/wiki/布施曜子 "wikilink")、[山中新](https://ja.wikipedia.org/wiki/山中新 "wikilink")、[佐久間梨乃](https://ja.wikipedia.org/wiki/佐久間梨乃 "wikilink")、[木村啓介](https://ja.wikipedia.org/wiki/木村啓介 "wikilink")、[松沢蓮](../Page/松沢蓮.md "wikilink")、[小笠原大晃](../Page/小笠原大晃.md "wikilink")、[坪田秀雄](../Page/坪田秀雄.md "wikilink")、[進藤公之](https://ja.wikipedia.org/wiki/進藤公之 "wikilink")、[大谷宏和](https://ja.wikipedia.org/wiki/大谷宏和 "wikilink")、[中島隼人](https://ja.wikipedia.org/wiki/中島隼人 "wikilink")、[高橋義治](https://ja.wikipedia.org/wiki/高橋義治_\(俳優\) "wikilink")
+  - [ト字たかお](../Page/ト字たかお.md "wikilink")、[木村翠](../Page/木村翠.md "wikilink")、[高柳葉子](https://ja.wikipedia.org/wiki/高柳葉子 "wikilink")、[若杉宏二](https://ja.wikipedia.org/wiki/若杉宏二 "wikilink")、[吉永秀平](https://ja.wikipedia.org/wiki/吉永秀平 "wikilink")、[岩尾万太郎](../Page/岩尾万太郎.md "wikilink")、[加藤四朗](../Page/加藤四朗.md "wikilink")、[杉村好江](https://ja.wikipedia.org/wiki/杉村好江 "wikilink")、[菊地佐玖子](https://ja.wikipedia.org/wiki/菊地佐玖子 "wikilink")、[真下有紀](https://ja.wikipedia.org/wiki/真下有紀 "wikilink")、[飯口美穂](../Page/飯口美穂.md "wikilink")、[明日香まゆ美](https://ja.wikipedia.org/wiki/明日香まゆ美 "wikilink")、[水森コウ太](https://ja.wikipedia.org/wiki/水森コウ太 "wikilink")、[後藤康夫](../Page/後藤康夫_\(俳優\).md "wikilink")、[関谷知大](https://ja.wikipedia.org/wiki/関谷知大 "wikilink")、[野々目良子](https://ja.wikipedia.org/wiki/野々目良子 "wikilink")、[長倉正和](https://ja.wikipedia.org/wiki/長倉正和 "wikilink")、[三輪優子](https://ja.wikipedia.org/wiki/三輪優子 "wikilink")、[布施曜子](https://ja.wikipedia.org/wiki/布施曜子 "wikilink")、[山中新](https://ja.wikipedia.org/wiki/山中新 "wikilink")、[佐久間梨乃](https://ja.wikipedia.org/wiki/佐久間梨乃 "wikilink")、[木村啓介](https://ja.wikipedia.org/wiki/木村啓介 "wikilink")、[松沢蓮](../Page/松沢蓮.md "wikilink")、[小笠原大晃](../Page/小笠原大晃.md "wikilink")、[坪田秀雄](../Page/坪田秀雄.md "wikilink")、[進藤公之](https://ja.wikipedia.org/wiki/進藤公之 "wikilink")、[大谷宏和](https://ja.wikipedia.org/wiki/大谷宏和 "wikilink")、[中島隼人](https://ja.wikipedia.org/wiki/中島隼人 "wikilink")、[高橋義治](https://ja.wikipedia.org/wiki/高橋義治_\(俳優\) "wikilink")
 
 <!-- end list -->
 
@@ -110,18 +110,18 @@
 
 <!-- end list -->
 
-  - 秋元光彦（IT社長） - [東幹久](https://ja.wikipedia.org/wiki/東幹久 "wikilink")
+  - 秋元光彦（IT社長） - [東幹久](../Page/東幹久.md "wikilink")
   - [山本与志恵](https://ja.wikipedia.org/wiki/山本与志恵 "wikilink")、[土肥美緒](../Page/美緒.md "wikilink")、[久保田裕之](https://ja.wikipedia.org/wiki/久保田裕之 "wikilink")、[辺見務](../Page/辺見務.md "wikilink")、[小場賢](../Page/小場賢.md "wikilink")、[原田健二](../Page/原田健二_\(俳優\).md "wikilink")、[春日潤也](../Page/春日潤也.md "wikilink")、[八代貴晴](https://ja.wikipedia.org/wiki/八代貴晴 "wikilink")、[浦川さとし](https://ja.wikipedia.org/wiki/浦川さとし "wikilink")、[葉山純也](https://ja.wikipedia.org/wiki/葉山純也 "wikilink")、[荒川智大](https://ja.wikipedia.org/wiki/荒川智大 "wikilink")、[佐々木正義](https://ja.wikipedia.org/wiki/佐々木正義 "wikilink")、[中村修二](../Page/中村修二.md "wikilink")、[石鍋正寿](https://ja.wikipedia.org/wiki/石鍋正寿 "wikilink")、[山田武彦](https://ja.wikipedia.org/wiki/山田武彦 "wikilink")、[齋藤康弘](https://ja.wikipedia.org/wiki/齋藤康弘 "wikilink")
 
 ### スタッフ
 
   - 原作 - [花津ハナヨ](../Page/花津ハナヨ.md "wikilink")（[小学館](../Page/小学館.md "wikilink")刊「週刊ビッグコミックスピリッツ」連載）
   - 脚本 - [梅田みか](https://ja.wikipedia.org/wiki/梅田みか "wikilink")
-  - 音楽 - [大島ミチル](https://ja.wikipedia.org/wiki/大島ミチル "wikilink")
+  - 音楽 - [大島ミチル](../Page/大島ミチル.md "wikilink")
   - 音楽プロデューサー - 伊藤圭一
-  - 主題歌 - [中ノ森BAND](https://ja.wikipedia.org/wiki/中ノ森BAND "wikilink")「[Fly High](https://ja.wikipedia.org/wiki/Fly_High_\(中ノ森BANDの曲\) "wikilink")」
+  - 主題歌 - [中ノ森BAND](../Page/中ノ森BAND.md "wikilink")「[Fly High](https://ja.wikipedia.org/wiki/Fly_High_\(中ノ森BANDの曲\) "wikilink")」
   - 原案協力 - [鈴木総一郎](https://ja.wikipedia.org/wiki/鈴木総一郎 "wikilink")、[山根誠司](https://ja.wikipedia.org/wiki/山根誠司 "wikilink")、[土田和之](https://ja.wikipedia.org/wiki/土田和之 "wikilink")（小学館「週刊ビッグコミックスピリッツ」編集部）
-  - 協力 - [NiTRo](../Page/日テレ・テクニカル・リソーシズ.md "wikilink")、[砧スタジオ](https://ja.wikipedia.org/wiki/東京メディアシティ "wikilink")、[日テレアート](../Page/日本テレビアート.md "wikilink")
+  - 協力 - [NiTRo](../Page/日テレ・テクニカル・リソーシズ.md "wikilink")、[砧スタジオ](../Page/東京メディアシティ.md "wikilink")、[日テレアート](../Page/日本テレビアート.md "wikilink")
   - プロデューサー - 加藤正俊（[日テレ](../Page/日本テレビ放送網.md "wikilink")）
   - 演出 - [大谷太郎](https://ja.wikipedia.org/wiki/大谷太郎 "wikilink")、[南雲聖一](https://ja.wikipedia.org/wiki/南雲聖一 "wikilink")、[山下学美](https://ja.wikipedia.org/wiki/山下学美 "wikilink")
   - 美術デザイン - [高野雅裕](https://ja.wikipedia.org/wiki/高野雅裕 "wikilink")
@@ -230,7 +230,7 @@
 <td><p>9.2%</p></td>
 </tr>
 <tr class="even">
-<td><p>平均視聴率 9.5%（視聴率は<a href="https://ja.wikipedia.org/wiki/関東地方" title="wikilink">関東地区</a>・<a href="https://ja.wikipedia.org/wiki/ビデオリサーチ" title="wikilink">ビデオリサーチ</a>社調べ）</p></td>
+<td><p>平均視聴率 9.5%（視聴率は<a href="https://ja.wikipedia.org/wiki/関東地方" title="wikilink">関東地区</a>・<a href="../Page/ビデオリサーチ.md" title="wikilink">ビデオリサーチ</a>社調べ）</p></td>
 <td></td>
 <td></td>
 <td></td>

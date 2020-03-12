@@ -1,17 +1,17 @@
 > この記事は[Y](https://ja.wikipedia.org/wiki/Y)から翻訳されています。
 
 
-**ノーマン・Y・ミネタ・サンノゼ国際空港**（ノーマン・Y・ミネタ・サンノゼこくさいくうこう、）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[サンノゼ](../Page/サンノゼ.md "wikilink")にある[国際空港](../Page/国際空港.md "wikilink")。単に**サンノゼ国際空港**とも呼ばれる。空港名が冠する「ノーマン・Y・ミネタ」は[日系人](https://ja.wikipedia.org/wiki/日系人 "wikilink")として初めてアメリカで閣僚となった[ノーマン・ヨシオ・ミネタ](https://ja.wikipedia.org/wiki/ノーマン・ミネタ "wikilink")（いずれも元、サンノゼ市長・下院議員・商務長官・運輸長官）に由来する。サンノゼ市は空港のマーケティングのため、名称を**サンノゼ・シリコンバレー・ミネタ国際空港**に変更することを検討している。
+**ノーマン・Y・ミネタ・サンノゼ国際空港**（ノーマン・Y・ミネタ・サンノゼこくさいくうこう、）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[サンノゼ](../Page/サンノゼ.md "wikilink")にある[国際空港](../Page/国際空港.md "wikilink")。単に**サンノゼ国際空港**とも呼ばれる。空港名が冠する「ノーマン・Y・ミネタ」は[日系人](https://ja.wikipedia.org/wiki/日系人 "wikilink")として初めてアメリカで閣僚となった[ノーマン・ヨシオ・ミネタ](../Page/ノーマン・ミネタ.md "wikilink")（いずれも元、サンノゼ市長・下院議員・商務長官・運輸長官）に由来する。サンノゼ市は空港のマーケティングのため、名称を**サンノゼ・シリコンバレー・ミネタ国際空港**に変更することを検討している。
 
 ## 概要
 
-サンノゼ市は[ベイエリアの中で最も人口の大きな都市でありながら](../Page/サンフランシスコ・ベイエリア.md "wikilink")、サンノゼ国際空港は近隣の[サンフランシスコ国際空港](../Page/サンフランシスコ国際空港.md "wikilink")及び[オークランド国際空港より規模が小さい](https://ja.wikipedia.org/wiki/オークランド国際空港_\(カリフォルニア州\) "wikilink")。
+サンノゼ市は[ベイエリアの中で最も人口の大きな都市でありながら](../Page/サンフランシスコ・ベイエリア.md "wikilink")、サンノゼ国際空港は近隣の[サンフランシスコ国際空港](../Page/サンフランシスコ国際空港.md "wikilink")及び[オークランド国際空港より規模が小さい](../Page/オークランド国際空港_\(カリフォルニア州\).md "wikilink")。
 
 サンノゼ国際空港は市の中心部から北西に約6kmと非常に近いため、利用者にとって利便性が高い半面、周辺が開発されているため拡張性に乏しい。市の中心部は航空法による高さ制限の対象であり、高層ビルの建築ができない。
 
 2010年の[JDパワー](../Page/JDパワー.md "wikilink")による調査の結果、サンノゼ国際空港はアメリカにある同規模の空港と比較して最も利用者満足度が低かった。但しこの調査はターミナルBの開業及びターミナルAの改装前に行われたことを留意すべきである。
 
-国際旅客定期路線は[メキシコ](../Page/メキシコ.md "wikilink")の[グアダラハラおよび](../Page/グアダラハラ_\(メキシコ\).md "wikilink")([ボラリス](https://ja.wikipedia.org/wiki/ボラリス "wikilink")及び[アラスカ航空](https://ja.wikipedia.org/wiki/アラスカ航空 "wikilink")）に加え[アメリカン航空](../Page/アメリカン航空.md "wikilink")が[東京/成田線を運航していたが](https://ja.wikipedia.org/wiki/成田国際空港 "wikilink")、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")をもって廃止された。[2013年](../Page/2013年.md "wikilink")[1月11日](../Page/1月11日.md "wikilink")より[全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")が就航開始、2015年6月23日現在毎日運航されている。機材は、[ボーイング787](https://ja.wikipedia.org/wiki/ボーイング787 "wikilink")-8型機またはボーイング787-9型機である。
+国際旅客定期路線は[メキシコ](../Page/メキシコ.md "wikilink")の[グアダラハラおよび](../Page/グアダラハラ_\(メキシコ\).md "wikilink")([ボラリス](https://ja.wikipedia.org/wiki/ボラリス "wikilink")及び[アラスカ航空](../Page/アラスカ航空.md "wikilink")）に加え[アメリカン航空](../Page/アメリカン航空.md "wikilink")が[東京/成田線を運航していたが](../Page/成田国際空港.md "wikilink")、[2006年](../Page/2006年.md "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")をもって廃止された。[2013年](../Page/2013年.md "wikilink")[1月11日](../Page/1月11日.md "wikilink")より[全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")が就航開始、2015年6月23日現在毎日運航されている。機材は、[ボーイング787](../Page/ボーイング787.md "wikilink")-8型機またはボーイング787-9型機である。
 
 ## ターミナル
 
@@ -49,9 +49,9 @@
 
 ### 公共交通手段
 
-[サンタクララバレー交通局](../Page/サンタクララバレー交通局.md "wikilink")(VTA)の運営するバス [No.10 "Free Airport Flyer"](http://www.vta.org/routes/rt10) を利用し、[Metro Airport駅にて](https://ja.wikipedia.org/wiki/:en:Metro/Airport_\(VTA\) "wikilink")[ライトレールに](https://ja.wikipedia.org/wiki/サンタクララバレー交通局#ライトレール "wikilink")、[Santa Clala駅にて](https://ja.wikipedia.org/wiki/:en:Santa_Clara_Station_\(California\) "wikilink")[カルトレイン](https://ja.wikipedia.org/wiki/カルトレイン "wikilink")、[アルタモント通勤急行](../Page/アルタモント通勤急行.md "wikilink")、[アムトラック](../Page/アムトラック.md "wikilink")に乗り継げる。
+[サンタクララバレー交通局](../Page/サンタクララバレー交通局.md "wikilink")(VTA)の運営するバス [No.10 "Free Airport Flyer"](http://www.vta.org/routes/rt10) を利用し、[Metro Airport駅にて](https://ja.wikipedia.org/wiki/:en:Metro/Airport_\(VTA\) "wikilink")[ライトレールに](https://ja.wikipedia.org/wiki/サンタクララバレー交通局#ライトレール "wikilink")、[Santa Clala駅にて](https://ja.wikipedia.org/wiki/:en:Santa_Clara_Station_\(California\) "wikilink")[カルトレイン](../Page/カルトレイン.md "wikilink")、[アルタモント通勤急行](../Page/アルタモント通勤急行.md "wikilink")、[アムトラック](../Page/アムトラック.md "wikilink")に乗り継げる。
 
-また、2025年には[バートがサンタクララ駅に乗り入れる予定である](https://ja.wikipedia.org/wiki/バート_\(鉄道\) "wikilink")。
+また、2025年には[バートがサンタクララ駅に乗り入れる予定である](../Page/バート_\(鉄道\).md "wikilink")。
 
 ## 脚注
 

@@ -5,13 +5,13 @@
 
 ## 経歴
 
-[2001年](../Page/2001年.md "wikilink")、[プエルトリコ](../Page/プエルトリコ.md "wikilink")時代の[KAIENTAI DOJOに入門](https://ja.wikipedia.org/wiki/KAIENTAI_DOJO "wikilink")。[10月18日](../Page/10月18日.md "wikilink")、プエルトリコの対[スペル・クレイジー](../Page/スペル・クレイジー.md "wikilink")戦でデビュー。同年、[IWAプエルトリコで](https://ja.wikipedia.org/wiki/インターナショナル・レスリング・アソシエーション "wikilink")[TAJIRI](https://ja.wikipedia.org/wiki/TAJIRI "wikilink")、[藤田ミノル](https://ja.wikipedia.org/wiki/藤田ミノル "wikilink")、[真壁伸也とユニット](https://ja.wikipedia.org/wiki/真壁刀義 "wikilink")「カミカゼ・クラン」を結成。[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")、[ディファ有明](../Page/ディファ有明.md "wikilink")で開催されたK-DOJOの旗揚げ戦に合わせて[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")に逆上陸。6月、ユニット「[F-words](https://ja.wikipedia.org/wiki/F-words "wikilink")」を結成。
+[2001年](../Page/2001年.md "wikilink")、[プエルトリコ](../Page/プエルトリコ.md "wikilink")時代の[KAIENTAI DOJOに入門](../Page/KAIENTAI_DOJO.md "wikilink")。[10月18日](../Page/10月18日.md "wikilink")、プエルトリコの対[スペル・クレイジー](../Page/スペル・クレイジー.md "wikilink")戦でデビュー。同年、[IWAプエルトリコで](https://ja.wikipedia.org/wiki/インターナショナル・レスリング・アソシエーション "wikilink")[TAJIRI](../Page/TAJIRI.md "wikilink")、[藤田ミノル](../Page/藤田ミノル.md "wikilink")、[真壁伸也とユニット](../Page/真壁刀義.md "wikilink")「カミカゼ・クラン」を結成。[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")、[ディファ有明](../Page/ディファ有明.md "wikilink")で開催されたK-DOJOの旗揚げ戦に合わせて[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")に逆上陸。6月、ユニット「[F-words](https://ja.wikipedia.org/wiki/F-words "wikilink")」を結成。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")、ユニット「[柏組](../Page/柏組.md "wikilink")」に加入。
+[2006年](../Page/2006年.md "wikilink")、ユニット「[柏組](../Page/柏組.md "wikilink")」に加入。
 
 [2007年](../Page/2007年.md "wikilink")、ユニット「[オメガ](https://ja.wikipedia.org/wiki/オメガ_\(プロレス\) "wikilink")」に加入。
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")、活動拠点を[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")から[大阪](../Page/大阪.md "wikilink")に移した。K-DOJOは[関西](https://ja.wikipedia.org/wiki/関西 "wikilink")大会限定参戦となる。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")、活動拠点を[千葉県](../Page/千葉県.md "wikilink")から[大阪](../Page/大阪.md "wikilink")に移した。K-DOJOは[関西](https://ja.wikipedia.org/wiki/関西 "wikilink")大会限定参戦となる。
 
 [2013年](../Page/2013年.md "wikilink")[6月9日](../Page/6月9日.md "wikilink")、大阪で結婚披露宴を行った。
 
@@ -46,7 +46,7 @@
 ## 関連項目
 
   - [プロレスラー一覧](../Page/プロレスラー一覧.md "wikilink")
-  - [大阪府出身の人物一覧](https://ja.wikipedia.org/wiki/大阪府出身の人物一覧 "wikilink")
+  - [大阪府出身の人物一覧](../Page/大阪府出身の人物一覧.md "wikilink")
 
 ## 外部リンク
 

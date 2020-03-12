@@ -5,7 +5,7 @@
 
 ## 放送時間
 
-2018年4月2日からの放送時間は毎週月曜 - 金曜 18:25 - 19:00 （[日本標準時](../Page/日本標準時.md "wikilink")）。直前の時間帯に放送されている九州・沖縄地区の[ブロックネット](https://ja.wikipedia.org/wiki/ブロックネット "wikilink")番組『[スーパーJチャンネル九州・沖縄](https://ja.wikipedia.org/wiki/スーパーJチャンネル九州・沖縄 "wikilink")』とは[ステーションブレイク無しで接続する](https://ja.wikipedia.org/wiki/コマーシャルメッセージ#CMの種類 "wikilink")。長崎文化放送公式サイトの番組表では[テレビ朝日](../Page/テレビ朝日.md "wikilink")発の全国ニュース『[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』とは別番組扱いにされているが、新聞その他のテレビ欄では『九州・沖縄』ともどもJチャンに一括内包（[コンプレックス編成](../Page/コンプレックス_\(番組形式\).md "wikilink")）されているかのように表記されている。
+2018年4月2日からの放送時間は毎週月曜 - 金曜 18:25 - 19:00 （[日本標準時](../Page/日本標準時.md "wikilink")）。直前の時間帯に放送されている九州・沖縄地区の[ブロックネット](../Page/ブロックネット.md "wikilink")番組『[スーパーJチャンネル九州・沖縄](../Page/スーパーJチャンネル九州・沖縄.md "wikilink")』とは[ステーションブレイク無しで接続する](https://ja.wikipedia.org/wiki/コマーシャルメッセージ#CMの種類 "wikilink")。長崎文化放送公式サイトの番組表では[テレビ朝日](../Page/テレビ朝日.md "wikilink")発の全国ニュース『[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』とは別番組扱いにされているが、新聞その他のテレビ欄では『九州・沖縄』ともどもJチャンに一括内包（[コンプレックス編成](../Page/コンプレックス_\(番組形式\).md "wikilink")）されているかのように表記されている。
 
 2018年4月2日から『[シリタカ\!](https://ja.wikipedia.org/wiki/シリタカ! "wikilink")』が18:15 - 18:25まで放送する。番組表では『スーパーJチャンネル九州・沖縄』と表示している。『シリタカ\!』とは[ステーションブレイク無しで接続する](https://ja.wikipedia.org/wiki/コマーシャルメッセージ#CMの種類 "wikilink")。
 
@@ -24,7 +24,7 @@
 
 ### 過去のキャスター
 
-  - [佐藤和輝](https://ja.wikipedia.org/wiki/佐藤和輝 "wikilink")
+  - [佐藤和輝](../Page/佐藤和輝.md "wikilink")
   - [上枝一樹](https://ja.wikipedia.org/wiki/上枝一樹 "wikilink")
   - [野村明弘](../Page/野村明弘.md "wikilink")
   - [松井陽子](../Page/松井陽子_\(アナウンサー\).md "wikilink")
@@ -84,7 +84,7 @@
 ## 関連項目
 
   - [スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")
-  - [スーパーJチャンネル九州・沖縄](https://ja.wikipedia.org/wiki/スーパーJチャンネル九州・沖縄 "wikilink")
+  - [スーパーJチャンネル九州・沖縄](../Page/スーパーJチャンネル九州・沖縄.md "wikilink")
   - [シリタカ\!](https://ja.wikipedia.org/wiki/シリタカ! "wikilink")
       - シリタカ\! の冒頭10分枠で[EPG](https://ja.wikipedia.org/wiki/EPG "wikilink")上では“スーパーJチャンネル九州・沖縄”と表記していた。
   - [nccニュース](https://ja.wikipedia.org/wiki/nccニュース "wikilink")

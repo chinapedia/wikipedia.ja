@@ -15,7 +15,7 @@
 
 ジョン・レノンが歌った[音楽](../Page/音楽.md "wikilink")や[メッセージ](../Page/メッセージ.md "wikilink")、愛と平和のスピリットを継承し、伝えていくことを目的に2001年からスタート。そのため参加アーティストは、ジョン・レノンのビートルズ時代・ソロ時代問わず、演奏・朗読などを行う。
 
-コンサートの売上は、[アジア](https://ja.wikipedia.org/wiki/アジア "wikilink")、[アフリカ](../Page/アフリカ.md "wikilink")などの貧困に苦しみ学校教育が行き届いていない地域の子どもたちへの、学校建設資金を提供している（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")のコンサートでは、[スマトラ沖地震](https://ja.wikipedia.org/wiki/スマトラ沖地震 "wikilink")・[津波](https://ja.wikipedia.org/wiki/津波 "wikilink")の被災地を中心に学校建設を支援した）。2001年から開催され、[2009年](../Page/2009年.md "wikilink")までに世界26か国95校が建設された。今後さらに建設される予定。
+コンサートの売上は、[アジア](../Page/アジア.md "wikilink")、[アフリカ](../Page/アフリカ.md "wikilink")などの貧困に苦しみ学校教育が行き届いていない地域の子どもたちへの、学校建設資金を提供している（[2005年](../Page/2005年.md "wikilink")のコンサートでは、[スマトラ沖地震](https://ja.wikipedia.org/wiki/スマトラ沖地震 "wikilink")・[津波](https://ja.wikipedia.org/wiki/津波 "wikilink")の被災地を中心に学校建設を支援した）。2001年から開催され、[2009年](../Page/2009年.md "wikilink")までに世界26か国95校が建設された。今後さらに建設される予定。
 
 オノ・ヨーコの諸事情により、[2013年](../Page/2013年.md "wikilink")の開催を最後に休止した\[1\]。
 
@@ -30,15 +30,15 @@
 #### 2001年出演アーティスト
 
   - [赤坂泰彦](../Page/赤坂泰彦.md "wikilink") - ゲスト出演
-  - Acid Test - [桜井和寿](../Page/桜井和寿.md "wikilink") ([Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")), [田原健一](https://ja.wikipedia.org/wiki/田原健一 "wikilink") (Mr.Children), [小林武史](../Page/小林武史.md "wikilink")
+  - Acid Test - [桜井和寿](../Page/桜井和寿.md "wikilink") ([Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")), [田原健一](../Page/田原健一.md "wikilink") (Mr.Children), [小林武史](../Page/小林武史.md "wikilink")
   - [奥田民生](../Page/奥田民生.md "wikilink")
-  - [押葉真吾](https://ja.wikipedia.org/wiki/押葉真吾 "wikilink")
+  - [押葉真吾](../Page/押葉真吾.md "wikilink")
   - [オノ・ヨーコ](../Page/オノ・ヨーコ.md "wikilink") (会場には出席せず、衛星生中継で合唱曲を一緒に歌った)
   - [白井貴子](../Page/白井貴子_\(歌手\).md "wikilink")
   - [ムッシュかまやつ](https://ja.wikipedia.org/wiki/ムッシュかまやつ "wikilink")
   - [ゆず](https://ja.wikipedia.org/wiki/ゆず_\(音楽グループ\) "wikilink")
-  - [吉井和哉](https://ja.wikipedia.org/wiki/吉井和哉 "wikilink") ([THE YELLOW MONKEY](https://ja.wikipedia.org/wiki/THE_YELLOW_MONKEY "wikilink"))
-  - [和田唱](https://ja.wikipedia.org/wiki/和田唱 "wikilink") ([TRICERATOPS](https://ja.wikipedia.org/wiki/TRICERATOPS "wikilink"))
+  - [吉井和哉](../Page/吉井和哉.md "wikilink") ([THE YELLOW MONKEY](../Page/THE_YELLOW_MONKEY.md "wikilink"))
+  - [和田唱](https://ja.wikipedia.org/wiki/和田唱 "wikilink") ([TRICERATOPS](../Page/TRICERATOPS.md "wikilink"))
 
 ほか
 
@@ -49,14 +49,14 @@
 #### 2002年出演アーティスト
 
   - [3B LAB.☆](https://ja.wikipedia.org/wiki/3B_LAB.☆ "wikilink")
-  - [大貫妙子](https://ja.wikipedia.org/wiki/大貫妙子 "wikilink")
-  - [押葉真吾](https://ja.wikipedia.org/wiki/押葉真吾 "wikilink")
+  - [大貫妙子](../Page/大貫妙子.md "wikilink")
+  - [押葉真吾](../Page/押葉真吾.md "wikilink")
   - [オノ・ヨーコ](../Page/オノ・ヨーコ.md "wikilink")
-  - [キリンジ](https://ja.wikipedia.org/wiki/キリンジ "wikilink")
+  - [キリンジ](../Page/キリンジ.md "wikilink")
   - [坂本龍一](../Page/坂本龍一.md "wikilink")
   - [曽我部恵一](../Page/曽我部恵一.md "wikilink")
   - [山崎まさよし](https://ja.wikipedia.org/wiki/山崎まさよし "wikilink")
-  - [杏子](https://ja.wikipedia.org/wiki/杏子_\(ミュージシャン\) "wikilink")
+  - [杏子](../Page/杏子_\(ミュージシャン\).md "wikilink")
   - [トータス松本](../Page/トータス松本.md "wikilink") ([ウルフルズ](../Page/ウルフルズ.md "wikilink"))
 
 ほか
@@ -75,20 +75,20 @@
       - [和田春比古](https://ja.wikipedia.org/wiki/和田春比古 "wikilink") ([キーボード](../Page/キーボード_\(楽器\).md "wikilink"))
       - モンゴル (キーボード)
       - [井ノ浦英雄](https://ja.wikipedia.org/wiki/井ノ浦英雄 "wikilink") ([ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink"))
-      - [バカボン鈴木](https://ja.wikipedia.org/wiki/バカボン鈴木 "wikilink") ([ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink"))
+      - [バカボン鈴木](https://ja.wikipedia.org/wiki/バカボン鈴木 "wikilink") ([ベース](../Page/ベース_\(弦楽器\).md "wikilink"))
 
 <!-- end list -->
 
   - [内田裕也](../Page/内田裕也.md "wikilink")
   - [奥田民生](../Page/奥田民生.md "wikilink")
-  - [押葉真吾](https://ja.wikipedia.org/wiki/押葉真吾 "wikilink")
-  - [亀田誠治](https://ja.wikipedia.org/wiki/亀田誠治 "wikilink")
-  - [ISSA](https://ja.wikipedia.org/wiki/ISSA_\(歌手\) "wikilink")（[DA PUMP](https://ja.wikipedia.org/wiki/DA_PUMP "wikilink")）
+  - [押葉真吾](../Page/押葉真吾.md "wikilink")
+  - [亀田誠治](../Page/亀田誠治.md "wikilink")
+  - [ISSA](https://ja.wikipedia.org/wiki/ISSA_\(歌手\) "wikilink")（[DA PUMP](../Page/DA_PUMP.md "wikilink")）
   - [Do As Infinity](../Page/Do_As_Infinity.md "wikilink") - 「[レボリューション](../Page/レボリューション_\(ビートルズの曲\).md "wikilink")」「[ヘルプ\!](../Page/ヘルプ!_\(ビートルズの曲\).md "wikilink")」「[カム・トゥゲザー](https://ja.wikipedia.org/wiki/カム・トゥゲザー "wikilink")」
-  - [大塚雄三](https://ja.wikipedia.org/wiki/大塚雄三 "wikilink")・[小名川高弘](https://ja.wikipedia.org/wiki/小名川高弘 "wikilink")（[CHARCOAL FILTER](https://ja.wikipedia.org/wiki/CHARCOAL_FILTER "wikilink")）
+  - [大塚雄三](../Page/大塚雄三.md "wikilink")・[小名川高弘](../Page/小名川高弘.md "wikilink")（[CHARCOAL FILTER](../Page/CHARCOAL_FILTER.md "wikilink")）
   - [Gackt](https://ja.wikipedia.org/wiki/Gackt "wikilink")
   - [Something ELse](../Page/Something_ELse.md "wikilink")
-  - [ZONE](https://ja.wikipedia.org/wiki/ZONE_\(バンド\) "wikilink") - 「[テル・ミー・ホワイ](https://ja.wikipedia.org/wiki/テル・ミー・ホワイ_\(ビートルズの曲\) "wikilink")」「[ガール](../Page/ガール.md "wikilink")」の2曲
+  - [ZONE](../Page/ZONE_\(バンド\).md "wikilink") - 「[テル・ミー・ホワイ](../Page/テル・ミー・ホワイ_\(ビートルズの曲\).md "wikilink")」「[ガール](../Page/ガール.md "wikilink")」の2曲
   - [中村修二](../Page/中村修二.md "wikilink")
   - [PUFFY](../Page/PUFFY.md "wikilink")
   - [MY LITTLE LOVER](https://ja.wikipedia.org/wiki/My_Little_Lover "wikilink")＋[曽我部恵一](../Page/曽我部恵一.md "wikilink")-「[オー・マイ・ラヴ](../Page/オー・マイ・ラヴ.md "wikilink")」「[ストロベリー・フィールズ・フォーエバー](../Page/ストロベリー・フィールズ・フォーエバー.md "wikilink")」「[アクロス・ザ・ユニバース](../Page/アクロス・ザ・ユニバース.md "wikilink")」「[トゥモロー・ネバー・ノウズ](../Page/トゥモロー・ネバー・ノウズ.md "wikilink")」の4曲
@@ -109,16 +109,16 @@
 
 #### 2004年出演アーティスト
 
-  - [ISSA](https://ja.wikipedia.org/wiki/ISSA_\(歌手\) "wikilink") ([DA PUMP](https://ja.wikipedia.org/wiki/DA_PUMP "wikilink"))
-  - [宇崎竜童](https://ja.wikipedia.org/wiki/宇崎竜童 "wikilink")
-  - [押葉真吾](https://ja.wikipedia.org/wiki/押葉真吾 "wikilink")
-  - [加藤登紀子](https://ja.wikipedia.org/wiki/加藤登紀子 "wikilink")
-  - 亀田誠治ユニット - [亀田誠治](https://ja.wikipedia.org/wiki/亀田誠治 "wikilink"), KEIGO ([FLOW](../Page/FLOW.md "wikilink")), KOHSHI (FLOW), [ゴスペラーズ](../Page/ゴスペラーズ.md "wikilink"), [宮沢和史](https://ja.wikipedia.org/wiki/宮沢和史 "wikilink")
+  - [ISSA](https://ja.wikipedia.org/wiki/ISSA_\(歌手\) "wikilink") ([DA PUMP](../Page/DA_PUMP.md "wikilink"))
+  - [宇崎竜童](../Page/宇崎竜童.md "wikilink")
+  - [押葉真吾](../Page/押葉真吾.md "wikilink")
+  - [加藤登紀子](../Page/加藤登紀子.md "wikilink")
+  - 亀田誠治ユニット - [亀田誠治](../Page/亀田誠治.md "wikilink"), KEIGO ([FLOW](../Page/FLOW.md "wikilink")), KOHSHI (FLOW), [ゴスペラーズ](../Page/ゴスペラーズ.md "wikilink"), [宮沢和史](../Page/宮沢和史.md "wikilink")
   - [河口恭吾](../Page/河口恭吾.md "wikilink")
   - [曽我部恵一](../Page/曽我部恵一.md "wikilink") with [OO TELESA](https://ja.wikipedia.org/wiki/OO_TELESA "wikilink")
-  - [TRICERATOPS](https://ja.wikipedia.org/wiki/TRICERATOPS "wikilink")
-  - [畠山美由紀](https://ja.wikipedia.org/wiki/畠山美由紀 "wikilink")
-  - [Rin'](https://ja.wikipedia.org/wiki/Rin' "wikilink")
+  - [TRICERATOPS](../Page/TRICERATOPS.md "wikilink")
+  - [畠山美由紀](../Page/畠山美由紀.md "wikilink")
+  - [Rin'](../Page/Rin'.md "wikilink")
 
 ほか
 
@@ -128,13 +128,13 @@
 
 #### 2005年出演アーティスト
 
-  - [忌野清志郎](https://ja.wikipedia.org/wiki/忌野清志郎 "wikilink")
+  - [忌野清志郎](../Page/忌野清志郎.md "wikilink")
   - [奥田民生](../Page/奥田民生.md "wikilink")
-  - [押葉真吾](https://ja.wikipedia.org/wiki/押葉真吾 "wikilink")
+  - [押葉真吾](../Page/押葉真吾.md "wikilink")
   - [オノ・ヨーコ](../Page/オノ・ヨーコ.md "wikilink")
   - [小泉今日子](https://ja.wikipedia.org/wiki/小泉今日子 "wikilink")
   - [小柳ゆき](https://ja.wikipedia.org/wiki/小柳ゆき "wikilink")
-  - [杉真理](https://ja.wikipedia.org/wiki/杉真理 "wikilink")
+  - [杉真理](../Page/杉真理.md "wikilink")
   - [曽我部恵一](../Page/曽我部恵一.md "wikilink")
   - [PUFFY](../Page/PUFFY.md "wikilink")
   - [BONNIE PINK](https://ja.wikipedia.org/wiki/BONNIE_PINK "wikilink")
@@ -152,24 +152,24 @@
 
   - [オープニングアクト](https://ja.wikipedia.org/wiki/オープニングアクト "wikilink")
       - [TUCKER](https://ja.wikipedia.org/wiki/TUCKER "wikilink")
-  - [MC](https://ja.wikipedia.org/wiki/司会 "wikilink")
+  - [MC](../Page/司会.md "wikilink")
       - [パックンマックン](../Page/パックンマックン.md "wikilink")
   - トリビュートバンド
-      - [阿部義晴](https://ja.wikipedia.org/wiki/阿部義晴 "wikilink")
-      - [押葉真吾](https://ja.wikipedia.org/wiki/押葉真吾 "wikilink") <small>(出演6回目)</small>
+      - [阿部義晴](../Page/阿部義晴.md "wikilink")
+      - [押葉真吾](../Page/押葉真吾.md "wikilink") <small>(出演6回目)</small>
       - [黒沢健一](../Page/黒沢健一.md "wikilink")
       - [土屋潔](https://ja.wikipedia.org/wiki/土屋潔 "wikilink")
       - [古田たかし](https://ja.wikipedia.org/wiki/古田たかし "wikilink")
       - [和田春彦](https://ja.wikipedia.org/wiki/和田春彦 "wikilink")
   - [オノ・ヨーコ](../Page/オノ・ヨーコ.md "wikilink")
   - [Cocco](https://ja.wikipedia.org/wiki/Cocco "wikilink")
-  - [スキマスイッチ](https://ja.wikipedia.org/wiki/スキマスイッチ "wikilink")
+  - [スキマスイッチ](../Page/スキマスイッチ.md "wikilink")
   - [平原綾香](https://ja.wikipedia.org/wiki/平原綾香 "wikilink")
   - [LOVE PSYCHEDELICO](https://ja.wikipedia.org/wiki/LOVE_PSYCHEDELICO "wikilink") <small>(KUMI & NAOKI with ツアーバンド) (出演2回目)</small>
   - [曽我部恵一](../Page/曽我部恵一.md "wikilink")
   - 押葉真吾
   - [平川地一丁目](../Page/平川地一丁目.md "wikilink")
-  - [斉藤和義](https://ja.wikipedia.org/wiki/斉藤和義 "wikilink")
+  - [斉藤和義](../Page/斉藤和義.md "wikilink")
   - [佐野元春](../Page/佐野元春.md "wikilink")
   - [宮沢りえ](https://ja.wikipedia.org/wiki/宮沢りえ "wikilink")
 
@@ -184,7 +184,7 @@
 7.  [イン・マイ・ライフ](../Page/イン・マイ・ライフ.md "wikilink") - 平原綾香
 8.  [マインド・ゲームス](../Page/マインド・ゲームス.md "wikilink") - 平原綾香
 9.  MC - パックンマックン
-10. [ヤー・ブルース](https://ja.wikipedia.org/wiki/ヤー・ブルース "wikilink") - 押葉真吾
+10. [ヤー・ブルース](../Page/ヤー・ブルース.md "wikilink") - 押葉真吾
 11. [ラヴ](../Page/ラヴ_\(ジョン・レノンの曲\).md "wikilink") <small>(歌詞日本語訳朗読)</small> ほか - 宮沢りえ
 12. [ノルウェーの森](../Page/ノルウェーの森.md "wikilink") - Cocco
 13. [ジェラス・ガイ](../Page/ジェラス・ガイ.md "wikilink") - 曽我部恵一
@@ -195,20 +195,20 @@
 18. MC <small>(愛のメッセージキャンペーンの紹介)</small> - 押葉真吾
 19. [アイ・ノウ](https://ja.wikipedia.org/wiki/アイ・ノウ "wikilink") - 押葉真吾
 20. イマジン <small>(歌詞日本語訳朗読)</small> - 宮沢りえ
-21. [ストロベリー・フィールズ・フォーエバー](../Page/ストロベリー・フィールズ・フォーエバー.md "wikilink") <small>(フィルム上映)</small> <small>(NEWアルバム『[ラヴ](https://ja.wikipedia.org/wiki/ラヴ_\(ビートルズのアルバム\) "wikilink")』より)</small>
+21. [ストロベリー・フィールズ・フォーエバー](../Page/ストロベリー・フィールズ・フォーエバー.md "wikilink") <small>(フィルム上映)</small> <small>(NEWアルバム『[ラヴ](../Page/ラヴ_\(ビートルズのアルバム\).md "wikilink")』より)</small>
 22. [ヘルプ\!](../Page/ヘルプ!_\(ビートルズの曲\).md "wikilink") <small>(シングル『Aha\!(All We Want)』カップリング曲バージョン)</small> - LOVE PSYCHEDELICO
 23. [スタンド・バイ・ミー](https://ja.wikipedia.org/wiki/スタンド・バイ・ミー_\(ベン・E・キングの曲\) "wikilink") - LOVE PSYCHEDELICO
 24. [浮気娘](../Page/浮気娘.md "wikilink") - スキマスイッチ
 25. [アウト・ザ・ブルー](https://ja.wikipedia.org/wiki/アウト・ザ・ブルー "wikilink") - スキマスイッチ
 26. [カム・トゥゲザー](https://ja.wikipedia.org/wiki/カム・トゥゲザー "wikilink") - 佐野元春
-27. [愛こそはすべて](https://ja.wikipedia.org/wiki/愛こそはすべて "wikilink") - 出演者全員 <small>(途中からオノ・ヨーコ登場)</small>
+27. [愛こそはすべて](../Page/愛こそはすべて.md "wikilink") - 出演者全員 <small>(途中からオノ・ヨーコ登場)</small>
 28. [ハッピー・クリスマス（戦争は終った）](../Page/ハッピー・クリスマス（戦争は終った）.md "wikilink") - 出演者全員
 29. イマジン - 出演者全員&観客合唱
 30. イマジン - PV上映
 
 ### 2007年
 
-7回目となるライヴ。日程は命日である[12月8日](../Page/12月8日.md "wikilink")(土)に初めて行われる。会場は日本武道館。会場全員合唱「イマジン」では、[クラウス・フォアマン](https://ja.wikipedia.org/wiki/クラウス・フォアマン "wikilink")が[ベースを担当した](../Page/エレクトリックベース.md "wikilink")。
+7回目となるライヴ。日程は命日である[12月8日](../Page/12月8日.md "wikilink")(土)に初めて行われる。会場は日本武道館。会場全員合唱「イマジン」では、[クラウス・フォアマン](../Page/クラウス・フォアマン.md "wikilink")が[ベースを担当した](../Page/エレクトリックベース.md "wikilink")。
 
 #### 2007年出演者
 
@@ -217,21 +217,21 @@
       - [和田春彦](https://ja.wikipedia.org/wiki/和田春彦 "wikilink")
       - [土屋潔](https://ja.wikipedia.org/wiki/土屋潔 "wikilink")
       - [名越由貴夫](https://ja.wikipedia.org/wiki/名越由貴夫 "wikilink")
-      - [押葉真吾](https://ja.wikipedia.org/wiki/押葉真吾 "wikilink") (出演7回目)
+      - [押葉真吾](../Page/押葉真吾.md "wikilink") (出演7回目)
       - [古田たかし](https://ja.wikipedia.org/wiki/古田たかし "wikilink")
   - [オノ・ヨーコ](../Page/オノ・ヨーコ.md "wikilink")
   - [奥田民生](../Page/奥田民生.md "wikilink") <small>(出演4回目)</small>
-  - [吉井和哉](https://ja.wikipedia.org/wiki/吉井和哉 "wikilink") <small>(出演3回目(「吉井和哉」としては2回目))</small>
+  - [吉井和哉](../Page/吉井和哉.md "wikilink") <small>(出演3回目(「吉井和哉」としては2回目))</small>
   - [Chara](https://ja.wikipedia.org/wiki/CHARA "wikilink") <small>(初出演)</small>
   - [BONNIE PINK](https://ja.wikipedia.org/wiki/BONNIE_PINK "wikilink") <small>(出演2回目)</small>
   - [LOVE PSYCHEDELICO](https://ja.wikipedia.org/wiki/LOVE_PSYCHEDELICO "wikilink") <small>(出演連続3回目)</small>
-  - [THE SUNDAY DRIVERS](https://ja.wikipedia.org/wiki/THE_SUNDAY_DRIVERS "wikilink")（[箭内道彦](https://ja.wikipedia.org/wiki/箭内道彦 "wikilink")・[渡辺健二（スネオヘアー)](../Page/スネオヘアー.md "wikilink")） <small>(初出演)</small>
-  - [斉藤和義](https://ja.wikipedia.org/wiki/斉藤和義 "wikilink") <small>(出演連続2回目)</small>
+  - [THE SUNDAY DRIVERS](https://ja.wikipedia.org/wiki/THE_SUNDAY_DRIVERS "wikilink")（[箭内道彦](../Page/箭内道彦.md "wikilink")・[渡辺健二（スネオヘアー)](../Page/スネオヘアー.md "wikilink")） <small>(初出演)</small>
+  - [斉藤和義](../Page/斉藤和義.md "wikilink") <small>(出演連続2回目)</small>
   - [樹木希林](../Page/樹木希林.md "wikilink") <small>(初出演)</small>
   - [木村カエラ](https://ja.wikipedia.org/wiki/木村カエラ "wikilink") <small>(初出演)</small>
   - [くるり](../Page/くるり.md "wikilink") <small>(初出演)</small>
-  - [忌野清志郎](https://ja.wikipedia.org/wiki/忌野清志郎 "wikilink") <small>(出演2回目)</small> with [仲井戸麗市](https://ja.wikipedia.org/wiki/仲井戸麗市 "wikilink")
-  - [クラウス・フォアマン](https://ja.wikipedia.org/wiki/クラウス・フォアマン "wikilink") <small>(初出演)</small>
+  - [忌野清志郎](../Page/忌野清志郎.md "wikilink") <small>(出演2回目)</small> with [仲井戸麗市](../Page/仲井戸麗市.md "wikilink")
+  - [クラウス・フォアマン](../Page/クラウス・フォアマン.md "wikilink") <small>(初出演)</small>
 
 ### 2008年
 
@@ -242,25 +242,25 @@
   - [オノ・ヨーコ](../Page/オノ・ヨーコ.md "wikilink")<small>（8年連続出演・通算8回目（1回目は衛星放送出演））</small>
   - [絢香](https://ja.wikipedia.org/wiki/絢香 "wikilink") <small>（初出演）</small>
   - [奥田民生](../Page/奥田民生.md "wikilink") <small>（3年連続出演・通算5回目）</small>
-  - [斉藤和義](https://ja.wikipedia.org/wiki/斉藤和義 "wikilink") <small>（3年連続出演・通算3回目）</small>
-  - [斎藤ノブ](https://ja.wikipedia.org/wiki/斎藤ノブ "wikilink")×[夏木マリ](https://ja.wikipedia.org/wiki/夏木マリ "wikilink") <small>（初出演）</small>
+  - [斉藤和義](../Page/斉藤和義.md "wikilink") <small>（3年連続出演・通算3回目）</small>
+  - [斎藤ノブ](https://ja.wikipedia.org/wiki/斎藤ノブ "wikilink")×[夏木マリ](../Page/夏木マリ.md "wikilink") <small>（初出演）</small>
   - [Salyu](https://ja.wikipedia.org/wiki/Salyu "wikilink") <small>（初出演）</small>
-  - [THE SUNDAY DRIVERS](https://ja.wikipedia.org/wiki/THE_SUNDAY_DRIVERS "wikilink") ([箭内道彦](https://ja.wikipedia.org/wiki/箭内道彦 "wikilink")×[渡辺健二（スネオヘアー)](../Page/スネオヘアー.md "wikilink")) <small>（2年連続出演・通算2回目）</small>
+  - [THE SUNDAY DRIVERS](https://ja.wikipedia.org/wiki/THE_SUNDAY_DRIVERS "wikilink") ([箭内道彦](../Page/箭内道彦.md "wikilink")×[渡辺健二（スネオヘアー)](../Page/スネオヘアー.md "wikilink")) <small>（2年連続出演・通算2回目）</small>
   - [ショーン・レノン](../Page/ショーン・レノン.md "wikilink") <small>（ビデオ出演）</small>
   - [Char](../Page/Char.md "wikilink") <small>（初出演）</small>
   - [トータス松本](../Page/トータス松本.md "wikilink") <small>（第2回目公演以来6年ぶり・通算2回目）</small>
-  - [フジファブリック](https://ja.wikipedia.org/wiki/フジファブリック "wikilink") <small>（初出演）</small>
+  - [フジファブリック](../Page/フジファブリック.md "wikilink") <small>（初出演）</small>
   - [BONNIE PINK](https://ja.wikipedia.org/wiki/BONNIE_PINK "wikilink") <small>（2年連続出演・通算3回目）</small>
   - [宮﨑あおい](https://ja.wikipedia.org/wiki/宮崎あおい "wikilink") <small>（初出演・曲の朗読）</small>
   - [ゆず](https://ja.wikipedia.org/wiki/ゆず_\(音楽グループ\) "wikilink") <small>（第1回目公演以来7年ぶり・通算2回目）</small>
-  - [吉井和哉](https://ja.wikipedia.org/wiki/吉井和哉 "wikilink") <small>（2年連続出演・通算4回目）</small>
+  - [吉井和哉](../Page/吉井和哉.md "wikilink") <small>（2年連続出演・通算4回目）</small>
   - [LOVE PSYCHEDELICO](https://ja.wikipedia.org/wiki/LOVE_PSYCHEDELICO "wikilink") <small>（4年連続出演・通算4回目）</small>
   - トリビュート・バンド (Dr. Winston O' Boogie)
       - [十川知司](../Page/十川ともじ.md "wikilink") ([ピアノ](../Page/ピアノ.md "wikilink")/[キーボード](../Page/キーボード_\(楽器\).md "wikilink"))
       - [和田春彦](https://ja.wikipedia.org/wiki/和田春彦 "wikilink") (キーボード/[バンドマスター](https://ja.wikipedia.org/wiki/バンドマスター "wikilink"))
       - [長田進](https://ja.wikipedia.org/wiki/長田進 "wikilink") ([ギター](../Page/ギター.md "wikilink"))
       - [土屋潔](https://ja.wikipedia.org/wiki/土屋潔 "wikilink") (ギター)
-      - [押葉真吾](https://ja.wikipedia.org/wiki/押葉真吾 "wikilink") ([ベース](../Page/エレクトリックベース.md "wikilink")) <small>(出演連続8回目)</small>
+      - [押葉真吾](../Page/押葉真吾.md "wikilink") ([ベース](../Page/エレクトリックベース.md "wikilink")) <small>(出演連続8回目)</small>
       - [古田たかし](https://ja.wikipedia.org/wiki/古田たかし "wikilink") ([ドラム](../Page/ドラムセット.md "wikilink"))
 
 ※五十音順
@@ -277,21 +277,21 @@
   - [奥田民生](../Page/奥田民生.md "wikilink") <small>（3年連続6回目の出演）</small>
   - [Cocco](https://ja.wikipedia.org/wiki/Cocco "wikilink") <small>（3年ぶり2回目の出演）</small>
   - [BONNIE PINK](https://ja.wikipedia.org/wiki/BONNIE_PINK "wikilink") <small>（3年連続4回目の出演）</small>
-  - [松本素生](https://ja.wikipedia.org/wiki/松本素生 "wikilink")（[GOING UNDER GROUND](https://ja.wikipedia.org/wiki/GOING_UNDER_GROUND "wikilink")）<small>（初出演）</small>
+  - [松本素生](../Page/松本素生.md "wikilink")（[GOING UNDER GROUND](../Page/GOING_UNDER_GROUND.md "wikilink")）<small>（初出演）</small>
   - [松山ケンイチ](https://ja.wikipedia.org/wiki/松山ケンイチ "wikilink") <small>（初出演）</small>
-  - [吉井和哉](https://ja.wikipedia.org/wiki/吉井和哉 "wikilink") <small>（3年連続5回目）</small>
+  - [吉井和哉](../Page/吉井和哉.md "wikilink") <small>（3年連続5回目）</small>
   - [LOVE PSYCHEDELICO](https://ja.wikipedia.org/wiki/LOVE_PSYCHEDELICO "wikilink") <small>（5年連続5回目の出演）</small>
-  - [Leyona](https://ja.wikipedia.org/wiki/Leyona "wikilink") <small>（初出演）</small>
+  - [Leyona](../Page/Leyona.md "wikilink") <small>（初出演）</small>
   - [ROCK'A'TRENCH](../Page/ROCK'A'TRENCH.md "wikilink") <small>（初出演）</small>
   - [山崎努](../Page/山崎努.md "wikilink")／[山崎直子](../Page/山崎直子_\(女優\).md "wikilink") <small>（初出演：ナレーション出演）</small>
-  - [箭内道彦](https://ja.wikipedia.org/wiki/箭内道彦 "wikilink") <small>（3年連続3回目：映像演出）</small>
-  - [忌野清志郎](https://ja.wikipedia.org/wiki/忌野清志郎 "wikilink") <small>（映像出演）</small>
+  - [箭内道彦](../Page/箭内道彦.md "wikilink") <small>（3年連続3回目：映像演出）</small>
+  - [忌野清志郎](../Page/忌野清志郎.md "wikilink") <small>（映像出演）</small>
   - トリビュート・バンド (Dr. Winston O' Boogie)
       - [十川知司](../Page/十川ともじ.md "wikilink") ([ピアノ](../Page/ピアノ.md "wikilink")/[キーボード](../Page/キーボード_\(楽器\).md "wikilink"))
       - [和田春彦](https://ja.wikipedia.org/wiki/和田春彦 "wikilink") (キーボード/[バンドマスター](https://ja.wikipedia.org/wiki/バンドマスター "wikilink"))
       - [土屋潔](https://ja.wikipedia.org/wiki/土屋潔 "wikilink") (ギター)
       - [長田進](https://ja.wikipedia.org/wiki/長田進 "wikilink") ([ギター](../Page/ギター.md "wikilink"))
-      - [押葉真吾](https://ja.wikipedia.org/wiki/押葉真吾 "wikilink") ([ベース](../Page/エレクトリックベース.md "wikilink"))
+      - [押葉真吾](../Page/押葉真吾.md "wikilink") ([ベース](../Page/エレクトリックベース.md "wikilink"))
       - [古田たかし](https://ja.wikipedia.org/wiki/古田たかし "wikilink") ([ドラム](../Page/ドラムセット.md "wikilink"))
 
 ## 支援校
@@ -303,7 +303,7 @@
   - [ブルキナファソ](../Page/ブルキナファソ.md "wikilink")／ Burkina Faso
       - Dargouma Village Elementary School (2001)
       - Kamsaongho Primary School (2007)
-  - [カンボジア](https://ja.wikipedia.org/wiki/カンボジア "wikilink")／ Cambodia
+  - [カンボジア](../Page/カンボジア.md "wikilink")／ Cambodia
       - Samrong Primary School (2003)
       - Sandan Primary School (2003)
       - Angkor Thom Junior High School (2003)

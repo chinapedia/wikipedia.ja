@@ -1,7 +1,7 @@
 > この記事は[Catch The Wave](https://ja.wikipedia.org/wiki/Catch_The_Wave)から翻訳されています。
 
 
-『**Catch The Wave**』（キャッチ・ザ・ウェーヴ）は、[Def Techが](https://ja.wikipedia.org/wiki/Def_Tech "wikilink")[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月26日](../Page/4月26日.md "wikilink")にリリースした3枚目の[アルバム](../Page/アルバム.md "wikilink")である｡
+『**Catch The Wave**』（キャッチ・ザ・ウェーヴ）は、[Def Techが](https://ja.wikipedia.org/wiki/Def_Tech "wikilink")[2006年](../Page/2006年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")にリリースした3枚目の[アルバム](../Page/アルバム.md "wikilink")である｡
 
 ## 概要
 
@@ -15,10 +15,10 @@
 
 1.  **Power in da Musiq \~Understanding**
       -
-        [JFL](../Page/JAPAN_FM_LEAGUE.md "wikilink") [Power Of Music](https://ja.wikipedia.org/wiki/Power_Of_Music "wikilink") [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")キャンペーンソング。[J-WAVE](../Page/J-WAVE.md "wikilink")内の[ブログ](../Page/ブログ.md "wikilink")で、「UNDERSTANDING」をテーマに書き込みを募集。メッセージの一部が歌詞に使用されている。歌詞に世界平和の気持ちが込められている。
+        [JFL](../Page/JAPAN_FM_LEAGUE.md "wikilink") [Power Of Music](../Page/Power_Of_Music.md "wikilink") [2005年](../Page/2005年.md "wikilink")キャンペーンソング。[J-WAVE](../Page/J-WAVE.md "wikilink")内の[ブログ](../Page/ブログ.md "wikilink")で、「UNDERSTANDING」をテーマに書き込みを募集。メッセージの一部が歌詞に使用されている。歌詞に世界平和の気持ちが込められている。
 2.  **Lift Up feat. Lafa Taylor**
       -
-        [GICODE](../Page/GICODE.md "wikilink")のラファ・テイラーが参加している。[ソニー・エリクソン・モバイルコミュニケーションズ](https://ja.wikipedia.org/wiki/ソニー・エリクソン・モバイルコミュニケーションズ "wikilink")「[W42S](https://ja.wikipedia.org/wiki/W42S "wikilink")」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。
+        [GICODE](../Page/GICODE.md "wikilink")のラファ・テイラーが参加している。[ソニー・エリクソン・モバイルコミュニケーションズ](https://ja.wikipedia.org/wiki/ソニー・エリクソン・モバイルコミュニケーションズ "wikilink")「[W42S](../Page/W42S.md "wikilink")」[CMソング](../Page/コマーシャルソング.md "wikilink")。
 3.  **Irie Got〜ありがとうの詩〜**
       -
         [フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[めざましテレビ](https://ja.wikipedia.org/wiki/めざましテレビ "wikilink")“ありがとうキャンペーン”ソング。番組内で全国から寄せられたはがきを元にDef Tech自身が全国横行し、それに見合った歌詞を見つけていくという企画であった。最終的には自身も「2nd My Wayだ\!」と自信を持って言っていた。リリース後には番組内で[屋久島](https://ja.wikipedia.org/wiki/屋久島 "wikilink")で披露している。
@@ -37,16 +37,16 @@
 8.  **JawaiianTime**
       -
         インストゥメンタル
-9.  **Off The Edge feat. [WISE](https://ja.wikipedia.org/wiki/WISE "wikilink")**
+9.  **Off The Edge feat. [WISE](../Page/WISE.md "wikilink")**
       -
         mental digital moviesの[スノーボード](../Page/スノーボード.md "wikilink")[DVD](../Page/DVD.md "wikilink")「The Gravure」鈴村暁生パートで用いられた曲のアレンジ。ちなみに同曲のオリジナルは左記DVDでしか聴けない。
 10. **Broken Hearts**
       -
-        [TBS系](../Page/TBSテレビ.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")「[ブラザー☆ビート](https://ja.wikipedia.org/wiki/ブラザー☆ビート "wikilink")」[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")。ドラマOA時には曲の一部分を完全無料で試聴可能にするという試みも見られた。
+        [TBS系](../Page/TBSテレビ.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")「[ブラザー☆ビート](../Page/ブラザー☆ビート.md "wikilink")」[主題歌](../Page/主題歌.md "wikilink")。ドラマOA時には曲の一部分を完全無料で試聴可能にするという試みも見られた。
 11. **Get Real**
       -
-        [ソニー・エリクソン・モバイルコミュニケーションズ](https://ja.wikipedia.org/wiki/ソニー・エリクソン・モバイルコミュニケーションズ "wikilink")「[W41S](https://ja.wikipedia.org/wiki/W41S "wikilink")」CMソング。基本的にDef Techはシングルを発売しないようなリリースをしているためにこの曲もここで初CD化となる。
-12. **いのり feat. [SAKURA](https://ja.wikipedia.org/wiki/SAKURA_\(歌手\) "wikilink")**
+        [ソニー・エリクソン・モバイルコミュニケーションズ](https://ja.wikipedia.org/wiki/ソニー・エリクソン・モバイルコミュニケーションズ "wikilink")「[W41S](../Page/W41S.md "wikilink")」CMソング。基本的にDef Techはシングルを発売しないようなリリースをしているためにこの曲もここで初CD化となる。
+12. **いのり feat. [SAKURA](../Page/SAKURA_\(歌手\).md "wikilink")**
       -
         後にDVD[シングル](../Page/シングル.md "wikilink")として発売された。
 13. **No Complaints**

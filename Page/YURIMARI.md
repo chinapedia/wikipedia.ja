@@ -3,9 +3,9 @@
 
 **YURIMARI**（ユリマリ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性[シンガー](../Page/歌手.md "wikilink")、アイドルデュオ。ユニット名は[JUDY AND MARYの愛称ジュディマリのもじり](../Page/JUDY_AND_MARY.md "wikilink")（中村いわくパクリ）。[avexに所属](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。1999年に解散した。
 
-『[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")』のオーディション出身で、楽曲提供は[サンプラザ中野と](https://ja.wikipedia.org/wiki/サンプラザ中野くん "wikilink")[パッパラー河合](https://ja.wikipedia.org/wiki/パッパラー河合 "wikilink")。この2人が当初ユニットに科したコンセプトは「バカ[PUFFY](../Page/PUFFY.md "wikilink")」であった。
+『[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")』のオーディション出身で、楽曲提供は[サンプラザ中野と](../Page/サンプラザ中野くん.md "wikilink")[パッパラー河合](../Page/パッパラー河合.md "wikilink")。この2人が当初ユニットに科したコンセプトは「バカ[PUFFY](../Page/PUFFY.md "wikilink")」であった。
 
-解散後もシングル曲「love love dreamer」が『[くさデカ](https://ja.wikipedia.org/wiki/くさデカ "wikilink")』（[テレビ静岡](../Page/テレビ静岡.md "wikilink")）のテーマ曲に使用され続けている。
+解散後もシングル曲「love love dreamer」が『[くさデカ](../Page/くさデカ.md "wikilink")』（[テレビ静岡](../Page/テレビ静岡.md "wikilink")）のテーマ曲に使用され続けている。
 
 ## メンバー
 
@@ -13,7 +13,7 @@
       - 本名は成友理（성우리 / ソン・ウリ）で通名は中村友理（なかむら ゆり）。[1982年](../Page/1982年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")生まれ。[大阪府](../Page/大阪府.md "wikilink")[寝屋川市](https://ja.wikipedia.org/wiki/寝屋川市 "wikilink")出身。血液型はAB型。
       - 『[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")』で行われた「乱発オーディション」に合格し、友人だった伊澤真理とYURIMARIを結成。
       - 解散後は「中村ゆり」の名で女優として活躍。『[東京フレンズ](../Page/東京フレンズ.md "wikilink")』などに出演。『[パッチギ\! LOVE\&PEACE](../Page/パッチギ!_LOVE&PEACE.md "wikilink")』では、メインキャストとして出演。監督を務めた[井筒和幸](https://ja.wikipedia.org/wiki/井筒和幸 "wikilink")に「[沢尻エリカ](https://ja.wikipedia.org/wiki/沢尻エリカ "wikilink")を蹴落とす事ができる逸材」と言わしめた演技力を持つ。『パッチギ\!〜』出演時に役柄だけでなく、自身も父が在日韓国人3世、母が韓国生まれの在日韓国人であることを明かした。
-  - **[MARI](https://ja.wikipedia.org/wiki/MARI_\(タレント\) "wikilink")**（まり）
+  - **[MARI](../Page/MARI_\(タレント\).md "wikilink")**（まり）
       - 本名は伊澤真理。[1982年](../Page/1982年.md "wikilink")[1月8日](../Page/1月8日.md "wikilink")生まれ。[滋賀県](../Page/滋賀県.md "wikilink")[甲賀市](../Page/甲賀市.md "wikilink")出身（[大阪府](../Page/大阪府.md "wikilink")出身としているが、富山のメディアでのインタビューや『[めちゃイケ](../Page/めちゃ×2イケてるッ!.md "wikilink")』出演時に滋賀県出身であることを明かしている）。血液型はB型。両親の離婚以前は「田中真理」が本名だった。
       - 解散後、『[伝説の教師](https://ja.wikipedia.org/wiki/伝説の教師 "wikilink")』などのドラマやバラエティー番組に出演していたが、一時期芸能界を離れ渡米。帰国後結婚し一児をもうけたのち離婚。「いざわまり」と改名して芸能界に復帰、関西を拠点に活動している。
       - 2007年現在「MARI」と再改名。
@@ -61,7 +61,7 @@
 </ol></td>
 <td><p>「ASAYAN」エンディングテーマ<br />
 <a href="../Page/歌詞.md" title="wikilink">歌詞</a>の内容は<a href="../Page/インターネット.md" title="wikilink">インターネット</a>を主題にしている。<br />
-この曲は楽曲提供者、<a href="https://ja.wikipedia.org/wiki/爆風スランプ" title="wikilink">爆風スランプ</a>のアルバム「<a href="https://ja.wikipedia.org/wiki/ハードボイルド_(アルバム)" title="wikilink">ハードボイルド</a>」に収録された同曲の<a href="../Page/カバー.md" title="wikilink">カバー</a>曲である。</p></td>
+この曲は楽曲提供者、<a href="../Page/爆風スランプ.md" title="wikilink">爆風スランプ</a>のアルバム「<a href="https://ja.wikipedia.org/wiki/ハードボイルド_(アルバム)" title="wikilink">ハードボイルド</a>」に収録された同曲の<a href="../Page/カバー.md" title="wikilink">カバー</a>曲である。</p></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
@@ -85,7 +85,7 @@
 <li>love love dreamer(endless mix)</li>
 <li>love love dreamer(original karaoke)</li>
 </ol></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/森永" title="wikilink">森永</a>チョコレート小枝CM曲, テレビ静岡「<a href="https://ja.wikipedia.org/wiki/くさデカ" title="wikilink">くさデカ</a>」オープニング・エンディングテーマ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/森永" title="wikilink">森永</a>チョコレート小枝CM曲, テレビ静岡「<a href="../Page/くさデカ.md" title="wikilink">くさデカ</a>」オープニング・エンディングテーマ</p></td>
 </tr>
 <tr class="odd">
 <td><p>5th</p></td>
@@ -174,12 +174,12 @@
 
 ### 参加作品
 
-| 発売日         | タイトル                                                              | 規格品番       | 収録曲                                | 備考                                                                            |
-| ----------- | ----------------------------------------------------------------- | ---------- | ---------------------------------- | ----------------------------------------------------------------------------- |
-| 2000年07月05日 | [NO.1〜耀け乙女〜](https://ja.wikipedia.org/wiki/NO.1〜耀け乙女〜 "wikilink") | AVDD-20353 | なんかちょうだい〜PLEASE GIVE ME SOMETHING〜 | 大阪プリン（[東京プリン](https://ja.wikipedia.org/wiki/東京プリン "wikilink")\&YURIMARI）として参加 |
-| 2003年07月30日 | avex 15th Anniversary PRESENTS 15年150曲 J-POP 50HIT TRACKS Vol.1   | AVCD-17332 | Love Love Dreamer                  |                                                                               |
-| 2014年03月26日 | Jアニメ TV主題歌大全集                                                     | COBC-6562  | Hello,I love you.                  |                                                                               |
-|             |                                                                   |            |                                    |                                                                               |
+| 発売日         | タイトル                                                              | 規格品番       | 収録曲                                | 備考                                                         |
+| ----------- | ----------------------------------------------------------------- | ---------- | ---------------------------------- | ---------------------------------------------------------- |
+| 2000年07月05日 | [NO.1〜耀け乙女〜](https://ja.wikipedia.org/wiki/NO.1〜耀け乙女〜 "wikilink") | AVDD-20353 | なんかちょうだい〜PLEASE GIVE ME SOMETHING〜 | 大阪プリン（[東京プリン](../Page/東京プリン.md "wikilink")\&YURIMARI）として参加 |
+| 2003年07月30日 | avex 15th Anniversary PRESENTS 15年150曲 J-POP 50HIT TRACKS Vol.1   | AVCD-17332 | Love Love Dreamer                  |                                                            |
+| 2014年03月26日 | Jアニメ TV主題歌大全集                                                     | COBC-6562  | Hello,I love you.                  |                                                            |
+|             |                                                                   |            |                                    |                                                            |
 
 ## ミュージックビデオ
 
@@ -194,9 +194,9 @@
 ### テレビ
 
   - [ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）※主にVTR出演
-  - [とりあえずイイ感じ。](https://ja.wikipedia.org/wiki/とりあえずイイ感じ。 "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
-  - [痛快\!明石家電視台](https://ja.wikipedia.org/wiki/痛快!明石家電視台 "wikilink")（[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")） - 解散後もMARIが準レギュラー出演を続けた。
-  - [DAIBAッテキ\!\!](https://ja.wikipedia.org/wiki/DAIBAッテキ!! "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
+  - [とりあえずイイ感じ。](../Page/とりあえずイイ感じ。.md "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
+  - [痛快\!明石家電視台](../Page/痛快!明石家電視台.md "wikilink")（[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")） - 解散後もMARIが準レギュラー出演を続けた。
+  - [DAIBAッテキ\!\!](../Page/DAIBAッテキ!!.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
   - [めちゃ×2イケてるッ\!](../Page/めちゃ×2イケてるッ!.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")） - 1999年7月31日放送分にて「シャンプー刑事」に出演。
   - [特捜\!芸能ポリスくん](../Page/特捜!芸能ポリスくん.md "wikilink")（TBS） - 1999年2月10日放送分にて出場。MARIが一回戦にて全問不正解の記録を作った（YURIは5問正解）。その後のコーナー等でもマナーの悪さが目立ってしまい、苦情が殺到した。
   - [マジカル頭脳パワー\!\!](../Page/マジカル頭脳パワー!!.md "wikilink")（日本テレビ） - 1999年8月19日放送分にて出演。
@@ -213,7 +213,7 @@
 
 ### CM
 
-  - カイベールC（[アラクス](https://ja.wikipedia.org/wiki/アラクス "wikilink")）
+  - カイベールC（[アラクス](../Page/アラクス.md "wikilink")）
   - 小枝（[森永製菓](https://ja.wikipedia.org/wiki/森永製菓 "wikilink")）
   - CARA（キャラ）（[森永製菓](https://ja.wikipedia.org/wiki/森永製菓 "wikilink")） - [松浦勝人](https://ja.wikipedia.org/wiki/松浦勝人 "wikilink")と共演。CM中では松浦が「（CARAが）500万個売れなかったらYURIMARI解散」と言っていた。
 

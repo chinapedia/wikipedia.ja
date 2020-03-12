@@ -7,7 +7,7 @@ Office 2013では廃止された。基本的な機能は[Windows Live フォト 
 
 ## 概要
 
-Picture Managerでは、画像の明暗を調整したり、[トリミング](../Page/トリミング_\(写真\).md "wikilink")、回転と反転、[赤目修正](https://ja.wikipedia.org/wiki/赤目効果 "wikilink")、といった基本的な画像編集や、登録しているフォルダ内の[サムネイル](https://ja.wikipedia.org/wiki/サムネイル "wikilink")表示が可能である。Microsoft Officeアプリケーションと密接に関係しているため、補正した画像を[Wordや](../Page/Microsoft_Word.md "wikilink")[Excelで作成したデータ内に貼り付けることもできる](https://ja.wikipedia.org/wiki/Microsoft_Excel "wikilink")。
+Picture Managerでは、画像の明暗を調整したり、[トリミング](../Page/トリミング_\(写真\).md "wikilink")、回転と反転、[赤目修正](https://ja.wikipedia.org/wiki/赤目効果 "wikilink")、といった基本的な画像編集や、登録しているフォルダ内の[サムネイル](../Page/サムネイル.md "wikilink")表示が可能である。Microsoft Officeアプリケーションと密接に関係しているため、補正した画像を[Wordや](../Page/Microsoft_Word.md "wikilink")[Excelで作成したデータ内に貼り付けることもできる](https://ja.wikipedia.org/wiki/Microsoft_Excel "wikilink")。
 
 しかし、[Microsoft Photo Editorでは可能であった](https://ja.wikipedia.org/wiki/Microsoft_Photo_Editor "wikilink")[スキャナや](../Page/イメージスキャナ.md "wikilink")[デジタルカメラ](../Page/デジタルカメラ.md "wikilink")からの新しい画像の取り込み、[ガンマ値の調整機能](https://ja.wikipedia.org/wiki/ビットマップ画像#ガンマ補正 "wikilink")、画像イメージを透明にするなどの編集機能の大部分が削除された。他方でPicture Managerには、画像のある場所を[ショートカット](https://ja.wikipedia.org/wiki/ショートカット "wikilink")で追加することができるという画像管理機能、ワークグループ内での画像共有や共有画像ライブラリの作成といった共有機能が追加された。
 

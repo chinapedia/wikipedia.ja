@@ -1,7 +1,7 @@
 > この記事は[Believe \(AI\)](https://ja.wikipedia.org/wiki/Believe_\(AI\))から翻訳されています。
 
 
-「**Believe**」（ビリーヴ）は、[AIの](https://ja.wikipedia.org/wiki/AI_\(歌手\) "wikilink")13枚目の[シングル](../Page/シングル.md "wikilink")である。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月19日](../Page/4月19日.md "wikilink")に[ユニバーサルミュージックから発売された](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。収録曲数の関係もあり、日本レコード協会では[アルバム](../Page/アルバム.md "wikilink")に分類している。
+「**Believe**」（ビリーヴ）は、[AIの](https://ja.wikipedia.org/wiki/AI_\(歌手\) "wikilink")13枚目の[シングル](../Page/シングル.md "wikilink")である。[2006年](../Page/2006年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink")に[ユニバーサルミュージックから発売された](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。収録曲数の関係もあり、日本レコード協会では[アルバム](../Page/アルバム.md "wikilink")に分類している。
 
 ## 収録曲
 
@@ -14,11 +14,11 @@
         「自分のことは自分で守ってほしい」というメッセージがこめられている。
 3.  **Too Much feat. Rain** (作詞・作曲：JY Park / AI)
       -
-        韓国の[ピをフィーチャーした楽曲](https://ja.wikipedia.org/wiki/ピ_\(歌手\) "wikilink")｡全英詞｡
+        韓国の[ピをフィーチャーした楽曲](../Page/ピ_\(歌手\).md "wikilink")｡全英詞｡
         Rainのことを｢こいつは間違いない\!｣と賞賛している。
 4.  **Beautiful feat. Trey Songz** (作詞・作曲：AI / Trey Songz)
       -
-        こちらも全英詞。トレイ・ソングスはアメリカで人気の[R\&B](https://ja.wikipedia.org/wiki/R&B "wikilink")シンガーで、｢[オーティス・レディング](https://ja.wikipedia.org/wiki/オーティス・レディング "wikilink")の再来｣と呼ばれている｡また、[アレサ・フランクリン](https://ja.wikipedia.org/wiki/アレサ・フランクリン "wikilink")からも絶賛を受けている。
+        こちらも全英詞。トレイ・ソングスはアメリカで人気の[R\&B](https://ja.wikipedia.org/wiki/R&B "wikilink")シンガーで、｢[オーティス・レディング](../Page/オーティス・レディング.md "wikilink")の再来｣と呼ばれている｡また、[アレサ・フランクリン](../Page/アレサ・フランクリン.md "wikilink")からも絶賛を受けている。
 5.  **Believe (Instrumental)** (作曲：AI / DJ YUTAKA / Jin)
 
 ## タイアップ
@@ -26,7 +26,7 @@
 | 曲名        | タイアップ                                                                                                                                               |
 | --------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Believe   | [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[医龍-Team Medical Dragon-](../Page/医龍-Team_Medical_Dragon-_\(テレビドラマ\).md "wikilink")』主題歌 |
-| No Way    | [ロッテ](../Page/ロッテ.md "wikilink") ｢[キシリトール](https://ja.wikipedia.org/wiki/キシリトール "wikilink")ガム｣ CMソング（本人出演）                                          |
+| No Way    | [ロッテ](../Page/ロッテ.md "wikilink") ｢[キシリトール](../Page/キシリトール.md "wikilink")ガム｣ CMソング（本人出演）                                                             |
 | Beautiful | 「[ラ・パルレ](https://ja.wikipedia.org/wiki/ラ・パルレ "wikilink")」CMソング                                                                                      |
 
 ## 収録作品

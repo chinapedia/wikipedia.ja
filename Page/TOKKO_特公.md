@@ -13,12 +13,12 @@
 
   - 申道蘭丸（しんどう　らんまる）
     声‐[鈴村健一](../Page/鈴村健一.md "wikilink")
-    本作品の[主人公](https://ja.wikipedia.org/wiki/主人公 "wikilink")。高校生の時に町田の事件で両親を殺され、犯人を捜すために特殊機動捜査隊に入隊する。
+    本作品の[主人公](../Page/主人公.md "wikilink")。高校生の時に町田の事件で両親を殺され、犯人を捜すために特殊機動捜査隊に入隊する。
     基本的に勝気だが、妹の沙也には弱い。さくらとは事件前から面識がある。
     単行本第2巻で自らの体内のファントムを覚醒させ、共生者となり、特公に入る。
   - 六条さくら（ろくじょう　さくら）
-    声-[折笠富美子](https://ja.wikipedia.org/wiki/折笠富美子 "wikilink")
-    本作品の[ヒロイン](https://ja.wikipedia.org/wiki/ヒロイン "wikilink")。赤いアッシュ 系の髪をしている。共生者の一人。町田の事件で植物状態になった弟を持ち、彼の復讐のために特公に入る。
+    声-[折笠富美子](../Page/折笠富美子.md "wikilink")
+    本作品の[ヒロイン](../Page/ヒロイン.md "wikilink")。赤いアッシュ 系の髪をしている。共生者の一人。町田の事件で植物状態になった弟を持ち、彼の復讐のために特公に入る。
     申道とは事件前から面識がある。そのためか、申道の夢にも姿を現していた。
   - 鈴鹿紅葉（すずか　くれは）
     声-[植田佳奈](https://ja.wikipedia.org/wiki/植田佳奈 "wikilink")
@@ -27,7 +27,7 @@
     豊満なバスト、金髪のストレートロングヘアーが特徴。上半身裸にジャケットを羽織るのみという、露出度の高いエロティックな格好であるため、胸元が大きく開き、首にアクセサリーをしている。
     申道の事を気にかけており、横浜でのデートの際にはキスしている。
   - 伊吹涼子（いぶき　りょうこ）
-    声‐[夏樹リオ](https://ja.wikipedia.org/wiki/夏樹リオ "wikilink")
+    声‐[夏樹リオ](../Page/夏樹リオ.md "wikilink")
     眼鏡をかけた特公のチーフ。婚約者を町田で亡くした公安のキャリア。
     事件後に出会った紅葉の世話役をしている。
   - 犬飼武流（いぬかい　たける）
@@ -35,31 +35,31 @@
     共生者の一人で、元々さくらとは知り合いだったらしい。彼女と同い年。
     無口だが、大太刀を使うなど、特公での役割が大きい。
   - 申道沙也（しんどう　さや）
-    声‐[神田朱未](https://ja.wikipedia.org/wiki/神田朱未 "wikilink")
+    声‐[神田朱未](../Page/神田朱未.md "wikilink")
     申道蘭丸の妹。両親を失って以来、兄に世話を焼くようになる。
   - 花園一郎（はなぞの　いちろう）
     声‐[武藤正史](../Page/武藤正史.md "wikilink")
     警察学校時代の申道の同期。風俗が趣味。
   - 國樹田薫（くにきだ　かおる）
-    声‐[高木渉](https://ja.wikipedia.org/wiki/高木渉 "wikilink")
+    声‐[高木渉](../Page/高木渉.md "wikilink")
     渋谷特機隊の隊長。機動隊では「鬼の國樹田」と恐れられるほど取り締まりに命をかける。妻子がいる。
   - 村正将吾（ぬらまさ　しょうご）
-    声‐[土田大](https://ja.wikipedia.org/wiki/土田大 "wikilink")
+    声‐[土田大](../Page/土田大.md "wikilink")
     國樹田の部下で、彼の右腕となり、特機隊を支える。
   - 荒羅木一斗（あららぎ　いっと）
     声‐[松林大樹](../Page/松林大樹.md "wikilink")
     17歳。繭の兄。幼いときに町田の事件で両親を殺され、以降共生者として繭とともに生活を送る。
     ファントムへの復讐のため、ファントムを喰らい、能力を増やし続けている。物理攻撃が得意。
   - 荒羅木繭（あららぎ　まゆ）
-    声‐[河原木志穂](https://ja.wikipedia.org/wiki/河原木志穂 "wikilink")
+    声‐[河原木志穂](../Page/河原木志穂.md "wikilink")
     16歳。一斗の妹。幼いときに町田の事件で両親を殺され、以降共生者として一斗とともに生活を送る。
     おっとりとしているが、戦うときは容赦しない。精神攻撃が得意。また、ファントムの存在を探知する能力をもつ。
   - 白石雪乃（しらいし　ゆきの）
-    声‐[遠藤綾](https://ja.wikipedia.org/wiki/遠藤綾 "wikilink")
+    声‐[遠藤綾](../Page/遠藤綾.md "wikilink")
     立川K大に通う20歳。父が同じ大学の教授。探究心に富み、真面目。責任感も強いがどこか抜けている。
     ファントムに操られていたところを荒羅木兄妹に救われる。
   - 六条大樹（ろくじょう　ひろき）
-    声‐[下野紘](https://ja.wikipedia.org/wiki/下野紘 "wikilink")
+    声‐[下野紘](../Page/下野紘.md "wikilink")
     さくらの弟。町田の事件でファントムに襲われ瀕死になり、植物状態となる。
 
 ## 用語解説
@@ -79,18 +79,18 @@
 
 ## テレビアニメ
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月15日](../Page/4月15日.md "wikilink")から[WOWOW](../Page/WOWOW.md "wikilink")にて放送。R-15指定相当作品。
+[2006年](../Page/2006年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink")から[WOWOW](../Page/WOWOW.md "wikilink")にて放送。R-15指定相当作品。
 
 ### キャスト
 
   - 申道蘭丸：[鈴村健一](../Page/鈴村健一.md "wikilink")
-  - 六条さくら：[折笠富美子](https://ja.wikipedia.org/wiki/折笠富美子 "wikilink")
-  - 申道沙也：[神田朱未](https://ja.wikipedia.org/wiki/神田朱未 "wikilink")
+  - 六条さくら：[折笠富美子](../Page/折笠富美子.md "wikilink")
+  - 申道沙也：[神田朱未](../Page/神田朱未.md "wikilink")
   - 鈴鹿紅葉：[植田佳奈](https://ja.wikipedia.org/wiki/植田佳奈 "wikilink")
-  - 伊吹涼子：[夏樹リオ](https://ja.wikipedia.org/wiki/夏樹リオ "wikilink")
+  - 伊吹涼子：[夏樹リオ](../Page/夏樹リオ.md "wikilink")
   - 犬飼武流：[赤城進](../Page/赤城進.md "wikilink")
-  - 國樹田薫：[高木渉](https://ja.wikipedia.org/wiki/高木渉 "wikilink")
-  - 村正将吾：[土田大](https://ja.wikipedia.org/wiki/土田大 "wikilink")
+  - 國樹田薫：[高木渉](../Page/高木渉.md "wikilink")
+  - 村正将吾：[土田大](../Page/土田大.md "wikilink")
 
 ### スタッフ
 
@@ -108,7 +108,7 @@
   - 音響監督 - [高桑一](../Page/高桑一.md "wikilink")
   - プロデューサー - 岩崎善浩、片桐大輔
   - アニメーションプロデューサー - 桜井宏、松嵜義之
-  - アニメーション制作 - [グループ・タック](https://ja.wikipedia.org/wiki/グループ・タック "wikilink")、[AICスピリッツ](https://ja.wikipedia.org/wiki/アニメインターナショナルカンパニー "wikilink")
+  - アニメーション制作 - [グループ・タック](../Page/グループ・タック.md "wikilink")、[AICスピリッツ](../Page/アニメインターナショナルカンパニー.md "wikilink")
   - 製作 - 「TOKKO 特公」製作委員会（[松竹](../Page/松竹.md "wikilink")、MANGA ENTERTAINMENT、[WOWOW](../Page/WOWOW.md "wikilink")、スリーライト）
 
 ### 主題歌

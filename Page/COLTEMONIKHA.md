@@ -1,7 +1,7 @@
 > この記事は[COLTEMONIKHA](https://ja.wikipedia.org/wiki/COLTEMONIKHA)から翻訳されています。
 
 
-'''COLTEMONIKHA '''（コルテモニカ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")。音楽レーベル[contemode](https://ja.wikipedia.org/wiki/contemode "wikilink")からCDをリリースしている。
+'''COLTEMONIKHA '''（コルテモニカ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")。音楽レーベル[contemode](https://ja.wikipedia.org/wiki/contemode "wikilink")からCDをリリースしている。
 
 ## メンバー
 
@@ -17,7 +17,7 @@
 1.  fantastic fantasy
 2.  そらとぶひかり
       -
-        [京セラ](../Page/京セラ.md "wikilink") [W42K](https://ja.wikipedia.org/wiki/W42K "wikilink") [au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink") CMソング
+        [京セラ](../Page/京セラ.md "wikilink") [W42K](../Page/W42K.md "wikilink") [au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink") CMソング
         この曲の特徴は、歌詞が[英語](../Page/英語.md "wikilink")と[日本語](../Page/日本語.md "wikilink")の2つあること。日本語で歌っているように聞こえるがよく聴いてみると、全編英語で歌っている。
 3.  communication
 4.  CLM

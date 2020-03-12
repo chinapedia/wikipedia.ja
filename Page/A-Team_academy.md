@@ -1,7 +1,7 @@
 > この記事は[A-Team academy](https://ja.wikipedia.org/wiki/A-Team_academy)から翻訳されています。
 
 
-**株式会社エーチームアカデミー**（英文社名；*A-Team academy Inc.*）は、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[川崎市](../Page/川崎市.md "wikilink")[高津区](../Page/高津区.md "wikilink")に本校を置く[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[芸能スクール](https://ja.wikipedia.org/wiki/アクターズスクール "wikilink")。
+**株式会社エーチームアカデミー**（英文社名；*A-Team academy Inc.*）は、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[川崎市](../Page/川崎市.md "wikilink")[高津区](../Page/高津区.md "wikilink")に本校を置く[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[芸能スクール](../Page/アクターズスクール.md "wikilink")。
 
 ## 沿革
 
@@ -29,8 +29,8 @@
 
 ## 関連会社
 
-  - [エーチーム](https://ja.wikipedia.org/wiki/A-team_\(芸能プロダクション\) "wikilink")
-  - [エープラス](https://ja.wikipedia.org/wiki/A-PLUS "wikilink")
+  - [エーチーム](../Page/A-team_\(芸能プロダクション\).md "wikilink")
+  - [エープラス](../Page/A-PLUS.md "wikilink")
   - [エーライツ](../Page/A-Light.md "wikilink")
 
 ## 脚注

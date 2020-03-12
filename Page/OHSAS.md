@@ -1,7 +1,7 @@
 > この記事は[OHSAS](https://ja.wikipedia.org/wiki/OHSAS)から翻訳されています。
 
 
-**OHSAS**（*Occupational Health and Safety Assessment Series*）とは、[国際](https://ja.wikipedia.org/wiki/国際 "wikilink")[コンソーシアム](https://ja.wikipedia.org/wiki/コンソーシアム "wikilink")によって策定された[労働安全衛生に対するリスクと対策の一覧化および責任所在の明確化等を目的とする規格のこと](https://ja.wikipedia.org/wiki/労働安全衛生法 "wikilink")。
+**OHSAS**（*Occupational Health and Safety Assessment Series*）とは、[国際](https://ja.wikipedia.org/wiki/国際 "wikilink")[コンソーシアム](../Page/コンソーシアム.md "wikilink")によって策定された[労働安全衛生に対するリスクと対策の一覧化および責任所在の明確化等を目的とする規格のこと](../Page/労働安全衛生法.md "wikilink")。
 
 ## OHSAS18001
 

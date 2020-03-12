@@ -1,7 +1,7 @@
 > この記事は[GO!THE SKIP](https://ja.wikipedia.org/wiki/GO!THE_SKIP)から翻訳されています。
 
 
-[久保博三.JPG](https://ja.wikipedia.org/wiki/File:久保博三.JPG "fig:久保博三.JPG")  **GO\!THE SKIP**（ゴー・ザ・スキップ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンドである](https://ja.wikipedia.org/wiki/スリーピース "wikilink")。ラジオ番組「[OLEっち](https://ja.wikipedia.org/wiki/OLEっち "wikilink")」のオーディションに合格し、[コロムビアよりデビュー](../Page/日本コロムビア.md "wikilink")。
+[久保博三.JPG](https://ja.wikipedia.org/wiki/File:久保博三.JPG "fig:久保博三.JPG")  **GO\!THE SKIP**（ゴー・ザ・スキップ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンドである](https://ja.wikipedia.org/wiki/スリーピース "wikilink")。ラジオ番組「[OLEっち](../Page/OLEっち.md "wikilink")」のオーディションに合格し、[コロムビアよりデビュー](../Page/日本コロムビア.md "wikilink")。
 
 活動休止していたが2016年8月より活動再開している。
 
@@ -38,7 +38,7 @@ GO\!THE SKIP結成まで
 
 ### シングル
 
-1.  **空の向こうに**（2003年10月22日）[TBS系](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")「[COUNT DOWN TV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")」2003年10月度オープニングテーマ
+1.  **空の向こうに**（2003年10月22日）[TBS系](../Page/TBSテレビ.md "wikilink")「[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")」2003年10月度オープニングテーマ
     1.  空の向こうに
     2.  OH\!琉球～手をつなごう～
     3.  空の向こうに(radio edit)
@@ -81,7 +81,7 @@ GO\!THE SKIP結成まで
   - **[本間敏之](https://ja.wikipedia.org/wiki/本間敏之 "wikilink")ex(THE虎舞竜キーボード)**
   - **[平出悟](https://ja.wikipedia.org/wiki/平出悟 "wikilink")(プロデューサー)**
   - **[赤坂泰彦](../Page/赤坂泰彦.md "wikilink")(DJ)**
-  - **[きゃんひとみ](https://ja.wikipedia.org/wiki/きゃんひとみ "wikilink")(DJ)**
+  - **[きゃんひとみ](../Page/きゃんひとみ.md "wikilink")(DJ)**
   - **[こせきこうじ](../Page/こせきこうじ.md "wikilink")(まんが家)**
   - 髙橋達也(美術制作)
 

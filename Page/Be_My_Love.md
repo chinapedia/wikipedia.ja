@@ -10,13 +10,13 @@
   - 4人がメッセンジャーを務めた「Save the Children 一緒に、始めよう。」[プロジェクト](../Page/プロジェクト.md "wikilink")の[テーマソング](https://ja.wikipedia.org/wiki/テーマソング "wikilink")。
   - 解散前の楽曲は[島袋寛子](../Page/島袋寛子.md "wikilink")、[今井絵理子](https://ja.wikipedia.org/wiki/今井絵理子 "wikilink")のユニゾンヴォーカルの形をあえて取っていたが、今作は4人のハーモニーを重視した曲作りが行われた。
   - 初回盤はピクチャーレーベル仕様になっている。
-  - 期間限定とはいえ本格的な再結成だったため[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")にも多数出演し披露した。
+  - 期間限定とはいえ本格的な再結成だったため[音楽番組](../Page/音楽番組.md "wikilink")にも多数出演し披露した。
 
 ## 収録曲
 
 1.  **Be My Love**
       -
-        作詞・作曲：[伊秩弘将](https://ja.wikipedia.org/wiki/伊秩弘将 "wikilink")、編曲：[水島康貴](https://ja.wikipedia.org/wiki/水島康貴 "wikilink")
+        作詞・作曲：[伊秩弘将](https://ja.wikipedia.org/wiki/伊秩弘将 "wikilink")、編曲：[水島康貴](../Page/水島康貴.md "wikilink")
 2.  **朱夏**
       -
         作詞・作曲：伊秩弘将、編曲：[上杉洋史](https://ja.wikipedia.org/wiki/上杉洋史 "wikilink")

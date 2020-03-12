@@ -1,7 +1,7 @@
 > この記事は[Lita](https://ja.wikipedia.org/wiki/Lita)から翻訳されています。
 
 
-**Lita**（リタ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")である。respond所属。
+**Lita**（リタ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")である。respond所属。
 
 ## 概要
 
@@ -13,7 +13,7 @@
 
 ## メンバー
 
-  - **積しの**（せき しの、[1979年](../Page/1979年.md "wikilink")[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink") - ）
+  - **積しの**（せき しの、[1979年](../Page/1979年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink") - ）
       - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。[沖縄県](../Page/沖縄県.md "wikilink")出身。2003年のアルバム『ニライカナイ』リリースし解散。その後は[sekishino](https://ja.wikipedia.org/wiki/sekishino "wikilink")名義で活動している。
   - [幸克哉](https://ja.wikipedia.org/wiki/幸克哉 "wikilink")（ゆき かつや、[1973年](../Page/1973年.md "wikilink")[8月2日](../Page/8月2日.md "wikilink") - ）
       - [ギター](../Page/ギター.md "wikilink")担当。[大分県](../Page/大分県.md "wikilink")出身。
@@ -45,23 +45,23 @@
     3.  デジャヴ\[3:40\]（作詞：積しの／作曲・編曲：幸克哉）
     <!-- end list -->
       - [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『AX MUSIC FACTORY』AX POWER PLAY \#057（エンディングテーマ）
-      - [中京テレビ](../Page/中京テレビ放送.md "wikilink")・日本テレビ系『[ろみひー](https://ja.wikipedia.org/wiki/ろみひー "wikilink")』2001年10・11月度エンディングテーマ
+      - [中京テレビ](../Page/中京テレビ放送.md "wikilink")・日本テレビ系『[ろみひー](../Page/ろみひー.md "wikilink")』2001年10・11月度エンディングテーマ
       - [tvk制作](../Page/テレビ神奈川.md "wikilink")[UHF](https://ja.wikipedia.org/wiki/全国独立UHF放送協議会 "wikilink")28局ネット『Lap cafe』エンディングテーマ
-      - [TBS系](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")[UHF](https://ja.wikipedia.org/wiki/全国独立UHF放送協議会 "wikilink")20局ネット『MUSIC B.B』2001年12月度オープニングテーマ
+      - [TBS系](../Page/TBSテレビ.md "wikilink")[UHF](https://ja.wikipedia.org/wiki/全国独立UHF放送協議会 "wikilink")20局ネット『MUSIC B.B』2001年12月度オープニングテーマ
 4.  あたしがあたしであるうちに（[2002年](../Page/2002年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink")）オリコン96位
-    1.  あたしがあたしであるうちに\[4:39\]（作詞：積しの／作曲：幸克哉／編曲：幸克哉・[笹路正徳](https://ja.wikipedia.org/wiki/笹路正徳 "wikilink")）
+    1.  あたしがあたしであるうちに\[4:39\]（作詞：積しの／作曲：幸克哉／編曲：幸克哉・[笹路正徳](../Page/笹路正徳.md "wikilink")）
     2.  遊女の戯れ\[3:35\]（作詞：積しの／作曲・編曲：幸克哉）
     3.  あたしがあたしであるうちに (encore)\[5:18\]
     <!-- end list -->
-      - 日本テレビ系『[モグモグGOMBO](https://ja.wikipedia.org/wiki/モグモグGOMBO "wikilink")』2002年2・3月度エンディングテーマ
-      - 中京テレビ・日本テレビ系『[あんたにグラッツェ\!](https://ja.wikipedia.org/wiki/あんたにグラッツェ! "wikilink")』2002年2月度エンディングテーマ
+      - 日本テレビ系『[モグモグGOMBO](../Page/モグモグGOMBO.md "wikilink")』2002年2・3月度エンディングテーマ
+      - 中京テレビ・日本テレビ系『[あんたにグラッツェ\!](../Page/あんたにグラッツェ!.md "wikilink")』2002年2月度エンディングテーマ
       - 日本テレビ系『ピンパパ』2002年2月度エンディングテーマ
       - 中京テレビ・日本テレビ系『ろみひー』2002年2月度エンディングテーマ
       - [テレビ熊本](../Page/テレビ熊本.md "wikilink")『サウンド・キッズ』2002年2月度エンディングテーマ
       - [RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")『チャート・バスターズR』パワープレイ
       - [名古屋テレビ](../Page/名古屋テレビ放送.md "wikilink")『J・BEAT』2002年3月度オープニングテーマ
 5.  天の川 〜ティンガーラ〜（2003年[5月21日](../Page/5月21日.md "wikilink")）オリコン192位
-    1.  天の川 〜ティンガーラ〜\[4:44\]（作詞：積しの／作曲：幸克哉／編曲：幸克哉・[亀田誠治](https://ja.wikipedia.org/wiki/亀田誠治 "wikilink")）
+    1.  天の川 〜ティンガーラ〜\[4:44\]（作詞：積しの／作曲：幸克哉／編曲：幸克哉・[亀田誠治](../Page/亀田誠治.md "wikilink")）
     2.  ミルク\[2:19\]（作詞：積しの／作曲：幸克哉／編曲：幸克哉・亀田誠治）
     3.  花園はいつも開いている\[4:03\]（作詞：積しの／作曲：幸克哉／編曲：幸克哉・亀田誠治）
     4.  永遠。\[5:33\]（作詞：積しの／作曲：幸克哉／編曲：幸克哉・亀田誠治）

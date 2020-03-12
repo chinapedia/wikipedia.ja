@@ -5,11 +5,11 @@
 
 ## 概要
 
-[2004年](../Page/2004年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")、サウンドプロデューサー[YANAGIMAN](https://ja.wikipedia.org/wiki/YANAGIMAN "wikilink")が開催したオーディションで1万1千人の中から選ばれ、全員がリードボーカルとラップを担当する4人組のガールズグループとして結成。 路上ライブを積み重ねる中で「着うた1万ダウンロード達成したらCDリリース決定」というチャンスを掴み、1ヶ月の期限内で2万ダウンロード（総合10万ダウンロード）を達成して、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")にインディーズよりファーストミニアルバム『Missing Link』をリリース。 [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")には[エピックレコードジャパン](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")よりシングル「ツナガルキモチ」でメジャーデビューを果たした。 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")には映画『[ハンサム★スーツ](https://ja.wikipedia.org/wiki/ハンサム★スーツ "wikilink")』の主題歌「マイ★レボリューション」（[渡辺美里](../Page/渡辺美里.md "wikilink")「[My Revolution](https://ja.wikipedia.org/wiki/My_Revolution "wikilink")」のカバー）を主演の[塚地武雅](https://ja.wikipedia.org/wiki/塚地武雅 "wikilink")とともに担当し、「Missing Linkと[塚地武雅](https://ja.wikipedia.org/wiki/塚地武雅 "wikilink")（[ドランクドラゴン](https://ja.wikipedia.org/wiki/ドランクドラゴン "wikilink")）」名義でCDをリリース。 [2009年](../Page/2009年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")、所属プロダクション及びレコード会社を離れ独立、同[11月5日](../Page/11月5日.md "wikilink")には株式会社LINKを設立して新たな活動を開始した。 [2009年](../Page/2009年.md "wikilink")[8月26日](../Page/8月26日.md "wikilink")には初のワンマンライブを、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[8月22日](../Page/8月22日.md "wikilink")には自身が初主催する音楽イベント「東京 ギラギラ Collection」を開催。 [2012年](../Page/2012年.md "wikilink")[7月6日](../Page/7月6日.md "wikilink")、各自ソロ活動に専念するために解散を発表した。
+[2004年](../Page/2004年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")、サウンドプロデューサー[YANAGIMAN](../Page/YANAGIMAN.md "wikilink")が開催したオーディションで1万1千人の中から選ばれ、全員がリードボーカルとラップを担当する4人組のガールズグループとして結成。 路上ライブを積み重ねる中で「着うた1万ダウンロード達成したらCDリリース決定」というチャンスを掴み、1ヶ月の期限内で2万ダウンロード（総合10万ダウンロード）を達成して、[2005年](../Page/2005年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")にインディーズよりファーストミニアルバム『Missing Link』をリリース。 [2007年](../Page/2007年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")には[エピックレコードジャパン](../Page/エピックレコードジャパン.md "wikilink")よりシングル「ツナガルキモチ」でメジャーデビューを果たした。 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")には映画『[ハンサム★スーツ](../Page/ハンサム★スーツ.md "wikilink")』の主題歌「マイ★レボリューション」（[渡辺美里](../Page/渡辺美里.md "wikilink")「[My Revolution](../Page/My_Revolution.md "wikilink")」のカバー）を主演の[塚地武雅](../Page/塚地武雅.md "wikilink")とともに担当し、「Missing Linkと[塚地武雅](../Page/塚地武雅.md "wikilink")（[ドランクドラゴン](../Page/ドランクドラゴン.md "wikilink")）」名義でCDをリリース。 [2009年](../Page/2009年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")、所属プロダクション及びレコード会社を離れ独立、同[11月5日](../Page/11月5日.md "wikilink")には株式会社LINKを設立して新たな活動を開始した。 [2009年](../Page/2009年.md "wikilink")[8月26日](../Page/8月26日.md "wikilink")には初のワンマンライブを、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[8月22日](../Page/8月22日.md "wikilink")には自身が初主催する音楽イベント「東京 ギラギラ Collection」を開催。 [2012年](../Page/2012年.md "wikilink")[7月6日](../Page/7月6日.md "wikilink")、各自ソロ活動に専念するために解散を発表した。
 
 ## メンバー
 
-  - **MEGU**（メグ、**[柳めぐみ](https://ja.wikipedia.org/wiki/柳めぐみ "wikilink")**）リーダー、リードボーカル・ラップ。[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")出身。\[1\]
+  - **MEGU**（メグ、**[柳めぐみ](https://ja.wikipedia.org/wiki/柳めぐみ "wikilink")**）リーダー、リードボーカル・ラップ。[大阪府](../Page/大阪府.md "wikilink")出身。\[1\]
   - **SHOCO**（ショウコ、**[菊井彰子](https://ja.wikipedia.org/wiki/菊井彰子 "wikilink")**）リードボーカル・ラップ。[香川県](../Page/香川県.md "wikilink")出身。\[2\]
   - **HARUKA**（ハルカ、**[仲本はる香](https://ja.wikipedia.org/wiki/ハルカハミングバード "wikilink")**、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[3月30日](../Page/3月30日.md "wikilink") - ）リードボーカル・ラップ。[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")出身。\[3\]
   - **YOU**（ユー、**伊藤優**、[1988年](../Page/1988年.md "wikilink")[12月27日](../Page/12月27日.md "wikilink") - ）リードボーカル・ラップ。[岩手県](../Page/岩手県.md "wikilink")出身。
@@ -26,7 +26,7 @@
     1.  マイ★レボリューション
     2.  マイ★レボリューション-Instrumental-
     <!-- end list -->
-      - 映画『[ハンサム★スーツ](https://ja.wikipedia.org/wiki/ハンサム★スーツ "wikilink")』の主題歌で、[渡辺美里](../Page/渡辺美里.md "wikilink")の代表曲「[My Revolution](https://ja.wikipedia.org/wiki/My_Revolution "wikilink")」のカバー。ユニット「Missing Linkと[塚地武雅](https://ja.wikipedia.org/wiki/塚地武雅 "wikilink")（[ドランクドラゴン](https://ja.wikipedia.org/wiki/ドランクドラゴン "wikilink")）」名義でリリース。本作のPVには塚地が主演の映画『[ハンサム★スーツ](https://ja.wikipedia.org/wiki/ハンサム★スーツ "wikilink")』のキャストやワンシーン、アニメ等が登場している。
+      - 映画『[ハンサム★スーツ](../Page/ハンサム★スーツ.md "wikilink")』の主題歌で、[渡辺美里](../Page/渡辺美里.md "wikilink")の代表曲「[My Revolution](../Page/My_Revolution.md "wikilink")」のカバー。ユニット「Missing Linkと[塚地武雅](../Page/塚地武雅.md "wikilink")（[ドランクドラゴン](../Page/ドランクドラゴン.md "wikilink")）」名義でリリース。本作のPVには塚地が主演の映画『[ハンサム★スーツ](../Page/ハンサム★スーツ.md "wikilink")』のキャストやワンシーン、アニメ等が登場している。
 
 ### アルバム
 
@@ -72,8 +72,8 @@
 1.  [ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")「ネガポジ」（アルバム『[∠TRIGGER](https://ja.wikipedia.org/wiki/∠TRIGGER "wikilink")』収録）
       - コーラスとして参加
 2.  「[いしだあゆみ](../Page/いしだあゆみ.md "wikilink")/太陽は泣いている remixed by Missing Link」（[オムニバス](../Page/オムニバス.md "wikilink")アルバム『[京平ディスコナイト](https://ja.wikipedia.org/wiki/京平ディスコナイト "wikilink")』収録）
-3.  [童子-T](https://ja.wikipedia.org/wiki/童子-T "wikilink")「I Need Your Love feat. Missing Link」（アルバム『[GOLD](https://ja.wikipedia.org/wiki/GOLD_\(童子-Tのアルバム\) "wikilink")』収録）
-4.  [miCKun](https://ja.wikipedia.org/wiki/miyake "wikilink")「恋の花咲かせナイト★フィーバー feat. [SEAMO](https://ja.wikipedia.org/wiki/SEAMO "wikilink") & Missing Link」（アルバム『[D.N.A](https://ja.wikipedia.org/wiki/D.N.A "wikilink")』収録）
+3.  [童子-T](../Page/童子-T.md "wikilink")「I Need Your Love feat. Missing Link」（アルバム『[GOLD](https://ja.wikipedia.org/wiki/GOLD_\(童子-Tのアルバム\) "wikilink")』収録）
+4.  [miCKun](https://ja.wikipedia.org/wiki/miyake "wikilink")「恋の花咲かせナイト★フィーバー feat. [SEAMO](../Page/SEAMO.md "wikilink") & Missing Link」（アルバム『[D.N.A](https://ja.wikipedia.org/wiki/D.N.A "wikilink")』収録）
 
 ## 脚注
 
@@ -81,9 +81,9 @@
 
 ## 関連項目
 
-  - [ナイス橋本](https://ja.wikipedia.org/wiki/ナイス橋本 "wikilink")
-  - [YANAGIMAN](https://ja.wikipedia.org/wiki/YANAGIMAN "wikilink")
-  - [Hearts Grow](https://ja.wikipedia.org/wiki/Hearts_Grow "wikilink")
+  - [ナイス橋本](../Page/ナイス橋本.md "wikilink")
+  - [YANAGIMAN](../Page/YANAGIMAN.md "wikilink")
+  - [Hearts Grow](../Page/Hearts_Grow.md "wikilink")
   - [ハルカハミングバード](https://ja.wikipedia.org/wiki/ハルカハミングバード "wikilink")
 
 ## 外部リンク

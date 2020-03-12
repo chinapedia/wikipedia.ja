@@ -1,7 +1,7 @@
 > この記事は[Hitman2: Silent Assassin](https://ja.wikipedia.org/wiki/Hitman2:_Silent_Assassin)から翻訳されています。
 
 
-『**Hitman2: Silent Assassin**』（ヒットマン2：サイレントアサシン）は、[HITMANシリーズの第](https://ja.wikipedia.org/wiki/ヒットマン_\(ゲームシリーズ\) "wikilink")2作目として発売された[ステルス性重視の](../Page/ステルスゲーム.md "wikilink")[サードパーソン・シューティングゲーム](https://ja.wikipedia.org/wiki/サードパーソン・シューティングゲーム "wikilink")である。[2003年](../Page/2003年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink")にPC日本語版が[ツクダシナジー](https://ja.wikipedia.org/wiki/ツクダシナジー "wikilink")より発売され、[7月3日](https://ja.wikipedia.org/wiki/7月3日 "wikilink")には[Xbox版](../Page/Xbox_\(ゲーム機\).md "wikilink")、[11月6日](../Page/11月6日.md "wikilink")には[プレイステーション2版が](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[アイドス](https://ja.wikipedia.org/wiki/アイドス "wikilink")より発売された。海外では[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")版も発売されている（日本国内では未発売）。2013年には日本国外で[Hitman: Contractsと](https://ja.wikipedia.org/wiki/Hitman:_Contracts "wikilink")[Hitman: Blood Moneyとカップリングした](https://ja.wikipedia.org/wiki/Hitman:_Blood_Money "wikilink")『Hitman HD trilogy』が[Xbox 360と](https://ja.wikipedia.org/wiki/Xbox_360 "wikilink")[プレイステーション3で発売された](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")。
+『**Hitman2: Silent Assassin**』（ヒットマン2：サイレントアサシン）は、[HITMANシリーズの第](../Page/ヒットマン_\(ゲームシリーズ\).md "wikilink")2作目として発売された[ステルス性重視の](../Page/ステルスゲーム.md "wikilink")[サードパーソン・シューティングゲーム](../Page/サードパーソン・シューティングゲーム.md "wikilink")である。[2003年](../Page/2003年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink")にPC日本語版が[ツクダシナジー](https://ja.wikipedia.org/wiki/ツクダシナジー "wikilink")より発売され、[7月3日](../Page/7月3日.md "wikilink")には[Xbox版](../Page/Xbox_\(ゲーム機\).md "wikilink")、[11月6日](../Page/11月6日.md "wikilink")には[プレイステーション2版が](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[アイドス](../Page/アイドス.md "wikilink")より発売された。海外では[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")版も発売されている（日本国内では未発売）。2013年には日本国外で[Hitman: Contractsと](../Page/Hitman:_Contracts.md "wikilink")[Hitman: Blood Moneyとカップリングした](../Page/Hitman:_Blood_Money.md "wikilink")『Hitman HD trilogy』が[Xbox 360と](../Page/Xbox_360.md "wikilink")[プレイステーション3で発売された](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")。
 
 ## プロット
 
@@ -40,9 +40,9 @@
   - ジュセッペ・ジュリアーニ
     イタリア最大のマフィアのドン。武装した部下達が警備している豪邸に家族とともに暮らしている。彼が神父を拉致したことが、47が暗殺者としての道を再び歩むきっかけとなる。
   - ハヤモト・マサヒロ（早元昌弘）
-    ジャパニーズ・マフィア（ヤクザ）のボスで武器商人。[ナイトビジョン](https://ja.wikipedia.org/wiki/ナイトビジョン "wikilink")を着けサブマシンガンや[日本刀](../Page/日本刀.md "wikilink")で武装した[忍者](https://ja.wikipedia.org/wiki/忍者 "wikilink")集団を護衛として従えており、自身も刀を武器にしている。暗殺を恐れているため、近年では全く姿を見せず、中部地方のとある山奥の城に住んでいる。核兵器に関わる武器売買でセルゲイと関わりがあったため、セルゲイにより暗殺依頼される。同じくヤクザである息子がいるが、名前は不明（ゲーム中ではハヤモト Jrと表示されている）。
+    ジャパニーズ・マフィア（ヤクザ）のボスで武器商人。[ナイトビジョン](https://ja.wikipedia.org/wiki/ナイトビジョン "wikilink")を着けサブマシンガンや[日本刀](../Page/日本刀.md "wikilink")で武装した[忍者](../Page/忍者.md "wikilink")集団を護衛として従えており、自身も刀を武器にしている。暗殺を恐れているため、近年では全く姿を見せず、中部地方のとある山奥の城に住んでいる。核兵器に関わる武器売買でセルゲイと関わりがあったため、セルゲイにより暗殺依頼される。同じくヤクザである息子がいるが、名前は不明（ゲーム中ではハヤモト Jrと表示されている）。
   - シジャン兄弟
-    [双子](https://ja.wikipedia.org/wiki/双子 "wikilink")。弟はハッカーで[ペトロナスツインタワー](https://ja.wikipedia.org/wiki/ペトロナスツインタワー "wikilink")の地下に引き篭もっている。兄はペトロナスツインタワー上階に住んでいる。セルゲイのデータをハッキングしたため、セルゲイにより暗殺依頼される。
+    [双子](https://ja.wikipedia.org/wiki/双子 "wikilink")。弟はハッカーで[ペトロナスツインタワー](../Page/ペトロナスツインタワー.md "wikilink")の地下に引き篭もっている。兄はペトロナスツインタワー上階に住んでいる。セルゲイのデータをハッキングしたため、セルゲイにより暗殺依頼される。
   - フセイン
     中東系テロリストのリーダー。核兵器を所持し、それをセルゲイが掠め取るために、暗殺依頼される。
   - 教祖

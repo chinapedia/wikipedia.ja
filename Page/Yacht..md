@@ -1,14 +1,14 @@
 > この記事は[Yacht.](https://ja.wikipedia.org/wiki/Yacht.)から翻訳されています。
 
 
-**Yacht.**（ヨット）は[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")出身の[メロコア](../Page/メロディック・ハードコア.md "wikilink")[バンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")。2002年5月結成。2007年[エピックレコードジャパン](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")よりメジャーデビュー。英語を歌詞のメインとして使う。2010年10月1日のライブをもって解散することが発表された。
+**Yacht.**（ヨット）は[大阪府](../Page/大阪府.md "wikilink")出身の[メロコア](../Page/メロディック・ハードコア.md "wikilink")[バンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")。2002年5月結成。2007年[エピックレコードジャパン](../Page/エピックレコードジャパン.md "wikilink")よりメジャーデビュー。英語を歌詞のメインとして使う。2010年10月1日のライブをもって解散することが発表された。
 
 ## メンバー
 
   - **井戸勝英**（いどかつひで、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[10月10日](../Page/10月10日.md "wikilink") - ）ボーカル・ギター。[兵庫県](../Page/兵庫県.md "wikilink")[尼崎市](../Page/尼崎市.md "wikilink")出身　通称イド。現[ONPA MOUNTAIN](https://ja.wikipedia.org/wiki/ONPA_MOUNTAIN "wikilink")
-  - **大日野武則**（おおひのたけのり、[1984年](../Page/1984年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink") - ）ギター・ボーカル。[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")[池田市](../Page/池田市.md "wikilink")出身　通用ピロ
-  - **山副芳樹**（やまぞえよしき、[1981年](../Page/1981年.md "wikilink")[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink") - ）ベース・ボーカル。[京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")[京丹後市](../Page/京丹後市.md "wikilink")出身　通称よしき
-  - **藤本暢幸**（ふじもとのぶゆき、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[6月28日](../Page/6月28日.md "wikilink") - ）ドラム・ボーカル。[京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")[福知山市](../Page/福知山市.md "wikilink")出身　通称のぶ
+  - **大日野武則**（おおひのたけのり、[1984年](../Page/1984年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink") - ）ギター・ボーカル。[大阪府](../Page/大阪府.md "wikilink")[池田市](../Page/池田市.md "wikilink")出身　通用ピロ
+  - **山副芳樹**（やまぞえよしき、[1981年](../Page/1981年.md "wikilink")[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink") - ）ベース・ボーカル。[京都府](../Page/京都府.md "wikilink")[京丹後市](../Page/京丹後市.md "wikilink")出身　通称よしき
+  - **藤本暢幸**（ふじもとのぶゆき、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[6月28日](../Page/6月28日.md "wikilink") - ）ドラム・ボーカル。[京都府](../Page/京都府.md "wikilink")[福知山市](../Page/福知山市.md "wikilink")出身　通称のぶ
 
 ## 歴史
 
@@ -242,7 +242,7 @@ ESCL-3592:通常盤</p></td>
 <td><ol>
 <li>Landscape / <a href="https://ja.wikipedia.org/wiki/BOMB_SHOP" title="wikilink">BOMB SHOP</a></li>
 <li>YOU OVER YOU / <a href="../Page/UNCHAIN.md" title="wikilink">UNCHAIN</a></li>
-<li>Trapped / <a href="https://ja.wikipedia.org/wiki/10-FEET" title="wikilink">10-FEET</a></li>
+<li>Trapped / <a href="../Page/10-FEET.md" title="wikilink">10-FEET</a></li>
 <li>ツタウタイ / <a href="https://ja.wikipedia.org/wiki/FIRST_SOUP" title="wikilink">FIRST SOUP</a></li>
 <li><strong>Mr. Wales / Yacht.</strong></li>
 <li>OH MY BABY / <a href="https://ja.wikipedia.org/wiki/スーパーサンダース" title="wikilink">スーパーサンダース</a></li>
@@ -317,7 +317,7 @@ ESCL-3592:通常盤</p></td>
 
 ## 関連項目
 
-  - [2007年の音楽](https://ja.wikipedia.org/wiki/2007年の音楽 "wikilink")
+  - [2007年の音楽](../Page/2007年の音楽.md "wikilink")
 
 ## 外部リンク
 

@@ -1,7 +1,7 @@
 > この記事は[LOSTAGE](https://ja.wikipedia.org/wiki/LOSTAGE)から翻訳されています。
 
 
-**LOSTAGE**（ロストエイジ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[2001年](../Page/2001年.md "wikilink")に[奈良県](https://ja.wikipedia.org/wiki/奈良県 "wikilink")で結成。
+**LOSTAGE**（ロストエイジ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[2001年](../Page/2001年.md "wikilink")に[奈良県](../Page/奈良県.md "wikilink")で結成。
 
 ## メンバー
 
@@ -39,15 +39,15 @@
 
 2005年：40本以上に及ぶライブ活動の傍ら、9月より次回作のレコーディング作業を開始。
 
-2006年：1月に1stフルアルバム『PLAY WITH ISOLATION』をUKプロジェクトよりリリース。同月からアルバム発売記念ツアーを敢行(全26本)、6月に地元奈良にてツアーファイナルを迎えた。8月には多数の夏フェス、イベントに参加（[ROCK IN JAPAN FESTIVAL](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink")、[RUSH BALL等](https://ja.wikipedia.org/wiki/RUSH_BALL "wikilink"))。12月に下北沢SHELTERにて2年ぶりにワンマンLIVEを行う。年末には[COUNTDOWN JAPANに初参加](https://ja.wikipedia.org/wiki/COUNTDOWN_JAPAN "wikilink")。
+2006年：1月に1stフルアルバム『PLAY WITH ISOLATION』をUKプロジェクトよりリリース。同月からアルバム発売記念ツアーを敢行(全26本)、6月に地元奈良にてツアーファイナルを迎えた。8月には多数の夏フェス、イベントに参加（[ROCK IN JAPAN FESTIVAL](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink")、[RUSH BALL等](../Page/RUSH_BALL.md "wikilink"))。12月に下北沢SHELTERにて2年ぶりにワンマンLIVEを行う。年末には[COUNTDOWN JAPANに初参加](../Page/COUNTDOWN_JAPAN.md "wikilink")。
 
 2007年：5月に盟友[8otto](../Page/8otto.md "wikilink")と梅田[Shangri-La](https://ja.wikipedia.org/wiki/Shangri-La "wikilink")にてバンド史上初の2DAYS LIVEを行う。7月に2ndフルアルバム『DRAMA』を[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")よりリリースし、メジャーデビュー。同月からアルバム発売記念ツアー「DRAMATIC TOUR 2007」を敢行(全22本)、9月に大阪(十三FANDANGO)と東京([代官山UNIT](https://ja.wikipedia.org/wiki/UNIT "wikilink"))にてツアーを締め括るワンマンLIVEを行う。
 
 2008年：1月に自主企画ライブ「SHOWNEN」を東名阪クアトロにて開催。この1月18日の渋谷公演を最後にギターの清水雅也(現在 CARDが脱退。新メンバーとして中野博教(ex.fahners witch、piece pix、現在 CARD)が加入する。9月に2ndミニアルバム『脳にはビート 眠りには愛を』\[2\]をトイズファクトリーよりリリース。10月26日よりツアー「ロストエイジのたからさがしツアー」を敢行。ツアーの合間にレコーディング作業を挟みつつ、11月27日[渋谷クラブクアトロ](https://ja.wikipedia.org/wiki/渋谷クラブクアトロ "wikilink")にてツアーを締め括るワンマンLIVEを行う。この渋谷公演の模様は後日[NHK-FM](https://ja.wikipedia.org/wiki/NHK-FM "wikilink")「[ライブビート](https://ja.wikipedia.org/wiki/ライブビート "wikilink")」で放送された(2009年2月18日放送)。
 
-2009年：3月に3rdフルアルバム『GO』\[3\]をトイズファクトリーよりリリース。4月からアルバム発売記念ツアー「lostage GO」を敢行（一部公演はコンピレーション盤『Kill your T.V.』発売に伴うライブツアー公演とのスプリット）、6月に大阪(心斎橋クラブクアトロ)と東京(渋谷クラブクアトロ)にてツアーを締め括るワンマンLIVEを行う。7月に自主企画ライブ「SHOWNEN」を奈良ネバーランドにて開催。10月[ASPARAGUS](https://ja.wikipedia.org/wiki/ASPARAGUS "wikilink")主催「BKTS TOUR'09」に[the band apart](https://ja.wikipedia.org/wiki/the_band_apart "wikilink")、[COMEBACK MY DAUGHTERSらと](https://ja.wikipedia.org/wiki/COMEBACK_MY_DAUGHTERS "wikilink")7ヶ所を帯同。福岡公演でのアフターパーティでは岳久、拓人で初のアコースティック編成のライブを行う。11月～12月に自主企画ライブ「SHOWNEN\`09」を4ヶ所で開催。11月18日公式HP上にてギター中野博教の脱退を発表、12月27日の奈良ネバーランドでのライブをもって脱退。
+2009年：3月に3rdフルアルバム『GO』\[3\]をトイズファクトリーよりリリース。4月からアルバム発売記念ツアー「lostage GO」を敢行（一部公演はコンピレーション盤『Kill your T.V.』発売に伴うライブツアー公演とのスプリット）、6月に大阪(心斎橋クラブクアトロ)と東京(渋谷クラブクアトロ)にてツアーを締め括るワンマンLIVEを行う。7月に自主企画ライブ「SHOWNEN」を奈良ネバーランドにて開催。10月[ASPARAGUS](../Page/ASPARAGUS.md "wikilink")主催「BKTS TOUR'09」に[the band apart](https://ja.wikipedia.org/wiki/the_band_apart "wikilink")、[COMEBACK MY DAUGHTERSらと](https://ja.wikipedia.org/wiki/COMEBACK_MY_DAUGHTERS "wikilink")7ヶ所を帯同。福岡公演でのアフターパーティでは岳久、拓人で初のアコースティック編成のライブを行う。11月～12月に自主企画ライブ「SHOWNEN\`09」を4ヶ所で開催。11月18日公式HP上にてギター中野博教の脱退を発表、12月27日の奈良ネバーランドでのライブをもって脱退。
 
-2010年：1月1日からバンドの表記を「lostage」から「LOSTAGE」に変更、バンドが三人編成となる。2月28日奈良ネバーランドにて三人編成での初ライブを行う。3月1日新代田FEVERにて無料招待ライブを開催。3月～4月に自主企画「SOWNEN」を東名阪で開催。5月～6月に[ART-SCHOOL](https://ja.wikipedia.org/wiki/ART-SCHOOL "wikilink")とのスプリットツアー「BRAIN DEAD 2010 TOUR」を8ヶ所で行う。その最中に4thフルアルバム『LOSTAGE』を[AVOCADO Recordsよりリリース](https://ja.wikipedia.org/wiki/AVOCADO_Records "wikilink")。6月8日からアルバム発売ツアー「LOSTAGE TOUR」をスタートし、8月15日東京（渋谷クアトロ）までの全15公演を行う。10月31日大阪[クリエイティブセンター大阪](https://ja.wikipedia.org/wiki/クリエイティブセンター大阪 "wikilink")内STUDIO PARTITAにて自主企画イベント「生活」を開催。11月にFLAKE RECORDS主催「FLAKE RECORDS 4th Anniversary DESMOND & THE TUTUS JAPAN TOUR 2010」の5公演に帯同。
+2010年：1月1日からバンドの表記を「lostage」から「LOSTAGE」に変更、バンドが三人編成となる。2月28日奈良ネバーランドにて三人編成での初ライブを行う。3月1日新代田FEVERにて無料招待ライブを開催。3月～4月に自主企画「SOWNEN」を東名阪で開催。5月～6月に[ART-SCHOOL](../Page/ART-SCHOOL.md "wikilink")とのスプリットツアー「BRAIN DEAD 2010 TOUR」を8ヶ所で行う。その最中に4thフルアルバム『LOSTAGE』を[AVOCADO Recordsよりリリース](https://ja.wikipedia.org/wiki/AVOCADO_Records "wikilink")。6月8日からアルバム発売ツアー「LOSTAGE TOUR」をスタートし、8月15日東京（渋谷クアトロ）までの全15公演を行う。10月31日大阪[クリエイティブセンター大阪](https://ja.wikipedia.org/wiki/クリエイティブセンター大阪 "wikilink")内STUDIO PARTITAにて自主企画イベント「生活」を開催。11月にFLAKE RECORDS主催「FLAKE RECORDS 4th Anniversary DESMOND & THE TUTUS JAPAN TOUR 2010」の5公演に帯同。
 
 2011年：2月13日に奈良ネバーランドにて自主企画ライブ「SHOWNEN」を開催。3月～4月に「SOWNEN TOUR 2011」を全5公演中3公演行う。うち2公演は[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")の影響により中止となった。3月28日に奈良ネバーランドにて「東北地方太平洋沖地震チャリティーイベント」を奈良出身のバンドである[weird](https://ja.wikipedia.org/wiki/weird "wikilink")、[ワッツーシゾンビ](https://ja.wikipedia.org/wiki/ワッツーシゾンビ "wikilink")、[kacika](https://ja.wikipedia.org/wiki/kacika "wikilink")と共に開催。4月に[bloodthirsty butchersの吉村秀樹の弾き語りツアー](https://ja.wikipedia.org/wiki/bloodthirsty_butchers "wikilink")「only the lonely kemonomichi」に岳久が全3公演に帯同。5月31日に自身のレーベル「THROAT RECORDS」を立ち上げ、[youtube](https://ja.wikipedia.org/wiki/youtube "wikilink")にチャンネルを開設する。6月22日にclub SONIC いわきにて自主企画ライブ「SOWNEN in IWAKI」を開催。7月1日に心斎橋Pangeaにてアコースティックライブ「楽園 vol.1」を開催。7月3日に奈良ネバーランドにて自主レーベル設立記念ライブ「THROAT RECORDS presents SHOWNEN」を開催。8月3日に3rdミニアルバム『CONTEXT』をTHROAT RECORDSよりリリース。8月5日からアルバム発売ツアー「CONTEXT TOUR」をスタートし、9月23日東京（新代田LIVE HOUSE FEVER）までの全11公演を行う。10月1日大阪クリエイティブセンター大阪内STUDIO PARTITAにて自主企画イベント「生活 2011」を開催。12月10日東京[LIQUIDROOM](https://ja.wikipedia.org/wiki/LIQUIDROOM "wikilink")にてイラスト本『\#oshare in DICTIONARY』の発売記念イベント「LOSTAGE & SPACE SHOWER TV present \#oshare in LIQUIDROOM」\[4\]\[5\]を開催。このイベントでは出演者[口口口](https://ja.wikipedia.org/wiki/口口口 "wikilink")とのコラボレーションを含むライブメインの第一部、アフターパーティでDJメインの第二部（「\#oshare in LIQUIDLOFT」）の構成で行われた。
 
@@ -55,7 +55,7 @@
 
 2013年：4月3日に初のライブアルバム『LOSTAGE AT SHIBUYA CLUB QUATTRO』をTHROAT RECORDSよりリリース。5月にはアナログ4枚組BOXセットでリリース。4月27日、28日に宮城県エコキャンプみちのくで開催された「ARABAKI ROCK FEST.13」に初出演(1日目)。12月23日に奈良NEVERLANDにて自主レーベルであるTHROAT RECORDS主催の「大忘年会」に出演。
 
-2014年：3月21日に奈良NEVERLANDにて自主企画ライブ「SHOWNEN」を開催。5月に[record store dayにリリースした](https://ja.wikipedia.org/wiki/record_store_day "wikilink")[uri gagarnとのスプリット](https://ja.wikipedia.org/wiki/uri_gagarn "wikilink")7インチ「LOSTAGE x uri gagarn」\[6\]のリリースツアーライブを3ヶ所で行う。5月27日、28日に東京渋谷O-EAST／東京新代田FEVERの2会場にて同時開催された「Yes, We Love butchers」に出演(1日目：O-East)。7月12日、13日に神奈川・横浜アリーナで開催された「ASIAN KUNG-FU GENERATION presents NANO-MUGEN FES.2014」に出演(1日目)。7月に[KING BROTHERSとのスプリットツアー](https://ja.wikipedia.org/wiki/KING_BROTHERS "wikilink")「SOUL CRAZE TOUR 2014」を4ヵ所にて行う。8月6日に6thアルバム『GUITAR』をTHROAT RECORDSよりリリース。8月7日からアルバム発売ツアー「LOSTAGE GUITAR TOUR 2014」をスタート(ツアーファイナル：10月30日東京渋谷CLUB QUATTRO)。10月28日に大阪北加賀屋クリエイティブセンター内STUDIO PARTITAにて自主企画イベント「生活 2014」を開催。12月28日に奈良NEVERLANDにて自主レーベルであるTHROAT RECORDS主催の「大忘年会」に出演。
+2014年：3月21日に奈良NEVERLANDにて自主企画ライブ「SHOWNEN」を開催。5月に[record store dayにリリースした](https://ja.wikipedia.org/wiki/record_store_day "wikilink")[uri gagarnとのスプリット](https://ja.wikipedia.org/wiki/uri_gagarn "wikilink")7インチ「LOSTAGE x uri gagarn」\[6\]のリリースツアーライブを3ヶ所で行う。5月27日、28日に東京渋谷O-EAST／東京新代田FEVERの2会場にて同時開催された「Yes, We Love butchers」に出演(1日目：O-East)。7月12日、13日に神奈川・横浜アリーナで開催された「ASIAN KUNG-FU GENERATION presents NANO-MUGEN FES.2014」に出演(1日目)。7月に[KING BROTHERSとのスプリットツアー](../Page/KING_BROTHERS.md "wikilink")「SOUL CRAZE TOUR 2014」を4ヵ所にて行う。8月6日に6thアルバム『GUITAR』をTHROAT RECORDSよりリリース。8月7日からアルバム発売ツアー「LOSTAGE GUITAR TOUR 2014」をスタート(ツアーファイナル：10月30日東京渋谷CLUB QUATTRO)。10月28日に大阪北加賀屋クリエイティブセンター内STUDIO PARTITAにて自主企画イベント「生活 2014」を開催。12月28日に奈良NEVERLANDにて自主レーベルであるTHROAT RECORDS主催の「大忘年会」に出演。
 
 2015年：
 
@@ -168,9 +168,9 @@
 <li>PURE HONEY</li>
 <li>脳にはビート 眠りには愛を</li>
 </ol>
-<p>ゲストミュージシャン M2,4,6コーラス：宮本菜津子(<a href="https://ja.wikipedia.org/wiki/MASS_OF_THE_FERMENTING_DREGS" title="wikilink">MASS OF THE FERMENTING DREGS</a>)<br />
+<p>ゲストミュージシャン M2,4,6コーラス：宮本菜津子(<a href="../Page/MASS_OF_THE_FERMENTING_DREGS.md" title="wikilink">MASS OF THE FERMENTING DREGS</a>)<br />
 全曲作詞:五味岳久/作曲編曲:lostage<br />
-M2母乳はTBS系テレビ全国ネット「<a href="https://ja.wikipedia.org/wiki/COUNT_DOWN_TV" title="wikilink">CDTV</a>」9月度オープニングテーマに使用された。</p></td>
+M2母乳はTBS系テレビ全国ネット「<a href="../Page/COUNT_DOWN_TV.md" title="wikilink">CDTV</a>」9月度オープニングテーマに使用された。</p></td>
 <td><p>オリコン最高143位</p></td>
 </tr>
 <tr class="odd">
@@ -189,7 +189,7 @@ FLAKES-044:LP盤</p></td>
 <li>NEVERLAND</li>
 </ol>
 <p>CD盤とLP盤の二種があり、それぞれジャケットが異なる。<br />
-[ゲストミュージシャン M3,M6コーラス：アチコ(<a href="https://ja.wikipedia.org/wiki/Ropes" title="wikilink">Ropes</a>,<a href="https://ja.wikipedia.org/wiki/on_button_down" title="wikilink">on button down</a>,<a href="https://ja.wikipedia.org/wiki/WUJA_BIN_BIN" title="wikilink">WUJA BIN BIN</a>,ex.<a href="https://ja.wikipedia.org/wiki/KAREN_(バンド)" title="wikilink">KAREN</a>)、M3パーカッション：フルサワヒロカズ(<a href="https://ja.wikipedia.org/wiki/mudy_on_the_昨晩" title="wikilink">mudy on the 昨晩</a>)、M5コーラス：村田シゲ(<a href="https://ja.wikipedia.org/wiki/□□□" title="wikilink">□□□</a>,<a href="https://ja.wikipedia.org/wiki/CUBISMO_GRAFICO_FIVE" title="wikilink">CUBISMO GRAFICO FIVE</a>)、M6キーボード：山中美里、堀一也(<a href="https://ja.wikipedia.org/wiki/kacica" title="wikilink">kacica</a>)、M6ベース：向井真吾(<a href="https://ja.wikipedia.org/wiki/WEIRD" title="wikilink">WEIRD</a>) ]　</p></td>
+[ゲストミュージシャン M3,M6コーラス：アチコ(<a href="https://ja.wikipedia.org/wiki/Ropes" title="wikilink">Ropes</a>,<a href="https://ja.wikipedia.org/wiki/on_button_down" title="wikilink">on button down</a>,<a href="https://ja.wikipedia.org/wiki/WUJA_BIN_BIN" title="wikilink">WUJA BIN BIN</a>,ex.<a href="../Page/KAREN_(バンド).md" title="wikilink">KAREN</a>)、M3パーカッション：フルサワヒロカズ(<a href="https://ja.wikipedia.org/wiki/mudy_on_the_昨晩" title="wikilink">mudy on the 昨晩</a>)、M5コーラス：村田シゲ(<a href="../Page/□□□.md" title="wikilink">□□□</a>,<a href="https://ja.wikipedia.org/wiki/CUBISMO_GRAFICO_FIVE" title="wikilink">CUBISMO GRAFICO FIVE</a>)、M6キーボード：山中美里、堀一也(<a href="https://ja.wikipedia.org/wiki/kacica" title="wikilink">kacica</a>)、M6ベース：向井真吾(<a href="https://ja.wikipedia.org/wiki/WEIRD" title="wikilink">WEIRD</a>) ]　</p></td>
 <td><p>オリコン最高86位</p></td>
 </tr>
 <tr class="even">
@@ -515,7 +515,7 @@ CD盤とLP盤の二種があり、それぞれジャケットが異なる。</p>
 </tr>
 <tr class="odd">
 <td><p>2010年10月6日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ACO" title="wikilink">ACO</a> / devil's hands</p></td>
+<td><p><a href="../Page/ACO.md" title="wikilink">ACO</a> / devil's hands</p></td>
 <td><p>DDCB-12030</p></td>
 <td><p>岩城のみ。一部の曲のドラム演奏で参加</p></td>
 </tr>
@@ -620,20 +620,20 @@ CD盤とLP盤の二種があり、それぞれジャケットが異なる。</p>
 
 ## 主な出演イベント
 
-  - 2005年05月22日 - [RUSH BALL](https://ja.wikipedia.org/wiki/RUSH_BALL "wikilink")★7
+  - 2005年05月22日 - [RUSH BALL](../Page/RUSH_BALL.md "wikilink")★7
   - 2006年03月03日 - スペースシャワー列伝 第60巻 ～蛇崩(じゃくずれ)の宴～
   - 2006年08月05日 - [ROCK IN JAPAN FESTIVAL](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink") 2006
   - 2006年08月06日 - [八食サマーフリーライブ](https://ja.wikipedia.org/wiki/八食サマーフリーライブ "wikilink") 2006
   - 2006年08月27日 - RUSH BALL 2006
   - 2006年09月24日 - 924
-  - 2006年10月28日 - [VOLA & THE ORIENTAL MACHINE](https://ja.wikipedia.org/wiki/VOLA_&_THE_ORIENTAL_MACHINE "wikilink") "LIKE A HOUSE-MANNEQUIN" TOUR
-  - 2006年12月29日 - [COUNTDOWN JAPAN](https://ja.wikipedia.org/wiki/COUNTDOWN_JAPAN "wikilink") 06/07
+  - 2006年10月28日 - [VOLA & THE ORIENTAL MACHINE](../Page/VOLA_&_THE_ORIENTAL_MACHINE.md "wikilink") "LIKE A HOUSE-MANNEQUIN" TOUR
+  - 2006年12月29日 - [COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 06/07
   - 2007年08月05日 - 八食サマーフリーライブ 2007
   - 2007年12月30日 - COUNTDOWN JAPAN 07/08
-  - 2008年05月13日 - [KING BROTHERS](https://ja.wikipedia.org/wiki/KING_BROTHERS "wikilink") presents... 『kill your idol』 King Brothers vs 54-71 vs lostage
+  - 2008年05月13日 - [KING BROTHERS](../Page/KING_BROTHERS.md "wikilink") presents... 『kill your idol』 King Brothers vs 54-71 vs lostage
   - 2008年08月30日 - RUSH BALL 2008
   - 2008年10月31日 - MINAMI WHEEL 2008
-  - 2010年03月21日 - [HOLSTEIN](https://ja.wikipedia.org/wiki/HOLSTEIN "wikilink") "farewell to our memories"
+  - 2010年03月21日 - [HOLSTEIN](../Page/HOLSTEIN.md "wikilink") "farewell to our memories"
   - 2010年05月05日 - 心響(HIBIKI) sound museum vol.1
   - 2010年05月22日 - STREET STYLE MUSIC 奈良 '10
   - 2010年07月01日 - [Ken Yokoyama](https://ja.wikipedia.org/wiki/Ken_Yokoyama "wikilink") The Rags To Riches Ⅲ tour
@@ -646,11 +646,11 @@ CD盤とLP盤の二種があり、それぞれジャケットが異なる。</p>
   - 2012年03月18日 - MUSIC CUBE 12
   - 2012年03月20日 - SANUKI ROCK COLOSSEUM～BUSTA CUP 3rd round～
   - 2012年03月31日 - C/L/N supported by [mudy on the 昨晩](https://ja.wikipedia.org/wiki/mudy_on_the_昨晩 "wikilink")
-  - 2012年06月09日・16日・23日・30日・07月01日・08日 - [ASPARAGUS](https://ja.wikipedia.org/wiki/ASPARAGUS "wikilink") presents BKTS TOUR 2012
+  - 2012年06月09日・16日・23日・30日・07月01日・08日 - [ASPARAGUS](../Page/ASPARAGUS.md "wikilink") presents BKTS TOUR 2012
   - 2012年07月29日 - [FUJI ROCK FESTIVAL](https://ja.wikipedia.org/wiki/FUJI_ROCK_FESTIVAL "wikilink") '12
   - 2012年08月08日 - [8otto](../Page/8otto.md "wikilink")"One or Eight" 2012
   - 2012年09月08日 - BAYCAMP 2012
-  - 2012年09月22日・23日 - [ART-SCHOOL](https://ja.wikipedia.org/wiki/ART-SCHOOL "wikilink")「BABY ACID BABY」TOUR 2012
+  - 2012年09月22日・23日 - [ART-SCHOOL](../Page/ART-SCHOOL.md "wikilink")「BABY ACID BABY」TOUR 2012
   - 2012年11月03日 - [te'](https://ja.wikipedia.org/wiki/te' "wikilink")『陋劣の残滓を啜り聖を排出する正義という呪縛。狂躁する資本主義の末期衝動。 罪は通奏低音の如く聖に平衡し、赫奕たる旋律を奏でる。』
   - 2012年11月09日 - caroline rocks "final despair"Release tour
   - 2012年12月15日 - [cinema staff](https://ja.wikipedia.org/wiki/cinema_staff "wikilink") presents"LOSTAGE VS ROUTE21″
@@ -664,7 +664,7 @@ CD盤とLP盤の二種があり、それぞれジャケットが異なる。</p>
   - 2013年05月22日 - デズモンド・アンド・ザ・チュチュス JAPAN TOUR 2013 TONE FLAKES Vol.45
   - 2013年05月24日 - [THE NOVEMBERS](https://ja.wikipedia.org/wiki/THE_NOVEMBERS "wikilink") "GIFT" and "Fourth wall" Release Tour "I'll Be Your Mirror"
   - 2013年05月25日 - 下北沢サウンドクルージング
-  - 2013年05月28日 - [BRAHMAN](https://ja.wikipedia.org/wiki/BRAHMAN "wikilink") Tour 相克
+  - 2013年05月28日 - [BRAHMAN](../Page/BRAHMAN.md "wikilink") Tour 相克
   - 2013年06月21日 - 霖'13 ～tsuyu-to-you～
   - 2013年07月12日・10月18日・11月04日 - [Crypt City](https://ja.wikipedia.org/wiki/Crypt_City "wikilink") 2nd ALBUM\[Defect\]release TOUR
   - 2013年09月01日 - RUSH BALL 2013
@@ -673,7 +673,7 @@ CD盤とLP盤の二種があり、それぞれジャケットが異なる。</p>
   - 2014年05月24日 - Rainbow's End 2014
   - 2014年06月15日 - DUM-DUM PARTY2014
   - 2014年07月04日 - LOSTAGE×KING BROTHERS「SOUL CRAZE TOUR」
-  - 2014年07月12日 - [ASIAN KUNG-FU GENERATION presents NANO-MUGEN FES.](https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION_presents_NANO-MUGEN_FES. "wikilink")2014
+  - 2014年07月12日 - [ASIAN KUNG-FU GENERATION presents NANO-MUGEN FES.](../Page/ASIAN_KUNG-FU_GENERATION_presents_NANO-MUGEN_FES..md "wikilink")2014
   - 2014年07月19日 - KESEN ROCK FESTIVAL'14
   - 2014年08月10日 - SAY HELLO FESTIVAL 2014
   - 2014年11月25日 - スペースシャワー列伝 100巻記念公演 第122巻 洒落の宴
@@ -695,7 +695,7 @@ CD盤とLP盤の二種があり、それぞれジャケットが異なる。</p>
 
 ## 五味アイコン
 
-2010年1月ごろからボーカル五味岳久が描くアイコン用似顔絵イラストが[Twitter](../Page/Twitter.md "wikilink")上の交流をきっかけに広まり、イラスト展の開催やイラストレーター業を手掛けるまでの評判となる。イラスト展「\#oshare」の初開催は2010年8月大阪[digmeout](https://ja.wikipedia.org/wiki/digmeout "wikilink")。東京[SPACE SHOWER TV THE DINER](https://ja.wikipedia.org/wiki/SPACE_SHOWER_TV_THE_DINER "wikilink")、仙台[タワーレコード](../Page/タワーレコード.md "wikilink")などのほか、東京、名古屋、福岡、広島など各都市の[パルコ](https://ja.wikipedia.org/wiki/パルコ "wikilink")での巡業も行われた。2011年9月23日にアイコン用似顔絵イラスト集「五味アイコンブック \#oshare in DICTIONARY」\[8\]を出版。2011年11月13日に個人のWEBサイト「takahisagomi.com」を開設。12月15日にiPhone用アプリケーション「GOMICON MAKER/ゴミコンメーカー」\[9\]\[10\]を[NANO Media Inc.からリリース](https://ja.wikipedia.org/wiki/ナノ・メディア "wikilink")。
+2010年1月ごろからボーカル五味岳久が描くアイコン用似顔絵イラストが[Twitter](../Page/Twitter.md "wikilink")上の交流をきっかけに広まり、イラスト展の開催やイラストレーター業を手掛けるまでの評判となる。イラスト展「\#oshare」の初開催は2010年8月大阪[digmeout](https://ja.wikipedia.org/wiki/digmeout "wikilink")。東京[SPACE SHOWER TV THE DINER](https://ja.wikipedia.org/wiki/SPACE_SHOWER_TV_THE_DINER "wikilink")、仙台[タワーレコード](../Page/タワーレコード.md "wikilink")などのほか、東京、名古屋、福岡、広島など各都市の[パルコ](../Page/パルコ.md "wikilink")での巡業も行われた。2011年9月23日にアイコン用似顔絵イラスト集「五味アイコンブック \#oshare in DICTIONARY」\[8\]を出版。2011年11月13日に個人のWEBサイト「takahisagomi.com」を開設。12月15日にiPhone用アプリケーション「GOMICON MAKER/ゴミコンメーカー」\[9\]\[10\]を[NANO Media Inc.からリリース](../Page/ナノ・メディア.md "wikilink")。
 
 ## THROAT RECORDS
 

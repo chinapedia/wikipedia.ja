@@ -1,7 +1,7 @@
 > この記事は[JavaOS](https://ja.wikipedia.org/wiki/JavaOS)から翻訳されています。
 
 
-**JavaOS**（ジャバOS）は基礎コンポーネントとして[Java仮想マシン](../Page/Java仮想マシン.md "wikilink")を搭載した[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")である。[サン・マイクロシステム](https://ja.wikipedia.org/wiki/サン・マイクロシステム "wikilink")によって開発されている。[Unix](https://ja.wikipedia.org/wiki/Unix "wikilink")や[Unixライクなシステムが主に](https://ja.wikipedia.org/wiki/Unix系 "wikilink")[C言語](../Page/C言語.md "wikilink")で書かれていることに対し、JavaOSは[Java](https://ja.wikipedia.org/wiki/Java "wikilink")で書かれている。
+**JavaOS**（ジャバOS）は基礎コンポーネントとして[Java仮想マシン](../Page/Java仮想マシン.md "wikilink")を搭載した[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")である。[サン・マイクロシステム](https://ja.wikipedia.org/wiki/サン・マイクロシステム "wikilink")によって開発されている。[Unix](https://ja.wikipedia.org/wiki/Unix "wikilink")や[Unixライクなシステムが主に](../Page/Unix系.md "wikilink")[C言語](../Page/C言語.md "wikilink")で書かれていることに対し、JavaOSは[Java](https://ja.wikipedia.org/wiki/Java "wikilink")で書かれている。
 
 2006年現在、サンはJavaOSを[レガシーシステム](https://ja.wikipedia.org/wiki/レガシーシステム "wikilink")と見なしている（[未来の節を参照](https://ja.wikipedia.org/wiki/#未来 "wikilink")）。
 
@@ -11,11 +11,11 @@
 
 以下が、カーネルを実行できるプラットフォームである。
 
-  - [ARM](https://ja.wikipedia.org/wiki/ARMアーキテクチャ "wikilink")
+  - [ARM](../Page/ARMアーキテクチャ.md "wikilink")
   - [PowerPC](../Page/PowerPC.md "wikilink")
   - [RISC](../Page/RISC.md "wikilink")
   - [SPARC](../Page/SPARC.md "wikilink")
-  - [StrongARM](https://ja.wikipedia.org/wiki/StrongARM "wikilink")
+  - [StrongARM](../Page/StrongARM.md "wikilink")
   - [x86](https://ja.wikipedia.org/wiki/x86 "wikilink")
 
 ## 仮想マシン
@@ -28,11 +28,11 @@ Java仮想マシンはマイクロカーネルの上で走る。
 
 ## ウィンドウシステム
 
-[AWT](https://ja.wikipedia.org/wiki/Abstract_Windowing_Toolkit "wikilink") [APIを実装している](../Page/アプリケーションプログラミングインタフェース.md "wikilink")[グラフィックスと](../Page/コンピュータグラフィックス.md "wikilink")[ウィンドウシステム](https://ja.wikipedia.org/wiki/ウィンドウシステム "wikilink")もまたJavaで書かれている。
+[AWT](https://ja.wikipedia.org/wiki/Abstract_Windowing_Toolkit "wikilink") [APIを実装している](../Page/アプリケーションプログラミングインタフェース.md "wikilink")[グラフィックスと](../Page/コンピュータグラフィックス.md "wikilink")[ウィンドウシステム](../Page/ウィンドウシステム.md "wikilink")もまたJavaで書かれている。
 
 ## 応用
 
-JavaOSは[組み込みシステム](../Page/組み込みシステム.md "wikilink")の上で実行し、[セットトップボックス](https://ja.wikipedia.org/wiki/セットトップボックス "wikilink")、[ネットワーキング基盤](https://ja.wikipedia.org/wiki/コンピュータネットワーク "wikilink")、[ATMのような機器での応用を意図して設計されていた](../Page/現金自動預け払い機.md "wikilink")。また、[JavaStation](https://ja.wikipedia.org/wiki/JavaStation "wikilink")に搭載されているオペレーティングシステムでもあった。
+JavaOSは[組み込みシステム](../Page/組み込みシステム.md "wikilink")の上で実行し、[セットトップボックス](../Page/セットトップボックス.md "wikilink")、[ネットワーキング基盤](../Page/コンピュータネットワーク.md "wikilink")、[ATMのような機器での応用を意図して設計されていた](../Page/現金自動預け払い機.md "wikilink")。また、[JavaStation](https://ja.wikipedia.org/wiki/JavaStation "wikilink")に搭載されているオペレーティングシステムでもあった。
 
 ## 未来
 

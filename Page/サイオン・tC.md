@@ -1,19 +1,19 @@
 > この記事は[tC](https://ja.wikipedia.org/wiki/tC)から翻訳されています。
 
 
-[The_Rockstar_Energy_Drink_Scion_tC_brushes_the_wall_in_FD_competition.jpeg](https://ja.wikipedia.org/wiki/File:The_Rockstar_Energy_Drink_Scion_tC_brushes_the_wall_in_FD_competition.jpeg "fig:The_Rockstar_Energy_Drink_Scion_tC_brushes_the_wall_in_FD_competition.jpeg")に参戦するtC（2015年）\]\] **サイオン・tC**は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")がかつて北米で若年層（[ジェネレーションY](https://ja.wikipedia.org/wiki/ジェネレーションY "wikilink")）をターゲットとして展開していたブランド「[サイオン](https://ja.wikipedia.org/wiki/サイオン "wikilink")（SCION）」にて販売していた[クーペ](../Page/クーペ.md "wikilink")である。
+[The_Rockstar_Energy_Drink_Scion_tC_brushes_the_wall_in_FD_competition.jpeg](https://ja.wikipedia.org/wiki/File:The_Rockstar_Energy_Drink_Scion_tC_brushes_the_wall_in_FD_competition.jpeg "fig:The_Rockstar_Energy_Drink_Scion_tC_brushes_the_wall_in_FD_competition.jpeg")に参戦するtC（2015年）\]\] **サイオン・tC**は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")がかつて北米で若年層（[ジェネレーションY](../Page/ジェネレーションY.md "wikilink")）をターゲットとして展開していたブランド「[サイオン](../Page/サイオン.md "wikilink")（SCION）」にて販売していた[クーペ](../Page/クーペ.md "wikilink")である。
 
 ## 概要
 
-サイオンブランドとしては初の専用モデルで、北米ではトヨタブランドの「[セリカ](https://ja.wikipedia.org/wiki/トヨタ・セリカ "wikilink")」の事実上の後継車という扱いである。生産工場は、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[豊田市](https://ja.wikipedia.org/wiki/豊田市 "wikilink")にあるトヨタ自動車の堤工場が担当していた。
+サイオンブランドとしては初の専用モデルで、北米ではトヨタブランドの「[セリカ](../Page/トヨタ・セリカ.md "wikilink")」の事実上の後継車という扱いである。生産工場は、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[豊田市](https://ja.wikipedia.org/wiki/豊田市 "wikilink")にあるトヨタ自動車の堤工場が担当していた。
 
 ## 初代（2004-2010年）
 
 サイオンブランドの新規車種として2004年の[デトロイトショーで発表され](../Page/北米国際オートショー.md "wikilink")、同年6月にカナダ及びアメリカ合衆国（準州等の海外領土を含む）地域で、販売を開始した。ANT10型は、「サイオン」ブランドの専用販売車で、「トヨタ」等、他のブランドや北米地域以外での国や地域への販売は行われなかった。
 
-[プラットフォームは](https://ja.wikipedia.org/wiki/プラットフォーム_\(自動車\) "wikilink")、[カルディナ](https://ja.wikipedia.org/wiki/トヨタ・カルディナ "wikilink")（T240系…[同型のシャシーは](https://ja.wikipedia.org/wiki/トヨタ・MCプラットフォーム "wikilink")「[アベンシス](https://ja.wikipedia.org/wiki/トヨタ・アベンシス "wikilink")」の2代目モデルも採用する）と共有し、tc用に補強と改良が新たに加えられている。また、エンジンは[カムリと同じ](https://ja.wikipedia.org/wiki/トヨタ・カムリ "wikilink")2.4Lの[2AZ-FE型を搭載し](https://ja.wikipedia.org/wiki/トヨタ・AZエンジン "wikilink")、5速マニュアルトランスミッションを搭載している。
+[プラットフォームは](../Page/プラットフォーム_\(自動車\).md "wikilink")、[カルディナ](../Page/トヨタ・カルディナ.md "wikilink")（T240系…[同型のシャシーは](https://ja.wikipedia.org/wiki/トヨタ・MCプラットフォーム "wikilink")「[アベンシス](https://ja.wikipedia.org/wiki/トヨタ・アベンシス "wikilink")」の2代目モデルも採用する）と共有し、tc用に補強と改良が新たに加えられている。また、エンジンは[カムリと同じ](https://ja.wikipedia.org/wiki/トヨタ・カムリ "wikilink")2.4Lの[2AZ-FE型を搭載し](../Page/トヨタ・AZエンジン.md "wikilink")、5速マニュアルトランスミッションを搭載している。
 
-[クルーズコントロール](../Page/クルーズコントロール.md "wikilink")、17インチタイヤ＋アルミホイール、[ABS](https://ja.wikipedia.org/wiki/アンチロック・ブレーキ・システム "wikilink")、[イモビライザー](https://ja.wikipedia.org/wiki/イモビライザー "wikilink")を標準装備し、2万ドル（2009年モデルのMT車では$17,670）を切る低価格を売りにしている。
+[クルーズコントロール](../Page/クルーズコントロール.md "wikilink")、17インチタイヤ＋アルミホイール、[ABS](../Page/アンチロック・ブレーキ・システム.md "wikilink")、[イモビライザー](../Page/イモビライザー.md "wikilink")を標準装備し、2万ドル（2009年モデルのMT車では$17,670）を切る低価格を売りにしている。
 
 またトヨタワークスの[TRD](https://ja.wikipedia.org/wiki/トヨタテクノクラフト "wikilink")（TRD-USA）からは、「tc」専用のサスペンションパーツや[スーパーチャージャー](../Page/スーパーチャージャー.md "wikilink")など、チューニングパーツが数多くリリースされており、これら以外にも社外品カスタムパーツが数多くリリースされており、カスタムカー需要も高い。
 
@@ -63,9 +63,9 @@
 
 2010年の[ニューヨークモーターショー](https://ja.wikipedia.org/wiki/ニューヨークモーターショー "wikilink")にて、[ワールドプレミア](https://ja.wikipedia.org/wiki/ワールドプレミア "wikilink")が行われた。エクステリアデザインは、「[ヘルメット](../Page/ヘルメット.md "wikilink")」がそのヒントとなっており、2006年に公開されたコンセプトカー「FUSE」の影響を強く受けている。その結果、流線型の先代から一転してスクエアな形状へ変化した。
 
-パワートレーンと[プラットフォームは新規開発となっており](https://ja.wikipedia.org/wiki/トヨタ・MCプラットフォーム "wikilink")、エンジンにはデュアル[VVT-i](https://ja.wikipedia.org/wiki/VVT-i "wikilink")を搭載して新型の[インテークマニホールド](https://ja.wikipedia.org/wiki/インテークマニホールド "wikilink")とスポーツエグゾーストを装備し、最大出力は180PSで最大トルクは23.9kgf·mを発生する新世代のトヨタAR型（[2AR-FE](https://ja.wikipedia.org/wiki/トヨタ・ARエンジン "wikilink")）2.5L直列4気筒を採用した。また、トランスミッションは新設計の6速[ATと](../Page/オートマチックトランスミッション.md "wikilink")6速[MTを組み合わせる](https://ja.wikipedia.org/wiki/マニュアルトランスミッション "wikilink")。さらに、アルミホイールは先代より1インチ大きい18インチを採用する。
+パワートレーンと[プラットフォームは新規開発となっており](https://ja.wikipedia.org/wiki/トヨタ・MCプラットフォーム "wikilink")、エンジンにはデュアル[VVT-i](../Page/VVT-i.md "wikilink")を搭載して新型の[インテークマニホールド](../Page/インテークマニホールド.md "wikilink")とスポーツエグゾーストを装備し、最大出力は180PSで最大トルクは23.9kgf·mを発生する新世代のトヨタAR型（[2AR-FE](https://ja.wikipedia.org/wiki/トヨタ・ARエンジン "wikilink")）2.5L直列4気筒を採用した。また、トランスミッションは新設計の6速[ATと](../Page/オートマチックトランスミッション.md "wikilink")6速[MTを組み合わせる](../Page/マニュアルトランスミッション.md "wikilink")。さらに、アルミホイールは先代より1インチ大きい18インチを採用する。
 
-インテリアでは、下方が、平らに成型された[ステアリング・ホイール](https://ja.wikipedia.org/wiki/ステアリング・ホイール "wikilink")やスポーツシートを搭載。また、後部座席には6対4式分割可倒式のシートが搭載されている。他にも8個の[エアバッグ](https://ja.wikipedia.org/wiki/エアバッグ "wikilink")や[VSC](https://ja.wikipedia.org/wiki/VSC "wikilink")、[トラクションコントロール](https://ja.wikipedia.org/wiki/トラクションコントロール "wikilink")や、先代同様に[サンルーフ](https://ja.wikipedia.org/wiki/サンルーフ "wikilink")なども標準装備している\[4\]。中国や中東ではトヨタ・ゼラスとして発売された。
+インテリアでは、下方が、平らに成型された[ステアリング・ホイール](https://ja.wikipedia.org/wiki/ステアリング・ホイール "wikilink")やスポーツシートを搭載。また、後部座席には6対4式分割可倒式のシートが搭載されている。他にも8個の[エアバッグ](../Page/エアバッグ.md "wikilink")や[VSC](https://ja.wikipedia.org/wiki/VSC "wikilink")、[トラクションコントロール](https://ja.wikipedia.org/wiki/トラクションコントロール "wikilink")や、先代同様に[サンルーフ](../Page/サンルーフ.md "wikilink")なども標準装備している\[4\]。中国や中東ではトヨタ・ゼラスとして発売された。
 
 ファイル:Toyota Zelas 2.5 2011.jpg|中国・UAE名の[トヨタ](https://ja.wikipedia.org/wiki/トヨタ "wikilink")・[ゼラス](https://ja.wikipedia.org/wiki/トヨタ・ゼラス "wikilink")
 
@@ -73,15 +73,15 @@
 
   - 2014年8月より堤工場から高岡工場へ生産を移管した。
   - 2016年2月、同年8月末を持ってサイオンブランドが廃止されるのと同時に本車の北米向けの販売終了(他のサイオンブランド車と違い、トヨタブランドへの移行もない)が予告された。
-  - 2016年9月、販売終了。既存の[FR](https://ja.wikipedia.org/wiki/後輪駆動 "wikilink")[スポーツクーペである](../Page/スポーツカー.md "wikilink")[86が間接上の代替車種となる](https://ja.wikipedia.org/wiki/トヨタ・86 "wikilink")。ただし、中国向けのゼラスについてはこれまで通り継続生産・販売される。
-  - 2017年12月、中国向けのゼラスが販売終了。既存の11代目[カローラセダン](https://ja.wikipedia.org/wiki/トヨタ・カローラ "wikilink")（E170型）の同型車種である初代[レビン](https://ja.wikipedia.org/wiki/トヨタ・カローラ "wikilink")（E170L型）が間接上の代替車種となる。
+  - 2016年9月、販売終了。既存の[FR](../Page/後輪駆動.md "wikilink")[スポーツクーペである](../Page/スポーツカー.md "wikilink")[86が間接上の代替車種となる](https://ja.wikipedia.org/wiki/トヨタ・86 "wikilink")。ただし、中国向けのゼラスについてはこれまで通り継続生産・販売される。
+  - 2017年12月、中国向けのゼラスが販売終了。既存の11代目[カローラセダン](../Page/トヨタ・カローラ.md "wikilink")（E170型）の同型車種である初代[レビン](../Page/トヨタ・カローラ.md "wikilink")（E170L型）が間接上の代替車種となる。
 
 ## 脚注
 
 ## 関連項目
 
-  - [サイオン](https://ja.wikipedia.org/wiki/サイオン "wikilink")
-  - [トヨタ・セリカ](https://ja.wikipedia.org/wiki/トヨタ・セリカ "wikilink")
+  - [サイオン](../Page/サイオン.md "wikilink")
+  - [トヨタ・セリカ](../Page/トヨタ・セリカ.md "wikilink")
 
 ## 外部リンク
 

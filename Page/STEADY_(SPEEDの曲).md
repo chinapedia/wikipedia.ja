@@ -6,15 +6,15 @@
 ## 解説
 
   - SPEED初の[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")シングル（オリコン及び出荷枚数で）。
-  - 累計売上は150万枚\[1\]。[オリコン集計での累計売上は](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")127.9万枚。
+  - 累計売上は150万枚\[1\]。[オリコン集計での累計売上は](../Page/オリコンチャート.md "wikilink")127.9万枚。
 
 ## 収録曲
 
 1.  **STEADY**
       -
         作詞・作曲：伊秩弘将
-        [テレビ朝日系](https://ja.wikipedia.org/wiki/テレビ朝日系 "wikilink")[ドラマ](../Page/ドラマ.md "wikilink")「[イタズラなKiss](https://ja.wikipedia.org/wiki/イタズラなKiss "wikilink")」[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")に起用された。
-        [PV撮影は](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")、SPEEDにしては珍しく非[ロケ](https://ja.wikipedia.org/wiki/ロケーション撮影 "wikilink")[撮影](https://ja.wikipedia.org/wiki/撮影 "wikilink")だった。また音楽番組向けのPVも存在する。内容としては[セピア調](https://ja.wikipedia.org/wiki/セピア調 "wikilink")の色合いであり海沿いの建物で歌うというものであった。
+        [テレビ朝日系](https://ja.wikipedia.org/wiki/テレビ朝日系 "wikilink")[ドラマ](../Page/ドラマ.md "wikilink")「[イタズラなKiss](https://ja.wikipedia.org/wiki/イタズラなKiss "wikilink")」[主題歌](../Page/主題歌.md "wikilink")に起用された。
+        [PV撮影は](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")、SPEEDにしては珍しく非[ロケ](https://ja.wikipedia.org/wiki/ロケーション撮影 "wikilink")[撮影](../Page/撮影.md "wikilink")だった。また音楽番組向けのPVも存在する。内容としては[セピア調](../Page/セピア調.md "wikilink")の色合いであり海沿いの建物で歌うというものであった。
         第5回の[ミュージックステーションスーパーライブ](../Page/ミュージックステーションスーパーライブ.md "wikilink")では、SPEEDがトップとしてこの曲を披露した。
         2008年の3度目の再結成、完全復活後、初のシングル「[あしたの空](https://ja.wikipedia.org/wiki/あしたの空 "wikilink")」の3曲目に「White Love～STEADY～Body & Soul 2008」として[メドレー](../Page/メドレー.md "wikilink")で収録された。
 2.  **HAPPY TOGETHER**
@@ -27,21 +27,21 @@
 
 <!-- end list -->
 
-  - [Starting Over](https://ja.wikipedia.org/wiki/Starting_Over_\(SPEEDのアルバム\) "wikilink")（両曲）
+  - [Starting Over](../Page/Starting_Over_\(SPEEDのアルバム\).md "wikilink")（両曲）
   - [MOMENT](../Page/MOMENT_\(SPEEDのアルバム\).md "wikilink")（\#1）
   - [SPEED THE MEMORIAL BEST 1335days Dear Friends 1](https://ja.wikipedia.org/wiki/SPEED_THE_MEMORIAL_BEST_1335days_Dear_Friends#SPEED_THE_MEMORIAL_BEST_1335days_Dear_Friends_1 "wikilink")（両曲、\#1はAtlanta Mix）
   - [SPEEDLAND -The Premium Best Re Tracks-](https://ja.wikipedia.org/wiki/SPEEDLAND_-The_Premium_Best_Re_Tracks- "wikilink")（\#1、Re Track）
   - [SPEED MEMORIAL LIVE “One More Dream” + Remix\!\!\!](https://ja.wikipedia.org/wiki/SPEED_MEMORIAL_LIVE_“One_More_Dream”_+_Remix!!! "wikilink")（\#1、ライブ音源及びZa downtown smoove mix）
-  - [BEST HITS LIVE〜Save The Children SPEED LIVE 2003〜](https://ja.wikipedia.org/wiki/BEST_HITS_LIVE〜Save_The_Children_SPEED_LIVE_2003〜 "wikilink")（\#1、ライブ音源）
+  - [BEST HITS LIVE〜Save The Children SPEED LIVE 2003〜](../Page/BEST_HITS_LIVE〜Save_The_Children_SPEED_LIVE_2003〜.md "wikilink")（\#1、ライブ音源）
 
 <!-- end list -->
 
-  - [PV集](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")
+  - [PV集](../Page/ミュージック・ビデオ.md "wikilink")
 
 <!-- end list -->
 
   - [SPEED VIDEO CLIPS「SPEED SPIRITS I」](https://ja.wikipedia.org/wiki/SPEED_VIDEO_CLIPS「SPEED_SPIRITS_I」 "wikilink")[VHS](../Page/VHS.md "wikilink")、[DVD](../Page/DVD.md "wikilink")（\#1）
-  - [SPEED VIDEO CLIPS「SPEED SPIRITS COMPLETE」DVD](https://ja.wikipedia.org/wiki/SPEED_VIDEO_CLIPS「SPEED_SPIRITS_COMPLETE」 "wikilink")（\#1）
+  - [SPEED VIDEO CLIPS「SPEED SPIRITS COMPLETE」DVD](../Page/SPEED_VIDEO_CLIPS「SPEED_SPIRITS_COMPLETE」.md "wikilink")（\#1）
   - [BIBLE -SPEED BEST CLIPS-DVD](https://ja.wikipedia.org/wiki/BIBLE_-SPEED_BEST_CLIPS- "wikilink")（\#1）
 
 <!-- end list -->
@@ -50,9 +50,9 @@
 
 <!-- end list -->
 
-  - [Hits on TV](https://ja.wikipedia.org/wiki/Hits_on_TV "wikilink")（\#1）
+  - [Hits on TV](../Page/Hits_on_TV.md "wikilink")（\#1）
   - I LOVE 30\~My Melody\~（\#1）
-  - [Lovely\! Pop\&Cute Dance Trax](https://ja.wikipedia.org/wiki/Lovely!_Pop&Cute_Dance_Trax "wikilink")（\#1）
+  - [Lovely\! Pop\&Cute Dance Trax](../Page/Lovely!_Pop&Cute_Dance_Trax.md "wikilink")（\#1）
 
 ## 脚注
 

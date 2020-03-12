@@ -1,22 +1,22 @@
 > この記事は[RSAA \(\)](https://ja.wikipedia.org/wiki/RSAA_\(\))から翻訳されています。
 
 
-**RSAA**（あーるえすえーえー、Runs Saved Above Average）とは、[野球](../Page/野球.md "wikilink")において、特定の[投手](../Page/投手.md "wikilink")が登板時に平均的な投手に比べてどの程度[失点](https://ja.wikipedia.org/wiki/失点 "wikilink")を防いでいるかを示す[指標](https://ja.wikipedia.org/wiki/指標 "wikilink")である。
+**RSAA**（あーるえすえーえー、Runs Saved Above Average）とは、[野球](../Page/野球.md "wikilink")において、特定の[投手](../Page/投手.md "wikilink")が登板時に平均的な投手に比べてどの程度[失点](../Page/失点.md "wikilink")を防いでいるかを示す[指標](https://ja.wikipedia.org/wiki/指標 "wikilink")である。
 
 算出方法
 
-  - RSAA=(リーグ平均[失点率](https://ja.wikipedia.org/wiki/失点率 "wikilink")-失点率)×投球[イニング](https://ja.wikipedia.org/wiki/イニング "wikilink")÷9
+  - RSAA=(リーグ平均[失点率](https://ja.wikipedia.org/wiki/失点率 "wikilink")-失点率)×投球[イニング](../Page/イニング.md "wikilink")÷9
 
 ## 概要
 
 RSAAがプラスなら平均よりRSAAの数値だけ失点を防いでおり、逆にマイナスなら平均よりもRSAAの数値だけ多く失点していることになる。投球回が多いほど絶対値が大きくなるため、**長いイニングを投げる事についても評価される**指標である。注意点として、失点は味方の守備力や球場の影響を受けるため失点率をベースとするRSAAは投手の純粋な能力を表す指標ではない。あくまで投球結果を評価する指標である。また、失点率を防御率に置き換えた指標をPitching Runと呼ぶ。
 
-| 選手 (球団)                                                                                                           | リーグ失点率 | 失点率    | 投球回      | RSAA     |
-| ----------------------------------------------------------------------------------------------------------------- | ------ | ------ | -------- | -------- |
-| [新垣渚](https://ja.wikipedia.org/wiki/新垣渚 "wikilink") ([ダイエー](https://ja.wikipedia.org/wiki/福岡ダイエーホークス "wikilink")) | 5.14   | 3.51   | 192.1回   | **34.8** |
-| [岩隈久志](https://ja.wikipedia.org/wiki/岩隈久志 "wikilink") ([近鉄](../Page/大阪近鉄バファローズ.md "wikilink"))                    | 3.23   | 158.2回 | **33.6** |          |
-| [松坂大輔](https://ja.wikipedia.org/wiki/松坂大輔 "wikilink") ([西武](https://ja.wikipedia.org/wiki/西武ライオンズ "wikilink"))    | 3.08   | 146.0回 | **33.4** |          |
-|                                                                                                                   |        |        |          |          |
+| 選手 (球団)                                                                                                        | リーグ失点率 | 失点率    | 投球回      | RSAA     |
+| -------------------------------------------------------------------------------------------------------------- | ------ | ------ | -------- | -------- |
+| [新垣渚](../Page/新垣渚.md "wikilink") ([ダイエー](https://ja.wikipedia.org/wiki/福岡ダイエーホークス "wikilink"))                 | 5.14   | 3.51   | 192.1回   | **34.8** |
+| [岩隈久志](https://ja.wikipedia.org/wiki/岩隈久志 "wikilink") ([近鉄](../Page/大阪近鉄バファローズ.md "wikilink"))                 | 3.23   | 158.2回 | **33.6** |          |
+| [松坂大輔](https://ja.wikipedia.org/wiki/松坂大輔 "wikilink") ([西武](https://ja.wikipedia.org/wiki/西武ライオンズ "wikilink")) | 3.08   | 146.0回 | **33.4** |          |
+|                                                                                                                |        |        |          |          |
 
 2004年パ・リーグのRSAA
 
@@ -32,7 +32,7 @@ RSAAがプラスなら平均よりRSAAの数値だけ失点を防いでおり、
 
 | 選手(年度・リーグ)                                                        | リーグ失点率 | 失点率  | 投球回    | RSAA     | RSWIN    | リーグRPW |
 | ----------------------------------------------------------------- | ------ | ---- | ------ | -------- | -------- | ------ |
-| [新垣渚](https://ja.wikipedia.org/wiki/新垣渚 "wikilink")(2004年パ・リーグ)   | 5.14   | 3.51 | 192.1回 | **34.8** | **3.26** | 10.69  |
+| [新垣渚](../Page/新垣渚.md "wikilink")(2004年パ・リーグ)                      | 5.14   | 3.51 | 192.1回 | **34.8** | **3.26** | 10.69  |
 | [前田健太](https://ja.wikipedia.org/wiki/前田健太 "wikilink")(2012年セ・リーグ) | 3.22   | 2.01 | 206.1回 | **27.9** | **3.30** | 8.45   |
 |                                                                   |        |      |        |          |          |        |
 
@@ -42,7 +42,7 @@ RSAAとRSWINの例
 
 ## 関連項目
 
-  - [セイバーメトリクス](https://ja.wikipedia.org/wiki/セイバーメトリクス "wikilink")
-  - [野球の各種記録](https://ja.wikipedia.org/wiki/野球の各種記録 "wikilink")
+  - [セイバーメトリクス](../Page/セイバーメトリクス.md "wikilink")
+  - [野球の各種記録](../Page/野球の各種記録.md "wikilink")
 
 [Category:セイバーメトリクス](https://ja.wikipedia.org/wiki/Category:セイバーメトリクス "wikilink") [Category:ピッチング](https://ja.wikipedia.org/wiki/Category:ピッチング "wikilink")

@@ -5,27 +5,27 @@
 
 ## 来歴
 
-[1982年](../Page/1982年.md "wikilink")、[兵庫県](../Page/兵庫県.md "wikilink")[尼崎市](../Page/尼崎市.md "wikilink")にて中学校同級生の[YOSU-KO](https://ja.wikipedia.org/wiki/YOSU-KO "wikilink")（ボーカル）と[NAOKI](https://ja.wikipedia.org/wiki/宮本直樹 "wikilink")（ギター）らで結成。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")、[徳間ジャパン](https://ja.wikipedia.org/wiki/徳間ジャパン "wikilink")よりメジャーデビューしたが同年に活動を停止。
+[1982年](../Page/1982年.md "wikilink")、[兵庫県](../Page/兵庫県.md "wikilink")[尼崎市](../Page/尼崎市.md "wikilink")にて中学校同級生の[YOSU-KO](https://ja.wikipedia.org/wiki/YOSU-KO "wikilink")（ボーカル）と[NAOKI](../Page/宮本直樹.md "wikilink")（ギター）らで結成。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")、[徳間ジャパン](https://ja.wikipedia.org/wiki/徳間ジャパン "wikilink")よりメジャーデビューしたが同年に活動を停止。
 
-[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に新メンバーを迎え[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")よりメジャー再デビューを果たしたが、[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")に解散。
+[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に新メンバーを迎え[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")よりメジャー再デビューを果たしたが、[1991年](../Page/1991年.md "wikilink")に解散。
 
-[1999年](../Page/1999年.md "wikilink")に再結成、[東芝EMIで活動するも](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に再び活動休止。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")に復活するも、YOSU-KOの体調不良により[2012年](../Page/2012年.md "wikilink")末を以て再度の活動停止。
+[1999年](../Page/1999年.md "wikilink")に再結成、[東芝EMIで活動するも](../Page/EMIミュージック・ジャパン.md "wikilink")[2005年](../Page/2005年.md "wikilink")に再び活動休止。[2007年](../Page/2007年.md "wikilink")に復活するも、YOSU-KOの体調不良により[2012年](../Page/2012年.md "wikilink")末を以て再度の活動停止。
 
-[2015年](../Page/2015年.md "wikilink")に元メンバーであるPON（現[LAUGHIN' NOSE](https://ja.wikipedia.org/wiki/LAUGHIN'_NOSE "wikilink")）を迎え、活動を一時的に再開したが、数度のライブを行った後、[2016年](../Page/2016年.md "wikilink")再び活動を停止。
+[2015年](../Page/2015年.md "wikilink")に元メンバーであるPON（現[LAUGHIN' NOSE](../Page/LAUGHIN'_NOSE.md "wikilink")）を迎え、活動を一時的に再開したが、数度のライブを行った後、[2016年](../Page/2016年.md "wikilink")再び活動を停止。
 
 ## メンバー
 
   - **[YOSU-KO](https://ja.wikipedia.org/wiki/YOSU-KO "wikilink")**（ボーカル）
-  - **LINA**（ギター） concurrency. [LAUGHIN' NOSE](https://ja.wikipedia.org/wiki/LAUGHIN'_NOSE "wikilink")
+  - **LINA**（ギター） concurrency. [LAUGHIN' NOSE](../Page/LAUGHIN'_NOSE.md "wikilink")
   - **KI-YAN**（ドラム）concurrency. [ex.LAUGHIN' NOSE](https://ja.wikipedia.org/wiki/ex.LAUGHIN'_NOSE "wikilink")
-  - **PON**（ベース）from. [LAUGHIN' NOSE](https://ja.wikipedia.org/wiki/LAUGHIN'_NOSE "wikilink")
+  - **PON**（ベース）from. [LAUGHIN' NOSE](../Page/LAUGHIN'_NOSE.md "wikilink")
 
 ## 過去のメンバー
 
 ### 1期（1982年-1984年）
 
   - **YOSU-KO**（ボーカル・ベース）
-  - **[NAOKI](https://ja.wikipedia.org/wiki/宮本直樹 "wikilink")**（ギター）
+  - **[NAOKI](../Page/宮本直樹.md "wikilink")**（ギター）
   - **MI-CHAN**（ドラム）
 
 ### 2期（1984年-1987年）
@@ -39,14 +39,14 @@
 ### 3期（1990年-1991年）
 
   - **YOSU-KO**（ボーカル）
-  - **[NAOKI](https://ja.wikipedia.org/wiki/宮本直樹 "wikilink")**（ギター）
+  - **[NAOKI](../Page/宮本直樹.md "wikilink")**（ギター）
   - **PON**（ベース）
   - **KI-YAN**（ドラム）
 
 ### 4期（1999年-2001年）
 
   - **YOSU-KO**（ボーカル・ベース）
-  - **[NAOKI](https://ja.wikipedia.org/wiki/宮本直樹 "wikilink")**（ギター）2001年脱退
+  - **[NAOKI](../Page/宮本直樹.md "wikilink")**（ギター）2001年脱退
   - **YOSHIRO**（ドラム）（元[SOY SAUCE SONIX](https://ja.wikipedia.org/wiki/SOY_SAUCE_SONIX "wikilink"))2001年脱退
 
 ### 5期（2001年-2005年）
@@ -125,7 +125,7 @@
   - [YOSU-KO](https://ja.wikipedia.org/wiki/YOSU-KO "wikilink")
   - [COW COW](https://ja.wikipedia.org/wiki/COW_COW_\(バンド\) "wikilink")
   - [DOG FIGHT](https://ja.wikipedia.org/wiki/DOG_FIGHT_\(バンド\) "wikilink")
-  - [LAUGHIN' NOSE](https://ja.wikipedia.org/wiki/LAUGHIN'_NOSE "wikilink")
+  - [LAUGHIN' NOSE](../Page/LAUGHIN'_NOSE.md "wikilink")
   - [SA](../Page/SA_\(バンド\).md "wikilink")
   - [オイ\!](https://ja.wikipedia.org/wiki/オイ! "wikilink")
 

@@ -1,7 +1,7 @@
 > この記事は[LIFE \(LITTLE\)](https://ja.wikipedia.org/wiki/LIFE_\(LITTLE\))から翻訳されています。
 
 
-『**LIFE**』（ライフ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヒップホップMC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")、[LITTLE](https://ja.wikipedia.org/wiki/LITTLE "wikilink")のメジャー2枚目の[アルバム](../Page/アルバム.md "wikilink")。発売元は、[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。
+『**LIFE**』（ライフ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヒップホップMC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")、[LITTLE](../Page/LITTLE.md "wikilink")のメジャー2枚目の[アルバム](../Page/アルバム.md "wikilink")。発売元は、[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
 
 ## 概要
 
@@ -18,10 +18,10 @@
         Produced by [DJ FUMIYA](https://ja.wikipedia.org/wiki/DJ_FUMIYA "wikilink")
 3.  '''はつ恋の〜What's Going On〜 feat.[トータス松本](../Page/トータス松本.md "wikilink")
       -
-        Produced by [ROCK-Tee](https://ja.wikipedia.org/wiki/ROCK-Tee "wikilink")
+        Produced by [ROCK-Tee](../Page/ROCK-Tee.md "wikilink")
 4.  '''UNKO SHIT\!
       -
-        Produced by [マボロシ](https://ja.wikipedia.org/wiki/マボロシ "wikilink")
+        Produced by [マボロシ](../Page/マボロシ.md "wikilink")
 5.  '''RAPが好き
       -
         Produced by DJ TATSUTA
@@ -36,8 +36,8 @@
         performed by [姫](https://ja.wikipedia.org/wiki/姫_\(ラッパー\) "wikilink")
 9.  '''愛幻夢恋絵巻
       -
-        Produced by [KOHEI JAPAN](https://ja.wikipedia.org/wiki/KOHEI_JAPAN "wikilink")
-10. '''Youth & Youth feat.[童子-T](https://ja.wikipedia.org/wiki/童子-T "wikilink")
+        Produced by [KOHEI JAPAN](../Page/KOHEI_JAPAN.md "wikilink")
+10. '''Youth & Youth feat.[童子-T](../Page/童子-T.md "wikilink")
       -
         Produced by [DJ CELORY](https://ja.wikipedia.org/wiki/DJ_CELORY "wikilink")
 11. '''HARD硬派 Part2　feat.[ZINGI](../Page/ZINGI.md "wikilink")

@@ -1,9 +1,9 @@
 > この記事は[Crontab](https://ja.wikipedia.org/wiki/Crontab)から翻訳されています。
 
 
-**`crontab`**（**クロンタブ**、あるいはクローンタブ、クーロンタブとも）コマンドは[Unix系](https://ja.wikipedia.org/wiki/Unix系 "wikilink")[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink") (OS) において、[コマンドの定時実行のスケジュール管理を行うために用いられるコマンドである](https://ja.wikipedia.org/wiki/コマンド_\(コンピュータ\) "wikilink")。標準入力からコマンド列を読み取り、crontabと呼ばれるファイルにそれを記録する。この記録を元に定時になると、その命令内容を読み取り、実行が行われる。cronという名称はギリシア語の[クロノス](https://ja.wikipedia.org/wiki/クロノス_\(時間の神\) "wikilink") () に由来するという説がある（Command Run ON の略という説も）。日本語ではクーロンという読みが慣習的に広く用いられているが、英語では通常クロンまたはクローンと発音する\[1\]。
+**`crontab`**（**クロンタブ**、あるいはクローンタブ、クーロンタブとも）コマンドは[Unix系](../Page/Unix系.md "wikilink")[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink") (OS) において、[コマンドの定時実行のスケジュール管理を行うために用いられるコマンドである](https://ja.wikipedia.org/wiki/コマンド_\(コンピュータ\) "wikilink")。標準入力からコマンド列を読み取り、crontabと呼ばれるファイルにそれを記録する。この記録を元に定時になると、その命令内容を読み取り、実行が行われる。cronという名称はギリシア語の[クロノス](https://ja.wikipedia.org/wiki/クロノス_\(時間の神\) "wikilink") () に由来するという説がある（Command Run ON の略という説も）。日本語ではクーロンという読みが慣習的に広く用いられているが、英語では通常クロンまたはクローンと発音する\[1\]。
 
-一般に**`crontab`**コマンドで編集されたスケジュール内容は、`crond`[デーモンにより実行される](https://ja.wikipedia.org/wiki/デーモン_\(ソフトウェア\) "wikilink")。`crond`はバックグラウンドで稼動し、毎分ごとに実行すべきスケジュールがないか確認し、もし実行すべきジョブがあれば、それを実行する。このジョブは「cron job」とも呼ばれる。
+一般に**`crontab`**コマンドで編集されたスケジュール内容は、`crond`[デーモンにより実行される](../Page/デーモン_\(ソフトウェア\).md "wikilink")。`crond`はバックグラウンドで稼動し、毎分ごとに実行すべきスケジュールがないか確認し、もし実行すべきジョブがあれば、それを実行する。このジョブは「cron job」とも呼ばれる。
 
 ## crontabファイル
 
@@ -124,7 +124,7 @@ crontab により実行されたコマンドから出力が行われると、cro
 
 ## 関連項目
 
-  - [at](https://ja.wikipedia.org/wiki/At_\(UNIX\) "wikilink"): ある時刻に一回だけコマンドを実行する
+  - [at](../Page/At_\(UNIX\).md "wikilink"): ある時刻に一回だけコマンドを実行する
   - [anacron](https://ja.wikipedia.org/wiki/anacron "wikilink"): 一定時間の経過を見て、周期的にジョブを実行する
   - [launchd](https://ja.wikipedia.org/wiki/launchd "wikilink"): [macOS](https://ja.wikipedia.org/wiki/macOS "wikilink") / [Darwin上のcron代替デーモン](../Page/Darwin_\(オペレーティングシステム\).md "wikilink")
 
@@ -139,7 +139,7 @@ crontab により実行されたコマンドから出力が行われると、cro
       - [crontab(1)](https://nixdoc.net/man-pages/HP-UX/man1/crontab.1.html) man page（HP-UX リファレンス）
   - **ソフトウェア**
       - [Cron for Windows](http://www.kalab.com/freeware/cron/cron.htm)
-      - [CVSweb for FreeBSD's cron](https://svnweb.freebsd.org/base/head/usr.sbin/cron/) - 1993年の[ポール・ヴィクシー](https://ja.wikipedia.org/wiki/ポール・ヴィクシー "wikilink")による[Vixie cron](https://ja.wikipedia.org/wiki/Vixie_cron "wikilink") 3.0 リリース
+      - [CVSweb for FreeBSD's cron](https://svnweb.freebsd.org/base/head/usr.sbin/cron/) - 1993年の[ポール・ヴィクシー](../Page/ポール・ヴィクシー.md "wikilink")による[Vixie cron](https://ja.wikipedia.org/wiki/Vixie_cron "wikilink") 3.0 リリース
       - [fcron](http://fcron.free.fr/) - vixiecron および anacron の拡張代替実装 ([GPL](../Page/GNU_General_Public_License.md "wikilink"))
 
 [Category:標準UNIXプログラム](https://ja.wikipedia.org/wiki/Category:標準UNIXプログラム "wikilink")

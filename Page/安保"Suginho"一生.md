@@ -5,19 +5,19 @@
 
 ## 略歴
 
-  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、[WANDS](https://ja.wikipedia.org/wiki/WANDS "wikilink")の3期ギタリスト、杉元一生としてデビューする。
+  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、[WANDS](../Page/WANDS.md "wikilink")の3期ギタリスト、杉元一生としてデビューする。
 
 <!-- end list -->
 
-  - [2000年](../Page/2000年.md "wikilink")、同バンドの解体以降、[松本孝弘](https://ja.wikipedia.org/wiki/松本孝弘 "wikilink")、[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")（[B'z](../Page/B'z.md "wikilink")）のソロ活動のTVライブサポート、[Fayray](https://ja.wikipedia.org/wiki/Fayray "wikilink")、[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")のライブツアーサポート、[hills　パン工場の](https://ja.wikipedia.org/wiki/hills_パン工場 "wikilink")『[THURSDAY LIVE](https://ja.wikipedia.org/wiki/hills_パン工場#THURSDAY_LIVE "wikilink")』でのサポート等をこなしながら、[flow-war](https://ja.wikipedia.org/wiki/flow-war "wikilink")のギタリストとしても活躍。
+  - [2000年](../Page/2000年.md "wikilink")、同バンドの解体以降、[松本孝弘](../Page/松本孝弘.md "wikilink")、[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")（[B'z](../Page/B'z.md "wikilink")）のソロ活動のTVライブサポート、[Fayray](https://ja.wikipedia.org/wiki/Fayray "wikilink")、[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")のライブツアーサポート、[hills　パン工場の](https://ja.wikipedia.org/wiki/hills_パン工場 "wikilink")『[THURSDAY LIVE](https://ja.wikipedia.org/wiki/hills_パン工場#THURSDAY_LIVE "wikilink")』でのサポート等をこなしながら、[flow-war](https://ja.wikipedia.org/wiki/flow-war "wikilink")のギタリストとしても活躍。
 
 <!-- end list -->
 
-  - [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")、flow-war解散後は[ビーイング](../Page/ビーイング.md "wikilink")を退社。[ステージネームを](../Page/芸名.md "wikilink")**安保 "Suginho" 一生**と改名する。以後、[プロデューサー](../Page/プロデューサー.md "wikilink")や[A\&R](https://ja.wikipedia.org/wiki/A&R "wikilink")/[ディレクター](../Page/ディレクター.md "wikilink")としてバンドやアーティストを手がけ、数多くの作品に携わる。
+  - [2004年](../Page/2004年.md "wikilink")、flow-war解散後は[ビーイング](../Page/ビーイング.md "wikilink")を退社。[ステージネームを](../Page/芸名.md "wikilink")**安保 "Suginho" 一生**と改名する。以後、[プロデューサー](../Page/プロデューサー.md "wikilink")や[A\&R](https://ja.wikipedia.org/wiki/A&R "wikilink")/[ディレクター](../Page/ディレクター.md "wikilink")としてバンドやアーティストを手がけ、数多くの作品に携わる。
 
 <!-- end list -->
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、flow-warのヴォーカルを務めていた[及崎森平](https://ja.wikipedia.org/wiki/及崎森平 "wikilink")と[CANDYMAN](https://ja.wikipedia.org/wiki/CANDYMAN "wikilink")を結成。ソロやセッションも含めたライブや音源発表等の活動を行った。
+  - [2005年](../Page/2005年.md "wikilink")、flow-warのヴォーカルを務めていた[及崎森平](https://ja.wikipedia.org/wiki/及崎森平 "wikilink")と[CANDYMAN](https://ja.wikipedia.org/wiki/CANDYMAN "wikilink")を結成。ソロやセッションも含めたライブや音源発表等の活動を行った。
 
 <!-- end list -->
 
@@ -29,7 +29,7 @@
 
 <!-- end list -->
 
-  - [2009年](../Page/2009年.md "wikilink")11月、[浅岡雄也](https://ja.wikipedia.org/wiki/浅岡雄也 "wikilink")（元[FIELD OF VIEW](https://ja.wikipedia.org/wiki/FIELD_OF_VIEW "wikilink")）のアルバム「ウタハトビラヲアケテユク」収録曲「シャララ」に、ギターで参加\[1\]。また、同年に開催された浅岡のライブツアー「15th Anniversary 2009-2010 6th LIVE TOUR ～ウタハトビラヲアケテユク～」に、サポートギタリストとして参加した\[2\]\[3\]。
+  - [2009年](../Page/2009年.md "wikilink")11月、[浅岡雄也](../Page/浅岡雄也.md "wikilink")（元[FIELD OF VIEW](../Page/FIELD_OF_VIEW.md "wikilink")）のアルバム「ウタハトビラヲアケテユク」収録曲「シャララ」に、ギターで参加\[1\]。また、同年に開催された浅岡のライブツアー「15th Anniversary 2009-2010 6th LIVE TOUR ～ウタハトビラヲアケテユク～」に、サポートギタリストとして参加した\[2\]\[3\]。
 
 <!-- end list -->
 
@@ -37,7 +37,7 @@
 
 <!-- end list -->
 
-  - [2011年](../Page/2011年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")、ライブイベント「"Live Circus" Act.01」(目黒LIVE STATIONにて開催)に、Suginho Session名義のグループで参加\[4\]\[5\]。ゲストボーカルに、元3期WANDSの[松元治郎](https://ja.wikipedia.org/wiki/松元治郎 "wikilink")(和久二郎)も出演した\[6\]\[7\]。
+  - [2011年](../Page/2011年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")、ライブイベント「"Live Circus" Act.01」(目黒LIVE STATIONにて開催)に、Suginho Session名義のグループで参加\[4\]\[5\]。ゲストボーカルに、元3期WANDSの[松元治郎](../Page/松元治郎.md "wikilink")(和久二郎)も出演した\[6\]\[7\]。
 
 <!-- end list -->
 
@@ -54,17 +54,17 @@
 ## 人物
 
   - [1972年](../Page/1972年.md "wikilink")、東京都で出生。小学校の途中から高校まで富山県で過ごしていた\[10\]。
-  - フェイバリット・アーティストは、[スティーヴ・ヴァイ](https://ja.wikipedia.org/wiki/スティーヴ・ヴァイ "wikilink")、[ポール・ギルバート](https://ja.wikipedia.org/wiki/ポール・ギルバート "wikilink")\[11\]。
-  - 初めてギターを弾いたのは中学3年生の時であり\[12\]、最初に弾いたのは[BOØWYの](https://ja.wikipedia.org/wiki/BOOWY "wikilink")「[Marionette -マリオネット-](https://ja.wikipedia.org/wiki/Marionette_\(BOOWYの曲\) "wikilink")」で\[13\]、最初にコピーバンドを組んだのもBOØWYだったと語っている\[14\]。高校生になってからは、[イングヴェイ・マルムスティーン](../Page/イングヴェイ・マルムスティーン.md "wikilink")や[ドッケン](https://ja.wikipedia.org/wiki/ドッケン "wikilink")などをコピーするようになっていった\[15\]。また、22歳の頃までは、ギターと同時にボーカルも務めていた\[16\]。
+  - フェイバリット・アーティストは、[スティーヴ・ヴァイ](../Page/スティーヴ・ヴァイ.md "wikilink")、[ポール・ギルバート](../Page/ポール・ギルバート.md "wikilink")\[11\]。
+  - 初めてギターを弾いたのは中学3年生の時であり\[12\]、最初に弾いたのは[BOØWYの](https://ja.wikipedia.org/wiki/BOOWY "wikilink")「[Marionette -マリオネット-](../Page/Marionette_\(BOOWYの曲\).md "wikilink")」で\[13\]、最初にコピーバンドを組んだのもBOØWYだったと語っている\[14\]。高校生になってからは、[イングヴェイ・マルムスティーン](../Page/イングヴェイ・マルムスティーン.md "wikilink")や[ドッケン](../Page/ドッケン.md "wikilink")などをコピーするようになっていった\[15\]。また、22歳の頃までは、ギターと同時にボーカルも務めていた\[16\]。
   - 大学生時代は、洋楽の様々なジャンル、ルーツなどの研究を行い\[17\]、作曲と宅録をやるようになったのもこの頃で、図書館などで楽典や作曲法といった理論を独学で学んでいた\[18\]。
-  - 大学生の時から[レコード会社](https://ja.wikipedia.org/wiki/レコード会社 "wikilink")にデモテープを送り続ける。WANDSに加入するまで、[英語の](https://ja.wikipedia.org/wiki/英語_\(教科\) "wikilink")[家庭教師](../Page/家庭教師.md "wikilink")などのアルバイトをしながら、某音楽事務所の制作現場で技術を磨く。これが縁で日本を代表する大物アーティストの[付き人](https://ja.wikipedia.org/wiki/付き人 "wikilink")としての経験を積む。これらの活動がこの後のWANDSメンバー加入へとつながっていく。
+  - 大学生の時から[レコード会社](../Page/レコード会社.md "wikilink")にデモテープを送り続ける。WANDSに加入するまで、[英語の](../Page/英語_\(教科\).md "wikilink")[家庭教師](../Page/家庭教師.md "wikilink")などのアルバイトをしながら、某音楽事務所の制作現場で技術を磨く。これが縁で日本を代表する大物アーティストの[付き人](../Page/付き人.md "wikilink")としての経験を積む。これらの活動がこの後のWANDSメンバー加入へとつながっていく。
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")からデビューする1997年までの間は、原盤制作やマネジメントスタッフなども経験し、ビーイングの制作メソッドを自分なりに研究していたと述べている\[19\]。また、[織田哲郎](../Page/織田哲郎.md "wikilink")のメロディーも、一時期猛烈に研究していたとのこと\[20\]。
   - WANDS時代は、ほぼ全曲のコーラスを担当していた\[21\]。
-  - "Suginho"とは、新メンバーとして加入直後のflow-warのファンクラブイベントで出された[カクテル](../Page/カクテル.md "wikilink")の名前に由来する。お酒が飲めない為ノンアルコールで、メンバーの中で一番「子供っぽい」ということで、[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")で「～の子供」という意味の"-nho"と、旧芸名をくっつけて作られた。お気に入りのサッカー選手、[Ronaldinhoの名前に引っ掛けてある](../Page/ロナウジーニョ.md "wikilink")。彼が前事務所を辞めた後の活動名にこの愛称を入れ込んだ理由は「全く知名度のない本名とかつての芸名との落しどころ」。また、[セレソン](https://ja.wikipedia.org/wiki/セレソン "wikilink")の[ジュニーニョや](https://ja.wikipedia.org/wiki/ジュニーニョ・パウリスタ "wikilink")[ロビーニョ](https://ja.wikipedia.org/wiki/ロビーニョ "wikilink")から来ているとも語っている\[22\]。
-  - WANDSのメンバーであった[木村真也](https://ja.wikipedia.org/wiki/木村真也 "wikilink")、松元治郎（WANDS活動当時は[和久二郎](https://ja.wikipedia.org/wiki/和久二郎 "wikilink")名義）とは解散以降も交流があり、2012年からは松元のソロ活動再開のサポート、プロデューサーも務めている。
+  - "Suginho"とは、新メンバーとして加入直後のflow-warのファンクラブイベントで出された[カクテル](../Page/カクテル.md "wikilink")の名前に由来する。お酒が飲めない為ノンアルコールで、メンバーの中で一番「子供っぽい」ということで、[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")で「～の子供」という意味の"-nho"と、旧芸名をくっつけて作られた。お気に入りのサッカー選手、[Ronaldinhoの名前に引っ掛けてある](../Page/ロナウジーニョ.md "wikilink")。彼が前事務所を辞めた後の活動名にこの愛称を入れ込んだ理由は「全く知名度のない本名とかつての芸名との落しどころ」。また、[セレソン](https://ja.wikipedia.org/wiki/セレソン "wikilink")の[ジュニーニョや](../Page/ジュニーニョ・パウリスタ.md "wikilink")[ロビーニョ](../Page/ロビーニョ.md "wikilink")から来ているとも語っている\[22\]。
+  - WANDSのメンバーであった[木村真也](../Page/木村真也.md "wikilink")、松元治郎（WANDS活動当時は[和久二郎](https://ja.wikipedia.org/wiki/和久二郎 "wikilink")名義）とは解散以降も交流があり、2012年からは松元のソロ活動再開のサポート、プロデューサーも務めている。
   - 2002～2004年頃は大阪に住んでいた。その頃も松元とはちょくちょく連絡を取り合っており、松元からの依頼で、送られてきたデモにコード付けなども行っていたとのこと\[23\]。
   - WANDS時代に関しては、短い間に色々あったが嫌な記憶とは思ってはいなく、WANDSの一員であったことに誇りを持っていると語っている\[24\]。
-  - 過去に雑誌のギターヒーローで、活動の転機になった曲として「[Brand New Love](https://ja.wikipedia.org/wiki/Brand_New_Love "wikilink")」を上げたことがある\[25\]。
+  - 過去に雑誌のギターヒーローで、活動の転機になった曲として「[Brand New Love](../Page/Brand_New_Love.md "wikilink")」を上げたことがある\[25\]。
 
 ## ディスコグラフィー
 
@@ -76,7 +76,7 @@
 
 ### オムニバスアルバム
 
-  - **[Guitar Monster Vol.2](https://ja.wikipedia.org/wiki/Guitar_Monster_Vol.2 "wikilink")**（1997年9月13日） ※「With My Best Whishes」で参加
+  - **[Guitar Monster Vol.2](../Page/Guitar_Monster_Vol.2.md "wikilink")**（1997年9月13日） ※「With My Best Whishes」で参加
 
 ## 公演
 
@@ -89,7 +89,7 @@
 
 ### プロデュース
 
-  - [松元治郎](https://ja.wikipedia.org/wiki/松元治郎 "wikilink")
+  - [松元治郎](../Page/松元治郎.md "wikilink")
 
 <!-- end list -->
 
@@ -107,7 +107,7 @@
 
 <!-- end list -->
 
-  - [SHALE APPLE](https://ja.wikipedia.org/wiki/SHALE_APPLE "wikilink")
+  - [SHALE APPLE](../Page/SHALE_APPLE.md "wikilink")
 
 <!-- end list -->
 
@@ -191,7 +191,7 @@
 
 <!-- end list -->
 
-  - [Pistol Valve](https://ja.wikipedia.org/wiki/ピストルバルブ "wikilink")
+  - [Pistol Valve](../Page/ピストルバルブ.md "wikilink")
 
 <!-- end list -->
 
@@ -213,7 +213,7 @@
 
 <!-- end list -->
 
-  - jealkb×[コンドルズ](https://ja.wikipedia.org/wiki/コンドルズ "wikilink")
+  - jealkb×[コンドルズ](../Page/コンドルズ.md "wikilink")
 
 <!-- end list -->
 
@@ -388,7 +388,7 @@
 
 <!-- end list -->
 
-  - [間慎太郎](https://ja.wikipedia.org/wiki/間慎太郎 "wikilink")
+  - [間慎太郎](../Page/間慎太郎.md "wikilink")
 
 <!-- end list -->
 
@@ -808,15 +808,15 @@
 ## 関連項目
 
   - [ビーイング](../Page/ビーイング.md "wikilink")
-  - [WANDS](https://ja.wikipedia.org/wiki/WANDS "wikilink")
-      - [和久二郎](https://ja.wikipedia.org/wiki/松元治郎 "wikilink")
-      - [木村真也](https://ja.wikipedia.org/wiki/木村真也 "wikilink")
+  - [WANDS](../Page/WANDS.md "wikilink")
+      - [和久二郎](../Page/松元治郎.md "wikilink")
+      - [木村真也](../Page/木村真也.md "wikilink")
   - [flow-war](https://ja.wikipedia.org/wiki/flow-war "wikilink")
   - [CANDYMAN](https://ja.wikipedia.org/wiki/CANDYMAN "wikilink")
       - [及崎森平](https://ja.wikipedia.org/wiki/及崎森平 "wikilink")
   - [LIT-HUM](https://ja.wikipedia.org/wiki/LIT-HUM "wikilink")
   - [綿貫正顕](../Page/綿貫正顕.md "wikilink")
-  - [浅岡雄也](https://ja.wikipedia.org/wiki/浅岡雄也 "wikilink")
+  - [浅岡雄也](../Page/浅岡雄也.md "wikilink")
 
 ## 脚注
 

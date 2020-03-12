@@ -1,9 +1,9 @@
 > この記事は[OVS](https://ja.wikipedia.org/wiki/OVS)から翻訳されています。
 
 
-**OVS型**（OVSがた）とは、基本文法が「[目的語](https://ja.wikipedia.org/wiki/目的語 "wikilink") - [動詞](../Page/動詞.md "wikilink") - [主語](../Page/主語.md "wikilink")」の[語順](../Page/語順.md "wikilink")である言語類型を表す[用語](../Page/用語.md "wikilink")。OVA型（Agent）はOVS型と同じ類型である。
+**OVS型**（OVSがた）とは、基本文法が「[目的語](../Page/目的語.md "wikilink") - [動詞](../Page/動詞.md "wikilink") - [主語](../Page/主語.md "wikilink")」の[語順](../Page/語順.md "wikilink")である言語類型を表す[用語](../Page/用語.md "wikilink")。OVA型（Agent）はOVS型と同じ類型である。
 
-この3要素の語順に着目した分類は、[言語学者](https://ja.wikipedia.org/wiki/言語学者 "wikilink")[ジョーゼフ・グリーンバーグ](https://ja.wikipedia.org/wiki/ジョーゼフ・グリーンバーグ "wikilink")が "Some Universals of Grammer with Particular Reference to the Order of Meaningful Elemets" （1963年）において提唱したものである。 グリーンバーグは、OVS型を含む6種類の類型によって言語を分析した結果、[自然言語](../Page/自然言語.md "wikilink")ではこのOVS型が最も少ないという。
+この3要素の語順に着目した分類は、[言語学者](https://ja.wikipedia.org/wiki/言語学者 "wikilink")[ジョーゼフ・グリーンバーグ](../Page/ジョーゼフ・グリーンバーグ.md "wikilink")が "Some Universals of Grammer with Particular Reference to the Order of Meaningful Elemets" （1963年）において提唱したものである。 グリーンバーグは、OVS型を含む6種類の類型によって言語を分析した結果、[自然言語](../Page/自然言語.md "wikilink")ではこのOVS型が最も少ないという。
 
 ## 自然言語での例
 
@@ -13,9 +13,9 @@
 
 ## 人工言語での例
 
-OVS型語順は、人工言語[インターリングア](https://ja.wikipedia.org/wiki/インターリングア "wikilink")でも使われる（ただしインターリングアの文法書には、受動態を除いて記述はない）。[Panorama in Interlingua](https://ja.wikipedia.org/wiki/:en:Panorama_in_Interlingua "wikilink") の編集長 Thomas Breinstrup は、同誌に執筆した記事の中でときどきこの語順を使っていた。
+OVS型語順は、人工言語[インターリングア](../Page/インターリングア.md "wikilink")でも使われる（ただしインターリングアの文法書には、受動態を除いて記述はない）。[Panorama in Interlingua](https://ja.wikipedia.org/wiki/:en:Panorama_in_Interlingua "wikilink") の編集長 Thomas Breinstrup は、同誌に執筆した記事の中でときどきこの語順を使っていた。
 
-この語順は、[スタートレック](../Page/スタートレック.md "wikilink")・シリーズの架空背景世界における[地球外知的生命体](https://ja.wikipedia.org/wiki/地球外知的生命体 "wikilink")[クリンゴン](https://ja.wikipedia.org/wiki/クリンゴン "wikilink")人の[人工言語](https://ja.wikipedia.org/wiki/人工言語 "wikilink")、[クリンゴン語](https://ja.wikipedia.org/wiki/クリンゴン語 "wikilink")にも採用された。わざと、異星人らしく直感に反する表現にするためである。そのためクリンゴン語はもっとも珍しい語順を持つことになったが、この人工言語の目的からすれば当然である。
+この語順は、[スタートレック](../Page/スタートレック.md "wikilink")・シリーズの架空背景世界における[地球外知的生命体](https://ja.wikipedia.org/wiki/地球外知的生命体 "wikilink")[クリンゴン](https://ja.wikipedia.org/wiki/クリンゴン "wikilink")人の[人工言語](https://ja.wikipedia.org/wiki/人工言語 "wikilink")、[クリンゴン語](../Page/クリンゴン語.md "wikilink")にも採用された。わざと、異星人らしく直感に反する表現にするためである。そのためクリンゴン語はもっとも珍しい語順を持つことになったが、この人工言語の目的からすれば当然である。
 
 ## 脚注
 

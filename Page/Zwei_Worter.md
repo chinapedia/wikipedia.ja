@@ -1,7 +1,7 @@
 > この記事は[Zwei Worter](https://ja.wikipedia.org/wiki/Zwei_Worter)から翻訳されています。
 
 
-『**ツヴァイ・ウォルター -Zwei Worter**』は、[CLOCK UPより](https://ja.wikipedia.org/wiki/CLOCKUP_\(ブランド\) "wikilink")[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月27日](../Page/4月27日.md "wikilink")に発売された[18禁SFアドベンチャーゲーム](../Page/アダルトゲーム.md "wikilink")。 『[ジオグラマトン](https://ja.wikipedia.org/wiki/ジオグラマトン "wikilink")』の続編であり、前作よりも壮大な世界観を持つ一方、ストーリーは各ヒロインに絞られている\[1\]。
+『**ツヴァイ・ウォルター -Zwei Worter**』は、[CLOCK UPより](../Page/CLOCKUP_\(ブランド\).md "wikilink")[2007年](../Page/2007年.md "wikilink")[4月27日](../Page/4月27日.md "wikilink")に発売された[18禁SFアドベンチャーゲーム](../Page/アダルトゲーム.md "wikilink")。 『[ジオグラマトン](../Page/ジオグラマトン.md "wikilink")』の続編であり、前作よりも壮大な世界観を持つ一方、ストーリーは各ヒロインに絞られている\[1\]。
 
 後日談を描いた『くろふぁん4GHz』が[10月26日](../Page/10月26日.md "wikilink")に発売された。
 
@@ -16,19 +16,19 @@
   - イズモ・キョウシロウ（いずも きょうしろう）
     本作の主人公。ヒューマン。歩行戦車の操縦シミュレーションに優れ、アレキサンダーの操縦士に選ばれる。
   - ゴウリ・ユキエ
-    声 - [かわしまりの](https://ja.wikipedia.org/wiki/かわしまりの "wikilink")
+    声 - [かわしまりの](../Page/かわしまりの.md "wikilink")
     ヒューマン。ドジっ娘だが軍人としては極めて優秀であり、特に射撃と戦術判断に優れる\[2\]。
     物語の後半では、父親への複雑な想いや葛藤する内面が描かれる\[3\]。
   - ワダツミ・サクヤ
-    声 - [一色ヒカル](https://ja.wikipedia.org/wiki/一色ヒカル "wikilink")
+    声 - [一色ヒカル](../Page/一色ヒカル.md "wikilink")
     ディゾルブ。戦闘用に特化した「ブーステッドディゾルブ」の少女。
     戦闘以外においては疎く、非戦闘時における他人とのコミュニケーションに苦労している\[4\]。
   - イリューダ・セヴァルティス・エスティス
     声 - [中瀬ひな](https://ja.wikipedia.org/wiki/中瀬ひな "wikilink")
-    ロシアの星の街にて、人間とディゾルブの混血実験で生まれた少女。愛称のトリェーリャはロシア語で3のこと。前作『[ジオグラマトン](https://ja.wikipedia.org/wiki/ジオグラマトン "wikilink")』の「イリューダ」に容姿が酷似している。
+    ロシアの星の街にて、人間とディゾルブの混血実験で生まれた少女。愛称のトリェーリャはロシア語で3のこと。前作『[ジオグラマトン](../Page/ジオグラマトン.md "wikilink")』の「イリューダ」に容姿が酷似している。
     キョウシロウのことを初めて会った時から頻繁に罵倒する\[5\]。その一方で、上司であるリョウトを慕うが、のちに彼にその気が無いことを悟る\[6\]。自らの思いをキョウシロウに吐露していくうちに、キョウシロウとの距離が縮まる\[7\]。
   - イリアス
-    声 - [青葉りんご](https://ja.wikipedia.org/wiki/青葉りんご "wikilink")
+    声 - [青葉りんご](../Page/青葉りんご.md "wikilink")
     第27世代型ハイブリッド。人間と猫の遺伝子を掛け合わせて作られた存在で、人間になることを夢見ている\[8\]。最前線トリトン要塞の生き残り。
   - ゼロノ・ピアノ
     声 - [風音](https://ja.wikipedia.org/wiki/風音_\(声優\) "wikilink")
@@ -38,10 +38,10 @@
   - リョウト・ジグムント
     国連宇宙軍対エルシド迎撃機関、特務機関「ARKS」の総司令を務める純血種ディゾルブ。前作『ジオグラマトン』からの登場。
   - シグレ・シズハ
-    声 - [紫華すみれ](https://ja.wikipedia.org/wiki/紫華すみれ "wikilink")
+    声 - [紫華すみれ](../Page/紫華すみれ.md "wikilink")
     国連宇宙軍でオペレーターを務める。クローン体であり、精神感応能力（テレパシー）を持つ。前作『ジオグラマトン』に登場した「時雨」シリーズ。
   - スティルスーツ
-    声 - [涼森ちさと](https://ja.wikipedia.org/wiki/涼森ちさと "wikilink")
+    声 - [涼森ちさと](../Page/涼森ちさと.md "wikilink")
     キョウシロウの備品。高性能AIと人工筋肉を備えている。
     キョウシロウが配布されたスティルスーツのAIにはイサミ・クシナダの記憶と、ある程度の人格が記憶されており、キョウシロウを愛している。キョウシロウ自身のFinal storyにおける最後の戦いで、自身がピンチになりAIがキョウシロウとイサミしか知らない会話を口にされることによって、初めてイサミの記憶を元にしていることが判明した。スーツのコアをアレキサンダーに組み込むことによってアレキサンダーは、エクスカリバーに変形する。
   - イサミ・クシナダ
@@ -107,7 +107,7 @@
 ## 主題歌
 
   - オープニングテーマ「ZWEI WORTER 〜僕らの世界〜」
-    作詞・歌 - [佐藤ひろ美](https://ja.wikipedia.org/wiki/佐藤ひろ美 "wikilink") / 作曲 - [上松範康](https://ja.wikipedia.org/wiki/上松範康 "wikilink")（[Elements Garden](https://ja.wikipedia.org/wiki/Elements_Garden "wikilink")） / 編曲 - [藤田淳平](https://ja.wikipedia.org/wiki/藤田淳平 "wikilink")（Elements Garden）
+    作詞・歌 - [佐藤ひろ美](../Page/佐藤ひろ美.md "wikilink") / 作曲 - [上松範康](../Page/上松範康.md "wikilink")（[Elements Garden](../Page/Elements_Garden.md "wikilink")） / 編曲 - [藤田淳平](../Page/藤田淳平.md "wikilink")（Elements Garden）
   - エンディングテーマ「Eternal promise」
     作詞・作曲・歌 - 佐藤ひろ美 / 編曲 - 藤田淳平（Elements Garden）
 

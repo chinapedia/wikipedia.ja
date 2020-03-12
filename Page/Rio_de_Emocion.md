@@ -1,16 +1,16 @@
 > この記事は[Rio de Emocion](https://ja.wikipedia.org/wiki/Rio_de_Emocion)から翻訳されています。
 
 
-『**Río de Emoción**』（リオ・デ・エモシオン）は、[Dragon Ashの](https://ja.wikipedia.org/wiki/Dragon_Ash "wikilink")9枚目のアルバムである（フルアルバムとしては6枚目）。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月7日](../Page/9月7日.md "wikilink") にリリースされた。タイトルの「Río de Emoción」は[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")で「感情の川」を意味する。初回盤:MOB net MEMBERSシークレット・コード封入。なお、13thシングル「[Shade](https://ja.wikipedia.org/wiki/Shade_\(曲\) "wikilink")」は収録されていない。
+『**Río de Emoción**』（リオ・デ・エモシオン）は、[Dragon Ashの](../Page/Dragon_Ash.md "wikilink")9枚目のアルバムである（フルアルバムとしては6枚目）。[2005年](../Page/2005年.md "wikilink")[9月7日](../Page/9月7日.md "wikilink") にリリースされた。タイトルの「Río de Emoción」は[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")で「感情の川」を意味する。初回盤:MOB net MEMBERSシークレット・コード封入。なお、13thシングル「[Shade](https://ja.wikipedia.org/wiki/Shade_\(曲\) "wikilink")」は収録されていない。
 
 ## 概要
 
-[ラテン調の曲風が強いアルバムである](https://ja.wikipedia.org/wiki/ラテン音楽 "wikilink")。他にも、[エレクトロニカ](../Page/エレクトロニカ.md "wikilink")調の曲もある。
+[ラテン調の曲風が強いアルバムである](../Page/ラテン音楽.md "wikilink")。他にも、[エレクトロニカ](../Page/エレクトロニカ.md "wikilink")調の曲もある。
 
 ## 収録曲
 
 1.  **Intro**（1:16）
-2.  **[Los Lobos](https://ja.wikipedia.org/wiki/ロス・ロボス "wikilink")**（4:23）
+2.  **[Los Lobos](../Page/ロス・ロボス.md "wikilink")**（4:23）
       -
         （作詞：Kj、作曲：Dragon Ash）
     <!-- end list -->
@@ -19,7 +19,7 @@
       -
         （作詞：Kj HIDE、作曲：Dragon Ash）
     <!-- end list -->
-      - 「Crush the window」カップリング。[Dt.](https://ja.wikipedia.org/wiki/Dt. "wikilink")のHIDE、友人の136が参加。
+      - 「Crush the window」カップリング。[Dt.](../Page/Dt..md "wikilink")のHIDE、友人の136が参加。
 4.  **Palmas Rock feat.UZI-ONE**（4:23）
       -
         （作詞：Kj UZI-ONE、作曲：Dragon Ash）
@@ -28,7 +28,7 @@
 5.  **Scarlet Needle**（4:28）
       -
         （作詞：Kj、作曲：Dragon Ash）
-6.  **[夕凪Union](https://ja.wikipedia.org/wiki/夕凪Union "wikilink")**（4:42）
+6.  **[夕凪Union](../Page/夕凪Union.md "wikilink")**（4:42）
       -
         （作詞：Kj、作曲：Dragon Ash）
     <!-- end list -->
@@ -52,7 +52,7 @@
         （作詞：Kj アイニ、作曲：Dragon Ash）
     <!-- end list -->
       - [smorgas](https://ja.wikipedia.org/wiki/smorgas "wikilink")のアイニ及び[nido](https://ja.wikipedia.org/wiki/nido "wikilink")のメンバーでもある[武田真治](../Page/武田真治.md "wikilink")が参加（武田真治はサックスのみ）。
-12. **[Crush the window](https://ja.wikipedia.org/wiki/Crush_the_window "wikilink")**（4:19）
+12. **[Crush the window](../Page/Crush_the_window.md "wikilink")**（4:19）
       -
         （作詞：Kj、作曲：Dragon Ash）
     <!-- end list -->

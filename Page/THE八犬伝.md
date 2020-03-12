@@ -3,14 +3,14 @@
 
 『**THE八犬伝**』（ざはっけんでん）は、[曲亭馬琴](../Page/曲亭馬琴.md "wikilink")（滝沢馬琴）作の『[南総里見八犬伝](../Page/南総里見八犬伝.md "wikilink")』を原作とした[OVA](../Page/OVA.md "wikilink")作品。2005年には、[ジェネオンエンタテインメントからDVDで発売されている](https://ja.wikipedia.org/wiki/ジェネオン・ユニバーサル・エンターテイメントジャパン "wikilink")。
 
-THE八犬伝の1話、新章の3・4話では個性的な[アニメーター](https://ja.wikipedia.org/wiki/アニメーター "wikilink")が集結しており、後のアニメ業界に多大な影響を与えた\[1\]。アニメーターの[中澤一登](https://ja.wikipedia.org/wiki/中澤一登 "wikilink")は新章4話を「神の作品」と評価している\[2\]。
+THE八犬伝の1話、新章の3・4話では個性的な[アニメーター](../Page/アニメーター.md "wikilink")が集結しており、後のアニメ業界に多大な影響を与えた\[1\]。アニメーターの[中澤一登](../Page/中澤一登.md "wikilink")は新章4話を「神の作品」と評価している\[2\]。
 
 ## THE八犬伝
 
 1990年から1991年にかけてVHSとレーザーディスクが発売された。全6話。
 
   - 監督 - [安濃高志](../Page/安濃高志.md "wikilink")
-  - 構成 - [会川昇](https://ja.wikipedia.org/wiki/會川昇 "wikilink")
+  - 構成 - [会川昇](../Page/會川昇.md "wikilink")
   - オリジナルキャラクターデザイン - [山形厚史](https://ja.wikipedia.org/wiki/山形厚史 "wikilink")
   - 色彩設定 - [中山久美子](https://ja.wikipedia.org/wiki/中山久美子 "wikilink")（\#4除く）、中村栄里（\#4のみ）
   - 撮影監督 - 小西一廣
@@ -21,14 +21,14 @@ THE八犬伝の1話、新章の3・4話では個性的な[アニメーター](ht
   - 編集 - [掛須秀一](../Page/掛須秀一.md "wikilink")
   - 音響監督 - 山崎あきら
   - 音楽 - くどう隆 (THE TOPS)
-  - 音楽制作 - [ビクター音楽産業](https://ja.wikipedia.org/wiki/JVCケンウッド・ビクターエンタテインメント "wikilink") VICL-65 (廃盤)
+  - 音楽制作 - [ビクター音楽産業](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink") VICL-65 (廃盤)
   - 音楽プロデューサー - [佐々木史朗](https://ja.wikipedia.org/wiki/佐々木史朗_\(音楽プロデューサー\) "wikilink")
   - プロデューサー - [三浦亨](https://ja.wikipedia.org/wiki/三浦亨_\(プロデューサー\) "wikilink")
   - 企画 - 三浦亨、会川昇
   - 制作プロデューサー - 長谷川康雄
-  - 製作・著作 - [AIC](https://ja.wikipedia.org/wiki/アニメインターナショナルカンパニー "wikilink")
+  - 製作・著作 - [AIC](../Page/アニメインターナショナルカンパニー.md "wikilink")
   - 製作・発売 - 株式会社双進映像
-  - 販売 - 株式会社[アスミック](https://ja.wikipedia.org/wiki/アスミック・エース "wikilink")
+  - 販売 - 株式会社[アスミック](../Page/アスミック・エース.md "wikilink")
 
 ## 主題歌
 
@@ -39,14 +39,14 @@ THE八犬伝の1話、新章の3・4話では個性的な[アニメーター](ht
 
 ### 各話リスト
 
-| 話数  | サブタイトル | 脚本                                                  | 絵コンテ  | 演出                                                          | 作画監督                                                                  |
-| --- | ------ | --------------------------------------------------- | ----- | ----------------------------------------------------------- | --------------------------------------------------------------------- |
-| 第1話 | 万華鏡    | [会川昇](https://ja.wikipedia.org/wiki/會川昇 "wikilink") | \-    | \-                                                          | [大平晋也](../Page/大平晋也.md "wikilink")、[橋本晋治](../Page/橋本晋治.md "wikilink") |
-| 第2話 | 闇神楽    | \-                                                  | 岡本有樹郎 | [二村秀樹](https://ja.wikipedia.org/wiki/二村秀樹 "wikilink")、山形厚史  |                                                                       |
-| 第3話 | 婆娑羅舞   | [山崎理](../Page/山崎理.md "wikilink")                    | 青木武   | [越智博之](https://ja.wikipedia.org/wiki/越智博之 "wikilink")       |                                                                       |
-| 第4話 | 芳琉閣    | [鳴海丈](../Page/鳴海丈.md "wikilink")                    | \-    | [なかむらたかし](https://ja.wikipedia.org/wiki/なかむらたかし "wikilink") |                                                                       |
-| 第5話 | 夜叉囃子   | 会川昇                                                 | \-    | 岡本有樹郎                                                       | 奥田淳、池畑文子                                                              |
-| 第6話 | 鬼哭蟬    | \-                                                  | 青木武   | [本橋秀之](https://ja.wikipedia.org/wiki/本橋秀之 "wikilink")、山形厚史  |                                                                       |
+| 話数  | サブタイトル | 脚本                               | 絵コンテ  | 演出                                                         | 作画監督                                                                  |
+| --- | ------ | -------------------------------- | ----- | ---------------------------------------------------------- | --------------------------------------------------------------------- |
+| 第1話 | 万華鏡    | [会川昇](../Page/會川昇.md "wikilink") | \-    | \-                                                         | [大平晋也](../Page/大平晋也.md "wikilink")、[橋本晋治](../Page/橋本晋治.md "wikilink") |
+| 第2話 | 闇神楽    | \-                               | 岡本有樹郎 | [二村秀樹](https://ja.wikipedia.org/wiki/二村秀樹 "wikilink")、山形厚史 |                                                                       |
+| 第3話 | 婆娑羅舞   | [山崎理](../Page/山崎理.md "wikilink") | 青木武   | [越智博之](https://ja.wikipedia.org/wiki/越智博之 "wikilink")      |                                                                       |
+| 第4話 | 芳琉閣    | [鳴海丈](../Page/鳴海丈.md "wikilink") | \-    | [なかむらたかし](../Page/なかむらたかし.md "wikilink")                   |                                                                       |
+| 第5話 | 夜叉囃子   | 会川昇                              | \-    | 岡本有樹郎                                                      | 奥田淳、池畑文子                                                              |
+| 第6話 | 鬼哭蟬    | \-                               | 青木武   | [本橋秀之](../Page/本橋秀之.md "wikilink")、山形厚史                    |                                                                       |
 
 ## THE 八犬伝 〜新章〜
 
@@ -56,12 +56,12 @@ THE八犬伝の1話、新章の3・4話では個性的な[アニメーター](ht
   - 監督 - [岡本有樹郎](https://ja.wikipedia.org/wiki/岡本有樹郎 "wikilink")
   - オリジナルキャラクターデザイン - 山形厚史
   - キャラクターデザイン - [奥田淳](https://ja.wikipedia.org/wiki/奥田淳 "wikilink")（\#2から）
-  - 美術監督 - [神山健治](../Page/神山健治.md "wikilink")（\#1・\#3・\#6）、竹田悠介（\#2）、太田大（\#4）、荒井賢（\#5）、[加藤浩](https://ja.wikipedia.org/wiki/加藤浩 "wikilink")（\#7）
+  - 美術監督 - [神山健治](../Page/神山健治.md "wikilink")（\#1・\#3・\#6）、竹田悠介（\#2）、太田大（\#4）、荒井賢（\#5）、[加藤浩](../Page/加藤浩.md "wikilink")（\#7）
   - 美術設定 - 加藤浩 (\#2、\#5)
   - 美術ボード - 竹田悠介 (\#4)
   - 色彩設計 - 大槻浩司
   - 撮影監督 - 小西一廣（\#3まで）、佐藤均（\#4から）
-  - 音響監督 - [岩浪美和](https://ja.wikipedia.org/wiki/岩浪美和 "wikilink")
+  - 音響監督 - [岩浪美和](../Page/岩浪美和.md "wikilink")
   - 音楽 - 工藤隆
   - 歌 - THE八犬士、[INVOICE](https://ja.wikipedia.org/wiki/高木隆次 "wikilink")
       - 挿入歌 - 「迷いの船出」作詞：[枯堂夏子](../Page/枯堂夏子.md "wikilink")、作曲：工藤隆、編曲：工藤隆、歌：THE八犬士（関俊彦、山口勝平、日高のり子、大塚明夫、西村智博、山寺宏一、玄田哲章、高山みなみ）
@@ -138,42 +138,42 @@ THE八犬伝の1話、新章の3・4話では個性的な[アニメーター](ht
 
 ## キャスト
 
-  - 伏姫：[伊藤美紀](https://ja.wikipedia.org/wiki/伊藤美紀_\(声優\) "wikilink")
-  - 犬江親兵衛：[日高のり子](https://ja.wikipedia.org/wiki/日高のり子 "wikilink")
+  - 伏姫：[伊藤美紀](../Page/伊藤美紀_\(声優\).md "wikilink")
+  - 犬江親兵衛：[日高のり子](../Page/日高のり子.md "wikilink")
   - 犬川荘助：[山口勝平](../Page/山口勝平.md "wikilink")
   - 犬村大角：[大塚明夫](../Page/大塚明夫.md "wikilink")
   - 犬坂毛野：[高山みなみ](../Page/高山みなみ.md "wikilink")
       -
         制作当初は[林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")が声優として正式決定していたが、登場する新章までの制作が遅れ、スケジュールの都合から降板・交代している。
   - 犬山道節：[山寺宏一](https://ja.wikipedia.org/wiki/山寺宏一 "wikilink")
-  - 犬飼現八：[西村智博](https://ja.wikipedia.org/wiki/西村朋紘 "wikilink")
+  - 犬飼現八：[西村智博](../Page/西村朋紘.md "wikilink")
   - 犬塚信乃：[関俊彦](../Page/関俊彦.md "wikilink")
   - 犬田小文吾：[玄田哲章](https://ja.wikipedia.org/wiki/玄田哲章 "wikilink")
-  - 浜路：[本多知恵子](https://ja.wikipedia.org/wiki/本多知恵子 "wikilink")・[久川綾](../Page/久川綾.md "wikilink")
+  - 浜路：[本多知恵子](../Page/本多知恵子.md "wikilink")・[久川綾](../Page/久川綾.md "wikilink")
   - 網干左母二郎：[鈴置洋孝](https://ja.wikipedia.org/wiki/鈴置洋孝 "wikilink")・[池田秀一](../Page/池田秀一.md "wikilink")
-  - [足利成氏](https://ja.wikipedia.org/wiki/足利成氏 "wikilink")：[今西正男](https://ja.wikipedia.org/wiki/今西正男 "wikilink")
-  - [里見義実](../Page/里見義実.md "wikilink")：[大木民夫](https://ja.wikipedia.org/wiki/大木民夫 "wikilink")
-  - [里見義成](../Page/里見義成.md "wikilink")：[森川智之](https://ja.wikipedia.org/wiki/森川智之 "wikilink")・[坂東尚樹](https://ja.wikipedia.org/wiki/坂東尚樹 "wikilink")
+  - [足利成氏](../Page/足利成氏.md "wikilink")：[今西正男](../Page/今西正男.md "wikilink")
+  - [里見義実](../Page/里見義実.md "wikilink")：[大木民夫](../Page/大木民夫.md "wikilink")
+  - [里見義成](../Page/里見義成.md "wikilink")：[森川智之](../Page/森川智之.md "wikilink")・[坂東尚樹](../Page/坂東尚樹.md "wikilink")
   - 犬塚番作：[青野武](../Page/青野武.md "wikilink")
-  - 丶大法師：[江原正士](https://ja.wikipedia.org/wiki/江原正士 "wikilink")
+  - 丶大法師：[江原正士](../Page/江原正士.md "wikilink")
   - 金碗大輔：江原正士
   - 玉梓：[勝生真沙子](../Page/勝生真沙子.md "wikilink")
   - 船虫：勝生真沙子
-  - 雛衣：[玉川紗己子](https://ja.wikipedia.org/wiki/玉川砂記子 "wikilink")
+  - 雛衣：[玉川紗己子](../Page/玉川砂記子.md "wikilink")
   - ふさ八：[速水奨](../Page/速水奨.md "wikilink")
   - ぬい：[鷹森淑乃](../Page/鷹森淑乃.md "wikilink")
-  - 五十子：[浅井淑子](https://ja.wikipedia.org/wiki/浅井淑子_\(声優\) "wikilink")
-  - 安西景連：[小関一](https://ja.wikipedia.org/wiki/小関一 "wikilink")
+  - 五十子：[浅井淑子](../Page/浅井淑子_\(声優\).md "wikilink")
+  - 安西景連：[小関一](../Page/小関一.md "wikilink")
   - 亀篠：[野沢雅子](../Page/野沢雅子.md "wikilink")
-  - 馬加大記：[西村知道](https://ja.wikipedia.org/wiki/西村知道 "wikilink")
+  - 馬加大記：[西村知道](../Page/西村知道.md "wikilink")
   - 赤岩一角：[大塚周夫](../Page/大塚周夫.md "wikilink")
-  - 四六城木工作：[糸博](https://ja.wikipedia.org/wiki/糸博 "wikilink")
-  - 篭山逸東太：[宇垣秀成](https://ja.wikipedia.org/wiki/宇垣秀成 "wikilink")
-  - 墓田須藤：[沢りつお](https://ja.wikipedia.org/wiki/沢りつお "wikilink")
-  - ひくて：[井上喜久子](https://ja.wikipedia.org/wiki/井上喜久子 "wikilink")
-  - 夏引：[安達忍](https://ja.wikipedia.org/wiki/安達忍 "wikilink")
-  - 娼内：[小室正幸](https://ja.wikipedia.org/wiki/小室正幸 "wikilink")
-  - 泡雪：[大友龍三郎](https://ja.wikipedia.org/wiki/大友龍三郎 "wikilink")
+  - 四六城木工作：[糸博](../Page/糸博.md "wikilink")
+  - 篭山逸東太：[宇垣秀成](../Page/宇垣秀成.md "wikilink")
+  - 墓田須藤：[沢りつお](../Page/沢りつお.md "wikilink")
+  - ひくて：[井上喜久子](../Page/井上喜久子.md "wikilink")
+  - 夏引：[安達忍](../Page/安達忍.md "wikilink")
+  - 娼内：[小室正幸](../Page/小室正幸.md "wikilink")
+  - 泡雪：[大友龍三郎](../Page/大友龍三郎.md "wikilink")
   - ナレーション：[肝付兼太](../Page/肝付兼太.md "wikilink")
 
 ## 脚注

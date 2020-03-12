@@ -1,7 +1,7 @@
 > この記事は[Silly-Go-Round](https://ja.wikipedia.org/wiki/Silly-Go-Round)から翻訳されています。
 
 
-「**Silly-Go-Round**」（シリー・ゴー・ラウンド）は、[FictionJunction YUUKAの](https://ja.wikipedia.org/wiki/FictionJunction_YUUKA "wikilink")5枚目のシングルである。
+「**Silly-Go-Round**」（シリー・ゴー・ラウンド）は、[FictionJunction YUUKAの](../Page/FictionJunction_YUUKA.md "wikilink")5枚目のシングルである。
 
 ## 収録曲
 

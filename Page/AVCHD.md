@@ -3,19 +3,19 @@
 
 [AVCHD.svg](https://ja.wikipedia.org/wiki/File:AVCHD.svg "fig:AVCHD.svg")
 
-**AVCHD**（**A**dvanced **V**ideo **C**oding **H**igh **D**efinition, エーブイシーエイチディー）とは、[Blu-ray Discのアプリケーションフォーマット](../Page/Blu-ray_Disc.md "wikilink")「[BDMV](https://ja.wikipedia.org/wiki/BDMV "wikilink")」を応用し、[ハイビジョン](../Page/ハイビジョン.md "wikilink")映像を[ビデオカメラ](../Page/ビデオカメラ.md "wikilink")で記録するための規格の一つであり、[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")と[ソニー](../Page/ソニー.md "wikilink")が共有する登録商標（第5011316号）である。
+**AVCHD**（**A**dvanced **V**ideo **C**oding **H**igh **D**efinition, エーブイシーエイチディー）とは、[Blu-ray Discのアプリケーションフォーマット](../Page/Blu-ray_Disc.md "wikilink")「[BDMV](../Page/BDMV.md "wikilink")」を応用し、[ハイビジョン](../Page/ハイビジョン.md "wikilink")映像を[ビデオカメラ](../Page/ビデオカメラ.md "wikilink")で記録するための規格の一つであり、[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")と[ソニー](../Page/ソニー.md "wikilink")が共有する登録商標（第5011316号）である。
 
 ## 概要
 
-AVCHDは2006年5月に松下電器産業（現:パナソニック）とソニーが基本仕様を策定したハイビジョン動画記録フォーマットである。[8センチDVD](https://ja.wikipedia.org/wiki/8センチDVD "wikilink")の記録容量でも十分な高画質の動画が撮影できるよう、映像には高効率符号化が可能な[H.264 AVC方式を採用](https://ja.wikipedia.org/wiki/H.264 "wikilink")/MPEG-4、音声には[ドルビーデジタル](../Page/ドルビーデジタル.md "wikilink") (AC-3) 方式（[LPCM](https://ja.wikipedia.org/wiki/PCM "wikilink")：オプション）を採用、多重化に[MPEG2-TSを採用したものである](https://ja.wikipedia.org/wiki/MPEG-2システム#トランスポートストリーム "wikilink")。
+AVCHDは2006年5月に松下電器産業（現:パナソニック）とソニーが基本仕様を策定したハイビジョン動画記録フォーマットである。[8センチDVD](https://ja.wikipedia.org/wiki/8センチDVD "wikilink")の記録容量でも十分な高画質の動画が撮影できるよう、映像には高効率符号化が可能な[H.264 AVC方式を採用](../Page/H.264.md "wikilink")/MPEG-4、音声には[ドルビーデジタル](../Page/ドルビーデジタル.md "wikilink") (AC-3) 方式（[LPCM](https://ja.wikipedia.org/wiki/PCM "wikilink")：オプション）を採用、多重化に[MPEG2-TSを採用したものである](https://ja.wikipedia.org/wiki/MPEG-2システム#トランスポートストリーム "wikilink")。
 
 またハイビジョン以外に従来の標準方式である480/60iもサポートしている。
 
-AVCHDでは従来の[HDV](https://ja.wikipedia.org/wiki/HDV "wikilink")規格などのように1つの記録メディア向けの規格ではなく、[ファイルシステム](../Page/ファイルシステム.md "wikilink")を介して、複数の記録メディアをサポートできるように設計されている。システムビットレートは最大で28Mbps、DVDに記録する場合は18Mbpsまでになっている。2009年1月には[720p](https://ja.wikipedia.org/wiki/720p "wikilink") (1280×720) で撮影するビデオカメラやデジタルカメラ限定の「**AVCHD Lite**」規格を追加した。AVCHD規格の一部なのでAVCHD対応プレイヤーなどで再生できる。
+AVCHDでは従来の[HDV](../Page/HDV.md "wikilink")規格などのように1つの記録メディア向けの規格ではなく、[ファイルシステム](../Page/ファイルシステム.md "wikilink")を介して、複数の記録メディアをサポートできるように設計されている。システムビットレートは最大で28Mbps、DVDに記録する場合は18Mbpsまでになっている。2009年1月には[720p](https://ja.wikipedia.org/wiki/720p "wikilink") (1280×720) で撮影するビデオカメラやデジタルカメラ限定の「**AVCHD Lite**」規格を追加した。AVCHD規格の一部なのでAVCHD対応プレイヤーなどで再生できる。
 
 [パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")からは放送向けに[フレーム単位での](../Page/コマ_\(映画・漫画\).md "wikilink")[編集](../Page/編集.md "wikilink")性を確保した「[AVC-Intra](https://ja.wikipedia.org/wiki/AVC-Intra "wikilink")」というフォーマットも発表され製品が発売されているが、AVCHD規格とは無関係である。
 
-ハイビジョン放送の録画規格である[AVCREC](../Page/AVCREC.md "wikilink")とは技術上近似しているが互換性はなく、[コピー制御にも対応しない](https://ja.wikipedia.org/wiki/コピーガード "wikilink")。
+ハイビジョン放送の録画規格である[AVCREC](../Page/AVCREC.md "wikilink")とは技術上近似しているが互換性はなく、[コピー制御にも対応しない](../Page/コピーガード.md "wikilink")。
 
 当初は[民生用](../Page/民生用.md "wikilink")として開発された規格であったが、徐々に[業務用](../Page/業務用.md "wikilink")分野にも進出した。[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")が「AVCCAM」シリーズで先行し、[ソニー](../Page/ソニー.md "wikilink")も[2009年](../Page/2009年.md "wikilink")[11月](../Page/11月.md "wikilink")に「NXCAM」を発売してこれに続いた。
 
@@ -23,9 +23,9 @@ AVCHDでは従来の[HDV](https://ja.wikipedia.org/wiki/HDV "wikilink")規格な
 
 ## 経緯
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")5月 - 松下電器産業（現・[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")）と[ソニー](../Page/ソニー.md "wikilink")が基本仕様策定（DVDメディア用）を発表
+  - [2006年](../Page/2006年.md "wikilink")5月 - 松下電器産業（現・[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")）と[ソニー](../Page/ソニー.md "wikilink")が基本仕様策定（DVDメディア用）を発表
   - 2006年7月 - 拡張規格として埋め込み型ハードディスクドライブ (HDD)、[SDメモリーカード](https://ja.wikipedia.org/wiki/SDメモリーカード "wikilink")、[メモリースティック PRO対応規格を発表し](../Page/メモリースティック.md "wikilink")、同時にライセンスを開始
-  - 2006年7月 - [キヤノン](https://ja.wikipedia.org/wiki/キヤノン "wikilink")、[サムスン等企業が規格賛同を表明](https://ja.wikipedia.org/wiki/サムスングループ "wikilink")
+  - 2006年7月 - [キヤノン](https://ja.wikipedia.org/wiki/キヤノン "wikilink")、[サムスン等企業が規格賛同を表明](../Page/サムスングループ.md "wikilink")
   - 2006年8月 - 初のAVCHD規格対応、DVD記録のHDR-UX1がソニーから発売
   - 2006年9月 - ソニーからHDD記録のHDR-SR1発売
   - 2006年11月 - AVCHD規格メディア（DVD・メモリーカード等）の再生に対応した[プレイステーション3が発売](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")
@@ -48,7 +48,7 @@ AVCHDでは従来の[HDV](https://ja.wikipedia.org/wiki/HDV "wikilink")規格な
 
 主な現行機種
 
-  - ソニー [ハンディカム](https://ja.wikipedia.org/wiki/ハンディカム "wikilink")
+  - ソニー [ハンディカム](../Page/ハンディカム.md "wikilink")
 
 :\*HDR-CX500V/CX520V、HDR-CX12、HDR-TG5V（内蔵メモリー+メモリースティックPRO Duo）
 
@@ -208,7 +208,7 @@ AVCHDでは従来の[HDV](https://ja.wikipedia.org/wiki/HDV "wikilink")規格な
 
 ### ビデオ編集ソフト
 
-  - [アビッド・テクノロジー](https://ja.wikipedia.org/wiki/アビッド・テクノロジー "wikilink")
+  - [アビッド・テクノロジー](../Page/アビッド・テクノロジー.md "wikilink")
 
 :\*[Avid Media Composer](https://ja.wikipedia.org/wiki/Avid_Media_Composer "wikilink") - Windows・Mac用ノンリニア編集ソフト（プロフェッショナル向け）
 
@@ -216,7 +216,7 @@ AVCHDでは従来の[HDV](https://ja.wikipedia.org/wiki/HDV "wikilink")規格な
 
   - [アップル](../Page/アップル_\(企業\).md "wikilink")
 
-:\*[Final Cut Pro](https://ja.wikipedia.org/wiki/Final_Cut_Pro "wikilink")（ファイナル・カット・プロ）－Mac用ノンリニア編集ソフト（プロフェッショナル向け）
+:\*[Final Cut Pro](../Page/Final_Cut_Pro.md "wikilink")（ファイナル・カット・プロ）－Mac用ノンリニア編集ソフト（プロフェッショナル向け）
 
 :\*[Final Cut Express](https://ja.wikipedia.org/wiki/Final_Cut_Express "wikilink")（ファイナルカット・エクスプレス）－Mac用ノンリニア編集ソフト（Final Cut Pro の廉価版。バージョン4より対応）
 
@@ -224,7 +224,7 @@ AVCHDでは従来の[HDV](https://ja.wikipedia.org/wiki/HDV "wikilink")規格な
 
   - [Adobe](https://ja.wikipedia.org/wiki/Adobe "wikilink")
 
-:\*[Adobe Premiere](https://ja.wikipedia.org/wiki/Adobe_Premiere "wikilink")（アドビ・プレミア）－Windows・Mac用ノンリニア編集ソフト（Premiere Pro CS4 / Premiere Elements 7 より対応）
+:\*[Adobe Premiere](../Page/Adobe_Premiere.md "wikilink")（アドビ・プレミア）－Windows・Mac用ノンリニア編集ソフト（Premiere Pro CS4 / Premiere Elements 7 より対応）
 
   - [コーレル](../Page/コーレル.md "wikilink")
 
@@ -238,7 +238,7 @@ AVCHDでは従来の[HDV](https://ja.wikipedia.org/wiki/HDV "wikilink")規格な
 
   - [グラスバレー](../Page/グラスバレー_\(企業\).md "wikilink")（旧社名：カノープス→トムソン・カノープス）
 
-:\*[EDIUS](https://ja.wikipedia.org/wiki/EDIUS "wikilink")（エディウス）－Windows用日本国産ノンリニア編集ソフト
+:\*[EDIUS](../Page/EDIUS.md "wikilink")（エディウス）－Windows用日本国産ノンリニア編集ソフト
 
   - [CyberLink](https://ja.wikipedia.org/wiki/CyberLink "wikilink")
 
@@ -270,7 +270,7 @@ AVCHDの編集に対応しているノンリニア編集ソフトとして、グ
 
 :\*[TMPGEnc](../Page/TMPGEnc.md "wikilink") 4.0 XPress（v4.5以降） - Windows用国産ビデオエンコードソフト
 
-:\*:2008年6月19日 (Ver 4.5.0.252) のアップデートでAVCHDの入力に対応し、用途に応じた様々な形式に変換できる。出力は、AVCHDに準拠しないが、[H.264 AVC形式の出力は可能](https://ja.wikipedia.org/wiki/H.264 "wikilink")/MPEG-4。
+:\*:2008年6月19日 (Ver 4.5.0.252) のアップデートでAVCHDの入力に対応し、用途に応じた様々な形式に変換できる。出力は、AVCHDに準拠しないが、[H.264 AVC形式の出力は可能](../Page/H.264.md "wikilink")/MPEG-4。
 
 ### 再コンテナソフト
 
@@ -412,30 +412,30 @@ AVCHDはビデオ記録用としては新しい規格（ディスクメディア
 
 ## 記録フォーマット
 
-上でも一部触れているとおり、販売広告の表現上では「DVDに[ハイビジョン](../Page/ハイビジョン.md "wikilink")が録画できる」というものであるが、ここでいう「DVD」とは既成の[DVDレコーダー](../Page/DVDレコーダー.md "wikilink")やDVDプレーヤーで録画・再生が可能なものや市販のDVDビデオソフトなどのようなAVCHDが登場するまでの一般的なDVDビデオソフト（厳密な規格区分としては[DVD-Video](../Page/DVD-Video.md "wikilink")形式と[DVD-VR](https://ja.wikipedia.org/wiki/DVD-VR "wikilink")形式がある）を意味しているわけではなく、記録メディアの物理的な器としてのDVDを表している。
+上でも一部触れているとおり、販売広告の表現上では「DVDに[ハイビジョン](../Page/ハイビジョン.md "wikilink")が録画できる」というものであるが、ここでいう「DVD」とは既成の[DVDレコーダー](../Page/DVDレコーダー.md "wikilink")やDVDプレーヤーで録画・再生が可能なものや市販のDVDビデオソフトなどのようなAVCHDが登場するまでの一般的なDVDビデオソフト（厳密な規格区分としては[DVD-Video](../Page/DVD-Video.md "wikilink")形式と[DVD-VR](../Page/DVD-VR.md "wikilink")形式がある）を意味しているわけではなく、記録メディアの物理的な器としてのDVDを表している。
 
 つまりAVCHDディスクとは、従来のDVDビデオソフトとは異なる圧縮方式（[コーデック](../Page/コーデック.md "wikilink")：CODEC）や異なる規格（記録フォーマット）でデータを記録したものを指し、従来のDVD記録方式のカムコーダで作成したディスクと物理的には同じものであるが、論理的に記録されているデータが異なる。つまりこれを通常のDVDプレーヤーで再生することは**できない**。なお、メーカー側でもDVDプレーヤーでの使用は故障の原因となるので避けるようにとの旨、カタログやWEB等で明記している。
 
-AVCHDでは多重化には従来技術のMPEG2-TSが用いられているが、DVDビデオにおける[MPEG-2](../Page/MPEG-2.md "wikilink")圧縮方式の代わりに[H.264](https://ja.wikipedia.org/wiki/H.264 "wikilink")圧縮方式でハイビジョン動画ファイルを記録する。但し、従来のDVDビデオソフトがMPEG-2ファイルを直接記録しているだけではないのと同様に、[H.264](https://ja.wikipedia.org/wiki/H.264 "wikilink")のファイルをMPEG2-TSで多重化した上にさらに独自の形式に加工・変換処理したものが記録されている。
+AVCHDでは多重化には従来技術のMPEG2-TSが用いられているが、DVDビデオにおける[MPEG-2](../Page/MPEG-2.md "wikilink")圧縮方式の代わりに[H.264](../Page/H.264.md "wikilink")圧縮方式でハイビジョン動画ファイルを記録する。但し、従来のDVDビデオソフトがMPEG-2ファイルを直接記録しているだけではないのと同様に、[H.264](../Page/H.264.md "wikilink")のファイルをMPEG2-TSで多重化した上にさらに独自の形式に加工・変換処理したものが記録されている。
 
 上記カムコーダに付属するソフトウェアを用いるか、同一メーカーによるカムコーダに直接接続する[DVDライター](https://ja.wikipedia.org/wiki/DVDライター "wikilink")等を用いると、メニューを含んだAVCHD方式のハイビジョンを再生できる[AVCHDディスク](https://ja.wikipedia.org/wiki/AVCHDディスク "wikilink")を作成することも可能であり、AVCHDカムコーダーから[ハイビジョン](../Page/ハイビジョン.md "wikilink")画質を損なわずに、安価な12cm[DVD-R](https://ja.wikipedia.org/wiki/DVD-R "wikilink")などへのバックアップ可能なソリューションとなる。
 
 このDVD記録AVCHDカムコーダで撮影時に記録された8cm DVDも[ファイナライズ](../Page/ファイナライズ.md "wikilink")後はAVCHDディスクであり、[プレイステーション3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")・[BDレコーダー](https://ja.wikipedia.org/wiki/BDレコーダー "wikilink")・パソコン等で、ハイビジョン画質で再生できる（ただし8cmメディアに非対応な機器もある）。
 
-AVCHDディスクは国際標準規格として制定されたものではなく、Blu-ray Disc陣営であるソニーとパナソニックが中心となって決められたカムコーダー用[デファクトスタンダード](../Page/デファクトスタンダード.md "wikilink")であり、各社の付属ソフト等で作成したAVCHDディスクは、8cm・12cmディスクとも互換性がある。将来的にこの方式のハイビジョン映画ソフト等が出現する可能性は低いが、個別の[H.264](https://ja.wikipedia.org/wiki/H.264 "wikilink")圧縮方式やディスクの論理フォーマット ([UDF](../Page/ユニバーサルディスクフォーマット.md "wikilink") 2.5) などは[Blu-ray Disc](../Page/Blu-ray_Disc.md "wikilink") (BD) や[HD DVDでも採用されている一般的な新しい規格であり](../Page/HD_DVD.md "wikilink")、各メーカーは今後とも開発・発売されるBlu-ray Disc (BD) レコーダー製品や[パソコンでの再生や編集をサポートしていくと明言している](../Page/パーソナルコンピュータ.md "wikilink")。
+AVCHDディスクは国際標準規格として制定されたものではなく、Blu-ray Disc陣営であるソニーとパナソニックが中心となって決められたカムコーダー用[デファクトスタンダード](../Page/デファクトスタンダード.md "wikilink")であり、各社の付属ソフト等で作成したAVCHDディスクは、8cm・12cmディスクとも互換性がある。将来的にこの方式のハイビジョン映画ソフト等が出現する可能性は低いが、個別の[H.264](../Page/H.264.md "wikilink")圧縮方式やディスクの論理フォーマット ([UDF](../Page/ユニバーサルディスクフォーマット.md "wikilink") 2.5) などは[Blu-ray Disc](../Page/Blu-ray_Disc.md "wikilink") (BD) や[HD DVDでも採用されている一般的な新しい規格であり](../Page/HD_DVD.md "wikilink")、各メーカーは今後とも開発・発売されるBlu-ray Disc (BD) レコーダー製品や[パソコンでの再生や編集をサポートしていくと明言している](../Page/パーソナルコンピュータ.md "wikilink")。
 
 なお、上記のBD/DVDレコーダーはAVCHDの再生ができるだけで、テレビ放送をAVCHD形式で録画できるわけではない。テレビ放送をハイビジョン解像度でMPEG-4/AVC圧縮記録する規格として[AVCREC](../Page/AVCREC.md "wikilink")があるが、基本的にはAVCHDとは別個の規格である。
 
 ## 関連項目
 
-  - [High Definition Video](https://ja.wikipedia.org/wiki/HDV "wikilink") (HDV)
+  - [High Definition Video](../Page/HDV.md "wikilink") (HDV)
   - [XAVC](https://ja.wikipedia.org/wiki/XAVC "wikilink") - ソニーが発表した[4K UHD対応のビデオフォーマット](https://ja.wikipedia.org/wiki/4K_UHD "wikilink")
   - [Blu-ray Disc](../Page/Blu-ray_Disc.md "wikilink") (BD)
-  - [BDMV](https://ja.wikipedia.org/wiki/BDMV "wikilink") (BD-Video) - AVCHDの元となったアプリケーションフォーマット
+  - [BDMV](../Page/BDMV.md "wikilink") (BD-Video) - AVCHDの元となったアプリケーションフォーマット
   - [AVC-Intra](https://ja.wikipedia.org/wiki/AVC-Intra "wikilink")
-  - [H.264 AVC](https://ja.wikipedia.org/wiki/H.264 "wikilink")/MPEG-4 - AVCHDで使用しているビデオコーデック
+  - [H.264 AVC](../Page/H.264.md "wikilink")/MPEG-4 - AVCHDで使用しているビデオコーデック
   - [MPEG-2 TS](../Page/MPEG-2システム.md "wikilink") - AVCHDで使用している多重化フォーマット
-  - [MP4](https://ja.wikipedia.org/wiki/MP4 "wikilink")
+  - [MP4](../Page/MP4.md "wikilink")
   - [AVCREC](../Page/AVCREC.md "wikilink")
   - [HD Rec](../Page/HD_Rec.md "wikilink")
   - [ソニーのビデオカメラ製品一覧](https://ja.wikipedia.org/wiki/ソニーのビデオカメラ製品一覧 "wikilink")

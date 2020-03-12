@@ -1,7 +1,7 @@
 > この記事は[Vivid Colors](https://ja.wikipedia.org/wiki/Vivid_Colors)から翻訳されています。
 
 
-「**Vivid Colors**」（ヴィヴィッド カラーズ）は、日本の[ロックバンド](../Page/バンド_\(音楽\).md "wikilink")、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の2作目のシングル。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[7月6日](../Page/7月6日.md "wikilink")発売。発売元は[Ki/oon Sony Records](https://ja.wikipedia.org/wiki/キューンミュージック "wikilink")。
+「**Vivid Colors**」（ヴィヴィッド カラーズ）は、日本の[ロックバンド](../Page/バンド_\(音楽\).md "wikilink")、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の2作目のシングル。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[7月6日](../Page/7月6日.md "wikilink")発売。発売元は[Ki/oon Sony Records](../Page/キューンミュージック.md "wikilink")。
 
 ## 解説
 
@@ -19,9 +19,9 @@ CDシングルとしては「[Blurry Eyes](../Page/Blurry_Eyes.md "wikilink")」
       -
         [日本テレビ系番組](../Page/日本テレビ放送網.md "wikilink")『[ぐるぐるナインティナイン](../Page/ぐるぐるナインティナイン.md "wikilink")』エンディングテーマ。
         1995年1月から行われた公式ファンクラブ発足記念ライブツアー「Ciel/winter '95」で「Vivid Colors」として初披露された\[1\]。ちなみに、[インディーズ](../Page/インディーズ.md "wikilink")時代に仮タイトルの「New Song」のままライブで披露した事がある。
-        曲名の「Vivid」は、[hyde](https://ja.wikipedia.org/wiki/hyde "wikilink")が曲の[タイトル](https://ja.wikipedia.org/wiki/タイトル "wikilink")を考えていたときに、[ファン](../Page/ファン.md "wikilink")からもらった[カップ](https://ja.wikipedia.org/wiki/カップ "wikilink")に「Vivid」と書いてあったことに由来する。作曲したkenによると[名古屋](../Page/名古屋.md "wikilink")の大学時代に曲のサビはすでにあったと思われる\[2\]。
+        曲名の「Vivid」は、[hyde](https://ja.wikipedia.org/wiki/hyde "wikilink")が曲の[タイトル](https://ja.wikipedia.org/wiki/タイトル "wikilink")を考えていたときに、[ファン](../Page/ファン.md "wikilink")からもらった[カップ](../Page/カップ.md "wikilink")に「Vivid」と書いてあったことに由来する。作曲したkenによると[名古屋](../Page/名古屋.md "wikilink")の大学時代に曲のサビはすでにあったと思われる\[2\]。
         また、1995年9月22日に[テレビ朝日](../Page/テレビ朝日.md "wikilink")系音楽番組『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』に初出演を果たし、この曲が披露された。
-        3rdアルバム『[heavenly](https://ja.wikipedia.org/wiki/heavenly_\(L'Arc〜en〜Cielのアルバム\) "wikilink")』にはアルバムバージョンという表記はされていないが、ミックス違いで収録されている。ちなみに、この曲の[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")は2種類存在し、どちらもMV集『[CHRONICLE 0 -ZERO-](../Page/CHRONICLE_0_-ZERO-.md "wikilink")』に収録されている。
+        3rdアルバム『[heavenly](https://ja.wikipedia.org/wiki/heavenly_\(L'Arc〜en〜Cielのアルバム\) "wikilink")』にはアルバムバージョンという表記はされていないが、ミックス違いで収録されている。ちなみに、この曲の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")は2種類存在し、どちらもMV集『[CHRONICLE 0 -ZERO-](../Page/CHRONICLE_0_-ZERO-.md "wikilink")』に収録されている。
 2.  **Brilliant Years**
       - 作詞・作曲:hyde / 編曲:L'Arc〜en〜Ciel
     <!-- end list -->
@@ -34,7 +34,7 @@ CDシングルとしては「[Blurry Eyes](../Page/Blurry_Eyes.md "wikilink")」
 
   - hyde：[Vocal](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
   - ken：[Guitars](../Page/ギター.md "wikilink")
-  - tetsu：[Bass](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - tetsu：[Bass](../Page/ベース_\(弦楽器\).md "wikilink")
   - sakura：[Drums](../Page/ドラムセット.md "wikilink")
   - Vivid Colors
       - 西平彰：[Keyboard](../Page/キーボード_\(楽器\).md "wikilink")
@@ -57,8 +57,8 @@ CDシングルとしては「[Blurry Eyes](../Page/Blurry_Eyes.md "wikilink")」
 
 <!-- end list -->
 
-  - 『[The Best of L'Arc〜en〜Ciel 1994-1998](https://ja.wikipedia.org/wiki/The_Best_of_L'Arc〜en〜Ciel "wikilink")』 (\#1)
-  - 『[The Best of L'Arc〜en〜Ciel c/w](https://ja.wikipedia.org/wiki/The_Best_of_L'Arc〜en〜Ciel "wikilink")』 (\#2)
+  - 『[The Best of L'Arc〜en〜Ciel 1994-1998](../Page/The_Best_of_L'Arc〜en〜Ciel.md "wikilink")』 (\#1)
+  - 『[The Best of L'Arc〜en〜Ciel c/w](../Page/The_Best_of_L'Arc〜en〜Ciel.md "wikilink")』 (\#2)
   - 『[TWENITY 1991-1996](https://ja.wikipedia.org/wiki/TWENITY "wikilink")』 (\#1)
 
 ## 脚注
@@ -69,4 +69,4 @@ CDシングルとしては「[Blurry Eyes](../Page/Blurry_Eyes.md "wikilink")」
 
 1.  『is』、[シンコー・ミュージック・エンタテイメント](https://ja.wikipedia.org/wiki/シンコー・ミュージック・エンタテイメント "wikilink")、p.69-p.70、1996年
 2.  [中京テレビ系番組](../Page/中京テレビ放送.md "wikilink")『[キス・ミス・チック](../Page/キス・ミス・チック.md "wikilink")』 1995年9月2日の発言より
-3.  全ての曲のなかで最も短いのは[インスト曲である](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")「[hole](https://ja.wikipedia.org/wiki/NEO_UNIVERSE/finale "wikilink")」(1分08秒)。また、これより短い演奏時間の楽曲として、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")にカバー曲「[I Love Rock'n Roll](https://ja.wikipedia.org/wiki/I_Love_Rock'n_Roll_\(L'Arc〜en〜Cielの曲\) "wikilink")」(2分49秒)を発表している。
+3.  全ての曲のなかで最も短いのは[インスト曲である](../Page/器楽曲.md "wikilink")「[hole](https://ja.wikipedia.org/wiki/NEO_UNIVERSE/finale "wikilink")」(1分08秒)。また、これより短い演奏時間の楽曲として、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")にカバー曲「[I Love Rock'n Roll](https://ja.wikipedia.org/wiki/I_Love_Rock'n_Roll_\(L'Arc〜en〜Cielの曲\) "wikilink")」(2分49秒)を発表している。

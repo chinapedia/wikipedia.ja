@@ -1,13 +1,13 @@
 > この記事は[DiXiM](https://ja.wikipedia.org/wiki/DiXiM)から翻訳されています。
 
 
-**DiXiM**（ディクシム）は、株式会社[デジオン](https://ja.wikipedia.org/wiki/デジオン "wikilink")が開発・販売している、家庭内でデータの共有ができるソフトウェア。[Digital Living Network Alliance](https://ja.wikipedia.org/wiki/Digital_Living_Network_Alliance "wikilink")（DLNA）が定めるガイドラインに準拠した形で開発されている。
+**DiXiM**（ディクシム）は、株式会社[デジオン](https://ja.wikipedia.org/wiki/デジオン "wikilink")が開発・販売している、家庭内でデータの共有ができるソフトウェア。[Digital Living Network Alliance](../Page/Digital_Living_Network_Alliance.md "wikilink")（DLNA）が定めるガイドラインに準拠した形で開発されている。
 
 ## 概要
 
 [UPnP](https://ja.wikipedia.org/wiki/UPnP "wikilink")（Universal Plug and Play）に対応しており、DiXiM同士に限らず、原則としてUPnP AV DCP（Device Control Profile）に対応している製品であれば、相互に映像・音楽などをネットワーク上で共有することが可能。
 
-[2004年](../Page/2004年.md "wikilink")9月にはソフトウェアが単体で発売され、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[5月28日](../Page/5月28日.md "wikilink")にDiXiM2が発売された。その後、ソフト単体での販売は行っていなかったが、[アイ・オー・データ機器](https://ja.wikipedia.org/wiki/アイ・オー・データ機器 "wikilink")の[LANDISK](https://ja.wikipedia.org/wiki/LANDISK "wikilink")製品に最新版が無償添付されたのを経て[2009年](../Page/2009年.md "wikilink")[7月15日](../Page/7月15日.md "wikilink")に[DTCP-IP](https://ja.wikipedia.org/wiki/DTCP-IP "wikilink")に対応したDiXiM Digital TVがダウンロード販売された。
+[2004年](../Page/2004年.md "wikilink")9月にはソフトウェアが単体で発売され、[2006年](../Page/2006年.md "wikilink")[5月28日](../Page/5月28日.md "wikilink")にDiXiM2が発売された。その後、ソフト単体での販売は行っていなかったが、[アイ・オー・データ機器](../Page/アイ・オー・データ機器.md "wikilink")の[LANDISK](https://ja.wikipedia.org/wiki/LANDISK "wikilink")製品に最新版が無償添付されたのを経て[2009年](../Page/2009年.md "wikilink")[7月15日](../Page/7月15日.md "wikilink")に[DTCP-IP](https://ja.wikipedia.org/wiki/DTCP-IP "wikilink")に対応したDiXiM Digital TVがダウンロード販売された。
 
 [NECの](../Page/日本電気.md "wikilink")[ハードディスクレコーダー](https://ja.wikipedia.org/wiki/ハードディスクレコーダー "wikilink")「[AX300](https://ja.wikipedia.org/wiki/AX300 "wikilink")」、[東芝](../Page/東芝.md "wikilink")のテレビ「[REGZA](../Page/レグザ.md "wikilink") ZH500/ZV500」用ハードディスクレコーダー、[日立製作所](../Page/日立製作所.md "wikilink")の「[Wooo](../Page/Wooo.md "wikilink")TV UT770」などの[ファームウェア](../Page/ファームウェア.md "wikilink")としても採用されている。
 

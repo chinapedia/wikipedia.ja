@@ -1,11 +1,11 @@
 > この記事は[AYUMI](https://ja.wikipedia.org/wiki/AYUMI)から翻訳されています。
 
 
-**AYUMI**（あゆみ、[1974年](../Page/1974年.md "wikilink")[9月6日](../Page/9月6日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性[ファッションモデル](https://ja.wikipedia.org/wiki/ファッションモデル "wikilink")である。所属事務所は[テンカラット](https://ja.wikipedia.org/wiki/テンカラット "wikilink")。本名：田中歩（旧姓：西川）。旧芸名は「あゆみ」。元『[non-no](https://ja.wikipedia.org/wiki/non-no "wikilink")』専属[モデル](https://ja.wikipedia.org/wiki/モデル "wikilink")。
+**AYUMI**（あゆみ、[1974年](../Page/1974年.md "wikilink")[9月6日](../Page/9月6日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性[ファッションモデル](../Page/ファッションモデル.md "wikilink")である。所属事務所は[テンカラット](../Page/テンカラット.md "wikilink")。本名：田中歩（旧姓：西川）。旧芸名は「あゆみ」。元『[non-no](https://ja.wikipedia.org/wiki/non-no "wikilink")』専属[モデル](https://ja.wikipedia.org/wiki/モデル "wikilink")。
 
 ## 略歴
 
-[2002年](../Page/2002年.md "wikilink")にカメラマンの[田中信吾](https://ja.wikipedia.org/wiki/田中信吾 "wikilink")と結婚し、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に男児、[2009年](../Page/2009年.md "wikilink")に女児を出産した。現在はファッション誌だけでなく、主婦向け雑誌や育児雑誌にもたびたび登場し、活動の場を広げている。
+[2002年](../Page/2002年.md "wikilink")にカメラマンの[田中信吾](https://ja.wikipedia.org/wiki/田中信吾 "wikilink")と結婚し、[2006年](../Page/2006年.md "wikilink")に男児、[2009年](../Page/2009年.md "wikilink")に女児を出産した。現在はファッション誌だけでなく、主婦向け雑誌や育児雑誌にもたびたび登場し、活動の場を広げている。
 
 ## 出演
 
@@ -25,7 +25,7 @@
 
 ### CM
 
-  - [NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink") [P901i](https://ja.wikipedia.org/wiki/P901i "wikilink")（[パナソニック モバイルコミュニケーションズ](https://ja.wikipedia.org/wiki/パナソニック_モバイルコミュニケーションズ "wikilink")）
+  - [NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink") [P901i](../Page/P901i.md "wikilink")（[パナソニック モバイルコミュニケーションズ](../Page/パナソニック_モバイルコミュニケーションズ.md "wikilink")）
   - [JCBオリジナルシリーズ](../Page/ジェーシービー.md "wikilink")「かけがえのない毎日」篇（2015年5月）
 
 ## 外部リンク

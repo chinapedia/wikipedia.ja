@@ -1,21 +1,21 @@
 > この記事は[NCR](https://ja.wikipedia.org/wiki/NCR)から翻訳されています。
 
 
-**日本NCR株式会社**（にほんエヌシーアール、）は、[情報処理システム](https://ja.wikipedia.org/wiki/情報処理システム "wikilink")、[通信システム](https://ja.wikipedia.org/wiki/通信システム "wikilink")、[ソフトウェア](../Page/ソフトウェア.md "wikilink")等の製造販売ならびにこれらに関連するサービスの提供する米国[NCR社の日本法人](https://ja.wikipedia.org/wiki/NCR_\(企業\) "wikilink")。
+**日本NCR株式会社**（にほんエヌシーアール、）は、[情報処理システム](../Page/情報処理システム.md "wikilink")、[通信システム](https://ja.wikipedia.org/wiki/通信システム "wikilink")、[ソフトウェア](../Page/ソフトウェア.md "wikilink")等の製造販売ならびにこれらに関連するサービスの提供する米国[NCR社の日本法人](../Page/NCR_\(企業\).md "wikilink")。
 
 ## 概要
 
-情報システムのグローバル企業である[NCRの日本法人で](https://ja.wikipedia.org/wiki/NCR_\(企業\) "wikilink")、製造業に対するデータウェアハウス製品、流通業に対するストア・オートメーション・システム、金融業に対する手形・小切手管理システム、外為システム、コールセンター・システム等の製品を製造販売する他、それら製品のメンテナンス事業等を行っている。一般[消費者](../Page/消費者.md "wikilink")の目に触れる製品では[レジスタ](../Page/キャッシュレジスター.md "wikilink")、[バーコード](../Page/バーコード.md "wikilink")スキャナー等があり、関連会社を通じて[現金自動預け払い機](../Page/現金自動預け払い機.md "wikilink")（ATM）等の金融機関向け機械の製造も行っている。キャッシュレジスターやATMにおいては、世界最大手である。
+情報システムのグローバル企業である[NCRの日本法人で](../Page/NCR_\(企業\).md "wikilink")、製造業に対するデータウェアハウス製品、流通業に対するストア・オートメーション・システム、金融業に対する手形・小切手管理システム、外為システム、コールセンター・システム等の製品を製造販売する他、それら製品のメンテナンス事業等を行っている。一般[消費者](../Page/消費者.md "wikilink")の目に触れる製品では[レジスタ](../Page/キャッシュレジスター.md "wikilink")、[バーコード](../Page/バーコード.md "wikilink")スキャナー等があり、関連会社を通じて[現金自動預け払い機](../Page/現金自動預け払い機.md "wikilink")（ATM）等の金融機関向け機械の製造も行っている。キャッシュレジスターやATMにおいては、世界最大手である。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）12月期の売上構成はコンピュータ製品37%、システム・サービス26%、技術サービス等37%となっている。
+[2005年](../Page/2005年.md "wikilink")（平成17年）12月期の売上構成はコンピュータ製品37%、システム・サービス26%、技術サービス等37%となっている。
 
 ### 歴史
 
-前身は[間宮勝三郎](https://ja.wikipedia.org/wiki/間宮勝三郎 "wikilink")が創業した株式会社間宮堂を[藤山コンツェルン](https://ja.wikipedia.org/wiki/藤山コンツェルン "wikilink")の1社とするべく[藤山愛一郎](https://ja.wikipedia.org/wiki/藤山愛一郎 "wikilink")が出資し改名した日本金銭登録機株式会社である。[間宮精一](https://ja.wikipedia.org/wiki/間宮精一 "wikilink")は藤山の買収後に日本金銭登録機の技師長となった。その後、愛一郎の弟の[田中元彦](https://ja.wikipedia.org/wiki/田中元彦 "wikilink")が副社長、その息子の[田中稀一郎](https://ja.wikipedia.org/wiki/田中稀一郎 "wikilink")が社長を務めた。
+前身は[間宮勝三郎](https://ja.wikipedia.org/wiki/間宮勝三郎 "wikilink")が創業した株式会社間宮堂を[藤山コンツェルン](https://ja.wikipedia.org/wiki/藤山コンツェルン "wikilink")の1社とするべく[藤山愛一郎](../Page/藤山愛一郎.md "wikilink")が出資し改名した日本金銭登録機株式会社である。[間宮精一](https://ja.wikipedia.org/wiki/間宮精一 "wikilink")は藤山の買収後に日本金銭登録機の技師長となった。その後、愛一郎の弟の[田中元彦](https://ja.wikipedia.org/wiki/田中元彦 "wikilink")が副社長、その息子の[田中稀一郎](https://ja.wikipedia.org/wiki/田中稀一郎 "wikilink")が社長を務めた。
 
 戦前に機械式[キャッシュレジスター](../Page/キャッシュレジスター.md "wikilink")の製造を開始し、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・NCR社と提携。[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")後は戦後初の[外資](https://ja.wikipedia.org/wiki/外資 "wikilink")進出となるNCR社からの[出資](https://ja.wikipedia.org/wiki/出資 "wikilink")を受け入れ、100%子会社を基本とするNCRの現地法人としては異例の子会社となった。
 
-レジスターの電子化とともに、[現金自動支払機](../Page/現金自動預け払い機.md "wikilink")（CD）、現金預入払機（ATM）等を開発。また、親会社NCRの開発する大型・中型コンピュータと組み合わせた金融機関向けのコンピュータ機器・システム販売で成長した。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）現在、大手銀行店舗で見ることの出来る、通帳の記入ページを使い終わったら新たな通帳を発行する通帳記入機は日本NCRが[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")（昭和58年）に初めて開発している。
+レジスターの電子化とともに、[現金自動支払機](../Page/現金自動預け払い機.md "wikilink")（CD）、現金預入払機（ATM）等を開発。また、親会社NCRの開発する大型・中型コンピュータと組み合わせた金融機関向けのコンピュータ機器・システム販売で成長した。[2006年](../Page/2006年.md "wikilink")（平成18年）現在、大手銀行店舗で見ることの出来る、通帳の記入ページを使い終わったら新たな通帳を発行する通帳記入機は日本NCRが[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")（昭和58年）に初めて開発している。
 
 [1970年代](../Page/1970年代.md "wikilink")から[1980年代](../Page/1980年代.md "wikilink")にかけては親会社NCRが開発するパソコン、[UNIX](../Page/UNIX.md "wikilink")ワークステーション、[AX](../Page/AX.md "wikilink")パソコンから大型汎用機までをカバーするコンピュータメーカーでもあった\[1\]。また、[アップルコンピュータが日本において](../Page/アップル_\(企業\).md "wikilink")[Macintosh](../Page/Macintosh.md "wikilink")を発売する際には保守についての提携も行っていた。
 
@@ -40,7 +40,7 @@
 <!-- end list -->
 
   -
-    日本初の[システム手帳](https://ja.wikipedia.org/wiki/システム手帳 "wikilink")「システム・ダイアリー」の生みの親であり、日本初の[オフィスコンピュータ](../Page/オフィスコンピュータ.md "wikilink")「電算テレビ」を開発した。「ナショナル金銭登録機」当時に在籍していた（自著『電脳システム手帳』より）。
+    日本初の[システム手帳](../Page/システム手帳.md "wikilink")「システム・ダイアリー」の生みの親であり、日本初の[オフィスコンピュータ](../Page/オフィスコンピュータ.md "wikilink")「電算テレビ」を開発した。「ナショナル金銭登録機」当時に在籍していた（自著『電脳システム手帳』より）。
 
 <!-- end list -->
 
@@ -62,7 +62,7 @@
 
 <!-- end list -->
 
-  - [原田泳幸](https://ja.wikipedia.org/wiki/原田泳幸 "wikilink")
+  - [原田泳幸](../Page/原田泳幸.md "wikilink")
 
 <!-- end list -->
 
@@ -108,7 +108,7 @@
 ## 工場
 
   - 大磯工場（[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[中郡](../Page/中郡.md "wikilink")[大磯町](../Page/大磯町.md "wikilink")高麗1-10-1）（2007年に閉鎖）
-  - 蒲田工場（[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[大田区](https://ja.wikipedia.org/wiki/大田区 "wikilink")[仲六郷](https://ja.wikipedia.org/wiki/仲六郷 "wikilink")）（閉鎖、売却）
+  - 蒲田工場（[東京都](../Page/東京都.md "wikilink")[大田区](https://ja.wikipedia.org/wiki/大田区 "wikilink")[仲六郷](../Page/仲六郷.md "wikilink")）（閉鎖、売却）
 
 ## 関係会社
 
@@ -123,8 +123,8 @@
 
   - 日本金銭登録機創業の地にあった大仁工場は、1940年に「外資排除」を理由に東京芝浦電気（現・[東芝](../Page/東芝.md "wikilink")）が買収し、現在は[東芝テック](../Page/東芝テック.md "wikilink")静岡事業所（大仁）となっている。
   - [1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")（昭和28年）日本最初の民間テレビ放送「[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")」の第一期番組スポンサーとして、深夜の英語ニュースであった「テレニュース」を提供した。
-  - [2000年](../Page/2000年.md "wikilink")（平成12年）6月に[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[相模原市](../Page/相模原市.md "wikilink")のラーニングセンター(研修用施設)跡地を[青山学院大学](https://ja.wikipedia.org/wiki/青山学院大学 "wikilink")に売却し、後に同学[淵野辺キャンパス](https://ja.wikipedia.org/wiki/淵野辺キャンパス "wikilink")となる。
-  - [1994年](../Page/1994年.md "wikilink")（平成6年）に保守サービス部門を分離し関連会社を設立。45歳以上の従業員を対象に関連会社への転籍人事を計画し、転籍要請を拒否した従業員を配転したところ、69人が人事権の濫用として会社側を1999年8月に[提訴](https://ja.wikipedia.org/wiki/提訴 "wikilink")。[2001年](../Page/2001年.md "wikilink")（平成13年）2月に[和解](https://ja.wikipedia.org/wiki/和解 "wikilink")したが、「転籍拒否による配転は人事権の濫用となるか」という点で注目された。
+  - [2000年](../Page/2000年.md "wikilink")（平成12年）6月に[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[相模原市](../Page/相模原市.md "wikilink")のラーニングセンター(研修用施設)跡地を[青山学院大学](../Page/青山学院大学.md "wikilink")に売却し、後に同学[淵野辺キャンパス](https://ja.wikipedia.org/wiki/淵野辺キャンパス "wikilink")となる。
+  - [1994年](../Page/1994年.md "wikilink")（平成6年）に保守サービス部門を分離し関連会社を設立。45歳以上の従業員を対象に関連会社への転籍人事を計画し、転籍要請を拒否した従業員を配転したところ、69人が人事権の濫用として会社側を1999年8月に[提訴](https://ja.wikipedia.org/wiki/提訴 "wikilink")。[2001年](../Page/2001年.md "wikilink")（平成13年）2月に[和解](../Page/和解.md "wikilink")したが、「転籍拒否による配転は人事権の濫用となるか」という点で注目された。
   - [2003年](../Page/2003年.md "wikilink")（平成15年）に[高島屋](../Page/高島屋.md "wikilink")、[西武百貨店](../Page/西武百貨店.md "wikilink")に導入した無線POSシステムが通信の暗号化を行っていないまま運用されていた事が発覚した。[1](http://itpro.nikkeibp.co.jp/members/NBY/ITARTICLE/20030328/1/)
 
 ## 脚注

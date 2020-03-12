@@ -3,13 +3,13 @@
 
 **Wiiのゲームタイトル一覧**（ウィーのゲームタイトルいちらん）では、[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")対応として日本国内で発売された全461の[ゲームソフト](../Page/ゲームソフト.md "wikilink")タイトル（Wii専用ディスクソフト）を発売順に列記する。
 
-  - [バーチャルコンソール](https://ja.wikipedia.org/wiki/バーチャルコンソール "wikilink")で配信されているソフトは**[バーチャルコンソールのゲームタイトル一覧](https://ja.wikipedia.org/wiki/バーチャルコンソールのゲームタイトル一覧 "wikilink")**を参照。
+  - [バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")で配信されているソフトは**[バーチャルコンソールのゲームタイトル一覧](https://ja.wikipedia.org/wiki/バーチャルコンソールのゲームタイトル一覧 "wikilink")**を参照。
   - [Wiiウェア](../Page/Wiiウェア.md "wikilink")で配信されているソフトは**[Wiiウェアのゲームタイトル一覧](../Page/Wiiウェアのゲームタイトル一覧.md "wikilink")**を参照。
 
 ## 一覧表について
 
   - 追加要素を含まない廉価版などは除いている。
-  - 「オンライン」に書かれている文字は、以下の[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")を利用したサービスに対応していることを示す。なお、「Wi-Fi」や「有Wi-Fi」が表記されているソフトのうち、[エレクトロニック・アーツ](https://ja.wikipedia.org/wiki/エレクトロニック・アーツ "wikilink")製ソフトの一部、および[カプコン](https://ja.wikipedia.org/wiki/カプコン "wikilink")の『[モンスターハンター](../Page/モンスターハンター.md "wikilink")シリーズ』は独自サーバーによるネットワーク通信要素のあるソフトであり、ニンテンドーWi-Fiコネクション対応というわけではないが、ここでは便宜上同じものとして扱う。
+  - 「オンライン」に書かれている文字は、以下の[インターネット](../Page/インターネット.md "wikilink")を利用したサービスに対応していることを示す。なお、「Wi-Fi」や「有Wi-Fi」が表記されているソフトのうち、[エレクトロニック・アーツ](../Page/エレクトロニック・アーツ.md "wikilink")製ソフトの一部、および[カプコン](../Page/カプコン.md "wikilink")の『[モンスターハンター](../Page/モンスターハンター.md "wikilink")シリーズ』は独自サーバーによるネットワーク通信要素のあるソフトであり、ニンテンドーWi-Fiコネクション対応というわけではないが、ここでは便宜上同じものとして扱う。
       - **Wi-Fi**：[ニンテンドーWi-Fiコネクション](../Page/ニンテンドーWi-Fiコネクション.md "wikilink")対応
       - **有Wi-Fi**：ニンテンドーWi-Fiコネクション有料サービス対応
       - **24**：[WiiConnect24](../Page/WiiConnect24.md "wikilink")対応
@@ -21,48 +21,48 @@
 
 ## 2006年（全21タイトル）
 
-| 発売日    | タイトル                                                                                                    | 発売元メーカー                                                               | オンライン | DL | 備考                                                            |
-| ------ | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ----- | -- | ------------------------------------------------------------- |
-| 12月02日 | [Wii Sports](https://ja.wikipedia.org/wiki/Wii_Sports "wikilink")                                       | [任天堂](../Page/任天堂.md "wikilink")                                      |       |    |                                                               |
-| 12月02日 | [おどるメイド イン ワリオ](https://ja.wikipedia.org/wiki/おどるメイド_イン_ワリオ "wikilink")                                 | 任天堂                                                                   |       | ●  |                                                               |
-| 12月02日 | [ゼルダの伝説 トワイライトプリンセス](../Page/ゼルダの伝説_トワイライトプリンセス.md "wikilink")                                          | 任天堂                                                                   |       |    |                                                               |
-| 12月02日 | [はじめてのWii](https://ja.wikipedia.org/wiki/はじめてのWii "wikilink")                                           | 任天堂                                                                   |       |    | [Wiiリモコン](https://ja.wikipedia.org/wiki/Wiiリモコン "wikilink")同梱 |
-| 12月02日 | [カドゥケウスZ 2つの超執刀](../Page/カドゥケウスZ_2つの超執刀.md "wikilink")                                                  | [アトラス](../Page/アトラス_\(ゲーム会社\).md "wikilink")                          |       |    |                                                               |
-| 12月02日 | [Elebits](../Page/Elebits.md "wikilink")                                                                | [コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")            | 24    |    |                                                               |
-| 12月02日 | [ネクロネシア](https://ja.wikipedia.org/wiki/ネクロネシア "wikilink")                                               | [スパイク](../Page/スパイク_\(ゲーム会社\).md "wikilink")                          |       |    |                                                               |
-| 12月02日 | [スーパーモンキーボール ウキウキパーティ大集合](../Page/スーパーモンキーボール.md "wikilink")                                            | [セガ](https://ja.wikipedia.org/wiki/セガ "wikilink")                     |       |    |                                                               |
-| 12月02日 | [スイングゴルフ パンヤ](https://ja.wikipedia.org/wiki/スイングゴルフ_パンヤ "wikilink")                                     | [テクモ](../Page/テクモ.md "wikilink")                                      |       |    |                                                               |
-| 12月02日 | [ウィングアイランド](https://ja.wikipedia.org/wiki/ウィングアイランド "wikilink")                                         | [ハドソン](../Page/ハドソン.md "wikilink")                                    |       |    |                                                               |
-| 12月02日 | [コロリンパ](../Page/コロリンパ.md "wikilink")                                                                    | ハドソン                                                                  |       |    |                                                               |
-| 12月02日 | [SDガンダム スカッドハンマーズ](https://ja.wikipedia.org/wiki/SDガンダム_スカッドハンマーズ "wikilink")                           | [バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")   |       |    |                                                               |
-| 12月02日 | [縁日の達人](https://ja.wikipedia.org/wiki/縁日の達人 "wikilink")                                                 | バンダイナムコゲームス                                                           |       |    |                                                               |
-| 12月02日 | [たまごっち](../Page/たまごっち.md "wikilink")のピカピカだいとーりょー\!                                                      | バンダイナムコゲームス                                                           |       |    |                                                               |
-| 12月02日 | [クレヨンしんちゃん 最強家族カスカベキング うぃ〜](https://ja.wikipedia.org/wiki/クレヨンしんちゃん_最強家族カスカベキング_うぃ〜 "wikilink")         | [バンプレスト](https://ja.wikipedia.org/wiki/バンプレスト "wikilink")             |       |    |                                                               |
-| 12月02日 | [レッドスティール](https://ja.wikipedia.org/wiki/レッドスティール "wikilink")                                           | [ユービーアイソフト](https://ja.wikipedia.org/wiki/ユービーアイソフト "wikilink")       |       |    |                                                               |
-| 12月14日 | [ポケモンバトルレボリューション](https://ja.wikipedia.org/wiki/ポケモンバトルレボリューション "wikilink")                             | 任天堂                                                                   | Wi-Fi |    |                                                               |
-| 12月14日 | [BLEACH Wii 白刃きらめく輪舞曲](https://ja.wikipedia.org/wiki/SEGA×BLEACHプロジェクト#BLEACH_Wii_白刃きらめく輪舞曲 "wikilink") | セガ                                                                    |       |    |                                                               |
-| 12月14日 | [ラビッツ・パーティー](../Page/ラビッツ・パーティー.md "wikilink")                                                          | ユービーアイソフト                                                             |       |    |                                                               |
-| 12月21日 | [ニード・フォー・スピード カーボン](../Page/ニード・フォー・スピード_カーボン.md "wikilink")                                            | [エレクトロニック・アーツ](https://ja.wikipedia.org/wiki/エレクトロニック・アーツ "wikilink") |       |    |                                                               |
-| 12月21日 | [モンスター4×4 ワールドサーキット](https://ja.wikipedia.org/wiki/モンスター4×4_ワールドサーキット "wikilink")                       | ユービーアイソフト                                                             |       |    |                                                               |
-|        |                                                                                                         |                                                                       |       |    |                                                               |
+| 発売日    | タイトル                                                                                                    | 発売元メーカー                                                             | オンライン | DL | 備考                                                            |
+| ------ | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ----- | -- | ------------------------------------------------------------- |
+| 12月02日 | [Wii Sports](../Page/Wii_Sports.md "wikilink")                                                          | [任天堂](../Page/任天堂.md "wikilink")                                    |       |    |                                                               |
+| 12月02日 | [おどるメイド イン ワリオ](../Page/おどるメイド_イン_ワリオ.md "wikilink")                                                    | 任天堂                                                                 |       | ●  |                                                               |
+| 12月02日 | [ゼルダの伝説 トワイライトプリンセス](../Page/ゼルダの伝説_トワイライトプリンセス.md "wikilink")                                          | 任天堂                                                                 |       |    |                                                               |
+| 12月02日 | [はじめてのWii](../Page/はじめてのWii.md "wikilink")                                                              | 任天堂                                                                 |       |    | [Wiiリモコン](https://ja.wikipedia.org/wiki/Wiiリモコン "wikilink")同梱 |
+| 12月02日 | [カドゥケウスZ 2つの超執刀](../Page/カドゥケウスZ_2つの超執刀.md "wikilink")                                                  | [アトラス](../Page/アトラス_\(ゲーム会社\).md "wikilink")                        |       |    |                                                               |
+| 12月02日 | [Elebits](../Page/Elebits.md "wikilink")                                                                | [コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")          | 24    |    |                                                               |
+| 12月02日 | [ネクロネシア](https://ja.wikipedia.org/wiki/ネクロネシア "wikilink")                                               | [スパイク](../Page/スパイク_\(ゲーム会社\).md "wikilink")                        |       |    |                                                               |
+| 12月02日 | [スーパーモンキーボール ウキウキパーティ大集合](../Page/スーパーモンキーボール.md "wikilink")                                            | [セガ](https://ja.wikipedia.org/wiki/セガ "wikilink")                   |       |    |                                                               |
+| 12月02日 | [スイングゴルフ パンヤ](../Page/スイングゴルフ_パンヤ.md "wikilink")                                                        | [テクモ](../Page/テクモ.md "wikilink")                                    |       |    |                                                               |
+| 12月02日 | [ウィングアイランド](https://ja.wikipedia.org/wiki/ウィングアイランド "wikilink")                                         | [ハドソン](../Page/ハドソン.md "wikilink")                                  |       |    |                                                               |
+| 12月02日 | [コロリンパ](../Page/コロリンパ.md "wikilink")                                                                    | ハドソン                                                                |       |    |                                                               |
+| 12月02日 | [SDガンダム スカッドハンマーズ](../Page/SDガンダム_スカッドハンマーズ.md "wikilink")                                              | [バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink") |       |    |                                                               |
+| 12月02日 | [縁日の達人](https://ja.wikipedia.org/wiki/縁日の達人 "wikilink")                                                 | バンダイナムコゲームス                                                         |       |    |                                                               |
+| 12月02日 | [たまごっち](../Page/たまごっち.md "wikilink")のピカピカだいとーりょー\!                                                      | バンダイナムコゲームス                                                         |       |    |                                                               |
+| 12月02日 | [クレヨンしんちゃん 最強家族カスカベキング うぃ〜](https://ja.wikipedia.org/wiki/クレヨンしんちゃん_最強家族カスカベキング_うぃ〜 "wikilink")         | [バンプレスト](../Page/バンプレスト.md "wikilink")                              |       |    |                                                               |
+| 12月02日 | [レッドスティール](../Page/レッドスティール.md "wikilink")                                                              | [ユービーアイソフト](../Page/ユービーアイソフト.md "wikilink")                        |       |    |                                                               |
+| 12月14日 | [ポケモンバトルレボリューション](../Page/ポケモンバトルレボリューション.md "wikilink")                                                | 任天堂                                                                 | Wi-Fi |    |                                                               |
+| 12月14日 | [BLEACH Wii 白刃きらめく輪舞曲](https://ja.wikipedia.org/wiki/SEGA×BLEACHプロジェクト#BLEACH_Wii_白刃きらめく輪舞曲 "wikilink") | セガ                                                                  |       |    |                                                               |
+| 12月14日 | [ラビッツ・パーティー](../Page/ラビッツ・パーティー.md "wikilink")                                                          | ユービーアイソフト                                                           |       |    |                                                               |
+| 12月21日 | [ニード・フォー・スピード カーボン](../Page/ニード・フォー・スピード_カーボン.md "wikilink")                                            | [エレクトロニック・アーツ](../Page/エレクトロニック・アーツ.md "wikilink")                  |       |    |                                                               |
+| 12月21日 | [モンスター4×4 ワールドサーキット](https://ja.wikipedia.org/wiki/モンスター4×4_ワールドサーキット "wikilink")                       | ユービーアイソフト                                                           |       |    |                                                               |
+|        |                                                                                                         |                                                                     |       |    |                                                               |
 
 ## 2007年（全101タイトル）
 
 | 発売日    | タイトル                                                                                                                               | 発売元メーカー                                                                             | オンライン         | DL               | クラ | 備考                                                                       |
 | ------ | ---------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ------------- | ---------------- | -- | ------------------------------------------------------------------------ |
 | 01月01日 | [ドラゴンボールZ Sparking\! NEO](https://ja.wikipedia.org/wiki/ドラゴンボールZ_Sparking!_NEO "wikilink")                                         | バンダイナムコゲームス                                                                         |               |                  | ●  |                                                                          |
-| 01月11日 | [GT pro series](https://ja.wikipedia.org/wiki/GT_pro_series "wikilink")                                                            | [エム・ティー・オー](https://ja.wikipedia.org/wiki/エム・ティー・オー "wikilink")                     |               |                  |    | ステアリングアタッチメント同梱                                                          |
+| 01月11日 | [GT pro series](https://ja.wikipedia.org/wiki/GT_pro_series "wikilink")                                                            | [エム・ティー・オー](../Page/エム・ティー・オー.md "wikilink")                                        |               |                  |    | ステアリングアタッチメント同梱                                                          |
 | 01月18日 | [エキサイト トラック](../Page/エキサイト_トラック.md "wikilink")                                                                                     | 任天堂                                                                                 |               |                  |    |                                                                          |
 | 01月25日 | [麻雀大会](https://ja.wikipedia.org/wiki/麻雀大会 "wikilink")Wii                                                                           | [コーエー](../Page/コーエー.md "wikilink")                                                  |               |                  |    |                                                                          |
 | 02月08日 | [クッキングママ みんなといっしょにお料理大会](https://ja.wikipedia.org/wiki/クッキングママ#クッキングママ_みんなといっしょにお料理大会！ "wikilink")                                 | [タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")                               |               |                  |    |                                                                          |
 | 02月22日 | [ファイアーエムブレム 暁の女神](../Page/ファイアーエムブレム_暁の女神.md "wikilink")                                                                           | 任天堂                                                                                 |               |                  | ●  |                                                                          |
-| 02月22日 | [NARUTO -ナルト- 疾風伝 激闘忍者大戦\!EX](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_疾風伝_激闘忍者大戦!EX "wikilink")                                 | [タカラトミー](../Page/タカラトミー.md "wikilink")                                              |               |                  | ●  |                                                                          |
+| 02月22日 | [NARUTO -ナルト- 疾風伝 激闘忍者大戦\!EX](../Page/NARUTO_-ナルト-_疾風伝_激闘忍者大戦!EX.md "wikilink")                                                    | [タカラトミー](../Page/タカラトミー.md "wikilink")                                              |               |                  | ●  |                                                                          |
 | 03月01日 | [電車でGO\! 新幹線EX 山陽新幹線編](../Page/電車でGO!.md "wikilink")                                                                               | タイトー                                                                                |               |                  | ●  |                                                                          |
-| 03月08日 | [アイシールド21 フィールド最強の戦士たち](https://ja.wikipedia.org/wiki/アイシールド21 "wikilink")                                                         | 任天堂                                                                                 |               |                  |    |                                                                          |
+| 03月08日 | [アイシールド21 フィールド最強の戦士たち](../Page/アイシールド21.md "wikilink")                                                                            | 任天堂                                                                                 |               |                  |    |                                                                          |
 | 03月08日 | [ボンバーマンランド Wii](https://ja.wikipedia.org/wiki/ボンバーマンランド_Wii "wikilink")                                                            | ハドソン                                                                                |               |                  |    |                                                                          |
 | 03月15日 | [ジーワンジョッキー](../Page/ジーワンジョッキー.md "wikilink")Wii                                                                                    | コーエー                                                                                |               |                  |    |                                                                          |
 | 03月15日 | [ソニックと秘密のリング](../Page/ソニックと秘密のリング.md "wikilink")                                                                                   | セガ                                                                                  |               |                  |    |                                                                          |
-| 03月15日 | [スポンジ・ボブ](https://ja.wikipedia.org/wiki/スポンジ・ボブ_\(ゲーム\) "wikilink")                                                                | [THQ](https://ja.wikipedia.org/wiki/THQ "wikilink")ジャパン                             |               |                  |    |                                                                          |
+| 03月15日 | [スポンジ・ボブ](https://ja.wikipedia.org/wiki/スポンジ・ボブ_\(ゲーム\) "wikilink")                                                                | [THQ](../Page/THQ.md "wikilink")ジャパン                                                |               |                  |    |                                                                          |
 | 03月21日 | [三國志11 withパワーアップキット](../Page/三國志11.md "wikilink")                                                                                 | コーエー                                                                                |               |                  | ●  |                                                                          |
 | 03月21日 | [SUDOKU 数独](../Page/SUDOKU_数独.md "wikilink")                                                                                       | ハドソン                                                                                |               |                  |    |                                                                          |
 | 03月22日 | [カーズ](../Page/カーズ_\(映画\).md "wikilink")                                                                                            | THQジャパン                                                                             |               |                  |    |                                                                          |
@@ -76,18 +76,18 @@
 | 05月17日 | [マーベル アルティメット アライアンス](https://ja.wikipedia.org/wiki/マーベル_アルティメット_アライアンス "wikilink")                                                | インターチャネル・ホロン                                                                        |               |                  |    |                                                                          |
 | 05月17日 | [名探偵コナン 追憶の幻想](https://ja.wikipedia.org/wiki/名探偵コナン "wikilink")                                                                    | [マーベラスインタラクティブ](../Page/パック・イン・ビデオ.md "wikilink")                                   |               |                  |    |                                                                          |
 | 05月24日 | [実戦パチスロ・パチンコ必勝法\!Sammy's Collection 北斗の拳 Wii](../Page/北斗の拳_\(パチスロ\).md "wikilink")                                                 | セガ                                                                                  | Wi-Fi         |                  | ●  |                                                                          |
-| 05月31日 | [バイオハザード4 Wii edition](https://ja.wikipedia.org/wiki/バイオハザード4 "wikilink")                                                          | [カプコン](https://ja.wikipedia.org/wiki/カプコン "wikilink")                               |               | ●                | ●  |                                                                          |
+| 05月31日 | [バイオハザード4 Wii edition](https://ja.wikipedia.org/wiki/バイオハザード4 "wikilink")                                                          | [カプコン](../Page/カプコン.md "wikilink")                                                  |               | ●                | ●  |                                                                          |
 | 06月07日 | [パイレーツ・オブ・カリビアン/ワールド・エンド](https://ja.wikipedia.org/wiki/パイレーツ・オブ・カリビアン/ワールド・エンド "wikilink")                                        | [ディズニー・インタラクティブ・スタジオ](https://ja.wikipedia.org/wiki/ディズニー・インタラクティブ・スタジオ "wikilink") |               |                  |    |                                                                          |
 | 06月07日 | [牧場物語 やすらぎの樹](../Page/牧場物語_やすらぎの樹.md "wikilink")                                                                                   | マーベラスインタラクティブ                                                                       |               |                  | ●  |                                                                          |
 | 06月14日 | \[\[魔法先生ネギま\!の関連商品\#Wii|ネギま\!? ネオ・パクティオーファイト                                                                                       | \]\]                                                                                | マーベラスインタラクティブ |                  |    | ●                                                                        |
-| 06月21日 | [はじめの一歩 レボリューション](https://ja.wikipedia.org/wiki/はじめの一歩 "wikilink")                                                                 | [AQインタラクティブ](https://ja.wikipedia.org/wiki/AQインタラクティブ "wikilink")                   |               |                  | ●  |                                                                          |
+| 06月21日 | [はじめの一歩 レボリューション](https://ja.wikipedia.org/wiki/はじめの一歩 "wikilink")                                                                 | [AQインタラクティブ](../Page/AQインタラクティブ.md "wikilink")                                      |               |                  | ●  |                                                                          |
 | 06月21日 | [Go\!Go\!ミノン](https://ja.wikipedia.org/wiki/Go!Go!ミノン "wikilink")                                                                  | [サクセス](../Page/サクセス_\(ゲーム会社\).md "wikilink")                                        |               |                  |    |                                                                          |
 | 06月28日 | [ドンキーコング たるジェットレース](../Page/ドンキーコング_たるジェットレース.md "wikilink")                                                                       | 任天堂                                                                                 |               |                  |    |                                                                          |
 | 07月12日 | [ドラゴンクエストソード 仮面の女王と鏡の塔](../Page/ドラゴンクエストソード_仮面の女王と鏡の塔.md "wikilink")                                                               | [スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")                                    |               |                  |    |                                                                          |
 | 07月19日 | [実況パワフルプロ野球Wii](https://ja.wikipedia.org/wiki/実況パワフルプロ野球Wii "wikilink")                                                            | コナミデジタルエンタテインメント                                                                    | Wi-Fi         |                  | ●  |                                                                          |
 | 07月19日 | [桃太郎電鉄16 北海道大移動の巻\!](../Page/桃太郎電鉄16_北海道大移動の巻!.md "wikilink")                                                                      | ハドソン                                                                                | Wi-Fi         |                  |    |                                                                          |
 | 07月26日 | [マリオパーティ8](../Page/マリオパーティ8.md "wikilink")                                                                                         | 任天堂                                                                                 |               |                  |    |                                                                          |
-| 07月26日 | [GUILTY GEAR XX Λ CORE -ACCENT CORE-](https://ja.wikipedia.org/wiki/GUILTY_GEAR_XX#GUILTY_GEAR_XX_Λ_CORE_-ACCENT_CORE- "wikilink") | [アークシステムワークス](https://ja.wikipedia.org/wiki/アークシステムワークス "wikilink")                 |               |                  | ●  |                                                                          |
+| 07月26日 | [GUILTY GEAR XX Λ CORE -ACCENT CORE-](https://ja.wikipedia.org/wiki/GUILTY_GEAR_XX#GUILTY_GEAR_XX_Λ_CORE_-ACCENT_CORE- "wikilink") | [アークシステムワークス](../Page/アークシステムワークス.md "wikilink")                                    |               |                  | ●  |                                                                          |
 | 07月26日 | \[\[Dewy's_Adventure_水精デューイの大冒険                                                                                                  | |Dewy's Adventure 水精デューイの大冒険                                                        | \]\]          | コナミデジタルエンタテインメント | 24 |                                                                          |
 | 07月26日 | [ぷよぷよ\! Puyopuyo 15th anniversary](../Page/ぷよぷよ!_Puyopuyo_15th_anniversary.md "wikilink")                                          | [セガ](https://ja.wikipedia.org/wiki/セガ "wikilink")                                   |               |                  | ●  |                                                                          |
 | 07月26日 | [ジグソーパズル きょうのわんこ](../Page/パズルシリーズ.md "wikilink")                                                                                   | ハドソン                                                                                |               |                  |    |                                                                          |
@@ -95,10 +95,10 @@
 | 08月02日 | [FOREVER BLUE](../Page/FOREVER_BLUE.md "wikilink")                                                                                 | 任天堂                                                                                 | Wi-Fi         |                  |    |                                                                          |
 | 08月02日 | [ハリー・ポッターと不死鳥の騎士団](../Page/ハリー・ポッターと不死鳥の騎士団.md "wikilink")                                                                         | エレクトロニック・アーツ                                                                        |               |                  |    |                                                                          |
 | 08月02日 | [レミーのおいしいレストラン](https://ja.wikipedia.org/wiki/レミーのおいしいレストラン "wikilink")                                                            | THQジャパン                                                                             |               |                  |    |                                                                          |
-| 08月23日 | [しゃるうぃ〜☆たころん](../Page/たころん.md "wikilink")                                                                                          | [コンパイルハート](https://ja.wikipedia.org/wiki/コンパイルハート "wikilink")                       | Wi-Fi         |                  |    |                                                                          |
+| 08月23日 | [しゃるうぃ〜☆たころん](../Page/たころん.md "wikilink")                                                                                          | [コンパイルハート](../Page/コンパイルハート.md "wikilink")                                          | Wi-Fi         |                  |    |                                                                          |
 | 09月06日 | [新・中華大仙 マイケルとメイメイの冒険](../Page/中華大仙.md "wikilink")                                                                                  | [スターフィッシュ・エスディ](../Page/スターフィッシュ・エスディ.md "wikilink")                                |               |                  |    |                                                                          |
 | 09月13日 | [SSXブラー](https://ja.wikipedia.org/wiki/SSXブラー "wikilink")                                                                          | エレクトロニック・アーツ                                                                        |               |                  |    |                                                                          |
-| 09月20日 | [マリオストライカーズ チャージド](https://ja.wikipedia.org/wiki/マリオストライカーズ_チャージド "wikilink")                                                      | 任天堂                                                                                 | Wi-Fi         | ●                |    |                                                                          |
+| 09月20日 | [マリオストライカーズ チャージド](../Page/マリオストライカーズ_チャージド.md "wikilink")                                                                         | 任天堂                                                                                 | Wi-Fi         | ●                |    |                                                                          |
 | 09月20日 | [戦国無双KATANA](https://ja.wikipedia.org/wiki/戦国無双KATANA "wikilink")                                                                  | コーエー                                                                                |               |                  |    |                                                                          |
 | 09月27日 | [バスフィッシングWii 〜ロクマル伝説〜](https://ja.wikipedia.org/wiki/バスフィッシングWii_〜ロクマル伝説〜 "wikilink")                                              | アークシステムワークス                                                                         | Wi-Fi         |                  |    |                                                                          |
 | 09月27日 | [ぼくとシムのまち](../Page/ぼくとシムのまち.md "wikilink")                                                                                         | エレクトロニック・アーツ                                                                        |               |                  |    |                                                                          |
@@ -111,16 +111,16 @@
 | 10月25日 | [SIMPLE Wiiシリーズ Vol.1 THE みんなでカート・レース](../Page/SIMPLEシリーズ.md "wikilink")                                                           | [ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")                              | Wi-Fi         |                  |    |                                                                          |
 | 10月25日 | [SIMPLE Wiiシリーズ Vol.2 THE みんなでバス釣り大会](../Page/SIMPLEシリーズ.md "wikilink")                                                            | ディースリー・パブリッシャー                                                                      | Wi-Fi         |                  |    |                                                                          |
 | 10月25日 | [銀魂 万事屋ちゅ〜ぶ ツッコマブル動画](../Page/銀魂_万事屋ちゅ〜ぶ_ツッコマブル動画.md "wikilink")                                                                   | バンダイナムコゲームス                                                                         | 24            |                  |    |                                                                          |
-| 11月01日 | [スーパーマリオギャラクシー](https://ja.wikipedia.org/wiki/スーパーマリオギャラクシー "wikilink")                                                            | 任天堂                                                                                 |               | ●                |    |                                                                          |
+| 11月01日 | [スーパーマリオギャラクシー](../Page/スーパーマリオギャラクシー.md "wikilink")                                                                               | 任天堂                                                                                 |               | ●                |    |                                                                          |
 | 11月01日 | [オプーナ](../Page/オプーナ.md "wikilink")                                                                                                 | コーエー                                                                                |               |                  | ●  |                                                                          |
 | 11月08日 | [タイガーウッズ PGA TOUR 08](https://ja.wikipedia.org/wiki/タイガー・ウッズ_PGA_TOUR "wikilink")                                                  | エレクトロニック・アーツ                                                                        |               |                  |    |                                                                          |
-| 11月15日 | [バイオハザード アンブレラ・クロニクルズ](https://ja.wikipedia.org/wiki/バイオハザード_アンブレラ・クロニクルズ "wikilink")                                              | カプコン                                                                                |               | ●                |    | [Wiiザッパー同梱版あり](https://ja.wikipedia.org/wiki/Wiiリモコン#Wiiザッパー "wikilink") |
+| 11月15日 | [バイオハザード アンブレラ・クロニクルズ](../Page/バイオハザード_アンブレラ・クロニクルズ.md "wikilink")                                                                 | カプコン                                                                                |               | ●                |    | [Wiiザッパー同梱版あり](https://ja.wikipedia.org/wiki/Wiiリモコン#Wiiザッパー "wikilink") |
 | 11月22日 | [マリオ&ソニック AT 北京オリンピック](../Page/マリオ&ソニック_AT_北京オリンピック.md "wikilink")                                                                 | 任天堂                                                                                 | Wi-Fi         |                  |    |                                                                          |
 | 11月22日 | [ドラゴンブレイド](https://ja.wikipedia.org/wiki/ドラゴンブレイド "wikilink")                                                                      | ディースリー・パブリッシャー                                                                      |               |                  |    |                                                                          |
 | 11月22日 | [ゲゲゲの鬼太郎 妖怪大運動会](https://ja.wikipedia.org/wiki/ゲゲゲの鬼太郎_妖怪大運動会 "wikilink")                                                          | バンダイナムコゲームス                                                                         |               |                  |    |                                                                          |
-| 11月29日 | [戦国BASARA 英雄外伝(HEROES) ダブルパック](https://ja.wikipedia.org/wiki/戦国BASARA "wikilink")2                                                 | カプコン                                                                                |               |                  | ●  | Wii用ソフト『戦国BASARA2』同梱                                                     |
-| 11月29日 | [NARUTO -ナルト- 疾風伝 激闘忍者大戦\!EX2](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_疾風伝_激闘忍者大戦!EX "wikilink")                                | タカラトミー                                                                              |               |                  | ●  |                                                                          |
-| 11月29日 | [スイングゴルフ パンヤ 2ndショット\!](https://ja.wikipedia.org/wiki/スイングゴルフ_パンヤ "wikilink")                                                      | テクモ                                                                                 |               |                  |    |                                                                          |
+| 11月29日 | [戦国BASARA 英雄外伝(HEROES) ダブルパック](../Page/戦国BASARA.md "wikilink")2                                                                    | カプコン                                                                                |               |                  | ●  | Wii用ソフト『戦国BASARA2』同梱                                                     |
+| 11月29日 | [NARUTO -ナルト- 疾風伝 激闘忍者大戦\!EX2](../Page/NARUTO_-ナルト-_疾風伝_激闘忍者大戦!EX.md "wikilink")                                                   | タカラトミー                                                                              |               |                  | ●  |                                                                          |
+| 11月29日 | [スイングゴルフ パンヤ 2ndショット\!](../Page/スイングゴルフ_パンヤ.md "wikilink")                                                                         | テクモ                                                                                 |               |                  |    |                                                                          |
 | 12月01日 | [Wii Fit](../Page/Wii_Fit.md "wikilink")                                                                                           | 任天堂                                                                                 |               |                  |    | [バランスWiiボード](../Page/バランスWiiボード.md "wikilink")同梱                         |
 | 12月06日 | [ドラえもんWii ひみつ道具王決定戦\!](../Page/ドラえもんWii_ひみつ道具王決定戦!.md "wikilink")                                                                  | セガ                                                                                  |               |                  |    |                                                                          |
 | 12月06日 | [ディズニープリンセス 魔法の世界へ](https://ja.wikipedia.org/wiki/ディズニープリンセス_魔法の世界へ "wikilink")                                                    | ディズニー・インタラクティブ・スタジオ                                                                 |               |                  |    |                                                                          |
@@ -140,17 +140,17 @@
 | 12月20日 | [実況パワフルプロ野球Wii](https://ja.wikipedia.org/wiki/実況パワフルプロ野球Wii "wikilink")決定版                                                         | コナミデジタルエンタテインメント                                                                    | Wi-Fi         |                  | ●  |                                                                          |
 | 12月20日 | [雪ん娘大旋風 〜さゆきとこゆきのひえひえ大騒動〜](https://ja.wikipedia.org/wiki/雪ん娘大旋風_〜さゆきとこゆきのひえひえ大騒動〜 "wikilink")                                      | スターフィッシュ・エスディ                                                                       |               |                  |    |                                                                          |
 | 12月20日 | [スポンジ・ボブ トイボッツのこうげき](../Page/スポンジ・ボブ.md "wikilink")となかまたち                                                                          | THQジャパン                                                                             |               |                  |    |                                                                          |
-| 12月20日 | [ルイスと未来泥棒 ウィルバーの危険な時間旅行](https://ja.wikipedia.org/wiki/ルイスと未来泥棒 "wikilink")                                                        | ディズニー・インタラクティブ・スタジオ                                                                 |               |                  |    |                                                                          |
+| 12月20日 | [ルイスと未来泥棒 ウィルバーの危険な時間旅行](../Page/ルイスと未来泥棒.md "wikilink")                                                                           | ディズニー・インタラクティブ・スタジオ                                                                 |               |                  |    |                                                                          |
 | 12月20日 | [クレイジークライマー](https://ja.wikipedia.org/wiki/クレイジークライマー "wikilink")Wii                                                               | [日本システム](https://ja.wikipedia.org/wiki/日本システム "wikilink")                           |               |                  |    |                                                                          |
 | 12月20日 | [にゃんこと魔法のぼうし](https://ja.wikipedia.org/wiki/にゃんこと魔法のぼうし "wikilink")                                                                | ユービーアイソフト                                                                           |               |                  |    |                                                                          |
 | 12月20日 | [わんこと魔法のぼうし](https://ja.wikipedia.org/wiki/わんこと魔法のぼうし "wikilink")                                                                  | ユービーアイソフト                                                                           |               |                  |    |                                                                          |
-| 12月27日 | [メタルスラッグ](https://ja.wikipedia.org/wiki/メタルスラッグ "wikilink")コンプリート                                                                  | [SNKプレイモア](https://ja.wikipedia.org/wiki/SNKプレイモア "wikilink")                       |               |                  | ●  |                                                                          |
+| 12月27日 | [メタルスラッグ](../Page/メタルスラッグ.md "wikilink")コンプリート                                                                                     | [SNKプレイモア](https://ja.wikipedia.org/wiki/SNKプレイモア "wikilink")                       |               |                  | ●  |                                                                          |
 | 12月27日 | [人生ゲームWii](https://ja.wikipedia.org/wiki/人生ゲーム#人生ゲームWii "wikilink")                                                                | タカラトミー                                                                              |               |                  |    |                                                                          |
 | 12月27日 | [SIMPLE Wiiシリーズ Vol.3 遊んで覚える THE パーティー・カジノ](../Page/SIMPLEシリーズ.md "wikilink")                                                      | ディースリー・パブリッシャー                                                                      | Wi-Fi         |                  |    |                                                                          |
 | 12月27日 | [SIMPLE Wiiシリーズ Vol.4 誰でも遊べる THE シューティング・アクション](../Page/SIMPLEシリーズ.md "wikilink")                                                  | ディースリー・パブリッシャー                                                                      | Wi-Fi         |                  |    |                                                                          |
 | 12月27日 | [アニメスロットレボリューション パチスロ「機動戦士ガンダムII 〜哀・戦士編〜」](https://ja.wikipedia.org/wiki/パチスロ機動戦士ガンダムII_〜哀・戦士編〜 "wikilink")                        | バンダイナムコゲームス                                                                         |               |                  |    |                                                                          |
 | 12月27日 | [のだめカンタービレ ドリーム☆オーケストラ](../Page/のだめカンタービレ_ドリーム☆オーケストラ.md "wikilink")                                                               | バンダイナムコゲームス                                                                         |               |                  |    |                                                                          |
-| 12月27日 | [財団法人日本漢字能力検定協会公認 漢検Wii 〜漢字王決定戦〜](https://ja.wikipedia.org/wiki/財団法人日本漢字能力検定協会公認_漢検DS "wikilink")                                  | [ロケットカンパニー](https://ja.wikipedia.org/wiki/ロケットカンパニー "wikilink")                     |               |                  |    |                                                                          |
+| 12月27日 | [財団法人日本漢字能力検定協会公認 漢検Wii 〜漢字王決定戦〜](../Page/財団法人日本漢字能力検定協会公認_漢検DS.md "wikilink")                                                     | [ロケットカンパニー](../Page/ロケットカンパニー.md "wikilink")                                        |               |                  |    |                                                                          |
 |        |                                                                                                                                    |                                                                                     |               |                  |    |                                                                          |
 
 ## 2008年（全122タイトル）
@@ -387,7 +387,7 @@
 </tr>
 <tr class="odd">
 <td><p>03月13日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/バロック_(ゲーム)" title="wikilink">バロック for Wii</a></p></td>
+<td><p><a href="../Page/バロック_(ゲーム).md" title="wikilink">バロック for Wii</a></p></td>
 <td><p><a href="../Page/スティング_(ゲーム会社).md" title="wikilink">スティング</a></p></td>
 <td></td>
 <td></td>
@@ -396,7 +396,7 @@
 </tr>
 <tr class="even">
 <td><p>03月13日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ファミリージョッキー" title="wikilink">ファミリージョッキー</a></p></td>
+<td><p><a href="../Page/ファミリージョッキー.md" title="wikilink">ファミリージョッキー</a></p></td>
 <td><p>バンダイナムコゲームス</p></td>
 <td></td>
 <td></td>
@@ -450,7 +450,7 @@
 </tr>
 <tr class="even">
 <td><p>03月27日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トゥームレイダー" title="wikilink">トゥームレイダー アニバーサリー</a></p></td>
+<td><p><a href="../Page/トゥームレイダー.md" title="wikilink">トゥームレイダー アニバーサリー</a></p></td>
 <td><p>スパイク</p></td>
 <td></td>
 <td></td>
@@ -479,7 +479,7 @@
 <tr class="odd">
 <td><p>04月10日</p></td>
 <td><p><a href="../Page/カラス_(ゲーム).md" title="wikilink">マイルストーン シューティングコレクション カラスWii</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マイルストーン_(ゲーム会社)" title="wikilink">マイルストーン</a></p></td>
+<td><p><a href="../Page/マイルストーン_(ゲーム会社).md" title="wikilink">マイルストーン</a></p></td>
 <td></td>
 <td></td>
 <td><p>●</p></td>
@@ -550,7 +550,7 @@
 </tr>
 <tr class="odd">
 <td><p>05月29日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ファミリートレーナー" title="wikilink">ファミリートレーナー</a></p></td>
+<td><p><a href="../Page/ファミリートレーナー.md" title="wikilink">ファミリートレーナー</a></p></td>
 <td><p>バンダイナムコゲームス</p></td>
 <td></td>
 <td></td>
@@ -632,7 +632,7 @@
 </tr>
 <tr class="even">
 <td><p>07月10日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/バイオハザード0" title="wikilink">バイオハザード0</a></p></td>
+<td><p><a href="../Page/バイオハザード0.md" title="wikilink">バイオハザード0</a></p></td>
 <td><p>カプコン</p></td>
 <td></td>
 <td></td>
@@ -731,7 +731,7 @@
 </tr>
 <tr class="odd">
 <td><p>07月31日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ドカポンシリーズ" title="wikilink">ドカポンキングダム for Wii</a></p></td>
+<td><p><a href="../Page/ドカポンシリーズ.md" title="wikilink">ドカポンキングダム for Wii</a></p></td>
 <td><p>スティング</p></td>
 <td></td>
 <td></td>
@@ -812,7 +812,7 @@
 </tr>
 <tr class="even">
 <td><p>09月25日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シムシティ3000" title="wikilink">シムシティ クリエイター</a></p></td>
+<td><p><a href="../Page/シムシティ3000.md" title="wikilink">シムシティ クリエイター</a></p></td>
 <td><p>エレクトロニック・アーツ</p></td>
 <td><p>Wi-Fi</p></td>
 <td></td>
@@ -921,7 +921,7 @@
 </tr>
 <tr class="even">
 <td><p>10月23日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プロゴルファー猿" title="wikilink">プロゴルファー猿</a></p></td>
+<td><p><a href="../Page/プロゴルファー猿.md" title="wikilink">プロゴルファー猿</a></p></td>
 <td><p>バンダイナムコゲームス</p></td>
 <td></td>
 <td></td>
@@ -985,7 +985,7 @@
 </tr>
 <tr class="odd">
 <td><p>11月13日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FIFAシリーズ" title="wikilink">FIFA 09 オールプレイ</a></p></td>
+<td><p><a href="../Page/FIFAシリーズ.md" title="wikilink">FIFA 09 オールプレイ</a></p></td>
 <td><p>エレクトロニック・アーツ</p></td>
 <td><p>Wi-Fi</p></td>
 <td></td>
@@ -1058,7 +1058,7 @@
 </tr>
 <tr class="odd">
 <td><p>11月27日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_疾風伝_激闘忍者大戦!EX" title="wikilink">NARUTO -ナルト- 疾風伝 激闘忍者大戦!EX3</a></p></td>
+<td><p><a href="../Page/NARUTO_-ナルト-_疾風伝_激闘忍者大戦!EX.md" title="wikilink">NARUTO -ナルト- 疾風伝 激闘忍者大戦!EX3</a></p></td>
 <td><p>タカラトミー</p></td>
 <td></td>
 <td></td>
@@ -1076,7 +1076,7 @@
 </tr>
 <tr class="odd">
 <td><p>11月27日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ことばのパズル_もじぴったん" title="wikilink">ことばのパズル もじぴったんWii デラックス</a></p></td>
+<td><p><a href="../Page/ことばのパズル_もじぴったん.md" title="wikilink">ことばのパズル もじぴったんWii デラックス</a></p></td>
 <td><p>バンダイナムコゲームス</p></td>
 <td><p>Wi-Fi</p></td>
 <td></td>
@@ -1130,7 +1130,7 @@
 </tr>
 <tr class="odd">
 <td><p>12月11日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ドンキーコングジャングルビート" title="wikilink">Wiiであそぶ ドンキーコングジャングルビート</a></p></td>
+<td><p><a href="../Page/ドンキーコングジャングルビート.md" title="wikilink">Wiiであそぶ ドンキーコングジャングルビート</a></p></td>
 <td><p>任天堂</p></td>
 <td></td>
 <td><p>●</p></td>
@@ -1175,7 +1175,7 @@
 </tr>
 <tr class="even">
 <td><p>12月11日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ウォーリー_(映画)" title="wikilink">ウォーリー</a></p></td>
+<td><p><a href="../Page/ウォーリー_(映画).md" title="wikilink">ウォーリー</a></p></td>
 <td><p>THQ</p></td>
 <td></td>
 <td></td>
@@ -1193,7 +1193,7 @@
 </tr>
 <tr class="even">
 <td><p>12月11日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/太鼓の達人" title="wikilink">太鼓の達人</a>Wii</p></td>
+<td><p><a href="../Page/太鼓の達人.md" title="wikilink">太鼓の達人</a>Wii</p></td>
 <td><p>バンダイナムコゲームス</p></td>
 <td></td>
 <td></td>
@@ -1274,7 +1274,7 @@
 </tr>
 <tr class="odd">
 <td><p>12月25日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/バイオハザード_(ゲーム)" title="wikilink">バイオハザード</a></p></td>
+<td><p><a href="../Page/バイオハザード_(ゲーム).md" title="wikilink">バイオハザード</a></p></td>
 <td><p>カプコン</p></td>
 <td></td>
 <td></td>
@@ -1310,7 +1310,7 @@
 <tbody>
 <tr class="odd">
 <td><p>01月15日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マリオテニスGC" title="wikilink">Wiiであそぶ マリオテニスGC</a></p></td>
+<td><p><a href="../Page/マリオテニスGC.md" title="wikilink">Wiiであそぶ マリオテニスGC</a></p></td>
 <td><p>任天堂</p></td>
 <td></td>
 <td></td>
@@ -1427,7 +1427,7 @@
 </tr>
 <tr class="even">
 <td><p>03月05日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/リラックマ" title="wikilink">リラックマ みんなでごゆるり生活</a></p></td>
+<td><p><a href="../Page/リラックマ.md" title="wikilink">リラックマ みんなでごゆるり生活</a></p></td>
 <td><p>エム･ティー･オー</p></td>
 <td><p>Wi-Fi<br />
 24</p></td>
@@ -1464,7 +1464,7 @@
 </tr>
 <tr class="even">
 <td><p>03月12日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ファントム・ブレイブ" title="wikilink">ファントム・ブレイブ</a>Wii</p></td>
+<td><p><a href="../Page/ファントム・ブレイブ.md" title="wikilink">ファントム・ブレイブ</a>Wii</p></td>
 <td><p><a href="../Page/日本一ソフトウェア.md" title="wikilink">日本一ソフトウェア</a></p></td>
 <td></td>
 <td></td>
@@ -1563,7 +1563,7 @@
 </tr>
 <tr class="odd">
 <td><p>04月02日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ドアラ" title="wikilink">ドアラ</a>でWii</p></td>
+<td><p><a href="../Page/ドアラ.md" title="wikilink">ドアラ</a>でWii</p></td>
 <td><p>テラボックス</p></td>
 <td></td>
 <td></td>
@@ -1617,7 +1617,7 @@
 </tr>
 <tr class="odd">
 <td><p>04月23日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トゥームレイダー" title="wikilink">トゥームレイダー アンダーワールド</a></p></td>
+<td><p><a href="../Page/トゥームレイダー.md" title="wikilink">トゥームレイダー アンダーワールド</a></p></td>
 <td><p>スパイク</p></td>
 <td></td>
 <td></td>
@@ -1700,7 +1700,7 @@
 </tr>
 <tr class="even">
 <td><p>06月11日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ちびロボ!" title="wikilink">Wiiであそぶ ちびロボ!</a></p></td>
+<td><p><a href="../Page/ちびロボ!.md" title="wikilink">Wiiであそぶ ちびロボ!</a></p></td>
 <td><p>任天堂</p></td>
 <td></td>
 <td></td>
@@ -1844,7 +1844,7 @@
 </tr>
 <tr class="even">
 <td><p>08月13日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/鋼の錬金術師" title="wikilink">鋼の錬金術師 FULLMETAL ALCHEMIST -暁の王子-</a></p></td>
+<td><p><a href="../Page/鋼の錬金術師.md" title="wikilink">鋼の錬金術師 FULLMETAL ALCHEMIST -暁の王子-</a></p></td>
 <td><p>スクウェア・エニックス</p></td>
 <td></td>
 <td></td>
@@ -1961,7 +1961,7 @@
 </tr>
 <tr class="odd">
 <td><p>10月22日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FIFAシリーズ" title="wikilink">FIFA10 ワールドクラスサッカー</a></p></td>
+<td><p><a href="../Page/FIFAシリーズ.md" title="wikilink">FIFA10 ワールドクラスサッカー</a></p></td>
 <td><p>エレクトロニック・アーツ</p></td>
 <td></td>
 <td></td>
@@ -2015,7 +2015,7 @@
 </tr>
 <tr class="odd">
 <td><p>11月12日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ファイナルファンタジー・クリスタルクロニクル_クリスタルベアラー" title="wikilink">ファイナルファンタジー・クリスタルクロニクル クリスタルベアラー</a></p></td>
+<td><p><a href="../Page/ファイナルファンタジー・クリスタルクロニクル_クリスタルベアラー.md" title="wikilink">ファイナルファンタジー・クリスタルクロニクル クリスタルベアラー</a></p></td>
 <td><p>スクウェア・エニックス</p></td>
 <td></td>
 <td></td>
@@ -2051,7 +2051,7 @@
 </tr>
 <tr class="odd">
 <td><p>11月19日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/太鼓の達人" title="wikilink">太鼓の達人 ドドーンと2代目!</a>Wii</p></td>
+<td><p><a href="../Page/太鼓の達人.md" title="wikilink">太鼓の達人 ドドーンと2代目!</a>Wii</p></td>
 <td><p>バンダイナムコゲームス</p></td>
 <td></td>
 <td></td>
@@ -2069,7 +2069,7 @@
 </tr>
 <tr class="odd">
 <td><p>11月26日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_(ゲーム)" title="wikilink">NARUTO-ナルト-疾風伝 龍刃記</a></p></td>
+<td><p><a href="../Page/NARUTO_-ナルト-_(ゲーム).md" title="wikilink">NARUTO-ナルト-疾風伝 龍刃記</a></p></td>
 <td><p>タカラトミー</p></td>
 <td></td>
 <td></td>
@@ -2204,7 +2204,7 @@
 </tr>
 <tr class="even">
 <td><p>12月10日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/鋼の錬金術師" title="wikilink">鋼の錬金術師 FULLMETAL ALCHEMIST -黄昏の少女-</a></p></td>
+<td><p><a href="../Page/鋼の錬金術師.md" title="wikilink">鋼の錬金術師 FULLMETAL ALCHEMIST -黄昏の少女-</a></p></td>
 <td><p>スクウェア・エニックス</p></td>
 <td></td>
 <td></td>
@@ -2240,7 +2240,7 @@
 </tr>
 <tr class="even">
 <td><p>12月10日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ファミリートレーナー" title="wikilink">ファミリートレーナー</a>2</p></td>
+<td><p><a href="../Page/ファミリートレーナー.md" title="wikilink">ファミリートレーナー</a>2</p></td>
 <td><p>バンダイナムコゲームス</p></td>
 <td></td>
 <td></td>
@@ -2248,7 +2248,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ファミリートレーナー" title="wikilink">ファミリートレーナー スペシャルパック</a>1&amp;2</p></td>
+<td><p><a href="../Page/ファミリートレーナー.md" title="wikilink">ファミリートレーナー スペシャルパック</a>1&amp;2</p></td>
 <td><p>専用マットコントローラ・『ファミリートレーナー』（Wii1作目）同梱</p></td>
 <td></td>
 <td></td>
@@ -2474,7 +2474,7 @@
 </tr>
 <tr class="odd">
 <td><p>05月13日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FIFAシリーズ" title="wikilink">2010 FIFA ワールドカップ 南アフリカ大会</a></p></td>
+<td><p><a href="../Page/FIFAシリーズ.md" title="wikilink">2010 FIFA ワールドカップ 南アフリカ大会</a></p></td>
 <td><p>エレクトロニック・アーツ</p></td>
 <td><p>Wi-Fi</p></td>
 <td></td>
@@ -2601,7 +2601,7 @@
 </tr>
 <tr class="odd">
 <td><p>07月29日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/戦国BASARA" title="wikilink">戦国BASARA</a>3</p></td>
+<td><p><a href="../Page/戦国BASARA.md" title="wikilink">戦国BASARA</a>3</p></td>
 <td><p>カプコン</p></td>
 <td></td>
 <td></td>
@@ -2673,7 +2673,7 @@
 </tr>
 <tr class="odd">
 <td><p>10月21日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ファミリートレーナー" title="wikilink">みんなで冒険!ファミリートレーナー</a></p></td>
+<td><p><a href="../Page/ファミリートレーナー.md" title="wikilink">みんなで冒険!ファミリートレーナー</a></p></td>
 <td><p>バンダイナムコゲームス</p></td>
 <td></td>
 <td></td>
@@ -2754,7 +2754,7 @@
 </tr>
 <tr class="even">
 <td><p>12月02日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/太鼓の達人" title="wikilink">太鼓の達人 みんなでパーティ☆3代目!</a>Wii</p></td>
+<td><p><a href="../Page/太鼓の達人.md" title="wikilink">太鼓の達人 みんなでパーティ☆3代目!</a>Wii</p></td>
 <td><p>バンダイナムコゲームス</p></td>
 <td></td>
 <td></td>
@@ -2763,7 +2763,7 @@
 </tr>
 <tr class="odd">
 <td><p>12月02日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_疾風伝_激闘忍者大戦!EX" title="wikilink">NARUTO -ナルト- 疾風伝 激闘忍者大戦!SPECIAL</a></p></td>
+<td><p><a href="../Page/NARUTO_-ナルト-_疾風伝_激闘忍者大戦!EX.md" title="wikilink">NARUTO -ナルト- 疾風伝 激闘忍者大戦!SPECIAL</a></p></td>
 <td><p>タカラトミー</p></td>
 <td><p>Wi-Fi</p></td>
 <td></td>
@@ -2872,7 +2872,7 @@
 | 01月27日                                                                  | [ラビッツ・パーティー タイムトラベル](../Page/ラビッツ・パーティー.md "wikilink")                                                                                      | ユービーアイソフト                                                 | Wi-Fi  |    |       |                       |
 | 02月10日                                                                  | [戦国無双3 猛将伝](https://ja.wikipedia.org/wiki/戦国無双3 "wikilink")                                                                                 | コーエーテクモゲームス                                               | Wi-Fi  |    | ●     |                       |
 | 02月24日                                                                  | [ルーンファクトリー オーシャンズ](https://ja.wikipedia.org/wiki/ルーンファクトリー_オーシャンズ "wikilink")                                                               | マーベラスエンターテイメント                                            |        |    |       |                       |
-| 02月24日                                                                  | [SDガンダム ジージェネレーション ワールド](https://ja.wikipedia.org/wiki/SDガンダム_GGENERATION "wikilink")                                                       | バンダイナムコゲームス                                               |        |    | ●     |                       |
+| 02月24日                                                                  | [SDガンダム ジージェネレーション ワールド](../Page/SDガンダム_GGENERATION.md "wikilink")                                                                          | バンダイナムコゲームス                                               |        |    | ●     |                       |
 | 03月24日                                                                  | [イケニエノヨル](https://ja.wikipedia.org/wiki/イケニエノヨル "wikilink")                                                                                 | マーベラスエンターテイメント                                            |        |    |       |                       |
 | 04月21日                                                                  | [遊☆戯☆王5D's Duel Transer](https://ja.wikipedia.org/wiki/遊☆戯☆王5D's_Duel_Transer "wikilink")                                                   | コナミデジタルエンタテインメント                                          | Wi-Fi  |    |       | デュエルスキャナー同梱           |
 | 04月21日                                                                  | [ビリーズブートキャンプ Wiiでエンジョイダイエット\!](https://ja.wikipedia.org/wiki/シェイプボクシング_Wiiでエンジョイダイエット! "wikilink")                                          | ロケットカンパニー                                                 |        |    |       |                       |
@@ -2893,10 +2893,10 @@
 | 10月20日                                                                  | [GO VACATION](https://ja.wikipedia.org/wiki/GO_VACATION "wikilink")                                                                         | バンダイナムコゲームス                                               |        |    |       |                       |
 | 10月27日                                                                  | [星のカービィ Wii](https://ja.wikipedia.org/wiki/星のカービィ_Wii "wikilink")                                                                           | 任天堂                                                       |        | ●  |       |                       |
 | 11月03日                                                                  | [ウイニングイレブン プレーメーカー 2012](https://ja.wikipedia.org/wiki/ワールドサッカー_ウイニングイレブン_2012 "wikilink")                                                  | コナミデジタルエンタテインメント                                          | Wi-Fi  |    | ●     |                       |
-| 11月10日                                                                  | [戦国BASARA 宴](https://ja.wikipedia.org/wiki/戦国BASARA "wikilink")3                                                                            | カプコン                                                      |        |    | ●     |                       |
+| 11月10日                                                                  | [戦国BASARA 宴](../Page/戦国BASARA.md "wikilink")3                                                                                               | カプコン                                                      |        |    | ●     |                       |
 | 11月12日                                                                  | [ポケパーク2 〜Beyond the World〜](https://ja.wikipedia.org/wiki/ポケパーク2_〜Beyond_the_World〜 "wikilink")                                             | ポケモン                                                      |        |    |       |                       |
 | 11月23日                                                                  | [ゼルダの伝説 スカイウォードソード](https://ja.wikipedia.org/wiki/ゼルダの伝説_スカイウォードソード "wikilink")                                                             | 任天堂                                                       |        | ●  |       | Wiiリモコンプラス（ゴールド）同梱版あり |
-| 11月23日                                                                  | [太鼓の達人 Wii 決定版](https://ja.wikipedia.org/wiki/太鼓の達人 "wikilink")                                                                             | バンダイナムコゲームス                                               |        |    | ●     | 専用コントローラ「太鼓とバチ」同梱版あり  |
+| 11月23日                                                                  | [太鼓の達人 Wii 決定版](../Page/太鼓の達人.md "wikilink")                                                                                                | バンダイナムコゲームス                                               |        |    | ●     | 専用コントローラ「太鼓とバチ」同梱版あり  |
 | 12月01日                                                                  | [いただきストリートWii](https://ja.wikipedia.org/wiki/いただきストリートWii "wikilink")                                                                       | スクウェア・エニックス                                               | Wi-Fi  |    |       |                       |
 | 12月01日                                                                  | [仮面ライダー クライマックスヒーローズ フォーゼ](https://ja.wikipedia.org/wiki/仮面ライダー_クライマックスヒーローズ "wikilink")                                                    | バンダイナムコゲームス                                               |        |    | ●     |                       |
 | 12月08日                                                                  | [ニード・フォー・スピード ザ・ラン](https://ja.wikipedia.org/wiki/ニード・フォー・スピード_ザ・ラン "wikilink")                                                             | エレクトロニック・アーツ                                              |        |    |       |                       |
@@ -2920,7 +2920,7 @@
 | [ドラゴンクエストX 目覚めし五つの種族 オンライン](https://ja.wikipedia.org/wiki/ドラゴンクエストX_目覚めし五つの種族_オンライン "wikilink")（Wii本体パック） | Wii本体・クラシックコントローラPRO（クロ）、USBメモリ、ニンテンドープリペイドカード同梱                                                |                  |        |    |    |                      |
 | 11月01日                                                                                                    | [ウイニングイレブン プレーメーカー 2013](https://ja.wikipedia.org/wiki/ワールドサッカー_ウイニングイレブン_2013 "wikilink")      | コナミデジタルエンタテインメント | Wi-Fi  |    | ●  |                      |
 | 11月29日                                                                                                    | [仮面ライダー 超クライマックスヒーローズ](https://ja.wikipedia.org/wiki/仮面ライダー_クライマックスヒーローズ "wikilink")            | バンダイナムコゲームス      |        |    | ●  |                      |
-| 11月29日                                                                                                    | [太鼓の達人 超ごうか版](https://ja.wikipedia.org/wiki/太鼓の達人 "wikilink")Wii                                | バンダイナムコゲームス      |        |    | ●  | 専用コントローラ「太鼓とバチ」同梱版あり |
+| 11月29日                                                                                                    | [太鼓の達人 超ごうか版](../Page/太鼓の達人.md "wikilink")Wii                                                   | バンダイナムコゲームス      |        |    | ●  | 専用コントローラ「太鼓とバチ」同梱版あり |
 | 12月20日                                                                                                    | [イナズマイレブンGO ストライカーズ 2013](https://ja.wikipedia.org/wiki/イナズマイレブン_ストライカーズ "wikilink")            | レベルファイブ          |        |    | ●  |                      |
 |                                                                                                           |                                                                                                 |                  |        |    |    |                      |
 
@@ -3009,8 +3009,8 @@
 | タイトル                                                                                                  | 発売元メーカー                                                   | 備考                                                                                                                                                          |
 | ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | AQUARIUS BASEBALL 限界の、その先へ。                                                                           | [日本コカ・コーラ株式会社](../Page/コカ・コーラ.md "wikilink")              | 2007年5月から8月にかけて行われた、[アクエリアス](../Page/アクエリアス.md "wikilink")のキャンペーンの景品。                                                                                       |
-| [ザ・ワールド・オブ・ゴールデンエッグス ノリノリリズム系 NISSAN NOTE オリジナルバージョン](../Page/The_World_of_GOLDEN_EGGS.md "wikilink") | [日産自動車](../Page/日産自動車.md "wikilink")／開発：AQインタラクティブ        | 2008年1月から2月にかけて行われた、[日産・ノート](https://ja.wikipedia.org/wiki/日産・ノート "wikilink")の試乗キャンペーンの景品。製品版（同年6月発売）よりも収録ステージが少ない先行配布版。                                    |
-| [エキサイト猛マシン](https://ja.wikipedia.org/wiki/エキサイト猛マシン "wikilink")                                       | 任天堂                                                       | [クラブニンテンドー](https://ja.wikipedia.org/wiki/クラブニンテンドー "wikilink")の景品。2011年8月から配布開始。                                                                           |
+| [ザ・ワールド・オブ・ゴールデンエッグス ノリノリリズム系 NISSAN NOTE オリジナルバージョン](../Page/The_World_of_GOLDEN_EGGS.md "wikilink") | [日産自動車](../Page/日産自動車.md "wikilink")／開発：AQインタラクティブ        | 2008年1月から2月にかけて行われた、[日産・ノート](../Page/日産・ノート.md "wikilink")の試乗キャンペーンの景品。製品版（同年6月発売）よりも収録ステージが少ない先行配布版。                                                       |
+| [エキサイト猛マシン](https://ja.wikipedia.org/wiki/エキサイト猛マシン "wikilink")                                       | 任天堂                                                       | [クラブニンテンドー](../Page/クラブニンテンドー.md "wikilink")の景品。2011年8月から配布開始。                                                                                              |
 | [天空の機士ロデア](https://ja.wikipedia.org/wiki/ロデア・ザ・スカイソルジャー "wikilink")                                   | [角川ゲームス](https://ja.wikipedia.org/wiki/角川ゲームス "wikilink") | [Wii U用ソフト](https://ja.wikipedia.org/wiki/Wii_U "wikilink")「[ロデア・ザ・スカイソルジャー](https://ja.wikipedia.org/wiki/ロデア・ザ・スカイソルジャー "wikilink")」（2015年4月2日発売）の初回生産分特典 |
 
 ## 外部リンク

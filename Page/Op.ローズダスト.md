@@ -3,22 +3,22 @@
 
 『**Op.ローズダスト**』（オペレーション・ローズダスト、*Operation ROSE DUST*）は、[福井晴敏](../Page/福井晴敏.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[小説](../Page/小説.md "wikilink")。
 
-時系列的には『[亡国のイージス](https://ja.wikipedia.org/wiki/亡国のイージス "wikilink")』の続編にあたる。
+時系列的には『[亡国のイージス](../Page/亡国のイージス.md "wikilink")』の続編にあたる。
 
 ## 概要
 
-[2003年](../Page/2003年.md "wikilink")5月から[2004年](../Page/2004年.md "wikilink")12月まで、[文藝春秋](../Page/文藝春秋.md "wikilink")の『[週刊文春](../Page/週刊文春.md "wikilink")』で毎号6ページずつ掲載された、福井晴敏初の連載小説。雑誌掲載時には[北村公司](https://ja.wikipedia.org/wiki/北村公司 "wikilink")による挿絵が各話2枚ずつ掲載されていた。ただし誌上での連載で発表されたのは物語の途中までであり、クライマックスを前にして連載が終了した。連載終了から1年以上経った[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")3月に、大幅に加筆・訂正を施し、さらには[原稿用紙](../Page/原稿用紙.md "wikilink")およそ800枚分のクライマックスを書き下ろした上で、上下巻に分けて単行本が刊行された。文庫本は[2009年](../Page/2009年.md "wikilink")2月に上中下巻に分冊して[文春文庫](https://ja.wikipedia.org/wiki/文春文庫 "wikilink")より刊行された。
+[2003年](../Page/2003年.md "wikilink")5月から[2004年](../Page/2004年.md "wikilink")12月まで、[文藝春秋](../Page/文藝春秋.md "wikilink")の『[週刊文春](../Page/週刊文春.md "wikilink")』で毎号6ページずつ掲載された、福井晴敏初の連載小説。雑誌掲載時には[北村公司](https://ja.wikipedia.org/wiki/北村公司 "wikilink")による挿絵が各話2枚ずつ掲載されていた。ただし誌上での連載で発表されたのは物語の途中までであり、クライマックスを前にして連載が終了した。連載終了から1年以上経った[2006年](../Page/2006年.md "wikilink")3月に、大幅に加筆・訂正を施し、さらには[原稿用紙](../Page/原稿用紙.md "wikilink")およそ800枚分のクライマックスを書き下ろした上で、上下巻に分けて単行本が刊行された。文庫本は[2009年](../Page/2009年.md "wikilink")2月に上中下巻に分冊して[文春文庫](../Page/文春文庫.md "wikilink")より刊行された。
 
 第19回[山本周五郎賞](../Page/山本周五郎賞.md "wikilink")候補作。2006年の「週刊文春ミステリーベスト10 国内部門」では第9位\[1\]。
 
 ## あらすじ
 
-ネット財閥アクト・グループの役員を狙った連続[爆弾](../Page/爆弾.md "wikilink")テロが発生した。実行犯は「ローズダスト」を名乗る5人の[テロリストグループ](https://ja.wikipedia.org/wiki/テロリズム "wikilink")。[警察庁](https://ja.wikipedia.org/wiki/警察庁 "wikilink")・[警視庁](../Page/警視庁.md "wikilink")・[防衛庁での合同](../Page/防衛省.md "wikilink")[捜査](../Page/捜査.md "wikilink")において、[警視庁公安部](https://ja.wikipedia.org/wiki/警視庁公安部 "wikilink")の並河次郎は防衛庁[情報本部](../Page/情報本部.md "wikilink")の丹原朋希と共に爆弾テロの[捜査](../Page/捜査.md "wikilink")に参加することになるが、その過程で丹原とローズダストの間に横たわる深い[因縁](../Page/因縁.md "wikilink")を知ることになる。
+ネット財閥アクト・グループの役員を狙った連続[爆弾](../Page/爆弾.md "wikilink")テロが発生した。実行犯は「ローズダスト」を名乗る5人の[テロリストグループ](https://ja.wikipedia.org/wiki/テロリズム "wikilink")。[警察庁](https://ja.wikipedia.org/wiki/警察庁 "wikilink")・[警視庁](../Page/警視庁.md "wikilink")・[防衛庁での合同](../Page/防衛省.md "wikilink")[捜査](../Page/捜査.md "wikilink")において、[警視庁公安部](../Page/警視庁公安部.md "wikilink")の並河次郎は防衛庁[情報本部](../Page/情報本部.md "wikilink")の丹原朋希と共に爆弾テロの[捜査](../Page/捜査.md "wikilink")に参加することになるが、その過程で丹原とローズダストの間に横たわる深い[因縁](../Page/因縁.md "wikilink")を知ることになる。
 
 ## 登場人物
 
   - 並河 次郎（なみかわ じろう）
-    [警視庁公安部](https://ja.wikipedia.org/wiki/警視庁公安部 "wikilink")四課の[警部補](https://ja.wikipedia.org/wiki/警部補 "wikilink")。50歳。
+    [警視庁公安部](../Page/警視庁公安部.md "wikilink")四課の[警部補](../Page/警部補.md "wikilink")。50歳。
     テロ事件の捜査において、[防衛庁から出向してきた丹原朋希と不本意ながらもコンビを組むことになる](../Page/防衛省.md "wikilink")。
     面割（相貌識別）の達人であり、その道のプロによる変装すらも見破ることが出来る。
     過去のとある事件のせいで仕事に対する情熱を失っており、周囲からは「ハム（公安）の脂身」と蔑まれている。ただ職場での立場や朋希の想像とは異なり、家庭では円満な家族関係を築いているマイホームパパ。
@@ -26,12 +26,12 @@
     [江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")にある朋希をして曰く「親の代から住んできた」と思わせる二階建ての木造家屋に妻、一人娘の恵理と住んでいる。
     かつて公安の秘匿部隊「[チヨダ](https://ja.wikipedia.org/wiki/チヨダ_\(警察\) "wikilink")」に在籍していた。下記の『マル六の作業玉』とはその頃からの付き合いであり、マル六の作業玉が情報を提供する相手が常に並河なため、「チヨダ」を抜けた後も警視庁本庁に勤務し続けている。
   - 丹原 朋希（たんばら ともき）
-    テロ事件の捜査のために[防衛庁](https://ja.wikipedia.org/wiki/防衛庁 "wikilink")[情報本部](../Page/情報本部.md "wikilink")から出向してきたという[自衛官](../Page/自衛官.md "wikilink")で、階級は[三曹](https://ja.wikipedia.org/wiki/下士官 "wikilink")。24歳。
-    実際は、防衛庁の秘匿[情報機関](../Page/情報機関.md "wikilink")である[防衛庁情報局](https://ja.wikipedia.org/wiki/防衛庁情報局 "wikilink")（[DAIS](https://ja.wikipedia.org/wiki/DAIS "wikilink")）所属である。
+    テロ事件の捜査のために[防衛庁](https://ja.wikipedia.org/wiki/防衛庁 "wikilink")[情報本部](../Page/情報本部.md "wikilink")から出向してきたという[自衛官](../Page/自衛官.md "wikilink")で、階級は[三曹](../Page/下士官.md "wikilink")。24歳。
+    実際は、防衛庁の秘匿[情報機関](../Page/情報機関.md "wikilink")である[防衛庁情報局](../Page/防衛庁情報局.md "wikilink")（[DAIS](https://ja.wikipedia.org/wiki/DAIS "wikilink")）所属である。
     かつて父親が家出をし、母親からは虐待を受けていた。母が施設に入ってからは叔父の家に姉と共に預けられたが、姉は叔父からの度重なるレイプを苦に自殺した。復讐として叔父を殺害した後に、行動力・計画力を見込んだ[DAIS](https://ja.wikipedia.org/wiki/DAIS "wikilink")のリクルーターにスカウトされた。
     テロリストグループ『ローズダスト』のメンバーとは、かつて「オペレーションLP」で参加した仲間であり、かつリーダーである入江一功は、深い因縁がある。それを利用できるという判断から捜査に参加することになった。
     数年前の任務「オペレーションLP」による事故で想いを寄せていた堀部三佳を亡くし、仲間達と袂を分かって以降は、誰に対しても心を硬く閉ざしていた。しかし、共に捜査する並河との公私にわたる日々を送り、また並河の一人娘である並河恵理との交流で徐々に心を開いていく。
-    仕事のない時は自堕落な生活をしており、[東中野](https://ja.wikipedia.org/wiki/東中野 "wikilink")にある散らかりきった自室は並河に「格納庫」と評されるような有様である。また（職業柄）世間とは無縁に近い生活を送ってきたので、[携帯電話](../Page/携帯電話.md "wikilink")の[メールアドレス](https://ja.wikipedia.org/wiki/メールアドレス "wikilink")が変更できることを知らないなど、[天然ボケ](../Page/天然ボケ.md "wikilink")した部分がある。
+    仕事のない時は自堕落な生活をしており、[東中野](https://ja.wikipedia.org/wiki/東中野 "wikilink")にある散らかりきった自室は並河に「格納庫」と評されるような有様である。また（職業柄）世間とは無縁に近い生活を送ってきたので、[携帯電話](../Page/携帯電話.md "wikilink")の[メールアドレス](../Page/メールアドレス.md "wikilink")が変更できることを知らないなど、[天然ボケ](../Page/天然ボケ.md "wikilink")した部分がある。
   - 入江 一功（いりえ かずなり）
     連続爆弾テロの犯人グループ「ローズダスト」のリーダー。DAISの元局員である。
     変装のプロであり、頭の回転も非常に速く、バイク運転など様々な分野に秀でた才能を持っているが、字はあまり上手ではない様子。
@@ -47,7 +47,7 @@
     山辺によれば黒髪のショートヘアで一見、少年のようにも見えるが、色艶も漂う容姿。
   - 山辺 俊作（やまべ しゅんさく）
     連続爆弾テロの犯人グループ「ローズダスト」のメンバーで最年長。爆破工作に秀でている。メンバーからは「親父さん」と呼ばれている。
-    DAISの元局員で、かつての階級は[曹長](https://ja.wikipedia.org/wiki/下士官 "wikilink")。
+    DAISの元局員で、かつての階級は[曹長](../Page/下士官.md "wikilink")。
     [新潟県](../Page/新潟県.md "wikilink")出身者という理由から「オペレーションLP」に引き抜かれた。同作戦に発生した事故を契機にDAISから逃走し、テロリストとして各国を転々とする。数年後に帰国し、「ローズダスト」の一員として連続爆弾テロ「オペレーション.ローズダスト」を実行する。
   - 勝良 義和（かつら よしかず）
     連続爆弾テロの犯人グループ「ローズダスト」のメンバーで、DAISの元局員。
@@ -82,7 +82,7 @@
   - 水月総一郎（みなづき そういちろう）
     DAISの元局員で「オペレーションLP」にも関係している人物。元々は防衛庁の[背広組だった](https://ja.wikipedia.org/wiki/キャリア_\(国家公務員\)#防衛キャリア "wikilink")。
     同作戦の事故を起こした元凶の一人であり、それによって得た手土産でアクトグループ参加の「アクト・ファイナンシャル」[常務取締役](https://ja.wikipedia.org/wiki/常務取締役 "wikilink")として[天下り](../Page/天下り.md "wikilink")した。
-    よって、「ローズダスト」からは復讐の対象となり、物語冒頭で[セムテックス](https://ja.wikipedia.org/wiki/セムテックス "wikilink")により爆殺される。
+    よって、「ローズダスト」からは復讐の対象となり、物語冒頭で[セムテックス](../Page/セムテックス.md "wikilink")により爆殺される。
     **集まり**の一員。
   - 烏丸 誠二（からすま せいじ）
     DAISの元局員で「オペレーションLP」にも関係している人物。防衛庁の背広組出身。
@@ -101,9 +101,9 @@
     数年後に「ローズダスト」を帰国させ、ある目的のために連続爆弾テロを影で支援するが…。
   - 古森 一尋（こもり かずひろ）
     DAIS局員で、729SOFの隊司令。階級は[二佐](https://ja.wikipedia.org/wiki/二佐 "wikilink")。
-    前作『[亡国のイージス](https://ja.wikipedia.org/wiki/亡国のイージス "wikilink")』で壊滅した920SOFの生き残りである。
+    前作『[亡国のイージス](../Page/亡国のイージス.md "wikilink")』で壊滅した920SOFの生き残りである。
   - 並河 恵理（なみかわ えり）
-    並河の一人娘で、[専門学校](../Page/専門学校.md "wikilink")生。短大を卒業後に一度就職しているが、退職して[調理師](https://ja.wikipedia.org/wiki/調理師 "wikilink")養成の専門学校に通っている。
+    並河の一人娘で、[専門学校](../Page/専門学校.md "wikilink")生。短大を卒業後に一度就職しているが、退職して[調理師](../Page/調理師.md "wikilink")養成の専門学校に通っている。
     気が強い性格で押しが強い。しかし、雰囲気が三佳に近いため、朋希は初対面の際に動揺した。
     携帯電話の扱いに慣れており、メールアドレスを変更できることを知らなかった朋希にメールアドレスの変更作業をしたあと、メールアドレスを交換する。
     朋希に対して、好意を寄せるようになる。
@@ -121,17 +121,17 @@
     警察庁警備局警備企画課長
     千束の上司であり、「**集まり**」の一員。
   - 木下裕人（きのした ひろと）
-    警視庁[捜査一課](https://ja.wikipedia.org/wiki/捜査一課 "wikilink")[特殊犯捜査係](https://ja.wikipedia.org/wiki/特殊犯捜査係 "wikilink")の[巡査部長](https://ja.wikipedia.org/wiki/巡査部長 "wikilink")
+    警視庁[捜査一課](https://ja.wikipedia.org/wiki/捜査一課 "wikilink")[特殊犯捜査係](https://ja.wikipedia.org/wiki/特殊犯捜査係 "wikilink")の[巡査部長](../Page/巡査部長.md "wikilink")
   - 緑川（みどりかわ）
     警視庁公安四課長
   - 関口栄治（せきぐち えいじ）
-    警視庁公安四課二係係長の[警部](https://ja.wikipedia.org/wiki/警部 "wikilink")
+    警視庁公安四課二係係長の[警部](../Page/警部.md "wikilink")
   - 河村幹哉（かわむら もとや）
-    警視庁公安四課二係の[巡査部長](https://ja.wikipedia.org/wiki/巡査部長 "wikilink")
+    警視庁公安四課二係の[巡査部長](../Page/巡査部長.md "wikilink")
 
 ## 用語
 
-本作内で使われる用語など。本作は『[亡国のイージス](https://ja.wikipedia.org/wiki/亡国のイージス "wikilink")』『[川の深さは](../Page/川の深さは.md "wikilink")』等、他の作品群と共通の世界として描かれているため、これらの作品と共通するものも多い。
+本作内で使われる用語など。本作は『[亡国のイージス](../Page/亡国のイージス.md "wikilink")』『[川の深さは](../Page/川の深さは.md "wikilink")』等、他の作品群と共通の世界として描かれているため、これらの作品と共通するものも多い。
 
 ### 作品内でのキーワード
 
@@ -161,7 +161,7 @@
 
   - TPex（Thermit Plus Extra）
 
-自衛隊が保有する予定だった新型の爆弾兵器。マスコミに煽られた世論の反発もあり、既に導入が決定されていたにも関わらず、見送りになった。『[Twelve Y. O.](../Page/Twelve_Y._O..md "wikilink")』『[亡国のイージス](https://ja.wikipedia.org/wiki/亡国のイージス "wikilink")』に登場した「[テルミット・プラス](https://ja.wikipedia.org/wiki/テルミット・プラス "wikilink")」の改良型。
+自衛隊が保有する予定だった新型の爆弾兵器。マスコミに煽られた世論の反発もあり、既に導入が決定されていたにも関わらず、見送りになった。『[Twelve Y. O.](../Page/Twelve_Y._O..md "wikilink")』『[亡国のイージス](../Page/亡国のイージス.md "wikilink")』に登場した「[テルミット・プラス](https://ja.wikipedia.org/wiki/テルミット・プラス "wikilink")」の改良型。
 
 ### 防衛庁・自衛隊
 
@@ -169,7 +169,7 @@
 
   - [防衛庁](https://ja.wikipedia.org/wiki/防衛庁 "wikilink")・[自衛隊](../Page/自衛隊.md "wikilink")
     日本の実質上の軍事組織。
-  - [防衛庁情報局](https://ja.wikipedia.org/wiki/防衛庁情報局 "wikilink")（Defence Agency Information Service/[DAIS](https://ja.wikipedia.org/wiki/DAIS "wikilink")）
+  - [防衛庁情報局](../Page/防衛庁情報局.md "wikilink")（Defence Agency Information Service/[DAIS](https://ja.wikipedia.org/wiki/DAIS "wikilink")）
     通称「DAIS」、もしくは本部の場所を指して「市ヶ谷」とも呼ばれる。防衛庁・自衛隊内部に設置された、日本の秘匿[情報機関](../Page/情報機関.md "wikilink")。
     他作品にも、幾度か登場している。
   - [情報本部](../Page/情報本部.md "wikilink")（Defense Intelligence Headquarters/[DIH](https://ja.wikipedia.org/wiki/DIH "wikilink")）
@@ -177,21 +177,21 @@
     本作、及び本作に連なる他作品における「DAIS」は、この「情報本部」が表の顔として運営されている設定である。
   - SOF（Special Operation Force/特殊要撃部隊）
     DAISの保有する特殊部隊で、他作品にも幾度か登場している。
-    本作に登場する729SOFは、前作『[亡国のイージス](https://ja.wikipedia.org/wiki/亡国のイージス "wikilink")』の終盤で設立が決定していた部隊。
-    部隊名として冠される数字は、高い功績をあげた局員のIDをつける習慣があり、「729」はかつて920SOF特別班に所属していた如月行[二曹](https://ja.wikipedia.org/wiki/二曹 "wikilink")のID。前作『[亡国のイージス](https://ja.wikipedia.org/wiki/亡国のイージス "wikilink")』（他多数）の主人公であり、『亡国のイージス』における功績によって、「729」の数字が冠されたと思われる。
+    本作に登場する729SOFは、前作『[亡国のイージス](../Page/亡国のイージス.md "wikilink")』の終盤で設立が決定していた部隊。
+    部隊名として冠される数字は、高い功績をあげた局員のIDをつける習慣があり、「729」はかつて920SOF特別班に所属していた如月行[二曹](https://ja.wikipedia.org/wiki/二曹 "wikilink")のID。前作『[亡国のイージス](../Page/亡国のイージス.md "wikilink")』（他多数）の主人公であり、『亡国のイージス』における功績によって、「729」の数字が冠されたと思われる。
     他に013SOF・464SOFが存在する。
-    詳しくは[防衛庁情報局](https://ja.wikipedia.org/wiki/防衛庁情報局 "wikilink")（[DAIS](https://ja.wikipedia.org/wiki/DAIS "wikilink")）の「SOF」の欄を参照。
+    詳しくは[防衛庁情報局](../Page/防衛庁情報局.md "wikilink")（[DAIS](https://ja.wikipedia.org/wiki/DAIS "wikilink")）の「SOF」の欄を参照。
   - FSM（First Strike Misson)
     DAISが保有する特殊部隊SOF傘下のヘリコプター部隊となる予定だった。
-    詳細は[防衛庁情報局](https://ja.wikipedia.org/wiki/防衛庁情報局 "wikilink")（[DAIS](https://ja.wikipedia.org/wiki/DAIS "wikilink")）の記事の『FSM』の欄を参照。
+    詳細は[防衛庁情報局](../Page/防衛庁情報局.md "wikilink")（[DAIS](https://ja.wikipedia.org/wiki/DAIS "wikilink")）の記事の『FSM』の欄を参照。
   - SAP（特別警察補助官/Special Assisting Police officer）
-    [防衛庁情報局](https://ja.wikipedia.org/wiki/防衛庁情報局 "wikilink")の正局員。
+    [防衛庁情報局](../Page/防衛庁情報局.md "wikilink")の正局員。
   - AP（普通警察補助官/Assisting Police officer）
-    [防衛庁情報局](https://ja.wikipedia.org/wiki/防衛庁情報局 "wikilink")の非常勤の局員。
+    [防衛庁情報局](../Page/防衛庁情報局.md "wikilink")の非常勤の局員。
     普段は会社員・自営業など、別の職業に一般人として過ごしており、招集があれば本職の合間をぬって任務に就く。
   - CO（Case Officer）
-    情報機関で使われる言葉で、情報工作を行う職員のこと。[防衛庁情報局](https://ja.wikipedia.org/wiki/防衛庁情報局 "wikilink")においては任務の責任者のことを指す。
-  - [特殊作戦群](https://ja.wikipedia.org/wiki/特殊作戦群 "wikilink")（Special Forces Group/SFGp）
+    情報機関で使われる言葉で、情報工作を行う職員のこと。[防衛庁情報局](../Page/防衛庁情報局.md "wikilink")においては任務の責任者のことを指す。
+  - [特殊作戦群](../Page/特殊作戦群.md "wikilink")（Special Forces Group/SFGp）
     実在する[陸上自衛隊](../Page/陸上自衛隊.md "wikilink")の[特殊部隊](../Page/特殊部隊.md "wikilink")。本作ではDAISの特殊部隊であるSOFが、まったくの別部隊である特殊作戦群の名を借りて出動してるシーンが存在する。これは、SOFは非公開部隊であるために世間一般に知られてはならない事情があり、メディアに露出してしまう作戦において、世間に存在が公開されている特殊作戦群の名で出動したため。
     実際の特殊作戦群が本作の物語で出動しなかったのは、本作の年代では発足まもないため、実戦運用するレベルに達してないため…という趣旨の解説がある。
 
@@ -204,14 +204,14 @@
   - [警視庁](../Page/警視庁.md "wikilink")
     東京都公安委員会に設置される東京都の警察組織。
   - [チヨダ](https://ja.wikipedia.org/wiki/チヨダ_\(警察\) "wikilink")、サクラ
-    [公安警察](https://ja.wikipedia.org/wiki/公安警察 "wikilink")が保有する実在の秘匿部隊。[警察庁](https://ja.wikipedia.org/wiki/警察庁 "wikilink")の[警備局](../Page/警備局.md "wikilink")内に設置されている。
+    [公安警察](../Page/公安警察.md "wikilink")が保有する実在の秘匿部隊。[警察庁](https://ja.wikipedia.org/wiki/警察庁 "wikilink")の[警備局](../Page/警備局.md "wikilink")内に設置されている。
     「サクラ」はチヨダの前身。
-  - [SAT](https://ja.wikipedia.org/wiki/特殊急襲部隊 "wikilink")（Special Assault Team/特殊急襲部隊）
+  - [SAT](../Page/特殊急襲部隊.md "wikilink")（Special Assault Team/特殊急襲部隊）
     実在する日本警察の[特殊部隊](../Page/特殊部隊.md "wikilink")。[警備部](https://ja.wikipedia.org/wiki/警備部 "wikilink")に所属する。
-  - [銃器対策部隊](https://ja.wikipedia.org/wiki/銃器対策部隊 "wikilink")
+  - [銃器対策部隊](../Page/銃器対策部隊.md "wikilink")
     実在する日本警察の部隊。詳細は
   - [SIT](https://ja.wikipedia.org/wiki/SIT "wikilink")（Special Investigation Team/特殊捜査班）
-    実在する日本警察の[特殊部隊](../Page/特殊部隊.md "wikilink")。[刑事部](https://ja.wikipedia.org/wiki/刑事部 "wikilink")に所属する。
+    実在する日本警察の[特殊部隊](../Page/特殊部隊.md "wikilink")。[刑事部](../Page/刑事部.md "wikilink")に所属する。
 
 ## 補足
 
@@ -223,7 +223,7 @@
 
   - 単行本
 
-:\*上（[文藝春秋](../Page/文藝春秋.md "wikilink")、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")3月、ISBN 978-4-16-324500-3）
+:\*上（[文藝春秋](../Page/文藝春秋.md "wikilink")、[2006年](../Page/2006年.md "wikilink")3月、ISBN 978-4-16-324500-3）
 
 :\*下（文藝春秋、2006年3月、ISBN 978-4-16-324510-2）
 
@@ -231,7 +231,7 @@
 
   - 文庫本
 
-:\*上（[文春文庫](https://ja.wikipedia.org/wiki/文春文庫 "wikilink")、[2009年](../Page/2009年.md "wikilink")2月、ISBN 978-4-16-776301-5）
+:\*上（[文春文庫](../Page/文春文庫.md "wikilink")、[2009年](../Page/2009年.md "wikilink")2月、ISBN 978-4-16-776301-5）
 
 :\*中（文春文庫、2009年2月、ISBN 978-4-16-776302-2）
 
@@ -242,7 +242,7 @@
 ## 関連項目
 
   - [お台場](../Page/お台場.md "wikilink")
-  - [防衛庁情報局](https://ja.wikipedia.org/wiki/防衛庁情報局 "wikilink")
+  - [防衛庁情報局](../Page/防衛庁情報局.md "wikilink")
   - [テルミット・プラス](https://ja.wikipedia.org/wiki/テルミット・プラス "wikilink")
 
 ## 外部リンク

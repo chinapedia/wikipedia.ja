@@ -1,13 +1,13 @@
 > この記事は[PG](https://ja.wikipedia.org/wiki/PG)から翻訳されています。
 
 
-**ペルハム・グレンヴィル・ウッドハウス**（**Pelham Grenville Wodehouse**, [1881年](../Page/1881年.md "wikilink")[10月15日](../Page/10月15日.md "wikilink") - [1975年](../Page/1975年.md "wikilink")[2月14日](../Page/2月14日.md "wikilink")）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[小説家](../Page/小説家.md "wikilink")。[ユーモア](https://ja.wikipedia.org/wiki/ユーモア "wikilink")小説の大家として知られる。
+**ペルハム・グレンヴィル・ウッドハウス**（**Pelham Grenville Wodehouse**, [1881年](../Page/1881年.md "wikilink")[10月15日](../Page/10月15日.md "wikilink") - [1975年](../Page/1975年.md "wikilink")[2月14日](../Page/2月14日.md "wikilink")）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[小説家](../Page/小説家.md "wikilink")。[ユーモア](../Page/ユーモア.md "wikilink")小説の大家として知られる。
 
 ## 生涯
 
 1881年[ロンドン](../Page/ロンドン.md "wikilink")近郊[サリーの](../Page/サリー_\(イングランド\).md "wikilink")[ギルフォードに生まれる](https://ja.wikipedia.org/wiki/ギルフォード_\(イングランド\) "wikilink")。父は当時イギリス領であった[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")の役人で、幼少のころは香港で育った。その後はイギリスにいた何人かのおじ・おばの家で暮らした。その頃は行動をたいへん規制されていたらしく、後年の作品ではおば一般を「怖ろしい存在」として描いている。
 
-[ダリッジ・カレッジ](https://ja.wikipedia.org/wiki/ダリッジ・カレッジ "wikilink")で学び、[オックスフォード大学](../Page/オックスフォード大学.md "wikilink")への進学を希望するものの経済的理由で断念し、1901年に[香港上海銀行](https://ja.wikipedia.org/wiki/香港上海銀行 "wikilink")ロンドン支店に就職する。1902年9月に小説『賞金ハンター』を発表、翌1903年に銀行を退職し、本格的に小説家活動を始める。その後も数々のユーモア小説を発表し、徐々に作家としての地位を築いていった。1909年に拠点をアメリカに移し、ウッドハウスはその後生涯のほとんどを[ニューヨーク](../Page/ニューヨーク.md "wikilink")で過ごし、1955年にはアメリカに帰化している。
+[ダリッジ・カレッジ](../Page/ダリッジ・カレッジ.md "wikilink")で学び、[オックスフォード大学](../Page/オックスフォード大学.md "wikilink")への進学を希望するものの経済的理由で断念し、1901年に[香港上海銀行](../Page/香港上海銀行.md "wikilink")ロンドン支店に就職する。1902年9月に小説『賞金ハンター』を発表、翌1903年に銀行を退職し、本格的に小説家活動を始める。その後も数々のユーモア小説を発表し、徐々に作家としての地位を築いていった。1909年に拠点をアメリカに移し、ウッドハウスはその後生涯のほとんどを[ニューヨーク](../Page/ニューヨーク.md "wikilink")で過ごし、1955年にはアメリカに帰化している。
 
 第二次世界大戦中、旅行先のフランスで[ナチス・ドイツ](../Page/ナチス・ドイツ.md "wikilink")軍に捕らえられ、ナチスが米英へ向けて放送していたラジオ声明に出演させられたことがある。敵国ドイツとの内通者として激しく攻撃された、イギリス国内から激しい非難を受けたが、この放送は、全くのでっちあげで、アメリカ人記者「カサンドラ」ことウィリアム・コナー(1909～1967)がウッドハウスを攻撃する放送原稿を書いたのであった。戦後、彼はあやまちを認め、ウッドハウスに謝罪した。 1975年1月、イギリス女王[エリザベス2世](https://ja.wikipedia.org/wiki/エリザベス2世 "wikilink")から[ナイト](../Page/ナイト.md "wikilink")の称号を与えられたが、翌月に死去した。93歳。
 
@@ -17,7 +17,7 @@
 
 ※主に入手容易な版
 
-  - ウッドハウス・コレクション（[森村たまき](https://ja.wikipedia.org/wiki/森村たまき "wikilink")訳、[国書刊行会](https://ja.wikipedia.org/wiki/国書刊行会 "wikilink")）
+  - ウッドハウス・コレクション（[森村たまき](https://ja.wikipedia.org/wiki/森村たまき "wikilink")訳、[国書刊行会](../Page/国書刊行会.md "wikilink")）
 
 :\* [比類なきジーヴス](https://ja.wikipedia.org/wiki/比類なきジーヴス "wikilink") *The Inimitable Jeeves* （2005年2月）
 
@@ -61,7 +61,7 @@
 
 :\#\* ジーヴズの事件簿 才智縦横の巻／ジーヴズの事件簿 大胆不敵の巻（※文庫分冊、2011年5月）
 
-:\# エムズワース卿の受難録 *The Misgivings of Lord Emsworth* （2005年12月／[文春文庫](https://ja.wikipedia.org/wiki/文春文庫 "wikilink") 2012年8月）
+:\# エムズワース卿の受難録 *The Misgivings of Lord Emsworth* （2005年12月／[文春文庫](../Page/文春文庫.md "wikilink") 2012年8月）
 
 :\# マリナー氏の冒険譚 *The Exploits of the Mulliners* （2007年7月）
 

@@ -5,7 +5,7 @@
 
 ## 概要
 
-前作から約半年ぶりのシングルで、突如発表された活動休止の直前に発売された。[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")[アルバム](../Page/アルバム.md "wikilink")『[EVERYTHING](https://ja.wikipedia.org/wiki/EVERYTHING_\(アルバム\) "wikilink")』と直接の関連はない。
+前作から約半年ぶりのシングルで、突如発表された活動休止の直前に発売された。[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")[アルバム](../Page/アルバム.md "wikilink")『[EVERYTHING](../Page/EVERYTHING_\(アルバム\).md "wikilink")』と直接の関連はない。
 
 アートディレクターは[信藤三雄](../Page/信藤三雄.md "wikilink")。
 
@@ -24,17 +24,17 @@
     <!-- end list -->
       -
         [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")[ドラマ](../Page/テレビドラマ.md "wikilink")『[恋のバカンス](../Page/恋のバカンス_\(テレビドラマ\).md "wikilink")』主題歌。
-        間奏のギターソロは桜井が弾いている。（ライブでは前半は[田原健一](https://ja.wikipedia.org/wiki/田原健一 "wikilink")、後半が桜井)
+        間奏のギターソロは桜井が弾いている。（ライブでは前半は[田原健一](../Page/田原健一.md "wikilink")、後半が桜井)
         [坪倉唯子](../Page/坪倉唯子.md "wikilink")がコーラスとして参加している。（アルバム『BOLERO』に記載。）
         仮タイトルは「**エアロ**」。
-        [ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")が存在し、1997年[4月25日](../Page/4月25日.md "wikilink")発売の『[music clips ALIVE](https://ja.wikipedia.org/wiki/music_clips_ALIVE "wikilink")』、[2018年](../Page/2018年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")発売の『[Mr.Children DOME & STADIUM TOUR 2017 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_DOME_&_STADIUM_TOUR_2017_Thanksgiving_25 "wikilink")』に収録されている。監督は[中野裕之](../Page/中野裕之.md "wikilink")。
+        [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")が存在し、1997年[4月25日](../Page/4月25日.md "wikilink")発売の『[music clips ALIVE](https://ja.wikipedia.org/wiki/music_clips_ALIVE "wikilink")』、[2018年](../Page/2018年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")発売の『[Mr.Children DOME & STADIUM TOUR 2017 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_DOME_&_STADIUM_TOUR_2017_Thanksgiving_25 "wikilink")』に収録されている。監督は[中野裕之](../Page/中野裕之.md "wikilink")。
 2.  **デルモ** \[5:26\]
       - 作詞・作曲：桜井和寿　編曲：小林武史 & Mr.Children
     <!-- end list -->
       -
         女性の観点に立ってモデル稼業の現実と苦悩を歌ったMr.Childrenでは異色の作品。そのため、桜井の歌詞には珍しく「私」という単語が使用されている。
         [2012年](../Page/2012年.md "wikilink")の『[MR.CHILDREN TOUR POPSAURUS 2012](https://ja.wikipedia.org/wiki/MR.CHILDREN_TOUR_POPSAURUS_2012 "wikilink")』でライヴツアーとしては初披露された。
-        歌詞に[おりも政夫](https://ja.wikipedia.org/wiki/おりも政夫 "wikilink")が登場する。
+        歌詞に[おりも政夫](../Page/おりも政夫.md "wikilink")が登場する。
 
 ## 収録アルバム
 

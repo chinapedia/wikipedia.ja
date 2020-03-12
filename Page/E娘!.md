@@ -1,16 +1,16 @@
 > この記事は[E!](https://ja.wikipedia.org/wiki/E!)から翻訳されています。
 
 
-**E娘\!**（いーむすめ\!）は、[TBSで](../Page/TBSテレビ.md "wikilink")[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月6日](../Page/10月6日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで放送された関東ローカルの深夜番組で、放送時間は毎週木曜深夜26:25〜26:52。[BS-i（現・BS-TBS）でも毎週日曜深夜](../Page/BS-TBS.md "wikilink")26:00〜26:30に3日遅れで放送されていた。
+**E娘\!**（いーむすめ\!）は、[TBSで](../Page/TBSテレビ.md "wikilink")[2005年](../Page/2005年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで放送された関東ローカルの深夜番組で、放送時間は毎週木曜深夜26:25〜26:52。[BS-i（現・BS-TBS）でも毎週日曜深夜](../Page/BS-TBS.md "wikilink")26:00〜26:30に3日遅れで放送されていた。
 
 ## 番組概要
 
   - 当初、[山田広野](https://ja.wikipedia.org/wiki/山田広野 "wikilink")の[活弁](https://ja.wikipedia.org/wiki/活弁 "wikilink")口調による語りと、普段とはかけ離れた[ファッション](../Page/ファッション.md "wikilink")で登場する[川田亜子](https://ja.wikipedia.org/wiki/川田亜子 "wikilink")と[青木裕子のフリートーク](https://ja.wikipedia.org/wiki/青木裕子_\(1983年生\) "wikilink")（エンタメに関連すること、それから派生した日常生活のことなど）、また視聴者からのお悩み相談に答える「亜子と裕子の相談室」などのコーナーを交えながらの[エンターテイメント](https://ja.wikipedia.org/wiki/エンターテイメント "wikilink")紹介番組でスタート。
   - 山田広野は、2005年最後の放送日12月22日をもって降板。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")は、1月12日から放送を始め、翌週の1月19日まで、川田と青木の2人で、2005年と同様の形式で番組を進行。
-  - 2006年1月26日放送より「E娘\!バトル」という企画が始まり、エンターテイメント情報の告知を題材に、川田と青木がゲストを立会人（[審判](https://ja.wikipedia.org/wiki/審判 "wikilink")）として、さまざまなテーマで勝負を競う番組になる。2人の[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")の勝負で、敗者は勝者に[インスタントカメラ](https://ja.wikipedia.org/wiki/インスタントカメラ "wikilink")により恥ずかしい写真を撮られるという[罰ゲーム](https://ja.wikipedia.org/wiki/罰ゲーム "wikilink")がある。
+  - [2006年](../Page/2006年.md "wikilink")は、1月12日から放送を始め、翌週の1月19日まで、川田と青木の2人で、2005年と同様の形式で番組を進行。
+  - 2006年1月26日放送より「E娘\!バトル」という企画が始まり、エンターテイメント情報の告知を題材に、川田と青木がゲストを立会人（[審判](https://ja.wikipedia.org/wiki/審判 "wikilink")）として、さまざまなテーマで勝負を競う番組になる。2人の[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")の勝負で、敗者は勝者に[インスタントカメラ](../Page/インスタントカメラ.md "wikilink")により恥ずかしい写真を撮られるという[罰ゲーム](../Page/罰ゲーム.md "wikilink")がある。
   - 2006年2月2日放送をもって、「亜子と裕子の相談室」コーナー終了。
-  - 2006年4月6日放送より「E娘\!バトル」の立会人が女性から男性に代わる。また、エンディングテーマが[時東ぁみ](https://ja.wikipedia.org/wiki/時東ぁみ "wikilink")の「発明美人とパインナッポー\!」になる。
+  - 2006年4月6日放送より「E娘\!バトル」の立会人が女性から男性に代わる。また、エンディングテーマが[時東ぁみ](../Page/時東ぁみ.md "wikilink")の「発明美人とパインナッポー\!」になる。
   - 「E娘\!バトル」は、2006年7月13日放送で川田が10勝到達したことをもってファーストステージ終了とし、2006年7月27日放送よりセカンドステージに移り、罰ゲームがパワーアップした。敗者は、勝者により選ばれたアイテムを身に付け、罰ゲーム言葉集から選ばれた恥ずかしい言葉をテレビカメラに向かって言わなくてはならない。そしてファーストステージと同様、勝者がその姿を[デジタルカメラ](../Page/デジタルカメラ.md "wikilink")で写真におさめる。
   - 「E娘\!バトル」セカンドステージは、2006年12月7日放送で青木が10勝到達したことをもって終了とし、2007年1月11日放送よりサードステージに移った。敗者に科せられる罰ゲームの内容も、抽選BOXから引いた紙に書かれている文字を、全身でアクロバティックに表現するというものに変わった。前ステージ同様、勝者はその姿をデジタルカメラで写真におさめる。また、エンディングテーマが[Fairy-tale](https://ja.wikipedia.org/wiki/Fairy-tale "wikilink")の「Get up\!」に変わった。
   - 「E娘\!バトル」サードステージは、2007年3月8日放送にて両者優勝とし終了となった。
@@ -90,7 +90,7 @@ AP
 <td><p>即興プレゼンバトル</p></td>
 <td><p>○</p></td>
 <td><p>●</p></td>
-<td><p><a href="../Page/村上結花.md" title="wikilink">村上結花</a> (<a href="https://ja.wikipedia.org/wiki/女子大生" title="wikilink">女子大生</a>)</p></td>
+<td><p><a href="../Page/村上結花.md" title="wikilink">村上結花</a> (<a href="../Page/女子大生.md" title="wikilink">女子大生</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p>早口言葉</p></td>
@@ -173,7 +173,7 @@ AP
 <td><p>即興プレゼンバトル</p></td>
 <td><p>●</p></td>
 <td><p>○</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/芦澤奈美" title="wikilink">芦澤奈美</a> (<a href="https://ja.wikipedia.org/wiki/モデル_(職業)" title="wikilink">モデル</a>?)</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/芦澤奈美" title="wikilink">芦澤奈美</a> (<a href="../Page/モデル_(職業).md" title="wikilink">モデル</a>?)</p></td>
 </tr>
 <tr class="even">
 <td><p>原稿早読みバトル</p></td>
@@ -223,7 +223,7 @@ AP
 <td><p>エンタメPR原稿早読み</p></td>
 <td><p>○</p></td>
 <td><p>●</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/石嶋香織" title="wikilink">石嶋香織</a> (<a href="../Page/タレント.md" title="wikilink">タレント</a>※ <a href="https://ja.wikipedia.org/wiki/出動!ミニスカポリス" title="wikilink">ミニスカポリス</a>)</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/石嶋香織" title="wikilink">石嶋香織</a> (<a href="../Page/タレント.md" title="wikilink">タレント</a>※ <a href="../Page/出動!ミニスカポリス.md" title="wikilink">ミニスカポリス</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p>バレエ・バランス対決</p></td>
@@ -349,7 +349,7 @@ AP
 <td><p>黒ひゲイ危機一髪対決</p></td>
 <td><p>●</p></td>
 <td><p>○</p></td>
-<td><p>玲央、未来、HIRO (<a href="https://ja.wikipedia.org/wiki/ホストクラブ" title="wikilink">ホスト</a>)</p></td>
+<td><p>玲央、未来、HIRO (<a href="../Page/ホストクラブ.md" title="wikilink">ホスト</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p>川田亜子 報道アナへの道『E娘!ヘッドライン』</p></td>
@@ -374,7 +374,7 @@ AP
 <td><p>ききみみチャンピオン対決</p></td>
 <td><p>△</p></td>
 <td><p>△</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ダニエル_(曖昧さ回避)" title="wikilink">ダニエル</a> (モデル)</p></td>
+<td><p><a href="../Page/ダニエル_(曖昧さ回避).md" title="wikilink">ダニエル</a> (モデル)</p></td>
 </tr>
 <tr class="even">
 <td><p>川田亜子 報道アナへの道『E娘!ヘッドライン』</p></td>
@@ -450,7 +450,7 @@ AP
 <td><p>『火起こし』対決</p></td>
 <td><p>△</p></td>
 <td><p>△</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/西村裕司" title="wikilink">西村裕司</a> (<a href="https://ja.wikipedia.org/wiki/美容師" title="wikilink">美容師</a>)</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/西村裕司" title="wikilink">西村裕司</a> (<a href="../Page/美容師.md" title="wikilink">美容師</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p>川田亜子 報道アナへの道『E娘!ヘッドライン』</p></td>
@@ -475,7 +475,7 @@ AP
 <td><p>『ドラマ実況』対決</p></td>
 <td><p>○</p></td>
 <td><p>●</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/駒田健吾" title="wikilink">駒田健吾</a> (TBSアナウンサー)</p></td>
+<td><p><a href="../Page/駒田健吾.md" title="wikilink">駒田健吾</a> (TBSアナウンサー)</p></td>
 </tr>
 <tr class="even">
 <td><p>川田亜子 報道アナへの道『E娘!ヘッドライン』</p></td>
@@ -753,7 +753,7 @@ AP
 <td><p>天高く飛び上がれ!跳び箱対決!</p></td>
 <td><p>○</p></td>
 <td><p>●</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レム色" title="wikilink">レム色</a> (お笑いタレント)</p></td>
+<td><p><a href="../Page/レム色.md" title="wikilink">レム色</a> (お笑いタレント)</p></td>
 </tr>
 <tr class="even">
 <td><p>目指せイチロー バッティング対決!</p></td>
@@ -853,7 +853,7 @@ AP
 <td><p>コントロールが命!ストラックアウト対決!</p></td>
 <td><p>●</p></td>
 <td><p>○</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/タイムマシーン3号" title="wikilink">タイムマシーン3号</a> (お笑いタレント)</p></td>
+<td><p><a href="../Page/タイムマシーン3号.md" title="wikilink">タイムマシーン3号</a> (お笑いタレント)</p></td>
 </tr>
 <tr class="even">
 <td><p>川田亜子 脱!バラエティへの道 E娘!ヘッドライン</p></td>
@@ -953,7 +953,7 @@ AP
 <td><p>目指せ!イケメン 変身対決!</p></td>
 <td><p>○</p></td>
 <td><p>●</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ハマカーン" title="wikilink">ハマカーン</a> (お笑いタレント)</p></td>
+<td><p><a href="../Page/ハマカーン.md" title="wikilink">ハマカーン</a> (お笑いタレント)</p></td>
 </tr>
 <tr class="even">
 <td><p>『冬のソナタ』替え歌対決!</p></td>
@@ -978,7 +978,7 @@ AP
 <td><p>目指せ!ダンシングクィーン! シカゴダンス対決!</p></td>
 <td><p>●</p></td>
 <td><p>○</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/杉谷一隆" title="wikilink">杉谷一隆</a> (<a href="https://ja.wikipedia.org/wiki/振付師" title="wikilink">振付師</a>、振付家業air:man主宰)</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/杉谷一隆" title="wikilink">杉谷一隆</a> (<a href="../Page/振付師.md" title="wikilink">振付師</a>、振付家業air:man主宰)</p></td>
 </tr>
 <tr class="odd">
 <td><p>あの頃 君は若かった! 今甦る 懐かしき青春の日々クイズ!</p></td>
@@ -1031,7 +1031,7 @@ AP
 <td><p>コートを華麗に舞え! テニス対決!</p></td>
 <td><p>●</p></td>
 <td><p>○</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/田中要次" title="wikilink">田中要次</a> (俳優)<br />
+<td><p><a href="../Page/田中要次.md" title="wikilink">田中要次</a> (俳優)<br />
 <br />
 2回戦ゲスト：<br />
 三浦翔平(俳優)※4回目</p></td>
@@ -1112,7 +1112,7 @@ AP
 <td><p>書に挑戦 書き初め対決</p></td>
 <td><p>○</p></td>
 <td><p>●</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/磁石_(お笑いコンビ)" title="wikilink">磁石</a> (お笑いタレント)</p></td>
+<td><p><a href="../Page/磁石_(お笑いコンビ).md" title="wikilink">磁石</a> (お笑いタレント)</p></td>
 </tr>
 <tr class="even">
 <td><p>女と女の真剣勝負 チャンバラファイト対決!</p></td>
@@ -1187,7 +1187,7 @@ AP
 <td><p>花嫁修業 2番勝負 ブーケ対決!</p></td>
 <td><p>●</p></td>
 <td><p>○</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/5番6番" title="wikilink">5番6番</a> (お笑いタレント)</p></td>
+<td><p><a href="../Page/5番6番.md" title="wikilink">5番6番</a> (お笑いタレント)</p></td>
 </tr>
 <tr class="odd">
 <td><p>目指せ!TBSの看板アナウンサー E娘!ヘッドライン</p></td>
@@ -1198,7 +1198,7 @@ AP
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/熊川哲也" title="wikilink">熊川哲也</a>を超えろ! ジャンプ力対決!3本勝負</p></td>
+<td><p><a href="../Page/熊川哲也.md" title="wikilink">熊川哲也</a>を超えろ! ジャンプ力対決!3本勝負</p></td>
 <td><p>○</p></td>
 <td><p>●</p></td>
 <td></td>
@@ -1209,7 +1209,7 @@ AP
 <td><p>5</p></td>
 <td><p>rowspan=3 nowrap | 2007年2月8日<br />
 <strong>勝者：青木</strong></p></td>
-<td><p>目指せ!<a href="https://ja.wikipedia.org/wiki/川相昌弘" title="wikilink">川相昌弘</a>さん! 職人バント対決</p></td>
+<td><p>目指せ!<a href="../Page/川相昌弘.md" title="wikilink">川相昌弘</a>さん! 職人バント対決</p></td>
 <td></td>
 <td><p>○</p></td>
 <td><p>●</p></td>
@@ -1263,10 +1263,10 @@ AP
 <td><p>7</p></td>
 <td><p>rowspan=3 nowrap | 2007年2月22日<br />
 <strong>勝者：川田</strong></p></td>
-<td><p>映画『<a href="https://ja.wikipedia.org/wiki/どろろ" title="wikilink">どろろ</a>』超ヒット御礼! ボビーを倒せ!チャンバラ対決!</p></td>
+<td><p>映画『<a href="../Page/どろろ.md" title="wikilink">どろろ</a>』超ヒット御礼! ボビーを倒せ!チャンバラ対決!</p></td>
 <td><p>○</p></td>
 <td><p>●</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ボビー・オロゴン" title="wikilink">ボビー・オロゴン</a> (タレント)</p></td>
+<td><p><a href="../Page/ボビー・オロゴン.md" title="wikilink">ボビー・オロゴン</a> (タレント)</p></td>
 </tr>
 <tr class="even">
 <td><p>目指せ!TBSの看板アナウンサー! E娘!ヘッドライン対決!</p></td>
@@ -1291,7 +1291,7 @@ AP
 <td><p>ブタミントン対決!</p></td>
 <td><p>○</p></td>
 <td><p>●</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/三拍子_(お笑いコンビ)" title="wikilink">三拍子</a> (お笑いタレント)</p></td>
+<td><p><a href="../Page/三拍子_(お笑いコンビ).md" title="wikilink">三拍子</a> (お笑いタレント)</p></td>
 </tr>
 <tr class="odd">
 <td><p>目指せ!TBSの看板アナウンサー! E娘!ヘッドライン対決!</p></td>
@@ -1317,7 +1317,7 @@ AP
 ガチンコプレゼン対決!</p></td>
 <td><p>○</p></td>
 <td><p>●</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ハマカーン" title="wikilink">ハマカーン</a> (お笑いタレント)<br />
+<td><p><a href="../Page/ハマカーン.md" title="wikilink">ハマカーン</a> (お笑いタレント)<br />
 ※2回目</p></td>
 </tr>
 <tr class="even">
@@ -1346,15 +1346,15 @@ E娘!ヘッドライン特別編</p></td>
 通常の番組構成以外の放送
 
   - 2005年12月22日 Xmasパーティーの楽しみ方
-  - 2006年3月30日 [ミスマガジン](https://ja.wikipedia.org/wiki/ミスマガジン "wikilink")2006SP\!\!、E娘\!バトル名場面
+  - 2006年3月30日 [ミスマガジン](../Page/ミスマガジン.md "wikilink")2006SP\!\!、E娘\!バトル名場面
   - 2006年4月13日 [ブロードウェイ](https://ja.wikipedia.org/wiki/ブロードウェイ "wikilink")ミュージカル「[ムーヴィン・アウト](https://ja.wikipedia.org/wiki/ムーヴィン・アウト "wikilink")」特集
   - 2006年6月8日 ミスマガジン2006バトル前半戦
 
 <!-- end list -->
 
   -
-    [ミスマガジン](https://ja.wikipedia.org/wiki/ミスマガジン "wikilink")2006特別篇。ミスマガジンの最終候補者5人に川田が加わり、3人ずつ2チームに分かれてバトルが行なわれた。
-    出演 [倉科カナ](https://ja.wikipedia.org/wiki/倉科カナ "wikilink")、[松井絵里奈](https://ja.wikipedia.org/wiki/松井絵里奈 "wikilink")、[仲村みう](https://ja.wikipedia.org/wiki/仲村みう "wikilink")、[草場恵](https://ja.wikipedia.org/wiki/草場恵 "wikilink")、[入船加澄実](https://ja.wikipedia.org/wiki/入船加澄実 "wikilink")
+    [ミスマガジン](../Page/ミスマガジン.md "wikilink")2006特別篇。ミスマガジンの最終候補者5人に川田が加わり、3人ずつ2チームに分かれてバトルが行なわれた。
+    出演 [倉科カナ](https://ja.wikipedia.org/wiki/倉科カナ "wikilink")、[松井絵里奈](../Page/松井絵里奈.md "wikilink")、[仲村みう](../Page/仲村みう.md "wikilink")、[草場恵](../Page/草場恵.md "wikilink")、[入船加澄実](../Page/入船加澄実.md "wikilink")
 
 <!-- end list -->
 
@@ -1408,7 +1408,7 @@ E娘!ヘッドライン特別編</p></td>
   -
     両アナウンサーが、過去に行なったバトルの中で敗退したものを各々1つ選び、再バトルを行なった。
     川田は2006年10月12日放送のストラックアウト対決、青木は2006年05月11日放送のケーキのデコレーション対決（萌え萌えクッキング対決）を選択。
-    立会人（ゲスト）は[ビックスモールン](https://ja.wikipedia.org/wiki/ビックスモールン "wikilink")。
+    立会人（ゲスト）は[ビックスモールン](../Page/ビックスモールン.md "wikilink")。
 
 <!-- end list -->
 

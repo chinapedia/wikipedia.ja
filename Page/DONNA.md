@@ -1,7 +1,7 @@
 > この記事は[DONNA](https://ja.wikipedia.org/wiki/DONNA)から翻訳されています。
 
 
-**DONNA（ダナ）**は男女4人の[MCによって構成される](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ダンスホールレゲエ](https://ja.wikipedia.org/wiki/ダンスホールレゲエ "wikilink")[ユニットである](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")。[2004年](../Page/2004年.md "wikilink")の結成以来、[東京や](https://ja.wikipedia.org/wiki/東京都 "wikilink")[横浜のクラブイベントを中心にライブ活動を行う](../Page/横浜市.md "wikilink")。
+**DONNA（ダナ）**は男女4人の[MCによって構成される](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ダンスホールレゲエ](../Page/ダンスホールレゲエ.md "wikilink")[ユニットである](../Page/音楽ユニット.md "wikilink")。[2004年](../Page/2004年.md "wikilink")の結成以来、[東京や](../Page/東京都.md "wikilink")[横浜のクラブイベントを中心にライブ活動を行う](../Page/横浜市.md "wikilink")。
 
 ## 概要・来歴
 

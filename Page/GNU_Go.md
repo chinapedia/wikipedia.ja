@@ -44,7 +44,7 @@ GNU Go 3.8 February 19, 2009.（最新安定版）
   - [CGoban](http://sourceforge.net/projects/cgoban1/) - Linux / Unix
   - [Drago](http://www.godrago.net/) - Windows
   - [gGo](http://panda-igs.joyjoy.net/java/gGo/) - [Java](https://ja.wikipedia.org/wiki/Java "wikilink")ベース
-  - [glGo](http://ggo.sf.net) - Linux / Windows; [3Dによる碁盤表示の](../Page/3次元コンピュータグラフィックス.md "wikilink")[プロトタイプ](https://ja.wikipedia.org/wiki/プロトタイプ "wikilink")
+  - [glGo](http://ggo.sf.net) - Linux / Windows; [3Dによる碁盤表示の](../Page/3次元コンピュータグラフィックス.md "wikilink")[プロトタイプ](../Page/プロトタイプ.md "wikilink")
   - [Goban](http://www.sente.ch/software/goban/) - macOS
   - [GoGui](http://gogui.sourceforge.net) - Javaベース
   - [Jago](http://www.rene-grothmann.de/jago/) - Javaベース

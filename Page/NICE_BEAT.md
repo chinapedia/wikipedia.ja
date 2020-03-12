@@ -13,7 +13,7 @@
 
 ## 収録曲
 
-  - 全作詞・作曲：[伊藤俊吾](https://ja.wikipedia.org/wiki/伊藤俊吾 "wikilink")、編曲：[キンモクセイ](../Page/キンモクセイ_\(バンド\).md "wikilink")&[佐橋佳幸](https://ja.wikipedia.org/wiki/佐橋佳幸 "wikilink")（特記以外）
+  - 全作詞・作曲：[伊藤俊吾](https://ja.wikipedia.org/wiki/伊藤俊吾 "wikilink")、編曲：[キンモクセイ](../Page/キンモクセイ_\(バンド\).md "wikilink")&[佐橋佳幸](../Page/佐橋佳幸.md "wikilink")（特記以外）
 
 <!-- end list -->
 
@@ -38,7 +38,7 @@
         編曲：キンモクセイ
 12. **[むすんでひらいて](../Page/むすんでひらいて_\(キンモクセイの曲\).md "wikilink")**
       - 10thシングル。
-      - [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")』2004年12月度エンディングテーマ。
+      - [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")』2004年12月度エンディングテーマ。
 
 ### NICE BONUS盤
 
@@ -46,7 +46,7 @@
       -
         作詞・作曲：[大瀧詠一](../Page/大瀧詠一.md "wikilink")、編曲：キンモクセイ
     <!-- end list -->
-      - [吉田美奈子](https://ja.wikipedia.org/wiki/吉田美奈子 "wikilink")のカバーで、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月16日](../Page/2月16日.md "wikilink")に11thシングルとして[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")された。
+      - [吉田美奈子](https://ja.wikipedia.org/wiki/吉田美奈子 "wikilink")のカバーで、[2005年](../Page/2005年.md "wikilink")[2月16日](../Page/2月16日.md "wikilink")に11thシングルとして[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")された。
       - [ダイハツ](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")『[ミラジーノ](../Page/ダイハツ・ミラジーノ.md "wikilink")』CMソング。
 2.  **[踊ろよ、フィッシュ](https://ja.wikipedia.org/wiki/踊ろよ、フィッシュ "wikilink")**
       -
@@ -57,7 +57,7 @@
       -
         編曲：キンモクセイ
     <!-- end list -->
-      - [松たか子](https://ja.wikipedia.org/wiki/松たか子 "wikilink")への提供曲の[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")。
+      - [松たか子](https://ja.wikipedia.org/wiki/松たか子 "wikilink")への提供曲の[セルフカバー](../Page/セルフカバー.md "wikilink")。
 4.  **[二人のムラサキ東京](../Page/二人のムラサキ東京.md "wikilink")**
       - **キンモクセイと東京ジェンヌ**名義でリリースされたシングル。
 

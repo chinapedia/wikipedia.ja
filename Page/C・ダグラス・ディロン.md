@@ -1,7 +1,7 @@
 > この記事は[C](https://ja.wikipedia.org/wiki/C)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:C_Douglas_Dillon.jpg "wikilink") **クラレンス・ダグラス・ディロン**（**Clarence Douglas Dillon**, [1909年](../Page/1909年.md "wikilink")[8月21日](../Page/8月21日.md "wikilink") - [2003年](../Page/2003年.md "wikilink")[1月10日](../Page/1月10日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[政治家](../Page/政治家.md "wikilink")、[外交官](../Page/外交官.md "wikilink")である。1953年から57年まで[駐仏大使](https://ja.wikipedia.org/wiki/在フランスアメリカ合衆国大使 "wikilink")、1961年から65年まで第57代財務長官を務めた。彼はまた[キューバ危機](../Page/キューバ危機.md "wikilink")における国家安全保障会議執行委員会（[エクスコム](https://ja.wikipedia.org/wiki/エクスコム "wikilink")）の重要なメンバーであった。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:C_Douglas_Dillon.jpg "wikilink") **クラレンス・ダグラス・ディロン**（**Clarence Douglas Dillon**, [1909年](../Page/1909年.md "wikilink")[8月21日](../Page/8月21日.md "wikilink") - [2003年](../Page/2003年.md "wikilink")[1月10日](../Page/1月10日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[政治家](../Page/政治家.md "wikilink")、[外交官](../Page/外交官.md "wikilink")である。1953年から57年まで[駐仏大使](https://ja.wikipedia.org/wiki/在フランスアメリカ合衆国大使 "wikilink")、1961年から65年まで第57代財務長官を務めた。彼はまた[キューバ危機](../Page/キューバ危機.md "wikilink")における国家安全保障会議執行委員会（[エクスコム](../Page/エクスコム.md "wikilink")）の重要なメンバーであった。
 
 ## 生涯
 
@@ -9,13 +9,13 @@
 
 彼は[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中に[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")で勤務している。
 
-ディロンは[民主党の](../Page/民主党_\(アメリカ\).md "wikilink")[ジョン・F・ケネディ](../Page/ジョン・F・ケネディ.md "wikilink")[大統領から財務長官に任命されたが](../Page/アメリカ合衆国大統領.md "wikilink")、彼自身は[共和党員であった](../Page/共和党_\(アメリカ\).md "wikilink")。彼の政策は強固な景気拡大であり、[リンドン・ジョンソン](../Page/リンドン・ジョンソン.md "wikilink")大統領は[ケネディ暗殺後も彼をその職に留めた](https://ja.wikipedia.org/wiki/ケネディ大統領暗殺事件 "wikilink")。
+ディロンは[民主党の](../Page/民主党_\(アメリカ\).md "wikilink")[ジョン・F・ケネディ](../Page/ジョン・F・ケネディ.md "wikilink")[大統領から財務長官に任命されたが](../Page/アメリカ合衆国大統領.md "wikilink")、彼自身は[共和党員であった](../Page/共和党_\(アメリカ\).md "wikilink")。彼の政策は強固な景気拡大であり、[リンドン・ジョンソン](../Page/リンドン・ジョンソン.md "wikilink")大統領は[ケネディ暗殺後も彼をその職に留めた](../Page/ケネディ大統領暗殺事件.md "wikilink")。
 
 彼はその後父親のクラレンス・ディロンと共に共同設立したディロン・リード&カンパニー ([Dillon, Read & Co.](https://ja.wikipedia.org/wiki/:w:Dillon,_Read_&_Co. "wikilink")) の副社長、社長、取締役会長を務めた。
 
-ディロンは[ニューヨーク](../Page/ニューヨーク.md "wikilink")の[メトロポリタン美術館](../Page/メトロポリタン美術館.md "wikilink")の館長を務め、[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")ギャラリーを設立した。また美術館に個人的に2,000万ドルを寄付し、さらに1億ドルを集めた募金の指揮を行った。
+ディロンは[ニューヨーク](../Page/ニューヨーク.md "wikilink")の[メトロポリタン美術館](../Page/メトロポリタン美術館.md "wikilink")の館長を務め、[中国](../Page/中国.md "wikilink")ギャラリーを設立した。また美術館に個人的に2,000万ドルを寄付し、さらに1億ドルを集めた募金の指揮を行った。
 
-彼は1989年に[大統領自由勲章](https://ja.wikipedia.org/wiki/大統領自由勲章 "wikilink")を受章している。
+彼は1989年に[大統領自由勲章](../Page/大統領自由勲章.md "wikilink")を受章している。
 
 ディロンは2番目の妻と2人の娘がおり、余生を[コネティカット州](https://ja.wikipedia.org/wiki/コネティカット州 "wikilink")フェアフィールドで過ごした。
 

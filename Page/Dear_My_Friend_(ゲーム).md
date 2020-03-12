@@ -5,19 +5,19 @@
 
 ## 概要
 
-[light](https://ja.wikipedia.org/wiki/light "wikilink")作品『[Sultan 〜The Lovesong is Forever〜](https://ja.wikipedia.org/wiki/Sultan_〜The_Lovesong_is_Forever〜 "wikilink")』を手掛けた、原画・[くすくす](https://ja.wikipedia.org/wiki/くすくす "wikilink")と、シナリオ・[NYAON](https://ja.wikipedia.org/wiki/NYAON "wikilink")のタッグでの新作（一部のシナリオはlightの[正田崇](https://ja.wikipedia.org/wiki/正田崇 "wikilink")が担当している）。
+[light](https://ja.wikipedia.org/wiki/light "wikilink")作品『[Sultan 〜The Lovesong is Forever〜](https://ja.wikipedia.org/wiki/Sultan_〜The_Lovesong_is_Forever〜 "wikilink")』を手掛けた、原画・[くすくす](../Page/くすくす.md "wikilink")と、シナリオ・[NYAON](https://ja.wikipedia.org/wiki/NYAON "wikilink")のタッグでの新作（一部のシナリオはlightの[正田崇](https://ja.wikipedia.org/wiki/正田崇 "wikilink")が担当している）。
 
 システムはテキスト型アドベンチャー。どのヒロインのシナリオに進むかは前半でたびたび出現する場所移動の選択によって決定される。選択肢もいくつか存在するが、一部の特殊な例外を除いてはストーリーに直接かかわるものではない。
 
 公式グッズには予約特典及びイベント時に販売されるテレホンカード・カレンダーの他に、2004年冬のコミックマーケットで販売された各キャラクターの音声を収録した目覚まし時計がある。
 
-本作の制作スタッフと一部の声優が『[もしも明日が晴れならば](https://ja.wikipedia.org/wiki/もしも明日が晴れならば "wikilink")』（[ぱれっと](https://ja.wikipedia.org/wiki/ぱれっと_\(ゲームブランド\) "wikilink")）に引き継がれている。
+本作の制作スタッフと一部の声優が『[もしも明日が晴れならば](../Page/もしも明日が晴れならば.md "wikilink")』（[ぱれっと](../Page/ぱれっと_\(ゲームブランド\).md "wikilink")）に引き継がれている。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月28日](../Page/4月28日.md "wikilink")には[CEROレーティング](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")15歳以上対象の[PlayStation 2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『**Dear My Friend 〜Love like powderly snow〜**』（粉雪のような恋）が[イエティより](../Page/イエティ_\(ゲームブランド\).md "wikilink")1万本の限定生産で発売された。PS2版にはBGMを収録した[ソノシート](https://ja.wikipedia.org/wiki/ソノシート "wikilink")が同梱されているが、これを最後に[東洋化成](https://ja.wikipedia.org/wiki/東洋化成 "wikilink")がソノシートのプレスを打ち切り、国産ソノシートレコードの終焉となった\[1\]。なお、ハードの画像メモリの都合でPS2版は動作速度が遅く、プレイの際にもたつきを感じると言われている\[2\]。
+[2005年](../Page/2005年.md "wikilink")[4月28日](../Page/4月28日.md "wikilink")には[CEROレーティング](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")15歳以上対象の[PlayStation 2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『**Dear My Friend 〜Love like powderly snow〜**』（粉雪のような恋）が[イエティより](../Page/イエティ_\(ゲームブランド\).md "wikilink")1万本の限定生産で発売された。PS2版にはBGMを収録した[ソノシート](../Page/ソノシート.md "wikilink")が同梱されているが、これを最後に[東洋化成](https://ja.wikipedia.org/wiki/東洋化成 "wikilink")がソノシートのプレスを打ち切り、国産ソノシートレコードの終焉となった\[1\]。なお、ハードの画像メモリの都合でPS2版は動作速度が遅く、プレイの際にもたつきを感じると言われている\[2\]。
 
 PS2版以降ではPC版で楽しめたアナザーストーリー(AS)\[3\]機能がなくなった代わりに、麻衣以外の各ヒロインの追加シナリオと各ヒロイン5名+司役の声優インタビュー、そして月夜シナリオにバッドエンドが追加された。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月9日](../Page/12月9日.md "wikilink")にはCD版とPS2版、そしてその2つの良い部分を合わせたマージ版を1枚の[DVD](../Page/DVD.md "wikilink")にまとめた『**Dear My Friend Complete version**』（完全版）が発売された。完全版の初回特典にはゲーム中BGMの[サウンドトラック](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")と本来別売予定だった80ページの原画集が同梱された。CD版の初回特典も中身が全く同じのサウンドトラックであったが、CD版が赤一色で麻衣が描かれているのに対し、DVD完全版は麻衣と都香が描かれたピクチャーレーベルになっている。
+[2005年](../Page/2005年.md "wikilink")[12月9日](../Page/12月9日.md "wikilink")にはCD版とPS2版、そしてその2つの良い部分を合わせたマージ版を1枚の[DVD](../Page/DVD.md "wikilink")にまとめた『**Dear My Friend Complete version**』（完全版）が発売された。完全版の初回特典にはゲーム中BGMの[サウンドトラック](../Page/サウンドトラック.md "wikilink")と本来別売予定だった80ページの原画集が同梱された。CD版の初回特典も中身が全く同じのサウンドトラックであったが、CD版が赤一色で麻衣が描かれているのに対し、DVD完全版は麻衣と都香が描かれたピクチャーレーベルになっている。
 
 2008年4月4日に発売の『lightBOX2008』にDMF完全版（Windows Vista対応）が再収録された。
 
@@ -37,7 +37,7 @@ PS2版以降ではPC版で楽しめたアナザーストーリー(AS)\[3\]機能
 <!-- end list -->
 
   - 久城 麻衣（くしろ まい）
-    [声](../Page/声優.md "wikilink") : [かわしまりの](https://ja.wikipedia.org/wiki/かわしまりの "wikilink")
+    [声](../Page/声優.md "wikilink") : [かわしまりの](../Page/かわしまりの.md "wikilink")
     不景気のために孤児院が潰れることにより、ある日突然恭一の父親が連れてきた孤児。恭一と同級生として通うことになる。性格はとにかく控え目、ドジ、鈍く、いつも他人の視線を必要以上に気にする。いつも何かの役に立とうと一生懸命に考えているが、大抵空回りする。しかし、時々嘘のように勘が鋭くなることもある。
     孤児院に入る前は母と二人で暮らしていた。関係は決して良好と言えなかったが、数少ない彼女との思い出の品である薄汚れた[テディベア](../Page/テディベア.md "wikilink")を「お母さん」と呼んで大事にしている。
     ホットケーキが大好物で、仮に冷めてても学食ではいつもホットケーキを選ぶほど。恭一のことを「恭くん」、都香のことを「みやちゃん」と呼ぶ。「にゅう」が口癖。
@@ -62,7 +62,7 @@ PS2版以降ではPC版で楽しめたアナザーストーリー(AS)\[3\]機能
 <!-- end list -->
 
   - 永村 冴香（ながむら さえか）
-    声 : [一色ヒカル](https://ja.wikipedia.org/wiki/一色ヒカル "wikilink")
+    声 : [一色ヒカル](../Page/一色ヒカル.md "wikilink")
     学園の三年生で恭一より1歳年上。森川家の向かいに住む。子供の時に恭一のファーストキスを奪い、しかも彼の前歯を折ってしまった等数々の恐怖体験を刷り込ませたことにより、恭一にとって天敵となっている。恭一から「冴香姉」と呼ばれ、自身も何かにつけて姉貴風を吹かせており、恭一を「小僧っ子」などと呼んだりする。父親は大学教授で海外出張中。母親も追いかけて家を空けているため、それをいいことにやりたい放題の毎日である。都香と仲が良い。
     プレイヤーの選択によっては初登場以降、全く姿を見せないままエンディングを迎える。
 
@@ -88,7 +88,7 @@ PS2版以降ではPC版で楽しめたアナザーストーリー(AS)\[3\]機能
 <!-- end list -->
 
   - 森川 こずえ（もりかわ こずえ）
-    声 : [緒田マリ](https://ja.wikipedia.org/wiki/緒田マリ "wikilink")
+    声 : [緒田マリ](../Page/緒田マリ.md "wikilink")
     主人公の母親。職業は看護師。何故か文人に惚れており、反対されていた家族と縁を切ってでも文人と結婚する道を選んだ。しかし浮気したら「殺す」と笑顔で公言する。旧姓は北沢。都香の父親である北沢伸一の妹である。
 
 <!-- end list -->
@@ -153,7 +153,7 @@ PS2版以降ではPC版で楽しめたアナザーストーリー(AS)\[3\]機能
 ## スタッフ
 
   - シナリオ:NYAON、正田 崇
-  - 原画:[くすくす](https://ja.wikipedia.org/wiki/くすくす "wikilink")
+  - 原画:[くすくす](../Page/くすくす.md "wikilink")
   - 音楽:[樋口秀樹](https://ja.wikipedia.org/wiki/樋口秀樹 "wikilink")、[梶原正裕](../Page/梶原正裕.md "wikilink")
       - オープニング「Dear My Friend」
       - エンディング「昔、夢見てたことは」
@@ -166,12 +166,12 @@ PS2版以降ではPC版で楽しめたアナザーストーリー(AS)\[3\]機能
       -
         以上全て、作詞・作曲:樋口秀樹、Vocal:[WHITE-LIPS](https://ja.wikipedia.org/wiki/WHITE-LIPS "wikilink")
 
-オープニングテーマ曲「Dear My Friend」のフルバージョンは、付録サウンドトラックCD及び「White Lips Vocal Collection」（発売[Tynwald music](https://ja.wikipedia.org/wiki/Tynwald_music "wikilink")）で聴くことができる。
+オープニングテーマ曲「Dear My Friend」のフルバージョンは、付録サウンドトラックCD及び「White Lips Vocal Collection」（発売[Tynwald music](../Page/Tynwald_music.md "wikilink")）で聴くことができる。
 
 ## 関連項目
 
   - [Sultan 〜The Lovesong is Forever〜](https://ja.wikipedia.org/wiki/Sultan_〜The_Lovesong_is_Forever〜 "wikilink")
-  - [もしも明日が晴れならば](https://ja.wikipedia.org/wiki/もしも明日が晴れならば "wikilink")
+  - [もしも明日が晴れならば](../Page/もしも明日が晴れならば.md "wikilink")
   - [さくらシュトラッセ](../Page/さくらシュトラッセ.md "wikilink")
 
 ## 外部リンク

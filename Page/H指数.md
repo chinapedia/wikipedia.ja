@@ -32,7 +32,7 @@
 
   - [エンデル・タルヴィング](https://ja.wikipedia.org/wiki/エンデル・タルヴィング "wikilink")(Endel Tulving:心理学者）h = 64
 
-      - アメリカ・[セントルイス・ワシントン大学](https://ja.wikipedia.org/wiki/セントルイス・ワシントン大学 "wikilink")の心理学教授12人のh-indexの平均は28.1である。
+      - アメリカ・[セントルイス・ワシントン大学](../Page/セントルイス・ワシントン大学.md "wikilink")の心理学教授12人のh-indexの平均は28.1である。
 
 ## 参照
 

@@ -1,7 +1,7 @@
 > この記事は[Tommy heavenly6 Heavy Starry tour\'07](https://ja.wikipedia.org/wiki/Tommy_heavenly6_Heavy_Starry_tour\'07)から翻訳されています。
 
 
-**Tommy heavenly6 Heavy Starry tour'07**（トミー・ヘヴンリー ヘヴィ スターリィ ツアー ゼロナナ）とは[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")[the brilliant greenのボーカル](https://ja.wikipedia.org/wiki/the_brilliant_green "wikilink")、[川瀬智子](https://ja.wikipedia.org/wiki/川瀬智子 "wikilink")が自身のソロプロジェクト「Tommy heavenly6」名義にて[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[3月15日](../Page/3月15日.md "wikilink")から[3月29日](../Page/3月29日.md "wikilink")まで行った全4ヶ所の全国ライブツアーである。
+**Tommy heavenly6 Heavy Starry tour'07**（トミー・ヘヴンリー ヘヴィ スターリィ ツアー ゼロナナ）とは[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")[the brilliant greenのボーカル](https://ja.wikipedia.org/wiki/the_brilliant_green "wikilink")、[川瀬智子](https://ja.wikipedia.org/wiki/川瀬智子 "wikilink")が自身のソロプロジェクト「Tommy heavenly6」名義にて[2007年](../Page/2007年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")から[3月29日](../Page/3月29日.md "wikilink")まで行った全4ヶ所の全国ライブツアーである。
 
 ## 概要
 

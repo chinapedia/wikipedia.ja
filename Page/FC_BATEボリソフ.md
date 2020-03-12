@@ -5,7 +5,7 @@
 
 ## 歴史
 
-1973年に創設され、ソビエト連邦時代はベラルーシリーグで3度の優勝に輝いたが、1981年にクラブ解散となった。1996年に経済学者のアナトリ・カプスキ会長が中心となってクラブが再建され\[1\]、1998年に[ベラルーシ・プレミアリーグ](https://ja.wikipedia.org/wiki/ベラルーシ・プレミアリーグ "wikilink")（1部）昇格を果たすと、1998-99シーズンには昇格初年度ながらリーグ優勝を果たした。若手の育成を重視し、[アレクサンドル・フレブ](https://ja.wikipedia.org/wiki/アレクサンドル・フレブ "wikilink")や[ビタリー・クツゾフ](https://ja.wikipedia.org/wiki/ビタリー・クツゾフ "wikilink")などのタレントを輩出しながら、常に上位争いに加わった\[2\]。いずれも予選1回戦から参加した[UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")において、2000-01シーズンは予選2回戦敗退、2003-04シーズンは予選1回戦敗退であった。2006-07シーズンには再建後2度目のリーグ優勝を果たし、[ビクトル・ゴンチャレンコ](https://ja.wikipedia.org/wiki/ビクトル・ゴンチャレンコ "wikilink")監督を登用した2007-08シーズンには2連覇を達成した。2008-09シーズンの[UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")予選では[ヴァルルFC](https://ja.wikipedia.org/wiki/ヴァルルFC "wikilink")、[RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト "wikilink")、[PFCレフスキ・ソフィア](https://ja.wikipedia.org/wiki/PFCレフスキ・ソフィア "wikilink")を倒し、ベラルーシのクラブとして初めての欧州カップ戦本選グループリーグ出場を果たした\[3\]。本選に出場する32クラブの中で[UEFAランキング](https://ja.wikipedia.org/wiki/UEFAランキング "wikilink")は最下位であり、グループリーグではイタリアの[ユヴェントスFC](../Page/ユヴェントスFC.md "wikilink")、スペインの[レアル・マドリード](https://ja.wikipedia.org/wiki/レアル・マドリード "wikilink")、ロシアの[FCゼニト・サンクトペテルブルク](../Page/FCゼニト・サンクトペテルブルク.md "wikilink")と同組となった。1勝もできずにグループリーグ最下位に終わったが、アウェーのゼニト戦とユヴェントスFC戦2試合に引き分けて勝ち点3を獲得した\[4\]。2009-10シーズンの[UEFAヨーロッパリーグ](../Page/UEFAヨーロッパリーグ.md "wikilink")ではポルトガルの[SLベンフィカ](https://ja.wikipedia.org/wiki/SLベンフィカ "wikilink")、イングランドの[エヴァートンFC](https://ja.wikipedia.org/wiki/エヴァートンFC "wikilink")、ギリシャの[AEKアテネFC](https://ja.wikipedia.org/wiki/AEKアテネFC "wikilink")と同組となったが、グループリーグ敗退に終わった。2010-11シーズンの同大会ではオランダの[AZアルクマール](https://ja.wikipedia.org/wiki/AZアルクマール "wikilink")、[FCディナモ・キエフ](https://ja.wikipedia.org/wiki/FCディナモ・キエフ "wikilink")、[FCシェリフ・ティラスポリ](https://ja.wikipedia.org/wiki/FCシェリフ・ティラスポリ "wikilink")と同組となったが、D・キエフに次ぐグループ2位で決勝トーナメント進出を決めた。決勝トーナメント1回戦ではフランスの[パリ・サンジェルマンFC](https://ja.wikipedia.org/wiki/パリ・サンジェルマンFC "wikilink")と対戦し、アウェーゴール差で敗退した。
+1973年に創設され、ソビエト連邦時代はベラルーシリーグで3度の優勝に輝いたが、1981年にクラブ解散となった。1996年に経済学者のアナトリ・カプスキ会長が中心となってクラブが再建され\[1\]、1998年に[ベラルーシ・プレミアリーグ](https://ja.wikipedia.org/wiki/ベラルーシ・プレミアリーグ "wikilink")（1部）昇格を果たすと、1998-99シーズンには昇格初年度ながらリーグ優勝を果たした。若手の育成を重視し、[アレクサンドル・フレブ](../Page/アレクサンドル・フレブ.md "wikilink")や[ビタリー・クツゾフ](https://ja.wikipedia.org/wiki/ビタリー・クツゾフ "wikilink")などのタレントを輩出しながら、常に上位争いに加わった\[2\]。いずれも予選1回戦から参加した[UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")において、2000-01シーズンは予選2回戦敗退、2003-04シーズンは予選1回戦敗退であった。2006-07シーズンには再建後2度目のリーグ優勝を果たし、[ビクトル・ゴンチャレンコ](https://ja.wikipedia.org/wiki/ビクトル・ゴンチャレンコ "wikilink")監督を登用した2007-08シーズンには2連覇を達成した。2008-09シーズンの[UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")予選では[ヴァルルFC](https://ja.wikipedia.org/wiki/ヴァルルFC "wikilink")、[RSCアンデルレヒト](../Page/RSCアンデルレヒト.md "wikilink")、[PFCレフスキ・ソフィア](https://ja.wikipedia.org/wiki/PFCレフスキ・ソフィア "wikilink")を倒し、ベラルーシのクラブとして初めての欧州カップ戦本選グループリーグ出場を果たした\[3\]。本選に出場する32クラブの中で[UEFAランキング](../Page/UEFAランキング.md "wikilink")は最下位であり、グループリーグではイタリアの[ユヴェントスFC](../Page/ユヴェントスFC.md "wikilink")、スペインの[レアル・マドリード](https://ja.wikipedia.org/wiki/レアル・マドリード "wikilink")、ロシアの[FCゼニト・サンクトペテルブルク](../Page/FCゼニト・サンクトペテルブルク.md "wikilink")と同組となった。1勝もできずにグループリーグ最下位に終わったが、アウェーのゼニト戦とユヴェントスFC戦2試合に引き分けて勝ち点3を獲得した\[4\]。2009-10シーズンの[UEFAヨーロッパリーグ](../Page/UEFAヨーロッパリーグ.md "wikilink")ではポルトガルの[SLベンフィカ](../Page/SLベンフィカ.md "wikilink")、イングランドの[エヴァートンFC](../Page/エヴァートンFC.md "wikilink")、ギリシャの[AEKアテネFC](https://ja.wikipedia.org/wiki/AEKアテネFC "wikilink")と同組となったが、グループリーグ敗退に終わった。2010-11シーズンの同大会ではオランダの[AZアルクマール](../Page/AZアルクマール.md "wikilink")、[FCディナモ・キエフ](../Page/FCディナモ・キエフ.md "wikilink")、[FCシェリフ・ティラスポリ](../Page/FCシェリフ・ティラスポリ.md "wikilink")と同組となったが、D・キエフに次ぐグループ2位で決勝トーナメント進出を決めた。決勝トーナメント1回戦ではフランスの[パリ・サンジェルマンFC](https://ja.wikipedia.org/wiki/パリ・サンジェルマンFC "wikilink")と対戦し、アウェーゴール差で敗退した。
 
 ## タイトル
 
@@ -81,7 +81,7 @@
 <td><p>1999-00</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_1999-2000" title="wikilink">UEFAカップ</a></p></td>
 <td><p>予選</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCロコモティフ・モスクワ" title="wikilink">ロコモティフ・モスクワ</a></p></td>
+<td><p><a href="../Page/FCロコモティフ・モスクワ.md" title="wikilink">ロコモティフ・モスクワ</a></p></td>
 <td><p>1–7</p></td>
 <td><p>0–5</p></td>
 <td><p>'''1-12</p></td>
@@ -111,7 +111,7 @@
 <td><p>2001-02</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ_2001-02" title="wikilink">UEFAカップ</a></p></td>
 <td><p>予選</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCディナモ・トビリシ" title="wikilink">ディナモ・トビリシ</a></p></td>
+<td><p><a href="../Page/FCディナモ・トビリシ.md" title="wikilink">ディナモ・トビリシ</a></p></td>
 <td><p>4–0</p></td>
 <td><p>1–2</p></td>
 <td><p>'''5-2</p></td>
@@ -131,7 +131,7 @@
 <td><p>2002</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAインタートトカップ_2002" title="wikilink">UEFAインタートトカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ABコペンハーゲン" title="wikilink">コペンハーゲン</a></p></td>
+<td><p><a href="../Page/ABコペンハーゲン.md" title="wikilink">コペンハーゲン</a></p></td>
 <td><p>1–0</p></td>
 <td><p>2–0</p></td>
 <td><p>'''3-0</p></td>
@@ -171,7 +171,7 @@
 <td><p>2004-05</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ_2004-05" title="wikilink">UEFAカップ</a></p></td>
 <td><p>予選1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCディナモ・トビリシ" title="wikilink">FCディナモ・トビリシ</a></p></td>
+<td><p><a href="../Page/FCディナモ・トビリシ.md" title="wikilink">FCディナモ・トビリシ</a></p></td>
 <td><p>2–3</p></td>
 <td><p>0–1</p></td>
 <td><p>'''2-4</p></td>
@@ -240,7 +240,7 @@
 </tr>
 <tr class="odd">
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCステアウア・ブカレスト" title="wikilink">ステアウア・ブカレスト</a></p></td>
+<td><p><a href="../Page/FCステアウア・ブカレスト.md" title="wikilink">ステアウア・ブカレスト</a></p></td>
 <td><p>2–2</p></td>
 <td><p>0–2</p></td>
 <td><p>'''2-4</p></td>
@@ -251,7 +251,7 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ_2007-08" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ビジャレアルCF" title="wikilink">ビジャレアル</a></p></td>
+<td><p><a href="../Page/ビジャレアルCF.md" title="wikilink">ビジャレアル</a></p></td>
 <td><p>0–2</p></td>
 <td><p>1–4</p></td>
 <td><p>'''1-6</p></td>
@@ -270,7 +270,7 @@
 </tr>
 <tr class="even">
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RSCアンデルレヒト" title="wikilink">アンデルレヒト</a></p></td>
+<td><p><a href="../Page/RSCアンデルレヒト.md" title="wikilink">アンデルレヒト</a></p></td>
 <td><p>2–2</p></td>
 <td><p>2–1</p></td>
 <td><p>'''4-3</p></td>
@@ -280,7 +280,7 @@
 </tr>
 <tr class="odd">
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レフスキ・ソフィア" title="wikilink">レフスキ・ソフィア</a></p></td>
+<td><p><a href="../Page/レフスキ・ソフィア.md" title="wikilink">レフスキ・ソフィア</a></p></td>
 <td><p>1–1</p></td>
 <td><p>1–0</p></td>
 <td><p>'''2-1</p></td>
@@ -333,7 +333,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/FKヴェンツピルス" title="wikilink">ヴェンツピルス</a></p></td>
 <td><p>2–1</p></td>
 <td><p>0–1</p></td>
-<td><p>'''2-2 (<a href="https://ja.wikipedia.org/wiki/アウェーゴール" title="wikilink">a</a>)</p></td>
+<td><p>'''2-2 (<a href="../Page/アウェーゴール.md" title="wikilink">a</a>)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -351,7 +351,7 @@
 </tr>
 <tr class="even">
 <td><p>グループI</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SLベンフィカ" title="wikilink">ベンフィカ</a></p></td>
+<td><p><a href="../Page/SLベンフィカ.md" title="wikilink">ベンフィカ</a></p></td>
 <td><p>1–2</p></td>
 <td><p>0–2</p></td>
 <td><p>'''3位</p></td>
@@ -360,7 +360,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/エヴァートンFC" title="wikilink">エヴァートン</a></p></td>
+<td><p><a href="../Page/エヴァートンFC.md" title="wikilink">エヴァートン</a></p></td>
 <td><p>1–2</p></td>
 <td><p>1–0</p></td>
 <td></td>
@@ -391,7 +391,7 @@
 </tr>
 <tr class="even">
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCコペンハーゲン" title="wikilink">コペンハーゲン</a></p></td>
+<td><p><a href="../Page/FCコペンハーゲン.md" title="wikilink">コペンハーゲン</a></p></td>
 <td><p>0–0</p></td>
 <td><p>2–3</p></td>
 <td><p>'''2-3</p></td>
@@ -411,7 +411,7 @@
 </tr>
 <tr class="even">
 <td><p>グループE</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCディナモ・キエフ" title="wikilink">ディナモ・キエフ</a></p></td>
+<td><p><a href="../Page/FCディナモ・キエフ.md" title="wikilink">ディナモ・キエフ</a></p></td>
 <td><p>1–4</p></td>
 <td><p>2–2</p></td>
 <td><p>'''2位</p></td>
@@ -420,7 +420,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/AZアルクマール" title="wikilink">AZ</a></p></td>
+<td><p><a href="../Page/AZアルクマール.md" title="wikilink">AZ</a></p></td>
 <td><p>4–1</p></td>
 <td><p>0–3</p></td>
 <td></td>
@@ -430,7 +430,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/FCシェリフ・ティラスポリ" title="wikilink">シェリフ・ティラスポリ</a></p></td>
+<td><p><a href="../Page/FCシェリフ・ティラスポリ.md" title="wikilink">シェリフ・ティラスポリ</a></p></td>
 <td><p>3–1</p></td>
 <td><p>1–0</p></td>
 <td></td>
@@ -471,7 +471,7 @@
 </tr>
 <tr class="even">
 <td><p>プレーオフ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SKシュトゥルム・グラーツ" title="wikilink">シュトゥルム・グラーツ</a></p></td>
+<td><p><a href="../Page/SKシュトゥルム・グラーツ.md" title="wikilink">シュトゥルム・グラーツ</a></p></td>
 <td><p>1–1</p></td>
 <td><p>2–0</p></td>
 <td><p>'''3-1</p></td>
@@ -541,7 +541,7 @@
 </tr>
 <tr class="odd">
 <td><p>グループF</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/LOSCリール・メトロポール" title="wikilink">リール</a></p></td>
+<td><p><a href="../Page/LOSCリール・メトロポール.md" title="wikilink">リール</a></p></td>
 <td><p>0–2</p></td>
 <td><p>3–1</p></td>
 <td><p>'''3位</p></td>
@@ -560,7 +560,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/バレンシアCF" title="wikilink">バレンシア</a></p></td>
+<td><p><a href="../Page/バレンシアCF.md" title="wikilink">バレンシア</a></p></td>
 <td><p>0–3</p></td>
 <td><p>2–4</p></td>
 <td></td>
@@ -572,7 +572,7 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2012-13" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>ラウンド32</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フェネルバフチェSK" title="wikilink">フェネルバフチェ</a></p></td>
+<td><p><a href="../Page/フェネルバフチェSK.md" title="wikilink">フェネルバフチェ</a></p></td>
 <td><p>0–0</p></td>
 <td><p>0–1</p></td>
 <td><p>'''0-1</p></td>
@@ -621,7 +621,7 @@
 </tr>
 <tr class="odd">
 <td><p>グループH</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCポルト" title="wikilink">ポルト</a></p></td>
+<td><p><a href="../Page/FCポルト.md" title="wikilink">ポルト</a></p></td>
 <td><p>0-3</p></td>
 <td><p>0-6</p></td>
 <td><p>'''4位</p></td>
@@ -630,7 +630,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/FCシャフタール・ドネツク" title="wikilink">シャフタール・ドネツク</a></p></td>
+<td><p><a href="../Page/FCシャフタール・ドネツク.md" title="wikilink">シャフタール・ドネツク</a></p></td>
 <td><p>0-7</p></td>
 <td><p>0-5</p></td>
 <td></td>
@@ -640,7 +640,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/アスレティック・ビルバオ" title="wikilink">アスレティック・ビルバオ</a></p></td>
+<td><p><a href="../Page/アスレティック・ビルバオ.md" title="wikilink">アスレティック・ビルバオ</a></p></td>
 <td><p>2-1</p></td>
 <td><p>0-2</p></td>
 <td></td>
@@ -671,7 +671,7 @@
 </tr>
 <tr class="even">
 <td><p>プレーオフ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/パルチザン・ベオグラード" title="wikilink">パルチザン</a></p></td>
+<td><p><a href="../Page/パルチザン・ベオグラード.md" title="wikilink">パルチザン</a></p></td>
 <td><p>1-0</p></td>
 <td><p>1-2</p></td>
 <td><p>'''2-2 (a)</p></td>
@@ -681,7 +681,7 @@
 </tr>
 <tr class="odd">
 <td><p>グループE</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/バイエル・レバークーゼン" title="wikilink">バイエル・レバークーゼン</a></p></td>
+<td><p><a href="../Page/バイエル・レバークーゼン.md" title="wikilink">バイエル・レバークーゼン</a></p></td>
 <td><p>1-4</p></td>
 <td><p>1-1</p></td>
 <td><p>'''4位</p></td>
@@ -751,7 +751,7 @@
 </tr>
 <tr class="even">
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SKスラヴィア・プラハ" title="wikilink">スラヴィア・プラハ</a></p></td>
+<td><p><a href="../Page/SKスラヴィア・プラハ.md" title="wikilink">スラヴィア・プラハ</a></p></td>
 <td><p>2–1</p></td>
 <td><p>0–1</p></td>
 <td><p>'''2-2 (a)</p></td>
@@ -771,7 +771,7 @@
 </tr>
 <tr class="even">
 <td><p>グループH</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レッドスター・ベオグラード" title="wikilink">ツルヴェナ・ズヴェズダ</a></p></td>
+<td><p><a href="../Page/レッドスター・ベオグラード.md" title="wikilink">ツルヴェナ・ズヴェズダ</a></p></td>
 <td><p>0-0</p></td>
 <td><p>1-1</p></td>
 <td><p>'''4位</p></td>
@@ -790,7 +790,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1.FCケルン" title="wikilink">ケルン</a></p></td>
+<td><p><a href="../Page/1.FCケルン.md" title="wikilink">ケルン</a></p></td>
 <td><p>1-0</p></td>
 <td><p>2-5</p></td>
 <td></td>
@@ -821,7 +821,7 @@
 </tr>
 <tr class="odd">
 <td><p>プレーオフ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PSVアイントホーフェン" title="wikilink">PSV</a></p></td>
+<td><p><a href="../Page/PSVアイントホーフェン.md" title="wikilink">PSV</a></p></td>
 <td><p>2-3</p></td>
 <td><p>0-3</p></td>
 <td><p>'''2-6</p></td>
@@ -881,7 +881,7 @@
 </tr>
 <tr class="odd">
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ローゼンボリBK" title="wikilink">ローゼンボリ</a></p></td>
+<td><p><a href="../Page/ローゼンボリBK.md" title="wikilink">ローゼンボリ</a></p></td>
 <td><p>2-1</p></td>
 <td><p>0-2</p></td>
 <td><p>'''2-3</p></td>
@@ -892,7 +892,7 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2019-20" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FKサラエヴォ" title="wikilink">サラエヴォ</a></p></td>
+<td><p><a href="../Page/FKサラエヴォ.md" title="wikilink">サラエヴォ</a></p></td>
 <td><p>0-0</p></td>
 <td><p>2-1</p></td>
 <td><p>'''2-1</p></td>
@@ -954,7 +954,7 @@
 
 ### MF
 
-  - [アレクサンドル・フレブ](https://ja.wikipedia.org/wiki/アレクサンドル・フレブ "wikilink") 1999-2000, 2012-2013
+  - [アレクサンドル・フレブ](../Page/アレクサンドル・フレブ.md "wikilink") 1999-2000, 2012-2013
 
   - [ドミトリ・リフタロヴィチ](https://ja.wikipedia.org/wiki/ドミトリ・リフタロヴィチ "wikilink") 2002-
 
@@ -974,7 +974,7 @@
 
   - [ウラディスラフ・ミルチェフ](https://ja.wikipedia.org/wiki/ウラディスラフ・ミルチェフ "wikilink") 2008
 
-  - [マテヤ・ケジュマン](https://ja.wikipedia.org/wiki/マテヤ・ケジュマン "wikilink") 2011
+  - [マテヤ・ケジュマン](../Page/マテヤ・ケジュマン.md "wikilink") 2011
 
 ## 脚注
 

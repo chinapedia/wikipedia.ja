@@ -1,7 +1,7 @@
 > この記事は[TAXi4](https://ja.wikipedia.org/wiki/TAXi4)から翻訳されています。
 
 
-『**TAXi4**』（タクシー・フォー、原題: Taxi 4）は、カーアクション・コメディーが中心の[フランス映画](https://ja.wikipedia.org/wiki/フランス映画 "wikilink")『[TAXi](https://ja.wikipedia.org/wiki/TAXi "wikilink")』シリーズの第4作である。
+『**TAXi4**』（タクシー・フォー、原題: Taxi 4）は、カーアクション・コメディーが中心の[フランス映画](https://ja.wikipedia.org/wiki/フランス映画 "wikilink")『[TAXi](../Page/TAXi.md "wikilink")』シリーズの第4作である。
 
 ## ストーリー
 
@@ -16,14 +16,14 @@
 ### 主要人物
 
   - ダニエル・モラレース
-    演 - [サミー・ナセリ](https://ja.wikipedia.org/wiki/サミー・ナセリ "wikilink")
+    演 - [サミー・ナセリ](../Page/サミー・ナセリ.md "wikilink")
     本作の主人公。ハイテク装備と命知らずな暴走運転が売りのタクシードライバー。
     今作では妻となったリリーとの間に息子のレオをもうけ、相変わらずの暴走タクシー稼業を営む傍らで息子やエミリアンの子供、マックスの面倒を見る良き父親となっている。
-    また、愛車のタクシーを[406から](../Page/プジョー・406.md "wikilink")[407に変えている](https://ja.wikipedia.org/wiki/プジョー・407 "wikilink")。
+    また、愛車のタクシーを[406から](../Page/プジョー・406.md "wikilink")[407に変えている](../Page/プジョー・407.md "wikilink")。
     警察嫌いであるが、今作ではエミリアンだけでなくアランや他の署員達とも親しく接しており、スピード違反を取り締まる署員からもこれまでの功績から違反行為を黙認されている状態である。
     ドジを犯してクビの危機に直面したエミリアンにまたしても力を貸すこととなり彼と共に凶悪犯アルヴェール一味を追ってモナコへ向かう。
   - エミリアン・クタン=ケルバレーク
-    演 - [フレデリック・ディーファンタル](https://ja.wikipedia.org/wiki/フレデリック・ディーファンタル "wikilink")
+    演 - [フレデリック・ディーファンタル](../Page/フレデリック・ディーファンタル.md "wikilink")
     ドジで騙されやすくそそっかしいマルセイユ警察の刑事。
     前作のラストで生まれた息子マックスを溺愛しており、サッカーをやらせるのに大げさな防具\[1\]を付けさせたり、プレイ中はボールに触るなと指示するなど過保護で親バカとなっている。
     一方でマックスが怪我した時には、署からの連絡に夢中でまったく気がつかなかったり、張り込み中に熟睡するなど間抜けな性格は相変わらず。
@@ -63,10 +63,10 @@
     ヴァンデンボッシュの手下達のリーダー格で、右腕的存在。
     マルセイユ警察に潜入して、ジベールのパソコンから警察のデータを改ざんして、ヴァンデンボッシュ脱出の裏工作を働く。
     マルセイユ警察のあまりの無防備さと、ジベールの常軌を逸した頭の悪さに振り回され、仲間の許に帰還した際にはすっかり精神的に疲弊してしまい、「あそこ（マルセイユ警察）は“バカの館”だ」\[4\]と心底呆れ果てていた。
-  - [ジブリル・シセ](https://ja.wikipedia.org/wiki/ジブリル・シセ "wikilink")
+  - [ジブリル・シセ](../Page/ジブリル・シセ.md "wikilink")
     演 - 本人（[カメオ出演](../Page/カメオ出演.md "wikilink")）
-    本編冒頭でマルセイユ警察が警護していた[フランス代表の](https://ja.wikipedia.org/wiki/サッカーフランス代表 "wikilink")[サッカー選手](https://ja.wikipedia.org/wiki/プロフェッショナル_\(サッカー\) "wikilink")。マルセイユのサッカーチームへ移籍し、その初試合が行われるスタジアムまで、ダニエルのタクシーで送ってもらう。
-    前作『[3](https://ja.wikipedia.org/wiki/TAXi3 "wikilink")』に登場した謎の客（演 - [シルヴェスター・スタローン](../Page/シルヴェスター・スタローン.md "wikilink")）に続き、仕事中のダニエルのタクシーで[嘔吐](../Page/嘔吐.md "wikilink")しなかった稀有な人物\[5\]。
+    本編冒頭でマルセイユ警察が警護していた[フランス代表の](../Page/サッカーフランス代表.md "wikilink")[サッカー選手](https://ja.wikipedia.org/wiki/プロフェッショナル_\(サッカー\) "wikilink")。マルセイユのサッカーチームへ移籍し、その初試合が行われるスタジアムまで、ダニエルのタクシーで送ってもらう。
+    前作『[3](../Page/TAXi3.md "wikilink")』に登場した謎の客（演 - [シルヴェスター・スタローン](../Page/シルヴェスター・スタローン.md "wikilink")）に続き、仕事中のダニエルのタクシーで[嘔吐](../Page/嘔吐.md "wikilink")しなかった稀有な人物\[5\]。
 
 ### その他の人物
 
@@ -99,34 +99,34 @@
 
 ## 日本語吹替
 
-| 役名                                                          | 俳優                                                                            | 日本語吹替                                                   |
-| ----------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------- |
-| 劇場公開版                                                       | ソフト版                                                                          |                                                         |
-| ダニエル・モラレース                                                  | [サミー・ナセリ](https://ja.wikipedia.org/wiki/サミー・ナセリ "wikilink")                   | [中田敦彦](https://ja.wikipedia.org/wiki/中田敦彦 "wikilink")   |
-| エミリアン・クタン＝ケルバレーク                                            | [フレデリック・ディーファンタル](https://ja.wikipedia.org/wiki/フレデリック・ディーファンタル "wikilink")   | [藤森慎吾](https://ja.wikipedia.org/wiki/藤森慎吾 "wikilink")   |
-| ペトラ                                                         | [エマ・シェーベルイ](https://ja.wikipedia.org/wiki/エマ・シェーベルイ "wikilink")               | [眞鍋かをり](https://ja.wikipedia.org/wiki/眞鍋かをり "wikilink") |
-| ジベール警部                                                      | [ベルナール・ファルシー](https://ja.wikipedia.org/wiki/ベルナール・ファルシー "wikilink")           | [高田純次](../Page/高田純次.md "wikilink")                      |
-| アラン                                                         | [エドュアルド・モントート](https://ja.wikipedia.org/wiki/エドュアルド・モントート "wikilink")         | [飛田展男](https://ja.wikipedia.org/wiki/飛田展男 "wikilink")   |
-| ベルティーノ将軍                                                    | [ジャン＝クリストファー・ブーヴェ](https://ja.wikipedia.org/wiki/ジャン＝クリストファー・ブーヴェ "wikilink") | [大竹宏](../Page/大竹宏.md "wikilink")                        |
-| ヴァンデンボッシュ                                                   | [ジャン＝リュック・クシャール](https://ja.wikipedia.org/wiki/ジャン＝リュック・クシャール "wikilink")     | [後藤哲夫](https://ja.wikipedia.org/wiki/後藤哲夫 "wikilink")   |
-| セルジュ                                                        | [フランソワ・ダミアン](https://ja.wikipedia.org/wiki/フランソワ・ダミアン "wikilink")             | [広瀬正志](https://ja.wikipedia.org/wiki/広瀬正志 "wikilink")   |
-| [ジブリル・シセ](https://ja.wikipedia.org/wiki/ジブリル・シセ "wikilink") | [楠大典](https://ja.wikipedia.org/wiki/楠大典 "wikilink")                           |                                                         |
-|                                                             |                                                                               |                                                         |
+| 役名                                       | 俳優                                                                            | 日本語吹替                                                   |
+| ---------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------- |
+| 劇場公開版                                    | ソフト版                                                                          |                                                         |
+| ダニエル・モラレース                               | [サミー・ナセリ](../Page/サミー・ナセリ.md "wikilink")                                      | [中田敦彦](../Page/中田敦彦.md "wikilink")                      |
+| エミリアン・クタン＝ケルバレーク                         | [フレデリック・ディーファンタル](../Page/フレデリック・ディーファンタル.md "wikilink")                      | [藤森慎吾](../Page/藤森慎吾.md "wikilink")                      |
+| ペトラ                                      | [エマ・シェーベルイ](https://ja.wikipedia.org/wiki/エマ・シェーベルイ "wikilink")               | [眞鍋かをり](https://ja.wikipedia.org/wiki/眞鍋かをり "wikilink") |
+| ジベール警部                                   | [ベルナール・ファルシー](https://ja.wikipedia.org/wiki/ベルナール・ファルシー "wikilink")           | [高田純次](../Page/高田純次.md "wikilink")                      |
+| アラン                                      | [エドュアルド・モントート](https://ja.wikipedia.org/wiki/エドュアルド・モントート "wikilink")         | [飛田展男](../Page/飛田展男.md "wikilink")                      |
+| ベルティーノ将軍                                 | [ジャン＝クリストファー・ブーヴェ](https://ja.wikipedia.org/wiki/ジャン＝クリストファー・ブーヴェ "wikilink") | [大竹宏](../Page/大竹宏.md "wikilink")                        |
+| ヴァンデンボッシュ                                | [ジャン＝リュック・クシャール](https://ja.wikipedia.org/wiki/ジャン＝リュック・クシャール "wikilink")     | [後藤哲夫](../Page/後藤哲夫.md "wikilink")                      |
+| セルジュ                                     | [フランソワ・ダミアン](https://ja.wikipedia.org/wiki/フランソワ・ダミアン "wikilink")             | [広瀬正志](../Page/広瀬正志.md "wikilink")                      |
+| [ジブリル・シセ](../Page/ジブリル・シセ.md "wikilink") | [楠大典](https://ja.wikipedia.org/wiki/楠大典 "wikilink")                           |                                                         |
+|                                          |                                                                               |                                                         |
 
   - 日本語吹替：二種類とも[DVD](../Page/DVD.md "wikilink")・[BDに収録されている](../Page/Blu-ray_Disc.md "wikilink")。
 
 ## 改造タクシーの変更点
 
-ベース車両のモデルチェンジに伴い、ダニエルのタクシーも[プジョー・407](https://ja.wikipedia.org/wiki/プジョー・407 "wikilink")にモデルチェンジした。モデルチェンジにあたっての製作サイドの熱意も大した物で、前作『TAXi3』の[406での](../Page/プジョー・406.md "wikilink")4タイプにとどまった型数を大幅に上回り、12タイプ製作しているほどである。エクステリアの改造も大幅に変更、多数の[エアインテーク](../Page/エアインテーク.md "wikilink")を設けたほか、本物のレース仕様のパーツを多数採用している。
+ベース車両のモデルチェンジに伴い、ダニエルのタクシーも[プジョー・407](../Page/プジョー・407.md "wikilink")にモデルチェンジした。モデルチェンジにあたっての製作サイドの熱意も大した物で、前作『TAXi3』の[406での](../Page/プジョー・406.md "wikilink")4タイプにとどまった型数を大幅に上回り、12タイプ製作しているほどである。エクステリアの改造も大幅に変更、多数の[エアインテーク](../Page/エアインテーク.md "wikilink")を設けたほか、本物のレース仕様のパーツを多数採用している。
 
   - 最高速度は312.8[km/h](https://ja.wikipedia.org/wiki/時速 "wikilink")（本作中での明示的な最高速度）に達する。
   - 停止した状態から自由自在に方向転換できる装置を装備している。
   - ボンネットエアインテークを新規に装備している。
   - ルーフベンチレーターを装備。
   - ホイール周りは前後ともワイドフェンダー化。ホイールは変形スポークタイプ。サイズは8×18。
-  - タイヤはBF[グッドリッチ](https://ja.wikipedia.org/wiki/グッドリッチ "wikilink")製225/40。
-  - Cピラーにもエアインテークを装備。しかしこれは本来は[ミッドシップ](https://ja.wikipedia.org/wiki/ミッドシップ "wikilink")あるいは[リアエンジン](https://ja.wikipedia.org/wiki/リアエンジン "wikilink")の冷却のためのもの。
-  - [ナンバープレートは](https://ja.wikipedia.org/wiki/欧州連合のナンバープレート "wikilink")"2007DAB13"。"2007"は映画の公開年、"13"はマルセイユの所属県[ブーシュ＝デュ＝ローヌ県](https://ja.wikipedia.org/wiki/ブーシュ＝デュ＝ローヌ県 "wikilink")の県番号。
+  - タイヤはBF[グッドリッチ](../Page/グッドリッチ.md "wikilink")製225/40。
+  - Cピラーにもエアインテークを装備。しかしこれは本来は[ミッドシップ](../Page/ミッドシップ.md "wikilink")あるいは[リアエンジン](https://ja.wikipedia.org/wiki/リアエンジン "wikilink")の冷却のためのもの。
+  - [ナンバープレートは](../Page/欧州連合のナンバープレート.md "wikilink")"2007DAB13"。"2007"は映画の公開年、"13"はマルセイユの所属県[ブーシュ＝デュ＝ローヌ県](../Page/ブーシュ＝デュ＝ローヌ県.md "wikilink")の県番号。
       - 前作『TAXi3』と異なり、警察から暴走行為を事実上黙認されている状態であるため、ナンバープレートを偽装するシーンは出てこない（装備の有無は不明）。
 
 ## 吹き替え版
@@ -136,16 +136,16 @@
 ## その他
 
   - 主演の主な日本語吹き替えは 日本語劇場版バージョンと、これまでのシリーズのDVDキャストバージョンの2種類が1枚のDVDに収録されている。
-  - [エディット・ピアフ〜愛の讃歌〜](https://ja.wikipedia.org/wiki/エディット・ピアフ〜愛の讃歌〜 "wikilink")でアカデミー主演女優賞を受賞した[マリオン・コティヤール](https://ja.wikipedia.org/wiki/マリオン・コティヤール "wikilink")は本作で降板している。
-  - アルヴェー／フェニモア・ヴァンデンボッシュら凶悪犯の車両は、黒の[ランドローバー・レンジローバー](https://ja.wikipedia.org/wiki/ランドローバー・レンジローバー "wikilink") 3代目、2台。
+  - [エディット・ピアフ〜愛の讃歌〜](../Page/エディット・ピアフ〜愛の讃歌〜.md "wikilink")でアカデミー主演女優賞を受賞した[マリオン・コティヤール](../Page/マリオン・コティヤール.md "wikilink")は本作で降板している。
+  - アルヴェー／フェニモア・ヴァンデンボッシュら凶悪犯の車両は、黒の[ランドローバー・レンジローバー](../Page/ランドローバー・レンジローバー.md "wikilink") 3代目、2台。
 
 ## シリーズ作品
 
 ### フランス・オリジナル版
 
-  - [TAXi](https://ja.wikipedia.org/wiki/TAXi "wikilink")（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")）
+  - [TAXi](../Page/TAXi.md "wikilink")（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")）
   - [TAXi2](https://ja.wikipedia.org/wiki/TAXi2 "wikilink")（[2000年](../Page/2000年.md "wikilink")）
-  - [TAXi3](https://ja.wikipedia.org/wiki/TAXi3 "wikilink")（[2002年](../Page/2002年.md "wikilink")）
+  - [TAXi3](../Page/TAXi3.md "wikilink")（[2002年](../Page/2002年.md "wikilink")）
   - [TAXi ダイヤモンド・ミッション](https://ja.wikipedia.org/wiki/TAXi_ダイヤモンド・ミッション "wikilink")（[2018年](../Page/2018年.md "wikilink")）
 
 ### アメリカ・リメイク版

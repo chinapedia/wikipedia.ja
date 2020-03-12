@@ -5,9 +5,9 @@
 
 対地、対空を撃ち分ける『[ゼビウス](../Page/ゼビウス.md "wikilink")』（[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")）タイプの縦スクロール[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")である。全12エリア構成で、実質、6エリア2周に近い。ゲームの目的は自機の戦闘艇「シド」を操作し、自己思考、自己修復、自己補給能力を持つ生化学部品によって造られた兵器「メカノクレート」を倒して人類を救出する事となっている。
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")に移植された。アーケード版は後に[PlayStation Portable用ソフト](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")『**[SNKアーケードクラシックスゼロ](https://ja.wikipedia.org/wiki/SNKアーケードクラシックスゼロ "wikilink")**』（[2011年](../Page/2011年.md "wikilink")）に収録された他、欧米では[PlayStation 3およびPlayStation](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink") Portable用ソフトとして単独で配信された。[2018年](../Page/2018年.md "wikilink")には[PlayStation 4および](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")[Nintendo Switch用ソフトとして](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")[アーケードアーカイブス](https://ja.wikipedia.org/wiki/アーケードアーカイブス "wikilink")にて配信された。
+[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")に移植された。アーケード版は後に[PlayStation Portable用ソフト](../Page/PlayStation_Portable.md "wikilink")『**[SNKアーケードクラシックスゼロ](https://ja.wikipedia.org/wiki/SNKアーケードクラシックスゼロ "wikilink")**』（[2011年](../Page/2011年.md "wikilink")）に収録された他、欧米では[PlayStation 3およびPlayStation](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink") Portable用ソフトとして単独で配信された。[2018年](../Page/2018年.md "wikilink")には[PlayStation 4および](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")[Nintendo Switch用ソフトとして](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")[アーケードアーカイブス](https://ja.wikipedia.org/wiki/アーケードアーカイブス "wikilink")にて配信された。
 
-後に続編となる『[ASOII](https://ja.wikipedia.org/wiki/ASOII "wikilink")』（[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")）が稼働された。
+後に続編となる『[ASOII](https://ja.wikipedia.org/wiki/ASOII "wikilink")』（[1991年](../Page/1991年.md "wikilink")）が稼働された。
 
 ## 概要
 
@@ -15,7 +15,7 @@
 
 背景（地上）のグラフィックは過去に発表された『ヴァンガードII』（[1984年](../Page/1984年.md "wikilink")）から継承している。
 
-**「キープ」**をはじめとする多彩な[アイテム](https://ja.wikipedia.org/wiki/アイテム "wikilink")、8種類のアーマー、そして凶悪な**誘導弾**などが特徴。
+**「キープ」**をはじめとする多彩な[アイテム](../Page/アイテム.md "wikilink")、8種類のアーマー、そして凶悪な**誘導弾**などが特徴。
 
 ## ゲーム内容
 
@@ -154,7 +154,7 @@
 
 ゲームが進んで各エリアの長さが長くなると、複数回にわたって出現。誘導弾や、自機のレーザーを遮断するアンチレーザー弾を用いた凶悪な攻撃を行うようになる。
 
-  - **モルト・ガンデ**（1000pts） - [三葉虫](../Page/三葉虫.md "wikilink")のようなデザインで、エリア1中盤から登場。戦略小型メカノクレートの主力機。『[ミラーマン](https://ja.wikipedia.org/wiki/ミラーマン "wikilink")』の15話に登場したジャバラや『[Xボンバー](https://ja.wikipedia.org/wiki/Xボンバー "wikilink")』のゲルマ母艦のようなものをイメージしてデザインされた。
+  - **モルト・ガンデ**（1000pts） - [三葉虫](../Page/三葉虫.md "wikilink")のようなデザインで、エリア1中盤から登場。戦略小型メカノクレートの主力機。『[ミラーマン](../Page/ミラーマン.md "wikilink")』の15話に登場したジャバラや『[Xボンバー](../Page/Xボンバー.md "wikilink")』のゲルマ母艦のようなものをイメージしてデザインされた。
   - **オバノン**（1500pts） - ムカデのようなデザインで、2匹ペアで登場する事が多い。エリア2から登場。**ボンボネラ**の小型量産型。頭部がシームレス化された**オバノンII**というものも存在し、その頭部は**ガリモス**の初期デザインを流用したもの。
   - **テラノア**（1500pts） - 蝙蝠のような翼を持つ飛行物体で、エリア3から登場。どちらかというと可変翼戦闘機のデザインに近い。設定によると、大気圏内では本来の能力を発揮できていないらしい。デザイナーが社長に「蝙蝠を作れ」と指示されてデザインしたもの。
   - **モンゴ**（1000pts） - 顔のような不気味なデザインをしている。登場は、かなり後のエリアになってから。強固なヘッドシールドと長距離航行用ブースタを持つ。名前の由来は紋甲烏賊。初期デザインではヘッドシールド部分にもディテールが描かれていたが、顔が目立たなくなってしまうので敢えて削除された。
@@ -202,7 +202,7 @@
 <td><p>2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/SNKアーケードクラシックスゼロ" title="wikilink">SNKアーケードクラシックスゼロ</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_Portable" title="wikilink">PlayStation Portable</a><br />
+<td><p><a href="../Page/PlayStation_Portable.md" title="wikilink">PlayStation Portable</a><br />
 (<a href="https://ja.wikipedia.org/wiki/PlayStation_Network" title="wikilink">PlayStation Network</a>)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/SNKプレイモア" title="wikilink">SNKプレイモア</a></p></td>
 <td><p>SNKプレイモア</p></td>
@@ -230,7 +230,7 @@ PlayStation Portable<br />
 <td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_4" title="wikilink">PlayStation 4</a><br />
 <a href="https://ja.wikipedia.org/wiki/Nintendo_Switch" title="wikilink">Nintendo Switch</a></p></td>
 <td><p>SNK</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ハムスター_(ゲーム会社)" title="wikilink">ハムスター</a></p></td>
+<td><p><a href="../Page/ハムスター_(ゲーム会社).md" title="wikilink">ハムスター</a></p></td>
 <td><p>ダウンロード<br />
 （<a href="https://ja.wikipedia.org/wiki/アーケードアーカイブス" title="wikilink">アーケードアーカイブス</a>）</p></td>
 <td><p>-</p></td>
@@ -280,7 +280,7 @@ PlayStation Portable<br />
 
   - ファミリーコンピュータ版
 
-ゲーム誌『[ファミリーコンピュータMagazine](https://ja.wikipedia.org/wiki/ファミリーコンピュータMagazine "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、17.20点（満30点）となっている\[3\]。
+ゲーム誌『[ファミリーコンピュータMagazine](../Page/ファミリーコンピュータMagazine.md "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、17.20点（満30点）となっている\[3\]。
 
 | 項目 | キャラクタ | 音楽   | 操作性  | 熱中度  | お買得度 | オリジナリティ | 総合    |
 | -- | ----- | ---- | ---- | ---- | ---- | ------- | ----- |
@@ -291,9 +291,9 @@ PlayStation Portable<br />
   - ASO
     シリーズの初代。アーケード版は縦画面、ファミコン版は横画面。
   - [ASOII](https://ja.wikipedia.org/wiki/ASOII "wikilink")
-    シリーズの正当な続編。[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")に[MVS版が稼働](https://ja.wikipedia.org/wiki/Multi_Video_System "wikilink")、同年[7月1日](../Page/7月1日.md "wikilink")に家庭用[ネオジオ](https://ja.wikipedia.org/wiki/ネオジオ "wikilink")版が発売されている。横画面。ネオジオステーションを機に様々な形で配信された。
+    シリーズの正当な続編。[1991年](../Page/1991年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")に[MVS版が稼働](../Page/Multi_Video_System.md "wikilink")、同年[7月1日](../Page/7月1日.md "wikilink")に家庭用[ネオジオ](https://ja.wikipedia.org/wiki/ネオジオ "wikilink")版が発売されている。横画面。ネオジオステーションを機に様々な形で配信された。
   - バミューダトライアングル
-    [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に稼働したアーケードゲーム。『[T・A・N・K](https://ja.wikipedia.org/wiki/T・A・N・K "wikilink")』や『[怒](https://ja.wikipedia.org/wiki/怒_\(ゲーム\) "wikilink")』と同様、8方向回転スイッチ付きレバーでショットの方向と自機の操作を行う。自機は戦闘母艦であるが、オプションとして本項目にある「SYD」が登場する。2011年には[PlayStation Portable向けソフト](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")『[SNKアーケードクラシックスゼロ](https://ja.wikipedia.org/wiki/SNKアーケードクラシックスゼロ "wikilink")』に初代ASOと共に移植された。
+    [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に稼働したアーケードゲーム。『[T・A・N・K](../Page/T・A・N・K.md "wikilink")』や『[怒](../Page/怒_\(ゲーム\).md "wikilink")』と同様、8方向回転スイッチ付きレバーでショットの方向と自機の操作を行う。自機は戦闘母艦であるが、オプションとして本項目にある「SYD」が登場する。2011年には[PlayStation Portable向けソフト](../Page/PlayStation_Portable.md "wikilink")『[SNKアーケードクラシックスゼロ](https://ja.wikipedia.org/wiki/SNKアーケードクラシックスゼロ "wikilink")』に初代ASOと共に移植された。
   - WORLD WARS
     1987年に稼働したアーケードゲーム。『バミューダトライアングル』の別バージョンのような作品。ゲームシステムはほぼ同様であるが、ルールが簡略化されておりエネルギー制から自機制に変更されている。
 

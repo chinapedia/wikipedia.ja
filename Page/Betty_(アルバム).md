@@ -15,13 +15,13 @@
 
 1.  **素敵にNight Clubbing**
       -
-        （作詞：[森雪之丞](https://ja.wikipedia.org/wiki/森雪之丞 "wikilink") / 作曲：[筒美京平](https://ja.wikipedia.org/wiki/筒美京平 "wikilink") / 編曲：[船山基紀](https://ja.wikipedia.org/wiki/船山基紀 "wikilink")）
+        （作詞：[森雪之丞](../Page/森雪之丞.md "wikilink") / 作曲：[筒美京平](https://ja.wikipedia.org/wiki/筒美京平 "wikilink") / 編曲：[船山基紀](../Page/船山基紀.md "wikilink")）
 2.  **天然色のロケット**
       -
         （作詞：[松本隆](../Page/松本隆.md "wikilink") / 作曲：筒美京平 / 編曲：船山基紀）
 3.  **夜風にコールミー 素肌にコールガール**
       -
-        （作詞：[銀色夏生](https://ja.wikipedia.org/wiki/銀色夏生 "wikilink") / 作曲：筒美京平 / 編曲：船山基紀）
+        （作詞：[銀色夏生](../Page/銀色夏生.md "wikilink") / 作曲：筒美京平 / 編曲：船山基紀）
 4.  **哀愁ボーイ**
       -
         （作詞：銀色夏生 / 作曲：筒美京平 / 編曲：船山基紀）
@@ -40,7 +40,7 @@
         （作詞：銀色夏生 / 作曲：筒美京平 / 編曲：船山基紀）
 2.  **プレゼンテーション**
       -
-        （作詞：[康珍化](https://ja.wikipedia.org/wiki/康珍化 "wikilink") / 作曲：筒美京平 / 編曲：船山基紀）
+        （作詞：[康珍化](../Page/康珍化.md "wikilink") / 作曲：筒美京平 / 編曲：船山基紀）
 3.  **好きにして**
       -
         （作詞：康珍化 / 作曲：筒美京平 / 編曲：船山基紀）
@@ -69,20 +69,20 @@
 10. **バナナムーンで会いましょう**
 11. **パイナップル・フィーリング**
       -
-        （作詞：森雪之丞 / 作曲：[タケカワユキヒデ](../Page/タケカワユキヒデ.md "wikilink") / 編曲：[佐久間正英](https://ja.wikipedia.org/wiki/佐久間正英 "wikilink")）
+        （作詞：森雪之丞 / 作曲：[タケカワユキヒデ](../Page/タケカワユキヒデ.md "wikilink") / 編曲：[佐久間正英](../Page/佐久間正英.md "wikilink")）
           - 1983年にリリースされたカセット「SEPARATION KYOKO」に収録されており、初CD音源化となった。
 12. **星にリボンをつけて**
       -
         （作詞・作曲：田代雅裕 / 編曲：[松井忠重](https://ja.wikipedia.org/wiki/松井忠重 "wikilink")）
           - 1983年にリリースされたカセット「SEPARATION KYOKO」に収録。1985年のベストアルバム「Do You Love Me」にも収録されている。
-13. **[クライマックス御一緒に](https://ja.wikipedia.org/wiki/クライマックス御一緒に "wikilink")** / あんみつ姫
+13. **[クライマックス御一緒に](../Page/クライマックス御一緒に.md "wikilink")** / あんみつ姫
       -
         （作詞：森雪之丞 / 作曲：[井上大輔](https://ja.wikipedia.org/wiki/井上大輔 "wikilink") / 編曲：井上大輔）
           - 8thシングル。[フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[あんみつ姫](../Page/あんみつ姫.md "wikilink")」主題歌。
 14. **[風のマジカル](https://ja.wikipedia.org/wiki/渚のはいから人魚/風のマジカル "wikilink")**
       -
-        （作詞：[湯川れい子](https://ja.wikipedia.org/wiki/湯川れい子 "wikilink") / 作曲：[NOBODY](https://ja.wikipedia.org/wiki/NOBODY_\(ロックバンド\) "wikilink") / 編曲：[鷺巣詩郎](https://ja.wikipedia.org/wiki/鷺巣詩郎 "wikilink")）
-          - 9th両A面シングル「[渚のはいから人魚/風のマジカル](https://ja.wikipedia.org/wiki/渚のはいから人魚/風のマジカル "wikilink")」。映画「[ドラえもん のび太の魔界大冒険](https://ja.wikipedia.org/wiki/ドラえもん_のび太の魔界大冒険 "wikilink")」主題歌。
+        （作詞：[湯川れい子](../Page/湯川れい子.md "wikilink") / 作曲：[NOBODY](../Page/NOBODY_\(ロックバンド\).md "wikilink") / 編曲：[鷺巣詩郎](../Page/鷺巣詩郎.md "wikilink")）
+          - 9th両A面シングル「[渚のはいから人魚/風のマジカル](https://ja.wikipedia.org/wiki/渚のはいから人魚/風のマジカル "wikilink")」。映画「[ドラえもん のび太の魔界大冒険](../Page/ドラえもん_のび太の魔界大冒険.md "wikilink")」主題歌。
 15. **[DUNK(男区)](https://ja.wikipedia.org/wiki/迷宮のアンドローラ/DUNK "wikilink")**
       -
         （作詞：松本隆 / 作曲：筒美京平 / 編曲：船山基紀）

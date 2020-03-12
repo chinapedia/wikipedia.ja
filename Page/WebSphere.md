@@ -1,9 +1,9 @@
 > この記事は[WebSphere](https://ja.wikipedia.org/wiki/WebSphere)から翻訳されています。
 
 
-**WebSphere**とは、[IBM](../Page/IBM.md "wikilink")の独自ソフトウェア製品群の[ブランド名](https://ja.wikipedia.org/wiki/ブランド名 "wikilink")。「Web[アプリケーション・サーバーに代表される](https://ja.wikipedia.org/wiki/アプリケーションサーバ "wikilink")「アプリケーション基盤と統合」」を提供するとされている。
+**WebSphere**とは、[IBM](../Page/IBM.md "wikilink")の独自ソフトウェア製品群の[ブランド名](https://ja.wikipedia.org/wiki/ブランド名 "wikilink")。「Web[アプリケーション・サーバーに代表される](../Page/アプリケーションサーバ.md "wikilink")「アプリケーション基盤と統合」」を提供するとされている。
 
-ただし、**[WebSphere Application Server](https://ja.wikipedia.org/wiki/WebSphere_Application_Server "wikilink")** (WAS) という最も有名な製品を指す略語として使われることも多い。WebSphere は[ミドルウェア](https://ja.wikipedia.org/wiki/ミドルウェア "wikilink")ソフトウェア製品群であり、[ウェブ技術を使った複数プラットフォームでの](../Page/World_Wide_Web.md "wikilink")[eビジネスの構築](../Page/電子商取引.md "wikilink")/運用/統合を行うものである。WAS のようなランタイム製品と WAS上で動作するアプリケーションを作成するための[開発ツール製品から構成される](https://ja.wikipedia.org/wiki/プログラミングツール "wikilink")。
+ただし、**[WebSphere Application Server](../Page/WebSphere_Application_Server.md "wikilink")** (WAS) という最も有名な製品を指す略語として使われることも多い。WebSphere は[ミドルウェア](../Page/ミドルウェア.md "wikilink")ソフトウェア製品群であり、[ウェブ技術を使った複数プラットフォームでの](../Page/World_Wide_Web.md "wikilink")[eビジネスの構築](../Page/電子商取引.md "wikilink")/運用/統合を行うものである。WAS のようなランタイム製品と WAS上で動作するアプリケーションを作成するための[開発ツール製品から構成される](https://ja.wikipedia.org/wiki/プログラミングツール "wikilink")。
 
 ## 概要
 
@@ -15,12 +15,12 @@ DataStageは、IBMが買収した[Ascential](https://ja.wikipedia.org/wiki/Ascen
 
 ## WebSphere ランタイム製品（一部）
 
-  - IBM [WebSphere Application Server](https://ja.wikipedia.org/wiki/WebSphere_Application_Server "wikilink") (WAS): [アプリケーションサーバ](https://ja.wikipedia.org/wiki/アプリケーションサーバ "wikilink")
+  - IBM [WebSphere Application Server](../Page/WebSphere_Application_Server.md "wikilink") (WAS): [アプリケーションサーバ](../Page/アプリケーションサーバ.md "wikilink")
   - IBM [WebSphere Commerce](https://ja.wikipedia.org/wiki/WebSphere_Commerce "wikilink"): [電子商取引](../Page/電子商取引.md "wikilink")
   - IBM [WebSphere Portal](https://ja.wikipedia.org/wiki/WebSphere_Portal "wikilink"): [ポータルサイト](../Page/ポータルサイト.md "wikilink")
-  - IBM [WebSphere ESB](https://ja.wikipedia.org/wiki/WebSphere_ESB "wikilink"): [エンタープライズ・サービス・バス](https://ja.wikipedia.org/wiki/エンタープライズ・サービス・バス "wikilink")
+  - IBM [WebSphere ESB](https://ja.wikipedia.org/wiki/WebSphere_ESB "wikilink"): [エンタープライズ・サービス・バス](../Page/エンタープライズ・サービス・バス.md "wikilink")
   - IBM [WebSphere Message Broker](https://ja.wikipedia.org/wiki/WebSphere_Message_Broker "wikilink"): アプリケーション統合
-  - IBM [WebSphere MQ](https://ja.wikipedia.org/wiki/WebSphere_MQ "wikilink"): [メッセージング](https://ja.wikipedia.org/wiki/メッセージ_\(コンピュータ\) "wikilink")
+  - IBM [WebSphere MQ](../Page/WebSphere_MQ.md "wikilink"): [メッセージング](../Page/メッセージ_\(コンピュータ\).md "wikilink")
   - IBM [WebSphere Process Server](https://ja.wikipedia.org/wiki/WebSphere_Process_Server "wikilink") (WPS): ビジネスプロセスサーバ
   - IBM [WebSphere Information Integrator](https://ja.wikipedia.org/wiki/WebSphere_Information_Integrator "wikilink"): 情報統合
   - IBM WebSphere DataStage: [ETL](https://ja.wikipedia.org/wiki/ETL "wikilink")ツール、旧称 Ascential DataStage → IBM WebSphere DataStage → として現在は[IBM InfoSphereブランドへ](https://ja.wikipedia.org/wiki/IBM_InfoSphere "wikilink")。
@@ -28,7 +28,7 @@ DataStageは、IBMが買収した[Ascential](https://ja.wikipedia.org/wiki/Ascen
 ## WebSphere 開発ツール（一部）
 
   - IBM [WebSphere Studio](https://ja.wikipedia.org/wiki/WebSphere_Studio "wikilink") Site Developer(WSSD)/Application Developer(WSAD) : [Eclipseベースの](../Page/Eclipse_\(統合開発環境\).md "wikilink")[統合開発環境](../Page/統合開発環境.md "wikilink")、 (RAD)として現在は[Rational](https://ja.wikipedia.org/wiki/Rational "wikilink")ブランドへ。\[1\]
-  - IBM [WebSphere Integration Developer](https://ja.wikipedia.org/wiki/WebSphere_Integration_Developer "wikilink") : [サービス指向アーキテクチャ](https://ja.wikipedia.org/wiki/サービス指向アーキテクチャ "wikilink")向け開発ツール
+  - IBM [WebSphere Integration Developer](https://ja.wikipedia.org/wiki/WebSphere_Integration_Developer "wikilink") : [サービス指向アーキテクチャ](../Page/サービス指向アーキテクチャ.md "wikilink")向け開発ツール
 
 ## 脚注
 

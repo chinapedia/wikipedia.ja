@@ -1,13 +1,13 @@
 > この記事は[LiLi](https://ja.wikipedia.org/wiki/LiLi)から翻訳されています。
 
 
-**LiLi**（リリ）は日本の3人組[J-POP](../Page/J-POP.md "wikilink")バンド。[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")結成。現在は長期活動休止中。メンバーは、Miyuki（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")）・Jiro（[ギター](../Page/ギター.md "wikilink")）・Hajime（[キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")）の3名。ベース、ドラムはサポートメンバーが入っている。
+**LiLi**（リリ）は日本の3人組[J-POP](../Page/J-POP.md "wikilink")バンド。[2004年](../Page/2004年.md "wikilink")結成。現在は長期活動休止中。メンバーは、Miyuki（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")）・Jiro（[ギター](../Page/ギター.md "wikilink")）・Hajime（[キーボード](../Page/キーボード_\(楽器\).md "wikilink")）の3名。ベース、ドラムはサポートメンバーが入っている。
 
 ## 来歴
 
-[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")の結成以来、[横浜 7th AVENUEを中心として主に横浜でのライブ活動を続ける](https://ja.wikipedia.org/wiki/横浜_7th_AVENUE "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に初のミニアルバム『**Link**』をリリース。
+[2004年](../Page/2004年.md "wikilink")の結成以来、[横浜 7th AVENUEを中心として主に横浜でのライブ活動を続ける](https://ja.wikipedia.org/wiki/横浜_7th_AVENUE "wikilink")。[2005年](../Page/2005年.md "wikilink")に初のミニアルバム『**Link**』をリリース。
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")には2月3日より[アール・エフ・ラジオ日本](../Page/アール・エフ・ラジオ日本.md "wikilink")の番組『[ガイジンさん大指摘！爆笑 日本人の急所！！](http://www.jorf.co.jp/program/bakusho.html)』（毎週土曜日/22:00－23:00）のエンディングテーマに「**Hey my friendz**」が選出される。
+[2007年](../Page/2007年.md "wikilink")には2月3日より[アール・エフ・ラジオ日本](../Page/アール・エフ・ラジオ日本.md "wikilink")の番組『[ガイジンさん大指摘！爆笑 日本人の急所！！](http://www.jorf.co.jp/program/bakusho.html)』（毎週土曜日/22:00－23:00）のエンディングテーマに「**Hey my friendz**」が選出される。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")1月16日より[DAMシリーズに](../Page/DAM_\(カラオケ\).md "wikilink")1st mini Album『**Link**』に収録されている「**手紙**」がカラオケ配信開始。
 
@@ -15,7 +15,7 @@
 
 2008年3月19日より[DAMシリーズに](../Page/DAM_\(カラオケ\).md "wikilink")1st full Album 『LiLi's Cafe』に収録されている「**あなたのうた**」がカラオケ配信開始。
 
-2008年4月分[キャンシステム](https://ja.wikipedia.org/wiki/キャンシステム "wikilink")月間お問い合わせチャート6位に「あなたのうた」がランクイン。
+2008年4月分[キャンシステム](../Page/キャンシステム.md "wikilink")月間お問い合わせチャート6位に「あなたのうた」がランクイン。
 
 2008年12月　初のワンマンライブ「 LiLi’s Cafe Befor Xmas」を開催。
 
@@ -29,7 +29,7 @@
 
 2010年7月7日　2nd mini Album 「Garden」発売。
 
-2011年 3rd mini Album「Style」を発売。 （収録曲「シアワセ」は[FMヨコハマ](https://ja.wikipedia.org/wiki/横浜エフエム放送 "wikilink")「[YOKOHAMA TOP30](https://ja.wikipedia.org/wiki/YOKOHAMA_TOP30 "wikilink")」で4週連続ランクイン）
+2011年 3rd mini Album「Style」を発売。 （収録曲「シアワセ」は[FMヨコハマ](../Page/横浜エフエム放送.md "wikilink")「[YOKOHAMA TOP30](https://ja.wikipedia.org/wiki/YOKOHAMA_TOP30 "wikilink")」で4週連続ランクイン）
 
 9月には初のSingle「旅人/step by step」を発売。 （収録曲「旅人」はFMヨコハマ「[YOKOHAMA TOP30](https://ja.wikipedia.org/wiki/YOKOHAMA_TOP30 "wikilink")」で4週連続ランクイン）
 
@@ -52,7 +52,7 @@
 
 ### ミニアルバム
 
-  - "Link"（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")10月21日/YRBM-4580）
+  - "Link"（[2005年](../Page/2005年.md "wikilink")10月21日/YRBM-4580）
 
 <!-- end list -->
 
@@ -95,7 +95,7 @@
 
 ### コンピレーションアルバム
 
-  - [YOKOHAMA MUSIC AWARD](https://ja.wikipedia.org/wiki/YOKOHAMA_MUSIC_AWARD "wikilink")～ヨコハマアップカマーVol.1～([2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")10月25日/YYCF-111)
+  - [YOKOHAMA MUSIC AWARD](../Page/YOKOHAMA_MUSIC_AWARD.md "wikilink")～ヨコハマアップカマーVol.1～([2006年](../Page/2006年.md "wikilink")10月25日/YYCF-111)
 
 <!-- end list -->
 
@@ -104,8 +104,8 @@
 
 ## 関連項目
 
-  - [ストリートファイターズ](https://ja.wikipedia.org/wiki/ストリートファイターズ "wikilink")
-  - [みんなが出るテレビ](https://ja.wikipedia.org/wiki/みんなが出るテレビ "wikilink")
+  - [ストリートファイターズ](../Page/ストリートファイターズ.md "wikilink")
+  - [みんなが出るテレビ](../Page/みんなが出るテレビ.md "wikilink")
 
 ## 外部リンク
 

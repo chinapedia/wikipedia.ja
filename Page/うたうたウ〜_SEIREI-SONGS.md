@@ -1,7 +1,7 @@
 > この記事は[ SEIREI-SONGS](https://ja.wikipedia.org/wiki/_SEIREI-SONGS)から翻訳されています。
 
 
-『**うたうたウ〜 SEIREI SONGS**』（UTAUTA-UH）は、[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")[エニックス](https://ja.wikipedia.org/wiki/エニックス "wikilink")（現[スクウェア・エニックス](https://ja.wikipedia.org/wiki/スクウェア・エニックス "wikilink")）が[2000年](../Page/2000年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")に発売した[プレイステーション専用](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")。[音楽ゲーム](../Page/音楽ゲーム.md "wikilink") の要素を取り入れた [アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink") 。
+『**うたうたウ〜 SEIREI SONGS**』（UTAUTA-UH）は、[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")[エニックス](https://ja.wikipedia.org/wiki/エニックス "wikilink")（現[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")）が[2000年](../Page/2000年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")に発売した[プレイステーション専用](../Page/PlayStation_\(ゲーム機\).md "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")。[音楽ゲーム](../Page/音楽ゲーム.md "wikilink") の要素を取り入れた [アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink") 。
 
 ## 概要
 
@@ -35,10 +35,10 @@
 
   - [長尾優進](https://ja.wikipedia.org/wiki/長尾優進 "wikilink")（キーボード）
   - 山口和高（キーボード）
-  - [松原正樹](https://ja.wikipedia.org/wiki/松原正樹 "wikilink")（ギター）
+  - [松原正樹](../Page/松原正樹.md "wikilink")（ギター）
   - [南部昌江](https://ja.wikipedia.org/wiki/南部昌江 "wikilink")（キーボード/ヴォーカル）
-  - [青木智仁](https://ja.wikipedia.org/wiki/青木智仁 "wikilink")（ベース）
-  - [島村英二](https://ja.wikipedia.org/wiki/島村英二 "wikilink")（ドラムス）
+  - [青木智仁](../Page/青木智仁.md "wikilink")（ベース）
+  - [島村英二](../Page/島村英二.md "wikilink")（ドラムス）
   - [三沢またろう](../Page/三沢またろう.md "wikilink")（パーカッション）
   - 鈴木正則（トランペット）
   - 春名正治（サックス）

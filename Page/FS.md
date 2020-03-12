@@ -2,28 +2,28 @@
 
 
   - **FS**
-      - [フェイルセーフ](https://ja.wikipedia.org/wiki/フェイルセーフ "wikilink") (fail safe)
+      - [フェイルセーフ](../Page/フェイルセーフ.md "wikilink") (fail safe)
       - [ファイルシステム](../Page/ファイルシステム.md "wikilink") (file system)
       - [ファイルサーバ](../Page/ファイルサーバ.md "wikilink") (file server)
       - [ファイルセパレータ](https://ja.wikipedia.org/wiki/ファイルセパレータ "wikilink") (file separator)。[ASCII](https://ja.wikipedia.org/wiki/ASCII "wikilink")・[Unicode](../Page/Unicode.md "wikilink")などの[制御文字](../Page/制御文字.md "wikilink")の1つ。0x1C。
       - [フライトシミュレータ](https://ja.wikipedia.org/wiki/フライトシミュレータ "wikilink") (flight simulator)
-      - [フーリエ級数](https://ja.wikipedia.org/wiki/フーリエ級数 "wikilink") (Fourier series)
+      - [フーリエ級数](../Page/フーリエ級数.md "wikilink") (Fourier series)
       - [財務諸表](../Page/財務諸表.md "wikilink") (financial statements)
-      - [フランス領南方地域](https://ja.wikipedia.org/wiki/フランス領南方・南極地域 "wikilink") (French Southern Territories)
+      - [フランス領南方地域](../Page/フランス領南方・南極地域.md "wikilink") (French Southern Territories)
       - [支援戦闘機](../Page/支援戦闘機.md "wikilink") ()
       - [住友金属工業](../Page/住友金属工業.md "wikilink")製の[台車](../Page/鉄道車両の台車.md "wikilink")（ボルスタレス式を除く）の形式に冠される記号（例：FS369）
-      - [フェッロヴィーエ・デッロ・スタート](https://ja.wikipedia.org/wiki/フェッロヴィーエ・デッロ・スタート "wikilink") (Ferrovie dello Stato) 、旧イタリア国鉄。
-      - [ファンタシースター](https://ja.wikipedia.org/wiki/ファンタシースター "wikilink") (Phantasy Star) の誤り
+      - [フェッロヴィーエ・デッロ・スタート](../Page/フェッロヴィーエ・デッロ・スタート.md "wikilink") (Ferrovie dello Stato) 、旧イタリア国鉄。
+      - [ファンタシースター](../Page/ファンタシースター.md "wikilink") (Phantasy Star) の誤り
       - [フィージビリティスタディ](https://ja.wikipedia.org/wiki/フィージビリティスタディ "wikilink")（Feasibility Study）事業可能性の検証。事業化あるいは事業継続が可能かを探る調査。
       - [PC-9801FS](https://ja.wikipedia.org/wiki/PC-9800シリーズ#ホビーユースへの進出 "wikilink") - [NECの](../Page/日本電気.md "wikilink")[パソコン](../Page/パーソナルコンピュータ.md "wikilink")
       - [ファミリーソフト](../Page/ファミリーソフト.md "wikilink") (Family Soft) - 日本の中小ゲームソフト会社。『[あすか120%](https://ja.wikipedia.org/wiki/あすか120% "wikilink")』シリーズで知られる。
-      - [FSエイコー](https://ja.wikipedia.org/wiki/FSエイコー "wikilink") (FS EIKO) - [長野県](../Page/長野県.md "wikilink")内に本社を置く日本の[整水器](https://ja.wikipedia.org/wiki/整水器 "wikilink")メーカー。現在は[ユニマットグループの一員](https://ja.wikipedia.org/wiki/ユニマットホールディング "wikilink")。
+      - [FSエイコー](https://ja.wikipedia.org/wiki/FSエイコー "wikilink") (FS EIKO) - [長野県](../Page/長野県.md "wikilink")内に本社を置く日本の[整水器](https://ja.wikipedia.org/wiki/整水器 "wikilink")メーカー。現在は[ユニマットグループの一員](../Page/ユニマットホールディング.md "wikilink")。
       - [フィギュアスケート](../Page/フィギュアスケート.md "wikilink") の略称
-      - [Future Systems プロジェクト](https://ja.wikipedia.org/wiki/Future_Systems_プロジェクト "wikilink")
-      - [アメリカンフットボール](../Page/アメリカンフットボール.md "wikilink")の[ポジションの一つであるフリーセイフティ](https://ja.wikipedia.org/wiki/アメリカンフットボールのポジション "wikilink")(*Free Safety*)の略称。
-      - [日野・セレガ](https://ja.wikipedia.org/wiki/日野・セレガ "wikilink")の初代モデルにあったミドルデッカー仕様の名称。
+      - [Future Systems プロジェクト](../Page/Future_Systems_プロジェクト.md "wikilink")
+      - [アメリカンフットボール](../Page/アメリカンフットボール.md "wikilink")の[ポジションの一つであるフリーセイフティ](../Page/アメリカンフットボールのポジション.md "wikilink")(*Free Safety*)の略称。
+      - [日野・セレガ](../Page/日野・セレガ.md "wikilink")の初代モデルにあったミドルデッカー仕様の名称。
       - [漁船](../Page/漁船.md "wikilink")の登録番号において[福島県](../Page/福島県.md "wikilink")を表す識別標（漁船法施行規則13条・付録第二）
-      - [東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")の80年代中盤頃を中心に展開していたテレビブランド「[CORE](https://ja.wikipedia.org/wiki/コア#固有名詞 "wikilink")」の高機能型「FS（フラットスクエア）シリーズ」。
+      - [東芝](../Page/東芝.md "wikilink")の80年代中盤頃を中心に展開していたテレビブランド「[CORE](https://ja.wikipedia.org/wiki/コア#固有名詞 "wikilink")」の高機能型「FS（フラットスクエア）シリーズ」。
       - [Forward secrecyの略称](https://ja.wikipedia.org/wiki/Forward_secrecy "wikilink")
   - **Fs**
       - [片層雲](https://ja.wikipedia.org/wiki/片層雲 "wikilink")

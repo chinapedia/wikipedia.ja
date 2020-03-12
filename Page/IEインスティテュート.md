@@ -28,9 +28,9 @@
   - [ESSEしっかり家計簿DS](https://ja.wikipedia.org/wiki/ESSEしっかり家計簿DS "wikilink")
   - [旺文社 でる順シリーズ](https://ja.wikipedia.org/wiki/旺文社_でる順 "wikilink") - 公民・国語・算数・地理
   - [書き込み式『般若心経』練習帳DS](https://ja.wikipedia.org/wiki/書き込み式『般若心経』練習帳DS "wikilink")
-  - [□いアタマを○くする。漢字の章](https://ja.wikipedia.org/wiki/□いアタマを○くする。シリーズ "wikilink")
-  - [□いアタマを○くする。計算の章](https://ja.wikipedia.org/wiki/□いアタマを○くする。シリーズ "wikilink")
-  - [□いアタマを○くする。常識・難問の章](https://ja.wikipedia.org/wiki/□いアタマを○くする。シリーズ "wikilink")
+  - [□いアタマを○くする。漢字の章](../Page/□いアタマを○くする。シリーズ.md "wikilink")
+  - [□いアタマを○くする。計算の章](../Page/□いアタマを○くする。シリーズ.md "wikilink")
+  - [□いアタマを○くする。常識・難問の章](../Page/□いアタマを○くする。シリーズ.md "wikilink")
   - [NEW中学英単語ターゲット1800DS](https://ja.wikipedia.org/wiki/英単語ターゲット_\(ニンテンドーDS\) "wikilink")
   - [超かんたん簿記入門DS](https://ja.wikipedia.org/wiki/超かんたん簿記入門DS "wikilink")
   - [TOEIC TEST DSトレーニング](https://ja.wikipedia.org/wiki/TOEIC_TEST_DSトレーニング "wikilink")

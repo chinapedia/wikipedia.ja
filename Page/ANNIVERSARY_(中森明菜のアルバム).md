@@ -1,15 +1,15 @@
 > この記事は[ANNIVERSARY \(\)](https://ja.wikipedia.org/wiki/ANNIVERSARY_\(\))から翻訳されています。
 
 
-『**ANNIVERSARY**』（アニバーサリー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の5枚目の[スタジオ・アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。このアルバムは1984年5月1日にワーナー・パイオニア（現：[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")）よりリリースされた ([LP](https://ja.wikipedia.org/wiki/レコード#レコード盤の形状 "wikilink"): L-12591, [CT](../Page/コンパクトカセット.md "wikilink"): LKF-8091)。
+『**ANNIVERSARY**』（アニバーサリー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の5枚目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。このアルバムは1984年5月1日にワーナー・パイオニア（現：[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")）よりリリースされた ([LP](https://ja.wikipedia.org/wiki/レコード#レコード盤の形状 "wikilink"): L-12591, [CT](../Page/コンパクトカセット.md "wikilink"): LKF-8091)。
 
 ## 背景と構成
 
-『ANNIVERSARY』は、中森の6枚目の[アルバム](../Page/アルバム.md "wikilink")で、[スタジオ・アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")としては通算5枚目にあたる\[1\]\[2\]。本作の[ディスクジャケット](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")には"6th ALBUM"と表記されている\[3\]。また、このアルバムは、中森のデビュー3周年目を迎えての記念アルバムで、デビュー記念日にあたる1984年5月1日に、[LP](https://ja.wikipedia.org/wiki/レコード#レコード盤の形状 "wikilink") (L-12591)と[CT](../Page/コンパクトカセット.md "wikilink") (LKF-8091)の2形態で同時発売された\[4\]\[5\]\[6\]。このアルバムの特典として、LP先着50万名にポスターが付いた\[7\]。本作では、新たな作家陣として、[尾崎亜美](https://ja.wikipedia.org/wiki/尾崎亜美 "wikilink")、後に[シングル](../Page/シングル.md "wikilink")「[ジプシー・クイーン](https://ja.wikipedia.org/wiki/ジプシー・クイーン_\(中森明菜の曲\) "wikilink")」を手掛ける[国安わたる](https://ja.wikipedia.org/wiki/国安わたる "wikilink")や、[有川正沙子](https://ja.wikipedia.org/wiki/有川正沙子 "wikilink")らを迎えた\[8\]。加えて、中森が初めて作詞を手掛けた楽曲「夢を見させて…」が収録されている\[9\]\[10\]。このアルバムの[プロデュースは](../Page/音楽プロデューサー.md "wikilink")、過去4作のスタジオ・アルバムのディレクターを務めた[島田雄三が担当した](https://ja.wikipedia.org/wiki/島田雄三_\(プロデューサー\) "wikilink")\[11\]\[12\]\[13\]\[14\]\[15\]。このアルバムのレコーディングは、[東京](https://ja.wikipedia.org/wiki/東京 "wikilink")のアオイスタジオ、チェリーアイランドスタジオ、[バハマ](../Page/バハマ.md "wikilink")の[ナッソー](https://ja.wikipedia.org/wiki/ナッソー "wikilink")にある[コンパス・ポイント・スタジオ](https://ja.wikipedia.org/wiki/コンパス・ポイント・スタジオ "wikilink")で行われた\[16\]\[17\]。『[ザテレビジョン](https://ja.wikipedia.org/wiki/ザテレビジョン "wikilink")』によれば、本作は全体として南国風色合いの内容であると指摘している\[18\]。1984年5月25日には、[CDでも発売された](../Page/コンパクトディスク.md "wikilink") (35XL-40)。同年7月28日からは、本作を引っ提げての全国[コンサート・ツアー](https://ja.wikipedia.org/wiki/コンサート・ツアー "wikilink")逢いたい菜 逢えるか菜 中森明菜音楽鑑賞会が行われた\[19\]\[20\]。
+『ANNIVERSARY』は、中森の6枚目の[アルバム](../Page/アルバム.md "wikilink")で、[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")としては通算5枚目にあたる\[1\]\[2\]。本作の[ディスクジャケット](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")には"6th ALBUM"と表記されている\[3\]。また、このアルバムは、中森のデビュー3周年目を迎えての記念アルバムで、デビュー記念日にあたる1984年5月1日に、[LP](https://ja.wikipedia.org/wiki/レコード#レコード盤の形状 "wikilink") (L-12591)と[CT](../Page/コンパクトカセット.md "wikilink") (LKF-8091)の2形態で同時発売された\[4\]\[5\]\[6\]。このアルバムの特典として、LP先着50万名にポスターが付いた\[7\]。本作では、新たな作家陣として、[尾崎亜美](https://ja.wikipedia.org/wiki/尾崎亜美 "wikilink")、後に[シングル](../Page/シングル.md "wikilink")「[ジプシー・クイーン](../Page/ジプシー・クイーン_\(中森明菜の曲\).md "wikilink")」を手掛ける[国安わたる](../Page/国安わたる.md "wikilink")や、[有川正沙子](../Page/有川正沙子.md "wikilink")らを迎えた\[8\]。加えて、中森が初めて作詞を手掛けた楽曲「夢を見させて…」が収録されている\[9\]\[10\]。このアルバムの[プロデュースは](../Page/音楽プロデューサー.md "wikilink")、過去4作のスタジオ・アルバムのディレクターを務めた[島田雄三が担当した](https://ja.wikipedia.org/wiki/島田雄三_\(プロデューサー\) "wikilink")\[11\]\[12\]\[13\]\[14\]\[15\]。このアルバムのレコーディングは、[東京](../Page/東京.md "wikilink")のアオイスタジオ、チェリーアイランドスタジオ、[バハマ](../Page/バハマ.md "wikilink")の[ナッソー](../Page/ナッソー.md "wikilink")にある[コンパス・ポイント・スタジオ](https://ja.wikipedia.org/wiki/コンパス・ポイント・スタジオ "wikilink")で行われた\[16\]\[17\]。『[ザテレビジョン](../Page/ザテレビジョン.md "wikilink")』によれば、本作は全体として南国風色合いの内容であると指摘している\[18\]。1984年5月25日には、[CDでも発売された](../Page/コンパクトディスク.md "wikilink") (35XL-40)。同年7月28日からは、本作を引っ提げての全国[コンサート・ツアー](https://ja.wikipedia.org/wiki/コンサート・ツアー "wikilink")逢いたい菜 逢えるか菜 中森明菜音楽鑑賞会が行われた\[19\]\[20\]。
 
 ## シングル
 
-「[北ウイング](https://ja.wikipedia.org/wiki/北ウイング "wikilink")」が、本作からの先行シングルとして1984年1月1日に発売された\[21\]\[22\]\[23\]。中森にとって7枚目のシングルとなったこの楽曲は、1984年度の[オリコン年間シングルチャートでトップテン入りを果たした](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")\[24\]\[25\]。
+「[北ウイング](../Page/北ウイング.md "wikilink")」が、本作からの先行シングルとして1984年1月1日に発売された\[21\]\[22\]\[23\]。中森にとって7枚目のシングルとなったこの楽曲は、1984年度の[オリコン年間シングルチャートでトップテン入りを果たした](../Page/オリコンチャート.md "wikilink")\[24\]\[25\]。
 
 ## 批評
 
@@ -17,7 +17,7 @@
 
 ## チャート成績
 
-『ANNIVERSARY』は、[オリコン週間LPチャートの](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1984年5月7日付で初登場2位を記録後、翌週の1984年5月14日付で最高順位1位を記録した\[28\]\[29\]。以降、1984年5月28日付まで3週連続で1位を記録した\[30\]。同チャートの100位以内においては、計21週に渡ってランクインしている\[31\]。また、カセット盤はオリコンのカセットチャートにて最高順位1位を記録し、同チャートの100位以内において計26週に渡ってランクインしている\[32\]。1984年度のオリコン年間アルバムチャートでは、13位を記録した。
+『ANNIVERSARY』は、[オリコン週間LPチャートの](../Page/オリコンチャート.md "wikilink")1984年5月7日付で初登場2位を記録後、翌週の1984年5月14日付で最高順位1位を記録した\[28\]\[29\]。以降、1984年5月28日付まで3週連続で1位を記録した\[30\]。同チャートの100位以内においては、計21週に渡ってランクインしている\[31\]。また、カセット盤はオリコンのカセットチャートにて最高順位1位を記録し、同チャートの100位以内において計26週に渡ってランクインしている\[32\]。1984年度のオリコン年間アルバムチャートでは、13位を記録した。
 
 ## 収録曲
 
@@ -30,27 +30,27 @@
   - 「アサイラム」
       - ドラムス - 渡嘉敷祐一
       - エレクトリック・ベース - 岡沢章
-      - エレクトリック・ギター - [松原正樹](https://ja.wikipedia.org/wiki/松原正樹 "wikilink")
-      - フォーク・ギター - [吉川忠英](https://ja.wikipedia.org/wiki/吉川忠英 "wikilink")
+      - エレクトリック・ギター - [松原正樹](../Page/松原正樹.md "wikilink")
+      - フォーク・ギター - [吉川忠英](../Page/吉川忠英.md "wikilink")
       - キーボード - 山田秀俊、田代真紀子
       - パーカッション - [浜口茂外也](https://ja.wikipedia.org/wiki/浜口茂外也 "wikilink")
-      - ブラス - [数原晋](https://ja.wikipedia.org/wiki/数原晋 "wikilink")(T.P)、[小林正弘](https://ja.wikipedia.org/wiki/小林正弘 "wikilink")(T.P)、新井英治(T.B)、[ジェイク・H・コンセプション](https://ja.wikipedia.org/wiki/ジェイク・H・コンセプション "wikilink")(T.S)
+      - ブラス - [数原晋](../Page/数原晋.md "wikilink")(T.P)、[小林正弘](../Page/小林正弘.md "wikilink")(T.P)、新井英治(T.B)、[ジェイク・H・コンセプション](https://ja.wikipedia.org/wiki/ジェイク・H・コンセプション "wikilink")(T.S)
       - コーラス - [イブ](https://ja.wikipedia.org/wiki/EVE_\(歌手グループ\) "wikilink")
   - 「まぶしい二人で」
-      - ドラムス - [島村英二](https://ja.wikipedia.org/wiki/島村英二 "wikilink")
+      - ドラムス - [島村英二](../Page/島村英二.md "wikilink")
       - エレクトリック・ベース - 富倉安生
-      - エレクトリック・ギター - [矢島賢](https://ja.wikipedia.org/wiki/矢島賢 "wikilink")
+      - エレクトリック・ギター - [矢島賢](../Page/矢島賢.md "wikilink")
       - フォーク・ギター - 谷康一
       - キーボード - 富樫春生、[森村献](https://ja.wikipedia.org/wiki/森村献 "wikilink")
       - パーカッション - [斎藤ノブ](https://ja.wikipedia.org/wiki/斎藤ノブ "wikilink")
       - ストリングス - 多弦楽グループ
       - ハープ - 山川恵子
-      - コーラス - [山川恵津子](https://ja.wikipedia.org/wiki/山川恵津子 "wikilink")、比山清、[木戸恭弘](https://ja.wikipedia.org/wiki/木戸恭弘 "wikilink")
+      - コーラス - [山川恵津子](../Page/山川恵津子.md "wikilink")、比山清、[木戸恭弘](https://ja.wikipedia.org/wiki/木戸恭弘 "wikilink")
   - 「Easy」
       - ドラムス - 渡嘉敷祐一
       - エレクトリック・ベース - 岡沢章
       - エレクトリック・ギター - 松原正樹
-      - キーボード - [倉田信雄](https://ja.wikipedia.org/wiki/倉田信雄 "wikilink")
+      - キーボード - [倉田信雄](../Page/倉田信雄.md "wikilink")
       - パーカッション - 斎藤ノブ
       - ストリングス - JOEストリングス
       - ブラス - 数原晋(T.P)、小林正弘(T.P)、新井英治(T.B)、ジェイク・H・コンセプション(T.S)
@@ -65,19 +65,19 @@
       - ストリングス - 多弦楽グループ
       - フリューゲルホルン - 数原晋
       - コーラス - 山川恵津子、比山清、木戸恭弘
-  - 「[北ウイング](https://ja.wikipedia.org/wiki/北ウイング "wikilink")」
+  - 「[北ウイング](../Page/北ウイング.md "wikilink")」
       - ドラムス - 宮崎全弘
       - エレクトリック・ベース - 富倉安生
       - エレクトリック・ギター - 松原正樹
       - キーボード - 富樫春生
       - パーカッション - 木村誠
       - ストリングス - JOEストリングス
-      - コーラス - イブ、比山清、木戸恭弘、[林哲司](https://ja.wikipedia.org/wiki/林哲司 "wikilink")
+      - コーラス - イブ、比山清、木戸恭弘、[林哲司](../Page/林哲司.md "wikilink")
 
 <!-- end list -->
 
   - 「100℃バカンス」
-      - シモンズ・ドラムス - [林立夫](https://ja.wikipedia.org/wiki/林立夫 "wikilink")
+      - シモンズ・ドラムス - [林立夫](../Page/林立夫.md "wikilink")
       - エレクトリック・ギター - 松原正樹
       - キーボード - 山田秀俊、田代真紀子、矢島賢
       - ストリングス - JOEストリングス

@@ -1,7 +1,7 @@
 > この記事は[SAINT](https://ja.wikipedia.org/wiki/SAINT)から翻訳されています。
 
 
-**SAINT**（セイント）は、株式会社[シマノ](../Page/シマノ.md "wikilink")が開発、販売する[マウンテンバイク](../Page/マウンテンバイク.md "wikilink")向け[コンポーネントである](https://ja.wikipedia.org/wiki/コンポーネント_\(自転車\) "wikilink")。
+**SAINT**（セイント）は、株式会社[シマノ](../Page/シマノ.md "wikilink")が開発、販売する[マウンテンバイク](../Page/マウンテンバイク.md "wikilink")向け[コンポーネントである](../Page/コンポーネント_\(自転車\).md "wikilink")。
 
 ## 概要
 

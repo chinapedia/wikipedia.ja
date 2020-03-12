@@ -5,18 +5,18 @@
 
 ## 概要
 
-  - このアルバムで初の[オリコン](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位を獲得した。
+  - このアルバムで初の[オリコン](../Page/オリコンチャート.md "wikilink")1位を獲得した。
 
 ## 収録曲
 
-・全作詞・全作曲：[藤田千章](https://ja.wikipedia.org/wiki/藤田千章 "wikilink")＆[佐藤竹善](https://ja.wikipedia.org/wiki/佐藤竹善 "wikilink")(特記以外)、全編曲：Sing Like Talking
+・全作詞・全作曲：[藤田千章](https://ja.wikipedia.org/wiki/藤田千章 "wikilink")＆[佐藤竹善](../Page/佐藤竹善.md "wikilink")(特記以外)、全編曲：Sing Like Talking
 
 1.  **encounter Ⅰ**
       -
         作曲：[西村智彦](https://ja.wikipedia.org/wiki/西村智彦 "wikilink")
 2.  **[My Desire 〜冬を越えて〜](https://ja.wikipedia.org/wiki/My_Desire_〜冬を越えて〜 "wikilink")**　
       -
-        [日産・ラルゴ](https://ja.wikipedia.org/wiki/日産・ラルゴ "wikilink")のCM曲。
+        [日産・ラルゴ](../Page/日産・ラルゴ.md "wikilink")のCM曲。
 3.  **Fake It**
 4.  **In The Rain**
 5.  **今日の行方**

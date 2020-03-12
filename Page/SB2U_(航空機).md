@@ -1,17 +1,17 @@
 > この記事は[SB2U \(\)](https://ja.wikipedia.org/wiki/SB2U_\(\))から翻訳されています。
 
 
-**SB2U ヴィンディケイター**（*Chance Vought SB2U Vindicator* ）は[ヴォート社が開発した](https://ja.wikipedia.org/wiki/ヴォート・エアクラフト・インダストリーズ "wikilink")[艦上爆撃機](https://ja.wikipedia.org/wiki/艦上爆撃機 "wikilink")である。折りたたみ式の主翼や引き込み脚を持つ、当時としては近代的な[急降下爆撃機](../Page/急降下爆撃機.md "wikilink")であった。イギリスでも**チェサピーク**の名で練習機として運用された。
+**SB2U ヴィンディケイター**（*Chance Vought SB2U Vindicator* ）は[ヴォート社が開発した](../Page/ヴォート・エアクラフト・インダストリーズ.md "wikilink")[艦上爆撃機](../Page/艦上爆撃機.md "wikilink")である。折りたたみ式の主翼や引き込み脚を持つ、当時としては近代的な[急降下爆撃機](../Page/急降下爆撃機.md "wikilink")であった。イギリスでも**チェサピーク**の名で練習機として運用された。
 
 アメリカでの愛称の「**ヴィンディケイター**(Vindicator)」は、擁護者の意である。また、イギリスでの愛称の「**チェサピーク** (Chesapeake)」は、ヴァージニア州の原住民のこと。
 
 ## 概要
 
-海軍による募集の際、既に開発が大幅に進んでいた[カーチス・ライト](https://ja.wikipedia.org/wiki/カーチス・ライト "wikilink")社の[XSBC-3以外では](https://ja.wikipedia.org/wiki/SBC_\(航空機\) "wikilink")、グレート・レイクス社の[XB2Gは開発断念](https://ja.wikipedia.org/wiki/BG_\(航空機\)#派生型 "wikilink")、グラマン社の[XSBFは開発断念により偵察機](https://ja.wikipedia.org/wiki/FF_\(航空機\) "wikilink")**SF**として使用、ブルースターのXSBAは生産性の高い海軍工廠への移転生産により[SBNと改称されたが生産に遅れが出てしまい](../Page/SBA_\(航空機\).md "wikilink")、ノースロップ社の[XBTは少数生産ののち](https://ja.wikipedia.org/wiki/BT_\(航空機\) "wikilink")、改良のためダグラス社への移転生産により[SBDに改称されるといった具合で](https://ja.wikipedia.org/wiki/SBD_\(航空機\) "wikilink")、計画通りに製造が行われたのは、このSB2Uのみであった。
+海軍による募集の際、既に開発が大幅に進んでいた[カーチス・ライト](../Page/カーチス・ライト.md "wikilink")社の[XSBC-3以外では](../Page/SBC_\(航空機\).md "wikilink")、グレート・レイクス社の[XB2Gは開発断念](https://ja.wikipedia.org/wiki/BG_\(航空機\)#派生型 "wikilink")、グラマン社の[XSBFは開発断念により偵察機](https://ja.wikipedia.org/wiki/FF_\(航空機\) "wikilink")**SF**として使用、ブルースターのXSBAは生産性の高い海軍工廠への移転生産により[SBNと改称されたが生産に遅れが出てしまい](../Page/SBA_\(航空機\).md "wikilink")、ノースロップ社の[XBTは少数生産ののち](../Page/BT_\(航空機\).md "wikilink")、改良のためダグラス社への移転生産により[SBDに改称されるといった具合で](../Page/SBD_\(航空機\).md "wikilink")、計画通りに製造が行われたのは、このSB2Uのみであった。
 
 開発は[1934年](../Page/1934年.md "wikilink")[6月](../Page/6月.md "wikilink")より開始され、[1934年](../Page/1934年.md "wikilink")[10月11日](../Page/10月11日.md "wikilink")に、**XSB2U**として、アメリカ海軍より試作機の発注が行われた。初飛行は[1936年](../Page/1936年.md "wikilink")[1月4日](../Page/1月4日.md "wikilink")。
 
-[thumb艦上のSB](https://ja.wikipedia.org/wiki/ファイル:SB2U-1_VB-3_CV-3_1938.jpg "wikilink")2U-1 海軍第3爆撃航空隊(VB-3)の所属機\]\] [1937年](../Page/1937年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")より部隊に配属が開始され、ダグラス社製[SBD ドーントレスが配備されるまでの主力艦上爆撃機として使用された](https://ja.wikipedia.org/wiki/SBD_\(航空機\) "wikilink")。また[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")にも輸出され、V-156Fとして1939年に40機が発注され、同年9月3日より引き渡しが開始された。[仏海軍向けに仕様が変更されており](https://ja.wikipedia.org/wiki/フランス海軍 "wikilink")、各種兵装の他、プロペラピッチを逆ピッチにして使用するダイブブレーキは主翼上下に取り付けた細い板状のダイブブレーキに変更されている。第一海軍爆撃航空団傘下のAB1、AB3二個飛行隊に12機づつ配備され[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")初期の[独仏戦に使用されたが](https://ja.wikipedia.org/wiki/ナチス・ドイツのフランス侵攻 "wikilink")、大した活躍もないまま敗戦を迎えることとなり、[ヴィシー政権](../Page/ヴィシー政権.md "wikilink")下で残存機全てがスクラップとして廃棄された。
+[thumb艦上のSB](https://ja.wikipedia.org/wiki/ファイル:SB2U-1_VB-3_CV-3_1938.jpg "wikilink")2U-1 海軍第3爆撃航空隊(VB-3)の所属機\]\] [1937年](../Page/1937年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")より部隊に配属が開始され、ダグラス社製[SBD ドーントレスが配備されるまでの主力艦上爆撃機として使用された](../Page/SBD_\(航空機\).md "wikilink")。また[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")にも輸出され、V-156Fとして1939年に40機が発注され、同年9月3日より引き渡しが開始された。[仏海軍向けに仕様が変更されており](../Page/フランス海軍.md "wikilink")、各種兵装の他、プロペラピッチを逆ピッチにして使用するダイブブレーキは主翼上下に取り付けた細い板状のダイブブレーキに変更されている。第一海軍爆撃航空団傘下のAB1、AB3二個飛行隊に12機づつ配備され[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")初期の[独仏戦に使用されたが](../Page/ナチス・ドイツのフランス侵攻.md "wikilink")、大した活躍もないまま敗戦を迎えることとなり、[ヴィシー政権](../Page/ヴィシー政権.md "wikilink")下で残存機全てがスクラップとして廃棄された。
 
 太平洋戦線では[ミッドウェー海戦](https://ja.wikipedia.org/wiki/ミッドウェー海戦 "wikilink")にミッドウェー基地航空隊として参加しており、1機が(被弾により帰投できなくなったため)[重巡洋艦](../Page/重巡洋艦.md "wikilink")「[三隈](../Page/三隈_\(重巡洋艦\).md "wikilink")」に体当たり攻撃を仕掛けたことで知られる。
 
@@ -56,7 +56,7 @@
 <td><p>28.34m<sup>2</sup></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/翼面荷重" title="wikilink">翼面荷重</a></p></td>
+<td><p><a href="../Page/翼面荷重.md" title="wikilink">翼面荷重</a></p></td>
 <td><p>101kg/m<sup>2</sup></p></td>
 <td><p>102kg/m<sup>2</sup></p></td>
 </tr>
@@ -102,13 +102,13 @@
 <td><p>8,382m</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/航続距離" title="wikilink">航続距離</a></p></td>
+<td><p><a href="../Page/航続距離.md" title="wikilink">航続距離</a></p></td>
 <td><p>1,128km(500ポンド（226.8kg）爆弾搭載時）</p></td>
 <td><p>1,014km(500ポンド（226.8kg）爆弾搭載時）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/武装" title="wikilink">武装</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブローニングM1919重機関銃" title="wikilink">AN/M2 7.62mm機関銃</a><br />
+<td><p><a href="../Page/武装.md" title="wikilink">武装</a></p></td>
+<td><p><a href="../Page/ブローニングM1919重機関銃.md" title="wikilink">AN/M2 7.62mm機関銃</a><br />
 右主翼 1挺・後席旋回 1挺</p></td>
 <td></td>
 </tr>
@@ -155,14 +155,14 @@
 
 ## 現存する機体
 
-| 型名     | 局番号\[1\] | 機体写真                                                                                                                                                                                      | 所在地                                                                                                                                                                                   | 保存施設                                                                                                    | 公開状況 | 状態   | 備考                                                                                                   |
-| ------ | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ---- | ---- | ---------------------------------------------------------------------------------------------------- |
-| SB2U-2 | 1383     | [NavalAirMuseum_4-30-17-2472_(34297785042).jpg](https://ja.wikipedia.org/wiki/File:NavalAirMuseum_4-30-17-2472_\(34297785042\).jpg "fig:NavalAirMuseum_4-30-17-2472_(34297785042).jpg") | [アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[フロリダ州](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")[ペンサコーラ](https://ja.wikipedia.org/wiki/ペンサコーラ_\(フロリダ州\) "wikilink") | [国立海軍航空博物館](https://ja.wikipedia.org/wiki/国立海軍航空博物館 "wikilink")[1](http://www.navalaviationmuseum.org/) | 公開   | 静態展示 | [公式サイト](http://www.navalaviationmuseum.org/attractions/aircraft-exhibits/item/?item=sb2u_vindicator) |
+| 型名     | 局番号\[1\] | 機体写真                                                                                                                                                                                      | 所在地                                                                                                                                                                | 保存施設                                                                                                    | 公開状況 | 状態   | 備考                                                                                                   |
+| ------ | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------- | ---- | ---- | ---------------------------------------------------------------------------------------------------- |
+| SB2U-2 | 1383     | [NavalAirMuseum_4-30-17-2472_(34297785042).jpg](https://ja.wikipedia.org/wiki/File:NavalAirMuseum_4-30-17-2472_\(34297785042\).jpg "fig:NavalAirMuseum_4-30-17-2472_(34297785042).jpg") | [アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[フロリダ州](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")[ペンサコーラ](../Page/ペンサコーラ_\(フロリダ州\).md "wikilink") | [国立海軍航空博物館](https://ja.wikipedia.org/wiki/国立海軍航空博物館 "wikilink")[1](http://www.navalaviationmuseum.org/) | 公開   | 静態展示 | [公式サイト](http://www.navalaviationmuseum.org/attractions/aircraft-exhibits/item/?item=sb2u_vindicator) |
 
 ## 登場作品
 
   - 『六発の文明』
-    [戦場まんがシリーズ](https://ja.wikipedia.org/wiki/戦場まんがシリーズ "wikilink")の一編。[太平洋戦争](https://ja.wikipedia.org/wiki/太平洋戦争 "wikilink")初期、恋人の民間人を乗せて[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")よりの脱出に使用。被弾した[零戦](https://ja.wikipedia.org/wiki/零戦 "wikilink")を組み易しとして民間人が旋回銃で不用意に攻撃したため、返り討ちにあって撃墜されてしまう。旋回銃が7,62mm連装にカスタマイズされている。
+    [戦場まんがシリーズ](../Page/戦場まんがシリーズ.md "wikilink")の一編。[太平洋戦争](https://ja.wikipedia.org/wiki/太平洋戦争 "wikilink")初期、恋人の民間人を乗せて[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")よりの脱出に使用。被弾した[零戦](https://ja.wikipedia.org/wiki/零戦 "wikilink")を組み易しとして民間人が旋回銃で不用意に攻撃したため、返り討ちにあって撃墜されてしまう。旋回銃が7,62mm連装にカスタマイズされている。
 
 ## 脚注
 
@@ -172,8 +172,8 @@
 
 ## 関連項目
 
-  - [艦上爆撃機](https://ja.wikipedia.org/wiki/艦上爆撃機 "wikilink")
-  - [爆撃機一覧](https://ja.wikipedia.org/wiki/爆撃機一覧 "wikilink")
+  - [艦上爆撃機](../Page/艦上爆撃機.md "wikilink")
+  - [爆撃機一覧](../Page/爆撃機一覧.md "wikilink")
 
 ## 外部リンク
 

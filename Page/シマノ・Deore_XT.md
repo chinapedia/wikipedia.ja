@@ -1,11 +1,11 @@
 > この記事は[Deore XT](https://ja.wikipedia.org/wiki/Deore_XT)から翻訳されています。
 
 
-[Shimano_xt_2008_derailleur.jpg](https://ja.wikipedia.org/wiki/File:Shimano_xt_2008_derailleur.jpg "fig:Shimano_xt_2008_derailleur.jpg") **Deore XT**（デオーレ エックスティー）は、株式会社[シマノ](../Page/シマノ.md "wikilink")が開発、販売する[マウンテンバイク](../Page/マウンテンバイク.md "wikilink")向け[コンポーネントである](https://ja.wikipedia.org/wiki/コンポーネント_\(自転車\) "wikilink")。
+[Shimano_xt_2008_derailleur.jpg](https://ja.wikipedia.org/wiki/File:Shimano_xt_2008_derailleur.jpg "fig:Shimano_xt_2008_derailleur.jpg") **Deore XT**（デオーレ エックスティー）は、株式会社[シマノ](../Page/シマノ.md "wikilink")が開発、販売する[マウンテンバイク](../Page/マウンテンバイク.md "wikilink")向け[コンポーネントである](../Page/コンポーネント_\(自転車\).md "wikilink")。
 
 ## 概要
 
-[シマノ](../Page/シマノ.md "wikilink")の提供する[マウンテンバイク](../Page/マウンテンバイク.md "wikilink")(MTB)向けコンポーネントとしては、現在最上位グレードの[XTRに次ぐグレードであり](https://ja.wikipedia.org/wiki/シマノ・XTR "wikilink")、[SLX](https://ja.wikipedia.org/wiki/SLX "wikilink")（[Deore LX](../Page/シマノ・Deore_LX.md "wikilink")）、[Deore](../Page/シマノ・Deore.md "wikilink")、[Alivioの上位に相当する](https://ja.wikipedia.org/wiki/シマノ・Alivio "wikilink")。 同社のマウンテンバイク向けコンポーネントとしては、もっとも長い歴史を持ち、非舗装道路におけるレース向けグレードの中核に位置づけられている。
+[シマノ](../Page/シマノ.md "wikilink")の提供する[マウンテンバイク](../Page/マウンテンバイク.md "wikilink")(MTB)向けコンポーネントとしては、現在最上位グレードの[XTRに次ぐグレードであり](../Page/シマノ・XTR.md "wikilink")、[SLX](https://ja.wikipedia.org/wiki/SLX "wikilink")（[Deore LX](../Page/シマノ・Deore_LX.md "wikilink")）、[Deore](../Page/シマノ・Deore.md "wikilink")、[Alivioの上位に相当する](../Page/シマノ・Alivio.md "wikilink")。 同社のマウンテンバイク向けコンポーネントとしては、もっとも長い歴史を持ち、非舗装道路におけるレース向けグレードの中核に位置づけられている。
 
 1983年、ランドナー向けコンポーネントDeore（現在のDeoreとは全くの別物）の派生モデルとして登場、1992年にXTRが発売されるまではシマノのMTB用コンポとしては最上位グレードであった。
 
@@ -31,7 +31,7 @@ Deore XTのグループには、クロスカントリー系MTB向けと、オー
 
   - M730系（1987年発売）
 
-SISを搭載。 約10年の間に732、733、735、739などの型番でモデルチェンジを繰り返し、MTBコンポとして飛躍的な進化を遂げた後、XTRに最上位コンポの座を譲る。リア6〜8速対応。[カンチブレーキと](https://ja.wikipedia.org/wiki/カンチレバーブレーキ "wikilink")[Uブレーキが用意されていた](https://ja.wikipedia.org/wiki/センタープルブレーキ "wikilink")。
+SISを搭載。 約10年の間に732、733、735、739などの型番でモデルチェンジを繰り返し、MTBコンポとして飛躍的な進化を遂げた後、XTRに最上位コンポの座を譲る。リア6〜8速対応。[カンチブレーキと](../Page/カンチレバーブレーキ.md "wikilink")[Uブレーキが用意されていた](../Page/センタープルブレーキ.md "wikilink")。
 
   - M750系（1998年発売）
 

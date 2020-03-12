@@ -1,29 +1,29 @@
 > この記事は[COMA](https://ja.wikipedia.org/wiki/COMA)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/画像:Huga-Minobu.JPG "wikilink") **身延ショッピングセンターCOMA**（みのぶショッピングセンターこま）は、かつて[山梨県](../Page/山梨県.md "wikilink")[身延町](https://ja.wikipedia.org/wiki/身延町 "wikilink")に存在した[ショッピングセンター](../Page/ショッピングセンター.md "wikilink")である。
+[thumb](https://ja.wikipedia.org/wiki/画像:Huga-Minobu.JPG "wikilink") **身延ショッピングセンターCOMA**（みのぶショッピングセンターこま）は、かつて[山梨県](../Page/山梨県.md "wikilink")[身延町](../Page/身延町.md "wikilink")に存在した[ショッピングセンター](../Page/ショッピングセンター.md "wikilink")である。
 
 ## 概要
 
 [1988年](../Page/1988年.md "wikilink")（昭和63年）地元の業者6社による共同出資で「身延ショッピングセンター事業協同組合」を設立、30億円を投じて[1993年](../Page/1993年.md "wikilink")（平成7年）[3月18日](../Page/3月18日.md "wikilink")に大手の資本を受けない地域主体のショッピングセンターとして開店した\[1\]。食品館「ハウディ」と衣料店「ふじやエクセル」を核店舗とし、館内には数々の専門店のほか映画館（[ビデオシアター](https://ja.wikipedia.org/wiki/ビデオシアター "wikilink")）、プール、スポーツジム、会議室などの施設が入るなど多彩な商業施設であり、他の過疎地からも視察がくるほどであった。
 
-しかし竣工当時の旧身延町域だけでも約9千人、商圏と指定されていた旧[下部町](https://ja.wikipedia.org/wiki/下部町 "wikilink")、旧[中富町](https://ja.wikipedia.org/wiki/中富町 "wikilink")、旧[南部町](https://ja.wikipedia.org/wiki/南部町_\(山梨県\) "wikilink")、旧[富沢町](https://ja.wikipedia.org/wiki/富沢町 "wikilink")を含めても3万人にも満たない環境では過剰規模となり、さらに誘いを受けた県内大手スーパーの社長が「裏に山が迫っており商圏として成り立たない」と進出を断念し、当時の身延町長も近隣に大型店舗が進出した時太刀打ちできるのかと先行きを危惧していた\[2\]。その不安は的中し、商圏の過疎化が進行したうえ身延町にほど近い[甲府都市圏](https://ja.wikipedia.org/wiki/甲府都市圏 "wikilink")および[富士都市圏](../Page/富士都市圏.md "wikilink")に大手資本のショッピングセンターが開店すると身延ショッピングセンターの経営がたちまち悪化。入居していた専門店が次々と撤退し、[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[4月18日](../Page/4月18日.md "wikilink")には映画館「COMAシアター」が閉館した。客を取り戻そうと改装を行ない、「ハウディ」を「COMA食品館」に変更するなどし2004年（平成16年）[12月16日](../Page/12月16日.md "wikilink")にリフレッシュオープン、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")に[ケーズデンキを誘致し](https://ja.wikipedia.org/wiki/ギガスケーズデンキ "wikilink")「こまパワフル館」をオープンさせたがケーズデンキはわずか8ヶ月で撤退、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")（平成19年）[2月3日](../Page/2月3日.md "wikilink")にケーズデンキが入居していたフロアに[日向身延店が入り](../Page/日向_\(スーパーマーケット\).md "wikilink")、2階を完全閉鎖しエレベーターを使用不可にするなど経営合理化をすすめていたが\[3\]、町内にCOMAとほぼ同じフロア面積の商業施設が開業するなど経営は悪化の一途を辿っていた。
+しかし竣工当時の旧身延町域だけでも約9千人、商圏と指定されていた旧[下部町](../Page/下部町.md "wikilink")、旧[中富町](../Page/中富町.md "wikilink")、旧[南部町](../Page/南部町_\(山梨県\).md "wikilink")、旧[富沢町](../Page/富沢町.md "wikilink")を含めても3万人にも満たない環境では過剰規模となり、さらに誘いを受けた県内大手スーパーの社長が「裏に山が迫っており商圏として成り立たない」と進出を断念し、当時の身延町長も近隣に大型店舗が進出した時太刀打ちできるのかと先行きを危惧していた\[2\]。その不安は的中し、商圏の過疎化が進行したうえ身延町にほど近い[甲府都市圏](../Page/甲府都市圏.md "wikilink")および[富士都市圏](../Page/富士都市圏.md "wikilink")に大手資本のショッピングセンターが開店すると身延ショッピングセンターの経営がたちまち悪化。入居していた専門店が次々と撤退し、[2004年](../Page/2004年.md "wikilink")[4月18日](../Page/4月18日.md "wikilink")には映画館「COMAシアター」が閉館した。客を取り戻そうと改装を行ない、「ハウディ」を「COMA食品館」に変更するなどし2004年（平成16年）[12月16日](../Page/12月16日.md "wikilink")にリフレッシュオープン、[2006年](../Page/2006年.md "wikilink")（平成18年）[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")に[ケーズデンキを誘致し](https://ja.wikipedia.org/wiki/ギガスケーズデンキ "wikilink")「こまパワフル館」をオープンさせたがケーズデンキはわずか8ヶ月で撤退、[2007年](../Page/2007年.md "wikilink")（平成19年）[2月3日](../Page/2月3日.md "wikilink")にケーズデンキが入居していたフロアに[日向身延店が入り](../Page/日向_\(スーパーマーケット\).md "wikilink")、2階を完全閉鎖しエレベーターを使用不可にするなど経営合理化をすすめていたが\[3\]、町内にCOMAとほぼ同じフロア面積の商業施設が開業するなど経営は悪化の一途を辿っていた。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[7月27日](../Page/7月27日.md "wikilink")にこれ以上経営を継続をすることが困難となり、この日を以て身延ショッピングセンターは全面閉鎖された\[4\]。閉鎖後も閉店ではなく営業休止扱いとし、再開を模索していたが施設は差し押さえられ、3度にわたる競売も買い手がつかなかった\[5\]。この間山梨県では中小企業向けに貸し出していた中小企業高度化資金のうち108億円が回収困難になるなど社会問題となり、そのうち身延ショッピングセンターへは22億円を融資し18億円が焦げ付いたことが発覚\[6\]。地方紙の[山梨日日新聞](../Page/山梨日日新聞.md "wikilink")をはじめ、[読売新聞](https://ja.wikipedia.org/wiki/読売新聞 "wikilink")や[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")などといった全国紙が資金焦げ付き問題を指摘する中、[TBS系列の情報番組](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")「[噂の\!東京マガジン](../Page/噂の!東京マガジン.md "wikilink")」2012年3月11日放送分では身延ショッピングセンターの事例を中心に取り上げ、問題提起を行っている。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[7月27日](../Page/7月27日.md "wikilink")にこれ以上経営を継続をすることが困難となり、この日を以て身延ショッピングセンターは全面閉鎖された\[4\]。閉鎖後も閉店ではなく営業休止扱いとし、再開を模索していたが施設は差し押さえられ、3度にわたる競売も買い手がつかなかった\[5\]。この間山梨県では中小企業向けに貸し出していた中小企業高度化資金のうち108億円が回収困難になるなど社会問題となり、そのうち身延ショッピングセンターへは22億円を融資し18億円が焦げ付いたことが発覚\[6\]。地方紙の[山梨日日新聞](../Page/山梨日日新聞.md "wikilink")をはじめ、[読売新聞](../Page/読売新聞.md "wikilink")や[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")などといった全国紙が資金焦げ付き問題を指摘する中、[TBS系列の情報番組](../Page/TBSテレビ.md "wikilink")「[噂の\!東京マガジン](../Page/噂の!東京マガジン.md "wikilink")」2012年3月11日放送分では身延ショッピングセンターの事例を中心に取り上げ、問題提起を行っている。
 
 [2012年](../Page/2012年.md "wikilink")（平成24年）[5月17日](../Page/5月17日.md "wikilink")、身延町は身延ショッピングセンターの場所に定住者向けの住宅造成を行うことを決め\[7\]、同年[5月23日](../Page/5月23日.md "wikilink")に[甲府地方裁判所](../Page/甲府地方裁判所.md "wikilink")へ土地および建物の買受けを申し出た\[8\]。これにより営業休止扱いであった身延ショッピングセンターの閉店が正式決定し、その後建物は解体された。
 
 ## フロア構成
 
   - 閉鎖時点での店舗
-  - ★印は[nanaco](https://ja.wikipedia.org/wiki/nanaco "wikilink")利用可能、☆印は[QUICPay](https://ja.wikipedia.org/wiki/QUICPay "wikilink")利用可能
+  - ★印は[nanaco](https://ja.wikipedia.org/wiki/nanaco "wikilink")利用可能、☆印は[QUICPay](../Page/QUICPay.md "wikilink")利用可能
 
 ### 1F
 
   - [「日向」身延店](../Page/日向_\(スーパーマーケット\).md "wikilink")
-  - [「シャディ」](https://ja.wikipedia.org/wiki/シャディ "wikilink")（ギフトショップ）※2Fから移動
-  - [「澤田屋」](https://ja.wikipedia.org/wiki/澤田屋 "wikilink")（和菓子）
-  - [「不二家」](https://ja.wikipedia.org/wiki/不二家 "wikilink")（洋菓子）
+  - [「シャディ」](../Page/シャディ.md "wikilink")（ギフトショップ）※2Fから移動
+  - [「澤田屋」](../Page/澤田屋.md "wikilink")（和菓子）
+  - [「不二家」](../Page/不二家.md "wikilink")（洋菓子）
   - 「アニステン」（薬・化粧品）★☆
   - 沼津直送鮮魚「魚政」（鮮魚）
   - 「ふじやエクセル」（総合衣料）※2Fから移動 ☆
@@ -32,7 +32,7 @@
 
 　※かつては飲食コーナー「ぐるめん亭」と併せて「フーズエクスプレス」の総称があった。
 
-  - 「[WAVE](https://ja.wikipedia.org/wiki/WAVE_\(企業\) "wikilink")」（携帯電話・レンタルビデオ）※別棟から移動
+  - 「[WAVE](../Page/WAVE_\(企業\).md "wikilink")」（携帯電話・レンタルビデオ）※別棟から移動
   - 「ブックスコマ」（書籍・雑誌）☆
 
 ### 2F
@@ -85,17 +85,17 @@ COMAが営業していた期間の状況を記述する。
 ### 身延町内
 
   -
-    COMA開業後しばらくは町内に同規模の大型商業施設は存在しなかったが、2005年に[大和リース](https://ja.wikipedia.org/wiki/大和リース "wikilink")系列の[ショッピングモール](https://ja.wikipedia.org/wiki/ショッピングモール "wikilink")「[フレスポみのぶ](https://ja.wikipedia.org/wiki/フレスポみのぶ "wikilink")」が開業した。COMAとほぼ同じ商業施設面積であるが生活必需に特化した店舗のみとなっており、入居1店舗あたりの売場面積はCOMAよりも広い。さらに甲府方面へ車で10分程度の場所と近く、旧下部町、旧中富町、旧身延町北部の商圏を奪われる状況になっていた。
+    COMA開業後しばらくは町内に同規模の大型商業施設は存在しなかったが、2005年に[大和リース](../Page/大和リース.md "wikilink")系列の[ショッピングモール](https://ja.wikipedia.org/wiki/ショッピングモール "wikilink")「[フレスポみのぶ](https://ja.wikipedia.org/wiki/フレスポみのぶ "wikilink")」が開業した。COMAとほぼ同じ商業施設面積であるが生活必需に特化した店舗のみとなっており、入居1店舗あたりの売場面積はCOMAよりも広い。さらに甲府方面へ車で10分程度の場所と近く、旧下部町、旧中富町、旧身延町北部の商圏を奪われる状況になっていた。
 
 ### 甲府都市圏南部
 
   -
-    身延駅から車で1時間程度の[甲府リバーサイドタウン](https://ja.wikipedia.org/wiki/甲府リバーサイドタウン "wikilink")（[中央市](https://ja.wikipedia.org/wiki/中央市 "wikilink")）内に[リバーシティショッピングセンター](https://ja.wikipedia.org/wiki/オギノ "wikilink")、[アピタ田富店](../Page/ユニー.md "wikilink")（2018年9月閉店）といった売場面積が1万m<sup>2</sup>を超える店舗があり、専門店の数もCOMAより多かった。また、COMAが閉鎖する直前の2008年6月に同市内の[山梨大学医学部附属病院](https://ja.wikipedia.org/wiki/山梨大学医学部附属病院 "wikilink")付近に[イオンタウン山梨中央](https://ja.wikipedia.org/wiki/イオンタウン山梨中央 "wikilink")が開業している。
+    身延駅から車で1時間程度の[甲府リバーサイドタウン](../Page/甲府リバーサイドタウン.md "wikilink")（[中央市](../Page/中央市.md "wikilink")）内に[リバーシティショッピングセンター](../Page/オギノ.md "wikilink")、[アピタ田富店](../Page/ユニー.md "wikilink")（2018年9月閉店）といった売場面積が1万m<sup>2</sup>を超える店舗があり、専門店の数もCOMAより多かった。また、COMAが閉鎖する直前の2008年6月に同市内の[山梨大学医学部附属病院](../Page/山梨大学医学部附属病院.md "wikilink")付近に[イオンタウン山梨中央](https://ja.wikipedia.org/wiki/イオンタウン山梨中央 "wikilink")が開業している。
 
 ### 富士都市圏北部
 
   -
-    開店当初は[長崎屋](../Page/長崎屋.md "wikilink")富士宮店、[ユニー](../Page/ユニー.md "wikilink")富士宮店、[ヤオハン](https://ja.wikipedia.org/wiki/ヤオハン "wikilink")富士宮店（その後[ダイエー](https://ja.wikipedia.org/wiki/ダイエー "wikilink")富士宮店）などが存在したが、2001年に[イオンモール富士宮](https://ja.wikipedia.org/wiki/イオンモール富士宮 "wikilink")がオープンするとこれらの店舗は軒並み閉鎖している。イオンモール富士宮の商圏は南部町も含まれており（同町の内船駅から20km圏内）、売場面積や専門店の店舗数はCOMAとは比較にならない規模である。
+    開店当初は[長崎屋](../Page/長崎屋.md "wikilink")富士宮店、[ユニー](../Page/ユニー.md "wikilink")富士宮店、[ヤオハン](../Page/ヤオハン.md "wikilink")富士宮店（その後[ダイエー](../Page/ダイエー.md "wikilink")富士宮店）などが存在したが、2001年に[イオンモール富士宮](../Page/イオンモール富士宮.md "wikilink")がオープンするとこれらの店舗は軒並み閉鎖している。イオンモール富士宮の商圏は南部町も含まれており（同町の内船駅から20km圏内）、売場面積や専門店の店舗数はCOMAとは比較にならない規模である。
 
 ## 脚注
 

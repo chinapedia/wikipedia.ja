@@ -1,7 +1,7 @@
 > この記事は[Can\'no](https://ja.wikipedia.org/wiki/Can\'no)から翻訳されています。
 
 
-**Can'no**（カンノ、[2月14日](../Page/2月14日.md "wikilink")生まれ）は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[葛飾区](https://ja.wikipedia.org/wiki/葛飾区 "wikilink")出身の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")\[1\]\[2\]。
+**Can'no**（カンノ、[2月14日](../Page/2月14日.md "wikilink")生まれ）は、[東京都](../Page/東京都.md "wikilink")[葛飾区](https://ja.wikipedia.org/wiki/葛飾区 "wikilink")出身の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")\[1\]\[2\]。
 
 ## 人物
 
@@ -9,15 +9,15 @@
 
 ## 来歴
 
-青山学院短期大学在学中の2001年、[メアリー・J・ブライジ](https://ja.wikipedia.org/wiki/メアリー・J・ブライジ "wikilink")、[TLC](../Page/TLC_\(バンド\).md "wikilink")、[モニカなどのプロデュースを手掛けたSOUL](https://ja.wikipedia.org/wiki/モニカ_\(歌手\) "wikilink") POWER主催の 「SOUL POWER JAPAN AUDITION」に合格\[6\]。
+青山学院短期大学在学中の2001年、[メアリー・J・ブライジ](https://ja.wikipedia.org/wiki/メアリー・J・ブライジ "wikilink")、[TLC](../Page/TLC_\(バンド\).md "wikilink")、[モニカなどのプロデュースを手掛けたSOUL](../Page/モニカ_\(歌手\).md "wikilink") POWER主催の 「SOUL POWER JAPAN AUDITION」に合格\[6\]。
 
-2002年、楽曲制作とレコーディングのためLAに渡り、[ブラック・アイド・ピーズ](https://ja.wikipedia.org/wiki/ブラック・アイド・ピーズ "wikilink")の[ウィル・アイ・アム](https://ja.wikipedia.org/wiki/ウィル・アイ・アム "wikilink")と共に楽曲制作を行う\[7\]\[8\]。
+2002年、楽曲制作とレコーディングのためLAに渡り、[ブラック・アイド・ピーズ](https://ja.wikipedia.org/wiki/ブラック・アイド・ピーズ "wikilink")の[ウィル・アイ・アム](../Page/ウィル・アイ・アム.md "wikilink")と共に楽曲制作を行う\[7\]\[8\]。
 
-2004年、[青空レコード](https://ja.wikipedia.org/wiki/青空レコード "wikilink")よりシングル2枚を発売してデビュー\[9\]。
+2004年、[青空レコード](../Page/青空レコード.md "wikilink")よりシングル2枚を発売してデビュー\[9\]。
 
-2005年、グラミー賞受賞アーティストの[ジョン・レジェンド](https://ja.wikipedia.org/wiki/ジョン・レジェンド "wikilink")の初来日公演で唯一のフロントアクトに抜擢される。
+2005年、グラミー賞受賞アーティストの[ジョン・レジェンド](../Page/ジョン・レジェンド.md "wikilink")の初来日公演で唯一のフロントアクトに抜擢される。
 
-2007年からは自身の音楽活動の幅を広げるため、ライブ活動や楽曲制作・提供等を精力的に行う他、[湘南乃風](https://ja.wikipedia.org/wiki/湘南乃風 "wikilink")、[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")、[中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")、[ナオト・インティライミ](https://ja.wikipedia.org/wiki/ナオト・インティライミ "wikilink")など様々なアーティストのレコーディングやライブにコーラス参加\[10\]\[11\]。
+2007年からは自身の音楽活動の幅を広げるため、ライブ活動や楽曲制作・提供等を精力的に行う他、[湘南乃風](../Page/湘南乃風.md "wikilink")、[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")、[中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")、[ナオト・インティライミ](https://ja.wikipedia.org/wiki/ナオト・インティライミ "wikilink")など様々なアーティストのレコーディングやライブにコーラス参加\[10\]\[11\]。
 
 2012年、1stスタジオアルバム「春夏秋冬」をリリース\[12\]。
 
@@ -155,14 +155,14 @@
 <li>You &amp; I</li>
 <li>Interlude (Piano&amp;I)</li>
 <li>Music Woman</li>
-<li>Hikari (<a href="https://ja.wikipedia.org/wiki/DJ_HASEBE" title="wikilink">DJ HASEBE</a> remix)</li>
+<li>Hikari (<a href="../Page/DJ_HASEBE.md" title="wikilink">DJ HASEBE</a> remix)</li>
 <li>Interlude (Piano&amp;You)</li>
 <li>ありがとう</li>
 <li>Outro</li>
 </ol>
 </div>
 </div></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/DJ_HASEBE" title="wikilink">DJ HASEBEが</a><a href="https://ja.wikipedia.org/wiki/リミックス" title="wikilink">リミックス</a>で参加。</p></td>
+<td><p><a href="../Page/DJ_HASEBE.md" title="wikilink">DJ HASEBEが</a><a href="../Page/リミックス.md" title="wikilink">リミックス</a>で参加。</p></td>
 </tr>
 </tbody>
 </table>
@@ -215,9 +215,9 @@
 
 ### レコーディング
 
-  - [湘南乃風](https://ja.wikipedia.org/wiki/湘南乃風 "wikilink")
+  - [湘南乃風](../Page/湘南乃風.md "wikilink")
       - 「湾岸high way」（アルバム『[湘南乃風〜JOKER〜](https://ja.wikipedia.org/wiki/湘南乃風〜JOKER〜 "wikilink")』収録）
-  - [HAN-KUN](https://ja.wikipedia.org/wiki/HAN-KUN "wikilink")（[湘南乃風](https://ja.wikipedia.org/wiki/湘南乃風 "wikilink")）
+  - [HAN-KUN](https://ja.wikipedia.org/wiki/HAN-KUN "wikilink")（[湘南乃風](../Page/湘南乃風.md "wikilink")）
       - 「TRUST ME」（アルバム『[VOICE MAGICIAN](https://ja.wikipedia.org/wiki/VOICE_MAGICIAN "wikilink")』収録）
       - 「Mr,Ragga\!\!」（アルバム『湘南乃風〜JOKER〜』収録）
   - [ナオト・インティライミ](https://ja.wikipedia.org/wiki/ナオト・インティライミ "wikilink")

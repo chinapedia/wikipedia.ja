@@ -5,7 +5,7 @@
 
 ## クラス図
 
-Builder パターンの[クラス図](https://ja.wikipedia.org/wiki/クラス図 "wikilink")を以下に挙げる。
+Builder パターンの[クラス図](../Page/クラス図.md "wikilink")を以下に挙げる。
 
 [center](https://ja.wikipedia.org/wiki/ファイル:Builder_UML_class_diagram.svg "wikilink")
 
@@ -116,7 +116,7 @@ Builder パターンの[クラス図](https://ja.wikipedia.org/wiki/クラス図
 ## 関係するパターン
 
   - [Strategy パターン](https://ja.wikipedia.org/wiki/Strategy_パターン "wikilink"):`Builder` を Strategy パターンにおける `Context` として設計することにより、インスタンスの生成過程をより柔軟にすることができる。
-    [Composite パターン](https://ja.wikipedia.org/wiki/Composite_パターン "wikilink"):`Composite` のような複雑な構造を持つインスタンスは、Builder パターンを応用することによって効率的に生成することができる。
+    [Composite パターン](../Page/Composite_パターン.md "wikilink"):`Composite` のような複雑な構造を持つインスタンスは、Builder パターンを応用することによって効率的に生成することができる。
 
 ## 関連項目
 

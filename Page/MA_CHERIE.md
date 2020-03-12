@@ -5,7 +5,7 @@
 
 ## 概要
 
-若い女性をターゲットにした高付加価値商品で、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に発売された「[TSUBAKI](https://ja.wikipedia.org/wiki/TSUBAKI "wikilink")」とともに主力ヘアケアブランドのひとつ。 [シャンプー](https://ja.wikipedia.org/wiki/シャンプー "wikilink")、コンディショナー、トリートメントを中心に、スタイリング剤や[ヘアカラー](https://ja.wikipedia.org/wiki/ヘアカラー "wikilink")などもラインナップしている。 旬のタレントを起用したCMも話題になる。
+若い女性をターゲットにした高付加価値商品で、[2006年](../Page/2006年.md "wikilink")に発売された「[TSUBAKI](../Page/TSUBAKI.md "wikilink")」とともに主力ヘアケアブランドのひとつ。 [シャンプー](../Page/シャンプー.md "wikilink")、コンディショナー、トリートメントを中心に、スタイリング剤や[ヘアカラー](https://ja.wikipedia.org/wiki/ヘアカラー "wikilink")などもラインナップしている。 旬のタレントを起用したCMも話題になる。
 
 2010年2月、シャンプー・コンディショナー・トリートメントを全面刷新。CMキャラクターには、1998年に出演した[吉川ひなの](https://ja.wikipedia.org/wiki/吉川ひなの "wikilink")が12年ぶりに出演することになった。2010年8月には、同年2月に全面刷新したシャンプー・コンディショナー・トリートメントに新たに配合した毛髪柔軟・補修・保湿成分を配合したヘアスタイリング剤14品を発売した。
 
@@ -20,13 +20,13 @@
 ### 過去
 
   - [後藤久美子](../Page/後藤久美子.md "wikilink")（[1996年](../Page/1996年.md "wikilink")）
-  - [橘実里](https://ja.wikipedia.org/wiki/橘実里 "wikilink")（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")）
+  - [橘実里](../Page/橘実里.md "wikilink")（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")）
   - [吉川ひなの](https://ja.wikipedia.org/wiki/吉川ひなの "wikilink")（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")から）\[2\]
-  - [黒澤優](../Page/黒澤優.md "wikilink")・[高橋マリ子](https://ja.wikipedia.org/wiki/高橋マリ子 "wikilink")（[1999年](../Page/1999年.md "wikilink")）
+  - [黒澤優](../Page/黒澤優.md "wikilink")・[高橋マリ子](../Page/高橋マリ子.md "wikilink")（[1999年](../Page/1999年.md "wikilink")）
   - [持田香織](https://ja.wikipedia.org/wiki/持田香織 "wikilink")（[Every Little Thing](../Page/Every_Little_Thing.md "wikilink")、[2000年](../Page/2000年.md "wikilink")）
   - [滝沢秀明](https://ja.wikipedia.org/wiki/滝沢秀明 "wikilink")（[タッキー&翼](../Page/タッキー&翼.md "wikilink")、[2001年](../Page/2001年.md "wikilink")・[2002年](../Page/2002年.md "wikilink")）
   - [ジュエミリア](https://ja.wikipedia.org/wiki/ジュエミリア "wikilink")（[2003年](../Page/2003年.md "wikilink")）
-  - [鈴木えみ](https://ja.wikipedia.org/wiki/鈴木えみ "wikilink")（[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink") - [2009年](../Page/2009年.md "wikilink")）\[3\]
+  - [鈴木えみ](https://ja.wikipedia.org/wiki/鈴木えみ "wikilink")（[2004年](../Page/2004年.md "wikilink") - [2009年](../Page/2009年.md "wikilink")）\[3\]
 
 ## 脚注・出典
 

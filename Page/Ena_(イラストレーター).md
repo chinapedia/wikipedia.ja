@@ -1,11 +1,11 @@
 > この記事は[Ena \(\)](https://ja.wikipedia.org/wiki/Ena_\(\))から翻訳されています。
 
 
-**ena**（エナ、女性、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[イラストレーター](../Page/イラストレーター.md "wikilink")。FEMME所属。[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")出身。
+**ena**（エナ、女性、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[イラストレーター](../Page/イラストレーター.md "wikilink")。FEMME所属。[大阪府](../Page/大阪府.md "wikilink")出身。
 
 ## 略歴
 
-2001年に[大阪文化服装学院](https://ja.wikipedia.org/wiki/大阪文化服装学院 "wikilink")卒業後、[阪急百貨店](https://ja.wikipedia.org/wiki/阪急百貨店 "wikilink")に就職。2003年よりイラストの仕事を始める。2004年、[FM802](../Page/FM802.md "wikilink")アートオーディション通過後、『[digmeout](https://ja.wikipedia.org/wiki/digmeout "wikilink") FACTORY』に所属し、本格的にイラストレーターとして活動開始。 2005年に、[京阪グループ](https://ja.wikipedia.org/wiki/京阪グループ "wikilink")とのコラボレーションによる初個展「Ena EXHIBITION」を開催した。
+2001年に[大阪文化服装学院](../Page/大阪文化服装学院.md "wikilink")卒業後、[阪急百貨店](https://ja.wikipedia.org/wiki/阪急百貨店 "wikilink")に就職。2003年よりイラストの仕事を始める。2004年、[FM802](../Page/FM802.md "wikilink")アートオーディション通過後、『[digmeout](https://ja.wikipedia.org/wiki/digmeout "wikilink") FACTORY』に所属し、本格的にイラストレーターとして活動開始。 2005年に、[京阪グループ](https://ja.wikipedia.org/wiki/京阪グループ "wikilink")とのコラボレーションによる初個展「Ena EXHIBITION」を開催した。
 
 2009年1月31日付で『digmeout』から離脱。東京に拠点を移し、2009年10月から『FEMME』へ所属している。
 
@@ -32,11 +32,11 @@
 ### カバーイラスト
 
   - 『アクアノートとクラゲの涙』[樋口直哉](../Page/樋口直哉.md "wikilink")著（[メディアファクトリー](../Page/メディアファクトリー.md "wikilink")・2010/03/19）
-  - 『燻り亦蔵』[松宮宏](https://ja.wikipedia.org/wiki/松宮宏 "wikilink")著（[マガジンハウス](https://ja.wikipedia.org/wiki/マガジンハウス "wikilink")・2007/07/19）
+  - 『燻り亦蔵』[松宮宏](https://ja.wikipedia.org/wiki/松宮宏 "wikilink")著（[マガジンハウス](../Page/マガジンハウス.md "wikilink")・2007/07/19）
   - 『こいわらい』松宮宏著（マガジンハウス・2006/10/19）
   - 『有閑マドモワゼル』[長谷部千彩](https://ja.wikipedia.org/wiki/長谷部千彩 "wikilink")著（[光文社](../Page/光文社.md "wikilink")・2006/09/05）
-  - 『女王様と私』[歌野晶午](https://ja.wikipedia.org/wiki/歌野晶午 "wikilink")著（[角川書店](../Page/角川書店.md "wikilink")・2005/8/31・文庫2009/09/25）
-  - 幻冬舎『papyrus』[東山彰良](https://ja.wikipedia.org/wiki/東山彰良 "wikilink") 連載「ミスター・グッド・ドクターを探して」（2009/12/28～）
+  - 『女王様と私』[歌野晶午](../Page/歌野晶午.md "wikilink")著（[角川書店](../Page/角川書店.md "wikilink")・2005/8/31・文庫2009/09/25）
+  - 幻冬舎『papyrus』[東山彰良](../Page/東山彰良.md "wikilink") 連載「ミスター・グッド・ドクターを探して」（2009/12/28～）
   - INFAS PUBLICATIONS『WWD BEAUTY』長谷部千彩 連載「私が好きなあなたの匂い」
   - INFAS PUBLICATIONS『WWD BEAUTY』長谷部千彩 連載「女の子はみんな嘘つき」
 
@@ -46,11 +46,11 @@
 
 ### TV
 
-  - [MBS系](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")『[知っとこ\!](https://ja.wikipedia.org/wiki/知っとこ! "wikilink")』（2008/09/06）
+  - [MBS系](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")『[知っとこ\!](../Page/知っとこ!.md "wikilink")』（2008/09/06）
 
 ### TVCM
 
-  - [TESCOM](https://ja.wikipedia.org/wiki/TESCOM "wikilink") - [神戸コレクション](https://ja.wikipedia.org/wiki/神戸コレクション "wikilink")オフィシャルドライヤー イメージビジュアル（2010）
+  - [TESCOM](https://ja.wikipedia.org/wiki/TESCOM "wikilink") - [神戸コレクション](../Page/神戸コレクション.md "wikilink")オフィシャルドライヤー イメージビジュアル（2010）
 
 ### その他
 
@@ -71,7 +71,7 @@
   - [マルイ](../Page/丸井.md "wikilink") エポスカードVISA カードイラスト
   - [スルッとKANSAI](../Page/スルッとKANSAI.md "wikilink") オリジナルデザイン
   - 札幌パルコ 30周年記念グッズ
-  - [Barbie](https://ja.wikipedia.org/wiki/バービー "wikilink") Loves Art\! （バービー生誕50周年企画）コラボ
+  - [Barbie](../Page/バービー.md "wikilink") Loves Art\! （バービー生誕50周年企画）コラボ
   - IPSA(イプサ) × ena メタボライザーキット
   - VIRGINIA SLIMS Noire × ena コラボキット
   - BODY WILD × ARTIST コラボインナー

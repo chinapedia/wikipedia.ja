@@ -5,7 +5,7 @@
 
 ## 概要
 
-PXEによるネットワークブートにはクライアントにPXEに準拠したソフトウェアの入った[ROMを備えた](https://ja.wikipedia.org/wiki/Read_Only_Memory "wikilink")[NIC (Network Interface Card)](https://ja.wikipedia.org/wiki/ネットワークカード "wikilink") が装備されていること、サーバでは、PXEサーバおよび[DHCPサーバ](https://ja.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol "wikilink")（または[BOOTPサーバ](../Page/Bootstrap_Protocol.md "wikilink"))が動作している必要がある。
+PXEによるネットワークブートにはクライアントにPXEに準拠したソフトウェアの入った[ROMを備えた](https://ja.wikipedia.org/wiki/Read_Only_Memory "wikilink")[NIC (Network Interface Card)](../Page/ネットワークカード.md "wikilink") が装備されていること、サーバでは、PXEサーバおよび[DHCPサーバ](https://ja.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol "wikilink")（または[BOOTPサーバ](../Page/Bootstrap_Protocol.md "wikilink"))が動作している必要がある。
 
 ## PC起動時のPXEエラーメッセージ
 

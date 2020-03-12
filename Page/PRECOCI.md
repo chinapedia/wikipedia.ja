@@ -13,7 +13,7 @@
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
   - 奥田綾乃（おくだ あやの） 1987年2月15日…2008年まで芸能活動を続けていたが、その後[サイバーエージェント](https://ja.wikipedia.org/wiki/サイバーエージェント "wikilink")の社員に\[1\]。
-  - [石川友里恵](https://ja.wikipedia.org/wiki/YA-KYIM#メンバー "wikilink")（いしかわ ゆりえ） 1987年5月7日…『[YA-KYIM](https://ja.wikipedia.org/wiki/YA-KYIM "wikilink")』で**YURIE**として活動中。
+  - [石川友里恵](https://ja.wikipedia.org/wiki/YA-KYIM#メンバー "wikilink")（いしかわ ゆりえ） 1987年5月7日…『[YA-KYIM](../Page/YA-KYIM.md "wikilink")』で**YURIE**として活動中。
   - 大竹香織（おおたけ かおり） 1989年2月1日
   - [柿沼亜里沙](https://ja.wikipedia.org/wiki/YA-KYIM#メンバー "wikilink")（かきぬま ありさ） 1986年7月23日…『YA-KYIM』で**ALISA**として活動中。
   - 沼澤智之（ぬまさわ ともゆき） 1985年10月1日…『[Vimclip](https://ja.wikipedia.org/wiki/Vimclip "wikilink")』で**TOMO**として活動中。
@@ -23,9 +23,9 @@
   - 滝口悠（たきぐち はるか） 1984年10月29日
   - 関口洋美（せきぐち ひろみ） 1988年5月23日…歌手**Ruca**として活動中[1](http://ameblo.jp/singerhiromi/)。
   - 木村紗緒里（きむら さおり） 1988年10月30日
-  - 佐野はな（さの はな） 1986年5月16日…[12.ヒトエ](https://ja.wikipedia.org/wiki/12.ヒトエ "wikilink")（2001～2006年）→[アルメリア](../Page/ARMERIA.md "wikilink")（2006～2007年）→The Spade 13（2007年～2010年）→[Gacharic Spinでドラマー](https://ja.wikipedia.org/wiki/Gacharic_Spin "wikilink")**はな**として活動中。
+  - 佐野はな（さの はな） 1986年5月16日…[12.ヒトエ](../Page/12.ヒトエ.md "wikilink")（2001～2006年）→[アルメリア](../Page/ARMERIA.md "wikilink")（2006～2007年）→The Spade 13（2007年～2010年）→[Gacharic Spinでドラマー](https://ja.wikipedia.org/wiki/Gacharic_Spin "wikilink")**はな**として活動中。
   - 田中奈津美（たなか なつみ） 1985年4月20日
-  - 小林加奈（こばやし かな） 1986年1月26日…以前、｢[あっぱれさんま大先生](https://ja.wikipedia.org/wiki/あっぱれさんま大先生 "wikilink")｣に出演。
+  - 小林加奈（こばやし かな） 1986年1月26日…以前、｢[あっぱれさんま大先生](../Page/あっぱれさんま大先生.md "wikilink")｣に出演。
   - 斉藤望（さいとう のぞみ） 1987年9月30日…タップダンサーとして活動中[2](http://people.zozo.jp/nonsaito/)。
   - 日光（にっこう） 1986年11月12日
   - 佐々木未来（ささき みく） 1984年3月22日…女優として活動中[3](http://mikuron0322.fc2web.com/)。

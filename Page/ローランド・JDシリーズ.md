@@ -11,7 +11,7 @@
 
   -
     この機種はデジタルシンセサイザーとして[1991年](../Page/1991年.md "wikilink")に発売され、[1996年](../Page/1996年.md "wikilink")まで製造された。当時の価格は300,000円(税別)。パネルに並んだ多数のノブやスライダーが印象的なシンセサイザー。アナログシンセサイザーと同じ感覚で音作りができるということで、人気を呼んだ。マニュアルにはJD-800でのローランドの意図として「return to the roots of synthesis（シンセサイザーのルーツへ戻る）」ことであると述べている。
-    108種類の波形が内蔵されており、アナログシンセ、アコースティック楽器、ギター木管楽器、真鍮楽器などの他PCMカードにて拡張可能。[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")や[浅倉大介](../Page/浅倉大介.md "wikilink")はプリセットの53番のピアノの音はがレコーディングで好んで用いていた\[1\]他、1994年の[TM NETWORKのライブ](../Page/TM_NETWORK.md "wikilink")[TMN final live LAST GROOVEでも多用していた](https://ja.wikipedia.org/wiki/TMN_final_live_LAST_GROOVE "wikilink")。
+    108種類の波形が内蔵されており、アナログシンセ、アコースティック楽器、ギター木管楽器、真鍮楽器などの他PCMカードにて拡張可能。[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")や[浅倉大介](../Page/浅倉大介.md "wikilink")はプリセットの53番のピアノの音はがレコーディングで好んで用いていた\[1\]他、1994年の[TM NETWORKのライブ](../Page/TM_NETWORK.md "wikilink")[TMN final live LAST GROOVEでも多用していた](../Page/TMN_final_live_LAST_GROOVE.md "wikilink")。
     この機種は[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[カルバーシティ](https://ja.wikipedia.org/wiki/カルバーシティ "wikilink")にあるローランドのR\&D-LA officeの一時的な支店の下で作られた最初の楽器で\[2\]、コアとなるサンプル波形、工場プリセットはによって作成されている\[3\]\[4\]。
       - 鍵盤: 61鍵(ベロシティ・アフタータッチ、おもり付き)
       - 音源方式: PCM方式(16ビット、44.1kHz、非圧縮)

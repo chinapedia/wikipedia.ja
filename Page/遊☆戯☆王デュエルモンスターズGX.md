@@ -5,13 +5,13 @@
 
 ## 概要
 
-アニメ作品『[遊☆戯☆王デュエルモンスターズ](https://ja.wikipedia.org/wiki/遊☆戯☆王デュエルモンスターズ "wikilink")』の世界観を継承した『遊☆戯☆王』の新シリーズ。原作漫画『[遊☆戯☆王](https://ja.wikipedia.org/wiki/遊☆戯☆王 "wikilink")』の連載終了後に制作された完全オリジナル作品である。ホビー『[遊☆戯☆王オフィシャルカードゲーム](https://ja.wikipedia.org/wiki/遊☆戯☆王オフィシャルカードゲーム "wikilink")』とタイアップしている。 主人公は原作の[武藤遊戯](../Page/武藤遊戯.md "wikilink")から[遊城十代](../Page/遊城十代.md "wikilink")に変更、基本設定も一新された。ただし舞台は『遊☆戯☆王デュエルモンスターズ』と同世界であり、前作の登場人物も数名登場している。
+アニメ作品『[遊☆戯☆王デュエルモンスターズ](../Page/遊☆戯☆王デュエルモンスターズ.md "wikilink")』の世界観を継承した『遊☆戯☆王』の新シリーズ。原作漫画『[遊☆戯☆王](../Page/遊☆戯☆王.md "wikilink")』の連載終了後に制作された完全オリジナル作品である。ホビー『[遊☆戯☆王オフィシャルカードゲーム](../Page/遊☆戯☆王オフィシャルカードゲーム.md "wikilink")』とタイアップしている。 主人公は原作の[武藤遊戯](../Page/武藤遊戯.md "wikilink")から[遊城十代](../Page/遊城十代.md "wikilink")に変更、基本設定も一新された。ただし舞台は『遊☆戯☆王デュエルモンスターズ』と同世界であり、前作の登場人物も数名登場している。
 
 作風は前作よりも更に実際のトレカゲームのリードプレイ、リプレイ集的な印象が強くなっているほか、物語前半はカードゲームの楽しさを描いた明るいコメディ作品だったが、後半は「心の闇」をテーマにややギャグが入りながらも前作同様のシリアスな作風となった。
 
 前作では原作連載の都合で一つのデュエル描写が長期化（最大8話分延長）する傾向にあったが、今作ではアニメオリジナルとなった為ストーリーに関わる重要デュエルでも2話分程度、長くても3話分止まりとなるなど、スピーディなゲーム展開がなされるようになった。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")からは[メディアミックス](../Page/メディアミックス.md "wikilink")の一環として、同タイトルの漫画作品『[遊☆戯☆王GX](https://ja.wikipedia.org/wiki/遊☆戯☆王GX "wikilink")』（[影山なおゆき](https://ja.wikipedia.org/wiki/影山なおゆき "wikilink")）が[Vジャンプ](https://ja.wikipedia.org/wiki/Vジャンプ "wikilink")で連載されていた。
+[2006年](../Page/2006年.md "wikilink")からは[メディアミックス](../Page/メディアミックス.md "wikilink")の一環として、同タイトルの漫画作品『[遊☆戯☆王GX](../Page/遊☆戯☆王GX.md "wikilink")』（[影山なおゆき](https://ja.wikipedia.org/wiki/影山なおゆき "wikilink")）が[Vジャンプ](https://ja.wikipedia.org/wiki/Vジャンプ "wikilink")で連載されていた。
 
 この作品を収録したDVD版もある\[1\]。
 
@@ -160,11 +160,11 @@
   - 神炎皇ウリア
     赤い竜の姿をした幻魔。罠カードを3枚墓地に送った場合のみ召喚が可能。劇中では伏せられたカードを墓地に送り召喚された。攻撃力は0だが、墓地の罠カード1枚につき1000ポイントアップする。さらに1ターンに1度だけ相手のセットされた魔法・罠カードを1枚破壊することができる。手札の罠カードを1枚捨てることで墓地からこのカードを蘇生できる。再登場のさいには永続罠の数だけ攻撃力があがる能力に変更された。
     攻撃名はハイパー・ブレイズ。セットされたカードを破壊する効果はトラップ・デストラクション。
-    名前の由来は[ウリエル](https://ja.wikipedia.org/wiki/ウリエル "wikilink")。
+    名前の由来は[ウリエル](../Page/ウリエル.md "wikilink")。
   - 降雷皇ハモン
     黄金の悪魔のような姿の幻魔。魔法カードを3枚墓地に送った場合のみ召喚が可能。攻撃力・守備力は共に4000ポイントの上、相手モンスターを戦闘で破壊した時に相手プレイヤーに1000ポイントのダメージを与える効果がある。再登場の際には永続魔法を墓地へ送って召喚する効果に変更された。
     攻撃名は失楽の霹靂（しつらくのへきれき）。効果名は地獄の贖罪（じごくのしょくざい）
-    名前の由来は[アモンと](https://ja.wikipedia.org/wiki/アモン_\(悪魔\) "wikilink")[ラミエル](https://ja.wikipedia.org/wiki/ラミエル "wikilink")。
+    名前の由来は[アモンと](../Page/アモン_\(悪魔\).md "wikilink")[ラミエル](https://ja.wikipedia.org/wiki/ラミエル "wikilink")。
   - 幻魔皇ラビエル
     三体の幻魔の中で最強と言われるカード。自分の場の悪魔族モンスター3体をリリースすることで特殊召喚できる。攻撃力・守備力は4000ポイント。相手がモンスターを召喚する度に幻魔トークン（攻撃力・守備力が1000の攻撃宣言ができないモンスター）を1体特殊召喚する。1ターンに1度、自分の場のモンスターをリリースすることで、攻撃力がリリースしたモンスターの数値分だけアップする。
     攻撃名は天界蹂躙拳（てんかいじゅうりんけん）。
@@ -194,7 +194,7 @@
 ### オープニングテーマ
 
 1.  「快晴・上昇・ハレルーヤ」（1話 - 33話）
-      - 作詞 - MASAYA、NAGATA、TAKE / 作曲 - KOJI、MASAYA / 歌・編曲 - [JINDOU](https://ja.wikipedia.org/wiki/JINDOU "wikilink")\[6\]（[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink") / [マーベラスエンターテイメント](https://ja.wikipedia.org/wiki/マーベラスAQL "wikilink")）
+      - 作詞 - MASAYA、NAGATA、TAKE / 作曲 - KOJI、MASAYA / 歌・編曲 - [JINDOU](../Page/JINDOU.md "wikilink")\[6\]（[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink") / [マーベラスエンターテイメント](https://ja.wikipedia.org/wiki/マーベラスAQL "wikilink")）
 2.  「99%」（34話 - 104話）
       - 作詞 - 丸山和弘 / 作曲 - 錦戸篤、丸山和弘 / 編曲 - BOWL、山口一久 / 歌 - [BOWL](../Page/BOWL.md "wikilink")\[7\]（マーベラスエンターテイメント）
       - 第1期（34話 - 52話）と、第2期（53話 - 104話）で映像が2パターン存在する。後者はストーリーの進行ごとに描写が少しずつアレンジされていった。
@@ -203,30 +203,30 @@
       - ストーリー後半（132話 - 156話）に入るにあたって映像が一部アレンジされた。
       - CD版とは曲のアレンジが異なる。
 4.  「Precious Time, Glory Days」（157話 - 180話）
-      - 作詞・作曲 - YOFFY / 編曲 - [大石憲一郎](https://ja.wikipedia.org/wiki/大石憲一郎 "wikilink") / 歌 - [サイキックラバー](https://ja.wikipedia.org/wiki/サイキックラバー "wikilink")\[9\]（コロムビアミュージックエンタテイメント / マーベラスエンターテイメント）
+      - 作詞・作曲 - YOFFY / 編曲 - [大石憲一郎](https://ja.wikipedia.org/wiki/大石憲一郎 "wikilink") / 歌 - [サイキックラバー](../Page/サイキックラバー.md "wikilink")\[9\]（コロムビアミュージックエンタテイメント / マーベラスエンターテイメント）
 
 ### エンディングテーマ
 
 1.  「[限界バトル](https://ja.wikipedia.org/wiki/限界バトル "wikilink")」（1話 - 33話）
-      - 作詞 - [影山ヒロノブ](https://ja.wikipedia.org/wiki/影山ヒロノブ "wikilink")、[奥井雅美](../Page/奥井雅美.md "wikilink") / 作曲 - 影山ヒロノブ / 編曲 - [河野陽吾](../Page/河野陽吾.md "wikilink") / 歌 - [JAM Project](https://ja.wikipedia.org/wiki/JAM_Project "wikilink")（[ランティス](https://ja.wikipedia.org/wiki/ランティス "wikilink") / マーベラスエンターテイメント）
+      - 作詞 - [影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink")、[奥井雅美](../Page/奥井雅美.md "wikilink") / 作曲 - 影山ヒロノブ / 編曲 - [河野陽吾](../Page/河野陽吾.md "wikilink") / 歌 - [JAM Project](../Page/JAM_Project.md "wikilink")（[ランティス](../Page/ランティス.md "wikilink") / マーベラスエンターテイメント）
       - 第3話から映像が一部アレンジされた。
 2.  「Wake Up Your Heart」（34話 - 104話）
-      - 作詞 - The NaB's / 作曲 - [前田克樹](https://ja.wikipedia.org/wiki/前田克樹 "wikilink") / 編曲 - [芳野藤丸](https://ja.wikipedia.org/wiki/芳野藤丸 "wikilink") / 歌 - [KENN](https://ja.wikipedia.org/wiki/KENN "wikilink") with [The NaB's](https://ja.wikipedia.org/wiki/The_NaB's "wikilink")（マーベラスエンターテイメント）
+      - 作詞 - The NaB's / 作曲 - [前田克樹](https://ja.wikipedia.org/wiki/前田克樹 "wikilink") / 編曲 - [芳野藤丸](../Page/芳野藤丸.md "wikilink") / 歌 - [KENN](../Page/KENN.md "wikilink") with [The NaB's](https://ja.wikipedia.org/wiki/The_NaB's "wikilink")（マーベラスエンターテイメント）
       - 第2期（53話 - 104話）では映像が一部アレンジされた。
       - KENNは遊城十代の担当声優である。
 3.  「太陽」（105話 - 156話）
       - 作詞・作曲 - 遠藤満 / 編曲 - BITE THE LUNG、[片寄明人](https://ja.wikipedia.org/wiki/片寄明人 "wikilink") / 歌 - [BITE THE LUNG](../Page/BITE_THE_LUNG.md "wikilink")（BOOT-UP RECORDS / マーベラスエンターテイメント）
       - ストーリー後半（132話 - 156話）に入るにあたって映像が一部アレンジされた。
 4.  「Endless Dream」（157話 - 180話）
-      - 歌・作詞 - [きただにひろし](https://ja.wikipedia.org/wiki/きただにひろし "wikilink") （マーベラスエンターテイメント） / 作曲・編曲 - IPPEI
+      - 歌・作詞 - [きただにひろし](../Page/きただにひろし.md "wikilink") （マーベラスエンターテイメント） / 作曲・編曲 - IPPEI
 
 ## スタッフ
 
-ごく初期の数回を除き、韓国の[同友アニメーション](../Page/同友アニメーション.md "wikilink")と合同で制作しており、作画工程を中心に同友側へ発注している（一時期のみ、彩色工程は国内のスタジオに発注していた\[10\]）。次回作の『[遊☆戯☆王5D's](https://ja.wikipedia.org/wiki/遊☆戯☆王5D's "wikilink")』では、同社は一部の回のみで単発的に[グロス請け](https://ja.wikipedia.org/wiki/グロス請け "wikilink")を担当している。
+ごく初期の数回を除き、韓国の[同友アニメーション](../Page/同友アニメーション.md "wikilink")と合同で制作しており、作画工程を中心に同友側へ発注している（一時期のみ、彩色工程は国内のスタジオに発注していた\[10\]）。次回作の『[遊☆戯☆王5D's](https://ja.wikipedia.org/wiki/遊☆戯☆王5D's "wikilink")』では、同社は一部の回のみで単発的に[グロス請け](../Page/グロス請け.md "wikilink")を担当している。
 
-  - 原作 - [高橋和希](https://ja.wikipedia.org/wiki/高橋和希 "wikilink")（[集英社](../Page/集英社.md "wikilink")「[ジャンプコミックス](https://ja.wikipedia.org/wiki/ジャンプ・コミックス "wikilink")」刊）
-  - 監督 - [辻初樹](https://ja.wikipedia.org/wiki/辻初樹 "wikilink")
-  - シリーズ構成 - [武上純希](https://ja.wikipedia.org/wiki/武上純希 "wikilink")（TURN-1 - TURN-156）、[吉田伸](https://ja.wikipedia.org/wiki/吉田伸 "wikilink")（TURN-157 - TURN-180）
+  - 原作 - [高橋和希](../Page/高橋和希.md "wikilink")（[集英社](../Page/集英社.md "wikilink")「[ジャンプコミックス](../Page/ジャンプ・コミックス.md "wikilink")」刊）
+  - 監督 - [辻初樹](../Page/辻初樹.md "wikilink")
+  - シリーズ構成 - [武上純希](../Page/武上純希.md "wikilink")（TURN-1 - TURN-156）、[吉田伸](https://ja.wikipedia.org/wiki/吉田伸 "wikilink")（TURN-157 - TURN-180）
   - チーフ演出 - 鶴田寛
   - デュエルアドバイザー - 彦久保雅博
   - キャラクター / メインモンスターデザイン - [原憲一](https://ja.wikipedia.org/wiki/原憲一 "wikilink")
@@ -235,17 +235,17 @@
   - 撮影監督→撮影監修 - 枝光弘明→星知良
   - 音楽 - [蓑部雄崇](https://ja.wikipedia.org/wiki/蓑部雄崇 "wikilink")
   - 音楽プロデューサー - 浅田裕之
-  - 録音監督 - [三ツ矢雄二](../Page/三ツ矢雄二.md "wikilink") （TURN-01 - TURN-151） →[平光琢也](https://ja.wikipedia.org/wiki/平光琢也 "wikilink") （TURN-152 - TURN-156） →不在 （TURN-157 - TURN-180）
+  - 録音監督 - [三ツ矢雄二](../Page/三ツ矢雄二.md "wikilink") （TURN-01 - TURN-151） →[平光琢也](../Page/平光琢也.md "wikilink") （TURN-152 - TURN-156） →不在 （TURN-157 - TURN-180）
   - 音響監督 - 平光琢也
   - プロデューサー - 山川典夫（テレビ東京）、笹田直樹→[実松照晃](https://ja.wikipedia.org/wiki/実松照晃 "wikilink")（nas）
   - アニメーションプロデューサー - 長谷川徹→田中日出男（ぎゃろっぷ）
   - ゲストメカデザイン - [小海雄司](https://ja.wikipedia.org/wiki/こかいゆうじ "wikilink")
-  - ゲストモンスターデザイン - 青木健太、杉山昌弘、佐藤よしひろ、小川純平、[上北ふたご](https://ja.wikipedia.org/wiki/上北ふたご "wikilink")、東出太 他
+  - ゲストモンスターデザイン - 青木健太、杉山昌弘、佐藤よしひろ、小川純平、[上北ふたご](../Page/上北ふたご.md "wikilink")、東出太 他
   - アニメオリジナルカード絵作画 - 小川純平、加藤園、如月あおい
   - カード特効 - 横井正人
   - 編集 - 揖野允史
-  - アニメーション制作 - [ぎゃろっぷ](https://ja.wikipedia.org/wiki/ぎゃろっぷ "wikilink")
-  - 製作 - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、[nas](https://ja.wikipedia.org/wiki/日本アドシステムズ "wikilink")
+  - アニメーション制作 - [ぎゃろっぷ](../Page/ぎゃろっぷ.md "wikilink")
+  - 製作 - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、[nas](../Page/日本アドシステムズ.md "wikilink")
 
 ## 各話リスト
 
@@ -266,8 +266,8 @@
 <tr class="odd">
 <td><p>TURN-1</p></td>
 <td><p>遊戯を継ぐ者</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/武上純希" title="wikilink">武上純希</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/辻初樹" title="wikilink">辻初樹</a></p></td>
+<td><p><a href="../Page/武上純希.md" title="wikilink">武上純希</a></p></td>
+<td><p><a href="../Page/辻初樹.md" title="wikilink">辻初樹</a></p></td>
 <td><p><a href="../Page/鴫野彰.md" title="wikilink">鴫野彰</a></p></td>
 <td><p>吉田秀之</p></td>
 <td><p>studio R</p></td>
@@ -279,7 +279,7 @@
 <td><p>フレイム・ウィングマン</p></td>
 <td><p>Lee Kyoung Soo</p></td>
 <td><p><a href="../Page/同友アニメーション.md" title="wikilink">同友アニメーション</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/10月13日" title="wikilink">10月13日</a></p></td>
+<td><p><a href="../Page/10月13日.md" title="wikilink">10月13日</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -287,7 +287,7 @@
 <tr class="odd">
 <td><p>TURN-3</p></td>
 <td><p>エトワール・サイバー</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/前川淳_(脚本家)" title="wikilink">前川淳</a></p></td>
+<td><p><a href="../Page/前川淳_(脚本家).md" title="wikilink">前川淳</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/菱川直樹" title="wikilink">菱川直樹</a></p></td>
 <td><p>Lee Kyoung Soo</p></td>
 <td><p>Lee Ok Mi</p></td>
@@ -348,7 +348,7 @@
 <td><p>TURN-9</p></td>
 <td><p>一撃必殺!ちゃぶ台返し</p></td>
 <td><p>前川淳</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/奥脇雅晴" title="wikilink">奥脇雅晴</a></p></td>
+<td><p><a href="../Page/奥脇雅晴.md" title="wikilink">奥脇雅晴</a></p></td>
 <td><p>Lee Kyoung Soo</p></td>
 <td><p>Jung Seung Jun</p></td>
 <td><p>同友アニメーション</p></td>
@@ -357,7 +357,7 @@
 <tr class="even">
 <td><p>TURN-10</p></td>
 <td><p>十代&amp;翔!タッグデュエル（前編）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/面出明美" title="wikilink">面出明美</a></p></td>
+<td><p><a href="../Page/面出明美.md" title="wikilink">面出明美</a></p></td>
 <td><p>辻初樹</p></td>
 <td><p>Park Chi Man</p></td>
 <td><p><a href="../Page/12月8日.md" title="wikilink">12月8日</a></p></td>
@@ -401,7 +401,7 @@ Jung Seung Jun</p></td>
 <td><p>鈴木やすゆき</p></td>
 <td><p>辻初樹</p></td>
 <td><p>Park Chi Man</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></strong><br />
+<td><p><strong><a href="../Page/2005年.md" title="wikilink">2005年</a></strong><br />
 <a href="../Page/1月5日.md" title="wikilink">1月5日</a></p></td>
 <td></td>
 <td></td>
@@ -572,7 +572,7 @@ In Tae Sun</p></td>
 <tr class="odd">
 <td><p>TURN-31</p></td>
 <td><p>クロノスVS吸血美女（ヴァンパイア）カミューラ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/高橋ナツコ" title="wikilink">高橋ナツコ</a></p></td>
+<td><p><a href="../Page/高橋ナツコ.md" title="wikilink">高橋ナツコ</a></p></td>
 <td><p>An Jae Ho</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/5月4日" title="wikilink">5月4日</a></p></td>
 <td></td>
@@ -925,7 +925,7 @@ In Tae Sun</p></td>
 <td><p>十代初夢デュエル!</p></td>
 <td><p>武上純希</p></td>
 <td><p>Lee Kyoung Soo</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a></strong><br />
+<td><p><strong><a href="../Page/2006年.md" title="wikilink">2006年</a></strong><br />
 <a href="../Page/1月4日.md" title="wikilink">1月4日</a></p></td>
 <td></td>
 <td></td>
@@ -1099,7 +1099,7 @@ In Tae Sun</p></td>
 <td><p>辻初樹</p></td>
 <td><p>Lee Kyoung Soo</p></td>
 <td><p>Park Chi Man</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/5月3日" title="wikilink">5月3日</a></p></td>
+<td><p><a href="../Page/5月3日.md" title="wikilink">5月3日</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2050,7 +2050,7 @@ Lee Kyoung Soo</p></td>
 <td><p>Lee Kyoung Soo</p></td>
 <td><p>Park Chi Man<br />
 Nam Sung Min</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2月6日" title="wikilink">2月6日</a></p></td>
+<td><p><a href="../Page/2月6日.md" title="wikilink">2月6日</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2171,14 +2171,14 @@ You Bong Hyun</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/岡山県・香川県の放送" title="wikilink">岡山県・香川県</a></p></td>
+<td><p><a href="../Page/岡山県・香川県の放送.md" title="wikilink">岡山県・香川県</a></p></td>
 <td><p><a href="../Page/テレビせとうち.md" title="wikilink">テレビせとうち</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/TVQ九州放送.md" title="wikilink">TVQ九州放送</a></p></td>
 <td></td>
 <td></td>
@@ -2239,11 +2239,11 @@ You Bong Hyun</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/山形県" title="wikilink">山形県</a></p></td>
+<td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
 <td><p><a href="../Page/山形テレビ.md" title="wikilink">山形テレビ</a></p></td>
 <td><p><a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a><a href="https://ja.wikipedia.org/wiki/All-nippon_News_Network" title="wikilink">系列</a></p></td>
 <td><p>土曜 6:00 - 6:30</p></td>
-<td><p>後番組は『<a href="https://ja.wikipedia.org/wiki/ぷるるんっ!しずくちゃん" title="wikilink">ぷるるんっ!しずくちゃん</a>』。</p></td>
+<td><p>後番組は『<a href="../Page/ぷるるんっ!しずくちゃん.md" title="wikilink">ぷるるんっ!しずくちゃん</a>』。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/福島県.md" title="wikilink">福島県</a></p></td>

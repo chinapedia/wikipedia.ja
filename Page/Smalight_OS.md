@@ -5,7 +5,7 @@
 
 ## 特徴
 
-[μITRON](https://ja.wikipedia.org/wiki/μITRON "wikilink")仕様ライク\[1\]な[APIを持つ](../Page/アプリケーションプログラミングインタフェース.md "wikilink")、[ローエンド](https://ja.wikipedia.org/wiki/ローエンド "wikilink")な[マイクロコンピュータ](../Page/マイクロコンピュータ.md "wikilink")向け[リアルタイムオペレーティングシステム](../Page/リアルタイムオペレーティングシステム.md "wikilink")。小容量の[メモリ](https://ja.wikipedia.org/wiki/メモリ "wikilink")([ROM](https://ja.wikipedia.org/wiki/Read_Only_Memory "wikilink"), [RAM](../Page/Random_Access_Memory.md "wikilink"))で動作することを目的としたコンパクトさが特徴である。 [μITRON](https://ja.wikipedia.org/wiki/μITRON "wikilink")仕様のうち、タスクの動的管理機能、[ミューテックス](https://ja.wikipedia.org/wiki/ミューテックス "wikilink")、[メールボックス](../Page/メッセージキュー.md "wikilink")、メッセージバッファ、(メモリー管理機能)、といった機能が削除された縮小サブセットを採用している。
+[μITRON](https://ja.wikipedia.org/wiki/μITRON "wikilink")仕様ライク\[1\]な[APIを持つ](../Page/アプリケーションプログラミングインタフェース.md "wikilink")、[ローエンド](https://ja.wikipedia.org/wiki/ローエンド "wikilink")な[マイクロコンピュータ](../Page/マイクロコンピュータ.md "wikilink")向け[リアルタイムオペレーティングシステム](../Page/リアルタイムオペレーティングシステム.md "wikilink")。小容量の[メモリ](https://ja.wikipedia.org/wiki/メモリ "wikilink")([ROM](https://ja.wikipedia.org/wiki/Read_Only_Memory "wikilink"), [RAM](../Page/Random_Access_Memory.md "wikilink"))で動作することを目的としたコンパクトさが特徴である。 [μITRON](https://ja.wikipedia.org/wiki/μITRON "wikilink")仕様のうち、タスクの動的管理機能、[ミューテックス](../Page/ミューテックス.md "wikilink")、[メールボックス](../Page/メッセージキュー.md "wikilink")、メッセージバッファ、(メモリー管理機能)、といった機能が削除された縮小サブセットを採用している。
 
 ## 主な機能
 
@@ -17,7 +17,7 @@
 
 標準対応する同期通信機能には、次の3種類が存在する。
 
-  - [セマフォ](https://ja.wikipedia.org/wiki/セマフォ "wikilink")
+  - [セマフォ](../Page/セマフォ.md "wikilink")
 
   -
   - [データキュー](../Page/キュー_\(コンピュータ\).md "wikilink")
@@ -35,7 +35,7 @@
 
 ## 主なサポートCPU
 
-  - [H8 Tiny,H8/300H-SLP, H8/300L, H8/300L-SLP](https://ja.wikipedia.org/wiki/H8 "wikilink")/300H
+  - [H8 Tiny,H8/300H-SLP, H8/300L, H8/300L-SLP](../Page/H8.md "wikilink")/300H
   - [SH/Tiny,SH-2,SH-2A](../Page/SuperH.md "wikilink")
   - [H8S](https://ja.wikipedia.org/wiki/H8S "wikilink")
   - [H8SX](https://ja.wikipedia.org/wiki/H8SX "wikilink")

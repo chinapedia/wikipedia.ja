@@ -1,7 +1,7 @@
 > この記事は[Bloggers Night!!](https://ja.wikipedia.org/wiki/Bloggers_Night!!)から翻訳されています。
 
 
-『**Bloggers Night\!\!**』（ブロガーズナイト）は、[TOKYO FMで金曜日の](../Page/エフエム東京.md "wikilink")25:00～25:30（深夜1時台）に生放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[DJはかつて](../Page/ディスクジョッキー.md "wikilink")[JFNで放送されていた](../Page/全国FM放送協議会.md "wikilink")[BPR5000](https://ja.wikipedia.org/wiki/BPR5000 "wikilink")のDJとして知られる[つるの剛士](https://ja.wikipedia.org/wiki/つるの剛士 "wikilink")で、BPR終了後、これがDJ復帰の番組である。
+『**Bloggers Night\!\!**』（ブロガーズナイト）は、[TOKYO FMで金曜日の](../Page/エフエム東京.md "wikilink")25:00～25:30（深夜1時台）に生放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[DJはかつて](../Page/ディスクジョッキー.md "wikilink")[JFNで放送されていた](../Page/全国FM放送協議会.md "wikilink")[BPR5000](../Page/BPR5000.md "wikilink")のDJとして知られる[つるの剛士](https://ja.wikipedia.org/wiki/つるの剛士 "wikilink")で、BPR終了後、これがDJ復帰の番組である。
 実質の後番組は、2008年4月開始の「ビックウイン つるの剛士 ほっと。MUSIC\!」(金曜日26:00～26:30)
 
 ## 番組概要
@@ -18,7 +18,7 @@
 <!-- end list -->
 
   -
-    番組ブログにある[アバター](https://ja.wikipedia.org/wiki/アバター "wikilink")を使って、このアバターが何を言っているのか報告してもらうネタコーナー。アバターの状況と関係無しに面白いネタが読まれる事が多く、中期は[アルビレックス新潟](../Page/アルビレックス新潟.md "wikilink")の外国人選手、末期は[やまだひさし](https://ja.wikipedia.org/wiki/やまだひさし "wikilink")や[good morning\! That's wakeman showのDJで知られる](https://ja.wikipedia.org/wiki/good_morning!_That's_wakeman_show "wikilink")[蒲田健](../Page/蒲田健.md "wikilink")いじりのネタが多く読まれていた。BPR時代に関わった[ギターウルフ](../Page/ギターウルフ.md "wikilink")のセイジや[しんドル](https://ja.wikipedia.org/wiki/しんドル "wikilink")のDJであった[下川みくに](https://ja.wikipedia.org/wiki/下川みくに "wikilink")をネタにしたのが読まれた事があり、つるのが懐かしがっていた事があった。
+    番組ブログにある[アバター](../Page/アバター.md "wikilink")を使って、このアバターが何を言っているのか報告してもらうネタコーナー。アバターの状況と関係無しに面白いネタが読まれる事が多く、中期は[アルビレックス新潟](../Page/アルビレックス新潟.md "wikilink")の外国人選手、末期は[やまだひさし](../Page/やまだひさし.md "wikilink")や[good morning\! That's wakeman showのDJで知られる](https://ja.wikipedia.org/wiki/good_morning!_That's_wakeman_show "wikilink")[蒲田健](../Page/蒲田健.md "wikilink")いじりのネタが多く読まれていた。BPR時代に関わった[ギターウルフ](../Page/ギターウルフ.md "wikilink")のセイジや[しんドル](../Page/しんドル.md "wikilink")のDJであった[下川みくに](../Page/下川みくに.md "wikilink")をネタにしたのが読まれた事があり、つるのが懐かしがっていた事があった。
 
 <!-- end list -->
 
@@ -55,7 +55,7 @@
 ## 番組に出演したゲスト
 
   - [江川達也](../Page/江川達也.md "wikilink")（ジェンカのアバターデザインを担当。）
-  - 細美武士（[ELLEGARDEN](https://ja.wikipedia.org/wiki/ELLEGARDEN "wikilink")のボーカル。「SXSW 2006 Music Festival」前にゲストで登場。）
+  - 細美武士（[ELLEGARDEN](../Page/ELLEGARDEN.md "wikilink")のボーカル。「SXSW 2006 Music Festival」前にゲストで登場。）
 
 ## 外部リンク
 

@@ -1,7 +1,7 @@
 > この記事は[JULIA \(ZYYG\)](https://ja.wikipedia.org/wiki/JULIA_\(ZYYG\))から翻訳されています。
 
 
-「**JULIA**」（ジュリア）は、[ZYYG](https://ja.wikipedia.org/wiki/ZYYG "wikilink")の6枚目のシングル。
+「**JULIA**」（ジュリア）は、[ZYYG](../Page/ZYYG.md "wikilink")の6枚目のシングル。
 
 ## 作品解説
 

@@ -1,7 +1,7 @@
 > この記事は[SDTV](https://ja.wikipedia.org/wiki/SDTV)から翻訳されています。
 
 
-**SDTV**（Standard definition television、標準解像度テレビ）とは現在の[デジタルテレビ放送](https://ja.wikipedia.org/wiki/デジタルテレビ放送 "wikilink")の[解像度](https://ja.wikipedia.org/wiki/解像度 "wikilink")に対して、主に[アナログカラーテレビ放送で使用された解像度に近いものを指す](https://ja.wikipedia.org/wiki/世界の放送方式#アナログカラーテレビ放送 "wikilink")。
+**SDTV**（Standard definition television、標準解像度テレビ）とは現在の[デジタルテレビ放送](../Page/デジタルテレビ放送.md "wikilink")の[解像度](../Page/解像度.md "wikilink")に対して、主に[アナログカラーテレビ放送で使用された解像度に近いものを指す](https://ja.wikipedia.org/wiki/世界の放送方式#アナログカラーテレビ放送 "wikilink")。
 
 ## 概説
 
@@ -9,7 +9,7 @@
 
 解像度を大きく分類する場合にも使用され、低い方から順に、[LDTV](https://ja.wikipedia.org/wiki/低精細度テレビジョン放送 "wikilink") - **SDTV** - [HDTV](https://ja.wikipedia.org/wiki/高精細度テレビジョン放送 "wikilink") - [UHDTV](https://ja.wikipedia.org/wiki/UHDTV "wikilink")となる。
 
-基本的に[MPEG-2](../Page/MPEG-2.md "wikilink")や[H.264](https://ja.wikipedia.org/wiki/H.264 "wikilink")で圧縮されて使用されることが多い。非圧縮のデジタルシリアルコンポーネント映像とは解像度が一部異なり、非圧縮のほうが高画質である。
+基本的に[MPEG-2](../Page/MPEG-2.md "wikilink")や[H.264](../Page/H.264.md "wikilink")で圧縮されて使用されることが多い。非圧縮のデジタルシリアルコンポーネント映像とは解像度が一部異なり、非圧縮のほうが高画質である。
 
 SDTVは[NTSC](../Page/NTSC.md "wikilink")アナログテレビ放送より、約330本から500本へ水平解像度が大幅に向上しているが、SDTVは基本的に圧縮されて使用されるため、ビットレートによっては画質が上とは限らない。
 
@@ -26,7 +26,7 @@ SDTVは[NTSC](../Page/NTSC.md "wikilink")アナログテレビ放送より、約
 
 ## アメリカ
 
-順次走査の480pや576pはSDTVでもあり[EDTV](https://ja.wikipedia.org/wiki/EDTV "wikilink")でもあるが、日本ではデジタルにおいてはEDTVはあまり使われず、SDTVに分類される。しかし、アメリカでは全米家電協会が480p/576pはSDTVに含まずにEDTVとしている\[2\]。
+順次走査の480pや576pはSDTVでもあり[EDTV](../Page/EDTV.md "wikilink")でもあるが、日本ではデジタルにおいてはEDTVはあまり使われず、SDTVに分類される。しかし、アメリカでは全米家電協会が480p/576pはSDTVに含まずにEDTVとしている\[2\]。
 
 | 解像度              | アスペクト比（横:縦） | 名称   |
 | ---------------- | ----------- | ---- |

@@ -40,7 +40,7 @@
   - [KHBステーションEYE](../Page/KHBステーションEYE.md "wikilink")
   - [KHBニュースチャンネル](../Page/KHBニュースチャンネル.md "wikilink")
   - [あなCue\!ニュース](../Page/夕方ワイドあなたにCue!.md "wikilink")
-  - [スーパーJチャンネルみやぎ](https://ja.wikipedia.org/wiki/スーパーJチャンネルみやぎ "wikilink")
+  - [スーパーJチャンネルみやぎ](../Page/スーパーJチャンネルみやぎ.md "wikilink")
 
 ## 外部リンク
 

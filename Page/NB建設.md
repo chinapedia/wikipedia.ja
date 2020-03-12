@@ -8,7 +8,7 @@
   - 所在：横浜市神奈川区栄町5-1
   - 設立：1985年2月
   - 資本金：490,000,000円
-  - [代表取締役](https://ja.wikipedia.org/wiki/代表取締役 "wikilink")[社長](https://ja.wikipedia.org/wiki/社長 "wikilink")：仙頭靖夫
+  - [代表取締役](../Page/代表取締役.md "wikilink")[社長](../Page/社長.md "wikilink")：仙頭靖夫
 
 ## 関連項目
 

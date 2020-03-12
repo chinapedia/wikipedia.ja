@@ -1,7 +1,7 @@
 > この記事は[PC](https://ja.wikipedia.org/wiki/PC)から翻訳されています。
 
 
-『**ソード・ワールドPC**』とは、[グループSNE](../Page/グループSNE.md "wikilink")が制作した[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")の『**[ソード・ワールドRPG](https://ja.wikipedia.org/wiki/ソード・ワールドRPG "wikilink")**』を[コンピュータRPG](../Page/コンピュータRPG.md "wikilink")化した[PC-9800シリーズ](../Page/PC-9800シリーズ.md "wikilink")用の[パソコンゲーム](../Page/パソコンゲーム.md "wikilink")である。発売は[T\&E SOFT](https://ja.wikipedia.org/wiki/T&E_SOFT "wikilink")。シナリオは下村家惠子が作成、イラスト（キャラクター、背景全て）は米良仁（白井影二）が担当した。
+『**ソード・ワールドPC**』とは、[グループSNE](../Page/グループSNE.md "wikilink")が制作した[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")の『**[ソード・ワールドRPG](https://ja.wikipedia.org/wiki/ソード・ワールドRPG "wikilink")**』を[コンピュータRPG](../Page/コンピュータRPG.md "wikilink")化した[PC-9800シリーズ](../Page/PC-9800シリーズ.md "wikilink")用の[パソコンゲーム](../Page/パソコンゲーム.md "wikilink")である。発売は[T\&E SOFT](../Page/T&E_SOFT.md "wikilink")。シナリオは下村家惠子が作成、イラスト（キャラクター、背景全て）は米良仁（白井影二）が担当した。
 
 ## 開発経緯
 
@@ -28,7 +28,7 @@
       - [ソード・ワールドSFC2 いにしえの巨人伝説](https://ja.wikipedia.org/wiki/ソード・ワールドSFC#ソード・ワールドSFC2 "wikilink")
           -
             1994年7月発売。パソコン版の移植だった前作と異なり、完全新規ストーリーである。
-  - [G-mode製作](https://ja.wikipedia.org/wiki/ジー・モード "wikilink")
+  - [G-mode製作](../Page/ジー・モード.md "wikilink")
       - ソード・ワールドmobile
   - 小説
       - 『死せる神の島』 原案：安田均 著：下村家惠子

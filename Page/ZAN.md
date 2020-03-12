@@ -1,15 +1,15 @@
 > この記事は[ZAN](https://ja.wikipedia.org/wiki/ZAN)から翻訳されています。
 
 
-**ZAN**（ザン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽](../Page/音楽.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。日本の伝統楽器である[箏](../Page/箏.md "wikilink")、[尺八](../Page/尺八.md "wikilink")、[篠笛](https://ja.wikipedia.org/wiki/篠笛 "wikilink")、[民謡](../Page/民謡.md "wikilink")で音楽活動を行う、[和楽器](../Page/和楽器.md "wikilink")専門のバンド。
+**ZAN**（ザン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽](../Page/音楽.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。日本の伝統楽器である[箏](../Page/箏.md "wikilink")、[尺八](../Page/尺八.md "wikilink")、[篠笛](../Page/篠笛.md "wikilink")、[民謡](../Page/民謡.md "wikilink")で音楽活動を行う、[和楽器](../Page/和楽器.md "wikilink")専門のバンド。
 
 ## 概要
 
-[2002年](../Page/2002年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")、琴古流の尺八奏者である[砂川憲和](https://ja.wikipedia.org/wiki/砂川憲和 "wikilink")、民謡・小湊流三代目の[小湊昭尚](../Page/小湊昭尚.md "wikilink")、生田流清絃会・四代目の箏奏者[市川慎](https://ja.wikipedia.org/wiki/市川慎 "wikilink")の3人で結成、[2003年](../Page/2003年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、インディーズレーベルよりマキシシングル「ZAN ZERO」をリリース。
+[2002年](../Page/2002年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")、琴古流の尺八奏者である[砂川憲和](../Page/砂川憲和.md "wikilink")、民謡・小湊流三代目の[小湊昭尚](../Page/小湊昭尚.md "wikilink")、生田流清絃会・四代目の箏奏者[市川慎](../Page/市川慎.md "wikilink")の3人で結成、[2003年](../Page/2003年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、インディーズレーベルよりマキシシングル「ZAN ZERO」をリリース。
 
 [2004年](../Page/2004年.md "wikilink")に[avexと契約し](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")、7月7日、ミニアルバム『風籟～Furai～』（[rhythm zone](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")）でメジャーデビュー。日本の伝統音楽である純邦楽に[J-POP](../Page/J-POP.md "wikilink")のメロディーを取り入れるなど、伝統音楽に新風を巻き起こし、常に斬新かつ意欲的に活動を行う。
 
-しかし、リーダーだった砂川が[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月22日](../Page/4月22日.md "wikilink")、[登山](../Page/登山.md "wikilink")中に事故死。前夜の[宇都宮でのライブをもって](https://ja.wikipedia.org/wiki/宇都宮市 "wikilink")3人での最後の演奏となった。
+しかし、リーダーだった砂川が[2006年](../Page/2006年.md "wikilink")[4月22日](../Page/4月22日.md "wikilink")、[登山](../Page/登山.md "wikilink")中に事故死。前夜の[宇都宮でのライブをもって](https://ja.wikipedia.org/wiki/宇都宮市 "wikilink")3人での最後の演奏となった。
 
 砂川亡き後も、故人の意思を継ぎ、小湊と市川の2人で活動を継続してきたが、2006年[11月25日](../Page/11月25日.md "wikilink")、正式に小湊・市川の2人だけで再出発することが発表された。
 
@@ -23,8 +23,8 @@
 
 ## メンバー
 
-  - [小湊昭尚](../Page/小湊昭尚.md "wikilink") - **小湊流**（三代目）家元、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[尺八](../Page/尺八.md "wikilink")を担当。実姉は[民謡](../Page/民謡.md "wikilink")[歌手](../Page/歌手.md "wikilink")で元[T\&Cボンバー](https://ja.wikipedia.org/wiki/T&Cボンバー "wikilink")の[小湊美和](https://ja.wikipedia.org/wiki/小湊美和 "wikilink")。
-  - [市川慎](https://ja.wikipedia.org/wiki/市川慎 "wikilink") - **生田流清絃会**（四代目）家元。[箏](../Page/箏.md "wikilink")・[十七絃](../Page/十七絃.md "wikilink")を担当。
+  - [小湊昭尚](../Page/小湊昭尚.md "wikilink") - **小湊流**（三代目）家元、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[尺八](../Page/尺八.md "wikilink")を担当。実姉は[民謡](../Page/民謡.md "wikilink")[歌手](../Page/歌手.md "wikilink")で元[T\&Cボンバー](https://ja.wikipedia.org/wiki/T&Cボンバー "wikilink")の[小湊美和](../Page/小湊美和.md "wikilink")。
+  - [市川慎](../Page/市川慎.md "wikilink") - **生田流清絃会**（四代目）家元。[箏](../Page/箏.md "wikilink")・[十七絃](../Page/十七絃.md "wikilink")を担当。
 
 <!-- end list -->
 
@@ -32,7 +32,7 @@
 
 <!-- end list -->
 
-  - [砂川憲和](https://ja.wikipedia.org/wiki/砂川憲和 "wikilink") - **琴古流**家元で、尺八と[篠笛](https://ja.wikipedia.org/wiki/篠笛 "wikilink")を担当していた。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月22日](../Page/4月22日.md "wikilink")、31歳で死去。
+  - [砂川憲和](../Page/砂川憲和.md "wikilink") - **琴古流**家元で、尺八と[篠笛](../Page/篠笛.md "wikilink")を担当していた。[2006年](../Page/2006年.md "wikilink")[4月22日](../Page/4月22日.md "wikilink")、31歳で死去。
 
 ## 作品
 

@@ -14,12 +14,12 @@
 
 支店・営業所所在地は以下のとおりだが、104センター、116センターは他都市にも設置されている。
 
-[大阪市](../Page/大阪市.md "wikilink")、[京都市](../Page/京都市.md "wikilink")、[神戸市](../Page/神戸市.md "wikilink")、[奈良市](https://ja.wikipedia.org/wiki/奈良市 "wikilink")、[名古屋市](../Page/名古屋市.md "wikilink")、[静岡市](../Page/静岡市.md "wikilink")、[岐阜市](../Page/岐阜市.md "wikilink")、[津市](../Page/津市.md "wikilink")、[金沢市](https://ja.wikipedia.org/wiki/金沢市 "wikilink")、[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")、[岡山市](../Page/岡山市.md "wikilink")、[山口市](../Page/山口市.md "wikilink")、[松山市](../Page/松山市.md "wikilink")、[徳島市](https://ja.wikipedia.org/wiki/徳島市 "wikilink")、[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")、[熊本市](https://ja.wikipedia.org/wiki/熊本市 "wikilink")、[鹿児島市](../Page/鹿児島市.md "wikilink")、[浦添市](../Page/浦添市.md "wikilink")
+[大阪市](../Page/大阪市.md "wikilink")、[京都市](../Page/京都市.md "wikilink")、[神戸市](../Page/神戸市.md "wikilink")、[奈良市](https://ja.wikipedia.org/wiki/奈良市 "wikilink")、[名古屋市](../Page/名古屋市.md "wikilink")、[静岡市](../Page/静岡市.md "wikilink")、[岐阜市](../Page/岐阜市.md "wikilink")、[津市](../Page/津市.md "wikilink")、[金沢市](https://ja.wikipedia.org/wiki/金沢市 "wikilink")、[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")、[岡山市](../Page/岡山市.md "wikilink")、[山口市](../Page/山口市.md "wikilink")、[松山市](../Page/松山市.md "wikilink")、[徳島市](../Page/徳島市.md "wikilink")、[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")、[熊本市](https://ja.wikipedia.org/wiki/熊本市 "wikilink")、[鹿児島市](../Page/鹿児島市.md "wikilink")、[浦添市](../Page/浦添市.md "wikilink")
 
 ## 関連項目
 
   - [NTT西日本](../Page/西日本電信電話.md "wikilink")
-  - [NTTネクシア](https://ja.wikipedia.org/wiki/NTTネクシア "wikilink")（[NTT東日本の](../Page/東日本電信電話.md "wikilink")[コールセンター](https://ja.wikipedia.org/wiki/コールセンター "wikilink")事業を実施）
+  - [NTTネクシア](https://ja.wikipedia.org/wiki/NTTネクシア "wikilink")（[NTT東日本の](../Page/東日本電信電話.md "wikilink")[コールセンター](../Page/コールセンター.md "wikilink")事業を実施）
 
 ## 外部リンク
 

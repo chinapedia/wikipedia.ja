@@ -1,7 +1,7 @@
 > この記事は[CONCACAF](https://ja.wikipedia.org/wiki/CONCACAF)から翻訳されています。
 
 
-**CONCACAF女子ゴールドカップ**（）は、[北中米カリブ海サッカー連盟](../Page/北中米カリブ海サッカー連盟.md "wikilink")（CONCACAF）が主催する、[ナショナルチーム](https://ja.wikipedia.org/wiki/ナショナルチーム "wikilink")による[女子サッカー](https://ja.wikipedia.org/wiki/女子サッカー "wikilink")の大陸選手権大会である。男子の[ゴールドカップに相当する](https://ja.wikipedia.org/wiki/CONCACAFゴールドカップ "wikilink")。前身は**CONCACAF女子選手権**で、[女子ワールドカップの成功から](https://ja.wikipedia.org/wiki/FIFA女子ワールドカップ "wikilink")2000年に第1回大会が[アメリカで行われ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、2003年に行われた女子ワールドカップがアメリカで開催されたため2004年大会を中止し、2006年に第3回大会が行われた。以降、4年に1度開催されている。
+**CONCACAF女子ゴールドカップ**（）は、[北中米カリブ海サッカー連盟](../Page/北中米カリブ海サッカー連盟.md "wikilink")（CONCACAF）が主催する、[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[女子サッカー](../Page/女子サッカー.md "wikilink")の大陸選手権大会である。男子の[ゴールドカップに相当する](../Page/CONCACAFゴールドカップ.md "wikilink")。前身は**CONCACAF女子選手権**で、[女子ワールドカップの成功から](../Page/FIFA女子ワールドカップ.md "wikilink")2000年に第1回大会が[アメリカで行われ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、2003年に行われた女子ワールドカップがアメリカで開催されたため2004年大会を中止し、2006年に第3回大会が行われた。以降、4年に1度開催されている。
 
 ## 歴史
 
@@ -129,7 +129,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/2006_CONCACAF女子ゴールドカップ" title="wikilink">7</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>2 - 1</strong> <a href="../Page/延長戦.md" title="wikilink">aet</a></p></td>
@@ -552,7 +552,7 @@
 
 ## 関連項目
 
-  - [CONCACAFゴールドカップ](https://ja.wikipedia.org/wiki/CONCACAFゴールドカップ "wikilink")
+  - [CONCACAFゴールドカップ](../Page/CONCACAFゴールドカップ.md "wikilink")
 
 ## 外部リンク
 

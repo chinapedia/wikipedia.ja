@@ -18,7 +18,7 @@ JA-SSは北海道を除く46都府県で営業している。北海道ではJA-S
 
 長野県内のJA-SSは、JA-SS公式ホームページでは検索できず、長野県内各ＪＡの公式ホームページで確認する必要がある。ガソリン・灯油・ＬＰガスに関する商品、サービスの提供は、各地域のＪＡまたはその子会社が実施しているからである。また、建物のデザインも元売ブランドのままになっている他、JA-SSの看板も標準のJAマーク（**白地に緑**）が使用されるなど、他都府県とは全く異なる存在となっている。
 
-なお、JA-SS・ホクレンSSとも、[JAカード](https://ja.wikipedia.org/wiki/JAカード "wikilink")提示で、ガソリン・軽油が1リットル当たり2円の割引を受けることができる特典がある。
+なお、JA-SS・ホクレンSSとも、[JAカード](../Page/JAカード.md "wikilink")提示で、ガソリン・軽油が1リットル当たり2円の割引を受けることができる特典がある。
 
 地域にもよるが、JA店舗（[JAバンク](../Page/JAバンク.md "wikilink")・[エーコープ](../Page/エーコープ.md "wikilink")）や倉庫などJA施設に隣接していたり、これらJA施設の跡地という立地の店舗が多い。またJA店舗と併設しているところもある。
 
@@ -35,9 +35,9 @@ JA-SSは北海道を除く46都府県で営業している。北海道ではJA-S
       - [昭和シェル石油](../Page/昭和シェル石油.md "wikilink")
   - [無印スタンド](../Page/無印スタンド.md "wikilink")
   - [全国農業協同組合連合会](../Page/全国農業協同組合連合会.md "wikilink")
-  - 富士重工業（現・[SUBARU](../Page/SUBARU.md "wikilink")。農家用トラック・[営農サンバーを発売](https://ja.wikipedia.org/wiki/スバル・サンバー "wikilink")）
-  - [JA-SSニッポン全国寄り道マップ](https://ja.wikipedia.org/wiki/JA-SSニッポン全国寄り道マップ "wikilink")（毎年ナイターオフシーズンに[ニッポン放送](../Page/ニッポン放送.md "wikilink")をキーステーションに[NRN系列で放送されていた](../Page/全国ラジオネットワーク.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")）
-  - [立花裕人のMORNING FREEWAY](../Page/立花裕人のMORNING_FREEWAY.md "wikilink") [JA-SS NEWS ALIVE](https://ja.wikipedia.org/wiki/JA-SS_NEWS_ALIVE "wikilink")（2002年4月～9月に[エフエム東京](../Page/エフエム東京.md "wikilink")をキーステーションに[JFN全国ネットで放送されていた番組](../Page/全国FM放送協議会.md "wikilink")）
+  - 富士重工業（現・[SUBARU](../Page/SUBARU.md "wikilink")。農家用トラック・[営農サンバーを発売](../Page/スバル・サンバー.md "wikilink")）
+  - [JA-SSニッポン全国寄り道マップ](../Page/JA-SSニッポン全国寄り道マップ.md "wikilink")（毎年ナイターオフシーズンに[ニッポン放送](../Page/ニッポン放送.md "wikilink")をキーステーションに[NRN系列で放送されていた](../Page/全国ラジオネットワーク.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")）
+  - [立花裕人のMORNING FREEWAY](../Page/立花裕人のMORNING_FREEWAY.md "wikilink") [JA-SS NEWS ALIVE](../Page/JA-SS_NEWS_ALIVE.md "wikilink")（2002年4月～9月に[エフエム東京](../Page/エフエム東京.md "wikilink")をキーステーションに[JFN全国ネットで放送されていた番組](../Page/全国FM放送協議会.md "wikilink")）
 
 ## 外部リンク
 

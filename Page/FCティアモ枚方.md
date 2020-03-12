@@ -1,26 +1,26 @@
 > この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
 
 
-**FC TIAMO枚方**（エフシーティアモひらかた、）は、[大阪府](../Page/大阪府.md "wikilink")[枚方市](../Page/枚方市.md "wikilink")を本拠地とする社会人[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")のクラブチーム。[Jリーグ加盟を目指すクラブ](https://ja.wikipedia.org/wiki/Jリーグ加盟を目指すクラブ "wikilink")の1つである。
+**FC TIAMO枚方**（エフシーティアモひらかた、）は、[大阪府](../Page/大阪府.md "wikilink")[枚方市](../Page/枚方市.md "wikilink")を本拠地とする社会人[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")のクラブチーム。[Jリーグ加盟を目指すクラブ](../Page/Jリーグ加盟を目指すクラブ.md "wikilink")の1つである。
 
 ## 概要
 
-2004年に[稲本潤一](../Page/稲本潤一.md "wikilink")・[新井場徹](https://ja.wikipedia.org/wiki/新井場徹 "wikilink")・[播戸竜二](https://ja.wikipedia.org/wiki/播戸竜二 "wikilink")の3選手が共同オーナーとなり設立されたサッカークラブ。3人ともに[ガンバ大阪](../Page/ガンバ大阪.md "wikilink")時代のチームメイトであり、79年組（いわゆる[ゴールデンエイジ](https://ja.wikipedia.org/wiki/黄金世代 "wikilink")）の同期。なお、現在の事実上のオーナーは選手を引退した新井場のみで、他の二人は休止中（事実上は離脱）。
+2004年に[稲本潤一](../Page/稲本潤一.md "wikilink")・[新井場徹](../Page/新井場徹.md "wikilink")・[播戸竜二](../Page/播戸竜二.md "wikilink")の3選手が共同オーナーとなり設立されたサッカークラブ。3人ともに[ガンバ大阪](../Page/ガンバ大阪.md "wikilink")時代のチームメイトであり、79年組（いわゆる[ゴールデンエイジ](../Page/黄金世代.md "wikilink")）の同期。なお、現在の事実上のオーナーは選手を引退した新井場のみで、他の二人は休止中（事実上は離脱）。
 
 ## 歴史
 
   - [2004年](../Page/2004年.md "wikilink")4月 - 「**FCイバンイーナ**（FC IBANINA）」としてチーム発足。[大阪府リーグ](https://ja.wikipedia.org/wiki/大阪府社会人サッカーリーグ "wikilink")5部・ブロック優勝（全勝）、4部昇格。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") - 大阪府リーグ4部・ブロック全勝優勝、3部昇格。
+  - [2005年](../Page/2005年.md "wikilink") - 大阪府リーグ4部・ブロック全勝優勝、3部昇格。
 
 <!-- end list -->
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink") - 稲本がオーナー職を休止（プレミアリーグ専念の為）。クラブ名を「**FC TIAMO**（FCティアモ）」に改名。大阪府リーグ3部・ブロック2位（6勝1敗)。
+  - [2006年](../Page/2006年.md "wikilink") - 稲本がオーナー職を休止（プレミアリーグ専念の為）。クラブ名を「**FC TIAMO**（FCティアモ）」に改名。大阪府リーグ3部・ブロック2位（6勝1敗)。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") - 播戸が自身の選手活動に専念するため、オーナー職を休止。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink") - 大阪府リーグ2部・ブロック優勝。
   - [2011年](../Page/2011年.md "wikilink") - 大阪府リーグ1部に昇格。
   - [2012年](../Page/2012年.md "wikilink") - 大阪府リーグ1部・優勝。
   - [2013年](../Page/2013年.md "wikilink") - 大阪府リーグ1部・優勝、[関西府県サッカーリーグ決勝大会](https://ja.wikipedia.org/wiki/関西府県サッカーリーグ決勝大会 "wikilink")で準優勝、入替戦で[BIWAKO S.C. HIRAに勝利](https://ja.wikipedia.org/wiki/びわこ成蹊スポーツ大学サッカー部 "wikilink")。
-  - [2014年](../Page/2014年.md "wikilink") - [関西サッカーリーグ](https://ja.wikipedia.org/wiki/関西サッカーリーグ "wikilink")2部に昇格し、優勝。
+  - [2014年](../Page/2014年.md "wikilink") - [関西サッカーリーグ](../Page/関西サッカーリーグ.md "wikilink")2部に昇格し、優勝。
   - [2015年](../Page/2015年.md "wikilink") - 『枚方からJリーグ』『枚方の街作り』をコンセプトにクラブ名を「**FC TIAMO枚方**」に改名\[1\]。関西リーグ1部に昇格するが、年間1勝で最下位（8位）。
   - [2016年](../Page/2016年.md "wikilink") - 関西リーグ2部に降格。2部で優勝。
   - [2017年](../Page/2017年.md "wikilink") - 関西リーグ1部に再昇格。[第53回全国社会人サッカー選手権大会](https://ja.wikipedia.org/wiki/第53回全国社会人サッカー選手権大会 "wikilink")で4位入賞し、[全国地域サッカーチャンピオンズリーグ2017](https://ja.wikipedia.org/wiki/全国地域サッカーチャンピオンズリーグ2017 "wikilink")に出場。1次ラウンド3位で敗退した。
@@ -47,7 +47,7 @@
 | 2011                                                                  | 大阪府1部                                                           | 5位     | 25 | 15 | 8 | 1 | 6  | 36 | 30   | \+6  |
 | 2012                                                                  | **優勝**                                                          | 39     | 15 | 12 | 3 | 0 | 50 | 16 | \+34 |      |
 | 2013                                                                  | **優勝**                                                          | 41     | 15 | 14 | 1 | 0 | 51 | 7  | \+44 |      |
-| [2014](https://ja.wikipedia.org/wiki/2014年の地域リーグ_\(サッカー\) "wikilink") | [関西](https://ja.wikipedia.org/wiki/関西サッカーリーグ "wikilink")2部      | **優勝** | 25 | 14 | 8 | 1 | 5  | 33 | 24   | \+9  |
+| [2014](https://ja.wikipedia.org/wiki/2014年の地域リーグ_\(サッカー\) "wikilink") | [関西](../Page/関西サッカーリーグ.md "wikilink")2部                         | **優勝** | 25 | 14 | 8 | 1 | 5  | 33 | 24   | \+9  |
 | [2015](https://ja.wikipedia.org/wiki/2015年の地域リーグ_\(サッカー\) "wikilink") | 関西1部                                                            | 8位     | 3  | 14 | 1 | 0 | 13 | 12 | 36   | \-24 |
 | [2016](https://ja.wikipedia.org/wiki/2016年の地域リーグ_\(サッカー\) "wikilink") | 関西2部                                                            | **優勝** | 30 | 14 | 9 | 3 | 2  | 30 | 10   | \+20 |
 | [2017](https://ja.wikipedia.org/wiki/2017年の地域リーグ_\(サッカー\) "wikilink") | 関西1部                                                            | 2位     | 26 | 14 | 8 | 2 | 4  | 36 | 29   | \+7  |
@@ -59,7 +59,7 @@
 
 ### カップ戦
 
-  - [全国社会人サッカー選手権大会](https://ja.wikipedia.org/wiki/全国社会人サッカー選手権大会 "wikilink")：**1回**
+  - [全国社会人サッカー選手権大会](../Page/全国社会人サッカー選手権大会.md "wikilink")：**1回**
       - 2019年
 
 ### 表彰
@@ -82,13 +82,13 @@
 </tr>
 <tr class="even">
 <td><p><strong>監督</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/辻本茂輝" title="wikilink">辻本茂輝</a></p></td>
+<td><p><a href="../Page/辻本茂輝.md" title="wikilink">辻本茂輝</a></p></td>
 <td><p><a href="../Page/ガイナーレ鳥取.md" title="wikilink">ガイナーレ鳥取</a> コーチ</p></td>
 <td><p>新任</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>コーチ</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山本拓弥" title="wikilink">山本拓弥</a></p></td>
+<td><p><a href="../Page/山本拓弥.md" title="wikilink">山本拓弥</a></p></td>
 <td><p>FCティアモ枚方 監督</p></td>
 <td><p>新任</p></td>
 </tr>
@@ -100,7 +100,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/竹元雄輝" title="wikilink">竹元雄輝</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/履正社FC" title="wikilink">履正社FC</a> 教員</p></td>
+<td><p><a href="../Page/履正社FC.md" title="wikilink">履正社FC</a> 教員</p></td>
 <td><p>新任</p></td>
 <td></td>
 </tr>
@@ -174,7 +174,7 @@
 <td><p><strong>DF</strong></p></td>
 <td><p><strong>2</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/吉田時雄" title="wikilink">吉田時雄</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/履正社FC" title="wikilink">履正社FC</a></p></td>
+<td><p><a href="../Page/履正社FC.md" title="wikilink">履正社FC</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -208,7 +208,7 @@
 <tr class="odd">
 <td><p><strong>22</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/守安陸" title="wikilink">守安陸</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アルビレックス新潟シンガポール" title="wikilink">アルビレックス新潟シンガポール</a></p></td>
+<td><p><a href="../Page/アルビレックス新潟シンガポール.md" title="wikilink">アルビレックス新潟シンガポール</a></p></td>
 <td><p>新加入</p></td>
 <td></td>
 </tr>
@@ -237,7 +237,7 @@
 <td><p><strong>MF</strong></p></td>
 <td><p><strong>6</strong></p></td>
 <td><p><a href="../Page/田中英雄.md" title="wikilink">田中英雄</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カマタマーレ讃岐" title="wikilink">カマタマーレ讃岐</a></p></td>
+<td><p><a href="../Page/カマタマーレ讃岐.md" title="wikilink">カマタマーレ讃岐</a></p></td>
 <td><p>新加入</p></td>
 </tr>
 <tr class="even">
@@ -245,7 +245,7 @@
 <td><p><a href="../Page/野沢拓也.md" title="wikilink">野沢拓也</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ウーロンゴン・ウルブス" title="wikilink">ウーロンゴン・ウルブス</a></p></td>
 <td><p>新加入<br />
-元<a href="https://ja.wikipedia.org/wiki/サッカー日本代表" title="wikilink">日本代表</a></p></td>
+元<a href="../Page/サッカー日本代表.md" title="wikilink">日本代表</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -257,7 +257,7 @@
 </tr>
 <tr class="even">
 <td><p><strong>10</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/二川孝広" title="wikilink">二川孝広</a></p></td>
+<td><p><a href="../Page/二川孝広.md" title="wikilink">二川孝広</a></p></td>
 <td><p><a href="../Page/栃木SC.md" title="wikilink">栃木SC</a></p></td>
 <td><p>新加入<br />
 元日本代表</p></td>
@@ -287,7 +287,7 @@
 <tr class="even">
 <td><p><strong>29</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/小谷健悟" title="wikilink">小谷健悟</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ギラヴァンツ北九州" title="wikilink">ギラヴァンツ北九州</a></p></td>
+<td><p><a href="../Page/ギラヴァンツ北九州.md" title="wikilink">ギラヴァンツ北九州</a></p></td>
 <td><p>新加入</p></td>
 <td></td>
 </tr>
@@ -329,7 +329,7 @@
 <tr class="even">
 <td><p><strong>39</strong></p></td>
 <td><p><a href="../Page/岡本英也.md" title="wikilink">岡本英也</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/AC長野パルセイロ" title="wikilink">AC長野パルセイロ</a></p></td>
+<td><p><a href="../Page/AC長野パルセイロ.md" title="wikilink">AC長野パルセイロ</a></p></td>
 <td><p>新加入</p></td>
 <td></td>
 </tr>
@@ -348,9 +348,9 @@
   - 2004年 - 2011年、2014年 [村島孝史](https://ja.wikipedia.org/wiki/村島孝史 "wikilink")
   - 2012年 - 2013年 [下松裕](../Page/下松裕.md "wikilink")
   - 2015年 [堀口龍佑](https://ja.wikipedia.org/wiki/堀口龍佑 "wikilink")
-  - 2016年 - 2018年 [山本拓弥](https://ja.wikipedia.org/wiki/山本拓弥 "wikilink")
-  - 2019年 [辻本茂輝](https://ja.wikipedia.org/wiki/辻本茂輝 "wikilink")
-  - 2020年 - [小川佳純](https://ja.wikipedia.org/wiki/小川佳純 "wikilink")
+  - 2016年 - 2018年 [山本拓弥](../Page/山本拓弥.md "wikilink")
+  - 2019年 [辻本茂輝](../Page/辻本茂輝.md "wikilink")
+  - 2020年 - [小川佳純](../Page/小川佳純.md "wikilink")
 
 ## 歴代所属選手
 

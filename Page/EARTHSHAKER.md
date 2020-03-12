@@ -8,7 +8,7 @@
 ## 来歴
 
   - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")、結成。
-  - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")、[伊藤政則](https://ja.wikipedia.org/wiki/伊藤政則 "wikilink")をプロデューサーとして1stアルバムを発売。
+  - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")、[伊藤政則](../Page/伊藤政則.md "wikilink")をプロデューサーとして1stアルバムを発売。
   - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")、元[ノヴェラ](../Page/ノヴェラ.md "wikilink")の永川敏郎が加入。
   - [1993年](../Page/1993年.md "wikilink")、解散を発表。（正式な解散宣言は[1994年](../Page/1994年.md "wikilink")）
   - [1999年](../Page/1999年.md "wikilink")、京都のライブハウス「磔磔」25周年イベントを機に、永川を除くメンバーで再結成。
@@ -19,7 +19,7 @@
   - [西田昌史](../Page/西田昌史.md "wikilink")（ボーカル）
   - [石原慎一郎](https://ja.wikipedia.org/wiki/石原慎一郎 "wikilink")（ギター）
   - [甲斐貴之](https://ja.wikipedia.org/wiki/甲斐貴之 "wikilink")（ベース）
-  - [工藤義弘](https://ja.wikipedia.org/wiki/工藤義弘 "wikilink")（ドラム）
+  - [工藤義弘](../Page/工藤義弘.md "wikilink")（ドラム）
   - [永川敏郎](https://ja.wikipedia.org/wiki/永川敏郎 "wikilink")（キーボード）
 
 ### 旧メンバー
@@ -105,7 +105,7 @@
 <td><p>1987年10月5日</p></td>
 <td><p><strong>AFTER SHOCK</strong></p></td>
 <td><p>UPCY-9799</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ユニバーサルミュージック_(日本)" title="wikilink">ユニバーサルミュージック</a></p></td>
+<td><p><a href="../Page/ユニバーサルミュージック_(日本).md" title="wikilink">ユニバーサルミュージック</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
@@ -140,7 +140,7 @@
 <td><p>1993年5月25日</p></td>
 <td><p><strong>REAL</strong></p></td>
 <td><p>WMC3-38</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン" title="wikilink">ワーナーミュージック・ジャパン</a></p></td>
+<td><p><a href="../Page/ワーナーミュージック・ジャパン.md" title="wikilink">ワーナーミュージック・ジャパン</a></p></td>
 </tr>
 <tr class="even">
 <td><p>12</p></td>
@@ -175,7 +175,7 @@
 <td><p>2004年5月19日</p></td>
 <td><p><strong>Faith</strong></p></td>
 <td><p>EPCE-5281</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アップフロントワークス" title="wikilink">zetima</a></p></td>
+<td><p><a href="../Page/アップフロントワークス.md" title="wikilink">zetima</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>17</p></td>
@@ -183,7 +183,7 @@
 <td><p><strong>AIM</strong></p></td>
 <td><p>XNDC-10006/B<br />
 XNDC-10008</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デンジャークルー・レコード" title="wikilink">DANGER CRUE</a></p></td>
+<td><p><a href="../Page/デンジャークルー・レコード.md" title="wikilink">DANGER CRUE</a></p></td>
 </tr>
 <tr class="even">
 <td><p>18</p></td>
@@ -283,12 +283,12 @@ XNDC-10028</p></td>
 
 ### CM
 
-  - [エースコック](https://ja.wikipedia.org/wiki/エースコック "wikilink") 豚キムチラーメン（2006年）
+  - [エースコック](../Page/エースコック.md "wikilink") 豚キムチラーメン（2006年）
 
 ## 関連項目
 
   - [SLY](../Page/SLY.md "wikilink") (石原慎一郎)
-  - [二井原実](../Page/二井原実.md "wikilink") (オリジナルメンバーでボーカル兼ベース。[1979年](../Page/1979年.md "wikilink")、本格的に[ソウルミュージック](https://ja.wikipedia.org/wiki/ソウルミュージック "wikilink")・[シンガーの勉強をするため脱退](../Page/歌手.md "wikilink")。その際、[バイト仲間であり](../Page/アルバイト.md "wikilink")[ハードロック](../Page/ハードロック.md "wikilink")・[ボーカリスト](https://ja.wikipedia.org/wiki/ボーカリスト "wikilink")としての実力も互いに認め合っていた西田に、EARTHSHAKERへの参加を依頼する。)
+  - [二井原実](../Page/二井原実.md "wikilink") (オリジナルメンバーでボーカル兼ベース。[1979年](../Page/1979年.md "wikilink")、本格的に[ソウルミュージック](../Page/ソウルミュージック.md "wikilink")・[シンガーの勉強をするため脱退](../Page/歌手.md "wikilink")。その際、[バイト仲間であり](../Page/アルバイト.md "wikilink")[ハードロック](../Page/ハードロック.md "wikilink")・[ボーカリスト](https://ja.wikipedia.org/wiki/ボーカリスト "wikilink")としての実力も互いに認め合っていた西田に、EARTHSHAKERへの参加を依頼する。)
   - [HIPS](https://ja.wikipedia.org/wiki/HIPS "wikilink") (西田昌史、[寺田恵子](https://ja.wikipedia.org/wiki/寺田恵子 "wikilink"))
   - [GERARD](../Page/GERARD.md "wikilink") (永川敏郎)
   - [西寺実](https://ja.wikipedia.org/wiki/西寺実 "wikilink") (HIPSの2人に[二井原実](../Page/二井原実.md "wikilink")が加わったユニット)
@@ -301,7 +301,7 @@ XNDC-10028</p></td>
 
 [Category:日本のヘヴィメタル・バンド](https://ja.wikipedia.org/wiki/Category:日本のヘヴィメタル・バンド "wikilink") [Category:日本のハードロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のハードロック・バンド "wikilink") [Category:1978年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1978年に結成した音楽グループ "wikilink") [Category:キングレコードのアーティスト](https://ja.wikipedia.org/wiki/Category:キングレコードのアーティスト "wikilink") [Category:EMIミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのアーティスト "wikilink")
 
-1.  [超音戦士ボーグマン](https://ja.wikipedia.org/wiki/超音戦士ボーグマン "wikilink")前期OPテーマ
+1.  [超音戦士ボーグマン](../Page/超音戦士ボーグマン.md "wikilink")前期OPテーマ
 2.  新曲（スタジオ音源）3曲と、2000年6月、カナダ・バンクーバーで行われたライブからの音源を収録した変則的なアルバム。
 3.  アーティスト非監修ベスト
 4.  全曲再レコーディング音源で収録

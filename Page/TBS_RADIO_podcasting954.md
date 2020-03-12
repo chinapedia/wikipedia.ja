@@ -3,7 +3,7 @@
 
 **TBS RADIO podcasting954**（ティービーエスラジオ ポッドキャスティング954）とは、[TBSラジオ](../Page/TBSラジオ.md "wikilink")がかつて行っていた[ポッドキャスティング](https://ja.wikipedia.org/wiki/ポッドキャスティング "wikilink")ユーザー向けのラジオ放送、またその放送を録音配信する[ウェブサイト](../Page/ウェブサイト.md "wikilink")である。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")開始、[2016年](../Page/2016年.md "wikilink")（平成28年）[6月30日](../Page/6月30日.md "wikilink")サービス終了。
+[2005年](../Page/2005年.md "wikilink")（平成17年）[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")開始、[2016年](../Page/2016年.md "wikilink")（平成28年）[6月30日](../Page/6月30日.md "wikilink")サービス終了。
 
 ## 概要
 
@@ -28,7 +28,7 @@
   - [たまむすび](https://ja.wikipedia.org/wiki/たまむすび "wikilink")☆
       - たまむすび 協会けんぽ健康サポート
       - [伊集院光の週末TSUTAYAに行ってこれ借りよう\!](https://ja.wikipedia.org/wiki/伊集院光の週末TSUTAYAに行ってこれ借りよう! "wikilink")
-  - [荒川強啓 デイ・キャッチ\!](https://ja.wikipedia.org/wiki/荒川強啓_デイ・キャッチ! "wikilink")☆
+  - [荒川強啓 デイ・キャッチ\!](../Page/荒川強啓_デイ・キャッチ!.md "wikilink")☆
   - [パックンマックン・海保知里の英語にThank you\!](https://ja.wikipedia.org/wiki/パックンマックン・海保知里の英語にThank_you! "wikilink")
   - [Kakiiin](../Page/Kakiiin.md "wikilink")
       - 穂花の本当だよ
@@ -44,12 +44,12 @@
       - [爆笑問題カーボーイ](../Page/爆笑問題カーボーイ.md "wikilink")
       - [山里亮太の不毛な議論](https://ja.wikipedia.org/wiki/山里亮太の不毛な議論 "wikilink")
       - [バナナマンのバナナムーン](https://ja.wikipedia.org/wiki/バナナマンのバナナムーン "wikilink")
-      - [おぎやはぎのメガネびいき](https://ja.wikipedia.org/wiki/おぎやはぎのメガネびいき "wikilink")
-      - [エレ片のコント太郎](https://ja.wikipedia.org/wiki/エレ片のコント太郎 "wikilink")
+      - [おぎやはぎのメガネびいき](../Page/おぎやはぎのメガネびいき.md "wikilink")
+      - [エレ片のコント太郎](../Page/エレ片のコント太郎.md "wikilink")
   - [麻木久仁子のニッポン政策研究所](https://ja.wikipedia.org/wiki/麻木久仁子のニッポン政策研究所 "wikilink")
   - [土曜朝イチエンタ。堀尾正明+PLUS\!](https://ja.wikipedia.org/wiki/土曜朝イチエンタ。堀尾正明+PLUS! "wikilink")\[5\]
   - [久米宏 ラジオなんですけど](https://ja.wikipedia.org/wiki/久米宏_ラジオなんですけど "wikilink")☆
-  - [サタデー大人天国\! 宮川賢のパカパカ行進曲\!\!](https://ja.wikipedia.org/wiki/サタデー大人天国!_宮川賢のパカパカ行進曲!! "wikilink")
+  - [サタデー大人天国\! 宮川賢のパカパカ行進曲\!\!](../Page/サタデー大人天国!_宮川賢のパカパカ行進曲!!.md "wikilink")
   - [鈴木おさむ 考えるラジオ](https://ja.wikipedia.org/wiki/鈴木おさむ_考えるラジオ "wikilink")
   - [ライムスター宇多丸のウィークエンド・シャッフル](../Page/ライムスター宇多丸のウィークエンド・シャッフル.md "wikilink")☆
   - [プレシャスサンデー](../Page/プレシャスサンデー.md "wikilink")
@@ -65,7 +65,7 @@
   - ミミガク
   - [ROCK ENTERTAINMENT 高見沢俊彦のロックばん](../Page/ROCK_ENTERTAINMENT_高見沢俊彦のロックばん.md "wikilink")☆
       - ロックばん外伝　高見沢俊彦スペシャル
-  - [文化系トークラジオ Life](https://ja.wikipedia.org/wiki/文化系トークラジオ_Life "wikilink")（本編・スピンオフ編）☆
+  - [文化系トークラジオ Life](../Page/文化系トークラジオ_Life.md "wikilink")（本編・スピンオフ編）☆
   - [OTTAVA](../Page/OTTAVA.md "wikilink")
       - OTTAVA Caffe azzurro
       - OTTAVA Caffe bianco
@@ -82,44 +82,44 @@
 
 ## 過去に配信・更新をしていた番組
 
-  - [ブジオ\!](https://ja.wikipedia.org/wiki/ブジオ! "wikilink")
-  - [〜ちょいモテおやじ養成番組〜ものほん](https://ja.wikipedia.org/wiki/〜ちょいモテおやじ養成番組〜ものほん "wikilink")
-  - [小堺一機のサタデーウィズ](https://ja.wikipedia.org/wiki/小堺一機のサタデーウィズ "wikilink")
-  - [トヨタプレゼンツ 秋元康のドラマティックドライブ〜いつも誰かと〜](https://ja.wikipedia.org/wiki/トヨタプレゼンツ_秋元康のドラマティックドライブ〜いつも誰かと〜 "wikilink")
-  - [あべこうじのポッドキャスト番長](https://ja.wikipedia.org/wiki/あべこうじのポッドキャスト番長 "wikilink")
+  - [ブジオ\!](../Page/ブジオ!.md "wikilink")
+  - [〜ちょいモテおやじ養成番組〜ものほん](../Page/〜ちょいモテおやじ養成番組〜ものほん.md "wikilink")
+  - [小堺一機のサタデーウィズ](../Page/小堺一機のサタデーウィズ.md "wikilink")
+  - [トヨタプレゼンツ 秋元康のドラマティックドライブ〜いつも誰かと〜](../Page/トヨタプレゼンツ_秋元康のドラマティックドライブ〜いつも誰かと〜.md "wikilink")
+  - [あべこうじのポッドキャスト番長](../Page/あべこうじのポッドキャスト番長.md "wikilink")
       -
         **番長せんせい**
     <!-- end list -->
       - [長谷川滋利](../Page/長谷川滋利.md "wikilink")の[野球術](https://ja.wikipedia.org/wiki/長谷川滋利の野球術 "wikilink")
-      - [阿久悠](https://ja.wikipedia.org/wiki/阿久悠 "wikilink")・[大沢悠里](../Page/大沢悠里.md "wikilink")の[悠悠素敵話](https://ja.wikipedia.org/wiki/悠悠素敵話 "wikilink")
+      - [阿久悠](../Page/阿久悠.md "wikilink")・[大沢悠里](../Page/大沢悠里.md "wikilink")の[悠悠素敵話](https://ja.wikipedia.org/wiki/悠悠素敵話 "wikilink")
       - [竹熊健太郎](../Page/竹熊健太郎.md "wikilink")の[たけくまラジオ](https://ja.wikipedia.org/wiki/たけくまラジオ "wikilink")
-      - [堀井憲一郎](https://ja.wikipedia.org/wiki/堀井憲一郎 "wikilink")の[ずんずん落語](https://ja.wikipedia.org/wiki/ずんずん落語 "wikilink")
+      - [堀井憲一郎](../Page/堀井憲一郎.md "wikilink")の[ずんずん落語](https://ja.wikipedia.org/wiki/ずんずん落語 "wikilink")
       - [猪瀬直樹](../Page/猪瀬直樹.md "wikilink")の[ニュースの見張番](https://ja.wikipedia.org/wiki/ニュースの見張番 "wikilink")
-      - [宮台真司](https://ja.wikipedia.org/wiki/宮台真司 "wikilink")の[週刊ミヤダイ](https://ja.wikipedia.org/wiki/週刊ミヤダイ "wikilink")
+      - [宮台真司](https://ja.wikipedia.org/wiki/宮台真司 "wikilink")の[週刊ミヤダイ](../Page/週刊ミヤダイ.md "wikilink")
     <!-- end list -->
       -
         **すっぴん番長**（[ビデオポッドキャスト](https://ja.wikipedia.org/wiki/ビデオポッドキャスト "wikilink")配信）
     <!-- end list -->
-      - [山崎真実](https://ja.wikipedia.org/wiki/山崎真実 "wikilink")の[イヤならいうてな](https://ja.wikipedia.org/wiki/山崎真実のイヤならいうてな! "wikilink")
-      - [加藤夏希](https://ja.wikipedia.org/wiki/加藤夏希 "wikilink")の[ニュータイプ英単語](https://ja.wikipedia.org/wiki/加藤夏希のニュータイプ英単語 "wikilink")
-      - [相武紗季](https://ja.wikipedia.org/wiki/相武紗季 "wikilink")の[ハッピータイム\!](https://ja.wikipedia.org/wiki/相武紗季のハッピータイム! "wikilink")
-      - [高部あい](https://ja.wikipedia.org/wiki/高部あい "wikilink")の[ラジオdeあいでチュッ](https://ja.wikipedia.org/wiki/高部あい_ラジオdeあいでチュッ "wikilink")
+      - [山崎真実](https://ja.wikipedia.org/wiki/山崎真実 "wikilink")の[イヤならいうてな](../Page/山崎真実のイヤならいうてな!.md "wikilink")
+      - [加藤夏希](https://ja.wikipedia.org/wiki/加藤夏希 "wikilink")の[ニュータイプ英単語](../Page/加藤夏希のニュータイプ英単語.md "wikilink")
+      - [相武紗季](https://ja.wikipedia.org/wiki/相武紗季 "wikilink")の[ハッピータイム\!](../Page/相武紗季のハッピータイム!.md "wikilink")
+      - [高部あい](../Page/高部あい.md "wikilink")の[ラジオdeあいでチュッ](https://ja.wikipedia.org/wiki/高部あい_ラジオdeあいでチュッ "wikilink")
   - [四番なかやま](https://ja.wikipedia.org/wiki/四番なかやま "wikilink")
   - [ふるチン](https://ja.wikipedia.org/wiki/ふるチン "wikilink")
-  - [唐沢俊一のポケット](https://ja.wikipedia.org/wiki/唐沢俊一のポケット "wikilink")
+  - [唐沢俊一のポケット](../Page/唐沢俊一のポケット.md "wikilink")
   - JUNK
       - [極楽とんぼの吠え魂](../Page/極楽とんぼの吠え魂.md "wikilink")
-      - [JUNK 交流戦スペシャル](https://ja.wikipedia.org/wiki/JUNK_交流戦スペシャル "wikilink")
-      - [雨上がり決死隊べしゃりブリンッ\!](https://ja.wikipedia.org/wiki/雨上がり決死隊べしゃりブリンッ! "wikilink")
-      - [アンタッチャブルのシカゴマンゴ](https://ja.wikipedia.org/wiki/アンタッチャブルのシカゴマンゴ "wikilink")
+      - [JUNK 交流戦スペシャル](../Page/JUNK_交流戦スペシャル.md "wikilink")
+      - [雨上がり決死隊べしゃりブリンッ\!](../Page/雨上がり決死隊べしゃりブリンッ!.md "wikilink")
+      - [アンタッチャブルのシカゴマンゴ](../Page/アンタッチャブルのシカゴマンゴ.md "wikilink")
       - [加藤浩次の吠え魂](../Page/加藤浩次の吠え魂.md "wikilink")
   - JUNK2
       - [波田陽区の中までテキーラ\!](https://ja.wikipedia.org/wiki/波田陽区の中までテキーラ! "wikilink")
       - [笑い飯のトランジスタラジオくん](https://ja.wikipedia.org/wiki/笑い飯のトランジスタラジオくん "wikilink")
-      - [スピードワゴンのキャラメル on the beach](https://ja.wikipedia.org/wiki/スピードワゴンのキャラメル_on_the_beach "wikilink")
+      - [スピードワゴンのキャラメル on the beach](../Page/スピードワゴンのキャラメル_on_the_beach.md "wikilink")
       - [タカアンドトシのケチャケチャラジオ](https://ja.wikipedia.org/wiki/タカアンドトシのケチャケチャラジオ "wikilink")
       - [カンニング竹山 生はダメラジオ](https://ja.wikipedia.org/wiki/カンニング竹山_生はダメラジオ "wikilink")
-  - [夜な夜なニュースいぢり X-Radio バツラジ](https://ja.wikipedia.org/wiki/夜な夜なニュースいぢり_X-Radio_バツラジ "wikilink")
+  - [夜な夜なニュースいぢり X-Radio バツラジ](../Page/夜な夜なニュースいぢり_X-Radio_バツラジ.md "wikilink")
       - バツラジ×[DIME](https://ja.wikipedia.org/wiki/DIME_\(雑誌\) "wikilink")
       - [若林史江](https://ja.wikipedia.org/wiki/若林史江 "wikilink")の株いぢり
       - バツラジ×[REBOOT](https://ja.wikipedia.org/wiki/リブート_\(曖昧さ回避\) "wikilink")
@@ -131,18 +131,18 @@
   - [MIXUP](../Page/MIXUP.md "wikilink")
       - [坂本真綾 地図と手紙と恋のうた](../Page/坂本真綾_地図と手紙と恋のうた.md "wikilink")
       - [瓜生明希葉 a piece of laughing](https://ja.wikipedia.org/wiki/瓜生明希葉_a_piece_of_laughing "wikilink")
-  - [ストリーム](https://ja.wikipedia.org/wiki/ストリーム_\(TBSラジオ\) "wikilink")
+  - [ストリーム](../Page/ストリーム_\(TBSラジオ\).md "wikilink")
   - [サタケミキオと宅間孝行](../Page/サタケミキオと宅間孝行.md "wikilink")
   - [ビビる大木のSPORTS☆STAR\!\!](../Page/ビビる大木のSPORTS☆STAR!!.md "wikilink")
   - [R25「ナイスQ」編集部](https://ja.wikipedia.org/wiki/R25「ナイスQ」編集部 "wikilink")
   - [全国おとな電話相談室](../Page/全国おとな電話相談室.md "wikilink")
   - [やべきょうすけのnextクローズ](https://ja.wikipedia.org/wiki/やべきょうすけのnextクローズ "wikilink")
   - [アスリーと〜く](https://ja.wikipedia.org/wiki/アスリーと〜く "wikilink")
-  - [セインカミュ](https://ja.wikipedia.org/wiki/セイン・カミュ "wikilink") Indies picks\! from YoroZoo
+  - [セインカミュ](../Page/セイン・カミュ.md "wikilink") Indies picks\! from YoroZoo
   - [大沢悠里のゆうゆうワイド](../Page/大沢悠里のゆうゆうワイド.md "wikilink")
       - [ハートオブメニュー](../Page/味の素_ハート・オブ・ポップス.md "wikilink")
   - [BATTLE TALK RADIO アクセス](../Page/BATTLE_TALK_RADIO_アクセス.md "wikilink")
-  - [Science Xitalk](https://ja.wikipedia.org/wiki/Science_Xitalk "wikilink")（更新は、放送が行われるナイターオフ期間のみ）
+  - [Science Xitalk](../Page/Science_Xitalk.md "wikilink")（更新は、放送が行われるナイターオフ期間のみ）
   - [Apple](../Page/アップル_\(企業\).md "wikilink") CLIP
   - "[眞鍋かをり](https://ja.wikipedia.org/wiki/眞鍋かをり "wikilink")"のポッドキャスト [Tokyo Local](https://ja.wikipedia.org/wiki/Tokyo_Local "wikilink")\[6\]
   - [ともとものヤギさん、おいで〜♪](https://ja.wikipedia.org/wiki/ともとものヤギさん、おいで〜♪ "wikilink")（のちに改題、有料化）
@@ -161,6 +161,6 @@
 1.  [TBS RADIO podcasting954 お知らせ](http://www.tbsradio.jp/info.html)
 2.  [3時台コラム 2010年12月02日](http://www.tbsradio.jp/kirakira/2010/12/20101202-2.html)
 3.  [TBSラジオ、ポッドキャスト終了 10年超の歴史に幕 「収益化のめどが立たないため」](http://www.itmedia.co.jp/news/articles/1606/06/news112.html) - ITmedia・2016年6月6日
-4.  [話題のアンテナ 日本全国8時ですを含む](https://ja.wikipedia.org/wiki/話題のアンテナ_日本全国8時です "wikilink")
+4.  [話題のアンテナ 日本全国8時ですを含む](../Page/話題のアンテナ_日本全国8時です.md "wikilink")
 5.
 6.  [“眞鍋かをり”のポッドキャスト Tokyo Local](http://tokyolocal.jp/)

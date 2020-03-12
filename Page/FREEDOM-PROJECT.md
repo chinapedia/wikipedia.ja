@@ -1,7 +1,7 @@
 > この記事は[FREEDOM-PROJECT](https://ja.wikipedia.org/wiki/FREEDOM-PROJECT)から翻訳されています。
 
 
-**FREEDOM-PROJECT**（フリーダム・プロジェクト）とは、[日清食品](https://ja.wikipedia.org/wiki/日清食品 "wikilink")の[カップヌードル](../Page/カップヌードル.md "wikilink")の広告として企画され、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")にかけて行われたプロモーション・プロジェクト\[1\]。
+**FREEDOM-PROJECT**（フリーダム・プロジェクト）とは、[日清食品](https://ja.wikipedia.org/wiki/日清食品 "wikilink")の[カップヌードル](../Page/カップヌードル.md "wikilink")の広告として企画され、[2006年](../Page/2006年.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")にかけて行われたプロモーション・プロジェクト\[1\]。
 
 本稿では同プロジェクトで製作された[テレビ](../Page/テレビ.md "wikilink")[コマーシャルや](../Page/コマーシャルメッセージ.md "wikilink")[OVA](../Page/OVA.md "wikilink")のほか、[ノベライズ作品についても解説する](../Page/小説化.md "wikilink")。
 
@@ -11,13 +11,13 @@
 
 連動企画としてキャラクター[ライツ](https://ja.wikipedia.org/wiki/ライツ "wikilink")商品の発売と、広告作品をモチーフとした[SFアニメ](https://ja.wikipedia.org/wiki/SFアニメ "wikilink")『**FREEDOM**』が制作され、[OVAとして市販化されている](https://ja.wikipedia.org/wiki/オリジナルビデオアニメーション "wikilink")。テレビCMとOVA作品は連動しているように見えるが、相違点も多い。プロジェクト全体の企画・広告制作は[電通](../Page/電通.md "wikilink")が担当している。
 
-CM・OVAのテーマソングを[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")が提供し、「[This Is Love](https://ja.wikipedia.org/wiki/ULTRA_BLUE "wikilink")\[2\]」はこの企画のために書き下ろされた。
+CM・OVAのテーマソングを[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")が提供し、「[This Is Love](../Page/ULTRA_BLUE.md "wikilink")\[2\]」はこの企画のために書き下ろされた。
 
 OVA作品の『**FREEDOM**』は、[Yahoo\!動画](https://ja.wikipedia.org/wiki/Yahoo!動画 "wikilink")での先行[ストリーミング](../Page/ストリーミング.md "wikilink")放送された後に[DVD](../Page/DVD.md "wikilink")として発売された。当初1話約30分・全6話を予定していたが、特別編として7話目にあたる『**FREEDOM SEVEN**』が追加され \[3\]、完結となった。
 
   - [キャッチコピー](../Page/キャッチコピー.md "wikilink"): 「FREEDOM 自由を掴め。」
-  - 製作: FREEDOM 製作委員会（[バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")（[エモーション](https://ja.wikipedia.org/wiki/エモーション_\(バンダイナムコグループ\) "wikilink")）・[サンライズ](https://ja.wikipedia.org/wiki/サンライズ_\(アニメ制作会社\) "wikilink")・[電通](../Page/電通.md "wikilink")）
-  - アニメーション制作: [サンライズ](https://ja.wikipedia.org/wiki/サンライズ_\(アニメ制作会社\) "wikilink")
+  - 製作: FREEDOM 製作委員会（[バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")（[エモーション](https://ja.wikipedia.org/wiki/エモーション_\(バンダイナムコグループ\) "wikilink")）・[サンライズ](../Page/サンライズ_\(アニメ制作会社\).md "wikilink")・[電通](../Page/電通.md "wikilink")）
+  - アニメーション制作: [サンライズ](../Page/サンライズ_\(アニメ制作会社\).md "wikilink")
   - 楽曲提供: 宇多田ヒカル（CM第1弾 - 第8弾/OVA1 - 6）
       - CM第1弾 - 第4弾/OVA1・2・3・4・5・6テーマソング　『This Is Love』
       - CM第5弾 - 第8弾/『Kiss & Cry\[4\]』
@@ -28,13 +28,13 @@ OVA作品の『**FREEDOM**』は、[Yahoo\!動画](https://ja.wikipedia.org/wiki
 
 ### ストーリー
 
-[23世紀](https://ja.wikipedia.org/wiki/23世紀 "wikilink")、人類は[月](https://ja.wikipedia.org/wiki/月 "wikilink")に移住していた。「科学技術の研究の自由」「地球への渡航の自由」が奪われた月共和国**「EDEN」**（エデン）では、高度の放射能によって地球文明は崩壊したと伝わっている。一方的に与えられる自由に不満を持つ**タケル**は、本当の自由を求める中で、EDENがひた隠しにしていたある真実に触れてしまう。
+[23世紀](../Page/23世紀.md "wikilink")、人類は[月](https://ja.wikipedia.org/wiki/月 "wikilink")に移住していた。「科学技術の研究の自由」「地球への渡航の自由」が奪われた月共和国**「EDEN」**（エデン）では、高度の放射能によって地球文明は崩壊したと伝わっている。一方的に与えられる自由に不満を持つ**タケル**は、本当の自由を求める中で、EDENがひた隠しにしていたある真実に触れてしまう。
 
 ### 登場人物
 
 表記は「**人物名：[キャスト（声優）](../Page/声優.md "wikilink")**」
 
-  - タケル：[浪川大輔](https://ja.wikipedia.org/wiki/浪川大輔 "wikilink")
+  - タケル：[浪川大輔](../Page/浪川大輔.md "wikilink")
     15歳。身長170cm。[日系人](https://ja.wikipedia.org/wiki/日系人 "wikilink")の父母のもとに生まれた月移民のフォースジェネレーション。腕輪（後述）のナンバーはBD4483M。
     無類のカップヌードル好き。感情的な熱血漢だが、女性と接するのが苦手。地球に行くことに興味を持っている。違法改造ビークルで事故を起こし、罰としてボランティア活動を行っている最中ある写真を手に入れ、写真に写っている少女に一目惚れし、地球に行くことを決意する。
     アランの伝を頼り、EDEN運営局の妨害に遭いながらも脱出船を発見、カズマたちの協力で地球に到着する。地球の雄大で厳しい自然に一喜一憂しながらも目的の少女に出会うことに成功する。後にその目的の少女と共に月に向かう。
@@ -45,30 +45,30 @@ OVA作品の『**FREEDOM**』は、[Yahoo\!動画](https://ja.wikipedia.org/wiki
     15歳。身長160cm。本名はビスマルク。ナンバーはCL4496M。
     タケルの親友の一人。内向的かつ人見知りな性格をしており、ひねくれ者な面もある。ビークルの操縦はうまくないが、頭脳明晰でメカニックが得意。
     タケルが違法改造ビークルで事故を起こした際一緒にいたため、連帯責任でボランティア活動を行っている最中、アランと知り合う。その後いやいやながらもタケル達に協力、脱出船を発見。テスト中にEDEN運営局に見つかり、成り行きでタケルと共に地球に到着する。地球ではビークルを地球の大地でも走れるように改造したり、タケルの出会いを後押しするなど、彼の支えとなる。
-  - ジャンク屋の親父：[松本大](https://ja.wikipedia.org/wiki/松本大_\(声優\) "wikilink")
+  - ジャンク屋の親父：[松本大](../Page/松本大_\(声優\).md "wikilink")
     EDEN内のビークルショップ「ムーンレイカー」の店主。タケル達に無料でガレージを貸し出している親父。身長189cm。
   - タイラ：[桐本琢也](https://ja.wikipedia.org/wiki/桐本琢也 "wikilink")
     15歳。身長171cm。ナンバーはGZ4466M。
     ビークルチーム「ムーンシャイン」を率いるリーダー。2年連続のチューブレースチャンプ。何かとタケル達にからんで来る。鼻孔拡張テープを常に貼り付けている。他のEDEN市民と同様に地球はすでに滅んでいると考えており、タケルを小馬鹿にする。だが、タケル達が地球に出発する際に手を貸し、その後カズマと共に拘束される。
-  - アラン：[加藤精三](https://ja.wikipedia.org/wiki/加藤精三_\(声優\) "wikilink")
+  - アラン：[加藤精三](../Page/加藤精三_\(声優\).md "wikilink")
     本名はニコル。EDENの一画であるDOM区の管理者を務める物知りな老人。タケルたちにはレースや地球行きのための援助をしている。EDENの内部事情にも非常に詳しい。エデン建設時から受け継がれていた「フリーダム・プロジェクト」のオリジナルメンバーの一人で火星開発公団の元責任者。ナンバーはPK7953M。
   - アオ：[小林沙苗](../Page/小林沙苗.md "wikilink")
     タケルがボランティア中に拾った写真に写っていた少女。地球の「[フロリダ](https://ja.wikipedia.org/wiki/フロリダ "wikilink")」という場所にいる。タケルが地球を目指すことになるきっかけとなった。優しくてしっかり者。親のいない子供たちの母親代わりをつとめている。後にタケルと共に月へ向かう。
-  - 官吏：[咲野俊介](https://ja.wikipedia.org/wiki/咲野俊介 "wikilink")
+  - 官吏：[咲野俊介](../Page/咲野俊介.md "wikilink")
     EDEN運営局の人間。地球やEDENに疑問を持ち始めたタケル達をひそかにマークし続けていた。
-  - 司政官：[柴田秀勝](https://ja.wikipedia.org/wiki/柴田秀勝 "wikilink")
+  - 司政官：[柴田秀勝](../Page/柴田秀勝.md "wikilink")
     月面都市EDENを運営・管理する市民たちの代表。EDENの秩序や平和を乱す者を排除する役目を担う。地球やEDENに疑問を持ちはじめたタケルたちを秘かに監視している。彼はセカンド・デイという10年前に起きたテロ事件で狙われていたという噂がある。そのテロの影響で左目を失ってしまい、右目だけしか開けない。
-  - チヨ：[仙台エリ](https://ja.wikipedia.org/wiki/仙台エリ "wikilink")
+  - チヨ：[仙台エリ](../Page/仙台エリ.md "wikilink")
     カズマの一歳年下の妹。タケルは彼女にほれたが、すでに彼氏がいた。ナンバーはCC4246F。
-  - デイビット：[西前忠久](https://ja.wikipedia.org/wiki/西前忠久 "wikilink")
+  - デイビット：[西前忠久](../Page/西前忠久.md "wikilink")
     タケルたちが地球で出会ったバスの運転手。将来の夢は宇宙船のパイロットらしい。タケルたちが月から来たということを信じた、唯一の人物。
   - マイケル：[西脇保](../Page/西脇保.md "wikilink")
     ヒッピーバスの乗客のひとり。長身でアフロヘアーにバンダナを巻いている。自称「木星人」。
   - ジェームズ：[出先拓也](https://ja.wikipedia.org/wiki/出先拓也 "wikilink")
     缶ビールを載せたヘルメットを被っている。全身タイツが地球での正装だとタケル達に教える。
-  - ブルアース：[松本大](https://ja.wikipedia.org/wiki/松本大_\(声優\) "wikilink")
+  - ブルアース：[松本大](../Page/松本大_\(声優\).md "wikilink")
     アオが住む村の住人の一人で、村のリーダー的存在。今年のロケット祭の準備を取り仕切っている。エデン内のビークルショップ「ムーンレイカー」の主人とそっくりなため、タケルとビスは初めて会ったときに見間違えた。アンナマリーの兄。
-  - アンナマリー：[秀島史香](https://ja.wikipedia.org/wiki/秀島史香 "wikilink")
+  - アンナマリー：[秀島史香](../Page/秀島史香.md "wikilink")
     地球のフロリダからラジオを発信している女性[DJ](../Page/ディスクジョッキー.md "wikilink")。近辺の村周辺の情報や音楽を提供している。ブルアースの妹。
 
 ### 用語
@@ -113,13 +113,13 @@ OVA作品の『**FREEDOM**』は、[Yahoo\!動画](https://ja.wikipedia.org/wiki
 
   - 企画・原案 - [高松聡](https://ja.wikipedia.org/wiki/高松聡 "wikilink")
   - 監督 - [森田修平](https://ja.wikipedia.org/wiki/森田修平 "wikilink")
-  - シリーズ構成 - [佐藤大](https://ja.wikipedia.org/wiki/佐藤大 "wikilink")、[千葉克彦](../Page/千葉克彦.md "wikilink")
+  - シリーズ構成 - [佐藤大](../Page/佐藤大.md "wikilink")、[千葉克彦](../Page/千葉克彦.md "wikilink")
   - キャラクター&メカニックデザイン - 大友克洋
   - キャラクターデザイン - [桟敷大祐](https://ja.wikipedia.org/wiki/桟敷大祐 "wikilink")、[入江篤](https://ja.wikipedia.org/wiki/入江篤 "wikilink")
   - メカニックデザイン - [末武康光](https://ja.wikipedia.org/wiki/末武康光 "wikilink")
   - 世界観設定 - [渡部隆](https://ja.wikipedia.org/wiki/渡部隆 "wikilink")、[曽野由大](https://ja.wikipedia.org/wiki/曽野由大 "wikilink")、[青木智由紀](https://ja.wikipedia.org/wiki/青木智由紀 "wikilink")
   - CGI監督 - [佐藤広大](https://ja.wikipedia.org/wiki/佐藤広大 "wikilink")
-  - エフェクトアニメーション - [橋本敬史](https://ja.wikipedia.org/wiki/橋本敬史 "wikilink")
+  - エフェクトアニメーション - [橋本敬史](../Page/橋本敬史.md "wikilink")
   - 美術監督 - 市倉敬
   - 色彩設計 - 安部なぎさ
   - 画面設計 - 山浦晶代
@@ -150,9 +150,9 @@ OVA作品の『**FREEDOM**』は、[Yahoo\!動画](https://ja.wikipedia.org/wiki
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/まついひとゆき" title="wikilink">まついひとゆき</a></p></td>
+<td><p><a href="../Page/まついひとゆき.md" title="wikilink">まついひとゆき</a></p></td>
 <td><p><a href="../Page/堀内博之.md" title="wikilink">堀内博之</a><br />
-<a href="https://ja.wikipedia.org/wiki/橋本敬史" title="wikilink">橋本敬史</a>（エフェクト）</p></td>
+<a href="../Page/橋本敬史.md" title="wikilink">橋本敬史</a>（エフェクト）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -165,7 +165,7 @@ OVA作品の『**FREEDOM**』は、[Yahoo\!動画](https://ja.wikipedia.org/wiki
 </tr>
 <tr class="even">
 <td><p>4</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/佐藤大" title="wikilink">佐藤大</a></p></td>
+<td><p><a href="../Page/佐藤大.md" title="wikilink">佐藤大</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/森田修平" title="wikilink">森田修平</a></p></td>
 <td><p><a href="../Page/松尾衡.md" title="wikilink">松尾衡</a></p></td>
 <td><p>入江篤<br />
@@ -173,7 +173,7 @@ OVA作品の『**FREEDOM**』は、[Yahoo\!動画](https://ja.wikipedia.org/wiki
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/野村祐一" title="wikilink">野村祐一</a></p></td>
+<td><p><a href="../Page/野村祐一.md" title="wikilink">野村祐一</a></p></td>
 <td><p>安藤裕章</p></td>
 <td><p>堀内博之</p></td>
 <td></td>
@@ -299,7 +299,7 @@ OVA作品の『**FREEDOM**』は、[Yahoo\!動画](https://ja.wikipedia.org/wiki
 [Category:CM](https://ja.wikipedia.org/wiki/Category:CM "wikilink") [Category:アニメ作品_ふ](https://ja.wikipedia.org/wiki/Category:アニメ作品_ふ "wikilink") [Category:サンライズ作品](https://ja.wikipedia.org/wiki/Category:サンライズ作品 "wikilink") [Category:バンダイビジュアルのアニメ作品](https://ja.wikipedia.org/wiki/Category:バンダイビジュアルのアニメ作品 "wikilink") [Category:2006年のOVA](https://ja.wikipedia.org/wiki/Category:2006年のOVA "wikilink") [Category:ディストピアを題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:ディストピアを題材としたアニメ作品 "wikilink") [Category:SFアニメ](https://ja.wikipedia.org/wiki/Category:SFアニメ "wikilink") [Category:月を舞台とした作品](https://ja.wikipedia.org/wiki/Category:月を舞台とした作品 "wikilink") [Category:カップヌードル](https://ja.wikipedia.org/wiki/Category:カップヌードル "wikilink") [Category:日清食品の歴史](https://ja.wikipedia.org/wiki/Category:日清食品の歴史 "wikilink") [Category:ガガガ文庫](https://ja.wikipedia.org/wiki/Category:ガガガ文庫 "wikilink") [Category:大友克洋](https://ja.wikipedia.org/wiki/Category:大友克洋 "wikilink")
 
 1.  [日清食品：会社情報：ニュースリリース - 日清カップヌードル　新広告展開](http://www.nissinfoods.co.jp/com/news/news_994_2006_4.html)
-2.  [音楽配信](../Page/音楽配信.md "wikilink")サイトによる先行[ダウンロード販売](../Page/ダウンロード販売.md "wikilink")が行われ、宇多田ヒカル4枚目のオリジナルアルバム [ULTRA BLUE収録](https://ja.wikipedia.org/wiki/ULTRA_BLUE "wikilink")。
+2.  [音楽配信](../Page/音楽配信.md "wikilink")サイトによる先行[ダウンロード販売](../Page/ダウンロード販売.md "wikilink")が行われ、宇多田ヒカル4枚目のオリジナルアルバム [ULTRA BLUE収録](../Page/ULTRA_BLUE.md "wikilink")。
 3.  [「FREEDOM」FREEDOM SEVEN 5月発売決定](http://animeanime.jp/news/archives/2008/01/freedomfreedom.html)
 4.  This Is Loveと同じく音楽配信サイトによる先行ダウンロード販売が行われ、両A面シングル[Beautiful World/Kiss & Cryとして](https://ja.wikipedia.org/wiki/Beautiful_World/Kiss_&_Cry "wikilink")2007年8月29日に発売。
 5.  2006年7月16日号NO.543（7月2日発売）

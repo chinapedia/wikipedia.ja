@@ -1,15 +1,15 @@
 > この記事は[SC](https://ja.wikipedia.org/wiki/SC)から翻訳されています。
 
 
-**全神栖サッカークラブ**（ぜんかみすサッカークラブ、全神栖SC、*All Kamisu Soccer Club*）は[茨城県](https://ja.wikipedia.org/wiki/茨城県 "wikilink")[神栖市](https://ja.wikipedia.org/wiki/神栖市 "wikilink")を本拠地として活動している社会人サッカーのクラブチーム。
+**全神栖サッカークラブ**（ぜんかみすサッカークラブ、全神栖SC、*All Kamisu Soccer Club*）は[茨城県](../Page/茨城県.md "wikilink")[神栖市](https://ja.wikipedia.org/wiki/神栖市 "wikilink")を本拠地として活動している社会人サッカーのクラブチーム。
 
 ホームスタジアムは神栖市立若松総合運動場。練習グランドは神栖総合公園サッカー場。
 
 ## 歴史
 
   - [1991年](../Page/1991年.md "wikilink") [神栖高校サッカー部OBによって](../Page/茨城県立神栖高等学校.md "wikilink")**神栖クラブ**創部。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") [関東社会人サッカー大会](https://ja.wikipedia.org/wiki/関東社会人サッカー大会 "wikilink")準優勝。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink") [関東サッカーリーグ](https://ja.wikipedia.org/wiki/関東サッカーリーグ "wikilink")2部昇格。
+  - [2005年](../Page/2005年.md "wikilink") [関東社会人サッカー大会](../Page/関東社会人サッカー大会.md "wikilink")準優勝。
+  - [2006年](../Page/2006年.md "wikilink") [関東サッカーリーグ](../Page/関東サッカーリーグ.md "wikilink")2部昇格。
   - [2009年](../Page/2009年.md "wikilink") 同年シーズン限りで解散。
   - [2013年](../Page/2013年.md "wikilink") [波崎柳川高校サッカー部OBによって再結成](https://ja.wikipedia.org/wiki/茨城県立波崎柳川高等学校 "wikilink")。
 
@@ -32,7 +32,7 @@
 | 2003 | 7位                                                              |        |    |    |   |   |    |    |     |                                                       |                                                       |
 | 2004 | 8位                                                              |        |    |    |   |   |    |    |     |                                                       |                                                       |
 | 2005 | 2位                                                              | 28     | 14 | 8  | 4 | 2 | 35 | 22 | 13  |                                                       |                                                       |
-| 2006 | [関東](https://ja.wikipedia.org/wiki/関東サッカーリーグ "wikilink")2部      | 8位     | 5  | 14 | 1 | 2 | 11 | 17 | 41  | \-24                                                  |                                                       |
+| 2006 | [関東](../Page/関東サッカーリーグ.md "wikilink")2部                         | 8位     | 5  | 14 | 1 | 2 | 11 | 17 | 41  | \-24                                                  |                                                       |
 | 2007 | 茨城県1部                                                           | 2位     | 23 | 13 | 7 | 2 | 4  | 30 | 17  | 13                                                    |                                                       |
 | 2008 | 4位                                                              | 22     | 14 | 6  | 4 | 4 | 26 | 19 | \+7 | [吉澤充](https://ja.wikipedia.org/wiki/吉澤充 "wikilink")   |                                                       |
 | 2009 | 5位                                                              | 20     | 14 | 5  | 5 | 4 | 21 | 21 | 0   |                                                       |                                                       |

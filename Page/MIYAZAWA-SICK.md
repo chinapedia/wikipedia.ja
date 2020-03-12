@@ -1,7 +1,7 @@
 > この記事は[MIYAZAWA-SICK](https://ja.wikipedia.org/wiki/MIYAZAWA-SICK)から翻訳されています。
 
 
-「**MIYAZAWA-SICK**」（ミヤザワシック）は、[THE BOOMおよび](https://ja.wikipedia.org/wiki/THE_BOOM "wikilink")[GANGA ZUMBAのボーカリスト](https://ja.wikipedia.org/wiki/GANGA_ZUMBA "wikilink")・[宮沢和史](https://ja.wikipedia.org/wiki/宮沢和史 "wikilink")が[2003年](../Page/2003年.md "wikilink")[1月16日](https://ja.wikipedia.org/wiki/1月16日 "wikilink")に発表した、初のソロ・[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")である。
+「**MIYAZAWA-SICK**」（ミヤザワシック）は、[THE BOOMおよび](../Page/THE_BOOM.md "wikilink")[GANGA ZUMBAのボーカリスト](../Page/GANGA_ZUMBA.md "wikilink")・[宮沢和史](../Page/宮沢和史.md "wikilink")が[2003年](../Page/2003年.md "wikilink")[1月16日](https://ja.wikipedia.org/wiki/1月16日 "wikilink")に発表した、初のソロ・[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")である。
 
 ## 概要
 
@@ -24,7 +24,7 @@
 13. 遠い町で
 14. Canción de la Isla (Shima Uta)
       -
-        [THE BOOMの曲](https://ja.wikipedia.org/wiki/THE_BOOM "wikilink")「[島唄](../Page/島唄_\(THE_BOOM\).md "wikilink")」のスペイン語バージョン。
+        [THE BOOMの曲](../Page/THE_BOOM.md "wikilink")「[島唄](../Page/島唄_\(THE_BOOM\).md "wikilink")」のスペイン語バージョン。
 
 ## 外部リンク
 

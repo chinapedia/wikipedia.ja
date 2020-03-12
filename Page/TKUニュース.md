@@ -1,12 +1,12 @@
 > この記事は[TKU](https://ja.wikipedia.org/wiki/TKU)から翻訳されています。
 
 
-『**TKUニュース**』（ティーケーユーニュース）は、[テレビ熊本](../Page/テレビ熊本.md "wikilink")で放送されているローカル[ニュース番組](../Page/報道番組.md "wikilink")（[スポットニュース](https://ja.wikipedia.org/wiki/スポットニュース "wikilink")）である。
+『**TKUニュース**』（ティーケーユーニュース）は、[テレビ熊本](../Page/テレビ熊本.md "wikilink")で放送されているローカル[ニュース番組](../Page/報道番組.md "wikilink")（[スポットニュース](../Page/スポットニュース.md "wikilink")）である。
 
 ## 概要
 
   - [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")内のローカルニュースを伝える[帯番組](https://ja.wikipedia.org/wiki/帯番組 "wikilink")。
-  - 2018年3月31日までは[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[スポットニュース](https://ja.wikipedia.org/wiki/スポットニュース "wikilink")『[THE NEWSα Pick](https://ja.wikipedia.org/wiki/THE_NEWSα_Pick "wikilink")』の差し替えで放送。原則として基本的に週7日間(月曜〜金曜はローカル、土曜・日曜は「THE NEWSα Pick」をネット)放送していたが、同日のゴールデンタイムに特別番組が放送される日には繰り下げられたり放送休止になる場合があった。
+  - 2018年3月31日までは[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[スポットニュース](../Page/スポットニュース.md "wikilink")『[THE NEWSα Pick](https://ja.wikipedia.org/wiki/THE_NEWSα_Pick "wikilink")』の差し替えで放送。原則として基本的に週7日間(月曜〜金曜はローカル、土曜・日曜は「THE NEWSα Pick」をネット)放送していたが、同日のゴールデンタイムに特別番組が放送される日には繰り下げられたり放送休止になる場合があった。
   - フジテレビが『[産経テレニュースFNN](https://ja.wikipedia.org/wiki/産経テレニュースFNN "wikilink")』を放送していた頃には、日曜の朝と昼のニュースもこのタイトルに差し替えられていた。
 
 ## 関連項目

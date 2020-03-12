@@ -1,7 +1,7 @@
 > この記事は[Passage \(\)](https://ja.wikipedia.org/wiki/Passage_\(\))から翻訳されています。
 
 
-「**Passage**」（パッセージ）は、[山崎まさよし](https://ja.wikipedia.org/wiki/山崎まさよし "wikilink")通算9枚目の[シングル](../Page/シングル.md "wikilink")。1999年10月14日発売。発売元は[ポリドール・レコード](https://ja.wikipedia.org/wiki/ポリドール・レコード "wikilink")。
+「**Passage**」（パッセージ）は、[山崎まさよし](https://ja.wikipedia.org/wiki/山崎まさよし "wikilink")通算9枚目の[シングル](../Page/シングル.md "wikilink")。1999年10月14日発売。発売元は[ポリドール・レコード](../Page/ポリドール・レコード.md "wikilink")。
 
 ## 解説
 
@@ -51,7 +51,7 @@
 
 ## 関連項目
 
-  - [江古田](https://ja.wikipedia.org/wiki/江古田 "wikilink")
-  - [オフィスオーガスタ](https://ja.wikipedia.org/wiki/オフィスオーガスタ "wikilink")
+  - [江古田](../Page/江古田.md "wikilink")
+  - [オフィスオーガスタ](../Page/オフィスオーガスタ.md "wikilink")
 
 [Category:山崎まさよしの楽曲](https://ja.wikipedia.org/wiki/Category:山崎まさよしの楽曲 "wikilink") [Category:山崎まさよしが制作した楽曲](https://ja.wikipedia.org/wiki/Category:山崎まさよしが制作した楽曲 "wikilink") [Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:旅行を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:旅行を題材とした楽曲 "wikilink") [Category:楽曲_は](https://ja.wikipedia.org/wiki/Category:楽曲_は "wikilink")

@@ -94,7 +94,7 @@
 ## ドラマCD
 
   - Parallel Harmony+ さらば ぱられるはぁもに〜 愛の戦士たち…?
-    [2002年](../Page/2002年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")に発売された。[小泉総理](https://ja.wikipedia.org/wiki/小泉純一郎 "wikilink")（当時）など時事ネタを取り入れたり、与党の支持母体である某巨大宗教団体をネタにしたり、[ドラマCD](https://ja.wikipedia.org/wiki/ドラマCD "wikilink")にもかかわらず伏字を多様化するなど、作品のノリを変えずに作られた。
+    [2002年](../Page/2002年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")に発売された。[小泉総理](https://ja.wikipedia.org/wiki/小泉純一郎 "wikilink")（当時）など時事ネタを取り入れたり、与党の支持母体である某巨大宗教団体をネタにしたり、[ドラマCD](../Page/ドラマCD.md "wikilink")にもかかわらず伏字を多様化するなど、作品のノリを変えずに作られた。
 
 ## スタッフ
 

@@ -5,7 +5,7 @@
 
 ## 概要
 
-[関西](https://ja.wikipedia.org/wiki/関西 "wikilink")のイベンターである[GREENS](https://ja.wikipedia.org/wiki/GREENS "wikilink")主催のイベントであり、[舞洲スポーツアイランド](../Page/舞洲スポーツアイランド.md "wikilink")にて[1999年](../Page/1999年.md "wikilink")に第一回が行われる。 その後、[2001年](../Page/2001年.md "wikilink")からは[神戸](../Page/神戸.md "wikilink")に場所を変え、神戸を代表する[夏フェス](https://ja.wikipedia.org/wiki/夏フェス "wikilink")の一つに数えられる。 [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")からは会場を[泉大津フェニックス](https://ja.wikipedia.org/wiki/泉大津フェニックス "wikilink")へと移しており、毎年2万人前後の動員を記録している。
+[関西](https://ja.wikipedia.org/wiki/関西 "wikilink")のイベンターである[GREENS](https://ja.wikipedia.org/wiki/GREENS "wikilink")主催のイベントであり、[舞洲スポーツアイランド](../Page/舞洲スポーツアイランド.md "wikilink")にて[1999年](../Page/1999年.md "wikilink")に第一回が行われる。 その後、[2001年](../Page/2001年.md "wikilink")からは[神戸](../Page/神戸.md "wikilink")に場所を変え、神戸を代表する[夏フェス](https://ja.wikipedia.org/wiki/夏フェス "wikilink")の一つに数えられる。 [2005年](../Page/2005年.md "wikilink")からは会場を[泉大津フェニックス](https://ja.wikipedia.org/wiki/泉大津フェニックス "wikilink")へと移しており、毎年2万人前後の動員を記録している。
 
 また、「RUSH BALL☆○」と銘打たれたプレイベントが[大阪城音楽堂](https://ja.wikipedia.org/wiki/大阪城音楽堂 "wikilink")にて毎年春に行われており、○には[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")までは発足以来の年数が、それ以降はRが入る。 このRには「RUSH BALL」の頭文字の他、「Rookie」など様々な意味が込められている。
 
@@ -140,10 +140,10 @@ II期芝生エリア "メガKobe"</p></td>
 <td><ul>
 <li><a href="../Page/車谷浩司.md" title="wikilink">AIR</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/audio_active" title="wikilink">audio active</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/Dragon_Ash" title="wikilink">Dragon Ash</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/THE_MAD_CAPSULE_MARKETS" title="wikilink">THE MAD CAPSULE MARKETS</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/PENPALS" title="wikilink">PENPALS</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ギターウルフ" title="wikilink">ギターウルフ</a></li>
+<li><a href="../Page/Dragon_Ash.md" title="wikilink">Dragon Ash</a></li>
+<li><a href="../Page/THE_MAD_CAPSULE_MARKETS.md" title="wikilink">THE MAD CAPSULE MARKETS</a></li>
+<li><a href="../Page/PENPALS.md" title="wikilink">PENPALS</a></li>
+<li><a href="../Page/ギターウルフ.md" title="wikilink">ギターウルフ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/YOUNG_PUNCH" title="wikilink">YOUNG PUNCH</a></li>
 </ul></td>
 </tr>
@@ -171,30 +171,30 @@ II期芝生エリア "メガKobe"</p></td>
 <tr class="odd">
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/YOU_THE_ROCK★" title="wikilink">YOU THE ROCK★</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/TWIGY" title="wikilink">TWIGY</a></li>
+<li><a href="../Page/TWIGY.md" title="wikilink">TWIGY</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/RINO" title="wikilink">RINO</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/DJ_AMEKEN" title="wikilink">DJ AMEKEN</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/THA_BLUE_HERB" title="wikilink">THA BLUE HERB</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/G.K.MARYAN" title="wikilink">G.K.MARYAN</a></li>
+<li><a href="../Page/G.K.MARYAN.md" title="wikilink">G.K.MARYAN</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/DJ_MISSIE" title="wikilink">DJ MISSIE</a></li>
 </ul></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/ACO" title="wikilink">ACO</a></li>
+<li><a href="../Page/ACO.md" title="wikilink">ACO</a></li>
 <li>AIR</li>
 <li>ギターウルフ</li>
-<li><a href="https://ja.wikipedia.org/wiki/POLYSICS" title="wikilink">POLYSICS</a></li>
+<li><a href="../Page/POLYSICS.md" title="wikilink">POLYSICS</a></li>
 <li><a href="../Page/東京スカパラダイスオーケストラ.md" title="wikilink">東京スカパラダイスオーケストラ</a></li>
 </ul></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN" title="wikilink">BUMP OF CHICKEN</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ホフディラン" title="wikilink">ホフディラン</a></li>
+<li><a href="../Page/ホフディラン.md" title="wikilink">ホフディラン</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/STORM_THE_GROOVERS" title="wikilink">STORM THE GROOVERS</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/the_pillows" title="wikilink">the pillows</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/SNAIL_RAMP" title="wikilink">SNAIL RAMP</a></li>
+<li><a href="../Page/SNAIL_RAMP.md" title="wikilink">SNAIL RAMP</a></li>
 </ul></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/WINO" title="wikilink">WINO</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/PEALOUT" title="wikilink">PEALOUT</a></li>
+<li><a href="../Page/WINO.md" title="wikilink">WINO</a></li>
+<li><a href="../Page/PEALOUT.md" title="wikilink">PEALOUT</a></li>
 <li><a href="../Page/PLAGUES.md" title="wikilink">PLAGUES</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Hi-5" title="wikilink">Hi-5</a></li>
 </ul></td>
@@ -206,13 +206,13 @@ II期芝生エリア "メガKobe"</p></td>
 
   - AIR
   - Dragon Ash
-  - [GOING STEADY](https://ja.wikipedia.org/wiki/GOING_STEADY "wikilink")
+  - [GOING STEADY](../Page/GOING_STEADY.md "wikilink")
   - PENPALS
-  - [POTSHOT](https://ja.wikipedia.org/wiki/POTSHOT "wikilink")
+  - [POTSHOT](../Page/POTSHOT.md "wikilink")
   - [SOBUT](https://ja.wikipedia.org/wiki/SOBUT "wikilink")
   - [SUPERCAR](../Page/SUPERCAR.md "wikilink")
-  - [TRICERATOPS](https://ja.wikipedia.org/wiki/TRICERATOPS "wikilink")
-  - [RIZE](https://ja.wikipedia.org/wiki/RIZE "wikilink")
+  - [TRICERATOPS](../Page/TRICERATOPS.md "wikilink")
+  - [RIZE](../Page/RIZE.md "wikilink")
 
 ### 2002年
 
@@ -230,12 +230,12 @@ II期芝生エリア "メガKobe"</p></td>
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/Natural_Punch_Drunker" title="wikilink">Natural Punch Drunker</a></li>
+<li><a href="../Page/Natural_Punch_Drunker.md" title="wikilink">Natural Punch Drunker</a></li>
 <li><a href="../Page/MONGOL800.md" title="wikilink">MONGOL800</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/Scoobie_Do" title="wikilink">Scoobie Do</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/MO&#39;SOME_TONEBENDER" title="wikilink">MO'SOME TONEBENDER</a></li>
+<li><a href="../Page/Scoobie_Do.md" title="wikilink">Scoobie Do</a></li>
+<li><a href="../Page/MO&#39;SOME_TONEBENDER.md" title="wikilink">MO'SOME TONEBENDER</a></li>
 <li>POTSHOT</li>
-<li><a href="https://ja.wikipedia.org/wiki/HUSKING_BEE" title="wikilink">HUSKING BEE</a></li>
+<li><a href="../Page/HUSKING_BEE.md" title="wikilink">HUSKING BEE</a></li>
 <li><a href="../Page/奥田民生.md" title="wikilink">奥田民生</a></li>
 <li>PENPALS</li>
 <li>BUMP OF CHICKEN</li>
@@ -245,9 +245,9 @@ II期芝生エリア "メガKobe"</p></td>
 <li><a href="https://ja.wikipedia.org/wiki/the_youth" title="wikilink">the youth</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Scratch_4_Jagger" title="wikilink">Scratch 4 Jagger</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/テルスター_(バンド)" title="wikilink">テルスター</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/NANANINE" title="wikilink">NANANINE</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/惑星_(バンド)" title="wikilink">惑星</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ART-SCHOOL" title="wikilink">ART-SCHOOL</a></li>
+<li><a href="../Page/NANANINE.md" title="wikilink">NANANINE</a></li>
+<li><a href="../Page/惑星_(バンド).md" title="wikilink">惑星</a></li>
+<li><a href="../Page/ART-SCHOOL.md" title="wikilink">ART-SCHOOL</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -272,13 +272,13 @@ II期芝生エリア "メガKobe"</p></td>
 <li><a href="https://ja.wikipedia.org/wiki/ストレイテナー" title="wikilink">ストレイテナー</a></li>
 <li>Dragon Ash</li>
 <li><a href="../Page/くるり.md" title="wikilink">くるり</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/The_ピーズ" title="wikilink">The ピーズ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ゆらゆら帝国" title="wikilink">ゆらゆら帝国</a></li>
+<li><a href="../Page/The_ピーズ.md" title="wikilink">The ピーズ</a></li>
+<li><a href="../Page/ゆらゆら帝国.md" title="wikilink">ゆらゆら帝国</a></li>
 <li>AIR</li>
-<li><a href="https://ja.wikipedia.org/wiki/JUDE" title="wikilink">JUDE</a></li>
+<li><a href="../Page/JUDE.md" title="wikilink">JUDE</a></li>
 <li>POTSHOT</li>
 <li>BUMP OF CHICKEN</li>
-<li><a href="https://ja.wikipedia.org/wiki/PENPALS" title="wikilink">PENPALS</a></li>
+<li><a href="../Page/PENPALS.md" title="wikilink">PENPALS</a></li>
 </ul></td>
 <td><ul>
 <li>ART-SCHOOL</li>
@@ -313,13 +313,13 @@ II期芝生エリア "メガKobe"</p></td>
 <tr class="odd">
 <td><ul>
 <li>POLYSICS</li>
-<li><a href="https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
+<li><a href="../Page/ASIAN_KUNG-FU_GENERATION.md" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
 <li>POTSHOT</li>
 <li>ストレイテナー</li>
-<li><a href="https://ja.wikipedia.org/wiki/THE_BACK_HORN" title="wikilink">THE BACK HORN</a></li>
+<li><a href="../Page/THE_BACK_HORN.md" title="wikilink">THE BACK HORN</a></li>
 <li>PENPALS</li>
 <li>HUSKING BEE</li>
-<li><a href="https://ja.wikipedia.org/wiki/曽我部恵一" title="wikilink">曽我部恵一</a> with <a href="https://ja.wikipedia.org/wiki/OO_TELESA" title="wikilink">OO TELESA</a></li>
+<li><a href="../Page/曽我部恵一.md" title="wikilink">曽我部恵一</a> with <a href="https://ja.wikipedia.org/wiki/OO_TELESA" title="wikilink">OO TELESA</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/the_band_apart" title="wikilink">the band apart</a></li>
 <li><a href="../Page/ACIDMAN.md" title="wikilink">ACIDMAN</a></li>
 <li>BUMP OF CHICKEN</li>
@@ -369,17 +369,17 @@ II期芝生エリア "メガKobe"</p></td>
 <li>ACIDMAN</li>
 <li>BUMP OF CHICKEN</li>
 <li>Dragon Ash</li>
-<li><a href="https://ja.wikipedia.org/wiki/EGO-WRAPPIN&#39;" title="wikilink">EGO-WRAPPIN'</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/HAWAIIAN6" title="wikilink">HAWAIIAN6</a></li>
+<li><a href="../Page/EGO-WRAPPIN&#39;.md" title="wikilink">EGO-WRAPPIN'</a></li>
+<li><a href="../Page/HAWAIIAN6.md" title="wikilink">HAWAIIAN6</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Ken_Yokoyama" title="wikilink">Ken Yokoyama</a></li>
 <li>the band apart</li>
-<li><a href="https://ja.wikipedia.org/wiki/TOKYO_No.1_SOUL_SET" title="wikilink">TOKYO No.1 SOUL SET</a></li>
+<li><a href="../Page/TOKYO_No.1_SOUL_SET.md" title="wikilink">TOKYO No.1 SOUL SET</a></li>
 <li>東京スカパラダイスオーケストラ</li>
 <li>POTSHOT</li>
 <li>RIZE</li>
-<li><a href="https://ja.wikipedia.org/wiki/ROSSO" title="wikilink">ROSSO</a></li>
+<li><a href="../Page/ROSSO.md" title="wikilink">ROSSO</a></li>
 <li><a href="../Page/つばき_(ロックバンド).md" title="wikilink">つばき</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/勝手にしやがれ_(ジャズバンド)" title="wikilink">勝手にしやがれ</a></li>
+<li><a href="../Page/勝手にしやがれ_(ジャズバンド).md" title="wikilink">勝手にしやがれ</a></li>
 </ul></td>
 <td><ul>
 <li>キャプテンストライダム</li>
@@ -424,10 +424,10 @@ II期芝生エリア "メガKobe"</p></td>
 <tr class="odd">
 <td><ul>
 <li>ACIDMAN</li>
-<li><a href="https://ja.wikipedia.org/wiki/OVERGROUND_ACOUSTIC_UNDERGROUND" title="wikilink">OVERGROUND ACOUSTIC UNDERGROUND</a></li>
+<li><a href="../Page/OVERGROUND_ACOUSTIC_UNDERGROUND.md" title="wikilink">OVERGROUND ACOUSTIC UNDERGROUND</a></li>
 <li>ストレイテナー</li>
 <li>Dragon Ash</li>
-<li><a href="https://ja.wikipedia.org/wiki/BACK_DROP_BOMB" title="wikilink">BACK DROP BOMB</a></li>
+<li><a href="../Page/BACK_DROP_BOMB.md" title="wikilink">BACK DROP BOMB</a></li>
 <li>the band apart</li>
 <li><a href="https://ja.wikipedia.org/wiki/髭（HiGE）" title="wikilink">髭（HiGE）</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/MASTER_LOW" title="wikilink">MASTER LOW</a></li>
@@ -436,12 +436,12 @@ II期芝生エリア "メガKobe"</p></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/FRONTIER_BACKYARD" title="wikilink">FRONTIER BACKYARD</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/GRiP" title="wikilink">GRiP</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/KOOLOGI" title="wikilink">KOOLOGI</a></li>
+<li><a href="../Page/KOOLOGI.md" title="wikilink">KOOLOGI</a></li>
 <li>SCOOBIE DO</li>
 <li><a href="https://ja.wikipedia.org/wiki/sleepy.ab" title="wikilink">sleepy.ab</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/The_Birthday" title="wikilink">The Birthday</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/SPARKS_GO_GO" title="wikilink">SPARKS GO GO</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/少年ナイフ" title="wikilink">少年ナイフ</a></li>
+<li><a href="../Page/The_Birthday.md" title="wikilink">The Birthday</a></li>
+<li><a href="../Page/SPARKS_GO_GO.md" title="wikilink">SPARKS GO GO</a></li>
+<li><a href="../Page/少年ナイフ.md" title="wikilink">少年ナイフ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ランクヘッド" title="wikilink">ランクヘッド</a></li>
 </ul></td>
 <td><ul>
@@ -449,7 +449,7 @@ II期芝生エリア "メガKobe"</p></td>
 <li><a href="https://ja.wikipedia.org/wiki/OCEANLANE" title="wikilink">OCEANLANE</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/THE_ZOOT16" title="wikilink">THE ZOOT16</a></li>
 <li><a href="../Page/椿屋四重奏.md" title="wikilink">椿屋四重奏</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/DOBERMAN" title="wikilink">DOBERMAN</a></li>
+<li><a href="../Page/DOBERMAN.md" title="wikilink">DOBERMAN</a></li>
 <li>髭(HiGE)</li>
 <li><a href="https://ja.wikipedia.org/wiki/hare-brained_unity" title="wikilink">hare-brained unity</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/riddim_saunter" title="wikilink">riddim saunter</a></li>
@@ -482,21 +482,21 @@ II期芝生エリア "メガKobe"</p></td>
 <li>髭(HiGE)</li>
 <li>the band apart</li>
 <li>BUMP OF CHICKEN</li>
-<li><a href="https://ja.wikipedia.org/wiki/Caravan" title="wikilink">Caravan</a></li>
+<li><a href="../Page/Caravan.md" title="wikilink">Caravan</a></li>
 <li>Dragon Ash</li>
 <li>MO'SOME TONEBENDER</li>
-<li><a href="https://ja.wikipedia.org/wiki/PE&#39;Z" title="wikilink">PE'Z</a></li>
+<li><a href="../Page/PE&#39;Z.md" title="wikilink">PE'Z</a></li>
 <li>POLYSICS</li>
 <li>RIZE</li>
 <li>ランクヘッド</li>
 </ul></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/おとぎ話_(バンド)" title="wikilink">おとぎ話</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ジン_(バンド)" title="wikilink">ジン</a></li>
+<li><a href="../Page/ジン_(バンド).md" title="wikilink">ジン</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ミドリ_(バンド)" title="wikilink">ミドリ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/avengers_in_sci-fi" title="wikilink">avengers in sci-fi</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ghostnote" title="wikilink">ghostnote</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/Good_Dog_Happy_Men" title="wikilink">Good Dog Happy Men</a></li>
+<li><a href="../Page/Good_Dog_Happy_Men.md" title="wikilink">Good Dog Happy Men</a></li>
 <li>riddim saunter</li>
 <li>hare-brained unity</li>
 <li>LOW IQ &amp; THE BEAT BREAKER</li>
@@ -505,10 +505,10 @@ II期芝生エリア "メガKobe"</p></td>
 <li><a href="https://ja.wikipedia.org/wiki/asphalt_frustration" title="wikilink">asphalt frustration</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/eastern_youth" title="wikilink">eastern youth</a></li>
 <li>MO'SOME TONEBENDER</li>
-<li><a href="https://ja.wikipedia.org/wiki/UNDER_THE_COUNTER" title="wikilink">UNDER THE COUNTER</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/VOLA_&amp;_THE_ORIENTAL_MACHINE" title="wikilink">VOLA &amp; THE ORIENTAL MACHINE</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/アナログフィッシュ" title="wikilink">アナログフィッシュ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/かりゆし58" title="wikilink">かりゆし58</a></li>
+<li><a href="../Page/UNDER_THE_COUNTER.md" title="wikilink">UNDER THE COUNTER</a></li>
+<li><a href="../Page/VOLA_&amp;_THE_ORIENTAL_MACHINE.md" title="wikilink">VOLA &amp; THE ORIENTAL MACHINE</a></li>
+<li><a href="../Page/アナログフィッシュ.md" title="wikilink">アナログフィッシュ</a></li>
+<li><a href="../Page/かりゆし58.md" title="wikilink">かりゆし58</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/フルカワミキ" title="wikilink">フルカワミキ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/enie_meenie" title="wikilink">enie meenie</a></li>
 </ul></td>
@@ -549,18 +549,18 @@ II期芝生エリア "メガKobe"</p></td>
 <li>Dragon Ash</li>
 <li>KEN YOKOYAMA</li>
 <li>銀杏BOYZ</li>
-<li><a href="https://ja.wikipedia.org/wiki/BRAHMAN" title="wikilink">BRAHMAN</a></li>
+<li><a href="../Page/BRAHMAN.md" title="wikilink">BRAHMAN</a></li>
 </ul></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/TRIBAL_CHAIR" title="wikilink">TRIBAL CHAIR</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/HOLSTEIN" title="wikilink">HOLSTEIN</a></li>
+<li><a href="../Page/HOLSTEIN.md" title="wikilink">HOLSTEIN</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/RAZORS_EDGE" title="wikilink">RAZORS EDGE</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/LEO今井" title="wikilink">LEO今井</a></li>
+<li><a href="../Page/LEO今井.md" title="wikilink">LEO今井</a></li>
 <li>OCEANLANE</li>
 <li><a href="https://ja.wikipedia.org/wiki/lostage" title="wikilink">lostage</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/COMEBACK_MY_DAUGHTERS" title="wikilink">COMEBACK MY DAUGHTERS</a></li>
 <li><a href="../Page/UNCHAIN.md" title="wikilink">UNCHAIN</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/OGRE_YOU_ASSHOLE" title="wikilink">OGRE YOU ASSHOLE</a></li>
+<li><a href="../Page/OGRE_YOU_ASSHOLE.md" title="wikilink">OGRE YOU ASSHOLE</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/dustbox" title="wikilink">dustbox</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/FRONTIER_BACKYARD" title="wikilink">FRONTIER BACKYARD</a></li>
 </ul></td>
@@ -569,14 +569,14 @@ II期芝生エリア "メガKobe"</p></td>
 </ul>
 <p>(オープニングアクト)</p>
 <ul>
-<li><a href="https://ja.wikipedia.org/wiki/ASPARAGUS" title="wikilink">ASPARAGUS</a></li>
+<li><a href="../Page/ASPARAGUS.md" title="wikilink">ASPARAGUS</a></li>
 <li>ジン</li>
-<li><a href="https://ja.wikipedia.org/wiki/FIRE_BALL_(レゲエグループ)" title="wikilink">FIRE BALL</a> with JUNGLE ROOTS BAND</li>
+<li><a href="../Page/FIRE_BALL_(レゲエグループ).md" title="wikilink">FIRE BALL</a> with JUNGLE ROOTS BAND</li>
 <li>MO'SOME TONEBENDER</li>
-<li><a href="https://ja.wikipedia.org/wiki/SPECIAL_OTHERS" title="wikilink">SPECIAL OTHERS</a></li>
+<li><a href="../Page/SPECIAL_OTHERS.md" title="wikilink">SPECIAL OTHERS</a></li>
 <li>ゆらゆら帝国</li>
 <li>ACIDMAN</li>
-<li><a href="https://ja.wikipedia.org/wiki/BOOM_BOOM_SATELLITES" title="wikilink">BOOM BOOM SATELLITES</a></li>
+<li><a href="../Page/BOOM_BOOM_SATELLITES.md" title="wikilink">BOOM BOOM SATELLITES</a></li>
 <li>ストレイテナー</li>
 <li>東京スカパラダイスオーケストラ</li>
 </ul></td>
@@ -585,9 +585,9 @@ II期芝生エリア "メガKobe"</p></td>
 <li><a href="https://ja.wikipedia.org/wiki/sister_jet" title="wikilink">sister jet</a></li>
 <li>ROCK'A'TRENCH</li>
 <li><a href="https://ja.wikipedia.org/wiki/hare-brained_unity" title="wikilink">hare-brained unity</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/MASS_OF_THE_FERMENTING_DREGS" title="wikilink">MASS OF THE FERMENTING DREGS</a></li>
+<li><a href="../Page/MASS_OF_THE_FERMENTING_DREGS.md" title="wikilink">MASS OF THE FERMENTING DREGS</a></li>
 <li><a href="../Page/LITE_(バンド).md" title="wikilink">LITE</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/Scoobie_Do" title="wikilink">SCOOBIE DO</a></li>
+<li><a href="../Page/Scoobie_Do.md" title="wikilink">SCOOBIE DO</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/the_chef_cooks_me" title="wikilink">the chef cooks me</a></li>
 <li>オレスカバンド</li>
 <li><a href="https://ja.wikipedia.org/wiki/sleepy.ab" title="wikilink">sleepy.ab</a></li>
@@ -629,8 +629,8 @@ II期芝生エリア "メガKobe"</p></td>
 <li><a href="https://ja.wikipedia.org/wiki/怒髪天" title="wikilink">怒髪天</a></li>
 <li>オレスカバンド</li>
 <li>COMEBACK MY DAUGHTERS</li>
-<li><a href="https://ja.wikipedia.org/wiki/YOUR_SONG_IS_GOOD" title="wikilink">YOUR SONG IS GOOD</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/曽我部恵一" title="wikilink">曽我部恵一</a>BAND</li>
+<li><a href="../Page/YOUR_SONG_IS_GOOD.md" title="wikilink">YOUR SONG IS GOOD</a></li>
+<li><a href="../Page/曽我部恵一.md" title="wikilink">曽我部恵一</a>BAND</li>
 <li>FRONTIER BACKYARD</li>
 <li>POLYSICS</li>
 <li>LOW IQ &amp; MASTER LOW</li>
@@ -663,7 +663,7 @@ II期芝生エリア "メガKobe"</p></td>
 <ul>
 <li>dustbox</li>
 <li>髭(HiGE)</li>
-<li><a href="https://ja.wikipedia.org/wiki/9mm_Parabellum_Bullet" title="wikilink">9mm Parabellum Bullet</a></li>
+<li><a href="../Page/9mm_Parabellum_Bullet.md" title="wikilink">9mm Parabellum Bullet</a></li>
 <li>OGRE YOU ASSHOLE</li>
 <li>YOUR SONG IS GOOD</li>
 <li>HAWAIIAN6</li>
@@ -738,7 +738,7 @@ II期芝生エリア "メガKobe"</p></td>
 <li><a href="https://ja.wikipedia.org/wiki/Galileo_Galilei" title="wikilink">Galileo Galilei</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/［Champagne］" title="wikilink">［Champagne］</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Totalfat" title="wikilink">Totalfat</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/難波章浩" title="wikilink">難波章浩</a> -AKIHIRO NAMBA-</li>
+<li><a href="../Page/難波章浩.md" title="wikilink">難波章浩</a> -AKIHIRO NAMBA-</li>
 <li><a href="https://ja.wikipedia.org/wiki/MONICA_URANGLASS" title="wikilink">MONICA URANGLASS</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Lostage" title="wikilink">Lostage</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/QUATTRO_(バンド)" title="wikilink">QUATTRO</a></li>
@@ -851,7 +851,7 @@ II期芝生エリア "メガKobe"</p></td>
 <p>(オープニングアクト)</p></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/Czecho_No_Republic" title="wikilink">Czecho No Republic</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/Hermann_H.&amp;The_Pacemakers" title="wikilink">Hermann H.&amp;The Pacemakers</a></li>
+<li><a href="../Page/Hermann_H.&amp;The_Pacemakers.md" title="wikilink">Hermann H.&amp;The Pacemakers</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/N&#39;夙川BOYS" title="wikilink">N'夙川BOYS</a></li>
 <li>QUATTRO</li>
 <li>rega</li>
@@ -868,7 +868,7 @@ II期芝生エリア "メガKobe"</p></td>
 <li>WHITE ASH</li>
 <li><a href="https://ja.wikipedia.org/wiki/グッドモーニングアメリカ" title="wikilink">グッドモーニングアメリカ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/さめざめ" title="wikilink">さめざめ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ズボンズ" title="wikilink">ズボンズ</a></li>
+<li><a href="../Page/ズボンズ.md" title="wikilink">ズボンズ</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -964,7 +964,7 @@ II期芝生エリア "メガKobe"</p></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/キュウソネコカミ" title="wikilink">キュウソネコカミ</a></li>
 <li>グッドモーニングアメリカ</li>
-<li><a href="https://ja.wikipedia.org/wiki/DE_DE_MOUSE" title="wikilink">DE DE MOUSE</a></li>
+<li><a href="../Page/DE_DE_MOUSE.md" title="wikilink">DE DE MOUSE</a></li>
 <li>GOOD ON THE REEL</li>
 <li>KANA-BOON</li>
 <li><a href="https://ja.wikipedia.org/wiki/KEYTALK" title="wikilink">KEYTALK</a></li>

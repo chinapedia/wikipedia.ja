@@ -1,13 +1,13 @@
 > この記事は[Bell](https://ja.wikipedia.org/wiki/Bell)から翻訳されています。
 
 
-「**鳴り始めた恋のBell**」（なりはじめたこいのベル）は、[音楽ガッタス](../Page/音楽ガッタス.md "wikilink")の1枚目の[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[9月12日](../Page/9月12日.md "wikilink")に[アップフロントワークス](https://ja.wikipedia.org/wiki/アップフロントワークス "wikilink")のzetimaレーベル（販売元は[ソニー・ミュージックエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")）より発売。
+「**鳴り始めた恋のBell**」（なりはじめたこいのベル）は、[音楽ガッタス](../Page/音楽ガッタス.md "wikilink")の1枚目の[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[9月12日](../Page/9月12日.md "wikilink")に[アップフロントワークス](../Page/アップフロントワークス.md "wikilink")のzetimaレーベル（販売元は[ソニー・ミュージックエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")）より発売。
 
 ## 内容
 
   - 初回生産限定盤（CD+DVD）と、通常盤（CDのみ）の二形態発売。
-  - [ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")の[フットサル](https://ja.wikipedia.org/wiki/フットサル "wikilink")[チーム](https://ja.wikipedia.org/wiki/チーム "wikilink")「[Gatas Brilhantes H.P.](https://ja.wikipedia.org/wiki/Gatas_Brilhantes_H.P. "wikilink")」の選抜メンバーで作られたユニットのデビューシングルである。
-  - メンバーは、[吉澤ひとみ](../Page/吉澤ひとみ.md "wikilink")（キャプテン）・[石川梨華](https://ja.wikipedia.org/wiki/石川梨華 "wikilink")（[美勇伝](https://ja.wikipedia.org/wiki/美勇伝 "wikilink")）・[里田まい](https://ja.wikipedia.org/wiki/里田まい "wikilink")（[カントリー娘。](../Page/カントリー娘。.md "wikilink")）。・[紺野あさ美](../Page/紺野あさ美.md "wikilink")と[ハロプロエッグより](https://ja.wikipedia.org/wiki/ハロプロ研修生 "wikilink")[是永美記](https://ja.wikipedia.org/wiki/是永美記 "wikilink")・[能登有沙](https://ja.wikipedia.org/wiki/能登有沙 "wikilink")・[真野恵里菜](../Page/真野恵里菜.md "wikilink")・[仙石みなみ](../Page/仙石みなみ.md "wikilink")・澤田由梨・[武藤水華の合わせて](https://ja.wikipedia.org/wiki/むとう水華 "wikilink")10名。
+  - [ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")の[フットサル](https://ja.wikipedia.org/wiki/フットサル "wikilink")[チーム](../Page/チーム.md "wikilink")「[Gatas Brilhantes H.P.](../Page/Gatas_Brilhantes_H.P..md "wikilink")」の選抜メンバーで作られたユニットのデビューシングルである。
+  - メンバーは、[吉澤ひとみ](../Page/吉澤ひとみ.md "wikilink")（キャプテン）・[石川梨華](https://ja.wikipedia.org/wiki/石川梨華 "wikilink")（[美勇伝](../Page/美勇伝.md "wikilink")）・[里田まい](https://ja.wikipedia.org/wiki/里田まい "wikilink")（[カントリー娘。](../Page/カントリー娘。.md "wikilink")）。・[紺野あさ美](../Page/紺野あさ美.md "wikilink")と[ハロプロエッグより](https://ja.wikipedia.org/wiki/ハロプロ研修生 "wikilink")[是永美記](../Page/是永美記.md "wikilink")・[能登有沙](../Page/能登有沙.md "wikilink")・[真野恵里菜](../Page/真野恵里菜.md "wikilink")・[仙石みなみ](../Page/仙石みなみ.md "wikilink")・澤田由梨・[武藤水華の合わせて](https://ja.wikipedia.org/wiki/むとう水華 "wikilink")10名。
   - [モーニング娘。誕生10年記念隊](../Page/モーニング娘。誕生10年記念隊.md "wikilink")に続いて[ドラリオン](https://ja.wikipedia.org/wiki/ドラリオン "wikilink")の[イメージソング](https://ja.wikipedia.org/wiki/イメージソング "wikilink")に起用された。
   - [プロモーションビデオ](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")[DVD](../Page/DVD.md "wikilink")「シングルV・鳴り始めた恋のBell」が同日発売。
 

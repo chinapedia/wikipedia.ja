@@ -5,7 +5,7 @@
 
 ## 概要
 
-第19回[横溝正史ミステリ大賞](https://ja.wikipedia.org/wiki/横溝正史ミステリ大賞 "wikilink")を受賞しベストセラーとなった（[角川文庫](https://ja.wikipedia.org/wiki/角川文庫 "wikilink")刊）。映画は日、中、韓三国の俳優共演による合作映画。興行収入は11.5億円。
+第19回[横溝正史ミステリ大賞](../Page/横溝正史ミステリ大賞.md "wikilink")を受賞しベストセラーとなった（[角川文庫](../Page/角川文庫.md "wikilink")刊）。映画は日、中、韓三国の俳優共演による合作映画。興行収入は11.5億円。
 
 ## あらすじ
 
@@ -18,16 +18,16 @@
   - 関飛虎：[邵兵](https://ja.wikipedia.org/wiki/邵兵 "wikilink")
   - パク・チャンイク：[孫暢敏](https://ja.wikipedia.org/wiki/孫暢敏 "wikilink")
   - 丁愛鈴：[楊若兮](https://ja.wikipedia.org/wiki/楊若兮 "wikilink")
-  - 肖丁：[ピーター・ホー](https://ja.wikipedia.org/wiki/ピーター・ホー "wikilink")
-  - 東謙介：[今井雅之](https://ja.wikipedia.org/wiki/今井雅之 "wikilink")
-  - 愛新覚羅載寧、張士清：[松岡俊介](https://ja.wikipedia.org/wiki/松岡俊介 "wikilink")
-  - 向島：[金山一彦](https://ja.wikipedia.org/wiki/金山一彦 "wikilink")
+  - 肖丁：[ピーター・ホー](../Page/ピーター・ホー.md "wikilink")
+  - 東謙介：[今井雅之](../Page/今井雅之.md "wikilink")
+  - 愛新覚羅載寧、張士清：[松岡俊介](../Page/松岡俊介.md "wikilink")
+  - 向島：[金山一彦](../Page/金山一彦.md "wikilink")
   - 陳思平：[市原隼人](https://ja.wikipedia.org/wiki/市原隼人 "wikilink")
-  - 波多野：[松重豊](https://ja.wikipedia.org/wiki/松重豊 "wikilink")
-  - [山縣有朋](../Page/山縣有朋.md "wikilink")：[丹波哲郎](https://ja.wikipedia.org/wiki/丹波哲郎 "wikilink")
+  - 波多野：[松重豊](../Page/松重豊.md "wikilink")
+  - [山縣有朋](../Page/山縣有朋.md "wikilink")：[丹波哲郎](../Page/丹波哲郎.md "wikilink")
   - 神崎重之介：[石橋蓮司](../Page/石橋蓮司.md "wikilink")
   - 三矢：[伊武雅刀](../Page/伊武雅刀.md "wikilink")
-  - 汪沢田：[夏八木勲](https://ja.wikipedia.org/wiki/夏八木勲 "wikilink")
+  - 汪沢田：[夏八木勲](../Page/夏八木勲.md "wikilink")
   - 東正信：[渡辺謙](../Page/渡辺謙.md "wikilink")
 
 ### スタッフ
@@ -44,7 +44,7 @@
   - 録音：藤丸和徳
   - 編集：池田美代子
   - キャスティング：福岡康裕
-  - 特撮監督：[佛田洋](https://ja.wikipedia.org/wiki/佛田洋 "wikilink")（[特撮研究所](https://ja.wikipedia.org/wiki/特撮研究所 "wikilink")）
+  - 特撮監督：[佛田洋](../Page/佛田洋.md "wikilink")（[特撮研究所](../Page/特撮研究所.md "wikilink")）
   - 助監督：宮村敏正
   - 製作担当：木次谷良助
   - 製作協力：東映東京撮影所、中国電影合作制片公司、中国上海電影集団公司

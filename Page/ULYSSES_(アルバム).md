@@ -1,16 +1,16 @@
 > この記事は[ULYSSES \(\)](https://ja.wikipedia.org/wiki/ULYSSES_\(\))から翻訳されています。
 
 
-『**ULYSSES**』（ユリシーズ）は[島みやえい子](https://ja.wikipedia.org/wiki/島みやえい子 "wikilink")のファーストミニ[アルバム](../Page/アルバム.md "wikilink")。この作品でメジャーデビューを飾った。
+『**ULYSSES**』（ユリシーズ）は[島みやえい子](../Page/島みやえい子.md "wikilink")のファーストミニ[アルバム](../Page/アルバム.md "wikilink")。この作品でメジャーデビューを飾った。
 
 5曲目「VANILLA」は初回限定盤にのみ収録。品番は初回限定盤・通常盤共にGNCA-7023。
 
 ## 収録曲
 
 1.  **Introduction**
-      - 作曲・編曲：[高瀬一矢](https://ja.wikipedia.org/wiki/高瀬一矢 "wikilink")
+      - 作曲・編曲：[高瀬一矢](../Page/高瀬一矢.md "wikilink")
 2.  **ULYSSES**
-      - 作詞・作曲：[島みやえい子](https://ja.wikipedia.org/wiki/島みやえい子 "wikilink")、編曲：高瀬一矢
+      - 作詞・作曲：[島みやえい子](../Page/島みやえい子.md "wikilink")、編曲：高瀬一矢
 3.  **スカラベの祈り**
       - 作詞・作曲：島みやえい子、編曲：[中沢伴行](../Page/中沢伴行.md "wikilink")
 4.  **Mosquito**

@@ -1,13 +1,13 @@
 > この記事は[HAKASE-SUN](https://ja.wikipedia.org/wiki/HAKASE-SUN)から翻訳されています。
 
 
-**HAKASE-SUN**（ハカセ・サン、[1967年](../Page/1967年.md "wikilink") - ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")・[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")[キーボーディスト](https://ja.wikipedia.org/wiki/キーボーディスト "wikilink")である。通常の呼び方は「ハカセ」であり、ソロ活動時のみ「SUN」が付く。
+**HAKASE-SUN**（ハカセ・サン、[1967年](../Page/1967年.md "wikilink") - ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")・[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")[キーボーディスト](../Page/キーボーディスト.md "wikilink")である。通常の呼び方は「ハカセ」であり、ソロ活動時のみ「SUN」が付く。
 
 ## 略歴
 
-  - 1990年、**ハカセ**として[フィッシュマンズ](https://ja.wikipedia.org/wiki/フィッシュマンズ "wikilink")に加入
-  - 1995年、フィッシュマンズ脱退。同年、[LITTLE TEMPOに](https://ja.wikipedia.org/wiki/LITTLE_TEMPO "wikilink")**HAKASE**として加入
-  - 2001年、[川上つよしと彼のムードメイカーズ](https://ja.wikipedia.org/wiki/川上つよしと彼のムードメイカーズ "wikilink")に参加。同年、初のソロ作品を発表
+  - 1990年、**ハカセ**として[フィッシュマンズ](../Page/フィッシュマンズ.md "wikilink")に加入
+  - 1995年、フィッシュマンズ脱退。同年、[LITTLE TEMPOに](../Page/LITTLE_TEMPO.md "wikilink")**HAKASE**として加入
+  - 2001年、[川上つよしと彼のムードメイカーズ](../Page/川上つよしと彼のムードメイカーズ.md "wikilink")に参加。同年、初のソロ作品を発表
   - 2014年、OKI DUB AINU BAND 加入, 2015年 KODAMA & THE DUB STATION BAND 再起動にあたり、メンバーとして参加。
 
 ## ディスコグラフィー
@@ -44,17 +44,17 @@
 
 ## リミックス
 
-  - [スケボーキング](https://ja.wikipedia.org/wiki/スケボーキング "wikilink")「You Are God」
+  - [スケボーキング](../Page/スケボーキング.md "wikilink")「You Are God」
   - [BONNIE PINK](https://ja.wikipedia.org/wiki/BONNIE_PINK "wikilink")「Thinking of You」
 
 ## 関連項目
 
-  - [川上つよしと彼のムードメイカーズ](https://ja.wikipedia.org/wiki/川上つよしと彼のムードメイカーズ "wikilink")
-  - [こだま和文](https://ja.wikipedia.org/wiki/こだま和文 "wikilink")
+  - [川上つよしと彼のムードメイカーズ](../Page/川上つよしと彼のムードメイカーズ.md "wikilink")
+  - [こだま和文](../Page/こだま和文.md "wikilink")
   - [Tommy february6](https://ja.wikipedia.org/wiki/Tommy_february6 "wikilink")
-  - [フィッシュマンズ](https://ja.wikipedia.org/wiki/フィッシュマンズ "wikilink")
+  - [フィッシュマンズ](../Page/フィッシュマンズ.md "wikilink")
   - [bonobos](https://ja.wikipedia.org/wiki/bonobos "wikilink")
-  - [The Miceteeth](https://ja.wikipedia.org/wiki/The_Miceteeth "wikilink")
+  - [The Miceteeth](../Page/The_Miceteeth.md "wikilink")
 
 ## 外部リンク
 

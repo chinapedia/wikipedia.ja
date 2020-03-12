@@ -5,18 +5,18 @@
 
 ## 概要
 
-  - 「[50%&50%](https://ja.wikipedia.org/wiki/50%&50% "wikilink")」と同時リリース。
+  - 「[50%&50%](../Page/50%&50%.md "wikilink")」と同時リリース。
   - 「50%&50%」と対になっており、本作は緑色である。
   - 対になっているのには秘密があり、目のイラストを繋げるように2枚のジャケットを置き、寄り目にして2つのジャケットを重ね合わせると、目の錯覚で瓶の中にいるhideが浮かび上がる仕掛けになっている。
-  - また、[隠しトラック](https://ja.wikipedia.org/wiki/隠しトラック "wikilink")が収録されており、92トラック目に「EYES LOVE YOU (JUNK VERSION)」を収録。
-  - 2006年に[SONIC STORAGE](https://ja.wikipedia.org/wiki/SONIC_STORAGE "wikilink") feat. KOHSHI from [FLOW](https://ja.wikipedia.org/wiki/FLOW "wikilink")が、森雪之丞の[トリビュート・アルバム](https://ja.wikipedia.org/wiki/トリビュート・アルバム "wikilink")「[Words of 雪之丞](https://ja.wikipedia.org/wiki/Words_of_雪之丞 "wikilink")」でカバー。
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[12月12日](../Page/12月12日.md "wikilink")に[マキシシングル](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")化され、再発売。
-  - [2013年](../Page/2013年.md "wikilink")、hideソロ活動20周年を記念した「hide TRIBUTE SPIRITS」シリーズの中では、「TRIBUTE III」でA(エース)、「TRIBUTE IV」にて[松永貴志](https://ja.wikipedia.org/wiki/松永貴志 "wikilink")、「TRIBUTE VII」では作詞を担当した[森雪之丞](https://ja.wikipedia.org/wiki/森雪之丞 "wikilink")と[BUCK-TICK](https://ja.wikipedia.org/wiki/BUCK-TICK "wikilink")の[今井寿](https://ja.wikipedia.org/wiki/今井寿 "wikilink")がそれぞれカバー。
+  - また、[隠しトラック](../Page/隠しトラック.md "wikilink")が収録されており、92トラック目に「EYES LOVE YOU (JUNK VERSION)」を収録。
+  - 2006年に[SONIC STORAGE](https://ja.wikipedia.org/wiki/SONIC_STORAGE "wikilink") feat. KOHSHI from [FLOW](../Page/FLOW.md "wikilink")が、森雪之丞の[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")「[Words of 雪之丞](../Page/Words_of_雪之丞.md "wikilink")」でカバー。
+  - [2007年](../Page/2007年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink")に[マキシシングル](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")化され、再発売。
+  - [2013年](../Page/2013年.md "wikilink")、hideソロ活動20周年を記念した「hide TRIBUTE SPIRITS」シリーズの中では、「TRIBUTE III」でA(エース)、「TRIBUTE IV」にて[松永貴志](https://ja.wikipedia.org/wiki/松永貴志 "wikilink")、「TRIBUTE VII」では作詞を担当した[森雪之丞](../Page/森雪之丞.md "wikilink")と[BUCK-TICK](../Page/BUCK-TICK.md "wikilink")の[今井寿](../Page/今井寿.md "wikilink")がそれぞれカバー。
 
 ## 収録曲
 
 1.  EYES LOVE YOU
-    （作詞：[森雪之丞](https://ja.wikipedia.org/wiki/森雪之丞 "wikilink") 作曲：[hide](https://ja.wikipedia.org/wiki/hide "wikilink")）
+    （作詞：[森雪之丞](../Page/森雪之丞.md "wikilink") 作曲：[hide](https://ja.wikipedia.org/wiki/hide "wikilink")）
 2.  OBLAAT
     （作詞・作曲：hide）
 3.  \- 91. (トラックごとに数秒間の無音)

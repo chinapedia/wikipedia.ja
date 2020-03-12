@@ -1,7 +1,7 @@
 > この記事は[Delayedead](https://ja.wikipedia.org/wiki/Delayedead)から翻訳されています。
 
 
-**delayedead**（ディレイデッド）は、[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[9月22日](../Page/9月22日.md "wikilink") にリリースされた[Syrup 16gの累計](https://ja.wikipedia.org/wiki/Syrup_16g "wikilink")6枚目、インディーズ2枚目のアルバムである。
+**delayedead**（ディレイデッド）は、[2004年](../Page/2004年.md "wikilink")[9月22日](../Page/9月22日.md "wikilink") にリリースされた[Syrup 16gの累計](../Page/Syrup_16g.md "wikilink")6枚目、インディーズ2枚目のアルバムである。
 
 ## 概要
 
@@ -24,7 +24,7 @@
       - 歌詞の一部が放送禁止用語になっているが、歌詞カードには歌詞の文字を変えて記載している。
 6.  **これで終わり**
 7.  **翌日**
-      - Free Throwの1曲目に収録されていた曲のリメイク。ビルの屋上で夕日をバックに歌うPVが新たに製作された。因みにこのPVの撮影をしていた時Syrupが所属するレーベル[DAIZAWA RECORDSの社長の遠藤ダイマスを始め多くの人間が](https://ja.wikipedia.org/wiki/DAIZAWA_RECORDS "wikilink")「五十嵐が落ちないかヒヤヒヤして撮った」と語っている。
+      - Free Throwの1曲目に収録されていた曲のリメイク。ビルの屋上で夕日をバックに歌うPVが新たに製作された。因みにこのPVの撮影をしていた時Syrupが所属するレーベル[DAIZAWA RECORDSの社長の遠藤ダイマスを始め多くの人間が](../Page/DAIZAWA_RECORDS.md "wikilink")「五十嵐が落ちないかヒヤヒヤして撮った」と語っている。
       - Free Throwバージョンではボーカルパートのボリュームに難があったが、本作収録版はアレンジがほぼ同じながらもきちんとボーカルパートが聞き取れるようになっている。
 8.  **I Hate Music**
 9.  **もういいって**

@@ -14,7 +14,7 @@
 | その後:                                                                                                                                               |
 | モットー:                                                                                                                                              |
 
-**ロバート・G・ブラッドレイ** (**USS Robert G. Bradley, FFG-49**) は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")のミサイル[フリゲート](../Page/フリゲート.md "wikilink")。[オリバー・ハザード・ペリー級ミサイルフリゲート](https://ja.wikipedia.org/wiki/オリバー・ハザード・ペリー級ミサイルフリゲート "wikilink")の39番艦。艦名は[レイテ沖海戦](../Page/レイテ沖海戦.md "wikilink")で[空母](https://ja.wikipedia.org/wiki/空母 "wikilink")[プリンストン](https://ja.wikipedia.org/wiki/プリンストン_\(CVL-23\) "wikilink") (*USS Princeton, CVL-23*) に乗艦、英雄的活動で戦死後に[海軍十字章](https://ja.wikipedia.org/wiki/海軍十字章 "wikilink")を受章した[ロバート・G・ブラッドレイ](https://ja.wikipedia.org/wiki/ロバート・G・ブラッドレイ "wikilink")[大尉](../Page/大尉.md "wikilink")に因む。
+**ロバート・G・ブラッドレイ** (**USS Robert G. Bradley, FFG-49**) は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")のミサイル[フリゲート](../Page/フリゲート.md "wikilink")。[オリバー・ハザード・ペリー級ミサイルフリゲート](../Page/オリバー・ハザード・ペリー級ミサイルフリゲート.md "wikilink")の39番艦。艦名は[レイテ沖海戦](../Page/レイテ沖海戦.md "wikilink")で[空母](https://ja.wikipedia.org/wiki/空母 "wikilink")[プリンストン](../Page/プリンストン_\(CVL-23\).md "wikilink") (*USS Princeton, CVL-23*) に乗艦、英雄的活動で戦死後に[海軍十字章](../Page/海軍十字章.md "wikilink")を受章した[ロバート・G・ブラッドレイ](https://ja.wikipedia.org/wiki/ロバート・G・ブラッドレイ "wikilink")[大尉](../Page/大尉.md "wikilink")に因む。
 
 ## 艦歴
 

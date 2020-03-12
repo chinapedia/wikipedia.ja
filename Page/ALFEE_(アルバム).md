@@ -19,11 +19,11 @@ LPレコードのジャケットは、黒い背景に同色のロゴが配置さ
 
 <!-- end list -->
 
-1.  **[夢よ急げ](https://ja.wikipedia.org/wiki/夢よ急げ "wikilink")**
+1.  **[夢よ急げ](../Page/夢よ急げ.md "wikilink")**
     （作詞・作曲：高見沢俊彦 / 編曲：井上鑑）
 2.  **ロックンロール・ナイトショー**
     （作詞・作曲：高見沢俊彦 / 編曲：ALFEE）
-3.  **[別れの律動 (リズム)](https://ja.wikipedia.org/wiki/別れの律動 "wikilink")**
+3.  **[別れの律動 (リズム)](../Page/別れの律動.md "wikilink")**
     （作詞・作曲：高見沢俊彦 / 編曲：ALFEE）
 4.  **ANGEL**
     （作詞・作曲：高見沢俊彦 / 編曲：ALFEE）
@@ -44,7 +44,7 @@ LPレコードのジャケットは、黒い背景に同色のロゴが配置さ
     （作詞・作曲：高見沢俊彦 / 編曲：ALFEE）
       -
         曲中の女性の歌声は、事務所の女性シンガーに手伝ってもらった。ライブでは、高見沢が裏声で歌っている。
-        後に[バナナフリッターズ](https://ja.wikipedia.org/wiki/バナナフリッターズ "wikilink")がアルバム『BANANA SENSATION』(1992年)でこの曲をカバーし(但し原曲と異なりラストで一番のサビを繰り返している)、[日高のり子](https://ja.wikipedia.org/wiki/日高のり子 "wikilink")が女性パートを担当した。
+        後に[バナナフリッターズ](../Page/バナナフリッターズ.md "wikilink")がアルバム『BANANA SENSATION』(1992年)でこの曲をカバーし(但し原曲と異なりラストで一番のサビを繰り返している)、[日高のり子](../Page/日高のり子.md "wikilink")が女性パートを担当した。
 4.  **真夜中のロマンス**
     （作詞・作曲：高見沢俊彦 / 編曲：ALFEE）
 5.  **不思議な関係**
@@ -78,7 +78,7 @@ LPレコードのジャケットは、黒い背景に同色のロゴが配置さ
 **E.guitar**
 
   - 高見沢俊彦
-  - [今剛](https://ja.wikipedia.org/wiki/今剛 "wikilink")(不思議な関係)
+  - [今剛](../Page/今剛.md "wikilink")(不思議な関係)
 
 **A.guitar**
 
@@ -92,7 +92,7 @@ LPレコードのジャケットは、黒い背景に同色のロゴが配置さ
 **Keybord**
 
   - [山石敬之](https://ja.wikipedia.org/wiki/山石敬之 "wikilink")
-  - [井上鑑](https://ja.wikipedia.org/wiki/井上鑑 "wikilink")(夢よ急げ・愛は思い出の中に・不思議な関係)
+  - [井上鑑](../Page/井上鑑.md "wikilink")(夢よ急げ・愛は思い出の中に・不思議な関係)
 
 **Piano**
 
@@ -101,7 +101,7 @@ LPレコードのジャケットは、黒い背景に同色のロゴが配置さ
 **Drums**
 
   - [富岡義広](https://ja.wikipedia.org/wiki/富岡義広 "wikilink")
-  - [林立夫](https://ja.wikipedia.org/wiki/林立夫 "wikilink")(不思議な関係)
+  - [林立夫](../Page/林立夫.md "wikilink")(不思議な関係)
 
 **Sax＆Flute**
 

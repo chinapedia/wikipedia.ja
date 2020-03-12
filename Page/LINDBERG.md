@@ -13,7 +13,7 @@
 
 <!-- end list -->
 
-  - [平川達也](https://ja.wikipedia.org/wiki/平川達也 "wikilink")
+  - [平川達也](../Page/平川達也.md "wikilink")
     （ひらかわ たつや、[1962年](../Page/1962年.md "wikilink")[2月27日](../Page/2月27日.md "wikilink") - ）[ギター](../Page/ギター.md "wikilink")
       - 出身：[静岡県](../Page/静岡県.md "wikilink")[浜松市](https://ja.wikipedia.org/wiki/浜松市 "wikilink")
       - 血液型：O型
@@ -21,12 +21,12 @@
 
 <!-- end list -->
 
-  - [川添智久](https://ja.wikipedia.org/wiki/川添智久 "wikilink")
+  - [川添智久](../Page/川添智久.md "wikilink")
     （かわぞえ ともひさ、[1964年](../Page/1964年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink") - ）[ベース](../Page/エレクトリックベース.md "wikilink")
       - 出身：[宮崎県](../Page/宮崎県.md "wikilink")[宮崎市](https://ja.wikipedia.org/wiki/宮崎市 "wikilink")大塚町（大塚町出身だと本人が言っている。）
       - 血液型：O型
       - ニックネーム：トモチャン
-      - ソロ活動で[アニメ](../Page/アニメ.md "wikilink")『[機動戦士Vガンダム](https://ja.wikipedia.org/wiki/機動戦士Vガンダム "wikilink")』のオープニング・テーマ曲を歌っていた。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")より[TOP GUNでの活動も行っている](https://ja.wikipedia.org/wiki/TOP_GUN "wikilink")。
+      - ソロ活動で[アニメ](../Page/アニメ.md "wikilink")『[機動戦士Vガンダム](../Page/機動戦士Vガンダム.md "wikilink")』のオープニング・テーマ曲を歌っていた。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")より[TOP GUNでの活動も行っている](https://ja.wikipedia.org/wiki/TOP_GUN "wikilink")。
 
 <!-- end list -->
 
@@ -40,8 +40,8 @@
 ## 主なサポートメンバー
 
   - [佐藤"darling"達也](https://ja.wikipedia.org/wiki/佐藤達哉_\(キーボーディスト\) "wikilink")
-    （佐藤達也、さとう・ダーリン・たつや、1964年[3月27日](../Page/3月27日.md "wikilink") - ）[キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")
-      - 出身：[山形県](https://ja.wikipedia.org/wiki/山形県 "wikilink")
+    （佐藤達也、さとう・ダーリン・たつや、1964年[3月27日](../Page/3月27日.md "wikilink") - ）[キーボード](../Page/キーボード_\(楽器\).md "wikilink")
+      - 出身：[山形県](../Page/山形県.md "wikilink")
       - サポートメンバーとして、かねてよりライブにおいてキーボードとして参加。2009年再結成の最終日である大晦日には一瞬(?)正式メンバーとなった(後述)。
       - ライブアルバム『Lindy Wingding』『FINAL FLIGHT』の演奏にも参加している。また、オリジナルアルバムのレコーディングにおいても一部楽曲の編曲やキーボーディストとして参加している。
       - LINDBERGのメンバーからは「ほぼLINDBERG」と言われ、「ダーリン佐藤」の愛称で呼ばれている。
@@ -49,7 +49,7 @@
 
 <!-- end list -->
 
-  - [渡部チェル](https://ja.wikipedia.org/wiki/渡部チェル "wikilink") ([PRISM](https://ja.wikipedia.org/wiki/プリズム_\(バンド\) "wikilink"))
+  - [渡部チェル](../Page/渡部チェル.md "wikilink") ([PRISM](../Page/プリズム_\(バンド\).md "wikilink"))
       -
         ダーリンがaikoのツアーと重なったため、LINDBERG LIVE TOUR 2014(7/21〜8/22)、a-nation island THE FIRE LEGEND 2014(8/16)、KOYABU SONIC 2014 FINAL(9/13)に参加。
 
@@ -72,7 +72,7 @@
     「BELIEVE IN LOVE」「だってそうじゃない\!?」(川添)
     「GAMBAらなくちゃね」「Green eyed Monster」(小柳)　など
 
-2ndシングル『[今すぐKiss Me](https://ja.wikipedia.org/wiki/今すぐKiss_Me "wikilink")』（最大の[ヒット曲](https://ja.wikipedia.org/wiki/ヒット曲 "wikilink")で[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")の[オリコン年間シングルセールス](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")3位）が、[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")『[世界で一番君が好き\!](https://ja.wikipedia.org/wiki/世界で一番君が好き! "wikilink")』の[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")に、『[BELIEVE IN LOVE](https://ja.wikipedia.org/wiki/BELIEVE_IN_LOVE "wikilink")』がフジテレビの[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[夢で逢えたら](../Page/夢で逢えたら_\(テレビ番組\).md "wikilink")』のオープニング曲にそれぞれ起用され、一躍注目を浴びる。
+2ndシングル『[今すぐKiss Me](https://ja.wikipedia.org/wiki/今すぐKiss_Me "wikilink")』（最大の[ヒット曲](../Page/ヒット曲.md "wikilink")で[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")の[オリコン年間シングルセールス](../Page/オリコンチャート.md "wikilink")3位）が、[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")『[世界で一番君が好き\!](../Page/世界で一番君が好き!.md "wikilink")』の[主題歌](../Page/主題歌.md "wikilink")に、『[BELIEVE IN LOVE](https://ja.wikipedia.org/wiki/BELIEVE_IN_LOVE "wikilink")』がフジテレビの[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[夢で逢えたら](../Page/夢で逢えたら_\(テレビ番組\).md "wikilink")』のオープニング曲にそれぞれ起用され、一躍注目を浴びる。
 
 [1993年](../Page/1993年.md "wikilink")に『[だってそうじゃない\!?](https://ja.wikipedia.org/wiki/だってそうじゃない!? "wikilink")』が大ヒットするなど安定した人気を誇っていたものの94年から95年頃にかけては売り上げ枚数が10万枚前後で落ち着いていた。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")にテイチクレコードに移籍したのを機に大幅なイメージチェンジを図った『もっと愛しあいましょ』をリリース。37万枚を超えるヒットを記録する。その後もリリースした曲が立て続けに数十万枚前後の売り上げ枚数を記録し第二の全盛期を迎えた。
 
@@ -80,17 +80,17 @@
 
 ### 解散
 
-[2002年](../Page/2002年.md "wikilink")に、“FINAL FLIGHTツアー”を最後に解散することを発表。同年[8月24日](../Page/8月24日.md "wikilink")に[渋谷公会堂](https://ja.wikipedia.org/wiki/渋谷公会堂 "wikilink")で行われた[ライブにて](https://ja.wikipedia.org/wiki/演奏会 "wikilink")、また、その4日後の[8月28日](../Page/8月28日.md "wikilink")には、[ファンクラブ](https://ja.wikipedia.org/wiki/ファンクラブ "wikilink")限定ライブをリンドバーグの出発の地、[渋谷TAKE OFF 7で行い](https://ja.wikipedia.org/wiki/渋谷TAKE_OFF_7 "wikilink")、14年間のバンド活動に[終止符](https://ja.wikipedia.org/wiki/終止符 "wikilink")を打った。
+[2002年](../Page/2002年.md "wikilink")に、“FINAL FLIGHTツアー”を最後に解散することを発表。同年[8月24日](../Page/8月24日.md "wikilink")に[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")で行われた[ライブにて](../Page/演奏会.md "wikilink")、また、その4日後の[8月28日](../Page/8月28日.md "wikilink")には、[ファンクラブ](../Page/ファンクラブ.md "wikilink")限定ライブをリンドバーグの出発の地、[渋谷TAKE OFF 7で行い](https://ja.wikipedia.org/wiki/渋谷TAKE_OFF_7 "wikilink")、14年間のバンド活動に[終止符](../Page/終止符.md "wikilink")を打った。
 
 ### 2009年再結成
 
 [2009年](../Page/2009年.md "wikilink")[2月22日](../Page/2月22日.md "wikilink")に行われた[渡瀬マキ](https://ja.wikipedia.org/wiki/渡瀬マキ "wikilink")ソロライブ「Present」にて、同年[12月31日](../Page/12月31日.md "wikilink")まで期間限定の再活動が発表され、[4月22日](../Page/4月22日.md "wikilink")に新録音ベストアルバム「[LINDBERG XX](https://ja.wikipedia.org/wiki/LINDBERG_XX "wikilink")」をリリースした。
 
-春には、「LINDBERG 20th Anniversary LIVE」が行われ、[4月25日](../Page/4月25日.md "wikilink")に「HOP」と冠して[Shibuya O-WESTで](https://ja.wikipedia.org/wiki/Shibuya_O-WEST "wikilink")7年ぶりにメンバー全員がステージに揃ったライブが行われた。その後、[5月9日](https://ja.wikipedia.org/wiki/5月9日 "wikilink")には[SHIBUYA-AX](https://ja.wikipedia.org/wiki/SHIBUYA-AX "wikilink")で「STEP」、[5月30日](../Page/5月30日.md "wikilink")には[渋谷C.C.Lemonホールで](https://ja.wikipedia.org/wiki/渋谷公会堂 "wikilink")「JUMP」と冠したライブがそれぞれ行われた。
+春には、「LINDBERG 20th Anniversary LIVE」が行われ、[4月25日](../Page/4月25日.md "wikilink")に「HOP」と冠して[Shibuya O-WESTで](../Page/Shibuya_O-WEST.md "wikilink")7年ぶりにメンバー全員がステージに揃ったライブが行われた。その後、[5月9日](../Page/5月9日.md "wikilink")には[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")で「STEP」、[5月30日](../Page/5月30日.md "wikilink")には[渋谷C.C.Lemonホールで](../Page/渋谷公会堂.md "wikilink")「JUMP」と冠したライブがそれぞれ行われた。
 
-夏には、解散前にはあまり参加の機会がなかった[サマーソニック](https://ja.wikipedia.org/wiki/サマーソニック "wikilink")や[a-nation](https://ja.wikipedia.org/wiki/a-nation "wikilink")などの野外イベントやロックフェスに相次いで参加した。9月28日には、約12年ぶりとなる[日本武道館](https://ja.wikipedia.org/wiki/日本武道館 "wikilink")での単独公演を開催。[11月5日](../Page/11月5日.md "wikilink")には、[10-FEET](https://ja.wikipedia.org/wiki/10-FEET "wikilink")のライブにゲスト参加した。
+夏には、解散前にはあまり参加の機会がなかった[サマーソニック](../Page/サマーソニック.md "wikilink")や[a-nation](https://ja.wikipedia.org/wiki/a-nation "wikilink")などの野外イベントやロックフェスに相次いで参加した。9月28日には、約12年ぶりとなる[日本武道館](../Page/日本武道館.md "wikilink")での単独公演を開催。[11月5日](../Page/11月5日.md "wikilink")には、[10-FEET](../Page/10-FEET.md "wikilink")のライブにゲスト参加した。
 
-冬には、「LINDBERG 二十周年ドキドキときどき 途中下車の旅 2009 〜そうだ仙台と東京と名古屋と大阪と広島と福岡でおりよう\!\!\!\!〜」というツアータイトル通り、全国6カ所でライブを行い、最終公演である[12月31日](../Page/12月31日.md "wikilink")の[中野サンプラザ](https://ja.wikipedia.org/wiki/中野サンプラザ "wikilink")にて、再び休息についた。
+冬には、「LINDBERG 二十周年ドキドキときどき 途中下車の旅 2009 〜そうだ仙台と東京と名古屋と大阪と広島と福岡でおりよう\!\!\!\!〜」というツアータイトル通り、全国6カ所でライブを行い、最終公演である[12月31日](../Page/12月31日.md "wikilink")の[中野サンプラザ](../Page/中野サンプラザ.md "wikilink")にて、再び休息についた。
 
 ### 2014年再始動
 
@@ -100,9 +100,9 @@
 
 ## エピソード
 
-  - 所属[レーベルが複数に渡り](../Page/レコードレーベル.md "wikilink")、また活動後期には[インディーズ](../Page/インディーズ.md "wikilink")レーベルからのリリースもあったことなどから、全ての活動時期の楽曲を網羅した[ベストアルバムはリリースされていない](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。
+  - 所属[レーベルが複数に渡り](../Page/レコードレーベル.md "wikilink")、また活動後期には[インディーズ](../Page/インディーズ.md "wikilink")レーベルからのリリースもあったことなどから、全ての活動時期の楽曲を網羅した[ベストアルバムはリリースされていない](../Page/ベスト・アルバム.md "wikilink")。
   - 最も多数のベストアルバムをリリースしているテイチクからは徳間JAPANのPUBLIC IMAGEレーベル所属以降92～99年までの選曲に限られ、初期の楽曲は92年の『[FLIGHT RECORDER 1989-1992 -little wing-](https://ja.wikipedia.org/wiki/FLIGHT_RECORDER_1989-1992_-little_wing- "wikilink")』での再録音源が使用され、同ベストアルバムで再録された楽曲以外は選曲されない。クリップ集においてはこの制約は無く、すべてのレーベルからオリジナル音源のPVが収録されている。また徳間JAPANからリリースしているベストアルバムでは初期の楽曲でもオリジナル音源が使用される。99年を最後にテイチクを離れて以降はポリドール、インディーズ、メルダック、09年再結成でエイベックス、14年再結成以降は無所属、とレーベルが多岐にわたり、00年以降の楽曲が選曲されたベストアルバムはリリースされていない。
-  - 「[every little thing every precious thing](https://ja.wikipedia.org/wiki/every_little_thing_every_precious_thing "wikilink")」（[1996年](../Page/1996年.md "wikilink")にリリース）が、当時[阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")の[藤川球児](https://ja.wikipedia.org/wiki/藤川球児 "wikilink")投手の入場曲として反響を呼んだため、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[8月1日](../Page/8月1日.md "wikilink")に[インペリアルレコードより](https://ja.wikipedia.org/wiki/インペリアルレコード_\(日本\) "wikilink")、当時の音源のまま「球児の歌」として11年ぶりに同タイトルのシングルが再発売された\[3\]。その際、[CDジャケットが藤川の写真に](../Page/コンパクトディスク.md "wikilink")、サイズも8cmから12cm(Maxi)へと一新された。同シングルの初回出荷数(約4,000枚)が、発売から3日で完売し品薄状態となり、また、そのこと自体がニュースに取り上げられる\[4\]など、今までLINDBERGを知らなかったファン層にも新たにその存在を知らしめることとなった。また、2006年には[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")時代の[杉内俊哉](https://ja.wikipedia.org/wiki/杉内俊哉 "wikilink")投手（現:[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")）もこの曲を入場曲に使用していた。
+  - 「[every little thing every precious thing](https://ja.wikipedia.org/wiki/every_little_thing_every_precious_thing "wikilink")」（[1996年](../Page/1996年.md "wikilink")にリリース）が、当時[阪神タイガース](../Page/阪神タイガース.md "wikilink")の[藤川球児](https://ja.wikipedia.org/wiki/藤川球児 "wikilink")投手の入場曲として反響を呼んだため、[2007年](../Page/2007年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")に[インペリアルレコードより](../Page/インペリアルレコード_\(日本\).md "wikilink")、当時の音源のまま「球児の歌」として11年ぶりに同タイトルのシングルが再発売された\[3\]。その際、[CDジャケットが藤川の写真に](../Page/コンパクトディスク.md "wikilink")、サイズも8cmから12cm(Maxi)へと一新された。同シングルの初回出荷数(約4,000枚)が、発売から3日で完売し品薄状態となり、また、そのこと自体がニュースに取り上げられる\[4\]など、今までLINDBERGを知らなかったファン層にも新たにその存在を知らしめることとなった。また、2006年には[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")時代の[杉内俊哉](../Page/杉内俊哉.md "wikilink")投手（現:[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")）もこの曲を入場曲に使用していた。
   - 2009年12月31日のライブ中にサポートメンバーである、ダーリン佐藤の正式加入が発表されるも、後に小柳のブログで「ネタ」だったことが判明。
 
 ## ディスコグラフィ
@@ -110,70 +110,70 @@
 ### シングル
 
 1.  **ROUTE 246** （1989年4月25日、10JC-402）
-    作曲は[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")の[森重樹一](https://ja.wikipedia.org/wiki/森重樹一 "wikilink")。
+    作曲は[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")の[森重樹一](../Page/森重樹一.md "wikilink")。
 2.  **[今すぐ Kiss Me](https://ja.wikipedia.org/wiki/今すぐKiss_Me "wikilink")** （1990年2月7日、TKDA-30050）
-    [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[世界で一番君が好き\!](https://ja.wikipedia.org/wiki/世界で一番君が好き! "wikilink")』主題歌、[映画](../Page/映画.md "wikilink")『[バブルへGO\!\! タイムマシンはドラム式](https://ja.wikipedia.org/wiki/バブルへGO!!_タイムマシンはドラム式 "wikilink")』挿入歌
+    [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[世界で一番君が好き\!](../Page/世界で一番君が好き!.md "wikilink")』主題歌、[映画](../Page/映画.md "wikilink")『[バブルへGO\!\! タイムマシンはドラム式](../Page/バブルへGO!!_タイムマシンはドラム式.md "wikilink")』挿入歌
 3.  **[JUMP](https://ja.wikipedia.org/wiki/JUMP_\(LINDBERGの曲\) "wikilink")** （1990年3月28日、TKDA-30051）
     国際スポーツフェア'90春イメージソング
 4.  **[Dream On 抱きしめて](https://ja.wikipedia.org/wiki/Dream_On_抱きしめて "wikilink")** （1990年9月26日、TKDA-30136）
-    [アルペンCF曲](https://ja.wikipedia.org/wiki/アルペン_\(企業\) "wikilink")、国際スポーツフェア'90春イメージソング
+    [アルペンCF曲](../Page/アルペン_\(企業\).md "wikilink")、国際スポーツフェア'90春イメージソング
 5.  **[ROUGH DIAMOND](https://ja.wikipedia.org/wiki/ROUGH_DIAMOND "wikilink")** （1990年10月24日、TKDA-30160）※[ビデオCD](../Page/ビデオCD.md "wikilink")も存在
-    [エースコック](https://ja.wikipedia.org/wiki/エースコック "wikilink")CF曲
+    [エースコック](../Page/エースコック.md "wikilink")CF曲
 6.  **[OH\! ANGEL](https://ja.wikipedia.org/wiki/OH!_ANGEL "wikilink")** （1990年11月21日、TKDA-30161）
     [エプソンCF曲](../Page/セイコーエプソン.md "wikilink")
 7.  **[GLORY DAYS](https://ja.wikipedia.org/wiki/GLORY_DAYS_\(LINDBERGの曲\) "wikilink")** （1991年3月27日、TKDA-30270）
 8.  **[BELIEVE IN LOVE](https://ja.wikipedia.org/wiki/BELIEVE_IN_LOVE "wikilink")** （1991年7月3日、TKDA-30306）
-    フジテレビ「[夢で逢えたら](../Page/夢で逢えたら_\(テレビ番組\).md "wikilink")」オープニング曲、[中日ドラゴンズ](https://ja.wikipedia.org/wiki/中日ドラゴンズ "wikilink")[英智](https://ja.wikipedia.org/wiki/英智 "wikilink")外野手の登場テーマ曲
+    フジテレビ「[夢で逢えたら](../Page/夢で逢えたら_\(テレビ番組\).md "wikilink")」オープニング曲、[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")[英智](../Page/英智.md "wikilink")外野手の登場テーマ曲
 9.  **[I MISS YOU](https://ja.wikipedia.org/wiki/I_MISS_YOU_\(LINDBERGの曲\) "wikilink")** （1991年10月18日、TKDA-30394）
 10. **[恋をしようよ Yeah\! Yeah\!](https://ja.wikipedia.org/wiki/恋をしようよ_Yeah!_Yeah! "wikilink")** （1992年4月22日、TKDP-30562）
     [コカ・コーラ](../Page/コカ・コーラ.md "wikilink")CF曲
 11. **[さよなら Beautiful Days／千年たっても](https://ja.wikipedia.org/wiki/さよなら_Beautiful_Days/千年たっても "wikilink")** （1992年11月6日、TKDP-30690）
 12. **[Magical Dreamer](https://ja.wikipedia.org/wiki/Magical_Dreamer "wikilink")** （1992年11月13日、TKDP-30692）
-    [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（[NHK教育](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")）連続[アニメ](../Page/アニメ.md "wikilink")『[ヤダモン](../Page/ヤダモン.md "wikilink")』オープニング曲、エンディング曲
+    [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（[NHK教育](../Page/NHK教育テレビジョン.md "wikilink")）連続[アニメ](../Page/アニメ.md "wikilink")『[ヤダモン](../Page/ヤダモン.md "wikilink")』オープニング曲、エンディング曲
 13. **[胸さわぎの After School](https://ja.wikipedia.org/wiki/胸さわぎの_After_School "wikilink")** （1993年3月17日、TKDP-30791）
     [進研ゼミCF曲](https://ja.wikipedia.org/wiki/ベネッセコーポレーション "wikilink")
 14. **[会いたくて -Lover Soul-](https://ja.wikipedia.org/wiki/会いたくて_-Lover_Soul- "wikilink")** （1993年6月18日、TKDP-70088）
     [AXIA](https://ja.wikipedia.org/wiki/AXIA "wikilink") CF曲
 15. **[想い出のWater Moon／君に吹く風](https://ja.wikipedia.org/wiki/想い出のWater_Moon／君に吹く風 "wikilink")** （1993年8月11日、TKDP-70136）
-    [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")「[TVチャンピオン](https://ja.wikipedia.org/wiki/TVチャンピオン "wikilink")」エンディング曲
+    [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")「[TVチャンピオン](../Page/TVチャンピオン.md "wikilink")」エンディング曲
 16. **[だってそうじゃない\!?](https://ja.wikipedia.org/wiki/だってそうじゃない!? "wikilink")** （1993年10月22日、TKDP-70177）
     AXIA CF曲
 17. **[大キライ\!／二人きりで行こうよ](https://ja.wikipedia.org/wiki/大キライ!/二人きりで行こうよ "wikilink")** （1993年11月22日、TKDP-70181）
-    [テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")「[平成イヌ物語バウ](https://ja.wikipedia.org/wiki/バウ_\(漫画\) "wikilink")」オープニング、エンディング曲。「大キライ\!」のシングルヴァージョンには「平成イヌ物語バウ」のバウ（[声優](../Page/声優.md "wikilink")：[園部啓一](https://ja.wikipedia.org/wiki/園部啓一 "wikilink")）の声が入っている。
+    [テレビ朝日](../Page/テレビ朝日.md "wikilink")「[平成イヌ物語バウ](../Page/バウ_\(漫画\).md "wikilink")」オープニング、エンディング曲。「大キライ\!」のシングルヴァージョンには「平成イヌ物語バウ」のバウ（[声優](../Page/声優.md "wikilink")：[園部啓一](../Page/園部啓一.md "wikilink")）の声が入っている。
 18. **[夢であえたら -Do you love me?-](https://ja.wikipedia.org/wiki/夢であえたら_-Do_you_love_me?- "wikilink")** （1993年12月1日、TKDP-70204）
     [ブルボン](../Page/ブルボン.md "wikilink")・ビックルEX CF曲
 19. **[GAMBAらなくちゃね](https://ja.wikipedia.org/wiki/GAMBAらなくちゃね "wikilink")** （1994年3月16日、TKDP-70309）
     進研ゼミCF曲、[2002年](../Page/2002年.md "wikilink")に[prits](https://ja.wikipedia.org/wiki/prits "wikilink")がカバー。
 20. **[清く正しく行こう](https://ja.wikipedia.org/wiki/清く正しく行こう "wikilink")** （1994年5月18日、TKDP-70366）
-    フジテレビ『[ゴールデンタイム](https://ja.wikipedia.org/wiki/ゴールデンタイム_\(テレビ番組\) "wikilink")』テーマ曲、フジテレビ「[めざましテレビ](https://ja.wikipedia.org/wiki/めざましテレビ "wikilink")」テーマ曲
+    フジテレビ『[ゴールデンタイム](../Page/ゴールデンタイム_\(テレビ番組\).md "wikilink")』テーマ曲、フジテレビ「[めざましテレビ](https://ja.wikipedia.org/wiki/めざましテレビ "wikilink")」テーマ曲
 21. **[さよならをあげる](https://ja.wikipedia.org/wiki/さよならをあげる "wikilink")** （1995年3月16日、TKDP-70611）
-    [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")春-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")秋、[AXIA](https://ja.wikipedia.org/wiki/AXIA "wikilink") [CM曲](https://ja.wikipedia.org/wiki/コマーシャルメッセージ "wikilink")
+    [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")春-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")秋、[AXIA](https://ja.wikipedia.org/wiki/AXIA "wikilink") [CM曲](../Page/コマーシャルメッセージ.md "wikilink")
 22. **[水着とBeachとBoys](https://ja.wikipedia.org/wiki/水着とBeachとBoys "wikilink")** （1995年5月2日、TKDP-70615）
-    '95[三ツ矢サイダー](https://ja.wikipedia.org/wiki/三ツ矢サイダー "wikilink") CF曲
+    '95[三ツ矢サイダー](../Page/三ツ矢サイダー.md "wikilink") CF曲
 23. **[もっと愛しあいましょ](https://ja.wikipedia.org/wiki/もっと愛しあいましょ "wikilink")** （1995年11月1日、TMDL-1）
-    テレビ朝日「[かざあなダウンタウン](https://ja.wikipedia.org/wiki/かざあなダウンタウン "wikilink")」テーマ曲。
-    この曲の中の「確か[イチロー](https://ja.wikipedia.org/wiki/イチロー "wikilink")が満塁[ホームラン打ったあの日以来](../Page/本塁打.md "wikilink")、会ってないわよね」という歌詞は、NHKの[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")出演時には 「確かあの選手が満塁ホームラン」と歌われた。 [2011年](../Page/2011年.md "wikilink")には[野水いおりがカバーした](https://ja.wikipedia.org/wiki/野水伊織 "wikilink")。（テレビアニメ『[森田さんは無口](https://ja.wikipedia.org/wiki/森田さんは無口 "wikilink")。』主題歌）
+    テレビ朝日「[かざあなダウンタウン](../Page/かざあなダウンタウン.md "wikilink")」テーマ曲。
+    この曲の中の「確か[イチロー](https://ja.wikipedia.org/wiki/イチロー "wikilink")が満塁[ホームラン打ったあの日以来](../Page/本塁打.md "wikilink")、会ってないわよね」という歌詞は、NHKの[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")出演時には 「確かあの選手が満塁ホームラン」と歌われた。 [2011年](../Page/2011年.md "wikilink")には[野水いおりがカバーした](../Page/野水伊織.md "wikilink")。（テレビアニメ『[森田さんは無口](https://ja.wikipedia.org/wiki/森田さんは無口 "wikilink")。』主題歌）
 24. **[君のいちばんに…](https://ja.wikipedia.org/wiki/君のいちばんに… "wikilink")** （1996年5月1日、TMDL-3）
-    [ナショナルEolia](https://ja.wikipedia.org/wiki/パナソニック "wikilink") CF曲、[オリックス・バファローズ](https://ja.wikipedia.org/wiki/オリックス・バファローズ "wikilink")[井川慶](../Page/井川慶.md "wikilink")投手の登場テーマ曲、映画『[秒速5センチメートル](https://ja.wikipedia.org/wiki/秒速5センチメートル "wikilink")』挿入歌
+    [ナショナルEolia](https://ja.wikipedia.org/wiki/パナソニック "wikilink") CF曲、[オリックス・バファローズ](../Page/オリックス・バファローズ.md "wikilink")[井川慶](../Page/井川慶.md "wikilink")投手の登場テーマ曲、映画『[秒速5センチメートル](https://ja.wikipedia.org/wiki/秒速5センチメートル "wikilink")』挿入歌
 25. **[every little thing every precious thing](https://ja.wikipedia.org/wiki/every_little_thing_every_precious_thing "wikilink")** （1996年7月1日、TMDL-5、2007年8月1日再発売/TECI-126）
-    [パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink") [ハイビジョン](../Page/ハイビジョン.md "wikilink")CF曲、[阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")[藤川球児](https://ja.wikipedia.org/wiki/藤川球児 "wikilink")投手の登場テーマ曲
+    [パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink") [ハイビジョン](../Page/ハイビジョン.md "wikilink")CF曲、[阪神タイガース](../Page/阪神タイガース.md "wikilink")[藤川球児](https://ja.wikipedia.org/wiki/藤川球児 "wikilink")投手の登場テーマ曲
 26. **[Green eyed Monster](https://ja.wikipedia.org/wiki/Green_eyed_Monster "wikilink")** （1996年8月19日、TMDL-6）
-    フジテレビ『[もう我慢できない\!](https://ja.wikipedia.org/wiki/もう我慢できない! "wikilink")』テーマ曲
+    フジテレビ『[もう我慢できない\!](../Page/もう我慢できない!.md "wikilink")』テーマ曲
 27. **[YAH\! YAH\! YAH\!](https://ja.wikipedia.org/wiki/YAH!_YAH!_YAH! "wikilink")** （1997年2月13日、TMDL-8）
 28. **[明日は明日の風が吹く](https://ja.wikipedia.org/wiki/明日は明日の風が吹く_\(LINDBERGの曲\) "wikilink")** （1997年4月16日、TMDL-10）
     [ロッテ](../Page/ロッテ.md "wikilink")[トッポCF曲](https://ja.wikipedia.org/wiki/トッポ_\(菓子\) "wikilink")
 29. **[Sugar free](https://ja.wikipedia.org/wiki/Sugar_free "wikilink")** （1997年5月28日、TMDL-11）
     NHK『[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")』エンディング曲
 30. **[風](https://ja.wikipedia.org/wiki/風_\(LINDBERGの曲\) "wikilink")** （1998年3月4日、TMDL-12）
-    '98 [アサヒ飲料](../Page/アサヒ飲料.md "wikilink") [バヤリース](https://ja.wikipedia.org/wiki/バヤリース "wikilink") CF曲
+    '98 [アサヒ飲料](../Page/アサヒ飲料.md "wikilink") [バヤリース](../Page/バヤリース.md "wikilink") CF曲
 31. **[願いがかなうように](https://ja.wikipedia.org/wiki/願いがかなうように "wikilink")**（1999年10月21日、TECN-12577）
-    [TBS系](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")「[ワンダフル](../Page/ワンダフル_\(テレビ番組\).md "wikilink")」内アニメ『[イッパツ危機娘](https://ja.wikipedia.org/wiki/イッパツ危機娘 "wikilink")』テーマ曲、[ダリヤ](https://ja.wikipedia.org/wiki/ダリヤ "wikilink")サロンドプロ エッセンスカラーCF曲
+    [TBS系](../Page/TBSテレビ.md "wikilink")「[ワンダフル](../Page/ワンダフル_\(テレビ番組\).md "wikilink")」内アニメ『[イッパツ危機娘](../Page/イッパツ危機娘.md "wikilink")』テーマ曲、[ダリヤ](../Page/ダリヤ.md "wikilink")サロンドプロ エッセンスカラーCF曲
 32. **[frosty love](https://ja.wikipedia.org/wiki/frosty_love "wikilink")** （2001年2月21日、UPCH-5037）
-    フジテレビ『[発掘\!あるある大事典](https://ja.wikipedia.org/wiki/発掘!あるある大事典 "wikilink")』エンディング曲
+    フジテレビ『[発掘\!あるある大事典](../Page/発掘!あるある大事典.md "wikilink")』エンディング曲
 33. **[you were there](https://ja.wikipedia.org/wiki/you_were_there "wikilink")** （2002年1月1日、LCFC-2）
 34. **[Teenage Blue](https://ja.wikipedia.org/wiki/Teenage_Blue "wikilink")** （2002年6月26日、LCFC-4）
 35. **[it's too late](https://ja.wikipedia.org/wiki/it's_too_late "wikilink")** （2002年8月7日、LCFC-6）
-    [日本テレビ](../Page/日本テレビ放送網.md "wikilink")『[モグモグGOMBO](https://ja.wikipedia.org/wiki/モグモグGOMBO "wikilink")』エンディング曲
+    [日本テレビ](../Page/日本テレビ放送網.md "wikilink")『[モグモグGOMBO](../Page/モグモグGOMBO.md "wikilink")』エンディング曲
 36. **[LIVE your LIFE](https://ja.wikipedia.org/wiki/LIVE_your_LIFE "wikilink")** （2009年12月9日、AVCD31554/B\[CD+DVD\]）
 
 ### オリジナルアルバム
@@ -181,19 +181,19 @@
 1.  [LINDBERG I](https://ja.wikipedia.org/wiki/LINDBERG_I "wikilink")（[1989年](../Page/1989年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")・32JC-406）
 2.  [LINDBERG II](https://ja.wikipedia.org/wiki/LINDBERG_II "wikilink")（1989年[11月25日](../Page/11月25日.md "wikilink")・30JC-470）
 3.  [LINDBERG III](https://ja.wikipedia.org/wiki/LINDBERG_III "wikilink")（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月21日](../Page/4月21日.md "wikilink")・TKCA-30052）
-4.  [LINDBERG IV](https://ja.wikipedia.org/wiki/LINDBERG_IV "wikilink")（[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")[4月19日](../Page/4月19日.md "wikilink")・TKCA-30278/初回デジパック）
+4.  [LINDBERG IV](../Page/LINDBERG_IV.md "wikilink")（[1991年](../Page/1991年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink")・TKCA-30278/初回デジパック）
 5.  [EXTRA FLIGHT](https://ja.wikipedia.org/wiki/EXTRA_FLIGHT "wikilink")（1991年[11月1日](../Page/11月1日.md "wikilink")・TKCP-30395）
-6.  [LINDBERG V](https://ja.wikipedia.org/wiki/LINDBERG_V "wikilink")（[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")[5月22日](../Page/5月22日.md "wikilink")・TKCP-30600/初回写真集付三方背ケース{赤青白}）
+6.  [LINDBERG V](../Page/LINDBERG_V.md "wikilink")（[1992年](../Page/1992年.md "wikilink")[5月22日](../Page/5月22日.md "wikilink")・TKCP-30600/初回写真集付三方背ケース{赤青白}）
 7.  [LINDBERG VI](https://ja.wikipedia.org/wiki/LINDBERG_VI "wikilink")（[1993年](../Page/1993年.md "wikilink")[6月18日](../Page/6月18日.md "wikilink")・TKCP-70060/初回三方背ケース）
-8.  [EXTRA FLIGHT II -human aircraft-](https://ja.wikipedia.org/wiki/EXTRA_FLIGHT_II_-human_aircraft- "wikilink")（1993年[11月19日](../Page/11月19日.md "wikilink")・TKCP-70190）
-9.  [LINDBERG VII](https://ja.wikipedia.org/wiki/LINDBERG_VII "wikilink")（[1994年](../Page/1994年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink")・TKCP-70391）
-10. [LINDBERG VIII](https://ja.wikipedia.org/wiki/LINDBERG_VIII "wikilink")（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[6月6日](../Page/6月6日.md "wikilink")・TKCP-70630/初回缶バッジ付Box）
-11. [LINDBERG IX](https://ja.wikipedia.org/wiki/LINDBERG_IX "wikilink")（[1996年](../Page/1996年.md "wikilink")[9月9日](../Page/9月9日.md "wikilink")・TMCL-30002/初回三方背ケース）
+8.  [EXTRA FLIGHT II -human aircraft-](../Page/EXTRA_FLIGHT_II_-human_aircraft-.md "wikilink")（1993年[11月19日](../Page/11月19日.md "wikilink")・TKCP-70190）
+9.  [LINDBERG VII](../Page/LINDBERG_VII.md "wikilink")（[1994年](../Page/1994年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink")・TKCP-70391）
+10. [LINDBERG VIII](../Page/LINDBERG_VIII.md "wikilink")（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[6月6日](../Page/6月6日.md "wikilink")・TKCP-70630/初回缶バッジ付Box）
+11. [LINDBERG IX](../Page/LINDBERG_IX.md "wikilink")（[1996年](../Page/1996年.md "wikilink")[9月9日](../Page/9月9日.md "wikilink")・TMCL-30002/初回三方背ケース）
 12. [LINDBERG X](https://ja.wikipedia.org/wiki/LINDBERG_X "wikilink")（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")6月18日・TMCL-30004/スリーブケース）
 13. [LINDBERG XI](https://ja.wikipedia.org/wiki/LINDBERG_XI "wikilink")（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")・TMCL-30005/スリーブケース）
 14. [LINDBERG XII](https://ja.wikipedia.org/wiki/LINDBERG_XII "wikilink")（[1999年](../Page/1999年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink")・TMCN-30597）
 15. [LINDBERG XIII](https://ja.wikipedia.org/wiki/LINDBERG_XIII "wikilink")（[2001年](../Page/2001年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")・UPCH-1056）
-16. [LINDBERG XIV](https://ja.wikipedia.org/wiki/LINDBERG_XIV "wikilink")（[2002年](../Page/2002年.md "wikilink")[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink")・LCFC-1）
+16. [LINDBERG XIV](https://ja.wikipedia.org/wiki/LINDBERG_XIV "wikilink")（[2002年](../Page/2002年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")・LCFC-1）
 17. [LINDBERG XV](https://ja.wikipedia.org/wiki/LINDBERG_XV "wikilink")（2002年[7月10日](../Page/7月10日.md "wikilink")・LCFC-5）
 
 ### ライブ盤
@@ -203,7 +203,7 @@
 <!-- end list -->
 
   -
-    [国立代々木競技場](https://ja.wikipedia.org/wiki/国立代々木競技場 "wikilink")（1993年12月2日）、[日清パワーステーション](https://ja.wikipedia.org/wiki/日清パワーステーション "wikilink")（1993年12月24日）でのアコースティックライヴを収録。初回プレス完全限定盤。
+    [国立代々木競技場](../Page/国立代々木競技場.md "wikilink")（1993年12月2日）、[日清パワーステーション](../Page/日清パワーステーション.md "wikilink")（1993年12月24日）でのアコースティックライヴを収録。初回プレス完全限定盤。
 
 <!-- end list -->
 
@@ -299,7 +299,7 @@
 
 <!-- end list -->
 
-  - [FINAL BEST](https://ja.wikipedia.org/wiki/FINAL_BEST "wikilink")（2002年8月21日、TECN-35825-6、2枚組、30曲収録）
+  - [FINAL BEST](../Page/FINAL_BEST.md "wikilink")（2002年8月21日、TECN-35825-6、2枚組、30曲収録）
 
 <!-- end list -->
 
@@ -308,7 +308,7 @@
 
 <!-- end list -->
 
-  - [GOLDEN☆BEST リンドバーグ EARLY FLIGHT](https://ja.wikipedia.org/wiki/GOLDEN☆BEST_リンドバーグ_EARLY_FLIGHT "wikilink")（2004年11月25日、TKCA-72781、2枚組、38曲収録）
+  - [GOLDEN☆BEST リンドバーグ EARLY FLIGHT](../Page/GOLDEN☆BEST_リンドバーグ_EARLY_FLIGHT.md "wikilink")（2004年11月25日、TKCA-72781、2枚組、38曲収録）
 
 <!-- end list -->
 
@@ -387,7 +387,7 @@
 <!-- end list -->
 
   -
-    [富士電機](https://ja.wikipedia.org/wiki/富士電機 "wikilink")イメージソングの非売品。
+    [富士電機](../Page/富士電機.md "wikilink")イメージソングの非売品。
 
 <!-- end list -->
 
@@ -518,9 +518,9 @@
 
 出演順は「（紅組出演順）/（紅組出場者数）」で表す。
 
-| 年/放送回                                                                     | 回 | 曲目                                                                                    | 出演順  | 対戦相手                                                  |
-| ------------------------------------------------------------------------- | - | ------------------------------------------------------------------------------------- | ---- | ----------------------------------------------------- |
-| 1992年（平成4年）/[第43回](https://ja.wikipedia.org/wiki/第43回NHK紅白歌合戦 "wikilink") | 初 | 「[恋をしようよ Yeah\! Yeah\!](https://ja.wikipedia.org/wiki/恋をしようよ_Yeah!_Yeah! "wikilink")」 | 2/28 | [小野正利](https://ja.wikipedia.org/wiki/小野正利 "wikilink") |
+| 年/放送回                                                  | 回 | 曲目                                                                                    | 出演順  | 対戦相手                               |
+| ------------------------------------------------------ | - | ------------------------------------------------------------------------------------- | ---- | ---------------------------------- |
+| 1992年（平成4年）/[第43回](../Page/第43回NHK紅白歌合戦.md "wikilink") | 初 | 「[恋をしようよ Yeah\! Yeah\!](https://ja.wikipedia.org/wiki/恋をしようよ_Yeah!_Yeah! "wikilink")」 | 2/28 | [小野正利](../Page/小野正利.md "wikilink") |
 
 ## タイアップ
 
@@ -532,7 +532,7 @@
 | この空にちかって        | 「[ヤダモン](../Page/ヤダモン.md "wikilink")」エンディングテーマ                            | 1992-1993 | Single「[Magical Dreamer](https://ja.wikipedia.org/wiki/Magical_Dreamer "wikilink")」                                                                   |
 | 大キライ\!          | 「[平成イヌ物語バウ](https://ja.wikipedia.org/wiki/平成イヌ物語バウ "wikilink")」オープニングテーマ | 1993-1994 | Single「[大キライ\!／二人きりで行こうよ](https://ja.wikipedia.org/wiki/大キライ!/二人きりで行こうよ "wikilink")」                                                                  |
 | 二人きりで行こうよ       | 「[平成イヌ物語バウ](https://ja.wikipedia.org/wiki/平成イヌ物語バウ "wikilink")」エンディングテーマ | 1993-1994 | Single「[大キライ\!／二人きりで行こうよ](https://ja.wikipedia.org/wiki/大キライ!/二人きりで行こうよ "wikilink")」                                                                  |
-| 願いがかなうように       | 「[イッパツ危機娘](https://ja.wikipedia.org/wiki/イッパツ危機娘 "wikilink")」主題歌         | 1999      | Single「[願いがかなうように](https://ja.wikipedia.org/wiki/願いがかなうように "wikilink")」, Album「[LINDBERG XII](https://ja.wikipedia.org/wiki/LINDBERG_XII "wikilink")」 |
+| 願いがかなうように       | 「[イッパツ危機娘](../Page/イッパツ危機娘.md "wikilink")」主題歌                            | 1999      | Single「[願いがかなうように](https://ja.wikipedia.org/wiki/願いがかなうように "wikilink")」, Album「[LINDBERG XII](https://ja.wikipedia.org/wiki/LINDBERG_XII "wikilink")」 |
 |                 |                                                                          |           |                                                                                                                                                       |
 
 ### 番組
@@ -541,23 +541,23 @@
 
 ## カバー
 
-  - [Prits](https://ja.wikipedia.org/wiki/Prits "wikilink") 「GAMBAらなくちゃね 〜Prits Emotion〜」 （アルバム『cherry blossom』\#11、2002年）
+  - [Prits](../Page/Prits.md "wikilink") 「GAMBAらなくちゃね 〜Prits Emotion〜」 （アルバム『cherry blossom』\#11、2002年）
   - [乙葉](../Page/乙葉.md "wikilink") 「every little thing every precious thing」 （アルバム『Otoha CD Volume.1』\#7、2002年5月）
   - [EASY GRIP](https://ja.wikipedia.org/wiki/EASY_GRIP "wikilink") 「OVER THE TOP」 （アルバム『TEENAGE GRAFFITTI』、2002年、渡瀬が参加）
-  - [Ai+BAND](https://ja.wikipedia.org/wiki/Ai+BAND "wikilink") 「BELIEVE IN LOVE」 （シングル『BELIEVE IN LOVE』、アルバム『Hello\! We are Ai+BAND\!\!』、2003年、川添が参加）
+  - [Ai+BAND](../Page/Ai+BAND.md "wikilink") 「BELIEVE IN LOVE」 （シングル『BELIEVE IN LOVE』、アルバム『Hello\! We are Ai+BAND\!\!』、2003年、川添が参加）
   - [GUITARFREAKS](../Page/GUITARFREAKS.md "wikilink")サウンドトラック「BELIEVE IN LOVE」 （アルバム『GUITARFREAKS 10thMIX & drummania 9thMIX Soundtracks』\#39、2003/12/17）
   - AI+BAND 「LITTLE WING」（アルバム『FIGHTING GIRL☆☆』、2004年、川添が参加）
-  - プリティバンド「今すぐ Kiss Me」\[5\] （[平和 (パチンコ)](https://ja.wikipedia.org/wiki/平和_\(パチンコ\) "wikilink") 「CRプリティバンドYJ」, 2004/10/25〜稼働）
-  - [Mi](https://ja.wikipedia.org/wiki/Mi_\(バンド\) "wikilink") 「今すぐ Kiss Me」 （ネットワーク配信\[6\]、2006年）
-  - [装置メガネ](https://ja.wikipedia.org/wiki/装置メガネ "wikilink") 「今すぐ Kiss Me」 （アルバム『青春メガネ』\#9、2006年）
-  - [JAM](https://ja.wikipedia.org/wiki/JAM_\(アイドルグループ\) "wikilink")(奥田順子、春名亜美、村上実沙子)「今すぐ Kiss Me」（アルバム『JAM\*TRANCE』\#9, GYCP-10050, 2006/3/24）
+  - プリティバンド「今すぐ Kiss Me」\[5\] （[平和 (パチンコ)](../Page/平和_\(パチンコ\).md "wikilink") 「CRプリティバンドYJ」, 2004/10/25〜稼働）
+  - [Mi](../Page/Mi_\(バンド\).md "wikilink") 「今すぐ Kiss Me」 （ネットワーク配信\[6\]、2006年）
+  - [装置メガネ](../Page/装置メガネ.md "wikilink") 「今すぐ Kiss Me」 （アルバム『青春メガネ』\#9、2006年）
+  - [JAM](../Page/JAM_\(アイドルグループ\).md "wikilink")(奥田順子、春名亜美、村上実沙子)「今すぐ Kiss Me」（アルバム『JAM\*TRANCE』\#9, GYCP-10050, 2006/3/24）
   - (不明) 「今すぐ Kiss Me」 （アルバム『J-POP 80-90's 懐ゲー Taste Mix』\#9, GYCP-10111, 2007/5/23）
-  - [平田裕香](https://ja.wikipedia.org/wiki/平田裕香 "wikilink") 「今すぐ Kiss Me」 （シングル『恋のダイヤル6700』\#2、2008年4月）
+  - [平田裕香](../Page/平田裕香.md "wikilink") 「今すぐ Kiss Me」 （シングル『恋のダイヤル6700』\#2、2008年4月）
   - Salon feat. 宮良彩子 「今すぐ Kiss Me」 （アルバム『My Time』\#8、2008/5/21）
-  - [真行寺恵里](https://ja.wikipedia.org/wiki/真行寺恵里 "wikilink") 「今すぐ Kiss Me」 （アルバム『J-POP Happy Drive Mix -Rainbow Rose Edition-』\#15、2008/5/21）
+  - [真行寺恵里](../Page/真行寺恵里.md "wikilink") 「今すぐ Kiss Me」 （アルバム『J-POP Happy Drive Mix -Rainbow Rose Edition-』\#15、2008/5/21）
   - viola([cargo](https://ja.wikipedia.org/wiki/cargo "wikilink")) 「今すぐ Kiss Me」 （アルバム『le table』\#3、2008/5/21）
   - YO-SHIMI 「今すぐ Kiss Me」 （アルバム『From Front -JPOP IN THE HOUSE-』\#2、2008/5/28）
-  - [ANNA](https://ja.wikipedia.org/wiki/サントス・アンナ "wikilink") 「今すぐ Kiss Me」 （アルバム『恋のカタチ』\#10、2008年9月、平川プロデュース、川添・小柳レコーディング参加。アレンジは[GaGaalinG](https://ja.wikipedia.org/wiki/GaGaalinG "wikilink")の[MOTO G3](https://ja.wikipedia.org/wiki/MOTO_G3 "wikilink")\[7\]）
+  - [ANNA](../Page/サントス・アンナ.md "wikilink") 「今すぐ Kiss Me」 （アルバム『恋のカタチ』\#10、2008年9月、平川プロデュース、川添・小柳レコーディング参加。アレンジは[GaGaalinG](https://ja.wikipedia.org/wiki/GaGaalinG "wikilink")の[MOTO G3](https://ja.wikipedia.org/wiki/MOTO_G3 "wikilink")\[7\]）
   - [merry merry Boo](https://ja.wikipedia.org/wiki/merry_merry_Boo "wikilink") 「今すぐ Kiss Me」（ネットワーク配信\[8\]、2009/2/25）
   - [デーモン小暮](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink") 「BELIEVE IN LOVE」 （アルバム『[GIRLS' ROCK 〜Tiara〜](https://ja.wikipedia.org/wiki/GIRLS'_ROCK_〜Tiara〜 "wikilink")』 \#7、2009/2/11）
   - [美吉田月](https://ja.wikipedia.org/wiki/美吉田月 "wikilink") 「今すぐ Kiss Me」 （アルバム『Ska Flavor \#2』\#7、2009/9/16）
@@ -568,9 +568,9 @@
   - JURIAN BEAT CRISIS 「今すぐ Kiss Me feat. 渡瀬マキ」 （アルバム『JURIAN BEAT CRISIS』\#14, 2010年9月, 渡瀬が参加）
   - [アンジェラ・アキ](https://ja.wikipedia.org/wiki/アンジェラ・アキ "wikilink") 「今すぐ Kiss Me」 （DVD『Concert Tour 2009 "ANSWER" ドキュメンタリー&ライブ』Disc2-\#14, 2010/9/22）
   - [Soupnote](https://ja.wikipedia.org/wiki/Soupnote "wikilink") 「今すぐ Kiss Me」 （アルバム『ゆるふわ青春ロック 〜18's J-POP Covers〜』\[9\]\#9, 2011年10月12日）
-  - [中川翔子](https://ja.wikipedia.org/wiki/中川翔子 "wikilink") 「今すぐ Kiss Me」 （アルバム『[しょこたん☆かばー4-2 〜しょこ☆ロック篇〜](https://ja.wikipedia.org/wiki/しょこたん☆かばー4#ロック篇 "wikilink")』\#5, 2011年10月12日）
-  - [野水いおり](https://ja.wikipedia.org/wiki/野水伊織 "wikilink") 「もっと愛しあいましょ」 （アルバム『月虹カタン』\#8, 2011年10月19日, 川添が参加）
-  - HARUKA([Missing Link](https://ja.wikipedia.org/wiki/Missing_Link "wikilink")) 「今すぐ Kiss Me」 （アルバム『KISS歌MIX mixed by DJ SHINSTAR』\#31, SASCD-1003, 2012年9月12日）
+  - [中川翔子](../Page/中川翔子.md "wikilink") 「今すぐ Kiss Me」 （アルバム『[しょこたん☆かばー4-2 〜しょこ☆ロック篇〜](https://ja.wikipedia.org/wiki/しょこたん☆かばー4#ロック篇 "wikilink")』\#5, 2011年10月12日）
+  - [野水いおり](../Page/野水伊織.md "wikilink") 「もっと愛しあいましょ」 （アルバム『月虹カタン』\#8, 2011年10月19日, 川添が参加）
+  - HARUKA([Missing Link](../Page/Missing_Link.md "wikilink")) 「今すぐ Kiss Me」 （アルバム『KISS歌MIX mixed by DJ SHINSTAR』\#31, SASCD-1003, 2012年9月12日）
   - テレパシー\[10\] 「今すぐ Kiss Me」 （シングル『キミユメI wanna be with you／今すぐ Kiss Me』\#2, 2013年4月14日、渡瀬・平川が参加\[11\]）
   - Jumping Frog 「今すぐ Kiss Me」 （アルバム『J-pop Cover伝説 V Mixed By Dj Fumi★yeah\!』\#13, FARM-345, 2013年8月7日）
   - [ayumi shibata](../Page/柴田あゆみ.md "wikilink")(柴田あゆみ) 「今すぐ Kiss Me」 （アルバム『kick start』\#6, 2014年2月19日）
@@ -616,7 +616,7 @@
 
   - 『LINDBERG TRIBUTE ALBUM 〜みんなのリンドバーグ〜』（2014年7月23日、初回限定盤/CD＋DVD:TECI-1410、通常盤/CD:TECI-1411）
       -
-        LITTLE WING([10-FEET](https://ja.wikipedia.org/wiki/10-FEET "wikilink"))／今すぐKiss Me([岸谷香](https://ja.wikipedia.org/wiki/岸谷香 "wikilink"))／DESTINATION([N'夙川BOYS](https://ja.wikipedia.org/wiki/N'夙川BOYS "wikilink"))／Over The Top([シシド・カフカ](https://ja.wikipedia.org/wiki/シシド・カフカ "wikilink"))／BELIEVE IN LOVE([森高千里](../Page/森高千里.md "wikilink"))／GLORY DAYS([矢野顕子](../Page/矢野顕子.md "wikilink"))／LOOKING FOR A RAINBOW([花\*花](https://ja.wikipedia.org/wiki/花*花 "wikilink"))／恋をしようよ Yeah\! Yeah\!([LIFriends](https://ja.wikipedia.org/wiki/LIFriends "wikilink"))／大キライ\!([ガガガSP](https://ja.wikipedia.org/wiki/ガガガSP "wikilink"))／GAMBAらなくちゃね([近藤夏子](https://ja.wikipedia.org/wiki/近藤夏子 "wikilink"))／君に吹く風([蜜](https://ja.wikipedia.org/wiki/蜜_\(バンド\) "wikilink"))／もっと愛しあいましょ([バンドじゃないもん\!](https://ja.wikipedia.org/wiki/バンドじゃないもん! "wikilink"))／every little thing every precious thing([Rico](https://ja.wikipedia.org/wiki/佐々木李子 "wikilink"))
+        LITTLE WING([10-FEET](../Page/10-FEET.md "wikilink"))／今すぐKiss Me([岸谷香](../Page/岸谷香.md "wikilink"))／DESTINATION([N'夙川BOYS](https://ja.wikipedia.org/wiki/N'夙川BOYS "wikilink"))／Over The Top([シシド・カフカ](https://ja.wikipedia.org/wiki/シシド・カフカ "wikilink"))／BELIEVE IN LOVE([森高千里](../Page/森高千里.md "wikilink"))／GLORY DAYS([矢野顕子](../Page/矢野顕子.md "wikilink"))／LOOKING FOR A RAINBOW([花\*花](https://ja.wikipedia.org/wiki/花*花 "wikilink"))／恋をしようよ Yeah\! Yeah\!([LIFriends](https://ja.wikipedia.org/wiki/LIFriends "wikilink"))／大キライ\!([ガガガSP](../Page/ガガガSP.md "wikilink"))／GAMBAらなくちゃね([近藤夏子](https://ja.wikipedia.org/wiki/近藤夏子 "wikilink"))／君に吹く風([蜜](https://ja.wikipedia.org/wiki/蜜_\(バンド\) "wikilink"))／もっと愛しあいましょ([バンドじゃないもん\!](https://ja.wikipedia.org/wiki/バンドじゃないもん! "wikilink"))／every little thing every precious thing([Rico](https://ja.wikipedia.org/wiki/佐々木李子 "wikilink"))
 
 ## 脚注
 
@@ -624,11 +624,11 @@
 
 ## 関連項目
 
-  - [VELVET GARDEN](https://ja.wikipedia.org/wiki/VELVET_GARDEN "wikilink")（川添が所属）
-  - [Ai+BAND](https://ja.wikipedia.org/wiki/Ai+BAND "wikilink")（川添が所属）
+  - [VELVET GARDEN](../Page/VELVET_GARDEN.md "wikilink")（川添が所属）
+  - [Ai+BAND](../Page/Ai+BAND.md "wikilink")（川添が所属）
   - [GaGaalinG](https://ja.wikipedia.org/wiki/GaGaalinG "wikilink")（小柳が所属）
-  - [ECHOES](https://ja.wikipedia.org/wiki/ECHOES "wikilink")（小柳が所属）
-  - [SIRIUS](https://ja.wikipedia.org/wiki/SIRIUS_\(バンド\) "wikilink")（LINDBERGのコピーバンドとしてスタート。ライブにて対バン）
+  - [ECHOES](../Page/ECHOES.md "wikilink")（小柳が所属）
+  - [SIRIUS](../Page/SIRIUS_\(バンド\).md "wikilink")（LINDBERGのコピーバンドとしてスタート。ライブにて対バン）
   - [アップフロントクリエイト](https://ja.wikipedia.org/wiki/アップフロントクリエイト "wikilink")（渡瀬が2014年現在所属している芸能プロダクション。[アップフロントグループ](../Page/アップフロントグループ.md "wikilink")の一社）
 
 ## 外部リンク
@@ -650,7 +650,7 @@
 
 [Category:LINDBERG](https://ja.wikipedia.org/wiki/Category:LINDBERG "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:1988年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1988年に結成した音楽グループ "wikilink") [Category:徳間ジャパンコミュニケーションズのアーティスト](https://ja.wikipedia.org/wiki/Category:徳間ジャパンコミュニケーションズのアーティスト "wikilink") [Category:テイチクエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:テイチクエンタテインメントのアーティスト "wikilink") [Category:2002年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2002年に解散した音楽グループ "wikilink") [Category:2009年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2009年に再結成した音楽グループ "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:2014年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2014年に再結成した音楽グループ "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink")
 
-1.  [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[とんねるずのハンマープライス](https://ja.wikipedia.org/wiki/とんねるずのハンマープライス "wikilink")』
+1.  [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[とんねるずのハンマープライス](../Page/とんねるずのハンマープライス.md "wikilink")』
 2.  [LINDBERG、4年ぶり再始動で「音返し」](http://www.oricon.co.jp/news/2032956/full/) - [オリコン](../Page/オリコン.md "wikilink") 2014年1月14日。
 3.  [every little thing every precious thing](http://kyuji22.tblog.jp/?eid=149531)（[Kyuji22](http://www.kyuji22.jp/)）
 4.  [『日刊スポーツ』 2007年8月4日付](http://www.nikkansports.com/entertainment/p-et-tp0-20070804-236637.html)

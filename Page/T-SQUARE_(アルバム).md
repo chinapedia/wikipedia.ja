@@ -5,7 +5,7 @@
 
 ## 解説
 
-T-SQUAREにとって25枚目のアルバムである。このアルバムはバンド名をそのままアルバムタイトルにしたため、[ビートルズ](https://ja.wikipedia.org/wiki/ビートルズ "wikilink")における『[THE BEATLES](https://ja.wikipedia.org/wiki/ザ・ビートルズ_\(アルバム\) "wikilink")』（通称・ホワイトアルバム）のような存在であると当時のスクェアのメンバーたちは語っている。なおアルバムを作るにあたり、リーダーの[安藤まさひろが提示したテーマは](https://ja.wikipedia.org/wiki/安藤正容 "wikilink")「子供の夢」。前作『Sweet & Gentle』でサポートメンバーとして参加したキーボーディストの[松本圭司](https://ja.wikipedia.org/wiki/松本圭司 "wikilink")がこのアルバムで正式メンバーとなったが、このアルバムを最後にT-SQUAREはバンド形態から安藤と[伊東たけし](https://ja.wikipedia.org/wiki/伊東たけし "wikilink")のユニット形態となったため、松本が正式メンバーとして参加したアルバムはこのアルバムのみとなってしまった。
+T-SQUAREにとって25枚目のアルバムである。このアルバムはバンド名をそのままアルバムタイトルにしたため、[ビートルズ](../Page/ビートルズ.md "wikilink")における『[THE BEATLES](../Page/ザ・ビートルズ_\(アルバム\).md "wikilink")』（通称・ホワイトアルバム）のような存在であると当時のスクェアのメンバーたちは語っている。なおアルバムを作るにあたり、リーダーの[安藤まさひろが提示したテーマは](../Page/安藤正容.md "wikilink")「子供の夢」。前作『Sweet & Gentle』でサポートメンバーとして参加したキーボーディストの[松本圭司](https://ja.wikipedia.org/wiki/松本圭司 "wikilink")がこのアルバムで正式メンバーとなったが、このアルバムを最後にT-SQUAREはバンド形態から安藤と[伊東たけし](../Page/伊東たけし.md "wikilink")のユニット形態となったため、松本が正式メンバーとして参加したアルバムはこのアルバムのみとなってしまった。
 
 DJ経験も豊富な松本の作り上げたサウンドはあまりにも革新的であり前作とさらに乖離しているというリスナーもいたものの、例えば松本が作曲した「A DREAM IN A DAYDREAM」や「BELFAST SONG」がその後の『T comes BACK』に引き継がれているように、ユニット時代の萌芽を見ることができる。
 
@@ -15,8 +15,8 @@ DJ経験も豊富な松本の作り上げたサウンドはあまりにも革新
 
 1.  **A DREAM IN A DAYDREAM** - 松本圭司作曲
 2.  **MAN ON THE MOON** - 安藤まさひろ作曲
-3.  **ça et la** - [宮崎隆睦](https://ja.wikipedia.org/wiki/宮崎隆睦 "wikilink")作曲
-4.  **OUR FORTRESS** - [須藤満](https://ja.wikipedia.org/wiki/須藤満 "wikilink")作曲
+3.  **ça et la** - [宮崎隆睦](../Page/宮崎隆睦.md "wikilink")作曲
+4.  **OUR FORTRESS** - [須藤満](../Page/須藤満.md "wikilink")作曲
 5.  **ALE－LEYAH－YAH** - 安藤まさひろ作曲
 6.  **AN EVENING GLOW** - 須藤満作曲
 7.  **A NITE WITHOUT MEMORY** - 松本圭司作曲

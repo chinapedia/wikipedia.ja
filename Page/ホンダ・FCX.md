@@ -1,9 +1,9 @@
 > この記事は[FCX](https://ja.wikipedia.org/wiki/FCX)から翻訳されています。
 
 
-**FCX**（エフシーエックス）は、[本田技研工業](https://ja.wikipedia.org/wiki/本田技研工業 "wikilink")がかつて生産、[リース](../Page/リース.md "wikilink")販売していた[燃料電池自動車](https://ja.wikipedia.org/wiki/燃料電池自動車 "wikilink")である。
+**FCX**（エフシーエックス）は、[本田技研工業](../Page/本田技研工業.md "wikilink")がかつて生産、[リース](../Page/リース.md "wikilink")販売していた[燃料電池自動車](../Page/燃料電池自動車.md "wikilink")である。
 
-[固体高分子形燃料電池](https://ja.wikipedia.org/wiki/固体高分子形燃料電池 "wikilink")と[ウルトラキャパシタを電源とする](https://ja.wikipedia.org/wiki/電気二重層コンデンサ "wikilink")[ハイブリッド車](https://ja.wikipedia.org/wiki/ハイブリッド車 "wikilink")で、[2002年](../Page/2002年.md "wikilink")より[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で約20台がリース販売された。
+[固体高分子形燃料電池](../Page/固体高分子形燃料電池.md "wikilink")と[ウルトラキャパシタを電源とする](../Page/電気二重層コンデンサ.md "wikilink")[ハイブリッド車](https://ja.wikipedia.org/wiki/ハイブリッド車 "wikilink")で、[2002年](../Page/2002年.md "wikilink")より[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で約20台がリース販売された。
 
 ## FCX
 
@@ -15,9 +15,9 @@
 
 [2003年](../Page/2003年.md "wikilink")10月、「Honda FC STACK」搭載 FCXが発表された。燃料電池スタックには、新開発の[ステンレス鋼](../Page/ステンレス鋼.md "wikilink")板を使用したシール一体型のプレスセパレーターが採用された。従来のカーボンセパレーターを使用したHonda FC スタックより部品点数の半減と軽量コンパクト化、2倍以上の出力密度向上、接触抵抗の半減や、熱伝導率も5倍と大きく向上した。電解質膜も従来のフッ素系ではなく新開発の炭化水素系アロマティック電解質膜となり、これらにより-20度での発電が可能となり、耐久性が向上、暖気に要する時間も従来型の1/5となった。FCXはこの燃料電池スタックを加湿ユニットをはさんで2分割で搭載する。モーターは80kWにパワーアップ、ウルトラキャパシタは10%以上、出力密度とエネルギー密度が向上。駆動エネルギー効率は55%となった\[4\]。
 
-[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")11月に[ニューヨーク州](../Page/ニューヨーク州.md "wikilink")とリース契約をし\[5\]、12月に納入された\[6\]。日本でも12月に[北海道庁](https://ja.wikipedia.org/wiki/北海道庁 "wikilink")と契約し\[7\]、2005年1月に納車された\[8\]。新たにFCX用のモーター制御TCSを開発し、雪道にも適応した。HDD[ナビゲーションシステム](https://ja.wikipedia.org/wiki/ナビゲーションシステム "wikilink")も搭載。
+[2004年](../Page/2004年.md "wikilink")11月に[ニューヨーク州](../Page/ニューヨーク州.md "wikilink")とリース契約をし\[5\]、12月に納入された\[6\]。日本でも12月に[北海道庁](../Page/北海道庁.md "wikilink")と契約し\[7\]、2005年1月に納車された\[8\]。新たにFCX用のモーター制御TCSを開発し、雪道にも適応した。HDD[ナビゲーションシステム](https://ja.wikipedia.org/wiki/ナビゲーションシステム "wikilink")も搭載。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")、水素充填ソフトウェアのアップグレードにより航続距離が向上した。
+[2006年](../Page/2006年.md "wikilink")、水素充填ソフトウェアのアップグレードにより航続距離が向上した。
 
 ## プロトタイプ
 
@@ -27,7 +27,7 @@
 
 ### FCX（1999年）
 
-[thumb](https://ja.wikipedia.org/wiki/画像:Nenryo-denchi_jidosha_Honda_FCX_1999.jpg "wikilink")\] [1999年](../Page/1999年.md "wikilink")10月から[東京モーターショー](../Page/東京モーターショー.md "wikilink")で展示された[コンセプトカー](https://ja.wikipedia.org/wiki/コンセプトカー "wikilink")。開発コンセプトはTWIN SOLIDで上部ビッグフォワードキャビン、下部燃料電池ユニットという分割されたデザインを取る\[9\]。 全長 x 全幅 x 全高は、4,525mm x 1,800mm x 1,500mm。
+[thumb](https://ja.wikipedia.org/wiki/画像:Nenryo-denchi_jidosha_Honda_FCX_1999.jpg "wikilink")\] [1999年](../Page/1999年.md "wikilink")10月から[東京モーターショー](../Page/東京モーターショー.md "wikilink")で展示された[コンセプトカー](../Page/コンセプトカー.md "wikilink")。開発コンセプトはTWIN SOLIDで上部ビッグフォワードキャビン、下部燃料電池ユニットという分割されたデザインを取る\[9\]。 全長 x 全幅 x 全高は、4,525mm x 1,800mm x 1,500mm。
 
 ### FCX実験車
 
@@ -35,17 +35,17 @@
 
 #### FCX-V1、FCX-V2
 
-1999年9月に公開された。FCX-V1は純水素燃料で[水素吸蔵合金](https://ja.wikipedia.org/wiki/水素吸蔵合金 "wikilink")LaNi5タンクを使用し、[バラード社の燃料電池スタックを搭載しており](https://ja.wikipedia.org/wiki/バラード・パワー・システムズ "wikilink")、FCX-V2はメタノール燃料のオートサーマル改質型でホンダ製の燃料電池スタックを搭載する。パワーアシストはバッテリー型が採用されている\[10\]。
+1999年9月に公開された。FCX-V1は純水素燃料で[水素吸蔵合金](../Page/水素吸蔵合金.md "wikilink")LaNi5タンクを使用し、[バラード社の燃料電池スタックを搭載しており](../Page/バラード・パワー・システムズ.md "wikilink")、FCX-V2はメタノール燃料のオートサーマル改質型でホンダ製の燃料電池スタックを搭載する。パワーアシストはバッテリー型が採用されている\[10\]。
 
 #### FCX-V3
 
-[2000年](../Page/2000年.md "wikilink")9月に発表された。FCX-V3は高圧水素を燃料とし、パワーアシストとしてウルトラキャパシタ（[電気二重層コンデンサ](https://ja.wikipedia.org/wiki/電気二重層コンデンサ "wikilink")）を採用している。[バッテリーでは設計以上の大電流を充放電すると性能が劣化するほか](../Page/鉛蓄電池.md "wikilink")、電力伝達機構としてDC-DC[コンバータ](https://ja.wikipedia.org/wiki/コンバータ "wikilink")などの装置が必要となるため、最大電流を制限する必要が生じ、加速時にモーターへの電力供給が十分に行えないことがある。ウルトラキャパシタにより素早く大きなエネルギー供給し、DC-DCコンバータなどの装置を不要とすることが可能となった。このため、キビキビとした加速が行える。 モーター最大出力は60kWに向上、モーター最大駆動トルクは238N·m、システムの小型化により4人乗りを実現している。車両重量1,750kg。 燃料電池はバラード社製スタックを使用、航続距離は180kmで、最高速は130km/h。 CaFCP（カリフォルニアフューエルセルパートナーシップ）に参加し、11月からカリフォルニアの一般道での走行テストを開始した\[11\]。
+[2000年](../Page/2000年.md "wikilink")9月に発表された。FCX-V3は高圧水素を燃料とし、パワーアシストとしてウルトラキャパシタ（[電気二重層コンデンサ](../Page/電気二重層コンデンサ.md "wikilink")）を採用している。[バッテリーでは設計以上の大電流を充放電すると性能が劣化するほか](../Page/鉛蓄電池.md "wikilink")、電力伝達機構としてDC-DC[コンバータ](https://ja.wikipedia.org/wiki/コンバータ "wikilink")などの装置が必要となるため、最大電流を制限する必要が生じ、加速時にモーターへの電力供給が十分に行えないことがある。ウルトラキャパシタにより素早く大きなエネルギー供給し、DC-DCコンバータなどの装置を不要とすることが可能となった。このため、キビキビとした加速が行える。 モーター最大出力は60kWに向上、モーター最大駆動トルクは238N·m、システムの小型化により4人乗りを実現している。車両重量1,750kg。 燃料電池はバラード社製スタックを使用、航続距離は180kmで、最高速は130km/h。 CaFCP（カリフォルニアフューエルセルパートナーシップ）に参加し、11月からカリフォルニアの一般道での走行テストを開始した\[11\]。
 
 [2001年](../Page/2001年.md "wikilink")2月、燃料電池スタックをバラード製からホンダ製に変更したFCX-V3 with Honda FC Stackの公道テストを開始した\[12\]。2000年11月から8月末までのFCX-V3の走行距離は約1万kmに達した\[13\]。
 
 #### FCX-V4
 
-2001年9月に発表された。燃料電池システムが新設計となりコンパクト化されている。燃料電池スタックはバラード製。パワーアシストはウルトラキャパシタ。車体前後にクラッシャブルゾーンを作り衝突安全性を向上させ、燃料タンクを床下に収納、荷室スペースも確保している。新設計の燃料タンクは350気圧水素タンクとなり、航続距離が300kmと大幅に伸びた。最高速は130km/hから140km/hとなった。[ラジエータの大型化や](https://ja.wikipedia.org/wiki/ラジエーター "wikilink")、計器盤のデジタルメーターの一新も行われている。全長4,205mm、車両重量1,740kg。 2002年3月発表の国土交通省大臣認定取得車両では、航続距離を315kmとしている\[14\]。
+2001年9月に発表された。燃料電池システムが新設計となりコンパクト化されている。燃料電池スタックはバラード製。パワーアシストはウルトラキャパシタ。車体前後にクラッシャブルゾーンを作り衝突安全性を向上させ、燃料タンクを床下に収納、荷室スペースも確保している。新設計の燃料タンクは350気圧水素タンクとなり、航続距離が300kmと大幅に伸びた。最高速は130km/hから140km/hとなった。[ラジエータの大型化や](../Page/ラジエーター.md "wikilink")、計器盤のデジタルメーターの一新も行われている。全長4,205mm、車両重量1,740kg。 2002年3月発表の国土交通省大臣認定取得車両では、航続距離を315kmとしている\[14\]。
 
 <table>
 <caption>FCXモデル一覧</caption>
@@ -160,13 +160,13 @@
   - [経済産業省](../Page/経済産業省.md "wikilink") 1台
   - [岩谷産業](../Page/岩谷産業.md "wikilink") 1台
   - [出光興産](https://ja.wikipedia.org/wiki/出光興産 "wikilink") 1台
-  - [北海道庁](https://ja.wikipedia.org/wiki/北海道庁 "wikilink") 1台（Honda FC STACK）
+  - [北海道庁](../Page/北海道庁.md "wikilink") 1台（Honda FC STACK）
 
 ## 歴史
 
   - 2002年[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")
       -
-        燃料電池自動車として初めて[米国環境保護庁](https://ja.wikipedia.org/wiki/アメリカ合衆国環境保護庁 "wikilink")(EPA)およびカリフォルニア州大気資源局の認定を受ける。
+        燃料電池自動車として初めて[米国環境保護庁](../Page/アメリカ合衆国環境保護庁.md "wikilink")(EPA)およびカリフォルニア州大気資源局の認定を受ける。
   - 2002年[12月2日](../Page/12月2日.md "wikilink")
       -
         [内閣府](../Page/内閣府.md "wikilink")に[リース](../Page/リース.md "wikilink")のかたちで納車。
@@ -191,9 +191,9 @@
   - 2004年[9月15日](../Page/9月15日.md "wikilink")
       -
         おおさかFCV推進会議の主催で東京～大阪間の長距離走行を実施。（復路は[9月21日](../Page/9月21日.md "wikilink")）
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[1月27日](../Page/1月27日.md "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")[1月27日](../Page/1月27日.md "wikilink")
       -
-        「Honda FC STACK」搭載FCXを[北海道庁](https://ja.wikipedia.org/wiki/北海道庁 "wikilink")へ納車
+        「Honda FC STACK」搭載FCXを[北海道庁](../Page/北海道庁.md "wikilink")へ納車
   - 2005年[6月17日](../Page/6月17日.md "wikilink")
       -
         国土交通省の型式認証を取得、型式を**ZC1/ZC2**とする。
@@ -203,12 +203,12 @@
 
 ## 関連項目
 
-  - [本田技研工業](https://ja.wikipedia.org/wiki/本田技研工業 "wikilink")
+  - [本田技研工業](../Page/本田技研工業.md "wikilink")
   - [ホンダ・FCXクラリティ](https://ja.wikipedia.org/wiki/ホンダ・FCXクラリティ "wikilink")
   - [ホンダ・クラリティ フューエル セル](https://ja.wikipedia.org/wiki/ホンダ・クラリティ_フューエル_セル "wikilink")
   - [ホンダ・EV Plus](../Page/ホンダ・EV_Plus.md "wikilink")
   - [ホンダ・インサイト](../Page/ホンダ・インサイト.md "wikilink")
-  - [トヨタ・FCHV](https://ja.wikipedia.org/wiki/トヨタ・FCHV "wikilink")
+  - [トヨタ・FCHV](../Page/トヨタ・FCHV.md "wikilink")
 
 ## 脚注
 

@@ -53,13 +53,13 @@
       - ショートライト:ボタンを押すと、バックライトがつく。（ボタンを押してから、約10秒間で暗くなる。）
       - ライトオフ:バックライトがボタンを押しても、明るくならない。
   - メモリクリア
-      - [リセット](https://ja.wikipedia.org/wiki/リセット "wikilink")をすることができる。（誤操作の恐れがあるので、2度合否確認をする。）
+      - [リセット](../Page/リセット.md "wikilink")をすることができる。（誤操作の恐れがあるので、2度合否確認をする。）
   - [時計](../Page/時計.md "wikilink")
-      - [日付](https://ja.wikipedia.org/wiki/日付 "wikilink")・[曜日](../Page/曜日.md "wikilink")・[時刻](../Page/時刻.md "wikilink")の設定ができる。
+      - [日付](../Page/日付.md "wikilink")・[曜日](../Page/曜日.md "wikilink")・[時刻](../Page/時刻.md "wikilink")の設定ができる。
 
 ### アリ釣り
 
-アリを釣っていく[ミニゲーム](https://ja.wikipedia.org/wiki/ミニゲーム "wikilink")ができる。
+アリを釣っていく[ミニゲーム](../Page/ミニゲーム.md "wikilink")ができる。
 
 ### データ
 
@@ -70,15 +70,15 @@
 不定期に登場し、アリや巣を襲う。季節ごとに種類が変化する。
 
   - [カエル](../Page/カエル.md "wikilink"):一定の間隔で飛び跳ねる。アリを捕食。
-  - [ジグモ](https://ja.wikipedia.org/wiki/ジグモ "wikilink"):一定時間往復する。アリを捕食。
+  - [ジグモ](../Page/ジグモ.md "wikilink"):一定時間往復する。アリを捕食。
   - 敵アリ:一定時間に往復し、アリに攻撃を仕掛ける。戦いに勝てばエサとして運べる。
-  - [ハリサシガメ](https://ja.wikipedia.org/wiki/サシガメ "wikilink"):ゴミに隠れて待機する。アリを捕食。
+  - [ハリサシガメ](../Page/サシガメ.md "wikilink"):ゴミに隠れて待機する。アリを捕食。
   - [ハンミョウ](https://ja.wikipedia.org/wiki/ハンミョウ "wikilink"):ジャンプしながら往復する。アリを捕食。
-  - [ミミズ](https://ja.wikipedia.org/wiki/ミミズ "wikilink"):地中に移動する。捕食はしないが、移動の際に巣を破壊する。
+  - [ミミズ](../Page/ミミズ.md "wikilink"):地中に移動する。捕食はしないが、移動の際に巣を破壊する。
   -
 ## 関連項目
 
-  - [アクアゾーン](https://ja.wikipedia.org/wiki/アクアゾーン "wikilink")
+  - [アクアゾーン](../Page/アクアゾーン.md "wikilink")
   - [バンダイ](../Page/バンダイ.md "wikilink")
 
 ## 外部リンク

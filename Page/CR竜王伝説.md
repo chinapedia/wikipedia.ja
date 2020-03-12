@@ -1,7 +1,7 @@
 > この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
 
 
-**CR竜王伝説Z**(-りゅうおうでんせつ-)は、[1996年](../Page/1996年.md "wikilink")に[豊丸産業](https://ja.wikipedia.org/wiki/豊丸産業 "wikilink")が開発、発売した[CR機](https://ja.wikipedia.org/wiki/CR機 "wikilink")[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")。7/22で[確率変動](https://ja.wikipedia.org/wiki/確率変動 "wikilink")以後2回継続タイプ。継続リミットはなし。
+**CR竜王伝説Z**(-りゅうおうでんせつ-)は、[1996年](../Page/1996年.md "wikilink")に[豊丸産業](../Page/豊丸産業.md "wikilink")が開発、発売した[CR機](../Page/CR機.md "wikilink")[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")。7/22で[確率変動](../Page/確率変動.md "wikilink")以後2回継続タイプ。継続リミットはなし。
 
 ## 特徴
 
@@ -32,9 +32,9 @@
 
 ## ゲーム機
 
-  - [オンラインゲーム](../Page/オンラインゲーム.md "wikilink")サイト『[777town.net](https://ja.wikipedia.org/wiki/777town.net "wikilink")』にてプレイが可能である。
-  - 『Parlor\!Mini』（[日本テレネット](https://ja.wikipedia.org/wiki/日本テレネット_\(ゲーム会社\) "wikilink")、[1996年](../Page/1996年.md "wikilink")4月、[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用ゲームソフト）
-  - 『CR竜王伝説Z ～パチンコ実機攻略シリーズ Vol.8～』（[アンバランス](https://ja.wikipedia.org/wiki/アンバランス_\(ゲーム会社\) "wikilink")、[2000年](../Page/2000年.md "wikilink")7月、[Windows用PCゲームソフト](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")）
+  - [オンラインゲーム](../Page/オンラインゲーム.md "wikilink")サイト『[777town.net](../Page/777town.net.md "wikilink")』にてプレイが可能である。
+  - 『Parlor\!Mini』（[日本テレネット](../Page/日本テレネット_\(ゲーム会社\).md "wikilink")、[1996年](../Page/1996年.md "wikilink")4月、[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用ゲームソフト）
+  - 『CR竜王伝説Z ～パチンコ実機攻略シリーズ Vol.8～』（[アンバランス](../Page/アンバランス_\(ゲーム会社\).md "wikilink")、[2000年](../Page/2000年.md "wikilink")7月、[Windows用PCゲームソフト](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")）
   - 『爆発的1480シリーズ CR竜王伝説Z』（アンバランス、[2002年](../Page/2002年.md "wikilink")5月、[Windows用PCゲームソフト](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")）
 
 [Category:豊丸産業](https://ja.wikipedia.org/wiki/Category:豊丸産業 "wikilink")

@@ -20,11 +20,11 @@
 
 ### 無機合成
 
-酸化イットリウム(III)は無機化合物合成の出発物質として重要である。例えば、これを濃[塩酸](https://ja.wikipedia.org/wiki/塩酸 "wikilink")と[塩化アンモニウム](../Page/塩化アンモニウム.md "wikilink")のもとで反応させると [YCl<sub>3</sub>](https://ja.wikipedia.org/wiki/塩化イットリウム\(III\) "wikilink") になる。この化合物は[有機金属化学](https://ja.wikipedia.org/wiki/有機金属化学 "wikilink")で重要である。
+酸化イットリウム(III)は無機化合物合成の出発物質として重要である。例えば、これを濃[塩酸](https://ja.wikipedia.org/wiki/塩酸 "wikilink")と[塩化アンモニウム](../Page/塩化アンモニウム.md "wikilink")のもとで反応させると [YCl<sub>3</sub>](https://ja.wikipedia.org/wiki/塩化イットリウム\(III\) "wikilink") になる。この化合物は[有機金属化学](../Page/有機金属化学.md "wikilink")で重要である。
 
 ### レーザー
 
-[セラミックス](../Page/セラミックス.md "wikilink")は将来性のある[固体レーザー物質である](https://ja.wikipedia.org/wiki/レーザー "wikilink")。特に、[イッテルビウム](../Page/イッテルビウム.md "wikilink")が[ドープ](https://ja.wikipedia.org/wiki/ドープ "wikilink")されているレーザーでは[無変調連続波](https://ja.wikipedia.org/wiki/無変調連続波 "wikilink")\[2\]やパルス状領域\[3\]の効率的な操作を可能にする。
+[セラミックス](../Page/セラミックス.md "wikilink")は将来性のある[固体レーザー物質である](../Page/レーザー.md "wikilink")。特に、[イッテルビウム](../Page/イッテルビウム.md "wikilink")が[ドープ](https://ja.wikipedia.org/wiki/ドープ "wikilink")されているレーザーでは[無変調連続波](https://ja.wikipedia.org/wiki/無変調連続波 "wikilink")\[2\]やパルス状領域\[3\]の効率的な操作を可能にする。
 
 ## 出典
 

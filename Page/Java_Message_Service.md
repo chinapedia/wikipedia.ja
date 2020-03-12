@@ -1,22 +1,22 @@
 > この記事は[Java Message Service](https://ja.wikipedia.org/wiki/Java_Message_Service)から翻訳されています。
 
 
-**Java Message Service** (JMS) とは[Java](https://ja.wikipedia.org/wiki/Java "wikilink")[プログラムに](../Page/プログラム_\(コンピュータ\).md "wikilink")[ネットワークを介して](https://ja.wikipedia.org/wiki/コンピュータネットワーク "wikilink")[データ](../Page/データ.md "wikilink")を送受信させるための[APIである](../Page/アプリケーションプログラミングインタフェース.md "wikilink")。
+**Java Message Service** (JMS) とは[Java](https://ja.wikipedia.org/wiki/Java "wikilink")[プログラムに](../Page/プログラム_\(コンピュータ\).md "wikilink")[ネットワークを介して](../Page/コンピュータネットワーク.md "wikilink")[データ](../Page/データ.md "wikilink")を送受信させるための[APIである](../Page/アプリケーションプログラミングインタフェース.md "wikilink")。
 
-[Java EE](../Page/Java_Platform,_Enterprise_Edition.md "wikilink") 1.3 以降に標準で含まれている。データを1つずつバラバラに扱うのではなく、[メッセージと呼ばれる塊にまとめて送信する](https://ja.wikipedia.org/wiki/メッセージ_\(コンピュータ\) "wikilink")[メッセージング](https://ja.wikipedia.org/wiki/メッセージング "wikilink")を行う。1対1のキューと1対多のトピックが使える。受信は、MessageConsumer.receive() による同期受信のほか、MessageListener を使った非同期受信もできる。
+[Java EE](../Page/Java_Platform,_Enterprise_Edition.md "wikilink") 1.3 以降に標準で含まれている。データを1つずつバラバラに扱うのではなく、[メッセージと呼ばれる塊にまとめて送信する](../Page/メッセージ_\(コンピュータ\).md "wikilink")[メッセージング](../Page/メッセージング.md "wikilink")を行う。1対1のキューと1対多のトピックが使える。受信は、MessageConsumer.receive() による同期受信のほか、MessageListener を使った非同期受信もできる。
 
 ## メッセージングの一般的な概念
 
 メッセージングとは、疎結合分散通信形式のひとつの形式である。この文脈上での"通信"とはソフトウェアコンポーネント間のメッセージ交換である。
 
-メッセージ指向技術は、キューのような仲介役のコンポーネントの導入によって密結合通信（TCPネットワークソケット、CORBA、[RMIのような](https://ja.wikipedia.org/wiki/Java_Remote_Method_Invocation "wikilink")）を緩和する。このアプローチによって、ソフトウェアコンポーネントがお互いに"間接的に"通信するようになる。このメリットは、キューを使用して通信する場合に、メッセージ送信者が正確に受信者を知る必要がないということも含んでいる。
+メッセージ指向技術は、キューのような仲介役のコンポーネントの導入によって密結合通信（TCPネットワークソケット、CORBA、[RMIのような](../Page/Java_Remote_Method_Invocation.md "wikilink")）を緩和する。このアプローチによって、ソフトウェアコンポーネントがお互いに"間接的に"通信するようになる。このメリットは、キューを使用して通信する場合に、メッセージ送信者が正確に受信者を知る必要がないということも含んでいる。
 
 ## モデル
 
 JMS API は二つのモデルをサポートする。
 
   - 1対1：[ポイント・ツー・ポイント](https://ja.wikipedia.org/wiki/ポイント・ツー・ポイント "wikilink")（キュー）
-  - 1対多：[出版-購読型モデル](https://ja.wikipedia.org/wiki/出版-購読型モデル "wikilink")（トピック）
+  - 1対多：[出版-購読型モデル](../Page/出版-購読型モデル.md "wikilink")（トピック）
 
 ### ポイント・ツー・ポイント
 
@@ -121,9 +121,9 @@ consumer.setMessageListener(new MessageListener() {
 
   - \- OpenJMS Group
 
-  - ,  - [レッドハット](../Page/レッドハット.md "wikilink") ([JBoss](https://ja.wikipedia.org/wiki/JBoss "wikilink"))
+  - ,  - [レッドハット](../Page/レッドハット.md "wikilink") ([JBoss](../Page/JBoss.md "wikilink"))
 
-  - \- [OW2 Consortium](https://ja.wikipedia.org/wiki/OW2_Consortium "wikilink")
+  - \- [OW2 Consortium](../Page/OW2_Consortium.md "wikilink")
 
   - [OpenMQ](https://ja.wikipedia.org/wiki/OpenMQ "wikilink") - [オラクル](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink")（[サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")）
 
@@ -139,9 +139,9 @@ consumer.setMessageListener(new MessageListener() {
 
   - SwiftMQ
 
-  - [WebSphere Application Server](https://ja.wikipedia.org/wiki/WebSphere_Application_Server "wikilink") - [IBM](../Page/IBM.md "wikilink")
+  - [WebSphere Application Server](../Page/WebSphere_Application_Server.md "wikilink") - [IBM](../Page/IBM.md "wikilink")
 
-  - [WebSphere MQ](https://ja.wikipedia.org/wiki/WebSphere_MQ "wikilink")- [IBM](../Page/IBM.md "wikilink")
+  - [WebSphere MQ](../Page/WebSphere_MQ.md "wikilink")- [IBM](../Page/IBM.md "wikilink")
 
 ## 歴史
 
@@ -151,8 +151,8 @@ consumer.setMessageListener(new MessageListener() {
 
 ## 関連項目
 
-  - [Java Transaction API](https://ja.wikipedia.org/wiki/Java_Transaction_API "wikilink")
-  - [メッセージ指向ミドルウェア](https://ja.wikipedia.org/wiki/メッセージ指向ミドルウェア "wikilink")
+  - [Java Transaction API](../Page/Java_Transaction_API.md "wikilink")
+  - [メッセージ指向ミドルウェア](../Page/メッセージ指向ミドルウェア.md "wikilink")
 
 ## 外部リンク
 

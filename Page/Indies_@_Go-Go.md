@@ -1,7 +1,7 @@
 > この記事は[Indies @ Go-Go](https://ja.wikipedia.org/wiki/Indies_@_Go-Go)から翻訳されています。
 
 
-『**Indies @ Go-Go**』（インディーズ ア ゴーゴー）は、[2000年](../Page/2000年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")まで[ABCラジオ（朝日放送）で放送されていた](https://ja.wikipedia.org/wiki/朝日放送ラジオ "wikilink")[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")である。
+『**Indies @ Go-Go**』（インディーズ ア ゴーゴー）は、[2000年](../Page/2000年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")まで[ABCラジオ（朝日放送）で放送されていた](../Page/朝日放送ラジオ.md "wikilink")[音楽番組](../Page/音楽番組.md "wikilink")である。
 
 ## 内容
 

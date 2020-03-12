@@ -16,11 +16,11 @@
 ## 誌面に登場するキーワード
 
   - セレカジ
-    [セレブカジュアル](https://ja.wikipedia.org/wiki/セレブカジュアル "wikilink")の略。いわゆる[セレブ](../Page/セレブリティ.md "wikilink")（俳優やモデルなど）が、日常や遊びなどの場で好んで着用するカジュアルファッションのこと。[ギャル男](https://ja.wikipedia.org/wiki/ギャル男 "wikilink")とセレカジ男子の境目は爽やかさ、清潔感。この辺りで女性からの「モテ」を意識しているといえる。[タレント](../Page/タレント.md "wikilink")の[小栗旬](https://ja.wikipedia.org/wiki/小栗旬 "wikilink")などが、爽やかだけどオトナっぽい、セレカジ系ファッションの代表例。
+    [セレブカジュアル](https://ja.wikipedia.org/wiki/セレブカジュアル "wikilink")の略。いわゆる[セレブ](../Page/セレブリティ.md "wikilink")（俳優やモデルなど）が、日常や遊びなどの場で好んで着用するカジュアルファッションのこと。[ギャル男](https://ja.wikipedia.org/wiki/ギャル男 "wikilink")とセレカジ男子の境目は爽やかさ、清潔感。この辺りで女性からの「モテ」を意識しているといえる。[タレント](../Page/タレント.md "wikilink")の[小栗旬](../Page/小栗旬.md "wikilink")などが、爽やかだけどオトナっぽい、セレカジ系ファッションの代表例。
   - [リアルクローズ](https://ja.wikipedia.org/wiki/リアルクローズ "wikilink")（real clothes）
-    （現実性のある服）と提唱するファッション性がある普段着。本来は「上質の素材を用い、きちんと縫製された本物志向の服」をさす言葉だが、[コレクション](../Page/コレクション.md "wikilink")などの[アート](https://ja.wikipedia.org/wiki/アート "wikilink")色の強い日常離れした服に対して、一般的に普段着として着られるような服のことをいう。
+    （現実性のある服）と提唱するファッション性がある普段着。本来は「上質の素材を用い、きちんと縫製された本物志向の服」をさす言葉だが、[コレクション](../Page/コレクション.md "wikilink")などの[アート](../Page/アート.md "wikilink")色の強い日常離れした服に対して、一般的に普段着として着られるような服のことをいう。
   - モテ
-    誌面のあっちこっちに踊る[キーワード](https://ja.wikipedia.org/wiki/キーワード "wikilink")。バリエーションは「モテヘア」、「モテ服」、「モテ髪」など。[パンク・ファッション](https://ja.wikipedia.org/wiki/パンク・ファッション "wikilink")や[ストリートファッション](https://ja.wikipedia.org/wiki/ストリートファッション "wikilink")、[モード系](../Page/モード系.md "wikilink")など個性や先鋭的なセンスを打ち出す[ファッション](../Page/ファッション.md "wikilink")に対して、実利的な[異性](https://ja.wikipedia.org/wiki/異性 "wikilink")受け（「[モテ](https://ja.wikipedia.org/wiki/モテ "wikilink")」と称す」）を重視したファッション。
+    誌面のあっちこっちに踊る[キーワード](https://ja.wikipedia.org/wiki/キーワード "wikilink")。バリエーションは「モテヘア」、「モテ服」、「モテ髪」など。[パンク・ファッション](../Page/パンク・ファッション.md "wikilink")や[ストリートファッション](https://ja.wikipedia.org/wiki/ストリートファッション "wikilink")、[モード系](../Page/モード系.md "wikilink")など個性や先鋭的なセンスを打ち出す[ファッション](../Page/ファッション.md "wikilink")に対して、実利的な[異性](https://ja.wikipedia.org/wiki/異性 "wikilink")受け（「[モテ](https://ja.wikipedia.org/wiki/モテ "wikilink")」と称す」）を重視したファッション。
 
 ## インフォレストのファッション雑誌
 
@@ -34,7 +34,7 @@
 ## 関連項目
 
   - [リアルクローズ](https://ja.wikipedia.org/wiki/リアルクローズ "wikilink")
-  - [コンサバ](https://ja.wikipedia.org/wiki/コンサバファッション "wikilink")
+  - [コンサバ](../Page/コンサバファッション.md "wikilink")
   - [若者服](https://ja.wikipedia.org/wiki/若者服 "wikilink")
 
 ## 外部リンク

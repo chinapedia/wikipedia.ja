@@ -1,13 +1,13 @@
 > この記事は[AWD](https://ja.wikipedia.org/wiki/AWD)から翻訳されています。
 
 
-『**ミニッツAWDシリーズ**』は[京商](https://ja.wikipedia.org/wiki/京商 "wikilink")が2005年より発売している、1/27スケールの[RCカー](https://ja.wikipedia.org/wiki/RCカー "wikilink")である\[1\]\[2\]。
+『**ミニッツAWDシリーズ**』は[京商](../Page/京商.md "wikilink")が2005年より発売している、1/27スケールの[RCカー](https://ja.wikipedia.org/wiki/RCカー "wikilink")である\[1\]\[2\]。
 
 ## 概要
 
-[ミニッツレーサー](https://ja.wikipedia.org/wiki/ミニッツレーサー "wikilink")シリーズの内、唯一の[四輪駆動](../Page/四輪駆動.md "wikilink")形式である。第一弾の[シャシー型名はMA](https://ja.wikipedia.org/wiki/シャシ_\(自動車\) "wikilink")-010。
+[ミニッツレーサー](../Page/ミニッツレーサー.md "wikilink")シリーズの内、唯一の[四輪駆動](../Page/四輪駆動.md "wikilink")形式である。第一弾の[シャシー型名はMA](../Page/シャシ_\(自動車\).md "wikilink")-010。
 
-ボディはMR-015、MR-01のボディの殆どと、MR-02の一部が装着可能。ミニッツの他のグレードに比べ[ドリフト走行](https://ja.wikipedia.org/wiki/ドリフト走行 "wikilink")に適している。
+ボディはMR-015、MR-01のボディの殆どと、MR-02の一部が装着可能。ミニッツの他のグレードに比べ[ドリフト走行](../Page/ドリフト走行.md "wikilink")に適している。
 
 <table>
 <caption>ホイールベース[mm][3][4][5]</caption>
@@ -57,7 +57,7 @@ MA-015</p></td>
 ## MA-020 スポーツ系
 
   - MA-020 スポーツ
-    2014年12月発売。ミニッツAWDの普及に向けて、価格を抑えたレディセット（[廉価版](https://ja.wikipedia.org/wiki/廉価版 "wikilink")）\[9\]。[基板](https://ja.wikipedia.org/wiki/基板 "wikilink")を専用基板に変更しFHS2.4GHzのKT-19送信機を採用した。従来のKT-18やEX-5UR ASFといったASF送信機との互換性は無い。ドリフトタイヤを標準装備したフルベアリング仕様とし、電池のセットだけですぐに[ドリフト走行](https://ja.wikipedia.org/wiki/ドリフト走行 "wikilink")を楽しめるよう配慮された。
+    2014年12月発売。ミニッツAWDの普及に向けて、価格を抑えたレディセット（[廉価版](../Page/廉価版.md "wikilink")）\[9\]。[基板](../Page/基板.md "wikilink")を専用基板に変更しFHS2.4GHzのKT-19送信機を採用した。従来のKT-18やEX-5UR ASFといったASF送信機との互換性は無い。ドリフトタイヤを標準装備したフルベアリング仕様とし、電池のセットだけですぐに[ドリフト走行](../Page/ドリフト走行.md "wikilink")を楽しめるよう配慮された。
     スポーツバージョン専用ジャイロ（MZW431、別売）に対応し、専用スペースとジャイロ調整ボリュームを装備。シャシー単体でジャイロの効きを調整可能。
 
 ## ギャラリー
@@ -68,10 +68,10 @@ MA-015</p></td>
 
 ## 関連項目
 
-  - [京商](https://ja.wikipedia.org/wiki/京商 "wikilink") - メーカー
-  - [ミニッツレーサー](https://ja.wikipedia.org/wiki/ミニッツレーサー "wikilink")
+  - [京商](../Page/京商.md "wikilink") - メーカー
+  - [ミニッツレーサー](../Page/ミニッツレーサー.md "wikilink")
       - [ミニッツレーサーMR-01シャーシ](https://ja.wikipedia.org/wiki/ミニッツレーサーMR-01シャーシ "wikilink")
-      - [ミニッツレーサーMR-015シャーシ](https://ja.wikipedia.org/wiki/ミニッツレーサーMR-015シャーシ "wikilink")
+      - [ミニッツレーサーMR-015シャーシ](../Page/ミニッツレーサーMR-015シャーシ.md "wikilink")
       - [ミニッツレーサーMR-02シャーシ](https://ja.wikipedia.org/wiki/ミニッツレーサーMR-02シャーシ "wikilink")
       - [ミニッツレーサーMR-03シャシー](https://ja.wikipedia.org/wiki/ミニッツレーサーMR-03シャシー "wikilink")
   - [ラジドリ](https://ja.wikipedia.org/wiki/ラジドリ "wikilink")

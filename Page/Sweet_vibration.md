@@ -12,14 +12,14 @@
 
 1.  **sweet vibration(electro house mix)**
       - 作詞：[motsu](https://ja.wikipedia.org/wiki/motsu "wikilink")、作曲・編曲：[t-kimura](https://ja.wikipedia.org/wiki/t-kimura "wikilink")
-      - [たかの友梨](https://ja.wikipedia.org/wiki/たかの友梨 "wikilink")ビューティクリニックコマーシャルソング
+      - [たかの友梨](../Page/たかの友梨.md "wikilink")ビューティクリニックコマーシャルソング
 2.  **Can't Quit This\!\!\!\!〜KNOCK'EM OUT〜(SH FUNK MIX)**
       - 作詞：[motsu](https://ja.wikipedia.org/wiki/motsu "wikilink")、作曲・編曲：[t-kimura](https://ja.wikipedia.org/wiki/t-kimura "wikilink")
       - ゲーム「[真・三國無双](https://ja.wikipedia.org/wiki/真・三國無双 "wikilink")」イメージソング
 3.  **time machine(Long Version)**
       - 作詞：[motsu](https://ja.wikipedia.org/wiki/motsu "wikilink")、作曲・編曲：[t-kimura](https://ja.wikipedia.org/wiki/t-kimura "wikilink")
 4.  **sweet vibration(80's Funkadelic mix)**
-      - [TBS系](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")「[COUNT DOWN TV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")」エンディングテーマソング
+      - [TBS系](../Page/TBSテレビ.md "wikilink")「[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")」エンディングテーマソング
 5.  **time machine(The Rubber Club Dub mix)**
 6.  **sweet vibration(sigtoto 80's mix)**
 7.  **sweet vibration(TV MIX)**
@@ -27,6 +27,6 @@
 
 ## 関連項目
 
-  - [2000年の音楽](https://ja.wikipedia.org/wiki/2000年の音楽 "wikilink")
+  - [2000年の音楽](../Page/2000年の音楽.md "wikilink")
 
 [Category:M.o.v.eの楽曲](https://ja.wikipedia.org/wiki/Category:M.o.v.eの楽曲 "wikilink") [Category:2000年のシングル](https://ja.wikipedia.org/wiki/Category:2000年のシングル "wikilink") [Category:コマーシャルソング](https://ja.wikipedia.org/wiki/Category:コマーシャルソング "wikilink") [Category:楽曲_す](https://ja.wikipedia.org/wiki/Category:楽曲_す "wikilink") [Category:COUNT_DOWN_TV](https://ja.wikipedia.org/wiki/Category:COUNT_DOWN_TV "wikilink") [Category:嬰ト短調](https://ja.wikipedia.org/wiki/Category:嬰ト短調 "wikilink")

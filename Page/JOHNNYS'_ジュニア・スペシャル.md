@@ -1,14 +1,14 @@
 > この記事は[JOHNNYS\' ](https://ja.wikipedia.org/wiki/JOHNNYS\'_)から翻訳されています。
 
 
-**JOHNNYS' ジュニア・スペシャル**は、[1974年](../Page/1974年.md "wikilink")夏に「**ジュニア・スペシャル**」の名で結成され、[ジャニーズ事務所](https://ja.wikipedia.org/wiki/ジャニーズ事務所 "wikilink")に在籍していたアイドルグループ。[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")代の中期に活躍。表記は「**JOHNNY'S**」ではなく「**JOHNNYS**'」（所有形ではなく「ジャニー達」の意）が正しい。愛称は頭文字を取って「**JJS**」。旧グループ名は「ジュニア・スペシャル」。後に「**[VIP](https://ja.wikipedia.org/wiki/#VIP "wikilink")**」（後述）というグループとなった。
+**JOHNNYS' ジュニア・スペシャル**は、[1974年](../Page/1974年.md "wikilink")夏に「**ジュニア・スペシャル**」の名で結成され、[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")に在籍していたアイドルグループ。[1970年](../Page/1970年.md "wikilink")代の中期に活躍。表記は「**JOHNNY'S**」ではなく「**JOHNNYS**'」（所有形ではなく「ジャニー達」の意）が正しい。愛称は頭文字を取って「**JJS**」。旧グループ名は「ジュニア・スペシャル」。後に「**[VIP](https://ja.wikipedia.org/wiki/#VIP "wikilink")**」（後述）というグループとなった。
 
 ## メンバー
 
   - **板野俊雄**（リーダー。愛称・トシちゃん。[1957年](../Page/1957年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink") - ）
-      - [山口県](../Page/山口県.md "wikilink")[徳山市](https://ja.wikipedia.org/wiki/徳山市 "wikilink")（現：[周南市](../Page/周南市.md "wikilink")）出身。元・[郷ひろみ](../Page/郷ひろみ.md "wikilink")の付き人。一時期「**板野としお**」と名乗っていた。1980年6月1日[ジャPAニーズ](https://ja.wikipedia.org/wiki/ジャPAニーズ "wikilink")加入。
+      - [山口県](../Page/山口県.md "wikilink")[徳山市](../Page/徳山市.md "wikilink")（現：[周南市](../Page/周南市.md "wikilink")）出身。元・[郷ひろみ](../Page/郷ひろみ.md "wikilink")の付き人。一時期「**板野としお**」と名乗っていた。1980年6月1日[ジャPAニーズ](../Page/ジャPAニーズ.md "wikilink")加入。
   - **林正明**（はやし まさあき、愛称・マーちゃん、ドラキュラ。[1958年](../Page/1958年.md "wikilink")[8月30日](../Page/8月30日.md "wikilink") - [2016年](../Page/2016年.md "wikilink")[5月26日](../Page/5月26日.md "wikilink")（死去判明日）\[1\]、[横浜市](../Page/横浜市.md "wikilink")[保土ケ谷区](../Page/保土ケ谷区.md "wikilink")出身）
-      - [堀越高等学校](https://ja.wikipedia.org/wiki/堀越高等学校 "wikilink")出身。
+      - [堀越高等学校](../Page/堀越高等学校.md "wikilink")出身。
   - **畠山昌久**（愛称・チャーリー、チャリ坊。1958年[2月9日](../Page/2月9日.md "wikilink") - [2003年](../Page/2003年.md "wikilink")[5月31日](../Page/5月31日.md "wikilink")。東京都出身）
       - 堀越高等学校卒業。父親はスパニッシュダンスの先生。
 
@@ -17,24 +17,24 @@
 （前身グループ「ジュニア・スペシャル」のみに参加したメンバー）
 
   - **山縣孝良** （愛称・タカ坊、1957年[5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink") - 、東京都出身）
-      - [1972年](../Page/1972年.md "wikilink")11月、[渋谷公会堂](https://ja.wikipedia.org/wiki/渋谷公会堂 "wikilink")に『ロッテ歌のアルバム』を観覧しに行った際、ジャニーズ事務所の副社長・[メリー喜多川](../Page/メリー喜多川.md "wikilink")によってスカウトされた。堀越高等学校卒業。
-  - **[井上純一](https://ja.wikipedia.org/wiki/井上純一_\(俳優\) "wikilink")** （愛称・ジュン、1958年[8月14日](../Page/8月14日.md "wikilink") - 、東京都[世田谷区](https://ja.wikipedia.org/wiki/世田谷区 "wikilink")出身）
+      - [1972年](../Page/1972年.md "wikilink")11月、[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")に『ロッテ歌のアルバム』を観覧しに行った際、ジャニーズ事務所の副社長・[メリー喜多川](../Page/メリー喜多川.md "wikilink")によってスカウトされた。堀越高等学校卒業。
+  - **[井上純一](../Page/井上純一_\(俳優\).md "wikilink")** （愛称・ジュン、1958年[8月14日](../Page/8月14日.md "wikilink") - 、東京都[世田谷区](../Page/世田谷区.md "wikilink")出身）
       - 山縣孝良の脱退後に参加したが、すぐに同じく脱退。その後は、映画の主役デビューや、ソロレコードデビューなどの活躍をした。
 
 ## 概要
 
   - [1974年](../Page/1974年.md "wikilink")夏、「**ジャニーズ・ジュニア第1期生**」が2つのグループに分割された。一つは[フォーリーブス](https://ja.wikipedia.org/wiki/フォーリーブス "wikilink")のコンサートのバックダンサーチームとして作られた3人組の「**ジュニア・スペシャル**」（板野俊雄、林正明、山縣孝良）。もう一方はジャニーズ・ジュニアの名義のまま、[郷ひろみ](../Page/郷ひろみ.md "wikilink")のコンサートのバックを担当した（小坂まさる、畠山昌久、近藤純市、鈴木寛、吉田義久、柏木孝夫）。
   - 夏のコンサートを終えた同年9月、小坂と近藤が共にジャニーズ事務所からの脱退を宣言し、それまで住んでいたジャニーズの合宿所を退所する。その為、山縣がスペシャルから元のジャニーズ・ジュニアへ異動となり、同年10月に山縣、畠山、鈴木、吉田、柏木の5名に対して「**[ジャニーズ・ジュニア・エース](https://ja.wikipedia.org/wiki/メッツ_\(ジャニーズ\)#ジャニーズ・ジュニア・エース_\(前身\) "wikilink")**」というグループ名が与えられたが、翌11月には山縣、鈴木、吉田、柏木の4名もジャニーズ事務所を退所してしまい、エースはわずか一ヶ月で消滅した。
-  - その後、ジュニア・スペシャルには井上純一が加入。すぐに続いて畠山昌久も加入して4人組になるが、井上が脱退し、最終的に「板野・林・畠山」という構成に落ち着いた。 一方、ジャニーズ事務所を辞めた6名のJr.は[バーニングプロダクション](https://ja.wikipedia.org/wiki/バーニングプロダクション "wikilink")へ移籍し、新グループ「**[メッツ](https://ja.wikipedia.org/wiki/メッツ_\(ジャニーズ\) "wikilink")**」を結成してレコードデビューした。
+  - その後、ジュニア・スペシャルには井上純一が加入。すぐに続いて畠山昌久も加入して4人組になるが、井上が脱退し、最終的に「板野・林・畠山」という構成に落ち着いた。 一方、ジャニーズ事務所を辞めた6名のJr.は[バーニングプロダクション](https://ja.wikipedia.org/wiki/バーニングプロダクション "wikilink")へ移籍し、新グループ「**[メッツ](../Page/メッツ_\(ジャニーズ\).md "wikilink")**」を結成してレコードデビューした。
   - [1975年](../Page/1975年.md "wikilink")2月21日、グループ名も正式に「ジュニア・スペシャル」から「**JOHNNYS' ジュニア・スペシャル**」となり、『ベルサイユのばら』でレコードデビュー。
-  - [日本テレビ系の早朝子供番組](../Page/日本テレビ放送網.md "wikilink")『[おはよう\!こどもショー](https://ja.wikipedia.org/wiki/おはよう!こどもショー "wikilink")』にレギュラー出演。 「JJSの親子ゲームコーナー」というレギュラーコーナーを持ち、板野がレフェリー、林が紅組キャプテン、畠山が白組キャプテンの役だった。 また、番組内で歌も数曲披露しており、持ち歌には『パイの歌』、『らっぱっぱ』、『またですか？』、『ねずみ小僧次郎吉』などがあった。 同番組には、メリー喜多川の愛娘・[藤島ジュリー景子](https://ja.wikipedia.org/wiki/藤島ジュリー景子 "wikilink")も一緒に出演していた。
+  - [日本テレビ系の早朝子供番組](../Page/日本テレビ放送網.md "wikilink")『[おはよう\!こどもショー](../Page/おはよう!こどもショー.md "wikilink")』にレギュラー出演。 「JJSの親子ゲームコーナー」というレギュラーコーナーを持ち、板野がレフェリー、林が紅組キャプテン、畠山が白組キャプテンの役だった。 また、番組内で歌も数曲披露しており、持ち歌には『パイの歌』、『らっぱっぱ』、『またですか？』、『ねずみ小僧次郎吉』などがあった。 同番組には、メリー喜多川の愛娘・[藤島ジュリー景子](https://ja.wikipedia.org/wiki/藤島ジュリー景子 "wikilink")も一緒に出演していた。
   - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")に解散。その後は「[VIP](https://ja.wikipedia.org/wiki/#VIP "wikilink")」（後述）として再デビューした。
 
 ## エピソード
 
   - 3人の中では林が一番人気があった。雑誌では、林と[手塚さとみの](https://ja.wikipedia.org/wiki/手塚理美 "wikilink")[ツーショット](https://ja.wikipedia.org/wiki/ツーショット "wikilink")対談なども行われている。また、『月刊明星』の1975年4月号では桜田淳子と共に表紙も飾った。
   - ファンによる親衛隊も多く誕生した。代表的なグループは「ガッツ」、「チーパー」など。「ガッツ」は最も大きいグループで、東京と大阪に存在した。また、ステージ用の応援コールも作られた（「J・U・N・I・O・R・ジュニア　JJSファイト～！」など）。
-  - 女優の[大島さと子](https://ja.wikipedia.org/wiki/大島さと子 "wikilink")は、かつて林正明の追っかけをしていた。[放送作家](../Page/放送作家.md "wikilink")の[山田美保子](https://ja.wikipedia.org/wiki/山田美保子 "wikilink")も、大学時代はJJSの追っかけだった事実を自著で告白している。[森公美子](https://ja.wikipedia.org/wiki/森公美子 "wikilink")もファンであったことを公言している\[2\]。
+  - 女優の[大島さと子](../Page/大島さと子.md "wikilink")は、かつて林正明の追っかけをしていた。[放送作家](../Page/放送作家.md "wikilink")の[山田美保子](../Page/山田美保子.md "wikilink")も、大学時代はJJSの追っかけだった事実を自著で告白している。[森公美子](../Page/森公美子.md "wikilink")もファンであったことを公言している\[2\]。
 
 ## 主な出演作品
 
@@ -45,16 +45,16 @@
 ### バラエティ番組
 
   - ヒット'76（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）初代アシスタント
-  - [おはよう\!こどもショー](https://ja.wikipedia.org/wiki/おはよう!こどもショー "wikilink") （日本テレビ）
+  - [おはよう\!こどもショー](../Page/おはよう!こどもショー.md "wikilink") （日本テレビ）
   - [夜のヒットスタジオ](https://ja.wikipedia.org/wiki/夜のヒットスタジオ "wikilink") （[1975年](../Page/1975年.md "wikilink")3月10日、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）『ベルサイユのばら』を披露
-  - ベスト30歌謡曲 （[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")）
-  - [カックラキン大放送\!\!](https://ja.wikipedia.org/wiki/カックラキン大放送!! "wikilink") （日本テレビ）
-      - 1975年5月16日・「待ってました五郎刑事」 [桜田淳子](https://ja.wikipedia.org/wiki/桜田淳子 "wikilink")と共演
+  - ベスト30歌謡曲 （[テレビ朝日](../Page/テレビ朝日.md "wikilink")）
+  - [カックラキン大放送\!\!](../Page/カックラキン大放送!!.md "wikilink") （日本テレビ）
+      - 1975年5月16日・「待ってました五郎刑事」 [桜田淳子](../Page/桜田淳子.md "wikilink")と共演
       - 1975年9月5日・「なに\!金賞?」 [南沙織](https://ja.wikipedia.org/wiki/南沙織 "wikilink")、[野口五郎](../Page/野口五郎.md "wikilink")と共演
-      - 1977年7月8日・「スター返上」 [石川さゆり](https://ja.wikipedia.org/wiki/石川さゆり "wikilink")と共演
-  - チビらサンデー （[1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink")7月 - 、テレビ朝日）
+      - 1977年7月8日・「スター返上」 [石川さゆり](../Page/石川さゆり.md "wikilink")と共演
+  - チビらサンデー （[1976年](../Page/1976年.md "wikilink")7月 - 、テレビ朝日）
   - パクパクコンテスト （1976年、[よみうりテレビ](../Page/讀賣テレビ放送.md "wikilink")）ゲスト出演で『サタデー・ナイト』を披露
-  - [ヤングおー\!おー\!](https://ja.wikipedia.org/wiki/ヤングおー!おー! "wikilink") （[毎日放送](../Page/毎日放送.md "wikilink")）
+  - [ヤングおー\!おー\!](../Page/ヤングおー!おー!.md "wikilink") （[毎日放送](../Page/毎日放送.md "wikilink")）
 
 ### 映画
 
@@ -74,7 +74,7 @@
 
 ### ステージ
 
-  - 第53回ウエスタン・カーニバル ～ ばらとみかんとバイオリンと （1975年3月28日 - 3月31日、[日本劇場](https://ja.wikipedia.org/wiki/日本劇場 "wikilink")）
+  - 第53回ウエスタン・カーニバル ～ ばらとみかんとバイオリンと （1975年3月28日 - 3月31日、[日本劇場](../Page/日本劇場.md "wikilink")）
   - ジャニーズジュニアファーストコンサート （1975年4月5日 - 5月5日）
   - ’75 サマーキャラバン　ジャニーズ・ジュニア・コンサート （1975年7月25日 - 8月16日）
   - 第54回ウエスタン・カーニバル ～ ジャニーズ・ファミリー・フェスティバル （1975年8月27日、日本劇場）
@@ -88,54 +88,54 @@
 
 ### シングル
 
-1.  **ベルサイユのばら**（1975年2月21日／SOLB-215） ※売上枚数8万枚、[オリコン最高](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")12位
-      - ベルサイユのばら - 作詞：[山口洋子](https://ja.wikipedia.org/wiki/山口洋子 "wikilink")、作曲：[鈴木邦彦](https://ja.wikipedia.org/wiki/鈴木邦彦 "wikilink")、編曲：[馬飼野康二](https://ja.wikipedia.org/wiki/馬飼野康二 "wikilink")
+1.  **ベルサイユのばら**（1975年2月21日／SOLB-215） ※売上枚数8万枚、[オリコン最高](../Page/オリコンチャート.md "wikilink")12位
+      - ベルサイユのばら - 作詞：[山口洋子](../Page/山口洋子.md "wikilink")、作曲：[鈴木邦彦](../Page/鈴木邦彦.md "wikilink")、編曲：[馬飼野康二](../Page/馬飼野康二.md "wikilink")
       - 愛しのオスカル - 作詞：山口洋子、作曲：鈴木邦彦、編曲：馬飼野康二
 2.  **愛のちかい**（1975年5月2日／SOLB-276）
       - 愛のちかい - 作詞：山口洋子、作曲：鈴木邦彦、編曲：馬飼野康二
       - 白鳥 - 作詞：山口洋子、作曲：鈴木邦彦、編曲：馬飼野康二
 3.  **さよなら愛**（1975年8月21日／SOLB-303）
-      - さよなら愛 - 作詞：山口洋子、作曲・編曲：[穂口雄右](https://ja.wikipedia.org/wiki/穂口雄右 "wikilink")
+      - さよなら愛 - 作詞：山口洋子、作曲・編曲：[穂口雄右](../Page/穂口雄右.md "wikilink")
       - 恋はサフラン - 作詞：山口洋子、作曲・編曲：穂口雄右
 4.  **ハートの夢**（1975年12月5日／SOLB-349）
-      - ハートの夢 - 作詞：[安井かずみ](https://ja.wikipedia.org/wiki/安井かずみ "wikilink")、作曲：[井上忠夫](https://ja.wikipedia.org/wiki/井上大輔 "wikilink")、編曲：馬飼野康二
+      - ハートの夢 - 作詞：[安井かずみ](../Page/安井かずみ.md "wikilink")、作曲：[井上忠夫](https://ja.wikipedia.org/wiki/井上大輔 "wikilink")、編曲：馬飼野康二
       - 感じる夕暮れ - 作詞：安井かずみ、作曲：井上忠夫、編曲：馬飼野康二
 5.  **愛の飛行船に乗って**（1976年2月21日／SOLB-363）
-      - 愛の飛行船に乗って - 作詞・作曲：[山本寛太郎](https://ja.wikipedia.org/wiki/山本寛太郎 "wikilink")、編曲：[あかのたちお](https://ja.wikipedia.org/wiki/あかのたちお "wikilink")
+      - 愛の飛行船に乗って - 作詞・作曲：[山本寛太郎](https://ja.wikipedia.org/wiki/山本寛太郎 "wikilink")、編曲：[あかのたちお](../Page/あかのたちお.md "wikilink")
       - 新しい君を知るために - 作詞・作曲：山本寛太郎、編曲：あかのたちお
     <!-- end list -->
       -
         ※A面の「**愛の飛行船に乗って**」は『100万人飛行船の会』のテーマソングとして使用された。
 6.  **サタデー・ナイト**（1976年4月21日／SOLB-411）
-      - サタデー・ナイト - 作詞：[北公次](https://ja.wikipedia.org/wiki/北公次 "wikilink")、作曲：P.Coulter / B.Martin、編曲：[宮本光雄](https://ja.wikipedia.org/wiki/宮本光雄 "wikilink")
+      - サタデー・ナイト - 作詞：[北公次](../Page/北公次.md "wikilink")、作曲：P.Coulter / B.Martin、編曲：[宮本光雄](https://ja.wikipedia.org/wiki/宮本光雄 "wikilink")
       - J.J.Sのテーマ - 作詞：[石原信一](https://ja.wikipedia.org/wiki/石原信一 "wikilink")、作曲・編曲：あかのたちお
 7.  **元気ですか**（1976年5月21日／06SH-9）
-      - 元気ですか - 作詞：[寺山修司](https://ja.wikipedia.org/wiki/寺山修司 "wikilink")、作曲：井上忠夫、編曲：[森岡賢一郎](https://ja.wikipedia.org/wiki/森岡賢一郎 "wikilink")
-      - ぼくの消息 - 作詞：寺山修司、作曲：[中村泰士](https://ja.wikipedia.org/wiki/中村泰士 "wikilink")、編曲：森岡賢一郎
+      - 元気ですか - 作詞：[寺山修司](../Page/寺山修司.md "wikilink")、作曲：井上忠夫、編曲：[森岡賢一郎](../Page/森岡賢一郎.md "wikilink")
+      - ぼくの消息 - 作詞：寺山修司、作曲：[中村泰士](../Page/中村泰士.md "wikilink")、編曲：森岡賢一郎
     <!-- end list -->
       -
         ※[スプリット盤](https://ja.wikipedia.org/wiki/スプリット盤 "wikilink")。B面の「**ぼくの消息**」は[豊川誕](https://ja.wikipedia.org/wiki/豊川誕 "wikilink")のソロ曲
 8.  **サンデー・キューピット**（1976年7月21日／06SH-36）
-      - サンデー・キューピット - 作詞：[伊藤アキラ](https://ja.wikipedia.org/wiki/伊藤アキラ "wikilink")、作曲：井上忠夫、編曲：[田辺信一](https://ja.wikipedia.org/wiki/田辺信一 "wikilink")
+      - サンデー・キューピット - 作詞：[伊藤アキラ](../Page/伊藤アキラ.md "wikilink")、作曲：井上忠夫、編曲：[田辺信一](https://ja.wikipedia.org/wiki/田辺信一 "wikilink")
       - 絵本の少女 - 作詞：伊藤アキラ、作曲：井上忠夫、編曲：田辺信一
 9.  **太陽のあいつ**（1976年10月21日／06SH-77）
-      - 太陽のあいつ - 作詞：[岩谷時子](https://ja.wikipedia.org/wiki/岩谷時子 "wikilink")、作曲：[いずみたく](https://ja.wikipedia.org/wiki/いずみたく "wikilink")、編曲：田辺信一
-      - 焔のカーブ - 作詞：[石原慎太郎](../Page/石原慎太郎.md "wikilink")、作曲：[三保敬太郎](https://ja.wikipedia.org/wiki/三保敬太郎 "wikilink")、編曲：田辺信一
+      - 太陽のあいつ - 作詞：[岩谷時子](../Page/岩谷時子.md "wikilink")、作曲：[いずみたく](../Page/いずみたく.md "wikilink")、編曲：田辺信一
+      - 焔のカーブ - 作詞：[石原慎太郎](../Page/石原慎太郎.md "wikilink")、作曲：[三保敬太郎](../Page/三保敬太郎.md "wikilink")、編曲：田辺信一
 10. **憧れのベイ・シティ・ローラーズ**（1976年12月21日／06SH-114）
-      - 憧れのベイ・シティ・ローラーズ - 作詞：伊藤アキラ、作曲：[T.Modern](https://ja.wikipedia.org/wiki/ニック・ロウ "wikilink")、編曲：[いしだかつのり](https://ja.wikipedia.org/wiki/石田勝範 "wikilink")
+      - 憧れのベイ・シティ・ローラーズ - 作詞：伊藤アキラ、作曲：[T.Modern](../Page/ニック・ロウ.md "wikilink")、編曲：[いしだかつのり](../Page/石田勝範.md "wikilink")
       - ダンス・フォー・ミー - 作詞：伊藤アキラ、作曲：M.Freiser、編曲：いしだかつのり
 11. **ツイスト110番**（1977年3月21日／06SH-135）
-      - ツイスト110番 - 作詞：[おりも政夫](https://ja.wikipedia.org/wiki/おりも政夫 "wikilink")、作曲：[青山孝](https://ja.wikipedia.org/wiki/青山孝史 "wikilink")、編曲：いしだかつのり
-      - 片想い日記 - 作詞：[江木俊夫](https://ja.wikipedia.org/wiki/江木俊夫 "wikilink")、作曲：青山孝、編曲：いしだかつのり
+      - ツイスト110番 - 作詞：[おりも政夫](../Page/おりも政夫.md "wikilink")、作曲：[青山孝](../Page/青山孝史.md "wikilink")、編曲：いしだかつのり
+      - 片想い日記 - 作詞：[江木俊夫](../Page/江木俊夫.md "wikilink")、作曲：青山孝、編曲：いしだかつのり
 12. **ラストショー**（1977年7月21日／06SH-185）
-      - ラストショー - 作詞：[杉山政美](https://ja.wikipedia.org/wiki/杉山政美 "wikilink")、作曲・編曲：[木森敏之](https://ja.wikipedia.org/wiki/木森敏之 "wikilink")
+      - ラストショー - 作詞：[杉山政美](../Page/杉山政美.md "wikilink")、作曲・編曲：[木森敏之](../Page/木森敏之.md "wikilink")
       - ネイビーブルー - 作詞：杉山政美、作曲・編曲：木森敏之
 
 ### アルバム
 
   - 1975年9月21日 『エンジェルパワー』（[アニメソング](https://ja.wikipedia.org/wiki/アニメソング "wikilink")のカバーアルバム）
   - 1976年2月21日 『夢のディスクジョッキー』（売上枚数0.8万枚、オリコン最高29位）
-  - 1976年 『フォーリーブス10周年記念 PART1』 （[フォーリーブス](https://ja.wikipedia.org/wiki/フォーリーブス "wikilink")、[豊川誕](https://ja.wikipedia.org/wiki/豊川誕 "wikilink")との共演作。[中野サンプラザ](https://ja.wikipedia.org/wiki/中野サンプラザ "wikilink")での実況録音盤）
+  - 1976年 『フォーリーブス10周年記念 PART1』 （[フォーリーブス](https://ja.wikipedia.org/wiki/フォーリーブス "wikilink")、[豊川誕](https://ja.wikipedia.org/wiki/豊川誕 "wikilink")との共演作。[中野サンプラザ](../Page/中野サンプラザ.md "wikilink")での実況録音盤）
   - 1976年12月21日 『素敵な恋の招待券』
   - 1977年12月1日 『集合\!アイドルのすべて JJS全曲集』
 
@@ -157,7 +157,7 @@
 ### 概要
 
   - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")に[キングレコード](../Page/キングレコード.md "wikilink")より『南十字星』でレコードデビュー。
-  - [1979年](../Page/1979年.md "wikilink")、林・畠山・吉本の3名が脱退を表明。そして、[1979年](../Page/1979年.md "wikilink")5月13日に[日比谷野外音楽堂](https://ja.wikipedia.org/wiki/日比谷野外音楽堂 "wikilink")にて、約4時間に渡る解散[コンサート](https://ja.wikipedia.org/wiki/コンサート "wikilink")が行われた。
+  - [1979年](../Page/1979年.md "wikilink")、林・畠山・吉本の3名が脱退を表明。そして、[1979年](../Page/1979年.md "wikilink")5月13日に[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")にて、約4時間に渡る解散[コンサート](https://ja.wikipedia.org/wiki/コンサート "wikilink")が行われた。
   - 5人組としての「VIP」は解散したが、その後も板野と河村の2人だけでグループを存続させた。そして、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")にデュオ曲を1枚だけリリースしたが、やがて自然消滅した。
   - 河村と吉本は「週刊プレイボーイ」（1979年2月13日号）にて水着姿で登場している。
 
@@ -170,19 +170,19 @@
 <!-- end list -->
 
 1.  **南十字星**（1978年7月21日。）
-      - 南十字星 - 作詞：[竜真知子](https://ja.wikipedia.org/wiki/竜真知子 "wikilink")／作曲：[渡辺岳夫](https://ja.wikipedia.org/wiki/渡辺岳夫 "wikilink")／編曲：[ミッキー吉野](https://ja.wikipedia.org/wiki/ミッキー吉野 "wikilink")
+      - 南十字星 - 作詞：[竜真知子](../Page/竜真知子.md "wikilink")／作曲：[渡辺岳夫](../Page/渡辺岳夫.md "wikilink")／編曲：[ミッキー吉野](../Page/ミッキー吉野.md "wikilink")
       - たそがれハーバー - 作詞：竜真知子／作曲：渡辺岳夫／編曲：ミッキー吉野
 2.  **青春にかけろ\!**（1978年10月5日）
-      - 青春にかけろ\! - 作詞：竜真知子／作曲・編曲：[馬飼野康二](https://ja.wikipedia.org/wiki/馬飼野康二 "wikilink")
+      - 青春にかけろ\! - 作詞：竜真知子／作曲・編曲：[馬飼野康二](../Page/馬飼野康二.md "wikilink")
       - 明日に向って - 作詞：竜真知子／作曲・編曲：馬飼野康二
 3.  **きらめきの季節**（1980年1月10日） ※板野と河村のデュエット作
-      - きらめきの季節 - 作詞：[福永ひろみ](https://ja.wikipedia.org/wiki/福永ひろみ "wikilink")／作曲：[小杉保夫](https://ja.wikipedia.org/wiki/小杉保夫 "wikilink")／編曲：佐々木勝彦
+      - きらめきの季節 - 作詞：[福永ひろみ](https://ja.wikipedia.org/wiki/福永ひろみ "wikilink")／作曲：[小杉保夫](../Page/小杉保夫.md "wikilink")／編曲：佐々木勝彦
       - おしえて下さい - 作詞：福永ひろみ／作曲：小杉保夫／編曲：エジソン
 
 #### アルバム
 
 1.  **新・エースをねらえ\! Vol.1**
-      - ※全作詞：[竜真知子](https://ja.wikipedia.org/wiki/竜真知子 "wikilink")／全作曲：[馬飼野康二](https://ja.wikipedia.org/wiki/馬飼野康二 "wikilink")
+      - ※全作詞：[竜真知子](../Page/竜真知子.md "wikilink")／全作曲：[馬飼野康二](../Page/馬飼野康二.md "wikilink")
     <!-- end list -->
       - 青春にかけろ\!
       - いつもの街角
@@ -194,8 +194,8 @@
 
 ## メンバーのその後
 
-  - 板野は[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[6月1日](../Page/6月1日.md "wikilink")から「ジャPAニーズ」に加入した為、その後の詳細は**[ジャPAニーズ](https://ja.wikipedia.org/wiki/ジャPAニーズ "wikilink")**の項目を参照。
-  - 畠山は脱退後に事務所を移籍。1980年に「**畠 真之**（はた まさゆき）」に改名して[俳優](../Page/俳優.md "wikilink")として活動。 [1984年](../Page/1984年.md "wikilink")に[劇団四季](../Page/劇団四季.md "wikilink")へ入団すると、再び「畠山昌久」の名に戻して活動していたが、しばらくしてから「**畠山 久**（はたけやま ひさし）」へと改名した。1993年には[中野サンプラザ](https://ja.wikipedia.org/wiki/中野サンプラザ "wikilink")で行われたロックオペラ「ハムレット」にレアティーズ役で出演し、[X JAPANの](../Page/X_JAPAN.md "wikilink")[ToshI](https://ja.wikipedia.org/wiki/ToshI "wikilink")や[デーモン小暮閣下](https://ja.wikipedia.org/wiki/デーモン小暮閣下 "wikilink")などと共演。[2003年](../Page/2003年.md "wikilink")[5月31日](../Page/5月31日.md "wikilink")、転移性[胆管癌](../Page/胆管癌.md "wikilink")により死去。45歳没。
+  - 板野は[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[6月1日](../Page/6月1日.md "wikilink")から「ジャPAニーズ」に加入した為、その後の詳細は**[ジャPAニーズ](../Page/ジャPAニーズ.md "wikilink")**の項目を参照。
+  - 畠山は脱退後に事務所を移籍。1980年に「**畠 真之**（はた まさゆき）」に改名して[俳優](../Page/俳優.md "wikilink")として活動。 [1984年](../Page/1984年.md "wikilink")に[劇団四季](../Page/劇団四季.md "wikilink")へ入団すると、再び「畠山昌久」の名に戻して活動していたが、しばらくしてから「**畠山 久**（はたけやま ひさし）」へと改名した。1993年には[中野サンプラザ](../Page/中野サンプラザ.md "wikilink")で行われたロックオペラ「ハムレット」にレアティーズ役で出演し、[X JAPANの](../Page/X_JAPAN.md "wikilink")[ToshI](https://ja.wikipedia.org/wiki/ToshI "wikilink")や[デーモン小暮閣下](https://ja.wikipedia.org/wiki/デーモン小暮閣下 "wikilink")などと共演。[2003年](../Page/2003年.md "wikilink")[5月31日](../Page/5月31日.md "wikilink")、転移性[胆管癌](../Page/胆管癌.md "wikilink")により死去。45歳没。
   - 林は脱退の1ヶ月後から、プライベートでソロのアコースティックライブ活動を数年間続けていた。その後は結婚して男児を一人もうけ、妻の実家の家業である不動産業を手伝っていた。[2016年](../Page/2016年.md "wikilink")[5月26日](../Page/5月26日.md "wikilink")、[心筋梗塞](../Page/心筋梗塞.md "wikilink")により死去していたことが判明した（死亡月日は未公表）。57歳没。5月28日に[横浜市](../Page/横浜市.md "wikilink")内で葬儀が行われた\[3\]。
 
 ## 出典
@@ -203,11 +203,11 @@
 ## 関連項目
 
   - [ジャニーズ・ジュニア・エース](https://ja.wikipedia.org/wiki/メッツ_\(ジャニーズ\)#ジャニーズ・ジュニア・エース_\(前身\) "wikilink")
-  - [メッツ](https://ja.wikipedia.org/wiki/メッツ_\(ジャニーズ\) "wikilink")
-  - [ジャPAニーズ](https://ja.wikipedia.org/wiki/ジャPAニーズ "wikilink")
+  - [メッツ](../Page/メッツ_\(ジャニーズ\).md "wikilink")
+  - [ジャPAニーズ](../Page/ジャPAニーズ.md "wikilink")
   - [ジャニーズJr.解散グループ (1990年以前)](https://ja.wikipedia.org/wiki/ジャニーズJr.解散グループ_\(1990年以前\) "wikilink")
   - [ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")
-  - [ジャニーズ事務所](https://ja.wikipedia.org/wiki/ジャニーズ事務所 "wikilink")
+  - [ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")
 
 [Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:過去のジャニーズ所属者](https://ja.wikipedia.org/wiki/Category:過去のジャニーズ所属者 "wikilink")
 

@@ -11,7 +11,7 @@
 
 終始[朗読](../Page/朗読.md "wikilink")主体で構成・進行されており、[音楽](../Page/音楽.md "wikilink")や[トーク](https://ja.wikipedia.org/wiki/トーク "wikilink")主体の一般的な[ラジオ番組](../Page/ラジオ番組.md "wikilink")とは一線を画していた。
 
-子供の[いじめ](https://ja.wikipedia.org/wiki/いじめ "wikilink")や[自殺](https://ja.wikipedia.org/wiki/自殺 "wikilink")が増加している原因とされ、近年社会問題化している「子どもたちの心の問題」を、朗読を通した家族間の[コミュニケーション](../Page/コミュニケーション.md "wikilink")により改善していこうという[トーハン](https://ja.wikipedia.org/wiki/トーハン "wikilink")推進の読書推進運動**「家読」**（うちどく）を推奨していた。
+子供の[いじめ](https://ja.wikipedia.org/wiki/いじめ "wikilink")や[自殺](../Page/自殺.md "wikilink")が増加している原因とされ、近年社会問題化している「子どもたちの心の問題」を、朗読を通した家族間の[コミュニケーション](../Page/コミュニケーション.md "wikilink")により改善していこうという[トーハン](../Page/トーハン.md "wikilink")推進の読書推進運動**「家読」**（うちどく）を推奨していた。
 
 ## ナビゲーター
 
@@ -20,7 +20,7 @@
   - [浅岡あゆ美](https://ja.wikipedia.org/wiki/浅岡あゆ美 "wikilink")（2012年4月〜2014年5月）
   - [宮本淳子](../Page/宮本淳子.md "wikilink")（2009年4月〜2012年3月）
   - 寺田繭子\[1\]\[2\]（2008年1月〜2009年3月）
-  - [寺田有美子](https://ja.wikipedia.org/wiki/寺田有美子 "wikilink")（2007年4月〜2007年12月）
+  - [寺田有美子](../Page/寺田有美子.md "wikilink")（2007年4月〜2007年12月）
 
 ## 番組コーナー
 
@@ -30,7 +30,7 @@
 <!-- end list -->
 
   - えんぴつポエム
-    毎週静岡県内の[小学校](https://ja.wikipedia.org/wiki/小学校 "wikilink")1校（番組終了間際には2校）を取り上げ、在籍する生徒が作成した[詩](https://ja.wikipedia.org/wiki/詩 "wikilink")を紹介する。小学生の豊かな感性を感じ取ることができる。
+    毎週静岡県内の[小学校](../Page/小学校.md "wikilink")1校（番組終了間際には2校）を取り上げ、在籍する生徒が作成した[詩](https://ja.wikipedia.org/wiki/詩 "wikilink")を紹介する。小学生の豊かな感性を感じ取ることができる。
     年に数度\[4\]、「おでかけえんぴつポエム」として、実際に小学校に出向いて子供自身の声で読んだ作品を収録放送している。
 
 <!-- end list -->
@@ -42,7 +42,7 @@
 
   - BED TIME STORY
     前述の「家読」推奨の様々な[書籍から一作品を取り上げ](../Page/本.md "wikilink")、ナビゲーターが朗読する。短い[絵本](../Page/絵本.md "wikilink")を除けば大抵は全て紹介しきれないため、その場合は初めに扱う箇所の紹介がされる。
-    以前は[BGMとして](https://ja.wikipedia.org/wiki/バックグラウンドミュージック "wikilink")、[ブライアン・イーノ](https://ja.wikipedia.org/wiki/ブライアン・イーノ "wikilink")の「1/1」が流れていたが、後に廃止された。無音状態となったことにより、本をめくる音をはっきりと聴き取ることができるようになった。
+    以前は[BGMとして](../Page/バックグラウンドミュージック.md "wikilink")、[ブライアン・イーノ](../Page/ブライアン・イーノ.md "wikilink")の「1/1」が流れていたが、後に廃止された。無音状態となったことにより、本をめくる音をはっきりと聴き取ることができるようになった。
 
 ## 参考
 

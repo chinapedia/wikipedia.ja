@@ -53,12 +53,12 @@
 <li>In the nude(MASTERS OF FUNK Remix/Instrumental)</li>
 <li>In the nude(IN THE MOOD Mix/Instrumental)</li>
 </ol></td>
-<td><p>フジビューティ「<a href="https://ja.wikipedia.org/wiki/たかの友梨" title="wikilink">たかの友梨</a>ビューティクリニック」CMソング<br />
+<td><p>フジビューティ「<a href="../Page/たかの友梨.md" title="wikilink">たかの友梨</a>ビューティクリニック」CMソング<br />
 オリコン最高80位</p></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
-<td><p><a href="../Page/1999年.md" title="wikilink">1999年</a><a href="https://ja.wikipedia.org/wiki/9月8日" title="wikilink">9月8日</a></p></td>
+<td><p><a href="../Page/1999年.md" title="wikilink">1999年</a><a href="../Page/9月8日.md" title="wikilink">9月8日</a></p></td>
 <td><p><strong>DOH-YO</strong></p></td>
 <td><p>AVCD-30061</p></td>
 <td><ol>
@@ -184,12 +184,12 @@
 <td><p>AVCD-11771</p></td>
 <td><ol>
 <li>DOH-YO [5:02] 【作詞:<a href="https://ja.wikipedia.org/wiki/松井五郎" title="wikilink">松井五郎</a>/作曲編曲:<a href="https://ja.wikipedia.org/wiki/庄野賢一" title="wikilink">庄野賢一</a>】</li>
-<li>Joy to the love,tonight [4:35] 【作詞:海老根祐子/作曲:桑原秀明/編曲:<a href="https://ja.wikipedia.org/wiki/菊地圭介" title="wikilink">菊地圭介</a>】</li>
+<li>Joy to the love,tonight [4:35] 【作詞:海老根祐子/作曲:桑原秀明/編曲:<a href="../Page/菊地圭介.md" title="wikilink">菊地圭介</a>】</li>
 <li>In the nude [5:39] 【作詞:海老根祐子/作曲編曲:庄野賢一】</li>
 <li>Why not? Why so? [5:24] 【作詞:松井五郎/作曲:菊池一仁/編曲:菊地圭介】</li>
 <li>I get lonely [4:32] 【作詞:海老根祐子/作曲:桑原秀明/編曲:菊地圭介】</li>
 <li>CRY [4:43] 【作詞:森ちよ子/作曲:<a href="https://ja.wikipedia.org/wiki/D・A・I" title="wikilink">D・A・I</a>/編曲:菊地圭介】</li>
-<li>desires (HΛL’S MIX) [4:45] 【作詞:<a href="../Page/森浩美.md" title="wikilink">森浩美</a>/作曲:桑原秀明/編曲:<a href="https://ja.wikipedia.org/wiki/HΛL" title="wikilink">HΛL</a>】</li>
+<li>desires (HΛL’S MIX) [4:45] 【作詞:<a href="../Page/森浩美.md" title="wikilink">森浩美</a>/作曲:桑原秀明/編曲:<a href="../Page/HΛL.md" title="wikilink">HΛL</a>】</li>
 <li>You don’t come back [4:50] 【作詞:海老根祐子/作曲:庄野賢一/編曲:菊地圭介】</li>
 <li>Lovin’ NOIR [4:43] 【作詞:森ちよ子/作曲:桑原秀明/編曲:菊地圭介】</li>
 <li>Brand New Love [5:13] 【作詞:松井五郎/作曲:菊池一仁/編曲:菊地圭介】</li>

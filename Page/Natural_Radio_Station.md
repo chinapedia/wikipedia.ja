@@ -1,7 +1,7 @@
 > この記事は[Natural Radio Station](https://ja.wikipedia.org/wiki/Natural_Radio_Station)から翻訳されています。
 
 
-**Natural Radio Station**（ナチュラル・レディオ・ステーション）は[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")[博多](../Page/博多.md "wikilink")出身の[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")[デュオ](https://ja.wikipedia.org/wiki/デュオ "wikilink")である。2004年結成。2007年[RIDDIM ZONEよりメジャーデビュー](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。
+**Natural Radio Station**（ナチュラル・レディオ・ステーション）は[福岡県](../Page/福岡県.md "wikilink")[博多](../Page/博多.md "wikilink")出身の[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")[デュオ](../Page/デュオ.md "wikilink")である。2004年結成。2007年[RIDDIM ZONEよりメジャーデビュー](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## メンバー
 
@@ -51,9 +51,9 @@
     8.  フレンドシップ
 2.  **Treasure**（2008年6月25日）
     1.  宝物～ムーンハイツストーリー～
-    2.  Welcome to 九州 feat.[CAP ROCK](https://ja.wikipedia.org/wiki/CAP_ROCK "wikilink"),[Danger-Shu](https://ja.wikipedia.org/wiki/Danger-Shu "wikilink"),ヒロポン,[JAI](https://ja.wikipedia.org/wiki/JAI "wikilink"),[KC](https://ja.wikipedia.org/wiki/KC "wikilink") from [CHOMORANMA](https://ja.wikipedia.org/wiki/CHOMORANMA "wikilink")
+    2.  Welcome to 九州 feat.[CAP ROCK](https://ja.wikipedia.org/wiki/CAP_ROCK "wikilink"),[Danger-Shu](https://ja.wikipedia.org/wiki/Danger-Shu "wikilink"),ヒロポン,[JAI](https://ja.wikipedia.org/wiki/JAI "wikilink"),[KC](../Page/KC.md "wikilink") from [CHOMORANMA](https://ja.wikipedia.org/wiki/CHOMORANMA "wikilink")
     3.  TRUE LOVE
-    4.  Answer feat.[U-DOU\&PLATY](https://ja.wikipedia.org/wiki/U-DOU&PLATY "wikilink")
+    4.  Answer feat.[U-DOU\&PLATY](../Page/U-DOU&PLATY.md "wikilink")
     5.  Summer Night
     6.  福岡WALKER ～KAEDAMA remix～
 3.  **MESSAGE**（2012年7月11日）

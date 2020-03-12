@@ -1,17 +1,17 @@
 > この記事は[B-SIDE](https://ja.wikipedia.org/wiki/B-SIDE)から翻訳されています。
 
 
-『**B-SIDE**』（ビーサイド）は、日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")・[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")のカップリング集[アルバム](../Page/アルバム.md "wikilink")である。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[5月10日](../Page/5月10日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より発売された。
+『**B-SIDE**』（ビーサイド）は、日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")・[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")のカップリング集[アルバム](../Page/アルバム.md "wikilink")である。[2007年](../Page/2007年.md "wikilink")[5月10日](../Page/5月10日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より発売された。
 
 ## 概要
 
 本作はオリジナルアルバムではないが、公式に14thアルバムと位置づけられている。
 
-[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")[5月10日](../Page/5月10日.md "wikilink")発売の1stアルバム『[EVERYTHING](https://ja.wikipedia.org/wiki/EVERYTHING_\(アルバム\) "wikilink")』によるデビューから満15年となる[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")5月10日にMr.Childrenが発売した日本で3つ目のベストアルバムであり（『[LAND IN ASIA](https://ja.wikipedia.org/wiki/LAND_IN_ASIA "wikilink")』は日本では未発売）、同時に初のカップリング集アルバム。本作発売時点でアルバム未収録だったカップリング曲のみを全て収録した。『B-SIDE』（裏面）というアルバムタイトルに添ってジャケットは、本作以前に発売されたシングル30枚のジャケットを左右反転させて並べられた。これらのシングルの中にはカップリング曲がないものや以前のアルバムに収録済みのものもあるため、本作の収録曲とは無関係だが、それまでの15年間の活動を総括する意味で全シングルのジャケットが採用されている。30thシングル「[フェイク](https://ja.wikipedia.org/wiki/フェイク_\(Mr.Childrenの曲\) "wikilink")」だけは裏ジャケットが元々反転しているので、ビジュアルがやや違うもののそのまま使われている（ポスターでは表ジャケットを反転させたバージョンも存在する）。アートディレクターは[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")社員の友永賢治。歌詞カードは全て[桜井和寿](https://ja.wikipedia.org/wiki/桜井和寿 "wikilink")本人の手書きで、メンバー全員による対談形式の[セルフライナーノーツも含まれている](https://ja.wikipedia.org/wiki/ライナーノーツ "wikilink")。
+[1992年](../Page/1992年.md "wikilink")[5月10日](../Page/5月10日.md "wikilink")発売の1stアルバム『[EVERYTHING](../Page/EVERYTHING_\(アルバム\).md "wikilink")』によるデビューから満15年となる[2007年](../Page/2007年.md "wikilink")5月10日にMr.Childrenが発売した日本で3つ目のベストアルバムであり（『[LAND IN ASIA](../Page/LAND_IN_ASIA.md "wikilink")』は日本では未発売）、同時に初のカップリング集アルバム。本作発売時点でアルバム未収録だったカップリング曲のみを全て収録した。『B-SIDE』（裏面）というアルバムタイトルに添ってジャケットは、本作以前に発売されたシングル30枚のジャケットを左右反転させて並べられた。これらのシングルの中にはカップリング曲がないものや以前のアルバムに収録済みのものもあるため、本作の収録曲とは無関係だが、それまでの15年間の活動を総括する意味で全シングルのジャケットが採用されている。30thシングル「[フェイク](../Page/フェイク_\(Mr.Childrenの曲\).md "wikilink")」だけは裏ジャケットが元々反転しているので、ビジュアルがやや違うもののそのまま使われている（ポスターでは表ジャケットを反転させたバージョンも存在する）。アートディレクターは[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")社員の友永賢治。歌詞カードは全て[桜井和寿](../Page/桜井和寿.md "wikilink")本人の手書きで、メンバー全員による対談形式の[セルフライナーノーツも含まれている](../Page/ライナーノーツ.md "wikilink")。
 
-本作の計画は、[2001年](../Page/2001年.md "wikilink")にデビュー10周年が近づいたことを記念して発売されたベストアルバム『[Mr.Children 1992-1995](https://ja.wikipedia.org/wiki/Mr.Children_1992-1995 "wikilink")』『[Mr.Children 1996-2000](../Page/Mr.Children_1996-2000.md "wikilink")』の発表時から桜井によって示唆されていたものの、収録時間や曲数の関係などから見送られたままとなっていた。その後、それまでアルバム未収録だったカップリング曲が十分な数に達したことから発売に至った。また、前作『[HOME](../Page/HOME_\(Mr.Childrenのアルバム\).md "wikilink")』収録曲にはカップリング候補として制作されたものも多く、『HOME』のような等身大のMr.Childrenがこのアルバムにも表れている、とも語っている。
+本作の計画は、[2001年](../Page/2001年.md "wikilink")にデビュー10周年が近づいたことを記念して発売されたベストアルバム『[Mr.Children 1992-1995](../Page/Mr.Children_1992-1995.md "wikilink")』『[Mr.Children 1996-2000](../Page/Mr.Children_1996-2000.md "wikilink")』の発表時から桜井によって示唆されていたものの、収録時間や曲数の関係などから見送られたままとなっていた。その後、それまでアルバム未収録だったカップリング曲が十分な数に達したことから発売に至った。また、前作『[HOME](../Page/HOME_\(Mr.Childrenのアルバム\).md "wikilink")』収録曲にはカップリング候補として制作されたものも多く、『HOME』のような等身大のMr.Childrenがこのアルバムにも表れている、とも語っている。
 
-本作発売時点で、アルバムに一切収録されていない楽曲は27thシングル「[四次元 Four Dimensions](https://ja.wikipedia.org/wiki/四次元_Four_Dimensions "wikilink")」収録の「ヨーイドン」のみ。DISC 1・2共に10トラック終了後の十数秒の空白に続いて[シークレットトラックとして](https://ja.wikipedia.org/wiki/隠しトラック "wikilink")「ニシエヒガシエ」のリミックス曲が収録されている。シークレットトラックのため、タイトルはジャケットに記載されていない。配信版では、トラック10終了後の無音とシークレットトラックは削除されている。
+本作発売時点で、アルバムに一切収録されていない楽曲は27thシングル「[四次元 Four Dimensions](../Page/四次元_Four_Dimensions.md "wikilink")」収録の「ヨーイドン」のみ。DISC 1・2共に10トラック終了後の十数秒の空白に続いて[シークレットトラックとして](../Page/隠しトラック.md "wikilink")「ニシエヒガシエ」のリミックス曲が収録されている。シークレットトラックのため、タイトルはジャケットに記載されていない。配信版では、トラック10終了後の無音とシークレットトラックは削除されている。
 
 本作品の関係者に配布されるプロモ盤には、“本作品の打ち出しの際に「BEST」や「裏BEST」という表現はお控え下さい”と注意が記載されている。
 
@@ -31,13 +31,13 @@
         5thシングル「[innocent world](https://ja.wikipedia.org/wiki/innocent_world "wikilink")」収録。
 3.  **雨のち晴れ remix version** (9:39)
       -
-        8thシングル「[【es】 〜Theme of es〜](https://ja.wikipedia.org/wiki/【es】_〜Theme_of_es〜 "wikilink")」収録。
+        8thシングル「[【es】 〜Theme of es〜](../Page/【es】_〜Theme_of_es〜.md "wikilink")」収録。
 4.  **フラジャイル** (5:09)
       -
         9thシングル「[シーソーゲーム 〜勇敢な恋の歌〜](../Page/シーソーゲーム_〜勇敢な恋の歌〜.md "wikilink")」収録。
 5.  **また会えるかな** (4:06)
       -
-        10thシングル「[名もなき詩](https://ja.wikipedia.org/wiki/名もなき詩 "wikilink")」収録。
+        10thシングル「[名もなき詩](../Page/名もなき詩.md "wikilink")」収録。
 6.  **Love is Blindness** (3:29)
       -
         12thシングル「[マシンガンをぶっ放せ -Mr.Children Bootleg-](../Page/マシンガンをぶっ放せ_-Mr.Children_Bootleg-.md "wikilink")」収録。
@@ -46,7 +46,7 @@
         12thシングル「マシンガンをぶっ放せ -Mr.Children Bootleg-」収録。
 8.  **デルモ** (5:27)
       -
-        13thシングル「[Everything (It's you)](https://ja.wikipedia.org/wiki/Everything_\(It's_you\) "wikilink")」収録。
+        13thシングル「[Everything (It's you)](../Page/Everything_\(It's_you\).md "wikilink")」収録。
 9.  **独り言** (3:32)
       -
         16thシングル「[光の射す方へ](../Page/光の射す方へ.md "wikilink")」収録。
@@ -73,19 +73,19 @@
         23rdシングル「[Any](../Page/Any.md "wikilink")」収録。
 5.  **妄想満月** (3:03)
       -
-        26thシングル「[Sign](https://ja.wikipedia.org/wiki/Sign_\(Mr.Childrenの曲\) "wikilink")」収録。
+        26thシングル「[Sign](../Page/Sign_\(Mr.Childrenの曲\).md "wikilink")」収録。
 6.  **こんな風にひどく蒸し暑い日** (3:54)
       -
         26thシングル「Sign」収録。
 7.  **ほころび** (3:03)
       -
-        28thシングル「[箒星](https://ja.wikipedia.org/wiki/箒星_\(曲\) "wikilink")」収録。
+        28thシングル「[箒星](../Page/箒星_\(曲\).md "wikilink")」収録。
 8.  **my sweet heart** (3:15)
       -
         28thシングル「箒星」収録。
 9.  **ひびき** (3:17)
       -
-        29thシングル「[しるし](https://ja.wikipedia.org/wiki/しるし_\(Mr.Childrenの曲\) "wikilink")」収録。
+        29thシングル「[しるし](../Page/しるし_\(Mr.Childrenの曲\).md "wikilink")」収録。
 10. **くるみ -for the Film- 幸福な食卓** (5:41)
       -
         29thシングル「しるし」収録。

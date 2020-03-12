@@ -1,15 +1,15 @@
 > この記事は[CRG](https://ja.wikipedia.org/wiki/CRG)から翻訳されています。
 
 
-**株式会社CRG**は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")に所在する[エージェント](../Page/エージェント.md "wikilink")[事務所](../Page/芸能事務所.md "wikilink")。CRGはCreative Guardian（クリエイティブ・ガーディアン）の略\[1\]。
+**株式会社CRG**は、[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")に所在する[エージェント](../Page/エージェント.md "wikilink")[事務所](../Page/芸能事務所.md "wikilink")。CRGはCreative Guardian（クリエイティブ・ガーディアン）の略\[1\]。
 
-漫画家の[ヤマザキマリ](https://ja.wikipedia.org/wiki/ヤマザキマリ "wikilink")、脚本家の[福田靖](https://ja.wikipedia.org/wiki/福田靖 "wikilink")などの代理人として活躍する[弁護士](../Page/弁護士.md "wikilink")の[四宮隆史](https://ja.wikipedia.org/wiki/四宮隆史 "wikilink")が設立した企業で、他に役者も所属する\[2\]。
+漫画家の[ヤマザキマリ](https://ja.wikipedia.org/wiki/ヤマザキマリ "wikilink")、脚本家の[福田靖](../Page/福田靖.md "wikilink")などの代理人として活躍する[弁護士](../Page/弁護士.md "wikilink")の[四宮隆史](https://ja.wikipedia.org/wiki/四宮隆史 "wikilink")が設立した企業で、他に役者も所属する\[2\]。
 
 ## MANAGEMENT
 
 ### CREATORS
 
-  - [福田靖](https://ja.wikipedia.org/wiki/福田靖 "wikilink")（脚本家）
+  - [福田靖](../Page/福田靖.md "wikilink")（脚本家）
   - [ヤマザキマリ](https://ja.wikipedia.org/wiki/ヤマザキマリ "wikilink")（漫画家、随筆家）
   - [長岡成貢](https://ja.wikipedia.org/wiki/長岡成貢 "wikilink")（作曲家、編曲家、音楽プロデューサー）
   - [熊澤尚人](https://ja.wikipedia.org/wiki/熊澤尚人 "wikilink")（監督、脚本家）
@@ -18,7 +18,7 @@
 
 ### ACTORS
 
-  - [矢柴俊博](https://ja.wikipedia.org/wiki/矢柴俊博 "wikilink")
+  - [矢柴俊博](../Page/矢柴俊博.md "wikilink")
   - [安藤聡海](https://ja.wikipedia.org/wiki/安藤聡海 "wikilink")
   - [小池由](https://ja.wikipedia.org/wiki/小池由 "wikilink")
   - [千賀由紀子](https://ja.wikipedia.org/wiki/千賀由紀子 "wikilink")
@@ -34,7 +34,7 @@
   - [金城しおり](https://ja.wikipedia.org/wiki/しおり_\(シンガーソングライター\) "wikilink")（シンガーソングライター）
   - [飯阪翔](https://ja.wikipedia.org/wiki/飯阪翔 "wikilink")
   - [長岩健人](https://ja.wikipedia.org/wiki/長岩健人 "wikilink")
-  - [田中芽衣](https://ja.wikipedia.org/wiki/田中芽衣 "wikilink")（業務提携）
+  - [田中芽衣](../Page/田中芽衣.md "wikilink")（業務提携）
 
 ## かつての所属者
 

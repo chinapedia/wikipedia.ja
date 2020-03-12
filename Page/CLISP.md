@@ -1,7 +1,7 @@
 > この記事は[CLISP](https://ja.wikipedia.org/wiki/CLISP)から翻訳されています。
 
 
-**CLISP**は[Common Lisp実装で](https://ja.wikipedia.org/wiki/Common_Lisp "wikilink")、元々は[アタリの為にBruno](../Page/アタリ_\(企業\).md "wikilink") Haibleとミヒャエル・シュトール (Michael Stoll) が開発した。現在は[GNUプロジェクト](../Page/GNUプロジェクト.md "wikilink")の1つである。CLISPはデバッガや、[ソケットインタフェース](https://ja.wikipedia.org/wiki/ソケット_\(BSD\) "wikilink")、高レベル他言語インタフェース、しっかりとした[国際化サポート](../Page/国際化と地域化.md "wikilink")、オブジェクトシステム（[CLOSと](https://ja.wikipedia.org/wiki/Common_Lisp_Object_System "wikilink")[MOP](https://ja.wikipedia.org/wiki/メタオブジェクトプロトコル "wikilink")）と同様に[インタプリタ](../Page/インタプリタ.md "wikilink")と[バイトコード](../Page/バイトコード.md "wikilink")[コンパイラ](../Page/コンパイラ.md "wikilink")の両方を含んでいる。C言語とCommon Lispで書かれている。
+**CLISP**は[Common Lisp実装で](../Page/Common_Lisp.md "wikilink")、元々は[アタリの為にBruno](../Page/アタリ_\(企業\).md "wikilink") Haibleとミヒャエル・シュトール (Michael Stoll) が開発した。現在は[GNUプロジェクト](../Page/GNUプロジェクト.md "wikilink")の1つである。CLISPはデバッガや、[ソケットインタフェース](../Page/ソケット_\(BSD\).md "wikilink")、高レベル他言語インタフェース、しっかりとした[国際化サポート](../Page/国際化と地域化.md "wikilink")、オブジェクトシステム（[CLOSと](../Page/Common_Lisp_Object_System.md "wikilink")[MOP](https://ja.wikipedia.org/wiki/メタオブジェクトプロトコル "wikilink")）と同様に[インタプリタ](../Page/インタプリタ.md "wikilink")と[バイトコード](../Page/バイトコード.md "wikilink")[コンパイラ](../Page/コンパイラ.md "wikilink")の両方を含んでいる。C言語とCommon Lispで書かれている。
 
 Bruno Haibleは当初はCLISPを[GPL下に置こうとはしなかったが](../Page/GNU_General_Public_License.md "wikilink")、公表されている[リチャード・ストールマン](../Page/リチャード・ストールマン.md "wikilink")と交わしたEメールにあるように、彼は結局そうする事を決めた。問題となる論点はCLISPが[GNU Readline](https://ja.wikipedia.org/wiki/GNU_Readline "wikilink") ライブラリの派生物なのかどうかと言う事だった。
 

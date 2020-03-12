@@ -5,13 +5,13 @@
 
 ## 概要
 
-[2000年](../Page/2000年.md "wikilink")に自身のレーベル「EMPHATIC」を設立。[2001年](../Page/2001年.md "wikilink")[BMG JAPANよりメジャーデビューするが](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")、[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")から再びインディーズで活動。
+[2000年](../Page/2000年.md "wikilink")に自身のレーベル「EMPHATIC」を設立。[2001年](../Page/2001年.md "wikilink")[BMG JAPANよりメジャーデビューするが](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")、[2004年](../Page/2004年.md "wikilink")から再びインディーズで活動。
 
 ## メンバー
 
   - **キヨシ**（越野貴義、[10月20日](../Page/10月20日.md "wikilink") - ）ボーカル・作詞。[島根県](../Page/島根県.md "wikilink")出身
   - **KAORI**（カオリ、[3月29日](../Page/3月29日.md "wikilink") - ）トロンボーン・コーラス。島根県出身
-  - **OTO**（おと、[5月22日](../Page/5月22日.md "wikilink")）サックス・フルート・コーラス。[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")出身
+  - **OTO**（おと、[5月22日](../Page/5月22日.md "wikilink")）サックス・フルート・コーラス。[埼玉県](../Page/埼玉県.md "wikilink")出身
   - **真太郎**（しんたろう、[9月5日](../Page/9月5日.md "wikilink") - ）ドラム。島根県出身
 
 ### 元メンバー
@@ -79,7 +79,7 @@
 <td><ol>
 <li>GO GO CLUB[2:48] 【作詞：越野貴義／作曲：DOMINO88／編曲：DOMINO88 with tinycar】
 <ul>
-<li>BS-2「<a href="https://ja.wikipedia.org/wiki/BEAT_MOTION" title="wikilink">BEAT MOTION</a>」エンディングテーマ</li>
+<li>BS-2「<a href="../Page/BEAT_MOTION.md" title="wikilink">BEAT MOTION</a>」エンディングテーマ</li>
 </ul></li>
 <li>HEART BEAT STYLE[3:01] 【作詞：越野貴義／作曲：越野真広／編曲：DOMINO88 with tinycar】</li>
 <li>GO GO CLUB～readymade super <a href="../Page/小西康陽.md" title="wikilink">524</a> mix～</li>
@@ -139,7 +139,7 @@
 <td><ol>
 <li>ELEVEN[2:26]
 <ul>
-<li><a href="https://ja.wikipedia.org/wiki/Japan_News_Network" title="wikilink">TBS系</a>「<a href="https://ja.wikipedia.org/wiki/JNNスポーツ&amp;ニュース" title="wikilink">JNNスポーツ&amp;ニュース</a>」テーマソング</li>
+<li><a href="https://ja.wikipedia.org/wiki/Japan_News_Network" title="wikilink">TBS系</a>「<a href="../Page/JNNスポーツ&amp;ニュース.md" title="wikilink">JNNスポーツ&amp;ニュース</a>」テーマソング</li>
 </ul></li>
 <li>SPACE ALIEN[3:20]</li>
 <li>Ring!Ring!Ring![3:04]</li>
@@ -178,7 +178,7 @@
 <li>Route 88[2:59]</li>
 </ol></td>
 <td><p>EMPHATIC<br />
-オリコン34位。ジャケットは<a href="https://ja.wikipedia.org/wiki/山田芳裕" title="wikilink">山田芳裕</a></p></td>
+オリコン34位。ジャケットは<a href="../Page/山田芳裕.md" title="wikilink">山田芳裕</a></p></td>
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
@@ -306,8 +306,8 @@
 
 ## 関連項目
 
-  - [SNAIL RAMP](https://ja.wikipedia.org/wiki/SNAIL_RAMP "wikilink")
-  - [Kemuri](https://ja.wikipedia.org/wiki/Kemuri "wikilink")
+  - [SNAIL RAMP](../Page/SNAIL_RAMP.md "wikilink")
+  - [Kemuri](../Page/Kemuri.md "wikilink")
   - [小西康陽](../Page/小西康陽.md "wikilink")
   - [MOZAIKU NIGHT～No.1 Music Factory～](https://ja.wikipedia.org/wiki/MOZAIKU_NIGHT～No.1_Music_Factory～ "wikilink")
 

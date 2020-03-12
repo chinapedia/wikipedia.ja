@@ -5,13 +5,13 @@
 
 タイトルの後のカッコ内はそのコーナーに出演している[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")メンバーと準レギュラー芸能人。オリジナルの設定で行うコントよりは、パロディコントが多い。またパロディコントではしばしば、演じているメンバーには内緒でパロディにした相手が突然現れるサプライズが行われる（[香取が主演のコントでのケースが最も多い](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")）。香取が扮するキャラクターには市川カニ蔵やニワさんなど「[BISTRO SMAP](../Page/BISTRO_SMAP.md "wikilink")」のおいしいリアクションから生まれたキャラクターもある。
 
-※ [中居と](../Page/中居正広.md "wikilink")[木村がコントにそろって出演する作品は少ない](https://ja.wikipedia.org/wiki/木村拓哉 "wikilink")（古畑拓三郎・探偵物語ZEROなど）。 __NOTOC__
+※ [中居と](../Page/中居正広.md "wikilink")[木村がコントにそろって出演する作品は少ない](../Page/木村拓哉.md "wikilink")（古畑拓三郎・探偵物語ZEROなど）。 __NOTOC__
 
 ## あ行
 
-  - 愛点（香取・[草彅](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")・[石田純一](../Page/石田純一.md "wikilink")・[大澄賢也](https://ja.wikipedia.org/wiki/大澄賢也 "wikilink")）
+  - 愛点（香取・[草彅](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")・[石田純一](../Page/石田純一.md "wikilink")・[大澄賢也](../Page/大澄賢也.md "wikilink")）
       -
-        [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[3月5日](../Page/3月5日.md "wikilink")初放送。『[笑点](https://ja.wikipedia.org/wiki/笑点 "wikilink")』のパロディ。司会は香取扮する**円LOVE**（元ネタは[三遊亭圓楽](../Page/三遊亭圓楽_\(5代目\).md "wikilink")）。笑えないけど愛のある大喜利。
+        [2007年](../Page/2007年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")初放送。『[笑点](https://ja.wikipedia.org/wiki/笑点 "wikilink")』のパロディ。司会は香取扮する**円LOVE**（元ネタは[三遊亭圓楽](../Page/三遊亭圓楽_\(5代目\).md "wikilink")）。笑えないけど愛のある大喜利。
 
 <!-- end list -->
 
@@ -23,7 +23,7 @@
 
   - 青山テルマタカシ（[稲垣](../Page/稲垣吾郎.md "wikilink")、香取、[YOU](https://ja.wikipedia.org/wiki/YOU_\(タレント\) "wikilink")）
       -
-        [青山テルマ](https://ja.wikipedia.org/wiki/青山テルマ "wikilink") feat.[SoulJa](https://ja.wikipedia.org/wiki/SoulJa "wikilink")のパロディ。YOUが男性と別れる女性役のコントで、クライマックスから「[そばにいるね](https://ja.wikipedia.org/wiki/そばにいるね_\(青山テルマの曲\) "wikilink")」が流れ始め、カメラが移動するのと共に稲垣が歌い始める。そしてラップの部分を香取が歌うが、途中から歌詞が変になっていく。
+        [青山テルマ](https://ja.wikipedia.org/wiki/青山テルマ "wikilink") feat.[SoulJa](https://ja.wikipedia.org/wiki/SoulJa "wikilink")のパロディ。YOUが男性と別れる女性役のコントで、クライマックスから「[そばにいるね](../Page/そばにいるね_\(青山テルマの曲\).md "wikilink")」が流れ始め、カメラが移動するのと共に稲垣が歌い始める。そしてラップの部分を香取が歌うが、途中から歌詞が変になっていく。
 
 <!-- end list -->
 
@@ -35,26 +35,26 @@
 
   - アセリ山動物園（稲垣・草彅・折居飼育員）
       -
-        [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月18日](../Page/2月18日.md "wikilink")放送。[旭山動物園のパロディ](https://ja.wikipedia.org/wiki/旭川市旭山動物園 "wikilink")。草彅扮する[シロクマのシズオが](https://ja.wikipedia.org/wiki/ホッキョクグマ "wikilink")、食べ物に対する執着だけで無謀な挑戦をする。
+        [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月18日](../Page/2月18日.md "wikilink")放送。[旭山動物園のパロディ](../Page/旭川市旭山動物園.md "wikilink")。草彅扮する[シロクマのシズオが](../Page/ホッキョクグマ.md "wikilink")、食べ物に対する執着だけで無謀な挑戦をする。
 
 <!-- end list -->
 
   - ATARU THEコント（中居・草彅・香取）
       -
         [2013年](../Page/2013年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink")初放送。ドラマ『[ATARU](https://ja.wikipedia.org/wiki/ATARU "wikilink")』のパロディ。香取扮する沢主任と草彅扮する舞子とチョコザイ（演じた中居は本家でも同役を演じている。）が、三つのコードがある爆弾の解除を試みようとする。『ATARU』の映画公開に先立って放送された。
-        本家は[TBS系列の](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")[日曜劇場](https://ja.wikipedia.org/wiki/日曜劇場 "wikilink")で放送されたが、当番組が[月曜日](../Page/月曜日.md "wikilink")放送ということもあって「**月曜劇場**」と表示されている。
+        本家は[TBS系列の](../Page/TBSテレビ.md "wikilink")[日曜劇場](https://ja.wikipedia.org/wiki/日曜劇場 "wikilink")で放送されたが、当番組が[月曜日](../Page/月曜日.md "wikilink")放送ということもあって「**月曜劇場**」と表示されている。
 
 <!-- end list -->
 
   - あっくん（香取）
       -
-        [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[5月8日](../Page/5月8日.md "wikilink")初放送。幼稚園児「あっくん」の起こした何気ない行動が大騒動を巻き起こす。
+        [2006年](../Page/2006年.md "wikilink")[5月8日](../Page/5月8日.md "wikilink")初放送。幼稚園児「あっくん」の起こした何気ない行動が大騒動を巻き起こす。
 
 <!-- end list -->
 
   - アナウンサーガンガン物語（中居・稲垣）
       -
-        [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[5月16日](../Page/5月16日.md "wikilink")初放送。タイトルはドラマ『[アナウンサーぷっつん物語](https://ja.wikipedia.org/wiki/アナウンサーぷっつん物語 "wikilink")』のパロディ。フジテレビアナウンサーが多数登場し、[パイ投げ](https://ja.wikipedia.org/wiki/パイ投げ "wikilink")、粉まみれ等バラエティ番組の王道に挑戦。
+        [2005年](../Page/2005年.md "wikilink")[5月16日](../Page/5月16日.md "wikilink")初放送。タイトルはドラマ『[アナウンサーぷっつん物語](../Page/アナウンサーぷっつん物語.md "wikilink")』のパロディ。フジテレビアナウンサーが多数登場し、[パイ投げ](../Page/パイ投げ.md "wikilink")、粉まみれ等バラエティ番組の王道に挑戦。
 
 <!-- end list -->
 
@@ -66,12 +66,12 @@
 
   - アルカディア（木村）
       -
-        木村が[ハーロック](https://ja.wikipedia.org/wiki/ハーロック "wikilink")に扮して、様々な[声優](../Page/声優.md "wikilink")と交信をするコーナー。「アルカディア2002」、[野沢雅子](https://ja.wikipedia.org/wiki/野沢雅子 "wikilink")の回では[トチロー](https://ja.wikipedia.org/wiki/トチロー "wikilink")に扮した『[宇宙海賊キャプテンハーロック](../Page/宇宙海賊キャプテンハーロック.md "wikilink")』の原作者・[松本零士](../Page/松本零士.md "wikilink")が登場した。
-        2013年、木村が主演のドラマ『[安堂ロイド〜A.I. knows LOVE?〜](https://ja.wikipedia.org/wiki/安堂ロイド〜A.I._knows_LOVE?〜 "wikilink")』にアニメでハーロックの声を担当した[井上真樹夫](https://ja.wikipedia.org/wiki/井上真樹夫 "wikilink")が第8話から最終話に俳優として登場、共演を果たしている。
+        木村が[ハーロック](../Page/ハーロック.md "wikilink")に扮して、様々な[声優](../Page/声優.md "wikilink")と交信をするコーナー。「アルカディア2002」、[野沢雅子](../Page/野沢雅子.md "wikilink")の回では[トチロー](https://ja.wikipedia.org/wiki/トチロー "wikilink")に扮した『[宇宙海賊キャプテンハーロック](../Page/宇宙海賊キャプテンハーロック.md "wikilink")』の原作者・[松本零士](../Page/松本零士.md "wikilink")が登場した。
+        2013年、木村が主演のドラマ『[安堂ロイド〜A.I. knows LOVE?〜](https://ja.wikipedia.org/wiki/安堂ロイド〜A.I._knows_LOVE?〜 "wikilink")』にアニメでハーロックの声を担当した[井上真樹夫](../Page/井上真樹夫.md "wikilink")が第8話から最終話に俳優として登場、共演を果たしている。
 
 <!-- end list -->
 
-  - 美女（イケジョ）ですね（香取・稲垣・[高橋みなみ](https://ja.wikipedia.org/wiki/高橋みなみ "wikilink")・[高城亜樹](https://ja.wikipedia.org/wiki/高城亜樹 "wikilink")・[宮澤佐江](https://ja.wikipedia.org/wiki/宮澤佐江 "wikilink")）
+  - 美女（イケジョ）ですね（香取・稲垣・[高橋みなみ](https://ja.wikipedia.org/wiki/高橋みなみ "wikilink")・[高城亜樹](https://ja.wikipedia.org/wiki/高城亜樹 "wikilink")・[宮澤佐江](../Page/宮澤佐江.md "wikilink")）
       -
         [2011年](../Page/2011年.md "wikilink")[7月18日](../Page/7月18日.md "wikilink")初放送。韓国ドラマ『[美男ですね](https://ja.wikipedia.org/wiki/美男ですね "wikilink")』のパロディ。いなくなった娘の代わりに　陽瞑寺住職の**古見南無**（香取,読みは**こみなむ**で本家の主人公の名前に由来）が、稲田吾郎(稲垣)の半ば強引な要請で、新メンバー"ミナ"としてバンド「A.N.ZELL」に加入する。ちなみに初放送日の「[BISTRO SMAP](../Page/BISTRO_SMAP.md "wikilink")」では、本家のドラマに出演していた[チャン・グンソク](https://ja.wikipedia.org/wiki/チャン・グンソク "wikilink")がゲストとして出演した。
         現在のところ第2話で放送が途切れているが、設定上はデビューまであと2日という場面での中断となる。
@@ -90,7 +90,7 @@
 
   - 市川カニ蔵（香取）
       -
-        [市川海老蔵のパロディ](https://ja.wikipedia.org/wiki/市川海老蔵_\(11代目\) "wikilink")。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月19日](../Page/4月19日.md "wikilink")放送の「[BISTRO SMAP](../Page/BISTRO_SMAP.md "wikilink")」に[小林麻耶](https://ja.wikipedia.org/wiki/小林麻耶 "wikilink")・[麻央姉妹が来店した際の](../Page/小林麻央.md "wikilink")「おいしいリアクション」で生まれたキャラクター。胸元のはだけた白い[ワイシャツ](../Page/ワイシャツ.md "wikilink")に[チノパンが基本の衣装であり](https://ja.wikipedia.org/wiki/チノ・パンツ "wikilink")、これは同年[3月22日](../Page/3月22日.md "wikilink")放送の「BISTRO SMAP」で市川海老蔵が来店した際の服装をモデルにしたもの。そのままコント化され、定期的に放送されている。
+        [市川海老蔵のパロディ](../Page/市川海老蔵_\(11代目\).md "wikilink")。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月19日](../Page/4月19日.md "wikilink")放送の「[BISTRO SMAP](../Page/BISTRO_SMAP.md "wikilink")」に[小林麻耶](https://ja.wikipedia.org/wiki/小林麻耶 "wikilink")・[麻央姉妹が来店した際の](../Page/小林麻央.md "wikilink")「おいしいリアクション」で生まれたキャラクター。胸元のはだけた白い[ワイシャツ](../Page/ワイシャツ.md "wikilink")に[チノパンが基本の衣装であり](../Page/チノ・パンツ.md "wikilink")、これは同年[3月22日](../Page/3月22日.md "wikilink")放送の「BISTRO SMAP」で市川海老蔵が来店した際の服装をモデルにしたもの。そのままコント化され、定期的に放送されている。
 
 <!-- end list -->
 
@@ -102,7 +102,7 @@
 
   - 稲小路ごろまろ（稲垣・中居）
       -
-        2005年[5月9日](https://ja.wikipedia.org/wiki/5月9日 "wikilink")初放送。[綾小路きみまろ](../Page/綾小路きみまろ.md "wikilink")のパロディ。演歌歌手が歌う前のMCをするが、歌い出した後も続ける為に、中居にダメ出しされる。
+        2005年[5月9日](../Page/5月9日.md "wikilink")初放送。[綾小路きみまろ](../Page/綾小路きみまろ.md "wikilink")のパロディ。演歌歌手が歌う前のMCをするが、歌い出した後も続ける為に、中居にダメ出しされる。
 
 <!-- end list -->
 
@@ -112,7 +112,7 @@
 
 <!-- end list -->
 
-  - イントロC-C-B（稲垣・香取・木村・YOU・[伊藤裕子](https://ja.wikipedia.org/wiki/伊藤裕子 "wikilink")）
+  - イントロC-C-B（稲垣・香取・木村・YOU・[伊藤裕子](../Page/伊藤裕子.md "wikilink")）
       -
         前身コーナーは「CCB吾郎」。稲垣が演じるCCB吾郎がイントロのメロディ部分だけを歌い、解答者である木村・YOU・伊藤がそれを答えるが、大抵は正解がでることはない。コーナーの最後にCCB吾郎が歌っている最中に天の声で曲を歌っている本人にダメ出しされ、本人が登場しCCB吾郎と一緒に熱唱する。2012のSMAPのコンサートライブ『GIFT of SMAP』のコントコーナーでは21公演全てを、このキャラクターで回った。
 
@@ -126,7 +126,7 @@
 
   - 裏切り者（全員）
       -
-        [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[5月12日](../Page/5月12日.md "wikilink")初放送。ギャング団に扮した5人が、裏切り者を探す=中に1つだけ激辛（すごく酸っぱいものや、激苦の場合もある）のものが混ざっている食べ物を誰が食べたかなどをお互いに当て合うコーナー。[クエンティン・タランティーノ](../Page/クエンティン・タランティーノ.md "wikilink")監督の映画『[レザボア・ドッグス](https://ja.wikipedia.org/wiki/レザボア・ドッグス "wikilink")』のパロディ。後に激辛を2人分に増やした続編（'00）や、爆笑問題を交えた復活版（'06、ただし当時の公式サイトには「一夜限りの復活」と表記されていた）も放送された。また、[2012年](../Page/2012年.md "wikilink")には「裏切り者2012」として復活した。映画『レザボアドッグス』を勝手にパロディにしてしまった為、タランティーノに怒られるとスタッフは思っていたが、当のタランティーノがゲストに来た際には、「僕の為に作ってくれたセットだ」と思い込んで非常に喜ばれた。
+        [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[5月12日](../Page/5月12日.md "wikilink")初放送。ギャング団に扮した5人が、裏切り者を探す=中に1つだけ激辛（すごく酸っぱいものや、激苦の場合もある）のものが混ざっている食べ物を誰が食べたかなどをお互いに当て合うコーナー。[クエンティン・タランティーノ](../Page/クエンティン・タランティーノ.md "wikilink")監督の映画『[レザボア・ドッグス](../Page/レザボア・ドッグス.md "wikilink")』のパロディ。後に激辛を2人分に増やした続編（'00）や、爆笑問題を交えた復活版（'06、ただし当時の公式サイトには「一夜限りの復活」と表記されていた）も放送された。また、[2012年](../Page/2012年.md "wikilink")には「裏切り者2012」として復活した。映画『レザボアドッグス』を勝手にパロディにしてしまった為、タランティーノに怒られるとスタッフは思っていたが、当のタランティーノがゲストに来た際には、「僕の為に作ってくれたセットだ」と思い込んで非常に喜ばれた。
 
 <!-- end list -->
 
@@ -142,13 +142,13 @@
 
   - エビちゃんOL（稲垣・中居）
       -
-        2006年[5月15日](../Page/5月15日.md "wikilink")初放送。稲垣扮する、[エビちゃんに憧れるOL](https://ja.wikipedia.org/wiki/蛯原友里 "wikilink")「たえこ」が、中居扮する露天商のお婆ちゃんに全く違う人物の格好（[金八先生等](https://ja.wikipedia.org/wiki/3年B組金八先生 "wikilink")）を着させられてしまう。このコントがきっかけでC-C-B吾郎が誕生した。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月12日](../Page/7月12日.md "wikilink")、本編収録後に[蛯原友里](https://ja.wikipedia.org/wiki/蛯原友里 "wikilink")がゲストとして登場。
+        2006年[5月15日](../Page/5月15日.md "wikilink")初放送。稲垣扮する、[エビちゃんに憧れるOL](https://ja.wikipedia.org/wiki/蛯原友里 "wikilink")「たえこ」が、中居扮する露天商のお婆ちゃんに全く違う人物の格好（[金八先生等](https://ja.wikipedia.org/wiki/3年B組金八先生 "wikilink")）を着させられてしまう。このコントがきっかけでC-C-B吾郎が誕生した。[2006年](../Page/2006年.md "wikilink")[7月12日](../Page/7月12日.md "wikilink")、本編収録後に[蛯原友里](https://ja.wikipedia.org/wiki/蛯原友里 "wikilink")がゲストとして登場。
 
 <!-- end list -->
 
   - MCカマー（香取・中居）
       -
-        [MCハマー](https://ja.wikipedia.org/wiki/MCハマー "wikilink")のパロディ。香取扮するMCカマーは、はじめは売れっ子だったがその後自己破産してしまった。借金で歌が出せない状況で日本のヒット曲（「[ミニモニ。じゃんけんぴょん\!](https://ja.wikipedia.org/wiki/ミニモニ。ジャンケンぴょん!/春夏秋冬だいすっき! "wikilink")」・「[箱根八里の半次郎](https://ja.wikipedia.org/wiki/箱根八里の半次郎 "wikilink")」など）をパクって発売したが、それが問題になり裁判沙汰になった。更にその裁判で敗訴してしまい、10億円の借金を背負った。その後偽名でオーディションにもぐりこんでまた例のパクリ曲で審査員をだまして見事合格した。「ミニモニ。じゃんけんぴょん\!」では、当時まだ有名でなかった「[デスティニーズ・チャイルド](https://ja.wikipedia.org/wiki/デスティニーズ・チャイルド "wikilink")」がバックで踊っていた。
+        [MCハマー](https://ja.wikipedia.org/wiki/MCハマー "wikilink")のパロディ。香取扮するMCカマーは、はじめは売れっ子だったがその後自己破産してしまった。借金で歌が出せない状況で日本のヒット曲（「[ミニモニ。じゃんけんぴょん\!](https://ja.wikipedia.org/wiki/ミニモニ。ジャンケンぴょん!/春夏秋冬だいすっき! "wikilink")」・「[箱根八里の半次郎](../Page/箱根八里の半次郎.md "wikilink")」など）をパクって発売したが、それが問題になり裁判沙汰になった。更にその裁判で敗訴してしまい、10億円の借金を背負った。その後偽名でオーディションにもぐりこんでまた例のパクリ曲で審査員をだまして見事合格した。「ミニモニ。じゃんけんぴょん\!」では、当時まだ有名でなかった「[デスティニーズ・チャイルド](../Page/デスティニーズ・チャイルド.md "wikilink")」がバックで踊っていた。
 
 <!-- end list -->
 
@@ -159,7 +159,7 @@
 
 <!-- end list -->
 
-  - OL会話の法則（稲垣・横山めぐみ・[櫻井淳子](https://ja.wikipedia.org/wiki/櫻井淳子 "wikilink")・黒羽夏奈子）
+  - OL会話の法則（稲垣・横山めぐみ・[櫻井淳子](../Page/櫻井淳子.md "wikilink")・黒羽夏奈子）
       -
         OL達の会話を稲垣が解説するが、うまく解説できない。
 
@@ -171,7 +171,7 @@
 
 <!-- end list -->
 
-  - お忍びマイケル（稲垣／草彅・香取・[斎藤洋介](https://ja.wikipedia.org/wiki/斎藤洋介 "wikilink")／中居・木村・[柴田理恵](https://ja.wikipedia.org/wiki/柴田理恵 "wikilink")・[横山めぐみ](https://ja.wikipedia.org/wiki/横山めぐみ "wikilink")）
+  - お忍びマイケル（稲垣／草彅・香取・[斎藤洋介](../Page/斎藤洋介.md "wikilink")／中居・木村・[柴田理恵](https://ja.wikipedia.org/wiki/柴田理恵 "wikilink")・[横山めぐみ](https://ja.wikipedia.org/wiki/横山めぐみ "wikilink")）
       -
         1996年[6月10日](../Page/6月10日.md "wikilink")初放送。稲垣が[マイケル・ジャクソン](https://ja.wikipedia.org/wiki/マイケル・ジャクソン "wikilink")に扮して、飲食店に登場する。因みに2006年[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink")放送で本物のマイケル・ジャクソンが飛び入りで出演した際、稲垣はマイケルの目の前でマイケルの[ものまねを披露した](../Page/物真似.md "wikilink")。これにマイケルは大ウケだった。
 
@@ -179,13 +179,13 @@
 
   - 織田信中（中居・稲垣）
       -
-        [フィギュアスケート](../Page/フィギュアスケート.md "wikilink")選手の[織田信成とコーチである母とのキスアンドクライでの様子のパロディ](https://ja.wikipedia.org/wiki/織田信成_\(フィギュアスケート選手\) "wikilink")。
+        [フィギュアスケート](../Page/フィギュアスケート.md "wikilink")選手の[織田信成とコーチである母とのキスアンドクライでの様子のパロディ](../Page/織田信成_\(フィギュアスケート選手\).md "wikilink")。
 
 <!-- end list -->
 
-  - [音松くん](../Page/音松くん.md "wikilink") リターンズ（全員・[森口博子](../Page/森口博子.md "wikilink")・[森脇健児](https://ja.wikipedia.org/wiki/森脇健児 "wikilink")）
+  - [音松くん](../Page/音松くん.md "wikilink") リターンズ（全員・[森口博子](../Page/森口博子.md "wikilink")・[森脇健児](../Page/森脇健児.md "wikilink")）
       -
-        2006年[5月1日](../Page/5月1日.md "wikilink")放送。SMAPが『[夢がMORI MORI](../Page/夢がMORI_MORI.md "wikilink")』の中で演じていたキャラクター「[音松くん](../Page/音松くん.md "wikilink")」の復活版。「[スマイル戦士 音レンジャー](../Page/スマイル戦士_音レンジャー.md "wikilink")」を歌ったあと、『[夢がMORI MORI](../Page/夢がMORI_MORI.md "wikilink")』の放送当時に行われていた自己紹介を再現し、最後は森口と共にオープニングテーマ「夢がMORI MORI」を披露した。放送された発端は、2006年[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")に放送された春のスペシャル企画「[スーパーキックベース](https://ja.wikipedia.org/wiki/夢がMORI_MORI#スーパーキックベース "wikilink")」（これも『夢がMORI MORI』の復活企画）で、当初チームSMAPが負けた場合にのみ罰ゲームとしてしなければいけなかった。しかし、チームSMAPが勝ってしまったために封印かと思われたが、観客の要望が大きく、また木村が前向きであったため復活が決定した。
+        2006年[5月1日](../Page/5月1日.md "wikilink")放送。SMAPが『[夢がMORI MORI](../Page/夢がMORI_MORI.md "wikilink")』の中で演じていたキャラクター「[音松くん](../Page/音松くん.md "wikilink")」の復活版。「[スマイル戦士 音レンジャー](../Page/スマイル戦士_音レンジャー.md "wikilink")」を歌ったあと、『[夢がMORI MORI](../Page/夢がMORI_MORI.md "wikilink")』の放送当時に行われていた自己紹介を再現し、最後は森口と共にオープニングテーマ「夢がMORI MORI」を披露した。放送された発端は、2006年[4月3日](../Page/4月3日.md "wikilink")に放送された春のスペシャル企画「[スーパーキックベース](https://ja.wikipedia.org/wiki/夢がMORI_MORI#スーパーキックベース "wikilink")」（これも『夢がMORI MORI』の復活企画）で、当初チームSMAPが負けた場合にのみ罰ゲームとしてしなければいけなかった。しかし、チームSMAPが勝ってしまったために封印かと思われたが、観客の要望が大きく、また木村が前向きであったため復活が決定した。
 
 <!-- end list -->
 
@@ -197,19 +197,19 @@
 
   - おにいさんといっしょ（中居・稲垣・伊藤裕子・[MEGUMI](https://ja.wikipedia.org/wiki/MEGUMI "wikilink")）
       -
-        2006年[1月30日](../Page/1月30日.md "wikilink")初放送。『[おかあさんといっしょ](../Page/おかあさんといっしょ.md "wikilink")』のパロディ。中居扮する佐藤うざみちお兄さん（『おかあさんといっしょ』に出演していた頃の[佐藤弘道](https://ja.wikipedia.org/wiki/佐藤弘道 "wikilink")のパロディ）の表情の変化を観察するというもの。稲垣はアシスタント役。またタレントや子役がゲストとして多数出演。「ガリマッチョ体操」なる体操を収録中に子供がNGを出すところからコントが始まる。後ろには「ガリガリマッチョ」なパンダとうさぎのマスコットキャラがいる。
+        2006年[1月30日](../Page/1月30日.md "wikilink")初放送。『[おかあさんといっしょ](../Page/おかあさんといっしょ.md "wikilink")』のパロディ。中居扮する佐藤うざみちお兄さん（『おかあさんといっしょ』に出演していた頃の[佐藤弘道](../Page/佐藤弘道.md "wikilink")のパロディ）の表情の変化を観察するというもの。稲垣はアシスタント役。またタレントや子役がゲストとして多数出演。「ガリマッチョ体操」なる体操を収録中に子供がNGを出すところからコントが始まる。後ろには「ガリガリマッチョ」なパンダとうさぎのマスコットキャラがいる。
 
 <!-- end list -->
 
   - おぬし（中居・草彅・横山めぐみ・斎藤洋介・[西山喜久恵](../Page/西山喜久恵.md "wikilink")・[川端健嗣](../Page/川端健嗣.md "wikilink")）
       -
-        『[しあわせ家族計画](https://ja.wikipedia.org/wiki/しあわせ家族計画 "wikilink")』のパロディ。挑戦者（中居）にその守護霊（草彅）が横から口を出して邪魔をする。
+        『[しあわせ家族計画](../Page/しあわせ家族計画.md "wikilink")』のパロディ。挑戦者（中居）にその守護霊（草彅）が横から口を出して邪魔をする。
 
 ## か行
 
   - 外国人演歌歌手 ジョロ（草彅・香取）
       -
-        草彅扮するジョロ（[ジェロ](https://ja.wikipedia.org/wiki/ジェロ "wikilink")のパロディ）が登場。曲のタイトルは「川雪」。
+        草彅扮するジョロ（[ジェロ](../Page/ジェロ.md "wikilink")のパロディ）が登場。曲のタイトルは「川雪」。
 
 <!-- end list -->
 
@@ -219,7 +219,7 @@
 
 <!-- end list -->
 
-  - 家政婦の三田さん（稲垣・木村・[三田佳子](https://ja.wikipedia.org/wiki/三田佳子 "wikilink")・[竹富聖花](https://ja.wikipedia.org/wiki/竹富聖花 "wikilink")・[鈴木砂羽](https://ja.wikipedia.org/wiki/鈴木砂羽 "wikilink")）
+  - 家政婦の三田さん（稲垣・木村・[三田佳子](../Page/三田佳子.md "wikilink")・[竹富聖花](https://ja.wikipedia.org/wiki/竹富聖花 "wikilink")・[鈴木砂羽](https://ja.wikipedia.org/wiki/鈴木砂羽 "wikilink")）
       -
         ドラマ『[家政婦のミタ](https://ja.wikipedia.org/wiki/家政婦のミタ "wikilink")』のパロディ。家政婦としてやってきた三田さんが指にけがをした、風邪になったなどと理由をつけてサボろうとする。最終回では三田佳子とSMAPのトークコーナーがあった。
 
@@ -233,7 +233,7 @@
 
   - カツケンサンバ→カツケンマハラジャ（香取）
       -
-        [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[9月6日](../Page/9月6日.md "wikilink")初放送。「[マツケンサンバ](https://ja.wikipedia.org/wiki/マツケンサンバ#マツケンサンバII "wikilink")」のパロディ。加藤茶・志村けんを連想させることから、カトケンサンバは誤りである。(カトケンサンバは実際にテレビアニメ 銀魂の挿入歌として使用された。)香取扮するカツケン（[マツケンのパロディ](../Page/松平健.md "wikilink")）がカツケンサンバを踊った後、ものまねや川柳を披露するのが定番の流れ。一度、番外編として教則DVDでの真島茂樹のものまねをしたコントも放送された。このキャラクターで振付師の真島茂樹やチビカツ等と共演、遂には松平とも本人のイベントで共演も果たしたり、24時間テレビの企画でも松平・真島と中継を結んで、三者共演を実現。[マドンナがゲスト出演した際は](https://ja.wikipedia.org/wiki/マドンナ_\(歌手\) "wikilink")、カツケンが披露した犬のものまねが、マドンナにとても気に入られた。また、チョナン・カンが「チョナンケンサンバ」を踊った。後に「マツケンマハラジャ」のパロディ「カツケンマハラジャ」も制作された。
+        [2004年](../Page/2004年.md "wikilink")[9月6日](../Page/9月6日.md "wikilink")初放送。「[マツケンサンバ](https://ja.wikipedia.org/wiki/マツケンサンバ#マツケンサンバII "wikilink")」のパロディ。加藤茶・志村けんを連想させることから、カトケンサンバは誤りである。(カトケンサンバは実際にテレビアニメ 銀魂の挿入歌として使用された。)香取扮するカツケン（[マツケンのパロディ](../Page/松平健.md "wikilink")）がカツケンサンバを踊った後、ものまねや川柳を披露するのが定番の流れ。一度、番外編として教則DVDでの真島茂樹のものまねをしたコントも放送された。このキャラクターで振付師の真島茂樹やチビカツ等と共演、遂には松平とも本人のイベントで共演も果たしたり、24時間テレビの企画でも松平・真島と中継を結んで、三者共演を実現。[マドンナがゲスト出演した際は](https://ja.wikipedia.org/wiki/マドンナ_\(歌手\) "wikilink")、カツケンが披露した犬のものまねが、マドンナにとても気に入られた。また、チョナン・カンが「チョナンケンサンバ」を踊った。後に「マツケンマハラジャ」のパロディ「カツケンマハラジャ」も制作された。
 
 <!-- end list -->
 
@@ -246,7 +246,7 @@
 
   - 香取部長（香取・中居・稲垣・斎藤洋介）
       -
-        [1999年](../Page/1999年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")初放送。香取部長が仕事をしない部下（中居と稲垣）とその部下といつもつるんでいる専務斎藤（後に[勝村政信](https://ja.wikipedia.org/wiki/勝村政信 "wikilink")）にクビを言い渡すまでを描いたコント。飄々としている香取以外のメンバーを、香取が狂気的に突っ込む。香取へのサプライズで[坂本龍一](../Page/坂本龍一.md "wikilink")が清掃員役で出演した事もあった。後に本部長に昇進。
+        [1999年](../Page/1999年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")初放送。香取部長が仕事をしない部下（中居と稲垣）とその部下といつもつるんでいる専務斎藤（後に[勝村政信](../Page/勝村政信.md "wikilink")）にクビを言い渡すまでを描いたコント。飄々としている香取以外のメンバーを、香取が狂気的に突っ込む。香取へのサプライズで[坂本龍一](../Page/坂本龍一.md "wikilink")が清掃員役で出演した事もあった。後に本部長に昇進。
 
 <!-- end list -->
 
@@ -258,7 +258,7 @@
 
   - 仮面レンアイダー（木村・香取）
       -
-        『[仮面ライダー龍騎](../Page/仮面ライダー龍騎.md "wikilink")』のパロディ。城戸真司・仮面ライダー龍騎→沢井・仮面レンアイダー恋騎（れんき、木村）、秋山蓮・仮面ライダーナイト→北村・仮面レンアイダー愛斗（あいと、香取）という風になっている。本家同様アクションシーンはあるものの、その実態は「[昼ドラなどによくある設定でホスト](https://ja.wikipedia.org/wiki/昼ドラマ "wikilink")+[イメクラのような仮想体験を女性客に提供する](../Page/イメージクラブ.md "wikilink")」というもの。劇中で使われているBGMは本家の物が一部使われており、変身の仕方、合成も本家と酷似している。また、レンアイダーたちの待機場所が喫茶店というところは『仮面ライダー龍騎』の「花鶏」が元ネタであることが伺える。そのマスターとして[岡田眞澄](https://ja.wikipedia.org/wiki/岡田眞澄 "wikilink")が出演している。
+        『[仮面ライダー龍騎](../Page/仮面ライダー龍騎.md "wikilink")』のパロディ。城戸真司・仮面ライダー龍騎→沢井・仮面レンアイダー恋騎（れんき、木村）、秋山蓮・仮面ライダーナイト→北村・仮面レンアイダー愛斗（あいと、香取）という風になっている。本家同様アクションシーンはあるものの、その実態は「[昼ドラなどによくある設定でホスト](https://ja.wikipedia.org/wiki/昼ドラマ "wikilink")+[イメクラのような仮想体験を女性客に提供する](../Page/イメージクラブ.md "wikilink")」というもの。劇中で使われているBGMは本家の物が一部使われており、変身の仕方、合成も本家と酷似している。また、レンアイダーたちの待機場所が喫茶店というところは『仮面ライダー龍騎』の「花鶏」が元ネタであることが伺える。そのマスターとして[岡田眞澄](../Page/岡田眞澄.md "wikilink")が出演している。
 
 <!-- end list -->
 
@@ -282,13 +282,13 @@
 
   - カンディ・フグ（香取・草彅）
       -
-        1998年[2月16日](../Page/2月16日.md "wikilink")初放送。[アンディ・フグ](https://ja.wikipedia.org/wiki/アンディ・フグ "wikilink")のパロディ。香取が[ゲイ](https://ja.wikipedia.org/wiki/ゲイ "wikilink")のボクサー「カンディ・フグ」に扮する。余談ではあるが、香取は1996年に「[Aptiva](https://ja.wikipedia.org/wiki/Aptiva "wikilink")」（[日本IBM](../Page/日本アイ・ビー・エム.md "wikilink")）のCMでアンディ本人と共演している。
+        1998年[2月16日](../Page/2月16日.md "wikilink")初放送。[アンディ・フグ](https://ja.wikipedia.org/wiki/アンディ・フグ "wikilink")のパロディ。香取が[ゲイ](../Page/ゲイ.md "wikilink")のボクサー「カンディ・フグ」に扮する。余談ではあるが、香取は1996年に「[Aptiva](../Page/Aptiva.md "wikilink")」（[日本IBM](../Page/日本アイ・ビー・エム.md "wikilink")）のCMでアンディ本人と共演している。
 
 <!-- end list -->
 
   - がんばれ世良さん（木村・草彅・香取）
       -
-        1996年[12月2日](../Page/12月2日.md "wikilink")初放送。[世良公則](https://ja.wikipedia.org/wiki/世良公則 "wikilink")のパロディ。世良さん（木村）が歌おうとするとAD（草彅）のミスでハプニングが起きる。世良さんは機嫌を悪くしてしまい、そのたびにディレクター（香取）がおやつのメニューなどを伝えて機嫌をとる。
+        1996年[12月2日](../Page/12月2日.md "wikilink")初放送。[世良公則](../Page/世良公則.md "wikilink")のパロディ。世良さん（木村）が歌おうとするとAD（草彅）のミスでハプニングが起きる。世良さんは機嫌を悪くしてしまい、そのたびにディレクター（香取）がおやつのメニューなどを伝えて機嫌をとる。
 
 <!-- end list -->
 
@@ -300,13 +300,13 @@
 
   - 木村家の人々（木村・[木村佳乃](https://ja.wikipedia.org/wiki/木村佳乃 "wikilink")・[木村祐一](../Page/木村祐一.md "wikilink")・[木村茜](../Page/木村茜_\(1996年生\).md "wikilink")）
       -
-        『[伊東家の食卓](https://ja.wikipedia.org/wiki/伊東家の食卓 "wikilink")』とホームコメディのパロディ。バーで「デートで使える裏ワザ」や「異性を口説く裏ワザ」等の恋愛裏ワザを実践するが、失敗してしまう。
+        『[伊東家の食卓](../Page/伊東家の食卓.md "wikilink")』とホームコメディのパロディ。バーで「デートで使える裏ワザ」や「異性を口説く裏ワザ」等の恋愛裏ワザを実践するが、失敗してしまう。
 
 <!-- end list -->
 
-  - ギャグ曽根（稲垣・[中村有志](https://ja.wikipedia.org/wiki/中村有志 "wikilink")〔[ギャル曽根](https://ja.wikipedia.org/wiki/ギャル曽根 "wikilink")本人の名付け親〕）
+  - ギャグ曽根（稲垣・[中村有志](../Page/中村有志.md "wikilink")〔[ギャル曽根](../Page/ギャル曽根.md "wikilink")本人の名付け親〕）
       -
-        [ギャル曽根](https://ja.wikipedia.org/wiki/ギャル曽根 "wikilink")のパロディー。食べ物を使い、一発ギャグを披露する。
+        [ギャル曽根](../Page/ギャル曽根.md "wikilink")のパロディー。食べ物を使い、一発ギャグを披露する。
 
 <!-- end list -->
 
@@ -318,25 +318,25 @@
 
   - 救命病棟22時（草彅・香取）
       -
-        2013年[7月22日](../Page/7月22日.md "wikilink")放送。ドラマ『[救命病棟24時](https://ja.wikipedia.org/wiki/救命病棟24時 "wikilink")』のパロディ。草彅扮する医師とオネエキャラの医師イサミちゃん（香取）\[1\]が登場する。
+        2013年[7月22日](../Page/7月22日.md "wikilink")放送。ドラマ『[救命病棟24時](../Page/救命病棟24時.md "wikilink")』のパロディ。草彅扮する医師とオネエキャラの医師イサミちゃん（香取）\[1\]が登場する。
 
 <!-- end list -->
 
-  - きょうの猫垣さん（稲垣・香取・柴田理恵・[武井証](https://ja.wikipedia.org/wiki/武井証 "wikilink")）
+  - きょうの猫垣さん（稲垣・香取・柴田理恵・[武井証](../Page/武井証.md "wikilink")）
       -
-        2006年[9月18日](../Page/9月18日.md "wikilink")初放送。漫画『[きょうの猫村さん](https://ja.wikipedia.org/wiki/きょうの猫村さん "wikilink")』のパロディ。香取やその他の共演者が猫に関することわざや迷信（猫に小判・猫まんまetc.）を言うと「それってネコに対する冒涜ですよ」と稲垣扮する猫垣さんと柴田理恵などの猫が大勢で詰め寄ってくる。
+        2006年[9月18日](../Page/9月18日.md "wikilink")初放送。漫画『[きょうの猫村さん](../Page/きょうの猫村さん.md "wikilink")』のパロディ。香取やその他の共演者が猫に関することわざや迷信（猫に小判・猫まんまetc.）を言うと「それってネコに対する冒涜ですよ」と稲垣扮する猫垣さんと柴田理恵などの猫が大勢で詰め寄ってくる。
 
 <!-- end list -->
 
   - 局長\!（香取・草彅）
       -
-        NHK大河ドラマ『[新選組\!](../Page/新選組!.md "wikilink")』のパロディ。香取が[近藤勇](https://ja.wikipedia.org/wiki/近藤勇 "wikilink")として出演していた『新選組\!』が最終回を迎えた翌日の、[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")に放送された。年末のコンビニを舞台にコンビニ店員（草彅）が「御用改め」（と称した冷やかし）にやってきた近藤勇（香取）に振り回されるという内容。『新選組\!』の脚本を書いた三谷幸喜が、このコントの脚本も書いている。また音楽には『新選組\!』のBGMが使用されている。
+        NHK大河ドラマ『[新選組\!](../Page/新選組!.md "wikilink")』のパロディ。香取が[近藤勇](../Page/近藤勇.md "wikilink")として出演していた『新選組\!』が最終回を迎えた翌日の、[2004年](../Page/2004年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")に放送された。年末のコンビニを舞台にコンビニ店員（草彅）が「御用改め」（と称した冷やかし）にやってきた近藤勇（香取）に振り回されるという内容。『新選組\!』の脚本を書いた三谷幸喜が、このコントの脚本も書いている。また音楽には『新選組\!』のBGMが使用されている。
 
 <!-- end list -->
 
   - クイズご長寿早押しバンザイ（香取・稲垣・中居）
       -
-        『[さんまのSUPERからくりTV](https://ja.wikipedia.org/wiki/さんまのSUPERからくりTV "wikilink")』内のコーナー『[ご長寿早押しクイズ](https://ja.wikipedia.org/wiki/さんまのSUPERからくりTV#からくりチャンス "wikilink")』のパロディ。香取が司会の[鈴木二郎](https://ja.wikipedia.org/wiki/鈴木史郎 "wikilink")、稲垣・中居が解答者の稲葉トメと中山ミヨコに扮する。本家でご長寿らが珍解答や珍言動、珍行動をする、司会の鈴木が淡々と進行する部分がそのままパロディ化されている。正解者に「カットされるよ」と茶々を入れる中山に対し、鈴木が「あなたがカットです」と言いスタッフによって退場させられるオチ。
+        『[さんまのSUPERからくりTV](../Page/さんまのSUPERからくりTV.md "wikilink")』内のコーナー『[ご長寿早押しクイズ](https://ja.wikipedia.org/wiki/さんまのSUPERからくりTV#からくりチャンス "wikilink")』のパロディ。香取が司会の[鈴木二郎](https://ja.wikipedia.org/wiki/鈴木史郎 "wikilink")、稲垣・中居が解答者の稲葉トメと中山ミヨコに扮する。本家でご長寿らが珍解答や珍言動、珍行動をする、司会の鈴木が淡々と進行する部分がそのままパロディ化されている。正解者に「カットされるよ」と茶々を入れる中山に対し、鈴木が「あなたがカットです」と言いスタッフによって退場させられるオチ。
 
 <!-- end list -->
 
@@ -346,16 +346,16 @@
 
 <!-- end list -->
 
-  - くいのり（草彅・稲垣・木村・[畑正憲](../Page/畑正憲.md "wikilink")・[若槻千夏](https://ja.wikipedia.org/wiki/若槻千夏 "wikilink")・[杉田かおる](../Page/杉田かおる.md "wikilink")・[勝村政信](https://ja.wikipedia.org/wiki/勝村政信 "wikilink")・[大林素子](https://ja.wikipedia.org/wiki/大林素子 "wikilink")・[HIRO](https://ja.wikipedia.org/wiki/HIRO_\(お笑い芸人\) "wikilink")（[安田大サーカス](../Page/安田大サーカス.md "wikilink")））
+  - くいのり（草彅・稲垣・木村・[畑正憲](../Page/畑正憲.md "wikilink")・[若槻千夏](https://ja.wikipedia.org/wiki/若槻千夏 "wikilink")・[杉田かおる](../Page/杉田かおる.md "wikilink")・[勝村政信](../Page/勝村政信.md "wikilink")・[大林素子](https://ja.wikipedia.org/wiki/大林素子 "wikilink")・[HIRO](../Page/HIRO_\(お笑い芸人\).md "wikilink")（[安田大サーカス](../Page/安田大サーカス.md "wikilink")））
       -
-        フジテレビで同じ曜日の夜11時（スマスマの後）に放送していた『[あいのり](https://ja.wikipedia.org/wiki/あいのり "wikilink")』のパロディー。『くいのり』は、草彅が司会を務め、稲垣扮する[久本ごろ美と動物大好きおじさん](../Page/久本雅美.md "wikilink")「ムツゴロウさん」こと畑正憲（本人）をコメンテーターに迎えて放送されている、超人気「動物恋愛観察バラエティ番組」という設定。見ず知らずの雌雄がワゴン車「ラビングワゴン」で外国を旅し、その間に芽生える野生の恋の物語を観察するのが目的である。肉食動物がライバルの草食動物を食べる等、実際の動物の習性にちなんだオチの後、そのVTRを見ていたスタジオで、それに被せて畑の薀蓄や体験談が披露される。
-        [ナレーション](https://ja.wikipedia.org/wiki/ナレーション "wikilink")を本家『あいのり』と同じ[真地勇志](https://ja.wikipedia.org/wiki/真地勇志 "wikilink")としたり、初期はジャンクション部分（スマスマ終了直後に流れる「この後は、あいのり」の部分）までパロディをしたりと、凝った作りである。
+        フジテレビで同じ曜日の夜11時（スマスマの後）に放送していた『[あいのり](../Page/あいのり.md "wikilink")』のパロディー。『くいのり』は、草彅が司会を務め、稲垣扮する[久本ごろ美と動物大好きおじさん](../Page/久本雅美.md "wikilink")「ムツゴロウさん」こと畑正憲（本人）をコメンテーターに迎えて放送されている、超人気「動物恋愛観察バラエティ番組」という設定。見ず知らずの雌雄がワゴン車「ラビングワゴン」で外国を旅し、その間に芽生える野生の恋の物語を観察するのが目的である。肉食動物がライバルの草食動物を食べる等、実際の動物の習性にちなんだオチの後、そのVTRを見ていたスタジオで、それに被せて畑の薀蓄や体験談が披露される。
+        [ナレーション](https://ja.wikipedia.org/wiki/ナレーション "wikilink")を本家『あいのり』と同じ[真地勇志](../Page/真地勇志.md "wikilink")としたり、初期はジャンクション部分（スマスマ終了直後に流れる「この後は、あいのり」の部分）までパロディをしたりと、凝った作りである。
 
 <!-- end list -->
 
   - クサナギーニョ（草彅・稲垣）
       -
-        2006年[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")初放送。[ロナウジーニョ](../Page/ロナウジーニョ.md "wikilink")のパロディ。初めのコントの後、ゲストと「メモドリ」（敵に見立てた人形の裏に書かれた言葉を暗記しながらドリブルする）で対決する。2006年[6月19日](../Page/6月19日.md "wikilink")に若干リニューアルして、「[ジーゴロ](../Page/ジーコ.md "wikilink")」（稲垣）というキャラクターも登場。ドラマ『[アテンションプリーズ](https://ja.wikipedia.org/wiki/アテンションプリーズ "wikilink")』の宣伝を兼ねて出演した[相武紗季](https://ja.wikipedia.org/wiki/相武紗季 "wikilink")と「イメドリ」（敵に見立てた人形の裏に書かれた言葉から連想される言葉を考えながらドリブルする）で対決。この回で初めて、クサナギーニョが敗北（しかしこのとき相武が同じチームであるにもかかわらず、「やっぱり**ジーゴロ**は頭も運動神経も足りない\!\!」と言ってしまう）。
+        2006年[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")初放送。[ロナウジーニョ](../Page/ロナウジーニョ.md "wikilink")のパロディ。初めのコントの後、ゲストと「メモドリ」（敵に見立てた人形の裏に書かれた言葉を暗記しながらドリブルする）で対決する。2006年[6月19日](../Page/6月19日.md "wikilink")に若干リニューアルして、「[ジーゴロ](../Page/ジーコ.md "wikilink")」（稲垣）というキャラクターも登場。ドラマ『[アテンションプリーズ](../Page/アテンションプリーズ.md "wikilink")』の宣伝を兼ねて出演した[相武紗季](https://ja.wikipedia.org/wiki/相武紗季 "wikilink")と「イメドリ」（敵に見立てた人形の裏に書かれた言葉から連想される言葉を考えながらドリブルする）で対決。この回で初めて、クサナギーニョが敗北（しかしこのとき相武が同じチームであるにもかかわらず、「やっぱり**ジーゴロ**は頭も運動神経も足りない\!\!」と言ってしまう）。
 
 <!-- end list -->
 
@@ -367,11 +367,11 @@
 
   - 草ヤギ剛（草彅）
       -
-        2004年[5月3日](https://ja.wikipedia.org/wiki/5月3日 "wikilink")放送「SMAP×SMAP 6th LOVE AWARD」内での特別企画「こんな映像あったのに」で、コント「フィッティングルーム」の未放送分が放送され、初登場。身体が人間で顔がヤギの男の生き様を描く。3時間掛かる特殊メイクによるヤギの顔は非常にリアル。
+        2004年[5月3日](../Page/5月3日.md "wikilink")放送「SMAP×SMAP 6th LOVE AWARD」内での特別企画「こんな映像あったのに」で、コント「フィッティングルーム」の未放送分が放送され、初登場。身体が人間で顔がヤギの男の生き様を描く。3時間掛かる特殊メイクによるヤギの顔は非常にリアル。
 
 <!-- end list -->
 
-  - グラッスィーズ（草彅・稲垣・木村／[安達祐実](https://ja.wikipedia.org/wiki/安達祐実 "wikilink")）
+  - グラッスィーズ（草彅・稲垣・木村／[安達祐実](../Page/安達祐実.md "wikilink")）
       -
         1996年[8月26日](../Page/8月26日.md "wikilink")初放送。草たちによるトーク。安達はひまわり役としてゲスト出演した。タイトルはグラッシーズと表記されたこともある。
 
@@ -385,7 +385,7 @@
 
   - ゲゲゲのAD（香取）
       -
-        目玉のおやじに扮する香取がADに挑戦する。コーナー化するきっかけとなったのは、「[BISTRO SMAP](../Page/BISTRO_SMAP.md "wikilink")」で[向井理](https://ja.wikipedia.org/wiki/向井理 "wikilink")（2010年[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")放送分）、[松下奈緒](https://ja.wikipedia.org/wiki/松下奈緒 "wikilink")（同年12月13日）がゲストに来た際のおいしいリアクションで香取が目玉のおやじに扮して大爆笑が舞い込んだからである。
+        目玉のおやじに扮する香取がADに挑戦する。コーナー化するきっかけとなったのは、「[BISTRO SMAP](../Page/BISTRO_SMAP.md "wikilink")」で[向井理](../Page/向井理.md "wikilink")（2010年[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")放送分）、[松下奈緒](https://ja.wikipedia.org/wiki/松下奈緒 "wikilink")（同年12月13日）がゲストに来た際のおいしいリアクションで香取が目玉のおやじに扮して大爆笑が舞い込んだからである。
 
 <!-- end list -->
 
@@ -397,13 +397,13 @@
 
   - 五郎丸ゴロー（稲垣）
       -
-        2015年[11月30日](../Page/11月30日.md "wikilink")放送。[ラグビー日本代表](https://ja.wikipedia.org/wiki/ラグビー日本代表 "wikilink")・[五郎丸歩](https://ja.wikipedia.org/wiki/五郎丸歩 "wikilink")選手のパロディ。ラグビー選手の五郎丸ゴロー（稲垣）がカフェでの取材中、窓枠をゴールポストに見立ててゴールキックをする。
+        2015年[11月30日](../Page/11月30日.md "wikilink")放送。[ラグビー日本代表](../Page/ラグビー日本代表.md "wikilink")・[五郎丸歩](../Page/五郎丸歩.md "wikilink")選手のパロディ。ラグビー選手の五郎丸ゴロー（稲垣）がカフェでの取材中、窓枠をゴールポストに見立ててゴールキックをする。
 
 <!-- end list -->
 
   - ゴロクミの部屋（稲垣・横山めぐみ・伊藤裕子）
       -
-        1998年[6月8日](../Page/6月8日.md "wikilink")初放送。稲垣が特殊メイクで超太った女の子「ゴロクミ」を演じる。ゴロクミの姉役として、木村と結婚する前の[工藤静香](https://ja.wikipedia.org/wiki/工藤静香 "wikilink")が、妹役として[菅野美穂](https://ja.wikipedia.org/wiki/菅野美穂 "wikilink")が出演。また、様々なデブタレント（[伊集院光](../Page/伊集院光.md "wikilink")や[内山信二](../Page/内山信二.md "wikilink")ら）を集めて[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の「[イエローマン 〜星の王子様〜](https://ja.wikipedia.org/wiki/イエローマン_〜星の王子様〜 "wikilink")」のPVをパロディした事もある。
+        1998年[6月8日](../Page/6月8日.md "wikilink")初放送。稲垣が特殊メイクで超太った女の子「ゴロクミ」を演じる。ゴロクミの姉役として、木村と結婚する前の[工藤静香](../Page/工藤静香.md "wikilink")が、妹役として[菅野美穂](https://ja.wikipedia.org/wiki/菅野美穂 "wikilink")が出演。また、様々なデブタレント（[伊集院光](../Page/伊集院光.md "wikilink")や[内山信二](../Page/内山信二.md "wikilink")ら）を集めて[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の「[イエローマン 〜星の王子様〜](../Page/イエローマン_〜星の王子様〜.md "wikilink")」のPVをパロディした事もある。
         また、香取が主演していたドラマ『[人にやさしく](../Page/人にやさしく_\(テレビドラマ\).md "wikilink")』の隠れキャラとして登場した。
         のちに派生として、[舟山久美子](https://ja.wikipedia.org/wiki/舟山久美子 "wikilink")のパロディ「ごろくみっきー」や[きゃりーぱみゅぱみゅ](https://ja.wikipedia.org/wiki/きゃりーぱみゅぱみゅ "wikilink")のパロディ「ごりーぱみゅぱみゅ」も登場した（本家との共演も果たしている）。
         2012年[12月31日](../Page/12月31日.md "wikilink")の『[第63回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第63回NHK紅白歌合戦 "wikilink")』にて、きゃりーの応援ゲストとしてごりーぱみゅぱみゅが登場した。
@@ -428,9 +428,9 @@
 
 <!-- end list -->
 
-  - ごろマップ（稲垣・[山崎弘也](https://ja.wikipedia.org/wiki/山崎弘也 "wikilink")・[伊吹吾郎](https://ja.wikipedia.org/wiki/伊吹吾郎 "wikilink")・[稲垣潤一](https://ja.wikipedia.org/wiki/稲垣潤一 "wikilink")）
+  - ごろマップ（稲垣・[山崎弘也](../Page/山崎弘也.md "wikilink")・[伊吹吾郎](../Page/伊吹吾郎.md "wikilink")・[稲垣潤一](../Page/稲垣潤一.md "wikilink")）
       -
-        『[おじゃマップ](https://ja.wikipedia.org/wiki/おじゃMAP!! "wikilink")』にあこがれた稲垣がパートナーを見つけるオーディションをする。パートナーを[ザキヤマが提案する](https://ja.wikipedia.org/wiki/山崎弘也 "wikilink")。
+        『[おじゃマップ](https://ja.wikipedia.org/wiki/おじゃMAP!! "wikilink")』にあこがれた稲垣がパートナーを見つけるオーディションをする。パートナーを[ザキヤマが提案する](../Page/山崎弘也.md "wikilink")。
 
 <!-- end list -->
 
@@ -442,19 +442,19 @@
 
   - 今昔くん（草彅・中居・香取）
       -
-        1996年[9月23日](../Page/9月23日.md "wikilink")初放送。草彅が、放送当時『SMAP×SMAP』の収録スタジオだった[TMC内のレストラン](https://ja.wikipedia.org/wiki/東京メディアシティ "wikilink")「[今昔庵](https://ja.wikipedia.org/wiki/今昔庵 "wikilink")」のマスターに扮するコント。
+        1996年[9月23日](../Page/9月23日.md "wikilink")初放送。草彅が、放送当時『SMAP×SMAP』の収録スタジオだった[TMC内のレストラン](../Page/東京メディアシティ.md "wikilink")「[今昔庵](https://ja.wikipedia.org/wiki/今昔庵 "wikilink")」のマスターに扮するコント。
 
 ## さ行
 
   - 最強の白取さん（香取・稲垣（最初に投稿箱に入れる人役））
       -
-        2005年[11月21日](../Page/11月21日.md "wikilink")初放送。[生協の白石さんのパロディ](https://ja.wikipedia.org/wiki/白石昌則 "wikilink")。白取さん（香取）が投稿箱の中から「一言カード」を一つ選び、そこに書いてある事に挑戦するが必ずと言っていいほど、不運な結果\[2\]に終わる。「辛いものと甘いものを混ぜるとどんな味がするのか」で「キムチにブルーベリージャムをかけるとどうなるか」をし、「お勧め」と返事した。なお、本家の白石さんは男性であるが、香取演じる白取さんは**女性**である。
+        2005年[11月21日](../Page/11月21日.md "wikilink")初放送。[生協の白石さんのパロディ](../Page/白石昌則.md "wikilink")。白取さん（香取）が投稿箱の中から「一言カード」を一つ選び、そこに書いてある事に挑戦するが必ずと言っていいほど、不運な結果\[2\]に終わる。「辛いものと甘いものを混ぜるとどんな味がするのか」で「キムチにブルーベリージャムをかけるとどうなるか」をし、「お勧め」と返事した。なお、本家の白石さんは男性であるが、香取演じる白取さんは**女性**である。
 
 <!-- end list -->
 
   - 沙粧慎子-最初の事件-
       -
-        1997年5月12日初放送。ドラマ『[沙粧妙子-最後の事件-](https://ja.wikipedia.org/wiki/沙粧妙子-最後の事件- "wikilink")』のパロディ。
+        1997年5月12日初放送。ドラマ『[沙粧妙子-最後の事件-](../Page/沙粧妙子-最後の事件-.md "wikilink")』のパロディ。
 
 <!-- end list -->
 
@@ -464,7 +464,7 @@
 
   - ザ・つっち（草彅）
       -
-        2006年[6月26日](../Page/6月26日.md "wikilink")・2006年[8月7日](../Page/8月7日.md "wikilink")放送。『[ラジかるッ](https://ja.wikipedia.org/wiki/ラジかるッ "wikilink")』における[ザ・たっち](https://ja.wikipedia.org/wiki/ザ・たっち "wikilink")のパロディ。
+        2006年[6月26日](../Page/6月26日.md "wikilink")・2006年[8月7日](../Page/8月7日.md "wikilink")放送。『[ラジかるッ](../Page/ラジかるッ.md "wikilink")』における[ザ・たっち](../Page/ザ・たっち.md "wikilink")のパロディ。
 
 <!-- end list -->
 
@@ -483,20 +483,20 @@
 
   - サンキューゴロー→ジゴロー（稲垣・中居・草彅・横山めぐみ）
       -
-        1997年[5月5日](../Page/5月5日.md "wikilink")初放送。横山（木村の回もあった）がピンチに陥っているときに、どこからともなくゴロー（稲垣）が登場し、横山とその場の状況とはまったく関係ない軽いやり取りをした後、クールに「サンキュー」とだけ言ってすぐに消える。前身のコーナーは稲垣主演のドラマ『[彼](https://ja.wikipedia.org/wiki/彼_\(テレビドラマ\) "wikilink")』のパロディ「スマスマな彼」。
+        1997年[5月5日](../Page/5月5日.md "wikilink")初放送。横山（木村の回もあった）がピンチに陥っているときに、どこからともなくゴロー（稲垣）が登場し、横山とその場の状況とはまったく関係ない軽いやり取りをした後、クールに「サンキュー」とだけ言ってすぐに消える。前身のコーナーは稲垣主演のドラマ『[彼](../Page/彼_\(テレビドラマ\).md "wikilink")』のパロディ「スマスマな彼」。
 
 <!-- end list -->
 
   - CCB吾郎（稲垣）
       -
-        [C-C-B](https://ja.wikipedia.org/wiki/C-C-B "wikilink")・[笠浩二](https://ja.wikipedia.org/wiki/笠浩二 "wikilink")のパロディ。視聴者からのお便りを読んだあと、「[Romanticが止まらない](https://ja.wikipedia.org/wiki/Romanticが止まらない "wikilink")」をアカペラで（伴奏も）歌う。コント「エビちゃんOL」で稲垣がC-C-Bの笠浩二の格好をさせられた際に好評だったため、CCB吾郎としてキャラクター化することとなった。2007年には本物の笠らとも対面している。
+        [C-C-B](../Page/C-C-B.md "wikilink")・[笠浩二](../Page/笠浩二.md "wikilink")のパロディ。視聴者からのお便りを読んだあと、「[Romanticが止まらない](https://ja.wikipedia.org/wiki/Romanticが止まらない "wikilink")」をアカペラで（伴奏も）歌う。コント「エビちゃんOL」で稲垣がC-C-Bの笠浩二の格好をさせられた際に好評だったため、CCB吾郎としてキャラクター化することとなった。2007年には本物の笠らとも対面している。
         ライブ『[GIFT of SMAP CONCERT'2012](https://ja.wikipedia.org/wiki/GIFT_of_SMAP_CONCERT'2012 "wikilink")』・『[Mr.S "saikou de saikou no CONCERT TOUR"](https://ja.wikipedia.org/wiki/Mr.S_"saikou_de_saikou_no_CONCERT_TOUR" "wikilink")』 には稲垣がこのキャラで登場するシーンがあり、DVDには『Romanticが止まらない』の著作権表記がされている。
 
 <!-- end list -->
 
   - Gショック（稲垣）
       -
-        1997年[12月29日](https://ja.wikipedia.org/wiki/12月29日 "wikilink")初放送。稲垣が女性ゲストを口説こうとするが、女性ゲストの一言にショックを受け、[Gショック](https://ja.wikipedia.org/wiki/Gショック "wikilink")を模した[CGの中でシマウマの大群に踏まれたりロケット花火にくくりつけられて打ち上げられたりと様々な仕打ちに遭う](../Page/コンピュータグラフィックス.md "wikilink")。
+        1997年[12月29日](../Page/12月29日.md "wikilink")初放送。稲垣が女性ゲストを口説こうとするが、女性ゲストの一言にショックを受け、[Gショック](https://ja.wikipedia.org/wiki/Gショック "wikilink")を模した[CGの中でシマウマの大群に踏まれたりロケット花火にくくりつけられて打ち上げられたりと様々な仕打ちに遭う](../Page/コンピュータグラフィックス.md "wikilink")。
 
 <!-- end list -->
 
@@ -514,11 +514,11 @@
 
   - 自転車男（草彅）
       -
-        ドラマ『[電車男](https://ja.wikipedia.org/wiki/電車男 "wikilink")』のパロディ。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に二回放送された。ネットの掲示板で自転車男（草彅）が恋の相談をすると「体当たりで行け\!」とレスがつく。草彅はその女性に本当に自転車ごと体当たりし、失敗するが、書き込みは成功したようになっている。
+        ドラマ『[電車男](../Page/電車男.md "wikilink")』のパロディ。[2005年](../Page/2005年.md "wikilink")に二回放送された。ネットの掲示板で自転車男（草彅）が恋の相談をすると「体当たりで行け\!」とレスがつく。草彅はその女性に本当に自転車ごと体当たりし、失敗するが、書き込みは成功したようになっている。
 
 <!-- end list -->
 
-  - SHINOHARA TV（草彅・[篠原信一](https://ja.wikipedia.org/wiki/篠原信一 "wikilink")）
+  - SHINOHARA TV（草彅・[篠原信一](../Page/篠原信一.md "wikilink")）
       -
         2015年[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")初放送。篠原信一と弟の篠原信二（草彅）が「〇〇をやってみた」などといった、[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")風の短編動画を撮る。
 
@@ -532,19 +532,19 @@
 
   - 子門くん（香取・中居／横山めぐみ）
       -
-        1996年[5月20日](../Page/5月20日.md "wikilink")初放送。[子門真人](https://ja.wikipedia.org/wiki/子門真人 "wikilink")のパロディ。
+        1996年[5月20日](../Page/5月20日.md "wikilink")初放送。[子門真人](../Page/子門真人.md "wikilink")のパロディ。
 
 <!-- end list -->
 
-  - 10時のホント?\!（中居・草彅・[境鶴丸](../Page/境鶴丸.md "wikilink")・[菊間千乃](https://ja.wikipedia.org/wiki/菊間千乃 "wikilink")／[平井理央](../Page/平井理央.md "wikilink")）
+  - 10時のホント?\!（中居・草彅・[境鶴丸](../Page/境鶴丸.md "wikilink")・[菊間千乃](../Page/菊間千乃.md "wikilink")／[平井理央](../Page/平井理央.md "wikilink")）
       -
-        1999年[10月25日](../Page/10月25日.md "wikilink")初放送。『[2時のホント](../Page/2時のホント.md "wikilink")』のパロディ。本家の『2時のホント』の司会者だったフジテレビ[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")の[境鶴丸](../Page/境鶴丸.md "wikilink")と[菊間千乃](https://ja.wikipedia.org/wiki/菊間千乃 "wikilink")が司会役で登場し、[ピーコ](../Page/ピーコ.md "wikilink")のパロディのヒーコ（中居）が「ヒーコのファッションチェック」を行う。2006年[7月31日](../Page/7月31日.md "wikilink")放送からは菊間は自身の諸事情で降板し、平井に代わった。コーナーのアシスタントは草彅。本家にそっくりなセットになっている。後、ヒーコに内緒で、本物のピーコ、[おすぎ](../Page/おすぎ.md "wikilink")、おすきとして[関根勤](../Page/関根勤.md "wikilink")も登場した。[BGMは本家と同じ物を使用している](https://ja.wikipedia.org/wiki/バックグラウンドミュージック "wikilink")。
+        1999年[10月25日](../Page/10月25日.md "wikilink")初放送。『[2時のホント](../Page/2時のホント.md "wikilink")』のパロディ。本家の『2時のホント』の司会者だったフジテレビ[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")の[境鶴丸](../Page/境鶴丸.md "wikilink")と[菊間千乃](../Page/菊間千乃.md "wikilink")が司会役で登場し、[ピーコ](../Page/ピーコ.md "wikilink")のパロディのヒーコ（中居）が「ヒーコのファッションチェック」を行う。2006年[7月31日](../Page/7月31日.md "wikilink")放送からは菊間は自身の諸事情で降板し、平井に代わった。コーナーのアシスタントは草彅。本家にそっくりなセットになっている。後、ヒーコに内緒で、本物のピーコ、[おすぎ](../Page/おすぎ.md "wikilink")、おすきとして[関根勤](../Page/関根勤.md "wikilink")も登場した。[BGMは本家と同じ物を使用している](../Page/バックグラウンドミュージック.md "wikilink")。
 
 <!-- end list -->
 
   - ジュブナイル・スマスマカット
       -
-        映画『[ジュブナイル](https://ja.wikipedia.org/wiki/ジュブナイル_\(映画\) "wikilink")』のパロディ。香取が発明したタイムマシンにスマヌードルを入れると食べられる状態に、ズボンを入れるとすそ上げされて庭の穴に移動した。香取いわく「スマヌードルがだんだん小さくなり、ミクロ単位にまで小さくなったときにお湯を入れられた」。[酒井美紀](https://ja.wikipedia.org/wiki/酒井美紀 "wikilink")の「普通にお湯入れて3分待ったほうが早いですね」の意見に香取が「そういうことを言っちゃいけないよ」と返事。最後にテトラを入れたら、出てきたのは[バボちゃん](https://ja.wikipedia.org/wiki/バボちゃん "wikilink")。時空間は上野の近く。ズボンの仕立て屋はお台場、西日暮里、祇園にあるらしい。
+        映画『[ジュブナイル](../Page/ジュブナイル_\(映画\).md "wikilink")』のパロディ。香取が発明したタイムマシンにスマヌードルを入れると食べられる状態に、ズボンを入れるとすそ上げされて庭の穴に移動した。香取いわく「スマヌードルがだんだん小さくなり、ミクロ単位にまで小さくなったときにお湯を入れられた」。[酒井美紀](https://ja.wikipedia.org/wiki/酒井美紀 "wikilink")の「普通にお湯入れて3分待ったほうが早いですね」の意見に香取が「そういうことを言っちゃいけないよ」と返事。最後にテトラを入れたら、出てきたのは[バボちゃん](../Page/バボちゃん.md "wikilink")。時空間は上野の近く。ズボンの仕立て屋はお台場、西日暮里、祇園にあるらしい。
 
 <!-- end list -->
 
@@ -556,13 +556,13 @@
 
   - 上京物語（香取）
       -
-        1999年[5月10日](../Page/5月10日.md "wikilink")初放送。[青森から上京してきた青年](https://ja.wikipedia.org/wiki/青森県 "wikilink")・青森秋太が、テープによる標準語講座（青森版）で標準語をマスターしようとするが…。ラストでは[シャ乱Q](../Page/シャ乱Q.md "wikilink")「[上・京・物・語](https://ja.wikipedia.org/wiki/上・京・物・語 "wikilink")」の一部分が流れる。実際に青森県出身の[新山千春](../Page/新山千春.md "wikilink")が姉・秋子役でゲスト出演したことがある。
+        1999年[5月10日](../Page/5月10日.md "wikilink")初放送。[青森から上京してきた青年](https://ja.wikipedia.org/wiki/青森県 "wikilink")・青森秋太が、テープによる標準語講座（青森版）で標準語をマスターしようとするが…。ラストでは[シャ乱Q](../Page/シャ乱Q.md "wikilink")「[上・京・物・語](../Page/上・京・物・語.md "wikilink")」の一部分が流れる。実際に青森県出身の[新山千春](../Page/新山千春.md "wikilink")が姉・秋子役でゲスト出演したことがある。
 
 <!-- end list -->
 
   - 勝利の女神様（中居・森・草彅・香取・柴田理恵）
       -
-        1996年[5月6日](../Page/5月6日.md "wikilink")初放送。ドラマ『[勝利の女神](https://ja.wikipedia.org/wiki/勝利の女神 "wikilink")』のパロディ。このコントから派生して「陣内くん」のコントが誕生した。
+        1996年[5月6日](../Page/5月6日.md "wikilink")初放送。ドラマ『[勝利の女神](../Page/勝利の女神.md "wikilink")』のパロディ。このコントから派生して「陣内くん」のコントが誕生した。
 
 <!-- end list -->
 
@@ -602,7 +602,7 @@
 
 <!-- end list -->
 
-  - 心理捜査官稲垣（稲垣・斎藤洋介・横山めぐみ・[神保悟志](https://ja.wikipedia.org/wiki/神保悟志 "wikilink")）
+  - 心理捜査官稲垣（稲垣・斎藤洋介・横山めぐみ・[神保悟志](../Page/神保悟志.md "wikilink")）
 
 <!-- end list -->
 
@@ -636,19 +636,19 @@
 
   - すべリアンハスキー（香取）
       -
-        2006年[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")放送。[駄洒落](https://ja.wikipedia.org/wiki/駄洒落 "wikilink")犬。
+        2006年[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")放送。[駄洒落](../Page/駄洒落.md "wikilink")犬。
 
 <!-- end list -->
 
-  - スマELT（中居・香取・[斎藤洋介](https://ja.wikipedia.org/wiki/斎藤洋介 "wikilink")）
+  - スマELT（中居・香取・[斎藤洋介](../Page/斎藤洋介.md "wikilink")）
       -
-        1999年[6月21日](../Page/6月21日.md "wikilink")初放送。3人時代の[Every Little Thingのパロディ](../Page/Every_Little_Thing.md "wikilink")。「[Dear My Friend](https://ja.wikipedia.org/wiki/Dear_My_Friend_\(Every_Little_Thingの曲\) "wikilink")」のイントロが流れ、[持田香織](https://ja.wikipedia.org/wiki/持田香織 "wikilink")役の中居が歌おうとすると様々なアクシデントが起きて、結局歌えない。
+        1999年[6月21日](../Page/6月21日.md "wikilink")初放送。3人時代の[Every Little Thingのパロディ](../Page/Every_Little_Thing.md "wikilink")。「[Dear My Friend](../Page/Dear_My_Friend_\(Every_Little_Thingの曲\).md "wikilink")」のイントロが流れ、[持田香織](https://ja.wikipedia.org/wiki/持田香織 "wikilink")役の中居が歌おうとすると様々なアクシデントが起きて、結局歌えない。
 
 <!-- end list -->
 
   - スマイレーツ（中居・稲垣）
       -
-        1999年[2月8日](https://ja.wikipedia.org/wiki/2月8日 "wikilink")初放送。[パイレーツのパロディ](https://ja.wikipedia.org/wiki/パイレーツ_\(タレント\) "wikilink")。
+        1999年[2月8日](../Page/2月8日.md "wikilink")初放送。[パイレーツのパロディ](../Page/パイレーツ_\(タレント\).md "wikilink")。
 
 <!-- end list -->
 
@@ -660,19 +660,19 @@
 
   - すま子の花園（中居・草彅・香取）
       -
-        1999年[2月22日](../Page/2月22日.md "wikilink")初放送。『[未来ナース](https://ja.wikipedia.org/wiki/未来ナース "wikilink")』で行われていた[鈴木その子](../Page/鈴木その子.md "wikilink")出演の1コーナーのパロディ。中居扮する鈴木すま子が芸能人の楽屋を訪問して、バカ殿やパンダといった白塗りのおもしろメイクを施す。すま子は顔に光が当たっていないと怒り出し、光が当たると上機嫌になる。
+        1999年[2月22日](../Page/2月22日.md "wikilink")初放送。『[未来ナース](../Page/未来ナース.md "wikilink")』で行われていた[鈴木その子](../Page/鈴木その子.md "wikilink")出演の1コーナーのパロディ。中居扮する鈴木すま子が芸能人の楽屋を訪問して、バカ殿やパンダといった白塗りのおもしろメイクを施す。すま子は顔に光が当たっていないと怒り出し、光が当たると上機嫌になる。
 
 <!-- end list -->
 
   - スマザップ（中居）
       -
-        2015年[5月25日](../Page/5月25日.md "wikilink")放送。[ライザップのCMのパロディ](https://ja.wikipedia.org/wiki/健康コーポレーション "wikilink")。中居が回転すると過去にコントで演じたキャラクター（計算マコちゃんやマー坊など）に変身する。最後は中居と同じ扮装をした別の有名人（[篠原信一](https://ja.wikipedia.org/wiki/篠原信一 "wikilink")や[石原良純](../Page/石原良純.md "wikilink")）に変身する。
+        2015年[5月25日](../Page/5月25日.md "wikilink")放送。[ライザップのCMのパロディ](../Page/健康コーポレーション.md "wikilink")。中居が回転すると過去にコントで演じたキャラクター（計算マコちゃんやマー坊など）に変身する。最後は中居と同じ扮装をした別の有名人（[篠原信一](../Page/篠原信一.md "wikilink")や[石原良純](../Page/石原良純.md "wikilink")）に変身する。
 
 <!-- end list -->
 
   - スマザン・ボイル（香取）
       -
-        [スーザン・ボイル](https://ja.wikipedia.org/wiki/スーザン・ボイル "wikilink")のパロディ。『[ブリテンズ・ゴット・タレント](https://ja.wikipedia.org/wiki/ブリテンズ・ゴット・タレント "wikilink")』を模したオーディション番組（審査員は草彅・[YOU](https://ja.wikipedia.org/wiki/YOU_\(タレント\) "wikilink")・[中尾彬](../Page/中尾彬.md "wikilink")）にやってきた一般女性、スマザン・ボイル。彼女の思いもよらぬ美声に全員が驚嘆するが、歌っている最中の態度や目線などに不自然な点が多々見られる。実はスマザンは傀儡、裏で**[米良美一](https://ja.wikipedia.org/wiki/米良美一 "wikilink")が歌っていた**。それに感づいて詰問や警備員等様々な対策を講じる審査員達だが、スマザンは頑なにそれを否定し続けて取り繕いつつその場を凌ぐが…。スマザンがグランドチャンピオンになって以降は、実際の歌手のゲストを迎えての勝ち抜き戦形式になっている。また、一般の女性からの挑戦も募集している。
+        [スーザン・ボイル](https://ja.wikipedia.org/wiki/スーザン・ボイル "wikilink")のパロディ。『[ブリテンズ・ゴット・タレント](https://ja.wikipedia.org/wiki/ブリテンズ・ゴット・タレント "wikilink")』を模したオーディション番組（審査員は草彅・[YOU](https://ja.wikipedia.org/wiki/YOU_\(タレント\) "wikilink")・[中尾彬](../Page/中尾彬.md "wikilink")）にやってきた一般女性、スマザン・ボイル。彼女の思いもよらぬ美声に全員が驚嘆するが、歌っている最中の態度や目線などに不自然な点が多々見られる。実はスマザンは傀儡、裏で**[米良美一](../Page/米良美一.md "wikilink")が歌っていた**。それに感づいて詰問や警備員等様々な対策を講じる審査員達だが、スマザンは頑なにそれを否定し続けて取り繕いつつその場を凌ぐが…。スマザンがグランドチャンピオンになって以降は、実際の歌手のゲストを迎えての勝ち抜き戦形式になっている。また、一般の女性からの挑戦も募集している。
 
 <!-- end list -->
 
@@ -694,9 +694,9 @@
 
 <!-- end list -->
 
-  - スマスマ湘南爆走族（全員・[的場浩司](https://ja.wikipedia.org/wiki/的場浩司 "wikilink")）
+  - スマスマ湘南爆走族（全員・[的場浩司](../Page/的場浩司.md "wikilink")）
       -
-        ドラマ『[湘南爆走族](https://ja.wikipedia.org/wiki/湘南爆走族 "wikilink")』のパロディ。配役は江口：中居、石川：木村、丸川：稲垣、原沢：香取、桜井：草彅、茂岡：的場。
+        ドラマ『[湘南爆走族](../Page/湘南爆走族.md "wikilink")』のパロディ。配役は江口：中居、石川：木村、丸川：稲垣、原沢：香取、桜井：草彅、茂岡：的場。
 
 <!-- end list -->
 
@@ -708,10 +708,10 @@
 
   - スマスマなスタアの恋
       -
-        2001年[12月10日](https://ja.wikipedia.org/wiki/12月10日 "wikilink")発放送。草彅が出演したドラマ『[スタアの恋](https://ja.wikipedia.org/wiki/スタアの恋 "wikilink")』のパロディ。
+        2001年[12月10日](../Page/12月10日.md "wikilink")発放送。草彅が出演したドラマ『[スタアの恋](../Page/スタアの恋.md "wikilink")』のパロディ。
   - スマスマルパン三世（全員・斎藤洋介・柴田理恵）
       -
-        1996年[11月11日](../Page/11月11日.md "wikilink")初放送。アニメ『[ルパン三世](https://ja.wikipedia.org/wiki/ルパン三世 "wikilink")』のパロディ。配役はルパン：中居、五ェ門：木村、次元：斉藤、不二子：柴田、銭形：香取。原作者である[モンキー・パンチ](https://ja.wikipedia.org/wiki/モンキー・パンチ "wikilink")が、収録を見学に訪れた事がある（「ルパン三世のテーマ（'96ヴァージョン）」が使われた、数少ない作品。アニメ本編では一度も使われていない）。
+        1996年[11月11日](../Page/11月11日.md "wikilink")初放送。アニメ『[ルパン三世](../Page/ルパン三世.md "wikilink")』のパロディ。配役はルパン：中居、五ェ門：木村、次元：斉藤、不二子：柴田、銭形：香取。原作者である[モンキー・パンチ](https://ja.wikipedia.org/wiki/モンキー・パンチ "wikilink")が、収録を見学に訪れた事がある（「ルパン三世のテーマ（'96ヴァージョン）」が使われた、数少ない作品。アニメ本編では一度も使われていない）。
 
 <!-- end list -->
 
@@ -729,19 +729,19 @@
 
   - スマニ（香取・中居・稲垣・横山めぐみ）
       -
-        ドラマ『[ショムニ](https://ja.wikipedia.org/wiki/ショムニ_\(テレビドラマ\) "wikilink")』のパロディ。サプライズゲストとして[江角マキコ](https://ja.wikipedia.org/wiki/江角マキコ "wikilink")本人がショムニの衣装で出演。
+        ドラマ『[ショムニ](../Page/ショムニ_\(テレビドラマ\).md "wikilink")』のパロディ。サプライズゲストとして[江角マキコ](https://ja.wikipedia.org/wiki/江角マキコ "wikilink")本人がショムニの衣装で出演。
 
 <!-- end list -->
 
   - スマメロ劇場 愛の真珠（中居・稲垣・草彅・横山めぐみ）
       -
-        横山が主演したドラマ『[真珠夫人](https://ja.wikipedia.org/wiki/真珠夫人 "wikilink")』のパロディ。
+        横山が主演したドラマ『[真珠夫人](../Page/真珠夫人.md "wikilink")』のパロディ。
 
 <!-- end list -->
 
   - スマメロ劇場 牡丹と薔薇（草彅・香取・稲垣）
       -
-        ドラマ『[牡丹と薔薇](https://ja.wikipedia.org/wiki/牡丹と薔薇 "wikilink")』のパロディ。コントの前に予め、草彅と香取でくじ引きを行い（稲垣はそれの仕切り役）、ぼたん役と香世役を決定。香世役がぼたん役に、嫌がらせ（罰ゲーム）を強制的にやらせる。[小沢真珠](../Page/小沢真珠.md "wikilink")がサプライズゲストとして登場。
+        ドラマ『[牡丹と薔薇](../Page/牡丹と薔薇.md "wikilink")』のパロディ。コントの前に予め、草彅と香取でくじ引きを行い（稲垣はそれの仕切り役）、ぼたん役と香世役を決定。香世役がぼたん役に、嫌がらせ（罰ゲーム）を強制的にやらせる。[小沢真珠](../Page/小沢真珠.md "wikilink")がサプライズゲストとして登場。
 
 <!-- end list -->
 
@@ -764,9 +764,9 @@
 
 <!-- end list -->
 
-  - セレブAD（中居・草彅・[上地雄輔](https://ja.wikipedia.org/wiki/上地雄輔 "wikilink")・[大和田伸也](https://ja.wikipedia.org/wiki/大和田伸也 "wikilink")）
+  - セレブAD（中居・草彅・[上地雄輔](https://ja.wikipedia.org/wiki/上地雄輔 "wikilink")・[大和田伸也](../Page/大和田伸也.md "wikilink")）
       -
-        「[ダメ人間ですわ](https://ja.wikipedia.org/wiki/#た行 "wikilink")」のダメ人間に性格がよく似ているAD・中曽根大輔（中居）が、ディレクター役の草永剛（草彅）やチーフAD[上地雄輔](https://ja.wikipedia.org/wiki/上地雄輔 "wikilink")らスタッフを振り回す。コント前のナレーションが[住友七絵](https://ja.wikipedia.org/wiki/住友七絵 "wikilink")。『[ココリコミラクルタイプ](../Page/ココリコミラクルタイプ.md "wikilink")』の「セレブ気取り」派生版。ちなみに上地はもともと面倒見のいいしっかりした先輩というキャラ設定だったが、彼が火付け役となったおバカブームの影響もあり上地曰くキャラの設定が（2回目以降）どんどんバカな方になっている。余談だが、1回目の放送の2日後に上地が『[クイズ\!ヘキサゴンII](https://ja.wikipedia.org/wiki/クイズ!ヘキサゴンII "wikilink")』に初出演した。2007年[6月25日](../Page/6月25日.md "wikilink")、2007年[11月20日](../Page/11月20日.md "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink")に放送。
+        「[ダメ人間ですわ](https://ja.wikipedia.org/wiki/#た行 "wikilink")」のダメ人間に性格がよく似ているAD・中曽根大輔（中居）が、ディレクター役の草永剛（草彅）やチーフAD[上地雄輔](https://ja.wikipedia.org/wiki/上地雄輔 "wikilink")らスタッフを振り回す。コント前のナレーションが[住友七絵](../Page/住友七絵.md "wikilink")。『[ココリコミラクルタイプ](../Page/ココリコミラクルタイプ.md "wikilink")』の「セレブ気取り」派生版。ちなみに上地はもともと面倒見のいいしっかりした先輩というキャラ設定だったが、彼が火付け役となったおバカブームの影響もあり上地曰くキャラの設定が（2回目以降）どんどんバカな方になっている。余談だが、1回目の放送の2日後に上地が『[クイズ\!ヘキサゴンII](https://ja.wikipedia.org/wiki/クイズ!ヘキサゴンII "wikilink")』に初出演した。2007年[6月25日](../Page/6月25日.md "wikilink")、2007年[11月20日](../Page/11月20日.md "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink")に放送。
         説明テロップが、「*セレブポイント*」また「*ここが上地雄輔*」
     <!-- end list -->
     1.  遅刻時はヘリコプター通勤
@@ -781,7 +781,7 @@
 
   - SEXY AND THE CITY（全員）
       -
-        海外連続ドラマ、フジテレビが制作に関わっている映画『[SEX AND THE CITY](https://ja.wikipedia.org/wiki/セックス・アンド・ザ・シティ "wikilink")』のパロディ。配役はキャリー・ブラッドショー（[サラ・ジェシカ・パーカー](https://ja.wikipedia.org/wiki/サラ・ジェシカ・パーカー "wikilink")）：木村、シャーロット・ヨーク（[クリスティン・デイヴィス](https://ja.wikipedia.org/wiki/クリスティン・デイヴィス "wikilink")）：稲垣、ミランダ・ホップス（[シンシア・ニクソン](https://ja.wikipedia.org/wiki/シンシア・ニクソン "wikilink")）：中居、サマンサ・ジョーンズ（[キム・キャトラル](https://ja.wikipedia.org/wiki/キム・キャトラル "wikilink")）：香取、そして、ドラマには出てこないキャラクター、ルイーズ（キャリーのアシスタント）を草彅が演じる。劇中の後半のお題で各1名が落とし穴に落ちるオチが入っている。ちなみに、落とし穴は発泡スチロールでできている。初回は2008年8月18日、第2回は同年9月15日、第3回は同年9月29日に放送。
+        海外連続ドラマ、フジテレビが制作に関わっている映画『[SEX AND THE CITY](../Page/セックス・アンド・ザ・シティ.md "wikilink")』のパロディ。配役はキャリー・ブラッドショー（[サラ・ジェシカ・パーカー](../Page/サラ・ジェシカ・パーカー.md "wikilink")）：木村、シャーロット・ヨーク（[クリスティン・デイヴィス](https://ja.wikipedia.org/wiki/クリスティン・デイヴィス "wikilink")）：稲垣、ミランダ・ホップス（[シンシア・ニクソン](../Page/シンシア・ニクソン.md "wikilink")）：中居、サマンサ・ジョーンズ（[キム・キャトラル](../Page/キム・キャトラル.md "wikilink")）：香取、そして、ドラマには出てこないキャラクター、ルイーズ（キャリーのアシスタント）を草彅が演じる。劇中の後半のお題で各1名が落とし穴に落ちるオチが入っている。ちなみに、落とし穴は発泡スチロールでできている。初回は2008年8月18日、第2回は同年9月15日、第3回は同年9月29日に放送。
         お題
     <!-- end list -->
     1.  5品中、1品が9,800円の安いスーツを見抜く（安い服を選ぶとアウト）（稲垣がアウト。草彅が見抜いたスーツは258,000円、香取が見抜いたスーツは209,800円、木村が見抜いたスーツは229,800円、中居が見抜いたスーツは234,800円）
@@ -801,7 +801,7 @@
 
   - 村長さん（香取・中居）
       -
-        香取が出演したドラマ『[合い言葉は勇気](https://ja.wikipedia.org/wiki/合い言葉は勇気 "wikilink")』のパロディ。[田中邦衛](../Page/田中邦衛.md "wikilink")が演じた「村長」の物真似を香取がする。
+        香取が出演したドラマ『[合い言葉は勇気](../Page/合い言葉は勇気.md "wikilink")』のパロディ。[田中邦衛](../Page/田中邦衛.md "wikilink")が演じた「村長」の物真似を香取がする。
 
 <!-- end list -->
 
@@ -813,7 +813,7 @@
 
   - 体感エレベーター（木村・横山めぐみ・草彅）
       -
-        1996年[10月21日](../Page/10月21日.md "wikilink")初放送。乗客の注文に応じてエレベーターガールが恋人役を演じてくれるコント。木村演じるサラリーマンはいつもいい所でエレベーターが到着してしまいおあずけになるが、草彅演じる謎の男は要領がいいのかいつもいい思いをしている（エレベーターが開いても事を続けていたことがあった）。一度だけ柴田理恵がエレベーターガールとして登場し、木村演じるサラリーマンとディープな愛までいく変化版もあった。2012年には「体感エレベーター2012」として復活した(ただし、エレベーターガールは[真矢みきが演じている](https://ja.wikipedia.org/wiki/真矢ミキ "wikilink")。2012年[11月12日](../Page/11月12日.md "wikilink")放送分では『[PRICELESS](https://ja.wikipedia.org/wiki/PRICELESS〜あるわけねぇだろ、んなもん!〜 "wikilink")』で木村と共演中だった[香里奈](https://ja.wikipedia.org/wiki/香里奈 "wikilink")がエレベーターガールを演じた)。また、2013年2月11日放送の「体感エレベーター2013」にはライバル役として[イ・ビョンホン](https://ja.wikipedia.org/wiki/イ・ビョンホン "wikilink")がゲスト出演した。
+        1996年[10月21日](../Page/10月21日.md "wikilink")初放送。乗客の注文に応じてエレベーターガールが恋人役を演じてくれるコント。木村演じるサラリーマンはいつもいい所でエレベーターが到着してしまいおあずけになるが、草彅演じる謎の男は要領がいいのかいつもいい思いをしている（エレベーターが開いても事を続けていたことがあった）。一度だけ柴田理恵がエレベーターガールとして登場し、木村演じるサラリーマンとディープな愛までいく変化版もあった。2012年には「体感エレベーター2012」として復活した(ただし、エレベーターガールは[真矢みきが演じている](https://ja.wikipedia.org/wiki/真矢ミキ "wikilink")。2012年[11月12日](../Page/11月12日.md "wikilink")放送分では『[PRICELESS](https://ja.wikipedia.org/wiki/PRICELESS〜あるわけねぇだろ、んなもん!〜 "wikilink")』で木村と共演中だった[香里奈](https://ja.wikipedia.org/wiki/香里奈 "wikilink")がエレベーターガールを演じた)。また、2013年2月11日放送の「体感エレベーター2013」にはライバル役として[イ・ビョンホン](../Page/イ・ビョンホン.md "wikilink")がゲスト出演した。
 
 <!-- end list -->
 
@@ -836,10 +836,10 @@
 <!-- end list -->
 
   - 拓也ママ (木村・中居)
-  - 竹の塚歌劇団（木村・稲垣・香取・[生瀬勝久](https://ja.wikipedia.org/wiki/生瀬勝久 "wikilink")・[きたろう](https://ja.wikipedia.org/wiki/きたろう "wikilink")）
+  - 竹の塚歌劇団（木村・稲垣・香取・[生瀬勝久](https://ja.wikipedia.org/wiki/生瀬勝久 "wikilink")・[きたろう](../Page/きたろう.md "wikilink")）
       -
         1998年[7月27日](../Page/7月27日.md "wikilink")初放送。[宝塚歌劇団](../Page/宝塚歌劇団.md "wikilink")のパロディ。愛ゆうき（木村）、綾瀬ごろう（稲垣）、小鳩ふぶき（香取）らが経営難にも負けず奮闘する。
-        「[竹の塚](https://ja.wikipedia.org/wiki/竹ノ塚 "wikilink")」は東京都[足立区](https://ja.wikipedia.org/wiki/足立区 "wikilink")の地名。本家宝塚歌劇団は女性だけの歌劇団であるのに対し、竹の塚歌劇団は男性だけの歌劇団である（レビューのバックダンサーも全て男である。但し本家宝塚で男役だった[真琴つばさ](https://ja.wikipedia.org/wiki/真琴つばさ "wikilink")が女役でゲスト出演した事がある）。時期「TAC（竹ノ塚アクションクラブ）」に変更させられていた時期もあった。
+        「[竹の塚](https://ja.wikipedia.org/wiki/竹ノ塚 "wikilink")」は東京都[足立区](../Page/足立区.md "wikilink")の地名。本家宝塚歌劇団は女性だけの歌劇団であるのに対し、竹の塚歌劇団は男性だけの歌劇団である（レビューのバックダンサーも全て男である。但し本家宝塚で男役だった[真琴つばさ](https://ja.wikipedia.org/wiki/真琴つばさ "wikilink")が女役でゲスト出演した事がある）。時期「TAC（竹ノ塚アクションクラブ）」に変更させられていた時期もあった。
 
 <!-- end list -->
 
@@ -850,7 +850,7 @@
       - ダメ人間刑事（中居・稲垣）
           -
             2004年[11月15日](../Page/11月15日.md "wikilink")初放送。「ダメ人間ですわ」の続編で、中居扮するダメ人間が刑事になっても世間に迷惑をかける刑事もののパロディコント。
-      - 新・ダメ人間ですわ（中居・稲垣・横山めぐみ・[脇知弘](https://ja.wikipedia.org/wiki/脇知弘 "wikilink")・MEGUMI・[平泉成](https://ja.wikipedia.org/wiki/平泉成 "wikilink")）
+      - 新・ダメ人間ですわ（中居・稲垣・横山めぐみ・[脇知弘](../Page/脇知弘.md "wikilink")・MEGUMI・[平泉成](../Page/平泉成.md "wikilink")）
           -
             「ダメ人間ですわ」の続編で、中居扮するダメ人間が情報番組『こたえてください\!』のプロデューサーになっても世間に迷惑をかけるコント。
 
@@ -858,7 +858,7 @@
 
   - 探偵物語ZERO（木村・横山めぐみ）
       -
-        1996年[12月9日](../Page/12月9日.md "wikilink")初放送。ドラマ『[探偵物語](https://ja.wikipedia.org/wiki/探偵物語 "wikilink")』のパロディ。珍しくロケーションが行われたコント。
+        1996年[12月9日](../Page/12月9日.md "wikilink")初放送。ドラマ『[探偵物語](../Page/探偵物語.md "wikilink")』のパロディ。珍しくロケーションが行われたコント。
 
 <!-- end list -->
 
@@ -870,17 +870,17 @@
 
   - チャレンジ\! コップのツヨ子（草彅）
       -
-        [2016年](../Page/2016年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink")初放送\[4\]。「[コップのフチ子](https://ja.wikipedia.org/wiki/コップのフチ子 "wikilink")」のパロディ。草彅扮する「コップのツヨ子」が巨大なコーヒーカップのフチでフチ子と同様のポーズに挑戦する。ナレーションはフチ子の声を担当している声優の[佐藤聡美](https://ja.wikipedia.org/wiki/佐藤聡美 "wikilink")。
+        [2016年](../Page/2016年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink")初放送\[4\]。「[コップのフチ子](https://ja.wikipedia.org/wiki/コップのフチ子 "wikilink")」のパロディ。草彅扮する「コップのツヨ子」が巨大なコーヒーカップのフチでフチ子と同様のポーズに挑戦する。ナレーションはフチ子の声を担当している声優の[佐藤聡美](../Page/佐藤聡美.md "wikilink")。
 
 <!-- end list -->
 
   - 中年アルバイター 欣也さま（香取・中居・櫻井淳子・[船越英一郎](../Page/船越英一郎.md "wikilink")）
       -
-        2003年[11月24日](../Page/11月24日.md "wikilink")初放送。[北大路欣也](https://ja.wikipedia.org/wiki/北大路欣也 "wikilink")のパロディ。西大路欣也（香取）が仕事をするが、不届きな仕事振りだと見抜いた上司（斉藤洋介ら）の注意ですぐクビになる。西大路はコーンスープを「とうもろこしの汁」と言うほどの横文字嫌い（その設定を生かし、TVガイドで連載されている「週刊スマスマ新聞」の漫画「ONE PIECE SMAP」でも、西大路登場時は「ひとかけらすまっぷ」というタイトルに変えられていた）。
+        2003年[11月24日](../Page/11月24日.md "wikilink")初放送。[北大路欣也](../Page/北大路欣也.md "wikilink")のパロディ。西大路欣也（香取）が仕事をするが、不届きな仕事振りだと見抜いた上司（斉藤洋介ら）の注意ですぐクビになる。西大路はコーンスープを「とうもろこしの汁」と言うほどの横文字嫌い（その設定を生かし、TVガイドで連載されている「週刊スマスマ新聞」の漫画「ONE PIECE SMAP」でも、西大路登場時は「ひとかけらすまっぷ」というタイトルに変えられていた）。
 
 <!-- end list -->
 
-  - ちょいミス兄貴\!てっさん（木村・草彅・香取・[白竜](https://ja.wikipedia.org/wiki/白竜_\(俳優\) "wikilink")）
+  - ちょいミス兄貴\!てっさん（木村・草彅・香取・[白竜](../Page/白竜_\(俳優\).md "wikilink")）
       -
         2006年[7月10日](../Page/7月10日.md "wikilink")初放送。木村扮する月闇組若頭補佐 椿山鉄郎「通称テツ」は、暗黒街に100年に1人の呼び声高き男。しかしちょっとしたミスを犯しがちだという弱点があった（ミス例：ズボンのチャック閉め忘れ）。人情味があり、男の美学を追求する。カメラを探してでもカメラ目線。草彅：月闇組構成員、香取：星屑組若頭、白竜：月闇組若頭。
 
@@ -900,19 +900,19 @@
 
   - ツヨシかじり虫（草彅・香取）
       -
-        [おしりかじり虫](https://ja.wikipedia.org/wiki/おしりかじり虫 "wikilink")のパロディ。草彅扮したツヨシかじり虫が本元の替え歌を歌いながら、人の食べ物等をかじる。
+        [おしりかじり虫](../Page/おしりかじり虫.md "wikilink")のパロディ。草彅扮したツヨシかじり虫が本元の替え歌を歌いながら、人の食べ物等をかじる。
 
 <!-- end list -->
 
   - ツヨシ十二楽房（草彅）
       -
-        [女子十二楽坊](../Page/女子十二楽坊.md "wikilink")のパロディ。「[世界に一つだけの花](https://ja.wikipedia.org/wiki/世界に一つだけの花 "wikilink")」を演奏。最後に金ダライが直撃したり、ボウリングのピンのように倒されたりする。
+        [女子十二楽坊](../Page/女子十二楽坊.md "wikilink")のパロディ。「[世界に一つだけの花](../Page/世界に一つだけの花.md "wikilink")」を演奏。最後に金ダライが直撃したり、ボウリングのピンのように倒されたりする。
 
 <!-- end list -->
 
   - TMC（稲垣・草彅・香取）
       -
-        1999年[11月1日](../Page/11月1日.md "wikilink")初放送。[TLCのパロディ](https://ja.wikipedia.org/wiki/ティ・エル・シー "wikilink")。タイトルはスマスマの収録が行われている[東京メディアシティ](https://ja.wikipedia.org/wiki/東京メディアシティ "wikilink")の略称に由来。コントの途中で軽いゲームに挑戦、負けた1名がコントの格好のまま、東京メディアシティ内の施設で罰ゲームを受ける。
+        1999年[11月1日](../Page/11月1日.md "wikilink")初放送。[TLCのパロディ](../Page/ティ・エル・シー.md "wikilink")。タイトルはスマスマの収録が行われている[東京メディアシティ](../Page/東京メディアシティ.md "wikilink")の略称に由来。コントの途中で軽いゲームに挑戦、負けた1名がコントの格好のまま、東京メディアシティ内の施設で罰ゲームを受ける。
 
 <!-- end list -->
 
@@ -924,17 +924,17 @@
 
   - デビールマン（草彅・中居）
       -
-        1998年[6月22日](../Page/6月22日.md "wikilink")初放送。アニメ『[デビルマン](https://ja.wikipedia.org/wiki/デビルマン "wikilink")』のパロディ。草彅が「デビーール\!」と掛け声を発しようとすると、親父（中居）があらゆる手段で、それを制止させる。
-        ちなみに中居扮する親父はSMAPのライブや[ジャニーズ事務所](https://ja.wikipedia.org/wiki/ジャニーズ事務所 "wikilink")主催の[野球行事にもしばしば登場し](https://ja.wikipedia.org/wiki/ジャニーズ大運動会 "wikilink")、2011年･2013年にはSMAPがCMキャラクターを務める[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")のCMにも登場した（「二つ折りの唄」篇と「スマホで健康管理」篇）。
-        2009年に草彅主演のドラマ『[任侠ヘルパー](https://ja.wikipedia.org/wiki/任侠ヘルパー "wikilink")』のパロディとして｢デビールマン 任侠ヘルパー編｣が放送され、草彅は本編と同じく翼彦一役として出演し、[薮宏太](https://ja.wikipedia.org/wiki/薮宏太 "wikilink")([Hey\! Say\! JUMP](https://ja.wikipedia.org/wiki/Hey!_Say!_JUMP "wikilink"))も本編と同じく鷹山三樹矢役でゲスト出演した。
+        1998年[6月22日](../Page/6月22日.md "wikilink")初放送。アニメ『[デビルマン](../Page/デビルマン.md "wikilink")』のパロディ。草彅が「デビーール\!」と掛け声を発しようとすると、親父（中居）があらゆる手段で、それを制止させる。
+        ちなみに中居扮する親父はSMAPのライブや[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")主催の[野球行事にもしばしば登場し](https://ja.wikipedia.org/wiki/ジャニーズ大運動会 "wikilink")、2011年･2013年にはSMAPがCMキャラクターを務める[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")のCMにも登場した（「二つ折りの唄」篇と「スマホで健康管理」篇）。
+        2009年に草彅主演のドラマ『[任侠ヘルパー](https://ja.wikipedia.org/wiki/任侠ヘルパー "wikilink")』のパロディとして｢デビールマン 任侠ヘルパー編｣が放送され、草彅は本編と同じく翼彦一役として出演し、[薮宏太](../Page/薮宏太.md "wikilink")([Hey\! Say\! JUMP](https://ja.wikipedia.org/wiki/Hey!_Say!_JUMP "wikilink"))も本編と同じく鷹山三樹矢役でゲスト出演した。
     <!-- end list -->
       - キューティーツニー（上記と同じ）
           -
-            2005年[3月7日](../Page/3月7日.md "wikilink")初放送。映画『[キューティーハニー](https://ja.wikipedia.org/wiki/キューティーハニー_\(映画\) "wikilink")』のパロディ。『デビールマン』の事実上の続編扱いで、流れはほぼ同じ。
+            2005年[3月7日](../Page/3月7日.md "wikilink")初放送。映画『[キューティーハニー](../Page/キューティーハニー_\(映画\).md "wikilink")』のパロディ。『デビールマン』の事実上の続編扱いで、流れはほぼ同じ。
 
 <!-- end list -->
 
-  - DEBU NOTE（稲垣・草彅・脇知弘／[香里奈](https://ja.wikipedia.org/wiki/香里奈 "wikilink")／[梨花](https://ja.wikipedia.org/wiki/梨花 "wikilink")）
+  - DEBU NOTE（稲垣・草彅・脇知弘／[香里奈](https://ja.wikipedia.org/wiki/香里奈 "wikilink")／[梨花](../Page/梨花.md "wikilink")）
       -
         漫画『[DEATH NOTE](https://ja.wikipedia.org/wiki/DEATH_NOTE "wikilink")』のパロディ。稲垣扮する「夜神脂（やがみオイル、体重135キロ）」は「デブーク」（脇）の落とした「デブノート」を拾う。デブノートに名前を書かれた人は突然太りだす。
 
@@ -954,7 +954,7 @@
 
   - 天国への階段
       -
-        [韓国ドラマ](https://ja.wikipedia.org/wiki/韓国ドラマ "wikilink")『[天国の階段](https://ja.wikipedia.org/wiki/天国の階段 "wikilink")』のパロディ。
+        [韓国ドラマ](../Page/韓国ドラマ.md "wikilink")『[天国の階段](../Page/天国の階段.md "wikilink")』のパロディ。
 
 <!-- end list -->
 
@@ -964,7 +964,7 @@
 
 <!-- end list -->
 
-  - Dr.コロー診療所（稲垣・櫻井淳子・[近藤芳正](https://ja.wikipedia.org/wiki/近藤芳正 "wikilink")）
+  - Dr.コロー診療所（稲垣・櫻井淳子・[近藤芳正](../Page/近藤芳正.md "wikilink")）
       -
         ドラマ『[Dr.コトー診療所](../Page/Dr.コトー診療所_\(テレビドラマ\).md "wikilink")』のパロディ。最後に次回予告もあるが、実際に次に放送された話とは全く関係ないどころか、予告自体の話のつながり方が意味不明であった。後に「スマスマ高校メガネ部っ\!」がこの流れを汲む事に。
 
@@ -979,9 +979,9 @@
 
   - 殿リーマン（稲垣・草彅・中居）
       -
-        1999年[5月24日](../Page/5月24日.md "wikilink")初放送。稲垣扮する殿リーマン（本名：上杉吾郎）がさまざまなことに挑戦する。『[志村けんのバカ殿様](https://ja.wikipedia.org/wiki/志村けんのバカ殿様 "wikilink")』のパロディ。
+        1999年[5月24日](../Page/5月24日.md "wikilink")初放送。稲垣扮する殿リーマン（本名：上杉吾郎）がさまざまなことに挑戦する。『[志村けんのバカ殿様](../Page/志村けんのバカ殿様.md "wikilink")』のパロディ。
         2005年に本編とはさして関係ないトラブル（稲垣が退場時に使った[駕篭](https://ja.wikipedia.org/wiki/駕篭 "wikilink")からバランスを崩し落ちそうになるも、小窓から顔を出していたがために首が引っかかり完全に駕篭から落ちることも出来ず、片足だけが駕篭からずり落ちた状態で担がれていった）も含めてSMAP×SMAP4時間スペシャルの最優秀賞受賞。それを記念して2006年に1度だけ復活。
-        [志村けん](https://ja.wikipedia.org/wiki/志村けん "wikilink")はこのコントの存在とパロディ元が自分のキャラ（バカ殿様）である事を知っていた（2006年[10月16日](../Page/10月16日.md "wikilink")放送のBISTRO SMAPに志村と[加藤茶](../Page/加藤茶.md "wikilink")が来店した際にコメント）。
+        [志村けん](../Page/志村けん.md "wikilink")はこのコントの存在とパロディ元が自分のキャラ（バカ殿様）である事を知っていた（2006年[10月16日](../Page/10月16日.md "wikilink")放送のBISTRO SMAPに志村と[加藤茶](../Page/加藤茶.md "wikilink")が来店した際にコメント）。
         その後は負けず嫌いの性格を追加した「負けず嫌い殿リーマン」が放送された。
 
 <!-- end list -->
@@ -992,7 +992,7 @@
 
 <!-- end list -->
 
-  - トムヤン君（香取・草彅・[アドゴニー](https://ja.wikipedia.org/wiki/アドゴニー・ロロ "wikilink")）
+  - トムヤン君（香取・草彅・[アドゴニー](../Page/アドゴニー・ロロ.md "wikilink")）
       -
         「草川外国人タレント事務所」に所属するアジア系のトムヤンは、芸歴7年だが仕事がない。ついに「マネージャーをやりなさい」と草川社長に言われるが、カタコトの日本語で必死に"使えるタレント"である事をアピールする。
 
@@ -1006,7 +1006,7 @@
 
   - Dragon Smash（木村・草彅・横山めぐみ）
       -
-        [Dragon Ashのパロディ](https://ja.wikipedia.org/wiki/Dragon_Ash "wikilink")。降谷建三（木村）とDJボツ（草彅）が、出産や手術中などの緊迫した場面に突然現れる。
+        [Dragon Ashのパロディ](../Page/Dragon_Ash.md "wikilink")。降谷建三（木村）とDJボツ（草彅）が、出産や手術中などの緊迫した場面に突然現れる。
 
 ## な行
 
@@ -1025,29 +1025,29 @@
   - 成り上がり芸人 ドス恋パイナポー（草彅・香取）
       -
         草彅・香取扮するネタもろくに出来ない成り上がりの若手芸人「ドス恋パイナポー」が先輩に対して失礼な行動を繰り返し、挙句の果てにネタを盗用し、しかもそれがウケてしまう、という内容のコント。
-        先輩芸人として[次長課長](https://ja.wikipedia.org/wiki/次長課長 "wikilink")・[タカアンドトシ](https://ja.wikipedia.org/wiki/タカアンドトシ "wikilink")・[爆笑問題](../Page/爆笑問題.md "wikilink")・[小島よしお](https://ja.wikipedia.org/wiki/小島よしお "wikilink")・[なだぎ武](https://ja.wikipedia.org/wiki/なだぎ武 "wikilink")などの実在の芸人が本人役で登場している。
+        先輩芸人として[次長課長](https://ja.wikipedia.org/wiki/次長課長 "wikilink")・[タカアンドトシ](../Page/タカアンドトシ.md "wikilink")・[爆笑問題](../Page/爆笑問題.md "wikilink")・[小島よしお](../Page/小島よしお.md "wikilink")・[なだぎ武](../Page/なだぎ武.md "wikilink")などの実在の芸人が本人役で登場している。
 
 <!-- end list -->
 
-  - ナリスとクリス（中居・[クリス松村](https://ja.wikipedia.org/wiki/クリス松村 "wikilink")）
+  - ナリスとクリス（中居・[クリス松村](../Page/クリス松村.md "wikilink")）
 
 <!-- end list -->
 
   - 29（稲垣・草彅）
       -
-        [19のパロディ](https://ja.wikipedia.org/wiki/19_\(音楽グループ\) "wikilink")。路上ミュージシャンのゴロゴ（稲垣）とツヨジ（草彅）が客のリクエストに合わせて歌う。
+        [19のパロディ](../Page/19_\(音楽グループ\).md "wikilink")。路上ミュージシャンのゴロゴ（稲垣）とツヨジ（草彅）が客のリクエストに合わせて歌う。
 
 <!-- end list -->
 
-  - NIKKOさんのどんだけ～\!出張メイク（香取・[渡辺和洋](https://ja.wikipedia.org/wiki/渡辺和洋 "wikilink")（フジテレビアナウンサー）／マリエ／[中川翔子](https://ja.wikipedia.org/wiki/中川翔子 "wikilink")／[佐藤江梨子](https://ja.wikipedia.org/wiki/佐藤江梨子 "wikilink")／[柳原可奈子](https://ja.wikipedia.org/wiki/柳原可奈子 "wikilink")／[ギャル曽根](https://ja.wikipedia.org/wiki/ギャル曽根 "wikilink")）
+  - NIKKOさんのどんだけ～\!出張メイク（香取・[渡辺和洋](../Page/渡辺和洋.md "wikilink")（フジテレビアナウンサー）／マリエ／[中川翔子](../Page/中川翔子.md "wikilink")／[佐藤江梨子](https://ja.wikipedia.org/wiki/佐藤江梨子 "wikilink")／[柳原可奈子](https://ja.wikipedia.org/wiki/柳原可奈子 "wikilink")／[ギャル曽根](../Page/ギャル曽根.md "wikilink")）
       -
-        2007年[7月16日](../Page/7月16日.md "wikilink")初放送。ゲストが香取扮するNIKKOさん（[IKKO](https://ja.wikipedia.org/wiki/IKKO "wikilink")のパロディ）によりとんでもないメイクをされてしまう。2007年[10月8日](../Page/10月8日.md "wikilink")放送の「スマスマキャラクター祭り」のコーナーと翌週の「BISTRO SMAP」で本物のIKKOと共演した。
+        2007年[7月16日](../Page/7月16日.md "wikilink")初放送。ゲストが香取扮するNIKKOさん（[IKKO](../Page/IKKO.md "wikilink")のパロディ）によりとんでもないメイクをされてしまう。2007年[10月8日](../Page/10月8日.md "wikilink")放送の「スマスマキャラクター祭り」のコーナーと翌週の「BISTRO SMAP」で本物のIKKOと共演した。
 
 <!-- end list -->
 
   - 日本陥没（草彅・中居・香取）
       -
-        2006年放送。草彅主演の映画『[日本沈没](https://ja.wikipedia.org/wiki/日本沈没 "wikilink")』のパロディ。
+        2006年放送。草彅主演の映画『[日本沈没](../Page/日本沈没.md "wikilink")』のパロディ。
 
 <!-- end list -->
 
@@ -1057,9 +1057,9 @@
 
 <!-- end list -->
 
-  - ニワさん（香取・稲垣・伊藤裕子・[佐藤二朗](https://ja.wikipedia.org/wiki/佐藤二朗 "wikilink")）
+  - ニワさん（香取・稲垣・伊藤裕子・[佐藤二朗](../Page/佐藤二朗.md "wikilink")）
       -
-        2006年[8月28日](../Page/8月28日.md "wikilink")初放送\[6\]。[美輪明宏](https://ja.wikipedia.org/wiki/美輪明宏 "wikilink")のパロディ。香取扮する[ニワさんは体内の](https://ja.wikipedia.org/wiki/#複数登場キャラクター "wikilink")[オーラ](https://ja.wikipedia.org/wiki/オーラ "wikilink")を清めるために、野菜しか食べないと自分の書いた本に書いていたが、実はそうではなかった。ゲストや稲垣、佐藤二郎に「貴方たちの後ろにご先祖様がいる」と言い皆に後ろを向かせ、その間に肉料理などのご馳走をニワさんが食べる。他にも稲垣から無理難題を押し付けられ、それに対しニワさんは「心を研ぎ澄ませば成功できる」などと言って果敢に挑戦するが必ず失敗する。なお、このコントは美輪本人が公認している。また、香取に内緒で[江原啓之](https://ja.wikipedia.org/wiki/江原啓之 "wikilink")（当時「[オーラの泉](https://ja.wikipedia.org/wiki/国分太一・美輪明宏・江原啓之のオーラの泉 "wikilink")」で美輪と共演していた）もゲスト出演した事があり、その時香取はかなり驚いていた。
+        2006年[8月28日](../Page/8月28日.md "wikilink")初放送\[6\]。[美輪明宏](https://ja.wikipedia.org/wiki/美輪明宏 "wikilink")のパロディ。香取扮する[ニワさんは体内の](https://ja.wikipedia.org/wiki/#複数登場キャラクター "wikilink")[オーラ](../Page/オーラ.md "wikilink")を清めるために、野菜しか食べないと自分の書いた本に書いていたが、実はそうではなかった。ゲストや稲垣、佐藤二郎に「貴方たちの後ろにご先祖様がいる」と言い皆に後ろを向かせ、その間に肉料理などのご馳走をニワさんが食べる。他にも稲垣から無理難題を押し付けられ、それに対しニワさんは「心を研ぎ澄ませば成功できる」などと言って果敢に挑戦するが必ず失敗する。なお、このコントは美輪本人が公認している。また、香取に内緒で[江原啓之](../Page/江原啓之.md "wikilink")（当時「[オーラの泉](../Page/国分太一・美輪明宏・江原啓之のオーラの泉.md "wikilink")」で美輪と共演していた）もゲスト出演した事があり、その時香取はかなり驚いていた。
 
 <!-- end list -->
 
@@ -1089,13 +1089,13 @@
 
   - ハーコさんの写すんです（稲垣・香取・斎藤洋介・横山めぐみ）
       -
-        1999年[12月6日](../Page/12月6日.md "wikilink")放送。[林家ペー](https://ja.wikipedia.org/wiki/林家ペー "wikilink")・[パー子夫妻のパロディ](https://ja.wikipedia.org/wiki/林家パー子 "wikilink")。
+        1999年[12月6日](../Page/12月6日.md "wikilink")放送。[林家ペー](../Page/林家ペー.md "wikilink")・[パー子夫妻のパロディ](../Page/林家パー子.md "wikilink")。
 
 <!-- end list -->
 
   - バッキー木村（木村）
       -
-        1999年[2月15日](../Page/2月15日.md "wikilink")初放送。元は草彅が[ヨーヨー](https://ja.wikipedia.org/wiki/ヨーヨー "wikilink")名人と対決するコーナー「YO-YO-YO」から生まれたキャラクター。名前は[ナレーター](https://ja.wikipedia.org/wiki/ナレーター "wikilink")の[バッキー木場](https://ja.wikipedia.org/wiki/バッキー木場 "wikilink")のパロディ。このコーナーで[パラパラ](../Page/パラパラ.md "wikilink")をしていたことがキッカケになり、パラパラブームに火を付けた。ユーロビートの「[NIGHT OF FIRE](https://ja.wikipedia.org/wiki/NIGHT_OF_FIRE "wikilink")」はこのコーナーを機に知名度が急上昇した。「ズンパ音頭」をユーロビート化しハッピ姿の木村が有名。流行語は「ズンパッキーなの?」。[ミッキーマウス](../Page/ミッキーマウス.md "wikilink")率いるディズニーキャラクター達ともコラボしたこともある。
+        1999年[2月15日](../Page/2月15日.md "wikilink")初放送。元は草彅が[ヨーヨー](../Page/ヨーヨー.md "wikilink")名人と対決するコーナー「YO-YO-YO」から生まれたキャラクター。名前は[ナレーター](https://ja.wikipedia.org/wiki/ナレーター "wikilink")の[バッキー木場](../Page/バッキー木場.md "wikilink")のパロディ。このコーナーで[パラパラ](../Page/パラパラ.md "wikilink")をしていたことがキッカケになり、パラパラブームに火を付けた。ユーロビートの「[NIGHT OF FIRE](../Page/NIGHT_OF_FIRE.md "wikilink")」はこのコーナーを機に知名度が急上昇した。「ズンパ音頭」をユーロビート化しハッピ姿の木村が有名。流行語は「ズンパッキーなの?」。[ミッキーマウス](../Page/ミッキーマウス.md "wikilink")率いるディズニーキャラクター達ともコラボしたこともある。
 
 <!-- end list -->
 
@@ -1111,7 +1111,7 @@
 
 <!-- end list -->
 
-  - 早押しツヨポン（草彅・[京野ことみ](https://ja.wikipedia.org/wiki/京野ことみ "wikilink")・[はしのえみ](https://ja.wikipedia.org/wiki/はしのえみ "wikilink")）
+  - 早押しツヨポン（草彅・[京野ことみ](https://ja.wikipedia.org/wiki/京野ことみ "wikilink")・[はしのえみ](../Page/はしのえみ.md "wikilink")）
       -
         相手の話の途中で早押しボタンを押して答えてしまう。
 
@@ -1119,7 +1119,7 @@
 
   - 薔薇のある花屋（香取・草彅・稲垣）
       -
-        2008年1月期に香取が主演したドラマ『[薔薇のない花屋](https://ja.wikipedia.org/wiki/薔薇のない花屋 "wikilink")』のパロディ。正しい花を当てるゲーム。
+        2008年1月期に香取が主演したドラマ『[薔薇のない花屋](../Page/薔薇のない花屋.md "wikilink")』のパロディ。正しい花を当てるゲーム。
 
 <!-- end list -->
 
@@ -1131,13 +1131,13 @@
 
   - ピアノーマン（稲垣）
       -
-        [ピアノマン](https://ja.wikipedia.org/wiki/ピアノマン "wikilink")のパロディで、ただのピアノ弾き。2005年[5月30日](../Page/5月30日.md "wikilink")放送。
+        [ピアノマン](../Page/ピアノマン.md "wikilink")のパロディで、ただのピアノ弾き。2005年[5月30日](../Page/5月30日.md "wikilink")放送。
 
 <!-- end list -->
 
   - 悲劇の監督 オシモ（草彅・中居）
       -
-        2006年[10月16日](../Page/10月16日.md "wikilink")初放送。[サッカー日本代表](https://ja.wikipedia.org/wiki/サッカー日本代表 "wikilink")監督の[イビチャ・オシム](https://ja.wikipedia.org/wiki/イビチャ・オシム "wikilink")のパロディ。草彅扮する[イビチャ・オシモが](https://ja.wikipedia.org/wiki/#複数登場キャラクター "wikilink")、選手に忠告した後、試合のビデオを再生しようとしてDVDプレーヤーにビデオテープを入れようとしたり、攻め方の説明をするときホワイトボードに油性のペンで書いてしまったりと失敗をして、「[もしもピアノが弾けたなら](https://ja.wikipedia.org/wiki/もしもピアノが弾けたなら "wikilink")」の替え歌で失敗の内容を歌い、通訳の中居に叩かれる。
+        2006年[10月16日](../Page/10月16日.md "wikilink")初放送。[サッカー日本代表](../Page/サッカー日本代表.md "wikilink")監督の[イビチャ・オシム](../Page/イビチャ・オシム.md "wikilink")のパロディ。草彅扮する[イビチャ・オシモが](https://ja.wikipedia.org/wiki/#複数登場キャラクター "wikilink")、選手に忠告した後、試合のビデオを再生しようとしてDVDプレーヤーにビデオテープを入れようとしたり、攻め方の説明をするときホワイトボードに油性のペンで書いてしまったりと失敗をして、「[もしもピアノが弾けたなら](../Page/もしもピアノが弾けたなら.md "wikilink")」の替え歌で失敗の内容を歌い、通訳の中居に叩かれる。
 
 <!-- end list -->
 
@@ -1155,19 +1155,19 @@
 
   - 百天イーグルスガンバレ\! 田応くん（中居）
       -
-        百天イーグルスは「[東北楽天ゴールデンイーグルス](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")」、田応は初代監督の[田尾安志](https://ja.wikipedia.org/wiki/田尾安志 "wikilink")、タイトルは『[がんばれ\!\!タブチくん\!\!](https://ja.wikipedia.org/wiki/がんばれ!!タブチくん!! "wikilink")』のパロディ。
+        百天イーグルスは「[東北楽天ゴールデンイーグルス](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")」、田応は初代監督の[田尾安志](../Page/田尾安志.md "wikilink")、タイトルは『[がんばれ\!\!タブチくん\!\!](../Page/がんばれ!!タブチくん!!.md "wikilink")』のパロディ。
 
 <!-- end list -->
 
   - ヒリーズヒートキャンプ（香取）
       -
-        [ビリーズブートキャンプ](https://ja.wikipedia.org/wiki/ビリーズブートキャンプ "wikilink")のパロディ。毎回芸能界を生きるコツを教える。2007年8月6日の放送でサプライズゲストで本家の[ビリー・ブランクス](https://ja.wikipedia.org/wiki/ビリー・ブランクス "wikilink")が出演し、「日本でしか放映されてないから大丈夫と思ったら大間違いだぞ」等と発言しその後本物のブートキャンプを行った。
+        [ビリーズブートキャンプ](../Page/ビリーズブートキャンプ.md "wikilink")のパロディ。毎回芸能界を生きるコツを教える。2007年8月6日の放送でサプライズゲストで本家の[ビリー・ブランクス](../Page/ビリー・ブランクス.md "wikilink")が出演し、「日本でしか放映されてないから大丈夫と思ったら大間違いだぞ」等と発言しその後本物のブートキャンプを行った。
 
 <!-- end list -->
 
-  - [昼顔](https://ja.wikipedia.org/wiki/昼顔 "wikilink")（木村・[LiLiCo](https://ja.wikipedia.org/wiki/LiLiCo "wikilink")）
+  - [昼顔](https://ja.wikipedia.org/wiki/昼顔 "wikilink")（木村・[LiLiCo](../Page/LiLiCo.md "wikilink")）
       -
-        [2014年](../Page/2014年.md "wikilink")[11月17日](../Page/11月17日.md "wikilink")初放送。ドラマ『[昼顔〜平日午後3時の恋人たち〜](https://ja.wikipedia.org/wiki/昼顔〜平日午後3時の恋人たち〜 "wikilink")』のパロディ。[2015年](../Page/2015年.md "wikilink")[1月5日](../Page/1月5日.md "wikilink")OAの回では本家『昼顔』に出演する[斎藤工](https://ja.wikipedia.org/wiki/斎藤工 "wikilink")がゲストで参加した。
+        [2014年](../Page/2014年.md "wikilink")[11月17日](../Page/11月17日.md "wikilink")初放送。ドラマ『[昼顔〜平日午後3時の恋人たち〜](https://ja.wikipedia.org/wiki/昼顔〜平日午後3時の恋人たち〜 "wikilink")』のパロディ。[2015年](../Page/2015年.md "wikilink")[1月5日](../Page/1月5日.md "wikilink")OAの回では本家『昼顔』に出演する[斎藤工](../Page/斎藤工.md "wikilink")がゲストで参加した。
 
 <!-- end list -->
 
@@ -1197,11 +1197,11 @@
 
   - ブラック・パイレーツ（木村・稲垣）
       -
-        2012年[2月6日](https://ja.wikipedia.org/wiki/2月6日 "wikilink")初放送。売れない[デスメタル](../Page/デスメタル.md "wikilink")バンド、ブラック・パイレーツが、マネージャーの稲本（稲垣）の提案で「[愛は勝つ](https://ja.wikipedia.org/wiki/愛は勝つ "wikilink")」のような前向きな歌をデスメタルにアレンジして歌うコント。ボーカルの木村を中心にバンドメンバーに[マーティ・フリードマン](https://ja.wikipedia.org/wiki/マーティ・フリードマン "wikilink")（元[メガデス](../Page/メガデス_\(バンド\).md "wikilink")）、[MASAKI](https://ja.wikipedia.org/wiki/MASAKI_\(ベーシスト\) "wikilink")（元[アニメタル](https://ja.wikipedia.org/wiki/アニメタル "wikilink")・[CANTA](https://ja.wikipedia.org/wiki/CANTA "wikilink")）、[淳士](https://ja.wikipedia.org/wiki/淳士 "wikilink")（元[SIAM SHADE](https://ja.wikipedia.org/wiki/SIAM_SHADE "wikilink")）が参加している。
+        2012年[2月6日](../Page/2月6日.md "wikilink")初放送。売れない[デスメタル](../Page/デスメタル.md "wikilink")バンド、ブラック・パイレーツが、マネージャーの稲本（稲垣）の提案で「[愛は勝つ](../Page/愛は勝つ.md "wikilink")」のような前向きな歌をデスメタルにアレンジして歌うコント。ボーカルの木村を中心にバンドメンバーに[マーティ・フリードマン](../Page/マーティ・フリードマン.md "wikilink")（元[メガデス](../Page/メガデス_\(バンド\).md "wikilink")）、[MASAKI](../Page/MASAKI_\(ベーシスト\).md "wikilink")（元[アニメタル](../Page/アニメタル.md "wikilink")・[CANTA](../Page/CANTA.md "wikilink")）、[淳士](../Page/淳士.md "wikilink")（元[SIAM SHADE](../Page/SIAM_SHADE.md "wikilink")）が参加している。
 
 <!-- end list -->
 
-  - フラワーTK（木村・[KEIKO](https://ja.wikipedia.org/wiki/KEIKO "wikilink")([globe](https://ja.wikipedia.org/wiki/globe "wikilink"))）
+  - フラワーTK（木村・[KEIKO](../Page/KEIKO.md "wikilink")([globe](https://ja.wikipedia.org/wiki/globe "wikilink"))）
       -
         1998年[6月29日](../Page/6月29日.md "wikilink")初放送。[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")のパロディ。部屋で歌うKEIKOの歌声に合わせて、フラワーロックの様に小室に扮した木村がクネクネ動く（小室本人の動きを皮肉ったもの）。
 
@@ -1228,13 +1228,13 @@
 
   - ベッキャム（香取）
       -
-        2003年[6月9日](../Page/6月9日.md "wikilink")初放送。[デビッド・ベッカム](../Page/デビッド・ベッカム.md "wikilink")のパロディ。話すのは英語ではなくなぜか[関西弁](https://ja.wikipedia.org/wiki/関西弁 "wikilink")。「べっきゃむでぇ～す\!\!」に始まる一人での漫談。常に恐妻家のヴィクトリュア夫人（モデルは[ヴィクトリア・ベッカム](https://ja.wikipedia.org/wiki/ヴィクトリア・ベッカム "wikilink")）に暴力で突っ込まれ、「ハイ、ハイ、ハイ、ハイ、ベッキャムでした\!」でしめるが、そのあと少ししゃべる。ベッキャムの英語力は[英検](../Page/実用英語技能検定.md "wikilink")4級らしい。
+        2003年[6月9日](../Page/6月9日.md "wikilink")初放送。[デビッド・ベッカム](../Page/デビッド・ベッカム.md "wikilink")のパロディ。話すのは英語ではなくなぜか[関西弁](https://ja.wikipedia.org/wiki/関西弁 "wikilink")。「べっきゃむでぇ～す\!\!」に始まる一人での漫談。常に恐妻家のヴィクトリュア夫人（モデルは[ヴィクトリア・ベッカム](../Page/ヴィクトリア・ベッカム.md "wikilink")）に暴力で突っ込まれ、「ハイ、ハイ、ハイ、ハイ、ベッキャムでした\!」でしめるが、そのあと少ししゃべる。ベッキャムの英語力は[英検](../Page/実用英語技能検定.md "wikilink")4級らしい。
 
 <!-- end list -->
 
   - ペットのPちゃん（木村・稲垣・香取・柴田理恵）
       -
-        1996年5月20日初放送。ペットのPちゃん（木村）が、飼い主のパパ（稲垣）のいない間に、ママ（[柴田理恵](https://ja.wikipedia.org/wiki/柴田理恵 "wikilink")）などの女性と不倫劇を繰り広げる。Pちゃんが不倫しているのを息子の慎吾（香取）が見てしまい、[不倫](https://ja.wikipedia.org/wiki/不倫 "wikilink")の最中に登場してやめさせる。パパが帰ってくると慎吾はPちゃんが不倫していたのを告げるがパパは信じない。2003年[10月13日](https://ja.wikipedia.org/wiki/10月13日 "wikilink")の放送を最後にママは登場しなくなり（2012年[6月11日](../Page/6月11日.md "wikilink")放送分での香取曰く、「（ママは）死んだ」との事）、それ以前はさまざまな女優が家に訪問して来るが、パパのいない間に愛を交わそうとしていた。稀に出演したゲストも交えて、ゲーム対決をする事もある。スマスマのコントのなかでは唯一下ネタが含まれる珍しいコントで、初期にはコント直前に、子供を寝かしつける様注意を促すテロップが表示されていた。類似の[コント](../Page/コント.md "wikilink")として木村が[オウム](https://ja.wikipedia.org/wiki/オウム "wikilink")を演じる「オウムのOちゃん」というのがあった。また、ゲストで[ガチャピン](../Page/ガチャピン.md "wikilink")、[ムックや](https://ja.wikipedia.org/wiki/ムック_\(キャラクター\) "wikilink")、「山Pちゃん」に扮した[山下智久](https://ja.wikipedia.org/wiki/山下智久 "wikilink")が出演したこともある。
+        1996年5月20日初放送。ペットのPちゃん（木村）が、飼い主のパパ（稲垣）のいない間に、ママ（[柴田理恵](https://ja.wikipedia.org/wiki/柴田理恵 "wikilink")）などの女性と不倫劇を繰り広げる。Pちゃんが不倫しているのを息子の慎吾（香取）が見てしまい、[不倫](https://ja.wikipedia.org/wiki/不倫 "wikilink")の最中に登場してやめさせる。パパが帰ってくると慎吾はPちゃんが不倫していたのを告げるがパパは信じない。2003年[10月13日](../Page/10月13日.md "wikilink")の放送を最後にママは登場しなくなり（2012年[6月11日](../Page/6月11日.md "wikilink")放送分での香取曰く、「（ママは）死んだ」との事）、それ以前はさまざまな女優が家に訪問して来るが、パパのいない間に愛を交わそうとしていた。稀に出演したゲストも交えて、ゲーム対決をする事もある。スマスマのコントのなかでは唯一下ネタが含まれる珍しいコントで、初期にはコント直前に、子供を寝かしつける様注意を促すテロップが表示されていた。類似の[コント](../Page/コント.md "wikilink")として木村が[オウム](https://ja.wikipedia.org/wiki/オウム "wikilink")を演じる「オウムのOちゃん」というのがあった。また、ゲストで[ガチャピン](../Page/ガチャピン.md "wikilink")、[ムックや](../Page/ムック_\(キャラクター\).md "wikilink")、「山Pちゃん」に扮した[山下智久](https://ja.wikipedia.org/wiki/山下智久 "wikilink")が出演したこともある。
 
 <!-- end list -->
 
@@ -1244,7 +1244,7 @@
 
 <!-- end list -->
 
-  - [ボイパ](https://ja.wikipedia.org/wiki/ボイスパーカッション "wikilink")（中居・草彅・香取）
+  - [ボイパ](../Page/ボイスパーカッション.md "wikilink")（中居・草彅・香取）
       -
         野球部員が軽音楽部に行き、ボイスパーカッションを自主トレーニングする。
 
@@ -1268,25 +1268,25 @@
     <!-- end list -->
       - モンスター・ツヨク
           -
-            『[モンスターズ・インク](https://ja.wikipedia.org/wiki/モンスターズ・インク "wikilink")』のパロディ。
+            『[モンスターズ・インク](../Page/モンスターズ・インク.md "wikilink")』のパロディ。
       - ファインディング・ツモ
           -
             『[ファインディング・ニモ](../Page/ファインディング・ニモ.md "wikilink")』のパロディ。
       - ホーンテッドツヨション
           -
-            『[ホーンテッドマンション](https://ja.wikipedia.org/wiki/ホーンテッドマンション "wikilink")』のパロディ。
+            『[ホーンテッドマンション](../Page/ホーンテッドマンション.md "wikilink")』のパロディ。
 
 <!-- end list -->
 
   - ホストマンブルース（木村・稲垣）
       -
-        [2002年](../Page/2002年.md "wikilink")2月4日初放送。No.1ホスト・ヒカル（木村）、No.2ホスト・優雅（稲垣）らが、さまざまな「おもてなし」を行う。また2005年10月からは、恋のマイア火（「[恋のマイアヒ](https://ja.wikipedia.org/wiki/恋のマイアヒ "wikilink")」の[替え歌](https://ja.wikipedia.org/wiki/替え歌 "wikilink")）でパラパラを踊りながら登場し、酒に迷える子羊?を救う。2006年は、若手芸人と絡む機会が増えている。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[9月4日](../Page/9月4日.md "wikilink")の『[SmaSTATION\!\!](https://ja.wikipedia.org/wiki/SmaSTATION!! "wikilink")』の「ベストヒットスマステーションニッポン人が選ぶ洋楽一発屋ベスト30」において、このコーナーがきっかけで「恋のマイアヒ」がブレイクしたとして、ヒカル・優雅の映像込みで紹介された。
+        [2002年](../Page/2002年.md "wikilink")2月4日初放送。No.1ホスト・ヒカル（木村）、No.2ホスト・優雅（稲垣）らが、さまざまな「おもてなし」を行う。また2005年10月からは、恋のマイア火（「[恋のマイアヒ](../Page/恋のマイアヒ.md "wikilink")」の[替え歌](../Page/替え歌.md "wikilink")）でパラパラを踊りながら登場し、酒に迷える子羊?を救う。2006年は、若手芸人と絡む機会が増えている。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[9月4日](../Page/9月4日.md "wikilink")の『[SmaSTATION\!\!](../Page/SmaSTATION!!.md "wikilink")』の「ベストヒットスマステーションニッポン人が選ぶ洋楽一発屋ベスト30」において、このコーナーがきっかけで「恋のマイアヒ」がブレイクしたとして、ヒカル・優雅の映像込みで紹介された。
 
 <!-- end list -->
 
   - ホレ八先生（中居）
       -
-        [TBS系の学園ドラマシリーズ](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")『[3年B組金八先生](https://ja.wikipedia.org/wiki/3年B組金八先生 "wikilink")』のパロディ。生徒役の中には声優の[飯田里穂](../Page/飯田里穂.md "wikilink")が出演していた。
+        [TBS系の学園ドラマシリーズ](../Page/TBSテレビ.md "wikilink")『[3年B組金八先生](https://ja.wikipedia.org/wiki/3年B組金八先生 "wikilink")』のパロディ。生徒役の中には声優の[飯田里穂](../Page/飯田里穂.md "wikilink")が出演していた。
 
 <!-- end list -->
 
@@ -1320,9 +1320,9 @@
 
 <!-- end list -->
 
-  - マジシャン・ゼロ（木村・[白石美帆](https://ja.wikipedia.org/wiki/白石美帆 "wikilink")・[田中要次](https://ja.wikipedia.org/wiki/田中要次 "wikilink")）
+  - マジシャン・ゼロ（木村・[白石美帆](https://ja.wikipedia.org/wiki/白石美帆 "wikilink")・[田中要次](../Page/田中要次.md "wikilink")）
       -
-        2006年[12月4日](../Page/12月4日.md "wikilink")初放送。[セロのパロディ](https://ja.wikipedia.org/wiki/セロ_\(マジシャン\) "wikilink")。2006年[12月4日](../Page/12月4日.md "wikilink")放送の回で初登場。ゼロ（木村）がお客さんを前に店で本気でマジックをするが結局は店員（田中要次）に突っ込まれてしまう。2007年[7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink")放送分では特番の番宣でセロ本人が出演、マジックで出演者の度肝を抜いた。この他2007年[3月12日](../Page/3月12日.md "wikilink")放送分に、ゲストとして[哀川翔](../Page/哀川翔.md "wikilink")が、[10月29日](../Page/10月29日.md "wikilink")に[山本耕史](https://ja.wikipedia.org/wiki/山本耕史 "wikilink")が出演している。2007年10月8日に放送された特別企画「スマスマ キャラクター祭り」では、このパートのみ、ナレーションは本家『マジック革命\!\!セロ\!』で務めている[立木文彦](https://ja.wikipedia.org/wiki/立木文彦 "wikilink")が担当した。2007年6月～9月など[白石美帆](https://ja.wikipedia.org/wiki/白石美帆 "wikilink")が連続ドラマに出演している期間は別々の有名女優が単発で白石の代役を務めていたが、白石のスケジュールが空いた10月以降は予定通りレギュラー復帰している。
+        2006年[12月4日](../Page/12月4日.md "wikilink")初放送。[セロのパロディ](../Page/セロ_\(マジシャン\).md "wikilink")。2006年[12月4日](../Page/12月4日.md "wikilink")放送の回で初登場。ゼロ（木村）がお客さんを前に店で本気でマジックをするが結局は店員（田中要次）に突っ込まれてしまう。2007年[7月23日](../Page/7月23日.md "wikilink")放送分では特番の番宣でセロ本人が出演、マジックで出演者の度肝を抜いた。この他2007年[3月12日](../Page/3月12日.md "wikilink")放送分に、ゲストとして[哀川翔](../Page/哀川翔.md "wikilink")が、[10月29日](../Page/10月29日.md "wikilink")に[山本耕史](../Page/山本耕史.md "wikilink")が出演している。2007年10月8日に放送された特別企画「スマスマ キャラクター祭り」では、このパートのみ、ナレーションは本家『マジック革命\!\!セロ\!』で務めている[立木文彦](../Page/立木文彦.md "wikilink")が担当した。2007年6月～9月など[白石美帆](https://ja.wikipedia.org/wiki/白石美帆 "wikilink")が連続ドラマに出演している期間は別々の有名女優が単発で白石の代役を務めていたが、白石のスケジュールが空いた10月以降は予定通りレギュラー復帰している。
 
 <!-- end list -->
 
@@ -1350,7 +1350,7 @@
 
 <!-- end list -->
 
-  - もう一つの・・・北の国から～あこがれて～（香取、木村、稲垣、中居、草彅、[志賀勝](https://ja.wikipedia.org/wiki/志賀勝 "wikilink")、[大森暁美](https://ja.wikipedia.org/wiki/大森暁美 "wikilink")、[内山理名](https://ja.wikipedia.org/wiki/内山理名 "wikilink")、松山千春(福島在住の一般人)、[小堺一機](../Page/小堺一機.md "wikilink")）
+  - もう一つの・・・北の国から～あこがれて～（香取、木村、稲垣、中居、草彅、[志賀勝](../Page/志賀勝.md "wikilink")、[大森暁美](../Page/大森暁美.md "wikilink")、[内山理名](https://ja.wikipedia.org/wiki/内山理名 "wikilink")、松山千春(福島在住の一般人)、[小堺一機](../Page/小堺一機.md "wikilink")）
       -
         ドラマ『[北の国から](../Page/北の国から.md "wikilink")』に魅入られて北海道にやってきた一家の物語。
 
@@ -1358,13 +1358,13 @@
 
   - もうひとつの砂時計（香取、草彅、稲垣、[美山加恋](../Page/美山加恋.md "wikilink")）
       -
-        [TBSの](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")[愛の劇場](../Page/愛の劇場.md "wikilink")枠で放送されていた[昼ドラ](https://ja.wikipedia.org/wiki/昼ドラマ "wikilink")『[砂時計](https://ja.wikipedia.org/wiki/砂時計_\(漫画\)#テレビドラマ "wikilink")』のパロディ。
+        [TBSの](../Page/TBSテレビ.md "wikilink")[愛の劇場](../Page/愛の劇場.md "wikilink")枠で放送されていた[昼ドラ](https://ja.wikipedia.org/wiki/昼ドラマ "wikilink")『[砂時計](https://ja.wikipedia.org/wiki/砂時計_\(漫画\)#テレビドラマ "wikilink")』のパロディ。
 
 <!-- end list -->
 
   - もうひとつの銭の戦争（草彅・香取・[ジュディ・オング](https://ja.wikipedia.org/wiki/ジュディ・オング "wikilink")）
       -
-        2015年[3月9日](../Page/3月9日.md "wikilink")放送。草彅が主演したドラマ『[銭の戦争](https://ja.wikipedia.org/wiki/銭の戦争 "wikilink")』のパロディ。
+        2015年[3月9日](../Page/3月9日.md "wikilink")放送。草彅が主演したドラマ『[銭の戦争](../Page/銭の戦争.md "wikilink")』のパロディ。
 
 <!-- end list -->
 
@@ -1410,7 +1410,7 @@
 
   - ユージくん（香取）
       -
-        1998年[5月18日](../Page/5月18日.md "wikilink")初放送。香取の出演していたドラマ『[恋はあせらず](https://ja.wikipedia.org/wiki/恋はあせらず "wikilink")』の織田裕二のパロディ。衣装は本家ドラマで使用しているものが使われた。
+        1998年[5月18日](../Page/5月18日.md "wikilink")初放送。香取の出演していたドラマ『[恋はあせらず](../Page/恋はあせらず.md "wikilink")』の織田裕二のパロディ。衣装は本家ドラマで使用しているものが使われた。
 
 <!-- end list -->
 
@@ -1422,7 +1422,7 @@
 
   - 世にも微妙な物語（草彅・木村）
       -
-        『[世にも奇妙な物語](https://ja.wikipedia.org/wiki/世にも奇妙な物語 "wikilink")』のパロディ。草彅がタモリならぬツモリに扮して、"微妙"な光景を紹介。過去には『[ウッチャンナンチャンのやるならやらねば\!](https://ja.wikipedia.org/wiki/ウッチャンナンチャンのやるならやらねば! "wikilink")』でも同名企画が制作、放送されていた。
+        『[世にも奇妙な物語](https://ja.wikipedia.org/wiki/世にも奇妙な物語 "wikilink")』のパロディ。草彅がタモリならぬツモリに扮して、"微妙"な光景を紹介。過去には『[ウッチャンナンチャンのやるならやらねば\!](../Page/ウッチャンナンチャンのやるならやらねば!.md "wikilink")』でも同名企画が制作、放送されていた。
 
 ## ら行
 
@@ -1440,25 +1440,25 @@
 
   - レオナルド・タクプリオ（「イタイタニック」）（木村・稲垣・草彅・香取・[りょう](https://ja.wikipedia.org/wiki/りょう "wikilink")）
       -
-        [レオナルド・ディカプリオ](https://ja.wikipedia.org/wiki/レオナルド・ディカプリオ "wikilink")のパロディ&映画『[タイタニック](https://ja.wikipedia.org/wiki/タイタニック_\(1997年の映画\) "wikilink")』のパロディ。
+        [レオナルド・ディカプリオ](../Page/レオナルド・ディカプリオ.md "wikilink")のパロディ&映画『[タイタニック](../Page/タイタニック_\(1997年の映画\).md "wikilink")』のパロディ。
 
 <!-- end list -->
 
   - レッサーパンダ ツウ太くん（草彅・[羽田美智子](https://ja.wikipedia.org/wiki/羽田美智子 "wikilink")）
       -
-        2005年に話題となった[レッサーパンダ](https://ja.wikipedia.org/wiki/レッサーパンダ "wikilink")・風太くんのパロディ。レッサーパンダのツウ太くんに草彅が扮する。
+        2005年に話題となった[レッサーパンダ](../Page/レッサーパンダ.md "wikilink")・風太くんのパロディ。レッサーパンダのツウ太くんに草彅が扮する。
 
 <!-- end list -->
 
   - ローステッド・ボテト（中居・香取）
       -
-        ピザ宅配会社の[ピザーラ](https://ja.wikipedia.org/wiki/ピザーラ "wikilink")の商品、「ローステット・ポテト」のパロディ。
+        ピザ宅配会社の[ピザーラ](../Page/ピザーラ.md "wikilink")の商品、「ローステット・ポテト」のパロディ。
 
 <!-- end list -->
 
   - ロンバケパロディ（稲垣・草彅・香取）
       -
-        木村の主演ドラマ『[ロングバケーション](https://ja.wikipedia.org/wiki/ロングバケーション_\(テレビドラマ\) "wikilink")』のパロディ。稲垣・草彅・香取の3人が、本家で[山口智子](https://ja.wikipedia.org/wiki/山口智子 "wikilink")が演じた葉山南に扮する。
+        木村の主演ドラマ『[ロングバケーション](../Page/ロングバケーション_\(テレビドラマ\).md "wikilink")』のパロディ。稲垣・草彅・香取の3人が、本家で[山口智子](https://ja.wikipedia.org/wiki/山口智子 "wikilink")が演じた葉山南に扮する。
 
 ## わ行
 
@@ -1470,27 +1470,27 @@
 
   - 我が名はジャック（木村）
       -
-        2003年[12月8日](../Page/12月8日.md "wikilink")初放送。木村扮するジャック船長（映画『[パイレーツ・オブ・カリビアン](https://ja.wikipedia.org/wiki/パイレーツ・オブ・カリビアン "wikilink")』主人公[ジャック・スパロウ](https://ja.wikipedia.org/wiki/ジャック・スパロウ "wikilink")のパロディ）が、幼稚園や動物園の「園長」になったり、船内でアニメのキャラクターと掛け合いをする。
+        2003年[12月8日](../Page/12月8日.md "wikilink")初放送。木村扮するジャック船長（映画『[パイレーツ・オブ・カリビアン](../Page/パイレーツ・オブ・カリビアン.md "wikilink")』主人公[ジャック・スパロウ](../Page/ジャック・スパロウ.md "wikilink")のパロディ）が、幼稚園や動物園の「園長」になったり、船内でアニメのキャラクターと掛け合いをする。
 
 ## 複数登場キャラクター
 
 複数のコントに登場したキャラクターや、香取・草彅・中居が『[笑っていいとも\!年忘れ特大号\!](https://ja.wikipedia.org/wiki/笑っていいとも!特大号#いいとも!ものまね歌合戦 "wikilink")』の「いいとも\!ものまね紅白歌合戦」ので演じたキャラクターなど。
 
   - イビチャ・オシモ
-    草彅が演じるキャラクター。[サッカー日本代表](https://ja.wikipedia.org/wiki/サッカー日本代表 "wikilink")監督の[イビチャ・オシム](https://ja.wikipedia.org/wiki/イビチャ・オシム "wikilink")のパロディ。コント「[悲劇の監督 オシモ](https://ja.wikipedia.org/wiki/#は行 "wikilink")」と2006年度「いいとも\!ものまね歌合戦」に登場。
+    草彅が演じるキャラクター。[サッカー日本代表](../Page/サッカー日本代表.md "wikilink")監督の[イビチャ・オシム](../Page/イビチャ・オシム.md "wikilink")のパロディ。コント「[悲劇の監督 オシモ](https://ja.wikipedia.org/wiki/#は行 "wikilink")」と2006年度「いいとも\!ものまね歌合戦」に登場。
   - MCカマー
-    香取が演じるキャラクター。[MCハマー](https://ja.wikipedia.org/wiki/MCハマー "wikilink")のパロディ。また、香取は『[サタ☆スマ](https://ja.wikipedia.org/wiki/サタ☆スマ "wikilink")』でも同キャラを演じたことがある。コント「[MCカマー](https://ja.wikipedia.org/wiki/#あ行 "wikilink")」と2001年度「いいとも\!ものまね歌合戦」に登場。なお、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")に放送された『[FNS27時間テレビ みんな“なまか”だっ\!ウッキー\!ハッピー\!西遊記\!](https://ja.wikipedia.org/wiki/FNS27時間テレビ_\(2007年\) "wikilink")』においてMCハマー本人との共演が実現した。
+    香取が演じるキャラクター。[MCハマー](https://ja.wikipedia.org/wiki/MCハマー "wikilink")のパロディ。また、香取は『[サタ☆スマ](../Page/サタ☆スマ.md "wikilink")』でも同キャラを演じたことがある。コント「[MCカマー](https://ja.wikipedia.org/wiki/#あ行 "wikilink")」と2001年度「いいとも\!ものまね歌合戦」に登場。なお、[2007年](../Page/2007年.md "wikilink")に放送された『[FNS27時間テレビ みんな“なまか”だっ\!ウッキー\!ハッピー\!西遊記\!](../Page/FNS27時間テレビ_\(2007年\).md "wikilink")』においてMCハマー本人との共演が実現した。
   - カツケン
     香取が演じるキャラクター。コント「[カツケンサンバ](https://ja.wikipedia.org/wiki/#か行 "wikilink")」と2004年度「いいとも\!ものまね歌合戦」に登場。
   - 香取邦衛
     香取が演じるキャラクター。コント「[村長さん](https://ja.wikipedia.org/wiki/#さ行 "wikilink")」と2000年度「いいとも\!ものまね歌合戦」に登場。
-  - 子役　鈴木愛菜夫（香取・稲垣・草彅・[杉田かおる](../Page/杉田かおる.md "wikilink")・[安達祐実](https://ja.wikipedia.org/wiki/安達祐実 "wikilink")・[坂上忍](https://ja.wikipedia.org/wiki/坂上忍 "wikilink")・[まさお君](https://ja.wikipedia.org/wiki/まさお君 "wikilink")）
-    香取が演じるキャラクター。名前は[芦田愛菜](https://ja.wikipedia.org/wiki/芦田愛菜 "wikilink")と[鈴木福](https://ja.wikipedia.org/wiki/鈴木福 "wikilink")を合わせたもので読みは「すずきまなぶ」。子役なのに大人びている鈴木愛菜夫(香取)が、草川マネージャー(草彅)をこき使う。この他、稲山プロデューサー(稲垣)も登場。[2012年](../Page/2012年.md "wikilink")[2月6日](https://ja.wikipedia.org/wiki/2月6日 "wikilink")に放送された第2回には、母親役として安達祐実が出演。
+  - 子役　鈴木愛菜夫（香取・稲垣・草彅・[杉田かおる](../Page/杉田かおる.md "wikilink")・[安達祐実](../Page/安達祐実.md "wikilink")・[坂上忍](../Page/坂上忍.md "wikilink")・[まさお君](../Page/まさお君.md "wikilink")）
+    香取が演じるキャラクター。名前は[芦田愛菜](https://ja.wikipedia.org/wiki/芦田愛菜 "wikilink")と[鈴木福](https://ja.wikipedia.org/wiki/鈴木福 "wikilink")を合わせたもので読みは「すずきまなぶ」。子役なのに大人びている鈴木愛菜夫(香取)が、草川マネージャー(草彅)をこき使う。この他、稲山プロデューサー(稲垣)も登場。[2012年](../Page/2012年.md "wikilink")[2月6日](../Page/2月6日.md "wikilink")に放送された第2回には、母親役として安達祐実が出演。
     なお、タイトルの表記は『』となっており、いかにも上記の2人の名前をもじったことがわかるようなコントだった。また、鈴木の出演作『[妖怪人間ベム](https://ja.wikipedia.org/wiki/妖怪人間ベム_\(テレビドラマ\) "wikilink")』(ドラマ版の放送は[日本テレビだったが](../Page/日本テレビ放送網.md "wikilink")、オリジナルのアニメはフジテレビが放送)のタイトルを模した『怪獣人間デラ』なるドラマの撮影シーンも描かれた。
     第1回の時点でのタイトルは「天才子役 鈴木愛菜夫」で、2012年[5月7日](../Page/5月7日.md "wikilink")に放送された第3回では「ズル賢い子役 鈴木愛菜夫」とタイトルが一定していない。
     香取は2011年と2012年の『[笑っていいとも\!特大号](https://ja.wikipedia.org/wiki/笑っていいとも!特大号 "wikilink")』の「ものまね歌合戦」ではこのキャラクターで出場し、演目を披露した（ただし、名前はモデルとなっている「[鈴木福](https://ja.wikipedia.org/wiki/鈴木福 "wikilink")」名義。2011年は[柳原可奈子](https://ja.wikipedia.org/wiki/柳原可奈子 "wikilink")とコラボした。ちなみに柳原は[芦田愛菜](https://ja.wikipedia.org/wiki/芦田愛菜 "wikilink")のものまねをした。）。
   - しょうわ時代（中居・おやじダンサーズ）
-    2011年8月15日初放送。中山さん（中居）率いる中高年男性たちが[少女時代のダンスをするコント](https://ja.wikipedia.org/wiki/少女時代_\(音楽グループ\) "wikilink")。2012年3月の第14回[東京ガールズコレクション](https://ja.wikipedia.org/wiki/東京ガールズコレクション "wikilink")にゲスト出演した。2011年の「いいとも特大号」のものまね歌合戦にも登場。前半のコントシーンは事前収録だった。
+    2011年8月15日初放送。中山さん（中居）率いる中高年男性たちが[少女時代のダンスをするコント](https://ja.wikipedia.org/wiki/少女時代_\(音楽グループ\) "wikilink")。2012年3月の第14回[東京ガールズコレクション](../Page/東京ガールズコレクション.md "wikilink")にゲスト出演した。2011年の「いいとも特大号」のものまね歌合戦にも登場。前半のコントシーンは事前収録だった。
   - ツヨシかじり虫
     草彅が演じるキャラクター。コント「[ツヨシかじり虫](https://ja.wikipedia.org/wiki/#た行 "wikilink")」と2007年度「いいとも\!ものまね歌合戦」に登場。
   - NIKKOさん
@@ -1498,7 +1498,7 @@
   - ニワさん
     香取演じるキャラクター。コント「[ニワさん](https://ja.wikipedia.org/wiki/#な行 "wikilink")」と2006年度「いいとも\!ものまね歌合戦」に登場。
   - マー坊
-    中居が演じるキャラクター。コント「[マー坊](https://ja.wikipedia.org/wiki/#ま行 "wikilink")」や『[めちゃ²イケてるッ\!](https://ja.wikipedia.org/wiki/めちゃ×2イケてるッ! "wikilink")』の「[数取団](https://ja.wikipedia.org/wiki/数取団 "wikilink")」や『[キスマイBUSAIKU\!?](https://ja.wikipedia.org/wiki/キスマイBUSAIKU!? "wikilink")』等に登場。
+    中居が演じるキャラクター。コント「[マー坊](https://ja.wikipedia.org/wiki/#ま行 "wikilink")」や『[めちゃ²イケてるッ\!](../Page/めちゃ×2イケてるッ!.md "wikilink")』の「[数取団](https://ja.wikipedia.org/wiki/数取団 "wikilink")」や『[キスマイBUSAIKU\!?](https://ja.wikipedia.org/wiki/キスマイBUSAIKU!? "wikilink")』等に登場。
   - 森山剛太朗
     草彅が演じるキャラクター。[森山直太朗](../Page/森山直太朗.md "wikilink")のパロディ。コント「[森山剛太朗](https://ja.wikipedia.org/wiki/#ま行 "wikilink")」と2003年度「いいとも\!ものまね歌合戦」に登場。後者でタモリは「気が付かなかったけど(森山に)似てんだな、もともと」と発言している。
 

@@ -1,7 +1,7 @@
 > この記事は[DRY\&HEAVY](https://ja.wikipedia.org/wiki/DRY\&HEAVY)から翻訳されています。
 
 
-**DRY\&HEAVY**（ドライ・アンド・ヘヴィ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のバンド、[ダブ](https://ja.wikipedia.org/wiki/ダブ "wikilink")[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")[ユニットである](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")。1991年七尾と秋本の2人によって結成。通称「ドラヘヴィ」。
+**DRY\&HEAVY**（ドライ・アンド・ヘヴィ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のバンド、[ダブ](../Page/ダブ.md "wikilink")[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")[ユニットである](../Page/音楽ユニット.md "wikilink")。1991年七尾と秋本の2人によって結成。通称「ドラヘヴィ」。
 
 ## 概要
 
@@ -69,7 +69,7 @@
 
 <!-- end list -->
 
-  - [Keyco](https://ja.wikipedia.org/wiki/Keyco "wikilink")「SUMMERHOLIC」（2001年7月11日）
+  - [Keyco](../Page/Keyco.md "wikilink")「SUMMERHOLIC」（2001年7月11日）
 
 <!-- end list -->
 
@@ -87,7 +87,7 @@
 
 <!-- end list -->
 
-  - [Shing02](https://ja.wikipedia.org/wiki/Shing02 "wikilink")「SHING02 LIMITED EXPRESS MIX Mixed by DJ ICE WATER」（2003年9月18日）
+  - [Shing02](../Page/Shing02.md "wikilink")「SHING02 LIMITED EXPRESS MIX Mixed by DJ ICE WATER」（2003年9月18日）
 
 <!-- end list -->
 
@@ -105,7 +105,7 @@
 
 <!-- end list -->
 
-  - [キリンジ](https://ja.wikipedia.org/wiki/キリンジ "wikilink")「鋼鉄の馬」（2002年11月7日）
+  - [キリンジ](../Page/キリンジ.md "wikilink")「鋼鉄の馬」（2002年11月7日）
 
 <!-- end list -->
 
@@ -115,7 +115,7 @@
 
 <!-- end list -->
 
-  - [Dragon Ash](https://ja.wikipedia.org/wiki/Dragon_Ash "wikilink")「morrow」（2003年6月25日）
+  - [Dragon Ash](../Page/Dragon_Ash.md "wikilink")「morrow」（2003年6月25日）
 
 <!-- end list -->
 
@@ -133,7 +133,7 @@
 
 <!-- end list -->
 
-  - [NIRGILIS](https://ja.wikipedia.org/wiki/NIRGILIS "wikilink")「GIRL」（2007年2月21日）
+  - [NIRGILIS](../Page/NIRGILIS.md "wikilink")「GIRL」（2007年2月21日）
 
 <!-- end list -->
 
@@ -145,8 +145,8 @@
   - [audio active](https://ja.wikipedia.org/wiki/audio_active "wikilink")
   - [REBEL FAMILIA](https://ja.wikipedia.org/wiki/REBEL_FAMILIA "wikilink")
   - [THE HEAVYMANNERS](https://ja.wikipedia.org/wiki/THE_HEAVYMANNERS "wikilink")
-  - [SPARTA LOCALS](https://ja.wikipedia.org/wiki/SPARTA_LOCALS "wikilink")
-  - [HONDALADY](https://ja.wikipedia.org/wiki/HONDALADY "wikilink")
+  - [SPARTA LOCALS](../Page/SPARTA_LOCALS.md "wikilink")
+  - [HONDALADY](../Page/HONDALADY.md "wikilink")
 
 ## 外部リンク
 

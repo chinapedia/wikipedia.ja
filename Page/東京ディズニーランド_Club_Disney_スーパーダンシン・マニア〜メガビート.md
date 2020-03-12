@@ -6,13 +6,13 @@
 ## 解説
 
   - このCDはイベントで使用された楽曲を収録しているが、CDに収録されたものがそのままパークで使われたわけではなく、ショー用にアレンジして使用された。そのため、曲の中にはショーでは使われていない部分やショーの音源と異なる部分が存在する。また、ショーでは流されたが、CDには収録していない楽曲もある。
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[2月7日](../Page/2月7日.md "wikilink")〜[2月9日](../Page/2月9日.md "wikilink")にかけて東京ディズニーランドで開催された『Club Disney スーパーダンシン・マニア』の後継イベント『[東京ディズニーランド・スペシャルナイト CLUB DISNEY "スーパーダンシン・マニアRemix"](https://ja.wikipedia.org/wiki/東京ディズニーランド・スペシャルナイト_CLUB_DISNEY_"スーパーダンシン・マニアRemix" "wikilink")』では、このCDに収録されている楽曲が数曲使われている。それに関連して、このCDも[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink")に再リリースされた。
+  - [2007年](../Page/2007年.md "wikilink")[2月7日](../Page/2月7日.md "wikilink")〜[2月9日](../Page/2月9日.md "wikilink")にかけて東京ディズニーランドで開催された『Club Disney スーパーダンシン・マニア』の後継イベント『[東京ディズニーランド・スペシャルナイト CLUB DISNEY "スーパーダンシン・マニアRemix"](https://ja.wikipedia.org/wiki/東京ディズニーランド・スペシャルナイト_CLUB_DISNEY_"スーパーダンシン・マニアRemix" "wikilink")』では、このCDに収録されている楽曲が数曲使われている。それに関連して、このCDも[2007年](../Page/2007年.md "wikilink")[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink")に再リリースされた。
 
 ## 収録曲
 
 1.  クラブ・ディズニー　Club Disney
 
-2.  [ナイト・オブ・ファイヤー](https://ja.wikipedia.org/wiki/NIGHT_OF_FIRE "wikilink")　Night of Fire　歌：ニコ
+2.  [ナイト・オブ・ファイヤー](../Page/NIGHT_OF_FIRE.md "wikilink")　Night of Fire　歌：ニコ
 
 3.  　Boom\! Boom\! Boom\! Boom\!　歌：[ベンガボーイズ](https://ja.wikipedia.org/wiki/ベンガボーイズ "wikilink")
 

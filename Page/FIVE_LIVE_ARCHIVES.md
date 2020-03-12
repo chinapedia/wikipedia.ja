@@ -1,11 +1,11 @@
 > この記事は[FIVE LIVE ARCHIVES](https://ja.wikipedia.org/wiki/FIVE_LIVE_ARCHIVES)から翻訳されています。
 
 
-『**FIVE LIVE ARCHIVES**』（ファイブ・ライブ・アーカイブス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")のライブビデオ（[DVD-BOX](https://ja.wikipedia.org/wiki/DVD-BOX "wikilink")）。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月4日](../Page/4月4日.md "wikilink")発売。発売元は[Ki/oon Records](https://ja.wikipedia.org/wiki/キューンミュージック "wikilink")。
+『**FIVE LIVE ARCHIVES**』（ファイブ・ライブ・アーカイブス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")のライブビデオ（[DVD-BOX](https://ja.wikipedia.org/wiki/DVD-BOX "wikilink")）。[2007年](../Page/2007年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")発売。発売元は[Ki/oon Records](../Page/キューンミュージック.md "wikilink")。
 
 ## 解説
 
-L'Arc〜en〜Cielの結成15周年を記念して行われた「L'Anniversary」の一環により発売。内容は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")までに行われたL'Arc〜en〜Cielのライブ・コンサートツアーの中から、これまで市販映像化されていなかった・一部しか公開されていなかったうちの5公演を、DVD5枚組のボックスとして発売したもの。ちなみに、当初は「[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")発売」とアナウンスされていたが、発売直前に4月4日へと延期されている。
+L'Arc〜en〜Cielの結成15周年を記念して行われた「L'Anniversary」の一環により発売。内容は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")から[2005年](../Page/2005年.md "wikilink")までに行われたL'Arc〜en〜Cielのライブ・コンサートツアーの中から、これまで市販映像化されていなかった・一部しか公開されていなかったうちの5公演を、DVD5枚組のボックスとして発売したもの。ちなみに、当初は「[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")発売」とアナウンスされていたが、発売直前に4月4日へと延期されている。
 
 仕様は、平常発売されるライブビデオ作品とは異なり、予約のみの完全生産限定という発売形態が取られ、プラスチック製の外装ケース（黒色）、320ページにも渡る付属のブックレットには収録ライブ（パンフレットが販売されなかった「RESET\>\>LIVE\*000」を除く）の縮刷版パンフレットが収められた豪華仕様であるほか、音声の[ドルビーサラウンド5.1ch化](../Page/ドルビーデジタル.md "wikilink")、過去に[当該公演の市販化が行われている「ハートに〜」では](../Page/ハートに火をつけろ!.md "wikilink")、内容の重複した数曲で若干のカメラワーク変更がなされるなどの編集が施された。
 
@@ -21,26 +21,26 @@ L'Arc〜en〜Cielの結成15周年を記念して行われた「L'Anniversary」
 
 <!-- end list -->
 
-1.  **[浸食 〜lose control〜](https://ja.wikipedia.org/wiki/浸食_〜lose_control〜 "wikilink")**
+1.  **[浸食 〜lose control〜](../Page/浸食_〜lose_control〜.md "wikilink")**
 2.  **[birth\!](https://ja.wikipedia.org/wiki/HEART_\(L'Arc〜en〜Cielのアルバム\)#収録曲 "wikilink")**
 3.  '''[Round and Round](https://ja.wikipedia.org/wiki/True_\(L'Arc〜en〜Cielのアルバム\)#収録曲 "wikilink")
-4.  **[flower](https://ja.wikipedia.org/wiki/Flower_\(L'Arc〜en〜Cielの曲\) "wikilink")**
+4.  **[flower](../Page/Flower_\(L'Arc〜en〜Cielの曲\).md "wikilink")**
 5.  **[metropolis](https://ja.wikipedia.org/wiki/winter_fall#収録曲 "wikilink")**
 6.  **[winter fall](https://ja.wikipedia.org/wiki/winter_fall "wikilink")**
 7.  **[forbidden lover](https://ja.wikipedia.org/wiki/forbidden_lover "wikilink")**
 8.  **[fate](https://ja.wikipedia.org/wiki/HEART_\(L'Arc〜en〜Cielのアルバム\)#収録曲 "wikilink")**
 9.  **[LORELEY](https://ja.wikipedia.org/wiki/HEART_\(L'Arc〜en〜Cielのアルバム\)#収録曲 "wikilink")**
-10. **[花葬](https://ja.wikipedia.org/wiki/花葬 "wikilink")**
-11. **[虹](https://ja.wikipedia.org/wiki/虹_\(L'Arc〜en〜Cielの曲\) "wikilink")**
+10. **[花葬](../Page/花葬.md "wikilink")**
+11. **[虹](../Page/虹_\(L'Arc〜en〜Cielの曲\).md "wikilink")**
 12. **[Promised land](https://ja.wikipedia.org/wiki/HEART_\(L'Arc〜en〜Cielのアルバム\)#収録曲 "wikilink")**
 13. **[Caress of Venus](https://ja.wikipedia.org/wiki/True_\(L'Arc〜en〜Cielのアルバム\)#収録曲 "wikilink")**
 14. **[milky way](https://ja.wikipedia.org/wiki/HEART_\(L'Arc〜en〜Cielのアルバム\)#収録曲 "wikilink")**
-15. **[HONEY](https://ja.wikipedia.org/wiki/HONEY_\(L'Arc〜en〜Cielの曲\) "wikilink")**
+15. **[HONEY](../Page/HONEY_\(L'Arc〜en〜Cielの曲\).md "wikilink")**
 16. **[Shout at the Devil](https://ja.wikipedia.org/wiki/HEART_\(L'Arc〜en〜Cielのアルバム\)#収録曲 "wikilink")**
 17. **[snow drop](https://ja.wikipedia.org/wiki/snow_drop_\(L'Arc〜en〜Cielの曲\) "wikilink")**
-18. **[Lies and Truth](https://ja.wikipedia.org/wiki/Lies_and_Truth "wikilink")**
-19. **[Blurry Eyes](https://ja.wikipedia.org/wiki/Blurry_Eyes "wikilink")**
-20. **[DIVE TO BLUE](https://ja.wikipedia.org/wiki/DIVE_TO_BLUE "wikilink")**
+18. **[Lies and Truth](../Page/Lies_and_Truth.md "wikilink")**
+19. **[Blurry Eyes](../Page/Blurry_Eyes.md "wikilink")**
+20. **[DIVE TO BLUE](../Page/DIVE_TO_BLUE.md "wikilink")**
 21. **[あなた](https://ja.wikipedia.org/wiki/HEART_\(L'Arc〜en〜Cielのアルバム\)#収録曲 "wikilink")**
 
 ### Disc 2
@@ -53,8 +53,8 @@ L'Arc〜en〜Cielの結成15周年を記念して行われた「L'Anniversary」
 
 <!-- end list -->
 
-1.  **[Driver's High](https://ja.wikipedia.org/wiki/Driver's_High "wikilink")**
-2.  **[HEAVEN'S DRIVE](https://ja.wikipedia.org/wiki/HEAVEN'S_DRIVE "wikilink")**
+1.  **[Driver's High](../Page/Driver's_High.md "wikilink")**
+2.  **[HEAVEN'S DRIVE](../Page/HEAVEN'S_DRIVE.md "wikilink")**
 3.  **[死の灰](https://ja.wikipedia.org/wiki/Ray_\(アルバム\)#収録曲 "wikilink")**
 4.  **[It's the end](https://ja.wikipedia.org/wiki/Ray_\(アルバム\)#収録曲 "wikilink")**
 5.  **[真実と幻想と](https://ja.wikipedia.org/wiki/Ark_\(アルバム\)#収録曲 "wikilink")**
@@ -72,11 +72,11 @@ L'Arc〜en〜Cielの結成15周年を記念して行われた「L'Anniversary」
 17. **Promised land**
 18. **Caress of Venus**
 19. **milky way**
-20. **[Pieces](https://ja.wikipedia.org/wiki/Pieces_\(L'Arc〜en〜Cielの曲\) "wikilink")**
+20. **[Pieces](../Page/Pieces_\(L'Arc〜en〜Cielの曲\).md "wikilink")**
 
 ### Disc 3
 
-  - 「RESET\>\>LIVE\*000」 [Dec.31.](../Page/12月31日.md "wikilink")1999-[Jan.1.](https://ja.wikipedia.org/wiki/1月1日 "wikilink")[2000](../Page/2000年.md "wikilink") 東京ビッグサイト東館展示ホール
+  - 「RESET\>\>LIVE\*000」 [Dec.31.](../Page/12月31日.md "wikilink")1999-[Jan.1.](../Page/1月1日.md "wikilink")[2000](../Page/2000年.md "wikilink") 東京ビッグサイト東館展示ホール
 
 <!-- end list -->
 
@@ -88,7 +88,7 @@ L'Arc〜en〜Cielの結成15周年を記念して行われた「L'Anniversary」
 1.  **[finale](https://ja.wikipedia.org/wiki/NEO_UNIVERSE/finale "wikilink")**
 2.  **Caress of Venus**
 3.  **Driver's High**
-4.  **[LOVE FLIES](https://ja.wikipedia.org/wiki/LOVE_FLIES "wikilink")**
+4.  **[LOVE FLIES](../Page/LOVE_FLIES.md "wikilink")**
 5.  **fate**
 6.  **いばらの涙**
 7.  **trick**
@@ -111,7 +111,7 @@ L'Arc〜en〜Cielの結成15周年を記念して行われた「L'Anniversary」
 <!-- end list -->
 
   - <span style="font-size:90%;">初市販映像化
-    ライブ当日に[スカイパーフェクTV\!](../Page/スカパー!プレミアムサービス.md "wikilink")・[パーフェクト・チョイスで生放送](https://ja.wikipedia.org/wiki/スカチャン "wikilink")
+    ライブ当日に[スカイパーフェクTV\!](../Page/スカパー!プレミアムサービス.md "wikilink")・[パーフェクト・チョイスで生放送](../Page/スカチャン.md "wikilink")
     M07「[ALL YEAR AROUND FALLING IN LOVE](https://ja.wikipedia.org/wiki/REAL_\(L'Arc〜en〜Cielのアルバム\)#収録曲 "wikilink")」、M16「虹」カット</span>
 
 <!-- end list -->
@@ -128,7 +128,7 @@ L'Arc〜en〜Cielの結成15周年を記念して行われた「L'Anniversary」
 10. **fate**
 11. **trick**
 12. **HONEY**
-13. **[STAY AWAY](https://ja.wikipedia.org/wiki/STAY_AWAY "wikilink")**
+13. **[STAY AWAY](../Page/STAY_AWAY.md "wikilink")**
 14. **Shout at the Devil**
 15. **DIVE TO BLUE**
 16. **HEAVEN'S DRIVE**
@@ -137,12 +137,12 @@ L'Arc〜en〜Cielの結成15周年を記念して行われた「L'Anniversary」
 
 ### Disc 5
 
-  - 「ASIALIVE 2005」 [Sep.10.](../Page/9月10日.md "wikilink")[2005](https://ja.wikipedia.org/wiki/2005年 "wikilink") 上海大舞台
+  - 「ASIALIVE 2005」 [Sep.10.](../Page/9月10日.md "wikilink")[2005](../Page/2005年.md "wikilink") 上海大舞台
 
 <!-- end list -->
 
-  - <span style="font-size:90%;">[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[6月21日](../Page/6月21日.md "wikilink")発売『[ASIALIVE 2005](../Page/ASIALIVE_2005.md "wikilink")』に一部楽曲ダイジェスト収録
-    M01「[Killing Me](https://ja.wikipedia.org/wiki/Killing_Me "wikilink")」カット</span>
+  - <span style="font-size:90%;">[2006年](../Page/2006年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")発売『[ASIALIVE 2005](../Page/ASIALIVE_2005.md "wikilink")』に一部楽曲ダイジェスト収録
+    M01「[Killing Me](../Page/Killing_Me.md "wikilink")」カット</span>
 
 <!-- end list -->
 
@@ -152,13 +152,13 @@ L'Arc〜en〜Cielの結成15周年を記念して行われた「L'Anniversary」
 4.  **snow drop**
 5.  **winter fall**
 6.  **forbidden lover**
-7.  **[叙情詩](https://ja.wikipedia.org/wiki/叙情詩_\(曲\) "wikilink")**
+7.  **[叙情詩](../Page/叙情詩_\(曲\).md "wikilink")**
 8.  **[get out from the shell](https://ja.wikipedia.org/wiki/STAY_AWAY#収録曲 "wikilink")**
-9.  **[New World](https://ja.wikipedia.org/wiki/New_World_\(L'Arc〜en〜Cielの曲\) "wikilink")**
-10. **[自由への招待](https://ja.wikipedia.org/wiki/自由への招待 "wikilink")**
+9.  **[New World](../Page/New_World_\(L'Arc〜en〜Cielの曲\).md "wikilink")**
+10. **[自由への招待](../Page/自由への招待.md "wikilink")**
 11. **STAY AWAY -formation A-**
 12. **[AS ONE](https://ja.wikipedia.org/wiki/AWAKE_\(L'Arc〜en〜Cielのアルバム\)#収録曲 "wikilink")**
-13. **[READY STEADY GO](https://ja.wikipedia.org/wiki/READY_STEADY_GO_\(L'Arc〜en〜Cielの曲\) "wikilink")**
+13. **[READY STEADY GO](../Page/READY_STEADY_GO_\(L'Arc〜en〜Cielの曲\).md "wikilink")**
 14. **L'Arc〜en〜Ciel PARADE**
       - Blurry Eyes
         DIVE TO BLUE
@@ -166,8 +166,8 @@ L'Arc〜en〜Cielの結成15周年を記念して行われた「L'Anniversary」
         花葬
         flower
 15. **HONEY**
-16. **[Link](https://ja.wikipedia.org/wiki/Link_\(L'Arc〜en〜Cielの曲\) "wikilink")**
-17. **[瞳の住人](https://ja.wikipedia.org/wiki/瞳の住人 "wikilink")**
+16. **[Link](../Page/Link_\(L'Arc〜en〜Cielの曲\).md "wikilink")**
+17. **[瞳の住人](../Page/瞳の住人.md "wikilink")**
 18. **虹**
 
 ## 関連項目

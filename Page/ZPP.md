@@ -69,7 +69,7 @@
 
 **ZPP**=**RP** ∩ Co-**RP** であるから、**ZPP** は明らかに **RP** と Co-**RP** に含まれる。
 
-クラス **[P](https://ja.wikipedia.org/wiki/P_\(計算複雑性理論\) "wikilink")** は **ZPP** に含まれる。これについて **P**=**ZPP** と予想する者もいる。すなわち、ラスベガス法には多項式時間の[決定的アルゴリズム](../Page/決定的アルゴリズム.md "wikilink")が必ず対応して存在するという考え方である。
+クラス **[P](../Page/P_\(計算複雑性理論\).md "wikilink")** は **ZPP** に含まれる。これについて **P**=**ZPP** と予想する者もいる。すなわち、ラスベガス法には多項式時間の[決定的アルゴリズム](../Page/決定的アルゴリズム.md "wikilink")が必ず対応して存在するという考え方である。
 
 **ZPP** = **[EXPTIME](https://ja.wikipedia.org/wiki/EXPTIME "wikilink")** かどうかは未だ明らかになっていない（一般に違うと予想されている）。**P**=**ZPP** であることが明らかになれば、**ZPP** ≠ **EXPTIME** であることも同時に明らかとなる（[時間階層定理](https://ja.wikipedia.org/wiki/時間階層定理 "wikilink")）。
 

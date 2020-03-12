@@ -1,18 +1,18 @@
 > この記事は[Joyeux Noel --](https://ja.wikipedia.org/wiki/Joyeux_Noel_--)から翻訳されています。
 
 
-「**Joyeux Noёl〜聖なる夜の贈りもの〜**」（ジョワイユ ノエル -せいなるよるのおくりもの- ）は、[野川さくら](https://ja.wikipedia.org/wiki/野川さくら "wikilink")の6th[シングル](../Page/シングル.md "wikilink")である。
+「**Joyeux Noёl〜聖なる夜の贈りもの〜**」（ジョワイユ ノエル -せいなるよるのおくりもの- ）は、[野川さくら](../Page/野川さくら.md "wikilink")の6th[シングル](../Page/シングル.md "wikilink")である。
 
 ## 収録曲
 
 1.  **Joyeux Noёl〜聖なる夜の贈りもの〜**
-      - [作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：尾崎雪絵、[作曲](../Page/作曲.md "wikilink")：[影山ヒロノブ](https://ja.wikipedia.org/wiki/影山ヒロノブ "wikilink")、[編曲](../Page/編曲.md "wikilink")：[須藤賢一](https://ja.wikipedia.org/wiki/須藤賢一 "wikilink")
-      - 3rd[アルバム](../Page/アルバム.md "wikilink")『[PoTeChi](https://ja.wikipedia.org/wiki/PoTeChi "wikilink")』にも、収録されている
+      - [作詞](../Page/作詞.md "wikilink")：尾崎雪絵、[作曲](../Page/作曲.md "wikilink")：[影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink")、[編曲](../Page/編曲.md "wikilink")：[須藤賢一](https://ja.wikipedia.org/wiki/須藤賢一 "wikilink")
+      - 3rd[アルバム](../Page/アルバム.md "wikilink")『[PoTeChi](../Page/PoTeChi.md "wikilink")』にも、収録されている
 2.  **にゃっほ〜♪New Year〜Everybody,Let's Count Down\!\!〜**
       - 作詞：尾崎雪絵、作曲：影山ヒロノブ、編曲：須藤賢一
 3.  Joyeux Noёl〜聖なる夜の贈りもの〜（off vocal）
 4.  にゃっほ〜♪New Year〜Everybody,Let's Count Down\!\!〜（off vocal）
-5.  **新春 書き初めの儀（2005）**（[ボーナス・トラック](https://ja.wikipedia.org/wiki/ボーナス・トラック "wikilink")）
+5.  **新春 書き初めの儀（2005）**（[ボーナス・トラック](../Page/ボーナス・トラック.md "wikilink")）
       - 作詞：さくら組、作曲：影山ヒロノブ、編曲：影山ヒロノブ・さくら組
 
 ## 外部リンク

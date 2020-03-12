@@ -9,9 +9,9 @@
 
 [ローソン](../Page/ローソン.md "wikilink")のTVCMテーマソング。放送期間は[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[7月15日](../Page/7月15日.md "wikilink")から[8月1日](../Page/8月1日.md "wikilink")、[8月30日](../Page/8月30日.md "wikilink")。
 
-この曲で森高は『[第48回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第48回NHK紅白歌合戦 "wikilink")』に出場した。しかし、これが現時点で最後の紅白となっている。また、森高の曲紹介はなぜか白組歌手の[美川憲一](https://ja.wikipedia.org/wiki/美川憲一 "wikilink")が担当した。
+この曲で森高は『[第48回NHK紅白歌合戦](../Page/第48回NHK紅白歌合戦.md "wikilink")』に出場した。しかし、これが現時点で最後の紅白となっている。また、森高の曲紹介はなぜか白組歌手の[美川憲一](../Page/美川憲一.md "wikilink")が担当した。
 
-カップリングは森高の地元・熊本県で開催された[第54回国民体育大会](https://ja.wikipedia.org/wiki/第54回国民体育大会 "wikilink")のイメージソング。
+カップリングは森高の地元・熊本県で開催された[第54回国民体育大会](../Page/第54回国民体育大会.md "wikilink")のイメージソング。
 
 ## 収録曲
 

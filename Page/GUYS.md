@@ -1,7 +1,7 @@
 > この記事は[GUYS](https://ja.wikipedia.org/wiki/GUYS)から翻訳されています。
 
 
-『**GUYS**』（ガイズ）は、[CHAGE\&ASKA](../Page/CHAGE_and_ASKA.md "wikilink")（現：CHAGE and ASKA）の15作目の[オリジナル・アルバムでもあり](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")、本作の1曲目の楽曲でもある。[1992年](../Page/1992年.md "wikilink")[11月7日](../Page/11月7日.md "wikilink")に発売された。発売元は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")。
+『**GUYS**』（ガイズ）は、[CHAGE\&ASKA](../Page/CHAGE_and_ASKA.md "wikilink")（現：CHAGE and ASKA）の15作目の[オリジナル・アルバムでもあり](../Page/スタジオ・アルバム.md "wikilink")、本作の1曲目の楽曲でもある。[1992年](../Page/1992年.md "wikilink")[11月7日](../Page/11月7日.md "wikilink")に発売された。発売元は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")。
 
 1993年[12月17日](../Page/12月17日.md "wikilink")はAPO-CDとして、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月11日](../Page/3月11日.md "wikilink")、[2001年](../Page/2001年.md "wikilink")[6月20日](../Page/6月20日.md "wikilink")は[CD](https://ja.wikipedia.org/wiki/CD "wikilink")として、[2009年](../Page/2009年.md "wikilink")[11月25日](../Page/11月25日.md "wikilink")は[SHM-CDとして再発売された](https://ja.wikipedia.org/wiki/スーパー・ハイ・マテリアルCD "wikilink")。
 
@@ -15,7 +15,7 @@
 
 ## 制作
 
-1992年6月に[ASKA](https://ja.wikipedia.org/wiki/ASKA "wikilink")が渡英し、生活の拠点を[ロンドン](../Page/ロンドン.md "wikilink")に移してレコーディングが行なわれた\[2\]。[CHAGEは](https://ja.wikipedia.org/wiki/Chage "wikilink")7月にロンドンへ渡っている。また、作詞をするために[東京](../Page/東京.md "wikilink")とロンドンを往復する日々を過ごした。
+1992年6月に[ASKA](https://ja.wikipedia.org/wiki/ASKA "wikilink")が渡英し、生活の拠点を[ロンドン](../Page/ロンドン.md "wikilink")に移してレコーディングが行なわれた\[2\]。[CHAGEは](../Page/Chage.md "wikilink")7月にロンドンへ渡っている。また、作詞をするために[東京](../Page/東京.md "wikilink")とロンドンを往復する日々を過ごした。
 
 レコーディングにはロンドンのミュージシャンが参加している。全体的にブラスロック・ジャズ志向の強い作品となっている。
 
@@ -23,11 +23,11 @@ CHAGEは10月に帰国する。ASKAはアルバム完成後もロンドンに滞
 
 ## プロモーション
 
-1992年12月には、[フジテレビ系でスペシャル番組](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[SUBARU](../Page/SUBARU_\(自動車\).md "wikilink") X'mas Presents Chage & Aska 世界にメリー・クリスマス』が放送され、ロンドンでのレコーディング風景や[PV撮影の様子などが](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、2人のインタビューや歌の披露を交えて放送された。
+1992年12月には、[フジテレビ系でスペシャル番組](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[SUBARU](../Page/SUBARU_\(自動車\).md "wikilink") X'mas Presents Chage & Aska 世界にメリー・クリスマス』が放送され、ロンドンでのレコーディング風景や[PV撮影の様子などが](../Page/ミュージック・ビデオ.md "wikilink")、2人のインタビューや歌の披露を交えて放送された。
 
 ## チャート成績
 
-[オリコン週間ランキングで初登場](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位獲得し、前作『TREE』から2作連続首位獲得となった。また、累計売上枚数は140.7万枚（オリコン調べ）を記録し、首位獲得と同様に前作から2作連続[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")となった\[4\]。
+[オリコン週間ランキングで初登場](../Page/オリコンチャート.md "wikilink")1位獲得し、前作『TREE』から2作連続首位獲得となった。また、累計売上枚数は140.7万枚（オリコン調べ）を記録し、首位獲得と同様に前作から2作連続[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")となった\[4\]。
 
 ## 収録曲
 
@@ -37,7 +37,7 @@ CHAGEは10月に帰国する。ASKAはアルバム完成後もロンドンに滞
 <!-- end list -->
 
 1.  **GUYS**（6:06）
-    （作詞・作曲：[飛鳥涼](https://ja.wikipedia.org/wiki/ASKA "wikilink")　編曲：[村上啓介](https://ja.wikipedia.org/wiki/村上啓介 "wikilink")）
+    （作詞・作曲：[飛鳥涼](https://ja.wikipedia.org/wiki/ASKA "wikilink")　編曲：[村上啓介](../Page/村上啓介.md "wikilink")）
       -
         CHAGEとASKA出演の[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")「[RESTY](https://ja.wikipedia.org/wiki/RESTY "wikilink")」「[RQ-S85（deruカセ）](https://ja.wikipedia.org/wiki/パナソニックのヘッドホンステレオ "wikilink")」CMソング。
         当初はシングル用に書いた曲であったという。
@@ -47,14 +47,14 @@ CHAGEは10月に帰国する。ASKAはアルバム完成後もロンドンに滞
       -
         CHAGEとASKA出演の[JAL](../Page/日本航空.md "wikilink") イメージCMソング\[6\]。
         ASKAは楽曲のテーマを "昔を振り返る" として、20年・30年後の自分にむけて書いたという\[7\]。
-        1996年に発売された[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")『[one voice THE SONGS OF CHAGE\&ASKA](https://ja.wikipedia.org/wiki/one_voice_THE_SONGS_OF_CHAGE&ASKA "wikilink")』では、[チャカ・カーン](https://ja.wikipedia.org/wiki/チャカ・カーン "wikilink")（Chaka Khan）が「Raspberry」というタイトルで[カバー](../Page/カバー.md "wikilink")している。
+        1996年に発売された[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")『[one voice THE SONGS OF CHAGE\&ASKA](https://ja.wikipedia.org/wiki/one_voice_THE_SONGS_OF_CHAGE&ASKA "wikilink")』では、[チャカ・カーン](../Page/チャカ・カーン.md "wikilink")（Chaka Khan）が「Raspberry」というタイトルで[カバー](../Page/カバー.md "wikilink")している。
 3.  **[if](https://ja.wikipedia.org/wiki/if_\(CHAGE_and_ASKAの曲\) "wikilink")**（5:43）
     （作詞・作曲：飛鳥涼　編曲：Jess Bailey）
       -
         1992年7月1日に発売された29枚目シングル。
         特に表記はないが、アルバムのイメージに合わせるため、新たな[アレンジで収録されている](../Page/編曲.md "wikilink")。
 4.  **光と影**（6:17）
-    （作詞・作曲：[CHAGE](https://ja.wikipedia.org/wiki/Chage "wikilink")　編曲：Jess Bailey・村上啓介）
+    （作詞・作曲：[CHAGE](../Page/Chage.md "wikilink")　編曲：Jess Bailey・村上啓介）
       -
         CHAGEは、「Jess Baileyのアレンジを意識しながら書いた曲」と述べている\[8\]。
         詞に関しては、ごくありふれた言葉を使って綴ってみたという。
@@ -106,8 +106,8 @@ CHAGEは10月に帰国する。ASKAはアルバム完成後もロンドンに滞
 
   - [Drums](../Page/ドラムセット.md "wikilink")：Neil Conti
   - [E.Bass](../Page/エレクトリックベース.md "wikilink")：Mark Smith
-  - [Synth.](../Page/シンセサイザー.md "wikilink") [Sound Designers](https://ja.wikipedia.org/wiki/マニピュレーター "wikilink")：[森達彦](https://ja.wikipedia.org/wiki/森達彦 "wikilink")、土岐幸男
-  - [E.Guitar](../Page/エレクトリック・ギター.md "wikilink")：[村上啓介](https://ja.wikipedia.org/wiki/村上啓介 "wikilink")
+  - [Synth.](../Page/シンセサイザー.md "wikilink") [Sound Designers](../Page/マニピュレーター.md "wikilink")：[森達彦](https://ja.wikipedia.org/wiki/森達彦 "wikilink")、土岐幸男
+  - [E.Guitar](../Page/エレクトリック・ギター.md "wikilink")：[村上啓介](../Page/村上啓介.md "wikilink")
   - [Trumpet](../Page/トランペット.md "wikilink")：Martin Shaw, [John Thirkell](https://ja.wikipedia.org/wiki/ジョン・サーケル "wikilink")
   - [Saxophone](../Page/サクソフォーン.md "wikilink")：Phil Todd
   - [Trombone](../Page/トロンボーン.md "wikilink")：Peter Beachill
@@ -176,7 +176,7 @@ CHAGEは10月に帰国する。ASKAはアルバム完成後もロンドンに滞
 
 **CRIMSON**
 
-  - Drums：[湊雅史](https://ja.wikipedia.org/wiki/湊雅史 "wikilink")
+  - Drums：[湊雅史](../Page/湊雅史.md "wikilink")
   - E.Bass：[美久月千晴](https://ja.wikipedia.org/wiki/美久月千晴 "wikilink")
   - Synth. Sound Designers：森達彦、土岐幸男
   - E.Guitar：村上啓介
@@ -193,7 +193,7 @@ CHAGEは10月に帰国する。ASKAはアルバム完成後もロンドンに滞
 
   - [Cymbals](../Page/シンバル.md "wikilink")：Neil Conti
   - E.Bass：Mark Smith
-  - Piano, Synthesizers & [Sleigh Bells](https://ja.wikipedia.org/wiki/スレイベル "wikilink")：Jess Bailey
+  - Piano, Synthesizers & [Sleigh Bells](../Page/スレイベル.md "wikilink")：Jess Bailey
   - Backing Vocal：Jude Roae
   - Additional Backing Vocal：Sofie Chari, Pavlos Chari, Pany Vasili, Simon Harris, Jared Baker, Samantha and James Stephenson, Sara Bailey, Morgan Bailey, Derek Anderson, Leeandra Anderson, Mercia Griffin, Oliver Griffin, Jade Morgan, Chris "the GREEK" Doodles, Daisy Doodles, Judith Christodoulou, Selina Christodoulou
 
@@ -227,12 +227,12 @@ CHAGEは10月に帰国する。ASKAはアルバム完成後もロンドンに滞
   - [You are free](https://ja.wikipedia.org/wiki/You_are_free "wikilink") （1993年）※オーケストラ・バージョンをカップリングに収録
   - [SUPER BEST BOX SINGLE HISTORY 1979-1994 AND Snow Mail](https://ja.wikipedia.org/wiki/SUPER_BEST_BOX_SINGLE_HISTORY_1979-1994_AND_Snow_Mail "wikilink") （1994年）※オーケストラ・バージョンを収録
   - [Snow Mail add 3 songs](https://ja.wikipedia.org/wiki/Snow_Mail "wikilink") （2009年）※オーケストラ・バージョンを収録
-  - [STANDARD](https://ja.wikipedia.org/wiki/STANDARD_\(ASKAのアルバム\) "wikilink") （2009年）※ASKAの[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")音源を収録
+  - [STANDARD](https://ja.wikipedia.org/wiki/STANDARD_\(ASKAのアルバム\) "wikilink") （2009年）※ASKAの[セルフカバー](../Page/セルフカバー.md "wikilink")音源を収録
   - [BOOKEND](https://ja.wikipedia.org/wiki/BOOKEND "wikilink") （2011年）※ASKAのセルフカバー音源を収録
 
 ## 『Go to Eleven 〜GUYS〜』
 
-本作の[PV集が](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")[1992年](../Page/1992年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink")に[VHS](../Page/VHS.md "wikilink")・[LDで発売された](../Page/レーザーディスク.md "wikilink")。発売元は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")（現在は廃盤）。
+本作の[PV集が](../Page/ミュージック・ビデオ.md "wikilink")[1992年](../Page/1992年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink")に[VHS](../Page/VHS.md "wikilink")・[LDで発売された](../Page/レーザーディスク.md "wikilink")。発売元は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")（現在は廃盤）。
 
 ### 解説
 

@@ -1,7 +1,7 @@
 > この記事は[Perfume \(\)](https://ja.wikipedia.org/wiki/Perfume_\(\))から翻訳されています。
 
 
-『**Perfume**』（パーフューム）は、[声優](../Page/声優.md "wikilink")・[林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")の3枚目の[アルバム](../Page/アルバム.md "wikilink")。[スターチャイルド](https://ja.wikipedia.org/wiki/スターチャイルド "wikilink")（[キングレコード](../Page/キングレコード.md "wikilink")）から[1992年](../Page/1992年.md "wikilink")[8月5日](../Page/8月5日.md "wikilink")に発売。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月16日](../Page/3月16日.md "wikilink")に再発された。
+『**Perfume**』（パーフューム）は、[声優](../Page/声優.md "wikilink")・[林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")の3枚目の[アルバム](../Page/アルバム.md "wikilink")。[スターチャイルド](../Page/スターチャイルド.md "wikilink")（[キングレコード](../Page/キングレコード.md "wikilink")）から[1992年](../Page/1992年.md "wikilink")[8月5日](../Page/8月5日.md "wikilink")に発売。[2005年](../Page/2005年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink")に再発された。
 
 ## 概要
 
@@ -53,9 +53,9 @@
 
 ## タイアップ
 
-| 曲名          | タイアップ                                                                                                                                                   |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 私にハッピーバースデイ | [OVA](../Page/OVA.md "wikilink")『[万能文化猫娘](https://ja.wikipedia.org/wiki/万能文化猫娘 "wikilink")』第1期[オープニングテーマ](https://ja.wikipedia.org/wiki/主題歌 "wikilink") |
+| 曲名          | タイアップ                                                                                                             |
+| ----------- | ----------------------------------------------------------------------------------------------------------------- |
+| 私にハッピーバースデイ | [OVA](../Page/OVA.md "wikilink")『[万能文化猫娘](../Page/万能文化猫娘.md "wikilink")』第1期[オープニングテーマ](../Page/主題歌.md "wikilink") |
 
 ## ミュージシャン
 

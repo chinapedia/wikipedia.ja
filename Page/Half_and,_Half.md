@@ -1,13 +1,13 @@
 > この記事は[Half and, Half](https://ja.wikipedia.org/wiki/Half_and,_Half)から翻訳されています。
 
 
-『**Half and, Half**』（ハーフ アンド ハーフ）は、[声優](../Page/声優.md "wikilink")[林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")の1枚目の[アルバム](../Page/アルバム.md "wikilink")（初のスタジオ録音アルバム）。[スターチャイルド](https://ja.wikipedia.org/wiki/スターチャイルド "wikilink")（[キングレコード](../Page/キングレコード.md "wikilink")）より[1991年](../Page/1991年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")に発売された。のち[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月16日](../Page/3月16日.md "wikilink")に再発された。
+『**Half and, Half**』（ハーフ アンド ハーフ）は、[声優](../Page/声優.md "wikilink")[林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")の1枚目の[アルバム](../Page/アルバム.md "wikilink")（初のスタジオ録音アルバム）。[スターチャイルド](../Page/スターチャイルド.md "wikilink")（[キングレコード](../Page/キングレコード.md "wikilink")）より[1991年](../Page/1991年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")に発売された。のち[2005年](../Page/2005年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink")に再発された。
 
 ## 概要
 
   - [同年](../Page/1991年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")に先行してリリースしたシングル「[虹色のSneaker](../Page/虹色のSneaker.md "wikilink")」収録の2曲を含む全12曲で構成している。
   - タイトルは「Half and, Half＝自分半分／キャラ半分」という意味\[1\]。
-  - 後に廃盤となり、入手困難になったことから、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月16日](../Page/3月16日.md "wikilink")に初回限定盤仕様（紙BOX仕様、24Pブックレット付き）の限定生産で復刻された。
+  - 後に廃盤となり、入手困難になったことから、[2005年](../Page/2005年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink")に初回限定盤仕様（紙BOX仕様、24Pブックレット付き）の限定生産で復刻された。
 
 ## 収録曲
 
@@ -34,7 +34,7 @@
         作詞：木本慶子、作曲：尾関昌也、編曲：大森俊之
 8.  **カレッジリングを買いにゆこう** \[5:00\]
       -
-        作詞：[西脇唯](https://ja.wikipedia.org/wiki/西脇唯 "wikilink")、作曲：丸尾めぐみ、編曲：[長谷川智樹](https://ja.wikipedia.org/wiki/長谷川智樹 "wikilink")
+        作詞：[西脇唯](https://ja.wikipedia.org/wiki/西脇唯 "wikilink")、作曲：丸尾めぐみ、編曲：[長谷川智樹](../Page/長谷川智樹.md "wikilink")
 9.  **リクレットが泣いている** \[4:24\]
       -
         作詞：吉元由美、作曲：[山浦克己](https://ja.wikipedia.org/wiki/山浦克己 "wikilink")、編曲：山中紀昌

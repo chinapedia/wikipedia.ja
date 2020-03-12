@@ -5,9 +5,9 @@
 
 ## 解説
 
-[自動車](../Page/自動車.md "wikilink")、[パソコンなど工業製品の多くは](../Page/パーソナルコンピュータ.md "wikilink")、細かいパーツの集合体で成り立っている。このような製品を[分解](https://ja.wikipedia.org/wiki/分解 "wikilink")する過程において、パーツ一つ一つまで分解する前にユニット（構成）の状態にまで分解する事ができる。この1つのユニットをASSYと言う。製品を修理する時には、ASSYで交換する例が多い。
+[自動車](../Page/自動車.md "wikilink")、[パソコンなど工業製品の多くは](../Page/パーソナルコンピュータ.md "wikilink")、細かいパーツの集合体で成り立っている。このような製品を[分解](../Page/分解.md "wikilink")する過程において、パーツ一つ一つまで分解する前にユニット（構成）の状態にまで分解する事ができる。この1つのユニットをASSYと言う。製品を修理する時には、ASSYで交換する例が多い。
 
-上記のような製品でASSY交換をする理由としては、効率性\[1\]や確実性\[2\]、品質\[3\]などを確保するために、該当するような個所をASSY交換する事がある。また、修復用パーツにはASSY状態で販売されているものもあり、ASSYでしか交換できない場合もある。特に、事故で[内燃機関](../Page/内燃機関.md "wikilink")に損傷を受けた[自動車](../Page/自動車.md "wikilink")や[鉄道車両](../Page/鉄道車両.md "wikilink")、[航空機](../Page/航空機.md "wikilink")、[船舶](https://ja.wikipedia.org/wiki/船舶 "wikilink")などは、[シリンダーブロック](https://ja.wikipedia.org/wiki/シリンダーブロック "wikilink")などの歪みによる[焼きつき](../Page/焼きつき.md "wikilink")や、僅かな隙間からの[燃料](../Page/燃料.md "wikilink")や[エンジンオイル](https://ja.wikipedia.org/wiki/エンジンオイル "wikilink")の漏出による[火災](../Page/火災.md "wikilink")の恐れもあるため、ASSY交換以外での修理には大きなリスクが伴う。
+上記のような製品でASSY交換をする理由としては、効率性\[1\]や確実性\[2\]、品質\[3\]などを確保するために、該当するような個所をASSY交換する事がある。また、修復用パーツにはASSY状態で販売されているものもあり、ASSYでしか交換できない場合もある。特に、事故で[内燃機関](../Page/内燃機関.md "wikilink")に損傷を受けた[自動車](../Page/自動車.md "wikilink")や[鉄道車両](../Page/鉄道車両.md "wikilink")、[航空機](../Page/航空機.md "wikilink")、[船舶](https://ja.wikipedia.org/wiki/船舶 "wikilink")などは、[シリンダーブロック](../Page/シリンダーブロック.md "wikilink")などの歪みによる[焼きつき](../Page/焼きつき.md "wikilink")や、僅かな隙間からの[燃料](../Page/燃料.md "wikilink")や[エンジンオイル](../Page/エンジンオイル.md "wikilink")の漏出による[火災](../Page/火災.md "wikilink")の恐れもあるため、ASSY交換以外での修理には大きなリスクが伴う。
 
 メーカーによってASSY単位の呼び方は様々である。「○○ASSY」「○○ユニット」「○○器」「○○部」など多岐にわたる。
 
@@ -20,13 +20,13 @@
 ### 自動車
 
   - [エンジン](../Page/エンジン.md "wikilink")
-  - [ラジエーター](https://ja.wikipedia.org/wiki/ラジエーター "wikilink")
+  - [ラジエーター](../Page/ラジエーター.md "wikilink")
   - [エアークリーナ](https://ja.wikipedia.org/wiki/エアークリーナ "wikilink")・サブASSY
   - ウインドウレギュレーター
   - [トランスミッション](../Page/トランスミッション.md "wikilink")（ケースごと）
-  - [ディファレンシャルギア](https://ja.wikipedia.org/wiki/差動装置 "wikilink")（ケースごと）
-  - [バンパー](https://ja.wikipedia.org/wiki/バンパー "wikilink")
-  - 灯具（[前照灯](https://ja.wikipedia.org/wiki/前照灯 "wikilink")、[尾灯](https://ja.wikipedia.org/wiki/尾灯 "wikilink")など）
+  - [ディファレンシャルギア](../Page/差動装置.md "wikilink")（ケースごと）
+  - [バンパー](../Page/バンパー.md "wikilink")
+  - 灯具（[前照灯](../Page/前照灯.md "wikilink")、[尾灯](../Page/尾灯.md "wikilink")など）
   - [クリーンエアフィルタ](https://ja.wikipedia.org/wiki/クリーンエアフィルタ_\(自動車用\) "wikilink")・サブASSY
 
 ### 鉄道車両
@@ -36,21 +36,21 @@
   - [主幹制御器](../Page/マスター・コントローラー.md "wikilink")
   - [主制御器](https://ja.wikipedia.org/wiki/主制御器 "wikilink")
       - [VVVFインバータ装置](https://ja.wikipedia.org/wiki/可変電圧可変周波数制御 "wikilink")（ケースごと）
-  - 補助電源装置（[電動発電機](../Page/電動発電機.md "wikilink")、[ディーゼル発電セット](../Page/発電機.md "wikilink")、[静止形インバータ](https://ja.wikipedia.org/wiki/静止形インバータ "wikilink")）
+  - 補助電源装置（[電動発電機](../Page/電動発電機.md "wikilink")、[ディーゼル発電セット](../Page/発電機.md "wikilink")、[静止形インバータ](../Page/静止形インバータ.md "wikilink")）
   - 変速機（[機械式・液体式の](../Page/気動車・ディーゼル機関車の動力伝達方式.md "wikilink")[内燃機関車と](../Page/ディーゼル機関車.md "wikilink")[気動車](../Page/気動車.md "wikilink")）
-  - [パンタグラフ](https://ja.wikipedia.org/wiki/集電装置 "wikilink")
+  - [パンタグラフ](../Page/集電装置.md "wikilink")
   - [車体新造](https://ja.wikipedia.org/wiki/構体_\(鉄道車両\) "wikilink") （京急1500形、E233系など）
   - [台車](../Page/鉄道車両の台車.md "wikilink")
-  - [連結器](https://ja.wikipedia.org/wiki/連結器 "wikilink")
+  - [連結器](../Page/連結器.md "wikilink")
   - [行先表示器](../Page/方向幕.md "wikilink")
 
 ### パソコン
 
   - [CPUの冷却装置](../Page/CPUの冷却装置.md "wikilink")
-  - [マザーボード](https://ja.wikipedia.org/wiki/マザーボード "wikilink")
+  - [マザーボード](../Page/マザーボード.md "wikilink")
   - [主記憶装置](../Page/主記憶装置.md "wikilink")（メインメモリモジュールなど）
-  - [拡張カード](https://ja.wikipedia.org/wiki/拡張カード "wikilink")
-  - [補助記憶装置](../Page/補助記憶装置.md "wikilink")（[HDD](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")、[光ディスクドライブなど](https://ja.wikipedia.org/wiki/光学ドライブ "wikilink")）
+  - [拡張カード](../Page/拡張カード.md "wikilink")
+  - [補助記憶装置](../Page/補助記憶装置.md "wikilink")（[HDD](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")、[光ディスクドライブなど](../Page/光学ドライブ.md "wikilink")）
   - 電源装置
   - [PCケース](https://ja.wikipedia.org/wiki/PCケース "wikilink")冷却装置
   - 入出力装置

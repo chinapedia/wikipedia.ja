@@ -1,7 +1,7 @@
 > この記事は[Systems Network Architecture](https://ja.wikipedia.org/wiki/Systems_Network_Architecture)から翻訳されています。
 
 
-**Systems Network Architecture** ( **SNA** ) は、[IBM](../Page/IBM.md "wikilink") が[1974年](../Page/1974年.md "wikilink")に作った[コンピュータネットワーク](https://ja.wikipedia.org/wiki/コンピュータネットワーク "wikilink")・[アーキテクチャであり](../Page/コンピュータ・アーキテクチャ.md "wikilink")、更にはそれに基づいた[プロトコルスタック](../Page/プロトコルスタック.md "wikilink")である。
+**Systems Network Architecture** ( **SNA** ) は、[IBM](../Page/IBM.md "wikilink") が[1974年](../Page/1974年.md "wikilink")に作った[コンピュータネットワーク](../Page/コンピュータネットワーク.md "wikilink")・[アーキテクチャであり](../Page/コンピュータ・アーキテクチャ.md "wikilink")、更にはそれに基づいた[プロトコルスタック](../Page/プロトコルスタック.md "wikilink")である。
 
 ## 概要
 
@@ -36,7 +36,7 @@ SNA は[アプリケーションプログラムからリンクコントロール
 
 ## 論理ユニットタイプ ( Logical Unit Types )
 
-SNA は、様々な種類の[デバイス](https://ja.wikipedia.org/wiki/デバイス "wikilink")を、各々 a Logical Unit grouping として同定する。LU0 は定義されていないデバイスまたはユーザーが自身で定義したプロトコルを意味する。LU1 は[プリンター](https://ja.wikipedia.org/wiki/プリンター "wikilink")を意味する。LU2 は[ダム端末](../Page/ダム端末.md "wikilink")を意味する。LU3 は[3270プロトコルを用いるプリンターを意味する](../Page/IBM_3270.md "wikilink")。LU4 は[バッチ](https://ja.wikipedia.org/wiki/バッチ処理 "wikilink")[端末](../Page/端末.md "wikilink")を意味する。LU5 は定義されたことがない。LU6 は2つのアプリケーション間のプロトコルを意味する。LU7 は 5250 端末を用いたセッションのために用意されている。使われる最初の LU は、LU1 と LU2、そして [w:LU6.2](https://ja.wikipedia.org/wiki/w:LU6.2 "wikilink") である（ LU6.2 は、アプリケーションとアプリケーションの会話のための進歩したプロトコルである）。
+SNA は、様々な種類の[デバイス](https://ja.wikipedia.org/wiki/デバイス "wikilink")を、各々 a Logical Unit grouping として同定する。LU0 は定義されていないデバイスまたはユーザーが自身で定義したプロトコルを意味する。LU1 は[プリンター](https://ja.wikipedia.org/wiki/プリンター "wikilink")を意味する。LU2 は[ダム端末](../Page/ダム端末.md "wikilink")を意味する。LU3 は[3270プロトコルを用いるプリンターを意味する](../Page/IBM_3270.md "wikilink")。LU4 は[バッチ](../Page/バッチ処理.md "wikilink")[端末](../Page/端末.md "wikilink")を意味する。LU5 は定義されたことがない。LU6 は2つのアプリケーション間のプロトコルを意味する。LU7 は 5250 端末を用いたセッションのために用意されている。使われる最初の LU は、LU1 と LU2、そして [w:LU6.2](https://ja.wikipedia.org/wiki/w:LU6.2 "wikilink") である（ LU6.2 は、アプリケーションとアプリケーションの会話のための進歩したプロトコルである）。
 
 ## SNAとOSI参照モデル
 

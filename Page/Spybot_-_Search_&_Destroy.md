@@ -34,7 +34,7 @@
 
   - [スパイウェア](https://ja.wikipedia.org/wiki/スパイウェア "wikilink")
   - [アンチスパイソフトウェア](https://ja.wikipedia.org/wiki/アンチスパイソフトウェア "wikilink")
-  - [アドウェア](https://ja.wikipedia.org/wiki/アドウェア "wikilink")
+  - [アドウェア](../Page/アドウェア.md "wikilink")
 
 ## 脚注
 

@@ -5,9 +5,9 @@
 
 ## 来歴
 
-[1976年](../Page/1976年.md "wikilink")にSPEEDWAYの前身となるバンド「[フリースペース](https://ja.wikipedia.org/wiki/フリースペース\(バンド\) "wikilink")」が活動開始。[三多摩地区のレコード店等が主催していたイベント](https://ja.wikipedia.org/wiki/多摩地域 "wikilink")・コンテストに参加していた。
+[1976年](../Page/1976年.md "wikilink")にSPEEDWAYの前身となるバンド「[フリースペース](https://ja.wikipedia.org/wiki/フリースペース\(バンド\) "wikilink")」が活動開始。[三多摩地区のレコード店等が主催していたイベント](../Page/多摩地域.md "wikilink")・コンテストに参加していた。
 
-[1979年](../Page/1979年.md "wikilink")に[シングル](../Page/シングル.md "wikilink")「[夢まで翔んで - DreamAway -](https://ja.wikipedia.org/wiki/夢まで翔んで "wikilink")」でSPEEDWAYとしてメジャーデビュー。[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")にシングル「Rockin' on the 月光仮面」、アルバム『Base Area』（ベースエリア）をリリース（いずれも[東芝Expressから](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")）。アルバム『Base Area』から小室がバンドへ参加している。
+[1979年](../Page/1979年.md "wikilink")に[シングル](../Page/シングル.md "wikilink")「[夢まで翔んで - DreamAway -](https://ja.wikipedia.org/wiki/夢まで翔んで "wikilink")」でSPEEDWAYとしてメジャーデビュー。[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")にシングル「Rockin' on the 月光仮面」、アルバム『Base Area』（ベースエリア）をリリース（いずれも[東芝Expressから](../Page/EMIミュージック・ジャパン.md "wikilink")）。アルバム『Base Area』から小室がバンドへ参加している。
 
 当時としては珍しいアメリカンロックをベースとした音楽を展開していた。小室加入前のアルバム『ESTHER』では当時のメンバー全員で編曲を行っていた。
 
@@ -51,7 +51,7 @@
 <!-- end list -->
 
   -
-    \- [武田食品工業](https://ja.wikipedia.org/wiki/ハウスウェルネスフーズ "wikilink")「[プラッシー](https://ja.wikipedia.org/wiki/プラッシー "wikilink")」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")
+    \- [武田食品工業](../Page/ハウスウェルネスフーズ.md "wikilink")「[プラッシー](../Page/プラッシー.md "wikilink")」[CMソング](../Page/コマーシャルソング.md "wikilink")
 
 <!-- end list -->
 

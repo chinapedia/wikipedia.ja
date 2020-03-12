@@ -1,11 +1,11 @@
 > この記事は[DD-BOYS](https://ja.wikipedia.org/wiki/DD-BOYS)から翻訳されています。
 
 
-『**DD-BOYS**』は、[テレビ朝日](../Page/テレビ朝日.md "wikilink")で[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月10日](../Page/4月10日.md "wikilink")から[9月25日](../Page/9月25日.md "wikilink")まで毎週月曜日25:21 - 25:51に放送されていた[深夜番組](../Page/深夜番組.md "wikilink")。また、[BS朝日でも毎週木曜日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")24:00 - 24:30に放送されていた。全23回。
+『**DD-BOYS**』は、[テレビ朝日](../Page/テレビ朝日.md "wikilink")で[2006年](../Page/2006年.md "wikilink")[4月10日](../Page/4月10日.md "wikilink")から[9月25日](../Page/9月25日.md "wikilink")まで毎週月曜日25:21 - 25:51に放送されていた[深夜番組](../Page/深夜番組.md "wikilink")。また、[BS朝日でも毎週木曜日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")24:00 - 24:30に放送されていた。全23回。
 
 ## 概要
 
-[D-BOYS](https://ja.wikipedia.org/wiki/D-BOYS "wikilink")による[ドラマ](../Page/ドラマ.md "wikilink")＆[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")番組。[表参道の](../Page/表参道_\(原宿\).md "wikilink")[ロフト](https://ja.wikipedia.org/wiki/ロフト "wikilink")付きマンションの一室を舞台にしたドラマと、そのドラマ中のセリフをきっかけにいろんなことに挑戦するドキュメンタリーからなる。
+[D-BOYS](../Page/D-BOYS.md "wikilink")による[ドラマ](../Page/ドラマ.md "wikilink")＆[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")番組。[表参道の](../Page/表参道_\(原宿\).md "wikilink")[ロフト](https://ja.wikipedia.org/wiki/ロフト "wikilink")付きマンションの一室を舞台にしたドラマと、そのドラマ中のセリフをきっかけにいろんなことに挑戦するドキュメンタリーからなる。
 
 ## あらすじ
 
@@ -15,17 +15,17 @@
 
 （）はドキュメンタリーの挑戦者、挑戦内容。
 
-1.  がむしゃら宣言（[和田正人](https://ja.wikipedia.org/wiki/和田正人 "wikilink")：[箱根駅伝往路](../Page/東京箱根間往復大学駅伝競走.md "wikilink")108kmマラソン）
+1.  がむしゃら宣言（[和田正人](../Page/和田正人.md "wikilink")：[箱根駅伝往路](../Page/東京箱根間往復大学駅伝競走.md "wikilink")108kmマラソン）
 2.  ひとりぼっちの箱根駅伝（和田正人：箱根駅伝往路108kmマラソン）
 3.  狙え\!一獲千金（[城田優](https://ja.wikipedia.org/wiki/城田優 "wikilink")：[弾き語り](../Page/弾き語り.md "wikilink")）
-4.  成り上がってやる\!（[鈴木裕樹](https://ja.wikipedia.org/wiki/鈴木裕樹 "wikilink")、[荒木宏文](https://ja.wikipedia.org/wiki/荒木宏文 "wikilink")、[遠藤雄弥](https://ja.wikipedia.org/wiki/遠藤雄弥 "wikilink")、[瀬戸康史](../Page/瀬戸康史.md "wikilink")、[中村優一](../Page/中村優一.md "wikilink")：[大食い](https://ja.wikipedia.org/wiki/早食い "wikilink")）
-5.  友達100人できるかな?（中村優一：[ストリートダンス](https://ja.wikipedia.org/wiki/ストリートダンス "wikilink")）
-6.  笑顔のために…（[加治将樹](https://ja.wikipedia.org/wiki/加治将樹 "wikilink")、和田正人、鈴木裕樹：[コント](../Page/コント.md "wikilink")）
-7.  ケンカするほど仲がいい?（[柳浩太郎](https://ja.wikipedia.org/wiki/柳浩太郎 "wikilink")、遠藤雄弥：[釣り](https://ja.wikipedia.org/wiki/釣り "wikilink")）
+4.  成り上がってやる\!（[鈴木裕樹](../Page/鈴木裕樹.md "wikilink")、[荒木宏文](https://ja.wikipedia.org/wiki/荒木宏文 "wikilink")、[遠藤雄弥](../Page/遠藤雄弥.md "wikilink")、[瀬戸康史](../Page/瀬戸康史.md "wikilink")、[中村優一](../Page/中村優一.md "wikilink")：[大食い](https://ja.wikipedia.org/wiki/早食い "wikilink")）
+5.  友達100人できるかな?（中村優一：[ストリートダンス](../Page/ストリートダンス.md "wikilink")）
+6.  笑顔のために…（[加治将樹](../Page/加治将樹.md "wikilink")、和田正人、鈴木裕樹：[コント](../Page/コント.md "wikilink")）
+7.  ケンカするほど仲がいい?（[柳浩太郎](../Page/柳浩太郎.md "wikilink")、遠藤雄弥：[釣り](../Page/釣り.md "wikilink")）
 8.  奇跡を信じろ\!（遠藤雄弥：[バスケットロングシュート](../Page/バスケットボール.md "wikilink")）
-9.  金の成る木はある\!（[五十嵐隼士](../Page/五十嵐隼士.md "wikilink")、[中川真吾](https://ja.wikipedia.org/wiki/中川真吾 "wikilink")：[オオクワガタ](../Page/オオクワガタ.md "wikilink")探し）
+9.  金の成る木はある\!（[五十嵐隼士](../Page/五十嵐隼士.md "wikilink")、[中川真吾](../Page/中川真吾.md "wikilink")：[オオクワガタ](../Page/オオクワガタ.md "wikilink")探し）
 10. 金のためなら何でもやらなきゃ\!?（荒木宏文、[熊井幸平](../Page/熊井幸平.md "wikilink")：なんでも屋）
-11. カッコマンブルース（[足立理](https://ja.wikipedia.org/wiki/足立理 "wikilink")：[ホスト](https://ja.wikipedia.org/wiki/ホストクラブ "wikilink")）
+11. カッコマンブルース（[足立理](../Page/足立理.md "wikilink")：[ホスト](../Page/ホストクラブ.md "wikilink")）
 12. 濁ってなんかない\!（[皆川佑馬](../Page/皆川佑馬.md "wikilink")：アクロバット）
 13. 過去のドキュメント一挙公開\!（総集編）
 14. 甘い俺達…（加治将樹、城田優：[断食](../Page/断食.md "wikilink")）
@@ -43,7 +43,7 @@
 
   - ナレーター：[浦一弘](https://ja.wikipedia.org/wiki/浦一弘 "wikilink")
   - エンディングテーマ：「Do it\!」[RAG FAIR](../Page/RAG_FAIR.md "wikilink")（[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")）
-  - 脚本：[小原信治](https://ja.wikipedia.org/wiki/小原信治 "wikilink")
+  - 脚本：[小原信治](../Page/小原信治.md "wikilink")
   - 構成：たちばなひとなり、[北本かつら](../Page/北本かつら.md "wikilink")、興津豪乃
   - プロデュース・演出：高橋正輝（テレビ朝日）
   - 制作：テレビ朝日、BS朝日、[ワタナベエンターテインメント](../Page/ワタナベエンターテインメント.md "wikilink")
@@ -59,7 +59,7 @@
   - DD-BOYS Vol.5（2006年11月22日発売、VIBZ-5009） 第18回 - 第20回・特別映像特典「メイキング集part1（「運命のセリフ」後の未公開シーン）」収録。
   - DD-BOYS Vol.6（2006年11月22日発売、VIBZ-5010）第21回 - 第23回（最終回）・特別映像特典「メイキング集part2（NG集）」収録。
 
-:\* 初回限定盤には全巻購入者への特典として、各巻分6枚を集めて発送手数料500円と共に応募した全員に、番組の[打ち上げが行われた店内でのメンバーによる番組の裏話などが収録された](https://ja.wikipedia.org/wiki/宴会 "wikilink")「DD-BOYS Special DVD」が送付される応募券が封入された（現在は初回限定版の生産販売・応募期間ともに終了）。
+:\* 初回限定盤には全巻購入者への特典として、各巻分6枚を集めて発送手数料500円と共に応募した全員に、番組の[打ち上げが行われた店内でのメンバーによる番組の裏話などが収録された](../Page/宴会.md "wikilink")「DD-BOYS Special DVD」が送付される応募券が封入された（現在は初回限定版の生産販売・応募期間ともに終了）。
 
 ## 外部リンク
 

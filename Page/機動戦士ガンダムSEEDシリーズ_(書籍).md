@@ -1,7 +1,7 @@
 > この記事は[SEED \(\)](https://ja.wikipedia.org/wiki/SEED_\(\))から翻訳されています。
 
 
-**機動戦士ガンダムSEEDシリーズ（書籍）**（きどうせんしガンダムシードシリーズ（しょせき））では、アニメ『[機動戦士ガンダムSEED](../Page/機動戦士ガンダムSEED.md "wikilink")』及び『[機動戦士ガンダムSEED DESTINY](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_DESTINY "wikilink")』の関連書籍を紹介する。
+**機動戦士ガンダムSEEDシリーズ（書籍）**（きどうせんしガンダムシードシリーズ（しょせき））では、アニメ『[機動戦士ガンダムSEED](../Page/機動戦士ガンダムSEED.md "wikilink")』及び『[機動戦士ガンダムSEED DESTINY](../Page/機動戦士ガンダムSEED_DESTINY.md "wikilink")』の関連書籍を紹介する。
 
 ## 小説
 
@@ -9,7 +9,7 @@
 
 [角川スニーカー文庫](https://ja.wikipedia.org/wiki/角川スニーカー文庫 "wikilink")から全5巻が発売された。 一部でアニメのストーリーが追加および差し替えられているシーンなどもあるが、大筋では原作に忠実なストーリー展開である。なお、地球連合軍の[グリーンランド基地はこの小説にしか登場しない](https://ja.wikipedia.org/wiki/コズミック・イラの施設#グリーンランド基地 "wikilink")。
 
-著者：後藤リウ 本文イラスト：[小笠原智史](https://ja.wikipedia.org/wiki/小笠原智史 "wikilink")
+著者：後藤リウ 本文イラスト：[小笠原智史](../Page/小笠原智史.md "wikilink")
 
   - 機動戦士ガンダムSEED (1) すれ違う翼
   - 機動戦士ガンダムSEED (2) 砂漠の虎
@@ -19,7 +19,7 @@
 
 ### 機動戦士ガンダムSEED DESTINY
 
-角川スニーカー文庫から全5巻が発売された。ラストは『[機動戦士ガンダムSEED DESTINY FINAL PLUS 選ばれた未来](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_DESTINY "wikilink")』版となっており、戦後の描写がアニメ本編では描かれなかった一部の主要登場人物についても僅かにエピソードが追加されている。また、[アウルと](https://ja.wikipedia.org/wiki/生体CPU#アウル・ニーダ "wikilink")[スティングの死亡シーンも変更されている](https://ja.wikipedia.org/wiki/生体CPU#スティング・オークレー "wikilink")。
+角川スニーカー文庫から全5巻が発売された。ラストは『[機動戦士ガンダムSEED DESTINY FINAL PLUS 選ばれた未来](../Page/機動戦士ガンダムSEED_DESTINY.md "wikilink")』版となっており、戦後の描写がアニメ本編では描かれなかった一部の主要登場人物についても僅かにエピソードが追加されている。また、[アウルと](https://ja.wikipedia.org/wiki/生体CPU#アウル・ニーダ "wikilink")[スティングの死亡シーンも変更されている](https://ja.wikipedia.org/wiki/生体CPU#スティング・オークレー "wikilink")。
 
 著者：後藤リウ 本文イラスト：As'MARIA
 
@@ -33,7 +33,7 @@
 
 ### 月刊マガジンZ版
 
-[講談社](../Page/講談社.md "wikilink")から発売された『[機動戦士ガンダムSEED](../Page/機動戦士ガンダムSEED.md "wikilink")』（2002年12月号 - 2004年12月号）と『[機動戦士ガンダムSEED DESTINY](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_DESTINY "wikilink")』（2005年1月号 - 2006年06月号）のコミカライズ作品。全5+4巻。アニメ本編を忠実にコミカライズしており、細部にオリジナルの要素や修正が加えられている。
+[講談社](../Page/講談社.md "wikilink")から発売された『[機動戦士ガンダムSEED](../Page/機動戦士ガンダムSEED.md "wikilink")』（2002年12月号 - 2004年12月号）と『[機動戦士ガンダムSEED DESTINY](../Page/機動戦士ガンダムSEED_DESTINY.md "wikilink")』（2005年1月号 - 2006年06月号）のコミカライズ作品。全5+4巻。アニメ本編を忠実にコミカライズしており、細部にオリジナルの要素や修正が加えられている。
 
 作画：[岩瀬昌嗣](https://ja.wikipedia.org/wiki/岩瀬昌嗣 "wikilink")
 
@@ -49,11 +49,11 @@
 
 ### コミックボンボン版
 
-講談社から発売された『[機動戦士ガンダムSEED](../Page/機動戦士ガンダムSEED.md "wikilink")』と『[機動戦士ガンダムSEED DESTINY](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_DESTINY "wikilink")』のコミカライズ作品。全2+4巻。
+講談社から発売された『[機動戦士ガンダムSEED](../Page/機動戦士ガンダムSEED.md "wikilink")』と『[機動戦士ガンダムSEED DESTINY](../Page/機動戦士ガンダムSEED_DESTINY.md "wikilink")』のコミカライズ作品。全2+4巻。
 
-前者は『キラとアスランの激闘』というサブタイトルが付けられており[キラ・ヤマト](https://ja.wikipedia.org/wiki/キラ・ヤマト "wikilink")と[アスラン・ザラ](../Page/アスラン・ザラ.md "wikilink")を中心に、MSのバトルを主軸に物語が進む。アニメの『SEED』本編を大幅に省略しオリジナルエピソードを交えた友情物語となっている。単行本は絶版となっているが、後に文庫版が販売された。
+前者は『キラとアスランの激闘』というサブタイトルが付けられており[キラ・ヤマト](../Page/キラ・ヤマト.md "wikilink")と[アスラン・ザラ](../Page/アスラン・ザラ.md "wikilink")を中心に、MSのバトルを主軸に物語が進む。アニメの『SEED』本編を大幅に省略しオリジナルエピソードを交えた友情物語となっている。単行本は絶版となっているが、後に文庫版が販売された。
 
-後者は『キラとアスランの激闘』の続編ではなく、アニメの『DESTINY』本編を基にした作品。[シン・アスカ](https://ja.wikipedia.org/wiki/シン・アスカ "wikilink")を中心に[グラディス隊](../Page/タリア・グラディス.md "wikilink")（[ミネルバ側](https://ja.wikipedia.org/wiki/ミネルバ_\(ガンダムシリーズ\) "wikilink")）からの視点で物語が進む。これに伴い[オーブや](../Page/オーブ連合首長国.md "wikilink")[アークエンジェル側についてはほとんど描写されていない](../Page/アークエンジェル_\(ガンダムシリーズ\).md "wikilink")。替わりにシナリオの再構成やオリジナルエピソードが追加され、本編とは異なる展開が繰り広げられている。現在は絶版となっているが、コンビニコミックで一部が販売されている。なお、模型誌の宣伝に使われたこともあり、関連ゲーム『[ガンダム無双](https://ja.wikipedia.org/wiki/ガンダム無双 "wikilink")3』や『[機動戦士ガンダム_エクストリームバーサス](https://ja.wikipedia.org/wiki/機動戦士ガンダム_エクストリームバーサス "wikilink")』にも本作の台詞が使用されている。
+後者は『キラとアスランの激闘』の続編ではなく、アニメの『DESTINY』本編を基にした作品。[シン・アスカ](../Page/シン・アスカ.md "wikilink")を中心に[グラディス隊](../Page/タリア・グラディス.md "wikilink")（[ミネルバ側](../Page/ミネルバ_\(ガンダムシリーズ\).md "wikilink")）からの視点で物語が進む。これに伴い[オーブや](../Page/オーブ連合首長国.md "wikilink")[アークエンジェル側についてはほとんど描写されていない](../Page/アークエンジェル_\(ガンダムシリーズ\).md "wikilink")。替わりにシナリオの再構成やオリジナルエピソードが追加され、本編とは異なる展開が繰り広げられている。現在は絶版となっているが、コンビニコミックで一部が販売されている。なお、模型誌の宣伝に使われたこともあり、関連ゲーム『[ガンダム無双](https://ja.wikipedia.org/wiki/ガンダム無双 "wikilink")3』や『[機動戦士ガンダム_エクストリームバーサス](https://ja.wikipedia.org/wiki/機動戦士ガンダム_エクストリームバーサス "wikilink")』にも本作の台詞が使用されている。
 
 『[機動戦士Ζガンダム](https://ja.wikipedia.org/wiki/機動戦士Ζガンダム "wikilink")』から始まったコミックボンボンでのコミカライズは本作が最後となった。
 
@@ -68,7 +68,7 @@
 
 ### 機動戦士ガンダムSEED DESTINY THE EDGE
 
-[角川書店](../Page/角川書店.md "wikilink")から発売された『[機動戦士ガンダムSEED DESTINY](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_DESTINY "wikilink")』のコミカライズ作品。全5+2巻。[ガンダムエース](https://ja.wikipedia.org/wiki/ガンダムエース "wikilink")で連載され、アスラン・ザラの視点でストーリーが描かれており、戦闘よりも人間関係や心理描写がメインとなっている。『THE EDGE』終了後に開始した『THE EDGE Desire』は、シン・アスカ、[カガリ・ユラ・アスハ](../Page/カガリ・ユラ・アスハ.md "wikilink")、[イザーク・ジュール](../Page/イザーク・ジュール.md "wikilink")、[ミーア・キャンベル](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_DESTINYの登場人物#ミーア・キャンベル "wikilink")、[レイ・ザ・バレル](https://ja.wikipedia.org/wiki/レイ・ザ・バレル "wikilink")といったアスラン以外の人物の視点で描かれたオムニバスとなっている。
+[角川書店](../Page/角川書店.md "wikilink")から発売された『[機動戦士ガンダムSEED DESTINY](../Page/機動戦士ガンダムSEED_DESTINY.md "wikilink")』のコミカライズ作品。全5+2巻。[ガンダムエース](../Page/ガンダムエース.md "wikilink")で連載され、アスラン・ザラの視点でストーリーが描かれており、戦闘よりも人間関係や心理描写がメインとなっている。『THE EDGE』終了後に開始した『THE EDGE Desire』は、シン・アスカ、[カガリ・ユラ・アスハ](../Page/カガリ・ユラ・アスハ.md "wikilink")、[イザーク・ジュール](../Page/イザーク・ジュール.md "wikilink")、[ミーア・キャンベル](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_DESTINYの登場人物#ミーア・キャンベル "wikilink")、[レイ・ザ・バレル](../Page/レイ・ザ・バレル.md "wikilink")といったアスラン以外の人物の視点で描かれたオムニバスとなっている。
 
 作画：[久織ちまき](../Page/久織ちまき.md "wikilink")
 
@@ -95,7 +95,7 @@
 
 ### 機動戦士ガンダムSEED Re
 
-『月刊ガンダムエース』2012年6月号から連載開始した『機動戦士ガンダムSEED』のコミカライズ作品。作画は[石口十](https://ja.wikipedia.org/wiki/石口十 "wikilink")。『SEED』本編のシリーズ構成である両澤千晶が協力しており、オリジナルエピソードや新MSが追加された内容となっている。2014年4月号を最後に休載が続くが、その理由は不明。2016年2月末には両澤が[大動脈解離](https://ja.wikipedia.org/wiki/大動脈解離 "wikilink")で死去したが、その際も連載に関して一切触れられず、今後の動向は不明。石口は自身のTwitterのプロフィールで、2017年現在においては[太田垣康男](../Page/太田垣康男.md "wikilink")が代表を務めるスタジオ・トアに在籍し、「[機動戦士ガンダム サンダーボルト](https://ja.wikipedia.org/wiki/機動戦士ガンダム_サンダーボルト "wikilink")」の製作に携わっていることを明かしている。
+『月刊ガンダムエース』2012年6月号から連載開始した『機動戦士ガンダムSEED』のコミカライズ作品。作画は[石口十](https://ja.wikipedia.org/wiki/石口十 "wikilink")。『SEED』本編のシリーズ構成である両澤千晶が協力しており、オリジナルエピソードや新MSが追加された内容となっている。2014年4月号を最後に休載が続くが、その理由は不明。2016年2月末には両澤が[大動脈解離](../Page/大動脈解離.md "wikilink")で死去したが、その際も連載に関して一切触れられず、今後の動向は不明。石口は自身のTwitterのプロフィールで、2017年現在においては[太田垣康男](../Page/太田垣康男.md "wikilink")が代表を務めるスタジオ・トアに在籍し、「[機動戦士ガンダム サンダーボルト](https://ja.wikipedia.org/wiki/機動戦士ガンダム_サンダーボルト "wikilink")」の製作に携わっていることを明かしている。
 
 作画：石口十 協力：両澤千晶
 
@@ -108,7 +108,7 @@
 
 ### アニメコミックス
 
-講談社から発売された『[機動戦士ガンダムSEED](../Page/機動戦士ガンダムSEED.md "wikilink")』と『[機動戦士ガンダムSEED DESTINY](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_DESTINY "wikilink")』のアニメフィルムをコミックス風に仕立てたもの。1冊につき3〜4話程度を収録し、その時の情勢についてなどが掲載されている。『SEED』編は途中で打ち切られている。また、スペシャルエディション編の初回限定版では、付録として物語の背景などについての冊子が付いている。
+講談社から発売された『[機動戦士ガンダムSEED](../Page/機動戦士ガンダムSEED.md "wikilink")』と『[機動戦士ガンダムSEED DESTINY](../Page/機動戦士ガンダムSEED_DESTINY.md "wikilink")』のアニメフィルムをコミックス風に仕立てたもの。1冊につき3〜4話程度を収録し、その時の情勢についてなどが掲載されている。『SEED』編は途中で打ち切られている。また、スペシャルエディション編の初回限定版では、付録として物語の背景などについての冊子が付いている。
 
   - 機動戦士ガンダムSEED (1)
   - 機動戦士ガンダムSEED (2)
@@ -294,12 +294,12 @@
   - 機動戦士ガンダムSEED 終わらない明日へ 決戦攻略ガイド
   - 機動戦士ガンダムSEED 終わらない明日へ コンプリートガイド
   - 機動戦士ガンダムSEED 終わらない明日へ ザ・マスターガイド
-  - [機動戦士ガンダムSEED 連合vs.Z.A.F.T.](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_連合vs.Z.A.F.T. "wikilink") 覚醒ガイドブック
+  - [機動戦士ガンダムSEED 連合vs.Z.A.F.T.](../Page/機動戦士ガンダムSEED_連合vs.Z.A.F.T..md "wikilink") 覚醒ガイドブック
   - 機動戦士ガンダムSEED 連合vs.Z.A.F.T. 完全攻略ガイド
   - 機動戦士ガンダムSEED 連合vs.Z.A.F.T. ザ・マスターガイド
   - 機動戦士ガンダムSEED 連合vs.Z.A.F.T. PORTABLE コンプリートガイド
   - 機動戦士ガンダムSEED DESTINY 完全攻略ガイド
-  - [機動戦士ガンダムSEED DESTINY GENERATION of C.E.](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_DESTINY_GENERATION_of_C.E. "wikilink") エキスパート攻略ガイド
+  - [機動戦士ガンダムSEED DESTINY GENERATION of C.E.](../Page/機動戦士ガンダムSEED_DESTINY_GENERATION_of_C.E..md "wikilink") エキスパート攻略ガイド
   - 機動戦士ガンダムSEED DESTINY GENERATION of C.E. ガイドブック
   - 機動戦士ガンダムSEED DESTINY GENERATION of C.E. コンプリートガイド
   - 機動戦士ガンダムSEED DESTINY GENERATION of C.E. ザ・マスターガイド
@@ -310,14 +310,14 @@
 
 ## 関連項目
 
-  - [バンダイナムコグループ](https://ja.wikipedia.org/wiki/バンダイナムコグループ "wikilink")
-      - [サンライズ (アニメ制作会社)](https://ja.wikipedia.org/wiki/サンライズ_\(アニメ制作会社\) "wikilink")
+  - [バンダイナムコグループ](../Page/バンダイナムコグループ.md "wikilink")
+      - [サンライズ (アニメ制作会社)](../Page/サンライズ_\(アニメ制作会社\).md "wikilink")
       - [バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")
       - [バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")
       - [バンダイ](../Page/バンダイ.md "wikilink")
-      - [バンプレスト](https://ja.wikipedia.org/wiki/バンプレスト "wikilink")
+      - [バンプレスト](../Page/バンプレスト.md "wikilink")
   - [角川書店](../Page/角川書店.md "wikilink")
-  - [アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")（2008年3月までは[メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink")）
+  - [アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")（2008年3月までは[メディアワークス](../Page/メディアワークス.md "wikilink")）
   - [ホビージャパン](../Page/ホビージャパン.md "wikilink")
   - [講談社](../Page/講談社.md "wikilink")
   - [徳間書店](../Page/徳間書店.md "wikilink")

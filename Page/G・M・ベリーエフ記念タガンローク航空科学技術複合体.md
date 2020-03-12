@@ -9,11 +9,11 @@
 
 ## 概要
 
-ベリエフ設計局は、[ソ連時代の](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[1934年](../Page/1934年.md "wikilink")、[ゲオールギイ・ミハーイロヴィチ・ベリーエフによって](../Page/ゲオールギイ・ベリーエフ.md "wikilink")[ロシア共和国の](../Page/ロシア・ソビエト連邦社会主義共和国.md "wikilink")[タガンローク](https://ja.wikipedia.org/wiki/タガンローク "wikilink")で開設された。それ以降、局では戦前戦中を通して多くの[軍用機](../Page/軍用機.md "wikilink")が開発された。それらはまた、民間用にも流用された。しかし、[Be-32のような](https://ja.wikipedia.org/wiki/Be-32_\(航空機\) "wikilink")[旅客機](../Page/旅客機.md "wikilink")は[An-24との競合に敗れ採用とはならなかった](https://ja.wikipedia.org/wiki/An-24_\(航空機\) "wikilink")。
+ベリエフ設計局は、[ソ連時代の](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[1934年](../Page/1934年.md "wikilink")、[ゲオールギイ・ミハーイロヴィチ・ベリーエフによって](../Page/ゲオールギイ・ベリーエフ.md "wikilink")[ロシア共和国の](../Page/ロシア・ソビエト連邦社会主義共和国.md "wikilink")[タガンローク](https://ja.wikipedia.org/wiki/タガンローク "wikilink")で開設された。それ以降、局では戦前戦中を通して多くの[軍用機](../Page/軍用機.md "wikilink")が開発された。それらはまた、民間用にも流用された。しかし、[Be-32のような](https://ja.wikipedia.org/wiki/Be-32_\(航空機\) "wikilink")[旅客機](../Page/旅客機.md "wikilink")は[An-24との競合に敗れ採用とはならなかった](../Page/An-24_\(航空機\).md "wikilink")。
 
 ベリエフ設計局がもっともその力を発揮したのは飛行艇・[水上飛行機分野で](../Page/水上機.md "wikilink")、水陸両用機を含め多くの優れた機体が生み出された。代表的な機種は[MBR-2](https://ja.wikipedia.org/wiki/MBR-2_\(航空機\) "wikilink")、[Be-2](https://ja.wikipedia.org/wiki/Be-2_\(航空機\) "wikilink")(KOR-1)、[Be-6](../Page/Be-6_\(航空機\).md "wikilink")、[Be-8](https://ja.wikipedia.org/wiki/Be-8_\(航空機\) "wikilink")、[Be-10](https://ja.wikipedia.org/wiki/Be-10_\(航空機\) "wikilink")、[Be-12](../Page/Be-12_\(航空機\).md "wikilink")、[Be-200で](../Page/Be-200_\(航空機\).md "wikilink")、特に戦後のソ連やロシアの飛行艇はすべてベリエフ設計局製であると言っても過言ではない。
 
-また、ベリエフ設計局は[1980年代](../Page/1980年代.md "wikilink")には[イリューシン設計局の](https://ja.wikipedia.org/wiki/S・V・イリユーシン記念航空複合体 "wikilink")[Il-76をもとにした](https://ja.wikipedia.org/wiki/Il-76_\(航空機\) "wikilink")[早期警戒管制機](../Page/早期警戒管制機.md "wikilink")[A-50を実用化した](../Page/A-50_\(航空機\).md "wikilink")。A-50はその後、ソ連、ロシアの唯一の早期警戒管制機となった。
+また、ベリエフ設計局は[1980年代](../Page/1980年代.md "wikilink")には[イリューシン設計局の](../Page/S・V・イリユーシン記念航空複合体.md "wikilink")[Il-76をもとにした](../Page/Il-76_\(航空機\).md "wikilink")[早期警戒管制機](../Page/早期警戒管制機.md "wikilink")[A-50を実用化した](../Page/A-50_\(航空機\).md "wikilink")。A-50はその後、ソ連、ロシアの唯一の早期警戒管制機となった。
 
 ソ連崩壊後も企業体として存続しており、現在は[スホーイ](../Page/スホーイ.md "wikilink")・コーポレーションと緩やかなシンジケートを形成している。 機体の製造をスホーイ系の[KnAAZ](https://ja.wikipedia.org/wiki/YYu.A.ガガーリン記念コムソモーリスク・ナ・アムーレ航空機工場 "wikilink")(主にBe-103の製造)や[イルクート](https://ja.wikipedia.org/wiki/イルクート_\(航空機メーカー\) "wikilink")(同、Be-200)に委託するなど協力関係にある。
 
@@ -52,7 +52,7 @@
   - [A-50](../Page/A-50_\(航空機\).md "wikilink")() - 空中早期警戒管制機([1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink"))
   - [976 SKIP](https://ja.wikipedia.org/wiki/Il-976_\(航空機\) "wikilink")() - 空中コマンドポスト機([1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink"))
   - [A-40アリバトロース](../Page/A-40_\(航空機\).md "wikilink")() - 水陸両用機(1986年)
-  - [A-60](https://ja.wikipedia.org/wiki/A-60_\(航空機\) "wikilink")() - [レーザー](https://ja.wikipedia.org/wiki/レーザー "wikilink")砲搭載攻撃機([1988年](../Page/1988年.md "wikilink"))
+  - [A-60](https://ja.wikipedia.org/wiki/A-60_\(航空機\) "wikilink")() - [レーザー](../Page/レーザー.md "wikilink")砲搭載攻撃機([1988年](../Page/1988年.md "wikilink"))
   - [Be-12Pチャイカ](../Page/Be-12_\(航空機\).md "wikilink")() - [消防機](https://ja.wikipedia.org/wiki/消防機 "wikilink")([1992年](../Page/1992年.md "wikilink"))
   - [Be-32](https://ja.wikipedia.org/wiki/Be-32_\(航空機\) "wikilink")() - 旅客機([1993年](../Page/1993年.md "wikilink"))
   - [Be-32K](https://ja.wikipedia.org/wiki/Be-32_\(航空機\) "wikilink")() - 旅客機(1993年)

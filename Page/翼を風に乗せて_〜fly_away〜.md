@@ -1,12 +1,12 @@
 > この記事は[ fly away](https://ja.wikipedia.org/wiki/_fly_away)から翻訳されています。
 
 
-**翼を風に乗せて〜fly away〜**（つばさをかぜにのせて フライ・アウェイ）は、[DEEN](https://ja.wikipedia.org/wiki/DEEN "wikilink")の25枚目のシングル。
+**翼を風に乗せて〜fly away〜**（つばさをかぜにのせて フライ・アウェイ）は、[DEEN](../Page/DEEN.md "wikilink")の25枚目のシングル。
 
 ## 作品解説
 
   - 元々はクラシックスシリーズ第三弾「Classics Three SAKURA～」として「Teenage dream」「LOVE FOREVER」の春（SAKURA）をイメージにリアレンジしたバージョンとともにリリースされる予定だったが、DEENの25thシングル「翼を風に乗せて〜fly away〜」としてリリースされた。久々のTOP10入りを果たした。
-  - ビーイング直営の[BERG レーベル最後のシングル](https://ja.wikipedia.org/wiki/BERG_レーベル "wikilink")。この後レーベル消滅、[ビーイング](../Page/ビーイング.md "wikilink")離脱。
+  - ビーイング直営の[BERG レーベル最後のシングル](../Page/BERG_レーベル.md "wikilink")。この後レーベル消滅、[ビーイング](../Page/ビーイング.md "wikilink")離脱。
 
 ## 収録トラックス
 
@@ -20,7 +20,7 @@
 ## 収録アルバム
 
   - 『[UTOPIA](../Page/UTOPIA_\(DEENのアルバム\).md "wikilink")』(\#1、Al Schmitt MIX)
-  - 『[SINGLES+1](https://ja.wikipedia.org/wiki/SINGLES+1 "wikilink")』(\#1)
+  - 『[SINGLES+1](../Page/SINGLES+1.md "wikilink")』(\#1)
   - 『[DEEN PERFECT SINGLES +](https://ja.wikipedia.org/wiki/DEEN_PERFECT_SINGLES_+ "wikilink")』(\#1)
   - 『[Another Side Memories〜Precious Best〜](https://ja.wikipedia.org/wiki/Another_Side_Memories〜Precious_Best〜 "wikilink")』(\#2)
   - 『[DEENAGE MEMORY -20周年記念ベストアルバム-](https://ja.wikipedia.org/wiki/DEENAGE_MEMORY_-20周年記念ベストアルバム- "wikilink")』(\#1)
@@ -30,20 +30,20 @@
 
 ### 出演
 
-  - [小市慢太郎](https://ja.wikipedia.org/wiki/小市慢太郎 "wikilink")
+  - [小市慢太郎](../Page/小市慢太郎.md "wikilink")
 
 ## 参加ミュージシャン
 
 ### DEEN
 
-  - [池森秀一](https://ja.wikipedia.org/wiki/池森秀一 "wikilink")：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
-  - [山根公路](https://ja.wikipedia.org/wiki/山根公路 "wikilink")：[キーボード](../Page/キーボード_\(楽器\).md "wikilink")
-  - [田川伸治](https://ja.wikipedia.org/wiki/田川伸治 "wikilink")：[ギター](../Page/ギター.md "wikilink")
+  - [池森秀一](../Page/池森秀一.md "wikilink")：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
+  - [山根公路](../Page/山根公路.md "wikilink")：[キーボード](../Page/キーボード_\(楽器\).md "wikilink")
+  - [田川伸治](../Page/田川伸治.md "wikilink")：[ギター](../Page/ギター.md "wikilink")
 
 ### サポート
 
-  - [沼澤尚](https://ja.wikipedia.org/wiki/沼澤尚 "wikilink")(\#1,\#2)：[ドラム](../Page/ドラムセット.md "wikilink")
-  - 宮野和也(\#1,\#2)：[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - [沼澤尚](../Page/沼澤尚.md "wikilink")(\#1,\#2)：[ドラム](../Page/ドラムセット.md "wikilink")
+  - 宮野和也(\#1,\#2)：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
   - [大平勉](../Page/大平勉.md "wikilink")(\#1,\#2)：キーボード
   - 佐々木史郎(\#2)：[トランペット](../Page/トランペット.md "wikilink")
   - 河合わかば(\#2)：[トロンボーン](../Page/トロンボーン.md "wikilink")

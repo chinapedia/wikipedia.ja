@@ -1,13 +1,13 @@
 > この記事は[TKU](https://ja.wikipedia.org/wiki/TKU)から翻訳されています。
 
 
-『**TKUスーパーニュースぴゅあピュア**』（ティーケーユースーパーニュースぴゅあピュア、通称「**ぴゅあピュア**」）は、[2002年](../Page/2002年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[2013年](../Page/2013年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで[テレビ熊本](../Page/テレビ熊本.md "wikilink")で[平日](https://ja.wikipedia.org/wiki/平日 "wikilink")に放送されていた[夕方ワイド番組](https://ja.wikipedia.org/wiki/夕方ワイド番組 "wikilink")である（[祝日](../Page/祝日.md "wikilink")にも放送あり）。[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作（ハイビジョン放送は[地上デジタル放送のみで実施](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")）。
+『**TKUスーパーニュースぴゅあピュア**』（ティーケーユースーパーニュースぴゅあピュア、通称「**ぴゅあピュア**」）は、[2002年](../Page/2002年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[2013年](../Page/2013年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで[テレビ熊本](../Page/テレビ熊本.md "wikilink")で[平日](../Page/平日.md "wikilink")に放送されていた[夕方ワイド番組](../Page/夕方ワイド番組.md "wikilink")である（[祝日](../Page/祝日.md "wikilink")にも放送あり）。[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作（ハイビジョン放送は[地上デジタル放送のみで実施](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")）。
 
 [土曜日](../Page/土曜日.md "wikilink")と[日曜日](../Page/日曜日.md "wikilink")には『**[FNNスーパーニュースWEEKEND](https://ja.wikipedia.org/wiki/FNNスーパーニュースWEEKEND "wikilink")**』と題して放送されていた。
 
 ## 番組概要
 
-  - 17:54-18:15は[東京からの](https://ja.wikipedia.org/wiki/東京都 "wikilink")「**FNNスーパーニュース**」を放送し、18:15-19:00はローカルニュースなどを中心に放送している。
+  - 17:54-18:15は[東京からの](../Page/東京都.md "wikilink")「**FNNスーパーニュース**」を放送し、18:15-19:00はローカルニュースなどを中心に放送している。
   - [2007年](../Page/2007年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から、FNNスーパーニュースの開始時間が2分前倒しになるため、それに合わせ、この番組は同日から番組が16:52からスタートとなった。
 
 ### 2008年秋改編
@@ -48,7 +48,7 @@
 
 ### メインキャスター
 
-  - 2002.4.1 - 2003.3.28 <第1部>[しみずひろ](https://ja.wikipedia.org/wiki/しみずひろ "wikilink")（ローカルタレント）・[郡司琢哉](https://ja.wikipedia.org/wiki/郡司琢哉 "wikilink")・[藤本愛英](https://ja.wikipedia.org/wiki/藤本愛英 "wikilink") <第2部>[荒木恒竹](../Page/荒木恒竹.md "wikilink")・[尾谷いずみ](../Page/尾谷いずみ.md "wikilink")
+  - 2002.4.1 - 2003.3.28 <第1部>[しみずひろ](https://ja.wikipedia.org/wiki/しみずひろ "wikilink")（ローカルタレント）・[郡司琢哉](../Page/郡司琢哉.md "wikilink")・[藤本愛英](../Page/藤本愛英.md "wikilink") <第2部>[荒木恒竹](../Page/荒木恒竹.md "wikilink")・[尾谷いずみ](../Page/尾谷いずみ.md "wikilink")
   - 2003.3.31 - 2008.9.26 荒木恒竹・尾谷いずみ
   - 2008.9.29 - 2009.3.27 尾谷いずみ・郡司琢哉・[中原理菜](../Page/中原理菜.md "wikilink")
   - 2009.3.30 - 2011.9.30 <第1部>荒木恒竹・藤本愛英 <第2部>尾谷いずみ・郡司琢哉・中原理菜
@@ -75,7 +75,7 @@
   - 月曜日 [河津和明](https://ja.wikipedia.org/wiki/河津和明 "wikilink")（[弁護士](../Page/弁護士.md "wikilink")、河津和明弁護士事務所所長） - 途中降板。
   - 火曜日 [河上浩一](https://ja.wikipedia.org/wiki/河上浩一 "wikilink")（[福田病院](https://ja.wikipedia.org/wiki/福田病院 "wikilink")院長） - 2010年3月まで出演。
   - 火曜日 [新堀曜子](https://ja.wikipedia.org/wiki/新堀曜子 "wikilink")（福田病院医師） - 2010年4月から出演。
-  - 水曜日 [村上光太郎](https://ja.wikipedia.org/wiki/村上光太郎 "wikilink")（[崇城大学](https://ja.wikipedia.org/wiki/崇城大学 "wikilink")薬学部教授） - 途中降板。
+  - 水曜日 [村上光太郎](https://ja.wikipedia.org/wiki/村上光太郎 "wikilink")（[崇城大学](../Page/崇城大学.md "wikilink")薬学部教授） - 途中降板。
   - 木曜日 [山下佐江子](https://ja.wikipedia.org/wiki/山下佐江子 "wikilink")（[フードコーディネーター](https://ja.wikipedia.org/wiki/フードコーディネーター "wikilink")） - 途中降板。
   - 木曜日 [堀内賢二](https://ja.wikipedia.org/wiki/堀内賢二 "wikilink")（[杉村病院](https://ja.wikipedia.org/wiki/杉村病院 "wikilink")副院長） - 2011年4月から出演。
   - 金曜日 [西勝英](https://ja.wikipedia.org/wiki/西勝英 "wikilink")（[桜十字病院](../Page/桜十字病院.md "wikilink")総院長）
@@ -88,7 +88,7 @@
 ### その他の出演者
 
   - [野田亜紅](https://ja.wikipedia.org/wiki/野田亜紅 "wikilink")（当時TKUアナウンサー）
-  - [山本琢也](https://ja.wikipedia.org/wiki/山本琢也 "wikilink")（当時TKUアナウンサー）
+  - [山本琢也](../Page/山本琢也.md "wikilink")（当時TKUアナウンサー）
   - [田中朝子](https://ja.wikipedia.org/wiki/田中朝子 "wikilink")（当時TKUアナウンサー）
 
 ## 放送時間
@@ -147,14 +147,14 @@
 
 ### 第2部
 
-  - 17:54 「**FNNスーパーニュース**」（フジテレビ発全国ニュース） - 右上に「**[TKUスーパーニュース FNN](https://ja.wikipedia.org/wiki/TKUスーパーニュース "wikilink")**」のロゴを表示してオープニングを迎える。
+  - 17:54 「**FNNスーパーニュース**」（フジテレビ発全国ニュース） - 右上に「**[TKUスーパーニュース FNN](../Page/TKUスーパーニュース.md "wikilink")**」のロゴを表示してオープニングを迎える。
   - 18:15 「**TKUスーパーニュース**」オープニング - ここからはキャスターとコメンテーターのみが出演。
   - 18:16頃 熊本県内ローカルニュース、CM前ジングル、CM1
   - 18:27頃 第2部特集、TODAY'S NEWS
   - 18:35頃 天気予報「ぴゅあピュア気象台」、週末情報「ウイークエンドチェック」（金曜のみ）
   - 18:40 ニュース（FNNスーパーニュース）、CM2
   - 18:45頃 ニュース（FNNスーパーニュース）、CM3、ニュース（FNNスーパーニュース）、CM4
-  - 18:54頃 明日の番組予告、カメラマン映像スケッチ、明日の天気ワンポイント、エンディング、[提供クレジット](https://ja.wikipedia.org/wiki/提供クレジット "wikilink")、ENDクレジット
+  - 18:54頃 明日の番組予告、カメラマン映像スケッチ、明日の天気ワンポイント、エンディング、[提供クレジット](../Page/提供クレジット.md "wikilink")、ENDクレジット
   - 18:58 終了
 
 ## スタッフ
@@ -178,8 +178,8 @@
 ## 関連項目
 
   - [FNNスーパーニュース](../Page/FNNスーパーニュース.md "wikilink")
-  - [夕方ワイド番組](https://ja.wikipedia.org/wiki/夕方ワイド番組 "wikilink")
-  - [TKUスーパーニュース](https://ja.wikipedia.org/wiki/TKUスーパーニュース "wikilink")
+  - [夕方ワイド番組](../Page/夕方ワイド番組.md "wikilink")
+  - [TKUスーパーニュース](../Page/TKUスーパーニュース.md "wikilink")
 
 [Category:2002年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2002年のテレビ番組_\(日本\) "wikilink") [Category:テレビ熊本の番組](https://ja.wikipedia.org/wiki/Category:テレビ熊本の番組 "wikilink") [Category:九州・沖縄地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のテレビの帯番組 "wikilink") [Category:九州・沖縄地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のテレビのニュース・報道番組の歴史 "wikilink") [Category:九州・沖縄地方のテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のテレビの情報・ワイドショー番組 "wikilink") [Category:FNNスーパーニュース](https://ja.wikipedia.org/wiki/Category:FNNスーパーニュース "wikilink")
 

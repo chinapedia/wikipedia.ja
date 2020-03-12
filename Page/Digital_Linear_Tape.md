@@ -1,7 +1,7 @@
 > この記事は[Digital Linear Tape](https://ja.wikipedia.org/wiki/Digital_Linear_Tape)から翻訳されています。
 
 
-**DLT**、**Digital Linear Tape**（デジタルリニアテープ）は、[磁気テープ](../Page/磁気テープ.md "wikilink")を使用した大容量[補助記憶装置](../Page/補助記憶装置.md "wikilink")の規格。 [1984年](../Page/1984年.md "wikilink")に[DEC社が同社のMicro](https://ja.wikipedia.org/wiki/デジタル・イクイップメント・コーポレーション "wikilink") [VAX](https://ja.wikipedia.org/wiki/VAX "wikilink") II ワークステーション向けに開発したもので、かつてはデータ記憶装置の[デファクトスタンダード](../Page/デファクトスタンダード.md "wikilink")の一つだった。 [thumb](https://ja.wikipedia.org/wiki/ファイル:DLTtape-chtaube050402.jpg "wikilink") 当初の型名はTK50と称した。
+**DLT**、**Digital Linear Tape**（デジタルリニアテープ）は、[磁気テープ](../Page/磁気テープ.md "wikilink")を使用した大容量[補助記憶装置](../Page/補助記憶装置.md "wikilink")の規格。 [1984年](../Page/1984年.md "wikilink")に[DEC社が同社のMicro](https://ja.wikipedia.org/wiki/デジタル・イクイップメント・コーポレーション "wikilink") [VAX](../Page/VAX.md "wikilink") II ワークステーション向けに開発したもので、かつてはデータ記憶装置の[デファクトスタンダード](../Page/デファクトスタンダード.md "wikilink")の一つだった。 [thumb](https://ja.wikipedia.org/wiki/ファイル:DLTtape-chtaube050402.jpg "wikilink") 当初の型名はTK50と称した。
 
 [1994年](../Page/1994年.md "wikilink")に[クァンタム社](../Page/クアンタム_\(企業\).md "wikilink") ([:en:Quantum_Corporation](https://ja.wikipedia.org/wiki/:en:Quantum_Corporation "wikilink")) がDEC社から買い取り、販売および開発を引き継ぎ、記憶容量の向上など改良を加えている。
 

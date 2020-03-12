@@ -1,7 +1,7 @@
 > この記事は[CATALOGUE 1987-1995](https://ja.wikipedia.org/wiki/CATALOGUE_1987-1995)から翻訳されています。
 
 
-『**CATALOGUE 1987-1995**』（カタログ－）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンドである](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")[BUCK-TICK](https://ja.wikipedia.org/wiki/BUCK-TICK "wikilink")の1枚目の[シングル](../Page/シングル.md "wikilink")曲集、または同内容の[PV集](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[12月1日](../Page/12月1日.md "wikilink")に[ビクターインビテーションよりリリースされた](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")。
+『**CATALOGUE 1987-1995**』（カタログ－）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンドである](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")[BUCK-TICK](../Page/BUCK-TICK.md "wikilink")の1枚目の[シングル](../Page/シングル.md "wikilink")曲集、または同内容の[PV集](../Page/ミュージック・ビデオ.md "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[12月1日](../Page/12月1日.md "wikilink")に[ビクターインビテーションよりリリースされた](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")。
 
 [2001年](../Page/2001年.md "wikilink")[5月23日](../Page/5月23日.md "wikilink")に、[1996年](../Page/1996年.md "wikilink")発売のシングル「[キャンディ](https://ja.wikipedia.org/wiki/キャンディ_\(BUCK-TICKの曲\) "wikilink")」のPVを追加収録した[DVD](../Page/DVD.md "wikilink")が[HAPPY HOUSEより発売された](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")。
 
@@ -9,8 +9,8 @@
 
 ## 解説
 
-  - バンド結成10周年記念としてリリースされた初の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")から1995年までのシングルの1曲目が時系列順に収録されている。1曲目の「[JUST ONE MORE KISS](https://ja.wikipedia.org/wiki/JUST_ONE_MORE_KISS "wikilink")」以外は全てシングルバージョンとなっており、このアルバムのリリース時点ではアルバム初収録となった。
-  - BUCK-TICKは翌年リリースされる[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")『[COSMOS](../Page/COSMOS_\(アルバム\).md "wikilink")』をもって、ビクターから[MERCURY](../Page/マーキュリー・レコード.md "wikilink") へ移籍。その後ビクターより[1999年](../Page/1999年.md "wikilink")に発売されたベストアルバム『[BT](https://ja.wikipedia.org/wiki/BT_\(BEST_TRACKS\) "wikilink")』にビクター在籍時のシングルが[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")も含め全て収録されているため、本作の収録曲が全て収録されている。またPV集も同様に後に発売された『BUCK-TICK PICTURE PRODUCT』や『SINGLES on Digital Video Disc』に収録曲が全て収められている。
+  - バンド結成10周年記念としてリリースされた初の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")から1995年までのシングルの1曲目が時系列順に収録されている。1曲目の「[JUST ONE MORE KISS](https://ja.wikipedia.org/wiki/JUST_ONE_MORE_KISS "wikilink")」以外は全てシングルバージョンとなっており、このアルバムのリリース時点ではアルバム初収録となった。
+  - BUCK-TICKは翌年リリースされる[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")『[COSMOS](../Page/COSMOS_\(アルバム\).md "wikilink")』をもって、ビクターから[MERCURY](../Page/マーキュリー・レコード.md "wikilink") へ移籍。その後ビクターより[1999年](../Page/1999年.md "wikilink")に発売されたベストアルバム『[BT](https://ja.wikipedia.org/wiki/BT_\(BEST_TRACKS\) "wikilink")』にビクター在籍時のシングルが[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")も含め全て収録されているため、本作の収録曲が全て収録されている。またPV集も同様に後に発売された『BUCK-TICK PICTURE PRODUCT』や『SINGLES on Digital Video Disc』に収録曲が全て収められている。
   - 再発盤(紙ジャケット仕様)は全曲デジタルリマスタリングされている。
 
 ## 収録曲
@@ -46,7 +46,7 @@
   - 櫻井敦司 - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
   - 今井寿 - [ギター](../Page/ギター.md "wikilink")
   - 星野英彦 - ギター、[キーボード](../Page/キーボード_\(楽器\).md "wikilink")
-  - [樋口豊](../Page/樋口豊_\(ミュージシャン\).md "wikilink") - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - [樋口豊](../Page/樋口豊_\(ミュージシャン\).md "wikilink") - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
   - [ヤガミトール](../Page/ヤガミトール.md "wikilink") - [ドラムス](../Page/ドラムセット.md "wikilink")
 
 [Category:BUCK-TICKのベスト・アルバム](https://ja.wikipedia.org/wiki/Category:BUCK-TICKのベスト・アルバム "wikilink") [Category:1995年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:1995年のベスト・アルバム "wikilink") [Category:ビクターインビテーションのアルバム](https://ja.wikipedia.org/wiki/Category:ビクターインビテーションのアルバム "wikilink") [Category:1995年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:1995年の音楽関連の映像作品 "wikilink") [Category:ビデオ・クリップ集](https://ja.wikipedia.org/wiki/Category:ビデオ・クリップ集 "wikilink")

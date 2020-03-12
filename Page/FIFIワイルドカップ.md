@@ -13,7 +13,7 @@ FIFIワイルドカップ（英: FIFI Wild Cup）は、Federation of Internation
 
   - （[グリーンランド](https://ja.wikipedia.org/wiki/グリーンランド "wikilink")）
 
-  - （[チベット](https://ja.wikipedia.org/wiki/チベット "wikilink")・[ガンデンポタン](https://ja.wikipedia.org/wiki/ガンデンポタン "wikilink")）
+  - （[チベット](https://ja.wikipedia.org/wiki/チベット "wikilink")・[ガンデンポタン](../Page/ガンデンポタン.md "wikilink")）
 
   - （[北キプロス・トルコ共和国](../Page/北キプロス・トルコ共和国.md "wikilink")）
 
@@ -75,7 +75,7 @@ FIFIワイルドカップ（英: FIFI Wild Cup）は、Federation of Internation
 
   - [事実上独立した地域一覧](https://ja.wikipedia.org/wiki/事実上独立した地域一覧 "wikilink")
   - [独立主張のある地域一覧](https://ja.wikipedia.org/wiki/独立主張のある地域一覧 "wikilink")
-  - [日本が承認していない国一覧](https://ja.wikipedia.org/wiki/日本が承認していない国一覧 "wikilink")
+  - [日本が承認していない国一覧](../Page/日本が承認していない国一覧.md "wikilink")
   - [アザー・ファイナル](../Page/アザー・ファイナル.md "wikilink")
   - [VIVAワールドカップ](https://ja.wikipedia.org/wiki/VIVAワールドカップ "wikilink")
 

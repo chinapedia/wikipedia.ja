@@ -3,9 +3,9 @@
 
 **XDCAM**（エックスディカム）は、[ソニー](../Page/ソニー.md "wikilink")が開発した放送業務用ディスクビデオシステム。 [2003年](../Page/2003年.md "wikilink")10月に[SDシステムの発売が開始され](../Page/世界の放送方式.md "wikilink")、2006年4月には[HDシステムが発表された](https://ja.wikipedia.org/wiki/高精細度テレビジョン放送 "wikilink")。記録メディアは「[Professional Disc](../Page/Professional_Disc.md "wikilink")」という名称で、カートリッジに入っており1層23.3GB、2層50GBの容量を持ち[Blu-ray Discと同じ波長](../Page/Blu-ray_Disc.md "wikilink")405nmの青紫色レーザーを利用する直径12cmの光ディスクである。
 
-記録フォーマットには [MPEG-2](../Page/MPEG-2.md "wikilink") (**[MPEG IMX](https://ja.wikipedia.org/wiki/MPEG_IMX "wikilink")**と**MPEG HD**、**MPEG HD422**)と[DVCAM](https://ja.wikipedia.org/wiki/DVCAM "wikilink")フォーマットが利用されており、[BDMV](https://ja.wikipedia.org/wiki/BDMV "wikilink")(BD-Video) (Blu-ray Discでの民生用ビデオフォーマット)との互換性はない。
+記録フォーマットには [MPEG-2](../Page/MPEG-2.md "wikilink") (**[MPEG IMX](https://ja.wikipedia.org/wiki/MPEG_IMX "wikilink")**と**MPEG HD**、**MPEG HD422**)と[DVCAM](../Page/DVCAM.md "wikilink")フォーマットが利用されており、[BDMV](../Page/BDMV.md "wikilink")(BD-Video) (Blu-ray Discでの民生用ビデオフォーマット)との互換性はない。
 
-従来の[磁気テープ](../Page/磁気テープ.md "wikilink")を使った[VTRシステムと比較して](../Page/ビデオテープレコーダ.md "wikilink")[ノンリニア編集](https://ja.wikipedia.org/wiki/ノンリニア編集 "wikilink")が容易なことが特長で、[カムコーダ](../Page/カムコーダ.md "wikilink")も揺れや衝撃への耐性も実用上問題ない範囲におさえられている。
+従来の[磁気テープ](../Page/磁気テープ.md "wikilink")を使った[VTRシステムと比較して](../Page/ビデオテープレコーダ.md "wikilink")[ノンリニア編集](../Page/ノンリニア編集.md "wikilink")が容易なことが特長で、[カムコーダ](../Page/カムコーダ.md "wikilink")も揺れや衝撃への耐性も実用上問題ない範囲におさえられている。
 
 ## 沿革
 
@@ -53,11 +53,11 @@
 
 ## 関連項目
 
-  - [HDCAM](https://ja.wikipedia.org/wiki/HDCAM "wikilink")
-  - [HDV](https://ja.wikipedia.org/wiki/HDV "wikilink")
+  - [HDCAM](../Page/HDCAM.md "wikilink")
+  - [HDV](../Page/HDV.md "wikilink")
   - [MPEG IMX](https://ja.wikipedia.org/wiki/MPEG_IMX "wikilink")
-  - [DVCPRO](https://ja.wikipedia.org/wiki/DVCPRO "wikilink")
-  - [P2](https://ja.wikipedia.org/wiki/P2 "wikilink")
+  - [DVCPRO](../Page/DVCPRO.md "wikilink")
+  - [P2](../Page/P2.md "wikilink")
 
 ## 外部リンク
 
@@ -66,6 +66,6 @@
 
 [Category:ビデオディスク](https://ja.wikipedia.org/wiki/Category:ビデオディスク "wikilink") [Category:光ディスク](https://ja.wikipedia.org/wiki/Category:光ディスク "wikilink") [Category:ソニーの製品](https://ja.wikipedia.org/wiki/Category:ソニーの製品 "wikilink") [Category:電子媒体](https://ja.wikipedia.org/wiki/Category:電子媒体 "wikilink") [Category:ビデオストレージ](https://ja.wikipedia.org/wiki/Category:ビデオストレージ "wikilink")
 
-1.  [【NAB2007】ソニー，フラッシュ・メモリ採用機など業務用HDTVビデオ・カメラを強化](http://techon.nikkeibp.co.jp/article/NEWS/20070416/130884/) - Tech-On\! [2007年](../Page/2007年.md "wikilink")[4月16日](https://ja.wikipedia.org/wiki/4月16日 "wikilink")
+1.  [【NAB2007】ソニー，フラッシュ・メモリ採用機など業務用HDTVビデオ・カメラを強化](http://techon.nikkeibp.co.jp/article/NEWS/20070416/130884/) - Tech-On\! [2007年](../Page/2007年.md "wikilink")[4月16日](../Page/4月16日.md "wikilink")
 2.  [業務用機器搭載フォーマット](https://www.sony.com/articleimage/servlet/servlet.FileDownload?file=0155F000007WzqmQAC) Sony
 3.

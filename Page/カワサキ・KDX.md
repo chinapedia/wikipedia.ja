@@ -7,7 +7,7 @@
 
 最初にKDXの名称が付けられたのは、[1979年](../Page/1979年.md "wikilink")に発売された空冷2ストローク400ccの**KDX400**であり、以降KDXの名称は、2ストロークエンジンの[エンデューロ](https://ja.wikipedia.org/wiki/エンデューロ "wikilink")モデルに使われ続けた。
 
-その後、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")にモトクロッサーKX125をベースに開発したKDX175が米国で発売されベストセラーを記録。このヒットにより[1981年](../Page/1981年.md "wikilink")には、KDX250とKDX420が発売された。そして1982年に**KDX200**が開発された、KDX200はKDX175をベースに単に排気量アップしたモデルであったが、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に待望の[排気デバイス](https://ja.wikipedia.org/wiki/排気デバイス "wikilink")**[KIPS](https://ja.wikipedia.org/wiki/KIPS "wikilink")**が搭載された通称「空冷KDX」が開発され、翌年[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")には、日本で販売された。[1988年](../Page/1988年.md "wikilink")には、それ迄の空冷から水冷に進化したKDX200Rが、翌[1989年](../Page/1989年.md "wikilink")には、公道用のKDX200SRがそれぞれ発売され、その後は125SR・220R/SR・250R/SRと、KIPSエンジンを搭載したKDXシリーズが展開されて行く。
+その後、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")にモトクロッサーKX125をベースに開発したKDX175が米国で発売されベストセラーを記録。このヒットにより[1981年](../Page/1981年.md "wikilink")には、KDX250とKDX420が発売された。そして1982年に**KDX200**が開発された、KDX200はKDX175をベースに単に排気量アップしたモデルであったが、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に待望の[排気デバイス](../Page/排気デバイス.md "wikilink")**[KIPS](https://ja.wikipedia.org/wiki/KIPS "wikilink")**が搭載された通称「空冷KDX」が開発され、翌年[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")には、日本で販売された。[1988年](../Page/1988年.md "wikilink")には、それ迄の空冷から水冷に進化したKDX200Rが、翌[1989年](../Page/1989年.md "wikilink")には、公道用のKDX200SRがそれぞれ発売され、その後は125SR・220R/SR・250R/SRと、KIPSエンジンを搭載したKDXシリーズが展開されて行く。
 
 このKDX200R/SRの発売以降、日本において発売される競技用エンデューロ車両には「R」、公道用[デュアルパーパス](../Page/デュアルパーパス.md "wikilink")車両には「SR」の名称が排気量の後に付けられるようになった。
 
@@ -17,7 +17,7 @@
 
 ### KDX200SR
 
-[サムネイル](https://ja.wikipedia.org/wiki/ファイル:KDX200SR_1992.jpg "wikilink") **KDX200SR**は[1989年](../Page/1989年.md "wikilink")に発売された。KMX200からのモデルチェンジにあたり、市販エンデューロマシンKDX200Rをベースに水冷化と[排気デバイス](https://ja.wikipedia.org/wiki/排気デバイス "wikilink")[KIPS](https://ja.wikipedia.org/wiki/KIPS "wikilink")を装備し、35psを発揮する[2サイクル](../Page/2ストローク機関.md "wikilink")[単気筒エンジン](../Page/単気筒エンジン.md "wikilink")のパワフルさから人気を得て、翌年にはフローントフォークを倒立型に変更するモデルチェンジを受けた。
+[サムネイル](https://ja.wikipedia.org/wiki/ファイル:KDX200SR_1992.jpg "wikilink") **KDX200SR**は[1989年](../Page/1989年.md "wikilink")に発売された。KMX200からのモデルチェンジにあたり、市販エンデューロマシンKDX200Rをベースに水冷化と[排気デバイス](../Page/排気デバイス.md "wikilink")[KIPS](https://ja.wikipedia.org/wiki/KIPS "wikilink")を装備し、35psを発揮する[2サイクル](../Page/2ストローク機関.md "wikilink")[単気筒エンジン](../Page/単気筒エンジン.md "wikilink")のパワフルさから人気を得て、翌年にはフローントフォークを倒立型に変更するモデルチェンジを受けた。
 
 その後はKDX250Rに引き継ぐかたちで日本での販売は終了した。200SRの後継機種である220SRが日本でのラインナップを引き次ぎ、日本国外のレースレギュレーションに併せた輸出仕様によっては、220Rのボアダウン版であるKDX200Rの生産が続けられていた。
 

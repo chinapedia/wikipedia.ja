@@ -7,11 +7,11 @@
 
 アリスソフトの作品の中では珍しく、ルート分岐やイベント数が比較的少ない。主人公の名前を変更することが可能な点も、同様に珍しい。また、システムメニュー内に存在する「陵辱イベントスイッチ」をOFFにしておけば、ヒロイン達が悲惨な目に遭うことを回避できるようになっている。
 
-オープニングには、[Macromedia Flashのように静止画像や](https://ja.wikipedia.org/wiki/Macromedia_Flash "wikilink")[スプライトを駆使したアニメーションが使用されている](../Page/スプライト_\(映像技術\).md "wikilink")。また、オープニングとエンディングの両方に[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")付きの曲が用意されており、アリスソフトの作品における[オープニングアニメーション](https://ja.wikipedia.org/wiki/オープニングアニメーション "wikilink")の先駆けとなった。
+オープニングには、[Macromedia Flashのように静止画像や](https://ja.wikipedia.org/wiki/Macromedia_Flash "wikilink")[スプライトを駆使したアニメーションが使用されている](../Page/スプライト_\(映像技術\).md "wikilink")。また、オープニングとエンディングの両方に[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")付きの曲が用意されており、アリスソフトの作品における[オープニングアニメーション](../Page/オープニングアニメーション.md "wikilink")の先駆けとなった。
 
 ## ストーリー
 
-海洋都市のモデルケースとして建造された[メガフロート](https://ja.wikipedia.org/wiki/メガフロート "wikilink")「アンドルード」を舞台に、アンドルード海洋学園海洋学科に通う主人公の**深海京夜**が、ヒロイン達との恋を育んでいく。
+海洋都市のモデルケースとして建造された[メガフロート](../Page/メガフロート.md "wikilink")「アンドルード」を舞台に、アンドルード海洋学園海洋学科に通う主人公の**深海京夜**が、ヒロイン達との恋を育んでいく。
 
 ## キャラクター
 
@@ -35,7 +35,7 @@
 
 ## アダルトアニメ版
 
-[グリーンバニー](https://ja.wikipedia.org/wiki/グリーンバニー "wikilink")から全2巻の[DVD](../Page/DVD.md "wikilink")で発売された。
+[グリーンバニー](../Page/グリーンバニー.md "wikilink")から全2巻の[DVD](../Page/DVD.md "wikilink")で発売された。
 
 1.  See In 青 Scene．1 如月優美 - 2001年[7月25日](../Page/7月25日.md "wikilink")発売
 2.  See In 青 Scene．2 帆波結衣 - 2001年[10月25日](../Page/10月25日.md "wikilink")発売

@@ -1,7 +1,7 @@
 > この記事は[MEREMANOID](https://ja.wikipedia.org/wiki/MEREMANOID)から翻訳されています。
 
 
-『**深海伝説MEREMANOID**』（しんかいでんせつマーメノイド）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")まで[テレビ朝日](../Page/テレビ朝日.md "wikilink")で放送された[寺田憲史](https://ja.wikipedia.org/wiki/寺田憲史 "wikilink")、[XING](https://ja.wikipedia.org/wiki/XING "wikilink")原作の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")作品。全24話。テレビ朝日初の深夜アニメ。[サムスングループ](https://ja.wikipedia.org/wiki/サムスングループ "wikilink")が初めて製作したアニメでもある\[1\]。
+『**深海伝説MEREMANOID**』（しんかいでんせつマーメノイド）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")まで[テレビ朝日](../Page/テレビ朝日.md "wikilink")で放送された[寺田憲史](../Page/寺田憲史.md "wikilink")、[XING](https://ja.wikipedia.org/wiki/XING "wikilink")原作の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")作品。全24話。テレビ朝日初の深夜アニメ。[サムスングループ](../Page/サムスングループ.md "wikilink")が初めて製作したアニメでもある\[1\]。
 
 ## ストーリー
 
@@ -12,10 +12,10 @@
 ナレーションは、[島本須美](../Page/島本須美.md "wikilink")が担当。
 
   - ミスティ・ジョー
-    [声](../Page/声優.md "wikilink") - [冬馬由美](https://ja.wikipedia.org/wiki/冬馬由美 "wikilink")
+    [声](../Page/声優.md "wikilink") - [冬馬由美](../Page/冬馬由美.md "wikilink")
     ゲーム版における流麗なる短剣セーラに当る存在らしい。最終話でレオンと共に最終決戦に臨み、生死不明になる。
   - オズ
-    声 - [三浦七緒子](https://ja.wikipedia.org/wiki/三浦七緒子 "wikilink")
+    声 - [三浦七緒子](../Page/三浦七緒子.md "wikilink")
     街の情報屋ルークに当る存在。最終話でライラをレオンらから託される。
   - レオン
     声 - [石田彰](../Page/石田彰.md "wikilink")
@@ -30,9 +30,9 @@
     声 - [半場友恵](../Page/半場友恵.md "wikilink")
     静かの海のマーサ に当る存在。
   - ドラゴ
-    声 - [山口由里子](https://ja.wikipedia.org/wiki/山口由里子 "wikilink")
+    声 - [山口由里子](../Page/山口由里子.md "wikilink")
   - コズナー
-    声 - [松山鷹志](https://ja.wikipedia.org/wiki/松山鷹志 "wikilink")
+    声 - [松山鷹志](../Page/松山鷹志.md "wikilink")
   - ファーザー
     声 - [玄田哲章](https://ja.wikipedia.org/wiki/玄田哲章 "wikilink")
   - ルースミラー
@@ -43,8 +43,8 @@
 ## スタッフ
 
   - 企画 - 田旗ひろし、蛭田とみ代、朴海正、浅利義美
-  - 監督 - [森川滋](https://ja.wikipedia.org/wiki/紅優 "wikilink")
-  - シリーズ構成 - [寺田憲史](https://ja.wikipedia.org/wiki/寺田憲史 "wikilink")
+  - 監督 - [森川滋](../Page/紅優.md "wikilink")
+  - シリーズ構成 - [寺田憲史](../Page/寺田憲史.md "wikilink")
   - キャラクター原案 - [山田章博](../Page/山田章博.md "wikilink")
   - キャラクターデザイン - 赤堀重雄
   - 設定デザイン - 林千博
@@ -52,19 +52,19 @@
   - 美術設定 - 西倉力、青木智由紀
   - 撮影監督 - 森下成一
   - 編集 - [瀬山武司](../Page/瀬山武司.md "wikilink")
-  - 音響監督 - [亀山俊樹](https://ja.wikipedia.org/wiki/亀山俊樹 "wikilink")
+  - 音響監督 - [亀山俊樹](../Page/亀山俊樹.md "wikilink")
   - 音響効果 - ?
   - 音楽監督 - 桜井真理夫
   - 音楽 - [村山達哉](https://ja.wikipedia.org/wiki/村山達哉 "wikilink")、[吉澤朔](../Page/吉澤はじめ.md "wikilink")、益田トッシュ(7-)、中村宗一郎 (24)
-  - オープニングアニメーション - [なかむらたかし](https://ja.wikipedia.org/wiki/なかむらたかし "wikilink")、[木村真二](https://ja.wikipedia.org/wiki/木村真二 "wikilink")、大庭直幸
-  - アニメーション制作 - [キティフィルム](https://ja.wikipedia.org/wiki/キティフィルム "wikilink")、[トライアングルスタッフ](https://ja.wikipedia.org/wiki/トライアングルスタッフ "wikilink")
-  - 製作 - テレビ朝日、キティフィルム、[サムスングループ](https://ja.wikipedia.org/wiki/サムスングループ "wikilink")
+  - オープニングアニメーション - [なかむらたかし](../Page/なかむらたかし.md "wikilink")、[木村真二](https://ja.wikipedia.org/wiki/木村真二 "wikilink")、大庭直幸
+  - アニメーション制作 - [キティフィルム](https://ja.wikipedia.org/wiki/キティフィルム "wikilink")、[トライアングルスタッフ](../Page/トライアングルスタッフ.md "wikilink")
+  - 製作 - テレビ朝日、キティフィルム、[サムスングループ](../Page/サムスングループ.md "wikilink")
 
 ## 主題歌
 
   - オープニングテーマ
     　「WILD MOON」
-    　作詞 - 森雪之丞 / 作曲 - [野山昭雄](https://ja.wikipedia.org/wiki/THE_BELL'S "wikilink") / 歌 - [VANILLA](https://ja.wikipedia.org/wiki/VANILLA_\(バンド\) "wikilink")
+    　作詞 - 森雪之丞 / 作曲 - [野山昭雄](https://ja.wikipedia.org/wiki/THE_BELL'S "wikilink") / 歌 - [VANILLA](../Page/VANILLA_\(バンド\).md "wikilink")
   - エンディングテーマ
     　「LET ME DRIVE」（第1話 - 第13話）※〈**1997年**10月8日 - **1998年**1月14日〉
     　作詞 - [Anna](https://ja.wikipedia.org/wiki/アンナ・バナナ "wikilink") / 作曲 - Y.Noi / 編曲・歌 - [RHYTHM Remedyz](../Page/井上ヨシマサ.md "wikilink")
@@ -99,8 +99,8 @@
 <tr class="even">
 <td><p>第一話</p></td>
 <td><p>魔道霊士ふたり</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/寺田憲史" title="wikilink">寺田憲史</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/紅優" title="wikilink">湊屋夢吉</a></p></td>
+<td><p><a href="../Page/寺田憲史.md" title="wikilink">寺田憲史</a></p></td>
+<td><p><a href="../Page/紅優.md" title="wikilink">湊屋夢吉</a></p></td>
 <td><p>松本文男</p></td>
 <td><p><a href="../Page/10月8日.md" title="wikilink">10月8日</a></p></td>
 <td></td>
@@ -108,7 +108,7 @@
 <tr class="odd">
 <td><p>第二話</p></td>
 <td><p>ジェシカの貝ハーメルの貝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/角銅博之" title="wikilink">開木菜織</a></p></td>
+<td><p><a href="../Page/角銅博之.md" title="wikilink">開木菜織</a></p></td>
 <td><p>湊屋夢吉</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/むらた雅彦" title="wikilink">村田雅彦</a></p></td>
 <td><p><a href="../Page/10月15日.md" title="wikilink">10月15日</a></p></td>
@@ -117,10 +117,10 @@
 <tr class="even">
 <td><p>第三話</p></td>
 <td><p>アガディア国崩壊</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/岸間信明" title="wikilink">岸間信明</a></p></td>
+<td><p><a href="../Page/岸間信明.md" title="wikilink">岸間信明</a></p></td>
 <td><p><a href="../Page/又野弘道.md" title="wikilink">又野弘道</a></p></td>
 <td><p>渡邊哲哉</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/湖川友謙" title="wikilink">為家尽人</a></p></td>
+<td><p><a href="../Page/湖川友謙.md" title="wikilink">為家尽人</a></p></td>
 <td><p><a href="../Page/10月22日.md" title="wikilink">10月22日</a></p></td>
 </tr>
 <tr class="odd">
@@ -144,7 +144,7 @@
 <tr class="odd">
 <td><p>第六話</p></td>
 <td><p>幽霊海溝の底から</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/河本昇悟" title="wikilink">河本昇悟</a></p></td>
+<td><p><a href="../Page/河本昇悟.md" title="wikilink">河本昇悟</a></p></td>
 <td><p>葛谷直行</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/一川孝久" title="wikilink">一川孝久</a></p></td>
 <td><p><a href="../Page/11月12日.md" title="wikilink">11月12日</a></p></td>
@@ -154,7 +154,7 @@
 <td><p>第七話</p></td>
 <td><p>ダークリーフの囁き</p></td>
 <td><p>寺田憲史</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/佐藤卓哉" title="wikilink">佐藤卓哉</a></p></td>
+<td><p><a href="../Page/佐藤卓哉.md" title="wikilink">佐藤卓哉</a></p></td>
 <td><p>青木新一郎</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/かわむらあきお" title="wikilink">河村明夫</a></p></td>
 <td><p><a href="../Page/11月19日.md" title="wikilink">11月19日</a></p></td>
@@ -190,8 +190,8 @@
 <td><p>第十一話</p></td>
 <td><p>血に染まった海底渓谷</p></td>
 <td><p>平野靖士</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/なかむらたかし" title="wikilink">なかむらたかし</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/加瀬充子" title="wikilink">加瀬充子</a></p></td>
+<td><p><a href="../Page/なかむらたかし.md" title="wikilink">なかむらたかし</a></p></td>
+<td><p><a href="../Page/加瀬充子.md" title="wikilink">加瀬充子</a></p></td>
 <td><p>須賀重行</p></td>
 <td><p><a href="../Page/12月17日.md" title="wikilink">12月17日</a></p></td>
 </tr>

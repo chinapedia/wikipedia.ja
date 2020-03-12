@@ -1,7 +1,7 @@
 > この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
 
 
-**FCガンジュ岩手**（エフシーガンジュいわて、*F.C. Ganju Iwate*）は、[岩手県](../Page/岩手県.md "wikilink")[盛岡市](https://ja.wikipedia.org/wiki/盛岡市 "wikilink")・[八幡平市](https://ja.wikipedia.org/wiki/八幡平市 "wikilink")を本拠地として活動するサッカーのクラブチームである。 [Jリーグ加盟を目指すクラブ](https://ja.wikipedia.org/wiki/Jリーグ加盟を目指すクラブ "wikilink")の1つである。
+**FCガンジュ岩手**（エフシーガンジュいわて、*F.C. Ganju Iwate*）は、[岩手県](../Page/岩手県.md "wikilink")[盛岡市](https://ja.wikipedia.org/wiki/盛岡市 "wikilink")・[八幡平市](../Page/八幡平市.md "wikilink")を本拠地として活動するサッカーのクラブチームである。 [Jリーグ加盟を目指すクラブ](../Page/Jリーグ加盟を目指すクラブ.md "wikilink")の1つである。
 
 ## クラブ概要
 
@@ -11,31 +11,31 @@
 
 ## 歴史
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に[グルージャ盛岡から分離独立する形で創設](https://ja.wikipedia.org/wiki/いわてグルージャ盛岡 "wikilink")。当初は「いこいの村岩手」の支援を受け、[八幡平市](https://ja.wikipedia.org/wiki/八幡平市 "wikilink")を練習拠点とした\[1\]。
+[2006年](../Page/2006年.md "wikilink")に[グルージャ盛岡から分離独立する形で創設](../Page/いわてグルージャ盛岡.md "wikilink")。当初は「いこいの村岩手」の支援を受け、[八幡平市](../Page/八幡平市.md "wikilink")を練習拠点とした\[1\]。
 
 ### 2007年
 
-[岩手県社会人リーグ](https://ja.wikipedia.org/wiki/岩手県社会人リーグ "wikilink")4部所属として本格的な活動を開始。[ジェフユナイテッド市原](https://ja.wikipedia.org/wiki/ジェフユナイテッド市原 "wikilink")などで活躍した[武藤真一](https://ja.wikipedia.org/wiki/武藤真一 "wikilink")を中心に元Jリーガーなどのプロ契約選手、外国籍選手など多数擁して、岩手県社会人リーグ4部優勝。リーグ戦以外では、第57回[岩手県サッカー選手権大会](https://ja.wikipedia.org/wiki/岩手県サッカー選手権大会 "wikilink")を優勝し天皇杯岩手県代表の座を獲得。[第87回天皇杯全日本サッカー選手権大会](../Page/第87回天皇杯全日本サッカー選手権大会.md "wikilink")に岩手県代表として初出場、1回戦で[埼玉SC](https://ja.wikipedia.org/wiki/埼玉SC "wikilink")（[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")代表）と対戦し2-3で敗れた。さらに第14回[全国クラブチームサッカー選手権大会](https://ja.wikipedia.org/wiki/全国クラブチームサッカー選手権大会 "wikilink")にも出場を決め全国優勝を果たした。
+[岩手県社会人リーグ](https://ja.wikipedia.org/wiki/岩手県社会人リーグ "wikilink")4部所属として本格的な活動を開始。[ジェフユナイテッド市原](https://ja.wikipedia.org/wiki/ジェフユナイテッド市原 "wikilink")などで活躍した[武藤真一](../Page/武藤真一.md "wikilink")を中心に元Jリーガーなどのプロ契約選手、外国籍選手など多数擁して、岩手県社会人リーグ4部優勝。リーグ戦以外では、第57回[岩手県サッカー選手権大会](https://ja.wikipedia.org/wiki/岩手県サッカー選手権大会 "wikilink")を優勝し天皇杯岩手県代表の座を獲得。[第87回天皇杯全日本サッカー選手権大会](../Page/第87回天皇杯全日本サッカー選手権大会.md "wikilink")に岩手県代表として初出場、1回戦で[埼玉SC](https://ja.wikipedia.org/wiki/埼玉SC "wikilink")（[埼玉県](../Page/埼玉県.md "wikilink")代表）と対戦し2-3で敗れた。さらに第14回[全国クラブチームサッカー選手権大会](../Page/全国クラブチームサッカー選手権大会.md "wikilink")にも出場を決め全国優勝を果たした。
 
 ### 2008年
 
-監督に岩手県[遠野市](../Page/遠野市.md "wikilink")出身で元[ジュビロ磐田](../Page/ジュビロ磐田.md "wikilink")GKの[菊池直喜](https://ja.wikipedia.org/wiki/菊池直喜 "wikilink")を招聘。チームは引き続き積極的な補強を行い、元[清水エスパルス](../Page/清水エスパルス.md "wikilink")で元U-18[日本代表](https://ja.wikipedia.org/wiki/サッカー日本代表 "wikilink")[財津俊一郎](https://ja.wikipedia.org/wiki/財津俊一郎 "wikilink")や元U-21[韓国代表](../Page/サッカー大韓民国代表.md "wikilink")[キムハンビョルなどを獲得し](https://ja.wikipedia.org/wiki/金ハンビョル "wikilink")、圧倒的成績で岩手県社会人リーグ3部優勝を果たし2部昇格を決めた。
+監督に岩手県[遠野市](../Page/遠野市.md "wikilink")出身で元[ジュビロ磐田](../Page/ジュビロ磐田.md "wikilink")GKの[菊池直喜](https://ja.wikipedia.org/wiki/菊池直喜 "wikilink")を招聘。チームは引き続き積極的な補強を行い、元[清水エスパルス](../Page/清水エスパルス.md "wikilink")で元U-18[日本代表](../Page/サッカー日本代表.md "wikilink")[財津俊一郎](../Page/財津俊一郎.md "wikilink")や元U-21[韓国代表](../Page/サッカー大韓民国代表.md "wikilink")[キムハンビョルなどを獲得し](https://ja.wikipedia.org/wiki/金ハンビョル "wikilink")、圧倒的成績で岩手県社会人リーグ3部優勝を果たし2部昇格を決めた。
 
 ### 2009年
 
-3月、これまで支援を行ってきたいこいの村岩手が活動拠点をめぐる相違から独立し、「[アンソメット岩手・八幡平](https://ja.wikipedia.org/wiki/アンソメット岩手・八幡平 "wikilink")」を設立\[2\]。 岩手県出身の元[湘南ベルマーレ](https://ja.wikipedia.org/wiki/湘南ベルマーレ "wikilink")[照井篤](../Page/照井篤.md "wikilink")、同じく岩手県出身で[Fリーグ](https://ja.wikipedia.org/wiki/日本フットサルリーグ "wikilink")[ステラミーゴいわて花巻](../Page/ステラミーゴいわて花巻.md "wikilink")元主将の[山谷紘大](https://ja.wikipedia.org/wiki/山谷紘大 "wikilink")、元[大分トリニータ](https://ja.wikipedia.org/wiki/大分トリニータ "wikilink")の[川田和宏](../Page/川田和宏.md "wikilink")、元[韓国代表の](../Page/サッカー大韓民国代表.md "wikilink")[趙世權](https://ja.wikipedia.org/wiki/趙世權 "wikilink")など各方面から多彩な選手を獲得。岩手県社会人リーグ2部を制覇し1部昇格を決めた。リーグ戦以外では、大分県でおこなわれた第16回[全国クラブチームサッカー選手権大会](https://ja.wikipedia.org/wiki/全国クラブチームサッカー選手権大会 "wikilink")に出場、決勝で[HOYO Atletico ELAN大分に勝利して](https://ja.wikipedia.org/wiki/HOYO_Atletico_ELAN大分 "wikilink")2年ぶり2回目の優勝を果たした。
+3月、これまで支援を行ってきたいこいの村岩手が活動拠点をめぐる相違から独立し、「[アンソメット岩手・八幡平](https://ja.wikipedia.org/wiki/アンソメット岩手・八幡平 "wikilink")」を設立\[2\]。 岩手県出身の元[湘南ベルマーレ](https://ja.wikipedia.org/wiki/湘南ベルマーレ "wikilink")[照井篤](../Page/照井篤.md "wikilink")、同じく岩手県出身で[Fリーグ](https://ja.wikipedia.org/wiki/日本フットサルリーグ "wikilink")[ステラミーゴいわて花巻](../Page/ステラミーゴいわて花巻.md "wikilink")元主将の[山谷紘大](https://ja.wikipedia.org/wiki/山谷紘大 "wikilink")、元[大分トリニータ](https://ja.wikipedia.org/wiki/大分トリニータ "wikilink")の[川田和宏](../Page/川田和宏.md "wikilink")、元[韓国代表の](../Page/サッカー大韓民国代表.md "wikilink")[趙世權](https://ja.wikipedia.org/wiki/趙世權 "wikilink")など各方面から多彩な選手を獲得。岩手県社会人リーグ2部を制覇し1部昇格を決めた。リーグ戦以外では、大分県でおこなわれた第16回[全国クラブチームサッカー選手権大会](../Page/全国クラブチームサッカー選手権大会.md "wikilink")に出場、決勝で[HOYO Atletico ELAN大分に勝利して](https://ja.wikipedia.org/wiki/HOYO_Atletico_ELAN大分 "wikilink")2年ぶり2回目の優勝を果たした。
 
 ### 2010年
 
-[グルージャ盛岡や](https://ja.wikipedia.org/wiki/いわてグルージャ盛岡 "wikilink")[TDKサッカー部](https://ja.wikipedia.org/wiki/TDKサッカー部 "wikilink")などで活躍し[東北社会人サッカーリーグ](https://ja.wikipedia.org/wiki/東北社会人サッカーリーグ "wikilink")1部得点王の経験もある原田太、[カマタマーレ讃岐](https://ja.wikipedia.org/wiki/カマタマーレ讃岐 "wikilink")などで活躍した三ヶ崎伸穂など獲得。シーズン途中には、昨年まで[大宮アルディージャ](https://ja.wikipedia.org/wiki/大宮アルディージャ "wikilink")に所属していたDFの[西村陽毅](https://ja.wikipedia.org/wiki/西村陽毅 "wikilink")も補強した。8月29日、チームは3年ぶりに[岩手県サッカー選手権大会](https://ja.wikipedia.org/wiki/岩手県サッカー選手権大会 "wikilink")決勝まで進んだもののグルージャ盛岡に0-2で敗れ3年ぶりの[天皇杯岩手県代表とはならなかったが](../Page/天皇杯_JFA_全日本サッカー選手権大会.md "wikilink")、リーグ戦の方では今年も圧倒的な強さを見せ10戦全勝で[岩手県社会人リーグ](https://ja.wikipedia.org/wiki/岩手県社会人リーグ "wikilink")1部を制覇、北東北3県チャレンジリーグでも優勝し岩手県社会人リーグに所属していた4年間リーグ戦無敗（39勝1分0敗）という成績を残し卒業、[東北社会人サッカーリーグ](https://ja.wikipedia.org/wiki/東北社会人サッカーリーグ "wikilink")に昇格を決めた。
+[グルージャ盛岡や](../Page/いわてグルージャ盛岡.md "wikilink")[TDKサッカー部](https://ja.wikipedia.org/wiki/TDKサッカー部 "wikilink")などで活躍し[東北社会人サッカーリーグ](../Page/東北社会人サッカーリーグ.md "wikilink")1部得点王の経験もある原田太、[カマタマーレ讃岐](../Page/カマタマーレ讃岐.md "wikilink")などで活躍した三ヶ崎伸穂など獲得。シーズン途中には、昨年まで[大宮アルディージャ](https://ja.wikipedia.org/wiki/大宮アルディージャ "wikilink")に所属していたDFの[西村陽毅](../Page/西村陽毅.md "wikilink")も補強した。8月29日、チームは3年ぶりに[岩手県サッカー選手権大会](https://ja.wikipedia.org/wiki/岩手県サッカー選手権大会 "wikilink")決勝まで進んだもののグルージャ盛岡に0-2で敗れ3年ぶりの[天皇杯岩手県代表とはならなかったが](../Page/天皇杯_JFA_全日本サッカー選手権大会.md "wikilink")、リーグ戦の方では今年も圧倒的な強さを見せ10戦全勝で[岩手県社会人リーグ](https://ja.wikipedia.org/wiki/岩手県社会人リーグ "wikilink")1部を制覇、北東北3県チャレンジリーグでも優勝し岩手県社会人リーグに所属していた4年間リーグ戦無敗（39勝1分0敗）という成績を残し卒業、[東北社会人サッカーリーグ](../Page/東北社会人サッカーリーグ.md "wikilink")に昇格を決めた。
 
 ### 2011年
 
-監督に[川崎フロンターレ](https://ja.wikipedia.org/wiki/川崎フロンターレ "wikilink")や[台湾代表などの監督経験のある](../Page/サッカーチャイニーズタイペイ代表.md "wikilink")[今井敏明](https://ja.wikipedia.org/wiki/今井敏明 "wikilink")を招聘。前シーズンの主力選手も大半が残留し、[モンテディオ山形](https://ja.wikipedia.org/wiki/モンテディオ山形 "wikilink")から[栗原祐樹](https://ja.wikipedia.org/wiki/栗原祐樹 "wikilink")、元[FC岐阜](https://ja.wikipedia.org/wiki/FC岐阜 "wikilink")の[姜曉一](https://ja.wikipedia.org/wiki/姜曉一 "wikilink")などの元Jリーグ所属選手を中心に選手を補強。開幕前の3月におこった[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")の影響で東北リーグのレギュレーションが変更となり東北リーグ1部への昇格がなくなってしまったためチームスタッフ、選手のモチベーション維持が難しいシーズンとなったが、リーグ戦2位以内に与えられる来年度の[全国社会人サッカー選手権大会](https://ja.wikipedia.org/wiki/全国社会人サッカー選手権大会 "wikilink")東北予選への出場権を獲得した。
+監督に[川崎フロンターレ](https://ja.wikipedia.org/wiki/川崎フロンターレ "wikilink")や[台湾代表などの監督経験のある](../Page/サッカーチャイニーズタイペイ代表.md "wikilink")[今井敏明](../Page/今井敏明.md "wikilink")を招聘。前シーズンの主力選手も大半が残留し、[モンテディオ山形](https://ja.wikipedia.org/wiki/モンテディオ山形 "wikilink")から[栗原祐樹](https://ja.wikipedia.org/wiki/栗原祐樹 "wikilink")、元[FC岐阜](../Page/FC岐阜.md "wikilink")の[姜曉一](https://ja.wikipedia.org/wiki/姜曉一 "wikilink")などの元Jリーグ所属選手を中心に選手を補強。開幕前の3月におこった[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")の影響で東北リーグのレギュレーションが変更となり東北リーグ1部への昇格がなくなってしまったためチームスタッフ、選手のモチベーション維持が難しいシーズンとなったが、リーグ戦2位以内に与えられる来年度の[全国社会人サッカー選手権大会](../Page/全国社会人サッカー選手権大会.md "wikilink")東北予選への出場権を獲得した。
 
 ### 2012年
 
-[アルビレックス新潟](../Page/アルビレックス新潟.md "wikilink")から[長谷部彩翔](https://ja.wikipedia.org/wiki/長谷部彩翔 "wikilink")、[岩崎陽平](https://ja.wikipedia.org/wiki/岩崎陽平 "wikilink")を獲得。さらに[ファジアーノ岡山](https://ja.wikipedia.org/wiki/ファジアーノ岡山 "wikilink")から[小寺優輝](https://ja.wikipedia.org/wiki/小寺優輝 "wikilink")を獲得。その他外国籍選手など計10人の選手を補強。シーズン途中に[2011年](../Page/2011年.md "wikilink")から監督を務めていた[今井敏明](https://ja.wikipedia.org/wiki/今井敏明 "wikilink")が退任し、[ジェフユナイテッド市原](https://ja.wikipedia.org/wiki/ジェフユナイテッド市原 "wikilink")でプレイし[FCコリア](https://ja.wikipedia.org/wiki/FCコリア "wikilink")などで監督経験のある[申在範](https://ja.wikipedia.org/wiki/申在範 "wikilink")と交代。[JFL](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")[横河武蔵野FC](https://ja.wikipedia.org/wiki/横河武蔵野FC "wikilink")でプレイした経験を持つ[上田英生](https://ja.wikipedia.org/wiki/上田英生 "wikilink")もコーチとして迎え体制強化を図った。[第48回全国社会人サッカー選手権大会](https://ja.wikipedia.org/wiki/第48回全国社会人サッカー選手権大会 "wikilink")東北予選の代表決定戦で[福島ユナイテッドFC](../Page/福島ユナイテッドFC.md "wikilink")に敗れ全社出場はならなかったが、リーグ戦の方ではシーズンを通して安定した力を見せつけ東北2部北で優勝し東北1部昇格を決めた。
+[アルビレックス新潟](../Page/アルビレックス新潟.md "wikilink")から[長谷部彩翔](https://ja.wikipedia.org/wiki/長谷部彩翔 "wikilink")、[岩崎陽平](https://ja.wikipedia.org/wiki/岩崎陽平 "wikilink")を獲得。さらに[ファジアーノ岡山](https://ja.wikipedia.org/wiki/ファジアーノ岡山 "wikilink")から[小寺優輝](https://ja.wikipedia.org/wiki/小寺優輝 "wikilink")を獲得。その他外国籍選手など計10人の選手を補強。シーズン途中に[2011年](../Page/2011年.md "wikilink")から監督を務めていた[今井敏明](../Page/今井敏明.md "wikilink")が退任し、[ジェフユナイテッド市原](https://ja.wikipedia.org/wiki/ジェフユナイテッド市原 "wikilink")でプレイし[FCコリア](https://ja.wikipedia.org/wiki/FCコリア "wikilink")などで監督経験のある[申在範](https://ja.wikipedia.org/wiki/申在範 "wikilink")と交代。[JFL](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")[横河武蔵野FC](https://ja.wikipedia.org/wiki/横河武蔵野FC "wikilink")でプレイした経験を持つ[上田英生](https://ja.wikipedia.org/wiki/上田英生 "wikilink")もコーチとして迎え体制強化を図った。[第48回全国社会人サッカー選手権大会](https://ja.wikipedia.org/wiki/第48回全国社会人サッカー選手権大会 "wikilink")東北予選の代表決定戦で[福島ユナイテッドFC](../Page/福島ユナイテッドFC.md "wikilink")に敗れ全社出場はならなかったが、リーグ戦の方ではシーズンを通して安定した力を見せつけ東北2部北で優勝し東北1部昇格を決めた。
 
 ### 2013年
 
@@ -62,11 +62,11 @@
 |                                                                       |                                                                 |        |    |    |    |    |     |     |       |       |                                                       |                                                          |
 | --------------------------------------------------------------------- | --------------------------------------------------------------- | ------ | -- | -- | -- | -- | --- | --- | ----- | ----- | ----------------------------------------------------- | -------------------------------------------------------- |
 | 年度                                                                    | 所属                                                              | 順位     | 勝点 | 試合 | 勝  | 分  | 敗   | 得   | 失     | 差     | 天皇杯                                                   | 監督                                                       |
-| 2007                                                                  | [岩手県4部](https://ja.wikipedia.org/wiki/岩手県社会人サッカーリーグ "wikilink") | **優勝** | 30 | 10 | 10 | 0  | 0   | 130 | 0     | \+130 | 1回戦敗退                                                 | [武藤真一](https://ja.wikipedia.org/wiki/武藤真一 "wikilink")    |
+| 2007                                                                  | [岩手県4部](https://ja.wikipedia.org/wiki/岩手県社会人サッカーリーグ "wikilink") | **優勝** | 30 | 10 | 10 | 0  | 0   | 130 | 0     | \+130 | 1回戦敗退                                                 | [武藤真一](../Page/武藤真一.md "wikilink")                       |
 | 2008                                                                  | 岩手県3部                                                           | **優勝** | 30 | 10 | 10 | 0  | 0   | 100 | 1     | \+99  | \-                                                    | [菊池直喜](https://ja.wikipedia.org/wiki/菊池直喜 "wikilink")    |
 | 2009                                                                  | 岩手県2部                                                           | **優勝** | 28 | 10 | 9  | 1  | 0   | 96  | 3     | \+93  | \-                                                    |                                                          |
 | 2010                                                                  | 岩手県1部                                                           | **優勝** | 30 | 10 | 10 | 0  | 0   | 68  | 2     | \+66  | \-                                                    | [長谷篤](https://ja.wikipedia.org/wiki/長谷篤 "wikilink")      |
-| [2011](https://ja.wikipedia.org/wiki/2011年の地域リーグ_\(サッカー\) "wikilink") | [東北2部](https://ja.wikipedia.org/wiki/東北社会人サッカーリーグ "wikilink")   | 2位     | 27 | 10 | 9  | 0  | 1   | 51  | 5     | \+46  | \-                                                    | [今井敏明](https://ja.wikipedia.org/wiki/今井敏明 "wikilink")    |
+| [2011](https://ja.wikipedia.org/wiki/2011年の地域リーグ_\(サッカー\) "wikilink") | [東北2部](../Page/東北社会人サッカーリーグ.md "wikilink")                      | 2位     | 27 | 10 | 9  | 0  | 1   | 51  | 5     | \+46  | \-                                                    | [今井敏明](../Page/今井敏明.md "wikilink")                       |
 | [2012](https://ja.wikipedia.org/wiki/2012年の地域リーグ_\(サッカー\) "wikilink") | 東北2部北                                                           | **優勝** | 39 | 14 | 13 | 0  | 1   | 88  | 13    | \+75  | \-                                                    | 今井敏明／[申在範](https://ja.wikipedia.org/wiki/申在範 "wikilink") |
 | [2013](https://ja.wikipedia.org/wiki/2013年の地域リーグ_\(サッカー\) "wikilink") | 東北1部                                                            | 3位     | 40 | 18 | 13 | 1  | 4   | 67  | 17    | \+50  | \-                                                    | 申在範                                                      |
 | [2014](https://ja.wikipedia.org/wiki/2014年の地域リーグ_\(サッカー\) "wikilink") | **優勝**                                                          | 50     | 18 | 16 | 2  | 0  | 129 | 5   | \+124 | \-    |                                                       |                                                          |
@@ -87,9 +87,9 @@
 
 ### リーグ戦
 
-  - **[東北社会人サッカーリーグ](https://ja.wikipedia.org/wiki/東北社会人サッカーリーグ "wikilink")1部**
+  - **[東北社会人サッカーリーグ](../Page/東北社会人サッカーリーグ.md "wikilink")1部**
       - **優勝（2回）**：2014年、2015年
-  - **[東北社会人サッカーリーグ](https://ja.wikipedia.org/wiki/東北社会人サッカーリーグ "wikilink")2部北**
+  - **[東北社会人サッカーリーグ](../Page/東北社会人サッカーリーグ.md "wikilink")2部北**
       - **優勝（1回）**：2012年
   - **[岩手県社会人サッカーリーグ](https://ja.wikipedia.org/wiki/岩手県社会人サッカーリーグ "wikilink")1部**
       - **優勝（1回）**：2010年
@@ -104,7 +104,7 @@
 
   - **[岩手県サッカー選手権大会](https://ja.wikipedia.org/wiki/岩手県サッカー選手権大会 "wikilink")（兼[天皇杯岩手県予選](../Page/天皇杯_JFA_全日本サッカー選手権大会.md "wikilink")）**
       - **優勝（1回）**：2007年
-  - **[全国クラブチームサッカー選手権大会](https://ja.wikipedia.org/wiki/全国クラブチームサッカー選手権大会 "wikilink")**
+  - **[全国クラブチームサッカー選手権大会](../Page/全国クラブチームサッカー選手権大会.md "wikilink")**
       - **優勝（2回）**：2007年、2009年
 
 ### 個人
@@ -153,7 +153,7 @@
 <tr class="odd">
 <td><p><strong>コーチ</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/中西哲也" title="wikilink">中西哲也</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/いわてグルージャ盛岡" title="wikilink">グルージャ盛岡</a></p></td>
+<td><p><a href="../Page/いわてグルージャ盛岡.md" title="wikilink">グルージャ盛岡</a></p></td>
 <td><p>選手兼コーチ</p></td>
 </tr>
 <tr class="even">
@@ -207,7 +207,7 @@
 <tr class="even">
 <td><p><strong>7</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/中西哲也" title="wikilink">中西哲也</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/いわてグルージャ盛岡" title="wikilink">グルージャ盛岡</a></p></td>
+<td><p><a href="../Page/いわてグルージャ盛岡.md" title="wikilink">グルージャ盛岡</a></p></td>
 <td><p>選手兼コーチ</p></td>
 <td></td>
 </tr>
@@ -263,7 +263,7 @@
 <tr class="even">
 <td><p><strong>8</strong></p></td>
 <td><p>高橋直希</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/金沢星稜大学" title="wikilink">金沢星稜大学</a></p></td>
+<td><p><a href="../Page/金沢星稜大学.md" title="wikilink">金沢星稜大学</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -299,7 +299,7 @@
 <td><p><strong>FW</strong></p></td>
 <td><p><strong>9</strong></p></td>
 <td><p>三田優</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/八戸学院大学" title="wikilink">八戸大学</a></p></td>
+<td><p><a href="../Page/八戸学院大学.md" title="wikilink">八戸大学</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -319,14 +319,14 @@
 <tr class="even">
 <td><p><strong>29</strong></p></td>
 <td><p>大谷昭太</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中央学院大学" title="wikilink">中央学院大学</a></p></td>
+<td><p><a href="../Page/中央学院大学.md" title="wikilink">中央学院大学</a></p></td>
 <td><p>新加入</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><strong>32</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/熊谷紋司" title="wikilink">熊谷紋司</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Cobaltore女川" title="wikilink">コバルトーレ女川</a></p></td>
+<td><p><a href="../Page/Cobaltore女川.md" title="wikilink">コバルトーレ女川</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -344,7 +344,7 @@
 
 ### GK
 
-  - [田中賢治](https://ja.wikipedia.org/wiki/田中賢治 "wikilink")（2006年-2007年）
+  - [田中賢治](../Page/田中賢治.md "wikilink")（2006年-2007年）
 
   - [菊池直喜](https://ja.wikipedia.org/wiki/菊池直喜 "wikilink")（2008年-2009年）
 
@@ -364,7 +364,7 @@
 
   - [攘玄圭](https://ja.wikipedia.org/wiki/攘玄圭 "wikilink")（2010年）
 
-  - [西村陽毅](https://ja.wikipedia.org/wiki/西村陽毅 "wikilink")（2010年）
+  - [西村陽毅](../Page/西村陽毅.md "wikilink")（2010年）
 
   - [金度均](https://ja.wikipedia.org/wiki/金度均 "wikilink")（2010年-2011年）
 
@@ -372,7 +372,7 @@
 
   - [岩崎陽平](https://ja.wikipedia.org/wiki/岩崎陽平 "wikilink")（2012年）
 
-  - [斉藤乙](https://ja.wikipedia.org/wiki/斉藤乙 "wikilink")（2007年-2013年）
+  - [斉藤乙](../Page/斉藤乙.md "wikilink")（2007年-2013年）
 
   - [李智星](https://ja.wikipedia.org/wiki/李智星 "wikilink")（2013年-2014年）
 
@@ -384,7 +384,7 @@
 
 ### MF
 
-  - [武藤真一](https://ja.wikipedia.org/wiki/武藤真一 "wikilink")（2006年-2007年）
+  - [武藤真一](../Page/武藤真一.md "wikilink")（2006年-2007年）
 
   - [松下晋也](https://ja.wikipedia.org/wiki/松下晋也 "wikilink")（2006年）
 
@@ -424,7 +424,7 @@
 
   - [岡本勇輝](../Page/岡本勇輝.md "wikilink")（2007年）
 
-  - [財津俊一郎](https://ja.wikipedia.org/wiki/財津俊一郎 "wikilink")（2008年-2009年）
+  - [財津俊一郎](../Page/財津俊一郎.md "wikilink")（2008年-2009年）
 
   - [山谷紘大](https://ja.wikipedia.org/wiki/山谷紘大 "wikilink")（2009年）
 
@@ -452,8 +452,8 @@
 
 ### ユニフォームサプライの遍歴
 
-  - 2007年 [ミズノ](https://ja.wikipedia.org/wiki/ミズノ "wikilink")
-  - 2008年〜現在 [カッパ](https://ja.wikipedia.org/wiki/Kappa "wikilink")
+  - 2007年 [ミズノ](../Page/ミズノ.md "wikilink")
+  - 2008年〜現在 [カッパ](../Page/Kappa.md "wikilink")
 
 ### 歴代ユニフォームスポンサー年表
 
@@ -468,7 +468,7 @@
 
 ## 関連項目
 
-  - [Jリーグ加盟を目指すクラブ](https://ja.wikipedia.org/wiki/Jリーグ加盟を目指すクラブ "wikilink")
+  - [Jリーグ加盟を目指すクラブ](../Page/Jリーグ加盟を目指すクラブ.md "wikilink")
   - [諸岡奈央](../Page/諸岡奈央.md "wikilink")（マスコットガールを務めている）
   - [LAWBLOW](https://ja.wikipedia.org/wiki/LAWBLOW "wikilink")（岩手県出身で、[大船渡市](https://ja.wikipedia.org/wiki/大船渡市 "wikilink")を活動拠点としている歌手グループ 。FCガンジュ岩手のサポーターズソング「のぞみ」を歌っている。）
 

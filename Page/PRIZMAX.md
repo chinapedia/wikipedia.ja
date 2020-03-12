@@ -1,7 +1,7 @@
 > この記事は[PRIZMAX](https://ja.wikipedia.org/wiki/PRIZMAX)から翻訳されています。
 
 
-**PRIZMAX**（プリズマックス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性ダンス&ボーカルユニット。旧名は**PrizmaX**。[スターダストプロモーション](https://ja.wikipedia.org/wiki/スターダストプロモーション "wikilink")制作1部\[1\]所属。同事務所の男性アーティスト集団[EBiDAN](https://ja.wikipedia.org/wiki/EBiDAN "wikilink")の一員である。
+**PRIZMAX**（プリズマックス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性ダンス&ボーカルユニット。旧名は**PrizmaX**。[スターダストプロモーション](../Page/スターダストプロモーション.md "wikilink")制作1部\[1\]所属。同事務所の男性アーティスト集団[EBiDAN](https://ja.wikipedia.org/wiki/EBiDAN "wikilink")の一員である。
 
 [2002年](../Page/2002年.md "wikilink")に結成。初期は小中学生男子で構成されるユニットとして、メンバーの増員と脱退を繰り返しながら存続してきた。2013年3月27日に5人組としてCDデビュー。2019年3月4日からは7人組となり、グループ名を「PrizmaX」から「PRIZMAX」に改めた。
 
@@ -9,7 +9,7 @@
 
 2002年、[Sugar\&Spice](../Page/Sugar&Spice.md "wikilink")に所属していた小学生以下の男子4人組ダンスユニット「**Wonder☆Wown**」として結成。スターダストプロモーションの定期ライブイベント出演や[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")のツアーダンサーとして活動。のちにPrizmaXと改名している。メンバーの入れ替わりや増員、弟分「PrizmaX Jr.」の結成や合流などを経て、10人組「**平均年齢14歳のダンスユニット**\[2\]」となる。[代々木公園](../Page/代々木公園.md "wikilink")での[ストリートライブを中心に活動](../Page/路上ライブ.md "wikilink")。
 
-2008年4月にメンバーの数名が[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[みんなのうた](https://ja.wikipedia.org/wiki/みんなのうた "wikilink")』発のユニット「[クリスタルズ](https://ja.wikipedia.org/wiki/クリスタルズ_\(日本のユニット\) "wikilink")」のCDに参加、11月には「クリスタルズ feat. PrizmaX」バージョンがCD化される。一方で同年からメンバーの脱退が相次ぐ。脱退ではなく活動休止（大半は受験など「学業に専念」という理由）としていたメンバーが復帰したケースはほとんどない。
+2008年4月にメンバーの数名が[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[みんなのうた](../Page/みんなのうた.md "wikilink")』発のユニット「[クリスタルズ](https://ja.wikipedia.org/wiki/クリスタルズ_\(日本のユニット\) "wikilink")」のCDに参加、11月には「クリスタルズ feat. PrizmaX」バージョンがCD化される。一方で同年からメンバーの脱退が相次ぐ。脱退ではなく活動休止（大半は受験など「学業に専念」という理由）としていたメンバーが復帰したケースはほとんどない。
 
 2010年からスターダストプロモーションの男性タレント集団[EBiDAN](https://ja.wikipedia.org/wiki/EBiDAN "wikilink")（恵比寿学園男子部）に参加。その中では「兄貴ユニット\[3\]」である。2012年に3人組にまで人数が減るが、この年から所属事務所主宰以外のライブに出演する機会も増え、「本格的な始動は今年（2012年）から\[4\]」と宣言。
 
@@ -42,10 +42,10 @@
     1997年7月12日生まれ。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身。バックボーカル。
     2019年に新メンバーオーディションを経て加入。
   - 森英寿
-    1999年11月20日生まれ。[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身。バックボーカル。
+    1999年11月20日生まれ。[東京都](../Page/東京都.md "wikilink")出身。バックボーカル。
     2019年に新メンバーオーディションを経て加入。
   - [小川史記](https://ja.wikipedia.org/wiki/小川史記 "wikilink")
-    1994年11月21日生まれ。[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")出身。パフォーマー。
+    1994年11月21日生まれ。[埼玉県](../Page/埼玉県.md "wikilink")出身。パフォーマー。
     2019年に新メンバーオーディションを経て加入。
 
 ## 略歴
@@ -53,7 +53,7 @@
 **2002年**
 
   - 結成。メンバーは杉山仁、ティム・レビット（現・黒川ティム）、ティラー・オリベット（後のテイラー）、ヒックリング亜多夢の4名。
-  - [SHIBUYA BOXXなどで行われていた事務所の定期イベント](https://ja.wikipedia.org/wiki/SHIBUYA_BOXX "wikilink")『MALE VOX』にオレンジプリズナーズ（[山田孝之](../Page/山田孝之.md "wikilink")・[田中幸太朗](https://ja.wikipedia.org/wiki/田中幸太朗 "wikilink")などが参加していた若手俳優ユニット）らとともに出演。
+  - [SHIBUYA BOXXなどで行われていた事務所の定期イベント](../Page/SHIBUYA_BOXX.md "wikilink")『MALE VOX』にオレンジプリズナーズ（[山田孝之](../Page/山田孝之.md "wikilink")・[田中幸太朗](../Page/田中幸太朗.md "wikilink")などが参加していた若手俳優ユニット）らとともに出演。
 
 **2003年**
 
@@ -71,7 +71,7 @@
 
 **2006年**
 
-  - 吉川が脱退。以降2年半程メンバーの増減はなく、10人組として活動。活動の中心は『CLAP\!』と代々木公園でのストリートライブ。メンバーの中に地方在住者が数名いたため、ライブに全員が揃わないことも多々あった。当時はオリジナル楽曲を持っておらず、「ラブ・リルカ」、[ケツメイシ](https://ja.wikipedia.org/wiki/ケツメイシ "wikilink")「[さくら](https://ja.wikipedia.org/wiki/さくら_\(ケツメイシの曲\) "wikilink")」、[Backstreet Boys](https://ja.wikipedia.org/wiki/バックストリート・ボーイズ "wikilink")「Everybody」などを使用してパフォーマンスを披露していた。
+  - 吉川が脱退。以降2年半程メンバーの増減はなく、10人組として活動。活動の中心は『CLAP\!』と代々木公園でのストリートライブ。メンバーの中に地方在住者が数名いたため、ライブに全員が揃わないことも多々あった。当時はオリジナル楽曲を持っておらず、「ラブ・リルカ」、[ケツメイシ](../Page/ケツメイシ.md "wikilink")「[さくら](../Page/さくら_\(ケツメイシの曲\).md "wikilink")」、[Backstreet Boys](https://ja.wikipedia.org/wiki/バックストリート・ボーイズ "wikilink")「Everybody」などを使用してパフォーマンスを披露していた。
   - 01月18日、同日発売のマツリルカ&アリスのシングル「HUG 〜抱きしめてください〜」に黒川・テイラー・冨浦が[ラップ](../Page/ラップ.md "wikilink")で参加。
   - 08月から[GyaOにて映像ブログ](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")『The PrizmaX Adventure』の配信を開始（2007年8月に終了）。
   - 11月25日、『CLAP\!』終了。
@@ -99,10 +99,10 @@
 
 **2009年**
 
-  - 02月22日、[仙台](https://ja.wikipedia.org/wiki/仙台市 "wikilink")・[Zepp Sendaiで行われたライブ](https://ja.wikipedia.org/wiki/Zepp "wikilink")『ROCK'N ROLL COVER GIRLS IV』に出演。
+  - 02月22日、[仙台](../Page/仙台市.md "wikilink")・[Zepp Sendaiで行われたライブ](../Page/Zepp.md "wikilink")『ROCK'N ROLL COVER GIRLS IV』に出演。
   - 09月、テイラーが活動休止を発表。
   - 10月01日、PC版公式サイトが開設される。
-  - 10月03日、[国立代々木競技場](https://ja.wikipedia.org/wiki/国立代々木競技場 "wikilink")での[JBL公式戦ハーフタイムイベントに出演](https://ja.wikipedia.org/wiki/日本バスケットボールリーグ "wikilink")。
+  - 10月03日、[国立代々木競技場](../Page/国立代々木競技場.md "wikilink")での[JBL公式戦ハーフタイムイベントに出演](https://ja.wikipedia.org/wiki/日本バスケットボールリーグ "wikilink")。
 
 **2010年**
 
@@ -209,7 +209,7 @@
 
 <!-- end list -->
 
-  - [冨浦智嗣](https://ja.wikipedia.org/wiki/冨浦智嗣 "wikilink")
+  - [冨浦智嗣](../Page/冨浦智嗣.md "wikilink")
 
 <!-- end list -->
 
@@ -700,7 +700,7 @@ ZXRC-2047（CD1＋Blu-ray）</p></td>
   - 2013年10月09日 - たまゆら @六本木morph-tokyo
   - 2013年10月12日 - スターダスト・イケメンユニット Festival Vol.7 @アリオ鷲宮
   - 2013年11月07日 - たまゆら @六本木morph-tokyo
-  - 2013年11月30日 - Never Lose MUSIC × yummy presents『GO STRAIGHT & CANDY☆PANTS 』Tour.2 @[吉祥寺CLUB SEATA](https://ja.wikipedia.org/wiki/吉祥寺CLUB_SEATA "wikilink")
+  - 2013年11月30日 - Never Lose MUSIC × yummy presents『GO STRAIGHT & CANDY☆PANTS 』Tour.2 @[吉祥寺CLUB SEATA](../Page/吉祥寺CLUB_SEATA.md "wikilink")
   - 2013年12月02日 - たまゆら @六本木morph-tokyo
   - 2013年12月04日 - Winter's Wave @O-WEST
   - 2013年12月11日 - KEITO presents　『CABARET CASTLE 2』 @六本木morph-tokyo
@@ -711,7 +711,7 @@ ZXRC-2047（CD1＋Blu-ray）</p></td>
   - 2014年02月18日 - たまゆら @六本木morph-tokyo
   - 2014年03月18日 - CANDY☆PANTS NAGOYA @名古屋club SARU
   - 2014年03月19日 - CANDY☆PANTS OSAKA @大阪2nd LINE
-  - 2014年04月05日 - EBiDAN THE LIVE 〜飛び出すEBi本 2014 Spring〜 @[渋谷公会堂](https://ja.wikipedia.org/wiki/渋谷公会堂 "wikilink")\[17\]
+  - 2014年04月05日 - EBiDAN THE LIVE 〜飛び出すEBi本 2014 Spring〜 @[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")\[17\]
   - 2014年04月06日 - E-MUSIC = A-DANCE @ヤクルトホール
   - 2014年04月13日 - CANDY☆PANTS @FREQ.
   - 2014年04月19日 - RANBUL杯 KIDS DANCE CONTEST 東日本代表決定戦 @LABI1高崎　4F LABI Gate　キッズダンスコンテスト審査員出演／ミニライブ

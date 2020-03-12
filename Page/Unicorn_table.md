@@ -1,9 +1,9 @@
 > この記事は[Unicorn table](https://ja.wikipedia.org/wiki/Unicorn_table)から翻訳されています。
 
 
-**unicorn table**（ユニコーン・テーブル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")である。
+**unicorn table**（ユニコーン・テーブル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")である。
 
-[2001年](../Page/2001年.md "wikilink")結成。2005年、シングル「Fly Away」で**[キングレコード](../Page/キングレコード.md "wikilink")**（[スターチャイルド](https://ja.wikipedia.org/wiki/スターチャイルド "wikilink")レコード）より、メジャーデビュー。都内中心に月1回程度のライブ活動を行う。
+[2001年](../Page/2001年.md "wikilink")結成。2005年、シングル「Fly Away」で**[キングレコード](../Page/キングレコード.md "wikilink")**（[スターチャイルド](../Page/スターチャイルド.md "wikilink")レコード）より、メジャーデビュー。都内中心に月1回程度のライブ活動を行う。
 
 「現実逃避でなく、明日に向かう癒し」をテーマにしている。ユニコーン・テーブルという名は、**Uncountable**（アンカウンタブル／数えられない）という単語をSaliaが読み間違えたことに由来する。
 
@@ -74,7 +74,7 @@
 
 ## 提供
 
-  - [TAMAGO](https://ja.wikipedia.org/wiki/TAMAGO "wikilink")
+  - [TAMAGO](../Page/TAMAGO.md "wikilink")
       - Shine Forever／一緒だね
   - [白石涼子](https://ja.wikipedia.org/wiki/白石涼子 "wikilink")
       - Smile(^-^)

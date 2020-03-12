@@ -3,7 +3,7 @@
 
 『**ジャングルDEいこう\!**』は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に全3巻が発売された[OVA](../Page/OVA.md "wikilink")。
 
-[アニメーター](https://ja.wikipedia.org/wiki/アニメーター "wikilink")の[もりやまゆうじが](https://ja.wikipedia.org/wiki/森山雄治 "wikilink")[原作](../Page/原作.md "wikilink")・[監督](../Page/監督.md "wikilink")・[キャラクターデザイン](../Page/キャラクターデザイン.md "wikilink")・[作画監督](https://ja.wikipedia.org/wiki/作画監督 "wikilink")と一人四役を務めており、主人公のナツミという名はもりやまの娘の名から取られた。
+[アニメーター](../Page/アニメーター.md "wikilink")の[もりやまゆうじが](../Page/森山雄治.md "wikilink")[原作](../Page/原作.md "wikilink")・[監督](../Page/監督.md "wikilink")・[キャラクターデザイン](../Page/キャラクターデザイン.md "wikilink")・[作画監督](../Page/作画監督.md "wikilink")と一人四役を務めており、主人公のナツミという名はもりやまの娘の名から取られた。
 
 ## あらすじ
 
@@ -11,22 +11,22 @@
 
 ## 登場人物
 
-  - 六道那柘美（ろくどう なつみ） / ミイ:声 - [仙台エリ](https://ja.wikipedia.org/wiki/仙台エリ "wikilink")
+  - 六道那柘美（ろくどう なつみ） / ミイ:声 - [仙台エリ](../Page/仙台エリ.md "wikilink")
     オンゴ:声 - [林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")
     ロンゴ:声 - [島本須美](../Page/島本須美.md "wikilink")
     草薙琢磨（くさなぎ たくま）:声 - [山口勝平](../Page/山口勝平.md "wikilink")
-    六道富由彦（ろくどう ふゆひこ）:声 - [大林隆介](https://ja.wikipedia.org/wiki/大林隆介 "wikilink")
-    六道葉琉香（ろくどう はるか）:声 - [兵藤まこ](https://ja.wikipedia.org/wiki/兵藤まこ "wikilink")
+    六道富由彦（ろくどう ふゆひこ）:声 - [大林隆介](../Page/大林隆介.md "wikilink")
+    六道葉琉香（ろくどう はるか）:声 - [兵藤まこ](../Page/兵藤まこ.md "wikilink")
     泉川真奈見（いずみかわ まなみ） / 初代ミイ:声 - [矢島晶子](../Page/矢島晶子.md "wikilink")
     アハム:声 - [肝付兼太](../Page/肝付兼太.md "wikilink")
-    九鬼波美 :声 - [馬場澄江](https://ja.wikipedia.org/wiki/馬場澄江 "wikilink")
-    驢馬人・デニーロ（ろばと・デニーロ）:声 - [立木文彦](https://ja.wikipedia.org/wiki/立木文彦 "wikilink")
-    草薙五木（くさなぎ いつき）:声 - [中嶋聡彦](https://ja.wikipedia.org/wiki/中嶋聡彦 "wikilink")
+    九鬼波美 :声 - [馬場澄江](../Page/馬場澄江.md "wikilink")
+    驢馬人・デニーロ（ろばと・デニーロ）:声 - [立木文彦](../Page/立木文彦.md "wikilink")
+    草薙五木（くさなぎ いつき）:声 - [中嶋聡彦](../Page/中嶋聡彦.md "wikilink")
 
 ## スタッフ
 
   - 企画 - Jプロジェクト
-  - 原作・監督・キャラクターデザイン - [もりやまゆうじ](https://ja.wikipedia.org/wiki/森山雄治 "wikilink")
+  - 原作・監督・キャラクターデザイン - [もりやまゆうじ](../Page/森山雄治.md "wikilink")
   - 撮影監督 - 沖野雅英
   - 美術監督 - 須江信人
   - 編集 - [小島俊彦](https://ja.wikipedia.org/wiki/小島俊彦 "wikilink")
@@ -35,7 +35,7 @@
   - エグゼプティブプロデューサー - 重松英俊、[高橋豊](https://ja.wikipedia.org/wiki/高橋豊 "wikilink")
   - プロデューサー - 島名光二、沢登昌樹、榎本歩光
   - アニメーション制作 - [カオスプロジェクト](../Page/カオスプロジェクト.md "wikilink")
-  - 制作協力 - [スタジオファンタジア](https://ja.wikipedia.org/wiki/スタジオ・ファンタジア "wikilink")
+  - 制作協力 - [スタジオファンタジア](../Page/スタジオ・ファンタジア.md "wikilink")
   - 製作 - [キングレコード](../Page/キングレコード.md "wikilink")、[ムービック](../Page/ムービック.md "wikilink")
 
 ## 主題歌
@@ -46,11 +46,11 @@
 
 ## 各話リスト
 
-| 話数         | サブタイトル     | 脚本                                 | 絵コンテ                                                     | 演出         | 作画監督    | 発売日        |
-| ---------- | ---------- | ---------------------------------- | -------------------------------------------------------- | ---------- | ------- | ---------- |
-| はぷにんぐone   | 怨蜈 (ONGO)  | 高山治郎                               | [もりやまゆうじ](https://ja.wikipedia.org/wiki/森山雄治 "wikilink") | 三笠修        | もりやまゆうじ | 1997年3月26日 |
-| はぷにんぐtwo   | 崘蜈 (RONGO) | [福本潔](../Page/福本潔.md "wikilink")   | [毛利和昭](https://ja.wikipedia.org/wiki/毛利和昭 "wikilink")    | 1997年5月21日 |         |            |
-| はぷにんぐthree | 弥夷 (MII)   | [黒田洋介](../Page/黒田洋介.md "wikilink") | もりやまゆうじ                                                  | 1997年9月26日 |         |            |
+| 話数         | サブタイトル     | 脚本                                 | 絵コンテ                                  | 演出         | 作画監督    | 発売日        |
+| ---------- | ---------- | ---------------------------------- | ------------------------------------- | ---------- | ------- | ---------- |
+| はぷにんぐone   | 怨蜈 (ONGO)  | 高山治郎                               | [もりやまゆうじ](../Page/森山雄治.md "wikilink") | 三笠修        | もりやまゆうじ | 1997年3月26日 |
+| はぷにんぐtwo   | 崘蜈 (RONGO) | [福本潔](../Page/福本潔.md "wikilink")   | [毛利和昭](../Page/毛利和昭.md "wikilink")    | 1997年5月21日 |         |            |
+| はぷにんぐthree | 弥夷 (MII)   | [黒田洋介](../Page/黒田洋介.md "wikilink") | もりやまゆうじ                               | 1997年9月26日 |         |            |
 
 ## 関連商品
 

@@ -3,35 +3,35 @@
 
 **ショーン・コーリー・カーター**（*Shawn Corey Carter*、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[12月4日](../Page/12月4日.md "wikilink") - ）\[1\]は、**ジェイ・Z**（*Jay-Z*、ジェイ・ズィー\[2\]\[3\]）の[芸名](../Page/芸名.md "wikilink")で知られる[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ラッパー](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")、[ソングライター](../Page/ソングライター.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")、[起業家](https://ja.wikipedia.org/wiki/起業家 "wikilink")である。彼は史上最も高く評価されているラッパーの1人であり\[4\]\[5\]\[6\]\[7\]、「[アメリカ音楽史上最も裕福なミュージシャン](https://ja.wikipedia.org/wiki/フォーブスの「アメリカで最も裕福なセレブリティ」 "wikilink")」歴史上トップとして[経済紙フォーブスに掲載された](../Page/フォーブス_\(雑誌\).md "wikilink")\[8\]\[9\]。
 
-[ニューヨークで生まれ育ったジェイ](../Page/ニューヨーク州.md "wikilink")・Zは[1990年代](../Page/1990年代.md "wikilink")半ばに音楽経歴を開始し、その後、[1996年](../Page/1996年.md "wikilink")に[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")・[スタジオ・アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")「[Reasonable Doubt](https://ja.wikipedia.org/wiki/:en:Reasonable_Doubt_\(album\) "wikilink")」を発表し、批評的、商業的に成功を収めた。その1年後、彼はレコードレーベル[ロッカフェラを設立した](https://ja.wikipedia.org/wiki/ロッカフェラ・レコード "wikilink")。[2001年](../Page/2001年.md "wikilink")に発表した「[The Blueprint](https://ja.wikipedia.org/wiki/:en:The_Blueprint "wikilink")」、[2003年](../Page/2003年.md "wikilink")に発表した「[The Black Album](https://ja.wikipedia.org/wiki/ザ・ブラック・アルバム_\(ジェイ・Zのアルバム\) "wikilink")」は、古典的作品と称される\[10\]\[11\]\[12\]。[2011年](../Page/2011年.md "wikilink")に[カニエ・ウェスト](https://ja.wikipedia.org/wiki/カニエ・ウェスト "wikilink")とのコラボレーションアルバム「[Watch the Throne](https://ja.wikipedia.org/wiki/:en:Watch_the_Throne "wikilink")」、[2017年](../Page/2017年.md "wikilink")には絶賛された13枚目のアルバム「[4:44](https://ja.wikipedia.org/wiki/:en:4:44_\(album\) "wikilink")」、[2018年](../Page/2018年.md "wikilink")には妻の[ビヨンセ](https://ja.wikipedia.org/wiki/ビヨンセ "wikilink")とのコラボレーションアルバム「[Everything Is Love](https://ja.wikipedia.org/wiki/:en:Everything_Is_Love "wikilink")」を発表した。
+[ニューヨークで生まれ育ったジェイ](../Page/ニューヨーク州.md "wikilink")・Zは[1990年代](../Page/1990年代.md "wikilink")半ばに音楽経歴を開始し、その後、[1996年](../Page/1996年.md "wikilink")に[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")・[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")「[Reasonable Doubt](https://ja.wikipedia.org/wiki/:en:Reasonable_Doubt_\(album\) "wikilink")」を発表し、批評的、商業的に成功を収めた。その1年後、彼はレコードレーベル[ロッカフェラを設立した](../Page/ロッカフェラ・レコード.md "wikilink")。[2001年](../Page/2001年.md "wikilink")に発表した「[The Blueprint](https://ja.wikipedia.org/wiki/:en:The_Blueprint "wikilink")」、[2003年](../Page/2003年.md "wikilink")に発表した「[The Black Album](https://ja.wikipedia.org/wiki/ザ・ブラック・アルバム_\(ジェイ・Zのアルバム\) "wikilink")」は、古典的作品と称される\[10\]\[11\]\[12\]。[2011年](../Page/2011年.md "wikilink")に[カニエ・ウェスト](https://ja.wikipedia.org/wiki/カニエ・ウェスト "wikilink")とのコラボレーションアルバム「[Watch the Throne](https://ja.wikipedia.org/wiki/:en:Watch_the_Throne "wikilink")」、[2017年](../Page/2017年.md "wikilink")には絶賛された13枚目のアルバム「[4:44](https://ja.wikipedia.org/wiki/:en:4:44_\(album\) "wikilink")」、[2018年](../Page/2018年.md "wikilink")には妻の[ビヨンセ](../Page/ビヨンセ.md "wikilink")とのコラボレーションアルバム「[Everything Is Love](https://ja.wikipedia.org/wiki/:en:Everything_Is_Love "wikilink")」を発表した。
 
-ジェイ・Zは事業活動と音楽以外の活動も注目を集めている。彼はスポーツバー[40/40 Clubのオーナーであり](https://ja.wikipedia.org/wiki/:en:40/40_Club "wikilink")、[Rocawearのファッションラインの共同制作者である](https://ja.wikipedia.org/wiki/:en:Rocawear "wikilink")。さらに[Def Jam Recordingsの社長も務め](https://ja.wikipedia.org/wiki/Def_Jam_Recordings_\(レコードレーベル\) "wikilink")、[ロック・ネイション](https://ja.wikipedia.org/wiki/ロック・ネイション "wikilink")の創設者でもあり、そのスピンオフ企業であるロッカ・ネイション・スポーツも設立した。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")の歌手のビヨンセとの結婚は、彼を大衆文化の世界的な人物にした。夫婦として、彼らの純資産は11億6千万ドルと推定される\[13\]。個人としては推定9億ドルの純資産を持つ世界で最も裕福なヒップホップアーティストである\[14\]。
+ジェイ・Zは事業活動と音楽以外の活動も注目を集めている。彼はスポーツバー[40/40 Clubのオーナーであり](https://ja.wikipedia.org/wiki/:en:40/40_Club "wikilink")、[Rocawearのファッションラインの共同制作者である](https://ja.wikipedia.org/wiki/:en:Rocawear "wikilink")。さらに[Def Jam Recordingsの社長も務め](../Page/Def_Jam_Recordings_\(レコードレーベル\).md "wikilink")、[ロック・ネイション](https://ja.wikipedia.org/wiki/ロック・ネイション "wikilink")の創設者でもあり、そのスピンオフ企業であるロッカ・ネイション・スポーツも設立した。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")の歌手のビヨンセとの結婚は、彼を大衆文化の世界的な人物にした。夫婦として、彼らの純資産は11億6千万ドルと推定される\[13\]。個人としては推定9億ドルの純資産を持つ世界で最も裕福なヒップホップアーティストである\[14\]。
 
-これまでに21個の[グラミー賞](../Page/グラミー賞.md "wikilink")を受賞している\[15\]。彼はまた、[Billboard 200でソロアーティストによる最多首位記録を保持し](https://ja.wikipedia.org/wiki/Billboard_200 "wikilink")\[16\]、[Billboard Hot 100では](https://ja.wikipedia.org/wiki/Billboard_Hot_100 "wikilink")4つの首位獲得シングルを持つ。[Billboard](https://ja.wikipedia.org/wiki/Billboard "wikilink")は、[2000年代](../Page/2000年代.md "wikilink")最大のアーティストとして彼をランク付けした\[17\]。[ローリング・ストーン](https://ja.wikipedia.org/wiki/ローリング・ストーン "wikilink")は史上最も偉大なアーティスト100組の1人に選出した\[18\]。[2017年](../Page/2017年.md "wikilink")に[ソングライターの殿堂入りを果たし](https://ja.wikipedia.org/wiki/:en:Songwriters_Hall_of_Fame "wikilink")、[第60回グラミー賞](https://ja.wikipedia.org/wiki/第60回グラミー賞 "wikilink")で「グラミー賞アイコン・アワード」を受賞した最初のラッパーとなった\[19\]。
+これまでに21個の[グラミー賞](../Page/グラミー賞.md "wikilink")を受賞している\[15\]。彼はまた、[Billboard 200でソロアーティストによる最多首位記録を保持し](https://ja.wikipedia.org/wiki/Billboard_200 "wikilink")\[16\]、[Billboard Hot 100では](https://ja.wikipedia.org/wiki/Billboard_Hot_100 "wikilink")4つの首位獲得シングルを持つ。[Billboard](https://ja.wikipedia.org/wiki/Billboard "wikilink")は、[2000年代](../Page/2000年代.md "wikilink")最大のアーティストとして彼をランク付けした\[17\]。[ローリング・ストーン](../Page/ローリング・ストーン.md "wikilink")は史上最も偉大なアーティスト100組の1人に選出した\[18\]。[2017年](../Page/2017年.md "wikilink")に[ソングライターの殿堂入りを果たし](https://ja.wikipedia.org/wiki/:en:Songwriters_Hall_of_Fame "wikilink")、[第60回グラミー賞](https://ja.wikipedia.org/wiki/第60回グラミー賞 "wikilink")で「グラミー賞アイコン・アワード」を受賞した最初のラッパーとなった\[19\]。
 
 ## 来歴
 
-ニューヨーク市ブルックリン区ベッドフォード・スタイベサント地区にあるマーシー団地 ([Marcy Houses](https://ja.wikipedia.org/wiki/:en:Marcy_Houses "wikilink")) にて生まれ育つ\[20\]。幼少の頃、生活苦から[生活保護](https://ja.wikipedia.org/wiki/生活保護 "wikilink")を受け11歳のときには父と別離となる。そんな恵まれない生活環境のなか同じ団地に住むラッパー、ハーズジャズメイカ&マイクゴンガーの影響を受け[ラップ](../Page/ラップ.md "wikilink")に目覚め始める。その後、単身[ワシントンD.C.](../Page/ワシントンD.C..md "wikilink")へと渡り、彼が尊敬、敬愛する[ビッグ・ダディ・ケイン](../Page/ビッグ・ダディ・ケイン.md "wikilink")とツアーをする機会を勝ち得る（彼はJaz-O aka Big Jazのサイドラッパーをやっていたので彼のThe Originators\[1989年\]やHawain Sophie\[1989年\]等で若かりし姿を見る事が出来る）が、さして成功には至らず生まれ故郷[ブルックリン区](../Page/ブルックリン区.md "wikilink")に戻り、再び裏稼業へと身を投じることとなる。夢や希望が見出されず人生に自暴自棄になっていた26歳の時、至近距離から通り魔に拳銃で銃撃されたことが人生の転機となる。再度ラップに挑戦することとなり、遊び仲間のクラーク・ケントの紹介で[デイモン・ダッシュ](https://ja.wikipedia.org/wiki/デイモン・ダッシュ "wikilink")と運命的に出会う（彼は[Ski](https://ja.wikipedia.org/wiki/Ski "wikilink") aka [Ski Beatzの在籍していたOriginal](https://ja.wikipedia.org/wiki/Ski_Beatz "wikilink") FlavorのBeyond Flavorに[Sauce Moneyとクレジットされていないが客演している](https://ja.wikipedia.org/wiki/Sauce_Money "wikilink")。その時クラーク・ケントはOriginal Flavorのプロデュース、[デイモン・ダッシュ](https://ja.wikipedia.org/wiki/デイモン・ダッシュ "wikilink")はマネージメントをしていた）。
+ニューヨーク市ブルックリン区ベッドフォード・スタイベサント地区にあるマーシー団地 ([Marcy Houses](https://ja.wikipedia.org/wiki/:en:Marcy_Houses "wikilink")) にて生まれ育つ\[20\]。幼少の頃、生活苦から[生活保護](../Page/生活保護.md "wikilink")を受け11歳のときには父と別離となる。そんな恵まれない生活環境のなか同じ団地に住むラッパー、ハーズジャズメイカ&マイクゴンガーの影響を受け[ラップ](../Page/ラップ.md "wikilink")に目覚め始める。その後、単身[ワシントンD.C.](../Page/ワシントンD.C..md "wikilink")へと渡り、彼が尊敬、敬愛する[ビッグ・ダディ・ケイン](../Page/ビッグ・ダディ・ケイン.md "wikilink")とツアーをする機会を勝ち得る（彼はJaz-O aka Big Jazのサイドラッパーをやっていたので彼のThe Originators\[1989年\]やHawain Sophie\[1989年\]等で若かりし姿を見る事が出来る）が、さして成功には至らず生まれ故郷[ブルックリン区](../Page/ブルックリン区.md "wikilink")に戻り、再び裏稼業へと身を投じることとなる。夢や希望が見出されず人生に自暴自棄になっていた26歳の時、至近距離から通り魔に拳銃で銃撃されたことが人生の転機となる。再度ラップに挑戦することとなり、遊び仲間のクラーク・ケントの紹介で[デイモン・ダッシュ](https://ja.wikipedia.org/wiki/デイモン・ダッシュ "wikilink")と運命的に出会う（彼は[Ski](https://ja.wikipedia.org/wiki/Ski "wikilink") aka [Ski Beatzの在籍していたOriginal](https://ja.wikipedia.org/wiki/Ski_Beatz "wikilink") FlavorのBeyond Flavorに[Sauce Moneyとクレジットされていないが客演している](https://ja.wikipedia.org/wiki/Sauce_Money "wikilink")。その時クラーク・ケントはOriginal Flavorのプロデュース、[デイモン・ダッシュ](https://ja.wikipedia.org/wiki/デイモン・ダッシュ "wikilink")はマネージメントをしていた）。
 
-[1996年](../Page/1996年.md "wikilink")に自主レーベル[ロッカフェラ・レコード](https://ja.wikipedia.org/wiki/ロッカフェラ・レコード "wikilink")を設立すると、自身のデビューアルバム『Reasonable Dought』をリリース。プラチナムを獲得するなど成功を収めた。その翌年にはデフジャム・レコードと業務提携し、パフ・ダディをプロデューサーとして迎えたアルバム『In My Lifetime, Vol.1』を発表。またもヒット作となり人気ラッパーとしての地位を確立していく。
+[1996年](../Page/1996年.md "wikilink")に自主レーベル[ロッカフェラ・レコード](../Page/ロッカフェラ・レコード.md "wikilink")を設立すると、自身のデビューアルバム『Reasonable Dought』をリリース。プラチナムを獲得するなど成功を収めた。その翌年にはデフジャム・レコードと業務提携し、パフ・ダディをプロデューサーとして迎えたアルバム『In My Lifetime, Vol.1』を発表。またもヒット作となり人気ラッパーとしての地位を確立していく。
 
 1998年に『***Vol.2...Hard Kock Life***』をリリース。自身初の全米チャート一位を記録した。その翌年にはアルバム『***Vol.3...Life and Times of S.Carter***』、その更に翌年には『***The Dynasty Roc La Familia***』を発表。どちらも全米チャート一位を獲得した。
 
 2001年、まだ無名だったカニエ・ウェストをプロデューサーとして大々的に起用したアルバム『***The Blueprint***』をリリース。4作連続となる全米１位を記録、またソース誌から5本マイクを獲得するなど批評面でも大きな成功を収めた。その翌年にはその続編とも呼べる『***The Bueprint 2: The Gift & the Curse***』をリリース。
 
-[2003年](../Page/2003年.md "wikilink")11月、『***[The Black Album](https://ja.wikipedia.org/wiki/ザ・ブラック・アルバム_\(ジェイ・Zのアルバム\) "wikilink")***』の発表と共に[MCとしての引退を表明したが](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")、[リンキン・パーク](https://ja.wikipedia.org/wiki/リンキン・パーク "wikilink")との[コラボレーション](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")など[フィーチャリング](https://ja.wikipedia.org/wiki/フィーチャリング "wikilink")での友情共演は続いた。
+[2003年](../Page/2003年.md "wikilink")11月、『***[The Black Album](https://ja.wikipedia.org/wiki/ザ・ブラック・アルバム_\(ジェイ・Zのアルバム\) "wikilink")***』の発表と共に[MCとしての引退を表明したが](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")、[リンキン・パーク](https://ja.wikipedia.org/wiki/リンキン・パーク "wikilink")との[コラボレーション](../Page/コラボレーション.md "wikilink")など[フィーチャリング](../Page/フィーチャリング.md "wikilink")での友情共演は続いた。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、長年遺恨関係にあった[ナズ](../Page/ナズ.md "wikilink")と突如として和解し、全世界のヒップホップシーンの話題となる。10月27日、[ニュージャージー州](../Page/ニュージャージー州.md "wikilink")イースト・ラザフォードのコンチネンタル・エアラインズ・アリーナにて行なわれた[ラジオ局](https://ja.wikipedia.org/wiki/ラジオ局 "wikilink")主催のチャリティーコンサートでは、「俺に刃向かうラッパーたちを、このステージ上で攻撃する」と宣言していたのだが、ライブが終盤に入ったころ、突然ジェイ・Zは大声を張り上げ「宣戦布告よりも大事なことがある。俺は行くぜ、エスコ（ナズの愛称）\! 俺たちの伝説は終わらない\!」とナズをステージに呼び寄せ、熱く抱擁。ナズは「多くの奴らが金儲けのためにひどいことをやっている。俺達は互いに助け合って[イーストコーストを救うんだ](https://ja.wikipedia.org/wiki/アメリカ東海岸 "wikilink")」と派手なマイクパフォーマンスを披露。それ以降、ナズはデフジャムに移籍する形となる。
+[2005年](../Page/2005年.md "wikilink")、長年遺恨関係にあった[ナズ](../Page/ナズ.md "wikilink")と突如として和解し、全世界のヒップホップシーンの話題となる。10月27日、[ニュージャージー州](../Page/ニュージャージー州.md "wikilink")イースト・ラザフォードのコンチネンタル・エアラインズ・アリーナにて行なわれた[ラジオ局](https://ja.wikipedia.org/wiki/ラジオ局 "wikilink")主催のチャリティーコンサートでは、「俺に刃向かうラッパーたちを、このステージ上で攻撃する」と宣言していたのだが、ライブが終盤に入ったころ、突然ジェイ・Zは大声を張り上げ「宣戦布告よりも大事なことがある。俺は行くぜ、エスコ（ナズの愛称）\! 俺たちの伝説は終わらない\!」とナズをステージに呼び寄せ、熱く抱擁。ナズは「多くの奴らが金儲けのためにひどいことをやっている。俺達は互いに助け合って[イーストコーストを救うんだ](https://ja.wikipedia.org/wiki/アメリカ東海岸 "wikilink")」と派手なマイクパフォーマンスを披露。それ以降、ナズはデフジャムに移籍する形となる。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")、米音楽誌の独占、インタビューで[ヒップホップ](../Page/ヒップホップ.md "wikilink")への熱い情熱、再起に賭ける意気込みなどを語り復帰を認めた後『***Kingdome Come***(キングダム・カム)』で復活を果たした。翌年にもアルバム『***American Gangster***』をリリース。米経済誌[フォーブスによると](../Page/フォーブス_\(雑誌\).md "wikilink")2006年5月から2007年6月までの推定年収は8,300万ドル。世界歌手年収ランキングで1位の[ローリング・ストーンズ](../Page/ローリング・ストーンズ.md "wikilink")（8,800万ドル）に次ぐ2位につけた。
+[2006年](../Page/2006年.md "wikilink")、米音楽誌の独占、インタビューで[ヒップホップ](../Page/ヒップホップ.md "wikilink")への熱い情熱、再起に賭ける意気込みなどを語り復帰を認めた後『***Kingdome Come***(キングダム・カム)』で復活を果たした。翌年にもアルバム『***American Gangster***』をリリース。米経済誌[フォーブスによると](../Page/フォーブス_\(雑誌\).md "wikilink")2006年5月から2007年6月までの推定年収は8,300万ドル。世界歌手年収ランキングで1位の[ローリング・ストーンズ](../Page/ローリング・ストーンズ.md "wikilink")（8,800万ドル）に次ぐ2位につけた。
 
-2008年6月28日、[グラストンベリー・フェスティバル](../Page/グラストンベリー・フェスティバル.md "wikilink")にヘッドライナーとして出演。[オアシスの](https://ja.wikipedia.org/wiki/オアシス_\(バンド\) "wikilink")[ノエル・ギャラガー](https://ja.wikipedia.org/wiki/ノエル・ギャラガー "wikilink")がロックの聖地でヒップホップ・アーティストがヘッドラインを務めることを批判したのを受け、ジェイ・Zは[エレキギター](https://ja.wikipedia.org/wiki/エレキギター "wikilink")を抱えてステージに登場。オアシスのヒット曲「Wonderwall」をカヴァーしたり、[AC/DC](https://ja.wikipedia.org/wiki/AC/DC "wikilink")の「Back In Black」の[リフ](https://ja.wikipedia.org/wiki/リフ "wikilink")を使った「99 Problems」や、[プロディジー](../Page/プロディジー.md "wikilink")の「Smac My Bitch Up」をサンプリングするなど、ロックファンにも応えるパフォーマンスを披露した。 このグラストンベリー出演を先鞭にして、翌年以降からは、[ロスキルド](https://ja.wikipedia.org/wiki/ロスキルド・フェスティバル "wikilink")、[ワイヤレス](https://ja.wikipedia.org/wiki/ワイヤレス・フェスティバル "wikilink")、[コーチェラや](https://ja.wikipedia.org/wiki/コーチェラ・フェスティバル "wikilink")[ワイト島](https://ja.wikipedia.org/wiki/ワイト島音楽祭 "wikilink")、[ボナルーなどの巨大フェスを始め](https://ja.wikipedia.org/wiki/ボナルー・フェスティバル "wikilink")、日本の[サマーソニック](https://ja.wikipedia.org/wiki/サマーソニック "wikilink")を含む世界各地のロック・フェスにてヘッドライナー出演を歴任するなど、ロック界隈にも大きな存在感をもって認知される。
+2008年6月28日、[グラストンベリー・フェスティバル](../Page/グラストンベリー・フェスティバル.md "wikilink")にヘッドライナーとして出演。[オアシスの](https://ja.wikipedia.org/wiki/オアシス_\(バンド\) "wikilink")[ノエル・ギャラガー](../Page/ノエル・ギャラガー.md "wikilink")がロックの聖地でヒップホップ・アーティストがヘッドラインを務めることを批判したのを受け、ジェイ・Zは[エレキギター](https://ja.wikipedia.org/wiki/エレキギター "wikilink")を抱えてステージに登場。オアシスのヒット曲「Wonderwall」をカヴァーしたり、[AC/DC](https://ja.wikipedia.org/wiki/AC/DC "wikilink")の「Back In Black」の[リフ](../Page/リフ.md "wikilink")を使った「99 Problems」や、[プロディジー](../Page/プロディジー.md "wikilink")の「Smac My Bitch Up」をサンプリングするなど、ロックファンにも応えるパフォーマンスを披露した。 このグラストンベリー出演を先鞭にして、翌年以降からは、[ロスキルド](https://ja.wikipedia.org/wiki/ロスキルド・フェスティバル "wikilink")、[ワイヤレス](https://ja.wikipedia.org/wiki/ワイヤレス・フェスティバル "wikilink")、[コーチェラや](https://ja.wikipedia.org/wiki/コーチェラ・フェスティバル "wikilink")[ワイト島](../Page/ワイト島音楽祭.md "wikilink")、[ボナルーなどの巨大フェスを始め](https://ja.wikipedia.org/wiki/ボナルー・フェスティバル "wikilink")、日本の[サマーソニック](../Page/サマーソニック.md "wikilink")を含む世界各地のロック・フェスにてヘッドライナー出演を歴任するなど、ロック界隈にも大きな存在感をもって認知される。
 
 シングルでは4曲の[Billboard Hot 100ナンバーワンヒットを出しており](https://ja.wikipedia.org/wiki/Billboard_Hot_100 "wikilink")、アルバムは[Billboard 200にて](https://ja.wikipedia.org/wiki/Billboard_200 "wikilink")11作がナンバーワンを記録している。11作のBillboard 200ナンバーワンは、全米ソロアーティスト歴代最多記録である\[21\]。
 
 2009年、「[オートチューン](https://ja.wikipedia.org/wiki/オートチューン "wikilink")の死」という意味の楽曲「D.O.A. (Death of Autotune)」、盟友カニエ・ウェスト、リアーナをゲストに迎えた楽曲「Run This Town」をシングルとして発表すると同年9月に11枚目のアルバム「***The Blueprint 3***」をリリースした。
 
-2010年、8月に開催された音楽フェス[サマーソニック](https://ja.wikipedia.org/wiki/サマーソニック "wikilink")にヘッドライナーとして出演した。同年には[U2](../Page/U2.md "wikilink")の[ボノ](https://ja.wikipedia.org/wiki/ボノ "wikilink")、プロデューサーの[スウィズ・ビーツ](https://ja.wikipedia.org/wiki/スウィズ・ビーツ "wikilink")らと[リアーナ](../Page/リアーナ.md "wikilink")参加の[ハイチ支援曲を制作し](https://ja.wikipedia.org/wiki/ハイチ地震_\(2010年\) "wikilink")、チャリティ番組「Hope For Haiti Now」に出演した。
+2010年、8月に開催された音楽フェス[サマーソニック](../Page/サマーソニック.md "wikilink")にヘッドライナーとして出演した。同年には[U2](../Page/U2.md "wikilink")の[ボノ](https://ja.wikipedia.org/wiki/ボノ "wikilink")、プロデューサーの[スウィズ・ビーツ](https://ja.wikipedia.org/wiki/スウィズ・ビーツ "wikilink")らと[リアーナ](../Page/リアーナ.md "wikilink")参加の[ハイチ支援曲を制作し](https://ja.wikipedia.org/wiki/ハイチ地震_\(2010年\) "wikilink")、チャリティ番組「Hope For Haiti Now」に出演した。
 
 2011年、盟友である[カニエ・ウェスト](https://ja.wikipedia.org/wiki/カニエ・ウェスト "wikilink")と連名でアルバム『***Watch the Throne***』を発表。
 
@@ -39,9 +39,9 @@
 
 2017年、ニューヨーク、ロサンゼルスの街頭広告で告知なされるとアルバム『***4:44***』をリリース。初めの一週間は自身が経営に携わる音楽ストリーミング・サービスTidalのみでしか聴けなかったが、翌週にはフィジカルや他のサービスでも視聴可能となった。
 
-2018年6月から妻である[ビヨンセ](https://ja.wikipedia.org/wiki/ビヨンセ "wikilink")とのツアー「On The Run II Tour」を開始。その10日後、彼女とThe Carters名義でアルバム『***Everything is Love***』をリリースした。
+2018年6月から妻である[ビヨンセ](../Page/ビヨンセ.md "wikilink")とのツアー「On The Run II Tour」を開始。その10日後、彼女とThe Carters名義でアルバム『***Everything is Love***』をリリースした。
 
-同年の12月9日に出版された[ローリング・ストーン](https://ja.wikipedia.org/wiki/ローリング・ストーン "wikilink")誌に「アメリカ音楽史上、最も裕福なアーティスト」として掲載された。さらに同月の経済史[フォーブスの](../Page/フォーブス_\(雑誌\).md "wikilink")『アメリカで最も裕福なセレブリティ 2018』にて5位に選ばれ、ミュージシャン部門1位となった。
+同年の12月9日に出版された[ローリング・ストーン](../Page/ローリング・ストーン.md "wikilink")誌に「アメリカ音楽史上、最も裕福なアーティスト」として掲載された。さらに同月の経済史[フォーブスの](../Page/フォーブス_\(雑誌\).md "wikilink")『アメリカで最も裕福なセレブリティ 2018』にて5位に選ばれ、ミュージシャン部門1位となった。
 
 ## 人物
 
@@ -53,16 +53,16 @@
 
 ホヴァは[キリスト教](../Page/キリスト教.md "wikilink")の神[エホバ](https://ja.wikipedia.org/wiki/ヤハウェ "wikilink")（Jehovah) がJay HovahになりJay Hovaになった。
 
-[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")で共演した[ビヨンセ](https://ja.wikipedia.org/wiki/ビヨンセ "wikilink")と親密な交際を始め、2008年4月4日、米[ピープル誌が](../Page/ピープル_\(雑誌\).md "wikilink")2人の結婚を大々的に報じた。本人達は、結婚についてはほとんど言及していない。
+[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")で共演した[ビヨンセ](../Page/ビヨンセ.md "wikilink")と親密な交際を始め、2008年4月4日、米[ピープル誌が](../Page/ピープル_\(雑誌\).md "wikilink")2人の結婚を大々的に報じた。本人達は、結婚についてはほとんど言及していない。
 
-3年間に渡る過酷な[刑務所](https://ja.wikipedia.org/wiki/刑務所 "wikilink")暮らし、3度に渡る銃撃戦を経験したことがあるというサグらしい一面も見せる。今は亡き[ノトーリアス・B.I.G.](../Page/ノトーリアス・B.I.G..md "wikilink")とは高校時代からの大親友であり、お互いの作品でその名が見ることができる。 クレジットはされていないが、[Mic GeronimoのTime](https://ja.wikipedia.org/wiki/Mic_Geronimo "wikilink") To Buildでは[Ja Rule](https://ja.wikipedia.org/wiki/Ja_Rule "wikilink")、[DMX](https://ja.wikipedia.org/wiki/DMX "wikilink")とも共演している。
+3年間に渡る過酷な[刑務所](../Page/刑務所.md "wikilink")暮らし、3度に渡る銃撃戦を経験したことがあるというサグらしい一面も見せる。今は亡き[ノトーリアス・B.I.G.](../Page/ノトーリアス・B.I.G..md "wikilink")とは高校時代からの大親友であり、お互いの作品でその名が見ることができる。 クレジットはされていないが、[Mic GeronimoのTime](https://ja.wikipedia.org/wiki/Mic_Geronimo "wikilink") To Buildでは[Ja Rule](https://ja.wikipedia.org/wiki/Ja_Rule "wikilink")、[DMX](https://ja.wikipedia.org/wiki/DMX "wikilink")とも共演している。
 
 ハイチ地震の際、チャリティとして「[ウィ・アー・ザ・ワールド](../Page/ウィ・アー・ザ・ワールド.md "wikilink")」をカヴァーするにあたり、参加を打診されたが、「アーティストならば既存の曲を使わずにゼロから作品を作るべき」というスタンスを表明、不参加となった（チャリティそのものに否定的な訳ではない）。
 
 ## 経営者としての活動
 
   - 若者を対象にしたナイトクラブのチェーンである40/40を所有。
-  - 過去にレコードレーベルのロッカフェラ、ファッションブランドのロッカウェア、[ブルックリン・ネッツ](https://ja.wikipedia.org/wiki/ブルックリン・ネッツ "wikilink")の共同オーナーでもあるなど、実業家としても多方面で活動している。
+  - 過去にレコードレーベルのロッカフェラ、ファッションブランドのロッカウェア、[ブルックリン・ネッツ](../Page/ブルックリン・ネッツ.md "wikilink")の共同オーナーでもあるなど、実業家としても多方面で活動している。
   - 2004年、保有していたロッカフェラ・レコードの50％分の権利をアイランド・デフ・ジャム・グループに1,000万ドル（約10億4,000万円）で売却。
   - 2007年、自身のアパレルブランド、ロッカウェアを2億400万ドル(約250億円)で売却。
   - 2008年、大手コンサート・プロモーターの[ライブ・ネイション](https://ja.wikipedia.org/wiki/ライブ・ネイション "wikilink")と音楽史上最高額となる1億5000万ドルの契約を結ぶ。
@@ -110,7 +110,7 @@
 <td><p><strong><em>Reasonable Doubt</em></strong><small></p></td>
 <td><ul>
 <li>発売日: 1996年6月25日[28]</li>
-<li>レーベル: <a href="https://ja.wikipedia.org/wiki/ロッカフェラ・レコード" title="wikilink">Roc-A-Fella</a></li>
+<li>レーベル: <a href="../Page/ロッカフェラ・レコード.md" title="wikilink">Roc-A-Fella</a></li>
 <li>フォーマット: <a href="../Page/コンパクトディスク.md" title="wikilink">CD</a>, <a href="../Page/レコード.md" title="wikilink">LP</a>, <a href="../Page/コンパクトカセット.md" title="wikilink">cassette</a></li>
 <li>全米売上: 151.4万枚</small></li>
 </ul></td>
@@ -230,7 +230,7 @@
 <td><p><strong><em>The Blueprint 3</em></strong><small></p></td>
 <td><ul>
 <li>発売日: 2009年9月8日[38]</li>
-<li>レーベル: <a href="https://ja.wikipedia.org/wiki/アトランティック・レコード" title="wikilink">Atlantic</a>, <a href="https://ja.wikipedia.org/wiki/ロック・ネイション" title="wikilink">Roc Nation</a></li>
+<li>レーベル: <a href="../Page/アトランティック・レコード.md" title="wikilink">Atlantic</a>, <a href="https://ja.wikipedia.org/wiki/ロック・ネイション" title="wikilink">Roc Nation</a></li>
 <li>フォーマット: CD, LP, digital download</li>
 <li>全米売上: 196万枚</small></li>
 </ul></td>
@@ -376,7 +376,7 @@
 <small>(with <a href="https://ja.wikipedia.org/wiki/リンキン・パーク" title="wikilink">Linkin Park</a>)</p></td>
 <td><ul>
 <li>発売日: 2004年11月30日[55]</li>
-<li>レーベル: Roc-A-Fella, Def Jam, <a href="https://ja.wikipedia.org/wiki/ワーナー・ブラザース・レコード" title="wikilink">Warner Bros.</a>, Machine Shop</li>
+<li>レーベル: Roc-A-Fella, Def Jam, <a href="../Page/ワーナー・ブラザース・レコード.md" title="wikilink">Warner Bros.</a>, Machine Shop</li>
 <li>フォーマット: CD, LP, digital download</li>
 <li>全米売上: 200万枚</small></li>
 </ul></td>

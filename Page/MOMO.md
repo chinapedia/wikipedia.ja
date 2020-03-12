@@ -28,7 +28,7 @@
 
 <!-- end list -->
 
-  - [岡山電気軌道9200形電車](https://ja.wikipedia.org/wiki/岡山電気軌道9200形電車 "wikilink")の愛称。
+  - [岡山電気軌道9200形電車](../Page/岡山電気軌道9200形電車.md "wikilink")の愛称。
   - [シーメンス](../Page/シーメンス.md "wikilink")の開発した列車[モジュラー・メトロ](https://ja.wikipedia.org/wiki/モジュラー・メトロ "wikilink")の別称。
 
 <!-- end list -->
@@ -37,7 +37,7 @@
 
 <!-- end list -->
 
-  - [MOMO](https://ja.wikipedia.org/wiki/MOMO_\(ロケット\) "wikilink") - [インターステラテクノロジズ](https://ja.wikipedia.org/wiki/インターステラテクノロジズ "wikilink")の[サウンディングロケット](https://ja.wikipedia.org/wiki/サウンディングロケット "wikilink")、[堀江貴文](https://ja.wikipedia.org/wiki/堀江貴文 "wikilink")が[ファウンダー](https://ja.wikipedia.org/wiki/役員_\(会社\)#ファウンダー "wikilink")
+  - [MOMO](../Page/MOMO_\(ロケット\).md "wikilink") - [インターステラテクノロジズ](https://ja.wikipedia.org/wiki/インターステラテクノロジズ "wikilink")の[サウンディングロケット](https://ja.wikipedia.org/wiki/サウンディングロケット "wikilink")、[堀江貴文](../Page/堀江貴文.md "wikilink")が[ファウンダー](https://ja.wikipedia.org/wiki/役員_\(会社\)#ファウンダー "wikilink")
 
 <!-- end list -->
 
@@ -46,8 +46,8 @@
 <!-- end list -->
 
   - MOMO - 日本のシンガーソングライター、[モモイヒトミ](../Page/モモイヒトミ.md "wikilink")のかつての芸名。
-  - MOMO - アイドルユニット「[桜っ子クラブ](../Page/桜っ子クラブ.md "wikilink")さくら組」のメンバー出身の[森野文子](https://ja.wikipedia.org/wiki/森野文子 "wikilink")と[ANZA](../Page/ANZA.md "wikilink")のデュオ。
-  - momo - [momonaki](https://ja.wikipedia.org/wiki/momonaki "wikilink")のメインボーカル。現在の芸名は[唯月ふうか](https://ja.wikipedia.org/wiki/唯月ふうか "wikilink")。2011年春、[NHK総合テレビジョン](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")にて放送されたテレビアニメ『[もし高校野球の女子マネージャーがドラッカーの『マネジメント』を読んだら](https://ja.wikipedia.org/wiki/もし高校野球の女子マネージャーがドラッカーの『マネジメント』を読んだら "wikilink")』でのエンディングテーマ歌唱名義。
+  - MOMO - アイドルユニット「[桜っ子クラブ](../Page/桜っ子クラブ.md "wikilink")さくら組」のメンバー出身の[森野文子](../Page/森野文子.md "wikilink")と[ANZA](../Page/ANZA.md "wikilink")のデュオ。
+  - momo - [momonaki](https://ja.wikipedia.org/wiki/momonaki "wikilink")のメインボーカル。現在の芸名は[唯月ふうか](https://ja.wikipedia.org/wiki/唯月ふうか "wikilink")。2011年春、[NHK総合テレビジョン](../Page/NHK総合テレビジョン.md "wikilink")にて放送されたテレビアニメ『[もし高校野球の女子マネージャーがドラッカーの『マネジメント』を読んだら](https://ja.wikipedia.org/wiki/もし高校野球の女子マネージャーがドラッカーの『マネジメント』を読んだら "wikilink")』でのエンディングテーマ歌唱名義。
   - [momo](https://ja.wikipedia.org/wiki/momo "wikilink") - 日本のギターロックバンド。2015年4月解散。
   - momo - 有限会社サウンドエイムスに所属する[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")・[声優](../Page/声優.md "wikilink")。[作曲家](../Page/作曲家.md "wikilink")として、主に[ゲーム音楽](https://ja.wikipedia.org/wiki/ゲーム音楽 "wikilink")やゲーム主題歌などを手掛ける。
   - [MOMO](https://ja.wikipedia.org/wiki/佐々木心音 "wikilink") - [佐々木心音](https://ja.wikipedia.org/wiki/佐々木心音 "wikilink")（V）、[高橋圭一](../Page/高橋圭一_\(ミュージシャン\).md "wikilink")（G）、[山口寛雄](https://ja.wikipedia.org/wiki/山口寛雄 "wikilink")（B）、[村原康介](https://ja.wikipedia.org/wiki/村原康介 "wikilink")（K）、其原誠元（D）からなる日本のロックバンド。2015年秋、活動開始。
@@ -58,7 +58,7 @@
 
 <!-- end list -->
 
-  - [MOMO 終末庭園へようこそ](https://ja.wikipedia.org/wiki/MOMO_終末庭園へようこそ "wikilink") - [酒井まゆ](https://ja.wikipedia.org/wiki/酒井まゆ "wikilink")作の[少女漫画](../Page/少女漫画.md "wikilink")。
+  - [MOMO 終末庭園へようこそ](https://ja.wikipedia.org/wiki/MOMO_終末庭園へようこそ "wikilink") - [酒井まゆ](../Page/酒井まゆ.md "wikilink")作の[少女漫画](../Page/少女漫画.md "wikilink")。
 
 ## 関連項目
 

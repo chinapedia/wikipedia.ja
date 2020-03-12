@@ -7,7 +7,7 @@
 
 前作から約半年ぶりのシングル。
 
-2004年に発売されたシングルでは最高の初動売上を記録し、5thシングル「[innocent world](https://ja.wikipedia.org/wiki/innocent_world "wikilink")」以来、2度目となる[日本レコード大賞](https://ja.wikipedia.org/wiki/日本レコード大賞 "wikilink")を受賞した\[1\]。また、オリコンチャートでの登場週数が46週を記録し、Mr.Childrenのシングルでは4thシングル「[CROSS ROAD](https://ja.wikipedia.org/wiki/CROSS_ROAD_\(Mr.Childrenの曲\) "wikilink")」の50週に次ぐロングセラーとなった。累計売上は、「[youthful days](https://ja.wikipedia.org/wiki/youthful_days "wikilink")」以来5作ぶりに、70万枚を突破した。オリコンの年間ランキングで2位を獲得し、Mr.Childrenが2000年代に発売されたシングルの中で一番高い。
+2004年に発売されたシングルでは最高の初動売上を記録し、5thシングル「[innocent world](https://ja.wikipedia.org/wiki/innocent_world "wikilink")」以来、2度目となる[日本レコード大賞](https://ja.wikipedia.org/wiki/日本レコード大賞 "wikilink")を受賞した\[1\]。また、オリコンチャートでの登場週数が46週を記録し、Mr.Childrenのシングルでは4thシングル「[CROSS ROAD](../Page/CROSS_ROAD_\(Mr.Childrenの曲\).md "wikilink")」の50週に次ぐロングセラーとなった。累計売上は、「[youthful days](https://ja.wikipedia.org/wiki/youthful_days "wikilink")」以来5作ぶりに、70万枚を突破した。オリコンの年間ランキングで2位を獲得し、Mr.Childrenが2000年代に発売されたシングルの中で一番高い。
 
 ジャケット写真には、[爪木崎](https://ja.wikipedia.org/wiki/爪木崎 "wikilink")灯台が写っている。
 
@@ -21,10 +21,10 @@
       -
         [TBS系ドラマ](../Page/TBSテレビ.md "wikilink")『[オレンジデイズ](../Page/オレンジデイズ.md "wikilink")』主題歌。
         ドラマの台本を読んで書き下ろしたため、[歌詞](../Page/歌詞.md "wikilink")の内容もドラマに沿ったものとなっているが、直接の表現はなく、あくまでもこの時期の桜井の心情が表れている。「ありふれた日々を大切に」という11thアルバム『[シフクノオト](../Page/シフクノオト.md "wikilink")』を凝縮させたような歌詞となっている。なお、11thアルバム『シフクノオト』に、本楽曲は収録されなかったものの、そのアルバムを引っ提げて行われたライブツアー『[Mr.Children Tour 2004 シフクノオト](../Page/Mr.Children_Tour_2004_シフクノオト.md "wikilink")』では、本楽曲が演奏されている。
-        [ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")の監督は[大喜多正毅](../Page/大喜多正毅.md "wikilink")が務め、メンバーのスタジオ[演奏](../Page/演奏.md "wikilink")の映像とシンプルな内容となっている。元々は、本作の[CM用映像の撮影だったが](../Page/コマーシャルメッセージ.md "wikilink")、出来が良かったため、ミュージック・ビデオとして編集された。[2012年](../Page/2012年.md "wikilink")[5月10日](../Page/5月10日.md "wikilink")発売の『[Mr.Children 2001-2005 ＜micro＞](https://ja.wikipedia.org/wiki/Mr.Children_2001-2005_＜micro＞ "wikilink")』の初回限定盤、[2018年](../Page/2018年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")発売の『[Mr.Children DOME & STADIUM TOUR 2017 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_DOME_&_STADIUM_TOUR_2017_Thanksgiving_25 "wikilink")』に収録されている。
+        [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")の監督は[大喜多正毅](../Page/大喜多正毅.md "wikilink")が務め、メンバーのスタジオ[演奏](../Page/演奏.md "wikilink")の映像とシンプルな内容となっている。元々は、本作の[CM用映像の撮影だったが](../Page/コマーシャルメッセージ.md "wikilink")、出来が良かったため、ミュージック・ビデオとして編集された。[2012年](../Page/2012年.md "wikilink")[5月10日](../Page/5月10日.md "wikilink")発売の『[Mr.Children 2001-2005 ＜micro＞](https://ja.wikipedia.org/wiki/Mr.Children_2001-2005_＜micro＞ "wikilink")』の初回限定盤、[2018年](../Page/2018年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")発売の『[Mr.Children DOME & STADIUM TOUR 2017 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_DOME_&_STADIUM_TOUR_2017_Thanksgiving_25 "wikilink")』に収録されている。
         2005年に行われた『[スキウタ〜紅白みんなでアンケート〜](../Page/スキウタ〜紅白みんなでアンケート〜.md "wikilink")』では、Mr.Childrenの楽曲で最高順位を記録した。
         12thアルバム『[I {{unicode](https://ja.wikipedia.org/wiki/IラブU "wikilink")』には、意図的に27thシングル｢[四次元 Four Dimensions](../Page/四次元_Four_Dimensions.md "wikilink")｣収録曲の「ランニングハイ」の次に収録されている。
-        後の[2012年](../Page/2012年.md "wikilink")2月に、[住友生命のCMソングとしても起用された](https://ja.wikipedia.org/wiki/住友生命保険 "wikilink")。
+        後の[2012年](../Page/2012年.md "wikilink")2月に、[住友生命のCMソングとしても起用された](../Page/住友生命保険.md "wikilink")。
 2.  **妄想満月**
       - 作詞:桜井和寿　作曲:桜井和寿 & [寺岡呼人](../Page/寺岡呼人.md "wikilink")　編曲:小林武史 & Mr.Children
     <!-- end list -->
@@ -35,7 +35,7 @@
       - 作詞・作曲:桜井和寿　編曲:小林武史 & Mr.Children
     <!-- end list -->
       -
-        [デジタル](../Page/デジタル.md "wikilink")音を駆使した[ファンク](https://ja.wikipedia.org/wiki/ファンク "wikilink")調の曲で、歌詞は見解によっては[エロティック](https://ja.wikipedia.org/wiki/エロティック "wikilink")になると桜井は語っている\[3\]。
+        [デジタル](../Page/デジタル.md "wikilink")音を駆使した[ファンク](../Page/ファンク.md "wikilink")調の曲で、歌詞は見解によっては[エロティック](https://ja.wikipedia.org/wiki/エロティック "wikilink")になると桜井は語っている\[3\]。
         田原は、この曲のレコーディングにほとんど参加しておらず、前述の歌詞の内容も含めて「ついていけないっす」と発言している\[4\]。
         コンサートでは、曲順を話し合う時に浮上するが、結局披露されないという\[5\]。その事もあってか、後に開催されたファンクラブ限定ツアー「Mr.Children FATHER\&MOTHER 21周年ファンクラブツアー」の直前に行われた「会員が最もライブで聴きたい曲」では13位に選ばれた\[6\]。
         ライブでは、発売から13年後の『Mr.Children DOME & STADIUM TOUR 2017 Thanksgiving 25』ドーム公演にて初披露された。
@@ -53,7 +53,7 @@
 
 [Category:Mr.Childrenの楽曲](https://ja.wikipedia.org/wiki/Category:Mr.Childrenの楽曲 "wikilink") [Category:2004年のシングル](https://ja.wikipedia.org/wiki/Category:2004年のシングル "wikilink") [Category:桜井和寿が制作した楽曲](https://ja.wikipedia.org/wiki/Category:桜井和寿が制作した楽曲 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:2004年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2004年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:日本レコード大賞受賞曲](https://ja.wikipedia.org/wiki/Category:日本レコード大賞受賞曲 "wikilink") [Category:TBS日曜劇場の主題歌](https://ja.wikipedia.org/wiki/Category:TBS日曜劇場の主題歌 "wikilink") [Category:楽曲_さ](https://ja.wikipedia.org/wiki/Category:楽曲_さ "wikilink") [Category:ト長調](https://ja.wikipedia.org/wiki/Category:ト長調 "wikilink")
 
-1.  オリコン年間1位の「[瞳をとじて](https://ja.wikipedia.org/wiki/瞳をとじて "wikilink")」を歌った[平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink")はノミネート段階で辞退していた。
+1.  オリコン年間1位の「[瞳をとじて](../Page/瞳をとじて.md "wikilink")」を歌った[平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink")はノミネート段階で辞退していた。
 2.  『[B-SIDE](../Page/B-SIDE.md "wikilink")』ライナーノーツ
 3.
 4.

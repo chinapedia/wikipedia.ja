@@ -19,12 +19,12 @@
 
 ファイルの種類に応じて、[予約語](../Page/予約語.md "wikilink")、タグ等の強調色分け表示ができる。標準では以下の言語に対応している。
 
-  - [Bat](https://ja.wikipedia.org/wiki/バッチファイル "wikilink")
+  - [Bat](../Page/バッチファイル.md "wikilink")
   - [C\#](../Page/C_Sharp.md "wikilink")
   - [C++](../Page/C++.md "wikilink")
   - [CSS](../Page/Cascading_Style_Sheets.md "wikilink")
   - [HTML](../Page/HyperText_Markup_Language.md "wikilink")
-  - [Ini](https://ja.wikipedia.org/wiki/設定ファイル "wikilink")
+  - [Ini](../Page/設定ファイル.md "wikilink")
 
 <!-- end list -->
 
@@ -59,7 +59,7 @@
 
 ### マクロ
 
-VBScript、JavaScriptによる[マクロ作成が可能](https://ja.wikipedia.org/wiki/マクロ_\(コンピュータ用語\) "wikilink")。v6.00からは、対応するスクリプトエンジンをインストールする事で[Perl](../Page/Perl.md "wikilink")、[PHP](../Page/PHP_\(プログラミング言語\).md "wikilink")、[Python](../Page/Python.md "wikilink")、[Ruby](../Page/Ruby.md "wikilink")といった言語もマクロに使用可能\[9\]。また、キー操作を記録させる簡易マクロ機能もある\[10\]。
+VBScript、JavaScriptによる[マクロ作成が可能](../Page/マクロ_\(コンピュータ用語\).md "wikilink")。v6.00からは、対応するスクリプトエンジンをインストールする事で[Perl](../Page/Perl.md "wikilink")、[PHP](../Page/PHP_\(プログラミング言語\).md "wikilink")、[Python](../Page/Python.md "wikilink")、[Ruby](../Page/Ruby.md "wikilink")といった言語もマクロに使用可能\[9\]。また、キー操作を記録させる簡易マクロ機能もある\[10\]。
 
 ### プラグイン
 
@@ -103,14 +103,14 @@ VBScript、JavaScriptによる[マクロ作成が可能](https://ja.wikipedia.or
 
 ## 履歴
 
-  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")4月28日：EmEditor Free v1.00公開。文字列の折り返しモードをアイコンで簡易に切り替えできる点がユニークであった。起動が高速で、Windows標準の[メモ帳](https://ja.wikipedia.org/wiki/メモ帳 "wikilink")の代替としても広く使用されてきた。
+  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")4月28日：EmEditor Free v1.00公開。文字列の折り返しモードをアイコンで簡易に切り替えできる点がユニークであった。起動が高速で、Windows標準の[メモ帳](../Page/メモ帳.md "wikilink")の代替としても広く使用されてきた。
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")6月30日：EmEditor v2.00公開。[JISコード](../Page/ISO-2022-JP.md "wikilink")、[EUC-JP](../Page/EUC-JP.md "wikilink")に対応。
   - [2000年](../Page/2000年.md "wikilink")8月1日：EmEditor v3.00公開。Unicode、プラグインに対応。
-  - [2003年](../Page/2003年.md "wikilink")12月18日：EmEditor Professional v4.00公開。マクロ機能を実装。ウィンドウ結合機能により、実際はマルチプロセスだが[MDI風のインターフェースを選択できるようになる](https://ja.wikipedia.org/wiki/Multiple_Document_Interface "wikilink")。
+  - [2003年](../Page/2003年.md "wikilink")12月18日：EmEditor Professional v4.00公開。マクロ機能を実装。ウィンドウ結合機能により、実際はマルチプロセスだが[MDI風のインターフェースを選択できるようになる](../Page/Multiple_Document_Interface.md "wikilink")。
   - 2003年12月24日：EmEditor Standard v4.00公開。
   - [2004年](../Page/2004年.md "wikilink")4月26日：EmEditor Professional 2004発売。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")12月21日：EmEditor Professional/Standard v5.00公開。シングルプロセス・マルチスレッドとなり、タブ機能も強化。64bit版が追加される。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")1月25日：EmEditor Free v5.00公開。1998年1月24日公開のv1.27以来となるフリーウェア版\[27\]。
+  - [2005年](../Page/2005年.md "wikilink")12月21日：EmEditor Professional/Standard v5.00公開。シングルプロセス・マルチスレッドとなり、タブ機能も強化。64bit版が追加される。
+  - [2006年](../Page/2006年.md "wikilink")1月25日：EmEditor Free v5.00公開。1998年1月24日公開のv1.27以来となるフリーウェア版\[27\]。
   - 2006年4月24日：EmEditor Professional v6.00ベータ公開。カスタムバー機能搭載（アウトライン等）、複数言語によるマクロに対応。
   - 2006年6月13日：EmEditor Professional/Standard/Free v6.00公開。Windows Vistaに対応。
   - 2006年10月20日：EmEditor Professional 2006発売。

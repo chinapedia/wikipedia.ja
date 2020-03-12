@@ -1,7 +1,7 @@
 > この記事は[GABALL](https://ja.wikipedia.org/wiki/GABALL)から翻訳されています。
 
 
-**GABALL**（ガボール）は、[2001年](../Page/2001年.md "wikilink")[9月](../Page/9月.md "wikilink")にデビューした日本の[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")である。[R and C所属](https://ja.wikipedia.org/wiki/よしもとアール・アンド・シー "wikilink")。
+**GABALL**（ガボール）は、[2001年](../Page/2001年.md "wikilink")[9月](../Page/9月.md "wikilink")にデビューした日本の[音楽ユニット](../Page/音楽ユニット.md "wikilink")である。[R and C所属](https://ja.wikipedia.org/wiki/よしもとアール・アンド・シー "wikilink")。
 
 ## 概要
 
@@ -17,7 +17,7 @@
 
 ## 歴史
 
-同時に設立された[レーベル](../Page/レコードレーベル.md "wikilink")「gaball screen」からの第一弾アーティスト。音楽面だけでなく、映像面とのコラボレーションも行っている。2001年[11月](../Page/11月.md "wikilink")には1st LIVE「REPRESENT 01」を16日に東京[Zepp Tokyo](https://ja.wikipedia.org/wiki/Zepp "wikilink")・24日に名古屋[OZON](https://ja.wikipedia.org/wiki/OZON "wikilink")で開催。
+同時に設立された[レーベル](../Page/レコードレーベル.md "wikilink")「gaball screen」からの第一弾アーティスト。音楽面だけでなく、映像面とのコラボレーションも行っている。2001年[11月](../Page/11月.md "wikilink")には1st LIVE「REPRESENT 01」を16日に東京[Zepp Tokyo](../Page/Zepp.md "wikilink")・24日に名古屋[OZON](https://ja.wikipedia.org/wiki/OZON "wikilink")で開催。
 
 また、ユニット活動以外にも[2002年](../Page/2002年.md "wikilink")に「[SPEED TK RE-MIX](../Page/SPEED_TK_RE-MIX.md "wikilink")」の[編曲](../Page/編曲.md "wikilink")、[R9](https://ja.wikipedia.org/wiki/R9 "wikilink")「trΛst」、[Female non Fiction](https://ja.wikipedia.org/wiki/Female_non_Fiction "wikilink")「FREEZE」のオーガナイズも手がけている。
 
@@ -35,7 +35,7 @@
 
 ### マキシシングル
 
-1.  「AIDA　決めてくれー！」 (2002年5月29日)　ULTRAS、GABALL、[KEIKO](https://ja.wikipedia.org/wiki/KEIKO "wikilink")名義
+1.  「AIDA　決めてくれー！」 (2002年5月29日)　ULTRAS、GABALL、[KEIKO](../Page/KEIKO.md "wikilink")名義
     1.  AIDA 決めてくれー\!／(ULTRAS) \[3:16\]
           -
             作詞：ULTRAS NIPPON／作曲：GUISEPPE VERDI／編曲：小室哲哉
@@ -51,7 +51,7 @@
     5.  ambient lounge (Hidetoshi Nakata's theme) ～basic tracks～／GABALL \[6:53\]
           -
             作詞・作曲：小室哲哉
-2.  「[幸せの表現](https://ja.wikipedia.org/wiki/幸せの表現 "wikilink")」 マキシシングル (2003年8月6日) [よみうりテレビ](../Page/讀賣テレビ放送.md "wikilink")・[日本テレビ系列](../Page/日本テレビ系列.md "wikilink")「[14ヶ月](https://ja.wikipedia.org/wiki/14ヶ月 "wikilink")～妻が子供に還っていく～」主題歌。オリコン21位
+2.  「[幸せの表現](https://ja.wikipedia.org/wiki/幸せの表現 "wikilink")」 マキシシングル (2003年8月6日) [よみうりテレビ](../Page/讀賣テレビ放送.md "wikilink")・[日本テレビ系列](../Page/日本テレビ系列.md "wikilink")「[14ヶ月](../Page/14ヶ月.md "wikilink")～妻が子供に還っていく～」主題歌。オリコン21位
     1.  幸せの表現～featuring Joanne \[4:07\]
     2.  幸せの表現～featuring DRAGON \[4:08\]
     3.  幸せの表現～featuring Erika (from CAT MUSIC COLLEGE) \[4:05\]
@@ -103,7 +103,7 @@
 
 1.  [メディアファクトリー](../Page/メディアファクトリー.md "wikilink")刊「[ザッピィ](https://ja.wikipedia.org/wiki/ザッピィ "wikilink")」2001年9月号206Pより。
 2.  [スイッチ・パブリッシング](../Page/スイッチ・パブリッシング.md "wikilink")刊「Switch」2002年8月号109P-110Pより。
-3.  [リットーミュージック](https://ja.wikipedia.org/wiki/リットーミュージック "wikilink")刊 『[キーボード・マガジン](https://ja.wikipedia.org/wiki/キーボード・マガジン "wikilink")』 2001年12月号32P-40Pより。
+3.  [リットーミュージック](../Page/リットーミュージック.md "wikilink")刊 『[キーボード・マガジン](../Page/キーボード・マガジン.md "wikilink")』 2001年12月号32P-40Pより。
 4.  [「小室新ユニット『GABALL』」](https://web.archive.org/web/20011118125639/http://www.nikkansports.com/news/entert/p-et-tp0-011117-07.html)より。
 5.
 6.  [GABALL／タイトル未定 【 ムラウチドットコム 】](http://www.murauchi.com/MCJ-front-web/CoD/0000000129551/)より。

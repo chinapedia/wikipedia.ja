@@ -3,7 +3,7 @@
 
 『**LOVE UNLIMITED∞**』（ラヴ・アンリミテッド）は、[DREAMS COME TRUEの](../Page/DREAMS_COME_TRUE.md "wikilink")8枚目の[アルバム](../Page/アルバム.md "wikilink")である。
 
-[1996年](../Page/1996年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")にEpic/Sony Records（現・[エピックレコードジャパン](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")）よりリリースされた。
+[1996年](../Page/1996年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")にEpic/Sony Records（現・[エピックレコードジャパン](../Page/エピックレコードジャパン.md "wikilink")）よりリリースされた。
 
 ## 概要
 
@@ -23,7 +23,7 @@
 
 1.  **LOVE UNLIMITED**
       - 作詞：吉田美和、作曲：吉田美和・中村正人、編曲：中村正人
-      - 前アルバム収録曲「[サンキュ.](https://ja.wikipedia.org/wiki/サンキュ. "wikilink")」のコーラス部分が引き継がれている。
+      - 前アルバム収録曲「[サンキュ.](../Page/サンキュ..md "wikilink")」のコーラス部分が引き継がれている。
 2.  **SWEET REVENGE**
       - 作詞：吉田美和、作曲・編曲：中村正人
       - ミュージックビデオが作られた（「[そうだよ](https://ja.wikipedia.org/wiki/そうだよ "wikilink")」のCD-EXTRA、「DO YOU REMEMBER 20 YEARS WITH DREAMS COME TRUE?」に収録）。
@@ -67,7 +67,7 @@
       - LOVE LOVE LOVE
       - ROMANCE
   - **DISCOGRAPHY**
-      - 『[DREAMS COME TRUE](https://ja.wikipedia.org/wiki/DREAMS_COME_TRUE_\(アルバム\) "wikilink")』から『[DELICIOUS](../Page/DELICIOUS_\(DREAMS_COME_TRUEのアルバム\).md "wikilink")』までのオリジナルアルバム7枚が表示される。収録曲すべて（短い曲は除く）を15秒ほど聴くことができる。
+      - 『[DREAMS COME TRUE](../Page/DREAMS_COME_TRUE_\(アルバム\).md "wikilink")』から『[DELICIOUS](../Page/DELICIOUS_\(DREAMS_COME_TRUEのアルバム\).md "wikilink")』までのオリジナルアルバム7枚が表示される。収録曲すべて（短い曲は除く）を15秒ほど聴くことができる。
   - **EXIT**
 
 [Category:DREAMS_COME_TRUEのアルバム](https://ja.wikipedia.org/wiki/Category:DREAMS_COME_TRUEのアルバム "wikilink") [Category:1996年のアルバム](https://ja.wikipedia.org/wiki/Category:1996年のアルバム "wikilink") [Category:EPICソニーのアルバム](https://ja.wikipedia.org/wiki/Category:EPICソニーのアルバム "wikilink") [Category:1996年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1996年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink")

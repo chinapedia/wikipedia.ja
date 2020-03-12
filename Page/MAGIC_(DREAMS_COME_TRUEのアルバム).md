@@ -1,11 +1,11 @@
 > この記事は[MAGIC \(DREAMS COME TRUE\)](https://ja.wikipedia.org/wiki/MAGIC_\(DREAMS_COME_TRUE\))から翻訳されています。
 
 
-『**MAGIC**』（マジック）は、[DREAMS COME TRUEの](../Page/DREAMS_COME_TRUE.md "wikilink")6枚目の[アルバム](../Page/アルバム.md "wikilink")。[1993年](../Page/1993年.md "wikilink")[12月4日](../Page/12月4日.md "wikilink")にEpic/Sony Records（現・[エピックレコードジャパン](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")）よりリリースされた。
+『**MAGIC**』（マジック）は、[DREAMS COME TRUEの](../Page/DREAMS_COME_TRUE.md "wikilink")6枚目の[アルバム](../Page/アルバム.md "wikilink")。[1993年](../Page/1993年.md "wikilink")[12月4日](../Page/12月4日.md "wikilink")にEpic/Sony Records（現・[エピックレコードジャパン](../Page/エピックレコードジャパン.md "wikilink")）よりリリースされた。
 
 ## 概要
 
-  - 初週で114万枚を売り上げ、4週目で200万枚を突破した（オリコン調べ）。[オリコン週間ランキングでは](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")、7週連続1位を獲得し、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の『[KAMAKURA](https://ja.wikipedia.org/wiki/KAMAKURA "wikilink")』以来で約9年ぶりの記録となった\[1\]。
+  - 初週で114万枚を売り上げ、4週目で200万枚を突破した（オリコン調べ）。[オリコン週間ランキングでは](../Page/オリコンチャート.md "wikilink")、7週連続1位を獲得し、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の『[KAMAKURA](../Page/KAMAKURA.md "wikilink")』以来で約9年ぶりの記録となった\[1\]。
   - 1994年6月時点で、累計売上は約260万枚（エピックレコードジャパン）\[2\]。
   - このアルバムを携えて、コンサートツアー『MAGIC JOURNEY』を開催した。
 
@@ -15,7 +15,7 @@
 
 1.  **…AND THEN?**
       - 作曲：中村正人
-      - 前作「[The Swinging Star](../Page/The_Swinging_Star.md "wikilink")」の「[決戦は金曜日](https://ja.wikipedia.org/wiki/決戦は金曜日 "wikilink")」、「[晴れたらいいね](https://ja.wikipedia.org/wiki/晴れたらいいね "wikilink")」をモチーフにしている。
+      - 前作「[The Swinging Star](../Page/The_Swinging_Star.md "wikilink")」の「[決戦は金曜日](https://ja.wikipedia.org/wiki/決戦は金曜日 "wikilink")」、「[晴れたらいいね](../Page/晴れたらいいね.md "wikilink")」をモチーフにしている。
 2.  **<span id="LOVETIDE">LOVETIDE</span>**
       - 作曲：中村正人
       - SONY PRO PIXY ESPRIT CFソング
@@ -29,7 +29,7 @@
       - 作曲：中村正人
 6.  **<span id="a_little_waltz">a little waltz</span>**
       - 作曲：吉田美和
-      - [日本コカ・コーラ](../Page/日本コカ・コーラ.md "wikilink")「[爽健美茶](https://ja.wikipedia.org/wiki/爽健美茶 "wikilink")」CMソング、PS2『[牧場物語 Oh\!ワンダフルライフ](https://ja.wikipedia.org/wiki/牧場物語_ワンダフルライフ "wikilink")』主題歌
+      - [日本コカ・コーラ](../Page/日本コカ・コーラ.md "wikilink")「[爽健美茶](../Page/爽健美茶.md "wikilink")」CMソング、PS2『[牧場物語 Oh\!ワンダフルライフ](../Page/牧場物語_ワンダフルライフ.md "wikilink")』主題歌
       - この曲のタイトルだけは筆記体で表記されている。これは、他の作品に収録されたときにも同じである。
 7.  **花曇りの日曜日**
       - 作曲：中村正人

@@ -1,7 +1,7 @@
 > この記事は[KI \(\)](https://ja.wikipedia.org/wiki/KI_\(\))から翻訳されています。
 
 
-「**KI**」（ケイアイ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")[B'z](../Page/B'z.md "wikilink")の[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")が[2003年](../Page/2003年.md "wikilink")[6月11日](../Page/6月11日.md "wikilink")にリリースした、2作目の[シングル](../Page/シングル.md "wikilink")。
+「**KI**」（ケイアイ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")[B'z](../Page/B'z.md "wikilink")の[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")が[2003年](../Page/2003年.md "wikilink")[6月11日](../Page/6月11日.md "wikilink")にリリースした、2作目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 概要
 
@@ -17,7 +17,7 @@
 
 1.  **AKATSUKI** (3:46)
       -
-        [ハードロック](../Page/ハードロック.md "wikilink")調のアレンジで、[TUBE](../Page/TUBE.md "wikilink")の[春畑道哉](https://ja.wikipedia.org/wiki/春畑道哉 "wikilink")が[エレクトリック・ギター](../Page/エレクトリック・ギター.md "wikilink")で参加している。
+        [ハードロック](../Page/ハードロック.md "wikilink")調のアレンジで、[TUBE](../Page/TUBE.md "wikilink")の[春畑道哉](../Page/春畑道哉.md "wikilink")が[エレクトリック・ギター](../Page/エレクトリック・ギター.md "wikilink")で参加している。
 2.  **静かな雨** (4:00)
       -
         [ウーリッツァーと](../Page/エレクトリックピアノ.md "wikilink")[アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")主体。ソロライブでは雨の日限定で演奏された。
@@ -38,11 +38,11 @@
 
 ## 参加ミュージシャン
 
-  - [稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、全曲[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・[作曲](../Page/作曲.md "wikilink")、[編曲](../Page/編曲.md "wikilink")（\#1.2.4）、[アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")（\#1.2）、[ギター](../Page/ギター.md "wikilink")（\#4）
-  - [徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")：[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")（\#1.2.4）、編曲（\#1）
+  - [稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、全曲[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")、[編曲](../Page/編曲.md "wikilink")（\#1.2.4）、[アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")（\#1.2）、[ギター](../Page/ギター.md "wikilink")（\#4）
+  - [徳永暁人](../Page/徳永暁人.md "wikilink")：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")（\#1.2.4）、編曲（\#1）
   - [寺地秀行](https://ja.wikipedia.org/wiki/寺地秀行 "wikilink")：編曲（\#1.2）
   - [池田大介](../Page/池田大介_\(編曲家\).md "wikilink")：[ストリングスアレンジ](https://ja.wikipedia.org/wiki/編曲#ストリングス "wikilink")（\#4）、編曲（\#4.5）
-  - [春畑道哉](https://ja.wikipedia.org/wiki/春畑道哉 "wikilink")：[エレクトリック・ギター](../Page/エレクトリック・ギター.md "wikilink")（\#1）
+  - [春畑道哉](../Page/春畑道哉.md "wikilink")：[エレクトリック・ギター](../Page/エレクトリック・ギター.md "wikilink")（\#1）
   - Kohji Arinaga：エレクトリック・ギター（\#3）
   - [青山純](../Page/青山純.md "wikilink")：[ドラム](../Page/ドラムセット.md "wikilink")（\#1）
   - [山木秀夫](../Page/山木秀夫.md "wikilink")：ドラム（\#2）

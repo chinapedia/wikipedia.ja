@@ -1,23 +1,23 @@
 > この記事は[AAAA](https://ja.wikipedia.org/wiki/AAAA)から翻訳されています。
 
 
-**AAAのA〜お話**（トリプルエーのえーおはなし）は、[AAAのメンバーが](https://ja.wikipedia.org/wiki/AAA_\(音楽グループ\) "wikilink")[DJを務めていた](../Page/ディスクジョッキー.md "wikilink")[ニッポン放送](../Page/ニッポン放送.md "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。
+**AAAのA〜お話**（トリプルエーのえーおはなし）は、[AAAのメンバーが](../Page/AAA_\(音楽グループ\).md "wikilink")[DJを務めていた](../Page/ディスクジョッキー.md "wikilink")[ニッポン放送](../Page/ニッポン放送.md "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。
 
 ## 概要
 
-「[東貴博ニッポン全国ラジベガス](https://ja.wikipedia.org/wiki/東貴博ニッポン全国ラジベガス "wikilink")」の内包[箱番組](https://ja.wikipedia.org/wiki/箱番組 "wikilink")として[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月3日](../Page/10月3日.md "wikilink")より放送開始。月曜から金曜に放送されていた。
+「[東貴博ニッポン全国ラジベガス](https://ja.wikipedia.org/wiki/東貴博ニッポン全国ラジベガス "wikilink")」の内包[箱番組](https://ja.wikipedia.org/wiki/箱番組 "wikilink")として[2005年](../Page/2005年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")より放送開始。月曜から金曜に放送されていた。
 
-当初は23時30分頃からの10分番組だったが、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")より、22時50分頃からの5分番組になった。
+当初は23時30分頃からの10分番組だったが、[2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")より、22時50分頃からの5分番組になった。
 
 また、当初はメンバー1人が登場していたが、後半からメンバー2人が登場するようになった。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[2月20日](../Page/2月20日.md "wikilink") - [2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")の放送は「ラジベガス」が「オールスター総登場家族対抗ワールドエンタメ雑学クイズ・グランプリ」を行っていたため、メンバーの1人が登場し、本人に関する[雑学](../Page/雑学.md "wikilink")[クイズ](../Page/クイズ.md "wikilink")を出題した。
+[2006年](../Page/2006年.md "wikilink")[2月20日](../Page/2月20日.md "wikilink") - [2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")の放送は「ラジベガス」が「オールスター総登場家族対抗ワールドエンタメ雑学クイズ・グランプリ」を行っていたため、メンバーの1人が登場し、本人に関する[雑学](../Page/雑学.md "wikilink")[クイズ](../Page/クイズ.md "wikilink")を出題した。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[5月29日](../Page/5月29日.md "wikilink")からは「№1アタックオールアラウンダーは誰だ」と題して、メンバー全員が登場し、色々なことで対決をしている。
+[2006年](../Page/2006年.md "wikilink")[5月29日](../Page/5月29日.md "wikilink")からは「№1アタックオールアラウンダーは誰だ」と題して、メンバー全員が登場し、色々なことで対決をしている。
 
-同年10月からの番組[改編](../Page/改編.md "wikilink")により、[10月2日](../Page/10月2日.md "wikilink")からは「[東貴博のヤンピース](https://ja.wikipedia.org/wiki/東貴博のヤンピース "wikilink")」内でのみ放送を続行、「[南海キャンディーズ 山里亮太のヤンピース フライデースペシャル](https://ja.wikipedia.org/wiki/南海キャンディーズ_山里亮太のヤンピース_フライデースペシャル "wikilink")」が放送される金曜日での放送は、[9月29日](../Page/9月29日.md "wikilink")を以って終了した。
+同年10月からの番組[改編](../Page/改編.md "wikilink")により、[10月2日](../Page/10月2日.md "wikilink")からは「[東貴博のヤンピース](../Page/東貴博のヤンピース.md "wikilink")」内でのみ放送を続行、「[南海キャンディーズ 山里亮太のヤンピース フライデースペシャル](../Page/南海キャンディーズ_山里亮太のヤンピース_フライデースペシャル.md "wikilink")」が放送される金曜日での放送は、[9月29日](../Page/9月29日.md "wikilink")を以って終了した。
 
-[2007年](../Page/2007年.md "wikilink")4月からの「[ヤンピース](https://ja.wikipedia.org/wiki/ヤンピース "wikilink")」の番組改編に伴い、同年[3月29日](../Page/3月29日.md "wikilink")をもって放送を終了した。
+[2007年](../Page/2007年.md "wikilink")4月からの「[ヤンピース](../Page/ヤンピース.md "wikilink")」の番組改編に伴い、同年[3月29日](../Page/3月29日.md "wikilink")をもって放送を終了した。
 
 ## コーナー・テーマ
 
@@ -38,7 +38,7 @@
 <!-- end list -->
 
   - 月曜日：先週1週間全力でがんばったエピソードを紹介。
-  - 火曜日：[リスナー](https://ja.wikipedia.org/wiki/リスナー "wikilink")からのメールに答える。
+  - 火曜日：[リスナー](../Page/リスナー.md "wikilink")からのメールに答える。
   - 水曜日：お気に入りの一曲を紹介する。
   - 木曜日：リスナーからのメールに答える。　　　　　
   - 金曜日：心から「ありがとう」と言いたいエピソードを紹介。

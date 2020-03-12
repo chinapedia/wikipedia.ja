@@ -1,11 +1,11 @@
 > この記事は[Crispy!](https://ja.wikipedia.org/wiki/Crispy!)から翻訳されています。
 
 
-『**Crispy\!**』（クリスピー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")・[スピッツの通算](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")4作目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。[1993年](../Page/1993年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")に[ポリドールより発売](../Page/ポリドール・レコード.md "wikilink")。
+『**Crispy\!**』（クリスピー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")・[スピッツの通算](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")4作目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[1993年](../Page/1993年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")に[ポリドールより発売](../Page/ポリドール・レコード.md "wikilink")。
 
 ## 概要
 
-デビュー3年目、前作までの売り上げ不振を受け「そろそろ結果を出さなくてはいけない」というプロとしての責任感をメンバーが感じ始め、売れる物を作るべく初めて外部[プロデューサー](../Page/プロデューサー.md "wikilink")として[笹路正徳](https://ja.wikipedia.org/wiki/笹路正徳 "wikilink")を迎えた。笹路のオーバープロデュース的な作風となり、[シンセサイザー](../Page/シンセサイザー.md "wikilink")や[ホーンを大々的に取り入れた](../Page/管楽器.md "wikilink")[ポップな仕上がりになっている](../Page/ポップ・ミュージック.md "wikilink")。[草野の書く楽曲も売れ線を狙ったものが多く](../Page/草野マサムネ.md "wikilink")、メンバー曰く「『[オーロラになれなかった人のために](../Page/オーロラになれなかった人のために.md "wikilink")』よりこちらの方が草野のソロ色が強い」という。
+デビュー3年目、前作までの売り上げ不振を受け「そろそろ結果を出さなくてはいけない」というプロとしての責任感をメンバーが感じ始め、売れる物を作るべく初めて外部[プロデューサー](../Page/プロデューサー.md "wikilink")として[笹路正徳](../Page/笹路正徳.md "wikilink")を迎えた。笹路のオーバープロデュース的な作風となり、[シンセサイザー](../Page/シンセサイザー.md "wikilink")や[ホーンを大々的に取り入れた](../Page/管楽器.md "wikilink")[ポップな仕上がりになっている](../Page/ポップ・ミュージック.md "wikilink")。[草野の書く楽曲も売れ線を狙ったものが多く](../Page/草野マサムネ.md "wikilink")、メンバー曰く「『[オーロラになれなかった人のために](../Page/オーロラになれなかった人のために.md "wikilink")』よりこちらの方が草野のソロ色が強い」という。
 
 発売当初はチャート入りは果たせなかったが、バンドのブレイク後、ランクインを果たした。売れるための作品創りはメンバーの意向であったため批判はある程度予測できたものの、むしろ売れなかったことに草野が「自分の曲や声は一般受けしない」と思い込み、大いに落胆した（メンバー曰く「だいぶひどかった」）。しかし、本アルバムより[シングルカットされた](../Page/リカット.md "wikilink")「[君が思い出になる前に](../Page/君が思い出になる前に.md "wikilink")」がチャートインしたため、売れるという目的は果たすことができたとし、以後の笹路との方針は少し変わっていく。
 
@@ -18,7 +18,7 @@
 ## 収録曲
 
 1.  **クリスピー** **(3:05)**
-    作詞・作曲:[草野正宗](https://ja.wikipedia.org/wiki/草野正宗 "wikilink") / 編曲:[笹路正徳](https://ja.wikipedia.org/wiki/笹路正徳 "wikilink") ＆ [スピッツ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")
+    作詞・作曲:[草野正宗](https://ja.wikipedia.org/wiki/草野正宗 "wikilink") / 編曲:[笹路正徳](../Page/笹路正徳.md "wikilink") ＆ [スピッツ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")
       -
         アルバムタイトル曲。バンド名候補でもあった。
 2.  **夏が終わる** **(4:09)**
@@ -32,15 +32,15 @@
 4.  **[君が思い出になる前に](../Page/君が思い出になる前に.md "wikilink")** **(5:03)**
     作詞・作曲:草野正宗 / 編曲:笹路正徳 ＆ スピッツ
       -
-        後に7thシングルとしてリカット。その際にバンドのシングルとしては初の[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")入りを果たす。
+        後に7thシングルとしてリカット。その際にバンドのシングルとしては初の[オリコンチャート](../Page/オリコンチャート.md "wikilink")入りを果たす。
 5.  **ドルフィン・ラヴ** **(4:06)**
     作詞・作曲:草野正宗 / 編曲:笹路正徳 ＆ スピッツ
       -
         [ジミ・ヘンドリックス](../Page/ジミ・ヘンドリックス.md "wikilink")を意識している。そのため仮タイトルは「ジミヘン」。
-6.  **[夢じゃない](https://ja.wikipedia.org/wiki/夢じゃない "wikilink")** **(4:27)**
+6.  **[夢じゃない](../Page/夢じゃない.md "wikilink")** **(4:27)**
     作詞・作曲:草野正宗 / 編曲:笹路正徳 ＆ スピッツ
       -
-        1997年に16thシングルとしてリカット。シングルとして発売されたものは、本アルバムに収録されたものとは別バージョン。[辺見えみり](https://ja.wikipedia.org/wiki/辺見えみり "wikilink")が1996年のアルバム『流れ星』で[カバー](../Page/カバー.md "wikilink")している（詳細は[こちらも参照](https://ja.wikipedia.org/wiki/流れ星_\(スピッツの曲\) "wikilink")）。
+        1997年に16thシングルとしてリカット。シングルとして発売されたものは、本アルバムに収録されたものとは別バージョン。[辺見えみり](../Page/辺見えみり.md "wikilink")が1996年のアルバム『流れ星』で[カバー](../Page/カバー.md "wikilink")している（詳細は[こちらも参照](../Page/流れ星_\(スピッツの曲\).md "wikilink")）。
 7.  **君だけを** **(5:26)**
     作詞・作曲:草野正宗 / 編曲:笹路正徳 ＆ スピッツ
       -
@@ -87,13 +87,13 @@
 <!-- end list -->
 
 1.  **クリスピー**
-2.  **[夢じゃない](https://ja.wikipedia.org/wiki/夢じゃない "wikilink")**
+2.  **[夢じゃない](../Page/夢じゃない.md "wikilink")**
 3.  **多摩川**
 4.  **君だけを**
 5.  **タイムトラベラー**
 
 ## 関連項目
 
-  - [1993年の音楽](https://ja.wikipedia.org/wiki/1993年の音楽 "wikilink")
+  - [1993年の音楽](../Page/1993年の音楽.md "wikilink")
 
 [Category:スピッツのアルバム](https://ja.wikipedia.org/wiki/Category:スピッツのアルバム "wikilink") [Category:1993年のアルバム](https://ja.wikipedia.org/wiki/Category:1993年のアルバム "wikilink") [Category:ポリドール・レコードのアルバム](https://ja.wikipedia.org/wiki/Category:ポリドール・レコードのアルバム "wikilink")

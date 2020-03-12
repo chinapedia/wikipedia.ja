@@ -5,7 +5,7 @@
 
 ## 概要
 
-[TOKIO](../Page/TOKIO.md "wikilink")デビュー10周年記念に発売されたアルバムで、初代[ジャニーズ](../Page/ジャニーズ.md "wikilink")から[KinKi Kidsまでの歴代](../Page/KinKi_Kids.md "wikilink")[ジャニーズアーティストの](../Page/ジャニーズ事務所.md "wikilink")[カバー](../Page/カバー.md "wikilink")を収録。また、デビュー曲「[LOVE YOU ONLY](https://ja.wikipedia.org/wiki/LOVE_YOU_ONLY "wikilink")」のリアレンジバージョンも収録された。
+[TOKIO](../Page/TOKIO.md "wikilink")デビュー10周年記念に発売されたアルバムで、初代[ジャニーズ](../Page/ジャニーズ.md "wikilink")から[KinKi Kidsまでの歴代](../Page/KinKi_Kids.md "wikilink")[ジャニーズアーティストの](../Page/ジャニーズ事務所.md "wikilink")[カバー](../Page/カバー.md "wikilink")を収録。また、デビュー曲「[LOVE YOU ONLY](../Page/LOVE_YOU_ONLY.md "wikilink")」のリアレンジバージョンも収録された。
 
 各曲のプロデューサーには[曽我部恵一](../Page/曽我部恵一.md "wikilink")や[小西康陽](../Page/小西康陽.md "wikilink")など超豪華メンバーが集結した。
 
@@ -24,45 +24,45 @@
         作詞・作曲：[浜口庫之助](../Page/浜口庫之助.md "wikilink")、編曲：香取良彦 & [小西康陽](../Page/小西康陽.md "wikilink")
 2.  **[ブルドッグ](https://ja.wikipedia.org/wiki/ブルドッグ_\(フォーリーブスの曲\) "wikilink")**（[フォーリーブス](https://ja.wikipedia.org/wiki/フォーリーブス "wikilink")）
       -
-        作詞：[伊藤アキラ](https://ja.wikipedia.org/wiki/伊藤アキラ "wikilink")、作曲：[都倉俊一](https://ja.wikipedia.org/wiki/都倉俊一 "wikilink")、編曲：[曽我部恵一](../Page/曽我部恵一.md "wikilink")
+        作詞：[伊藤アキラ](../Page/伊藤アキラ.md "wikilink")、作曲：[都倉俊一](../Page/都倉俊一.md "wikilink")、編曲：[曽我部恵一](../Page/曽我部恵一.md "wikilink")
 3.  **[よろしく哀愁](../Page/よろしく哀愁.md "wikilink")**（[郷ひろみ](../Page/郷ひろみ.md "wikilink")）
       -
-        作詞：[安井かずみ](https://ja.wikipedia.org/wiki/安井かずみ "wikilink")、作曲：[筒美京平](https://ja.wikipedia.org/wiki/筒美京平 "wikilink")、編曲：小西康陽
+        作詞：[安井かずみ](../Page/安井かずみ.md "wikilink")、作曲：[筒美京平](https://ja.wikipedia.org/wiki/筒美京平 "wikilink")、編曲：小西康陽
     <!-- end list -->
       - [長瀬智也](../Page/長瀬智也.md "wikilink")出演「[スバル・フォレスター](../Page/スバル・フォレスター.md "wikilink")」CMソング
 4.  **[抱きしめてTONIGHT](https://ja.wikipedia.org/wiki/抱きしめてTONIGHT "wikilink")**（[田原俊彦](../Page/田原俊彦.md "wikilink")）
       -
         作詞：[森浩美](../Page/森浩美.md "wikilink")、作曲：筒美京平、編曲：[Towa Tei](../Page/テイ・トウワ.md "wikilink")
-5.  **[ギンギラギンにさりげなく](https://ja.wikipedia.org/wiki/ギンギラギンにさりげなく "wikilink")**（[近藤真彦](https://ja.wikipedia.org/wiki/近藤真彦 "wikilink")）
+5.  **[ギンギラギンにさりげなく](https://ja.wikipedia.org/wiki/ギンギラギンにさりげなく "wikilink")**（[近藤真彦](../Page/近藤真彦.md "wikilink")）
       -
         作詞：[伊達歩](../Page/伊集院静.md "wikilink")、作曲：筒美京平、編曲：[高見沢俊彦](../Page/高見沢俊彦.md "wikilink")
 6.  **[100%…SOかもね\!](https://ja.wikipedia.org/wiki/100%…SOかもね! "wikilink")**（[シブがき隊](https://ja.wikipedia.org/wiki/シブがき隊 "wikilink")）
       -
-        作詞：[森雪之丞](https://ja.wikipedia.org/wiki/森雪之丞 "wikilink")、作曲：[井上大輔](https://ja.wikipedia.org/wiki/井上大輔 "wikilink")、編曲：曽我部恵一
-7.  **気まぐれOne Way Boy**（[THE GOOD-BYE](https://ja.wikipedia.org/wiki/THE_GOOD-BYE "wikilink")）
+        作詞：[森雪之丞](../Page/森雪之丞.md "wikilink")、作曲：[井上大輔](https://ja.wikipedia.org/wiki/井上大輔 "wikilink")、編曲：曽我部恵一
+7.  **気まぐれOne Way Boy**（[THE GOOD-BYE](../Page/THE_GOOD-BYE.md "wikilink")）
       -
-        作詞：[橋本淳](https://ja.wikipedia.org/wiki/橋本淳_\(作詞家\) "wikilink")、作曲：[山本寛太郎](https://ja.wikipedia.org/wiki/山本寛太郎 "wikilink")、編曲：[Adrian Belew](../Page/エイドリアン・ブリュー.md "wikilink")
-8.  **[君だけに](https://ja.wikipedia.org/wiki/君だけに "wikilink")**（[少年隊](https://ja.wikipedia.org/wiki/少年隊 "wikilink")）
+        作詞：[橋本淳](../Page/橋本淳_\(作詞家\).md "wikilink")、作曲：[山本寛太郎](https://ja.wikipedia.org/wiki/山本寛太郎 "wikilink")、編曲：[Adrian Belew](../Page/エイドリアン・ブリュー.md "wikilink")
+8.  **[君だけに](https://ja.wikipedia.org/wiki/君だけに "wikilink")**（[少年隊](../Page/少年隊.md "wikilink")）
       -
-        作詞：[康珍化](https://ja.wikipedia.org/wiki/康珍化 "wikilink")、作曲：筒美京平、編曲：[TOTO](https://ja.wikipedia.org/wiki/TOTO_\(バンド\) "wikilink")
-9.  **[DAYBREAK](https://ja.wikipedia.org/wiki/DAYBREAK_\(男闘呼組の曲\) "wikilink")**（[男闘呼組](https://ja.wikipedia.org/wiki/男闘呼組 "wikilink")）
+        作詞：[康珍化](../Page/康珍化.md "wikilink")、作曲：筒美京平、編曲：[TOTO](../Page/TOTO_\(バンド\).md "wikilink")
+9.  **[DAYBREAK](https://ja.wikipedia.org/wiki/DAYBREAK_\(男闘呼組の曲\) "wikilink")**（[男闘呼組](../Page/男闘呼組.md "wikilink")）
       -
-        作詞：[大津あきら](../Page/大津あきら.md "wikilink")、作曲：[MARK DAVIS](https://ja.wikipedia.org/wiki/馬飼野康二 "wikilink")、編曲：[高見沢俊彦](../Page/高見沢俊彦.md "wikilink")
-10. **[パラダイス銀河](../Page/パラダイス銀河.md "wikilink")**（[光GENJI](https://ja.wikipedia.org/wiki/光GENJI "wikilink")）
+        作詞：[大津あきら](../Page/大津あきら.md "wikilink")、作曲：[MARK DAVIS](../Page/馬飼野康二.md "wikilink")、編曲：[高見沢俊彦](../Page/高見沢俊彦.md "wikilink")
+10. **[パラダイス銀河](../Page/パラダイス銀河.md "wikilink")**（[光GENJI](../Page/光GENJI.md "wikilink")）
       -
         作詞・作曲：[飛鳥涼](https://ja.wikipedia.org/wiki/ASKA "wikilink")、編曲：小西康陽
-11. **[らいおんハート](https://ja.wikipedia.org/wiki/らいおんハート "wikilink")**（[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")）
+11. **[らいおんハート](../Page/らいおんハート.md "wikilink")**（[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")）
       -
         作詞：[野島伸司](../Page/野島伸司.md "wikilink")、作曲：[コモリタミノル](https://ja.wikipedia.org/wiki/コモリタミノル "wikilink")、編曲：知野芳彦
-12. **[フラワー](https://ja.wikipedia.org/wiki/フラワー_\(KinKi_Kidsの曲\) "wikilink")**（[KinKi Kids](../Page/KinKi_Kids.md "wikilink")）
+12. **[フラワー](../Page/フラワー_\(KinKi_Kidsの曲\).md "wikilink")**（[KinKi Kids](../Page/KinKi_Kids.md "wikilink")）
       -
         作詞：[H∧L](https://ja.wikipedia.org/wiki/H∧L "wikilink")、作曲：H∧L・音妃、編曲：[SKETCH SHOW](../Page/スケッチ・ショウ.md "wikilink")
-13. **[WAになっておどろう](../Page/WAになっておどろう.md "wikilink")**（[V6](../Page/V6_\(グループ\).md "wikilink")/[AGHARTA](https://ja.wikipedia.org/wiki/AGHARTA "wikilink")）
+13. **[WAになっておどろう](../Page/WAになっておどろう.md "wikilink")**（[V6](../Page/V6_\(グループ\).md "wikilink")/[AGHARTA](../Page/AGHARTA.md "wikilink")）
       -
         作詞・作曲：長万部太郎 ([角松敏生](https://ja.wikipedia.org/wiki/角松敏生 "wikilink"))、編曲：角松敏生
-14. **[LOVE YOU ONLY](https://ja.wikipedia.org/wiki/LOVE_YOU_ONLY "wikilink")**
+14. **[LOVE YOU ONLY](../Page/LOVE_YOU_ONLY.md "wikilink")**
       -
-        作詞：工藤哲雄、作曲：[都志見隆](https://ja.wikipedia.org/wiki/都志見隆 "wikilink")、編曲：[TOKIO](../Page/TOKIO.md "wikilink") & KAM
+        作詞：工藤哲雄、作曲：[都志見隆](../Page/都志見隆.md "wikilink")、編曲：[TOKIO](../Page/TOKIO.md "wikilink") & KAM
     <!-- end list -->
       - 1stシングルのアレンジバージョン
 
@@ -81,10 +81,10 @@
   - Produced by [小西康陽](../Page/小西康陽.md "wikilink")
       - E.Guitar：寺屋七大
       - Wood Bass：[納浩一](https://ja.wikipedia.org/wiki/納浩一 "wikilink")
-      - Drums：[岩瀬立飛](https://ja.wikipedia.org/wiki/岩瀬立飛 "wikilink")
+      - Drums：[岩瀬立飛](../Page/岩瀬立飛.md "wikilink")
       - Percussion：[岡部洋一](https://ja.wikipedia.org/wiki/岡部洋一_\(音楽家\) "wikilink")
-      - Trumpet：[エリック宮城](https://ja.wikipedia.org/wiki/エリック・ミヤシロ "wikilink")・岡崎好朗・菊池成浩・宮本やすし
-      - Trombone：[村田陽一](https://ja.wikipedia.org/wiki/村田陽一 "wikilink")・[松本治](https://ja.wikipedia.org/wiki/松本治 "wikilink")・佐藤春樹
+      - Trumpet：[エリック宮城](../Page/エリック・ミヤシロ.md "wikilink")・岡崎好朗・菊池成浩・宮本やすし
+      - Trombone：[村田陽一](../Page/村田陽一.md "wikilink")・[松本治](https://ja.wikipedia.org/wiki/松本治 "wikilink")・佐藤春樹
       - Bass Trombone：内田光昭
       - Alto Sax：吉田治・[津上研太](https://ja.wikipedia.org/wiki/津上研太 "wikilink")
       - Tenor Sax：[佐藤達哉](https://ja.wikipedia.org/wiki/佐藤達哉 "wikilink")・音川英二
@@ -120,9 +120,9 @@
 
   - Produced by [高見沢俊彦](../Page/高見沢俊彦.md "wikilink")
       - E.Guitar & E.Guitar Solo：高見沢俊彦
-      - Bass：[吉田建](https://ja.wikipedia.org/wiki/吉田建 "wikilink")
+      - Bass：[吉田建](../Page/吉田建.md "wikilink")
       - Keyboards：[山石敬之](https://ja.wikipedia.org/wiki/山石敬之 "wikilink")
-      - Drums：[長谷川浩二](https://ja.wikipedia.org/wiki/長谷川浩二 "wikilink")
+      - Drums：[長谷川浩二](../Page/長谷川浩二.md "wikilink")
 
 **100%…SOかもね\!**
 
@@ -137,7 +137,7 @@
 
 **君だけに**
 
-  - Produced by [TOTO](https://ja.wikipedia.org/wiki/TOTO_\(バンド\) "wikilink")
+  - Produced by [TOTO](../Page/TOTO_\(バンド\).md "wikilink")
   - Co-Produced by Cobra Endo (Mugen)
       - Guitars：[Steve Lukather](../Page/スティーヴ・ルカサー.md "wikilink")
       - Keyboards：[David Paich](https://ja.wikipedia.org/wiki/デヴィッド・ペイチ "wikilink")
@@ -153,7 +153,7 @@
       - Organ：[武部聡志](../Page/武部聡志.md "wikilink")
       - Keyboards：山石敬之
       - Drums：長谷川浩二
-      - E.Guitar Solo：[ANCHANG](https://ja.wikipedia.org/wiki/Anchang "wikilink") ([SEX MACHINEGUNS](../Page/SEX_MACHINEGUNS.md "wikilink"))
+      - E.Guitar Solo：[ANCHANG](../Page/Anchang.md "wikilink") ([SEX MACHINEGUNS](../Page/SEX_MACHINEGUNS.md "wikilink"))
 
 **パラダイス銀河**
 
@@ -168,7 +168,7 @@
   - Produced by 知野芳彦
   - Chorus Arrangement：[TAKE 6](../Page/テイク6.md "wikilink")
       - Background Vocal：TAKE 6
-      - Voice Percussion：Kazz ([Baby Boo](https://ja.wikipedia.org/wiki/Baby_Boo "wikilink"))
+      - Voice Percussion：Kazz ([Baby Boo](../Page/Baby_Boo.md "wikilink"))
 
 **フラワー**
 

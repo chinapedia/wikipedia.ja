@@ -1,9 +1,9 @@
 > この記事は[DREAMS ](https://ja.wikipedia.org/wiki/DREAMS_)から翻訳されています。
 
 
-『**クイズなないろDREAMS 虹色町の奇跡**』（クイズなないろドリームス にじいろちょうのきせき）は[カプコン](https://ja.wikipedia.org/wiki/カプコン "wikilink")より[1996年](../Page/1996年.md "wikilink")9月に発売された[アーケード用](../Page/アーケードゲーム.md "wikilink")[クイズゲーム](../Page/クイズゲーム.md "wikilink")。カプコンお得意のクイズゲームに当時ブームだった[恋愛ゲームの要素を盛り込んだ](../Page/恋愛ゲーム_\(ゲームジャンル\).md "wikilink")「恋愛クイズゲーム」という異色作となっている。
+『**クイズなないろDREAMS 虹色町の奇跡**』（クイズなないろドリームス にじいろちょうのきせき）は[カプコン](../Page/カプコン.md "wikilink")より[1996年](../Page/1996年.md "wikilink")9月に発売された[アーケード用](../Page/アーケードゲーム.md "wikilink")[クイズゲーム](../Page/クイズゲーム.md "wikilink")。カプコンお得意のクイズゲームに当時ブームだった[恋愛ゲームの要素を盛り込んだ](../Page/恋愛ゲーム_\(ゲームジャンル\).md "wikilink")「恋愛クイズゲーム」という異色作となっている。
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[6月27日](../Page/6月27日.md "wikilink")には[セガサターン](../Page/セガサターン.md "wikilink")と[PlayStationに移植された](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")。また、2006年 - 2007年にかけて携帯電話の各キャリア（[iアプリ](https://ja.wikipedia.org/wiki/iアプリ "wikilink")、[EZアプリ](https://ja.wikipedia.org/wiki/EZアプリ "wikilink")、[Yアプリ](https://ja.wikipedia.org/wiki/Yアプリ "wikilink")）移植版が配信開始された。PlayStation版は[2011年](../Page/2011年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink")から[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")で配信されている。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[6月27日](../Page/6月27日.md "wikilink")には[セガサターン](../Page/セガサターン.md "wikilink")と[PlayStationに移植された](../Page/PlayStation_\(ゲーム機\).md "wikilink")。また、2006年 - 2007年にかけて携帯電話の各キャリア（[iアプリ](https://ja.wikipedia.org/wiki/iアプリ "wikilink")、[EZアプリ](https://ja.wikipedia.org/wiki/EZアプリ "wikilink")、[Yアプリ](https://ja.wikipedia.org/wiki/Yアプリ "wikilink")）移植版が配信開始された。PlayStation版は[2011年](../Page/2011年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink")から[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")で配信されている。
 
 ## ストーリー
 
@@ -34,7 +34,7 @@
 
 ライフカードは絵柄によって正解が見える、スコアが2倍になるなどの特殊効果がある。発動時間が設定されており、クイズの制限時間とともに減少し、一定時間経過すると効果を失う。威力の高いカードほど発動時間は短い。
 
-ルーレットは[目押し](https://ja.wikipedia.org/wiki/目押し "wikilink")することである程度狙いのマスに止まることが可能。しかし、ルーレットはランダムで目押ししたマスからずれることがある上に（しかも3回目までに必ずずれる）外れの目が存在し、外れた場合は強制的に6マス進まされた上にオジャマキャラクターであるリンツとのクイズ対戦となりヒロインの好感度を稼ぐことはできない。ゲームは1か月ごとのステージに区切られており、それぞれの月末では強制的にリンツとのクイズ対戦に、最終月である9月末では魔王との最終決戦となる。
+ルーレットは[目押し](../Page/目押し.md "wikilink")することである程度狙いのマスに止まることが可能。しかし、ルーレットはランダムで目押ししたマスからずれることがある上に（しかも3回目までに必ずずれる）外れの目が存在し、外れた場合は強制的に6マス進まされた上にオジャマキャラクターであるリンツとのクイズ対戦となりヒロインの好感度を稼ぐことはできない。ゲームは1か月ごとのステージに区切られており、それぞれの月末では強制的にリンツとのクイズ対戦に、最終月である9月末では魔王との最終決戦となる。
 
 ストーリー上では「魔王の封印にはクリスタルの力が必要」とあるが、実際には魔王との最終決戦のときに最終イベントまでストーリーを進めたヒロイン1人につきライフが1増えるだけなのでクリスタルの力がなくとも魔王を倒すことは可能。しかし、最低でも1人のヒロインと仲良くなっていないと非常に寂しいエンディングになることは避けられない。また、分岐によって登場するヒロインのマスが限られる（原則的に桃子+その他のヒロイン2人の計3人。9月のみ全員登場する）ため、一度のプレイで全員からクリスタルを得ることはできない。
 
@@ -64,20 +64,20 @@
   - 主人公
     1P・2Pで2人同時プレイも可能。ディフォルト名は1Pが「まなぶ」、2Pが「まこと」。
   - 森永めぐみ（もりなが めぐみ） / 森次めぐみ（もりつぐ めぐみ）
-    [声](../Page/声優.md "wikilink") - [白鳥由里](../Page/白鳥由里.md "wikilink") / [川村万梨阿](https://ja.wikipedia.org/wiki/川村万梨阿 "wikilink")
+    [声](../Page/声優.md "wikilink") - [白鳥由里](../Page/白鳥由里.md "wikilink") / [川村万梨阿](../Page/川村万梨阿.md "wikilink")
     16歳。主人公が最初に出会う女の子。ペンダントを拾ったことをきっかけに仲良くなるが、彼女がモデルにスカウトされたことで徐々に2人の気持ちがすれ違うようになっていく。
     キャッチフレーズは「1億人の妹」。正統派ヒロインキャラクター。髪型はピンクのロングヘアにヘアピン。好物は[アイスクリーム](../Page/アイスクリーム.md "wikilink")。
     趣味は散歩と昼寝であり、なぜか日中でも町中をぶらついていることが多い。開発者の中だけの設定として「実は中卒」というものがある\[3\]。
     モデルは『[ドラえもん](https://ja.wikipedia.org/wiki/ドラえもん "wikilink")』の[源しずか](../Page/源静香.md "wikilink")、『[同級生2](../Page/同級生2.md "wikilink")』の鳴沢唯、『[ときめきメモリアル](../Page/ときめきメモリアル.md "wikilink")』の[藤崎詩織](https://ja.wikipedia.org/wiki/藤崎詩織 "wikilink")\[4\]。開発当初は久美子がメインヒロインだったが、暗い性格ではメインにはふさわしくないとして急遽追加されたキャラクター。「実は[アンドロイド](https://ja.wikipedia.org/wiki/アンドロイド "wikilink")」という没案もあった\[5\]。
   - 不二家桃子（ふじや ももこ） / 藤倉桃子（ふじくら ももこ）
     声 - [倉田雅世](../Page/倉田雅世.md "wikilink")
-    16歳。眼鏡と[セーラー服](https://ja.wikipedia.org/wiki/セーラー服 "wikilink")が似合う積極的な女の子。その行動力で主人公とも仲良くなる。正体は[幽霊](../Page/幽霊.md "wikilink")。
-    青色の髪で、独特の髪型は「[きしめん](../Page/きしめん.md "wikilink")」「[紙テープ](../Page/紙テープ.md "wikilink")」と称されることもある。ラジオドラマでは真由美から「クルクルした[綿菓子](https://ja.wikipedia.org/wiki/綿菓子 "wikilink")みたいな可愛い髪」と言われていた。
+    16歳。眼鏡と[セーラー服](../Page/セーラー服.md "wikilink")が似合う積極的な女の子。その行動力で主人公とも仲良くなる。正体は[幽霊](../Page/幽霊.md "wikilink")。
+    青色の髪で、独特の髪型は「[きしめん](../Page/きしめん.md "wikilink")」「[紙テープ](../Page/紙テープ.md "wikilink")」と称されることもある。ラジオドラマでは真由美から「クルクルした[綿菓子](../Page/綿菓子.md "wikilink")みたいな可愛い髪」と言われていた。
     バスト88cmのムッチリした体格。アーケード版では[パンチラ](../Page/パンチラ.md "wikilink")シーンがあったが、コンシューマ版ではカットされている。得意技はサマーソルトキック。好物は[おはぎ](https://ja.wikipedia.org/wiki/おはぎ "wikilink")（餡ころ餅）。
-    モデルは『同級生2』の都築こずえ、[味覚糖](https://ja.wikipedia.org/wiki/味覚糖 "wikilink")のビタミンキャンディー「ピピンC」のCMで[矢田亜希子](../Page/矢田亜希子.md "wikilink")の後ろで踊っている娘（[小畑由香里](https://ja.wikipedia.org/wiki/小畑由香里 "wikilink")）。眼鏡をかけているのは[藤島康介](../Page/藤島康介.md "wikilink")の漫画からの影響\[6\]。
+    モデルは『同級生2』の都築こずえ、[味覚糖](../Page/味覚糖.md "wikilink")のビタミンキャンディー「ピピンC」のCMで[矢田亜希子](../Page/矢田亜希子.md "wikilink")の後ろで踊っている娘（[小畑由香里](../Page/小畑由香里.md "wikilink")）。眼鏡をかけているのは[藤島康介](../Page/藤島康介.md "wikilink")の漫画からの影響\[6\]。
   - 江崎久美子（えざき くみこ） / 潮崎久美子（しおざき くみこ）
     声 - [根谷美智子](../Page/根谷美智子.md "wikilink") / [荒木香恵](../Page/荒木香衣.md "wikilink")
-    17歳。水泳一筋で[オリンピック強化選手のスポーツ少女](../Page/近代オリンピック.md "wikilink")。髪型は緑色のショートヘア。虹色町スイミングスクールに赤ん坊の頃から通っている。無口で感情を表現することが苦手だった彼女も、主人公と仲良くなるに連れ徐々に打ち解けてくる。好物は[杏仁豆腐](https://ja.wikipedia.org/wiki/杏仁豆腐 "wikilink")。
+    17歳。水泳一筋で[オリンピック強化選手のスポーツ少女](../Page/近代オリンピック.md "wikilink")。髪型は緑色のショートヘア。虹色町スイミングスクールに赤ん坊の頃から通っている。無口で感情を表現することが苦手だった彼女も、主人公と仲良くなるに連れ徐々に打ち解けてくる。好物は[杏仁豆腐](../Page/杏仁豆腐.md "wikilink")。
     人付き合いの悪さは『[新世紀エヴァンゲリオン](https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオン "wikilink")』の[綾波レイ](../Page/綾波レイ.md "wikilink")が基になっているが、一番のモデルは[早見優](../Page/早見優.md "wikilink")\[7\]。
   - 鐘紡サキ（かねぼう サキ） / 想鐘サキ（おもかね サキ）
     声 - 根谷美智子
@@ -87,21 +87,21 @@
     声 - 倉田雅世 / [山田美穂](../Page/山田みほ.md "wikilink")
     23歳。スクープを追うカメラマン。ひょんなことで彼女と知り合った主人公は、彼女の助手を勤める。
     報道写真やモデル撮影など何でもこなす。「しっかりしたお姉さん」という立場で主人公の相談に乗る。
-    いつも頭に大ぶりの[サングラス](https://ja.wikipedia.org/wiki/サングラス "wikilink")を乗せている。好物は[キムチ](../Page/キムチ.md "wikilink")[ラーメン](https://ja.wikipedia.org/wiki/ラーメン "wikilink")と[マンゴープリン](../Page/マンゴープリン.md "wikilink")。
+    いつも頭に大ぶりの[サングラス](../Page/サングラス.md "wikilink")を乗せている。好物は[キムチ](../Page/キムチ.md "wikilink")[ラーメン](https://ja.wikipedia.org/wiki/ラーメン "wikilink")と[マンゴープリン](../Page/マンゴープリン.md "wikilink")。
     髪の色はオレンジでショートヘア。ヘソ出しTシャツやホットパンツなど、露出の多い服装が多い。
-    モデルは『[シャカリキ\!](https://ja.wikipedia.org/wiki/シャカリキ! "wikilink")』の野々村さゆり、デザイン上のモデルは『[キューティーハニー](https://ja.wikipedia.org/wiki/キューティーハニー "wikilink")』のカメラマン状態\[9\]。当初は主人公級キャラクターの予定だったが、「主人公らしい主人公がいない」ということでめぐみが作られ、絵美はサブキャラクターという扱いとなった\[10\]。また、美少年でメカマニアの弟がいる設定で、没になったストーリーでは姉と主人公の3人で密輸事件のスクープに乗り出す展開があった\[11\]。
+    モデルは『[シャカリキ\!](../Page/シャカリキ!.md "wikilink")』の野々村さゆり、デザイン上のモデルは『[キューティーハニー](https://ja.wikipedia.org/wiki/キューティーハニー "wikilink")』のカメラマン状態\[9\]。当初は主人公級キャラクターの予定だったが、「主人公らしい主人公がいない」ということでめぐみが作られ、絵美はサブキャラクターという扱いとなった\[10\]。また、美少年でメカマニアの弟がいる設定で、没になったストーリーでは姉と主人公の3人で密輸事件のスクープに乗り出す展開があった\[11\]。
   - 東鳩真由美（とうはと まゆみ） / 小鳩真由美（こばと まゆみ）
     声 - [天野由梨](../Page/天野由梨.md "wikilink")
     25歳。虹色中央高校の教師で主人公の担任。教師と生徒の壁を越えて徐々に仲良くなる中で、彼女の周囲で不思議現象の数々が頻発する。正体は[魔法使い](../Page/魔法使い.md "wikilink")。
     担当科目は多分理科。ラジオドラマでは、学生寮の寮生の指導も担当している。バスト91cmとセクシーな外見で生徒に人気だが、性格は脳天気で非常に子供っぽい。髪型は普段はウェーブのかかったロングだが、夏になるとアップにまとめる。色はピンク。
-    [チャイナドレス](../Page/チャイナドレス.md "wikilink")に[女性警察官](https://ja.wikipedia.org/wiki/女性警察官 "wikilink")の制服など、[コスプレ](../Page/コスプレ.md "wikilink")シーンが多い。好物は[くるみ餅](https://ja.wikipedia.org/wiki/くるみ餅 "wikilink")。
+    [チャイナドレス](../Page/チャイナドレス.md "wikilink")に[女性警察官](../Page/女性警察官.md "wikilink")の制服など、[コスプレ](../Page/コスプレ.md "wikilink")シーンが多い。好物は[くるみ餅](https://ja.wikipedia.org/wiki/くるみ餅 "wikilink")。
     酒癖が非常に悪く、飲むと絡んできたり、ラジオドラマでは太腿の内側にあるほくろを見せつけようとするなどして、主人公を困惑させる。
     大人になりきれない「頼りない大人」がコンセプトで、モデルは『[ふしぎなメルモ](../Page/ふしぎなメルモ.md "wikilink")』のミニスカートの大人状態\[12\]。
   - シャルロッテ（Shalllotte） / シャーロット（Charlotte）
-    声 - 根谷美智子 / [菅原祥子](https://ja.wikipedia.org/wiki/菅原祥子 "wikilink")
+    声 - 根谷美智子 / [菅原祥子](../Page/菅原祥子.md "wikilink")
     12歳。虹色町の豪邸に養育ロボットに囲まれ一人で暮らしているこの少女に気に入られた主人公は家族の温かみを教えようとするが、彼女を守ろうとする養育ロボとの対決により町は大騒ぎになる。
-    愛称は「ロッテ」。主人公を「サル」と呼び、騒動に巻き込む。髪は黄色で、「[歯茎](https://ja.wikipedia.org/wiki/歯茎 "wikilink")&[コイル](https://ja.wikipedia.org/wiki/コイル "wikilink")」とも呼ばれる\[13\]個性的な髪型。好物は[チョコレート](https://ja.wikipedia.org/wiki/チョコレート "wikilink")。
-    アーケード版では[貧乳](https://ja.wikipedia.org/wiki/貧乳 "wikilink")を露出するイベントシーンがあったが、コンシューマ版では下着が着せられている。
+    愛称は「ロッテ」。主人公を「サル」と呼び、騒動に巻き込む。髪は黄色で、「[歯茎](https://ja.wikipedia.org/wiki/歯茎 "wikilink")&[コイル](../Page/コイル.md "wikilink")」とも呼ばれる\[13\]個性的な髪型。好物は[チョコレート](https://ja.wikipedia.org/wiki/チョコレート "wikilink")。
+    アーケード版では[貧乳](../Page/貧乳.md "wikilink")を露出するイベントシーンがあったが、コンシューマ版では下着が着せられている。
     モデルは『[サイバーボッツ](../Page/サイバーボッツ.md "wikilink")』のデビロット\[14\]で、一部のイベント背景画像では『[スーパーパズルファイターIIX](../Page/スーパーパズルファイターIIX.md "wikilink")』のデビロットステージを改変したものが流用されている。
   - 妖精
     声 - 白鳥由里
@@ -114,13 +114,13 @@
     アーケード版では名前の綴りが「」だったが、コンシューマ版では「Linz」に変更されている。
     コンシューマ版ではルーレットのリンツの目を出し続けることで彼女とのエンディングが追加。
     複数のキャラクターのシナリオの途中で登場する。めぐみシナリオではいかにもやり手そうなマネージャー・樺田に変身し、めぐみの貞操が狙われているのではないかと主人公を悩ませる。真由美シナリオでは対決するシーンがあり、リンツが女性であることが明かされるのはアーケード版ではこの絵のみである（アーケード版ではリンツは攻略できない）。
-    彼女いわく「[妖怪](../Page/妖怪.md "wikilink")・[天井下がりは遠い親戚](../Page/天井下り.md "wikilink")」とのこと。典型的[ツンデレ](https://ja.wikipedia.org/wiki/ツンデレ "wikilink")キャラクター。好物は[キャンディー](https://ja.wikipedia.org/wiki/キャンディー "wikilink")。
-    『[SNK VS. CAPCOM 激突カードファイターズ](https://ja.wikipedia.org/wiki/SNK_VS._CAPCOM_激突カードファイターズ "wikilink")』シリーズ（トレーディングカードゲーム版も含む）では、1作目と2作目のアクションカード「いやがらせ」で登場している。
+    彼女いわく「[妖怪](../Page/妖怪.md "wikilink")・[天井下がりは遠い親戚](../Page/天井下り.md "wikilink")」とのこと。典型的[ツンデレ](../Page/ツンデレ.md "wikilink")キャラクター。好物は[キャンディー](https://ja.wikipedia.org/wiki/キャンディー "wikilink")。
+    『[SNK VS. CAPCOM 激突カードファイターズ](../Page/SNK_VS._CAPCOM_激突カードファイターズ.md "wikilink")』シリーズ（トレーディングカードゲーム版も含む）では、1作目と2作目のアクションカード「いやがらせ」で登場している。
   - 魔王ゴディバ / 魔王
-    声 - [西村知道](https://ja.wikipedia.org/wiki/西村知道 "wikilink")
+    声 - [西村知道](../Page/西村知道.md "wikilink")
     アーケード版では「魔王ゴディバ」という名があったが、コンシューマ版では「魔王」としか呼ばれない。封印のときに垣間見える素顔は美形。実は女性である。
   - じいや
-    声 - [高木渉](https://ja.wikipedia.org/wiki/高木渉 "wikilink")
+    声 - [高木渉](../Page/高木渉.md "wikilink")
     シャルロッテ（シャーロット）の作った家族ロボット。ロッテの護衛役でもあり、何かと主人公に絡んでくる。
   - ホシノマナブ
     声 - 白鳥由里
@@ -138,11 +138,11 @@
 
   - 『[MARVEL VS. CAPCOM CLASH OF SUPER HEROES](../Page/MARVEL_VS._CAPCOM_CLASH_OF_SUPER_HEROES.md "wikilink")』
     想鐘サキがスペシャルパートナーとして登場。
-  - 『[SNK VS. CAPCOM 激突カードファイターズ](https://ja.wikipedia.org/wiki/SNK_VS._CAPCOM_激突カードファイターズ "wikilink")』シリーズ
+  - 『[SNK VS. CAPCOM 激突カードファイターズ](../Page/SNK_VS._CAPCOM_激突カードファイターズ.md "wikilink")』シリーズ
     全作品（[トレーディングカードゲーム](../Page/トレーディングカードゲーム.md "wikilink")版も含む）で想鐘サキがキャラクターカードとして登場。
-    [ネオジオポケット](https://ja.wikipedia.org/wiki/ネオジオポケット "wikilink")版2作品とトレーディングカードゲーム版で、森次めぐみ、リンツがアクションカードで登場。
+    [ネオジオポケット](../Page/ネオジオポケット.md "wikilink")版2作品とトレーディングカードゲーム版で、森次めぐみ、リンツがアクションカードで登場。
   - 『[タツノコ VS. CAPCOM CROSS GENERATION OF HEROES](https://ja.wikipedia.org/wiki/タツノコ_VS._CAPCOM_CROSS_GENERATION_OF_HEROES "wikilink")』
-    [Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")版のみ、想鐘サキがプレイヤーキャラクターとして登場。エンディングのアニメムービーでは本作の内容にも言及している。なお、声優が[本名陽子](https://ja.wikipedia.org/wiki/本名陽子 "wikilink")に変更されている。
+    [Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")版のみ、想鐘サキがプレイヤーキャラクターとして登場。エンディングのアニメムービーでは本作の内容にも言及している。なお、声優が[本名陽子](../Page/本名陽子.md "wikilink")に変更されている。
     [モリガン・アーンスランド](../Page/モリガン・アーンスランド.md "wikilink")のエンディングにホシノマナブが登場。
   - 『[鬼武者Soul](https://ja.wikipedia.org/wiki/鬼武者Soul "wikilink")』
     カプコンヒロインズとして想鐘サキが武将となって登場。声優は本名陽子。
@@ -154,7 +154,7 @@
   - なないろDREAMS虹色町の奇跡 ドラマアルバム
     ラジオ番組「[飯塚雅弓](../Page/飯塚雅弓.md "wikilink")のMEGA-TONスマイル」で1999年1月2日から5週間放送されたドラマをCD化したもの。1999年2月20日に発売。主人公の「仲村誠」役は[石田彰](../Page/石田彰.md "wikilink")。
   - ピンズシリーズ QUIZなないろDREAMS 虹色町の奇跡
-    カプコンのネット通販サイトe-capcomにて販売されているキャラクター[ピンズ](https://ja.wikipedia.org/wiki/ピンズ "wikilink")。
+    カプコンのネット通販サイトe-capcomにて販売されているキャラクター[ピンズ](../Page/ピンズ.md "wikilink")。
   - カプコン☆着音画報
     カプコンの携帯電話向け着メロ、壁紙配信サイト。スタッフによるめぐみとサキの書き下ろしイラストがある。
 
@@ -172,7 +172,7 @@
 
 [Category:カプコンのゲームソフト](https://ja.wikipedia.org/wiki/Category:カプコンのゲームソフト "wikilink") [Category:クイズゲーム](https://ja.wikipedia.org/wiki/Category:クイズゲーム "wikilink") [Category:1996年のアーケードゲーム](https://ja.wikipedia.org/wiki/Category:1996年のアーケードゲーム "wikilink") [Category:セガサターン用ソフト](https://ja.wikipedia.org/wiki/Category:セガサターン用ソフト "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:携帯電話アプリゲーム](https://ja.wikipedia.org/wiki/Category:携帯電話アプリゲーム "wikilink") [Category:ゲームアーカイブス対応ソフト](https://ja.wikipedia.org/wiki/Category:ゲームアーカイブス対応ソフト "wikilink")
 
-1.  [エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")『[月刊アルカディア](https://ja.wikipedia.org/wiki/月刊アルカディア "wikilink")』2011年7月号91ページ
+1.  [エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")『[月刊アルカディア](../Page/月刊アルカディア.md "wikilink")』2011年7月号91ページ
 2.  [QUIZなないろDREAMS開発者インタビューその6](http://www.youtube.com/watch?v=lk17w73BU-g)（カプコンオンラインゲームズYouTube公式チャンネル）
 3.
 4.  カプコンの小冊子シークレットファイル『クイズなないろDREAMS 虹色町の奇跡』より。

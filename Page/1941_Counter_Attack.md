@@ -1,7 +1,7 @@
 > この記事は[1941 Counter Attack](https://ja.wikipedia.org/wiki/1941_Counter_Attack)から翻訳されています。
 
 
-『**1941 Counter Attack**』（いちきゅうよんいち - カウンターアタック）は、[カプコン](https://ja.wikipedia.org/wiki/カプコン "wikilink")が1990年2月に発売した[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")。[CPシステムを使用した全](https://ja.wikipedia.org/wiki/CPS-1 "wikilink")6面の縦スクロール[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")。
+『**1941 Counter Attack**』（いちきゅうよんいち - カウンターアタック）は、[カプコン](../Page/カプコン.md "wikilink")が1990年2月に発売した[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")。[CPシステムを使用した全](https://ja.wikipedia.org/wiki/CPS-1 "wikilink")6面の縦スクロール[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")。
 
 ## 概要
 
@@ -113,19 +113,19 @@
 <td><p><a href="../Page/PCエンジンスーパーグラフィックス.md" title="wikilink">PCエンジンスーパーグラフィックス</a></p></td>
 <td><p><a href="../Page/ハドソン.md" title="wikilink">ハドソン</a></p></td>
 <td><p>ハドソン</p></td>
-<td><p>8<a href="../Page/メガビット.md" title="wikilink">メガビット</a><a href="https://ja.wikipedia.org/wiki/HuCARD" title="wikilink">HuCARD</a><ref name="pcfan70">{{Cite journal |和書</p></td>
+<td><p>8<a href="../Page/メガビット.md" title="wikilink">メガビット</a><a href="../Page/HuCARD.md" title="wikilink">HuCARD</a><ref name="pcfan70">{{Cite journal |和書</p></td>
 <td><p>author =</p></td>
 <td><p>authorlink =</p></td>
 <td><p>title = 10月号特別付録 PCエンジンオールカタログ'93</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カプコン_クラシックス_コレクション" title="wikilink">Capcom Classics Collection Remixed</a></p></td>
+<td><p><a href="../Page/カプコン_クラシックス_コレクション.md" title="wikilink">Capcom Classics Collection Remixed</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_Portable" title="wikilink">PlayStation Portable</a></p></td>
+<td><p><a href="../Page/PlayStation_Portable.md" title="wikilink">PlayStation Portable</a></p></td>
 <td><p>カプコン</p></td>
 <td><p>カプコン</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ユニバーサル・メディア・ディスク" title="wikilink">UMD</a></p></td>
+<td><p><a href="../Page/ユニバーサル・メディア・ディスク.md" title="wikilink">UMD</a></p></td>
 <td></td>
 <td><p>-</p></td>
 <td><p>日本未発売。</p></td>
@@ -152,7 +152,7 @@
 
 <!-- end list -->
 
-  - プランナー：POO（[船水紀孝](https://ja.wikipedia.org/wiki/船水紀孝 "wikilink")）、REKITE
+  - プランナー：POO（[船水紀孝](../Page/船水紀孝.md "wikilink")）、REKITE
   - キャラクター・デザイナー（オブジェクト）：S・THING（坂下眞司）、YOKOTA YOKOZO、TERUKUN、KURIBOW（栗原明美）
   - キャラクター・デザイナー（スクロール）：SADAKICHI（松本貞姫）、MARILYN HIGUCHI、YUKI（京谷有紀）、KINTAROU、HARUSAN
   - キャラクター・サポート：AKIMAN（[安田朗](../Page/安田朗.md "wikilink")）
@@ -161,7 +161,7 @@
   - サウンド・コンポーザー：HIFUMI（高岡宏光）
   - プログラマー：MAKKOW、BABEL-2、DOME（新留義博）
   - ゲーム・アナライザー：NIN（西谷亮）、DODA NDA UDA（宇田敏彦）
-  - ディレクター：KIHAJI OKAMOTO（[岡本吉起](https://ja.wikipedia.org/wiki/岡本吉起 "wikilink")）
+  - ディレクター：KIHAJI OKAMOTO（[岡本吉起](../Page/岡本吉起.md "wikilink")）
 
 ## 評価
 
@@ -169,7 +169,7 @@
 
 <!-- end list -->
 
-  - ゲーム誌『[ゲーメスト](../Page/ゲーメスト.md "wikilink")』（[新声社](https://ja.wikipedia.org/wiki/新声社 "wikilink")）誌上で行われていた「第4回[ゲーメスト大賞](https://ja.wikipedia.org/wiki/ゲーメスト大賞 "wikilink")」（1990年度）において、ベストシューティング賞5位、年間ヒットゲーム20位を獲得した\[1\]。
+  - ゲーム誌『[ゲーメスト](../Page/ゲーメスト.md "wikilink")』（[新声社](../Page/新声社.md "wikilink")）誌上で行われていた「第4回[ゲーメスト大賞](https://ja.wikipedia.org/wiki/ゲーメスト大賞 "wikilink")」（1990年度）において、ベストシューティング賞5位、年間ヒットゲーム20位を獲得した\[1\]。
 
 <!-- end list -->
 

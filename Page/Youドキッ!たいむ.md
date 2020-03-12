@@ -1,15 +1,15 @@
 > この記事は[You!](https://ja.wikipedia.org/wiki/You!)から翻訳されています。
 
 
-『**Youドキッ\!たいむ**』（ユードキッ\!たいむ） は、[富山テレビで](../Page/富山テレビ放送.md "wikilink")[2001年](../Page/2001年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2014年](../Page/2014年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで放送されていた[夕方ワイドである](https://ja.wikipedia.org/wiki/夕方ワイド番組 "wikilink")。最終金曜日は16時からの拡大放送となっていた。
+『**Youドキッ\!たいむ**』（ユードキッ\!たいむ） は、[富山テレビで](../Page/富山テレビ放送.md "wikilink")[2001年](../Page/2001年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2014年](../Page/2014年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで放送されていた[夕方ワイドである](../Page/夕方ワイド番組.md "wikilink")。最終金曜日は16時からの拡大放送となっていた。
 
 ## 概要
 
 夕方に富山県のレストランやスポットなどの情報を送る番組である。名前の由来は、『夕方の時間』を意味する『夕どき』と『ドキドキ』から。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")までは16:55 - [文化芸能部直前](https://ja.wikipedia.org/wiki/FNNスーパーニュース#主なコーナー "wikilink")（概ね17:35くらいまで）の放送であった。
+[2006年](../Page/2006年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")までは16:55 - [文化芸能部直前](https://ja.wikipedia.org/wiki/FNNスーパーニュース#主なコーナー "wikilink")（概ね17:35くらいまで）の放送であった。
 
-毎日プレゼントの募集をする。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")までは冒頭で今日のニュース・[BBTスーパーニュース](../Page/BBTスーパーニュース.md "wikilink")の予告をしていた。2011年春からは再びニュースを伝えるようになった。この番組ではテーマを決めて[FAX](https://ja.wikipedia.org/wiki/ファクシミリ "wikilink")・[メールを募集していたが](../Page/電子メール.md "wikilink")、2011年春のリニューアルを機に終了した。
+毎日プレゼントの募集をする。[2006年](../Page/2006年.md "wikilink")までは冒頭で今日のニュース・[BBTスーパーニュース](../Page/BBTスーパーニュース.md "wikilink")の予告をしていた。2011年春からは再びニュースを伝えるようになった。この番組ではテーマを決めて[FAX](https://ja.wikipedia.org/wiki/ファクシミリ "wikilink")・[メールを募集していたが](../Page/電子メール.md "wikilink")、2011年春のリニューアルを機に終了した。
 
 地上アナログ放送では長らく4:3サイドカットだったが、2010年7月5日放送分より16：9レターボックス映像に移行した。
 
@@ -23,7 +23,7 @@
 
 ## タイムテーブル
 
-[平日](https://ja.wikipedia.org/wiki/平日 "wikilink")16:25 - 19:00（[JST](../Page/日本標準時.md "wikilink")）最終金曜日は、16:00 - 19:00の3時間拡大版として放送。富山県内ローカルニュースは18:15 -
+[平日](../Page/平日.md "wikilink")16:25 - 19:00（[JST](../Page/日本標準時.md "wikilink")）最終金曜日は、16:00 - 19:00の3時間拡大版として放送。富山県内ローカルニュースは18:15 -
 
   - Youドキッ\!たいむ（第1部）
       - 16:25 - オープニング 最終金曜日は16:00
@@ -43,7 +43,7 @@
 
 <!-- end list -->
 
-  - [三都井美衣](https://ja.wikipedia.org/wiki/三都井美衣 "wikilink")
+  - [三都井美衣](../Page/三都井美衣.md "wikilink")
   - [伊藤恵祐](https://ja.wikipedia.org/wiki/伊藤恵祐 "wikilink")
 
 <!-- end list -->
@@ -70,10 +70,10 @@
 ### 司会者
 
   - [森幸恵](https://ja.wikipedia.org/wiki/森幸恵 "wikilink")（2003年）
-  - [波多江良一](https://ja.wikipedia.org/wiki/波多江良一 "wikilink")（2003年）
+  - [波多江良一](../Page/波多江良一.md "wikilink")（2003年）
   - [森和彦](https://ja.wikipedia.org/wiki/森和彦 "wikilink")（2005年）
-  - [中村理恵](https://ja.wikipedia.org/wiki/中村理恵 "wikilink")（2005年）
-  - [加藤美由紀](https://ja.wikipedia.org/wiki/加藤美由紀 "wikilink")（かとちゃん）
+  - [中村理恵](../Page/中村理恵.md "wikilink")（2005年）
+  - [加藤美由紀](../Page/加藤美由紀.md "wikilink")（かとちゃん）
 
 <!-- end list -->
 
@@ -82,7 +82,7 @@
 <!-- end list -->
 
   - [手塚多美](https://ja.wikipedia.org/wiki/手塚多美 "wikilink")（2004年）
-  - [波多江良一](https://ja.wikipedia.org/wiki/波多江良一 "wikilink")（2004年）
+  - [波多江良一](../Page/波多江良一.md "wikilink")（2004年）
   - [秋保由実](https://ja.wikipedia.org/wiki/秋保由実 "wikilink")（2008年1月）
   - [後藤真弥](https://ja.wikipedia.org/wiki/後藤真弥 "wikilink")
   - [後藤崇太](https://ja.wikipedia.org/wiki/後藤崇太 "wikilink")
@@ -128,7 +128,7 @@
 
 ## 主題歌・挿入歌
 
-  - プレゼント / [JITTERIN’JINN（ジッタリン・ジン）](https://ja.wikipedia.org/wiki/JITTERIN'JINN "wikilink")
+  - プレゼント / [JITTERIN’JINN（ジッタリン・ジン）](../Page/JITTERIN'JINN.md "wikilink")
 
 ## 番組のコラボレーション
 

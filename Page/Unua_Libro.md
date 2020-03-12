@@ -9,10 +9,10 @@
 
   - 前文は最初のエスペラントの文章を含んでいた。(28ページ)
       - [主の祈り](../Page/主の祈り.md "wikilink")
-      - [聖書](https://ja.wikipedia.org/wiki/聖書 "wikilink")
+      - [聖書](../Page/聖書.md "wikilink")
       - 手紙の例文
       - Mia penso (我が思い)　オリジナルの[詩](https://ja.wikipedia.org/wiki/詩 "wikilink")
-      - [ハインリヒ・ハイネ](https://ja.wikipedia.org/wiki/ハインリヒ・ハイネ "wikilink")の詩の翻訳
+      - [ハインリヒ・ハイネ](../Page/ハインリヒ・ハイネ.md "wikilink")の詩の翻訳
       - Ho, mia kor' (おお、我が心よ)　オリジナルの詩
   - 「もし1000万人がエスペラントを学ぶ約束をしたら、私も学びます」というカード8枚
   - 16条の文法などが書かれた、国際語の完全な学習書　(6ページ)

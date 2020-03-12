@@ -3,15 +3,15 @@
 
 『**DELICIOUS**』（デリシャス）は、[DREAMS COME TRUEの](../Page/DREAMS_COME_TRUE.md "wikilink")7枚目の[アルバム](../Page/アルバム.md "wikilink")である。
 
-[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")にEpic/Sony Records（現・[エピックレコードジャパン](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")）よりリリースされた。
+[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")にEpic/Sony Records（現・[エピックレコードジャパン](../Page/エピックレコードジャパン.md "wikilink")）よりリリースされた。
 
 ## 概要
 
   - 前作から約1年3ヵ月ぶりのオリジナルアルバム。これまで1年に1枚のペースでアルバムを出していたDREAMS COME TRUEがアルバム発売に約1年以上の間隔を空けるのは初めて。
   - CD発売の1週間前にMD盤が先行発売された。
-  - 3曲目の「[きづいてよ](https://ja.wikipedia.org/wiki/すき/きづいてよ "wikilink")」、12曲目の「[サンキュ.](https://ja.wikipedia.org/wiki/サンキュ. "wikilink")」は表記はないものの、シングルとは別バージョンになっている。
+  - 3曲目の「[きづいてよ](https://ja.wikipedia.org/wiki/すき/きづいてよ "wikilink")」、12曲目の「[サンキュ.](../Page/サンキュ..md "wikilink")」は表記はないものの、シングルとは別バージョンになっている。
   - DREAMS COME TRUE初の13曲入りのオリジナルアルバム。
-  - 『[MILLION KISSES](../Page/MILLION_KISSES.md "wikilink")』から4作連続でダブルミリオン達成。[オリコン調べでデビューからのアルバム平均売上が](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")200万枚を突破したのは当時歴代1位の記録であった。
+  - 『[MILLION KISSES](../Page/MILLION_KISSES.md "wikilink")』から4作連続でダブルミリオン達成。[オリコン調べでデビューからのアルバム平均売上が](../Page/オリコンチャート.md "wikilink")200万枚を突破したのは当時歴代1位の記録であった。
   - この年は4年に1度のグレイテストヒッツライブ「史上最強の移動遊園地ドリカムワンダーランド1995」が行われたため、「1アルバム、1ツアー」を公言し実行していたが、このアルバムを携えてのツアーは行われていない。ただ、折に触れ収録曲を以後のライブで披露している。
 
 ## 収録曲
@@ -19,9 +19,9 @@
 1.  **WEATHER FORECAST**
       - 作曲・編曲：中村正人
       - 前作『[MAGIC](../Page/MAGIC_\(DREAMS_COME_TRUEのアルバム\).md "wikilink")』収録の「a little waltz」および、ブックレットのクレジット下部のspecial thanksにあるコメントがモチーフになっている\[1\]。
-2.  **いつもいつでも 〜[WHEREVER YOU ARE](https://ja.wikipedia.org/wiki/WHEREVER_YOU_ARE "wikilink") "DELICIOUS" VERSION〜**
+2.  **いつもいつでも 〜[WHEREVER YOU ARE](../Page/WHEREVER_YOU_ARE.md "wikilink") "DELICIOUS" VERSION〜**
       - 作詞：吉田美和、作曲・編曲：中村正人
-      - 15thシングル「[WHEREVER YOU ARE](https://ja.wikipedia.org/wiki/WHEREVER_YOU_ARE "wikilink")」の日本語バージョン。
+      - 15thシングル「[WHEREVER YOU ARE](../Page/WHEREVER_YOU_ARE.md "wikilink")」の日本語バージョン。
 3.  **[きづいてよ](https://ja.wikipedia.org/wiki/すき/きづいてよ "wikilink")**
       - 作詞：吉田美和、作曲・編曲：中村正人
       - 16thシングル。
@@ -36,7 +36,7 @@
       - 新たにストリングスの音が収録されている。
 7.  **The signs of LOVE 〜ETERNITY "DELICIOUS" VERSION+〜**
       - 作詞：吉田美和、作曲・編曲：中村正人
-      - 17thシングル「[サンキュ.](https://ja.wikipedia.org/wiki/サンキュ. "wikilink")」のカップリング。
+      - 17thシングル「[サンキュ.](../Page/サンキュ..md "wikilink")」のカップリング。
       - シングルバージョンよりもアウトロが長い。
       - 人気曲であるが、ライブではあまり披露されていない。
 8.  **沈没船のモンキーガール**
@@ -50,7 +50,7 @@
       - [オカリナ](../Page/オカリナ.md "wikilink")は吉田美和による演奏。
 11. **IT'S SO DELICIOUS**
       - 作詞：吉田美和、作曲：吉田美和・中村正人、編曲：中村正人
-12. **[サンキュ.](https://ja.wikipedia.org/wiki/サンキュ. "wikilink")**
+12. **[サンキュ.](../Page/サンキュ..md "wikilink")**
       - 作詞：吉田美和、作曲：吉田美和・中村正人、編曲：中村正人
       - 17thシングル。
       - シングルバージョンよりもイントロが長い。

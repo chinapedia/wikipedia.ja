@@ -21,7 +21,7 @@
       - 前アルバム収録曲「[LOVE LOVE LOVE](https://ja.wikipedia.org/wiki/LOVE_LOVE_LOVE "wikilink")」のフレーズの一部が使われている。
 2.  **愛するこころ**
       - 作詞：吉田美和、作曲・編曲：中村正人
-3.  **[あはは](https://ja.wikipedia.org/wiki/あはは "wikilink")**
+3.  **[あはは](../Page/あはは.md "wikilink")**
       - 作詞・作曲：吉田美和、編曲：中村正人
       - 後に22ndシングルとしてシングルカット。
 4.  **[PEACE\!](https://ja.wikipedia.org/wiki/PEACE!/MARRY_ME? "wikilink")**
@@ -100,7 +100,7 @@
 
 1.  **SING OR DIE〜opening theme〜**
 2.  **愛するこころ**
-3.  **[あはは](https://ja.wikipedia.org/wiki/あはは "wikilink")**
+3.  **[あはは](../Page/あはは.md "wikilink")**
 4.  **[PEACE\!](https://ja.wikipedia.org/wiki/PEACE!/MARRY_ME? "wikilink")**
 5.  **ケロケロ**
 6.  **たんぽぽの堤防**

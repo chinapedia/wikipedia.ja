@@ -48,7 +48,7 @@
 
   - 全力愛 （2000年8月3日）（[Rojam Entertainment Limited](../Page/Rojam_Entertainment.md "wikilink")） 香港のみ発売。
       - Produced by 楊振龍、[MARC](../Page/マーク・パンサー.md "wikilink")
-  - [ガラパゴスのJULIET](https://ja.wikipedia.org/wiki/ガラパゴスのJULIET_\(Zoieの曲\) "wikilink") （2000年10月18日） （[FACTORY ORUMOK](https://ja.wikipedia.org/wiki/ORUMOK_RECORDS "wikilink")）
+  - [ガラパゴスのJULIET](https://ja.wikipedia.org/wiki/ガラパゴスのJULIET_\(Zoieの曲\) "wikilink") （2000年10月18日） （[FACTORY ORUMOK](../Page/ORUMOK_RECORDS.md "wikilink")）
       - executive produced：[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")、produced：[木根尚登](https://ja.wikipedia.org/wiki/木根尚登 "wikilink")、作詞：[前田たかひろ](https://ja.wikipedia.org/wiki/前田たかひろ "wikilink")、作曲：Alex Baboo & Groovy Cat、編曲：中堅工房
 
 ## 関連項目

@@ -1,24 +1,24 @@
 > この記事は[MARVEL VS. CAPCOM CLASH OF SUPER HEROES](https://ja.wikipedia.org/wiki/MARVEL_VS._CAPCOM_CLASH_OF_SUPER_HEROES)から翻訳されています。
 
 
-『**マーヴル VS. カプコン クラッシュ オブ スーパーヒーローズ**』（マーヴル バーサス カプコン クラッシュ オブ スーパーヒーローズ、*MARVEL VS. CAPCOM CLASH OF SUPER HEROES*）は[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")に[カプコン](https://ja.wikipedia.org/wiki/カプコン "wikilink")が発売した2D[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")。本項においてはゲームタイトル、および発売当時の記述に従って"MARVEL"のカナ表記を“マーヴル”に統一するものとする。
+『**マーヴル VS. カプコン クラッシュ オブ スーパーヒーローズ**』（マーヴル バーサス カプコン クラッシュ オブ スーパーヒーローズ、*MARVEL VS. CAPCOM CLASH OF SUPER HEROES*）は[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")に[カプコン](../Page/カプコン.md "wikilink")が発売した2D[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")。本項においてはゲームタイトル、および発売当時の記述に従って"MARVEL"のカナ表記を“マーヴル”に統一するものとする。
 
-[1999年](../Page/1999年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")に[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")版が、同年[11月11日](../Page/11月11日.md "wikilink")には[プレイステーション版](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")『**マーヴル VS. カプコン クラッシュ オブ スーパーヒーローズ EX EDITION**』（マーヴル バーサス カプコン クラッシュ オブ スーパーヒーローズ エキストラ エディション、*MARVEL VS. CAPCOM CLASH OF SUPER HEROES EX EDITION*）が発売されている（それまでの作品同様、試合中に交代できないなどのアレンジがなされている）。
+[1999年](../Page/1999年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")に[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")版が、同年[11月11日](../Page/11月11日.md "wikilink")には[プレイステーション版](../Page/PlayStation_\(ゲーム機\).md "wikilink")『**マーヴル VS. カプコン クラッシュ オブ スーパーヒーローズ EX EDITION**』（マーヴル バーサス カプコン クラッシュ オブ スーパーヒーローズ エキストラ エディション、*MARVEL VS. CAPCOM CLASH OF SUPER HEROES EX EDITION*）が発売されている（それまでの作品同様、試合中に交代できないなどのアレンジがなされている）。
 
-[マーヴル・コミック社のキャラクターとカプコンのキャラクターによるクロスオーバー作品の第](https://ja.wikipedia.org/wiki/マーベル・コミック "wikilink")3作である。略称は『マブカプ』、あるいは続編である『[MARVEL VS. CAPCOM 2 NEW AGE OF HEROES](https://ja.wikipedia.org/wiki/MARVEL_VS._CAPCOM_2_NEW_AGE_OF_HEROES "wikilink")』、『[MARVEL VS. CAPCOM 3 Fate of Two Worlds](https://ja.wikipedia.org/wiki/MARVEL_VS._CAPCOM_3_Fate_of_Two_Worlds "wikilink")』との区別のため『マブカプ1』とすることもある。
+[マーヴル・コミック社のキャラクターとカプコンのキャラクターによるクロスオーバー作品の第](../Page/マーベル・コミック.md "wikilink")3作である。略称は『マブカプ』、あるいは続編である『[MARVEL VS. CAPCOM 2 NEW AGE OF HEROES](../Page/MARVEL_VS._CAPCOM_2_NEW_AGE_OF_HEROES.md "wikilink")』、『[MARVEL VS. CAPCOM 3 Fate of Two Worlds](https://ja.wikipedia.org/wiki/MARVEL_VS._CAPCOM_3_Fate_of_Two_Worlds "wikilink")』との区別のため『マブカプ1』とすることもある。
 
 なお『MARVEL VS. CAPCOM』という呼称には
 
 1.  本作のみを指す場合
 2.  続編である『MARVEL VS. CAPCOM 2』と『同3』を含める場合
-3.  2.に加えて『[X-MEN VS. STREET FIGHTER](https://ja.wikipedia.org/wiki/X-MEN_VS._STREET_FIGHTER "wikilink")』と『[マーヴル・スーパーヒーローズ VS. ストリートファイター](https://ja.wikipedia.org/wiki/マーヴル・スーパーヒーローズ_VS._ストリートファイター "wikilink")』のマーヴルとカプコンのクロスオーバー作品を含める場合
+3.  2.に加えて『[X-MEN VS. STREET FIGHTER](../Page/X-MEN_VS._STREET_FIGHTER.md "wikilink")』と『[マーヴル・スーパーヒーローズ VS. ストリートファイター](../Page/マーヴル・スーパーヒーローズ_VS._ストリートファイター.md "wikilink")』のマーヴルとカプコンのクロスオーバー作品を含める場合
 4.  2.および3.に加えてその前身といえる『[X-MEN CHILDREN OF THE ATOM](../Page/エックス・メン_チルドレン_オブ_ジ_アトム.md "wikilink")』と『[マーヴル・スーパーヒーローズ](../Page/マーヴル・スーパーヒーローズ.md "wikilink")』を含めたX-MEN関係の一連のカプコン作品のシリーズとする場合
 
 という多様な捉え方が存在する。以下の本項目において単に『MARVEL VS. CAPCOM』と表記した場合には2.の用法『MARVEL VS. CAPCOM 2』『同3』とあわせたシリーズを意味し、3.の表現については『MARVEL VS.シリーズ』と表すものとする。
 
 ## 概要
 
-本作はそれまでのMARVEL VS.シリーズ作品同様1チームは2人だが、前作『[MARVEL SUPER HEROES VS. STREET FIGHTER](https://ja.wikipedia.org/wiki/マーヴル・スーパーヒーローズ_VS._ストリートファイター "wikilink")』では戦闘中にチームのパートナーを呼び出せたのに対し、本作では**スペシャルパートナー**と呼ばれる専用のキャラクターを呼び出すようになっている。ゲーム開始時にメンバーを2人選んだ後スペシャルパートナー選択用のルーレットが出現し、これでスペシャルパートナーを選ぶことになる。なお通常のルーレット選択のほかにも特定のコマンドによりパートナーを選択することや、相手が使用していたパートナーを奪う形で変更することが可能。
+本作はそれまでのMARVEL VS.シリーズ作品同様1チームは2人だが、前作『[MARVEL SUPER HEROES VS. STREET FIGHTER](../Page/マーヴル・スーパーヒーローズ_VS._ストリートファイター.md "wikilink")』では戦闘中にチームのパートナーを呼び出せたのに対し、本作では**スペシャルパートナー**と呼ばれる専用のキャラクターを呼び出すようになっている。ゲーム開始時にメンバーを2人選んだ後スペシャルパートナー選択用のルーレットが出現し、これでスペシャルパートナーを選ぶことになる。なお通常のルーレット選択のほかにも特定のコマンドによりパートナーを選択することや、相手が使用していたパートナーを奪う形で変更することが可能。
 
 他に本作で登場したシステムとしては、一定時間パートナーと同時に攻撃を行う**ヴァリアブルクロス**がある。効果時間中はほとんどのハイパーコンボ（超必殺技）が無制限に使用できるが「Lv3専用ハイパーコンボ」（本作で該当するものはリュウの「[瞬獄殺](https://ja.wikipedia.org/wiki/瞬獄殺 "wikilink")」とモリガンの「エターナルスランバー」の2つ）、スペシャルパートナー、一般の協力攻撃は一切使用不可。
 
@@ -26,7 +26,7 @@
 
 本作より、試合開始時にはあらかじめゲージが1本ストックされている状態でスタートする。このため開幕同時にゲージ技を使用することも可能となっている。
 
-キャラクターに関しては、マーヴル側の使用キャラクターはガンビットが復帰し、新たにベノムとウォーマシンが参戦した。カプコン側は今作からタイトルが社名になったことにより、キャプテンコマンドーやストライダー飛竜、ジン・サオトメなど元々格闘ゲームではないゲームのキャラクターが参戦。これまで連続出演していた[ケン](https://ja.wikipedia.org/wiki/ケン・マスターズ "wikilink")、[ダルシム](../Page/ダルシム.md "wikilink")、[ベガ](https://ja.wikipedia.org/wiki/ベガ_\(ストリートファイター\) "wikilink")、[豪鬼](https://ja.wikipedia.org/wiki/豪鬼 "wikilink")がプレイヤーキャラクターから外されるなど大幅な入れ替えが行われた\[1\]。
+キャラクターに関しては、マーヴル側の使用キャラクターはガンビットが復帰し、新たにベノムとウォーマシンが参戦した。カプコン側は今作からタイトルが社名になったことにより、キャプテンコマンドーやストライダー飛竜、ジン・サオトメなど元々格闘ゲームではないゲームのキャラクターが参戦。これまで連続出演していた[ケン](../Page/ケン・マスターズ.md "wikilink")、[ダルシム](../Page/ダルシム.md "wikilink")、[ベガ](../Page/ベガ_\(ストリートファイター\).md "wikilink")、[豪鬼](../Page/豪鬼.md "wikilink")がプレイヤーキャラクターから外されるなど大幅な入れ替えが行われた\[1\]。
 
 最終ボスに複数の形態が存在するようになったという特徴もある。本作では最終ボス「オンスロート」を一度倒した後にデモが挿入され、その後第1形態を倒したときの状態を引き継いで第2形態と戦うことになる。このシステムは『MARVEL VS. CAPCOM 2 NEW AGE OF HEROES』の最終ボス「アビス」にも引き継がれた（こちらは3つの形態がある）。
 
@@ -122,29 +122,29 @@
 
   - メインキャラクター
 
-:; [リュウ](https://ja.wikipedia.org/wiki/リュウ_\(ストリートファイター\) "wikilink")（Ryu）（[ストリートファイター](https://ja.wikipedia.org/wiki/ストリートファイター_\(ゲーム\) "wikilink")）
+:; [リュウ](../Page/リュウ_\(ストリートファイター\).md "wikilink")（Ryu）（[ストリートファイター](../Page/ストリートファイター_\(ゲーム\).md "wikilink")）
 
-:: 声：[森川智之](https://ja.wikipedia.org/wiki/森川智之 "wikilink")
+:: 声：[森川智之](../Page/森川智之.md "wikilink")
 
 :: 本作のリュウはハイパーコンボにより性能をケンや豪鬼に切り替えることが可能で、この時は必殺技も変わる。プレイステーション版では最初からケンモードや豪鬼モードで開始する隠しバージョンも追加されている。なお前作同様「真・昇龍拳」は本作でも隠し技扱いとなっておりインストカードには記載されていないが、Lv.1（1ゲージ消費）技となっている。また本作では『[ストリートファイターII](../Page/ストリートファイターII.md "wikilink")』に準じハチマキや道着の色が『ストII』時代のものになった。「波動拳」の構えや「真・昇龍拳」の一部のグラフィックは新たに描き直されている。
 
-:: 対戦開始前のデモの一部ではケン（『[ストリートファイターIII](https://ja.wikipedia.org/wiki/ストリートファイターIII "wikilink")』バージョン）と[ショーンが登場するパターンがあり](../Page/ショーン_\(ストリートファイター\).md "wikilink")、エンディングにも登場する。今作のリュウのテーマソングは以前までの『ストリートファイターII』のリュウステージのものではなく、同作のオープニングのBGMのアレンジ版である。
+:: 対戦開始前のデモの一部ではケン（『[ストリートファイターIII](../Page/ストリートファイターIII.md "wikilink")』バージョン）と[ショーンが登場するパターンがあり](../Page/ショーン_\(ストリートファイター\).md "wikilink")、エンディングにも登場する。今作のリュウのテーマソングは以前までの『ストリートファイターII』のリュウステージのものではなく、同作のオープニングのBGMのアレンジ版である。
 
-:; キャプテンコマンドー（Captain Commando）（[キャプテンコマンドー](https://ja.wikipedia.org/wiki/キャプテンコマンドー "wikilink")）
+:; キャプテンコマンドー（Captain Commando）（[キャプテンコマンドー](../Page/キャプテンコマンドー.md "wikilink")）
 
-:: 声：[長嶝高士](https://ja.wikipedia.org/wiki/長嶝高士 "wikilink")
+:: 声：[長嶝高士](../Page/長嶝高士.md "wikilink")
 
 :: コマンドーチームのリーダー。遠距離攻撃のキャプテンファイヤー、対空のキャプテンコレダー、突進技のキャプテンキックなど基本技はほぼ揃っている他、Kコマンドのコマンドーストライクでコマンドーチームの他のメンバーであるジェネティー、翔、フーバーを呼び出して攻撃させることができる。ハイパーコンボはコマンドーチームのメンバーと協力して攻撃する。
 
 :; [春麗](../Page/春麗.md "wikilink")（Chun-Li）（[ストリートファイターII](../Page/ストリートファイターII.md "wikilink")）
 
-:: 声：[宮村優子](https://ja.wikipedia.org/wiki/宮村優子_\(声優\) "wikilink")
+:: 声：[宮村優子](../Page/宮村優子_\(声優\).md "wikilink")
 
 :: ハイパーコンボに、これまでのシリーズでは使用していないオリジナル技「七星閃空脚」が追加された。
 
 :; [ザンギエフ](../Page/ザンギエフ.md "wikilink")（Zangief）（ストリートファイターII）
 
-:: 声：[高木渉](https://ja.wikipedia.org/wiki/高木渉 "wikilink")
+:: 声：[高木渉](../Page/高木渉.md "wikilink")
 
 :: 前作『MARVEL SUPER HEROES VS. STREET FIGHTER』の隠しキャラクター「メカザンギエフ」に変身するハイパーコンボが追加された。
 
@@ -166,7 +166,7 @@
 
 :: 声：[藤野かほる](../Page/藤野かほる.md "wikilink")
 
-:: 原作の「ボスを倒すとそのボスが使っている特殊武器が使用可能になる」という設定を踏襲し、エンディングではオンスロートが使用していた「マグネティックショックウェーブ」を習得する内容のデモが用意されている（この際のBGMは『[ロックマン3](https://ja.wikipedia.org/wiki/ロックマン3_Dr.ワイリーの最期!? "wikilink")』の武器習得画面のBGMのアレンジ版）。プレイステーション版では更に習得後のバージョン「マグネティックロックマン」が隠しキャラクターに追加されている。必殺技としてインストカードに記載されている飛び道具（大P）は溜め撃ちのみ必殺技扱いで、通常の大Pは飛び道具だが通常技扱いのため、後者をガードさせても体力を削ることができない。
+:: 原作の「ボスを倒すとそのボスが使っている特殊武器が使用可能になる」という設定を踏襲し、エンディングではオンスロートが使用していた「マグネティックショックウェーブ」を習得する内容のデモが用意されている（この際のBGMは『[ロックマン3](../Page/ロックマン3_Dr.ワイリーの最期!?.md "wikilink")』の武器習得画面のBGMのアレンジ版）。プレイステーション版では更に習得後のバージョン「マグネティックロックマン」が隠しキャラクターに追加されている。必殺技としてインストカードに記載されている飛び道具（大P）は溜め撃ちのみ必殺技扱いで、通常の大Pは飛び道具だが通常技扱いのため、後者をガードさせても体力を削ることができない。
 
 :: ロックマンの勝利画面のBGMは他のキャラクターと違い、原作でボスに勝利した際のBGMが使われている。
 
@@ -182,12 +182,12 @@
     条件を満たすと7戦目に乱入してくる。こちらは固有エンディングが存在する。
 
       - [シャドウレディ](https://ja.wikipedia.org/wiki/春麗#シャドウレディ "wikilink") (Shadow Lady)
-        前作に登場した隠しキャラクターのシャドウ同様、[シャドルー](https://ja.wikipedia.org/wiki/シャドルー "wikilink")に捕まり改造された春麗。シャドウとは異なり必殺技はドリルや銃器を使用した完全オリジナルのものとなっている。
+        前作に登場した隠しキャラクターのシャドウ同様、[シャドルー](../Page/シャドルー.md "wikilink")に捕まり改造された春麗。シャドウとは異なり必殺技はドリルや銃器を使用した完全オリジナルのものとなっている。
       - [リリス風モリガン](https://ja.wikipedia.org/wiki/モリガン・アーンスランド#リリス風モリガン "wikilink")
         モリガンと精神が入れ替わったリリス。対戦前にはリリス（精神はモリガン）と融合する。「ソウルフラッシュ」「シャイニングブレイド」「ルミナスイリュージョン」「スプレンダーラブ」など、『ヴァンパイアセイヴァー』でのリリスの必殺技・EX必殺技と同一名称の技を使うが、動作はモリガンのものがベースのため原作のリリスとは技の内容が異なっている。
       - ロール（Roll）（[ロックマン](../Page/ロックマン_\(ゲーム\).md "wikilink")）
         声：藤野かほる
-        服装は『[ロックマン8 メタルヒーローズ](https://ja.wikipedia.org/wiki/ロックマン8_メタルヒーローズ "wikilink")』時の姿だが、かなり小柄になっている。パワーに乏しく、ロックマンに比べて技の性能はかなり劣る上級者向けのキャラクター。専用BGMは唯一の[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")曲「風よ伝えて」。
+        服装は『[ロックマン8 メタルヒーローズ](../Page/ロックマン8_メタルヒーローズ.md "wikilink")』時の姿だが、かなり小柄になっている。パワーに乏しく、ロックマンに比べて技の性能はかなり劣る上級者向けのキャラクター。専用BGMは唯一の[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")曲「風よ伝えて」。
 
 ### スペシャルパートナー
 
@@ -286,7 +286,7 @@
 
 :: 後に『MARVEL VS. CAPCOM 3 Fate of Two Worlds』で、プレイヤーキャラクターとして登場。
 
-:; 想鐘サキ (Saki)（[クイズなないろDREAMS 虹色町の奇跡](https://ja.wikipedia.org/wiki/クイズなないろDREAMS_虹色町の奇跡 "wikilink")）
+:; 想鐘サキ (Saki)（[クイズなないろDREAMS 虹色町の奇跡](../Page/クイズなないろDREAMS_虹色町の奇跡.md "wikilink")）
 
 :: 銃からビームを放つ。
 
@@ -306,7 +306,7 @@
 
 :: 念動力で剣や絵など複数の物体（まれに[ドノヴァンも混じる](../Page/ドノヴァン・バイン.md "wikilink")）を回転させ飛ばす。
 
-:; 魔法使いピュア&ドラ猫ファー (Pure & Fur)（[アドベンチャークイズ　カプコンワールド2](https://ja.wikipedia.org/wiki/アドベンチャークイズ_カプコンワールド "wikilink")）
+:; 魔法使いピュア&ドラ猫ファー (Pure & Fur)（[アドベンチャークイズ　カプコンワールド2](../Page/アドベンチャークイズ_カプコンワールド.md "wikilink")）
 
 :: 上空から複数のサイコロを降らせる。
 
@@ -320,7 +320,7 @@
 
       -
         声：森川智之
-        シャドルーに改造された[ナッシュ](https://ja.wikipedia.org/wiki/ナッシュ_\(ストリートファイター\) "wikilink")。本来は乱入キャラクター専用。「シャドウジャスティス」で攻撃する。
+        シャドルーに改造された[ナッシュ](../Page/ナッシュ_\(ストリートファイター\).md "wikilink")。本来は乱入キャラクター専用。「シャドウジャスティス」で攻撃する。
 
 ### ボスキャラクター
 
@@ -356,19 +356,19 @@
   - プロデューサー
     Kenji Kataoka
   - ゼネラルプロデューサー
-    [船水紀孝](https://ja.wikipedia.org/wiki/船水紀孝 "wikilink")
+    [船水紀孝](../Page/船水紀孝.md "wikilink")
   - エグゼクティブプロデューサー
-    [岡本吉起](https://ja.wikipedia.org/wiki/岡本吉起 "wikilink")
+    [岡本吉起](../Page/岡本吉起.md "wikilink")
 
 ## 関連項目
 
   - [エックス・メン チルドレン オブ ジ アトム](../Page/エックス・メン_チルドレン_オブ_ジ_アトム.md "wikilink")
   - [マーヴル・スーパーヒーローズ](../Page/マーヴル・スーパーヒーローズ.md "wikilink")
-  - [VS.シリーズ](https://ja.wikipedia.org/wiki/VS.シリーズ "wikilink")
-      - [エックスメン VS. ストリートファイター](https://ja.wikipedia.org/wiki/X-MEN_VS._STREET_FIGHTER "wikilink")
-      - [マーヴル・スーパーヒーローズ VS. ストリートファイター](https://ja.wikipedia.org/wiki/マーヴル・スーパーヒーローズ_VS._ストリートファイター "wikilink")
+  - [VS.シリーズ](../Page/VS.シリーズ.md "wikilink")
+      - [エックスメン VS. ストリートファイター](../Page/X-MEN_VS._STREET_FIGHTER.md "wikilink")
+      - [マーヴル・スーパーヒーローズ VS. ストリートファイター](../Page/マーヴル・スーパーヒーローズ_VS._ストリートファイター.md "wikilink")
       - マーヴル VS. カプコン
-      - [マーヴル VS. カプコン2](https://ja.wikipedia.org/wiki/MARVEL_VS._CAPCOM_2_NEW_AGE_OF_HEROES "wikilink")
+      - [マーヴル VS. カプコン2](../Page/MARVEL_VS._CAPCOM_2_NEW_AGE_OF_HEROES.md "wikilink")
       - [マーヴル VS. カプコン3](https://ja.wikipedia.org/wiki/MARVEL_VS._CAPCOM_3_Fate_of_Two_Worlds "wikilink")
 
 ## 脚注

@@ -1,11 +1,11 @@
 > この記事は[JTF-2](https://ja.wikipedia.org/wiki/JTF-2)から翻訳されています。
 
 
-**JTF-2**（*Joint Task Force-2*）とは、[カナダ統合軍の](https://ja.wikipedia.org/wiki/カナダ軍 "wikilink")[特殊部隊](../Page/特殊部隊.md "wikilink")である**統合タスクフォース2**のことである。
+**JTF-2**（*Joint Task Force-2*）とは、[カナダ統合軍の](../Page/カナダ軍.md "wikilink")[特殊部隊](../Page/特殊部隊.md "wikilink")である**統合タスクフォース2**のことである。
 
-[SASカナダ中隊を前身とするカナダ空挺連隊](https://ja.wikipedia.org/wiki/特殊空挺部隊 "wikilink")(1995年に廃止)やプリンセス・パトリシア軽歩兵連隊といった精鋭部隊から隊員を集め、[1993年](../Page/1993年.md "wikilink")に発足した。
+[SASカナダ中隊を前身とするカナダ空挺連隊](../Page/特殊空挺部隊.md "wikilink")(1995年に廃止)やプリンセス・パトリシア軽歩兵連隊といった精鋭部隊から隊員を集め、[1993年](../Page/1993年.md "wikilink")に発足した。
 
-創設時に、[王立カナダ騎馬警察](https://ja.wikipedia.org/wiki/王立カナダ騎馬警察 "wikilink")の特殊部隊である特殊緊急事態対応チーム(SERT)から対[テロ](https://ja.wikipedia.org/wiki/テロ "wikilink")任務を引き継いだ（引き継ぎ完了とともに特殊緊急事態対応チームは解散となった）。 部隊創設当初の隊員数は300名程度であったが、その後5年をかけて2倍に増員している。 部隊は中佐を指揮官とし、将校は大尉のみ、隊員は下士官兵で構成される。 JTF-2は、国連のPKF活動でカナダ軍の一部として[ボスニア・ヘルツェゴビナ](../Page/ボスニア・ヘルツェゴビナ.md "wikilink")に派遣されたり、[ルワンダ内戦](https://ja.wikipedia.org/wiki/ルワンダ内戦 "wikilink")にも派遣されているとされる。
+創設時に、[王立カナダ騎馬警察](../Page/王立カナダ騎馬警察.md "wikilink")の特殊部隊である特殊緊急事態対応チーム(SERT)から対[テロ](https://ja.wikipedia.org/wiki/テロ "wikilink")任務を引き継いだ（引き継ぎ完了とともに特殊緊急事態対応チームは解散となった）。 部隊創設当初の隊員数は300名程度であったが、その後5年をかけて2倍に増員している。 部隊は中佐を指揮官とし、将校は大尉のみ、隊員は下士官兵で構成される。 JTF-2は、国連のPKF活動でカナダ軍の一部として[ボスニア・ヘルツェゴビナ](../Page/ボスニア・ヘルツェゴビナ.md "wikilink")に派遣されたり、[ルワンダ内戦](https://ja.wikipedia.org/wiki/ルワンダ内戦 "wikilink")にも派遣されているとされる。
 
 [2002年](../Page/2002年.md "wikilink")以降、JTF-2は[アフガニスタン](../Page/アフガニスタン.md "wikilink")に派遣され、特殊作戦に従事している。
 
@@ -23,8 +23,8 @@
 
   - [デュマコC7](https://ja.wikipedia.org/wiki/コルト・カナダ_C7 "wikilink")
   - [デュマコC8](https://ja.wikipedia.org/wiki/コルト・カナダ_C7#C8 "wikilink")
-  - [FN P90](https://ja.wikipedia.org/wiki/FN_P90 "wikilink")
-  - [H\&K MP5](https://ja.wikipedia.org/wiki/H&K_MP5 "wikilink")
+  - [FN P90](../Page/FN_P90.md "wikilink")
+  - [H\&K MP5](../Page/H&K_MP5.md "wikilink")
   - [SIG SAUER P226](../Page/SIG_SAUER_P226.md "wikilink")
   - [ベネリM3](../Page/ベネリM3.md "wikilink")
 

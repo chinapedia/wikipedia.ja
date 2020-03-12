@@ -1,9 +1,9 @@
 > この記事は[XI  ](https://ja.wikipedia.org/wiki/XI__)から翻訳されています。
 
 
-**ファイナルファンタジーXI アトルガンの秘宝 オリジナル・サウンドトラック**（ファイナルファンタジーイレブン アトルガンのひほう オリジナル・サウンドトラック、Final Fantasy XI: Treasures of Aht Urhgan Original Soundtrack）は、[MMORPG](../Page/MMORPG.md "wikilink")、[ファイナルファンタジーXI](https://ja.wikipedia.org/wiki/ファイナルファンタジーXI "wikilink")の拡張版「ファイナルファンタジーXI アトルガンの秘宝」の[サウンドトラック](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")である。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[5月24日](../Page/5月24日.md "wikilink")に[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")よりリリースされた。
+**ファイナルファンタジーXI アトルガンの秘宝 オリジナル・サウンドトラック**（ファイナルファンタジーイレブン アトルガンのひほう オリジナル・サウンドトラック、Final Fantasy XI: Treasures of Aht Urhgan Original Soundtrack）は、[MMORPG](../Page/MMORPG.md "wikilink")、[ファイナルファンタジーXI](https://ja.wikipedia.org/wiki/ファイナルファンタジーXI "wikilink")の拡張版「ファイナルファンタジーXI アトルガンの秘宝」の[サウンドトラック](../Page/サウンドトラック.md "wikilink")である。[2006年](../Page/2006年.md "wikilink")[5月24日](../Page/5月24日.md "wikilink")に[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")よりリリースされた。
 
-[ファイナルファンタジーXI](https://ja.wikipedia.org/wiki/ファイナルファンタジーXI "wikilink")シリーズ全ての作曲を担当した[水田直志](https://ja.wikipedia.org/wiki/水田直志 "wikilink")が作曲を担当している。
+[ファイナルファンタジーXI](https://ja.wikipedia.org/wiki/ファイナルファンタジーXI "wikilink")シリーズ全ての作曲を担当した[水田直志](../Page/水田直志.md "wikilink")が作曲を担当している。
 
 ## 収録曲
 

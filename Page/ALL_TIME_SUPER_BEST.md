@@ -5,19 +5,19 @@
 
 ## 解説
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月7日](../Page/12月7日.md "wikilink")に[東芝EMI](https://ja.wikipedia.org/wiki/東芝EMI "wikilink")/ヴァージンよりリリースされた。通常盤【STANDARD EDITION】は黒地に白ラインの外箱仕様、初回盤【DELUXE EDITION】はDVD2枚付き・白地に金ラインの外箱仕様になっている。
+[2005年](../Page/2005年.md "wikilink")[12月7日](../Page/12月7日.md "wikilink")に[東芝EMI](https://ja.wikipedia.org/wiki/東芝EMI "wikilink")/ヴァージンよりリリースされた。通常盤【STANDARD EDITION】は黒地に白ラインの外箱仕様、初回盤【DELUXE EDITION】はDVD2枚付き・白地に金ラインの外箱仕様になっている。
 
-ソロ時代のベストアルバムとしては4枚目。[1981年](../Page/1981年.md "wikilink")、[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")として初めてステージに立ってから[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")で25周年になるのを記念して、BOØWY・[COMPLEX](https://ja.wikipedia.org/wiki/COMPLEX "wikilink")時代の曲を自らの[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")で[セルフカバーした楽曲とソロ時代のヒット曲をアレンジを変えて新たにレコーディングした曲が中心](../Page/カバー.md "wikilink")。そのため、15曲中8曲が新録音となっている。
+ソロ時代のベストアルバムとしては4枚目。[1981年](../Page/1981年.md "wikilink")、[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")として初めてステージに立ってから[2006年](../Page/2006年.md "wikilink")で25周年になるのを記念して、BOØWY・[COMPLEX](../Page/COMPLEX.md "wikilink")時代の曲を自らの[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")で[セルフカバーした楽曲とソロ時代のヒット曲をアレンジを変えて新たにレコーディングした曲が中心](../Page/カバー.md "wikilink")。そのため、15曲中8曲が新録音となっている。
 
 ## 収録曲
 
-1.  **[BAD FEELING](https://ja.wikipedia.org/wiki/BAD_FEELING "wikilink")** <small>\[25YEARS ANNIVERSARY VERSION\]</small>
+1.  **[BAD FEELING](../Page/BAD_FEELING.md "wikilink")** <small>\[25YEARS ANNIVERSARY VERSION\]</small>
       -
-        作詞：[氷室京介](../Page/氷室京介.md "wikilink")・[高橋まこと](https://ja.wikipedia.org/wiki/高橋まこと "wikilink") / 作曲：布袋寅泰
+        作詞：[氷室京介](../Page/氷室京介.md "wikilink")・[高橋まこと](../Page/高橋まこと.md "wikilink") / 作曲：布袋寅泰
         BOØWYの楽曲のカバーで、原曲よりも曲の長さが短くなっている。
 2.  **[BE MY BABY](../Page/BE_MY_BABY.md "wikilink")** <small>\[25YEARS ANNIVERSARY VERSION\]</small>
       -
-        作詞：[吉川晃司](https://ja.wikipedia.org/wiki/吉川晃司 "wikilink") / 作曲：布袋寅泰
+        作詞：[吉川晃司](../Page/吉川晃司.md "wikilink") / 作曲：布袋寅泰
         COMPLEXの楽曲のカバー。
 3.  **[さらば青春の光](https://ja.wikipedia.org/wiki/さらば青春の光_\(布袋寅泰の曲\) "wikilink")** <small>\[UNPLUGGED VERSION\]</small>
       -
@@ -25,12 +25,12 @@
 4.  **[スリル](https://ja.wikipedia.org/wiki/スリル "wikilink")** <small>\[PUNKY VERSION\]</small>
       -
         作詞：森雪之丞 / 作曲：布袋寅泰
-5.  **[BEAT SWEET](https://ja.wikipedia.org/wiki/BEAT_EMOTION "wikilink")** <small>\[25YEARS ANNIVERSARY VERSION\]</small>
+5.  **[BEAT SWEET](../Page/BEAT_EMOTION.md "wikilink")** <small>\[25YEARS ANNIVERSARY VERSION\]</small>
       -
         作詞：氷室京介 / 作曲：布袋寅泰
 6.  **[バンビーナ](https://ja.wikipedia.org/wiki/バンビーナ "wikilink")** <small>\[BAMBINA GO\! GO\! VERSION\]</small>
       -
-        作詞：[森雪之丞](https://ja.wikipedia.org/wiki/森雪之丞 "wikilink") / 作曲：布袋寅泰
+        作詞：[森雪之丞](../Page/森雪之丞.md "wikilink") / 作曲：布袋寅泰
 7.  **[LONELY★WILD](https://ja.wikipedia.org/wiki/LONELY★WILD "wikilink")** <small>\[ORCHESTRAL VERSION\]</small>
       -
         作詞・作曲：布袋寅泰
@@ -40,7 +40,7 @@
 9.  **SONG FOR US** <small>\[25YEARS ANNIVERSARY NEW SONG\]</small>
       -
         作詞：[町田康](../Page/町田康.md "wikilink") / 作曲：布袋寅泰
-10. **[BATTLE WITHOUT HONOR OR HUMANITY](https://ja.wikipedia.org/wiki/BATTLE_WITHOUT_HONOR_OR_HUMANITY "wikilink")** <small>\[SAMURAI MIX\]</small>
+10. **[BATTLE WITHOUT HONOR OR HUMANITY](../Page/BATTLE_WITHOUT_HONOR_OR_HUMANITY.md "wikilink")** <small>\[SAMURAI MIX\]</small>
       -
         作曲：布袋寅泰
         24thシングル「アナザー・バトル」のカップリング曲。
@@ -65,11 +65,11 @@
 ## 参加ミュージシャン
 
   - 布袋寅泰 - [ギター](../Page/ギター.md "wikilink")、[ベース](../Page/エレクトリックベース.md "wikilink")、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、バッキングボーカル
-  - [岸利至](https://ja.wikipedia.org/wiki/岸利至 "wikilink") - [プログラミング](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")
+  - [岸利至](../Page/岸利至.md "wikilink") - [プログラミング](../Page/ミュージックシーケンサー.md "wikilink")
   - [山木秀夫](../Page/山木秀夫.md "wikilink") - [ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")(\#5,8)
   - 高水健司 - [ベース](../Page/エレクトリックベース.md "wikilink")(\#8)
   - [Ju-ken](https://ja.wikipedia.org/wiki/Ju-ken "wikilink") - ベース(\#5)
-  - [村田陽一](https://ja.wikipedia.org/wiki/村田陽一 "wikilink") - [ブラス](https://ja.wikipedia.org/wiki/ブラス "wikilink")アレンジメント、[トロンボーン](../Page/トロンボーン.md "wikilink")(\#5,8)
+  - [村田陽一](../Page/村田陽一.md "wikilink") - [ブラス](https://ja.wikipedia.org/wiki/ブラス "wikilink")アレンジメント、[トロンボーン](../Page/トロンボーン.md "wikilink")(\#5,8)
   - [金原千恵子](../Page/金原千恵子.md "wikilink")ストリングス - [ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")(\#3)
   - 高桑英世 - [フルート](../Page/フルート.md "wikilink")(\#3)
   - 山根公男 - [クラリネット](../Page/クラリネット.md "wikilink")(\#3)
@@ -84,7 +84,7 @@
 
 ### DVD 1
 
-**GUITAR SYMPHONY in EXPO2005**（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月29日](../Page/3月29日.md "wikilink")）
+**GUITAR SYMPHONY in EXPO2005**（[2005年](../Page/2005年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")）
 
 1.  **OPENING**
 2.  **LEFEND OF FUTURE**
@@ -122,7 +122,7 @@
 
 ### DVD 2
 
-**MONSTER DRIVE BIG PARTY\!\!\! DIGEST EDITION**（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月2日](../Page/9月2日.md "wikilink")）
+**MONSTER DRIVE BIG PARTY\!\!\! DIGEST EDITION**（[2005年](../Page/2005年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink")）
 
 1.  **WAITING FOR YOU**
     　（作詞：ハービー山口・Lenny Zakatek / 作曲・編曲：布袋寅泰）

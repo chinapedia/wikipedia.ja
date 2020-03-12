@@ -1,11 +1,11 @@
 > この記事は[UFC 17](https://ja.wikipedia.org/wiki/UFC_17)から翻訳されています。
 
 
-**UFC 17: Redemption**（ユーエフシー・セブンティーン：リデンプション）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[5月15日](../Page/5月15日.md "wikilink")、[アラバマ州](../Page/アラバマ州.md "wikilink")[モービルのモービル市民センターで開催された](https://ja.wikipedia.org/wiki/モービル_\(アラバマ州\) "wikilink")。
+**UFC 17: Redemption**（ユーエフシー・セブンティーン：リデンプション）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[5月15日](../Page/5月15日.md "wikilink")、[アラバマ州](../Page/アラバマ州.md "wikilink")[モービルのモービル市民センターで開催された](../Page/モービル_\(アラバマ州\).md "wikilink")。
 
 ## 大会概要
 
-メインイベントのミドル級タイトルマッチでは、[フランク・シャムロック](https://ja.wikipedia.org/wiki/フランク・シャムロック "wikilink")が[ジェレミー・ホーン](../Page/ジェレミー・ホーン.md "wikilink")を降し、2度目のミドル級王座防衛に成功した。 同日開催されたミドル級トーナメントでは、[ダン・ヘンダーソン](https://ja.wikipedia.org/wiki/ダン・ヘンダーソン "wikilink")が[アラン・ゴエス](https://ja.wikipedia.org/wiki/アラン・ゴエス "wikilink")、[カーロス・ニュートン](../Page/カーロス・ニュートン.md "wikilink")を破り優勝を果たした。
+メインイベントのミドル級タイトルマッチでは、[フランク・シャムロック](../Page/フランク・シャムロック.md "wikilink")が[ジェレミー・ホーン](../Page/ジェレミー・ホーン.md "wikilink")を降し、2度目のミドル級王座防衛に成功した。 同日開催されたミドル級トーナメントでは、[ダン・ヘンダーソン](../Page/ダン・ヘンダーソン.md "wikilink")が[アラン・ゴエス](https://ja.wikipedia.org/wiki/アラン・ゴエス "wikilink")、[カーロス・ニュートン](../Page/カーロス・ニュートン.md "wikilink")を破り優勝を果たした。
 
 本大会より[チャック・リデル](../Page/チャック・リデル.md "wikilink")がUFCに初参戦を果たした。
 
@@ -18,35 +18,35 @@
     ○  アンドレ・ロバーツ vs.  ハリー・モスコヴィッツ ×
     1R 3:15 KO（肘打ち）
   - 第3試合 UFC 17ミドル級トーナメント 1回戦 15分1R
-    ○  [ダン・ヘンダーソン](https://ja.wikipedia.org/wiki/ダン・ヘンダーソン "wikilink") vs.  [アラン・ゴエス](https://ja.wikipedia.org/wiki/アラン・ゴエス "wikilink") ×
+    ○  [ダン・ヘンダーソン](../Page/ダン・ヘンダーソン.md "wikilink") vs.  [アラン・ゴエス](https://ja.wikipedia.org/wiki/アラン・ゴエス "wikilink") ×
     1R終了 判定3-0
     ※ヘンダーソンが決勝進出。
   - 第4試合 UFC 17ミドル級トーナメント 1回戦 15分1R
     ○  [カーロス・ニュートン](../Page/カーロス・ニュートン.md "wikilink") vs.  ボブ・ジルストラップ ×
-    1R 0:52 [三角絞め](https://ja.wikipedia.org/wiki/三角絞め "wikilink")
+    1R 0:52 [三角絞め](../Page/三角絞め.md "wikilink")
     ※ニュートンが決勝進出。
   - 第5試合 ヘビー級 15分1R
     ○  マイク・ヴァン・アースデイル vs.  ジョー・パルド ×
-    1R 11:01 [V1アームロック](https://ja.wikipedia.org/wiki/V1アームロック "wikilink")
+    1R 11:01 [V1アームロック](../Page/V1アームロック.md "wikilink")
   - 第6試合 ヘビー級 15分1R
     ○  [タンク・アボット](../Page/タンク・アボット.md "wikilink") vs.  ウゴ・デュアルチ ×
-    1R 0:43 TKO（レフェリーストップ：[グラウンドパンチ](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    1R 0:43 TKO（レフェリーストップ：[グラウンドパンチ](../Page/グラウンドパンチ.md "wikilink")）
   - 第7試合 UFC 17ミドル級トーナメント 決勝戦 15分1R
-    ○  [ダン・ヘンダーソン](https://ja.wikipedia.org/wiki/ダン・ヘンダーソン "wikilink") vs.  [カーロス・ニュートン](../Page/カーロス・ニュートン.md "wikilink") ×
+    ○  [ダン・ヘンダーソン](../Page/ダン・ヘンダーソン.md "wikilink") vs.  [カーロス・ニュートン](../Page/カーロス・ニュートン.md "wikilink") ×
     1R終了 判定2-1
     ※ヘンダーソンがトーナメント優勝。
   - 第8試合 ヘビー級 15分1R
-    ○  [ピート・ウィリアムス](https://ja.wikipedia.org/wiki/ピート・ウィリアムス "wikilink") vs.  [マーク・コールマン](https://ja.wikipedia.org/wiki/マーク・コールマン "wikilink") ×
+    ○  [ピート・ウィリアムス](https://ja.wikipedia.org/wiki/ピート・ウィリアムス "wikilink") vs.  [マーク・コールマン](../Page/マーク・コールマン.md "wikilink") ×
     1R 12:38 KO（右ハイキック）
   - 第9試合 UFC世界ミドル級タイトルマッチ 20分1R
-    ○  [フランク・シャムロック](https://ja.wikipedia.org/wiki/フランク・シャムロック "wikilink") vs.  [ジェレミー・ホーン](../Page/ジェレミー・ホーン.md "wikilink") ×
+    ○  [フランク・シャムロック](../Page/フランク・シャムロック.md "wikilink") vs.  [ジェレミー・ホーン](../Page/ジェレミー・ホーン.md "wikilink") ×
     1R 16:28 [膝十字固め](https://ja.wikipedia.org/wiki/膝十字固め "wikilink")
     ※シャムロックが王座の2度目の防衛に成功。
 
 ## 関連項目
 
   - [UFCの大会一覧](../Page/UFCの大会一覧.md "wikilink")
-  - [UFC王者一覧](https://ja.wikipedia.org/wiki/UFC王者一覧 "wikilink")
+  - [UFC王者一覧](../Page/UFC王者一覧.md "wikilink")
 
 ## 外部リンク
 

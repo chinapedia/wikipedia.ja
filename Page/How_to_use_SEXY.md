@@ -25,14 +25,14 @@
 
   -
     作詞・作曲：[つんく](https://ja.wikipedia.org/wiki/つんく "wikilink")(ALL)
-    編曲：田中直(1,3〜5,9)、江上浩太郎(2)、[平田祥一郎](https://ja.wikipedia.org/wiki/平田祥一郎 "wikilink")(6)、[大久保薫](https://ja.wikipedia.org/wiki/大久保薫 "wikilink")(7)、AKIRA(8)、[鈴木Daichi秀行](https://ja.wikipedia.org/wiki/鈴木Daichi秀行 "wikilink")(10)
+    編曲：田中直(1,3〜5,9)、江上浩太郎(2)、[平田祥一郎](../Page/平田祥一郎.md "wikilink")(6)、[大久保薫](https://ja.wikipedia.org/wiki/大久保薫 "wikilink")(7)、AKIRA(8)、[鈴木Daichi秀行](../Page/鈴木Daichi秀行.md "wikilink")(10)
 
 ## 参加ミュージシャン
 
   - 後藤真希 - コーラス(ALL)
   - 田中直 - プログラミング(1,3〜5,9)
   - 江上浩太郎 - プログラミング(2)
-  - [鎌田浩二](https://ja.wikipedia.org/wiki/鎌田浩二 "wikilink") - ギター(3,6,8)
+  - [鎌田浩二](../Page/鎌田浩二.md "wikilink") - ギター(3,6,8)
   - 平田祥一郎 - プログラミング(6)
   - 大久保薫 - プログラミング(7)
   - 伊丹雅博 - ギター(7)

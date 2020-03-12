@@ -1,7 +1,7 @@
 > この記事は[Geometry Wars](https://ja.wikipedia.org/wiki/Geometry_Wars)から翻訳されています。
 
 
-『**Geometry Wars**』（ジオメトリー・ウォーズ）は[2003年](../Page/2003年.md "wikilink")[11月20日](../Page/11月20日.md "wikilink")に発売された[Xbox用ソフト](../Page/Xbox_\(ゲーム機\).md "wikilink")『[プロジェクトゴッサムレーシング2](https://ja.wikipedia.org/wiki/プロジェクトゴッサムレーシング2 "wikilink")』におまけとして収録されていた、上空見下ろし視点型の[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月10日](https://ja.wikipedia.org/wiki/12月10日 "wikilink")に[Xbox 360用にビジュアルなどを強化したリメイク版](../Page/Xbox_360.md "wikilink")『**Geometry Wars: Retro Evolved**』が[Xbox Live Arcade用ソフトとして登場し](https://ja.wikipedia.org/wiki/Xbox_Live_Arcade "wikilink")、2007年6月に発売された同ハード用の512Mメモリーユニットにも収録されている（期間限定。なおメモリーユニットには完全版の状態で収録されているが、ハードディスクなどへのコピーは不可）。
+『**Geometry Wars**』（ジオメトリー・ウォーズ）は[2003年](../Page/2003年.md "wikilink")[11月20日](../Page/11月20日.md "wikilink")に発売された[Xbox用ソフト](../Page/Xbox_\(ゲーム機\).md "wikilink")『[プロジェクトゴッサムレーシング2](https://ja.wikipedia.org/wiki/プロジェクトゴッサムレーシング2 "wikilink")』におまけとして収録されていた、上空見下ろし視点型の[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[12月10日](../Page/12月10日.md "wikilink")に[Xbox 360用にビジュアルなどを強化したリメイク版](../Page/Xbox_360.md "wikilink")『**Geometry Wars: Retro Evolved**』が[Xbox Live Arcade用ソフトとして登場し](https://ja.wikipedia.org/wiki/Xbox_Live_Arcade "wikilink")、2007年6月に発売された同ハード用の512Mメモリーユニットにも収録されている（期間限定。なおメモリーユニットには完全版の状態で収録されているが、ハードディスクなどへのコピーは不可）。
 
 また、2007年10月11日発売の『[PGR4 - プロジェクトゴッサムレーシング4 -](https://ja.wikipedia.org/wiki/PGR4_-_プロジェクトゴッサムレーシング4_- "wikilink")』にも新バージョン『Geometry Wars: Waves』が収録されている。
 
@@ -32,7 +32,7 @@ Wavesでは敵を倒した後に出現する破片が倍率アップのアイテ
 
 ### Galaxiesモード
 
-  - [銀河](../Page/銀河.md "wikilink")の[惑星系](https://ja.wikipedia.org/wiki/惑星系 "wikilink")(恒星系)を一つずつ開放してゆくモード。一つの惑星系には複数の惑星が存在し、1つの惑星が1ステージとなる。1プレイ1ステージ。規定数ミスするとステージ終了。GEOMSという[通貨](../Page/通貨.md "wikilink")があり、敵を倒した後に出現する破片を取ることで増加する。GEOMSを規定数消費することで、惑星系または惑星の解放が行え、新たなステージを遊ぶことができる。
+  - [銀河](../Page/銀河.md "wikilink")の[惑星系](../Page/惑星系.md "wikilink")(恒星系)を一つずつ開放してゆくモード。一つの惑星系には複数の惑星が存在し、1つの惑星が1ステージとなる。1プレイ1ステージ。規定数ミスするとステージ終了。GEOMSという[通貨](../Page/通貨.md "wikilink")があり、敵を倒した後に出現する破片を取ることで増加する。GEOMSを規定数消費することで、惑星系または惑星の解放が行え、新たなステージを遊ぶことができる。
   - 惑星ごとに多様な形状のフィールドが存在する。動く地形などのギミックがしかけられているフィールドもある。
   - Retro Evolvedの敵にくわえ、新たな敵が登場する。また、惑星系BETA以降には巨大な敵が登場する惑星もある。
   - 自機にはDRONEというオプションが1機付属し、GEOMSを規定数消費することでDRONEの挙動（BEHAVIOR）を変更できるようになる。また、プレイごとに経験値(XP)がBEHAVIORに蓄積され、規定の経験値でレベルが上昇し、DRONEの挙動が向上する。経験値及びレベルはBEHAVIORごとに個別に蓄積される。

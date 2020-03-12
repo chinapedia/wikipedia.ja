@@ -5,8 +5,8 @@
 
 ## 解説
 
-  - Matsuyakko（まつやっこ）という覆面演歌歌手名義でリリースされた。[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")系情報番組「[トゥナイト](../Page/トゥナイト_\(テレビ番組\).md "wikilink")」のエンディング・テーマとなった。
-  - 公式ディスコグラフィーには載っているが、[Best of Best 27の投票の一覧に無かったり](https://ja.wikipedia.org/wiki/Best_of_Best_27 "wikilink")、長年アルバムやベストアルバムへの収録が無かった。しかし発売して17年半後の[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に発売された73枚組シングルCDBOX『[Seiko Matsuda Single Collection 30th Anniversary Box 〜The voice of a Queen〜](https://ja.wikipedia.org/wiki/Seiko_Matsuda_Single_Collection_30th_Anniversary_Box_〜The_voice_of_a_Queen〜 "wikilink")』には12cmシングルとして収録された他、[2019年](../Page/2019年.md "wikilink")に発売されたベストアルバム『[SEIKO STORY〜90s-00s HITS COLLECTION〜](https://ja.wikipedia.org/wiki/SEIKO_STORY〜90s-00s_HITS_COLLECTION〜 "wikilink")』にボーナストラックとして収録された。
+  - Matsuyakko（まつやっこ）という覆面演歌歌手名義でリリースされた。[テレビ朝日](../Page/テレビ朝日.md "wikilink")系情報番組「[トゥナイト](../Page/トゥナイト_\(テレビ番組\).md "wikilink")」のエンディング・テーマとなった。
+  - 公式ディスコグラフィーには載っているが、[Best of Best 27の投票の一覧に無かったり](../Page/Best_of_Best_27.md "wikilink")、長年アルバムやベストアルバムへの収録が無かった。しかし発売して17年半後の[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に発売された73枚組シングルCDBOX『[Seiko Matsuda Single Collection 30th Anniversary Box 〜The voice of a Queen〜](https://ja.wikipedia.org/wiki/Seiko_Matsuda_Single_Collection_30th_Anniversary_Box_〜The_voice_of_a_Queen〜 "wikilink")』には12cmシングルとして収録された他、[2019年](../Page/2019年.md "wikilink")に発売されたベストアルバム『[SEIKO STORY〜90s-00s HITS COLLECTION〜](https://ja.wikipedia.org/wiki/SEIKO_STORY〜90s-00s_HITS_COLLECTION〜 "wikilink")』にボーナストラックとして収録された。
 
 ## 収録曲
 
@@ -22,6 +22,6 @@
 
 ## 関連項目
 
-  - [1993年の音楽](https://ja.wikipedia.org/wiki/1993年の音楽 "wikilink")
+  - [1993年の音楽](../Page/1993年の音楽.md "wikilink")
 
 [Category:松田聖子の楽曲](https://ja.wikipedia.org/wiki/Category:松田聖子の楽曲 "wikilink") [Category:1993年のシングル](https://ja.wikipedia.org/wiki/Category:1993年のシングル "wikilink") [Category:楽曲_か](https://ja.wikipedia.org/wiki/Category:楽曲_か "wikilink")

@@ -1,7 +1,7 @@
 > この記事は[ to you all](https://ja.wikipedia.org/wiki/_to_you_all)から翻訳されています。
 
 
-「**道 〜to you all**」（みち トゥー・ユー・オール）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のバンド[alüto](https://ja.wikipedia.org/wiki/alüto "wikilink")のメジャーデビュー[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[7月11日](../Page/7月11日.md "wikilink")発売。発売元は[ソニー・ミュージックアソシエイテッドレコーズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックアソシエイテッドレコーズ "wikilink")。
+「**道 〜to you all**」（みち トゥー・ユー・オール）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のバンド[alüto](https://ja.wikipedia.org/wiki/alüto "wikilink")のメジャーデビュー[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[7月11日](../Page/7月11日.md "wikilink")発売。発売元は[ソニー・ミュージックアソシエイテッドレコーズ](../Page/ソニー・ミュージックアソシエイテッドレコーズ.md "wikilink")。
 
 ## 解説
 

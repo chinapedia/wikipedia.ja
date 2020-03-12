@@ -1,11 +1,11 @@
 > この記事は[GENTE](https://ja.wikipedia.org/wiki/GENTE)から翻訳されています。
 
 
-『**GENTE〜リストランテの人々〜**』（ジェンテ リストランテのひとびと）は、[オノ・ナツメ](../Page/オノ・ナツメ.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[マンガ・エロティクス・エフ](https://ja.wikipedia.org/wiki/マンガ・エロティクス・エフ "wikilink")』（[太田出版](https://ja.wikipedia.org/wiki/太田出版 "wikilink")）において2006年9月vol.41より2009年vol.55まで連載された。[ローマ](../Page/ローマ.md "wikilink")の[リストランテ](../Page/レストラン.md "wikilink")、「カゼッタ・デッロルソ（*casetta dell'orso*）」が出来る前からの物語で、『[リストランテ・パラディーゾ](../Page/リストランテ・パラディーゾ.md "wikilink")』は時系列で言うと、単行本『GENTE』の2巻と3巻の間（10話と11話の間）に当たる。
+『**GENTE〜リストランテの人々〜**』（ジェンテ リストランテのひとびと）は、[オノ・ナツメ](../Page/オノ・ナツメ.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[マンガ・エロティクス・エフ](../Page/マンガ・エロティクス・エフ.md "wikilink")』（[太田出版](../Page/太田出版.md "wikilink")）において2006年9月vol.41より2009年vol.55まで連載された。[ローマ](../Page/ローマ.md "wikilink")の[リストランテ](../Page/レストラン.md "wikilink")、「カゼッタ・デッロルソ（*casetta dell'orso*）」が出来る前からの物語で、『[リストランテ・パラディーゾ](../Page/リストランテ・パラディーゾ.md "wikilink")』は時系列で言うと、単行本『GENTE』の2巻と3巻の間（10話と11話の間）に当たる。
 
 ## あらすじ
 
-ロレンツォは、リストランテのオープンを控えたオーナー。妻のオルガの過労による入院がきっかけで、彼女の好みである「[老眼鏡](https://ja.wikipedia.org/wiki/老眼鏡 "wikilink")[紳士](https://ja.wikipedia.org/wiki/紳士 "wikilink")」を条件にスタッフを雇う事を決める。そのリストランテに集う人々の物語。
+ロレンツォは、リストランテのオープンを控えたオーナー。妻のオルガの過労による入院がきっかけで、彼女の好みである「[老眼鏡](https://ja.wikipedia.org/wiki/老眼鏡 "wikilink")[紳士](../Page/紳士.md "wikilink")」を条件にスタッフを雇う事を決める。そのリストランテに集う人々の物語。
 
 ## 登場人物
 
@@ -14,7 +14,7 @@
 ### カゼッタ・デッロルソ従業員
 
   - ロレンツォ（*Lorenzo*）
-    声：[乃村健次](https://ja.wikipedia.org/wiki/乃村健次 "wikilink")
+    声：[乃村健次](../Page/乃村健次.md "wikilink")
     オーナー。[ワイナリー](https://ja.wikipedia.org/wiki/ワイナリー "wikilink")を経営している。
     妻・オルガをとても大事にしており、多忙の妻のための癒しの場に、とスタッフの雇用条件に「老眼鏡・紳士」を加える（必須ではない）。本人はオルガのタイプではなかったが、心優しくて寛容な、癒しの笑顔を持った好人物。ジジとは義兄弟で、ジジとロレンツォそれぞれの父親は兄弟（ジジの父親が兄）。ジジとは仲の良い関係を築いている。
   - ジジ（*Gigi*）
@@ -22,27 +22,27 @@
     [ソムリエ](../Page/ソムリエ.md "wikilink")。
     ロレンツォの義兄であり、従兄弟。ジジの父は弟に妻を寝取られたことを恨んで縁を切った。ロレンツォとは20数年前に出会い、前のトラットリアから一緒に働いている。無口。大変食べっぷりが良く、どの店にいても、しょっちゅうつまみ食いをしている様子。[まかない](https://ja.wikipedia.org/wiki/まかない "wikilink")に上等なワインを開けるのが日課。独身。
   - ルチアーノ・デ・ルーカ（*Luciano De Luca*）
-    声：[立川三貴](https://ja.wikipedia.org/wiki/立川三貴 "wikilink")
-    [カメリエーレ](https://ja.wikipedia.org/wiki/ウェイター "wikilink")。通称・**ルチアーノ**。
+    声：[立川三貴](../Page/立川三貴.md "wikilink")
+    [カメリエーレ](../Page/ウェイター.md "wikilink")。通称・**ルチアーノ**。
     オルガが贔屓にしていた[バールの元](../Page/バール_\(飲食店\).md "wikilink")[バリスタ](../Page/バリスタ_\(コーヒー\).md "wikilink")。それがきっかけで、ロレンツォの店に引き抜かれる。一度は断るが、クラウディオに説得され決意する。小言が多く、なかなか笑顔を見せてくれないが、本当はいい人。意外と照れ屋なせいか、いつも憎まれ口を叩いている。妻が病死し現在独身。今でも妻を想っている。休日は孫のフランチの面倒をみるのが実は楽しみ。観劇好き。
   - サント・クラウディオ・パラディーゾ（*Santo Claudio Paradizo*）
-    声：[山野井仁](https://ja.wikipedia.org/wiki/山野井仁 "wikilink")
+    声：[山野井仁](../Page/山野井仁.md "wikilink")
     カメリエーレ長。通称・**クラウディオ**。
     郊外のリストランテに長らく勤めていたが、新しいオーナーの気性の荒さが自分に合わず悩んでいたところ、ルチアーノにロレンツォの店を紹介される。優しく真面目で、気遣いの人。元妻・ガブリエッラとは法的別居中でまだ離婚が成立しておらず、複雑な感情を抱いている。若い頃にフリオのいたホテルで働き、よく皿を割っていた。
   - ヴィート（*Vito*）
-    声：[黒田崇矢](https://ja.wikipedia.org/wiki/黒田崇矢 "wikilink")
+    声：[黒田崇矢](../Page/黒田崇矢.md "wikilink")
     カメリエーレ。
     求職中に[ジョギング](../Page/ジョギング.md "wikilink")をしていて、求人の貼り紙を見てカメリエーレとして働くことに。ホテルでフロントマンをしていた。チャレンジ精神旺盛で、陽気なムードメーカー。若い娘好きでおせっかい焼き。「美しいご婦人のお誘いは断れない」主義のプレイボーイで、通っているジムでは、声をかけない女性はいないと言われる程有名。そこで知り合ったマリーナと親友になる。寂しい人は放っておけないタイプ。女性を泣かせたくないから、と結婚はしない主義だったが、後にマリーナと結婚する。
   - テオ（*Teo*）
-    声：[上田燿司](https://ja.wikipedia.org/wiki/上田燿司 "wikilink")
+    声：[上田燿司](../Page/上田燿司.md "wikilink")
     シェフ。
     ダリオの代わりとして、マルツィオが連れてきた。元々は[郷土料理](../Page/郷土料理.md "wikilink")のトラットリアに居たが、オーナーと喧嘩して辞める。クールで豪気な性格。どうやら相当モテるらしいが、現在は悠々自適な独身生活。ドルチェが美味い。
   - フリオ（*Furio*）
-    声：[西松和彦](https://ja.wikipedia.org/wiki/西松和彦 "wikilink")
+    声：[西松和彦](../Page/西松和彦.md "wikilink")
     ヴァンナの後に入ってきたシェフ。以前は一流リストランテに勤めていた。
     穏やかで人当たりの良い紳士。奥様向けの料理教室も開いている。既婚。
   - ニコレッタ（*Nicoletta*）
-    声：[折笠富美子](https://ja.wikipedia.org/wiki/折笠富美子 "wikilink")
+    声：[折笠富美子](../Page/折笠富美子.md "wikilink")
     シェフ見習い。『[リストランテ・パラディーゾ](../Page/リストランテ・パラディーゾ.md "wikilink")』でのいきさつがあって、12話から登場する。オルガの娘ということは周知の事実。
 
 ### 元従業員
@@ -63,7 +63,7 @@
     声：[寺田はるひ](../Page/七緒はるひ.md "wikilink")
     売れっ子[弁護士](../Page/弁護士.md "wikilink")。仕事も恋愛も両立させる主義。老眼鏡紳士を見るのが大好き。女性としても魅力的で、リストランテのスタッフからも大事にされている。ガブリエッラとは友人であり同じ職場で働いている。ロレンツォには隠しているが、前夫との間に子供がおり、再婚を機に祖父母のもとに預ける。あまり会いにいけていないが、誕生日にはプレゼントを郵送している様子。『[リストランテ・パラディーゾ](../Page/リストランテ・パラディーゾ.md "wikilink")』ではその子供がガゼッタで働く事になる。
   - ガブリエッラ（*Gabriella*）
-    声：[渡辺美佐](https://ja.wikipedia.org/wiki/渡辺美佐_\(声優\) "wikilink")
+    声：[渡辺美佐](../Page/渡辺美佐_\(声優\).md "wikilink")
     クラウディオの元妻。オルガの友人で、同じ事務所で弁護士として働いている。大人の色気を持つ女性。クラウディオとは1、2巻時点で法的別居中。
   - マリーナ（*Malina*）
     声：[本多陽子](https://ja.wikipedia.org/wiki/本多陽子 "wikilink")
@@ -79,7 +79,7 @@
   - ジャンナ
     リストランテの向かいで、夫と[エノテカを営む](https://ja.wikipedia.org/wiki/エノテーカ "wikilink")。
   - ルチーア
-    声：[浅野まゆみ](https://ja.wikipedia.org/wiki/浅野まゆみ "wikilink")
+    声：[浅野まゆみ](../Page/浅野まゆみ.md "wikilink")
     浮気性な夫に悩み、一時は離婚も考えた。エノテカの上階に住む。
   - ヴェルディアーニ
     上院議員。孫娘ローザに占ってもらうのが趣味。所属する党の合併話に悩む。
@@ -98,6 +98,6 @@
 
 ## テレビアニメ
 
-2009年[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")より[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[NOISE](https://ja.wikipedia.org/wiki/NOISE_\(フジテレビ\) "wikilink")」枠にて『リストランテ・パラディーゾ』として放送された。詳細は[リストランテ・パラディーゾ](../Page/リストランテ・パラディーゾ.md "wikilink")参照の事。
+2009年[4月8日](../Page/4月8日.md "wikilink")より[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[NOISE](https://ja.wikipedia.org/wiki/NOISE_\(フジテレビ\) "wikilink")」枠にて『リストランテ・パラディーゾ』として放送された。詳細は[リストランテ・パラディーゾ](../Page/リストランテ・パラディーゾ.md "wikilink")参照の事。
 
 [Category:漫画作品_し](https://ja.wikipedia.org/wiki/Category:漫画作品_し "wikilink") [Category:マンガ・エロティクス・エフ](https://ja.wikipedia.org/wiki/Category:マンガ・エロティクス・エフ "wikilink") [Category:ローマを舞台とした作品](https://ja.wikipedia.org/wiki/Category:ローマを舞台とした作品 "wikilink") [Category:飲食店を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:飲食店を舞台とした漫画作品 "wikilink") [Category:オノ・ナツメ](https://ja.wikipedia.org/wiki/Category:オノ・ナツメ "wikilink")

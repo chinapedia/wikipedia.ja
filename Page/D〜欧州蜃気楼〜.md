@@ -1,14 +1,14 @@
 > この記事は[D](https://ja.wikipedia.org/wiki/D)から翻訳されています。
 
 
-『**D〜欧州蜃気楼〜**』（ディー おうしゅうしんきろう）は、[ウルフチーム](https://ja.wikipedia.org/wiki/ウルフチーム "wikilink")から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に発売された[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")のヨーロッパ戦線を舞台にしたボードゲームタイプの戦略[ウォー・シミュレーションゲーム](../Page/ウォー・シミュレーションゲーム.md "wikilink")。
+『**D〜欧州蜃気楼〜**』（ディー おうしゅうしんきろう）は、[ウルフチーム](../Page/ウルフチーム.md "wikilink")から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に発売された[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")のヨーロッパ戦線を舞台にしたボードゲームタイプの戦略[ウォー・シミュレーションゲーム](../Page/ウォー・シミュレーションゲーム.md "wikilink")。
 
 ## 概要
 
   - プレーヤーは、[ドイツ](../Page/ナチス・ドイツ.md "wikilink")、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")、[ソビエトのいずれかの国家を選択し](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")の覇権を争う。勝敗は勝利得点が200点以上に達するか又は、[連合国の国家がドイツの首都](../Page/連合国_\(第二次世界大戦\).md "wikilink")[ベルリン](https://ja.wikipedia.org/wiki/ベルリン "wikilink")を陥落させた場合に決する。
-  - [補給ラインの概念を導入しており](https://ja.wikipedia.org/wiki/兵站 "wikilink")、補給拠点から伸びている補給ラインの途中で敵国に占領されている場合には、その先にある味方[ユニット](https://ja.wikipedia.org/wiki/ユニット "wikilink")は補給されずに攻撃力、防御力が低下する。
+  - [補給ラインの概念を導入しており](../Page/兵站.md "wikilink")、補給拠点から伸びている補給ラインの途中で敵国に占領されている場合には、その先にある味方[ユニット](../Page/ユニット.md "wikilink")は補給されずに攻撃力、防御力が低下する。
   - ゲームの構成がシンプルで長期間のシナリオを選択しても3、4時間ほどで終了する。
-  - [パルチザン](https://ja.wikipedia.org/wiki/パルチザン "wikilink")の発生率は史実に忠実で、たとえば、ユーゴスラビアは暴動発生ポイント1以上でパルチザンが発生しやすくなり、フランスやポーランド、ソビエト、[イラク](../Page/イラク.md "wikilink")等では暴動発生ポイント40から60以上で発生しやすくなるが、北アフリカやイタリアでは暴動発生ポイント100でもパルチザンは発生しない。
+  - [パルチザン](../Page/パルチザン.md "wikilink")の発生率は史実に忠実で、たとえば、ユーゴスラビアは暴動発生ポイント1以上でパルチザンが発生しやすくなり、フランスやポーランド、ソビエト、[イラク](../Page/イラク.md "wikilink")等では暴動発生ポイント40から60以上で発生しやすくなるが、北アフリカやイタリアでは暴動発生ポイント100でもパルチザンは発生しない。
   - 7つの海域（[北海](../Page/北海.md "wikilink")、[バルト海](../Page/バルト海.md "wikilink")、[イギリス海峡](../Page/イギリス海峡.md "wikilink")、[大西洋](../Page/大西洋.md "wikilink")、西[地中海](../Page/地中海.md "wikilink")、東地中海、[黒海](../Page/黒海.md "wikilink")）が設定されており、船舶ユニットの移動、出港、帰港及び[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")ユニット、[歩兵](../Page/歩兵.md "wikilink")ユニットの上陸の基準となる。
 
 ## ゲームの進行
@@ -33,17 +33,17 @@
 
 #### 外交交渉
 
-外交交渉では、[同盟締結](https://ja.wikipedia.org/wiki/軍事同盟 "wikilink")、同盟破棄、[停戦](https://ja.wikipedia.org/wiki/停戦 "wikilink")交渉、他国援助、[宣戦布告](https://ja.wikipedia.org/wiki/宣戦布告 "wikilink")コマンドを実行できる。
+外交交渉では、[同盟締結](https://ja.wikipedia.org/wiki/軍事同盟 "wikilink")、同盟破棄、[停戦](../Page/停戦.md "wikilink")交渉、他国援助、[宣戦布告](../Page/宣戦布告.md "wikilink")コマンドを実行できる。
 
   - 同盟締結:友好度が高い交戦状態にない国家と締結でき、締結した場合には宣戦布告コマンドを使用できなくなり、勝利ポイントが上昇する。対CPUでは、友好度が概ね90以上で成功しやすくなる。
     同盟破棄:同盟締結している国家に対して行えるコマンド。同盟破棄をした場合には宣戦布告コマンドを使用できるようになり、勝利ポイントが低下する。
-    停戦交渉:交戦状態にある国家に対して行えるコマンド。停戦交渉に成功した場合には敵国が[中立](https://ja.wikipedia.org/wiki/中立 "wikilink")国に変わり、敵国に存在していた自国のユニットがすべて消滅する。友好度が95以上で成功しやすくなる。
+    停戦交渉:交戦状態にある国家に対して行えるコマンド。停戦交渉に成功した場合には敵国が[中立](../Page/中立.md "wikilink")国に変わり、敵国に存在していた自国のユニットがすべて消滅する。友好度が95以上で成功しやすくなる。
     他国援助:交戦状態にない国家に対して行えるコマンド。実行すると相手国家の総生産力及び友好度が上昇する。
     宣戦布告:交戦状態及び同盟状態にない国家に対して行えるコマンド。実行すると相手国家と交戦状態になり、勝利ポイントが低下する。
 
 #### 諜報活動
 
-諜報活動では、[警察](https://ja.wikipedia.org/wiki/警察 "wikilink")強化、動乱支援、[情報](https://ja.wikipedia.org/wiki/情報 "wikilink")[統制](https://ja.wikipedia.org/wiki/統制 "wikilink")、[他国調査コマンドを実行できる](../Page/スパイ.md "wikilink")。
+諜報活動では、[警察](../Page/警察.md "wikilink")強化、動乱支援、[情報](https://ja.wikipedia.org/wiki/情報 "wikilink")[統制](https://ja.wikipedia.org/wiki/統制 "wikilink")、[他国調査コマンドを実行できる](../Page/スパイ.md "wikilink")。
 
   - 警察強化:自国の暴動発生ポイントを低下させ、自国の占領地域においてパルチザンの発生する確率が減少する。
     動乱支援:相手国家の暴動発生ポイントを上昇させ、相手国家の占領地域においてパルチザンの発生する確率が上昇する。
@@ -85,22 +85,22 @@
   - **[第二次欧州大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")**
       - 期間：1939秋 - 1946冬
       - 担当可能国：独英ソ米
-  - **[世界大戦](https://ja.wikipedia.org/wiki/ブラウ作戦 "wikilink")**
+  - **[世界大戦](../Page/ブラウ作戦.md "wikilink")**
       - 期間：1942春 - 1946冬
       - 担当可能国：独英ソ米
-  - **[ポーランド侵攻](https://ja.wikipedia.org/wiki/ポーランド侵攻 "wikilink")**
+  - **[ポーランド侵攻](../Page/ポーランド侵攻.md "wikilink")**
       - 期間：1939秋 - 1941春
       - 担当可能国：独英
   - **[バルバロッサ](../Page/バルバロッサ作戦.md "wikilink")**
       - 期間：1941夏 - 1943春
       - 担当可能国：独英ソ
-  - **[D-DAY](https://ja.wikipedia.org/wiki/ノルマンディー上陸作戦 "wikilink")**
+  - **[D-DAY](../Page/ノルマンディー上陸作戦.md "wikilink")**
       - 期間：1944春 - 1945冬
       - 担当可能国：独英ソ米
 
 ## 登場する国家
 
-  - プレイできる国家（ドイツ、アメリカ、イギリス、ソビエト）のほか、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")、[イタリア](../Page/イタリア王国.md "wikilink")、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")、[アイルランド](../Page/アイルランド.md "wikilink")、[ポルトガル](../Page/ポルトガル.md "wikilink")、[フィンランド](https://ja.wikipedia.org/wiki/フィンランド "wikilink")、[ノルウェー](../Page/ノルウェー.md "wikilink")、[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")、[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")、[スイス](../Page/スイス.md "wikilink")、[デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink")、[ポーランド](../Page/ポーランド.md "wikilink")、[ハンガリー](../Page/ハンガリー王国.md "wikilink")、[ユーゴスラビア](../Page/ユーゴスラビア.md "wikilink")、[ルーマニア](../Page/ルーマニア.md "wikilink")、[ブルガリア](../Page/ブルガリア.md "wikilink")、[ギリシア](https://ja.wikipedia.org/wiki/ギリシア "wikilink")、[トルコ](../Page/トルコ.md "wikilink")の合計23ヶ国が登場する。[第二次世界大戦の参戦国](https://ja.wikipedia.org/wiki/第二次世界大戦の参戦国 "wikilink")も参照。
+  - プレイできる国家（ドイツ、アメリカ、イギリス、ソビエト）のほか、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")、[イタリア](../Page/イタリア王国.md "wikilink")、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")、[アイルランド](../Page/アイルランド.md "wikilink")、[ポルトガル](../Page/ポルトガル.md "wikilink")、[フィンランド](../Page/フィンランド.md "wikilink")、[ノルウェー](../Page/ノルウェー.md "wikilink")、[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")、[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")、[スイス](../Page/スイス.md "wikilink")、[デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink")、[ポーランド](../Page/ポーランド.md "wikilink")、[ハンガリー](../Page/ハンガリー王国.md "wikilink")、[ユーゴスラビア](../Page/ユーゴスラビア.md "wikilink")、[ルーマニア](../Page/ルーマニア.md "wikilink")、[ブルガリア](../Page/ブルガリア.md "wikilink")、[ギリシア](https://ja.wikipedia.org/wiki/ギリシア "wikilink")、[トルコ](../Page/トルコ.md "wikilink")の合計23ヶ国が登場する。[第二次世界大戦の参戦国](../Page/第二次世界大戦の参戦国.md "wikilink")も参照。
 
 ## 登場国家の首都と指導者
 
@@ -109,8 +109,8 @@
 登場国家には、指導者がおり、イベントの発生で交代する場合がある。プレーヤーがソビエトを担当する場合は最初に宣戦布告した相手国によって連合国・枢軸国のいずれにもなることができる。
 
   - アメリカ
-      - 1938-1940 - [フランクリン・ルーズベルト](https://ja.wikipedia.org/wiki/フランクリン・ルーズベルト "wikilink")
-      - 1940-1944 - フランクリンルーズベルトまたは[ウェンデル・L・ウィルキー](https://ja.wikipedia.org/wiki/ウェンデル・L・ウィルキー "wikilink")（1940年の大統領選挙による）
+      - 1938-1940 - [フランクリン・ルーズベルト](../Page/フランクリン・ルーズベルト.md "wikilink")
+      - 1940-1944 - フランクリンルーズベルトまたは[ウェンデル・L・ウィルキー](../Page/ウェンデル・L・ウィルキー.md "wikilink")（1940年の大統領選挙による）
       - 1944-1945 - [ハリー・S・トルーマン](../Page/ハリー・S・トルーマン.md "wikilink")
   - イギリス
       - [ネヴィル・チェンバレン](../Page/ネヴィル・チェンバレン.md "wikilink")
@@ -134,9 +134,9 @@
   - ユーゴスラヴィア
       -
   - ブルガリア
-      - [ゲオルギ・ディミトロフ](https://ja.wikipedia.org/wiki/ゲオルギ・ディミトロフ "wikilink")（実際の元首としての任期は戦後）
+      - [ゲオルギ・ディミトロフ](../Page/ゲオルギ・ディミトロフ.md "wikilink")（実際の元首としての任期は戦後）
   - ギリシャ
-      - [イオアニス・メタクサス](https://ja.wikipedia.org/wiki/イオアニス・メタクサス "wikilink")
+      - [イオアニス・メタクサス](../Page/イオアニス・メタクサス.md "wikilink")
   - トルコ
       - [イスメト・イノニュ](../Page/イスメト・イノニュ.md "wikilink")
   - フィンランド
@@ -144,21 +144,21 @@
   - スウェーデン
       - [ペール・アルビン・ハンソン](https://ja.wikipedia.org/wiki/ペール・アルビン・ハンソン "wikilink")
   - ノルウェー
-      - [ホーコン7世](https://ja.wikipedia.org/wiki/ホーコン7世 "wikilink")
+      - [ホーコン7世](../Page/ホーコン7世.md "wikilink")
   - デンマーク
       -
   - オランダ
-      - [ウィルヘルミナ](https://ja.wikipedia.org/wiki/ウィルヘルミナ_\(オランダ女王\) "wikilink")
+      - [ウィルヘルミナ](../Page/ウィルヘルミナ_\(オランダ女王\).md "wikilink")
   - ベルギー
       - [レオポルド3世](https://ja.wikipedia.org/wiki/レオポルド3世 "wikilink")
   - スイス
-      - [アンリ・ギザン](https://ja.wikipedia.org/wiki/アンリ・ギザン "wikilink")
+      - [アンリ・ギザン](../Page/アンリ・ギザン.md "wikilink")
   - スペイン
       - [フランシスコ・フランコ](../Page/フランシスコ・フランコ.md "wikilink")
   - ポルトガル
       - [アントニオ・サラザール](../Page/アントニオ・サラザール.md "wikilink")
   - アイルランド
-      - [エイモン・デ・ヴァレラ](https://ja.wikipedia.org/wiki/エイモン・デ・ヴァレラ "wikilink")
+      - [エイモン・デ・ヴァレラ](../Page/エイモン・デ・ヴァレラ.md "wikilink")
 
 ## 外部リンク
 

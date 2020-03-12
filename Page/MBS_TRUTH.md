@@ -1,7 +1,7 @@
 > この記事は[MBS TRUTH](https://ja.wikipedia.org/wiki/MBS_TRUTH)から翻訳されています。
 
 
-**MBS TRUTH**（**エムビーエストゥルース**）は株式会社[テックアーツ](https://ja.wikipedia.org/wiki/テックアーツ "wikilink")の[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ブランド。旧名は「**MBS TRUSE**」。「MBS」は「May-Be SOFT」の略であり、[毎日放送](../Page/毎日放送.md "wikilink")（Mainichi Broadcasting System）とは一切無関係である。
+**MBS TRUTH**（**エムビーエストゥルース**）は株式会社[テックアーツ](../Page/テックアーツ.md "wikilink")の[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ブランド。旧名は「**MBS TRUSE**」。「MBS」は「May-Be SOFT」の略であり、[毎日放送](../Page/毎日放送.md "wikilink")（Mainichi Broadcasting System）とは一切無関係である。
 
 ## 概要
 
@@ -38,7 +38,7 @@
 
   - お姉さん中出し痴漢列車（アニメーションを追加した「The アニメ」版が後日発売）
   - もめ\!乳姉妹かていきょうし11人 〜生揺れムービー付き〜
-  - [“中出し”以外は校則違反\!\! 〜女子校祭・乗っ取り計画〜](https://ja.wikipedia.org/wiki/“中出し”以外は校則違反!!_〜女子校祭・乗っ取り計画〜 "wikilink")
+  - [“中出し”以外は校則違反\!\! 〜女子校祭・乗っ取り計画〜](../Page/“中出し”以外は校則違反!!_〜女子校祭・乗っ取り計画〜.md "wikilink")
   - 南国さく乳アイランド 〜妊娠させて\!?乳搾り〜
   - せーえき瞬間っ\!移動?\! 〜遠隔操作魔法で、いつでもどこでも膣内射精\!〜
   - ワルキューレ調教・ザーメンタンクの戦乙女10人姉妹 〜「女神である私達に貴方のザーメンを…」〜
@@ -73,7 +73,7 @@
 <!-- end list -->
 
   - [猫柳まんぼ](https://ja.wikipedia.org/wiki/猫柳まんぼ "wikilink")（山田びんご）
-  - [和泉万夜](https://ja.wikipedia.org/wiki/和泉万夜 "wikilink") - 元[Cycスタッフで現在フリー](https://ja.wikipedia.org/wiki/Cyc_\(ブランド\) "wikilink")
+  - [和泉万夜](https://ja.wikipedia.org/wiki/和泉万夜 "wikilink") - 元[Cycスタッフで現在フリー](../Page/Cyc_\(ブランド\).md "wikilink")
 
 ## エピソード
 

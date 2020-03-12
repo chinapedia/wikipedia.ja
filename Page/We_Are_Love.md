@@ -6,22 +6,22 @@
 ## 解説
 
   - ソニーの公式サイトでは「We Are Love/Kiss Me Please」と両A面表記になっている。
-  - アルバム『[We Are Love](https://ja.wikipedia.org/wiki/We_Are_Love_\(アルバム\) "wikilink")』にはデュエットの**English Version**が、約1年後に発売の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『[Bible](https://ja.wikipedia.org/wiki/Bible_\(アルバム\) "wikilink")』には**English Solo Version**が収録されている。
+  - アルバム『[We Are Love](https://ja.wikipedia.org/wiki/We_Are_Love_\(アルバム\) "wikilink")』にはデュエットの**English Version**が、約1年後に発売の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[Bible](../Page/Bible_\(アルバム\).md "wikilink")』には**English Solo Version**が収録されている。
   - 元々この曲は作曲者である鈴木祥子のデビューアルバム『VIRIDIAN』（1988年）のために作られた「I'LL BE THERE」（作詞：川村真澄）が原曲であるが、アルバムには収録されずお蔵入りとなっていた。その後、2011年リリースの鈴木祥子のベストアルバム『GOLDEN☆BEST Syoko. The Ballad of Syoko Suzuki』に未発表曲として初収録された。
 
 ## 収録曲
 
 1.  We Are Love
-      - 作詞:Seiko Matsuda／作曲：[鈴木祥子](https://ja.wikipedia.org/wiki/鈴木祥子 "wikilink")／編曲：[笹路正徳](https://ja.wikipedia.org/wiki/笹路正徳 "wikilink")
+      - 作詞:Seiko Matsuda／作曲：[鈴木祥子](../Page/鈴木祥子.md "wikilink")／編曲：[笹路正徳](../Page/笹路正徳.md "wikilink")
 2.  Kiss Me Please
-      - 作詞:Seiko Matsuda／作曲：[高橋諭一](https://ja.wikipedia.org/wiki/高橋諭一 "wikilink")／編曲：笹路正徳
+      - 作詞:Seiko Matsuda／作曲：[高橋諭一](../Page/高橋諭一.md "wikilink")／編曲：笹路正徳
 
 ## 関連作品
 
   - **We Are Love**
       - [Bible III](https://ja.wikipedia.org/wiki/Bible_III "wikilink")
-      - [Complete Bible](https://ja.wikipedia.org/wiki/Complete_Bible "wikilink")
-      - [Ballad 〜20th Anniversary](https://ja.wikipedia.org/wiki/Ballad_〜20th_Anniversary "wikilink")
+      - [Complete Bible](../Page/Complete_Bible.md "wikilink")
+      - [Ballad 〜20th Anniversary](../Page/Ballad_〜20th_Anniversary.md "wikilink")
       - [Premium Diamond Bible](https://ja.wikipedia.org/wiki/Premium_Diamond_Bible "wikilink")
       - [Diamond Bible](https://ja.wikipedia.org/wiki/Diamond_Bible "wikilink")
       - [Seiko Matsuda Best Ballad](https://ja.wikipedia.org/wiki/Seiko_Matsuda_Best_Ballad "wikilink")
@@ -29,7 +29,7 @@
   - **We Are Love （English Version）**
       - We Are Love
   - **We Are Love （English Solo Version）**
-      - [Bible](https://ja.wikipedia.org/wiki/Bible_\(アルバム\) "wikilink")
+      - [Bible](../Page/Bible_\(アルバム\).md "wikilink")
   - **Kiss Me Please**
       - We Are Love
       - Complete Bible

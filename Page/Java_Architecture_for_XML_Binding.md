@@ -7,11 +7,11 @@ JAXB は仕様が複雑で頻繁に変更される場合に特に便利である
 
 JAXB は [Java EE](../Page/Java_Platform,_Enterprise_Edition.md "wikilink") の [API](../Page/アプリケーションプログラミングインタフェース.md "wikilink") の一種であり、[Java Web Services Development Pack](https://ja.wikipedia.org/wiki/Java_Web_Services_Development_Pack "wikilink") (JWSDP) の一部でもある。[WSIT](https://ja.wikipedia.org/wiki/Web_Services_Interoperability_Technology "wikilink") の基盤の一部にもなっている。JAXB は Java SE version 1.6 にも含まれている。
 
-JAXB 1.0 は、[Java Community Process](https://ja.wikipedia.org/wiki/Java_Community_Process "wikilink") の JSR 31 において2003年に開発された。続いて2006年、JAXB 2.0 が JSR 222 において開発され、2017年9月にMaintenance Release 3がリリースされている\[1\]。[リファレンス実装](https://ja.wikipedia.org/wiki/リファレンス実装 "wikilink")は java.net に[CDDL](https://ja.wikipedia.org/wiki/CDDL "wikilink")ライセンスで公開されている。
+JAXB 1.0 は、[Java Community Process](../Page/Java_Community_Process.md "wikilink") の JSR 31 において2003年に開発された。続いて2006年、JAXB 2.0 が JSR 222 において開発され、2017年9月にMaintenance Release 3がリリースされている\[1\]。[リファレンス実装](../Page/リファレンス実装.md "wikilink")は java.net に[CDDL](https://ja.wikipedia.org/wiki/CDDL "wikilink")ライセンスで公開されている。
 
 ## 利用
 
-"xjc" ツールは、[XML Schemaや他のスキーマファイル形式](https://ja.wikipedia.org/wiki/XML_Schema "wikilink")（Java 1.6 では、[RELAX NG](https://ja.wikipedia.org/wiki/RELAX_NG "wikilink")、XML [DTD](../Page/Document_Type_Definition.md "wikilink") が実験的にサポートされている）をクラス表現に変換するのに使われる。クラス群は、javax.xml.bind.annotation.\* の名前空間（例えば @XmlRootElement や @XmlElement）から[アノテーション](https://ja.wikipedia.org/wiki/アノテーション "wikilink")を使ってマークアップされる。XML リストシーケンスは、java.util.List の属性を使って表現される。マーシャルとアンマーシャルを行うコードは JAXBContext のインスタンスを通して生成される。
+"xjc" ツールは、[XML Schemaや他のスキーマファイル形式](https://ja.wikipedia.org/wiki/XML_Schema "wikilink")（Java 1.6 では、[RELAX NG](../Page/RELAX_NG.md "wikilink")、XML [DTD](../Page/Document_Type_Definition.md "wikilink") が実験的にサポートされている）をクラス表現に変換するのに使われる。クラス群は、javax.xml.bind.annotation.\* の名前空間（例えば @XmlRootElement や @XmlElement）から[アノテーション](../Page/アノテーション.md "wikilink")を使ってマークアップされる。XML リストシーケンスは、java.util.List の属性を使って表現される。マーシャルとアンマーシャルを行うコードは JAXBContext のインスタンスを通して生成される。
 
 さらに、JAXB には "schemagen" ツールがある。これは基本的に "xjc" の逆を行うもので、アノテーション付きのクラス群のコードから XML Schema を生成する。
 
@@ -51,7 +51,7 @@ Java のデータ型の種類は XML Schema のものより豊富である。以
 
 ## 関連項目
 
-  - [XMLBeans](https://ja.wikipedia.org/wiki/XMLBeans "wikilink") – [Apacheソフトウェア財団](https://ja.wikipedia.org/wiki/Apacheソフトウェア財団 "wikilink")による JAXB と類似・関連する技術
+  - [XMLBeans](https://ja.wikipedia.org/wiki/XMLBeans "wikilink") – [Apacheソフトウェア財団](../Page/Apacheソフトウェア財団.md "wikilink")による JAXB と類似・関連する技術
 
 ## 参考文献
 
@@ -61,8 +61,8 @@ Java のデータ型の種類は XML Schema のものより豊富である。以
 
   - [JAXB home page](https://jaxb.dev.java.net/) on Project [GlassFish](https://ja.wikipedia.org/wiki/GlassFish "wikilink")
   - [従来の JAXB home page](http://java.sun.com/xml/jaxb/index.jsp)
-  - [JaxMe](http://ws.apache.org/jaxme/) – [Apacheソフトウェア財団](https://ja.wikipedia.org/wiki/Apacheソフトウェア財団 "wikilink")による JAXB の[オープンソース](../Page/オープンソース.md "wikilink")実装
-  - [EclipseLink MOXy](http://www.eclipse.org/eclipselink/) – [Eclipse Foundationによる](https://ja.wikipedia.org/wiki/Eclipse_Foundation "wikilink") JAXB の[オープンソース](../Page/オープンソース.md "wikilink")実装
+  - [JaxMe](http://ws.apache.org/jaxme/) – [Apacheソフトウェア財団](../Page/Apacheソフトウェア財団.md "wikilink")による JAXB の[オープンソース](../Page/オープンソース.md "wikilink")実装
+  - [EclipseLink MOXy](http://www.eclipse.org/eclipselink/) – [Eclipse Foundationによる](../Page/Eclipse_Foundation.md "wikilink") JAXB の[オープンソース](../Page/オープンソース.md "wikilink")実装
   - [JSR 222](http://www.jcp.org/en/jsr/detail?id=222) (JAXB 2.0)
   - [JSR 31](http://www.jcp.org/en/jsr/detail?id=31) (JAXB 1.0)
   - [JAXB chapter of the Java EE 5 Tutorial](http://java.sun.com/javaee/5/docs/tutorial/doc/bnazf.html)

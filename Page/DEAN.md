@@ -1,16 +1,16 @@
 > この記事は[DEAN](https://ja.wikipedia.org/wiki/DEAN)から翻訳されています。
 
 
-**DEAN**（ディーン、[1981年](../Page/1981年.md "wikilink")[2月18日](../Page/2月18日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ファッションモデル](https://ja.wikipedia.org/wiki/ファッションモデル "wikilink")、[DJ](../Page/ディスクジョッキー.md "wikilink")、[ファッションデザイナー](../Page/ファッションデザイナー.md "wikilink")。
+**DEAN**（ディーン、[1981年](../Page/1981年.md "wikilink")[2月18日](../Page/2月18日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ファッションモデル](../Page/ファッションモデル.md "wikilink")、[DJ](../Page/ディスクジョッキー.md "wikilink")、[ファッションデザイナー](../Page/ファッションデザイナー.md "wikilink")。
 
-[兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")出身。[ギグマネジメントジャパン](https://ja.wikipedia.org/wiki/ギグマネジメントジャパン "wikilink")所属。
+[兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")出身。[ギグマネジメントジャパン](../Page/ギグマネジメントジャパン.md "wikilink")所属。
 
 ## 人物・来歴
 
   - 父親がアメリカ人で母親が日本人のハーフ。
   - 特技は[ギター](../Page/ギター.md "wikilink")、[バスケットボール](../Page/バスケットボール.md "wikilink")、[クラブDJ](../Page/ディスクジョッキー.md "wikilink")、[剣道](../Page/剣道.md "wikilink")は初段。
   - ストリート系[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")のモデルとして活躍している。
-  - [MTV JAPAN](https://ja.wikipedia.org/wiki/MTV_JAPAN "wikilink")、Chord:Bashで[VJをつとめていた](https://ja.wikipedia.org/wiki/ビデオジョッキー "wikilink")。
+  - [MTV JAPAN](https://ja.wikipedia.org/wiki/MTV_JAPAN "wikilink")、Chord:Bashで[VJをつとめていた](../Page/ビデオジョッキー.md "wikilink")。
   - オリジナルブランド**tetei**をプロデュースしている（休止中）。
   - ファッション・ブランド「Agitator アジテーター」のディレクターを務める。
   - バンド活動もしており**BASK IN THE SUN（2008年12月に解散）**や**ALLIES AND ACES（2008年12月解散）**でギタリストとして活動。
@@ -24,7 +24,7 @@
 
 ### CM
 
-  - [P\&G](https://ja.wikipedia.org/wiki/プロクター・アンド・ギャンブル・ジャパン "wikilink")「[VIDAL SASSOON](https://ja.wikipedia.org/wiki/ヴィダルサスーン "wikilink")」
+  - [P\&G](../Page/プロクター・アンド・ギャンブル・ジャパン.md "wikilink")「[VIDAL SASSOON](https://ja.wikipedia.org/wiki/ヴィダルサスーン "wikilink")」
   - [NTTコミュニケーションズ](../Page/NTTコミュニケーションズ.md "wikilink")
   - [資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")
   - [KDDI](../Page/KDDI.md "wikilink")
@@ -42,7 +42,7 @@
   - [Phenix OUTDOOR](https://ja.wikipedia.org/wiki/Phenix_OUTDOOR "wikilink")
   - [glamb](https://ja.wikipedia.org/wiki/glamb "wikilink")
   - [EPSON](https://ja.wikipedia.org/wiki/EPSON "wikilink")
-  - [東京モード学園](https://ja.wikipedia.org/wiki/東京モード学園 "wikilink")
+  - [東京モード学園](../Page/東京モード学園.md "wikilink")
   - [COMME CA DU MODE](https://ja.wikipedia.org/wiki/COMME_CA_DU_MODE "wikilink")
 
 ### SHOW
@@ -56,18 +56,18 @@
 
 ### PV
 
-  - [BOOM BOOM SATELLITES](https://ja.wikipedia.org/wiki/BOOM_BOOM_SATELLITES "wikilink") 「PILL」
+  - [BOOM BOOM SATELLITES](../Page/BOOM_BOOM_SATELLITES.md "wikilink") 「PILL」
 
 ### 雑誌
 
-  - [MEN'S NON-NO](https://ja.wikipedia.org/wiki/MEN'S_NON-NO "wikilink")
+  - [MEN'S NON-NO](../Page/MEN'S_NON-NO.md "wikilink")
   - [RUDE](https://ja.wikipedia.org/wiki/RUDE "wikilink")
   - [ランドネ](https://ja.wikipedia.org/wiki/ランドネ "wikilink")
   - [houynhnhm](https://ja.wikipedia.org/wiki/houynhnhm "wikilink")
   - [GO OUT](https://ja.wikipedia.org/wiki/GO_OUT "wikilink")
   - [smart](https://ja.wikipedia.org/wiki/smart_\(雑誌\) "wikilink")
   - [smart HEAD](https://ja.wikipedia.org/wiki/smart_HEAD "wikilink")
-  - [POPEYE](https://ja.wikipedia.org/wiki/POPEYE "wikilink")
+  - [POPEYE](../Page/POPEYE.md "wikilink")
   - [DAZED\&CONFUSED](https://ja.wikipedia.org/wiki/DAZED&CONFUSED "wikilink")
   - [Boon](https://ja.wikipedia.org/wiki/Boon "wikilink")
   - [FINEBOYS](https://ja.wikipedia.org/wiki/FINEBOYS "wikilink")
@@ -87,8 +87,8 @@
   - [cub](https://ja.wikipedia.org/wiki/cub "wikilink")
   - [the TAG](https://ja.wikipedia.org/wiki/the_TAG "wikilink")
   - [SAMURAI MAGAZINE](https://ja.wikipedia.org/wiki/SAMURAI_MAGAZINE "wikilink")
-  - [Zipper](https://ja.wikipedia.org/wiki/Zipper "wikilink")
-  - [JILLE](https://ja.wikipedia.org/wiki/JILLE "wikilink")
+  - [Zipper](../Page/Zipper.md "wikilink")
+  - [JILLE](../Page/JILLE.md "wikilink")
   - [TUNE](https://ja.wikipedia.org/wiki/TUNE "wikilink")
       - [WITH](https://ja.wikipedia.org/wiki/WITH "wikilink")
 

@@ -1,19 +1,19 @@
 > この記事は[ALEX \(\)](https://ja.wikipedia.org/wiki/ALEX_\(\))から翻訳されています。
 
 
-**ALEX**（アレク、[1988年](../Page/1988年.md "wikilink")[3月19日](../Page/3月19日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ファッションモデル](https://ja.wikipedia.org/wiki/ファッションモデル "wikilink")、[俳優](../Page/俳優.md "wikilink")、[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")。ロックバンド「[ONE OK ROCK](https://ja.wikipedia.org/wiki/ONE_OK_ROCK "wikilink")」の元[ギタリスト](../Page/ギタリスト.md "wikilink")。本名は**鬼澤アレクサンダー礼門**（おにざわアレクサンダーれいもん）で、**鬼澤 礼門**の名で[写真家](../Page/写真家.md "wikilink")として活動している。
+**ALEX**（アレク、[1988年](../Page/1988年.md "wikilink")[3月19日](../Page/3月19日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ファッションモデル](../Page/ファッションモデル.md "wikilink")、[俳優](../Page/俳優.md "wikilink")、[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")。ロックバンド「[ONE OK ROCK](../Page/ONE_OK_ROCK.md "wikilink")」の元[ギタリスト](../Page/ギタリスト.md "wikilink")。本名は**鬼澤アレクサンダー礼門**（おにざわアレクサンダーれいもん）で、**鬼澤 礼門**の名で[写真家](../Page/写真家.md "wikilink")として活動している。
 
 ## 来歴
 
-1988年に[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")で出生\[1\]。[日本人](https://ja.wikipedia.org/wiki/日本人 "wikilink")と[アメリカ人](https://ja.wikipedia.org/wiki/アメリカ人 "wikilink")を親に持つ[ハーフである](https://ja.wikipedia.org/wiki/混血 "wikilink")。
+1988年に[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")で出生\[1\]。[日本人](https://ja.wikipedia.org/wiki/日本人 "wikilink")と[アメリカ人](https://ja.wikipedia.org/wiki/アメリカ人 "wikilink")を親に持つ[ハーフである](../Page/混血.md "wikilink")。
 
-出生翌年の1989年に日本へ移住。[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")で育ち\[2\]、[堀越高等学校](https://ja.wikipedia.org/wiki/堀越高等学校 "wikilink")を卒業する\[3\]。バンド活動以前にファッションモデルとして活動しており、日本の男性向け[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")を中心に活動していた\[4\]。
+出生翌年の1989年に日本へ移住。[東京都](../Page/東京都.md "wikilink")で育ち\[2\]、[堀越高等学校](../Page/堀越高等学校.md "wikilink")を卒業する\[3\]。バンド活動以前にファッションモデルとして活動しており、日本の男性向け[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")を中心に活動していた\[4\]。
 
-2009年4月5日、[東急田園都市線](https://ja.wikipedia.org/wiki/東急田園都市線 "wikilink")の運行列車内で当時21歳の女性の足を触ったとして、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[迷惑行為防止条例違反の疑いで逮捕](https://ja.wikipedia.org/wiki/迷惑防止条例 "wikilink")\[5\]。取り調べに対し本人は、当時酒を飲んでおり「好みの女性だったので手を出してしまった」と供述している\[6\]。不起訴処分となったが、2009年5月13日にバンドを脱退する\[7\]。
+2009年4月5日、[東急田園都市線](https://ja.wikipedia.org/wiki/東急田園都市線 "wikilink")の運行列車内で当時21歳の女性の足を触ったとして、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[迷惑行為防止条例違反の疑いで逮捕](../Page/迷惑防止条例.md "wikilink")\[5\]。取り調べに対し本人は、当時酒を飲んでおり「好みの女性だったので手を出してしまった」と供述している\[6\]。不起訴処分となったが、2009年5月13日にバンドを脱退する\[7\]。
 
 その後は渡米し、自身の生まれ故郷であるサンフランシスコに滞在。単身での[アメリカ大陸横断を決行した後](../Page/北アメリカ大陸.md "wikilink")、2011年に日本へ戻る\[8\]。
 
-日本への帰国とともにカメラマンアシスタントとしての活動を開始し、2014年から写真家の石黒淳二に師事。そして2017年に独立し\[9\]、以後は写真家として活動している。なお、過去には[ギグマネジメントジャパン](https://ja.wikipedia.org/wiki/ギグマネジメントジャパン "wikilink")と[アミューズ](https://ja.wikipedia.org/wiki/アミューズ "wikilink")に所属していたが\[10\]\[11\]、写真家への転身後にはトーチ・リンクに所属している\[12\]。
+日本への帰国とともにカメラマンアシスタントとしての活動を開始し、2014年から写真家の石黒淳二に師事。そして2017年に独立し\[9\]、以後は写真家として活動している。なお、過去には[ギグマネジメントジャパン](../Page/ギグマネジメントジャパン.md "wikilink")と[アミューズ](https://ja.wikipedia.org/wiki/アミューズ "wikilink")に所属していたが\[10\]\[11\]、写真家への転身後にはトーチ・リンクに所属している\[12\]。
 
 ## 人物
 
@@ -28,17 +28,17 @@
 
 ### 雑誌
 
-  - [MEN'S NON-NO](https://ja.wikipedia.org/wiki/MEN'S_NON-NO "wikilink")（[集英社](../Page/集英社.md "wikilink")）
-  - [MR. High Fashion](https://ja.wikipedia.org/wiki/ハイファッション "wikilink")（[文化出版局](https://ja.wikipedia.org/wiki/文化服装学院#文化出版局 "wikilink")）
-  - [POPEYE](https://ja.wikipedia.org/wiki/POPEYE "wikilink")（[マガジンハウス](https://ja.wikipedia.org/wiki/マガジンハウス "wikilink")）
+  - [MEN'S NON-NO](../Page/MEN'S_NON-NO.md "wikilink")（[集英社](../Page/集英社.md "wikilink")）
+  - [MR. High Fashion](../Page/ハイファッション.md "wikilink")（[文化出版局](https://ja.wikipedia.org/wiki/文化服装学院#文化出版局 "wikilink")）
+  - [POPEYE](../Page/POPEYE.md "wikilink")（[マガジンハウス](../Page/マガジンハウス.md "wikilink")）
   - [FINEBOYS](https://ja.wikipedia.org/wiki/FINEBOYS "wikilink")（[日之出出版](https://ja.wikipedia.org/wiki/日之出出版 "wikilink")）
-  - [Boon](https://ja.wikipedia.org/wiki/Boon_\(雑誌\) "wikilink")（[祥伝社](https://ja.wikipedia.org/wiki/祥伝社 "wikilink")）
-  - [Men's JOKER](https://ja.wikipedia.org/wiki/Men's_JOKER "wikilink")（[KKベストセラーズ](https://ja.wikipedia.org/wiki/ベストセラーズ "wikilink")）
+  - [Boon](https://ja.wikipedia.org/wiki/Boon_\(雑誌\) "wikilink")（[祥伝社](../Page/祥伝社.md "wikilink")）
+  - [Men's JOKER](../Page/Men's_JOKER.md "wikilink")（[KKベストセラーズ](../Page/ベストセラーズ.md "wikilink")）
 
 ### 広告
 
-  - [リーバイス](https://ja.wikipedia.org/wiki/リーバイス "wikilink")
-  - [ルミネ](https://ja.wikipedia.org/wiki/ルミネ "wikilink")
+  - [リーバイス](../Page/リーバイス.md "wikilink")
+  - [ルミネ](../Page/ルミネ.md "wikilink")
   - [NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")
 
 ### ショー
@@ -49,7 +49,7 @@
 
 ### 映画
 
-  - [愛してよ](https://ja.wikipedia.org/wiki/愛してよ "wikilink")（2005年） - 高原タカシ 役
+  - [愛してよ](../Page/愛してよ.md "wikilink")（2005年） - 高原タカシ 役
 
 ## 脚注
 

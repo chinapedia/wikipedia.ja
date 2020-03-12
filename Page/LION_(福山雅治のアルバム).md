@@ -1,7 +1,7 @@
 > この記事は[LION \(\)](https://ja.wikipedia.org/wiki/LION_\(\))から翻訳されています。
 
 
-『**LION**』（ライオン）は、[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")が[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")[3月21日](https://ja.wikipedia.org/wiki/3月21日 "wikilink")にリリースした2枚目のオリジナル[アルバム](../Page/アルバム.md "wikilink")である。
+『**LION**』（ライオン）は、[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")が[1991年](../Page/1991年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")にリリースした2枚目のオリジナル[アルバム](../Page/アルバム.md "wikilink")である。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 1.  **もう君はいない**
       -
-        （作詞：[松本一起](https://ja.wikipedia.org/wiki/松本一起 "wikilink") / 作曲：福山雅治 / 編曲：中村修司）
+        （作詞：[松本一起](../Page/松本一起.md "wikilink") / 作曲：福山雅治 / 編曲：中村修司）
 2.  **このままRain**
       -
         （作詞・作曲：福山雅治 / 編曲：中村修司）

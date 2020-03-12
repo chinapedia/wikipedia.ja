@@ -1,13 +1,13 @@
 > この記事は[GAZ-AA](https://ja.wikipedia.org/wiki/GAZ-AA)から翻訳されています。
 
 
-**GAZ-AA**（）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[フォード AA トラックを原型として](https://ja.wikipedia.org/wiki/:en:Ford_Model_AA "wikilink")、[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")において生産された[トラックである](../Page/貨物自動車.md "wikilink")。生産はゴーリキー自動車工場（ゴーリキー・アフタマヴィーリヌイ・ザヴォート、[GAZ](https://ja.wikipedia.org/wiki/GAZ "wikilink")）が担当。[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中は[軍用車両](../Page/軍用車両.md "wikilink")としても多用された。1.5トンの積載量にちなみ、ПОЛУТОРКА（ポルトルカ：1.5の意）の愛称で呼ばれた。
+**GAZ-AA**（）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[フォード AA トラックを原型として](https://ja.wikipedia.org/wiki/:en:Ford_Model_AA "wikilink")、[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")において生産された[トラックである](../Page/貨物自動車.md "wikilink")。生産はゴーリキー自動車工場（ゴーリキー・アフタマヴィーリヌイ・ザヴォート、[GAZ](../Page/GAZ.md "wikilink")）が担当。[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中は[軍用車両](../Page/軍用車両.md "wikilink")としても多用された。1.5トンの積載量にちなみ、ПОЛУТОРКА（ポルトルカ：1.5の意）の愛称で呼ばれた。
 
 ## 解説
 
-[1930年代](../Page/1930年代.md "wikilink")初頭、ソビエト連邦はアメリカの[フォード社より](https://ja.wikipedia.org/wiki/フォード・モーター "wikilink")、乗用車の[フォード・モデルAおよび](https://ja.wikipedia.org/wiki/:en:Ford_Model_A_\(1927–31\) "wikilink")[トラックの](../Page/貨物自動車.md "wikilink")[フォード・モデルAA](https://ja.wikipedia.org/wiki/:en:Ford_Model_AA "wikilink")1930年型の[ライセンス生産](https://ja.wikipedia.org/wiki/ライセンス生産 "wikilink")権を取得。フォードとの共同事業として設立された[ニジニ・ノヴゴロド](../Page/ニジニ・ノヴゴロド.md "wikilink")自動車工場（NAZ）で生産に入った。
+[1930年代](../Page/1930年代.md "wikilink")初頭、ソビエト連邦はアメリカの[フォード社より](../Page/フォード・モーター.md "wikilink")、乗用車の[フォード・モデルAおよび](https://ja.wikipedia.org/wiki/:en:Ford_Model_A_\(1927–31\) "wikilink")[トラックの](../Page/貨物自動車.md "wikilink")[フォード・モデルAA](https://ja.wikipedia.org/wiki/:en:Ford_Model_AA "wikilink")1930年型の[ライセンス生産](../Page/ライセンス生産.md "wikilink")権を取得。フォードとの共同事業として設立された[ニジニ・ノヴゴロド](../Page/ニジニ・ノヴゴロド.md "wikilink")自動車工場（NAZ）で生産に入った。
 
-ソ連製の最初のAAは[1932年](../Page/1932年.md "wikilink")1月29日に完成。同年、都市名の変更に伴い、工場名がゴーリキー自動車工場になると、車輌名も**NAZ-AA**から**GAZ-AA**となった。入手できる資材の都合、ソ連独自の改良などにより、生産途中にさまざまな仕様変更が導入されている。ただし、水冷直列4気筒の[サイドバルブ](https://ja.wikipedia.org/wiki/サイドバルブ "wikilink")エンジンと、指針でなくボビンメータが回転する前期型フォード・モデルA系流儀の速度計は、戦時中までの四輪駆動車を含むGAZ車に引き継がれた。
+ソ連製の最初のAAは[1932年](../Page/1932年.md "wikilink")1月29日に完成。同年、都市名の変更に伴い、工場名がゴーリキー自動車工場になると、車輌名も**NAZ-AA**から**GAZ-AA**となった。入手できる資材の都合、ソ連独自の改良などにより、生産途中にさまざまな仕様変更が導入されている。ただし、水冷直列4気筒の[サイドバルブ](../Page/サイドバルブ.md "wikilink")エンジンと、指針でなくボビンメータが回転する前期型フォード・モデルA系流儀の速度計は、戦時中までの四輪駆動車を含むGAZ車に引き継がれた。
 
 [1938年](../Page/1938年.md "wikilink")からは[エンジン](../Page/エンジン.md "wikilink")が40hpから50hpへと強化され、このエンジン強化型は**GAZ-MM**と呼ばれ、戦後の[1950年](../Page/1950年.md "wikilink")まで生産された。
 
@@ -18,17 +18,17 @@
 ## 派生型
 
   - GAZ-AAA
-    後輪を2軸に増やした6×4タイプの[トラックで](../Page/貨物自動車.md "wikilink")、6輪のフォード・ティムケン・トラックに基づき製作された。積載量は2トン。[1934年](../Page/1934年.md "wikilink")-[1943年](../Page/1943年.md "wikilink")にかけ、37,000輌あまりが生産された。後期の生産型は[エンジン](../Page/エンジン.md "wikilink")がGAZ-MMと同じく強化されている。また、その[シャーシは](https://ja.wikipedia.org/wiki/シャシ_\(自動車\) "wikilink")、6輪[装甲車](../Page/装甲車.md "wikilink")[BA-3](https://ja.wikipedia.org/wiki/BA-3 "wikilink")、[BA-6](https://ja.wikipedia.org/wiki/BA-6 "wikilink")、[BA-10](https://ja.wikipedia.org/wiki/BA-10 "wikilink")などのベースとしても活用された。
+    後輪を2軸に増やした6×4タイプの[トラックで](../Page/貨物自動車.md "wikilink")、6輪のフォード・ティムケン・トラックに基づき製作された。積載量は2トン。[1934年](../Page/1934年.md "wikilink")-[1943年](../Page/1943年.md "wikilink")にかけ、37,000輌あまりが生産された。後期の生産型は[エンジン](../Page/エンジン.md "wikilink")がGAZ-MMと同じく強化されている。また、その[シャーシは](../Page/シャシ_\(自動車\).md "wikilink")、6輪[装甲車](../Page/装甲車.md "wikilink")[BA-3](https://ja.wikipedia.org/wiki/BA-3 "wikilink")、[BA-6](https://ja.wikipedia.org/wiki/BA-6 "wikilink")、[BA-10](https://ja.wikipedia.org/wiki/BA-10 "wikilink")などのベースとしても活用された。
   - GAZ-410
-    GAZ-AAおよびGAZ-MMをベースに作られた[ダンプ・トラック](https://ja.wikipedia.org/wiki/ダンプカー "wikilink")。積載量1.2トン。[1934年](../Page/1934年.md "wikilink")から[1946年](../Page/1946年.md "wikilink")にかけて生産された。
+    GAZ-AAおよびGAZ-MMをベースに作られた[ダンプ・トラック](../Page/ダンプカー.md "wikilink")。積載量1.2トン。[1934年](../Page/1934年.md "wikilink")から[1946年](../Page/1946年.md "wikilink")にかけて生産された。
   - GAZ-42
     [木炭ガス発生装置付きバリエーション](https://ja.wikipedia.org/wiki/木炭自動車 "wikilink")。ガソリン不足に対応し[1938年](../Page/1938年.md "wikilink")から[1950年](../Page/1950年.md "wikilink")にかけて生産された。ガソリンエンジン車と比べ低馬力・低速だった。
   - GAZ-55
-    GAZ-AAおよびGAZ-MMをベースに作られた[救急車](https://ja.wikipedia.org/wiki/救急車 "wikilink")。[1938年](../Page/1938年.md "wikilink")から[1945年](../Page/1945年.md "wikilink")にかけて生産された。第二次大戦中、赤軍で最も多く使われた救急車だった。
+    GAZ-AAおよびGAZ-MMをベースに作られた[救急車](../Page/救急車.md "wikilink")。[1938年](../Page/1938年.md "wikilink")から[1945年](../Page/1945年.md "wikilink")にかけて生産された。第二次大戦中、赤軍で最も多く使われた救急車だった。
   - GAZ-60
-    [ハーフトラック型](https://ja.wikipedia.org/wiki/半装軌車 "wikilink")。
+    [ハーフトラック型](../Page/半装軌車.md "wikilink")。
   - GAZ-65
-    [1940年](../Page/1940年.md "wikilink")に試作された[ハーフトラック型](https://ja.wikipedia.org/wiki/半装軌車 "wikilink")。
+    [1940年](../Page/1940年.md "wikilink")に試作された[ハーフトラック型](../Page/半装軌車.md "wikilink")。
   - GAZ-03-30
     GAZ-AAおよびGAZ-MMをベースに作られた[バス](../Page/バス_\(交通機関\).md "wikilink")。運転手1名、乗客16名。[1933年](../Page/1933年.md "wikilink")にGAZ-3の名称で生産が始まり、[1936年](../Page/1936年.md "wikilink")にGAZ-03-30と改称された。戦前、最も一般的に使われたバスであり、戦時中は兵員輸送やスタッフ・カー、救急車としても使用された。[1950年](../Page/1950年.md "wikilink")までに1万5000輌近くが生産された。
   - GAZ-05-193

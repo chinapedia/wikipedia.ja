@@ -1,11 +1,11 @@
 > この記事は[Trust my feelings](https://ja.wikipedia.org/wiki/Trust_my_feelings)から翻訳されています。
 
 
-「**Trust my feelings**」（トラスト マイ フィーリングス）は、[柴咲コウ](https://ja.wikipedia.org/wiki/柴咲コウ "wikilink")のデビュー[シングル](../Page/シングル.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")発売。発売元は[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。
+「**Trust my feelings**」（トラスト マイ フィーリングス）は、[柴咲コウ](https://ja.wikipedia.org/wiki/柴咲コウ "wikilink")のデビュー[シングル](../Page/シングル.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")発売。発売元は[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
 
 ## 解説
 
-発売当時、[ニッポン放送](../Page/ニッポン放送.md "wikilink")「[グローバーのウラナイ\!](https://ja.wikipedia.org/wiki/グローバーのウラナイ! "wikilink")」内で「柴咲コウ 夢の印税生活」というコーナーを持っていた。歌詞は[リスナー](https://ja.wikipedia.org/wiki/リスナー "wikilink")から募集したもの。
+発売当時、[ニッポン放送](../Page/ニッポン放送.md "wikilink")「[グローバーのウラナイ\!](https://ja.wikipedia.org/wiki/グローバーのウラナイ! "wikilink")」内で「柴咲コウ 夢の印税生活」というコーナーを持っていた。歌詞は[リスナー](../Page/リスナー.md "wikilink")から募集したもの。
 
 オリジナルアルバムには収録されず、「Trust my feelings」は2008年のベストアルバム『[Single Best](https://ja.wikipedia.org/wiki/Single_Best_\(柴咲コウのアルバム\) "wikilink")』に「no fear」は同じく2008年の『[The Back Best](https://ja.wikipedia.org/wiki/The_Back_Best "wikilink")』に初めて収録される運びとなった。
 
@@ -16,7 +16,7 @@
 1.  **Trust my feelings**
     （作詞:[原口睦](https://ja.wikipedia.org/wiki/原口睦 "wikilink")　補作詞:[山本成美](https://ja.wikipedia.org/wiki/山本成美 "wikilink")　作曲:[久保田光太郎](https://ja.wikipedia.org/wiki/久保田光太郎 "wikilink")　編曲:[家原正樹](https://ja.wikipedia.org/wiki/家原正樹 "wikilink")）
       -
-        LF系「[LF+R](https://ja.wikipedia.org/wiki/LF+R "wikilink")ウラナイ\! プロジェクト第一弾\!」テーマソング
+        LF系「[LF+R](../Page/LF+R.md "wikilink")ウラナイ\! プロジェクト第一弾\!」テーマソング
 2.  **no fear**
     （作詞:柴咲コウ　作曲:[林浩司](https://ja.wikipedia.org/wiki/林浩司 "wikilink")　編曲:[中村哲](../Page/中村哲_\(作曲家\).md "wikilink")）
 3.  **Trust my feelings (Backing Track)**
@@ -67,7 +67,7 @@
 
 1.  以下のインタビューを参照。
 2.  映像と音源は編集され、『Ko Shibasaki Live リリカル＊ワンダー＊パーティー 2012』として[2013年](../Page/2013年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")にCD\&DVDがリリースされている。
-3.  [9月30日](../Page/9月30日.md "wikilink")に[東京](https://ja.wikipedia.org/wiki/東京 "wikilink")[池上本門寺](../Page/池上本門寺.md "wikilink")、[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")の中秋の名月を挟んで、[10月9日](../Page/10月9日.md "wikilink")に[京都](https://ja.wikipedia.org/wiki/京都 "wikilink")[平安神宮](https://ja.wikipedia.org/wiki/平安神宮 "wikilink")の2夜。
+3.  [9月30日](../Page/9月30日.md "wikilink")に[東京](../Page/東京.md "wikilink")[池上本門寺](../Page/池上本門寺.md "wikilink")、[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")の中秋の名月を挟んで、[10月9日](../Page/10月9日.md "wikilink")に[京都](https://ja.wikipedia.org/wiki/京都 "wikilink")[平安神宮](../Page/平安神宮.md "wikilink")の2夜。
 4.
 5.
 6.

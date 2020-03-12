@@ -1,13 +1,13 @@
 > この記事は[CRYSTAL LAKE](https://ja.wikipedia.org/wiki/CRYSTAL_LAKE)から翻訳されています。
 
 
-**CRYSTAL LAKE**(**クリスタル・レイク**)は、[東京](https://ja.wikipedia.org/wiki/東京 "wikilink")を拠点に活動している[メタルコア](https://ja.wikipedia.org/wiki/メタルコア "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。
+**CRYSTAL LAKE**(**クリスタル・レイク**)は、[東京](../Page/東京.md "wikilink")を拠点に活動している[メタルコア](../Page/メタルコア.md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。
 
 ## メンバー
 
   - Ryo（リョウ、木下遼、*Ryo Kinoshita*） - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
       - 元INFECTION。
-  - YD（ワイディー、宮本雄大、*Yudai "YD" Miyamoto*） - [ギター](../Page/ギター.md "wikilink")、[キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")
+  - YD（ワイディー、宮本雄大、*Yudai "YD" Miyamoto*） - [ギター](../Page/ギター.md "wikilink")、[キーボード](../Page/キーボード_\(楽器\).md "wikilink")
   - Shinya（シンヤ、*Shinya Hori*） - [ギター](../Page/ギター.md "wikilink")
 
 ### サポートメンバー
@@ -23,13 +23,13 @@
 
 ### 旧メンバー
 
-  - Kentaro - [ボーカル](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")（2002年 - 2011年6月）
-  - Yusuke - [ドラム](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")（2002年 - 2012年3月）
-  - Yasuyuki Kotaka - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")（不明 - 2015年8月）
+  - Kentaro - [ボーカル](../Page/ベース_\(弦楽器\).md "wikilink")（2002年 - 2011年6月）
+  - Yusuke - [ドラム](../Page/ベース_\(弦楽器\).md "wikilink")（2002年 - 2012年3月）
+  - Yasuyuki Kotaka - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")（不明 - 2015年8月）
 
 ※上記3名は2017年のTRUE NORTH FESにてCrystal Lake Reunionとして現メンバーのYDとShinyaと共に１日限りの復活ライブを披露した。
 
-  - Teruki Takahashi - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")（2015年8月 - 2016年9月）\[1\]
+  - Teruki Takahashi - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")（2015年8月 - 2016年9月）\[1\]
 
 ## 歴史
 
@@ -44,22 +44,22 @@
   - 6月 2nd Demo 「One Word Changes Everything...」をリリース。
   - 9月 1st Single 「Freewill」を限定1000枚リリースし、Day Of Contempt (Australia)来日公演(全5公演)のサポートを務める。
 
-**[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")**
+**[2004年](../Page/2004年.md "wikilink")**
 
   - 3月 3way Split 「Blood Of Judas」をリリース。その後、3月から5月にかけてBlood Of Judas Tourと題して3バンドで全国ツアーを行う。
 
-**[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")**
+**[2005年](../Page/2005年.md "wikilink")**
 
   - 4月 Alliance Traxより 「Crystal Lake / Risen (USA) / Unboy」 3way Splitをリリース。
   - 年末から2006年1月にかけて、マレーシアのDyslexia Records招聘によるマレーシアツアーを敢行。しかし、大晦日のクアラルンプールでの公演が現地警察の妨害によりイベント自体キャンセルとなってしまう。
 
-**[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")**
+**[2006年](../Page/2006年.md "wikilink")**
 
   - 3月 国内外から様々なアーティストが出演する、日本最大級のインディーミュージックフェスティバル 『INDEPENDENCE-D 2006』に出演。
   - 7月 Imperium Recordingsより1st Album 『Dimension』をリリース。
   - 8月から11月にかけて全国13箇所をまわる 『Dimension Tour 2006』を行う。
 
-**[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")**
+**[2007年](../Page/2007年.md "wikilink")**
 
   - 2月 渋谷Cycloneにて行われたHowling Bull主催 『METAL PRESENTATION '07』に出演。I Killed The Prom Queen (Australia), United, Chthonic (Taiwan)と共演する。
   - 3月 Hatebreed (USA) Japan Tour 2007のオープニングアクトを務める。
@@ -68,7 +68,7 @@
 **[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")**
 
   - 5月 メロディックハードコアバンドCleaveとのSplitをリリースし、レコ発ツアーを行う。
-  - 11月 昨年同様Battle Of The Bands 2008にて出場権を勝ち取り、『Rockstar Taste Of Chaos 2008』東京公演へ2年連続オープニングアクトとして出演。As I Lay Dying (USA), Story Of The Year (USA), [MUCC](https://ja.wikipedia.org/wiki/MUCC "wikilink")と共演。
+  - 11月 昨年同様Battle Of The Bands 2008にて出場権を勝ち取り、『Rockstar Taste Of Chaos 2008』東京公演へ2年連続オープニングアクトとして出演。As I Lay Dying (USA), Story Of The Year (USA), [MUCC](../Page/MUCC.md "wikilink")と共演。
 
 **[2009年](../Page/2009年.md "wikilink")**
 
@@ -391,21 +391,21 @@ CUBE-1002:LP</p></td>
 </tr>
 <tr class="even">
 <td><p>2015年01月21日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SWANKY_DANK" title="wikilink">SWANKY DANK</a> / Magna Carta</p></td>
+<td><p><a href="../Page/SWANKY_DANK.md" title="wikilink">SWANKY DANK</a> / Magna Carta</p></td>
 <td><p>GMRF-1005</p></td>
 <td><p>2.Monster feat.Ryo(from Crystal Lake) <a href="https://www.youtube.com/watch?v=P2CNr37ucBg">ミュージックビデオ</a></p></td>
 <td><p>Glamorous Factory/JAPAN MUSIC SYSTEM</p></td>
 </tr>
 <tr class="odd">
 <td><p>2015年11月25日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/DJ_BAKU" title="wikilink">DJ BAKU</a> / NΣO TOKYO RΛVΣ STYLΣ</p></td>
+<td><p><a href="../Page/DJ_BAKU.md" title="wikilink">DJ BAKU</a> / NΣO TOKYO RΛVΣ STYLΣ</p></td>
 <td><p>KAIKOO-001</p></td>
 <td><p>1.NEO KHAOS feat. Ryo (Crystal Lake) <a href="https://www.youtube.com/watch?v=jWqjDMk41LY">ミュージックビデオ</a></p></td>
 <td><p>KAIKOO</p></td>
 </tr>
 <tr class="even">
 <td><p>2016年02月03日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FLOW" title="wikilink">FLOW</a> / #10</p></td>
+<td><p><a href="../Page/FLOW.md" title="wikilink">FLOW</a> / #10</p></td>
 <td><p>KSCL-2682<br />
 KSCL-2684</p></td>
 <td><p>5.光追いかけて -Crystal Lake mix-</p></td>
@@ -495,7 +495,7 @@ WPZL-31635/37/75/77</p></td>
   - 2013年04月14日 - 【NAGO-STEP\!\!\!2013】DAY.8
   - 2013年05月11日 - MADOllie2013
   - 2013年09月07日 - TAMASONIC 2013
-  - 2013年10月12日 - [THE CHERRY COKE$](https://ja.wikipedia.org/wiki/THE_CHERRY_COKE$ "wikilink") TOUR 2013 "Hoist The Colours"
+  - 2013年10月12日 - [THE CHERRY COKE$](../Page/THE_CHERRY_COKE$.md "wikilink") TOUR 2013 "Hoist The Colours"
   - 2013年12月08日 - [COUNTRY YARD](https://ja.wikipedia.org/wiki/COUNTRY_YARD "wikilink") pre."BROTHERHOOD SPECIAL"
   - 2013年12月13日 - [SiM](https://ja.wikipedia.org/wiki/SiM "wikilink") PANDORA TOUR 2013-2014
   - 2014年01月12日 - [Can't Bear This Party](https://ja.wikipedia.org/wiki/Can't_Bear_This_Party "wikilink") Japan Tour 2014
@@ -516,7 +516,7 @@ WPZL-31635/37/75/77</p></td>
   - 2014年11月29日 - [FACT](https://ja.wikipedia.org/wiki/FACT "wikilink") 15th Anniversary Rock-O-Rama
   - 2014年12月20日 - MADOllie2014 WINTER
   - 2015年01月10日〜27日 - REDLINE RIOT TOUR 2015
-  - 2015年01月30日・31日 - [SWANKY DANK](https://ja.wikipedia.org/wiki/SWANKY_DANK "wikilink")『Magna Carta』 Tour
+  - 2015年01月30日・31日 - [SWANKY DANK](../Page/SWANKY_DANK.md "wikilink")『Magna Carta』 Tour
   - 2015年02月07日 - Crossfaith 「MADNESS TOUR in JAPAN」
   - 2015年02月14日 - THE BROTHERHOOD TOUR 2015
   - 2015年03月02日〜23日 - MONSTER ENERGY OUTBURN TOUR 2015
@@ -538,8 +538,8 @@ WPZL-31635/37/75/77</p></td>
   - 2015年12月20日 - MERRY ROCK PARADE 2015
   - 2015年12月23日 - ポルノ超特急2015
   - 2015年12月27日 - NERDS RECORDS "WHAT U REP"
-  - 2015年12月28日 - [COUNTDOWN JAPAN](https://ja.wikipedia.org/wiki/COUNTDOWN_JAPAN "wikilink") 15/16
-  - 2016年01月16日・17日 - [ROTTENGRAFFTY](https://ja.wikipedia.org/wiki/ROTTENGRAFFTY "wikilink") "Live Is Beautiful Tour 2015-2016"
+  - 2015年12月28日 - [COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 15/16
+  - 2016年01月16日・17日 - [ROTTENGRAFFTY](../Page/ROTTENGRAFFTY.md "wikilink") "Live Is Beautiful Tour 2015-2016"
   - 2016年04月15日 - [MAN WITH A MISSION](https://ja.wikipedia.org/wiki/MAN_WITH_A_MISSION "wikilink")「The World's On Fire TOUR 2016」
   - 2016年05月29日 - [VIVA LA ROCK](https://ja.wikipedia.org/wiki/VIVA_LA_ROCK "wikilink") 2016
   - 2016年06月04日 - SATANIC CARNIVAL '16
@@ -557,8 +557,8 @@ WPZL-31635/37/75/77</p></td>
   - 2016年11月03日 - VOID OF HELIOS
   - 2016年11月04日 - SHADOWS JAPAN TOUR 2016 EXTRA SHOWCASE
   - 2016年11月05日 - KNOTFEST JAPAN 2016
-  - 2016年11月12日 - [GOOD4NOTHING](https://ja.wikipedia.org/wiki/GOOD4NOTHING "wikilink")『NIGHT』 Release tour 2016
-  - 2016年12月10日・11日・2017年02月02日 - [SWANKY DANK](https://ja.wikipedia.org/wiki/SWANKY_DANK "wikilink") "it is WHAT it is" TOUR
+  - 2016年11月12日 - [GOOD4NOTHING](../Page/GOOD4NOTHING.md "wikilink")『NIGHT』 Release tour 2016
+  - 2016年12月10日・11日・2017年02月02日 - [SWANKY DANK](../Page/SWANKY_DANK.md "wikilink") "it is WHAT it is" TOUR
   - 2016年12月31日 - COUNTDOWN JAPAN 16/17
   - 2017年01月13日 - T-GROOOVE×ツタロック presents 「AK-69 × Crystal Lake」 2マン プレミアム・ライブ
   - 2017年04月07日・09日・11日 - [SHANK](https://ja.wikipedia.org/wiki/SHANK "wikilink")「Honesty Tour 2017」
@@ -570,7 +570,7 @@ WPZL-31635/37/75/77</p></td>
 
 ## その他
 
-  - バンド名は映画「[13日の金曜日](https://ja.wikipedia.org/wiki/13日の金曜日_\(映画\) "wikilink")」の舞台となった湖から取られている。
+  - バンド名は映画「[13日の金曜日](../Page/13日の金曜日_\(映画\).md "wikilink")」の舞台となった湖から取られている。
 
 ## 脚注
 

@@ -3,7 +3,7 @@
 
 "**Love Me Do**"（ラヴ・ミー・ドゥー、[10月11日](../Page/10月11日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[占い師](https://ja.wikipedia.org/wiki/占い師 "wikilink")、[風水師](https://ja.wikipedia.org/wiki/風水師 "wikilink")、[占星術](../Page/占星術.md "wikilink")家、[お笑い芸人](../Page/お笑いタレント.md "wikilink")。
 
-[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[大網白里市](https://ja.wikipedia.org/wiki/大網白里市 "wikilink")出身。[よしもとクリエイティブ・エージェンシー](https://ja.wikipedia.org/wiki/よしもとクリエイティブ・エージェンシー "wikilink")所属。"ラブちゃん"の愛称で、活動している占い師、風水師、占星術家。お笑い芸人時代は[オネエ](https://ja.wikipedia.org/wiki/オネエ "wikilink")キャラでも活動していた。
+[千葉県](../Page/千葉県.md "wikilink")[大網白里市](../Page/大網白里市.md "wikilink")出身。[よしもとクリエイティブ・エージェンシー](https://ja.wikipedia.org/wiki/よしもとクリエイティブ・エージェンシー "wikilink")所属。"ラブちゃん"の愛称で、活動している占い師、風水師、占星術家。お笑い芸人時代は[オネエ](https://ja.wikipedia.org/wiki/オネエ "wikilink")キャラでも活動していた。
 
 ## 来歴
 
@@ -11,9 +11,9 @@
 
 2014年4月14日に一般女性と入籍した事をプログで公表。2014年10月10日のプログに男の子の子供が生まれた事を公表。
 
-占い師を始めた当初は、おねぇキャラ兼「[新宿二丁目](https://ja.wikipedia.org/wiki/新宿二丁目 "wikilink")の母」を名乗る占い師でもあった。占術は\[4\]、[タロット](../Page/タロット.md "wikilink")、[占星術](../Page/占星術.md "wikilink")、[四柱推命](https://ja.wikipedia.org/wiki/四柱推命 "wikilink")、[手相](https://ja.wikipedia.org/wiki/手相 "wikilink")、[風水](../Page/風水.md "wikilink")、[九星術](https://ja.wikipedia.org/wiki/九星術 "wikilink")、[易](https://ja.wikipedia.org/wiki/易 "wikilink")、[人相占い](https://ja.wikipedia.org/wiki/人相占い "wikilink")、[数秘術](../Page/数秘術.md "wikilink")、[姓名判断](../Page/姓名判断.md "wikilink")、[夢占い](https://ja.wikipedia.org/wiki/夢占い "wikilink")等々を駆使して占いを行う。人相占いは、顔相占い、ほくろ占い、耳占いなども含む\[5\] 。占いは20代半ばの頃に新宿二丁目のおかまバーで働いてた時に、手相から独学で始め\[6\] 、その後に各占術ごとの師匠の下で学んだ。手相だけでも、西洋の手相術、東洋の手相術、インドの手相術など各流派の師匠の下で学んでいる。
+占い師を始めた当初は、おねぇキャラ兼「[新宿二丁目](https://ja.wikipedia.org/wiki/新宿二丁目 "wikilink")の母」を名乗る占い師でもあった。占術は\[4\]、[タロット](../Page/タロット.md "wikilink")、[占星術](../Page/占星術.md "wikilink")、[四柱推命](../Page/四柱推命.md "wikilink")、[手相](../Page/手相.md "wikilink")、[風水](../Page/風水.md "wikilink")、[九星術](https://ja.wikipedia.org/wiki/九星術 "wikilink")、[易](https://ja.wikipedia.org/wiki/易 "wikilink")、[人相占い](../Page/人相占い.md "wikilink")、[数秘術](../Page/数秘術.md "wikilink")、[姓名判断](../Page/姓名判断.md "wikilink")、[夢占い](../Page/夢占い.md "wikilink")等々を駆使して占いを行う。人相占いは、顔相占い、ほくろ占い、耳占いなども含む\[5\] 。占いは20代半ばの頃に新宿二丁目のおかまバーで働いてた時に、手相から独学で始め\[6\] 、その後に各占術ごとの師匠の下で学んだ。手相だけでも、西洋の手相術、東洋の手相術、インドの手相術など各流派の師匠の下で学んでいる。
 
-[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")や[フットサル](https://ja.wikipedia.org/wiki/フットサル "wikilink")を得意としており、それを活かした番組出演も少なくなく、[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")系列で放送されているサッカー番組『[やべっちFC〜日本サッカー応援宣言〜](../Page/やべっちFC〜日本サッカー応援宣言〜.md "wikilink")』のフットサル対決にたびたび出演している\[7\]\[8\]\[9\] 。身長は168cm、血液型はO型。生年は公表していないが、[10月11日](../Page/10月11日.md "wikilink")の天秤座生まれである。
+[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")や[フットサル](https://ja.wikipedia.org/wiki/フットサル "wikilink")を得意としており、それを活かした番組出演も少なくなく、[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列で放送されているサッカー番組『[やべっちFC〜日本サッカー応援宣言〜](../Page/やべっちFC〜日本サッカー応援宣言〜.md "wikilink")』のフットサル対決にたびたび出演している\[7\]\[8\]\[9\] 。身長は168cm、血液型はO型。生年は公表していないが、[10月11日](../Page/10月11日.md "wikilink")の天秤座生まれである。
 
 2012年5月にはサッカー指導者ライセンスのJFA公認指導者ライセンスC級コーチを取得している。
 
@@ -31,23 +31,23 @@
 
 ### フットサル
 
-  - 2004年[お台場冒険王](https://ja.wikipedia.org/wiki/お台場冒険王 "wikilink")「フットサルボーイズ」に出演。おねぇ系キャラを生かしセーラー服姿で、ゴールキーパーをし、ゴールキーパーの位置から相手チームのゴール前までオーバーラップ をして得点を決めるなどした。
+  - 2004年[お台場冒険王](../Page/お台場冒険王.md "wikilink")「フットサルボーイズ」に出演。おねぇ系キャラを生かしセーラー服姿で、ゴールキーパーをし、ゴールキーパーの位置から相手チームのゴール前までオーバーラップ をして得点を決めるなどした。
   - 2004年、2005年には、プライベートで、フットサルの東京都オープンリーグに参加。チーム名は「LadyBoys」。メンバーはよしもとの芸人とイケメンの友達。その当時、フットサルのミックス大会に出場する際には「アタックナンバーキック」っというチーム名で出場していた。
   - 2005年、「LadyBoys」で[全日本フットサル選手権](https://ja.wikipedia.org/wiki/全日本フットサル選手権 "wikilink")の東京都予選に出場した。
-  - 2010年6月に発足した「よしもとサッカー部」にも参加、『キャプテン翼』の作者[高橋陽一](../Page/高橋陽一.md "wikilink")率いる芸能人女子フットサルチーム[南葛シューターズ](https://ja.wikipedia.org/wiki/南葛シューターズ "wikilink")と対戦した\[10\]。
+  - 2010年6月に発足した「よしもとサッカー部」にも参加、『キャプテン翼』の作者[高橋陽一](../Page/高橋陽一.md "wikilink")率いる芸能人女子フットサルチーム[南葛シューターズ](../Page/南葛シューターズ.md "wikilink")と対戦した\[10\]。
 
 ### サッカー
 
-[Jリーグの公式戦の前座試合やチャリティーマッチなどに参加しており](../Page/日本プロサッカーリーグ.md "wikilink")、サッカーの試合は実際に観客がいる中で試合をしている。[常田真太郎](https://ja.wikipedia.org/wiki/常田真太郎 "wikilink")（音楽ユニットの「[スキマスイッチ](https://ja.wikipedia.org/wiki/スキマスイッチ "wikilink")」メンバー）が率いるSWERVES（スワーブス）という芸能人チームで出場している。
+[Jリーグの公式戦の前座試合やチャリティーマッチなどに参加しており](../Page/日本プロサッカーリーグ.md "wikilink")、サッカーの試合は実際に観客がいる中で試合をしている。[常田真太郎](../Page/常田真太郎.md "wikilink")（音楽ユニットの「[スキマスイッチ](../Page/スキマスイッチ.md "wikilink")」メンバー）が率いるSWERVES（スワーブス）という芸能人チームで出場している。
 
   - 2010年5月5日[長居陸上競技場](../Page/長居陸上競技場.md "wikilink")で[セレッソ大阪](../Page/セレッソ大阪.md "wikilink")OBとの試合。\[11\]
   - 2011年3月27日[万博記念競技場](../Page/万博記念競技場.md "wikilink")で[ガンバ大阪](../Page/ガンバ大阪.md "wikilink")OBを含むGO！JAPAN！との試合。\[12\]
   - 2011年4月23日[等々力陸上競技場](../Page/等々力陸上競技場.md "wikilink")で[川崎フロンターレ](https://ja.wikipedia.org/wiki/川崎フロンターレ "wikilink")&[ベガルタ仙台](../Page/ベガルタ仙台.md "wikilink")OBチームとの試合にMind-1ニッポン芸能人ドリームチームで出場。\[13\]\[14\]
-  - 2011年6月12日千葉市蘇我球技場（[フクダ電子アリーナ](https://ja.wikipedia.org/wiki/フクダ電子アリーナ "wikilink")）でSWERVESという芸能人チームで[Team ジェフファミリーとの試合に出場](https://ja.wikipedia.org/wiki/Team_ジェフファミリー "wikilink")。\[15\]
+  - 2011年6月12日千葉市蘇我球技場（[フクダ電子アリーナ](../Page/フクダ電子アリーナ.md "wikilink")）でSWERVESという芸能人チームで[Team ジェフファミリーとの試合に出場](https://ja.wikipedia.org/wiki/Team_ジェフファミリー "wikilink")。\[15\]
   - 2011年10月26日[平塚競技場](../Page/平塚競技場.md "wikilink")でSWERVESという芸能人チームで[ベルマーレレジェンド](https://ja.wikipedia.org/wiki/ベルマーレレジェンド "wikilink")との試合に出場。\[16\]
   - 2011年11月20日[東京スタジアム](../Page/東京スタジアム_\(多目的スタジアム\).md "wikilink")（味の素スタジアム）でSWERVESという芸能人チームで[ヴェルディレジェンドスターズ](https://ja.wikipedia.org/wiki/ヴェルディレジェンドスターズ "wikilink")との試合に出場。\[17\]
   - 2012年9月14日[平塚競技場](../Page/平塚競技場.md "wikilink")（Shonan BMW スタジアム平塚）でSWERVESという芸能人チームで[ベルマーレレジェンド](https://ja.wikipedia.org/wiki/ベルマーレレジェンド "wikilink")との試合に出場。\[18\] 2ゴールを決める。
-  - 2013年4月27日[長居球技場](https://ja.wikipedia.org/wiki/長居球技場 "wikilink")（キンチョウスタジアム）でSWERVESという芸能人チームで[セレッソ大阪OB](https://ja.wikipedia.org/wiki/セレッソ大阪OB "wikilink")との試合に出場。\[19\]
+  - 2013年4月27日[長居球技場](../Page/長居球技場.md "wikilink")（キンチョウスタジアム）でSWERVESという芸能人チームで[セレッソ大阪OB](https://ja.wikipedia.org/wiki/セレッソ大阪OB "wikilink")との試合に出場。\[19\]
 
 ## エピソード
 
@@ -60,33 +60,33 @@
   - 2011年女子ワールドカップドイツ大会でなでしこジャパンが[澤穂希](https://ja.wikipedia.org/wiki/澤穂希 "wikilink")選手の記録付で優勝する事を2011年6月20日に予言し的中させていた。また、[澤穂希](https://ja.wikipedia.org/wiki/澤穂希 "wikilink")本人にも直接メールしてその占い内容を伝えていた。
   - 2011年女子ワールドカップドイツ大会の準々決勝、なでしこジャパン対ドイツ戦の当日なでしこジャパンのメンバー[丸山桂里奈](https://ja.wikipedia.org/wiki/丸山桂里奈 "wikilink")から直接メールがあり今日の試合の運勢を占ってくれと言われ占い「[澤穂希](https://ja.wikipedia.org/wiki/澤穂希 "wikilink")からパスが来て[丸山桂里奈](https://ja.wikipedia.org/wiki/丸山桂里奈 "wikilink")が直接ゴールを決めてヒロインになるよ。」とメールで伝えていた。試合後、[丸山桂里奈](https://ja.wikipedia.org/wiki/丸山桂里奈 "wikilink")からは「ラブちゃんの言う通りになった！」「神だよ！」って言われた。実際にそのエピソードを[丸山桂里奈](https://ja.wikipedia.org/wiki/丸山桂里奈 "wikilink")本人が[週刊サッカーマガジン](https://ja.wikipedia.org/wiki/週刊サッカーマガジン "wikilink")NO.1357のインタビュー内で語っている。
   - 的中王2というテレビの番組内でユーロ2008の優勝国を占い、スペイン代表の優勝を的中させた。
-  - 2010年6月14日[2010年ワールドカップ南アフリカ大会の](https://ja.wikipedia.org/wiki/2010_FIFAワールドカップ "wikilink")[カメルーン戦においてTwitterでつぶやいた占いで](https://ja.wikipedia.org/wiki/サッカーカメルーン代表 "wikilink")[日本代表がゴールする時間帯を言い当ていた](https://ja.wikipedia.org/wiki/サッカー日本代表 "wikilink")。
-  - 2011年1月25日[2011年アジアカップカタール大会の準決勝の試合前にTwitterでつぶやいた占いで](https://ja.wikipedia.org/wiki/AFCアジアカップ "wikilink")[前田遼一](https://ja.wikipedia.org/wiki/前田遼一 "wikilink")選手のゴールを西洋占星術を使い予言し的中させていた。
-  - 2011年1月29日[2011年アジアカップカタール大会の決勝でTwitterでつぶやいた占いで](https://ja.wikipedia.org/wiki/AFCアジアカップ "wikilink")[李忠成](https://ja.wikipedia.org/wiki/李忠成 "wikilink")選手のゴールを西洋占星術を使い予言し的中させていた。\[20\]\[21\]
+  - 2010年6月14日[2010年ワールドカップ南アフリカ大会の](https://ja.wikipedia.org/wiki/2010_FIFAワールドカップ "wikilink")[カメルーン戦においてTwitterでつぶやいた占いで](../Page/サッカーカメルーン代表.md "wikilink")[日本代表がゴールする時間帯を言い当ていた](../Page/サッカー日本代表.md "wikilink")。
+  - 2011年1月25日[2011年アジアカップカタール大会の準決勝の試合前にTwitterでつぶやいた占いで](../Page/AFCアジアカップ.md "wikilink")[前田遼一](../Page/前田遼一.md "wikilink")選手のゴールを西洋占星術を使い予言し的中させていた。
+  - 2011年1月29日[2011年アジアカップカタール大会の決勝でTwitterでつぶやいた占いで](../Page/AFCアジアカップ.md "wikilink")[李忠成](../Page/李忠成.md "wikilink")選手のゴールを西洋占星術を使い予言し的中させていた。\[20\]\[21\]
   - 2011年3月29日に行われた[東日本大震災復興支援チャリティーマッチ](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震復興支援チャリティーマッチ_がんばろうニッポン! "wikilink")、日本代表対Jリーグ選抜の試合前にTwitterでつぶやいた占いで[三浦カズ選手のゴールを予言し的中させていた](../Page/三浦知良.md "wikilink")。
-  - 2011年5月28日チャンピオンズリーグ2010－2011の決勝について試合前にTwitterでつぶやいた占いで、[シャビ](https://ja.wikipedia.org/wiki/シャビ "wikilink")から[ペドロ・ロドリゲス・レデスマ](https://ja.wikipedia.org/wiki/ペドロ・ロドリゲス・レデスマ "wikilink")のゴール、[ウェイン・ルーニー](https://ja.wikipedia.org/wiki/ウェイン・ルーニー "wikilink")の得点、[ダビド・ビジャ](https://ja.wikipedia.org/wiki/ダビド・ビジャ "wikilink")の得点する時間帯などを予言し的中させていた。
+  - 2011年5月28日チャンピオンズリーグ2010－2011の決勝について試合前にTwitterでつぶやいた占いで、[シャビ](../Page/シャビ.md "wikilink")から[ペドロ・ロドリゲス・レデスマ](https://ja.wikipedia.org/wiki/ペドロ・ロドリゲス・レデスマ "wikilink")のゴール、[ウェイン・ルーニー](../Page/ウェイン・ルーニー.md "wikilink")の得点、[ダビド・ビジャ](https://ja.wikipedia.org/wiki/ダビド・ビジャ "wikilink")の得点する時間帯などを予言し的中させていた。
   - 2011年6月19日サッカーU-22日本代表対U-22クエート代表の試合前にTwitterでつぶやいた占いで、[濱田水輝](https://ja.wikipedia.org/wiki/濱田水輝 "wikilink")選手、[大迫勇也](https://ja.wikipedia.org/wiki/大迫勇也 "wikilink")選手のゴールや、[清武弘嗣](https://ja.wikipedia.org/wiki/清武弘嗣 "wikilink")選手のアシストなどを試合前に予言し的中させていた。
   - 2011年6月23日サッカーU-22日本代表対U-22クエート代表のアウェイの試合前にTwitterでつぶやいた占いで、[東慶悟](https://ja.wikipedia.org/wiki/東慶悟 "wikilink")選手のアシストから[酒井宏樹](https://ja.wikipedia.org/wiki/酒井宏樹 "wikilink")選手のゴールを予言し的中させていた。
-  - 2011年7月9日[2011年女子ワールドカップドイツ大会のなでしこジャパン対女子ドイツ代表の試合前にTwitterでつぶやいた占いで](https://ja.wikipedia.org/wiki/2011_FIFA女子ワールドカップ "wikilink")、[澤穂希](https://ja.wikipedia.org/wiki/澤穂希 "wikilink")選手のアシストから[丸山桂里奈](https://ja.wikipedia.org/wiki/丸山桂里奈 "wikilink")選手のゴールを予言し的中させていた。\[22\]
-  - 2011年7月13日[2011年女子ワールドカップドイツ大会のなでしこジャパン対女子スウェーデン代表の試合前にTwitterでつぶやいた占いで](https://ja.wikipedia.org/wiki/2011_FIFA女子ワールドカップ "wikilink")、[川澄奈穂美](https://ja.wikipedia.org/wiki/川澄奈穂美 "wikilink")選手のゴールと[澤穂希](https://ja.wikipedia.org/wiki/澤穂希 "wikilink")選手のゴールを予言し的中させていた。\[23\]\[24\]
-  - 2011年7月24日[コパ・アメリカ2011 アルゼンチン大会の決勝のウルグアイ代表対パラグアイ代表の試合前にTwitterでつぶやいた占いで](https://ja.wikipedia.org/wiki/コパ・アメリカ2011 "wikilink")、[ディエゴ・フォルラン](https://ja.wikipedia.org/wiki/ディエゴ・フォルラン "wikilink")選手のゴールを予言し的中させていた。
+  - 2011年7月9日[2011年女子ワールドカップドイツ大会のなでしこジャパン対女子ドイツ代表の試合前にTwitterでつぶやいた占いで](../Page/2011_FIFA女子ワールドカップ.md "wikilink")、[澤穂希](https://ja.wikipedia.org/wiki/澤穂希 "wikilink")選手のアシストから[丸山桂里奈](https://ja.wikipedia.org/wiki/丸山桂里奈 "wikilink")選手のゴールを予言し的中させていた。\[22\]
+  - 2011年7月13日[2011年女子ワールドカップドイツ大会のなでしこジャパン対女子スウェーデン代表の試合前にTwitterでつぶやいた占いで](../Page/2011_FIFA女子ワールドカップ.md "wikilink")、[川澄奈穂美](https://ja.wikipedia.org/wiki/川澄奈穂美 "wikilink")選手のゴールと[澤穂希](https://ja.wikipedia.org/wiki/澤穂希 "wikilink")選手のゴールを予言し的中させていた。\[23\]\[24\]
+  - 2011年7月24日[コパ・アメリカ2011 アルゼンチン大会の決勝のウルグアイ代表対パラグアイ代表の試合前にTwitterでつぶやいた占いで](https://ja.wikipedia.org/wiki/コパ・アメリカ2011 "wikilink")、[ディエゴ・フォルラン](../Page/ディエゴ・フォルラン.md "wikilink")選手のゴールを予言し的中させていた。
   - 2011年9月1日[ロンドンオリンピック2012年女子サッカーアジア最終予選のなでしこジャパン対女子タイ代表の試合前にTwitterでつぶやいた占いで](https://ja.wikipedia.org/wiki/2012年ロンドンオリンピックのサッカー競技・アジア予選 "wikilink")、[上尾野辺めぐみ](https://ja.wikipedia.org/wiki/上尾野辺めぐみ "wikilink")選手のアシストから[川澄奈穂美](https://ja.wikipedia.org/wiki/川澄奈穂美 "wikilink")選手のゴールを予言し的中させていた。
-  - 2011年9月2日[2014 FIFA ワールドカップ ブラジル大会アジア3次予選の日本代表対北朝鮮代表の試合前にTwitterでつぶやいた占いで](https://ja.wikipedia.org/wiki/2014_FIFAワールドカップ・アジア予選 "wikilink")、[吉田麻也](https://ja.wikipedia.org/wiki/吉田麻也 "wikilink")選手のゴールを予言し的中させていた。
+  - 2011年9月2日[2014 FIFA ワールドカップ ブラジル大会アジア3次予選の日本代表対北朝鮮代表の試合前にTwitterでつぶやいた占いで](https://ja.wikipedia.org/wiki/2014_FIFAワールドカップ・アジア予選 "wikilink")、[吉田麻也](../Page/吉田麻也.md "wikilink")選手のゴールを予言し的中させていた。
   - 2011年9月3日[ロンドンオリンピック2012年女子サッカーアジア最終予選のなでしこジャパン対女子韓国代表の試合前にTwitterでつぶやいた占いで](https://ja.wikipedia.org/wiki/2012年ロンドンオリンピックのサッカー競技・アジア予選 "wikilink")、[大野忍](https://ja.wikipedia.org/wiki/大野忍 "wikilink")選手のゴールを予言し的中させていた。
   - 2011年9月5日[ロンドンオリンピック2012年女子サッカーアジア最終予選のなでしこジャパン対女子オーストラリア代表の試合前にTwitterでつぶやいた占いで](https://ja.wikipedia.org/wiki/2012年ロンドンオリンピックのサッカー競技・アジア予選 "wikilink")、[永里優季選手のアシストから](https://ja.wikipedia.org/wiki/大儀見優季 "wikilink")[川澄奈穂美](https://ja.wikipedia.org/wiki/川澄奈穂美 "wikilink")選手のゴールを予言し的中させていた。
   - 2011年9月11日[ロンドンオリンピック2012年女子サッカーアジア最終予選のなでしこジャパン対女子中国代表の試合前にTwitterでつぶやいた占いで](https://ja.wikipedia.org/wiki/2012年ロンドンオリンピックのサッカー競技・アジア予選 "wikilink")、[岩清水梓](https://ja.wikipedia.org/wiki/岩清水梓 "wikilink")選手から[田中明日菜](https://ja.wikipedia.org/wiki/田中明日菜 "wikilink")選手のゴールを予言し的中させていた。
-  - 2011年9月21日[ロンドンオリンピック2012年アジア3次予選のサッカーU](https://ja.wikipedia.org/wiki/2012年ロンドンオリンピックのサッカー競技・アジア予選 "wikilink")-22日本代表対U-22マレーシア代表の試合前にTwitterでつぶやいた占いで、[永井謙佑](https://ja.wikipedia.org/wiki/永井謙佑 "wikilink")選手と[山崎亮平](https://ja.wikipedia.org/wiki/山崎亮平 "wikilink")選手の関係からのゴールを予言し的中させていた。
-  - 2011年10月7日[キリンチャレンジカップ](https://ja.wikipedia.org/wiki/キリンチャレンジカップ "wikilink")の日本代表対ベトナム代表の試合前にTwitterでつぶやいた占いで、[藤本淳吾](https://ja.wikipedia.org/wiki/藤本淳吾 "wikilink")選手のアシストとから[李忠成](https://ja.wikipedia.org/wiki/李忠成 "wikilink")選手のゴールを予言し的中させていた。
-  - 2011年10月11日[2014 FIFA ワールドカップ ブラジル大会アジア3次予選の日本代表対タジキスタン代表の試合前にTwitterでつぶやいた占いで](https://ja.wikipedia.org/wiki/2014_FIFAワールドカップ・アジア予選 "wikilink")、[中村憲剛](https://ja.wikipedia.org/wiki/中村憲剛 "wikilink")選手のアシストとから[香川真司](https://ja.wikipedia.org/wiki/香川真司 "wikilink")選手のゴールや[岡崎慎司](https://ja.wikipedia.org/wiki/岡崎慎司 "wikilink")選手のゴールや[駒野友一](https://ja.wikipedia.org/wiki/駒野友一 "wikilink")選手のゴールなどを予言し的中させていた。
-  - 2011年11月11日[2014 FIFA ワールドカップ ブラジル大会アジア3次予選のタジキスタン代表対日本代表のアウェーの試合前にTwitterでつぶやいた占いで](https://ja.wikipedia.org/wiki/2014_FIFAワールドカップ・アジア予選 "wikilink")、前半36分にゴールが生まれる事を予言し的中させたり、[香川真司](https://ja.wikipedia.org/wiki/香川真司 "wikilink")選手のアシストとから[岡崎慎司](https://ja.wikipedia.org/wiki/岡崎慎司 "wikilink")選手のゴールや[前田遼一](https://ja.wikipedia.org/wiki/前田遼一 "wikilink")選手のゴールなどを予言し的中させていた。
-  - 2011年11月22日[ロンドンオリンピック2012年アジア3次予選のサッカーU](https://ja.wikipedia.org/wiki/2012年ロンドンオリンピックのサッカー競技・アジア予選 "wikilink")-22日本代表対U-22バーレーン代表のアウェイの試合前にTwitterでつぶやいた占いで、[大津祐樹](https://ja.wikipedia.org/wiki/大津祐樹 "wikilink")選手のゴールや、[扇原貴宏](https://ja.wikipedia.org/wiki/扇原貴宏 "wikilink")選手と[山田直輝](https://ja.wikipedia.org/wiki/山田直輝 "wikilink")選手と[東慶悟](https://ja.wikipedia.org/wiki/東慶悟 "wikilink")選手の関係からのゴールが生まれる事を予言し的中させていた。
-  - 2011年11月27日[ロンドンオリンピック2012年アジア3次予選のサッカーU](https://ja.wikipedia.org/wiki/2012年ロンドンオリンピックのサッカー競技・アジア予選 "wikilink")-22日本代表対U-22バーレーン代表のアウェイの試合前にTwitterでつぶやいた占いで、[大津祐樹](https://ja.wikipedia.org/wiki/大津祐樹 "wikilink")選手のゴールが的中。
+  - 2011年9月21日[ロンドンオリンピック2012年アジア3次予選のサッカーU](https://ja.wikipedia.org/wiki/2012年ロンドンオリンピックのサッカー競技・アジア予選 "wikilink")-22日本代表対U-22マレーシア代表の試合前にTwitterでつぶやいた占いで、[永井謙佑](https://ja.wikipedia.org/wiki/永井謙佑 "wikilink")選手と[山崎亮平](../Page/山崎亮平.md "wikilink")選手の関係からのゴールを予言し的中させていた。
+  - 2011年10月7日[キリンチャレンジカップ](../Page/キリンチャレンジカップ.md "wikilink")の日本代表対ベトナム代表の試合前にTwitterでつぶやいた占いで、[藤本淳吾](../Page/藤本淳吾.md "wikilink")選手のアシストとから[李忠成](../Page/李忠成.md "wikilink")選手のゴールを予言し的中させていた。
+  - 2011年10月11日[2014 FIFA ワールドカップ ブラジル大会アジア3次予選の日本代表対タジキスタン代表の試合前にTwitterでつぶやいた占いで](https://ja.wikipedia.org/wiki/2014_FIFAワールドカップ・アジア予選 "wikilink")、[中村憲剛](../Page/中村憲剛.md "wikilink")選手のアシストとから[香川真司](../Page/香川真司.md "wikilink")選手のゴールや[岡崎慎司](../Page/岡崎慎司.md "wikilink")選手のゴールや[駒野友一](../Page/駒野友一.md "wikilink")選手のゴールなどを予言し的中させていた。
+  - 2011年11月11日[2014 FIFA ワールドカップ ブラジル大会アジア3次予選のタジキスタン代表対日本代表のアウェーの試合前にTwitterでつぶやいた占いで](https://ja.wikipedia.org/wiki/2014_FIFAワールドカップ・アジア予選 "wikilink")、前半36分にゴールが生まれる事を予言し的中させたり、[香川真司](../Page/香川真司.md "wikilink")選手のアシストとから[岡崎慎司](../Page/岡崎慎司.md "wikilink")選手のゴールや[前田遼一](../Page/前田遼一.md "wikilink")選手のゴールなどを予言し的中させていた。
+  - 2011年11月22日[ロンドンオリンピック2012年アジア3次予選のサッカーU](https://ja.wikipedia.org/wiki/2012年ロンドンオリンピックのサッカー競技・アジア予選 "wikilink")-22日本代表対U-22バーレーン代表のアウェイの試合前にTwitterでつぶやいた占いで、[大津祐樹](../Page/大津祐樹.md "wikilink")選手のゴールや、[扇原貴宏](https://ja.wikipedia.org/wiki/扇原貴宏 "wikilink")選手と[山田直輝](../Page/山田直輝.md "wikilink")選手と[東慶悟](https://ja.wikipedia.org/wiki/東慶悟 "wikilink")選手の関係からのゴールが生まれる事を予言し的中させていた。
+  - 2011年11月27日[ロンドンオリンピック2012年アジア3次予選のサッカーU](https://ja.wikipedia.org/wiki/2012年ロンドンオリンピックのサッカー競技・アジア予選 "wikilink")-22日本代表対U-22バーレーン代表のアウェイの試合前にTwitterでつぶやいた占いで、[大津祐樹](../Page/大津祐樹.md "wikilink")選手のゴールが的中。
   - 2012年2月5日[ロンドンオリンピック2012年アジア最終予選のサッカーU](https://ja.wikipedia.org/wiki/2012年ロンドンオリンピックのサッカー競技・アジア予選 "wikilink")-23日本代表対U-23シリア代表のアウェイの試合前にTwitterでつぶやいた占いで、[永井謙佑](https://ja.wikipedia.org/wiki/永井謙佑 "wikilink")選手のゴールが的中。
   - 2012年2月、怪我から復帰しロンドンオリンピックに行く為にも[丸山桂里奈](https://ja.wikipedia.org/wiki/丸山桂里奈 "wikilink")選手に[スペランツァFC大阪高槻](https://ja.wikipedia.org/wiki/スペランツァFC大阪高槻 "wikilink")への移籍を占いでアドバイスをした。 \[25\]
   - 2012年2月22日[ロンドンオリンピック2012年アジア最終予選のサッカーU](https://ja.wikipedia.org/wiki/2012年ロンドンオリンピックのサッカー競技・アジア予選 "wikilink")-23日本代表対U-23マレーシア代表のアウェイの試合前にTwitterでつぶやいた占いで、[酒井宏樹](https://ja.wikipedia.org/wiki/酒井宏樹 "wikilink")選手のゴールや、セットプレーから[扇原貴宏](https://ja.wikipedia.org/wiki/扇原貴宏 "wikilink")選手のアシストで[大迫勇也](https://ja.wikipedia.org/wiki/大迫勇也 "wikilink")選手のゴールや、[扇原貴宏](https://ja.wikipedia.org/wiki/扇原貴宏 "wikilink")選手から[齋藤学](https://ja.wikipedia.org/wiki/齋藤学 "wikilink")選手のゴールする事を予言し的中。
-  - 2012年2月24日[キリンチャレンジカップ](https://ja.wikipedia.org/wiki/キリンチャレンジカップ "wikilink")の日本代表対アイスランド代表の試合前にTwitterでつぶやいた占いで、[槙野智章](https://ja.wikipedia.org/wiki/槙野智章 "wikilink")選手のアシストとから[前田遼一](https://ja.wikipedia.org/wiki/前田遼一 "wikilink")選手の先制ゴールを予言し的中させていた。
-  - 2012年6月3日試合の[2014 FIFA ワールドカップ ブラジル大会アジア4次予選の日本代表対オマーン代表の試合前にTwitterでつぶやいた占いで](https://ja.wikipedia.org/wiki/2014_FIFAワールドカップ・アジア予選 "wikilink")、[長友佑都](https://ja.wikipedia.org/wiki/長友佑都 "wikilink")選手のアシストから[本田圭佑](https://ja.wikipedia.org/wiki/本田圭佑 "wikilink")選手がゴールする事を予言し的中させていた。
-  - 2012年6月12日試合の[2014 FIFA ワールドカップ ブラジル大会アジア4次予選のオーストラリア代表対日本代表のアウェーの試合前にTwitterでつぶやいた占いで](https://ja.wikipedia.org/wiki/2014_FIFAワールドカップ・アジア予選 "wikilink")、[本田圭佑](https://ja.wikipedia.org/wiki/本田圭佑 "wikilink")選手のアシストから[栗原勇蔵](https://ja.wikipedia.org/wiki/栗原勇蔵 "wikilink")選手がゴールする事を予言し的中させていた。
+  - 2012年2月24日[キリンチャレンジカップ](../Page/キリンチャレンジカップ.md "wikilink")の日本代表対アイスランド代表の試合前にTwitterでつぶやいた占いで、[槙野智章](../Page/槙野智章.md "wikilink")選手のアシストとから[前田遼一](../Page/前田遼一.md "wikilink")選手の先制ゴールを予言し的中させていた。
+  - 2012年6月3日試合の[2014 FIFA ワールドカップ ブラジル大会アジア4次予選の日本代表対オマーン代表の試合前にTwitterでつぶやいた占いで](https://ja.wikipedia.org/wiki/2014_FIFAワールドカップ・アジア予選 "wikilink")、[長友佑都](../Page/長友佑都.md "wikilink")選手のアシストから[本田圭佑](https://ja.wikipedia.org/wiki/本田圭佑 "wikilink")選手がゴールする事を予言し的中させていた。
+  - 2012年6月12日試合の[2014 FIFA ワールドカップ ブラジル大会アジア4次予選のオーストラリア代表対日本代表のアウェーの試合前にTwitterでつぶやいた占いで](https://ja.wikipedia.org/wiki/2014_FIFAワールドカップ・アジア予選 "wikilink")、[本田圭佑](https://ja.wikipedia.org/wiki/本田圭佑 "wikilink")選手のアシストから[栗原勇蔵](../Page/栗原勇蔵.md "wikilink")選手がゴールする事を予言し的中させていた。
   - 2012年ロンドンリンピックのサッカー、U-23日本代表となでしこジャパンの試合の試合前にTwitterでつぶやいた占いで、ゴールとアシストの選手を的中させていた。
 
 <!-- end list -->
@@ -95,7 +95,7 @@
 
 <!-- end list -->
 
-  - プライベートで柔道家の[鈴木桂治](https://ja.wikipedia.org/wiki/鈴木桂治 "wikilink")を占い、2011年4月の全日本柔道選手権大会で優勝すると伝え的中した。
+  - プライベートで柔道家の[鈴木桂治](../Page/鈴木桂治.md "wikilink")を占い、2011年4月の全日本柔道選手権大会で優勝すると伝え的中した。
 
 <!-- end list -->
 
@@ -127,7 +127,7 @@
   - 的中王2というテレビの番組内で2008年の夏の甲子園の優勝する高校は大阪の高校と予言し的中させた。収録時にまだ出場校が決まっていない為、都道府県名で答えていた。
   - 過去に占いを使って[サッカーくじ](https://ja.wikipedia.org/wiki/サッカーくじ "wikilink")のtotoで三等を二回当てたことがある。最近では、2012年5月20日のtotoで二等を当てた。\[27\]
   - 2012年2月、[丸山桂里奈](https://ja.wikipedia.org/wiki/丸山桂里奈 "wikilink")選手に怪我から復帰しロンドンオリップに行く為にどうしたら良いか相談を受け、[スペランツァFC大阪高槻への移籍を占いでアドバイスした](https://ja.wikipedia.org/wiki/スペランツァ大阪高槻 "wikilink")。本人も入団記者会見でラブちゃんに西のチームが良いと言われたので移籍したと発言した。
-  - [鉄拳が](https://ja.wikipedia.org/wiki/鉄拳_\(お笑い芸人\) "wikilink")2012年に再ブレイクすることを、2010年に本人に伝えていたことが的中。2012年12月1日発売の雑誌「マンスリーよしもとPLUS」の取材の中で[鉄拳が近いうちに素顔を見せることを予言しおり的中させた](https://ja.wikipedia.org/wiki/鉄拳_\(お笑い芸人\) "wikilink")。
+  - [鉄拳が](../Page/鉄拳_\(お笑い芸人\).md "wikilink")2012年に再ブレイクすることを、2010年に本人に伝えていたことが的中。2012年12月1日発売の雑誌「マンスリーよしもとPLUS」の取材の中で[鉄拳が近いうちに素顔を見せることを予言しおり的中させた](../Page/鉄拳_\(お笑い芸人\).md "wikilink")。
 
 <!-- end list -->
 
@@ -139,27 +139,27 @@
 
 ### テレビ
 
-  - [わらいのじかん](https://ja.wikipedia.org/wiki/わらいのじかん "wikilink")（[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")、2000年2月5日）
-  - [ナースマン](https://ja.wikipedia.org/wiki/ナースマン "wikilink")第8話（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")、2002年3月9日）お笑い芸人役。
-  - [登龍門F](https://ja.wikipedia.org/wiki/登龍門F "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、2004年5月4日）
-  - [雨スポ](https://ja.wikipedia.org/wiki/雨スポ "wikilink")（日本テレビ、2004年9月）フットサル対決で出演。
-  - [スペイン語会話](https://ja.wikipedia.org/wiki/スペイン語会話 "wikilink")（NHK教育、2005年6月24日)　スペイン人とフットサル対決で出演。
-  - [ひるたま](https://ja.wikipedia.org/wiki/ひるたま "wikilink")（[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")）
+  - [わらいのじかん](https://ja.wikipedia.org/wiki/わらいのじかん "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")、2000年2月5日）
+  - [ナースマン](../Page/ナースマン.md "wikilink")第8話（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")、2002年3月9日）お笑い芸人役。
+  - [登龍門F](../Page/登龍門F.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、2004年5月4日）
+  - [雨スポ](../Page/雨スポ.md "wikilink")（日本テレビ、2004年9月）フットサル対決で出演。
+  - [スペイン語会話](../Page/スペイン語会話.md "wikilink")（NHK教育、2005年6月24日)　スペイン人とフットサル対決で出演。
+  - [ひるたま](../Page/ひるたま.md "wikilink")（[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")）
   - [ごごたま](https://ja.wikipedia.org/wiki/ごごたま "wikilink")（テレビ埼玉）「水曜・ごごドキッ\!ラブチェック」コーナー担当。
-  - [クチコミ](https://ja.wikipedia.org/wiki/クチコミ "wikilink")（[TBSテレビ](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")、2006年5月19日）出演者を占う。パワーストーンの紹介。
+  - [クチコミ](https://ja.wikipedia.org/wiki/クチコミ "wikilink")（[TBSテレビ](../Page/TBSテレビ.md "wikilink")、2006年5月19日）出演者を占う。パワーストーンの紹介。
   - [はなまるマーケット](../Page/はなまるマーケット.md "wikilink")（TBSテレビ、2007年4月24日）[栗山千明](https://ja.wikipedia.org/wiki/栗山千明 "wikilink")をタロットで占う。
   - [やべっちFC](https://ja.wikipedia.org/wiki/やべっちFC "wikilink")（テレビ朝日、2007年6月17日、2008年6月1日、2009年1月18日、2009年1月25日、2010年1月17日、2010年1月24日、2011年1月1日、2012年1月1日、2013年1月2日、2014年1月1日、2015年1月1日）フットサル対決で矢部チームの一員で出演。
-  - [吉本芸人AGEAGE占い2008](https://ja.wikipedia.org/wiki/吉本芸人AGEAGE占い2008 "wikilink")（[ヨシモトファンダンゴTV](https://ja.wikipedia.org/wiki/ヨシモトファンダンゴTV "wikilink")、2008年1月1日）
+  - [吉本芸人AGEAGE占い2008](https://ja.wikipedia.org/wiki/吉本芸人AGEAGE占い2008 "wikilink")（[ヨシモトファンダンゴTV](../Page/ヨシモトファンダンゴTV.md "wikilink")、2008年1月1日）
   - [THE 的中王2](https://ja.wikipedia.org/wiki/THE_的中王2 "wikilink")（[中京テレビ](../Page/中京テレビ放送.md "wikilink")、2008年12月29日）2008年高校野球夏の甲子園で優勝する都道府県の的中や、[ユーロ2008のスペイン代表優勝などを的中させていた](https://ja.wikipedia.org/wiki/UEFA欧州選手権2008 "wikilink")。
-  - [99プラス](https://ja.wikipedia.org/wiki/99プラス "wikilink")（日本テレビ、2009年2月3日）タロットで占う。
+  - [99プラス](../Page/99プラス.md "wikilink")（日本テレビ、2009年2月3日）タロットで占う。
   - [ザ・ミュージックアワー](https://ja.wikipedia.org/wiki/ザ・ミュージックアワー "wikilink")（TBSテレビ、2010年7月20日）出演アーティストを四柱推命で占う。
-  - [やりすぎコージー](https://ja.wikipedia.org/wiki/やりすぎコージー "wikilink")（テレビ東京、2010年9月20日）やりすぎオネエ芸人カーニバル
+  - [やりすぎコージー](../Page/やりすぎコージー.md "wikilink")（テレビ東京、2010年9月20日）やりすぎオネエ芸人カーニバル
   - [新春大売り出し\!さんまのまんま](https://ja.wikipedia.org/wiki/新春大売り出し!さんまのまんま "wikilink")（フジテレビ、2011年1月2日）オープニングで占う。
   - [MONSTER ROCK](https://ja.wikipedia.org/wiki/MONSTER_ROCK "wikilink")（スペースシャワーTV、2011年1月18日、1月25日）出演アーティストを手相で占う。
   - [芸人報道](https://ja.wikipedia.org/wiki/芸人報道 "wikilink")（日本テレビ、2011年5月9日）特殊能力を持つ芸人SP 本格派オネエ占い・LoveMeDo記者
   - [UEFA Champions League 11/12 Highlight](https://ja.wikipedia.org/wiki/UEFA_Champions_League_11/12_Highlight "wikilink")（スカパー\!、2011年9月15日 -　多数回出演 ）サッカーの試合を占う。
   - [たけしのニッポンのミカタ\!](https://ja.wikipedia.org/wiki/たけしのニッポンのミカタ! "wikilink")（テレビ東京、2011年11月4日）
-  - [音流〜On Ryu〜](https://ja.wikipedia.org/wiki/音流〜On_Ryu〜 "wikilink")（テレビ東京、2012年1月6日）出演アーティストを占う。
+  - [音流〜On Ryu〜](../Page/音流〜On_Ryu〜.md "wikilink")（テレビ東京、2012年1月6日）出演アーティストを占う。
   - [プロ野球オールスタースポーツフェスティバル](https://ja.wikipedia.org/wiki/プロ野球オールスタースポーツフェスティバル "wikilink")（日本テレビ、2012年1月8日）
   - [関西バンザイTV まぶしいチカラ](https://ja.wikipedia.org/wiki/千原ジュニアのまぶしいチカラ "wikilink")（毎日放送（MBSテレビ）、2012年2月22日）
   - [芸能★BANGゴールデン](https://ja.wikipedia.org/wiki/芸能★BANGゴールデン "wikilink")（日本テレビ、2012年5月4日）
@@ -168,7 +168,7 @@
   - [爆笑 大日本アカン警察](https://ja.wikipedia.org/wiki/爆笑_大日本アカン警察 "wikilink")（フジテレビ、2012年11月18日、2013年1月27日）イケメンがオネエから大脱走に出演。
   - [オネエション](https://ja.wikipedia.org/wiki/オネエション "wikilink")（フジテレビ、2013年8月2日）[武井壮](https://ja.wikipedia.org/wiki/武井壮 "wikilink")対オネエチームで400m走対決に出演。
   - [衝撃！まさかの知られざルール](https://ja.wikipedia.org/wiki/衝撃！まさかの知られざルール "wikilink")（読売テレビ（日テレ系）、関東地区2013年9月21日　関西地区2013年9月22日）花田家を風水鑑定で出演。
-  - [セールスタイル](https://ja.wikipedia.org/wiki/セールスタイル "wikilink") （BS吉テレ（BS日テレ）、2013年12月31日）[NON STYLEなど芸人や](https://ja.wikipedia.org/wiki/NON_STYLE "wikilink")2014年を占う。
+  - [セールスタイル](https://ja.wikipedia.org/wiki/セールスタイル "wikilink") （BS吉テレ（BS日テレ）、2013年12月31日）[NON STYLEなど芸人や](../Page/NON_STYLE.md "wikilink")2014年を占う。
   - [マルガリン銀行](https://ja.wikipedia.org/wiki/マルガリン銀行 "wikilink") （TOKYO MX、2014年8月27日 - 多数回出演。）
   - [なでしこLOVERS](https://ja.wikipedia.org/wiki/なでしこLOVERS "wikilink") （フジテレビ、2015年7月26日）
   - 平畠蹴球団（テレビ静岡、2015年10月 - 12月）
@@ -180,22 +180,22 @@
   - 解決！お悩みバスター （静岡第一テレビ、2017年2月11日）
   - [王様のブランチ](https://ja.wikipedia.org/wiki/王様のブランチ "wikilink") （TBSテレビ、2017年7月8日-2017年10月21日）風水師として出演。物件キャッツアイ、風水キャッツアイのコーナー。
   - [水曜日のダウンタウン](https://ja.wikipedia.org/wiki/水曜日のダウンタウン "wikilink") （TBSテレビ、2018年2月7日）
-  - [アッコにおまかせ\!](https://ja.wikipedia.org/wiki/アッコにおまかせ! "wikilink") （TBSテレビ、2018年4月1日、2018年7月14日）占い師、風水師として出演。
+  - [アッコにおまかせ\!](../Page/アッコにおまかせ!.md "wikilink") （TBSテレビ、2018年4月1日、2018年7月14日）占い師、風水師として出演。
   - [あさイチ](https://ja.wikipedia.org/wiki/あさイチ "wikilink") （NHK総合テレビジョン、2018年4月9日）占い師、風水師として出演。
   - [ウチのガヤがすみません\!](https://ja.wikipedia.org/wiki/ウチのガヤがすみません! "wikilink") （日本テレビ系列、2018年9月25日）占い師として出演。
-  - [お笑いワイドショー マルコポロリ\!](https://ja.wikipedia.org/wiki/お笑いワイドショー_マルコポロリ! "wikilink") (関西テレビ、2019年4月7日)占い師として出演。
+  - [お笑いワイドショー マルコポロリ\!](../Page/お笑いワイドショー_マルコポロリ!.md "wikilink") (関西テレビ、2019年4月7日)占い師として出演。
   - [特盛\!よしもと 今田・八光のおしゃべりジャングル](https://ja.wikipedia.org/wiki/特盛!よしもと_今田・八光のおしゃべりジャングル "wikilink") （読売テレビ、2019年5月4日、2019年8月24日、2019年8月31日）占い師として出演。
   - [おかべろ](https://ja.wikipedia.org/wiki/おかべろ "wikilink")（関西テレビ、2019年10月19日）浅田真央を占う。
   - 武井壮のパラスポーツ真剣勝負(NHK BS1、2019年12月28日）
   - 岩手まるごと得々情報 大晦日開運スペシャル（テレビ岩手、2019年12月31日）占い師として出演。
   - [日向坂で会いましょう](https://ja.wikipedia.org/wiki/日向坂で会いましょう "wikilink")（テレビ東京、2020年1月5日、1月12日）占い師として出演し、夢診断をする。
-  - [みんテレ](https://ja.wikipedia.org/wiki/みんテレ "wikilink")（北海道文化放送、2020年1月7日）占い師として出演。
+  - [みんテレ](../Page/みんテレ.md "wikilink")（北海道文化放送、2020年1月7日）占い師として出演。
   - 超・つば九郎タイムス（フジテレビ ONE TWO NEXT、2020年1月13日)＃15　占い師として出演。
 
 ### ラジオ
 
-  - [フットサルラジオINVIO\!](https://ja.wikipedia.org/wiki/フットサルラジオINVIO! "wikilink")（[ラジオNIKKEI](../Page/日経ラジオ社.md "wikilink")、2004年6月18日）
-  - [OH\! MY RADIO](https://ja.wikipedia.org/wiki/OH!_MY_RADIO "wikilink")（[J-WAVE](../Page/J-WAVE.md "wikilink")）木曜日、メインパーソナリティー[安藤裕子](https://ja.wikipedia.org/wiki/安藤裕子_\(歌手\) "wikilink")
+  - [フットサルラジオINVIO\!](../Page/フットサルラジオINVIO!.md "wikilink")（[ラジオNIKKEI](../Page/日経ラジオ社.md "wikilink")、2004年6月18日）
+  - [OH\! MY RADIO](../Page/OH!_MY_RADIO.md "wikilink")（[J-WAVE](../Page/J-WAVE.md "wikilink")）木曜日、メインパーソナリティー[安藤裕子](https://ja.wikipedia.org/wiki/安藤裕子_\(歌手\) "wikilink")
 
 <!-- end list -->
 
@@ -205,9 +205,9 @@
 
 <!-- end list -->
 
-  - [大竹まこと ゴールデンラジオ\!](https://ja.wikipedia.org/wiki/大竹まこと_ゴールデンラジオ! "wikilink")（[文化放送](https://ja.wikipedia.org/wiki/文化放送 "wikilink")、2008年1月4日・9月19日・2009年1月9日）初出演時に某タレントの恋愛アクシデントや首相の退陣の時期などを予言したものが的中。
+  - [大竹まこと ゴールデンラジオ\!](../Page/大竹まこと_ゴールデンラジオ!.md "wikilink")（[文化放送](../Page/文化放送.md "wikilink")、2008年1月4日・9月19日・2009年1月9日）初出演時に某タレントの恋愛アクシデントや首相の退陣の時期などを予言したものが的中。
   - [PLATOn](https://ja.wikipedia.org/wiki/PLATOn "wikilink")（J-WAVE、2008年1月3日・2009年2月4日）
-  - [NACK WITH YOU](https://ja.wikipedia.org/wiki/NACK_WITH_YOU "wikilink")（NACK5、2009年2月19日）
+  - [NACK WITH YOU](../Page/NACK_WITH_YOU.md "wikilink")（NACK5、2009年2月19日）
   - [高須光聖](../Page/高須光聖.md "wikilink")の御影流（[TOKYO FM](../Page/エフエム東京.md "wikilink")、2009年4月 - 9月）不定期出演でゲストを占う。
   - [テリーとたい平のってけラジオ](../Page/テリー伊藤のってけラジオ.md "wikilink")（[ニッポン放送](../Page/ニッポン放送.md "wikilink")、2010年5月21日・6月18日）
   - 今週の星占い（エフエム群馬、2011年4月4日‐）
@@ -217,8 +217,8 @@
 
 ### インターネット
 
-  - [溜池Now](https://ja.wikipedia.org/wiki/溜池Now "wikilink")（[GyaO](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")）第48回-第49回「2008朝まで生占い」
-  - [日韓オールスター戦へ向けたトークライブ](https://ja.wikipedia.org/wiki/日韓オールスター戦へ向けたトークライブ "wikilink")（[J's GOAL](https://ja.wikipedia.org/wiki/J's_GOAL "wikilink")×[ニコニコ動画](https://ja.wikipedia.org/wiki/ニコニコ動画 "wikilink")、2009年7月24日）
+  - [溜池Now](../Page/溜池Now.md "wikilink")（[GyaO](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")）第48回-第49回「2008朝まで生占い」
+  - [日韓オールスター戦へ向けたトークライブ](https://ja.wikipedia.org/wiki/日韓オールスター戦へ向けたトークライブ "wikilink")（[J's GOAL](../Page/J's_GOAL.md "wikilink")×[ニコニコ動画](../Page/ニコニコ動画.md "wikilink")、2009年7月24日）
   - [Fリーグ VS Jリーグ 最強の湘南ベルマーレはどっちだ\!?](https://ja.wikipedia.org/wiki/Fリーグ_VS_Jリーグ_最強の湘南ベルマーレはどっちだ!? "wikilink")（[ニコニコ生放送](https://ja.wikipedia.org/wiki/ニコニコ生放送 "wikilink")、2010年6月10日）フットサルの試合の実況&解説
   - ニコニコ超会議3 超ニコラジⅢ（2014年4月27日）ゲストを占う。
   - ニコニコ超会議2016 超ニコラジ（2016年4月29日、2016年4月30日）ゲストを占う。
@@ -242,12 +242,12 @@
 
 <!-- end list -->
 
-  - [WARP MAGAZINE JAPAN](https://ja.wikipedia.org/wiki/WARP_MAGAZINE_JAPAN "wikilink")「ラブちゃんの12星座占い」（[トランスワールドジャパン](https://ja.wikipedia.org/wiki/トランスワールドジャパン "wikilink")、2007年7月号 - 2010年8月9月合併号）
-  - [恋運暦](https://ja.wikipedia.org/wiki/恋運暦 "wikilink")「KOIUNお悩み相談室」（[イースト・プレス](https://ja.wikipedia.org/wiki/イースト・プレス "wikilink")、2008年4月号 - 2009年9月号）
+  - [WARP MAGAZINE JAPAN](https://ja.wikipedia.org/wiki/WARP_MAGAZINE_JAPAN "wikilink")「ラブちゃんの12星座占い」（[トランスワールドジャパン](../Page/トランスワールドジャパン.md "wikilink")、2007年7月号 - 2010年8月9月合併号）
+  - [恋運暦](https://ja.wikipedia.org/wiki/恋運暦 "wikilink")「KOIUNお悩み相談室」（[イースト・プレス](../Page/イースト・プレス.md "wikilink")、2008年4月号 - 2009年9月号）
   - [マンスリーよしもとPLUS](https://ja.wikipedia.org/wiki/マンスリーよしもとPLUS "wikilink")「Love Me Doのマンスリーおかま占い」（[よしもとクリエイティブ・エージェンシー](https://ja.wikipedia.org/wiki/よしもとクリエイティブ・エージェンシー "wikilink")、2010年4月号 -2013年5月号）
   - [フットサルナビ](https://ja.wikipedia.org/wiki/フットサルナビ "wikilink")「Love Me Doのフットサル占い\!\!」（[白夜書房](../Page/白夜書房.md "wikilink")、2012年3月号 -2013年11月号）
-  - [週刊Gallop](https://ja.wikipedia.org/wiki/週刊Gallop "wikilink")「Love Me Doの週末星占い」（[産経新聞社](https://ja.wikipedia.org/wiki/産経新聞社 "wikilink")、2012年6月17日号 -2013年12月22日号）
-  - [SODA](https://ja.wikipedia.org/wiki/SODA "wikilink")「Love Me Doの12星座占い」（[ぴあ](https://ja.wikipedia.org/wiki/ぴあ "wikilink")、2013年7月1日号 -2019年9月号 ）
+  - [週刊Gallop](../Page/週刊Gallop.md "wikilink")「Love Me Doの週末星占い」（[産経新聞社](https://ja.wikipedia.org/wiki/産経新聞社 "wikilink")、2012年6月17日号 -2013年12月22日号）
+  - [SODA](https://ja.wikipedia.org/wiki/SODA "wikilink")「Love Me Doの12星座占い」（[ぴあ](../Page/ぴあ.md "wikilink")、2013年7月1日号 -2019年9月号 ）
 
 <!-- end list -->
 
@@ -255,28 +255,28 @@
 
 <!-- end list -->
 
-  - [エル・ジャポン](https://ja.wikipedia.org/wiki/エル・ジャポン "wikilink")（[アシェット婦人画報社](https://ja.wikipedia.org/wiki/ハースト婦人画報社 "wikilink")、2006年9月号）
+  - [エル・ジャポン](https://ja.wikipedia.org/wiki/エル・ジャポン "wikilink")（[アシェット婦人画報社](../Page/ハースト婦人画報社.md "wikilink")、2006年9月号）
   - [SPUR](https://ja.wikipedia.org/wiki/SPUR_\(雑誌\) "wikilink")（[集英社](../Page/集英社.md "wikilink")、2007年2月号）
   - 恋運暦（イースト・プレス、2007年2月号・6月号・12月号・2009年10月号・2010年6月号・2011年1月号）
-  - [女性セブン](https://ja.wikipedia.org/wiki/女性セブン "wikilink")（[小学館](../Page/小学館.md "wikilink")、2007年11月8日号・12月20日号・2009年4月9日号）
+  - [女性セブン](../Page/女性セブン.md "wikilink")（[小学館](../Page/小学館.md "wikilink")、2007年11月8日号・12月20日号・2009年4月9日号）
   - [TOKYO★1週間](https://ja.wikipedia.org/wiki/TOKYO★1週間 "wikilink")（[講談社](../Page/講談社.md "wikilink")、2009年1月20日号・2月17日号・2010年2月16日号）
-  - [GQ JAPAN](https://ja.wikipedia.org/wiki/GQ_JAPAN "wikilink")（[コンデナスト・ジャパン](https://ja.wikipedia.org/wiki/コンデナスト・ジャパン "wikilink")、2009年5月号）
-  - [JILLE](https://ja.wikipedia.org/wiki/JILLE "wikilink")（[双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink")、2009年6月号）
-  - [ViVi](https://ja.wikipedia.org/wiki/ViVi "wikilink")「ラブちゃんのダメ恋撲滅占い」（講談社、2009年7月号）
+  - [GQ JAPAN](../Page/GQ_JAPAN.md "wikilink")（[コンデナスト・ジャパン](https://ja.wikipedia.org/wiki/コンデナスト・ジャパン "wikilink")、2009年5月号）
+  - [JILLE](../Page/JILLE.md "wikilink")（[双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink")、2009年6月号）
+  - [ViVi](../Page/ViVi.md "wikilink")「ラブちゃんのダメ恋撲滅占い」（講談社、2009年7月号）
   - [FYTTE](https://ja.wikipedia.org/wiki/FYTTE "wikilink")「おかま占い師ラブちゃんの星座別恋のお悩みトラブルうけたまわりま〜す\!」（[Gakken](https://ja.wikipedia.org/wiki/Gakken "wikilink")、2009年8月号）
-  - [MISTY](https://ja.wikipedia.org/wiki/MISTY_\(雑誌\) "wikilink")（[実業之日本社](https://ja.wikipedia.org/wiki/実業之日本社 "wikilink")、2008年7月号・2009年8月号）
+  - [MISTY](../Page/MISTY_\(雑誌\).md "wikilink")（[実業之日本社](../Page/実業之日本社.md "wikilink")、2008年7月号・2009年8月号）
   - [ニコラ](https://ja.wikipedia.org/wiki/ニコラ_\(雑誌\) "wikilink")（[新潮社](../Page/新潮社.md "wikilink")、2009年12月号）
   - トリニティ（[エルアウラ](https://ja.wikipedia.org/wiki/エルアウラ "wikilink")、34号）
-  - [Zipper](https://ja.wikipedia.org/wiki/Zipper "wikilink")（[祥伝社](https://ja.wikipedia.org/wiki/祥伝社 "wikilink")、2010年5月号）「女子力UP\!大作戦」
+  - [Zipper](../Page/Zipper.md "wikilink")（[祥伝社](../Page/祥伝社.md "wikilink")、2010年5月号）「女子力UP\!大作戦」
   - [FOOTBALL CULTURE MAGAZINE Green](https://ja.wikipedia.org/wiki/FOOTBALL_CULTURE_MAGAZINE_Green "wikilink")（[イミオ](https://ja.wikipedia.org/wiki/イミオ "wikilink")、2010年7月30日号）「ズバリ当てるわ\! F.LEAGUE 2010」
-  - [PS](https://ja.wikipedia.org/wiki/Pretty_Style "wikilink")（[小学館](../Page/小学館.md "wikilink")、2011年5月号）「にぎっちゃうわよ！“出会い”がズバリわかる！おむすび占い」
-  - [mina](https://ja.wikipedia.org/wiki/mina_\(雑誌\) "wikilink")（[主婦の友社](https://ja.wikipedia.org/wiki/主婦の友社 "wikilink")、2012年1月号）「毒舌オネエ占い師の愛あるアドバイス！ 2012 年の運命、教えてあげる♡」数秘術で占う。
+  - [PS](../Page/Pretty_Style.md "wikilink")（[小学館](../Page/小学館.md "wikilink")、2011年5月号）「にぎっちゃうわよ！“出会い”がズバリわかる！おむすび占い」
+  - [mina](https://ja.wikipedia.org/wiki/mina_\(雑誌\) "wikilink")（[主婦の友社](../Page/主婦の友社.md "wikilink")、2012年1月号）「毒舌オネエ占い師の愛あるアドバイス！ 2012 年の運命、教えてあげる♡」数秘術で占う。
   - [STRIKER DX](https://ja.wikipedia.org/wiki/STRIKER_DX "wikilink")（[学研パブリッシング](https://ja.wikipedia.org/wiki/学研パブリッシング "wikilink")、2012年3・4月号）「Loveちゃん日本代表占い」日本代表、なでしこジャパン、U-23日本代表の2012年を占う。
-  - ar（[主婦と生活社](https://ja.wikipedia.org/wiki/主婦と生活社 "wikilink")、2013年1月号）「ラブちゃんの“女のシアワセ”激辛占い」
+  - ar（[主婦と生活社](../Page/主婦と生活社.md "wikilink")、2013年1月号）「ラブちゃんの“女のシアワセ”激辛占い」
 
 ### PV
 
-  - [Hello Especially](https://ja.wikipedia.org/wiki/Hello_Especially "wikilink")（[スキマスイッチ](https://ja.wikipedia.org/wiki/スキマスイッチ "wikilink")）
+  - [Hello Especially](https://ja.wikipedia.org/wiki/Hello_Especially "wikilink")（[スキマスイッチ](../Page/スキマスイッチ.md "wikilink")）
 
 ### 占い提供
 

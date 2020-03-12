@@ -1,12 +1,12 @@
 > この記事は[APPETIZING 4 SONGS EP](https://ja.wikipedia.org/wiki/APPETIZING_4_SONGS_EP)から翻訳されています。
 
 
-『**APPETIZING 4 SONGS EP**』は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")、[SADS](https://ja.wikipedia.org/wiki/SADS "wikilink")の8枚目のシングルとして発売。
+『**APPETIZING 4 SONGS EP**』は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")、[SADS](../Page/SADS.md "wikilink")の8枚目のシングルとして発売。
 
 ## 概要
 
   - 紙ジャケット仕様。
-  - 「Children of the Revolution」は[T・レックス](https://ja.wikipedia.org/wiki/T・レックス "wikilink")のカバー。
+  - 「Children of the Revolution」は[T・レックス](../Page/T・レックス.md "wikilink")のカバー。
   - 5曲目にシークレットトラック「Honey」収録。
 
 「Honey」は、1st アルバムの「HONEY HONEY」の再録である。

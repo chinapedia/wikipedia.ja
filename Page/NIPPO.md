@@ -1,17 +1,17 @@
 > この記事は[NIPPO](https://ja.wikipedia.org/wiki/NIPPO)から翻訳されています。
 
 
-**株式会社NIPPO**（ニッポ、）は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[中央区に本社を置く](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")、日本の[大手道路会社](https://ja.wikipedia.org/wiki/大手道路会社 "wikilink")である。[JXTGホールディングス](https://ja.wikipedia.org/wiki/JXTGホールディングス "wikilink")の子会社。国内最大規模の土木建設・道路舗装業の他に、[建設コンサルタント](https://ja.wikipedia.org/wiki/建設コンサルタント "wikilink")業や[不動産業](https://ja.wikipedia.org/wiki/不動産業 "wikilink")も展開している。
+**株式会社NIPPO**（ニッポ、）は、[東京都](../Page/東京都.md "wikilink")[中央区に本社を置く](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")、日本の[大手道路会社](https://ja.wikipedia.org/wiki/大手道路会社 "wikilink")である。[JXTGホールディングス](https://ja.wikipedia.org/wiki/JXTGホールディングス "wikilink")の子会社。国内最大規模の土木建設・道路舗装業の他に、[建設コンサルタント](../Page/建設コンサルタント.md "wikilink")業や[不動産業](https://ja.wikipedia.org/wiki/不動産業 "wikilink")も展開している。
 
 ## 設立
 
-NIPPO（日本鋪道）の前身は1907年（[明治](../Page/明治.md "wikilink")40年）中外アスファルト株式会社設立に遡る。1934年（昭和9年）に、当時の日本石油（後の[新日本石油](https://ja.wikipedia.org/wiki/新日本石油 "wikilink")、現 [JXTGエネルギー](https://ja.wikipedia.org/wiki/JXTGエネルギー "wikilink")）の道路部門と[浅野物産](https://ja.wikipedia.org/wiki/浅野物産 "wikilink")（[浅野財閥](../Page/浅野財閥.md "wikilink")、現 [丸紅](https://ja.wikipedia.org/wiki/丸紅 "wikilink")）の道路部門の合併により誕生している。
+NIPPO（日本鋪道）の前身は1907年（[明治](../Page/明治.md "wikilink")40年）中外アスファルト株式会社設立に遡る。1934年（昭和9年）に、当時の日本石油（後の[新日本石油](https://ja.wikipedia.org/wiki/新日本石油 "wikilink")、現 [JXTGエネルギー](https://ja.wikipedia.org/wiki/JXTGエネルギー "wikilink")）の道路部門と[浅野物産](https://ja.wikipedia.org/wiki/浅野物産 "wikilink")（[浅野財閥](../Page/浅野財閥.md "wikilink")、現 [丸紅](../Page/丸紅.md "wikilink")）の道路部門の合併により誕生している。
 
 ## 事業
 
 舗装材料の一つである[アスファルト](../Page/アスファルト.md "wikilink")は[石油精製](../Page/石油精製.md "wikilink")により生産される製品の一つであり、建設業としてよりも石油精製業の一分野として成立した企業という側面もある。アスファルト舗装の導入など、日本における舗装の近代化に果たした貢献は大きい。優れた技術力を有する舗装部門を主力としつつも、一般土木、スポーツ関連施設、建築、環境、開発分野、海外事業などの事業多角化を進めている。近年では有料道路のPFI事業に進出するなど新しい取組みも進めている。
 
-サーキットや自動車テストコースの設計・施工も多く手がけており、他にも[オートレース](https://ja.wikipedia.org/wiki/オートレース "wikilink")場や[自転車競技場](https://ja.wikipedia.org/wiki/自転車競技場 "wikilink")および[競輪場](https://ja.wikipedia.org/wiki/競輪場 "wikilink")の舗装においても特に急勾配部（[バンク](../Page/バンク.md "wikilink")）のノウハウにおいて世界トップレベルの技術力を有し、日本の自転車競技走路においては、ほぼ100パーセント施工した実績があるとしている。
+サーキットや自動車テストコースの設計・施工も多く手がけており、他にも[オートレース](../Page/オートレース.md "wikilink")場や[自転車競技場](../Page/自転車競技場.md "wikilink")および[競輪場](../Page/競輪場.md "wikilink")の舗装においても特に急勾配部（[バンク](../Page/バンク.md "wikilink")）のノウハウにおいて世界トップレベルの技術力を有し、日本の自転車競技走路においては、ほぼ100パーセント施工した実績があるとしている。
 
 ## 沿革
 
@@ -23,14 +23,14 @@ NIPPO（日本鋪道）の前身は1907年（[明治](../Page/明治.md "wikilin
   - [1949年](../Page/1949年.md "wikilink")（昭和24年）[12月](https://ja.wikipedia.org/wiki/12月 "wikilink") - 東京証券取引所に上場。
   - [2003年](../Page/2003年.md "wikilink")（[平成](../Page/平成.md "wikilink")15年）10月1日 - **株式会社NIPPOコーポレーション**に商号変更。新日石エンジニアリングの工事・エンジニアリング部門を吸収。
   - [2009年](../Page/2009年.md "wikilink")（平成21年）[7月1日](../Page/7月1日.md "wikilink") - **株式会社NIPPO**に商号変更。
-  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）7月1日 - [JXグループ再編に伴い](https://ja.wikipedia.org/wiki/JXTGグループ "wikilink")、親会社が新日本石油からJXホールディングスに異動。
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）7月1日 - [JXグループ再編に伴い](../Page/JXTGグループ.md "wikilink")、親会社が新日本石油からJXホールディングスに異動。
   - [2012年](../Page/2012年.md "wikilink")（平成24年）[4月1日](../Page/4月1日.md "wikilink") - プラントエンジニアリング事業を日陽エンジニアリング（[JXエンジニアリング](https://ja.wikipedia.org/wiki/JXエンジニアリング "wikilink")株式会社に商号変更）に吸収分割。
-  - [2015年](../Page/2015年.md "wikilink")（平成27年）[1月](https://ja.wikipedia.org/wiki/1月 "wikilink") - [東日本高速道路](https://ja.wikipedia.org/wiki/東日本高速道路 "wikilink")が発注した、震災で被災した[高速道路](../Page/高速道路.md "wikilink")の舗装工事で、[談合](https://ja.wikipedia.org/wiki/談合 "wikilink")が行われていた疑いで、[公正取引委員会](https://ja.wikipedia.org/wiki/公正取引委員会 "wikilink")が[独占禁止法](https://ja.wikipedia.org/wiki/独占禁止法 "wikilink")違反などの疑いで、同社など13社を捜索\[1\]。
+  - [2015年](../Page/2015年.md "wikilink")（平成27年）[1月](https://ja.wikipedia.org/wiki/1月 "wikilink") - [東日本高速道路](../Page/東日本高速道路.md "wikilink")が発注した、震災で被災した[高速道路](../Page/高速道路.md "wikilink")の舗装工事で、[談合](https://ja.wikipedia.org/wiki/談合 "wikilink")が行われていた疑いで、[公正取引委員会](https://ja.wikipedia.org/wiki/公正取引委員会 "wikilink")が[独占禁止法](../Page/独占禁止法.md "wikilink")違反などの疑いで、同社など13社を捜索\[1\]。
 
 ## 関係会社
 
-  - [大日本土木](https://ja.wikipedia.org/wiki/大日本土木 "wikilink") - 経営再建前の経緯から[近鉄グループ](https://ja.wikipedia.org/wiki/近鉄グループ "wikilink")にも属する。
-  - [長谷川体育施設](https://ja.wikipedia.org/wiki/長谷川体育施設 "wikilink")
+  - [大日本土木](../Page/大日本土木.md "wikilink") - 経営再建前の経緯から[近鉄グループ](https://ja.wikipedia.org/wiki/近鉄グループ "wikilink")にも属する。
+  - [長谷川体育施設](../Page/長谷川体育施設.md "wikilink")
   - [日鋪建設](https://ja.wikipedia.org/wiki/日鋪建設 "wikilink")
   - マツレキ
   - MECX
@@ -44,13 +44,13 @@ NIPPO（日本鋪道）の前身は1907年（[明治](../Page/明治.md "wikilin
 
 ## 著名な出身者
 
-  - [久野統一郎](https://ja.wikipedia.org/wiki/久野統一郎 "wikilink") - 元[自民党](https://ja.wikipedia.org/wiki/自由民主党_\(日本\) "wikilink")[衆議院議員](https://ja.wikipedia.org/wiki/衆議院議員 "wikilink")・国土政務次官・自治政務次官・自民党副幹事長
+  - [久野統一郎](../Page/久野統一郎.md "wikilink") - 元[自民党](../Page/自由民主党_\(日本\).md "wikilink")[衆議院議員](https://ja.wikipedia.org/wiki/衆議院議員 "wikilink")・国土政務次官・自治政務次官・自民党副幹事長
 
 ## サイクル・ロードレース
 
-自転車競技走路などの舗装技術の開発を通じて[サイクル・ロードレースにも関わりが深いことでも知られ](../Page/ロードレース_\(自転車競技\).md "wikilink")、日本鋪道時代の1987年以来サイクル・ロードレースチームを所有・支援している。現在スポンサーとなっているNIPPO・ヴィーニファンティーニは2015年から[UCI](https://ja.wikipedia.org/wiki/国際自転車競技連合 "wikilink")[プロフェッショナルコンチネンタルチーム](https://ja.wikipedia.org/wiki/プロフェッショナルコンチネンタルチーム "wikilink")（イタリア登録）に昇格した日本人選手を含む国際チームで、[グランツール](../Page/グランツール.md "wikilink")のひとつである[ジロ・デ・イタリア](../Page/ジロ・デ・イタリア.md "wikilink")にも参戦している。
+自転車競技走路などの舗装技術の開発を通じて[サイクル・ロードレースにも関わりが深いことでも知られ](../Page/ロードレース_\(自転車競技\).md "wikilink")、日本鋪道時代の1987年以来サイクル・ロードレースチームを所有・支援している。現在スポンサーとなっているNIPPO・ヴィーニファンティーニは2015年から[UCI](../Page/国際自転車競技連合.md "wikilink")[プロフェッショナルコンチネンタルチーム](https://ja.wikipedia.org/wiki/プロフェッショナルコンチネンタルチーム "wikilink")（イタリア登録）に昇格した日本人選手を含む国際チームで、[グランツール](../Page/グランツール.md "wikilink")のひとつである[ジロ・デ・イタリア](../Page/ジロ・デ・イタリア.md "wikilink")にも参戦している。
 
-2019年にチームが解散したため、2020年からは[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[マルセイユ](https://ja.wikipedia.org/wiki/マルセイユ "wikilink")に拠点を置き、2020年より[UCIプロチーム](https://ja.wikipedia.org/wiki/UCIプロチーム "wikilink")に加入するデルコ・マルセイユ・プロヴァンスのメインスポンサーとなることが公式HPで発表された。チーム名は「(Nippo Delko One Provence)」となる。
+2019年にチームが解散したため、2020年からは[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[マルセイユ](../Page/マルセイユ.md "wikilink")に拠点を置き、2020年より[UCIプロチーム](https://ja.wikipedia.org/wiki/UCIプロチーム "wikilink")に加入するデルコ・マルセイユ・プロヴァンスのメインスポンサーとなることが公式HPで発表された。チーム名は「(Nippo Delko One Provence)」となる。
 
 ## 脚注
 

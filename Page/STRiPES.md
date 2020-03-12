@@ -1,7 +1,7 @@
 > この記事は[STRiPES](https://ja.wikipedia.org/wiki/STRiPES)から翻訳されています。
 
 
-**STRiPES**（ストライプス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[タップダンサーチーム](https://ja.wikipedia.org/wiki/タップダンス "wikilink")。
+**STRiPES**（ストライプス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[タップダンサーチーム](../Page/タップダンス.md "wikilink")。
 
 ## 概要
 
@@ -30,8 +30,8 @@
 
 ### 映画
 
-  - [座頭市](https://ja.wikipedia.org/wiki/座頭市_\(2003年の映画\) "wikilink")（2003年、[松竹](../Page/松竹.md "wikilink")）農民役として出演、及びタップダンス指導\[15\]
-  - [TAKESHIS'](https://ja.wikipedia.org/wiki/TAKESHIS' "wikilink")（2005年、[松竹](../Page/松竹.md "wikilink")）\[16\]
+  - [座頭市](../Page/座頭市_\(2003年の映画\).md "wikilink")（2003年、[松竹](../Page/松竹.md "wikilink")）農民役として出演、及びタップダンス指導\[15\]
+  - [TAKESHIS'](../Page/TAKESHIS'.md "wikilink")（2005年、[松竹](../Page/松竹.md "wikilink")）\[16\]
 
 ### CM
 
@@ -41,7 +41,7 @@
 
 ## 音楽
 
-  - Loosey\[20\]（2004年）アニメ『[爆裂天使](https://ja.wikipedia.org/wiki/爆裂天使 "wikilink")』オープニングテーマ
+  - Loosey\[20\]（2004年）アニメ『[爆裂天使](../Page/爆裂天使.md "wikilink")』オープニングテーマ
 
 ## 脚注・出典
 

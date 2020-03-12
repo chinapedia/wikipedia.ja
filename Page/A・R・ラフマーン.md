@@ -1,13 +1,13 @@
 > この記事は[AR](https://ja.wikipedia.org/wiki/AR)から翻訳されています。
 
 
-**アラー・ラッカー・ラフマーン**（Al Rakkha Rahman、タミル語:ஏ.ஆர்.ரஹ்மான்、[1966年](../Page/1966年.md "wikilink")[1月6日](../Page/1月6日.md "wikilink") - ）は、[インド](../Page/インド.md "wikilink")の[作曲家](../Page/作曲家.md "wikilink")、[キーボーディスト](https://ja.wikipedia.org/wiki/キーボーディスト "wikilink")、[歌手](../Page/歌手.md "wikilink")。[タミル・ナードゥ州](https://ja.wikipedia.org/wiki/タミル・ナードゥ州 "wikilink")[チェンナイ](https://ja.wikipedia.org/wiki/チェンナイ "wikilink")出身で、同地にスタジオを持つ。[映画音楽](https://ja.wikipedia.org/wiki/映画音楽 "wikilink")の作曲で知られ、[2009年](../Page/2009年.md "wikilink")、『[スラムドッグ$ミリオネア](https://ja.wikipedia.org/wiki/スラムドッグ$ミリオネア "wikilink")』で[ゴールデングローブ賞 作曲賞](https://ja.wikipedia.org/wiki/ゴールデングローブ賞_作曲賞 "wikilink")、[第81回アカデミー賞](https://ja.wikipedia.org/wiki/第81回アカデミー賞 "wikilink")で作曲賞、歌曲賞を受賞した。2016年[福岡アジア文化賞](https://ja.wikipedia.org/wiki/福岡アジア文化賞 "wikilink")大賞受賞。
+**アラー・ラッカー・ラフマーン**（Al Rakkha Rahman、タミル語:ஏ.ஆர்.ரஹ்மான்、[1966年](../Page/1966年.md "wikilink")[1月6日](../Page/1月6日.md "wikilink") - ）は、[インド](../Page/インド.md "wikilink")の[作曲家](../Page/作曲家.md "wikilink")、[キーボーディスト](../Page/キーボーディスト.md "wikilink")、[歌手](../Page/歌手.md "wikilink")。[タミル・ナードゥ州](../Page/タミル・ナードゥ州.md "wikilink")[チェンナイ](../Page/チェンナイ.md "wikilink")出身で、同地にスタジオを持つ。[映画音楽](../Page/映画音楽.md "wikilink")の作曲で知られ、[2009年](../Page/2009年.md "wikilink")、『[スラムドッグ$ミリオネア](https://ja.wikipedia.org/wiki/スラムドッグ$ミリオネア "wikilink")』で[ゴールデングローブ賞 作曲賞](../Page/ゴールデングローブ賞_作曲賞.md "wikilink")、[第81回アカデミー賞](https://ja.wikipedia.org/wiki/第81回アカデミー賞 "wikilink")で作曲賞、歌曲賞を受賞した。2016年[福岡アジア文化賞](https://ja.wikipedia.org/wiki/福岡アジア文化賞 "wikilink")大賞受賞。
 
 [最も売れたアーティスト一覧](https://ja.wikipedia.org/wiki/最も売れたアーティスト一覧 "wikilink")によると、シングル・アルバムの総売上枚数が3億枚と、アジア人最高を誇る。
 
 ## プロフィール
 
-9歳の頃、[マラヤーラム語](https://ja.wikipedia.org/wiki/マラヤーラム語 "wikilink")映画の映画音楽作曲家であった父親が死去し、貧しい生活を送る。
+9歳の頃、[マラヤーラム語](../Page/マラヤーラム語.md "wikilink")映画の映画音楽作曲家であった父親が死去し、貧しい生活を送る。
 
 ## 映画作品
 
@@ -16,12 +16,12 @@
   - [ロージャー](https://ja.wikipedia.org/wiki/ロージャー "wikilink") - *Roja* (1992) ※デビュー作
   - [インディラ](https://ja.wikipedia.org/wiki/インディラ_\(映画\) "wikilink") *Indira* (1995)
   - [ボンベイ](../Page/ボンベイ_\(映画\).md "wikilink") - *Bombay* (1995)
-  - [ムトゥ 踊るマハラジャ](https://ja.wikipedia.org/wiki/ムトゥ_踊るマハラジャ "wikilink") - *Muthu* (1995)
+  - [ムトゥ 踊るマハラジャ](../Page/ムトゥ_踊るマハラジャ.md "wikilink") - *Muthu* (1995)
   - [インドの仕置人](https://ja.wikipedia.org/wiki/インドの仕置人 "wikilink") - *Indian* (1996)
   - [マドラスカレッジ大通り](https://ja.wikipedia.org/wiki/マドラスカレッジ大通り "wikilink") - *Kadhal Desam* (1996)
   - [イルヴァール](https://ja.wikipedia.org/wiki/イルヴァール_ザ・デュオ "wikilink") - *Iruvar* (1997)
   - [ジーンズ 世界は2人のために](https://ja.wikipedia.org/wiki/ジーンズ_世界は2人のために "wikilink") - *Jeans* (1998)
-  - [ディル・セ 心から](https://ja.wikipedia.org/wiki/ディル・セ_心から "wikilink") - *Dil Se..* (1998)
+  - [ディル・セ 心から](../Page/ディル・セ_心から.md "wikilink") - *Dil Se..* (1998)
   - [パダヤッパ 〜いつでも俺はマジだぜ\!〜](https://ja.wikipedia.org/wiki/パダヤッパ_〜いつでも俺はマジだぜ!〜 "wikilink") - *Padayappa* (1999)
 
 ### 2000年代
@@ -31,7 +31,7 @@
   - [ヘブン・アンド・アース](https://ja.wikipedia.org/wiki/ヘブン・アンド・アース "wikilink") - *Warriors of Heaven and Earth* (2003)
   - [とらわれの水](https://ja.wikipedia.org/wiki/とらわれの水 "wikilink") - *Water* (2005)
   - [ボス その男シヴァージ](https://ja.wikipedia.org/wiki/ボス_その男シヴァージ "wikilink") - *Sivaji* (2007)
-  - [エリザベス:ゴールデン・エイジ](https://ja.wikipedia.org/wiki/エリザベス:ゴールデン・エイジ "wikilink") - *Elizabeth: The Golden Age* (2007)
+  - [エリザベス:ゴールデン・エイジ](../Page/エリザベス:ゴールデン・エイジ.md "wikilink") - *Elizabeth: The Golden Age* (2007)
   - [スラムドッグ$ミリオネア](https://ja.wikipedia.org/wiki/スラムドッグ$ミリオネア "wikilink") - *Slumdog Millionaire* (2008)
   - [デリー6](https://ja.wikipedia.org/wiki/デリー6 "wikilink") - *Delhi-6* (2009)
 
@@ -44,7 +44,7 @@
   - [マッスル 踊る稲妻](https://ja.wikipedia.org/wiki/マッスル_踊る稲妻 "wikilink") *I* (2015)
   - [英国総督 最後の家](https://ja.wikipedia.org/wiki/英国総督_最後の家 "wikilink") *Viceroy's House* (2017)
   - [SANJU サンジュ](https://ja.wikipedia.org/wiki/SANJU_サンジュ "wikilink") *Sanju* (2018)
-  - [ロボット2.0](https://ja.wikipedia.org/wiki/ロボット2.0 "wikilink") *2.0* (2018)
+  - [ロボット2.0](../Page/ロボット2.0.md "wikilink") *2.0* (2018)
   - [カセットテープ・ダイアリーズ](https://ja.wikipedia.org/wiki/カセットテープ・ダイアリーズ "wikilink") *Blinded by the Light* (2019)
 
 ## 非映画作品

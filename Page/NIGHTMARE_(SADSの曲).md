@@ -1,7 +1,7 @@
 > この記事は[NIGHTMARE \(SADS\)](https://ja.wikipedia.org/wiki/NIGHTMARE_\(SADS\))から翻訳されています。
 
 
-『**NIGHTMARE**』（ナイトメア）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")、[SADS](https://ja.wikipedia.org/wiki/SADS "wikilink")の6枚目のシングル。
+『**NIGHTMARE**』（ナイトメア）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")、[SADS](../Page/SADS.md "wikilink")の6枚目のシングル。
 
 ## 概要
 

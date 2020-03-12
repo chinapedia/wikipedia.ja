@@ -1,7 +1,7 @@
 > この記事は[ \(SADS\)](https://ja.wikipedia.org/wiki/_\(SADS\))から翻訳されています。
 
 
-『**ストロベリー**』は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")、[SADS](https://ja.wikipedia.org/wiki/SADS "wikilink")の5枚目のシングル。
+『**ストロベリー**』は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")、[SADS](../Page/SADS.md "wikilink")の5枚目のシングル。
 
 ## 概要
 

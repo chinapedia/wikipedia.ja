@@ -3,13 +3,13 @@
 
 **グローバルCOEプログラム**（グローバルしーおーいープログラム、**Global COE Program**）は、 日本の大学院の教育研究機能を一層充実・強化し、世界最高水準の研究基盤の下で世界をリードする創造的な人材育成を図るため、国際的に卓越した教育研究拠点の形成を重点的に支援し、国際競争力のある大学づくりの推進を目的とする[文部科学省](../Page/文部科学省.md "wikilink")[研究拠点形成等補助金](https://ja.wikipedia.org/wiki/研究拠点形成等補助金 "wikilink")事業である。
 
-[2002年](../Page/2002年.md "wikilink")度から開始された[21世紀COEプログラム](https://ja.wikipedia.org/wiki/21世紀COEプログラム "wikilink")の考え方を基本的に継承した。ただ、「21世紀」に比して採択件数を半減させる一方で、一採択拠点あたりに配分する補助金の額を倍増する点で、より競争的な制度になっている。
+[2002年](../Page/2002年.md "wikilink")度から開始された[21世紀COEプログラム](../Page/21世紀COEプログラム.md "wikilink")の考え方を基本的に継承した。ただ、「21世紀」に比して採択件数を半減させる一方で、一採択拠点あたりに配分する補助金の額を倍増する点で、より競争的な制度になっている。
 
 ## 制度概要
 
 ### 背景
 
-[中央教育審議会](https://ja.wikipedia.org/wiki/中央教育審議会 "wikilink")答申「新時代の大学院教育」および[科学技術基本計画](https://ja.wikipedia.org/wiki/科学技術基本計画 "wikilink")において、より充実・発展させたポスト21世紀COEプログラムの実現の必要性について言及されており、文部科学省ではこれらを踏まえ、学際・複合・新領域も含めたすべての学問分野を対象とする、特に、産業界も含めた社会のあらゆる分野で国際的に活躍できる若手研究者の育成機能の抜本的強化と国際的に卓越した教育研究拠点の形成を図るために、グローバルCOEプログラムを実施することとした。
+[中央教育審議会](../Page/中央教育審議会.md "wikilink")答申「新時代の大学院教育」および[科学技術基本計画](https://ja.wikipedia.org/wiki/科学技術基本計画 "wikilink")において、より充実・発展させたポスト21世紀COEプログラムの実現の必要性について言及されており、文部科学省ではこれらを踏まえ、学際・複合・新領域も含めたすべての学問分野を対象とする、特に、産業界も含めた社会のあらゆる分野で国際的に活躍できる若手研究者の育成機能の抜本的強化と国際的に卓越した教育研究拠点の形成を図るために、グローバルCOEプログラムを実施することとした。
 
 ### 目的
 
@@ -33,37 +33,37 @@
 
 ## グローバルCOEプログラム委員会
 
-グローバルCOEプログラムは、グローバルCOEプログラム委員会により運営される。グローバルCOEプログラム委員会は独立行政法人[日本学術振興会](https://ja.wikipedia.org/wiki/日本学術振興会 "wikilink")に設置されており、独立行政法人[大学評価・学位授与機構](https://ja.wikipedia.org/wiki/大学評価・学位授与機構 "wikilink")、[日本私立学校振興・共済事業団](https://ja.wikipedia.org/wiki/日本私立学校振興・共済事業団 "wikilink")、[財団法人](../Page/財団法人.md "wikilink")[大学基準協会](https://ja.wikipedia.org/wiki/大学基準協会 "wikilink")の協力により運営されている。
+グローバルCOEプログラムは、グローバルCOEプログラム委員会により運営される。グローバルCOEプログラム委員会は独立行政法人[日本学術振興会](../Page/日本学術振興会.md "wikilink")に設置されており、独立行政法人[大学評価・学位授与機構](https://ja.wikipedia.org/wiki/大学評価・学位授与機構 "wikilink")、[日本私立学校振興・共済事業団](../Page/日本私立学校振興・共済事業団.md "wikilink")、[財団法人](../Page/財団法人.md "wikilink")[大学基準協会](../Page/大学基準協会.md "wikilink")の協力により運営されている。
 
 ### プログラム委員会委員
 
 プログラム委員会委員は、グローバルCOEプログラム委員会委員選考会議により選考される。2012年度委員は次の通り。
 
-  - [安西祐一郎](https://ja.wikipedia.org/wiki/安西祐一郎 "wikilink")（副委員長）- 独立行政法人日本学術振興会理事長
+  - [安西祐一郎](../Page/安西祐一郎.md "wikilink")（副委員長）- 独立行政法人日本学術振興会理事長
   - [勝木元也](https://ja.wikipedia.org/wiki/勝木元也 "wikilink") - 独立行政法人日本学術振興会学術システム研究センター副所長
   - [金澤一郎](https://ja.wikipedia.org/wiki/金澤一郎 "wikilink") - 宮内庁長官官房皇室医務主管
   - [河田悌一](https://ja.wikipedia.org/wiki/河田悌一 "wikilink") - 日本私立学校振興・共済事業団理事長
   - [草間朋子](https://ja.wikipedia.org/wiki/草間朋子 "wikilink") - 東京医療保健大学副学長
   - [佐々木毅](../Page/佐々木毅.md "wikilink") - 学習院大学法学部教授
-  - [佐々木雄太](https://ja.wikipedia.org/wiki/佐々木雄太 "wikilink") - 名古屋経済大学長
-  - [白井克彦](https://ja.wikipedia.org/wiki/白井克彦 "wikilink") - 放送大学学園理事長
+  - [佐々木雄太](../Page/佐々木雄太.md "wikilink") - 名古屋経済大学長
+  - [白井克彦](../Page/白井克彦.md "wikilink") - 放送大学学園理事長
   - [鈴木厚人](https://ja.wikipedia.org/wiki/鈴木厚人 "wikilink") - 大学共同利用機関法人高エネルギー加速器研究機構長
   - [鈴木基之](https://ja.wikipedia.org/wiki/鈴木基之 "wikilink") - 東京大学名誉教授
-  - [鈴村興太郎](https://ja.wikipedia.org/wiki/鈴村興太郎 "wikilink") - 早稲田大学政治経済学術院教授
+  - [鈴村興太郎](../Page/鈴村興太郎.md "wikilink") - 早稲田大学政治経済学術院教授
   - [立本成文](https://ja.wikipedia.org/wiki/立本成文 "wikilink") - 大学共同利用機関法人人間文化研究機構総合地球環境学研究所長
   - [田中隆治](https://ja.wikipedia.org/wiki/田中隆治 "wikilink") - 星薬科大学長
   - [田中英彦](https://ja.wikipedia.org/wiki/田中英彦 "wikilink") - 情報セキュリティ大学院大学長
   - [玉尾皓平](https://ja.wikipedia.org/wiki/玉尾皓平 "wikilink") - 独立行政法人理化学研究所基幹研究所長
   - [知野恵子](https://ja.wikipedia.org/wiki/知野恵子 "wikilink") - 読売新聞東京本社編集局編集委員
   - [戸張規子](https://ja.wikipedia.org/wiki/戸張規子 "wikilink") - 慶應義塾大学名誉教授
-  - [鳥居泰彦](https://ja.wikipedia.org/wiki/鳥居泰彦 "wikilink") - 慶應義塾学事顧問
+  - [鳥居泰彦](../Page/鳥居泰彦.md "wikilink") - 慶應義塾学事顧問
   - [中島尚正](https://ja.wikipedia.org/wiki/中島尚正 "wikilink") - 学校法人海陽学園海陽中等教育学校長
-  - [納谷廣美](https://ja.wikipedia.org/wiki/納谷廣美 "wikilink") - 財団法人大学基準協会長
+  - [納谷廣美](../Page/納谷廣美.md "wikilink") - 財団法人大学基準協会長
   - [野上智行](https://ja.wikipedia.org/wiki/野上智行 "wikilink") - 独立行政法人大学評価・学位授与機構長
   - [野依良治](../Page/野依良治.md "wikilink")（委員長）- 独立行政法人理化学研究所理事長
   - [濱田純一](https://ja.wikipedia.org/wiki/濱田純一 "wikilink") - 東京大学総長
   - [福山秀敏](https://ja.wikipedia.org/wiki/福山秀敏 "wikilink") - 東京理科大学副学長、総合研究機構長
-  - [松本紘](https://ja.wikipedia.org/wiki/松本紘 "wikilink") - 京都大学総長
+  - [松本紘](../Page/松本紘.md "wikilink") - 京都大学総長
 
 計25名
 
@@ -226,4 +226,4 @@
 
 [Category:日本学術振興会](https://ja.wikipedia.org/wiki/Category:日本学術振興会 "wikilink") [Category:日本の教育行政](https://ja.wikipedia.org/wiki/Category:日本の教育行政 "wikilink") [Category:日本の大学](https://ja.wikipedia.org/wiki/Category:日本の大学 "wikilink") [Category:学際領域](https://ja.wikipedia.org/wiki/Category:学際領域 "wikilink") [Category:補助金](https://ja.wikipedia.org/wiki/Category:補助金 "wikilink")
 
-1.  [週刊ダイヤモンド](https://ja.wikipedia.org/wiki/週刊ダイヤモンド "wikilink")COE獲得額[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[2月27日](../Page/2月27日.md "wikilink")号
+1.  [週刊ダイヤモンド](../Page/週刊ダイヤモンド.md "wikilink")COE獲得額[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[2月27日](../Page/2月27日.md "wikilink")号

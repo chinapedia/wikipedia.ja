@@ -5,21 +5,21 @@
 
 ## 解説
 
-  - オリジナルアルバムとしては、『[DEEP FOREST](https://ja.wikipedia.org/wiki/DEEP_FOREST "wikilink")』以来1年3ヶ月ぶり。
-  - [2002年](../Page/2002年.md "wikilink")[3月20日](../Page/3月20日.md "wikilink")発売の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")『[Do The Best](../Page/Do_The_Best.md "wikilink")』に封入されていたチラシにすでに本作のリリースが告知されており、告知通りのリリースとなった（告知では発売日は[2003年](../Page/2003年.md "wikilink")[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink")）。
+  - オリジナルアルバムとしては、『[DEEP FOREST](../Page/DEEP_FOREST.md "wikilink")』以来1年3ヶ月ぶり。
+  - [2002年](../Page/2002年.md "wikilink")[3月20日](../Page/3月20日.md "wikilink")発売の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")『[Do The Best](../Page/Do_The_Best.md "wikilink")』に封入されていたチラシにすでに本作のリリースが告知されており、告知通りのリリースとなった（告知では発売日は[2003年](../Page/2003年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")）。
   - 『[under the sun](https://ja.wikipedia.org/wiki/under_the_sun/under_the_moon "wikilink")』との[両A面](https://ja.wikipedia.org/wiki/両A面 "wikilink")[シングル](../Page/シングル.md "wikilink")で発売された『under the moon』は収録されていない。
-  - 『空想旅団』『あいのうた』はこのアルバムのオリジナル曲だが人気が高く、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月15日](../Page/3月15日.md "wikilink")にリリースされたファン投票によるベストアルバム『[Do The Best "Great Supporters Selection"](https://ja.wikipedia.org/wiki/Do_The_Best_"Great_Supporters_Selection" "wikilink")』にも収録されている。
+  - 『空想旅団』『あいのうた』はこのアルバムのオリジナル曲だが人気が高く、[2006年](../Page/2006年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")にリリースされたファン投票によるベストアルバム『[Do The Best "Great Supporters Selection"](https://ja.wikipedia.org/wiki/Do_The_Best_"Great_Supporters_Selection" "wikilink")』にも収録されている。
   - 特に『あいのうた』はライブのアンコール最後の定番曲になっていて、ラストライブで最後に歌われた曲でもある。また『Do The Best "Great Supporters Selection"』収録曲を決める際のファン投票で1位になった。
   - 初回盤はシークレットトラック収録、スリーブケース仕様。
-  - [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")『[RAINBOW](https://ja.wikipedia.org/wiki/RAINBOW_\(浜崎あゆみのアルバム\) "wikilink")』・[KinKi Kids](../Page/KinKi_Kids.md "wikilink")『[F album](https://ja.wikipedia.org/wiki/F_album "wikilink")』など強豪アーティストとのアルバムリリース時期と重なったことから4作連続[オリコン](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位は獲得できず、売り上げも前作より減少してしまった。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月16日](../Page/2月16日.md "wikilink")にデビュー5周年企画として、紙ジャケット仕様の限定盤が発売された。紙ジャケット盤は[CDDA仕様となっている](../Page/CD-DA.md "wikilink")(収録内容は通常盤と同じ)。
-  - また2006年[3月15日](../Page/3月15日.md "wikilink")リリースの6枚組[CD](../Page/コンパクトディスク.md "wikilink")＋[DVDの限定ボックスセット](../Page/DVD-Video.md "wikilink")『[Do The Box](https://ja.wikipedia.org/wiki/Do_The_Box "wikilink")』に入っている『TRUE SONG』もCDDA仕様になっており、こちらは初回盤仕様になっている。
+  - [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")『[RAINBOW](../Page/RAINBOW_\(浜崎あゆみのアルバム\).md "wikilink")』・[KinKi Kids](../Page/KinKi_Kids.md "wikilink")『[F album](../Page/F_album.md "wikilink")』など強豪アーティストとのアルバムリリース時期と重なったことから4作連続[オリコン](../Page/オリコンチャート.md "wikilink")1位は獲得できず、売り上げも前作より減少してしまった。
+  - [2005年](../Page/2005年.md "wikilink")[2月16日](../Page/2月16日.md "wikilink")にデビュー5周年企画として、紙ジャケット仕様の限定盤が発売された。紙ジャケット盤は[CDDA仕様となっている](../Page/CD-DA.md "wikilink")(収録内容は通常盤と同じ)。
+  - また2006年[3月15日](../Page/3月15日.md "wikilink")リリースの6枚組[CD](../Page/コンパクトディスク.md "wikilink")＋[DVDの限定ボックスセット](../Page/DVD-Video.md "wikilink")『[Do The Box](../Page/Do_The_Box.md "wikilink")』に入っている『TRUE SONG』もCDDA仕様になっており、こちらは初回盤仕様になっている。
 
 ## 収録曲
 
 1.  **空想旅団**
       -
-        歌詞は音楽が誕生してからDo As Infinityがデビューするまでといった過程。尚、｢空想旅団｣とはDo As Infinity自身を指す。歌詞中には彼等が尊敬するバンドである[The Beatles](https://ja.wikipedia.org/wiki/ビートルズ "wikilink")(1962=デビュー年、港町=リバプール、など)、[Jimi Hendrix](../Page/ジミ・ヘンドリックス.md "wikilink")(1969=デビュー年、愛と平和=ウッドストック・フェスティバル、など)、そしてDo As Infinity自身(1999=デビュー年、歌詞上に渋谷とかいて**路上(ろじょう)**と読ませる)の事が暗に示されている。
+        歌詞は音楽が誕生してからDo As Infinityがデビューするまでといった過程。尚、｢空想旅団｣とはDo As Infinity自身を指す。歌詞中には彼等が尊敬するバンドである[The Beatles](../Page/ビートルズ.md "wikilink")(1962=デビュー年、港町=リバプール、など)、[Jimi Hendrix](../Page/ジミ・ヘンドリックス.md "wikilink")(1969=デビュー年、愛と平和=ウッドストック・フェスティバル、など)、そしてDo As Infinity自身(1999=デビュー年、歌詞上に渋谷とかいて**路上(ろじょう)**と読ませる)の事が暗に示されている。
 2.  **[under the sun](https://ja.wikipedia.org/wiki/under_the_sun/under_the_moon "wikilink")**
       -
         13thシングル。両A面のもう1曲『[under the moon](https://ja.wikipedia.org/wiki/under_the_sun/under_the_moon "wikilink")』は収録されていない。
@@ -38,7 +38,7 @@
 11. **あいのうた**
       -
         ライブのアンコールの最後によく歌われる。TBS駅伝イメージソング。
-12. **[遠くまで](https://ja.wikipedia.org/wiki/遠くまで_\(Do_As_Infinityの曲\) "wikilink") ～3RD ANNIVERSARY SPECIAL LIVE ver.～**
+12. **[遠くまで](../Page/遠くまで_\(Do_As_Infinityの曲\).md "wikilink") ～3RD ANNIVERSARY SPECIAL LIVE ver.～**
       -
         初回限定シークレットトラック。あいのうたが終わってしばらく経つと聴ける。曲の始まる時間は9,29であり、1stシングルの発売日である9月29日とかけている。この時の映像は後に発売されたDVD｢3rd ANNIVERSARY SPECIAL LIVE｣で見ることができる。
 

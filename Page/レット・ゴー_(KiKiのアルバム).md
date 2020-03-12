@@ -1,7 +1,7 @@
 > この記事は[ \(KiKi\)](https://ja.wikipedia.org/wiki/_\(KiKi\))から翻訳されています。
 
 
-**レット・ゴー(Let Go)**は、アメリカ合衆国のゴスペル・シンガー、[KiKiの日本デビューアルバムである](https://ja.wikipedia.org/wiki/キエラ・キキ・シェアード "wikilink")。
+**レット・ゴー(Let Go)**は、アメリカ合衆国のゴスペル・シンガー、[KiKiの日本デビューアルバムである](../Page/キエラ・キキ・シェアード.md "wikilink")。
 
 ## 概要
 
@@ -15,7 +15,7 @@
 <!-- end list -->
 
 1.  ●レット・ゴー(ロック・ソウル・リミックス)/*Let Go (Rock Soul Remix)*
-      - FM18局で[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")[ヘヴィー・ローテーション](https://ja.wikipedia.org/wiki/ヘヴィー・ローテーション "wikilink")に選定された。また、日本のオフィシャルサイトでは、この曲のダンスコンテストを実施していた。
+      - FM18局で[2005年](../Page/2005年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")[ヘヴィー・ローテーション](../Page/ヘヴィー・ローテーション.md "wikilink")に選定された。また、日本のオフィシャルサイトでは、この曲のダンスコンテストを実施していた。
 2.  ●ユー・ドント・ノウ(モンスタズ・ミックス)/*You Don't Know(Monsta's Mix)*
 3.  ●ウォー(オールド&アグリー・ミックス)/*War (Old & Ugly Mix)*
 4.  ●スウィーテスト・シング(ダッチ・ミックス)/*Sweetest Thing (Dutch Mix)*

@@ -1,7 +1,7 @@
 > この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
 
 
-**NHK和歌山放送局**（エヌエイチケイわかやまほうそうきょく）は、[和歌山県](../Page/和歌山県.md "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](https://ja.wikipedia.org/wiki/日本放送協会放送局の一覧 "wikilink")。総合テレビ、FM放送で県域放送を行っている。
+**NHK和歌山放送局**（エヌエイチケイわかやまほうそうきょく）は、[和歌山県](../Page/和歌山県.md "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。総合テレビ、FM放送で県域放送を行っている。
 
 教育テレビジョン（Eテレ）とラジオ第1放送、ラジオ第2放送は、[NHK大阪放送局](../Page/NHK大阪放送局.md "wikilink")からカバーおよび中継されている。
 
@@ -14,16 +14,16 @@
   - [1948年](../Page/1948年.md "wikilink")（昭和23年）[5月1日](../Page/5月1日.md "wikilink") - 和歌山出張所を和歌山支局と改称。
   - [1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")（昭和26年）[7月1日](../Page/7月1日.md "wikilink") - 和歌山支局を和歌山放送局と改称（送信施設なし）。
   - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")（昭和44年）[1月](https://ja.wikipedia.org/wiki/1月 "wikilink") - 和歌山市吹上に和歌山放送会館新築移転。
-  - [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")（昭和45年）[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink") - FM放送（呼出符号JORP-FM）開始。
+  - [1970年](../Page/1970年.md "wikilink")（昭和45年）[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink") - FM放送（呼出符号JORP-FM）開始。
   - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")（昭和46年）[5月31日](../Page/5月31日.md "wikilink") - 総合テレビ（アナログ）ローカル放送（呼出符号JORP-TV）開始\[1\]。
   - [1982年](../Page/1982年.md "wikilink")（昭和57年）[4月5日](../Page/4月5日.md "wikilink") - 「ニュースワイド630」開始。
   - [2002年](../Page/2002年.md "wikilink")（平成14年）[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - 「ニュースかんさい発わかやま」（15分）開始。
   - [2003年](../Page/2003年.md "wikilink")（平成15年）[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - 「わかやま630」（30分）開始。
-  - [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")（平成16年）[3月29日](../Page/3月29日.md "wikilink") - 「[わかやまNEWSウェーブ](https://ja.wikipedia.org/wiki/わかやまNEWSウェーブ "wikilink")」（50分）開始。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）[3月28日](../Page/3月28日.md "wikilink") - 「わかやま845」放送開始。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）[4月1日](../Page/4月1日.md "wikilink") - [地上デジタル放送（呼出符号JORP-DTV）開始](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）[3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - 和歌山放送局開局70年。コンサートや特別番組を放送。
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")（平成19年）3月 - サテライトスタジオ「オレンジスタジオ」開設、「[わかやまパワーステーション](https://ja.wikipedia.org/wiki/わかやまパワーステーション "wikilink")」開始。地域密着情報番組として2年間にわたり放送された。
+  - [2004年](../Page/2004年.md "wikilink")（平成16年）[3月29日](../Page/3月29日.md "wikilink") - 「[わかやまNEWSウェーブ](../Page/わかやまNEWSウェーブ.md "wikilink")」（50分）開始。
+  - [2005年](../Page/2005年.md "wikilink")（平成17年）[3月28日](../Page/3月28日.md "wikilink") - 「わかやま845」放送開始。
+  - [2005年](../Page/2005年.md "wikilink")（平成17年）[4月1日](../Page/4月1日.md "wikilink") - [地上デジタル放送（呼出符号JORP-DTV）開始](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")。
+  - [2006年](../Page/2006年.md "wikilink")（平成18年）[3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - 和歌山放送局開局70年。コンサートや特別番組を放送。
+  - [2007年](../Page/2007年.md "wikilink")（平成19年）3月 - サテライトスタジオ「オレンジスタジオ」開設、「[わかやまパワーステーション](../Page/わかやまパワーステーション.md "wikilink")」開始。地域密着情報番組として2年間にわたり放送された。
   - [2011年](../Page/2011年.md "wikilink")（平成23年）[7月24日](../Page/7月24日.md "wikilink") - アナログ放送終了。
 
 ## 施設・設備
@@ -42,7 +42,7 @@
 
 <!-- end list -->
 
-  - サテライトスタジオ「オレンジスタジオ」（ラジオ[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")対応、2007年3月[わかやまパワーステーション](https://ja.wikipedia.org/wiki/わかやまパワーステーション "wikilink")の放送開始と同時に設置された。2010年3月に撤去。テーブルとイスは2階スタジオで引き続き使われている\[2\]）
+  - サテライトスタジオ「オレンジスタジオ」（ラジオ[生放送](../Page/生放送.md "wikilink")対応、2007年3月[わかやまパワーステーション](../Page/わかやまパワーステーション.md "wikilink")の放送開始と同時に設置された。2010年3月に撤去。テーブルとイスは2階スタジオで引き続き使われている\[2\]）
 
 ### 送信所
 
@@ -148,22 +148,22 @@
       - NHK和歌山放送局屋上
       - ダイワロイネット[ホテル](../Page/ホテル.md "wikilink")屋上
       - JR[和歌山駅](../Page/和歌山駅.md "wikilink")前の紀陽銀行
-      - [和歌山マリーナシティ](https://ja.wikipedia.org/wiki/和歌山マリーナシティ "wikilink")内ロイヤルパインズ屋上
+      - [和歌山マリーナシティ](../Page/和歌山マリーナシティ.md "wikilink")内ロイヤルパインズ屋上
   - 中紀
-      - [御坊市](https://ja.wikipedia.org/wiki/御坊市 "wikilink")内
+      - [御坊市](../Page/御坊市.md "wikilink")内
   - 南紀
       - [白浜町](../Page/白浜町.md "wikilink")内（田辺中継局、SD）
       - [南紀白浜空港](../Page/南紀白浜空港.md "wikilink")（SD）
-      - [那智滝](https://ja.wikipedia.org/wiki/那智滝 "wikilink")付近（SD）
+      - [那智滝](../Page/那智滝.md "wikilink")付近（SD）
       - [新宮市](../Page/新宮市.md "wikilink")内
       - [串本町](../Page/串本町.md "wikilink")内（HD）
-      - [潮岬](https://ja.wikipedia.org/wiki/潮岬 "wikilink")（HD）
+      - [潮岬](../Page/潮岬.md "wikilink")（HD）
 
 ## 主な和歌山局制作番組
 
 ### 総合テレビ
 
-  - [ギュギュっと和歌山](https://ja.wikipedia.org/wiki/ギュギュっと和歌山 "wikilink")（平日 18:30 - 19:00）
+  - [ギュギュっと和歌山](../Page/ギュギュっと和歌山.md "wikilink")（平日 18:30 - 19:00）
   - [わかやま845](https://ja.wikipedia.org/wiki/わかやま845 "wikilink")（平日 20:45- 21:00）- 出演者はアナウンサーまたは契約キャスターが持ち回り。
 
 ### FM放送
@@ -176,7 +176,7 @@
 
   - くらしのチャンネル和歌山
   - わかやま630
-  - 630わかやま→[わかやまNEWSウェーブ](https://ja.wikipedia.org/wiki/わかやまNEWSウェーブ "wikilink")→[あすのWA\!](https://ja.wikipedia.org/wiki/あすのWA! "wikilink")
+  - 630わかやま→[わかやまNEWSウェーブ](../Page/わかやまNEWSウェーブ.md "wikilink")→[あすのWA\!](https://ja.wikipedia.org/wiki/あすのWA! "wikilink")
 
 ## アナウンサー・キャスター
 
@@ -198,17 +198,17 @@
 </tr>
 <tr class="even">
 <td><p>押尾駿吾</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK鹿児島放送局" title="wikilink">鹿児島</a></p></td>
-<td><p>|<a href="https://ja.wikipedia.org/wiki/ギュギュっと和歌山" title="wikilink">ギュギュっと和歌山</a>（キャスター）</p></td>
+<td><p><a href="../Page/NHK鹿児島放送局.md" title="wikilink">鹿児島</a></p></td>
+<td><p>|<a href="../Page/ギュギュっと和歌山.md" title="wikilink">ギュギュっと和歌山</a>（キャスター）</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/安田真一郎" title="wikilink">安田真一郎</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK徳島放送局" title="wikilink">徳島</a></p></td>
+<td><p><a href="../Page/NHK徳島放送局.md" title="wikilink">徳島</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/わかやま845" title="wikilink">わかやま845</a>など</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/横林良純" title="wikilink">横林良純</a>*</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK盛岡放送局" title="wikilink">盛岡</a></p></td>
+<td><p><a href="../Page/横林良純.md" title="wikilink">横林良純</a>*</p></td>
+<td><p><a href="../Page/NHK盛岡放送局.md" title="wikilink">盛岡</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -263,7 +263,7 @@
 
 ## トラブル
 
-  - 2007年12月14日午前、[新宮市](../Page/新宮市.md "wikilink")で道路工事の際に誤ってNHKの放送用ケーブルが切断されるトラブルがあった。このため午前11時頃から紀南地方の広い範囲でFM放送が中断し、総合テレビは一部、[名古屋局や](../Page/NHK名古屋放送局.md "wikilink")[津局の番組が放送されたが](https://ja.wikipedia.org/wiki/NHK津放送局 "wikilink")、午後9時20分までにすべて復旧した。
+  - 2007年12月14日午前、[新宮市](../Page/新宮市.md "wikilink")で道路工事の際に誤ってNHKの放送用ケーブルが切断されるトラブルがあった。このため午前11時頃から紀南地方の広い範囲でFM放送が中断し、総合テレビは一部、[名古屋局や](../Page/NHK名古屋放送局.md "wikilink")[津局の番組が放送されたが](../Page/NHK津放送局.md "wikilink")、午後9時20分までにすべて復旧した。
 
 ## 脚注
 

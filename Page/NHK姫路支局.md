@@ -9,7 +9,7 @@
 
 ## 所在地
 
-  - [兵庫県](../Page/兵庫県.md "wikilink")[姫路市](https://ja.wikipedia.org/wiki/姫路市 "wikilink")南畝町2-53 ネオフィス姫路南401\[1\]
+  - [兵庫県](../Page/兵庫県.md "wikilink")[姫路市](../Page/姫路市.md "wikilink")南畝町2-53 ネオフィス姫路南401\[1\]
 
 ## 沿革
 
@@ -22,11 +22,11 @@
   - [1964年](../Page/1964年.md "wikilink")（昭和39年）[10月1日](../Page/10月1日.md "wikilink") - [NHK大阪放送局](../Page/NHK大阪放送局.md "wikilink")、仁寿山に総合・教育テレビの姫路テレビ中継放送所を開設。
   - [1966年](../Page/1966年.md "wikilink")（昭和41年）12月 - NHK大阪放送局、仁寿山にFMラジオ放送の姫路中継局を開設。
   - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")（昭和44年）3月 - 姫路放送会館完成。
-  - [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")（昭和45年）[3月27日](../Page/3月27日.md "wikilink") - NHK神戸放送局、兵庫県域FMラジオ放送開始。
+  - [1970年](../Page/1970年.md "wikilink")（昭和45年）[3月27日](../Page/3月27日.md "wikilink") - NHK神戸放送局、兵庫県域FMラジオ放送開始。
   - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")（昭和46年）[5月24日](../Page/5月24日.md "wikilink") - NHK神戸放送局、兵庫県域総合テレビ放送開始。これにより総合テレビとFMラジオ放送を大阪局から神戸局の中継局に変更。
   - [1988年](../Page/1988年.md "wikilink")（昭和63年）7月 - 機構改革に伴い、姫路放送局から神戸放送局姫路支局に改称。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）[3月1日](../Page/3月1日.md "wikilink") - 地上デジタルテレビ放送開始。
-  - [2017年](../Page/2017年.md "wikilink")（平成29年）[5月28日](../Page/5月28日.md "wikilink") - 『[今夜も生でさだまさし](https://ja.wikipedia.org/wiki/今夜も生でさだまさし "wikilink")姫路のお城へ兵庫\!ゴー\!』が[姫路城](https://ja.wikipedia.org/wiki/姫路城 "wikilink")から生放送。姫路支局職員がPRゲストとして出演。
+  - [2006年](../Page/2006年.md "wikilink")（平成18年）[3月1日](../Page/3月1日.md "wikilink") - 地上デジタルテレビ放送開始。
+  - [2017年](../Page/2017年.md "wikilink")（平成29年）[5月28日](../Page/5月28日.md "wikilink") - 『[今夜も生でさだまさし](../Page/今夜も生でさだまさし.md "wikilink")姫路のお城へ兵庫\!ゴー\!』が[姫路城](https://ja.wikipedia.org/wiki/姫路城 "wikilink")から生放送。姫路支局職員がPRゲストとして出演。
   - 2017年（平成29年）[6月17日](../Page/6月17日.md "wikilink")・[6月18日](../Page/6月18日.md "wikilink") - 閉館記念イベント「NHK姫路支局 感謝祭」開催\[2\]。
   - 2017年（平成29年）[7月14日](../Page/7月14日.md "wikilink") NHK姫路放送会館は老朽化のため、そして兵庫県内の営業拠点の活性化と効率的・効果的な業務運営を推進するための営業拠点の再編成を兼ね、7月18日より受信料窓口業務を神戸放送局及び阪神営業センターに移管の上、閉館となった\[3\]。
 
@@ -36,11 +36,11 @@
 
 <!-- end list -->
 
-  - [総合テレビジョン](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink") 50ch 100W
-  - [教育テレビジョン](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink") 52ch 100W
+  - [総合テレビジョン](../Page/NHK総合テレビジョン.md "wikilink") 50ch 100W
+  - [教育テレビジョン](../Page/NHK教育テレビジョン.md "wikilink") 52ch 100W
   - デジタル総合テレビジョン（[リモコンキーID](../Page/リモコンキーID.md "wikilink")：1）22ch 10W
   - デジタル教育テレビジョン（リモコンキーID：2）13ch 10W
-  - [FM放送](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink") 84.2MHz 1kW
+  - [FM放送](../Page/NHK-FM放送.md "wikilink") 84.2MHz 1kW
 
 ## 脚注
 

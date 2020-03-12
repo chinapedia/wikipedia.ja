@@ -1,7 +1,7 @@
 > この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
 
 
-**NHK宇都宮放送局**（エヌエイチケイうつのみやほうそうきょく）は、[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](https://ja.wikipedia.org/wiki/日本放送協会放送局の一覧 "wikilink")。[総合テレビと](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")[FM放送で県域放送を行っている](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink")。[NHK EテレとAM放送](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")（[ラジオ第1放送](https://ja.wikipedia.org/wiki/NHKラジオ第1放送 "wikilink")・[ラジオ第2放送](https://ja.wikipedia.org/wiki/NHKラジオ第2放送 "wikilink")）については[関東](https://ja.wikipedia.org/wiki/関東地方 "wikilink")[広域圏放送の扱いとして](../Page/広域放送.md "wikilink")、管轄の[東京本局からカバー](../Page/NHK放送センター.md "wikilink")・中継されている。
+**NHK宇都宮放送局**（エヌエイチケイうつのみやほうそうきょく）は、[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。[総合テレビと](../Page/NHK総合テレビジョン.md "wikilink")[FM放送で県域放送を行っている](../Page/NHK-FM放送.md "wikilink")。[NHK EテレとAM放送](../Page/NHK教育テレビジョン.md "wikilink")（[ラジオ第1放送](../Page/NHKラジオ第1放送.md "wikilink")・[ラジオ第2放送](../Page/NHKラジオ第2放送.md "wikilink")）については[関東](https://ja.wikipedia.org/wiki/関東地方 "wikilink")[広域圏放送の扱いとして](../Page/広域放送.md "wikilink")、管轄の[東京本局からカバー](../Page/NHK放送センター.md "wikilink")・中継されている。
 
 ## 沿革
 
@@ -15,17 +15,17 @@
   - [1948年](../Page/1948年.md "wikilink")（昭和23年）[5月1日](../Page/5月1日.md "wikilink") - 宇都宮市江野町に移転、宇都宮出張所を宇都宮支局と改称。
   - [1950年](../Page/1950年.md "wikilink")（昭和25年）[6月1日](../Page/6月1日.md "wikilink") - [放送法](../Page/放送法.md "wikilink")施行に伴い社団法人日本放送協会が解散。[特殊法人](../Page/特殊法人.md "wikilink")としての日本放送協会が設立され、特殊法人日本放送協会宇都宮支局となる。
   - [1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")（昭和26年）[7月1日](../Page/7月1日.md "wikilink") - 宇都宮支局を宇都宮放送局と改称（送信施設なし）。
-  - [1959年](../Page/1959年.md "wikilink")（昭和34年）[10月27日](https://ja.wikipedia.org/wiki/10月27日 "wikilink") - 日光通信部を開設。
+  - [1959年](../Page/1959年.md "wikilink")（昭和34年）[10月27日](../Page/10月27日.md "wikilink") - 日光通信部を開設。
   - [1964年](../Page/1964年.md "wikilink")（昭和39年）[10月3日](../Page/10月3日.md "wikilink") - 矢板テレビ中継放送所が運用開始。
   - [1966年](../Page/1966年.md "wikilink")（昭和41年）[10月6日](../Page/10月6日.md "wikilink") - 大田原通信部を開設。
-  - [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")（昭和45年）[4月6日](../Page/4月6日.md "wikilink") - 宇都宮放送局、FM放送開始（呼出符号JOBP-FM）。
+  - [1970年](../Page/1970年.md "wikilink")（昭和45年）[4月6日](../Page/4月6日.md "wikilink") - 宇都宮放送局、FM放送開始（呼出符号JOBP-FM）。
   - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")（昭和46年）[11月10日](../Page/11月10日.md "wikilink") - 現在の放送会館（宇都宮市中央2丁目）が新築落成。
   - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")（昭和55年）[10月3日](../Page/10月3日.md "wikilink") - 宇都宮テレビ中継放送所（宇都宮タワー）が運用開始。
-  - [1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")（平成3年）[5月13日](../Page/5月13日.md "wikilink") - 大田原通信部が西那須野町（現・那須塩原市）に移転。
+  - [1991年](../Page/1991年.md "wikilink")（平成3年）[5月13日](../Page/5月13日.md "wikilink") - 大田原通信部が西那須野町（現・那須塩原市）に移転。
   - [1993年](../Page/1993年.md "wikilink")（平成5年）[11月1日](../Page/11月1日.md "wikilink") - 「スクエアJue」オープン。
   - [2001年](../Page/2001年.md "wikilink")（平成13年） - 県域FM放送『とちぎ6時です』放送開始。
-  - [2003年](../Page/2003年.md "wikilink")（平成15年） - 開局60周年記念事業の一環で宇都宮市大通り2丁目にサテライトスタジオ開設（[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")（平成19年）3月に閉鎖）。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）[12月1日](../Page/12月1日.md "wikilink") - 地上デジタルテレビ中継開始。
+  - [2003年](../Page/2003年.md "wikilink")（平成15年） - 開局60周年記念事業の一環で宇都宮市大通り2丁目にサテライトスタジオ開設（[2007年](../Page/2007年.md "wikilink")（平成19年）3月に閉鎖）。
+  - [2005年](../Page/2005年.md "wikilink")（平成17年）[12月1日](../Page/12月1日.md "wikilink") - 地上デジタルテレビ中継開始。
   - [2012年](../Page/2012年.md "wikilink")（平成24年）[4月1日](../Page/4月1日.md "wikilink") - デジタル総合テレビで栃木県域放送開始\[1\]。
 
 ## 県域テレビ放送の実現
@@ -43,7 +43,7 @@ NHKは[2009年](../Page/2009年.md "wikilink")度から3年間の経営計画に
 
 <!-- end list -->
 
-  - 宇都宮　80.3MHz 1kW（[送信所](https://ja.wikipedia.org/wiki/送信所 "wikilink")：[羽黒山](https://ja.wikipedia.org/wiki/羽黒山_\(栃木県\) "wikilink")）
+  - 宇都宮　80.3MHz 1kW（[送信所](../Page/送信所.md "wikilink")：[羽黒山](../Page/羽黒山_\(栃木県\).md "wikilink")）
   - 足利　83.7MHz 30W
   - 葛生　82.9MHz 10W
   - 今市　84.0MHz 3W
@@ -56,7 +56,7 @@ NHKは[2009年](../Page/2009年.md "wikilink")度から3年間の経営計画に
 
 ### 宇都宮テレビ局
 
-各系統とも[宇都宮タワー](https://ja.wikipedia.org/wiki/宇都宮タワー "wikilink")から送信。
+各系統とも[宇都宮タワー](../Page/宇都宮タワー.md "wikilink")から送信。
 
   - デジタル総合テレビ　47ch（[リモコンキーID](../Page/リモコンキーID.md "wikilink")：1） 出力100W
 
@@ -88,7 +88,7 @@ NHKは[2009年](../Page/2009年.md "wikilink")度から3年間の経営計画に
 
 ### 県域FM
 
-  - ニュース・気象情報（月～金 11:50-12:00、12:15-12:20、18:50-19:00、[祝日](../Page/祝日.md "wikilink")・[年末年始](https://ja.wikipedia.org/wiki/年末年始 "wikilink")は[東京から放送](../Page/NHK放送センター.md "wikilink")）
+  - ニュース・気象情報（月～金 11:50-12:00、12:15-12:20、18:50-19:00、[祝日](../Page/祝日.md "wikilink")・[年末年始](../Page/年末年始.md "wikilink")は[東京から放送](../Page/NHK放送センター.md "wikilink")）
 
 ## アナウンサー・キャスター
 
@@ -107,7 +107,7 @@ NHKは[2009年](../Page/2009年.md "wikilink")度から3年間の経営計画に
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/礒野佑子" title="wikilink">礒野佑子</a></p></td>
+<td><p><a href="../Page/礒野佑子.md" title="wikilink">礒野佑子</a></p></td>
 <td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/とちぎ640" title="wikilink">とちぎ640</a><br />
 （キャスター）<br />
@@ -115,7 +115,7 @@ NHKは[2009年](../Page/2009年.md "wikilink")度から3年間の経営計画に
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/加藤成史" title="wikilink">加藤成史</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK放送研修センター・日本語センター" title="wikilink">日本語センター出向</a></p></td>
+<td><p><a href="../Page/NHK放送研修センター・日本語センター.md" title="wikilink">日本語センター出向</a></p></td>
 <td><p>とちぎ640<br />
 （キャスター）</p></td>
 </tr>
@@ -158,7 +158,7 @@ NHKは[2009年](../Page/2009年.md "wikilink")度から3年間の経営計画に
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/福嶋真理子" title="wikilink">福嶋真理子</a></p></td>
+<td><p><a href="../Page/福嶋真理子.md" title="wikilink">福嶋真理子</a></p></td>
 <td></td>
 <td><p>とちぎ640</p></td>
 </tr>
@@ -167,7 +167,7 @@ NHKは[2009年](../Page/2009年.md "wikilink")度から3年間の経営計画に
 
 ## その他
 
-  - 2012年4月の総合テレビの県域放送開始に伴って、「ご当地[ななみちゃん](https://ja.wikipedia.org/wiki/ななみちゃん "wikilink")」ならぬ「ご当地[どーもくん](https://ja.wikipedia.org/wiki/どーもくん "wikilink")・ストロベリーどーもくん」が誕生した。\[8\]
+  - 2012年4月の総合テレビの県域放送開始に伴って、「ご当地[ななみちゃん](../Page/ななみちゃん.md "wikilink")」ならぬ「ご当地[どーもくん](https://ja.wikipedia.org/wiki/どーもくん "wikilink")・ストロベリーどーもくん」が誕生した。\[8\]
 
 ## 脚注
 
@@ -185,4 +185,4 @@ NHKは[2009年](../Page/2009年.md "wikilink")度から3年間の経営計画に
 5.  [日本放送協会による栃木県・群馬県における県域テレビ放送の開始について ≪総合放送による地域情報の一層の充実≫](http://www.soumu.go.jp/soutsu/kanto/if/press/p23/p2403/p240330ho.html) - 総務省関東総合通信局（[2012年](../Page/2012年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")プレスリリース）
 6.  [NHK宇都宮放送局からの重要なお知らせ](http://www.nhk.or.jp/utsunomiya/station_info/channel.html) NHK宇都宮放送局
 7.  [NHK宇都宮放送局からの重要なお知らせ](http://www.nhk.or.jp/utsunomiya/station_info/channel.html) NHK宇都宮放送局
-8.  2012年[4月15日](../Page/4月15日.md "wikilink")放送の[総合テレビ](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")『[NHKとっておきサンデー](https://ja.wikipedia.org/wiki/NHKとっておきサンデー "wikilink")』で紹介。
+8.  2012年[4月15日](../Page/4月15日.md "wikilink")放送の[総合テレビ](../Page/NHK総合テレビジョン.md "wikilink")『[NHKとっておきサンデー](https://ja.wikipedia.org/wiki/NHKとっておきサンデー "wikilink")』で紹介。

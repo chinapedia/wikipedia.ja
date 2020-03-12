@@ -1,19 +1,19 @@
 > この記事は[KOBE](https://ja.wikipedia.org/wiki/KOBE)から翻訳されています。
 
 
-『**ニュースKOBE発**』（ニュースこうべはつ）は、[2003年](../Page/2003年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")から[2019年](../Page/2019年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで[兵庫県](../Page/兵庫県.md "wikilink")内の[NHK総合テレビジョン](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")で放送されていた、[NHK神戸放送局](../Page/NHK神戸放送局.md "wikilink")制作の[ローカル](https://ja.wikipedia.org/wiki/ローカル番組 "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")。
+『**ニュースKOBE発**』（ニュースこうべはつ）は、[2003年](../Page/2003年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")から[2019年](../Page/2019年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで[兵庫県](../Page/兵庫県.md "wikilink")内の[NHK総合テレビジョン](../Page/NHK総合テレビジョン.md "wikilink")で放送されていた、[NHK神戸放送局](../Page/NHK神戸放送局.md "wikilink")制作の[ローカル](../Page/ローカル番組.md "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")。
 
 ## 概要
 
-前身の『**ニュースかんさい発 神戸**』は、、当時の『[ニュースかんさい発](https://ja.wikipedia.org/wiki/ニュースかんさい発 "wikilink")』の18:45以降を各府県内向け放送の枠に当てたのに伴い、[2002年](../Page/2002年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")に[兵庫県](../Page/兵庫県.md "wikilink")ローカルニュース枠として放送が開始された。
+前身の『**ニュースかんさい発 神戸**』は、、当時の『[ニュースかんさい発](../Page/ニュースかんさい発.md "wikilink")』の18:45以降を各府県内向け放送の枠に当てたのに伴い、[2002年](../Page/2002年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")に[兵庫県](../Page/兵庫県.md "wikilink")ローカルニュース枠として放送が開始された。
 
-番組は主に兵庫県内のニュースと地域情報を伝えているが、関西各地（兵庫県以外）からのニュースやリポートも放送されている。また[気象情報についても](../Page/天気予報.md "wikilink")、首都圏で放送される『[首都圏ネットワーク](https://ja.wikipedia.org/wiki/首都圏ネットワーク "wikilink")』を同時ネットというかたちを取っている。独自要素として、[阪神・淡路大震災](https://ja.wikipedia.org/wiki/阪神・淡路大震災 "wikilink")に寄せる県内の有識者や視聴者からのメッセージを特集するコーナーなどを設けている。
+番組は主に兵庫県内のニュースと地域情報を伝えているが、関西各地（兵庫県以外）からのニュースやリポートも放送されている。また[気象情報についても](../Page/天気予報.md "wikilink")、首都圏で放送される『[首都圏ネットワーク](../Page/首都圏ネットワーク.md "wikilink")』を同時ネットというかたちを取っている。独自要素として、[阪神・淡路大震災](../Page/阪神・淡路大震災.md "wikilink")に寄せる県内の有識者や視聴者からのメッセージを特集するコーナーなどを設けている。
 
 2003年3月31日に17時台からの『[かんさいニュース1番](../Page/かんさいニュース1番.md "wikilink")』がスタートしたのに伴い、タイトルを表題通りの『ニュースKOBE発』に改め、放送時間を18:30開始に拡大した。同年9月29日には18:10開始とさらに拡大された。
 
-2005年度からは毎週金曜日の18:30頃以降を「Cafe[トアステーション](https://ja.wikipedia.org/wiki/トアロード "wikilink")」と題し、神戸放送局1階に設けられた「トアステーション」からの公開生放送で、行楽情報やミニ[コンサート](https://ja.wikipedia.org/wiki/コンサート "wikilink")などが放送されている。なお2006年1月以降、公開放送はミニコンサートのみに縮小。2008年度から、コーナータイトルが「ジャズライブKOBE」に改められている。
+2005年度からは毎週金曜日の18:30頃以降を「Cafe[トアステーション](../Page/トアロード.md "wikilink")」と題し、神戸放送局1階に設けられた「トアステーション」からの公開生放送で、行楽情報やミニ[コンサート](https://ja.wikipedia.org/wiki/コンサート "wikilink")などが放送されている。なお2006年1月以降、公開放送はミニコンサートのみに縮小。2008年度から、コーナータイトルが「ジャズライブKOBE」に改められている。
 
-当初は『ニュースかんさい発』テーマ曲のジャズバージョンが番組テーマ曲に使用されていたが、2003年3月31日からは[神戸市](../Page/神戸市.md "wikilink")在住のジャズピアニスト[安藤義則](https://ja.wikipedia.org/wiki/安藤義則 "wikilink")作曲・演奏の「SeaWind」が使われている。また気象情報のBGMには、[ジェイク・シマブクロ](https://ja.wikipedia.org/wiki/ジェイク・シマブクロ "wikilink")の「フラガール -アコースティック・ヴァージョン-」が使用されている。
+当初は『ニュースかんさい発』テーマ曲のジャズバージョンが番組テーマ曲に使用されていたが、2003年3月31日からは[神戸市](../Page/神戸市.md "wikilink")在住のジャズピアニスト[安藤義則](https://ja.wikipedia.org/wiki/安藤義則 "wikilink")作曲・演奏の「SeaWind」が使われている。また気象情報のBGMには、[ジェイク・シマブクロ](../Page/ジェイク・シマブクロ.md "wikilink")の「フラガール -アコースティック・ヴァージョン-」が使用されている。
 
 [東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")発生後は一時的に放送を休止していた。
 
@@ -66,7 +66,7 @@
 
 関西のニュースを伝える。
 
-また18:52-18:54は[全国の気象情報を](https://ja.wikipedia.org/wiki/気象情報_\(NHK\) "wikilink")[東京から放送している](../Page/NHK放送センター.md "wikilink")。
+また18:52-18:54は[全国の気象情報を](../Page/気象情報_\(NHK\).md "wikilink")[東京から放送している](../Page/NHK放送センター.md "wikilink")。
 
 ## 過去のコーナー
 
@@ -84,7 +84,7 @@
 
   - 官兵衛参上！（木曜/2014年）
 
-[大河ドラマ](../Page/大河ドラマ.md "wikilink")『[軍師官兵衛](https://ja.wikipedia.org/wiki/軍師官兵衛 "wikilink")』の放送に合わせて、姫路報道室 中村由香が[黒田孝高](https://ja.wikipedia.org/wiki/黒田孝高 "wikilink")ゆかりの物を紹介する。
+[大河ドラマ](../Page/大河ドラマ.md "wikilink")『[軍師官兵衛](https://ja.wikipedia.org/wiki/軍師官兵衛 "wikilink")』の放送に合わせて、姫路報道室 中村由香が[黒田孝高](../Page/黒田孝高.md "wikilink")ゆかりの物を紹介する。
 
   - [KANSAI FOCUS & KANSAI SPORTS](https://ja.wikipedia.org/wiki/ニューステラス関西 "wikilink")
 
@@ -98,8 +98,8 @@
 
 <!-- end list -->
 
-  - [和田光太郎](https://ja.wikipedia.org/wiki/和田光太郎 "wikilink")（神戸局アナウンサー・2016年度 - ）
-  - [片山智彦](https://ja.wikipedia.org/wiki/片山智彦 "wikilink")（神戸局アナウンサー・2017年度 - ）
+  - [和田光太郎](../Page/和田光太郎.md "wikilink")（神戸局アナウンサー・2016年度 - ）
+  - [片山智彦](../Page/片山智彦.md "wikilink")（神戸局アナウンサー・2017年度 - ）
   - [住谷明日香](https://ja.wikipedia.org/wiki/住谷明日香 "wikilink")（2018年度 - ・2017年度はリポーター）
   - [草壁愛](https://ja.wikipedia.org/wiki/草壁愛 "wikilink")（2018年度 - ）
 
@@ -127,23 +127,23 @@
 
 <!-- end list -->
 
-  - [南利幸](https://ja.wikipedia.org/wiki/南利幸 "wikilink")（[気象予報士](../Page/気象予報士.md "wikilink")・おしえて南さん～気象あれこれ～ 担当・月1回程度）
+  - [南利幸](../Page/南利幸.md "wikilink")（[気象予報士](../Page/気象予報士.md "wikilink")・おしえて南さん～気象あれこれ～ 担当・月1回程度）
 
 ## 過去の出演者
 
-  - [今城和久](https://ja.wikipedia.org/wiki/今城和久 "wikilink")（アナウンサー・異動により2011年度途中で降板）
-  - [田所拓也](https://ja.wikipedia.org/wiki/田所拓也 "wikilink")（スポーツキャスター）
-  - [下境秀幸](https://ja.wikipedia.org/wiki/下境秀幸 "wikilink")（スポーツキャスター）
-  - [三浦拓実](https://ja.wikipedia.org/wiki/三浦拓実 "wikilink")（スポーツキャスター・2010年8月 - 2013年）
-  - [内藤雄介](https://ja.wikipedia.org/wiki/内藤雄介 "wikilink")（アナウンサー・2011年8月 - 2015年3月）
-  - [田代純](https://ja.wikipedia.org/wiki/田代純 "wikilink")（アナウンサー・2013年8月 - 2016年4月）
-  - [北郷三穂子](https://ja.wikipedia.org/wiki/北郷三穂子 "wikilink")（アナウンサー・2015年3月 - 2017年3月）
-  - [井上二郎](https://ja.wikipedia.org/wiki/井上二郎 "wikilink")（アナウンサー・2002年8月 - 2007年3月）
+  - [今城和久](../Page/今城和久.md "wikilink")（アナウンサー・異動により2011年度途中で降板）
+  - [田所拓也](../Page/田所拓也.md "wikilink")（スポーツキャスター）
+  - [下境秀幸](../Page/下境秀幸.md "wikilink")（スポーツキャスター）
+  - [三浦拓実](../Page/三浦拓実.md "wikilink")（スポーツキャスター・2010年8月 - 2013年）
+  - [内藤雄介](../Page/内藤雄介.md "wikilink")（アナウンサー・2011年8月 - 2015年3月）
+  - [田代純](../Page/田代純.md "wikilink")（アナウンサー・2013年8月 - 2016年4月）
+  - [北郷三穂子](../Page/北郷三穂子.md "wikilink")（アナウンサー・2015年3月 - 2017年3月）
+  - [井上二郎](../Page/井上二郎.md "wikilink")（アナウンサー・2002年8月 - 2007年3月）
   - [久保静](https://ja.wikipedia.org/wiki/久保静_\(アナウンサー\) "wikilink")（キャスター）
   - [佐藤なつみ](https://ja.wikipedia.org/wiki/佐藤なつみ "wikilink")（キャスター・2010年度 - 2011年度）
   - [児玉愛](https://ja.wikipedia.org/wiki/児玉愛 "wikilink")（キャスター）
   - [岡愛子](https://ja.wikipedia.org/wiki/岡愛子 "wikilink")（キャスター）
-  - [鈴木寛子](https://ja.wikipedia.org/wiki/鈴木寛子 "wikilink")（キャスター・2011年度 - 2012年度）
+  - [鈴木寛子](../Page/鈴木寛子.md "wikilink")（キャスター・2011年度 - 2012年度）
   - [楠井まどか](https://ja.wikipedia.org/wiki/楠井まどか "wikilink")（キャスター・2011年度 - 2013年度）
   - [荒山沙織](https://ja.wikipedia.org/wiki/荒山沙織 "wikilink")（2011年度 - 2013年度リポーター・2014年度 - 2016年度キャスター）
   - [垂水千佳](https://ja.wikipedia.org/wiki/垂水千佳 "wikilink")（キャスター・2013年度 - 2017年度）
@@ -166,5 +166,5 @@
   -
 [Category:NHK総合テレビジョン平日18時台の地域ニュース](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョン平日18時台の地域ニュース "wikilink") [Category:2003年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のテレビ番組_\(日本\) "wikilink") [Category:NHK神戸](https://ja.wikipedia.org/wiki/Category:NHK神戸 "wikilink")
 
-1.  [2011年](../Page/2011年.md "wikilink")[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")には[NHKワールド・プレミアム](https://ja.wikipedia.org/wiki/NHKワールド・プレミアム "wikilink")でもこれまでの「震災 いのちのきずな」のコーナーを総集編として放送した（放送時間は8:25-8:50。この日は通常、日本国内と同時放送される「[課外授業 ようこそ先輩](https://ja.wikipedia.org/wiki/課外授業_ようこそ先輩 "wikilink")」が放送権上の制約で海外向けの放送が休止となったため、差し替え番組として放送された）。
+1.  [2011年](../Page/2011年.md "wikilink")[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")には[NHKワールド・プレミアム](https://ja.wikipedia.org/wiki/NHKワールド・プレミアム "wikilink")でもこれまでの「震災 いのちのきずな」のコーナーを総集編として放送した（放送時間は8:25-8:50。この日は通常、日本国内と同時放送される「[課外授業 ようこそ先輩](../Page/課外授業_ようこそ先輩.md "wikilink")」が放送権上の制約で海外向けの放送が休止となったため、差し替え番組として放送された）。
 2.  関西で重大なニュースが入った場合は、一部の時間帯が大阪発になり、当コーナーは休止。

@@ -1,19 +1,19 @@
 > この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
 
 
-[200px](https://ja.wikipedia.org/wiki/ファイル:NHK_Tokushima02s3200.jpg "wikilink") **NHK徳島放送局**（エヌエイチケイとくしまほうそうきょく）は、[徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](https://ja.wikipedia.org/wiki/日本放送協会放送局の一覧 "wikilink")。テレビとラジオで県域放送を行っている。
+[200px](https://ja.wikipedia.org/wiki/ファイル:NHK_Tokushima02s3200.jpg "wikilink") **NHK徳島放送局**（エヌエイチケイとくしまほうそうきょく）は、[徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。テレビとラジオで県域放送を行っている。
 
 ## 概要
 
-開局は[1933年](../Page/1933年.md "wikilink")。徳島放送局から送出する中波放送は第1放送のみで、第2放送は大半の地域で[大阪放送局](../Page/NHK大阪放送局.md "wikilink")（828kHz）を受信する。これは、1970年代初期の第1次中波再編で大阪放送局が300kWに増力された余波で、徳島第2放送局が[1973年](../Page/1973年.md "wikilink")[3月20日](../Page/3月20日.md "wikilink")をもって廃止されたことによるものである\[1\]。唯一の中継局である[三好市](https://ja.wikipedia.org/wiki/三好市 "wikilink")の[池田中継局](https://ja.wikipedia.org/wiki/池田中継局 "wikilink")は、かつては大阪放送局から送出していたが、その後回線のデジタル化により現在は[松山放送局から送出している](https://ja.wikipedia.org/wiki/NHK松山放送局 "wikilink")\[2\]。イメージキャラクターは、徳島県が舞台となった連続テレビ小説『[ウェルかめ](https://ja.wikipedia.org/wiki/ウェルかめ "wikilink")』のキャラクターだった**「かめっ太」**。以前は**「あわまるくん」**で、徳島県の特産品である[すだち](https://ja.wikipedia.org/wiki/すだち "wikilink")と、[阿波踊り](../Page/阿波踊り.md "wikilink")、そして[鳴門の渦潮](https://ja.wikipedia.org/wiki/鳴門の渦潮 "wikilink")をイメージしたものだったが、『ウェルかめ』終了とともに交代した。
+開局は[1933年](../Page/1933年.md "wikilink")。徳島放送局から送出する中波放送は第1放送のみで、第2放送は大半の地域で[大阪放送局](../Page/NHK大阪放送局.md "wikilink")（828kHz）を受信する。これは、1970年代初期の第1次中波再編で大阪放送局が300kWに増力された余波で、徳島第2放送局が[1973年](../Page/1973年.md "wikilink")[3月20日](../Page/3月20日.md "wikilink")をもって廃止されたことによるものである\[1\]。唯一の中継局である[三好市](../Page/三好市.md "wikilink")の[池田中継局](../Page/池田中継局.md "wikilink")は、かつては大阪放送局から送出していたが、その後回線のデジタル化により現在は[松山放送局から送出している](../Page/NHK松山放送局.md "wikilink")\[2\]。イメージキャラクターは、徳島県が舞台となった連続テレビ小説『[ウェルかめ](https://ja.wikipedia.org/wiki/ウェルかめ "wikilink")』のキャラクターだった**「かめっ太」**。以前は**「あわまるくん」**で、徳島県の特産品である[すだち](https://ja.wikipedia.org/wiki/すだち "wikilink")と、[阿波踊り](../Page/阿波踊り.md "wikilink")、そして[鳴門の渦潮](../Page/鳴門の渦潮.md "wikilink")をイメージしたものだったが、『ウェルかめ』終了とともに交代した。
 
-局舎は開局以来、徳島市[南前川町](https://ja.wikipedia.org/wiki/南前川町 "wikilink")二丁目4番地に所在していたが、[JR](https://ja.wikipedia.org/wiki/四国旅客鉄道 "wikilink")[徳島駅](https://ja.wikipedia.org/wiki/徳島駅 "wikilink")東側の新局舎へ移転し、2006年9月4日より本放送を開始した。
+局舎は開局以来、徳島市[南前川町](../Page/南前川町.md "wikilink")二丁目4番地に所在していたが、[JR](../Page/四国旅客鉄道.md "wikilink")[徳島駅](https://ja.wikipedia.org/wiki/徳島駅 "wikilink")東側の新局舎へ移転し、2006年9月4日より本放送を開始した。
 
-阿波踊りの時期には、職員有志が**「NHK徳島連」**を結成して参加している。揃いの浴衣が『[徳島から生放送\!真夏の夜もさだまさし](https://ja.wikipedia.org/wiki/今夜も生でさだまさし "wikilink")』（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月27日](../Page/7月27日.md "wikilink")未明放送）において紹介されたが、男性アナウンサーが着用していたものが旧ロゴモデルであったことから、その歴史はとても古い。放送局移転後は、局舎内に演舞場を設けている。
+阿波踊りの時期には、職員有志が**「NHK徳島連」**を結成して参加している。揃いの浴衣が『[徳島から生放送\!真夏の夜もさだまさし](../Page/今夜も生でさだまさし.md "wikilink")』（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月27日](../Page/7月27日.md "wikilink")未明放送）において紹介されたが、男性アナウンサーが着用していたものが旧ロゴモデルであったことから、その歴史はとても古い。放送局移転後は、局舎内に演舞場を設けている。
 
 ## 沿革
 
-  - 1933年7月23日 - **[社団法人](https://ja.wikipedia.org/wiki/社団法人 "wikilink")日本放送協会徳島放送局**開局。ラジオ放送を開始。
+  - 1933年7月23日 - **[社団法人](../Page/社団法人.md "wikilink")日本放送協会徳島放送局**開局。ラジオ放送を開始。
   - 1950年6月 - [放送法](../Page/放送法.md "wikilink")施行に伴い社団法人日本放送協会が解散。[特殊法人](../Page/特殊法人.md "wikilink")としての**日本放送協会**が設立され一切の権利義務を継承。
   - 1957年2月 - 池田ラジオ中継局開局。
   - 1958年6月29日 - ラジオ第2放送開始。
@@ -49,7 +49,7 @@
 
 |- \!rowspan=2|局名\!\!colspan=3|デジタル\!\!colspan=3|アナログ
 <span style="color:red;">（2011年7月24日に終了）</span>\!\!rowspan=2|所在地 |- \!総合ch\!\!教育ch\!\!出力\!\!総合ch\!\!教育ch\!\!映像出力 |- \![徳島](https://ja.wikipedia.org/wiki/眉山送信所 "wikilink") |34||40||1kW||03||38||総合 1kW
-教育 10kW||style="text-align:left;"|[眉山](https://ja.wikipedia.org/wiki/眉山_\(徳島市\) "wikilink") |- \![鳴門瀬戸](https://ja.wikipedia.org/wiki/鳴門瀬戸中継局 "wikilink") |34||40||0.5W||52||42||1W||style="text-align:left;"| |- \![阿波](https://ja.wikipedia.org/wiki/阿波市 "wikilink") |26(2012年7月2日以降は29)||28||1W||55||47||10W||style="text-align:left;"| |- \![阿南](https://ja.wikipedia.org/wiki/阿南中継局_\(徳島県\) "wikilink") |27||29||3W||41||44||30W||style="text-align:left;"|明神山 |- \![鍛治屋谷](https://ja.wikipedia.org/wiki/牟岐町 "wikilink") |35||39||3W||||||||style="text-align:left;"|鍛冶屋谷山 |- \![日和佐](https://ja.wikipedia.org/wiki/美波町 "wikilink") |34||40||30W||09||05||100W||style="text-align:left;"|[玉厨子山](https://ja.wikipedia.org/wiki/玉厨子山 "wikilink") |- \![日和佐桜町](https://ja.wikipedia.org/wiki/日和佐桜町中継局 "wikilink") |||||||08||06||50mW||style="text-align:left;"|大岩山 |- \![神山](https://ja.wikipedia.org/wiki/神山町 "wikilink") |37||39||3W||09||05||1W||style="text-align:left;"|横倉山 |- \![牟岐](https://ja.wikipedia.org/wiki/牟岐町 "wikilink") |||||||V02||V12||1W||style="text-align:left;"|大谷山 |- \![美馬](https://ja.wikipedia.org/wiki/美馬中継局 "wikilink") |34||40||3W||V02||V12||3W||style="text-align:left;"| |- \![半田](https://ja.wikipedia.org/wiki/つるぎ町 "wikilink") |||||||V09||V05||300mW||style="text-align:left;"| |- \![阿波勝浦](https://ja.wikipedia.org/wiki/勝浦町 "wikilink") |27||39||3W||V58||V55||30W||style="text-align:left;"| |- \![宍喰](https://ja.wikipedia.org/wiki/海陽町 "wikilink") |27||29||1W||54||52||10W||style="text-align:left;"|角力山 |- \![池田](https://ja.wikipedia.org/wiki/池田中継局 "wikilink") |34||40||3W||V06||V04||2W||style="text-align:left;"|禿の峰 |- \![池田松尾](https://ja.wikipedia.org/wiki/三好市 "wikilink") |29||36||1W||55||53||10W||style="text-align:left;"|金比羅山 |- \!山城 |29||36||3W||02||12||10W||style="text-align:left;"|大任峰 |- \!西祖谷山 |34||40||3W||02||12||10W||style="text-align:left;"| |- |colspan=8 style="text-align:left;"|  |}
+教育 10kW||style="text-align:left;"|[眉山](../Page/眉山_\(徳島市\).md "wikilink") |- \![鳴門瀬戸](../Page/鳴門瀬戸中継局.md "wikilink") |34||40||0.5W||52||42||1W||style="text-align:left;"| |- \![阿波](../Page/阿波市.md "wikilink") |26(2012年7月2日以降は29)||28||1W||55||47||10W||style="text-align:left;"| |- \![阿南](https://ja.wikipedia.org/wiki/阿南中継局_\(徳島県\) "wikilink") |27||29||3W||41||44||30W||style="text-align:left;"|明神山 |- \![鍛治屋谷](../Page/牟岐町.md "wikilink") |35||39||3W||||||||style="text-align:left;"|鍛冶屋谷山 |- \![日和佐](../Page/美波町.md "wikilink") |34||40||30W||09||05||100W||style="text-align:left;"|[玉厨子山](https://ja.wikipedia.org/wiki/玉厨子山 "wikilink") |- \![日和佐桜町](../Page/日和佐桜町中継局.md "wikilink") |||||||08||06||50mW||style="text-align:left;"|大岩山 |- \![神山](../Page/神山町.md "wikilink") |37||39||3W||09||05||1W||style="text-align:left;"|横倉山 |- \![牟岐](../Page/牟岐町.md "wikilink") |||||||V02||V12||1W||style="text-align:left;"|大谷山 |- \![美馬](../Page/美馬中継局.md "wikilink") |34||40||3W||V02||V12||3W||style="text-align:left;"| |- \![半田](../Page/つるぎ町.md "wikilink") |||||||V09||V05||300mW||style="text-align:left;"| |- \![阿波勝浦](../Page/勝浦町.md "wikilink") |27||39||3W||V58||V55||30W||style="text-align:left;"| |- \![宍喰](../Page/海陽町.md "wikilink") |27||29||1W||54||52||10W||style="text-align:left;"|角力山 |- \![池田](../Page/池田中継局.md "wikilink") |34||40||3W||V06||V04||2W||style="text-align:left;"|禿の峰 |- \![池田松尾](../Page/三好市.md "wikilink") |29||36||1W||55||53||10W||style="text-align:left;"|金比羅山 |- \!山城 |29||36||3W||02||12||10W||style="text-align:left;"|大任峰 |- \!西祖谷山 |34||40||3W||02||12||10W||style="text-align:left;"| |- |colspan=8 style="text-align:left;"|  |}
 
 ### ラジオ
 
@@ -72,19 +72,19 @@
 
 <!-- end list -->
 
-  - **[徳島](https://ja.wikipedia.org/wiki/眉山送信所 "wikilink")** 83.4MHz 1kW（[眉山](https://ja.wikipedia.org/wiki/眉山_\(徳島市\) "wikilink")）
-  - [池田](https://ja.wikipedia.org/wiki/池田中継局 "wikilink") V85.0MHz 10W（[禿の峰](https://ja.wikipedia.org/wiki/禿ノ峰 "wikilink")）
+  - **[徳島](https://ja.wikipedia.org/wiki/眉山送信所 "wikilink")** 83.4MHz 1kW（[眉山](../Page/眉山_\(徳島市\).md "wikilink")）
+  - [池田](../Page/池田中継局.md "wikilink") V85.0MHz 10W（[禿の峰](https://ja.wikipedia.org/wiki/禿ノ峰 "wikilink")）
   - 日和佐 85.7MHz 100W（玉厨子山）
   - 神山 84.9MHz 10W（横倉山）
-  - [阿南](https://ja.wikipedia.org/wiki/阿南中継局_\(徳島県\) "wikilink") 81.3MHz 10W（[明神山](https://ja.wikipedia.org/wiki/明神山_\(徳島県阿南市・美波町\) "wikilink")）
+  - [阿南](https://ja.wikipedia.org/wiki/阿南中継局_\(徳島県\) "wikilink") 81.3MHz 10W（[明神山](../Page/明神山_\(徳島県阿南市・美波町\).md "wikilink")）
   - 阿波 84.4MHz 1W
-  - [美馬](https://ja.wikipedia.org/wiki/美馬中継局 "wikilink") V85.6MHz 10W
+  - [美馬](../Page/美馬中継局.md "wikilink") V85.6MHz 10W
   - 阿波勝浦 85.6MHz 1W
   - 宍喰 89.9MHz 1W（角力山）
-  - [鷲敷](https://ja.wikipedia.org/wiki/那賀町 "wikilink") 82.0MHz 10W（むすび山）
-  - [上勝](https://ja.wikipedia.org/wiki/上勝町 "wikilink") 82.4MHz 3W（清水山）
-  - [東祖谷山](https://ja.wikipedia.org/wiki/三好市 "wikilink") 84.3MHz 10W
-  - [一宇剪宇](https://ja.wikipedia.org/wiki/つるぎ町 "wikilink") 83.9MHz 1W
+  - [鷲敷](../Page/那賀町.md "wikilink") 82.0MHz 10W（むすび山）
+  - [上勝](../Page/上勝町.md "wikilink") 82.4MHz 3W（清水山）
+  - [東祖谷山](../Page/三好市.md "wikilink") 84.3MHz 10W
+  - [一宇剪宇](../Page/つるぎ町.md "wikilink") 83.9MHz 1W
   - 一宇 82.5MHz 10W
 
 <!-- end list -->
@@ -114,9 +114,9 @@
 
   - ニュースワイド徳島→モーニングワイドとくしま
   - くらしのチャンネルとくしま→ほっとチャンネルとくしま→ほっとチャンネルおひるまえ→[とくしまi](https://ja.wikipedia.org/wiki/とくしまi "wikilink")（ - 2017年3月31日）
-  - [てれごじ。](https://ja.wikipedia.org/wiki/てれごじ。 "wikilink")→カフェあわまる
-  - きょうの徳島→630とくしま→イブニングネットワークとくしま→情報交差点スタジオとくしま→情報交差点とくしま→[ほっとイブニング徳島](https://ja.wikipedia.org/wiki/ほっとイブニング徳島 "wikilink")→[ニュースとくしま610](https://ja.wikipedia.org/wiki/ニュースとくしま610 "wikilink")（ - 2010年4月2日）
-  - [あわメロ](https://ja.wikipedia.org/wiki/あわメロ "wikilink")（ - 2012年3月30日、現在は不定期の特番を放送）
+  - [てれごじ。](../Page/てれごじ。.md "wikilink")→カフェあわまる
+  - きょうの徳島→630とくしま→イブニングネットワークとくしま→情報交差点スタジオとくしま→情報交差点とくしま→[ほっとイブニング徳島](../Page/ほっとイブニング徳島.md "wikilink")→[ニュースとくしま610](https://ja.wikipedia.org/wiki/ニュースとくしま610 "wikilink")（ - 2010年4月2日）
+  - [あわメロ](../Page/あわメロ.md "wikilink")（ - 2012年3月30日、現在は不定期の特番を放送）
   - ニュースとくしま（ - 2012年4月1日。現在は四国ブロックのニュースを放送するが、一部の日ではこのタイトルで放送することがある）
   - [阿波スペシャル](https://ja.wikipedia.org/wiki/阿波スペシャル "wikilink")（不定期）
 
@@ -172,23 +172,23 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/栗田勇人" title="wikilink">栗田勇人</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHKラジオセンター" title="wikilink">ラジオセンター</a></p></td>
+<td><p><a href="../Page/NHKラジオセンター.md" title="wikilink">ラジオセンター</a></p></td>
 <td><p>放送部副部長<br />
 徳島県のニュース</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/安藤佳祐" title="wikilink">安藤佳祐</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK山口放送局" title="wikilink">山口</a></p></td>
+<td><p><a href="../Page/NHK山口放送局.md" title="wikilink">山口</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/とく6徳島" title="wikilink">とく6徳島</a>（キャスター）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/佐々木智一" title="wikilink">佐々木智一</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK広島放送局" title="wikilink">広島</a></p></td>
+<td><p><a href="../Page/NHK広島放送局.md" title="wikilink">広島</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/あわとく" title="wikilink">あわとく</a>（キャスター）<br />
 徳島県のニュース</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/岡隆一" title="wikilink">岡隆一</a>*</p></td>
+<td><p><a href="../Page/岡隆一.md" title="wikilink">岡隆一</a>*</p></td>
 <td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
 <td><p>徳島県のニュース</p></td>
 </tr>

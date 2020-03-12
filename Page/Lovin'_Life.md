@@ -1,7 +1,7 @@
 > この記事は[Lovin\' Life](https://ja.wikipedia.org/wiki/Lovin\'_Life)から翻訳されています。
 
 
-「**Lovin'Life**」（ラビン・ライフ）は、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[1月24日](../Page/1月24日.md "wikilink")に発売された[FUNKY MONKEY BABYS](https://ja.wikipedia.org/wiki/FUNKY_MONKEY_BABYS "wikilink")4枚目のシングル。
+「**Lovin'Life**」（ラビン・ライフ）は、[2007年](../Page/2007年.md "wikilink")[1月24日](../Page/1月24日.md "wikilink")に発売された[FUNKY MONKEY BABYS](https://ja.wikipedia.org/wiki/FUNKY_MONKEY_BABYS "wikilink")4枚目のシングル。
 
 ## 解説
 
@@ -9,11 +9,11 @@
 
 <!-- end list -->
 
-  - PVに[中嶋朋子](https://ja.wikipedia.org/wiki/中嶋朋子 "wikilink")が出演しており、ジャケットの写真にも出ている。また[窪田正孝](https://ja.wikipedia.org/wiki/窪田正孝 "wikilink")も男子生徒役で出演している。
+  - PVに[中嶋朋子](../Page/中嶋朋子.md "wikilink")が出演しており、ジャケットの写真にも出ている。また[窪田正孝](../Page/窪田正孝.md "wikilink")も男子生徒役で出演している。
 
 <!-- end list -->
 
-  - [CD EXTRAとして](https://ja.wikipedia.org/wiki/CD_EXTRA "wikilink")、「Lovin' Life」のPVが収録されている。
+  - [CD EXTRAとして](../Page/CD_EXTRA.md "wikilink")、「Lovin' Life」のPVが収録されている。
 
 <!-- end list -->
 

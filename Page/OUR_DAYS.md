@@ -1,7 +1,7 @@
 > この記事は[OUR DAYS](https://ja.wikipedia.org/wiki/OUR_DAYS)から翻訳されています。
 
 
-「**OUR DAYS**」（アワ・デイズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")、[鈴木あみの](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")8枚目の[シングル](../Page/シングル.md "wikilink")である。[1999年](../Page/1999年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")に[TRUE KiSS DiSCよりリリースされた](https://ja.wikipedia.org/wiki/TRUE_KiSS_DiSC "wikilink")。
+「**OUR DAYS**」（アワ・デイズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")、[鈴木あみの](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")8枚目の[シングル](../Page/シングル.md "wikilink")である。[1999年](../Page/1999年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")に[TRUE KiSS DiSCよりリリースされた](../Page/TRUE_KiSS_DiSC.md "wikilink")。
 
 ## 解説
 

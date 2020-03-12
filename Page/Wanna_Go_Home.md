@@ -1,7 +1,7 @@
 > この記事は[Wanna Go Home](https://ja.wikipedia.org/wiki/Wanna_Go_Home)から翻訳されています。
 
 
-『**Wanna Go Home**』（ワナ・ゴー・ホーム）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")[B'z](../Page/B'z.md "wikilink")の[ギタリスト](../Page/ギタリスト.md "wikilink")[松本孝弘](https://ja.wikipedia.org/wiki/松本孝弘 "wikilink")がリリースした2作目の[オリジナルアルバムである](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")（後にBMGルームス（現：[VERMILLION RECORDS](https://ja.wikipedia.org/wiki/VERMILLION_RECORDS "wikilink")）の設立に伴い、発売権がBMGルームスに移行）。
+『**Wanna Go Home**』（ワナ・ゴー・ホーム）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")[B'z](../Page/B'z.md "wikilink")の[ギタリスト](../Page/ギタリスト.md "wikilink")[松本孝弘](../Page/松本孝弘.md "wikilink")がリリースした2作目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")（後にBMGルームス（現：[VERMILLION RECORDS](../Page/VERMILLION_RECORDS.md "wikilink")）の設立に伴い、発売権がBMGルームスに移行）。
 
 ## 収録曲
 
@@ -16,7 +16,7 @@
 4.  **Love Ya <Interlude>**(0:33)
 5.  **Air Port**(3:31)
       -
-        原曲は、[鳴瀬喜博](https://ja.wikipedia.org/wiki/鳴瀬喜博 "wikilink")『うるさくてゴメンねLIVE』収録の「Falling Tide」
+        原曲は、[鳴瀬喜博](../Page/鳴瀬喜博.md "wikilink")『うるさくてゴメンねLIVE』収録の「Falling Tide」
 6.  **Life II**(4:48)
       -
         2ndソロシングル「[\#1090 〜Thousand Dreams〜](../Page/1090_〜Thousand_Dreams〜.md "wikilink")」のカップリング「LIFE」の別ヴァージョン。アコースティックギターとパーカッションをメインとしたアレンジとなっている。
@@ -41,19 +41,19 @@
 ## タイアップ
 
   - [TOKYO FM](../Page/エフエム東京.md "wikilink")『トラフィック・インフォメーション』テーマ曲(\#3)
-  - [日本たばこ産業](https://ja.wikipedia.org/wiki/日本たばこ産業 "wikilink")「[マイルドセブン](https://ja.wikipedia.org/wiki/メビウス_\(たばこ\) "wikilink") Special Light」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")(\#5)
+  - [日本たばこ産業](https://ja.wikipedia.org/wiki/日本たばこ産業 "wikilink")「[マイルドセブン](../Page/メビウス_\(たばこ\).md "wikilink") Special Light」[CMソング](../Page/コマーシャルソング.md "wikilink")(\#5)
 
 ## 参加ミュージシャン
 
-  - [松本孝弘](https://ja.wikipedia.org/wiki/松本孝弘 "wikilink")：[ギター](../Page/ギター.md "wikilink")、全曲[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")
-  - [明石昌夫](https://ja.wikipedia.org/wiki/明石昌夫 "wikilink")：[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")（\#1）、[マニピュレーター](https://ja.wikipedia.org/wiki/マニピュレーター "wikilink")、編曲（\#1.2.3.7.8.9.10.11）
-  - [葉山たけし](https://ja.wikipedia.org/wiki/葉山たけし "wikilink")：編曲（\#2.5.6）
-  - [青山純](https://ja.wikipedia.org/wiki/青山純 "wikilink")：[ドラム](../Page/ドラムセット.md "wikilink")（\#1.3.7.8.10.11）
-  - [渡辺直樹](https://ja.wikipedia.org/wiki/渡辺直樹_\(ミュージシャン\) "wikilink")：ベース（\#5）
-  - [寺沢功一](https://ja.wikipedia.org/wiki/寺沢功一 "wikilink")：ベース（\#10）
-  - [小野塚晃](https://ja.wikipedia.org/wiki/小野塚晃 "wikilink")（[DIMENSION](https://ja.wikipedia.org/wiki/DIMENSION "wikilink")）：[ピアノ](../Page/ピアノ.md "wikilink")（\#1.6.12）
+  - [松本孝弘](../Page/松本孝弘.md "wikilink")：[ギター](../Page/ギター.md "wikilink")、全曲[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")
+  - [明石昌夫](../Page/明石昌夫.md "wikilink")：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")（\#1）、[マニピュレーター](../Page/マニピュレーター.md "wikilink")、編曲（\#1.2.3.7.8.9.10.11）
+  - [葉山たけし](../Page/葉山たけし.md "wikilink")：編曲（\#2.5.6）
+  - [青山純](../Page/青山純.md "wikilink")：[ドラム](../Page/ドラムセット.md "wikilink")（\#1.3.7.8.10.11）
+  - [渡辺直樹](../Page/渡辺直樹_\(ミュージシャン\).md "wikilink")：ベース（\#5）
+  - [寺沢功一](../Page/寺沢功一.md "wikilink")：ベース（\#10）
+  - [小野塚晃](../Page/小野塚晃.md "wikilink")（[DIMENSION](../Page/DIMENSION.md "wikilink")）：[ピアノ](../Page/ピアノ.md "wikilink")（\#1.6.12）
   - [大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")：[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink") （\#8.9）
-  - [栗林誠一郎](https://ja.wikipedia.org/wiki/栗林誠一郎 "wikilink")：コーラス（\#3.5）
+  - [栗林誠一郎](../Page/栗林誠一郎.md "wikilink")：コーラス（\#3.5）
   - [JOEY McCOY](https://ja.wikipedia.org/wiki/オメガトライブ#1986オメガトライブ_/_カルロス・トシキ&オメガトライブ "wikilink")：コーラス（\#2.9）
   - [稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")：ヴォイス（\#10）
 

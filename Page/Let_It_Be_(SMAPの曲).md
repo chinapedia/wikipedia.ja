@@ -7,8 +7,8 @@
 
   - [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")初[マキシシングル](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")。
   - [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビ系 "wikilink")『[SMAP×SMAP](https://ja.wikipedia.org/wiki/SMAP×SMAP "wikilink")』の[テーマソング](https://ja.wikipedia.org/wiki/テーマソング "wikilink")である。
-  - [作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")の相田毅は多くの[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の楽曲に携わっている。[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")の[Face 2 fAKEも過去に](https://ja.wikipedia.org/wiki/Face_2_fAKE "wikilink")「[Peace\!](https://ja.wikipedia.org/wiki/Peace! "wikilink")」を手がけている。
-  - 「Let It Be」の[プロモーションビデオ](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")は存在はしているものの(『SMAP×SMAP』で制作)、「[たいせつ](https://ja.wikipedia.org/wiki/たいせつ "wikilink")」と同様、収録されたものは発売されていない。
+  - [作詞](../Page/作詞.md "wikilink")の相田毅は多くの[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の楽曲に携わっている。[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")の[Face 2 fAKEも過去に](../Page/Face_2_fAKE.md "wikilink")「[Peace\!](https://ja.wikipedia.org/wiki/Peace! "wikilink")」を手がけている。
+  - 「Let It Be」の[プロモーションビデオ](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")は存在はしているものの(『SMAP×SMAP』で制作)、「[たいせつ](../Page/たいせつ.md "wikilink")」と同様、収録されたものは発売されていない。
   - ジャケットにメンバー5人は写っていない。
   - 「Let It Be」は[2000年](../Page/2000年.md "wikilink")[10月14日](../Page/10月14日.md "wikilink")発売のアルバム『[S map〜SMAP 014](../Page/S_map〜SMAP_014.md "wikilink")』、[2001年](../Page/2001年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")発売のベストアルバム『[Smap Vest](https://ja.wikipedia.org/wiki/Smap_Vest "wikilink")』に収録されている。
   - [カップリング](https://ja.wikipedia.org/wiki/カップリング "wikilink")の「世紀末」はアルバム未収録である。

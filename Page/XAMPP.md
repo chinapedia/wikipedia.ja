@@ -1,11 +1,11 @@
 > この記事は[XAMPP](https://ja.wikipedia.org/wiki/XAMPP)から翻訳されています。
 
 
-**XAMPP**（**ザンプ**）とは、[ウェブアプリケーション](https://ja.wikipedia.org/wiki/ウェブアプリケーション "wikilink")の実行に必要な[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")を[パッケージとしてまとめたもので](../Page/パッケージソフトウェア.md "wikilink")、apachefriends.orgから提供されている。主として開発用あるいは学習用ではあるが、[イントラネット](../Page/イントラネット.md "wikilink")などにおいて[実運用環境として使われることもある](https://ja.wikipedia.org/wiki/システム運用 "wikilink")。
+**XAMPP**（**ザンプ**）とは、[ウェブアプリケーション](https://ja.wikipedia.org/wiki/ウェブアプリケーション "wikilink")の実行に必要な[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")を[パッケージとしてまとめたもので](../Page/パッケージソフトウェア.md "wikilink")、apachefriends.orgから提供されている。主として開発用あるいは学習用ではあるが、[イントラネット](../Page/イントラネット.md "wikilink")などにおいて[実運用環境として使われることもある](../Page/システム運用.md "wikilink")。
 
 ## 概要
 
-[Apache](../Page/Apache_HTTP_Server.md "wikilink")（Webサーバ）、[MariaDB](https://ja.wikipedia.org/wiki/MariaDB "wikilink")（SQLデータベースサーバ；旧バージョンは[MySQL](https://ja.wikipedia.org/wiki/MySQL "wikilink")）と[Webプログラミング](../Page/Webプログラミング.md "wikilink")言語である[PHPや同目的で使われる](../Page/PHP_\(プログラミング言語\).md "wikilink")[Perl](../Page/Perl.md "wikilink")の4つの主要ソフトウェアと[phpMyAdmin](https://ja.wikipedia.org/wiki/phpMyAdmin "wikilink")などの管理ツール、さらに[SQLite](https://ja.wikipedia.org/wiki/SQLite "wikilink")など、いくつかの補助的なソフトウェアと[ライブラリ](../Page/ライブラリ.md "wikilink")モジュールが含まれている。現在、[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Linux](https://ja.wikipedia.org/wiki/Linux "wikilink")、[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")、[Solaris](../Page/Solaris.md "wikilink")で利用可能である。
+[Apache](../Page/Apache_HTTP_Server.md "wikilink")（Webサーバ）、[MariaDB](https://ja.wikipedia.org/wiki/MariaDB "wikilink")（SQLデータベースサーバ；旧バージョンは[MySQL](https://ja.wikipedia.org/wiki/MySQL "wikilink")）と[Webプログラミング](../Page/Webプログラミング.md "wikilink")言語である[PHPや同目的で使われる](../Page/PHP_\(プログラミング言語\).md "wikilink")[Perl](../Page/Perl.md "wikilink")の4つの主要ソフトウェアと[phpMyAdmin](https://ja.wikipedia.org/wiki/phpMyAdmin "wikilink")などの管理ツール、さらに[SQLite](../Page/SQLite.md "wikilink")など、いくつかの補助的なソフトウェアと[ライブラリ](../Page/ライブラリ.md "wikilink")モジュールが含まれている。現在、[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")、[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")、[Solaris](../Page/Solaris.md "wikilink")で利用可能である。
 
 本来、前述の複数のソフトウェアは個別に[インストール](../Page/インストール.md "wikilink")する必要があり、非常に手間がかかるが、XAMPPは一括してインストールするだけで、すぐに開発や運用が開始できる。パッケージとしての特性上、個々のソフトウエアのバージョンが必ずしも最新版で揃えられてはおらず、特にドライバモジュールに古いまま更新されていないものが含まれるが、開発用・学習用としては十分といえる。
 
@@ -25,7 +25,7 @@ XAMPPは以下の文字から構成されている。
   - P - PHPのP
   - P - PerlのP
 
-元々は対応[OSは](../Page/オペレーティングシステム.md "wikilink")[Linux](https://ja.wikipedia.org/wiki/Linux "wikilink")のみであり、その頭文字Lを付けLAMPPと称したが、後に複数のOSに対応したためLをXに変えXAMPPとなった。
+元々は対応[OSは](../Page/オペレーティングシステム.md "wikilink")[Linux](../Page/Linux.md "wikilink")のみであり、その頭文字Lを付けLAMPPと称したが、後に複数のOSに対応したためLをXに変えXAMPPとなった。
 
 ## 他のRDBMSの利用
 

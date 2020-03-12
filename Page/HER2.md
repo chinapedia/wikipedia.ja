@@ -1,13 +1,13 @@
 > この記事は[HER2](https://ja.wikipedia.org/wiki/HER2)から翻訳されています。
 
 
-[thumbの複合体の構造](https://ja.wikipedia.org/wiki/画像:Trastuzumab-HER2_complex_1N8Z.png "wikilink")。\]\] [thumbの複合体の構造](https://ja.wikipedia.org/wiki/画像:Pertuzumab-HER2_complex_1S78.png "wikilink")。[トラスツズマブ](https://ja.wikipedia.org/wiki/トラスツズマブ "wikilink")と異なり、第IIドメインに結合し、HER2の二量体化を防ぐ。\]\] **HER2**（ハーツー）は、[細胞](../Page/細胞.md "wikilink")表面に存在する約185 kDaの[糖タンパクで](https://ja.wikipedia.org/wiki/糖タンパク質 "wikilink")、[受容体型チロシンキナーゼ](https://ja.wikipedia.org/wiki/受容体型チロシンキナーゼ "wikilink")である。[上皮成長因子受容体](https://ja.wikipedia.org/wiki/上皮成長因子受容体 "wikilink") (EGFR、別名ERBB1) に類似した構造をもち、**EGFR2**、**ERBB2**、**CD340**、あるいは**NEU**とも呼ばれる。HER2タンパクをコードする遺伝子は **HER2/neu**、**erbB-2** で17番染色体長腕に存在する。また、HER2 は、human epidermal growth factor receptor (HER/EGFR/ERBB) family([EGFRファミリー](https://ja.wikipedia.org/wiki/EGFRファミリー "wikilink"))に属するタンパク質である。
+[thumbの複合体の構造](https://ja.wikipedia.org/wiki/画像:Trastuzumab-HER2_complex_1N8Z.png "wikilink")。\]\] [thumbの複合体の構造](https://ja.wikipedia.org/wiki/画像:Pertuzumab-HER2_complex_1S78.png "wikilink")。[トラスツズマブ](../Page/トラスツズマブ.md "wikilink")と異なり、第IIドメインに結合し、HER2の二量体化を防ぐ。\]\] **HER2**（ハーツー）は、[細胞](../Page/細胞.md "wikilink")表面に存在する約185 kDaの[糖タンパクで](https://ja.wikipedia.org/wiki/糖タンパク質 "wikilink")、[受容体型チロシンキナーゼ](https://ja.wikipedia.org/wiki/受容体型チロシンキナーゼ "wikilink")である。[上皮成長因子受容体](../Page/上皮成長因子受容体.md "wikilink") (EGFR、別名ERBB1) に類似した構造をもち、**EGFR2**、**ERBB2**、**CD340**、あるいは**NEU**とも呼ばれる。HER2タンパクをコードする遺伝子は **HER2/neu**、**erbB-2** で17番染色体長腕に存在する。また、HER2 は、human epidermal growth factor receptor (HER/EGFR/ERBB) family([EGFRファミリー](https://ja.wikipedia.org/wiki/EGFRファミリー "wikilink"))に属するタンパク質である。
 
-HER2タンパクは正常細胞において細胞の増殖、分化などの調節に関与しているが、何らかの理由でHER2遺伝子の増幅や遺伝子変異が起こると、細胞の増殖・分化の制御ができなくなり、細胞は悪性化する。HER2遺伝子は[がん遺伝子](https://ja.wikipedia.org/wiki/がん遺伝子 "wikilink")でもあり、多くの種類の[がんで遺伝子増幅がみられる](../Page/悪性腫瘍.md "wikilink")。
+HER2タンパクは正常細胞において細胞の増殖、分化などの調節に関与しているが、何らかの理由でHER2遺伝子の増幅や遺伝子変異が起こると、細胞の増殖・分化の制御ができなくなり、細胞は悪性化する。HER2遺伝子は[がん遺伝子](../Page/がん遺伝子.md "wikilink")でもあり、多くの種類の[がんで遺伝子増幅がみられる](../Page/悪性腫瘍.md "wikilink")。
 
 ## 発見の歴史
 
-[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")、ヒトEGFRに類似した受容体型[チロシンキナーゼが](https://ja.wikipedia.org/wiki/プロテインキナーゼ "wikilink")[クローニング](../Page/クローニング.md "wikilink")され、ヒトEGFR関連物質2 *human EGFR-related 2* の略よりHER2と名付けられた\[1\]。このHER2をコードする遺伝子は、ラットの神経膠芽腫 *neuroglioblastoma* 細胞株から見つかったがん遺伝子 neu に一致しており、同一のものと考えられた\[2\]。
+[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")、ヒトEGFRに類似した受容体型[チロシンキナーゼが](../Page/プロテインキナーゼ.md "wikilink")[クローニング](../Page/クローニング.md "wikilink")され、ヒトEGFR関連物質2 *human EGFR-related 2* の略よりHER2と名付けられた\[1\]。このHER2をコードする遺伝子は、ラットの神経膠芽腫 *neuroglioblastoma* 細胞株から見つかったがん遺伝子 neu に一致しており、同一のものと考えられた\[2\]。
 
 また同時期、ヒト乳癌細胞や唾液腺腺癌で、トリ赤芽球症ウイルス *avian erythroblastic leukemia virus* のもつがん遺伝子 v-erbB に類似した遺伝子が増幅していることが発見された。ヒトEGFR遺伝子が v-erbBと配列類似性が高いことは知られていたが、この新たな遺伝子はEGFR遺伝子とは別個のものであり、ヒトEGFR遺伝子はc-erbB-1、この新たな遺伝子はc-erbB-2 と名付けられた。またこれは neu と同じものであることが確認された\[3\]\[4\]。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") c-erbB-2遺伝子産物がチロシンキナーゼ活性を持った185 kDaの糖タンパクであることが確認された\[5\]。
 
@@ -62,11 +62,11 @@ CLEA: chemiluminescence enzyme immunoassay \[17\]
 
 ## HER2を標的にした治療
 
-HER2タンパクを標的とした[分子標的治療薬](https://ja.wikipedia.org/wiki/分子標的治療薬 "wikilink")に、[モノクローナル抗体](../Page/モノクローナル抗体.md "wikilink")の[トラスツズマブ](https://ja.wikipedia.org/wiki/トラスツズマブ "wikilink")や[ペルツズマブ](https://ja.wikipedia.org/wiki/ペルツズマブ "wikilink")、の[T-DM1](https://ja.wikipedia.org/wiki/トラスツズマブ_エムタンシン "wikilink")、低分子医薬品の[ラパチニブ](https://ja.wikipedia.org/wiki/ラパチニブ "wikilink")などがある。
+HER2タンパクを標的とした[分子標的治療薬](https://ja.wikipedia.org/wiki/分子標的治療薬 "wikilink")に、[モノクローナル抗体](../Page/モノクローナル抗体.md "wikilink")の[トラスツズマブ](../Page/トラスツズマブ.md "wikilink")や[ペルツズマブ](https://ja.wikipedia.org/wiki/ペルツズマブ "wikilink")、の[T-DM1](https://ja.wikipedia.org/wiki/トラスツズマブ_エムタンシン "wikilink")、低分子医薬品の[ラパチニブ](https://ja.wikipedia.org/wiki/ラパチニブ "wikilink")などがある。
 
 ### トラスツズマブ
 
-トラスツズマブ（ハーセプチン<sup>®</sup>）はHER2タンパクに結合するモノクローナル抗体である。主にHER2タンパクを発現する[乳癌](https://ja.wikipedia.org/wiki/乳癌 "wikilink")に対する治療薬として用いられる\[18\]。なお、治験段階における乳癌患者や医師らの苦悩の末に、ハーセプチン<sup>®</sup>が乳癌治療薬として[FDAにより認可されるに至る](https://ja.wikipedia.org/wiki/アメリカ食品医薬品局 "wikilink")、その険しい道のりを描いたノンフィクションに、映画『[希望のちから](https://ja.wikipedia.org/wiki/希望のちから "wikilink")』（原題：[Living Proof](https://ja.wikipedia.org/wiki/:en:Living_Proof_\(film\) "wikilink")）がある。
+トラスツズマブ（ハーセプチン<sup>®</sup>）はHER2タンパクに結合するモノクローナル抗体である。主にHER2タンパクを発現する[乳癌](../Page/乳癌.md "wikilink")に対する治療薬として用いられる\[18\]。なお、治験段階における乳癌患者や医師らの苦悩の末に、ハーセプチン<sup>®</sup>が乳癌治療薬として[FDAにより認可されるに至る](../Page/アメリカ食品医薬品局.md "wikilink")、その険しい道のりを描いたノンフィクションに、映画『[希望のちから](https://ja.wikipedia.org/wiki/希望のちから "wikilink")』（原題：[Living Proof](https://ja.wikipedia.org/wiki/:en:Living_Proof_\(film\) "wikilink")）がある。
 
 ### ペルツズマブ
 

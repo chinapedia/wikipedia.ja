@@ -1,7 +1,7 @@
 > この記事は[SILVER DIAMOND](https://ja.wikipedia.org/wiki/SILVER_DIAMOND)から翻訳されています。
 
 
-『**SILVER DIAMOND**』（シルバーダイヤモンド）は[杉浦志保](https://ja.wikipedia.org/wiki/杉浦志保 "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。略称は「SD」「S◇」（シルバーピヨ／シルピヨ）など。『[いち\*ラキ](https://ja.wikipedia.org/wiki/いち*ラキ "wikilink")』（[冬水社](https://ja.wikipedia.org/wiki/冬水社 "wikilink")）に[2003年](../Page/2003年.md "wikilink")10月号より[2012年](../Page/2012年.md "wikilink")7月号まで連載され、本編27巻と外伝1巻（2012年9月号 - 12月号連載）で完結。[マッグガーデン](https://ja.wikipedia.org/wiki/マッグガーデン "wikilink")より電子書籍版が刊行されている。
+『**SILVER DIAMOND**』（シルバーダイヤモンド）は[杉浦志保](https://ja.wikipedia.org/wiki/杉浦志保 "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。略称は「SD」「S◇」（シルバーピヨ／シルピヨ）など。『[いち\*ラキ](../Page/いち*ラキ.md "wikilink")』（[冬水社](../Page/冬水社.md "wikilink")）に[2003年](../Page/2003年.md "wikilink")10月号より[2012年](../Page/2012年.md "wikilink")7月号まで連載され、本編27巻と外伝1巻（2012年9月号 - 12月号連載）で完結。[マッグガーデン](../Page/マッグガーデン.md "wikilink")より電子書籍版が刊行されている。
 
 ## あらすじ
 

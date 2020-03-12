@@ -1,11 +1,11 @@
 > この記事は[EXILE EVOLUTION](https://ja.wikipedia.org/wiki/EXILE_EVOLUTION)から翻訳されています。
 
 
-『**EXILE EVOLUTION**』（エグザイル エヴォリューション）は、[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")の5枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[3月7日](../Page/3月7日.md "wikilink")に[rhythm zoneから発売](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。
+『**EXILE EVOLUTION**』（エグザイル エヴォリューション）は、[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")の5枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[3月7日](../Page/3月7日.md "wikilink")に[rhythm zoneから発売](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要
 
-前作『[ASIA](https://ja.wikipedia.org/wiki/ASIA_\(アルバム\) "wikilink")』から1年ぶりのオリジナルアルバム。EXILE第二章としては初のアルバム\[1\]。
+前作『[ASIA](../Page/ASIA_\(アルバム\).md "wikilink")』から1年ぶりのオリジナルアルバム。EXILE第二章としては初のアルバム\[1\]。
 
 「[CD](../Page/コンパクトディスク.md "wikilink")+2[DVD](../Page/DVD-Video.md "wikilink")」の豪華3枚組完全初回限定盤、「CD+DVD」の2枚組、「CDのみ」の合計3形態で発売。CDには、3ヶ月連続で発売された3枚のシングルを収録\[2\]。[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")とのコラボレーション「[WON'T BE LONG](https://ja.wikipedia.org/wiki/WON'T_BE_LONG#EXILE&倖田來未 "wikilink")」の新バージョンも含む全15曲（初回盤は[ボーナストラック](https://ja.wikipedia.org/wiki/ボーナストラック "wikilink")を追加した全16曲）を収録。DVDは[ビデオクリップ](https://ja.wikipedia.org/wiki/ビデオクリップ "wikilink")集になっており、初回盤のみビデオクリップのメイキング映像を追加収録。「CD+2DVD」の完全初回限定盤にのみ「EXILE VOCAL BATTLE AUDITION 2006 〜ASIAN DREAM〜」のライブの模様とドキュメント映像を完全収録したDVD2が付いている。このDVD2のエンドクレジットには約一万人に及ぶオーディション参加者全員の名前が記されている。
 
@@ -15,19 +15,19 @@
 
 1.  **〜PHASE〜** (Inst.) (2:41)
       -
-        作曲・編曲：[原田憲](https://ja.wikipedia.org/wiki/原田憲_\(ミュージシャン\) "wikilink")
-2.  **[EVOLUTION](https://ja.wikipedia.org/wiki/Everything_\(EXILEの曲\) "wikilink")** (4:55)
+        作曲・編曲：[原田憲](../Page/原田憲_\(ミュージシャン\).md "wikilink")
+2.  **[EVOLUTION](../Page/Everything_\(EXILEの曲\).md "wikilink")** (4:55)
       -
-        作詞：[michico](https://ja.wikipedia.org/wiki/MICHICO "wikilink") / 作曲：[T.Kura](https://ja.wikipedia.org/wiki/GIANT_SWING_PRODUCTIONS "wikilink")、michico / 編曲：T.Kura
+        作詞：[michico](../Page/MICHICO.md "wikilink") / 作曲：[T.Kura](https://ja.wikipedia.org/wiki/GIANT_SWING_PRODUCTIONS "wikilink")、michico / 編曲：T.Kura
     <!-- end list -->
       - 21stシングルカップリング
       - [日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系『[プリズン・ブレイク](https://ja.wikipedia.org/wiki/プリズン・ブレイク "wikilink")』テーマソング
-3.  **[Everything](https://ja.wikipedia.org/wiki/Everything_\(EXILEの曲\) "wikilink")** (4:40)
+3.  **[Everything](../Page/Everything_\(EXILEの曲\).md "wikilink")** (4:40)
       -
         作詞：[ATSUSHI](https://ja.wikipedia.org/wiki/ATSUSHI_\(歌手\) "wikilink") / 作曲・編曲：[h-wonder](https://ja.wikipedia.org/wiki/h-wonder "wikilink")
     <!-- end list -->
       - 21stシングル
-      - [テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")系『[家族〜妻の不在・夫の存在〜](https://ja.wikipedia.org/wiki/家族〜妻の不在・夫の存在〜 "wikilink")』主題歌
+      - [テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[家族〜妻の不在・夫の存在〜](../Page/家族〜妻の不在・夫の存在〜.md "wikilink")』主題歌
 4.  **Yell** (4:27)
       -
         作詞：ATSUSHI / 作曲・編曲：春川仁志
@@ -38,14 +38,14 @@
         作詞：[松尾潔](https://ja.wikipedia.org/wiki/松尾潔 "wikilink") / 作曲・編曲：[Jin Nakamura](https://ja.wikipedia.org/wiki/Jin_Nakamura "wikilink")
     <!-- end list -->
       - 22ndシングル
-      - [au](https://ja.wikipedia.org/wiki/Au_\(携帯電話\) "wikilink")「[LISMO](https://ja.wikipedia.org/wiki/LISMO "wikilink")」CMソング
-6.  **[HOLY NIGHT](https://ja.wikipedia.org/wiki/Everything_\(EXILEの曲\) "wikilink")** (5:40)
+      - [au](../Page/Au_\(携帯電話\).md "wikilink")「[LISMO](../Page/LISMO.md "wikilink")」CMソング
+6.  **[HOLY NIGHT](../Page/Everything_\(EXILEの曲\).md "wikilink")** (5:40)
       -
         作詞：ATSUSHI / 作曲：宮地大輔 / 編曲：大野裕一
     <!-- end list -->
       - 21stシングルカップリング
       - music.jp TVCFソング
-7.  **[WON'T BE LONG](https://ja.wikipedia.org/wiki/WON'T_BE_LONG#EXILE&倖田來未 "wikilink")** feat. [NEVER LAND](https://ja.wikipedia.org/wiki/NEVER_LAND_\(ヒップホップユニット\) "wikilink") (5:31)
+7.  **[WON'T BE LONG](https://ja.wikipedia.org/wiki/WON'T_BE_LONG#EXILE&倖田來未 "wikilink")** feat. [NEVER LAND](../Page/NEVER_LAND_\(ヒップホップユニット\).md "wikilink") (5:31)
       -
         作詞・作曲：Bro.KORN / 編曲：h-wonder
     <!-- end list -->
@@ -57,24 +57,24 @@
         作曲・編曲：原田憲
 9.  **No Other Man** feat. [NaNa](https://ja.wikipedia.org/wiki/NaNa_\(歌手\) "wikilink") (3:24)
       -
-        作詞・作曲：[STY](https://ja.wikipedia.org/wiki/STY "wikilink") / 編曲：h-wonder
+        作詞・作曲：[STY](../Page/STY.md "wikilink") / 編曲：h-wonder
     <!-- end list -->
       - エステ「[ラ・パルレ](https://ja.wikipedia.org/wiki/ラ・パルレ "wikilink")」CMイメージソング
 10. **彼方から此処へ** (4:30)
       -
-        作詞：谷中敦 / 作曲・編曲：[中野雄太](https://ja.wikipedia.org/wiki/中野雄太 "wikilink")
+        作詞：谷中敦 / 作曲・編曲：[中野雄太](../Page/中野雄太.md "wikilink")
 11. **[Change My Mind](../Page/Lovers_Again.md "wikilink")** (4:45)
       -
         作詞：ATSUSHI / 作曲：和田耕平 / 編曲：h-wonder
     <!-- end list -->
       - 22ndシングルカップリング
       - music.jp TVCFソング
-12. **[Giver](https://ja.wikipedia.org/wiki/Everything_\(EXILEの曲\) "wikilink")** (4:29)
+12. **[Giver](../Page/Everything_\(EXILEの曲\).md "wikilink")** (4:29)
       -
-        作詞：ATSUSHI / 作曲：[平田祥一郎](https://ja.wikipedia.org/wiki/平田祥一郎 "wikilink") / 編曲：h-wonder
+        作詞：ATSUSHI / 作曲：[平田祥一郎](../Page/平田祥一郎.md "wikilink") / 編曲：h-wonder
     <!-- end list -->
       - 21stシングルカップリング
-      - テレビ朝日系『[アドレな\!ガレッジ](https://ja.wikipedia.org/wiki/アドレな!ガレッジ "wikilink")』エンディングテーマ
+      - テレビ朝日系『[アドレな\!ガレッジ](../Page/アドレな!ガレッジ.md "wikilink")』エンディングテーマ
 13. **Dream Catcher** (4:13)
       -
         作詞：TAKAHIRO / 作曲：[藤澤慶昌](https://ja.wikipedia.org/wiki/藤澤慶昌 "wikilink") / 編曲：h-wonder
@@ -86,7 +86,7 @@
     <!-- end list -->
       - 23rdシングル
       - music.jp TVCFソング
-      - 日本テレビ系『[音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")』2007年2月オープニングテーマ
+      - 日本テレビ系『[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")』2007年2月オープニングテーマ
 15. **One love** (5:27)
       -
         作詞：[Kenn Kato](https://ja.wikipedia.org/wiki/Kenn_Kato "wikilink") / 作曲：ATSUSHI / 編曲：大野裕一
@@ -119,24 +119,24 @@
 
 ※CD+2DVDのみ
 
-1.  **[Eastern Boyz 'N Eastern Girlz](https://ja.wikipedia.org/wiki/ASIA_\(アルバム\) "wikilink")**
-2.  **[LET THE MUSIC PLAY](https://ja.wikipedia.org/wiki/ASIA_\(アルバム\) "wikilink")**
-3.  **[YES\!](https://ja.wikipedia.org/wiki/YES!_\(EXILEの曲\) "wikilink")**
-4.  **[DIAMOND](https://ja.wikipedia.org/wiki/EXIT_\(EXILEの曲\) "wikilink")**
-5.  **Lovers Again** - [TAKA](https://ja.wikipedia.org/wiki/DEEP_\(歌手グループ\) "wikilink")/WARNER/[田﨑敬浩](https://ja.wikipedia.org/wiki/TAKAHIRO_\(歌手\) "wikilink")/[前田雄一郎](https://ja.wikipedia.org/wiki/DEEP_\(歌手グループ\) "wikilink")/[施鐘泰](https://ja.wikipedia.org/wiki/JONTE "wikilink")/[NESMITH](https://ja.wikipedia.org/wiki/NESMITH "wikilink")
-6.  **[ROCK DA HOUSE](https://ja.wikipedia.org/wiki/ASIA_\(アルバム\) "wikilink")** feat. FATMAN SCOOP (with NEVER LAND)
+1.  **[Eastern Boyz 'N Eastern Girlz](../Page/ASIA_\(アルバム\).md "wikilink")**
+2.  **[LET THE MUSIC PLAY](../Page/ASIA_\(アルバム\).md "wikilink")**
+3.  **[YES\!](../Page/YES!_\(EXILEの曲\).md "wikilink")**
+4.  **[DIAMOND](../Page/EXIT_\(EXILEの曲\).md "wikilink")**
+5.  **Lovers Again** - [TAKA](../Page/DEEP_\(歌手グループ\).md "wikilink")/WARNER/[田﨑敬浩](https://ja.wikipedia.org/wiki/TAKAHIRO_\(歌手\) "wikilink")/[前田雄一郎](../Page/DEEP_\(歌手グループ\).md "wikilink")/[施鐘泰](../Page/JONTE.md "wikilink")/[NESMITH](https://ja.wikipedia.org/wiki/NESMITH "wikilink")
+6.  **[ROCK DA HOUSE](../Page/ASIA_\(アルバム\).md "wikilink")** feat. FATMAN SCOOP (with NEVER LAND)
 7.  **One for A11 A11 for One** (with NEVER LAND)
-8.  **[ただ…逢いたくて](https://ja.wikipedia.org/wiki/ただ…逢いたくて "wikilink")**
+8.  **[ただ…逢いたくて](../Page/ただ…逢いたくて.md "wikilink")**
 9.  **[style](https://ja.wikipedia.org/wiki/style_\(EXILEの曲\) "wikilink")** (with WARNER)
-10. **[STAY](https://ja.wikipedia.org/wiki/PERFECT_BEST_\(EXILEのアルバム\) "wikilink")** (with 前田雄一郎)
-11. **[永遠](https://ja.wikipedia.org/wiki/ASIA_\(アルバム\) "wikilink")** (with 施鐘泰)
+10. **[STAY](../Page/PERFECT_BEST_\(EXILEのアルバム\).md "wikilink")** (with 前田雄一郎)
+11. **[永遠](../Page/ASIA_\(アルバム\).md "wikilink")** (with 施鐘泰)
 12. **運命のヒト** (with 田﨑敬浩)
-13. **[EXIT](https://ja.wikipedia.org/wiki/EXIT_\(EXILEの曲\) "wikilink")** (with TAKA)
-14. **[Fly Away](https://ja.wikipedia.org/wiki/Fly_Away_\(EXILEの曲\) "wikilink")** (with Nesmith)
-15. **[Choo Choo TRAIN](https://ja.wikipedia.org/wiki/Choo_Choo_TRAIN_\(EXILEの曲\) "wikilink")**
+13. **[EXIT](../Page/EXIT_\(EXILEの曲\).md "wikilink")** (with TAKA)
+14. **[Fly Away](../Page/Fly_Away_\(EXILEの曲\).md "wikilink")** (with Nesmith)
+15. **[Choo Choo TRAIN](../Page/Choo_Choo_TRAIN_\(EXILEの曲\).md "wikilink")**
 16. The Document Movie of **EXILE VOCAL BATTLE AUDITION 2006 〜ASIAN DREAM〜**
       -
-        ナレーション：[窪田等](https://ja.wikipedia.org/wiki/窪田等 "wikilink")
+        ナレーション：[窪田等](../Page/窪田等.md "wikilink")
 
 ## 脚注
 

@@ -7,7 +7,7 @@
 
 AVデビュー以前には、グラビアアイドル「じゅんな」として活動していた。
 
-[キカタン](https://ja.wikipedia.org/wiki/キカタン "wikilink")AV女優だったが、2006年1月11日にプレステージから発売された『Tokyo流儀-11／MARIN』でブレイクし、メーカー間での争奪戦の末、同年2006年4月5日より[ワープエンタテインメント](https://ja.wikipedia.org/wiki/ワープエンタテインメント "wikilink")の専属女優として活動した\[1\]。
+[キカタン](https://ja.wikipedia.org/wiki/キカタン "wikilink")AV女優だったが、2006年1月11日にプレステージから発売された『Tokyo流儀-11／MARIN』でブレイクし、メーカー間での争奪戦の末、同年2006年4月5日より[ワープエンタテインメント](../Page/ワープエンタテインメント.md "wikilink")の専属女優として活動した\[1\]。
 
 2008年で引退した。
 
@@ -30,8 +30,8 @@ AVデビュー以前には、グラビアアイドル「じゅんな」として
   - エロカワE－GIRLアゲアゲコンパ （11月4日、[GLAY'z](https://ja.wikipedia.org/wiki/GLAY'z "wikilink")）
   - SUPERナイスバディーギャル （11月19日、[LEO](https://ja.wikipedia.org/wiki/アットワンコミュニケーション "wikilink")）
   - 水着オーディション拉致監禁 FILE-01 （12月10日、GLAY'z）
-  - ギャルギャル店員クラブファック （12月20日、LEO）他出演:[要涼](https://ja.wikipedia.org/wiki/要涼 "wikilink")、上杉あずさ、遠山若菜
-  - 女子校生限定\!\!Hなオークション お金が欲しけりゃ身体張れ\!\! （12月21日、[ディープス](https://ja.wikipedia.org/wiki/ディープス "wikilink")）
+  - ギャルギャル店員クラブファック （12月20日、LEO）他出演:[要涼](../Page/要涼.md "wikilink")、上杉あずさ、遠山若菜
+  - 女子校生限定\!\!Hなオークション お金が欲しけりゃ身体張れ\!\! （12月21日、[ディープス](../Page/ディープス.md "wikilink")）
   - 関西女子校生【まりん】 （12月22日、GLAY'z）
 
 <!-- end list -->
@@ -40,39 +40,39 @@ AVデビュー以前には、グラビアアイドル「じゅんな」として
 
 <!-- end list -->
 
-  - 制服トランス （1月1日、[ワンズファクトリー](https://ja.wikipedia.org/wiki/ワンズファクトリー "wikilink")）
-  - 制服カメラ \[まり18歳\]/まり （1月10日、[ドリームチケット](https://ja.wikipedia.org/wiki/ドリームチケット "wikilink")）
-  - Tokyo流儀-11／MARIN （1月11日、[プレステージ](https://ja.wikipedia.org/wiki/プレステージ_\(アダルトビデオ\) "wikilink")）
-  - ギャル痴女子校生 （1月13日、[TMA](https://ja.wikipedia.org/wiki/トータル・メディア・エージェンシー "wikilink")）
+  - 制服トランス （1月1日、[ワンズファクトリー](../Page/ワンズファクトリー.md "wikilink")）
+  - 制服カメラ \[まり18歳\]/まり （1月10日、[ドリームチケット](../Page/ドリームチケット.md "wikilink")）
+  - Tokyo流儀-11／MARIN （1月11日、[プレステージ](../Page/プレステージ_\(アダルトビデオ\).md "wikilink")）
+  - ギャル痴女子校生 （1月13日、[TMA](../Page/トータル・メディア・エージェンシー.md "wikilink")）
   - キャンギャル調教/マリン （1月20日、GLAY'z）
   - Happy Day／Marin （1月20日、[I.B.WORKS](https://ja.wikipedia.org/wiki/I.B.WORKS "wikilink")）
-  - 素人コギャルHEAVEN 4時間 （1月27日、[おかず。](https://ja.wikipedia.org/wiki/ケイ・エム・プロデュース "wikilink")）
+  - 素人コギャルHEAVEN 4時間 （1月27日、[おかず。](../Page/ケイ・エム・プロデュース.md "wikilink")）
   - 妹に萌えろ\!/マリン （2月1日、ワンズファクトリー）
-  - Pink★Gals2\[暴走発情ギャルズ\] （2月10日、ドリームチケット）他出演:[若葉ひな](https://ja.wikipedia.org/wiki/若葉ひな "wikilink")、[RIRICO](https://ja.wikipedia.org/wiki/RIRICO "wikilink")
+  - Pink★Gals2\[暴走発情ギャルズ\] （2月10日、ドリームチケット）他出演:[若葉ひな](../Page/若葉ひな.md "wikilink")、[RIRICO](../Page/RIRICO.md "wikilink")
   - えろまん/マリン （2月17日、GLAY'z）
   - ヤリマン （2月17日、LEO）
   - ナースにおまかせ （2月17日、LEO）
   - WATER POLE 01 （3月20日、プレステージ）
-  - S級素人ギャル千人斬り\! 7 （3月24日、[うまなみ。](https://ja.wikipedia.org/wiki/ケイ・エム・プロデュース "wikilink")）他出演:坂口のあ、[江口美貴](https://ja.wikipedia.org/wiki/江口美貴 "wikilink")、リオナ、五十嵐美穂、[山口まゆ](https://ja.wikipedia.org/wiki/山口まゆ_\(AV女優\) "wikilink")、松野しほ
+  - S級素人ギャル千人斬り\! 7 （3月24日、[うまなみ。](../Page/ケイ・エム・プロデュース.md "wikilink")）他出演:坂口のあ、[江口美貴](../Page/江口美貴.md "wikilink")、リオナ、五十嵐美穂、[山口まゆ](../Page/山口まゆ_\(AV女優\).md "wikilink")、松野しほ
   - Marin． Debut．00\[ZERO\]/Marin （4月5日、ワープエンタテインメント）
   - エロカワッ マリン （4月14日、LEO）
   - 小悪魔の教室／Marin． （4月29日、ワープエンタテインメント）
   - ギャルッ\!\!ちっく Marin．先生 （6月5日、ワープエンタテインメント）
   - ドリームシャワー/Marin． （7月5日、ワープエンタテインメント）
-  - Monthly2時間 撮れたて素材まんま出し （7月15日、ワープエンタテインメント）他出演:[志保](https://ja.wikipedia.org/wiki/志保_\(AV女優\) "wikilink")、[nao.](https://ja.wikipedia.org/wiki/nao. "wikilink")、[杉山圭](https://ja.wikipedia.org/wiki/杉山圭 "wikilink")、[米倉夏弥](https://ja.wikipedia.org/wiki/米倉夏弥 "wikilink")、[寧々](../Page/寧々_\(AV女優\).md "wikilink")、[桐島りおん](https://ja.wikipedia.org/wiki/桐島りおん "wikilink")、[伊川なち](https://ja.wikipedia.org/wiki/伊川なち "wikilink")
-  - ギャルコレ\! 3 -素人ギャル即ハメパラダイス- （7月28日、うまなみ。）他出演:[白鳥あきら](https://ja.wikipedia.org/wiki/白鳥あきら "wikilink")、倉木ゆり、[結城リナ](https://ja.wikipedia.org/wiki/結城リナ "wikilink")、白木彩、[聖瑛麻](https://ja.wikipedia.org/wiki/聖瑛麻 "wikilink")、姫野杏
+  - Monthly2時間 撮れたて素材まんま出し （7月15日、ワープエンタテインメント）他出演:[志保](https://ja.wikipedia.org/wiki/志保_\(AV女優\) "wikilink")、[nao.](https://ja.wikipedia.org/wiki/nao. "wikilink")、[杉山圭](../Page/杉山圭.md "wikilink")、[米倉夏弥](../Page/米倉夏弥.md "wikilink")、[寧々](../Page/寧々_\(AV女優\).md "wikilink")、[桐島りおん](https://ja.wikipedia.org/wiki/桐島りおん "wikilink")、[伊川なち](https://ja.wikipedia.org/wiki/伊川なち "wikilink")
+  - ギャルコレ\! 3 -素人ギャル即ハメパラダイス- （7月28日、うまなみ。）他出演:[白鳥あきら](../Page/白鳥あきら.md "wikilink")、倉木ゆり、[結城リナ](https://ja.wikipedia.org/wiki/結城リナ "wikilink")、白木彩、[聖瑛麻](https://ja.wikipedia.org/wiki/聖瑛麻 "wikilink")、姫野杏
   - Wet\*Gals/Marin．（8月5日、ワープエンタテインメント）
-  - Monthly2時間 撮れたて素材まんま出し2 （8月15日、ワープエンタテインメント）他出演:桐島りおん、[美波さら](https://ja.wikipedia.org/wiki/美波さら "wikilink")、[笠木あやか](https://ja.wikipedia.org/wiki/笠木あやか "wikilink")、寧々、伊川なち、志保、米倉夏弥、[星川ヒカル](https://ja.wikipedia.org/wiki/星川ヒカル "wikilink")
+  - Monthly2時間 撮れたて素材まんま出し2 （8月15日、ワープエンタテインメント）他出演:桐島りおん、[美波さら](https://ja.wikipedia.org/wiki/美波さら "wikilink")、[笠木あやか](../Page/笠木あやか.md "wikilink")、寧々、伊川なち、志保、米倉夏弥、[星川ヒカル](../Page/星川ヒカル.md "wikilink")
   - うまなみプレゼンツ20 ギャルコレ\! 4時間 2 （8月25日、おかず。）
   - 姫ぎゃる★スタイル （9月5日、ワープエンタテインメント）
-  - Monthly2時間 撮れたて素材まんま出し3 （9月15日、ワープエンタテインメント）他出演:志保、寧々、米倉夏弥、伊川なち、[持田茜](../Page/しじみ_\(女優\).md "wikilink")、[星ありす](https://ja.wikipedia.org/wiki/星ありす "wikilink")、[中谷エリカ](https://ja.wikipedia.org/wiki/中谷エリカ "wikilink")
-  - うまなみプレゼンツ（21）S級素人ギャル千人斬り\!4時間 4 （9月22日、おかず。）うまなみ。作品『S級 素人ギャル千人斬り\! 7』のセルDVD化作品 他出演:[坂上友香](https://ja.wikipedia.org/wiki/坂上友香 "wikilink")、[大石もえ](https://ja.wikipedia.org/wiki/大石もえ "wikilink")、藤原ミカ、あだちももこ、今井みすず、蒼井マキ、[柏木はる](https://ja.wikipedia.org/wiki/柏木はる "wikilink")
+  - Monthly2時間 撮れたて素材まんま出し3 （9月15日、ワープエンタテインメント）他出演:志保、寧々、米倉夏弥、伊川なち、[持田茜](../Page/しじみ_\(女優\).md "wikilink")、[星ありす](../Page/星ありす.md "wikilink")、[中谷エリカ](https://ja.wikipedia.org/wiki/中谷エリカ "wikilink")
+  - うまなみプレゼンツ（21）S級素人ギャル千人斬り\!4時間 4 （9月22日、おかず。）うまなみ。作品『S級 素人ギャル千人斬り\! 7』のセルDVD化作品 他出演:[坂上友香](https://ja.wikipedia.org/wiki/坂上友香 "wikilink")、[大石もえ](../Page/大石もえ.md "wikilink")、藤原ミカ、あだちももこ、今井みすず、蒼井マキ、[柏木はる](https://ja.wikipedia.org/wiki/柏木はる "wikilink")
   - 接吻カフェ/Marin． （10月5日、ワープエンタテインメント）
-  - Monthly2時間 撮れたて素材まんま出し4 （10月15日、ワープエンタテインメント）他出演:伊川なち、志保、[上村愛](https://ja.wikipedia.org/wiki/上村愛 "wikilink")、米倉夏弥、RIONA、[唐沢美樹](https://ja.wikipedia.org/wiki/唐沢美樹 "wikilink")、[椎名りく](../Page/椎名りく.md "wikilink")
+  - Monthly2時間 撮れたて素材まんま出し4 （10月15日、ワープエンタテインメント）他出演:伊川なち、志保、[上村愛](../Page/上村愛.md "wikilink")、米倉夏弥、RIONA、[唐沢美樹](https://ja.wikipedia.org/wiki/唐沢美樹 "wikilink")、[椎名りく](../Page/椎名りく.md "wikilink")
   - うまなみ。プレゼンツ24 素人ギャルをナンパして潮吹かせちゃいました\!4時間 （10月27日、おかず。）オムニバス作品
-  - Monthly2時間 撮れたて素材まんま出し5 （11月15日、ワープエンタテインメント）他出演:志保、美波さら、Kokoro、[風間ゆみ](https://ja.wikipedia.org/wiki/風間ゆみ "wikilink")
+  - Monthly2時間 撮れたて素材まんま出し5 （11月15日、ワープエンタテインメント）他出演:志保、美波さら、Kokoro、[風間ゆみ](../Page/風間ゆみ.md "wikilink")
   - チ●ポが生えたギャル高生／Marin． （12月5日、ワープエンタテインメント）
-  - 超［チョ～］お宝 Vol．01 （12月15日、ワープエンタテインメント）他出演:[原千尋](../Page/原千尋.md "wikilink")、志保、伊川なち、雪乃まい、[清原りょう](https://ja.wikipedia.org/wiki/清原りょう "wikilink")、持田茜、[金城アンナ](https://ja.wikipedia.org/wiki/金城アンナ "wikilink")、桐島りおん
+  - 超［チョ～］お宝 Vol．01 （12月15日、ワープエンタテインメント）他出演:[原千尋](../Page/原千尋.md "wikilink")、志保、伊川なち、雪乃まい、[清原りょう](../Page/清原りょう.md "wikilink")、持田茜、[金城アンナ](../Page/金城アンナ.md "wikilink")、桐島りおん
 
 <!-- end list -->
 
@@ -88,17 +88,17 @@ AVデビュー以前には、グラビアアイドル「じゅんな」として
   - 超\[チョ～\]お宝 Vol．03 （2月15日、ワープエンタテインメント）他出演:[nao.](https://ja.wikipedia.org/wiki/nao. "wikilink")、伊川なち、野村レナ
   - レイプウーマン・第一章 Marin. （3月5日、ワープエンタテインメント）
   - レイプウーマン・第二章 Marin. （3月15日、ワープエンタテインメント）
-  - 超\[チョ～\]お宝 Vol．04 （3月15日、ワープエンタテインメント）他出演:[楓（YOKO）](https://ja.wikipedia.org/wiki/YOKO_\(AV女優\) "wikilink")、風間ゆみ、[南原香織](https://ja.wikipedia.org/wiki/南原香織 "wikilink")、大石もえ、nao.、[折原まみ](https://ja.wikipedia.org/wiki/折原まみ "wikilink")、持田茜
+  - 超\[チョ～\]お宝 Vol．04 （3月15日、ワープエンタテインメント）他出演:[楓（YOKO）](../Page/YOKO_\(AV女優\).md "wikilink")、風間ゆみ、[南原香織](https://ja.wikipedia.org/wiki/南原香織 "wikilink")、大石もえ、nao.、[折原まみ](https://ja.wikipedia.org/wiki/折原まみ "wikilink")、持田茜
   - 街でウワサの風俗ビル （4月5日、ワープエンタテインメント）
   - 熱吻ブラック （5月3日、ワープエンタテインメント）共演:志保 ※[AV OPEN 2007エントリー作品](https://ja.wikipedia.org/wiki/AV_OPEN～あなたが決める!セルアダルトビデオ日本一決定戦～ "wikilink")
   - 新婚旅行◆南国レイプ （5月15日、ワープエンタテインメント）
-  - プレミアデジタルモザイク Vol.23 （6月7日、[プレミアム](https://ja.wikipedia.org/wiki/プレミアム_\(アダルトビデオ\) "wikilink")）
+  - プレミアデジタルモザイク Vol.23 （6月7日、[プレミアム](../Page/プレミアム_\(アダルトビデオ\).md "wikilink")）
   - S+CONTENTS 4時間 制服ギャル×女子校生SP Marin. （6月15日、ワープエンタテインメント）
-  - トリプル痴女GROOVE （7月7日、プレミアム）共演:[飯島夏希](https://ja.wikipedia.org/wiki/桜庭ハル "wikilink")、[瞳れん](https://ja.wikipedia.org/wiki/瞳れん "wikilink")
-  - DIGITAL CHANNEL （8月1日、[アイデアポケット](https://ja.wikipedia.org/wiki/アイデアポケット "wikilink")）
+  - トリプル痴女GROOVE （7月7日、プレミアム）共演:[飯島夏希](../Page/桜庭ハル.md "wikilink")、[瞳れん](../Page/瞳れん.md "wikilink")
+  - DIGITAL CHANNEL （8月1日、[アイデアポケット](../Page/アイデアポケット.md "wikilink")）
   - LOVE SEMEN （9月1日、アイデアポケット）
   - GALCIR 2 （10月1日、アイデアポケット）共演:黒沢英里奈（喜田嶋りお）、[佐藤江梨花](../Page/佐藤江梨花.md "wikilink")、飯島夏希、[高瀬七海](https://ja.wikipedia.org/wiki/高瀬七海 "wikilink")
-  - ハイパーデジタルモザイクVol.070 SPECIAL （11月1日、[MOODYZ](https://ja.wikipedia.org/wiki/MOODYZ "wikilink")）
+  - ハイパーデジタルモザイクVol.070 SPECIAL （11月1日、[MOODYZ](../Page/MOODYZ.md "wikilink")）
   - BLACK FUCK （12月1日、アイデアポケット）
 
 <!-- end list -->
@@ -121,7 +121,7 @@ AVデビュー以前には、グラビアアイドル「じゅんな」として
   - 真性潮吹きFUCK （10月13日、MOODYZ）
   - イク時はヤバいヤバい\! （10月19日、[乱丸](https://ja.wikipedia.org/wiki/乱丸_\(アダルトビデオ\) "wikilink")）
   - JK-FETISH ～生中出しライブ～ （11月17日、MOODYZ）共演:[ひなのりく](https://ja.wikipedia.org/wiki/ひなのりく "wikilink")
-  - 添い寝 （11月22日、しのだプロジェクト）他出演:[鮎川なお](https://ja.wikipedia.org/wiki/鮎川なお "wikilink")、[川上ゆう](https://ja.wikipedia.org/wiki/川上ゆう "wikilink")、[加藤ツバキ](../Page/加藤ツバキ.md "wikilink")、根本恵津子
+  - 添い寝 （11月22日、しのだプロジェクト）他出演:[鮎川なお](../Page/鮎川なお.md "wikilink")、[川上ゆう](../Page/川上ゆう.md "wikilink")、[加藤ツバキ](../Page/加藤ツバキ.md "wikilink")、根本恵津子
   - 癒らし。 VOL.54 （12月5日、アウダースジャパン）
 
 <!-- end list -->
@@ -130,7 +130,7 @@ AVデビュー以前には、グラビアアイドル「じゅんな」として
 
 <!-- end list -->
 
-  - 超高級美少女レズ・ソープ嬢 プレミアム （4月4日、[ディープス](https://ja.wikipedia.org/wiki/ディープス "wikilink")）共演:[浜崎りお](../Page/浜崎りお.md "wikilink")、[友田真希](https://ja.wikipedia.org/wiki/友田真希 "wikilink")、[つぼみ](https://ja.wikipedia.org/wiki/つぼみ_\(AV女優\) "wikilink")
+  - 超高級美少女レズ・ソープ嬢 プレミアム （4月4日、[ディープス](../Page/ディープス.md "wikilink")）共演:[浜崎りお](../Page/浜崎りお.md "wikilink")、[友田真希](../Page/友田真希.md "wikilink")、[つぼみ](../Page/つぼみ_\(AV女優\).md "wikilink")
   - 港のヨーコ c/w チャコの湘南物語 （5月19日、ROOKIE）
 
 <!-- end list -->
@@ -152,7 +152,7 @@ AVデビュー以前には、グラビアアイドル「じゅんな」として
   - 制服トランス DX 2 （7月1日、ワンズファクトリー）
   - BEST HIT 2006年 ドリームチケット 上半期総集編 （7月5日）
   - ULTIMATE GOLD マリン （7月21日、GLAY'z）
-  - VERY BEST OF マリン 完全版 （7月28日、[ケイ・エム・プロデュース](https://ja.wikipedia.org/wiki/ケイ・エム・プロデュース "wikilink")）
+  - VERY BEST OF マリン 完全版 （7月28日、[ケイ・エム・プロデュース](../Page/ケイ・エム・プロデュース.md "wikilink")）
   - MARIN．完全版 （9月1日、ワンズファクトリー）
   - FOXY LADIES 3 （9月10日、ラストラス）
   - S+CONTENTS 4時間 お嬢ギャルとお姉Gal\*スペシャル （11月5日、ワープエンタテインメント）
@@ -172,7 +172,7 @@ AVデビュー以前には、グラビアアイドル「じゅんな」として
   - 21人のデジモアイドル薄消し4時間 （2月23日、TMA）
   - S+CONTENTS 4時間 卑猥なベロとフェラ舌射SP （3月15日、ワープエンタテインメント）
   - S+CONTENTS 4時間 接吻しまくり淫口未成年SP （4月15日、ワープエンタテインメント）
-  - 痴女COMPLETE BEST 4時間 （4月21日、[TMA](https://ja.wikipedia.org/wiki/トータル・メディア・エージェンシー "wikilink")）
+  - 痴女COMPLETE BEST 4時間 （4月21日、[TMA](../Page/トータル・メディア・エージェンシー.md "wikilink")）
   - URECCOギャル 4時間コレクション （5月1日、ワンズファクトリー）
   - S+CONTENTS 4時間 犯ラレ癖ノ有ル女 （5月5日、ワープエンタテインメント）
   - S+CONTENTS 4時間 眼鏡デ誘惑スル女 （5月15日、ワープエンタテインメント）

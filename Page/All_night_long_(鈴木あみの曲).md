@@ -1,17 +1,17 @@
 > この記事は[All night long \(\)](https://ja.wikipedia.org/wiki/All_night_long_\(\))から翻訳されています。
 
 
-「**all night long**」（オール・ナイト・ロング）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")、[鈴木あみの](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")3枚目のシングルである。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[11月5日](../Page/11月5日.md "wikilink")に[TRUE KiSS DiSCよりリリースされた](https://ja.wikipedia.org/wiki/TRUE_KiSS_DiSC "wikilink")。
+「**all night long**」（オール・ナイト・ロング）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")、[鈴木あみの](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")3枚目のシングルである。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[11月5日](../Page/11月5日.md "wikilink")に[TRUE KiSS DiSCよりリリースされた](../Page/TRUE_KiSS_DiSC.md "wikilink")。
 
 ## 解説
 
-  - 鈴木亜美初の[ダンス](https://ja.wikipedia.org/wiki/ダンス "wikilink")楽曲で、小室と[globe](https://ja.wikipedia.org/wiki/globe "wikilink")の[マークパンサー](https://ja.wikipedia.org/wiki/マークパンサー "wikilink")の影響から[トランスをベースにした楽曲になっている](https://ja.wikipedia.org/wiki/トランス_\(音楽\) "wikilink")。
+  - 鈴木亜美初の[ダンス](../Page/ダンス.md "wikilink")楽曲で、小室と[globe](https://ja.wikipedia.org/wiki/globe "wikilink")の[マークパンサー](https://ja.wikipedia.org/wiki/マークパンサー "wikilink")の影響から[トランスをベースにした楽曲になっている](../Page/トランス_\(音楽\).md "wikilink")。
   - CDには合計10タイプのトレーディングカードが付属（先着20万枚）。
-  - 2008年から[RAM RIDERが制作した新アレンジヴァージョンをライブやDJイベントのみで披露](https://ja.wikipedia.org/wiki/RAM_RIDER "wikilink")。CD等には現在未収録。
+  - 2008年から[RAM RIDERが制作した新アレンジヴァージョンをライブやDJイベントのみで披露](../Page/RAM_RIDER.md "wikilink")。CD等には現在未収録。
 
 ## 収録曲
 
-全作詞：[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")・[MARC](https://ja.wikipedia.org/wiki/マーク・パンサー "wikilink")、作曲・編曲：小室哲哉
+全作詞：[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")・[MARC](../Page/マーク・パンサー.md "wikilink")、作曲・編曲：小室哲哉
 
 1.  **all night long \[Single Mix\]**
       -

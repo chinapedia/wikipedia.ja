@@ -1,7 +1,7 @@
 > この記事は[ForceWare](https://ja.wikipedia.org/wiki/ForceWare)から翻訳されています。
 
 
-**ForceWare**（フォースウェア）は、[NVIDIA](https://ja.wikipedia.org/wiki/NVIDIA "wikilink")製[GPU](../Page/Graphics_Processing_Unit.md "wikilink")「[GeForce](https://ja.wikipedia.org/wiki/GeForce "wikilink")」「[Quadro](https://ja.wikipedia.org/wiki/Quadro "wikilink")」シリーズの[ユーティリティソフトウェア](https://ja.wikipedia.org/wiki/ユーティリティソフトウェア "wikilink")である。GeForce、Quadro登場当初は**Detonator**（デトネイター）という名称であったが、名称変更後もバージョン番号は継続されたため、バージョン番号は90を突破している。[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")・[Linux](../Page/Linux.md "wikilink")・[Solaris](../Page/Solaris.md "wikilink")向け。
+**ForceWare**（フォースウェア）は、[NVIDIA](../Page/NVIDIA.md "wikilink")製[GPU](../Page/Graphics_Processing_Unit.md "wikilink")「[GeForce](https://ja.wikipedia.org/wiki/GeForce "wikilink")」「[Quadro](https://ja.wikipedia.org/wiki/Quadro "wikilink")」シリーズの[ユーティリティソフトウェア](../Page/ユーティリティソフトウェア.md "wikilink")である。GeForce、Quadro登場当初は**Detonator**（デトネイター）という名称であったが、名称変更後もバージョン番号は継続されたため、バージョン番号は90を突破している。[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")・[Linux](../Page/Linux.md "wikilink")・[Solaris](../Page/Solaris.md "wikilink")向け。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")にForceWareという名称は用いられなくなり、「GeForce Release <バージョン番号>」という表記になった。さらに [2009年](../Page/2009年.md "wikilink")に**GeForce/[ION](https://ja.wikipedia.org/wiki/NVIDIA_ION "wikilink") Driver**と改称された。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")にはデスクトップGPU用のドライバとモバイルGPU用のドライバが統合された。Quadroに関しても同様である。
 
@@ -20,7 +20,7 @@
 
   - NVIDIA PureVideo HD（ピュアビデオ） GeForce 6シリーズ以降による動画再生アクセラレーション機能
   - [SLI有効化](../Page/Scalable_Link_Interface.md "wikilink")
-  - [CUDA](https://ja.wikipedia.org/wiki/CUDA "wikilink")、[PhysX](../Page/PhysX.md "wikilink")のサポート
+  - [CUDA](../Page/CUDA.md "wikilink")、[PhysX](../Page/PhysX.md "wikilink")のサポート
 
 ## 外部リンク
 

@@ -5,17 +5,17 @@
 
 ## 解説
 
-ザ・スクェアの7枚目のアルバム。スクェアがバックバンドとして演奏するなど、関係の深かった[松任谷由実](../Page/松任谷由実.md "wikilink")がトータルコーディネーターとして参加している。松任谷は6曲目に収録されている「黄昏で見えない」の作曲と曲のタイトル命名にたずさわる。「黄昏で見えない」はのちに松任谷自身が作詞して「幻の魚たち」というタイトルで[小林麻美](https://ja.wikipedia.org/wiki/小林麻美 "wikilink")がカヴァーした。
+ザ・スクェアの7枚目のアルバム。スクェアがバックバンドとして演奏するなど、関係の深かった[松任谷由実](../Page/松任谷由実.md "wikilink")がトータルコーディネーターとして参加している。松任谷は6曲目に収録されている「黄昏で見えない」の作曲と曲のタイトル命名にたずさわる。「黄昏で見えない」はのちに松任谷自身が作詞して「幻の魚たち」というタイトルで[小林麻美](../Page/小林麻美.md "wikilink")がカヴァーした。
 
 1曲目の「[HELLO GOODBYE](../Page/ハロー・グッドバイ.md "wikilink")」は[ビートルズ](../Page/ビートルズ.md "wikilink")のヒット曲のカヴァー。ラストにはそのリプライズを収録。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（[平成](../Page/平成.md "wikilink")22年）現在、スクェアがカバー曲をオリジナルアルバムに収録したのはこの曲が最後である。
 
 ## 収録曲
 
-1.  **HELLO GOODBYE** - [ジョン・レノン](../Page/ジョン・レノン.md "wikilink")＆[ポール・マッカートニー](../Page/ポール・マッカートニー.md "wikilink")作曲、[安藤まさひろ編曲](https://ja.wikipedia.org/wiki/安藤正容 "wikilink")
+1.  **HELLO GOODBYE** - [ジョン・レノン](../Page/ジョン・レノン.md "wikilink")＆[ポール・マッカートニー](../Page/ポール・マッカートニー.md "wikilink")作曲、[安藤まさひろ編曲](../Page/安藤正容.md "wikilink")
 2.  **君はハリケーン** - 安藤まさひろ作曲、THE SQUARE編曲
 3.  **SABANA HOTEL** - 安藤まさひろ作曲、THE SQUARE編曲
-4.  **STINGRAY** - [田中豊雪](https://ja.wikipedia.org/wiki/田中豊雪 "wikilink")作曲・編曲
-5.  **HANK & CLIFF** - 安藤まさひろ作曲、THE SQUAREリズムトラック編曲、[和泉宏隆](https://ja.wikipedia.org/wiki/和泉宏隆 "wikilink")ホーン編曲
+4.  **STINGRAY** - [田中豊雪](../Page/田中豊雪.md "wikilink")作曲・編曲
+5.  **HANK & CLIFF** - 安藤まさひろ作曲、THE SQUAREリズムトラック編曲、[和泉宏隆](../Page/和泉宏隆.md "wikilink")ホーン編曲
 6.  **黄昏で見えない** - 松任谷由実作曲、和泉宏隆編曲
 7.  **From 03 To 06 (Receivers)** - 和泉宏隆作曲、THE SQUARE編曲
 8.  **カピオラニの通り雨** - 安藤まさひろ作曲、THE SQUARE編曲
@@ -26,10 +26,10 @@
 
   - THE SQUARE
       - 安藤まさひろ - Electric Guitars & Acoustic Guitars
-      - [伊東たけし](https://ja.wikipedia.org/wiki/伊東たけし "wikilink") - Alto Saxophone, Lyricon & Flute
+      - [伊東たけし](../Page/伊東たけし.md "wikilink") - Alto Saxophone, Lyricon & Flute
       - 和泉宏隆 - Acoustic Piano, Rhodes Piano, Mini Moog, OB-Xa, Korg Trident, Polysix & Prophet 5 Synthesizers
       - 田中豊雪 - Electric Bass, Synthesizer Bass by Mini Moog & Drums（ドラムは「STINGRAY」のみ）
-      - [長谷部徹](https://ja.wikipedia.org/wiki/長谷部徹_\(ドラマー\) "wikilink") - Drums & Percussion \[Pearl Drums GIANT STEP“GX series”（Maple Shell）& Sonor Snare Drum D420“Phonic”\]
+      - [長谷部徹](../Page/長谷部徹_\(ドラマー\).md "wikilink") - Drums & Percussion \[Pearl Drums GIANT STEP“GX series”（Maple Shell）& Sonor Snare Drum D420“Phonic”\]
   - Guest Musicians
       - [仙波清彦](../Page/仙波清彦.md "wikilink") - Percussion
       - [EVE](https://ja.wikipedia.org/wiki/EVE_\(歌手グループ\) "wikilink") - Background Vocals（「HELLO GOODBYE」のみ）

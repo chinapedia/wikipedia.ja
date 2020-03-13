@@ -3,7 +3,7 @@
 
 『**Pop'nツインビー**』（ポップンツインビー、*Pop'n Twinbee*）は、[1993年](../Page/1993年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")に[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")より発売された[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用縦スクロール[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")。
 
-後に[PlayStation Portable用ソフト](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")『[ツインビー ポータブル](https://ja.wikipedia.org/wiki/ツインビー_ポータブル "wikilink")』（[2007年](../Page/2007年.md "wikilink")）にも収録されている。[2014年](../Page/2014年.md "wikilink")[5月7日](../Page/5月7日.md "wikilink")には[Wii U](https://ja.wikipedia.org/wiki/Wii_U "wikilink")[バーチャルコンソール](https://ja.wikipedia.org/wiki/バーチャルコンソール "wikilink")で、[2016年](../Page/2016年.md "wikilink")[11月28日](../Page/11月28日.md "wikilink")には[Newニンテンドー3DS](https://ja.wikipedia.org/wiki/Newニンテンドー3DS "wikilink")バーチャルコンソールで配信された。
+後に[PlayStation Portable用ソフト](../Page/PlayStation_Portable.md "wikilink")『[ツインビー ポータブル](../Page/ツインビー_ポータブル.md "wikilink")』（[2007年](../Page/2007年.md "wikilink")）にも収録されている。[2014年](../Page/2014年.md "wikilink")[5月7日](../Page/5月7日.md "wikilink")には[Wii U](https://ja.wikipedia.org/wiki/Wii_U "wikilink")[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")で、[2016年](../Page/2016年.md "wikilink")[11月28日](../Page/11月28日.md "wikilink")には[Newニンテンドー3DS](https://ja.wikipedia.org/wiki/Newニンテンドー3DS "wikilink")バーチャルコンソールで配信された。
 
 ## 概要
 
@@ -59,7 +59,7 @@
   - ピンクベル
     バリア。敵の体当たりや弾から機体を守ることができる。バリアは被弾すると青→緑→黄色→ピンクと徐々に変色し、最後には消える。バリア所持時に取得すると耐久力を初期値に戻すことができる。本体がダメージを受けると分身が減るため重要な装備。
   - □黄白点滅ベル
-    ちび分身の使用回数が増える。画面全体を攻撃でき、攻撃中は自機が無敵になる攻防一体の武器（いわゆる[ボム](https://ja.wikipedia.org/wiki/ボム_\(シューティングゲーム\) "wikilink")）。ストック数は画面下に表示される。
+    ちび分身の使用回数が増える。画面全体を攻撃でき、攻撃中は自機が無敵になる攻防一体の武器（いわゆる[ボム](../Page/ボム_\(シューティングゲーム\).md "wikilink")）。ストック数は画面下に表示される。
 
 #### 地上アイテム
 
@@ -176,7 +176,7 @@
   - ウインビー
     2Pキャラクター。同じくまだ機体とパイロットの名前は区別されていない。ゲームクリア後は「ウインビー国民的アイドル化計画」により芸能界デビューした。
   - マドカ
-    乱心したマードック博士の孫娘。性格は可愛らしくて清純だが実はかなり腹黒い。[脱出艇](https://ja.wikipedia.org/wiki/脱出艇 "wikilink")で逃げているところをツインビーに救助される。以後ラジオドラマ『ツインビーPARADISE』でレギュラー化する。名前の由来は『[がんばれゴエモン](https://ja.wikipedia.org/wiki/がんばれゴエモン "wikilink")』スタッフの山内円（男性）。クッキーを焼くのが趣味だがものすごくまずい。
+    乱心したマードック博士の孫娘。性格は可愛らしくて清純だが実はかなり腹黒い。[脱出艇](https://ja.wikipedia.org/wiki/脱出艇 "wikilink")で逃げているところをツインビーに救助される。以後ラジオドラマ『ツインビーPARADISE』でレギュラー化する。名前の由来は『[がんばれゴエモン](../Page/がんばれゴエモン.md "wikilink")』スタッフの山内円（男性）。クッキーを焼くのが趣味だがものすごくまずい。
   - マードック博士
     マドカの祖父。柱に頭をぶつけて世界征服を企む悪の博士になった。お手伝いロボ「どんぐり隊」を使って戦いを挑む。
   - バロンビー
@@ -231,12 +231,12 @@
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ツインビー_ポータブル" title="wikilink">ツインビー ポータブル</a></p></td>
+<td><p><a href="../Page/ツインビー_ポータブル.md" title="wikilink">ツインビー ポータブル</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_Portable" title="wikilink">PlayStation Portable</a></p></td>
+<td><p><a href="../Page/PlayStation_Portable.md" title="wikilink">PlayStation Portable</a></p></td>
 <td><p><a href="../Page/M2_(ゲーム会社).md" title="wikilink">M2</a></p></td>
 <td><p>KDE</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ユニバーサル・メディア・ディスク" title="wikilink">UMD</a></p></td>
+<td><p><a href="../Page/ユニバーサル・メディア・ディスク.md" title="wikilink">UMD</a></p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>収録ソフトの一つ</p></td>
@@ -249,7 +249,7 @@
 <td><p>KDE</p></td>
 <td><p>KDE</p></td>
 <td><p><a href="../Page/ダウンロード販売.md" title="wikilink">ダウンロード</a><br />
-(<a href="https://ja.wikipedia.org/wiki/バーチャルコンソール" title="wikilink">バーチャルコンソール</a>)</p></td>
+(<a href="../Page/バーチャルコンソール.md" title="wikilink">バーチャルコンソール</a>)</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td></td>
@@ -313,7 +313,7 @@ Nintendo Switch Online</a></p></td>
 
 <!-- end list -->
 
-  - ゲーム誌『[ファミリーコンピュータMagazine](https://ja.wikipedia.org/wiki/ファミリーコンピュータMagazine "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、23.17点（満30点）となっている\[8\]。この得点はスーパーファミコン全ソフトの中で38位（323本中、1993年時点）となっている\[9\]。また、『SUPER FAMICOM Magazine』1993年8月情報号特別付録の「スーパーファミコンオールカタログ'93」では、「自機はライフ制で、分身は最大9つまでストック可能となり、難易度が低めになっている」、「2人同時プレイでは相棒をぶん投げて敵を攻撃などの多彩なプレイが魅力だ」と紹介されている\[10\]。その他、同付録巻末に収録されている「部門別ベスト30」では、キャラクタ22位、操作性26位を獲得している\[11\]。
+  - ゲーム誌『[ファミリーコンピュータMagazine](../Page/ファミリーコンピュータMagazine.md "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、23.17点（満30点）となっている\[8\]。この得点はスーパーファミコン全ソフトの中で38位（323本中、1993年時点）となっている\[9\]。また、『SUPER FAMICOM Magazine』1993年8月情報号特別付録の「スーパーファミコンオールカタログ'93」では、「自機はライフ制で、分身は最大9つまでストック可能となり、難易度が低めになっている」、「2人同時プレイでは相棒をぶん投げて敵を攻撃などの多彩なプレイが魅力だ」と紹介されている\[10\]。その他、同付録巻末に収録されている「部門別ベスト30」では、キャラクタ22位、操作性26位を獲得している\[11\]。
 
 | 項目 | キャラクタ | 音楽   | 操作性  | 熱中度  | お買得度 | オリジナリティ | 総合    |
 | -- | ----- | ---- | ---- | ---- | ---- | ------- | ----- |
@@ -332,7 +332,7 @@ Nintendo Switch Online</a></p></td>
 
 [Category:1993年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1993年のコンピュータゲーム "wikilink") [Category:Newニンテンドー3DS用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Newニンテンドー3DS用バーチャルコンソール対応ソフト "wikilink") [Category:Wii_U用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii_U用バーチャルコンソール対応ソフト "wikilink") [Category:スーパーファミコン用ソフト](https://ja.wikipedia.org/wiki/Category:スーパーファミコン用ソフト "wikilink") [Category:ツインビー](https://ja.wikipedia.org/wiki/Category:ツインビー "wikilink") [Category:ニンテンドウパワー書き換えソフト](https://ja.wikipedia.org/wiki/Category:ニンテンドウパワー書き換えソフト "wikilink")
 
-1.  ステージBGMのボーカルアレンジ曲「Twin memories」は、OVA「ウインビーの1/8パニック」、ラジオドラマ「ツインビーPARADISE」の主題歌およびプレイステーションソフト「ツインビー[対戦ぱずるだま](https://ja.wikipedia.org/wiki/対戦ぱずるだま "wikilink")」のエンディング曲に起用された。アルバム『[Twinbee Vocal Paradise featuring Mariko Kouda](https://ja.wikipedia.org/wiki/Twinbee_Vocal_Paradise_featuring_Mariko_Kouda "wikilink")』も参照。
+1.  ステージBGMのボーカルアレンジ曲「Twin memories」は、OVA「ウインビーの1/8パニック」、ラジオドラマ「ツインビーPARADISE」の主題歌およびプレイステーションソフト「ツインビー[対戦ぱずるだま](../Page/対戦ぱずるだま.md "wikilink")」のエンディング曲に起用された。アルバム『[Twinbee Vocal Paradise featuring Mariko Kouda](https://ja.wikipedia.org/wiki/Twinbee_Vocal_Paradise_featuring_Mariko_Kouda "wikilink")』も参照。
 2.  パッケージアートになっているステージ。
 3.  ステージBGMのボーカルアレンジ曲「Fantasian」は、ラジオドラマ「ツインビーPARADISE」でマドカが経営する喫茶店、喫茶ファンタジアンの店内BGMに使用された。
 4.  クリア後は難易度が大幅にアップした2周目が開始される。ツインビーシリーズ最後の2周目となった。

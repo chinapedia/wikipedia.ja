@@ -13,7 +13,7 @@
 
 1.  **ロックン・ロールさえやってりゃ**
       -
-        [高崎晃](https://ja.wikipedia.org/wiki/高崎晃 "wikilink")がリード[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")。
+        [高崎晃](../Page/高崎晃.md "wikilink")がリード[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")。
 2.  **STOP THE MUSIC**
 3.  **GUITAR MAN**
       -
@@ -21,10 +21,10 @@
 4.  **フルカウント**
 5.  **内気な夏**
       -
-        [井上俊次](https://ja.wikipedia.org/wiki/井上俊次 "wikilink")がリードボーカル。
+        [井上俊次](../Page/井上俊次.md "wikilink")がリードボーカル。
 6.  **MY ANGEL**
       -
-        [影山ヒロノブ](https://ja.wikipedia.org/wiki/影山ヒロノブ "wikilink")が後にソロアルバム『[I'm in you.](../Page/I'm_in_you..md "wikilink")』で[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")している。
+        [影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink")が後にソロアルバム『[I'm in you.](../Page/I'm_in_you..md "wikilink")』で[セルフカバー](../Page/セルフカバー.md "wikilink")している。
 7.  **真昼のメインストリート**
       -
         [田中宏幸がリードボーカル](https://ja.wikipedia.org/wiki/田中宏幸_\(ベーシスト\) "wikilink")。

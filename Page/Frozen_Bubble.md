@@ -5,13 +5,13 @@
 
 ## 概要
 
-[Linux](../Page/Linux.md "wikilink")・[Mac OS X](https://ja.wikipedia.org/wiki/macOS "wikilink")・[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")・ [スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")に搭載される[Symbian Series 60など様々な](https://ja.wikipedia.org/wiki/Symbian_OS "wikilink")[OSで動作する](../Page/オペレーティングシステム.md "wikilink")。また、1人用の[Javaアプレット](../Page/Javaアプレット.md "wikilink")版もある。
+[Linux](../Page/Linux.md "wikilink")・[Mac OS X](https://ja.wikipedia.org/wiki/macOS "wikilink")・[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")・ [スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")に搭載される[Symbian Series 60など様々な](../Page/Symbian_OS.md "wikilink")[OSで動作する](../Page/オペレーティングシステム.md "wikilink")。また、1人用の[Javaアプレット](../Page/Javaアプレット.md "wikilink")版もある。
 
 最初のFrozen BubbleはGuillaume Cottenceauによって[Perl](../Page/Perl.md "wikilink")で書かれた。これは[SDL](../Page/SDL.md "wikilink")ライブラリが使われており、100のレベルとレベルエディターが実装されていた。
 
 いくつかの有名な[オープンソース](../Page/オープンソース.md "wikilink")ゲームのように、このゲームも[ペンギン](https://ja.wikipedia.org/wiki/ペンギン "wikilink")の[タックス](../Page/タックス.md "wikilink")を主役にしている。このゲームでタックスは色のついたFrozen bubbleを撃ち、同じ色のグループを作って消していく。ゲームの目的は全てのFrozen bubbleを消すことである。
 
-このゲームは[GNU General Public Licenseで公開されている](../Page/GNU_General_Public_License.md "wikilink")。もともとは、 Mandrake Linux （現 [Mandriva Linux](https://ja.wikipedia.org/wiki/Mandriva_Linux "wikilink")）で作動するよう考案されたコンピューターゲームであった。\[1\] \[2\]
+このゲームは[GNU General Public Licenseで公開されている](../Page/GNU_General_Public_License.md "wikilink")。もともとは、 Mandrake Linux （現 [Mandriva Linux](../Page/Mandriva_Linux.md "wikilink")）で作動するよう考案されたコンピューターゲームであった。\[1\] \[2\]
 
 ## 対戦のバリエーション
 

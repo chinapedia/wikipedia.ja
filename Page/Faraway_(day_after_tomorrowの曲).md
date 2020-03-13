@@ -9,7 +9,7 @@
 
 この曲でday after tomorrowは、[第44回日本レコード大賞](https://ja.wikipedia.org/wiki/第44回日本レコード大賞 "wikilink")新人賞を受賞した。
 
-当初は、デビューアルバム『[day after tomorrow](https://ja.wikipedia.org/wiki/day_after_tomorrow_\(アルバム\) "wikilink")』に収録されていたが、当初の予想を上回る反響からシングル化が決定した。 同シングルの[プロモーションビデオは](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、TVで「day after tomorrowの映像」としてよく使われている。
+当初は、デビューアルバム『[day after tomorrow](https://ja.wikipedia.org/wiki/day_after_tomorrow_\(アルバム\) "wikilink")』に収録されていたが、当初の予想を上回る反響からシングル化が決定した。 同シングルの[プロモーションビデオは](../Page/ミュージック・ビデオ.md "wikilink")、TVで「day after tomorrowの映像」としてよく使われている。
 
 また、今作は10曲収録されており、トラック数としては通常アルバムとして扱われるが、オリジナルとインストを除き残り8曲はすべてリミックスである。
 
@@ -18,7 +18,7 @@
 ### 収録曲
 
 1.  **faraway (Original Mix)**
-    （作詞：[misono](https://ja.wikipedia.org/wiki/misono "wikilink") / 作曲：[北野正人](https://ja.wikipedia.org/wiki/北野正人 "wikilink") / 編曲：[石塚知生](../Page/石塚知生.md "wikilink")、[五十嵐充](../Page/五十嵐充.md "wikilink")）
+    （作詞：[misono](https://ja.wikipedia.org/wiki/misono "wikilink") / 作曲：[北野正人](../Page/北野正人.md "wikilink") / 編曲：[石塚知生](../Page/石塚知生.md "wikilink")、[五十嵐充](../Page/五十嵐充.md "wikilink")）
       -
         [森永製菓](https://ja.wikipedia.org/wiki/森永製菓 "wikilink")「[ICE BOX](https://ja.wikipedia.org/wiki/ICE_BOX "wikilink")」TV-CMソング
 2.  **faraway Dirt Devils 7″ Mix**
@@ -51,7 +51,7 @@
 ## 参加ミュージシャン
 
   - misono:[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
-  - [北野正人](https://ja.wikipedia.org/wiki/北野正人 "wikilink"):[ギター](../Page/ギター.md "wikilink")
+  - [北野正人](../Page/北野正人.md "wikilink"):[ギター](../Page/ギター.md "wikilink")
   - 鈴木大輔:[キーボード](../Page/キーボード_\(楽器\).md "wikilink")
   - 五十嵐充:プログラミング、キーボード
   - 石塚知生:プログラミング、キーボード

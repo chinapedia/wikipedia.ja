@@ -23,7 +23,7 @@
 
 ### ミニCIMA
 
-[闘龍門](../Page/闘龍門.md "wikilink")JAPANで活動していた[CIMAのミニ版](https://ja.wikipedia.org/wiki/CIMA_\(プロレスラー\) "wikilink")「**ミニCIMA**」として、スモール"ダンディ"フジ（現：[ラッセ](../Page/沖本摩幸.md "wikilink")）、SUWAシート（現：[Kagetora](https://ja.wikipedia.org/wiki/KAGETORA_\(プロレスラー\) "wikilink")）、TARUシート（現：[道菅康彦](https://ja.wikipedia.org/wiki/道菅康彦 "wikilink")）と**[ミニCRAZY-MAX](https://ja.wikipedia.org/wiki/CRAZY-MAX#ミニCRAZY-MAX "wikilink")**を結成する。
+[闘龍門](../Page/闘龍門.md "wikilink")JAPANで活動していた[CIMAのミニ版](https://ja.wikipedia.org/wiki/CIMA_\(プロレスラー\) "wikilink")「**ミニCIMA**」として、スモール"ダンディ"フジ（現：[ラッセ](../Page/沖本摩幸.md "wikilink")）、SUWAシート（現：[Kagetora](../Page/KAGETORA_\(プロレスラー\).md "wikilink")）、TARUシート（現：[道菅康彦](https://ja.wikipedia.org/wiki/道菅康彦 "wikilink")）と**[ミニCRAZY-MAX](https://ja.wikipedia.org/wiki/CRAZY-MAX#ミニCRAZY-MAX "wikilink")**を結成する。
 
 本家のCIMAに負けず、華麗なファイト、オリジナルホールド、三角跳び式マッドスプラッシュは他団体にも注目視されていた。
 
@@ -55,7 +55,7 @@
 
 ### リトル・ドラゴン
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月19日](../Page/7月19日.md "wikilink")、[Dragondoorに覆面レスラー](../Page/ドラゴンドア.md "wikilink")「**リトル・ドラゴン**」として登場。
+[2005年](../Page/2005年.md "wikilink")[7月19日](../Page/7月19日.md "wikilink")、[Dragondoorに覆面レスラー](../Page/ドラゴンドア.md "wikilink")「**リトル・ドラゴン**」として登場。
 
 #### 得意技
 
@@ -65,11 +65,11 @@
 
 ### 義経
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")12月、ゲームソフトPS2『義経英雄伝 修羅』の企画にて遮那王から覆面レスラー「**義経**」へと元服を果たす。後に新崎人生から元服祝いとして東北ジュニアヘビー級王者[TAKAみちのく](https://ja.wikipedia.org/wiki/TAKAみちのく "wikilink")との東北ジュニア戦への挑戦権を獲得したが敗戦に終わる。元服時は武蔵坊弁慶のコスプレをした新崎人生とタッグを組んだ。
+[2005年](../Page/2005年.md "wikilink")12月、ゲームソフトPS2『義経英雄伝 修羅』の企画にて遮那王から覆面レスラー「**義経**」へと元服を果たす。後に新崎人生から元服祝いとして東北ジュニアヘビー級王者[TAKAみちのく](../Page/TAKAみちのく.md "wikilink")との東北ジュニア戦への挑戦権を獲得したが敗戦に終わる。元服時は武蔵坊弁慶のコスプレをした新崎人生とタッグを組んだ。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")、[プロレスリングElDoradoに窓口を移籍](../Page/プロレスリング・エルドラド.md "wikilink")\[1\]。
+[2006年](../Page/2006年.md "wikilink")、[プロレスリングElDoradoに窓口を移籍](../Page/プロレスリング・エルドラド.md "wikilink")\[1\]。
 
-[2007年](../Page/2007年.md "wikilink")、[ふく面ワールドリーグ戦](../Page/ふく面ワールドリーグ戦.md "wikilink")では[獣神サンダー・ライガー](https://ja.wikipedia.org/wiki/獣神サンダー・ライガー "wikilink")を丸め込んで準決勝進出という大金星をあげるも、[アトランティスに破れて決勝進出はならなかった](../Page/アトランティス_\(プロレスラー\).md "wikilink")。しかし、その勢いに乗って[GAINAに挑戦して念願の](../Page/湯浅和也.md "wikilink")[東北ジュニアヘビー級王座](../Page/東北ジュニアヘビー級王座.md "wikilink")を獲得。性格面の特徴としては、冷静沈着でほとんど喋らない。しかし、上記のライガーから勝利をあげた際は喜びを爆発させて「俺がみちのくを守る」と絶叫した。それ以来マイクを取るようになる。
+[2007年](../Page/2007年.md "wikilink")、[ふく面ワールドリーグ戦](../Page/ふく面ワールドリーグ戦.md "wikilink")では[獣神サンダー・ライガー](../Page/獣神サンダー・ライガー.md "wikilink")を丸め込んで準決勝進出という大金星をあげるも、[アトランティスに破れて決勝進出はならなかった](../Page/アトランティス_\(プロレスラー\).md "wikilink")。しかし、その勢いに乗って[GAINAに挑戦して念願の](../Page/湯浅和也.md "wikilink")[東北ジュニアヘビー級王座](../Page/東北ジュニアヘビー級王座.md "wikilink")を獲得。性格面の特徴としては、冷静沈着でほとんど喋らない。しかし、上記のライガーから勝利をあげた際は喜びを爆発させて「俺がみちのくを守る」と絶叫した。それ以来マイクを取るようになる。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、ザ・グレート・サスケと東北タッグ王座を奪還。第11代王者組となり、初の東北二冠を達成する。シングル防衛戦にてタッグパートナーであるサスケを破り師匠越えを果たした。その後6度の防衛に成功するが、[フジタ"Jr"ハヤト](../Page/フジタ"Jr"ハヤト.md "wikilink")との防衛戦に敗れる。その後東北タッグ王者からも陥落して、さらにケガにより長期欠場。その後、自分を鍛えなおす理由に、みちのくのリングを去ることを宣言する。
 
@@ -95,9 +95,9 @@
 
 ### エル・ブレイザー
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")4月27日、ElDoradoに移籍して同団体に謎の青い覆面レスラー「**エル・ブレイザー**」として登場。前述の通り、みちのくプロレスでの義経と平行しての活動であった。当初は背に青い羽根を付けていた。名前のとおり青い炎をイメージしたもので飛び技の時は、飛び散る様子を表現しようとした。しかし、試合終了後はリングに散らばってしまい、以降は夏服と称し羽根を装着しなくなった。リング外では遅刻や[ミラニートコレクションa.t.のダンス練習を邪魔するなど](https://ja.wikipedia.org/wiki/大椙努 "wikilink")、ある意味問題児扱いされていた。
+[2006年](../Page/2006年.md "wikilink")4月27日、ElDoradoに移籍して同団体に謎の青い覆面レスラー「**エル・ブレイザー**」として登場。前述の通り、みちのくプロレスでの義経と平行しての活動であった。当初は背に青い羽根を付けていた。名前のとおり青い炎をイメージしたもので飛び技の時は、飛び散る様子を表現しようとした。しかし、試合終了後はリングに散らばってしまい、以降は夏服と称し羽根を装着しなくなった。リング外では遅刻や[ミラニートコレクションa.t.のダンス練習を邪魔するなど](https://ja.wikipedia.org/wiki/大椙努 "wikilink")、ある意味問題児扱いされていた。
 
-[2007年](../Page/2007年.md "wikilink")2月22日、自らフリーへの道を選び、ElDoradoを退団。[プロレスリングZERO1-MAXを主戦場としてSWORD軍の一員として活動](https://ja.wikipedia.org/wiki/ZERO1 "wikilink")。
+[2007年](../Page/2007年.md "wikilink")2月22日、自らフリーへの道を選び、ElDoradoを退団。[プロレスリングZERO1-MAXを主戦場としてSWORD軍の一員として活動](../Page/ZERO1.md "wikilink")。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、[望月成晃](../Page/望月成晃.md "wikilink")が持つインターナショナルジュニアヘビー級王座に挑戦する。ミニCIMA時代の技を解禁し優勢だったものの敗退。その後、望月からタッグパートナーとして誘われ、それに応じた。
 
@@ -121,9 +121,9 @@
 
 [2016年](../Page/2016年.md "wikilink")7月16日、「[ふく面ワールドリーグ戦](../Page/ふく面ワールドリーグ戦.md "wikilink")」に参戦。「ふく面ワールドリーグ戦」開催前の2016年8月28日『藤原義則プレゼンツ熊本地震復興支援大会〜戮力教心〜』が復帰戦となる。
 
-[2017年](../Page/2017年.md "wikilink")3月から[プロレスリングLAND'S END](https://ja.wikipedia.org/wiki/プロレスリングLAND'S_END "wikilink")、4月から[VKF](https://ja.wikipedia.org/wiki/VKF "wikilink")プロレスにレギュラー参戦。7月30日ZERO1リングに現れ日高をドロップキックで倒して[鈴木鼓太郎](https://ja.wikipedia.org/wiki/鈴木鼓太郎 "wikilink")の持つジュニア二冠に電撃挑戦表明をする。その後ZERO1にもレギュラー参戦となる。9月17日、[覆面MANIA](https://ja.wikipedia.org/wiki/覆面MANIA "wikilink")の入場式にサプライズで登場。次回からの参戦発表がされた。
+[2017年](../Page/2017年.md "wikilink")3月から[プロレスリングLAND'S END](https://ja.wikipedia.org/wiki/プロレスリングLAND'S_END "wikilink")、4月から[VKF](https://ja.wikipedia.org/wiki/VKF "wikilink")プロレスにレギュラー参戦。7月30日ZERO1リングに現れ日高をドロップキックで倒して[鈴木鼓太郎](../Page/鈴木鼓太郎.md "wikilink")の持つジュニア二冠に電撃挑戦表明をする。その後ZERO1にもレギュラー参戦となる。9月17日、[覆面MANIA](https://ja.wikipedia.org/wiki/覆面MANIA "wikilink")の入場式にサプライズで登場。次回からの参戦発表がされた。
 
-[2018年](../Page/2018年.md "wikilink")1月1日、[プロレスリングZERO1に入団](https://ja.wikipedia.org/wiki/ZERO1 "wikilink")。11月24日の新木場新木場1stリング大会の天下一ジュニアトーナメントで優勝し(決勝対戦相手はHAYATA)怪我で欠場の木高イサミが返上し空位となっていた[インターナショナルジュニアヘビー級王座](https://ja.wikipedia.org/wiki/ZERO1_インターナショナルジュニアヘビー級王座 "wikilink")&[NWA世界ジュニアヘビー級王座のZERO](https://ja.wikipedia.org/wiki/ZERO1_インターナショナルジュニアヘビー級王座 "wikilink")1ジュニア2冠をも獲得し、第22代インターナショナルジュニアヘビー級&第122代NWA世界ジュニアヘビー級王者となった。
+[2018年](../Page/2018年.md "wikilink")1月1日、[プロレスリングZERO1に入団](../Page/ZERO1.md "wikilink")。11月24日の新木場新木場1stリング大会の天下一ジュニアトーナメントで優勝し(決勝対戦相手はHAYATA)怪我で欠場の木高イサミが返上し空位となっていた[インターナショナルジュニアヘビー級王座](https://ja.wikipedia.org/wiki/ZERO1_インターナショナルジュニアヘビー級王座 "wikilink")&[NWA世界ジュニアヘビー級王座のZERO](https://ja.wikipedia.org/wiki/ZERO1_インターナショナルジュニアヘビー級王座 "wikilink")1ジュニア2冠をも獲得し、第22代インターナショナルジュニアヘビー級&第122代NWA世界ジュニアヘビー級王者となった。
 
 [2019年](../Page/2019年.md "wikilink")1月27日、エディオンアリーナ大阪大会で[北村彰基](https://ja.wikipedia.org/wiki/北村彰基 "wikilink")とインターナショナルジュニアヘビー級王座\&NWA世界ジュニアヘビー級王座の防衛線を行った。序盤はグラウンドの攻防となり、中盤以降はSUGIが打撃で推す展開となった。最終的に9分51秒に逆エビ固めで勝利し、2度目の防衛に成功。試合後、SUGIは挑戦自体が無謀で時期尚早だと北村に対する怒りを語った\[2\]。
 

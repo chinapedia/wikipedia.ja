@@ -11,10 +11,10 @@
 
 EUインスティテュート東京コンソーシアムは、以下の大学が参加しているEUに関する大学間協定である。[2004年](../Page/2004年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")に発足した。以下の4大学連合が選ばれた。
 
-  - [一橋大学](https://ja.wikipedia.org/wiki/一橋大学 "wikilink")
+  - [一橋大学](../Page/一橋大学.md "wikilink")
   - [国際基督教大学](../Page/国際基督教大学.md "wikilink")
   - [東京外国語大学](../Page/東京外国語大学.md "wikilink")
-  - [津田塾大学](https://ja.wikipedia.org/wiki/津田塾大学 "wikilink")
+  - [津田塾大学](../Page/津田塾大学.md "wikilink")
 
 ### EU Studies Institute in Tokyo（EUSI）
 
@@ -31,7 +31,7 @@ EUインスティテュート東京コンソーシアムは、以下の大学が
 EUインスティテュート関西は、以下の大学が参加しているEUに関する大学間協定である。
 
   - [神戸大学](../Page/神戸大学.md "wikilink")
-  - [関西学院大学](https://ja.wikipedia.org/wiki/関西学院大学 "wikilink")
+  - [関西学院大学](../Page/関西学院大学.md "wikilink")
   - [大阪大学](https://ja.wikipedia.org/wiki/大阪大学 "wikilink")
 
 ## 外部リンク

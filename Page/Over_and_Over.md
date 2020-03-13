@@ -19,7 +19,7 @@
         [読売テレビ](../Page/讀賣テレビ放送.md "wikilink")・[日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")[月曜10時ドラマ](../Page/よみうりテレビ制作月曜10時枠連続ドラマ.md "wikilink")「[ボーダー 犯罪心理捜査ファイル](../Page/ボーダー_犯罪心理捜査ファイル.md "wikilink")」エンディング・テーマ（1999年1月11日 - 同年3月8日放送）
 2.  **Over and Over (HAL'S REMIX)**
       -
-        リミックス：[HAL](https://ja.wikipedia.org/wiki/HΛL "wikilink")
+        リミックス：[HAL](../Page/HΛL.md "wikilink")
 3.  **Over and Over (Instrumental)**
 
 ## 収録アルバム

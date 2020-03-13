@@ -1,13 +1,13 @@
 > この記事は[ABC](https://ja.wikipedia.org/wiki/ABC)から翻訳されています。
 
 
-[ABCEilandenLocatie.PNG](https://ja.wikipedia.org/wiki/File:ABCEilandenLocatie.PNG "fig:ABCEilandenLocatie.PNG") **ABC諸島**（ ）は、[ベネズエラ](../Page/ベネズエラ.md "wikilink")沖合いの[カリブ海](../Page/カリブ海.md "wikilink")に浮かぶ[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")領の3つの島、[アルバ](../Page/アルバ.md "wikilink")（**A**ruba）、[ボネール](../Page/ボネール島.md "wikilink")（**B**onaire）、[キュラソー](https://ja.wikipedia.org/wiki/キュラソー島 "wikilink")（**C**uraçao）の総称\[1\]。それぞれの頭文字をとっている。
+[ABCEilandenLocatie.PNG](https://ja.wikipedia.org/wiki/File:ABCEilandenLocatie.PNG "fig:ABCEilandenLocatie.PNG") **ABC諸島**（ ）は、[ベネズエラ](../Page/ベネズエラ.md "wikilink")沖合いの[カリブ海](../Page/カリブ海.md "wikilink")に浮かぶ[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")領の3つの島、[アルバ](../Page/アルバ.md "wikilink")（**A**ruba）、[ボネール](../Page/ボネール島.md "wikilink")（**B**onaire）、[キュラソー](../Page/キュラソー島.md "wikilink")（**C**uraçao）の総称\[1\]。それぞれの頭文字をとっている。
 
 ## 概要
 
-3つの島は西からアルバ、キュラソー、ボネールの順で並んでいる。[小アンティル諸島](https://ja.wikipedia.org/wiki/小アンティル諸島 "wikilink")の一部を構成する[リーワード・アンティル諸島](https://ja.wikipedia.org/wiki/リーワード・アンティル諸島 "wikilink")の西部にあたり、東側には[ベネズエラ連邦保護領](https://ja.wikipedia.org/wiki/ベネズエラ連邦保護領 "wikilink")の島々が連なっている。
+3つの島は西からアルバ、キュラソー、ボネールの順で並んでいる。[小アンティル諸島](../Page/小アンティル諸島.md "wikilink")の一部を構成する[リーワード・アンティル諸島](https://ja.wikipedia.org/wiki/リーワード・アンティル諸島 "wikilink")の西部にあたり、東側には[ベネズエラ連邦保護領](https://ja.wikipedia.org/wiki/ベネズエラ連邦保護領 "wikilink")の島々が連なっている。
 
-いずれも17世紀に[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の[植民地](../Page/植民地.md "wikilink")となった島である。カリブ海地域のオランダ領の島は[リーワード諸島の](https://ja.wikipedia.org/wiki/リーワード諸島_\(西インド諸島\) "wikilink")3島がある（[SSS諸島](https://ja.wikipedia.org/wiki/SSS諸島 "wikilink")と総称される）が、[キュラソー島](https://ja.wikipedia.org/wiki/キュラソー島 "wikilink")の[ウィレムスタッド](https://ja.wikipedia.org/wiki/ウィレムスタッド "wikilink")はSSS諸島も含めたカリブ海地域のオランダ領の首府として栄えた。
+いずれも17世紀に[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の[植民地](../Page/植民地.md "wikilink")となった島である。カリブ海地域のオランダ領の島は[リーワード諸島の](https://ja.wikipedia.org/wiki/リーワード諸島_\(西インド諸島\) "wikilink")3島がある（[SSS諸島](https://ja.wikipedia.org/wiki/SSS諸島 "wikilink")と総称される）が、[キュラソー島](../Page/キュラソー島.md "wikilink")の[ウィレムスタッド](https://ja.wikipedia.org/wiki/ウィレムスタッド "wikilink")はSSS諸島も含めたカリブ海地域のオランダ領の首府として栄えた。
 
 1954年、自治領「[オランダ領アンティル](../Page/オランダ領アンティル.md "wikilink")」が結成され、首府はウィレムスタッドに置かれた。1986年にはアルバが離脱し、単独の自治領となった。残る地域でも分離の要求が出るようになり、2010年にオランダ領アンティルが解体された。
 

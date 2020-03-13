@@ -5,11 +5,11 @@
 
 </div class="pathnavbox">
 
-『**UFOロボ グレンダイザー対グレートマジンガー**』（ユーフォーロボ グレンダイザー たい グレートマジンガー）は、[1976年](../Page/1976年.md "wikilink")[3月20日](../Page/3月20日.md "wikilink")に[東映まんがまつり](https://ja.wikipedia.org/wiki/東映まんがまつり "wikilink")で上映された日本の[アニメーション映画](../Page/アニメーション映画.md "wikilink")作品。
+『**UFOロボ グレンダイザー対グレートマジンガー**』（ユーフォーロボ グレンダイザー たい グレートマジンガー）は、[1976年](../Page/1976年.md "wikilink")[3月20日](../Page/3月20日.md "wikilink")に[東映まんがまつり](../Page/東映まんがまつり.md "wikilink")で上映された日本の[アニメーション映画](../Page/アニメーション映画.md "wikilink")作品。
 
 ## 概要
 
-テレビアニメ『[UFOロボ グレンダイザー](https://ja.wikipedia.org/wiki/UFOロボ_グレンダイザー "wikilink")』の映画化第2作であり、初の映画オリジナル作品\[1\]。『グレートマジンガー』のキャラクターは登場しない\[2\]ため、従来の[クロスオーバー作品](https://ja.wikipedia.org/wiki/クロスオーバー作品 "wikilink")とは雰囲気が異なり、『UFOロボ グレンダイザー』の外伝的エピソードとなっている。
+テレビアニメ『[UFOロボ グレンダイザー](../Page/UFOロボ_グレンダイザー.md "wikilink")』の映画化第2作であり、初の映画オリジナル作品\[1\]。『グレートマジンガー』のキャラクターは登場しない\[2\]ため、従来の[クロスオーバー作品](../Page/クロスオーバー作品.md "wikilink")とは雰囲気が異なり、『UFOロボ グレンダイザー』の外伝的エピソードとなっている。
 
 本作以前の東映まんがまつりで、既存のヒーロー同士が「対」のタイトルを冠した作品で共闘することがあったが、本作では文字通りグレンダイザーと敵の手に落ちたグレートマジンガーが対決する。
 
@@ -25,23 +25,23 @@
 
   - 宇宙科学研究所、シラカバ牧場
 
-:\*デューク・フリード / 宇門大介：[富山敬](https://ja.wikipedia.org/wiki/富山敬 "wikilink")
+:\*デューク・フリード / 宇門大介：[富山敬](../Page/富山敬.md "wikilink")
 
-:\*兜甲児：[石丸博也](https://ja.wikipedia.org/wiki/石丸博也 "wikilink")
+:\*兜甲児：[石丸博也](../Page/石丸博也.md "wikilink")
 
 :\*宇門源蔵博士：[八奈見乗児](../Page/八奈見乗児.md "wikilink")
 
-:\*牧葉ひかる：[川島千代子](https://ja.wikipedia.org/wiki/川島千代子 "wikilink")＊「牧場ひかる」とクレジットされた
+:\*牧葉ひかる：[川島千代子](../Page/川島千代子.md "wikilink")＊「牧場ひかる」とクレジットされた
 
-:\*牧葉吾郎：[沢田和子](https://ja.wikipedia.org/wiki/沢田和猫 "wikilink")＊「牧場吾郎」とクレジットされた
+:\*牧葉吾郎：[沢田和子](../Page/沢田和猫.md "wikilink")＊「牧場吾郎」とクレジットされた
 
-:\*林所員：[山田俊司](https://ja.wikipedia.org/wiki/キートン山田 "wikilink")
+:\*林所員：[山田俊司](../Page/キートン山田.md "wikilink")
 
   -
 
   - ベガ星連合軍
 
-:\*バレンドス親衛隊長：[柴田秀勝](https://ja.wikipedia.org/wiki/柴田秀勝 "wikilink")
+:\*バレンドス親衛隊長：[柴田秀勝](../Page/柴田秀勝.md "wikilink")
 
 :\*:本作のオリジナルキャラクター。ガンダル、ブラッキーに対し「作戦が成功したらお前たちはクビだ、生きたまま宇宙へ放り出す」と恫喝する。グレートマジンガーをいきなり操縦するなど優れた能力を持つが、機能停止に驚いてグレートを乗り捨て、反撃を許してしまい部下もろ共母艦と爆死する。
 
@@ -69,9 +69,9 @@
   - 製作：[今田智憲](../Page/今田智憲.md "wikilink")
   - 企画：有賀健、勝田稔男
   - 原作：[永井豪](../Page/永井豪.md "wikilink")とダイナミック・プロ
-  - 脚本：[藤川桂介](https://ja.wikipedia.org/wiki/藤川桂介 "wikilink")
-  - 音楽：[菊池俊輔](https://ja.wikipedia.org/wiki/菊池俊輔 "wikilink")、[渡辺宙明](../Page/渡辺宙明.md "wikilink")
-  - 原画：友永秀和、[湖川滋](https://ja.wikipedia.org/wiki/湖川友謙 "wikilink")、[木下勇喜](../Page/木下ゆうき.md "wikilink")
+  - 脚本：[藤川桂介](../Page/藤川桂介.md "wikilink")
+  - 音楽：[菊池俊輔](../Page/菊池俊輔.md "wikilink")、[渡辺宙明](../Page/渡辺宙明.md "wikilink")
+  - 原画：友永秀和、[湖川滋](../Page/湖川友謙.md "wikilink")、[木下勇喜](../Page/木下ゆうき.md "wikilink")
   - 動画：長崎重信、後藤紀子、月間恵美子、丹司道雄
   - 背景：松本健治、[海老沢一男](https://ja.wikipedia.org/wiki/海老沢一男 "wikilink")、原田謙一、野崎俊郎
   - 仕上：高橋達雄、前田剛弘
@@ -84,7 +84,7 @@
   - 現像：[東映化学](https://ja.wikipedia.org/wiki/東映化学 "wikilink")
   - 記録：伊達悦子
   - 録音：池上信照
-  - 効果：[石田サウンドプロ](https://ja.wikipedia.org/wiki/フィズサウンドクリエイション "wikilink")
+  - 効果：[石田サウンドプロ](../Page/フィズサウンドクリエイション.md "wikilink")
   - 美術監督：伊藤岩光
   - 作画監督：[小松原一男](../Page/小松原一男.md "wikilink")
   - 演出：[葛西治](../Page/葛西治.md "wikilink")
@@ -96,10 +96,10 @@
 以下、全曲とも『UFOロボ グレンダイザー』より。
 
   - オープニングテーマ「宇宙の王者グレンダイザー」
-    作詞：保富康午 / 作曲：[菊池俊輔](https://ja.wikipedia.org/wiki/菊池俊輔 "wikilink") / 編曲：[森岡賢一郎](../Page/森岡賢一郎.md "wikilink") / 歌：[ささきいさお](https://ja.wikipedia.org/wiki/ささきいさお "wikilink")、[こおろぎ'73](https://ja.wikipedia.org/wiki/こおろぎ'73 "wikilink")
+    作詞：保富康午 / 作曲：[菊池俊輔](../Page/菊池俊輔.md "wikilink") / 編曲：[森岡賢一郎](../Page/森岡賢一郎.md "wikilink") / 歌：[ささきいさお](../Page/ささきいさお.md "wikilink")、[こおろぎ'73](../Page/こおろぎ'73.md "wikilink")
     TV版オープニング「とべ\! グレンダイザー」は使用せず。
   - 挿入歌「きみこそ勇者」
-    作詞：早乙女達人 / 作曲・編曲：菊池俊輔 / 歌：ささきいさお、[コロムビアゆりかご会](https://ja.wikipedia.org/wiki/音羽ゆりかご会 "wikilink")
+    作詞：早乙女達人 / 作曲・編曲：菊池俊輔 / 歌：ささきいさお、[コロムビアゆりかご会](../Page/音羽ゆりかご会.md "wikilink")
   - 挿入歌「とべ\! グレンダイザー」
     作詞：保富康午 / 作曲・編曲：菊池俊輔 / 歌：ささきいさお、コロムビアゆりかご会
 
@@ -119,25 +119,25 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/長靴猫シリーズ" title="wikilink">長靴をはいた猫<br />
 80日間世界一周</a></p></td>
 <td></td>
-<td><p><a href="../Page/なべおさみ.md" title="wikilink">なべおさみ</a>、<a href="../Page/神山卓三.md" title="wikilink">神山卓三</a>、<a href="../Page/滝口順平.md" title="wikilink">滝口順平</a>、<a href="../Page/大塚周夫.md" title="wikilink">大塚周夫</a>、<a href="https://ja.wikipedia.org/wiki/増山江威子" title="wikilink">増山江威子</a></p></td>
+<td><p><a href="../Page/なべおさみ.md" title="wikilink">なべおさみ</a>、<a href="../Page/神山卓三.md" title="wikilink">神山卓三</a>、<a href="../Page/滝口順平.md" title="wikilink">滝口順平</a>、<a href="../Page/大塚周夫.md" title="wikilink">大塚周夫</a>、<a href="../Page/増山江威子.md" title="wikilink">増山江威子</a></p></td>
 <td><p>劇場用新作</p></td>
 </tr>
 <tr class="even">
 <td><p>[[がんばれ</p></td>
 <td><p>ロボコン#劇場版|ロボコンの大冒険]]</p></td>
 <td><p><a href="../Page/石ノ森章太郎.md" title="wikilink">石森章太郎</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山本圭子" title="wikilink">山本圭子</a>、<a href="https://ja.wikipedia.org/wiki/野田圭一" title="wikilink">野田圭一</a>、<a href="../Page/島田歌穂.md" title="wikilink">島田歌穂</a>、<a href="../Page/大野しげひさ.md" title="wikilink">大野しげひさ</a>、<a href="../Page/加藤みどり.md" title="wikilink">加藤みどり</a>、<a href="../Page/天本英世.md" title="wikilink">天本英世</a></p></td>
+<td><p><a href="../Page/山本圭子.md" title="wikilink">山本圭子</a>、<a href="../Page/野田圭一.md" title="wikilink">野田圭一</a>、<a href="../Page/島田歌穂.md" title="wikilink">島田歌穂</a>、<a href="../Page/大野しげひさ.md" title="wikilink">大野しげひさ</a>、<a href="../Page/加藤みどり.md" title="wikilink">加藤みどり</a>、<a href="../Page/天本英世.md" title="wikilink">天本英世</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/一休さん_(テレビアニメ)" title="wikilink">一休さん</a></p></td>
 <td></td>
-<td><p><a href="../Page/藤田淑子.md" title="wikilink">藤田淑子</a>、<a href="https://ja.wikipedia.org/wiki/宮内幸平" title="wikilink">宮内幸平</a>、<a href="https://ja.wikipedia.org/wiki/桂令子" title="wikilink">桂令子</a>、<a href="https://ja.wikipedia.org/wiki/キートン山田" title="wikilink">山田俊司</a>、野田圭一</p></td>
+<td><p><a href="../Page/藤田淑子.md" title="wikilink">藤田淑子</a>、<a href="../Page/宮内幸平.md" title="wikilink">宮内幸平</a>、<a href="https://ja.wikipedia.org/wiki/桂令子" title="wikilink">桂令子</a>、<a href="../Page/キートン山田.md" title="wikilink">山田俊司</a>、野田圭一</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/秘密戦隊ゴレンジャー.md" title="wikilink">秘密戦隊ゴレンジャー</a></p></td>
 <td><p>石森章太郎</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/誠直也" title="wikilink">誠直也</a>、<a href="../Page/宮内洋.md" title="wikilink">宮内洋</a>、<a href="../Page/畠山麦.md" title="wikilink">畠山麦</a>、<a href="../Page/小牧リサ.md" title="wikilink">小牧りさ</a>、<a href="../Page/伊藤幸雄.md" title="wikilink">伊藤幸雄</a>、<a href="../Page/高原駿雄.md" title="wikilink">高原駿雄</a></p></td>
+<td><p><a href="../Page/誠直也.md" title="wikilink">誠直也</a>、<a href="../Page/宮内洋.md" title="wikilink">宮内洋</a>、<a href="../Page/畠山麦.md" title="wikilink">畠山麦</a>、<a href="../Page/小牧リサ.md" title="wikilink">小牧りさ</a>、<a href="../Page/伊藤幸雄.md" title="wikilink">伊藤幸雄</a>、<a href="../Page/高原駿雄.md" title="wikilink">高原駿雄</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -145,17 +145,17 @@
 
 ## 映像ソフト化
 
-  - 1986年12月12日に[東映ビデオ](../Page/東映ビデオ.md "wikilink")から『**劇場版マジンガーシリーズ 3**』として『[グレートマジンガー対ゲッターロボG 空中大激突](../Page/グレートマジンガー対ゲッターロボG_空中大激突.md "wikilink")』『[宇宙円盤大戦争](https://ja.wikipedia.org/wiki/宇宙円盤大戦争 "wikilink")』とカップリングで[VHS](../Page/VHS.md "wikilink")にて発売された。
+  - 1986年12月12日に[東映ビデオ](../Page/東映ビデオ.md "wikilink")から『**劇場版マジンガーシリーズ 3**』として『[グレートマジンガー対ゲッターロボG 空中大激突](../Page/グレートマジンガー対ゲッターロボG_空中大激突.md "wikilink")』『[宇宙円盤大戦争](../Page/宇宙円盤大戦争.md "wikilink")』とカップリングで[VHS](../Page/VHS.md "wikilink")にて発売された。
   - 1992年11月25日に東映ビデオから『**劇場版グレンダイザーシリーズ**』として『[グレンダイザー ゲッターロボG グレートマジンガー 決戦\! 大海獣](../Page/グレンダイザー_ゲッターロボG_グレートマジンガー_決戦!_大海獣.md "wikilink")』とカップリングでレーザーディスクが発売される。
   - 2002年5月21日に東映ビデオから『[マジンガーZ対デビルマン](../Page/マジンガーZ対デビルマン.md "wikilink")』から『[グレンダイザー ゲッターロボG グレートマジンガー 決戦\! 大海獣](../Page/グレンダイザー_ゲッターロボG_グレートマジンガー_決戦!_大海獣.md "wikilink")』までを一括収録したDVD-BOX『**マジンガー the MOVIE 永井豪スーパーロボットBOX**』が発売された\[6\]。
   - 2003年5月21日に同じく東映ビデオから発売されたDVD『**マジンガー the MOVIE 2**』に『[グレートマジンガー対ゲッターロボ](../Page/グレートマジンガー対ゲッターロボ.md "wikilink")』『[グレートマジンガー対ゲッターロボG 空中大激突](../Page/グレートマジンガー対ゲッターロボG_空中大激突.md "wikilink")』『[グレンダイザー ゲッターロボG グレートマジンガー 決戦\! 大海獣](../Page/グレンダイザー_ゲッターロボG_グレートマジンガー_決戦!_大海獣.md "wikilink")』3作とのセットで収録された。（同時発売のDVD-BOX『**マジンガー the MOVIE 永井豪スーパーロボットBOX Compact**』にも『**マジンガー the MOVIE 1**』と同梱のうえ発売された。）
   - 2011年11月21日発売の『**復刻\!東映まんがまつり1976春**』（DVD）に、同時上映の6作品とともに劇場予告編が併録されている。
   - 2012年10月21日発売のブルーレイ『**マジンガー THE MOVIE　Blu-ray 1973〜1976**』に収録。(新たに疑似5.1ch化した音声を併録。)
-  - 2013年12月6日発売のブルーレイ『**マジンガー THE MOVIE　vol.2**』に『[グレートマジンガー対ゲッターロボG 空中大激突](../Page/グレートマジンガー対ゲッターロボG_空中大激突.md "wikilink")』『[宇宙円盤大戦争](https://ja.wikipedia.org/wiki/宇宙円盤大戦争 "wikilink")』『[グレンダイザー ゲッターロボG グレートマジンガー 決戦\! 大海獣](../Page/グレンダイザー_ゲッターロボG_グレートマジンガー_決戦!_大海獣.md "wikilink")』と併せて収録。(これは『**マジンガー THE MOVIE　Blu-ray 1973〜1976**』のBOXからDISC2を単巻でプライスダウン発売したもの\[7\]。)
+  - 2013年12月6日発売のブルーレイ『**マジンガー THE MOVIE　vol.2**』に『[グレートマジンガー対ゲッターロボG 空中大激突](../Page/グレートマジンガー対ゲッターロボG_空中大激突.md "wikilink")』『[宇宙円盤大戦争](../Page/宇宙円盤大戦争.md "wikilink")』『[グレンダイザー ゲッターロボG グレートマジンガー 決戦\! 大海獣](../Page/グレンダイザー_ゲッターロボG_グレートマジンガー_決戦!_大海獣.md "wikilink")』と併せて収録。(これは『**マジンガー THE MOVIE　Blu-ray 1973〜1976**』のBOXからDISC2を単巻でプライスダウン発売したもの\[7\]。)
 
 ## 漫画版
 
-[石川賢により](https://ja.wikipedia.org/wiki/石川賢_\(漫画家\) "wikilink")、[テレビマガジン](https://ja.wikipedia.org/wiki/テレビマガジン "wikilink")4月増刊 8大ヒーロージャンボ号 （[講談社](../Page/講談社.md "wikilink")、[1976年](../Page/1976年.md "wikilink")）に『**グレンダイザー対グレート・マジンガー**』のタイトルで掲載。[大都社](https://ja.wikipedia.org/wiki/大都社 "wikilink")より発行された単行本ではタイトルが『魔神の挑戦』に改題されている。
+[石川賢により](../Page/石川賢_\(漫画家\).md "wikilink")、[テレビマガジン](../Page/テレビマガジン.md "wikilink")4月増刊 8大ヒーロージャンボ号 （[講談社](../Page/講談社.md "wikilink")、[1976年](../Page/1976年.md "wikilink")）に『**グレンダイザー対グレート・マジンガー**』のタイトルで掲載。[大都社](https://ja.wikipedia.org/wiki/大都社 "wikilink")より発行された単行本ではタイトルが『魔神の挑戦』に改題されている。
 
   - ストーリー
     かつて、フリード星の女子供を人質として捕らえ、返還の交換条件として武器を取り上げ反撃を封じ、返還と称して高空から叩き落とすことで女子供を集中的に殺害する作戦でフリード星を壊滅に追い込んだバレンドスがグレートを強奪。さらにデュークの隙を突いて誘拐した甲児以下デュークの仲間や子供達を人質としてグレートの全身に縛り付けて攻撃してくる。グレートがグレンダイザーを殴れば指に縛り付けられた人が潰される。グレートがアトミックパンチを放てば、肘に縛り付けられた人の身体が引きちぎられる。グレンダイザーは反撃することすらできなかった。
@@ -165,8 +165,8 @@
 
 ## 関連項目
 
-  - [UFOロボ グレンダイザー](https://ja.wikipedia.org/wiki/UFOロボ_グレンダイザー "wikilink")
-  - [グレートマジンガー](https://ja.wikipedia.org/wiki/グレートマジンガー "wikilink")
+  - [UFOロボ グレンダイザー](../Page/UFOロボ_グレンダイザー.md "wikilink")
+  - [グレートマジンガー](../Page/グレートマジンガー.md "wikilink")
   - [マジンガーZ](../Page/マジンガーZ.md "wikilink")
 
 [Category:アニメ作品_ゆ](https://ja.wikipedia.org/wiki/Category:アニメ作品_ゆ "wikilink") [Category:マジンガーのアニメ](https://ja.wikipedia.org/wiki/Category:マジンガーのアニメ "wikilink") [Category:1976年のアニメ映画](https://ja.wikipedia.org/wiki/Category:1976年のアニメ映画 "wikilink") [Category:日本のアニメ映画](https://ja.wikipedia.org/wiki/Category:日本のアニメ映画 "wikilink") [Category:東映まんがまつり](https://ja.wikipedia.org/wiki/Category:東映まんがまつり "wikilink") [Category:ロボットアニメのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:ロボットアニメのクロスオーバー作品 "wikilink") [Category:フジテレビ系アニメのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:フジテレビ系アニメのクロスオーバー作品 "wikilink") [Category:東映・東映アニメーションのロボットアニメ](https://ja.wikipedia.org/wiki/Category:東映・東映アニメーションのロボットアニメ "wikilink") [Category:東映アニメーションのアニメ映画](https://ja.wikipedia.org/wiki/Category:東映アニメーションのアニメ映画 "wikilink") [Category:巨大ロボットを題材としたアニメ映画](https://ja.wikipedia.org/wiki/Category:巨大ロボットを題材としたアニメ映画 "wikilink") [Category:菊池俊輔の作曲映画](https://ja.wikipedia.org/wiki/Category:菊池俊輔の作曲映画 "wikilink")

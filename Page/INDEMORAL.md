@@ -1,7 +1,7 @@
 > この記事は[INDEMORAL](https://ja.wikipedia.org/wiki/INDEMORAL)から翻訳されています。
 
 
-**INDEMORAL**（インデモラル）は[日本のヒップホップ](../Page/日本のヒップホップ.md "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")である。[ラッパ我リヤ](https://ja.wikipedia.org/wiki/ラッパ我リヤ "wikilink")を中心とするラップ・アーティスト集団**「走馬党」**の一員。
+**INDEMORAL**（インデモラル）は[日本のヒップホップ](../Page/日本のヒップホップ.md "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")である。[ラッパ我リヤ](../Page/ラッパ我リヤ.md "wikilink")を中心とするラップ・アーティスト集団**「走馬党」**の一員。
 
 [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")結成されたNOROYとして活動。2000年頃にINDEMORALとグループ名を変える。[2002年](../Page/2002年.md "wikilink")[cutting edgeよりメジャーデビュー](https://ja.wikipedia.org/wiki/cutting_edge "wikilink")。同年には[76.1 InterFMにて](https://ja.wikipedia.org/wiki/エフエムインターウェーブ "wikilink")[STREET BEATという番組のパーソナリティーを勤め](https://ja.wikipedia.org/wiki/STREET_BEAT "wikilink")、[NESCAFE](https://ja.wikipedia.org/wiki/NESCAFE "wikilink")主催の『N』TOURからDJにGOSSYが加入。
 
@@ -165,7 +165,7 @@
 ### その他の参加楽曲
 
   - INDEMORAL
-      - [ラッパ我リヤ](https://ja.wikipedia.org/wiki/ラッパ我リヤ "wikilink")　「WE ARE SOHMATOH」　『NO HIPHOP NO LIFE』（2006年10月4日）
+      - [ラッパ我リヤ](../Page/ラッパ我リヤ.md "wikilink")　「WE ARE SOHMATOH」　『NO HIPHOP NO LIFE』（2006年10月4日）
       - [走馬党](https://ja.wikipedia.org/wiki/走馬党 "wikilink")　「挑戦状」「THE BIGGEST CAMP」「CHANGE」「HISTORY」『走馬党』（2006年9月27日）
       - [V.A](https://ja.wikipedia.org/wiki/V.A "wikilink")　「SUMMER TIME」「糸」『「ガチャポン」THE ORIGINAL MOTION PICTURE SOUND TRACK』（2004年9月17日）
       - [三善/善三](https://ja.wikipedia.org/wiki/三善/善三 "wikilink")　「激論\!\!日本列島 feat.INDEMORAL,ARK from BACKGAMMON」『鉄拳外伝』
@@ -176,10 +176,10 @@
   - SKIPP
       - [随喜と真田2.0](https://ja.wikipedia.org/wiki/随喜と真田2.0 "wikilink")　「WALK THIS WAY 58」（2007年9月22日）
       - [走馬党](https://ja.wikipedia.org/wiki/走馬党 "wikilink")　「2ターンテーブル＆マイクス」「ドリームジャンボ」「夜と朝の間」「やっぱ生」「ミナデパーティー」『走馬党』（2006年9月27日）
-      - [LITTLE](https://ja.wikipedia.org/wiki/LITTLE "wikilink")　「踏み上がり」 『I SING I SAY』
+      - [LITTLE](../Page/LITTLE.md "wikilink")　「踏み上がり」 『I SING I SAY』
       - [H☆G☆S☆P](https://ja.wikipedia.org/wiki/H☆G☆S☆P "wikilink")　「SHAKER SHAKER」『HIGH-GRADE-SPECIAL』
       - [ahhco](https://ja.wikipedia.org/wiki/ahhco "wikilink")　「SHAKER SHAKER」『made in love』
-      - [ラッパ我リヤ](https://ja.wikipedia.org/wiki/ラッパ我リヤ "wikilink")　「ヤバスギルスキルPart2」『ヤバスギルスキルPart2』
+      - [ラッパ我リヤ](../Page/ラッパ我リヤ.md "wikilink")　「ヤバスギルスキルPart2」『ヤバスギルスキルPart2』
       - [CRAZY-A](../Page/CRAZY-A.md "wikilink")　「海賊船長」「Happy Birth Day」『Who hates CRAZY－A』
       - [BRO.KORN](https://ja.wikipedia.org/wiki/BRO.KORN "wikilink") 「東京錯乱」『DA TOKYO FURYO K-KAKU』
       - [ZINGI](../Page/ZINGI.md "wikilink")　「RHYME遊戯」『TOKYO TRIBE』
@@ -189,8 +189,8 @@
 
   - PAULEY
       - [走馬党](https://ja.wikipedia.org/wiki/走馬党 "wikilink")　「炎」「STANCE」『走馬党』（2006年9月27日）
-      - [ラッパ我リヤ](https://ja.wikipedia.org/wiki/ラッパ我リヤ "wikilink") 「人間太鼓箱」『ヤバスギルスキルPart2』
-      - [ラッパ我リヤ](https://ja.wikipedia.org/wiki/ラッパ我リヤ "wikilink")　「ヤバスギルスキルPart5」『日本改造計画』
+      - [ラッパ我リヤ](../Page/ラッパ我リヤ.md "wikilink") 「人間太鼓箱」『ヤバスギルスキルPart2』
+      - [ラッパ我リヤ](../Page/ラッパ我リヤ.md "wikilink")　「ヤバスギルスキルPart5」『日本改造計画』
       - [ZINGI](../Page/ZINGI.md "wikilink") 「RHYME遊戯」『TOKYO TRIBE』
 
 [Category:日本のヒップホップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・グループ "wikilink") [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink")

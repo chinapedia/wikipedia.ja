@@ -1,7 +1,7 @@
 > この記事は[Feel Like dance](https://ja.wikipedia.org/wiki/Feel_Like_dance)から翻訳されています。
 
 
-「**Feel Like dance**」（フィール・ライク・ダンス）は、[globe](https://ja.wikipedia.org/wiki/globe "wikilink")の楽曲。[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")[シングル](../Page/シングル.md "wikilink")として[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[8月9日](../Page/8月9日.md "wikilink")に[8cmCD](https://ja.wikipedia.org/wiki/8cmCD "wikilink")で発売。楽曲の[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・[作曲](../Page/作曲.md "wikilink")・[プロデュース](https://ja.wikipedia.org/wiki/プロデュース "wikilink")はメンバーの[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")。発売元は[avex globe](https://ja.wikipedia.org/wiki/avex_globe "wikilink")。フジテレビ系列ドラマ「ひとりにしないで」の主題歌。
+「**Feel Like dance**」（フィール・ライク・ダンス）は、[globe](https://ja.wikipedia.org/wiki/globe "wikilink")の楽曲。[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")[シングル](../Page/シングル.md "wikilink")として[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[8月9日](../Page/8月9日.md "wikilink")に[8cmCD](https://ja.wikipedia.org/wiki/8cmCD "wikilink")で発売。楽曲の[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")・[プロデュース](https://ja.wikipedia.org/wiki/プロデュース "wikilink")はメンバーの[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")。発売元は[avex globe](https://ja.wikipedia.org/wiki/avex_globe "wikilink")。フジテレビ系列ドラマ「ひとりにしないで」の主題歌。
 
 ## 解説
 
@@ -9,15 +9,15 @@
 
 10代だけでなく、大人が聞いても楽しめる音楽ユニットであることを紹介するために、本作を1stシングルとした\[2\]。
 
-[オリコン初登場](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")6位ながら、デビュー曲にして95.2万枚を売り上げる（オリコン調べ）。
+[オリコン初登場](../Page/オリコンチャート.md "wikilink")6位ながら、デビュー曲にして95.2万枚を売り上げる（オリコン調べ）。
 
 ## 収録曲
 
 1.  **Feel Like dance (ORIGINAL MIX)**
     （作詞・作曲・編曲：[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink") / MIX：[Dave Ford](https://ja.wikipedia.org/wiki/Dave_Ford "wikilink")）
       -
-        [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[木曜劇場](https://ja.wikipedia.org/wiki/木曜劇場 "wikilink")『[ひとりにしないで](https://ja.wikipedia.org/wiki/ひとりにしないで "wikilink")』主題歌。
-        [TBS系](../Page/TBSテレビ.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[学校へ行こう\!](https://ja.wikipedia.org/wiki/学校へ行こう!_\(バラエティー番組\) "wikilink")』にて、「B-RAPハイスクール」の[軟式globe](../Page/軟式globe.md "wikilink")が一時期この曲を使用していたことがある。
+        [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[木曜劇場](../Page/木曜劇場.md "wikilink")『[ひとりにしないで](https://ja.wikipedia.org/wiki/ひとりにしないで "wikilink")』主題歌。
+        [TBS系](../Page/TBSテレビ.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[学校へ行こう\!](../Page/学校へ行こう!_\(バラエティー番組\).md "wikilink")』にて、「B-RAPハイスクール」の[軟式globe](../Page/軟式globe.md "wikilink")が一時期この曲を使用していたことがある。
 2.  **Feel Like dance (CLUB MIX)**
 3.  **Feel Like dance (TV MIX)**
 

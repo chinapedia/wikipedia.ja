@@ -1,7 +1,7 @@
 > この記事は[CUTIE PARTY](https://ja.wikipedia.org/wiki/CUTIE_PARTY)から翻訳されています。
 
 
-**CUTIE PARTY**（キューティーパーティー）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")10月7日から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")9月27日に[FM-FUJIで放送された](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[℃-ute](https://ja.wikipedia.org/wiki/℃-ute "wikilink")の[矢島舞美](../Page/矢島舞美.md "wikilink")・[鈴木愛理](https://ja.wikipedia.org/wiki/鈴木愛理_\(ハロー!プロジェクト\) "wikilink")・[岡井千聖](../Page/岡井千聖.md "wikilink")の3人。土曜23:00〜24:00の[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")の番組『[Hello\! Project Night](https://ja.wikipedia.org/wiki/Hello!_Project_Night "wikilink")』の前半23:00〜23:30に放送された。
+**CUTIE PARTY**（キューティーパーティー）は、[2006年](../Page/2006年.md "wikilink")10月7日から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")9月27日に[FM-FUJIで放送された](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[℃-ute](https://ja.wikipedia.org/wiki/℃-ute "wikilink")の[矢島舞美](../Page/矢島舞美.md "wikilink")・[鈴木愛理](https://ja.wikipedia.org/wiki/鈴木愛理_\(ハロー!プロジェクト\) "wikilink")・[岡井千聖](../Page/岡井千聖.md "wikilink")の3人。土曜23:00〜24:00の[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")の番組『[Hello\! Project Night](https://ja.wikipedia.org/wiki/Hello!_Project_Night "wikilink")』の前半23:00〜23:30に放送された。
 
 なお、『Hello\! Project Night』の後半23:30〜24:00は、[新垣里沙](../Page/新垣里沙.md "wikilink")・[亀井絵里](../Page/亀井絵里.md "wikilink")（[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")）がパーソナリティを務める「[GAKI・KAME](../Page/GAKI・KAME.md "wikilink")」である。
 
@@ -13,7 +13,7 @@
 <!-- end list -->
 
   -
-    番組開始当初の放送時間は、『CUTIE PARTY』の前は同じハロー\!プロジェクトの[美勇伝](https://ja.wikipedia.org/wiki/美勇伝 "wikilink")がパーソナリティを務める『[B.B.L.](https://ja.wikipedia.org/wiki/B.B.L. "wikilink")』が放送されており、それを引き継いだ形となる。『B.B.L.』の最終回では、[石川梨華](https://ja.wikipedia.org/wiki/石川梨華 "wikilink")より、後輩に引き継ぐ旨の告知があった。
+    番組開始当初の放送時間は、『CUTIE PARTY』の前は同じハロー\!プロジェクトの[美勇伝](../Page/美勇伝.md "wikilink")がパーソナリティを務める『[B.B.L.](../Page/B.B.L..md "wikilink")』が放送されており、それを引き継いだ形となる。『B.B.L.』の最終回では、[石川梨華](https://ja.wikipedia.org/wiki/石川梨華 "wikilink")より、後輩に引き継ぐ旨の告知があった。
 
 ## 出演
 
@@ -37,7 +37,7 @@
 
 <!-- end list -->
 
-  - 2月 岡井千聖、[中島早貴](../Page/中島早貴.md "wikilink")、鈴木愛理、[萩原舞](https://ja.wikipedia.org/wiki/萩原舞_\(ハロー!プロジェクト\) "wikilink")
+  - 2月 岡井千聖、[中島早貴](../Page/中島早貴.md "wikilink")、鈴木愛理、[萩原舞](../Page/萩原舞_\(ハロー!プロジェクト\).md "wikilink")
   - 3月 [有原栞菜](../Page/栞菜.md "wikilink")、中島、鈴木、岡井、萩原
   - 4月 有原、中島、鈴木、萩原
   - 5月 有原、岡井、鈴木、中島

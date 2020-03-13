@@ -1,7 +1,7 @@
 > この記事は[Comeng](https://ja.wikipedia.org/wiki/Comeng)から翻訳されています。
 
 
-**Comeng電車**（コメンジでんしゃ）は、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")の[九広鉄路](https://ja.wikipedia.org/wiki/九広鉄路 "wikilink")（KCR）が保有する[直流](../Page/直流電化.md "wikilink")[電車](../Page/通勤形車両_\(鉄道\).md "wikilink")。[2007年](../Page/2007年.md "wikilink")[12月2日](../Page/12月2日.md "wikilink")から、[香港鉄路](https://ja.wikipedia.org/wiki/香港鉄路有限公司 "wikilink")（[港鉄](https://ja.wikipedia.org/wiki/香港MTR "wikilink") MTR）に貸し出す形をとっている。[オーストラリア](../Page/オーストラリア.md "wikilink")の[コメンジ](https://ja.wikipedia.org/wiki/コメンジ "wikilink")社製。
+**Comeng電車**（コメンジでんしゃ）は、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")の[九広鉄路](../Page/九広鉄路.md "wikilink")（KCR）が保有する[直流](../Page/直流電化.md "wikilink")[電車](../Page/通勤形車両_\(鉄道\).md "wikilink")。[2007年](../Page/2007年.md "wikilink")[12月2日](../Page/12月2日.md "wikilink")から、[香港鉄路](https://ja.wikipedia.org/wiki/香港鉄路有限公司 "wikilink")（[港鉄](../Page/香港MTR.md "wikilink") MTR）に貸し出す形をとっている。[オーストラリア](../Page/オーストラリア.md "wikilink")の[コメンジ](https://ja.wikipedia.org/wiki/コメンジ "wikilink")社製。
 
 ## 概要
 
@@ -13,11 +13,11 @@
 
 ## 事故廃車
 
-1994年7月29日、1013号は[屯門区](https://ja.wikipedia.org/wiki/屯門区 "wikilink")[湖山路](https://ja.wikipedia.org/wiki/湖山路 "wikilink")[踏切](../Page/踏切.md "wikilink")で右折禁止の標識を無視したトラック(大型トレーラー)と衝突して大破したため、すでに廃車されている。運転していた[運転士](https://ja.wikipedia.org/wiki/運転士 "wikilink")は車外に放出され死亡。
+1994年7月29日、1013号は[屯門区](https://ja.wikipedia.org/wiki/屯門区 "wikilink")[湖山路](https://ja.wikipedia.org/wiki/湖山路 "wikilink")[踏切](../Page/踏切.md "wikilink")で右折禁止の標識を無視したトラック(大型トレーラー)と衝突して大破したため、すでに廃車されている。運転していた[運転士](../Page/運転士.md "wikilink")は車外に放出され死亡。
 
 ## 関連項目
 
-  - [九広鉄路川崎電車](https://ja.wikipedia.org/wiki/九広軽鉄川崎電車 "wikilink")
-  - [九広鉄路Goninan電車](https://ja.wikipedia.org/wiki/九広軽鉄Goninan電車 "wikilink")
+  - [九広鉄路川崎電車](../Page/九広軽鉄川崎電車.md "wikilink")
+  - [九広鉄路Goninan電車](../Page/九広軽鉄Goninan電車.md "wikilink")
 
 [Category:香港の鉄道車両](https://ja.wikipedia.org/wiki/Category:香港の鉄道車両 "wikilink") [Category:香港MTR](https://ja.wikipedia.org/wiki/Category:香港MTR "wikilink") [Category:1988年製の鉄道車両](https://ja.wikipedia.org/wiki/Category:1988年製の鉄道車両 "wikilink")

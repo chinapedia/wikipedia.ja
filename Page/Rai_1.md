@@ -43,10 +43,10 @@
 
   - [ローマオリンピック](https://ja.wikipedia.org/wiki/ローマオリンピック "wikilink")
   - [トリノオリンピック](https://ja.wikipedia.org/wiki/トリノオリンピック "wikilink")
-  - [FIFAワールドカップ](https://ja.wikipedia.org/wiki/FIFAワールドカップ "wikilink")
+  - [FIFAワールドカップ](../Page/FIFAワールドカップ.md "wikilink")
   - [ジロ・デ・イタリア](../Page/ジロ・デ・イタリア.md "wikilink")
   - [UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")
-  - [UEFA欧州選手権](https://ja.wikipedia.org/wiki/UEFA欧州選手権 "wikilink")
+  - [UEFA欧州選手権](../Page/UEFA欧州選手権.md "wikilink")
 
 ## 脚注
 

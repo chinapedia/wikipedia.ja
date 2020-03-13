@@ -1,7 +1,7 @@
 > この記事は[GUNDAM FIX](https://ja.wikipedia.org/wiki/GUNDAM_FIX)から翻訳されています。
 
 
-**GUNDAM FIX**（ガンダム・フィックス）は、[カトキハジメ](https://ja.wikipedia.org/wiki/カトキハジメ "wikilink")による連載[イラストレーション](../Page/イラストレーション.md "wikilink")記事のタイトル、およびその連載を纏めた画集。アニメ『[機動戦士ガンダム](../Page/機動戦士ガンダム.md "wikilink")』など『[ガンダムシリーズ](../Page/ガンダムシリーズ一覧.md "wikilink")』に登場した[ガンダムタイプ](../Page/ガンダムタイプ.md "wikilink")の[モビルスーツ](../Page/モビルスーツ.md "wikilink")を題材とし、[実写](../Page/実写.md "wikilink")の背景に[コンピュータグラフィックス](../Page/コンピュータグラフィックス.md "wikilink")を合成して描かれた写実的な画風が特徴である。
+**GUNDAM FIX**（ガンダム・フィックス）は、[カトキハジメ](../Page/カトキハジメ.md "wikilink")による連載[イラストレーション](../Page/イラストレーション.md "wikilink")記事のタイトル、およびその連載を纏めた画集。アニメ『[機動戦士ガンダム](../Page/機動戦士ガンダム.md "wikilink")』など『[ガンダムシリーズ](../Page/ガンダムシリーズ一覧.md "wikilink")』に登場した[ガンダムタイプ](../Page/ガンダムタイプ.md "wikilink")の[モビルスーツ](../Page/モビルスーツ.md "wikilink")を題材とし、[実写](../Page/実写.md "wikilink")の背景に[コンピュータグラフィックス](../Page/コンピュータグラフィックス.md "wikilink")を合成して描かれた写実的な画風が特徴である。
 
 ## 概要
 
@@ -15,7 +15,7 @@
 
 雑誌連載時には[上野俊哉](../Page/上野俊哉.md "wikilink")・江藤巌・原田則彦らによる、イラストの題材あるいはガンダムをテーマとしたエッセイが同時掲載されていた。画集ではこれらは別冊（'GUNDAM FIX SUPPLEMENT'）の形で、カトキと[富野由悠季](../Page/富野由悠季.md "wikilink")との対談とともに収録されている。また画集では新たに富野由悠季の序文と前記3名による解説が寄稿されている。
 
-[メカニックデザイナー](https://ja.wikipedia.org/wiki/メカニックデザイナー "wikilink")として知られるカトキの作品としては極めてアーティスティックな性質が強いシリーズ。『[機動戦士Vガンダム](https://ja.wikipedia.org/wiki/機動戦士Vガンダム "wikilink")』の製作において、[大河原邦男](https://ja.wikipedia.org/wiki/大河原邦男 "wikilink")、[富野由悠季](../Page/富野由悠季.md "wikilink")らから、デザイナーとしての力量を高める手段としてイラストレーションの仕事を増やす事を奨められた事がスタートラインとしている。
+[メカニックデザイナー](https://ja.wikipedia.org/wiki/メカニックデザイナー "wikilink")として知られるカトキの作品としては極めてアーティスティックな性質が強いシリーズ。『[機動戦士Vガンダム](../Page/機動戦士Vガンダム.md "wikilink")』の製作において、[大河原邦男](../Page/大河原邦男.md "wikilink")、[富野由悠季](../Page/富野由悠季.md "wikilink")らから、デザイナーとしての力量を高める手段としてイラストレーションの仕事を増やす事を奨められた事がスタートラインとしている。
 
 富野由悠季は本連載のファンであり、連載終了時にはカトキと対談し、「どうして「GUNDAM FIX」が終わってしまうのかわからない」と終了を惜しんでいる\[1\]。同時に、「アートをめざすという志は持ってほしい」と対談中で激励を送っている\[2\]。
 
@@ -34,12 +34,12 @@
 （表記はGUNDAM FIX SUPPLEMENT巻末掲載のものに基づく）
 
   - SCENE:1 RX-78-2 [GUNDAM](https://ja.wikipedia.org/wiki/ガンダム_\(架空の兵器\) "wikilink")
-  - SCENE:2 [CROSS BONE GUNDAM](https://ja.wikipedia.org/wiki/クロスボーン・ガンダム "wikilink")
-  - SCENE:3 [DEVIL GUNDAM](https://ja.wikipedia.org/wiki/デビルガンダム "wikilink")
+  - SCENE:2 [CROSS BONE GUNDAM](../Page/クロスボーン・ガンダム.md "wikilink")
+  - SCENE:3 [DEVIL GUNDAM](../Page/デビルガンダム.md "wikilink")
   - SCENE:4 LM314V21 [VICTORY TWO GUNDAM](https://ja.wikipedia.org/wiki/ヴィクトリーガンダム#V2ガンダム "wikilink")
   - SCENE:5 MSZ-010 [ΖΖ GUNDAM](https://ja.wikipedia.org/wiki/ΖΖガンダム "wikilink")
   - SCENE:6 RX-79(G) [GUNDAM MASS-PRODUCT TYPE](../Page/陸戦型ガンダム.md "wikilink")
-  - SCENE:7 MRX-009 [PSYCHO GUNDAM](https://ja.wikipedia.org/wiki/サイコガンダム "wikilink")
+  - SCENE:7 MRX-009 [PSYCHO GUNDAM](../Page/サイコガンダム.md "wikilink")
   - SCENE:8 [GAIA GEARα](https://ja.wikipedia.org/wiki/ガイア・ギアの登場兵器#ガイア・ギアα "wikilink")
   - SCENE:9 F-91 [GUNDAM FORMULA91](https://ja.wikipedia.org/wiki/フォーミュラ計画#ガンダムF91 "wikilink")
   - SCENE:10 OZ-00MS [TALLGEESE](../Page/トールギス.md "wikilink")
@@ -52,7 +52,7 @@
   - SCENE:17 MRX-010 [PHYCHO GUNDAM Mk-II](https://ja.wikipedia.org/wiki/サイコガンダム#サイコガンダムMk-II "wikilink")
   - SCENE:18 GX-9900 [GUNDAM X](../Page/ガンダムX.md "wikilink")
   - SCENE:19 XXXG-01W [WING GUNDAM](../Page/ウイングガンダム.md "wikilink")
-  - SCENE:20 GF13-017NJ [SHINING GUNDAM](https://ja.wikipedia.org/wiki/シャイニングガンダム "wikilink")
+  - SCENE:20 GF13-017NJ [SHINING GUNDAM](../Page/シャイニングガンダム.md "wikilink")
   - SCENE:21 LM312V04 [VICTORY GUNDAM](../Page/ヴィクトリーガンダム.md "wikilink")
   - SCENE:22 [ΞGUNDAM](https://ja.wikipedia.org/wiki/機動戦士ガンダム_閃光のハサウェイの登場兵器#Ξガンダム "wikilink")
   - SCENE:23 [GUNDAM F90](https://ja.wikipedia.org/wiki/ガンダムF90_\(架空の兵器\) "wikilink")
@@ -72,12 +72,12 @@
   - SCENE:37 RX-178 [GUNDAM Mk-II](../Page/ガンダムMk-II.md "wikilink")
   - SCENE:38 GF13-001NHII [MASTER GUNDAM](../Page/マスターガンダム.md "wikilink")
   - SCENE:39 RX-93 [νGUNDAM](../Page/Νガンダム.md "wikilink")
-  - SCENE:40 MSA-0011 [S-GUNDAM](https://ja.wikipedia.org/wiki/Sガンダム "wikilink")
+  - SCENE:40 MSA-0011 [S-GUNDAM](../Page/Sガンダム.md "wikilink")
   - SCENE:41 RX-79\[G\]Ez-8 [GUNDAM Ez8](https://ja.wikipedia.org/wiki/陸戦型ガンダム#ガンダムEz8 "wikilink")
   - SCENE:42 RX-78GP03 [DENDROBIUM](https://ja.wikipedia.org/wiki/ガンダム開発計画#ガンダム試作3号機（デンドロビウム） "wikilink")
   - SCENE:43 FXA-05D+RX-178 [SUPER GUNDAM](https://ja.wikipedia.org/wiki/Gディフェンサー#Mk-IIディフェンサー（スーパーガンダム） "wikilink")
   - SCENE:44 FA-78-1 [FULL-ARMOR GUNDAM](https://ja.wikipedia.org/wiki/FSWS計画#フルアーマーガンダム "wikilink")
-  - SCENE:45 [MUSYA GUNDAM](https://ja.wikipedia.org/wiki/武者ガンダム "wikilink")
+  - SCENE:45 [MUSYA GUNDAM](../Page/武者ガンダム.md "wikilink")
   - SCENE:46 [PERFECT GUNDAM](https://ja.wikipedia.org/wiki/ガンダム_\(架空の兵器\)#バリエーション "wikilink")
   - SCENE:47 [RX-78-3 G3 GUNDAM](https://ja.wikipedia.org/wiki/ガンダム_\(架空の兵器\)#G-3ガンダム "wikilink")
 
@@ -89,7 +89,7 @@
 
 ## 関連項目
 
-  - [カトキハジメ](https://ja.wikipedia.org/wiki/カトキハジメ "wikilink")
+  - [カトキハジメ](../Page/カトキハジメ.md "wikilink")
   - [GUNDAM FIX FIGURATION](../Page/GUNDAM_FIX_FIGURATION.md "wikilink")
 
 ## 脚注

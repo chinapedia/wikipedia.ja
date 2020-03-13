@@ -5,7 +5,7 @@
 
 ## 概要
 
-[ランティス](https://ja.wikipedia.org/wiki/ランティス "wikilink")に移籍後初のシングル。[OVA](../Page/OVA.md "wikilink")『[アンジェリーク〜聖地より愛をこめて〜](https://ja.wikipedia.org/wiki/アンジェリーク_トロワ#OVA "wikilink")』の[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")である。アニメの内容をチェックした上で制作したとのこと。
+[ランティス](../Page/ランティス.md "wikilink")に移籍後初のシングル。[OVA](../Page/OVA.md "wikilink")『[アンジェリーク〜聖地より愛をこめて〜](https://ja.wikipedia.org/wiki/アンジェリーク_トロワ#OVA "wikilink")』の[主題歌](../Page/主題歌.md "wikilink")である。アニメの内容をチェックした上で制作したとのこと。
 
 初回盤のみ『アンジェリーク』スペシャルスリーヴ仕様になっていた。
 
@@ -24,6 +24,6 @@
 
 <!-- end list -->
 
-  - [作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")：[LAZY](../Page/レイジー.md "wikilink")
+  - [作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")：[LAZY](../Page/レイジー.md "wikilink")
 
 [Category:2001年のシングル](https://ja.wikipedia.org/wiki/Category:2001年のシングル "wikilink") [Category:ランティスの楽曲](https://ja.wikipedia.org/wiki/Category:ランティスの楽曲 "wikilink") [Category:レイジーの楽曲](https://ja.wikipedia.org/wiki/Category:レイジーの楽曲 "wikilink") [Category:ネオロマンスシリーズ](https://ja.wikipedia.org/wiki/Category:ネオロマンスシリーズ "wikilink") [Category:OVA主題歌](https://ja.wikipedia.org/wiki/Category:OVA主題歌 "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")

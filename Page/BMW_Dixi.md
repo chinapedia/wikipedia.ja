@@ -204,7 +204,7 @@ Niederdruck</p></td>
 <tr class="even">
 <td><p>ロードスター 2座<br />
 (Roadster) </p></td>
-<td><p>2,750 <a href="https://ja.wikipedia.org/wiki/ライヒスマルク" title="wikilink">RM</a></p></td>
+<td><p>2,750 <a href="../Page/ライヒスマルク.md" title="wikilink">RM</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>ツアラー 3/4座<br />

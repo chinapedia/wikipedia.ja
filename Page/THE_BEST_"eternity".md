@@ -1,11 +1,11 @@
 > この記事は[THE BEST eternity](https://ja.wikipedia.org/wiki/THE_BEST_eternity)から翻訳されています。
 
 
-**THE BEST "eternity"**（ザ・ベスト・エターニティ）は、[宇徳敬子](https://ja.wikipedia.org/wiki/宇徳敬子 "wikilink")の初の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。
+**THE BEST "eternity"**（ザ・ベスト・エターニティ）は、[宇徳敬子](https://ja.wikipedia.org/wiki/宇徳敬子 "wikilink")の初の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。
 
 ## 内容
 
-  - 本格的なソロ活動をしてから10年が経った宇徳本人の選曲による初のベストアルバム。シングルコレクションではなく、これまでの活動を集大成した内容となっている。「[不思議な世界](../Page/不思議な世界.md "wikilink")」と「[風のように自由 〜free as the wind〜](https://ja.wikipedia.org/wiki/風のように自由_〜free_as_the_wind〜 "wikilink")」はシングルバージョンが収録され、アルバム初収録となっており、「Love Letters」はジャズのケティ・レスターの「Love Letters」のカバー、[Mi-Ke](https://ja.wikipedia.org/wiki/Mi-Ke "wikilink")の「[想い出の九十九里浜](../Page/想い出の九十九里浜.md "wikilink")」は[小澤正澄](../Page/小澤正澄.md "wikilink")によるリミックスが施されて収録された。
+  - 本格的なソロ活動をしてから10年が経った宇徳本人の選曲による初のベストアルバム。シングルコレクションではなく、これまでの活動を集大成した内容となっている。「[不思議な世界](../Page/不思議な世界.md "wikilink")」と「[風のように自由 〜free as the wind〜](https://ja.wikipedia.org/wiki/風のように自由_〜free_as_the_wind〜 "wikilink")」はシングルバージョンが収録され、アルバム初収録となっており、「Love Letters」はジャズのケティ・レスターの「Love Letters」のカバー、[Mi-Ke](../Page/Mi-Ke.md "wikilink")の「[想い出の九十九里浜](../Page/想い出の九十九里浜.md "wikilink")」は[小澤正澄](../Page/小澤正澄.md "wikilink")によるリミックスが施されて収録された。
 
 ## 収録曲
 
@@ -14,7 +14,7 @@
         作詞:宇徳敬子 作曲:[織田哲郎](../Page/織田哲郎.md "wikilink") 編曲:[葉山たけし](../Page/葉山たけし.md "wikilink")
 2.  [まぶしい人](https://ja.wikipedia.org/wiki/まぶしい人 "wikilink")
       -
-        作詞:宇徳敬子 作曲:[栗林誠一郎](https://ja.wikipedia.org/wiki/栗林誠一郎 "wikilink") 編曲:葉山たけし
+        作詞:宇徳敬子 作曲:[栗林誠一郎](../Page/栗林誠一郎.md "wikilink") 編曲:葉山たけし
 3.  [愛さずにはいられない](https://ja.wikipedia.org/wiki/愛さずにはいられない_\(宇徳敬子の曲\) "wikilink")
       -
         作詞:宇徳敬子 作曲:[多々納好夫](../Page/多々納好夫.md "wikilink") 編曲:[池田大介](../Page/池田大介_\(編曲家\).md "wikilink")
@@ -46,7 +46,7 @@
       -
         作詞・作曲:宇徳敬子 編曲:寺地秀行
 13. Love Letters
-14. [想い出の九十九里浜](../Page/想い出の九十九里浜.md "wikilink")(Remix) - [Mi-Ke](https://ja.wikipedia.org/wiki/Mi-Ke "wikilink")
+14. [想い出の九十九里浜](../Page/想い出の九十九里浜.md "wikilink")(Remix) - [Mi-Ke](../Page/Mi-Ke.md "wikilink")
       -
         作詞:長戸大幸 作曲:織田哲郎 Remix:[小澤正澄](../Page/小澤正澄.md "wikilink")
 

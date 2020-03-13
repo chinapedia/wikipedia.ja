@@ -15,7 +15,7 @@
 
 2009年9月19日、20日　[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")の[赤城高原牧場クローネンベルク](../Page/赤城高原牧場クローネンベルク.md "wikilink")・ドイツ村にて第2回Marie祭りを開催。Marie祭りでは花火とのコラボレーションライヴが恒例となっている。
 
-ライヴは[KORG](https://ja.wikipedia.org/wiki/KORG "wikilink")[キーボードをプレイしながらの弾き語りスタイルで](../Page/キーボード_\(楽器\).md "wikilink")、バンド演奏やコーラスはカラオケを用いるのが主である。海外アーティストのカバーを弾き語りで演奏することもある。主なカバーレパートリーは、[Journeyの](https://ja.wikipedia.org/wiki/ジャーニー_\(バンド\) "wikilink")[Open Arms](https://ja.wikipedia.org/wiki/Open_Arms "wikilink")、[ジョン・レノン](../Page/ジョン・レノン.md "wikilink")の[イマジン](../Page/イマジン_\(ジョン・レノンの曲\).md "wikilink")、[セリーヌ・ディオン](https://ja.wikipedia.org/wiki/セリーヌ・ディオン "wikilink")の[My Heart Will Go Onなど](https://ja.wikipedia.org/wiki/My_Heart_Will_Go_On "wikilink")。
+ライヴは[KORG](https://ja.wikipedia.org/wiki/KORG "wikilink")[キーボードをプレイしながらの弾き語りスタイルで](../Page/キーボード_\(楽器\).md "wikilink")、バンド演奏やコーラスはカラオケを用いるのが主である。海外アーティストのカバーを弾き語りで演奏することもある。主なカバーレパートリーは、[Journeyの](../Page/ジャーニー_\(バンド\).md "wikilink")[Open Arms](https://ja.wikipedia.org/wiki/Open_Arms "wikilink")、[ジョン・レノン](../Page/ジョン・レノン.md "wikilink")の[イマジン](../Page/イマジン_\(ジョン・レノンの曲\).md "wikilink")、[セリーヌ・ディオン](https://ja.wikipedia.org/wiki/セリーヌ・ディオン "wikilink")の[My Heart Will Go Onなど](https://ja.wikipedia.org/wiki/My_Heart_Will_Go_On "wikilink")。
 
 自らが描いたイラストをCDジャケットにすることもある。シングルCotterinoなど。
 

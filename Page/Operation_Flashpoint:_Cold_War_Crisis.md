@@ -17,7 +17,7 @@
 
 シングルプレイおよびマルチプレイに対応しているが、シングルプレイが最も盛んである。また、数多くのMODがリリースされた。この理由は、[AddonとModの節を参照](https://ja.wikipedia.org/wiki/Operation_Flashpoint:_Cold_War_Crisis#AddonとMod "wikilink")。
 
-[軍事機関向け派生作品としてDARWARS](../Page/軍隊.md "wikilink") Ambush\!、[VBS1が存在する](../Page/Virtual_Battlespace.md "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に[Xbox版のOperation](../Page/Xbox_\(ゲーム機\).md "wikilink") Flashpoint: Elite (OFP: Elite) が発売された。続編に関しては、[続編・移植の展開の節を参照](https://ja.wikipedia.org/wiki/Operation_Flashpoint:_Cold_War_Crisis#続編・移植の展開 "wikilink")。
+[軍事機関向け派生作品としてDARWARS](../Page/軍隊.md "wikilink") Ambush\!、[VBS1が存在する](../Page/Virtual_Battlespace.md "wikilink")。[2005年](../Page/2005年.md "wikilink")に[Xbox版のOperation](../Page/Xbox_\(ゲーム機\).md "wikilink") Flashpoint: Elite (OFP: Elite) が発売された。続編に関しては、[続編・移植の展開の節を参照](https://ja.wikipedia.org/wiki/Operation_Flashpoint:_Cold_War_Crisis#続編・移植の展開 "wikilink")。
 
 ## ストーリー
 
@@ -25,7 +25,7 @@
 
 ### Cold War Crisis (CWC)
 
-世界が未だ冷戦の中にあった1985年。[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")の[ミハイル・ゴルバチョフ](../Page/ミハイル・ゴルバチョフ.md "wikilink")によって進められていた[ペレストロイカ](../Page/ペレストロイカ.md "wikilink")に反発するGuba将軍率いる勢力が、叛乱軍を率いて軍事拠点であるKolgujev島を制圧、さらに、Everon共和国、そして、[NATOの拠点であるMalden島の攻略に乗り出した](../Page/北大西洋条約機構.md "wikilink")。有効な打開策を見出せない[モスクワ](https://ja.wikipedia.org/wiki/モスクワ "wikilink")はNATOに協力を要請し、叛乱軍の鎮圧に向けた戦いが始まった。
+世界が未だ冷戦の中にあった1985年。[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")の[ミハイル・ゴルバチョフ](../Page/ミハイル・ゴルバチョフ.md "wikilink")によって進められていた[ペレストロイカ](../Page/ペレストロイカ.md "wikilink")に反発するGuba将軍率いる勢力が、叛乱軍を率いて軍事拠点であるKolgujev島を制圧、さらに、Everon共和国、そして、[NATOの拠点であるMalden島の攻略に乗り出した](../Page/北大西洋条約機構.md "wikilink")。有効な打開策を見出せない[モスクワ](../Page/モスクワ.md "wikilink")はNATOに協力を要請し、叛乱軍の鎮圧に向けた戦いが始まった。
 
 #### 登場人物
 
@@ -103,7 +103,7 @@ Mission Editorはユーザが新たに自らの手で独自のミッションを
 
 ### グラフィック
 
-2001年に発売された本作のグラフィックは旧世代のものと成り果ててしまっており、近年登場したような新しいFPS─例えば[ハーフライフ2](https://ja.wikipedia.org/wiki/ハーフライフ2 "wikilink")のような─とは比較対照にもならず、しかも動作もやや鈍重である。
+2001年に発売された本作のグラフィックは旧世代のものと成り果ててしまっており、近年登場したような新しいFPS─例えば[ハーフライフ2](../Page/ハーフライフ2.md "wikilink")のような─とは比較対照にもならず、しかも動作もやや鈍重である。
 
 それはOFP: CWCの意図とする広大な戦闘範囲のほかにも、描画エンジンがGlideに対して最適化されているためである。そのためOFP: CWCは、発売後数年を経た最新のパソコン構成をもってしても尚グラフィックの品質などを最高の値にして快適な動作を行うことはできず、今後とも品質を最高にすることは出来ないと言われている。しかし、グラフィックの品質を最高値にすると、AIが敵などを認識する範囲が異常に広がってしまったり、地形が変わってしまうなどゲームバランスを崩壊させる副作用が現れることが指摘されており、わざわざ最高値にする必要はないとする意見もある。
 
@@ -137,7 +137,7 @@ Mission Editorはユーザが新たに自らの手で独自のミッションを
 
 ### 登場する兵科
 
-『OFP: CWC』には、役割や能力に応じて様々な[兵科](https://ja.wikipedia.org/wiki/兵科 "wikilink")が設定されている。そのほとんどは西・東・レジスタンスで共通しているが、ひとつの陣営にしか存在しない兵科も存在する。しかし、ほとんどの兵科でどのようなことも（戦車や航空機の操縦すら可能）できてしまうため、あまり兵科の分類は重要でないという面もある。この中で、「絶対にこの兵科でなければならない」という代替不可能な能力を持っているのは、MedicとBlack Ops/Spets Natzのみである。一部の兵科は持てる[弾薬](https://ja.wikipedia.org/wiki/弾薬 "wikilink")の数が一般兵士の半分しかない（[MODでは一般並みに設定されていることが多い](https://ja.wikipedia.org/wiki/Mod_\(コンピュータゲーム\) "wikilink")）。
+『OFP: CWC』には、役割や能力に応じて様々な[兵科](../Page/兵科.md "wikilink")が設定されている。そのほとんどは西・東・レジスタンスで共通しているが、ひとつの陣営にしか存在しない兵科も存在する。しかし、ほとんどの兵科でどのようなことも（戦車や航空機の操縦すら可能）できてしまうため、あまり兵科の分類は重要でないという面もある。この中で、「絶対にこの兵科でなければならない」という代替不可能な能力を持っているのは、MedicとBlack Ops/Spets Natzのみである。一部の兵科は持てる[弾薬](../Page/弾薬.md "wikilink")の数が一般兵士の半分しかない（[MODでは一般並みに設定されていることが多い](../Page/Mod_\(コンピュータゲーム\).md "wikilink")）。
 
   - Soldier（[兵士](../Page/兵士.md "wikilink")）
     一般的な兵士であり、[アサルトライフル](../Page/アサルトライフル.md "wikilink")と[手榴弾](../Page/手榴弾.md "wikilink")を装備する。
@@ -148,7 +148,7 @@ Mission Editorはユーザが新たに自らの手で独自のミッションを
   - Sniper（[狙撃手](../Page/狙撃手.md "wikilink")）
     [狙撃銃](../Page/狙撃銃.md "wikilink")を装備し、遠距離からの[狙撃](../Page/狙撃.md "wikilink")を行う。全身を草で[カモフラージュ](../Page/カモフラージュ.md "wikilink")している。携帯できる弾薬数が少ない。
   - Hunter（[猟兵](../Page/猟兵.md "wikilink")）
-    [散弾銃](../Page/散弾銃.md "wikilink")を装備する。発射の仕方が異なる二種類の弾薬を持つ。散弾は接近戦においてのみ、高い殺傷力を持つ。東西正規軍にはなく、[レジスタンスのみの兵科である](https://ja.wikipedia.org/wiki/レジスタンス運動 "wikilink")。
+    [散弾銃](../Page/散弾銃.md "wikilink")を装備する。発射の仕方が異なる二種類の弾薬を持つ。散弾は接近戦においてのみ、高い殺傷力を持つ。東西正規軍にはなく、[レジスタンスのみの兵科である](../Page/レジスタンス運動.md "wikilink")。
   - LAW Soldier/RPG Soldier（対戦車ロケット手）
     アサルトライフルのほか、[対戦車ロケット弾](../Page/対戦車ロケット弾.md "wikilink")発射器を装備する。[IFV程度までの車両を相手にするには十分な威力を持つが](../Page/歩兵戦闘車.md "wikilink")、[MBT相手には威力不足である](../Page/主力戦車.md "wikilink")。
   - AT Soldier（[対戦車ミサイル](../Page/対戦車ミサイル.md "wikilink")手）
@@ -158,23 +158,23 @@ Mission Editorはユーザが新たに自らの手で独自のミッションを
   - Engineer（[工兵](../Page/工兵.md "wikilink")）
     通常のアサルトライフルに加え、強力な[対戦車地雷を所持している](https://ja.wikipedia.org/wiki/地雷#対戦車地雷 "wikilink")。地雷は[銃弾や爆風を受けても起爆したり破壊される事はなく](../Page/弾丸.md "wikilink")、通常の兵科が撤去する事はできないが、工兵は設置された地雷を無効化・撤去する事ができる。ちなみに、西側と東側では地雷の種類が異なる。
   - Pilot/Crew（[航空機](../Page/航空機.md "wikilink")乗組員/[装甲車両乗組員](../Page/装甲戦闘車両.md "wikilink")）
-    前者は航空機、後者は装甲車両の乗組員。[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")の場合は[操縦手](https://ja.wikipedia.org/wiki/運転者 "wikilink")・[砲手](https://ja.wikipedia.org/wiki/砲手 "wikilink")・[車長の](https://ja.wikipedia.org/wiki/指揮官 "wikilink")3つを分担して操縦する。携行性の高い[カービン](https://ja.wikipedia.org/wiki/カービン "wikilink")ライフルを装備し、[暗視装置](https://ja.wikipedia.org/wiki/暗視装置 "wikilink")を持つ。だが、前述の通り通常の兵士でも操縦は可能である。
+    前者は航空機、後者は装甲車両の乗組員。[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")の場合は[操縦手](https://ja.wikipedia.org/wiki/運転者 "wikilink")・[砲手](https://ja.wikipedia.org/wiki/砲手 "wikilink")・[車長の](https://ja.wikipedia.org/wiki/指揮官 "wikilink")3つを分担して操縦する。携行性の高い[カービン](../Page/カービン.md "wikilink")ライフルを装備し、[暗視装置](../Page/暗視装置.md "wikilink")を持つ。だが、前述の通り通常の兵士でも操縦は可能である。
   - Mortar（[小銃擲弾手](https://ja.wikipedia.org/wiki/グレネードランチャー#小銃擲弾 "wikilink")）
     アサルトライフルに加えて、[銃口](https://ja.wikipedia.org/wiki/銃口 "wikilink")に装備するMortarという小銃擲弾（弾薬）を装備する兵士。[手榴弾](../Page/手榴弾.md "wikilink")や[40mm擲弾に比べて広い被害半径を誇るが](https://ja.wikipedia.org/wiki/40mmグレネード "wikilink")、照準が表示されず、上手く命中させるまでに熟練を要する。一般的なミッションにはほとんど登場しない。西側のみ登場。
   - Black Ops/Spets Natz（[特殊部隊](../Page/特殊部隊.md "wikilink")/[スペツナズ](../Page/スペツナズ.md "wikilink")）
     Black Opsは[サプレッサー](../Page/サプレッサー.md "wikilink")を装備した[短機関銃](../Page/短機関銃.md "wikilink")を、Spetz Nazは携行性の高いカービンライフルを装備し、[パイプ爆弾](https://ja.wikipedia.org/wiki/パイプ爆弾 "wikilink")を所持する。主に単独または少人数で活動し、敵陣深くで[暗殺](../Page/暗殺.md "wikilink")および[破壊活動](../Page/破壊活動.md "wikilink")に従事する。死体を隠匿（消去）する能力を持つが、[AIは通常](../Page/人工知能.md "wikilink")、死体を視覚で認識することは無く、また、対人においても、死体の影が跡となってしまうため、あまり必要とされない。Black Opsには通常装備仕様と、昼間用装備仕様の二種類がある。
-  - Officer（[将校](https://ja.wikipedia.org/wiki/将校 "wikilink")）
+  - Officer（[将校](../Page/将校.md "wikilink")）
     [指揮を担当する将校](../Page/指揮_\(軍事\).md "wikilink")。[分隊](../Page/分隊.md "wikilink")では分隊長を務める。頭に帽子を被り、[双眼鏡](../Page/双眼鏡.md "wikilink")や[煙幕手榴弾を装備している](https://ja.wikipedia.org/wiki/手榴弾#その他 "wikilink")。特殊な能力は無いが、暗視装置を持つ夜間装備仕様、[拳銃](../Page/拳銃.md "wikilink")を持つ拳銃仕様などに細分化されている。
-  - Medic（[衛生兵](https://ja.wikipedia.org/wiki/衛生兵 "wikilink")）
+  - Medic（[衛生兵](../Page/衛生兵.md "wikilink")）
     味方や自分自身の傷を完治させることができる。回復中は対象の負傷兵と共に無防備となるので注意が必要。また、医療器具を持ち運んでいるためか所持できる弾薬数が少ない。なお、負傷兵・衛生兵共に普通に攻撃対象になるので注意。
-  - Civilian（[民間人](https://ja.wikipedia.org/wiki/民間人 "wikilink")）
+  - Civilian（[民間人](../Page/民間人.md "wikilink")）
     通常は非武装だが、[武装](../Page/武装.md "wikilink")して[民兵](../Page/民兵.md "wikilink")となることもある。雑嚢の類を装備していないせいか所持可能な弾薬数が少ない。因みに、プレイヤーが民間人（味方も含む）を特定の人数殺すと（人数は[階級で決まる](../Page/軍隊の階級.md "wikilink")）、味方・市民・レジスタンス、要は全世界を敵に回す事となる。
 
 ### 登場する火器
 
-プレイヤーは、通常の場合、[アサルトライフル](../Page/アサルトライフル.md "wikilink")などの主力[火器](https://ja.wikipedia.org/wiki/火器 "wikilink")を1つ、[ロケットランチャー](../Page/ロケットランチャー.md "wikilink")などの補助火器を1つずつ持つことができる。それらの[弾薬](https://ja.wikipedia.org/wiki/弾薬 "wikilink")を10スロット分持つことができ、アサルトライフルの[弾倉](../Page/弾倉.md "wikilink")および[手榴弾](../Page/手榴弾.md "wikilink")などは1スロット、ロケットランチャーなどの[弾頭](../Page/弾頭.md "wikilink")は2ないし3スロット、威力の高い[無反動砲](../Page/無反動砲.md "wikilink")などは6スロットを消費して所持することができる。一例として、[機関銃](../Page/機関銃.md "wikilink")と[グレネードランチャー](https://ja.wikipedia.org/wiki/グレネードランチャー "wikilink")を装備すると、補助火器を携行することはできなくなる（弾薬のみの携行は可能）。
+プレイヤーは、通常の場合、[アサルトライフル](../Page/アサルトライフル.md "wikilink")などの主力[火器](https://ja.wikipedia.org/wiki/火器 "wikilink")を1つ、[ロケットランチャー](../Page/ロケットランチャー.md "wikilink")などの補助火器を1つずつ持つことができる。それらの[弾薬](../Page/弾薬.md "wikilink")を10スロット分持つことができ、アサルトライフルの[弾倉](../Page/弾倉.md "wikilink")および[手榴弾](../Page/手榴弾.md "wikilink")などは1スロット、ロケットランチャーなどの[弾頭](../Page/弾頭.md "wikilink")は2ないし3スロット、威力の高い[無反動砲](../Page/無反動砲.md "wikilink")などは6スロットを消費して所持することができる。一例として、[機関銃](../Page/機関銃.md "wikilink")と[グレネードランチャー](https://ja.wikipedia.org/wiki/グレネードランチャー "wikilink")を装備すると、補助火器を携行することはできなくなる（弾薬のみの携行は可能）。
 
-また、[狙撃手](../Page/狙撃手.md "wikilink")や[指揮官](https://ja.wikipedia.org/wiki/指揮官 "wikilink")などが自衛用として使用する[拳銃](../Page/拳銃.md "wikilink")を1つ、その弾倉を4スロット分持つ事ができ、最後に特殊な装備品（[暗視装置](https://ja.wikipedia.org/wiki/暗視装置 "wikilink")または[双眼鏡](../Page/双眼鏡.md "wikilink")）をそれぞれ1つずつ所持することができる（拳銃はv1.85より登場）。
+また、[狙撃手](../Page/狙撃手.md "wikilink")や[指揮官](https://ja.wikipedia.org/wiki/指揮官 "wikilink")などが自衛用として使用する[拳銃](../Page/拳銃.md "wikilink")を1つ、その弾倉を4スロット分持つ事ができ、最後に特殊な装備品（[暗視装置](../Page/暗視装置.md "wikilink")または[双眼鏡](../Page/双眼鏡.md "wikilink")）をそれぞれ1つずつ所持することができる（拳銃はv1.85より登場）。
 
 これらの弾倉は実際の重さとは関係なく設定されている場合もあり、威力に見合わないスロット消費や、現実ではもっと多数持てるはずが3つまでしか持てない、同じスロット消費で[弾丸](../Page/弾丸.md "wikilink")数が2倍違うといったこと（UZIとBizonのように）がある。
 
@@ -200,21 +200,21 @@ Mission Editorはユーザが新たに自らの手で独自のミッションを
 <td><p><a href="../Page/H&amp;K_G36.md" title="wikilink">G36</a><br />
 <a href="https://ja.wikipedia.org/wiki/ステアーAUG#バリエーション" title="wikilink">Steyr AUG</a><br />
 <a href="https://ja.wikipedia.org/wiki/M16自動小銃#M16A2_(モデル645)" title="wikilink">M16A2シリーズ</a>（M16A2+<a href="../Page/M203_グレネードランチャー.md" title="wikilink">M203</a>、<a href="https://ja.wikipedia.org/wiki/コルト・コマンドー#CAR-15_コマンドー（XM177/GAU-5）" title="wikilink">XM177E2</a>、XM177Sを含む）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/AK-74" title="wikilink">AK74シリーズ</a>（AK74+<a href="https://ja.wikipedia.org/wiki/GP-25" title="wikilink">GP30</a>、<a href="https://ja.wikipedia.org/wiki/AK-74#AKS-74U" title="wikilink">AKS74Uを含む</a>）</p></td>
+<td><p><a href="../Page/AK-74.md" title="wikilink">AK74シリーズ</a>（AK74+<a href="https://ja.wikipedia.org/wiki/GP-25" title="wikilink">GP30</a>、<a href="https://ja.wikipedia.org/wiki/AK-74#AKS-74U" title="wikilink">AKS74Uを含む</a>）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/H&amp;K_G3#7.62×51mm_NATO" title="wikilink">HK G3A4</a><br />
 <a href="../Page/FN_FAL.md" title="wikilink">FN FAL</a><br />
 <a href="../Page/AK-47.md" title="wikilink">AK47シリーズ</a>（AK47+GP30、<a href="../Page/Vz_58.md" title="wikilink">AK47CZを含む</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/汎用機関銃.md" title="wikilink">汎用機関銃</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/M60機関銃" title="wikilink">M60</a></p></td>
+<td><p><a href="../Page/M60機関銃.md" title="wikilink">M60</a></p></td>
 <td><p><a href="../Page/PK_(機関銃).md" title="wikilink">PK</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/短機関銃.md" title="wikilink">短機関銃</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/H&amp;K_MP5#MP5SDシリーズ" title="wikilink">HK</a><br />
-<a href="https://ja.wikipedia.org/wiki/UZI_(SMG)" title="wikilink">UZI</a>（<a href="../Page/サプレッサー.md" title="wikilink">サプレッサー</a>付き）</p></td>
+<a href="../Page/UZI_(SMG).md" title="wikilink">UZI</a>（<a href="../Page/サプレッサー.md" title="wikilink">サプレッサー</a>付き）</p></td>
 <td><p><a href="../Page/PP-19_Bizon.md" title="wikilink">Bizon</a>（サプレッサー付き）</p></td>
 <td></td>
 </tr>
@@ -258,8 +258,8 @@ Mission Editorはユーザが新たに自らの手で独自のミッションを
 </tr>
 <tr class="even">
 <td><p><a href="../Page/無反動砲.md" title="wikilink">無反動砲</a>・<a href="../Page/ミサイル.md" title="wikilink">ミサイル</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カールグスタフ_(無反動砲)" title="wikilink">Carl Gustav</a><br />
-<a href="https://ja.wikipedia.org/wiki/スティンガーミサイル" title="wikilink">AA Launcher</a></p></td>
+<td><p><a href="../Page/カールグスタフ_(無反動砲).md" title="wikilink">Carl Gustav</a><br />
+<a href="../Page/スティンガーミサイル.md" title="wikilink">AA Launcher</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/9M111_(ミサイル)" title="wikilink">AT4 Launcher</a><br />
 <a href="../Page/9K32.md" title="wikilink">9K32 Strela Launcher</a></p></td>
 <td></td>
@@ -279,10 +279,10 @@ Mission Editorはユーザが新たに自らの手で独自のミッションを
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ベレッタ_92#ベースモデル" title="wikilink">Beretta 92F</a><br />
-<a href="https://ja.wikipedia.org/wiki/グロック17" title="wikilink">Glock 17/Glock 17S</a><br />
+<a href="../Page/グロック17.md" title="wikilink">Glock 17/Glock 17S</a><br />
 <a href="../Page/S&amp;W_M686.md" title="wikilink">S&amp;W</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トカレフTT-33" title="wikilink">Tokarev T33</a><br />
-<a href="https://ja.wikipedia.org/wiki/Vz_61" title="wikilink">Sa61 Scorpion</a>（携行性により拳銃に分類された）</p></td>
+<td><p><a href="../Page/トカレフTT-33.md" title="wikilink">Tokarev T33</a><br />
+<a href="../Page/Vz_61.md" title="wikilink">Sa61 Scorpion</a>（携行性により拳銃に分類された）</p></td>
 <td><p><a href="../Page/Cz75.md" title="wikilink">Cz75</a><br />
 Sa61 Scorpion<br />
 <a href="https://ja.wikipedia.org/wiki/イングラムM10" title="wikilink">Ingram</a>（携行性により拳銃に分類された）</p></td>
@@ -318,7 +318,7 @@ Sa61 Scorpion<br />
 <td><p><a href="https://ja.wikipedia.org/wiki/M1エイブラムス#形式" title="wikilink">M1A1</a><br />
 <a href="../Page/M60パットン.md" title="wikilink">M60</a></p></td>
 <td><p><a href="../Page/T-80.md" title="wikilink">T-80</a><br />
-<a href="https://ja.wikipedia.org/wiki/T-72" title="wikilink">T-72</a></p></td>
+<a href="../Page/T-72.md" title="wikilink">T-72</a></p></td>
 <td><p>T-80（<a href="../Page/鹵獲.md" title="wikilink">鹵獲</a>）<br />
 T-72（鹵獲）<br />
 <a href="../Page/T-55.md" title="wikilink">T-55</a></p></td>
@@ -379,7 +379,7 @@ BMP-2（鹵獲）</p></td>
 <tr class="odd">
 <td><p><a href="../Page/攻撃機.md" title="wikilink">攻撃機</a></p></td>
 <td><p><a href="../Page/A-10_(航空機).md" title="wikilink">A-10</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Su-25_(航空機)" title="wikilink">Su-25</a></p></td>
+<td><p><a href="../Page/Su-25_(航空機).md" title="wikilink">Su-25</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -397,7 +397,7 @@ BMP-2（鹵獲）</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/偵察" title="wikilink">偵察</a>・軽攻撃ヘリコプター</p></td>
+<td><p><a href="../Page/偵察.md" title="wikilink">偵察</a>・軽攻撃ヘリコプター</p></td>
 <td><p><a href="../Page/OH-58_カイオワ.md" title="wikilink">OH-58</a></p></td>
 <td></td>
 <td></td>
@@ -462,7 +462,7 @@ MODの中には、既存の高品質なAddon（モデル・サウンド・エフ
 
 ### 民間
 
-**Operation Flashpoint: Elite** - OFP: CWCの[Xbox版](../Page/Xbox_\(ゲーム機\).md "wikilink")。[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")で[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")に発売（[アメリカでは](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月8日](../Page/11月8日.md "wikilink")）、ゲームエンジン・グラフィックの強化が行われた。
+**Operation Flashpoint: Elite** - OFP: CWCの[Xbox版](../Page/Xbox_\(ゲーム機\).md "wikilink")。[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")で[2005年](../Page/2005年.md "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")に発売（[アメリカでは](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[2005年](../Page/2005年.md "wikilink")[11月8日](../Page/11月8日.md "wikilink")）、ゲームエンジン・グラフィックの強化が行われた。
 
 **[ArmA: Armed Assault](../Page/ArmA:_Armed_Assault.md "wikilink")** - OFP: CWCの開発元（[デベロッパー](https://ja.wikipedia.org/wiki/デベロッパー "wikilink")）である[Bohemia Interactive Studio](../Page/Bohemia_Interactive_Studio.md "wikilink") (BIS) が、Operation Flashpoint: Eliteのエンジンを元にVBS1や他の新要素も加味して開発した[Windows用新パッケージである](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")（US版のタイトルはArmA: Combat Operations）。パブリッシャーを複数に変更して[2006年](../Page/2006年.md "wikilink")[11月](../Page/11月.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")にかけて発売された。このArmAは事実上のOperation Flashpoint 1.5であり、新しい時代背景・舞台で展開し、OFP: CWC特有のユニットやキャンペーン・ミッション等は含まれない（名称が変更されている理由は後述）。
 

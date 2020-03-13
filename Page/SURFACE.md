@@ -13,13 +13,13 @@
     [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")および[作詞](../Page/作詞.md "wikilink")を担当する。また相方の永谷よりは比重が小さいが[作曲](../Page/作曲.md "wikilink")も行う。
     [東京都](../Page/東京都.md "wikilink")[足立区](../Page/足立区.md "wikilink")出身で、その後[千葉県](../Page/千葉県.md "wikilink")[成田市](../Page/成田市.md "wikilink")、東京都[葛飾区](https://ja.wikipedia.org/wiki/葛飾区 "wikilink")と住まいを転々とする。4人兄弟の2番目で、上には姉、下には妹、弟が1人ずついる。あだ名は多数あり、小学生当時クラスメイトがHBの[鉛筆](../Page/鉛筆.md "wikilink")を使うのに対してHの鉛筆を使っていたからとの由来で「椎名エッチ」や小学校6年生は「いやら椎名（いやらスィ～な）」などのあだ名があったという。
     ラジオゲスト出演の際に「一生一つのモノしか食べられないとしたら?」の質問に「イチゴ\!」と即答したりするなど、イチゴが大好物であることを窺がわせる反面、酒は好きではなくほとんど飲めないため、いわゆる打ち上げや飲み会は苦手としている。
-    大のゲーム好き、ゲーム機器マニアでもあり、[プレイステーション2を](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")2台所有し2画面でプレイしているほか、[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")も2台所有しているという。レコーディングの合間に、メンバー間でブームを巻き起こしたと語っている。また漫画およびアニメ好きでもあり、いつか卒業しようと思っているのに「[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")」の購入が止められないと語っている。アニメ好きが高じて[声優](../Page/声優.md "wikilink")業にも興味を持ち、2006年6月には自身が主題歌を担当したアニメ『[CLUSTER EDGE](https://ja.wikipedia.org/wiki/CLUSTER_EDGE "wikilink")』のDVD版にてアテレコに挑戦、声優デビューも果たした。このほかには[TM NETWORKマニアとしての側面も持っており](../Page/TM_NETWORK.md "wikilink")、TM NETWORKのメンバーである[木根尚登](https://ja.wikipedia.org/wiki/木根尚登 "wikilink")をして「もうすっごくよく知ってて、忘れて欲しいくらい」と言わしめるほどの知識を有する。なお、過去にSURFACEとして[TAKAの紹介で](https://ja.wikipedia.org/wiki/TAKA_\(Libraian\) "wikilink")[テレフォンショッキング](https://ja.wikipedia.org/wiki/テレフォンショッキング "wikilink")に出演。21世紀最初のゲストとなった。
+    大のゲーム好き、ゲーム機器マニアでもあり、[プレイステーション2を](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")2台所有し2画面でプレイしているほか、[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")も2台所有しているという。レコーディングの合間に、メンバー間でブームを巻き起こしたと語っている。また漫画およびアニメ好きでもあり、いつか卒業しようと思っているのに「[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")」の購入が止められないと語っている。アニメ好きが高じて[声優](../Page/声優.md "wikilink")業にも興味を持ち、2006年6月には自身が主題歌を担当したアニメ『[CLUSTER EDGE](../Page/CLUSTER_EDGE.md "wikilink")』のDVD版にてアテレコに挑戦、声優デビューも果たした。このほかには[TM NETWORKマニアとしての側面も持っており](../Page/TM_NETWORK.md "wikilink")、TM NETWORKのメンバーである[木根尚登](https://ja.wikipedia.org/wiki/木根尚登 "wikilink")をして「もうすっごくよく知ってて、忘れて欲しいくらい」と言わしめるほどの知識を有する。なお、過去にSURFACEとして[TAKAの紹介で](https://ja.wikipedia.org/wiki/TAKA_\(Libraian\) "wikilink")[テレフォンショッキング](https://ja.wikipedia.org/wiki/テレフォンショッキング "wikilink")に出演。21世紀最初のゲストとなった。
     2010年11月にミニアルバム「[I](https://ja.wikipedia.org/wiki/I_\(椎名慶治のアルバム\) "wikilink")」を発売し、ソロデビューを果たした。
 
 **[永谷 喬夫](https://ja.wikipedia.org/wiki/永谷喬夫 "wikilink")**（ながたに たかお、 - ）
 
   -
-    [ギター](../Page/ギター.md "wikilink")担当。他にも[キーボードや](../Page/キーボード_\(楽器\).md "wikilink")[ベース](../Page/ベース_\(弦楽器\).md "wikilink")、[プログラミングなどを手がける](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")。また、作曲・[編曲](../Page/編曲.md "wikilink")および[ミキシング](../Page/ミキシング.md "wikilink")作業のほとんどを担当する。
+    [ギター](../Page/ギター.md "wikilink")担当。他にも[キーボードや](../Page/キーボード_\(楽器\).md "wikilink")[ベース](../Page/ベース_\(弦楽器\).md "wikilink")、[プログラミングなどを手がける](../Page/ミュージックシーケンサー.md "wikilink")。また、作曲・[編曲](../Page/編曲.md "wikilink")および[ミキシング](../Page/ミキシング.md "wikilink")作業のほとんどを担当する。
     東京都足立区出身。実家は[北千住](https://ja.wikipedia.org/wiki/北千住 "wikilink")の[酒屋](../Page/酒屋.md "wikilink")で、家族は両親のほか、年の離れた2人の姉がいる。酒屋には両親がCDショップでCDを買ったときにもらったデビューからのポスターを飾っていたが、後に本人が外してほしいと希望したため母親がはずしたという。
     [高校時代は軽音部に所属](https://ja.wikipedia.org/wiki/高等学校 "wikilink")\[1\]。相方の椎名とは正反対で酒好きであり、酒にまつわるエピソード、特に失敗談が暴露されることが度々ある。
     デビューから2002年まではセミロン毛やヘアワックスで遊べる程度の長さのヘアスタイルを保っていたが、2003年にスキンヘッドにし、以来2009年3月現在まで「坊主頭に無精髭」が定番スタイルとなっている（ただし、人前に出る際はたいていハンチングやベースボールキャップ、カウボーイハット等の[帽子](../Page/帽子.md "wikilink")を着用する）。
@@ -68,7 +68,7 @@
 
 ### 2005年～解散
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")10月、ソニー・ミュージックレコーズに移籍。これに併せユニット名も[大文字](../Page/大文字.md "wikilink")「SURFACE」から[小文字](../Page/小文字.md "wikilink")「surface」に改名する。
+[2005年](../Page/2005年.md "wikilink")10月、ソニー・ミュージックレコーズに移籍。これに併せユニット名も[大文字](../Page/大文字.md "wikilink")「SURFACE」から[小文字](../Page/小文字.md "wikilink")「surface」に改名する。
 
 2005年11月、「surface Re:START \~once in a life time\~」開催。
 
@@ -114,10 +114,10 @@
 | 15th      | 2003年[7月2日](../Page/7月2日.md "wikilink")                                                     | **[アイムファインセンキューアンジュー?](https://ja.wikipedia.org/wiki/アイムファインセンキューアンジュー? "wikilink")**         |                                                                                                                                                                                             | 38位       |
 | 16th      | [2004年](../Page/2004年.md "wikilink")[10月27日](../Page/10月27日.md "wikilink")                  | **[フレーム](https://ja.wikipedia.org/wiki/フレーム_\(SURFACEの曲\) "wikilink")**                       | 初回盤・通常盤の2形態で発売                                                                                                                                                                              | 44位       |
 | surface名義 |                                                                                             |                                                                                               |                                                                                                                                                                                             |           |
-| 17th      | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月5日](../Page/10月5日.md "wikilink") | **[Re:START](https://ja.wikipedia.org/wiki/Re:START "wikilink")**                             | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『\[\[焼きたて                                                                                                                        | ジャぱん|焼きたて |
-| 18th      | 2005年[11月23日](../Page/11月23日.md "wikilink")                                                 | **[FLY HIGH](https://ja.wikipedia.org/wiki/FLY_HIGH_\(surfaceの曲\) "wikilink")**               | テレビ東京系アニメ『[CLUSTER EDGE](https://ja.wikipedia.org/wiki/CLUSTER_EDGE "wikilink")』オープニングテーマ                                                                                                   | 33位       |
+| 17th      | [2005年](../Page/2005年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")                    | **[Re:START](https://ja.wikipedia.org/wiki/Re:START "wikilink")**                             | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『\[\[焼きたて                                                                                                                        | ジャぱん|焼きたて |
+| 18th      | 2005年[11月23日](../Page/11月23日.md "wikilink")                                                 | **[FLY HIGH](https://ja.wikipedia.org/wiki/FLY_HIGH_\(surfaceの曲\) "wikilink")**               | テレビ東京系アニメ『[CLUSTER EDGE](../Page/CLUSTER_EDGE.md "wikilink")』オープニングテーマ                                                                                                                      | 33位       |
 | 19th      | [2006年](../Page/2006年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")                      | **[ココロのつぼみ](https://ja.wikipedia.org/wiki/ココロのつぼみ "wikilink")**                               | テレビ東京系アニメ『CLUSTER EDGE』エンディングテーマ                                                                                                                                                            | 37位       |
-| 20th      | [2007年](../Page/2007年.md "wikilink")[5月9日](../Page/5月9日.md "wikilink")                      | **[夢の続きへ](https://ja.wikipedia.org/wiki/夢の続きへ "wikilink")**                                   | テレビ東京系アニメ『[D.Gray-man](https://ja.wikipedia.org/wiki/D.Gray-man "wikilink")』エンディングテーマ                                                                                                       | 28位       |
+| 20th      | [2007年](../Page/2007年.md "wikilink")[5月9日](../Page/5月9日.md "wikilink")                      | **[夢の続きへ](https://ja.wikipedia.org/wiki/夢の続きへ "wikilink")**                                   | テレビ東京系アニメ『[D.Gray-man](../Page/D.Gray-man.md "wikilink")』エンディングテーマ                                                                                                                          | 28位       |
 | 21st      | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月30日](../Page/4月30日.md "wikilink") | **[素直な虹/情熱マイソウル](https://ja.wikipedia.org/wiki/素直な虹/情熱マイソウル "wikilink")**                     | それぞれ、テレビ東京系アニメ『[NARUTO -ナルト- 疾風伝](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_疾風伝 "wikilink")』エンディングテーマ / テレビドラマ『[東京ゴーストトリップ](https://ja.wikipedia.org/wiki/東京ゴーストトリップ "wikilink")』オープニングテーマ | 27位       |
 
 ### アルバム
@@ -281,7 +281,7 @@
 
   - [喜多修平](../Page/喜多修平.md "wikilink")
 
-:\* 「[Breakin' through](https://ja.wikipedia.org/wiki/Breakin'_through "wikilink")」（作詞：椎名慶治、作曲：[TAKUYA](https://ja.wikipedia.org/wiki/TAKUYA "wikilink")）
+:\* 「[Breakin' through](https://ja.wikipedia.org/wiki/Breakin'_through "wikilink")」（作詞：椎名慶治、作曲：[TAKUYA](../Page/TAKUYA.md "wikilink")）
 
 :\* 「Determination」（作詞：椎名慶治、作曲：[y@suo ohtani](../Page/大谷靖夫.md "wikilink")）
 

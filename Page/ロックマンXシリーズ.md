@@ -27,7 +27,7 @@
   - **[ロックマンX サイバーミッション](../Page/ロックマンX_サイバーミッション.md "wikilink")**（[GB](../Page/ゲームボーイ.md "wikilink")、VC）
   - **[ロックマンX2 ソウルイレイザー](../Page/ロックマンX2_ソウルイレイザー.md "wikilink")**（[GBC](../Page/ゲームボーイカラー.md "wikilink")、VC）
   - **[ロックマンX コマンドミッション](../Page/ロックマンX_コマンドミッション.md "wikilink")**（PS2、[GC](../Page/ニンテンドーゲームキューブ.md "wikilink")）
-  - **[イレギュラーハンターX](../Page/イレギュラーハンターX.md "wikilink")**（[PSP](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")）
+  - **[イレギュラーハンターX](../Page/イレギュラーハンターX.md "wikilink")**（[PSP](../Page/PlayStation_Portable.md "wikilink")）
   - **[ロックマンX DiVE](https://ja.wikipedia.org/wiki/ロックマンX_DiVE "wikilink")**（[Android](../Page/Android.md "wikilink")、[iOS](https://ja.wikipedia.org/wiki/iOS "wikilink")）
 
 以下はコレクションソフト。
@@ -105,13 +105,13 @@
 ### 人間
 
   - Dr.ケイン（Dr.Cain）
-    声 - [宮澤正](https://ja.wikipedia.org/wiki/宮澤正 "wikilink")（『イレギュラーハンターX』）
+    声 - [宮澤正](../Page/宮澤正.md "wikilink")（『イレギュラーハンターX』）
     Xシリーズの時代におけるロボット工学の権威。エックスを発見し覚醒させ、また彼をモデルにライト博士とDr.ワイリー以外で初めてレプリロイドを造った偉人でもある。
     ライト博士の死去後、人間型思考回路を持つロボットのノウハウは失われたが、ある日ケイン博士は、ライト博士の研究所跡と思われる遺跡で彼の遺作であるエックスを発見、そのロボットより人間に近いエックスを見て解析を試みるが、彼の技術をもってしてもブラックボックス（解析不能の部分）ばかりでほとんど解析することはできなかった。しかし、その中で一部解析できたデータを基に、独自の技術を加えてレプリロイドを完成させ、レプリロイド工学の第一人者となったのである。その後イレギュラーハンターを組織し、精神的指導者としてエックス、ゼロたちによくアドバイスをする。また、ライドチェイサーのチェバルやアディオンの設計者でもある。自分たちより遥か昔にこれほどのテクノロジーを持っていたエックスの製作者ライト博士には驚きと尊敬の念を持つ。
     本格的レプリロイドの第1号であるシグマの生みの親でもある。ゆえに、自らの息子同然であったシグマの暴走には、心を痛めている。
     『イレギュラーハンターX』収録のOVA『THE DAY OF Σ』では、生命維持装置を装着している衰弱した老人であり、最終的にはシグマの反乱の被害にあって死亡したかのように描かれている。
   - [Dr.ライト](../Page/トーマス・ライト_\(ロックマンシリーズ\).md "wikilink")（Dr.Right）
-    声 - [佐々山洋一](https://ja.wikipedia.org/wiki/佐々山洋一 "wikilink")（『X8』） / [麻生智久](https://ja.wikipedia.org/wiki/麻生智久 "wikilink")（『イレギュラーハンターX』）
+    声 - [佐々山洋一](https://ja.wikipedia.org/wiki/佐々山洋一 "wikilink")（『X8』） / [麻生智久](../Page/麻生智久.md "wikilink")（『イレギュラーハンターX』）
     ロボット工学の父とよばれる伝説的な科学者であり、エックスの開発者である。ロックマンを作った人物でもあり、エックスはその発展・進化型として開発されたと考えられる。その技術は百年後の世界でも解析不能なこと、それだけの科学力を持ちながら自らの力に溺れることなくその生涯を終えたことからも、彼がいかに偉人であったかがうかがえる。エックスのパワーアップパーツの製作者でもあり、エックスが戦いに身を投じる時はアーマーパーツを与え彼のサポートを行う。
     およそ100年前に亡くなったはずであるが、Xシリーズの時代の情勢を把握しているため、カプセルを通じてネットワーク上でプログラムとして生きていると推測されている。カプセル内でも本人の意識はあるらしく、例えばゼロでカプセルに赴いた場合、エックスではないことを把握して会話をしている。しかしながら、エックスには一方的にメッセージを与える描写のみであり、まともな会話は一度もない。
   - [Dr.ワイリー](../Page/アルバート・W・ワイリー.md "wikilink")（Dr.Wily）
@@ -354,7 +354,7 @@
 ## 関連作品
 
   - [ポケットファイター](../Page/ポケットファイター.md "wikilink") - ランニングバトルステージの背景にエックス、ゼロ、アイリスが登場。
-  - [SNK VS. CAPCOM 激突カードファイターズ](https://ja.wikipedia.org/wiki/SNK_VS._CAPCOM_激突カードファイターズ "wikilink")
+  - [SNK VS. CAPCOM 激突カードファイターズ](../Page/SNK_VS._CAPCOM_激突カードファイターズ.md "wikilink")
   - [デッドライジング](../Page/デッドライジング.md "wikilink") - エックスの着ぐるみが登場。
   - [TATSUNOKO VS. CAPCOM ULTIMATE ALL-STARS](https://ja.wikipedia.org/wiki/TATSUNOKO_VS._CAPCOM_ULTIMATE_ALL-STARS "wikilink") - ゼロがプレイヤーキャラクターとして登場する他、一部のキャラクターがエンディングに登場。
   - [MARVEL VS. CAPCOM 3 Fate of Two Worlds](https://ja.wikipedia.org/wiki/MARVEL_VS._CAPCOM_3_Fate_of_Two_Worlds "wikilink") - ゼロが登場。

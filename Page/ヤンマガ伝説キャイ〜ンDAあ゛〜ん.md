@@ -9,7 +9,7 @@
 
 [週刊ヤングマガジン](https://ja.wikipedia.org/wiki/週刊ヤングマガジン "wikilink")（[講談社](../Page/講談社.md "wikilink")）の[一社提供](../Page/一社提供.md "wikilink")で、そのため番組タイトルの最初の部分も「ヤングマガジン」を略して**ヤンマガ**となっている。
 
-[メインパーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[キャイ〜ン](../Page/キャイ〜ン.md "wikilink")の2人（[ウド鈴木](../Page/ウド鈴木.md "wikilink")、[天野ひろゆき](../Page/天野ひろゆき.md "wikilink")）。そのほか、なんとなくレギュラー出演ということで[ずん](../Page/ずん.md "wikilink")（当時:[La.おかき](https://ja.wikipedia.org/wiki/La.おかき "wikilink")）の[飯尾和樹](../Page/飯尾和樹.md "wikilink")も出演していた。[構成作家](https://ja.wikipedia.org/wiki/構成作家 "wikilink")は[有川周一](https://ja.wikipedia.org/wiki/有川周一 "wikilink")。[プロデューサー](../Page/プロデューサー.md "wikilink")はTBS[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")の[浦口直樹](https://ja.wikipedia.org/wiki/浦口直樹 "wikilink")。
+[メインパーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[キャイ〜ン](../Page/キャイ〜ン.md "wikilink")の2人（[ウド鈴木](../Page/ウド鈴木.md "wikilink")、[天野ひろゆき](../Page/天野ひろゆき.md "wikilink")）。そのほか、なんとなくレギュラー出演ということで[ずん](../Page/ずん.md "wikilink")（当時:[La.おかき](https://ja.wikipedia.org/wiki/La.おかき "wikilink")）の[飯尾和樹](../Page/飯尾和樹.md "wikilink")も出演していた。[構成作家](https://ja.wikipedia.org/wiki/構成作家 "wikilink")は[有川周一](https://ja.wikipedia.org/wiki/有川周一 "wikilink")。[プロデューサー](../Page/プロデューサー.md "wikilink")はTBS[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")の[浦口直樹](../Page/浦口直樹.md "wikilink")。
 
 ## 放送時間
 
@@ -58,7 +58,7 @@
   - [明石家さんま](../Page/明石家さんま.md "wikilink")（1999年12月25日）
   - [関根勤](../Page/関根勤.md "wikilink")（2000年6月17日）
   - [かたせ梨乃](../Page/かたせ梨乃.md "wikilink")（2000年8月26日）
-  - [加藤未央](../Page/加藤未央.md "wikilink")（2001年3月31日。[ミスマガジン](https://ja.wikipedia.org/wiki/ミスマガジン "wikilink")2001グランプリ受賞直後に出演）
+  - [加藤未央](../Page/加藤未央.md "wikilink")（2001年3月31日。[ミスマガジン](../Page/ミスマガジン.md "wikilink")2001グランプリ受賞直後に出演）
 
 ### 番組にしばしば登場したゲスト
 

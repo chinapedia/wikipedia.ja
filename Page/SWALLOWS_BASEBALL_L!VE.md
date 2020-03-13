@@ -1,11 +1,11 @@
 > この記事は[SWALLOWS BASEBALL L!VE](https://ja.wikipedia.org/wiki/SWALLOWS_BASEBALL_L!VE)から翻訳されています。
 
 
-『**Swallows Baseball L\!ve**』（スワローズ・ベースボール・ライブ）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")から[フジテレビONE](https://ja.wikipedia.org/wiki/フジテレビONE "wikilink")で放送されている[東京ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")主催ゲームの[プロ野球中継](../Page/プロ野球中継.md "wikilink")番組。年ごとに名称の末尾に西暦年を付して、『Swallows Baseball L\!ve **2020**』のように表記されている。
+『**Swallows Baseball L\!ve**』（スワローズ・ベースボール・ライブ）は、[2005年](../Page/2005年.md "wikilink")から[フジテレビONE](https://ja.wikipedia.org/wiki/フジテレビONE "wikilink")で放送されている[東京ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")主催ゲームの[プロ野球中継](../Page/プロ野球中継.md "wikilink")番組。年ごとに名称の末尾に西暦年を付して、『Swallows Baseball L\!ve **2020**』のように表記されている。
 
 ## 概要
 
-[フジテレビが](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[放映権を持つ](https://ja.wikipedia.org/wiki/放映権_\(日本プロ野球\) "wikilink")、[東京ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")主催全試合を中継している。
+[フジテレビが](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[放映権を持つ](../Page/放映権_\(日本プロ野球\).md "wikilink")、[東京ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")主催全試合を中継している。
 
 元々は[地上波](../Page/地上波.md "wikilink")でも2005年から『**BASEBALL L\!VE**』という番組名を使用しており、そちらは[2007年](../Page/2007年.md "wikilink")に『[BASEBALL SPECIAL〜野球道〜](https://ja.wikipedia.org/wiki/BASEBALL_SPECIAL〜野球道〜 "wikilink")』に改題（2012年の「BASEBALL LIVE-」に戻す）したものの、『BASEBALL L\!VE』という名称は引き続き当番組で使用されている。2013年度の正式題名は「SWALLOWS BASEBALL L\!VE」のままであるがタイトルのロゴは地上波の「[enjoy\! Baseball](https://ja.wikipedia.org/wiki/enjoy!_Baseball "wikilink")」を一部改変した「**enjoy\! SWALLOWS**」のロゴがオープニングやイニング交代時の[アイキャッチ](https://ja.wikipedia.org/wiki/アイキャッチ "wikilink")（スコアボード表示）に使われている。2014年は正式題名そのものが地上波と同一デザインに変更。
 
@@ -13,7 +13,7 @@
 
 対[巨人戦を](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")[BSフジ](../Page/BSフジ.md "wikilink")で同時放送する場合は、CS用の簡略化版をそのまま使用するが、地上波放送がある場合は地上波と衛星波で付け替えが異なっている。
 
-レギュラーシーズンを初め、[セ・パ交流戦](https://ja.wikipedia.org/wiki/セ・パ交流戦 "wikilink")や[クライマックスシリーズ](../Page/クライマックスシリーズ.md "wikilink")全試合のほか、[オープン戦](../Page/オープン戦.md "wikilink")も中継対象としている。2015年はヤクルトが進出した日本シリーズも神宮球場開催分は『SWALLOWS BASEBALL L\!VE』名義ではないものの、地上波と別実況で生中継を行った。
+レギュラーシーズンを初め、[セ・パ交流戦](../Page/セ・パ交流戦.md "wikilink")や[クライマックスシリーズ](../Page/クライマックスシリーズ.md "wikilink")全試合のほか、[オープン戦](../Page/オープン戦.md "wikilink")も中継対象としている。2015年はヤクルトが進出した日本シリーズも神宮球場開催分は『SWALLOWS BASEBALL L\!VE』名義ではないものの、地上波と別実況で生中継を行った。
 
 2007年までは対巨人戦に限り当番組の名称は使われなかった。これは、当番組の開始以前から[トップ&リレー中継を行ってきた名残によるもので](../Page/プロ野球トップ&リレー中継.md "wikilink")、[2006年](../Page/2006年.md "wikilink")と2007年は『**プロ野球中継（西暦）**』名義（この名称は、ヤクルトが絡まない対戦カードの中継で使われている〈主に[フジテレビTWO](https://ja.wikipedia.org/wiki/フジテレビTWO "wikilink")で放送〉）とされていた。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")からは、他の対戦カードと同様に当番組に編入された。
 
@@ -50,7 +50,7 @@
 
 2011年から2012年までは3時間30分ルールによる大幅な試合時間の延長が考えにくい為に基準放送時間が「17:50 - 22:20」（デーマッチである場合は試合開始10分前 - 4時間20分後、再放送は原則翌日 7:00 - 11:30）となっていた（試合延長時は従来通り延長を行っている）。2013年より3時間30分ルールが撤廃されたことから再び23時00分（デーマッチは5時間後）までの基準放送時間となった。
 
-なお、フジテレビONEでは[フジテレビ系列局が](../Page/フジネットワーク.md "wikilink")[放映権を持つ巨人のビジターゲーム](https://ja.wikipedia.org/wiki/放映権_\(日本プロ野球\) "wikilink")（[中日](https://ja.wikipedia.org/wiki/中日ドラゴンズ "wikilink")、[阪神](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")、[広島主催](../Page/広島東洋カープ.md "wikilink")）も中継の対象としているが（番組名は『**プロ野球中継（西暦）**』）、当番組（ヤクルトの主催ゲーム）と重なった場合はこちらが優先され、巨人戦は[フジテレビTWO](https://ja.wikipedia.org/wiki/フジテレビTWO "wikilink")で中継を行う（サッカーなど、他のスポーツ中継と重なる場合も同様）。
+なお、フジテレビONEでは[フジテレビ系列局が](../Page/フジネットワーク.md "wikilink")[放映権を持つ巨人のビジターゲーム](../Page/放映権_\(日本プロ野球\).md "wikilink")（[中日](../Page/中日ドラゴンズ.md "wikilink")、[阪神](../Page/阪神タイガース.md "wikilink")、[広島主催](../Page/広島東洋カープ.md "wikilink")）も中継の対象としているが（番組名は『**プロ野球中継（西暦）**』）、当番組（ヤクルトの主催ゲーム）と重なった場合はこちらが優先され、巨人戦は[フジテレビTWO](https://ja.wikipedia.org/wiki/フジテレビTWO "wikilink")で中継を行う（サッカーなど、他のスポーツ中継と重なる場合も同様）。
 
 また、2016年からはフジテレビTWOが西武戦を球団制作で中継するようになったため、ヤクルト戦・西武戦とFNS各局制作の中日・阪神・主催巨人戦（地上波が録画の場合を含む）が重複した場合、広島・中日主催時はJ SPORTSまたはBSフジでの放送\[14\]（ただし2016年8月2日のように、フジONE（「ヤクルト対広島」）、TWO（「西武対ソフトバンク」）、並びにフジ系の東海テレビ制作の「中日対巨人」がすべて同時刻重複開催が生じたため、本来の担当主催球団分は生中継し、「中日対巨人」は、BSフジと同内容のものを当日深夜（3日未明）にフジONEで初回録画となった試合もあった）、阪神主催時はスカイ・A、GAORA、テレ朝チャンネルのいずれか（いずれもTigers-ai制作）での放送とすることがあるが、阪神主催時は地上波が録画中継の時を中心にヤクルト戦または西武戦と重複がなくても前述各局での放送となる場合がある。
 
@@ -76,8 +76,8 @@
   - [大矢明彦](../Page/大矢明彦.md "wikilink") (ニッポン放送でも解説) ★⚫
   - [高木豊](../Page/高木豊.md "wikilink") (STVラジオでも解説) ★⚫
   - [達川光男](../Page/達川光男.md "wikilink") (テレビ新広島・J SPORTSでも解説) ★⚫
-  - [齊藤明雄](https://ja.wikipedia.org/wiki/齊藤明雄 "wikilink")（テレビ神奈川・J SPORTSでも解説）★⚫
-  - [池田親興](https://ja.wikipedia.org/wiki/池田親興 "wikilink")（テレビ西日本・ソフトバンク球団制作中継でも解説）★⚫
+  - [齊藤明雄](../Page/齊藤明雄.md "wikilink")（テレビ神奈川・J SPORTSでも解説）★⚫
+  - [池田親興](../Page/池田親興.md "wikilink")（テレビ西日本・ソフトバンク球団制作中継でも解説）★⚫
   - [斎藤雅樹](../Page/斎藤雅樹.md "wikilink") (文化放送でも解説) ★⚫
   - [大久保博元](https://ja.wikipedia.org/wiki/大久保博元 "wikilink")(文化放送でも解説) ★⚫
   - [田尾安志](../Page/田尾安志.md "wikilink")（関西テレビ・テレビ愛知・ニッポン放送でも解説）★⚫
@@ -135,7 +135,7 @@
   - [森昭一郎](../Page/森昭一郎.md "wikilink")
   - [西岡孝洋](../Page/西岡孝洋.md "wikilink") - 2011年4月より『[すぽると\!](../Page/すぽると!.md "wikilink")』平日キャスター就任のため担当から外れていたが、2013年復帰（2014年までは主に金-日曜日開催分数試合　2015年本格復帰）
   - [鈴木芳彦](../Page/鈴木芳彦.md "wikilink")
-  - [田淵裕章](https://ja.wikipedia.org/wiki/田淵裕章 "wikilink")
+  - [田淵裕章](../Page/田淵裕章.md "wikilink")
   - [小穴浩司](../Page/小穴浩司.md "wikilink") - 他部署異動のため2011年度より担当から外れていたが、2015年度より復帰。
   - [谷岡慎一](https://ja.wikipedia.org/wiki/谷岡慎一 "wikilink")
       - 次の人物は、他番組出演のため不定期・かつ曜日限定での参加
@@ -164,7 +164,7 @@
   - [長坂哲夫](../Page/長坂哲夫.md "wikilink")
   - [奥寺健](../Page/奥寺健.md "wikilink") - 『[FNNスピーク](../Page/FNNスピーク.md "wikilink")』のキャスターとなった2007年度以降は担当せず。
   - [佐野瑞樹](../Page/佐野瑞樹_\(アナウンサー\).md "wikilink")
-  - [宮瀬茉祐子](https://ja.wikipedia.org/wiki/宮瀬茉祐子 "wikilink") - 2009年、レディースデーの企画としてイニング限定で担当、2011年6月末でフジテレビ退職。
+  - [宮瀬茉祐子](../Page/宮瀬茉祐子.md "wikilink") - 2009年、レディースデーの企画としてイニング限定で担当、2011年6月末でフジテレビ退職。
   - [松元真一郎](../Page/松元真一郎.md "wikilink") - 2012年末フジテレビ退職（フリー後も『プロ野球ニュース』レポーター担当は継続）
   - [吉田伸男](../Page/吉田伸男.md "wikilink")
   - [福永一茂](../Page/福永一茂.md "wikilink")
@@ -193,7 +193,7 @@
   - [石本沙織](https://ja.wikipedia.org/wiki/石本沙織 "wikilink")
   - [斉藤舞子](https://ja.wikipedia.org/wiki/斉藤舞子 "wikilink")
   - [遠藤玲子](https://ja.wikipedia.org/wiki/遠藤玲子 "wikilink")
-  - [宮瀬茉祐子](https://ja.wikipedia.org/wiki/宮瀬茉祐子 "wikilink")
+  - [宮瀬茉祐子](../Page/宮瀬茉祐子.md "wikilink")
   - [松村未央](https://ja.wikipedia.org/wiki/松村未央 "wikilink")
   - [細貝沙羅](https://ja.wikipedia.org/wiki/細貝沙羅 "wikilink")
   - [三田友梨佳](https://ja.wikipedia.org/wiki/三田友梨佳 "wikilink")
@@ -233,7 +233,7 @@
   - 試合前・試合後のコーナーについて（2006年まで）
       -
         試合開始30分前（中継の開始後すぐ）には、ヤクルトの前日の試合を[スポーツ新聞](../Page/スポーツ新聞.md "wikilink")や『[プロ野球ニュース](../Page/プロ野球ニュース.md "wikilink")』を用いて振り返る『Let's FLY SWALLOWS』というコーナーがあった。
-        また、ヤクルトが勝利した場合は、勝利に貢献した選手一人を放送ブース（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")はクラブハウス）に招き、解説者や[磯山さやか](https://ja.wikipedia.org/wiki/磯山さやか "wikilink")とともに振り返る『プレイバック アカデミー643』というコーナーがあった。
+        また、ヤクルトが勝利した場合は、勝利に貢献した選手一人を放送ブース（[2005年](../Page/2005年.md "wikilink")はクラブハウス）に招き、解説者や[磯山さやか](https://ja.wikipedia.org/wiki/磯山さやか "wikilink")とともに振り返る『プレイバック アカデミー643』というコーナーがあった。
         ちなみに、この「643」は磯山が好きなプレイ「643のダブルプレー」に由来している。
   - 長時間ゲームの中継について
       -
@@ -246,7 +246,7 @@
 
   - [2015年](../Page/2015年.md "wikilink")[8月15日](../Page/8月15日.md "wikilink")阪神戦は、フジテレビONE加入件数500万件突破記念として、女優で[アイドリング\!\!\!](../Page/アイドリング!!!.md "wikilink")の[横山ルリカ](../Page/横山ルリカ.md "wikilink")が始球式、また特別ゲストに[ウルトラマンシリーズ](https://ja.wikipedia.org/wiki/ウルトラマンシリーズ "wikilink")（『[ウルトラ怪獣散歩](https://ja.wikipedia.org/wiki/ウルトラ怪獣散歩 "wikilink")』に出演）の怪獣[ダダと](../Page/ダダ_\(ウルトラ怪獣\).md "wikilink")[メフィラス星人](../Page/メフィラス星人.md "wikilink")が出演した。
   - 2015年[8月25日](../Page/8月25日.md "wikilink")巨人戦は、ゲスト解説に[藤川球児](https://ja.wikipedia.org/wiki/藤川球児 "wikilink")を迎えたほか、[2015年ワールドカップバレーボール](https://ja.wikipedia.org/wiki/2015年ワールドカップバレーボール "wikilink")コメンテーターの[竹下佳江](https://ja.wikipedia.org/wiki/竹下佳江 "wikilink")、[大山加奈](https://ja.wikipedia.org/wiki/大山加奈 "wikilink")が始球式に参加、また『[ニッポン放送ショウアップナイター](../Page/ニッポン放送ショウアップナイター.md "wikilink")』とのコラボ実況として、LFの放送席にいる[山田透](../Page/山田透.md "wikilink")、[野村克也](../Page/野村克也.md "wikilink")、関根潤三との掛け合いを行った\[28\]。
-  - [2016年](../Page/2016年.md "wikilink")[6月18日](../Page/6月18日.md "wikilink")西武戦は、姉妹番組であるフジテレビTWO『[LIONS BASEBALL L\!VE](https://ja.wikipedia.org/wiki/LIONS_BASEBALL_L!VE "wikilink")』\[29\]との共同中継を行った。本番組（解説：[石井一久](../Page/石井一久.md "wikilink")、実況：[福永一茂](../Page/福永一茂.md "wikilink")）と『LIONS BASEBALL L\!VE』（解説：[谷沢健一](../Page/谷沢健一.md "wikilink")、実況：[田淵裕章](https://ja.wikipedia.org/wiki/田淵裕章 "wikilink")）、ヤクルト・西武それぞれ中心の目線で、一部映像を差し替えてそれぞれ別々の実況と解説で放送された（なお当日雨天中止の場合、その代替開催日にはTWOの編成上の関係で実施しない予定だった）\[30\]。
+  - [2016年](../Page/2016年.md "wikilink")[6月18日](../Page/6月18日.md "wikilink")西武戦は、姉妹番組であるフジテレビTWO『[LIONS BASEBALL L\!VE](https://ja.wikipedia.org/wiki/LIONS_BASEBALL_L!VE "wikilink")』\[29\]との共同中継を行った。本番組（解説：[石井一久](../Page/石井一久.md "wikilink")、実況：[福永一茂](../Page/福永一茂.md "wikilink")）と『LIONS BASEBALL L\!VE』（解説：[谷沢健一](../Page/谷沢健一.md "wikilink")、実況：[田淵裕章](../Page/田淵裕章.md "wikilink")）、ヤクルト・西武それぞれ中心の目線で、一部映像を差し替えてそれぞれ別々の実況と解説で放送された（なお当日雨天中止の場合、その代替開催日にはTWOの編成上の関係で実施しない予定だった）\[30\]。
 
 ## 脚注
 
@@ -257,7 +257,7 @@
   - [スワローズTV\!](https://ja.wikipedia.org/wiki/スワローズTV! "wikilink")
   - [フジテレビONE](https://ja.wikipedia.org/wiki/フジテレビONE "wikilink")
   - [フジテレビTWO](https://ja.wikipedia.org/wiki/フジテレビTWO "wikilink")
-  - [フジテレビ番組一覧](https://ja.wikipedia.org/wiki/フジテレビ番組一覧 "wikilink")
+  - [フジテレビ番組一覧](../Page/フジテレビ番組一覧.md "wikilink")
   - [フジ・メディア・テクノロジー](https://ja.wikipedia.org/wiki/フジ・メディア・テクノロジー "wikilink")（2013年7月以後製作協力を担当）
   - [八峯テレビ](../Page/八峯テレビ.md "wikilink")（2013年6月まで製作協力を担当）
   - [プロ野球ニュース](../Page/プロ野球ニュース.md "wikilink")

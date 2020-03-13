@@ -77,7 +77,7 @@
 ### テレビ番組
 
   - That's 子育テイメントTV\!（[BS日テレ](../Page/BS日本.md "wikilink")、2013年4月 - ）
-  - [キミなら何つくる?](https://ja.wikipedia.org/wiki/キミなら何つくる? "wikilink")（[NHK Eテレ](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")、2014年4月9日 - ）**MC**
+  - [キミなら何つくる?](https://ja.wikipedia.org/wiki/キミなら何つくる? "wikilink")（[NHK Eテレ](../Page/NHK教育テレビジョン.md "wikilink")、2014年4月9日 - ）**MC**
 
 ### 過去
 
@@ -95,7 +95,7 @@
   - [ザ・イロモネア](https://ja.wikipedia.org/wiki/ウンナン極限ネタバトル!_ザ・イロモネア_笑わせたら100万円 "wikilink")（[TBS](../Page/TBSテレビ.md "wikilink")）ゴールドラッシュ2008ではFINAL敗退、本戦では3rdステージ敗退
   - [ジャングルTV 〜タモリの法則〜](../Page/ジャングルTV_〜タモリの法則〜.md "wikilink")（毎日放送）ジャングルクッキングにレポーター役として出演
   - [お笑いDynamite\!](https://ja.wikipedia.org/wiki/お笑いDynamite! "wikilink")（TBS、2007年12月29日）キャッチコピーは「アットホームコメディ」
-  - [めちゃ<sup>2</sup>イケてるッ\!](../Page/めちゃ×2イケてるッ!.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、「[笑わず嫌い王決定戦](https://ja.wikipedia.org/wiki/笑わず嫌い王決定戦 "wikilink")」2008年3月8日）（「恋の中かま騒ぎ」、2008年10月25日、11月8日、2011年1月29日）（「近くへ行きたい」、2011年11月26日）
+  - [めちゃ<sup>2</sup>イケてるッ\!](../Page/めちゃ×2イケてるッ!.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、「[笑わず嫌い王決定戦](../Page/笑わず嫌い王決定戦.md "wikilink")」2008年3月8日）（「恋の中かま騒ぎ」、2008年10月25日、11月8日、2011年1月29日）（「近くへ行きたい」、2011年11月26日）
   - [あらびき団](https://ja.wikipedia.org/wiki/あらびき団 "wikilink")（[TBS](../Page/TBSテレビ.md "wikilink")、「チーム秒殺」として、2008年3月12日）その他不定期
   - [リンカーン](../Page/リンカーン_\(テレビ番組\).md "wikilink")（TBS、「第2回・真夏の芸人大運動会」、2008年8月12日\[前\]、2008年8月19日\[後\]）
   - [タモリのボキャブラ天国 大復活祭スペシャル](https://ja.wikipedia.org/wiki/ボキャブラ天国 "wikilink")（フジテレビ、2008年9月28日）キャッチコピーは「和牛の襲来」
@@ -171,7 +171,7 @@
 
 ### 書籍
 
-  - [フルーツ大統領](../Page/フルーツ大統領.md "wikilink")の笑王国（1996年11月、[マガジンハウス](https://ja.wikipedia.org/wiki/マガジンハウス "wikilink")）
+  - [フルーツ大統領](../Page/フルーツ大統領.md "wikilink")の笑王国（1996年11月、[マガジンハウス](../Page/マガジンハウス.md "wikilink")）
   - [ルミネtheよしもと](../Page/ルミネtheよしもと.md "wikilink")スペシャルガイドブック （2002年10月、[双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink")）
   - COWCOWのさかさになっちゃった！ （2012年8月、[アイフリーク](https://ja.wikipedia.org/wiki/アイフリークモバイル "wikilink")）　絵本アプリ「[こえほん](https://ja.wikipedia.org/wiki/こえほん "wikilink")」内配信
 

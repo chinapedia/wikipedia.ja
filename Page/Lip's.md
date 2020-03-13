@@ -5,15 +5,15 @@
 
 ## メンバー
 
-  - [加藤貴子](https://ja.wikipedia.org/wiki/加藤貴子_\(女優\) "wikilink")（[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[10月14日](../Page/10月14日.md "wikilink")） - 活動当時は、長老・お笑い[キャラ](https://ja.wikipedia.org/wiki/キャラ_\(コミュニケーション\) "wikilink")。しかし、Lip'sが、すぐに解散しなかったのは、彼女が[FM静岡に食い込んでグループとしてのレギュラーをつかんだためであり](../Page/静岡エフエム放送.md "wikilink")、その点では功績があったといえる。解散後の活躍は[別項参照](https://ja.wikipedia.org/wiki/加藤貴子_\(女優\) "wikilink")。愛称UCCミスハーフビターちゃん。
+  - [加藤貴子](https://ja.wikipedia.org/wiki/加藤貴子_\(女優\) "wikilink")（[1970年](../Page/1970年.md "wikilink")[10月14日](../Page/10月14日.md "wikilink")） - 活動当時は、長老・お笑い[キャラ](https://ja.wikipedia.org/wiki/キャラ_\(コミュニケーション\) "wikilink")。しかし、Lip'sが、すぐに解散しなかったのは、彼女が[FM静岡に食い込んでグループとしてのレギュラーをつかんだためであり](../Page/静岡エフエム放送.md "wikilink")、その点では功績があったといえる。解散後の活躍は[別項参照](https://ja.wikipedia.org/wiki/加藤貴子_\(女優\) "wikilink")。愛称UCCミスハーフビターちゃん。
 
 <!-- end list -->
 
-  - [吉村夏枝](https://ja.wikipedia.org/wiki/吉村夏枝 "wikilink")\[1\]（よしむら なつえ、[1973年](../Page/1973年.md "wikilink")[8月19日](../Page/8月19日.md "wikilink") - ） - 結成前は「[乙女塾](https://ja.wikipedia.org/wiki/乙女塾 "wikilink")」の1期生。ボーイッシュキャラで「Monkey吉村」略して「モン吉」と呼ばれた。[1992年](../Page/1992年.md "wikilink")現役アイドルのまま[anan（マガジンハウス）でヌードを披露し話題になる](https://ja.wikipedia.org/wiki/an・an "wikilink")。解散後の[1996年](../Page/1996年.md "wikilink")に映画「[目を閉じて抱いて](https://ja.wikipedia.org/wiki/目を閉じて抱いて "wikilink")」に出演し濡れ場ヌードを披露した。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に[Babble Bunnyのメンバーとして再デビューしたが](https://ja.wikipedia.org/wiki/Babble_Bunny "wikilink")、その後の動向は不明。愛称UCCミスオリジナルちゃん。
+  - [吉村夏枝](https://ja.wikipedia.org/wiki/吉村夏枝 "wikilink")\[1\]（よしむら なつえ、[1973年](../Page/1973年.md "wikilink")[8月19日](../Page/8月19日.md "wikilink") - ） - 結成前は「[乙女塾](../Page/乙女塾.md "wikilink")」の1期生。ボーイッシュキャラで「Monkey吉村」略して「モン吉」と呼ばれた。[1992年](../Page/1992年.md "wikilink")現役アイドルのまま[anan（マガジンハウス）でヌードを披露し話題になる](https://ja.wikipedia.org/wiki/an・an "wikilink")。解散後の[1996年](../Page/1996年.md "wikilink")に映画「[目を閉じて抱いて](https://ja.wikipedia.org/wiki/目を閉じて抱いて "wikilink")」に出演し濡れ場ヌードを披露した。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に[Babble Bunnyのメンバーとして再デビューしたが](https://ja.wikipedia.org/wiki/Babble_Bunny "wikilink")、その後の動向は不明。愛称UCCミスオリジナルちゃん。
 
 <!-- end list -->
 
-  - 山本京子\[2\]\[（やまもと きょうこ、[1975年](../Page/1975年.md "wikilink")[4月10日](../Page/4月10日.md "wikilink") - ） - [京都府](../Page/京都府.md "wikilink")[京都市](../Page/京都市.md "wikilink")出身。結成前[第1回国民的美少女コンテストにて](../Page/全日本国民的美少女コンテスト.md "wikilink")、音楽部門賞受賞の経歴有り。「[美少女学園](https://ja.wikipedia.org/wiki/美少女学園 "wikilink")」（テレビ朝日系）に出演の実績がある。愛称UCCミスビターちゃん。
+  - 山本京子\[2\]\[（やまもと きょうこ、[1975年](../Page/1975年.md "wikilink")[4月10日](../Page/4月10日.md "wikilink") - ） - [京都府](../Page/京都府.md "wikilink")[京都市](../Page/京都市.md "wikilink")出身。結成前[第1回国民的美少女コンテストにて](../Page/全日本国民的美少女コンテスト.md "wikilink")、音楽部門賞受賞の経歴有り。「[美少女学園](../Page/美少女学園.md "wikilink")」（テレビ朝日系）に出演の実績がある。愛称UCCミスビターちゃん。
       - Lip's解散後ソロで「[Choo Choo TRAIN](../Page/Choo_Choo_TRAIN.md "wikilink")」（[ZOO](../Page/ZOO_\(ダンス&ボーカルユニット\).md "wikilink")、1991年）のカバーも出し、ZOOと共に日本武道館や大阪城ホール、名古屋センチュリーホールに出演。[林海象](../Page/林海象.md "wikilink")監督三部作映画「[私立探偵濱マイクシリーズ第二弾 〜遥かな時代の階段を](../Page/私立探偵_濱マイク.md "wikilink")」のエンディングテーマ「水の音（主演の永瀬正敏作詞）」のリリースと共に、同映画に女優としても出演をしている。
       - その後、名義をKyoko yamamotoに変え、本格的なソロ活動開始。作詞、作曲も手掛けるようになり「CATCH〜Take hold of love」にてデビュー。Mini Album「Monopoly」リリース後、渡米し、著名なBack Musicianのもとでレコーディングした2nd single「刹那の花火を浴びましょう」とFull Album「[IN SENSITIVE](https://ja.wikipedia.org/wiki/IN_SENSITIVE "wikilink")」を続けて発表。「IN SENSITIVE」内の楽曲「海の果て」では、[岩田屋](../Page/岩田屋.md "wikilink")[Z-SIDE](https://ja.wikipedia.org/wiki/Z-SIDE "wikilink")のCM songと共に、本人自らも出演している。3rd single「Drive Me Crazy」の発表当時は、TV、AM\&FM RADIO、スカパーの音楽Channel「VEWSIC」等、多数のMC活動で活躍を行う。
       - 4年間の休業の後、長本京子としてモデル業に専念。CM、ドラマ等にも出演。
@@ -24,7 +24,7 @@
   - グループであったが、それぞれ所属事務所が異なっていた（加藤・吉村：[ソニー・ミュージックアーティスツ](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")、山本：スリーシーズン）。
   - 正式なファンクラブはなかったが、ファンサークルとしてメンバー（特に加藤）が製作した会報を数回、ファンに向けて発行していた。
   - 同時期に活躍したアイドルグループ（[CoCo](../Page/CoCo_\(アイドルグループ\).md "wikilink")、[ribbonなど](https://ja.wikipedia.org/wiki/ribbon_\(アイドルグループ\) "wikilink")）と違って、テレビ番組の露出が少なかったため、いわゆるB級のアイドルユニットとして終わった。
-  - [楽天使](../Page/楽天使.md "wikilink")（[中山忍](https://ja.wikipedia.org/wiki/中山忍 "wikilink")・[田山真美子](https://ja.wikipedia.org/wiki/田山真美子 "wikilink")・[河田純子](https://ja.wikipedia.org/wiki/河田純子 "wikilink")）、[宍戸留美](../Page/宍戸留美.md "wikilink")とともに期間限定ユニット「[七つ星](../Page/七つ星_\(アイドルグループ\).md "wikilink")」に参加した。
+  - [楽天使](../Page/楽天使.md "wikilink")（[中山忍](https://ja.wikipedia.org/wiki/中山忍 "wikilink")・[田山真美子](../Page/田山真美子.md "wikilink")・[河田純子](https://ja.wikipedia.org/wiki/河田純子 "wikilink")）、[宍戸留美](../Page/宍戸留美.md "wikilink")とともに期間限定ユニット「[七つ星](../Page/七つ星_\(アイドルグループ\).md "wikilink")」に参加した。
   - 初期の2曲からDANCE調に方向転換をした後の2曲について、後に加藤は「はっきり言って失敗」と語っている。
 
 ## ディスコグラフィ

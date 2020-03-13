@@ -21,7 +21,7 @@
 
 [2004年](../Page/2004年.md "wikilink")1月、韓国で路上ライブを決行し大きな話題を呼ぶ\[11\]。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")に本社を置く世界的レーベルのロードランナーに移籍して本格的に世界進出を果たし、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")（[マンチェスター](../Page/マンチェスター.md "wikilink")、[ロンドン](../Page/ロンドン.md "wikilink")）、オランダ（[アムステルダム](https://ja.wikipedia.org/wiki/アムステルダム "wikilink")）にてライブを敢行\[12\]。同年、日本全国45公演のツアーを敢行。ツアーファイナルは韓国[ソウルにて行われた](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")\[13\]。
+[2005年](../Page/2005年.md "wikilink")、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")に本社を置く世界的レーベルのロードランナーに移籍して本格的に世界進出を果たし、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")（[マンチェスター](../Page/マンチェスター.md "wikilink")、[ロンドン](../Page/ロンドン.md "wikilink")）、オランダ（[アムステルダム](https://ja.wikipedia.org/wiki/アムステルダム "wikilink")）にてライブを敢行\[12\]。同年、日本全国45公演のツアーを敢行。ツアーファイナルは韓国[ソウルにて行われた](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")\[13\]。
 
 [2006年](../Page/2006年.md "wikilink")3月、初の[USツアー](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")（全9公演）を行う\[14\]。[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")「カナディアンミュージックフェスティバル」「[サウス・バイ・サウスウエスト](https://ja.wikipedia.org/wiki/サウス・バイ・サウスウエスト "wikilink")」に出演。
 
@@ -43,7 +43,7 @@
       - 本名：大山渉。[東京都](../Page/東京都.md "wikilink")[目黒区](https://ja.wikipedia.org/wiki/目黒区 "wikilink")生まれ、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[茅ヶ崎市](../Page/茅ヶ崎市.md "wikilink")育ち。AB型、180cm。\[17\]
       - ピスタチオ・ボーイズでは"wataru-chan"としてサックスを演奏。」
       - B.M.Wの由来についてはB=big（大） M=mountain（山） W=wataru（渉）。B.M.Wだが自動車免許は取得していない。
-      - 出身校の[神奈川県立鶴嶺高等学校](https://ja.wikipedia.org/wiki/神奈川県立鶴嶺高等学校 "wikilink")では[柔道](../Page/柔道.md "wikilink")部に所属し有段者でもある。
+      - 出身校の[神奈川県立鶴嶺高等学校](../Page/神奈川県立鶴嶺高等学校.md "wikilink")では[柔道](../Page/柔道.md "wikilink")部に所属し有段者でもある。
       - 1997年[ランディー・ブレッカー](https://ja.wikipedia.org/wiki/ランディー・ブレッカー "wikilink")と共演。1999年7月「[ベン・フォールズ・ファイヴ](../Page/ベン・フォールズ・ファイヴ.md "wikilink")」のJAPAN TOURに参加。
       - 2014年、「食事と人と音楽が溶け合う空間」というコンセプトのもと、マヌーシュギタリスト手島大輔、ヴァイオリニストのTajimi “M.J” Tomotaka、ベースのヤマトヤスオ、パーカッションの奥田真広と共にジプシースウィングを基調としたバンド「BimBomBam楽団」を結成。PE'Z解散後にはダイニングスタイルの全国ツアーを行い、また各地のジャズフェティバルに出演するなど本格的な活動を開始。同じくトランペッターの小林洋介と2人でバンド「TrumpetFactory」としても活動。\[18\]
       - 2015年にBimBomBam楽団メンバー全員が役員および社員を務めるバンド兼レーベルの機能を備えた株式会社「衣食住音」を設立。自主レーベル「meal me(e)t music」を立ち上げる。\[19\]
@@ -70,7 +70,7 @@
       - 中学2年の頃、自作の曲「ILLUSION」でジュニアエレクトーンフェスティバル'91全日本大会銅賞入賞\[24\]。
       - 1995年「G7情報通信関係閣僚会議」（Global Information Infrastructureジュニアサミット）に参加。世界各国から41名で会議。
       - [国立音楽大学](../Page/国立音楽大学.md "wikilink")音楽学部作曲科卒業。
-      - [2004年](../Page/2004年.md "wikilink")から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月1日](../Page/7月1日.md "wikilink")まで[椎名林檎](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink")が結成したバンド「[東京事変](../Page/東京事変.md "wikilink")」の第一期活動で**H是都M**（エイチゼットエム）として参加。
+      - [2004年](../Page/2004年.md "wikilink")から[2005年](../Page/2005年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")まで[椎名林檎](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink")が結成したバンド「[東京事変](../Page/東京事変.md "wikilink")」の第一期活動で**H是都M**（エイチゼットエム）として参加。
       - 2007年1月に「[5+2=11](https://ja.wikipedia.org/wiki/5+2=11 "wikilink")」をリリースし、メジャーデビューした[H ZETT Mと同一人物と言われている](../Page/H_ZETT_M.md "wikilink")。
       - ピスタチオ・ボーイズではHZMとしてドラムを叩いている。
       - 現在、愛機は[KORG](https://ja.wikipedia.org/wiki/KORG "wikilink")のKROSS（PS60より乗り換え）。
@@ -79,7 +79,7 @@
       - 東京出身、AB型、173cm
       - ピスタチオ・ボーイズの"ゴンザレス"でもある。
       - ペットの犬の名は「ぴーちゃん」で、日々のHeyJoke\!（映像日記）にもたびたび登場。
-      - 使っているドラムは[SONOR](https://ja.wikipedia.org/wiki/SONOR "wikilink")のもの。過去には[TAMAのセットも使用していた](../Page/星野楽器.md "wikilink")。シンバルは唯一の日本国産シンバルである「[小出シンバル](../Page/小出製作所.md "wikilink")」を主に使用、たまに[Zildjian](https://ja.wikipedia.org/wiki/Zildjian "wikilink")等も使う。セッティングは[バスドラム](../Page/バスドラム.md "wikilink")×1、[タム](https://ja.wikipedia.org/wiki/タム "wikilink")×1、[フロアタム](https://ja.wikipedia.org/wiki/フロアタム "wikilink")×1、[スネア](../Page/スネアドラム.md "wikilink")×1、[ハイハット](https://ja.wikipedia.org/wiki/ハイハット "wikilink")×1、[クラッシュ](../Page/シンバル.md "wikilink")×1、[クラッシュライド](../Page/シンバル.md "wikilink")×1。シンプルなセッティング。[スティックはVATERのCONCERT](https://ja.wikipedia.org/wiki/ドラムスティック "wikilink")。スネアはSONORの"earth"を、それまで使用していたものが韓国ツアーの最中壊れて以来愛用している。
+      - 使っているドラムは[SONOR](https://ja.wikipedia.org/wiki/SONOR "wikilink")のもの。過去には[TAMAのセットも使用していた](../Page/星野楽器.md "wikilink")。シンバルは唯一の日本国産シンバルである「[小出シンバル](../Page/小出製作所.md "wikilink")」を主に使用、たまに[Zildjian](https://ja.wikipedia.org/wiki/Zildjian "wikilink")等も使う。セッティングは[バスドラム](../Page/バスドラム.md "wikilink")×1、[タム](https://ja.wikipedia.org/wiki/タム "wikilink")×1、[フロアタム](https://ja.wikipedia.org/wiki/フロアタム "wikilink")×1、[スネア](../Page/スネアドラム.md "wikilink")×1、[ハイハット](https://ja.wikipedia.org/wiki/ハイハット "wikilink")×1、[クラッシュ](../Page/シンバル.md "wikilink")×1、[クラッシュライド](../Page/シンバル.md "wikilink")×1。シンプルなセッティング。[スティックはVATERのCONCERT](../Page/ドラムスティック.md "wikilink")。スネアはSONORの"earth"を、それまで使用していたものが韓国ツアーの最中壊れて以来愛用している。
       - 解散後は主に2012年に結成した[H ZETTRIOのメンバーとして活動](https://ja.wikipedia.org/wiki/H_ZETTRIO "wikilink")。
 
 ## 関連アーティスト
@@ -113,18 +113,18 @@
 
 ### ミニアルバム
 
-|                    |                                                                                                          |                                                                                         |                         |
-| ------------------ | -------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ----------------------- |
-|                    | <small>**発売日**</small>                                                                                   | <small>**タイトル**</small>                                                                 | <small>**規格品番**</small> |
-| <small>1st</small> | <small>[2001年](../Page/2001年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink")</small>                  | **[pe'z](https://ja.wikipedia.org/wiki/pe'z_\(アルバム\) "wikilink")**                      | APPR-1504               |
-| <small>2nd</small> | <small>2001年[6月21日](../Page/6月21日.md "wikilink")</small>                                                 | **[速人 -HAYATO-](https://ja.wikipedia.org/wiki/速人_-HAYATO- "wikilink")**                 | APPR-1506               |
-| <small>3rd</small> | <small>2001年[10月24日](../Page/10月24日.md "wikilink")</small>                                               | **[OKOKOROIRE](https://ja.wikipedia.org/wiki/OKOKOROIRE "wikilink")**                   | APPR-1509               |
-| <small>4th</small> | <small>2002年[4月11日](../Page/4月11日.md "wikilink")</small>                                                 | **[Akatsuki](https://ja.wikipedia.org/wiki/Akatsuki "wikilink")**                       | TOCT-24762              |
-| <small>5th</small> | <small>2003年[5月28日](../Page/5月28日.md "wikilink")</small>                                                 | **[花咲クDON BLA GO\!](https://ja.wikipedia.org/wiki/花咲クDON_BLA_GO! "wikilink")**          | TOCT-22215              |
-| <small>6th</small> | <small>2004年[8月4日](../Page/8月4日.md "wikilink")</small>                                                   | **[スズ虫](https://ja.wikipedia.org/wiki/スズ虫 "wikilink")**                                 | TOCT-25442              |
-| <small>7th</small> | <small>[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月9日](../Page/3月9日.md "wikilink")</small> | **[つくしんぼ-TSUKUSHINBOW-](https://ja.wikipedia.org/wiki/つくしんぼ-TSUKUSHINBOW- "wikilink")** | RRCA-29016              |
-| <small>8th</small> | <small>2005年[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")</small>                            | **[千歳鳥-CHITOSEDORI-](https://ja.wikipedia.org/wiki/千歳鳥-CHITOSEDORI- "wikilink")**       | RRCA-29017              |
-|                    |                                                                                                          |                                                                                         |                         |
+|                    |                                                                                         |                                                                                         |                         |
+| ------------------ | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ----------------------- |
+|                    | <small>**発売日**</small>                                                                  | <small>**タイトル**</small>                                                                 | <small>**規格品番**</small> |
+| <small>1st</small> | <small>[2001年](../Page/2001年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink")</small> | **[pe'z](https://ja.wikipedia.org/wiki/pe'z_\(アルバム\) "wikilink")**                      | APPR-1504               |
+| <small>2nd</small> | <small>2001年[6月21日](../Page/6月21日.md "wikilink")</small>                                | **[速人 -HAYATO-](https://ja.wikipedia.org/wiki/速人_-HAYATO- "wikilink")**                 | APPR-1506               |
+| <small>3rd</small> | <small>2001年[10月24日](../Page/10月24日.md "wikilink")</small>                              | **[OKOKOROIRE](https://ja.wikipedia.org/wiki/OKOKOROIRE "wikilink")**                   | APPR-1509               |
+| <small>4th</small> | <small>2002年[4月11日](../Page/4月11日.md "wikilink")</small>                                | **[Akatsuki](https://ja.wikipedia.org/wiki/Akatsuki "wikilink")**                       | TOCT-24762              |
+| <small>5th</small> | <small>2003年[5月28日](../Page/5月28日.md "wikilink")</small>                                | **[花咲クDON BLA GO\!](https://ja.wikipedia.org/wiki/花咲クDON_BLA_GO! "wikilink")**          | TOCT-22215              |
+| <small>6th</small> | <small>2004年[8月4日](../Page/8月4日.md "wikilink")</small>                                  | **[スズ虫](https://ja.wikipedia.org/wiki/スズ虫 "wikilink")**                                 | TOCT-25442              |
+| <small>7th</small> | <small>[2005年](../Page/2005年.md "wikilink")[3月9日](../Page/3月9日.md "wikilink")</small>   | **[つくしんぼ-TSUKUSHINBOW-](https://ja.wikipedia.org/wiki/つくしんぼ-TSUKUSHINBOW- "wikilink")** | RRCA-29016              |
+| <small>8th</small> | <small>2005年[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")</small>           | **[千歳鳥-CHITOSEDORI-](https://ja.wikipedia.org/wiki/千歳鳥-CHITOSEDORI- "wikilink")**       | RRCA-29017              |
+|                    |                                                                                         |                                                                                         |                         |
 
 ### アルバム
 
@@ -249,7 +249,7 @@ RRCA-21030:通常盤</p></td>
   - クレモンティーヌ：アルバム『Cle（クレ）』M-10「Melinda」（2003年6月4日）：作曲・プロデュース（ヒイズミマサユ機）
   - [CHEMISTRY](../Page/CHEMISTRY.md "wikilink")：シングル『アシタヘカエル／Us』M-05「Us / PE'Z BLOODY MIX」（2003年8月6日）：参加
   - [Fantastic Plastic Machine](../Page/Fantastic_Plastic_Machine.md "wikilink")：アルバム『Zoo』M-01「ever Ever / Performed by PE'Z」（2003年8月6日）：参加
-  - [ナチュラル ハイ](https://ja.wikipedia.org/wiki/ナチュラル_ハイ "wikilink")：アルバム『THE WINTER ALBUM〜piano session〜』M-2「ALL I WANT FOR CHRISTMAS IS YOU」（2004年12月1日）：参加（Kadota "JAW" Kousuke）
+  - [ナチュラル ハイ](../Page/ナチュラル_ハイ.md "wikilink")：アルバム『THE WINTER ALBUM〜piano session〜』M-2「ALL I WANT FOR CHRISTMAS IS YOU」（2004年12月1日）：参加（Kadota "JAW" Kousuke）
   - [シティボーイズ](../Page/シティボーイズ.md "wikilink")ミックス PRESENTS だめな人の前をメザシを持って移動中（2004年）：舞台音楽担当
   - [SOULHEAD](../Page/SOULHEAD.md "wikilink")：アルバム『RE-CONSTRUCT ALBUM Vol.2 \[CRYSTALLIZED\] 』M-05「Fiesta」（2006年6月21日）：参加
   - 『[DEATH NOTE TRIBUTE](../Page/DEATH_NOTE_TRIBUTE.md "wikilink")』：M-13「我ら五人の侍なり〜We are five samurai〜」（2006年6月21日）：書き下ろし参加
@@ -386,7 +386,7 @@ RRCA-21030:通常盤</p></td>
 </tr>
 <tr class="odd">
 <td><p>鬼の樹</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/MUSIC_ON!_TV" title="wikilink">MUSIC ON! TV</a>『Harmony with the Earth』イメージソング</p></td>
+<td><p><a href="../Page/MUSIC_ON!_TV.md" title="wikilink">MUSIC ON! TV</a>『Harmony with the Earth』イメージソング</p></td>
 </tr>
 <tr class="even">
 <td><p>BLANK-DUNK</p></td>
@@ -405,7 +405,7 @@ RRCA-21030:通常盤</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK-FM放送" title="wikilink">NHK-FM</a>『ライブビート』4月度エンディングテーマ</p></td>
+<td><p><a href="../Page/NHK-FM放送.md" title="wikilink">NHK-FM</a>『ライブビート』4月度エンディングテーマ</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1119,7 +1119,7 @@ EN-MUSUBI 2015 FINAL -おどらにゃそんそん！-
 ### テレビ番組
 
   - [ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")）2002年5月18日、7月20日、10月5日。この出演が大きく話題となる。
-  - [J-MELO](https://ja.wikipedia.org/wiki/J-MELO "wikilink")（[NHKワールド](https://ja.wikipedia.org/wiki/NHKワールド "wikilink")）
+  - [J-MELO](../Page/J-MELO.md "wikilink")（[NHKワールド](https://ja.wikipedia.org/wiki/NHKワールド "wikilink")）
   - 筑紫哲也 NEWS23「金曜深夜便」2002年生演奏
   - 音遊人（みゅーじん）（テレビ東京）2005年6月10日、2006年7月15日
   - NEWS23「金曜解放区」2008年4月11日生演奏

@@ -8,7 +8,7 @@
   - **kt** - [速度](../Page/速度.md "wikilink")を示す「**[ノット](../Page/ノット.md "wikilink")**」（knot）の単位記号。
   - **kt** - [質量](../Page/質量.md "wikilink")を示す「**[キロ](../Page/キロ.md "wikilink")[トン](../Page/トン.md "wikilink")**」（kiloton）の単位記号。
   - **Kt** - [金](../Page/金.md "wikilink")の[純度](https://ja.wikipedia.org/wiki/純度 "wikilink")を示す「**[カラット](../Page/カラット.md "wikilink")**」（karat）の単位記号。
-  - **Kt** - [ミャンマー](../Page/ミャンマー.md "wikilink")の[通貨](../Page/通貨.md "wikilink")単位「**[チャット](https://ja.wikipedia.org/wiki/チャット_\(通貨\) "wikilink")**」（Kyat）の略記号。
+  - **Kt** - [ミャンマー](../Page/ミャンマー.md "wikilink")の[通貨](../Page/通貨.md "wikilink")単位「**[チャット](../Page/チャット_\(通貨\).md "wikilink")**」（Kyat）の略記号。
   - **[kT (エネルギー)](https://ja.wikipedia.org/wiki/kT_\(エネルギー\) "wikilink")** - [ボルツマン定数](../Page/ボルツマン定数.md "wikilink")*k*と[温度](../Page/温度.md "wikilink")*T*の積。
 
 ## 正式名称
@@ -44,8 +44,8 @@
 <!-- end list -->
 
   - [KTタンストール](../Page/KTタンストール.md "wikilink") - スコットランドのシンガーソングライター。
-  - [杉山清貴](https://ja.wikipedia.org/wiki/杉山清貴 "wikilink") - 日本の歌手。
-  - [橘慶太](https://ja.wikipedia.org/wiki/橘慶太 "wikilink")(KEITA) - [w-inds.](https://ja.wikipedia.org/wiki/w-inds. "wikilink")
+  - [杉山清貴](../Page/杉山清貴.md "wikilink") - 日本の歌手。
+  - [橘慶太](../Page/橘慶太.md "wikilink")(KEITA) - [w-inds.](https://ja.wikipedia.org/wiki/w-inds. "wikilink")
 
 <!-- end list -->
 

@@ -5,9 +5,9 @@
 
 ## 来歴
 
-2001年デビュー。父親は元[ザ・ファイターズのメンバー](../Page/ジェット・ブラザース.md "wikilink")、弓おさむ。デビュー曲の携帯会社のCMで、[BoA](../Page/BoA.md "wikilink")と共に本人も出演しオリコンデイリーチャート2位を記録。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")をもって歌手としての一時的な活動休止を発表するも、同年9月11日、活動再開を宣言。
+2001年デビュー。父親は元[ザ・ファイターズのメンバー](../Page/ジェット・ブラザース.md "wikilink")、弓おさむ。デビュー曲の携帯会社のCMで、[BoA](../Page/BoA.md "wikilink")と共に本人も出演しオリコンデイリーチャート2位を記録。[2005年](../Page/2005年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")をもって歌手としての一時的な活動休止を発表するも、同年9月11日、活動再開を宣言。
 
-声優としての代表作は『[満月をさがして](../Page/満月をさがして.md "wikilink")』の[神山満月](https://ja.wikipedia.org/wiki/神山満月 "wikilink")役、『[NANA](https://ja.wikipedia.org/wiki/NANA "wikilink")』（[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")） の芹澤レイラ、『[Get Ride\! アムドライバー](https://ja.wikipedia.org/wiki/Get_Ride!_アムドライバー "wikilink")』のシャシャ役など。
+声優としての代表作は『[満月をさがして](../Page/満月をさがして.md "wikilink")』の[神山満月](https://ja.wikipedia.org/wiki/神山満月 "wikilink")役、『[NANA](../Page/NANA.md "wikilink")』（[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")） の芹澤レイラ、『[Get Ride\! アムドライバー](../Page/Get_Ride!_アムドライバー.md "wikilink")』のシャシャ役など。
 
 ## Changin' My Life
 
@@ -15,7 +15,7 @@ myco（vo）、[辺見鑑孝](https://ja.wikipedia.org/wiki/辺見鑑孝 "wikili
 
 2001年5月、シングル『Luv.Remix』にてデビュー。2003年5月、辺見が脱退し、解散と存続との形で田辺も脱退。mycoのみが残り、新たに**myco〜CML**として活動開始。2005年3月31日にレコード会社の契約満了と共に活動を一時休止。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月11日](../Page/9月11日.md "wikilink")に田辺とmycoのブログにてChangin' My Life再始動を発表。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月24日](../Page/11月24日.md "wikilink")に田辺とmycoのふたりでChangin' My Life「再始動」ライブを決行している。CMLとして『[テニスの王子様](../Page/テニスの王子様.md "wikilink")』のキャラクターソングの作詞・作曲も手がけている。
+[2005年](../Page/2005年.md "wikilink")[9月11日](../Page/9月11日.md "wikilink")に田辺とmycoのブログにてChangin' My Life再始動を発表。[2005年](../Page/2005年.md "wikilink")[11月24日](../Page/11月24日.md "wikilink")に田辺とmycoのふたりでChangin' My Life「再始動」ライブを決行している。CMLとして『[テニスの王子様](../Page/テニスの王子様.md "wikilink")』のキャラクターソングの作詞・作曲も手がけている。
 
 ## 現在
 
@@ -48,7 +48,7 @@ myco（vo）、[辺見鑑孝](https://ja.wikipedia.org/wiki/辺見鑑孝 "wikili
 3.  [Myself](../Page/Myself_\(Changin'_My_Lifeの曲\).md "wikilink")（2002年6月12日）オリコンデイリー4位 オリコン15位
 4.  [ETERNAL SNOW](../Page/ETERNAL_SNOW.md "wikilink")（2002年11月7日）オリコンデイリー6位 オリコン18位
 5.  エトランゼ/Love Chronicle（2003年2月13日）オリコンデイリー7位 オリコン24位
-    1.  エトランゼ\[3:48\] - [ANB系ドラマ](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")「[京都迷宮案内](https://ja.wikipedia.org/wiki/京都迷宮案内 "wikilink")」主題歌
+    1.  エトランゼ\[3:48\] - [ANB系ドラマ](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")「[京都迷宮案内](../Page/京都迷宮案内.md "wikilink")」主題歌
           -
             作詞：myco／作曲：田辺晋太郎／編曲：本田優一郎・辺見鑑孝
     2.  Love Chronicle\[4:46\] - アニメ「[満月をさがして](../Page/満月をさがして.md "wikilink")」エンディングテーマ
@@ -70,7 +70,7 @@ myco（vo）、[辺見鑑孝](https://ja.wikipedia.org/wiki/辺見鑑孝 "wikili
           -
             編曲：DISCOVERY
 7.  クリスマスにくちづけを（2003年11月19日） オリコンデイリー26位 オリコン92位
-    1.  クリスマスにくちづけを\[3:45\] - ANB系ドラマ「[独身3\!\!](https://ja.wikipedia.org/wiki/独身3!! "wikilink")」主題歌
+    1.  クリスマスにくちづけを\[3:45\] - ANB系ドラマ「[独身3\!\!](../Page/独身3!!.md "wikilink")」主題歌
           -
             作詞：ｍmyo／作曲：[TSUKASA](https://ja.wikipedia.org/wiki/TSUKASA_\(作曲家\) "wikilink")／編曲：[村山晋一郎](https://ja.wikipedia.org/wiki/村山晋一郎 "wikilink")
     2.  Confession\[5:03\]
@@ -138,7 +138,7 @@ myco（vo）、[辺見鑑孝](https://ja.wikipedia.org/wiki/辺見鑑孝 "wikili
     1.  HIBARI\[5:22\]
           -
             作詞：[松井五郎](https://ja.wikipedia.org/wiki/松井五郎 "wikilink")／作曲：[大谷靖夫](../Page/大谷靖夫.md "wikilink")／編曲：[飯田高広](https://ja.wikipedia.org/wiki/飯田高広 "wikilink")
-    2.  lily\[5:49\] - [TX系](https://ja.wikipedia.org/wiki/TXN "wikilink")「[Get Ride\! アムドライバー](https://ja.wikipedia.org/wiki/Get_Ride!_アムドライバー "wikilink")」テーマソング
+    2.  lily\[5:49\] - [TX系](https://ja.wikipedia.org/wiki/TXN "wikilink")「[Get Ride\! アムドライバー](../Page/Get_Ride!_アムドライバー.md "wikilink")」テーマソング
           -
             作詞：myco／作曲：陶山準・myco／編曲：大野宏明
     3.  HIBARI (Instrumental)\[5:21\]
@@ -168,12 +168,12 @@ myco（vo）、[辺見鑑孝](https://ja.wikipedia.org/wiki/辺見鑑孝 "wikili
 ### テレビアニメ
 
   - [満月をさがして](../Page/満月をさがして.md "wikilink")（[神山満月](https://ja.wikipedia.org/wiki/神山満月 "wikilink")/フルムーン）主人公 (2002年4月〜2003年3月)
-  - [Get Ride\! アムドライバー](https://ja.wikipedia.org/wiki/Get_Ride!_アムドライバー "wikilink")（シャシャ） (2004年4月〜2005年3月)
+  - [Get Ride\! アムドライバー](../Page/Get_Ride!_アムドライバー.md "wikilink")（シャシャ） (2004年4月〜2005年3月)
 
 ### ゲーム
 
-  - [Get Ride\! アムドライバー 相克の真実](https://ja.wikipedia.org/wiki/Get_Ride!_アムドライバー "wikilink")（シャシャ）
-  - [NANA](https://ja.wikipedia.org/wiki/NANA "wikilink")（芹澤レイラ）
+  - [Get Ride\! アムドライバー 相克の真実](../Page/Get_Ride!_アムドライバー.md "wikilink")（シャシャ）
+  - [NANA](../Page/NANA.md "wikilink")（芹澤レイラ）
 
 ### テレビ
 

@@ -9,7 +9,7 @@
 
 しかし、、[2002年](../Page/2002年.md "wikilink")4月の番組[改編](../Page/改編.md "wikilink")で第2放送を平日は原則休止とし、第1放送への集約と個別[株価](../Page/株価.md "wikilink")全[銘柄](https://ja.wikipedia.org/wiki/銘柄 "wikilink")市況中継の廃止が図られた事に伴い、解説・展望中心の当番組が発足した。
 
-[東証アローズ](https://ja.wikipedia.org/wiki/東証アローズ "wikilink")中継ブースをメインに、東京証券取引所[記者クラブ](https://ja.wikipedia.org/wiki/記者クラブ "wikilink")\[4\]所属の同局記者、若しくは株式[評論家](../Page/評論家.md "wikilink")らと、女性アシスタントが寄り付き前から大引け[日経平均](https://ja.wikipedia.org/wiki/日経平均 "wikilink")確定の15時過ぎまでコンビで進行を担当し、各[証券会社](../Page/証券会社.md "wikilink")担当者との電話[インタビュー](../Page/インタビュー.md "wikilink")等を盛り込んでいた。全銘柄を網羅できないものの、[株式](../Page/株式.md "wikilink")市況・[商品先物](https://ja.wikipedia.org/wiki/商品先物 "wikilink")市況等を遅延なしの[リアルタイム](../Page/リアルタイム.md "wikilink")で速報できる、国内の無料株価情報としては数少ない体制を整えていた\[5\]。
+[東証アローズ](https://ja.wikipedia.org/wiki/東証アローズ "wikilink")中継ブースをメインに、東京証券取引所[記者クラブ](../Page/記者クラブ.md "wikilink")\[4\]所属の同局記者、若しくは株式[評論家](../Page/評論家.md "wikilink")らと、女性アシスタントが寄り付き前から大引け[日経平均](https://ja.wikipedia.org/wiki/日経平均 "wikilink")確定の15時過ぎまでコンビで進行を担当し、各[証券会社](../Page/証券会社.md "wikilink")担当者との電話[インタビュー](../Page/インタビュー.md "wikilink")等を盛り込んでいた。全銘柄を網羅できないものの、[株式](../Page/株式.md "wikilink")市況・[商品先物](https://ja.wikipedia.org/wiki/商品先物 "wikilink")市況等を遅延なしの[リアルタイム](../Page/リアルタイム.md "wikilink")で速報できる、国内の無料株価情報としては数少ない体制を整えていた\[5\]。
 
 一時的に平均株価が回復した事、個別株価全銘柄市況中継の廃止が事などから、同局では[2006年](../Page/2006年.md "wikilink")4月より平日2波放送と株価全銘柄市況の読み上げを復活させる事になり、後番組の『[東京マーケットLIVE\!](../Page/東京マーケットLIVE!.md "wikilink")』に引き継がれて行った。
 
@@ -94,6 +94,6 @@
 2.  但し、出演者は一部重複している。
 3.  後者は[バブル景気](../Page/バブル景気.md "wikilink")時に『[ニュースTODAY](../Page/ニュースTODAY_\(ラジオたんぱ\).md "wikilink")』→『[経済情報ステーション](https://ja.wikipedia.org/wiki/経済情報ステーション "wikilink")』の題名で[ニュースワイド](../Page/ニュースワイド.md "wikilink")化。
 4.  [兜倶楽部](https://ja.wikipedia.org/wiki/兜倶楽部 "wikilink")。
-5.  同時間帯に東証アローズから生中継している電波媒体4社（[日経CNBC](https://ja.wikipedia.org/wiki/日経CNBC "wikilink")、[ブルームバーグテレビジョン](https://ja.wikipedia.org/wiki/ブルームバーグテレビジョン "wikilink")、[ダイワ・証券情報TV](https://ja.wikipedia.org/wiki/ダイワ・証券情報TV "wikilink")、ラジオNIKKEI）の中で、15時の取引終了後に確定する「[日経平均株価](../Page/日経平均株価.md "wikilink")終値」の速報が一番早いのも、当番組であった（[インターネット](../Page/インターネット.md "wikilink")経由で聴取する場合は、伝送経路や[パソコン](https://ja.wikipedia.org/wiki/パソコン "wikilink")の処理能力により遅延が生じるため、この限りではない）。
+5.  同時間帯に東証アローズから生中継している電波媒体4社（[日経CNBC](https://ja.wikipedia.org/wiki/日経CNBC "wikilink")、[ブルームバーグテレビジョン](../Page/ブルームバーグテレビジョン.md "wikilink")、[ダイワ・証券情報TV](https://ja.wikipedia.org/wiki/ダイワ・証券情報TV "wikilink")、ラジオNIKKEI）の中で、15時の取引終了後に確定する「[日経平均株価](../Page/日経平均株価.md "wikilink")終値」の速報が一番早いのも、当番組であった（[インターネット](../Page/インターネット.md "wikilink")経由で聴取する場合は、伝送経路や[パソコン](https://ja.wikipedia.org/wiki/パソコン "wikilink")の処理能力により遅延が生じるため、この限りではない）。
 6.  2006年3月22日まで出演。3月27日 - 29日は、兜倶楽部記者が出演した。
 7.

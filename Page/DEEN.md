@@ -1,7 +1,7 @@
 > この記事は[DEEN](https://ja.wikipedia.org/wiki/DEEN)から翻訳されています。
 
 
-**DEEN**（ディーン）は、ボーカル[池森秀一](https://ja.wikipedia.org/wiki/池森秀一 "wikilink")、キーボード[山根公路](https://ja.wikipedia.org/wiki/山根公路 "wikilink")を中心に[1993年](../Page/1993年.md "wikilink")に結成された、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドで](../Page/バンド_\(音楽\).md "wikilink")、1990年代に一大ブームを巻き起こした元[ビーイング](../Page/ビーイング.md "wikilink")系バンドである。
+**DEEN**（ディーン）は、ボーカル[池森秀一](../Page/池森秀一.md "wikilink")、キーボード[山根公路](../Page/山根公路.md "wikilink")を中心に[1993年](../Page/1993年.md "wikilink")に結成された、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドで](../Page/バンド_\(音楽\).md "wikilink")、1990年代に一大ブームを巻き起こした元[ビーイング](../Page/ビーイング.md "wikilink")系バンドである。
 
 2019年3月時点でCD総売上枚数は1,500万枚を超えている。
 
@@ -14,7 +14,7 @@
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - メンバーによる初の作詞、作曲した7thシングル「[未来のために](../Page/未来のために.md "wikilink")」を発表、オリコンチャート1位を記録する。また、この曲で初めてテレビ出演を果たす。そして、日本テレビ系列の番組（劇空間プロ野球）のテーマ曲にも起用された。またMXテレビ([東京メトロポリタンテレビジョン](../Page/東京メトロポリタンテレビジョン.md "wikilink"))の「[東京NEWS](../Page/東京NEWS.md "wikilink")」のテーマ曲にも起用され、1日の半分の時間に最低15分毎に流れるようになった（その後オープニング直後のみになる）。
   - [1996年](../Page/1996年.md "wikilink") - 9thシングル「[ひとりじゃない](../Page/ひとりじゃない_\(DEENの曲\).md "wikilink")」が[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[アニメ](../Page/アニメ.md "wikilink")「[ドラゴンボールGT](https://ja.wikipedia.org/wiki/ドラゴンボールGT "wikilink")」のエンディングテーマとなる。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") - 「[銀色の夢 〜All over the world〜](../Page/SINGLES+1.md "wikilink")」が[長野オリンピック](https://ja.wikipedia.org/wiki/長野オリンピック "wikilink")のボランティア公式サポートソングとして採用される。12thシングル「[君がいない夏](../Page/君がいない夏.md "wikilink")」が[アニメ](../Page/アニメ.md "wikilink")「[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")」のエンディングとなる。13thシングル「[夢であるように](../Page/夢であるように.md "wikilink")」が[ゲーム](../Page/ゲーム.md "wikilink")[テイルズ オブ デスティニーのテーマソングとなる](https://ja.wikipedia.org/wiki/テイルズ_オブ_デスティニー "wikilink")。同ゲーム内にDEENも出演。
-  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink") - 14thシングル「[遠い空で](../Page/遠い空で.md "wikilink")」、初の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『[SINGLES+1](../Page/SINGLES+1.md "wikilink")』（オリコン1位獲得）、15thシングル「[君さえいれば](../Page/君さえいれば_\(DEENの曲\).md "wikilink")」をリリース後、[B-Gram RECORDSから](https://ja.wikipedia.org/wiki/B-Gram_RECORDS "wikilink")[BMGジャパンの](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")[ビーイング](../Page/ビーイング.md "wikilink")専用レーベルの[BERG レーベルへ移籍](https://ja.wikipedia.org/wiki/BERG_レーベル "wikilink")。16thシングル「[手ごたえのない愛](../Page/手ごたえのない愛.md "wikilink")」、4thアルバム『[The DAY](../Page/The_DAY_\(アルバム\).md "wikilink")』リリース。
+  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink") - 14thシングル「[遠い空で](../Page/遠い空で.md "wikilink")」、初の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[SINGLES+1](../Page/SINGLES+1.md "wikilink")』（オリコン1位獲得）、15thシングル「[君さえいれば](../Page/君さえいれば_\(DEENの曲\).md "wikilink")」をリリース後、[B-Gram RECORDSから](../Page/B-Gram_RECORDS.md "wikilink")[BMGジャパンの](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")[ビーイング](../Page/ビーイング.md "wikilink")専用レーベルの[BERG レーベルへ移籍](../Page/BERG_レーベル.md "wikilink")。16thシングル「[手ごたえのない愛](../Page/手ごたえのない愛.md "wikilink")」、4thアルバム『[The DAY](../Page/The_DAY_\(アルバム\).md "wikilink")』リリース。
   - [1999年](../Page/1999年.md "wikilink")、1990年代アーティストトータルセールスランキング49位（オリコン）
 
 ### 2000年 - 2005年 ビーイングから離脱、デビュー10周年
@@ -22,11 +22,11 @@
   - [2000年](../Page/2000年.md "wikilink") - メンバーによる初の全楽曲、セルフプロデュースの作品、5thアルバム『['need love](../Page/'need_love.md "wikilink")』をリリースする。
   - [2001年](../Page/2001年.md "wikilink") - 初のバラードベストアルバム、『[Ballads in Blue〜The greatest hits of DEEN〜](../Page/Ballads_in_Blue〜The_greatest_hits_of_DEEN〜.md "wikilink")』をリリースする。韓国国内版の映画『猟奇的な彼女』の挿入歌にDEEN名義で「ANOTHER LIFE」（英詞版）が起用。日韓共同製作・同時リリースアルバム「PROJECT 2002 The Monsters」にDEEN、SHU\&Positionで参加。
   - [2002年](../Page/2002年.md "wikilink") - [坂本九](../Page/坂本九.md "wikilink")の「見上げてごらん夜の星を」などをカバーしたアルバム、『[和音〜Songs for Children〜](../Page/和音〜Songs_for_Children〜.md "wikilink")』をリリース。
-  - [2003年](../Page/2003年.md "wikilink") - 4月に25thシングル「[翼を風に乗せて〜fly away〜](https://ja.wikipedia.org/wiki/翼を風に乗せて〜fly_away〜 "wikilink")」で、約7年ぶりにオリコンシングルチャート10位以内を記録。10月発売の27thシングル「[ユートピアは見えてるのに](../Page/ユートピアは見えてるのに.md "wikilink")」も10位以内に入る。1年間に2枚のトップ10入りは7年ぶり。8月発売の26thシングル「[太陽と花びら](../Page/太陽と花びら.md "wikilink")」でBERGマークが消える。[BERG レーベルが消滅](https://ja.wikipedia.org/wiki/BERG_レーベル "wikilink")、[ビーイング](../Page/ビーイング.md "wikilink")から離脱する。
+  - [2003年](../Page/2003年.md "wikilink") - 4月に25thシングル「[翼を風に乗せて〜fly away〜](https://ja.wikipedia.org/wiki/翼を風に乗せて〜fly_away〜 "wikilink")」で、約7年ぶりにオリコンシングルチャート10位以内を記録。10月発売の27thシングル「[ユートピアは見えてるのに](../Page/ユートピアは見えてるのに.md "wikilink")」も10位以内に入る。1年間に2枚のトップ10入りは7年ぶり。8月発売の26thシングル「[太陽と花びら](../Page/太陽と花びら.md "wikilink")」でBERGマークが消える。[BERG レーベルが消滅](../Page/BERG_レーベル.md "wikilink")、[ビーイング](../Page/ビーイング.md "wikilink")から離脱する。
   - [2003年](../Page/2003年.md "wikilink") - ショートムービー「[君のままで](../Page/君のままで_\(映画\).md "wikilink")」にメンバー出演、主題歌「[星の雫](../Page/UTOPIA_\(DEENのアルバム\).md "wikilink")」
   - [2004年](../Page/2004年.md "wikilink") - 韓国での日本音楽全面解禁後において、日本人として初めてワンマンライブを開く。
   - [2004年](../Page/2004年.md "wikilink") - [東京ヴェルディ1969](https://ja.wikipedia.org/wiki/東京ヴェルディ1969 "wikilink")のテーマソング、「STRONG SOUL」をリリース。12月には[亀渕友香](../Page/亀渕友香.md "wikilink")\&The Voice of Japanと共演した「愛の鐘が世界に響きますように…」をリリース。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") - [千葉マリンスタジアム](../Page/千葉マリンスタジアム.md "wikilink")で国歌を斉唱。31stシングルにして、セルフカバーシングル「[このまま君だけを奪い去りたい/翼を広げて](https://ja.wikipedia.org/wiki/このまま君だけを奪い去りたい/翼を広げて "wikilink")」がオリコン9位を記録。同曲として12年ぶりのトップ10入りを果たす。また、音楽番組、[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")のランキングでは5位にランクイン。セルフカバーベストアルバム、『[DEEN The Best キセキ](../Page/DEEN_The_Best_キセキ.md "wikilink")』をリリース。韓国ドラマ[天国の階段](https://ja.wikipedia.org/wiki/天国の階段 "wikilink")主題歌「会いたい」のカバー、[川島だりあ](https://ja.wikipedia.org/wiki/川島だりあ "wikilink")作詞、織田哲郎作曲、葉山たけし編曲による書き下ろしの新曲「TWELVE」収録。
+  - [2005年](../Page/2005年.md "wikilink") - [千葉マリンスタジアム](../Page/千葉マリンスタジアム.md "wikilink")で国歌を斉唱。31stシングルにして、セルフカバーシングル「[このまま君だけを奪い去りたい/翼を広げて](https://ja.wikipedia.org/wiki/このまま君だけを奪い去りたい/翼を広げて "wikilink")」がオリコン9位を記録。同曲として12年ぶりのトップ10入りを果たす。また、音楽番組、[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")のランキングでは5位にランクイン。セルフカバーベストアルバム、『[DEEN The Best キセキ](../Page/DEEN_The_Best_キセキ.md "wikilink")』をリリース。韓国ドラマ[天国の階段](../Page/天国の階段.md "wikilink")主題歌「会いたい」のカバー、[川島だりあ](../Page/川島だりあ.md "wikilink")作詞、織田哲郎作曲、葉山たけし編曲による書き下ろしの新曲「TWELVE」収録。
 
 ### 2006年 - 2012年 デビュー15周年、初の武道館公演
 
@@ -53,12 +53,12 @@
 
 ※（）内の西暦年数は、DEENに加入した年である。
 
-  - <span id="池森秀一">[池森秀一](https://ja.wikipedia.org/wiki/池森秀一 "wikilink")</span> (いけもり しゅういち、1993-)
-    担当は[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")、[作曲](../Page/作曲.md "wikilink")。
+  - <span id="池森秀一">[池森秀一](../Page/池森秀一.md "wikilink")</span> (いけもり しゅういち、1993-)
+    担当は[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[作詞](../Page/作詞.md "wikilink")、[作曲](../Page/作曲.md "wikilink")。
     同バンドのフロントマンでもあるが、当初はソロデビューを予定しており、1992年には『ウーマンドリームオリジナルサウンドトラック』に**池森秀一**として自作の『DREAMIN'』で参加している（ゲストボーカルであり正式なソロデビューではない）。後に楽曲『DREAMIN'』はDEENのデビューシングル『[このまま君だけを奪い去りたい](../Page/このまま君だけを奪い去りたい.md "wikilink")』のカップリングとして収録された。
     2001年には[TUBE](../Page/TUBE.md "wikilink")のアルバム　『Soul Surfin' Crew』の『Dreams of Asia J.V』にゲストボーカルとして参加している。
     2001年に"**SHU**"名義でソロデビューを果たす。
-  - <span id="山根公路">[山根公路](https://ja.wikipedia.org/wiki/山根公路 "wikilink")</span> (やまね こうじ、1993-)
+  - <span id="山根公路">[山根公路](../Page/山根公路.md "wikilink")</span> (やまね こうじ、1993-)
     <span id="リーダー"> [リーダー](https://ja.wikipedia.org/wiki/リーダー "wikilink")。</span> 担当は[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、作曲。
     ハイトーンボイスのコーラスが武器でもある。池森と同じくデビュー当時からのメンバー。そのため同メンバーのサブフロントマン的な役割でシングル作品のジャケット表面に池森と共に写っている時がある。（しかし、近年は池森一人だけでジャケット表面に写るようにしてるためか、山根の池森との2ショット写真を見る機会は激減している。）
     2005年、ソロデビューミニアルバム『COZZY』をファンクラブ限定でリリース。それ以後は、DEENのオフィシャルCDの作中で1トラックながらもリードボーカルをとるナンバー（「上海ロックスター」など）を制作している。
@@ -84,7 +84,7 @@
     1997年より「[LANA](https://ja.wikipedia.org/wiki/LANA "wikilink")」のメンバーとして活動していたが、[2000年](../Page/2000年.md "wikilink")に事務所契約を終了しフリーとなる。
   - <span id="倉澤圭介">倉澤圭介</span> (くらさわ けいすけ、1993-1994)
     初代ドラマー。正確な加入時期は不明だが「[瞳そらさないで](../Page/瞳そらさないで.md "wikilink")」の頃まで在籍。正式な脱退告知は無し。
-    脱退後、「[PAMELAH](https://ja.wikipedia.org/wiki/PAMELAH "wikilink")」のサポートメンバーとして活動も現在は休止中。
+    脱退後、「[PAMELAH](../Page/PAMELAH.md "wikilink")」のサポートメンバーとして活動も現在は休止中。
   - <span id="宇津本直紀">[宇津本直紀](../Page/宇津本直紀.md "wikilink")</span> (うづもと なおき、1994-1999)
     2代目ドラマー。担当は、[ドラム](../Page/ドラムセット.md "wikilink")、[パーカッション](../Page/パーカッション.md "wikilink")、作曲、コーラス
     [倉澤に代わってファーストアルバム](https://ja.wikipedia.org/wiki/#倉澤圭介 "wikilink")『[DEEN](../Page/DEEN_\(アルバム\).md "wikilink")』から加入し、『[CHRISTMAS TIME](../Page/Classics_One_WHITE_Christmas_time.md "wikilink")』まで在籍。
@@ -92,8 +92,8 @@
     DEEN在籍中には「夢であるように」のサビの部分を作曲するなど、数多くの曲を作った。
     ライブの最中に俳句を披露することもあった。
     DEEN脱退後も[ビーイング](../Page/ビーイング.md "wikilink")に在籍（残留）しプロデュース、ディレクション、作曲、ドラムレコーディングなどの音楽活動を行っていたが、現在は離脱している。宇津本の脱退後、DEENには正式メンバーとしてのドラマーは加入しておらず、サポートドラマーとしてHIDE（小林秀樹）が参加している。
-  - <span id="田川伸治">[田川伸治](https://ja.wikipedia.org/wiki/田川伸治 "wikilink")</span> (たがわ しんじ、1994-2018)
-    DEENの2代目ギタリスト。担当は[ギター](../Page/ギター.md "wikilink")、[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、コーラス、作曲。
+  - <span id="田川伸治">[田川伸治](../Page/田川伸治.md "wikilink")</span> (たがわ しんじ、1994-2018)
+    DEENの2代目ギタリスト。担当は[ギター](../Page/ギター.md "wikilink")、[ベース](../Page/ベース_\(弦楽器\).md "wikilink")、コーラス、作曲。
     「[瞳そらさないで](../Page/瞳そらさないで.md "wikilink")」から[仲居辰磨に代わってDEENに加入](https://ja.wikipedia.org/wiki/#仲居辰磨 "wikilink")。
     [2001年](../Page/2001年.md "wikilink")には、ソロデビューも果たした。2006年にインストロックバンド「THE SONIC TRICK」として第2次ソロデビューを果たすものの、ソロCDのリリースは現在停滞状態にある。[2018年](../Page/2018年.md "wikilink")3月10日、武道館で行われた25周年ライブを最後にDEENを脱退。脱退後はソロ活動に専念する。
 
@@ -101,7 +101,7 @@
 
 ### 結成のきっかけ
 
-[1993年](../Page/1993年.md "wikilink")、[ビーイング](../Page/ビーイング.md "wikilink")内では[WANDS](https://ja.wikipedia.org/wiki/WANDS "wikilink")の上杉昇が作詞、[織田哲郎](../Page/織田哲郎.md "wikilink")が作曲し、[DoCoMo](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")[ポケットベルのCMとのタイアップも決定していた](../Page/無線呼び出し.md "wikilink")『[このまま君だけを奪い去りたい](../Page/このまま君だけを奪い去りたい.md "wikilink")』を歌うボーカリストを探していた。そこで、ソロデビューを目指し北海道から上京していた[池森秀一](https://ja.wikipedia.org/wiki/池森秀一 "wikilink")に試しに歌わせてみたところ評価を受け、ボーカリストに決定。急遽[キーボード山根公路を加え](../Page/キーボード_\(楽器\).md "wikilink")、バンドを結成。バンド名「DEEN」は響きの良さから決定された。
+[1993年](../Page/1993年.md "wikilink")、[ビーイング](../Page/ビーイング.md "wikilink")内では[WANDS](../Page/WANDS.md "wikilink")の上杉昇が作詞、[織田哲郎](../Page/織田哲郎.md "wikilink")が作曲し、[DoCoMo](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")[ポケットベルのCMとのタイアップも決定していた](../Page/無線呼び出し.md "wikilink")『[このまま君だけを奪い去りたい](../Page/このまま君だけを奪い去りたい.md "wikilink")』を歌うボーカリストを探していた。そこで、ソロデビューを目指し北海道から上京していた[池森秀一](../Page/池森秀一.md "wikilink")に試しに歌わせてみたところ評価を受け、ボーカリストに決定。急遽[キーボード山根公路を加え](../Page/キーボード_\(楽器\).md "wikilink")、バンドを結成。バンド名「DEEN」は響きの良さから決定された。
 
 ビーイングとしてはよくあることだが、完全にプロデューサー主導で結成されたバンドなので、顔を合わせるまでお互いの素性も経歴も一切知らなかった。どういった音楽志向・人間性の持ち主なのかも分からないまま活動を続け、それとは裏腹に大ヒットを続ける自分達の状況に戸惑いを感じていたという。通常であれば当事者が知らないままプロデューサー主導で結成されたバンドはそのうち活動が行き詰まることが多いが、DEENの場合はお互いに親睦を深めながら20年以上活動を続けているという稀有な例である。
 
@@ -109,7 +109,7 @@
 
 ### その他
 
-[千葉ロッテマリーンズ](../Page/千葉ロッテマリーンズ.md "wikilink")の元監督である[ボビー・バレンタイン](https://ja.wikipedia.org/wiki/ボビー・バレンタイン "wikilink")は、DEENの大ファンである。1995年初来日時、『未来のために』を聴いて以来のファンで、メンバーから招待された時に限らず、プライベートで何度もライブに足を運んでいる。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")にはボビー・バレンタインの希望で、DEENによる試合前の国歌斉唱と始球式も行われた。同年マリーンズファン感謝デーでは、「未来のために」の英語版、「このまま君だけを奪い去りたい」、「翼を広げて」の3曲を熱唱。[2006年](../Page/2006年.md "wikilink")には監督から直々に依頼され、チーム公式イメージソングとして「ダイヤモンド」を提供し、ボビー・バレンタインが[PVに出演した](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。
+[千葉ロッテマリーンズ](../Page/千葉ロッテマリーンズ.md "wikilink")の元監督である[ボビー・バレンタイン](https://ja.wikipedia.org/wiki/ボビー・バレンタイン "wikilink")は、DEENの大ファンである。1995年初来日時、『未来のために』を聴いて以来のファンで、メンバーから招待された時に限らず、プライベートで何度もライブに足を運んでいる。[2005年](../Page/2005年.md "wikilink")にはボビー・バレンタインの希望で、DEENによる試合前の国歌斉唱と始球式も行われた。同年マリーンズファン感謝デーでは、「未来のために」の英語版、「このまま君だけを奪い去りたい」、「翼を広げて」の3曲を熱唱。[2006年](../Page/2006年.md "wikilink")には監督から直々に依頼され、チーム公式イメージソングとして「ダイヤモンド」を提供し、ボビー・バレンタインが[PVに出演した](../Page/ミュージック・ビデオ.md "wikilink")。
 
 『DEEN The Best キセキ』で10年ぶりに曲を提供した織田哲郎は、「あれだけ曲を大事にしてもらえると嬉しい。池森君の声とは相性が良い」と自身のHP内で語り、同じく久々にアレンジを担当した[葉山たけし](../Page/葉山たけし.md "wikilink")も彼らの誠実な人柄を自身の[ブログ](../Page/ブログ.md "wikilink")内で度々賞賛した。
 
@@ -117,13 +117,13 @@
 
 ## 音楽性とバンドの特徴など
 
-カップリングやアルバム曲のほとんどは当初からメンバーが作詞作曲していた。シングル曲は、デビューからしばらくは、上杉昇や[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")の詞に、織田哲郎や[栗林誠一郎](https://ja.wikipedia.org/wiki/栗林誠一郎 "wikilink")らに曲の提供を受け、それをリリースするという、ビーイングバンドの典型的な活動をしていた。
+カップリングやアルバム曲のほとんどは当初からメンバーが作詞作曲していた。シングル曲は、デビューからしばらくは、上杉昇や[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")の詞に、織田哲郎や[栗林誠一郎](../Page/栗林誠一郎.md "wikilink")らに曲の提供を受け、それをリリースするという、ビーイングバンドの典型的な活動をしていた。
 
 初のテレビ出演を果たし、オリコン1位も獲得した[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")の7thシングル『未来のために』から、シングル曲も徐々に自作へ移行。[小松未歩](../Page/小松未歩.md "wikilink")ら、売り出し中の若手の提供を受ける時期を経て、[1999年](../Page/1999年.md "wikilink")の18thシングル『JUST ONE』からは完全に自作体勢へ移行した。（その後の一部の作品を除く。）
 
 当初はスタジオミュージシャン的な活動に徹していたDEENだが、この頃を境にツアーを数多く決行するようになり、ライブバンドとしての地位を確立した。
 
-[2002年](../Page/2002年.md "wikilink")に日本の民謡をカバーしたアルバム『和音〜Songs for Children』リリース以降は、「NEO AOR」という、DEEN流の[AOR](../Page/AOR.md "wikilink")音楽を追求。最近は、メンバーの意向で若手の登用も再び見受けられるようになり、この頃からビーイング系の[TUBE](../Page/TUBE.md "wikilink")ばかりでなく、[BEGINや](https://ja.wikipedia.org/wiki/BEGIN_\(バンド\) "wikilink")[亀渕友香](../Page/亀渕友香.md "wikilink")らビーイング系列外の数々のミュージシャンとコラボレートする機会も増えた。
+[2002年](../Page/2002年.md "wikilink")に日本の民謡をカバーしたアルバム『和音〜Songs for Children』リリース以降は、「NEO AOR」という、DEEN流の[AOR](../Page/AOR.md "wikilink")音楽を追求。最近は、メンバーの意向で若手の登用も再び見受けられるようになり、この頃からビーイング系の[TUBE](../Page/TUBE.md "wikilink")ばかりでなく、[BEGINや](../Page/BEGIN_\(バンド\).md "wikilink")[亀渕友香](../Page/亀渕友香.md "wikilink")らビーイング系列外の数々のミュージシャンとコラボレートする機会も増えた。
 
 ## メディア出演
 
@@ -138,12 +138,12 @@
   - [うたばん](../Page/うたばん.md "wikilink")
   - [速報\!歌の大辞テン](../Page/速報!歌の大辞テン.md "wikilink")
   - [CDTV](../Page/COUNT_DOWN_TV.md "wikilink")
-  - [ミューズの晩餐 My Song, My Life](https://ja.wikipedia.org/wiki/ミューズの晩餐_My_Song,_My_Life "wikilink")
+  - [ミューズの晩餐 My Song, My Life](../Page/ミューズの晩餐_My_Song,_My_Life.md "wikilink")
   - [有吉反省会](https://ja.wikipedia.org/wiki/有吉反省会 "wikilink")
   - [うたコン](https://ja.wikipedia.org/wiki/うたコン "wikilink")
   - [音楽の日](https://ja.wikipedia.org/wiki/音楽の日 "wikilink")
   - [マツコの知らない世界](https://ja.wikipedia.org/wiki/マツコの知らない世界 "wikilink") (池森のみ出演)
-  - [FNS歌謡祭2018](https://ja.wikipedia.org/wiki/FNS歌謡祭2018 "wikilink") 第2夜 (池森のみ出演 [DAIGO](https://ja.wikipedia.org/wiki/DAIGO "wikilink")とコラボ)
+  - [FNS歌謡祭2018](https://ja.wikipedia.org/wiki/FNS歌謡祭2018 "wikilink") 第2夜 (池森のみ出演 [DAIGO](../Page/DAIGO.md "wikilink")とコラボ)
   - 他多数
 
 ### インタビュー
@@ -170,7 +170,7 @@
 <td><p>BGDH-1002</p></td>
 <td><p><a href="../Page/1993年.md" title="wikilink">1993年</a><a href="../Page/3月10日.md" title="wikilink">3月10日</a></p></td>
 <td><p><strong><a href="../Page/このまま君だけを奪い去りたい.md" title="wikilink">このまま君だけを奪い去りたい</a></strong></p></td>
-<td><p>作詞：<a href="https://ja.wikipedia.org/wiki/上杉昇" title="wikilink">上杉昇</a><br />
+<td><p>作詞：<a href="../Page/上杉昇.md" title="wikilink">上杉昇</a><br />
 作曲：<a href="../Page/織田哲郎.md" title="wikilink">織田哲郎</a><br />
 編曲：<a href="../Page/葉山たけし.md" title="wikilink">葉山たけし</a></p></td>
 <td><p>2位</p></td>
@@ -192,7 +192,7 @@
 <td><p>BGDH-1009</p></td>
 <td><p><a href="../Page/1993年.md" title="wikilink">1993年</a><a href="../Page/9月22日.md" title="wikilink">9月22日</a></p></td>
 <td><p><strong><a href="../Page/Memories_(DEENの曲).md" title="wikilink">Memories</a></strong></p></td>
-<td><p>作詞：<a href="https://ja.wikipedia.org/wiki/池森秀一" title="wikilink">池森秀一</a>・井上留美子<br />
+<td><p>作詞：<a href="../Page/池森秀一.md" title="wikilink">池森秀一</a>・井上留美子<br />
 作曲：織田哲郎<br />
 編曲：葉山たけし</p></td>
 <td><p>4位</p></td>
@@ -203,8 +203,8 @@
 <td><p>BGDH-1018</p></td>
 <td><p><a href="../Page/1993年.md" title="wikilink">1993年</a><a href="../Page/11月28日.md" title="wikilink">11月28日</a></p></td>
 <td><p><strong><a href="../Page/永遠をあずけてくれ.md" title="wikilink">永遠をあずけてくれ</a></strong></p></td>
-<td><p>作詞：<a href="https://ja.wikipedia.org/wiki/川島だりあ" title="wikilink">川島だりあ</a><br />
-作曲：<a href="https://ja.wikipedia.org/wiki/栗林誠一郎" title="wikilink">栗林誠一郎</a><br />
+<td><p>作詞：<a href="../Page/川島だりあ.md" title="wikilink">川島だりあ</a><br />
+作曲：<a href="../Page/栗林誠一郎.md" title="wikilink">栗林誠一郎</a><br />
 編曲：葉山たけし</p></td>
 <td><p>3位</p></td>
 <td></td>
@@ -249,11 +249,11 @@
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/LOVE_FOREVER/少年" title="wikilink">LOVE FOREVER/少年</a></strong></p></td>
 <td><p>(LOVE FOREVER)<br />
 作詞：山本ゆり<br />
-作曲：<a href="https://ja.wikipedia.org/wiki/田川伸治" title="wikilink">田川伸治</a><br />
+作曲：<a href="../Page/田川伸治.md" title="wikilink">田川伸治</a><br />
 編曲：葉山たけし<br />
 (少年)<br />
 作詞：池森秀一<br />
-作曲：<a href="https://ja.wikipedia.org/wiki/山根公路" title="wikilink">山根公路</a>・田川伸治<br />
+作曲：<a href="../Page/山根公路.md" title="wikilink">山根公路</a>・田川伸治<br />
 編曲：古井弘人</p></td>
 <td><p>4位</p></td>
 <td><p><strong>I wish</strong></p></td>
@@ -339,7 +339,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/1998年" title="wikilink">1998年</a><a href="../Page/11月18日.md" title="wikilink">11月18日</a></p></td>
 <td><p><strong><a href="../Page/手ごたえのない愛.md" title="wikilink">手ごたえのない愛</a></strong></p></td>
 <td><p>作詞・作曲：小松未歩<br />
-編曲：<a href="https://ja.wikipedia.org/wiki/徳永暁人" title="wikilink">徳永暁人</a></p></td>
+編曲：<a href="../Page/徳永暁人.md" title="wikilink">徳永暁人</a></p></td>
 <td><p>13位</p></td>
 <td></td>
 </tr>
@@ -357,9 +357,9 @@
 <tr class="odd">
 <td><p>18th</p></td>
 <td><p>BVDR-11021</p></td>
-<td><p><a href="../Page/1999年.md" title="wikilink">1999年</a><a href="https://ja.wikipedia.org/wiki/7月23日" title="wikilink">7月23日</a></p></td>
+<td><p><a href="../Page/1999年.md" title="wikilink">1999年</a><a href="../Page/7月23日.md" title="wikilink">7月23日</a></p></td>
 <td><p><strong><a href="../Page/JUST_ONE.md" title="wikilink">JUST ONE</a></strong></p></td>
-<td><p>作詞・作曲：<a href="https://ja.wikipedia.org/wiki/池森秀一" title="wikilink">池森秀一</a><br />
+<td><p>作詞・作曲：<a href="../Page/池森秀一.md" title="wikilink">池森秀一</a><br />
 編曲：DEEN</p></td>
 <td><p>19位</p></td>
 <td><p><strong><a href="../Page/&#39;need_love.md" title="wikilink">'need love</a></strong></p></td>
@@ -380,7 +380,7 @@
 <td><p>BVCR-19802</p></td>
 <td><p><a href="../Page/2000年.md" title="wikilink">2000年</a><a href="../Page/4月19日.md" title="wikilink">4月19日</a></p></td>
 <td><p><strong><a href="../Page/Power_of_Love_(DEENの曲).md" title="wikilink">Power of Love</a></strong></p></td>
-<td><p>作詞：<a href="https://ja.wikipedia.org/wiki/池森秀一" title="wikilink">池森秀一</a><br />
+<td><p>作詞：<a href="../Page/池森秀一.md" title="wikilink">池森秀一</a><br />
 作曲・編曲：DEEN</p></td>
 <td><p>18位</p></td>
 <td></td>
@@ -500,7 +500,7 @@ BVCR-19625</p></td>
 <td><p>31st</p></td>
 <td><p>BVCR-19958・9<br />
 BVCR-19957</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/10月26日.md" title="wikilink">10月26日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/10月26日.md" title="wikilink">10月26日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/このまま君だけを奪い去りたい/翼を広げて" title="wikilink">このまま君だけを奪い去りたい/翼を広げて</a></strong></p></td>
 <td><p>(このまま-)<br />
 作詞：上杉昇<br />
@@ -534,7 +534,7 @@ BVCR-19977</p></td>
 <td><p><strong><a href="../Page/ダイヤモンド_(DEENの曲).md" title="wikilink">ダイヤモンド</a></strong></p></td>
 <td><p>作詞：池森秀一<br />
 作曲：池森秀一・山根公路<br />
-編曲：<a href="https://ja.wikipedia.org/wiki/CHOKKAKU" title="wikilink">CHOKKAKU</a></p></td>
+編曲：<a href="../Page/CHOKKAKU.md" title="wikilink">CHOKKAKU</a></p></td>
 <td><p>26位</p></td>
 <td></td>
 </tr>
@@ -601,7 +601,7 @@ BVCL-194</p></td>
 BVCL-334</p></td>
 <td><p><a href="../Page/2012年.md" title="wikilink">2012年</a><a href="../Page/6月27日.md" title="wikilink">6月27日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/心から君が好き〜マリアージュ〜" title="wikilink">心から君が好き〜マリアージュ〜</a></strong></p></td>
-<td><p>作詞：<a href="https://ja.wikipedia.org/wiki/樹林伸" title="wikilink">樹林伸</a>・池森秀一<br />
+<td><p>作詞：<a href="../Page/樹林伸.md" title="wikilink">樹林伸</a>・池森秀一<br />
 作曲：田川伸治<br />
 編曲：DEEN</p></td>
 <td><p>22位</p></td>
@@ -630,7 +630,7 @@ BVCL-530~531</p></td>
 ESCL-4133</p></td>
 <td><p><a href="../Page/2013年.md" title="wikilink">2013年</a><a href="../Page/11月27日.md" title="wikilink">11月27日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/もう泣かないで_(DEENの曲)" title="wikilink">もう泣かないで</a></strong></p></td>
-<td><p>作詞：池森秀一・<a href="https://ja.wikipedia.org/wiki/川島だりあ" title="wikilink">川島だりあ</a><br />
+<td><p>作詞：池森秀一・<a href="../Page/川島だりあ.md" title="wikilink">川島だりあ</a><br />
 作曲：山根公路<br />
 編曲：<a href="https://ja.wikipedia.org/wiki/古井弘人" title="wikilink">古井弘人</a></p></td>
 <td><p>36位</p></td>
@@ -746,8 +746,8 @@ ESCL-5157</p></td>
 <td><p>BVCR-19016</p></td>
 <td><p><a href="../Page/1999年.md" title="wikilink">1999年</a><a href="../Page/11月25日.md" title="wikilink">11月25日</a></p></td>
 <td><p><strong><a href="../Page/Classics_One_WHITE_Christmas_time.md" title="wikilink">Classics One WHITE Christmas time</a></strong></p></td>
-<td><p>作詞:<a href="https://ja.wikipedia.org/wiki/池森秀一" title="wikilink">池森秀一</a><br />
-作曲:<a href="https://ja.wikipedia.org/wiki/山根公路" title="wikilink">山根公路</a><br />
+<td><p>作詞:<a href="../Page/池森秀一.md" title="wikilink">池森秀一</a><br />
+作曲:<a href="../Page/山根公路.md" title="wikilink">山根公路</a><br />
 編曲:<a href="../Page/池田大介_(編曲家).md" title="wikilink">池田大介</a>・DEEN</p></td>
 <td><p>18位</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/pray_(DEENのアルバム)" title="wikilink">pray</a></strong></p></td>
@@ -757,7 +757,7 @@ ESCL-5157</p></td>
 <td><p>BVCR-19025</p></td>
 <td><p><a href="../Page/2000年.md" title="wikilink">2000年</a><a href="../Page/9月13日.md" title="wikilink">9月13日</a></p></td>
 <td><p><strong><a href="../Page/Classics_Two_SEPIA_秋桜_〜more_&amp;_more〜.md" title="wikilink">Classics Two SEPIA 秋桜 〜more &amp; more〜</a></strong></p></td>
-<td><p>作詞:<a href="https://ja.wikipedia.org/wiki/池森秀一" title="wikilink">池森秀一</a><br />
+<td><p>作詞:<a href="../Page/池森秀一.md" title="wikilink">池森秀一</a><br />
 作曲:DEEN<br />
 編曲:DEEN</p></td>
 <td><p>16位</p></td>
@@ -768,8 +768,8 @@ ESCL-5157</p></td>
 <td><p>BVCR-19994</p></td>
 <td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/4月25日.md" title="wikilink">4月25日</a></p></td>
 <td><p><strong><a href="../Page/Classics_Three_PASTEL_夢の蕾.md" title="wikilink">Classics Three PASTEL 夢の蕾</a></strong></p></td>
-<td><p>作詞:<a href="https://ja.wikipedia.org/wiki/池森秀一" title="wikilink">池森秀一</a><br />
-作曲:<a href="https://ja.wikipedia.org/wiki/山根公路" title="wikilink">山根公路</a><br />
+<td><p>作詞:<a href="../Page/池森秀一.md" title="wikilink">池森秀一</a><br />
+作曲:<a href="../Page/山根公路.md" title="wikilink">山根公路</a><br />
 編曲:山根公路</p></td>
 <td><p>29位</p></td>
 <td></td>
@@ -780,8 +780,8 @@ ESCL-5157</p></td>
 BVCR-19096</p></td>
 <td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/8月22日.md" title="wikilink">8月22日</a></p></td>
 <td><p><strong><a href="../Page/Classics_Four_BLUE_Smile_Blue.md" title="wikilink">Classics Four BLUE Smile Blue</a></strong></p></td>
-<td><p>作詞:<a href="https://ja.wikipedia.org/wiki/池森秀一" title="wikilink">池森秀一</a><br />
-作曲:<a href="https://ja.wikipedia.org/wiki/山根公路" title="wikilink">山根公路</a><br />
+<td><p>作詞:<a href="../Page/池森秀一.md" title="wikilink">池森秀一</a><br />
+作曲:<a href="../Page/山根公路.md" title="wikilink">山根公路</a><br />
 編曲:山根公路</p></td>
 <td><p>30位</p></td>
 <td></td>
@@ -804,8 +804,8 @@ BVCR-19096</p></td>
 <td><p>1st</p></td>
 <td><p><a href="../Page/2018年.md" title="wikilink">2018年</a><a href="../Page/7月14日.md" title="wikilink">7月14日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Aloha_(DEENの曲)" title="wikilink">Aloha</a></strong></p></td>
-<td><p>作詞:<a href="https://ja.wikipedia.org/wiki/池森秀一" title="wikilink">池森秀一</a>・Rodeo V. Gonzaga<br />
-作曲:<a href="https://ja.wikipedia.org/wiki/山根公路" title="wikilink">山根公路</a></p></td>
+<td><p>作詞:<a href="../Page/池森秀一.md" title="wikilink">池森秀一</a>・Rodeo V. Gonzaga<br />
+作曲:<a href="../Page/山根公路.md" title="wikilink">山根公路</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/NEWJOURNEY" title="wikilink">NEWJOURNEY</a></strong></p></td>
 </tr>
 <tr class="odd">
@@ -820,7 +820,7 @@ BVCR-19096</p></td>
 <td><p>3rd</p></td>
 <td><p><a href="../Page/2018年.md" title="wikilink">2018年</a><a href="../Page/7月28日.md" title="wikilink">7月28日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Power_of_Love_(DEENの曲)#Power_of_Love_〜Jawaiian_Style〜" title="wikilink">Power of Love 〜Jawaiian Style〜</a></strong></p></td>
-<td><p>作詞：<a href="https://ja.wikipedia.org/wiki/池森秀一" title="wikilink">池森秀一</a><br />
+<td><p>作詞：<a href="../Page/池森秀一.md" title="wikilink">池森秀一</a><br />
 作曲：DEEN</p></td>
 <td></td>
 </tr>
@@ -828,8 +828,8 @@ BVCR-19096</p></td>
 <td><p>4th</p></td>
 <td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/1月29日.md" title="wikilink">1月29日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/そばにいるだけで" title="wikilink">そばにいるだけで</a></strong></p></td>
-<td><p>作詞：<a href="https://ja.wikipedia.org/wiki/池森秀一" title="wikilink">池森秀一</a><br />
-作曲：<a href="https://ja.wikipedia.org/wiki/山根公路" title="wikilink">山根公路</a></p></td>
+<td><p>作詞：<a href="../Page/池森秀一.md" title="wikilink">池森秀一</a><br />
+作曲：<a href="../Page/山根公路.md" title="wikilink">山根公路</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1113,7 +1113,7 @@ ESCL-4781</p></td>
 <td><p>セルフカバーアルバム</p></td>
 <td><p>BVCR-18056~7<br />
 BVCR-11077</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/11月23日.md" title="wikilink">11月23日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/11月23日.md" title="wikilink">11月23日</a></p></td>
 <td><p><strong><a href="../Page/DEEN_The_Best_キセキ.md" title="wikilink">DEEN The Best キセキ</a></strong></p></td>
 <td><p>10位</p></td>
 </tr>
@@ -1131,7 +1131,7 @@ ESCL-4217</p></td>
 ESCL5258<br />
 ESC8-56</p></td>
 <td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="../Page/11月6日.md" title="wikilink">11月6日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Ballads_in_Love_〜The_greatest_love_songs_of_DEEN〜" title="wikilink">Ballads in Love 〜The greatest love songs of DEEN〜</a></strong></p></td>
+<td><p><strong><a href="../Page/Ballads_in_Love_〜The_greatest_love_songs_of_DEEN〜.md" title="wikilink">Ballads in Love 〜The greatest love songs of DEEN〜</a></strong></p></td>
 <td><p>21位</p></td>
 </tr>
 <tr class="even">
@@ -1172,7 +1172,7 @@ BVCL-145~146</p></td>
 
 ### 配信限定アルバム
 
-以下のアルバムは[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")、[mora](https://ja.wikipedia.org/wiki/mora "wikilink")、[着うた](../Page/着うた.md "wikilink")、[着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")、[着うたフルプラス](https://ja.wikipedia.org/wiki/着うたフルプラス "wikilink")のみで配信されている。
+以下のアルバムは[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")、[mora](https://ja.wikipedia.org/wiki/mora "wikilink")、[着うた](../Page/着うた.md "wikilink")、[着うたフル](../Page/着うたフル.md "wikilink")、[着うたフルプラス](https://ja.wikipedia.org/wiki/着うたフルプラス "wikilink")のみで配信されている。
 
 <table>
 <tbody>
@@ -1543,7 +1543,7 @@ ESBL-2529~30 (DVD)</p></td>
 </tr>
 <tr class="even">
 <td><p>思い切り 笑って</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/キヤノン" title="wikilink">キヤノン</a>「<a href="https://ja.wikipedia.org/wiki/キヤノンのカメラ製品一覧" title="wikilink">EOS</a>」CMソング</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/キヤノン" title="wikilink">キヤノン</a>「<a href="../Page/キヤノンのカメラ製品一覧.md" title="wikilink">EOS</a>」CMソング</p></td>
 </tr>
 <tr class="odd">
 <td><p>Teenage dream</p></td>
@@ -1666,7 +1666,7 @@ ESBL-2529~30 (DVD)</p></td>
 <tr class="even">
 <td><p>翼を風に乗せて 〜fly away〜</p></td>
 <td><p><a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a>系『<a href="../Page/奇跡の扉_TVのチカラ.md" title="wikilink">奇跡の扉 TVのチカラ</a>』エンディングテーマ<br />
-中京テレビ「<a href="https://ja.wikipedia.org/wiki/SPORTS_STADIUM" title="wikilink">SPORTS STADIUM</a>」エンディングテーマ</p></td>
+中京テレビ「<a href="../Page/SPORTS_STADIUM.md" title="wikilink">SPORTS STADIUM</a>」エンディングテーマ</p></td>
 </tr>
 <tr class="odd">
 <td><p>桜の下で逢いましょう</p></td>
@@ -1690,7 +1690,7 @@ ESBL-2529~30 (DVD)</p></td>
 </tr>
 <tr class="even">
 <td><p>愛の鐘が世界に響きますように…</p></td>
-<td><p>TBS系 『<a href="https://ja.wikipedia.org/wiki/魂のワンスプーン" title="wikilink">魂のワンスプーン</a>』エンディングテーマ</p></td>
+<td><p>TBS系 『<a href="../Page/魂のワンスプーン.md" title="wikilink">魂のワンスプーン</a>』エンディングテーマ</p></td>
 </tr>
 <tr class="odd">
 <td><p>Starting Over</p></td>
@@ -1750,7 +1750,7 @@ ESBL-2529~30 (DVD)</p></td>
 </tr>
 <tr class="odd">
 <td><p>もう泣かないで</p></td>
-<td><p>テレビ朝日系木曜ミステリー「<a href="https://ja.wikipedia.org/wiki/科捜研の女" title="wikilink">科捜研の女</a>」主題歌</p></td>
+<td><p>テレビ朝日系木曜ミステリー「<a href="../Page/科捜研の女.md" title="wikilink">科捜研の女</a>」主題歌</p></td>
 </tr>
 <tr class="even">
 <td><p>Future</p></td>
@@ -1766,7 +1766,7 @@ ESBL-2529~30 (DVD)</p></td>
 </tr>
 <tr class="odd">
 <td><p>Crossroad</p></td>
-<td><p>日本テレビ系「<a href="https://ja.wikipedia.org/wiki/ぶらり途中下車の旅" title="wikilink">ぶらり途中下車の旅</a>」エンディングテーマ(4月〜)</p></td>
+<td><p>日本テレビ系「<a href="../Page/ぶらり途中下車の旅.md" title="wikilink">ぶらり途中下車の旅</a>」エンディングテーマ(4月〜)</p></td>
 </tr>
 <tr class="even">
 <td><p>スマイリン</p></td>
@@ -1833,7 +1833,7 @@ CLUB CITTA' 川崎</p></td>
 <td><p><strong>DEEN LIVE JOY-Break 1<br />
 〜I wish〜GAKUENSAI '96</strong></p></td>
 <td><p>全5会場・5公演<br />
-<a href="https://ja.wikipedia.org/wiki/鹿屋市" title="wikilink">鹿屋市</a>文化会館、<a href="../Page/鹿児島女子短期大学.md" title="wikilink">鹿児島女子短期大学</a>〈<a href="../Page/鹿児島市民文化ホール.md" title="wikilink">鹿児島市民文化ホール</a>〉、<a href="../Page/仁愛女子短期大学.md" title="wikilink">仁愛女子短期大学</a>〈福井<a href="../Page/フェニックス・プラザ.md" title="wikilink">フェニックス・プラザ</a>〉、<a href="https://ja.wikipedia.org/wiki/東北大学百周年記念会館" title="wikilink">東北大学・川内記念講堂</a>、<a href="../Page/湯沢市.md" title="wikilink">湯沢文化会館</a></p></td>
+<a href="../Page/鹿屋市.md" title="wikilink">鹿屋市</a>文化会館、<a href="../Page/鹿児島女子短期大学.md" title="wikilink">鹿児島女子短期大学</a>〈<a href="../Page/鹿児島市民文化ホール.md" title="wikilink">鹿児島市民文化ホール</a>〉、<a href="../Page/仁愛女子短期大学.md" title="wikilink">仁愛女子短期大学</a>〈福井<a href="../Page/フェニックス・プラザ.md" title="wikilink">フェニックス・プラザ</a>〉、<a href="https://ja.wikipedia.org/wiki/東北大学百周年記念会館" title="wikilink">東北大学・川内記念講堂</a>、<a href="../Page/湯沢市.md" title="wikilink">湯沢文化会館</a></p></td>
 <td><p>学園祭ホール・ライブ</p></td>
 </tr>
 <tr class="even">
@@ -2447,10 +2447,10 @@ Zepp Tokyo</p></td>
       - [エピックレコードジャパン](../Page/エピックレコードジャパン.md "wikilink") - 在籍中のレコード会社
       - [アリオラジャパン](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink") - 所属していたレコード会社
       - [BMG JAPAN](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink") - 所属していたレコード会社
-      - [BERG レーベル](https://ja.wikipedia.org/wiki/BERG_レーベル "wikilink") - 所属していたBMGジャパン内のビーイング専門レーベル
+      - [BERG レーベル](../Page/BERG_レーベル.md "wikilink") - 所属していたBMGジャパン内のビーイング専門レーベル
       - [RCAアリオラジャパン](https://ja.wikipedia.org/wiki/RCAアリオラジャパン "wikilink") - 以前の発売元
   - [ビーイング](../Page/ビーイング.md "wikilink") - 所属していた音楽制作会社のグループ
-      - [B-Gram RECORDS](https://ja.wikipedia.org/wiki/B-Gram_RECORDS "wikilink") - 在籍していたレコード会社
+      - [B-Gram RECORDS](../Page/B-Gram_RECORDS.md "wikilink") - 在籍していたレコード会社
       - [ビーイングブーム](../Page/ビーイングブーム.md "wikilink")
       - [長戸大幸](https://ja.wikipedia.org/wiki/長戸大幸 "wikilink") - 初期の[プロデューサー](../Page/プロデューサー.md "wikilink")
       - BGV - ビーイングの音楽ダウンロードサイト
@@ -2458,7 +2458,7 @@ Zepp Tokyo</p></td>
       - [坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink") - 作詞提供・レコーディング参加
       - [小松未歩](../Page/小松未歩.md "wikilink") - 作詞・作曲提供
       - [宇徳敬子](https://ja.wikipedia.org/wiki/宇徳敬子 "wikilink") - レコーディング参加
-      - [DIMENSION](https://ja.wikipedia.org/wiki/DIMENSION "wikilink") - レコーディング参加
+      - [DIMENSION](../Page/DIMENSION.md "wikilink") - レコーディング参加
       - [TEARS](../Page/TEARS_\(バンド\).md "wikilink") - 仲居辰磨が在籍したバンド
   - [原田知世](https://ja.wikipedia.org/wiki/原田知世 "wikilink")
   - [ダイアナ湯川](https://ja.wikipedia.org/wiki/ダイアナ湯川 "wikilink")

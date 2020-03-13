@@ -22,11 +22,11 @@
   - 交通
       - [EMC製の](../Page/エレクトロ・モーティブ・ディーゼル.md "wikilink")[SW形ディーゼル機関車](https://ja.wikipedia.org/wiki/EMC製のウィントンエンジン搭載の入換機 "wikilink")
       - [海上暴風警報](https://ja.wikipedia.org/wiki/海上暴風警報 "wikilink") (Storm Warning)。
-      - [自動列車停止装置](../Page/自動列車停止装置.md "wikilink")の一種「ATS-SW」。[JR西日本で使用されている](https://ja.wikipedia.org/wiki/西日本旅客鉄道 "wikilink")。
+      - [自動列車停止装置](../Page/自動列車停止装置.md "wikilink")の一種「ATS-SW」。[JR西日本で使用されている](../Page/西日本旅客鉄道.md "wikilink")。
       - 南側発着ターミナル (south wing)。[空港](../Page/空港.md "wikilink")の発着ターミナルの略語。
       - 2代目[トヨタ・MR2](../Page/トヨタ・MR2.md "wikilink")の通称(形式名SW20より)
   - コード
-      - [スワヒリ語](https://ja.wikipedia.org/wiki/スワヒリ語 "wikilink")の[ISO 639-1言語コード](https://ja.wikipedia.org/wiki/ISO_639 "wikilink")
+      - [スワヒリ語](https://ja.wikipedia.org/wiki/スワヒリ語 "wikilink")の[ISO 639-1言語コード](../Page/ISO_639.md "wikilink")
       - [ナミビア航空](../Page/ナミビア航空.md "wikilink")の[IATA](../Page/国際航空運送協会.md "wikilink")[航空会社コード](../Page/航空会社コード.md "wikilink")。
       - [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")国内の[空港施設利用料](https://ja.wikipedia.org/wiki/空港施設利用料 "wikilink")。詳細は[サーチャージ (運賃)参照](https://ja.wikipedia.org/wiki/サーチャージ_\(運賃\) "wikilink")。
   - 軍事

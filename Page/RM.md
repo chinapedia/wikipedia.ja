@@ -18,10 +18,10 @@
 <!-- end list -->
 
   - レーシングモディファイ (**R**acing **M**odify) - [グランツーリスモ5](https://ja.wikipedia.org/wiki/グランツーリスモ5 "wikilink")に登場するチューニング。
-  - [レイルマガジン](https://ja.wikipedia.org/wiki/レイルマガジン "wikilink") (**R**ail **M**agazine) - 日本の鉄道趣味雑誌。
+  - [レイルマガジン](../Page/レイルマガジン.md "wikilink") (**R**ail **M**agazine) - 日本の鉄道趣味雑誌。
   - 現実通貨 (**R**eal **M**oney) - [リアルマネートレーディング](../Page/リアルマネートレーディング.md "wikilink")で使われる通貨。
   - [記録管理](https://ja.wikipedia.org/wiki/記録管理 "wikilink") (**R**ecords **M**anagement)
-  - [首都州 (チリ)](https://ja.wikipedia.org/wiki/首都州_\(チリ\) "wikilink") (**R**egión **M**etropolitana)
+  - [首都州 (チリ)](../Page/首都州_\(チリ\).md "wikilink") (**R**egión **M**etropolitana)
   - **R**esearch **M**achine - [イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の企業。
   - [ライダーマーク](https://ja.wikipedia.org/wiki/ライダーマーク "wikilink") (**R**ider **M**ark)
   - [リンギット](../Page/リンギット.md "wikilink") (**R**inggit **M**alaysia) - マレーシアの[通貨](../Page/通貨.md "wikilink")単位。
@@ -36,6 +36,6 @@
 
 <!-- end list -->
 
-  - [レトロマンス語](https://ja.wikipedia.org/wiki/レトロマンス語 "wikilink")の[ISO 639-1言語コード](https://ja.wikipedia.org/wiki/ISO_639 "wikilink")
+  - [レトロマンス語](https://ja.wikipedia.org/wiki/レトロマンス語 "wikilink")の[ISO 639-1言語コード](../Page/ISO_639.md "wikilink")
   - [イタリア](../Page/イタリア.md "wikilink")共和国[ラツィオ州](../Page/ラツィオ州.md "wikilink")[ローマ県](../Page/ローマ県.md "wikilink")の[ISO 3166-2:IT県名コード](../Page/ISO_3166-2:IT.md "wikilink")。[県名略記号にはROMAも使用する](../Page/イタリア共和国の県名略記号.md "wikilink")。
   - [RealMedia](../Page/RealMedia.md "wikilink") [マルチメディア](../Page/マルチメディア.md "wikilink")[コンテナフォーマット](../Page/コンテナフォーマット.md "wikilink")。拡張子は".rm" ".rmvb"

@@ -9,13 +9,13 @@
 
 これらの番組が放送されていた当時はJFNの老舗局を中心に同時ネットで放送されていた\[1\]。
 
-その後『[6Sense](https://ja.wikipedia.org/wiki/6Sense "wikilink")』に変わると同時にTOKYO FMおよび[愛知のみでの放送となり](../Page/エフエム愛知.md "wikilink")、『[Eyes on Japan](../Page/Eyes_on_Japan.md "wikilink")』から東京ローカルの放送となった。
+その後『[6Sense](../Page/6Sense.md "wikilink")』に変わると同時にTOKYO FMおよび[愛知のみでの放送となり](../Page/エフエム愛知.md "wikilink")、『[Eyes on Japan](../Page/Eyes_on_Japan.md "wikilink")』から東京ローカルの放送となった。
 
 『Eyes on Japan』以降、TOKYO FMでおはようSMAPが放送されている時間帯はJFNネット局向けに裏送りで全国の天気予報が放送されていた。
 
 所属事務所の当時の方針により、[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")エリアフリーによる関東地方以外からの聴取および、タイムフリーによる聴取と[LISMO WAVEでの聴取には対応していなかった](https://ja.wikipedia.org/wiki/LISMO#LISMO_WAVE "wikilink")。
 
-出演者は、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の[中居正広](../Page/中居正広.md "wikilink")、[木村拓哉](https://ja.wikipedia.org/wiki/木村拓哉 "wikilink")、[稲垣吾郎](../Page/稲垣吾郎.md "wikilink")、[草彅剛](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")、[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")より1名。中居は2010年1月1日に担当して以来、一切出演していなかった。
+出演者は、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の[中居正広](../Page/中居正広.md "wikilink")、[木村拓哉](../Page/木村拓哉.md "wikilink")、[稲垣吾郎](../Page/稲垣吾郎.md "wikilink")、[草彅剛](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")、[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")より1名。中居は2010年1月1日に担当して以来、一切出演していなかった。
 
 SMAPのメンバーが一人ずつ交代で当日の[東京](../Page/東京.md "wikilink")地方の天気を伝え、「きょうは何の日」であるか、それに関したエピソードなどを話す。SMAPメンバーは4週間ごとに交代。原則として、放送は1人で行い、事前収録となっている。なお、6:29頃には**TOKYO FM トラフィックレポート**を内包する。
 

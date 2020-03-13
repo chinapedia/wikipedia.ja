@@ -7,9 +7,9 @@
 
 e-文書法によって、財務・税務関係の帳票類や取締役会議事録など、[商法](../Page/商法.md "wikilink")（及びその関連法令）や[税法](https://ja.wikipedia.org/wiki/税法 "wikilink")で保管が義務づけられている[文書](../Page/文書.md "wikilink")について、紙文書だけでなく電子化された文書ファイルでの保存が認められるようになった。
 
-また、元から[電子データ](https://ja.wikipedia.org/wiki/電子データ "wikilink")として作成された文書だけでなく、紙として保存された文書を[スキャンして](https://ja.wikipedia.org/wiki/スキャナ "wikilink")[画像ファイルとしたものに対しても](https://ja.wikipedia.org/wiki/ビットマップ画像 "wikilink")、当法律において定めた要件を満たせば正規の文書として認められるようになった。
+また、元から[電子データ](https://ja.wikipedia.org/wiki/電子データ "wikilink")として作成された文書だけでなく、紙として保存された文書を[スキャンして](../Page/スキャナ.md "wikilink")[画像ファイルとしたものに対しても](../Page/ビットマップ画像.md "wikilink")、当法律において定めた要件を満たせば正規の文書として認められるようになった。
 
-本法の施行により文書・帳票類の保管にかかる諸費用が軽減され、企業間取引の電子化にいっそう拍車がかかるものと期待されている。ただし、[損益計算書](../Page/損益計算書.md "wikilink")や[貸借対照表](../Page/貸借対照表.md "wikilink")など、企業[決算](https://ja.wikipedia.org/wiki/決算 "wikilink")にかかわる一部の重要書類は法の対象から外されているため、引き続き紙文書としての保管が義務づけられている。
+本法の施行により文書・帳票類の保管にかかる諸費用が軽減され、企業間取引の電子化にいっそう拍車がかかるものと期待されている。ただし、[損益計算書](../Page/損益計算書.md "wikilink")や[貸借対照表](../Page/貸借対照表.md "wikilink")など、企業[決算](../Page/決算.md "wikilink")にかかわる一部の重要書類は法の対象から外されているため、引き続き紙文書としての保管が義務づけられている。
 
 類似する法律に「電子帳簿保存法」があるが、これは国税庁が管轄する法律である。
 
@@ -28,9 +28,9 @@ e-文書法によって、財務・税務関係の帳票類や取締役会議事
 
 ## 関連項目
 
-  - [DocuWorks](https://ja.wikipedia.org/wiki/DocuWorks "wikilink")
+  - [DocuWorks](../Page/DocuWorks.md "wikilink")
   - [PDF](../Page/Portable_Document_Format.md "wikilink")
-  - [行政手続等における情報通信の技術の利用に関する法律](https://ja.wikipedia.org/wiki/行政手続等における情報通信の技術の利用に関する法律 "wikilink")
+  - [行政手続等における情報通信の技術の利用に関する法律](../Page/行政手続等における情報通信の技術の利用に関する法律.md "wikilink")
   - [電子帳簿保存法](https://ja.wikipedia.org/wiki/電子帳簿保存法 "wikilink")
   - [電子文書](../Page/電子文書.md "wikilink")
 

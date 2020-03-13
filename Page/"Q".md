@@ -1,7 +1,7 @@
 > この記事は[Q](https://ja.wikipedia.org/wiki/Q)から翻訳されています。
 
 
-「**"Q"**」（キュー）は、日本の音楽グループ[AAAの](https://ja.wikipedia.org/wiki/AAA_\(音楽グループ\) "wikilink")10枚目のシングル。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月6日](../Page/9月6日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+「**"Q"**」（キュー）は、日本の音楽グループ[AAAの](../Page/AAA_\(音楽グループ\).md "wikilink")10枚目のシングル。[2006年](../Page/2006年.md "wikilink")[9月6日](../Page/9月6日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 
@@ -20,7 +20,7 @@
 1.  **"Q"**
     （作詞：[m.c.A・T](https://ja.wikipedia.org/wiki/m.c.A・T "wikilink") / 作曲・編曲：[上野圭市](../Page/上野圭市.md "wikilink")）
       -
-        「第26回[全国高等学校クイズ選手権](https://ja.wikipedia.org/wiki/全国高等学校クイズ選手権 "wikilink")」応援ソング
+        「第26回[全国高等学校クイズ選手権](../Page/全国高等学校クイズ選手権.md "wikilink")」応援ソング
 2.  **[ハレルヤ](../Page/ハレルヤ_\(AAAの曲\).md "wikilink")（Live Version）**
 3.  "Q"（Instrumental）
 

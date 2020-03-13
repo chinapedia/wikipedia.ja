@@ -8,10 +8,10 @@
   - [照井利幸](../Page/照井利幸.md "wikilink")
     [ベース](../Page/エレクトリックベース.md "wikilink")、[エレクトリックギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")、[アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")
   - [チバユウスケ](../Page/チバユウスケ.md "wikilink")
-    [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ブルースハープなど](https://ja.wikipedia.org/wiki/ハーモニカ "wikilink")
-  - [中村達也](https://ja.wikipedia.org/wiki/中村達也_\(ドラマー\) "wikilink")
+    [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ブルースハープなど](../Page/ハーモニカ.md "wikilink")
+  - [中村達也](../Page/中村達也_\(ドラマー\).md "wikilink")
     [ドラム](../Page/ドラムセット.md "wikilink")
-  - [辻剛](https://ja.wikipedia.org/wiki/辻剛 "wikilink")（元[JUSTY-NASTY](https://ja.wikipedia.org/wiki/JUSTY-NASTY "wikilink")）
+  - [辻剛](https://ja.wikipedia.org/wiki/辻剛 "wikilink")（元[JUSTY-NASTY](../Page/JUSTY-NASTY.md "wikilink")）
     エレクトリックギター、アコースティック・ギターなど
   - 尾崎一雄（MILK CROWN）
     [ドラムなど](../Page/ドラムセット.md "wikilink")
@@ -51,7 +51,7 @@
         照井利幸（B）、チバユウスケ（Vo）、辻剛（G）、中村達也（Ds）
 8.  **Blue Waltz**
       -
-        照井利幸（B）、チバユウスケ（Vo）、辻剛（G・[グラスハープ](https://ja.wikipedia.org/wiki/グラス・ハープ "wikilink")・Per）、尾崎一雄（[カホン](https://ja.wikipedia.org/wiki/カホン "wikilink")）
+        照井利幸（B）、チバユウスケ（Vo）、辻剛（G・[グラスハープ](../Page/グラス・ハープ.md "wikilink")・Per）、尾崎一雄（[カホン](../Page/カホン.md "wikilink")）
 
 <!-- end list -->
 

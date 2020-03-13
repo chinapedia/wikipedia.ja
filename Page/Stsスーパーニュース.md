@@ -51,7 +51,7 @@
 ### 平日
 
   - 17:54 - 18:15 『**FNNスーパーニュース**』（FNN全国ニュース）
-  - 18:15 - 18:32頃 『**SAGATVスーパーニュース**』本編（[提供クレジット](https://ja.wikipedia.org/wiki/提供クレジット "wikilink")放送後、サガテレビの[ニューススタジオからキャスター挨拶](https://ja.wikipedia.org/wiki/スタジオ_\(映像撮影\) "wikilink")・佐賀県内ローカルニュース・特集を放送）
+  - 18:15 - 18:32頃 『**SAGATVスーパーニュース**』本編（[提供クレジット](../Page/提供クレジット.md "wikilink")放送後、サガテレビの[ニューススタジオからキャスター挨拶](../Page/スタジオ_\(映像撮影\).md "wikilink")・佐賀県内ローカルニュース・特集を放送）
   - 18:32頃 - 18:40 『フラッシュニュース・スポーツコーナー』
   - 18:40 - 18:51.15 『えなみゼミ（スポーツ）・ニュース』（ここは「FNNスーパーニュース」[uhb](../Page/北海道文化放送.md "wikilink")・[KTV](../Page/関西テレビ放送.md "wikilink")・[tssを除く任意ネット](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")25局、途中CM入り2回）
   - 18:51.15 - 18:56 『天気予報・きょう1日のニュースまとめ』
@@ -61,7 +61,7 @@
 
   - 17:30 - 17:47.10 『**FNNスーパーニュースWEEKEND**』（FNN系列全国ネット28局 全国ニュース1・WEEKEND SPORTS・CM前ジングル1・提供クレジット・CM1・全国ニュース2・WEEKEND FLASH）
   - 17:47.10 - 17:48頃 全国パート終了・CM前ジングル2・CM2
-  - 17:48頃 - 18:00 『**SAGATVスーパーニュースWEEKEND**』（佐賀県内ローカルニュース・天気予報・CM3・[提供クレジット](https://ja.wikipedia.org/wiki/提供クレジット "wikilink")・エンディング・ENDクレジット）
+  - 17:48頃 - 18:00 『**SAGATVスーパーニュースWEEKEND**』（佐賀県内ローカルニュース・天気予報・CM3・[提供クレジット](../Page/提供クレジット.md "wikilink")・エンディング・ENDクレジット）
 
 ## キャスター
 
@@ -86,10 +86,10 @@
 
   - 鶴丸英樹
   - [石井理加](https://ja.wikipedia.org/wiki/石井理加 "wikilink")
-  - [中村なぎさ](https://ja.wikipedia.org/wiki/中村なぎさ "wikilink")
+  - [中村なぎさ](../Page/中村なぎさ.md "wikilink")
   - [古賀揚参](https://ja.wikipedia.org/wiki/古賀揚参 "wikilink")
   - [瀧廣祥子](https://ja.wikipedia.org/wiki/瀧廣祥子 "wikilink")
-  - [村岡格](https://ja.wikipedia.org/wiki/村岡格 "wikilink")
+  - [村岡格](../Page/村岡格.md "wikilink")
   - [井手美智留](https://ja.wikipedia.org/wiki/井手美智留 "wikilink")
   - [牛島奈津子](https://ja.wikipedia.org/wiki/牛島奈津子 "wikilink")
   - [長安智子](../Page/長安智子.md "wikilink")

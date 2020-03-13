@@ -7,7 +7,7 @@
 
   - 「CDのみ」、「CD+DVD」の2形態で発売された。
   - シングルのテーマは「夏の楽しみ」。また、ビジュアル面でもジャケット写真やPVを南の島で撮影している。
-  - PVには[山根和馬](../Page/山根和馬.md "wikilink")が出演している。（後に[DA PUMPに加入したKAZUMAである](https://ja.wikipedia.org/wiki/DA_PUMP "wikilink")）
+  - PVには[山根和馬](../Page/山根和馬.md "wikilink")が出演している。（後に[DA PUMPに加入したKAZUMAである](../Page/DA_PUMP.md "wikilink")）
   - 後に2曲ともアルバム『[CONNETTA](../Page/CONNETTA.md "wikilink")』に収録された。
 
 ## 収録曲
@@ -16,9 +16,9 @@
 
 1.  **Alright\!**
       -
-        作詞：鈴木亜美 / 作曲：渡辺和紀 / 編曲：[HΛL](https://ja.wikipedia.org/wiki/HΛL "wikilink")
-        日本テレビ系『[いただきマッスル\!](https://ja.wikipedia.org/wiki/いただきマッスル! "wikilink")』5月エンディングテーマ
-        日本テレビ系『[音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")』2006年5月 POWER PLAY
+        作詞：鈴木亜美 / 作曲：渡辺和紀 / 編曲：[HΛL](../Page/HΛL.md "wikilink")
+        日本テレビ系『[いただきマッスル\!](../Page/いただきマッスル!.md "wikilink")』5月エンディングテーマ
+        日本テレビ系『[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")』2006年5月 POWER PLAY
         [エムティーアイ](../Page/エムティーアイ.md "wikilink")「music.jp」CMソング
 2.  **ハレもよう。**
       -

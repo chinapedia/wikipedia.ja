@@ -7,9 +7,9 @@
 
 ## 構造
 
-複合体IVは、[哺乳類](https://ja.wikipedia.org/wiki/哺乳類 "wikilink")では、いくつかの[金属](../Page/金属.md "wikilink")[補欠分子族](../Page/補欠分子族.md "wikilink")部位と13のタンパク質[サブユニット](https://ja.wikipedia.org/wiki/サブユニット "wikilink")から構成される巨大な内在性膜タンパク質である。哺乳類では、10個のサブユニットは核由来で、残りの3個はミトコンドリアで合成される。複合体IVには2種の[ヘム](https://ja.wikipedia.org/wiki/ヘム "wikilink")（ヘム*a* 、ヘム*a* <sub>3</sub>）、2種の[銅](../Page/銅.md "wikilink")中心（Cu<sub>A</sub>とCu<sub>B</sub>）が含まれている\[1\]。2種類のヘム（ヘム*a*、ヘム*a* <sub>3</sub>）とCu<sub>B</sub>はサブユニットIに位置し、2個のCu<sub>A</sub>はサブユニットIIに配位している。サブユニットIのヘム*a* <sub>3</sub>とCu<sub>B</sub>はそれぞれで二核中心を形成し、酸素の還元部位となっている。
+複合体IVは、[哺乳類](https://ja.wikipedia.org/wiki/哺乳類 "wikilink")では、いくつかの[金属](../Page/金属.md "wikilink")[補欠分子族](../Page/補欠分子族.md "wikilink")部位と13のタンパク質[サブユニット](https://ja.wikipedia.org/wiki/サブユニット "wikilink")から構成される巨大な内在性膜タンパク質である。哺乳類では、10個のサブユニットは核由来で、残りの3個はミトコンドリアで合成される。複合体IVには2種の[ヘム](../Page/ヘム.md "wikilink")（ヘム*a* 、ヘム*a* <sub>3</sub>）、2種の[銅](../Page/銅.md "wikilink")中心（Cu<sub>A</sub>とCu<sub>B</sub>）が含まれている\[1\]。2種類のヘム（ヘム*a*、ヘム*a* <sub>3</sub>）とCu<sub>B</sub>はサブユニットIに位置し、2個のCu<sub>A</sub>はサブユニットIIに配位している。サブユニットIのヘム*a* <sub>3</sub>とCu<sub>B</sub>はそれぞれで二核中心を形成し、酸素の還元部位となっている。
 
-シトクロム*c* は、[複合体III](https://ja.wikipedia.org/wiki/複合体III "wikilink")のシトクロム*c* <sub>1</sub>によって還元された後、複合体IVのCu<sub>A</sub>二核中心と結合し、シトクロム*c* の鉄中心はFe<sup>2+</sup>からFe<sup>3+</sup>に酸化される。還元されたCu<sub>A</sub>二核中心はその電子をヘム*a* に送り、さらにそこからヘム*a* <sub>3</sub>-Cu<sub>B</sub>二核中心に送られる。この二核中心の2個の金属イオンは4.5 Å離れており、十分な酸化状態の[水酸化物](https://ja.wikipedia.org/wiki/水酸化物 "wikilink")イオンに配位している。
+シトクロム*c* は、[複合体III](https://ja.wikipedia.org/wiki/複合体III "wikilink")のシトクロム*c* <sub>1</sub>によって還元された後、複合体IVのCu<sub>A</sub>二核中心と結合し、シトクロム*c* の鉄中心はFe<sup>2+</sup>からFe<sup>3+</sup>に酸化される。還元されたCu<sub>A</sub>二核中心はその電子をヘム*a* に送り、さらにそこからヘム*a* <sub>3</sub>-Cu<sub>B</sub>二核中心に送られる。この二核中心の2個の金属イオンは4.5 Å離れており、十分な酸化状態の[水酸化物](../Page/水酸化物.md "wikilink")イオンに配位している。
 
 シトクロム*c* の結晶学的研究では、Tyr(244)のC6とHis(240)のε-Nが結合するという独特な[翻訳後修飾](../Page/翻訳後修飾.md "wikilink")が見られた（ウシ亜科のクロム*c*オキシダーゼでの酵素ナンバーリング）。これにより、ヘム*a* <sub>3</sub>-Cu<sub>B</sub>二核中心が4電子を受け取って酸素分子を水に還元するという極めて重要な役割が可能になっている。以前は、還元機構は過酸化物中間体が関与していると考えられ、それが超酸化物の生成に繋がっていると考えられていた。しかし、現代では、4電子還元によって酸素-酸素結合が開裂する反応機構が支持されており、超酸化物が形成しそうな中間体は避けられている\[2\]。
 

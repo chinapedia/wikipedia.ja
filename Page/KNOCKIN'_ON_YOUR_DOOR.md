@@ -5,11 +5,11 @@
 
 ## 解説
 
-[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[ドラマ](../Page/テレビドラマ.md "wikilink")『[僕らに愛を\!](../Page/僕らに愛を!.md "wikilink")』の[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")。前作のスマッシュヒットに加え、タイアップの効果もあり、[オリコン集計で](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を達成。L⇔R最大のヒット曲となった。
+[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[ドラマ](../Page/テレビドラマ.md "wikilink")『[僕らに愛を\!](../Page/僕らに愛を!.md "wikilink")』の[主題歌](../Page/主題歌.md "wikilink")。前作のスマッシュヒットに加え、タイアップの効果もあり、[オリコン集計で](../Page/オリコンチャート.md "wikilink")[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を達成。L⇔R最大のヒット曲となった。
 
 『僕らに愛を\!』制作以前に、「REMEMBER」を聴いてバンドの存在を知っていた[プロデューサー](../Page/プロデューサー.md "wikilink")から主題歌の依頼があった。その後ドラマ用に曲を仕上げたが、「もっと、アタマからガツン\!とくるような曲にしてくれ」というプロデューサーからの希望があり、それを受けてメンバーの[黒沢健一](../Page/黒沢健一.md "wikilink")が「アタマからガツン、ガツンということなら、叩くような感じの歌詞と曲に仕上げてみよう」と考え付き、「KNOCKIN'」の歌詞とタイトルがついた。実際、楽曲は[ドア](https://ja.wikipedia.org/wiki/ドア "wikilink")をノックするような音の[イントロ](https://ja.wikipedia.org/wiki/イントロ "wikilink")ではじまる。
 
-この曲でバンド初の[オリコンシングルチャート初登場](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位を獲得。同チャートの1位は前週まで、[H Jungle with tの](../Page/H_Jungle_with_t.md "wikilink")「[WOW WAR TONIGHT 〜時には起こせよムーヴメント](../Page/WOW_WAR_TONIGHT_〜時には起こせよムーヴメント.md "wikilink")」であり、それまで7週連続1位を記録していた。その為、後にフジテレビ系[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")『TK MUSIC CLAMP』にて黒沢と[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")と対談した際、小室は「H Jungleの8週連続1位記録を止めたのがL⇔Rということで、ここらへんスタッフみんな、それが引っ掛かっているんですよ」と語っていた\[1\]。
+この曲でバンド初の[オリコンシングルチャート初登場](../Page/オリコンチャート.md "wikilink")1位を獲得。同チャートの1位は前週まで、[H Jungle with tの](../Page/H_Jungle_with_t.md "wikilink")「[WOW WAR TONIGHT 〜時には起こせよムーヴメント](../Page/WOW_WAR_TONIGHT_〜時には起こせよムーヴメント.md "wikilink")」であり、それまで7週連続1位を記録していた。その為、後にフジテレビ系[音楽番組](../Page/音楽番組.md "wikilink")『TK MUSIC CLAMP』にて黒沢と[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")と対談した際、小室は「H Jungleの8週連続1位記録を止めたのがL⇔Rということで、ここらへんスタッフみんな、それが引っ掛かっているんですよ」と語っていた\[1\]。
 
 カップリングのインストゥルメント曲「MUSIC JAMBOREE '95」は、別名「岩しぶき」と呼ばれている。これは「[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")」出演時に、[ダウンタウンの](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink")[浜田雅功](../Page/浜田雅功.md "wikilink")から「彼らが今までどんな曲を出しているか知っているか?」と質問された[松本人志](../Page/松本人志.md "wikilink")が、「岩しぶき」と答えたのを受けて作曲したのが由来。実際、この曲の最後は穏やかな岩しぶきの音で終っている。そのことを「HEY\!HEY\!HEY\!」で松本に話すと感謝されつつも「ただ、A面じゃないのが残念ですねぇ」と言われた。
 
@@ -47,14 +47,14 @@
 | 2006年09月29日 | 『[J-POP STATION](../Page/J-POP_STATION.md "wikilink")』 (\#1)                                          | WQCQ-19                              |
 | 2006年10月01日 | 『音盤社史 1 ポニーキャニオン40周年・わたしのパパと同い歳』 (\#1)                                                                | PCCA-02335                           |
 | 2008年03月26日 | [DJ和](https://ja.wikipedia.org/wiki/DJ和 "wikilink")『J-ポッパー伝説 \[DJ和 in No.1 J-POP MIX\]』 (\#1)         | AICL-1909                            |
-| 2008年06月25日 | [Mi](https://ja.wikipedia.org/wiki/Mi_\(バンド\) "wikilink")『I Love Music〜Mi Best Collection〜』 (\#1)     | COZA-3205                            |
+| 2008年06月25日 | [Mi](../Page/Mi_\(バンド\).md "wikilink")『I Love Music〜Mi Best Collection〜』 (\#1)                        | COZA-3205                            |
 | 2008年10月08日 | 『決定盤                                                                                                  | 「ニュー・ミュージックの時代」ベスト』 (\#1)            |
 | 2009年07月22日 | 『アイチカラ…』 (\#1)                                                                                        | VICL-63362                           |
 | 2009年08月19日 | 『クライマックス 90's ファンタスティック・ソングス』 (\#1)                                                                   | MHCL-1564                            |
 | 2009年08月26日 | 『[とくダネ\!](https://ja.wikipedia.org/wiki/とくダネ! "wikilink") 朝のヒットスタジオ Vol.5』 (\#1)                      | MHCL-1550                            |
 | 2009年10月07日 | 『決定盤                                                                                                  | ::ドラマのやすらぎ'91～'95 ベスト』 (\#1)         |
 | 2009年10月07日 | 『決定盤                                                                                                  | ::ドラマの時代 ベスト』 (\#1)                  |
-| 2009年12月23日 | 『[CDTV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink") NO.1 HITS コイウタ』 (\#1)                 | AVCD-23974                           |
+| 2009年12月23日 | 『[CDTV](../Page/COUNT_DOWN_TV.md "wikilink") NO.1 HITS コイウタ』 (\#1)                                    | AVCD-23974                           |
 | 2010年03月03日 | 『めざましテレビ ガクナビ -春盤-』 (\#1)                                                                             | PCCA-03123                           |
 | 2010年08月18日 | 『萌えJ-POP』 (\#1)                                                                                       | QWCE-00177                           |
 | 2010年10月06日 | 『ラヴ・ソングス ～恋しくて～』 (\#1)                                                                                | MHCL-1811                            |

@@ -1,7 +1,7 @@
 > この記事は[Tobaccojuice](https://ja.wikipedia.org/wiki/Tobaccojuice)から翻訳されています。
 
 
-**tobaccojuice**（**タバコジュース**）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。1999年結成。2004年[キングレコード](../Page/キングレコード.md "wikilink")からメジャーデビュー。2007年から[ユニバーサルミュージック (日本)に在籍](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。2010年、自主レーベルASOBIを設立。2011年8月、2011年8月末のライブをもって約2年間の活動を終えた。2013年夏、SUMMER SONIC 2013にて活動再開。
+**tobaccojuice**（**タバコジュース**）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。1999年結成。2004年[キングレコード](../Page/キングレコード.md "wikilink")からメジャーデビュー。2007年から[ユニバーサルミュージック (日本)に在籍](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。2010年、自主レーベルASOBIを設立。2011年8月、2011年8月末のライブをもって約2年間の活動を終えた。2013年夏、SUMMER SONIC 2013にて活動再開。
 
 ## メンバー
 

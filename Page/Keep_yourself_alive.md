@@ -5,14 +5,14 @@
 
 ## 解説
 
-  - 小室哲哉が立ち上げた[レーベル](../Page/レコードレーベル.md "wikilink")「[ORUMOK RECORDS](https://ja.wikipedia.org/wiki/ORUMOK_RECORDS "wikilink")」の第1弾シングルとなった\[1\]。
-  - 小室哲哉と共に自身が初出演した「[日本ORACLE](../Page/日本オラクル.md "wikilink")」の[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。ちなみに、左記タイアップの際には未収録バージョン（バージョン名不明）が使用された。
+  - 小室哲哉が立ち上げた[レーベル](../Page/レコードレーベル.md "wikilink")「[ORUMOK RECORDS](../Page/ORUMOK_RECORDS.md "wikilink")」の第1弾シングルとなった\[1\]。
+  - 小室哲哉と共に自身が初出演した「[日本ORACLE](../Page/日本オラクル.md "wikilink")」の[CMソング](../Page/コマーシャルソング.md "wikilink")。ちなみに、左記タイアップの際には未収録バージョン（バージョン名不明）が使用された。
   - 初回出荷分は11.6万枚だったが、発売初日に2.6万枚を超える追加注文が来た。これは[H Jungle with tの](../Page/H_Jungle_with_t.md "wikilink")「[GOING GOING HOME](../Page/GOING_GOING_HOME.md "wikilink")」より良い数字だった\[2\]。
-  - テレビ出演は殆どなかったが、[オリコン初登場で](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")9位、その後は8位まで上がり、TOP10に5週連続チャートインするほど売れ続け、最終的に37万枚まで売り上げた。
+  - テレビ出演は殆どなかったが、[オリコン初登場で](../Page/オリコンチャート.md "wikilink")9位、その後は8位まで上がり、TOP10に5週連続チャートインするほど売れ続け、最終的に37万枚まで売り上げた。
   - 歌詞の内容は、華原朋美の20年間の生き様を小室哲哉が反映させたものである\[3\]。また、楽曲のキーがとても高いのは「誰も歌えないくらいキーが高い曲を歌いたい」という華原の要望から作られた\[4\]。
   - 1996年1月時点でシングルの出荷枚数は40万枚強を記録している\[5\]。
-  - [PVは](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、近未来的な映像の中でパンダメイクの華原がダンスしながら歌うものであった。この曲の振り付けは、翌[1996年](../Page/1996年.md "wikilink")に[dosのメンバーとしてデビューする椛島永次](https://ja.wikipedia.org/wiki/Dos_\(音楽ユニット\) "wikilink")（現・[KABA.ちゃん](../Page/KABA.ちゃん.md "wikilink")）によるものである。PVには小室も出演し、メイキングシーンには椛島も出演した。PVとメイキングが収められたシングル・ビデオは、1995年[9月16日](../Page/9月16日.md "wikilink")に発売された。
-  - 後の[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に『[TK MUSIC CLAMP](https://ja.wikipedia.org/wiki/TK_MUSIC_CLAMP "wikilink")』（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）で、歌手の[高橋真梨子](https://ja.wikipedia.org/wiki/高橋真梨子 "wikilink")はこの曲を聴いて「（華原の）ビブラートの上手さに感動した」と語っている。
+  - [PVは](../Page/ミュージック・ビデオ.md "wikilink")、近未来的な映像の中でパンダメイクの華原がダンスしながら歌うものであった。この曲の振り付けは、翌[1996年](../Page/1996年.md "wikilink")に[dosのメンバーとしてデビューする椛島永次](../Page/Dos_\(音楽ユニット\).md "wikilink")（現・[KABA.ちゃん](../Page/KABA.ちゃん.md "wikilink")）によるものである。PVには小室も出演し、メイキングシーンには椛島も出演した。PVとメイキングが収められたシングル・ビデオは、1995年[9月16日](../Page/9月16日.md "wikilink")に発売された。
+  - 後の[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に『[TK MUSIC CLAMP](../Page/TK_MUSIC_CLAMP.md "wikilink")』（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）で、歌手の[高橋真梨子](../Page/高橋真梨子.md "wikilink")はこの曲を聴いて「（華原の）ビブラートの上手さに感動した」と語っている。
 
 ## 収録曲
 
@@ -25,12 +25,12 @@
   -
 
       -
-        [作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")：[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
+        [作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")：[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
         MIX：[Gary Wright](https://ja.wikipedia.org/wiki/ゲイリー・ライト "wikilink")
 
 ## 収録アルバム・PV集
 
-  - 1stアルバム「[LOVE BRACE](https://ja.wikipedia.org/wiki/LOVE_BRACE "wikilink")」
+  - 1stアルバム「[LOVE BRACE](../Page/LOVE_BRACE.md "wikilink")」
 
 <!-- end list -->
 
@@ -39,7 +39,7 @@
 
 <!-- end list -->
 
-  - [ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")
+  - [ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")
 
 <!-- end list -->
 

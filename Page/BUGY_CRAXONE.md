@@ -5,7 +5,7 @@
 
 ## 略歴
 
-1997年5月、札幌にて結成。 1999年3月、[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")よりメジャーデビュー。 2003年、自身のレーベルとマネージメントを兼ねた「ZubRockA RECORDS」を設立。 2007年、増子直純（[怒髪天](https://ja.wikipedia.org/wiki/怒髪天 "wikilink")）主催のレーベル「[Northern Blossom Records](http://northern-blossom-records.com)」に移籍。 2017年、[テイチクエンタテインメント](https://ja.wikipedia.org/wiki/テイチクエンタテインメント "wikilink")内の[インペリアルレコードより再メジャーデビュー](../Page/インペリアルレコード_\(日本\).md "wikilink")。 同年11月19日に東京・渋谷CLUB QUATTROにて20周年記念ワンマンライブ"100パーセント ナイス！"を行った。
+1997年5月、札幌にて結成。 1999年3月、[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")よりメジャーデビュー。 2003年、自身のレーベルとマネージメントを兼ねた「ZubRockA RECORDS」を設立。 2007年、増子直純（[怒髪天](https://ja.wikipedia.org/wiki/怒髪天 "wikilink")）主催のレーベル「[Northern Blossom Records](http://northern-blossom-records.com)」に移籍。 2017年、[テイチクエンタテインメント](../Page/テイチクエンタテインメント.md "wikilink")内の[インペリアルレコードより再メジャーデビュー](../Page/インペリアルレコード_\(日本\).md "wikilink")。 同年11月19日に東京・渋谷CLUB QUATTROにて20周年記念ワンマンライブ"100パーセント ナイス！"を行った。
 
 ## メンバー
 
@@ -762,7 +762,7 @@ EN3. 枯れた花<br />
   - 2000年10月07日 - ROCK BIBLE '00
   - 2000年12月29日 - SMILEY'S SOUND CAPSULE
       -
-        w/[LOOPUS](https://ja.wikipedia.org/wiki/LOOPUS "wikilink") / [FOE](../Page/會田茂一.md "wikilink") / [the PeteBest](https://ja.wikipedia.org/wiki/the_PeteBest "wikilink") / [GIRAFFE](https://ja.wikipedia.org/wiki/GIRAFFE_\(音楽グループ\) "wikilink")
+        w/[LOOPUS](../Page/LOOPUS.md "wikilink") / [FOE](../Page/會田茂一.md "wikilink") / [the PeteBest](https://ja.wikipedia.org/wiki/the_PeteBest "wikilink") / [GIRAFFE](https://ja.wikipedia.org/wiki/GIRAFFE_\(音楽グループ\) "wikilink")
   - 2002年09月16日 - ARABAKI ROCK CIRCUIT 2002 多賀城SUNSET
   - 2003年09月06日 - [ARABAKI ROCK FEST.](../Page/ARABAKI_ROCK_FEST..md "wikilink")09072003 荒吐宵祭
   - 2008年08月15日 - [RISING SUN ROCK FESTIVAL](https://ja.wikipedia.org/wiki/RISING_SUN_ROCK_FESTIVAL "wikilink") 2008 in EZO

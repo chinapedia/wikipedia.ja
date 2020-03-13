@@ -1,13 +1,13 @@
 > この記事は[Fantastic](https://ja.wikipedia.org/wiki/Fantastic)から翻訳されています。
 
 
-「**Fantastic**」（ファンタスティック）は、[鈴木亜美](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")の楽曲。彼女の6枚目の[シングル](../Page/シングル.md "wikilink")として[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[2月8日](../Page/2月8日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+「**Fantastic**」（ファンタスティック）は、[鈴木亜美](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")の楽曲。彼女の6枚目の[シングル](../Page/シングル.md "wikilink")として[2006年](../Page/2006年.md "wikilink")[2月8日](../Page/2月8日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 解説
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[2月8日](../Page/2月8日.md "wikilink")に[avex traxよりリリースされた](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。ライブDVD『SUZUKI AMI AROUND THE WORLD〜LIVE HOUSE TOUR 2005〜』と同時リリースである。「CDのみ（通常盤）」、「CD+DVD」、「CDのみ(期間限定盤)」の3形態で発売された。「CDのみ」、「CD+DVD」の初回盤にはブラック・ジャック書下ろし巻き帯びステッカー封入。（「CD(期間限定盤)」のみはレンタル盤も[CD-DA](../Page/CD-DA.md "wikilink")規格になっていて、それ以外の商品はレンタル仕様のものは[CCCD](../Page/コピーコントロールCD.md "wikilink")）。
+[2006年](../Page/2006年.md "wikilink")[2月8日](../Page/2月8日.md "wikilink")に[avex traxよりリリースされた](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。ライブDVD『SUZUKI AMI AROUND THE WORLD〜LIVE HOUSE TOUR 2005〜』と同時リリースである。「CDのみ（通常盤）」、「CD+DVD」、「CDのみ(期間限定盤)」の3形態で発売された。「CDのみ」、「CD+DVD」の初回盤にはブラック・ジャック書下ろし巻き帯びステッカー封入。（「CD(期間限定盤)」のみはレンタル盤も[CD-DA](../Page/CD-DA.md "wikilink")規格になっていて、それ以外の商品はレンタル仕様のものは[CCCD](../Page/コピーコントロールCD.md "wikilink")）。
 
-ジャケット写真は[レスリー・キー](../Page/レスリー・キー.md "wikilink")が担当した。期間限定盤のジャケットは[手塚プロダクション](https://ja.wikipedia.org/wiki/手塚プロダクション "wikilink")による書き下ろしイラストがジャケットになっている。
+ジャケット写真は[レスリー・キー](../Page/レスリー・キー.md "wikilink")が担当した。期間限定盤のジャケットは[手塚プロダクション](../Page/手塚プロダクション.md "wikilink")による書き下ろしイラストがジャケットになっている。
 
 [よみうりテレビ](../Page/讀賣テレビ放送.md "wikilink")・[日本テレビ系列で放映されたテレビアニメ](../Page/日本テレビ放送網.md "wikilink")「[ブラック・ジャック](../Page/ブラック・ジャック_\(テレビアニメ\).md "wikilink")」オープニングテーマ曲。本人初めてのアニメ・タイアップソングである。「Fantastic」のプロモーションビデオは、前作「Crystal」（シングル『リトルクリスタル』収録）のPVとつながった内容になっている。
 
@@ -36,9 +36,9 @@
 
 ## 収録アルバム
 
-| 曲名        | 収録アルバム                                           | 発売日                                                                      | 備考                                                                 |
-| --------- | ------------------------------------------------ | ------------------------------------------------------------------------ | ------------------------------------------------------------------ |
-| Fantastic | 『**[CONNETTA](../Page/CONNETTA.md "wikilink")**』 | [2007年](../Page/2007年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink") | 2nd[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink") |
+| 曲名        | 収録アルバム                                           | 発売日                                                                      | 備考                                              |
+| --------- | ------------------------------------------------ | ------------------------------------------------------------------------ | ----------------------------------------------- |
+| Fantastic | 『**[CONNETTA](../Page/CONNETTA.md "wikilink")**』 | [2007年](../Page/2007年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink") | 2nd[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink") |
 
 ## 出典
 

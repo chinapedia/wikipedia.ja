@@ -1,7 +1,7 @@
 > この記事は[Span!](https://ja.wikipedia.org/wiki/Span!)から翻訳されています。
 
 
-**Span\!**（すぱん） は、[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")大阪本部所属の[お笑いコンビである](https://ja.wikipedia.org/wiki/二人組#コメディ "wikilink")。[2004年](../Page/2004年.md "wikilink")2月結成。キャッチフレーズは「薄毛肩幅お化けと貯蓄パパ」。[大阪府](../Page/大阪府.md "wikilink")[住みます芸人](https://ja.wikipedia.org/wiki/あなたの街に住みますプロジェクト "wikilink")。大阪府[堺市](https://ja.wikipedia.org/wiki/堺市 "wikilink")[美原区](https://ja.wikipedia.org/wiki/美原区 "wikilink")美原もん大使。
+**Span\!**（すぱん） は、[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")大阪本部所属の[お笑いコンビである](https://ja.wikipedia.org/wiki/二人組#コメディ "wikilink")。[2004年](../Page/2004年.md "wikilink")2月結成。キャッチフレーズは「薄毛肩幅お化けと貯蓄パパ」。[大阪府](../Page/大阪府.md "wikilink")[住みます芸人](https://ja.wikipedia.org/wiki/あなたの街に住みますプロジェクト "wikilink")。大阪府[堺市](https://ja.wikipedia.org/wiki/堺市 "wikilink")[美原区](../Page/美原区.md "wikilink")美原もん大使。
 
 ## メンバー
 
@@ -12,10 +12,10 @@
   - 血液型A型。身長178cm。体重80kg。立ち位置は向かって左。喫煙者。
   - 一見すると強面であるが、非常に礼儀正しく、いじられ役になる場合が多い。特に売れている先輩に対しては、限界突破レベルの礼儀正しさを発揮する。漫才が終わる頃には汗だくになっている事が多く、[ヨシモト∞](https://ja.wikipedia.org/wiki/ヨシモト∞ "wikilink")ではあらかじめタオルを持参していることが多かった。
   - 「みっずん」と呼ばれる事が多い。
-  - [アルパカ](https://ja.wikipedia.org/wiki/アルパカ "wikilink")が好き。
-  - お酒が苦手で、飲みに行っても[コーラか](https://ja.wikipedia.org/wiki/コーラ_\(飲料\) "wikilink")[カシス・オレンジ](https://ja.wikipedia.org/wiki/カシス・オレンジ "wikilink")しか飲まない。
-  - プライベートでは、[井上裕介](https://ja.wikipedia.org/wiki/井上裕介_\(お笑い芸人\) "wikilink")（[NON STYLE](https://ja.wikipedia.org/wiki/NON_STYLE "wikilink")）と仲が良く、井上の軍団である「I company」の一員である。また[八木真澄](../Page/八木真澄.md "wikilink")（[サバンナ](https://ja.wikipedia.org/wiki/サバンナ_\(お笑いコンビ\) "wikilink")）が結成している八木軍団にも所属している｡
-  - 28歳の誕生日にはその風貌から「似合いそう」との理由で、ファンから[拳銃](../Page/拳銃.md "wikilink")の形をした[ライター](../Page/ライター.md "wikilink")がプレゼントされた（『[よしもとサンサンTV](https://ja.wikipedia.org/wiki/よしもとサンサンTV "wikilink")』2007年6月1日収録分、前説にて）。
+  - [アルパカ](../Page/アルパカ.md "wikilink")が好き。
+  - お酒が苦手で、飲みに行っても[コーラか](../Page/コーラ_\(飲料\).md "wikilink")[カシス・オレンジ](../Page/カシス・オレンジ.md "wikilink")しか飲まない。
+  - プライベートでは、[井上裕介](https://ja.wikipedia.org/wiki/井上裕介_\(お笑い芸人\) "wikilink")（[NON STYLE](../Page/NON_STYLE.md "wikilink")）と仲が良く、井上の軍団である「I company」の一員である。また[八木真澄](../Page/八木真澄.md "wikilink")（[サバンナ](../Page/サバンナ_\(お笑いコンビ\).md "wikilink")）が結成している八木軍団にも所属している｡
+  - 28歳の誕生日にはその風貌から「似合いそう」との理由で、ファンから[拳銃](../Page/拳銃.md "wikilink")の形をした[ライター](../Page/ライター.md "wikilink")がプレゼントされた（『[よしもとサンサンTV](../Page/よしもとサンサンTV.md "wikilink")』2007年6月1日収録分、前説にて）。
   - 肩幅が大きいため「肩お化け」と呼ばれることもあり、『よしもとサンサンTV』では「肩幅がきも〜い」と書かれた観客のアンケートをサバンナ高橋に読まれたことがある。また、極度のあがり症。
   - コピー機に免許証を忘れたという、鉄板エピソードがある。
 
@@ -25,18 +25,18 @@
   - 2人兄妹で、妹がいる。10年ほどの同棲を経て、2012年に結婚。2013年に第1子が生れる。マコト「りんこ（りんちゃん）」、妻「まんぢゅう」、子供「にゃんちゅう」という呼び名がある。
   - 血液型O型。身長164cm。体重45kg。立ち位置は向かって右。
   - 現コンビ結成前は相方募集サイトでカズ（谷本和之）と出会い、「Gyu-Guts」というコンビ組んで主に[ミナミ](https://ja.wikipedia.org/wiki/ミナミ "wikilink")・[梅田](../Page/梅田.md "wikilink")・[京橋で路上漫才をしていた](https://ja.wikipedia.org/wiki/京橋_\(大阪市\) "wikilink")。当時は[モンスターエンジン](../Page/モンスターエンジン.md "wikilink")の大林健二の元コンビ（みかんとんがらし）と路上ライブもやっていたこともあった。[スマイルとも路上ライブをする予定だったが](../Page/スマイル_\(お笑いコンビ\).md "wikilink")、スマイルに人気が出た為、この計画はなくなった。
-  - 一見すると小学生かと見間違えられるため、[居酒屋](https://ja.wikipedia.org/wiki/居酒屋 "wikilink")に行った際に身分証明書を確認させられた。
+  - 一見すると小学生かと見間違えられるため、[居酒屋](../Page/居酒屋.md "wikilink")に行った際に身分証明書を確認させられた。
   - 「マコッちゃん」もしくは「マコラス」と呼ばれる事が多い。水本は「マコ」と呼ぶ。
-  - 好きな食べ物は[ラーメン](https://ja.wikipedia.org/wiki/ラーメン "wikilink")、好きな漫画は[ちびまる子ちゃん](../Page/ちびまる子ちゃん.md "wikilink")。ルービックキューブが得意。好きなテレビ番組はNHKの『[ドキュメント72時間](https://ja.wikipedia.org/wiki/ドキュメント72時間 "wikilink")』。
+  - 好きな食べ物は[ラーメン](https://ja.wikipedia.org/wiki/ラーメン "wikilink")、好きな漫画は[ちびまる子ちゃん](../Page/ちびまる子ちゃん.md "wikilink")。ルービックキューブが得意。好きなテレビ番組はNHKの『[ドキュメント72時間](../Page/ドキュメント72時間.md "wikilink")』。
   - 高校の時から[コンタクトレンズ](../Page/コンタクトレンズ.md "wikilink")を着用。
   - [baseよしもと](https://ja.wikipedia.org/wiki/baseよしもと "wikilink")芸人が選ぶ男前で3位だった。2009年、吉本男前ランキング46位。
-  - [石田明](https://ja.wikipedia.org/wiki/石田明 "wikilink")（[NON STYLE](https://ja.wikipedia.org/wiki/NON_STYLE "wikilink")）の軍団、石田介護施設に所属している。
+  - [石田明](https://ja.wikipedia.org/wiki/石田明 "wikilink")（[NON STYLE](../Page/NON_STYLE.md "wikilink")）の軍団、石田介護施設に所属している。
   - ファンからのプレゼントなら真冬でもTシャツを着る。
 
 ## 概要
 
   - 現コンビ結成前は水本は「フーリッシュボム」というコンビを組んで活動、マコトは相方募集サイトで出会った谷本和之（カズ）と出会い、「Gyu-Guts」というコンビ組んで主に[ミナミ](https://ja.wikipedia.org/wiki/ミナミ "wikilink")・[梅田](../Page/梅田.md "wikilink")・[京橋で路上漫才をしていたが](https://ja.wikipedia.org/wiki/京橋_\(大阪市\) "wikilink")、マコトが水本を勧誘しコンビを結成。当初、マコトは「限定的なユニットで構わないのでコンビを組みませんか？」と水本を誘ったが、「それなら正式なコンビにしよう」という水本の提案で現在に至る。
-  - 現在の[出囃子は](https://ja.wikipedia.org/wiki/出囃子_\(お笑い\) "wikilink")[Ken Yokoyamaの](../Page/横山健.md "wikilink")「Ten Years from Now」。以前は[DA PUMP](https://ja.wikipedia.org/wiki/DA_PUMP "wikilink")「[Crazy Beat Goes On\!](https://ja.wikipedia.org/wiki/Crazy_Beat_Goes_On! "wikilink")」を使用していた。
+  - 現在の[出囃子は](https://ja.wikipedia.org/wiki/出囃子_\(お笑い\) "wikilink")[Ken Yokoyamaの](../Page/横山健.md "wikilink")「Ten Years from Now」。以前は[DA PUMP](../Page/DA_PUMP.md "wikilink")「[Crazy Beat Goes On\!](https://ja.wikipedia.org/wiki/Crazy_Beat_Goes_On! "wikilink")」を使用していた。
   - [2009年](../Page/2009年.md "wikilink")7月よりワラbに出演していたが、後にオーディションTryメンバーに降格。
   - [2012年](../Page/2012年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")より2代目の大阪府住みます芸人に就任。
 
@@ -55,18 +55,18 @@
 
 ### テレビ
 
-  - [ゲンセキ](https://ja.wikipedia.org/wiki/ゲンセキ "wikilink")（[TBS](../Page/TBSテレビ.md "wikilink")、2005年7月7日）
-  - [爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "wikilink")（[NHK総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")） 戦績3勝3敗 最高453KB
+  - [ゲンセキ](../Page/ゲンセキ.md "wikilink")（[TBS](../Page/TBSテレビ.md "wikilink")、2005年7月7日）
+  - [爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "wikilink")（[NHK総合](../Page/NHK総合テレビジョン.md "wikilink")） 戦績3勝3敗 最高453KB
   - [オンバト+](https://ja.wikipedia.org/wiki/オンバト+ "wikilink")（NHK総合） 戦績3勝0敗　最高493KB ｰ 第2回チャンピオン大会 1回戦敗退
   - [吉本☆ぐいピコ\!](../Page/吉本☆ぐいピコ!.md "wikilink")（[サンテレビ](../Page/サンテレビジョン.md "wikilink")）
   - [麒麟の部屋](../Page/麒麟の部屋.md "wikilink")（[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")）ｰ キャッチフレーズは「怪しいサラリーマンとその息子」
   - [爆笑ピンクカーペット](../Page/爆笑ピンクカーペット.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、2007年4月30日） - キャッチコピーは「ナニワのバカヤロー」
   - [爆笑レッドカーペット](../Page/爆笑レッドカーペット.md "wikilink")（フジテレビ） - キャッチコピーは「ナニワのバカヤロー」→「はじけるデコボコ」
   - [もっともっと関西](../Page/もっともっと関西.md "wikilink")2\!（[NHK大阪総合](../Page/NHK大阪放送局.md "wikilink")、2007年11月2008年3月）
-  - [よしもとサンサンTV](https://ja.wikipedia.org/wiki/よしもとサンサンTV "wikilink")（サンテレビ）ｰ 前説を担当
+  - [よしもとサンサンTV](../Page/よしもとサンサンTV.md "wikilink")（サンテレビ）ｰ 前説を担当
       - 水本のみ「八木ちゃんのガラの悪い友達」や「大きい人」として本編にも出演（しかし8月18日放送で初出演する）　　
   - [初笑い浪花の陣](../Page/初笑い浪花の陣.md "wikilink")Ⅰ 新春\!オールよしもと　初笑いスペシャル〜漫才ヒットパレード&開運\!ふんどしコメディ〜2008（2008年1月2日）ｰ 前説を担当
-  - [なにわ人情コメディ 横丁へよ〜こちょ\!](https://ja.wikipedia.org/wiki/なにわ人情コメディ_横丁へよ〜こちょ! "wikilink")（[ABCテレビ](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")、2008年3月9日初出演）前説担当
+  - [なにわ人情コメディ 横丁へよ〜こちょ\!](../Page/なにわ人情コメディ_横丁へよ〜こちょ!.md "wikilink")（[ABCテレビ](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")、2008年3月9日初出演）前説担当
   - [鉄筋base](../Page/鉄筋base.md "wikilink")（[関西テレビ](../Page/関西テレビ放送.md "wikilink")） - Season1のみ
   - [せやねん\!](../Page/せやねん!.md "wikilink")（毎日放送） - 「[トミーズ](../Page/トミーズ.md "wikilink")のタイムカプセル」を探す企画で登場。
   - [ロケみつ ロケ×ロケ×ロケ](https://ja.wikipedia.org/wiki/ロケみつ_ロケ×ロケ×ロケ "wikilink")（毎日放送、2008年10月9日 - 2009年4月30日）ｰ マコトのみ「span\!・マコトの目指せ\!セ・界制覇\!ホームランブログ旅」 のコーナー担当。
@@ -81,7 +81,7 @@
 
 ### ラジオ
 
-  - オンスト（[YES-fm](https://ja.wikipedia.org/wiki/エフエムちゅうおう "wikilink")）月曜日
+  - オンスト（[YES-fm](../Page/エフエムちゅうおう.md "wikilink")）月曜日
   - [丑バラ](../Page/丑バラ.md "wikilink")（[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")、2008年7月12日）
   - span3世（[KBS京都ラジオ](https://ja.wikipedia.org/wiki/KBS京都ラジオ "wikilink")）
   - [Radiomax](https://ja.wikipedia.org/wiki/Radiomax "wikilink")（FM滋賀）ｰ 準レギュラーとして[ファミリーレストラン](../Page/ファミリーレストラン.md "wikilink")の代役で登場。
@@ -92,7 +92,7 @@
 
   - [お笑いポポロ](../Page/お笑いポポロ.md "wikilink") 2008年2月号
   - お笑いTVLIFE Vol.1・5
-  - [日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink")西日本最終面（テレビ面）「お笑い7Days」（2009年8月から12月　[銀シャリと隔週](https://ja.wikipedia.org/wiki/銀シャリ_\(お笑い\) "wikilink")）
+  - [日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink")西日本最終面（テレビ面）「お笑い7Days」（2009年8月から12月　[銀シャリと隔週](../Page/銀シャリ_\(お笑い\).md "wikilink")）
 
 ## 単独ライブ
 

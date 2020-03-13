@@ -9,7 +9,7 @@
 
 「20世紀の名番組丸ごと大集合\!」では当時放送中だった「[関口宏の東京フレンドパークII](../Page/関口宏の東京フレンドパークII.md "wikilink")」に加え、「[クイズダービー](../Page/クイズダービー.md "wikilink")」「[クイズ100人に聞きました](../Page/クイズ100人に聞きました.md "wikilink")」「[ぴったしカン・カン](https://ja.wikipedia.org/wiki/ぴったしカン・カン "wikilink")」「[ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")」などの過去のTBSの人気番組が生放送で復活した。
 
-また毎年恒例の「[第42回輝く\!日本レコード大賞](https://ja.wikipedia.org/wiki/第42回日本レコード大賞 "wikilink")」「[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")年越しライブ」に加え、「20世紀のテレビ名場面」、「[ここがヘンだよ宇宙人](https://ja.wikipedia.org/wiki/ここがヘンだよ日本人 "wikilink")」、「[サンデーモーニング](https://ja.wikipedia.org/wiki/サンデーモーニング "wikilink")スペシャル」「[CDTV年越しライブ](../Page/COUNT_DOWN_TV.md "wikilink")」、「スポーツマン夢オークション」、「20世紀クイズ王決定戦」などが編成された。さらに年またぎの企画として中国・北京での『[ドミノ倒し](https://ja.wikipedia.org/wiki/ドミノ倒し "wikilink")世界記録への挑戦\!』が生中継され、当時の世界記録を打ち立てた。
+また毎年恒例の「[第42回輝く\!日本レコード大賞](https://ja.wikipedia.org/wiki/第42回日本レコード大賞 "wikilink")」「[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")年越しライブ」に加え、「20世紀のテレビ名場面」、「[ここがヘンだよ宇宙人](../Page/ここがヘンだよ日本人.md "wikilink")」、「[サンデーモーニング](../Page/サンデーモーニング.md "wikilink")スペシャル」「[CDTV年越しライブ](../Page/COUNT_DOWN_TV.md "wikilink")」、「スポーツマン夢オークション」、「20世紀クイズ王決定戦」などが編成された。さらに年またぎの企画として中国・北京での『[ドミノ倒し](../Page/ドミノ倒し.md "wikilink")世界記録への挑戦\!』が生中継され、当時の世界記録を打ち立てた。
 
 提供クレジット表示は12月30日のオープニング〜12月31日の「ガキバラ\!SP」までと1月1日未明のカウントダウン直後〜朝のグランドフィナーレまで下部中央にカラー表示無くクレジットされ（[同局プロ野球中継と同じもの](https://ja.wikipedia.org/wiki/SAMURAI_BASEBALL "wikilink")）、挿入時の提供コメントはなかった（一部コーナーのローカルスポンサー枠では表示なしの系列局もあった）。
 
@@ -72,14 +72,14 @@
   - [クイズダービー](../Page/クイズダービー.md "wikilink")
       - 司会：[大橋巨泉](../Page/大橋巨泉.md "wikilink")/出題：[小池達子](../Page/小池達子.md "wikilink")
       - 解答者
-          - 1枠：[篠沢秀夫](https://ja.wikipedia.org/wiki/篠沢秀夫 "wikilink")（成績1勝7敗。倍率**7**・5・5・6・8・7・6・14）
+          - 1枠：[篠沢秀夫](../Page/篠沢秀夫.md "wikilink")（成績1勝7敗。倍率**7**・5・5・6・8・7・6・14）
           - 2枠：[久本雅美](../Page/久本雅美.md "wikilink")（成績5勝3敗。倍率**6**・**5**・**6**・7・3・**4**・**2**・18）
-          - 3枠：[はらたいら](https://ja.wikipedia.org/wiki/はらたいら "wikilink")（成績5勝3敗。倍率2・3・**2**・**4**・3・**2**・**4**・**6**）
+          - 3枠：[はらたいら](../Page/はらたいら.md "wikilink")（成績5勝3敗。倍率2・3・**2**・**4**・3・**2**・**4**・**6**）
           - 4枠：[竹下景子](../Page/竹下景子.md "wikilink")（成績4勝4敗。倍率**3**・**2**・4・**2**・4・3・**3**・8）
           - 5枠：[石坂浩二](../Page/石坂浩二.md "wikilink")（成績4勝4敗。倍率**3**・**2**・5・**5**・5・5・**5**・10）
       - 出場者
           - 赤チーム：[福留功男](../Page/福留功男.md "wikilink")、[三雲孝江](../Page/三雲孝江.md "wikilink")（[ブロードキャスター](../Page/ブロードキャスター.md "wikilink")）チーム＜賞金獲得額98,000円＞
-          - 黄チーム：[長山藍子](https://ja.wikipedia.org/wiki/長山藍子 "wikilink")、[えなりかずき](../Page/えなりかずき.md "wikilink")（[渡る世間は鬼ばかり](https://ja.wikipedia.org/wiki/渡る世間は鬼ばかり "wikilink")）チーム＜賞金獲得額　0円＞
+          - 黄チーム：[長山藍子](../Page/長山藍子.md "wikilink")、[えなりかずき](../Page/えなりかずき.md "wikilink")（[渡る世間は鬼ばかり](https://ja.wikipedia.org/wiki/渡る世間は鬼ばかり "wikilink")）チーム＜賞金獲得額　0円＞
           - 緑チーム：[中村玉緒](../Page/中村玉緒.md "wikilink")、[セイン・カミュ](../Page/セイン・カミュ.md "wikilink")（[さんまのSUPERからくりTV](../Page/さんまのSUPERからくりTV.md "wikilink")）チーム＜賞金獲得額 2,400円＞
 
 <!-- end list -->
@@ -121,7 +121,7 @@
 
   - [ぴったしカン・カン](https://ja.wikipedia.org/wiki/ぴったしカン・カン "wikilink")
       - 司会：福留功男
-      - 出演：[コント55号](https://ja.wikipedia.org/wiki/コント55号 "wikilink")他
+      - 出演：[コント55号](../Page/コント55号.md "wikilink")他
   - [ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")
       - 司会：[黒柳徹子](https://ja.wikipedia.org/wiki/黒柳徹子 "wikilink")、[安住紳一郎](../Page/安住紳一郎.md "wikilink")アナ
 
@@ -138,11 +138,11 @@
 
 :\* 出演：[山田邦子](../Page/山田邦子.md "wikilink")、久本雅美、爆笑問題
 
-  - [ここがヘンだよ宇宙人](https://ja.wikipedia.org/wiki/ここがヘンだよ日本人 "wikilink") [デヴィ夫人スペシャル](https://ja.wikipedia.org/wiki/デヴィ・スカルノ "wikilink")
+  - [ここがヘンだよ宇宙人](../Page/ここがヘンだよ日本人.md "wikilink") [デヴィ夫人スペシャル](https://ja.wikipedia.org/wiki/デヴィ・スカルノ "wikilink")
 
 :\* 司会：[浅草キッド](../Page/浅草キッド.md "wikilink")、[江口ともみ](https://ja.wikipedia.org/wiki/江口ともみ "wikilink")
 
-:\* 出演：薬丸裕英、[そのまんま東](https://ja.wikipedia.org/wiki/東国原英夫 "wikilink")、[デーブ・スペクター](https://ja.wikipedia.org/wiki/デーブ・スペクター "wikilink")、[大竹まこと](https://ja.wikipedia.org/wiki/大竹まこと "wikilink")他
+:\* 出演：薬丸裕英、[そのまんま東](https://ja.wikipedia.org/wiki/東国原英夫 "wikilink")、[デーブ・スペクター](../Page/デーブ・スペクター.md "wikilink")、[大竹まこと](../Page/大竹まこと.md "wikilink")他
 
   -
     『ここがヘンだよ日本人』を生放送。生放送という制約上、討論開始前に浅草キッドから「一度の意見は1分以内。それを過ぎるとゴングが鳴らされる」というルールが設けられた。また、討論は次のコーナーにバトンタッチする形で途中打ち切られ、以降は放送されなかった。
@@ -152,7 +152,7 @@
 
 :\* 司会：[浅草キッド](../Page/浅草キッド.md "wikilink")
 
-:\* 出演：[山本晋也](https://ja.wikipedia.org/wiki/山本晋也 "wikilink")、[伊藤克信](../Page/伊藤克信.md "wikilink")、[杉作J太郎](../Page/杉作J太郎.md "wikilink")他
+:\* 出演：[山本晋也](../Page/山本晋也.md "wikilink")、[伊藤克信](../Page/伊藤克信.md "wikilink")、[杉作J太郎](../Page/杉作J太郎.md "wikilink")他
 
   -
     なお、期間中の12月30日に開催され、同日深夜（日付上31日未明にまたぐ）に行われる[全国高等学校ラグビーフットボール大会](../Page/全国高等学校ラグビーフットボール大会.md "wikilink")（2回戦中継）は、前年の「テレビのちから」同様、この番組では内包せず、長時間特番開始前の16時30分から18時に生放送された。
@@ -160,7 +160,7 @@
 ### 12月31日
 
   - 全国中継 21世紀に残したい味
-    [サンデーモーニング](https://ja.wikipedia.org/wiki/サンデーモーニング "wikilink")スペシャル
+    [サンデーモーニング](../Page/サンデーモーニング.md "wikilink")スペシャル
 
 :\*毎年恒例の年末拡大スペシャルだが、この年は大晦日が日曜日のため枠内で行った。
 
@@ -170,20 +170,20 @@
 
 <!-- end list -->
 
-  - 司会：[堺正章](https://ja.wikipedia.org/wiki/堺正章 "wikilink")、[黒木瞳](../Page/黒木瞳.md "wikilink")
+  - 司会：[堺正章](../Page/堺正章.md "wikilink")、[黒木瞳](../Page/黒木瞳.md "wikilink")
   - 補助アナウンサー：進藤晶子
 
 <!-- end list -->
 
   - [サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")年越しライブ
-    ライブタイトルは「ゴン太くんのつどい」。サザンオールスターズは以前に「[39時間テレビ](../Page/元旦まで感動生放送!史上最大39時間テレビ「ずっとあなたに見てほしい_年末年始は眠らない」.md "wikilink")」で主題歌を提供したことがある。年越しの前後の曲は「[希望の轍](https://ja.wikipedia.org/wiki/希望の轍 "wikilink")」。
+    ライブタイトルは「ゴン太くんのつどい」。サザンオールスターズは以前に「[39時間テレビ](../Page/元旦まで感動生放送!史上最大39時間テレビ「ずっとあなたに見てほしい_年末年始は眠らない」.md "wikilink")」で主題歌を提供したことがある。年越しの前後の曲は「[希望の轍](../Page/希望の轍.md "wikilink")」。
     [1989年](../Page/1989年.md "wikilink")から続いたTBSによるサザンオールスターズのカウントダウンライブ中継は、この年が最後となった（ちなみにこの年は[WOWOW](../Page/WOWOW.md "wikilink")も同時にライブの中継を行っている）。
   - 迎春\!21世紀の主張
     年明け後（31日深夜）のコーナー。ゲスト芸人として[鳥肌実](../Page/鳥肌実.md "wikilink")が呼ばれたが、演説中に上層部が激怒、10分の予定が急遽繰り上げられ、CMが挿入されて次の芸人に移った。
 
 ### 1月1日
 
-  - [ドミノ倒し](https://ja.wikipedia.org/wiki/ドミノ倒し "wikilink")・世界新記録に挑戦
+  - [ドミノ倒し](../Page/ドミノ倒し.md "wikilink")・世界新記録に挑戦
 
     、、のアジア3カ国の若者達が**21世紀を迎えると同時に世界新記録を祝う**と言う壮大なチャレンジに挑んだ。
 

@@ -7,7 +7,7 @@
 
 [2003年](../Page/2003年.md "wikilink")1月、Ruppinaのユニット名でミニアルバム「[Ruppina](https://ja.wikipedia.org/wiki/Ruppina_\(Ruppina+のアルバム\) "wikilink")」でデビュー。[2002年](../Page/2002年.md "wikilink")12月にプレデビューのシングルとしてリリースした「[Free will](https://ja.wikipedia.org/wiki/Free_Will/violet_flow "wikilink")」と[2003年](../Page/2003年.md "wikilink")8月にリリースした「[FAITH](https://ja.wikipedia.org/wiki/FAITH/Thousand_Lights "wikilink")」は[フジテレビ系アニメ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[ONE PIECE](../Page/ONE_PIECE_\(アニメ\).md "wikilink")』エンディングテーマに起用された。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")11月のベストアルバム「[Ruppina BEST](https://ja.wikipedia.org/wiki/Ruppina_BEST "wikilink")」でRuppina卒業。同年[12月28日](../Page/12月28日.md "wikilink")に、工藤舞が『**[舞](../Page/工藤舞.md "wikilink")**』としてソロデビュー。
+[2005年](../Page/2005年.md "wikilink")11月のベストアルバム「[Ruppina BEST](https://ja.wikipedia.org/wiki/Ruppina_BEST "wikilink")」でRuppina卒業。同年[12月28日](../Page/12月28日.md "wikilink")に、工藤舞が『**[舞](../Page/工藤舞.md "wikilink")**』としてソロデビュー。
 
 [2007年](../Page/2007年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")に、ブログにて復活を発表。ユニット名を「Ruppina+」に改名。"故郷の雪"をテーマにした新曲「Warm Snow」が札幌の商店街イベントで流された。
 
@@ -39,7 +39,7 @@
 <td><p>「Free Will」<br />
 <a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ系アニメ</a>『<a href="../Page/ONE_PIECE_(アニメ).md" title="wikilink">ONE PIECE</a>』エンディングテーマ<br />
 「violet flow」<br />
-<a href="https://ja.wikipedia.org/wiki/日本テレビ" title="wikilink">日本テレビ</a>系ドラマ『<a href="https://ja.wikipedia.org/wiki/よい子の味方_〜新米保育士物語〜" title="wikilink">よい子の味方 〜新米保育士物語〜</a>』挿入歌</p></td>
+<a href="https://ja.wikipedia.org/wiki/日本テレビ" title="wikilink">日本テレビ</a>系ドラマ『<a href="../Page/よい子の味方_〜新米保育士物語〜.md" title="wikilink">よい子の味方 〜新米保育士物語〜</a>』挿入歌</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
@@ -63,7 +63,7 @@
 <td><p>　「FAITH」<br />
 フジテレビ系アニメ『ONE PIECE』エンディングテーマ<br />
 「Thousand Lights」<br />
-<a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a>系『<a href="https://ja.wikipedia.org/wiki/プラチナチケット" title="wikilink">プラチナチケット</a>』内コーナー「ラヴ・ダウト」テーマソング</p></td>
+<a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a>系『<a href="../Page/プラチナチケット.md" title="wikilink">プラチナチケット</a>』内コーナー「ラヴ・ダウト」テーマソング</p></td>
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
@@ -99,20 +99,20 @@
 
 ### アルバム
 
-|     | タイトル                                                                                                      | 発売日                                                                                         | 備考                                                               |
-| --- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| 1st | **[Ruppina](https://ja.wikipedia.org/wiki/Ruppina_\(Ruppina+のアルバム\) "wikilink")**                         | [2003年](../Page/2003年.md "wikilink")[1月16日](https://ja.wikipedia.org/wiki/1月16日 "wikilink") | [オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")10位 |
-| 2nd | **[Ruppina II](https://ja.wikipedia.org/wiki/Ruppina_II "wikilink")**                                     | [2003年](../Page/2003年.md "wikilink")[9月18日](../Page/9月18日.md "wikilink")                    | オリコンチャート20位                                                      |
-| 3rd | **[in the name of love](https://ja.wikipedia.org/wiki/in_the_name_of_love_\(Ruppina+のアルバム\) "wikilink")** | [2004年](../Page/2004年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")                    | オリコンチャート33位                                                      |
-| 4th | **Return to Tomorrow**                                                                                    | [2009年](../Page/2009年.md "wikilink")[3月3日](../Page/3月3日.md "wikilink")                      |                                                                  |
-|     |                                                                                                           |                                                                                             |                                                                  |
+|     | タイトル                                                                                                      | 発売日                                                                                         | 備考                                            |
+| --- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| 1st | **[Ruppina](https://ja.wikipedia.org/wiki/Ruppina_\(Ruppina+のアルバム\) "wikilink")**                         | [2003年](../Page/2003年.md "wikilink")[1月16日](https://ja.wikipedia.org/wiki/1月16日 "wikilink") | [オリコンチャート](../Page/オリコンチャート.md "wikilink")10位 |
+| 2nd | **[Ruppina II](https://ja.wikipedia.org/wiki/Ruppina_II "wikilink")**                                     | [2003年](../Page/2003年.md "wikilink")[9月18日](../Page/9月18日.md "wikilink")                    | オリコンチャート20位                                   |
+| 3rd | **[in the name of love](https://ja.wikipedia.org/wiki/in_the_name_of_love_\(Ruppina+のアルバム\) "wikilink")** | [2004年](../Page/2004年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")                    | オリコンチャート33位                                   |
+| 4th | **Return to Tomorrow**                                                                                    | [2009年](../Page/2009年.md "wikilink")[3月3日](../Page/3月3日.md "wikilink")                      |                                               |
+|     |                                                                                                           |                                                                                             |                                               |
 
 ### ベストアルバム
 
-| タイトル                                                                      | 発売日                                                                                                              | 備考                                                               |
-| ------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| **[Ruppina BEST](https://ja.wikipedia.org/wiki/Ruppina_BEST "wikilink")** | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink") | [オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")69位 |
-|                                                                           |                                                                                                                  |                                                                  |
+| タイトル                                                                      | 発売日                                                                                           | 備考                                            |
+| ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| **[Ruppina BEST](https://ja.wikipedia.org/wiki/Ruppina_BEST "wikilink")** | [2005年](../Page/2005年.md "wikilink")[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink") | [オリコンチャート](../Page/オリコンチャート.md "wikilink")69位 |
+|                                                                           |                                                                                               |                                               |
 
 ### インディーズ
 

@@ -43,7 +43,7 @@
       - 初心者向けキャラクター
     沖縄でトレーニングを積んだ天才ファイター。「番長」という名の犬を飼っている。後にドリームキャスト版『[ザ・キング・オブ・ファイターズ](../Page/ザ・キング・オブ・ファイターズ.md "wikilink")'99 EVOLUTION』やアーケード版『ザ・キング・オブ・ファイターズ2000』にストライカーとして登場し、アーケード版『ザ・キング・オブ・ファイターズXI』では乱入キャラクター兼操作キャラクターとして登場する。
   - [坂崎リョウ](../Page/リョウ・サカザキ.md "wikilink")（さかざき リョウ）［*Ryo Sakazaki*］
-    声 - [臼井雅基](https://ja.wikipedia.org/wiki/臼井雅基 "wikilink")
+    声 - [臼井雅基](../Page/臼井雅基.md "wikilink")
       - 格闘スタイル：[空手](https://ja.wikipedia.org/wiki/空手 "wikilink")（KARATE）
       - 生年月日：[1967年](../Page/1967年.md "wikilink")[8月2日](../Page/8月2日.md "wikilink")
       - 血液型：O型
@@ -51,12 +51,12 @@
       - 年齢：32歳
       - 身長：179cm
       - 体重：76kg
-      - 趣味：[日曜大工](https://ja.wikipedia.org/wiki/日曜大工 "wikilink")、家庭菜園
+      - 趣味：[日曜大工](../Page/日曜大工.md "wikilink")、家庭菜園
       - 中級者向けキャラクター
     『龍虎の拳』の主人公であり、[極限流空手](../Page/極限流空手.md "wikilink")の師範。『龍虎の拳』時代より歳を重ね、オレンジではなくグレーの道着を着ている。別衣装時は白道着に黒帯で上道着は着ていない。
     パワーと素早さを兼ねた打撃技がウリで、『龍虎の拳』での必殺技も気弾こそ出ないものの使える。当て身からの背負い投げは持っているが、純粋な投げ技がないのが欠点。
   - パヤック・シピタック［*Payak Sitpitak*］
-    声 - [山西惇](https://ja.wikipedia.org/wiki/山西惇 "wikilink")
+    声 - [山西惇](../Page/山西惇.md "wikilink")
       - 格闘スタイル：[ムエタイ](../Page/ムエタイ.md "wikilink")（MUAY-THAI）
       - 生年月日：[1959年](../Page/1959年.md "wikilink")[5月20日](../Page/5月20日.md "wikilink")
       - 血液型：A型
@@ -69,7 +69,7 @@
     妻子持ちのムエタイ選手。息子が[ジョー・ヒガシ](../Page/ジョー・ヒガシ.md "wikilink")のファン。
     近距離・遠距離ともに強力な技を持ち、投げも首相撲からの膝を持つ。どの距離でも戦いやすいスタンダードキャラクター。
   - 徐竜誠（ソ・ヨンソン）［*Seo Yong-song*］
-    声 - [橋本じゅん](https://ja.wikipedia.org/wiki/橋本じゅん "wikilink")
+    声 - [橋本じゅん](../Page/橋本じゅん.md "wikilink")
       - 格闘スタイル：[テコンドー](../Page/テコンドー.md "wikilink")（TAE KWON DO）
       - 生年月日：[1981年](../Page/1981年.md "wikilink")[7月30日](../Page/7月30日.md "wikilink")
       - 血液型：A型
@@ -82,7 +82,7 @@
     大学生。少しユニークな髪型をしている。
     足技がメインのためリーチが長いが、純粋な投げ技がなく崩し手段に乏しい。
   - イワン・ソコロフ［*Ivan Sokolov*］
-    声 - [有田洋之](https://ja.wikipedia.org/wiki/有田洋之 "wikilink")
+    声 - [有田洋之](../Page/有田洋之.md "wikilink")
       - 格闘スタイル：[アマレス](https://ja.wikipedia.org/wiki/アマレス "wikilink")（WRESTLING）
       - 生年月日：[1972年](../Page/1972年.md "wikilink")[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")
       - 血液型：AB型
@@ -90,12 +90,12 @@
       - 年齢：27歳
       - 身長：175cm
       - 体重：82kg
-      - 趣味：[手紙](https://ja.wikipedia.org/wiki/手紙 "wikilink")を書くこと
+      - 趣味：[手紙](../Page/手紙.md "wikilink")を書くこと
       - 上級者向けキャラクター
     オリンピックの金メダリスト。淡々とした口調で多くを語らない。普段は高校の教師をしている。
     投げ技が非常に豊富で、特に長い距離を掴みにいける上に返し技を食らわない「片足タックル」からの派生が強力。
   - 暁丸（あかつきまる）［*Akatsuki-maru*］
-    声 - [や乃えいじ](https://ja.wikipedia.org/wiki/や乃えいじ "wikilink")
+    声 - [や乃えいじ](../Page/や乃えいじ.md "wikilink")
       - 格闘スタイル：[相撲](../Page/相撲.md "wikilink")（SUMO WRESTLING）
       - 生年月日：[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[1月2日](../Page/1月2日.md "wikilink")
       - 血液型：B型
@@ -121,7 +121,7 @@
     プロ意識の強いボクサー。
     手を使う技しかないためリーチは短めだが、その分回転が優れラッシュ力がある。
   - ジャック・デュガリ［*Jacques Ducalis*］
-    声 - [津田英治](https://ja.wikipedia.org/wiki/津田英治 "wikilink")
+    声 - [津田英治](../Page/津田英治.md "wikilink")
       - 格闘スタイル：[柔道](../Page/柔道.md "wikilink")（JUDO）
       - 生年月日：1967年[7月6日](../Page/7月6日.md "wikilink")
       - 血液型：B型
@@ -147,7 +147,7 @@
     少し偉そうな口調をするプロレスラー。しかし子煩悩な一面を持つ。
     技が大振りで隙の大きいものが多いが、打撃・投げ共に充実しており耐久力も高め。
   - 西園寺貴人（さいおんじ たかと）［*Takato Saionji*］
-    声 - [や乃えいじ](https://ja.wikipedia.org/wiki/や乃えいじ "wikilink")
+    声 - [や乃えいじ](../Page/や乃えいじ.md "wikilink")
       - 格闘スタイル：[合気道](https://ja.wikipedia.org/wiki/合気道 "wikilink")（AIKIDO）
       - 生年月日：1982年[3月22日](../Page/3月22日.md "wikilink")
       - 血液型：AB型
@@ -160,7 +160,7 @@
     祖父の意向によりやむなく参加する真面目な高校生。
     返し技に長け、カウンターヒットすると相手を行動不能にできる打撃技や、ガード不能の「足取り」も持つため、見た目によらず攻撃力は高め。しかし全キャラクター中最も打たれ弱く、体重も軽いので投げられやすい。
   - 宋玄道（ソン・シャンタオ）［*Song Xuandao*］
-    声 - [逆木圭一郎](https://ja.wikipedia.org/wiki/逆木圭一郎 "wikilink")
+    声 - [逆木圭一郎](../Page/逆木圭一郎.md "wikilink")
       - 格闘スタイル：[太極拳](../Page/太極拳.md "wikilink")（TAI CHI MARTIAL ARTS）
       - 生年月日：[1929年](../Page/1929年.md "wikilink")[12月31日](../Page/12月31日.md "wikilink")
       - 血液型：A型
@@ -227,7 +227,7 @@
 
   - 幸田光（こうだ ひかる）
 
-:\* 出身地：[福岡](https://ja.wikipedia.org/wiki/福岡県 "wikilink")
+:\* 出身地：[福岡](../Page/福岡県.md "wikilink")
 
 :\* 年齢：25歳
 
@@ -267,6 +267,6 @@
 
 ## 関連項目
 
-  - [SNKの対戦型格闘ゲーム一覧](https://ja.wikipedia.org/wiki/SNKの対戦型格闘ゲーム一覧 "wikilink")
+  - [SNKの対戦型格闘ゲーム一覧](../Page/SNKの対戦型格闘ゲーム一覧.md "wikilink")
 
 [Category:3D対戦型格闘ゲーム](https://ja.wikipedia.org/wiki/Category:3D対戦型格闘ゲーム "wikilink") [Category:SNKのゲームソフト](https://ja.wikipedia.org/wiki/Category:SNKのゲームソフト "wikilink") [Category:1999年のアーケードゲーム](https://ja.wikipedia.org/wiki/Category:1999年のアーケードゲーム "wikilink")

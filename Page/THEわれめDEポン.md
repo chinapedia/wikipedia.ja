@@ -17,11 +17,11 @@
 
 その他、2015年に[麻雀最強戦](https://ja.wikipedia.org/wiki/麻雀最強戦 "wikilink")とのコラボとして「麻雀地上最強位決定戦 THE 最強 DE ポン」、2017年には同じフジテレビONEで放送中の[極雀](https://ja.wikipedia.org/wiki/極雀 "wikilink")とのコラボとして「～地上最強位決定戦～THE極雀DEポン」（通称：極ポン）も行われた。
 
-司会は[たけし軍団](../Page/たけし軍団.md "wikilink")の[ガダルカナル・タカ](https://ja.wikipedia.org/wiki/ガダルカナル・タカ "wikilink")（放送開始当初は[森脇健児](https://ja.wikipedia.org/wiki/森脇健児 "wikilink")）。実況は[野島卓](../Page/野島卓.md "wikilink")が担当していたが、2004年9月から[ニューヨーク](../Page/ニューヨーク.md "wikilink")へ転勤となったことから、2004年10月17日放送の第59弾から[桜井堅一朗](https://ja.wikipedia.org/wiki/桜井堅一朗 "wikilink")が務め、2007年1月1日の放送ではフジテレビよりフリーとなった[山中秀樹](../Page/山中秀樹.md "wikilink")が務めた。 2008年1月3日に放送された第65弾はニューヨークから帰国した野島が3年ぶりに復帰し、2011年の番組再開後も担当していたが、2016年4月から2017年9月は[ユアタイム](https://ja.wikipedia.org/wiki/ユアタイム "wikilink")を担当する事になったため、この間は主に[中村光宏](../Page/中村光宏.md "wikilink")と[谷岡慎一](https://ja.wikipedia.org/wiki/谷岡慎一 "wikilink")が務めた。ただし、野島も24時間生スペシャルや中村、谷岡が取材等で欠席もしくは、途中退席という場合に実況を務めている。 解説者は地上波時代には[麻将連合のプロ雀士](../Page/麻将連合-μ-.md "wikilink")・[井出洋介](https://ja.wikipedia.org/wiki/井出洋介 "wikilink")が出演していた。CS放送開始以降しばらくは[梶本琢程](https://ja.wikipedia.org/wiki/梶本琢程 "wikilink")が解説を担当し、2013年の24時間生スペシャルから[土田浩翔](../Page/土田浩翔.md "wikilink")が登場してからは、土田が主に解説を務めている（土田不在時には梶本が担当）。2016年4月以降は土田と女流プロの2名で解説を行っている。2016年9月の第103弾からは[古久根英孝](https://ja.wikipedia.org/wiki/古久根英孝 "wikilink")も解説に加わった。
+司会は[たけし軍団](../Page/たけし軍団.md "wikilink")の[ガダルカナル・タカ](../Page/ガダルカナル・タカ.md "wikilink")（放送開始当初は[森脇健児](../Page/森脇健児.md "wikilink")）。実況は[野島卓](../Page/野島卓.md "wikilink")が担当していたが、2004年9月から[ニューヨーク](../Page/ニューヨーク.md "wikilink")へ転勤となったことから、2004年10月17日放送の第59弾から[桜井堅一朗](https://ja.wikipedia.org/wiki/桜井堅一朗 "wikilink")が務め、2007年1月1日の放送ではフジテレビよりフリーとなった[山中秀樹](../Page/山中秀樹.md "wikilink")が務めた。 2008年1月3日に放送された第65弾はニューヨークから帰国した野島が3年ぶりに復帰し、2011年の番組再開後も担当していたが、2016年4月から2017年9月は[ユアタイム](https://ja.wikipedia.org/wiki/ユアタイム "wikilink")を担当する事になったため、この間は主に[中村光宏](../Page/中村光宏.md "wikilink")と[谷岡慎一](https://ja.wikipedia.org/wiki/谷岡慎一 "wikilink")が務めた。ただし、野島も24時間生スペシャルや中村、谷岡が取材等で欠席もしくは、途中退席という場合に実況を務めている。 解説者は地上波時代には[麻将連合のプロ雀士](../Page/麻将連合-μ-.md "wikilink")・[井出洋介](../Page/井出洋介.md "wikilink")が出演していた。CS放送開始以降しばらくは[梶本琢程](https://ja.wikipedia.org/wiki/梶本琢程 "wikilink")が解説を担当し、2013年の24時間生スペシャルから[土田浩翔](../Page/土田浩翔.md "wikilink")が登場してからは、土田が主に解説を務めている（土田不在時には梶本が担当）。2016年4月以降は土田と女流プロの2名で解説を行っている。2016年9月の第103弾からは[古久根英孝](https://ja.wikipedia.org/wiki/古久根英孝 "wikilink")も解説に加わった。
 
 生放送再開後の第66弾からは、各ゲーム終了毎に[馬場裕一](../Page/馬場裕一.md "wikilink")によるミニコーナー「バビィに聞け\!」としてTwitterに寄せられた質問や応援メッセージを紹介する\[1\]。
 
-番組メインBGMは、[高橋幸宏](../Page/高橋幸宏.md "wikilink")作曲の「ファンキーMAHJANG」を編集したものである。使用されている「ファンキーMAHJANG」はオリジナルバージョンではなくライブバージョンであり、[サディスティック・ミカ・バンド](../Page/サディスティック・ミカ・バンド.md "wikilink")のアルバム『晴天』に収録されている（マージャンの正確なスペルは**MAHJONG**である）。なお、地上波レギュラー放送時代（森脇健児司会時）には、エンディングに[Vane For Road](https://ja.wikipedia.org/wiki/Vane_For_Road "wikilink")「Love Letter」（作詞・作曲：[大江千里](https://ja.wikipedia.org/wiki/大江千里_\(アーティスト\) "wikilink")）が使用されていた。
+番組メインBGMは、[高橋幸宏](../Page/高橋幸宏.md "wikilink")作曲の「ファンキーMAHJANG」を編集したものである。使用されている「ファンキーMAHJANG」はオリジナルバージョンではなくライブバージョンであり、[サディスティック・ミカ・バンド](../Page/サディスティック・ミカ・バンド.md "wikilink")のアルバム『晴天』に収録されている（マージャンの正確なスペルは**MAHJONG**である）。なお、地上波レギュラー放送時代（森脇健児司会時）には、エンディングに[Vane For Road](https://ja.wikipedia.org/wiki/Vane_For_Road "wikilink")「Love Letter」（作詞・作曲：[大江千里](../Page/大江千里_\(アーティスト\).md "wikilink")）が使用されていた。
 
 ## 出演者
 
@@ -31,7 +31,7 @@
 
 <!-- end list -->
 
-  - [ガダルカナル・タカ](https://ja.wikipedia.org/wiki/ガダルカナル・タカ "wikilink")（第2弾 - ）
+  - [ガダルカナル・タカ](../Page/ガダルカナル・タカ.md "wikilink")（第2弾 - ）
 
 <!-- end list -->
 
@@ -78,9 +78,9 @@
 
 ### 歴代の出演者
 
-  - [井出洋介](https://ja.wikipedia.org/wiki/井出洋介 "wikilink")（プロ雀士・麻将連合代表／第65弾まで解説）
+  - [井出洋介](../Page/井出洋介.md "wikilink")（プロ雀士・麻将連合代表／第65弾まで解説）
   - [梶本琢程](https://ja.wikipedia.org/wiki/梶本琢程 "wikilink")（第66弾 - 第89弾）
-  - [森脇健児](https://ja.wikipedia.org/wiki/森脇健児 "wikilink")（レギュラー放送司会、生スペシャルでは第1弾のみ）
+  - [森脇健児](../Page/森脇健児.md "wikilink")（レギュラー放送司会、生スペシャルでは第1弾のみ）
   - [桜井堅一朗](https://ja.wikipedia.org/wiki/桜井堅一朗 "wikilink")（元フジテレビアナウンサー／第59弾 - 第63弾実況）
   - [山中秀樹](../Page/山中秀樹.md "wikilink")（元フジテレビアナウンサー／2007年第64弾実況）
   - [佐藤里佳](https://ja.wikipedia.org/wiki/佐藤里佳 "wikilink")（フジテレビアナウンサー／第92弾実況）
@@ -88,8 +88,8 @@
   - [富永美樹](../Page/富永美樹.md "wikilink")（元フジテレビアナウンサー／元アシスタント）
   - [宇田麻衣子](../Page/宇田麻衣子.md "wikilink")（元フジテレビアナウンサー／元アシスタント）
   - みずき（元アシスタント)
-  - [宮崎景子](https://ja.wikipedia.org/wiki/宮崎景子 "wikilink")（元アシスタント）
-  - [福下恵美](https://ja.wikipedia.org/wiki/福下恵美 "wikilink")（元アシスタント）
+  - [宮崎景子](../Page/宮崎景子.md "wikilink")（元アシスタント）
+  - [福下恵美](../Page/福下恵美.md "wikilink")（元アシスタント）
   - [三田友梨佳](https://ja.wikipedia.org/wiki/三田友梨佳 "wikilink")（フジテレビアナウンサー／第66弾アシスタント）
   - [松尾翠](https://ja.wikipedia.org/wiki/松尾翠 "wikilink")（元フジテレビアナウンサー／第67弾 - 第73弾アシスタント）
   - [小林未沙](https://ja.wikipedia.org/wiki/小林未沙 "wikilink")（声優／「極雀DEポン」実況（野島と兼務））
@@ -115,9 +115,9 @@
   - 4人の組み合わせで連続2ゲームを行い、これを１ブロックとし、ブロック終了毎に出場者を入れ替えて次のブロックを行う
   - これを繰り返し合計20ブロック(1人あたり5ブロック・10ゲーム)を行い、ここまでのトータルポイントの順位を出す
   - その後順位の1位・2位・7位・8位をAブロック、3位・4位・5位・6位をBブロックに分け、それぞれのブロックで[プレーオフ](../Page/プレーオフ.md "wikilink")をさらに3ゲーム行い、このゲームを含めたトータルポイントの上位4人が決勝ラウンド進出となる
-  - 決勝ラウンドでは予選のポイントは[リセット](https://ja.wikipedia.org/wiki/リセット "wikilink")され、決勝ラウンドのみの成績で競う
-  - 一方予選敗退となった下位4人は通称『やさぐれ卓』にて5～8位の順位決定戦を行うが、場所がフジテレビ内のリハーサル室の一角、カメラは固定カメラ一台、中継は決勝ラウンドの休憩中に挟む程度と半ば[罰ゲーム](https://ja.wikipedia.org/wiki/罰ゲーム "wikilink")状態となっている
-  - なお、やさぐれ卓は余興的な意味合いのため、最終成績は公式サイトにて順位だけ紹介する程度という散々な扱いである([ガダルカナル・タカ](https://ja.wikipedia.org/wiki/ガダルカナル・タカ "wikilink")曰く余りの辛さに[風間杜夫](../Page/風間杜夫.md "wikilink")が[ギャラ](https://ja.wikipedia.org/wiki/ギャラ "wikilink")いらないから帰してくれと嘆いていたという)
+  - 決勝ラウンドでは予選のポイントは[リセット](../Page/リセット.md "wikilink")され、決勝ラウンドのみの成績で競う
+  - 一方予選敗退となった下位4人は通称『やさぐれ卓』にて5～8位の順位決定戦を行うが、場所がフジテレビ内のリハーサル室の一角、カメラは固定カメラ一台、中継は決勝ラウンドの休憩中に挟む程度と半ば[罰ゲーム](../Page/罰ゲーム.md "wikilink")状態となっている
+  - なお、やさぐれ卓は余興的な意味合いのため、最終成績は公式サイトにて順位だけ紹介する程度という散々な扱いである([ガダルカナル・タカ](../Page/ガダルカナル・タカ.md "wikilink")曰く余りの辛さに[風間杜夫](../Page/風間杜夫.md "wikilink")が[ギャラ](https://ja.wikipedia.org/wiki/ギャラ "wikilink")いらないから帰してくれと嘆いていたという)
 
 ## 他メディア展開
 
@@ -141,7 +141,7 @@
 
 ### DVD
 
-井出洋介が厳選した名場面を収録したDVDがポニーキャニオンより発売された。[井上順](../Page/井上順.md "wikilink")が出したわれポン初の役満、[山本陽子](https://ja.wikipedia.org/wiki/山本陽子 "wikilink")の二人飛ばし、[ブラザー・コーンの](https://ja.wikipedia.org/wiki/Bro.KONE "wikilink")0点からの大逆転、[萩原聖人](../Page/萩原聖人.md "wikilink")の初優勝、[風間杜夫](../Page/風間杜夫.md "wikilink")の4連覇達成などの模様が収録され、新たに井出の解説や、点数計算講座も収録された。
+井出洋介が厳選した名場面を収録したDVDがポニーキャニオンより発売された。[井上順](../Page/井上順.md "wikilink")が出したわれポン初の役満、[山本陽子](../Page/山本陽子.md "wikilink")の二人飛ばし、[ブラザー・コーンの](https://ja.wikipedia.org/wiki/Bro.KONE "wikilink")0点からの大逆転、[萩原聖人](../Page/萩原聖人.md "wikilink")の初優勝、[風間杜夫](../Page/風間杜夫.md "wikilink")の4連覇達成などの模様が収録され、新たに井出の解説や、点数計算講座も収録された。
 
 ## 過去に出場した芸能人
 
@@ -150,9 +150,9 @@
   - [秋元康](../Page/秋元康.md "wikilink")
   - [秋山良人](https://ja.wikipedia.org/wiki/秋山良人 "wikilink")（[あきげん](../Page/あきげん.md "wikilink")）
   - [浅田美代子](../Page/浅田美代子.md "wikilink")
-  - [東貴博](https://ja.wikipedia.org/wiki/東貴博 "wikilink")（[Take2](https://ja.wikipedia.org/wiki/Take2 "wikilink")）
+  - [東貴博](../Page/東貴博.md "wikilink")（[Take2](../Page/Take2.md "wikilink")）
   - [東てる美](../Page/東てる美.md "wikilink")
-  - [阿藤快](https://ja.wikipedia.org/wiki/阿藤快 "wikilink")
+  - [阿藤快](../Page/阿藤快.md "wikilink")
   - [新井浩文](https://ja.wikipedia.org/wiki/新井浩文 "wikilink")
   - [有田哲平](../Page/有田哲平.md "wikilink")（[くりぃむしちゅー](../Page/くりぃむしちゅー.md "wikilink")）
   - [石田純一](../Page/石田純一.md "wikilink")
@@ -163,9 +163,9 @@
   - [岩井勇気](https://ja.wikipedia.org/wiki/岩井勇気 "wikilink")（[ハライチ](https://ja.wikipedia.org/wiki/ハライチ "wikilink")）
   - [植田佳奈](https://ja.wikipedia.org/wiki/植田佳奈 "wikilink")
   - [内山信二](../Page/内山信二.md "wikilink")
-  - [江波杏子](https://ja.wikipedia.org/wiki/江波杏子 "wikilink")
+  - [江波杏子](../Page/江波杏子.md "wikilink")
   - [エハラマサヒロ](https://ja.wikipedia.org/wiki/エハラマサヒロ "wikilink")
-  - [大村朋宏](https://ja.wikipedia.org/wiki/大村朋宏 "wikilink")（[トータルテンボス](../Page/トータルテンボス.md "wikilink")）
+  - [大村朋宏](../Page/大村朋宏.md "wikilink")（[トータルテンボス](../Page/トータルテンボス.md "wikilink")）
   - [岡田紗佳](https://ja.wikipedia.org/wiki/岡田紗佳 "wikilink")
   - [落合博満](../Page/落合博満.md "wikilink")
   - [おりも政夫](../Page/おりも政夫.md "wikilink")
@@ -174,14 +174,14 @@
   - [多井隆晴](https://ja.wikipedia.org/wiki/多井隆晴 "wikilink")\[3\]
   - [大久保博元](https://ja.wikipedia.org/wiki/大久保博元 "wikilink")
   - [大仁田厚](../Page/大仁田厚.md "wikilink")
-  - [御徒町凧](https://ja.wikipedia.org/wiki/御徒町凧 "wikilink")\[4\]
-  - [小沢一敬](https://ja.wikipedia.org/wiki/小沢一敬 "wikilink")（[スピードワゴン](../Page/スピードワゴン.md "wikilink")）
+  - [御徒町凧](../Page/御徒町凧.md "wikilink")\[4\]
+  - [小沢一敬](../Page/小沢一敬.md "wikilink")（[スピードワゴン](../Page/スピードワゴン.md "wikilink")）
   - [小野ヤスシ](../Page/小野ヤスシ.md "wikilink")
   - [海堂尊](../Page/海堂尊.md "wikilink")
   - [加賀まりこ](../Page/加賀まりこ.md "wikilink")
   - [風間杜夫](../Page/風間杜夫.md "wikilink")
   - [梶原雄太](../Page/梶原雄太.md "wikilink")（[キングコング](../Page/キングコング_\(お笑いコンビ\).md "wikilink")）
-  - [ガダルカナル・タカ](https://ja.wikipedia.org/wiki/ガダルカナル・タカ "wikilink")
+  - [ガダルカナル・タカ](../Page/ガダルカナル・タカ.md "wikilink")
   - [片山まさゆき](../Page/片山まさゆき.md "wikilink")
   - [桂ざこば](../Page/桂ざこば_\(2代目\).md "wikilink")
   - 桂三枝（現：[六代目桂文枝](../Page/桂文枝_\(6代目\).md "wikilink")）
@@ -189,7 +189,7 @@
   - [金子昇](../Page/金子昇.md "wikilink")
   - [狩野英孝](../Page/狩野英孝.md "wikilink")
   - [亀田大毅](../Page/亀田大毅.md "wikilink")
-  - [カルーセル麻紀](https://ja.wikipedia.org/wiki/カルーセル麻紀 "wikilink")
+  - [カルーセル麻紀](../Page/カルーセル麻紀.md "wikilink")
 
 </div>
 
@@ -199,40 +199,40 @@
   - [木下隆行](https://ja.wikipedia.org/wiki/木下隆行 "wikilink")（[TKO](../Page/TKO_\(お笑いコンビ\).md "wikilink")）
   - [木村大作](../Page/木村大作.md "wikilink")（[撮影技師](https://ja.wikipedia.org/wiki/撮影技師 "wikilink")、[映画監督](../Page/映画監督.md "wikilink")）
   - [草野仁](https://ja.wikipedia.org/wiki/草野仁 "wikilink")
-  - [倉田てつを](https://ja.wikipedia.org/wiki/倉田てつを "wikilink")
-  - [黒田アーサー](https://ja.wikipedia.org/wiki/黒田アーサー "wikilink")
-  - [ケンドーコバヤシ](https://ja.wikipedia.org/wiki/ケンドーコバヤシ "wikilink")
-  - [KORN](https://ja.wikipedia.org/wiki/Bro.KONE "wikilink")（[バブルガム・ブラザーズ](https://ja.wikipedia.org/wiki/バブルガム・ブラザーズ "wikilink")）
+  - [倉田てつを](../Page/倉田てつを.md "wikilink")
+  - [黒田アーサー](../Page/黒田アーサー.md "wikilink")
+  - [ケンドーコバヤシ](../Page/ケンドーコバヤシ.md "wikilink")
+  - [KORN](https://ja.wikipedia.org/wiki/Bro.KONE "wikilink")（[バブルガム・ブラザーズ](../Page/バブルガム・ブラザーズ.md "wikilink")）
   - [コージー冨田](../Page/コージー冨田.md "wikilink")
   - [コトブキツカサ](https://ja.wikipedia.org/wiki/コトブキツカサ "wikilink")
   - [小島武夫](../Page/小島武夫.md "wikilink")
   - [児嶋一哉](https://ja.wikipedia.org/wiki/児嶋一哉 "wikilink")（[アンジャッシュ](../Page/アンジャッシュ.md "wikilink")）
-  - [小柳ルミ子](https://ja.wikipedia.org/wiki/小柳ルミ子 "wikilink")
-  - [斉木しげる](https://ja.wikipedia.org/wiki/斉木しげる "wikilink")（[シティボーイズ](../Page/シティボーイズ.md "wikilink")）
-  - [堺正章](https://ja.wikipedia.org/wiki/堺正章 "wikilink")
+  - [小柳ルミ子](../Page/小柳ルミ子.md "wikilink")
+  - [斉木しげる](../Page/斉木しげる.md "wikilink")（[シティボーイズ](../Page/シティボーイズ.md "wikilink")）
+  - [堺正章](../Page/堺正章.md "wikilink")
   - [坂上忍](../Page/坂上忍.md "wikilink")
-  - [佐藤哲夫](https://ja.wikipedia.org/wiki/佐藤哲夫_\(お笑い芸人\) "wikilink")（[パンクブーブー](https://ja.wikipedia.org/wiki/パンクブーブー "wikilink")）
-  - [サンプラザ中野くん](https://ja.wikipedia.org/wiki/サンプラザ中野くん "wikilink")
-  - [柴田英嗣](https://ja.wikipedia.org/wiki/柴田英嗣 "wikilink")（[アンタッチャブル](../Page/アンタッチャブル_\(お笑いコンビ\).md "wikilink")）
+  - [佐藤哲夫](https://ja.wikipedia.org/wiki/佐藤哲夫_\(お笑い芸人\) "wikilink")（[パンクブーブー](../Page/パンクブーブー.md "wikilink")）
+  - [サンプラザ中野くん](../Page/サンプラザ中野くん.md "wikilink")
+  - [柴田英嗣](../Page/柴田英嗣.md "wikilink")（[アンタッチャブル](../Page/アンタッチャブル_\(お笑いコンビ\).md "wikilink")）
   - [清水アキラ](../Page/清水アキラ.md "wikilink")
   - じゃい（[インスタントジョンソン](../Page/インスタントジョンソン.md "wikilink")）
-  - [田尾安志](https://ja.wikipedia.org/wiki/田尾安志 "wikilink")
+  - [田尾安志](../Page/田尾安志.md "wikilink")
   - [たかし](https://ja.wikipedia.org/wiki/たかし "wikilink")（[トレンディエンジェル](https://ja.wikipedia.org/wiki/トレンディエンジェル "wikilink")）
   - [辰巳琢郎](../Page/辰巳琢郎.md "wikilink")
   - [田中裕二](https://ja.wikipedia.org/wiki/田中裕二_\(お笑い芸人\) "wikilink")（[爆笑問題](../Page/爆笑問題.md "wikilink")）
   - [田村亮](../Page/田村亮_\(お笑い芸人\).md "wikilink")（[ロンドンブーツ1号2号](../Page/ロンドンブーツ1号2号.md "wikilink")）
-  - [千原せいじ](https://ja.wikipedia.org/wiki/千原せいじ "wikilink")
-  - [月亭八光](https://ja.wikipedia.org/wiki/月亭八光 "wikilink")
+  - [千原せいじ](../Page/千原せいじ.md "wikilink")
+  - [月亭八光](../Page/月亭八光.md "wikilink")
   - [土田浩翔](../Page/土田浩翔.md "wikilink")
   - [つのだ☆ひろ](../Page/つのだ☆ひろ.md "wikilink")
   - [椿姫彩菜](https://ja.wikipedia.org/wiki/椿姫彩菜 "wikilink")
-  - [寺田農](https://ja.wikipedia.org/wiki/寺田農 "wikilink")
+  - [寺田農](../Page/寺田農.md "wikilink")
   - [徳井健太](https://ja.wikipedia.org/wiki/徳井健太 "wikilink")（[平成ノブシコブシ](../Page/平成ノブシコブシ.md "wikilink")）
   - [徳光和夫](../Page/徳光和夫.md "wikilink")
   - [中村ゆうじ](https://ja.wikipedia.org/wiki/中村ゆうじ "wikilink")
-  - [なすび](https://ja.wikipedia.org/wiki/なすび_\(タレント\) "wikilink")
+  - [なすび](../Page/なすび_\(タレント\).md "wikilink")
   - [長門裕之](../Page/長門裕之.md "wikilink")
-  - [中野浩一](https://ja.wikipedia.org/wiki/中野浩一 "wikilink")
+  - [中野浩一](../Page/中野浩一.md "wikilink")
 
 </div>
 
@@ -241,43 +241,43 @@
   - [生瀬勝久](https://ja.wikipedia.org/wiki/生瀬勝久 "wikilink")
   - [奈美悦子](../Page/奈美悦子.md "wikilink")
   - [波岡一喜](../Page/波岡一喜.md "wikilink")
-  - [錦野旦](https://ja.wikipedia.org/wiki/錦野旦 "wikilink")
-  - [萩原流行](https://ja.wikipedia.org/wiki/萩原流行 "wikilink")
+  - [錦野旦](../Page/錦野旦.md "wikilink")
+  - [萩原流行](../Page/萩原流行.md "wikilink")
   - [萩原聖人](../Page/萩原聖人.md "wikilink")
   - [はなわ](https://ja.wikipedia.org/wiki/はなわ "wikilink")
-  - [浜谷健司](https://ja.wikipedia.org/wiki/浜谷健司 "wikilink")（[ハマカーン](https://ja.wikipedia.org/wiki/ハマカーン "wikilink")）
-  - [原田伸郎](https://ja.wikipedia.org/wiki/原田伸郎 "wikilink")（[あのねのね](../Page/あのねのね.md "wikilink")）
+  - [浜谷健司](https://ja.wikipedia.org/wiki/浜谷健司 "wikilink")（[ハマカーン](../Page/ハマカーン.md "wikilink")）
+  - [原田伸郎](../Page/原田伸郎.md "wikilink")（[あのねのね](../Page/あのねのね.md "wikilink")）
   - [ビートきよし](https://ja.wikipedia.org/wiki/ビートきよし "wikilink")
   - [ビートたけし](../Page/ビートたけし.md "wikilink")
   - [東国原英夫](https://ja.wikipedia.org/wiki/東国原英夫 "wikilink")
   - [ヒロミ](../Page/ヒロミ.md "wikilink")
   - [福本伸行](../Page/福本伸行.md "wikilink")
-  - [藤田伸二](https://ja.wikipedia.org/wiki/藤田伸二 "wikilink")
-  - [藤田晋](https://ja.wikipedia.org/wiki/藤田晋 "wikilink")\[5\]
+  - [藤田伸二](../Page/藤田伸二.md "wikilink")
+  - [藤田晋](../Page/藤田晋.md "wikilink")\[5\]
   - [保坂尚輝](https://ja.wikipedia.org/wiki/保坂尚輝 "wikilink")
   - [蛍原徹](../Page/蛍原徹.md "wikilink")（[雨上がり決死隊](../Page/雨上がり決死隊.md "wikilink")）
   - [本郷直樹](../Page/本郷直樹.md "wikilink")
-  - [前田幸長](https://ja.wikipedia.org/wiki/前田幸長 "wikilink")
+  - [前田幸長](../Page/前田幸長.md "wikilink")
   - [マギー審司](../Page/マギー審司.md "wikilink")
-  - [見栄晴](https://ja.wikipedia.org/wiki/見栄晴 "wikilink")
-  - [宮川一朗太](https://ja.wikipedia.org/wiki/宮川一朗太 "wikilink")
+  - [見栄晴](../Page/見栄晴.md "wikilink")
+  - [宮川一朗太](../Page/宮川一朗太.md "wikilink")
   - [宮城舞](https://ja.wikipedia.org/wiki/宮城舞 "wikilink")
   - [宮迫博之](https://ja.wikipedia.org/wiki/宮迫博之 "wikilink")（雨上がり決死隊）
   - [武藤敬司](https://ja.wikipedia.org/wiki/武藤敬司 "wikilink")
   - [室井滋](https://ja.wikipedia.org/wiki/室井滋 "wikilink")
-  - [モト冬樹](https://ja.wikipedia.org/wiki/モト冬樹 "wikilink")
+  - [モト冬樹](../Page/モト冬樹.md "wikilink")
   - [森川正太](../Page/森川正太.md "wikilink")
   - 森下剛任\[6\]
   - 森田勉
-  - [森田芳光](https://ja.wikipedia.org/wiki/森田芳光 "wikilink")
-  - [森光子](https://ja.wikipedia.org/wiki/森光子 "wikilink")
-  - [森本レオ](https://ja.wikipedia.org/wiki/森本レオ "wikilink")
+  - [森田芳光](../Page/森田芳光.md "wikilink")
+  - [森光子](../Page/森光子.md "wikilink")
+  - [森本レオ](../Page/森本レオ.md "wikilink")
   - [やくみつゆ](https://ja.wikipedia.org/wiki/ダイオウイカ夫 "wikilink")
   - [やくみつる](../Page/やくみつる.md "wikilink")
   - [山城新伍](https://ja.wikipedia.org/wiki/山城新伍 "wikilink")
   - [山本圭一](https://ja.wikipedia.org/wiki/山本圭一 "wikilink")（[極楽とんぼ](../Page/極楽とんぼ.md "wikilink")）
-  - [山本博](../Page/山本博_\(お笑い芸人\).md "wikilink")（[ロバート](https://ja.wikipedia.org/wiki/ロバート_\(お笑いトリオ\) "wikilink")）
-  - [山本陽子](https://ja.wikipedia.org/wiki/山本陽子 "wikilink")
+  - [山本博](../Page/山本博_\(お笑い芸人\).md "wikilink")（[ロバート](../Page/ロバート_\(お笑いトリオ\).md "wikilink")）
+  - [山本陽子](../Page/山本陽子.md "wikilink")
   - [和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")
   - [渡部絵美](../Page/渡部絵美.md "wikilink")
   - [ワッキー](https://ja.wikipedia.org/wiki/ワッキー "wikilink")（[ペナルティ](../Page/ペナルティ_\(お笑いコンビ\).md "wikilink")）
@@ -291,21 +291,21 @@
   - 13回 - [萩原聖人](../Page/萩原聖人.md "wikilink")（36回）
   - 8回 - [風間杜夫](../Page/風間杜夫.md "wikilink")（20回）、[坂上忍](../Page/坂上忍.md "wikilink")（31回）
   - 7回 - [清水アキラ](../Page/清水アキラ.md "wikilink")（18回）
-  - 6回 - [堺正章](https://ja.wikipedia.org/wiki/堺正章 "wikilink")（24回）、[加賀まりこ](../Page/加賀まりこ.md "wikilink")（28回）、[児嶋一哉](https://ja.wikipedia.org/wiki/児嶋一哉 "wikilink")（13回）
+  - 6回 - [堺正章](../Page/堺正章.md "wikilink")（24回）、[加賀まりこ](../Page/加賀まりこ.md "wikilink")（28回）、[児嶋一哉](https://ja.wikipedia.org/wiki/児嶋一哉 "wikilink")（13回）
   - 5回 - [蛭子能収](../Page/蛭子能収.md "wikilink")（20回）
-  - 4回 - [秋元康](../Page/秋元康.md "wikilink")（23回）、[川合俊一](../Page/川合俊一.md "wikilink")（17回）、[中野浩一](https://ja.wikipedia.org/wiki/中野浩一 "wikilink")（7回）、[見栄晴](https://ja.wikipedia.org/wiki/見栄晴 "wikilink")（14回）
-  - 3回 - [小柳ルミ子](https://ja.wikipedia.org/wiki/小柳ルミ子 "wikilink")（16回）、[田中裕二](https://ja.wikipedia.org/wiki/田中裕二 "wikilink")（7回）、[小沢一敬](https://ja.wikipedia.org/wiki/小沢一敬 "wikilink")（4回）、[ビートきよし](https://ja.wikipedia.org/wiki/ビートきよし "wikilink")（5回）
+  - 4回 - [秋元康](../Page/秋元康.md "wikilink")（23回）、[川合俊一](../Page/川合俊一.md "wikilink")（17回）、[中野浩一](../Page/中野浩一.md "wikilink")（7回）、[見栄晴](../Page/見栄晴.md "wikilink")（14回）
+  - 3回 - [小柳ルミ子](../Page/小柳ルミ子.md "wikilink")（16回）、[田中裕二](https://ja.wikipedia.org/wiki/田中裕二 "wikilink")（7回）、[小沢一敬](../Page/小沢一敬.md "wikilink")（4回）、[ビートきよし](https://ja.wikipedia.org/wiki/ビートきよし "wikilink")（5回）
   - 2回 - [落合博満](../Page/落合博満.md "wikilink")（2回）、[山本圭一](https://ja.wikipedia.org/wiki/山本圭一 "wikilink")（6回）
 
 \[7\]\[8\]\[9\]
 
 ### 24時間生スペシャル優勝者
 
-  - 2013年 - [小沢一敬](https://ja.wikipedia.org/wiki/小沢一敬 "wikilink")
-  - 2014年 - [中野浩一](https://ja.wikipedia.org/wiki/中野浩一 "wikilink")
+  - 2013年 - [小沢一敬](../Page/小沢一敬.md "wikilink")
+  - 2014年 - [中野浩一](../Page/中野浩一.md "wikilink")
   - 2015年 - 中野浩一
   - 2016年 - 中野浩一
-  - 2017年 - [見栄晴](https://ja.wikipedia.org/wiki/見栄晴 "wikilink")
+  - 2017年 - [見栄晴](../Page/見栄晴.md "wikilink")
   - 2018年 - 見栄晴
   - 2019年 - 萩原聖人
 
@@ -335,7 +335,7 @@
   - TK：江守紀代子
   - デスク：原口紗也加
   - 美術協力：[フジアール](../Page/フジアール.md "wikilink")
-  - 技術協力：[ニユーテレス](../Page/ニユーテレス.md "wikilink")、[fmt](https://ja.wikipedia.org/wiki/フジ・メディア・テクノロジー "wikilink")、[4-Legs](https://ja.wikipedia.org/wiki/4-Legs "wikilink")、[D-Craft](https://ja.wikipedia.org/wiki/ディークラフト "wikilink")、[IMAGICA](https://ja.wikipedia.org/wiki/IMAGICA "wikilink")、P-MAX
+  - 技術協力：[ニユーテレス](../Page/ニユーテレス.md "wikilink")、[fmt](https://ja.wikipedia.org/wiki/フジ・メディア・テクノロジー "wikilink")、[4-Legs](../Page/4-Legs.md "wikilink")、[D-Craft](../Page/ディークラフト.md "wikilink")、[IMAGICA](https://ja.wikipedia.org/wiki/IMAGICA "wikilink")、P-MAX
   - 協賛：株式会社鳳凰
   - 作家：[パジャマとりや](../Page/パジャマとりや.md "wikilink")
   - 編成：小島有星
@@ -347,7 +347,7 @@
   - プロデューサー：安藤厚司、橋爪均
   - チーフプロデューサー：[門澤清太](https://ja.wikipedia.org/wiki/門澤清太 "wikilink")
   - 技術協力：[ニユーテレス](../Page/ニユーテレス.md "wikilink")
-  - 制作協力：[4-Legs](https://ja.wikipedia.org/wiki/4-Legs "wikilink")
+  - 制作協力：[4-Legs](../Page/4-Legs.md "wikilink")
   - 制作著作：[フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")
 
 ## 脚注

@@ -1,13 +1,13 @@
 > この記事は[KEIKO](https://ja.wikipedia.org/wiki/KEIKO)から翻訳されています。
 
 
-**KEIKO**（ケイコ、[1972年](../Page/1972年.md "wikilink")[8月18日](../Page/8月18日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")である。[エイベックス・ヴァンガード](https://ja.wikipedia.org/wiki/エイベックス・ヴァンガード "wikilink")所属。夫は同じくglobeのメンバーである[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")。音楽グループ **[globe](https://ja.wikipedia.org/wiki/globe "wikilink")**の[ヴォーカリストとして活動](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、『K-C-O』名義でソロ活動も行っていたが、病気療養のため[2011年](../Page/2011年.md "wikilink")10月より活動停止中。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[Ａ型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[大分県](../Page/大分県.md "wikilink")[臼杵市](https://ja.wikipedia.org/wiki/臼杵市 "wikilink")出身。
+**KEIKO**（ケイコ、[1972年](../Page/1972年.md "wikilink")[8月18日](../Page/8月18日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")である。[エイベックス・ヴァンガード](https://ja.wikipedia.org/wiki/エイベックス・ヴァンガード "wikilink")所属。夫は同じくglobeのメンバーである[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")。音楽グループ **[globe](https://ja.wikipedia.org/wiki/globe "wikilink")**の[ヴォーカリストとして活動](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、『K-C-O』名義でソロ活動も行っていたが、病気療養のため[2011年](../Page/2011年.md "wikilink")10月より活動停止中。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[Ａ型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[大分県](../Page/大分県.md "wikilink")[臼杵市](../Page/臼杵市.md "wikilink")出身。
 
 ## 人物
 
-[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")は「[チャカ・カーン](https://ja.wikipedia.org/wiki/チャカ・カーン "wikilink")・[美空ひばり](../Page/美空ひばり.md "wikilink")・[エンヤ](../Page/エンヤ.md "wikilink")の間を揺れ動ける、凄くお得なポジションにいる良い声」\[1\]「歌うと『シャーッ』という音色も一緒に出ている。そういう声は美空ひばり・[松田聖子](../Page/松田聖子.md "wikilink")・KEIKOだけ」\[2\]と評している。
+[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")は「[チャカ・カーン](../Page/チャカ・カーン.md "wikilink")・[美空ひばり](../Page/美空ひばり.md "wikilink")・[エンヤ](../Page/エンヤ.md "wikilink")の間を揺れ動ける、凄くお得なポジションにいる良い声」\[1\]「歌うと『シャーッ』という音色も一緒に出ている。そういう声は美空ひばり・[松田聖子](../Page/松田聖子.md "wikilink")・KEIKOだけ」\[2\]と評している。
 
-実家は地元で有名な[料亭](https://ja.wikipedia.org/wiki/料亭 "wikilink")「山田屋」で、東京の系列店（[ふぐ料理](../Page/ふぐ料理.md "wikilink")専門店）は[ミシュランガイド](../Page/ミシュランガイド.md "wikilink")で三つ星の評価を得た\[3\]。 高校在学中に、文化祭のためにバンド、「パリンセス・パリンセス」を結成、担当は[ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")\[4\]。 高校卒業後、大阪に就職・移住したために、[関西弁](https://ja.wikipedia.org/wiki/関西弁 "wikilink")を話す事もある。大阪[大国町](https://ja.wikipedia.org/wiki/大国町 "wikilink")に住んでいた時は、[大阪ビジネスパーク](https://ja.wikipedia.org/wiki/大阪ビジネスパーク "wikilink")の[ホテルニューオータニ大阪](../Page/ホテルニューオータニ大阪.md "wikilink")内にある[日本料理](../Page/日本料理.md "wikilink")「城見」や、[心斎橋](https://ja.wikipedia.org/wiki/心斎橋 "wikilink")の[ブティック](https://ja.wikipedia.org/wiki/ブティック "wikilink")「エルミタージュ」などに勤務していた。
+実家は地元で有名な[料亭](https://ja.wikipedia.org/wiki/料亭 "wikilink")「山田屋」で、東京の系列店（[ふぐ料理](../Page/ふぐ料理.md "wikilink")専門店）は[ミシュランガイド](../Page/ミシュランガイド.md "wikilink")で三つ星の評価を得た\[3\]。 高校在学中に、文化祭のためにバンド、「パリンセス・パリンセス」を結成、担当は[ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")\[4\]。 高校卒業後、大阪に就職・移住したために、[関西弁](https://ja.wikipedia.org/wiki/関西弁 "wikilink")を話す事もある。大阪[大国町](https://ja.wikipedia.org/wiki/大国町 "wikilink")に住んでいた時は、[大阪ビジネスパーク](../Page/大阪ビジネスパーク.md "wikilink")の[ホテルニューオータニ大阪](../Page/ホテルニューオータニ大阪.md "wikilink")内にある[日本料理](../Page/日本料理.md "wikilink")「城見」や、[心斎橋](../Page/心斎橋.md "wikilink")の[ブティック](https://ja.wikipedia.org/wiki/ブティック "wikilink")「エルミタージュ」などに勤務していた。
 
 ## 略歴
 
@@ -17,13 +17,13 @@
 
 [2002年](../Page/2002年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")、小室哲哉と[結婚](../Page/結婚.md "wikilink")。
 
-[2006年](../Page/2006年.md "wikilink")[5月31日](../Page/5月31日.md "wikilink")に発売された[JKのシングル](https://ja.wikipedia.org/wiki/次長課長 "wikilink")「晴れる道 〜宇宙人に合わせる顔がねぇ\!〜」の3曲目「この僕が」では**KCO**名義で、初めて自分が歌う曲以外での作詞を行い、作詞家としての活動も開始させた。[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、[鮎川誠](https://ja.wikipedia.org/wiki/鮎川誠 "wikilink")らとバンド[THE AURIS (SUPER) BANDを期間限定結成](https://ja.wikipedia.org/wiki/THE_AURIS_\(SUPER\)_BAND "wikilink")、ヴォーカルとして参加。デビュー曲「MY WAY」は[10月24日](../Page/10月24日.md "wikilink")、[ナップスター](https://ja.wikipedia.org/wiki/ナップスター "wikilink")ジャパンから先行配信された。この企画はKEIKOにとって芸能界の音楽活動で初めての小室プロデュース以外での活動となった。[OBS感謝祭](https://ja.wikipedia.org/wiki/大分放送 "wikilink")（開局55周年記念）に小室と共に出演、「[I WANT YOU BACK](../Page/Digitalian_is_eating_breakfast.md "wikilink")」を熱唱した。
+[2006年](../Page/2006年.md "wikilink")[5月31日](../Page/5月31日.md "wikilink")に発売された[JKのシングル](https://ja.wikipedia.org/wiki/次長課長 "wikilink")「晴れる道 〜宇宙人に合わせる顔がねぇ\!〜」の3曲目「この僕が」では**KCO**名義で、初めて自分が歌う曲以外での作詞を行い、作詞家としての活動も開始させた。[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、[鮎川誠](../Page/鮎川誠.md "wikilink")らとバンド[THE AURIS (SUPER) BANDを期間限定結成](https://ja.wikipedia.org/wiki/THE_AURIS_\(SUPER\)_BAND "wikilink")、ヴォーカルとして参加。デビュー曲「MY WAY」は[10月24日](../Page/10月24日.md "wikilink")、[ナップスター](https://ja.wikipedia.org/wiki/ナップスター "wikilink")ジャパンから先行配信された。この企画はKEIKOにとって芸能界の音楽活動で初めての小室プロデュース以外での活動となった。[OBS感謝祭](https://ja.wikipedia.org/wiki/大分放送 "wikilink")（開局55周年記念）に小室と共に出演、「[I WANT YOU BACK](../Page/Digitalian_is_eating_breakfast.md "wikilink")」を熱唱した。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、KEIKO単独でユニバーサルミュージックへ移籍、ソロ名義を『**KCO**』に変え、本格的なソロプロジェクトが始動した。[6月](../Page/6月.md "wikilink")より自身の公式サイトにて、ブログを開始。[11月](../Page/11月.md "wikilink")、夫の小室哲哉が逮捕された（2009年5月に懲役3年、執行猶予5年の有罪判決となった）。
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[8月18日](../Page/8月18日.md "wikilink")、ソロ名義を『**K-C-O**』に変え、[avexのホームページ内に公式サイトを開設](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")（現在は閉鎖）。併せて[Twitter](../Page/Twitter.md "wikilink")アカウントも公表された。9月にはブログも再開。
 
-[2011年](../Page/2011年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink")、自宅にいる際、首の後部に激痛を訴え倒れた。夫の小室が救急車を呼び都内病院に緊急搬送。「[クモ膜下出血](https://ja.wikipedia.org/wiki/クモ膜下出血 "wikilink")」と診断され、25日未明から約5時間にわたる手術を受けた\[5\]。同年[12月8日](../Page/12月8日.md "wikilink")に退院し、早期発見だったため脳に大きな損傷は無く、[後遺症](https://ja.wikipedia.org/wiki/後遺症 "wikilink")の一つである[高次脳機能障害](https://ja.wikipedia.org/wiki/高次脳機能障害 "wikilink")については現在のところ特に心配することは無く、しばらくは自宅療養と通院でリハビリをしていくと小室は説明した\[6\]が、以降、病気療養に専念しているため、表舞台には登場していない。
+[2011年](../Page/2011年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink")、自宅にいる際、首の後部に激痛を訴え倒れた。夫の小室が救急車を呼び都内病院に緊急搬送。「[クモ膜下出血](../Page/クモ膜下出血.md "wikilink")」と診断され、25日未明から約5時間にわたる手術を受けた\[5\]。同年[12月8日](../Page/12月8日.md "wikilink")に退院し、早期発見だったため脳に大きな損傷は無く、[後遺症](https://ja.wikipedia.org/wiki/後遺症 "wikilink")の一つである[高次脳機能障害](../Page/高次脳機能障害.md "wikilink")については現在のところ特に心配することは無く、しばらくは自宅療養と通院でリハビリをしていくと小室は説明した\[6\]が、以降、病気療養に専念しているため、表舞台には登場していない。
 
 [2013年](../Page/2013年.md "wikilink")10月、事務所の分社により[エイベックス・ヴァンガード](https://ja.wikipedia.org/wiki/エイベックス・ヴァンガード "wikilink")に所属する\[7\]。
 
@@ -31,7 +31,7 @@
 
 [2017年](../Page/2017年.md "wikilink")[6月11日](../Page/6月11日.md "wikilink")、小室のTwitterにて、実家の料亭「山田屋」付近で撮影された療養中のKEIKO本人と小室、女の子の3ショット写真が公開された\[9\]。 同年[8月15日](../Page/8月15日.md "wikilink")、小室のInstagramにて、療養中に録音されたKEIKO自身の歌声を公開した\[10\]。
 
-[2018年](../Page/2018年.md "wikilink")[1月19日](../Page/1月19日.md "wikilink")、小室が会見し、妻であるKEIKOが[高次脳機能障害](https://ja.wikipedia.org/wiki/高次脳機能障害 "wikilink")を患っていることが明かされた\[11\]。
+[2018年](../Page/2018年.md "wikilink")[1月19日](../Page/1月19日.md "wikilink")、小室が会見し、妻であるKEIKOが[高次脳機能障害](../Page/高次脳機能障害.md "wikilink")を患っていることが明かされた\[11\]。
 
 2019年1月14日、自身のTwitterにて、「お久しぶりです。Twitter再開しようと思いまーす　よろしくお願いします」と、Twitterの再開が発表された。
 
@@ -86,7 +86,7 @@ globe名義でリリースしたものは[globeのディスコグラフィを参
       - SHINE YOUR LIGHT ON ME feat.KCO
   - [Digitalian is eating breakfast 2](https://ja.wikipedia.org/wiki/Digitalian_is_eating_breakfast_2 "wikilink") / 小室哲哉
       - Go Crazy feat. Krayzie Bone & K-C-O
-      - Every feat. [Mitsuhiro Hidaka](../Page/日高光啓.md "wikilink") ([AAA](https://ja.wikipedia.org/wiki/AAA_\(音楽グループ\) "wikilink")) a.k.a.SKY-HI & K-C-O
+      - Every feat. [Mitsuhiro Hidaka](../Page/日高光啓.md "wikilink") ([AAA](../Page/AAA_\(音楽グループ\).md "wikilink")) a.k.a.SKY-HI & K-C-O
   - Dramatic Life 2 / Dramatic Crew
       - True Love (あすなろ白書) / ANAN RYOKO × K-C-O
 

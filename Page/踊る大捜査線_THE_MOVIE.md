@@ -11,12 +11,12 @@
 
   - [1999年](../Page/1999年.md "wikilink")[5月8日](../Page/5月8日.md "wikilink")[スカイパーフェクTV\!衛星初放送](../Page/スカパー!プレミアムサービス.md "wikilink")
   - [2000年](../Page/2000年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")[地上波](../Page/地上波.md "wikilink")初放送（視聴率28.7%）
-  - 2000年[10月7日](../Page/10月7日.md "wikilink")同局の[ゴールデン洋画劇場](https://ja.wikipedia.org/wiki/ゴールデン洋画劇場 "wikilink")枠で完全版初放送（視聴率21.3%）
+  - 2000年[10月7日](../Page/10月7日.md "wikilink")同局の[ゴールデン洋画劇場](../Page/ゴールデン洋画劇場.md "wikilink")枠で完全版初放送（視聴率21.3%）
   - [2003年](../Page/2003年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")同局の「[プレミアムステージ](https://ja.wikipedia.org/wiki/プレミアムステージ "wikilink")開幕記念スペシャル」としてハイビジョン・マスター版地上波初放送（視聴率29.6%）
   - [2007年](../Page/2007年.md "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")「10th Anniversary特別企画」と題して同局の[金曜プレステージ](../Page/金曜プレステージ.md "wikilink")枠でハイビジョン・マスター版を放送。（視聴率19.4%）
-  - [2009年](../Page/2009年.md "wikilink")[7月11日](../Page/7月11日.md "wikilink")同局の[土曜プレミアム](https://ja.wikipedia.org/wiki/土曜プレミアム "wikilink")枠で「土曜プレミアム・[織田裕二](../Page/織田裕二.md "wikilink")傑作選」と題してハイビジョン・マスター版を放送。（視聴率11.8%）
+  - [2009年](../Page/2009年.md "wikilink")[7月11日](../Page/7月11日.md "wikilink")同局の[土曜プレミアム](../Page/土曜プレミアム.md "wikilink")枠で「土曜プレミアム・[織田裕二](../Page/織田裕二.md "wikilink")傑作選」と題してハイビジョン・マスター版を放送。（視聴率11.8%）
   - [2012年](../Page/2012年.md "wikilink")[10月20日](../Page/10月20日.md "wikilink")同局の土曜プレミアム枠で「映画 [踊る大捜査線 THE FINAL 新たなる希望](https://ja.wikipedia.org/wiki/踊る大捜査線_THE_FINAL_新たなる希望 "wikilink") 大ヒット御礼スペシャル」と題してハイビジョン・マスター版を放送。（視聴率14.0%）
-  - [2019年](../Page/2019年.md "wikilink")[6月9日](../Page/6月9日.md "wikilink")[BSフジ](../Page/BSフジ.md "wikilink")で「6週連続！踊る大捜査線」と題して劇場版（「[交渉人](https://ja.wikipedia.org/wiki/交渉人_真下正義 "wikilink")」、「[容疑者](https://ja.wikipedia.org/wiki/容疑者_室井慎次 "wikilink")」含む）全作を[4Kリマスター](https://ja.wikipedia.org/wiki/4K解像度 "wikilink")&完全ノーカットで放送する第1作目として放送。
+  - [2019年](../Page/2019年.md "wikilink")[6月9日](../Page/6月9日.md "wikilink")[BSフジ](../Page/BSフジ.md "wikilink")で「6週連続！踊る大捜査線」と題して劇場版（「[交渉人](../Page/交渉人_真下正義.md "wikilink")」、「[容疑者](../Page/容疑者_室井慎次.md "wikilink")」含む）全作を[4Kリマスター](https://ja.wikipedia.org/wiki/4K解像度 "wikilink")&完全ノーカットで放送する第1作目として放送。
 
 ## ストーリー
 
@@ -37,31 +37,31 @@
       - [神田総一朗](https://ja.wikipedia.org/wiki/神田総一朗 "wikilink") - [北村総一朗](../Page/北村総一朗.md "wikilink")
       - [秋山晴海](https://ja.wikipedia.org/wiki/秋山晴海 "wikilink") - [斉藤暁](../Page/斉藤暁.md "wikilink")
       - [袴田健吾](https://ja.wikipedia.org/wiki/袴田健吾 "wikilink") - [小野武彦](../Page/小野武彦.md "wikilink")
-  - （湾岸署警務課長・警部） - [山崎一](https://ja.wikipedia.org/wiki/山崎一 "wikilink")
-  - （湾岸署会計課長・警部） - [温水洋一](https://ja.wikipedia.org/wiki/温水洋一 "wikilink")
+  - （湾岸署警務課長・警部） - [山崎一](../Page/山崎一.md "wikilink")
+  - （湾岸署会計課長・警部） - [温水洋一](../Page/温水洋一.md "wikilink")
   - 坂下始 - [北山雅康](../Page/北山雅康.md "wikilink")
-  - 山下圭子（湾岸署交通課・巡査長） - [星野有香](https://ja.wikipedia.org/wiki/星野有香 "wikilink")
-  - 島津（警視庁刑事部捜査第一課長・警視正） - [浜田晃](https://ja.wikipedia.org/wiki/浜田晃 "wikilink")
-  - 大林中隊長（警視庁刑事部捜査第一課第一特殊捜査専任管理官・警視） - [隆大介](https://ja.wikipedia.org/wiki/隆大介 "wikilink")
-  - 吉田敏明（警視庁副総監） - [神山繁](https://ja.wikipedia.org/wiki/神山繁 "wikilink")
+  - 山下圭子（湾岸署交通課・巡査長） - [星野有香](../Page/星野有香.md "wikilink")
+  - 島津（警視庁刑事部捜査第一課長・警視正） - [浜田晃](../Page/浜田晃.md "wikilink")
+  - 大林中隊長（警視庁刑事部捜査第一課第一特殊捜査専任管理官・警視） - [隆大介](../Page/隆大介.md "wikilink")
+  - 吉田敏明（警視庁副総監） - [神山繁](../Page/神山繁.md "wikilink")
   - 池神静夫（警察庁刑事局長） - [津嘉山正種](../Page/津嘉山正種.md "wikilink")
-  - 安住武史（警察庁警備局長・警視監） - [大和田伸也](https://ja.wikipedia.org/wiki/大和田伸也 "wikilink")
-  - 警察庁長官官房総務審議官 - [篠原大作](https://ja.wikipedia.org/wiki/篠原大作 "wikilink")
+  - 安住武史（警察庁警備局長・警視監） - [大和田伸也](../Page/大和田伸也.md "wikilink")
+  - 警察庁長官官房総務審議官 - [篠原大作](../Page/篠原大作.md "wikilink")
   - 警察庁次長 - [原田清人](../Page/原田清人.md "wikilink")
   - 横山邦一（警視庁公安部長・警視監） - [大杉漣](../Page/大杉漣.md "wikilink")
-  - SIT捜査員（警視庁刑事部捜査第一課特殊班・警部補） - [津田寛治](https://ja.wikipedia.org/wiki/津田寛治 "wikilink")
-  - SIT女性捜査員 - [久世星佳](https://ja.wikipedia.org/wiki/久世星佳 "wikilink")
+  - SIT捜査員（警視庁刑事部捜査第一課特殊班・警部補） - [津田寛治](../Page/津田寛治.md "wikilink")
+  - SIT女性捜査員 - [久世星佳](../Page/久世星佳.md "wikilink")
   - 坂下始の母親 - [大塚良重](../Page/大塚良重.md "wikilink")
   - 看護婦 - [木村多江](https://ja.wikipedia.org/wiki/木村多江 "wikilink")
   - [新城賢太郎](../Page/新城賢太郎.md "wikilink")（警視庁刑事部捜査第一課管理官・警視） - [筧利夫](../Page/筧利夫.md "wikilink")
   - 日向真奈美 - [小泉今日子](https://ja.wikipedia.org/wiki/小泉今日子 "wikilink")
-  - [和久平八郎](../Page/和久平八郎.md "wikilink") - [いかりや長介](https://ja.wikipedia.org/wiki/いかりや長介 "wikilink")
+  - [和久平八郎](../Page/和久平八郎.md "wikilink") - [いかりや長介](../Page/いかりや長介.md "wikilink")
 
 ## スタッフ
 
-  - 監督 - [本広克行](https://ja.wikipedia.org/wiki/本広克行 "wikilink")（[ROBOT](../Page/ロボット_\(企業\).md "wikilink")）
+  - 監督 - [本広克行](../Page/本広克行.md "wikilink")（[ROBOT](../Page/ロボット_\(企業\).md "wikilink")）
   - 脚本 - [君塚良一](../Page/君塚良一.md "wikilink")
-  - 音楽 - [松本晃彦](https://ja.wikipedia.org/wiki/松本晃彦 "wikilink")
+  - 音楽 - [松本晃彦](../Page/松本晃彦.md "wikilink")
   - 主題歌 - 織田裕二「[Love Somebody](https://ja.wikipedia.org/wiki/Love_Somebody "wikilink") \[Cinema version\]」
   - 製作 - [村上光一](../Page/村上光一.md "wikilink")、[中村敏夫](../Page/中村敏夫.md "wikilink")
   - 撮影 - [藤石修](../Page/藤石修.md "wikilink")
@@ -69,7 +69,7 @@
   - 録音 - [芦原邦雄](https://ja.wikipedia.org/wiki/芦原邦雄 "wikilink")
   - 美術 - [梅田正則](https://ja.wikipedia.org/wiki/梅田正則 "wikilink")
   - 編集 - [松尾浩](https://ja.wikipedia.org/wiki/松尾浩 "wikilink")
-  - 助監督 - [羽住英一郎](https://ja.wikipedia.org/wiki/羽住英一郎 "wikilink")
+  - 助監督 - [羽住英一郎](../Page/羽住英一郎.md "wikilink")
   - プロデューサー - [亀山千広](../Page/亀山千広.md "wikilink")、[臼井裕詞](../Page/臼井裕詞.md "wikilink")（以上、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）[堀部徹](https://ja.wikipedia.org/wiki/堀部徹 "wikilink")、[安藤親広](../Page/安藤親広.md "wikilink")（以上、ROBOT）
   - 協力プロデューサー - [高井一郎](../Page/高井一郎.md "wikilink")、[石原隆](../Page/石原隆.md "wikilink")
   - 協力 - [NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")
@@ -82,13 +82,13 @@
   - [第22回日本アカデミー賞](https://ja.wikipedia.org/wiki/第22回日本アカデミー賞 "wikilink")
       - 最優秀助演男優賞（いかりや長介）
       - 最優秀録音賞（[芦原邦雄](https://ja.wikipedia.org/wiki/芦原邦雄 "wikilink")）
-      - 優秀作品賞、優秀監督賞（本広克行）、優秀主演男優賞（織田裕二）、優秀助演男優賞（柳葉敏郎）、優秀助演女優賞（深津絵里）、優秀脚本賞（君塚良一）、優秀撮影賞（[藤石修](../Page/藤石修.md "wikilink")）、優秀照明賞（[石丸隆一](https://ja.wikipedia.org/wiki/石丸隆一 "wikilink")）、優秀編集賞（[松尾浩](https://ja.wikipedia.org/wiki/松尾浩 "wikilink")）、優秀音楽賞（[松本晃彦](https://ja.wikipedia.org/wiki/松本晃彦 "wikilink")）
+      - 優秀作品賞、優秀監督賞（本広克行）、優秀主演男優賞（織田裕二）、優秀助演男優賞（柳葉敏郎）、優秀助演女優賞（深津絵里）、優秀脚本賞（君塚良一）、優秀撮影賞（[藤石修](../Page/藤石修.md "wikilink")）、優秀照明賞（[石丸隆一](https://ja.wikipedia.org/wiki/石丸隆一 "wikilink")）、優秀編集賞（[松尾浩](https://ja.wikipedia.org/wiki/松尾浩 "wikilink")）、優秀音楽賞（[松本晃彦](../Page/松本晃彦.md "wikilink")）
       - 話題賞・俳優部門（織田裕二）
   - 第20回[ヨコハマ映画祭](../Page/ヨコハマ映画祭.md "wikilink")\*日本映画ベストテン第9位・脚本賞（君塚良一）・審査員特別賞（「踊る大捜査線 THE MOVIE」製作チーム）
   - わかやま市民映画祭最優秀主演男優賞（織田裕二)
   - 第24回[おおさか映画祭](https://ja.wikipedia.org/wiki/おおさか映画祭 "wikilink")・助演女優賞（小泉今日子）
-  - 第72回[キネマ旬報](https://ja.wikipedia.org/wiki/キネマ旬報 "wikilink")ベスト・テン・読者選出日本映画ベスト・テン第3位
-  - 第53回[毎日映画コンクール](https://ja.wikipedia.org/wiki/毎日映画コンクール "wikilink")・日本映画ファン賞
+  - 第72回[キネマ旬報](../Page/キネマ旬報.md "wikilink")ベスト・テン・読者選出日本映画ベスト・テン第3位
+  - 第53回[毎日映画コンクール](../Page/毎日映画コンクール.md "wikilink")・日本映画ファン賞
   - 第39回[優秀映画鑑賞会](https://ja.wikipedia.org/wiki/優秀映画鑑賞会 "wikilink")ベストテン・日本映画ベストテン第7位
   - 第8回[日本映画批評家大賞](../Page/日本映画批評家大賞.md "wikilink")・特別賞（スターライト賞）
   - 第17回[ゴールデングロス賞](https://ja.wikipedia.org/wiki/ゴールデングロス賞 "wikilink")・最優秀金賞・話題賞
@@ -116,7 +116,7 @@
 
 ### CD
 
-  - [RHYTHM AND POLICE ORIGINAL SOUND TRACK III THE MOVIE F.F.S.S.](https://ja.wikipedia.org/wiki/RHYTHM_AND_POLICE_ORIGINAL_SOUND_TRACK_III_THE_MOVIE_F.F.S.S. "wikilink")（[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")、1998年10月28日）
+  - [RHYTHM AND POLICE ORIGINAL SOUND TRACK III THE MOVIE F.F.S.S.](https://ja.wikipedia.org/wiki/RHYTHM_AND_POLICE_ORIGINAL_SOUND_TRACK_III_THE_MOVIE_F.F.S.S. "wikilink")（[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")、1998年10月28日）
 
 ## 脚注
 

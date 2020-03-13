@@ -12,7 +12,7 @@
   - 『[ファイナルファンタジーXI](https://ja.wikipedia.org/wiki/ファイナルファンタジーXI "wikilink")』
   - 『FFXIオールインパック2006』
   - 『[フロントミッションオンライン](https://ja.wikipedia.org/wiki/フロントミッションオンライン "wikilink")』
-  - 『[ソースネクスト](https://ja.wikipedia.org/wiki/ソースネクスト "wikilink") はじめてのファイナルファンタジーXI』（Win版のみ）
+  - 『[ソースネクスト](../Page/ソースネクスト.md "wikilink") はじめてのファイナルファンタジーXI』（Win版のみ）
 
 PS2版は[HDDが必須であるため](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")、テトラマスター目的で購入するのは金銭的な負担が大きい。しかしWindows版ならば要求するマシンスペックがとても低いため、当ページを見られる環境のユーザーなら低価格のソースネクスト同梱版を購入することで本ソフトを気軽に体験できるチャンスがある。
 

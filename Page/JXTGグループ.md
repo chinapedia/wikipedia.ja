@@ -5,7 +5,7 @@
 
 ## 概要
 
-グループ事業は石油関連・金属関連等多岐にわたっている。中核企業の[JXTGエネルギーは](https://ja.wikipedia.org/wiki/JXエネルギー "wikilink")、合併時の存続会社であった[新日本石油](https://ja.wikipedia.org/wiki/新日本石油 "wikilink")（主取引行は、[みずほコーポレート銀行](../Page/みずほコーポレート銀行.md "wikilink")）の前身の一つが[三菱石油](../Page/三菱石油.md "wikilink")であるため[三菱金曜会](https://ja.wikipedia.org/wiki/三菱金曜会 "wikilink")に所属しているとともに、[新日鉱ホールディングス](https://ja.wikipedia.org/wiki/新日鉱ホールディングス "wikilink")（現・[JX金属](https://ja.wikipedia.org/wiki/JX金属 "wikilink")）が旧・日産コンツェルンの源流企業であったことから、日立・日産系の会社から構成される[春光懇話会](https://ja.wikipedia.org/wiki/春光懇話会 "wikilink")のメンバーでもある。
+グループ事業は石油関連・金属関連等多岐にわたっている。中核企業の[JXTGエネルギーは](https://ja.wikipedia.org/wiki/JXエネルギー "wikilink")、合併時の存続会社であった[新日本石油](https://ja.wikipedia.org/wiki/新日本石油 "wikilink")（主取引行は、[みずほコーポレート銀行](../Page/みずほコーポレート銀行.md "wikilink")）の前身の一つが[三菱石油](../Page/三菱石油.md "wikilink")であるため[三菱金曜会](https://ja.wikipedia.org/wiki/三菱金曜会 "wikilink")に所属しているとともに、[新日鉱ホールディングス](../Page/新日鉱ホールディングス.md "wikilink")（現・[JX金属](../Page/JX金属.md "wikilink")）が旧・日産コンツェルンの源流企業であったことから、日立・日産系の会社から構成される[春光懇話会](https://ja.wikipedia.org/wiki/春光懇話会 "wikilink")のメンバーでもある。
 
 2010年4月1日に新日本石油と新日鉱ホールディングスが経営統合し、JXホールディングスを発足。同年7月に傘下企業の新日本石油・新日鉱ホールディングス及びそれぞれの子会社の一部を再編した。今後も旧会社が重複する事業の再編が行われる見込みである。
 
@@ -29,7 +29,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/JXTGエネルギー" title="wikilink">JXTGエネルギー</a>株式会社</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/千代田区" title="wikilink">千代田区</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/千代田区" title="wikilink">千代田区</a></p></td>
 <td><p>エネルギー</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/新日本石油" title="wikilink">新日本石油</a>株式会社<br />
 <a href="../Page/新日本石油精製.md" title="wikilink">新日本石油精製</a>株式会社<br />
@@ -46,10 +46,10 @@
 →JX日鉱日石開発株式会社</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/JX金属" title="wikilink">JX金属</a>株式会社</p></td>
+<td><p><a href="../Page/JX金属.md" title="wikilink">JX金属</a>株式会社</p></td>
 <td><p>東京都千代田区</p></td>
 <td><p>金属</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/新日鉱ホールディングス" title="wikilink">新日鉱ホールディングス</a>株式会社<br />
+<td><p><a href="../Page/新日鉱ホールディングス.md" title="wikilink">新日鉱ホールディングス</a>株式会社<br />
 日鉱金属株式会社<br />
 →JX日鉱日石金属株式会社</p></td>
 </tr>
@@ -148,7 +148,7 @@
 </tr>
 <tr class="odd">
 <td><p>三共油化工業株式会社</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/千葉県" title="wikilink">千葉県</a><a href="../Page/市川市.md" title="wikilink">市川市</a></p></td>
+<td><p><a href="../Page/千葉県.md" title="wikilink">千葉県</a><a href="../Page/市川市.md" title="wikilink">市川市</a></p></td>
 <td><p>潤滑油・特殊<a href="../Page/アスファルト.md" title="wikilink">アスファルト</a>の製造・販売</p></td>
 <td><p>-</p></td>
 </tr>
@@ -160,7 +160,7 @@
 </tr>
 <tr class="odd">
 <td><p>谷口石油精製株式会社</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/三重県" title="wikilink">三重県</a><a href="../Page/三重郡.md" title="wikilink">三重郡</a><a href="https://ja.wikipedia.org/wiki/川越町" title="wikilink">川越町</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/三重県" title="wikilink">三重県</a><a href="../Page/三重郡.md" title="wikilink">三重郡</a><a href="../Page/川越町.md" title="wikilink">川越町</a></p></td>
 <td><p>絶縁油・潤滑油の製造</p></td>
 <td><p>-</p></td>
 </tr>
@@ -323,7 +323,7 @@ JX日鉱日石シッピング株式会社</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ENEOSグローブ" title="wikilink">ENEOSグローブ</a>株式会社</p></td>
 <td><p>東京都千代田区</p></td>
 <td><p>液化石油ガスの輸入・販売、新エネルギー関連機器の販売<br />
-（JXTGエネルギー・<a href="https://ja.wikipedia.org/wiki/三井物産" title="wikilink">三井物産</a>・<a href="https://ja.wikipedia.org/wiki/丸紅" title="wikilink">丸紅</a>の3社合弁）</p></td>
+（JXTGエネルギー・<a href="https://ja.wikipedia.org/wiki/三井物産" title="wikilink">三井物産</a>・<a href="../Page/丸紅.md" title="wikilink">丸紅</a>の3社合弁）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -474,7 +474,7 @@ JX日鉱日石シッピング株式会社</p></td>
 <td><p><a href="../Page/清水エル・エヌ・ジー.md" title="wikilink">清水エル・エヌ・ジー</a>株式会社</p></td>
 <td><p>静岡市清水区</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/液化天然ガス" title="wikilink">液化天然ガス</a>の輸入・販売<br />
-（JXTGエネルギーと<a href="https://ja.wikipedia.org/wiki/静岡ガス" title="wikilink">静岡ガス</a>の合弁会社）</p></td>
+（JXTGエネルギーと<a href="../Page/静岡ガス.md" title="wikilink">静岡ガス</a>の合弁会社）</p></td>
 <td><p>-</p></td>
 </tr>
 </tbody>
@@ -542,7 +542,7 @@ JX日鉱日石シッピング株式会社</p></td>
 <tbody>
 <tr class="odd">
 <td><p>春日鉱山株式会社</p></td>
-<td><p><a href="../Page/鹿児島県.md" title="wikilink">鹿児島県</a><a href="https://ja.wikipedia.org/wiki/枕崎市" title="wikilink">枕崎市</a></p></td>
+<td><p><a href="../Page/鹿児島県.md" title="wikilink">鹿児島県</a><a href="../Page/枕崎市.md" title="wikilink">枕崎市</a></p></td>
 <td><p>含金硅酸鉱の生産・販売</p></td>
 <td><p>-</p></td>
 </tr>
@@ -564,7 +564,7 @@ JX日鉱日石シッピング株式会社</p></td>
 <td><p>東京都千代田区</p></td>
 <td><p>非鉄金属資源の開発・調達、銅精錬、銅製品加工・販売<br />
 （金属精錬事業も兼務）<br />
-（JX金属と<a href="https://ja.wikipedia.org/wiki/三井金属鉱業" title="wikilink">三井金属鉱業</a>の共同出資会社）</p></td>
+（JX金属と<a href="../Page/三井金属鉱業.md" title="wikilink">三井金属鉱業</a>の共同出資会社）</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -659,7 +659,7 @@ JX日鉱日石シッピング株式会社</p></td>
 <td><p>東京都千代田区</p></td>
 <td><p>非鉄金属資源の開発・調達、銅精錬、銅製品加工・販売<br />
 （資源開発事業も兼務）<br />
-（JX金属と<a href="https://ja.wikipedia.org/wiki/三井金属鉱業" title="wikilink">三井金属鉱業</a>の共同出資会社）</p></td>
+（JX金属と<a href="../Page/三井金属鉱業.md" title="wikilink">三井金属鉱業</a>の共同出資会社）</p></td>
 <td><p>-</p></td>
 </tr>
 </tbody>
@@ -685,7 +685,7 @@ JX日鉱日石シッピング株式会社</p></td>
 </tr>
 <tr class="even">
 <td><p>北茨城精密加工株式会社</p></td>
-<td><p>茨城県<a href="https://ja.wikipedia.org/wiki/北茨城市" title="wikilink">北茨城市</a></p></td>
+<td><p>茨城県<a href="../Page/北茨城市.md" title="wikilink">北茨城市</a></p></td>
 <td><p>金属および金属化合物の切削・研磨等</p></td>
 <td><p>-</p></td>
 </tr>
@@ -720,7 +720,7 @@ JX日鉱日石シッピング株式会社</p></td>
 | JX金属環境株式会社                                                              | 茨城県[日立市](../Page/日立市.md "wikilink")                                                                      | 産業廃棄物処理業                           | 日鉱環境株式会社       |
 | 神峯クリーンサービス株式会社                                                          | 茨城県日立市                                                                                                   | ごみ処理施設の運転管理業務の受託                   | \-             |
 | JX金属苫小牧ケミカル株式会社                                                         | [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[苫小牧市](https://ja.wikipedia.org/wiki/苫小牧市 "wikilink") | 産業廃棄物の処理                           | 苫小牧ケミカル株式会社    |
-| [JX金属敦賀リサイクル](https://ja.wikipedia.org/wiki/JX金属敦賀リサイクル "wikilink")株式会社 | [福井県](../Page/福井県.md "wikilink")[敦賀市](https://ja.wikipedia.org/wiki/敦賀市 "wikilink")                      | 産業廃棄物の処理                           | 日鉱敦賀リサイクル株式会社  |
+| [JX金属敦賀リサイクル](https://ja.wikipedia.org/wiki/JX金属敦賀リサイクル "wikilink")株式会社 | [福井県](../Page/福井県.md "wikilink")[敦賀市](../Page/敦賀市.md "wikilink")                                         | 産業廃棄物の処理                           | 日鉱敦賀リサイクル株式会社  |
 | JX金属三日市リサイクル株式会社                                                        | [富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")[黒部市](../Page/黒部市.md "wikilink")                      | 産業廃棄物の処理                           | 日鉱三日市リサイクル株式会社 |
 | JX金属髙商株式会社                                                              | 東京都中央区                                                                                                   | プリント基板スクラップの集荷・破砕・選別および産業廃棄物の集荷・選別 | 株式会社髙商         |
 | JX金属黒部ガルバ株式会社                                                           | 富山県黒部市                                                                                                   | 溶融亜鉛めっき加工業                         | \-             |
@@ -788,7 +788,7 @@ JOMOエンタープライズ株式会社の不動産事業部門</p></td>
 <tr class="even">
 <td><p>JXリサーチ株式会社</p></td>
 <td><p>東京都千代田区</p></td>
-<td><p>石油・金属等分野の調査、技術支援、<a href="https://ja.wikipedia.org/wiki/コンサルティング" title="wikilink">コンサルティング</a>、<a href="https://ja.wikipedia.org/wiki/知的財産" title="wikilink">知的財産</a>管理、研修・技術支援</p></td>
+<td><p>石油・金属等分野の調査、技術支援、<a href="../Page/コンサルティング.md" title="wikilink">コンサルティング</a>、<a href="https://ja.wikipedia.org/wiki/知的財産" title="wikilink">知的財産</a>管理、研修・技術支援</p></td>
 <td><p>株式会社新日石総研<br />
 新日鉱テクノリサーチ株式会社</p></td>
 </tr>
@@ -1195,7 +1195,7 @@ Japan Energy (U.K.) LTD.</p></td>
   - [コスモ石油](../Page/コスモ石油.md "wikilink")
   - [東北電力](../Page/東北電力.md "wikilink")
   - [国際石油開発帝石](../Page/国際石油開発帝石.md "wikilink")
-  - [三菱商事](https://ja.wikipedia.org/wiki/三菱商事 "wikilink") - [三菱系の企業](../Page/三菱財閥.md "wikilink")
+  - [三菱商事](../Page/三菱商事.md "wikilink") - [三菱系の企業](../Page/三菱財閥.md "wikilink")
   - [日産化学](../Page/日産化学.md "wikilink")
   - [北陸電力](../Page/北陸電力.md "wikilink")
   - [中国電力](../Page/中国電力.md "wikilink")
@@ -1204,9 +1204,9 @@ Japan Energy (U.K.) LTD.</p></td>
 
 ## 関連項目
 
-  - [富士石油](https://ja.wikipedia.org/wiki/富士石油 "wikilink") - 主要株主のアラビア石油（旧法人、現[AOCホールディングス](https://ja.wikipedia.org/wiki/AOCホールディングス "wikilink")）と包括提携、統合に合意し離脱。
+  - [富士石油](../Page/富士石油.md "wikilink") - 主要株主のアラビア石油（旧法人、現[AOCホールディングス](https://ja.wikipedia.org/wiki/AOCホールディングス "wikilink")）と包括提携、統合に合意し離脱。
   - [辰馬本家酒造](../Page/辰馬本家酒造.md "wikilink") - かつての[辰馬財閥の盟主](https://ja.wikipedia.org/wiki/辰馬本家酒造#関係企業（同根） "wikilink")。旧雄洋海運はかつて[旧新日本汽船（のちナビックスライン）](https://ja.wikipedia.org/wiki/商船三井#沿革 "wikilink")（戦前の辰馬海運）陣営の帰属元であった。
-  - [九州石油](../Page/九州石油.md "wikilink") - [八幡製鐵](https://ja.wikipedia.org/wiki/八幡製鐵 "wikilink")→[新日本製鐵](../Page/新日本製鐵.md "wikilink")→[新日鐵住金](https://ja.wikipedia.org/wiki/新日鐵住金 "wikilink")（現[日本製鉄](https://ja.wikipedia.org/wiki/日本製鉄 "wikilink")）が中心になって[旧興銀](../Page/日本興業銀行.md "wikilink")・[芙蓉グループ](../Page/芙蓉グループ.md "wikilink")複数社の陣営と共に会社発起・設立に参画していた、かつての石油元売り会社（旧新日本石油が完全子会社化した上で吸収合併）。石油精製・流通部門をはじめとした主要分野について同社が委託・介入。
+  - [九州石油](../Page/九州石油.md "wikilink") - [八幡製鐵](../Page/八幡製鐵.md "wikilink")→[新日本製鐵](../Page/新日本製鐵.md "wikilink")→[新日鐵住金](https://ja.wikipedia.org/wiki/新日鐵住金 "wikilink")（現[日本製鉄](https://ja.wikipedia.org/wiki/日本製鉄 "wikilink")）が中心になって[旧興銀](../Page/日本興業銀行.md "wikilink")・[芙蓉グループ](../Page/芙蓉グループ.md "wikilink")複数社の陣営と共に会社発起・設立に参画していた、かつての石油元売り会社（旧新日本石油が完全子会社化した上で吸収合併）。石油精製・流通部門をはじめとした主要分野について同社が委託・介入。
 
 ## 外部リンク
 

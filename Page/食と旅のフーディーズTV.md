@@ -3,7 +3,7 @@
 
 **FOODIES TV**（フーディーズ ティーヴィ）は、IMAGICAティーヴィ（現・[WOWOWプラス](https://ja.wikipedia.org/wiki/WOWOWプラス "wikilink")）が運営していたグルメ関連[専門チャンネル](../Page/専門チャンネル.md "wikilink")。
 
-[スカパー\!プレミアムサービス](../Page/スカパー!プレミアムサービス.md "wikilink")、[スカパー\!プレミアムサービス光](https://ja.wikipedia.org/wiki/スカパー!プレミアムサービス光 "wikilink")、[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")にて配信されたほか、[ワールド・ハイビジョン・チャンネル](../Page/ワールド・ハイビジョン・チャンネル.md "wikilink")が提供する[BSデジタル放送](https://ja.wikipedia.org/wiki/BSデジタル放送 "wikilink")：『TwellV（トゥエルビ）』や[ブロードキャスト・サテライト・ディズニー](https://ja.wikipedia.org/wiki/ブロードキャスト・サテライト・ディズニー "wikilink")が提供する[『Dlife（ディーライフ）』でも一部の番組が配信された](https://ja.wikipedia.org/wiki/Dlife "wikilink")。
+[スカパー\!プレミアムサービス](../Page/スカパー!プレミアムサービス.md "wikilink")、[スカパー\!プレミアムサービス光](../Page/スカパー!プレミアムサービス光.md "wikilink")、[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")にて配信されたほか、[ワールド・ハイビジョン・チャンネル](../Page/ワールド・ハイビジョン・チャンネル.md "wikilink")が提供する[BSデジタル放送](https://ja.wikipedia.org/wiki/BSデジタル放送 "wikilink")：『TwellV（トゥエルビ）』や[ブロードキャスト・サテライト・ディズニー](https://ja.wikipedia.org/wiki/ブロードキャスト・サテライト・ディズニー "wikilink")が提供する[『Dlife（ディーライフ）』でも一部の番組が配信された](https://ja.wikipedia.org/wiki/Dlife "wikilink")。
 
 ## 概要
 
@@ -17,8 +17,8 @@ IMAGICAティーヴィの子会社、株式会社IMAGICA FTVが[2016年](../Page
   - [2002年](../Page/2002年.md "wikilink")10月1日：局名を「**Foodies TV**」に変更。
   - [2003年](../Page/2003年.md "wikilink")3月1日：スカイパーフェクTV\!110（現・[スカパー\!](../Page/スカパー!_\(東経110度BS・CSデジタル放送\).md "wikilink")）（[委託放送事業者](../Page/委託放送事業者.md "wikilink")は株式会社[シーエス・ナウ](../Page/シーエス・ナウ.md "wikilink")）で放送開始。
   - [2004年](../Page/2004年.md "wikilink")4月1日：局名を「**グルメ旅★Foodies TV**」に変更。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")9月30日：スカイパーフェクTV\!110での放送終了。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")7月1日：IMAGICAの組織変更により、グループの持株会社である株式会社[イマジカ・ロボット ホールディングス](https://ja.wikipedia.org/wiki/イマジカ・ロボット_ホールディングス "wikilink")（同日株式会社イマジカホールディングより社名変更）傘下に株式会社IMAGICAティーヴィ（IMAGICA TV）設立。
+  - [2005年](../Page/2005年.md "wikilink")9月30日：スカイパーフェクTV\!110での放送終了。
+  - [2006年](../Page/2006年.md "wikilink")7月1日：IMAGICAの組織変更により、グループの持株会社である株式会社[イマジカ・ロボット ホールディングス](https://ja.wikipedia.org/wiki/イマジカ・ロボット_ホールディングス "wikilink")（同日株式会社イマジカホールディングより社名変更）傘下に株式会社IMAGICAティーヴィ（IMAGICA TV）設立。
   - [2007年](../Page/2007年.md "wikilink")10月1日：局名を「**食＆健康バラエティ★フーディーズTV**」に変更。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")10月1日：局名を「**食と旅のフーディーズTV**」に変更。
   - [2012年](../Page/2012年.md "wikilink")
@@ -59,18 +59,18 @@ IMAGICAティーヴィの子会社、株式会社IMAGICA FTVが[2016年](../Page
 
 ### 他社制作
 
-  - [新・世界の料理ショー](../Page/世界の料理ショー.md "wikilink")（[カナダ放送協会](https://ja.wikipedia.org/wiki/カナダ放送協会 "wikilink")）
+  - [新・世界の料理ショー](../Page/世界の料理ショー.md "wikilink")（[カナダ放送協会](../Page/カナダ放送協会.md "wikilink")）
   - [ためしてガッテン](../Page/ためしてガッテン.md "wikilink")（[NHK制作](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")、料理をテーマにした回を中心に放送）
-  - [どさんこクッキング 星澤幸子の奥様ここでもう一品](https://ja.wikipedia.org/wiki/奥様ここでもう一品 "wikilink")（[札幌テレビ制作](https://ja.wikipedia.org/wiki/札幌テレビ放送 "wikilink")）
+  - [どさんこクッキング 星澤幸子の奥様ここでもう一品](https://ja.wikipedia.org/wiki/奥様ここでもう一品 "wikilink")（[札幌テレビ制作](../Page/札幌テレビ放送.md "wikilink")）
   - [水野真紀の魔法のレストラン](https://ja.wikipedia.org/wiki/水野真紀の魔法のレストラン "wikilink")（[毎日放送制作](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")）
   - [世界ウルルン滞在記](../Page/世界ウルルン滞在記.md "wikilink")（毎日放送制作）
-  - [女子アナクッキング〜教えて\!料理のアナとツボ〜](https://ja.wikipedia.org/wiki/女子アナクッキング〜教えて!料理のアナとツボ〜 "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")制作）
+  - [女子アナクッキング〜教えて\!料理のアナとツボ〜](../Page/女子アナクッキング〜教えて!料理のアナとツボ〜.md "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")制作）
   - 裸のシェフ　ジェイミーのシンプル・クッキング
   - アジア食紀行
   - [世界市場紀行 ワールドバザール21](../Page/ワールドバザール21.md "wikilink")（[BSフジ](../Page/BSフジ.md "wikilink")制作）
   - [とよた真帆のアジアグルメナビ](https://ja.wikipedia.org/wiki/とよた真帆のアジアグルメナビ "wikilink")（有限会社タイレル制作）
-  - [アニメ 美味しんぼ](https://ja.wikipedia.org/wiki/美味しんぼ "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")・[シンエイ動画](../Page/シンエイ動画.md "wikilink")制作）
-  - [アニメ クッキングパパ](https://ja.wikipedia.org/wiki/クッキングパパ "wikilink")（[朝日放送](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")・[エイケン](https://ja.wikipedia.org/wiki/エイケン "wikilink")制作）
+  - [アニメ 美味しんぼ](../Page/美味しんぼ.md "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")・[シンエイ動画](../Page/シンエイ動画.md "wikilink")制作）
+  - [アニメ クッキングパパ](../Page/クッキングパパ.md "wikilink")（[朝日放送](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")・[エイケン](https://ja.wikipedia.org/wiki/エイケン "wikilink")制作）
   - [きょうの料理](../Page/きょうの料理.md "wikilink")（NHK制作）
   - [森崎博之のあぐり王国北海道](../Page/森崎博之のあぐり王国北海道.md "wikilink")（[北海道放送](../Page/北海道放送.md "wikilink")制作）
   - [モヤモヤさまぁ〜ず2](../Page/モヤモヤさまぁ〜ず2.md "wikilink")（テレビ東京制作）
@@ -81,11 +81,11 @@ IMAGICAティーヴィの子会社、株式会社IMAGICA FTVが[2016年](../Page
 ## 関連項目
 
   - [スカパー\!プレミアムサービス](../Page/スカパー!プレミアムサービス.md "wikilink")
-  - [スカパー\!プレミアムサービス光](https://ja.wikipedia.org/wiki/スカパー!プレミアムサービス光 "wikilink")
+  - [スカパー\!プレミアムサービス光](../Page/スカパー!プレミアムサービス光.md "wikilink")
   - [スカパー\! チャンネル一覧](../Page/スカパー!_チャンネル一覧.md "wikilink")
   - [WOWOWプラス](https://ja.wikipedia.org/wiki/WOWOWプラス "wikilink")（旧IMAGICA TV）が運営しているチャンネル
       - [シネフィルWOWOW](../Page/シネフィルWOWOW.md "wikilink") - [スカパー\!（旧・スカパー\!e2）は直営放送](../Page/スカパー!_\(東経110度BS・CSデジタル放送\).md "wikilink")
-      - [歌謡ポップスチャンネル](https://ja.wikipedia.org/wiki/歌謡ポップスチャンネル "wikilink")
+      - [歌謡ポップスチャンネル](../Page/歌謡ポップスチャンネル.md "wikilink")
 
 ## 出典
 

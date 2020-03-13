@@ -1,7 +1,7 @@
 > この記事は[New Story of Aura Battler DUNBINE](https://ja.wikipedia.org/wiki/New_Story_of_Aura_Battler_DUNBINE)から翻訳されています。
 
 
-『**New Story of Aura Battler DUNBINE**』（ニュー ストーリー オブ オーラ バトラー ダンバイン）は、[1988年](../Page/1988年.md "wikilink")に発表された[サンライズ製作の全](https://ja.wikipedia.org/wiki/サンライズ_\(アニメ制作会社\) "wikilink")3話の[OVA](../Page/OVA.md "wikilink")シリーズ。
+『**New Story of Aura Battler DUNBINE**』（ニュー ストーリー オブ オーラ バトラー ダンバイン）は、[1988年](../Page/1988年.md "wikilink")に発表された[サンライズ製作の全](../Page/サンライズ_\(アニメ制作会社\).md "wikilink")3話の[OVA](../Page/OVA.md "wikilink")シリーズ。
 
 ## 概要
 
@@ -15,7 +15,7 @@
 
   - シオン・ザバ
     [声](../Page/声優.md "wikilink") - [中原茂](../Page/中原茂.md "wikilink")
-    バランバランに身を置く狩人の少年。生意気で無愛想な性格。不意打ちとはいえ、腕っぷしの強いガロウ・ラン達を剣や格闘で倒すなど身体能力は高い模様。ラバーンに捕われた際に謎のオーラ・バトラーを稼働させた（＝オーラを吸い取られて死ななかった）ことから[聖戦士として認識される](https://ja.wikipedia.org/wiki/聖戦士ダンバイン#用語 "wikilink")。[サーバインを駆ってラバーンの野望に立ち向かう](https://ja.wikipedia.org/wiki/ダンバイン_\(架空の兵器\)_#サーバイン "wikilink")。『聖戦士ダンバイン』の主人公・[ショウ・ザマ](https://ja.wikipedia.org/wiki/ショウ・ザマ "wikilink")の転生。
+    バランバランに身を置く狩人の少年。生意気で無愛想な性格。不意打ちとはいえ、腕っぷしの強いガロウ・ラン達を剣や格闘で倒すなど身体能力は高い模様。ラバーンに捕われた際に謎のオーラ・バトラーを稼働させた（＝オーラを吸い取られて死ななかった）ことから[聖戦士として認識される](https://ja.wikipedia.org/wiki/聖戦士ダンバイン#用語 "wikilink")。[サーバインを駆ってラバーンの野望に立ち向かう](https://ja.wikipedia.org/wiki/ダンバイン_\(架空の兵器\)_#サーバイン "wikilink")。『聖戦士ダンバイン』の主人公・[ショウ・ザマ](../Page/ショウ・ザマ.md "wikilink")の転生。
   - レムル・ジルフィード
     声 - [鷹森淑乃](../Page/鷹森淑乃.md "wikilink")
     バランバランの姫。リムル・ルフトの転生。
@@ -23,31 +23,31 @@
     声 - [横沢啓子](../Page/よこざわけい子.md "wikilink")
     かつてアの国において[地上人を召喚していた](https://ja.wikipedia.org/wiki/バイストン・ウェル#住人 "wikilink")[エ・フェラリオ](https://ja.wikipedia.org/wiki/バイストン・ウェル#住人 "wikilink")。禁則を破った罰として[ミ・フェラリオとなり転生](https://ja.wikipedia.org/wiki/バイストン・ウェル#住人 "wikilink")。
   - メムノン
-    声 - [宮内幸平](https://ja.wikipedia.org/wiki/宮内幸平 "wikilink")
+    声 - [宮内幸平](../Page/宮内幸平.md "wikilink")
     バランバランの長老であり、レムルの教育係的存在。黒騎士の襲撃を逃げ延び、秘宝を守る為に生存者を集めて聖域に避難するがベラーナの砲撃により死亡する。
   - ラバーン・ザラマンド
     声 - [速水奨](../Page/速水奨.md "wikilink")
     ズワウスを駆り「黒騎士」を名乗る男。その名の通り黒い甲冑に身を包み、手勢を率いてバイストン・ウェル征服を目論む。『聖戦士ダンバイン』の登場人物・[バーン・バニングスの転生](https://ja.wikipedia.org/wiki/聖戦士ダンバイン#バーン・バニングス "wikilink")。
   - ベラーナ・ガリアッハ
-    声 - [安達忍](https://ja.wikipedia.org/wiki/安達忍 "wikilink")
+    声 - [安達忍](../Page/安達忍.md "wikilink")
     ラバーン配下の赤い髪の女戦士。[ボウガン](https://ja.wikipedia.org/wiki/ボウガン "wikilink")・[剣](../Page/剣.md "wikilink")を使いこなす女傑。『聖戦士ダンバイン』の登場人物・[ガラリア・ニャムヒーの転生](https://ja.wikipedia.org/wiki/聖戦士ダンバイン#ガラリア・ニャムヒー "wikilink")。
   - ガルー
-    声 - [郷里大輔](https://ja.wikipedia.org/wiki/郷里大輔 "wikilink")
+    声 - [郷里大輔](../Page/郷里大輔.md "wikilink")
     ラバーン配下の巨漢で[ガロウ・ラン](https://ja.wikipedia.org/wiki/バイストン・ウェル#住人 "wikilink")。
   - ショット・ウェポン
-    声 - [田中正彦](https://ja.wikipedia.org/wiki/田中正彦 "wikilink")
+    声 - [田中正彦](../Page/田中正彦.md "wikilink")
     かつてバイストン・ウェルでオーラ・マシンを生み出し、戦乱の根源を作った男。その罪により肉体が朽ち果てても死ぬことを許されず、700年もの間亡霊として彷徨っていた。ラバーンにズワウスを与えたのは再びバイストン・ウェルに戦乱を呼び、最終目的である死ぬことを成就させるためであった。地上からの遺物である[核弾頭](../Page/核弾頭.md "wikilink")搭載の[ICBMを](../Page/大陸間弾道ミサイル.md "wikilink")700年間保存していた。『聖戦士ダンバイン』から登場する人物。
   - ギー
-    声 - [加藤精三](https://ja.wikipedia.org/wiki/加藤精三_\(声優\) "wikilink")
+    声 - [加藤精三](../Page/加藤精三_\(声優\).md "wikilink")
     聖戦士の帰還を信じ700年間ゲア・ガリングを守り続けていたロズン家の老戦士。シオンを聖戦士としてロズン城に迎える。ロズン城を襲撃したラバーン軍と一族を率いて戦うが、ズウワスの剣の下敷きとなり戦死する。
   - ボーゼ
-    声 - [江原正士](https://ja.wikipedia.org/wiki/江原正士 "wikilink")
+    声 - [江原正士](../Page/江原正士.md "wikilink")
     ロズン家の戦士。ギー戦死後はシオンに仕える。シオンに同行してラバーン城に夜襲をかける。待ち伏せをしていたガルー達に捕えられ、閉じ込められた[水牢](https://ja.wikipedia.org/wiki/水牢 "wikilink")でモンスターに襲われ死亡。
   - オリン
     声 - [若本規夫](../Page/若本規夫.md "wikilink")
     ロズン家の戦士。シオンの協力を得る為にレムルを攫うがベラーナ率いるガロウ・ラン達に射殺される。
   - ミシュラン
-    声 - [大滝進矢](https://ja.wikipedia.org/wiki/大滝進矢 "wikilink")
+    声 - [大滝進矢](../Page/大滝進矢.md "wikilink")
     ロズン家の戦士。シオンに同行してラバーン城に夜襲をかける。
 
 ## 登場オーラ・バトラー
@@ -68,17 +68,17 @@
   - 脚本 - [五武冬史](../Page/鈴木良武.md "wikilink")
   - キャラクターデザイン - [幡池裕行](https://ja.wikipedia.org/wiki/幡池裕行 "wikilink")
   - メカニックデザイン - [出渕裕](../Page/出渕裕.md "wikilink")
-  - 作画監督 - [谷口守泰](https://ja.wikipedia.org/wiki/谷口守泰 "wikilink")
+  - 作画監督 - [谷口守泰](../Page/谷口守泰.md "wikilink")
   - メカ作監 - [吉田徹](../Page/吉田徹.md "wikilink")
   - 美術監督 - [平川栄治](https://ja.wikipedia.org/wiki/平川栄治 "wikilink")
-  - 音響監督 - [藤野貞義](https://ja.wikipedia.org/wiki/藤野貞義 "wikilink")
+  - 音響監督 - [藤野貞義](../Page/藤野貞義.md "wikilink")
   - 音楽 - [小六禮次郎](../Page/小六禮次郎.md "wikilink")
 
-2020年に[大張正己](https://ja.wikipedia.org/wiki/大張正己 "wikilink")が自身の[Twitter](../Page/Twitter.md "wikilink")で明かしたところによれば、当時は[大貫健一](https://ja.wikipedia.org/wiki/大貫健一 "wikilink")と共に作画監督（大張がメカ、大貫がキャラ）としての参加を依頼されていたが、タイミングが合わず実現しなかったという\[3\]。
+2020年に[大張正己](../Page/大張正己.md "wikilink")が自身の[Twitter](../Page/Twitter.md "wikilink")で明かしたところによれば、当時は[大貫健一](../Page/大貫健一.md "wikilink")と共に作画監督（大張がメカ、大貫がキャラ）としての参加を依頼されていたが、タイミングが合わず実現しなかったという\[3\]。
 
 ## 主題歌
 
-※[キングレコード](../Page/キングレコード.md "wikilink")（[スターチャイルド](https://ja.wikipedia.org/wiki/スターチャイルド "wikilink")レーベル）から発売。
+※[キングレコード](../Page/キングレコード.md "wikilink")（[スターチャイルド](../Page/スターチャイルド.md "wikilink")レーベル）から発売。
 
   - 「Last No」（第1話）
     作詞・作曲・歌 - [辛島美登里](https://ja.wikipedia.org/wiki/辛島美登里 "wikilink") / 編曲 - [戸塚修](../Page/戸塚修.md "wikilink")
@@ -100,7 +100,7 @@
 ## 関連項目
 
   - [出渕裕](../Page/出渕裕.md "wikilink")
-  - [サンライズ](https://ja.wikipedia.org/wiki/サンライズ_\(アニメ制作会社\) "wikilink")
+  - [サンライズ](../Page/サンライズ_\(アニメ制作会社\).md "wikilink")
   - [バンダイ](../Page/バンダイ.md "wikilink")
 
 [en:Aura Battler Dunbine\#New Story of Aura Battler Dunbine](https://ja.wikipedia.org/wiki/en:Aura_Battler_Dunbine#New_Story_of_Aura_Battler_Dunbine "wikilink")

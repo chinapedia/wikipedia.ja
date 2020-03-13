@@ -1,7 +1,7 @@
 > この記事は[ NARUTO -- !](https://ja.wikipedia.org/wiki/_NARUTO_--_!)から翻訳されています。
 
 
-『**劇場版 NARUTO -ナルト- 大激突\!幻の地底遺跡だってばよ**』（げきじょうばん ナルト だいげきとつ\!まぼろしのちていいせきだってばよ）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[8月6日](../Page/8月6日.md "wikilink")に公開された漫画『[NARUTO -ナルト-](https://ja.wikipedia.org/wiki/NARUTO_-ナルト- "wikilink")』を原作とした[テレビアニメの劇場版第](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_\(アニメ\) "wikilink")2作目。本作のゲスト声優として[河相我聞](https://ja.wikipedia.org/wiki/河相我聞 "wikilink")が出演した。
+『**劇場版 NARUTO -ナルト- 大激突\!幻の地底遺跡だってばよ**』（げきじょうばん ナルト だいげきとつ\!まぼろしのちていいせきだってばよ）は、[2005年](../Page/2005年.md "wikilink")[8月6日](../Page/8月6日.md "wikilink")に公開された漫画『[NARUTO -ナルト-](../Page/NARUTO_-ナルト-.md "wikilink")』を原作とした[テレビアニメの劇場版第](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_\(アニメ\) "wikilink")2作目。本作のゲスト声優として[河相我聞](https://ja.wikipedia.org/wiki/河相我聞 "wikilink")が出演した。
 
 ## ストーリー
 
@@ -15,11 +15,11 @@
 
 ### メインキャラクター
 
-  - **[うずまきナルト](https://ja.wikipedia.org/wiki/うずまきナルト "wikilink")**（声 - [竹内順子](https://ja.wikipedia.org/wiki/竹内順子 "wikilink")）
-  - **[春野サクラ](https://ja.wikipedia.org/wiki/春野サクラ "wikilink")**（声 - [中村千絵](https://ja.wikipedia.org/wiki/中村千絵 "wikilink")）
+  - **[うずまきナルト](../Page/うずまきナルト.md "wikilink")**（声 - [竹内順子](../Page/竹内順子.md "wikilink")）
+  - **[春野サクラ](https://ja.wikipedia.org/wiki/春野サクラ "wikilink")**（声 - [中村千絵](../Page/中村千絵.md "wikilink")）
   - **[奈良シカマル](https://ja.wikipedia.org/wiki/奈良シカマル "wikilink")**（声 - [森久保祥太郎](../Page/森久保祥太郎.md "wikilink")）
   - **[我愛羅](https://ja.wikipedia.org/wiki/我愛羅 "wikilink")**（声 - [石田彰](../Page/石田彰.md "wikilink")）
-  - **[カンクロウ](https://ja.wikipedia.org/wiki/カンクロウ "wikilink")**（声 - [加瀬康之](https://ja.wikipedia.org/wiki/加瀬康之 "wikilink")）
+  - **[カンクロウ](https://ja.wikipedia.org/wiki/カンクロウ "wikilink")**（声 - [加瀬康之](../Page/加瀬康之.md "wikilink")）
 
 以上の人物についてはリンク先のページを参照。
 
@@ -33,13 +33,13 @@
     声 - [野島昭生](../Page/野島昭生.md "wikilink")
     理想郷をつくるために大勢の犠牲者を出すが、実はテムジンの村を攻撃した張本人。普段は温厚な老紳士だが、戦うときは二重人格のごとく凶悪な表情の鬼人になる。右手につけたゲレルの石によって鉱脈からエネルギーを吸収して驚異的な回復能力を発揮したが、ゲレルの石を破壊された直後に心臓に螺旋丸を受けて敗れる。
   - テムジン
-    声 - [河相我聞](https://ja.wikipedia.org/wiki/河相我聞 "wikilink")、[加藤優子](https://ja.wikipedia.org/wiki/加藤有生子 "wikilink")（幼少時代）
+    声 - [河相我聞](https://ja.wikipedia.org/wiki/河相我聞 "wikilink")、[加藤優子](../Page/加藤有生子.md "wikilink")（幼少時代）
     「ゲレルの結晶石」を持つ剣士で、この映画でカギを握る人物。また、ゲレルの石を持っているときと持っていないときで眼の色が違う（持っているとき：赤色の眼・持っていないとき：青っぽい緑色の眼）。ハイドの理想郷つくりに協力していたが、ハイドが故郷の村を襲撃した張本人だと知ったときは完全にナルトたちの味方になった。
   - フガイ
-    声 - [高乃麗](https://ja.wikipedia.org/wiki/高乃麗 "wikilink")
+    声 - [高乃麗](../Page/高乃麗.md "wikilink")
     [人狼に近い姿に変身し](../Page/狼男.md "wikilink")、口から衝撃波を放ち、サクラを追い詰めるが、彼女の機転により自滅する。また、機械の扱いにも強い。
   - カミラ
-    声 - [小島幸子](https://ja.wikipedia.org/wiki/小島幸子 "wikilink")
+    声 - [小島幸子](../Page/小島幸子.md "wikilink")
     敵の視界の色を変えて、逆さの状態で首を絞め上げる幻術使いで、[蝙蝠](https://ja.wikipedia.org/wiki/蝙蝠 "wikilink")に近い姿に変身するが、シカマルの機転とカンクロウの「黒秘技危機二発」による連携によって倒される。
   - ランケ
     声 - [桑島法子](../Page/桑島法子.md "wikilink")
@@ -48,9 +48,9 @@
 #### その他
 
   - テムジンの幼なじみ
-    声 - [本田貴子](https://ja.wikipedia.org/wiki/本田貴子 "wikilink")
+    声 - [本田貴子](../Page/本田貴子.md "wikilink")
   - 砂の忍
-    声 - [志村知幸](https://ja.wikipedia.org/wiki/志村知幸 "wikilink")、[宮島史年](../Page/宮島史年.md "wikilink")、[吉野貴宏](../Page/吉野貴宏.md "wikilink")、[加藤将之](https://ja.wikipedia.org/wiki/加藤将之 "wikilink")、[酒井敬幸](../Page/酒井敬幸.md "wikilink")
+    声 - [志村知幸](../Page/志村知幸.md "wikilink")、[宮島史年](../Page/宮島史年.md "wikilink")、[吉野貴宏](../Page/吉野貴宏.md "wikilink")、[加藤将之](../Page/加藤将之.md "wikilink")、[酒井敬幸](../Page/酒井敬幸.md "wikilink")
   - エミナ
     声 - [黒川智花](https://ja.wikipedia.org/wiki/黒川智花 "wikilink")
     キャラバンに住む少女。テムジンの看病にあたる。
@@ -77,7 +77,7 @@
 
   - 監督 - [川崎博嗣](https://ja.wikipedia.org/wiki/川崎博嗣 "wikilink")
   - 脚本 - 川崎博嗣、宮田由佳
-  - キャラクターデザイン - [西尾鉄也](https://ja.wikipedia.org/wiki/西尾鉄也 "wikilink")
+  - キャラクターデザイン - [西尾鉄也](../Page/西尾鉄也.md "wikilink")
   - メカニックデザイン - 末武康光
   - コンセプトデザイン - 遠藤正明、伊藤秀次
   - 絵コンテ - 川崎博嗣、佐々木守、福山新市、新井浩一
@@ -97,7 +97,7 @@
 
   - [TUBE](../Page/TUBE.md "wikilink")「[Ding\! Dong\! Dang\!](https://ja.wikipedia.org/wiki/Ding!_Dong!_Dang! "wikilink")」
       - 作詞 - [前田亘輝](../Page/前田亘輝.md "wikilink")
-      - 作曲 - [春畑道哉](https://ja.wikipedia.org/wiki/春畑道哉 "wikilink")
+      - 作曲 - [春畑道哉](../Page/春畑道哉.md "wikilink")
 
 <!-- end list -->
 
@@ -115,7 +115,7 @@
 ## 関連項目
 
   - [NARUTO -ナルト-（アニメ第一部）](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_\(アニメ\) "wikilink")
-  - [劇場版 NARUTO -ナルト- 大活劇\!雪姫忍法帖だってばよ\!\!](https://ja.wikipedia.org/wiki/劇場版_NARUTO_-ナルト-_大活劇!雪姫忍法帖だってばよ!! "wikilink")
+  - [劇場版 NARUTO -ナルト- 大活劇\!雪姫忍法帖だってばよ\!\!](../Page/劇場版_NARUTO_-ナルト-_大活劇!雪姫忍法帖だってばよ!!.md "wikilink")
   - [劇場版 NARUTO -ナルト- 大興奮\!みかづき島のアニマル騒動だってばよ](../Page/劇場版_NARUTO_-ナルト-_大興奮!みかづき島のアニマル騒動だってばよ.md "wikilink")
   - [鬼神伝（映画版）](https://ja.wikipedia.org/wiki/鬼神伝#映画版 "wikilink")
 

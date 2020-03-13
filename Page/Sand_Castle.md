@@ -5,7 +5,7 @@
 
 ## 概要
 
-本作は、[2003年](../Page/2003年.md "wikilink")までに4作発売されている[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")・[バラード](../Page/バラード.md "wikilink")・セレクションの第1弾である。アルバムのテーマは「20代の若い恋人達の甘く切ない恋の物語」である。アレンジは全曲[佐藤準](../Page/佐藤準.md "wikilink")が担当した。
+本作は、[2003年](../Page/2003年.md "wikilink")までに4作発売されている[セルフカバー](../Page/セルフカバー.md "wikilink")・[バラード](../Page/バラード.md "wikilink")・セレクションの第1弾である。アルバムのテーマは「20代の若い恋人達の甘く切ない恋の物語」である。アレンジは全曲[佐藤準](../Page/佐藤準.md "wikilink")が担当した。
 
 同じセルフカバー・バラード・セレクションのシリーズの位置付けとしては、10代の『[EDGE OF THE KNIFE](https://ja.wikipedia.org/wiki/EDGE_OF_THE_KNIFE "wikilink")』の次、30代の『[Wasted Tears](https://ja.wikipedia.org/wiki/Wasted_Tears "wikilink")』の前という位置である。
 
@@ -37,8 +37,8 @@
 
   - Drums：[島村英二](../Page/島村英二.md "wikilink")
   - Bass：岡沢茂
-  - Electric Guitar：[今剛](../Page/今剛.md "wikilink"), [青山徹](https://ja.wikipedia.org/wiki/愛奴 "wikilink")
-  - Electric Piano：[国吉良一](https://ja.wikipedia.org/wiki/国吉良一 "wikilink")
+  - Electric Guitar：[今剛](../Page/今剛.md "wikilink"), [青山徹](../Page/愛奴.md "wikilink")
+  - Electric Piano：[国吉良一](../Page/国吉良一.md "wikilink")
   - Synthesizer：佐藤準
   - Synthesizer Programming：浦田恵司
   - Percussion：石井宏太郎
@@ -53,7 +53,7 @@
   - Acoustic Piano：国吉良一
   - Electric Piano & Synthesizer：佐藤準
   - Synthesizer Programming：浦田恵司
-  - Percussion：[斉藤ノブ](https://ja.wikipedia.org/wiki/斎藤ノヴ "wikilink")
+  - Percussion：[斉藤ノブ](../Page/斎藤ノヴ.md "wikilink")
   - Acoustic Guitar Solo：笛吹利明
   - Backing Vocal：浜田省吾, 比山清
 
@@ -98,7 +98,7 @@
   - Bass：Greg Lee
   - Electric Guitar：今剛, 青山徹
   - Acoustic Guitar：[吉川忠英](../Page/吉川忠英.md "wikilink")
-  - Acoustic Piano：[中西康晴](https://ja.wikipedia.org/wiki/中西康晴 "wikilink")
+  - Acoustic Piano：[中西康晴](../Page/中西康晴.md "wikilink")
   - Electric Piano：佐藤準
   - Percussion：斉藤ノブ
   - Strings：Joe Group
@@ -138,12 +138,12 @@
 
 ## セルフカバー・バラード・セレクション
 
-| 発売日                                                                                         | タイトル                                                                            | 発売元                                                                                    | 製造番号                                      | 形態                      |
-| ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ----------------------------------------- | ----------------------- |
-| [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[12月1日](../Page/12月1日.md "wikilink") | **Sand Castle**                                                                 | <small>[CBSソニー](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")</small>       | <small>28AH1655/CSCL1170/28KH1420</small> | <small>LP/CD/CT</small> |
-| [1989年](../Page/1989年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")                      | [Wasted Tears](https://ja.wikipedia.org/wiki/Wasted_Tears "wikilink")           | <small>CBSソニー</small>                                                                  | <small>32DH5269/28KH5269</small>          | <small>LP/CD/CT</small> |
-| [1991年](../Page/1991年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")                      | [EDGE OF THE KNIFE](https://ja.wikipedia.org/wiki/EDGE_OF_THE_KNIFE "wikilink") | <small>[Sony Records](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")</small> | <small>SRCL2122/SRTL1744</small>          | <small>CD/CT</small>    |
-| [2003年](../Page/2003年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")                    | [初秋](https://ja.wikipedia.org/wiki/初秋_\(アルバム\) "wikilink")                      | <small>[SME Records](https://ja.wikipedia.org/wiki/エスエムイーレコーズ "wikilink")</small>      | <small>SECL10004</small>                  | <small>SACD</small>     |
+| 発売日                                                                                         | タイトル                                                                            | 発売元                                                                 | 製造番号                                      | 形態                      |
+| ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ----------------------------------------- | ----------------------- |
+| [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[12月1日](../Page/12月1日.md "wikilink") | **Sand Castle**                                                                 | <small>[CBSソニー](../Page/ソニー・ミュージックレコーズ.md "wikilink")</small>       | <small>28AH1655/CSCL1170/28KH1420</small> | <small>LP/CD/CT</small> |
+| [1989年](../Page/1989年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")                      | [Wasted Tears](https://ja.wikipedia.org/wiki/Wasted_Tears "wikilink")           | <small>CBSソニー</small>                                               | <small>32DH5269/28KH5269</small>          | <small>LP/CD/CT</small> |
+| [1991年](../Page/1991年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")                      | [EDGE OF THE KNIFE](https://ja.wikipedia.org/wiki/EDGE_OF_THE_KNIFE "wikilink") | <small>[Sony Records](../Page/ソニー・ミュージックレコーズ.md "wikilink")</small> | <small>SRCL2122/SRTL1744</small>          | <small>CD/CT</small>    |
+| [2003年](../Page/2003年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")                    | [初秋](https://ja.wikipedia.org/wiki/初秋_\(アルバム\) "wikilink")                      | <small>[SME Records](../Page/エスエムイーレコーズ.md "wikilink")</small>      | <small>SECL10004</small>                  | <small>SACD</small>     |
 
 ## 脚注
 

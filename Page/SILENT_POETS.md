@@ -11,11 +11,11 @@
 
 現在までに通算6枚のオリジナル・アルバムと7枚のリミックス・アルバムやミニ・アルバムなどをリリース。海外からの評価も高く、多くの音楽誌やファッション誌に紹介され、[Café del Marをはじめ](https://ja.wikipedia.org/wiki/:en:Café_del_Mar "wikilink")、アメリカ、イギリス、フランス、ドイツ、イタリアなどで30作品を超えるコンピレーション・アルバムに楽曲が収録される。
 
-[2000年](../Page/2000年.md "wikilink")にはパリのレーベル [Yellow Productionsよりアルバム](https://ja.wikipedia.org/wiki/:en:Yellow_Productions "wikilink")『TO COME…』がリリースされ、[2001年](../Page/2001年.md "wikilink")にはアメリカの[アトランティック・レコード](https://ja.wikipedia.org/wiki/アトランティック・レコード "wikilink")より全米リリースされる。同年夏、下田のソロ・ユニットとなる。
+[2000年](../Page/2000年.md "wikilink")にはパリのレーベル [Yellow Productionsよりアルバム](https://ja.wikipedia.org/wiki/:en:Yellow_Productions "wikilink")『TO COME…』がリリースされ、[2001年](../Page/2001年.md "wikilink")にはアメリカの[アトランティック・レコード](../Page/アトランティック・レコード.md "wikilink")より全米リリースされる。同年夏、下田のソロ・ユニットとなる。
 
-その間、[ISSEY MIYAKEの](https://ja.wikipedia.org/wiki/ISSEY_MIYAKE "wikilink")[パリ・コレクション](https://ja.wikipedia.org/wiki/パリ・コレクション "wikilink")の音楽の担当や他アーティストのプロデュース、リミックス、[BEAMS](https://ja.wikipedia.org/wiki/BEAMS "wikilink")の25周年プロジェクト「Hotel id+」のサウンドトラックなども制作。また[浅野忠信](../Page/浅野忠信.md "wikilink")初監督のショート・ムービー『トーリ』にも楽曲を提供している。
+その間、[ISSEY MIYAKEの](https://ja.wikipedia.org/wiki/ISSEY_MIYAKE "wikilink")[パリ・コレクション](../Page/パリ・コレクション.md "wikilink")の音楽の担当や他アーティストのプロデュース、リミックス、[BEAMS](https://ja.wikipedia.org/wiki/BEAMS "wikilink")の25周年プロジェクト「Hotel id+」のサウンドトラックなども制作。また[浅野忠信](../Page/浅野忠信.md "wikilink")初監督のショート・ムービー『トーリ』にも楽曲を提供している。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")11月30日、6年振りとなる最新アルバム『SUN』がリリースされ大きな話題となる。『SUN』では、元Yellow Productions、現在poussez\! のDJ Yellowを共同プロデューサーに迎え、エバートン・ネルソン、ショーン・リーが参加。同アルバムは2006年5月にフランスのpoussez\!よりリリース。アメリカ、イギリス、ドイツなど世界10カ国以上で発売された。
+[2005年](../Page/2005年.md "wikilink")11月30日、6年振りとなる最新アルバム『SUN』がリリースされ大きな話題となる。『SUN』では、元Yellow Productions、現在poussez\! のDJ Yellowを共同プロデューサーに迎え、エバートン・ネルソン、ショーン・リーが参加。同アルバムは2006年5月にフランスのpoussez\!よりリリース。アメリカ、イギリス、ドイツなど世界10カ国以上で発売された。
 
 [2007年](../Page/2007年.md "wikilink")3月には活動15周年を記念したベスト盤 『Silent Poets Ultimet Collection　"Sound Of Silence"』のVol.1、Vol.2の二枚がDVD付きでリリースされた。
 
@@ -82,10 +82,10 @@
 
   - ACO／「悦びに咲く花 (SILENT POETS REMIX/S.W.E DUB Ver.00)」
   - [SHAKKAZOMBIE](../Page/SHAKKAZOMBIE.md "wikilink") & [NORTHERN BRIGHT](../Page/NORTHERN_BRIGHT.md "wikilink")／「GET YOURSELF ARRESTED (Silent Poets Remix)」
-  - [Small Circle of Friends](https://ja.wikipedia.org/wiki/Small_Circle_of_Friends "wikilink")／「BOY'S WONDER (SILENT POETS "REALTIME PROCESSING" MIX)」
+  - [Small Circle of Friends](../Page/Small_Circle_of_Friends.md "wikilink")／「BOY'S WONDER (SILENT POETS "REALTIME PROCESSING" MIX)」
   - [平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink")／「Miracles (SILENT POETS remix)」
   - [Port of Notes](../Page/Port_of_Notes.md "wikilink")／「With This Affection (Silent Poets Remix)」
-  - [竹村延和](https://ja.wikipedia.org/wiki/竹村延和 "wikilink")／「Hazy Moon (Silent Poets Remix)」
+  - [竹村延和](../Page/竹村延和.md "wikilink")／「Hazy Moon (Silent Poets Remix)」
   - [TOWA TEI](https://ja.wikipedia.org/wiki/TOWA_TEI "wikilink")／「Son of Bambi (Silent Poets Remix)」
   - [Grandmaster Flash and the Furious Five](https://ja.wikipedia.org/wiki/:en:Grandmaster_Flash_and_the_Furious_Five "wikilink")／「The Message (Silent Poets Remix)」
   - [Coldcut](https://ja.wikipedia.org/wiki/:en:Coldcut "wikilink")／「Atomic Moog 2000 (Silent Poets Remix)」
@@ -165,7 +165,7 @@
 
 ## 関連項目
 
-  - [武蔵野美術大学の人物一覧](https://ja.wikipedia.org/wiki/武蔵野美術大学の人物一覧 "wikilink")
+  - [武蔵野美術大学の人物一覧](../Page/武蔵野美術大学の人物一覧.md "wikilink")
   - [LITTLE TEMPO](../Page/LITTLE_TEMPO.md "wikilink")
 
 [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:日本のミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のミュージシャン "wikilink") [Category:チルアウト](https://ja.wikipedia.org/wiki/Category:チルアウト "wikilink")

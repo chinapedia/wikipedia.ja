@@ -1,7 +1,7 @@
 > この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
 
 
-**GUNGRIFFON II（ガングリフォン　ツー）**は、[ゲームアーツ](../Page/ゲームアーツ.md "wikilink")が[セガサターン](../Page/セガサターン.md "wikilink")専用に[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月23日](../Page/4月23日.md "wikilink")に発売した、[3D](https://ja.wikipedia.org/wiki/3D "wikilink")[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")。価格は6800円（対戦ケーブル同梱版は8000円）。前作と共通する世界観と時間軸をもつが、マニュアル内にある年表を参照すると、ミッションはすべて前作と同時期にあたる。プレイヤーは前作とは別の[中隊](../Page/中隊.md "wikilink")の[パイロット](https://ja.wikipedia.org/wiki/パイロット "wikilink")という設定。
+**GUNGRIFFON II（ガングリフォン　ツー）**は、[ゲームアーツ](../Page/ゲームアーツ.md "wikilink")が[セガサターン](../Page/セガサターン.md "wikilink")専用に[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月23日](../Page/4月23日.md "wikilink")に発売した、[3D](../Page/3D.md "wikilink")[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")。価格は6800円（対戦ケーブル同梱版は8000円）。前作と共通する世界観と時間軸をもつが、マニュアル内にある年表を参照すると、ミッションはすべて前作と同時期にあたる。プレイヤーは前作とは別の[中隊](../Page/中隊.md "wikilink")の[パイロット](https://ja.wikipedia.org/wiki/パイロット "wikilink")という設定。
 
 ## 概要
 
@@ -51,12 +51,12 @@
 
 ## ガングリフォンシリーズ
 
-  - [ガングリフォン](https://ja.wikipedia.org/wiki/ガングリフォン "wikilink") (GUNGRRIFFON) セガサターン専用 [1996年](../Page/1996年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink") 発売
+  - [ガングリフォン](../Page/ガングリフォン.md "wikilink") (GUNGRRIFFON) セガサターン専用 [1996年](../Page/1996年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink") 発売
   - **ガングリフォンII** (GUNGRRIFFON II) セガサターン専用 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月23日](../Page/4月23日.md "wikilink") 発売
 
 <!-- end list -->
 
-  - [ガングリフォン ブレイズ](https://ja.wikipedia.org/wiki/ガングリフォン_ブレイズ "wikilink") (GUNGRRIFFON BLAZE) [PlayStation 2専用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink") [2000年](../Page/2000年.md "wikilink")[8月10日](../Page/8月10日.md "wikilink") 発売
+  - [ガングリフォン ブレイズ](../Page/ガングリフォン_ブレイズ.md "wikilink") (GUNGRRIFFON BLAZE) [PlayStation 2専用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink") [2000年](../Page/2000年.md "wikilink")[8月10日](../Page/8月10日.md "wikilink") 発売
   - [ガングリフォン アライド ストライク](https://ja.wikipedia.org/wiki/ガングリフォン_アライド_ストライク "wikilink") (GUNGRIFFON Allied Strike) [Xbox専用](../Page/Xbox_\(ゲーム機\).md "wikilink") [2004年](../Page/2004年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink") 発売
 
 [Category:セガサターン用ソフト](https://ja.wikipedia.org/wiki/Category:セガサターン用ソフト "wikilink") [Category:ゲームアーツのゲームソフト](https://ja.wikipedia.org/wiki/Category:ゲームアーツのゲームソフト "wikilink")

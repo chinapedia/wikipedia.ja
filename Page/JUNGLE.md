@@ -1,7 +1,7 @@
 > この記事は[JUNGLE](https://ja.wikipedia.org/wiki/JUNGLE)から翻訳されています。
 
 
-**JUNGLE**（ジャングル）は、[フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")の深夜枠『[JOCX-TV2](https://ja.wikipedia.org/wiki/JOCX-TV2 "wikilink")』で[1992年](../Page/1992年.md "wikilink")10月 - [1993年](../Page/1993年.md "wikilink")9月頃に放送されたシリーズ枠および番組冒頭の[アイキャッチ](https://ja.wikipedia.org/wiki/アイキャッチ "wikilink")である。
+**JUNGLE**（ジャングル）は、[フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")の深夜枠『[JOCX-TV2](../Page/JOCX-TV2.md "wikilink")』で[1992年](../Page/1992年.md "wikilink")10月 - [1993年](../Page/1993年.md "wikilink")9月頃に放送されたシリーズ枠および番組冒頭の[アイキャッチ](https://ja.wikipedia.org/wiki/アイキャッチ "wikilink")である。
 
 ## 概要
 
@@ -24,7 +24,7 @@
 
 バージョンは曜日毎に使い分けられており、日・月・水・金が人形、火・木・土がハートである。ただし日曜日は当時他の局と比べ相当遅い時間まで放送していた[フジテレビでさえ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、[F1の放送がある日を除く日曜のみ早くて](../Page/フォーミュラ1.md "wikilink")24時には放送を終了させることも多く、このアイキャッチが出てきた直後に放送終了のアナウンスが流れたこともあった。
 
-このスポットにおける『[JOCX-TV2](https://ja.wikipedia.org/wiki/JOCX-TV2 "wikilink")』先頭の番組には必ず30秒のバージョンが使われ、後に続く番組は基本的にはランダムで流れていたが、15秒のバージョンが使われる事が多かった。またナイター中継で時間が繰り下がった時の番組案内はこのアイキャッチ上に音声無し（稀に男性[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")が一緒にアナウンスする事もある）、表示のみで示される。
+このスポットにおける『[JOCX-TV2](../Page/JOCX-TV2.md "wikilink")』先頭の番組には必ず30秒のバージョンが使われ、後に続く番組は基本的にはランダムで流れていたが、15秒のバージョンが使われる事が多かった。またナイター中継で時間が繰り下がった時の番組案内はこのアイキャッチ上に音声無し（稀に男性[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")が一緒にアナウンスする事もある）、表示のみで示される。
 
   - 『[COOL TV](https://ja.wikipedia.org/wiki/COOL_TV "wikilink")』の先駆けである。
 
@@ -34,7 +34,7 @@
 
 ## 関連項目
 
-  - [日枝久](https://ja.wikipedia.org/wiki/日枝久 "wikilink") - JUNGLEを放送していた頃のフジテレビ社長
+  - [日枝久](../Page/日枝久.md "wikilink") - JUNGLEを放送していた頃のフジテレビ社長
   - [小川晋一](../Page/小川晋一.md "wikilink") - JUNGLEを放送していた頃の編成制作局編成部長
   - [ウィルソン・ブライアン・キイ](https://ja.wikipedia.org/wiki/ウィルソン・ブライアン・キイ "wikilink") - 都市伝説解析の参考文献とされたサブリミナル広告解析書「メディア・セックス」（1989）の著者
   - [サブリミナル効果](https://ja.wikipedia.org/wiki/サブリミナル効果 "wikilink")

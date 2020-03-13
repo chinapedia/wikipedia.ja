@@ -17,7 +17,7 @@
 
 2005年1月、15歳の時にフランスで行われた音楽イベント「MIDEM2005」でイギリスのレーベル・hiptonesに見出され、UKでキャリアをスタートさせる\[13\]\[14\]\[15\]。1stシングル「Heartbreaker」は[iTunes Music Storeで日](https://ja.wikipedia.org/wiki/iTunes_Music_Store "wikilink")・英・米同時配信が行なわれ、日本ではR\&Bチャート、総合チャート共にトップ10入りを果たした\[16\]。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")2月、1stマキシ・シングル「SATOMI' Yesterday/Satomi Love to stay」でインディーズレーベルの[青空レコード](../Page/青空レコード.md "wikilink")より日本国内でもデビューを果たす\[17\]\[18\]。
+[2006年](../Page/2006年.md "wikilink")2月、1stマキシ・シングル「SATOMI' Yesterday/Satomi Love to stay」でインディーズレーベルの[青空レコード](../Page/青空レコード.md "wikilink")より日本国内でもデビューを果たす\[17\]\[18\]。
 
 2007年2月、1stアルバム「Diamondlily」をリリース。
 
@@ -74,7 +74,7 @@
 <td style="text-align: center;"><p>2007年07月11日</p></td>
 <td style="text-align: center;"><p>Baby Doll</p></td>
 <td style="text-align: center;"><p>ZZCD-30104</p></td>
-<td style="text-align: center;"><p>最高位62位。<a href="https://ja.wikipedia.org/wiki/COUNT_DOWN_TV" title="wikilink">COUNT DOWN TV</a> オープニングテーマ</p></td>
+<td style="text-align: center;"><p>最高位62位。<a href="../Page/COUNT_DOWN_TV.md" title="wikilink">COUNT DOWN TV</a> オープニングテーマ</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>2008年03月05日</p></td>

@@ -8,7 +8,7 @@
 ### 一般名詞
 
   - [セキュリティポリス](../Page/セキュリティポリス.md "wikilink") (**S**ecurity **P**olice)。要人警護を担当する[警視庁](../Page/警視庁.md "wikilink")の警察官。
-  - スペシャル (**SP**ecial)。特別・特殊。[特別番組](https://ja.wikipedia.org/wiki/特別番組 "wikilink")など。
+  - スペシャル (**SP**ecial)。特別・特殊。[特別番組](../Page/特別番組.md "wikilink")など。
   - [セールスプロモーション](https://ja.wikipedia.org/wiki/セールスプロモーション "wikilink") (**S**ales **P**romotion)。[マスコミ以外の媒体による](../Page/マスメディア.md "wikilink")[広告](../Page/広告.md "wikilink")を「**SP広告**」と呼ぶ。
   - [スピーカー](../Page/スピーカー.md "wikilink") (**SP**eaker)
   - [スポットライト](https://ja.wikipedia.org/wiki/スポットライト "wikilink") (**SP**ot light)
@@ -27,24 +27,24 @@
   - [スタックポインタ](https://ja.wikipedia.org/wiki/スタックポインタ "wikilink") (**S**tack **P**ointer)。コンピュータのCPUのレジスタの一つ。[レジスタ (コンピュータ)を参照](../Page/レジスタ_\(コンピュータ\).md "wikilink")。
   - [システムプランニング](https://ja.wikipedia.org/wiki/システムプランニング "wikilink") (**S**ystem **P**lanning)。[コンピュータソフトウエア製造工程の一工程](../Page/ソフトウェア開発工程.md "wikilink")。
   - [シーケンスペア](https://ja.wikipedia.org/wiki/Sequence-pair "wikilink") (**S**equence-**P**air)。矩形配置の表現方法。
-  - [スキルポイント](../Page/マジックポイント.md "wikilink") (**S**kill **P**oint)。[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")のパラメータの一つ。[首都高バトルシリーズ](https://ja.wikipedia.org/wiki/首都高バトルシリーズ "wikilink")など。
+  - [スキルポイント](../Page/マジックポイント.md "wikilink") (**S**kill **P**oint)。[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")のパラメータの一つ。[首都高バトルシリーズ](../Page/首都高バトルシリーズ.md "wikilink")など。
 
 #### スポーツ用語
 
   - [ショートプログラム](../Page/ショートプログラム.md "wikilink") (**S**hort **P**rogram)。フィギュアスケートの種目。
   - [セーブポイント](../Page/セーブポイント.md "wikilink") (**S**ave **P**oint)。[野球](../Page/野球.md "wikilink")の投手記録の一つ。
-  - [長打率](https://ja.wikipedia.org/wiki/長打率 "wikilink")・強打率 (**S**lugging **P**ercentage)
+  - [長打率](../Page/長打率.md "wikilink")・強打率 (**S**lugging **P**ercentage)
   - [砲丸投](../Page/砲丸投.md "wikilink") (**S**hot **P**ut)
 
 ### 固有名詞
 
-  - [スマッシング・パンプキンズ](https://ja.wikipedia.org/wiki/スマッシング・パンプキンズ "wikilink") (The Smashing Pumpkins)。アメリカのロックバンド。
+  - [スマッシング・パンプキンズ](../Page/スマッシング・パンプキンズ.md "wikilink") (The Smashing Pumpkins)。アメリカのロックバンド。
 
 #### 作品名
 
   - 以下はいずれもセキュリティポリスを題材とする。
-      - [SP セキュリティポリス](https://ja.wikipedia.org/wiki/SP_セキュリティポリス "wikilink") - [国友やすゆき](https://ja.wikipedia.org/wiki/国友やすゆき "wikilink")作の漫画。
-      - [SP 警視庁警備部警護課第四係](https://ja.wikipedia.org/wiki/SP_警視庁警備部警護課第四係 "wikilink") - [フジテレビの連続テレビドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")。[岡田准一](https://ja.wikipedia.org/wiki/岡田准一 "wikilink")主演。
+      - [SP セキュリティポリス](https://ja.wikipedia.org/wiki/SP_セキュリティポリス "wikilink") - [国友やすゆき](../Page/国友やすゆき.md "wikilink")作の漫画。
+      - [SP 警視庁警備部警護課第四係](https://ja.wikipedia.org/wiki/SP_警視庁警備部警護課第四係 "wikilink") - [フジテレビの連続テレビドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")。[岡田准一](../Page/岡田准一.md "wikilink")主演。
       - [SP THE MOTION PICTURE](https://ja.wikipedia.org/wiki/SP_THE_MOTION_PICTURE "wikilink") - 上記テレビドラマの続編にあたる映画。
       - [SP〜警視庁警護課](https://ja.wikipedia.org/wiki/SP〜警視庁警護課 "wikilink") - [テレビ朝日](../Page/テレビ朝日.md "wikilink")の単発テレビドラマシリーズ。[渡瀬恒彦](../Page/渡瀬恒彦.md "wikilink")主演。
       - [SP 八剱貴志](https://ja.wikipedia.org/wiki/SP_八剱貴志 "wikilink") - [TBSテレビ](../Page/TBSテレビ.md "wikilink")の単発テレビドラマ。[舘ひろし](../Page/舘ひろし.md "wikilink")主演。
@@ -56,12 +56,12 @@
   - [ゲームボーイアドバンスSP](../Page/ゲームボーイアドバンスSP.md "wikilink")。[任天堂](../Page/任天堂.md "wikilink")が発売している小型ゲーム機。
   - ペンタックスSP。[ペンタックス](../Page/ペンタックス.md "wikilink")の[一眼レフカメラ](../Page/一眼レフカメラ.md "wikilink")。
   - ニコンSP。[ニコン](../Page/ニコン.md "wikilink")の[レンジファインダーカメラ](../Page/レンジファインダーカメラ.md "wikilink")。
-  - SPシリーズ。[ローランド](../Page/ローランド.md "wikilink")（SP-303までは[Boss名義](https://ja.wikipedia.org/wiki/ボス_\(企業\) "wikilink")）が発売している[サンプラー](../Page/サンプラー.md "wikilink")。
+  - SPシリーズ。[ローランド](../Page/ローランド.md "wikilink")（SP-303までは[Boss名義](../Page/ボス_\(企業\).md "wikilink")）が発売している[サンプラー](../Page/サンプラー.md "wikilink")。
   - [ボーイング747-SP](https://ja.wikipedia.org/wiki/ボーイング747-SP "wikilink")。[ボーイング](../Page/ボーイング.md "wikilink")が製造した[ボーイング747](https://ja.wikipedia.org/wiki/ボーイング747 "wikilink")の胴体短縮型。
 
 #### 企業など
 
-  - [ソニープラザ](https://ja.wikipedia.org/wiki/プラザ_\(雑貨店\) "wikilink") (Sony Plaza)
+  - [ソニープラザ](../Page/プラザ_\(雑貨店\).md "wikilink") (Sony Plaza)
   - [シャルラクプラス](../Page/シャルラクプラス.md "wikilink") (ShallLuck Plus)
   - [Synergy SP](https://ja.wikipedia.org/wiki/シナジーSP "wikilink")。日本のアニメ制作会社。SPとは親会社[小学館プロダクション](https://ja.wikipedia.org/wiki/小学館プロダクション "wikilink") (SHO-PRO)。
   - [NHK佐賀放送局](../Page/NHK佐賀放送局.md "wikilink") (JOSP)

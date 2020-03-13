@@ -1,15 +1,15 @@
 > この記事は[CREATIVE OFFICE CUE](https://ja.wikipedia.org/wiki/CREATIVE_OFFICE_CUE)から翻訳されています。
 
 
-**CREATIVE OFFICE CUE**（株式会社クリエイティブオフィスキュー、）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")に本拠を置く芸能事務所。北海道内で活動する[ローカルタレント](https://ja.wikipedia.org/wiki/ローカルタレント "wikilink")が所属しているが、その中には全国進出を果たした人物もいる。
+**CREATIVE OFFICE CUE**（株式会社クリエイティブオフィスキュー、）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")に本拠を置く芸能事務所。北海道内で活動する[ローカルタレント](../Page/ローカルタレント.md "wikilink")が所属しているが、その中には全国進出を果たした人物もいる。
 
 ## 会社概要
 
-現在は[鈴井貴之](https://ja.wikipedia.org/wiki/鈴井貴之 "wikilink")の元妻である[伊藤亜由美](https://ja.wikipedia.org/wiki/伊藤亜由美 "wikilink")が代表取締役社長を、初代社長だった鈴井が取締役会長を務めている。社名の「CUE」（キュー）には、「北海道の[エンターテインメント](../Page/エンターテインメント.md "wikilink")界に**キュー**を出す」という意味が込められている。
+現在は[鈴井貴之](../Page/鈴井貴之.md "wikilink")の元妻である[伊藤亜由美](../Page/伊藤亜由美.md "wikilink")が代表取締役社長を、初代社長だった鈴井が取締役会長を務めている。社名の「CUE」（キュー）には、「北海道の[エンターテインメント](../Page/エンターテインメント.md "wikilink")界に**キュー**を出す」という意味が込められている。
 
 当初は鈴井夫妻が主宰していた劇団[OOPARTSの個人事務所として設立されたが](../Page/OOPARTS_\(劇団\).md "wikilink")、1997年に鈴井以外のタレントも擁する形で新たに芸能事務所として設立された。
 
-[大泉洋](../Page/大泉洋.md "wikilink")や[安田顕](https://ja.wikipedia.org/wiki/安田顕 "wikilink")など、芸人顔負けのキャラクター性を持つタレントが所属している事務所なので、大泉は「お笑い事務所」と評しており、会長の鈴井貴之もその旨を認めている\[1\]。実際に俳優だけではなく、お笑い芸人のオクラホマも所属している。大泉は鈴井元夫妻について「タレントという文化が根付かなかった北海道でやってこれたのは社長と副社長のおかげで、尊敬しているし、感謝している」と評している。
+[大泉洋](../Page/大泉洋.md "wikilink")や[安田顕](../Page/安田顕.md "wikilink")など、芸人顔負けのキャラクター性を持つタレントが所属している事務所なので、大泉は「お笑い事務所」と評しており、会長の鈴井貴之もその旨を認めている\[1\]。実際に俳優だけではなく、お笑い芸人のオクラホマも所属している。大泉は鈴井元夫妻について「タレントという文化が根付かなかった北海道でやってこれたのは社長と副社長のおかげで、尊敬しているし、感謝している」と評している。
 
 ## 沿革
 
@@ -28,18 +28,18 @@
 
 ### 俳優・タレント
 
-  - [鈴井貴之](https://ja.wikipedia.org/wiki/鈴井貴之 "wikilink")（1992年創設）
-  - [TEAM NACS](https://ja.wikipedia.org/wiki/TEAM_NACS "wikilink")（1996年結成。業務提携：[アミューズ](https://ja.wikipedia.org/wiki/アミューズ "wikilink")）
+  - [鈴井貴之](../Page/鈴井貴之.md "wikilink")（1992年創設）
+  - [TEAM NACS](../Page/TEAM_NACS.md "wikilink")（1996年結成。業務提携：[アミューズ](https://ja.wikipedia.org/wiki/アミューズ "wikilink")）
       - [大泉洋](../Page/大泉洋.md "wikilink")（1995年契約）
-      - [安田顕](https://ja.wikipedia.org/wiki/安田顕 "wikilink")（1993年契約）
-      - [森崎博之](https://ja.wikipedia.org/wiki/森崎博之 "wikilink")（1999年契約）
-      - [戸次重幸](https://ja.wikipedia.org/wiki/戸次重幸 "wikilink")（2000年契約。旧芸名：佐藤重幸）
-      - [音尾琢真](https://ja.wikipedia.org/wiki/音尾琢真 "wikilink")（2000年契約）
-  - [小橋亜樹](https://ja.wikipedia.org/wiki/小橋亜樹 "wikilink")（1999年契約）
+      - [安田顕](../Page/安田顕.md "wikilink")（1993年契約）
+      - [森崎博之](../Page/森崎博之.md "wikilink")（1999年契約）
+      - [戸次重幸](../Page/戸次重幸.md "wikilink")（2000年契約。旧芸名：佐藤重幸）
+      - [音尾琢真](../Page/音尾琢真.md "wikilink")（2000年契約）
+  - [小橋亜樹](../Page/小橋亜樹.md "wikilink")（1999年契約）
   - [北川久仁子](../Page/北川久仁子.md "wikilink")（2005年契約）
-  - [オクラホマ](https://ja.wikipedia.org/wiki/オクラホマ_\(お笑い\) "wikilink")（1999年見習いとして契約、2000年解雇、2001年再契約）
-      - [河野真也](https://ja.wikipedia.org/wiki/河野真也 "wikilink")
-      - [藤尾仁志](https://ja.wikipedia.org/wiki/藤尾仁志 "wikilink")
+  - [オクラホマ](../Page/オクラホマ_\(お笑い\).md "wikilink")（1999年見習いとして契約、2000年解雇、2001年再契約）
+      - [河野真也](../Page/河野真也.md "wikilink")
+      - [藤尾仁志](../Page/藤尾仁志.md "wikilink")
   - NEXTAGE（2012年結成）
       - 田中温子
       - 佐藤亮太
@@ -61,7 +61,7 @@
 
 ### スペシャリスト
 
-  - [安田史生](../Page/安田史生.md "wikilink")（2014年契約。作曲家。[安田顕](https://ja.wikipedia.org/wiki/安田顕 "wikilink")の実兄）
+  - [安田史生](../Page/安田史生.md "wikilink")（2014年契約。作曲家。[安田顕](../Page/安田顕.md "wikilink")の実兄）
   - 塚田宏幸（brasserie coron with LE CREUSETメインシェフ）
 
 ### 過去の在籍者
@@ -107,10 +107,10 @@
 
 ##### 演劇ユニット
 
-  - [TEAM NACS](https://ja.wikipedia.org/wiki/TEAM_NACS "wikilink")（森崎・安田・戸次・大泉・音尾）
+  - [TEAM NACS](../Page/TEAM_NACS.md "wikilink")（森崎・安田・戸次・大泉・音尾）
   - [モリプロ](https://ja.wikipedia.org/wiki/モリプロ "wikilink")（森崎主宰）
-  - [ロックメン](https://ja.wikipedia.org/wiki/ロックメン "wikilink")（戸次主宰）
-  - [水曜天幕團](https://ja.wikipedia.org/wiki/水曜天幕團 "wikilink")（『[水曜どうでしょう](../Page/水曜どうでしょう.md "wikilink")』との共同企画）
+  - [ロックメン](../Page/ロックメン.md "wikilink")（戸次主宰）
+  - [水曜天幕團](../Page/水曜天幕團.md "wikilink")（『[水曜どうでしょう](../Page/水曜どうでしょう.md "wikilink")』との共同企画）
 
 ## 飲食店経営
 

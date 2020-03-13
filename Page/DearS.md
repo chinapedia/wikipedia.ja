@@ -1,11 +1,11 @@
 > この記事は[DearS](https://ja.wikipedia.org/wiki/DearS)から翻訳されています。
 
 
-『**DearS**』（ディアーズ）は、[PEACH-PIT](https://ja.wikipedia.org/wiki/PEACH-PIT "wikilink")による[電撃コミックガオ\!に連載された](https://ja.wikipedia.org/wiki/月刊電撃コミックガオ! "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品、およびそれを原作とする[アニメ](../Page/アニメ.md "wikilink")作品と[PlayStation 2用ゲーム作品](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。
+『**DearS**』（ディアーズ）は、[PEACH-PIT](../Page/PEACH-PIT.md "wikilink")による[電撃コミックガオ\!に連載された](../Page/月刊電撃コミックガオ!.md "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品、およびそれを原作とする[アニメ](../Page/アニメ.md "wikilink")作品と[PlayStation 2用ゲーム作品](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。
 
 ## 概要
 
-原作はPEACH-PITにとって初の長期連載作品で全8巻。ジャンルとしては典型的な[エブリデイ・マジック](https://ja.wikipedia.org/wiki/エブリデイ・マジック "wikilink")・[ラブコメディ](../Page/ラブコメディ.md "wikilink")。
+原作はPEACH-PITにとって初の長期連載作品で全8巻。ジャンルとしては典型的な[エブリデイ・マジック](../Page/エブリデイ・マジック.md "wikilink")・[ラブコメディ](../Page/ラブコメディ.md "wikilink")。
 
 ## ストーリー
 
@@ -22,7 +22,7 @@
 
 ## 登場人物
 
-  - 幾原武哉（いくはら たけや）: 声 - [谷山紀章](https://ja.wikipedia.org/wiki/谷山紀章 "wikilink")
+  - 幾原武哉（いくはら たけや）: 声 - [谷山紀章](../Page/谷山紀章.md "wikilink")
     主人公。神奈川県立小春高等学校2年生。射手座（アニメ版では牡羊座）。
     レンに小春日公園で声をかけ、ついて来た彼女が車にひかれそうになったところを助ける。その後、“**ギフト**”によりレンの「**ご主人様**」に選ばれ “**認承の儀**”を行った。
     父親への反抗心からか、宇宙に関わるものにあまり良いイメージを持っておらず、それ故にDearSのことも嫌っている。
@@ -31,7 +31,7 @@
   - レンレンレンナグサランレンシーア・ルルンンレン・ナコラ: 声 - [清水愛](../Page/清水愛.md "wikilink")
     通称：レン / 認識番号：000-3901 / 所属コミュニティ：ルルンンレン / 出身：ナコラ / 階級：シープ種 / 役職：「**門（ゲート）**」
     もう1人の主人公。
-    好物は[メロンパン](https://ja.wikipedia.org/wiki/メロンパン "wikilink")で、「レンをほめるか?」が口癖。巨乳。料理上手らしいが、（当初は）地球人の味覚に合わなかった。
+    好物は[メロンパン](../Page/メロンパン.md "wikilink")で、「レンをほめるか?」が口癖。巨乳。料理上手らしいが、（当初は）地球人の味覚に合わなかった。
     “**ゼロナンバーズ**”として繭玉（カプセル）に永久凍結させられていたが、カプセルを輸送中のトラックが事故にあい、永久凍結から目覚めた。その後、小春日公園で声をかけてきた武哉を“**ギフト**”により「**ご主人様**」に選び“**認承の儀**”を行い、武哉の「**奴隷**」となった。その後は、武哉の部屋に居候していたのだが、DearS留学生にまちがわれ、そのまま小春高校に通う。カプセルを思い出させるのか、狭い場所で寝ることを好み、武哉の部屋の押し入れを占拠する。
     “**ゼロナンバーズ**”と呼ばれているが実際は「**門（ゲート）**」と呼ばれる特別なDearSで、フィナによって“**ゼロナンバーズ**”として眠っていた。
   - シーアノスタルレンナグレグユグ・タナスト・ァウセーム・ルキ・ミゥ
@@ -59,7 +59,7 @@
 
   - 幾原菜月（いくはら なつき）: 声 - [新谷良子](../Page/新谷良子.md "wikilink")
     武哉の義妹。晴海と共に海外で暮らすが、帰国後はキィの友人となる。レンに対しては兄を取られることへの嫌悪感から当初は突き放した態度を取っていた。母親譲りの格闘技を繰り出している。
-  - 幾原晴海（いくはら はるみ）: 声 - [鈴木麻里子](https://ja.wikipedia.org/wiki/鈴木麻里子 "wikilink")
+  - 幾原晴海（いくはら はるみ）: 声 - [鈴木麻里子](../Page/鈴木麻里子.md "wikilink")
     武哉の義母であり、彼にとって憧れの人。仕事関係で娘を連れて、海外に赴任中。菜月の暴走に対する鉄拳制裁もしばしば。必殺技は「晴海ドライバー」。
   - 幾原武造（いくはら たけぞう）
     武哉の父親であり、宇宙科学センターの主任。通称ハカセたち。人類を破滅させる可能性があると推測された（実際にはイオが人類を破滅させる力を持っていた）DearSの「**門（ゲート）**」であるレンを地球外へ追放しようとした。
@@ -169,7 +169,7 @@ DearSのコミュニティにおける仕事の役名。階級によってなれ
 
 ## アニメ
 
-[UHFアニメ](../Page/UHFアニメ.md "wikilink")として[2004年](../Page/2004年.md "wikilink")[7月10日](../Page/7月10日.md "wikilink") - [9月25日](../Page/9月25日.md "wikilink")（日付は[tvkの場合](../Page/テレビ神奈川.md "wikilink")）に放送。放送12話+テレビ未放送1話（DVDにのみ収録）の全13話。なお、第1回放送の1週前には特別番組「DearS前夜祭〜はじめてなんです〜」を放送した。DVD版第一巻には先述の特別番組が収録されているほか、初回限定版にはイベントや声優陣インタビュー等を収録した特典ディスクも付いている。放送開始前に発行された[電撃コミックガオ\!の付録DVDに](https://ja.wikipedia.org/wiki/月刊電撃コミックガオ! "wikilink")「DearS」PS2版ゲームの紹介やアフレコ風景等が収録されている。エンディングテーマは出演声優によるユニット「[PoppinS](https://ja.wikipedia.org/wiki/#PoppinS "wikilink")」が担当している。
+[UHFアニメ](../Page/UHFアニメ.md "wikilink")として[2004年](../Page/2004年.md "wikilink")[7月10日](../Page/7月10日.md "wikilink") - [9月25日](../Page/9月25日.md "wikilink")（日付は[tvkの場合](../Page/テレビ神奈川.md "wikilink")）に放送。放送12話+テレビ未放送1話（DVDにのみ収録）の全13話。なお、第1回放送の1週前には特別番組「DearS前夜祭〜はじめてなんです〜」を放送した。DVD版第一巻には先述の特別番組が収録されているほか、初回限定版にはイベントや声優陣インタビュー等を収録した特典ディスクも付いている。放送開始前に発行された[電撃コミックガオ\!の付録DVDに](../Page/月刊電撃コミックガオ!.md "wikilink")「DearS」PS2版ゲームの紹介やアフレコ風景等が収録されている。エンディングテーマは出演声優によるユニット「[PoppinS](https://ja.wikipedia.org/wiki/#PoppinS "wikilink")」が担当している。
 
 ### 原作との違い
 
@@ -177,9 +177,9 @@ DVD版のみの回を含めて全13回の短期シリーズのため、全体的
 
 ### スタッフ
 
-  - 原作 - [PEACH-PIT](https://ja.wikipedia.org/wiki/PEACH-PIT "wikilink")『DearS』（メディアワークス「月刊電撃コミックガオ\!」連載）
+  - 原作 - [PEACH-PIT](../Page/PEACH-PIT.md "wikilink")『DearS』（メディアワークス「月刊電撃コミックガオ\!」連載）
   - 監督 - [鈴木行](../Page/鈴木行.md "wikilink")
-  - シリーズ構成 - [吉岡たかを](https://ja.wikipedia.org/wiki/吉岡たかを "wikilink")
+  - シリーズ構成 - [吉岡たかを](../Page/吉岡たかを.md "wikilink")
   - キャラクターデザイン - 越智信次
   - メカデザイン - 渡辺義弘
   - 美術監督 - 鈴木俊輔
@@ -189,9 +189,9 @@ DVD版のみの回を含めて全13回の短期シリーズのため、全体的
   - 音響監督 - [菊田浩巳](../Page/菊田浩巳.md "wikilink")
   - 音楽 - [長谷川智樹](../Page/長谷川智樹.md "wikilink")
   - プロデューサー - 大澤信博、国崎久徳、波多野貴康
-  - プロデュース - [GENCO](https://ja.wikipedia.org/wiki/ジェンコ "wikilink")
-  - アニメーション制作 - [童夢](https://ja.wikipedia.org/wiki/童夢_\(アニメ制作会社\) "wikilink")
-  - 製作 - TeaM DearS（[バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")、[メディアワークス](../Page/メディアワークス.md "wikilink")、[ランティス](https://ja.wikipedia.org/wiki/ランティス "wikilink")、ジェンコ）
+  - プロデュース - [GENCO](../Page/ジェンコ.md "wikilink")
+  - アニメーション制作 - [童夢](../Page/童夢_\(アニメ制作会社\).md "wikilink")
+  - 製作 - TeaM DearS（[バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")、[メディアワークス](../Page/メディアワークス.md "wikilink")、[ランティス](../Page/ランティス.md "wikilink")、ジェンコ）
 
 ### 主題歌
 
@@ -217,7 +217,7 @@ DVD版のみの回を含めて全13回の短期シリーズのため、全体的
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>甘噛みたいの</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/吉岡たかを" title="wikilink">吉岡たかを</a></p></td>
+<td><p><a href="../Page/吉岡たかを.md" title="wikilink">吉岡たかを</a></p></td>
 <td><p><a href="../Page/鈴木行.md" title="wikilink">鈴木行</a></p></td>
 <td><p>江島泰男</p></td>
 <td><p>清丸悟</p></td>
@@ -336,18 +336,18 @@ DVD版のみの回を含めて全13回の短期シリーズのため、全体的
 
 初回は特別番組『DearS 前夜祭 ～はじめてなんです～』を放送。
 
-| 放送地域                                                  | 放送局                                                       | 放送期間                                                                                                          | 放送日時                                                                        | 放送区分                                                             | 備考       |
-| ----------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------------- | -------- |
-| [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink") | [tvk](../Page/テレビ神奈川.md "wikilink")                       | [2004年](../Page/2004年.md "wikilink")[7月3日](../Page/7月3日.md "wikilink") - [9月25日](../Page/9月25日.md "wikilink") | 土曜 24:30 - 25:00                                                            | [独立UHF局](../Page/全国独立放送協議会.md "wikilink")                        |          |
-| [千葉県](../Page/千葉県.md "wikilink")                      | [ちばテレビ](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink") | 2004年[7月4日](../Page/7月4日.md "wikilink") - [9月26日](../Page/9月26日.md "wikilink")                                | 日曜 23:30 - 24:00                                                            |                                                                  |          |
-| [埼玉県](../Page/埼玉県.md "wikilink")                      | [テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")     | 日曜 24:35 - 25:05                                                                                              |                                                                             |                                                                  |          |
-| [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")   | [テレビ愛知](../Page/テレビ愛知.md "wikilink")                      | 2004年[7月5日](../Page/7月5日.md "wikilink") - [9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")             | 月曜 25:58 - 26:28                                                            | [テレビ東京系列](https://ja.wikipedia.org/wiki/TXN "wikilink")          |          |
-| [広島県](../Page/広島県.md "wikilink")                      | [広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")                | 月曜 26:16 - 26:46                                                                                              | [テレビ朝日系列](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink") |                                                                  |          |
-| [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")   | [テレビ北海道](../Page/テレビ北海道.md "wikilink")                    | 月曜 26:30 - 27:00                                                                                              | テレビ東京系列                                                                     |                                                                  |          |
-| [兵庫県](../Page/兵庫県.md "wikilink")                      | [サンテレビ](../Page/サンテレビジョン.md "wikilink")                   | 2004年[7月6日](../Page/7月6日.md "wikilink") - [9月28日](../Page/9月28日.md "wikilink")                                | 火曜 24:00 - 24:30                                                            | 独立UHF局                                                           |          |
-| [東京都](../Page/東京都.md "wikilink")                      | [東京MXテレビ](../Page/東京メトロポリタンテレビジョン.md "wikilink")          | 火曜 25:00 - 25:30                                                                                              |                                                                             |                                                                  |          |
-| [福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")   | [TVQ九州放送](../Page/TVQ九州放送.md "wikilink")                  | 火曜 26:55 - 27:25                                                                                              | テレビ東京系列                                                                     |                                                                  |          |
-| [日本全域](../Page/全国放送.md "wikilink")                    | [AT-X](../Page/アニメシアターX.md "wikilink")                    |                                                                                                               |                                                                             | [CS放送](https://ja.wikipedia.org/wiki/日本における衛星放送#CS放送 "wikilink") | リピート放送あり |
+| 放送地域                                                  | 放送局                                                   | 放送期間                                                                                                          | 放送日時                                                                        | 放送区分                                                             | 備考       |
+| ----------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------------- | -------- |
+| [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink") | [tvk](../Page/テレビ神奈川.md "wikilink")                   | [2004年](../Page/2004年.md "wikilink")[7月3日](../Page/7月3日.md "wikilink") - [9月25日](../Page/9月25日.md "wikilink") | 土曜 24:30 - 25:00                                                            | [独立UHF局](../Page/全国独立放送協議会.md "wikilink")                        |          |
+| [千葉県](../Page/千葉県.md "wikilink")                      | [ちばテレビ](../Page/千葉テレビ放送.md "wikilink")                | 2004年[7月4日](../Page/7月4日.md "wikilink") - [9月26日](../Page/9月26日.md "wikilink")                                | 日曜 23:30 - 24:00                                                            |                                                                  |          |
+| [埼玉県](../Page/埼玉県.md "wikilink")                      | [テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink") | 日曜 24:35 - 25:05                                                                                              |                                                                             |                                                                  |          |
+| [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")   | [テレビ愛知](../Page/テレビ愛知.md "wikilink")                  | 2004年[7月5日](../Page/7月5日.md "wikilink") - [9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")             | 月曜 25:58 - 26:28                                                            | [テレビ東京系列](https://ja.wikipedia.org/wiki/TXN "wikilink")          |          |
+| [広島県](../Page/広島県.md "wikilink")                      | [広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")            | 月曜 26:16 - 26:46                                                                                              | [テレビ朝日系列](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink") |                                                                  |          |
+| [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")   | [テレビ北海道](../Page/テレビ北海道.md "wikilink")                | 月曜 26:30 - 27:00                                                                                              | テレビ東京系列                                                                     |                                                                  |          |
+| [兵庫県](../Page/兵庫県.md "wikilink")                      | [サンテレビ](../Page/サンテレビジョン.md "wikilink")               | 2004年[7月6日](../Page/7月6日.md "wikilink") - [9月28日](../Page/9月28日.md "wikilink")                                | 火曜 24:00 - 24:30                                                            | 独立UHF局                                                           |          |
+| [東京都](../Page/東京都.md "wikilink")                      | [東京MXテレビ](../Page/東京メトロポリタンテレビジョン.md "wikilink")      | 火曜 25:00 - 25:30                                                                                              |                                                                             |                                                                  |          |
+| [福岡県](../Page/福岡県.md "wikilink")                      | [TVQ九州放送](../Page/TVQ九州放送.md "wikilink")              | 火曜 26:55 - 27:25                                                                                              | テレビ東京系列                                                                     |                                                                  |          |
+| [日本全域](../Page/全国放送.md "wikilink")                    | [AT-X](../Page/アニメシアターX.md "wikilink")                |                                                                                                               |                                                                             | [CS放送](https://ja.wikipedia.org/wiki/日本における衛星放送#CS放送 "wikilink") | リピート放送あり |
 
 ### PoppinS
 
@@ -361,7 +361,7 @@ DVD版のみの回を含めて全13回の短期シリーズのため、全体的
 
   - シングル
       - 恋のJET SHOOTER/SukiSuki☆Moon（[2004年](../Page/2004年.md "wikilink")[5月26日](../Page/5月26日.md "wikilink")、LACM-4131）
-          - ラジオ大阪系「DearS×DearS」[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")
+          - ラジオ大阪系「DearS×DearS」[主題歌](../Page/主題歌.md "wikilink")
           - [PS2用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『DearS』主題歌
       - HAPPY COSMOS/地球にぴんぽ〜ん（2004年[8月25日](../Page/8月25日.md "wikilink")、LACM-4148、DVD付）
           - テレビアニメ版エンディングテーマ
@@ -391,9 +391,9 @@ DVD版のみの回を含めて全13回の短期シリーズのため、全体的
 ## ラジオ番組
 
   - 『DearS×DearS』（ディアーズ・ディアーズ）
-    [パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[清水愛](../Page/清水愛.md "wikilink")（レン役）、[中原麻衣](https://ja.wikipedia.org/wiki/中原麻衣 "wikilink")（ミゥ役）、[谷山紀章](https://ja.wikipedia.org/wiki/谷山紀章 "wikilink")（武哉役）。
+    [パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[清水愛](../Page/清水愛.md "wikilink")（レン役）、[中原麻衣](https://ja.wikipedia.org/wiki/中原麻衣 "wikilink")（ミゥ役）、[谷山紀章](../Page/谷山紀章.md "wikilink")（武哉役）。
     [ラジオ大阪](../Page/大阪放送.md "wikilink")、[TBSラジオ](../Page/TBSラジオ.md "wikilink")、[信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")の3局で「[ゴクラク\!もえもえステーション](https://ja.wikipedia.org/wiki/ゴクラク!もえもえステーション "wikilink")」枠にて、2004年4月3日から12月25日まで（信越放送は1日遅れ）全39回放送された。
-    [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")1月からはインターネットラジオに移行し、 月1回更新されていたが、同年3月に全3回で終了した。
+    [2005年](../Page/2005年.md "wikilink")1月からはインターネットラジオに移行し、 月1回更新されていたが、同年3月に全3回で終了した。
 
 <!-- end list -->
 

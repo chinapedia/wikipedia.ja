@@ -5,9 +5,9 @@
 
 ## 概要
 
-Matroskaは[映像](https://ja.wikipedia.org/wiki/映像 "wikilink")、[音声](https://ja.wikipedia.org/wiki/音声 "wikilink")、[字幕](https://ja.wikipedia.org/wiki/字幕 "wikilink")などの[データ](../Page/データ.md "wikilink")を格納するためのマルチメディアコンテナフォーマットで、一般的には「.mkv」ファイル（Matroska Video）や「.mka」ファイル（Matroska Audio）として知られている。[ロシア](../Page/ロシア.md "wikilink")の入れ子人形[マトリョーシカにちなんで名付けられた](https://ja.wikipedia.org/wiki/マトリョーシカ人形 "wikilink")。[オープンソース](../Page/オープンソース.md "wikilink")（[GNU LGPL](../Page/GNU_Lesser_General_Public_License.md "wikilink")）で開発が行われている。
+Matroskaは[映像](https://ja.wikipedia.org/wiki/映像 "wikilink")、[音声](https://ja.wikipedia.org/wiki/音声 "wikilink")、[字幕](../Page/字幕.md "wikilink")などの[データ](../Page/データ.md "wikilink")を格納するためのマルチメディアコンテナフォーマットで、一般的には「.mkv」ファイル（Matroska Video）や「.mka」ファイル（Matroska Audio）として知られている。[ロシア](../Page/ロシア.md "wikilink")の入れ子人形[マトリョーシカにちなんで名付けられた](../Page/マトリョーシカ人形.md "wikilink")。[オープンソース](../Page/オープンソース.md "wikilink")（[GNU LGPL](../Page/GNU_Lesser_General_Public_License.md "wikilink")）で開発が行われている。
 
-[EBML](https://ja.wikipedia.org/wiki/#EBML "wikilink")（Extensible Binary Meta Language）というデータ格納技術を採用し、後方[互換性](https://ja.wikipedia.org/wiki/互換性 "wikilink")と拡張性を両立させている。 [家電の](../Page/家庭用電気機械器具.md "wikilink")[DVDプレーヤー](https://ja.wikipedia.org/wiki/DVDプレーヤー "wikilink")等でも一部対応した機種が存在する。 [DivX](https://ja.wikipedia.org/wiki/DivX "wikilink")7が標準コンテナとしてMatroskaを採用している。 [Google](../Page/Google.md "wikilink")社の動画規格[WebM](https://ja.wikipedia.org/wiki/WebM "wikilink")のコンテナとしてMatroskaのサブセットを採用している。
+[EBML](https://ja.wikipedia.org/wiki/#EBML "wikilink")（Extensible Binary Meta Language）というデータ格納技術を採用し、後方[互換性](../Page/互換性.md "wikilink")と拡張性を両立させている。 [家電の](../Page/家庭用電気機械器具.md "wikilink")[DVDプレーヤー](../Page/DVDプレーヤー.md "wikilink")等でも一部対応した機種が存在する。 [DivX](https://ja.wikipedia.org/wiki/DivX "wikilink")7が標準コンテナとしてMatroskaを採用している。 [Google](../Page/Google.md "wikilink")社の動画規格[WebM](https://ja.wikipedia.org/wiki/WebM "wikilink")のコンテナとしてMatroskaのサブセットを採用している。
 
 2014年、[Microsoft Windows 10がMatroskaに標準対応することが](https://ja.wikipedia.org/wiki/Microsoft_Windows_10 "wikilink")[マイクロソフト](../Page/マイクロソフト.md "wikilink")社から発表された。
 
@@ -16,15 +16,15 @@ Matroskaは[映像](https://ja.wikipedia.org/wiki/映像 "wikilink")、[音声](
 ### 共通
 
   - 多種多様な[コーデック](../Page/コーデック.md "wikilink")に対応。
-      - 動画：[VFW Codec](https://ja.wikipedia.org/wiki/Audio_Video_Interleave "wikilink"), [QuickTime Codec](../Page/QuickTime.md "wikilink"), [Motion JPEG](../Page/Motion_JPEG.md "wikilink"), [MPEG-1](../Page/MPEG-1.md "wikilink")/[-2](../Page/MPEG-2.md "wikilink")/[-4](../Page/MPEG-4.md "wikilink"), [H.264](https://ja.wikipedia.org/wiki/H.264 "wikilink"), [H.265](https://ja.wikipedia.org/wiki/H.265 "wikilink"), [RealVideo](https://ja.wikipedia.org/wiki/RealVideo "wikilink"), [Snow](../Page/Snow_\(コーデック\).md "wikilink"), [Theora](https://ja.wikipedia.org/wiki/Theora "wikilink"), [VC-1](https://ja.wikipedia.org/wiki/VC-1 "wikilink"), [VP8](https://ja.wikipedia.org/wiki/VP8 "wikilink"), [VP9](https://ja.wikipedia.org/wiki/VP9 "wikilink"), [AV1](https://ja.wikipedia.org/wiki/AOMedia_Video_1 "wikilink")
-      - 音声：[AAC](../Page/AAC.md "wikilink"), [AC-3](../Page/ドルビーデジタル.md "wikilink"), [DTS](https://ja.wikipedia.org/wiki/デジタル・シアター・システムズ "wikilink"), [MP3](../Page/MP3.md "wikilink"), [MP2](https://ja.wikipedia.org/wiki/MP3#MPEG-1/2_Audio_Layer-2 "wikilink"), [Vorbis](https://ja.wikipedia.org/wiki/Vorbis "wikilink"), [Opus](https://ja.wikipedia.org/wiki/Opus_\(音声圧縮\) "wikilink"), [PCM](../Page/パルス符号変調.md "wikilink"), [RealAudio](../Page/RealAudio.md "wikilink"), [FLAC](../Page/FLAC.md "wikilink"), [TTA](https://ja.wikipedia.org/wiki/TTA "wikilink"), [WavPack](https://ja.wikipedia.org/wiki/WavPack "wikilink")
+      - 動画：[VFW Codec](../Page/Audio_Video_Interleave.md "wikilink"), [QuickTime Codec](../Page/QuickTime.md "wikilink"), [Motion JPEG](../Page/Motion_JPEG.md "wikilink"), [MPEG-1](../Page/MPEG-1.md "wikilink")/[-2](../Page/MPEG-2.md "wikilink")/[-4](../Page/MPEG-4.md "wikilink"), [H.264](../Page/H.264.md "wikilink"), [H.265](https://ja.wikipedia.org/wiki/H.265 "wikilink"), [RealVideo](https://ja.wikipedia.org/wiki/RealVideo "wikilink"), [Snow](../Page/Snow_\(コーデック\).md "wikilink"), [Theora](../Page/Theora.md "wikilink"), [VC-1](../Page/VC-1.md "wikilink"), [VP8](https://ja.wikipedia.org/wiki/VP8 "wikilink"), [VP9](https://ja.wikipedia.org/wiki/VP9 "wikilink"), [AV1](https://ja.wikipedia.org/wiki/AOMedia_Video_1 "wikilink")
+      - 音声：[AAC](../Page/AAC.md "wikilink"), [AC-3](../Page/ドルビーデジタル.md "wikilink"), [DTS](https://ja.wikipedia.org/wiki/デジタル・シアター・システムズ "wikilink"), [MP3](../Page/MP3.md "wikilink"), [MP2](https://ja.wikipedia.org/wiki/MP3#MPEG-1/2_Audio_Layer-2 "wikilink"), [Vorbis](../Page/Vorbis.md "wikilink"), [Opus](https://ja.wikipedia.org/wiki/Opus_\(音声圧縮\) "wikilink"), [PCM](../Page/パルス符号変調.md "wikilink"), [RealAudio](../Page/RealAudio.md "wikilink"), [FLAC](../Page/FLAC.md "wikilink"), [TTA](../Page/TTA.md "wikilink"), [WavPack](https://ja.wikipedia.org/wiki/WavPack "wikilink")
 
 ### MKV（Matroska Video File）
 
   - 複数音声
   - 前参照フレーム（Bフレーム）に対応
   - [チャプター](https://ja.wikipedia.org/wiki/チャプター "wikilink")（頭出し機能。1/1000秒単位で設定可能）
-  - 可変[フレームレート](https://ja.wikipedia.org/wiki/フレームレート "wikilink")（VFR）対応
+  - 可変[フレームレート](../Page/フレームレート.md "wikilink")（VFR）対応
   - 高度な字幕機能（テキスト型、VisualBob型両対応）
   - [アスペクト比](../Page/アスペクト比.md "wikilink")指定
   - 映像、音声、字幕以外のファイル添付
@@ -143,7 +143,7 @@ Matroskaは[映像](https://ja.wikipedia.org/wiki/映像 "wikilink")、[音声](
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/Media_Player_Classic" title="wikilink">Media Player Classic</a></p></td>
+<td><p><a href="../Page/Media_Player_Classic.md" title="wikilink">Media Player Classic</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -174,7 +174,7 @@ Matroskaは[映像](https://ja.wikipedia.org/wiki/映像 "wikilink")、[音声](
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/The_Core_Pocket_Media_Player" title="wikilink">The Core Pocket Media Player</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Windows_Mobile" title="wikilink">Windows Mobile</a></p></td>
+<td><p><a href="../Page/Windows_Mobile.md" title="wikilink">Windows Mobile</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -208,7 +208,7 @@ Matroskaは[映像](https://ja.wikipedia.org/wiki/映像 "wikilink")、[音声](
 | [DivX Connected](https://ja.wikipedia.org/wiki/DivX_Connected "wikilink")     | Windows                               | [2](http://www.divx.com/connected/) |
 | [MediaPortal](http://www.team-mediaportal.com/content/view/42/117/)           | [3](http://www.team-mediaportal.com/) |                                     |
 | [Moovida](https://ja.wikipedia.org/wiki/Moovida "wikilink")                   | クロスプラットフォーム                           | [4](http://www.moovida.com/)        |
-| [MythTV](https://ja.wikipedia.org/wiki/MythTV "wikilink")                     | [Linux](../Page/Linux.md "wikilink")  | [5](http://www.mythtv.org/)         |
+| [MythTV](../Page/MythTV.md "wikilink")                                        | [Linux](../Page/Linux.md "wikilink")  | [5](http://www.mythtv.org/)         |
 | [Plex](https://ja.wikipedia.org/wiki/Plexapp "wikilink")                      | macOS                                 | [6](http://plexapp.com/)            |
 | [PS3 Media Server](https://ja.wikipedia.org/wiki/PS3_Media_Server "wikilink") | クロスプラットフォーム                           | [7](http://ps3mediaserver.org/)     |
 | [Xbmc](https://ja.wikipedia.org/wiki/Xbmc "wikilink")                         | [8](http://xbmc.org/)                 |                                     |
@@ -328,7 +328,7 @@ Matroskaは[映像](https://ja.wikipedia.org/wiki/映像 "wikilink")、[音声](
   - [Combined Community Codec Pack](../Page/Combined_Community_Codec_Pack.md "wikilink")
   - [Haali Media Splitter](../Page/Haali_Media_Splitter.md "wikilink")
   - [VLC media player](https://ja.wikipedia.org/wiki/VLC_media_player "wikilink")
-  - [Media Player Classic](https://ja.wikipedia.org/wiki/Media_Player_Classic "wikilink")
+  - [Media Player Classic](../Page/Media_Player_Classic.md "wikilink")
   - [GOM Player](../Page/GOM_Player.md "wikilink")
   - [ratDVD](https://ja.wikipedia.org/wiki/ratDVD "wikilink")
   - [MPlayer](../Page/MPlayer.md "wikilink")
@@ -339,9 +339,9 @@ Matroskaは[映像](https://ja.wikipedia.org/wiki/映像 "wikilink")、[音声](
 
   - [ファイルフォーマット](../Page/ファイルフォーマット.md "wikilink")
   - [コンテナフォーマット](../Page/コンテナフォーマット.md "wikilink")
-  - [ファンサブ](https://ja.wikipedia.org/wiki/ファンサブ "wikilink")
+  - [ファンサブ](../Page/ファンサブ.md "wikilink")
   - [MADムービー](../Page/MADムービー.md "wikilink")
-  - [マトリョーシカ人形](https://ja.wikipedia.org/wiki/マトリョーシカ人形 "wikilink")
+  - [マトリョーシカ人形](../Page/マトリョーシカ人形.md "wikilink")
 
 ## 外部リンク
 

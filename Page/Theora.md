@@ -1,11 +1,11 @@
 > この記事は[Theora](https://ja.wikipedia.org/wiki/Theora)から翻訳されています。
 
 
-**Theora** (セオラ、シオラ) は、[オープンな](../Page/オープンフォーマット.md "wikilink")[非可逆の](../Page/非可逆圧縮.md "wikilink")[動画](../Page/動画.md "wikilink")[圧縮](../Page/データ圧縮.md "wikilink")[ファイルフォーマット](../Page/ファイルフォーマット.md "wikilink")、または、その[コーデック](../Page/コーデック.md "wikilink")である。[オープンな](../Page/オープンフォーマット.md "wikilink")[音声ファイルフォーマット](../Page/音声ファイルフォーマット.md "wikilink")である [Vorbis](https://ja.wikipedia.org/wiki/Vorbis "wikilink") の開発元として知られる [Xiph.org](https://ja.wikipedia.org/wiki/Xiph.Org_Foundation "wikilink") が[VP3](https://ja.wikipedia.org/wiki/VP3 "wikilink")を基にして開発した。
+**Theora** (セオラ、シオラ) は、[オープンな](../Page/オープンフォーマット.md "wikilink")[非可逆の](../Page/非可逆圧縮.md "wikilink")[動画](../Page/動画.md "wikilink")[圧縮](../Page/データ圧縮.md "wikilink")[ファイルフォーマット](../Page/ファイルフォーマット.md "wikilink")、または、その[コーデック](../Page/コーデック.md "wikilink")である。[オープンな](../Page/オープンフォーマット.md "wikilink")[音声ファイルフォーマット](../Page/音声ファイルフォーマット.md "wikilink")である [Vorbis](../Page/Vorbis.md "wikilink") の開発元として知られる [Xiph.org](https://ja.wikipedia.org/wiki/Xiph.Org_Foundation "wikilink") が[VP3](https://ja.wikipedia.org/wiki/VP3 "wikilink")を基にして開発した。
 
 ## 概要
 
-TheoraはOn2のVP3を基とした[後方互換のフォーマットである](https://ja.wikipedia.org/wiki/互換性 "wikilink")。ただし、ファイルフォーマットレベルでの互換性は無い。[Ogg](https://ja.wikipedia.org/wiki/Ogg "wikilink")[コンテナフォーマット](../Page/コンテナフォーマット.md "wikilink")の標準ビデオコーデックとして利用され(同時に音声には通常[Vorbis](https://ja.wikipedia.org/wiki/Vorbis "wikilink")が使われる)、**Ogg Theora**と呼称されることもある。 仕様とその標準的な実装であるlibtheoraは[オープンソース](../Page/オープンソース.md "wikilink")で提供される ([BSDライセンス](https://ja.wikipedia.org/wiki/BSDライセンス "wikilink")、ロイヤリティフリー)。
+TheoraはOn2のVP3を基とした[後方互換のフォーマットである](../Page/互換性.md "wikilink")。ただし、ファイルフォーマットレベルでの互換性は無い。[Ogg](../Page/Ogg.md "wikilink")[コンテナフォーマット](../Page/コンテナフォーマット.md "wikilink")の標準ビデオコーデックとして利用され(同時に音声には通常[Vorbis](../Page/Vorbis.md "wikilink")が使われる)、**Ogg Theora**と呼称されることもある。 仕様とその標準的な実装であるlibtheoraは[オープンソース](../Page/オープンソース.md "wikilink")で提供される ([BSDライセンス](../Page/BSDライセンス.md "wikilink")、ロイヤリティフリー)。
 
 ## 動向
 
@@ -28,8 +28,8 @@ TheoraはOn2のVP3を基とした[後方互換のフォーマットである](ht
   - 量子化値の非線形スケーリング
   - ブロック単位までの適応量子化
   - ストリームは[Iフレーム](https://ja.wikipedia.org/wiki/Iフレーム "wikilink")と[Pフレーム](https://ja.wikipedia.org/wiki/Pフレーム "wikilink")によって構成され[Bフレーム](https://ja.wikipedia.org/wiki/Bフレーム "wikilink")はサポートしない
-  - 1/2画素精度の[動き補償](https://ja.wikipedia.org/wiki/フレーム間予測 "wikilink")
-  - [Ogg](https://ja.wikipedia.org/wiki/Ogg "wikilink")のほか、[AVI](../Page/Audio_Video_Interleave.md "wikilink")、[Matroska](../Page/Matroska.md "wikilink")、[Ogg Media等のコンテナ形式に対応](https://ja.wikipedia.org/wiki/Ogg_Media "wikilink")
+  - 1/2画素精度の[動き補償](../Page/フレーム間予測.md "wikilink")
+  - [Ogg](../Page/Ogg.md "wikilink")のほか、[AVI](../Page/Audio_Video_Interleave.md "wikilink")、[Matroska](../Page/Matroska.md "wikilink")、[Ogg Media等のコンテナ形式に対応](../Page/Ogg_Media.md "wikilink")
 
 ## 利用例
 
@@ -38,7 +38,7 @@ TheoraはOn2のVP3を基とした[後方互換のフォーマットである](ht
 
 ## HTML5への策定をめぐる議論
 
-特許上の懸念が少なくフリーで利用できるTheoraは、[HTML5](../Page/HTML5.md "wikilink")における標準動画コーデック候補として[Mozilla Foundationや](../Page/Mozilla_Foundation.md "wikilink")[オペラ・ソフトウェア](https://ja.wikipedia.org/wiki/オペラ・ソフトウェア "wikilink")などから支持されていたが、[アップルや](../Page/アップル_\(企業\).md "wikilink")[ノキア](https://ja.wikipedia.org/wiki/ノキア "wikilink")などの反対により撤回された。また[Google](../Page/Google.md "wikilink")も、[H.264 AVCなどのより新しい圧縮コーデックと比べて圧縮率で劣るTheoraは](https://ja.wikipedia.org/wiki/H.264 "wikilink")/MPEG4[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")で使用できる水準に満たないと考えている\[1\]。一方で、たとえばXiph.orgのGreg Maxwellは独自に行った同一ファイルサイズでの比較検証において、Theoraは画質でも圧縮効率でもH.264より優れているものと主張している\[2\]。
+特許上の懸念が少なくフリーで利用できるTheoraは、[HTML5](../Page/HTML5.md "wikilink")における標準動画コーデック候補として[Mozilla Foundationや](../Page/Mozilla_Foundation.md "wikilink")[オペラ・ソフトウェア](https://ja.wikipedia.org/wiki/オペラ・ソフトウェア "wikilink")などから支持されていたが、[アップルや](../Page/アップル_\(企業\).md "wikilink")[ノキア](../Page/ノキア.md "wikilink")などの反対により撤回された。また[Google](../Page/Google.md "wikilink")も、[H.264 AVCなどのより新しい圧縮コーデックと比べて圧縮率で劣るTheoraは](../Page/H.264.md "wikilink")/MPEG4[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")で使用できる水準に満たないと考えている\[1\]。一方で、たとえばXiph.orgのGreg Maxwellは独自に行った同一ファイルサイズでの比較検証において、Theoraは画質でも圧縮効率でもH.264より優れているものと主張している\[2\]。
 
 2009年8月現在でTheoraはすでに[Mozilla Firefox](../Page/Mozilla_Firefox.md "wikilink")、[Opera](https://ja.wikipedia.org/wiki/Opera "wikilink")、[Google Chrome](https://ja.wikipedia.org/wiki/Google_Chrome "wikilink") ([Chromium](https://ja.wikipedia.org/wiki/Chromium "wikilink")) などの[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")でサポートされていて、
 
@@ -63,8 +63,8 @@ TheoraはOn2のVP3を基とした[後方互換のフォーマットである](ht
 
 ## 関連項目
 
-  - [Ogg](https://ja.wikipedia.org/wiki/Ogg "wikilink")
-  - [Vorbis](https://ja.wikipedia.org/wiki/Vorbis "wikilink")
+  - [Ogg](../Page/Ogg.md "wikilink")
+  - [Vorbis](../Page/Vorbis.md "wikilink")
   - [WebM](https://ja.wikipedia.org/wiki/WebM "wikilink")
   - [ffdshow](https://ja.wikipedia.org/wiki/ffdshow "wikilink")
   - [オープンソースのコーデックとコンテナフォーマット一覧](../Page/オープンソースのコーデックとコンテナフォーマット一覧.md "wikilink")

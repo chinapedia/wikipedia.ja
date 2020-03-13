@@ -12,7 +12,7 @@
 
 ### テレビアニメ
 
-  - [忘却の旋律](https://ja.wikipedia.org/wiki/忘却の旋律 "wikilink")（2004年、エム）
+  - [忘却の旋律](../Page/忘却の旋律.md "wikilink")（2004年、エム）
   - [極上生徒会](../Page/極上生徒会.md "wikilink")（2005年、絢爛副会長）
   - [魔法先生ネギま\!](../Page/魔法先生ネギま!_\(アニメ\).md "wikilink")（2005年 - 2006年、古菲） - 2シリーズ\[1\]
 
@@ -87,7 +87,7 @@
 <tr class="odd">
 <td><p>12月22日</p></td>
 <td><p>ネギま! 麻帆良学園中等部2-A：3学期</p></td>
-<td><p>古菲（<strong>田中葉月</strong>）、超鈴音（<a href="https://ja.wikipedia.org/wiki/大沢千秋" title="wikilink">大沢千秋</a>）</p></td>
+<td><p>古菲（<strong>田中葉月</strong>）、超鈴音（<a href="../Page/大沢千秋.md" title="wikilink">大沢千秋</a>）</p></td>
 <td><p>「健康一番」</p></td>
 <td></td>
 </tr>

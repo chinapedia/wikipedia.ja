@@ -1,7 +1,7 @@
 > この記事は[Diamond Dust Drops](https://ja.wikipedia.org/wiki/Diamond_Dust_Drops)から翻訳されています。
 
 
-『**北へ。〜Diamond Dust Drops〜**』（きたへ ダイアモンド ダスト ドロップス）は、[2004年](../Page/2004年.md "wikilink")に放送された[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")番組。全13話。[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")を舞台にした[トラベル](https://ja.wikipedia.org/wiki/トラベル "wikilink")[コミュニケーション](../Page/コミュニケーション.md "wikilink")[ゲーム](../Page/ゲーム.md "wikilink")の『[北へ。 Dust〜](https://ja.wikipedia.org/wiki/北へ。 "wikilink")〜Diamond』をアニメ化したものである。略称「**北へ。DDD**」。
+『**北へ。〜Diamond Dust Drops〜**』（きたへ ダイアモンド ダスト ドロップス）は、[2004年](../Page/2004年.md "wikilink")に放送された[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")番組。全13話。[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")を舞台にした[トラベル](https://ja.wikipedia.org/wiki/トラベル "wikilink")[コミュニケーション](../Page/コミュニケーション.md "wikilink")[ゲーム](../Page/ゲーム.md "wikilink")の『[北へ。 Dust〜](../Page/北へ。.md "wikilink")〜Diamond』をアニメ化したものである。略称「**北へ。DDD**」。
 
 ## 概要
 
@@ -12,7 +12,7 @@
 年齢はバンダイチャンネルの登場人物にて\[1\]。
 
   - 茜木温子（あかねぎ あつこ）
-    [声](../Page/声優.md "wikilink") - [石原絵理子](https://ja.wikipedia.org/wiki/石原絵理子 "wikilink")
+    [声](../Page/声優.md "wikilink") - [石原絵理子](../Page/石原絵理子.md "wikilink")
     [函館在住](../Page/函館市.md "wikilink")。20歳。鮮魚店の一人娘。母から老舗旅館の御曹司との結婚を勧められているが、彼女自身は常連客の倉田を慕っている。
   - 白石果鈴（しらいし かりん）
     声 - [高橋裕子](../Page/高梁碧.md "wikilink")
@@ -21,14 +21,14 @@
     声 - [能登麻美子](https://ja.wikipedia.org/wiki/能登麻美子 "wikilink")
     [札幌在住](https://ja.wikipedia.org/wiki/札幌市 "wikilink")。21歳。大学生で大学のシネマ研究会に所属している。新人賞をとったことで、自分が何を撮りたいのかを見失い、サークルの他のメンバーともトラブルが絶えない。
   - 北野スオミ（きたの スオミ）
-    声 - [天瀬まゆ](https://ja.wikipedia.org/wiki/天瀬まゆ "wikilink")
-    [旭川に滞在中](../Page/旭川市.md "wikilink")。17歳。[日本人](https://ja.wikipedia.org/wiki/日本人 "wikilink")と[フィンランド人](../Page/フィンランド人.md "wikilink")のハーフで、[フィンランド](https://ja.wikipedia.org/wiki/フィンランド "wikilink")を代表する[フィギュアスケート](../Page/フィギュアスケート.md "wikilink")選手だったが、ある事件が切っ掛けで滑れなくなってしまった。言葉の使い方がどこかおかしい。
+    声 - [天瀬まゆ](../Page/天瀬まゆ.md "wikilink")
+    [旭川に滞在中](../Page/旭川市.md "wikilink")。17歳。[日本人](https://ja.wikipedia.org/wiki/日本人 "wikilink")と[フィンランド人](../Page/フィンランド人.md "wikilink")のハーフで、[フィンランド](../Page/フィンランド.md "wikilink")を代表する[フィギュアスケート](../Page/フィギュアスケート.md "wikilink")選手だったが、ある事件が切っ掛けで滑れなくなってしまった。言葉の使い方がどこかおかしい。
   - 催馬楽笙子（さいばら しょうこ）
-    声 - [高乃麗](https://ja.wikipedia.org/wiki/高乃麗 "wikilink")
+    声 - [高乃麗](../Page/高乃麗.md "wikilink")
     札幌在住。28歳。人気[ラジオ](../Page/ラジオ.md "wikilink")番組「カプチーノブレイク」の[DJ](../Page/ディスクジョッキー.md "wikilink")。妻子ある男性と不倫の恋をしている。リスナーからよく恋の悩みを相談される。
   - 原田明理（はらだ あかり）
     声 - [渡辺明乃](../Page/渡辺明乃.md "wikilink")
-    [帯広在住](../Page/帯広市.md "wikilink")。17歳。高校生。趣味の[砂金](https://ja.wikipedia.org/wiki/砂金 "wikilink")掘りに没頭する父親と二人暮しで、[和菓子](../Page/和菓子.md "wikilink")屋でアルバイトをしながら家計を助けている。
+    [帯広在住](../Page/帯広市.md "wikilink")。17歳。高校生。趣味の[砂金](../Page/砂金.md "wikilink")掘りに没頭する父親と二人暮しで、[和菓子](../Page/和菓子.md "wikilink")屋でアルバイトをしながら家計を助けている。
   - 森永まふゆ（もりなが まふゆ）
     声 - [皆川純子](../Page/皆川純子.md "wikilink")
     札幌在住。年齢・職業等不詳。彼女に関するエピソードはなく、他のヒロインのエピソード中にさり気無く登場する。恋人に言えない秘密があるらしい。
@@ -36,13 +36,13 @@
 ## 主なアニメオリジナルキャラ
 
   - 唐黍十朗太（とうきび じゅうろうた）
-    声 - [加瀬康之](https://ja.wikipedia.org/wiki/加瀬康之 "wikilink")
+    声 - [加瀬康之](../Page/加瀬康之.md "wikilink")
     全編を通じて、さり気無く登場する青年。北海道を旅しているらしい。それぞれのヒロインと殆ど絡む事は無いが、第12話では彼にも春が……。
   - 倉田譲治（くらた じょうじ）
-    声 - [高田祐司](https://ja.wikipedia.org/wiki/高田裕司_\(声優\) "wikilink")
+    声 - [高田祐司](../Page/高田裕司_\(声優\).md "wikilink")
     「茜木温子篇」に登場。中年の[サクソフォーン](../Page/サクソフォーン.md "wikilink")奏者。別れた妻子がいる。温子に慕われているが、その恋心が自分に父親を投影した物に過ぎない事を見抜く見識を持合せている。
   - 神宮司実（じんぐうじ みのる）
-    声 - [神谷浩史](https://ja.wikipedia.org/wiki/神谷浩史 "wikilink")
+    声 - [神谷浩史](../Page/神谷浩史.md "wikilink")
     「茜木温子篇」に登場。財閥の御曹司で温子の許嫁。執拗に温子に言寄るが……。
   - 甘粕（あまかす）
     声 - [青羽剛](../Page/青羽剛.md "wikilink")
@@ -51,7 +51,7 @@
     声 - [うえだゆうじ](../Page/うえだゆうじ.md "wikilink")
     「白石果鈴篇」に登場。果鈴の兄。北海道の大学に通っており、果鈴が北海道に入院する一因にもなっている。高額な入院費の足しにするためにアルバイトをしているが、果鈴の負担にならないようにアルバイトのことは果鈴には隠している妹思いの兄である。
   - 結城（ゆうき）
-    声 - [湯屋敦子](https://ja.wikipedia.org/wiki/湯屋敦子 "wikilink")
+    声 - [湯屋敦子](../Page/湯屋敦子.md "wikilink")
     「白石果鈴篇」に登場。[看護師](https://ja.wikipedia.org/wiki/看護師 "wikilink")。果鈴の事を心の奥底から心配し、色々と気を配る。
   - 看護師A
     声 - [大原さやか](../Page/大原さやか.md "wikilink")
@@ -60,10 +60,10 @@
     声 - [森田成一](../Page/森田成一.md "wikilink")
     「朝比奈京子篇」に登場。京子の同棲相手。京子が映画作りを始めた頃の初心を取戻す様、さり気無く示唆する。自由気侭で捉え所のない人物。
   - 永澤晴人（ながさわ はると）
-    声 - [津村まこと](https://ja.wikipedia.org/wiki/津村まこと "wikilink")
-    「北野スオミ篇」に登場。スケート教室に通う少年。友達につられて自分もスケートを始めた所、友達より上達してしまい、友達と気まずい雰囲気になってしまった。スオミに「[ナンパ](https://ja.wikipedia.org/wiki/ナンパ "wikilink")」される。
+    声 - [津村まこと](../Page/津村まこと.md "wikilink")
+    「北野スオミ篇」に登場。スケート教室に通う少年。友達につられて自分もスケートを始めた所、友達より上達してしまい、友達と気まずい雰囲気になってしまった。スオミに「[ナンパ](../Page/ナンパ.md "wikilink")」される。
   - 武田（たけだ）
-    声 - [江原正士](https://ja.wikipedia.org/wiki/江原正士 "wikilink")
+    声 - [江原正士](../Page/江原正士.md "wikilink")
     「催馬楽笙子篇」に登場。笙子の不倫相手。自分の都合の良い時にのみ笙子を呼び出す一方で、笙子の悩みに答ようともしない自分勝手な男。
   - レディオボーイ
     声 - [近藤孝行](../Page/近藤孝行.md "wikilink")
@@ -74,7 +74,7 @@
 
 ## スタッフ
 
-  - 原作 - [広井王子](https://ja.wikipedia.org/wiki/広井王子 "wikilink")
+  - 原作 - [広井王子](../Page/広井王子.md "wikilink")
   - 監督 - ボブ白旗
   - シリーズ構成 - [山口亮太](../Page/山口亮太.md "wikilink")
   - キャラクター原案 - [NOCCHI](https://ja.wikipedia.org/wiki/NOCCHI "wikilink")
@@ -86,13 +86,13 @@
   - 音響監督 - [小林克良](../Page/小林克良.md "wikilink")
   - 音楽 - [五木田岳彦](https://ja.wikipedia.org/wiki/五木田岳彦 "wikilink")
   - プロデューサー - 清水俊、藤田敏、小栗丈知、浦崎宣光、濱田啓路
-  - アニメーション制作 - [スタジオディーン](https://ja.wikipedia.org/wiki/スタジオディーン "wikilink")
+  - アニメーション制作 - [スタジオディーン](../Page/スタジオディーン.md "wikilink")
   - 製作 - Project DDD
 
 ## 主題歌
 
   - オープニングテーマ「ホップステップジャンプ」
-    作詞 - [広井王子](https://ja.wikipedia.org/wiki/広井王子 "wikilink") / 作曲・編曲 - [池毅](../Page/池毅.md "wikilink") / 歌 - ファイブスピリッツ（石原絵理子・渡辺明乃・高橋裕子・能登麻美子・天瀬まゆ）
+    作詞 - [広井王子](../Page/広井王子.md "wikilink") / 作曲・編曲 - [池毅](../Page/池毅.md "wikilink") / 歌 - ファイブスピリッツ（石原絵理子・渡辺明乃・高橋裕子・能登麻美子・天瀬まゆ）
   - エンディングテーマ「会いたい〜Love Theme from 北へ。〜」
     作詞 - 広井王子 / 作曲・編曲 - 五木田岳彦 / 歌 - ALLEY:A
 
@@ -222,14 +222,14 @@
 
 ## 放送局
 
-| 放送地域                                                | 放送局                                                       | 放送期間                                                                                                            | 放送日時             | 放送区分                                                             | 備考                                 |
-| --------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------------------------------------------------------- | ---------------------------------- |
-| [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink") | [テレビ北海道](../Page/テレビ北海道.md "wikilink")                    | [2004年](../Page/2004年.md "wikilink")[1月13日](../Page/1月13日.md "wikilink") - [3月30日](../Page/3月30日.md "wikilink") | 火曜 26:00 - 26:30 | [テレビ東京系列](https://ja.wikipedia.org/wiki/TXN "wikilink")          |                                    |
-| [日本全域](../Page/全国放送.md "wikilink")                  | [AT-X](../Page/アニメシアターX.md "wikilink")                    | 2004年[1月20日](../Page/1月20日.md "wikilink") - [4月6日](../Page/4月6日.md "wikilink")                                  | 火曜 10:00 - 10:30 | [CS放送](https://ja.wikipedia.org/wiki/日本における衛星放送#CS放送 "wikilink") | リピート放送あり                           |
-| [滋賀県](../Page/滋賀県.md "wikilink")                    | [びわ湖放送](../Page/びわ湖放送.md "wikilink")                      | 2004年[1月25日](../Page/1月25日.md "wikilink") - [4月11日](../Page/4月11日.md "wikilink")                                | 日曜 25:30 - 26:00 | [独立UHF局](../Page/全国独立放送協議会.md "wikilink")                        | [番組販売](../Page/番組販売.md "wikilink") |
-| [岐阜県](../Page/岐阜県.md "wikilink")                    | [岐阜放送](../Page/岐阜放送.md "wikilink")                        | 2004年[2月1日](../Page/2月1日.md "wikilink") - [4月18日](../Page/4月18日.md "wikilink")                                  | 日曜 22:54 - 23:24 |                                                                  |                                    |
-| [千葉県](../Page/千葉県.md "wikilink")                    | [ちばテレビ](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink") | 2004年[4月4日](../Page/4月4日.md "wikilink") - [6月27日](../Page/6月27日.md "wikilink")                                  | 日曜 25:00 - 25:30 |                                                                  |                                    |
-| [埼玉県](../Page/埼玉県.md "wikilink")                    | [テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")     | 2004年[4月7日](../Page/4月7日.md "wikilink") - [6月30日](../Page/6月30日.md "wikilink")                                  | 水曜 25:00 - 25:30 | \[2\]                                                            |                                    |
+| 放送地域                                                | 放送局                                                   | 放送期間                                                                                                            | 放送日時             | 放送区分                                                             | 備考                                 |
+| --------------------------------------------------- | ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------------------------------------------------------- | ---------------------------------- |
+| [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink") | [テレビ北海道](../Page/テレビ北海道.md "wikilink")                | [2004年](../Page/2004年.md "wikilink")[1月13日](../Page/1月13日.md "wikilink") - [3月30日](../Page/3月30日.md "wikilink") | 火曜 26:00 - 26:30 | [テレビ東京系列](https://ja.wikipedia.org/wiki/TXN "wikilink")          |                                    |
+| [日本全域](../Page/全国放送.md "wikilink")                  | [AT-X](../Page/アニメシアターX.md "wikilink")                | 2004年[1月20日](../Page/1月20日.md "wikilink") - [4月6日](../Page/4月6日.md "wikilink")                                  | 火曜 10:00 - 10:30 | [CS放送](https://ja.wikipedia.org/wiki/日本における衛星放送#CS放送 "wikilink") | リピート放送あり                           |
+| [滋賀県](../Page/滋賀県.md "wikilink")                    | [びわ湖放送](../Page/びわ湖放送.md "wikilink")                  | 2004年[1月25日](../Page/1月25日.md "wikilink") - [4月11日](../Page/4月11日.md "wikilink")                                | 日曜 25:30 - 26:00 | [独立UHF局](../Page/全国独立放送協議会.md "wikilink")                        | [番組販売](../Page/番組販売.md "wikilink") |
+| [岐阜県](../Page/岐阜県.md "wikilink")                    | [岐阜放送](../Page/岐阜放送.md "wikilink")                    | 2004年[2月1日](../Page/2月1日.md "wikilink") - [4月18日](../Page/4月18日.md "wikilink")                                  | 日曜 22:54 - 23:24 |                                                                  |                                    |
+| [千葉県](../Page/千葉県.md "wikilink")                    | [ちばテレビ](../Page/千葉テレビ放送.md "wikilink")                | 2004年[4月4日](../Page/4月4日.md "wikilink") - [6月27日](../Page/6月27日.md "wikilink")                                  | 日曜 25:00 - 25:30 |                                                                  |                                    |
+| [埼玉県](../Page/埼玉県.md "wikilink")                    | [テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink") | 2004年[4月7日](../Page/4月7日.md "wikilink") - [6月30日](../Page/6月30日.md "wikilink")                                  | 水曜 25:00 - 25:30 | \[2\]                                                            |                                    |
 
 ## 漫画
 

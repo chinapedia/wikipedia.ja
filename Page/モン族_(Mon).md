@@ -1,7 +1,7 @@
 > この記事は[ \(Mon\)](https://ja.wikipedia.org/wiki/_\(Mon\))から翻訳されています。
 
 
-**モン族**（ - ぞく、Mon）は、[東南アジア](../Page/東南アジア.md "wikilink")に住む[民族](../Page/民族.md "wikilink")の一つ。古くから東南アジアに居住しており、[ハリプンチャイ王国](https://ja.wikipedia.org/wiki/ハリプンチャイ王国 "wikilink")を建てたことで有名で、後に[ミャンマー](../Page/ミャンマー.md "wikilink")の[ペグー](https://ja.wikipedia.org/wiki/ペグー "wikilink")に移り住んだので**ペグー人**（Peguan）とも言う。**ラーマン**（Raman）あるいは**タライン**（Talaing;  [IPA](../Page/国際音声記号.md "wikilink"): 、ただしこれは旧称で現代では**ムン**  \[1\]）と呼ばれることもある。その後一部が[中国の](../Page/中華人民共和国.md "wikilink")[雲南から南下してきた](https://ja.wikipedia.org/wiki/雲南省 "wikilink")[タイ族](../Page/タイ族.md "wikilink")や[ビルマ族](../Page/ビルマ族.md "wikilink")などと[混血](https://ja.wikipedia.org/wiki/混血 "wikilink")した。現在800万人程度がモン族を自称している。
+**モン族**（ - ぞく、Mon）は、[東南アジア](../Page/東南アジア.md "wikilink")に住む[民族](../Page/民族.md "wikilink")の一つ。古くから東南アジアに居住しており、[ハリプンチャイ王国](../Page/ハリプンチャイ王国.md "wikilink")を建てたことで有名で、後に[ミャンマー](../Page/ミャンマー.md "wikilink")の[ペグー](https://ja.wikipedia.org/wiki/ペグー "wikilink")に移り住んだので**ペグー人**（Peguan）とも言う。**ラーマン**（Raman）あるいは**タライン**（Talaing;  [IPA](../Page/国際音声記号.md "wikilink"): 、ただしこれは旧称で現代では**ムン**  \[1\]）と呼ばれることもある。その後一部が[中国の](../Page/中華人民共和国.md "wikilink")[雲南から南下してきた](../Page/雲南省.md "wikilink")[タイ族](../Page/タイ族.md "wikilink")や[ビルマ族](../Page/ビルマ族.md "wikilink")などと[混血](../Page/混血.md "wikilink")した。現在800万人程度がモン族を自称している。
 
 浅黒い肌にギョロリとした目、巻き舌音の多い言語、高床式住居、[焼畑](https://ja.wikipedia.org/wiki/焼畑 "wikilink")耕作、[水牛](https://ja.wikipedia.org/wiki/水牛 "wikilink")供犠、[精霊信仰](https://ja.wikipedia.org/wiki/精霊信仰 "wikilink")、魔術、[壺酒](https://ja.wikipedia.org/wiki/壺酒 "wikilink")、精緻な竹藤細工、狩猟・罠、腰機織り、[ゴング](../Page/ゴング.md "wikilink")音楽などが、[ラオス](../Page/ラオス.md "wikilink")国内のモン・クメール民族に共通している\[2\]。
 
@@ -9,11 +9,11 @@
 
 ## 歴史
 
-[紀元前1500年](https://ja.wikipedia.org/wiki/紀元前1500年 "wikilink")頃には[東南アジア](../Page/東南アジア.md "wikilink")に到達していたとされ、現在の東南アジアの[少数民族](../Page/少数民族.md "wikilink")としては[ネグリト](../Page/ネグリト.md "wikilink")（[オーストラロイド](https://ja.wikipedia.org/wiki/オーストラロイド "wikilink")）のなどに次いで古い民族と考えられている。
+[紀元前1500年](https://ja.wikipedia.org/wiki/紀元前1500年 "wikilink")頃には[東南アジア](../Page/東南アジア.md "wikilink")に到達していたとされ、現在の東南アジアの[少数民族](../Page/少数民族.md "wikilink")としては[ネグリト](../Page/ネグリト.md "wikilink")（[オーストラロイド](../Page/オーストラロイド.md "wikilink")）のなどに次いで古い民族と考えられている。
 
 ### スワンナプーム王国
 
-伝説では、[紀元前300年](../Page/紀元前300年.md "wikilink")ごろ現在の[スパンブリー県](https://ja.wikipedia.org/wiki/スパンブリー県 "wikilink")周辺に****を建国し、[紀元前200年](../Page/紀元前200年.md "wikilink")ごろには[アショーカ王](https://ja.wikipedia.org/wiki/アショーカ王 "wikilink")の遣わした伝道者により[上座部仏教](../Page/上座部仏教.md "wikilink")を信仰し始めた。しかし、モン族はそれ以前から海路による仏教との接触があったと主張する。4世紀ごろ[ワット・プラパトムチェーディー](../Page/ワット・プラパトムチェーディー.md "wikilink")が建設された。6世紀ごろから11世紀ごろまで東南アジアで繁栄したスワンナプーム王国は、[モン文字](https://ja.wikipedia.org/wiki/モン文字 "wikilink")などを開発し先住の文明民族として東南アジアに君臨した。古代[モン語](../Page/モン語.md "wikilink")を話していたことが確実視されているが、モン族であったかどうかは確定していない。
+伝説では、[紀元前300年](../Page/紀元前300年.md "wikilink")ごろ現在の[スパンブリー県](../Page/スパンブリー県.md "wikilink")周辺に****を建国し、[紀元前200年](../Page/紀元前200年.md "wikilink")ごろには[アショーカ王](../Page/アショーカ王.md "wikilink")の遣わした伝道者により[上座部仏教](../Page/上座部仏教.md "wikilink")を信仰し始めた。しかし、モン族はそれ以前から海路による仏教との接触があったと主張する。4世紀ごろ[ワット・プラパトムチェーディー](../Page/ワット・プラパトムチェーディー.md "wikilink")が建設された。6世紀ごろから11世紀ごろまで東南アジアで繁栄したスワンナプーム王国は、[モン文字](https://ja.wikipedia.org/wiki/モン文字 "wikilink")などを開発し先住の文明民族として東南アジアに君臨した。古代[モン語](../Page/モン語.md "wikilink")を話していたことが確実視されているが、モン族であったかどうかは確定していない。
 
 ### ドヴァーラヴァティー王国
 
@@ -21,7 +21,7 @@
 
 ### ハリプンチャイ王国
 
-[661年](../Page/661年.md "wikilink")または[750年](https://ja.wikipedia.org/wiki/750年 "wikilink")頃、モン族は現在の[タイ王国](../Page/タイ王国.md "wikilink")・[ランプーン](https://ja.wikipedia.org/wiki/ランプーン "wikilink")に**[ハリプンチャイ王国](https://ja.wikipedia.org/wiki/ハリプンチャイ王国 "wikilink")**（[661年](../Page/661年.md "wikilink") - [1281年](../Page/1281年.md "wikilink")）を建てているが、伝説では[コレラ](../Page/コレラ.md "wikilink")が流行し、[ランプーン](https://ja.wikipedia.org/wiki/ランプーン "wikilink")の都をすてて南下した。
+[661年](../Page/661年.md "wikilink")または[750年](https://ja.wikipedia.org/wiki/750年 "wikilink")頃、モン族は現在の[タイ王国](../Page/タイ王国.md "wikilink")・[ランプーン](https://ja.wikipedia.org/wiki/ランプーン "wikilink")に**[ハリプンチャイ王国](../Page/ハリプンチャイ王国.md "wikilink")**（[661年](../Page/661年.md "wikilink") - [1281年](../Page/1281年.md "wikilink")）を建てているが、伝説では[コレラ](../Page/コレラ.md "wikilink")が流行し、[ランプーン](https://ja.wikipedia.org/wiki/ランプーン "wikilink")の都をすてて南下した。
 
 ### タトォン王国
 
@@ -34,7 +34,7 @@
 ### 再興ペグー王朝
 
   - 17世紀には****（[1740年](../Page/1740年.md "wikilink") - [1757年](../Page/1757年.md "wikilink")）を建てた。
-  - [1000年](../Page/1000年.md "wikilink")頃以来、雲南から新参の[ビルマ人](https://ja.wikipedia.org/wiki/ビルマ人 "wikilink")・[タイ人](https://ja.wikipedia.org/wiki/タイ人 "wikilink")が流入したことによりペグー王朝は徐々に力を失い、[1757年](../Page/1757年.md "wikilink")に遂に再興ペグー王朝は倒れた。
+  - [1000年](../Page/1000年.md "wikilink")頃以来、雲南から新参の[ビルマ人](https://ja.wikipedia.org/wiki/ビルマ人 "wikilink")・[タイ人](../Page/タイ人.md "wikilink")が流入したことによりペグー王朝は徐々に力を失い、[1757年](../Page/1757年.md "wikilink")に遂に再興ペグー王朝は倒れた。
 
 ### タイとミャンマーの国境地域
 

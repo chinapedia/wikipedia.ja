@@ -13,9 +13,9 @@
 
 また、[NHK BS1では](https://ja.wikipedia.org/wiki/NHK衛星第1テレビジョン "wikilink")20分枠で不定期に、サブタイトルとして「世界のサッカー」として放送されている。長年[J SPORTS](../Page/J_SPORTS.md "wikilink")（FIFAの冠がつく以前はサブタイトルに「ワールドサッカーダイジェスト」）でも放送されていたが、2008年3月で終了した。[独立局](https://ja.wikipedia.org/wiki/独立局 "wikilink")各局でも放送していたことがある。
 
-なお、当番組と海外サッカー雑誌の「[ワールドサッカーダイジェスト](../Page/ワールドサッカーダイジェスト.md "wikilink")」（[日本スポーツ企画出版社](../Page/日本スポーツ企画出版社.md "wikilink")）、「[ワールドサッカーマガジン](https://ja.wikipedia.org/wiki/ワールドサッカーマガジン "wikilink")」（[ベースボール・マガジン社](https://ja.wikipedia.org/wiki/ベースボール・マガジン社 "wikilink")）とは無関係である。
+なお、当番組と海外サッカー雑誌の「[ワールドサッカーダイジェスト](../Page/ワールドサッカーダイジェスト.md "wikilink")」（[日本スポーツ企画出版社](../Page/日本スポーツ企画出版社.md "wikilink")）、「[ワールドサッカーマガジン](https://ja.wikipedia.org/wiki/ワールドサッカーマガジン "wikilink")」（[ベースボール・マガジン社](../Page/ベースボール・マガジン社.md "wikilink")）とは無関係である。
 
-日本語ナレーションは[倉敷保雄](https://ja.wikipedia.org/wiki/倉敷保雄 "wikilink")が長らく務めている\[1\]。極初期の頃は[坂信一郎](../Page/坂信一郎.md "wikilink")がナレーターを務めたり、また、ボイスオーバーには倉敷が司会をする[Foot\!](../Page/Foot!.md "wikilink")で「ブルータス八戸」名で出演している[八戸優](https://ja.wikipedia.org/wiki/八戸優 "wikilink")や、「明石リリィ」名で出演している[明石香織](../Page/明石香織.md "wikilink")、「松尾にゃろめ」名で2010-11シーズンに出演した[松尾まつお](../Page/松尾まつお.md "wikilink")、[枝村みどり](https://ja.wikipedia.org/wiki/枝村みどり "wikilink")らが出演している。
+日本語ナレーションは[倉敷保雄](../Page/倉敷保雄.md "wikilink")が長らく務めている\[1\]。極初期の頃は[坂信一郎](../Page/坂信一郎.md "wikilink")がナレーターを務めたり、また、ボイスオーバーには倉敷が司会をする[Foot\!](../Page/Foot!.md "wikilink")で「ブルータス八戸」名で出演している[八戸優](https://ja.wikipedia.org/wiki/八戸優 "wikilink")や、「明石リリィ」名で出演している[明石香織](../Page/明石香織.md "wikilink")、「松尾にゃろめ」名で2010-11シーズンに出演した[松尾まつお](../Page/松尾まつお.md "wikilink")、[枝村みどり](https://ja.wikipedia.org/wiki/枝村みどり "wikilink")らが出演している。
 
 ## 脚注
 
@@ -34,4 +34,4 @@
 
 [Category:テレビのサッカー番組](https://ja.wikipedia.org/wiki/Category:テレビのサッカー番組 "wikilink") [Category:GAORA](https://ja.wikipedia.org/wiki/Category:GAORA "wikilink") [Category:J_SPORTS](https://ja.wikipedia.org/wiki/Category:J_SPORTS "wikilink")
 
-1.  [週刊サッカー・ナビ](https://ja.wikipedia.org/wiki/週刊サッカー・ナビ "wikilink")でも日本語ナレーションを務めていた。まれに[ボイスオーバー](https://ja.wikipedia.org/wiki/ボイスオーバー "wikilink")を務める他の声優（放送上では声優の出演クレジット表記は無かったが、2014年1月放送で初めて声優のクレジット字幕が表示された）がナレーションを担当する場合もある
+1.  [週刊サッカー・ナビ](https://ja.wikipedia.org/wiki/週刊サッカー・ナビ "wikilink")でも日本語ナレーションを務めていた。まれに[ボイスオーバー](../Page/ボイスオーバー.md "wikilink")を務める他の声優（放送上では声優の出演クレジット表記は無かったが、2014年1月放送で初めて声優のクレジット字幕が表示された）がナレーションを担当する場合もある

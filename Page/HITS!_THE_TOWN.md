@@ -27,14 +27,14 @@
 
   - 初代：[ソニア](../Page/ソニア.md "wikilink")（1996年10月 - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")3月）
   - 2代目：[大賀埜々](https://ja.wikipedia.org/wiki/大賀埜々 "wikilink")（1998年4月 - [1999年](../Page/1999年.md "wikilink")9月）
-  - 3代目：[maylee](https://ja.wikipedia.org/wiki/メイリー "wikilink")（1999年10月 - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月、[骨折](../Page/骨折.md "wikilink")により一時出演休止したことがある。[査証](../Page/査証.md "wikilink")の関係で渡米を理由に、2008年3月いっぱいで降板。）
+  - 3代目：[maylee](../Page/メイリー.md "wikilink")（1999年10月 - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月、[骨折](../Page/骨折.md "wikilink")により一時出演休止したことがある。[査証](../Page/査証.md "wikilink")の関係で渡米を理由に、2008年3月いっぱいで降板。）
 
 ### 代替パーソナリティー
 
   - [澤美代子](https://ja.wikipedia.org/wiki/澤美代子 "wikilink")（2007年3月3日）
   - [岡本里奈](https://ja.wikipedia.org/wiki/岡本里奈 "wikilink")（2008年4月12日、週替わり女性パーソナリティー）
   - [ZOE](https://ja.wikipedia.org/wiki/ZOE_\(タレント\) "wikilink")（2008年4月19日、週替わり女性パーソナリティー）
-  - [大友みなみ](https://ja.wikipedia.org/wiki/大友みなみ "wikilink")（2008年4月26日、週替わり女性パーソナリティー）
+  - [大友みなみ](../Page/大友みなみ.md "wikilink")（2008年4月26日、週替わり女性パーソナリティー）
   - [五十嵐れな](https://ja.wikipedia.org/wiki/五十嵐れな "wikilink")（2008年5月3日、週替わり女性パーソナリティー）
   - [小泉亜子](https://ja.wikipedia.org/wiki/小泉亜子 "wikilink")（2008年5月10日、週替わり女性パーソナリティー）
   - [Lisa Halim](../Page/Lisa_Halim.md "wikilink")（2008年5月17日、週替わり女性パーソナリティー）
@@ -119,7 +119,7 @@
   - ボイスチェンジャーを使った、バカボン扮する「ドナルド」というキャラクターが登場する[逆電](../Page/逆電.md "wikilink")コーナーである。キャラクターは、[FUNKY FRIDAYのコーナー](https://ja.wikipedia.org/wiki/FUNKY_FRIDAY "wikilink")、[ミッキーのパクりである](https://ja.wikipedia.org/wiki/ファンキーフライデー#ナゾのキャラクター、「ミッキー」 "wikilink")。コーナー誕生のきっかけは、バカボンが[小林克也](../Page/小林克也.md "wikilink")に会ったとき、「パクっていいですか?」と聞いたところ、快くOKしてくれたことによる。そのため、番組内では「ファンフラ公認」と自称している。
   - コーナーのオープニングでドナルドは「世界一の人気者であり、世界屈指の大金持ちであり、君らのクラブのリーダである。」と名乗っている。またエンディングは、ドナルドが考えた即興歌で終了する。
   - クイズと銘打っているものの、実質的にはドナルドとリスナーが電話でやりとりするコーナーであり、クイズはおまけである。最近はクイズ自体出題されなくなっており、リスナーのお悩み相談コーナーになっている。
-  - 年間を通して10回も行われないコーナーである。大抵の場合は「ドナルドは全[裸](https://ja.wikipedia.org/wiki/裸 "wikilink")で〇〇のためお休み」とアナウンスされる。
+  - 年間を通して10回も行われないコーナーである。大抵の場合は「ドナルドは全[裸](../Page/裸.md "wikilink")で〇〇のためお休み」とアナウンスされる。
 
 ### ズバっと解決奥さんズ
 
@@ -207,10 +207,10 @@
   - 以前、[インフルエンザ](../Page/インフルエンザ.md "wikilink")の為休んだ鬼塚の代役で出演した[土屋滋生](../Page/土屋滋生.md "wikilink")が、余りにぬるい番組進行と、やる気の無く毒舌のmayleeに困惑し、カルチャーショックを受け、それ以降仕事に対する姿勢が変わった。
   - レポーターで出演した[山本昇](https://ja.wikipedia.org/wiki/山本昇 "wikilink")が噂でmayleeは怖い人と聞き、mayleeに対してビクビクしながら会話していたが、それがmaylee的に気に入らなかったらしく、山本昇を毛嫌いする様になった。以後2人は仲が良くないと囁かれる。
   - トークの合間に番組ジングルが流れると、それは「ヒッツさん」の愛称で呼ばれ、親しまれている。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")10月は、バカボンが山梨のイベントに行っており、不在でmaylee1人で番組を行った事がある。その際、TRAFFIC担当の森下さんからフォローが入ったことがある。
-  - 2006年[3月11日](../Page/3月11日.md "wikilink")に[SURFACE](https://ja.wikipedia.org/wiki/SURFACE "wikilink")がゲスト出演した際に居酒屋トークのようなものを繰り広げ、ゲスト枠過去最高出演時間を記録、さらに [2007年](../Page/2007年.md "wikilink")[5月12日](../Page/5月12日.md "wikilink")にSURFACEの椎名慶治が一人で出演した際に、「[Wikipediaに書かれた](https://ja.wikipedia.org/wiki/ウィキペディア "wikilink")」と話しながらも、再度50分以上に渡りプロモーションと関係ない部分が殆どを占めるトークを繰り広げた。その後、2010年[5月1日](../Page/5月1日.md "wikilink")に出演した際も、「またWikipediaに書かれちゃう」と話しながらも、番組の50分以上をほぼプロモーションと関係ないトークで進行させた。その際、今回がゲスト枠の最長時間記録であろうとの会話がなされている。
+  - [2005年](../Page/2005年.md "wikilink")10月は、バカボンが山梨のイベントに行っており、不在でmaylee1人で番組を行った事がある。その際、TRAFFIC担当の森下さんからフォローが入ったことがある。
+  - 2006年[3月11日](../Page/3月11日.md "wikilink")に[SURFACE](../Page/SURFACE.md "wikilink")がゲスト出演した際に居酒屋トークのようなものを繰り広げ、ゲスト枠過去最高出演時間を記録、さらに [2007年](../Page/2007年.md "wikilink")[5月12日](../Page/5月12日.md "wikilink")にSURFACEの椎名慶治が一人で出演した際に、「[Wikipediaに書かれた](../Page/ウィキペディア.md "wikilink")」と話しながらも、再度50分以上に渡りプロモーションと関係ない部分が殆どを占めるトークを繰り広げた。その後、2010年[5月1日](../Page/5月1日.md "wikilink")に出演した際も、「またWikipediaに書かれちゃう」と話しながらも、番組の50分以上をほぼプロモーションと関係ないトークで進行させた。その際、今回がゲスト枠の最長時間記録であろうとの会話がなされている。
   - バカボン不在の為に[柴田聡](../Page/柴田聡.md "wikilink")が代役で出演した際、ドッキリとして[玉川美沙](../Page/玉川美沙.md "wikilink")が逆電で登場したことがある。mayleeが玉川になかなか気づかず、柴田のヒントでやっと分かった。
-  - 2010年11月13日の放送で、山口の代役で[杜野まこ](https://ja.wikipedia.org/wiki/杜野まこ "wikilink")が出演した。番組中「デビュー直前の杜野まこから[居酒屋](https://ja.wikipedia.org/wiki/居酒屋 "wikilink")で[サイン](../Page/サイン.md "wikilink")をもらった」というリスナーからの投稿があった。杜野はこの投稿を事実と語り、感動していた。しかし、一緒に居酒屋に行った人のことを「親戚」としか語らず、自分との関係性をぼやかしたため、その後番組内で「彼氏といた」とバカボンやリスナーにいじられていた。
+  - 2010年11月13日の放送で、山口の代役で[杜野まこ](https://ja.wikipedia.org/wiki/杜野まこ "wikilink")が出演した。番組中「デビュー直前の杜野まこから[居酒屋](../Page/居酒屋.md "wikilink")で[サイン](../Page/サイン.md "wikilink")をもらった」というリスナーからの投稿があった。杜野はこの投稿を事実と語り、感動していた。しかし、一緒に居酒屋に行った人のことを「親戚」としか語らず、自分との関係性をぼやかしたため、その後番組内で「彼氏といた」とバカボンやリスナーにいじられていた。
 
 <!-- end list -->
 
@@ -225,7 +225,7 @@
   - 2011年8月の放送では、HITS\! THE 東北SPECIALと題して、東北地方の話題中心で放送した。
   - 2014年4月19日放送のあまがみ神社では、投稿者の本名をお題と勘違いし読み上げた。このようなことは番組史上初であるとバカボンが述べている。
   - 山口と[GOGOMONZ](https://ja.wikipedia.org/wiki/GOGOMONZ "wikilink")の前セカンドパーソナリティ―[横田かおり](https://ja.wikipedia.org/wiki/横田かおり "wikilink")の[天然ボケ](../Page/天然ボケ.md "wikilink")っぷりがよく似ていたため、HITS\! THE TOWN と GOGOMONZ の区別がつきにくいと、リスナーから度々ネタにされていた。
-  - 2017年5月13日放送のあまがみ神社で『[エマニュエル・マクロン](https://ja.wikipedia.org/wiki/エマニュエル・マクロン "wikilink")』を読み上げた際に、実際のスタジオでの仮名読みは余分な一文字『[ん](../Page/ん.md "wikilink")』を入れた以外問題なかったにもかかわらず、山口特有の滑舌の悪さで[女性器](../Page/女性器.md "wikilink")の[俗語に聞こえる様な箇所があった](https://ja.wikipedia.org/wiki/まんこ "wikilink")。直後に鬼塚の必死なフォローが入り「[あっぶねぇ](../Page/放送事故.md "wikilink")。[タイムフリーで聴いてみよう](https://ja.wikipedia.org/wiki/radiko "wikilink")」と言わしめた。
+  - 2017年5月13日放送のあまがみ神社で『[エマニュエル・マクロン](https://ja.wikipedia.org/wiki/エマニュエル・マクロン "wikilink")』を読み上げた際に、実際のスタジオでの仮名読みは余分な一文字『[ん](../Page/ん.md "wikilink")』を入れた以外問題なかったにもかかわらず、山口特有の滑舌の悪さで[女性器](../Page/女性器.md "wikilink")の[俗語に聞こえる様な箇所があった](../Page/まんこ.md "wikilink")。直後に鬼塚の必死なフォローが入り「[あっぶねぇ](../Page/放送事故.md "wikilink")。[タイムフリーで聴いてみよう](https://ja.wikipedia.org/wiki/radiko "wikilink")」と言わしめた。
   - [2018年](../Page/2018年.md "wikilink")（[平成](../Page/平成.md "wikilink")30年）[1月28日](../Page/1月28日.md "wikilink")（[日曜日](../Page/日曜日.md "wikilink")）には、[NHKさいたま放送局](../Page/NHKさいたま放送局.md "wikilink")とのコラボレーションイベント『NACKに初恋！埼玉ラジオフェス』が[埼玉県](../Page/埼玉県.md "wikilink")[越谷市](https://ja.wikipedia.org/wiki/越谷市 "wikilink")の[イオンレイクタウン](../Page/イオンレイクタウン.md "wikilink")で公開生放送で開催され、あまがみ神社のコーナーを、[NHKアナウンサーの](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[與芝由三栄](../Page/與芝由三栄.md "wikilink")が読み上げに挑戦した。この時は、與芝が[NHKアナウンサーという事で](../Page/NHKのアナウンサー一覧.md "wikilink")、[早口言葉](../Page/早口言葉.md "wikilink")のお題も出された。
   - [2019年](../Page/2019年.md "wikilink")（[令和](https://ja.wikipedia.org/wiki/令和 "wikilink")元年）[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")の放送は、[台風19号の接近による暴風雨に伴い](https://ja.wikipedia.org/wiki/令和元年台風第19号 "wikilink")、[埼玉工業大学](../Page/埼玉工業大学.md "wikilink")からの出張公開生放送を中止して、[JACK大宮](https://ja.wikipedia.org/wiki/JACK大宮 "wikilink")のNACK5本社スタジオから放送した（12:55 - 17:55）。
 
@@ -246,7 +246,7 @@
 
 「Nutty Radio Show THE魂」とのスタッフの共通が多い。
 
-  - チーフディレクター：[菊池淳介](https://ja.wikipedia.org/wiki/菊池淳介 "wikilink")（きっくん）
+  - チーフディレクター：[菊池淳介](../Page/菊池淳介.md "wikilink")（きっくん）
     「Nutty Radio Show THE魂」のチーフディレクター・水曜のディレクターも担当。
   - ディレクター：高島くん
   - 構成作家：宮原心（みやちゃん）

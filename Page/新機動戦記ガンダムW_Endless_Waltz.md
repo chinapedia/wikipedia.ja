@@ -21,8 +21,8 @@
 
 ## 主要登場人物
 
-  - [ヒイロ・ユイ](https://ja.wikipedia.org/wiki/ヒイロ・ユイ "wikilink")（声 - [緑川光](../Page/緑川光.md "wikilink")）
-  - [リリーナ・ドーリアン](https://ja.wikipedia.org/wiki/リリーナ・ドーリアン "wikilink")（リリーナ・ピースクラフト）（声 - [矢島晶子](../Page/矢島晶子.md "wikilink")）
+  - [ヒイロ・ユイ](../Page/ヒイロ・ユイ.md "wikilink")（声 - [緑川光](../Page/緑川光.md "wikilink")）
+  - [リリーナ・ドーリアン](../Page/リリーナ・ドーリアン.md "wikilink")（リリーナ・ピースクラフト）（声 - [矢島晶子](../Page/矢島晶子.md "wikilink")）
   - [デュオ・マックスウェル](../Page/デュオ・マックスウェル.md "wikilink")（声 - [関俊彦](../Page/関俊彦.md "wikilink")）
   - [トロワ・バートン](../Page/トロワ・バートン.md "wikilink")（声 - [中原茂](../Page/中原茂.md "wikilink")）
   - [カトル・ラバーバ・ウィナー](../Page/カトル・ラバーバ・ウィナー.md "wikilink")（声 - [折笠愛](../Page/折笠愛.md "wikilink")）
@@ -30,7 +30,7 @@
   - [ゼクス・マーキス](../Page/ゼクス・マーキス.md "wikilink")（ミリアルド・ピースクラフト）（声 - [子安武人](../Page/子安武人.md "wikilink")）
   - [ルクレツィア・ノイン](../Page/ルクレツィア・ノイン.md "wikilink")（声 - [横山智佐](../Page/横山智佐.md "wikilink")）
   - [マリーメイア・クシュリナーダ](https://ja.wikipedia.org/wiki/新機動戦記ガンダムWの登場人物#マリーメイア・クシュリナーダ "wikilink")（声 - [佐久間レイ](../Page/佐久間レイ.md "wikilink")）
-  - [デキム・バートン](https://ja.wikipedia.org/wiki/新機動戦記ガンダムWの登場人物#デキム・バートン "wikilink")（声 - [依田英助](https://ja.wikipedia.org/wiki/依田英助 "wikilink")）
+  - [デキム・バートン](https://ja.wikipedia.org/wiki/新機動戦記ガンダムWの登場人物#デキム・バートン "wikilink")（声 - [依田英助](../Page/依田英助.md "wikilink")）
   - [真のトロワ・バートン](https://ja.wikipedia.org/wiki/新機動戦記ガンダムWの登場人物#真のトロワ・バートン "wikilink")（声 - [中村秀利](../Page/中村秀利.md "wikilink")）
   - [キャスリン・ブルーム](https://ja.wikipedia.org/wiki/新機動戦記ガンダムWの登場人物#キャスリン・ブルーム "wikilink")（声 - [杉本沙織](../Page/杉本沙織.md "wikilink")）
   - [ドロシー・カタロニア](../Page/ドロシー・カタロニア.md "wikilink")（声 - [松井菜桜子](../Page/松井菜桜子.md "wikilink")、『特別篇』のみ登場）
@@ -67,7 +67,7 @@
   -
 
       -
-        作詞：[永野椎菜](https://ja.wikipedia.org/wiki/永野椎菜 "wikilink")、作曲：[高山みなみ](../Page/高山みなみ.md "wikilink")、編曲：永野椎菜、高山みなみ、唄：[TWO-MIX](../Page/TWO-MIX.md "wikilink")
+        作詞：[永野椎菜](../Page/永野椎菜.md "wikilink")、作曲：[高山みなみ](../Page/高山みなみ.md "wikilink")、編曲：永野椎菜、高山みなみ、唄：[TWO-MIX](../Page/TWO-MIX.md "wikilink")
 
 <!-- end list -->
 
@@ -94,7 +94,7 @@ OVA版のヒットを受けてOVA版全3話を劇場公開用に再編集し、O
 
 この2作を合わせてガンダム生誕20周年記念作品とし『**GUNDAM THE MOVIE（ガンダム・ザ・ムービー）**』と銘打たれている。特別前売券として、『ガンダムW』からヒイロ、デュオ、トロワ、カトル、五飛の各5種と『第08MS小隊』からシローの1種の全6種類から選べる長さ140cmのタペストリーの付いた前売りチケットが、「チケタペ」として各2,800円で発売された。『ガンダムW』のタペストリーのみ並べると絵が繋がって見える仕様になっている。
 
-また劇場公開日当日はガンダム20周年記念イベント『ガンダムビッグバン宣言』がパシフィコ横浜で開催され、上映映画館とこのイベント限定で1/144HGウイングガンダムゼロ（クリアー版）が販売された\[1\]。 CS放送局はもちろんのこと、『[機動戦士ガンダムSEED DESTINY](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_DESTINY "wikilink")』や『[機動戦士ガンダム00](https://ja.wikipedia.org/wiki/機動戦士ガンダム00 "wikilink")』の放送開始に合わせ、[毎日放送](../Page/毎日放送.md "wikilink")（関西ローカル）でも繰り返しオンエアされた。
+また劇場公開日当日はガンダム20周年記念イベント『ガンダムビッグバン宣言』がパシフィコ横浜で開催され、上映映画館とこのイベント限定で1/144HGウイングガンダムゼロ（クリアー版）が販売された\[1\]。 CS放送局はもちろんのこと、『[機動戦士ガンダムSEED DESTINY](../Page/機動戦士ガンダムSEED_DESTINY.md "wikilink")』や『[機動戦士ガンダム00](https://ja.wikipedia.org/wiki/機動戦士ガンダム00 "wikilink")』の放送開始に合わせ、[毎日放送](../Page/毎日放送.md "wikilink")（関西ローカル）でも繰り返しオンエアされた。
 
 2020年1月10日より機動戦士ガンダム40周年プロジェクト『ガンダム映像新体験TOUR』として特別篇がTCX（TOHO独自企画ラージスクリーン）で劇場上映\[2\]。
 
@@ -106,7 +106,7 @@ OVA版のヒットを受けてOVA版全3話を劇場公開用に再編集し、O
   - 作画監督：菱沼義仁
   - メカニカル作画監督：筱雅律
   - 主題歌：「[LAST IMPRESSION](../Page/LAST_IMPRESSION.md "wikilink")」
-      - 作詞：[永野椎菜](https://ja.wikipedia.org/wiki/永野椎菜 "wikilink")／作曲：[高山みなみ](../Page/高山みなみ.md "wikilink")／編曲・唄：[TWO-MIX](../Page/TWO-MIX.md "wikilink")
+      - 作詞：[永野椎菜](../Page/永野椎菜.md "wikilink")／作曲：[高山みなみ](../Page/高山みなみ.md "wikilink")／編曲・唄：[TWO-MIX](../Page/TWO-MIX.md "wikilink")
 
 ### 漫画版
 

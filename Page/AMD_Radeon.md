@@ -7,13 +7,13 @@
 
 ## 歴史・概要
 
-[180px](https://ja.wikipedia.org/wiki/ファイル:ATI_Rage128_GL_PCI.jpg "wikilink") Radeonは[ATI Technologies社のビデオチップ](../Page/ATI_Technologies.md "wikilink")「[Rage](../Page/ATI_Rage.md "wikilink")」シリーズの後継製品で、当時性能面で先んじていた[NVIDIA](../Page/NVIDIA.md "wikilink")社の[GeForceシリーズの対抗製品として登場](../Page/NVIDIA_GeForce.md "wikilink")。しばらくは苦戦が続いたが、Radeon 8500で並び、そしてRadeon 9700 Proで一歩抜きん出た。一時は奪われたシェアを取り戻した以降も、より高速な [PCI Express](https://ja.wikipedia.org/wiki/PCI_Express "wikilink") バスの採用や[マルチGPU環境を実現する](https://ja.wikipedia.org/wiki/マルチプロセッシング "wikilink")[CrossFireなど技術向上に余念がなく](https://ja.wikipedia.org/wiki/ATI_CrossFire "wikilink")、同じく性能向上のめざましいNVIDIAのGeForceシリーズとは互いに抜きつ抜かれつの競争を繰り広げている。
+[180px](https://ja.wikipedia.org/wiki/ファイル:ATI_Rage128_GL_PCI.jpg "wikilink") Radeonは[ATI Technologies社のビデオチップ](../Page/ATI_Technologies.md "wikilink")「[Rage](../Page/ATI_Rage.md "wikilink")」シリーズの後継製品で、当時性能面で先んじていた[NVIDIA](../Page/NVIDIA.md "wikilink")社の[GeForceシリーズの対抗製品として登場](../Page/NVIDIA_GeForce.md "wikilink")。しばらくは苦戦が続いたが、Radeon 8500で並び、そしてRadeon 9700 Proで一歩抜きん出た。一時は奪われたシェアを取り戻した以降も、より高速な [PCI Express](../Page/PCI_Express.md "wikilink") バスの採用や[マルチGPU環境を実現する](../Page/マルチプロセッシング.md "wikilink")[CrossFireなど技術向上に余念がなく](https://ja.wikipedia.org/wiki/ATI_CrossFire "wikilink")、同じく性能向上のめざましいNVIDIAのGeForceシリーズとは互いに抜きつ抜かれつの競争を繰り広げている。
 
-対応する主なリアルタイム3DグラフィックスAPIは[Microsoft DirectX](https://ja.wikipedia.org/wiki/Microsoft_DirectX "wikilink") ([Direct3D](https://ja.wikipedia.org/wiki/Direct3D "wikilink")) と[OpenGL](../Page/OpenGL.md "wikilink")だが、[Graphics Core Next](https://ja.wikipedia.org/wiki/Graphics_Core_Next "wikilink") (GCN) 世代のRadeonでは[Mantleと呼ばれるAMD独自のローレベルAPIにも対応している](https://ja.wikipedia.org/wiki/Mantle_\(API\) "wikilink")\[5\]。なお主にDirectXに最適化されているRadeonに対して、OpenGLに最適化された業務用途・[HPC向けの](../Page/高性能計算.md "wikilink")[AMD FirePro](https://ja.wikipedia.org/wiki/AMD_FirePro "wikilink") / AMD Radeon Pro / AMD Radeon Instinctシリーズ製品も存在する。
+対応する主なリアルタイム3DグラフィックスAPIは[Microsoft DirectX](https://ja.wikipedia.org/wiki/Microsoft_DirectX "wikilink") ([Direct3D](../Page/Direct3D.md "wikilink")) と[OpenGL](../Page/OpenGL.md "wikilink")だが、[Graphics Core Next](https://ja.wikipedia.org/wiki/Graphics_Core_Next "wikilink") (GCN) 世代のRadeonでは[Mantleと呼ばれるAMD独自のローレベルAPIにも対応している](https://ja.wikipedia.org/wiki/Mantle_\(API\) "wikilink")\[5\]。なお主にDirectXに最適化されているRadeonに対して、OpenGLに最適化された業務用途・[HPC向けの](../Page/高性能計算.md "wikilink")[AMD FirePro](https://ja.wikipedia.org/wiki/AMD_FirePro "wikilink") / AMD Radeon Pro / AMD Radeon Instinctシリーズ製品も存在する。
 
 [PlayStation 4や](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")[Xbox Oneに搭載されている](https://ja.wikipedia.org/wiki/Xbox_One "wikilink")[AMD APUには](https://ja.wikipedia.org/wiki/AMD_APU "wikilink")、GCNアーキテクチャのRadeonベースGPUが搭載されている\[6\] \[7\]。
 
-一方で、主に3Dグラフィックスのためのものだった[シェーダー](../Page/シェーダー.md "wikilink")機能を[動画](../Page/動画.md "wikilink")再生の支援に転用する技術の開発にも注力している。[マイクロソフト](../Page/マイクロソフト.md "wikilink")の [DirectX Video Acceleration](https://ja.wikipedia.org/wiki/DirectX_Video_Acceleration "wikilink") (DXVA) にも対応し、[メディアプレーヤー](../Page/メディアプレーヤー.md "wikilink")ソフトとの連携により高画質・高品質な [DVD](../Page/DVD.md "wikilink") ([MPEG-2](../Page/MPEG-2.md "wikilink")) や[DivX](https://ja.wikipedia.org/wiki/DivX "wikilink")、[Windows Media Video](https://ja.wikipedia.org/wiki/Windows_Media_Video "wikilink") などの動画を再生する際の [CPU](../Page/CPU.md "wikilink") の負担を大幅に軽減させた。[UVD](https://ja.wikipedia.org/wiki/Unified_Video_Decoder "wikilink") や [AVIVO](https://ja.wikipedia.org/wiki/AVIVO "wikilink") はこうした技術をさらに発展させたものである。Catalyst Omega (14.12) ドライバーからはにも対応している\[8\]。
+一方で、主に3Dグラフィックスのためのものだった[シェーダー](../Page/シェーダー.md "wikilink")機能を[動画](../Page/動画.md "wikilink")再生の支援に転用する技術の開発にも注力している。[マイクロソフト](../Page/マイクロソフト.md "wikilink")の [DirectX Video Acceleration](https://ja.wikipedia.org/wiki/DirectX_Video_Acceleration "wikilink") (DXVA) にも対応し、[メディアプレーヤー](../Page/メディアプレーヤー.md "wikilink")ソフトとの連携により高画質・高品質な [DVD](../Page/DVD.md "wikilink") ([MPEG-2](../Page/MPEG-2.md "wikilink")) や[DivX](https://ja.wikipedia.org/wiki/DivX "wikilink")、[Windows Media Video](../Page/Windows_Media_Video.md "wikilink") などの動画を再生する際の [CPU](../Page/CPU.md "wikilink") の負担を大幅に軽減させた。[UVD](https://ja.wikipedia.org/wiki/Unified_Video_Decoder "wikilink") や [AVIVO](https://ja.wikipedia.org/wiki/AVIVO "wikilink") はこうした技術をさらに発展させたものである。Catalyst Omega (14.12) ドライバーからはにも対応している\[8\]。
 
 またDirectX 11 ([DirectCompute](https://ja.wikipedia.org/wiki/DirectCompute "wikilink")) や、[OpenCL](../Page/OpenCL.md "wikilink")に対応している製品は、[AMD Streamテクノロジーを基盤として汎用演算用途](https://ja.wikipedia.org/wiki/AMD_Stream "wikilink")（[GPGPU](https://ja.wikipedia.org/wiki/GPGPU "wikilink")）に利用することもできる。
 
@@ -21,7 +21,7 @@
 
 Radeonを採用したビデオカードは多くのメーカーから販売されている。テレビチューナを搭載し、ビデオキャプチャ機能を備えた製品が「ALL-IN-WONDER」である。
 
-伝統的に大手PCメーカーへの大量供給に強く、メーカー製PCにおいて幅広いシェアを築いている。主に、[Apple](../Page/アップル_\(企業\).md "wikilink")、[ASUS](../Page/ASUS.md "wikilink")、[DELL](../Page/デル.md "wikilink")、[MSI](../Page/Micro-Star_International.md "wikilink")、[NEC](../Page/日本電気.md "wikilink")、[SONY](../Page/ソニー.md "wikilink")、[エイサー](https://ja.wikipedia.org/wiki/acer "wikilink") ([Gateway](../Page/ゲートウェイ_\(PCメーカー\).md "wikilink"))、[エプソンダイレクト](https://ja.wikipedia.org/wiki/エプソンダイレクト "wikilink")、[ヒューレット・パッカード](../Page/ヒューレット・パッカード.md "wikilink")、[富士通](../Page/富士通.md "wikilink")、[レノボ](../Page/レノボ.md "wikilink")製のデスクトップパソコン、ノートパソコンにおいてRadeonを採用したビデオカードが搭載されている。
+伝統的に大手PCメーカーへの大量供給に強く、メーカー製PCにおいて幅広いシェアを築いている。主に、[Apple](../Page/アップル_\(企業\).md "wikilink")、[ASUS](../Page/ASUS.md "wikilink")、[DELL](../Page/デル.md "wikilink")、[MSI](../Page/Micro-Star_International.md "wikilink")、[NEC](../Page/日本電気.md "wikilink")、[SONY](../Page/ソニー.md "wikilink")、[エイサー](https://ja.wikipedia.org/wiki/acer "wikilink") ([Gateway](../Page/ゲートウェイ_\(PCメーカー\).md "wikilink"))、[エプソンダイレクト](../Page/エプソンダイレクト.md "wikilink")、[ヒューレット・パッカード](../Page/ヒューレット・パッカード.md "wikilink")、[富士通](../Page/富士通.md "wikilink")、[レノボ](../Page/レノボ.md "wikilink")製のデスクトップパソコン、ノートパソコンにおいてRadeonを採用したビデオカードが搭載されている。
 
 GPUの半導体製造は[ファウンドリ](../Page/ファウンドリ.md "wikilink")企業へ発注しており、台湾を拠点とする[TSMC](../Page/TSMC.md "wikilink")\[9\]や[UMC](../Page/UMC.md "wikilink")が担っている。また、AMDの半導体製造部門が独立した[GLOBALFOUNDRIES](https://ja.wikipedia.org/wiki/GLOBALFOUNDRIES "wikilink")にも発注しているとされる\[10\]。
 
@@ -599,7 +599,7 @@ GPUの半導体製造は[ファウンドリ](../Page/ファウンドリ.md "wiki
   - RV351LX
     RV350を0.11μmで製造することで低コスト化を行ったもの。X1050を冠していてもAGPネイティブとなる。
   - RV370
-    RV360を、[PCI Expressに対応させ](https://ja.wikipedia.org/wiki/PCI_Express "wikilink")、0.11μmで製造することで低コスト化を行ったもの。
+    RV360を、[PCI Expressに対応させ](../Page/PCI_Express.md "wikilink")、0.11μmで製造することで低コスト化を行ったもの。
   - RV380
     RV360を、PCI Expressに対応させ、同時に高クロック化したもの。
 

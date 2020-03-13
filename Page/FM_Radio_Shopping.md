@@ -1,7 +1,7 @@
 > この記事は[FM Radio Shopping](https://ja.wikipedia.org/wiki/FM_Radio_Shopping)から翻訳されています。
 
 
-**FM Radio Shopping**（エフエム・ラジオ・ショッピング）は、[FM放送局各社で放送されていた](../Page/超短波放送.md "wikilink")[ラジオショッピング](https://ja.wikipedia.org/wiki/ラジオショッピング "wikilink")番組である。制作は[ジャパンエフエムネットワーク](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")（JFNC）。
+**FM Radio Shopping**（エフエム・ラジオ・ショッピング）は、[FM放送局各社で放送されていた](../Page/超短波放送.md "wikilink")[ラジオショッピング](../Page/ラジオショッピング.md "wikilink")番組である。制作は[ジャパンエフエムネットワーク](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")（JFNC）。
 
 ## 概要
 
@@ -11,7 +11,7 @@
 
 また、[祝日及び年末年始](../Page/国民の祝日.md "wikilink")（[12月29日](../Page/12月29日.md "wikilink") - [1月3日](../Page/1月3日.md "wikilink")）は放送されない。
 
-なお、「総通」が2012年11月9日に[大阪地方裁判所](https://ja.wikipedia.org/wiki/大阪地方裁判所 "wikilink")へ[民事再生法](../Page/民事再生法.md "wikilink")の適用を申請した後も番組は継続中であったが、同年12月27日をもって終了した。
+なお、「総通」が2012年11月9日に[大阪地方裁判所](../Page/大阪地方裁判所.md "wikilink")へ[民事再生法](../Page/民事再生法.md "wikilink")の適用を申請した後も番組は継続中であったが、同年12月27日をもって終了した。
 
 このラジオショッピングの枠自体は継続しており「[はぴねすくらぶ](https://ja.wikipedia.org/wiki/はぴねすくらぶ "wikilink")ラジオショッピング」をへて「JFNラジオショッピング」を放送している（*[ジャパンエフエムネットワーク (企業)\#JFNC制作の主な番組（JFNCオリジナルのラジオショッピング）を参照](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\)#JFNC制作の主な番組（JFNCオリジナルのラジオショッピング） "wikilink")*）。
 
@@ -457,7 +457,7 @@
 
 [Category:JFNCの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:JFNCの帯番組の歴史 "wikilink") [Category:ラジオの通販番組](https://ja.wikipedia.org/wiki/Category:ラジオの通販番組 "wikilink") [Category:ラジオのミニ番組](https://ja.wikipedia.org/wiki/Category:ラジオのミニ番組 "wikilink")
 
-1.  オリジナルでは「[ラジオリビング](https://ja.wikipedia.org/wiki/ラジオリビング "wikilink")」（[ニッポン放送](../Page/ニッポン放送.md "wikilink")）もあるが、この部分が 異なる。
+1.  オリジナルでは「[ラジオリビング](../Page/ラジオリビング.md "wikilink")」（[ニッポン放送](../Page/ニッポン放送.md "wikilink")）もあるが、この部分が 異なる。
 2.  [天皇誕生日](https://ja.wikipedia.org/wiki/天皇誕生日 "wikilink")（[平成](../Page/平成.md "wikilink")）に当たる祝日（振り替え休日を含む）に当たる場合はしばらくは放送がなかったが2000年代後半ごろから放送するようになった。
 3.  2012年3月までは16:21 - 16:26で放送していた。
 4.  とはいえ、時間帯ごとの挨拶があるわけではなく「FM Radio Shopping、●●（パーソナリティの名前）です。」の挨拶は共通化されていた 。

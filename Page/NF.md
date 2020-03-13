@@ -10,7 +10,7 @@
       - [壊死性筋膜炎](../Page/壊死性筋膜炎.md "wikilink") ()
   - [新基礎集合論](https://ja.wikipedia.org/wiki/新基礎集合論 "wikilink") ()
   - 地理
-      - [ノーフォーク島](https://ja.wikipedia.org/wiki/ノーフォーク島 "wikilink") () の[ISO国名コード](https://ja.wikipedia.org/wiki/ISO国名コード "wikilink")。
+      - [ノーフォーク島](../Page/ノーフォーク島.md "wikilink") () の[ISO国名コード](https://ja.wikipedia.org/wiki/ISO国名コード "wikilink")。
       - [ニューファンドランド・ラブラドール州](../Page/ニューファンドランド・ラブラドール州.md "wikilink") () - カナダの州。
   - 電子用語
       - [雑音指数](https://ja.wikipedia.org/wiki/雑音指数 "wikilink") () - 通信工学での指標。
@@ -23,7 +23,7 @@
   - [ヒュンダイの](../Page/現代自動車.md "wikilink")[Dセグメント](../Page/Dセグメント.md "wikilink")[セダン](../Page/セダン.md "wikilink")、[ソナタの5代目モデルの型式名](https://ja.wikipedia.org/wiki/ヒュンダイ・ソナタ#5代目（NF型、2004年-）通称・NFソナタ "wikilink")、及び通称｢NFソナタ｣。 より。
   - [名古屋市営バス](../Page/名古屋市営バス.md "wikilink")で、[三菱ふそう製の一般大型](../Page/三菱ふそうトラック・バス.md "wikilink")[ノンステップバス](../Page/ノンステップバス.md "wikilink")を表す（**N**on-step **F**uso）[管理番号の前につく](https://ja.wikipedia.org/wiki/名古屋市営バス#管理番号 "wikilink")[ローマ字](../Page/ラテン文字.md "wikilink")。
   - [NAVYFIELD](https://ja.wikipedia.org/wiki/NAVYFIELD "wikilink") - 韓国のオンライン海戦ゲーム。
-  - [NFマウント](https://ja.wikipedia.org/wiki/NFマウント "wikilink") - 監視カメラ、工業用カメラ用で使われる[レンズマウント](https://ja.wikipedia.org/wiki/レンズマウント "wikilink")の規格の一つ。
+  - [NFマウント](https://ja.wikipedia.org/wiki/NFマウント "wikilink") - 監視カメラ、工業用カメラ用で使われる[レンズマウント](../Page/レンズマウント.md "wikilink")の規格の一つ。
   - [新フラン](https://ja.wikipedia.org/wiki/新フラン "wikilink") () - 1960年のデノミ後のフランスの通貨。
   - [ノルマン・フランス語](https://ja.wikipedia.org/wiki/ノルマン・フランス語 "wikilink") () - フランスの言語。
   - [日本財団](../Page/日本財団.md "wikilink")の英文略称（Nippon Foundation）。
@@ -38,4 +38,4 @@
 
 ## nf
 
-  - [.nf](https://ja.wikipedia.org/wiki/.nf "wikilink") - [ノーフォーク島](https://ja.wikipedia.org/wiki/ノーフォーク島 "wikilink") () の[国別ドメイン](https://ja.wikipedia.org/wiki/国別ドメイン "wikilink")。
+  - [.nf](https://ja.wikipedia.org/wiki/.nf "wikilink") - [ノーフォーク島](../Page/ノーフォーク島.md "wikilink") () の[国別ドメイン](https://ja.wikipedia.org/wiki/国別ドメイン "wikilink")。

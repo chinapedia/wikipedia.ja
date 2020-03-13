@@ -3,13 +3,13 @@
 
 **BAD TUNING**（バッド・チューニング）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")である[沢田研二](../Page/沢田研二.md "wikilink")の14作目となるオリジナル[アルバム](../Page/アルバム.md "wikilink")。
 
-[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[7月21日](../Page/7月21日.md "wikilink")に[ポリドール](../Page/ポリドール・レコード.md "wikilink") （現[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")）から[LP盤でリリースされた](../Page/レコード.md "wikilink")。
+[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[7月21日](../Page/7月21日.md "wikilink")に[ポリドール](../Page/ポリドール・レコード.md "wikilink") （現[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）から[LP盤でリリースされた](../Page/レコード.md "wikilink")。
 
-その後[CD化され](../Page/コンパクトディスク.md "wikilink")、[1991年](../Page/1991年.md "wikilink")と[1996年](../Page/1996年.md "wikilink")に[東芝EMIから](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")、また[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")には[ユニバーサルミュージックから再リリースされている](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。
+その後[CD化され](../Page/コンパクトディスク.md "wikilink")、[1991年](../Page/1991年.md "wikilink")と[1996年](../Page/1996年.md "wikilink")に[東芝EMIから](../Page/EMIミュージック・ジャパン.md "wikilink")、また[2005年](../Page/2005年.md "wikilink")には[ユニバーサルミュージックから再リリースされている](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
 
 ## 解説
 
-本作は前作同様[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")など近未来を意識した楽曲が多く、[早川タケジ](https://ja.wikipedia.org/wiki/早川タケジ "wikilink")のデザインによる[SF的](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")、中性的なデザインもそうしたイメージを盛り立てている作品である。またスタジオレコーディングとライブレコーディングが入り混じるユニークな制作方法を用いている。作詞では[糸井重里](../Page/糸井重里.md "wikilink")の他に、[岡田冨美子](https://ja.wikipedia.org/wiki/岡田冨美子 "wikilink")、島武実、[浅野裕子](../Page/浅野裕子.md "wikilink")、[大津彰と初顔合わせの作詞家が多い](../Page/大津あきら.md "wikilink")。作曲では[鈴木キサブロー](../Page/鈴木キサブロー.md "wikilink")、[宇崎竜童](https://ja.wikipedia.org/wiki/宇崎竜童 "wikilink")が同じく初顔合わせとなっている。編曲は前作に引き続き全て[後藤次利](https://ja.wikipedia.org/wiki/後藤次利 "wikilink")。演奏はライブ録音に[ALWAYSが参加している](https://ja.wikipedia.org/wiki/沢田研二#バックバンドの変遷 "wikilink")。
+本作は前作同様[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")など近未来を意識した楽曲が多く、[早川タケジ](https://ja.wikipedia.org/wiki/早川タケジ "wikilink")のデザインによる[SF的](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")、中性的なデザインもそうしたイメージを盛り立てている作品である。またスタジオレコーディングとライブレコーディングが入り混じるユニークな制作方法を用いている。作詞では[糸井重里](../Page/糸井重里.md "wikilink")の他に、[岡田冨美子](../Page/岡田冨美子.md "wikilink")、島武実、[浅野裕子](../Page/浅野裕子.md "wikilink")、[大津彰と初顔合わせの作詞家が多い](../Page/大津あきら.md "wikilink")。作曲では[鈴木キサブロー](../Page/鈴木キサブロー.md "wikilink")、[宇崎竜童](../Page/宇崎竜童.md "wikilink")が同じく初顔合わせとなっている。編曲は前作に引き続き全て[後藤次利](../Page/後藤次利.md "wikilink")。演奏はライブ録音に[ALWAYSが参加している](https://ja.wikipedia.org/wiki/沢田研二#バックバンドの変遷 "wikilink")。
 
 ## 収録曲
 
@@ -46,7 +46,7 @@
 <!-- end list -->
 
   - 佐藤準 - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")
-  - 後藤次利 - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - 後藤次利 - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
   - [林立夫](../Page/林立夫.md "wikilink") - [ドラムス](../Page/ドラムセット.md "wikilink")
   - 今剛 - [エレクトリック・ギター](../Page/エレクトリック・ギター.md "wikilink")
   - [鈴木茂](../Page/鈴木茂_\(ギタリスト\).md "wikilink") - エレクトリック・ギター
@@ -61,7 +61,7 @@
 
 <!-- end list -->
 
-  - [羽田健太郎](https://ja.wikipedia.org/wiki/羽田健太郎 "wikilink") - キーボード
+  - [羽田健太郎](../Page/羽田健太郎.md "wikilink") - キーボード
   - [西本明](https://ja.wikipedia.org/wiki/西本明 "wikilink") - キーボード
   - 後藤次利 - ベース
   - 滝本季延 - ドラムス

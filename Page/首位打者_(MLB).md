@@ -5,7 +5,7 @@
 
 ## 概説
 
-首位打者は、レギュラーシーズン1年間を通じて最も[打率](../Page/打率.md "wikilink")の高い打者に与えられるタイトルで、アメリカンリーグ、ナショナルリーグの各リーグ毎に与えられる。資格が明確に定められていない（非公式ながら概ね出場試合数に拠るとされる）時代、打数に拠る時代、を経て[規定打席](../Page/規定打席.md "wikilink")数以上の打席に立った[打者](https://ja.wikipedia.org/wiki/打者 "wikilink")を対象とするようになる。その後さらに規定が一部変わり、『規定打席数に達しない打者については、規定打席までの不足数（規定打席数－打席数）を打数に加えて計算した打率が最も高ければ、その打者を首位打者として認定する』ようになった。首位打者の規定の変遷により、現在の規定を適用した場合に首位打者に相当する打者と、当時首位打者のタイトルを与えられた打者とが異なる場合もある。
+首位打者は、レギュラーシーズン1年間を通じて最も[打率](../Page/打率.md "wikilink")の高い打者に与えられるタイトルで、アメリカンリーグ、ナショナルリーグの各リーグ毎に与えられる。資格が明確に定められていない（非公式ながら概ね出場試合数に拠るとされる）時代、打数に拠る時代、を経て[規定打席](../Page/規定打席.md "wikilink")数以上の打席に立った[打者](../Page/打者.md "wikilink")を対象とするようになる。その後さらに規定が一部変わり、『規定打席数に達しない打者については、規定打席までの不足数（規定打席数－打席数）を打数に加えて計算した打率が最も高ければ、その打者を首位打者として認定する』ようになった。首位打者の規定の変遷により、現在の規定を適用した場合に首位打者に相当する打者と、当時首位打者のタイトルを与えられた打者とが異なる場合もある。
 
 なお、[1910年](../Page/1910年.md "wikilink")のアメリカンリーグ首位打者に関しては後年の調査で集計の誤りが指摘され、シーズン最高打率は[ナップ・ラジョイ](../Page/ナップ・ラジョイ.md "wikilink")であったことが判明したが、1910年は八百長事件などもあり、その影響もあってか首位打者の変更は認められなかった（[ナップ・ラジョイ](../Page/ナップ・ラジョイ.md "wikilink")参照）。
 
@@ -70,32 +70,32 @@
 | [1946年](../Page/1946年.md "wikilink")                    | スタン・ミュージアル                                                               | STL                                                             |
 | [1947年](../Page/1947年.md "wikilink")                    | [ハリー・ウォーカー](https://ja.wikipedia.org/wiki/ハリー・ウォーカー "wikilink")          | STL‐PHI                                                         |
 | [1948年](../Page/1948年.md "wikilink")                    | スタン・ミュージアル                                                               | STL                                                             |
-| [1949年](../Page/1949年.md "wikilink")                    | [ジャッキー・ロビンソン](https://ja.wikipedia.org/wiki/ジャッキー・ロビンソン "wikilink")      | BRO                                                             |
+| [1949年](../Page/1949年.md "wikilink")                    | [ジャッキー・ロビンソン](../Page/ジャッキー・ロビンソン.md "wikilink")                         | BRO                                                             |
 | [1950年](../Page/1950年.md "wikilink")                    | スタン・ミュージアル                                                               | STL                                                             |
 | [1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink") | スタン・ミュージアル                                                               | STL                                                             |
 | [1952年](../Page/1952年.md "wikilink")                    | スタン・ミュージアル                                                               | STL                                                             |
 | [1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink") | スタン・ミュージアル                                                               | STL                                                             |
 | [1954年](../Page/1954年.md "wikilink")                    | [ウィリー・メイズ](../Page/ウィリー・メイズ.md "wikilink")                               | NYG                                                             |
 | [1955年](../Page/1955年.md "wikilink")                    | [リッチー・アシュバーン](../Page/リッチー・アシュバーン.md "wikilink")                         | PHI                                                             |
-| [1956年](../Page/1956年.md "wikilink")                    | [ハンク・アーロン](https://ja.wikipedia.org/wiki/ハンク・アーロン "wikilink")            | MIL                                                             |
+| [1956年](../Page/1956年.md "wikilink")                    | [ハンク・アーロン](../Page/ハンク・アーロン.md "wikilink")                               | MIL                                                             |
 | [1957年](../Page/1957年.md "wikilink")                    | スタン・ミュージアル                                                               | STL                                                             |
 | [1958年](../Page/1958年.md "wikilink")                    | リッチー・アシュバーン                                                              | PHI                                                             |
 | [1959年](../Page/1959年.md "wikilink")                    | ハンク・アーロン                                                                 | MIL                                                             |
 | [1960年](../Page/1960年.md "wikilink")                    | [ディック・グロート](https://ja.wikipedia.org/wiki/ディック・グロート "wikilink")          | PIT                                                             |
-| [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink") | [ロベルト・クレメンテ](https://ja.wikipedia.org/wiki/ロベルト・クレメンテ "wikilink")        | PIT                                                             |
+| [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink") | [ロベルト・クレメンテ](../Page/ロベルト・クレメンテ.md "wikilink")                           | PIT                                                             |
 | [1962年](../Page/1962年.md "wikilink")                    | [トミー・デービス](https://ja.wikipedia.org/wiki/トミー・デービス_\(外野手\) "wikilink")    | LAD                                                             |
 | [1963年](../Page/1963年.md "wikilink")                    | トミー・デービス                                                                 | LAD                                                             |
 | [1964年](../Page/1964年.md "wikilink")                    | ロベルト・クレメンテ                                                               | PIT                                                             |
 | [1965年](../Page/1965年.md "wikilink")                    | ロベルト・クレメンテ                                                               | PIT                                                             |
-| [1966年](../Page/1966年.md "wikilink")                    | [マティ・アルー](https://ja.wikipedia.org/wiki/マティ・アルー "wikilink")              | PIT                                                             |
+| [1966年](../Page/1966年.md "wikilink")                    | [マティ・アルー](../Page/マティ・アルー.md "wikilink")                                 | PIT                                                             |
 | [1967年](../Page/1967年.md "wikilink")                    | ロベルト・クレメンテ                                                               | PIT                                                             |
 | [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink") | [ピート・ローズ](https://ja.wikipedia.org/wiki/ピート・ローズ "wikilink")              | CIN                                                             |
 | [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink") | ピート・ローズ                                                                  | CIN                                                             |
-| [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink") | [リコ・カーティー](https://ja.wikipedia.org/wiki/リコ・カーティー "wikilink")            | ATL                                                             |
-| [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink") | [ジョー・トーリ](https://ja.wikipedia.org/wiki/ジョー・トーリ "wikilink")              | STL                                                             |
+| [1970年](../Page/1970年.md "wikilink")                    | [リコ・カーティー](https://ja.wikipedia.org/wiki/リコ・カーティー "wikilink")            | ATL                                                             |
+| [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink") | [ジョー・トーリ](../Page/ジョー・トーリ.md "wikilink")                                 | STL                                                             |
 | [1972年](../Page/1972年.md "wikilink")                    | [ビリー・ウィリアムズ](../Page/ビリー・ウィリアムズ.md "wikilink")                           | CHC                                                             |
 | [1973年](../Page/1973年.md "wikilink")                    | ピート・ローズ                                                                  | CIN                                                             |
-| [1974年](../Page/1974年.md "wikilink")                    | [ラルフ・ガー](https://ja.wikipedia.org/wiki/ラルフ・ガー "wikilink")                | ATL                                                             |
+| [1974年](../Page/1974年.md "wikilink")                    | [ラルフ・ガー](../Page/ラルフ・ガー.md "wikilink")                                   | ATL                                                             |
 | [1975年](../Page/1975年.md "wikilink")                    | [ビル・マドロック](https://ja.wikipedia.org/wiki/ビル・マドロック "wikilink")            | CHC                                                             |
 | [1976年](../Page/1976年.md "wikilink")                    | ビル・マドロック                                                                 | CHC                                                             |
 | [1977年](../Page/1977年.md "wikilink")                    | [デーブ・パーカー](../Page/デーブ・パーカー.md "wikilink")                               | PIT                                                             |
@@ -105,7 +105,7 @@
 | [1981年](../Page/1981年.md "wikilink")                    | ビル・マドロック                                                                 | PIT                                                             |
 | [1982年](../Page/1982年.md "wikilink")                    | [アル・オリバー](https://ja.wikipedia.org/wiki/アル・オリバー "wikilink")              | MON                                                             |
 | [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink") | ビル・マドロック                                                                 | PIT                                                             |
-| [1984年](../Page/1984年.md "wikilink")                    | [トニー・グウィン](https://ja.wikipedia.org/wiki/トニー・グウィン "wikilink")            | SD                                                              |
+| [1984年](../Page/1984年.md "wikilink")                    | [トニー・グウィン](../Page/トニー・グウィン.md "wikilink")                               | SD                                                              |
 | [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink") | [ウィリー・マギー](../Page/ウィリー・マギー.md "wikilink")                               | STL                                                             |
 | [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") | [ティム・レインズ](../Page/ティム・レインズ.md "wikilink")                               | MON                                                             |
 | [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink") | トニー・グウィン                                                                 | SD                                                              |
@@ -113,7 +113,7 @@
 | [1989年](../Page/1989年.md "wikilink")                    | トニー・グウィン                                                                 | SD                                                              |
 | [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink") | ウィリー・マギー\[5\]                                                            | STL                                                             |
 | [1991年](../Page/1991年.md "wikilink")                    | [テリー・ペンドルトン](../Page/テリー・ペンドルトン.md "wikilink")                           | ATL                                                             |
-| [1992年](../Page/1992年.md "wikilink")                    | [ゲイリー・シェフィールド](https://ja.wikipedia.org/wiki/ゲイリー・シェフィールド "wikilink")    | SD                                                              |
+| [1992年](../Page/1992年.md "wikilink")                    | [ゲイリー・シェフィールド](../Page/ゲイリー・シェフィールド.md "wikilink")                       | SD                                                              |
 | [1993年](../Page/1993年.md "wikilink")                    | [アンドレス・ガララーガ](../Page/アンドレス・ガララーガ.md "wikilink")                         | COL                                                             |
 | [1994年](../Page/1994年.md "wikilink")                    | トニー・グウィン                                                                 | SD                                                              |
 | [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") | トニー・グウィン                                                                 | SD                                                              |
@@ -123,11 +123,11 @@
 | [1999年](../Page/1999年.md "wikilink")                    | ラリー・ウォーカー                                                                | COL                                                             |
 | [2000年](../Page/2000年.md "wikilink")                    | [トッド・ヘルトン](../Page/トッド・ヘルトン.md "wikilink")                               | COL                                                             |
 | [2001年](../Page/2001年.md "wikilink")                    | ラリー・ウォーカー                                                                | COL                                                             |
-| [2002年](../Page/2002年.md "wikilink")                    | [バリー・ボンズ](https://ja.wikipedia.org/wiki/バリー・ボンズ "wikilink")              | SF                                                              |
-| [2003年](../Page/2003年.md "wikilink")                    | [アルバート・プホルス](https://ja.wikipedia.org/wiki/アルバート・プホルス "wikilink")        | STL                                                             |
+| [2002年](../Page/2002年.md "wikilink")                    | [バリー・ボンズ](../Page/バリー・ボンズ.md "wikilink")                                 | SF                                                              |
+| [2003年](../Page/2003年.md "wikilink")                    | [アルバート・プホルス](../Page/アルバート・プホルス.md "wikilink")                           | STL                                                             |
 | [2004年](../Page/2004年.md "wikilink")                    | バリー・ボンズ                                                                  | SF                                                              |
-| [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") | [デレク・リー](../Page/デレク・リー.md "wikilink")                                   | CHC                                                             |
-| [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink") | [フレディ・サンチェス](../Page/フレディ・サンチェス.md "wikilink")                           | PIT                                                             |
+| [2005年](../Page/2005年.md "wikilink")                    | [デレク・リー](../Page/デレク・リー.md "wikilink")                                   | CHC                                                             |
+| [2006年](../Page/2006年.md "wikilink")                    | [フレディ・サンチェス](../Page/フレディ・サンチェス.md "wikilink")                           | PIT                                                             |
 | [2007年](../Page/2007年.md "wikilink")                    | [マット・ホリデイ](../Page/マット・ホリデイ.md "wikilink")                               | COL                                                             |
 | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") | [チッパー・ジョーンズ](../Page/チッパー・ジョーンズ.md "wikilink")                           | ATL                                                             |
 | [2009年](../Page/2009年.md "wikilink")                    | [ハンリー・ラミレス](../Page/ハンリー・ラミレス.md "wikilink")                             | FLA                                                             |
@@ -144,10 +144,10 @@
 ## メジャー記録
 
   - シーズン最高打率
-      - （[1899年](../Page/1899年.md "wikilink")近代野球以前）　[1894年](../Page/1894年.md "wikilink") [ヒュー・ダフィー](../Page/ヒュー・ダフィー.md "wikilink")（[ボストン・ビーンイーターズ](https://ja.wikipedia.org/wiki/アトランタ・ブレーブス "wikilink")） **.440**
-      - （[1900年](../Page/1900年.md "wikilink")近代野球以降）　[1901年](../Page/1901年.md "wikilink") [ナップ・ラジョイ](../Page/ナップ・ラジョイ.md "wikilink")（[フィラデルフィア・アスレチックス](https://ja.wikipedia.org/wiki/オークランド・アスレチックス "wikilink")） **.426**
+      - （[1899年](../Page/1899年.md "wikilink")近代野球以前）　[1894年](../Page/1894年.md "wikilink") [ヒュー・ダフィー](../Page/ヒュー・ダフィー.md "wikilink")（[ボストン・ビーンイーターズ](../Page/アトランタ・ブレーブス.md "wikilink")） **.440**
+      - （[1900年](../Page/1900年.md "wikilink")近代野球以降）　[1901年](../Page/1901年.md "wikilink") [ナップ・ラジョイ](../Page/ナップ・ラジョイ.md "wikilink")（[フィラデルフィア・アスレチックス](../Page/オークランド・アスレチックス.md "wikilink")） **.426**
       - 参考 [1871年](../Page/1871年.md "wikilink") [リーヴァイ・メイエール](https://ja.wikipedia.org/wiki/リーヴァイ・メイエール "wikilink")（[フィラデルフィア・アスレチックス](../Page/フィラデルフィア・アスレチックス_\(1860-1876年\).md "wikilink")）**.492**（[ナショナル・アソシエーション](https://ja.wikipedia.org/wiki/ナショナル・アソシエーション "wikilink")での記録）
-  - 通算最高打率　[1905年](../Page/1905年.md "wikilink")-[1928年](../Page/1928年.md "wikilink") [タイ・カッブ](https://ja.wikipedia.org/wiki/タイ・カッブ "wikilink") **.366** （4000打数以上）
+  - 通算最高打率　[1905年](../Page/1905年.md "wikilink")-[1928年](../Page/1928年.md "wikilink") [タイ・カッブ](../Page/タイ・カッブ.md "wikilink") **.366** （4000打数以上）
 
 ## 19世紀のナショナル・リーグ首位打者
 
@@ -165,13 +165,13 @@
 <td></td>
 <td><p><a href="../Page/ロス・バーンズ.md" title="wikilink">ロス・バーンズ</a></p></td>
 <td><p>.429</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シカゴ・カブス" title="wikilink">シカゴ・ホワイトストッキングス</a></p></td>
+<td><p><a href="../Page/シカゴ・カブス.md" title="wikilink">シカゴ・ホワイトストッキングス</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ディーコン・ホワイト" title="wikilink">ディーコン・ホワイト</a></p></td>
 <td><p>.387</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アトランタ・ブレーブス" title="wikilink">ボストン・レッドキャップス</a></p></td>
+<td><p><a href="../Page/アトランタ・ブレーブス.md" title="wikilink">ボストン・レッドキャップス</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -189,13 +189,13 @@
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジョージ・ゴア" title="wikilink">ジョージ・ゴア</a></p></td>
 <td><p>.360</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シカゴ・カブス" title="wikilink">シカゴ・ホワイトストッキングス</a></p></td>
+<td><p><a href="../Page/シカゴ・カブス.md" title="wikilink">シカゴ・ホワイトストッキングス</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p><a href="../Page/キャップ・アンソン.md" title="wikilink">キャップ・アンソン</a></p></td>
 <td><p>.399</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シカゴ・カブス" title="wikilink">シカゴ・ホワイトストッキングス</a></p></td>
+<td><p><a href="../Page/シカゴ・カブス.md" title="wikilink">シカゴ・ホワイトストッキングス</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -213,7 +213,7 @@
 <td></td>
 <td><p><a href="../Page/キング・ケリー.md" title="wikilink">キング・ケリー</a></p></td>
 <td><p>.354</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シカゴ・カブス" title="wikilink">シカゴ・ホワイトストッキングス</a></p></td>
+<td><p><a href="../Page/シカゴ・カブス.md" title="wikilink">シカゴ・ホワイトストッキングス</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -225,7 +225,7 @@
 <td></td>
 <td><p><a href="../Page/キング・ケリー.md" title="wikilink">キング・ケリー</a></p></td>
 <td><p>.388</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シカゴ・カブス" title="wikilink">シカゴ・ホワイトストッキングス</a></p></td>
+<td><p><a href="../Page/シカゴ・カブス.md" title="wikilink">シカゴ・ホワイトストッキングス</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -237,13 +237,13 @@
 <td></td>
 <td><p><a href="../Page/キャップ・アンソン.md" title="wikilink">キャップ・アンソン</a></p></td>
 <td><p>.344</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シカゴ・カブス" title="wikilink">シカゴ・ホワイトストッキングス</a></p></td>
+<td><p><a href="../Page/シカゴ・カブス.md" title="wikilink">シカゴ・ホワイトストッキングス</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p><a href="../Page/ダン・ブローザース.md" title="wikilink">ダン・ブローザース</a></p></td>
 <td><p>.373</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アトランタ・ブレーブス" title="wikilink">ボストン・ビーンイーターズ</a></p></td>
+<td><p><a href="../Page/アトランタ・ブレーブス.md" title="wikilink">ボストン・ビーンイーターズ</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -255,7 +255,7 @@
 <td></td>
 <td><p><a href="../Page/ビリー・ハミルトン.md" title="wikilink">ビリー・ハミルトン</a></p></td>
 <td><p>.340</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フィラデルフィア・フィリーズ" title="wikilink">フィラデルフィア・フィリーズ</a></p></td>
+<td><p><a href="../Page/フィラデルフィア・フィリーズ.md" title="wikilink">フィラデルフィア・フィリーズ</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -267,13 +267,13 @@
 <td></td>
 <td><p><a href="../Page/ダン・ブローザース.md" title="wikilink">ダン・ブローザース</a></p></td>
 <td><p>.380</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フィラデルフィア・フィリーズ" title="wikilink">フィラデルフィア・フィリーズ</a></p></td>
+<td><p><a href="../Page/フィラデルフィア・フィリーズ.md" title="wikilink">フィラデルフィア・フィリーズ</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p><a href="../Page/ヒュー・ダフィー.md" title="wikilink">ヒュー・ダフィー</a></p></td>
 <td><p>.440</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アトランタ・ブレーブス" title="wikilink">ボストン・ビーンイーターズ</a></p></td>
+<td><p><a href="../Page/アトランタ・ブレーブス.md" title="wikilink">ボストン・ビーンイーターズ</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -303,13 +303,13 @@
 <td></td>
 <td><p><a href="../Page/エド・デラハンティ.md" title="wikilink">エド・デラハンティ</a></p></td>
 <td><p>.410</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フィラデルフィア・フィリーズ" title="wikilink">フィラデルフィア・フィリーズ</a></p></td>
+<td><p><a href="../Page/フィラデルフィア・フィリーズ.md" title="wikilink">フィラデルフィア・フィリーズ</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ホーナス・ワグナー" title="wikilink">ホーナス・ワグナー</a></p></td>
 <td><p>.381</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ピッツバーグ・パイレーツ" title="wikilink">ピッツバーグ・パイレーツ</a></p></td>
+<td><p><a href="../Page/ピッツバーグ・パイレーツ.md" title="wikilink">ピッツバーグ・パイレーツ</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -338,7 +338,7 @@
 <td></td>
 <td><p>エド・スワートウッド</p></td>
 <td><p>.357</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ピッツバーグ・パイレーツ" title="wikilink">ピッツバーグ・アレゲニーズ</a></p></td>
+<td><p><a href="../Page/ピッツバーグ・パイレーツ.md" title="wikilink">ピッツバーグ・アレゲニーズ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アメリカン・アソシエーション_(19世紀)" title="wikilink">アメリカン・アソシエーション</a></p></td>
 </tr>
 <tr class="odd">
@@ -373,14 +373,14 @@
 <td></td>
 <td><p><a href="../Page/ティップ・オニール_(野球).md" title="wikilink">ティップ・オニール</a></p></td>
 <td><p>.435</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/セントルイス・カージナルス" title="wikilink">セントルイス・ブラウンズ</a></p></td>
+<td><p><a href="../Page/セントルイス・カージナルス.md" title="wikilink">セントルイス・ブラウンズ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アメリカン・アソシエーション_(19世紀)" title="wikilink">アメリカン・アソシエーション</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p><a href="../Page/ティップ・オニール_(野球).md" title="wikilink">ティップ・オニール</a></p></td>
 <td><p>.335</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/セントルイス・カージナルス" title="wikilink">セントルイス・ブラウンズ</a></p></td>
+<td><p><a href="../Page/セントルイス・カージナルス.md" title="wikilink">セントルイス・ブラウンズ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アメリカン・アソシエーション_(19世紀)" title="wikilink">アメリカン・アソシエーション</a></p></td>
 </tr>
 <tr class="odd">
@@ -433,10 +433,10 @@
 | 年    | 選手                                                                  | 打率   | チーム                                                                       |
 | ---- | ------------------------------------------------------------------- | ---- | ------------------------------------------------------------------------- |
 | 1871 | [リーヴァイ・メイエール](https://ja.wikipedia.org/wiki/リーヴァイ・メイエール "wikilink") | .492 | [フィラデルフィア・アスレチックス](../Page/フィラデルフィア・アスレチックス_\(1860-1876年\).md "wikilink") |
-| 1872 | [ロス・バーンズ](../Page/ロス・バーンズ.md "wikilink")                            | .430 | [ボストン・レッドストッキングス](https://ja.wikipedia.org/wiki/アトランタ・ブレーブス "wikilink")   |
-| 1873 | [ロス・バーンズ](../Page/ロス・バーンズ.md "wikilink")                            | .431 | [ボストン・レッドストッキングス](https://ja.wikipedia.org/wiki/アトランタ・ブレーブス "wikilink")   |
-| 1874 | [リーヴァイ・メイエール](https://ja.wikipedia.org/wiki/リーヴァイ・メイエール "wikilink") | .394 | [シカゴ・ホワイトストッキングス](https://ja.wikipedia.org/wiki/シカゴ・カブス "wikilink")       |
-| 1875 | [ディーコン・ホワイト](https://ja.wikipedia.org/wiki/ディーコン・ホワイト "wikilink")   | .367 | [ボストン・レッドストッキングス](https://ja.wikipedia.org/wiki/アトランタ・ブレーブス "wikilink")   |
+| 1872 | [ロス・バーンズ](../Page/ロス・バーンズ.md "wikilink")                            | .430 | [ボストン・レッドストッキングス](../Page/アトランタ・ブレーブス.md "wikilink")                      |
+| 1873 | [ロス・バーンズ](../Page/ロス・バーンズ.md "wikilink")                            | .431 | [ボストン・レッドストッキングス](../Page/アトランタ・ブレーブス.md "wikilink")                      |
+| 1874 | [リーヴァイ・メイエール](https://ja.wikipedia.org/wiki/リーヴァイ・メイエール "wikilink") | .394 | [シカゴ・ホワイトストッキングス](../Page/シカゴ・カブス.md "wikilink")                          |
+| 1875 | [ディーコン・ホワイト](https://ja.wikipedia.org/wiki/ディーコン・ホワイト "wikilink")   | .367 | [ボストン・レッドストッキングス](../Page/アトランタ・ブレーブス.md "wikilink")                      |
 
 ## 脚注
 
@@ -448,9 +448,9 @@
 
 ## 関連項目
 
-  - [野球の各種記録](https://ja.wikipedia.org/wiki/野球の各種記録 "wikilink")
+  - [野球の各種記録](../Page/野球の各種記録.md "wikilink")
   - [首位打者 (日本プロ野球)](../Page/首位打者_\(日本プロ野球\).md "wikilink")
-  - [首位打者 (韓国プロ野球)](https://ja.wikipedia.org/wiki/首位打者_\(韓国プロ野球\) "wikilink")
+  - [首位打者 (韓国プロ野球)](../Page/首位打者_\(韓国プロ野球\).md "wikilink")
   - [首位打者 (台湾プロ野球)](https://ja.wikipedia.org/wiki/首位打者_\(台湾プロ野球\) "wikilink")
   - [最多本塁打 (MLB)](../Page/最多本塁打_\(MLB\).md "wikilink")
   - [最多打点 (MLB)](https://ja.wikipedia.org/wiki/最多打点_\(MLB\) "wikilink")

@@ -1,12 +1,12 @@
 > この記事は[SICKS](https://ja.wikipedia.org/wiki/SICKS)から翻訳されています。
 
 
-『**SICKS**』（シックス）は日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[THE YELLOW MONKEYの](https://ja.wikipedia.org/wiki/THE_YELLOW_MONKEY "wikilink")6枚目のオリジナルアルバム。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[1月22日](../Page/1月22日.md "wikilink")に[ファンハウスよりリリースされた](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。『**COMPLETE SICKS**』（コンプリート シックス）についても本項にて併記する。
+『**SICKS**』（シックス）は日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[THE YELLOW MONKEYの](../Page/THE_YELLOW_MONKEY.md "wikilink")6枚目のオリジナルアルバム。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[1月22日](../Page/1月22日.md "wikilink")に[ファンハウスよりリリースされた](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。『**COMPLETE SICKS**』（コンプリート シックス）についても本項にて併記する。
 
 ## 解説
 
-  - レコード会社を[日本コロムビア](../Page/日本コロムビア.md "wikilink")（TRIADレーベル）から[ファンハウスへ移籍後第一弾となるアルバム](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。このアルバムから[吉井和哉](https://ja.wikipedia.org/wiki/吉井和哉 "wikilink")の単独プロデュースとなった。完成度の高さから「日本のロックのマスターピース」と称されている\[1\]。
-  - 前作に次いで[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")初登場1位を獲得。また、これが奇しくもオリコンアルバムチャートで通算**6**00回目の1位獲得作品であった\[2\]。約80万枚を売り上げ\[3\]\[4\]、オリジナルアルバムでは自身最大のヒットを記録した。
+  - レコード会社を[日本コロムビア](../Page/日本コロムビア.md "wikilink")（TRIADレーベル）から[ファンハウスへ移籍後第一弾となるアルバム](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。このアルバムから[吉井和哉](../Page/吉井和哉.md "wikilink")の単独プロデュースとなった。完成度の高さから「日本のロックのマスターピース」と称されている\[1\]。
+  - 前作に次いで[オリコンチャート](../Page/オリコンチャート.md "wikilink")初登場1位を獲得。また、これが奇しくもオリコンアルバムチャートで通算**6**00回目の1位獲得作品であった\[2\]。約80万枚を売り上げ\[3\]\[4\]、オリジナルアルバムでは自身最大のヒットを記録した。
   - タイトルの『SICKS』は、6枚目の「SIX」と「ロック（6）」、病気の「SICK」の3つを組み合わせた造語。大阪にて『[JAM](https://ja.wikipedia.org/wiki/JAM/Tactics "wikilink")』のキャンペーン中に吉井が思いついたものである\[5\]。
   - ジャケットの写真はロンドンの[バタシー発電所](https://ja.wikipedia.org/wiki/バタシー発電所 "wikilink")にて撮影された\[6\]。
   - [イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")でもリリースされ、イギリス盤にはボーナストラックとして『[LOVE LOVE SHOW](../Page/LOVE_LOVE_SHOW.md "wikilink")』のイングリッシュ・バージョンが収録された。
@@ -34,7 +34,7 @@
 
 1.  **RAINBOW MAN**
       -
-        吉井が当時傾倒していた「[愛の戦士レインボーマン](https://ja.wikipedia.org/wiki/愛の戦士レインボーマン "wikilink")」がモチーフの楽曲。コーラスの「死ね、死ね」は同作の敵組織「[死ね死ね団](https://ja.wikipedia.org/wiki/愛の戦士レインボーマン#死ね死ね団 "wikilink")」に由来する。また、ライブのオープニングSEとして同作の挿入歌である「死ね死ね団のテーマ」を使用していた。番組の内容通り[インド](../Page/インド.md "wikilink")風のアレンジがされており、曲調が何度も変わる曲である。バンド・アレンジの最中に曲構成が何度も変わり、サビが完成したのは終盤だったという\[17\]。
+        吉井が当時傾倒していた「[愛の戦士レインボーマン](../Page/愛の戦士レインボーマン.md "wikilink")」がモチーフの楽曲。コーラスの「死ね、死ね」は同作の敵組織「[死ね死ね団](https://ja.wikipedia.org/wiki/愛の戦士レインボーマン#死ね死ね団 "wikilink")」に由来する。また、ライブのオープニングSEとして同作の挿入歌である「死ね死ね団のテーマ」を使用していた。番組の内容通り[インド](../Page/インド.md "wikilink")風のアレンジがされており、曲調が何度も変わる曲である。バンド・アレンジの最中に曲構成が何度も変わり、サビが完成したのは終盤だったという\[17\]。
         [総合格闘家](https://ja.wikipedia.org/wiki/総合格闘家 "wikilink")の[前田吉朗](../Page/前田吉朗.md "wikilink")が入場曲として使用している。
 2.  **I CAN BE SHIT, MAMA**
       -
@@ -44,15 +44,15 @@
         先行シングル曲。
 4.  **TVのシンガー**
       -
-        歌詞の内容はアーティストである自らを皮肉ったものであり、3rdアルバム『[jaguar hard pain](https://ja.wikipedia.org/wiki/jaguar_hard_pain "wikilink")』収録の『ROCK STAR』とは対称的なものとなっている。『[THIS IS FOR YOU〜THE YELLOW MONKEY TRIBUTE ALBUM](https://ja.wikipedia.org/wiki/THIS_IS_FOR_YOU〜THE_YELLOW_MONKEY_TRIBUTE_ALBUM "wikilink")』で[9mm Parabellum Bullet](https://ja.wikipedia.org/wiki/9mm_Parabellum_Bullet "wikilink") が[カバー](../Page/カバー.md "wikilink")した。
+        歌詞の内容はアーティストである自らを皮肉ったものであり、3rdアルバム『[jaguar hard pain](https://ja.wikipedia.org/wiki/jaguar_hard_pain "wikilink")』収録の『ROCK STAR』とは対称的なものとなっている。『[THIS IS FOR YOU〜THE YELLOW MONKEY TRIBUTE ALBUM](https://ja.wikipedia.org/wiki/THIS_IS_FOR_YOU〜THE_YELLOW_MONKEY_TRIBUTE_ALBUM "wikilink")』で[9mm Parabellum Bullet](../Page/9mm_Parabellum_Bullet.md "wikilink") が[カバー](../Page/カバー.md "wikilink")した。
 5.  **紫の空**
       -
 6.  **薬局へ行こうよ**
       -
-        [インスト曲](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")。メンバーがそれぞれアドリブで演奏しており、吉井の鼻歌や、犬の鳴き真似などが入っている\[18\]。アルバム作成の初期段階からアイデアが出ており、吉井は「アルバムの中で外れちゃいけない1曲」、ベースの廣瀬は「周りの楽曲の引き立て役」と語っている\[19\]。解散まで一度もライブ演奏されていなかったが、再集結後の2018年に行われた『メカラウロコ29 FINAL』において初めてコンサートのセットリスト入りを果たした。
+        [インスト曲](../Page/器楽曲.md "wikilink")。メンバーがそれぞれアドリブで演奏しており、吉井の鼻歌や、犬の鳴き真似などが入っている\[18\]。アルバム作成の初期段階からアイデアが出ており、吉井は「アルバムの中で外れちゃいけない1曲」、ベースの廣瀬は「周りの楽曲の引き立て役」と語っている\[19\]。解散まで一度もライブ演奏されていなかったが、再集結後の2018年に行われた『メカラウロコ29 FINAL』において初めてコンサートのセットリスト入りを果たした。
 7.  **天国旅行**
       -
-        「FOR SEASON-野生の証明」のツアー中に初披露され、アルバム発売前の「メカラ ウロコ・7」でも披露された。吉井にとって「JAM」と並ぶほど特別な強い思い入れがあると語り、「裏JAM」と呼んでいるという\[20\]。1番ではドラムを止めてサビに入るなど、過去にはやらなかったアレンジを試み、吉井自身「すごい自信になった曲ができた」と自負する\[21\]。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")3月に出版された[三浦しをん](https://ja.wikipedia.org/wiki/三浦しをん "wikilink")の『天国旅行』はこの曲のタイトルからつけられ、本書の巻頭には歌詞が引用されている。[2013年](../Page/2013年.md "wikilink")に行われた『[イエモン-FAN'S BEST SELECTION-](https://ja.wikipedia.org/wiki/イエモン-FAN'S_BEST_SELECTION- "wikilink")』のファン投票で5位を獲得した。
+        「FOR SEASON-野生の証明」のツアー中に初披露され、アルバム発売前の「メカラ ウロコ・7」でも披露された。吉井にとって「JAM」と並ぶほど特別な強い思い入れがあると語り、「裏JAM」と呼んでいるという\[20\]。1番ではドラムを止めてサビに入るなど、過去にはやらなかったアレンジを試み、吉井自身「すごい自信になった曲ができた」と自負する\[21\]。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")3月に出版された[三浦しをん](../Page/三浦しをん.md "wikilink")の『天国旅行』はこの曲のタイトルからつけられ、本書の巻頭には歌詞が引用されている。[2013年](../Page/2013年.md "wikilink")に行われた『[イエモン-FAN'S BEST SELECTION-](https://ja.wikipedia.org/wiki/イエモン-FAN'S_BEST_SELECTION- "wikilink")』のファン投票で5位を獲得した。
         イントロは吉井が弾いている。初披露時は音源には収録されなかったアルペジオのギターソロが追加されていた。2016年の再結成後に横浜アリーナで行われた「THE YELLOW MONKEY SUPER JAPAN TOUR 2016 -YOKOHAMA SPECIAL-」ではこの初披露当時と同様の吉井のギターソロから披露された。
 8.  **創生児**
       -
@@ -71,7 +71,7 @@
         11thシングル「楽園」のカップリング曲。吉井曰く「渋谷駅周辺の喫茶店で、斜め向かいに座った女性をチラ見しながら作った」\[24\]。
 13. **人生の終わり (FOR GRANDMOTHER)**
       -
-        副題の通り、吉井が祖母に捧げたバラード曲。吉井が[U2](../Page/U2.md "wikilink")の「[ワン](https://ja.wikipedia.org/wiki/ワン_\(U2の曲\) "wikilink")」に憧れて作った曲で、仮タイトルは「スタンド・バイ・U2」\[25\]。作成段階で「血が泣いてるんだよ」という歌詞のみが先にできていた\[26\]。『COMPRETE SICKS』Disc2のデモ音源でもこの箇所のみ歌詞がついている。歌はテイク・ワンのものが採用されている\[27\]。曲の終了後に1分程度の無音部を挟んで、[隠しトラック](https://ja.wikipedia.org/wiki/隠しトラック "wikilink")としてピアノの演奏とともに[ハミング](https://ja.wikipedia.org/wiki/ハミング "wikilink")の楽曲が約4分間収録されている。
+        副題の通り、吉井が祖母に捧げたバラード曲。吉井が[U2](../Page/U2.md "wikilink")の「[ワン](https://ja.wikipedia.org/wiki/ワン_\(U2の曲\) "wikilink")」に憧れて作った曲で、仮タイトルは「スタンド・バイ・U2」\[25\]。作成段階で「血が泣いてるんだよ」という歌詞のみが先にできていた\[26\]。『COMPRETE SICKS』Disc2のデモ音源でもこの箇所のみ歌詞がついている。歌はテイク・ワンのものが採用されている\[27\]。曲の終了後に1分程度の無音部を挟んで、[隠しトラック](../Page/隠しトラック.md "wikilink")としてピアノの演奏とともに[ハミング](https://ja.wikipedia.org/wiki/ハミング "wikilink")の楽曲が約4分間収録されている。
 
 ### DVD (COMPLETE SICKS)
 
@@ -84,7 +84,7 @@
 
   - 吉井和哉 - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")、[アコースティックギター](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink")、[パーカッション](../Page/パーカッション.md "wikilink")、[シンセサイザー](../Page/シンセサイザー.md "wikilink")
   - 菊地英昭 - ギター
-  - 廣瀬洋一 - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - 廣瀬洋一 - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
   - 菊地英二 - [ドラムス](../Page/ドラムセット.md "wikilink")
 
 <!-- end list -->

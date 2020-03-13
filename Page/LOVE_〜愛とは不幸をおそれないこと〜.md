@@ -3,13 +3,13 @@
 
 『**LOVE 〜愛とは不幸をおそれないこと〜**』（ラブ あいとはふこうをおそれないこと）は、日本の歌手である[沢田研二](../Page/沢田研二.md "wikilink")の12作目となるオリジナル[アルバム](../Page/アルバム.md "wikilink")。
 
-[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[12月1日](../Page/12月1日.md "wikilink")に[ポリドール](../Page/ポリドール・レコード.md "wikilink") （現[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")）から[LP盤でリリースされた](../Page/レコード.md "wikilink")。
+[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[12月1日](../Page/12月1日.md "wikilink")に[ポリドール](../Page/ポリドール・レコード.md "wikilink") （現[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）から[LP盤でリリースされた](../Page/レコード.md "wikilink")。
 
-その後[CD化され](../Page/コンパクトディスク.md "wikilink")、[1991年](../Page/1991年.md "wikilink")と[1996年](../Page/1996年.md "wikilink")に[東芝EMIから](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")、また[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")には[ユニバーサルミュージックから再リリースされている](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。
+その後[CD化され](../Page/コンパクトディスク.md "wikilink")、[1991年](../Page/1991年.md "wikilink")と[1996年](../Page/1996年.md "wikilink")に[東芝EMIから](../Page/EMIミュージック・ジャパン.md "wikilink")、また[2005年](../Page/2005年.md "wikilink")には[ユニバーサルミュージックから再リリースされている](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
 
 ## 解説
 
-前作に続き全楽曲の作詞を[阿久悠](https://ja.wikipedia.org/wiki/阿久悠 "wikilink")、作曲を[大野克夫](../Page/大野克夫.md "wikilink")、編曲を[船山基紀](../Page/船山基紀.md "wikilink")が担当している。「愛」をテーマにした[コンセプトアルバム](https://ja.wikipedia.org/wiki/コンセプトアルバム "wikilink")であり、「LOVE（抱きしめたい）」を始め叙情的な作品が収録されている。なお同曲で沢田は、演歌歌手以外で史上初めて『[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")』での大トリを務めた（[第29回](../Page/第29回NHK紅白歌合戦.md "wikilink")）。ジャケット及びインナーのデザインは[早川タケジ](https://ja.wikipedia.org/wiki/早川タケジ "wikilink")。
+前作に続き全楽曲の作詞を[阿久悠](../Page/阿久悠.md "wikilink")、作曲を[大野克夫](../Page/大野克夫.md "wikilink")、編曲を[船山基紀](../Page/船山基紀.md "wikilink")が担当している。「愛」をテーマにした[コンセプトアルバム](https://ja.wikipedia.org/wiki/コンセプトアルバム "wikilink")であり、「LOVE（抱きしめたい）」を始め叙情的な作品が収録されている。なお同曲で沢田は、演歌歌手以外で史上初めて『[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")』での大トリを務めた（[第29回](../Page/第29回NHK紅白歌合戦.md "wikilink")）。ジャケット及びインナーのデザインは[早川タケジ](https://ja.wikipedia.org/wiki/早川タケジ "wikilink")。
 
 ## 収録曲
 
@@ -28,9 +28,9 @@
 
 ## 参加ミュージシャン
 
-  - [羽田健太郎](https://ja.wikipedia.org/wiki/羽田健太郎 "wikilink") - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")
+  - [羽田健太郎](../Page/羽田健太郎.md "wikilink") - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")
   - [佐藤準](../Page/佐藤準.md "wikilink") - キーボード
-  - 岡沢章 - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - 岡沢章 - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
   - 高水健司 - ベース
   - [田中清司](../Page/田中清司.md "wikilink") - [ドラムス](../Page/ドラムセット.md "wikilink")
   - ロバート・ブリル - ドラムス

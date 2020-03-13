@@ -5,13 +5,13 @@
 
 ## 概要
 
-[神戸市](../Page/神戸市.md "wikilink")を中心に活動を行っていた。プロデューサーはLeafの[下川直哉](https://ja.wikipedia.org/wiki/下川直哉 "wikilink")。編曲には松岡純也や[豆田将](../Page/豆田将.md "wikilink")も参加した。
+[神戸市](../Page/神戸市.md "wikilink")を中心に活動を行っていた。プロデューサーはLeafの[下川直哉](../Page/下川直哉.md "wikilink")。編曲には松岡純也や[豆田将](../Page/豆田将.md "wikilink")も参加した。
 
 ### メンバー
 
   - 小山 裕（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当）
   - 田村 太一（[ギター](../Page/ギター.md "wikilink")担当）
-  - 柳田 頼人（[ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")）
+  - 柳田 頼人（[ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")）
 
 ## 経歴
 

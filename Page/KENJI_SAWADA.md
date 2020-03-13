@@ -3,9 +3,9 @@
 
 『**KENJI SAWADA**』（ケンジ・サワダ）は、日本の歌手である[沢田研二](../Page/沢田研二.md "wikilink")の8作目となるオリジナルアルバム。
 
-[1976年](../Page/1976年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink")に[ポリドール](../Page/ポリドール・レコード.md "wikilink")（現[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")）から[LP盤でリリースされた](../Page/レコード.md "wikilink")。
+[1976年](../Page/1976年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink")に[ポリドール](../Page/ポリドール・レコード.md "wikilink")（現[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）から[LP盤でリリースされた](../Page/レコード.md "wikilink")。
 
-その後[CD化され](../Page/コンパクトディスク.md "wikilink")、[1991年](../Page/1991年.md "wikilink")と[1996年](../Page/1996年.md "wikilink")に[東芝EMIから](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")、また[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")には[ユニバーサルミュージックから再リリースされている](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。
+その後[CD化され](../Page/コンパクトディスク.md "wikilink")、[1991年](../Page/1991年.md "wikilink")と[1996年](../Page/1996年.md "wikilink")に[東芝EMIから](../Page/EMIミュージック・ジャパン.md "wikilink")、また[2005年](../Page/2005年.md "wikilink")には[ユニバーサルミュージックから再リリースされている](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
 
 ## 解説
 
@@ -22,9 +22,9 @@
 4.  **ゴー・スージー・ゴー** - *GO\! SUZY\! GO\!*
       - 作詞・作曲:Tony Weddington,Wayne Bickerton／編曲:Tony Weddington,Wayne Bickerton,Arther Greenslade
 5.  **[追憶](../Page/追憶_\(沢田研二の曲\).md "wikilink")** - *TSUIOKU*
-      - 作詞:[安井かずみ](https://ja.wikipedia.org/wiki/安井かずみ "wikilink")／作曲:[加瀬邦彦](../Page/加瀬邦彦.md "wikilink")／編曲:[東海林修](../Page/東海林修.md "wikilink")
+      - 作詞:[安井かずみ](../Page/安井かずみ.md "wikilink")／作曲:[加瀬邦彦](../Page/加瀬邦彦.md "wikilink")／編曲:[東海林修](../Page/東海林修.md "wikilink")
 6.  **[時の過ぎゆくままに](../Page/時の過ぎゆくままに.md "wikilink")** - *TOKI NO SUGIYUKU MAMANI*
-      - 作詞:[阿久悠](https://ja.wikipedia.org/wiki/阿久悠 "wikilink")／作曲・編曲:[大野克夫](../Page/大野克夫.md "wikilink")
+      - 作詞:[阿久悠](../Page/阿久悠.md "wikilink")／作曲・編曲:[大野克夫](../Page/大野克夫.md "wikilink")
 7.  **フ・ドゥ・トワ** - *FOU DE TOI*
       - 作詞:G.SINOUÉ／作曲:G.COSTA／編曲:Raimond Gimenes
 8.  **マ・ゲイシャ・ドゥ・フランス** - *MA GEISHA DE FRANCE*

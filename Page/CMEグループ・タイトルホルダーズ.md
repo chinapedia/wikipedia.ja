@@ -1,13 +1,13 @@
 > この記事は[CME](https://ja.wikipedia.org/wiki/CME)から翻訳されています。
 
 
-**CMEグループ ツアー選手権**（CME Group Tour Championship）は[LPGAツアーの年間最終戦](https://ja.wikipedia.org/wiki/全米女子プロゴルフ協会 "wikilink")。
+**CMEグループ ツアー選手権**（CME Group Tour Championship）は[LPGAツアーの年間最終戦](../Page/全米女子プロゴルフ協会.md "wikilink")。
 
 ## 歴史
 
 [1996年](../Page/1996年.md "wikilink")に男子の[ツアー選手権を模範とした](../Page/ザ・ツアーチャンピオンシップ.md "wikilink")**ITT LPGAツアー選手権**としてスタートした。当時は4日間ストロークプレーで行われていた。その後名称を何度も変更し、[2002年](../Page/2002年.md "wikilink")からは[ADTセキュリティサービス](https://ja.wikipedia.org/wiki/ADTセキュリティサービス "wikilink")が冠スポンサーとなり、ADT選手権になった。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")から2008年までは参加資格を満たす32名により参加。2日目終了時点で上位16名まで絞る。さらに3日目終了時点でベスト8まで減らす。3日目と最終日はその日のスコアで優勝者が決まる。優勝賞金は100万ドルで、当時の女子ゴルフトーナメントとしては最高額であった。
+[2006年](../Page/2006年.md "wikilink")から2008年までは参加資格を満たす32名により参加。2日目終了時点で上位16名まで絞る。さらに3日目終了時点でベスト8まで減らす。3日目と最終日はその日のスコアで優勝者が決まる。優勝賞金は100万ドルで、当時の女子ゴルフトーナメントとしては最高額であった。
 
 2009年からスタンフォード・ファイナンシャルがスポンサーに予定されていたが、世界的な金融危機の影響で降板。LPGAツアー選手権となった。
 
@@ -177,7 +177,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/フリエタ・グラナダ" title="wikilink">フリエタ・グラナダ</a></p></td>
 <td></td>
 <td><p>70-69-69-<strong>68</strong></p></td>
@@ -204,8 +204,8 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アニカ・ソレンスタム" title="wikilink">アニカ・ソレンスタム</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
+<td><p><a href="../Page/アニカ・ソレンスタム.md" title="wikilink">アニカ・ソレンスタム</a></p></td>
 <td></td>
 <td><p>282 (-6)</p></td>
 <td><p>トランプ・インターナショナル・ゴルフ・クラブ</p></td>
@@ -214,7 +214,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2004年.md" title="wikilink">2004年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アニカ・ソレンスタム" title="wikilink">アニカ・ソレンスタム</a></p></td>
+<td><p><a href="../Page/アニカ・ソレンスタム.md" title="wikilink">アニカ・ソレンスタム</a></p></td>
 <td></td>
 <td><p>275 (-13)</p></td>
 <td></td>
@@ -232,7 +232,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2002年.md" title="wikilink">2002年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アニカ・ソレンスタム" title="wikilink">アニカ・ソレンスタム</a></p></td>
+<td><p><a href="../Page/アニカ・ソレンスタム.md" title="wikilink">アニカ・ソレンスタム</a></p></td>
 <td></td>
 <td><p>275 (-13)</p></td>
 <td></td>
@@ -259,7 +259,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/2001年.md" title="wikilink">2001年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カリー・ウェブ" title="wikilink">カリー・ウェブ</a></p></td>
+<td><p><a href="../Page/カリー・ウェブ.md" title="wikilink">カリー・ウェブ</a></p></td>
 <td></td>
 <td><p>279 (-9)</p></td>
 <td><p>トランプ・インターナショナル・ゴルフ・クラブ</p></td>
@@ -277,7 +277,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1999年.md" title="wikilink">1999年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/朴セリ" title="wikilink">朴セリ</a></p></td>
+<td><p><a href="../Page/朴セリ.md" title="wikilink">朴セリ</a></p></td>
 <td></td>
 <td><p>276 (-12)</p></td>
 <td><p>Desert Inn Golf Club</p></td>
@@ -295,7 +295,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/1997年" title="wikilink">1997年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アニカ・ソレンスタム" title="wikilink">アニカ・ソレンスタム</a></p></td>
+<td><p><a href="../Page/アニカ・ソレンスタム.md" title="wikilink">アニカ・ソレンスタム</a></p></td>
 <td></td>
 <td><p>277 (-11)</p></td>
 <td><p>$750,000</p></td>
@@ -304,7 +304,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/1996年.md" title="wikilink">1996年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カリー・ウェブ" title="wikilink">カリー・ウェブ</a></p></td>
+<td><p><a href="../Page/カリー・ウェブ.md" title="wikilink">カリー・ウェブ</a></p></td>
 <td></td>
 <td><p>272 (-16)</p></td>
 <td><p>$700,000</p></td>

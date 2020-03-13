@@ -11,7 +11,7 @@
 
   - <s>[テスタメント](https://ja.wikipedia.org/wiki/テスタメント_\(バンド\) "wikilink")</S>
   - [オーヴァーキル](../Page/オーヴァーキル_\(バンド\).md "wikilink")
-  - [デス・エンジェル](https://ja.wikipedia.org/wiki/デス・エンジェル "wikilink")
+  - [デス・エンジェル](../Page/デス・エンジェル.md "wikilink")
   - [フロットサム・アンド・ジェットサム](../Page/フロットサム・アンド・ジェットサム.md "wikilink")
 
 テスタメントは[エリック・ピーターソン](https://ja.wikipedia.org/wiki/エリック・ピーターソン "wikilink")(G)の怪我による片足の[複雑骨折](https://ja.wikipedia.org/wiki/複雑骨折 "wikilink")が原因でキャンセルした。
@@ -30,7 +30,7 @@
 <!-- end list -->
 
   - [テスタメント](https://ja.wikipedia.org/wiki/テスタメント_\(バンド\) "wikilink")
-  - [デストラクション](https://ja.wikipedia.org/wiki/デストラクション "wikilink")
+  - [デストラクション](../Page/デストラクション.md "wikilink")
   - [ラーズ・ロキット](https://ja.wikipedia.org/wiki/ラーズ・ロキット "wikilink")
   - [クリーター](../Page/クリーター.md "wikilink")
 
@@ -49,7 +49,7 @@
 <!-- end list -->
 
   - <s>[ヴェノム](../Page/ヴェノム_\(バンド\).md "wikilink")</s>
-  - [デス・エンジェル](https://ja.wikipedia.org/wiki/デス・エンジェル "wikilink")
+  - [デス・エンジェル](../Page/デス・エンジェル.md "wikilink")
   - [ソドム](../Page/ソドム_\(バンド\).md "wikilink")
   - [オンスロート](https://ja.wikipedia.org/wiki/オンスロート_\(バンド\) "wikilink")
   - [ドラゴンロード](https://ja.wikipedia.org/wiki/ドラゴンロード_\(バンド\) "wikilink")
@@ -69,7 +69,7 @@
 <!-- end list -->
 
   - [ニュークリア・アソルト](../Page/ニュークリア・アソルト.md "wikilink")
-  - [デストラクション](https://ja.wikipedia.org/wiki/デストラクション "wikilink")
+  - [デストラクション](../Page/デストラクション.md "wikilink")
   - [アナイアレイター](https://ja.wikipedia.org/wiki/アナイアレイター "wikilink")
   - [ネヴァーモア](../Page/ネヴァーモア.md "wikilink")
 
@@ -89,7 +89,7 @@
 
   - [テスタメント](https://ja.wikipedia.org/wiki/テスタメント_\(バンド\) "wikilink")
   - [ヴォイヴォド](../Page/ヴォイヴォド_\(バンド\).md "wikilink")
-  - [フォビドゥン](https://ja.wikipedia.org/wiki/フォビドゥン "wikilink")
+  - [フォビドゥン](../Page/フォビドゥン.md "wikilink")
 
 <!-- end list -->
 
@@ -106,7 +106,7 @@
 <!-- end list -->
 
   - [テスタメント](https://ja.wikipedia.org/wiki/テスタメント_\(バンド\) "wikilink")
-  - [エクソダス](https://ja.wikipedia.org/wiki/エクソダス_\(バンド\) "wikilink")
+  - [エクソダス](../Page/エクソダス_\(バンド\).md "wikilink")
   - [クリーター](../Page/クリーター.md "wikilink")
   - [ヒーゼン](https://ja.wikipedia.org/wiki/ヒーゼン "wikilink")
 
@@ -135,7 +135,7 @@
 <!-- end list -->
 
   - [オーヴァーキル](../Page/オーヴァーキル_\(バンド\).md "wikilink")
-  - [エクソダス](https://ja.wikipedia.org/wiki/エクソダス_\(バンド\) "wikilink")
+  - [エクソダス](../Page/エクソダス_\(バンド\).md "wikilink")
   - [ネヴァーモア](../Page/ネヴァーモア.md "wikilink")
   - <s>[サンクチュアリ](https://ja.wikipedia.org/wiki/サンクチュアリ_\(バンド\) "wikilink")</s>
   - [アウトレイジ](https://ja.wikipedia.org/wiki/Outrage "wikilink")
@@ -161,8 +161,8 @@
 
 <!-- end list -->
 
-  - [デス・エンジェル](https://ja.wikipedia.org/wiki/デス・エンジェル "wikilink")
-  - [デストラクション](https://ja.wikipedia.org/wiki/デストラクション "wikilink")
+  - [デス・エンジェル](../Page/デス・エンジェル.md "wikilink")
+  - [デストラクション](../Page/デストラクション.md "wikilink")
   - [テスタメント](https://ja.wikipedia.org/wiki/テスタメント_\(バンド\) "wikilink")
 
 デス・エンジェルは9日・10日でセットリストを変更。 テスタメントは10日のみアンコールありだった。
@@ -179,7 +179,7 @@
 
 <!-- end list -->
 
-  - [エクソダス](https://ja.wikipedia.org/wiki/エクソダス_\(バンド\) "wikilink")
+  - [エクソダス](../Page/エクソダス_\(バンド\).md "wikilink")
   - [ヴォイヴォド](../Page/ヴォイヴォド_\(バンド\).md "wikilink")
   - [サンクチュアリ](https://ja.wikipedia.org/wiki/サンクチュアリ_\(バンド\) "wikilink")
   - [アーティレリー](https://ja.wikipedia.org/wiki/アーティレリー "wikilink")
@@ -199,7 +199,7 @@
 <!-- end list -->
 
   - [オーヴァーキル](../Page/オーヴァーキル_\(バンド\).md "wikilink")
-  - [エクソダス](https://ja.wikipedia.org/wiki/エクソダス_\(バンド\) "wikilink")
+  - [エクソダス](../Page/エクソダス_\(バンド\).md "wikilink")
   - [ソドム](../Page/ソドム_\(バンド\).md "wikilink")
 
 <!-- end list -->
@@ -221,8 +221,8 @@
 <!-- end list -->
 
   - [クリーター](../Page/クリーター.md "wikilink")
-  - [デストラクション](https://ja.wikipedia.org/wiki/デストラクション "wikilink")
-  - [ダーク・エンジェル](https://ja.wikipedia.org/wiki/ダーク・エンジェル_\(バンド\) "wikilink")
+  - [デストラクション](../Page/デストラクション.md "wikilink")
+  - [ダーク・エンジェル](../Page/ダーク・エンジェル_\(バンド\).md "wikilink")
 
 <!-- end list -->
 
@@ -244,7 +244,7 @@
 <!-- end list -->
 
   - [テスタメント](https://ja.wikipedia.org/wiki/テスタメント_\(バンド\) "wikilink")
-  - [エクソダス](https://ja.wikipedia.org/wiki/エクソダス_\(バンド\) "wikilink")
+  - [エクソダス](../Page/エクソダス_\(バンド\).md "wikilink")
   - [ウォーブリンガー](https://ja.wikipedia.org/wiki/ウォーブリンガー "wikilink")
 
 <!-- end list -->

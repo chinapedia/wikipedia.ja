@@ -17,7 +17,7 @@
 
 通常、再生には[RealPlayer](../Page/RealPlayer.md "wikilink")が必要である。競合する[Windows MediaはWindows](https://ja.wikipedia.org/wiki/Windows_Media "wikilink") OSでは特別なソフトウェアをインストールする必要なく再生できる上、他のソフトウェアで再生可能とする[SDKが配布されているためRealMediaに比べて再生可能な環境が圧倒的に多い](../Page/ソフトウェア開発キット.md "wikilink")。そのためRealMediaは徐々にシェアを減らし、RealMediaを利用するWebサイトはWindows Media形式でも同じコンテンツを提供する場合が多い。
 
-リアルネットワークスが[マイクロソフト](../Page/マイクロソフト.md "wikilink")と提携していた時期には[Windows 98に標準搭載されていた](../Page/Microsoft_Windows_98.md "wikilink")[Windows Media Playerでも再生可能だった](https://ja.wikipedia.org/wiki/Windows_Media_Player "wikilink")。しかしリアルネットワークスが方針を転換したことにより、後のバージョンのWindowsおよびWindows Media PlayerからRealMediaのサポートは削除された。
+リアルネットワークスが[マイクロソフト](../Page/マイクロソフト.md "wikilink")と提携していた時期には[Windows 98に標準搭載されていた](../Page/Microsoft_Windows_98.md "wikilink")[Windows Media Playerでも再生可能だった](../Page/Windows_Media_Player.md "wikilink")。しかしリアルネットワークスが方針を転換したことにより、後のバージョンのWindowsおよびWindows Media PlayerからRealMediaのサポートは削除された。
 
 ## 関連項目
 

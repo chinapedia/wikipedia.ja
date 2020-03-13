@@ -1,21 +1,21 @@
 > この記事は[SHAKER \(\)](https://ja.wikipedia.org/wiki/SHAKER_\(\))から翻訳されています。
 
 
-『**SHAKER**』（シェイカー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の17枚目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。このアルバムは1997年3月21日に[MCAビクター](https://ja.wikipedia.org/wiki/MCAビクター "wikilink")よりリリースされた ([CD](../Page/コンパクトディスク.md "wikilink"): MVCD-38)。2002年12月4日には『[SHAKER+3](https://ja.wikipedia.org/wiki/#SHAKER+3 "wikilink")』として[ユニバーサルJから再発売された](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。
+『**SHAKER**』（シェイカー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の17枚目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。このアルバムは1997年3月21日に[MCAビクター](https://ja.wikipedia.org/wiki/MCAビクター "wikilink")よりリリースされた ([CD](../Page/コンパクトディスク.md "wikilink"): MVCD-38)。2002年12月4日には『[SHAKER+3](https://ja.wikipedia.org/wiki/#SHAKER+3 "wikilink")』として[ユニバーサルJから再発売された](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
 
 ## 背景
 
 『SHAKER』は、前作『[la alteración](https://ja.wikipedia.org/wiki/la_alteracion "wikilink")』からおよそ1年6か月ぶりとなる[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")で、1997年3月21日に[CD](../Page/コンパクトディスク.md "wikilink") (MVCD-38)でリリースされた\[1\]\[2\]。また、中森が[MCAビクター](https://ja.wikipedia.org/wiki/MCAビクター "wikilink")在籍時最後にリリースしたアルバムともなった。初回生産分は、スリーブケース仕様となっている\[3\]。このアルバムのプロデュースは、前作に続いて中森が担当した\[4\]\[5\]。レコーディングは、Victor Studio、Sound Valley、Studio Take One、Art Works Studio、ハートビートレコーディングスタジオ、Sedic Audio Studio、One Voice Studioで行われ、ボーカル録音は、[ニューヨーク](../Page/ニューヨーク.md "wikilink")のSound on Sound Studiosで行われた\[6\]\[7\]。このニューヨークでは、ジャケット撮影も行われている\[8\]\[9\]。
 
-中森は、このアルバムでは、聴く人の心を癒し、元気づけたいと基本コンセプトを述べている\[10\]。そこで、心地良く聴いてもらうため、様々なタイプの楽曲を集めたという\[11\]。当初、このアルバムのタイトルは[イタリア語](../Page/イタリア語.md "wikilink")で"Dolce"であったが、ある時、この収録楽曲の1曲1曲を酒に見立てることを考え、その時々の心理状態に合わせた種々異なる酒を楽しんだり、これらの楽曲が[カクテル](../Page/カクテル.md "wikilink")のように全て混ぜ合わされたニュアンスを表現したいと思い立ち、カクテルなどを作るための器具である[シェイカー](https://ja.wikipedia.org/wiki/シェイカー_\(調理器具\) "wikilink") (SHAKER)というタイトルに改めたと中森は語っている\[12\]\[13\]。
+中森は、このアルバムでは、聴く人の心を癒し、元気づけたいと基本コンセプトを述べている\[10\]。そこで、心地良く聴いてもらうため、様々なタイプの楽曲を集めたという\[11\]。当初、このアルバムのタイトルは[イタリア語](../Page/イタリア語.md "wikilink")で"Dolce"であったが、ある時、この収録楽曲の1曲1曲を酒に見立てることを考え、その時々の心理状態に合わせた種々異なる酒を楽しんだり、これらの楽曲が[カクテル](../Page/カクテル.md "wikilink")のように全て混ぜ合わされたニュアンスを表現したいと思い立ち、カクテルなどを作るための器具である[シェイカー](../Page/シェイカー_\(調理器具\).md "wikilink") (SHAKER)というタイトルに改めたと中森は語っている\[12\]\[13\]。
 
-収録楽曲の音楽的なジャンルについて『CDジャーナル』は「[16ビートの](https://ja.wikipedia.org/wiki/ドラム・ビート#16ビート "wikilink")[ヒップホップ](../Page/ヒップホップ.md "wikilink")・[ソウル的なサウンドから](https://ja.wikipedia.org/wiki/ソウルミュージック "wikilink")、躍動感あふれるファンキーなナンバー、ダンサブルな[ポップ・チューン](../Page/ポップ・ミュージック.md "wikilink")、マイナー[歌謡曲](../Page/歌謡曲.md "wikilink")など」と指摘している\[14\]。また[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")では、デジタル的なサウンドから[アコースティック](https://ja.wikipedia.org/wiki/アコースティック "wikilink")な楽曲が収められたと解説した\[15\]。
+収録楽曲の音楽的なジャンルについて『CDジャーナル』は「[16ビートの](https://ja.wikipedia.org/wiki/ドラム・ビート#16ビート "wikilink")[ヒップホップ](../Page/ヒップホップ.md "wikilink")・[ソウル的なサウンドから](../Page/ソウルミュージック.md "wikilink")、躍動感あふれるファンキーなナンバー、ダンサブルな[ポップ・チューン](../Page/ポップ・ミュージック.md "wikilink")、マイナー[歌謡曲](../Page/歌謡曲.md "wikilink")など」と指摘している\[14\]。また[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")では、デジタル的なサウンドから[アコースティック](https://ja.wikipedia.org/wiki/アコースティック "wikilink")な楽曲が収められたと解説した\[15\]。
 
 同紙のインタビューで中森は、実質的な[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")の変更に伴い、新たな歌唱法に挑戦することにしたが、本作の楽曲のほとんどにおいて、自身のキーに合わせた歌唱をしていないという\[16\]。このため、その場から抜け出したくなるほどの思いに駆られ、自身の中で腑に落ちない感覚や不安を抱くこともあったが、本作が仕上がった後、改めて試聴してみると、最終的には積極的に挑んで良かったと納得することが出来たと振り返っている\[17\]。加えて、スタッフとの協力のもと、新たな一面を打ち出すことも出来たと述べた\[18\]。
 
 本作発売後の5月3日より、本作を引っ提げた自身にとって9年ぶりとなる全国[コンサート・ツアー](https://ja.wikipedia.org/wiki/コンサート・ツアー "wikilink")[Felicidadを開催した](https://ja.wikipedia.org/wiki/felicidad_AKINA_NAKAMORI_LIVE_'97#Felicidad_\(中森明菜のコンサート・ツアー\) "wikilink")\[19\]\[20\]\[21\]\[22\]。
 
-2002年12月には、『[SHAKER+3](https://ja.wikipedia.org/wiki/#SHAKER+3 "wikilink")』として本作は再発売された\[23\]。また、2007年3月21日にリリースされた"桜"にちなんだ楽曲を収録した[コンピレーション・アルバム](https://ja.wikipedia.org/wiki/コンピレーション・アルバム "wikilink")『sakura songs』(CD: UPCH-1538)には、本作収録曲である「桜 （びやく）」が収録された\[24\]。
+2002年12月には、『[SHAKER+3](https://ja.wikipedia.org/wiki/#SHAKER+3 "wikilink")』として本作は再発売された\[23\]。また、2007年3月21日にリリースされた"桜"にちなんだ楽曲を収録した[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")『sakura songs』(CD: UPCH-1538)には、本作収録曲である「桜 （びやく）」が収録された\[24\]。
 
 ## シングル
 
@@ -29,7 +29,7 @@
 
 ## チャート成績
 
-『SHAKER』は、[オリコン週間アルバムチャートの](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1997年3月31日付で、最高順位14位を記録した\[38\]\[39\]。同チャートには、計5週に渡ってランクインしている\[40\]。
+『SHAKER』は、[オリコン週間アルバムチャートの](../Page/オリコンチャート.md "wikilink")1997年3月31日付で、最高順位14位を記録した\[38\]\[39\]。同チャートには、計5週に渡ってランクインしている\[40\]。
 
 ## 収録曲
 
@@ -50,9 +50,9 @@
       - ギター、ベース - ジェミ・テイラー
       - マニピュレーター - Shigeaki Hashimoto
   - 「夜の匂い」
-      - エレクトリック・ベース - [沖山優司](https://ja.wikipedia.org/wiki/沖山優司 "wikilink")
+      - エレクトリック・ベース - [沖山優司](../Page/沖山優司.md "wikilink")
       - エレクトリック・ギター、アコースティック・ギター - [古市コータロー](https://ja.wikipedia.org/wiki/古市コータロー "wikilink") (By the courtesy of TRAID/COLUMBIA CO.,LTD)
-      - プログラミング、ハモンドオルガン - [朝本浩文](https://ja.wikipedia.org/wiki/朝本浩文 "wikilink")
+      - プログラミング、ハモンドオルガン - [朝本浩文](../Page/朝本浩文.md "wikilink")
   - 「おいしい水」
       - プログラミング - 朝本浩文
       - エレクトリック・ベース - 沖山優司
@@ -96,13 +96,13 @@
       - マニピュレーター - 北岡徹也
   - 「月は青く」
       - プログラミング - 玉置伸吾
-      - エレクトリック・ギター - [大村憲司](https://ja.wikipedia.org/wiki/大村憲司 "wikilink")
+      - エレクトリック・ギター - [大村憲司](../Page/大村憲司.md "wikilink")
 
 ### スタッフ
 
   - プロデューサー: [中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")
   - ディレクター: 宮脇秀有（[MCAビクター](https://ja.wikipedia.org/wiki/MCAビクター "wikilink")）
-  - アディショナル・ディレクター: [藤原いくろう](https://ja.wikipedia.org/wiki/藤原いくろう "wikilink") (except M5)
+  - アディショナル・ディレクター: [藤原いくろう](../Page/藤原いくろう.md "wikilink") (except M5)
   - ヴォーカル・ディレクション: 清水彰彦 (Soytzer Music)
   - 録音: Victor Studio、Sound Valley、Studio Take One、Art Works Studio、Sound on Sound Recording (N.Y.)、ハートビートレコーディングスタジオ、Sedic Audio Studio、One Voice Studio
   - ミックス・エンジニア: 奥原秀明 (Victor Studio) (M1, 5, 6, 7, 8, 9, 11)、渡辺省二郎 (Power Box) (M3, 4)、林憲一 (Victor Studio) (M10)、田中邦明 (Sedic) (M2)
@@ -125,7 +125,7 @@
 
 ##
 
-『**SHAKER+3**』（シェイカー・プラス・スリー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の17枚目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")『[SHAKER](https://ja.wikipedia.org/wiki/#top "wikilink")』のリマスター再発盤\[42\]。このアルバムは2002年12月4日に[ユニバーサルJより](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")[CD](../Page/コンパクトディスク.md "wikilink") (UMCK-1153)でリリースされた\[43\]。2005年7月1日には[mora](https://ja.wikipedia.org/wiki/mora "wikilink")にて[デジタル・ダウンロード](https://ja.wikipedia.org/wiki/デジタル・ダウンロード "wikilink")でリリースされた\[44\]。[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")でも音楽配信されている\[45\]。
+『**SHAKER+3**』（シェイカー・プラス・スリー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の17枚目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")『[SHAKER](https://ja.wikipedia.org/wiki/#top "wikilink")』のリマスター再発盤\[42\]。このアルバムは2002年12月4日に[ユニバーサルJより](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")[CD](../Page/コンパクトディスク.md "wikilink") (UMCK-1153)でリリースされた\[43\]。2005年7月1日には[mora](https://ja.wikipedia.org/wiki/mora "wikilink")にて[デジタル・ダウンロード](https://ja.wikipedia.org/wiki/デジタル・ダウンロード "wikilink")でリリースされた\[44\]。[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")でも音楽配信されている\[45\]。
 
   - 収録曲
     オリジナル盤の収録曲に加えてボーナス・トラックとして、33枚目のシングル「MOONLIGHT SHADOW-月に吠えろ」、34枚目のシングル「APPETITE」と同曲のカップリング曲「SWEET SUSPICION」を含む3曲を収録した\[46\]。

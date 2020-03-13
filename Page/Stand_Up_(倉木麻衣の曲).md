@@ -5,7 +5,7 @@
 
 ## 概要
 
-楽曲は、「[爽健美茶](https://ja.wikipedia.org/wiki/爽健美茶 "wikilink") Natural Breeze 2001 happy live」テーマソング。シングル[A面曲の作曲](https://ja.wikipedia.org/wiki/A面/B面 "wikilink")・編曲を初めて[徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")が担当した。10周年を記念したベスト・アルバム『[ALL MY BEST](https://ja.wikipedia.org/wiki/ALL_MY_BEST "wikilink")』をPRする際には、「[Love, Day After Tomorrow](../Page/Love,_Day_After_Tomorrow.md "wikilink")」「[Stay by my side](../Page/Stay_by_my_side.md "wikilink")」「[Secret of my heart](../Page/Secret_of_my_heart.md "wikilink")」「[Feel fine\!](https://ja.wikipedia.org/wiki/Feel_fine! "wikilink")」の代表曲と共に紹介されていることから、この曲も代表曲として挙げられる。また、多くの彼女の紹介文書には以上4曲と当楽曲の合計5曲を代表曲として挙げられている。
+楽曲は、「[爽健美茶](../Page/爽健美茶.md "wikilink") Natural Breeze 2001 happy live」テーマソング。シングル[A面曲の作曲](https://ja.wikipedia.org/wiki/A面/B面 "wikilink")・編曲を初めて[徳永暁人](../Page/徳永暁人.md "wikilink")が担当した。10周年を記念したベスト・アルバム『[ALL MY BEST](https://ja.wikipedia.org/wiki/ALL_MY_BEST "wikilink")』をPRする際には、「[Love, Day After Tomorrow](../Page/Love,_Day_After_Tomorrow.md "wikilink")」「[Stay by my side](../Page/Stay_by_my_side.md "wikilink")」「[Secret of my heart](../Page/Secret_of_my_heart.md "wikilink")」「[Feel fine\!](../Page/Feel_fine!.md "wikilink")」の代表曲と共に紹介されていることから、この曲も代表曲として挙げられる。また、多くの彼女の紹介文書には以上4曲と当楽曲の合計5曲を代表曲として挙げられている。
 
 2004年、[ダンス☆マン](../Page/ダンス☆マン.md "wikilink")がアルバム『Funkcoverlic』でカバー。
 
@@ -16,9 +16,9 @@
 ## シングル収録曲
 
 1.  「Stand Up」 – 4:36
-      - 作詞: 倉木麻衣、作曲・編曲: [徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")
+      - 作詞: 倉木麻衣、作曲・編曲: [徳永暁人](../Page/徳永暁人.md "wikilink")
 2.  「Double Rainbow」 – 4:42
-      - 作詞: 倉木麻衣、作曲・編曲: [YOKO Black. Stone](https://ja.wikipedia.org/wiki/YOKO_Black._Stone "wikilink")
+      - 作詞: 倉木麻衣、作曲・編曲: [YOKO Black. Stone](../Page/YOKO_Black._Stone.md "wikilink")
     <!-- end list -->
       -
         詞は「ダブルレインボー（二重虹）を見た人は幸せになる」というハワイの伝説を元に書かれた。
@@ -35,7 +35,7 @@
 
 ## 収録アルバム
 
-  - [Perfect Crime](https://ja.wikipedia.org/wiki/Perfect_Crime_\(アルバム\) "wikilink")
+  - [Perfect Crime](../Page/Perfect_Crime_\(アルバム\).md "wikilink")
   - [Wish You The Best](../Page/Wish_You_The_Best.md "wikilink")
   - [ALL MY BEST](https://ja.wikipedia.org/wiki/ALL_MY_BEST "wikilink")
   - [BEST HIT BEING](https://ja.wikipedia.org/wiki/BEST_HIT_BEING "wikilink")

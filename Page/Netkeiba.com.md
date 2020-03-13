@@ -5,7 +5,7 @@
 
 ## 概要
 
-ホームページは、(https://www.netkeiba.com/?rf=logo)である。[中央](https://ja.wikipedia.org/wiki/中央競馬 "wikilink")・[地方](../Page/地方競馬.md "wikilink")・[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")国外を問わず、世界各地におけるさまざまな競馬に関するニュース・話題を提供。また[柏木集保](https://ja.wikipedia.org/wiki/柏木集保 "wikilink")や[長岡一也](../Page/長岡一也.md "wikilink")ら競馬にかかわる[評論家](../Page/競馬評論家.md "wikilink")、アナウンサーのコラムを掲載している。会員制（一部有料）コンテンツでは電子[競馬新聞](https://ja.wikipedia.org/wiki/競馬新聞 "wikilink")を閲覧したり、競馬に関するゲームに参加することができる。
+ホームページは、(https://www.netkeiba.com/?rf=logo)である。[中央](../Page/中央競馬.md "wikilink")・[地方](../Page/地方競馬.md "wikilink")・[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")国外を問わず、世界各地におけるさまざまな競馬に関するニュース・話題を提供。また[柏木集保](../Page/柏木集保.md "wikilink")や[長岡一也](../Page/長岡一也.md "wikilink")ら競馬にかかわる[評論家](../Page/競馬評論家.md "wikilink")、アナウンサーのコラムを掲載している。会員制（一部有料）コンテンツでは電子[競馬新聞](../Page/競馬新聞.md "wikilink")を閲覧したり、競馬に関するゲームに参加することができる。
 
 ## 主なサービス
 
@@ -27,7 +27,7 @@
 
 ### コラム
 
-１週間に50本以上の記事を毎日更新している。執筆者には、[騎手](../Page/騎手.md "wikilink")や予想家、[馬主](https://ja.wikipedia.org/wiki/馬主 "wikilink")などが名を連ねる。
+１週間に50本以上の記事を毎日更新している。執筆者には、[騎手](../Page/騎手.md "wikilink")や予想家、[馬主](../Page/馬主.md "wikilink")などが名を連ねる。
 
 ### ブックス
 
@@ -35,11 +35,11 @@
 
 ### データベース
 
-[中央](https://ja.wikipedia.org/wiki/中央競馬 "wikilink")・[地方](../Page/地方競馬.md "wikilink")・海外の[競走馬](https://ja.wikipedia.org/wiki/競走馬 "wikilink")・[種牡馬](../Page/種牡馬.md "wikilink")・[繁殖牝馬](../Page/繁殖牝馬.md "wikilink")の成績やプロフィールが2019年8月17日現在で471,904頭掲載されている。[馬主](https://ja.wikipedia.org/wiki/馬主 "wikilink")・[調教師](https://ja.wikipedia.org/wiki/調教師 "wikilink")・[生産者](https://ja.wikipedia.org/wiki/生産者 "wikilink")の成績やプロフィール、レースの内容と結果も収録されている。
+[中央](../Page/中央競馬.md "wikilink")・[地方](../Page/地方競馬.md "wikilink")・海外の[競走馬](https://ja.wikipedia.org/wiki/競走馬 "wikilink")・[種牡馬](../Page/種牡馬.md "wikilink")・[繁殖牝馬](../Page/繁殖牝馬.md "wikilink")の成績やプロフィールが2019年8月17日現在で471,904頭掲載されている。[馬主](../Page/馬主.md "wikilink")・[調教師](../Page/調教師.md "wikilink")・[生産者](https://ja.wikipedia.org/wiki/生産者 "wikilink")の成績やプロフィール、レースの内容と結果も収録されている。
 
 ### 地方競馬
 
-[帯広](https://ja.wikipedia.org/wiki/帯広競馬場 "wikilink")・[門別](../Page/門別競馬場.md "wikilink")・[盛岡](../Page/盛岡競馬場.md "wikilink")・[水沢](../Page/水沢競馬場.md "wikilink")・[浦和](../Page/浦和競馬場.md "wikilink")・[船橋](../Page/船橋競馬場.md "wikilink")・[大井](../Page/大井競馬場.md "wikilink")・[川崎](../Page/川崎競馬場.md "wikilink")・[金沢](../Page/金沢競馬場.md "wikilink")・[笠松](../Page/笠松競馬場.md "wikilink")・[名古屋](../Page/名古屋競馬場.md "wikilink")・[園田](../Page/園田競馬場.md "wikilink")・[姫路](../Page/姫路競馬場.md "wikilink")・[高知](../Page/高知競馬場.md "wikilink")・[佐賀などのすべての](../Page/佐賀競馬場.md "wikilink")[地方競馬](../Page/地方競馬.md "wikilink")のレースの情報や出馬表・結果を掲載している。
+[帯広](../Page/帯広競馬場.md "wikilink")・[門別](../Page/門別競馬場.md "wikilink")・[盛岡](../Page/盛岡競馬場.md "wikilink")・[水沢](../Page/水沢競馬場.md "wikilink")・[浦和](../Page/浦和競馬場.md "wikilink")・[船橋](../Page/船橋競馬場.md "wikilink")・[大井](../Page/大井競馬場.md "wikilink")・[川崎](../Page/川崎競馬場.md "wikilink")・[金沢](../Page/金沢競馬場.md "wikilink")・[笠松](../Page/笠松競馬場.md "wikilink")・[名古屋](../Page/名古屋競馬場.md "wikilink")・[園田](../Page/園田競馬場.md "wikilink")・[姫路](../Page/姫路競馬場.md "wikilink")・[高知](../Page/高知競馬場.md "wikilink")・[佐賀などのすべての](../Page/佐賀競馬場.md "wikilink")[地方競馬](../Page/地方競馬.md "wikilink")のレースの情報や出馬表・結果を掲載している。
 
 ### 俺プロ
 
@@ -51,7 +51,7 @@
 
 ### 一口馬主
 
-[一口馬主](https://ja.wikipedia.org/wiki/一口馬主 "wikilink")向けに、クラブ・目的・ランキングなどからデビュー前の[競走馬](https://ja.wikipedia.org/wiki/競走馬 "wikilink")を検索することができる。また、一口馬主に関連したニュース、一口馬主クラブごとのデータも収録している。
+[一口馬主](../Page/一口馬主.md "wikilink")向けに、クラブ・目的・ランキングなどからデビュー前の[競走馬](https://ja.wikipedia.org/wiki/競走馬 "wikilink")を検索することができる。また、一口馬主に関連したニュース、一口馬主クラブごとのデータも収録している。
 
 ### POG(ペーパーオーナーゲーム)
 
@@ -59,7 +59,7 @@ netkeiba主催で賞品獲得も可能な[ペーパーオーナーゲーム](../
 
 ### 競馬新聞
 
-[馬三郎](../Page/馬三郎.md "wikilink")の[競馬新聞](https://ja.wikipedia.org/wiki/競馬新聞 "wikilink")を配信している。利用料0円の「お試しコース」、月額500円の「ミニコース」、競馬専門紙を収録した月額1524円の「予想フルコース」、さらに月額2477円の「プレミアムコース」が存在する。
+[馬三郎](../Page/馬三郎.md "wikilink")の[競馬新聞](../Page/競馬新聞.md "wikilink")を配信している。利用料0円の「お試しコース」、月額500円の「ミニコース」、競馬専門紙を収録した月額1524円の「予想フルコース」、さらに月額2477円の「プレミアムコース」が存在する。
 
 ## プレミアムコース
 

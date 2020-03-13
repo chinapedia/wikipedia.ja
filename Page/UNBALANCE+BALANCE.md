@@ -1,7 +1,7 @@
 > この記事は[UNBALANCE+BALANCE](https://ja.wikipedia.org/wiki/UNBALANCE+BALANCE)から翻訳されています。
 
 
-『**UNBALANCE+BALANCE**』（アンバランス・バランス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の15枚目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。このアルバムは1993年9月22日に[MCAビクター](https://ja.wikipedia.org/wiki/MCAビクター "wikilink")よりリリースされた ([CD](../Page/コンパクトディスク.md "wikilink"): MVCD-9, [CT](../Page/コンパクトカセット.md "wikilink"): MVTD-4, [DCC](../Page/デジタルコンパクトカセット.md "wikilink"): MVXD-7)。2002年12月4日には『[UNBALANCE+BALANCE+6](https://ja.wikipedia.org/wiki/#UNBALANCE+BALANCE+6 "wikilink")』として[ユニバーサルJから再発売された](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。
+『**UNBALANCE+BALANCE**』（アンバランス・バランス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の15枚目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。このアルバムは1993年9月22日に[MCAビクター](https://ja.wikipedia.org/wiki/MCAビクター "wikilink")よりリリースされた ([CD](../Page/コンパクトディスク.md "wikilink"): MVCD-9, [CT](../Page/コンパクトカセット.md "wikilink"): MVTD-4, [DCC](../Page/デジタルコンパクトカセット.md "wikilink"): MVXD-7)。2002年12月4日には『[UNBALANCE+BALANCE+6](https://ja.wikipedia.org/wiki/#UNBALANCE+BALANCE+6 "wikilink")』として[ユニバーサルJから再発売された](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
 
 ## 背景
 
@@ -13,13 +13,13 @@
 
 ### 再発盤
 
-『**UNBALANCE+BALANCE+6**』（アンバランス・バランス・プラスシックス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の15枚目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")『[UNBALANCE+BALANCE](https://ja.wikipedia.org/wiki/#top "wikilink")』のリマスター再発盤（セシウムクロックを採用）\[20\]\[21\]。このアルバムは2002年12月4日に[ユニバーサルJより](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")[CD](../Page/コンパクトディスク.md "wikilink") (UMCK-1149)でリリースされた\[22\]。CD盤には、レコードプロデューサーの[川原伸司](../Page/川原伸司.md "wikilink")によるライナーノーツも収められた\[23\]。2005年7月1日には[mora](https://ja.wikipedia.org/wiki/mora "wikilink")にて[デジタル・ダウンロード](https://ja.wikipedia.org/wiki/デジタル・ダウンロード "wikilink")でリリースされた\[24\]。[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")でも音楽配信されている\[25\]。
+『**UNBALANCE+BALANCE+6**』（アンバランス・バランス・プラスシックス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の15枚目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")『[UNBALANCE+BALANCE](https://ja.wikipedia.org/wiki/#top "wikilink")』のリマスター再発盤（セシウムクロックを採用）\[20\]\[21\]。このアルバムは2002年12月4日に[ユニバーサルJより](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")[CD](../Page/コンパクトディスク.md "wikilink") (UMCK-1149)でリリースされた\[22\]。CD盤には、レコードプロデューサーの[川原伸司](../Page/川原伸司.md "wikilink")によるライナーノーツも収められた\[23\]。2005年7月1日には[mora](https://ja.wikipedia.org/wiki/mora "wikilink")にて[デジタル・ダウンロード](https://ja.wikipedia.org/wiki/デジタル・ダウンロード "wikilink")でリリースされた\[24\]。[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")でも音楽配信されている\[25\]。
 
 『UNBALANCE+BALANCE』のオリジナル収録曲に加えてボーナス・トラックとして、27枚目のシングル「[Everlasting Love](https://ja.wikipedia.org/wiki/Everlasting_Love_\(中森明菜の曲\) "wikilink") ・ [NOT CRAZY TO ME](../Page/NOT_CRAZY_TO_ME.md "wikilink")」、29枚目のシングル「[夜のどこかで 〜night shift〜](../Page/夜のどこかで_〜night_shift〜.md "wikilink")」、30枚目のシングル「[月華](../Page/月華.md "wikilink")」のカップリング曲を含む6曲が追加された\[26\]\[27\]。
 
 ## シングル
 
-「[NOT CRAZY TO ME](../Page/NOT_CRAZY_TO_ME.md "wikilink")」が、本作からのリード・シングルとして、1993年5月21日に発売された\[28\]\[29\]。この楽曲は「[Everlasting Love](https://ja.wikipedia.org/wiki/Everlasting_Love_\(中森明菜の曲\) "wikilink")」との両A面シングルで、MCAビクター移籍第一弾シングルとして2年3か月ぶりに発売された\[30\]\[31\]\[32\]。このアルバムで「NOT CRAZY TO ME」は、アルバム・バージョンで収録された\[33\]\[34\]。続いて本作から「[愛撫](../Page/愛撫_\(中森明菜の曲\).md "wikilink")」が、翌年の1994年3月24日に「[片想い](https://ja.wikipedia.org/wiki/片想い_\(中森明菜の曲\) "wikilink")・愛撫」として[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")された\[35\]\[36\]。「愛撫」は、このアルバム発売直後の[有線チャートの](https://ja.wikipedia.org/wiki/USEN "wikilink")1993年10月21日付と1993年10月28日付で最高順位3位を記録している\[37\]\[38\]。
+「[NOT CRAZY TO ME](../Page/NOT_CRAZY_TO_ME.md "wikilink")」が、本作からのリード・シングルとして、1993年5月21日に発売された\[28\]\[29\]。この楽曲は「[Everlasting Love](https://ja.wikipedia.org/wiki/Everlasting_Love_\(中森明菜の曲\) "wikilink")」との両A面シングルで、MCAビクター移籍第一弾シングルとして2年3か月ぶりに発売された\[30\]\[31\]\[32\]。このアルバムで「NOT CRAZY TO ME」は、アルバム・バージョンで収録された\[33\]\[34\]。続いて本作から「[愛撫](../Page/愛撫_\(中森明菜の曲\).md "wikilink")」が、翌年の1994年3月24日に「[片想い](https://ja.wikipedia.org/wiki/片想い_\(中森明菜の曲\) "wikilink")・愛撫」として[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")された\[35\]\[36\]。「愛撫」は、このアルバム発売直後の[有線チャートの](../Page/USEN.md "wikilink")1993年10月21日付と1993年10月28日付で最高順位3位を記録している\[37\]\[38\]。
 
 ## 批評
 
@@ -27,7 +27,7 @@
 
 ## チャート成績
 
-『UNBALANCE+BALANCE』は、[オリコン週間アルバムチャートの](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1993年10月4日付で初登場し、最高順位4位を記録した\[41\]\[42\]。同チャートには、計9週に渡ってランクインしている\[43\]。
+『UNBALANCE+BALANCE』は、[オリコン週間アルバムチャートの](../Page/オリコンチャート.md "wikilink")1993年10月4日付で初登場し、最高順位4位を記録した\[41\]\[42\]。同チャートには、計9週に渡ってランクインしている\[43\]。
 
 ## 収録曲
 

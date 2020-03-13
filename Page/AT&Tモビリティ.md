@@ -1,7 +1,7 @@
 > この記事は[AT\&T](https://ja.wikipedia.org/wiki/AT\&T)から翻訳されています。
 
 
-**AT\&Tモビリティ** (*AT\&T Mobility LLC*) は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の加入者数第2位の[携帯電話事業者](https://ja.wikipedia.org/wiki/電気通信事業者 "wikilink")。[AT\&T Inc.の完全子会社で](../Page/AT&T.md "wikilink")、旧社名はシンギュラー・ワイヤレス(*Cingular Wireless, LLC*、[:en:Cingular Wireless](https://ja.wikipedia.org/wiki/:en:Cingular_Wireless "wikilink"))。本社所在地は、[ジョージア州](../Page/ジョージア州.md "wikilink")[アトランタ](../Page/アトランタ.md "wikilink")。2019年9月末現在、1億6230万人\[1\]の加入者を擁する。
+**AT\&Tモビリティ** (*AT\&T Mobility LLC*) は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の加入者数第2位の[携帯電話事業者](../Page/電気通信事業者.md "wikilink")。[AT\&T Inc.の完全子会社で](../Page/AT&T.md "wikilink")、旧社名はシンギュラー・ワイヤレス(*Cingular Wireless, LLC*、[:en:Cingular Wireless](https://ja.wikipedia.org/wiki/:en:Cingular_Wireless "wikilink"))。本社所在地は、[ジョージア州](../Page/ジョージア州.md "wikilink")[アトランタ](../Page/アトランタ.md "wikilink")。2019年9月末現在、1億6230万人\[1\]の加入者を擁する。
 
 ## 概要
 
@@ -11,7 +11,7 @@
 
 ### 歴史
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Cingular_SIM.png "wikilink")\]\] AT\&Tモビリティ前身のシンギュラー・ワイヤレス（[:en:Cingular Wireless](https://ja.wikipedia.org/wiki/:en:Cingular_Wireless "wikilink")）は[2001年](../Page/2001年.md "wikilink")に[SBCコミュニケーションズ](https://ja.wikipedia.org/wiki/SBCコミュニケーションズ "wikilink")と[ベルサウス](https://ja.wikipedia.org/wiki/ベルサウス "wikilink")との合弁企業として、当時11社あった両者傘下の地域携帯電話会社が合併して設立された。設立当時は、ベライゾン・ワイヤレスにつぐ、全米2位の規模の[携帯電話事業者であった](https://ja.wikipedia.org/wiki/電気通信事業者 "wikilink")。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Cingular_SIM.png "wikilink")\]\] AT\&Tモビリティ前身のシンギュラー・ワイヤレス（[:en:Cingular Wireless](https://ja.wikipedia.org/wiki/:en:Cingular_Wireless "wikilink")）は[2001年](../Page/2001年.md "wikilink")に[SBCコミュニケーションズ](https://ja.wikipedia.org/wiki/SBCコミュニケーションズ "wikilink")と[ベルサウス](https://ja.wikipedia.org/wiki/ベルサウス "wikilink")との合弁企業として、当時11社あった両者傘下の地域携帯電話会社が合併して設立された。設立当時は、ベライゾン・ワイヤレスにつぐ、全米2位の規模の[携帯電話事業者であった](../Page/電気通信事業者.md "wikilink")。
 
 [2004年](../Page/2004年.md "wikilink")2月 英[ボーダフォン](https://ja.wikipedia.org/wiki/ボーダフォン "wikilink")との買収合戦を経て、当時、全米加入者数第3位の[AT\&Tワイヤレス](https://ja.wikipedia.org/wiki/AT&Tワイヤレス "wikilink")を410億ドルで買収し、全米最大の携帯電話事業者となった。ボーダフォンの買収提示額は、400億ドルであった。AT\&Tワイヤレスの筆頭株主は、16％保有の[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")であったが、この合併により、同社は、合併会社への影響力を、ほぼ失った。
 

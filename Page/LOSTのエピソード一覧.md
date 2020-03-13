@@ -1,7 +1,7 @@
 > この記事は[LOST](https://ja.wikipedia.org/wiki/LOST)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:J._J._Abrams_by_Gage_Skidmore.jpg "wikilink")』の発案者の1人であり、また[パイロット・エピソードの監督も務めた](../Page/墜落_\(LOST\).md "wikilink")[J・J・エイブラムス](../Page/J・J・エイブラムス.md "wikilink")。\]\] 『**LOST**』**のエピソード**は121話に及び、2004年9月22日から2010年5月23日までに[アメリカン・ブロードキャスティング・カンパニー](https://ja.wikipedia.org/wiki/アメリカン・ブロードキャスティング・カンパニー "wikilink")で放送された。[ジェフリー・リーバー](https://ja.wikipedia.org/wiki/ジェフリー・リーバー "wikilink")のオリジナル脚本『*Nowhere*』を発展させたこの連続テレビドラマの[パイロット・エピソードは](../Page/墜落_\(LOST\).md "wikilink")[J・J・エイブラムス](../Page/J・J・エイブラムス.md "wikilink")が監督し、彼らと[デイモン・リンデロフ](https://ja.wikipedia.org/wiki/デイモン・リンデロフ "wikilink")が発案者となっている\[1\]。番組本編は計6シーズンが放送されたほか、過去のエピソードを要約した[総集編](../Page/総集編.md "wikilink")が存在する\[2\]。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:J._J._Abrams_by_Gage_Skidmore.jpg "wikilink")』の発案者の1人であり、また[パイロット・エピソードの監督も務めた](../Page/墜落_\(LOST\).md "wikilink")[J・J・エイブラムス](../Page/J・J・エイブラムス.md "wikilink")。\]\] 『**LOST**』**のエピソード**は121話に及び、2004年9月22日から2010年5月23日までに[アメリカン・ブロードキャスティング・カンパニー](../Page/アメリカン・ブロードキャスティング・カンパニー.md "wikilink")で放送された。[ジェフリー・リーバー](https://ja.wikipedia.org/wiki/ジェフリー・リーバー "wikilink")のオリジナル脚本『*Nowhere*』を発展させたこの連続テレビドラマの[パイロット・エピソードは](../Page/墜落_\(LOST\).md "wikilink")[J・J・エイブラムス](../Page/J・J・エイブラムス.md "wikilink")が監督し、彼らと[デイモン・リンデロフ](https://ja.wikipedia.org/wiki/デイモン・リンデロフ "wikilink")が発案者となっている\[1\]。番組本編は計6シーズンが放送されたほか、過去のエピソードを要約した[総集編](../Page/総集編.md "wikilink")が存在する\[2\]。
 
 ## シリーズ概要
 
@@ -47,7 +47,7 @@
 <th><p>EpisodeNumber=2</p></th>
 <th><p>Title=Destination Lost</p></th>
 <th><p>OriginalAirDate=</p></th>
-<th><p>Aux1=<a href="https://ja.wikipedia.org/wiki/ピーター・コヨーテ" title="wikilink">ピーター・コヨーテ</a></p></th>
+<th><p>Aux1=<a href="../Page/ピーター・コヨーテ.md" title="wikilink">ピーター・コヨーテ</a></p></th>
 <th><p>Aux2=「」 <small>(第1シーズン最終回)</small><br />
 「」 <small>(第2シーズン初回)</small></p></th>
 <th><p>Viewers=15.27[4] }} {{Episode list</p></th>
@@ -76,7 +76,7 @@
 <th><p>EpisodeNumber=6</p></th>
 <th><p>Title=Lost Survivor Guide</p></th>
 <th><p>OriginalAirDate=</p></th>
-<th><p>Aux1=<a href="https://ja.wikipedia.org/wiki/カイル・マクラクラン" title="wikilink">カイル・マクラクラン</a><br />
+<th><p>Aux1=<a href="../Page/カイル・マクラクラン.md" title="wikilink">カイル・マクラクラン</a><br />
 司会: <a href="https://ja.wikipedia.org/wiki/デイモン・リンデロフ" title="wikilink">デイモン・リンデロフ</a> &amp; <a href="https://ja.wikipedia.org/wiki/カールトン・キューズ" title="wikilink">カールトン・キューズ</a></p></th>
 <th><p>Aux2="」 <small>(第55話)</small><br />
 「」 <small>(第56話)</small></p></th>

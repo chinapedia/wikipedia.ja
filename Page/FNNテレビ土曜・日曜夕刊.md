@@ -9,7 +9,7 @@
 
 ## FNNテレビ土曜夕刊
 
-発足以来土曜日は平日扱いで、[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[10月3日](../Page/10月3日.md "wikilink")まで『[FNNニュース](https://ja.wikipedia.org/wiki/FNNニュース "wikilink")』を放送。同年[10月10日](../Page/10月10日.md "wikilink")から『[FNNニュース6:30](../Page/FNNニュース6:30.md "wikilink")』を放送していたが、[1975年](../Page/1975年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")から同じ時間を[タツノコプロ](../Page/タツノコプロ.md "wikilink")製作の[アニメ](../Page/アニメ.md "wikilink")枠としたため（『[タイムボカン](https://ja.wikipedia.org/wiki/タイムボカン "wikilink")』。以降同シリーズ枠となる）、17時台の後半に移動し、同タイトルに改題している。
+発足以来土曜日は平日扱いで、[1970年](../Page/1970年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")まで『[FNNニュース](https://ja.wikipedia.org/wiki/FNNニュース "wikilink")』を放送。同年[10月10日](../Page/10月10日.md "wikilink")から『[FNNニュース6:30](../Page/FNNニュース6:30.md "wikilink")』を放送していたが、[1975年](../Page/1975年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")から同じ時間を[タツノコプロ](../Page/タツノコプロ.md "wikilink")製作の[アニメ](../Page/アニメ.md "wikilink")枠としたため（『[タイムボカン](../Page/タイムボカン.md "wikilink")』。以降同シリーズ枠となる）、17時台の後半に移動し、同タイトルに改題している。
 
 ## キャスター
 
@@ -62,7 +62,7 @@
 <td><p>1969年12月開局から。現在はFNNのみ加入</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/山形県" title="wikilink">山形県</a></p></td>
+<td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
 <td><p><a href="../Page/山形テレビ.md" title="wikilink">山形テレビ</a>(YTS)</p></td>
 <td><p>FNN</p></td>
 <td><p>1970年4月開局から。現在はANN系列</p></td>
@@ -71,7 +71,7 @@
 <td><p><a href="../Page/新潟県.md" title="wikilink">新潟県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/新潟総合テレビ" title="wikilink">新潟総合テレビ</a>(NST)</p></td>
 <td><p>FNN/NNN/ANN</p></td>
-<td><p>日曜は『<a href="https://ja.wikipedia.org/wiki/笑点" title="wikilink">笑点</a>』→『<a href="https://ja.wikipedia.org/wiki/朝日新聞テレビ夕刊" title="wikilink">朝日新聞テレビ夕刊</a>』をネットのため未放送</p></td>
+<td><p>日曜は『<a href="https://ja.wikipedia.org/wiki/笑点" title="wikilink">笑点</a>』→『<a href="../Page/朝日新聞テレビ夕刊.md" title="wikilink">朝日新聞テレビ夕刊</a>』をネットのため未放送</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/長野県.md" title="wikilink">長野県</a></p></td>
@@ -108,7 +108,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/東海3県" title="wikilink">中京広域圏</a></p></td>
+<td><p><a href="../Page/東海3県.md" title="wikilink">中京広域圏</a></p></td>
 <td><p><a href="../Page/東海テレビ放送.md" title="wikilink">東海テレビ</a>(THK)</p></td>
 <td><p>日曜日は『<a href="../Page/中日新聞テレビ日曜夕刊.md" title="wikilink">中日新聞テレビ日曜夕刊</a>』と改題</p></td>
 <td></td>
@@ -133,7 +133,7 @@
 <td><p>1975年4月から。<br />
 1979年4月の岡山・香川相互乗り入れまでは日曜日のみ放送。<br />
 土曜日は<a href="../Page/テレビ朝日.md" title="wikilink">日本教育テレビ→全国朝日放送の</a>『<a href="../Page/ANNニュースレーダー.md" title="wikilink">ANNニュースレーダー</a>』をネット<br />
-日曜日は1979年3月まで当番組と『<a href="https://ja.wikipedia.org/wiki/朝日新聞テレビ夕刊" title="wikilink">朝日新聞テレビ夕刊</a>』（ANN）を並列放送したが、FNNの方を生放送した。</p></td>
+日曜日は1979年3月まで当番組と『<a href="../Page/朝日新聞テレビ夕刊.md" title="wikilink">朝日新聞テレビ夕刊</a>』（ANN）を並列放送したが、FNNの方を生放送した。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/広島県.md" title="wikilink">広島県</a></p></td>
@@ -154,7 +154,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/テレビ西日本.md" title="wikilink">テレビ西日本</a>(TNC)</p></td>
 <td></td>
 <td></td>

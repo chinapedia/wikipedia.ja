@@ -1,7 +1,7 @@
 > この記事は[YWCA](https://ja.wikipedia.org/wiki/YWCA)から翻訳されています。
 
 
-**大阪YWCA専門学校**（おおさかワイダブリュシーエーせんもんがっこう）は、[大阪市](../Page/大阪市.md "wikilink")[北区](../Page/北区_\(大阪市\).md "wikilink")[神山町にある](https://ja.wikipedia.org/wiki/神山町_\(大阪市\) "wikilink")[専修学校](https://ja.wikipedia.org/wiki/専修学校 "wikilink")。[財団法人](../Page/財団法人.md "wikilink")[大阪YWCAが運営する](https://ja.wikipedia.org/wiki/キリスト教女子青年会 "wikilink")。
+**大阪YWCA専門学校**（おおさかワイダブリュシーエーせんもんがっこう）は、[大阪市](../Page/大阪市.md "wikilink")[北区](../Page/北区_\(大阪市\).md "wikilink")[神山町にある](https://ja.wikipedia.org/wiki/神山町_\(大阪市\) "wikilink")[専修学校](https://ja.wikipedia.org/wiki/専修学校 "wikilink")。[財団法人](../Page/財団法人.md "wikilink")[大阪YWCAが運営する](../Page/キリスト教女子青年会.md "wikilink")。
 
 専門学校には[枚方療育園](https://ja.wikipedia.org/wiki/枚方療育園 "wikilink")が運営している[山西福祉記念会館が併設している](https://ja.wikipedia.org/wiki/枚方療育園#山西福祉記念会館 "wikilink")。
 

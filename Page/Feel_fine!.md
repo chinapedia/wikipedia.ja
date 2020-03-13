@@ -5,9 +5,9 @@
 
 ## 概要
 
-[オリコン週間チャートで初登場](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")2位を獲得し、日本のアーティストとして初登場2位の回数が歴代1位となった。
+[オリコン週間チャートで初登場](../Page/オリコンチャート.md "wikilink")2位を獲得し、日本のアーティストとして初登場2位の回数が歴代1位となった。
 
-「**Feel fine\!**」は[シーブリーズ](../Page/シーブリーズ.md "wikilink")の[CMソングに使用された](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。CMには倉木本人も出演している。[プロモーションビデオが](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")2種類あり、[hillsパン工場Cafeで撮影されたCafe](https://ja.wikipedia.org/wiki/hills_パン工場 "wikilink") ver.では当時のGIZA studio所属アーティストであった、[愛内里菜](https://ja.wikipedia.org/wiki/愛内里菜 "wikilink")・[上原あずみ](https://ja.wikipedia.org/wiki/上原あずみ "wikilink")・[三枝夕夏](../Page/三枝夕夏.md "wikilink")や[GARNET CROWの中村由利などが多数出演している](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")。ちなみに、この[プロモーション・ビデオ中で着ぐるみを着て踊っているのは](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")[作曲家](../Page/作曲家.md "wikilink")の[大野愛果](../Page/大野愛果.md "wikilink")である。曲中では、バイクの効果音を用いるなどしている。こちらのCafe ver.は発売当時は音楽番組などで放送されていたが、現在未商品化のままとなっている。
+「**Feel fine\!**」は[シーブリーズ](../Page/シーブリーズ.md "wikilink")の[CMソングに使用された](../Page/コマーシャルソング.md "wikilink")。CMには倉木本人も出演している。[プロモーションビデオが](../Page/ミュージック・ビデオ.md "wikilink")2種類あり、[hillsパン工場Cafeで撮影されたCafe](https://ja.wikipedia.org/wiki/hills_パン工場 "wikilink") ver.では当時のGIZA studio所属アーティストであった、[愛内里菜](https://ja.wikipedia.org/wiki/愛内里菜 "wikilink")・[上原あずみ](https://ja.wikipedia.org/wiki/上原あずみ "wikilink")・[三枝夕夏](../Page/三枝夕夏.md "wikilink")や[GARNET CROWの中村由利などが多数出演している](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")。ちなみに、この[プロモーション・ビデオ中で着ぐるみを着て踊っているのは](../Page/ミュージック・ビデオ.md "wikilink")[作曲家](../Page/作曲家.md "wikilink")の[大野愛果](../Page/大野愛果.md "wikilink")である。曲中では、バイクの効果音を用いるなどしている。こちらのCafe ver.は発売当時は音楽番組などで放送されていたが、現在未商品化のままとなっている。
 
 10周年を記念したベストアルバム『[ALL MY BEST](https://ja.wikipedia.org/wiki/ALL_MY_BEST "wikilink")』をPRする際には、「[Love, Day After Tomorrow](../Page/Love,_Day_After_Tomorrow.md "wikilink")」「[Stay by my side](../Page/Stay_by_my_side.md "wikilink")」「[Secret of my heart](../Page/Secret_of_my_heart.md "wikilink")」「[Stand Up](../Page/Stand_Up_\(倉木麻衣の曲\).md "wikilink")」と共に紹介されていることから、この曲も代表曲として挙げられる。また、多くの彼女の紹介文書には以上4曲と当楽曲の合計5曲を代表曲として挙げられている。
 
@@ -18,11 +18,11 @@
 ## 収録曲
 
 1.  **Feel fine\!** (4:50)
-      - 作詞：倉木麻衣　作曲・編曲：[徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")
+      - 作詞：倉木麻衣　作曲・編曲：[徳永暁人](../Page/徳永暁人.md "wikilink")
 2.  **Rescue Me** (4:26)
-      - 作詞：倉木麻衣・[YOKO Black. Stone](https://ja.wikipedia.org/wiki/YOKO_Black._Stone "wikilink")　作曲・編曲：YOKO Black. Stone
+      - 作詞：倉木麻衣・[YOKO Black. Stone](../Page/YOKO_Black._Stone.md "wikilink")　作曲・編曲：YOKO Black. Stone
 3.  **Mai-K Dub Edition 〜K.F.A. Discotheque Master Mix〜** (5:04)
-4.  **Feel fine\! 〜[Instrumental](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")〜**
+4.  **Feel fine\! 〜[Instrumental](../Page/器楽曲.md "wikilink")〜**
 
 ## 参加ミュージシャン
 

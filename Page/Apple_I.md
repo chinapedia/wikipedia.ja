@@ -3,7 +3,7 @@
 
 **Apple I**（アップル ワン）は、[アップルが最初期に製作した](../Page/アップル_\(企業\).md "wikilink")[マイクロコンピュータ](../Page/マイクロコンピュータ.md "wikilink")である。「Apple 1」と表記されることもあるが、これは基板の表面に「Apple Computer 1」と刻印されていたため。
 
-[スティーブ・ジョブズ](../Page/スティーブ・ジョブズ.md "wikilink")とともにアップルを創業したエンジニア、[スティーブ・ウォズニアック](https://ja.wikipedia.org/wiki/スティーブ・ウォズニアック "wikilink")がほぼ独力で開発したマイクロコンピュータ（ないし、周辺装置を容易に仕立てられるよう周到に設計された、ある種の[ワンボードマイコン](../Page/ワンボードマイコン.md "wikilink")）である\[1\]\[2\]。アップルコンピュータの創立者3名が私財を投じて作った。ジョブズは唯一の移動手段だった[フォルクスワーゲン](https://ja.wikipedia.org/wiki/フォルクスワーゲン "wikilink")のバンを売り\[3\]、ウォズニアックは[ヒューレット・パッカード](../Page/ヒューレット・パッカード.md "wikilink")製の[HP-65](https://ja.wikipedia.org/wiki/HP-65 "wikilink")という電卓を500ドルで売った\[4\]。
+[スティーブ・ジョブズ](../Page/スティーブ・ジョブズ.md "wikilink")とともにアップルを創業したエンジニア、[スティーブ・ウォズニアック](../Page/スティーブ・ウォズニアック.md "wikilink")がほぼ独力で開発したマイクロコンピュータ（ないし、周辺装置を容易に仕立てられるよう周到に設計された、ある種の[ワンボードマイコン](../Page/ワンボードマイコン.md "wikilink")）である\[1\]\[2\]。アップルコンピュータの創立者3名が私財を投じて作った。ジョブズは唯一の移動手段だった[フォルクスワーゲン](https://ja.wikipedia.org/wiki/フォルクスワーゲン "wikilink")のバンを売り\[3\]、ウォズニアックは[ヒューレット・パッカード](../Page/ヒューレット・パッカード.md "wikilink")製の[HP-65](../Page/HP-65.md "wikilink")という電卓を500ドルで売った\[4\]。
 
 1976年7月、カリフォルニア州[パロアルトの](../Page/パロアルト_\(カリフォルニア州\).md "wikilink")[ホームブリュー・コンピュータ・クラブ](https://ja.wikipedia.org/wiki/ホームブリュー・コンピュータ・クラブ "wikilink")で披露された\[5\]。
 
@@ -11,9 +11,9 @@
 
 ## 歴史
 
-1976年7月、666ドル66セントという価格で発売\[6\]。この価格設定は、ウォズニアックが「数字の繰り返し」が好きだからで、同時に地元の店に500ドルで売ったので、そこから3分の1値上げしたからでもある\[7\]。約200台を生産（うち、売れたのは約170台）。当時、他のホビイスト向けコンピュータは組み立てキットとして販売されていたが、Apple I は60個以上のチップを実装済みの回路基板として販売された。しかし[筐体](../Page/筐体.md "wikilink")は無く、ほかにも[キーボード](../Page/キーボード_\(コンピュータ\).md "wikilink")、[トランス](../Page/変圧器.md "wikilink")（レギュレータはオンボード）を自分で用意して組み立てなければならなかった。[カセットテープインタフェースについては別売りで用意され](../Page/データレコーダ.md "wikilink")（75ドル）、[拡張スロットに挿して使用した](https://ja.wikipedia.org/wiki/拡張カード "wikilink")。
+1976年7月、666ドル66セントという価格で発売\[6\]。この価格設定は、ウォズニアックが「数字の繰り返し」が好きだからで、同時に地元の店に500ドルで売ったので、そこから3分の1値上げしたからでもある\[7\]。約200台を生産（うち、売れたのは約170台）。当時、他のホビイスト向けコンピュータは組み立てキットとして販売されていたが、Apple I は60個以上のチップを実装済みの回路基板として販売された。しかし[筐体](../Page/筐体.md "wikilink")は無く、ほかにも[キーボード](../Page/キーボード_\(コンピュータ\).md "wikilink")、[トランス](../Page/変圧器.md "wikilink")（レギュレータはオンボード）を自分で用意して組み立てなければならなかった。[カセットテープインタフェースについては別売りで用意され](../Page/データレコーダ.md "wikilink")（75ドル）、[拡張スロットに挿して使用した](../Page/拡張カード.md "wikilink")。
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Apple_1_Advertisement_Oct_1976.jpg "wikilink") 当時としては内蔵の端末回路が際立っている。必要なのは[キーボードと安価な](../Page/キーボード_\(コンピュータ\).md "wikilink")[テレビ受像機](../Page/テレビ受像機.md "wikilink")だけである。競合する[Altair 8800などは](https://ja.wikipedia.org/wiki/Altair_8800 "wikilink")、フロントパネルのトグルスイッチでプログラミングし、ランプ（赤の[LEDなど](../Page/発光ダイオード.md "wikilink")）で表示させており、コンピュータ端末や[ASR-33](../Page/ASR-33.md "wikilink")のようなテレタイプ端末に接続するには別のハードウェアを追加する必要があった。そのためApple Iは革新的マシンだった。[BASIC](../Page/BASIC.md "wikilink")もテープで提供された。1977年4月、475ドルに値下げした\[8\]。同じく4月に[Apple IIを発表し](../Page/Apple_II.md "wikilink")6月から出荷開始していたが、1977年8月までApple Iも販売していた\[9\]。アップルの製品価格表からApple Iが消えたのは1977年10月のことで、その時点で正式に販売終了となった\[10\]。Apple Iについて顧客からの質問に応えサポートできる人間はウォズニアックだけだった。そのためアップルはApple IオーナーにApple IIのディスカウントやApple Iの下取りなどを提供してApple IからApple IIへ乗り換えさせた。アップルは回収したApple Iを全て裁断して廃棄した。このため現存するApple Iは非常に希少である\[11\]。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Apple_1_Advertisement_Oct_1976.jpg "wikilink") 当時としては内蔵の端末回路が際立っている。必要なのは[キーボードと安価な](../Page/キーボード_\(コンピュータ\).md "wikilink")[テレビ受像機](../Page/テレビ受像機.md "wikilink")だけである。競合する[Altair 8800などは](../Page/Altair_8800.md "wikilink")、フロントパネルのトグルスイッチでプログラミングし、ランプ（赤の[LEDなど](../Page/発光ダイオード.md "wikilink")）で表示させており、コンピュータ端末や[ASR-33](../Page/ASR-33.md "wikilink")のようなテレタイプ端末に接続するには別のハードウェアを追加する必要があった。そのためApple Iは革新的マシンだった。[BASIC](../Page/BASIC.md "wikilink")もテープで提供された。1977年4月、475ドルに値下げした\[8\]。同じく4月に[Apple IIを発表し](../Page/Apple_II.md "wikilink")6月から出荷開始していたが、1977年8月までApple Iも販売していた\[9\]。アップルの製品価格表からApple Iが消えたのは1977年10月のことで、その時点で正式に販売終了となった\[10\]。Apple Iについて顧客からの質問に応えサポートできる人間はウォズニアックだけだった。そのためアップルはApple IオーナーにApple IIのディスカウントやApple Iの下取りなどを提供してApple IからApple IIへ乗り換えさせた。アップルは回収したApple Iを全て裁断して廃棄した。このため現存するApple Iは非常に希少である\[11\]。
 
 ## コレクターズアイテムとしてのApple I
 
@@ -63,7 +63,7 @@
 4.  [Steve Jobs: Steve Wozniak Remembers](http://www.groovypost.com/news/steve-jobs-steve-wozniak-remembers/)
 5.
 6.
-7.  [Wozniak, Steven](https://ja.wikipedia.org/wiki/スティーブ・ウォズニアック "wikilink"): "iWoz", page 180. W. W. Norton, 2006. ISBN 978-0-393-06143-7
+7.  [Wozniak, Steven](../Page/スティーブ・ウォズニアック.md "wikilink"): "iWoz", page 180. W. W. Norton, 2006. ISBN 978-0-393-06143-7
 8.  [April 1977 Price List | Applefritter](http://www.applefritter.com/node/2703)
 9.  [Bill of Sale | Applefritter](http://www.applefritter.com/node/2715)
 10. [October 1977 Price List | Applefritter](http://www.applefritter.com/node/2707)

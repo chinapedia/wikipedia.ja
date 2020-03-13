@@ -5,7 +5,7 @@
 
 ## 概要
 
-アメリカのバラエティ番組「[ザ・グラディエーターズ](https://ja.wikipedia.org/wiki/ザ・グラディエーターズ "wikilink")」の日本ライセンス版。オリジナルは[1992年](../Page/1992年.md "wikilink")に[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列で「[激突\!アメリカン筋肉バトル](https://ja.wikipedia.org/wiki/激突!アメリカン筋肉バトル "wikilink")」（[かとうれいこ](https://ja.wikipedia.org/wiki/かとうれいこ "wikilink")と[蔵間](https://ja.wikipedia.org/wiki/蔵間 "wikilink")が司会）として日本語版が放映されていた。 この番組の売り物は、制作費用1億円と言われた大掛かりなセットである。1対1の闘技場、巨大な鉄球の中に入り転がすゲーム等、アクションテレビゲームの空想世界を現実化したかのような、ありとあらゆる競技（アトラクション）があった。司会は**[所ジョージ](https://ja.wikipedia.org/wiki/所ジョージ "wikilink")**と**[シルビア羽根](https://ja.wikipedia.org/wiki/シルビア_\(ファッションモデル\) "wikilink")**が務めた。
+アメリカのバラエティ番組「[ザ・グラディエーターズ](https://ja.wikipedia.org/wiki/ザ・グラディエーターズ "wikilink")」の日本ライセンス版。オリジナルは[1992年](../Page/1992年.md "wikilink")に[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列で「[激突\!アメリカン筋肉バトル](https://ja.wikipedia.org/wiki/激突!アメリカン筋肉バトル "wikilink")」（[かとうれいこ](../Page/かとうれいこ.md "wikilink")と[蔵間](https://ja.wikipedia.org/wiki/蔵間 "wikilink")が司会）として日本語版が放映されていた。 この番組の売り物は、制作費用1億円と言われた大掛かりなセットである。1対1の闘技場、巨大な鉄球の中に入り転がすゲーム等、アクションテレビゲームの空想世界を現実化したかのような、ありとあらゆる競技（アトラクション）があった。司会は**[所ジョージ](https://ja.wikipedia.org/wiki/所ジョージ "wikilink")**と**[シルビア羽根](https://ja.wikipedia.org/wiki/シルビア_\(ファッションモデル\) "wikilink")**が務めた。
 
   - 前半はイントウィション（クイズ）、後半は体力系アトラクションという番組構成が基本。1チーム3人での3チームが参加。開始当初は「チームSMAP」、[今田耕司](../Page/今田耕司.md "wikilink")・[東野幸治](../Page/東野幸治.md "wikilink")・女性ゲストの「チームイロモノ」（後に「チーム[よしもと](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")＆助っ人」となる）もしくは芸能人チーム、一般参加のチームだったが、一般参加枠はすぐに廃止され、もう一つの芸能人チーム（毎回異なる）になる。（後に、「チームV6」「チームよしもと＆助っ人」を含めた芸能人4チームの対抗戦に変更）
   - アトラクションは、アメリカの「ザ・グラディエーターズ」で使われたものと基本は共通。ややルールなどは異なる場合がある。数あるアトラクションのなかから2つを行い、イントウィションとアトラクションの合計点の上位2チームが決勝進出、決勝アトラクション「エリミネーター」で優勝を決める。優勝賞金は100万円（春の2時間特番では200万円）。因みにアメリカ版はすべて一般参加の個人戦、トーナメント方式である。
@@ -15,7 +15,7 @@
 
 ## 出演者
 
-  - [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink") - 最初は[森且行](../Page/森且行.md "wikilink")、[草彅剛](https://ja.wikipedia.org/wiki/草彅剛 "wikilink")、[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")の3人で、後に[中居正広](../Page/中居正広.md "wikilink")、[木村拓哉](https://ja.wikipedia.org/wiki/木村拓哉 "wikilink")も出演、[稲垣吾郎](../Page/稲垣吾郎.md "wikilink")は一度も出演しなかった。森の脱退を機にSMAPは降板。その後[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")などジャニーズ所属タレントの混合編成となる（先輩格も出演）。
+  - [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink") - 最初は[森且行](../Page/森且行.md "wikilink")、[草彅剛](https://ja.wikipedia.org/wiki/草彅剛 "wikilink")、[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")の3人で、後に[中居正広](../Page/中居正広.md "wikilink")、[木村拓哉](../Page/木村拓哉.md "wikilink")も出演、[稲垣吾郎](../Page/稲垣吾郎.md "wikilink")は一度も出演しなかった。森の脱退を機にSMAPは降板。その後[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")などジャニーズ所属タレントの混合編成となる（先輩格も出演）。
   - [V6](../Page/V6_\(グループ\).md "wikilink")（[坂本昌行](../Page/坂本昌行.md "wikilink")・[長野博](../Page/長野博.md "wikilink")・[井ノ原快彦](../Page/井ノ原快彦.md "wikilink")）
   - [忍者](../Page/忍者_\(グループ\).md "wikilink")（[柳沢超](../Page/柳沢超.md "wikilink")・[遠藤直人](../Page/遠藤直人.md "wikilink")・[正木慎也](../Page/正木慎也.md "wikilink")）
   - [今田耕司](../Page/今田耕司.md "wikilink")
@@ -23,14 +23,14 @@
   - [吉本印天然素材](../Page/吉本印天然素材.md "wikilink") - この当時は、**天然劇場**という名前に改名されていた。
   - [130R](../Page/130R.md "wikilink")（[板尾創路](../Page/板尾創路.md "wikilink")・[ほんこん](../Page/ほんこん.md "wikilink")）
   - [タイガー・ジェット・シン](../Page/タイガー・ジェット・シン.md "wikilink")
-  - [シャ乱Q](../Page/シャ乱Q.md "wikilink")（[つんく](https://ja.wikipedia.org/wiki/つんく "wikilink")・[まこと](https://ja.wikipedia.org/wiki/まこと_\(ミュージシャン\) "wikilink")・[たいせー](https://ja.wikipedia.org/wiki/たいせー "wikilink")）
+  - [シャ乱Q](../Page/シャ乱Q.md "wikilink")（[つんく](https://ja.wikipedia.org/wiki/つんく "wikilink")・[まこと](../Page/まこと_\(ミュージシャン\).md "wikilink")・[たいせー](https://ja.wikipedia.org/wiki/たいせー "wikilink")）
   - [MAX](https://ja.wikipedia.org/wiki/MAX_\(音楽グループ\) "wikilink")（[Nana](https://ja.wikipedia.org/wiki/Nana_\(歌手\) "wikilink")・[Reina](https://ja.wikipedia.org/wiki/Reina_\(歌手\) "wikilink")・[Mina](https://ja.wikipedia.org/wiki/Mina_\(歌手\) "wikilink")・[Lina](https://ja.wikipedia.org/wiki/Lina_\(歌手\) "wikilink")）
   - [間寛平](../Page/間寛平.md "wikilink")
   - [ロンドンブーツ1号2号](../Page/ロンドンブーツ1号2号.md "wikilink")（[田村淳](../Page/田村淳.md "wikilink")・[田村亮](../Page/田村亮_\(お笑い芸人\).md "wikilink")）
   - [薬師寺保栄](https://ja.wikipedia.org/wiki/薬師寺保栄 "wikilink")
   - [ダイノジ](../Page/ダイノジ.md "wikilink")（[大地洋輔](https://ja.wikipedia.org/wiki/大地洋輔 "wikilink")・[大谷ノブ彦](https://ja.wikipedia.org/wiki/大谷ノブ彦 "wikilink")）
-  - [D.R.U.G](https://ja.wikipedia.org/wiki/ドロンズ "wikilink") ([石本武士](../Page/ドロンズ石本.md "wikilink")･[大島直也](../Page/大島直也.md "wikilink"))
-  - [Mr.KOTETZ](https://ja.wikipedia.org/wiki/山本小鉄 "wikilink") - グラディエーターでの審判を務めた。
+  - [D.R.U.G](../Page/ドロンズ.md "wikilink") ([石本武士](../Page/ドロンズ石本.md "wikilink")･[大島直也](../Page/大島直也.md "wikilink"))
+  - [Mr.KOTETZ](../Page/山本小鉄.md "wikilink") - グラディエーターでの審判を務めた。
 
 ## グラディエーター
 
@@ -212,7 +212,7 @@
   - ディレクター：菅野貴志・後藤優（BEE BRAIN）他
   - プロデューサー：西敏也（BEE BRAIN）
   - プロデューサー・総合演出：[水口昌彦](../Page/水口昌彦.md "wikilink")（フジテレビ）
-  - 制作協力：[BEE BRAIN](https://ja.wikipedia.org/wiki/ビー・ブレーン "wikilink")
+  - 制作協力：[BEE BRAIN](../Page/ビー・ブレーン.md "wikilink")
   - 制作：フジテレビ第二制作部（現バラエティ制作センター）
   - 制作著作：フジテレビ
 

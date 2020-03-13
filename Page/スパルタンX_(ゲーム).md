@@ -93,7 +93,7 @@
 <td><p>Kung-Fu Master</p></td>
 <td></td>
 <td><p><a href="../Page/Apple_II.md" title="wikilink">Apple II</a><br />
-<a href="https://ja.wikipedia.org/wiki/コモドール64" title="wikilink">コモドール64</a></p></td>
+<a href="../Page/コモドール64.md" title="wikilink">コモドール64</a></p></td>
 <td><p>Berkeley Software</p></td>
 <td><p>データイーストUSA</p></td>
 <td><p>フロッピーディスク</p></td>
@@ -180,7 +180,7 @@ SLPS-00341</p></td>
 <td><p>アイレムアーケードクラシックス</p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_3" title="wikilink">PlayStation 3</a><br />
-<a href="https://ja.wikipedia.org/wiki/PlayStation_Portable" title="wikilink">PlayStation Portable</a><br />
+<a href="../Page/PlayStation_Portable.md" title="wikilink">PlayStation Portable</a><br />
 (<a href="https://ja.wikipedia.org/wiki/PlayStation_Network" title="wikilink">PlayStation Network</a>)</p></td>
 <td><p>アイレム</p></td>
 <td><p>アイマックス</p></td>
@@ -273,11 +273,11 @@ SLPS-00341</p></td>
 
   - アーケード版
 
-1998年に刊行されたゲーメストムック『ザ・ベストゲーム2』では、『名作・秀作・天才的タイトル』と認定された「ザ・ベストゲーム」に選定され、「この『スパルタンX』がなければ『[ファイナルファイト](https://ja.wikipedia.org/wiki/ファイナルファイト "wikilink")』も『[ストII](../Page/ストリートファイターII.md "wikilink")』も『[バーチャファイター](https://ja.wikipedia.org/wiki/バーチャファイター "wikilink")』もなかっただろう。現在の格闘アクションゲーム・対戦格闘の草分け的な作品だ」、「ラスボスという存在や、エンディング、体力ゲージがあるといった、当時としては非常に珍しいものを多く持っていた」、「アーケードゲームの進化において非常に重要なゲームである」と紹介されている\[3\]。
+1998年に刊行されたゲーメストムック『ザ・ベストゲーム2』では、『名作・秀作・天才的タイトル』と認定された「ザ・ベストゲーム」に選定され、「この『スパルタンX』がなければ『[ファイナルファイト](../Page/ファイナルファイト.md "wikilink")』も『[ストII](../Page/ストリートファイターII.md "wikilink")』も『[バーチャファイター](https://ja.wikipedia.org/wiki/バーチャファイター "wikilink")』もなかっただろう。現在の格闘アクションゲーム・対戦格闘の草分け的な作品だ」、「ラスボスという存在や、エンディング、体力ゲージがあるといった、当時としては非常に珍しいものを多く持っていた」、「アーケードゲームの進化において非常に重要なゲームである」と紹介されている\[3\]。
 
 ## その他
 
-  - 当時『[月刊コロコロコミック](../Page/月刊コロコロコミック.md "wikilink")』（[小学館](../Page/小学館.md "wikilink")）にて連載されていたマンガ『[ファミコンロッキー](https://ja.wikipedia.org/wiki/ファミコンロッキー "wikilink")』（著：[あさいもとゆき](../Page/あさいもとゆき.md "wikilink")）にアルファベットの「X」の順番である24周目の5階のボスを倒すと恋人であるはずのシルビアが敵として襲い掛かってくるという実際のゲーム中には起こらないストーリーが描かれた。しかし24周クリアの困難さから検証を行える者がほとんどおらず、この展開が事実だというデマが流れた。
+  - 当時『[月刊コロコロコミック](../Page/月刊コロコロコミック.md "wikilink")』（[小学館](../Page/小学館.md "wikilink")）にて連載されていたマンガ『[ファミコンロッキー](../Page/ファミコンロッキー.md "wikilink")』（著：[あさいもとゆき](../Page/あさいもとゆき.md "wikilink")）にアルファベットの「X」の順番である24周目の5階のボスを倒すと恋人であるはずのシルビアが敵として襲い掛かってくるという実際のゲーム中には起こらないストーリーが描かれた。しかし24周クリアの困難さから検証を行える者がほとんどおらず、この展開が事実だというデマが流れた。
 
 <!-- end list -->
 

@@ -15,7 +15,7 @@
 
 ### ウィンク・キラー
 
-本作は元々歌詞のない[インストゥルメンタルであるが](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")、[作詞家](../Page/作詞家.md "wikilink")の[松本隆](../Page/松本隆.md "wikilink")が「**ウィンク・キラー**」というタイトルで歌詞を書き、[野村宏伸](../Page/野村宏伸.md "wikilink")のデビューシングルとして同年7月に発表された（[CBSソニー](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")、07SH-2002）。また、[小泉今日子](https://ja.wikipedia.org/wiki/小泉今日子 "wikilink")も同時期にアルバム『[Flapper](../Page/Flapper_\(小泉今日子のアルバム\).md "wikilink")』（[ビクター](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")、SJX-30271）でこれをカバーし、競作となった（野村バージョンは男性目線、小泉バージョンは女性目線の歌詞となっている）。
+本作は元々歌詞のない[インストゥルメンタルであるが](../Page/器楽曲.md "wikilink")、[作詞家](../Page/作詞家.md "wikilink")の[松本隆](../Page/松本隆.md "wikilink")が「**ウィンク・キラー**」というタイトルで歌詞を書き、[野村宏伸](../Page/野村宏伸.md "wikilink")のデビューシングルとして同年7月に発表された（[CBSソニー](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")、07SH-2002）。また、[小泉今日子](https://ja.wikipedia.org/wiki/小泉今日子 "wikilink")も同時期にアルバム『[Flapper](../Page/Flapper_\(小泉今日子のアルバム\).md "wikilink")』（[ビクター](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")、SJX-30271）でこれをカバーし、競作となった（野村バージョンは男性目線、小泉バージョンは女性目線の歌詞となっている）。
 
 小泉のライブでは、ブラスロック・バンド[TOPSがバックバンドとして参加した](../Page/Tops_\(バンド\).md "wikilink")。
 
@@ -23,7 +23,7 @@
 
 当該シングルの収録曲の一つである「OMENS OF LOVE」は、スクェアのオリジナルと共に、『オーメンズ・オブ・ラヴ』として、[真島俊夫](../Page/真島俊夫.md "wikilink")の[編曲](../Page/編曲.md "wikilink")による[吹奏楽](../Page/吹奏楽.md "wikilink")アレンジが広く知られている。初出の音源は『[New Sounds In Brass](../Page/ニュー・サウンズ・イン・ブラス.md "wikilink") '86』（1986年、[東芝](../Page/EMIミュージック・ジャパン.md "wikilink")、TA-72135）に収録されている（演奏は[東京佼成ウインドオーケストラ](../Page/東京佼成ウインドオーケストラ.md "wikilink")）。また、伊東たけしがゲストで参加した『New Sounds In Brass』シリーズ25周年企画の『New Sounds Special』（1997年）に、新録音版が収録されている。その他、同シリーズの各種ベスト盤などにも収録されている。
 
-本アレンジは、同じくTHE SQUAREの楽曲の吹奏楽アレンジである「宝島」（オリジナルは『[S・P・O・R・T・S](../Page/S・P・O・R・T・S.md "wikilink")』収録）と並んで、真島俊夫のアレンジャーとしての評価を確立させた楽曲となり、[岩井直溥](https://ja.wikipedia.org/wiki/岩井直溥 "wikilink")は「『オーメンズ・オブ・ラヴ』で、いわゆるシンフォニック・ポップスともいうべき彼ならではのアレンジを完成させ、『宝島』で大爆発する」「この2曲は、いまでも日本中で演奏されているロング・ヒット・スコアで、聞いたところによると、真島くんのオリジナル曲だと錯覚している若い人たちもいるらしい」<small></small>\[1\]と評している。
+本アレンジは、同じくTHE SQUAREの楽曲の吹奏楽アレンジである「宝島」（オリジナルは『[S・P・O・R・T・S](../Page/S・P・O・R・T・S.md "wikilink")』収録）と並んで、真島俊夫のアレンジャーとしての評価を確立させた楽曲となり、[岩井直溥](../Page/岩井直溥.md "wikilink")は「『オーメンズ・オブ・ラヴ』で、いわゆるシンフォニック・ポップスともいうべき彼ならではのアレンジを完成させ、『宝島』で大爆発する」「この2曲は、いまでも日本中で演奏されているロング・ヒット・スコアで、聞いたところによると、真島くんのオリジナル曲だと錯覚している若い人たちもいるらしい」<small></small>\[1\]と評している。
 
 ## 収録曲
 
@@ -38,7 +38,7 @@
       - オリジナルヴァージョン。
       - 後にスタートする[TBSラジオ](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")・[JRN](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")『[土曜ニュースプラザ』『日曜ニュースプラザ](../Page/中村尚登_ニュースプラザ.md "wikilink")』でもテーマ曲として1999年まで使われた。
   - THE SQUARE『THE SQUARE LIVE』（1985年[8月2日](../Page/8月2日.md "wikilink")発売）
-      - ライヴアルバムであるが、当時は[LD](../Page/レーザーディスク.md "wikilink")、ビデオでも発売された。現在はDVD化された『VISUAL ANTHOLOGY Vol.I』（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月21日](../Page/12月21日.md "wikilink")発売）に収録され、見ることができる。
+      - ライヴアルバムであるが、当時は[LD](../Page/レーザーディスク.md "wikilink")、ビデオでも発売された。現在はDVD化された『VISUAL ANTHOLOGY Vol.I』（[2005年](../Page/2005年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")発売）に収録され、見ることができる。
   - T-SQUARE『F-1 GRAND PRIX』（[1989年](../Page/1989年.md "wikilink")[10月8日](../Page/10月8日.md "wikilink")発売）
       - ベストアルバム。
   - T-SQUARE & ROYAL PHILHARMONIC ORCHESTRA『CLASSICS』（1992年[11月1日](../Page/11月1日.md "wikilink")発売）

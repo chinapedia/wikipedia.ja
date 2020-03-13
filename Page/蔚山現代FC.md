@@ -110,7 +110,7 @@
 
 <!-- end list -->
 
-  - [キム・ドフン](https://ja.wikipedia.org/wiki/金度勲 "wikilink")
+  - [キム・ドフン](../Page/金度勲.md "wikilink")
 
 ## 歴代監督
 
@@ -122,17 +122,17 @@
 
   - [尹晶煥](../Page/尹晶煥.md "wikilink") 2014-2016
 
-  - [金度勲](https://ja.wikipedia.org/wiki/金度勲 "wikilink") 2017-
+  - [金度勲](../Page/金度勲.md "wikilink") 2017-
 
 ## 歴代所属選手
 
   - [李天秀](../Page/李天秀.md "wikilink")　[高麗大](../Page/高麗大学校.md "wikilink")－蔚山現代－[ソシエダ](https://ja.wikipedia.org/wiki/レアル・ソシエダ "wikilink")－[CDヌマンシア](../Page/CDヌマンシア.md "wikilink")（レンタル）－蔚山現代－フェイノールト－水原三星（レンタル）－全南ドラゴンズ（レンタル）－アルナスル－[大宮アルディージャ](https://ja.wikipedia.org/wiki/大宮アルディージャ "wikilink")
 
-  - [崔成国](https://ja.wikipedia.org/wiki/崔成国 "wikilink")　高麗大－蔚山現代－[柏レイソル](https://ja.wikipedia.org/wiki/柏レイソル "wikilink")（レンタル）－蔚山現代－城南一和－光州尚武
+  - [崔成国](../Page/崔成国.md "wikilink")　高麗大－蔚山現代－[柏レイソル](https://ja.wikipedia.org/wiki/柏レイソル "wikilink")（レンタル）－蔚山現代－城南一和－光州尚武
 
-  - [盧廷潤](../Page/盧廷潤.md "wikilink")　高麗大－[サンフレッチェ広島](https://ja.wikipedia.org/wiki/サンフレッチェ広島 "wikilink")－[NACブレダ](../Page/NACブレダ.md "wikilink")－[セレッソ大阪](../Page/セレッソ大阪.md "wikilink")－[アビスパ福岡](../Page/アビスパ福岡.md "wikilink")－[釜山アイコンス](https://ja.wikipedia.org/wiki/釜山アイパーク "wikilink")－蔚山現代
+  - [盧廷潤](../Page/盧廷潤.md "wikilink")　高麗大－[サンフレッチェ広島](https://ja.wikipedia.org/wiki/サンフレッチェ広島 "wikilink")－[NACブレダ](../Page/NACブレダ.md "wikilink")－[セレッソ大阪](../Page/セレッソ大阪.md "wikilink")－[アビスパ福岡](../Page/アビスパ福岡.md "wikilink")－[釜山アイコンス](../Page/釜山アイパーク.md "wikilink")－蔚山現代
 
-  - [柳想鐵](https://ja.wikipedia.org/wiki/柳想鐵 "wikilink")　[建国大](../Page/建国大学校.md "wikilink")－蔚山現代－[横浜マリノス](https://ja.wikipedia.org/wiki/横浜F・マリノス "wikilink")－柏レイソル－横浜F・マリノス－蔚山現代（2006年3月12日引退）
+  - [柳想鐵](../Page/柳想鐵.md "wikilink")　[建国大](../Page/建国大学校.md "wikilink")－蔚山現代－[横浜マリノス](https://ja.wikipedia.org/wiki/横浜F・マリノス "wikilink")－柏レイソル－横浜F・マリノス－蔚山現代（2006年3月12日引退）
 
   - [柳京烈](https://ja.wikipedia.org/wiki/柳京烈 "wikilink")　[壇国大](https://ja.wikipedia.org/wiki/壇国大学校 "wikilink")－蔚山現代
 
@@ -152,9 +152,9 @@
 
   - [鄭暻鎬](https://ja.wikipedia.org/wiki/鄭暻鎬 "wikilink")　蔚山大－蔚山現代－光州尚武－蔚山現代－全北モータース－江原FC
 
-  - [呉章銀](../Page/呉章銀.md "wikilink")　FC東京U-18－[FC東京](https://ja.wikipedia.org/wiki/FC東京 "wikilink")－[大邱FC](https://ja.wikipedia.org/wiki/大邱FC "wikilink")－蔚山現代ホランイ－水原三星
+  - [呉章銀](../Page/呉章銀.md "wikilink")　FC東京U-18－[FC東京](https://ja.wikipedia.org/wiki/FC東京 "wikilink")－[大邱FC](../Page/大邱FC.md "wikilink")－蔚山現代ホランイ－水原三星
 
-  - [呉章銀](../Page/呉章銀.md "wikilink")　FC東京U-18－[FC東京](https://ja.wikipedia.org/wiki/FC東京 "wikilink")－[大邱FC](https://ja.wikipedia.org/wiki/大邱FC "wikilink")－蔚山現代ホランイ－水原三星
+  - [呉章銀](../Page/呉章銀.md "wikilink")　FC東京U-18－[FC東京](https://ja.wikipedia.org/wiki/FC東京 "wikilink")－[大邱FC](../Page/大邱FC.md "wikilink")－蔚山現代ホランイ－水原三星
 
   - [金善珉](https://ja.wikipedia.org/wiki/金善ミン "wikilink")　藝苑芸大－[ガイナーレ鳥取](../Page/ガイナーレ鳥取.md "wikilink")－蔚山現代尾浦造船－蔚山現代－[FC安養](https://ja.wikipedia.org/wiki/FC安養 "wikilink")（レンタル）－[大田シチズン](https://ja.wikipedia.org/wiki/大田シチズン "wikilink")
 
@@ -184,7 +184,7 @@
 
   - [豊田陽平](../Page/豊田陽平.md "wikilink") 2018
 
-  - [エスクデロ競飛王](https://ja.wikipedia.org/wiki/エスクデロ競飛王 "wikilink") 2018
+  - [エスクデロ競飛王](../Page/エスクデロ競飛王.md "wikilink") 2018
 
 ## 外部リンク
 

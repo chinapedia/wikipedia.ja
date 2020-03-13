@@ -1,7 +1,7 @@
 > この記事は[GK](https://ja.wikipedia.org/wiki/GK)から翻訳されています。
 
 
-**ギルバート・キース・チェスタトン**（、[1874年](../Page/1874年.md "wikilink")[5月29日](../Page/5月29日.md "wikilink") - [1936年](../Page/1936年.md "wikilink")[6月14日](../Page/6月14日.md "wikilink")）は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[作家](../Page/作家.md "wikilink")、[批評家](https://ja.wikipedia.org/wiki/批評家 "wikilink")、[詩人](../Page/詩人.md "wikilink")、[随筆家](../Page/随筆家.md "wikilink")。[ロンドン](../Page/ロンドン.md "wikilink")・[ケンジントン](../Page/ケンジントン.md "wikilink")に生まれ。[セント・ポール](https://ja.wikipedia.org/wiki/セント・ポール "wikilink")校、[スレード美術学校](https://ja.wikipedia.org/wiki/スレード美術学校 "wikilink")に学ぶ。[推理作家](../Page/推理作家.md "wikilink")としても有名で、[カトリック教会](https://ja.wikipedia.org/wiki/カトリック教会 "wikilink")に属する[ブラウン神父](../Page/ブラウン神父.md "wikilink")が遭遇した事件を解明するシリーズが[探偵小説](https://ja.wikipedia.org/wiki/探偵小説 "wikilink")の古典として知られている。[ディテクションクラブ](../Page/ディテクションクラブ.md "wikilink")初代会長。
+**ギルバート・キース・チェスタトン**（、[1874年](../Page/1874年.md "wikilink")[5月29日](../Page/5月29日.md "wikilink") - [1936年](../Page/1936年.md "wikilink")[6月14日](../Page/6月14日.md "wikilink")）は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[作家](../Page/作家.md "wikilink")、[批評家](https://ja.wikipedia.org/wiki/批評家 "wikilink")、[詩人](../Page/詩人.md "wikilink")、[随筆家](../Page/随筆家.md "wikilink")。[ロンドン](../Page/ロンドン.md "wikilink")・[ケンジントン](../Page/ケンジントン.md "wikilink")に生まれ。[セント・ポール](https://ja.wikipedia.org/wiki/セント・ポール "wikilink")校、[スレード美術学校](https://ja.wikipedia.org/wiki/スレード美術学校 "wikilink")に学ぶ。[推理作家](../Page/推理作家.md "wikilink")としても有名で、[カトリック教会](../Page/カトリック教会.md "wikilink")に属する[ブラウン神父](../Page/ブラウン神父.md "wikilink")が遭遇した事件を解明するシリーズが[探偵小説](https://ja.wikipedia.org/wiki/探偵小説 "wikilink")の古典として知られている。[ディテクションクラブ](../Page/ディテクションクラブ.md "wikilink")初代会長。
 
 ## 生涯
 
@@ -25,13 +25,13 @@
 
 ## 活動
 
-[ボーア戦争](../Page/ボーア戦争.md "wikilink")勃発に際しては反イギリス側の論客として頭角をあらわし、[自由主義](https://ja.wikipedia.org/wiki/自由主義 "wikilink")派の有力な論客としてイギリスの政治・社会を糾弾批判している。[1922年](../Page/1922年.md "wikilink")に[イングランド国教会](../Page/イングランド国教会.md "wikilink")から[カトリックに改宗](https://ja.wikipedia.org/wiki/カトリック教会 "wikilink")。改宗後はキリスト教的歴史観から批評活動をおこなう。後期[ヴィクトリア朝](https://ja.wikipedia.org/wiki/ヴィクトリア朝 "wikilink")時代の[物質主義](../Page/物質主義.md "wikilink")・機械万能主義からくる自己満足（虚栄心）に対し鋭い批判を加えた。得意の警句と逆説を駆使したその文芸批評、文明批評は鋭利で、[資本主義](../Page/資本主義.md "wikilink")・[社会主義](../Page/社会主義.md "wikilink")双方を排撃し、配分主義を提唱した。
+[ボーア戦争](../Page/ボーア戦争.md "wikilink")勃発に際しては反イギリス側の論客として頭角をあらわし、[自由主義](https://ja.wikipedia.org/wiki/自由主義 "wikilink")派の有力な論客としてイギリスの政治・社会を糾弾批判している。[1922年](../Page/1922年.md "wikilink")に[イングランド国教会](../Page/イングランド国教会.md "wikilink")から[カトリックに改宗](../Page/カトリック教会.md "wikilink")。改宗後はキリスト教的歴史観から批評活動をおこなう。後期[ヴィクトリア朝](../Page/ヴィクトリア朝.md "wikilink")時代の[物質主義](../Page/物質主義.md "wikilink")・機械万能主義からくる自己満足（虚栄心）に対し鋭い批判を加えた。得意の警句と逆説を駆使したその文芸批評、文明批評は鋭利で、[資本主義](../Page/資本主義.md "wikilink")・[社会主義](../Page/社会主義.md "wikilink")双方を排撃し、配分主義を提唱した。
 
 ## 評価
 
 [江戸川乱歩](../Page/江戸川乱歩.md "wikilink")は「チェスタトンのトリック創案率は探偵小説随一」と賞賛している。エッセイや評論にも名品があり、[ディケンズの評伝は](../Page/チャールズ・ディケンズ.md "wikilink")[T・S・エリオット](../Page/T・S・エリオット.md "wikilink")などによってこの分野の最高のものと見なされた。並外れた巨体でも有名であり、[ジョン・ディクスン・カー](../Page/ジョン・ディクスン・カー.md "wikilink")の創造した探偵[ギデオン・フェル](https://ja.wikipedia.org/wiki/ギデオン・フェル "wikilink")博士のモデルとも言われる。
 
-本格派推理トリック創出者である反面、作風として当時の知識層の例に漏れず、キリスト教徒としての視点、また当時の[植民地主義](https://ja.wikipedia.org/wiki/植民地主義 "wikilink")に立脚する、[黒人](../Page/黒人.md "wikilink")や[インディアン](../Page/インディアン.md "wikilink")、[インディオ](../Page/インディオ.md "wikilink")、[東洋人](https://ja.wikipedia.org/wiki/東洋人 "wikilink")など他民族への偏見・蔑視が色濃いことも特徴である。
+本格派推理トリック創出者である反面、作風として当時の知識層の例に漏れず、キリスト教徒としての視点、また当時の[植民地主義](../Page/植民地主義.md "wikilink")に立脚する、[黒人](../Page/黒人.md "wikilink")や[インディアン](../Page/インディアン.md "wikilink")、[インディオ](../Page/インディオ.md "wikilink")、[東洋人](https://ja.wikipedia.org/wiki/東洋人 "wikilink")など他民族への偏見・蔑視が色濃いことも特徴である。
 
 ## 主な著作
 
@@ -60,7 +60,7 @@
 ### エッセー他
 
   - [1909年](../Page/1909年.md "wikilink") 『棒大なる針小』（Tremendous Trifles）、文学論・随筆集（春秋社、新版1999年）
-  - [1936年](../Page/1936年.md "wikilink") 『自叙伝』（Autobiography）、[吉田健一訳](https://ja.wikipedia.org/wiki/吉田健一_\(英文学者\) "wikilink")（春秋社、新版1999年）－『正統とは何か』と対をなす評論風自伝
+  - [1936年](../Page/1936年.md "wikilink") 『自叙伝』（Autobiography）、[吉田健一訳](../Page/吉田健一_\(英文学者\).md "wikilink")（春秋社、新版1999年）－『正統とは何か』と対をなす評論風自伝
   - [1938年](../Page/1938年.md "wikilink") 『色とりどりの国』（The Coloured Lands）、尾崎安・[山形和美](../Page/山形和美.md "wikilink")訳（[教文館](https://ja.wikipedia.org/wiki/教文館 "wikilink")、1987年）－キリスト教論集
   - 『求む、有能でないひと』、阿部薫訳（国書刊行会、2004年）－本邦初訳の時事コラム集
 
@@ -159,7 +159,7 @@
 ## 関連項目
 
   - [保守主義](https://ja.wikipedia.org/wiki/保守主義 "wikilink")
-  - [カトリック教会](https://ja.wikipedia.org/wiki/カトリック教会 "wikilink")
+  - [カトリック教会](../Page/カトリック教会.md "wikilink")
 
 ## 外部リンク
 

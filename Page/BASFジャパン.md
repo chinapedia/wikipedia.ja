@@ -40,7 +40,7 @@
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（平成　7年）　[BASF](../Page/BASF.md "wikilink")による現在のBASF出光（株）の50％の株式取得
   - [1999年](../Page/1999年.md "wikilink")（平成11年）　[ポリウレタン](../Page/ポリウレタン.md "wikilink")事業の再編、BASF INOACポリウレタン（株）に社名変更
   - [2000年](../Page/2000年.md "wikilink")（平成12年）　アメリカン・ホーム・プロダクツの農薬事業統合、サイアナミッド・ジャパン（株）の株式取得 　翌年BASFアグロ（株）に社名変更
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年） 　現[日油](../Page/日油.md "wikilink")との塗料事業の合弁会社の全株式取得、BASFコーティングスジャパン（株）に社名変更
+  - [2005年](../Page/2005年.md "wikilink")（平成17年） 　現[日油](../Page/日油.md "wikilink")との塗料事業の合弁会社の全株式取得、BASFコーティングスジャパン（株）に社名変更
   - [2007年](../Page/2007年.md "wikilink")（平成19年）　建設化学部門の3社の合併により、BASFポゾリス（株）発足
   - [2009年](../Page/2009年.md "wikilink")（平成21年）　BASFアグロ（株）をBASFジャパンに統合
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）　チバ・ジャパン（株）をBASFジャパンに統合、ムサシノガイギー（株）をBASFジャパンに統合

@@ -1,7 +1,7 @@
 > この記事は[AT-AT](https://ja.wikipedia.org/wiki/AT-AT)から翻訳されています。
 
 
-[Star_Tours_–_The_Adventures_Continue_AT-AT_1.jpg](https://ja.wikipedia.org/wiki/File:Star_Tours_–_The_Adventures_Continue_AT-AT_1.jpg "fig:Star_Tours_–_The_Adventures_Continue_AT-AT_1.jpg")・[ディズニー・ハリウッド・スタジオ](https://ja.wikipedia.org/wiki/ディズニー・ハリウッド・スタジオ "wikilink")の[スター・ツアーズ](https://ja.wikipedia.org/wiki/スター・ツアーズ "wikilink")のAT-ATのオブジェ\]\] **AT-AT**は、[映画](../Page/映画.md "wikilink")『[スター・ウォーズ エピソード5/帝国の逆襲](https://ja.wikipedia.org/wiki/スター・ウォーズ_エピソード5/帝国の逆襲 "wikilink")』、『[スター・ウォーズ エピソード6/ジェダイの帰還](https://ja.wikipedia.org/wiki/スター・ウォーズ_エピソード6/ジェダイの帰還 "wikilink")』、『[スター・ウォーズ/フォースの覚醒](https://ja.wikipedia.org/wiki/スター・ウォーズ/フォースの覚醒 "wikilink")』『[スター・ウォーズ/最後のジェダイ](https://ja.wikipedia.org/wiki/スター・ウォーズ/最後のジェダイ "wikilink")』に登場する架空の兵器の名前。
+[Star_Tours_–_The_Adventures_Continue_AT-AT_1.jpg](https://ja.wikipedia.org/wiki/File:Star_Tours_–_The_Adventures_Continue_AT-AT_1.jpg "fig:Star_Tours_–_The_Adventures_Continue_AT-AT_1.jpg")・[ディズニー・ハリウッド・スタジオ](https://ja.wikipedia.org/wiki/ディズニー・ハリウッド・スタジオ "wikilink")の[スター・ツアーズ](../Page/スター・ツアーズ.md "wikilink")のAT-ATのオブジェ\]\] **AT-AT**は、[映画](../Page/映画.md "wikilink")『[スター・ウォーズ エピソード5/帝国の逆襲](https://ja.wikipedia.org/wiki/スター・ウォーズ_エピソード5/帝国の逆襲 "wikilink")』、『[スター・ウォーズ エピソード6/ジェダイの帰還](https://ja.wikipedia.org/wiki/スター・ウォーズ_エピソード6/ジェダイの帰還 "wikilink")』、『[スター・ウォーズ/フォースの覚醒](https://ja.wikipedia.org/wiki/スター・ウォーズ/フォースの覚醒 "wikilink")』『[スター・ウォーズ/最後のジェダイ](https://ja.wikipedia.org/wiki/スター・ウォーズ/最後のジェダイ "wikilink")』に登場する架空の兵器の名前。
 
 ## 概要
 
@@ -16,7 +16,7 @@
 
 強力な兵器である一方で、敵に対する心理的な効果を狙って機体を巨大にしたため、長い脚からくる高重心が災いしてバランスが非常に悪く、劇中では反乱軍が使用する[スノースピーダー](../Page/スノースピーダー.md "wikilink")のケーブルで足を絡められて、前のめりに転倒させられるシーンがある\[1\]。 もっとも4本の長い脚は、短い6本脚を昆虫のように動かしていた前級をはるかに凌ぐほどの高速歩行を可能とし、不気味な外観は期待通り、敵に対する威圧効果も高い。背の高さから、戦場における秘匿性はないに等しかったが、遠方からあらゆる攻撃を跳ね返しながら、地響きを立てて巨体が前進する様は、敵軍を恐怖の底に叩き込む。士気･錬度の高い同盟軍はともかく、辺境の反乱制圧の際には本機を見ただけで敵が逃げ出した例もある。また、機体のバランサーの能力は比較的 高く、外部からの攻撃以外で転倒することは、通常まずありえない。
 
-あまりに巨大なため、本体の方向転換は極めて鈍重で小回りがきかず、また防御を優先して窓はコクピット正面の隙間のみとしたため、視界も非常に悪いが、コックピットには可視距離の長い高性能の[スコープ](https://ja.wikipedia.org/wiki/スコープ "wikilink")が設置されている。接近戦は考慮されておらず、専ら中・遠距離での戦闘に勝利するを求められた兵器である。
+あまりに巨大なため、本体の方向転換は極めて鈍重で小回りがきかず、また防御を優先して窓はコクピット正面の隙間のみとしたため、視界も非常に悪いが、コックピットには可視距離の長い高性能の[スコープ](../Page/スコープ.md "wikilink")が設置されている。接近戦は考慮されておらず、専ら中・遠距離での戦闘に勝利するを求められた兵器である。
 
 ## 作中での活躍
 
@@ -36,7 +36,7 @@
 
 <!-- end list -->
 
-  - AT-PT (All Terrain Personal Transport):AT-AT以前に存在した二足歩行兵器であり、よく似た外見のコクピットを持つ。小型軽量の一人乗り機体で、三連装[レーザー](https://ja.wikipedia.org/wiki/レーザー "wikilink")砲を装備。平地では時速60kmで走行可能で45度の傾斜も登れる。兵士をより破壊的な任務に就かせる為の兵器で、作戦能力向上を目的にしている。AT-ATの設計思想の元となった。[銀河共和国](https://ja.wikipedia.org/wiki/銀河共和国 "wikilink")時代に開発されたが、実戦には未投入となった。[スピンオフ作品に登場した際は](../Page/スター・ウォーズのスピンオフ一覧.md "wikilink")、カタナ艦隊に配備されるも行方不明になる。帝国では小規模部隊に配備される。反乱軍が基地より奪取し使用するエピソードもある。
+  - AT-PT (All Terrain Personal Transport):AT-AT以前に存在した二足歩行兵器であり、よく似た外見のコクピットを持つ。小型軽量の一人乗り機体で、三連装[レーザー](../Page/レーザー.md "wikilink")砲を装備。平地では時速60kmで走行可能で45度の傾斜も登れる。兵士をより破壊的な任務に就かせる為の兵器で、作戦能力向上を目的にしている。AT-ATの設計思想の元となった。[銀河共和国](../Page/銀河共和国.md "wikilink")時代に開発されたが、実戦には未投入となった。[スピンオフ作品に登場した際は](../Page/スター・ウォーズのスピンオフ一覧.md "wikilink")、カタナ艦隊に配備されるも行方不明になる。帝国では小規模部隊に配備される。反乱軍が基地より奪取し使用するエピソードもある。
 
 <!-- end list -->
 
@@ -52,7 +52,7 @@
 
 <!-- end list -->
 
-  - AT-XT (All Terrain Experimental Transport):偏向シールド、連装[レーザー](https://ja.wikipedia.org/wiki/レーザー "wikilink")砲、[迫撃砲](../Page/迫撃砲.md "wikilink")を搭載した高性能機種。高コストで一部部隊のみに配備された。後に退役。
+  - AT-XT (All Terrain Experimental Transport):偏向シールド、連装[レーザー](../Page/レーザー.md "wikilink")砲、[迫撃砲](../Page/迫撃砲.md "wikilink")を搭載した高性能機種。高コストで一部部隊のみに配備された。後に退役。
 
 <!-- end list -->
 

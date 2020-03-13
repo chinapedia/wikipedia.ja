@@ -33,7 +33,7 @@
 
   - [清水春樹](https://ja.wikipedia.org/wiki/清水春樹 "wikilink")（月 - 水）
   - [佐藤彩加](https://ja.wikipedia.org/wiki/佐藤彩加 "wikilink")（月 - 水）
-  - [小坂深和](https://ja.wikipedia.org/wiki/小坂深和 "wikilink")（木、金）
+  - [小坂深和](../Page/小坂深和.md "wikilink")（木、金）
   - [菅原智郁](https://ja.wikipedia.org/wiki/菅原智郁 "wikilink")（木、金）
 
 **スポーツコーナー**
@@ -58,7 +58,7 @@
   - [神谷美寿々](https://ja.wikipedia.org/wiki/神谷美寿々 "wikilink")（2013年7月 - 2014年6月）
   - 石井久美子（2013年7月 - 2014年12月）
   - [小出匡志](https://ja.wikipedia.org/wiki/小出匡志 "wikilink")（？-2015年3月）
-  - [高山香織](https://ja.wikipedia.org/wiki/高山香織 "wikilink")（2014年6月 - 2015年3月、フリーアナウンサー）
+  - [高山香織](../Page/高山香織.md "wikilink")（2014年6月 - 2015年3月、フリーアナウンサー）
   - [井澤愛巴](https://ja.wikipedia.org/wiki/井澤愛巴 "wikilink")（2015年1月-2016年3月）
   - [河野行恵](https://ja.wikipedia.org/wiki/河野行恵 "wikilink")
   - [塩原桜](https://ja.wikipedia.org/wiki/塩原桜 "wikilink")
@@ -111,7 +111,7 @@
 ※この[箱番組](https://ja.wikipedia.org/wiki/箱番組 "wikilink")枠は、[イレギュラー](https://ja.wikipedia.org/wiki/イレギュラー "wikilink")番組枠として[不定期](https://ja.wikipedia.org/wiki/不定期 "wikilink")にて放送する。
 
   - [ホットコミュニケーション](../Page/コミュニケーション.md "wikilink")[野村證券](https://ja.wikipedia.org/wiki/野村證券 "wikilink")
-  - [伝言板](https://ja.wikipedia.org/wiki/伝言板 "wikilink")（『[YTSテレビ夕刊](https://ja.wikipedia.org/wiki/YTSテレビ夕刊 "wikilink")』の1コーナー「テレ夕伝言板」時代から続いているコーナー。[NHK山形放送局](../Page/NHK山形放送局.md "wikilink")の[昼情報番組枠と](https://ja.wikipedia.org/wiki/やまモリ! "wikilink")[夕方ニュース番組枠](https://ja.wikipedia.org/wiki/NHKニュースやまがた6時 "wikilink")、そして[テレビユー山形](../Page/テレビユー山形.md "wikilink")の[夕方ニュース番組枠も似たようなコーナー編成をしている](https://ja.wikipedia.org/wiki/Nスタやまがた "wikilink")）
+  - [伝言板](https://ja.wikipedia.org/wiki/伝言板 "wikilink")（『[YTSテレビ夕刊](../Page/YTSテレビ夕刊.md "wikilink")』の1コーナー「テレ夕伝言板」時代から続いているコーナー。[NHK山形放送局](../Page/NHK山形放送局.md "wikilink")の[昼情報番組枠と](https://ja.wikipedia.org/wiki/やまモリ! "wikilink")[夕方ニュース番組枠](https://ja.wikipedia.org/wiki/NHKニュースやまがた6時 "wikilink")、そして[テレビユー山形](../Page/テレビユー山形.md "wikilink")の[夕方ニュース番組枠も似たようなコーナー編成をしている](https://ja.wikipedia.org/wiki/Nスタやまがた "wikilink")）
   - [山形県内地域](../Page/地域.md "wikilink")[ミニ情報コーナー](https://ja.wikipedia.org/wiki/情報 "wikilink")
   - [Do〜んな天気（以前は平日18時台にも放映されていた）](https://ja.wikipedia.org/wiki/気象情報 "wikilink")
   - [今夜のおすすめ番組](../Page/番組.md "wikilink")
@@ -146,9 +146,9 @@
 
 **フジテレビ系列時代**
 
-  - [YTSイブニングワイド](https://ja.wikipedia.org/wiki/YTSイブニングワイド "wikilink")
-  - [YTSテレビ夕刊](https://ja.wikipedia.org/wiki/YTSテレビ夕刊 "wikilink")
-  - [YTSニュースワイド60](https://ja.wikipedia.org/wiki/YTSニュースワイド60 "wikilink")
+  - [YTSイブニングワイド](../Page/YTSイブニングワイド.md "wikilink")
+  - [YTSテレビ夕刊](../Page/YTSテレビ夕刊.md "wikilink")
+  - [YTSニュースワイド60](../Page/YTSニュースワイド60.md "wikilink")
   - [YTSニュース スーパータイム](../Page/YTSニュース_スーパータイム.md "wikilink")
 
 **テレビ朝日系列移行後**

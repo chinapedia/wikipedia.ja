@@ -11,9 +11,9 @@
 
 本作はオリジナルゲーム版の発売元である[カプコン](../Page/カプコン.md "wikilink")の自社製作にて、家庭用版『スーパーストリートファイターII』の発売と併せて劇場公開された長編アニメーション映画。単館上映ながら配収7億円とスマッシュヒットを記録。[篠原涼子](https://ja.wikipedia.org/wiki/篠原涼子 "wikilink")の歌う挿入歌「[恋しさと せつなさと 心強さと](../Page/恋しさと_せつなさと_心強さと.md "wikilink")」もダブルミリオンセラーの大ヒットを記録している。
 
-当初監督は[池田成](https://ja.wikipedia.org/wiki/池田成 "wikilink")と発表されたが諸事情により降板、後任は[杉井ギサブロー](https://ja.wikipedia.org/wiki/杉井ギサブロー "wikilink")となった。成り行きで監督を務めることになった杉井だが、プロデューサーの今井賢一が『ストリートファイターII』を何年もかけてアニメ化しようとしていたことを聞き、乗り気になったという経緯がある\[2\]。
+当初監督は[池田成](../Page/池田成.md "wikilink")と発表されたが諸事情により降板、後任は[杉井ギサブロー](../Page/杉井ギサブロー.md "wikilink")となった。成り行きで監督を務めることになった杉井だが、プロデューサーの今井賢一が『ストリートファイターII』を何年もかけてアニメ化しようとしていたことを聞き、乗り気になったという経緯がある\[2\]。
 
-ストーリーには関わらないが、[豪鬼](../Page/豪鬼.md "wikilink")が一瞬だけカメオ出演しており、後年[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")のアニメ『[ストリートファイターII V](https://ja.wikipedia.org/wiki/ストリートファイターII_V "wikilink")』にもモブキャラクターに混じって背景に登場している。
+ストーリーには関わらないが、[豪鬼](../Page/豪鬼.md "wikilink")が一瞬だけカメオ出演しており、後年[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")のアニメ『[ストリートファイターII V](../Page/ストリートファイターII_V.md "wikilink")』にもモブキャラクターに混じって背景に登場している。
 
 ## ストーリー
 
@@ -43,7 +43,7 @@
     声 - [石塚運昇](../Page/石塚運昇.md "wikilink")
     シャドルーのカジノでザンギエフと対戦する。
   - [ザンギエフ](../Page/ザンギエフ.md "wikilink")
-    声 - [金尾哲夫](https://ja.wikipedia.org/wiki/金尾哲夫 "wikilink")
+    声 - [金尾哲夫](../Page/金尾哲夫.md "wikilink")
     シャドルーのカジノでブランカと対戦する。
   - [フェイロン](../Page/フェイロン.md "wikilink")
     声 - [船木誠勝](../Page/船木誠勝.md "wikilink")
@@ -90,12 +90,12 @@
 
   - 製作総指揮：[辻本憲三](../Page/辻本憲三.md "wikilink")
   - 製作・原案・設定：[カプコン](../Page/カプコン.md "wikilink")
-  - 監督：[杉井ギサブロー](https://ja.wikipedia.org/wiki/杉井ギサブロー "wikilink")
+  - 監督：[杉井ギサブロー](../Page/杉井ギサブロー.md "wikilink")
   - 脚本：今井賢一、杉井ギサブロー
   - キャラクターデザイン：[村瀬修功](../Page/村瀬修功.md "wikilink")
   - 総作画監督：大島康弘
-  - 作画監督：[前田実](https://ja.wikipedia.org/wiki/前田実 "wikilink")、江口摩吏介
-  - 絵コンテ：東海林真一、[もりたけし](https://ja.wikipedia.org/wiki/もりたけし "wikilink")、香川豊、[小林治](https://ja.wikipedia.org/wiki/小林治_\(アニメ演出家\) "wikilink")、辻伸一、杉井ギサブロー
+  - 作画監督：[前田実](../Page/前田実.md "wikilink")、江口摩吏介
+  - 絵コンテ：東海林真一、[もりたけし](../Page/もりたけし.md "wikilink")、香川豊、[小林治](../Page/小林治_\(アニメ演出家\).md "wikilink")、辻伸一、杉井ギサブロー
   - 作画監督補：佐藤正樹、[加野晃](https://ja.wikipedia.org/wiki/加野晃 "wikilink")
   - ビジュアルエフェクトアニメーション：[今掛勇](../Page/今掛勇.md "wikilink")
   - 武闘監督：東海林真一
@@ -112,7 +112,7 @@
   - 録音スタジオ：[アバコクリエイティブスタジオ](https://ja.wikipedia.org/wiki/アバコクリエイティブスタジオ "wikilink")
   - 現像：[IMAGICA](https://ja.wikipedia.org/wiki/IMAGICA "wikilink")
   - 製作アドバイザー：野崎裕司、ポール・ハッシー
-  - 格闘技アドバイザー：[石井和義](https://ja.wikipedia.org/wiki/石井和義 "wikilink")、[アンディ・フグ](https://ja.wikipedia.org/wiki/アンディ・フグ "wikilink")
+  - 格闘技アドバイザー：[石井和義](../Page/石井和義.md "wikilink")、[アンディ・フグ](https://ja.wikipedia.org/wiki/アンディ・フグ "wikilink")
   - 監督補：はしもとなおと
   - プロデューサー補：西村大志
   - アニメーションプロデューサー：藤田健（グループ・タック）、佐藤郁夫（スタジオガゼル）
@@ -121,7 +121,7 @@
   - 脚本協力：[沢田謙也](https://ja.wikipedia.org/wiki/沢田謙也 "wikilink")、久保地美晴、愛知拳
   - 協力：[日本長期信用銀行](../Page/日本長期信用銀行.md "wikilink")、[I\&S](https://ja.wikipedia.org/wiki/I&S "wikilink")、[正道会館](../Page/正道会館.md "wikilink")
   - 製作協力：[ソニー・ミュージックエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")
-  - アニメーション制作：[グループ・タック](https://ja.wikipedia.org/wiki/グループ・タック "wikilink")
+  - アニメーション制作：[グループ・タック](../Page/グループ・タック.md "wikilink")
   - プロデュース：SEDIC
   - プロデューサー：今井賢一
 
@@ -142,7 +142,7 @@
   - 映画原作 ストリートファイターII
     1994年8月に[小学館](../Page/小学館.md "wikilink")[てんとう虫コミックススペシャル](https://ja.wikipedia.org/wiki/てんとう虫コミックススペシャル "wikilink")から発売。[坂井孝行](https://ja.wikipedia.org/wiki/坂井孝行 "wikilink")の作画によるコミカライズ作品。
   - 映画 ストリートファイターII
-    1994年9月に小学館[スーパークエスト文庫](../Page/スーパークエスト文庫.md "wikilink")から発売。著：[富田祐弘](https://ja.wikipedia.org/wiki/富田祐弘 "wikilink")、イラスト：坂井孝行、原作：カプコンによるノベライズ作品。
+    1994年9月に小学館[スーパークエスト文庫](../Page/スーパークエスト文庫.md "wikilink")から発売。著：[富田祐弘](../Page/富田祐弘.md "wikilink")、イラスト：坂井孝行、原作：カプコンによるノベライズ作品。
   - STREET FIGHTER II MOVIE 映画資料全集
     1994年10月に小学館から発売。キャラクターや背景の設定画・原画、レイアウトなどを収録。
   - 映画「ストリートファイターII」 華麗なる春麗の世界
@@ -181,7 +181,7 @@ Blu-rayは2016年に[Discotek Mediaより北米正規版にて発売](https://ja
 
 ## 関連項目
 
-  - [ストリートファイターII V](https://ja.wikipedia.org/wiki/ストリートファイターII_V "wikilink")
+  - [ストリートファイターII V](../Page/ストリートファイターII_V.md "wikilink")
 
 [Category:ストリートファイターII](https://ja.wikipedia.org/wiki/Category:ストリートファイターII "wikilink") [Category:アニメ作品_す](https://ja.wikipedia.org/wiki/Category:アニメ作品_す "wikilink") [Category:日本のアニメ映画](https://ja.wikipedia.org/wiki/Category:日本のアニメ映画 "wikilink") [Category:1994年のアニメ映画](https://ja.wikipedia.org/wiki/Category:1994年のアニメ映画 "wikilink") [Category:杉井ギサブローの監督映画](https://ja.wikipedia.org/wiki/Category:杉井ギサブローの監督映画 "wikilink") [Category:グループ・タック](https://ja.wikipedia.org/wiki/Category:グループ・タック "wikilink") [Category:カプコンのアニメ作品](https://ja.wikipedia.org/wiki/Category:カプコンのアニメ作品 "wikilink") [Category:スーパークエスト文庫](https://ja.wikipedia.org/wiki/Category:スーパークエスト文庫 "wikilink") [Category:コンピュータゲームを原作とするアニメ映画](https://ja.wikipedia.org/wiki/Category:コンピュータゲームを原作とするアニメ映画 "wikilink") [Category:格闘技アニメ](https://ja.wikipedia.org/wiki/Category:格闘技アニメ "wikilink") [Category:東映のアニメ映画](https://ja.wikipedia.org/wiki/Category:東映のアニメ映画 "wikilink") [Category:SMEJのアニメ映画](https://ja.wikipedia.org/wiki/Category:SMEJのアニメ映画 "wikilink")
 

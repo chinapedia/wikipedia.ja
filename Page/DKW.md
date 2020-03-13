@@ -9,7 +9,7 @@
 
 ## 歴史
 
-[デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink")人で若くしてドイツに渡った機械技術者イェルゲン・スカフテ・ラスムッセン（*[Jørgen Skafte Rasmussen](https://ja.wikipedia.org/wiki/:en:Jørgen_Skafte_Rasmussen "wikilink")* 1878-1964年）により、[ザクセン州](../Page/ザクセン州.md "wikilink")[ケムニッツ](https://ja.wikipedia.org/wiki/ケムニッツ "wikilink")でラスムッセン&エルンスト有限会社として[1906年](../Page/1906年.md "wikilink")に創業した。
+[デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink")人で若くしてドイツに渡った機械技術者イェルゲン・スカフテ・ラスムッセン（*[Jørgen Skafte Rasmussen](https://ja.wikipedia.org/wiki/:en:Jørgen_Skafte_Rasmussen "wikilink")* 1878-1964年）により、[ザクセン州](../Page/ザクセン州.md "wikilink")[ケムニッツ](../Page/ケムニッツ.md "wikilink")でラスムッセン&エルンスト有限会社として[1906年](../Page/1906年.md "wikilink")に創業した。
 
 当初、機械メーカーとして業績を伸長。[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")中の[1914年](../Page/1914年.md "wikilink")には、得意分野であった[蒸気機関](../Page/蒸気機関.md "wikilink")関係の技術を活かし、蒸気自動車の試作を試みたものの失敗している。ドイツ語で「蒸気自動車」を意味する *dampf kraft wagen* を略して「DKW」の社名が生まれた。
 

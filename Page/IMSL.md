@@ -19,7 +19,7 @@
 ## サポート環境
 
   - [OS](../Page/オペレーティングシステム.md "wikilink") ： [UNIX](../Page/UNIX.md "wikilink")、[Linux](../Page/Linux.md "wikilink")、[Microsoft Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")
-  - [ハードウェア](../Page/ハードウェア.md "wikilink") ： [AMD](https://ja.wikipedia.org/wiki/アドバンスト・マイクロ・デバイセズ "wikilink")、[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")、[クレイ](https://ja.wikipedia.org/wiki/クレイ "wikilink")、[富士通](../Page/富士通.md "wikilink")、[日立](https://ja.wikipedia.org/wiki/日立 "wikilink")、[HP](../Page/ヒューレット・パッカード.md "wikilink")、[IBM](../Page/IBM.md "wikilink")、[NEC](../Page/日本電気.md "wikilink")、[SGI](../Page/シリコングラフィックス.md "wikilink")、[サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")
+  - [ハードウェア](../Page/ハードウェア.md "wikilink") ： [AMD](https://ja.wikipedia.org/wiki/アドバンスト・マイクロ・デバイセズ "wikilink")、[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")、[クレイ](../Page/クレイ.md "wikilink")、[富士通](../Page/富士通.md "wikilink")、[日立](https://ja.wikipedia.org/wiki/日立 "wikilink")、[HP](../Page/ヒューレット・パッカード.md "wikilink")、[IBM](../Page/IBM.md "wikilink")、[NEC](../Page/日本電気.md "wikilink")、[SGI](../Page/シリコングラフィックス.md "wikilink")、[サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")
   - [コンパイラ](../Page/コンパイラ.md "wikilink") ： Absoft、富士通、[GNUプロジェクト](../Page/GNUプロジェクト.md "wikilink")、インテル、[マイクロソフト](../Page/マイクロソフト.md "wikilink")、[Portland](https://ja.wikipedia.org/wiki/Portland_Project "wikilink")
 
 ## 関連項目

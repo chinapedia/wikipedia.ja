@@ -21,7 +21,7 @@
       - [6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink") - イー・トレード株式会社を吸収合併
   - [2004年](../Page/2004年.md "wikilink")
       - [3月16日](../Page/3月16日.md "wikilink") - 株式会社エスビーアイ不動産を吸収合併
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
       - [7月1日](../Page/7月1日.md "wikilink") - 商号を**SBIホールディングス株式会社**に変更（同日以後のソフトバンク・インベストメント株式会社は別法人で、現在のSBIインベストメント株式会社）
   - [2006年](../Page/2006年.md "wikilink")
       - SBIパートナーズ株式会社及びファイナンス・オール株式会社を吸収合併
@@ -31,15 +31,15 @@
       - 11月 - SBIホールディングスの全面支援により、学校法人SBI大学を設立。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")
       - 4月 - 学校法人SBI大学が設置するSBI大学院大学開学。SBIユニバーシティ株式会社を吸収合併。
-      - [8月1日](../Page/8月1日.md "wikilink") - [株式交換](../Page/株式交換.md "wikilink")によりSBI証券（旧:SBIイー・トレード証券）を[完全子会社化](https://ja.wikipedia.org/wiki/子会社 "wikilink")
+      - [8月1日](../Page/8月1日.md "wikilink") - [株式交換](../Page/株式交換.md "wikilink")によりSBI証券（旧:SBIイー・トレード証券）を[完全子会社化](../Page/子会社.md "wikilink")
   - [2009年](../Page/2009年.md "wikilink")
       - [11月30日](../Page/11月30日.md "wikilink") - [株式会社ゲオと合弁会社](../Page/ゲオ.md "wikilink")「[SBIゲオマーケティング](https://ja.wikipedia.org/wiki/SBIゲオマーケティング "wikilink")」を設立
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")
       - [2月10日](../Page/2月10日.md "wikilink") - [株式会社サーチナの株式取得](https://ja.wikipedia.org/wiki/SBIサーチナ "wikilink")（完全子会社化）
       - [2月16日](../Page/2月16日.md "wikilink") - [SBIアクサ生命保険](https://ja.wikipedia.org/wiki/SBIアクサ生命保険 "wikilink")株式会社の全株式を、[アクサジャパンホールディング](https://ja.wikipedia.org/wiki/アクサジャパンホールディング "wikilink")株式会社に譲渡。
       - [3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink") - [ブルネイ](../Page/ブルネイ.md "wikilink")の[財務省と](https://ja.wikipedia.org/wiki/ブルネイ財務省ビル "wikilink")[投資ファンド](../Page/投資ファンド.md "wikilink")の共同設立で合意\[1\]。
-      - 9月 - [ロシア](../Page/ロシア.md "wikilink")連邦[モスクワ](https://ja.wikipedia.org/wiki/モスクワ "wikilink")市に駐在員事務所を新規開設
-      - 10月 - [ベトナム](https://ja.wikipedia.org/wiki/ベトナム "wikilink")の首都[ハノイ](https://ja.wikipedia.org/wiki/ハノイ "wikilink")市に駐在員事務所を新規開設
+      - 9月 - [ロシア](../Page/ロシア.md "wikilink")連邦[モスクワ](../Page/モスクワ.md "wikilink")市に駐在員事務所を新規開設
+      - 10月 - [ベトナム](https://ja.wikipedia.org/wiki/ベトナム "wikilink")の首都[ハノイ](../Page/ハノイ.md "wikilink")市に駐在員事務所を新規開設
   - [2011年](../Page/2011年.md "wikilink")
       - [4月14日](../Page/4月14日.md "wikilink") - [香港証券取引所](../Page/香港証券取引所.md "wikilink")に上場（）
       - 5月 - [マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")の首都[クアラルンプール](../Page/クアラルンプール.md "wikilink")に駐在員事務所を開設

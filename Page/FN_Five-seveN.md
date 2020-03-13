@@ -7,11 +7,11 @@
 
 ## 特徴
 
-[FNFLASH01.jpg](https://ja.wikipedia.org/wiki/File:FNFLASH01.jpg "fig:FNFLASH01.jpg")を使用した拳銃よりも射撃時の反動が30%小さいとされており、マズルジャンプ（発砲時の跳ね上がり）が抑制されている。|代替文=\]\] [弾薬](https://ja.wikipedia.org/wiki/弾薬 "wikilink")に[P90と同じ](../Page/FN_P90.md "wikilink")[5.7x28mm弾](../Page/5.7x28mm弾.md "wikilink")を使用する。この弾薬は[小銃](../Page/小銃.md "wikilink")用の弾薬をそのまま短くしたような形状で、高い初速で発射されるため貫通力が高く、SS190弾では100mほどの距離があっても[ボディアーマー](https://ja.wikipedia.org/wiki/ボディアーマー "wikilink")（[NIJ規格](../Page/NIJ規格.md "wikilink")レベルIIIA以下のもの）を貫通するとされる。
+[FNFLASH01.jpg](https://ja.wikipedia.org/wiki/File:FNFLASH01.jpg "fig:FNFLASH01.jpg")を使用した拳銃よりも射撃時の反動が30%小さいとされており、マズルジャンプ（発砲時の跳ね上がり）が抑制されている。|代替文=\]\] [弾薬](../Page/弾薬.md "wikilink")に[P90と同じ](../Page/FN_P90.md "wikilink")[5.7x28mm弾](../Page/5.7x28mm弾.md "wikilink")を使用する。この弾薬は[小銃](../Page/小銃.md "wikilink")用の弾薬をそのまま短くしたような形状で、高い初速で発射されるため貫通力が高く、SS190弾では100mほどの距離があっても[ボディアーマー](../Page/ボディアーマー.md "wikilink")（[NIJ規格](../Page/NIJ規格.md "wikilink")レベルIIIA以下のもの）を貫通するとされる。
 
-そのため、犯罪に用いられると危険という保安上の理由から販売先は政府組織・[法執行機関](https://ja.wikipedia.org/wiki/法執行機関 "wikilink")に限られていたが、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")の[SHOTショー](https://ja.wikipedia.org/wiki/SHOTショー "wikilink")にて、貫通力を落とした[スポーツ用弾薬とともに民間向けモデルが発表された](../Page/射撃競技.md "wikilink")。
+そのため、犯罪に用いられると危険という保安上の理由から販売先は政府組織・[法執行機関](https://ja.wikipedia.org/wiki/法執行機関 "wikilink")に限られていたが、[2005年](../Page/2005年.md "wikilink")の[SHOTショー](https://ja.wikipedia.org/wiki/SHOTショー "wikilink")にて、貫通力を落とした[スポーツ用弾薬とともに民間向けモデルが発表された](../Page/射撃競技.md "wikilink")。
 
-貫通力に優れる拳銃弾として、以前から[共産圏の](../Page/東側諸国.md "wikilink")[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")で開発された[トカレフTT-33](https://ja.wikipedia.org/wiki/トカレフTT-33 "wikilink")で使用する[7.62x25mmトカレフ弾](https://ja.wikipedia.org/wiki/7.62x25mmトカレフ弾 "wikilink")（のうち、[鉄](../Page/鉄.md "wikilink")製コアを使用しているもの）が存在したが、Five-seveNの5.7x28mm弾は材質の見直しによってトカレフに匹敵するかそれ以上の貫通力を持ちながら、人体に対する破壊力を高めている。
+貫通力に優れる拳銃弾として、以前から[共産圏の](../Page/東側諸国.md "wikilink")[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")で開発された[トカレフTT-33](../Page/トカレフTT-33.md "wikilink")で使用する[7.62x25mmトカレフ弾](https://ja.wikipedia.org/wiki/7.62x25mmトカレフ弾 "wikilink")（のうち、[鉄](../Page/鉄.md "wikilink")製コアを使用しているもの）が存在したが、Five-seveNの5.7x28mm弾は材質の見直しによってトカレフに匹敵するかそれ以上の貫通力を持ちながら、人体に対する破壊力を高めている。
 
 スライドやフレームは[プラスチックで覆われているため](../Page/合成樹脂.md "wikilink")、連射をしても表面温度は素手で触れられる程度にしか上昇せず、金属フレームの銃の問題点である寒冷地での皮膚の張り付きも起こらない。作動方式は一般的な[ショートリコイル](../Page/ショートリコイル.md "wikilink")方式ではなく、[銃身遊動遅延ブローバック方式となっており](https://ja.wikipedia.org/wiki/ブローバック#銃身遊動遅延式 "wikilink")、ハンマーはスパー部分等が露出しておらず、内蔵式のインターナル・ハンマーである。セーフティレバーはエジェクション・ポート下方（本体右側）に設けられている。
 

@@ -1,7 +1,7 @@
 > この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
 
 
-『**水野真紀の魔法のレストラン**』（みずのまきのまほうのレストラン）は、[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")（MBS）で[2001年](../Page/2001年.md "wikilink")[4月12日](../Page/4月12日.md "wikilink")から放送されている[グルメ](https://ja.wikipedia.org/wiki/グルメ "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。[水野真紀](../Page/水野真紀.md "wikilink")の冠番組である。放送開始から2009年3月までは毎週[木曜日](https://ja.wikipedia.org/wiki/木曜日 "wikilink")に、2009年から2012年9月までは毎週[水曜日](../Page/水曜日.md "wikilink")に、[2012年](../Page/2012年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[2016年](../Page/2016年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")までは毎週[月曜日](../Page/月曜日.md "wikilink")に放送されていたが、[2016年](../Page/2016年.md "wikilink")4月からは再び毎週水曜日に放送されている。[2017年](../Page/2017年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")からの放送時間は、毎週水曜日 19:00 - 20:00（[JST](../Page/日本標準時.md "wikilink")）。
+『**水野真紀の魔法のレストラン**』（みずのまきのまほうのレストラン）は、[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")（MBS）で[2001年](../Page/2001年.md "wikilink")[4月12日](../Page/4月12日.md "wikilink")から放送されている[グルメ](https://ja.wikipedia.org/wiki/グルメ "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。[水野真紀](../Page/水野真紀.md "wikilink")の冠番組である。放送開始から2009年3月までは毎週[木曜日](../Page/木曜日.md "wikilink")に、2009年から2012年9月までは毎週[水曜日](../Page/水曜日.md "wikilink")に、[2012年](../Page/2012年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[2016年](../Page/2016年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")までは毎週[月曜日](../Page/月曜日.md "wikilink")に放送されていたが、[2016年](../Page/2016年.md "wikilink")4月からは再び毎週水曜日に放送されている。[2017年](../Page/2017年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")からの放送時間は、毎週水曜日 19:00 - 20:00（[JST](../Page/日本標準時.md "wikilink")）。
 
 なお、[2013年](../Page/2013年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[2017年](../Page/2017年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")までは、『**水野真紀の魔法のレストランR**』（みずのまきのまほうのレストランアール）というタイトルで放送。[2016年](../Page/2016年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")からは、放送上「**マホレス**」という略称も併用している。
 
@@ -11,13 +11,13 @@
 
 前身である『[あまからアベニュー](../Page/あまからアベニュー.md "wikilink")』が終了した後の[大阪ガス](../Page/大阪ガス.md "wikilink")提供枠である（番組前半のみ[単独提供で](../Page/一社提供.md "wikilink")、後半は複数社提供となっているが、アイキャッチ映像は放送されている。また愛媛ローカルでは別スポンサーが付いており、他の放送された系列局はスポンサーはなし）。
 
-[2012年](../Page/2012年.md "wikilink")[8月31日](../Page/8月31日.md "wikilink")に、[大阪ガス硬式野球部](https://ja.wikipedia.org/wiki/大阪ガス硬式野球部 "wikilink")の[賭博](../Page/賭博.md "wikilink")による不祥事\[1\]\[2\]が発覚したため、[2012年](../Page/2012年.md "wikilink")[9月5日](../Page/9月5日.md "wikilink")放送のみ提供スポンサー自粛。オープニングキャッチを含めて[ACジャパン](../Page/ACジャパン.md "wikilink")のCMに差し替えられた。
+[2012年](../Page/2012年.md "wikilink")[8月31日](../Page/8月31日.md "wikilink")に、[大阪ガス硬式野球部](../Page/大阪ガス硬式野球部.md "wikilink")の[賭博](../Page/賭博.md "wikilink")による不祥事\[1\]\[2\]が発覚したため、[2012年](../Page/2012年.md "wikilink")[9月5日](../Page/9月5日.md "wikilink")放送のみ提供スポンサー自粛。オープニングキャッチを含めて[ACジャパン](../Page/ACジャパン.md "wikilink")のCMに差し替えられた。
 
 毎回概ね2名のゲストを迎えて、番組が進行される。初回のゲストは、[志村けん](../Page/志村けん.md "wikilink")。　
 
 水野が結婚した際には、番組独占のインタビューVTRを放送。普段よりも[視聴率](../Page/視聴率.md "wikilink")が高かったという。
 
-2009年3月30日より、同時間帯に大型ニュース番組『[総力報道\!THE NEWS](https://ja.wikipedia.org/wiki/総力報道!THE_NEWS "wikilink")』を放送するため、2009年4月15日から、水曜19時55分からの放送になった\[3\]\[4\]。2002年にフライングスタートを開始して以来の時間変更で、枠そのものが移動するのは番組開始以来初となったが、水曜20時台の放送になってから視聴率が1桁と低迷している。この移動と同時に19:50 - 19:55枠は、[事前番宣](../Page/番組宣伝.md "wikilink")[番組](https://ja.wikipedia.org/wiki/ミニ番組 "wikilink")『**もうすぐ魔法のレストラン**』を放送した。
+2009年3月30日より、同時間帯に大型ニュース番組『[総力報道\!THE NEWS](https://ja.wikipedia.org/wiki/総力報道!THE_NEWS "wikilink")』を放送するため、2009年4月15日から、水曜19時55分からの放送になった\[3\]\[4\]。2002年にフライングスタートを開始して以来の時間変更で、枠そのものが移動するのは番組開始以来初となったが、水曜20時台の放送になってから視聴率が1桁と低迷している。この移動と同時に19:50 - 19:55枠は、[事前番宣](../Page/番組宣伝.md "wikilink")[番組](../Page/ミニ番組.md "wikilink")『**もうすぐ魔法のレストラン**』を放送した。
 
 2010年4月14日からは、『総力報道\!THE NEWS』終了に伴い、水曜19時台での放送に移動した。これに伴い、19:50から放送してきた『もうすぐ魔法のレストラン』は終了し、当番組の本編に組み込まれ事前番組は消滅したが、同年11月17日から2011年3月30日まで、水曜日の9:55 - 10:25枠にて、『**今夜の魔法のレストラン**』が放送された。
 
@@ -25,11 +25,11 @@
 
 2012年10月改編で、同月8日より月曜19時台での放送に移動、同日は5分拡大・前倒しして18:55から放送した。[長野博](../Page/長野博.md "wikilink")（[V6](../Page/V6_\(グループ\).md "wikilink")）とこれを機に本格的な芸能活動を始める小林さとねが新レギュラーとして加わる\[5\]。さらに、2日前の同月6日からは[TwellVでも放送開始した](../Page/ワールド・ハイビジョン・チャンネル.md "wikilink")（ただし遅れネット）。
 
-[2013年](../Page/2013年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink")放送で、9年半レギュラーを務めた[中川家](../Page/中川家.md "wikilink")が卒業した。[10月7日](../Page/10月7日.md "wikilink")放送分からは、タイトルを「**魔法のレストランR**（-レヴォリューション）」と改めたうえで、再リニューアルを実施。[2014年](../Page/2014年.md "wikilink")[4月14日](../Page/4月14日.md "wikilink")放送分からは、[高橋真麻](https://ja.wikipedia.org/wiki/高橋真麻 "wikilink")（[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")・元[フジテレビアナウンサー](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）がレギュラーに加わる。真麻は[関西ローカル](https://ja.wikipedia.org/wiki/関西ローカル "wikilink")番組のレギュラー初出演となる\[6\]。また収録スタジオも番組開始以来使われてきた[MBSスタジオ in USJ](../Page/MBSスタジオ_in_USJ.md "wikilink")（[大阪市](../Page/大阪市.md "wikilink")[此花区](../Page/此花区.md "wikilink")）から2014年[4月4日](../Page/4月4日.md "wikilink")に運用を開始した毎日放送本社新館（B館。同市[北区](../Page/北区_\(大阪市\).md "wikilink")[茶屋町](https://ja.wikipedia.org/wiki/茶屋町_\(大阪市\) "wikilink")）内のBスタジオでの収録に移行した。
+[2013年](../Page/2013年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink")放送で、9年半レギュラーを務めた[中川家](../Page/中川家.md "wikilink")が卒業した。[10月7日](../Page/10月7日.md "wikilink")放送分からは、タイトルを「**魔法のレストランR**（-レヴォリューション）」と改めたうえで、再リニューアルを実施。[2014年](../Page/2014年.md "wikilink")[4月14日](../Page/4月14日.md "wikilink")放送分からは、[高橋真麻](https://ja.wikipedia.org/wiki/高橋真麻 "wikilink")（[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")・元[フジテレビアナウンサー](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）がレギュラーに加わる。真麻は[関西ローカル](../Page/関西ローカル.md "wikilink")番組のレギュラー初出演となる\[6\]。また収録スタジオも番組開始以来使われてきた[MBSスタジオ in USJ](../Page/MBSスタジオ_in_USJ.md "wikilink")（[大阪市](../Page/大阪市.md "wikilink")[此花区](../Page/此花区.md "wikilink")）から2014年[4月4日](../Page/4月4日.md "wikilink")に運用を開始した毎日放送本社新館（B館。同市[北区](../Page/北区_\(大阪市\).md "wikilink")[茶屋町](https://ja.wikipedia.org/wiki/茶屋町_\(大阪市\) "wikilink")）内のBスタジオでの収録に移行した。
 
 [2016年](../Page/2016年.md "wikilink")[4月13日](../Page/4月13日.md "wikilink")からは再び水曜7時枠に移動となり3年半ぶりに放送時間が戻ることとなった。このためこれまで同時ネットしていた『[トコトン掘り下げ隊\!生き物にサンキュー\!\!](https://ja.wikipedia.org/wiki/トコトン掘り下げ隊!生き物にサンキュー!! "wikilink")』（2018年9月まで。2018年10月から「[東大王](https://ja.wikipedia.org/wiki/東大王 "wikilink")」。）を遅れネットに移行した。『[水トク\!](https://ja.wikipedia.org/wiki/水トク! "wikilink")』が19:00開始となる場合は当番組を優先させるため、1時間短縮になる。同時に当番組の2時間SPも編成されるようになった。
 
-[2016年](../Page/2016年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")からは、「**マホレス**」の略称を用いるとともに、タイトルロゴなどを一新。「マホレス」と書かれた二重丸状のロゴを、映像の左隅に常時表示させている。[2017年](../Page/2017年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")からは、[ミシュランガイド](../Page/ミシュランガイド.md "wikilink")に「（飲食店選びや調理で）絶対にミスしたくない」というニュアンスを重ねた「**ミスらん**」を番組のコンセプトへ据えるとともに、[河田直也](https://ja.wikipedia.org/wiki/河田直也 "wikilink")（毎日放送アナウンサー）をロケ企画の進行役に迎えている。また、このリニューアルを機に、[ロザン](../Page/ロザン.md "wikilink")（[宇治原史規](https://ja.wikipedia.org/wiki/宇治原史規 "wikilink")・[菅広文](https://ja.wikipedia.org/wiki/菅広文 "wikilink")）が出演するロケ企画を定期的に放送するようになった。
+[2016年](../Page/2016年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")からは、「**マホレス**」の略称を用いるとともに、タイトルロゴなどを一新。「マホレス」と書かれた二重丸状のロゴを、映像の左隅に常時表示させている。[2017年](../Page/2017年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")からは、[ミシュランガイド](../Page/ミシュランガイド.md "wikilink")に「（飲食店選びや調理で）絶対にミスしたくない」というニュアンスを重ねた「**ミスらん**」を番組のコンセプトへ据えるとともに、[河田直也](../Page/河田直也.md "wikilink")（毎日放送アナウンサー）をロケ企画の進行役に迎えている。また、このリニューアルを機に、[ロザン](../Page/ロザン.md "wikilink")（[宇治原史規](https://ja.wikipedia.org/wiki/宇治原史規 "wikilink")・[菅広文](https://ja.wikipedia.org/wiki/菅広文 "wikilink")）が出演するロケ企画を定期的に放送するようになった。
 
 放送開始から18年目に入る[2018年](../Page/2018年.md "wikilink")の初回放送（MBSでは[1月10日](../Page/1月10日.md "wikilink")）から、番組タイトルを『**魔法のレストラン**』へ戻す一方で、スタジオでの調理パートを「得するかけ算レシピ\!」（料理の味に加えて栄養を考慮した調理法を紹介する企画）にリニューアル。水野・長野・河田が続投する一方で、ロザンを正式にレギュラーに起用した。
 
@@ -60,14 +60,14 @@
   - ミシュランガイド星付きシェフが選ぶ　本当に美味い大阪○○No.1決定戦
     大阪市内にある特定のジャンル（○○）の飲食店に焦点を当てたランキング企画。ミシュランガイドで一つ星以上の評価を獲得した飲食店のシェフを対象に、実際に通ったなかで最も良かった店舗に関するアンケートを実施したうえで、上位に挙がった店舗をレギュラー陣とゲストが実際に訪れる。
   - 「[菊乃井](https://ja.wikipedia.org/wiki/菊乃井 "wikilink")」村田吉弘VS.ロザン宇治原　雑学バトル\!
-    京都の一流[料亭](https://ja.wikipedia.org/wiki/料亭 "wikilink")「[菊乃井](https://ja.wikipedia.org/wiki/菊乃井 "wikilink")」の三代目当主である[村田吉弘](https://ja.wikipedia.org/wiki/村田吉弘 "wikilink")と、芸能界屈指の「クイズ王」として知られる宇治原が、京都の名店を訪れながら料理に関する雑学クイズで競い合うロケ企画。和食のマナーに関するクイズなど、派生企画も相次いで放送している。
+    京都の一流[料亭](https://ja.wikipedia.org/wiki/料亭 "wikilink")「[菊乃井](https://ja.wikipedia.org/wiki/菊乃井 "wikilink")」の三代目当主である[村田吉弘](../Page/村田吉弘.md "wikilink")と、芸能界屈指の「クイズ王」として知られる宇治原が、京都の名店を訪れながら料理に関する雑学クイズで競い合うロケ企画。和食のマナーに関するクイズなど、派生企画も相次いで放送している。
   - 得するかけ算レシピ
     ロザンのレギュラー起用を機に、栄養学関連の学科を設けている大学が監修するスタジオ企画として、2018年1月10日から放送。料理の味に栄養を考慮した調理法を、スタジオ出演者へのクイズや、料理人の実演を交えながら紹介する。栄養の解説やクイズの出題を、ロザンの宇治原が担当。
     以前は「**HERO'Sレシピ**（後に**SUPER HERO'Sレシピ**）」を放送。村田吉**弘**をはじめ、名前に"HERO（ひろ）"と読ませる漢字が入っている複数の料理人（佐々木**浩**、山口**浩**、鈴木**浩**治、東**浩**司、松本喜**宏**）が、「HERO's（ヒーローズ）」と称してスタジオで料理を披露していた\[7\]。「**得するかけ算レシピ**」への移行後は、必ずしも「HERO's」にこだわらなくなっているが、上記の料理人も随時出演している。
 
 番組の最後には、番組特製エプロンのプレゼント企画を実施している。過去には、「魔法のグルメプレゼント」（番組特選の食材や調味料などを希望者から抽選で進呈するレギュラー版限定企画）をはじめ、[セイコーエプソン](../Page/セイコーエプソン.md "wikilink")の[プリンタや](https://ja.wikipedia.org/wiki/プリンター "wikilink")、そのプリンタで印刷した水野のサイン入り出演者の生写真のプレゼント企画を実施していた。
 
-制作局のMBSでは、放送日（水曜日）が[祝日](../Page/祝日.md "wikilink")と重なる場合に、『[ちちんぷいぷい](https://ja.wikipedia.org/wiki/ちちんぷいぷい_\(テレビ番組\) "wikilink")』（河田が一部曜日の総合司会などを務めるMBSテレビ平日午後の情報番組）との[コラボレーション](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")企画を実施。「キッチンぷいぷい」（同番組内の料理コーナー）に水野や上記のシェフが特別に出演することや、同番組のレギュラー出演者が当番組の生放送にも登場することがある。
+制作局のMBSでは、放送日（水曜日）が[祝日](../Page/祝日.md "wikilink")と重なる場合に、『[ちちんぷいぷい](https://ja.wikipedia.org/wiki/ちちんぷいぷい_\(テレビ番組\) "wikilink")』（河田が一部曜日の総合司会などを務めるMBSテレビ平日午後の情報番組）との[コラボレーション](../Page/コラボレーション.md "wikilink")企画を実施。「キッチンぷいぷい」（同番組内の料理コーナー）に水野や上記のシェフが特別に出演することや、同番組のレギュラー出演者が当番組の生放送にも登場することがある。
 
 ### 過去のコーナー
 
@@ -79,12 +79,12 @@
   - まかない刑事
     [2001年](../Page/2001年.md "wikilink")に放送されたコーナー。[石橋蓮司](../Page/石橋蓮司.md "wikilink")と[山本太郎](https://ja.wikipedia.org/wiki/山本太郎 "wikilink")が扮する二人の刑事が関西のまかないを捜査するコーナー。
   - まかない探偵
-    [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")4月から半年ほど放送されたコーナー。「野菜を食べよう\!」をコンセプトに、関西に店舗を置く料理店のオーナーが、一つの野菜を使ったまかない料理を紹介する。
+    [2005年](../Page/2005年.md "wikilink")4月から半年ほど放送されたコーナー。「野菜を食べよう\!」をコンセプトに、関西に店舗を置く料理店のオーナーが、一つの野菜を使ったまかない料理を紹介する。
   - 和食の花道〜3つの魔法〜
-    京都の日本料理店「**菊乃井**」3代目主人の[村田吉弘](https://ja.wikipedia.org/wiki/村田吉弘 "wikilink")が、家庭で簡単に出来る和食を実際に調理ながら紹介、おいしく仕上げる「3つの魔法」（ポイント）を指南する。
+    京都の日本料理店「**菊乃井**」3代目主人の[村田吉弘](../Page/村田吉弘.md "wikilink")が、家庭で簡単に出来る和食を実際に調理ながら紹介、おいしく仕上げる「3つの魔法」（ポイント）を指南する。
     このコーナーは、村田以外の料理人や当日のゲストが料理を披露する場合もあり、その場合は「和食」の部分が変わる。
   - 魔法の男前（2009年4月15日 - ）
-    イケメン俳優とリポーター（おもに[今いくよ・くるよ](https://ja.wikipedia.org/wiki/今いくよ・くるよ "wikilink")）がテーマに沿ったお薦めのお店をリポート。随所にイケメン俳優のショットが入るのが特徴。初回は杉浦太陽が担当。
+    イケメン俳優とリポーター（おもに[今いくよ・くるよ](../Page/今いくよ・くるよ.md "wikilink")）がテーマに沿ったお薦めのお店をリポート。随所にイケメン俳優のショットが入るのが特徴。初回は杉浦太陽が担当。
   - THE 24時\!（進行：大吉洋平〔毎日放送アナウンサー〕）
     リポーターが24時間で多くの土地を回り、その土地のご当地料理を食べ尽くすコーナー。「ザ・密着\!」同様、その日のテーマに該当する人気店を密着取材することもある。
   - 炎の魔法 5ツ星レストラン（進行：中川家）
@@ -110,7 +110,7 @@
     テーマにまつわるさまざまなお店の情報を5分間に凝縮して紹介。
   - 炎のクッキング対決\!\!（2010年11月24日 - ）
     出演者がそれぞれ作る料理で対決を行う。どちらの料理がよかったかを水野ら出演者が判定する。
-  - カプサイシン研究所（リポーター：[博多華丸・大吉](https://ja.wikipedia.org/wiki/博多華丸・大吉 "wikilink")、[月亭八光](https://ja.wikipedia.org/wiki/月亭八光 "wikilink")ほか、2011年4月13日 - ）
+  - カプサイシン研究所（リポーター：[博多華丸・大吉](../Page/博多華丸・大吉.md "wikilink")、[月亭八光](../Page/月亭八光.md "wikilink")ほか、2011年4月13日 - ）
     その日のテーマとなる食材の歴史を徹底攻略。コーナータイトルは初回のテーマが[トウガラシ](../Page/トウガラシ.md "wikilink")だったことから付けられ、オンエア時には「〜○○の秘密〜（○○はテーマ食材）」が続く。カプサイシンマン（番組AD）も登場。
   - 笑顔の食卓（2011年4月 - 2013年9月）
     視聴者から募集した、子供たちと一緒に食卓を囲んでいる写真を紹介。
@@ -140,7 +140,7 @@
 
   - 粉もんシリーズ
     大阪の代表的な食べ物の一つである「粉もの」（お好み焼き、たこ焼き、焼きそばなど）のお店ばかりを紹介するもので、番組開始以来最も放送回数が多い企画。
-    このシリーズの一環で[2004年](../Page/2004年.md "wikilink")には、[大阪城公園](../Page/大阪城公園.md "wikilink")で行われた毎日放送主催のイベント「[オーサカキング](https://ja.wikipedia.org/wiki/オーサカキング "wikilink")」で、「粉もんランド」という大阪の人気粉もの店が一堂に会したパビリオンを出展。大盛況を集めた。
+    このシリーズの一環で[2004年](../Page/2004年.md "wikilink")には、[大阪城公園](../Page/大阪城公園.md "wikilink")で行われた毎日放送主催のイベント「[オーサカキング](../Page/オーサカキング.md "wikilink")」で、「粉もんランド」という大阪の人気粉もの店が一堂に会したパビリオンを出展。大盛況を集めた。
   - 大阪環状線シリーズ（スペシャル版のみ）
     大阪市内を走るJR[大阪環状線](../Page/大阪環状線.md "wikilink")沿線にある、お薦めの店を紹介する企画。
     ここから派生した企画で、[阪神電鉄沿線](../Page/阪神電気鉄道.md "wikilink")、[阪急電鉄](../Page/阪急電鉄.md "wikilink")沿線、[大阪市営地下鉄御堂筋線](https://ja.wikipedia.org/wiki/大阪市営地下鉄御堂筋線 "wikilink")沿線の店を紹介する企画や、大阪のメインストリート[御堂筋](../Page/御堂筋.md "wikilink")沿いの店を紹介する企画もある。近年は路線図についているルーレット（[人生ゲーム](https://ja.wikipedia.org/wiki/人生ゲーム "wikilink")のルーレットを改造したもの）を回し、現在地の駅から出た数だけ移動（マイナスの数字が出た場合は現在地からその数だけ戻る）する方式となっていて、☆が出た時は好きな駅に移動できる。\[8\]
@@ -151,12 +151,12 @@
   - アポなしグルメ旅・ルーレット対決版
     JR又は私鉄の各線でチーム戦で始発から終点まで時間内に対決。ルーレットで現在いる駅から進む（あるいは戻る）駅数を決める。時間内に終点の駅にある店に到着しクリアしたチームには、万能だし、洋食ウスターソース、粉もんソースのセットまたは万能土鍋がプレゼントされる。午後8時になるとタイムアップ。
     現在の完全制覇は、大阪市営地下鉄千日前線、御堂筋線、阪急電鉄神戸線、大阪市営地下鉄堺筋線（阪急電鉄千里線）、阪神本線、京阪本線、阪急京都線。
-    特別出演には[中川翔子](../Page/中川翔子.md "wikilink")、[永井大](../Page/永井大.md "wikilink")、[塚地武雅](https://ja.wikipedia.org/wiki/塚地武雅 "wikilink")（[ドランクドラゴン](../Page/ドランクドラゴン.md "wikilink")）、[国生さゆり](../Page/国生さゆり.md "wikilink")、[渡部陽一](https://ja.wikipedia.org/wiki/渡部陽一 "wikilink")、[川村信子](https://ja.wikipedia.org/wiki/川村信子 "wikilink")、[千原ジュニア](https://ja.wikipedia.org/wiki/千原ジュニア "wikilink")他が登場。
+    特別出演には[中川翔子](../Page/中川翔子.md "wikilink")、[永井大](../Page/永井大.md "wikilink")、[塚地武雅](../Page/塚地武雅.md "wikilink")（[ドランクドラゴン](../Page/ドランクドラゴン.md "wikilink")）、[国生さゆり](../Page/国生さゆり.md "wikilink")、[渡部陽一](../Page/渡部陽一.md "wikilink")、[川村信子](https://ja.wikipedia.org/wiki/川村信子 "wikilink")、[千原ジュニア](../Page/千原ジュニア.md "wikilink")他が登場。
   - 大阪24区・アポなしグルメ旅（2012年4月18日 -）
     大阪24区の中から2つの区を2チームに分かれて巡り、出会った人からお店の情報を聞きだしてアポなし取材を行う。2つのルーレットを使い、現在地から移動する方角と距離を決める。勝負は制限時間5時間の総移動距離で競われ、勝利チームには万能土鍋がプレゼントされる。
   - 大阪環状線・アポなしりとりグルメ旅
     JR大阪環状線界隈の名店を外回りチーム（TKO、[勝俣州和](../Page/勝俣州和.md "wikilink")）、内回り（赤井、高畑、[敦士](https://ja.wikipedia.org/wiki/敦士 "wikilink")）チームに分かれて巡り、しりとりでお店の情報を聞き出してアポなし取材を行う。助っ人ルールや○行ルールもOK。
-    例題（[高畑淳子](https://ja.wikipedia.org/wiki/高畑淳子 "wikilink")（内回り）チームの場合）：お→大阪王→魚重 桜美琴（うおじゅう おみごと）→トロイカ&リビエラ→ろうす亭 茂
+    例題（[高畑淳子](../Page/高畑淳子.md "wikilink")（内回り）チームの場合）：お→大阪王→魚重 桜美琴（うおじゅう おみごと）→トロイカ&リビエラ→ろうす亭 茂
   - 御堂筋・アポなしマラソン
     御堂筋界隈を東エリアチーム、西エリアチームに分かれてスタートの大阪駅からゴールの[高島屋](../Page/高島屋.md "wikilink")大阪店まで5つのエリアを走りながらお店の情報を聞き出してアポなし取材を行う。
 
@@ -172,7 +172,7 @@
 ### レギュラー
 
   - [長野博](../Page/長野博.md "wikilink")（[V6](../Page/V6_\(グループ\).md "wikilink")、2012年10月8日 - ） - 味王
-  - [河田直也](https://ja.wikipedia.org/wiki/河田直也 "wikilink")（毎日放送アナウンサー、2017年4月19日 - ）
+  - [河田直也](../Page/河田直也.md "wikilink")（毎日放送アナウンサー、2017年4月19日 - ）
   - [宇治原史規](https://ja.wikipedia.org/wiki/宇治原史規 "wikilink")（[ロザン](../Page/ロザン.md "wikilink")、2018年1月10日 - ） - クイズ王
   - [菅広文](https://ja.wikipedia.org/wiki/菅広文 "wikilink")（ロザン、2018年1月10日 - ）
       - ロザンのレギュラー起用後のスタジオパートでは、水野と宇治原が料理人と共に進行。宇治原は、料理にちなんだクイズの出題役も担う。これに対して、菅と長野は、週替わりのゲスト（1名）と並んでクイズの解答や試食に臨む。
@@ -181,22 +181,22 @@
 
   - [高橋英樹](../Page/高橋英樹_\(俳優\).md "wikilink")（真麻の父）
   - [赤井英和](https://ja.wikipedia.org/wiki/赤井英和 "wikilink")
-  - [月亭八方](https://ja.wikipedia.org/wiki/月亭八方 "wikilink")
+  - [月亭八方](../Page/月亭八方.md "wikilink")
   - [川藤幸三](../Page/川藤幸三.md "wikilink")（原則としてスペシャル版のロケのみだが、[2009年](../Page/2009年.md "wikilink")[1月15日](../Page/1月15日.md "wikilink")放送分でスタジオパートに初登場）
   - [間寛平](../Page/間寛平.md "wikilink")
-  - [円広志](https://ja.wikipedia.org/wiki/円広志 "wikilink")
+  - [円広志](../Page/円広志.md "wikilink")
   - [トミーズ健](https://ja.wikipedia.org/wiki/トミーズ健 "wikilink")
-  - [ハイヒール](https://ja.wikipedia.org/wiki/ハイヒール_\(お笑い\) "wikilink")
-  - [今いくよ・くるよ](https://ja.wikipedia.org/wiki/今いくよ・くるよ "wikilink")
-  - [金村義明](https://ja.wikipedia.org/wiki/金村義明 "wikilink")
-  - [たむらけんじ](https://ja.wikipedia.org/wiki/たむらけんじ "wikilink")
+  - [ハイヒール](../Page/ハイヒール_\(お笑い\).md "wikilink")
+  - [今いくよ・くるよ](../Page/今いくよ・くるよ.md "wikilink")
+  - [金村義明](../Page/金村義明.md "wikilink")
+  - [たむらけんじ](../Page/たむらけんじ.md "wikilink")
   - [シャンプーハット](https://ja.wikipedia.org/wiki/シャンプーハット_\(お笑いコンビ\) "wikilink")
-  - [月亭八光](https://ja.wikipedia.org/wiki/月亭八光 "wikilink")
+  - [月亭八光](../Page/月亭八光.md "wikilink")
   - [大西ユカリ](../Page/大西ユカリ.md "wikilink")
   - [小泉エリ](../Page/小泉エリ.md "wikilink")
-  - [宇都宮まき](https://ja.wikipedia.org/wiki/宇都宮まき "wikilink")
+  - [宇都宮まき](../Page/宇都宮まき.md "wikilink")
   - [麒麟](../Page/麒麟_\(お笑いコンビ\).md "wikilink")
-  - [博多華丸・大吉](https://ja.wikipedia.org/wiki/博多華丸・大吉 "wikilink")
+  - [博多華丸・大吉](../Page/博多華丸・大吉.md "wikilink")
   - [ガッツ石松](../Page/ガッツ石松.md "wikilink")
   - [石塚英彦](../Page/石塚英彦.md "wikilink")（[ホンジャマカ](../Page/ホンジャマカ.md "wikilink")）
   - [ミサイルマン](../Page/ミサイルマン_\(お笑いコンビ\).md "wikilink")
@@ -219,7 +219,7 @@
 
   - [井川遥](https://ja.wikipedia.org/wiki/井川遥 "wikilink")
   - [メッセンジャー黒田](https://ja.wikipedia.org/wiki/メッセンジャー黒田 "wikilink")
-  - [久遠さやか](https://ja.wikipedia.org/wiki/久遠さやか "wikilink")
+  - [久遠さやか](../Page/久遠さやか.md "wikilink")
   - [和希沙也](https://ja.wikipedia.org/wiki/和希沙也 "wikilink")
   - [橋下徹](../Page/橋下徹.md "wikilink")
   - [掛布雅之](../Page/掛布雅之.md "wikilink")
@@ -228,7 +228,7 @@
   - 小林さとね\[10\]（2012年10月8日 - 2014年9月1日\[11\]）
   - [高橋真麻](https://ja.wikipedia.org/wiki/高橋真麻 "wikilink")（元・[フジテレビアナウンサー](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、2014年4月14日 - 2016年9月14日）\[12\]
   - [大吉洋平](https://ja.wikipedia.org/wiki/大吉洋平 "wikilink")（毎日放送アナウンサー、2009年4月15日 - 2017年3月15日）
-  - [篠原信一](https://ja.wikipedia.org/wiki/篠原信一 "wikilink")（柔道解説者、2016年4月13日 - 2017年9月13日）
+  - [篠原信一](../Page/篠原信一.md "wikilink")（柔道解説者、2016年4月13日 - 2017年9月13日）
   - [スザンヌ](https://ja.wikipedia.org/wiki/スザンヌ "wikilink")（2016年4月13日 - 2017年12月20日）
   - [TKO](../Page/TKO_\(お笑いコンビ\).md "wikilink")（[木本武宏](https://ja.wikipedia.org/wiki/木本武宏 "wikilink")・[木下隆行](https://ja.wikipedia.org/wiki/木下隆行 "wikilink")、2010年5月5日 - 2017年12月20日）
   - [杉浦太陽](https://ja.wikipedia.org/wiki/杉浦太陽 "wikilink")（2009年4月15日 - 2017年12月27日）
@@ -237,13 +237,13 @@
 
 ### 過去のナレーション
 
-柳森と浜平は交替で担当。このメンバーのほかに、[浜村淳](../Page/浜村淳.md "wikilink")、[槇大輔](https://ja.wikipedia.org/wiki/槇大輔 "wikilink")などが担当したこともある。
+柳森と浜平は交替で担当。このメンバーのほかに、[浜村淳](../Page/浜村淳.md "wikilink")、[槇大輔](../Page/槇大輔.md "wikilink")などが担当したこともある。
 
   - [藤田勇児](../Page/藤田勇児.md "wikilink")（番組開始 - 2016年8月31日）
   - 柳森万里（番組開始 - 2016年8月31日）
-  - [浜平恭子](https://ja.wikipedia.org/wiki/浜平恭子 "wikilink")（番組開始 - 2016年8月31日）
+  - [浜平恭子](../Page/浜平恭子.md "wikilink")（番組開始 - 2016年8月31日）
   - [坂田利夫](../Page/坂田利夫.md "wikilink")（「カプサイシン研究所」）
-  - [木村匡也](https://ja.wikipedia.org/wiki/木村匡也 "wikilink")（2017年5月31日）
+  - [木村匡也](../Page/木村匡也.md "wikilink")（2017年5月31日）
 
 ## ネット局
 
@@ -264,7 +264,7 @@
       - ネットされた当初（時期不明）は毎週金曜日の10:20 - 11:20に定期ネット（8日遅れ）→不定期放送（時期不明）→土曜12:00 - 13:00（2009年6月から2010年3月。9日遅れ）→木曜19:00 - 20:00（2010年4月15日から5月20日。1日遅れ）→水曜24:20 - 25:20（2010年10月6日から2011年3月30日。28日遅れ→14日遅れ）→水曜19:54 - 20:54（2012秋改編から、ネット終了まで）
       - 現在の該当時間枠でスポーツ中継やネットワークセールスの特別番組で休止した場合は振り替え放送なく2日遅れを維持している。
       - RSKでの、当番組放送は2013年9月11日をもって打ち切られた。後番組は同局のドキュメンタリー番組『[RSK地域スペシャル メッセージ](https://ja.wikipedia.org/wiki/RSK地域スペシャル_メッセージ "wikilink")』が放送時間を20:00に移行して放送される。
-  - [中国放送](../Page/中国放送.md "wikilink")（RCC：[木曜](https://ja.wikipedia.org/wiki/木曜日 "wikilink") 13:55 - 14:55、2013年10月30日から約1ヶ月間放送）
+  - [中国放送](../Page/中国放送.md "wikilink")（RCC：[木曜](../Page/木曜日.md "wikilink") 13:55 - 14:55、2013年10月30日から約1ヶ月間放送）
       - 放送終了後は再放送枠に移行したが、新聞の番組表に「終」マークをつけなかった。
       - 2006年1月 - 3月に[金曜](../Page/金曜日.md "wikilink") 9:55 - 10:50に定期放送していた他、その前後にも穴埋め番組として、または広島県を扱った回等の不定期放送があった。
       - ノンスポンサーで放送し、終了時に独自のエンドカードを出していたが、番組名の「R」を略さずに「Revolution」と表記していた。また、期間が過ぎた告知については「この番組は（関西地区での放送日）に関西地区で放送されたものです」とテロップで追記していた。
@@ -286,7 +286,7 @@
   - [2007年](../Page/2007年.md "wikilink")[5月18日](../Page/5月18日.md "wikilink")に「100人の料理人」の過去の放送をテーマ別にまとめたDVD3巻が発売された。グルメ情報番組がDVD化されるのは極めて異例。
       - 同年[5月23日](../Page/5月23日.md "wikilink")には、当時水野が水曜日のレギュラーとして出演していた『[はなまるマーケット](../Page/はなまるマーケット.md "wikilink")』のクロージングトークにおいて、「魔法のレストラン」のDVDを宣伝していた。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月24日](../Page/1月24日.md "wikilink")放送分で、18:57から約2分間、VTRが停止するトラブルが起きた。
-  - [2009年](../Page/2009年.md "wikilink")[10月29日](../Page/10月29日.md "wikilink")に、京都の和食料亭「菊乃井」主人・[村田吉弘](https://ja.wikipedia.org/wiki/村田吉弘 "wikilink")監修による「魔法のレストラン万能だし」を発売。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")には、「魔法のレストラン粉もんソース」「魔法のレストラン洋食ウスターソース」、[2011年](../Page/2011年.md "wikilink")[10月13日](../Page/10月13日.md "wikilink")には村田が監修した「魔法の万能土鍋」が発売された。これらの商品は「魔法のレシピ」などで調理する際、使用されることがある。
+  - [2009年](../Page/2009年.md "wikilink")[10月29日](../Page/10月29日.md "wikilink")に、京都の和食料亭「菊乃井」主人・[村田吉弘](../Page/村田吉弘.md "wikilink")監修による「魔法のレストラン万能だし」を発売。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")には、「魔法のレストラン粉もんソース」「魔法のレストラン洋食ウスターソース」、[2011年](../Page/2011年.md "wikilink")[10月13日](../Page/10月13日.md "wikilink")には村田が監修した「魔法の万能土鍋」が発売された。これらの商品は「魔法のレシピ」などで調理する際、使用されることがある。
   - [2011年](../Page/2011年.md "wikilink")[1月16日](https://ja.wikipedia.org/wiki/1月16日 "wikilink")にラーメンチェーン店、[天下一品](../Page/天下一品.md "wikilink")の創業者・[木村勉の半生をドキュメンタリーとドラマで振り返る](https://ja.wikipedia.org/wiki/木村勉_\(実業家\) "wikilink")「[天下一品物語 -すべては屋台から始まった-](https://ja.wikipedia.org/wiki/天下一品物語_-すべては屋台から始まった- "wikilink")」を放送。ドラマパートでは[金山一彦](../Page/金山一彦.md "wikilink")が木村を演じ、当時の設計図を基にラーメンの屋台が再現された。毎日放送の他、[BS-TBS](../Page/BS-TBS.md "wikilink")などでも放送された。
   - 当番組の開始から制作に携わっているプロデューサー（2018年12月時点）の平井直人（番組制作会社・ダイズの代表取締役社長）は、同年4月から[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")で放送されている深夜番組『[あどりぶラヂオ](https://ja.wikipedia.org/wiki/あどりぶラヂオ "wikilink")』において、「ひらいなおと」名義でパーソナリティを随時担当。担当回では、当番組の制作や取材にまつわるエピソードを生放送中に披露するほか、当番組と縁の深い料理人からのリクエスト曲を流している。
 
@@ -313,7 +313,7 @@
   - [CG](../Page/コンピュータグラフィックス.md "wikilink") : 紀野伸子、田中裕司
   - イラスト : 藤田博子
   - [ホームページ](../Page/ホームページ.md "wikilink")製作 : 塩濱誠彦、後藤友里
-  - 協力 : [株式市場トータルフード](https://ja.wikipedia.org/wiki/株式市場トータルフード "wikilink")、[趙善玉料理学院](https://ja.wikipedia.org/wiki/趙善玉料理学院 "wikilink")、 杉山文（[相愛大学](https://ja.wikipedia.org/wiki/相愛大学 "wikilink")、以前は料理監修）
+  - 協力 : [株式市場トータルフード](https://ja.wikipedia.org/wiki/株式市場トータルフード "wikilink")、[趙善玉料理学院](https://ja.wikipedia.org/wiki/趙善玉料理学院 "wikilink")、 杉山文（[相愛大学](../Page/相愛大学.md "wikilink")、以前は料理監修）
   - 栄誉データ監修 : [東京慈恵会医科大学病院](https://ja.wikipedia.org/wiki/東京慈恵会医科大学病院 "wikilink")栄誉部 赤石定典
   - フードコーディネート : 足立敦子（以前は料理スタッフ担当）、広里貴子（広里→以前はフードコーディネート►料理スタッフ）
   - テーブルコーディネート : 中村安津子
@@ -325,7 +325,7 @@
   - 編成担当 : 藤原大輔（MBS）
   - 宣伝担当 : 高橋雅則（MBS）
   - スチール : 芝健太郎
-  - 制作協力 : ダイズ[1](http://www.daizu-mame.com)、[えむき](https://ja.wikipedia.org/wiki/MBS企画 "wikilink")、インサイドムービーズ、ブリッジ（毎週）、BUSY BEE、BAX、[Plan N](https://ja.wikipedia.org/wiki/Plan_N "wikilink")、[BUDDY](https://ja.wikipedia.org/wiki/BUDDY "wikilink")、[Dmark](https://ja.wikipedia.org/wiki/Dmark "wikilink")、ホーリーズエンタープライズ、TOO＋、[クラッチ.](../Page/クラッチ..md "wikilink")、[メディアプルポ](../Page/メディアプルポ.md "wikilink")（週替り）
+  - 制作協力 : ダイズ[1](http://www.daizu-mame.com)、[えむき](../Page/MBS企画.md "wikilink")、インサイドムービーズ、ブリッジ（毎週）、BUSY BEE、BAX、[Plan N](https://ja.wikipedia.org/wiki/Plan_N "wikilink")、[BUDDY](https://ja.wikipedia.org/wiki/BUDDY "wikilink")、[Dmark](https://ja.wikipedia.org/wiki/Dmark "wikilink")、ホーリーズエンタープライズ、TOO＋、[クラッチ.](../Page/クラッチ..md "wikilink")、[メディアプルポ](../Page/メディアプルポ.md "wikilink")（週替り）
   - AP : 伊藤弥生（ダイズ）
   - デスク : 本田美和
   - AD : 小林陽平、藤原由記子、山科佑理乃、山井拓也、山本敦史、田邊朋恵
@@ -335,12 +335,12 @@
   - 総合演出 : 関谷祐輔（MBS、以前は演出）
   - プロデューサー : 松本みゆき（MBS、2018年1月10日から）、[ひらいなおと](https://ja.wikipedia.org/wiki/平井直人_\(テレビプロデューサー\) "wikilink")（[ダイズ](https://ja.wikipedia.org/wiki/ダイズ_\(テレビ制作会社\) "wikilink")、以前はCD→D→2017年5月頃からP）
   - 総合プロデューサー : 京原雄介（MBS、2018年1月10日から、D→一時離脱→復帰→2017年5月頃から12月までP）
-  - チーフプロデューサー : [本郷義浩](https://ja.wikipedia.org/wiki/本郷義浩 "wikilink")（MBS、初回〜2012年8月までP→2012年8月からCP）
+  - チーフプロデューサー : [本郷義浩](../Page/本郷義浩.md "wikilink")（MBS、初回〜2012年8月までP→2012年8月からCP）
   - 製作著作 : 毎日放送
 
 ### 過去のスタッフ
 
-  - 制作 : [御藤良基](../Page/御藤良基.md "wikilink")、[寺西厚史](https://ja.wikipedia.org/wiki/寺西厚史 "wikilink")、[浜田尊弘](https://ja.wikipedia.org/wiki/浜田尊弘 "wikilink")
+  - 制作 : [御藤良基](../Page/御藤良基.md "wikilink")、[寺西厚史](https://ja.wikipedia.org/wiki/寺西厚史 "wikilink")、[浜田尊弘](../Page/浜田尊弘.md "wikilink")
   - プロデューサー : 古田涼子（古田は以前、D→2012年8月までCD→2012年8月からPとして昇格）、[上野大介](https://ja.wikipedia.org/wiki/上野大介 "wikilink")、[森貴洋](https://ja.wikipedia.org/wiki/森貴洋 "wikilink")、村上嘉章（村上→以前はAP→2013年9月まで、同年10月からPとして昇格）
   - チーフディレクター : 宗川圭太、[林智也](https://ja.wikipedia.org/wiki/林智也 "wikilink")、戸田智子、松原謙介、高尾慧子
   - ディレクター : 松浦拓也、古川範子、梶本昌一、福本泰昌、畠山真弘、鴛海剛、冨田佳世子、池田良子、香川路代、北野佳世、中西宏和、中村亮、増井孝美、高橋謙、深井麗子、伊佐若子、北村崇、三宅仙英、阿部淳人
@@ -383,10 +383,10 @@
   - テーブルコーディネート : 山本佳永
   - 料理スタッフ : 高田恒子、藤井榛葉
   - 協力 : [ハウゼコール](https://ja.wikipedia.org/wiki/ハウゼコール "wikilink")、辻村久信デザイン事務所、[阪急百貨店](https://ja.wikipedia.org/wiki/阪急百貨店 "wikilink")ほか
-  - 技術協力 : シネブレーン[4](http://www.cinebrain.com/)、[東通ライティング](https://ja.wikipedia.org/wiki/東通ライティング "wikilink")、アスカプロ、青空映像、テクニカルアート、マコニイ、[エル・アップ](https://ja.wikipedia.org/wiki/エル・アップ "wikilink")、スタッフオズ[5](http://www8.plala.or.jp/staffoz/)、[mabu](../Page/MABU.md "wikilink")、アイゼン、[TBSテックス](https://ja.wikipedia.org/wiki/TBSテックス "wikilink")、プラスプロジェクト、エル・アップ、[イングス](https://ja.wikipedia.org/wiki/イングス_\(映像制作会社\) "wikilink")、エム・ジェイ、毎日グラフィックセンター、[スタジオB\&M](../Page/スタジオ・ビーアンドエム.md "wikilink")、[ライズ・アップ](https://ja.wikipedia.org/wiki/ライズ・アップ "wikilink")、[アーチェリープロダクション](https://ja.wikipedia.org/wiki/アーチェリープロダクション "wikilink")
-  - 美術協力 : [つむら工芸](https://ja.wikipedia.org/wiki/つむら工芸 "wikilink")、アートファクトリー、SASHU、[藤貴園芸](https://ja.wikipedia.org/wiki/藤貴園芸 "wikilink")、プランニングカンパニー柿本、インターナショナルクリエイティブ、MBS企画
+  - 技術協力 : シネブレーン[4](http://www.cinebrain.com/)、[東通ライティング](https://ja.wikipedia.org/wiki/東通ライティング "wikilink")、アスカプロ、青空映像、テクニカルアート、マコニイ、[エル・アップ](https://ja.wikipedia.org/wiki/エル・アップ "wikilink")、スタッフオズ[5](http://www8.plala.or.jp/staffoz/)、[mabu](../Page/MABU.md "wikilink")、アイゼン、[TBSテックス](https://ja.wikipedia.org/wiki/TBSテックス "wikilink")、プラスプロジェクト、エル・アップ、[イングス](../Page/イングス_\(映像制作会社\).md "wikilink")、エム・ジェイ、毎日グラフィックセンター、[スタジオB\&M](../Page/スタジオ・ビーアンドエム.md "wikilink")、[ライズ・アップ](https://ja.wikipedia.org/wiki/ライズ・アップ "wikilink")、[アーチェリープロダクション](../Page/アーチェリープロダクション.md "wikilink")
+  - 美術協力 : [つむら工芸](../Page/つむら工芸.md "wikilink")、アートファクトリー、SASHU、[藤貴園芸](https://ja.wikipedia.org/wiki/藤貴園芸 "wikilink")、プランニングカンパニー柿本、インターナショナルクリエイティブ、MBS企画
   - 料理情報提供 : [大阪あべの・辻調理師専門学校](https://ja.wikipedia.org/wiki/辻調理師専門学校 "wikilink")
-  - 制作協力 : [Jワークス](https://ja.wikipedia.org/wiki/Jワークス "wikilink")、シネブレーン、サイ・ゴン[6](http://www.sai-gon.tv/)、テーブル・ファクトリー、放送映画製作所、ドゥエンタープライズ、エイティーコーポーレション、プランニングエッグ、[ザ・ワークス](https://ja.wikipedia.org/wiki/ザ・ワークス_\(テレビ制作会社\) "wikilink")、ウエスト、ジオード、ダッシュ、[東通企画](https://ja.wikipedia.org/wiki/東通企画 "wikilink")
+  - 制作協力 : [Jワークス](../Page/Jワークス.md "wikilink")、シネブレーン、サイ・ゴン[6](http://www.sai-gon.tv/)、テーブル・ファクトリー、放送映画製作所、ドゥエンタープライズ、エイティーコーポーレション、プランニングエッグ、[ザ・ワークス](../Page/ザ・ワークス_\(テレビ制作会社\).md "wikilink")、ウエスト、ジオード、ダッシュ、[東通企画](../Page/東通企画.md "wikilink")
 
 ## 脚注
 
@@ -411,7 +411,7 @@
 6.  在阪局制作番組に例えれば、[関西テレビ制作の](../Page/関西テレビ放送.md "wikilink")『[有吉弘行のダレトク\!?](https://ja.wikipedia.org/wiki/有吉弘行のダレトク!? "wikilink")』に次いで2本目となる。
 7.  「HERO's」の条件に沿わないが、[陳建一](../Page/陳建一.md "wikilink")・[陳建太郎](https://ja.wikipedia.org/wiki/陳建太郎 "wikilink")親子が登場することもあった。
 8.  [近鉄大阪線](https://ja.wikipedia.org/wiki/近鉄大阪線 "wikilink")は[奈良県](../Page/奈良県.md "wikilink")の[三本松駅以東](../Page/三本松駅_\(奈良県\).md "wikilink")、沿線の駅から離れた店も対象。
-9.  水野の夫・[後藤田正純](https://ja.wikipedia.org/wiki/後藤田正純 "wikilink")が衆議院議員のため。
+9.  水野の夫・[後藤田正純](../Page/後藤田正純.md "wikilink")が衆議院議員のため。
 10. [ハイヒールモモコ](https://ja.wikipedia.org/wiki/ハイヒールモモコ "wikilink")の長女（出演開始時点で10歳）。モモコと共に出演することも多い。
 11. 2015年3月28日に放送された特番『魔法のレストランR 15周年SP 7つの夢がかなう\! 魔法の島セントーサ\!』が最後の出演。
 12. 2016年4月以降は、レギュラー出演している『[ソレダメ\!〜あなたの常識は非常識\!?〜](https://ja.wikipedia.org/wiki/ソレダメ!〜あなたの常識は非常識!?〜 "wikilink")』（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系）の2時間SP放送時は休演。

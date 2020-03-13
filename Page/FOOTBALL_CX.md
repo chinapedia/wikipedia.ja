@@ -25,7 +25,7 @@
   - [中井和哉](../Page/中井和哉.md "wikilink")（声優） - 主にナレーションを担当
   - [石川英郎](../Page/石川英郎.md "wikilink")（声優） - 主にナレーションを担当
   - [エリーローズ](../Page/エリーローズ.md "wikilink")（モデル・タレント） - 2008年9月21日より「*CLダイジェスト*」司会・リポーター
-  - [内田恭子](https://ja.wikipedia.org/wiki/内田恭子 "wikilink")（☆） - 番組内コーナー「*FOOT MASSAGE CX*」担当。[トニー・クロスビー](../Page/トニー・クロスビー.md "wikilink")、[パンツェッタ・ジローラモ](https://ja.wikipedia.org/wiki/パンツェッタ・ジローラモ "wikilink")との雑談
+  - [内田恭子](https://ja.wikipedia.org/wiki/内田恭子 "wikilink")（☆） - 番組内コーナー「*FOOT MASSAGE CX*」担当。[トニー・クロスビー](../Page/トニー・クロスビー.md "wikilink")、[パンツェッタ・ジローラモ](../Page/パンツェッタ・ジローラモ.md "wikilink")との雑談
   - [中野美奈子](../Page/中野美奈子.md "wikilink")（☆） - 番組内コーナー「*HAPPY BIRTHDAY*」担当。当初は中野アナが一人で担当していたこともあったが、途中から後輩の長野アナと二人で担当していた
   - [長野翼](https://ja.wikipedia.org/wiki/長野翼 "wikilink")（☆） - 番組内コーナー「*HAPPY BIRTHDAY*」担当。ヨーロッパ全体のダイジェストを扱っていた時代には[ブンデスリーガのダイジェストのナレーションを担当](../Page/サッカー・ブンデスリーガ_\(ドイツ\).md "wikilink")
   - [西山喜久恵](../Page/西山喜久恵.md "wikilink")（☆） - ナレーション担当
@@ -33,7 +33,7 @@
   - [長坂哲夫](../Page/長坂哲夫.md "wikilink")（☆）
   - [松尾翠](https://ja.wikipedia.org/wiki/松尾翠 "wikilink")（☆） - 「*FOOTBALL CXダイジェスト*」担当
   - [トニー・クロスビー](../Page/トニー・クロスビー.md "wikilink")（ファッションスタイリスト） - 「*FOOTBALL CXダイジェスト*」担当
-  - [パンツェッタ・ジローラモ](https://ja.wikipedia.org/wiki/パンツェッタ・ジローラモ "wikilink")（エッセイスト） - 「*FOOTBALL CXダイジェスト*」担当
+  - [パンツェッタ・ジローラモ](../Page/パンツェッタ・ジローラモ.md "wikilink")（エッセイスト） - 「*FOOTBALL CXダイジェスト*」担当
 
 ## 関連番組
 

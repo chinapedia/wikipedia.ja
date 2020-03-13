@@ -15,7 +15,7 @@
 
 前年までのメジャーリーグでの実績が、
 
-  - 打者なら[打数](https://ja.wikipedia.org/wiki/打数 "wikilink")130以内、投手なら[投球回](https://ja.wikipedia.org/wiki/投球回 "wikilink")50イニング以内
+  - 打者なら[打数](../Page/打数.md "wikilink")130以内、投手なら[投球回](../Page/投球回.md "wikilink")50イニング以内
   - 25人ロースター（登録選手枠）在籍期間が45日以内。試合に出ていなくても、試合に出られるよう登録されている期間が、前年までに45日を越えていないこと。なお、登録選手枠は、毎年9月1日から40人に拡大されるが、この期間はルーキー資格規定の対象外となる。
 
 ### 資格に関する論争
@@ -24,7 +24,7 @@
 
 このような考え方が広まったのは1995年にまず[野茂英雄](../Page/野茂英雄.md "wikilink")が新人王になり、2000年から2001年にはアメリカン・リーグにおいて[佐々木主浩](../Page/佐々木主浩.md "wikilink")と[イチロー](https://ja.wikipedia.org/wiki/イチロー "wikilink")が2年連続で受賞したことで活発に議論されるようになった。こうした議論は[松井秀喜](https://ja.wikipedia.org/wiki/松井秀喜 "wikilink")の新人王の投票にも何人かの記者が反対運動を行うなどの影響を及ぼした他、ダルビッシュ有に対しても一時期「新人王資格が見直される」と言った誤報が飛び交っている。
 
-2014年にも[田中将大](https://ja.wikipedia.org/wiki/田中将大 "wikilink")とキューバリーグで活躍していた[ホセ・アブレイユ](https://ja.wikipedia.org/wiki/ホセ・アブレイユ "wikilink")のルーキー資格を巡ってFOXの解説者の[ゲーブ・キャプラー](https://ja.wikipedia.org/wiki/ゲーブ・キャプラー "wikilink")（元巨人）が「日本とキューバのレベルが高いのは明らか」として「新人王資格には調節が必要」と述べた。
+2014年にも[田中将大](https://ja.wikipedia.org/wiki/田中将大 "wikilink")とキューバリーグで活躍していた[ホセ・アブレイユ](https://ja.wikipedia.org/wiki/ホセ・アブレイユ "wikilink")のルーキー資格を巡ってFOXの解説者の[ゲーブ・キャプラー](../Page/ゲーブ・キャプラー.md "wikilink")（元巨人）が「日本とキューバのレベルが高いのは明らか」として「新人王資格には調節が必要」と述べた。
 
 しかし、こうした意見は日米ともにどちらかと言えば少数派であり、MLB内部では資格の変更の動きはない。また、この賞の別名になっている[ジャッキー・ロビンソン](../Page/ジャッキー・ロビンソン.md "wikilink")の他、[ドン・ニューカム](../Page/ドン・ニューカム.md "wikilink")とサム・ジェスローも[ニグロ・リーグ](https://ja.wikipedia.org/wiki/ニグロ・リーグ "wikilink")での経験があるがルーキーとされた前例も現状維持派の根拠となっている。
 
@@ -37,7 +37,7 @@
 <!-- end list -->
 
   -
-    **P**:[投手](../Page/投手.md "wikilink")　**C**:[捕手](../Page/捕手.md "wikilink")　**1B**:[一塁手](https://ja.wikipedia.org/wiki/一塁手 "wikilink")　**2B**:[二塁手](../Page/二塁手.md "wikilink")　**SS**:[遊撃手](../Page/遊撃手.md "wikilink")　**3B**:[三塁手](https://ja.wikipedia.org/wiki/三塁手 "wikilink")　**OF**:[外野手](../Page/外野手.md "wikilink")　**DH**:[指名打者](../Page/指名打者.md "wikilink")</small>
+    **P**:[投手](../Page/投手.md "wikilink")　**C**:[捕手](../Page/捕手.md "wikilink")　**1B**:[一塁手](../Page/一塁手.md "wikilink")　**2B**:[二塁手](../Page/二塁手.md "wikilink")　**SS**:[遊撃手](../Page/遊撃手.md "wikilink")　**3B**:[三塁手](../Page/三塁手.md "wikilink")　**OF**:[外野手](../Page/外野手.md "wikilink")　**DH**:[指名打者](../Page/指名打者.md "wikilink")</small>
 
 <table>
 <thead>
@@ -100,7 +100,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フランク・ロビンソン" title="wikilink">フランク・ロビンソン</a></p></td>
+<td><p><a href="../Page/フランク・ロビンソン.md" title="wikilink">フランク・ロビンソン</a></p></td>
 <td><p>OF</p></td>
 </tr>
 <tr class="even">
@@ -110,7 +110,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オーランド・セペダ" title="wikilink">オーランド・セペダ</a></p></td>
+<td><p><a href="../Page/オーランド・セペダ.md" title="wikilink">オーランド・セペダ</a></p></td>
 <td><p>1B</p></td>
 </tr>
 <tr class="even">
@@ -120,7 +120,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フランク・ハワード" title="wikilink">フランク・ハワード</a></p></td>
+<td><p><a href="../Page/フランク・ハワード.md" title="wikilink">フランク・ハワード</a></p></td>
 <td><p>OF</p></td>
 </tr>
 <tr class="even">
@@ -185,7 +185,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ゲイリー・マシューズ・シニア" title="wikilink">ゲイリー・マシューズ</a></p></td>
+<td><p><a href="../Page/ゲイリー・マシューズ・シニア.md" title="wikilink">ゲイリー・マシューズ</a></p></td>
 <td><p>OF</p></td>
 </tr>
 <tr class="odd">
@@ -212,7 +212,7 @@ P</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ボブ・ホーナー" title="wikilink">ボブ・ホーナー</a></p></td>
+<td><p><a href="../Page/ボブ・ホーナー.md" title="wikilink">ボブ・ホーナー</a></p></td>
 <td><p>3B</p></td>
 </tr>
 <tr class="even">
@@ -227,7 +227,7 @@ P</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フェルナンド・バレンズエラ" title="wikilink">フェルナンド・バレンズエラ</a></p></td>
+<td><p><a href="../Page/フェルナンド・バレンズエラ.md" title="wikilink">フェルナンド・バレンズエラ</a></p></td>
 <td><p>P</p></td>
 </tr>
 <tr class="odd">
@@ -287,7 +287,7 @@ P</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マイク・ピアッツァ" title="wikilink">マイク・ピアッツァ</a></p></td>
+<td><p><a href="../Page/マイク・ピアッツァ.md" title="wikilink">マイク・ピアッツァ</a></p></td>
 <td><p>C</p></td>
 </tr>
 <tr class="odd">
@@ -312,12 +312,12 @@ P</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ケリー・ウッド" title="wikilink">ケリー・ウッド</a></p></td>
+<td><p><a href="../Page/ケリー・ウッド.md" title="wikilink">ケリー・ウッド</a></p></td>
 <td><p>P</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スコット・ウィリアムソン" title="wikilink">スコット・ウィリアムソン</a></p></td>
+<td><p><a href="../Page/スコット・ウィリアムソン.md" title="wikilink">スコット・ウィリアムソン</a></p></td>
 <td><p>P</p></td>
 </tr>
 <tr class="odd">
@@ -337,7 +337,7 @@ P</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ドントレル・ウィリス" title="wikilink">ドントレル・ウィリス</a></p></td>
+<td><p><a href="../Page/ドントレル・ウィリス.md" title="wikilink">ドントレル・ウィリス</a></p></td>
 <td><p>P</p></td>
 </tr>
 <tr class="odd">

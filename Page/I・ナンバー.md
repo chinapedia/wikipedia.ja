@@ -16,7 +16,7 @@
 
 ## 組み合わせて使用できるサービス
 
-  - [ナンバーディスプレイ](https://ja.wikipedia.org/wiki/ナンバーディスプレイ "wikilink")
+  - [ナンバーディスプレイ](../Page/ナンバーディスプレイ.md "wikilink")
   - [ネームディスプレイ](https://ja.wikipedia.org/wiki/ネームディスプレイ "wikilink")
   - [マジックボックス](https://ja.wikipedia.org/wiki/マジックボックス "wikilink")
 

@@ -1,7 +1,7 @@
 > この記事は[AI-SACHI](https://ja.wikipedia.org/wiki/AI-SACHI)から翻訳されています。
 
 
-**AI-SACHI**（アイサチ）は、日本の女性2人組ダンス＆ボーカルユニット。[ライジングプロダクション](https://ja.wikipedia.org/wiki/ライジングプロダクション "wikilink")所属。レーベルは[avex trax](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+**AI-SACHI**（アイサチ）は、日本の女性2人組ダンス＆ボーカルユニット。[ライジングプロダクション](../Page/ライジングプロダクション.md "wikilink")所属。レーベルは[avex trax](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## メンバー
 
@@ -14,22 +14,22 @@
 
 ## 作品
 
-「順位」は全て[オリコン週間ランキング最高位](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")
+「順位」は全て[オリコン週間ランキング最高位](../Page/オリコンチャート.md "wikilink")
 
 ### シングル
 
 1.  **BEFORE DAWN**（2001年11月28日、AVCD-30293、33位）
     1.  BEFORE DAWN
           - 作詞：さとうみかこ、作曲・編曲：[佐藤宣彦](https://ja.wikipedia.org/wiki/佐藤宣彦 "wikilink")
-          - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")『[ONE PIECE](https://ja.wikipedia.org/wiki/ONE_PIECE_\(アニメ\) "wikilink")』エンディングテーマ
+          - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")『[ONE PIECE](../Page/ONE_PIECE_\(アニメ\).md "wikilink")』エンディングテーマ
     2.  さよならの後に見る夢
           - 作詞：さとうみかこ、作曲・編曲：佐藤宣彦
           - [ロッテ](../Page/ロッテ.md "wikilink")「ストロベリーガム」CMソング
 2.  **二つの勇気**（2002年5月2日、AVCD-30353、45位）
     1.  二つの勇気
           - 作詞：さとうみかこ、作曲・編曲：佐藤宣彦
-          - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")『[ハマラジャ](https://ja.wikipedia.org/wiki/ハマラジャ "wikilink")』エンディングテーマ
-          - [中京テレビ](../Page/中京テレビ放送.md "wikilink")『[あんたにグラッツェ\!](https://ja.wikipedia.org/wiki/あんたにグラッツェ! "wikilink")』エンディングテーマ
+          - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")『[ハマラジャ](../Page/ハマラジャ.md "wikilink")』エンディングテーマ
+          - [中京テレビ](../Page/中京テレビ放送.md "wikilink")『[あんたにグラッツェ\!](../Page/あんたにグラッツェ!.md "wikilink")』エンディングテーマ
     2.  Winner
           - 作詞・作曲・編曲：[T2ya](../Page/T2ya.md "wikilink")
 

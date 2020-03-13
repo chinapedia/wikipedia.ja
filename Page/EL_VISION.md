@@ -5,7 +5,7 @@
 
 ## 概要
 
-[2002年](../Page/2002年.md "wikilink")、山佐は業界初となる[有機EL](https://ja.wikipedia.org/wiki/有機EL "wikilink")でリールの前面パネルに演出を表示する筐体を採用した、[ネオプラネットXX](../Page/ネオプラネットXX.md "wikilink")を発売した。そして、この演出表示装置の愛称を「EL VISION」とした。有機ELの開発と供給元はデンソーであり、これは[トヨタの](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")[セルシオや](../Page/トヨタ・セルシオ.md "wikilink")[マジェスタなどのメーターに採用された透過型表示装置](https://ja.wikipedia.org/wiki/トヨタ・クラウンマジェスタ "wikilink")（エレクトロルミネッセンス・マルチインフォメーションディスプレイ）と同じ技術である。
+[2002年](../Page/2002年.md "wikilink")、山佐は業界初となる[有機EL](https://ja.wikipedia.org/wiki/有機EL "wikilink")でリールの前面パネルに演出を表示する筐体を採用した、[ネオプラネットXX](../Page/ネオプラネットXX.md "wikilink")を発売した。そして、この演出表示装置の愛称を「EL VISION」とした。有機ELの開発と供給元はデンソーであり、これは[トヨタの](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")[セルシオや](../Page/トヨタ・セルシオ.md "wikilink")[マジェスタなどのメーターに採用された透過型表示装置](../Page/トヨタ・クラウンマジェスタ.md "wikilink")（エレクトロルミネッセンス・マルチインフォメーションディスプレイ）と同じ技術である。
 
 それまででは考えられなかったリール上での演出が実現し、リールの停止絵柄を絡める演出など、[液晶](../Page/液晶.md "wikilink")・ドットに続く新しい演出として評価は高かった。また、「EL VISION」を使用してゲーム数・停止絵柄の履歴や差枚数のチェック・演出頻度の設定などが可能であった。
 
@@ -24,11 +24,11 @@
 <!-- end list -->
 
   -
-    [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月](../Page/11月.md "wikilink")現在
+    [2006年](../Page/2006年.md "wikilink")[11月](../Page/11月.md "wikilink")現在
 
 ## 関連項目
 
-  - [有機エレクトロルミネッセンス](https://ja.wikipedia.org/wiki/有機エレクトロルミネッセンス "wikilink")（有機EL）
+  - [有機エレクトロルミネッセンス](../Page/有機エレクトロルミネッセンス.md "wikilink")（有機EL）
   - [山佐](../Page/山佐.md "wikilink")
   - [デンソー](https://ja.wikipedia.org/wiki/デンソー "wikilink")
   - [トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")

@@ -1,7 +1,7 @@
 > この記事は[FLEX](https://ja.wikipedia.org/wiki/FLEX)から翻訳されています。
 
 
-（フレックス）は[テレビ朝日](../Page/テレビ朝日.md "wikilink")の子会社\[1\]で、[報道番組](../Page/報道番組.md "wikilink")の[制作](https://ja.wikipedia.org/wiki/制作 "wikilink")、[ENG取材](https://ja.wikipedia.org/wiki/ENG_\(放送\) "wikilink")、[映像編集](../Page/映像編集.md "wikilink")、テレビ朝日に所蔵されている映像ライブラリーの管理・運用を担当している。
+（フレックス）は[テレビ朝日](../Page/テレビ朝日.md "wikilink")の子会社\[1\]で、[報道番組](../Page/報道番組.md "wikilink")の[制作](https://ja.wikipedia.org/wiki/制作 "wikilink")、[ENG取材](../Page/ENG_\(放送\).md "wikilink")、[映像編集](../Page/映像編集.md "wikilink")、テレビ朝日に所蔵されている映像ライブラリーの管理・運用を担当している。
 
 ## 沿革
 
@@ -12,7 +12,7 @@
   - [1991年](../Page/1991年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - **報道制作部**、**資料部**（現**アーカイブ部**）を新設。
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")4月 - テレビ朝日の関連会社（持分法適用会社）となる。
   - [2000年](../Page/2000年.md "wikilink")4月 - **フレックスアメリカ**（**FLEX America Inc.**）を設立。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")4月 - **データ放送制作部**を新設。
+  - [2006年](../Page/2006年.md "wikilink")4月 - **データ放送制作部**を新設。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")4月 - テレビ朝日の連結子会社となる。
 
 ## 主な制作協力番組
@@ -22,7 +22,7 @@
   - [スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")（テレビ朝日系列）
   - [報道ステーション](https://ja.wikipedia.org/wiki/報道ステーション "wikilink")（テレビ朝日系列）
   - [サンデーフロントライン](https://ja.wikipedia.org/wiki/サンデーフロントライン "wikilink")（テレビ朝日系列）
-  - [News Access](https://ja.wikipedia.org/wiki/News_Access "wikilink")（[BS朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")）
+  - [News Access](../Page/News_Access.md "wikilink")（[BS朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")）
 
 ## 主な受賞歴
 
@@ -32,7 +32,7 @@
 ## その他
 
   - 発足以来、一貫して[報道](../Page/報道.md "wikilink")の分野で活動し、発展し続けているのが特徴。一時期、[CMなどの制作部門を設けたこともあったが](../Page/コマーシャルメッセージ.md "wikilink")、[1988年](../Page/1988年.md "wikilink")に当時子会社だったフレックスインターナショナル（現クロスコ(株)）に統合された。
-  - 中でも、ANNニュース、スーパーJチャンネル、報道ステーションには深く関わっており、[スポーツ](../Page/スポーツ.md "wikilink")を除くすべての[撮影](https://ja.wikipedia.org/wiki/撮影 "wikilink")と[編集](../Page/編集.md "wikilink")を担当している。ただ、相対的に[ディレクター](../Page/ディレクター.md "wikilink")の数は少なく、各番組とも数名程度しか在籍していない。その他、[やじうまプラス](../Page/やじうまプラス.md "wikilink")（テレビ朝日系列）や[ワイド\!スクランブル](../Page/ワイド!スクランブル.md "wikilink")（テレビ朝日系列）、[朝まで生テレビ](https://ja.wikipedia.org/wiki/朝まで生テレビ "wikilink")の編集にも携わっている\[2\]。
+  - 中でも、ANNニュース、スーパーJチャンネル、報道ステーションには深く関わっており、[スポーツ](../Page/スポーツ.md "wikilink")を除くすべての[撮影](../Page/撮影.md "wikilink")と[編集](../Page/編集.md "wikilink")を担当している。ただ、相対的に[ディレクター](../Page/ディレクター.md "wikilink")の数は少なく、各番組とも数名程度しか在籍していない。その他、[やじうまプラス](../Page/やじうまプラス.md "wikilink")（テレビ朝日系列）や[ワイド\!スクランブル](../Page/ワイド!スクランブル.md "wikilink")（テレビ朝日系列）、[朝まで生テレビ](https://ja.wikipedia.org/wiki/朝まで生テレビ "wikilink")の編集にも携わっている\[2\]。
   - 近年、[ANN系列各局への人材派遣も積極的に行っており](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")、現在は[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")(ABC)にディレクターなどを送りこんでいる。
   - [秋田朝日放送](../Page/秋田朝日放送.md "wikilink")にも何らかの形で制作協力を行っている\[3\]。
   - 2008年2月、グループ会社との関係強化を図っていたテレビ朝日が、フレックスの株式を3月末までに69.58％まで追加取得すると発表。これにより、フレックスはテレビ朝日の連結子会社となる。
@@ -51,5 +51,5 @@
 [Category:テレビ朝日](https://ja.wikipedia.org/wiki/Category:テレビ朝日 "wikilink") [Category:テレビ制作会社](https://ja.wikipedia.org/wiki/Category:テレビ制作会社 "wikilink") [Category:東京都港区の企業](https://ja.wikipedia.org/wiki/Category:東京都港区の企業 "wikilink")
 
 1.  \[<http://www.tv-asahihd.co.jp/contents/corp/group.html>　テレビ朝日の子会社\]　テレビ朝日ホールディングス　
-2.  「朝まで生テレビ」では[エンドクレジットで編集者の名前が出る](https://ja.wikipedia.org/wiki/クレジットタイトル "wikilink")。
+2.  「朝まで生テレビ」では[エンドクレジットで編集者の名前が出る](../Page/クレジットタイトル.md "wikilink")。
 3.  [情報ニュースショートレタテ！](https://ja.wikipedia.org/wiki/情報ニュースショートレタテ！ "wikilink")のエンドクレジットで確認

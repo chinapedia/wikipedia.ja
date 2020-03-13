@@ -5,7 +5,7 @@
 
 ## 来歴
 
-1998年、アルバム『ESPERANTO』でデビュー。[SPEEDSTAR RECORDSより](../Page/SPEEDSTAR_RECORDS.md "wikilink")2001年2ndアルバム『SOUVENIR』、2003年ヴォーカルに[畠山美由紀](../Page/畠山美由紀.md "wikilink")、中納良恵([EGO-WRAPPIN'](../Page/EGO-WRAPPIN'.md "wikilink"))、[Leyona](https://ja.wikipedia.org/wiki/Leyona "wikilink")を迎えたライブアルバム『LIVE IN JAPAN』を発表。2005年9月22日には約2年ぶりとなるニューアルバム『Brilliant Colors』をリリースした。
+1998年、アルバム『ESPERANTO』でデビュー。[SPEEDSTAR RECORDSより](../Page/SPEEDSTAR_RECORDS.md "wikilink")2001年2ndアルバム『SOUVENIR』、2003年ヴォーカルに[畠山美由紀](../Page/畠山美由紀.md "wikilink")、中納良恵([EGO-WRAPPIN'](../Page/EGO-WRAPPIN'.md "wikilink"))、[Leyona](../Page/Leyona.md "wikilink")を迎えたライブアルバム『LIVE IN JAPAN』を発表。2005年9月22日には約2年ぶりとなるニューアルバム『Brilliant Colors』をリリースした。
 
 2008年にはバンド結成15周年を迎え、畠山美由紀がヴォーカルで参加したアルバム『Double Famous』を発表。大阪、東京で15周年を記念して、中納良恵(EGO-WRAPPIN')、Leyona、[二階堂和美](../Page/二階堂和美.md "wikilink")らゲストと共にバンドの集大成的なワンマンライブを公演。10月には15年の歴史の中で生まれたアルバム未収録曲をコンパイルした『Happy Hour』をリリースした。
 
@@ -43,7 +43,7 @@
 
   - [Port of Notes](../Page/Port_of_Notes.md "wikilink")
   - [LITTLE CREATURES](../Page/LITTLE_CREATURES.md "wikilink")
-  - [Leyona](https://ja.wikipedia.org/wiki/Leyona "wikilink")
+  - [Leyona](../Page/Leyona.md "wikilink")
   - [World Hits\!? of Southern All Stars](../Page/World_Hits!?_of_Southern_All_Stars.md "wikilink")
 
 ## 外部リンク

@@ -5,7 +5,7 @@
 
 ## 概要
 
-『[コミックニュータイプ](https://ja.wikipedia.org/wiki/月刊ニュータイプ#コミックニュータイプ "wikilink")』[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")冬の号から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")春の号に掲載。1997年に第1巻が発売され、未完のままだったが、[2000年](../Page/2000年.md "wikilink")に書き下ろしの続編とおまけ「ケロロ軍曹VS宇宙十兵衛」（『[月刊少年エース](https://ja.wikipedia.org/wiki/月刊少年エース "wikilink")』に掲載。惑星ダブル・クルスへ入荷した地球製ガンプラを巡る[ケロロ軍曹](https://ja.wikipedia.org/wiki/ケロロ軍曹 "wikilink")と宇宙十兵衛の争いを描く。）を共に収録した『宇宙X兵衛完全版』が[カドカワコミックス・エースより発売された](https://ja.wikipedia.org/wiki/カドカワコミックス#カドカワコミックス・エース "wikilink")。
+『[コミックニュータイプ](https://ja.wikipedia.org/wiki/月刊ニュータイプ#コミックニュータイプ "wikilink")』[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")冬の号から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")春の号に掲載。1997年に第1巻が発売され、未完のままだったが、[2000年](../Page/2000年.md "wikilink")に書き下ろしの続編とおまけ「ケロロ軍曹VS宇宙十兵衛」（『[月刊少年エース](https://ja.wikipedia.org/wiki/月刊少年エース "wikilink")』に掲載。惑星ダブル・クルスへ入荷した地球製ガンプラを巡る[ケロロ軍曹](../Page/ケロロ軍曹.md "wikilink")と宇宙十兵衛の争いを描く。）を共に収録した『宇宙X兵衛完全版』が[カドカワコミックス・エースより発売された](https://ja.wikipedia.org/wiki/カドカワコミックス#カドカワコミックス・エース "wikilink")。
 
 ## 登場人物
 
@@ -14,7 +14,7 @@
   - 宇宙百兵衛
     十兵衛の兄（長男）。自らの野望のため、「宇宙流究極真剣伝承者」になろうとするも「流行に流されやすい」という父の言葉で一掃され、そこから十兵衛を妬み惑星X（クルス）へ葬ったのはいいが、「2つの剣がないと宇宙流最終奥義が完成しない」ことを知り、自らも惑星Xへ向かうこととなる。
   - アンナ・ミラージュ
-    幻影の使い手でA級ストライカー。自分が作ったケーキ屋を持つという夢のために戦う。当初は十兵衛の敵として現れたが、十兵衛のボケと強運に加え自分の凡ミスにより負けてしまう。その戦いの最後に見せた十兵衛の人柄に惚れてしまい、十兵衛を慕うようになる。幻影を発動する時はウェイトレスの姿に変身する。ウェイトレスとしてのバイト以外にブルセラショップでバイトしていたこともあるらしく、そこで鈴木一郎と出会ったことがある。名前の由来は[アンナミラーズ](https://ja.wikipedia.org/wiki/アンナミラーズ "wikilink")。
+    幻影の使い手でA級ストライカー。自分が作ったケーキ屋を持つという夢のために戦う。当初は十兵衛の敵として現れたが、十兵衛のボケと強運に加え自分の凡ミスにより負けてしまう。その戦いの最後に見せた十兵衛の人柄に惚れてしまい、十兵衛を慕うようになる。幻影を発動する時はウェイトレスの姿に変身する。ウェイトレスとしてのバイト以外にブルセラショップでバイトしていたこともあるらしく、そこで鈴木一郎と出会ったことがある。名前の由来は[アンナミラーズ](../Page/アンナミラーズ.md "wikilink")。
   - ドクターJ
     医者で超A級ストライカー。その正体は体が自由自在に変化する無形生物で、人間のような有形生物に興味を持ち医者になったが、十兵衛の強靭な体力にも興味を示し、彼に協力を依頼する。新聞は[朝日を購読している](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")。
   - 鈴木一郎
@@ -29,6 +29,6 @@
 ## 関連項目
 
   - [吉崎観音](../Page/吉崎観音.md "wikilink")
-  - [ケロロ軍曹](https://ja.wikipedia.org/wiki/ケロロ軍曹 "wikilink")
+  - [ケロロ軍曹](../Page/ケロロ軍曹.md "wikilink")
 
 [Category:漫画作品_う](https://ja.wikipedia.org/wiki/Category:漫画作品_う "wikilink") [Category:1995年の漫画](https://ja.wikipedia.org/wiki/Category:1995年の漫画 "wikilink") [Category:月刊ニュータイプの漫画作品](https://ja.wikipedia.org/wiki/Category:月刊ニュータイプの漫画作品 "wikilink") [Category:月刊少年エースの漫画作品](https://ja.wikipedia.org/wiki/Category:月刊少年エースの漫画作品 "wikilink") [Category:吉崎観音の漫画作品](https://ja.wikipedia.org/wiki/Category:吉崎観音の漫画作品 "wikilink")

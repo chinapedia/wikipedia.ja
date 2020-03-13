@@ -3,7 +3,7 @@
 
 **真露杯SBS世界囲碁最強戦**（じんろはいSBSせかいいごさいきょうせん）は、[囲碁](../Page/囲碁.md "wikilink")の国際[棋戦で](https://ja.wikipedia.org/wiki/棋戦_\(囲碁\) "wikilink")、[韓国](../Page/大韓民国.md "wikilink")、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")、[中国の三国の](../Page/中華人民共和国.md "wikilink")、各国5名のチームによる勝ち抜き戦で団体優勝を争う。1993年に開始。1997年に[アジア通貨危機](../Page/アジア通貨危機.md "wikilink")の影響による眞露グループの不渡り騒動により終了。優勝回数は韓国5回。1999年に[農心辛ラーメン杯世界囲碁最強戦](../Page/農心辛ラーメン杯世界囲碁最強戦.md "wikilink")として再開された。
 
-  - 主催 ソウル放送（[現在のSBS](https://ja.wikipedia.org/wiki/SBS_\(韓国\) "wikilink")）、[眞露グループ](../Page/ハイト眞露.md "wikilink")
+  - 主催 ソウル放送（[現在のSBS](../Page/SBS_\(韓国\).md "wikilink")）、[眞露グループ](../Page/ハイト眞露.md "wikilink")
   - 主管 [韓国棋院](../Page/韓国棋院.md "wikilink")
   - 優勝賞金 （1-3回）1億[ウォン](https://ja.wikipedia.org/wiki/大韓民国ウォン "wikilink")、（4-5回）20万米ドル
 
@@ -11,7 +11,7 @@
 
 ## ルール
 
-[持ち時間](https://ja.wikipedia.org/wiki/持ち時間 "wikilink")は1人1時間、使い切ると1分の秒読み。[コミ](../Page/コミ.md "wikilink")は5目半。
+[持ち時間](../Page/持ち時間.md "wikilink")は1人1時間、使い切ると1分の秒読み。[コミ](../Page/コミ.md "wikilink")は5目半。
 
 ## 過去の戦績
 
@@ -99,7 +99,7 @@
 <td><p>中国（2-5）</p></td>
 <td><p>日本（0-5）</p></td>
 <td><p>兪斌（金栄桓、淡路修三）<br />
-徐奉洙（兪、<a href="https://ja.wikipedia.org/wiki/彦坂直人" title="wikilink">彦坂直人</a>、<a href="../Page/常昊.md" title="wikilink">常昊</a>、<a href="../Page/山田規三生.md" title="wikilink">山田規三生</a>、陳臨新、<a href="https://ja.wikipedia.org/wiki/王立誠" title="wikilink">王立誠</a>、曹大元、依田紀基、馬暁春）<br />
+徐奉洙（兪、<a href="https://ja.wikipedia.org/wiki/彦坂直人" title="wikilink">彦坂直人</a>、<a href="../Page/常昊.md" title="wikilink">常昊</a>、<a href="../Page/山田規三生.md" title="wikilink">山田規三生</a>、陳臨新、<a href="../Page/王立誠.md" title="wikilink">王立誠</a>、曹大元、依田紀基、馬暁春）<br />
 （残り:劉昌赫、曺薫鉉、李昌鎬）</p></td>
 </tr>
 </tbody>

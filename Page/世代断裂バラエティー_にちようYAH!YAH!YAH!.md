@@ -13,8 +13,8 @@
 
   - [福沢恵介](https://ja.wikipedia.org/wiki/福沢恵介 "wikilink")（40代以上の代表、[M2層](https://ja.wikipedia.org/wiki/M2層 "wikilink")）：当時、HBCラジオで[福沢恵介の今夜も貴方とLive and Talkのパーソナリティーも務めていたミュージシャン](https://ja.wikipedia.org/wiki/福沢恵介の今夜も貴方とLive_and_Talk "wikilink")
   - [民野智恵美](https://ja.wikipedia.org/wiki/民野智恵美 "wikilink")（30代代表、[F1層](https://ja.wikipedia.org/wiki/F1層 "wikilink")）：フリーアナウンサー
-  - [中野智樹](https://ja.wikipedia.org/wiki/中野智樹 "wikilink")（20代代表、[M1層](https://ja.wikipedia.org/wiki/M1層 "wikilink")）：現在、HBCラジオで[期間延長バラエティー・アキトムDX](https://ja.wikipedia.org/wiki/期間延長バラエティー・アキトムDX "wikilink")・[ベストテンほっかいどう](https://ja.wikipedia.org/wiki/ベストテンほっかいどう "wikilink")や[ラジ魂](../Page/ラジ魂.md "wikilink")のパーソナリティーとして活躍中のDJ
-  - [田中さやか](https://ja.wikipedia.org/wiki/田中さやか "wikilink") （10代代表、ティーン）：当時、[北海道北広島西高等学校](https://ja.wikipedia.org/wiki/北海道北広島西高等学校 "wikilink")の[高校3年生](https://ja.wikipedia.org/wiki/女子高生 "wikilink")
+  - [中野智樹](../Page/中野智樹.md "wikilink")（20代代表、[M1層](https://ja.wikipedia.org/wiki/M1層 "wikilink")）：現在、HBCラジオで[期間延長バラエティー・アキトムDX](https://ja.wikipedia.org/wiki/期間延長バラエティー・アキトムDX "wikilink")・[ベストテンほっかいどう](../Page/ベストテンほっかいどう.md "wikilink")や[ラジ魂](../Page/ラジ魂.md "wikilink")のパーソナリティーとして活躍中のDJ
+  - [田中さやか](https://ja.wikipedia.org/wiki/田中さやか "wikilink") （10代代表、ティーン）：当時、[北海道北広島西高等学校](../Page/北海道北広島西高等学校.md "wikilink")の[高校3年生](../Page/女子高生.md "wikilink")
 
 ## タイムテーブル
 
@@ -50,7 +50,7 @@
 17時台の「世代間トークバトル」の参加者募集の呼びかけ
 
   - 16:00 ニュース・道路情報・天気予報
-  - 16:05 (4月から9月まで)[2001年音楽の旅](https://ja.wikipedia.org/wiki/ミュージックギフト〜音楽・地球号 "wikilink")（NRN系ネット）
+  - 16:05 (4月から9月まで)[2001年音楽の旅](../Page/ミュージックギフト〜音楽・地球号.md "wikilink")（NRN系ネット）
   - 17:00 道新ニュース・道路情報・天気予報
   - 17:05 世代間トークバトル
   - 17:30 ニュース・道路情報・天気予報
@@ -62,7 +62,7 @@
 ## 関連番組
 
   - [福沢恵介の今夜も貴方とLive and Talk](https://ja.wikipedia.org/wiki/福沢恵介の今夜も貴方とLive_and_Talk "wikilink")
-  - [ベストテンほっかいどう](https://ja.wikipedia.org/wiki/ベストテンほっかいどう "wikilink")
+  - [ベストテンほっかいどう](../Page/ベストテンほっかいどう.md "wikilink")
   - [期間延長バラエティー・アキトムDX](https://ja.wikipedia.org/wiki/期間延長バラエティー・アキトムDX "wikilink")
   - [ラジ魂](../Page/ラジ魂.md "wikilink")
 

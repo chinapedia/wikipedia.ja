@@ -1,7 +1,7 @@
 > この記事は[GNU Core Utilities](https://ja.wikipedia.org/wiki/GNU_Core_Utilities)から翻訳されています。
 
 
-**GNU Core Utilities**または**Coreutils**は[Unix系](../Page/Unix系.md "wikilink")の[OSで中心的](../Page/オペレーティングシステム.md "wikilink") (core) な[cat](https://ja.wikipedia.org/wiki/Cat_\(UNIX\) "wikilink")、[ls](https://ja.wikipedia.org/wiki/Ls_\(UNIX\) "wikilink")、[rmなどのユーティリティ群のパッケージ](https://ja.wikipedia.org/wiki/rm_\(UNIX\) "wikilink")、ないし、その開発とメンテナンスを行う[GNUプロジェクト](../Page/GNUプロジェクト.md "wikilink")の1サブプロジェクトである。以前はfileutils、textutils、shellutilsに分かれていた。
+**GNU Core Utilities**または**Coreutils**は[Unix系](../Page/Unix系.md "wikilink")の[OSで中心的](../Page/オペレーティングシステム.md "wikilink") (core) な[cat](../Page/Cat_\(UNIX\).md "wikilink")、[ls](../Page/Ls_\(UNIX\).md "wikilink")、[rmなどのユーティリティ群のパッケージ](https://ja.wikipedia.org/wiki/rm_\(UNIX\) "wikilink")、ないし、その開発とメンテナンスを行う[GNUプロジェクト](../Page/GNUプロジェクト.md "wikilink")の1サブプロジェクトである。以前はfileutils、textutils、shellutilsに分かれていた。
 
 ## オプション
 
@@ -29,7 +29,7 @@ Coreutilsにはバージョン5.2.1の段階で以下のコマンドが含まれ
   - dircolors lsの表示色を設定する
   - install ファイルをコピーし、属性を設定する
   - [ln](https://ja.wikipedia.org/wiki/ln_\(UNIX\) "wikilink") リンクを作成する
-  - [ls](https://ja.wikipedia.org/wiki/Ls_\(UNIX\) "wikilink") ディレクトリに含まれるファイル一覧を表示する
+  - [ls](../Page/Ls_\(UNIX\).md "wikilink") ディレクトリに含まれるファイル一覧を表示する
   - [mkdir](https://ja.wikipedia.org/wiki/mkdir "wikilink") ディレクトリを作成する
   - mkfifo FIFO(名前付きパイプ)を作成する
   - mknod 特殊ファイル([デバイスファイル](../Page/デバイスファイル.md "wikilink")など)を作成する
@@ -43,7 +43,7 @@ Coreutilsにはバージョン5.2.1の段階で以下のコマンドが含まれ
 
 **Text utilities**
 
-  - [cat](https://ja.wikipedia.org/wiki/Cat_\(UNIX\) "wikilink") ファイルの中身を表示する、またはファイルを連結して表示する
+  - [cat](../Page/Cat_\(UNIX\).md "wikilink") ファイルの中身を表示する、またはファイルを連結して表示する
   - cksum ファイルのチェックサムとファイルサイズを計算する
   - comm 2つのファイルについて行ごとに比較する
   - csplit ファイルを文脈ベースで分割する

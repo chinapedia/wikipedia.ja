@@ -1,7 +1,7 @@
 > この記事は[B.V.D. Presents TOKYO METROSEXUAL LIFE](https://ja.wikipedia.org/wiki/B.V.D._Presents_TOKYO_METROSEXUAL_LIFE)から翻訳されています。
 
 
-**B.V.D. Presents TOKYO METROSEXUAL LIFE**（**ビー・ブイ・ディプレゼンツ トーキョーメトロセクシャルライフ**）は[文化放送](../Page/文化放送.md "wikilink")で[2004年](../Page/2004年.md "wikilink")10月～[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")9月に放送された番組。提供は[富士紡ホールディングス](https://ja.wikipedia.org/wiki/富士紡ホールディングス "wikilink")（2005年9月までは富士紡績名義）、末期は[スターフライヤー](https://ja.wikipedia.org/wiki/スターフライヤー "wikilink")1社提供。
+**B.V.D. Presents TOKYO METROSEXUAL LIFE**（**ビー・ブイ・ディプレゼンツ トーキョーメトロセクシャルライフ**）は[文化放送](../Page/文化放送.md "wikilink")で[2004年](../Page/2004年.md "wikilink")10月～[2006年](../Page/2006年.md "wikilink")9月に放送された番組。提供は[富士紡ホールディングス](https://ja.wikipedia.org/wiki/富士紡ホールディングス "wikilink")（2005年9月までは富士紡績名義）、末期は[スターフライヤー](../Page/スターフライヤー.md "wikilink")1社提供。
 
 ## 番組コンセプト
 
@@ -11,21 +11,21 @@
 
 ### B.V.D. Presents TOKYO METROSEXUAL LIFE
 
-  - 2004年10月～[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")3月　
-  - パーソナリティ:[小野真弓](https://ja.wikipedia.org/wiki/小野真弓 "wikilink")・[斉藤一美](https://ja.wikipedia.org/wiki/斉藤一美 "wikilink")（文化放送アナウンサー）
+  - 2004年10月～[2005年](../Page/2005年.md "wikilink")3月　
+  - パーソナリティ:[小野真弓](https://ja.wikipedia.org/wiki/小野真弓 "wikilink")・[斉藤一美](../Page/斉藤一美.md "wikilink")（文化放送アナウンサー）
   - 放送時間:月曜～木曜19:50頃～19:55頃（「[斉藤一美のS/N/A/P](https://ja.wikipedia.org/wiki/斉藤一美のS/N/A/P "wikilink")」内）
 
 ### B.V.D Presents 辺見えみりのTOKYO METROSEXUAL LIFE
 
   - 2005年4月～2005年9月
-  - パーソナリティ:[辺見えみり](https://ja.wikipedia.org/wiki/辺見えみり "wikilink")
+  - パーソナリティ:[辺見えみり](../Page/辺見えみり.md "wikilink")
   - 放送時間:木曜19:00～19:15
-  - 最終回（2005年9月29日）放送予定日が[阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")のセ・リーグ優勝決定試合の実況中継と重なり、2005年10月4日夜9時に振り替えて放送されていた。このほか木曜日に[文化放送ライオンズナイター](../Page/文化放送ライオンズナイター.md "wikilink")が放送されていたときはほかの曜日に移して放送していたこともあった。
+  - 最終回（2005年9月29日）放送予定日が[阪神タイガース](../Page/阪神タイガース.md "wikilink")のセ・リーグ優勝決定試合の実況中継と重なり、2005年10月4日夜9時に振り替えて放送されていた。このほか木曜日に[文化放送ライオンズナイター](../Page/文化放送ライオンズナイター.md "wikilink")が放送されていたときはほかの曜日に移して放送していたこともあった。
 
 ### B.V.D Presents ユンソナのTOKYO METROSEXUAL LIFE
 
   - 2005年10月～2006年10月1日
-  - パーソナリティ:[ユンソナ](../Page/ユンソナ.md "wikilink")・[吉田たかよし](https://ja.wikipedia.org/wiki/吉田たかよし "wikilink")
+  - パーソナリティ:[ユンソナ](../Page/ユンソナ.md "wikilink")・[吉田たかよし](../Page/吉田たかよし.md "wikilink")
   - 放送時間
       - 2005年10月～2006年3月　金曜20:30～21:00
       - 2006年4月～2006年10月1日　日曜21:15～21:30（ナイター中継延長の場合は休止）
@@ -34,7 +34,7 @@
 
   - 2006年11月5日（プロ野球プレーオフ、日本シリーズ中継優先のため）～2007年4月1日
   - パーソナリティ:[安達祐実](../Page/安達祐実.md "wikilink")
-  - ナレーター：[砂山大輔](https://ja.wikipedia.org/wiki/砂山圭大郎 "wikilink")（文化放送アナウンサー）
+  - ナレーター：[砂山大輔](../Page/砂山圭大郎.md "wikilink")（文化放送アナウンサー）
   - 放送時間：日曜20:30～21:00
 
 ### STARFLYER PRESENTS 安達祐実のTOKYO UBERSEXUAL LIFE NEXT
@@ -49,7 +49,7 @@
 ### STARFLYER PRESENTS SHIHOのTOKYO UBERSEXUAL LIFE NEXT
 
   - 2007年11月～2008年3月
-  - パーソナリティー：[SHIHO](https://ja.wikipedia.org/wiki/SHIHO_\(ファッションモデル\) "wikilink")
+  - パーソナリティー：[SHIHO](../Page/SHIHO_\(ファッションモデル\).md "wikilink")
   - 放送時間：日曜日21:00～21:30
 
 ## 外部リンク

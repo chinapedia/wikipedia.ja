@@ -28,5 +28,5 @@
 [Category:名探偵コナンのアルバム](https://ja.wikipedia.org/wiki/Category:名探偵コナンのアルバム "wikilink") [Category:2003年のアルバム](https://ja.wikipedia.org/wiki/Category:2003年のアルバム "wikilink") [Category:B-Gram_RECORDSのアルバム](https://ja.wikipedia.org/wiki/Category:B-Gram_RECORDSのアルバム "wikilink") [Category:テレビアニメ主題歌集](https://ja.wikipedia.org/wiki/Category:テレビアニメ主題歌集 "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")
 
 1.  うち1曲はテレビ版エンディングと重複。
-2.  [倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")の「[always](https://ja.wikipedia.org/wiki/Always_\(倉木麻衣の曲\) "wikilink")」は映画版のみで、エンディング版は収録されていない
+2.  [倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")の「[always](../Page/Always_\(倉木麻衣の曲\).md "wikilink")」は映画版のみで、エンディング版は収録されていない
 3.  [B'z、ZARD収録、『名探偵コナン』テーマ曲集第3弾発売](http://music.jp.msn.com/news/5737.htm)、MSNミュージック、2008年8月7日。

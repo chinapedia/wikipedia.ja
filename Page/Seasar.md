@@ -1,11 +1,11 @@
 > この記事は[Seasar](https://ja.wikipedia.org/wiki/Seasar)から翻訳されています。
 
 
-The **Seasar** Projectは、日本の[オープンソース](../Page/オープンソース.md "wikilink")プロジェクトの1つ。当初、比嘉康雄を中心とするメンバーによるSeasar2(正確にはS2Container)と呼ばれる[Java](https://ja.wikipedia.org/wiki/Java "wikilink")のための[DI (Dependency Injection)](https://ja.wikipedia.org/wiki/依存性の注入 "wikilink") と[AOP (Aspect Oriented Programming)](../Page/アスペクト指向プログラミング.md "wikilink") をサポートした軽量コンテナの開発を進めるプロジェクトであったが、現在は特定非営利法人[Seasarファウンデーション](https://ja.wikipedia.org/wiki/Seasarファウンデーション "wikilink")の元、The Seasar ProjectというS2Containerを中心としたコミュニティを形成し、Java、PHP、.NETなど多種多様な言語のためのオープンソースプロジェクトと発展している。なお、一般にSeasarおよびSeasar2と表記した場合、S2Containerを指すことが多い。
+The **Seasar** Projectは、日本の[オープンソース](../Page/オープンソース.md "wikilink")プロジェクトの1つ。当初、比嘉康雄を中心とするメンバーによるSeasar2(正確にはS2Container)と呼ばれる[Java](https://ja.wikipedia.org/wiki/Java "wikilink")のための[DI (Dependency Injection)](../Page/依存性の注入.md "wikilink") と[AOP (Aspect Oriented Programming)](../Page/アスペクト指向プログラミング.md "wikilink") をサポートした軽量コンテナの開発を進めるプロジェクトであったが、現在は特定非営利法人[Seasarファウンデーション](https://ja.wikipedia.org/wiki/Seasarファウンデーション "wikilink")の元、The Seasar ProjectというS2Containerを中心としたコミュニティを形成し、Java、PHP、.NETなど多種多様な言語のためのオープンソースプロジェクトと発展している。なお、一般にSeasarおよびSeasar2と表記した場合、S2Containerを指すことが多い。
 
 ## 歴史
 
-Seasarは、初め2003年8月にJettyと[HSQLDB](https://ja.wikipedia.org/wiki/HSQLDB "wikilink")を使ったアプリケーションサーバとして、SourceForge.jp上で公開された。 その名前は、比嘉氏の出身地である沖縄の象徴的な生き物である[シーサー](https://ja.wikipedia.org/wiki/シーサー "wikilink")に因んで名付けられた。
+Seasarは、初め2003年8月にJettyと[HSQLDB](https://ja.wikipedia.org/wiki/HSQLDB "wikilink")を使ったアプリケーションサーバとして、SourceForge.jp上で公開された。 その名前は、比嘉氏の出身地である沖縄の象徴的な生き物である[シーサー](../Page/シーサー.md "wikilink")に因んで名付けられた。
 
 2004年3月、SeasarはSeasar2と名を変えて、DI・AOPコンテナとして再公開された。しかし、Seasarの開発は停止する(最終版は、Seasar2のサイトからまだダウンロードできる)。2005年4月、Seasar2はOSCJ.netの支援を受けて、SourceForge.jpから移動する。
 
@@ -13,7 +13,7 @@ Seasarは、初め2003年8月にJettyと[HSQLDB](https://ja.wikipedia.org/wiki/H
 
 ## 概要
 
-その他のDIコンテナと同じように、コンポーネントは、外部XMLファイルに定義する。データーベースの設定や、[JUnit](https://ja.wikipedia.org/wiki/JUnit "wikilink")によるユニットテストの支援についても同様に定義する。
+その他のDIコンテナと同じように、コンポーネントは、外部XMLファイルに定義する。データーベースの設定や、[JUnit](../Page/JUnit.md "wikilink")によるユニットテストの支援についても同様に定義する。
 
 その他のフレームワークとの主な違いは、「設定よりも規約」という概念のサポートである。それは、[Spring Framework等で必要なXMLによる設定の減少である](https://ja.wikipedia.org/wiki/Spring_Framework "wikilink")。 開発者にフレームワークを動作させるための規約に従わせ、設定ファイルを減らすか除去することを目的とする。
 

@@ -5,9 +5,9 @@
 
 ## 概要・沿革
 
-[虫プロダクション](https://ja.wikipedia.org/wiki/虫プロダクション "wikilink")（旧社）の文芸部門に所属していた西野清市（西野聖市）、東映動画（現・[東映アニメーション](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")）の[作画](https://ja.wikipedia.org/wiki/作画 "wikilink")部門に所属していた[林静一](https://ja.wikipedia.org/wiki/林静一 "wikilink")、小柳朔郎、[月岡貞夫](https://ja.wikipedia.org/wiki/月岡貞夫 "wikilink")らにより、[1967年](../Page/1967年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")42年）[9月25日](../Page/9月25日.md "wikilink")に**株式会社ナック**（KnacK）として設立された。登記上の社名は後に「株式会社KnacK」とアルファベット表記へ変更されたが、社名変更後もクレジットでは引き続き「ナック」の仮名表記が使用される場合もあった。
+[虫プロダクション](../Page/虫プロダクション.md "wikilink")（旧社）の文芸部門に所属していた西野清市（西野聖市）、東映動画（現・[東映アニメーション](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")）の[作画](https://ja.wikipedia.org/wiki/作画 "wikilink")部門に所属していた[林静一](../Page/林静一.md "wikilink")、小柳朔郎、[月岡貞夫](../Page/月岡貞夫.md "wikilink")らにより、[1967年](../Page/1967年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")42年）[9月25日](../Page/9月25日.md "wikilink")に**株式会社ナック**（KnacK）として設立された。登記上の社名は後に「株式会社KnacK」とアルファベット表記へ変更されたが、社名変更後もクレジットでは引き続き「ナック」の仮名表記が使用される場合もあった。
 
-[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")（[昭和](../Page/昭和.md "wikilink")45年） - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")（[昭和](../Page/昭和.md "wikilink")46年）放送の『[いじわるばあさん](https://ja.wikipedia.org/wiki/いじわるばあさん "wikilink")』よりテレビアニメの元請制作に参入する。制作・企画した代表的なアニメ作品には『[正義を愛する者 月光仮面](https://ja.wikipedia.org/wiki/月光仮面 "wikilink")』『[アストロガンガー](https://ja.wikipedia.org/wiki/アストロガンガー "wikilink")』『[ドン・チャック物語](../Page/ドン・チャック物語.md "wikilink")』『[グロイザーX](../Page/グロイザーX.md "wikilink")』『[星の王子さま プチ・プランス](https://ja.wikipedia.org/wiki/星の王子さま#アニメ "wikilink")』などがある。
+[1970年](../Page/1970年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")45年） - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")（[昭和](../Page/昭和.md "wikilink")46年）放送の『[いじわるばあさん](../Page/いじわるばあさん.md "wikilink")』よりテレビアニメの元請制作に参入する。制作・企画した代表的なアニメ作品には『[正義を愛する者 月光仮面](../Page/月光仮面.md "wikilink")』『[アストロガンガー](../Page/アストロガンガー.md "wikilink")』『[ドン・チャック物語](../Page/ドン・チャック物語.md "wikilink")』『[グロイザーX](../Page/グロイザーX.md "wikilink")』『[星の王子さま プチ・プランス](https://ja.wikipedia.org/wiki/星の王子さま#アニメ "wikilink")』などがある。
 
 また、これらの他に『チャージマン研\!』という作品もあり、放送当時はあまり注目されていなかったが、[2000年代](../Page/2000年代.md "wikilink")後半頃よりその作画や[演出](../Page/演出.md "wikilink")、ストーリーの奇妙さ等が[インターネット](../Page/インターネット.md "wikilink")のコミュニティを中心に話題となっている。
 
@@ -19,7 +19,7 @@
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（[平成](../Page/平成.md "wikilink")20年）[8月26日](../Page/8月26日.md "wikilink")付で**株式会社 ICHI**に社名を変更した。
 
-[2017年](../Page/2017年.md "wikilink")（平成29年）4月、吉野晴亮と吉野百子が共同で代表取締役社長に就任。同年12月、「ドンチャックビル」の愛称で親しまれた本社ビル（[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[練馬区](https://ja.wikipedia.org/wiki/練馬区 "wikilink")関町北1丁目14番7号）を解体し、現住所に移転。
+[2017年](../Page/2017年.md "wikilink")（平成29年）4月、吉野晴亮と吉野百子が共同で代表取締役社長に就任。同年12月、「ドンチャックビル」の愛称で親しまれた本社ビル（[東京都](../Page/東京都.md "wikilink")[練馬区](https://ja.wikipedia.org/wiki/練馬区 "wikilink")関町北1丁目14番7号）を解体し、現住所に移転。
 
 [2018年](../Page/2018年.md "wikilink")（平成30年）9月25日、創業者の西野清市が死去。
 
@@ -31,25 +31,25 @@
 
 #### テレビシリーズ
 
-  - [いじわるばあさん](https://ja.wikipedia.org/wiki/いじわるばあさん "wikilink")（第1作）（1970年 - 1971年）
-  - [正義を愛する者 月光仮面](https://ja.wikipedia.org/wiki/月光仮面 "wikilink")（1972年）
-  - [アストロガンガー](https://ja.wikipedia.org/wiki/アストロガンガー "wikilink")（1972年 - 1973年）
+  - [いじわるばあさん](../Page/いじわるばあさん.md "wikilink")（第1作）（1970年 - 1971年）
+  - [正義を愛する者 月光仮面](../Page/月光仮面.md "wikilink")（1972年）
+  - [アストロガンガー](../Page/アストロガンガー.md "wikilink")（1972年 - 1973年）
   - [ダメおやじ](../Page/ダメおやじ.md "wikilink")（1974年）
   - [チャージマン研\!](../Page/チャージマン研!.md "wikilink")（1974年）
   - [ドン・チャック物語](../Page/ドン・チャック物語.md "wikilink")（1975年 - 1978年）
   - [グロイザーX](../Page/グロイザーX.md "wikilink")（1976年 - 1977年）
-  - [星の王子さま プチ・プランス](https://ja.wikipedia.org/wiki/星の王子さま "wikilink")（1978年 - 1979年）
+  - [星の王子さま プチ・プランス](../Page/星の王子さま.md "wikilink")（1978年 - 1979年）
   - [まんが猿飛佐助](../Page/まんが猿飛佐助.md "wikilink")（1979年-1980年）
   - [スーキャット](../Page/スーキャット.md "wikilink")（1980年）
-  - [まんが 水戸黄門](https://ja.wikipedia.org/wiki/まんが_水戸黄門 "wikilink")（1981年 - 1982年）
+  - [まんが 水戸黄門](../Page/まんが_水戸黄門.md "wikilink")（1981年 - 1982年）
   - [サイボットロボッチ](../Page/サイボットロボッチ.md "wikilink")（1982年 - 1983年）
-  - [一ッ星家のウルトラ婆さん](https://ja.wikipedia.org/wiki/一ッ星家のウルトラ婆さん "wikilink")（1982年 - 1983年）
+  - [一ッ星家のウルトラ婆さん](../Page/一ッ星家のウルトラ婆さん.md "wikilink")（1982年 - 1983年）
   - [サイコアーマー ゴーバリアン](../Page/サイコアーマー_ゴーバリアン.md "wikilink")（1983年）
-  - [ドリトル先生物語](https://ja.wikipedia.org/wiki/ドリトル先生物語_\(アニメ\) "wikilink")（1984年） - 日米合作、日本では1997年からNHK・[衛星アニメ劇場](https://ja.wikipedia.org/wiki/衛星アニメ劇場 "wikilink")で放送
+  - [ドリトル先生物語](https://ja.wikipedia.org/wiki/ドリトル先生物語_\(アニメ\) "wikilink")（1984年） - 日米合作、日本では1997年からNHK・[衛星アニメ劇場](../Page/衛星アニメ劇場.md "wikilink")で放送
   - [アタッカーYOU\!](../Page/アタッカーYOU!.md "wikilink")（1984年 - 1985年）
   - [Oh\!ファミリー](https://ja.wikipedia.org/wiki/Oh!ファミリー "wikilink")（1986年 - 1987年）
   - [マンガ日本経済入門](../Page/マンガ日本経済入門.md "wikilink")（1987年 - 1988年）
-  - [桃太郎伝説シリーズ](https://ja.wikipedia.org/wiki/桃太郎伝説_\(アニメ\) "wikilink")
+  - [桃太郎伝説シリーズ](../Page/桃太郎伝説_\(アニメ\).md "wikilink")
       - 桃太郎伝説 PEACHBOY LEGEND（1989年 - 1990年）
       - PEACH COMMAND 新桃太郎伝説（1990年 - 1991年）
   - [2020年ワンダー・キディ](https://ja.wikipedia.org/wiki/2020年ワンダー・キディ "wikilink")（1992年、韓国アニメ。日本語吹替版の制作および配給）
@@ -68,8 +68,8 @@
       - なにわ遊侠伝 超極道\!夜のバットはマン塁篇 （1993年）
       - なにわ遊侠伝 強烈\!アナがあったら入れたい篇 （1993年）
       - なにわ遊侠伝 完結篇（1993年）
-  - [クローズ](https://ja.wikipedia.org/wiki/クローズ "wikilink")（[ケイエスエス](https://ja.wikipedia.org/wiki/ケイエスエス "wikilink")と共同制作、1993年-1994年）
-  - [サブマリン707](https://ja.wikipedia.org/wiki/サブマリン707 "wikilink")（[東映動画](https://ja.wikipedia.org/wiki/東映動画 "wikilink")と共同制作、1997年）
+  - [クローズ](../Page/クローズ.md "wikilink")（[ケイエスエス](../Page/ケイエスエス.md "wikilink")と共同制作、1993年-1994年）
+  - [サブマリン707](../Page/サブマリン707.md "wikilink")（[東映動画](https://ja.wikipedia.org/wiki/東映動画 "wikilink")と共同制作、1997年）
 
 ##### アダルトアニメ
 
@@ -103,7 +103,7 @@
 
 ### 実写
 
-  - [バトルホーク](https://ja.wikipedia.org/wiki/バトルホーク "wikilink")（1976年）
+  - [バトルホーク](../Page/バトルホーク.md "wikilink")（1976年）
 
 #### 実写映画
 

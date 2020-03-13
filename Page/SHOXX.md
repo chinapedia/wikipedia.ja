@@ -33,8 +33,8 @@
 
 「ミュージシャンが作るページ」としてミュージシャンによるコラムを掲載している。
 
-  - 連載中のコラム : [彩冷える](https://ja.wikipedia.org/wiki/彩冷える "wikilink")・葵「ヒナタごっこ」 / 竹入隆行「麺は固め\!\!」 / [Plastic Tree](https://ja.wikipedia.org/wiki/Plastic_Tree "wikilink")・長谷川正「うしろの正面」 / [Mix Speaker's,Inc.](https://ja.wikipedia.org/wiki/Mix_Speaker's,Inc. "wikilink")・seek「seekの凡人水族園」 / Moran・Hitomi「瞳孔反射」 / リレー連載「夢のぐるぐる大回転」 / [ムック](../Page/MUCC.md "wikilink")・ミヤ「魔よけ」 / [LM.C](../Page/LM.C.md "wikilink")「YouTubeで検索してみた。」 / [THE KIDDIE](https://ja.wikipedia.org/wiki/THE_KIDDIE "wikilink")・佑聖「絶頂モンスターハイゲイン」 / ギルガメッシュ([girugämesh](https://ja.wikipedia.org/wiki/girugämesh "wikilink"))「CRAZY CHAIN」 / [heidi.](https://ja.wikipedia.org/wiki/heidi. "wikilink")「ハイジのアルプス日記」 / [己龍](https://ja.wikipedia.org/wiki/己龍 "wikilink")［鳴カヌナラ殺シテシマエホトトギス」 / [MEJIBRAY](https://ja.wikipedia.org/wiki/MEJIBRAY "wikilink")・綴「連結方式」
-  - 連載終了したコラム：[シド](../Page/シド_\(バンド\).md "wikilink")・マオ「ステキコラム。」 / [アンティック-珈琲店-](../Page/アンティック-珈琲店-.md "wikilink")「ピーポ君は役立たず」/ [ヴィドール](../Page/ヴィドール_\(バンド\).md "wikilink")「美×微dool?」 / [D'espairsRay](../Page/D'espairsRay.md "wikilink")「マニアの覗き穴」/ [少女-ロリヰタ-23区](https://ja.wikipedia.org/wiki/少女-ロリヰタ-23区 "wikilink")「“KING”of the world\!\!」 / [ドレミ團](https://ja.wikipedia.org/wiki/ドレミ團 "wikilink")・マコト「月刊少年マコトピア」
+  - 連載中のコラム : [彩冷える](../Page/彩冷える.md "wikilink")・葵「ヒナタごっこ」 / 竹入隆行「麺は固め\!\!」 / [Plastic Tree](https://ja.wikipedia.org/wiki/Plastic_Tree "wikilink")・長谷川正「うしろの正面」 / [Mix Speaker's,Inc.](https://ja.wikipedia.org/wiki/Mix_Speaker's,Inc. "wikilink")・seek「seekの凡人水族園」 / Moran・Hitomi「瞳孔反射」 / リレー連載「夢のぐるぐる大回転」 / [ムック](../Page/MUCC.md "wikilink")・ミヤ「魔よけ」 / [LM.C](../Page/LM.C.md "wikilink")「YouTubeで検索してみた。」 / [THE KIDDIE](https://ja.wikipedia.org/wiki/THE_KIDDIE "wikilink")・佑聖「絶頂モンスターハイゲイン」 / ギルガメッシュ([girugämesh](https://ja.wikipedia.org/wiki/girugämesh "wikilink"))「CRAZY CHAIN」 / [heidi.](https://ja.wikipedia.org/wiki/heidi. "wikilink")「ハイジのアルプス日記」 / [己龍](https://ja.wikipedia.org/wiki/己龍 "wikilink")［鳴カヌナラ殺シテシマエホトトギス」 / [MEJIBRAY](https://ja.wikipedia.org/wiki/MEJIBRAY "wikilink")・綴「連結方式」
+  - 連載終了したコラム：[シド](../Page/シド_\(バンド\).md "wikilink")・マオ「ステキコラム。」 / [アンティック-珈琲店-](../Page/アンティック-珈琲店-.md "wikilink")「ピーポ君は役立たず」/ [ヴィドール](../Page/ヴィドール_\(バンド\).md "wikilink")「美×微dool?」 / [D'espairsRay](../Page/D'espairsRay.md "wikilink")「マニアの覗き穴」/ [少女-ロリヰタ-23区](https://ja.wikipedia.org/wiki/少女-ロリヰタ-23区 "wikilink")「“KING”of the world\!\!」 / [ドレミ團](../Page/ドレミ團.md "wikilink")・マコト「月刊少年マコトピア」
 
 ## 主催イベント
 
@@ -53,10 +53,10 @@
 ### SPEC
 
 1.  LOOP OF LIFE ([LOOP ASH](https://ja.wikipedia.org/wiki/LOOP_ASH "wikilink"))
-2.  THROUGH ALL ETERNITY ([Matina](https://ja.wikipedia.org/wiki/Matina "wikilink"))
+2.  THROUGH ALL ETERNITY ([Matina](../Page/Matina.md "wikilink"))
 3.  BEST ([La'Mule](../Page/La'Mule.md "wikilink"))
 4.  CROSS GATE 2002 ～un Solitude～ (LOOP ASH vs Matina)
-5.  クラッシュ\! ナイトメアチャンネル ([ナイトメア](https://ja.wikipedia.org/wiki/ナイトメア_\(バンド\) "wikilink"))
+5.  クラッシュ\! ナイトメアチャンネル ([ナイトメア](../Page/ナイトメア_\(バンド\).md "wikilink"))
 6.  SHOXX Valentine Premium Edition CD
 
 ## 通信販売

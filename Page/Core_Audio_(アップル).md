@@ -7,7 +7,7 @@
 
 OSに組み込まれているフレームワークで、[Classic Mac OS](../Page/Classic_Mac_OS.md "wikilink") 9以前の標準オーディオ機能とは機能・構造がまったく異なる。このため[レイテンシ](../Page/レイテンシ.md "wikilink")（発音の遅延）が少なく、[ASIO](../Page/ASIO.md "wikilink")と同水準になっている。また、Mac OS 9以前では純正のMIDI Managerでは機能が不十分で、もっぱらサードパーティ製のMIDIドライバ（[オプコードのOpen](../Page/Opcode.md "wikilink") Music Systemなど）が使用されていたが、Core Audioではインスツルメントユニットとして設計されている。
 
-[デジタル・オーディオ・ワークステーション](https://ja.wikipedia.org/wiki/デジタル・オーディオ・ワークステーション "wikilink")（DAW）の[Virtual Studio Technology](https://ja.wikipedia.org/wiki/Virtual_Studio_Technology "wikilink")（VST）[プラグイン](../Page/プラグイン.md "wikilink")に似た、[Audio Units](https://ja.wikipedia.org/wiki/Audio_Units "wikilink") (AU) と呼ばれる音声信号処理ユニットが用意されている。標準のエフェクトユニット、インスツルメントユニット・ミキサーユニット・コンバータユニット・ジェネレータユニットと、外部のユニットを組み合わせる(AU Graph)ことにより 、音声の加工・出力を簡単に行うことができる。
+[デジタル・オーディオ・ワークステーション](../Page/デジタル・オーディオ・ワークステーション.md "wikilink")（DAW）の[Virtual Studio Technology](https://ja.wikipedia.org/wiki/Virtual_Studio_Technology "wikilink")（VST）[プラグイン](../Page/プラグイン.md "wikilink")に似た、[Audio Units](../Page/Audio_Units.md "wikilink") (AU) と呼ばれる音声信号処理ユニットが用意されている。標準のエフェクトユニット、インスツルメントユニット・ミキサーユニット・コンバータユニット・ジェネレータユニットと、外部のユニットを組み合わせる(AU Graph)ことにより 、音声の加工・出力を簡単に行うことができる。
 
 WAVやAIFFなどの主要な音声フォーマットはもちろんのこと、新たに開発された[ファイルコンテナ](../Page/コンテナフォーマット.md "wikilink") CAF（）も正式にサポートしている。
 
@@ -47,7 +47,7 @@ CAF（Core Audio Format）は[Mac OS X v10.4で登場したコンテナフォー
   - MPEG1/2 Audio Layer-1 (MP1)
   - MPEG1/2 Audio Layer-2 (MP2)
   - MPEG1/2/2.5 audio Layer3 ([MP3](../Page/MP3.md "wikilink"))
-  - [Apple Lossless](https://ja.wikipedia.org/wiki/Apple_Lossless "wikilink")
+  - [Apple Lossless](../Page/Apple_Lossless.md "wikilink")
 
 ## 脚注
 
@@ -56,7 +56,7 @@ CAF（Core Audio Format）は[Mac OS X v10.4で登場したコンテナフォー
 ## 関連項目
 
   - [Core Audio (Windows)](https://ja.wikipedia.org/wiki/Core_Audio_\(Windows\) "wikilink")
-  - [Audio Units](https://ja.wikipedia.org/wiki/Audio_Units "wikilink") (AU)
+  - [Audio Units](../Page/Audio_Units.md "wikilink") (AU)
   - [OpenAL](https://ja.wikipedia.org/wiki/OpenAL "wikilink")
 
 ## 外部リンク

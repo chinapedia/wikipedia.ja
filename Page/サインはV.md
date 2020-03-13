@@ -1,15 +1,15 @@
 > この記事は[V](https://ja.wikipedia.org/wiki/V)から翻訳されています。
 
 
-『**サインはV\!**』（さいんはブイ）は、[神保史郎](../Page/神保史郎.md "wikilink")、[望月あきら](https://ja.wikipedia.org/wiki/望月あきら "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『**サインはV**』はその漫画を原作とした[実写](../Page/実写.md "wikilink")[映画](../Page/映画.md "wikilink")もしくは[テレビドラマ](../Page/テレビドラマ.md "wikilink")。
+『**サインはV\!**』（さいんはブイ）は、[神保史郎](../Page/神保史郎.md "wikilink")、[望月あきら](../Page/望月あきら.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『**サインはV**』はその漫画を原作とした[実写](../Page/実写.md "wikilink")[映画](../Page/映画.md "wikilink")もしくは[テレビドラマ](../Page/テレビドラマ.md "wikilink")。
 
 原作である漫画作品のタイトル表記は『サインはV\!』だが、その他の作品では「\!」を省略して『サインはV』の表記が用いられている。
 
 ## 概要
 
-『[アタックNo.1](https://ja.wikipedia.org/wiki/アタックNo.1 "wikilink")』とともに、1964年の[東京オリンピック](../Page/1964年東京オリンピック.md "wikilink")・女子バレーボール"[東洋の魔女](../Page/東洋の魔女.md "wikilink")"の登場から始まった日本の[バレーボール](../Page/バレーボール.md "wikilink")ブームを巻き起こしたが、当作はもともと「『アタックNo.1』への対抗馬が欲しい」という少女フレンド編集部の要請から企画された。このため『アタックNo.1』がまだ少女マンガ的な路線を残していたのに対し、特訓もあれば[魔球](https://ja.wikipedia.org/wiki/魔球 "wikilink")もありと『アタックNo.1』との違いを打ち出している（出典:[宝島社](../Page/宝島社.md "wikilink")『[いきなり最終回](https://ja.wikipedia.org/wiki/いきなり最終回 "wikilink")』『[いきなり新連載](https://ja.wikipedia.org/wiki/いきなり新連載 "wikilink")』）。この為漫画もテレビ放映も（初代は）両作品の発表時期はほぼ同時である。
+『[アタックNo.1](../Page/アタックNo.1.md "wikilink")』とともに、1964年の[東京オリンピック](../Page/1964年東京オリンピック.md "wikilink")・女子バレーボール"[東洋の魔女](../Page/東洋の魔女.md "wikilink")"の登場から始まった日本の[バレーボール](../Page/バレーボール.md "wikilink")ブームを巻き起こしたが、当作はもともと「『アタックNo.1』への対抗馬が欲しい」という少女フレンド編集部の要請から企画された。このため『アタックNo.1』がまだ少女マンガ的な路線を残していたのに対し、特訓もあれば[魔球](../Page/魔球.md "wikilink")もありと『アタックNo.1』との違いを打ち出している（出典:[宝島社](../Page/宝島社.md "wikilink")『[いきなり最終回](https://ja.wikipedia.org/wiki/いきなり最終回 "wikilink")』『[いきなり新連載](https://ja.wikipedia.org/wiki/いきなり新連載 "wikilink")』）。この為漫画もテレビ放映も（初代は）両作品の発表時期はほぼ同時である。
 
-1969年版のテレビドラマは[TBS系で放送](../Page/TBSテレビ.md "wikilink")。実写[スポ根](https://ja.wikipedia.org/wiki/スポ根 "wikilink")ドラマ（スポーツ根性ドラマ）の草分け的番組。大人から子供まで広い年齢層に熱狂的な支持を受け、最高視聴率39.3%、平均[視聴率](../Page/視聴率.md "wikilink")32.3%を誇る大ヒット・ドラマとなった。その後1973年版もTBS系で放送されている。
+1969年版のテレビドラマは[TBS系で放送](../Page/TBSテレビ.md "wikilink")。実写[スポ根](../Page/スポ根.md "wikilink")ドラマ（スポーツ根性ドラマ）の草分け的番組。大人から子供まで広い年齢層に熱狂的な支持を受け、最高視聴率39.3%、平均[視聴率](../Page/視聴率.md "wikilink")32.3%を誇る大ヒット・ドラマとなった。その後1973年版もTBS系で放送されている。
 
 漫画版の所属チーム名は「**立木武蔵**」となっているが、ドラマ版では「**立木大和**」となっている。また、ライバルチームも「**ニチボー**」から「**レインボー**」に、「**ヤシカ**」が「**ミカサ**」に変更されている（漫画版が実在するチームの名称を使用していたため）。
 
@@ -17,7 +17,7 @@
 
 1973年版は、前作の4年後という設定で、バレーボールの全国を行脚していた牧圭介が再び登場、新光物産という新チームを結成する。第1話他に、岡田可愛が前作と同じ朝丘ユミ役でゲスト出演した。
 
-1969年版は、[不二家](https://ja.wikipedia.org/wiki/不二家 "wikilink")の単独提供（[不二家の時間](../Page/不二家の時間.md "wikilink")）であったが、1973年版は複数社提供となった\[1\]。
+1969年版は、[不二家](../Page/不二家.md "wikilink")の単独提供（[不二家の時間](../Page/不二家の時間.md "wikilink")）であったが、1973年版は複数社提供となった\[1\]。
 
 ## 漫画
 
@@ -25,8 +25,8 @@
 
 ## テレビドラマ（岡田可愛版）
 
-  - 放送時期：[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[10月5日](../Page/10月5日.md "wikilink") - [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[8月16日](../Page/8月16日.md "wikilink")
-  - 放送時間：日曜夜7時30分 - 8時（[不二家](https://ja.wikipedia.org/wiki/不二家 "wikilink")[一社提供](../Page/一社提供.md "wikilink")枠『[不二家の時間](../Page/不二家の時間.md "wikilink")』）
+  - 放送時期：[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[10月5日](../Page/10月5日.md "wikilink") - [1970年](../Page/1970年.md "wikilink")[8月16日](../Page/8月16日.md "wikilink")
+  - 放送時間：日曜夜7時30分 - 8時（[不二家](../Page/不二家.md "wikilink")[一社提供](../Page/一社提供.md "wikilink")枠『[不二家の時間](../Page/不二家の時間.md "wikilink")』）
   - 放送回数：全45話
   - 放送：[TBS系](../Page/TBSテレビ.md "wikilink")
 
@@ -53,13 +53,13 @@
   - 三平（八百屋の店員）：[土屋靖雄](https://ja.wikipedia.org/wiki/土屋靖雄 "wikilink")
   - 中華料理「共楽」の主人：[5代目柳家小さん](../Page/柳家小さん_\(5代目\).md "wikilink")
   - 中華料理「共楽」の息子：[ミキ中町](https://ja.wikipedia.org/wiki/ミキ中町 "wikilink")
-  - 麻理の義母：[平井道子](https://ja.wikipedia.org/wiki/平井道子 "wikilink")
+  - 麻理の義母：[平井道子](../Page/平井道子.md "wikilink")
   - さち子の祖母：[立原博](../Page/立原博.md "wikilink")
   - 泉剛造（洋子の父）：[田崎潤](../Page/田崎潤.md "wikilink")
   - 和子（ミヨのチームメート）：[片山真由美](https://ja.wikipedia.org/wiki/片山真由美 "wikilink")
   - 東郷（かおりの見合い相手）：[山本紀彦](https://ja.wikipedia.org/wiki/山本紀彦 "wikilink")
   - 東郷の兄（鹿児島）：[福田豊土](../Page/福田豊土.md "wikilink")
-  - 子犬（チビ）の飼い主夫婦：[奥村公延](../Page/奥村公延.md "wikilink")、[塩沢とき](https://ja.wikipedia.org/wiki/塩沢とき "wikilink")
+  - 子犬（チビ）の飼い主夫婦：[奥村公延](../Page/奥村公延.md "wikilink")、[塩沢とき](../Page/塩沢とき.md "wikilink")
   - 少年：[高野浩幸](../Page/高野浩幸.md "wikilink")
   - 少年の母親：[島田多江](https://ja.wikipedia.org/wiki/島田多江 "wikilink")
   - テツ：[中沢治夫](../Page/剛たつひと.md "wikilink")
@@ -67,7 +67,7 @@
   - 社会人野球の監督（牧の友人）：[寺島達夫](../Page/寺島達夫.md "wikilink")
   - 立木大和の課長たち：[宮田洋容](https://ja.wikipedia.org/wiki/宮田洋容・布地由起江 "wikilink")、[日恵野晃](https://ja.wikipedia.org/wiki/日恵野晃 "wikilink")、[石井宏明](https://ja.wikipedia.org/wiki/石井宏明 "wikilink")
   - 雑誌記者：[鈴木泰明](../Page/鈴木泰明.md "wikilink")※ノンクレジット
-  - スポーツ記者：[加藤春哉](https://ja.wikipedia.org/wiki/加藤春哉 "wikilink")、[柄沢英二](https://ja.wikipedia.org/wiki/柄沢英二 "wikilink")、[砂川啓介](https://ja.wikipedia.org/wiki/砂川啓介 "wikilink")
+  - スポーツ記者：[加藤春哉](https://ja.wikipedia.org/wiki/加藤春哉 "wikilink")、[柄沢英二](https://ja.wikipedia.org/wiki/柄沢英二 "wikilink")、[砂川啓介](../Page/砂川啓介.md "wikilink")
   - 水野（新聞記者）：[木島新一](https://ja.wikipedia.org/wiki/木島新一 "wikilink")
   - 実況アナウンサー：[羽佐間道夫](../Page/羽佐間道夫.md "wikilink")、[田口昴](https://ja.wikipedia.org/wiki/田口昴 "wikilink")
   - ライバルチーム・ミカサの監督：[北浦昭義](https://ja.wikipedia.org/wiki/北浦昭義 "wikilink")
@@ -79,7 +79,7 @@
 
   - 製作：[黒田正司](https://ja.wikipedia.org/wiki/黒田正司 "wikilink")
   - 監督：[竹林進](https://ja.wikipedia.org/wiki/竹林進 "wikilink")、[金谷稔](https://ja.wikipedia.org/wiki/金谷稔 "wikilink")、[日高武治](https://ja.wikipedia.org/wiki/日高武治 "wikilink")
-  - 脚本：[上條逸雄](https://ja.wikipedia.org/wiki/上條逸雄 "wikilink")、[鎌田敏夫](https://ja.wikipedia.org/wiki/鎌田敏夫 "wikilink")、[加瀬高之](https://ja.wikipedia.org/wiki/加瀬高之 "wikilink")
+  - 脚本：[上條逸雄](../Page/上條逸雄.md "wikilink")、[鎌田敏夫](../Page/鎌田敏夫.md "wikilink")、[加瀬高之](https://ja.wikipedia.org/wiki/加瀬高之 "wikilink")
   - 音楽：[三沢郷](../Page/三沢郷.md "wikilink")
 
 ### 放送局（岡田可愛版）
@@ -120,7 +120,7 @@
 ### スタッフ
 
   - 監督：日高武治、金谷稔、[土屋統吾郎](https://ja.wikipedia.org/wiki/土屋統吾郎 "wikilink")
-  - 脚本：上條逸雄、[鴨井達比古](https://ja.wikipedia.org/wiki/鴨井達比古 "wikilink")
+  - 脚本：上條逸雄、[鴨井達比古](../Page/鴨井達比古.md "wikilink")
   - 音楽：三沢郷
 
 ### 放送局（坂口良子版）
@@ -138,7 +138,7 @@
   - 1969年版 オープニング主題歌
       - 「サインはV」（作詞：[岩谷時子](../Page/岩谷時子.md "wikilink")、作・編曲：三沢郷）
           - 歌：麻里圭子、横田年昭とリオ・アルマ
-          - [日本ビクター](../Page/日本ビクター.md "wikilink")から発売。[東芝レコード（EMIミュージック・ジャパン）からは](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")[富田智子](https://ja.wikipedia.org/wiki/富田智子 "wikilink")とウインドーズによるカヴァー版が発売。
+          - [日本ビクター](../Page/日本ビクター.md "wikilink")から発売。[東芝レコード（EMIミュージック・ジャパン）からは](../Page/EMIミュージック・ジャパン.md "wikilink")[富田智子](https://ja.wikipedia.org/wiki/富田智子 "wikilink")とウインドーズによるカヴァー版が発売。
   - 1969年版挿入歌
       - 「この道の果てに」（作詞：岩谷時子、作・編曲：三沢郷）
           - 歌：麻里圭子、横田年昭とリオ・アルマ
@@ -147,7 +147,7 @@
   - 1973年版 オープニング主題歌
       - 「サインはV」（作詞：岩谷時子、作曲：三沢郷、編曲：[青木望](../Page/青木望.md "wikilink")）
           - 歌：坂口良子
-          - [日本コロムビア](../Page/日本コロムビア.md "wikilink")から発売。[大杉久美子](https://ja.wikipedia.org/wiki/大杉久美子 "wikilink")によるカヴァー版も存在する\[13\]。
+          - [日本コロムビア](../Page/日本コロムビア.md "wikilink")から発売。[大杉久美子](../Page/大杉久美子.md "wikilink")によるカヴァー版も存在する\[13\]。
   - 1973年版挿入歌
       - 「美しき仲間たち」（作詞：[かわいひろし](https://ja.wikipedia.org/wiki/かわいひろし "wikilink")、作曲：三沢郷、編曲：青木望）
           - 歌：坂口良子
@@ -156,10 +156,10 @@
 
   - バラエティ番組『[邦ちゃんのやまだかつてないテレビ](../Page/邦ちゃんのやまだかつてないテレビ.md "wikilink")』にて、当作品のパロディコント『サインは2V（ニブイ）』が放送された。
       - 朝丘ユミ役を[西田ひかる](../Page/西田ひかる.md "wikilink")が演じた。また、本家で朝丘役を演じた岡田も「初代・朝丘ユミ」として登場した。
-      - ジュン・サンダースが「ジュン・サンダー杉山清貴」（＝ジュン・サンダース＋[サンダー杉山](../Page/サンダー杉山.md "wikilink")＋[杉山清貴](https://ja.wikipedia.org/wiki/杉山清貴 "wikilink")）になっており、[山田邦子](../Page/山田邦子.md "wikilink")が演じた。
+      - ジュン・サンダースが「ジュン・サンダー杉山清貴」（＝ジュン・サンダース＋[サンダー杉山](../Page/サンダー杉山.md "wikilink")＋[杉山清貴](../Page/杉山清貴.md "wikilink")）になっており、[山田邦子](../Page/山田邦子.md "wikilink")が演じた。
       - コーチの名前が「中山仁」になっており、[関根勤](../Page/関根勤.md "wikilink")が演じた。
       - 必殺技「X攻撃」が「Y攻撃」に変更されている。
-  - 『[もーれつア太郎](https://ja.wikipedia.org/wiki/もーれつア太郎 "wikilink")』第66回Bパートで、当作品のパロディ「サインはブィーべし」が放送。ブタ松一家が社会人チームとバレー勝負をするという話で、「稲妻落とし」ならぬ「[雷おこし](https://ja.wikipedia.org/wiki/雷おこし "wikilink")」という必殺技が登場する。
+  - 『[もーれつア太郎](../Page/もーれつア太郎.md "wikilink")』第66回Bパートで、当作品のパロディ「サインはブィーべし」が放送。ブタ松一家が社会人チームとバレー勝負をするという話で、「稲妻落とし」ならぬ「[雷おこし](../Page/雷おこし.md "wikilink")」という必殺技が登場する。
   - 『[ウルトラマンタロウ](../Page/ウルトラマンタロウ.md "wikilink")』第50話「怪獣サインはV」で本作とのコラボが行われ､坂口良子がバレーボールが得意なスチュワーデス志望の女性・ユキ役でゲスト出演し、劇中で[怪獣ガラキングと試合をする話があり](https://ja.wikipedia.org/wiki/ウルトラマンタロウの登場怪獣#球好き怪獣_ガラキング "wikilink")、このシーンで第2作の主題歌が挿入歌として使用された。
   - 1995年にV6が主演したドラマ『Vの炎』には本作へのさまざまなオマージュがあり、岡田可愛も盲目の元バレー選手、鮎原ユミ（アタックNo.1とサインはVの主役を掛け合わせた役名）としてゲスト出演した。
 

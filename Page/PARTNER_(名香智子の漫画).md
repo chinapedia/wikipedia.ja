@@ -1,11 +1,11 @@
 > この記事は[PARTNER \(\)](https://ja.wikipedia.org/wiki/PARTNER_\(\))から翻訳されています。
 
 
-『**PARTNER**』（パートナー）は、[名香智子](../Page/名香智子.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")まで『[プチコミック](../Page/プチコミック.md "wikilink")』（[小学館](../Page/小学館.md "wikilink")）で連載された。[社交ダンス](../Page/社交ダンス.md "wikilink")（[競技ダンス](https://ja.wikipedia.org/wiki/競技ダンス "wikilink")）をテーマに描いた作品。単行本は全17巻。[小学館文庫](https://ja.wikipedia.org/wiki/小学館文庫 "wikilink")でも全8巻が刊行され、どちらも最終巻に番外編として後日談『オアシス』と『鳳仙花』が収録されている。
+『**PARTNER**』（パートナー）は、[名香智子](../Page/名香智子.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")まで『[プチコミック](../Page/プチコミック.md "wikilink")』（[小学館](../Page/小学館.md "wikilink")）で連載された。[社交ダンス](../Page/社交ダンス.md "wikilink")（[競技ダンス](../Page/競技ダンス.md "wikilink")）をテーマに描いた作品。単行本は全17巻。[小学館文庫](https://ja.wikipedia.org/wiki/小学館文庫 "wikilink")でも全8巻が刊行され、どちらも最終巻に番外編として後日談『オアシス』と『鳳仙花』が収録されている。
 
 ## あらすじ
 
-宝珠茉莉花はお嬢様学校に通う17歳。一見おしとやかな大和撫子だが、踊ることが大好き。ある夜、[ディスコ](https://ja.wikipedia.org/wiki/ディスコ "wikilink")で茉莉花の人生を変える2人の男性に出会う。金髪の美形フランツと野心に燃えるダンサー神砌。そして茉莉花は[ソシアルダンスの華麗な世界に踏み出す](../Page/社交ダンス.md "wikilink")。
+宝珠茉莉花はお嬢様学校に通う17歳。一見おしとやかな大和撫子だが、踊ることが大好き。ある夜、[ディスコ](../Page/ディスコ.md "wikilink")で茉莉花の人生を変える2人の男性に出会う。金髪の美形フランツと野心に燃えるダンサー神砌。そして茉莉花は[ソシアルダンスの華麗な世界に踏み出す](../Page/社交ダンス.md "wikilink")。
 
 ## 登場人物
 

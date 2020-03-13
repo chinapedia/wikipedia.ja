@@ -1,7 +1,7 @@
 > この記事は[SC](https://ja.wikipedia.org/wiki/SC)から翻訳されています。
 
 
-**カタールSC**（, ）は、[カタール](https://ja.wikipedia.org/wiki/カタール "wikilink")の首都[ドーハ](https://ja.wikipedia.org/wiki/ドーハ "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
+**カタールSC**（, ）は、[カタール](../Page/カタール.md "wikilink")の首都[ドーハ](../Page/ドーハ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
 
 [1959年](../Page/1959年.md "wikilink")に**アル・ナスル**のクラブ名で創設されたカタールの古豪クラブ。[1972年](../Page/1972年.md "wikilink")に**アル・オルーバ**、**アル・イスティクラール**の2クラブと合併。[1981年](../Page/1981年.md "wikilink")にクラブ名を**カタールSC**に変更した。
 
@@ -32,7 +32,7 @@
 
   - [サイード・チバ](https://ja.wikipedia.org/wiki/サイード・チバ "wikilink") 2011-2012
 
-  - [イワン・ハシェック](https://ja.wikipedia.org/wiki/イワン・ハシェック "wikilink") 2014
+  - [イワン・ハシェック](../Page/イワン・ハシェック.md "wikilink") 2014
 
 ## 歴代所属選手
 
@@ -40,7 +40,7 @@
 
 <!-- end list -->
 
-  - [マルセル・デサイー](https://ja.wikipedia.org/wiki/マルセル・デサイー "wikilink") 2005-2006
+  - [マルセル・デサイー](../Page/マルセル・デサイー.md "wikilink") 2005-2006
 
   - [ビル・チャト](https://ja.wikipedia.org/wiki/ビル・チャト "wikilink") 2006-2008
 
@@ -58,11 +58,11 @@
 
   - [フランシスコ・リマ](https://ja.wikipedia.org/wiki/フランシスコ・リマ "wikilink") 2006
 
-  - [オーガスティン・オコチャ](https://ja.wikipedia.org/wiki/オーガスティン・オコチャ "wikilink") 2006-2007
+  - [オーガスティン・オコチャ](../Page/オーガスティン・オコチャ.md "wikilink") 2006-2007
 
   - [アリ・カリミ](../Page/アリ・カリミ.md "wikilink") 2007-2008
 
-  - [エリック・ジェンバ＝ジェンバ](https://ja.wikipedia.org/wiki/エリック・ジェンバ＝ジェンバ "wikilink") 2007-2008
+  - [エリック・ジェンバ＝ジェンバ](../Page/エリック・ジェンバ＝ジェンバ.md "wikilink") 2007-2008
 
   - [クサイ・ムニール](https://ja.wikipedia.org/wiki/クサイ・ムニール "wikilink") 2008-2011
 
@@ -82,7 +82,7 @@
 
   - [ラッザーク・ファルハーン](https://ja.wikipedia.org/wiki/ラッザーク・ファルハーン "wikilink") 2004-2005
 
-  - [クリストフ・デュガリー](https://ja.wikipedia.org/wiki/クリストフ・デュガリー "wikilink") 2004-2005
+  - [クリストフ・デュガリー](../Page/クリストフ・デュガリー.md "wikilink") 2004-2005
 
   - [セバスティアン・キンタナ](https://ja.wikipedia.org/wiki/セバスティアン・キンタナ "wikilink") 2005-2012
 

@@ -49,7 +49,7 @@
   - 脚本：[山田隆司](../Page/山田隆司.md "wikilink")
   - 音楽：[佐橋俊彦](../Page/佐橋俊彦.md "wikilink")
   - 音響監督：[三間雅文](../Page/三間雅文.md "wikilink")
-  - 制作協力：[スタジオコメット](https://ja.wikipedia.org/wiki/スタジオコメット "wikilink")
+  - 制作協力：[スタジオコメット](../Page/スタジオコメット.md "wikilink")
   - 制作：[日本アドシステムズ](../Page/日本アドシステムズ.md "wikilink")
   - 製作：[松竹](../Page/松竹.md "wikilink")、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、[SNK](../Page/SNK_\(1978年設立の企業\).md "wikilink")、[旭通信社](https://ja.wikipedia.org/wiki/アサツー_ディ・ケイ "wikilink")
 

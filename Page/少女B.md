@@ -1,7 +1,7 @@
 > この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
 
 
-『**少女B**』（しょうじょビー）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に[日本テレビ系列で放送されていた](../Page/日本テレビ放送網.md "wikilink")、[コント](../Page/コント.md "wikilink")中心の深夜の[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。放送時間や曜日は各系列局ごとに異なる。関東地区では[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月7日](../Page/4月7日.md "wikilink")に放送開始。
+『**少女B**』（しょうじょビー）は、[2005年](../Page/2005年.md "wikilink")に[日本テレビ系列で放送されていた](../Page/日本テレビ放送網.md "wikilink")、[コント](../Page/コント.md "wikilink")中心の深夜の[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。放送時間や曜日は各系列局ごとに異なる。関東地区では[2005年](../Page/2005年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")に放送開始。
 
 ## 概要
 
@@ -12,8 +12,8 @@
 ## 出演者
 
   - [アンガールズ](../Page/アンガールズ.md "wikilink")（[田中卓志](../Page/田中卓志.md "wikilink")、[山根良顕](../Page/山根良顕.md "wikilink")）
-  - [レギュラー](https://ja.wikipedia.org/wiki/レギュラー_\(お笑い\) "wikilink")（[西川晃啓](https://ja.wikipedia.org/wiki/西川晃啓 "wikilink")、[松本康太](https://ja.wikipedia.org/wiki/松本康太 "wikilink")）
-  - [あべこうじ](https://ja.wikipedia.org/wiki/あべこうじ "wikilink")
+  - [レギュラー](../Page/レギュラー_\(お笑い\).md "wikilink")（[西川晃啓](../Page/西川晃啓.md "wikilink")、[松本康太](../Page/松本康太.md "wikilink")）
+  - [あべこうじ](../Page/あべこうじ.md "wikilink")
   - [POISON GIRL BAND](../Page/POISON_GIRL_BAND.md "wikilink")（阿部智則、吉田大吾）
   - [だいたひかる](../Page/だいたひかる.md "wikilink")
   - [長井秀和](../Page/長井秀和.md "wikilink") -「司会進行」

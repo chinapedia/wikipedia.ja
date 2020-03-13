@@ -1,7 +1,7 @@
 > この記事は[CTM](https://ja.wikipedia.org/wiki/CTM)から翻訳されています。
 
 
-**CTM**とは、[ゆうちょ銀行](../Page/ゆうちょ銀行.md "wikilink")のシステムの一つであり、[日本郵政](https://ja.wikipedia.org/wiki/日本郵政 "wikilink")グループの貯金と保険の業務（[郵政民営化](https://ja.wikipedia.org/wiki/郵政民営化 "wikilink")前における郵便局の、[郵便貯金](../Page/郵便貯金.md "wikilink")・[簡易保険](../Page/簡易保険.md "wikilink")業務を含む）で使用される係員操作の端末機のことである。
+**CTM**とは、[ゆうちょ銀行](../Page/ゆうちょ銀行.md "wikilink")のシステムの一つであり、[日本郵政](../Page/日本郵政.md "wikilink")グループの貯金と保険の業務（[郵政民営化](https://ja.wikipedia.org/wiki/郵政民営化 "wikilink")前における郵便局の、[郵便貯金](../Page/郵便貯金.md "wikilink")・[簡易保険](../Page/簡易保険.md "wikilink")業務を含む）で使用される係員操作の端末機のことである。
 
 ## 概要
 

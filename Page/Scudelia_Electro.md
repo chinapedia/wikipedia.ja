@@ -1,19 +1,19 @@
 > この記事は[Scudelia Electro](https://ja.wikipedia.org/wiki/Scudelia_Electro)から翻訳されています。
 
 
-**Scudelia Electro**（スクーデリア エレクトロ）は、元[Spiral Lifeの](https://ja.wikipedia.org/wiki/Spiral_Life "wikilink")[石田ショーキチ](https://ja.wikipedia.org/wiki/石田ショーキチ "wikilink")をリーダーとした、[音楽](../Page/音楽.md "wikilink")ユニット。
+**Scudelia Electro**（スクーデリア エレクトロ）は、元[Spiral Lifeの](../Page/Spiral_Life.md "wikilink")[石田ショーキチ](../Page/石田ショーキチ.md "wikilink")をリーダーとした、[音楽](../Page/音楽.md "wikilink")ユニット。
 
-[1996年](../Page/1996年.md "wikilink")結成。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")解散。[2013年](../Page/2013年.md "wikilink")〜[2014年](../Page/2014年.md "wikilink")に一時的に再起動。
+[1996年](../Page/1996年.md "wikilink")結成。[2005年](../Page/2005年.md "wikilink")解散。[2013年](../Page/2013年.md "wikilink")〜[2014年](../Page/2014年.md "wikilink")に一時的に再起動。
 
 代表曲に、『Shout it loud』（[アニメ](../Page/アニメ.md "wikilink")「[王ドロボウJING](../Page/王ドロボウJING.md "wikilink")」主題歌）など。 その他、[演劇集団キャラメルボックス](../Page/演劇集団キャラメルボックス.md "wikilink")の劇中音楽など多数。 ユニット名の由来は、[イタリア語](../Page/イタリア語.md "wikilink")でチーム(特に[モータースポーツ](https://ja.wikipedia.org/wiki/モータースポーツ "wikilink"))を意味する「[スクーデリア](https://ja.wikipedia.org/wiki/スクーデリア "wikilink")(scudelia、正しくはスクデリーア/scuderia)」と石田がかつて電気設計の仕事に携わっていたことから来た「エレクトロ(electro)」を組み合わせた言葉。
 
 ## 概要
 
-[1996年](../Page/1996年.md "wikilink")、当時Spiral Lifeとして活動していた石田小吉（現：ショーキチ）を中心に結成されたプロデュース・ユニット。当初は他アーティストのプロデュースを中心に活動するとされていたが、Spiral Lifeの解散後はバンドとしての色彩を強め、[1996年](../Page/1996年.md "wikilink")[夏](../Page/夏.md "wikilink")、フリーサンプラー「Don't You Want Me」（[ヒューマン・リーグ](../Page/ヒューマン・リーグ.md "wikilink")のカバー）を発表。その後、[1996年](../Page/1996年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")に[シングル](../Page/シングル.md "wikilink")「Truth」でデビューを果たす。その後レコード会社の移籍や、石田ショーキチの[MOTORWORKS](../Page/MOTORWORKS.md "wikilink")としての活動に伴う活動休止期間など紆余曲折を経て、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[6月17日](../Page/6月17日.md "wikilink")[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")でのライブを以って、解散した。[2013年](../Page/2013年.md "wikilink")石田ショーキチのデビュー20周年を機に再起動、数本のライブを行い、[2014年](../Page/2014年.md "wikilink")再び解散。
+[1996年](../Page/1996年.md "wikilink")、当時Spiral Lifeとして活動していた石田小吉（現：ショーキチ）を中心に結成されたプロデュース・ユニット。当初は他アーティストのプロデュースを中心に活動するとされていたが、Spiral Lifeの解散後はバンドとしての色彩を強め、[1996年](../Page/1996年.md "wikilink")[夏](../Page/夏.md "wikilink")、フリーサンプラー「Don't You Want Me」（[ヒューマン・リーグ](../Page/ヒューマン・リーグ.md "wikilink")のカバー）を発表。その後、[1996年](../Page/1996年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")に[シングル](../Page/シングル.md "wikilink")「Truth」でデビューを果たす。その後レコード会社の移籍や、石田ショーキチの[MOTORWORKS](../Page/MOTORWORKS.md "wikilink")としての活動に伴う活動休止期間など紆余曲折を経て、[2005年](../Page/2005年.md "wikilink")[6月17日](../Page/6月17日.md "wikilink")[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")でのライブを以って、解散した。[2013年](../Page/2013年.md "wikilink")石田ショーキチのデビュー20周年を機に再起動、数本のライブを行い、[2014年](../Page/2014年.md "wikilink")再び解散。
 
 ## メンバー
 
-  - **[石田ショーキチ](https://ja.wikipedia.org/wiki/石田ショーキチ "wikilink")**（いしだ ショーキチ、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[4月12日](../Page/4月12日.md "wikilink") - [静岡県](../Page/静岡県.md "wikilink")出身）
+  - **[石田ショーキチ](../Page/石田ショーキチ.md "wikilink")**（いしだ ショーキチ、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[4月12日](../Page/4月12日.md "wikilink") - [静岡県](../Page/静岡県.md "wikilink")出身）
 
 <!-- end list -->
 
@@ -426,7 +426,7 @@
 </tr>
 <tr class="even">
 <td><p>Best</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/7月6日.md" title="wikilink">7月6日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/7月6日.md" title="wikilink">7月6日</a></p></td>
 <td><p><strong>locus. and wonders.</strong></p></td>
 <td><p>MTCA-1021</p></td>
 <td><p>CD</p>
@@ -494,7 +494,7 @@ TOUR“FINALIZER”2005.6.17.SHIBUYA AX</strong></p></td>
 <li>サマーレイン</li>
 </ol></td>
 <td><p>ex-music communications<br />
-<a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/6月17日.md" title="wikilink">6月17日</a>の、渋谷AXでの解散ライブを収録</p></td>
+<a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/6月17日.md" title="wikilink">6月17日</a>の、渋谷AXでの解散ライブを収録</p></td>
 </tr>
 <tr class="even">
 <td><p>live</p></td>
@@ -555,7 +555,7 @@ TOUR“FINALIZER”2005.6.17.SHIBUYA AX</strong></p></td>
 <li>VISIONS OF CHINA / 土屋昌巳</li>
 <li>NIGHTPORTER / TORRID</li>
 </ol>
-<p><a href="https://ja.wikipedia.org/wiki/ジャパン_(バンド)" title="wikilink">ジャパンのトリビュートアルバム</a></p></td>
+<p><a href="../Page/ジャパン_(バンド).md" title="wikilink">ジャパンのトリビュートアルバム</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1996年11月21日</p></td>

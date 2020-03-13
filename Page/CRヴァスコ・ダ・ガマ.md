@@ -17,7 +17,7 @@
 
 ブラジル全国で5番目に人気があるクラブで、リオデジャネイロ州で2番目に人気があるクラブである\[1\]。
 
-リオのクラシコ（[ボタフォゴFR](https://ja.wikipedia.org/wiki/ボタフォゴFR "wikilink")・[フルミネンセFC](https://ja.wikipedia.org/wiki/フルミネンセFC "wikilink")・[CRフラメンゴ](../Page/CRフラメンゴ.md "wikilink")）と対戦する時などは[マラカナン](https://ja.wikipedia.org/wiki/マラカナン "wikilink")を使用する。
+リオのクラシコ（[ボタフォゴFR](../Page/ボタフォゴFR.md "wikilink")・[フルミネンセFC](../Page/フルミネンセFC.md "wikilink")・[CRフラメンゴ](../Page/CRフラメンゴ.md "wikilink")）と対戦する時などは[マラカナン](https://ja.wikipedia.org/wiki/マラカナン "wikilink")を使用する。
 
 同じくリオデジャネイロを本拠地とするフラメンゴとはライバル関係にあり、フラメンゴとのダービー・マッチは「フラ・ヴァス」と呼ばれ、盛り上がる。
 
@@ -25,7 +25,7 @@
 
 2008年[ブラジル全国選手権・セリエAで](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエA "wikilink")18位と低迷、[セリエBへ降格](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエB "wikilink")。しかし、2009年シーズンはセリエBで優勝し、1年でセリエAに復帰した。
 
-[2013年](../Page/2013年.md "wikilink")12月8日、ブラジル全国選手権第38節、[アトレチコ・パラナエンセ](../Page/アトレチコ・パラナエンセ.md "wikilink")戦の最中、観客席で[暴動](../Page/暴動.md "wikilink")が発生。罰金と[無観客試合](https://ja.wikipedia.org/wiki/無観客試合 "wikilink")などのペナルティを科された\[2\]。
+[2013年](../Page/2013年.md "wikilink")12月8日、ブラジル全国選手権第38節、[アトレチコ・パラナエンセ](../Page/アトレチコ・パラナエンセ.md "wikilink")戦の最中、観客席で[暴動](../Page/暴動.md "wikilink")が発生。罰金と[無観客試合](../Page/無観客試合.md "wikilink")などのペナルティを科された\[2\]。
 
 ## タイトル
 
@@ -113,9 +113,9 @@
 
   - [マジーニョ](https://ja.wikipedia.org/wiki/イオマール・ド・ナシメント "wikilink")
 
-  - [ジュニーニョ・パウリスタ](https://ja.wikipedia.org/wiki/ジュニーニョ・パウリスタ "wikilink")
+  - [ジュニーニョ・パウリスタ](../Page/ジュニーニョ・パウリスタ.md "wikilink")
 
-  - [ジュニーニョ・ペルナンブカーノ](https://ja.wikipedia.org/wiki/ジュニーニョ・ペルナンブカーノ "wikilink")
+  - [ジュニーニョ・ペルナンブカーノ](../Page/ジュニーニョ・ペルナンブカーノ.md "wikilink")
 
 ### FW
 
@@ -123,7 +123,7 @@
 
   - [ゼ・セルジオ](../Page/ジョゼ・セルジオ・プレスティ.md "wikilink")
 
-  - [ベベット](https://ja.wikipedia.org/wiki/ジョゼ・ロベルト・ガマ・デ・オリベイラ "wikilink")
+  - [ベベット](../Page/ジョゼ・ロベルト・ガマ・デ・オリベイラ.md "wikilink")
 
   - [シーラス](../Page/パウロ・シーラス・ド・プラド・ペレイラ.md "wikilink")
 

@@ -1,11 +1,11 @@
 > この記事は[THE BLUE HEARTS \(\)](https://ja.wikipedia.org/wiki/THE_BLUE_HEARTS_\(\))から翻訳されています。
 
 
-『**THE BLUE HEARTS**』（ザ・ブルー・ハーツ）は、[THE BLUE HEARTSの](https://ja.wikipedia.org/wiki/THE_BLUE_HEARTS "wikilink")1枚目のアルバムである。
+『**THE BLUE HEARTS**』（ザ・ブルー・ハーツ）は、[THE BLUE HEARTSの](../Page/THE_BLUE_HEARTS.md "wikilink")1枚目のアルバムである。
 
 [2007年](../Page/2007年.md "wikilink")（[平成](../Page/平成.md "wikilink")19年）に、「アナログジャケット完全復刻\!」として年内限定発売（再発）された。その後[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）に、25周年企画の一環で、再び期間限定で再発が決まった。
 
-[2011年](../Page/2011年.md "wikilink")（平成23年）[1月12日](../Page/1月12日.md "wikilink")に、結成25周年記念として、長年リマスタリングされなかったメルダック時代のアルバム3作品（『THE BLUE HEARTS』、『[YOUNG AND PRETTY](https://ja.wikipedia.org/wiki/YOUNG_AND_PRETTY "wikilink")』、『[TRAIN-TRAIN](https://ja.wikipedia.org/wiki/TRAIN-TRAIN_\(アルバム\) "wikilink")』）が[デジタルリマスタリング](https://ja.wikipedia.org/wiki/デジタルリマスタリング "wikilink")され、発売された。
+[2011年](../Page/2011年.md "wikilink")（平成23年）[1月12日](../Page/1月12日.md "wikilink")に、結成25周年記念として、長年リマスタリングされなかったメルダック時代のアルバム3作品（『THE BLUE HEARTS』、『[YOUNG AND PRETTY](../Page/YOUNG_AND_PRETTY.md "wikilink")』、『[TRAIN-TRAIN](../Page/TRAIN-TRAIN_\(アルバム\).md "wikilink")』）が[デジタルリマスタリング](https://ja.wikipedia.org/wiki/デジタルリマスタリング "wikilink")され、発売された。
 
 ## 内容
 
@@ -15,15 +15,15 @@
 
 1.  **未来は僕等の手の中** (2:25)
       -
-        （作詞・作曲：[真島昌利](https://ja.wikipedia.org/wiki/真島昌利 "wikilink") / 編曲：THE BLUE HEARTS）
-        デビュー前のライブでは後半の始まりに演奏されることが多かった曲で、このアルバムでもレコードでいうところの[B面](https://ja.wikipedia.org/wiki/B面 "wikilink")の1曲目（通算7曲目）に収録されるはずだったが、1曲目に予定していた「[ブルーハーツのテーマ](../Page/ブルーハーツのテーマ.md "wikilink")」が歌詞の問題により収録出来なくなり、代わりに1曲目に収録されることになる。中期～後期のライブ、イベントではよく1曲目に歌われた。[イチロー](https://ja.wikipedia.org/wiki/イチロー "wikilink")も、[メジャーリーグの年間最多安打の新記録達成前の不振時に](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")、試合前にずっと聞いていたという。TVアニメ『[逆境無頼カイジ](https://ja.wikipedia.org/wiki/賭博黙示録カイジ "wikilink")』で主人公カイジの声を担当した[萩原聖人](../Page/萩原聖人.md "wikilink")が主題歌として同曲をカバーした。
+        （作詞・作曲：[真島昌利](../Page/真島昌利.md "wikilink") / 編曲：THE BLUE HEARTS）
+        デビュー前のライブでは後半の始まりに演奏されることが多かった曲で、このアルバムでもレコードでいうところの[B面](https://ja.wikipedia.org/wiki/B面 "wikilink")の1曲目（通算7曲目）に収録されるはずだったが、1曲目に予定していた「[ブルーハーツのテーマ](../Page/ブルーハーツのテーマ.md "wikilink")」が歌詞の問題により収録出来なくなり、代わりに1曲目に収録されることになる。中期～後期のライブ、イベントではよく1曲目に歌われた。[イチロー](https://ja.wikipedia.org/wiki/イチロー "wikilink")も、[メジャーリーグの年間最多安打の新記録達成前の不振時に](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")、試合前にずっと聞いていたという。TVアニメ『[逆境無頼カイジ](../Page/賭博黙示録カイジ.md "wikilink")』で主人公カイジの声を担当した[萩原聖人](../Page/萩原聖人.md "wikilink")が主題歌として同曲をカバーした。
         爆弾が落っこちる時とセットで歌われることが多い。
         1985年12月24日（世界一のクリスマス）、都立家政スーパーロフトにて初披露（曲名はまだ付いていなかった）
         [JUST A BEAT SHOWに収録されているものは題名が](../Page/JUST_A_BEAT_SHOW.md "wikilink")「未来はぼくらの手の中」で、歌詞が間違っている。
 2.  **終わらない歌** (3:04)
       -
         （作詞・作曲：真島昌利 / 編曲：THE BLUE HEARTS）
-        歌の間奏部分の歌詞に、[差別用語](../Page/差別用語.md "wikilink")の『**[キチガイ](../Page/きちがい.md "wikilink")**扱いされた日々』という表現があるため、「キチガイ」は歌詞カードに記載されておらず、ボーカルもギター等の音で被せて聴こえづらくしている。『[ヤンキー先生\!義家弘介の夢は逃げていかない](https://ja.wikipedia.org/wiki/ヤンキー先生!義家弘介の夢は逃げていかない "wikilink")』（[ニッポン放送](../Page/ニッポン放送.md "wikilink")）のテーマ曲。[2011年](../Page/2011年.md "wikilink")より、[日本中央競馬会](../Page/日本中央競馬会.md "wikilink")のCMソングとして使用される。
+        歌の間奏部分の歌詞に、[差別用語](../Page/差別用語.md "wikilink")の『**[キチガイ](../Page/きちがい.md "wikilink")**扱いされた日々』という表現があるため、「キチガイ」は歌詞カードに記載されておらず、ボーカルもギター等の音で被せて聴こえづらくしている。『[ヤンキー先生\!義家弘介の夢は逃げていかない](../Page/ヤンキー先生!義家弘介の夢は逃げていかない.md "wikilink")』（[ニッポン放送](../Page/ニッポン放送.md "wikilink")）のテーマ曲。[2011年](../Page/2011年.md "wikilink")より、[日本中央競馬会](../Page/日本中央競馬会.md "wikilink")のCMソングとして使用される。
         1988年から1989年頃のライブでは、曲の最後のサビを1回延長した形のバージョンで演奏されていた。
         STICK OUTツアーではラストに歌われた。
         1985年の8月～11月に初披露。
@@ -74,7 +74,7 @@
         2006年[TBS系スペシャルドラマ](../Page/TBSテレビ.md "wikilink") 「[僕たちの戦争](../Page/僕たちの戦争.md "wikilink")」のエンディングテーマに起用される。
         ヒロトの友人の結婚式のために作られた曲。
         1985年4月～6月に初披露。
-12. **[リンダリンダ](https://ja.wikipedia.org/wiki/リンダリンダ "wikilink")** (3:22)
+12. **[リンダリンダ](../Page/リンダリンダ.md "wikilink")** (3:22)
       -
         （作詞・作曲：甲本ヒロト / 編曲：THE BLUE HEARTS）
         THE BLUE HEARTSのメジャーデビュー曲。
@@ -87,7 +87,7 @@
 
   - 甲本ヒロト - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
   - 真島昌利 - [ギター](../Page/ギター.md "wikilink")
-  - [河口純之助](../Page/河口純之助.md "wikilink") - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - [河口純之助](../Page/河口純之助.md "wikilink") - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
   - [梶原徹也](../Page/梶原徹也.md "wikilink") - [ドラム](../Page/ドラムセット.md "wikilink")
 
 [Category:THE_BLUE_HEARTSのアルバム](https://ja.wikipedia.org/wiki/Category:THE_BLUE_HEARTSのアルバム "wikilink") [Category:デビュー・アルバム](https://ja.wikipedia.org/wiki/Category:デビュー・アルバム "wikilink") [Category:1987年のアルバム](https://ja.wikipedia.org/wiki/Category:1987年のアルバム "wikilink") [Category:メルダックのアルバム](https://ja.wikipedia.org/wiki/Category:メルダックのアルバム "wikilink")

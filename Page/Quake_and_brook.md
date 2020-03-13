@@ -18,7 +18,7 @@
 
 ## 内容
 
-[CDエクストラ](https://ja.wikipedia.org/wiki/CDエクストラ "wikilink")として「FUEL」「higher」の[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")が収録されている。レーベルメイトである[MOCK ORANGEのメンバーが](https://ja.wikipedia.org/wiki/MOCK_ORANGE "wikilink")[ライナーノーツ](../Page/ライナーノーツ.md "wikilink")を手掛けている。
+[CDエクストラ](https://ja.wikipedia.org/wiki/CDエクストラ "wikilink")として「FUEL」「higher」の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")が収録されている。レーベルメイトである[MOCK ORANGEのメンバーが](https://ja.wikipedia.org/wiki/MOCK_ORANGE "wikilink")[ライナーノーツ](../Page/ライナーノーツ.md "wikilink")を手掛けている。
 
 ### シングルでリリースされた曲
 

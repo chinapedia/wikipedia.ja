@@ -5,23 +5,23 @@
 
 ## メンバー
 
-  - **[松口祐樹](https://ja.wikipedia.org/wiki/ハリガネロック "wikilink")**（まつぐち ゆうき、[1972年](../Page/1972年.md "wikilink")[4月16日](https://ja.wikipedia.org/wiki/4月16日 "wikilink") - ）
+  - **[松口祐樹](../Page/ハリガネロック.md "wikilink")**（まつぐち ゆうき、[1972年](../Page/1972年.md "wikilink")[4月16日](../Page/4月16日.md "wikilink") - ）
 
 <!-- end list -->
 
   -
     [ツッコミ](https://ja.wikipedia.org/wiki/ツッコミ "wikilink")担当。
-    解散後は、[ハリガネロック](https://ja.wikipedia.org/wiki/ハリガネロック "wikilink")を結成し活動（2014年解散）。[2001年](../Page/2001年.md "wikilink")頃に芸名をユウキロックとした。
+    解散後は、[ハリガネロック](../Page/ハリガネロック.md "wikilink")を結成し活動（2014年解散）。[2001年](../Page/2001年.md "wikilink")頃に芸名をユウキロックとした。
 
 <!-- end list -->
 
-  - **[小林友治](https://ja.wikipedia.org/wiki/ケンドーコバヤシ "wikilink")**（こばやし ともはる、[1972年](../Page/1972年.md "wikilink")[7月4日](../Page/7月4日.md "wikilink") - ）
+  - **[小林友治](../Page/ケンドーコバヤシ.md "wikilink")**（こばやし ともはる、[1972年](../Page/1972年.md "wikilink")[7月4日](../Page/7月4日.md "wikilink") - ）
 
 <!-- end list -->
 
   -
     [ボケ担当](https://ja.wikipedia.org/wiki/ボケ_\(漫才\) "wikilink")。
-    解散後は、[村越周司](../Page/村越周司.md "wikilink")と[モストデンジャラスコンビ](../Page/モストデンジャラスコンビ.md "wikilink")として活動。その後、芸名をケンドーコバヤシに変えて[ピン芸人](https://ja.wikipedia.org/wiki/ピン芸人 "wikilink")として活動中。
+    解散後は、[村越周司](../Page/村越周司.md "wikilink")と[モストデンジャラスコンビ](../Page/モストデンジャラスコンビ.md "wikilink")として活動。その後、芸名をケンドーコバヤシに変えて[ピン芸人](../Page/ピン芸人.md "wikilink")として活動中。
 
 ## 来歴・エピソード
 
@@ -37,7 +37,7 @@
   - [オールザッツ漫才](https://ja.wikipedia.org/wiki/オールザッツ漫才 "wikilink") - テレビ初出演。
   - [爆笑BOOING](../Page/爆笑BOOING.md "wikilink") - 勝ち抜けず。
   - 2丁目ワチャチャテレビ
-  - [笑いの剣](https://ja.wikipedia.org/wiki/笑いの剣 "wikilink")
+  - [笑いの剣](../Page/笑いの剣.md "wikilink")
 
 ## 脚注
 

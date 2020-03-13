@@ -1,13 +1,13 @@
 > この記事は[LSD \(\)](https://ja.wikipedia.org/wiki/LSD_\(\))から翻訳されています。
 
 
-『**LSD**』（エルエスディー）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月22日](../Page/10月22日.md "wikilink")に[アスミック・エース エンタテインメントより発売された](https://ja.wikipedia.org/wiki/アスミック・エース "wikilink")[PlayStation用](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")という体裁を利用したドリームエミュレータ。[サイケデリック](https://ja.wikipedia.org/wiki/サイケデリック "wikilink")で[支離滅裂](https://ja.wikipedia.org/wiki/支離滅裂 "wikilink")な夢体験を楽しむためだけに作られ、ゲーム内の明確な目的は存在しない。
+『**LSD**』（エルエスディー）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月22日](../Page/10月22日.md "wikilink")に[アスミック・エース エンタテインメントより発売された](../Page/アスミック・エース.md "wikilink")[PlayStation用](../Page/PlayStation_\(ゲーム機\).md "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")という体裁を利用したドリームエミュレータ。[サイケデリック](https://ja.wikipedia.org/wiki/サイケデリック "wikilink")で[支離滅裂](https://ja.wikipedia.org/wiki/支離滅裂 "wikilink")な夢体験を楽しむためだけに作られ、ゲーム内の明確な目的は存在しない。
 
 キャッチコピーは「**こんなのゲームじゃない**」。
 
 ## 概要
 
-プレイヤーは、[夢](../Page/夢.md "wikilink")の世界を理由もなく彷徨う。目的も敵も味方も存在しない世界で、自分の思うまま、行きたい所に行くことができ、その際色々な[キャラクター](../Page/キャラクター.md "wikilink")や不思議な[オブジェ](https://ja.wikipedia.org/wiki/オブジェ "wikilink")に遭遇したりする。壁やキャラクター、オブジェなどにぶつかる事で他の場所に[ワープ](https://ja.wikipedia.org/wiki/ワープ "wikilink")する事ができ、これをリンクと言う。リンクは一見ランダムだが、規則性が見受けられる場合もある。
+プレイヤーは、[夢](../Page/夢.md "wikilink")の世界を理由もなく彷徨う。目的も敵も味方も存在しない世界で、自分の思うまま、行きたい所に行くことができ、その際色々な[キャラクター](../Page/キャラクター.md "wikilink")や不思議な[オブジェ](https://ja.wikipedia.org/wiki/オブジェ "wikilink")に遭遇したりする。壁やキャラクター、オブジェなどにぶつかる事で他の場所に[ワープ](../Page/ワープ.md "wikilink")する事ができ、これをリンクと言う。リンクは一見ランダムだが、規則性が見受けられる場合もある。
 
 1日の時間はある程度決まっており（ゲーム中は非表示）、[草原](../Page/草原.md "wikilink")などの穏やかな場所ではゆっくりと、バイオレンス街などのスリリングな場所では早く時間が流れ、規定の時間が過ぎると夢から覚めてタイトル画面に移行する。プレイ回数は日数としてカウントされ（「Day 001」という風に）、そうして何度も夢を見続けることで、壁の模様やキャラクターの姿など夢の世界の内容が段々変容していく。その変化の仕方は時にはテクスチャの色が変化したり、時にはテクスチャが意味の不明な画像や文字、詩に変化したりと様々である。空の色も変化することがある。
 

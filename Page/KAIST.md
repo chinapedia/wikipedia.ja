@@ -92,4 +92,4 @@
 7.  Energy（エネルギー）、Environment（環境）、Water（水）、Sustainability（持続可能性）を指す
 8.  チョ・チョンシクは人名。KAISTに寄付した人物で、この寄付金で同大学院が設立された
 9.  [100億ウォン台不動産をKAISTに寄付、Joongang Ilbo、2010年06月18日13時50分、中央日報日本語版](http://japanese.joins.com/article/272/130272.html) 、2016年11月25日閲覧。
-10. [AI兵器開発?KAISTは否定](http://japanese.donga.com/List/3/04/27/1277266/1)『[東亜日報](https://ja.wikipedia.org/wiki/東亜日報 "wikilink")』日本語版サイト（2018年4月6日）2018年4月6日閲覧。
+10. [AI兵器開発?KAISTは否定](http://japanese.donga.com/List/3/04/27/1277266/1)『[東亜日報](../Page/東亜日報.md "wikilink")』日本語版サイト（2018年4月6日）2018年4月6日閲覧。

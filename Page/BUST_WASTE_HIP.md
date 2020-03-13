@@ -1,13 +1,13 @@
 > この記事は[BUST WASTE HIP](https://ja.wikipedia.org/wiki/BUST_WASTE_HIP)から翻訳されています。
 
 
-**BUST WASTE HIP**（バスト・ウエスト・ヒップ）は、[THE BLUE HEARTSの](https://ja.wikipedia.org/wiki/THE_BLUE_HEARTS "wikilink")4枚目の[アルバム](../Page/アルバム.md "wikilink")である。
+**BUST WASTE HIP**（バスト・ウエスト・ヒップ）は、[THE BLUE HEARTSの](../Page/THE_BLUE_HEARTS.md "wikilink")4枚目の[アルバム](../Page/アルバム.md "wikilink")である。
 
 ## 解説
 
-レーベル移籍第1弾アルバム。[バンド初の](../Page/バンド_\(音楽\).md "wikilink")[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位を獲得した作品。
+レーベル移籍第1弾アルバム。[バンド初の](../Page/バンド_\(音楽\).md "wikilink")[オリコンチャート](../Page/オリコンチャート.md "wikilink")1位を獲得した作品。
 
-前作と比べて硬質なロック、[ブルース](../Page/ブルース.md "wikilink")、[ソウルミュージック](https://ja.wikipedia.org/wiki/ソウルミュージック "wikilink")、[R\&Bの色が濃くなり](../Page/リズム・アンド・ブルース.md "wikilink")、歌詞はストレートなものから抽象的なもの、 意味性を無視したものが増えた。真島は「ブルーハーツの予定調和を打開しようとしていた時期」と当時のインタビューで語っている。
+前作と比べて硬質なロック、[ブルース](../Page/ブルース.md "wikilink")、[ソウルミュージック](../Page/ソウルミュージック.md "wikilink")、[R\&Bの色が濃くなり](../Page/リズム・アンド・ブルース.md "wikilink")、歌詞はストレートなものから抽象的なもの、 意味性を無視したものが増えた。真島は「ブルーハーツの予定調和を打開しようとしていた時期」と当時のインタビューで語っている。
 
 初回限定版はプラケース入りで、[CDはピクチャー仕様](../Page/コンパクトディスク.md "wikilink")、ブックレット付き。
 
@@ -16,7 +16,7 @@
 ## 収録曲
 
 1.  **イメージ**
-    （[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・[作曲](../Page/作曲.md "wikilink")：[真島昌利](https://ja.wikipedia.org/wiki/真島昌利 "wikilink")）
+    （[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")：[真島昌利](../Page/真島昌利.md "wikilink")）
 2.  **殺しのライセンス**
     （作詞・作曲：[甲本ヒロト](../Page/甲本ヒロト.md "wikilink")）
       -

@@ -1,7 +1,7 @@
 > この記事は[STYLISH WOMAN](https://ja.wikipedia.org/wiki/STYLISH_WOMAN)から翻訳されています。
 
 
-**STYLISH WOMAN**（スタイリッシュ　ウーマン）は[米米CLUB](../Page/米米CLUB.md "wikilink")の23枚目の[シングル](../Page/シングル.md "wikilink")。[1996年](../Page/1996年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink")発売。発売元はSony Records（現[ソニー・ミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")）。
+**STYLISH WOMAN**（スタイリッシュ　ウーマン）は[米米CLUB](../Page/米米CLUB.md "wikilink")の23枚目の[シングル](../Page/シングル.md "wikilink")。[1996年](../Page/1996年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink")発売。発売元はSony Records（現[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")）。
 
 ## 解説
 
@@ -11,7 +11,7 @@
 
 アルバム『[Phi II](../Page/Phi_II.md "wikilink")』（[1994年](../Page/1994年.md "wikilink")）に収録された「SO COOL」、『[PUSHED RICE](../Page/PUSHED_RICE.md "wikilink")』（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")）収録の「FOXY-危険な恋-」と合わせて「SEXY三部作」と呼ばれ、「THE LAST SYMPOSIUM」でもメドレー形式で3曲合わせて演奏された。
 
-商業的な実績としてはブレイク後初めて[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")の20位以内を割り込んだ。前前作『[JUST MY FRIEND](../Page/JUST_MY_FRIEND.md "wikilink")』以上の落ち込みぶりであり、アルバム『H<sub>2</sub>O』と合わせて不振に喘いだ。そして『H<sub>2</sub>O』発表後は全国ツアーが実施されず、長年米米のダンサーチームとして親しまれた「SUE CREAM SUE」がマリの米米CLUB脱退によって解散、とバンドは危機的な状況を迎え、同年末の解散発表に至ることになる。
+商業的な実績としてはブレイク後初めて[オリコンチャート](../Page/オリコンチャート.md "wikilink")の20位以内を割り込んだ。前前作『[JUST MY FRIEND](../Page/JUST_MY_FRIEND.md "wikilink")』以上の落ち込みぶりであり、アルバム『H<sub>2</sub>O』と合わせて不振に喘いだ。そして『H<sub>2</sub>O』発表後は全国ツアーが実施されず、長年米米のダンサーチームとして親しまれた「SUE CREAM SUE」がマリの米米CLUB脱退によって解散、とバンドは危機的な状況を迎え、同年末の解散発表に至ることになる。
 
 ## 収録曲
 

@@ -17,13 +17,13 @@ ThinkPad sシリーズは『リアル[モバイル](https://ja.wikipedia.org/wik
 
 sシリーズとしては唯一であるThinkPad s3x系は、[i440MXチップセット](https://ja.wikipedia.org/wiki/インテル_チップセット#440_AGP_/_PCI_set_ファミリ "wikilink")、超低電圧版[Pentium III](../Page/Pentium_III.md "wikilink") 600MHz、メモリ128MB、10.4インチ[XGA液晶モニター](../Page/Extended_Graphics_Array.md "wikilink")、重量は1.45kgとなっていた。
 
-本機の一番の特徴は、コンパクトになった筐体両側からせり出した「[耳](../Page/耳.md "wikilink")」である。この部分の本体側にはフルサイズキーが配置された[キーボードが収まり](https://ja.wikipedia.org/wiki/キーボード_\(コンピュータ\) "wikilink")、液晶ベゼル側には[無線LAN](../Page/無線LAN.md "wikilink")[アンテナ](../Page/アンテナ.md "wikilink")が収まっている（無線LANモデルのみ）。
+本機の一番の特徴は、コンパクトになった筐体両側からせり出した「[耳](../Page/耳.md "wikilink")」である。この部分の本体側にはフルサイズキーが配置された[キーボードが収まり](../Page/キーボード_\(コンピュータ\).md "wikilink")、液晶ベゼル側には[無線LAN](../Page/無線LAN.md "wikilink")[アンテナ](../Page/アンテナ.md "wikilink")が収まっている（無線LANモデルのみ）。
 
 また、ThinkPadとして初めて「ミラージュブラック天板」モデルがラインナップされ、それを磨くための東レ製のクリーニングクロスが付属していた\[2\]。同様のミラージュブラック天板を採用したUSB接続のCD-ROMドライブとフロッピーディスクドライブもオプション機器として発表された\[3\]。なお、ミラージュブラック天板は本モデルと、のちに発売される「ThinkPad 10th Anniversary Limited Edition\[4\]」のThinkPad X30のみでしか採用されなかったため、ThinkPad s30も10周年記念モデルのひとつと勘違いされるケースがまれにあるが、本モデルが発売されたのは8年目なので全く関係がない\[5\]。
 
 基本的に[レガシーデバイス](../Page/レガシーデバイス.md "wikilink")・コネクターは排除されており、マウスやプリンタ、フロッピーディスクドライブ、CD-ROMドライブは[USB接続となる](../Page/ユニバーサル・シリアル・バス.md "wikilink")。
 
-PCカードスロットだけでなく、TypeIIのCFカードスロットが搭載されており、[P-in comp@ctや](https://ja.wikipedia.org/wiki/ドコモPHS "wikilink")[Card H" petitなどの通信デバイスを内蔵することができる](../Page/AIR-EDGE.md "wikilink")。
+PCカードスロットだけでなく、TypeIIのCFカードスロットが搭載されており、[P-in comp@ctや](../Page/ドコモPHS.md "wikilink")[Card H" petitなどの通信デバイスを内蔵することができる](../Page/AIR-EDGE.md "wikilink")。
 
 各モデルの違いは主に以下の点である。
 

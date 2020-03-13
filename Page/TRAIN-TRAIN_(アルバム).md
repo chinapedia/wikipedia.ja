@@ -1,7 +1,7 @@
 > この記事は[TRAIN-TRAIN \(\)](https://ja.wikipedia.org/wiki/TRAIN-TRAIN_\(\))から翻訳されています。
 
 
-**TRAIN-TRAIN**（トレイン トレイン）は、[THE BLUE HEARTSの](https://ja.wikipedia.org/wiki/THE_BLUE_HEARTS "wikilink")3rdアルバムである。
+**TRAIN-TRAIN**（トレイン トレイン）は、[THE BLUE HEARTSの](../Page/THE_BLUE_HEARTS.md "wikilink")3rdアルバムである。
 
 [2007年](../Page/2007年.md "wikilink")に「アナログジャケット完全復刻\!」として年内限定発売（再発）された。その後[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に、25周年企画の一環で、再び期間限定で再発が決まった。
 
@@ -11,14 +11,14 @@
 
 甲本と真島の共作が入っている。また、歌詞が共作ではあるが初めて河口作曲の歌が収録された。作詞クレジットの数で甲本が真島を上回る唯一のアルバムである。シングル「TRAIN-TRAIN」と同時発売。
 
-プロデューサーの谷川千央のアイデアにより[コンセプト・アルバム](../Page/コンセプト・アルバム.md "wikilink")的な構成がなされた。汽車の切符をイメージしたジャケット・デザイン、汽車が疾走していくような[ブルースハープの](https://ja.wikipedia.org/wiki/ハーモニカ "wikilink")[ソロから一曲目へと繋ぎ](https://ja.wikipedia.org/wiki/独奏 "wikilink")、最後の曲のあとには「TRAIN-TRAIN」の[サビ](../Page/サビ.md "wikilink")の一部と冒頭のハープのソロが再び流れる構成になっている。
+プロデューサーの谷川千央のアイデアにより[コンセプト・アルバム](../Page/コンセプト・アルバム.md "wikilink")的な構成がなされた。汽車の切符をイメージしたジャケット・デザイン、汽車が疾走していくような[ブルースハープの](../Page/ハーモニカ.md "wikilink")[ソロから一曲目へと繋ぎ](https://ja.wikipedia.org/wiki/独奏 "wikilink")、最後の曲のあとには「TRAIN-TRAIN」の[サビ](../Page/サビ.md "wikilink")の一部と冒頭のハープのソロが再び流れる構成になっている。
 
 前作までのパンク中心から[ブルース](../Page/ブルース.md "wikilink")、[フォーク](https://ja.wikipedia.org/wiki/フォーク・ミュージック "wikilink")、[カントリー等の](https://ja.wikipedia.org/wiki/カントリー・ミュージック "wikilink")[ルーツ・ミュージック](../Page/ルーツ・ミュージック.md "wikilink")を反映させた多彩な楽曲群、そして様々なゲスト・ミュージシャンが参加している。
 
 ## 収録曲
 
 1.  **[TRAIN-TRAIN](../Page/TRAIN-TRAIN.md "wikilink")**
-    （[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・[作曲](../Page/作曲.md "wikilink")：[真島昌利](https://ja.wikipedia.org/wiki/真島昌利 "wikilink")）
+    （[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")：[真島昌利](../Page/真島昌利.md "wikilink")）
       -
         歌詞カードではサビの部分が、「TRAIN-TRAIN 走ってゆけ」となっているが、CD及びライブなどでは、「走ってゆく」と歌われる。(しかし真島のコーラスは、「走ってゆけ」と歌われている。)
         凸凹ツアーではアンコールのラストに歌われた。
@@ -30,11 +30,11 @@
     （作詞・作曲：甲本ヒロト）
       -
         「ラブレター」のカップリング曲。
-        88年の「PRETTY PINEAPPLE TOUR」中に発表された当初は音源化分の後にも歌詞があったが、ステージを重ねる内に歌詞が削られた。（詳しくは[THE BLUE HEARTSの未発表曲](https://ja.wikipedia.org/wiki/THE_BLUE_HEARTS "wikilink")）
+        88年の「PRETTY PINEAPPLE TOUR」中に発表された当初は音源化分の後にも歌詞があったが、ステージを重ねる内に歌詞が削られた。（詳しくは[THE BLUE HEARTSの未発表曲](../Page/THE_BLUE_HEARTS.md "wikilink")）
 4.  **ミサイル**
     （作詞・作曲：甲本ヒロト）
       -
-        [NHK教育テレビ](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")「人間講座」において、[ねじめ正一](https://ja.wikipedia.org/wiki/ねじめ正一 "wikilink")が「言葉の力・詩の力」という講義にて取り上げられた。
+        [NHK教育テレビ](../Page/NHK教育テレビジョン.md "wikilink")「人間講座」において、[ねじめ正一](../Page/ねじめ正一.md "wikilink")が「言葉の力・詩の力」という講義にて取り上げられた。
 5.  **僕の右手**
     （作詞・作曲：甲本ヒロト）
       -
@@ -55,7 +55,7 @@
         「[風船爆弾](../Page/風船爆弾.md "wikilink")」とは実在した[日本軍](../Page/日本軍.md "wikilink")の兵器で、その詳細が書かれた同名の本を甲本や真島が読んでいた。
         本当は「恋は風船爆弾」というタイトルだったが、何かの手違いで「恋は」が取れてしまった。ライブ中の甲本は「恋は風船爆弾」と曲名を言う場合が多かった。
         1993年～1994年の凸凹ツアーではメドレーの五曲目として河口がメインボーカルを務めていた。
-        発表当初は歌詞が違っていた。（詳しくは[THE BLUE HEARTSの未発表曲](https://ja.wikipedia.org/wiki/THE_BLUE_HEARTS "wikilink")）
+        発表当初は歌詞が違っていた。（詳しくは[THE BLUE HEARTSの未発表曲](../Page/THE_BLUE_HEARTS.md "wikilink")）
 8.  **[ラブレター](../Page/ラブレター_\(THE_BLUE_HEARTSの曲\).md "wikilink")**
     （作詞・作曲：甲本ヒロト）
 9.  **ながれもの**

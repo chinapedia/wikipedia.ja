@@ -5,7 +5,7 @@
 
 ## 概要
 
-[2000年](../Page/2000年.md "wikilink")[8月2日](../Page/8月2日.md "wikilink")に発売された。[規格品番](https://ja.wikipedia.org/wiki/規格品番 "wikilink")はAVCD-30134。
+[2000年](../Page/2000年.md "wikilink")[8月2日](../Page/8月2日.md "wikilink")に発売された。[規格品番](../Page/規格品番.md "wikilink")はAVCD-30134。
 
 ## 収録曲
 

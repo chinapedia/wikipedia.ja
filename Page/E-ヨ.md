@@ -1,13 +1,13 @@
 > この記事は[E-](https://ja.wikipedia.org/wiki/E-)から翻訳されています。
 
 
-**E-ヨ** （イーヨ）は[米米CLUB](../Page/米米CLUB.md "wikilink")の26枚目の[シングル](../Page/シングル.md "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[8月23日](../Page/8月23日.md "wikilink")発売。発売元は[Sony Music Records](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")。
+**E-ヨ** （イーヨ）は[米米CLUB](../Page/米米CLUB.md "wikilink")の26枚目の[シングル](../Page/シングル.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[8月23日](../Page/8月23日.md "wikilink")発売。発売元は[Sony Music Records](../Page/ソニー・ミュージックレコーズ.md "wikilink")。
 
 [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に解散した米米CLUBが9年ぶりの再結成を行い、その復帰第二弾シングル。今作は「新米CD+新舞DVD」3部作と題されたDVD付きシングル3ヶ月連続リリースの2作目となった。
 
-今作は前作同様マキシシングルでのリリースとなり、通常収録の楽曲以外にも「BONUS SHOW TIME」として発売予定のアルバムの予告編、[インストルメンタルバージョンが製作](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")、収録された。ちなみに「BONUS SHOW TIME」とは米米のライブにおける「[アンコール](https://ja.wikipedia.org/wiki/アンコール "wikilink")」の意味である。
+今作は前作同様マキシシングルでのリリースとなり、通常収録の楽曲以外にも「BONUS SHOW TIME」として発売予定のアルバムの予告編、[インストルメンタルバージョンが製作](../Page/器楽曲.md "wikilink")、収録された。ちなみに「BONUS SHOW TIME」とは米米のライブにおける「[アンコール](../Page/アンコール.md "wikilink")」の意味である。
 
-尚、c/wの「Just U'06〜feat.Char\&JESSE〜」では、サブタイトルが示す通りデビュー時より親交のある[ギタリスト](../Page/ギタリスト.md "wikilink")の[Char](../Page/Char.md "wikilink")とその実子で[RIZE](https://ja.wikipedia.org/wiki/RIZE "wikilink")のメンバー[JESSE](../Page/JESSE.md "wikilink")がゲスト参加している。両人は米米再結成のきっかけを作った人物でもある。
+尚、c/wの「Just U'06〜feat.Char\&JESSE〜」では、サブタイトルが示す通りデビュー時より親交のある[ギタリスト](../Page/ギタリスト.md "wikilink")の[Char](../Page/Char.md "wikilink")とその実子で[RIZE](../Page/RIZE.md "wikilink")のメンバー[JESSE](../Page/JESSE.md "wikilink")がゲスト参加している。両人は米米再結成のきっかけを作った人物でもある。
 
 ## 収録曲
 
@@ -30,7 +30,7 @@
 
 ### DVD
 
-1.  **E-ヨ** ([Video Clip](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink"))
+1.  **E-ヨ** ([Video Clip](../Page/ミュージック・ビデオ.md "wikilink"))
     \-O'DOLL～SUE CREAM SUE-
 2.  **ヘイワ・ノ・セカイ**
 3.  **E-ヨ**
@@ -41,7 +41,7 @@
 
   - ジェームス小野田（小野田安秀）：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
   - カールスモーキー石井（[石井竜也](https://ja.wikipedia.org/wiki/石井竜也 "wikilink")）：ボーカル
-  - BON（大久保謙作）：[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - BON（大久保謙作）：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
   - ジョプリン得能（得能律郎）：[ギター](../Page/ギター.md "wikilink")
   - BE（[林部直樹](../Page/林部直樹.md "wikilink")）：ギター
   - RYO-J（坂口良治）：[ドラムス](../Page/ドラムセット.md "wikilink")

@@ -1,7 +1,7 @@
 > この記事は[ZOO KEEPER \(\)](https://ja.wikipedia.org/wiki/ZOO_KEEPER_\(\))から翻訳されています。
 
 
-『**ZOO KEEPER**』（ズーキーパー）は、[青木幸子](https://ja.wikipedia.org/wiki/青木幸子 "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[イブニング](../Page/イブニング.md "wikilink")』（[講談社](../Page/講談社.md "wikilink")）において、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")3月28日（2006年No.08）から[2009年](../Page/2009年.md "wikilink")6月22日（2009年No.14）まで連載された。全8巻。
+『**ZOO KEEPER**』（ズーキーパー）は、[青木幸子](https://ja.wikipedia.org/wiki/青木幸子 "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[イブニング](../Page/イブニング.md "wikilink")』（[講談社](../Page/講談社.md "wikilink")）において、[2006年](../Page/2006年.md "wikilink")3月28日（2006年No.08）から[2009年](../Page/2009年.md "wikilink")6月22日（2009年No.14）まで連載された。全8巻。
 
 ## 内容
 
@@ -100,12 +100,12 @@
   - 第4巻（2007年10月23日発売）
       - 第27話【イベント】
       - 第28話【象を飼う理由】
-      - 第29話【幻の動物\!?】[ニホンオオカミ](https://ja.wikipedia.org/wiki/ニホンオオカミ "wikilink")編
+      - 第29話【幻の動物\!?】[ニホンオオカミ](../Page/ニホンオオカミ.md "wikilink")編
       - 第30話【幻を追え\!】
       - 第31話【能力を発揮せよ\!】
       - 第32話【不自然な熱源】
       - 第33話【幻の正体】
-      - 第34話【感染症の恐怖】[タヌキ](https://ja.wikipedia.org/wiki/タヌキ "wikilink")&[コモン・マーモセット](https://ja.wikipedia.org/wiki/コモン・マーモセット "wikilink")編
+      - 第34話【感染症の恐怖】[タヌキ](../Page/タヌキ.md "wikilink")&[コモン・マーモセット](https://ja.wikipedia.org/wiki/コモン・マーモセット "wikilink")編
       - 第35話【園川の過去】
       - 特別付録 うろうろゆらゆら
   - 第5巻（2008年3月21日発売）

@@ -1,7 +1,7 @@
 > この記事は[HIGH KICKS](https://ja.wikipedia.org/wiki/HIGH_KICKS)から翻訳されています。
 
 
-**HIGH KICKS**（ハイ・キックス）は、[THE BLUE HEARTSの](https://ja.wikipedia.org/wiki/THE_BLUE_HEARTS "wikilink")5thアルバムである。
+**HIGH KICKS**（ハイ・キックス）は、[THE BLUE HEARTSの](../Page/THE_BLUE_HEARTS.md "wikilink")5thアルバムである。
 
 ## 解説
 
@@ -14,7 +14,7 @@
 ## 収録曲
 
 1.  **皆殺しのメロディ**
-    （[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・[作曲](../Page/作曲.md "wikilink")：[甲本ヒロト](../Page/甲本ヒロト.md "wikilink")）
+    （[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")：[甲本ヒロト](../Page/甲本ヒロト.md "wikilink")）
       -
         「HIGH KICK TOUR」の一曲目に使用された。
 2.  **M・O・N・K・E・Y**
@@ -28,10 +28,10 @@
 4.  **[あの娘にタッチ](../Page/あの娘にタッチ.md "wikilink")**
     （作詞・作曲：甲本ヒロト）
       -
-        シングルカットされている。[PVは](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")[ニューヨーク](../Page/ニューヨーク.md "wikilink")で撮影された。
+        シングルカットされている。[PVは](../Page/ミュージック・ビデオ.md "wikilink")[ニューヨーク](../Page/ニューヨーク.md "wikilink")で撮影された。
         ライブでの曲紹介のときには「アソコが…」というのがお決まりだった。
 5.  **ホームラン**
-    （作詞・作曲：[真島昌利](https://ja.wikipedia.org/wiki/真島昌利 "wikilink")）
+    （作詞・作曲：[真島昌利](../Page/真島昌利.md "wikilink")）
       -
         ライブで一度も演奏されなかった数少ない曲の中の一曲。真島いわく「（当時流行っていた）[ノストラダムスや死後の世界を気にするより](../Page/ノストラダムスの大予言.md "wikilink")、今を生きる事の方が大切」というメッセージを込めているという。「隣の[グラウンド](https://ja.wikipedia.org/wiki/グラウンド "wikilink")で[ガキが野球をしていて](../Page/子供.md "wikilink")、この中に21世紀（未来）の[ONがいるんだなって考える方が健康的](https://ja.wikipedia.org/wiki/ON砲 "wikilink")。楽しいことだ」と。
 6.  **泣かないで恋人よ**

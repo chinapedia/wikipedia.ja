@@ -5,7 +5,7 @@
 
 ## 蛍光X線元素分析法
 
-[LDAutoXRFPic.jpg](https://ja.wikipedia.org/wiki/File:LDAutoXRFPic.jpg "fig:LDAutoXRFPic.jpg") [XRFScan.jpg](https://ja.wikipedia.org/wiki/File:XRFScan.jpg "fig:XRFScan.jpg") [TubeSpectrum.jpg](https://ja.wikipedia.org/wiki/File:TubeSpectrum.jpg "fig:TubeSpectrum.jpg")ターゲットから発生するX線のスペクトル。連続X線とK線が見られる。\]\] 内殻・外殻のエネルギー差は元素ごとに固有であるので、蛍光X線のエネルギーも元素に固有である。このことから、蛍光X線のエネルギーを実験的に求めることにより、測定試料を構成する元素の分析を行うことができる。あるいはその強度を測定することにより測定試料中の目的元素の濃度を求めることができる。このような[元素分析](https://ja.wikipedia.org/wiki/元素分析 "wikilink")の手法を**蛍光X線元素分析法** (X-ray Fluorescence Analysis, **XRF**) と呼ぶ。
+[LDAutoXRFPic.jpg](https://ja.wikipedia.org/wiki/File:LDAutoXRFPic.jpg "fig:LDAutoXRFPic.jpg") [XRFScan.jpg](https://ja.wikipedia.org/wiki/File:XRFScan.jpg "fig:XRFScan.jpg") [TubeSpectrum.jpg](https://ja.wikipedia.org/wiki/File:TubeSpectrum.jpg "fig:TubeSpectrum.jpg")ターゲットから発生するX線のスペクトル。連続X線とK線が見られる。\]\] 内殻・外殻のエネルギー差は元素ごとに固有であるので、蛍光X線のエネルギーも元素に固有である。このことから、蛍光X線のエネルギーを実験的に求めることにより、測定試料を構成する元素の分析を行うことができる。あるいはその強度を測定することにより測定試料中の目的元素の濃度を求めることができる。このような[元素分析](../Page/元素分析.md "wikilink")の手法を**蛍光X線元素分析法** (X-ray Fluorescence Analysis, **XRF**) と呼ぶ。
 
 ### 特徴
 
@@ -21,7 +21,7 @@
 
 ### 分光方式
 
-市販装置は蛍光X線のエネルギー分析の方法の観点から、[エネルギー分散型蛍光X線分析装置](https://ja.wikipedia.org/wiki/エネルギー分散型X線分析 "wikilink") (Energy Dispersive X-ray Fluorescence Spectrometer) と[波長分散型蛍光X線分析装置](https://ja.wikipedia.org/wiki/波長分散型X線分析 "wikilink") (Wavelength Dispersive X-ray Flourescence Spectrometer) に大別される。前者は検出器自体がX線のエネルギー分析機能を持つ半導体検出器を利用し、後者は[ブラッグの法則](https://ja.wikipedia.org/wiki/ブラッグの法則 "wikilink")を利用した結晶分光器を用いてエネルギー分析を行う。前者は微小／微量試料の分析に向いておりまた複数元素の同時測定などに特徴あるが、エネルギー分解能は低いので多元素試料では定量性に欠ける場合もある\[1\]。一方、後者はエネルギー分解能が高いので特定元素の定量性には優れており応用が広いが、感度は前者に比べて低い。蛍光X線分析法は、鉱物や金属、生物学試料の組成分析に広く用いられ、製造現場での品質管理や材料科学における原材料分析、医療分野での標本試料分析など、元素分析の分野で広範に利用されている。
+市販装置は蛍光X線のエネルギー分析の方法の観点から、[エネルギー分散型蛍光X線分析装置](https://ja.wikipedia.org/wiki/エネルギー分散型X線分析 "wikilink") (Energy Dispersive X-ray Fluorescence Spectrometer) と[波長分散型蛍光X線分析装置](https://ja.wikipedia.org/wiki/波長分散型X線分析 "wikilink") (Wavelength Dispersive X-ray Flourescence Spectrometer) に大別される。前者は検出器自体がX線のエネルギー分析機能を持つ半導体検出器を利用し、後者は[ブラッグの法則](../Page/ブラッグの法則.md "wikilink")を利用した結晶分光器を用いてエネルギー分析を行う。前者は微小／微量試料の分析に向いておりまた複数元素の同時測定などに特徴あるが、エネルギー分解能は低いので多元素試料では定量性に欠ける場合もある\[1\]。一方、後者はエネルギー分解能が高いので特定元素の定量性には優れており応用が広いが、感度は前者に比べて低い。蛍光X線分析法は、鉱物や金属、生物学試料の組成分析に広く用いられ、製造現場での品質管理や材料科学における原材料分析、医療分野での標本試料分析など、元素分析の分野で広範に利用されている。
 
 ### 定量方法
 
@@ -33,7 +33,7 @@
 
 ### ハンドヘルドXRF
 
-従来の検出器は液体窒素で冷却する必要があったが、近年のシリコンドリフト検出器は非冷却式で低廉化が進み\[2\]、[スクラップ](https://ja.wikipedia.org/wiki/スクラップ "wikilink")の品質を分析するようなフィールドでの使用を前提とした携帯型の蛍光X線分析装置が$6000未満で市販される\[3\]。また、焦電結晶を用いる事で乾電池で作動するX線源も開発される\[4\]\[5\]。
+従来の検出器は液体窒素で冷却する必要があったが、近年のシリコンドリフト検出器は非冷却式で低廉化が進み\[2\]、[スクラップ](../Page/スクラップ.md "wikilink")の品質を分析するようなフィールドでの使用を前提とした携帯型の蛍光X線分析装置が$6000未満で市販される\[3\]。また、焦電結晶を用いる事で乾電池で作動するX線源も開発される\[4\]\[5\]。
 
 ## 用途
 
@@ -51,7 +51,7 @@
 
   - [特性X線](https://ja.wikipedia.org/wiki/特性X線 "wikilink")
   - [電子線マイクロアナライザ](https://ja.wikipedia.org/wiki/電子線マイクロアナライザ "wikilink")
-  - [元素分析](https://ja.wikipedia.org/wiki/元素分析 "wikilink")
+  - [元素分析](../Page/元素分析.md "wikilink")
   - [粒子線励起X線分析](https://ja.wikipedia.org/wiki/粒子線励起X線分析 "wikilink")
   - [αプロトンX線分光計](https://ja.wikipedia.org/wiki/αプロトンX線分光計 "wikilink")
   - [エネルギー分散型X線分析](https://ja.wikipedia.org/wiki/エネルギー分散型X線分析 "wikilink")

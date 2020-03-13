@@ -1,7 +1,7 @@
 > この記事は[ \(CLUB\)](https://ja.wikipedia.org/wiki/_\(CLUB\))から翻訳されています。
 
 
-**手紙** （てがみ）は[米米CLUB](../Page/米米CLUB.md "wikilink")の20枚目の[シングル](../Page/シングル.md "wikilink")。[1994年](../Page/1994年.md "wikilink")[11月10日](../Page/11月10日.md "wikilink")発売。発売元はSony Records（現[ソニー・ミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")）。
+**手紙** （てがみ）は[米米CLUB](../Page/米米CLUB.md "wikilink")の20枚目の[シングル](../Page/シングル.md "wikilink")。[1994年](../Page/1994年.md "wikilink")[11月10日](../Page/11月10日.md "wikilink")発売。発売元はSony Records（現[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")）。
 
 ## 解説
 

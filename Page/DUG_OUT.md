@@ -1,7 +1,7 @@
 > この記事は[DUG OUT](https://ja.wikipedia.org/wiki/DUG_OUT)から翻訳されています。
 
 
-**DUG OUT**（ダッグ・アウト）は、[THE BLUE HEARTSの](https://ja.wikipedia.org/wiki/THE_BLUE_HEARTS "wikilink")7thアルバムである。
+**DUG OUT**（ダッグ・アウト）は、[THE BLUE HEARTSの](../Page/THE_BLUE_HEARTS.md "wikilink")7thアルバムである。
 
 ## 解説
 
@@ -22,9 +22,9 @@
 ## 収録曲
 
 1.  **手紙**
-    （[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・[作曲](../Page/作曲.md "wikilink")：[真島昌利](https://ja.wikipedia.org/wiki/真島昌利 "wikilink")）
+    （[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")：[真島昌利](../Page/真島昌利.md "wikilink")）
       -
-        [オーケストラ](../Page/オーケストラ.md "wikilink")を使用した楽曲。甲本のボーカルは[ヴォコーダー](https://ja.wikipedia.org/wiki/ヴォコーダー "wikilink")で加工されている。
+        [オーケストラ](../Page/オーケストラ.md "wikilink")を使用した楽曲。甲本のボーカルは[ヴォコーダー](../Page/ヴォコーダー.md "wikilink")で加工されている。
         真島は自身のソロライブでこの曲を歌っている。
 2.  **緑のハッパ**
     （作詞・作曲：[甲本ヒロト](../Page/甲本ヒロト.md "wikilink")）
@@ -50,11 +50,11 @@
     （作詞・作曲：真島昌利）
       -
         「夕暮れ」のカップリング曲。
-        別バージョンが[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『[EAST WEST SIDE STORY](https://ja.wikipedia.org/wiki/EAST_WEST_SIDE_STORY "wikilink")』（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")）に収録されている。
+        別バージョンが[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[EAST WEST SIDE STORY](https://ja.wikipedia.org/wiki/EAST_WEST_SIDE_STORY "wikilink")』（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")）に収録されている。
 7.  **キング・オブ・ルーキー**
     （作詞・作曲：甲本ヒロト）
       -
-        ヒロトの弟の[甲本雅裕](https://ja.wikipedia.org/wiki/甲本雅裕 "wikilink")のことをヒロトなりに歌った曲である。
+        ヒロトの弟の[甲本雅裕](../Page/甲本雅裕.md "wikilink")のことをヒロトなりに歌った曲である。
 8.  **ムチとマント**
     （作詞・作曲：甲本ヒロト）
       -

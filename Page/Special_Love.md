@@ -1,7 +1,7 @@
 > この記事は[Special Love](https://ja.wikipedia.org/wiki/Special_Love)から翻訳されています。
 
 
-**Special Love**（スペシャル　ラブ）は[米米CLUB](../Page/米米CLUB.md "wikilink")の24枚目の[シングル](../Page/シングル.md "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[1月25日](../Page/1月25日.md "wikilink")発売。発売元はSony Records（現[ソニー・ミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")）。
+**Special Love**（スペシャル　ラブ）は[米米CLUB](../Page/米米CLUB.md "wikilink")の24枚目の[シングル](../Page/シングル.md "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[1月25日](../Page/1月25日.md "wikilink")発売。発売元はSony Records（現[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")）。
 
 ## 解説
 
@@ -27,10 +27,10 @@ c/wと合わせて1995年4月に脱退したギターのジョプリン得能（
 
   - [PUSHED RICE](../Page/PUSHED_RICE.md "wikilink") (\#1,2、\#1はアルバム・バージョン)
   - [HARVEST SINGLES 1992-1997](https://ja.wikipedia.org/wiki/HARVEST_SINGLES_1992-1997 "wikilink") (\#1)
-  - [STAR BOX](https://ja.wikipedia.org/wiki/STAR_BOX_\(米米CLUBのアルバム\) "wikilink") (\#1)
+  - [STAR BOX](../Page/STAR_BOX_\(米米CLUBのアルバム\).md "wikilink") (\#1)
 
 ## タイアップ
 
-  - Special Love:TBS系「[ランク王国](https://ja.wikipedia.org/wiki/ランク王国 "wikilink")」オープニングテーマ曲
+  - Special Love:TBS系「[ランク王国](../Page/ランク王国.md "wikilink")」オープニングテーマ曲
 
 [Category:米米CLUBの楽曲](https://ja.wikipedia.org/wiki/Category:米米CLUBの楽曲 "wikilink") [Category:1997年のシングル](https://ja.wikipedia.org/wiki/Category:1997年のシングル "wikilink") [Category:石井竜也が制作した楽曲](https://ja.wikipedia.org/wiki/Category:石井竜也が制作した楽曲 "wikilink") [Category:ト短調](https://ja.wikipedia.org/wiki/Category:ト短調 "wikilink") [Category:ランク王国](https://ja.wikipedia.org/wiki/Category:ランク王国 "wikilink") [Category:楽曲_す](https://ja.wikipedia.org/wiki/Category:楽曲_す "wikilink")

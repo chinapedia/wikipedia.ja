@@ -1,11 +1,11 @@
 > この記事は[STAR BOX \(CLUB\)](https://ja.wikipedia.org/wiki/STAR_BOX_\(CLUB\))から翻訳されています。
 
 
-『**STAR BOX**』(スター・ボックス)は[米米CLUB](../Page/米米CLUB.md "wikilink")の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。[1999年](../Page/1999年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink")発売。発売元はSony Records(現[ソニー・ミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink"))。
+『**STAR BOX**』(スター・ボックス)は[米米CLUB](../Page/米米CLUB.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink")発売。発売元はSony Records(現[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink"))。
 
 ## 解説
 
-Sony Records（現[ソニー・ミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")）が、[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")の廉価版として立てた企画「[STAR BOX](../Page/STAR_BOX.md "wikilink")」シリーズの米米CLUB版で、10万枚の限定生産。解散後のリリースかつレコード会社の企画版ということで、メンバーの意向は一切関わりのない作品であるが、米米CLUBの基本的な代表曲を通史的に網羅している。米米を追い続けた[渋谷陽一](https://ja.wikipedia.org/wiki/渋谷陽一 "wikilink")のインタビューが収録されている。
+Sony Records（現[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")）が、[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")の廉価版として立てた企画「[STAR BOX](../Page/STAR_BOX.md "wikilink")」シリーズの米米CLUB版で、10万枚の限定生産。解散後のリリースかつレコード会社の企画版ということで、メンバーの意向は一切関わりのない作品であるが、米米CLUBの基本的な代表曲を通史的に網羅している。米米を追い続けた[渋谷陽一](../Page/渋谷陽一.md "wikilink")のインタビューが収録されている。
 
 ## 収録曲
 
@@ -25,7 +25,7 @@ Sony Records（現[ソニー・ミュージックレコーズ](https://ja.wikipe
 8.  **[愛 Know マジック](https://ja.wikipedia.org/wiki/Octave_\(米米CLUBのアルバム\)#収録曲 "wikilink")**
 9.  **[愛してる](https://ja.wikipedia.org/wiki/君がいるだけで/愛してる "wikilink")**
       -
-        アルバム『[DECADE](https://ja.wikipedia.org/wiki/DECADE_\(米米CLUBのアルバム\) "wikilink")』収録のリミックスバージョンを収録。
+        アルバム『[DECADE](../Page/DECADE_\(米米CLUBのアルバム\).md "wikilink")』収録のリミックスバージョンを収録。
 10. **[愛はふしぎさ](../Page/愛はふしぎさ.md "wikilink")**
 11. **[ひとすじになれない](https://ja.wikipedia.org/wiki/ひとすじになれない "wikilink")**
       -

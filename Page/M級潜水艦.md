@@ -33,7 +33,7 @@
 <td><p>性能諸元</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/排水量" title="wikilink">排水量</a></p></td>
+<td><p><a href="../Page/排水量.md" title="wikilink">排水量</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>全長</p></td>
@@ -124,7 +124,7 @@
 ## 関連項目
 
   - [イギリス海軍艦艇一覧](../Page/イギリス海軍艦艇一覧.md "wikilink")
-  - [モニター艦](https://ja.wikipedia.org/wiki/モニター艦 "wikilink")
+  - [モニター艦](../Page/モニター艦.md "wikilink")
   - [スルクフ](https://ja.wikipedia.org/wiki/スルクフ "wikilink") - フランスで開発された砲撃潜水艦
 
 ## 参考図書

@@ -5,9 +5,9 @@
 
 ## 概要
 
-金曜深夜の情報番組『[WIN★](https://ja.wikipedia.org/wiki/WIN_\(テレビ番組\) "wikilink")』の放送枠縮小分を利用する形でスタートした[深夜番組](../Page/深夜番組.md "wikilink")で、1997年からホンダが参戦したCART（後の[チャンプカー・ワールド・シリーズ](../Page/チャンプカー・ワールド・シリーズ.md "wikilink")）に関する情報を中心に、[アメリカのモータースポーツとライフスタイル全般を紹介していた](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。また、出演者の[ヒロミ](../Page/ヒロミ.md "wikilink")がCARTレースなどに挑戦する企画も併せて行っていた。初期にはアメリカで[スカイダイビング](https://ja.wikipedia.org/wiki/スカイダイビング "wikilink")ロケを行ったことがあり、これが彼がスカイダイビングに興味を持つきっかけになった。
+金曜深夜の情報番組『[WIN★](../Page/WIN_\(テレビ番組\).md "wikilink")』の放送枠縮小分を利用する形でスタートした[深夜番組](../Page/深夜番組.md "wikilink")で、1997年からホンダが参戦したCART（後の[チャンプカー・ワールド・シリーズ](../Page/チャンプカー・ワールド・シリーズ.md "wikilink")）に関する情報を中心に、[アメリカのモータースポーツとライフスタイル全般を紹介していた](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。また、出演者の[ヒロミ](../Page/ヒロミ.md "wikilink")がCARTレースなどに挑戦する企画も併せて行っていた。初期にはアメリカで[スカイダイビング](../Page/スカイダイビング.md "wikilink")ロケを行ったことがあり、これが彼がスカイダイビングに興味を持つきっかけになった。
 
-当初は金曜深夜枠で放送されていたが、1998年秋の改編を機に木曜深夜枠へ移動した。また、これを機にタイトルを『U・S改』と改めた。改題後も引き続きCARTレースへの挑戦企画を放送し、さらには「日本テレビCARTファンクラブ」なるものを結成してCARTファンの拡大に努めるなど、その活動はますます本格化していった。ほかに、元スキーノルディック選手の[荻原次晴](https://ja.wikipedia.org/wiki/荻原次晴 "wikilink")が自転車で[オーストラリア](../Page/オーストラリア.md "wikilink")を横断する企画も実施していた。
+当初は金曜深夜枠で放送されていたが、1998年秋の改編を機に木曜深夜枠へ移動した。また、これを機にタイトルを『U・S改』と改めた。改題後も引き続きCARTレースへの挑戦企画を放送し、さらには「日本テレビCARTファンクラブ」なるものを結成してCARTファンの拡大に努めるなど、その活動はますます本格化していった。ほかに、元スキーノルディック選手の[荻原次晴](../Page/荻原次晴.md "wikilink")が自転車で[オーストラリア](../Page/オーストラリア.md "wikilink")を横断する企画も実施していた。
 
 ## 放送時間
 
@@ -29,17 +29,17 @@
 
   - [ヒロミ](../Page/ヒロミ.md "wikilink")
   - キャサリン
-  - [服部尚貴](https://ja.wikipedia.org/wiki/服部尚貴 "wikilink")
+  - [服部尚貴](../Page/服部尚貴.md "wikilink")
   - [大原かおり](https://ja.wikipedia.org/wiki/大原かおり "wikilink")
 
 ### U・S改
 
   - ヒロミ
   - [池田笑子](https://ja.wikipedia.org/wiki/池田笑子 "wikilink")
-  - [荻原次晴](https://ja.wikipedia.org/wiki/荻原次晴 "wikilink")
+  - [荻原次晴](../Page/荻原次晴.md "wikilink")
   - [冴場都夢](../Page/冴場都夢.md "wikilink")
   - 日本テレビCARTガールズ
-  - ほか、CARTレース会場での公開収録では[安西ひろこ](https://ja.wikipedia.org/wiki/安西ひろこ "wikilink")や[BOOMER](https://ja.wikipedia.org/wiki/BOOMER "wikilink")らが出演。
+  - ほか、CARTレース会場での公開収録では[安西ひろこ](https://ja.wikipedia.org/wiki/安西ひろこ "wikilink")や[BOOMER](../Page/BOOMER.md "wikilink")らが出演。
 
 ## スタッフ
 

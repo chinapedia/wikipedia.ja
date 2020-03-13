@@ -1,7 +1,7 @@
 > この記事は[Aluto](https://ja.wikipedia.org/wiki/Aluto)から翻訳されています。
 
 
-（アルト）は、二人組[音楽ユニット](../Page/バンド_\(音楽\).md "wikilink")。藤田大吾は[2000年](../Page/2000年.md "wikilink")頃より[下北沢](../Page/下北沢.md "wikilink")などで[路上ライブ](../Page/路上ライブ.md "wikilink")にて活動を開始。[2003年](../Page/2003年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")自主制作限定CD「道」を発売。2000枚を完売。また[2004年](../Page/2004年.md "wikilink")には[NHKのTV番組](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[オンエアバトル熱唱編](https://ja.wikipedia.org/wiki/熱唱オンエアバトル "wikilink")』にも出演する。[スターチャイルドプロダクション](https://ja.wikipedia.org/wiki/スターチャイルドプロダクション "wikilink")所属（アニメ系の同名プロダクションとは無関係）。
+（アルト）は、二人組[音楽ユニット](../Page/バンド_\(音楽\).md "wikilink")。藤田大吾は[2000年](../Page/2000年.md "wikilink")頃より[下北沢](../Page/下北沢.md "wikilink")などで[路上ライブ](../Page/路上ライブ.md "wikilink")にて活動を開始。[2003年](../Page/2003年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")自主制作限定CD「道」を発売。2000枚を完売。また[2004年](../Page/2004年.md "wikilink")には[NHKのTV番組](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[オンエアバトル熱唱編](../Page/熱唱オンエアバトル.md "wikilink")』にも出演する。[スターチャイルドプロダクション](https://ja.wikipedia.org/wiki/スターチャイルドプロダクション "wikilink")所属（アニメ系の同名プロダクションとは無関係）。
 
 2006年10月に1枚目のアルバムとなる『五文字の糸』を発売し、同年11月に行われたニッポン放送主催のイベントのテーマソングとして、『泣いて笑って』が採用された。
 
@@ -15,21 +15,21 @@
 
 **藤田 大吾**（ふじた だいご、 - ）[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")
 
-  - [福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")出身、[血液型はB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")
+  - [福岡県](../Page/福岡県.md "wikilink")出身、[血液型はB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")
   - 小倉小学校卒、思永中学校卒、[福岡県立小倉南高等学校](https://ja.wikipedia.org/wiki/福岡県立小倉南高等学校 "wikilink")卒
 
 **佐藤 帆乃佳**（さとう ほのか、 - ）[ヴァイオリン](../Page/ヴァイオリン.md "wikilink")、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
 
-  - [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身、血液型はO型
+  - [東京都](../Page/東京都.md "wikilink")出身、血液型はO型
   - メンバー2人とも、自他共に認めるかなりのマイペース人間だが、佐藤のマイペースぶりは藤田もたびたび驚くほどであるという。
-  - [国立音楽大学](https://ja.wikipedia.org/wiki/国立音楽大学 "wikilink")卒
+  - [国立音楽大学](../Page/国立音楽大学.md "wikilink")卒
   - 2010年6月9日に「[Wedding Kiss](https://ja.wikipedia.org/wiki/Wedding_Kiss_\(帆乃佳のアルバム\) "wikilink")」でソロデビュー。
 
 ## ディスコグラフィ
 
 ### インディーズシングル
 
-1.  道（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink")、インディーズ）－1000枚限定生産だったが、会場のみの限定で再発売される事が決定
+1.  道（[2006年](../Page/2006年.md "wikilink")[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink")、インディーズ）－1000枚限定生産だったが、会場のみの限定で再発売される事が決定
 
 ### メジャーシングル
 
@@ -76,7 +76,7 @@
 <li>愛に手ふれて
 <dl>
 <dt></dt>
-<dd><a href="https://ja.wikipedia.org/wiki/千葉テレビ放送" title="wikilink">千葉テレビ</a>『BIG TIME TELEVISION』エンディングテーマ
+<dd><a href="../Page/千葉テレビ放送.md" title="wikilink">千葉テレビ</a>『BIG TIME TELEVISION』エンディングテーマ
 </dd>
 </dl></li>
 <li>粉雪舞って</li>
@@ -93,12 +93,12 @@
 <td><p>AICL-1945</p></td>
 <td><ol>
 <li>未来空想</li>
-<li><a href="https://ja.wikipedia.org/wiki/歌うたいのバラッド" title="wikilink">歌うたいのバラッド</a>(<a href="https://ja.wikipedia.org/wiki/斉藤和義" title="wikilink">斉藤和義</a>のカバー)</li>
+<li><a href="https://ja.wikipedia.org/wiki/歌うたいのバラッド" title="wikilink">歌うたいのバラッド</a>(<a href="../Page/斉藤和義.md" title="wikilink">斉藤和義</a>のカバー)</li>
 <li>悲しき体温</li>
 <li>PARIS
 <dl>
 <dt></dt>
-<dd><a href="../Page/J-WAVE.md" title="wikilink">J-WAVE</a>『<a href="https://ja.wikipedia.org/wiki/BOOM_TOWN" title="wikilink">BOOM TOWN</a>』内の「<a href="https://ja.wikipedia.org/wiki/Blendy_Heart_Strings" title="wikilink">Blendy Heart Strings</a>」テーマソング
+<dd><a href="../Page/J-WAVE.md" title="wikilink">J-WAVE</a>『<a href="../Page/BOOM_TOWN.md" title="wikilink">BOOM TOWN</a>』内の「<a href="https://ja.wikipedia.org/wiki/Blendy_Heart_Strings" title="wikilink">Blendy Heart Strings</a>」テーマソング
 </dd>
 </dl></li>
 </ol></td>
@@ -217,7 +217,7 @@ AICL-2131:通常盤</p></td>
 <li>海の見える街</li>
 <li>Over The Rainbow</li>
 <li>あなたにしかできないこと feat.<a href="https://ja.wikipedia.org/wiki/タイナカサチ" title="wikilink">タイナカサチ</a></li>
-<li>Sweet feat.<a href="https://ja.wikipedia.org/wiki/Rie_fu" title="wikilink">Rie fu</a></li>
+<li>Sweet feat.<a href="../Page/Rie_fu.md" title="wikilink">Rie fu</a></li>
 <li>a cliff sleeps in the forest</li>
 <li>Don’t Cry feat.Rie fu</li>
 <li>Somewhere Out There feat.<a href="https://ja.wikipedia.org/wiki/たむらぱん" title="wikilink">たむらぱん</a></li>
@@ -300,7 +300,7 @@ AICL-2131:通常盤</p></td>
 
 ### aluto
 
-  - 2007年07月28日 - [情熱大陸](https://ja.wikipedia.org/wiki/情熱大陸 "wikilink") SPECIAL LIVE SUMMER TIME BONANZA'07
+  - 2007年07月28日 - [情熱大陸](../Page/情熱大陸.md "wikilink") SPECIAL LIVE SUMMER TIME BONANZA'07
   - 2007年08月24日 - Slow Music Slow LIVE '07
   - 2007年10月27日 - MINAMI WHEEL 2007
   - 2008年11月01日 - MINAMI WHEEL 2008

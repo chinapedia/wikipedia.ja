@@ -1,19 +1,19 @@
 > この記事は[SOTA](https://ja.wikipedia.org/wiki/SOTA)から翻訳されています。
 
 
-**SOTA**（そーた、本名：菅原壮太（すがはら そうた）、[1979年](../Page/1979年.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のマルチクリエイター。[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身。
+**SOTA**（そーた、本名：菅原壮太（すがはら そうた）、[1979年](../Page/1979年.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のマルチクリエイター。[東京都](../Page/東京都.md "wikilink")出身。
 
-近年は“**菅原そうた**”名義で活動する事が多く、作品に[クレジットされる役職も企画](https://ja.wikipedia.org/wiki/クレジットタイトル "wikilink")・（[3DCGアニメ](https://ja.wikipedia.org/wiki/コンピュータアニメーション "wikilink")）監督・構成・脚本・キャラクターデザイン・グラフィックデザイナー・声優・映像制作・編集など多岐にわたる。[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")だったり、ミュージックバンドに所属していた時期もある。（詳しい遍歴は下記“人物”の節を参照）
+近年は“**菅原そうた**”名義で活動する事が多く、作品に[クレジットされる役職も企画](../Page/クレジットタイトル.md "wikilink")・（[3DCGアニメ](https://ja.wikipedia.org/wiki/コンピュータアニメーション "wikilink")）監督・構成・脚本・キャラクターデザイン・グラフィックデザイナー・声優・映像制作・編集など多岐にわたる。[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")だったり、ミュージックバンドに所属していた時期もある。（詳しい遍歴は下記“人物”の節を参照）
 
 ## 人物
 
-19歳で漫画家デビュー。週刊誌『[SPA\!](https://ja.wikipedia.org/wiki/SPA! "wikilink")』([扶桑社](../Page/扶桑社.md "wikilink"))にて、CG漫画「みんなのトニオちゃん」を2年間連載。
+19歳で漫画家デビュー。週刊誌『[SPA\!](../Page/SPA!.md "wikilink")』([扶桑社](../Page/扶桑社.md "wikilink"))にて、CG漫画「みんなのトニオちゃん」を2年間連載。
 
-音楽のジャケットデザイン・作詞・作曲・[MV監督](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")・[VJや](https://ja.wikipedia.org/wiki/ビデオジョッキー "wikilink")、TV番組の[マスコットキャラクター](https://ja.wikipedia.org/wiki/マスコットキャラクター "wikilink")デザイン・オープニング＆[ジングル](https://ja.wikipedia.org/wiki/ジングル "wikilink")制作など活動を広げ、2001年にVJ作品でMOOK01賞を受賞。
+音楽のジャケットデザイン・作詞・作曲・[MV監督](../Page/ミュージック・ビデオ.md "wikilink")・[VJや](../Page/ビデオジョッキー.md "wikilink")、TV番組の[マスコットキャラクター](https://ja.wikipedia.org/wiki/マスコットキャラクター "wikilink")デザイン・オープニング＆[ジングル](https://ja.wikipedia.org/wiki/ジングル "wikilink")制作など活動を広げ、2001年にVJ作品でMOOK01賞を受賞。
 
 2004年には自身の作品集映画『SOTAWORLD』を単館上映した。
 
-[映像作家](../Page/映像作家.md "wikilink")の[大月壮](../Page/大月壮.md "wikilink")・[牧鉄兵](https://ja.wikipedia.org/wiki/牧鉄兵 "wikilink")と共に、[マンガ](https://ja.wikipedia.org/wiki/マンガ "wikilink")家[タナカカツキ](https://ja.wikipedia.org/wiki/タナカカツキ "wikilink")主催による「カツキ塾」に所属していた経歴を持ち、2006年に行われたイベント「バカCGの真実」では、タナカカツキ・[伊藤ガビン](../Page/伊藤ガビン.md "wikilink")により「バカCG作家」と認定された。
+[映像作家](../Page/映像作家.md "wikilink")の[大月壮](../Page/大月壮.md "wikilink")・[牧鉄兵](https://ja.wikipedia.org/wiki/牧鉄兵 "wikilink")と共に、[マンガ](https://ja.wikipedia.org/wiki/マンガ "wikilink")家[タナカカツキ](../Page/タナカカツキ.md "wikilink")主催による「カツキ塾」に所属していた経歴を持ち、2006年に行われたイベント「バカCGの真実」では、タナカカツキ・[伊藤ガビン](../Page/伊藤ガビン.md "wikilink")により「バカCG作家」と認定された。
 
 2008年には、大月壮・[長添雅嗣](https://ja.wikipedia.org/wiki/長添雅嗣 "wikilink")・[清水康彦](../Page/清水康彦.md "wikilink")・[中角壮一](https://ja.wikipedia.org/wiki/中角壮一 "wikilink")と、VJチーム集団「MOVIE BOYZ」\[1\]を結成。
 
@@ -23,7 +23,7 @@
 
 近年は、3DCGを駆使したTVアニメやTVCMなどの映像作品を数多く手掛けている。
 
-父は歌手の[すがはらやすのり](https://ja.wikipedia.org/wiki/すがはらやすのり "wikilink")、母は[食育](https://ja.wikipedia.org/wiki/食育 "wikilink")・[マイナスイオン](../Page/マイナスイオン.md "wikilink")等の研究者[菅原明子](../Page/菅原明子.md "wikilink")、兄は[B-DASH](https://ja.wikipedia.org/wiki/B-DASH "wikilink")のヴォーカリスト兼ギタリスト[GONGON](https://ja.wikipedia.org/wiki/GONGON "wikilink")。妹は[実業家](../Page/実業家.md "wikilink")の[菅原麗子](https://ja.wikipedia.org/wiki/菅原麗子 "wikilink")。
+父は歌手の[すがはらやすのり](https://ja.wikipedia.org/wiki/すがはらやすのり "wikilink")、母は[食育](https://ja.wikipedia.org/wiki/食育 "wikilink")・[マイナスイオン](../Page/マイナスイオン.md "wikilink")等の研究者[菅原明子](../Page/菅原明子.md "wikilink")、兄は[B-DASH](../Page/B-DASH.md "wikilink")のヴォーカリスト兼ギタリスト[GONGON](../Page/GONGON.md "wikilink")。妹は[実業家](../Page/実業家.md "wikilink")の[菅原麗子](../Page/菅原麗子.md "wikilink")。
 
 B-DASHの前身バンド[HAGUKI](https://ja.wikipedia.org/wiki/HAGUKI "wikilink")に所属していた経歴があり、現在もB-DASHのゴールデンメンバーとしてクレジットされている。
 
@@ -42,7 +42,7 @@ B-DASHの前身バンド[HAGUKI](https://ja.wikipedia.org/wiki/HAGUKI "wikilink"
 
   - TVアニメ
 
-:\* オリジナルCGアニメ『みんなのトニオちゃん』（[MUSIC ON\! TV](https://ja.wikipedia.org/wiki/MUSIC_ON!_TV "wikilink")）監督・脚本・編集・キャラクターデザイン（2004年）
+:\* オリジナルCGアニメ『みんなのトニオちゃん』（[MUSIC ON\! TV](../Page/MUSIC_ON!_TV.md "wikilink")）監督・脚本・編集・キャラクターデザイン（2004年）
 
 :\* 『[ネットミラクルショッピング](https://ja.wikipedia.org/wiki/ネットミラクルショッピング "wikilink")』（[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")）企画・構成・監督・脚本・編集・キャラクターデザイン・キャスト（2008年）
 
@@ -118,7 +118,7 @@ B-DASHの前身バンド[HAGUKI](https://ja.wikipedia.org/wiki/HAGUKI "wikilink"
 
 :\* B-DASH『ENDLESS CIRCLE』』『保釈王』『目覚めよニッポン\!』『ハーコー』監督・映像制作
 
-:\* [YOUR SONG IS GOOD](../Page/YOUR_SONG_IS_GOOD.md "wikilink")×[BEAT CRUSADERS](https://ja.wikipedia.org/wiki/BEAT_CRUSADERS "wikilink")『FOOL GROOVE』監督・タナカカツキ×牧鉄兵×菅原そうた
+:\* [YOUR SONG IS GOOD](../Page/YOUR_SONG_IS_GOOD.md "wikilink")×[BEAT CRUSADERS](../Page/BEAT_CRUSADERS.md "wikilink")『FOOL GROOVE』監督・タナカカツキ×牧鉄兵×菅原そうた
 
 :\* [supercell](https://ja.wikipedia.org/wiki/supercell "wikilink") feat. [初音ミク](../Page/初音ミク.md "wikilink")『supercell』([GT music](../Page/ソニー・ミュージックダイレクト.md "wikilink"))収録曲『メルト』監督・ひのきのぼぅいず(清水康彦×菅原そうた)×[GONZO](../Page/ゴンゾ.md "wikilink")（2009年）
 
@@ -321,7 +321,7 @@ B-DASHの前身バンド[HAGUKI](https://ja.wikipedia.org/wiki/HAGUKI "wikilink"
   - 2008年9月20日 @shop btf「[森チャック](../Page/森チャック.md "wikilink")×菅原そうたトークショー」
   - 2008年12月17日 @UPLINK-FACTORY「あかるい世界発売記念 特別上映会&トーク」
   - 2008年12月22日 @SECO VJ出演(MOVIE BOYZ)
-  - 2009年2月12日 @SECO「[フェリス女学院大学](https://ja.wikipedia.org/wiki/フェリス女学院大学 "wikilink")主催『Upup』」VJ出演(MOVIE BOYZ)
+  - 2009年2月12日 @SECO「[フェリス女学院大学](../Page/フェリス女学院大学.md "wikilink")主催『Upup』」VJ出演(MOVIE BOYZ)
   - 2009年2月20日 @東京「アフターエフェクトナイト vol.02」アフターエフェクトナイト公認研究員としてタナカカツキと共演\[9\]
   - 2009年2月27日 @大阪「アフターエフェクトナイト vol.02」アフターエフェクトナイト公認研究員としてタナカカツキと共演\[10\]
   - 2009年2月18日 @シアターN渋谷「渋谷笑福漫動画祭（しぶやしょーとあにめふぇすてぃばる）2009」シークレットゲスト出演([DEVILROBOTS](https://ja.wikipedia.org/wiki/DEVILROBOTS "wikilink")×琴乃×菅原そうた)
@@ -349,7 +349,7 @@ B-DASHの前身バンド[HAGUKI](https://ja.wikipedia.org/wiki/HAGUKI "wikilink"
   - 2012年1月21日 @NADiff a/p/a/r/t「エディション∞」[加藤翼](../Page/加藤翼.md "wikilink")・[松田修](../Page/松田修.md "wikilink")DVDリリースイベント ゲスト出演
   - 2012年2月24日 @ニコファーレ「MMD杯inニコファーレ」第8回[MMD杯の選考委員に任命され](https://ja.wikipedia.org/wiki/MikuMikuDance "wikilink")、『MMD杯inニコファーレ』に[サンリオウェーブ](https://ja.wikipedia.org/wiki/サンリオウェーブ "wikilink")・[わかむらP](https://ja.wikipedia.org/wiki/わかむらP "wikilink")と共に、ゲスト出演\[12\]
   - 2012年8月5日 @SPACE雑遊 ミナモザ第13回公演「国民の生活」上演後ポストパフォーマンストーク「3000円相当のモノ博覧会」 ゲスト出演
-  - 2013年5月6日 @新宿ロフトプラスワン [ニンポップ](https://ja.wikipedia.org/wiki/ニンポップ "wikilink")企画、[土屋敏男](https://ja.wikipedia.org/wiki/土屋敏男 "wikilink")×倉本美津留「アートと笑いの境界線！」vol.01 [会田誠](https://ja.wikipedia.org/wiki/会田誠 "wikilink")・[園子温](https://ja.wikipedia.org/wiki/園子温 "wikilink")・[水道橋博士](https://ja.wikipedia.org/wiki/水道橋博士 "wikilink")・[片桐仁](../Page/片桐仁.md "wikilink")・大月壮・[鈴木康広](https://ja.wikipedia.org/wiki/鈴木康広 "wikilink")・新野圭二郎と共に、ゲスト出演
+  - 2013年5月6日 @新宿ロフトプラスワン [ニンポップ](https://ja.wikipedia.org/wiki/ニンポップ "wikilink")企画、[土屋敏男](../Page/土屋敏男.md "wikilink")×倉本美津留「アートと笑いの境界線！」vol.01 [会田誠](../Page/会田誠.md "wikilink")・[園子温](../Page/園子温.md "wikilink")・[水道橋博士](../Page/水道橋博士.md "wikilink")・[片桐仁](../Page/片桐仁.md "wikilink")・大月壮・[鈴木康広](https://ja.wikipedia.org/wiki/鈴木康広 "wikilink")・新野圭二郎と共に、ゲスト出演
   - 2013年10月17日 @Super Deluxe「スナック永子 vol.44 8周年＆ファイナル！」VJ出演
   - 2014年9月27日 @ニッショーホール「ツギアニ！2014秋」テレビアニメ『なりヒロwww』と『Hi☆sCoool\! セハガール』の監督として出演
   - 2015年2月15日 @ベルサール秋葉原「セハガガ学園～脳天直撃！夢の音速ポポポン祭り～」トークゲスト出演

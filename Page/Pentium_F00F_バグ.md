@@ -1,7 +1,7 @@
 > この記事は[Pentium F00F ](https://ja.wikipedia.org/wiki/Pentium_F00F_)から翻訳されています。
 
 
-**f00f**("foof"と発音する)は、[Intelの](https://ja.wikipedia.org/wiki/インテル "wikilink")[Pentium](../Page/Intel_Pentium_\(1993年\).md "wikilink")、Pentium [MMX](https://ja.wikipedia.org/wiki/MMX "wikilink")、Pentium[オーバードライブプロセッサ](../Page/オーバードライブプロセッサ.md "wikilink")の、ある世代以前のモデルにある、公開されている設計上の不具合の通称である。問題\[1\]を起こす[機械語](../Page/機械語.md "wikilink")バイト列「f0 0f c7 c8」の先頭2バイトの[16進表現に由来する](../Page/十六進法.md "wikilink")。
+**f00f**("foof"と発音する)は、[Intelの](https://ja.wikipedia.org/wiki/インテル "wikilink")[Pentium](../Page/Intel_Pentium_\(1993年\).md "wikilink")、Pentium [MMX](../Page/MMX.md "wikilink")、Pentium[オーバードライブプロセッサ](../Page/オーバードライブプロセッサ.md "wikilink")の、ある世代以前のモデルにある、公開されている設計上の不具合の通称である。問題\[1\]を起こす[機械語](../Page/機械語.md "wikilink")バイト列「f0 0f c7 c8」の先頭2バイトの[16進表現に由来する](../Page/十六進法.md "wikilink")。
 
 Intelはこの問題を「ロックされたCMPXCHG8B インストラクションでの不正なオペランド」と呼んでいる。
 

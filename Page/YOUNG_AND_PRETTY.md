@@ -1,15 +1,15 @@
 > この記事は[YOUNG AND PRETTY](https://ja.wikipedia.org/wiki/YOUNG_AND_PRETTY)から翻訳されています。
 
 
-**YOUNG AND PRETTY**（ヤング・アンド・プリティ）は、日本のロックバンド、[THE BLUE HEARTSの](https://ja.wikipedia.org/wiki/THE_BLUE_HEARTS "wikilink")2枚目のアルバムである。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[11月21日](../Page/11月21日.md "wikilink")にメルダックよりリリースされた。
+**YOUNG AND PRETTY**（ヤング・アンド・プリティ）は、日本のロックバンド、[THE BLUE HEARTSの](../Page/THE_BLUE_HEARTS.md "wikilink")2枚目のアルバムである。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[11月21日](../Page/11月21日.md "wikilink")にメルダックよりリリースされた。
 
 [2007年](../Page/2007年.md "wikilink")に、「アナログジャケット完全復刻\!」として年内限定発売（再発）された。その後[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に、25周年企画の一環で、再び期間限定で再発が決まった。
 
-[2011年](../Page/2011年.md "wikilink")[1月12日](../Page/1月12日.md "wikilink")に、結成25周年記念として、メルダック時代のアルバム3作品（[THE BLUE HEARTS](../Page/THE_BLUE_HEARTS_\(アルバム\).md "wikilink")、**YOUNG AND PRETTY**、[TRAIN-TRAIN (アルバム)](https://ja.wikipedia.org/wiki/TRAIN-TRAIN_\(アルバム\) "wikilink")）がデジタルリマスタリングされ、発売された。メルダック作品以降の作品はデジタルリマスタリングされて発売されたが、メルダック作品は長年リマスタリングされなかったため、ファンにとっては待望の一枚である。
+[2011年](../Page/2011年.md "wikilink")[1月12日](../Page/1月12日.md "wikilink")に、結成25周年記念として、メルダック時代のアルバム3作品（[THE BLUE HEARTS](../Page/THE_BLUE_HEARTS_\(アルバム\).md "wikilink")、**YOUNG AND PRETTY**、[TRAIN-TRAIN (アルバム)](../Page/TRAIN-TRAIN_\(アルバム\).md "wikilink")）がデジタルリマスタリングされ、発売された。メルダック作品以降の作品はデジタルリマスタリングされて発売されたが、メルダック作品は長年リマスタリングされなかったため、ファンにとっては待望の一枚である。
 
 ## 内容
 
-収録曲の約半分は、アマチュア時代からの曲。前作との違いはプロデューサーに[佐久間正英](https://ja.wikipedia.org/wiki/佐久間正英 "wikilink")を起用、真島がメインボーカルを務める曲が初収録、甲本の[ブルースハープの使用曲が多いこと](https://ja.wikipedia.org/wiki/ハーモニカ "wikilink")、そして[キーボードの導入などが挙げられる](../Page/キーボード_\(楽器\).md "wikilink")。
+収録曲の約半分は、アマチュア時代からの曲。前作との違いはプロデューサーに[佐久間正英](../Page/佐久間正英.md "wikilink")を起用、真島がメインボーカルを務める曲が初収録、甲本の[ブルースハープの使用曲が多いこと](../Page/ハーモニカ.md "wikilink")、そして[キーボードの導入などが挙げられる](../Page/キーボード_\(楽器\).md "wikilink")。
 
 このアルバムのための新曲は、「遠くまで」「星をください」「英雄にあこがれて」の3曲。収録予定が告知されていたインディーズ時代からの楽曲「窓をあけよう」「ほんの少しだけ」は収録を外され、そのまま未発表となった。（窓をあけようは[THE OSAKA BULL（S）のアルバムにカバーとして収録されている](https://ja.wikipedia.org/wiki/THE_OSAKA_BULL（S） "wikilink")。）
 
@@ -18,9 +18,9 @@
 ## 収録曲
 
 1.  **[キスしてほしい (トゥー・トゥー・トゥー)](../Page/キスしてほしい.md "wikilink")** (3:15)
-    （[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・[作曲](../Page/作曲.md "wikilink")：[甲本ヒロト](../Page/甲本ヒロト.md "wikilink") / 編曲：THE BLUE HEARTS）
+    （[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")：[甲本ヒロト](../Page/甲本ヒロト.md "wikilink") / 編曲：THE BLUE HEARTS）
 2.  **ロクデナシII（ギター弾きに部屋は無し）** (2:15)
-    （作詞・作曲：[真島昌利](https://ja.wikipedia.org/wiki/真島昌利 "wikilink") / 編曲：THE BLUE HEARTS）
+    （作詞・作曲：[真島昌利](../Page/真島昌利.md "wikilink") / 編曲：THE BLUE HEARTS）
       -
         歌詞は真島が部屋を探していた際、不動産屋に尽く断られたという実話が元になっている。
         1986年7月4日日比谷野音でのライブで初披露。
@@ -73,14 +73,14 @@
 
 ## 参加ミュージシャン
 
-  - [甲本ヒロト](../Page/甲本ヒロト.md "wikilink") - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ブルースハープ](https://ja.wikipedia.org/wiki/ハーモニカ "wikilink")
-  - [真島昌利](https://ja.wikipedia.org/wiki/真島昌利 "wikilink") - [ギター](../Page/ギター.md "wikilink")、ボーカル (\#6,\#12)、コーラス
-  - [河口純之助](../Page/河口純之助.md "wikilink") - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - [甲本ヒロト](../Page/甲本ヒロト.md "wikilink") - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ブルースハープ](../Page/ハーモニカ.md "wikilink")
+  - [真島昌利](../Page/真島昌利.md "wikilink") - [ギター](../Page/ギター.md "wikilink")、ボーカル (\#6,\#12)、コーラス
+  - [河口純之助](../Page/河口純之助.md "wikilink") - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
   - [梶原徹也](../Page/梶原徹也.md "wikilink") - [ドラム](../Page/ドラムセット.md "wikilink")
 
 <!-- end list -->
 
-  - [佐久間正英](https://ja.wikipedia.org/wiki/佐久間正英 "wikilink") - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")
+  - [佐久間正英](../Page/佐久間正英.md "wikilink") - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")
 
 ## 脚注
 

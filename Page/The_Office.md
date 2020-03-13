@@ -3,15 +3,15 @@
 
 『**The Office**』は、[2001年](../Page/2001年.md "wikilink")と[2002年](../Page/2002年.md "wikilink")に[BBCで放送された](../Page/英国放送協会.md "wikilink")[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")のテレビドラマ。
 
-イギリスでは社会現象を巻き起こしたドラマであり、その人気に応えて[2003年](../Page/2003年.md "wikilink")にスペシャル版も放送された。[NBC](https://ja.wikipedia.org/wiki/NBC "wikilink")が[リメイク](https://ja.wikipedia.org/wiki/リメイク "wikilink")権を買い取り、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")よりアメリカ人俳優を起用したアメリカ版が放送されている。こちらも[エミー賞](https://ja.wikipedia.org/wiki/エミー賞 "wikilink")作品賞などを受賞し、高評価を得ている。
+イギリスでは社会現象を巻き起こしたドラマであり、その人気に応えて[2003年](../Page/2003年.md "wikilink")にスペシャル版も放送された。[NBC](../Page/NBC.md "wikilink")が[リメイク](../Page/リメイク.md "wikilink")権を買い取り、[2005年](../Page/2005年.md "wikilink")よりアメリカ人俳優を起用したアメリカ版が放送されている。こちらも[エミー賞](../Page/エミー賞.md "wikilink")作品賞などを受賞し、高評価を得ている。
 
 ## 概説
 
-イギリスのロンドン郊外の町[スラウ](https://ja.wikipedia.org/wiki/スラウ "wikilink")にある製紙会社ウェーナム・ホッグの支社を舞台に、リッキー・ジャーヴェイス（演出と脚本も務めている）が演じる無神経な上司によって振り回されるオフィスの日常をドキュメンタリー・タッチで描いたシニカルな[シチュエーション・コメディ](https://ja.wikipedia.org/wiki/シチュエーション・コメディ "wikilink")番組である。
+イギリスのロンドン郊外の町[スラウ](https://ja.wikipedia.org/wiki/スラウ "wikilink")にある製紙会社ウェーナム・ホッグの支社を舞台に、リッキー・ジャーヴェイス（演出と脚本も務めている）が演じる無神経な上司によって振り回されるオフィスの日常をドキュメンタリー・タッチで描いたシニカルな[シチュエーション・コメディ](../Page/シチュエーション・コメディ.md "wikilink")番組である。
 
-では3年連続で作品賞とコメディ演技賞（ジャーヴェイス）が授与された。[2003年](../Page/2003年.md "wikilink")にはBBCアメリカでも放送され、イギリスのテレビ作品としては初の[ゴールデングローブ賞](../Page/ゴールデングローブ賞.md "wikilink")の作品賞に輝く。スペシャル番組は[エミー賞](https://ja.wikipedia.org/wiki/エミー賞 "wikilink")の候補にもなった。
+では3年連続で作品賞とコメディ演技賞（ジャーヴェイス）が授与された。[2003年](../Page/2003年.md "wikilink")にはBBCアメリカでも放送され、イギリスのテレビ作品としては初の[ゴールデングローブ賞](../Page/ゴールデングローブ賞.md "wikilink")の作品賞に輝く。スペシャル番組は[エミー賞](../Page/エミー賞.md "wikilink")の候補にもなった。
 
-日本では[東芝エンタテインメント](https://ja.wikipedia.org/wiki/東芝エンタテインメント "wikilink")が配給し、[WOWOW](../Page/WOWOW.md "wikilink")で[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に[コメディUK\!](https://ja.wikipedia.org/wiki/コメディUK! "wikilink")内で放送された。2019年12月より[Amazonビデオで配信されている](https://ja.wikipedia.org/wiki/Amazonプライム・ビデオ "wikilink")。
+日本では[東芝エンタテインメント](https://ja.wikipedia.org/wiki/東芝エンタテインメント "wikilink")が配給し、[WOWOW](../Page/WOWOW.md "wikilink")で[2005年](../Page/2005年.md "wikilink")に[コメディUK\!](https://ja.wikipedia.org/wiki/コメディUK! "wikilink")内で放送された。2019年12月より[Amazonビデオで配信されている](https://ja.wikipedia.org/wiki/Amazonプライム・ビデオ "wikilink")。
 
 ## 主な登場人物と配役
 
@@ -22,7 +22,7 @@
 <!-- end list -->
 
   - ティム・カンタベリー
-    演 - [マーティン・フリーマン](https://ja.wikipedia.org/wiki/マーティン・フリーマン "wikilink")
+    演 - [マーティン・フリーマン](../Page/マーティン・フリーマン.md "wikilink")
     営業。30歳。大学を中退してウェーナム・ホッグに入社。実家住まい。受付嬢のドーンに好意を寄せている。ギャレスに何かとちょっかいを掛けて日頃のストレスを発散している。仕事にはうんざりしている。
 
 <!-- end list -->
@@ -108,7 +108,7 @@
 
 ## アメリカ版
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")より放送が開始。人気コメディアンの[スティーヴ・カレル](../Page/スティーヴ・カレル.md "wikilink")を主演に迎えてリメイクされた。日本では[Hulu](https://ja.wikipedia.org/wiki/Hulu "wikilink")で動画配信されている。
+[2005年](../Page/2005年.md "wikilink")より放送が開始。人気コメディアンの[スティーヴ・カレル](../Page/スティーヴ・カレル.md "wikilink")を主演に迎えてリメイクされた。日本では[Hulu](https://ja.wikipedia.org/wiki/Hulu "wikilink")で動画配信されている。
 
 番組は第2シーズンで[第58回プライムタイム・エミー賞](../Page/第58回プライムタイム・エミー賞.md "wikilink")コメディ部門の作品賞を受賞した。カレルは[ゴールデングローブ賞](../Page/ゴールデングローブ賞.md "wikilink")を受賞している。
 
@@ -128,7 +128,7 @@
 
 ## 関連項目
 
-  - [エキストラ:スターに近づけ\!](https://ja.wikipedia.org/wiki/エキストラ:スターに近づけ! "wikilink")
+  - [エキストラ:スターに近づけ\!](../Page/エキストラ:スターに近づけ!.md "wikilink")
   - [人生短し…](https://ja.wikipedia.org/wiki/人生短し… "wikilink")
 
 ## 外部リンク

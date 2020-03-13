@@ -40,7 +40,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2005 <a href="https://ja.wikipedia.org/wiki/ベオグラード" title="wikilink">ベオグラード</a></p></td>
+<td><p>2005 <a href="../Page/ベオグラード.md" title="wikilink">ベオグラード</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -64,7 +64,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2009 <a href="https://ja.wikipedia.org/wiki/ポドゴリツァ" title="wikilink">ポドゴリツァ</a></p></td>
+<td><p>2009 <a href="../Page/ポドゴリツァ.md" title="wikilink">ポドゴリツァ</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -82,13 +82,13 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2012 <a href="https://ja.wikipedia.org/wiki/アルマトイ" title="wikilink">アルマトイ</a></p></td>
+<td><p>2012 <a href="../Page/アルマトイ.md" title="wikilink">アルマトイ</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2013 <a href="https://ja.wikipedia.org/wiki/チェリャビンスク" title="wikilink">チェリャビンスク</a></p></td>
+<td><p>2013 <a href="../Page/チェリャビンスク.md" title="wikilink">チェリャビンスク</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -124,7 +124,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:2019_FINA_Men&#39;s_Water_Polo_World_League" title="wikilink">2019</a> <a href="https://ja.wikipedia.org/wiki/ベオグラード" title="wikilink">ベオグラード</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:2019_FINA_Men&#39;s_Water_Polo_World_League" title="wikilink">2019</a> <a href="../Page/ベオグラード.md" title="wikilink">ベオグラード</a></p></td>
 <td><p><strong></strong></p></td>
 <td></td>
 <td></td>
@@ -250,7 +250,7 @@
 ## 関連項目
 
   - [世界水泳選手権水球競技](https://ja.wikipedia.org/wiki/世界水泳選手権水球競技 "wikilink")
-  - [オリンピック水球競技](https://ja.wikipedia.org/wiki/オリンピックの水球競技 "wikilink")
+  - [オリンピック水球競技](../Page/オリンピックの水球競技.md "wikilink")
   - [FINA水球ワールドカップ](https://ja.wikipedia.org/wiki/FINA水球ワールドカップ "wikilink")
 
 [Category:水球大会](https://ja.wikipedia.org/wiki/Category:水球大会 "wikilink") [Category:国際スポーツ競技大会](https://ja.wikipedia.org/wiki/Category:国際スポーツ競技大会 "wikilink")

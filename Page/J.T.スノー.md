@@ -1,7 +1,7 @@
 > この記事は[J.T.](https://ja.wikipedia.org/wiki/J.T.)から翻訳されています。
 
 
-**ジャック・トーマス・スノー**（**Jack Thomas Snow**, [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[2月26日](../Page/2月26日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[ロングビーチ出身の元](../Page/ロングビーチ_\(カリフォルニア州\).md "wikilink")[プロ野球](../Page/プロ野球.md "wikilink")選手（[一塁手](https://ja.wikipedia.org/wiki/一塁手 "wikilink")）。左投左打（までは両打\[1\]）。
+**ジャック・トーマス・スノー**（**Jack Thomas Snow**, [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[2月26日](../Page/2月26日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[ロングビーチ出身の元](../Page/ロングビーチ_\(カリフォルニア州\).md "wikilink")[プロ野球](../Page/プロ野球.md "wikilink")選手（[一塁手](../Page/一塁手.md "wikilink")）。左投左打（までは両打\[1\]）。
 
 父の[ジャック・スノーは元](https://ja.wikipedia.org/wiki/:en:Jack_Snow_\(American_football\) "wikilink")[NFL](../Page/NFL.md "wikilink")選手で、屈指の[ワイドレシーバーだった](https://ja.wikipedia.org/wiki/ワイドレシーバー_\(アメリカンフットボール\) "wikilink")。
 
@@ -11,21 +11,21 @@
 
 ロス・アラミトス高校時代は後に再び同僚となる[ロブ・ネン](https://ja.wikipedia.org/wiki/ロブ・ネン "wikilink")と一緒にプレーした。[アリゾナ大学](../Page/アリゾナ大学.md "wikilink")在学時のの[MLBドラフトで](https://ja.wikipedia.org/wiki/1989年のMLBドラフト "wikilink")[ニューヨーク・ヤンキース](../Page/ニューヨーク・ヤンキース.md "wikilink")から5巡目（全体127位）指名され、プロ入り。
 
-[9月20日](../Page/9月20日.md "wikilink")の[カンザスシティ・ロイヤルズ](https://ja.wikipedia.org/wiki/カンザスシティ・ロイヤルズ "wikilink")戦でメジャーデビュー。
+[9月20日](../Page/9月20日.md "wikilink")の[カンザスシティ・ロイヤルズ](../Page/カンザスシティ・ロイヤルズ.md "wikilink")戦でメジャーデビュー。
 
 ### エンゼルス時代
 
-1992年[12月6日](../Page/12月6日.md "wikilink")に[ジム・アボット](https://ja.wikipedia.org/wiki/ジム・アボット "wikilink")との[トレード](../Page/トレード.md "wikilink")で、[ラス・スプリンガー](https://ja.wikipedia.org/wiki/ラス・スプリンガー "wikilink")他1選手と共に[カリフォルニア・エンゼルスへ移籍](https://ja.wikipedia.org/wiki/ロサンゼルス・エンゼルス・オブ・アナハイム "wikilink")。 移籍1年目のはレギュラーに定着し、開幕戦の[ミルウォーキー・ブルワーズ](../Page/ミルウォーキー・ブルワーズ.md "wikilink")戦でメジャー初本塁打を放つなど、4月は打率.343・6本塁打を記録。その後調子を落とし途中にマイナー降格もあったが、打率.241・16本塁打・57打点の成績を残す。は[エドゥアルド・ペレス](https://ja.wikipedia.org/wiki/エドゥアルド・ペレス "wikilink")（後[阪神](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")）にポジションを奪われ、開幕をマイナーで迎えるものの、ペレスの不振に伴いメジャーに昇格。しかし[1994年から1995年のMLBストライキ](https://ja.wikipedia.org/wiki/1994年から1995年のMLBストライキ "wikilink")によるシーズン打ち切りもあって打率.220・8本塁打・30打点に終わった。は打率.289・24本塁打・102打点を記録。チームは途中2位に最大11ゲーム差を付けたが終盤に失速し、[シアトル・マリナーズ](../Page/シアトル・マリナーズ.md "wikilink")とのワンゲーム・プレイオフで敗れ、9年ぶりの地区優勝を逃した。オフに初の[ゴールドグラブ賞](https://ja.wikipedia.org/wiki/ゴールドグラブ賞 "wikilink")を受賞。は打率.257・17本塁打・67打点と成績を落としたが、2年連続でゴールドグラブ賞を受賞する。[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")に2選手との交換トレードで[サンフランシスコ・ジャイアンツ](../Page/サンフランシスコ・ジャイアンツ.md "wikilink")へ移籍。
+1992年[12月6日](../Page/12月6日.md "wikilink")に[ジム・アボット](../Page/ジム・アボット.md "wikilink")との[トレード](../Page/トレード.md "wikilink")で、[ラス・スプリンガー](https://ja.wikipedia.org/wiki/ラス・スプリンガー "wikilink")他1選手と共に[カリフォルニア・エンゼルスへ移籍](../Page/ロサンゼルス・エンゼルス・オブ・アナハイム.md "wikilink")。 移籍1年目のはレギュラーに定着し、開幕戦の[ミルウォーキー・ブルワーズ](../Page/ミルウォーキー・ブルワーズ.md "wikilink")戦でメジャー初本塁打を放つなど、4月は打率.343・6本塁打を記録。その後調子を落とし途中にマイナー降格もあったが、打率.241・16本塁打・57打点の成績を残す。は[エドゥアルド・ペレス](../Page/エドゥアルド・ペレス.md "wikilink")（後[阪神](../Page/阪神タイガース.md "wikilink")）にポジションを奪われ、開幕をマイナーで迎えるものの、ペレスの不振に伴いメジャーに昇格。しかし[1994年から1995年のMLBストライキ](https://ja.wikipedia.org/wiki/1994年から1995年のMLBストライキ "wikilink")によるシーズン打ち切りもあって打率.220・8本塁打・30打点に終わった。は打率.289・24本塁打・102打点を記録。チームは途中2位に最大11ゲーム差を付けたが終盤に失速し、[シアトル・マリナーズ](../Page/シアトル・マリナーズ.md "wikilink")とのワンゲーム・プレイオフで敗れ、9年ぶりの地区優勝を逃した。オフに初の[ゴールドグラブ賞](../Page/ゴールドグラブ賞.md "wikilink")を受賞。は打率.257・17本塁打・67打点と成績を落としたが、2年連続でゴールドグラブ賞を受賞する。[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")に2選手との交換トレードで[サンフランシスコ・ジャイアンツ](../Page/サンフランシスコ・ジャイアンツ.md "wikilink")へ移籍。
 
 ### ジャイアンツ時代
 
-は打率.281・28本塁打・104打点・96四球を記録し、チームの8年ぶりの地区優勝に貢献する。[フロリダ・マーリンズとの](../Page/マイアミ・マーリンズ.md "wikilink")[ディビジョンシリーズは](https://ja.wikipedia.org/wiki/1997年のナショナルリーグディビジョンシリーズ "wikilink")3連敗で敗退。ジャイアンツの組織内で最も大きな影響を与えた人物を、選手・球団スタッフ・コーチが選ぶ「[ウィリー・マック賞](https://ja.wikipedia.org/wiki/ウィリー・マッコビー "wikilink")」を受賞した。は24本塁打・98打点。新球場[パシフィック・ベル・パークが開場した](../Page/オラクル・パーク.md "wikilink")は19本塁打・96打点を記録し、チームは3年ぶりの地区優勝。[ニューヨーク・メッツ](../Page/ニューヨーク・メッツ.md "wikilink")との[ディビジョンシリーズ第](https://ja.wikipedia.org/wiki/2000年のナショナルリーグディビジョンシリーズ "wikilink")2戦で、9回に[クローザー](https://ja.wikipedia.org/wiki/クローザー "wikilink")の[アーマンド・ベニテス](../Page/アーマンド・ベニテス.md "wikilink")から同点3点本塁打を放つが延長10回の末敗れ、チームは1勝3敗で敗退した。は故障もあって打率.246・8本塁打と不本意な成績に終わる。も6本塁打と振るわなかったが、チームは[ワイルドカードを獲得](https://ja.wikipedia.org/wiki/ワイルドカード_\(スポーツ\) "wikilink")。ポストシーズンを勝ち上がり、13年ぶりのリーグ優勝を果たす。史上初めてワイルドカード同士の対戦となった古巣・エンゼルスとの[ワールドシリーズでは](https://ja.wikipedia.org/wiki/2002年のワールドシリーズ "wikilink")、第1戦で本塁打を放つなど打率.407の活躍を見せるが、チームは3勝4敗で敗退し、移転後初のシリーズ制覇はならなかった。
+は打率.281・28本塁打・104打点・96四球を記録し、チームの8年ぶりの地区優勝に貢献する。[フロリダ・マーリンズとの](../Page/マイアミ・マーリンズ.md "wikilink")[ディビジョンシリーズは](https://ja.wikipedia.org/wiki/1997年のナショナルリーグディビジョンシリーズ "wikilink")3連敗で敗退。ジャイアンツの組織内で最も大きな影響を与えた人物を、選手・球団スタッフ・コーチが選ぶ「[ウィリー・マック賞](../Page/ウィリー・マッコビー.md "wikilink")」を受賞した。は24本塁打・98打点。新球場[パシフィック・ベル・パークが開場した](../Page/オラクル・パーク.md "wikilink")は19本塁打・96打点を記録し、チームは3年ぶりの地区優勝。[ニューヨーク・メッツ](../Page/ニューヨーク・メッツ.md "wikilink")との[ディビジョンシリーズ第](https://ja.wikipedia.org/wiki/2000年のナショナルリーグディビジョンシリーズ "wikilink")2戦で、9回に[クローザー](https://ja.wikipedia.org/wiki/クローザー "wikilink")の[アーマンド・ベニテス](../Page/アーマンド・ベニテス.md "wikilink")から同点3点本塁打を放つが延長10回の末敗れ、チームは1勝3敗で敗退した。は故障もあって打率.246・8本塁打と不本意な成績に終わる。も6本塁打と振るわなかったが、チームは[ワイルドカードを獲得](../Page/ワイルドカード_\(スポーツ\).md "wikilink")。ポストシーズンを勝ち上がり、13年ぶりのリーグ優勝を果たす。史上初めてワイルドカード同士の対戦となった古巣・エンゼルスとの[ワールドシリーズでは](../Page/2002年のワールドシリーズ.md "wikilink")、第1戦で本塁打を放つなど打率.407の活躍を見せるが、チームは3勝4敗で敗退し、移転後初のシリーズ制覇はならなかった。
 
-は[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink")の[ミネソタ・ツインズ](https://ja.wikipedia.org/wiki/ミネソタ・ツインズ "wikilink")戦で球団史上3人目のスプラッシュ・ヒット（本拠地[SBCパークの右翼フェンス後方のサンフランシスコ湾に飛び込む本塁打](../Page/オラクル・パーク.md "wikilink")）を放つ。は、規定打席不足ながら打率.327・出塁率.429・長打率.529を記録。オフには2度目のウィリー・マック賞を受賞。当時の監督[フェリペ・アルー](https://ja.wikipedia.org/wiki/フェリペ・アルー "wikilink")は「彼の存在感は、このクラブハウスでとても大きい。彼の練習に取り組む姿勢から、プロの姿勢を学んでいるチームメイトも多い」と語っている。は[ランス・ニークロ](../Page/ランス・ニークロ.md "wikilink")とのツープラトン起用ながら117試合に出場。堅実な守備を披露する一方で、若手にアドバイスを送るなど、ベテランらしい一面ものぞかせた。オフに[FAとなった](../Page/フリーエージェント_\(プロスポーツ\).md "wikilink")。
+は[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink")の[ミネソタ・ツインズ](../Page/ミネソタ・ツインズ.md "wikilink")戦で球団史上3人目のスプラッシュ・ヒット（本拠地[SBCパークの右翼フェンス後方のサンフランシスコ湾に飛び込む本塁打](../Page/オラクル・パーク.md "wikilink")）を放つ。は、規定打席不足ながら打率.327・出塁率.429・長打率.529を記録。オフには2度目のウィリー・マック賞を受賞。当時の監督[フェリペ・アルー](../Page/フェリペ・アルー.md "wikilink")は「彼の存在感は、このクラブハウスでとても大きい。彼の練習に取り組む姿勢から、プロの姿勢を学んでいるチームメイトも多い」と語っている。は[ランス・ニークロ](../Page/ランス・ニークロ.md "wikilink")とのツープラトン起用ながら117試合に出場。堅実な守備を披露する一方で、若手にアドバイスを送るなど、ベテランらしい一面ものぞかせた。オフに[FAとなった](../Page/フリーエージェント_\(プロスポーツ\).md "wikilink")。
 
 ### 以後
 
-[1月9日](../Page/1月9日.md "wikilink")に[ボストン・レッドソックス](https://ja.wikipedia.org/wiki/ボストン・レッドソックス "wikilink")と契約。[ケビン・ユーキリス](../Page/ケビン・ユーキリス.md "wikilink")の控えとして起用されたが、打率.205と結果を残せず、[6月19日](../Page/6月19日.md "wikilink")に解雇された。[9月24日](../Page/9月24日.md "wikilink")に古巣・ジャイアンツと契約。[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")の[ロサンゼルス・ドジャース](../Page/ロサンゼルス・ドジャース.md "wikilink")戦で先発メンバーに名を連ねたが出場はせず、現役引退。
+[1月9日](../Page/1月9日.md "wikilink")に[ボストン・レッドソックス](../Page/ボストン・レッドソックス.md "wikilink")と契約。[ケビン・ユーキリス](../Page/ケビン・ユーキリス.md "wikilink")の控えとして起用されたが、打率.205と結果を残せず、[6月19日](../Page/6月19日.md "wikilink")に解雇された。[9月24日](../Page/9月24日.md "wikilink")に古巣・ジャイアンツと契約。[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")の[ロサンゼルス・ドジャース](../Page/ロサンゼルス・ドジャース.md "wikilink")戦で先発メンバーに名を連ねたが出場はせず、現役引退。
 
 引退後はジャイアンツでスペシャルアシスタントを務めた。
 
@@ -64,7 +64,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロサンゼルス・エンゼルス・オブ・アナハイム" title="wikilink">CAL</a></p></td>
+<td><p><a href="../Page/ロサンゼルス・エンゼルス・オブ・アナハイム.md" title="wikilink">CAL</a></p></td>
 <td><p>129</p></td>
 <td><p>489</p></td>
 <td><p>419</p></td>
@@ -415,7 +415,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ボストン・レッドソックス" title="wikilink">BOS</a></p></td>
+<td><p><a href="../Page/ボストン・レッドソックス.md" title="wikilink">BOS</a></p></td>
 <td><p>38</p></td>
 <td><p>53</p></td>
 <td><p>44</p></td>
@@ -501,8 +501,8 @@
 
 ### 表彰
 
-  - [ゴールドグラブ賞](https://ja.wikipedia.org/wiki/ゴールドグラブ賞 "wikilink") 6回：（1995年 - 2000年）
-  - [インターナショナルリーグ](https://ja.wikipedia.org/wiki/インターナショナルリーグ "wikilink")MVP 1回：（1992年）
+  - [ゴールドグラブ賞](../Page/ゴールドグラブ賞.md "wikilink") 6回：（1995年 - 2000年）
+  - [インターナショナルリーグ](../Page/インターナショナルリーグ.md "wikilink")MVP 1回：（1992年）
 
 ### 背番号
 
@@ -522,4 +522,4 @@
   -
 [Category:アメリカ合衆国の野球選手](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の野球選手 "wikilink") [Category:ニューヨーク・ヤンキースの選手](https://ja.wikipedia.org/wiki/Category:ニューヨーク・ヤンキースの選手 "wikilink") [Category:カリフォルニア・エンゼルスの選手](https://ja.wikipedia.org/wiki/Category:カリフォルニア・エンゼルスの選手 "wikilink") [Category:サンフランシスコ・ジャイアンツの選手](https://ja.wikipedia.org/wiki/Category:サンフランシスコ・ジャイアンツの選手 "wikilink") [Category:ボストン・レッドソックスの選手](https://ja.wikipedia.org/wiki/Category:ボストン・レッドソックスの選手 "wikilink") [Category:ロングビーチ出身の人物](https://ja.wikipedia.org/wiki/Category:ロングビーチ出身の人物 "wikilink") [Category:1968年生](https://ja.wikipedia.org/wiki/Category:1968年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
-1.  「30球団マンスリー・リポート サンフランシスコ・ジャイアンツ 左打ち一本にして苦手左腕を克服 交流戦通算成績で打点王のスノー」『[月刊メジャー・リーグ](https://ja.wikipedia.org/wiki/月刊メジャー・リーグ "wikilink")』 2000年9月号 [ベースボール・マガジン社](https://ja.wikipedia.org/wiki/ベースボール・マガジン社 "wikilink") 57頁
+1.  「30球団マンスリー・リポート サンフランシスコ・ジャイアンツ 左打ち一本にして苦手左腕を克服 交流戦通算成績で打点王のスノー」『[月刊メジャー・リーグ](https://ja.wikipedia.org/wiki/月刊メジャー・リーグ "wikilink")』 2000年9月号 [ベースボール・マガジン社](../Page/ベースボール・マガジン社.md "wikilink") 57頁

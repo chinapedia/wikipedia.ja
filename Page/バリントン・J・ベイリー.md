@@ -1,7 +1,7 @@
 > この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
 
 
-**バリントン・J・ベイリー**(**Barrington J. Bayley**, [1937年](../Page/1937年.md "wikilink")[4月9日](../Page/4月9日.md "wikilink") - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[10月14日](../Page/10月14日.md "wikilink")）は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[SF作家](../Page/SF作家.md "wikilink")。[ワイドスクリーン・バロック](https://ja.wikipedia.org/wiki/ワイドスクリーン・バロック "wikilink")の代表的作家の一人。代表作に『カエアンの聖衣』『禅銃』『ロボットの魂』など。
+**バリントン・J・ベイリー**(**Barrington J. Bayley**, [1937年](../Page/1937年.md "wikilink")[4月9日](../Page/4月9日.md "wikilink") - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[10月14日](../Page/10月14日.md "wikilink")）は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[SF作家](../Page/SF作家.md "wikilink")。[ワイドスクリーン・バロック](../Page/ワイドスクリーン・バロック.md "wikilink")の代表的作家の一人。代表作に『カエアンの聖衣』『禅銃』『ロボットの魂』など。
 
 ## 経歴
 
@@ -19,7 +19,7 @@
 
 [ブルース・スターリング](../Page/ブルース・スターリング.md "wikilink")はベイリーを師と仰ぐとし、日本語版『時間衝突』に序文を寄せ、「ベイリーはサイエンス・フィクションの真実の魂の模範であり、完全無欠のお手本」とし、彼の『スキズマトリックス』はベイリーに多くを負っていると述べている。（[創元推理文庫](https://ja.wikipedia.org/wiki/創元推理文庫 "wikilink")、1989年）
 
-『禅銃』は1983年の[フィリップ・K・ディック賞](https://ja.wikipedia.org/wiki/フィリップ・K・ディック賞 "wikilink")にノミネートされた。また『カエアンの聖衣』が1984年に、『禅銃』が1985年に、『時間衝突』が1990年に[星雲賞](../Page/星雲賞.md "wikilink")海外長編部門を受賞。1996年に短篇「蟹は試してみなきゃいけない」*A Crab Must Try*が英国SF協会賞短篇部門賞受賞、これが英語圏で初めての受賞となった。
+『禅銃』は1983年の[フィリップ・K・ディック賞](../Page/フィリップ・K・ディック賞.md "wikilink")にノミネートされた。また『カエアンの聖衣』が1984年に、『禅銃』が1985年に、『時間衝突』が1990年に[星雲賞](../Page/星雲賞.md "wikilink")海外長編部門を受賞。1996年に短篇「蟹は試してみなきゃいけない」*A Crab Must Try*が英国SF協会賞短篇部門賞受賞、これが英語圏で初めての受賞となった。
 
 『ロボットの魂』『光のロボット』は、自由意志を持つ[ロボット](../Page/ロボット.md "wikilink")のジャスペロダスの活躍する連作で、[アイザック・アシモフ](../Page/アイザック・アシモフ.md "wikilink")の諸作とはまったく異なったスタイルのロボットSFとして注目される。
 
@@ -27,7 +27,7 @@
 
 ## 作品リスト
 
-  - スター・ウィルス *The Star Virus* 1970年（[大森望](https://ja.wikipedia.org/wiki/大森望 "wikilink")訳 [東京創元社](../Page/東京創元社.md "wikilink") 1992年）
+  - スター・ウィルス *The Star Virus* 1970年（[大森望](../Page/大森望.md "wikilink")訳 [東京創元社](../Page/東京創元社.md "wikilink") 1992年）
   - *Annihilation Factor* 1972年
   - *Empire of Two Worlds* 1972年
   - 時間衝突 *Collision with Chronus* 1973年（大森望訳 [東京創元社](../Page/東京創元社.md "wikilink") 1989年）
@@ -36,7 +36,7 @@
   - カエアンの聖衣 *The Garments of Caean* 1976年（[冬川亘](https://ja.wikipedia.org/wiki/冬川亘 "wikilink")訳 [早川書房](../Page/早川書房.md "wikilink") 1983年、新訳版・大森望訳 早川書房 2016年）
   - *The Grand Wheel* 1977年
   - *Star Winds* 1978年
-  - シティ5からの脱出 *The Knights of the Limits* 1978年（短編集、[浅倉久志](https://ja.wikipedia.org/wiki/浅倉久志 "wikilink")他訳 [早川書房](../Page/早川書房.md "wikilink") 1985年）
+  - シティ5からの脱出 *The Knights of the Limits* 1978年（短編集、[浅倉久志](../Page/浅倉久志.md "wikilink")他訳 [早川書房](../Page/早川書房.md "wikilink") 1985年）
   - *The Seed of Evil* 1979年（短編集）
   - 永劫回帰 *The Phillars of Eternity* 1983年（[坂井星之](https://ja.wikipedia.org/wiki/坂井星之 "wikilink")訳 [東京創元社](../Page/東京創元社.md "wikilink") 1991年）
   - 禅銃 *The Zen Gun* 1983年（[酒井昭伸](https://ja.wikipedia.org/wiki/酒井昭伸 "wikilink")訳 [早川書房](../Page/早川書房.md "wikilink") 1984年）
@@ -53,7 +53,7 @@
 
 ## 参考文献
 
-  - [大森望](https://ja.wikipedia.org/wiki/大森望 "wikilink")「バリントン・J・ベイリー追悼特集 特集解説」（『[SFマガジン](https://ja.wikipedia.org/wiki/SFマガジン "wikilink")』2009年5月号 [早川書房](../Page/早川書房.md "wikilink")）
+  - [大森望](../Page/大森望.md "wikilink")「バリントン・J・ベイリー追悼特集 特集解説」（『[SFマガジン](https://ja.wikipedia.org/wiki/SFマガジン "wikilink")』2009年5月号 [早川書房](../Page/早川書房.md "wikilink")）
 
 ## 外部リンク
 

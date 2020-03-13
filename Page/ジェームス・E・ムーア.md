@@ -7,9 +7,9 @@
 
 [1902年](../Page/1902年.md "wikilink")11月19日生まれ。[1924年](../Page/1924年.md "wikilink")に[陸軍士官学校を卒業した](../Page/陸軍士官学校_\(アメリカ合衆国\).md "wikilink")。
 
-[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中はヨーロッパ戦線に従軍し、[ノルマンディー上陸作戦](https://ja.wikipedia.org/wiki/ノルマンディー上陸作戦 "wikilink")にも参加した。その後、ハワイ南部地区司令官などを歴任した後、[1955年](../Page/1955年.md "wikilink")に琉球列島高等弁務官の前身である**琉球列島民政副長官**に就任した。
+[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中はヨーロッパ戦線に従軍し、[ノルマンディー上陸作戦](../Page/ノルマンディー上陸作戦.md "wikilink")にも参加した。その後、ハワイ南部地区司令官などを歴任した後、[1955年](../Page/1955年.md "wikilink")に琉球列島高等弁務官の前身である**琉球列島民政副長官**に就任した。
 
-[1957年](../Page/1957年.md "wikilink")の高等弁務官制導入により、初代高等弁務官に就任する。当時は軍用地の接収が問題となり、[島ぐるみ闘争](../Page/島ぐるみ闘争.md "wikilink")へと発展していた。そのため、これらの運動を煽動したとして[沖縄人民党](https://ja.wikipedia.org/wiki/沖縄人民党 "wikilink")を弾圧する反共政策を推し進めた。例えば、沖縄人民党幹部で那覇市長の[瀬長亀次郎](https://ja.wikipedia.org/wiki/瀬長亀次郎 "wikilink")を布令改正によって追放（[人民党事件](https://ja.wikipedia.org/wiki/人民党事件 "wikilink")での前科を欠格事項とした）などを行った。
+[1957年](../Page/1957年.md "wikilink")の高等弁務官制導入により、初代高等弁務官に就任する。当時は軍用地の接収が問題となり、[島ぐるみ闘争](../Page/島ぐるみ闘争.md "wikilink")へと発展していた。そのため、これらの運動を煽動したとして[沖縄人民党](https://ja.wikipedia.org/wiki/沖縄人民党 "wikilink")を弾圧する反共政策を推し進めた。例えば、沖縄人民党幹部で那覇市長の[瀬長亀次郎](../Page/瀬長亀次郎.md "wikilink")を布令改正によって追放（[人民党事件](../Page/人民党事件.md "wikilink")での前科を欠格事項とした）などを行った。
 
 1986年1月28日に彼は亡くなり、[アーリントン国立墓地](../Page/アーリントン国立墓地.md "wikilink")に埋葬された。
 
@@ -18,10 +18,10 @@
   - [アメリカ軍](../Page/アメリカ軍.md "wikilink")
   - [陸軍士官学校](../Page/陸軍士官学校_\(アメリカ合衆国\).md "wikilink")
   - [マサチューセッツ州](../Page/マサチューセッツ州.md "wikilink")
-  - [ノルマンディー上陸作戦](https://ja.wikipedia.org/wiki/ノルマンディー上陸作戦 "wikilink")
+  - [ノルマンディー上陸作戦](../Page/ノルマンディー上陸作戦.md "wikilink")
   - [アメリカ合衆国による沖縄統治](../Page/アメリカ合衆国による沖縄統治.md "wikilink")
   - [沖縄人民党](https://ja.wikipedia.org/wiki/沖縄人民党 "wikilink")
-  - [瀬長亀次郎](https://ja.wikipedia.org/wiki/瀬長亀次郎 "wikilink")
+  - [瀬長亀次郎](../Page/瀬長亀次郎.md "wikilink")
   - [琉球列島米国民政府](../Page/琉球列島米国民政府.md "wikilink")
   - [琉球列島高等弁務官](../Page/琉球列島高等弁務官.md "wikilink")
 

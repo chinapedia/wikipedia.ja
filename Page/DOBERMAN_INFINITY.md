@@ -298,7 +298,7 @@
 | INFINITY                                                                                                                    | [関西テレビ](../Page/関西テレビ放送.md "wikilink")・[フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[GTO（第2期）](https://ja.wikipedia.org/wiki/GTO_\(2012年のテレビドラマ\) "wikilink")』挿入歌 |
 | 99                                                                                                                          | [J SPORTS](../Page/J_SPORTS.md "wikilink")『高校バスケ ウインターカップ2014』番組テーマソング\[23\]                                                                                                        |
 | Tomorrow Never Dies                                                                                                         | [劇団EXILE](https://ja.wikipedia.org/wiki/劇団EXILE "wikilink")公演『Tomorrow Never Dies 〜やってこない明日はない〜』主題歌                                                                                 |
-| Heartbeat                                                                                                                   | [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[ワールドプレミアムボクシング](https://ja.wikipedia.org/wiki/ワールドプレミアムボクシング "wikilink")』イメージソング                                                          |
+| Heartbeat                                                                                                                   | [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[ワールドプレミアムボクシング](../Page/ワールドプレミアムボクシング.md "wikilink")』イメージソング                                                                             |
 | JUMP AROUND ∞                                                                                                               | [KANSAI COLLECTION](https://ja.wikipedia.org/wiki/関西コレクション "wikilink") 2015 A/W 公式テーマソング                                                                                            |
 | 日本テレビ系『[HiGH\&LOW〜THE STORY OF S.W.O.R.D.〜](https://ja.wikipedia.org/wiki/HiGH&LOW〜THE_STORY_OF_S.W.O.R.D.〜 "wikilink")』劇中歌 |                                                                                                                                                                                     |
 | Do or Die                                                                                                                   |                                                                                                                                                                                     |
@@ -311,7 +311,7 @@
 | Lookin' for                                                                                                                 | [マリアナ政府観光局](../Page/マリアナ諸島.md "wikilink")『3連休はマリアナ。』イメージソング                                                                                                                         |
 | THE NAME                                                                                                                    | [北海道日本ハムファイターズ](../Page/北海道日本ハムファイターズ.md "wikilink") [西川遥輝](https://ja.wikipedia.org/wiki/西川遥輝 "wikilink")選手登場曲                                                                     |
 | 春風                                                                                                                          | フジテレビ系ドラマ『[KISSしたい睫毛](https://ja.wikipedia.org/wiki/KISSしたい睫毛 "wikilink")』挿入歌                                                                                                       |
-| SUPER BALL                                                                                                                  | [ナガシマスパーランド](https://ja.wikipedia.org/wiki/ナガシマスパーランド "wikilink") 「ナガシマジャンボ海水プール」2018年CMソング                                                                                         |
+| SUPER BALL                                                                                                                  | [ナガシマスパーランド](../Page/ナガシマスパーランド.md "wikilink") 「ナガシマジャンボ海水プール」2018年CMソング                                                                                                            |
 | We can be the light                                                                                                         | 三重県桑名市「なばなの里 イルミネーション」CMソング                                                                                                                                                         |
 | YOU & I                                                                                                                     | 映画『[DTC -湯けむり純情篇- from HiGH\&LOW](https://ja.wikipedia.org/wiki/HiGH&LOW〜THE_STORY_OF_S.W.O.R.D.〜 "wikilink")』主題歌                                                                   |
 | NEVER CHANGE                                                                                                                | ドラマ 「Love or Not 2」主題歌                                                                                                                                                              |
@@ -336,9 +336,9 @@ DOBERMAN INFINITY LIVE『\#PRLG』
 
 <div class="NavContent" style="text-align: left;">
 
-  - 2015年2月11日：大阪・[umeda AKASO](https://ja.wikipedia.org/wiki/梅田バナナホール "wikilink")
+  - 2015年2月11日：大阪・[umeda AKASO](../Page/梅田バナナホール.md "wikilink")
   - 2月20日：東京・[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")
-  - 2月27日：東京・[Zepp](https://ja.wikipedia.org/wiki/Zepp "wikilink") Tokyo
+  - 2月27日：東京・[Zepp](../Page/Zepp.md "wikilink") Tokyo
 
 </div>
 
@@ -362,7 +362,7 @@ DOBERMAN INFINITY LIVE TOUR 2016 "THE LINE"\[25\]
 
 DOBERMAN INFINITY LIVE TOUR 2016 "THE LINE" ～TO THE NEXT～\[26\]
 
-  - 4月12日、4月13日：大阪・[インテックス大阪](https://ja.wikipedia.org/wiki/大阪国際見本市会場 "wikilink") 5号館
+  - 4月12日、4月13日：大阪・[インテックス大阪](../Page/大阪国際見本市会場.md "wikilink") 5号館
   - 4月16日、4月17日：千葉・[幕張メッセ](../Page/幕張メッセ.md "wikilink") 国際展示場ホール1・2
 
 </div>
@@ -387,7 +387,7 @@ DOBERMAN INFINITY LIVE TOUR 2017 "TERMINAL"
   - 3月16日、3月17日：東京・[オリンパスホール八王子](https://ja.wikipedia.org/wiki/オリンパスホール八王子 "wikilink")
   - 3月20日：宮城・[仙台サンプラザホール](https://ja.wikipedia.org/wiki/仙台サンプラザホール "wikilink")
   - 3月24日：北海道・[ニトリ文化ホール](https://ja.wikipedia.org/wiki/ニトリ文化ホール "wikilink")
-  - 3月31日：岡山・[倉敷市民会館](https://ja.wikipedia.org/wiki/倉敷市民会館 "wikilink")
+  - 3月31日：岡山・[倉敷市民会館](../Page/倉敷市民会館.md "wikilink")
   - 4月02日、4月03日：奈良・[なら100年会館](../Page/なら100年会館.md "wikilink") 大ホール
   - 4月06日：福岡・[福岡サンパレス](../Page/福岡サンパレス.md "wikilink")
 
@@ -422,19 +422,19 @@ DOBERMAN INFINITY LIVE TOUR 2018 DOGG YEAR 〜PARTY ON THE OFF ROAD〜
 <div class="NavContent" style="text-align: left;">
 
   - 5月26日：千葉・[市川市文化会館](../Page/市川市文化会館.md "wikilink") 大ホール
-  - 6月01日：兵庫・[神戸国際会館](https://ja.wikipedia.org/wiki/神戸国際会館 "wikilink") こくさいホール
+  - 6月01日：兵庫・[神戸国際会館](../Page/神戸国際会館.md "wikilink") こくさいホール
   - 6月02日：広島・[ふくやま芸術文化ホール](../Page/ふくやま芸術文化ホール.md "wikilink") リーデンローズ 大ホール
   - 6月09日：石川・[本多の森ホール](https://ja.wikipedia.org/wiki/本多の森ホール "wikilink")
   - 7月02日、7月03日：東京・[人見記念講堂](https://ja.wikipedia.org/wiki/人見記念講堂 "wikilink")
   - 7月08日：宮城・[仙台サンプラザ](../Page/仙台サンプラザ.md "wikilink")
-  - 7月13日：愛知・[名古屋国際会議場](https://ja.wikipedia.org/wiki/名古屋国際会議場 "wikilink") センチュリーホール
+  - 7月13日：愛知・[名古屋国際会議場](../Page/名古屋国際会議場.md "wikilink") センチュリーホール
   - 7月14日：長野・[キッセイ文化ホール](../Page/長野県松本文化会館.md "wikilink")
-  - 8月04日：新潟・[新潟県民会館](https://ja.wikipedia.org/wiki/新潟県民会館 "wikilink")
+  - 8月04日：新潟・[新潟県民会館](../Page/新潟県民会館.md "wikilink")
   - 8月11日：福岡・[福岡サンパレス](../Page/福岡サンパレス.md "wikilink")
   - 8月18日：北海道・[ニトリ文化ホール](https://ja.wikipedia.org/wiki/ニトリ文化ホール "wikilink")
-  - 8月22日、<s>8月23日</s>：大阪・[大阪国際会議場 グランキューブ大阪](https://ja.wikipedia.org/wiki/大阪府立国際会議場 "wikilink") メインホール（[台風20号により中止](https://ja.wikipedia.org/wiki/平成30年台風第20号 "wikilink")\[27\]）
-  - 8月25日：京都・[ロームシアター京都](https://ja.wikipedia.org/wiki/ロームシアター京都 "wikilink")
-  - 9月02日：静岡・[アクトシティ浜松](https://ja.wikipedia.org/wiki/アクトシティ浜松 "wikilink") 大ホール
+  - 8月22日、<s>8月23日</s>：大阪・[大阪国際会議場 グランキューブ大阪](../Page/大阪府立国際会議場.md "wikilink") メインホール（[台風20号により中止](https://ja.wikipedia.org/wiki/平成30年台風第20号 "wikilink")\[27\]）
+  - 8月25日：京都・[ロームシアター京都](../Page/ロームシアター京都.md "wikilink")
+  - 9月02日：静岡・[アクトシティ浜松](../Page/アクトシティ浜松.md "wikilink") 大ホール
   - 9月06日：熊本・[市民会館シアーズホーム夢ホール](../Page/熊本市民会館.md "wikilink")
   - 9月08日：愛媛・[松山市民会館](../Page/松山市民会館.md "wikilink")
   - 10月16日：大阪・大阪国際会議場 グランキューブ大阪 メインホール（振替公演\[28\]）
@@ -489,7 +489,7 @@ DOBERMAN INFINITY LIVE TOUR 2020 We are the one
 
   - <s>3月07日</s>：新潟・[新潟テルサ](https://ja.wikipedia.org/wiki/新潟テルサ "wikilink")（新型ウイルスに関する政府の要請に従い中止\[29\]）
   - 3月17日：愛知・愛知県芸術劇場 大ホール
-  - 5月08日：東京・[東京国際フォーラム](https://ja.wikipedia.org/wiki/東京国際フォーラム "wikilink") ホールA
+  - 5月08日：東京・[東京国際フォーラム](../Page/東京国際フォーラム.md "wikilink") ホールA
   - 5月17日：奈良・なら100年会館 大ホール
   - 5月23日：広島・ふくやま芸術文化ホール リーデンローズ 大ホール
   - 6月27日：岐阜・[長良川国際会議場](../Page/長良川国際会議場.md "wikilink")
@@ -682,7 +682,7 @@ DOBERMAN INFINITY presents D.Island
 | 2004年9月29日                              | SCREAMING FOR VENGENCE FEAT. FOUR HORSE MEN (KUBO-C / MAB / TOMOGEN FROM DOBERMAN INC)          | 4WD『4-Ring Kudo』                                                                                                                                                                         |
 | 2004年11月25日                             | Brave New World (Remix) feat. P-CHO from DOBERMAN INC                                           | [NORISIAM-X](https://ja.wikipedia.org/wiki/NORISIAM-X "wikilink")『Brave New World』                                                                                                       |
 | 2004年12月16日                             | BE MY LOVER                                                                                     |                                                                                                                                                                                          |
-| 2005年7月6日                               | SCHOOL OUT feat. DOBERMAN INC                                                                   | [RATHER UNIQUE](https://ja.wikipedia.org/wiki/RATHER_UNIQUE "wikilink")『[R.U Party](../Page/R.U_Party.md "wikilink")』                                                                    |
+| 2005年7月6日                               | SCHOOL OUT feat. DOBERMAN INC                                                                   | [RATHER UNIQUE](../Page/RATHER_UNIQUE.md "wikilink")『[R.U Party](../Page/R.U_Party.md "wikilink")』                                                                                       |
 | 2005年7月20日                              | No Limit feat. P-CHO from DOBERMAN INC (BLremix)                                                | [Sowelu](https://ja.wikipedia.org/wiki/Sowelu "wikilink")『[Heads or Tails?](https://ja.wikipedia.org/wiki/Heads_or_Tails? "wikilink")』                                                   |
 | 2005年10月26日                             | STRICTRY BUSINESS feat. DOBERMAN INC                                                            | [DJ MASTERKEY](../Page/DJ_MASTERKEY.md "wikilink")『DADDY'S HOUSE BEST』                                                                                                                   |
 | 2006年3月8日                               | Happy the globe PART III feat. NORISIAM-X, P-CHO (DOBERMAN INC), SPHERE of INFLUENCE & RICKIE G | [YA-KYIM](../Page/YA-KYIM.md "wikilink")『STILL ONLY ONE』                                                                                                                                 |
@@ -697,7 +697,7 @@ DOBERMAN INFINITY presents D.Island
 | 2007年8月29日                              | 24karats -type EX- / Sowelu, EXILE, DOBERMAN INC                                                | [EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")「[時の描片 〜トキノカケラ〜/24karats -type EX-](https://ja.wikipedia.org/wiki/時の描片_〜トキノカケラ〜/24karats_-type_EX- "wikilink")」                   |
 | 2008年6月14日                              | Homie feat. CHO, KUBO-C from DOBERMAN INC                                                       | BIGGER DICE『コスモス×カオス～半か丁か～』                                                                                                                                                              |
 | 2008年6月25日                              | Who Got The Next? feat. Tomogen (Doberman inc)                                                  | SIMON『SIMON SAYS』                                                                                                                                                                        |
-| 2008年7月30日                              | 24karats -type C- feat. DOBERMAN INC                                                            | [COLOR](https://ja.wikipedia.org/wiki/DEEP_\(歌手グループ\) "wikilink")『[BLACK 〜A night for you〜](https://ja.wikipedia.org/wiki/BLACK_〜A_night_for_you〜 "wikilink")』                           |
+| 2008年7月30日                              | 24karats -type C- feat. DOBERMAN INC                                                            | [COLOR](../Page/DEEP_\(歌手グループ\).md "wikilink")『[BLACK 〜A night for you〜](https://ja.wikipedia.org/wiki/BLACK_〜A_night_for_you〜 "wikilink")』                                              |
 | 2008年9月24日                              | 24karats feat. J Soul Brothers and DOBERMAN INC                                                 | EXILE「[The Birthday 〜Ti Amo〜](https://ja.wikipedia.org/wiki/The_Birthday_〜Ti_Amo〜 "wikilink")」                                                                                           |
 | 2009年2月25日                              | FASTER, DEEPER, HARDER feat. DOBERMAN INC                                                       | [J Soul Brothers](https://ja.wikipedia.org/wiki/J_Soul_Brothers "wikilink")『[J Soul Brothers](https://ja.wikipedia.org/wiki/J_Soul_Brothers_\(J_Soul_Brothersのアルバム\) "wikilink")』        |
 | 2009年7月22日                              | FIREWORKS                                                                                       | EXILE「[THE HURRICANE 〜FIREWORKS〜](https://ja.wikipedia.org/wiki/THE_HURRICANE_〜FIREWORKS〜 "wikilink")」                                                                                   |
@@ -707,7 +707,7 @@ DOBERMAN INFINITY presents D.Island
 | 2011年6月1日                               | 24karats STAY GOLD feat. 三代目 J Soul Brothers / EXILE                                            | [三代目 J Soul Brothers](https://ja.wikipedia.org/wiki/J_Soul_Brothers "wikilink")『[J Soul Brothers](https://ja.wikipedia.org/wiki/J_Soul_Brothers_\(三代目J_Soul_Brothersのアルバム\) "wikilink")』 |
 | 2011年9月7日                               | FIGHTERS                                                                                        | 三代目 J Soul Brothers「[FIGHTERS](https://ja.wikipedia.org/wiki/FIGHTERS "wikilink")」                                                                                                       |
 | 2012年1月1日                               | Freak Out feat. DOBERMAN INC                                                                    | [EXILE ATSUSHI](https://ja.wikipedia.org/wiki/ATSUSHI_\(歌手\) "wikilink")『[Solo](https://ja.wikipedia.org/wiki/EXILE_JAPAN/Solo "wikilink")』                                              |
-| 2012年6月13日                              | Bad Man feat. DOBERMAN INC                                                                      | [MAY'S](https://ja.wikipedia.org/wiki/MAY'S "wikilink")『[Smiling](https://ja.wikipedia.org/wiki/Smiling "wikilink")』                                                                     |
+| 2012年6月13日                              | Bad Man feat. DOBERMAN INC                                                                      | [MAY'S](../Page/MAY'S.md "wikilink")『[Smiling](https://ja.wikipedia.org/wiki/Smiling "wikilink")』                                                                                        |
 | 2012年9月5日                               | 24karats TRIBE OF GOLD                                                                          | [EXILE TRIBE](https://ja.wikipedia.org/wiki/EXILE_TRIBE "wikilink")「[24karats TRIBE OF GOLD](https://ja.wikipedia.org/wiki/24karats_TRIBE_OF_GOLD "wikilink")」                           |
 | 2013年3月10日                              | GOLD feat. GS (DOBERMAN INC)                                                                    | [The ROOTLESS](https://ja.wikipedia.org/wiki/Rootless "wikilink")「BLACK」                                                                                                                 |
 | 2014年6月4日                               | THE ANTHEM / EXILE SHOKICHI, DOBERMAN INC, SWAY, ELLY (三代目 J Soul Brothers from EXILE TRIBE)    | [EXILE SHOKICHI](https://ja.wikipedia.org/wiki/SHOKICHI "wikilink")「[BACK TO THE FUTURE](https://ja.wikipedia.org/wiki/BACK_TO_THE_FUTURE_\(曲\) "wikilink")」                             |

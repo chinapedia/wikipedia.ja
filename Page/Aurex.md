@@ -1,19 +1,19 @@
 > この記事は[Aurex](https://ja.wikipedia.org/wiki/Aurex)から翻訳されています。
 
 
-**Aurex**（オーレックス）は、[東芝ライフスタイル](../Page/東芝ライフスタイル.md "wikilink")子会社の[東芝エルイートレーディング](https://ja.wikipedia.org/wiki/東芝エルイートレーディング "wikilink")（TLET）が、[白物家電](https://ja.wikipedia.org/wiki/白物家電 "wikilink")に用いられる"[TOSHIBA](../Page/東芝.md "wikilink")"とは別に、[オーディオ製品に用いるブランド名](https://ja.wikipedia.org/wiki/音響機器 "wikilink")。
+**Aurex**（オーレックス）は、[東芝ライフスタイル](../Page/東芝ライフスタイル.md "wikilink")子会社の[東芝エルイートレーディング](https://ja.wikipedia.org/wiki/東芝エルイートレーディング "wikilink")（TLET）が、[白物家電](../Page/白物家電.md "wikilink")に用いられる"[TOSHIBA](../Page/東芝.md "wikilink")"とは別に、[オーディオ製品に用いるブランド名](../Page/音響機器.md "wikilink")。
 
 ## 歴史
 
 ### 第一期
 
-ブランド名の**Aurex**とは**audio**（[オーディオ](https://ja.wikipedia.org/wiki/音響機器 "wikilink")）の**rex**（[ラテン語](../Page/ラテン語.md "wikilink")、=king、王）を意味する造語である。[東芝](../Page/東芝.md "wikilink")（[1984年](../Page/1984年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")以前は[東京芝浦電気](https://ja.wikipedia.org/wiki/東京芝浦電気 "wikilink")名義）が販売するオーディオ機器の一部上位機種に[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")より別ブランド名として順次付与されはじめ、[1975年](../Page/1975年.md "wikilink")以降は同社の[ピュアオーディオ](https://ja.wikipedia.org/wiki/ピュアオーディオ "wikilink")ブランドとして正式に独立し、その地位が確立された。[ジャズ](../Page/ジャズ.md "wikilink")愛好家に強く請求力を込めたCMを流し、思惑通りジャズ愛好家にとって愛されるオーディオブランドとして確立する。
+ブランド名の**Aurex**とは**audio**（[オーディオ](../Page/音響機器.md "wikilink")）の**rex**（[ラテン語](../Page/ラテン語.md "wikilink")、=king、王）を意味する造語である。[東芝](../Page/東芝.md "wikilink")（[1984年](../Page/1984年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")以前は[東京芝浦電気](https://ja.wikipedia.org/wiki/東京芝浦電気 "wikilink")名義）が販売するオーディオ機器の一部上位機種に[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")より別ブランド名として順次付与されはじめ、[1975年](../Page/1975年.md "wikilink")以降は同社の[ピュアオーディオ](https://ja.wikipedia.org/wiki/ピュアオーディオ "wikilink")ブランドとして正式に独立し、その地位が確立された。[ジャズ](../Page/ジャズ.md "wikilink")愛好家に強く請求力を込めたCMを流し、思惑通りジャズ愛好家にとって愛されるオーディオブランドとして確立する。
 
-1970年代当時、民生の録音再生機器の主流となっていた[カセットテープの宿命であったヒス](../Page/コンパクトカセット.md "wikilink")・ノイズの低減及び[オープンリール](../Page/オープンリール.md "wikilink")タイプのテープレコーダーに比較して劣っていた[ダイナミックレンジ](../Page/ダイナミックレンジ.md "wikilink")の伸張を目的として開発された"[adres](https://ja.wikipedia.org/wiki/adres "wikilink")"（Automatic Dynamic Range Expantion System）は、後に同様の効果を持つ[DOLBY](../Page/ドルビーノイズリダクションシステム.md "wikilink")-Cタイプに主流を奪われてしまったが、オーディオ史にその名を刻むものとなった。また、既存分野の製品の開発にも力が注がれ、プリ・[アンプ](https://ja.wikipedia.org/wiki/アンプ "wikilink")製品でSY-Λ88は名機の誉れが高かった。オーレックス独自のエレクトレット[コンデンサ](../Page/コンデンサ.md "wikilink")技術による[ヘッドフォン](https://ja.wikipedia.org/wiki/ヘッドフォン "wikilink")・イコライザーアンプ・カートリッジは、ブランド価値を高めた。1980年初頭には家具の一部の様に、部屋の一部分を占める程大きなサイズのシステムコンポーネントを各メーカーが開発する中で、「バードランド」という商品名のコンポーネントを手掛けた。
+1970年代当時、民生の録音再生機器の主流となっていた[カセットテープの宿命であったヒス](../Page/コンパクトカセット.md "wikilink")・ノイズの低減及び[オープンリール](../Page/オープンリール.md "wikilink")タイプのテープレコーダーに比較して劣っていた[ダイナミックレンジ](../Page/ダイナミックレンジ.md "wikilink")の伸張を目的として開発された"[adres](https://ja.wikipedia.org/wiki/adres "wikilink")"（Automatic Dynamic Range Expantion System）は、後に同様の効果を持つ[DOLBY](../Page/ドルビーノイズリダクションシステム.md "wikilink")-Cタイプに主流を奪われてしまったが、オーディオ史にその名を刻むものとなった。また、既存分野の製品の開発にも力が注がれ、プリ・[アンプ](https://ja.wikipedia.org/wiki/アンプ "wikilink")製品でSY-Λ88は名機の誉れが高かった。オーレックス独自のエレクトレット[コンデンサ](../Page/コンデンサ.md "wikilink")技術による[ヘッドフォン](../Page/ヘッドフォン.md "wikilink")・イコライザーアンプ・カートリッジは、ブランド価値を高めた。1980年初頭には家具の一部の様に、部屋の一部分を占める程大きなサイズのシステムコンポーネントを各メーカーが開発する中で、「バードランド」という商品名のコンポーネントを手掛けた。
 
-1980年代前半までは、自社開発のみならず[ケンウッド](https://ja.wikipedia.org/wiki/ケンウッド "wikilink")をはじめオーディオメーカーと共同するなどしピュアオーディオ製品の開発を進めていたが、1985年頃には単品オーディオから撤退。この頃から[CDを搭載した](../Page/コンパクトディスク.md "wikilink")[ミニコンポ](https://ja.wikipedia.org/wiki/ミニコンポ "wikilink")や[ゼネラルオーディオ](https://ja.wikipedia.org/wiki/ゼネラルオーディオ "wikilink")にAurexブランドを付与しはじめ、ターゲットユーザーを学生/若者向けにシフト。[本田美奈子](https://ja.wikipedia.org/wiki/本田美奈子 "wikilink")（後の[本田美奈子.](https://ja.wikipedia.org/wiki/本田美奈子. "wikilink")）を起用した[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")調の[CMを投入してブランドの浸透を図った](../Page/コマーシャルメッセージ.md "wikilink")。しかし市場の評価は芳しくなく、1989年にはこれらの自社開発を終了。ミニコンポはケンウッド、ゼネラルオーディオは[シャープ](../Page/シャープ.md "wikilink")からの[OEM](../Page/OEM.md "wikilink")にそれぞれ切り替え、販売のみ続行した。
+1980年代前半までは、自社開発のみならず[ケンウッド](../Page/ケンウッド.md "wikilink")をはじめオーディオメーカーと共同するなどしピュアオーディオ製品の開発を進めていたが、1985年頃には単品オーディオから撤退。この頃から[CDを搭載した](../Page/コンパクトディスク.md "wikilink")[ミニコンポ](../Page/ミニコンポ.md "wikilink")や[ゼネラルオーディオ](https://ja.wikipedia.org/wiki/ゼネラルオーディオ "wikilink")にAurexブランドを付与しはじめ、ターゲットユーザーを学生/若者向けにシフト。[本田美奈子](https://ja.wikipedia.org/wiki/本田美奈子 "wikilink")（後の[本田美奈子.](https://ja.wikipedia.org/wiki/本田美奈子. "wikilink")）を起用した[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")調の[CMを投入してブランドの浸透を図った](../Page/コマーシャルメッセージ.md "wikilink")。しかし市場の評価は芳しくなく、1989年にはこれらの自社開発を終了。ミニコンポはケンウッド、ゼネラルオーディオは[シャープ](../Page/シャープ.md "wikilink")からの[OEM](../Page/OEM.md "wikilink")にそれぞれ切り替え、販売のみ続行した。
 
-1990年、オーディオ事業を当時のグループ企業であった[オンキヨー](https://ja.wikipedia.org/wiki/オンキヨー "wikilink")に譲渡し、[東芝系列のチェーン店ではオンキヨーが取り扱われることとなった](https://ja.wikipedia.org/wiki/東芝ストアー "wikilink")。これに伴い東芝ブランドとして販売されたAV機器は、前述のケンウッド・シャープほか各分野の専門メーカーからのOEMによる提供となり、Aurexブランドも2016年3月のブランド復活まで一旦消滅した。
+1990年、オーディオ事業を当時のグループ企業であった[オンキヨー](../Page/オンキヨー.md "wikilink")に譲渡し、[東芝系列のチェーン店ではオンキヨーが取り扱われることとなった](../Page/東芝ストアー.md "wikilink")。これに伴い東芝ブランドとして販売されたAV機器は、前述のケンウッド・シャープほか各分野の専門メーカーからのOEMによる提供となり、Aurexブランドも2016年3月のブランド復活まで一旦消滅した。
 
 ### ブランド消滅後
 
@@ -142,7 +142,7 @@
 
   - MX メタルテープ 上記デッキのリファレンステープ
   - AX クロムテープ 上記デッキのリファレンステープ
-  - AD ノーマルテープ（[TDK](https://ja.wikipedia.org/wiki/TDK "wikilink")のAD） 上記デッキのリファレンステープ
+  - AD ノーマルテープ（[TDK](../Page/TDK.md "wikilink")のAD） 上記デッキのリファレンステープ
   - F ノーマルテープ（TDKの初代D） Aurex初期のデッキのリファレンステープ
   - FH ノーマルテープ（TDKの初代D改良型）
   - TD ノーマルテープ
@@ -370,7 +370,7 @@
   - [日立製作所](../Page/日立製作所.md "wikilink")→日立コンシューマ・マーケティング（[Lo-D](../Page/Lo-D.md "wikilink")、2010年ゼネラルオーディオのブランドとして復活）
   - [三洋電機](../Page/三洋電機.md "wikilink")（OTTO）
   - [松下電器→パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")（[Technics](../Page/Technics.md "wikilink")、2015年ブランド復活）
-  - [三菱電機](../Page/三菱電機.md "wikilink")→[三菱電機エンジニアリング](https://ja.wikipedia.org/wiki/三菱電機エンジニアリング "wikilink")（[DIATONE](https://ja.wikipedia.org/wiki/ダイヤトーン "wikilink")、2005年ブランド復活）
+  - [三菱電機](../Page/三菱電機.md "wikilink")→[三菱電機エンジニアリング](https://ja.wikipedia.org/wiki/三菱電機エンジニアリング "wikilink")（[DIATONE](../Page/ダイヤトーン.md "wikilink")、2005年ブランド復活）
 
 等があるが、[ピュアオーディオ](https://ja.wikipedia.org/wiki/ピュアオーディオ "wikilink")の衰退と[ゼネラルオーディオ](https://ja.wikipedia.org/wiki/ゼネラルオーディオ "wikilink")の隆盛につれて撤退したブランドも少なくない。
 
@@ -382,8 +382,8 @@
 
 ## 関連項目
 
-  - [ラジオカセットレコーダー](https://ja.wikipedia.org/wiki/ラジオカセットレコーダー "wikilink")
-  - [ミニコンポ](https://ja.wikipedia.org/wiki/ミニコンポ "wikilink")
+  - [ラジオカセットレコーダー](../Page/ラジオカセットレコーダー.md "wikilink")
+  - [ミニコンポ](../Page/ミニコンポ.md "wikilink")
 
 ## 外部リンク
 

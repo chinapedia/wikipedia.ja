@@ -1,11 +1,11 @@
 > この記事は[T](https://ja.wikipedia.org/wiki/T)から翻訳されています。
 
 
-**フェルディナンド・トーマス・アンガー**（**Ferdinand Thomas Unger**、[1913年](../Page/1913年.md "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink") - [1999年](../Page/1999年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink")）は、[アメリカ陸軍](https://ja.wikipedia.org/wiki/アメリカ陸軍 "wikilink")の[軍人](../Page/軍人.md "wikilink")。[1966年](../Page/1966年.md "wikilink")[11月2日](../Page/11月2日.md "wikilink")から[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[1月18日](../Page/1月18日.md "wikilink")まで[琉球列島高等弁務官](../Page/琉球列島高等弁務官.md "wikilink")を務めた。[ペンシルベニア州](../Page/ペンシルベニア州.md "wikilink")[ピッツバーグ](https://ja.wikipedia.org/wiki/ピッツバーグ "wikilink")市出身。
+**フェルディナンド・トーマス・アンガー**（**Ferdinand Thomas Unger**、[1913年](../Page/1913年.md "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink") - [1999年](../Page/1999年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink")）は、[アメリカ陸軍](../Page/アメリカ陸軍.md "wikilink")の[軍人](../Page/軍人.md "wikilink")。[1966年](../Page/1966年.md "wikilink")[11月2日](../Page/11月2日.md "wikilink")から[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[1月18日](../Page/1月18日.md "wikilink")まで[琉球列島高等弁務官](../Page/琉球列島高等弁務官.md "wikilink")を務めた。[ペンシルベニア州](../Page/ペンシルベニア州.md "wikilink")[ピッツバーグ](https://ja.wikipedia.org/wiki/ピッツバーグ "wikilink")市出身。
 
 ## 経歴
 
-[1913年](../Page/1913年.md "wikilink")10月28日生まれ。元々[技術者](https://ja.wikipedia.org/wiki/技術者 "wikilink")志望で、[ピッツバーグ大学](../Page/ピッツバーグ大学.md "wikilink")[工学部](../Page/工学部.md "wikilink")に入学したが、軍人を志すようになり、入学してわずか1年後に[陸軍士官学校に転校し](../Page/陸軍士官学校_\(アメリカ合衆国\).md "wikilink")[1937年](../Page/1937年.md "wikilink")に同校を卒業する。その後陸軍参謀統帥大学など数多くの軍学校で学び、軍事研究に没頭した。
+[1913年](../Page/1913年.md "wikilink")10月28日生まれ。元々[技術者](../Page/技術者.md "wikilink")志望で、[ピッツバーグ大学](../Page/ピッツバーグ大学.md "wikilink")[工学部](../Page/工学部.md "wikilink")に入学したが、軍人を志すようになり、入学してわずか1年後に[陸軍士官学校に転校し](../Page/陸軍士官学校_\(アメリカ合衆国\).md "wikilink")[1937年](../Page/1937年.md "wikilink")に同校を卒業する。その後陸軍参謀統帥大学など数多くの軍学校で学び、軍事研究に没頭した。
 
 [第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中はヨーロッパ戦線に従軍した。[朝鮮戦争](https://ja.wikipedia.org/wiki/朝鮮戦争 "wikilink")時には第一砲兵軍隊長を務めた。その後、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")や[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の駐留米軍に勤務し、[アメリカ統合参謀本部](../Page/アメリカ統合参謀本部.md "wikilink")作戦部長、第7歩兵師団司令官を歴任した。
 

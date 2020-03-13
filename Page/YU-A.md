@@ -3,17 +3,17 @@
 
 **YU-A**（ユア 、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[5月29日](../Page/5月29日.md "wikilink") - ）は日本の[女性](../Page/女性.md "wikilink")[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、オーディション番組『[歌スタ\!\!](https://ja.wikipedia.org/wiki/歌スタ!! "wikilink")』に出演し、合格。先に合格していたCHiE、DEMとともに[ガール・グループ](https://ja.wikipedia.org/wiki/ガール・グループ "wikilink")[Foxxi misQを結成し](https://ja.wikipedia.org/wiki/Foxxi_misQ "wikilink")、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")にシングル「[Tha F.Q's Style](../Page/Tha_F.Q's_Style.md "wikilink")」でメジャー・デビュー。グループは、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に活動を休止した。ソロ歌手としては、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に[童子-T](../Page/童子-T.md "wikilink")の楽曲「[願い](https://ja.wikipedia.org/wiki/願い_feat._YU-A "wikilink")」に客演で迎えられる。[2009年](../Page/2009年.md "wikilink")[4月22日](../Page/4月22日.md "wikilink")に[シングル](../Page/シングル.md "wikilink")「[逢いたい…](https://ja.wikipedia.org/wiki/逢いたい… "wikilink")」で、ソロデビューを果たした。
+[2005年](../Page/2005年.md "wikilink")、オーディション番組『[歌スタ\!\!](../Page/歌スタ!!.md "wikilink")』に出演し、合格。先に合格していたCHiE、DEMとともに[ガール・グループ](https://ja.wikipedia.org/wiki/ガール・グループ "wikilink")[Foxxi misQを結成し](https://ja.wikipedia.org/wiki/Foxxi_misQ "wikilink")、[2006年](../Page/2006年.md "wikilink")にシングル「[Tha F.Q's Style](../Page/Tha_F.Q's_Style.md "wikilink")」でメジャー・デビュー。グループは、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に活動を休止した。ソロ歌手としては、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に[童子-T](../Page/童子-T.md "wikilink")の楽曲「[願い](https://ja.wikipedia.org/wiki/願い_feat._YU-A "wikilink")」に客演で迎えられる。[2009年](../Page/2009年.md "wikilink")[4月22日](../Page/4月22日.md "wikilink")に[シングル](../Page/シングル.md "wikilink")「[逢いたい…](https://ja.wikipedia.org/wiki/逢いたい… "wikilink")」で、ソロデビューを果たした。
 
 ## 略歴
 
-音楽との出会いは幼少の頃。母の影響で[マイケル・ジャクソン](https://ja.wikipedia.org/wiki/マイケル・ジャクソン "wikilink")や、プリンスを見て、音楽、ダンスに興味を持つようになる。2002年、16歳の時に地元札幌にてダンスを本格的に習い始める。同年、コンサドーレ札幌チアガール[コンサドールズ](https://ja.wikipedia.org/wiki/コンサドールズ "wikilink")に、当時最年少の16歳で選ばれた。[札幌第一高等学校](https://ja.wikipedia.org/wiki/札幌第一高等学校 "wikilink")では[右代啓祐](https://ja.wikipedia.org/wiki/右代啓祐 "wikilink")と同級生であった。
+音楽との出会いは幼少の頃。母の影響で[マイケル・ジャクソン](https://ja.wikipedia.org/wiki/マイケル・ジャクソン "wikilink")や、プリンスを見て、音楽、ダンスに興味を持つようになる。2002年、16歳の時に地元札幌にてダンスを本格的に習い始める。同年、コンサドーレ札幌チアガール[コンサドールズ](../Page/コンサドールズ.md "wikilink")に、当時最年少の16歳で選ばれた。[札幌第一高等学校](../Page/札幌第一高等学校.md "wikilink")では[右代啓祐](https://ja.wikipedia.org/wiki/右代啓祐 "wikilink")と同級生であった。
 
 ### 2005年 - 2010年：Foxxi misQでの活動
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")の[Face 2 fAKEがオーディション番組](../Page/Face_2_fAKE.md "wikilink")『[歌スタ\!\!](https://ja.wikipedia.org/wiki/歌スタ!! "wikilink")』内で女性3人組からなる「和製[デスティニーズ・チャイルド](https://ja.wikipedia.org/wiki/デスティニーズ・チャイルド "wikilink")」構想を打ち出す。そのオーディションの[12月12日](../Page/12月12日.md "wikilink")放送回に出演した彼女は、[MISIA](https://ja.wikipedia.org/wiki/MISIA "wikilink")の「飛び方を忘れた小さな鳥」を歌い、合格。CHiE、DEMに次ぎ最後の合格者となった。
+[2005年](../Page/2005年.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")の[Face 2 fAKEがオーディション番組](../Page/Face_2_fAKE.md "wikilink")『[歌スタ\!\!](../Page/歌スタ!!.md "wikilink")』内で女性3人組からなる「和製[デスティニーズ・チャイルド](../Page/デスティニーズ・チャイルド.md "wikilink")」構想を打ち出す。そのオーディションの[12月12日](../Page/12月12日.md "wikilink")放送回に出演した彼女は、[MISIA](https://ja.wikipedia.org/wiki/MISIA "wikilink")の「飛び方を忘れた小さな鳥」を歌い、合格。CHiE、DEMに次ぎ最後の合格者となった。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月19日](../Page/7月19日.md "wikilink")、[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")[JiN](https://ja.wikipedia.org/wiki/JiN "wikilink")を迎えた[シングル](../Page/シングル.md "wikilink")「[Tha F.Q's Style](../Page/Tha_F.Q's_Style.md "wikilink")」でメジャーデビューを果たした。[2007年](../Page/2007年.md "wikilink")には、スタジオ・アルバム『[GLOSS](../Page/GLOSS.md "wikilink")』を発表。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[7月19日](../Page/7月19日.md "wikilink")、公式サイトにおいて活動休止が発表された。活動再開の時期は未定で、メンバー各々がソロ活動をしていく事となった。グループは2006年のデビューから2010年の活動休止まで、アルバム1枚とシングル7枚を発表したほか、客演でいくつかのアーティストに協力した。
+[2006年](../Page/2006年.md "wikilink")[7月19日](../Page/7月19日.md "wikilink")、[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")[JiN](https://ja.wikipedia.org/wiki/JiN "wikilink")を迎えた[シングル](../Page/シングル.md "wikilink")「[Tha F.Q's Style](../Page/Tha_F.Q's_Style.md "wikilink")」でメジャーデビューを果たした。[2007年](../Page/2007年.md "wikilink")には、スタジオ・アルバム『[GLOSS](../Page/GLOSS.md "wikilink")』を発表。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[7月19日](../Page/7月19日.md "wikilink")、公式サイトにおいて活動休止が発表された。活動再開の時期は未定で、メンバー各々がソロ活動をしていく事となった。グループは2006年のデビューから2010年の活動休止まで、アルバム1枚とシングル7枚を発表したほか、客演でいくつかのアーティストに協力した。
 
 ### 2008年 - 2009年：ソロ活動開始、『You Are My Love』
 
@@ -49,7 +49,7 @@
 
 2012年、所属事務所を[よしもとクリエイティブ・エージェンシー](https://ja.wikipedia.org/wiki/よしもとクリエイティブ・エージェンシー "wikilink")に移籍。
 
-2012年2月12日、8枚目のシングル「あなたの笑顔」をリリース。読売テレビ・日本テレビ系列木曜ミステリーシアター「[デカ黒川鈴木](https://ja.wikipedia.org/wiki/デカ黒川鈴木 "wikilink")」エンディングテーマに起用された。ミュージックビデオにはドラマの繋がりから[板尾創路](https://ja.wikipedia.org/wiki/板尾創路 "wikilink")が出演している。監督は園田俊郎。
+2012年2月12日、8枚目のシングル「あなたの笑顔」をリリース。読売テレビ・日本テレビ系列木曜ミステリーシアター「[デカ黒川鈴木](https://ja.wikipedia.org/wiki/デカ黒川鈴木 "wikilink")」エンディングテーマに起用された。ミュージックビデオにはドラマの繋がりから[板尾創路](../Page/板尾創路.md "wikilink")が出演している。監督は園田俊郎。
 
 2012年5月23日、3枚目のアルバム「DREAM」をリリースし、色んな形の「夢」をテーマに制作していった。
 
@@ -65,7 +65,7 @@
   - 読売テレビ・日本テレビ系　木曜ミステリーシアター「赤川次郎原作 毒＜ポイズン＞」主題歌
       -
         ミュージックビデオにはドラマの繋がりから[綾部祐二](https://ja.wikipedia.org/wiki/綾部祐二 "wikilink")が出演。監督は[久保茂昭](../Page/久保茂昭.md "wikilink")。
-  - [宇野亜喜良](https://ja.wikipedia.org/wiki/宇野亜喜良 "wikilink")氏による書き下ろしスペシャルジャケット
+  - [宇野亜喜良](../Page/宇野亜喜良.md "wikilink")氏による書き下ろしスペシャルジャケット
   - 本人が宇野亜喜良氏の大ファンだった事から実現した。
 
 2012年12月26日、「YU-A DREAM Live Tour PERFORMANCE 2012 at SHIBUYA-AX 10.5」発売。ダンサー4名と生バンド5名を従えフルメンバーで挑んだこのツアーは、本人のピアノ弾き語りシーンや、バク転にソロダンスと様々なパフォーマンスを見せた。
@@ -74,7 +74,7 @@
 
 2013年3月2日、 [TOKYO GIRLS COLLECTION](https://ja.wikipedia.org/wiki/TOKYO_GIRLS_COLLECTION "wikilink") at Yoyogi National Stadium 1st Gymnasium on 2013.3.2.sat 出演。
 
-2013年4月より[札幌テレビ放送](https://ja.wikipedia.org/wiki/札幌テレビ放送 "wikilink")（STV）の深夜番組・「[ジョシスタ](https://ja.wikipedia.org/wiki/ジョシスタ "wikilink")」にレギュラー出演。
+2013年4月より[札幌テレビ放送](../Page/札幌テレビ放送.md "wikilink")（STV）の深夜番組・「[ジョシスタ](https://ja.wikipedia.org/wiki/ジョシスタ "wikilink")」にレギュラー出演。
 
 2013年6月、「YU-A×クリスタルチャペル キャンペーン」
 

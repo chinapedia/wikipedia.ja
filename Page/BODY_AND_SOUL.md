@@ -15,11 +15,11 @@
 
 ## 沿革
 
-2002年4月に放送開始。[2003年](../Page/2003年.md "wikilink")4月からは22時台に放送していた[BEAT ON THE ROADとともに](https://ja.wikipedia.org/wiki/BEAT_ON_THE_ROAD "wikilink")**DoCoMo MIDNIGHT VOX**（日曜22:00-24:00）として括られ後半パートの番組となった。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")3月限りでBEAT ON THE ROADが終了したのとともに枠組みも解消された。
+2002年4月に放送開始。[2003年](../Page/2003年.md "wikilink")4月からは22時台に放送していた[BEAT ON THE ROADとともに](https://ja.wikipedia.org/wiki/BEAT_ON_THE_ROAD "wikilink")**DoCoMo MIDNIGHT VOX**（日曜22:00-24:00）として括られ後半パートの番組となった。[2006年](../Page/2006年.md "wikilink")3月限りでBEAT ON THE ROADが終了したのとともに枠組みも解消された。
 
 ## 歴代ナビゲーター
 
-  - [ルーシー・ケント](https://ja.wikipedia.org/wiki/ルーシー・ケント "wikilink")　（2002年4月-2004年7月）
+  - [ルーシー・ケント](../Page/ルーシー・ケント.md "wikilink")　（2002年4月-2004年7月）
 
 <!-- end list -->
 

@@ -1,11 +1,11 @@
 > この記事は[Breakthrough \(\)](https://ja.wikipedia.org/wiki/Breakthrough_\(\))から翻訳されています。
 
 
-「**Breakthrough**」（ブレイクスルー）は、[平野綾](../Page/平野綾.md "wikilink")の1枚目の[シングル](../Page/シングル.md "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月8日](../Page/3月8日.md "wikilink")に [Lantisから発売された](https://ja.wikipedia.org/wiki/ランティス "wikilink")（販売元は[キングレコード](../Page/キングレコード.md "wikilink")）またアルバム[RIOT GIRLにアルバムバージョンとして収録されている](../Page/RIOT_GIRL.md "wikilink")。
+「**Breakthrough**」（ブレイクスルー）は、[平野綾](../Page/平野綾.md "wikilink")の1枚目の[シングル](../Page/シングル.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")に [Lantisから発売された](../Page/ランティス.md "wikilink")（販売元は[キングレコード](../Page/キングレコード.md "wikilink")）またアルバム[RIOT GIRLにアルバムバージョンとして収録されている](../Page/RIOT_GIRL.md "wikilink")。
 
 ## 概要
 
-[声優](../Page/声優.md "wikilink")・[平野綾](../Page/平野綾.md "wikilink")のデビュー[シングル](../Page/シングル.md "wikilink")。表題曲「Breakthrough」とカップリングの「一番星」 は、[PS2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")『[ふぁいなりすと](../Page/ふぁいなりすと.md "wikilink")』の[オープニングテーマと](https://ja.wikipedia.org/wiki/主題歌 "wikilink")[エンディングテーマとして使用された](https://ja.wikipedia.org/wiki/主題歌 "wikilink")。ファーストアルバム「[RIOT GIRL](../Page/RIOT_GIRL.md "wikilink")」には、アレンジを一新したバージョンが収録されている。
+[声優](../Page/声優.md "wikilink")・[平野綾](../Page/平野綾.md "wikilink")のデビュー[シングル](../Page/シングル.md "wikilink")。表題曲「Breakthrough」とカップリングの「一番星」 は、[PS2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")『[ふぁいなりすと](../Page/ふぁいなりすと.md "wikilink")』の[オープニングテーマと](../Page/主題歌.md "wikilink")[エンディングテーマとして使用された](../Page/主題歌.md "wikilink")。ファーストアルバム「[RIOT GIRL](../Page/RIOT_GIRL.md "wikilink")」には、アレンジを一新したバージョンが収録されている。
 
 2013年9月9日、メキシコの DJやプロデューサーDJ Laxxell非公式リリースリ ミックスバージョンのみ Bandcampを通じてEDM独 自の形式。
 
@@ -24,9 +24,9 @@
 
 ## 収録作品
 
-| 曲名           | 収録作品名                                            | 作品種類                                                            | 発売日                                                                                         | 備考                                          |
-| ------------ | ------------------------------------------------ | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------- |
-| Breakthrough | **[RIOT GIRL](../Page/RIOT_GIRL.md "wikilink")** | [オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink") | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月16日](../Page/7月16日.md "wikilink") | 1stオリジナルアルバム。 Breakthrough（Album ver.）として収録 |
+| 曲名           | 収録作品名                                            | 作品種類                                         | 発売日                                                                                         | 備考                                          |
+| ------------ | ------------------------------------------------ | -------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------- |
+| Breakthrough | **[RIOT GIRL](../Page/RIOT_GIRL.md "wikilink")** | [オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink") | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月16日](../Page/7月16日.md "wikilink") | 1stオリジナルアルバム。 Breakthrough（Album ver.）として収録 |
 
 ## 外部リンク
 

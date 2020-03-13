@@ -5,11 +5,11 @@
 
 ## 略歴
 
-2004年春、デザインのフィールドで活動していた佐藤純一と、[ソウル](https://ja.wikipedia.org/wiki/ソウルミュージック "wikilink")・[ジャズ](../Page/ジャズ.md "wikilink")・[ファンク](https://ja.wikipedia.org/wiki/ファンク "wikilink")バンド、[オーサカ=モノレール](../Page/オーサカ=モノレール.md "wikilink")での活動や、様々なセッションやサポートで知られるギタリスト、池田雄一を中心に結成。このとき、2人は同じ会社で働いていて、佐藤純一はデザイナー、池田雄一は[プログラマー](https://ja.wikipedia.org/wiki/プログラマー "wikilink")・[システムエンジニア](https://ja.wikipedia.org/wiki/システムエンジニア "wikilink")だった。 音源のリリースやライヴ活動が行われる以前に、ホームページ上で公開した楽曲のクオリティや、[ウェブサイト](../Page/ウェブサイト.md "wikilink")のデザインが、様々な[ブログ](../Page/ブログ.md "wikilink")や[SNSサイトを中心に](https://ja.wikipedia.org/wiki/ソーシャル・ネットワーキング・サービス "wikilink")[インターネット](../Page/インターネット.md "wikilink")上で話題になる。
+2004年春、デザインのフィールドで活動していた佐藤純一と、[ソウル](../Page/ソウルミュージック.md "wikilink")・[ジャズ](../Page/ジャズ.md "wikilink")・[ファンク](../Page/ファンク.md "wikilink")バンド、[オーサカ=モノレール](../Page/オーサカ=モノレール.md "wikilink")での活動や、様々なセッションやサポートで知られるギタリスト、池田雄一を中心に結成。このとき、2人は同じ会社で働いていて、佐藤純一はデザイナー、池田雄一は[プログラマー](https://ja.wikipedia.org/wiki/プログラマー "wikilink")・[システムエンジニア](../Page/システムエンジニア.md "wikilink")だった。 音源のリリースやライヴ活動が行われる以前に、ホームページ上で公開した楽曲のクオリティや、[ウェブサイト](../Page/ウェブサイト.md "wikilink")のデザインが、様々な[ブログ](../Page/ブログ.md "wikilink")や[SNSサイトを中心に](../Page/ソーシャル・ネットワーキング・サービス.md "wikilink")[インターネット](../Page/インターネット.md "wikilink")上で話題になる。
 
 2005年4月、ライブのサポートメンバーを経て、[現代音楽](../Page/現代音楽.md "wikilink")・[電子音楽](../Page/電子音楽.md "wikilink")といった主にアカデミックな分野での活動で知られる作曲家、仲井朋子が、キーボード・コーラスで正式に加入。
 
-2006年8月23日、TVアニメ『[イノセント・ヴィーナス](https://ja.wikipedia.org/wiki/イノセント・ヴィーナス "wikilink")』のエンディングテーマ『Brand new reason』で[ランティス](https://ja.wikipedia.org/wiki/ランティス "wikilink")よりメジャーデビュー。
+2006年8月23日、TVアニメ『[イノセント・ヴィーナス](https://ja.wikipedia.org/wiki/イノセント・ヴィーナス "wikilink")』のエンディングテーマ『Brand new reason』で[ランティス](../Page/ランティス.md "wikilink")よりメジャーデビュー。
 
 2007年6月20日に、ミニアルバム「pre view」を[ヤマハミュージックコミュニケーションズ](../Page/ヤマハミュージックコミュニケーションズ.md "wikilink")からリリース。ex.[スーパーカー](../Page/スーパーカー.md "wikilink")の[いしわたり淳治](../Page/いしわたり淳治.md "wikilink")が作詞、日本の[ポストロック](https://ja.wikipedia.org/wiki/ポストロック "wikilink")バンド[toe](https://ja.wikipedia.org/wiki/toe "wikilink")から[柏倉隆史](https://ja.wikipedia.org/wiki/柏倉隆史 "wikilink")がドラムで参加するなど、多彩なゲストを迎えた意欲作。
 
@@ -25,12 +25,12 @@
   - 3月14日 生まれ　
   - 出身地：[新潟県](../Page/新潟県.md "wikilink") 　
   - 血液型：A
-  - お気に入り：ケヴィン・シールズ（[My Bloody Valentine](https://ja.wikipedia.org/wiki/My_Bloody_Valentine "wikilink")）、[マッシヴ・アタック](https://ja.wikipedia.org/wiki/マッシヴ・アタック "wikilink")、[細野晴臣](../Page/細野晴臣.md "wikilink")、[ブラッド・メルドー](../Page/ブラッド・メルドー.md "wikilink")
-  - [東京造形大学](https://ja.wikipedia.org/wiki/東京造形大学 "wikilink")造形学部美術学科卒
+  - お気に入り：ケヴィン・シールズ（[My Bloody Valentine](https://ja.wikipedia.org/wiki/My_Bloody_Valentine "wikilink")）、[マッシヴ・アタック](../Page/マッシヴ・アタック.md "wikilink")、[細野晴臣](../Page/細野晴臣.md "wikilink")、[ブラッド・メルドー](../Page/ブラッド・メルドー.md "wikilink")
+  - [東京造形大学](../Page/東京造形大学.md "wikilink")造形学部美術学科卒
   - 学生時代からバンド活動や、映像作品のための音楽、[着信メロディ](../Page/着信メロディ.md "wikilink")の制作等、様々な音楽活動と、[デザイン](../Page/デザイン.md "wikilink")や映像制作を平行して行う。
   - 2001年度キャノン・デジタル・クリエイターズ・コンテスト映像部門優秀賞受賞。
   - 2004年度の21世紀アジア・デザイン・コンペジション入選。
-  - 2011年、[fhana](https://ja.wikipedia.org/wiki/fhana "wikilink")を結成し、2013年8月に[ランティス](https://ja.wikipedia.org/wiki/ランティス "wikilink")に所属しメジャーデビューを果たした。
+  - 2011年、[fhana](https://ja.wikipedia.org/wiki/fhana "wikilink")を結成し、2013年8月に[ランティス](../Page/ランティス.md "wikilink")に所属しメジャーデビューを果たした。
   - 2019年、「[青空のラプソディ](https://ja.wikipedia.org/wiki/青空のラプソディ "wikilink")」で[平成アニソン大賞](https://ja.wikipedia.org/wiki/平成アニソン大賞 "wikilink")作曲賞（2010年 - 2019年）を受賞\[3\]。
 
 ### 元メンバー
@@ -41,12 +41,12 @@
   - 3月7日 生まれ
   - 出身地：神奈川県　
   - 血液型：B
-  - お気に入り：[パット・メセニー](https://ja.wikipedia.org/wiki/パット・メセニー "wikilink")、[ビル・フリーゼル](https://ja.wikipedia.org/wiki/ビル・フリーゼル "wikilink")、[ジミ・ヘンドリックス](../Page/ジミ・ヘンドリックス.md "wikilink")、[エンニオ・モリコーネ](https://ja.wikipedia.org/wiki/エンニオ・モリコーネ "wikilink")
+  - お気に入り：[パット・メセニー](../Page/パット・メセニー.md "wikilink")、[ビル・フリーゼル](https://ja.wikipedia.org/wiki/ビル・フリーゼル "wikilink")、[ジミ・ヘンドリックス](../Page/ジミ・ヘンドリックス.md "wikilink")、[エンニオ・モリコーネ](../Page/エンニオ・モリコーネ.md "wikilink")
 
 <!-- end list -->
 
   - 高校までは[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")に打ち込むが、その後ギターに転向。 ギタリストとして様々なアーティストの、[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")や、ライブのサポートメンバーとして活躍。 ソウル・ファンク・バンドのオーサカモ＝ノレールのギタリストとしても知られる。
-  - また、[プログラマー](https://ja.wikipedia.org/wiki/プログラマー "wikilink")・[システムエンジニア](https://ja.wikipedia.org/wiki/システムエンジニア "wikilink")として、様々な[ツール](https://ja.wikipedia.org/wiki/ツール "wikilink")の開発や、[ウェブサイト](../Page/ウェブサイト.md "wikilink")の制作も行う。
+  - また、[プログラマー](https://ja.wikipedia.org/wiki/プログラマー "wikilink")・[システムエンジニア](../Page/システムエンジニア.md "wikilink")として、様々な[ツール](../Page/ツール.md "wikilink")の開発や、[ウェブサイト](../Page/ウェブサイト.md "wikilink")の制作も行う。
   - 2010年10月、FLEETを脱退。
 
 **仲井朋子** （なかい ともこ）
@@ -55,17 +55,17 @@
   - 7月31日 生まれ
   - 出身地：神奈川県　
   - 血液型：O
-  - お気に入り：[The Millennium](https://ja.wikipedia.org/wiki/The_Millennium "wikilink")、[Maja Ratkje](https://ja.wikipedia.org/wiki/Maja_Ratkje "wikilink")、[Portishead](https://ja.wikipedia.org/wiki/Portishead "wikilink")、[ゆらゆら帝国](https://ja.wikipedia.org/wiki/ゆらゆら帝国 "wikilink")
+  - お気に入り：[The Millennium](https://ja.wikipedia.org/wiki/The_Millennium "wikilink")、[Maja Ratkje](https://ja.wikipedia.org/wiki/Maja_Ratkje "wikilink")、[Portishead](https://ja.wikipedia.org/wiki/Portishead "wikilink")、[ゆらゆら帝国](../Page/ゆらゆら帝国.md "wikilink")
 
 <!-- end list -->
 
-  - [国立音楽大学](https://ja.wikipedia.org/wiki/国立音楽大学 "wikilink")音楽デザイン科卒 同大学院修士課程修了。
+  - [国立音楽大学](../Page/国立音楽大学.md "wikilink")音楽デザイン科卒 同大学院修士課程修了。
   - 幼少のころより歌、[ピアノ](../Page/ピアノ.md "wikilink")、[作曲](../Page/作曲.md "wikilink")を始め、[音大](https://ja.wikipedia.org/wiki/音大 "wikilink")にて[コンピュータ音楽](https://ja.wikipedia.org/wiki/コンピュータ音楽 "wikilink")と[作曲](../Page/作曲.md "wikilink")を学ぶ。在学中より[マルチメディア](../Page/マルチメディア.md "wikilink")作品や[バンドを含む様々な音の表現方法を模索し](../Page/バンド_\(音楽\).md "wikilink")、発表し続けている。
   - 2001年、現代音楽フェスティバル「June in Buffalo」（ニューヨーク）及び国際コンピュータ音楽会議（ICMC2001）に入選（キューバ）。
   - 2002年には、Atlantic Brass Quintetのトロンボーンニスト、J・ファイエッタのリサイタルに招待されたほか、エレクトロニクス・ミュージック・フェスティバル「Mix 02」（デンマーク）にて作品を発表。同時にDanish National Radioにて生放送される。また、国際コンピュータ音楽会議（ICMC 2002）（スウェーデン）に入選。
   - 2003年、「[アジア音楽祭](https://ja.wikipedia.org/wiki/アジア音楽祭 "wikilink")2003 in 東京」に入選。
   - 2005年、国際コンピュータ音楽会議（ICMC 2005）に入選（バルセロナ）。
-  - 現在、[東京工科大学](../Page/東京工科大学.md "wikilink")、[洗足学園音楽大学](https://ja.wikipedia.org/wiki/洗足学園音楽大学 "wikilink")にて[非常勤講師](https://ja.wikipedia.org/wiki/非常勤講師 "wikilink")を勤める。
+  - 現在、[東京工科大学](../Page/東京工科大学.md "wikilink")、[洗足学園音楽大学](../Page/洗足学園音楽大学.md "wikilink")にて[非常勤講師](https://ja.wikipedia.org/wiki/非常勤講師 "wikilink")を勤める。
   - 2005年4月、ライブのサポートメンバーを経て正式にFLEETに加入。
   - 2010年10月、FLEETを脱退。
 
@@ -132,7 +132,7 @@
 <td><p>全曲作曲編曲:Junichi Sato</p>
 <ol>
 <li>orrery [4:41] 【作詞:Ryusuke Kato,Junichi Sato】</li>
-<li>stella [3:46] 【作詞:Junichi Sato】 ※<a href="../Page/TBSテレビ.md" title="wikilink">TBS系列</a><a href="https://ja.wikipedia.org/wiki/COUNT_DOWN_TV" title="wikilink">COUNT DOWN TVエンディングテーマ</a></li>
+<li>stella [3:46] 【作詞:Junichi Sato】 ※<a href="../Page/TBSテレビ.md" title="wikilink">TBS系列</a><a href="../Page/COUNT_DOWN_TV.md" title="wikilink">COUNT DOWN TVエンディングテーマ</a></li>
 <li>sign [3:23] 【作詞:Ryusuke Kato】</li>
 <li>light [4:07] 【作詞:Ryusuke Kato】</li>
 <li>my material [5:12] 【作詞:Ryusuke Kato】</li>

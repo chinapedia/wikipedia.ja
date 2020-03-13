@@ -1,42 +1,42 @@
 > この記事は[P](https://ja.wikipedia.org/wiki/P)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:HICOM_Booth_receiving_the_Order_of_the_Rising_Sun,_Gold_and_Silver_Star.JPG "wikilink") **ドナルド・プレンティス・ブース**（Donald Prentice Booth、[1902年](../Page/1902年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink") - [1993年](../Page/1993年.md "wikilink")[10月30日](../Page/10月30日.md "wikilink")）は、[アメリカ陸軍](https://ja.wikipedia.org/wiki/アメリカ陸軍 "wikilink")の[軍人](../Page/軍人.md "wikilink")で、最終階級は陸軍[中将](../Page/中将.md "wikilink")であった。[1958年](../Page/1958年.md "wikilink")[5月1日](../Page/5月1日.md "wikilink")から[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")[2月12日](../Page/2月12日.md "wikilink")まで[琉球列島高等弁務官](../Page/琉球列島高等弁務官.md "wikilink")を務めた。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:HICOM_Booth_receiving_the_Order_of_the_Rising_Sun,_Gold_and_Silver_Star.JPG "wikilink") **ドナルド・プレンティス・ブース**（Donald Prentice Booth、[1902年](../Page/1902年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink") - [1993年](../Page/1993年.md "wikilink")[10月30日](../Page/10月30日.md "wikilink")）は、[アメリカ陸軍](../Page/アメリカ陸軍.md "wikilink")の[軍人](../Page/軍人.md "wikilink")で、最終階級は陸軍[中将](../Page/中将.md "wikilink")であった。[1958年](../Page/1958年.md "wikilink")[5月1日](../Page/5月1日.md "wikilink")から[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")[2月12日](../Page/2月12日.md "wikilink")まで[琉球列島高等弁務官](../Page/琉球列島高等弁務官.md "wikilink")を務めた。
 
 ## 経歴
 
 ### 青年期
 
-1902年12月21日にブースは[ニューヨーク州](../Page/ニューヨーク州.md "wikilink")[オールバニで誕生した](https://ja.wikipedia.org/wiki/オールバニ_\(ニューヨーク州\) "wikilink")。父・アルフレッド・ジェームス・ブース[大佐](../Page/大佐.md "wikilink")（[1875年](../Page/1875年.md "wikilink") - [1937年](../Page/1937年.md "wikilink")）は、[米西戦争](https://ja.wikipedia.org/wiki/米西戦争 "wikilink")や[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")で活躍したアメリカ陸軍の軍人であった。ブースは[ハワイ州](../Page/ハワイ州.md "wikilink")の[プナホウ・スクール](https://ja.wikipedia.org/wiki/プナホウ・スクール "wikilink")に入学し、その後[1921年](../Page/1921年.md "wikilink")[カンザス州](../Page/カンザス州.md "wikilink")[レブンワースの](https://ja.wikipedia.org/wiki/レブンワース_\(カンザス州\) "wikilink")[高校](https://ja.wikipedia.org/wiki/高校 "wikilink")を卒業する前に、[テキサス州](../Page/テキサス州.md "wikilink")[サンアントニオ](https://ja.wikipedia.org/wiki/サンアントニオ "wikilink")、[ニューヨーク州](../Page/ニューヨーク州.md "wikilink")オールバニと同州パチョーグ（[英語](https://ja.wikipedia.org/wiki/:en:Patchogue,_New_York "wikilink")）の高校を転々と渡り歩いた。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]
+1902年12月21日にブースは[ニューヨーク州](../Page/ニューヨーク州.md "wikilink")[オールバニで誕生した](../Page/オールバニ_\(ニューヨーク州\).md "wikilink")。父・アルフレッド・ジェームス・ブース[大佐](../Page/大佐.md "wikilink")（[1875年](../Page/1875年.md "wikilink") - [1937年](../Page/1937年.md "wikilink")）は、[米西戦争](../Page/米西戦争.md "wikilink")や[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")で活躍したアメリカ陸軍の軍人であった。ブースは[ハワイ州](../Page/ハワイ州.md "wikilink")の[プナホウ・スクール](https://ja.wikipedia.org/wiki/プナホウ・スクール "wikilink")に入学し、その後[1921年](../Page/1921年.md "wikilink")[カンザス州](../Page/カンザス州.md "wikilink")[レブンワースの](https://ja.wikipedia.org/wiki/レブンワース_\(カンザス州\) "wikilink")[高校](https://ja.wikipedia.org/wiki/高校 "wikilink")を卒業する前に、[テキサス州](../Page/テキサス州.md "wikilink")[サンアントニオ](https://ja.wikipedia.org/wiki/サンアントニオ "wikilink")、[ニューヨーク州](../Page/ニューヨーク州.md "wikilink")オールバニと同州パチョーグ（[英語](https://ja.wikipedia.org/wiki/:en:Patchogue,_New_York "wikilink")）の高校を転々と渡り歩いた。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]
 
 ### 軍歴
 
-[1926年](../Page/1926年.md "wikilink")に[陸軍士官学校を卒業し](../Page/陸軍士官学校_\(アメリカ合衆国\).md "wikilink")、陸軍工兵少尉に任命された\[7\]\[8\] 。任命後[コーネル大学](https://ja.wikipedia.org/wiki/コーネル大学 "wikilink")で工学を学び\[9\]、[1930年](../Page/1930年.md "wikilink")は陸軍工兵将校コースを卒業した\[10\]。[1935年](../Page/1935年.md "wikilink")から[1937年](../Page/1937年.md "wikilink")の間には陸軍士官学校の教官\[11\]、[1940年](../Page/1940年.md "wikilink")には[テキサス州](../Page/テキサス州.md "wikilink")[ヒューストン](../Page/ヒューストン.md "wikilink")で第2工兵大隊に仕え、その後[1942年](../Page/1942年.md "wikilink")まで[シアトル](../Page/シアトル.md "wikilink")で工兵地区指揮官の補佐を務めた\[12\]。
+[1926年](../Page/1926年.md "wikilink")に[陸軍士官学校を卒業し](../Page/陸軍士官学校_\(アメリカ合衆国\).md "wikilink")、陸軍工兵少尉に任命された\[7\]\[8\] 。任命後[コーネル大学](../Page/コーネル大学.md "wikilink")で工学を学び\[9\]、[1930年](../Page/1930年.md "wikilink")は陸軍工兵将校コースを卒業した\[10\]。[1935年](../Page/1935年.md "wikilink")から[1937年](../Page/1937年.md "wikilink")の間には陸軍士官学校の教官\[11\]、[1940年](../Page/1940年.md "wikilink")には[テキサス州](../Page/テキサス州.md "wikilink")[ヒューストン](../Page/ヒューストン.md "wikilink")で第2工兵大隊に仕え、その後[1942年](../Page/1942年.md "wikilink")まで[シアトル](../Page/シアトル.md "wikilink")で工兵地区指揮官の補佐を務めた\[12\]。
 
-[1942年](../Page/1942年.md "wikilink")から[1944年](../Page/1944年.md "wikilink")、[ペルシア湾](https://ja.wikipedia.org/wiki/ペルシア湾 "wikilink")軍管区指揮官に任命され、1944年5月に准尉に昇格した。ペルシア湾軍管区では後に同盟国へ戦争協力する[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")へ物資を輸送する任務を負っていた\[13\]。ブースは1944年から[1945年](../Page/1945年.md "wikilink")に陸軍参謀長、その年の初頭から終戦までペルシア湾軍管区の指揮を執った\[14\]\[15\]\[16\]\[17\]\[18\]\[19\]。
+[1942年](../Page/1942年.md "wikilink")から[1944年](../Page/1944年.md "wikilink")、[ペルシア湾](../Page/ペルシア湾.md "wikilink")軍管区指揮官に任命され、1944年5月に准尉に昇格した。ペルシア湾軍管区では後に同盟国へ戦争協力する[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")へ物資を輸送する任務を負っていた\[13\]。ブースは1944年から[1945年](../Page/1945年.md "wikilink")に陸軍参謀長、その年の初頭から終戦までペルシア湾軍管区の指揮を執った\[14\]\[15\]\[16\]\[17\]\[18\]\[19\]。
 
 [第二次世界大戦後](https://ja.wikipedia.org/wiki/第二次世界大戦後 "wikilink")、ブースは知名度が高く、責任のある多くの官職に就く。終戦後は陸軍長官特別補佐官に\[20\]、[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")から[1954年](../Page/1954年.md "wikilink")、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")で[陸軍州兵](https://ja.wikipedia.org/wiki/陸軍州兵 "wikilink")の第28歩兵師団\[21\]、同年5月から11月は第9歩兵師団の指揮官へ\[22\]\[23\]、[1955年](../Page/1955年.md "wikilink")から[1958年](../Page/1958年.md "wikilink")までは陸軍参謀本部人事担当参謀次長\[24\]\[25\]、[1958年](../Page/1958年.md "wikilink")から[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")琉球列島高等弁務官\[26\]\[27\]、1961年から[1962年](../Page/1962年.md "wikilink")まで第4アメリカ陸軍の指揮官に任命された\[28\]\[29\]\[30\]。
 
 ### 高等弁務官時代
 
-1958年に第2代琉球列島高等弁務官に就任した。沖縄各地を回り民情の把握に努めるなど、前任者の[ムーアとは異なり民意を尊重する姿勢を示して混乱の収拾に努め](https://ja.wikipedia.org/wiki/ジェームス・E・ムーア "wikilink")、懸案だった軍用地問題も彼の時代に一応の解決をみた。他の主な施策として、新[集成刑法](https://ja.wikipedia.org/wiki/集成刑法 "wikilink")施行の無期延期を決めたり、[行政主席](../Page/行政主席.md "wikilink")選任に際して[立法院の第一政党の意見を取り入れる](../Page/立法院_\(琉球\).md "wikilink")「第一党方式」を採用するなど、一定の譲歩を行った。また、[ドルへの通貨交換を実施し](../Page/アメリカ合衆国ドル.md "wikilink")、貿易の促進を図ったりした。\[31\]
+1958年に第2代琉球列島高等弁務官に就任した。沖縄各地を回り民情の把握に努めるなど、前任者の[ムーアとは異なり民意を尊重する姿勢を示して混乱の収拾に努め](../Page/ジェームス・E・ムーア.md "wikilink")、懸案だった軍用地問題も彼の時代に一応の解決をみた。他の主な施策として、新[集成刑法](https://ja.wikipedia.org/wiki/集成刑法 "wikilink")施行の無期延期を決めたり、[行政主席](../Page/行政主席.md "wikilink")選任に際して[立法院の第一政党の意見を取り入れる](../Page/立法院_\(琉球\).md "wikilink")「第一党方式」を採用するなど、一定の譲歩を行った。また、[ドルへの通貨交換を実施し](../Page/アメリカ合衆国ドル.md "wikilink")、貿易の促進を図ったりした。\[31\]
 
-ブースはアメリカ陸軍の殊勲章の他に、[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")には琉球列島高等弁務官時代の業績が讃えられ、[勲二等旭日重光章が授与された](https://ja.wikipedia.org/wiki/旭日章 "wikilink")\[32\]\[33\]。
+ブースはアメリカ陸軍の殊勲章の他に、[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")には琉球列島高等弁務官時代の業績が讃えられ、[勲二等旭日重光章が授与された](../Page/旭日章.md "wikilink")\[32\]\[33\]。
 
 ### 退役後
 
-1962年に退役した彼は[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[サンタバーバラ](https://ja.wikipedia.org/wiki/サンタバーバラ "wikilink")に居住し、1993年10月30日にこの地で死去した\[34\]\[35\]\[36\]。彼の遺体は[アーリントン国立墓地](../Page/アーリントン国立墓地.md "wikilink")に埋葬された\[37\]。
+1962年に退役した彼は[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[サンタバーバラ](../Page/サンタバーバラ.md "wikilink")に居住し、1993年10月30日にこの地で死去した\[34\]\[35\]\[36\]。彼の遺体は[アーリントン国立墓地](../Page/アーリントン国立墓地.md "wikilink")に埋葬された\[37\]。
 
 ## 年表
 
-  - [1902年](../Page/1902年.md "wikilink")・・・[オールバニで誕生](https://ja.wikipedia.org/wiki/オールバニ_\(ニューヨーク州\) "wikilink")。
+  - [1902年](../Page/1902年.md "wikilink")・・・[オールバニで誕生](../Page/オールバニ_\(ニューヨーク州\).md "wikilink")。
   - [1921年](../Page/1921年.md "wikilink")・・・高校を転々と渡り歩く。
   - [1926年](../Page/1926年.md "wikilink")・・・陸軍工兵少尉に就任。
   - [1930年](../Page/1930年.md "wikilink")・・・陸軍工兵将校コースを卒業。
-  - [1942年](../Page/1942年.md "wikilink")・・・[ペルシア湾](https://ja.wikipedia.org/wiki/ペルシア湾 "wikilink")軍管区指揮官に就任。
+  - [1942年](../Page/1942年.md "wikilink")・・・[ペルシア湾](../Page/ペルシア湾.md "wikilink")軍管区指揮官に就任。
   - [1945年](../Page/1945年.md "wikilink")・・・知名度が高く、責任のある多くの官職に就く。
   - [1958年](../Page/1958年.md "wikilink")・・・第2代琉球列島高等弁務官に就任。
-  - [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")・・・[勲二等旭日重光章授与](https://ja.wikipedia.org/wiki/旭日章 "wikilink")。
+  - [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")・・・[勲二等旭日重光章授与](../Page/旭日章.md "wikilink")。
   - [1962年](../Page/1962年.md "wikilink")・・・退役。
   - [1993年](../Page/1993年.md "wikilink")・・・死去。
 

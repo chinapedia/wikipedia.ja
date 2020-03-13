@@ -5,9 +5,9 @@
 
 ## 概要
 
-原案は、[1975年](../Page/1975年.md "wikilink")から[1976年](../Page/1976年.md "wikilink")にかけて放送されたテレビアニメ作品『[勇者ライディーン](https://ja.wikipedia.org/wiki/勇者ライディーン "wikilink")』。しかし一部引き継がれている設定・要素以外は、全く別の物語である。
+原案は、[1975年](../Page/1975年.md "wikilink")から[1976年](../Page/1976年.md "wikilink")にかけて放送されたテレビアニメ作品『[勇者ライディーン](../Page/勇者ライディーン.md "wikilink")』。しかし一部引き継がれている設定・要素以外は、全く別の物語である。
 
-主人公才賀淳貴がライディーンに乗り込むと、操縦中、降りた後を含めて、全裸になる点は『[超者ライディーン](https://ja.wikipedia.org/wiki/超者ライディーン "wikilink")』と同様。その後設定変更が為され、乗り込む時には全裸のままだが乗り込んだ後にはバトルスーツを着込んだ状態になり、降りた後は乗り込む前の服装に戻るようになった。ライディーンが乗り込む前の服や眼鏡、乗っていたバイク等を預かっていて、降りる時にそれを返してくれるとの事。なお、その時の効果として汚れたものが綺麗になって返ってくる（例：前田崎の自転車）。
+主人公才賀淳貴がライディーンに乗り込むと、操縦中、降りた後を含めて、全裸になる点は『[超者ライディーン](../Page/超者ライディーン.md "wikilink")』と同様。その後設定変更が為され、乗り込む時には全裸のままだが乗り込んだ後にはバトルスーツを着込んだ状態になり、降りた後は乗り込む前の服装に戻るようになった。ライディーンが乗り込む前の服や眼鏡、乗っていたバイク等を預かっていて、降りる時にそれを返してくれるとの事。なお、その時の効果として汚れたものが綺麗になって返ってくる（例：前田崎の自転車）。
 
 才賀教授のノートや石板、ライディーンの腕輪の内側などに書かれている神代文字は、ライディーンの搭乗者にしか読めないとされている。
 
@@ -23,13 +23,13 @@
     声 - [我妻正崇](../Page/我妻正崇.md "wikilink")
     主人公。ライディーンの操縦者で、宇宙から侵略してくる巨獣機と戦う事になる高校生の少年。成績優秀で過去に剣道で全国大会に出場した経験があるなど、文武に秀でている反面、男女関係において鈍感であるなど、心情面で未発達な部分を指摘されることもある。また、幼馴染の栞と妹の倉夏に度々振り回されており、彼女達から逃げ回ることが多い。
   - 碧乃 玲（みどりの あきら）
-    声 - [千葉紗子](https://ja.wikipedia.org/wiki/千葉紗子 "wikilink")
+    声 - [千葉紗子](../Page/千葉紗子.md "wikilink")
     立国高校1年で、災害に遭った宮野辺村から転校してきた少女。常に冷静で、クラスメートに対しても寄り添わず突き放さずといった態度を貫く。その正体はライディーンの意思そのものである。彼女はライディーンが人間を観察するために作った外部端末である。その体は（作中の人類の科学技術では）どんなに調べても「ただの人間」という結果しか出ない。\[1\]
   - 才賀 倉夏（さいが くらか）
     声 - [こやまきみこ](../Page/こやまきみこ.md "wikilink")
     淳貴の妹。私立中学1年。淳貴がライディーンに乗って巨獣機と戦っている事は知らない。性格は軽く、食べ物と交換で罪悪感なく淳貴を売るほどである。
   - 才賀 林檎（さいが りんご）
-    声 - [紗ゆり](https://ja.wikipedia.org/wiki/紗ゆり "wikilink")
+    声 - [紗ゆり](../Page/紗ゆり.md "wikilink")
     淳貴と倉夏の母。10年前、夫・巧が宮野辺村付近で行方不明となってから、女手ひとつで子供達を育てた。
   - 小早川 栞（こばやかわ しおり）
     声 - [岡田優香](../Page/紅波柚香.md "wikilink")
@@ -51,7 +51,7 @@
     「白鷲部隊」のリーダー。[オーパーツ](../Page/オーパーツ.md "wikilink")や超能力といったなかば[オカルト](../Page/オカルト.md "wikilink")に属する分野に興味を示し\[3\]、そのことから淳貴やライディーンと関わることになる。飄々とした青年。階級は三尉。名刺に名前を区切っていないため、名刺を見た人からは「まえだ・さきたろう」と必ずと言っていいほど読み間違えられる。
     頭脳労働\[4\]および他部署との折衝・交渉が担当で格闘や銃撃などは苦手であり、それらは星川や寺崎に頼る。\[5\]
   - 星川 花（ほしかわ はな）
-    声 - [本田貴子](https://ja.wikipedia.org/wiki/本田貴子 "wikilink")
+    声 - [本田貴子](../Page/本田貴子.md "wikilink")
     「白鷲部隊」の一員で、部隊の中で唯一の女性隊員。[超能力](../Page/超能力.md "wikilink")を使える。[テレキネシス](https://ja.wikipedia.org/wiki/テレキネシス "wikilink")で小石を数秒間、宙に浮かべたり、淳貴やライディーンの気配を感じ取ったりした。\[6\]超能力という常人には持ち得ない能力を持つ立場から淳貴に助言をする。階級は二尉。\[7\]格闘や銃撃能力も寺崎に並ぶ。
     前田崎から無理難題を「超能力で何とかしろ！」とふっかけられ、「無理よ！」と返すのがお約束。
     25話で淳貴と共に宇宙人の母船に潜入。ライディーンの腕輪を奪還するも、ロクセルが乗ったガディオンの行動で生死不明となってしまう。\[8\]\[9\]
@@ -64,15 +64,15 @@
 自警隊が開発した迅雷、疾風を運用する部隊。
 
   - 植村　正臣
-    声 - [志村知幸](https://ja.wikipedia.org/wiki/志村知幸 "wikilink")
+    声 - [志村知幸](../Page/志村知幸.md "wikilink")
     第201特殊施設群の司令官。57歳。前田崎の上申書を採用して白鷺部隊を結成するよういやいや指示した。だが最後まで淳喜やライディーンに友好的に接した。
   - 鯨岡
-    声 - [飯塚昭三](https://ja.wikipedia.org/wiki/飯塚昭三 "wikilink")
+    声 - [飯塚昭三](../Page/飯塚昭三.md "wikilink")
     迅雷、疾風を運用する部隊の現場指揮官。
   - 別府
     声 - [勝沼紀義](https://ja.wikipedia.org/wiki/勝沼紀義 "wikilink")
   - 岩室
-    声 - [風間勇刀](https://ja.wikipedia.org/wiki/風間勇刀 "wikilink")
+    声 - [風間勇刀](../Page/風間勇刀.md "wikilink")
   - 山田
     声 - [三戸耕三](../Page/三戸耕三.md "wikilink")
     鯨岡の指揮下で迅雷、疾風を運用する三名のパイロット。特に岩室は淳貴をライバル視（時によっては敵視）している。後に整備員をライディーンに救助してもらってからは良好な関係を築く。
@@ -100,10 +100,10 @@
     声 - [間宮くるみ](../Page/間宮くるみ.md "wikilink")
     ギゴム星人。銀河連盟、ライディーン捕獲計画幹部。参謀的な役割もこなす女性型の異星人。
   - ジャラスカ
-    声 - [志村知幸](https://ja.wikipedia.org/wiki/志村知幸 "wikilink")
+    声 - [志村知幸](../Page/志村知幸.md "wikilink")
     ゴルド星人。銀河連盟、ライディーン捕獲計画幹部。考えるよりも先に手が動いてしまう好戦的なタイプ。外見は恐竜のようなトカゲ型の異星人。
   - ロクセル
-    声 - [野島裕史](https://ja.wikipedia.org/wiki/野島裕史 "wikilink")
+    声 - [野島裕史](../Page/野島裕史.md "wikilink")
     ティケット星人。ガディオンの操縦者で、銀河連盟に所属しながら、ライディーン捕獲計画とは別にライディーンを捕獲しようともくろんでいる。
     かつて淳貴とライディーンの関係同様に、ガディオンと腕輪を発見し、操縦者となった。だがガディオンを銀河連盟に奪われた後、故郷のティケット星を滅ぼされる。
   - ケト
@@ -283,7 +283,7 @@
 ## スタッフ
 
   - 原作 - [東北新社](https://ja.wikipedia.org/wiki/東北新社 "wikilink")
-  - 監督 - [本郷みつる](https://ja.wikipedia.org/wiki/本郷みつる "wikilink")
+  - 監督 - [本郷みつる](../Page/本郷みつる.md "wikilink")
   - 副監督 - [多田俊介](https://ja.wikipedia.org/wiki/多田俊介 "wikilink")
   - シリーズ構成 - 本郷みつる、[横谷昌宏](../Page/横谷昌宏.md "wikilink")
   - キャラクターデザイン - 齋藤卓也
@@ -302,7 +302,7 @@
 
   - オープニングテーマ「[manacles](https://ja.wikipedia.org/wiki/Van. "wikilink")」
     作詞 - sheena、[伴都美子](https://ja.wikipedia.org/wiki/伴都美子 "wikilink") / 作曲 - [Jin Nakamura](https://ja.wikipedia.org/wiki/Jin_Nakamura "wikilink") / 編曲 - 西川レオ / 歌 - 伴都美子
-  - エンディングテーマ「[駆け足の生き様](https://ja.wikipedia.org/wiki/天までとどけ_\(アルバム\) "wikilink")」
+  - エンディングテーマ「[駆け足の生き様](../Page/天までとどけ_\(アルバム\).md "wikilink")」
     歌・作詞・作曲 - [中村中](https://ja.wikipedia.org/wiki/中村中 "wikilink") / 編曲 - [浦清英](../Page/浦清英.md "wikilink")
 
 ## 各話リスト
@@ -323,7 +323,7 @@
 <td><p>1</p></td>
 <td><p>蘇る伝説</p></td>
 <td><p><a href="../Page/横谷昌宏.md" title="wikilink">横谷昌宏</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/本郷みつる" title="wikilink">本郷みつる</a></p></td>
+<td><p><a href="../Page/本郷みつる.md" title="wikilink">本郷みつる</a></p></td>
 <td><p>齋藤卓也</p></td>
 <td></td>
 </tr>
@@ -355,7 +355,7 @@
 <td><p>5</p></td>
 <td><p>白鷲集まる</p></td>
 <td><p>笠原邦暁</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/うえだしげる" title="wikilink">うえだしげる</a></p></td>
+<td><p><a href="../Page/うえだしげる.md" title="wikilink">うえだしげる</a></p></td>
 <td><p>塩谷直義</p></td>
 <td></td>
 </tr>
@@ -446,7 +446,7 @@
 <td><p>竹内利光</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/石平信司" title="wikilink">石平信司</a></p></td>
 <td><p>本郷みつる</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/黄瀬和哉" title="wikilink">黄瀬和哉</a></p></td>
+<td><p><a href="../Page/黄瀬和哉.md" title="wikilink">黄瀬和哉</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>17</p></td>
@@ -542,7 +542,7 @@
 | 放送地域                                                | 放送局                                               | 放送期間                                                                                                                                                                   | 放送日時             | 放送系列                                                                     | 備考        |
 | --------------------------------------------------- | ------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ------------------------------------------------------------------------ | --------- |
 | [日本全域](../Page/全国放送.md "wikilink")                  | [WOWOW](../Page/WOWOW.md "wikilink")              | [2007年](../Page/2007年.md "wikilink")[3月3日](../Page/3月3日.md "wikilink") - [9月1日](../Page/9月1日.md "wikilink")                                                            | 土曜 19:00 - 19:30 | [BSデジタル放送](https://ja.wikipedia.org/wiki/日本における衛星放送#BSデジタル放送 "wikilink") |           |
-| [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink") | [TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink") | [2007年](../Page/2007年.md "wikilink")[10月23日](../Page/10月23日.md "wikilink") - [12月25日](../Page/12月25日.md "wikilink")                                                    | 火曜 21:00 - 21:30 | [独立UHF局](../Page/全国独立放送協議会.md "wikilink")                                | 1 - 10話のみ |
+| [東京都](../Page/東京都.md "wikilink")                    | [TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink") | [2007年](../Page/2007年.md "wikilink")[10月23日](../Page/10月23日.md "wikilink") - [12月25日](../Page/12月25日.md "wikilink")                                                    | 火曜 21:00 - 21:30 | [独立UHF局](../Page/全国独立放送協議会.md "wikilink")                                | 1 - 10話のみ |
 | 日本全域                                                | [ファミリー劇場](../Page/ファミリー劇場.md "wikilink")          | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月20日](../Page/1月20日.md "wikilink") - [7月13日](../Page/7月13日.md "wikilink")                                     | 日曜 19:00 - 19:30 | [CS放送](https://ja.wikipedia.org/wiki/日本における衛星放送#CS放送 "wikilink")         |           |
 | [岐阜県](../Page/岐阜県.md "wikilink")                    | [岐阜放送](../Page/岐阜放送.md "wikilink")                | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月9日](../Page/12月9日.md "wikilink") - [2009年](../Page/2009年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink") | 火曜 19:30 - 19:57 | 独立UHF局                                                                   |           |
 | [栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink") | [とちぎテレビ](../Page/とちぎテレビ.md "wikilink")            | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[2月25日](../Page/2月25日.md "wikilink") -                                                                          | 木曜 17:00 - 17:30 |                                                                          |           |
@@ -562,13 +562,13 @@
 <tbody>
 <tr class="odd">
 <td><p>第一話</p></td>
-<td><p><a href="../Page/我妻正崇.md" title="wikilink">我妻正崇</a>、<a href="https://ja.wikipedia.org/wiki/千葉紗子" title="wikilink">千葉紗子</a>、<a href="../Page/紅波柚香.md" title="wikilink">岡田優香</a></p></td>
+<td><p><a href="../Page/我妻正崇.md" title="wikilink">我妻正崇</a>、<a href="../Page/千葉紗子.md" title="wikilink">千葉紗子</a>、<a href="../Page/紅波柚香.md" title="wikilink">岡田優香</a></p></td>
 <td><p><strong>2008年</strong><br />
 1月25日</p></td>
 </tr>
 <tr class="even">
 <td><p>第二話</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/三木眞一郎" title="wikilink">三木眞一郎</a>、<a href="https://ja.wikipedia.org/wiki/本田貴子" title="wikilink">本田貴子</a>、<a href="../Page/藤原啓治.md" title="wikilink">藤原啓治</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/三木眞一郎" title="wikilink">三木眞一郎</a>、<a href="../Page/本田貴子.md" title="wikilink">本田貴子</a>、<a href="../Page/藤原啓治.md" title="wikilink">藤原啓治</a></p></td>
 <td><p>2月1日</p></td>
 </tr>
 <tr class="odd">
@@ -613,7 +613,7 @@
 </tr>
 <tr class="odd">
 <td><p>第十一話</p></td>
-<td><p>我妻正崇、千葉紗子、岡田優香、<a href="https://ja.wikipedia.org/wiki/野島裕史" title="wikilink">野島裕史</a></p></td>
+<td><p>我妻正崇、千葉紗子、岡田優香、<a href="../Page/野島裕史.md" title="wikilink">野島裕史</a></p></td>
 <td><p>4月4日</p></td>
 </tr>
 <tr class="even">
@@ -653,7 +653,7 @@
 
 :;「Let's Save The World」
 
-:: 作詞 - [LINDEN](https://ja.wikipedia.org/wiki/LINDEN "wikilink") / 作曲 - [末廣健一郎](https://ja.wikipedia.org/wiki/末廣健一郎 "wikilink") / 編曲 - [大山曜](../Page/大山曜.md "wikilink") / 歌 - [影山ヒロノブ](https://ja.wikipedia.org/wiki/影山ヒロノブ "wikilink")
+:: 作詞 - [LINDEN](https://ja.wikipedia.org/wiki/LINDEN "wikilink") / 作曲 - [末廣健一郎](https://ja.wikipedia.org/wiki/末廣健一郎 "wikilink") / 編曲 - [大山曜](../Page/大山曜.md "wikilink") / 歌 - [影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink")
 
 :;「魂の記憶」
 
@@ -683,10 +683,10 @@
 
 ## 関連項目
 
-  - [勇者ライディーン](https://ja.wikipedia.org/wiki/勇者ライディーン "wikilink")
-  - [超者ライディーン](https://ja.wikipedia.org/wiki/超者ライディーン "wikilink")
+  - [勇者ライディーン](../Page/勇者ライディーン.md "wikilink")
+  - [超者ライディーン](../Page/超者ライディーン.md "wikilink")
   - [東北新社](https://ja.wikipedia.org/wiki/東北新社 "wikilink")
-  - [サンライズ](https://ja.wikipedia.org/wiki/サンライズ_\(アニメ制作会社\) "wikilink")
+  - [サンライズ](../Page/サンライズ_\(アニメ制作会社\).md "wikilink")
   - [WOWOWアニメ](../Page/WOWOWアニメ.md "wikilink")
   - [UHFアニメ一覧](../Page/UHFアニメ一覧.md "wikilink")
 

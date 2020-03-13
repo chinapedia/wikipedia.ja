@@ -321,7 +321,7 @@
 
   - [クレイグ・ショート](https://ja.wikipedia.org/wiki/クレイグ・ショート "wikilink") 2010
 
-  - [ポール・インス](https://ja.wikipedia.org/wiki/ポール・インス "wikilink") 2010-2011
+  - [ポール・インス](../Page/ポール・インス.md "wikilink") 2010-2011
 
   - [マーティン・アレン](https://ja.wikipedia.org/wiki/w:Martin_Allen "wikilink") 2011-2012
 
@@ -361,7 +361,7 @@
 
   - [カスパー・シュマイケル](../Page/カスパー・シュマイケル.md "wikilink") 2009-2010
 
-  - [ソル・キャンベル](https://ja.wikipedia.org/wiki/ソル・キャンベル "wikilink") 2009.8-2009.9
+  - [ソル・キャンベル](../Page/ソル・キャンベル.md "wikilink") 2009.8-2009.9
 
 ## 脚注
 

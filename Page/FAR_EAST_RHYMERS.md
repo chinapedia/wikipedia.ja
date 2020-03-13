@@ -1,7 +1,7 @@
 > この記事は[FAR EAST RHYMERS](https://ja.wikipedia.org/wiki/FAR_EAST_RHYMERS)から翻訳されています。
 
 
-**FAR EAST RHYMERS**（ファーイーストライマーズ）は、日本の3人組[ブラックミュージック](../Page/ブラックミュージック.md "wikilink")グループである。2003年結成。京都出身。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")11月[ARTIMAGE](https://ja.wikipedia.org/wiki/ARTIMAGE "wikilink")からデビューミニアルバムをリリース。
+**FAR EAST RHYMERS**（ファーイーストライマーズ）は、日本の3人組[ブラックミュージック](../Page/ブラックミュージック.md "wikilink")グループである。2003年結成。京都出身。[2006年](../Page/2006年.md "wikilink")11月[ARTIMAGE](../Page/ARTIMAGE.md "wikilink")からデビューミニアルバムをリリース。
 
 ## メンバー
 

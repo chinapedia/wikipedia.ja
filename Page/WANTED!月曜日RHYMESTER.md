@@ -1,16 +1,16 @@
 > この記事は[WANTED!RHYMESTER](https://ja.wikipedia.org/wiki/WANTED!RHYMESTER)から翻訳されています。
 
 
-**[WANTED\!](https://ja.wikipedia.org/wiki/WANTED! "wikilink")**は[TOKYO FMをキー局にJFN系列で](../Page/エフエム東京.md "wikilink")2005年4月4日から2007年3月29日まで放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。[RHYMESTER](https://ja.wikipedia.org/wiki/RHYMESTER "wikilink")は月曜日を担当していた。
+**[WANTED\!](../Page/WANTED!.md "wikilink")**は[TOKYO FMをキー局にJFN系列で](../Page/エフエム東京.md "wikilink")2005年4月4日から2007年3月29日まで放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。[RHYMESTER](../Page/RHYMESTER.md "wikilink")は月曜日を担当していた。
 
 ## 概要
 
-  - 2005年9月26日までパーソナリティーだった[李闘士男](https://ja.wikipedia.org/wiki/李闘士男 "wikilink")と[大網亜矢乃に変わって](https://ja.wikipedia.org/wiki/亜矢乃 "wikilink")2005年10月3日より担当。
+  - 2005年9月26日までパーソナリティーだった[李闘士男](../Page/李闘士男.md "wikilink")と[大網亜矢乃に変わって](../Page/亜矢乃.md "wikilink")2005年10月3日より担当。
 
 <!-- end list -->
 
   -
-    以前放送されていた月曜10時[MOTHER MUSIC RECORDSの後番組としてスタートした](https://ja.wikipedia.org/wiki/MOTHER_MUSIC_RECORDS "wikilink")。
+    以前放送されていた月曜10時[MOTHER MUSIC RECORDSの後番組としてスタートした](../Page/MOTHER_MUSIC_RECORDS.md "wikilink")。
 
 <!-- end list -->
 
@@ -20,7 +20,7 @@
 
 ## パーソナリティ
 
-  - [RHYMESTER](https://ja.wikipedia.org/wiki/RHYMESTER "wikilink")
+  - [RHYMESTER](../Page/RHYMESTER.md "wikilink")
 
 :\*[宇多丸](../Page/宇多丸.md "wikilink")
 
@@ -83,7 +83,7 @@
 ## ゲスト
 
   - DJ SOMECHI
-  - [三浦大知](https://ja.wikipedia.org/wiki/三浦大知 "wikilink")
+  - [三浦大知](../Page/三浦大知.md "wikilink")
   - [GAGLE](../Page/GAGLE.md "wikilink")
   - [童子-T](../Page/童子-T.md "wikilink")
   - [トリカブト](../Page/トリカブト.md "wikilink")
@@ -92,7 +92,7 @@
   - [Scoobie Do](../Page/Scoobie_Do.md "wikilink")
   - [ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink")
   - [HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")
-  - [Romancrew](https://ja.wikipedia.org/wiki/Romancrew "wikilink")
+  - [Romancrew](../Page/Romancrew.md "wikilink")
   - DJ KEN-BO
   - DJ URATA
   - [DJ CELORY](https://ja.wikipedia.org/wiki/DJ_CELORY "wikilink")
@@ -108,7 +108,7 @@
   - [K DUB SHINE](https://ja.wikipedia.org/wiki/K_DUB_SHINE "wikilink")　
   - [DEV LARGE](../Page/DEV_LARGE.md "wikilink")
   - [DABO](../Page/DABO.md "wikilink")
-  - [アルファ](https://ja.wikipedia.org/wiki/アルファ "wikilink")
+  - [アルファ](../Page/アルファ.md "wikilink")
 
 ## 外部リンク
 

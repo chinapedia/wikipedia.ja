@@ -1,13 +1,13 @@
 > この記事は[Michelle143](https://ja.wikipedia.org/wiki/Michelle143)から翻訳されています。
 
 
-**Michelle143**（ミッシェルイチヨンサン、[1979年](../Page/1979年.md "wikilink")[1月10日](../Page/1月10日.md "wikilink") - ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")である。[2002年](../Page/2002年.md "wikilink")に**Michelle**（ミッシェル）として[エスエムイーレコーズ](https://ja.wikipedia.org/wiki/エスエムイーレコーズ "wikilink")より[メジャー・デビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。[2004年](../Page/2004年.md "wikilink")より現在の表記に改名し、インディーズにて活動中。身長143cm。[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身。血液型はO型。
+**Michelle143**（ミッシェルイチヨンサン、[1979年](../Page/1979年.md "wikilink")[1月10日](../Page/1月10日.md "wikilink") - ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")である。[2002年](../Page/2002年.md "wikilink")に**Michelle**（ミッシェル）として[エスエムイーレコーズ](../Page/エスエムイーレコーズ.md "wikilink")より[メジャー・デビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。[2004年](../Page/2004年.md "wikilink")より現在の表記に改名し、インディーズにて活動中。身長143cm。[東京都](../Page/東京都.md "wikilink")出身。血液型はO型。
 
 ## 概要・来歴
 
 2002年メジャーデビュー。2004年にSME Recordsから、インディーズレーベルで活動をしている。
 
-2016年9月： [スズキ](../Page/スズキ_\(企業\).md "wikilink")[LAPINのCMソングに](https://ja.wikipedia.org/wiki/スズキ・アルトラパン "wikilink")[小沢健二](../Page/小沢健二.md "wikilink")の[ラブリーの](../Page/ラブリー_\(曲\).md "wikilink")[カヴァー](https://ja.wikipedia.org/wiki/カヴァー "wikilink")曲が採用。
+2016年9月： [スズキ](../Page/スズキ_\(企業\).md "wikilink")[LAPINのCMソングに](../Page/スズキ・アルトラパン.md "wikilink")[小沢健二](../Page/小沢健二.md "wikilink")の[ラブリーの](../Page/ラブリー_\(曲\).md "wikilink")[カヴァー](https://ja.wikipedia.org/wiki/カヴァー "wikilink")曲が採用。
 
 ## 作品
 

@@ -1,7 +1,7 @@
 > この記事は[DRIVE TO 2000](https://ja.wikipedia.org/wiki/DRIVE_TO_2000)から翻訳されています。
 
 
-**DRIVE TO 2000**（**ドライヴ トゥー ニセン**）は、[1999年](../Page/1999年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink")から[10月31日](../Page/10月31日.md "wikilink")まで7日間に渡って、[新宿LOFTで行われたロック](https://ja.wikipedia.org/wiki/ロフト_\(ライブハウス\) "wikilink")・フェスティバルである。
+**DRIVE TO 2000**（**ドライヴ トゥー ニセン**）は、[1999年](../Page/1999年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink")から[10月31日](../Page/10月31日.md "wikilink")まで7日間に渡って、[新宿LOFTで行われたロック](../Page/ロフト_\(ライブハウス\).md "wikilink")・フェスティバルである。
 
 ## 概要
 
@@ -32,7 +32,7 @@
 
 #### Aステージ
 
-  - ゴージャラスwith[明和電機](https://ja.wikipedia.org/wiki/明和電機 "wikilink")
+  - ゴージャラスwith[明和電機](../Page/明和電機.md "wikilink")
   - TV JESUS
   - [ECD](../Page/ECD_\(ミュージシャン\).md "wikilink")
   - [面影ラッキーホール](../Page/面影ラッキーホール.md "wikilink")
@@ -53,7 +53,7 @@
 #### Aステージ
 
   - RedBeans
-  - ザ・シンセサイザーズ（[ケラ](https://ja.wikipedia.org/wiki/ケラリーノ・サンドロヴィッチ "wikilink")）
+  - ザ・シンセサイザーズ（[ケラ](../Page/ケラリーノ・サンドロヴィッチ.md "wikilink")）
   - サヨコ
   - [HI-POSI](https://ja.wikipedia.org/wiki/ハイポジ "wikilink")
   - [原マスミ](../Page/原マスミ.md "wikilink")
@@ -73,7 +73,7 @@
 
   - スペースポンチ
   - Suzuki K1 7.5cc（[鈴木慶一](../Page/鈴木慶一.md "wikilink")）
-  - [クレイジーケンバンド](https://ja.wikipedia.org/wiki/クレイジーケンバンド "wikilink")
+  - [クレイジーケンバンド](../Page/クレイジーケンバンド.md "wikilink")
   - DEADCOPY
   - [サエキけんぞう](../Page/サエキけんぞう.md "wikilink")
   - ミラクルマン
@@ -130,8 +130,8 @@
 
   - 恒松正敏\&VISIONS
   - 捏造と贋作（上野耕路＋真吾）
-  - [あがた森魚](https://ja.wikipedia.org/wiki/あがた森魚 "wikilink")
-  - [橋本一子](https://ja.wikipedia.org/wiki/橋本一子 "wikilink")
+  - [あがた森魚](../Page/あがた森魚.md "wikilink")
+  - [橋本一子](../Page/橋本一子.md "wikilink")
   - TIL（[奥平イラ](https://ja.wikipedia.org/wiki/奥平イラ "wikilink")）
   - [甲田益也子](../Page/甲田益也子.md "wikilink")（[dip in the pool](https://ja.wikipedia.org/wiki/dip_in_the_pool "wikilink")）
   - [FILMS](https://ja.wikipedia.org/wiki/FILMS "wikilink")
@@ -139,8 +139,8 @@
 
 #### Bステージ＜「白痴」「港のロキシー」完成記念＞
 
-  - [手塚眞](https://ja.wikipedia.org/wiki/手塚眞 "wikilink")
-  - [あがた森魚](https://ja.wikipedia.org/wiki/あがた森魚 "wikilink")
+  - [手塚眞](../Page/手塚眞.md "wikilink")
+  - [あがた森魚](../Page/あがた森魚.md "wikilink")
 
 ### [1999年](../Page/1999年.md "wikilink")[10月30日](../Page/10月30日.md "wikilink")（土）
 
@@ -161,13 +161,13 @@
   - [ホッピー神山](../Page/ホッピー神山.md "wikilink")
   - 沖山淳史
   - Yセツ王（YMO完全コピーバンド）
-  - [松武秀樹](https://ja.wikipedia.org/wiki/松武秀樹 "wikilink")
+  - [松武秀樹](../Page/松武秀樹.md "wikilink")
 
 ### 1999年10月30日（土）深夜イベント
 
 #### Aステージ＜Declare1999 byヒゴヒロシ Thanks for relationship party＞
 
-  - [ROVO](https://ja.wikipedia.org/wiki/ROVO "wikilink")
+  - [ROVO](../Page/ROVO.md "wikilink")
   - WAX
   - DJ HI-GO(Spiral Freak)
   - DJ ERA(Spiral Freak)
@@ -192,7 +192,7 @@
   - [ヒカシュー](../Page/ヒカシュー.md "wikilink")
   - DJ　[加藤賢崇](../Page/加藤賢崇.md "wikilink")
 
-#### Bステージ＜ナイロン100hpa by[ケラ](https://ja.wikipedia.org/wiki/ケラリーノ・サンドロヴィッチ "wikilink") 特別公演＞
+#### Bステージ＜ナイロン100hpa by[ケラ](../Page/ケラリーノ・サンドロヴィッチ.md "wikilink") 特別公演＞
 
   - パニックスマイル
   - n.h.k.

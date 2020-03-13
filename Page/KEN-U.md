@@ -1,15 +1,15 @@
 > この記事は[KEN-U](https://ja.wikipedia.org/wiki/KEN-U)から翻訳されています。
 
 
-**KEN-U**（ケン・ユー、本名：**小宮 賢一**、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[9月20日](../Page/9月20日.md "wikilink")-、A型）は[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身の[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")[シンガーである](../Page/歌手.md "wikilink")。元RACY BULLET(レーシー・バレット)のメンバーでもある。
+**KEN-U**（ケン・ユー、本名：**小宮 賢一**、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[9月20日](../Page/9月20日.md "wikilink")-、A型）は[東京都](../Page/東京都.md "wikilink")出身の[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")[シンガーである](../Page/歌手.md "wikilink")。元RACY BULLET(レーシー・バレット)のメンバーでもある。
 
 ## 来歴
 
-  - [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身、[北星学園余市高等学校](https://ja.wikipedia.org/wiki/北星学園余市高等学校 "wikilink")卒業。
+  - [東京都](../Page/東京都.md "wikilink")出身、[北星学園余市高等学校](../Page/北星学園余市高等学校.md "wikilink")卒業。
   - 1999年頃より[サウンド・システム](https://ja.wikipedia.org/wiki/サウンド・システム "wikilink")RACY BULLETのシンガーとしてライブ活動を始める。
   - 2003年リリースのワンウェイ・コンピレーション・アルバム「ESCAPE」（BACCHANAL45)に参加。収録された楽曲「DOKO」がクラブシーンを中心にヒット。
   - 2005年に発売されたインディーズファーストアルバム「DOKO」がリリース。リード楽曲「DOKO」は、当時[北海道日本ハムファイターズ](../Page/北海道日本ハムファイターズ.md "wikilink")の[森本稀哲](../Page/森本稀哲.md "wikilink")の登場曲にも使用された(2013年に森本が[埼玉西武ライオンズ](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")に移籍した現在も森本は同曲を登場曲に使用している)。
-  - 2007年、[ソニー・ミュージックエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")（SME）傘下の[キューンレコードよりシングル](https://ja.wikipedia.org/wiki/キューンミュージック "wikilink")「夏のそのせい」でメジャーデビュー。
+  - 2007年、[ソニー・ミュージックエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")（SME）傘下の[キューンレコードよりシングル](../Page/キューンミュージック.md "wikilink")「夏のそのせい」でメジャーデビュー。
 
 ## ディスコグラフィー
 

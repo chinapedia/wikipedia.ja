@@ -1,13 +1,13 @@
 > この記事は[NJS \(\)](https://ja.wikipedia.org/wiki/NJS_\(\))から翻訳されています。
 
 
-**株式会社 NJS** は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[港区芝浦に本社を置く](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[建設コンサルタント](https://ja.wikipedia.org/wiki/建設コンサルタント "wikilink")会社で、[上水道](https://ja.wikipedia.org/wiki/上水道 "wikilink")・[下水道](../Page/下水道.md "wikilink")に関するコンサルタント業務を主体とし、関連ソフトウェアの開発・販売、学生向けマンションの賃貸にも進出している。
+**株式会社 NJS** は、[東京都](../Page/東京都.md "wikilink")[港区芝浦に本社を置く](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[建設コンサルタント](../Page/建設コンサルタント.md "wikilink")会社で、[上水道](https://ja.wikipedia.org/wiki/上水道 "wikilink")・[下水道](../Page/下水道.md "wikilink")に関するコンサルタント業務を主体とし、関連ソフトウェアの開発・販売、学生向けマンションの賃貸にも進出している。
 
 ## 沿革
 
   - [1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")9月　東京都[中央区](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")[銀座](https://ja.wikipedia.org/wiki/銀座 "wikilink")に日本上下水道設計株式会社を設立。
   - [1956年](../Page/1956年.md "wikilink")5月　本社を東京都[港区芝新橋に移転](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")。
-  - [1966年](../Page/1966年.md "wikilink")4月　本社を東京都港区[新橋に移転](https://ja.wikipedia.org/wiki/新橋_\(東京都港区\) "wikilink")。
+  - [1966年](../Page/1966年.md "wikilink")4月　本社を東京都港区[新橋に移転](../Page/新橋_\(東京都港区\).md "wikilink")。
   - [1974年](../Page/1974年.md "wikilink")12月　本社を東京都港区海岸に移転。
   - [2002年](../Page/2002年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")　[東証2部上場](../Page/東京証券取引所.md "wikilink")。
   - [2007年](../Page/2007年.md "wikilink")3月　本社を東京都[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")富久町に移転。

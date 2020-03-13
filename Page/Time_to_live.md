@@ -1,11 +1,11 @@
 > この記事は[Time to live](https://ja.wikipedia.org/wiki/Time_to_live)から翻訳されています。
 
 
-**Time to live** （時に **TTL** と省略される）は、[コンピュータ](../Page/コンピュータ.md "wikilink")と[コンピュータネットワーク](https://ja.wikipedia.org/wiki/コンピュータネットワーク "wikilink")技術において、1単位のデータ（例えば一つの[パケット](../Page/パケット.md "wikilink")）が破棄される前に経過する可能性がある時間、もしくは繰り返し数すなわち[トランスミッション数の上限](../Page/伝送.md "wikilink")（余命）である。
+**Time to live** （時に **TTL** と省略される）は、[コンピュータ](../Page/コンピュータ.md "wikilink")と[コンピュータネットワーク](../Page/コンピュータネットワーク.md "wikilink")技術において、1単位のデータ（例えば一つの[パケット](../Page/パケット.md "wikilink")）が破棄される前に経過する可能性がある時間、もしくは繰り返し数すなわち[トランスミッション数の上限](../Page/伝送.md "wikilink")（余命）である。
 
 ## IPパケットのTime to live
 
-[IPv4](https://ja.wikipedia.org/wiki/IPv4 "wikilink")では、time to live (TTL) は、[インターネットプロトコル](https://ja.wikipedia.org/wiki/インターネットプロトコル "wikilink") (IP) ヘッダ内の8ビットフィールドである。それは、20[オクテット中の](../Page/8ビット.md "wikilink")9番目のオクテットである。Time to live の値は、IP[データグラム](https://ja.wikipedia.org/wiki/データグラム "wikilink")がインターネットシステムの中に存在することができる時間の上限として考えることができる。TTLフィールドはデータグラムの送り主が設定し、目的地までのルートの全ての[ホストによって減らされる](https://ja.wikipedia.org/wiki/ホスト_\(ネットワーク\) "wikilink")。データグラムがその目的地に到着する前にTTLフィールドがゼロになったならば、データグラムは破棄され、[ICMPエラーデータグラム](../Page/Internet_Control_Message_Protocol.md "wikilink") ([11 - Time Exceeded](https://ja.wikipedia.org/wiki/Internet_Control_Message_Protocol#Time_Exceeded_Message（時間切れ通知） "wikilink")) が送り主に返される。TTLフィールドの目的は、配達不能のデータグラムがインターネットシステムを循環し続ける状況と最終的にはそのような不滅のデータグラムによるシステムの輻輳を回避することである。理論的には、time to live は秒で測られるが、データグラムが通過する全てのホストは少なくとも1単位だけTTLを減らさなければならない。実際には、TTLフィールドは、全てのごとに1だけ減らされる。このやり方を反映するために、[IPv6](https://ja.wikipedia.org/wiki/IPv6 "wikilink")では、このフィールドは **hop limit** と呼ばれている。
+[IPv4](../Page/IPv4.md "wikilink")では、time to live (TTL) は、[インターネットプロトコル](https://ja.wikipedia.org/wiki/インターネットプロトコル "wikilink") (IP) ヘッダ内の8ビットフィールドである。それは、20[オクテット中の](../Page/8ビット.md "wikilink")9番目のオクテットである。Time to live の値は、IP[データグラム](https://ja.wikipedia.org/wiki/データグラム "wikilink")がインターネットシステムの中に存在することができる時間の上限として考えることができる。TTLフィールドはデータグラムの送り主が設定し、目的地までのルートの全ての[ホストによって減らされる](https://ja.wikipedia.org/wiki/ホスト_\(ネットワーク\) "wikilink")。データグラムがその目的地に到着する前にTTLフィールドがゼロになったならば、データグラムは破棄され、[ICMPエラーデータグラム](../Page/Internet_Control_Message_Protocol.md "wikilink") ([11 - Time Exceeded](https://ja.wikipedia.org/wiki/Internet_Control_Message_Protocol#Time_Exceeded_Message（時間切れ通知） "wikilink")) が送り主に返される。TTLフィールドの目的は、配達不能のデータグラムがインターネットシステムを循環し続ける状況と最終的にはそのような不滅のデータグラムによるシステムの輻輳を回避することである。理論的には、time to live は秒で測られるが、データグラムが通過する全てのホストは少なくとも1単位だけTTLを減らさなければならない。実際には、TTLフィールドは、全てのごとに1だけ減らされる。このやり方を反映するために、[IPv6](https://ja.wikipedia.org/wiki/IPv6 "wikilink")では、このフィールドは **hop limit** と呼ばれている。
 
 Unixの[traceroute](https://ja.wikipedia.org/wiki/traceroute "wikilink")コマンド（Windowsの*tracert*）は、TTLフィールドの機能を利用する。
 

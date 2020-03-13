@@ -3,11 +3,11 @@
 
 **エドワード・パルマー・トムスン**（[英語](../Page/英語.md "wikilink")：Edward Palmer Thompson, [1924年](../Page/1924年.md "wikilink")[2月3日](../Page/2月3日.md "wikilink") - [1993年](../Page/1993年.md "wikilink")[8月28日](../Page/8月28日.md "wikilink")）は、[イングランド](../Page/イングランド.md "wikilink")の[歴史家](../Page/歴史家.md "wikilink")、[社会主義者](https://ja.wikipedia.org/wiki/社会主義者 "wikilink")、および平和運動家。
 
-18世紀末から19世紀初頭にかけての、英国のラディカルな社会運動をめぐる著作、『[イングランド労働者階級の形成](https://ja.wikipedia.org/wiki/イングランド労働者階級の形成 "wikilink")』（原著：1963年）として最も有名だが、彼はまた、[ウィリアム・モリス](https://ja.wikipedia.org/wiki/ウィリアム・モリス "wikilink") の伝記 (1955年) および[ウィリアム・ブレイク](https://ja.wikipedia.org/wiki/ウィリアム・ブレイク "wikilink") についての研究書 (1993年、出版は彼の死後) を出版しているほか、多産なジャーナリスト、エッセイストでもあり、さらには『[シカオス文書](https://ja.wikipedia.org/wiki/シカオス文書 "wikilink")』というSF小説や詩集を出版してもいる。[共産党の知識人メンバーの一人であり](https://ja.wikipedia.org/wiki/イギリス共産党 "wikilink")、 [1956年](../Page/1956年.md "wikilink")の[ハンガリー](../Page/ハンガリー.md "wikilink")への[ソヴィエト軍の侵攻の対処をめぐって離党することにはなったが](../Page/ハンガリー動乱.md "wikilink")、1950年代末期の英国における第一次ニューレフトにおいて重要な役割を担った。彼は、1964-70年および1974-79年の労働党政府に対する、意気軒昂な左翼・社会主義の論客であり、1980年代には、ヨーロッパにおける反核運動を先導する知識人であった。
+18世紀末から19世紀初頭にかけての、英国のラディカルな社会運動をめぐる著作、『[イングランド労働者階級の形成](https://ja.wikipedia.org/wiki/イングランド労働者階級の形成 "wikilink")』（原著：1963年）として最も有名だが、彼はまた、[ウィリアム・モリス](../Page/ウィリアム・モリス.md "wikilink") の伝記 (1955年) および[ウィリアム・ブレイク](../Page/ウィリアム・ブレイク.md "wikilink") についての研究書 (1993年、出版は彼の死後) を出版しているほか、多産なジャーナリスト、エッセイストでもあり、さらには『[シカオス文書](https://ja.wikipedia.org/wiki/シカオス文書 "wikilink")』というSF小説や詩集を出版してもいる。[共産党の知識人メンバーの一人であり](https://ja.wikipedia.org/wiki/イギリス共産党 "wikilink")、 [1956年](../Page/1956年.md "wikilink")の[ハンガリー](../Page/ハンガリー.md "wikilink")への[ソヴィエト軍の侵攻の対処をめぐって離党することにはなったが](../Page/ハンガリー動乱.md "wikilink")、1950年代末期の英国における第一次ニューレフトにおいて重要な役割を担った。彼は、1964-70年および1974-79年の労働党政府に対する、意気軒昂な左翼・社会主義の論客であり、1980年代には、ヨーロッパにおける反核運動を先導する知識人であった。
 
 ## 幼少期
 
-トムスンは[オックスフォード](https://ja.wikipedia.org/wiki/オックスフォード "wikilink")で、メソジスト宣教会の両親のもとに生まれた、彼はバスの[キングズウッド校](https://ja.wikipedia.org/wiki/キングズウッド校 "wikilink")で教育を受けた。[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")のあいだ、 彼は[イタリア](../Page/イタリア.md "wikilink")で戦車部隊に従軍したあと、[ケンブリッジ大学](../Page/ケンブリッジ大学.md "wikilink")の[コーパス・クリスティ・コレッジ](https://ja.wikipedia.org/wiki/コーパス・クリスティ・コレッジ "wikilink")で学び、そこで共産党に入党した。[1946年](../Page/1946年.md "wikilink")に、彼は、[クリストファー・ヒル](https://ja.wikipedia.org/wiki/クリストファー・ヒル_\(歴史学者\) "wikilink")、[エリック・ホブズボーム](../Page/エリック・ホブズボーム.md "wikilink")、[ロドニー・ヒルトン](../Page/ロドニー・ヒルトン.md "wikilink")、[ドナ・ドール](https://ja.wikipedia.org/wiki/ドナ・ドール "wikilink")らとともに[共産党歴史家グループ](https://ja.wikipedia.org/wiki/共産党歴史家グループ "wikilink")を結成した。 このグループが[1952年](../Page/1952年.md "wikilink")から刊行した雑誌『*過去と現在*』はたいへん注目された。
+トムスンは[オックスフォード](../Page/オックスフォード.md "wikilink")で、メソジスト宣教会の両親のもとに生まれた、彼はバスの[キングズウッド校](https://ja.wikipedia.org/wiki/キングズウッド校 "wikilink")で教育を受けた。[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")のあいだ、 彼は[イタリア](../Page/イタリア.md "wikilink")で戦車部隊に従軍したあと、[ケンブリッジ大学](../Page/ケンブリッジ大学.md "wikilink")の[コーパス・クリスティ・コレッジ](https://ja.wikipedia.org/wiki/コーパス・クリスティ・コレッジ "wikilink")で学び、そこで共産党に入党した。[1946年](../Page/1946年.md "wikilink")に、彼は、[クリストファー・ヒル](https://ja.wikipedia.org/wiki/クリストファー・ヒル_\(歴史学者\) "wikilink")、[エリック・ホブズボーム](../Page/エリック・ホブズボーム.md "wikilink")、[ロドニー・ヒルトン](../Page/ロドニー・ヒルトン.md "wikilink")、[ドナ・ドール](https://ja.wikipedia.org/wiki/ドナ・ドール "wikilink")らとともに[共産党歴史家グループ](https://ja.wikipedia.org/wiki/共産党歴史家グループ "wikilink")を結成した。 このグループが[1952年](../Page/1952年.md "wikilink")から刊行した雑誌『*過去と現在*』はたいへん注目された。
 
 ## ウィリアム・モリス
 
@@ -19,20 +19,20 @@
 
 ## 第一次ニューレフト
 
-スターリンの犯罪をソヴィエトの指導部が黙過していたことを暴露した、1956年の[ソヴィエト連邦共産党](https://ja.wikipedia.org/wiki/ソヴィエト連邦共産党 "wikilink")の第20回党大会における[ニキータ・フルシチョフ](../Page/ニキータ・フルシチョフ.md "wikilink")の「[秘密の演説](https://ja.wikipedia.org/wiki/スターリン批判 "wikilink")」の後、トムスンは（[ジョン・サヴィル](https://ja.wikipedia.org/wiki/ジョン・サヴィル "wikilink")や他のメンバーとともに）、共産党内部で、『リーズナー』という名前の反体制の出版物を出し始めた。6ヵ月後に、彼は自分の同僚のほとんどとともに、[ハンガリー動乱](../Page/ハンガリー動乱.md "wikilink")に失望して、共産党を離党した。
+スターリンの犯罪をソヴィエトの指導部が黙過していたことを暴露した、1956年の[ソヴィエト連邦共産党](https://ja.wikipedia.org/wiki/ソヴィエト連邦共産党 "wikilink")の第20回党大会における[ニキータ・フルシチョフ](../Page/ニキータ・フルシチョフ.md "wikilink")の「[秘密の演説](../Page/スターリン批判.md "wikilink")」の後、トムスンは（[ジョン・サヴィル](https://ja.wikipedia.org/wiki/ジョン・サヴィル "wikilink")や他のメンバーとともに）、共産党内部で、『リーズナー』という名前の反体制の出版物を出し始めた。6ヵ月後に、彼は自分の同僚のほとんどとともに、[ハンガリー動乱](../Page/ハンガリー動乱.md "wikilink")に失望して、共産党を離党した。
 
 だが、彼は自分で"[社会主義的ヒューマニスト](https://ja.wikipedia.org/wiki/社会主義的ヒューマニスト "wikilink")"と呼んだ立場にはとどまり、サヴィルらとともに、『[ニューリーズナー](https://ja.wikipedia.org/wiki/ニューリーズナー "wikilink")』誌を立ち上げ、 [共産党](https://ja.wikipedia.org/wiki/共産党 "wikilink")による公式[マルクス主義](../Page/マルクス主義.md "wikilink")、[トロツキスト](https://ja.wikipedia.org/wiki/トロツキスト "wikilink")たち、統制主義的な労働党の社会民主主義その国際的同盟者たちのような編集者たちが骨ばっていると見なしたものに代わる社会民主主義的な代替案を展開することを模索した。『ニューリーズナー』は、 "[ニューレフト](https://ja.wikipedia.org/wiki/ニューレフト "wikilink")"として、つまり1950年代末や1960年代初頭における核軍縮に向けた初期の運動と密接に結びついた反体制左翼の非公式運動として知られるようになったもののうちで、もっとも重要な機関誌であった。
 
-『ニュー・リーズナー』誌は、1960年に、『[大学および左翼評論](https://ja.wikipedia.org/wiki/大学および左翼評論 "wikilink")』誌と合併し、『[ニュー・レフト・レヴュー](https://ja.wikipedia.org/wiki/ニュー・レフト・レヴュー "wikilink")』となったが、トムスンらはfell out with the group around 立ち上げのあとすぐに雑誌を乗っ取ることになる[ペリー・アンダーソン](https://ja.wikipedia.org/wiki/ペリー・アンダーソン "wikilink")を中心とする集団と仲違いをし、袂を分かった。それ以来、トムスンや*その仲間たち*の新左翼を"第一次ニューレフト"、1968年以降に[タリク・アリ](https://ja.wikipedia.org/wiki/タリク・アリ "wikilink")とさまざまなトロツキストたちを抱き込んだ、アンダーソンや*その仲間たち*の集団を、第二ニューレフトと呼ぶことが流行った。
+『ニュー・リーズナー』誌は、1960年に、『[大学および左翼評論](https://ja.wikipedia.org/wiki/大学および左翼評論 "wikilink")』誌と合併し、『[ニュー・レフト・レヴュー](https://ja.wikipedia.org/wiki/ニュー・レフト・レヴュー "wikilink")』となったが、トムスンらはfell out with the group around 立ち上げのあとすぐに雑誌を乗っ取ることになる[ペリー・アンダーソン](../Page/ペリー・アンダーソン.md "wikilink")を中心とする集団と仲違いをし、袂を分かった。それ以来、トムスンや*その仲間たち*の新左翼を"第一次ニューレフト"、1968年以降に[タリク・アリ](https://ja.wikipedia.org/wiki/タリク・アリ "wikilink")とさまざまなトロツキストたちを抱き込んだ、アンダーソンや*その仲間たち*の集団を、第二ニューレフトと呼ぶことが流行った。
 
 トムスンはその結果、『ソシアル・レジスター』年報の出版者と組むことになり、（[レイモンド・ウィリアムズ](../Page/レイモンド・ウィリアムズ.md "wikilink")や[ステュワート・ホール](https://ja.wikipedia.org/wiki/ステュワート・ホール "wikilink")とともに） ハロルド・ウィルソンの1964-70年の労働党政権への、左翼からの主要な異議申し立てのひとつである、1967年の『メーデー・マニフェスト』の編者のひとりとなった。
 
 ## イングランド労働者階級の形成
 
-トムソンの著作のうち最も影響力があったのは、[リーズ大学](https://ja.wikipedia.org/wiki/リーズ大学 "wikilink")で研究をしていた1963年に出版された『イングランド労働者階級の形成』であり、その影響は今も続いている。それが語るのは、18世紀末から19世紀初頭の世界から取り残された初期労働者階級の人びとの忘れられた歴史である。この著作の序文で、トムスンは次のようにして、歴史を書くための自分のアプローチを説明している。
+トムソンの著作のうち最も影響力があったのは、[リーズ大学](../Page/リーズ大学.md "wikilink")で研究をしていた1963年に出版された『イングランド労働者階級の形成』であり、その影響は今も続いている。それが語るのは、18世紀末から19世紀初頭の世界から取り残された初期労働者階級の人びとの忘れられた歴史である。この著作の序文で、トムスンは次のようにして、歴史を書くための自分のアプローチを説明している。
 
   -
-    「わたしが試みているのは、貧しい靴下職人、[ラッダイト運動](https://ja.wikipedia.org/wiki/ラッダイト運動 "wikilink")の小作人、'時代遅れ'の手織り織機工、'ユートピア的'職人たちであり、さらには、恥知らずな子孫たちによって裏切られた[ジョアンナ・サウスコット](https://ja.wikipedia.org/wiki/ジョアンナ・サウスコット "wikilink")の仲間たちさえ、救おうとすることなのである。彼らの工芸や伝統は死にゆくところだったのかもしれない。新たな産業主義に対する彼らの敵意は、後ろ向きのものだったかもしれない。彼らの協働主義的な理念は空想的だったかもしれない。彼らの反乱謀議は向こう見ずなものだったかもしれない。だが、彼らは先鋭な社会的騒動の時代を生き抜いたが、わたしたちはそうではない。彼ら自身の経験からしてみれば、彼らの野望も妥当なものだといえる。そして、もしも彼らが歴史の因果性なのだとしたら、彼らは、彼ら自身の人生のなかに追い込まれ、因果性として残り続ける。」
+    「わたしが試みているのは、貧しい靴下職人、[ラッダイト運動](../Page/ラッダイト運動.md "wikilink")の小作人、'時代遅れ'の手織り織機工、'ユートピア的'職人たちであり、さらには、恥知らずな子孫たちによって裏切られた[ジョアンナ・サウスコット](https://ja.wikipedia.org/wiki/ジョアンナ・サウスコット "wikilink")の仲間たちさえ、救おうとすることなのである。彼らの工芸や伝統は死にゆくところだったのかもしれない。新たな産業主義に対する彼らの敵意は、後ろ向きのものだったかもしれない。彼らの協働主義的な理念は空想的だったかもしれない。彼らの反乱謀議は向こう見ずなものだったかもしれない。だが、彼らは先鋭な社会的騒動の時代を生き抜いたが、わたしたちはそうではない。彼ら自身の経験からしてみれば、彼らの野望も妥当なものだといえる。そして、もしも彼らが歴史の因果性なのだとしたら、彼らは、彼ら自身の人生のなかに追い込まれ、因果性として残り続ける。」
 
 この著作は調査と分析による労作であるとともに、[史料編纂](https://ja.wikipedia.org/wiki/史料編纂 "wikilink")という意味においても重要である。これによってトムソンが示したのは、マルクス主義歴史学の力は、現実の血の通った労働者の経験に由来するものであるということである。この本はその出版以来、40年以上にわたって、大学での読書リストのなかにその題名が残り続けている。
 
@@ -44,7 +44,7 @@
 
 ## 平和運動についての発言
 
-[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")以後、トムスンは、復活した[核軍縮運動におけるもっとも突出した知識人となり](../Page/反核運動.md "wikilink")、世界各地の活動家たちの尊敬を集めた。英国において、政府の小冊子「防衛と生存*[:en:Protect and Survive](https://ja.wikipedia.org/wiki/:en:Protect_and_Survive "wikilink")*」のパロディである、彼のパンフレット「抗議と生存」は、反核キャンペーンが勢いを取り戻すにあたって重要な役割を果たした。それと同じく重要なことは、トムスンは、[ケン・コーツ](https://ja.wikipedia.org/wiki/ケン・コーツ "wikilink")、[メアリー・カルドー](https://ja.wikipedia.org/wiki/メアリー・カルドー "wikilink")らとともに、1980年の*ヨーロッパ核軍縮アピール*の著者の一人として、[ポーランド](../Page/ポーランド.md "wikilink")から[ポルトガル](../Page/ポルトガル.md "wikilink")にいたるヨーロッパ[非核地帯](https://ja.wikipedia.org/wiki/非核地帯 "wikilink")の呼びかけを行っており、それが[ヨーロッパ非核運動](https://ja.wikipedia.org/wiki/ヨーロッパ非核運動 "wikilink")（*Europe Nuclear Disarmament, END*）の設立文書となった。紛らわしいことに、ENDは、一連の大きな公的会議を組織するヨーロッパ規模のキャンペーンであると同時に、英国における小さな圧力団体でもあった。
+[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")以後、トムスンは、復活した[核軍縮運動におけるもっとも突出した知識人となり](../Page/反核運動.md "wikilink")、世界各地の活動家たちの尊敬を集めた。英国において、政府の小冊子「防衛と生存*[:en:Protect and Survive](https://ja.wikipedia.org/wiki/:en:Protect_and_Survive "wikilink")*」のパロディである、彼のパンフレット「抗議と生存」は、反核キャンペーンが勢いを取り戻すにあたって重要な役割を果たした。それと同じく重要なことは、トムスンは、[ケン・コーツ](https://ja.wikipedia.org/wiki/ケン・コーツ "wikilink")、[メアリー・カルドー](../Page/メアリー・カルドー.md "wikilink")らとともに、1980年の*ヨーロッパ核軍縮アピール*の著者の一人として、[ポーランド](../Page/ポーランド.md "wikilink")から[ポルトガル](../Page/ポルトガル.md "wikilink")にいたるヨーロッパ[非核地帯](https://ja.wikipedia.org/wiki/非核地帯 "wikilink")の呼びかけを行っており、それが[ヨーロッパ非核運動](https://ja.wikipedia.org/wiki/ヨーロッパ非核運動 "wikilink")（*Europe Nuclear Disarmament, END*）の設立文書となった。紛らわしいことに、ENDは、一連の大きな公的会議を組織するヨーロッパ規模のキャンペーンであると同時に、英国における小さな圧力団体でもあった。
 
 トムスンは、無数の市民会合で演説をしたり、同僚の活動家たちや共感する知識人に対応したり、また委員会活動で彼に求められた以上の仕事をこなしたりするなど、1980年代を通じ、ENDおよびCNDの双方において重要な役割を果たした。なかでも彼は、西ヨーロッパの平和運動と、ソヴィエト支配下の東ヨーロッパ、とりわけ[ハンガリー](../Page/ハンガリー.md "wikilink")および[チェコスロヴァキア](https://ja.wikipedia.org/wiki/チェコスロヴァキア "wikilink")における反体制運動のあいだに、対話を開くにあたって、重要な役割を担った－－彼はそのことをもって、アメリカ帝国主義の手先だとしてソヴィエト当局から非難を受けた。
 
@@ -84,7 +84,7 @@
 <!-- end list -->
 
   -
-    [河合秀和訳](https://ja.wikipedia.org/wiki/河合秀和_\(政治学者\) "wikilink")『ゼロ・オプション――核なきヨーロッパをめざして』（[岩波書店](../Page/岩波書店.md "wikilink"), 1983年）
+    [河合秀和訳](../Page/河合秀和_\(政治学者\).md "wikilink")『ゼロ・オプション――核なきヨーロッパをめざして』（[岩波書店](../Page/岩波書店.md "wikilink"), 1983年）
 
 <!-- end list -->
 
@@ -105,7 +105,7 @@
 <!-- end list -->
 
   -
-    [福田歓一](https://ja.wikipedia.org/wiki/福田歓一 "wikilink")・河合秀和・[前田康博](https://ja.wikipedia.org/wiki/前田康博 "wikilink")訳『新しい左翼――政治的無関心からの脱出』（岩波書店, 1963年）
+    [福田歓一](../Page/福田歓一.md "wikilink")・河合秀和・[前田康博](https://ja.wikipedia.org/wiki/前田康博 "wikilink")訳『新しい左翼――政治的無関心からの脱出』（岩波書店, 1963年）
 
 <!-- end list -->
 
@@ -118,11 +118,11 @@
 <!-- end list -->
 
   -
-    [丸山幹正](https://ja.wikipedia.org/wiki/丸山幹正 "wikilink")訳『世界の反核理論』（[勁草書房](https://ja.wikipedia.org/wiki/勁草書房 "wikilink"), 1983年）
+    [丸山幹正](https://ja.wikipedia.org/wiki/丸山幹正 "wikilink")訳『世界の反核理論』（[勁草書房](../Page/勁草書房.md "wikilink"), 1983年）
 
 ## さらに詳しく
 
-  - [Anderson, Perry](https://ja.wikipedia.org/wiki/ペリー・アンダーソン "wikilink") *Arguments within English Marxism*, London: Verso, 1980.
+  - [Anderson, Perry](../Page/ペリー・アンダーソン.md "wikilink") *Arguments within English Marxism*, London: Verso, 1980.
   - Johnson, R. "Edward Thompson, Eugence Genovese and Socialist-humanist History" pages 7-9 from *History Workshop Journal*, Volume 6, 1978.
   - Kaye, Harvey *The British Marxist Historians*, Cambridge: Polity Press, 1984.
   - Harvey J. Kaye and Keith McClelland, editors *E.P.Thompson: Critical Perspectives* Polity Press, London, 1990.
@@ -131,7 +131,7 @@
 <!-- end list -->
 
   -
-    Ｅ・Ｐ・トムスン／ナタリ・Ｚ・デイヴィス／Ｃ・ギンズブルグ他『歴史家たち』（[近藤和彦](https://ja.wikipedia.org/wiki/近藤和彦 "wikilink")・野村達朗編訳, 名古屋大学出版会, 1990）
+    Ｅ・Ｐ・トムスン／ナタリ・Ｚ・デイヴィス／Ｃ・ギンズブルグ他『歴史家たち』（[近藤和彦](../Page/近藤和彦.md "wikilink")・野村達朗編訳, 名古屋大学出版会, 1990）
 
 <!-- end list -->
 

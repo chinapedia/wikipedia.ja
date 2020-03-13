@@ -32,6 +32,6 @@ MB.210は、[MB.200の発展型としてブロシュ社が](https://ja.wikipedia
 
   - [フランス](../Page/フランス空軍.md "wikilink")
 
-  - [ルーマニア](https://ja.wikipedia.org/wiki/ルーマニア空軍 "wikilink")
+  - [ルーマニア](../Page/ルーマニア空軍.md "wikilink")
 
 [Category:フランスの爆撃機](https://ja.wikipedia.org/wiki/Category:フランスの爆撃機 "wikilink")

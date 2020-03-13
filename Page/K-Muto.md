@@ -1,7 +1,7 @@
 > この記事は[K-Muto](https://ja.wikipedia.org/wiki/K-Muto)から翻訳されています。
 
 
-**K-Muto**（ケイ・ムトウ）は、日本の[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")、[編曲家](../Page/編曲家.md "wikilink")。 [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身。本名（武藤敬一朗）での活動も行なっている。
+**K-Muto**（ケイ・ムトウ）は、日本の[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")、[編曲家](../Page/編曲家.md "wikilink")。 [東京都](../Page/東京都.md "wikilink")出身。本名（武藤敬一朗）での活動も行なっている。
 
 ## 経歴
 
@@ -11,19 +11,19 @@
 
 ## プロデュース・編曲・作曲で関わった主なアーティスト
 
-  - [EARTH](https://ja.wikipedia.org/wiki/EARTH_\(歌手グループ\) "wikilink")
+  - [EARTH](../Page/EARTH_\(歌手グループ\).md "wikilink")
   - [片瀬那奈](https://ja.wikipedia.org/wiki/片瀬那奈 "wikilink")
-  - [清貴](https://ja.wikipedia.org/wiki/清貴 "wikilink")
+  - [清貴](../Page/清貴.md "wikilink")
   - [葛谷葉子](../Page/葛谷葉子.md "wikilink")
   - [TO-YA](https://ja.wikipedia.org/wiki/TO-YA "wikilink")
-  - [久保田利伸](https://ja.wikipedia.org/wiki/久保田利伸 "wikilink")
+  - [久保田利伸](../Page/久保田利伸.md "wikilink")
   - [CORE OF SOUL](../Page/CORE_OF_SOUL.md "wikilink")
   - [国府田マリ子](https://ja.wikipedia.org/wiki/国府田マリ子 "wikilink")
   - [ゴスペラーズ](../Page/ゴスペラーズ.md "wikilink")
   - [島谷ひとみ](https://ja.wikipedia.org/wiki/島谷ひとみ "wikilink")
   - [嶋野百恵](../Page/嶋野百恵.md "wikilink")
   - [ZOOCO](https://ja.wikipedia.org/wiki/ZOOCO "wikilink")
-  - [鈴木雅之](https://ja.wikipedia.org/wiki/鈴木雅之_\(歌手\) "wikilink")
+  - [鈴木雅之](../Page/鈴木雅之_\(歌手\).md "wikilink")
   - [Atomic Kitten](https://ja.wikipedia.org/wiki/Atomic_Kitten "wikilink")
   - [CAIZE](https://ja.wikipedia.org/wiki/CAIZE "wikilink")
   - [Nuu](https://ja.wikipedia.org/wiki/Nuu "wikilink")
@@ -42,20 +42,20 @@
   - [PrizmaX](https://ja.wikipedia.org/wiki/PrizmaX "wikilink")
   - [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")
   - [Sowelu](https://ja.wikipedia.org/wiki/Sowelu "wikilink")
-  - [DA PUMP](https://ja.wikipedia.org/wiki/DA_PUMP "wikilink")
+  - [DA PUMP](../Page/DA_PUMP.md "wikilink")
   - [DOUBLE](https://ja.wikipedia.org/wiki/DOUBLE_\(歌手\) "wikilink")
   - [HI-D](../Page/HI-D.md "wikilink")
-  - [PaniCrew](https://ja.wikipedia.org/wiki/PaniCrew "wikilink")
+  - [PaniCrew](../Page/PaniCrew.md "wikilink")
   - [PUFFY](../Page/PUFFY.md "wikilink")
   - [V6](../Page/V6_\(グループ\).md "wikilink")
   - [Hiro:n](../Page/Hiro:n.md "wikilink")
   - [BoA](../Page/BoA.md "wikilink")
   - [MAX](https://ja.wikipedia.org/wiki/MAX_\(音楽グループ\) "wikilink")
-  - [三浦大知](https://ja.wikipedia.org/wiki/三浦大知 "wikilink")
+  - [三浦大知](../Page/三浦大知.md "wikilink")
   - [メロン記念日](../Page/メロン記念日.md "wikilink")
-  - [Lead](https://ja.wikipedia.org/wiki/Lead "wikilink")
+  - [Lead](../Page/Lead.md "wikilink")
   - [May'n](../Page/May'n.md "wikilink")
-  - [SAKURA](https://ja.wikipedia.org/wiki/SAKURA_\(歌手\) "wikilink")
+  - [SAKURA](../Page/SAKURA_\(歌手\).md "wikilink")
   - [東方神起](https://ja.wikipedia.org/wiki/東方神起 "wikilink")
   - [テレサテン](https://ja.wikipedia.org/wiki/テレサテン "wikilink")
   - [ともさかりえ](https://ja.wikipedia.org/wiki/ともさかりえ "wikilink")
@@ -64,7 +64,7 @@
   - [PASTEL CALLA](https://ja.wikipedia.org/wiki/PASTEL_CALLA "wikilink")
   - [CHEMISTRY](../Page/CHEMISTRY.md "wikilink")
   - [HOWIE D](https://ja.wikipedia.org/wiki/HOWIE_D "wikilink")
-  - [杏里](https://ja.wikipedia.org/wiki/杏里 "wikilink")
+  - [杏里](../Page/杏里.md "wikilink")
   - アフィリアサーガ
   - ISLAND BAG
 

@@ -21,19 +21,19 @@
 
 ## 来歴
 
-[広島県立尾道東高等学校](https://ja.wikipedia.org/wiki/広島県立尾道東高等学校 "wikilink")の学園祭に出演するため、久保田、大池、清水、麻生の4人で[ビートルズ](../Page/ビートルズ.md "wikilink")のコピーバンドとして結成。 当時は、久保田、麻生のツインボーカルのバンドだったが大学入試により、麻生が脱退。その後、趣味のカメラでライブの写真を撮っていた同級生の入船が、YAMAHA DX7を持っていたため、キーボードとして参加。 後に、楽器店（尾道マスハラ楽器）で出会った加納が参加。加納は当時、父親の[エピフォン](https://ja.wikipedia.org/wiki/エピフォン "wikilink")のギターを持っていたのが、参加の決め手となった。
+[広島県立尾道東高等学校](../Page/広島県立尾道東高等学校.md "wikilink")の学園祭に出演するため、久保田、大池、清水、麻生の4人で[ビートルズ](../Page/ビートルズ.md "wikilink")のコピーバンドとして結成。 当時は、久保田、麻生のツインボーカルのバンドだったが大学入試により、麻生が脱退。その後、趣味のカメラでライブの写真を撮っていた同級生の入船が、YAMAHA DX7を持っていたため、キーボードとして参加。 後に、楽器店（尾道マスハラ楽器）で出会った加納が参加。加納は当時、父親の[エピフォン](../Page/エピフォン.md "wikilink")のギターを持っていたのが、参加の決め手となった。
 
-[1984年](../Page/1984年.md "wikilink")の[CBSソニーCR-Xオーディション](http://www.sonymusic.co.jp/sd/about/audition1980.html)での優勝をきっかけにデビュー。[LOOK](https://ja.wikipedia.org/wiki/ルック_\(音楽グループ\) "wikilink")、[種ともこ](../Page/種ともこ.md "wikilink")、[聖飢魔II](../Page/聖飢魔II.md "wikilink")が同オーディション出身である。
+[1984年](../Page/1984年.md "wikilink")の[CBSソニーCR-Xオーディション](http://www.sonymusic.co.jp/sd/about/audition1980.html)での優勝をきっかけにデビュー。[LOOK](../Page/ルック_\(音楽グループ\).md "wikilink")、[種ともこ](../Page/種ともこ.md "wikilink")、[聖飢魔II](../Page/聖飢魔II.md "wikilink")が同オーディション出身である。
 
-[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[11月21日](../Page/11月21日.md "wikilink")、[12インチシングル](../Page/シングル.md "wikilink")「ため息のマイナー・コード」でCBSソニー（現・[ソニーレコード](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")）よりデビュー。所属事務所は[アミューズ](https://ja.wikipedia.org/wiki/アミューズ "wikilink")。バンド名の由来は、メンバーがそれぞれ、尾道市の東・南・西・北方面に住んでいたため。 同じくアミューズに所属していた[三宅裕司](../Page/三宅裕司.md "wikilink")のラジオ番組『三宅裕司の[ヤングパラダイス](https://ja.wikipedia.org/wiki/ヤングパラダイス "wikilink")』で一押しの新人アーティストとして紹介。同様に[TBSの深夜ドラマ](../Page/TBSテレビ.md "wikilink")『[冗談ストリート](https://ja.wikipedia.org/wiki/冗談ストリート "wikilink")』にもゲスト出演するなど、アミューズ期待の新星バンドとしてプッシュされていた。
+[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[11月21日](../Page/11月21日.md "wikilink")、[12インチシングル](../Page/シングル.md "wikilink")「ため息のマイナー・コード」でCBSソニー（現・[ソニーレコード](../Page/ソニー・ミュージックレコーズ.md "wikilink")）よりデビュー。所属事務所は[アミューズ](https://ja.wikipedia.org/wiki/アミューズ "wikilink")。バンド名の由来は、メンバーがそれぞれ、尾道市の東・南・西・北方面に住んでいたため。 同じくアミューズに所属していた[三宅裕司](../Page/三宅裕司.md "wikilink")のラジオ番組『三宅裕司の[ヤングパラダイス](../Page/ヤングパラダイス.md "wikilink")』で一押しの新人アーティストとして紹介。同様に[TBSの深夜ドラマ](../Page/TBSテレビ.md "wikilink")『[冗談ストリート](https://ja.wikipedia.org/wiki/冗談ストリート "wikilink")』にもゲスト出演するなど、アミューズ期待の新星バンドとしてプッシュされていた。
 
 [1991年](../Page/1991年.md "wikilink")[2月10日](../Page/2月10日.md "wikilink")に解散。各々の道に進んだ。音楽の世界に留まったメンバーもいる。
 
-リードヴォーカル[久保田洋司](../Page/久保田洋司.md "wikilink")は、[1992年](../Page/1992年.md "wikilink")にソロデビュー。また、ソングライターとして[松田聖子](../Page/松田聖子.md "wikilink")、[ribbonなどに楽曲を提供](https://ja.wikipedia.org/wiki/ribbon_\(アイドルグループ\) "wikilink")。その後[ジャニーズ関係の](../Page/ジャニーズ事務所.md "wikilink")[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")を多く手がけ、2000年代以降も[トラジ・ハイジ](https://ja.wikipedia.org/wiki/トラジ・ハイジ "wikilink")「[ファンタスティポ](../Page/ファンタスティポ_\(曲\).md "wikilink")」などヒット曲を手がけている。
+リードヴォーカル[久保田洋司](../Page/久保田洋司.md "wikilink")は、[1992年](../Page/1992年.md "wikilink")にソロデビュー。また、ソングライターとして[松田聖子](../Page/松田聖子.md "wikilink")、[ribbonなどに楽曲を提供](https://ja.wikipedia.org/wiki/ribbon_\(アイドルグループ\) "wikilink")。その後[ジャニーズ関係の](../Page/ジャニーズ事務所.md "wikilink")[作詞](../Page/作詞.md "wikilink")を多く手がけ、2000年代以降も[トラジ・ハイジ](../Page/トラジ・ハイジ.md "wikilink")「[ファンタスティポ](../Page/ファンタスティポ_\(曲\).md "wikilink")」などヒット曲を手がけている。
 
 ベースの清水伸吾は[スタジオ・ミュージシャン](../Page/スタジオ・ミュージシャン.md "wikilink")やライブサポート、劇団[スーパーエキセントリックシアター](https://ja.wikipedia.org/wiki/スーパーエキセントリックシアター "wikilink")の音楽担当などで活躍。
 
-ドラムの大池茂文はソニーレコードのディレクターに転身し、[UNICORN](https://ja.wikipedia.org/wiki/UNICORN "wikilink")、[すかんち](../Page/すかんち.md "wikilink")、HEAVENなどの作品制作に関わった。その後[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")に移籍し、[広末涼子](https://ja.wikipedia.org/wiki/広末涼子 "wikilink")、[SBKなどのディレクションを担当](https://ja.wikipedia.org/wiki/スケボーキング_\(バンド\) "wikilink")。
+ドラムの大池茂文はソニーレコードのディレクターに転身し、[UNICORN](../Page/UNICORN.md "wikilink")、[すかんち](../Page/すかんち.md "wikilink")、HEAVENなどの作品制作に関わった。その後[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")に移籍し、[広末涼子](https://ja.wikipedia.org/wiki/広末涼子 "wikilink")、[SBKなどのディレクションを担当](https://ja.wikipedia.org/wiki/スケボーキング_\(バンド\) "wikilink")。
 
 [2009年](../Page/2009年.md "wikilink")に久保田、大池、清水の3人で、尾道市内で復活ライブを開催。以降も尾道を拠点に、不定期にライブを開催。
 
@@ -457,8 +457,8 @@
 
 ### その他参加
 
-  - [PSY・S](https://ja.wikipedia.org/wiki/PSY・S "wikilink") Presents 『Collection』（1987年2月26日） - M7「絵に描いたより Pictureness」久保田、清水が参加
-  - [UNICORN](https://ja.wikipedia.org/wiki/UNICORN "wikilink") 『[ヒゲとボイン](../Page/ヒゲとボイン_\(アルバム\).md "wikilink")』 - 大池がアシスタントディレクター兼、パーカッションで、ルー大池として参加
+  - [PSY・S](../Page/PSY・S.md "wikilink") Presents 『Collection』（1987年2月26日） - M7「絵に描いたより Pictureness」久保田、清水が参加
+  - [UNICORN](../Page/UNICORN.md "wikilink") 『[ヒゲとボイン](../Page/ヒゲとボイン_\(アルバム\).md "wikilink")』 - 大池がアシスタントディレクター兼、パーカッションで、ルー大池として参加
   - [関口和之](../Page/関口和之.md "wikilink") アルバム『砂金』（1986年2月5日） - 「人気なんかラララ（We're the 二次会）」にメンバーがコーラスで参加。
 
 ### 映画出演
@@ -1313,7 +1313,7 @@
 
 1.  オフィシャルオンラインショップ『コンパス ダイレクト』及び、[タワーレコード](../Page/タワーレコード.md "wikilink")店頭、タワーレコードオンラインショップ限定発売商品。
 2.
-3.  [ケンウッド](https://ja.wikipedia.org/wiki/ケンウッド "wikilink")CM「[ミニコンポ](https://ja.wikipedia.org/wiki/ミニコンポ "wikilink")[ROXY](https://ja.wikipedia.org/wiki/ROXY "wikilink")」挿入歌。
+3.  [ケンウッド](../Page/ケンウッド.md "wikilink")CM「[ミニコンポ](../Page/ミニコンポ.md "wikilink")[ROXY](https://ja.wikipedia.org/wiki/ROXY "wikilink")」挿入歌。
 4.  [NHKドラマ](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[ばら色の人生 (テレビドラマ)](../Page/ばら色の人生_\(テレビドラマ\).md "wikilink")』主題歌。
 5.  映画『[微熱少年](https://ja.wikipedia.org/wiki/微熱少年 "wikilink")』挿入歌。
 6.  [日本テレビドラマ](../Page/日本テレビ放送網.md "wikilink")『[Wパパにオマケの子?\!](../Page/Wパパにオマケの子?!.md "wikilink")』主題歌。

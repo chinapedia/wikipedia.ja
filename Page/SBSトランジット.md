@@ -1,7 +1,7 @@
 > この記事は[SBS](https://ja.wikipedia.org/wiki/SBS)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:VSOCitybuzz.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Singapore_Crystal_Mover.jpg "wikilink") **SBSトランジット**（**SBS Transit**, 中国語：**、**）は、[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")で公共交通機関を運行する会社。シンガポール最大かつ世界第2位の運輸事業者である[ComfortDelGro Corporationの](https://ja.wikipedia.org/wiki/ComfortDelGro_Corporation "wikilink")[子会社](https://ja.wikipedia.org/wiki/子会社 "wikilink")（株式の75%を所有）である。主な競合相手は同じように[路線バス](../Page/路線バス.md "wikilink")・[鉄道](../Page/鉄道.md "wikilink")・[タクシー](../Page/タクシー.md "wikilink")を運行している[SMRTコーポレーション](../Page/SMRTコーポレーション.md "wikilink")である。今のところ217系統のバスを運行し、同事業で75%のシェアを占めている。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:VSOCitybuzz.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Singapore_Crystal_Mover.jpg "wikilink") **SBSトランジット**（**SBS Transit**, 中国語：**、**）は、[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")で公共交通機関を運行する会社。シンガポール最大かつ世界第2位の運輸事業者である[ComfortDelGro Corporationの](https://ja.wikipedia.org/wiki/ComfortDelGro_Corporation "wikilink")[子会社](../Page/子会社.md "wikilink")（株式の75%を所有）である。主な競合相手は同じように[路線バス](../Page/路線バス.md "wikilink")・[鉄道](../Page/鉄道.md "wikilink")・[タクシー](../Page/タクシー.md "wikilink")を運行している[SMRTコーポレーション](../Page/SMRTコーポレーション.md "wikilink")である。今のところ217系統のバスを運行し、同事業で75%のシェアを占めている。
 
 ## 沿革
 
@@ -9,7 +9,7 @@
   - [2001年](../Page/2001年.md "wikilink")1月 バスと鉄道を運行する事業者ということを明確にするためにSBSトランジットに社名を変更する。
   - [2003年](../Page/2003年.md "wikilink")[1月20日](../Page/1月20日.md "wikilink") [LRTセンカン線](https://ja.wikipedia.org/wiki/LRTセンカン線 "wikilink")（東環状線）の運行を開始する。
   - [2003年](../Page/2003年.md "wikilink")[6月20日](../Page/6月20日.md "wikilink") [MRT北東線](https://ja.wikipedia.org/wiki/MRT北東線 "wikilink")の運行を開始する。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[1月29日](../Page/1月29日.md "wikilink") [LRTプンゴル線](https://ja.wikipedia.org/wiki/LRTプンゴル線 "wikilink")（東環状線）と[LRTセンカン線](https://ja.wikipedia.org/wiki/LRTセンカン線 "wikilink")（西環状線）の運行を開始する。
+  - [2005年](../Page/2005年.md "wikilink")[1月29日](../Page/1月29日.md "wikilink") [LRTプンゴル線](https://ja.wikipedia.org/wiki/LRTプンゴル線 "wikilink")（東環状線）と[LRTセンカン線](https://ja.wikipedia.org/wiki/LRTセンカン線 "wikilink")（西環状線）の運行を開始する。
   - [2013年](../Page/2013年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink") [MRTダウンタウン線](https://ja.wikipedia.org/wiki/MRTダウンタウン線 "wikilink")（第1期区間 4.3km 6駅）の運行を開始する。
   - [2014年](../Page/2014年.md "wikilink")[6月29日](../Page/6月29日.md "wikilink") [LRTプンゴル線](https://ja.wikipedia.org/wiki/LRTプンゴル線 "wikilink")（西環状線）の運行を開始する。
   - [2015年](../Page/2015年.md "wikilink")[12月27日](../Page/12月27日.md "wikilink") [MRTダウンタウン線](https://ja.wikipedia.org/wiki/MRTダウンタウン線 "wikilink")（第2期区間 16.6km 12駅）の運行を開始する。
@@ -83,9 +83,9 @@
 
 ## 関連項目
 
-  - [シンガポールの鉄道](https://ja.wikipedia.org/wiki/シンガポールの鉄道 "wikilink")
+  - [シンガポールの鉄道](../Page/シンガポールの鉄道.md "wikilink")
   - [SMRTコーポレーション](../Page/SMRTコーポレーション.md "wikilink")
-  - [EZ-link](https://ja.wikipedia.org/wiki/EZ-link "wikilink")
+  - [EZ-link](../Page/EZ-link.md "wikilink")
 
 ## 外部リンク
 

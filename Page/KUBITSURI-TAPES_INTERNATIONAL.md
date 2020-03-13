@@ -17,11 +17,11 @@
 
 ## 媒体
 
-当初、そのレーベルのネーミングが示すようにリリースの[媒体](https://ja.wikipedia.org/wiki/媒体 "wikilink")は[カセット](https://ja.wikipedia.org/wiki/カセット "wikilink")作品を主としていたが、1993年に[ゲロゲリゲゲゲ](https://ja.wikipedia.org/wiki/ゲロゲリゲゲゲ "wikilink")の「HOTEL ULTRA」をリリースしたころからリリース媒体は[CDに移行し](../Page/コンパクトディスク.md "wikilink")、以降はCD/[レコード](../Page/レコード.md "wikilink")が主なリリース形式となっている。しかし、カセットを媒体とする頒布も1995年まで続けられていた。
+当初、そのレーベルのネーミングが示すようにリリースの[媒体](https://ja.wikipedia.org/wiki/媒体 "wikilink")は[カセット](../Page/カセット.md "wikilink")作品を主としていたが、1993年に[ゲロゲリゲゲゲ](https://ja.wikipedia.org/wiki/ゲロゲリゲゲゲ "wikilink")の「HOTEL ULTRA」をリリースしたころからリリース媒体は[CDに移行し](../Page/コンパクトディスク.md "wikilink")、以降はCD/[レコード](../Page/レコード.md "wikilink")が主なリリース形式となっている。しかし、カセットを媒体とする頒布も1995年まで続けられていた。
 
 ### カラー・ビニールレコード
 
-首つりTAPEの特徴のひとつに[レコード](../Page/レコード.md "wikilink")を媒体とする頒布が挙げられる。そのほとんどがカラー・ビニールレコードでのリリースで、レーベル番号の最後に「CO」と書かれてあるものがそうである。特に面白いものとして、[イタリア](../Page/イタリア.md "wikilink")のグループDEAD, BODY, LOVEのスプラッター・マーブル仕様と呼ばれているものや、[スイス](../Page/スイス.md "wikilink")のグループ、ザ・モンスターズのギタリストでもある、LIGHTING BEAT MANの[蛍光](https://ja.wikipedia.org/wiki/蛍光 "wikilink")塗料を使った蛍光カラー・ビニール仕様のレコードがある。
+首つりTAPEの特徴のひとつに[レコード](../Page/レコード.md "wikilink")を媒体とする頒布が挙げられる。そのほとんどがカラー・ビニールレコードでのリリースで、レーベル番号の最後に「CO」と書かれてあるものがそうである。特に面白いものとして、[イタリア](../Page/イタリア.md "wikilink")のグループDEAD, BODY, LOVEのスプラッター・マーブル仕様と呼ばれているものや、[スイス](../Page/スイス.md "wikilink")のグループ、ザ・モンスターズのギタリストでもある、LIGHTING BEAT MANの[蛍光](../Page/蛍光.md "wikilink")塗料を使った蛍光カラー・ビニール仕様のレコードがある。
 
 ## ディスコグラフィー
 
@@ -30,7 +30,7 @@
       - INTERNATIONAL NOSE COMIPATION
       - S;E;X59-001CD「HOTEL ULTRA」（ザ・ゲロゲリゲゲゲ（日本））
   - 1995年
-      - S;E;X59-004LP「[犬神](https://ja.wikipedia.org/wiki/犬神 "wikilink")と[家畜](../Page/家畜.md "wikilink")」（[井内賢吾](https://ja.wikipedia.org/wiki/井内賢吾 "wikilink")（日本））
+      - S;E;X59-004LP「[犬神](../Page/犬神.md "wikilink")と[家畜](../Page/家畜.md "wikilink")」（[井内賢吾](https://ja.wikipedia.org/wiki/井内賢吾 "wikilink")（日本））
   - 1995年
       - S;E;X59-005CA「ME AND ME ME」（COSTES（[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")））
       - S;E;X59-009CD「OPEROPUE」（INCAPACITANTS（日本））
@@ -46,7 +46,7 @@
       - S;E;X59-017CD「LIVE BIG RIG」（[Solmania](https://ja.wikipedia.org/wiki/:en:Solmania "wikilink")（日本））
       - S;E;X59-019EP「same」（DEAD, BODY, LOVE（イタリア））
       - S;E;X59-020EP「same」（LIGHTNIG BEAT MAN（[スイス](../Page/スイス.md "wikilink")））※蛍光塗料を施したレコード盤であり、本当に光るレコードである。
-      - S;E;X59-022EP「Addicted“7”」（GRANT（[フィンランド](https://ja.wikipedia.org/wiki/フィンランド "wikilink")））※スプラッター仕様のレコード盤で赤色と白色である。所謂、マーブルレコードの事。
+      - S;E;X59-022EP「Addicted“7”」（GRANT（[フィンランド](../Page/フィンランド.md "wikilink")））※スプラッター仕様のレコード盤で赤色と白色である。所謂、マーブルレコードの事。
   - 2007年
       - S;E;X59-023CD「死体人形　1986〜2007」([死体人形](https://ja.wikipedia.org/wiki/死体人形 "wikilink")(日本))
       - S;E;X59-024CD「NIKUMU 2007」(The Haters(アメリカ合衆国))

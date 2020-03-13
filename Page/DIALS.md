@@ -1,7 +1,7 @@
 > この記事は[DIALS](https://ja.wikipedia.org/wiki/DIALS)から翻訳されています。
 
 
-**DIALS**（ダイアルス、Dendenkosha Immediate Arithmetic and Library System）はかつて[日本電信電話公社](../Page/日本電信電話公社.md "wikilink")が[プッシュホン加入者向けに](../Page/押しボタン式電話機.md "wikilink")[公衆交換電話網](https://ja.wikipedia.org/wiki/公衆交換電話網 "wikilink")で提供していた電話計算サービス。プッシュホンを使って計算を行う自動応答サービスである。[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")9月26日に開始された。
+**DIALS**（ダイアルス、Dendenkosha Immediate Arithmetic and Library System）はかつて[日本電信電話公社](../Page/日本電信電話公社.md "wikilink")が[プッシュホン加入者向けに](../Page/押しボタン式電話機.md "wikilink")[公衆交換電話網](../Page/公衆交換電話網.md "wikilink")で提供していた電話計算サービス。プッシュホンを使って計算を行う自動応答サービスである。[1970年](../Page/1970年.md "wikilink")9月26日に開始された。
 
 ## 背景
 
@@ -54,7 +54,7 @@ DIALSサービスを利用する際は、プッシュホンのボタン面に専
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>(</p></td>
-<td><p>左<a href="https://ja.wikipedia.org/wiki/括弧" title="wikilink">カッコ</a></p></td>
+<td><p>左<a href="../Page/括弧.md" title="wikilink">カッコ</a></p></td>
 <td><p>2</p></td>
 <td><p>)</p></td>
 <td><p>右カッコ</p></td>
@@ -120,10 +120,10 @@ DIALSサービスを利用する際は、プッシュホンのボタン面に専
 <tr class="odd">
 <td><p>7</p></td>
 <td><p>×</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/乗法" title="wikilink">乗算</a></p></td>
+<td><p><a href="../Page/乗法.md" title="wikilink">乗算</a></p></td>
 <td><p>8</p></td>
 <td><p>-</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/減法" title="wikilink">減算</a><br />
+<td><p><a href="../Page/減法.md" title="wikilink">減算</a><br />
 <a href="https://ja.wikipedia.org/wiki/正の数と負の数#負の数" title="wikilink">マイナス</a></p></td>
 <td><p>9</p></td>
 <td><p>√<span style="text-decoration:overline"> </span></p></td>
@@ -155,7 +155,7 @@ DIALSサービスを利用する際は、プッシュホンのボタン面に専
 <td></td>
 <td><p>0</p></td>
 <td><p>+</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/加法" title="wikilink">加算</a></p></td>
+<td><p><a href="../Page/加法.md" title="wikilink">加算</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -352,7 +352,7 @@ D<sub><em>2</em></sub> ( 5 <strong>,</strong> 10 )</p></td>
 | 回答音声  | 「オコタエ ハ 0 テン 5、ツギ ハ 3 プラス \(i\) 2、ツギ ハ 3 マイナス \(i\) 2 デス」                                           |
 | 備考    | スラッシュ（ **/** ）以降のパラメータ数は可変（*n* + 1）                                                                 |
 
-  - 例2: 誕生日が1947年1月18日の今日の[バイオリズム](https://ja.wikipedia.org/wiki/バイオリズム "wikilink")を求める。
+  - 例2: 誕生日が1947年1月18日の今日の[バイオリズム](../Page/バイオリズム.md "wikilink")を求める。
 
 <table>
 <thead>
@@ -424,7 +424,7 @@ D<sub><em>2</em></sub> ( 5 <strong>,</strong> 10 )</p></td>
 
 ## 参考文献
 
-  - [情報処理学会](https://ja.wikipedia.org/wiki/情報処理学会 "wikilink")歴史特別委員会（編）、『日本のコンピュータ発達史』オーム社（1998年）、ISBN 4-274-07864-7
+  - [情報処理学会](../Page/情報処理学会.md "wikilink")歴史特別委員会（編）、『日本のコンピュータ発達史』オーム社（1998年）、ISBN 4-274-07864-7
 
   - [高橋茂](../Page/高橋茂.md "wikilink")（著）、『コンピュータクロニクル』オーム社（1996年）、ISBN 4-274-02319-2
 
@@ -440,7 +440,7 @@ D<sub><em>2</em></sub> ( 5 <strong>,</strong> 10 )</p></td>
 ## 関連項目
 
   - [電電公社](../Page/日本電信電話公社.md "wikilink")
-  - [NTT](https://ja.wikipedia.org/wiki/日本電信電話 "wikilink")
+  - [NTT](../Page/日本電信電話.md "wikilink")
   - [NTTデータ](../Page/NTTデータ.md "wikilink")
   - [Googleのサービス\#電卓機能](https://ja.wikipedia.org/wiki/Googleのサービス#電卓機能 "wikilink") - DIALSと同じく、センター側のコンピューターで計算する電卓機能。
 

@@ -1,7 +1,7 @@
 > この記事は[NARUTO -- \(\)](https://ja.wikipedia.org/wiki/NARUTO_--_\(\))から翻訳されています。
 
 
-**NARUTO -ナルト- (ゲーム)** では[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")『[NARUTO -ナルト-](https://ja.wikipedia.org/wiki/NARUTO_-ナルト- "wikilink")』のゲーム化作品について解説する。
+**NARUTO -ナルト- (ゲーム)** では[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")『[NARUTO -ナルト-](../Page/NARUTO_-ナルト-.md "wikilink")』のゲーム化作品について解説する。
 
 ## 概要
 
@@ -11,7 +11,7 @@
 
 内容は[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[NARUTO -ナルト-](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_\(アニメ\) "wikilink")』の内容に基づいてゲーム化しており、一部は劇場版の内容も含んでいる。テレビアニメ『NARUTO -ナルト-』が2007年春から『NARUTO -ナルト- 疾風伝』に変更されたことに伴い、ゲームのタイトルもNARUTO -ナルト- 疾風伝から始まるものになった。
 
-発売は[バンダイ](../Page/バンダイ.md "wikilink")系のゲーム関連会社（※）と[タカラトミー](../Page/タカラトミー.md "wikilink")。前者は[PlayStation系のハード他を担当し](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")、後者は[任天堂](../Page/任天堂.md "wikilink")系のハードを担当していたが、[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")関連事業が[タカラトミーアーツ](../Page/タカラトミーアーツ.md "wikilink")に移管され、また『NARUTO -ナルト-SD パワフル疾風伝』以降、バンダイナムコからも任天堂系のハードを担当するようになった。
+発売は[バンダイ](../Page/バンダイ.md "wikilink")系のゲーム関連会社（※）と[タカラトミー](../Page/タカラトミー.md "wikilink")。前者は[PlayStation系のハード他を担当し](../Page/PlayStation_\(ゲーム機\).md "wikilink")、後者は[任天堂](../Page/任天堂.md "wikilink")系のハードを担当していたが、[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")関連事業が[タカラトミーアーツ](../Page/タカラトミーアーツ.md "wikilink")に移管され、また『NARUTO -ナルト-SD パワフル疾風伝』以降、バンダイナムコからも任天堂系のハードを担当するようになった。
 
 ## PC用オンラインゲーム
 
@@ -242,15 +242,15 @@
 
 ## Wii
 
-  - [NARUTO -ナルト- 疾風伝 激闘忍者大戦\!EX](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_疾風伝_激闘忍者大戦!EX "wikilink")
+  - [NARUTO -ナルト- 疾風伝 激闘忍者大戦\!EX](../Page/NARUTO_-ナルト-_疾風伝_激闘忍者大戦!EX.md "wikilink")
     メーカー：タカラトミー
     発売日：2007年2月22日
     ジャンル：3D忍者対戦格闘
-  - [NARUTO -ナルト- 疾風伝 激闘忍者大戦\!EX2](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_疾風伝_激闘忍者大戦!EX "wikilink")
+  - [NARUTO -ナルト- 疾風伝 激闘忍者大戦\!EX2](../Page/NARUTO_-ナルト-_疾風伝_激闘忍者大戦!EX.md "wikilink")
     メーカー：タカラトミー
     発売日：2007年11月29日
     ジャンル：3D忍者対戦格闘
-  - [NARUTO -ナルト- 疾風伝 激闘忍者大戦\!EX3](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_疾風伝_激闘忍者大戦!EX "wikilink")
+  - [NARUTO -ナルト- 疾風伝 激闘忍者大戦\!EX3](../Page/NARUTO_-ナルト-_疾風伝_激闘忍者大戦!EX.md "wikilink")
     メーカー：タカラトミー
     発売日：2008年11月27日
     ジャンル：3D忍者対戦格闘
@@ -258,7 +258,7 @@
     メーカー：タカラトミー
     発売日：2009年11月26日
     ジャンル：忍者アクション
-  - [NARUTO -ナルト- 疾風伝 激闘忍者大戦\!SPECIAL](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_疾風伝_激闘忍者大戦!EX "wikilink")
+  - [NARUTO -ナルト- 疾風伝 激闘忍者大戦\!SPECIAL](../Page/NARUTO_-ナルト-_疾風伝_激闘忍者大戦!EX.md "wikilink")
     メーカー：タカラトミー
     発売日：2010年12月2日
     ジャンル：3D忍者対戦格闘
@@ -280,19 +280,19 @@
   - NARUTO ナルティメットカードバトル
     メーカー：バンダイ
     稼働日: 2005年10月
-    ナルティメットカードバトルは、[データカードダス](https://ja.wikipedia.org/wiki/データカードダス "wikilink")の一つ。またNARUTOカードゲームとしても使うことができる。
+    ナルティメットカードバトルは、[データカードダス](../Page/データカードダス.md "wikilink")の一つ。またNARUTOカードゲームとしても使うことができる。
   - NARUTO疾風伝 究極任務 ナルティメットミッション
     メーカー：バンダイ
     稼働日: 2007年2月
-    ナルティメットミッションは、[データカードダス](https://ja.wikipedia.org/wiki/データカードダス "wikilink")の一つ。また、ナルティメットカードバトルのカードも使うことができる。
+    ナルティメットミッションは、[データカードダス](../Page/データカードダス.md "wikilink")の一つ。また、ナルティメットカードバトルのカードも使うことができる。
   - NARUTO疾風伝 ナルティメットフォーメーション
     メーカー：バンダイ
     稼働日: 2007年12月14日
-    ナルティメットフォーメーションは、[データカードダス](https://ja.wikipedia.org/wiki/データカードダス "wikilink")の一つ。また、ナルティメットカードバトル・ナルティメットミッションのカードも使うことができる。
+    ナルティメットフォーメーションは、[データカードダス](../Page/データカードダス.md "wikilink")の一つ。また、ナルティメットカードバトル・ナルティメットミッションのカードも使うことができる。
   - NARUTO疾風伝 ナルティメットクロス
     メーカー：バンダイ
     稼働日: 2009年1月29日
-    ナルティメットクロスは、[データカードダス](https://ja.wikipedia.org/wiki/データカードダス "wikilink")の一つ。また、ナルティメットカードバトル・ナルティメットミッション・ナルティメットフォーメーションのカードも使うことができる。
+    ナルティメットクロスは、[データカードダス](../Page/データカードダス.md "wikilink")の一つ。また、ナルティメットカードバトル・ナルティメットミッション・ナルティメットフォーメーションのカードも使うことができる。
 
 ## 体感型ゲーム
 
@@ -349,19 +349,19 @@
 
 『NARUTO -ナルト-』の登場人物が参戦している。
 
-  - [ジャンプスーパースターズ](https://ja.wikipedia.org/wiki/ジャンプスーパースターズ "wikilink")
+  - [ジャンプスーパースターズ](../Page/ジャンプスーパースターズ.md "wikilink")
     メーカー：[任天堂](../Page/任天堂.md "wikilink")
-    発売日：[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[8月8日](../Page/8月8日.md "wikilink")
+    発売日：[2005年](../Page/2005年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink")
     [ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用[格闘アクションゲーム](../Page/対戦型格闘ゲーム.md "wikilink")
-    [うずまきナルト](https://ja.wikipedia.org/wiki/うずまきナルト "wikilink")、[うちはサスケ](https://ja.wikipedia.org/wiki/うちはサスケ "wikilink")など第1部のキャラ12人が参戦。
+    [うずまきナルト](../Page/うずまきナルト.md "wikilink")、[うちはサスケ](../Page/うちはサスケ.md "wikilink")など第1部のキャラ12人が参戦。
   - [バトルスタジアム D.O.N](../Page/バトルスタジアム_D.O.N.md "wikilink")
     メーカー：[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")
-    発売日：[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月20日](../Page/7月20日.md "wikilink")
+    発売日：[2006年](../Page/2006年.md "wikilink")[7月20日](../Page/7月20日.md "wikilink")
     [PlayStation 2と](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")用[アクションゲーム](../Page/アクションゲーム.md "wikilink")
-    [ドラゴンボール](https://ja.wikipedia.org/wiki/ドラゴンボール "wikilink")Z、[ONE PIECE](../Page/ONE_PIECE.md "wikilink")、[NARUTO -ナルト-の](https://ja.wikipedia.org/wiki/NARUTO_-ナルト- "wikilink")3作品のキャラクターが登場。
+    [ドラゴンボール](https://ja.wikipedia.org/wiki/ドラゴンボール "wikilink")Z、[ONE PIECE](../Page/ONE_PIECE.md "wikilink")、[NARUTO -ナルト-の](../Page/NARUTO_-ナルト-.md "wikilink")3作品のキャラクターが登場。
   - [ジャンプアルティメットスターズ](https://ja.wikipedia.org/wiki/ジャンプアルティメットスターズ "wikilink")
     メーカー：[任天堂](../Page/任天堂.md "wikilink")
-    発売日：[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月23日](../Page/11月23日.md "wikilink")
+    発売日：[2006年](../Page/2006年.md "wikilink")[11月23日](../Page/11月23日.md "wikilink")
     [ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用の格闘アクションゲーム
     第二部のキャラ9人が参戦。
   - [ジェイスターズビクトリーバーサス](https://ja.wikipedia.org/wiki/ジェイスターズビクトリーバーサス "wikilink")

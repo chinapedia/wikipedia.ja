@@ -1,31 +1,31 @@
 > この記事は[BY PHAR THE DOPEST](https://ja.wikipedia.org/wiki/BY_PHAR_THE_DOPEST)から翻訳されています。
 
 
-**BY PHAR THE DOPEST**（**バイ・ファー・ザ・ドーペスト**）とは、2MCからなる[ヒップホップ](../Page/ヒップホップ.md "wikilink")グループである。所属レコード会社は、メジャー活動後は[BMG JAPAN](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。[FUNKY GRAMMAR UNIT所属](https://ja.wikipedia.org/wiki/FUNKY_GRAMMAR_UNIT "wikilink")。
+**BY PHAR THE DOPEST**（**バイ・ファー・ザ・ドーペスト**）とは、2MCからなる[ヒップホップ](../Page/ヒップホップ.md "wikilink")グループである。所属レコード会社は、メジャー活動後は[BMG JAPAN](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。[FUNKY GRAMMAR UNIT所属](../Page/FUNKY_GRAMMAR_UNIT.md "wikilink")。
 
 名前の由来は、*by far the 最上級*（飛びぬけて～、の意）と*dope*（かっこいい、の意）から。
 
 ## メンバー
 
-  - [KREVA](https://ja.wikipedia.org/wiki/KREVA "wikilink")（クレバ、[1976年](../Page/1976年.md "wikilink")[6月18日](../Page/6月18日.md "wikilink") - ）
-  - [CUEZERO](https://ja.wikipedia.org/wiki/CUEZERO "wikilink")（キュー・ゼロ、[1976年](../Page/1976年.md "wikilink")[5月14日](../Page/5月14日.md "wikilink") - ）
+  - [KREVA](../Page/KREVA.md "wikilink")（クレバ、[1976年](../Page/1976年.md "wikilink")[6月18日](../Page/6月18日.md "wikilink") - ）
+  - [CUEZERO](../Page/CUEZERO.md "wikilink")（キュー・ゼロ、[1976年](../Page/1976年.md "wikilink")[5月14日](../Page/5月14日.md "wikilink") - ）
 
 それぞれの活動は各項を参照。
 
 ## 来歴
 
-小学校からの幼なじみだったKREVAとCUEZERO（当時CUE）が1995年に結成。1997年に[TAICHI MASTERが手がけた](https://ja.wikipedia.org/wiki/TAICHI_MASTER "wikilink")1stシングル「切り札のカード」をリリース。1998年にはアルバム「By Phar The Dopest」をリリースし活動を停止。その後、KREVAは[KICK THE CAN CREWとしての活動を開始し](https://ja.wikipedia.org/wiki/KICK_THE_CAN_CREW "wikilink")、CUEZEROはニューヨークへ渡り武者修行をした後、ソロMCとして活動していた。
+小学校からの幼なじみだったKREVAとCUEZERO（当時CUE）が1995年に結成。1997年に[TAICHI MASTERが手がけた](../Page/TAICHI_MASTER.md "wikilink")1stシングル「切り札のカード」をリリース。1998年にはアルバム「By Phar The Dopest」をリリースし活動を停止。その後、KREVAは[KICK THE CAN CREWとしての活動を開始し](../Page/KICK_THE_CAN_CREW.md "wikilink")、CUEZEROはニューヨークへ渡り武者修行をした後、ソロMCとして活動していた。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")、二人が生まれて30年、出会って20年、BY PHAR THE DOPEST結成10年という節目の年ということで「SPACE SHOWER SWEET LOVE SHOWER 2006」にて活動を再開。シングル1枚、アルバム1枚をリリースし、ライブも行った。その後は再び活動を停止。
+[2006年](../Page/2006年.md "wikilink")、二人が生まれて30年、出会って20年、BY PHAR THE DOPEST結成10年という節目の年ということで「SPACE SHOWER SWEET LOVE SHOWER 2006」にて活動を再開。シングル1枚、アルバム1枚をリリースし、ライブも行った。その後は再び活動を停止。
 
 ## ディスコグラフィ
 
 ### シングル
 
-| 枚   | 発売日                                                                                         | タイトル                                                            |
-| --- | ------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| 1st | [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")   | **[切り札のカード](https://ja.wikipedia.org/wiki/切り札のカード "wikilink")** |
-| 2nd | [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月6日](../Page/12月6日.md "wikilink") | **[恥じゃない](https://ja.wikipedia.org/wiki/恥じゃない "wikilink")**     |
+| 枚   | 発売日                                                                                       | タイトル                                                            |
+| --- | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| 1st | [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月1日](../Page/4月1日.md "wikilink") | **[切り札のカード](https://ja.wikipedia.org/wiki/切り札のカード "wikilink")** |
+| 2nd | [2006年](../Page/2006年.md "wikilink")[12月6日](../Page/12月6日.md "wikilink")                  | **[恥じゃない](https://ja.wikipedia.org/wiki/恥じゃない "wikilink")**     |
 
 ### アルバム
 
@@ -50,7 +50,7 @@
 
 ## 関連項目
 
-  - [FUNKY GRAMMAR UNIT](https://ja.wikipedia.org/wiki/FUNKY_GRAMMAR_UNIT "wikilink")
-  - [TAICHI MASTER](https://ja.wikipedia.org/wiki/TAICHI_MASTER "wikilink")
+  - [FUNKY GRAMMAR UNIT](../Page/FUNKY_GRAMMAR_UNIT.md "wikilink")
+  - [TAICHI MASTER](../Page/TAICHI_MASTER.md "wikilink")
 
 [Category:日本のヒップホップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・グループ "wikilink")

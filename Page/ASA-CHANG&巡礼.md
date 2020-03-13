@@ -11,7 +11,7 @@
 
 その後もゲストボーカルを招いてのシングル発表など、年に一、二枚のペースで作品を発表、ライブ活動を積極的に行っている。 2010年3月31日をもって浦山秀彦とU-zhaanが脱退。以降はASA-CHANGのソロユニットで活動していくことを発表。2012年、ライブメンバーにサックス・フルート担当の後関好宏、ヴァイオリニストの須原杏を迎え、「[KYOTO EXPERIMENT](https://ja.wikipedia.org/wiki/KYOTO_EXPERIMENT "wikilink") 2012」にて『新・アオイロ劇場』を発表。
 
-後関好宏、須原杏が正式メンバーとなり、2016年3月、ゲスト・アーティストに[Cornelius](https://ja.wikipedia.org/wiki/小山田圭吾 "wikilink")、[スチャダラパー](https://ja.wikipedia.org/wiki/スチャダラパー "wikilink")のANI、椎名もた、小田朋美を迎えた約7年ぶりのスタジオ・アルバム『まほう』を[P-VINEからリリース](../Page/Pヴァイン.md "wikilink")。\[4\]
+後関好宏、須原杏が正式メンバーとなり、2016年3月、ゲスト・アーティストに[Cornelius](https://ja.wikipedia.org/wiki/小山田圭吾 "wikilink")、[スチャダラパー](../Page/スチャダラパー.md "wikilink")のANI、椎名もた、小田朋美を迎えた約7年ぶりのスタジオ・アルバム『まほう』を[P-VINEからリリース](../Page/Pヴァイン.md "wikilink")。\[4\]
 
 ## メンバー
 
@@ -50,7 +50,7 @@
 
 ### 旧メンバー
 
-  - 浦山秀彦（うらやま ひでひこ）：[ギター](../Page/ギター.md "wikilink")、[ミュージックシーケンサー](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")
+  - 浦山秀彦（うらやま ひでひこ）：[ギター](../Page/ギター.md "wikilink")、[ミュージックシーケンサー](../Page/ミュージックシーケンサー.md "wikilink")
 
 <!-- end list -->
 
@@ -104,7 +104,7 @@
 </div></li>
 </ol></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/小泉今日子" title="wikilink">小泉今日子</a>をゲストボーカルに招いて収録された楽曲。<br />
-初回盤は紙ジャケット仕様、「つぎねぷと言ってみた」の<a href="https://ja.wikipedia.org/wiki/ミュージック・ビデオ" title="wikilink">ミュージック・ビデオ</a>を収録したDVD付属。<br />
+初回盤は紙ジャケット仕様、「つぎねぷと言ってみた」の<a href="../Page/ミュージック・ビデオ.md" title="wikilink">ミュージック・ビデオ</a>を収録したDVD付属。<br />
 オリコン最高132位</p></td>
 </tr>
 <tr class="even">
@@ -299,7 +299,7 @@
 <li>2月（まほう ver.）</li>
 <li>行間に花ひとつ feat.椎名もた</li>
 <li>木琴の唄 -Xylophone-</li>
-<li><a href="https://ja.wikipedia.org/wiki/スチャダラパー" title="wikilink">ANIの</a>「エンドレスダンス」体操</li>
+<li><a href="../Page/スチャダラパー.md" title="wikilink">ANIの</a>「エンドレスダンス」体操</li>
 <li>エンディング（映画『<a href="https://ja.wikipedia.org/wiki/合葬" title="wikilink">合葬</a>』より）</li>
 <li>告白（<a href="https://ja.wikipedia.org/wiki/小山田圭吾" title="wikilink">Cornelius</a> ver.）
 </div>
@@ -371,7 +371,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/サウンドトラック" title="wikilink">サウンドトラック</a></p></td>
+<td><p><a href="../Page/サウンドトラック.md" title="wikilink">サウンドトラック</a></p></td>
 <td><p>2015年10月7日</p></td>
 <td><p>合葬</p></td>
 <td><p>PCD-25187</p></td>
@@ -395,7 +395,7 @@
 </div>
 </div></li>
 </ol></td>
-<td><p>ゲストアーティストとして、<a href="https://ja.wikipedia.org/wiki/Curly_Giraffe" title="wikilink">Curly Giraffe</a>、木津茂理、エアガレージ・ラボ、<a href="https://ja.wikipedia.org/wiki/カヒミ・カリィ" title="wikilink">カヒミ・カリィ</a>など。<a href="../Page/Pヴァイン.md" title="wikilink">P-VINEから発売</a>。</p></td>
+<td><p>ゲストアーティストとして、<a href="https://ja.wikipedia.org/wiki/Curly_Giraffe" title="wikilink">Curly Giraffe</a>、木津茂理、エアガレージ・ラボ、<a href="../Page/カヒミ・カリィ.md" title="wikilink">カヒミ・カリィ</a>など。<a href="../Page/Pヴァイン.md" title="wikilink">P-VINEから発売</a>。</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -551,10 +551,10 @@
 <li>マンダム～男の世界～</li>
 <li>大脱走のテーマ</li>
 <li>マンダム～男の世界～(ウッドストック・モーニング編) / ブロンソンズ with <a href="../Page/ROLLY.md" title="wikilink">ROLLY</a></li>
-<li>大脱走(ブロンソン大陸MIX) / ブロンソンズ with <a href="https://ja.wikipedia.org/wiki/スチャダラパー" title="wikilink">スチャダラパー</a></li>
+<li>大脱走(ブロンソン大陸MIX) / ブロンソンズ with <a href="../Page/スチャダラパー.md" title="wikilink">スチャダラパー</a></li>
 <li>ロッキーのテーマ(完コピVERSION) / ブロンソンズ with <a href="../Page/東京スカパラダイスオーケストラ.md" title="wikilink">東京スカパラダイスオーケストラ</a></li>
-<li>マンダム～男の世界～（FREE AS THE BYRDS編） / ブロンソンズ with <a href="https://ja.wikipedia.org/wiki/真心ブラザーズ" title="wikilink">真心ブラザーズ</a></li>
-<li>デス・ウイッシュ～ブロンソンズのテーマ～ / ブロンソンズ with <a href="https://ja.wikipedia.org/wiki/桜井秀俊" title="wikilink">桜井秀俊</a>と<a href="https://ja.wikipedia.org/wiki/パイオニア・コンポ" title="wikilink">パイオニア・コンポ</a></li>
+<li>マンダム～男の世界～（FREE AS THE BYRDS編） / ブロンソンズ with <a href="../Page/真心ブラザーズ.md" title="wikilink">真心ブラザーズ</a></li>
+<li>デス・ウイッシュ～ブロンソンズのテーマ～ / ブロンソンズ with <a href="../Page/桜井秀俊.md" title="wikilink">桜井秀俊</a>と<a href="https://ja.wikipedia.org/wiki/パイオニア・コンポ" title="wikilink">パイオニア・コンポ</a></li>
 <li><strong>エマニエル夫人のテーマ(REAL SLAVE MIX) / ブロンソンズ with ASA-CHANG featuring <a href="https://ja.wikipedia.org/wiki/ヒゲオヤジーズ合唱団" title="wikilink">ヒゲオヤジーズ合唱団</a></strong></li>
 <li>ラヴ・ウイッシュ</li>
 <li>ロッキーのテーマ（KARAOKE） / 東京スカパラダイスオーケストラ with ブロンソンズ</li>
@@ -634,14 +634,14 @@ KSCL-817:通常盤</p></td>
 <ol>
 <li>TEEN TITANS THEME / <a href="../Page/PUFFY.md" title="wikilink">PUFFY</a></li>
 <li>READY STEADY GO / <a href="../Page/L&#39;Arc〜en〜Ciel.md" title="wikilink">L'Arc〜en〜Ciel</a></li>
-<li>遥か彼方 / <a href="https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
+<li>遥か彼方 / <a href="../Page/ASIAN_KUNG-FU_GENERATION.md" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
 <li>環七フィーバー / (Jet Version) / <a href="https://ja.wikipedia.org/wiki/GUITAR_WOLF" title="wikilink">GUITAR WOLF</a></li>
-<li>Black Out Fall Out / <a href="https://ja.wikipedia.org/wiki/POLYSICS" title="wikilink">POLYSICS</a></li>
+<li>Black Out Fall Out / <a href="../Page/POLYSICS.md" title="wikilink">POLYSICS</a></li>
 <li>RECREATION / <a href="../Page/SUPERCAR.md" title="wikilink">SUPERCAR</a></li>
 <li>Nothing's Gonna Change (short) / <a href="../Page/電気グルーヴ.md" title="wikilink">電気グルーヴ</a></li>
 <li>The Rising Suns / <a href="../Page/石野卓球.md" title="wikilink">石野卓球</a></li>
-<li>STREET STARS BREAKIN' (short version) / <a href="https://ja.wikipedia.org/wiki/DJ_TASAKA" title="wikilink">DJ TASAKA</a></li>
-<li>lovebeat(Radio Edit) / <a href="https://ja.wikipedia.org/wiki/砂原良徳" title="wikilink">砂原良徳</a></li>
+<li>STREET STARS BREAKIN' (short version) / <a href="../Page/DJ_TASAKA.md" title="wikilink">DJ TASAKA</a></li>
+<li>lovebeat(Radio Edit) / <a href="../Page/砂原良徳.md" title="wikilink">砂原良徳</a></li>
 <li>町 / <a href="../Page/ACO.md" title="wikilink">ACO</a></li>
 <li><strong>カな(長篇) / ASA-CHANG&amp;巡礼 feat.<a href="../Page/ハナレグミ.md" title="wikilink">ハナレグミ</a></strong></li>
 <li>ユメミタイ(cherish my life) / <a href="../Page/日暮愛葉.md" title="wikilink">日暮愛葉</a></li>
@@ -689,16 +689,16 @@ VICL-63123:通常盤</p></td>
 <div class="NavContent" style="text-align:left;">
 <ol>
 <li>At Dawn / <a href="../Page/Pupa_(バンド).md" title="wikilink">pupa</a></li>
-<li>me.ga.ne / <a href="https://ja.wikipedia.org/wiki/コトリンゴ" title="wikilink">コトリンゴ</a></li>
+<li>me.ga.ne / <a href="../Page/コトリンゴ.md" title="wikilink">コトリンゴ</a></li>
 <li>pulling from above / <a href="https://ja.wikipedia.org/wiki/mi-gu" title="wikilink">mi-gu</a></li>
 <li><strong>ウーハンの女 / ASA-CHANG&amp;巡礼</strong></li>
 <li>Tokyo,Round and Round / <a href="../Page/ムーンライダーズ.md" title="wikilink">MOONRIDERS</a></li>
 <li>LOV / <a href="../Page/高野寛.md" title="wikilink">高野寛</a></li>
 <li>Good Night Song / <a href="https://ja.wikipedia.org/wiki/naomi_&amp;_goro" title="wikilink">naomi &amp; goro</a></li>
 <li>テレ東 / <a href="../Page/相対性理論_(バンド).md" title="wikilink">相対性理論</a></li>
-<li>Good Old Future / <a href="https://ja.wikipedia.org/wiki/スチャダラパー" title="wikilink">スチャダラパー</a></li>
+<li>Good Old Future / <a href="../Page/スチャダラパー.md" title="wikilink">スチャダラパー</a></li>
 <li>からっぽフレーバー / THE DUB FLOWER(<a href="../Page/いとうせいこう.md" title="wikilink">いとうせいこう</a>×<a href="https://ja.wikipedia.org/wiki/Dub_Master_X" title="wikilink">DUB MASTER X他</a>)</li>
-<li>LOVEBEAT / <a href="https://ja.wikipedia.org/wiki/砂原良徳" title="wikilink">砂原良徳</a></li>
+<li>LOVEBEAT / <a href="../Page/砂原良徳.md" title="wikilink">砂原良徳</a></li>
 <li>Tonight / <a href="../Page/□□□.md" title="wikilink">□□□</a></li>
 <li>My Way / <a href="https://ja.wikipedia.org/wiki/SHEENA_&amp;_THE_ROKKETS" title="wikilink">SHEENA &amp; THE ROKKETS</a></li>
 <li>RYDEEN 79/07 / <a href="https://ja.wikipedia.org/wiki/Yellow_Magic_Orchestra" title="wikilink">Yellow Magic Orchestra</a>
@@ -726,7 +726,7 @@ VICL-63123:通常盤</p></td>
 <li>冬景色 / <a href="https://ja.wikipedia.org/wiki/元ちとせ" title="wikilink">元ちとせ</a></li>
 <li>冬の夜 / <a href="https://ja.wikipedia.org/wiki/小林翔" title="wikilink">小林翔</a>＋<a href="https://ja.wikipedia.org/wiki/栗原務" title="wikilink">栗原務</a></li>
 <li>ペチカ / <a href="../Page/嶺川貴子.md" title="wikilink">嶺川貴子</a>＋<a href="https://ja.wikipedia.org/wiki/rei_harakami" title="wikilink">rei harakami</a></li>
-<li>雪 / <a href="https://ja.wikipedia.org/wiki/Saigenji" title="wikilink">Saigenji</a></li>
+<li>雪 / <a href="../Page/Saigenji.md" title="wikilink">Saigenji</a></li>
 <li>雪の降るまちを / <a href="../Page/手嶌葵.md" title="wikilink">手嶌葵</a>＋<a href="../Page/坂本龍一.md" title="wikilink">坂本龍一</a>
 </div>
 </div></li>
@@ -749,7 +749,7 @@ RZCM-46392:CD</p></td>
 <li>Private Party / <a href="https://ja.wikipedia.org/wiki/AOKI_takamasa" title="wikilink">AOKI takamasa</a></li>
 <li>Saffron Revolution / <a href="https://ja.wikipedia.org/wiki/Fennesz" title="wikilink">Fennesz</a></li>
 <li>O Waly, waly / <a href="https://ja.wikipedia.org/wiki/Fretwork_and_Clare_Wilkinson" title="wikilink">Fretwork and Clare Wilkinson</a></li>
-<li>to stanford / <a href="https://ja.wikipedia.org/wiki/コトリンゴ" title="wikilink">コトリンゴ</a></li>
+<li>to stanford / <a href="../Page/コトリンゴ.md" title="wikilink">コトリンゴ</a></li>
 <li>Silent Clouds / <a href="https://ja.wikipedia.org/wiki/naomi_&amp;_goro" title="wikilink">naomi &amp; goro</a></li>
 <li>映してながめる / <a href="https://ja.wikipedia.org/wiki/青柳拓次" title="wikilink">青柳拓次</a></li>
 <li>firewater / <a href="../Page/坂本龍一.md" title="wikilink">坂本龍一</a></li>
@@ -782,9 +782,9 @@ RZCM-46392:CD</p></td>
 <li>大きな栗の木の下で / <a href="../Page/ゴスペラーズ.md" title="wikilink">ゴスペラーズ</a></li>
 <li>およげ!たいやきくん / <a href="https://ja.wikipedia.org/wiki/BEGIN" title="wikilink">BEGIN</a></li>
 <li>ハレヒレホ / <a href="https://ja.wikipedia.org/wiki/Cocco" title="wikilink">Cocco</a></li>
-<li>ハイ・ホー / <a href="https://ja.wikipedia.org/wiki/キグルミ" title="wikilink">キグルミ</a></li>
+<li>ハイ・ホー / <a href="../Page/キグルミ.md" title="wikilink">キグルミ</a></li>
 <li>こぶたぬきつねこ / <a href="https://ja.wikipedia.org/wiki/金城綾乃_(Kiroro)" title="wikilink">金城綾乃 (Kiroro)</a></li>
-<li>埴生の宿 / <a href="https://ja.wikipedia.org/wiki/キリンジ" title="wikilink">キリンジ</a></li>
+<li>埴生の宿 / <a href="../Page/キリンジ.md" title="wikilink">キリンジ</a></li>
 <li><strong>小さな木の実 / <a href="../Page/畠山美由紀.md" title="wikilink">畠山美由紀</a> with ASA-CHANG&amp;ブルーハッツ</strong></li>
 <li>ゆき / ううあ</li>
 <li>椰子の実 / <a href="https://ja.wikipedia.org/wiki/アン・サリー" title="wikilink">アン・サリー</a></li>
@@ -834,9 +834,9 @@ RZCM-46392:CD</p></td>
 <div class="NavContent" style="text-align:left;">
 <ol>
 <li><strong>ASA-CHANG &amp; 巡礼 / 2月/february</strong></li>
-<li><a href="https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION" title="wikilink">ASIAN KUNG-FU GENERATION</a> / banging the drum</li>
-<li><a href="https://ja.wikipedia.org/wiki/あがた森魚" title="wikilink">あがた森魚</a> / 僕</li>
-<li><a href="https://ja.wikipedia.org/wiki/THE_BACK_HORN" title="wikilink">THE BACK HORN</a> / ノイズ</li>
+<li><a href="../Page/ASIAN_KUNG-FU_GENERATION.md" title="wikilink">ASIAN KUNG-FU GENERATION</a> / banging the drum</li>
+<li><a href="../Page/あがた森魚.md" title="wikilink">あがた森魚</a> / 僕</li>
+<li><a href="../Page/THE_BACK_HORN.md" title="wikilink">THE BACK HORN</a> / ノイズ</li>
 <li><a href="https://ja.wikipedia.org/wiki/envy" title="wikilink">envy</a> / 時は終わる</li>
 <li><a href="https://ja.wikipedia.org/wiki/the_原爆オナニーズ" title="wikilink">the 原爆オナニーズ</a> / SILENCER</li>
 <li><a href="https://ja.wikipedia.org/wiki/Idol_Punch" title="wikilink">Idol Punch</a> / 8月</li>

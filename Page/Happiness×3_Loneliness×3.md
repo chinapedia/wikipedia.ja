@@ -5,11 +5,11 @@
 
 ## 内容
 
-「Happiness×3 Loneliness×3」は1999年度　麻薬・覚醒剤乱用防止キャンペーンソング。[小渕恵三](../Page/小渕恵三.md "wikilink")[内閣総理大臣](https://ja.wikipedia.org/wiki/内閣総理大臣 "wikilink")（当時）からの依頼で書き下ろされ、曲の完成時にはTM NETWORKの3人が[マスターテープ](https://ja.wikipedia.org/wiki/マスターテープ "wikilink")を[首相官邸](https://ja.wikipedia.org/wiki/首相官邸 "wikilink")まで持参し、小渕に贈呈した（[1999年](../Page/1999年.md "wikilink")[10月20日](../Page/10月20日.md "wikilink")\[1\]）。[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")の「80's」（エイティーズ）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")「[タウンエースノア](https://ja.wikipedia.org/wiki/トヨタ・タウンエース "wikilink")／[ライトエースノア](https://ja.wikipedia.org/wiki/トヨタ・ライトエース "wikilink")」のCMソングとして使用された。
+「Happiness×3 Loneliness×3」は1999年度　麻薬・覚醒剤乱用防止キャンペーンソング。[小渕恵三](../Page/小渕恵三.md "wikilink")[内閣総理大臣](https://ja.wikipedia.org/wiki/内閣総理大臣 "wikilink")（当時）からの依頼で書き下ろされ、曲の完成時にはTM NETWORKの3人が[マスターテープ](https://ja.wikipedia.org/wiki/マスターテープ "wikilink")を[首相官邸](https://ja.wikipedia.org/wiki/首相官邸 "wikilink")まで持参し、小渕に贈呈した（[1999年](../Page/1999年.md "wikilink")[10月20日](../Page/10月20日.md "wikilink")\[1\]）。[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")の「80's」（エイティーズ）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")「[タウンエースノア](../Page/トヨタ・タウンエース.md "wikilink")／[ライトエースノア](../Page/トヨタ・ライトエース.md "wikilink")」のCMソングとして使用された。
 
-「Happiness×3 Loneliness×3」は、[ラテン系の](https://ja.wikipedia.org/wiki/ラテン音楽 "wikilink")[リズム](../Page/リズム.md "wikilink")で[フラメンコ](../Page/フラメンコ.md "wikilink")な[ギター](../Page/ギター.md "wikilink")が使用されている。、[シーラ・E](https://ja.wikipedia.org/wiki/シーラ・E "wikilink")、[ウォン・リー・フォンによってカバーされている](../Page/ワン・リーホン.md "wikilink")。これらのカバー・バージョンを収録されたコンピレーションCDも同時発売され、[オリコンアルバムチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")35位を記録した。[プロモーションビデオ](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")ではそれらのカバー曲と原曲をコラージュしたバージョンとなっている。小室が本作のオファーを受けた切っ掛けもコンピレーション盤の制作を依頼されたのが決定打であり、「色んな言語で僕の歌を歌ってもらえるのが魅力だった」と語っている\[2\]。
+「Happiness×3 Loneliness×3」は、[ラテン系の](../Page/ラテン音楽.md "wikilink")[リズム](../Page/リズム.md "wikilink")で[フラメンコ](../Page/フラメンコ.md "wikilink")な[ギター](../Page/ギター.md "wikilink")が使用されている。、[シーラ・E](https://ja.wikipedia.org/wiki/シーラ・E "wikilink")、[ウォン・リー・フォンによってカバーされている](../Page/ワン・リーホン.md "wikilink")。これらのカバー・バージョンを収録されたコンピレーションCDも同時発売され、[オリコンアルバムチャート](../Page/オリコンチャート.md "wikilink")35位を記録した。[プロモーションビデオ](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")ではそれらのカバー曲と原曲をコラージュしたバージョンとなっている。小室が本作のオファーを受けた切っ掛けもコンピレーション盤の制作を依頼されたのが決定打であり、「色んな言語で僕の歌を歌ってもらえるのが魅力だった」と語っている\[2\]。
 
-カップリング曲の「80's」（トヨタ・タウンエースノア／ライトエースノアCMソング）は、[木根尚登](https://ja.wikipedia.org/wiki/木根尚登 "wikilink")の[作曲](../Page/作曲.md "wikilink")作品。タイトル通り80年代のTMサウンドを意識して作ったという（とはいえ、その当時多用していた[ヤマハ・DXシリーズ](https://ja.wikipedia.org/wiki/ヤマハ・DXシリーズ "wikilink")の[FM音源](../Page/FM音源.md "wikilink")のサウンドではなく[TRITON等の](https://ja.wikipedia.org/wiki/コルグ・TRITONシリーズ "wikilink")[PCM音源](../Page/PCM音源.md "wikilink")のサウンドで[アレンジされていることもあり](../Page/編曲.md "wikilink")、雰囲気は異なっている）。歌詞は「NERVOUS」や「SEVEN DAYS WAR」を意識した、若者に向けたメッセージソングとなっている。
+カップリング曲の「80's」（トヨタ・タウンエースノア／ライトエースノアCMソング）は、[木根尚登](https://ja.wikipedia.org/wiki/木根尚登 "wikilink")の[作曲](../Page/作曲.md "wikilink")作品。タイトル通り80年代のTMサウンドを意識して作ったという（とはいえ、その当時多用していた[ヤマハ・DXシリーズ](../Page/ヤマハ・DXシリーズ.md "wikilink")の[FM音源](../Page/FM音源.md "wikilink")のサウンドではなく[TRITON等の](../Page/コルグ・TRITONシリーズ.md "wikilink")[PCM音源](../Page/PCM音源.md "wikilink")のサウンドで[アレンジされていることもあり](../Page/編曲.md "wikilink")、雰囲気は異なっている）。歌詞は「NERVOUS」や「SEVEN DAYS WAR」を意識した、若者に向けたメッセージソングとなっている。
 
 ## 収録曲
 
@@ -48,7 +48,7 @@
 
 **80's**
 
-  - [Welcome to the FANKS\!](https://ja.wikipedia.org/wiki/Welcome_to_the_FANKS! "wikilink")
+  - [Welcome to the FANKS\!](../Page/Welcome_to_the_FANKS!.md "wikilink")
   - [TM NETWORK ORIGINAL SINGLES 1984-1999](https://ja.wikipedia.org/wiki/ORIGINAL_SINGLES_1984-1999 "wikilink")
   - [TM NETWORK ORIGINAL SINGLE BACK TRACKS 1984-1999](https://ja.wikipedia.org/wiki/ORIGINAL_SINGLE_BACK_TRACKS_1984-1999 "wikilink") (オリジナル・カラオケ)
 

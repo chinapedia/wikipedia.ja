@@ -41,6 +41,6 @@
   - [DJ オショウ official blog](http://ameblo.jp/djoshow/) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
 
   -
-  - [マイカデリック](http://www.jvcmusic.co.jp/-/Profile/A017367.html) - [Victor Entertainment](https://ja.wikipedia.org/wiki/JVCケンウッド・ビクターエンタテインメント "wikilink")
+  - [マイカデリック](http://www.jvcmusic.co.jp/-/Profile/A017367.html) - [Victor Entertainment](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")
 
 [Category:日本のヒップホップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・グループ "wikilink") [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink")

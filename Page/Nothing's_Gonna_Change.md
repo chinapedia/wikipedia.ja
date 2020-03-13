@@ -3,11 +3,11 @@
 
 「**Nothing's Gonna Change**」（ナッシングス・ゴナ・チェンジ）は、日本のテクノユニットである[電気グルーヴ](../Page/電気グルーヴ.md "wikilink")の11枚目のシングル。ジャケットのモデルは[沖樹莉亜](../Page/沖樹莉亜.md "wikilink")。
 
-[1999年](../Page/1999年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")に[キューンレコードよりリリースされた](https://ja.wikipedia.org/wiki/キューンミュージック "wikilink")。
+[1999年](../Page/1999年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")に[キューンレコードよりリリースされた](../Page/キューンミュージック.md "wikilink")。
 
 ## 内容
 
-アルバム『[VOXXX](https://ja.wikipedia.org/wiki/VOXXX "wikilink")』からの先行シングルカット曲。『[スペースシャワーTV](https://ja.wikipedia.org/wiki/スペースシャワーTV "wikilink")』10周年記念イメージソング。ゲストボーカルとして、「[虹](../Page/虹_\(電気グルーヴの曲\).md "wikilink")」にも参加した[五島良子](../Page/五島良子.md "wikilink")が参加している。
+アルバム『[VOXXX](../Page/VOXXX.md "wikilink")』からの先行シングルカット曲。『[スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")』10周年記念イメージソング。ゲストボーカルとして、「[虹](../Page/虹_\(電気グルーヴの曲\).md "wikilink")」にも参加した[五島良子](../Page/五島良子.md "wikilink")が参加している。
 
 ## 収録曲
 

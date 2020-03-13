@@ -1,21 +1,21 @@
 > この記事は[Nananana](https://ja.wikipedia.org/wiki/Nananana)から翻訳されています。
 
 
-**nana×nana**（なななな）は、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[七人のナナ](https://ja.wikipedia.org/wiki/七人のナナ "wikilink")』で[7人に分裂したナナ達に声をあてていた](https://ja.wikipedia.org/wiki/七人のナナ#7人に分裂したナナ達と鈴木家の人々 "wikilink")[女性](../Page/女性.md "wikilink")[声優](../Page/声優.md "wikilink")7人からなる[声優ユニット](../Page/声優ユニット.md "wikilink")。
+**nana×nana**（なななな）は、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[七人のナナ](../Page/七人のナナ.md "wikilink")』で[7人に分裂したナナ達に声をあてていた](https://ja.wikipedia.org/wiki/七人のナナ#7人に分裂したナナ達と鈴木家の人々 "wikilink")[女性](../Page/女性.md "wikilink")[声優](../Page/声優.md "wikilink")7人からなる[声優ユニット](../Page/声優ユニット.md "wikilink")。
 
-番組の[オープニングテーマを歌った](https://ja.wikipedia.org/wiki/主題歌 "wikilink")。
+番組の[オープニングテーマを歌った](../Page/主題歌.md "wikilink")。
 
 ## メンバー
 
-| 声優                                                      | キャラクター |
-| ------------------------------------------------------- | ------ |
-| [水樹奈々](../Page/水樹奈々.md "wikilink")                      | 鈴木ナナ   |
-| [桃森すもも](../Page/桃森すもも.md "wikilink")                    | 怒：ナナっぺ |
-| [中原麻衣](https://ja.wikipedia.org/wiki/中原麻衣 "wikilink")   | 頭：ナナさま |
-| [名塚佳織](../Page/名塚佳織.md "wikilink")                      | 霊：ナナぽん |
-| [福井裕佳梨](../Page/福井裕佳梨.md "wikilink")                    | 泣：ナナりん |
-| [秋田まどか](https://ja.wikipedia.org/wiki/秋田まどか "wikilink") | 幸：ナナっこ |
-| [浅木舞](../Page/浅木舞.md "wikilink")                        | 笑：ナナっち |
+| 声優                                                    | キャラクター |
+| ----------------------------------------------------- | ------ |
+| [水樹奈々](../Page/水樹奈々.md "wikilink")                    | 鈴木ナナ   |
+| [桃森すもも](../Page/桃森すもも.md "wikilink")                  | 怒：ナナっぺ |
+| [中原麻衣](https://ja.wikipedia.org/wiki/中原麻衣 "wikilink") | 頭：ナナさま |
+| [名塚佳織](../Page/名塚佳織.md "wikilink")                    | 霊：ナナぽん |
+| [福井裕佳梨](../Page/福井裕佳梨.md "wikilink")                  | 泣：ナナりん |
+| [秋田まどか](../Page/秋田まどか.md "wikilink")                  | 幸：ナナっこ |
+| [浅木舞](../Page/浅木舞.md "wikilink")                      | 笑：ナナっち |
 
 ## ディスコグラフィ
 
@@ -28,7 +28,7 @@
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
 <th><p>規格品番</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/オリコンチャート" title="wikilink">オリコン</a><br />
+<th><p><a href="../Page/オリコンチャート.md" title="wikilink">オリコン</a><br />
 最高位</p></th>
 </tr>
 </thead>
@@ -52,7 +52,7 @@
 
 ## 関連項目
 
-  - [七人のナナ](https://ja.wikipedia.org/wiki/七人のナナ "wikilink")
+  - [七人のナナ](../Page/七人のナナ.md "wikilink")
   - [声優ユニット](../Page/声優ユニット.md "wikilink")
 
 ## 外部リンク

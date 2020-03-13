@@ -1,7 +1,7 @@
 > この記事は[Uniform Type Identifier](https://ja.wikipedia.org/wiki/Uniform_Type_Identifier)から翻訳されています。
 
 
-（**UTI**）は[データ](../Page/データ.md "wikilink")（エンティティ）のタイプ（種類、型）を一意に識別する文字列である。[アップルの](../Page/アップル_\(企業\).md "wikilink")  から追加され\[1\]、 などで[ファイルや](../Page/ファイル_\(コンピュータ\).md "wikilink")[フォルダ](../Page/ディレクトリ.md "wikilink")、[クリップボード](https://ja.wikipedia.org/wiki/クリップボード "wikilink")のデータ、[バンドル](../Page/アプリケーションパッケージ.md "wikilink")、[エイリアス](../Page/ソフトリンク.md "wikilink")、[シンボリックリンク](../Page/ソフトリンク.md "wikilink")、[ストリーミング](../Page/ストリーミング.md "wikilink")データなどを識別するのに利用されている。UTIは[ドメイン名](../Page/ドメイン名.md "wikilink")を逆さにした構造をしている。また、UTIは[マルチメディア](../Page/マルチメディア.md "wikilink")ファイルが（ のように）単一のタイプに識別されないように [多重継承](https://ja.wikipedia.org/wiki/多重継承 "wikilink")を採用している。つまり1つの識別子は例えば `public.audio`、`public.video`、`public.text`、`public.image` など複数の識別子を継承できる。
+（**UTI**）は[データ](../Page/データ.md "wikilink")（エンティティ）のタイプ（種類、型）を一意に識別する文字列である。[アップルの](../Page/アップル_\(企業\).md "wikilink")  から追加され\[1\]、 などで[ファイルや](../Page/ファイル_\(コンピュータ\).md "wikilink")[フォルダ](../Page/ディレクトリ.md "wikilink")、[クリップボード](../Page/クリップボード.md "wikilink")のデータ、[バンドル](../Page/アプリケーションパッケージ.md "wikilink")、[エイリアス](../Page/ソフトリンク.md "wikilink")、[シンボリックリンク](../Page/ソフトリンク.md "wikilink")、[ストリーミング](../Page/ストリーミング.md "wikilink")データなどを識別するのに利用されている。UTIは[ドメイン名](../Page/ドメイン名.md "wikilink")を逆さにした構造をしている。また、UTIは[マルチメディア](../Page/マルチメディア.md "wikilink")ファイルが（ のように）単一のタイプに識別されないように [多重継承](https://ja.wikipedia.org/wiki/多重継承 "wikilink")を採用している。つまり1つの識別子は例えば `public.audio`、`public.video`、`public.text`、`public.image` など複数の識別子を継承できる。
 
 継承の階層がUTIの最も重要な部分である。UTIの階層には次の2つがある。
 

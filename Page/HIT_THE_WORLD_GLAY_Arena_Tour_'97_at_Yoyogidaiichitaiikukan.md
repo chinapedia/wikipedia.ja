@@ -5,7 +5,7 @@
 
 ## 概要
 
-1997年に行われたツアー『GLAY ARENA TOUR '97 〜HIT THE WORLD September〜』から[国立代々木競技場](https://ja.wikipedia.org/wiki/国立代々木競技場 "wikilink")第一体育館のライブの模様を収録している。
+1997年に行われたツアー『GLAY ARENA TOUR '97 〜HIT THE WORLD September〜』から[国立代々木競技場](../Page/国立代々木競技場.md "wikilink")第一体育館のライブの模様を収録している。
 
 2003年12月3日に特典付きでDVD化された。
 

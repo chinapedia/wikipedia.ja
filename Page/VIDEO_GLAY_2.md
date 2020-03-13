@@ -5,14 +5,14 @@
 
 ## 概要
 
-前作『[VIDEO GLAY](../Page/VIDEO_GLAY.md "wikilink")』から1年ぶりの作品。[2001年](../Page/2001年.md "wikilink")[6月20日](../Page/6月20日.md "wikilink")に『VIDEO GLAY』『[無限のdéjà vu DOCUMENT of “BEAT out\!” TOURS](https://ja.wikipedia.org/wiki/無限のdéjà_vu_DOCUMENT_of_"BEAT_out!"_TOURS "wikilink")』と共に[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")からDVD化されて再発されたが、現在は廃盤である。
+前作『[VIDEO GLAY](../Page/VIDEO_GLAY.md "wikilink")』から1年ぶりの作品。[2001年](../Page/2001年.md "wikilink")[6月20日](../Page/6月20日.md "wikilink")に『VIDEO GLAY』『[無限のdéjà vu DOCUMENT of “BEAT out\!” TOURS](https://ja.wikipedia.org/wiki/無限のdéjà_vu_DOCUMENT_of_"BEAT_out!"_TOURS "wikilink")』と共に[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")からDVD化されて再発されたが、現在は廃盤である。
 
 ## 収録曲
 
 1.  **[More than Love](../Page/BEAT_out!.md "wikilink")**
 2.  **[Yes, Summerdays](../Page/Yes,_Summerdays.md "wikilink")**
       -
-        演奏シーンは最後の方までなく、メンバー各々ソロでのカットが多い。純粋に演奏をメインにした映像は『[VIDEO GLAY 3](https://ja.wikipedia.org/wiki/VIDEO_GLAY_3 "wikilink")』に収録されている。
+        演奏シーンは最後の方までなく、メンバー各々ソロでのカットが多い。純粋に演奏をメインにした映像は『[VIDEO GLAY 3](../Page/VIDEO_GLAY_3.md "wikilink")』に収録されている。
 3.  **[グロリアス](../Page/グロリアス_\(GLAYの曲\).md "wikilink")**
 4.  **[生きてく強さ](../Page/生きてく強さ.md "wikilink")**
 5.  **[ずっと2人で…](https://ja.wikipedia.org/wiki/ずっと2人で…/GONE_WITH_THE_WIND "wikilink")**

@@ -5,7 +5,7 @@
 
 ## 概要
 
-『[GLAY ARENA TOUR 2000 “HEAVY GAUGE” in SAITAMA SUPER ARENA](https://ja.wikipedia.org/wiki/GLAY_ARENA_TOUR_2000“HEAVY_GAUGE”in_SAITAMA_SUPER_ARENA "wikilink")』『[GLAY EXPO 2001 “GLOBAL COMMUNICATION” in TOKYO STADIUM](https://ja.wikipedia.org/wiki/GLAY_EXPO_2001“GLOBAL_COMMUNICATION”in_TOKYO_STADIUM "wikilink")』と同時に発売された。さらにこの3作とボーナス・ディスクがセットになった『[LIVE DVD BOX vol.1 (includes LIVE DVD 3 Titles & GLAY Perfect Data 1994-2004)](https://ja.wikipedia.org/wiki/LIVE_DVD_BOX_vol.1\(includes_LIVE_DVD_3_Titles_&_GLAY_Perfect_Data_1994-2004\) "wikilink")』も同時発売された。
+『[GLAY ARENA TOUR 2000 “HEAVY GAUGE” in SAITAMA SUPER ARENA](../Page/GLAY_ARENA_TOUR_2000“HEAVY_GAUGE”in_SAITAMA_SUPER_ARENA.md "wikilink")』『[GLAY EXPO 2001 “GLOBAL COMMUNICATION” in TOKYO STADIUM](../Page/GLAY_EXPO_2001“GLOBAL_COMMUNICATION”in_TOKYO_STADIUM.md "wikilink")』と同時に発売された。さらにこの3作とボーナス・ディスクがセットになった『[LIVE DVD BOX vol.1 (includes LIVE DVD 3 Titles & GLAY Perfect Data 1994-2004)](../Page/LIVE_DVD_BOX_vol.1\(includes_LIVE_DVD_3_Titles_&_GLAY_Perfect_Data_1994-2004\).md "wikilink")』も同時発売された。
 
 1999年に行われた、[JIRO](../Page/JIRO.md "wikilink")プロデュースのファンクラブ限定ライブの模様を収録している。しかし、この日のタイトルだった「UNPLUGGED in 日本武道館」というタイトルが諸事情で使用できず、この作品名に落ち着いた。
 

@@ -9,7 +9,7 @@
 
 [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[POP JAM](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")』オープニングテーマ\[1\]、[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[天才\!ヒポカンパス](../Page/天才!ヒポカンパス.md "wikilink")』メインテーマ、[毎日放送](../Page/毎日放送.md "wikilink")制作ドラマ『[古代少女ドグちゃん](https://ja.wikipedia.org/wiki/古代少女ドグちゃん "wikilink")』エンディングテーマ\[2\]。
 
-アルバム『[ORANGE](https://ja.wikipedia.org/wiki/ORANGE_\(電気グルーヴのアルバム\) "wikilink")』からの[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")。当初はシングルとして発売する予定は無かったが、タイアップが急遽決まった為に、演奏時間を一部ショートカットして慌てて発売した。GROOVE YARDの[リミックス](../Page/リミックス.md "wikilink")はアナログEPでは没となっていたものである。
+アルバム『[ORANGE](../Page/ORANGE_\(電気グルーヴのアルバム\).md "wikilink")』からの[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")。当初はシングルとして発売する予定は無かったが、タイアップが急遽決まった為に、演奏時間を一部ショートカットして慌てて発売した。GROOVE YARDの[リミックス](../Page/リミックス.md "wikilink")はアナログEPでは没となっていたものである。
 
 PVはプライベートビデオ\[3\]でラストは当時の電気グルーヴのライブショットの連続という構成である。
 

@@ -1,7 +1,7 @@
 > この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
 
 
-『**FMシアター**』（エフエムシアター）は、[NHK-FMで毎週土曜日](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink")22時00分-22時50分に放送される[ラジオドラマ](../Page/ラジオドラマ.md "wikilink")である。
+『**FMシアター**』（エフエムシアター）は、[NHK-FMで毎週土曜日](../Page/NHK-FM放送.md "wikilink")22時00分-22時50分に放送される[ラジオドラマ](../Page/ラジオドラマ.md "wikilink")である。
 
 文学作品や社会派の作品をはじめ、ミステリ―、ホラー、SF、時代劇などあらゆるジャンルの一話（50分）完結のラジオドラマを展開する（一部例外あり）。
 
@@ -9,7 +9,7 @@
 
 また、年1回海外文学を特集したシリーズ（概ね1か月間にわたって3 - 5作品）を放送したり、毎年一般のリスナーを対象としたオーディオドラマ脚本懸賞募集（[仙台](../Page/NHK仙台放送局.md "wikilink")、[東京](../Page/NHK放送センター.md "wikilink")、[名古屋](../Page/NHK名古屋放送局.md "wikilink")、[大阪](../Page/NHK大阪放送局.md "wikilink")、[広島](../Page/NHK広島放送局.md "wikilink")、[福岡の各放送局が実施](../Page/NHK福岡放送局.md "wikilink")）の入選（優秀）作品をドラマ化して放送する。[NHK厚生文化事業団](../Page/NHK厚生文化事業団.md "wikilink")が毎年主催する、「NHK銀の雫文芸賞」の最優秀入選作品のドラマ化・放送も恒例である。
 
-特に10月・11月は[文化庁芸術祭参加作品放送のため](../Page/芸術祭_\(文化庁\).md "wikilink")、他時期より比較的[再放送](https://ja.wikipedia.org/wiki/再放送 "wikilink")が多くなる。更にはこの参加による受賞作を、翌年3月最終週（即ち年度末）に再放送するのも恒例となっており、結果、単年度内に同じ作品を3回放送するケースが少なくない。
+特に10月・11月は[文化庁芸術祭参加作品放送のため](../Page/芸術祭_\(文化庁\).md "wikilink")、他時期より比較的[再放送](../Page/再放送.md "wikilink")が多くなる。更にはこの参加による受賞作を、翌年3月最終週（即ち年度末）に再放送するのも恒例となっており、結果、単年度内に同じ作品を3回放送するケースが少なくない。
 
 ## 受賞
 
@@ -36,7 +36,7 @@
 
 <!-- end list -->
 
-  - [ABU賞](https://ja.wikipedia.org/wiki/アジア太平洋放送連合 "wikilink")（ラジオ・ドラマ番組部門）
+  - [ABU賞](../Page/アジア太平洋放送連合.md "wikilink")（ラジオ・ドラマ番組部門）
 
 <!-- end list -->
 
@@ -60,8 +60,8 @@
 
 ## 関連項目
 
-  - [人魚の森](https://ja.wikipedia.org/wiki/人魚シリーズ "wikilink")
-  - [夕凪の街 桜の国](https://ja.wikipedia.org/wiki/夕凪の街_桜の国 "wikilink")
+  - [人魚の森](../Page/人魚シリーズ.md "wikilink")
+  - [夕凪の街 桜の国](../Page/夕凪の街_桜の国.md "wikilink")
   - [レインツリーの国](https://ja.wikipedia.org/wiki/レインツリーの国 "wikilink")
   - [LET IT PON\!〜それでええんよ〜](https://ja.wikipedia.org/wiki/LET_IT_PON!〜それでええんよ〜 "wikilink")
   - [プラチナタウン](https://ja.wikipedia.org/wiki/プラチナタウン "wikilink")

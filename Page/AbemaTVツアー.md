@@ -20,7 +20,7 @@
   - 第1戦 - [Novil](../Page/ノヴィル.md "wikilink") Cup
   - 第2戦 - i Golf Shaper Challenge in 筑紫ヶ丘
   - 第3戦 - ジャパンクリエイトチャレンジ in 福岡雷山
-  - 第4戦 - [HEIWA](https://ja.wikipedia.org/wiki/平和_\(パチンコ\) "wikilink")・[PGM](../Page/PGMホールディングス.md "wikilink") Challenge I ～ Road to CHAMPIONSHIP
+  - 第4戦 - [HEIWA](../Page/平和_\(パチンコ\).md "wikilink")・[PGM](../Page/PGMホールディングス.md "wikilink") Challenge I ～ Road to CHAMPIONSHIP
   - 第5戦 - [太平洋クラブ](../Page/太平洋クラブ.md "wikilink")チャレンジトーナメント
   - 第6戦 - LANDIC CHALLENGE 6
   - 第7戦 - 南秋田CCみちのくチャレンジ

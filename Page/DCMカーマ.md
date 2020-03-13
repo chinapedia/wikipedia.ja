@@ -13,11 +13,11 @@
 
 一部地域では、地方スーパーと提携のフランチャイジー店舗を展開している。
 
-他の大手ホームセンター（[カインズホーム](https://ja.wikipedia.org/wiki/カインズホーム "wikilink")、[コーナン](https://ja.wikipedia.org/wiki/コーナン "wikilink")）などに比べると、PB（[プライベートブランド](../Page/プライベートブランド.md "wikilink")）の比率は低く、NB（[ナショナルブランド](../Page/ナショナルブランド.md "wikilink")）中心の品揃えである。
+他の大手ホームセンター（[カインズホーム](https://ja.wikipedia.org/wiki/カインズホーム "wikilink")、[コーナン](../Page/コーナン.md "wikilink")）などに比べると、PB（[プライベートブランド](../Page/プライベートブランド.md "wikilink")）の比率は低く、NB（[ナショナルブランド](../Page/ナショナルブランド.md "wikilink")）中心の品揃えである。
 
 ## 沿革
 
-  - [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")（[昭和](../Page/昭和.md "wikilink")45年）[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink") - [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")[緑区に](../Page/緑区_\(名古屋市\).md "wikilink")「**大高商事株式会社**」を設立。
+  - [1970年](../Page/1970年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")45年）[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink") - [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")[緑区に](../Page/緑区_\(名古屋市\).md "wikilink")「**大高商事株式会社**」を設立。
   - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")（昭和46年）[8月](../Page/8月.md "wikilink") - 「**株式会社カーマ**」に商号を変更し、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")[南区に本店を移転](../Page/南区_\(名古屋市\).md "wikilink")。
   - [1972年](../Page/1972年.md "wikilink")（昭和47年）[6月](../Page/6月.md "wikilink") - [ドラッグストア](../Page/ドラッグストア.md "wikilink")のチェーン展開を目指して、「株式会社かがみ」・「合資会社クスリのかがみ」・「株式会社花園」・「原商事株式会社」・「サンケイ薬品株式会社」と[合併し](../Page/合併_\(企業\).md "wikilink")、「株式会社カーマ」が存続会社となる。
   - [1973年](../Page/1973年.md "wikilink")（昭和48年）[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - ホームセンター事業に進出、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")[西区に名西店](../Page/西区_\(名古屋市\).md "wikilink")（第1号店）を出店。
@@ -29,7 +29,7 @@
   - [2002年](../Page/2002年.md "wikilink")（平成14年）
       - [3月1日](../Page/3月1日.md "wikilink") - 「[株式会社ジョイフル本田](../Page/ジョイフル本田.md "wikilink")」と[業務提携](https://ja.wikipedia.org/wiki/業務提携 "wikilink")。
       - [6月30日](../Page/6月30日.md "wikilink") - 「株式会社ジョイフル本田」と業務提携を解消。友好関係は継続している。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）[6月20日](../Page/6月20日.md "wikilink") - 名西店（第1号店）を閉店する。
+  - [2005年](../Page/2005年.md "wikilink")（平成17年）[6月20日](../Page/6月20日.md "wikilink") - 名西店（第1号店）を閉店する。
   - [2006年](../Page/2006年.md "wikilink")（平成18年）
       - [9月1日](../Page/9月1日.md "wikilink") - ホーマック・ダイキと経営統合し、ともに、「DCM Japanホールディングス」（現・[DCMホールディングス](../Page/DCMホールディングス.md "wikilink")）の傘下となる。
       - [10月1日](../Page/10月1日.md "wikilink") - 「株式会社イシグローイング」から[ホームセンターリブ](https://ja.wikipedia.org/wiki/ホームセンターリブ "wikilink")の山田店・田原店・渥美店を取得。

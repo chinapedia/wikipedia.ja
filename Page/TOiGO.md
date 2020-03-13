@@ -1,9 +1,9 @@
 > この記事は[TOiGO](https://ja.wikipedia.org/wiki/TOiGO)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:TOiGO_buildings.jpg "wikilink") **TOiGO**（トイーゴ）は、[長野県](../Page/長野県.md "wikilink")[長野市](../Page/長野市.md "wikilink")の中心地・[長野駅](https://ja.wikipedia.org/wiki/長野駅 "wikilink")近郊の[問御所町の](https://ja.wikipedia.org/wiki/鶴賀_\(長野市\)#問御所町 "wikilink")[再開発](https://ja.wikipedia.org/wiki/再開発 "wikilink")計画と、長野県の民間放送局である[SBC信越放送の開局](https://ja.wikipedia.org/wiki/信越放送 "wikilink")55年記念事業の一環として[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月](../Page/9月.md "wikilink")にオープンしたビルディングである。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:TOiGO_buildings.jpg "wikilink") **TOiGO**（トイーゴ）は、[長野県](../Page/長野県.md "wikilink")[長野市](../Page/長野市.md "wikilink")の中心地・[長野駅](https://ja.wikipedia.org/wiki/長野駅 "wikilink")近郊の[問御所町の](https://ja.wikipedia.org/wiki/鶴賀_\(長野市\)#問御所町 "wikilink")[再開発](../Page/再開発.md "wikilink")計画と、長野県の民間放送局である[SBC信越放送の開局](https://ja.wikipedia.org/wiki/信越放送 "wikilink")55年記念事業の一環として[2006年](../Page/2006年.md "wikilink")[9月](../Page/9月.md "wikilink")にオープンしたビルディングである。
 
-施設名は公募で決定。住所の「問御所町」と「[Amigo](https://ja.wikipedia.org/wiki/アミーゴ "wikilink")」を掛け、また「未来へ進め」という意味を込めて英語の「TO」と「GO」も掛け合わせたもの。[ロゴ](https://ja.wikipedia.org/wiki/ロゴ "wikilink")の「i」は人をイメージして[小文字](https://ja.wikipedia.org/wiki/小文字 "wikilink")にしている。
+施設名は公募で決定。住所の「問御所町」と「[Amigo](https://ja.wikipedia.org/wiki/アミーゴ "wikilink")」を掛け、また「未来へ進め」という意味を込めて英語の「TO」と「GO」も掛け合わせたもの。[ロゴ](https://ja.wikipedia.org/wiki/ロゴ "wikilink")の「i」は人をイメージして[小文字](../Page/小文字.md "wikilink")にしている。
 
 ## 沿革
 
@@ -11,9 +11,9 @@
 
 [2003年](../Page/2003年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")、正式に再開発組合に格上げして街づくりを開始。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月22日](../Page/9月22日.md "wikilink")、[百貨店](../Page/百貨店.md "wikilink")[長野そごう](../Page/長野そごう.md "wikilink")（旧・丸光百貨店 → 丸光そごう → 長野そごう → 閉店）の跡地に建設されたTOiGOは正式オープンとなった。
+[2006年](../Page/2006年.md "wikilink")[9月22日](../Page/9月22日.md "wikilink")、[百貨店](../Page/百貨店.md "wikilink")[長野そごう](../Page/長野そごう.md "wikilink")（旧・丸光百貨店 → 丸光そごう → 長野そごう → 閉店）の跡地に建設されたTOiGOは正式オープンとなった。
 
-信越放送は[地上デジタルテレビジョン放送](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")（[ワンセグ](https://ja.wikipedia.org/wiki/ワンセグ "wikilink")テレビ放送含む　2006年[10月1日](../Page/10月1日.md "wikilink")開始）に対応する放送施設を整えて先行的に同年[9月4日](../Page/9月4日.md "wikilink")から移転し（同日デジタルマスター更新）、当社屋での放送を開始した。
+信越放送は[地上デジタルテレビジョン放送](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")（[ワンセグ](../Page/ワンセグ.md "wikilink")テレビ放送含む　2006年[10月1日](../Page/10月1日.md "wikilink")開始）に対応する放送施設を整えて先行的に同年[9月4日](../Page/9月4日.md "wikilink")から移転し（同日デジタルマスター更新）、当社屋での放送を開始した。
 
 ## 施設概要
 
@@ -31,7 +31,7 @@
 
 ## その他
 
-  - この2つのビルは2階部分に2本の連絡橋（ブリッジ）で繋がっているほか、1階（TOiGO広場付近）にも[ペデストリアンデッキ](https://ja.wikipedia.org/wiki/ペデストリアンデッキ "wikilink")が設置されている。
+  - この2つのビルは2階部分に2本の連絡橋（ブリッジ）で繋がっているほか、1階（TOiGO広場付近）にも[ペデストリアンデッキ](../Page/ペデストリアンデッキ.md "wikilink")が設置されている。
   - 「TOiGO」の駐車場は2つのビルのそばにある幹線道路・[国道19号](../Page/国道19号.md "wikilink")（[昭和通り](../Page/昭和通り_\(長野市\).md "wikilink")・新田町交差点）を挟んで存在する立体駐車場。この駐車場の1階にはフィットネスクラブ（[快活フィットネスCLUB](../Page/快活フロンティア.md "wikilink")）や美容所等が入居する\[1\]。
   - TOiGOのオープンに併せて、TOiGO近くにある新田町交差点の横断歩道は、横幅の拡張工事を行い、20mに大幅に拡張された。また、長野県で一番横幅が広い横断歩道になった。
 

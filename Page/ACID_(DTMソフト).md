@@ -10,7 +10,7 @@
 ## 歴史
 
   -
-    1998年に米Sonic Foundry社からより発売され、2004年にSony Creative Softwareへ売却。公式サポートは[2015年](../Page/2015年.md "wikilink")[6月18日](../Page/6月18日.md "wikilink")まで[フックアップ](https://ja.wikipedia.org/wiki/フックアップ "wikilink")が行っていた[その後はが](https://ja.wikipedia.org/wiki/フックアップ "wikilink")、[ソースネクスト](https://ja.wikipedia.org/wiki/ソースネクスト "wikilink")へとサポートが引き継がれている。[2016年](../Page/2016年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")、[Vegas Proや](https://ja.wikipedia.org/wiki/Vegas_Pro "wikilink")[Vegas Movie Studio](https://ja.wikipedia.org/wiki/Vegas_Movie_Studio "wikilink")、[Sound Forge等のSony](https://ja.wikipedia.org/wiki/Sound_Forge "wikilink") Creative Softwareが所有する大半のソフトウェアと共にMAGIX社へ売却された\[1\]。
+    1998年に米Sonic Foundry社からより発売され、2004年にSony Creative Softwareへ売却。公式サポートは[2015年](../Page/2015年.md "wikilink")[6月18日](../Page/6月18日.md "wikilink")まで[フックアップ](https://ja.wikipedia.org/wiki/フックアップ "wikilink")が行っていた[その後はが](https://ja.wikipedia.org/wiki/フックアップ "wikilink")、[ソースネクスト](../Page/ソースネクスト.md "wikilink")へとサポートが引き継がれている。[2016年](../Page/2016年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")、[Vegas Proや](https://ja.wikipedia.org/wiki/Vegas_Pro "wikilink")[Vegas Movie Studio](https://ja.wikipedia.org/wiki/Vegas_Movie_Studio "wikilink")、[Sound Forge等のSony](https://ja.wikipedia.org/wiki/Sound_Forge "wikilink") Creative Softwareが所有する大半のソフトウェアと共にMAGIX社へ売却された\[1\]。
 
 ## ラインナップ
 

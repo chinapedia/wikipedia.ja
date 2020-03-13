@@ -3,7 +3,7 @@
 
 『**月刊COMICリュウ**』（げっかんコミックリュウ）は、[徳間書店](../Page/徳間書店.md "wikilink")発行の月刊[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月19日](../Page/9月19日.md "wikilink")（2006年11月号）にて「新創刊」（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に休刊となった同社の漫画雑誌『[リュウ](../Page/リュウ_\(雑誌\).md "wikilink")』の誌名を受け継ぐ）。 2007年11月号より[中綴じ](https://ja.wikipedia.org/wiki/中綴じ "wikilink")から[平綴じ](https://ja.wikipedia.org/wiki/平綴じ "wikilink")に変更。[2011年](../Page/2011年.md "wikilink")8月号をもって再び休刊し、翌[2012年](../Page/2012年.md "wikilink")の[3月19日](../Page/3月19日.md "wikilink")（2012年5月号）よりリニューアル[復刊](https://ja.wikipedia.org/wiki/復刊 "wikilink")。2015年には、この休刊からの復刊をネタにした自虐的なテレビCMが制作された\[1\]。
+[2006年](../Page/2006年.md "wikilink")[9月19日](../Page/9月19日.md "wikilink")（2006年11月号）にて「新創刊」（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に休刊となった同社の漫画雑誌『[リュウ](../Page/リュウ_\(雑誌\).md "wikilink")』の誌名を受け継ぐ）。 2007年11月号より[中綴じ](https://ja.wikipedia.org/wiki/中綴じ "wikilink")から[平綴じ](https://ja.wikipedia.org/wiki/平綴じ "wikilink")に変更。[2011年](../Page/2011年.md "wikilink")8月号をもって再び休刊し、翌[2012年](../Page/2012年.md "wikilink")の[3月19日](../Page/3月19日.md "wikilink")（2012年5月号）よりリニューアル[復刊](https://ja.wikipedia.org/wiki/復刊 "wikilink")。2015年には、この休刊からの復刊をネタにした自虐的なテレビCMが制作された\[1\]。
 
 2016年5月号より、電子書籍版を配信している。また、公式サイトで無料公開されている各作品を、男性向け、女性向けに分けて編集した『**おためし月刊コミックリュウ**』も無料配信されている\[2\]。
 
@@ -11,7 +11,7 @@
 
 単行本レーベルは、「[RYU COMICS](https://ja.wikipedia.org/wiki/RYU_COMICS "wikilink")」。創刊時より新人発掘を目的とした漫画賞「[龍神賞](https://ja.wikipedia.org/wiki/龍神賞 "wikilink")」を開催している。
 
-特徴として、獣人、妖怪、モンスター娘など、人型の「人外」（[亜人](https://ja.wikipedia.org/wiki/亜人 "wikilink")）を扱った漫画が他誌よりも比較的多く掲載されている。
+特徴として、獣人、妖怪、モンスター娘など、人型の「人外」（[亜人](../Page/亜人.md "wikilink")）を扱った漫画が他誌よりも比較的多く掲載されている。
 
 ## 連載作品
 
@@ -21,7 +21,7 @@
   - [アリスと蔵六](https://ja.wikipedia.org/wiki/アリスと蔵六 "wikilink")（[今井哲也](https://ja.wikipedia.org/wiki/今井哲也 "wikilink")）
   - [異骸-THE PLAY DEAD/ALIVE-](https://ja.wikipedia.org/wiki/異骸-THE_PLAY_DEAD/ALIVE- "wikilink")（[佐伊村司](https://ja.wikipedia.org/wiki/佐伊村司 "wikilink")）
   - [頂き！成り上がり飯](https://ja.wikipedia.org/wiki/頂き！成り上がり飯 "wikilink")（[奥嶋ひろまさ](../Page/奥嶋ひろまさ.md "wikilink")）
-  - エマノンシリーズ（[梶尾真治](https://ja.wikipedia.org/wiki/梶尾真治 "wikilink")×[鶴田謙二](../Page/鶴田謙二.md "wikilink")）
+  - エマノンシリーズ（[梶尾真治](../Page/梶尾真治.md "wikilink")×[鶴田謙二](../Page/鶴田謙二.md "wikilink")）
       - [おもいでエマノン](https://ja.wikipedia.org/wiki/おもいでエマノン "wikilink")
       - [さすらいエマノン](https://ja.wikipedia.org/wiki/さすらいエマノン "wikilink")
       - [さすらいエマノン'80](https://ja.wikipedia.org/wiki/さすらいエマノン'80 "wikilink")
@@ -208,7 +208,7 @@
   - [おとなりボイスチャット](https://ja.wikipedia.org/wiki/おとなりボイスチャット "wikilink")（[こじまなおなり](https://ja.wikipedia.org/wiki/こじまなおなり "wikilink")）
   - [お姉さんの食卓](https://ja.wikipedia.org/wiki/お姉さんの食卓 "wikilink")（[浅岡キョウジ](https://ja.wikipedia.org/wiki/浅岡キョウジ "wikilink")）
   - [陰陽師 瀧夜叉姫](https://ja.wikipedia.org/wiki/陰陽師_\(小説\)#漫画 "wikilink")（[夢枕獏](../Page/夢枕獏.md "wikilink")×[睦月ムンク](https://ja.wikipedia.org/wiki/睦月ムンク "wikilink")
-  - [解剖医ハンター](https://ja.wikipedia.org/wiki/解剖医ハンター "wikilink")（[吉川良太郎](https://ja.wikipedia.org/wiki/吉川良太郎 "wikilink")×黒釜ナオ）
+  - [解剖医ハンター](https://ja.wikipedia.org/wiki/解剖医ハンター "wikilink")（[吉川良太郎](../Page/吉川良太郎.md "wikilink")×黒釜ナオ）
   - [KEYMAN](https://ja.wikipedia.org/wiki/KEYMAN_-THE_HAND_OF_JUDGMENT- "wikilink")（[わらいなく](https://ja.wikipedia.org/wiki/わらいなく "wikilink")）
   - [機神幻想ルーンマスカー](https://ja.wikipedia.org/wiki/機神幻想ルーンマスカー "wikilink")第二部（[出渕裕](../Page/出渕裕.md "wikilink")）
   - [鬼娘恋愛禁止令](https://ja.wikipedia.org/wiki/鬼娘恋愛禁止令 "wikilink")（[松虫あられ](https://ja.wikipedia.org/wiki/松虫あられ "wikilink")）
@@ -220,7 +220,7 @@
       - [オーロラ -王魔が刻-](https://ja.wikipedia.org/wiki/オーロラ_-王魔が刻- "wikilink")
   - [くままごと](https://ja.wikipedia.org/wiki/くままごと "wikilink")（[黄島点心](https://ja.wikipedia.org/wiki/黄島点心 "wikilink")）
   - [ケルベロス×立喰師 腹腹時計の少女](https://ja.wikipedia.org/wiki/ケルベロス×立喰師_腹腹時計の少女 "wikilink")（[押井守](../Page/押井守.md "wikilink")×[杉浦守](https://ja.wikipedia.org/wiki/杉浦守 "wikilink")）
-  - [子はカスガイの甘納豆](https://ja.wikipedia.org/wiki/子はカスガイの甘納豆 "wikilink")（[伊藤伸平](https://ja.wikipedia.org/wiki/伊藤伸平 "wikilink")）
+  - [子はカスガイの甘納豆](https://ja.wikipedia.org/wiki/子はカスガイの甘納豆 "wikilink")（[伊藤伸平](../Page/伊藤伸平.md "wikilink")）
   - [サテンdeヒナカ](https://ja.wikipedia.org/wiki/サテンdeヒナカ "wikilink")（永井朋裕）
   - [真田と浜子](https://ja.wikipedia.org/wiki/真田と浜子 "wikilink")（[ハイソンヤギ](https://ja.wikipedia.org/wiki/ハイソンヤギ "wikilink")）
   - [十月桜](https://ja.wikipedia.org/wiki/十月桜 "wikilink")（中野でいち）
@@ -232,20 +232,20 @@
   - [XENON-199X・R-](https://ja.wikipedia.org/wiki/XENON-199X・R- "wikilink")（[神崎将臣](../Page/神崎将臣.md "wikilink")）
   - [送電少女](https://ja.wikipedia.org/wiki/送電少女 "wikilink")（[ninikumi](https://ja.wikipedia.org/wiki/ninikumi "wikilink")）
   - [ソワレ学級](https://ja.wikipedia.org/wiki/ソワレ学級 "wikilink")（[靴下ぬぎ子](https://ja.wikipedia.org/wiki/靴下ぬぎ子 "wikilink")）
-  - [ダーティペア](https://ja.wikipedia.org/wiki/ダーティペア "wikilink")の大冒険（[高千穂遙](../Page/高千穂遙.md "wikilink")×[たまきひさお](https://ja.wikipedia.org/wiki/田巻久雄 "wikilink")）
+  - [ダーティペア](../Page/ダーティペア.md "wikilink")の大冒険（[高千穂遙](../Page/高千穂遙.md "wikilink")×[たまきひさお](https://ja.wikipedia.org/wiki/田巻久雄 "wikilink")）
   - [大正野球娘。](https://ja.wikipedia.org/wiki/大正野球娘。 "wikilink")（[神楽坂淳](https://ja.wikipedia.org/wiki/神楽坂淳 "wikilink")×伊藤伸平）
   - [大昭和怪人伝](https://ja.wikipedia.org/wiki/大昭和怪人伝 "wikilink")（[横尾公敏](https://ja.wikipedia.org/wiki/横尾公敏 "wikilink")）
   - [第七女子会彷徨](https://ja.wikipedia.org/wiki/第七女子会彷徨 "wikilink")（[つばな](https://ja.wikipedia.org/wiki/つばな "wikilink")）
   - [瀧鷹之介の散歩時間](https://ja.wikipedia.org/wiki/瀧鷹之介の散歩時間 "wikilink")（[アサミ・マート](https://ja.wikipedia.org/wiki/アサミ・マート "wikilink")）
   - [DANGAN GIRL](https://ja.wikipedia.org/wiki/DANGAN_GIRL "wikilink")（[長谷川絢也](https://ja.wikipedia.org/wiki/長谷川絢也 "wikilink")）
   - [ダンディ★マニアック](https://ja.wikipedia.org/wiki/ダンディ★マニアック "wikilink")（[克・亜樹](../Page/克・亜樹.md "wikilink")）
-  - [ちゃんと描いてますからっ\!](https://ja.wikipedia.org/wiki/ちゃんと描いてますからっ! "wikilink")（[星里もちる](../Page/星里もちる.md "wikilink")）
+  - [ちゃんと描いてますからっ\!](../Page/ちゃんと描いてますからっ!.md "wikilink")（[星里もちる](../Page/星里もちる.md "wikilink")）
   - [ちょいあ\!](https://ja.wikipedia.org/wiki/ちょいあ! "wikilink")（[天蓬元帥](https://ja.wikipedia.org/wiki/天蓬元帥 "wikilink")）
   - [ちょろ恐](https://ja.wikipedia.org/wiki/ちょろ恐 "wikilink")（[唐沢なをき](../Page/唐沢なをき.md "wikilink")）
   - [月嶋教授の“世界の成り立ち”を考える](https://ja.wikipedia.org/wiki/月嶋教授の“世界の成り立ち”を考える "wikilink")（[あかほりさとる](../Page/あかほりさとる.md "wikilink")×[扶持田一寛](https://ja.wikipedia.org/wiki/扶持田一寛 "wikilink")）
   - [TEN-SHOWさーう゛ぁんとっ\!](https://ja.wikipedia.org/wiki/TEN-SHOWさーう゛ぁんとっ! "wikilink")（[高橋祐](https://ja.wikipedia.org/wiki/高橋祐 "wikilink")）
   - [トランス・ヴィーナス](https://ja.wikipedia.org/wiki/トランス・ヴィーナス "wikilink")（[たまきひさお](https://ja.wikipedia.org/wiki/たまきひさお "wikilink")）
-  - [ドリームバスター](../Page/ドリームバスター.md "wikilink")（[宮部みゆき](../Page/宮部みゆき.md "wikilink")×[中平正彦](https://ja.wikipedia.org/wiki/中平正彦 "wikilink")）
+  - [ドリームバスター](../Page/ドリームバスター.md "wikilink")（[宮部みゆき](../Page/宮部みゆき.md "wikilink")×[中平正彦](../Page/中平正彦.md "wikilink")）
   - [とりから往復書簡](https://ja.wikipedia.org/wiki/とりから往復書簡 "wikilink")（[とり・みき](../Page/とり・みき.md "wikilink")&唐沢なをき）
   - [とりきっさ\!](https://ja.wikipedia.org/wiki/とりきっさ! "wikilink")（[ノブヨシ侍](https://ja.wikipedia.org/wiki/ノブヨシ侍 "wikilink")）
   - [夢☆恋-ドリコイ-](https://ja.wikipedia.org/wiki/夢☆恋-ドリコイ- "wikilink")（[八丸真幸](https://ja.wikipedia.org/wiki/八丸真幸 "wikilink")）
@@ -263,7 +263,7 @@
       - のろい屋シークレット
   - [89番目のおんがく](https://ja.wikipedia.org/wiki/89番目のおんがく "wikilink")（[篠田芽衣子](https://ja.wikipedia.org/wiki/篠田芽衣子 "wikilink")）
   - [晴晴劇場](https://ja.wikipedia.org/wiki/晴晴劇場 "wikilink")（[山坂健](https://ja.wikipedia.org/wiki/山坂健 "wikilink")）
-  - [つばめ 〜陽だまり少女紀行](https://ja.wikipedia.org/wiki/陽だまり少女紀行 "wikilink")（[松本規之](https://ja.wikipedia.org/wiki/松本規之 "wikilink")）
+  - [つばめ 〜陽だまり少女紀行](https://ja.wikipedia.org/wiki/陽だまり少女紀行 "wikilink")（[松本規之](../Page/松本規之.md "wikilink")）
   - [ひなぎく純真女学園](https://ja.wikipedia.org/wiki/ひなぎく純真女学園 "wikilink")（[ふくやまけいこ](../Page/ふくやまけいこ.md "wikilink")）
   - [ひみつのはんぶんこ](https://ja.wikipedia.org/wiki/ひみつのはんぶんこ "wikilink")（[ぴのみきまる](https://ja.wikipedia.org/wiki/ぴのみきまる "wikilink")）
   - [PiNKS](https://ja.wikipedia.org/wiki/PiNKS "wikilink")（[倉金篤志](https://ja.wikipedia.org/wiki/倉金篤志 "wikilink")）
@@ -273,7 +273,7 @@
   - [冥王計画ゼオライマー](../Page/冥王計画ゼオライマー.md "wikilink") 最終章 （ちみもりを）
   - [冥王計画（プロジェクト）ゼオライマーΩ](https://ja.wikipedia.org/wiki/冥王計画ゼオライマーΩ "wikilink") （[ちみもりを](../Page/高屋良樹.md "wikilink")×[ワタリユウ](https://ja.wikipedia.org/wiki/ワタリユウ "wikilink")）
   - [ベビーリーフ デイズ](https://ja.wikipedia.org/wiki/ベビーリーフ_デイズ "wikilink")（[柴谷けん](https://ja.wikipedia.org/wiki/柴谷けん "wikilink")）
-  - [僕と日本が震えた日](https://ja.wikipedia.org/wiki/僕と日本が震えた日 "wikilink")（[鈴木みそ](https://ja.wikipedia.org/wiki/鈴木みそ "wikilink")）
+  - [僕と日本が震えた日](https://ja.wikipedia.org/wiki/僕と日本が震えた日 "wikilink")（[鈴木みそ](../Page/鈴木みそ.md "wikilink")）
   - [ぼくらのへんたい](https://ja.wikipedia.org/wiki/ぼくらのへんたい "wikilink")（[ふみふみこ](https://ja.wikipedia.org/wiki/ふみふみこ "wikilink")）
   - [ホムラ\!](https://ja.wikipedia.org/wiki/ホムラ! "wikilink")（作画：[奥田ひとし](../Page/奥田ひとし.md "wikilink") 原作：[今野仁](https://ja.wikipedia.org/wiki/今野仁 "wikilink")）
   - [マロマロ](https://ja.wikipedia.org/wiki/マロマロ "wikilink")（[楽楽](https://ja.wikipedia.org/wiki/楽楽 "wikilink")）
@@ -284,8 +284,8 @@
   - [木造迷宮](https://ja.wikipedia.org/wiki/木造迷宮 "wikilink")（アサミ・マート）
   - [桃栗三年](https://ja.wikipedia.org/wiki/桃栗三年 "wikilink")（[亀井薄雪](https://ja.wikipedia.org/wiki/亀井薄雪 "wikilink")）
   - [モンスターキネマトグラフ](https://ja.wikipedia.org/wiki/モンスターキネマトグラフ "wikilink")（坂木原レム）
-  - [闇狩り師 キマイラ天龍変](https://ja.wikipedia.org/wiki/闇狩り師#漫画版 "wikilink")（夢枕獏×[伊藤勢](https://ja.wikipedia.org/wiki/伊藤勢 "wikilink")）
-  - [夕ばえ作戦](https://ja.wikipedia.org/wiki/夕ばえ作戦 "wikilink")（原作：[光瀬龍](../Page/光瀬龍.md "wikilink")、脚色：押井守、作画：[大野ツトム](https://ja.wikipedia.org/wiki/大野ツトム "wikilink")）
+  - [闇狩り師 キマイラ天龍変](https://ja.wikipedia.org/wiki/闇狩り師#漫画版 "wikilink")（夢枕獏×[伊藤勢](../Page/伊藤勢.md "wikilink")）
+  - [夕ばえ作戦](../Page/夕ばえ作戦.md "wikilink")（原作：[光瀬龍](../Page/光瀬龍.md "wikilink")、脚色：押井守、作画：[大野ツトム](https://ja.wikipedia.org/wiki/大野ツトム "wikilink")）
   - [柳花 〜ユファの大地〜](https://ja.wikipedia.org/wiki/柳花_〜ユファの大地〜 "wikilink")（[福井晴敏](../Page/福井晴敏.md "wikilink")×[木根ヲサム](https://ja.wikipedia.org/wiki/木根ヲサム "wikilink")）　［2007年5月号から連載中止］
   - [ゆるユルにゃー\!\!](https://ja.wikipedia.org/wiki/ゆるユルにゃー!! "wikilink")（[小石川ふに](https://ja.wikipedia.org/wiki/小石川ふに "wikilink")）
   - [ライアーバード](https://ja.wikipedia.org/wiki/ライアーバード "wikilink")（[脇田茜](https://ja.wikipedia.org/wiki/脇田茜 "wikilink")）
@@ -295,7 +295,7 @@
   - [ルー=ガルー](https://ja.wikipedia.org/wiki/ルー=ガルー_忌避すべき狼 "wikilink")（[京極夏彦](../Page/京極夏彦.md "wikilink")×[樋口彰彦](https://ja.wikipedia.org/wiki/樋口彰彦 "wikilink")）
   - [レジーナ](https://ja.wikipedia.org/wiki/レジーナ_\(漫画\) "wikilink")（[緋尾乃稔巳](https://ja.wikipedia.org/wiki/緋尾乃嵩巳 "wikilink")）
   - [ロボット残党兵](https://ja.wikipedia.org/wiki/ロボット残党兵 "wikilink")（[横尾公敏](https://ja.wikipedia.org/wiki/横尾公敏 "wikilink")）
-  - [わんわん明治維新](https://ja.wikipedia.org/wiki/わんわん明治維新 "wikilink")（押井守×[西尾鉄也](https://ja.wikipedia.org/wiki/西尾鉄也 "wikilink")）
+  - [わんわん明治維新](https://ja.wikipedia.org/wiki/わんわん明治維新 "wikilink")（押井守×[西尾鉄也](../Page/西尾鉄也.md "wikilink")）
 
 ## 公式サイト連載終了作品
 
@@ -310,7 +310,7 @@
   - オヤカタ情報局（[池田憲章](../Page/池田憲章.md "wikilink")×[大沼弘幸](https://ja.wikipedia.org/wiki/大沼弘幸 "wikilink")）
   - 勝つために戦え\! 監督編（[押井守](../Page/押井守.md "wikilink")）
   - 堺三保のオタクおいどん（[堺三保](../Page/堺三保.md "wikilink")）
-  - 山田正紀の映画狩り（[山田正紀](../Page/山田正紀.md "wikilink")）(イラスト：[フー・スウィ・チン](https://ja.wikipedia.org/wiki/フー・スウィ・チン "wikilink"))
+  - 山田正紀の映画狩り（[山田正紀](../Page/山田正紀.md "wikilink")）(イラスト：[フー・スウィ・チン](../Page/フー・スウィ・チン.md "wikilink"))
   - 螺子の囁き（[速水螺旋人](https://ja.wikipedia.org/wiki/速水螺旋人 "wikilink")）
 
 ## 新人賞

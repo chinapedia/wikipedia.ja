@@ -5,13 +5,13 @@
 
 ## 概要
 
-「Pray」「My Rest Pose」の2曲とも、[アルバム](../Page/アルバム.md "wikilink")『[Happy Time](https://ja.wikipedia.org/wiki/Happy_Time_\(レイジーのアルバム\) "wikilink")』に収録されていたもの。[OVA](../Page/OVA.md "wikilink")『[新世紀GPXサイバーフォーミュラ](https://ja.wikipedia.org/wiki/新世紀GPXサイバーフォーミュラ "wikilink")SIN』のオープニングテーマと挿入歌として使用されることになり、[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")された。
+「Pray」「My Rest Pose」の2曲とも、[アルバム](../Page/アルバム.md "wikilink")『[Happy Time](../Page/Happy_Time_\(レイジーのアルバム\).md "wikilink")』に収録されていたもの。[OVA](../Page/OVA.md "wikilink")『[新世紀GPXサイバーフォーミュラ](../Page/新世紀GPXサイバーフォーミュラ.md "wikilink")SIN』のオープニングテーマと挿入歌として使用されることになり、[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")された。
 
 ## 収録曲
 
 1.  **Pray**
       -
-        『サイバーフォーミュラSIN』オープニングテーマ。曲の原案は[井上俊次](https://ja.wikipedia.org/wiki/井上俊次 "wikilink")によるもの\[1\]。
+        『サイバーフォーミュラSIN』オープニングテーマ。曲の原案は[井上俊次](../Page/井上俊次.md "wikilink")によるもの\[1\]。
         なお、シングルでは[歌詞](../Page/歌詞.md "wikilink")の一部が未表記になっている。
 2.  **My Rest Pose**
       -
@@ -21,7 +21,7 @@
 
 <!-- end list -->
 
-  - [作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：[牧穂エミ](../Page/牧穂エミ.md "wikilink")
+  - [作詞](../Page/作詞.md "wikilink")：[牧穂エミ](../Page/牧穂エミ.md "wikilink")
   - [作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")：[LAZY](../Page/レイジー.md "wikilink")
 
 ## 脚注

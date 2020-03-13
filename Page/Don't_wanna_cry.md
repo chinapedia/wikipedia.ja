@@ -32,7 +32,7 @@
     作詞：前田たかひろ、作曲・編曲：小室哲哉・[久保こーじ](https://ja.wikipedia.org/wiki/久保こーじ "wikilink")
       -
         サビ・メロディ以外は全て台詞で構成され、「女性シンガーがロサンゼルスにいる恋人の誕生日に国際電話とラブコールをする」というシチュエーションが再現された\[5\]。
-        2ndアルバム「[SWEET 19 BLUES](https://ja.wikipedia.org/wiki/SWEET_19_BLUES "wikilink")」では、セリフ無しで新たに書き直されて収録された。共に前田たかひろによる詞。
+        2ndアルバム「[SWEET 19 BLUES](../Page/SWEET_19_BLUES.md "wikilink")」では、セリフ無しで新たに書き直されて収録された。共に前田たかひろによる詞。
 3.  **Don't wanna cry** (Original Karaoke)
 4.  **present** (Original Karaoke)
 
@@ -41,7 +41,7 @@
   - **Don't wanna cry**
       - CD
     <!-- end list -->
-      - オリジナル『**[SWEET 19 BLUES](https://ja.wikipedia.org/wiki/SWEET_19_BLUES "wikilink")**』(Eighteen's Summer Mix)
+      - オリジナル『**[SWEET 19 BLUES](../Page/SWEET_19_BLUES.md "wikilink")**』(Eighteen's Summer Mix)
           - グルーヴ感を出すために打ち込みのベースを生音に差し替えた\[6\]。オリジナルにはなかった歌詞が追加されている。また、交響曲風にアレンジされたインタールード「**Interlude 〜Don't wanna cry Symphonic Style**」も収録されている\[7\]。
       - ベスト『**[181920](https://ja.wikipedia.org/wiki/181920 "wikilink")**』（『**181920 & films**』も同様）
           - 収録曲の中で唯一、シングルともオリジナルアルバムとも異なるバージョンである。具体的には、アレンジはシングルバージョンで歌詞はオリジナルアルバムバージョン。
@@ -81,7 +81,7 @@
 1.  [安室奈美恵ディスコグラフィー](http://web.archive.org/web/20010715041931/www.nikkansports.com/news2/amuro/a-cd.html)、[日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink")。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
 2.  [角川書店](../Page/角川書店.md "wikilink")刊「[CDでーた](../Page/CD&DLでーた.md "wikilink")」1996年4月5日号12Pより。
 3.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊「PATi PATi」1996年9月号11Pより。
-4.  [マガジンハウス](https://ja.wikipedia.org/wiki/マガジンハウス "wikilink")刊『[POPEYE](../Page/POPEYE.md "wikilink")』1996年12月25日号36P-37Pより。
+4.  [マガジンハウス](../Page/マガジンハウス.md "wikilink")刊『[POPEYE](../Page/POPEYE.md "wikilink")』1996年12月25日号36P-37Pより。
 5.
 6.  株式会社スコラ刊「[スコラ](../Page/スコラ.md "wikilink")」1996年8月8日号123Pより。
 7.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊 『[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")』 1996年9月号63Pより。

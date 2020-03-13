@@ -1,7 +1,7 @@
 > この記事は[Tert-](https://ja.wikipedia.org/wiki/Tert-)から翻訳されています。
 
 
-}} ***tert*-ブチルアルコール**（ターシャリー\[tertiary\]-ブチルアルコール、*tert*-butyl alcohol）または**2-メチル-2-プロパノール**とは最も単純な構造の[第三級アルコールで](https://ja.wikipedia.org/wiki/アルコール "wikilink")、四種存在する[ブタノール](https://ja.wikipedia.org/wiki/ブタノール "wikilink")の[異性体](https://ja.wikipedia.org/wiki/異性体 "wikilink")の一つである。なお、特に産業分野では「*tert*-ブタノール」と称されることがあり、特許公報などでは広く用いられているが、この名称は[IUPAC命名法](https://ja.wikipedia.org/wiki/IUPAC命名法 "wikilink")に反する誤った名称であり、使うべきではない。*tert*-ブチルアルコールは透明な液体で[樟脳](https://ja.wikipedia.org/wiki/樟脳 "wikilink")のような臭いを持ち、[水](../Page/水.md "wikilink")、[エタノール](https://ja.wikipedia.org/wiki/エタノール "wikilink")、[ジエチルエーテル](../Page/ジエチルエーテル.md "wikilink")と均一に混和する。融点が摂氏25度をわずかに上回るので、常温で固体になるという特徴はブタノールの異性体の中でも唯一である。
+}} ***tert*-ブチルアルコール**（ターシャリー\[tertiary\]-ブチルアルコール、*tert*-butyl alcohol）または**2-メチル-2-プロパノール**とは最も単純な構造の[第三級アルコールで](https://ja.wikipedia.org/wiki/アルコール "wikilink")、四種存在する[ブタノール](https://ja.wikipedia.org/wiki/ブタノール "wikilink")の[異性体](https://ja.wikipedia.org/wiki/異性体 "wikilink")の一つである。なお、特に産業分野では「*tert*-ブタノール」と称されることがあり、特許公報などでは広く用いられているが、この名称は[IUPAC命名法](https://ja.wikipedia.org/wiki/IUPAC命名法 "wikilink")に反する誤った名称であり、使うべきではない。*tert*-ブチルアルコールは透明な液体で[樟脳](../Page/樟脳.md "wikilink")のような臭いを持ち、[水](../Page/水.md "wikilink")、[エタノール](https://ja.wikipedia.org/wiki/エタノール "wikilink")、[ジエチルエーテル](../Page/ジエチルエーテル.md "wikilink")と均一に混和する。融点が摂氏25度をわずかに上回るので、常温で固体になるという特徴はブタノールの異性体の中でも唯一である。
 
 ## 利用
 
@@ -9,7 +9,7 @@
 
 ## 製造
 
-*tert*-ブチルアルコールは触媒を用いた[イソブテン](https://ja.wikipedia.org/wiki/イソブテン "wikilink")の水付加反応により製造される。
+*tert*-ブチルアルコールは触媒を用いた[イソブテン](../Page/イソブテン.md "wikilink")の水付加反応により製造される。
 
 ## 化学
 
@@ -20,7 +20,7 @@
   -
     <ce>{NaH} + ^tBuOH -\> {^tBuO^-Na^+} + H2</ce>
 
-化学種*tert*-ブトキシドアニオンは、強塩基性で求核性の低い塩基として有機合成化学上、有用な試剤である。すなわち、*tert*-ブトキシドアニオンは反応基質の酸性プロトンを直接引き抜くが、立体障害のため同アニオンの[ウィリアムソン合成](../Page/ウィリアムソン合成.md "wikilink")や[S<sub>N</sub>2反応のような求核反応は阻害される](https://ja.wikipedia.org/wiki/求核置換反応 "wikilink")。
+化学種*tert*-ブトキシドアニオンは、強塩基性で求核性の低い塩基として有機合成化学上、有用な試剤である。すなわち、*tert*-ブトキシドアニオンは反応基質の酸性プロトンを直接引き抜くが、立体障害のため同アニオンの[ウィリアムソン合成](../Page/ウィリアムソン合成.md "wikilink")や[S<sub>N</sub>2反応のような求核反応は阻害される](../Page/求核置換反応.md "wikilink")。
 
 ## 塩化アルキルへの変換
 

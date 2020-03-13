@@ -30,5 +30,5 @@
   - [スイッチ](../Page/スイッチ.md "wikilink")のノーマリクローズ（**N**ormally **C**losed）。スイッチを入れない状態で、回路が継ながっているスイッチ、逆はノーマリオープン。
   - [アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ノースカロライナ州](../Page/ノースカロライナ州.md "wikilink")（**N**orth **C**arolina）の略称。
   - ニュークリアスコンヴァージョン（**N**ucleus **C**onversion）核振動変換。
-  - [数値制御](https://ja.wikipedia.org/wiki/数値制御 "wikilink")（**N**umerical **C**ontrol）の略。[NC加工](https://ja.wikipedia.org/wiki/NC加工 "wikilink")、NC旋盤など。
+  - [数値制御](../Page/数値制御.md "wikilink")（**N**umerical **C**ontrol）の略。[NC加工](../Page/NC加工.md "wikilink")、NC旋盤など。
   - ナースコール（**N**urse **C**all）の略表記。

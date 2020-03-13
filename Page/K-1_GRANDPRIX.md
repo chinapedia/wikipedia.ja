@@ -21,9 +21,9 @@
   - ゲスト解説
       - 当日に試合が組まれて無いK-1選手や元K-1選手 - [魔裟斗](../Page/魔裟斗.md "wikilink")、[武蔵](../Page/武蔵_\(格闘家\).md "wikilink")、[前田憲作](../Page/前田憲作.md "wikilink")など
   - 解説
-      - [谷川貞治](https://ja.wikipedia.org/wiki/谷川貞治 "wikilink")
+      - [谷川貞治](../Page/谷川貞治.md "wikilink")
   - 実況（フジテレビアナウンサー）
-      - [三宅正治](../Page/三宅正治.md "wikilink")、[森昭一郎](../Page/森昭一郎.md "wikilink")、[竹下陽平](https://ja.wikipedia.org/wiki/竹下陽平 "wikilink")、[西岡孝洋](../Page/西岡孝洋.md "wikilink")、[福永一茂](https://ja.wikipedia.org/wiki/福永一茂 "wikilink")、[鈴木芳彦](https://ja.wikipedia.org/wiki/鈴木芳彦 "wikilink")
+      - [三宅正治](../Page/三宅正治.md "wikilink")、[森昭一郎](../Page/森昭一郎.md "wikilink")、[竹下陽平](../Page/竹下陽平.md "wikilink")、[西岡孝洋](../Page/西岡孝洋.md "wikilink")、[福永一茂](../Page/福永一茂.md "wikilink")、[鈴木芳彦](../Page/鈴木芳彦.md "wikilink")
   - 過去のキャスター・レポーター
       - [畑野浩子](https://ja.wikipedia.org/wiki/畑野浩子 "wikilink")\[5\]
       - [長谷川京子](https://ja.wikipedia.org/wiki/長谷川京子 "wikilink")\[6\]
@@ -34,7 +34,7 @@
   - 構成：[伊東雅司](https://ja.wikipedia.org/wiki/伊東雅司 "wikilink")
   - チーフディレクター:[吉田昇](https://ja.wikipedia.org/wiki/吉田昇_\(プロデューサー\) "wikilink")
   - 演出：[吉村忠史](https://ja.wikipedia.org/wiki/吉村忠史 "wikilink")
-  - 制作協力：[D:COMPLEX](https://ja.wikipedia.org/wiki/ディ・コンプレックス "wikilink")
+  - 制作協力：[D:COMPLEX](../Page/ディ・コンプレックス.md "wikilink")
   - 制作：フジテレビスポーツ制作センター・第二スポーツ部
   - 制作著作：フジテレビ
 

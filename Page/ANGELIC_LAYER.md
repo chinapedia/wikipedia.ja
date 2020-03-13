@@ -13,10 +13,10 @@
 
 声の記述はアニメ版&ゲーム版共通
 
-  - 鈴原 みさき（すずはら みさき）: 声 - [榎本温子](https://ja.wikipedia.org/wiki/榎本温子 "wikilink")
-    [4月25日](../Page/4月25日.md "wikilink")生まれ。エリオル学園に通う中学1年生で本編の[主人公](https://ja.wikipedia.org/wiki/主人公 "wikilink")。年齢は13歳（初登場時は12歳）。珠代からは「みさきち」と呼ばれている。背が低いことを気にしている。[和歌山県](../Page/和歌山県.md "wikilink")出身で、現在は祥子の家に居候中。運動音痴だが、母譲りの優れた[動体視力](https://ja.wikipedia.org/wiki/動体視力 "wikilink")と集中力を持っている。また、家事は非常に手馴れており、実家の和歌山に住んでいたころは祖父母と交代で家事を手伝っていたこともある。口癖は「な〜」。東京に来て初めて見た「白い天使」に憧れ、その天使と同じスピード重視軽量型の天使「ヒカル」を作る。ヒカルのモデルは[獅堂光から](../Page/魔法騎士レイアース.md "wikilink")。
+  - 鈴原 みさき（すずはら みさき）: 声 - [榎本温子](../Page/榎本温子.md "wikilink")
+    [4月25日](../Page/4月25日.md "wikilink")生まれ。エリオル学園に通う中学1年生で本編の[主人公](../Page/主人公.md "wikilink")。年齢は13歳（初登場時は12歳）。珠代からは「みさきち」と呼ばれている。背が低いことを気にしている。[和歌山県](../Page/和歌山県.md "wikilink")出身で、現在は祥子の家に居候中。運動音痴だが、母譲りの優れた[動体視力](https://ja.wikipedia.org/wiki/動体視力 "wikilink")と集中力を持っている。また、家事は非常に手馴れており、実家の和歌山に住んでいたころは祖父母と交代で家事を手伝っていたこともある。口癖は「な〜」。東京に来て初めて見た「白い天使」に憧れ、その天使と同じスピード重視軽量型の天使「ヒカル」を作る。ヒカルのモデルは[獅堂光から](../Page/魔法騎士レイアース.md "wikilink")。
     アニメ版では王二郎に惹かれていき、全国大会準決勝で告白を受ける（付き合っている描写はない）。
-  - 小林 虎太郎（こばやし こたろう）: 声 - [福山潤](https://ja.wikipedia.org/wiki/福山潤 "wikilink")
+  - 小林 虎太郎（こばやし こたろう）: 声 - [福山潤](../Page/福山潤.md "wikilink")
     [9月4日](../Page/9月4日.md "wikilink")生まれ。エリオル学園中等部1年D組。みさきのクラスメイトで、彼女のことを気にしている。実家は[空手道](https://ja.wikipedia.org/wiki/空手道 "wikilink")場で、自身も空手の使い手。珠代によく技をかけられドツかれている。最終的にはみさきと付き合う。
     アニメ版では、当初はみさきのことを気にしていたが、次第に珠代に惹かれ、最終的には珠代と相思相愛の仲になる。
   - 木崎 珠代（きさき たまよ）: 声 - [雪乃五月](../Page/ゆきのさつき.md "wikilink")
@@ -54,7 +54,7 @@
   - 藤崎 有栖（ふじさき ありす）: 声 - [千葉千恵巳](../Page/千葉千恵巳.md "wikilink")
     [6月25日](../Page/6月25日.md "wikilink")生まれ。小学校4年生。円香の妹にして[ブレーン](https://ja.wikipedia.org/wiki/ブレーン "wikilink")。優秀な天使を作成する事で有名な、天使作りの天才。また、奸智に長けた策士でもある。みさきへの逆恨みを（ほとんど）晴らすため、己の名を冠したバランス重視の天使「アリス」を制作して、自らも操縦者に転じ、開催期間に差のある地方大会を利用して全国大会に出場した。
   - 鈴原 萩子（すずはら しゅうこ）: 声 - [井上喜久子](../Page/井上喜久子.md "wikilink")
-    [11月28日](../Page/11月28日.md "wikilink")生まれ。みさきの母親で、祥子の姉。極度のあがり性で、相手が好きな人であればあるほど[パニック](https://ja.wikipedia.org/wiki/パニック "wikilink")になる（身内に対しても同様）。エンジェリックレイヤー開発チームの一員でもあり、みさきの憧れの天使・戦いの女神「アテナ」を駆る。アテナの究極技は「魂の光（ライトオブソウル）（アニメ版での名称はアストラルエミッション）」。素性を隠し、デウスとしては「シュウ」と名乗っている。
+    [11月28日](../Page/11月28日.md "wikilink")生まれ。みさきの母親で、祥子の姉。極度のあがり性で、相手が好きな人であればあるほど[パニック](../Page/パニック.md "wikilink")になる（身内に対しても同様）。エンジェリックレイヤー開発チームの一員でもあり、みさきの憧れの天使・戦いの女神「アテナ」を駆る。アテナの究極技は「魂の光（ライトオブソウル）（アニメ版での名称はアストラルエミッション）」。素性を隠し、デウスとしては「シュウ」と名乗っている。
     アニメ版ではみさきが幼い時に[神経断絶症候群を発病し](https://ja.wikipedia.org/wiki/難病 "wikilink")、治療のためみさきには仕事と偽って単身上京するが、治療法が見つからず、[車椅子](https://ja.wikipedia.org/wiki/車椅子 "wikilink")の生活を余儀なくされている。そこで出会った一郎とともに機械義肢とエンジェリックレイヤーの開発を務めるようになったが、まだ幼かったみさきを両親に預けて以来自身は研究に没頭し、母親らしいことが出来なかったことに負い目を感じていることから、みさきと会うことを避けている。
   - 岬 了（みさき りょう）: 声 - [山口勝平](../Page/山口勝平.md "wikilink")
     アニメオリジナルの登場人物。エンジェリックレイヤーは格闘技であり、女は男に勝てないと思っている。それゆえに関東大会に進出したみさきをインチキだと否定したが、みさきと戦うことによって、その実力を認める。地区予選では初戦で敗北した。
@@ -70,9 +70,9 @@
 ### スタッフ
 
   - 原作 - [CLAMP](../Page/CLAMP.md "wikilink")（[角川書店](../Page/角川書店.md "wikilink")『[カドカワコミックス](https://ja.wikipedia.org/wiki/カドカワコミックス "wikilink")』刊）
-  - 監督 - [錦織博](https://ja.wikipedia.org/wiki/錦織博 "wikilink")
+  - 監督 - [錦織博](../Page/錦織博.md "wikilink")
   - シリーズ総括 - [井上伸一郎](../Page/井上伸一郎.md "wikilink")
-  - シリーズ構成 - [大河内一楼](https://ja.wikipedia.org/wiki/大河内一楼 "wikilink")
+  - シリーズ構成 - [大河内一楼](../Page/大河内一楼.md "wikilink")
   - キャラクターデザイン - [小森高博](https://ja.wikipedia.org/wiki/小森高博 "wikilink")
   - メカニックデザイン - [石垣純哉](../Page/石垣純哉.md "wikilink")
   - 設定協力 - [森田繁](../Page/森田繁.md "wikilink")
@@ -82,14 +82,14 @@
   - 音響監督 - [鶴岡陽太](../Page/鶴岡陽太.md "wikilink")
   - 音楽 - [田中公平](../Page/田中公平.md "wikilink")
   - プロデューサー - 八田紳作、山西太平、[南雅彦](../Page/南雅彦.md "wikilink")
-  - 製作 - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、[電通](../Page/電通.md "wikilink")、[ボンズ](https://ja.wikipedia.org/wiki/ボンズ_\(アニメ制作会社\) "wikilink")
+  - 製作 - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、[電通](../Page/電通.md "wikilink")、[ボンズ](../Page/ボンズ_\(アニメ制作会社\).md "wikilink")
 
 ### 主題歌
 
   - オープニングテーマ「Be My Angel」
-    作詞 - [松井五郎](https://ja.wikipedia.org/wiki/松井五郎 "wikilink") / 作曲・編曲 - [安藤高弘](https://ja.wikipedia.org/wiki/安藤高弘 "wikilink") / 歌 - [榎本温子](https://ja.wikipedia.org/wiki/榎本温子 "wikilink")
+    作詞 - [松井五郎](https://ja.wikipedia.org/wiki/松井五郎 "wikilink") / 作曲・編曲 - [安藤高弘](https://ja.wikipedia.org/wiki/安藤高弘 "wikilink") / 歌 - [榎本温子](../Page/榎本温子.md "wikilink")
   - エンディングテーマ「[☆the starry sky☆](https://ja.wikipedia.org/wiki/☆the_starry_sky☆ "wikilink")」（1話 - 13話）
-    作詞 - [HΛLNA](https://ja.wikipedia.org/wiki/HΛLNA "wikilink") / 作曲 - 梅崎俊春、[佐藤あつし](https://ja.wikipedia.org/wiki/ats- "wikilink") / 編曲・歌 - [HΛL](https://ja.wikipedia.org/wiki/HΛL "wikilink")
+    作詞 - [HΛLNA](https://ja.wikipedia.org/wiki/HΛLNA "wikilink") / 作曲 - 梅崎俊春、[佐藤あつし](https://ja.wikipedia.org/wiki/ats- "wikilink") / 編曲・歌 - [HΛL](../Page/HΛL.md "wikilink")
   - エンディングテーマ「雨あがり」（14話 - 最終話）
     作詞 - [田辺智沙](../Page/田辺智沙.md "wikilink") / 作曲 - [原一博](../Page/原一博.md "wikilink") / 編曲 - [小西貴雄](../Page/小西貴雄.md "wikilink") / 歌 - [松下萌子](../Page/松下萌子.md "wikilink")
 
@@ -111,8 +111,8 @@
 <tr class="odd">
 <td><p>Battle 1</p></td>
 <td><p>はじめまして! 私だけのエンジェル</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大河内一楼" title="wikilink">大河内一楼</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/錦織博" title="wikilink">錦織博</a></p></td>
+<td><p><a href="../Page/大河内一楼.md" title="wikilink">大河内一楼</a></p></td>
+<td><p><a href="../Page/錦織博.md" title="wikilink">錦織博</a></p></td>
 <td><p><a href="../Page/岡本英樹.md" title="wikilink">岡本英樹</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/小森高博" title="wikilink">小森高博</a></p></td>
 <td><p><strong><a href="../Page/2001年.md" title="wikilink">2001年</a></strong><br />
@@ -124,7 +124,7 @@
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/笹木信作" title="wikilink">笹木信作</a></p></td>
 <td><p><a href="../Page/菅野宏紀.md" title="wikilink">菅野宏紀</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/4月8日" title="wikilink">4月8日</a></p></td>
+<td><p><a href="../Page/4月8日.md" title="wikilink">4月8日</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -179,7 +179,7 @@
 <td><p>みさきVSミサキ? 危険な同級生</p></td>
 <td><p>葉月九ロウ</p></td>
 <td><p><a href="../Page/角銅博之.md" title="wikilink">開木菜織</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/渡部高志" title="wikilink">渡部高志</a></p></td>
+<td><p><a href="../Page/渡部高志.md" title="wikilink">渡部高志</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/宮田奈保美" title="wikilink">宮田奈保美</a></p></td>
 <td><p><a href="../Page/5月20日.md" title="wikilink">5月20日</a></p></td>
 </tr>
@@ -214,7 +214,7 @@
 <td><p>Battle 12</p></td>
 <td><p>みさきと虎太郎 二人のわくわくデート</p></td>
 <td><p>吉田玲子</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/渡辺歩" title="wikilink">渡辺カケル</a></p></td>
+<td><p><a href="../Page/渡辺歩.md" title="wikilink">渡辺カケル</a></p></td>
 <td><p>宮田亮</p></td>
 <td><p>日向正樹</p></td>
 <td><p><a href="../Page/6月17日.md" title="wikilink">6月17日</a></p></td>
@@ -318,7 +318,7 @@
 <td><p>魔法の壁を破れ! みさきVS王二郎</p></td>
 <td><p>村木靖</p></td>
 <td><p>佐藤育郎</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/逢坂浩司" title="wikilink">逢坂浩司</a></p></td>
+<td><p><a href="../Page/逢坂浩司.md" title="wikilink">逢坂浩司</a></p></td>
 <td><p><a href="../Page/9月9日.md" title="wikilink">9月9日</a></p></td>
 <td></td>
 </tr>
@@ -363,7 +363,7 @@
 | [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink") | [テレビ愛知](../Page/テレビ愛知.md "wikilink")                                                                                                                                   |                                                                                                                                                   |                                                                      |                                                                      |          |
 | [大阪府](../Page/大阪府.md "wikilink")                    | [テレビ大阪](../Page/テレビ大阪.md "wikilink")                                                                                                                                   |                                                                                                                                                   |                                                                      |                                                                      |          |
 | [岡山県・香川県](../Page/岡山県・香川県の放送.md "wikilink")         | [テレビせとうち](../Page/テレビせとうち.md "wikilink")                                                                                                                               |                                                                                                                                                   |                                                                      |                                                                      |          |
-| [福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink") | [TVQ九州放送](../Page/TVQ九州放送.md "wikilink")                                                                                                                               |                                                                                                                                                   |                                                                      |                                                                      |          |
+| [福岡県](../Page/福岡県.md "wikilink")                    | [TVQ九州放送](../Page/TVQ九州放送.md "wikilink")                                                                                                                               |                                                                                                                                                   |                                                                      |                                                                      |          |
 | [日本全域](../Page/全国放送.md "wikilink")                  | [BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")                                                                                                              | [2001年](../Page/2001年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink") - [2001年](../Page/2001年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink") | 火曜 19:25 - 19:55                                                     | [BS放送](../Page/日本における衛星放送.md "wikilink")                             |          |
 | [アニマックス](../Page/アニマックス.md "wikilink")              | [2003年](../Page/2003年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink") - [2004年](../Page/2004年.md "wikilink")[6月7日](../Page/6月7日.md "wikilink")                      | 月曜 23:00 - 24:00                                                                                                                                  | [CS放送](https://ja.wikipedia.org/wiki/日本における衛星放送#CSデジタル放送 "wikilink") | リピート放送あり                                                             |          |
 | [AT-X](../Page/アニメシアターX.md "wikilink")              | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月10日](../Page/10月10日.md "wikilink") - [2011年](../Page/2011年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink") | 日曜 8:00 - 10:00                                                                                                                                   | リピート放送あり                                                             |                                                                      |          |
@@ -385,7 +385,7 @@
   - [魔法騎士レイアース](../Page/魔法騎士レイアース.md "wikilink")
     みさきが見た漫画。
   - [ちょびっツ](../Page/ちょびっツ.md "wikilink")
-    同一世界が舞台。一部登場人物を共有（[パラレルワールド](https://ja.wikipedia.org/wiki/パラレルワールド "wikilink")のようなもの）。
+    同一世界が舞台。一部登場人物を共有（[パラレルワールド](../Page/パラレルワールド.md "wikilink")のようなもの）。
   - [ツバサ-RESERVoir CHRoNiCLE-](../Page/ツバサ-RESERVoir_CHRoNiCLE-.md "wikilink")
     本作からはみさき、珠代、王二郎、虎太郎、鳩子、ヒカル、ブランシェなどが登場している。
       - ブランシェ - 桜都国市役所のすぐやる課役員。

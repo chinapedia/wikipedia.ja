@@ -19,7 +19,7 @@
 ## 広報
 
   - [パブリック・リレーションズ](../Page/パブリック・リレーションズ.md "wikilink") (Public Relations) の略。[パブリック](https://ja.wikipedia.org/wiki/パブリック "wikilink")（[公共](../Page/公共.md "wikilink")）へ知らせるための[宣伝](../Page/宣伝.md "wikilink")や[広報](../Page/広報.md "wikilink")と、市民意見を受け入れる[広聴](https://ja.wikipedia.org/wiki/広聴 "wikilink")の両方を含む。[略語](../Page/略語.md "wikilink")のPR（**ピーアール**）は日常的に多用されている。
-  - [プレスリリース](https://ja.wikipedia.org/wiki/プレスリリース "wikilink") (Press Release) - [プレス](../Page/プレス.md "wikilink")（[報道機関](../Page/報道機関.md "wikilink")など）への[リリース](https://ja.wikipedia.org/wiki/発表 "wikilink")（[声明](../Page/声明.md "wikilink")や[資料](../Page/資料.md "wikilink")）。
+  - [プレスリリース](../Page/プレスリリース.md "wikilink") (Press Release) - [プレス](../Page/プレス.md "wikilink")（[報道機関](../Page/報道機関.md "wikilink")など）への[リリース](https://ja.wikipedia.org/wiki/発表 "wikilink")（[声明](../Page/声明.md "wikilink")や[資料](../Page/資料.md "wikilink")）。
   - プロモーション・リリース (**P**romotion **R**elease) - [プロモーション](../Page/宣伝.md "wikilink")（宣伝）用のリリース。
 
 ## 地名
@@ -34,7 +34,7 @@
   - [コンピュータ](../Page/コンピュータ.md "wikilink")[ソフトウェア](../Page/ソフトウェア.md "wikilink")における"Preview Release"の略。
   - [Google](../Page/Google.md "wikilink")が採用している検索アルゴリズム、[ページランク](../Page/ページランク.md "wikilink") (Page Rank) の略。
   - [GitHub](https://ja.wikipedia.org/wiki/GitHub "wikilink")における"Pull Request"の略。
-  - [Adobe Premiere](https://ja.wikipedia.org/wiki/Adobe_Premiere "wikilink") - [アドビシステムズ](../Page/アドビシステムズ.md "wikilink")が販売している[映像編集](../Page/映像編集.md "wikilink")[ソフトシリーズ](https://ja.wikipedia.org/wiki/ソフトウエア "wikilink")。
+  - [Adobe Premiere](../Page/Adobe_Premiere.md "wikilink") - [アドビシステムズ](../Page/アドビシステムズ.md "wikilink")が販売している[映像編集](../Page/映像編集.md "wikilink")[ソフトシリーズ](https://ja.wikipedia.org/wiki/ソフトウエア "wikilink")。
 
 ## その他
 
@@ -43,7 +43,7 @@
   - [プロフェッショナルレフェリー](../Page/プロフェッショナルレフェリー.md "wikilink") (**P**rofessional **R**eferee) - [日本サッカー協会](../Page/日本サッカー協会.md "wikilink")によるプロ審判員の呼称。
   - [ラグビー](../Page/ラグビー.md "wikilink")のポジションの一つである[プロップ](https://ja.wikipedia.org/wiki/ラグビーのポジション#フォワード_（FW） "wikilink") (Prop) の略。1番および3番。
   - [アメリカンフットボール](../Page/アメリカンフットボール.md "wikilink")のポジションの一つである[パントリターナー](https://ja.wikipedia.org/wiki/アメリカンフットボールのポジション#リターナー "wikilink") (Punt returner) の略。
-  - [野球](../Page/野球.md "wikilink")の[代走](https://ja.wikipedia.org/wiki/代走 "wikilink")者 (**P**inch **R**unner) の略。
+  - [野球](../Page/野球.md "wikilink")の[代走](../Page/代走.md "wikilink")者 (**P**inch **R**unner) の略。
   - [PRタンパク質](https://ja.wikipedia.org/wiki/感染特異的タンパク質 "wikilink") - 植物が生成するタンパク質の種類。
   - [トレーディングカードゲーム](../Page/トレーディングカードゲーム.md "wikilink")のレアリティーであるプロモーションカードの略。
   - スマートフォンゲーム「[実況パワフルプロ野球](https://ja.wikipedia.org/wiki/実況パワフルプロ野球_\(スマートフォン\) "wikilink")」及びゲーム「[実況パワフルプロ野球サクセススペシャル](https://ja.wikipedia.org/wiki/実況パワフルプロ野球サクセススペシャル "wikilink")」のレアリティーであるパワフルレアの略

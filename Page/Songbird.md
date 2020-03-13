@@ -10,12 +10,12 @@
 ## 機能
 
   - クロスプラットフォームで利用することができる
-  - [MP3](../Page/MP3.md "wikilink")、[AAC](../Page/AAC.md "wikilink")、[Vorbis](https://ja.wikipedia.org/wiki/Vorbis "wikilink")、[FLAC](../Page/FLAC.md "wikilink")、[Apple Lossless](../Page/Apple_Lossless.md "wikilink")、[Windows Media Audioなどのフォーマットの再生に対応](https://ja.wikipedia.org/wiki/Windows_Media_Audio "wikilink")
+  - [MP3](../Page/MP3.md "wikilink")、[AAC](../Page/AAC.md "wikilink")、[Vorbis](../Page/Vorbis.md "wikilink")、[FLAC](../Page/FLAC.md "wikilink")、[Apple Lossless](../Page/Apple_Lossless.md "wikilink")、[Windows Media Audioなどのフォーマットの再生に対応](../Page/Windows_Media_Audio.md "wikilink")
   - コンピューター上のファイルをスキャンし、ローカル[ライブラリ](../Page/ライブラリ.md "wikilink")で管理する機能
   - [MTP](https://ja.wikipedia.org/wiki/MTP "wikilink")デバイスのサポート
   - [タグ](../Page/タグ.md "wikilink")機能のサポート
   - [ギャップレス再生](https://ja.wikipedia.org/wiki/ギャップレス再生 "wikilink")と[リプレイ・ゲイン](https://ja.wikipedia.org/wiki/リプレイ・ゲイン "wikilink")のサポート
-  - [ブックマーク](https://ja.wikipedia.org/wiki/ブックマーク "wikilink")機能
+  - [ブックマーク](../Page/ブックマーク.md "wikilink")機能
   - カスタムミックスの作成
   - ミニプレーヤーモードを含む設定可能なインターフェース
   - ユーザーインタフェースを変更する[スキン](https://ja.wikipedia.org/wiki/スキン "wikilink")を利用可能
@@ -97,8 +97,8 @@ Songbirdではメディアプレーヤーによくある[スキン](https://ja.w
 <td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/2月28日.md" title="wikilink">2月28日</a></p></td>
 <td></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/Windows_Media" title="wikilink">Windows Media</a> <a href="https://ja.wikipedia.org/wiki/デジタル著作権管理" title="wikilink">DRMファイルの再生に対応</a>.</li>
-<li><a href="https://ja.wikipedia.org/wiki/FairPlay" title="wikilink">FairPlay</a>ファイルの再生に対応.</li>
+<li><a href="https://ja.wikipedia.org/wiki/Windows_Media" title="wikilink">Windows Media</a> <a href="../Page/デジタル著作権管理.md" title="wikilink">DRMファイルの再生に対応</a>.</li>
+<li><a href="../Page/FairPlay.md" title="wikilink">FairPlay</a>ファイルの再生に対応.</li>
 <li><a href="https://ja.wikipedia.org/wiki/USBメモリ" title="wikilink">マス・ストレージ・サービスの対応</a>.</li>
 <li><a href="https://ja.wikipedia.org/wiki/iPod" title="wikilink">iPod</a>のサポート.</li>
 <li>言語サポート改善</li>
@@ -111,7 +111,7 @@ Songbirdではメディアプレーヤーによくある[スキン](https://ja.w
 <td><p>2007年<a href="../Page/10月30日.md" title="wikilink">10月30日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/デヴィッド・ボウイ" title="wikilink">Bowie</a></p></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/タブブラウザ" title="wikilink">タブブラウザ</a>でのブラウジング対応</li>
+<li><a href="../Page/タブブラウザ.md" title="wikilink">タブブラウザ</a>でのブラウジング対応</li>
 <li><a href="../Page/アプリケーションプログラミングインタフェース.md" title="wikilink">APIの</a><a href="https://ja.wikipedia.org/wiki/オーバーホール" title="wikilink">オーバーホール</a></li>
 <li><a href="../Page/Gecko.md" title="wikilink">Gecko 1.9へのアップデート</a></li>
 </ul></td>
@@ -129,7 +129,7 @@ Songbirdではメディアプレーヤーによくある[スキン](https://ja.w
 <tr class="odd">
 <td><p>0.4</p></td>
 <td><p>2007年<a href="../Page/12月27日.md" title="wikilink">12月27日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シェール" title="wikilink">Cher</a></p></td>
+<td><p><a href="../Page/シェール.md" title="wikilink">Cher</a></p></td>
 <td><ul>
 <li>ディスプレイ・ペーン機能</li>
 </ul></td>
@@ -148,7 +148,7 @@ Songbirdではメディアプレーヤーによくある[スキン](https://ja.w
 <tr class="odd">
 <td><p>0.6</p></td>
 <td><p>2008年<a href="../Page/6月13日.md" title="wikilink">6月13日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブライアン・イーノ" title="wikilink">Eno</a></p></td>
+<td><p><a href="../Page/ブライアン・イーノ.md" title="wikilink">Eno</a></p></td>
 <td><ul>
 <li>メモリー関連とパフォーマンスの改善</li>
 <li>メタデータの書き出しに対応</li>
@@ -179,7 +179,7 @@ Songbirdではメディアプレーヤーによくある[スキン](https://ja.w
 <tr class="even">
 <td><p>1.0.0</p></td>
 <td><p>2008年<a href="../Page/12月2日.md" title="wikilink">12月2日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジェネシス_(バンド)" title="wikilink">Genesis</a></p></td>
+<td><p><a href="../Page/ジェネシス_(バンド).md" title="wikilink">Genesis</a></p></td>
 <td><ul>
 <li><a href="../Page/GStreamer.md" title="wikilink">GStreamer</a>のメディアコアを全てのプラットフォームで使用</li>
 </ul></td>
@@ -224,11 +224,11 @@ Songbirdではメディアプレーヤーによくある[スキン](https://ja.w
 <td><p><a href="https://ja.wikipedia.org/wiki/カニエ・ウエスト" title="wikilink">Kanye</a></p></td>
 <td><ul>
 <li>MP3エンコーディング機能</li>
-<li>CD<a href="https://ja.wikipedia.org/wiki/リッピング" title="wikilink">リッピング</a>機能</li>
+<li>CD<a href="../Page/リッピング.md" title="wikilink">リッピング</a>機能</li>
 <li>デバイスの<a href="../Page/ファームウェア.md" title="wikilink">ファームウェア</a>アップデート機能</li>
 <li>新たなフォーマットの再生に対応</li>
 <li><a href="../Page/MP4.md" title="wikilink">MP4</a>と<a href="../Page/Advanced_Systems_Format.md" title="wikilink">ASFファイルのメタデータをサポート</a></li>
-<li><a href="../Page/MP3.md" title="wikilink">MP3</a>、<a href="https://ja.wikipedia.org/wiki/Windows_Media_Audio" title="wikilink">WMAフォーマットへの変換機能</a></li>
+<li><a href="../Page/MP3.md" title="wikilink">MP3</a>、<a href="../Page/Windows_Media_Audio.md" title="wikilink">WMAフォーマットへの変換機能</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -242,7 +242,7 @@ Songbirdではメディアプレーヤーによくある[スキン](https://ja.w
 <tr class="even">
 <td><p>1.4.3</p></td>
 <td><p>2009年<a href="../Page/12月23日.md" title="wikilink">12月23日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/コーン_(バンド)" title="wikilink">KoЯn</a></p></td>
+<td><p><a href="../Page/コーン_(バンド).md" title="wikilink">KoЯn</a></p></td>
 <td><ul>
 <li>新しいフェザー</li>
 <li>アドオン画面の変更</li>
@@ -256,7 +256,7 @@ Songbirdではメディアプレーヤーによくある[スキン](https://ja.w
 <tr class="odd">
 <td><p>1.7.2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a><a href="../Page/6月3日.md" title="wikilink">6月3日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NOFX" title="wikilink">NOFX</a></p></td>
+<td><p><a href="../Page/NOFX.md" title="wikilink">NOFX</a></p></td>
 <td><ul>
 <li>新たな形式のエンコードに対応</li>
 <li>新たなデバイスのサポート</li>
@@ -358,7 +358,7 @@ Songbirdではメディアプレーヤーによくある[スキン](https://ja.w
   - 512MBの[物理メモリ](https://ja.wikipedia.org/wiki/物理メモリ "wikilink")
   - 150MBのハードドライブの空き容量
   - [16ビット](../Page/16ビット.md "wikilink")の[サウンドカード](../Page/サウンドカード.md "wikilink") ([32ビット](../Page/32ビット.md "wikilink")のサウンドカードを推奨)
-  - [スピーカー](../Page/スピーカー.md "wikilink")または[ヘッドフォン](https://ja.wikipedia.org/wiki/ヘッドフォン "wikilink")
+  - [スピーカー](../Page/スピーカー.md "wikilink")または[ヘッドフォン](../Page/ヘッドフォン.md "wikilink")
 
 ### Mac OS
 

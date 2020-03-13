@@ -5,12 +5,12 @@
 
   - [スポーツ](../Page/スポーツ.md "wikilink")競技で国内記録（）
   - [栄養情報担当者](../Page/栄養情報担当者.md "wikilink") ()
-  - [ホンダ・NR](https://ja.wikipedia.org/wiki/ホンダ・NR "wikilink") - [ホンダの](../Page/本田技研工業.md "wikilink")[オートバイ](../Page/オートバイ.md "wikilink")
-  - [トヨタ・NRエンジン](https://ja.wikipedia.org/wiki/トヨタ・NRエンジン "wikilink") - [トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[直列4気筒](https://ja.wikipedia.org/wiki/直列4気筒 "wikilink")[エンジン](../Page/エンジン.md "wikilink")。
+  - [ホンダ・NR](../Page/ホンダ・NR.md "wikilink") - [ホンダの](../Page/本田技研工業.md "wikilink")[オートバイ](../Page/オートバイ.md "wikilink")
+  - [トヨタ・NRエンジン](https://ja.wikipedia.org/wiki/トヨタ・NRエンジン "wikilink") - [トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[直列4気筒](../Page/直列4気筒.md "wikilink")[エンジン](../Page/エンジン.md "wikilink")。
   - [原子炉](../Page/原子炉.md "wikilink") ()
-  - [朝日放送ラジオ](https://ja.wikipedia.org/wiki/朝日放送ラジオ "wikilink") （[呼出符号](https://ja.wikipedia.org/wiki/呼出符号 "wikilink")：JONRの略）
+  - [朝日放送ラジオ](../Page/朝日放送ラジオ.md "wikilink") （[呼出符号](https://ja.wikipedia.org/wiki/呼出符号 "wikilink")：JONRの略）
   - [ノイズリダクション](../Page/ノイズリダクション.md "wikilink") ()
-  - [ノンセクト・ラジカル](https://ja.wikipedia.org/wiki/ノンセクト・ラジカル "wikilink") ([和製英語](../Page/和製英語.md "wikilink")：)
+  - [ノンセクト・ラジカル](../Page/ノンセクト・ラジカル.md "wikilink") ([和製英語](../Page/和製英語.md "wikilink")：)
   - 日本の[国際ナンバー](../Page/国際ナンバー.md "wikilink")で、「[奈](https://ja.wikipedia.org/wiki/奈良運輸支局 "wikilink")」の代わりに使う地名表示 ()
   - [漁船](../Page/漁船.md "wikilink")の登録番号において[奈良県](../Page/奈良県.md "wikilink")を表す識別標（漁船法施行規則13条・付録第二）
   - [抵抗接地方式の中性点接地で](https://ja.wikipedia.org/wiki/中性点接地方式#抵抗接地 "wikilink")、中性点と大地の間に設けられる抵抗器 ()
@@ -29,7 +29,7 @@
 
 **nr**
 
-  - [南ンデベレ語](../Page/南ンデベレ語.md "wikilink")の[ISO 639-1言語コード](https://ja.wikipedia.org/wiki/ISO_639 "wikilink")
+  - [南ンデベレ語](../Page/南ンデベレ語.md "wikilink")の[ISO 639-1言語コード](../Page/ISO_639.md "wikilink")
 
 **Nr.**, **nr.**
 

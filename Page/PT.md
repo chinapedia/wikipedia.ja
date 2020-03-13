@@ -20,7 +20,7 @@
       - **総合試験（Product Test）**
       - **単体試験 (Program Test）**
       - プログラム開発 (Program and unit Test)
-  - [東洋電機製造](https://ja.wikipedia.org/wiki/東洋電機製造 "wikilink")の[鉄道](../Page/鉄道.md "wikilink")車両用[パンタグラフの形式](https://ja.wikipedia.org/wiki/集電装置 "wikilink")。
+  - [東洋電機製造](../Page/東洋電機製造.md "wikilink")の[鉄道](../Page/鉄道.md "wikilink")車両用[パンタグラフの形式](../Page/集電装置.md "wikilink")。
   - **[Pro Tools](../Page/Pro_Tools.md "wikilink")**の略 - [デジタルオーディオワークステーション](https://ja.wikipedia.org/wiki/デジタルオーディオワークステーション "wikilink")(DAW)ソフトウェア
   - Penetrant Testingの略。[浸透探傷検査](../Page/浸透探傷検査.md "wikilink")。[非破壊検査](../Page/非破壊検査.md "wikilink")の一種。
 
@@ -31,9 +31,9 @@
 
 ## 放送・メディア
 
-  - **[パーティシペーション](https://ja.wikipedia.org/wiki/パーティシペーション "wikilink") (participation)** - [民間放送](../Page/民間放送.md "wikilink")で[CMを](../Page/コマーシャルメッセージ.md "wikilink")[スポットCM](../Page/スポットCM.md "wikilink")として[放送](../Page/放送.md "wikilink")すること。
-  - **[プライムタイム](https://ja.wikipedia.org/wiki/プライムタイム "wikilink") (primetime)** - テレビでの時間帯区分のひとつ。
-  - **[パーソナルトルーパー](https://ja.wikipedia.org/wiki/パーソナルトルーパー "wikilink") (personal trooper)** - [スーパーロボット大戦シリーズ](../Page/スーパーロボット大戦シリーズ.md "wikilink")に登場するロボットの兵種
+  - **[パーティシペーション](../Page/パーティシペーション.md "wikilink") (participation)** - [民間放送](../Page/民間放送.md "wikilink")で[CMを](../Page/コマーシャルメッセージ.md "wikilink")[スポットCM](../Page/スポットCM.md "wikilink")として[放送](../Page/放送.md "wikilink")すること。
+  - **[プライムタイム](../Page/プライムタイム.md "wikilink") (primetime)** - テレビでの時間帯区分のひとつ。
+  - **[パーソナルトルーパー](../Page/パーソナルトルーパー.md "wikilink") (personal trooper)** - [スーパーロボット大戦シリーズ](../Page/スーパーロボット大戦シリーズ.md "wikilink")に登場するロボットの兵種
   - **[タイムクライシス プロジェクトタイタン](../Page/タイムクライシス_プロジェクトタイタン.md "wikilink") (Project Titan)** - [ゲーム](../Page/コンピュータゲーム.md "wikilink")[『タイムクライシス』シリーズの](../Page/タイムクライシスシリーズ.md "wikilink")1作
   - **[プロジェクト・トルク](../Page/Level-R.md "wikilink") (Project Torque)** - [オンライン](../Page/オンラインゲーム.md "wikilink")[レースゲーム](../Page/レースゲーム.md "wikilink")。
 
@@ -48,13 +48,13 @@
   - **[労働者党 (ブラジル)](https://ja.wikipedia.org/wiki/労働者党_\(ブラジル\) "wikilink")**（**Partido dos Trabalhadores**）－1980年2月に結成された[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")の[社会主義](../Page/社会主義.md "wikilink")[政党](../Page/政党.md "wikilink")。
   - **[フィジカルトレーニング](../Page/フィジカルトレーニング.md "wikilink")([Physical Training](https://ja.wikipedia.org/wiki/:en:Physical_training "wikilink"))** の略 - 「体力トレーニング」を意味する
   - **[白金](../Page/白金.md "wikilink") (platinum)** の[元素記号](../Page/元素記号.md "wikilink")
-  - **[P-T境界](https://ja.wikipedia.org/wiki/P-T境界 "wikilink")** 約2億5,100万年前の[古生代](../Page/古生代.md "wikilink")と[中生代](../Page/中生代.md "wikilink")の境目
-  - **[P.T. (ホラーゲーム)](https://ja.wikipedia.org/wiki/P.T._\(ホラーゲーム\) "wikilink")** [小島プロダクション](https://ja.wikipedia.org/wiki/小島プロダクション "wikilink")制作の、制作中止になったゲーム『Silent Hills』のプレイアブル・ティーザー(Playable Teaser)
+  - **[P-T境界](../Page/P-T境界.md "wikilink")** 約2億5,100万年前の[古生代](../Page/古生代.md "wikilink")と[中生代](../Page/中生代.md "wikilink")の境目
+  - **[P.T. (ホラーゲーム)](https://ja.wikipedia.org/wiki/P.T._\(ホラーゲーム\) "wikilink")** [小島プロダクション](../Page/小島プロダクション.md "wikilink")制作の、制作中止になったゲーム『Silent Hills』のプレイアブル・ティーザー(Playable Teaser)
 
 **pt**
 
   - **[.pt](https://ja.wikipedia.org/wiki/.pt "wikilink")** - [ポルトガル](../Page/ポルトガル.md "wikilink") (Portugal) の[国別ドメイン](https://ja.wikipedia.org/wiki/国別トップレベルドメイン "wikilink")
-  - **[ポルトガル語](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink") (Português)** の[ISO 639-1言語コード](https://ja.wikipedia.org/wiki/ISO_639 "wikilink")
-  - **[ポイント](../Page/ポイント.md "wikilink") (point)** - [長さの単位](https://ja.wikipedia.org/wiki/長さの単位 "wikilink") ／ 得点
+  - **[ポルトガル語](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink") (Português)** の[ISO 639-1言語コード](../Page/ISO_639.md "wikilink")
+  - **[ポイント](../Page/ポイント.md "wikilink") (point)** - [長さの単位](../Page/長さの単位.md "wikilink") ／ 得点
   - **[パイント](../Page/パイント.md "wikilink") (pint)** - [体積](https://ja.wikipedia.org/wiki/体積 "wikilink")・容積の単位
   - **[パート](https://ja.wikipedia.org/wiki/パート "wikilink")（part）** - 第＊部。ピリオドを付けて pt. とも書かれる。例。pt.2 （第２部）

@@ -5,7 +5,7 @@
 
 ## 概要
 
-[中小企業](../Page/中小企業.md "wikilink")が多く、長引く[不況](https://ja.wikipedia.org/wiki/不況 "wikilink")で活力を失いつつある[東大阪工業地帯](https://ja.wikipedia.org/wiki/東大阪工業地帯 "wikilink")の経済振興策として、[航空宇宙産業](https://ja.wikipedia.org/wiki/航空宇宙産業 "wikilink")を[地場産業](../Page/地場産業.md "wikilink")に育てるための共同[研究開発](https://ja.wikipedia.org/wiki/研究開発 "wikilink")を行うために設立された。現在 の理事長は杦本日出夫。
+[中小企業](../Page/中小企業.md "wikilink")が多く、長引く[不況](https://ja.wikipedia.org/wiki/不況 "wikilink")で活力を失いつつある[東大阪工業地帯](https://ja.wikipedia.org/wiki/東大阪工業地帯 "wikilink")の経済振興策として、[航空宇宙産業](https://ja.wikipedia.org/wiki/航空宇宙産業 "wikilink")を[地場産業](../Page/地場産業.md "wikilink")に育てるための共同[研究開発](../Page/研究開発.md "wikilink")を行うために設立された。現在 の理事長は杦本日出夫。
 
 当初の構想は「ワンオフ製品が多い人工衛星なら、融通の効く中小企業が有利であり、衛星打ち上げを通じて東大阪の中小メーカー群を宇宙開発メーカーの集合体に再編し、最終的に組合で衛星開発や製作を受注する」というものであったが、この構想は2014年現在、実現には至っていない。
 
@@ -17,9 +17,9 @@
 
 [2002年](../Page/2002年.md "wikilink")春、[大阪府立大学](../Page/大阪府立大学.md "wikilink")及び[東大阪市](../Page/東大阪市.md "wikilink")商工会の協力を経て、「東大阪宇宙開発研究会」を結成。[2002年](../Page/2002年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink")、[大阪府](../Page/大阪府.md "wikilink")[東大阪市](../Page/東大阪市.md "wikilink")荒本北を本拠に設立。[2003年](../Page/2003年.md "wikilink")、公共広告機構（現：[ACジャパン](../Page/ACジャパン.md "wikilink")）のキャンペーンとして取り上げられる。[2004年](../Page/2004年.md "wikilink")5月20日、[宇宙航空研究開発機構](https://ja.wikipedia.org/wiki/宇宙航空研究開発機構 "wikilink")との間で技術協力提携を締結する。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")10月、[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")[工学部](../Page/工学部.md "wikilink")小笠原研究室との間で技術協力提携を締結する。[2007年](../Page/2007年.md "wikilink")5月、[NEDO](https://ja.wikipedia.org/wiki/NEDO "wikilink")から委託を受けて、小型衛星[PETSAT](https://ja.wikipedia.org/wiki/PETSAT "wikilink")の開発に着手。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")8月、まいど1号完成\[2\]。
+[2005年](../Page/2005年.md "wikilink")10月、[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")[工学部](../Page/工学部.md "wikilink")小笠原研究室との間で技術協力提携を締結する。[2007年](../Page/2007年.md "wikilink")5月、[NEDO](https://ja.wikipedia.org/wiki/NEDO "wikilink")から委託を受けて、小型衛星[PETSAT](https://ja.wikipedia.org/wiki/PETSAT "wikilink")の開発に着手。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")8月、まいど1号完成\[2\]。
 
-2008年8月20日、まいど1号を、打上げ前試験のため、宇宙航空研究開発機構[筑波宇宙センター](../Page/筑波宇宙センター.md "wikilink")の試験棟に搬入。[2009年](../Page/2009年.md "wikilink")[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")午後0時54分、まいど1号を搭載した[H-IIAロケット](../Page/H-IIAロケット.md "wikilink")15号機が、[種子島宇宙センター](https://ja.wikipedia.org/wiki/種子島宇宙センター "wikilink")から打上げに成功。
+2008年8月20日、まいど1号を、打上げ前試験のため、宇宙航空研究開発機構[筑波宇宙センター](../Page/筑波宇宙センター.md "wikilink")の試験棟に搬入。[2009年](../Page/2009年.md "wikilink")[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")午後0時54分、まいど1号を搭載した[H-IIAロケット](../Page/H-IIAロケット.md "wikilink")15号機が、[種子島宇宙センター](../Page/種子島宇宙センター.md "wikilink")から打上げに成功。
 
 [2009年](../Page/2009年.md "wikilink")[9月](../Page/9月.md "wikilink")、同組合は、まいど1号の運用を停止することを決めた。計画した実験が終了したことのほか、同組合が資金難に陥ったことにより、宇宙航空研究開発機構への管理委託料の工面が不可能になったことが理由で\[3\]、同年[10月15日](../Page/10月15日.md "wikilink")、運用が終了した\[4\]。
 
@@ -45,7 +45,7 @@ SOHLA-1は、50kg級の衛星であり、PETSATで使用される予定の展開
 ## 関連項目
 
   - [PETSAT](https://ja.wikipedia.org/wiki/PETSAT "wikilink")
-  - [新エネルギー・産業技術総合開発機構](https://ja.wikipedia.org/wiki/新エネルギー・産業技術総合開発機構 "wikilink")
+  - [新エネルギー・産業技術総合開発機構](../Page/新エネルギー・産業技術総合開発機構.md "wikilink")
   - [アマチュア衛星](../Page/アマチュア衛星.md "wikilink")
   - [江戸っ子1号](https://ja.wikipedia.org/wiki/江戸っ子1号 "wikilink") - 「まいど1号」に触発される形で関東の中小企業などが開発した無人深海探査機。
 

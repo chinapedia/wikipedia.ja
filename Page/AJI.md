@@ -31,12 +31,12 @@
 ## 元メンバー
 
   - 鈴木 智顕（すずき ちあき、[1977年](../Page/1977年.md "wikilink")[4月17日](../Page/4月17日.md "wikilink") - ）
-    [岐阜県](../Page/岐阜県.md "wikilink")[恵那市](https://ja.wikipedia.org/wiki/恵那市 "wikilink")出身。早稲田大学卒業。血液型はAB型。ベース担当。鈴木の作詞・作曲による『ほうき星』は脱退後、新メンバーによって歌われ2012年6〜7月度のNHK『[みんなのうた](https://ja.wikipedia.org/wiki/みんなのうた "wikilink")』となった。
+    [岐阜県](../Page/岐阜県.md "wikilink")[恵那市](../Page/恵那市.md "wikilink")出身。早稲田大学卒業。血液型はAB型。ベース担当。鈴木の作詞・作曲による『ほうき星』は脱退後、新メンバーによって歌われ2012年6〜7月度のNHK『[みんなのうた](../Page/みんなのうた.md "wikilink")』となった。
 
 <!-- end list -->
 
   - 文 治城（ぶん はるき、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[12月16日](../Page/12月16日.md "wikilink") - ）
-    [兵庫県](../Page/兵庫県.md "wikilink")[芦屋市](https://ja.wikipedia.org/wiki/芦屋市 "wikilink")出身。[慶應義塾大学](https://ja.wikipedia.org/wiki/慶應義塾大学 "wikilink")[総合政策学部](https://ja.wikipedia.org/wiki/総合政策学部 "wikilink")卒業。血液型はB型。学生時代は[慶應義塾大学湘南藤沢キャンパス](../Page/慶應義塾大学湘南藤沢キャンパス.md "wikilink")のアカペラサークル「A Cappella Singers K.O.E.」に所属していた。大学の先輩である[ゴスペラーズ](../Page/ゴスペラーズ.md "wikilink")の[北山陽一](../Page/北山陽一.md "wikilink")によって橘へ紹介され、2000年3月AJIのメンバーとなった。
+    [兵庫県](../Page/兵庫県.md "wikilink")[芦屋市](https://ja.wikipedia.org/wiki/芦屋市 "wikilink")出身。[慶應義塾大学](https://ja.wikipedia.org/wiki/慶應義塾大学 "wikilink")[総合政策学部](../Page/総合政策学部.md "wikilink")卒業。血液型はB型。学生時代は[慶應義塾大学湘南藤沢キャンパス](../Page/慶應義塾大学湘南藤沢キャンパス.md "wikilink")のアカペラサークル「A Cappella Singers K.O.E.」に所属していた。大学の先輩である[ゴスペラーズ](../Page/ゴスペラーズ.md "wikilink")の[北山陽一](../Page/北山陽一.md "wikilink")によって橘へ紹介され、2000年3月AJIのメンバーとなった。
 
 ## 来歴
 
@@ -45,20 +45,20 @@
   - 2000年:村松が脱退。文治城が加入。
   - 2001年:[ゴスペラーズ](../Page/ゴスペラーズ.md "wikilink")の17thシングル「約束の季節」を橘が作曲。
   - 2002年:
-      - Lyrico([露崎春女](https://ja.wikipedia.org/wiki/露崎春女 "wikilink"))の15thシングル「Eternity.」のコーラスを担当。アカペラバージョンも収録。
+      - Lyrico([露崎春女](../Page/露崎春女.md "wikilink"))の15thシングル「Eternity.」のコーラスを担当。アカペラバージョンも収録。
       - 6月19日、メジャーデビュー。同日、恵比寿ガーデンプレイスにてデビューイベントが開催された。
-      - 「farewell」がこの年のABC朝日放送「[熱闘甲子園](https://ja.wikipedia.org/wiki/熱闘甲子園 "wikilink")」のテーマソングとなる。
+      - 「farewell」がこの年のABC朝日放送「[熱闘甲子園](../Page/熱闘甲子園.md "wikilink")」のテーマソングとなる。
       - 1stシングル「Listen To Reason」がクリスマスイブにテレビ朝日系列で放送された『[恋人はスナイパー](../Page/恋人はスナイパー.md "wikilink") EPISODE2』のエンディングテーマに。
   - 2004年:
       - 4月より1年間、アニメ「[ドラえもん](https://ja.wikipedia.org/wiki/ドラえもん "wikilink")」の主題歌を担当。
       - 「ONE MORE TIME」が映画『恋人はスナイパー劇場版』の主題歌に。
-      - [鈴木雅之トリビュートアルバム](https://ja.wikipedia.org/wiki/鈴木雅之_\(歌手\) "wikilink")「スズキマニア」に参加。「別れの街」をアカペラカバーする。
+      - [鈴木雅之トリビュートアルバム](../Page/鈴木雅之_\(歌手\).md "wikilink")「スズキマニア」に参加。「別れの街」をアカペラカバーする。
   - 2006年:6月、新宿コマ劇場で開催された『FOLK\&ROCK FES\!』に"[大貫妙子](../Page/大貫妙子.md "wikilink") with AJI"として出演。
   - 2007年:カバーアルバム『Voice Colors〜あなたといたころ』に大貫妙子、[平松愛理](../Page/平松愛理.md "wikilink")のコーラスで参加。
   - 2010年:[戸松遥](../Page/戸松遥.md "wikilink")の6thシングル『渚のSHOOTING STAR』に橘、柴田、鈴木がコーラスで参加。
   - 2011年:FM [NACK5](https://ja.wikipedia.org/wiki/NACK5 "wikilink")のステーションジングルを担当。現在もON AIR中。文と鈴木が脱退。渡辺と櫻庭が加入。
   - 2011年から2013年までレディオ湘南にてレギュラー番組「AJIのHarmonista」を担当。
-  - 2012年:「ほうき星」が6-7月度のNHK『[みんなのうた](https://ja.wikipedia.org/wiki/みんなのうた "wikilink")』に。
+  - 2012年:「ほうき星」が6-7月度のNHK『[みんなのうた](../Page/みんなのうた.md "wikilink")』に。
   - 2013年:『SOUL POWER TOKYO SUMMIT 2013』に出演。
   - 2014年:[ラッツ＆スター](https://ja.wikipedia.org/wiki/ラッツ＆スター "wikilink")の佐藤善雄と[シャネルズ](https://ja.wikipedia.org/wiki/シャネルズ "wikilink")のデビュー曲「ランナウェイ」をアカペラでカバー。
   - 2014年12月12日:公式ホームページで活動休止を発表\[1\]。
@@ -179,7 +179,7 @@
 
 ### 参加作品
 
-  - [Lyrico](https://ja.wikipedia.org/wiki/Lyrico "wikilink")（現・[露崎春女](https://ja.wikipedia.org/wiki/露崎春女 "wikilink")）「Eternity.」（2002年5月22日）
+  - [Lyrico](https://ja.wikipedia.org/wiki/Lyrico "wikilink")（現・[露崎春女](../Page/露崎春女.md "wikilink")）「Eternity.」（2002年5月22日）
   - 「一番熱かった夏 〜熱闘甲子園の歌〜」（2002年7月24日）
   - 「A cappella Love Songs 〜A cappella Base Camp Vol.1〜」（2002年12月4日）
   - [武部聡志](../Page/武部聡志.md "wikilink")「PIANO MAN FOR YUMING LOVERS」（2003年1月22日）
@@ -204,7 +204,7 @@
 <tr class="even">
 <td><p><a href="../Page/2002年.md" title="wikilink">2002年</a><a href="../Page/12月24日.md" title="wikilink">12月24日</a></p></td>
 <td><p>Listen To Reason</p></td>
-<td><p><a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a>系<a href="../Page/テレビドラマ.md" title="wikilink">ドラマ</a>『<a href="../Page/恋人はスナイパー.md" title="wikilink">恋人はスナイパー EPISODE2</a>』<a href="https://ja.wikipedia.org/wiki/エンディング" title="wikilink">エンディング</a><a href="https://ja.wikipedia.org/wiki/主題歌" title="wikilink">主題歌</a></p></td>
+<td><p><a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a>系<a href="../Page/テレビドラマ.md" title="wikilink">ドラマ</a>『<a href="../Page/恋人はスナイパー.md" title="wikilink">恋人はスナイパー EPISODE2</a>』<a href="https://ja.wikipedia.org/wiki/エンディング" title="wikilink">エンディング</a><a href="../Page/主題歌.md" title="wikilink">主題歌</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a><a href="https://ja.wikipedia.org/wiki/10月" title="wikilink">10月</a> - <a href="https://ja.wikipedia.org/wiki/12月" title="wikilink">12月</a></p></td>
@@ -223,9 +223,9 @@
 </tr>
 <tr class="even">
 <td><p>2004年<a href="../Page/4月30日.md" title="wikilink">4月30日</a> -<br />
-<a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/3月18日.md" title="wikilink">3月18日</a></p></td>
+<a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/3月18日.md" title="wikilink">3月18日</a></p></td>
 <td><p><a href="../Page/ドラえもんのうた.md" title="wikilink">ドラえもんのうた</a></p></td>
-<td><p>テレビ朝日系<a href="https://ja.wikipedia.org/wiki/テレビアニメ" title="wikilink">アニメ</a>『<a href="https://ja.wikipedia.org/wiki/ドラえもん_(1979年のテレビアニメ)" title="wikilink">ドラえもん</a>』オープニング主題歌</p></td>
+<td><p>テレビ朝日系<a href="https://ja.wikipedia.org/wiki/テレビアニメ" title="wikilink">アニメ</a>『<a href="../Page/ドラえもん_(1979年のテレビアニメ).md" title="wikilink">ドラえもん</a>』オープニング主題歌</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2011年.md" title="wikilink">2011年</a><a href="../Page/7月3日.md" title="wikilink">7月3日</a> -<br />
@@ -236,7 +236,7 @@
 <tr class="even">
 <td><p><a href="../Page/2012年.md" title="wikilink">2012年</a>6月-7月[2]</p></td>
 <td><p>ほうき星</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHK</a>『<a href="https://ja.wikipedia.org/wiki/みんなのうた" title="wikilink">みんなのうた</a>』</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHK</a>『<a href="../Page/みんなのうた.md" title="wikilink">みんなのうた</a>』</p></td>
 </tr>
 </tbody>
 </table>
@@ -247,7 +247,7 @@
 
 ## 関連項目
 
-  - [Baby Boo](https://ja.wikipedia.org/wiki/Baby_Boo "wikilink")
+  - [Baby Boo](../Page/Baby_Boo.md "wikilink")
   - [RAG FAIR](../Page/RAG_FAIR.md "wikilink")
   - [INSPi](../Page/INSPi.md "wikilink")
   - [ゴスペラーズ](../Page/ゴスペラーズ.md "wikilink")（同じStreet Corner Symphony出身のグループ）

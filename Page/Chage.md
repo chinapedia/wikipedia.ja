@@ -1,7 +1,7 @@
 > この記事は[Chage](https://ja.wikipedia.org/wiki/Chage)から翻訳されています。
 
 
-**Chage**（チャゲ、[1958年](../Page/1958年.md "wikilink")[1月6日](../Page/1月6日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")。本名：**柴田 秀之**（しばた しゅうじ）。[CHAGE and ASKAや](../Page/CHAGE_and_ASKA.md "wikilink")[MULTI MAXのメンバーで](https://ja.wikipedia.org/wiki/MULTI_MAX "wikilink")、楽曲の[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・[作曲](../Page/作曲.md "wikilink")を担当。[第一経済大学中退](https://ja.wikipedia.org/wiki/日本経済大学 "wikilink")。[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")[北九州市](https://ja.wikipedia.org/wiki/北九州市 "wikilink")[小倉北区](../Page/小倉北区.md "wikilink")出身。所属芸能事務所はLa・Fuente。所属[レーベルは](https://ja.wikipedia.org/wiki/レコード・レーベル "wikilink")[ユニバーサル シグマ](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。公式ファンクラブは「**equal**」。
+**Chage**（チャゲ、[1958年](../Page/1958年.md "wikilink")[1月6日](../Page/1月6日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")。本名：**柴田 秀之**（しばた しゅうじ）。[CHAGE and ASKAや](../Page/CHAGE_and_ASKA.md "wikilink")[MULTI MAXのメンバーで](../Page/MULTI_MAX.md "wikilink")、楽曲の[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")を担当。[第一経済大学中退](https://ja.wikipedia.org/wiki/日本経済大学 "wikilink")。[福岡県](../Page/福岡県.md "wikilink")[北九州市](https://ja.wikipedia.org/wiki/北九州市 "wikilink")[小倉北区](../Page/小倉北区.md "wikilink")出身。所属芸能事務所はLa・Fuente。所属[レーベルは](https://ja.wikipedia.org/wiki/レコード・レーベル "wikilink")[ユニバーサル シグマ](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。公式ファンクラブは「**equal**」。
 
 表記名は**チャゲ**（1979年 - 1989年）、**CHAGE**（1989年 - 2008年）、**Chage**（2009年 - ）と変わっている。
 
@@ -9,7 +9,7 @@
 
 ### 出生から高校時代まで
 
-[1958年](../Page/1958年.md "wikilink")[1月6日](../Page/1月6日.md "wikilink")、[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")[小倉市](../Page/小倉市.md "wikilink")（現・[北九州市](https://ja.wikipedia.org/wiki/北九州市 "wikilink")[小倉北区](../Page/小倉北区.md "wikilink")）に生まれる。
+[1958年](../Page/1958年.md "wikilink")[1月6日](../Page/1月6日.md "wikilink")、[福岡県](../Page/福岡県.md "wikilink")[小倉市](../Page/小倉市.md "wikilink")（現・[北九州市](https://ja.wikipedia.org/wiki/北九州市 "wikilink")[小倉北区](../Page/小倉北区.md "wikilink")）に生まれる。
 
 その後、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")3月に両親の故郷である[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")内へ転居。幼少期は小学時代は[野球](../Page/野球.md "wikilink")部、中学時代は[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")部に所属していたスポーツ少年だったが、高校受験を目前にした時期に音楽へ強い興味を持ち始める。
 
@@ -27,29 +27,29 @@
 
 ### 1979年（デビュー） - 2008年
 
-[1979年](../Page/1979年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")、チャゲ&飛鳥（現・[CHAGE and ASKA](../Page/CHAGE_and_ASKA.md "wikilink")）としてワーナー・パイオニア（現・[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")）からシングル「[ひとり咲き](https://ja.wikipedia.org/wiki/ひとり咲き "wikilink")」でデビュー。
+[1979年](../Page/1979年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")、チャゲ&飛鳥（現・[CHAGE and ASKA](../Page/CHAGE_and_ASKA.md "wikilink")）としてワーナー・パイオニア（現・[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")）からシングル「[ひとり咲き](https://ja.wikipedia.org/wiki/ひとり咲き "wikilink")」でデビュー。
 
-[1984年](../Page/1984年.md "wikilink")、[石川優子](../Page/石川優子.md "wikilink")と[デュエット](https://ja.wikipedia.org/wiki/デュエット "wikilink")し、“**石川優子とチャゲ**”名義で発表した「[ふたりの愛ランド](https://ja.wikipedia.org/wiki/ふたりの愛ランド "wikilink")」が夏のヒット曲となる\[7\]。
+[1984年](../Page/1984年.md "wikilink")、[石川優子](../Page/石川優子.md "wikilink")と[デュエット](../Page/デュエット.md "wikilink")し、“**石川優子とチャゲ**”名義で発表した「[ふたりの愛ランド](https://ja.wikipedia.org/wiki/ふたりの愛ランド "wikilink")」が夏のヒット曲となる\[7\]。
 
-[1989年](../Page/1989年.md "wikilink")、[村上啓介](https://ja.wikipedia.org/wiki/村上啓介 "wikilink")、[淺井ひろみ](https://ja.wikipedia.org/wiki/淺井ひろみ "wikilink")とともに[バンド](../Page/バンド_\(音楽\).md "wikilink")“**[MULTI MAX](https://ja.wikipedia.org/wiki/MULTI_MAX "wikilink")**”を結成。1997年までにシングル7枚、アルバム7枚を発表した。同年10月から、[TOKYO FM系列で](../Page/エフエム東京.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")『[スーパーFMマガジン](../Page/スーパーFMマガジン.md "wikilink") CHAGEのNORU SORU』が放送開始（1994年3月終了）。[1994年](../Page/1994年.md "wikilink")には『スーパーFMマガジン CHAGEのNORU SORU』を引き継ぐ形で新番組『CHAGEの[ラジ王](../Page/ラジ王.md "wikilink")』が放送開始した（1995年2月28日終了）。
+[1989年](../Page/1989年.md "wikilink")、[村上啓介](../Page/村上啓介.md "wikilink")、[淺井ひろみ](../Page/淺井ひろみ.md "wikilink")とともに[バンド](../Page/バンド_\(音楽\).md "wikilink")“**[MULTI MAX](../Page/MULTI_MAX.md "wikilink")**”を結成。1997年までにシングル7枚、アルバム7枚を発表した。同年10月から、[TOKYO FM系列で](../Page/エフエム東京.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")『[スーパーFMマガジン](../Page/スーパーFMマガジン.md "wikilink") CHAGEのNORU SORU』が放送開始（1994年3月終了）。[1994年](../Page/1994年.md "wikilink")には『スーパーFMマガジン CHAGEのNORU SORU』を引き継ぐ形で新番組『CHAGEの[ラジ王](../Page/ラジ王.md "wikilink")』が放送開始した（1995年2月28日終了）。
 
-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")4月、CHAGE初のレギュラーテレビ番組、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")『P-STOCK』放送開始（1998年9月25日終了）。新ラジオ番組『CHAGEのTreasure Box』も放送開始する（2000年12月25日終了）。また、デビュー19年目にして初めてソロ名義での音楽活動を行い、アジア向けに[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『[恰克 CHAGE精選集](https://ja.wikipedia.org/wiki/恰克_CHAGE精選集 "wikilink")』を発売して、[上海体育館](../Page/上海体育館.md "wikilink")のコンサートで音楽活動を開始するという異例のスタートを飾った。その後、日本でベスト・アルバム『[CHAGE BEST SONGS/PROLOGUE](https://ja.wikipedia.org/wiki/CHAGE_BEST_SONGS/PROLOGUE "wikilink")』を発売。[日本武道館](../Page/日本武道館.md "wikilink")でコンサートを開く。9月、初のソロ・シングル「トウキョータワー」、10月に初のソロ・アルバム『[2nd](https://ja.wikipedia.org/wiki/2nd "wikilink") 』を発売。コンサートツアー『CHAGE CONCERT TOUR Feeling Place』も開催した。大晦日には、初のカウントダウン・ライブ『CHAGE 1998 FINAL COUNT DOWN』を[渋谷公会堂](https://ja.wikipedia.org/wiki/渋谷公会堂 "wikilink")で行った。
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")4月、CHAGE初のレギュラーテレビ番組、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")『P-STOCK』放送開始（1998年9月25日終了）。新ラジオ番組『CHAGEのTreasure Box』も放送開始する（2000年12月25日終了）。また、デビュー19年目にして初めてソロ名義での音楽活動を行い、アジア向けに[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[恰克 CHAGE精選集](https://ja.wikipedia.org/wiki/恰克_CHAGE精選集 "wikilink")』を発売して、[上海体育館](../Page/上海体育館.md "wikilink")のコンサートで音楽活動を開始するという異例のスタートを飾った。その後、日本でベスト・アルバム『[CHAGE BEST SONGS/PROLOGUE](https://ja.wikipedia.org/wiki/CHAGE_BEST_SONGS/PROLOGUE "wikilink")』を発売。[日本武道館](../Page/日本武道館.md "wikilink")でコンサートを開く。9月、初のソロ・シングル「トウキョータワー」、10月に初のソロ・アルバム『[2nd](https://ja.wikipedia.org/wiki/2nd "wikilink") 』を発売。コンサートツアー『CHAGE CONCERT TOUR Feeling Place』も開催した。大晦日には、初のカウントダウン・ライブ『CHAGE 1998 FINAL COUNT DOWN』を[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")で行った。
 
 [2003年](../Page/2003年.md "wikilink")7月、[AIR-G'でラジオ番組](../Page/エフエム北海道.md "wikilink")『今夜はチャゲラッチョ』放送開始。大晦日に札幌ドームで開催するCHAGE and ASKAのカウントダウン・ライブを盛り上げるために当初は3ヶ月の期間限定放送とアナウンスされていたが、12月まで放送が延長された（2003年12月29日終了）。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、『[2005年 日本国際博覧会 「愛・地球博」](../Page/2005年日本国際博覧会.md "wikilink")』（愛知万博）で行われていた『SHORT SHORTS FILM FESTIVAL EXPO 2005』のメイン・フェスティバル招待作品として、自らプロデューサー・カメラマン・音楽を努めた短編映画『missing pages』を出展\[8\]\[9\]。その後、世界各国のショートフィルムフェスティバルに出品して数々の賞を受賞した\[10\]。
+[2005年](../Page/2005年.md "wikilink")、『[2005年 日本国際博覧会 「愛・地球博」](../Page/2005年日本国際博覧会.md "wikilink")』（愛知万博）で行われていた『SHORT SHORTS FILM FESTIVAL EXPO 2005』のメイン・フェスティバル招待作品として、自らプロデューサー・カメラマン・音楽を努めた短編映画『missing pages』を出展\[8\]\[9\]。その後、世界各国のショートフィルムフェスティバルに出品して数々の賞を受賞した\[10\]。
 
-[2007年](../Page/2007年.md "wikilink")、4月から[JFN系列で](../Page/全国FM放送協議会.md "wikilink")『[DAY BREAK FRIDAY -CHAGEのDAYBREAK TIME-](https://ja.wikipedia.org/wiki/DAY_BREAK_\(ラジオ番組\)#DAY_BREAK_FRIDAY "wikilink") 』が放送開始（2010年3月26日終了）。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")4月からは、[松浦亜弥](../Page/松浦亜弥.md "wikilink")とともに[WOWOW](../Page/WOWOW.md "wikilink")『コラボ☆ラボ〜夢の音楽工房』のレギュラー番組が放送開始（2009年3月24日終了）。また、10年ぶりとなるシングル「waltz」、アルバム『[アイシテル](https://ja.wikipedia.org/wiki/アイシテル_\(CHAGEのアルバム\) "wikilink")』を発表。アルバムの[ディスクジャケット](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")には23年ぶりに[サングラス](https://ja.wikipedia.org/wiki/サングラス "wikilink")を外したCHAGEが写っている。11月からはコンサートツアー『CHAGE CONCERT TOUR 2008 アイシテル』を開催した。
+[2007年](../Page/2007年.md "wikilink")、4月から[JFN系列で](../Page/全国FM放送協議会.md "wikilink")『[DAY BREAK FRIDAY -CHAGEのDAYBREAK TIME-](https://ja.wikipedia.org/wiki/DAY_BREAK_\(ラジオ番組\)#DAY_BREAK_FRIDAY "wikilink") 』が放送開始（2010年3月26日終了）。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")4月からは、[松浦亜弥](../Page/松浦亜弥.md "wikilink")とともに[WOWOW](../Page/WOWOW.md "wikilink")『コラボ☆ラボ〜夢の音楽工房』のレギュラー番組が放送開始（2009年3月24日終了）。また、10年ぶりとなるシングル「waltz」、アルバム『[アイシテル](https://ja.wikipedia.org/wiki/アイシテル_\(CHAGEのアルバム\) "wikilink")』を発表。アルバムの[ディスクジャケット](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")には23年ぶりに[サングラス](../Page/サングラス.md "wikilink")を外したCHAGEが写っている。11月からはコンサートツアー『CHAGE CONCERT TOUR 2008 アイシテル』を開催した。
 
 ### 2009年 -
 
-[2009年](../Page/2009年.md "wikilink")1月30日、お互いのソロ活動を充実させるためCHAGE and ASKAを無期限活動休止にすることを発表\[11\]。ソロ活動が続行された。3月、[コラボレーション](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")・アルバム『[Many Happy Returns](https://ja.wikipedia.org/wiki/Many_Happy_Returns "wikilink")』を発売。他のアーティストの[カバー](../Page/カバー.md "wikilink")や[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")を収録し、石川優子とは25年ぶりに「ふたりの愛ランド」を[リテイク](../Page/リテイク.md "wikilink")した。なお、この作品からアーティスト表記が“**Chage**”に変わっている\[12\]。4月には、初の写真集『歌写（かしゃッ）\!♪　写真で綴る幸せな音符』を発売。イベント『茶会』とツアー『Chageの細道』はこの年から始まった。
+[2009年](../Page/2009年.md "wikilink")1月30日、お互いのソロ活動を充実させるためCHAGE and ASKAを無期限活動休止にすることを発表\[11\]。ソロ活動が続行された。3月、[コラボレーション](../Page/コラボレーション.md "wikilink")・アルバム『[Many Happy Returns](https://ja.wikipedia.org/wiki/Many_Happy_Returns "wikilink")』を発売。他のアーティストの[カバー](../Page/カバー.md "wikilink")や[セルフカバー](../Page/セルフカバー.md "wikilink")を収録し、石川優子とは25年ぶりに「ふたりの愛ランド」を[リテイク](../Page/リテイク.md "wikilink")した。なお、この作品からアーティスト表記が“**Chage**”に変わっている\[12\]。4月には、初の写真集『歌写（かしゃッ）\!♪　写真で綴る幸せな音符』を発売。イベント『茶会』とツアー『Chageの細道』はこの年から始まった。
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")、[SHIBUYA ENTERTAINMENT THEATER PLEASURE PLEASUREにて](https://ja.wikipedia.org/wiki/SHIBUYA_ENTERTAINMENT_THEATER_PLEASURE_PLEASURE "wikilink")『CHAGEの坂道 “渋茶会”』開催。4月からは、JFN系列で新ラジオ番組『Chageの音道』が放送開始。6月から『Chageの細道2010』を開催。10月にシングル「まわせ大きな地球儀」を発売。11月にはアルバム『[\&C](https://ja.wikipedia.org/wiki/&C "wikilink")』をASKAのセルフカバー・アルバム『[君の知らない君の歌](https://ja.wikipedia.org/wiki/君の知らない君の歌 "wikilink")』と同時発売した\[13\]。12月よりライブツアー『ChageLiveTour10-11 "まわせ大きな地球儀"』を開催。ツアーバンドに、敬愛する[ビートルズ](../Page/ビートルズ.md "wikilink")をもじって“チャゲトルズ”という名前をつけ\[14\]、パワフルなステージを繰り広げた。
 
-[2011年](../Page/2011年.md "wikilink")5月、[ル テアトル銀座 by PARCOにて](https://ja.wikipedia.org/wiki/ル_テアトル銀座_by_PARCO "wikilink")『Chageの茶会2011 〜銀座なう！〜』を開催。また、[ミスタードーナツ](https://ja.wikipedia.org/wiki/ミスタードーナツ "wikilink")夏季限定商品の[CMに](../Page/コマーシャルメッセージ.md "wikilink")[仲里依紗](https://ja.wikipedia.org/wiki/仲里依紗 "wikilink")と出演。[CMソングにはこのCMのために新たに録音された](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")、Chageと仲のデュエットによる「ふたりの愛ランド」の替え歌が使用された\[15\]。9月からは『Chageの細道2011』を開催。会場でシングル「TOKYO MOON」を一般発売に先駆けて先行発売した。
+[2011年](../Page/2011年.md "wikilink")5月、[ル テアトル銀座 by PARCOにて](https://ja.wikipedia.org/wiki/ル_テアトル銀座_by_PARCO "wikilink")『Chageの茶会2011 〜銀座なう！〜』を開催。また、[ミスタードーナツ](https://ja.wikipedia.org/wiki/ミスタードーナツ "wikilink")夏季限定商品の[CMに](../Page/コマーシャルメッセージ.md "wikilink")[仲里依紗](https://ja.wikipedia.org/wiki/仲里依紗 "wikilink")と出演。[CMソングにはこのCMのために新たに録音された](../Page/コマーシャルソング.md "wikilink")、Chageと仲のデュエットによる「ふたりの愛ランド」の替え歌が使用された\[15\]。9月からは『Chageの細道2011』を開催。会場でシングル「TOKYO MOON」を一般発売に先駆けて先行発売した。
 
-[2012年](../Page/2012年.md "wikilink")、“チャゲトルズ”復活となるライブ『ChageLiveTour2012』を開催。シングル「GO\! GO\! GO\!」は、会場限定でCD販売した（5月に[音楽配信](../Page/音楽配信.md "wikilink")した）。8月には[横浜赤レンガ倉庫](https://ja.wikipedia.org/wiki/横浜赤レンガ倉庫 "wikilink")にて『Chageの茶会2012 〜座・藍燈横濱〜』を開催。脚本・構成に[松井五郎](https://ja.wikipedia.org/wiki/松井五郎 "wikilink")を迎えて新たなステージを見せた\[16\]。
+[2012年](../Page/2012年.md "wikilink")、“チャゲトルズ”復活となるライブ『ChageLiveTour2012』を開催。シングル「GO\! GO\! GO\!」は、会場限定でCD販売した（5月に[音楽配信](../Page/音楽配信.md "wikilink")した）。8月には[横浜赤レンガ倉庫](../Page/横浜赤レンガ倉庫.md "wikilink")にて『Chageの茶会2012 〜座・藍燈横濱〜』を開催。脚本・構成に[松井五郎](https://ja.wikipedia.org/wiki/松井五郎 "wikilink")を迎えて新たなステージを見せた\[16\]。
 
 [2013年](../Page/2013年.md "wikilink")1月25日、活動休止中であったCHAGE and ASKAを再始動させることを一旦発表\[17\]。3月、昨年の茶会の評判に応えて『Chageの茶会2013 〜座・藍燈横濱〜 Again』を大阪・名古屋・福岡・横浜で開催した。
 
@@ -71,7 +71,7 @@
 
 <!-- end list -->
 
-  - 今ではすっかり定着している[サングラス](https://ja.wikipedia.org/wiki/サングラス "wikilink")をするようになったのは\[26\]、キャニオン・レコード（現・[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")）移籍後の1985年に発売されたベスト・アルバム『[Standing Ovation](https://ja.wikipedia.org/wiki/Standing_Ovation_\(チャゲ&飛鳥のアルバム\) "wikilink")』からである。1990年頃からオールバックに帽子（バンダナ）を着用。1996年末頃からは髭を蓄え始めた。近年はバンダナをつけることはなく、サングラスに帽子というスタイルが多くなっている。
+  - 今ではすっかり定着している[サングラス](../Page/サングラス.md "wikilink")をするようになったのは\[26\]、キャニオン・レコード（現・[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")）移籍後の1985年に発売されたベスト・アルバム『[Standing Ovation](https://ja.wikipedia.org/wiki/Standing_Ovation_\(チャゲ&飛鳥のアルバム\) "wikilink")』からである。1990年頃からオールバックに帽子（バンダナ）を着用。1996年末頃からは髭を蓄え始めた。近年はバンダナをつけることはなく、サングラスに帽子というスタイルが多くなっている。
   - ライブのMCやテレビ出演の際の軽妙なトークとその朗らかなキャラクターから社交的なイメージを持たれる事が多いが、。
   - 2008年のコンサートツアー最終日に第1子となる男の子が誕生した\[27\]。
 
@@ -151,7 +151,7 @@
 <td></td>
 <td><p>78位</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/音道_(Chageのベストアルバム)" title="wikilink">音道</a></p></td>
-<td><p>カップリングには『<a href="https://ja.wikipedia.org/wiki/遠くへ行きたい_(曲)" title="wikilink">遠くへ行きたい</a>』のカバーが収録されている。</p></td>
+<td><p>カップリングには『<a href="../Page/遠くへ行きたい_(曲).md" title="wikilink">遠くへ行きたい</a>』のカバーが収録されている。</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>2011年11月2日(一般発売)</strong></p></td>
@@ -573,7 +573,7 @@
 
 ## 参加作品
 
-:\*[服部克久](https://ja.wikipedia.org/wiki/服部克久 "wikilink")　音楽家生活50周年記念アルバム『服部克久』（2009年）
+:\*[服部克久](../Page/服部克久.md "wikilink")　音楽家生活50周年記念アルバム『服部克久』（2009年）
 
 ::<small>「紫野 '09」に参加。</small>
 
@@ -581,11 +581,11 @@
 
 ::<small>[JFN系](../Page/全国FM放送協議会.md "wikilink") 震災復興応援番組『SEVEN Spirits』エンディング曲\[37\]。</small>
 
-:\*[八神純子](https://ja.wikipedia.org/wiki/八神純子 "wikilink")　[カバー](../Page/カバー.md "wikilink")・アルバム『VREATH（ブレス） 〜My Favorite Cocky Pop〜』（2012年）
+:\*[八神純子](../Page/八神純子.md "wikilink")　[カバー](../Page/カバー.md "wikilink")・アルバム『VREATH（ブレス） 〜My Favorite Cocky Pop〜』（2012年）
 
 ::<small>【Hybrid Disc】の[ボーナス・トラック](../Page/ボーナス・トラック.md "wikilink")として収録されている「ナオミの夢」に参加。</small>
 
-:\*[セカイイチ](../Page/セカイイチ.md "wikilink")　[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")・アルバム『[and10 (2003〜2013)](https://ja.wikipedia.org/wiki/and10_\(2003〜2013\) "wikilink")』（2013年）
+:\*[セカイイチ](../Page/セカイイチ.md "wikilink")　[セルフカバー](../Page/セルフカバー.md "wikilink")・アルバム『[and10 (2003〜2013)](https://ja.wikipedia.org/wiki/and10_\(2003〜2013\) "wikilink")』（2013年）
 
 ::<small>「Kids Are Alright "and" Chage」に参加。</small>
 
@@ -604,10 +604,10 @@
 
   - Chage（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")&ギター、[ウクレレ](../Page/ウクレレ.md "wikilink")）
   - [吉川忠英](../Page/吉川忠英.md "wikilink")（[ギター](../Page/ギター.md "wikilink")）
-  - [渡辺等](https://ja.wikipedia.org/wiki/渡辺等 "wikilink")（[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")）
+  - [渡辺等](https://ja.wikipedia.org/wiki/渡辺等 "wikilink")（[ベース](../Page/ベース_\(弦楽器\).md "wikilink")）
   - 根本久子（[パーカッション](../Page/パーカッション.md "wikilink")）※2011年まで参加。
   - 力石理江（[キーボード](../Page/キーボード_\(楽器\).md "wikilink")）※2012年・2013年の『Chageの茶会』に参加。
-  - [沢口千恵](https://ja.wikipedia.org/wiki/沢口千恵 "wikilink")（語り）※2012年・2013年の『Chageの茶会』に参加。
+  - [沢口千恵](../Page/沢口千恵.md "wikilink")（語り）※2012年・2013年の『Chageの茶会』に参加。
   - [松井五郎](https://ja.wikipedia.org/wiki/松井五郎 "wikilink")（企画・構成）※2012年・2013年の『Chageの茶会』に参加。
 
 ### チャゲトルズ
@@ -616,9 +616,9 @@
 
   - Chage（[Vo](https://ja.wikipedia.org/wiki/ボーカル "wikilink")\&G）
   - [久松史奈](https://ja.wikipedia.org/wiki/久松史奈 "wikilink")（Vo）
-  - [村上啓介](https://ja.wikipedia.org/wiki/村上啓介 "wikilink")（[G](../Page/ギター.md "wikilink")\&Vo）
+  - [村上啓介](../Page/村上啓介.md "wikilink")（[G](../Page/ギター.md "wikilink")\&Vo）
   - [西川進](../Page/西川進.md "wikilink")（G）
-  - 小島剛広（[B](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")）
+  - 小島剛広（[B](../Page/ベース_\(弦楽器\).md "wikilink")）
   - 一ノ瀬久（[Dr](../Page/ドラムセット.md "wikilink")）→ 佐藤強一
   - 小林哲也（[Key](../Page/キーボード_\(楽器\).md "wikilink")）
 
@@ -826,7 +826,7 @@ The Primrose Hills
 <p><a href="http://livedigajudgement.net/2013/archive.html#s1998">LIVE DI:GA サイト</a></p>
 <div class="NavContent" style="text-align:center;">
 <p><strong>1998年</strong><br />
-12月31日　<a href="https://ja.wikipedia.org/wiki/渋谷公会堂" title="wikilink">渋谷公会堂</a></p>
+12月31日　<a href="../Page/渋谷公会堂.md" title="wikilink">渋谷公会堂</a></p>
 <div>
 </div></td>
 </tr>
@@ -909,9 +909,9 @@ CHAGE&amp;ASKAの3部構成ライブ</p>
 <p><strong>2008年</strong><br />
 11月2日　福岡 <a href="https://ja.wikipedia.org/wiki/DRUM_LOGOS" title="wikilink">DRUM LOGOS</a><br />
 11月3日　福岡 DRUM LOGOS<br />
-11月5日　大阪 <a href="https://ja.wikipedia.org/wiki/湊町リバープレイス" title="wikilink">なんばHatch</a><br />
+11月5日　大阪 <a href="../Page/湊町リバープレイス.md" title="wikilink">なんばHatch</a><br />
 11月6日　大阪 なんばHatch<br />
-11月13日　<a href="https://ja.wikipedia.org/wiki/SHIBUYA-AX" title="wikilink">SHIBUYA-AX</a><br />
+11月13日　<a href="../Page/SHIBUYA-AX.md" title="wikilink">SHIBUYA-AX</a><br />
 11月14日　SHIBUYA-AX<br />
 11月17日　Zepp Nagoya<br />
 11月18日　Zepp Nagoya<br />
@@ -1113,7 +1113,7 @@ CHAGE&amp;ASKAの3部構成ライブ</p>
 9月23日　<a href="../Page/前橋市民文化会館.md" title="wikilink">前橋市民文化会館</a> 小ホール<br />
 9月24日　りゅうとぴあ <a href="../Page/新潟市民芸術文化会館.md" title="wikilink">新潟市民芸術文化会館</a> 劇場<br />
 9月28日　サンケイホールブリーゼ<br />
-9月29日　<a href="https://ja.wikipedia.org/wiki/神戸朝日ビル" title="wikilink">神戸朝日ホール</a><br />
+9月29日　<a href="../Page/神戸朝日ビル.md" title="wikilink">神戸朝日ホール</a><br />
 10月1日　<a href="https://ja.wikipedia.org/wiki/大村市民会館" title="wikilink">大村市民会館</a><br />
 10月2日　<a href="https://ja.wikipedia.org/wiki/なかまハーモニーホール" title="wikilink">なかまハーモニーホール</a><br />
 10月7日　<a href="../Page/北國新聞赤羽ホール.md" title="wikilink">北國新聞赤羽ホール</a><br />
@@ -1159,7 +1159,7 @@ CHAGE&amp;ASKAの3部構成ライブ</p>
 <div class="NavContent" style="text-align:center;">
 <p><strong>2012年</strong><br />
 4月22日　名古屋 <a href="https://ja.wikipedia.org/wiki/ボトムライン" title="wikilink">ボトムライン</a><br />
-4月30日　<a href="https://ja.wikipedia.org/wiki/恵比寿ガーデンプレイス" title="wikilink">恵比寿ザ・ガーデンホール</a><br />
+4月30日　<a href="../Page/恵比寿ガーデンプレイス.md" title="wikilink">恵比寿ザ・ガーデンホール</a><br />
 5月2日　大阪 <a href="https://ja.wikipedia.org/wiki/umeda_AKASO" title="wikilink">umeda AKASO</a><br />
 5月6日　仙台 <a href="https://ja.wikipedia.org/wiki/retro_BackPage" title="wikilink">retro BackPage</a></p>
 <div>
@@ -1176,7 +1176,7 @@ CHAGE&amp;ASKAの3部構成ライブ</p>
 <p><a href="http://chakai2012.chage-aska.net/">特設サイト</a></p>
 <div class="NavContent" style="text-align:center;">
 <p><strong>2012年</strong><br />
-8月21日　<a href="https://ja.wikipedia.org/wiki/横浜赤レンガ倉庫" title="wikilink">横浜赤レンガ倉庫</a>1号館3Fホール<br />
+8月21日　<a href="../Page/横浜赤レンガ倉庫.md" title="wikilink">横浜赤レンガ倉庫</a>1号館3Fホール<br />
 8月22日　横浜赤レンガ倉庫1号館3Fホール<br />
 8月23日　横浜赤レンガ倉庫1号館3Fホール<br />
 8月24日　横浜赤レンガ倉庫1号館3Fホール<br />
@@ -1201,7 +1201,7 @@ CHAGE&amp;ASKAの3部構成ライブ</p>
 3月2日　サンケイホールブリーゼ<br />
 3月9日　名鉄ホール<br />
 3月10日　名鉄ホール<br />
-3月16日　<a href="https://ja.wikipedia.org/wiki/キャナルシティ劇場" title="wikilink">キャナルシティ劇場</a><br />
+3月16日　<a href="../Page/キャナルシティ劇場.md" title="wikilink">キャナルシティ劇場</a><br />
 3月27日　KAAT<a href="https://ja.wikipedia.org/wiki/神奈川芸術劇場" title="wikilink">神奈川芸術劇場</a></p>
 <div>
 </div></td>
@@ -1736,7 +1736,7 @@ in 天童市わくわくランド野外ステージ</strong></p></td>
 </tr>
 <tr class="even">
 <td><p>2017年10月2日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/服部克久" title="wikilink">服部克久</a>〜傘寿の音楽会〜</strong></p></td>
+<td><p><strong><a href="../Page/服部克久.md" title="wikilink">服部克久</a>〜傘寿の音楽会〜</strong></p></td>
 <td><p>「<strong>終章（エピローグ）</strong>」</p></td>
 </tr>
 <tr class="odd">
@@ -1838,7 +1838,7 @@ Chage ライブステージ</strong></p></td>
       - Dr：佐藤強一
       - Key：力石理江
       - Cho：Amazons（吉川智子、斉藤久美、[大滝裕子](https://ja.wikipedia.org/wiki/大滝裕子 "wikilink")）
-      - Gt：[村上啓介](https://ja.wikipedia.org/wiki/村上啓介 "wikilink")（ゲストメンバー）
+      - Gt：[村上啓介](../Page/村上啓介.md "wikilink")（ゲストメンバー）
 
 <!-- end list -->
 
@@ -1847,7 +1847,7 @@ Chage ライブステージ</strong></p></td>
 <!-- end list -->
 
   - [川島敬治](https://ja.wikipedia.org/wiki/川島ケイジ "wikilink")
-  - [スガシカオ](https://ja.wikipedia.org/wiki/スガシカオ "wikilink")
+  - [スガシカオ](../Page/スガシカオ.md "wikilink")
   - [chay](https://ja.wikipedia.org/wiki/chay "wikilink")
 
 <!-- end list -->
@@ -1857,7 +1857,7 @@ Chage ライブステージ</strong></p></td>
 <!-- end list -->
 
   - [前野健太](https://ja.wikipedia.org/wiki/前野健太 "wikilink")
-  - [松本素生](../Page/松本素生.md "wikilink")（[GOING UNDER GROUND](https://ja.wikipedia.org/wiki/GOING_UNDER_GROUND "wikilink")）
+  - [松本素生](../Page/松本素生.md "wikilink")（[GOING UNDER GROUND](../Page/GOING_UNDER_GROUND.md "wikilink")）
   - [矢井田瞳](https://ja.wikipedia.org/wiki/矢井田瞳 "wikilink")
 
 <!-- end list -->
@@ -1876,7 +1876,7 @@ Chage ライブステージ</strong></p></td>
 
   - equal
   - 勇気の言葉
-  - トウキョータワー（with [スガシカオ](https://ja.wikipedia.org/wiki/スガシカオ "wikilink")）
+  - トウキョータワー（with [スガシカオ](../Page/スガシカオ.md "wikilink")）
   - 終章～エピローグ～ （with [川島敬治](https://ja.wikipedia.org/wiki/川島ケイジ "wikilink")）
   - Let It Be （with [chay](https://ja.wikipedia.org/wiki/chay "wikilink")）
   - Mr.Liverpool
@@ -1928,7 +1928,7 @@ Chage ライブステージ</strong></p></td>
 <td><p><a href="../Page/明石家さんま.md" title="wikilink">明石家さんま</a></p></td>
 <td><p>作曲</p></td>
 <td><p>「シングルベッド」</p></td>
-<td><p>CHAGE and ASKA　アルバム『<a href="https://ja.wikipedia.org/wiki/MIX_BLOOD" title="wikilink">MIX BLOOD</a>』に<a href="https://ja.wikipedia.org/wiki/セルフカバー" title="wikilink">セルフカバー</a>収録</p></td>
+<td><p>CHAGE and ASKA　アルバム『<a href="https://ja.wikipedia.org/wiki/MIX_BLOOD" title="wikilink">MIX BLOOD</a>』に<a href="../Page/セルフカバー.md" title="wikilink">セルフカバー</a>収録</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/甲斐よしひろ.md" title="wikilink">甲斐よしひろ</a></p></td>
@@ -1943,7 +1943,7 @@ Chage ライブステージ</strong></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/古手川祐子" title="wikilink">古手川祐子</a></p></td>
+<td><p><a href="../Page/古手川祐子.md" title="wikilink">古手川祐子</a></p></td>
 <td><p>作曲</p></td>
 <td><p>「贅沢な口実」</p></td>
 <td></td>
@@ -2035,7 +2035,7 @@ Chage ライブステージ</strong></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/光GENJI" title="wikilink">光GENJI</a></p></td>
+<td><p><a href="../Page/光GENJI.md" title="wikilink">光GENJI</a></p></td>
 <td><p>作曲</p></td>
 <td><p>「Graduation」</p></td>
 <td><p>作詞はASKA</p></td>
@@ -2102,18 +2102,18 @@ Chage ライブステージ</strong></p></td>
 
 ## タイアップ楽曲一覧
 
-| 年                                                                                                                                  | タイアップ曲                                                                                   | タイアップ先                                                                            |
-| ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 1984年                                                                                                                              | [ふたりの愛ランド](https://ja.wikipedia.org/wiki/ふたりの愛ランド "wikilink")                            | [JAL](../Page/日本航空.md "wikilink") '84 沖縄キャンペーンソング                                 |
-| 2011年                                                                                                                              | [ミスタードーナツ](https://ja.wikipedia.org/wiki/ミスタードーナツ "wikilink")「クールミスド」CMソング               |                                                                                   |
-| 1998年                                                                                                                              | トウキョータワー                                                                                 | [NEC](../Page/日本電気.md "wikilink") 企業CMソング                                         |
-| [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[愛の貧乏脱出大作戦](https://ja.wikipedia.org/wiki/愛の貧乏脱出大作戦 "wikilink")』エンディングテーマ |                                                                                          |                                                                                   |
-| undo                                                                                                                               | [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[U・S](../Page/U・S.md "wikilink")改』CART中継イメージソング |                                                                                   |
-| 2008年                                                                                                                              | waltz                                                                                    | テレビ東京系『[開運\!なんでも鑑定団](../Page/開運!なんでも鑑定団.md "wikilink")』エンディングテーマ                  |
-| 2010年                                                                                                                              | 無敵の海へ The Fishes                                                                         | [WOWOW](../Page/WOWOW.md "wikilink")ヨーロッパサッカー番組・全豪オープンテニス番組イメージソング                |
-| fu・wa・ri                                                                                                                           | [福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")広報テレビ番組テーマ曲                           |                                                                                   |
-| 2011年 - 2012年                                                                                                                      | [遠くへ行きたい](https://ja.wikipedia.org/wiki/遠くへ行きたい_\(曲\) "wikilink")                        | 日本テレビ系『[遠くへ行きたい](https://ja.wikipedia.org/wiki/遠くへ行きたい_\(テレビ番組\) "wikilink")』テーマ曲 |
-|                                                                                                                                    |                                                                                          |                                                                                   |
+| 年                                                                                                               | タイアップ曲                                                                                   | タイアップ先                                                             |
+| --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| 1984年                                                                                                           | [ふたりの愛ランド](https://ja.wikipedia.org/wiki/ふたりの愛ランド "wikilink")                            | [JAL](../Page/日本航空.md "wikilink") '84 沖縄キャンペーンソング                  |
+| 2011年                                                                                                           | [ミスタードーナツ](https://ja.wikipedia.org/wiki/ミスタードーナツ "wikilink")「クールミスド」CMソング               |                                                                    |
+| 1998年                                                                                                           | トウキョータワー                                                                                 | [NEC](../Page/日本電気.md "wikilink") 企業CMソング                          |
+| [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[愛の貧乏脱出大作戦](../Page/愛の貧乏脱出大作戦.md "wikilink")』エンディングテーマ |                                                                                          |                                                                    |
+| undo                                                                                                            | [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[U・S](../Page/U・S.md "wikilink")改』CART中継イメージソング |                                                                    |
+| 2008年                                                                                                           | waltz                                                                                    | テレビ東京系『[開運\!なんでも鑑定団](../Page/開運!なんでも鑑定団.md "wikilink")』エンディングテーマ   |
+| 2010年                                                                                                           | 無敵の海へ The Fishes                                                                         | [WOWOW](../Page/WOWOW.md "wikilink")ヨーロッパサッカー番組・全豪オープンテニス番組イメージソング |
+| fu・wa・ri                                                                                                        | [福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")広報テレビ番組テーマ曲                           |                                                                    |
+| 2011年 - 2012年                                                                                                   | [遠くへ行きたい](../Page/遠くへ行きたい_\(曲\).md "wikilink")                                           | 日本テレビ系『[遠くへ行きたい](../Page/遠くへ行きたい_\(テレビ番組\).md "wikilink")』テーマ曲     |
+|                                                                                                                 |                                                                                          |                                                                    |
 
 ## メディア出演
 
@@ -2125,7 +2125,7 @@ Chage ライブステージ</strong></p></td>
   - CHAGEの[ラジ王](../Page/ラジ王.md "wikilink") （1994年4月5日 - 1995年2月28日、TOKYO FM）
   - CHAGEのTreasure Box （1998年4月6日 - 2000年12月25日、TOKYO FM）
       - 1998年4月 - 1999年3月 『[DEEPER STREET](../Page/DEEPER_STREET.md "wikilink")-』
-      - 1999年4月 - 2000年12月 『[ラジオ黄金時代](https://ja.wikipedia.org/wiki/ラジオ黄金時代 "wikilink")-』
+      - 1999年4月 - 2000年12月 『[ラジオ黄金時代](../Page/ラジオ黄金時代.md "wikilink")-』
   - 今夜はチャゲラッチョ （2003年7月7日 - 2003年12月29日、[AIR-G'](../Page/エフエム北海道.md "wikilink")）
   - [DAY BREAK FRIDAY -CHAGEのDAYBREAK TIME-](https://ja.wikipedia.org/wiki/DAY_BREAK_\(ラジオ番組\)#DAY_BREAK_FRIDAY "wikilink") （2007年4月6日 - 2010年3月26日、[JFN系](../Page/全国FM放送協議会.md "wikilink")）
   - Chageの音道 （2010年4月4日 - 、JFN系）
@@ -2140,7 +2140,7 @@ Chage ライブステージ</strong></p></td>
   - P-STOCK （1998年4月17日 - 1998年9月25日、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
   - コラボ☆ラボ〜夢の音楽工房〜 （2008年4月8日 - 2009年3月24日、[WOWOW](../Page/WOWOW.md "wikilink")）
   - Mライブ （2009年4月28日 - 2010年3月23日、[TBS](../Page/TBSテレビ.md "wikilink")）
-  - [しゃべくりDJ Chageのミュージックアワー](https://ja.wikipedia.org/wiki/しゃべくりDJ_Chageのミュージックアワー "wikilink")\! （2016年11月9日 - 、[歌謡ポップスチャンネル](https://ja.wikipedia.org/wiki/歌謡ポップスチャンネル "wikilink")）
+  - [しゃべくりDJ Chageのミュージックアワー](https://ja.wikipedia.org/wiki/しゃべくりDJ_Chageのミュージックアワー "wikilink")\! （2016年11月9日 - 、[歌謡ポップスチャンネル](../Page/歌謡ポップスチャンネル.md "wikilink")）
 
 <!-- end list -->
 
@@ -2242,7 +2242,7 @@ Chage ライブステージ</strong></p></td>
 11.
 12.
 13.
-14. [ビートルズ](../Page/ビートルズ.md "wikilink")の作品の中でも特に『[アビイ・ロード](https://ja.wikipedia.org/wiki/アビイ・ロード "wikilink")』がお気に入りであり、2000年1月1日に放送された[テレビ朝日](../Page/テレビ朝日.md "wikilink")系『ミュージックステーション　ミレニアムSP』にCHAGE\&ASKAとして出演した際には、「21世紀に残したい曲」として「曲は選べないが、アルバムなら『アビイ・ロード』ですね。」と話していた。
+14. [ビートルズ](../Page/ビートルズ.md "wikilink")の作品の中でも特に『[アビイ・ロード](../Page/アビイ・ロード.md "wikilink")』がお気に入りであり、2000年1月1日に放送された[テレビ朝日](../Page/テレビ朝日.md "wikilink")系『ミュージックステーション　ミレニアムSP』にCHAGE\&ASKAとして出演した際には、「21世紀に残したい曲」として「曲は選べないが、アルバムなら『アビイ・ロード』ですね。」と話していた。
 15.
 16. [松井五郎](https://ja.wikipedia.org/wiki/松井五郎 "wikilink")は、チャゲ&飛鳥が1981年に発売したアルバム『[熱風](https://ja.wikipedia.org/wiki/熱風_\(CHAGE_and_ASKAのアルバム\) "wikilink")』で作詞家デビュー。以後、[長渕剛](../Page/長渕剛.md "wikilink")・[安全地帯](../Page/安全地帯_\(ロックバンド\).md "wikilink")・[工藤静香](../Page/工藤静香.md "wikilink")・[氷室京介](../Page/氷室京介.md "wikilink")・[田村ゆかり](https://ja.wikipedia.org/wiki/田村ゆかり "wikilink")など数多くのアーティストに詞を提供している。
 17.

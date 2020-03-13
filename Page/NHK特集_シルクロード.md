@@ -1,7 +1,7 @@
 > この記事は[NHK ](https://ja.wikipedia.org/wiki/NHK_)から翻訳されています。
 
 
-『**NHK特集 シルクロード**』（エヌエイチケイとくしゅう シルクロード）は、[1980年代](../Page/1980年代.md "wikilink")前半と[1988年](../Page/1988年.md "wikilink")から[1989年](../Page/1989年.md "wikilink")に、[NHK総合テレビの](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")『[NHK特集](../Page/NHKスペシャル.md "wikilink")』で、毎月1回放送されたシリーズ・ドキュメンタリー。
+『**NHK特集 シルクロード**』（エヌエイチケイとくしゅう シルクロード）は、[1980年代](../Page/1980年代.md "wikilink")前半と[1988年](../Page/1988年.md "wikilink")から[1989年](../Page/1989年.md "wikilink")に、[NHK総合テレビの](../Page/NHK総合テレビジョン.md "wikilink")『[NHK特集](../Page/NHKスペシャル.md "wikilink")』で、毎月1回放送されたシリーズ・ドキュメンタリー。
 
 本項目では、以下についても記載する。
 
@@ -11,7 +11,7 @@
 
 ## 番組概要
 
-[1979年](../Page/1979年.md "wikilink")から[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")にかけ取材し、NHKと[中国中央電視台](https://ja.wikipedia.org/wiki/中国中央電視台 "wikilink")により[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")・[西安](https://ja.wikipedia.org/wiki/西安 "wikilink")を出発点に、中国領内[シルクロード](../Page/シルクロード.md "wikilink")の共同取材が行われ、全12回シリーズ『日中共同制作**シルクロード 絲綢之路**』\[1\] が、1980年4月から1年間放送された。
+[1979年](../Page/1979年.md "wikilink")から[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")にかけ取材し、NHKと[中国中央電視台](../Page/中国中央電視台.md "wikilink")により[中国](../Page/中国.md "wikilink")・[西安](https://ja.wikipedia.org/wiki/西安 "wikilink")を出発点に、中国領内[シルクロード](../Page/シルクロード.md "wikilink")の共同取材が行われ、全12回シリーズ『日中共同制作**シルクロード 絲綢之路**』\[1\] が、1980年4月から1年間放送された。
 
 中国以西の取材に向け数年間交渉し、さらに[インド](../Page/インド.md "wikilink")・[ユーラシア大陸](https://ja.wikipedia.org/wiki/ユーラシア大陸 "wikilink")（[中央アジア](../Page/中央アジア.md "wikilink")）・[アナトリア半島](../Page/アナトリア半島.md "wikilink")・[地中海](../Page/地中海.md "wikilink")から[ローマ](../Page/ローマ.md "wikilink")へ至る道を紹介した『**シルクロード第2部 ローマへの道**』\[2\]が製作され、全18回が[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")4月から[1984年](../Page/1984年.md "wikilink")9月までシリーズ放送された。
 
@@ -21,7 +21,7 @@
 
 [1980年代](../Page/1980年代.md "wikilink")以降のいわゆる「シルクロードブーム」は、この番組が火付け役となった。また総集編（前編・後編）で放映された。何度もビデオ化され、様々なソフトで出された。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")の放送80年記念事業の一環として、それをデジタルリマスターリングする作業が行われ、[NHKスペシャル](../Page/NHKスペシャル.md "wikilink")「[新・シルクロード](../Page/新・シルクロード.md "wikilink")」の放送に併せ、番組放映された。リマスター版でのDVDセットも販売されている。
+[2005年](../Page/2005年.md "wikilink")の放送80年記念事業の一環として、それをデジタルリマスターリングする作業が行われ、[NHKスペシャル](../Page/NHKスペシャル.md "wikilink")「[新・シルクロード](../Page/新・シルクロード.md "wikilink")」の放送に併せ、番組放映された。リマスター版でのDVDセットも販売されている。
 
 [2019年](../Page/2019年.md "wikilink")9月、[NHK BS4Kの](https://ja.wikipedia.org/wiki/NHK_BS4K "wikilink")『4Kでよみがえるあの番組』内で超高精細の[4K画質](https://ja.wikipedia.org/wiki/4K解像度 "wikilink")[変換と映像修復を施した](https://ja.wikipedia.org/wiki/映像のコンバート#画素変換 "wikilink")4Kリマスター版が初放送された。初回放送は第2部・ローマへの道の「キャラバンは西へ 〜再現・古代隊商の旅〜」。同年11月にはNHK総合テレビにて[2Kに](https://ja.wikipedia.org/wiki/1080i "wikilink")[再変換の上放送された](https://ja.wikipedia.org/wiki/映像のコンバート#ダウンコンバート "wikilink")。
 
@@ -29,7 +29,7 @@
 
 ## 作品リスト
 
-番組ナレーションは**[石坂浩二](../Page/石坂浩二.md "wikilink")**、音楽は**[喜多郎](https://ja.wikipedia.org/wiki/喜多郎 "wikilink")**が担当した。喜多郎は本番組の音楽が評価され、第18回[ギャラクシー賞](../Page/ギャラクシー賞.md "wikilink")・選奨を受賞\[3\]。
+番組ナレーションは**[石坂浩二](../Page/石坂浩二.md "wikilink")**、音楽は**[喜多郎](../Page/喜多郎.md "wikilink")**が担当した。喜多郎は本番組の音楽が評価され、第18回[ギャラクシー賞](../Page/ギャラクシー賞.md "wikilink")・選奨を受賞\[3\]。
 
 ### シルクロード　絲綢之路（全12集）
 
@@ -37,27 +37,27 @@
 2.  [黄河](../Page/黄河.md "wikilink")を越えて 〜[河西回廊](../Page/河西回廊.md "wikilink")1000キロ〜（1980年[5月5日](../Page/5月5日.md "wikilink")）
 3.  [敦煌](../Page/敦煌市.md "wikilink")（1980年[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")）
 4.  幻の[黒水城](https://ja.wikipedia.org/wiki/カラ・ホト "wikilink")（1980年[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")）
-5.  [楼蘭](https://ja.wikipedia.org/wiki/楼蘭 "wikilink")王国を掘る（1980年[8月4日](../Page/8月4日.md "wikilink")）
+5.  [楼蘭](../Page/楼蘭.md "wikilink")王国を掘る（1980年[8月4日](../Page/8月4日.md "wikilink")）
 6.  流砂の道 〜[西域南道](https://ja.wikipedia.org/wiki/西域南道 "wikilink")2000キロ〜（1980年[9月1日](../Page/9月1日.md "wikilink")）
 7.  砂漠の民 〜[ウイグル](../Page/ウイグル.md "wikilink")のオアシス・[ホータン](https://ja.wikipedia.org/wiki/ホータン "wikilink")〜（1980年[10月6日](../Page/10月6日.md "wikilink")）
-8.  熱砂のオアシス [トルファン](https://ja.wikipedia.org/wiki/高昌区 "wikilink")（1980年[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")）
-9.  [天山を貫く](https://ja.wikipedia.org/wiki/天山山脈 "wikilink") 〜[南彊鉄道](../Page/南疆線.md "wikilink")〜（1980年[12月1日](../Page/12月1日.md "wikilink")）
+8.  熱砂のオアシス [トルファン](../Page/高昌区.md "wikilink")（1980年[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")）
+9.  [天山を貫く](../Page/天山山脈.md "wikilink") 〜[南彊鉄道](../Page/南疆線.md "wikilink")〜（1980年[12月1日](../Page/12月1日.md "wikilink")）
 10. [天山南路](https://ja.wikipedia.org/wiki/天山南路 "wikilink") 音楽の旅（1981年[1月5日](../Page/1月5日.md "wikilink")）
 11. 天馬のふるさと 〜[天山北路](https://ja.wikipedia.org/wiki/天山北路 "wikilink")〜（1981年[2月2日](../Page/2月2日.md "wikilink")）
-12. 民族の十字路 〜[カシュガルから](https://ja.wikipedia.org/wiki/カシュガル市 "wikilink")[パミールへ](https://ja.wikipedia.org/wiki/パミール高原 "wikilink")〜（1981年[3月2日](../Page/3月2日.md "wikilink")）
+12. 民族の十字路 〜[カシュガルから](../Page/カシュガル市.md "wikilink")[パミールへ](../Page/パミール高原.md "wikilink")〜（1981年[3月2日](../Page/3月2日.md "wikilink")）
 
 ### シルクロード第2部　ローマへの道（全18集）
 
-1.  [パミールを越えて](https://ja.wikipedia.org/wiki/パミール高原 "wikilink")（1983年[4月4日](../Page/4月4日.md "wikilink")）
+1.  [パミールを越えて](../Page/パミール高原.md "wikilink")（1983年[4月4日](../Page/4月4日.md "wikilink")）
 2.  覇王の道（1983年[5月2日](../Page/5月2日.md "wikilink")）
-3.  秘境[ラダック](https://ja.wikipedia.org/wiki/ラダック "wikilink")（1983年[6月6日](../Page/6月6日.md "wikilink")）
+3.  秘境[ラダック](../Page/ラダック.md "wikilink")（1983年[6月6日](../Page/6月6日.md "wikilink")）
 4.  [玄奘](https://ja.wikipedia.org/wiki/玄奘 "wikilink")三蔵・天竺の旅（1983年[7月4日](../Page/7月4日.md "wikilink")）
 5.  炎熱・[イラン](../Page/イラン.md "wikilink")南道（1983年[8月1日](../Page/8月1日.md "wikilink")）
 6.  砂漠と[コーラン](https://ja.wikipedia.org/wiki/コーラン "wikilink")（1983年[9月5日](../Page/9月5日.md "wikilink")）
 7.  [バグダッドの彼方へ](https://ja.wikipedia.org/wiki/バグダート "wikilink")（1983年[10月3日](../Page/10月3日.md "wikilink")）
-8.  湖底に消えた道 〜幻の[イシククル湖に潜る](https://ja.wikipedia.org/wiki/イシク・クル "wikilink")〜（1983年[11月7日](../Page/11月7日.md "wikilink")）
+8.  湖底に消えた道 〜幻の[イシククル湖に潜る](../Page/イシク・クル.md "wikilink")〜（1983年[11月7日](../Page/11月7日.md "wikilink")）
 9.  大草原をゆく（1983年[12月5日](../Page/12月5日.md "wikilink")）
-10. はるかなる[大宛](https://ja.wikipedia.org/wiki/フェルガナ "wikilink") 〜[天馬を求めて](https://ja.wikipedia.org/wiki/汗血馬 "wikilink")〜（1984年[1月9日](../Page/1月9日.md "wikilink")）
+10. はるかなる[大宛](../Page/フェルガナ.md "wikilink") 〜[天馬を求めて](../Page/汗血馬.md "wikilink")〜（1984年[1月9日](../Page/1月9日.md "wikilink")）
 11. 消えた隊商の民 〜[ソグド](https://ja.wikipedia.org/wiki/ソグド "wikilink")商人を探す〜（1984年[2月6日](../Page/2月6日.md "wikilink")）
 12. 草原の王都 〜[サマルカンド](../Page/サマルカンド.md "wikilink")・ブハラ〜（1984年[3月5日](../Page/3月5日.md "wikilink")）
 13. 灼熱 黒砂漠 〜さいはての仏を求めて〜（1984年[4月2日](../Page/4月2日.md "wikilink")）
@@ -69,7 +69,7 @@
 
 ## もうひとつのシルクロード
 
-1981年4月から9月にかけて、『NHK特集 シルクロード　第1部』で取材したすべての映像素材から新たな視点で30分番組に再編集し、24本が総合テレビで放送された\[4\]。本編と同様、石坂浩二がナレーションを、[喜多郎](https://ja.wikipedia.org/wiki/喜多郎 "wikilink")が音楽を担当した\[5\]。
+1981年4月から9月にかけて、『NHK特集 シルクロード　第1部』で取材したすべての映像素材から新たな視点で30分番組に再編集し、24本が総合テレビで放送された\[4\]。本編と同様、石坂浩二がナレーションを、[喜多郎](../Page/喜多郎.md "wikilink")が音楽を担当した\[5\]。
 
 2011年4月から10月にかけてデジタルリマスターしたものが、BSプレミアムで放送された\[6\]。
 

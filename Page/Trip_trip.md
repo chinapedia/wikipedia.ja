@@ -7,7 +7,7 @@
 
 [レーベル移籍後の初アルバムとなる](../Page/レコードレーベル.md "wikilink")。4thシングル「tomoni」から7thシングル「人間ってそんなものね」までのシングル4曲のほか、9曲のオリジナル曲を収録。「調和」、「tomoni」は民族調の曲、「The rule of the universe」は全編英語歌詞となっている。
 
-本作に収録されている「a gift」は2002年に[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")全域における[スバル](https://ja.wikipedia.org/wiki/スバル "wikilink")TV[CMソングとして起用された](https://ja.wikipedia.org/wiki/コマーシャル "wikilink")。また本作は[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")でも発売されており、同国で発売された特別バージョンには[上海](https://ja.wikipedia.org/wiki/上海 "wikilink")で放映されたKOKIA書き下ろしの[サントリー](../Page/サントリー.md "wikilink")[烏龍茶](https://ja.wikipedia.org/wiki/烏龍茶 "wikilink")CM曲も収録されている。
+本作に収録されている「a gift」は2002年に[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")全域における[スバル](https://ja.wikipedia.org/wiki/スバル "wikilink")TV[CMソングとして起用された](https://ja.wikipedia.org/wiki/コマーシャル "wikilink")。また本作は[中国](../Page/中国.md "wikilink")でも発売されており、同国で発売された特別バージョンには[上海](https://ja.wikipedia.org/wiki/上海 "wikilink")で放映されたKOKIA書き下ろしの[サントリー](../Page/サントリー.md "wikilink")[烏龍茶](../Page/烏龍茶.md "wikilink")CM曲も収録されている。
 
 ## 収録曲
 

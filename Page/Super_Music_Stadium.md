@@ -7,7 +7,7 @@
 
   - 月曜日：[赤坂泰彦](../Page/赤坂泰彦.md "wikilink")
   - 火曜日：[松山千春](../Page/松山千春.md "wikilink")
-  - 水曜日：[坂上みき](https://ja.wikipedia.org/wiki/坂上みき "wikilink")
+  - 水曜日：[坂上みき](../Page/坂上みき.md "wikilink")
   - 木曜日：[小林克也](../Page/小林克也.md "wikilink")
   - 金曜日：[吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")
 
@@ -17,7 +17,7 @@
 
 19:00～21:00
 
-  - [STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")（当時は[札幌テレビが運営](https://ja.wikipedia.org/wiki/札幌テレビ放送 "wikilink")）、[茨城放送](../Page/茨城放送.md "wikilink")、[栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink")、[東海ラジオ](../Page/東海ラジオ放送.md "wikilink")、[西日本放送](../Page/西日本放送.md "wikilink")、[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")、[ラジオ沖縄](https://ja.wikipedia.org/wiki/ラジオ沖縄 "wikilink")
+  - [STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")（当時は[札幌テレビが運営](../Page/札幌テレビ放送.md "wikilink")）、[茨城放送](../Page/茨城放送.md "wikilink")、[栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink")、[東海ラジオ](../Page/東海ラジオ放送.md "wikilink")、[西日本放送](../Page/西日本放送.md "wikilink")、[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")、[ラジオ沖縄](https://ja.wikipedia.org/wiki/ラジオ沖縄 "wikilink")
 
 19:00～20:00
 

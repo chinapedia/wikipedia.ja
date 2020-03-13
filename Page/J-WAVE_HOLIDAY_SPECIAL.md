@@ -1,7 +1,7 @@
 > この記事は[J-WAVE HOLIDAY SPECIAL](https://ja.wikipedia.org/wiki/J-WAVE_HOLIDAY_SPECIAL)から翻訳されています。
 
 
-『**J-WAVE HOLIDAY SPECIAL**』（ジェイ・ウェーブ・ホリデー・スペシャル）は、[J-WAVE](../Page/J-WAVE.md "wikilink")が放送する長時間の特別番組の総称である。略称は『**ホリスペ**』\[1\]。基本の放送枠は[祝日](../Page/国民の祝日.md "wikilink")・[休日となる平日及び](../Page/振替休日.md "wikilink")[年末年始](https://ja.wikipedia.org/wiki/年末年始 "wikilink")の9:00-17:55であり、18:00以降は通常編成に戻るがその他の特別番組を放送する場合もある。
+『**J-WAVE HOLIDAY SPECIAL**』（ジェイ・ウェーブ・ホリデー・スペシャル）は、[J-WAVE](../Page/J-WAVE.md "wikilink")が放送する長時間の特別番組の総称である。略称は『**ホリスペ**』\[1\]。基本の放送枠は[祝日](../Page/国民の祝日.md "wikilink")・[休日となる平日及び](../Page/振替休日.md "wikilink")[年末年始](../Page/年末年始.md "wikilink")の9:00-17:55であり、18:00以降は通常編成に戻るがその他の特別番組を放送する場合もある。
 
 [ゴールデンウィーク](https://ja.wikipedia.org/wiki/ゴールデンウィーク "wikilink")期間中は『**J-WAVE GOLDEN WEEK SPECIAL**』（ジェイ・ウェーブ・ゴールデン・ウィーク・スペシャル）、年末年始は『**J-WAVE** YEAR END（NEW YEAR） **SPECIAL**』（ジェイ・ウェーブ・イヤー・エンド・スペシャル、年が改まってからは「ニュー・イヤー」）の各名称となる。
 
@@ -28,7 +28,7 @@
 <!-- end list -->
 
   -
-    [ルーシー・ケント](https://ja.wikipedia.org/wiki/ルーシー・ケント "wikilink")、[金子奈緒](../Page/金子奈緒.md "wikilink")
+    [ルーシー・ケント](../Page/ルーシー・ケント.md "wikilink")、[金子奈緒](../Page/金子奈緒.md "wikilink")
 
 <!-- end list -->
 
@@ -37,7 +37,7 @@
 <!-- end list -->
 
   -
-    [福ノ上達也](../Page/福ノ上達也.md "wikilink")/[長谷川理恵](https://ja.wikipedia.org/wiki/長谷川理恵 "wikilink")（Part1）、[玲葉奈](https://ja.wikipedia.org/wiki/Leyona "wikilink")（Part2）、[LISA](../Page/LISA_\(歌手\).md "wikilink")（Part3）
+    [福ノ上達也](../Page/福ノ上達也.md "wikilink")/[長谷川理恵](https://ja.wikipedia.org/wiki/長谷川理恵 "wikilink")（Part1）、[玲葉奈](../Page/Leyona.md "wikilink")（Part2）、[LISA](../Page/LISA_\(歌手\).md "wikilink")（Part3）
 
 <!-- end list -->
 
@@ -55,7 +55,7 @@
 <!-- end list -->
 
   -
-    [南美布](https://ja.wikipedia.org/wiki/南美布 "wikilink")
+    [南美布](../Page/南美布.md "wikilink")
 
 <!-- end list -->
 
@@ -64,7 +64,7 @@
 <!-- end list -->
 
   -
-    [bird](https://ja.wikipedia.org/wiki/bird_\(日本の歌手\) "wikilink")、[大槻りこ](../Page/大槻りこ.md "wikilink")(Part1)/[平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink")、[クリス智子](https://ja.wikipedia.org/wiki/クリス智子 "wikilink")(Part2)/[川上つよし](https://ja.wikipedia.org/wiki/川上つよし "wikilink")、[田中知之](../Page/Fantastic_Plastic_Machine.md "wikilink")(Part3)
+    [bird](https://ja.wikipedia.org/wiki/bird_\(日本の歌手\) "wikilink")、[大槻りこ](../Page/大槻りこ.md "wikilink")(Part1)/[平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink")、[クリス智子](../Page/クリス智子.md "wikilink")(Part2)/[川上つよし](https://ja.wikipedia.org/wiki/川上つよし "wikilink")、[田中知之](../Page/Fantastic_Plastic_Machine.md "wikilink")(Part3)
 
 <!-- end list -->
 
@@ -110,7 +110,7 @@
 <!-- end list -->
 
   -
-    bird、[秀島史香](https://ja.wikipedia.org/wiki/秀島史香 "wikilink")
+    bird、[秀島史香](../Page/秀島史香.md "wikilink")
 
 <!-- end list -->
 
@@ -121,13 +121,13 @@
   -
     [小山薫堂](../Page/小山薫堂.md "wikilink")、クリス智子
     [6 P.M.のクリスマス特別版として放送](../Page/AJINOMOTO_6_P.M..md "wikilink")
-    J-WAVE、ZIP-FM、FM802の[同一企画別番組放送](https://ja.wikipedia.org/wiki/企画ネット番組 "wikilink")
+    J-WAVE、ZIP-FM、FM802の[同一企画別番組放送](../Page/企画ネット番組.md "wikilink")
 
 <!-- end list -->
 
   - 12月31日 THE DOCUMENT 2002-03 TALK ABOUT MUSIC\!（9:00-翌9:00）
       - 9:00-17:55 [MITSUBISHI MOTORS COLT](../Page/三菱・コルト.md "wikilink") presents TOKYO JUKEBOX - クリス・ペプラー、[DJ DRAGON](../Page/DJ_DRAGON.md "wikilink")
-      - 18:00-翌0:30 THE TOKYO SOUND PARTY - [君嶋ゆかり](../Page/君嶋ゆかり.md "wikilink")、秀島史香、DJ TARO、Sascha、[ピストン西沢](https://ja.wikipedia.org/wiki/ピストン西沢 "wikilink")
+      - 18:00-翌0:30 THE TOKYO SOUND PARTY - [君嶋ゆかり](../Page/君嶋ゆかり.md "wikilink")、秀島史香、DJ TARO、Sascha、[ピストン西沢](../Page/ピストン西沢.md "wikilink")
       - 0:30-2:00 MITSUBISHI MOTORS presents SOUL TRAIN - [RYU](https://ja.wikipedia.org/wiki/RYU_\(DJ\) "wikilink")
       - 2:00-9:00 THE SESSION - 渡辺祐、[みんしる](../Page/みんしる.md "wikilink")、[小林紀美](https://ja.wikipedia.org/wiki/小林紀美 "wikilink")
 
@@ -209,7 +209,7 @@
 
 <!-- end list -->
 
-  - 9月15日 [LOUIS VUITTON](https://ja.wikipedia.org/wiki/ルイ・ヴィトン "wikilink") presents MIRAGE OF MUSIC (9:00-17:55)
+  - 9月15日 [LOUIS VUITTON](../Page/ルイ・ヴィトン.md "wikilink") presents MIRAGE OF MUSIC (9:00-17:55)
 
 <!-- end list -->
 
@@ -333,7 +333,7 @@
 <!-- end list -->
 
   -
-    クリス智子(Part1,[BOOM TOWN](https://ja.wikipedia.org/wiki/BOOM_TOWN "wikilink"))/南美布(Part2,[VIVA\! ACCESS](../Page/VIVA!_ACCESS.md "wikilink"))/金子奈緒(Part3,[PRIME ANGLE](../Page/PRIME_ANGLE.md "wikilink"))/[宮沢和史](https://ja.wikipedia.org/wiki/宮沢和史 "wikilink")(Part4)
+    クリス智子(Part1,[BOOM TOWN](../Page/BOOM_TOWN.md "wikilink"))/南美布(Part2,[VIVA\! ACCESS](../Page/VIVA!_ACCESS.md "wikilink"))/金子奈緒(Part3,[PRIME ANGLE](../Page/PRIME_ANGLE.md "wikilink"))/[宮沢和史](../Page/宮沢和史.md "wikilink")(Part4)
     5:00-23:50の時間帯は「SPECIAL OTO 1DAY」として放送
 
 <!-- end list -->
@@ -584,7 +584,7 @@
 <!-- end list -->
 
   -
-    [VieVie](https://ja.wikipedia.org/wiki/VieVie "wikilink")(Part1,[RENDEZ-VOUS](../Page/RENDEZ-VOUS.md "wikilink"))/クリス智子(Part2,[BOOM TOWN](https://ja.wikipedia.org/wiki/BOOM_TOWN "wikilink"))/[野村友里](https://ja.wikipedia.org/wiki/野村友里 "wikilink")、[ペオ・エクベリ](https://ja.wikipedia.org/wiki/ペオ・エクベリ "wikilink")(Part3,[LOHAS SUNDAY](../Page/LOHAS_SUNDAY.md "wikilink"))
+    [VieVie](https://ja.wikipedia.org/wiki/VieVie "wikilink")(Part1,[RENDEZ-VOUS](../Page/RENDEZ-VOUS.md "wikilink"))/クリス智子(Part2,[BOOM TOWN](../Page/BOOM_TOWN.md "wikilink"))/[野村友里](https://ja.wikipedia.org/wiki/野村友里 "wikilink")、[ペオ・エクベリ](https://ja.wikipedia.org/wiki/ペオ・エクベリ "wikilink")(Part3,[LOHAS SUNDAY](../Page/LOHAS_SUNDAY.md "wikilink"))
 
 <!-- end list -->
 
@@ -978,7 +978,7 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 
 <!-- end list -->
 
-  - 9月23日 [UHA Mikakuto](https://ja.wikipedia.org/wiki/味覚糖 "wikilink") presents BEAUTY SURPRISE (9:00-17:55)
+  - 9月23日 [UHA Mikakuto](../Page/味覚糖.md "wikilink") presents BEAUTY SURPRISE (9:00-17:55)
 
 <!-- end list -->
 
@@ -1053,7 +1053,7 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 
 <div class="NavContent" style="text-align: left;">
 
-  - 1月1日 [OH\! MY RADIO](https://ja.wikipedia.org/wiki/OH!_MY_RADIO "wikilink") 〜FOR MY DREAM （1:00-7:00）
+  - 1月1日 [OH\! MY RADIO](../Page/OH!_MY_RADIO.md "wikilink") 〜FOR MY DREAM （1:00-7:00）
 
 <!-- end list -->
 
@@ -1468,8 +1468,8 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 <!-- end list -->
 
   -
-    [杏子](https://ja.wikipedia.org/wiki/杏子_\(ミュージシャン\) "wikilink")、[元ちとせ](https://ja.wikipedia.org/wiki/元ちとせ "wikilink")、[さかいゆう](https://ja.wikipedia.org/wiki/さかいゆう "wikilink")
-    [クリス智子](https://ja.wikipedia.org/wiki/クリス智子 "wikilink")（2月14日 - 17日 [CURIOUS内](https://ja.wikipedia.org/wiki/CURIOUS_\(ラジオ番組\) "wikilink")）
+    [杏子](../Page/杏子_\(ミュージシャン\).md "wikilink")、[元ちとせ](https://ja.wikipedia.org/wiki/元ちとせ "wikilink")、[さかいゆう](https://ja.wikipedia.org/wiki/さかいゆう "wikilink")
+    [クリス智子](../Page/クリス智子.md "wikilink")（2月14日 - 17日 [CURIOUS内](https://ja.wikipedia.org/wiki/CURIOUS_\(ラジオ番組\) "wikilink")）
 
 <!-- end list -->
 
@@ -1479,7 +1479,7 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 
   -
     19日 17:00-21:00 [DJ TARO](../Page/DJ_TARO.md "wikilink")、21:00-翌日1:00 [ショーンK](https://ja.wikipedia.org/wiki/ショーンK "wikilink")、[レイチェル・チャン](../Page/レイチェル・チャン.md "wikilink")
-    20日 17:00-21:00 [ピストン西沢](https://ja.wikipedia.org/wiki/ピストン西沢 "wikilink")、21:00-翌1:00 [八木亜希子](../Page/八木亜希子.md "wikilink")
+    20日 17:00-21:00 [ピストン西沢](../Page/ピストン西沢.md "wikilink")、21:00-翌1:00 [八木亜希子](../Page/八木亜希子.md "wikilink")
     本来は21日に『[TOKYO DISNEY RESORT](../Page/東京ディズニーリゾート.md "wikilink") presents HAPPY WONDERLAND』(9:00-17:55、[宮本絢子](../Page/宮本絢子.md "wikilink"))と、『[JR EAST](../Page/東日本旅客鉄道.md "wikilink") presents [SOUND TRAIN](https://ja.wikipedia.org/wiki/SOUND_TRAIN "wikilink") \~NORTHBOUND TO [AOMORI](https://ja.wikipedia.org/wiki/青森県 "wikilink") PART2\~』(18:00-19:55、[奥貫薫](https://ja.wikipedia.org/wiki/奥貫薫 "wikilink"))が放送される予定だったが、11日に発生した地震の特番の編成に伴って変更された。よって、9:00-20:00は通常の月曜編成となる。
 
 <!-- end list -->
@@ -1517,7 +1517,7 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 
   -
     アンカーマン：ジョン・カビラ
-    スペシャルレポーター：[浜崎貴司](../Page/浜崎貴司.md "wikilink")([FLYING KIDS](https://ja.wikipedia.org/wiki/FLYING_KIDS "wikilink")) at [台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")
+    スペシャルレポーター：[浜崎貴司](../Page/浜崎貴司.md "wikilink")([FLYING KIDS](../Page/FLYING_KIDS.md "wikilink")) at [台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")
 
 <!-- end list -->
 
@@ -1631,7 +1631,7 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 
 <!-- end list -->
 
-  - 11月23日 ETERNAL HARMONY 〜[サントリーホール](https://ja.wikipedia.org/wiki/サントリーホール "wikilink")の25年〜 (18:00-19:55)
+  - 11月23日 ETERNAL HARMONY 〜[サントリーホール](../Page/サントリーホール.md "wikilink")の25年〜 (18:00-19:55)
 
 <!-- end list -->
 
@@ -1647,7 +1647,7 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 <!-- end list -->
 
   -
-    DJ TARO、[秀島史香](https://ja.wikipedia.org/wiki/秀島史香 "wikilink")
+    DJ TARO、[秀島史香](../Page/秀島史香.md "wikilink")
 
 <!-- end list -->
 
@@ -1714,7 +1714,7 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 <!-- end list -->
 
   -
-    [秀島史香](https://ja.wikipedia.org/wiki/秀島史香 "wikilink")
+    [秀島史香](../Page/秀島史香.md "wikilink")
 
 <!-- end list -->
 
@@ -1741,7 +1741,7 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 <!-- end list -->
 
   -
-    [ピストン西沢](https://ja.wikipedia.org/wiki/ピストン西沢 "wikilink")、[松嶋初音](../Page/松嶋初音.md "wikilink")
+    [ピストン西沢](../Page/ピストン西沢.md "wikilink")、[松嶋初音](../Page/松嶋初音.md "wikilink")
 
 <!-- end list -->
 
@@ -1750,7 +1750,7 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 <!-- end list -->
 
   -
-    [山田玲奈](https://ja.wikipedia.org/wiki/山田玲奈 "wikilink")
+    [山田玲奈](../Page/山田玲奈.md "wikilink")
 
 <!-- end list -->
 
@@ -1915,7 +1915,7 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 <!-- end list -->
 
   -
-    [クリス智子](https://ja.wikipedia.org/wiki/クリス智子 "wikilink")、[Jake Shimabukuro](https://ja.wikipedia.org/wiki/ジェイク・シマブクロ "wikilink")
+    [クリス智子](../Page/クリス智子.md "wikilink")、[Jake Shimabukuro](../Page/ジェイク・シマブクロ.md "wikilink")
 
 <!-- end list -->
 
@@ -1982,7 +1982,7 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 <!-- end list -->
 
   -
-    [小山薫堂](../Page/小山薫堂.md "wikilink")、[クリス智子](https://ja.wikipedia.org/wiki/クリス智子 "wikilink")
+    [小山薫堂](../Page/小山薫堂.md "wikilink")、[クリス智子](../Page/クリス智子.md "wikilink")
 
 <!-- end list -->
 
@@ -1991,7 +1991,7 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 <!-- end list -->
 
   -
-    [福岡伸一](https://ja.wikipedia.org/wiki/福岡伸一 "wikilink")、[秀島史香](https://ja.wikipedia.org/wiki/秀島史香 "wikilink")
+    [福岡伸一](../Page/福岡伸一.md "wikilink")、[秀島史香](../Page/秀島史香.md "wikilink")
 
 <!-- end list -->
 
@@ -2055,7 +2055,7 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 <!-- end list -->
 
   -
-    クリス智子、[ジェイク・シマブクロ](https://ja.wikipedia.org/wiki/ジェイク・シマブクロ "wikilink")
+    クリス智子、[ジェイク・シマブクロ](../Page/ジェイク・シマブクロ.md "wikilink")
 
 <!-- end list -->
 
@@ -2206,7 +2206,7 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 
 <!-- end list -->
 
-  - 12月31日 J-WAVE YEAR END SPECIAL [TOKIO HOT 100 THE ANNUAL COUNTDOWN 〜SLAM JAM 2013](https://ja.wikipedia.org/wiki/TOKIO_HOT_100 "wikilink") (9:00-17:55)
+  - 12月31日 J-WAVE YEAR END SPECIAL [TOKIO HOT 100 THE ANNUAL COUNTDOWN 〜SLAM JAM 2013](../Page/TOKIO_HOT_100.md "wikilink") (9:00-17:55)
 
 <!-- end list -->
 
@@ -2286,7 +2286,7 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 <!-- end list -->
 
   -
-    [小山薫堂](../Page/小山薫堂.md "wikilink")、[クリス智子](https://ja.wikipedia.org/wiki/クリス智子 "wikilink")
+    [小山薫堂](../Page/小山薫堂.md "wikilink")、[クリス智子](../Page/クリス智子.md "wikilink")
 
 <!-- end list -->
 
@@ -2304,7 +2304,7 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 <!-- end list -->
 
   -
-    別所哲也、[秀島史香](https://ja.wikipedia.org/wiki/秀島史香 "wikilink")
+    別所哲也、[秀島史香](../Page/秀島史香.md "wikilink")
     [FM NORTH WAVE](../Page/エフエム・ノースウェーブ.md "wikilink")、[ZIP-FM](../Page/ZIP-FM.md "wikilink")、[FM COCOLO](../Page/FM_COCOLO.md "wikilink")、[CROSS FMと同時生放送](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")。
 
 <!-- end list -->
@@ -2332,7 +2332,7 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 <!-- end list -->
 
   -
-    [ピストン西沢](https://ja.wikipedia.org/wiki/ピストン西沢 "wikilink")
+    [ピストン西沢](../Page/ピストン西沢.md "wikilink")
 
 <!-- end list -->
 
@@ -2453,7 +2453,7 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 <!-- end list -->
 
   -
-    [小山薫堂](../Page/小山薫堂.md "wikilink")、[クリス智子](https://ja.wikipedia.org/wiki/クリス智子 "wikilink")
+    [小山薫堂](../Page/小山薫堂.md "wikilink")、[クリス智子](../Page/クリス智子.md "wikilink")
 
 <!-- end list -->
 
@@ -2462,7 +2462,7 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 <!-- end list -->
 
   -
-    [秀島史香](https://ja.wikipedia.org/wiki/秀島史香 "wikilink")
+    [秀島史香](../Page/秀島史香.md "wikilink")
 
 <!-- end list -->
 
@@ -2552,7 +2552,7 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 <!-- end list -->
 
   -
-    [ピストン西沢](https://ja.wikipedia.org/wiki/ピストン西沢 "wikilink")
+    [ピストン西沢](../Page/ピストン西沢.md "wikilink")
 
 <!-- end list -->
 
@@ -2606,7 +2606,7 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 <!-- end list -->
 
   -
-    [川畑要](https://ja.wikipedia.org/wiki/川畑要 "wikilink")
+    [川畑要](../Page/川畑要.md "wikilink")
 
 <!-- end list -->
 
@@ -2619,7 +2619,7 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 
 <!-- end list -->
 
-  - 9月23日 J-WAVE SPECIAL [AMERICAN EXPRESS](../Page/アメリカン・エキスプレス.md "wikilink") PPRECIOUS MOMENTS WITH [JAKE SHIMABUKURO](https://ja.wikipedia.org/wiki/ジェイク・シマブクロ "wikilink") (18:00-19:55)
+  - 9月23日 J-WAVE SPECIAL [AMERICAN EXPRESS](../Page/アメリカン・エキスプレス.md "wikilink") PPRECIOUS MOMENTS WITH [JAKE SHIMABUKURO](../Page/ジェイク・シマブクロ.md "wikilink") (18:00-19:55)
 
 <!-- end list -->
 
@@ -2642,7 +2642,7 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 <!-- end list -->
 
   -
-    レイチェル・チャン、[ジャイルス・ピーターソン](https://ja.wikipedia.org/wiki/ジャイルス・ピーターソン "wikilink")
+    レイチェル・チャン、[ジャイルス・ピーターソン](../Page/ジャイルス・ピーターソン.md "wikilink")
 
 <!-- end list -->
 
@@ -2674,7 +2674,7 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 
 <!-- end list -->
 
-  - 12月31日 [SAISON CARD](../Page/クレディセゾン.md "wikilink") [TOKIO HOT 100](https://ja.wikipedia.org/wiki/TOKIO_HOT_100 "wikilink") THE ANNUAL COUNT-DOWN〜SLAM JAM 2015 (9:00-17:55)
+  - 12月31日 [SAISON CARD](../Page/クレディセゾン.md "wikilink") [TOKIO HOT 100](../Page/TOKIO_HOT_100.md "wikilink") THE ANNUAL COUNT-DOWN〜SLAM JAM 2015 (9:00-17:55)
 
 <!-- end list -->
 
@@ -2745,7 +2745,7 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 <!-- end list -->
 
   -
-    [小山薫堂](../Page/小山薫堂.md "wikilink")、[クリス智子](https://ja.wikipedia.org/wiki/クリス智子 "wikilink")
+    [小山薫堂](../Page/小山薫堂.md "wikilink")、[クリス智子](../Page/クリス智子.md "wikilink")
 
 <!-- end list -->
 
@@ -2781,7 +2781,7 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 <!-- end list -->
 
   -
-    [ピストン西沢](https://ja.wikipedia.org/wiki/ピストン西沢 "wikilink")
+    [ピストン西沢](../Page/ピストン西沢.md "wikilink")
 
 <!-- end list -->
 
@@ -2941,7 +2941,7 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 <!-- end list -->
 
   -
-    [小林高鹿](https://ja.wikipedia.org/wiki/小林高鹿 "wikilink")、[京晋佑](https://ja.wikipedia.org/wiki/京晋佑 "wikilink") / [木野花](https://ja.wikipedia.org/wiki/木野花 "wikilink")、[安田佑子](../Page/安田佑子.md "wikilink") / [児玉貴志](https://ja.wikipedia.org/wiki/児玉貴志 "wikilink")、[加藤直美](https://ja.wikipedia.org/wiki/加藤直美 "wikilink")
+    [小林高鹿](https://ja.wikipedia.org/wiki/小林高鹿 "wikilink")、[京晋佑](https://ja.wikipedia.org/wiki/京晋佑 "wikilink") / [木野花](../Page/木野花.md "wikilink")、[安田佑子](../Page/安田佑子.md "wikilink") / [児玉貴志](https://ja.wikipedia.org/wiki/児玉貴志 "wikilink")、[加藤直美](https://ja.wikipedia.org/wiki/加藤直美 "wikilink")
 
 <!-- end list -->
 
@@ -3288,7 +3288,7 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 <!-- end list -->
 
   -
-    [渡辺祐](../Page/渡辺祐.md "wikilink")、[山田玲奈](https://ja.wikipedia.org/wiki/山田玲奈 "wikilink")
+    [渡辺祐](../Page/渡辺祐.md "wikilink")、[山田玲奈](../Page/山田玲奈.md "wikilink")
 
 <!-- end list -->
 
@@ -3414,7 +3414,7 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 <!-- end list -->
 
   -
-    ショーンK、[クリス智子](https://ja.wikipedia.org/wiki/クリス智子 "wikilink")
+    ショーンK、[クリス智子](../Page/クリス智子.md "wikilink")
 
 <!-- end list -->
 
@@ -3679,7 +3679,7 @@ eighteen＝18歳をテーマに様々な内容の番組を放送する。
 <!-- end list -->
 
   -
-    ナビゲーター、[秀島史香](https://ja.wikipedia.org/wiki/秀島史香 "wikilink")
+    ナビゲーター、[秀島史香](../Page/秀島史香.md "wikilink")
     ゲスト、[坂本龍一](../Page/坂本龍一.md "wikilink")、[別所哲也](../Page/別所哲也.md "wikilink")、[GAKU-MC](../Page/GAKU-MC.md "wikilink")、[シンリズム](https://ja.wikipedia.org/wiki/シンリズム "wikilink")（シンガーソングライター）
 
 <!-- end list -->

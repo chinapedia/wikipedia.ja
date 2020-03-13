@@ -1,7 +1,7 @@
 > この記事は[EARTH \(\)](https://ja.wikipedia.org/wiki/EARTH_\(\))から翻訳されています。
 
 
-**EARTH**（アース）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性3人組[ダンス＆ボーカルユニット](../Page/音楽ユニット.md "wikilink")。[ライジングプロダクション](../Page/ライジングプロダクション.md "wikilink")所属。レーベルは[SONIC GROOVE](../Page/SONIC_GROOVE.md "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に解散した。
+**EARTH**（アース）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性3人組[ダンス＆ボーカルユニット](../Page/音楽ユニット.md "wikilink")。[ライジングプロダクション](../Page/ライジングプロダクション.md "wikilink")所属。レーベルは[SONIC GROOVE](../Page/SONIC_GROOVE.md "wikilink")。[2005年](../Page/2005年.md "wikilink")に解散した。
 
 『[九州・沖縄 スターライトオーディション](https://ja.wikipedia.org/wiki/ライジングプロダクション#オーディション "wikilink")』で選ばれた3人で結成された。
 
@@ -12,7 +12,7 @@
   - [2000年](../Page/2000年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")、シングル「[time after time](https://ja.wikipedia.org/wiki/time_after_time_\(EARTHの曲\) "wikilink")」を発売。
   - 2001年3月28日、アルバム『Bright Tomorrow』を発売。
   - 2002年3月13日、DVD『EARTH FIRST CLIPS』を発売。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")1月、解散。
+  - [2005年](../Page/2005年.md "wikilink")1月、解散。
 
 ## メンバー
 
@@ -96,7 +96,7 @@
   - [THE おとばん](../Page/THE_おとばん.md "wikilink")（2001年2月3日、TBSラジオ）
   - ALIVE69（2001年2月4日、[FM-FUJI](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")）
   - [Ride on music\!](https://ja.wikipedia.org/wiki/Ride_on_music! "wikilink")（2001年2月6日、TBSラジオ）
-  - [古本新之輔 ちゃぱらすかWOO\!](https://ja.wikipedia.org/wiki/古本新之輔_ちゃぱらすかWOO! "wikilink")（2001年2月11日、[文化放送](../Page/文化放送.md "wikilink")）
+  - [古本新之輔 ちゃぱらすかWOO\!](../Page/古本新之輔_ちゃぱらすかWOO!.md "wikilink")（2001年2月11日、[文化放送](../Page/文化放送.md "wikilink")）
   - [しんドル](../Page/しんドル.md "wikilink")パーラー（2001年2月15日、[TOKYO FM](../Page/エフエム東京.md "wikilink")）
   - GROOVE FROM K・WEST（2001年2月21日、[bayfm](../Page/ベイエフエム.md "wikilink")）
   - J-HITS POWER STATION（2001年3月1日、FM-FUJI）

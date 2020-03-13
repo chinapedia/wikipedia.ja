@@ -38,7 +38,7 @@
 <td style="text-align: center;"><p>性能諸元[1]</p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="https://ja.wikipedia.org/wiki/排水量" title="wikilink">排水量</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/排水量.md" title="wikilink">排水量</a></p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>全長</p></td>
@@ -94,7 +94,7 @@
 </tbody>
 </table>
 
-**ワスプ**（**USS Wasp, CV-7**） は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の[航空母艦](../Page/航空母艦.md "wikilink")。アメリカ海軍において[ワスプ](../Page/ワスプ.md "wikilink")\[2\]の名を受け継いだ艦としては8隻目にあたる。同型艦はない。[1942年](../Page/1942年.md "wikilink")9月15日、[大日本帝国海軍](../Page/大日本帝国海軍.md "wikilink")の[伊19潜水艦](https://ja.wikipedia.org/wiki/伊号第十九潜水艦 "wikilink")（潜水艦長：[木梨鷹一](../Page/木梨鷹一.md "wikilink")海軍中佐）の雷撃を受けて沈没した。
+**ワスプ**（**USS Wasp, CV-7**） は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の[航空母艦](../Page/航空母艦.md "wikilink")。アメリカ海軍において[ワスプ](../Page/ワスプ.md "wikilink")\[2\]の名を受け継いだ艦としては8隻目にあたる。同型艦はない。[1942年](../Page/1942年.md "wikilink")9月15日、[大日本帝国海軍](../Page/大日本帝国海軍.md "wikilink")の[伊19潜水艦](../Page/伊号第十九潜水艦.md "wikilink")（潜水艦長：[木梨鷹一](../Page/木梨鷹一.md "wikilink")海軍中佐）の雷撃を受けて沈没した。
 
 ## 概要
 
@@ -173,7 +173,7 @@
 
 アメリカ海軍は1942年5月初めの[珊瑚海海戦](../Page/珊瑚海海戦.md "wikilink")および一ヶ月後の[ミッドウェー海戦](https://ja.wikipedia.org/wiki/ミッドウェー海戦 "wikilink")で勝利を収めたものの、アメリカ太平洋艦隊の運用可能な空母は2隻のみとなり、ワスプの太平洋への転戦は避けられなくなった。
 
-ワスプは修理と改修のため[ノーフォーク海軍工廠](https://ja.wikipedia.org/wiki/ノーフォーク海軍工廠 "wikilink")入りする。この停泊期間にリーヴス艦長に代わって[フォレスト・P・シャーマン](https://ja.wikipedia.org/wiki/フォレスト・P・シャーマン "wikilink")艦長が着任する。6月6日に[戦艦](https://ja.wikipedia.org/wiki/戦艦 "wikilink")[ノースカロライナ](https://ja.wikipedia.org/wiki/ノースカロライナ_\(戦艦\) "wikilink")（USS North Carolina, BB-55）、[重巡洋艦](../Page/重巡洋艦.md "wikilink")[クインシー](https://ja.wikipedia.org/wiki/クインシー_\(CA-39\) "wikilink")（USS Quincy, CA-39）、軽巡洋艦[サンフアン](https://ja.wikipedia.org/wiki/サンフアン_\(軽巡洋艦\) "wikilink")（USS San Juan, CL-54）、[駆逐艦](../Page/駆逐艦.md "wikilink")6隻から構成される第37任務部隊と共にノーフォークを出港した。部隊は6月10日に[パナマ運河](../Page/パナマ運河.md "wikilink")を通過し、ワスプは第18任務部隊に配置換えとなる。
+ワスプは修理と改修のため[ノーフォーク海軍工廠](https://ja.wikipedia.org/wiki/ノーフォーク海軍工廠 "wikilink")入りする。この停泊期間にリーヴス艦長に代わって[フォレスト・P・シャーマン](https://ja.wikipedia.org/wiki/フォレスト・P・シャーマン "wikilink")艦長が着任する。6月6日に[戦艦](https://ja.wikipedia.org/wiki/戦艦 "wikilink")[ノースカロライナ](../Page/ノースカロライナ_\(戦艦\).md "wikilink")（USS North Carolina, BB-55）、[重巡洋艦](../Page/重巡洋艦.md "wikilink")[クインシー](https://ja.wikipedia.org/wiki/クインシー_\(CA-39\) "wikilink")（USS Quincy, CA-39）、軽巡洋艦[サンフアン](https://ja.wikipedia.org/wiki/サンフアン_\(軽巡洋艦\) "wikilink")（USS San Juan, CL-54）、[駆逐艦](../Page/駆逐艦.md "wikilink")6隻から構成される第37任務部隊と共にノーフォークを出港した。部隊は6月10日に[パナマ運河](../Page/パナマ運河.md "wikilink")を通過し、ワスプは第18任務部隊に配置換えとなる。
 
 6月19日に[サンディエゴ](../Page/サンディエゴ.md "wikilink")に到着すると、ワスプは艦載機の残りを搭載し7月1日に第2海兵連隊を乗せた船団と[トンガ](../Page/トンガ.md "wikilink")に向け出発した。当時日本軍の拠点であった[ソロモン諸島](../Page/ソロモン諸島.md "wikilink")への進攻準備は進められていた。
 
@@ -187,7 +187,7 @@
 
 1942年[9月15日](../Page/9月15日.md "wikilink")、ワスプ及び空母ホーネット、ノースカロライナと他10隻による部隊はガダルカナルへの増援部隊である第7海兵隊連隊を輸送する船団の護衛を行っていた（[第二次ソロモン海戦](../Page/第二次ソロモン海戦.md "wikilink")）。ワスプは[サンクリストバル島の約](https://ja.wikipedia.org/wiki/マキラ島 "wikilink")150マイル南東で作戦活動に従事する。艦載機は燃料を再補給し対潜哨戒準備が行われていた。ワスプは日の出の一時間前から総員配置状態にあり、朝の探索機は10時に帰還した。日中は艦載機が12時15分に日本軍の四発飛行艇を撃墜した以外、敵に遭遇することはなかった。
 
-14時45分頃、[日本海軍の](../Page/大日本帝国海軍.md "wikilink")[伊19潜水艦](https://ja.wikipedia.org/wiki/伊号第十九潜水艦 "wikilink")（潜水艦長：[木梨鷹一](../Page/木梨鷹一.md "wikilink")海軍中佐）の雷撃を受け、鎮火不能の大火災により総員退艦が命じられ、味方駆逐艦による自沈処分で沈没した。
+14時45分頃、[日本海軍の](../Page/大日本帝国海軍.md "wikilink")[伊19潜水艦](../Page/伊号第十九潜水艦.md "wikilink")（潜水艦長：[木梨鷹一](../Page/木梨鷹一.md "wikilink")海軍中佐）の雷撃を受け、鎮火不能の大火災により総員退艦が命じられ、味方駆逐艦による自沈処分で沈没した。
 
 ワスプは[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中の戦功で2つの従軍星章を受章した。
 
@@ -232,7 +232,7 @@
 [Category:アメリカ合衆国の航空母艦](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の航空母艦 "wikilink") [Category:1939年進水船](https://ja.wikipedia.org/wiki/Category:1939年進水船 "wikilink") [Category:1940年竣工船](https://ja.wikipedia.org/wiki/Category:1940年竣工船 "wikilink") [Category:第二次世界大戦の沈没船](https://ja.wikipedia.org/wiki/Category:第二次世界大戦の沈没船 "wikilink")
 
 1.  U.S. Aircraft Carriers: An Illustrated Design History、p. 393
-2.  ちなみに艦名のワスプとは[ジガバチ](../Page/ジガバチ.md "wikilink")及び[スズメバチ](https://ja.wikipedia.org/wiki/スズメバチ "wikilink")の意味で、広義に肉食の大型の[蜂全般を指す](../Page/ハチ.md "wikilink")。蜂を語源とした空母には、ホーネット（[USS Hornet, CV-8](https://ja.wikipedia.org/wiki/ホーネット_\(CV-8\) "wikilink") 及び [USS Hornet, CV-12](https://ja.wikipedia.org/wiki/ホーネット_\(CV-12\) "wikilink")）も挙げられる。
+2.  ちなみに艦名のワスプとは[ジガバチ](../Page/ジガバチ.md "wikilink")及び[スズメバチ](../Page/スズメバチ.md "wikilink")の意味で、広義に肉食の大型の[蜂全般を指す](../Page/ハチ.md "wikilink")。蜂を語源とした空母には、ホーネット（[USS Hornet, CV-8](../Page/ホーネット_\(CV-8\).md "wikilink") 及び [USS Hornet, CV-12](../Page/ホーネット_\(CV-12\).md "wikilink")）も挙げられる。
 3.  アメリカの空母（学研）, p. 107
 4.  アメリカの空母（学研）, p. 108～109
 5.  アメリカの空母（学研）, p. 102

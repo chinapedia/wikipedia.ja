@@ -76,7 +76,7 @@
 <!-- end list -->
 
   -
-    [The Water Of Life](https://ja.wikipedia.org/wiki/The_Water_Of_Life "wikilink") の清水君を応援しようというコーナー。
+    [The Water Of Life](../Page/The_Water_Of_Life.md "wikilink") の清水君を応援しようというコーナー。
 
 <!-- end list -->
 
@@ -140,7 +140,7 @@
 
   - [浅川悠](../Page/浅川悠.md "wikilink")
   - [オフサイド大西](../Page/オフサイド大西.md "wikilink")
-  - [The Water Of Life](https://ja.wikipedia.org/wiki/The_Water_Of_Life "wikilink")
+  - [The Water Of Life](../Page/The_Water_Of_Life.md "wikilink")
   - [清春](../Page/清春.md "wikilink")
   - [DAMEZ](https://ja.wikipedia.org/wiki/DAMEZ "wikilink")
 

@@ -5,7 +5,7 @@
 
 ## bp
 
-本名は非公開。[東京都](../Page/東京都.md "wikilink")[清瀬市](../Page/清瀬市.md "wikilink")生まれ、[埼玉県](../Page/埼玉県.md "wikilink")[所沢市](../Page/所沢市.md "wikilink")出身。AKASICK Records所属。身長188cm、体重60kg、血液型A型。高校は[堀越高等学校](https://ja.wikipedia.org/wiki/堀越高等学校 "wikilink")卒業。卒業後に[ニューヨーク](../Page/ニューヨーク.md "wikilink")へ単身渡米する。
+本名は非公開。[東京都](../Page/東京都.md "wikilink")[清瀬市](../Page/清瀬市.md "wikilink")生まれ、[埼玉県](../Page/埼玉県.md "wikilink")[所沢市](../Page/所沢市.md "wikilink")出身。AKASICK Records所属。身長188cm、体重60kg、血液型A型。高校は[堀越高等学校](../Page/堀越高等学校.md "wikilink")卒業。卒業後に[ニューヨーク](../Page/ニューヨーク.md "wikilink")へ単身渡米する。
 
 ## プロフィール
 

@@ -66,7 +66,7 @@
 | エミリアン・クタン=ケルバレーク | [フレデリック・ディーファンタル](../Page/フレデリック・ディーファンタル.md "wikilink")            | [松本保典](../Page/松本保典.md "wikilink")                    |
 | リリー              | [マリオン・コティヤール](../Page/マリオン・コティヤール.md "wikilink")                    | [杉村理加](https://ja.wikipedia.org/wiki/杉村理加 "wikilink") |
 | ペトラ              | [エマ・シェーベルイ](https://ja.wikipedia.org/wiki/エマ・シェーベルイ "wikilink")     | [沢海陽子](../Page/沢海陽子.md "wikilink")                    |
-| ジベール警部           | [ベルナール・ファルシー](https://ja.wikipedia.org/wiki/ベルナール・ファルシー "wikilink") | [水野龍司](https://ja.wikipedia.org/wiki/水野龍司 "wikilink") |
+| ジベール警部           | [ベルナール・ファルシー](https://ja.wikipedia.org/wiki/ベルナール・ファルシー "wikilink") | [水野龍司](../Page/水野龍司.md "wikilink")                    |
 | カミーユ（エミリアンの母親）   | [マヌエラ・グーレリ](https://ja.wikipedia.org/wiki/マヌエラ・グーレリ "wikilink")     | [定岡小百合](../Page/定岡小百合.md "wikilink")                  |
 | 「メルセデス」のリーダー     | [リチャード・サメル](https://ja.wikipedia.org/wiki/リチャード・サメル "wikilink")     | [田中正彦](../Page/田中正彦.md "wikilink")                    |
 |                  |                                                                     |                                                       |
@@ -126,7 +126,7 @@
 2作目以降は[ジェラール・クラヴジック](https://ja.wikipedia.org/wiki/ジェラール・クラヴジック "wikilink")が監督している。5作目は主人公・マロ役を演じる[フランク・ガスタンビド](https://ja.wikipedia.org/wiki/フランク・ガスタンビド "wikilink")が担当。
 
   - [TAXi2](https://ja.wikipedia.org/wiki/TAXi2 "wikilink") （[2000年](../Page/2000年.md "wikilink")）
-  - [TAXi3](https://ja.wikipedia.org/wiki/TAXi3 "wikilink") （[2002年](../Page/2002年.md "wikilink")）
+  - [TAXi3](../Page/TAXi3.md "wikilink") （[2002年](../Page/2002年.md "wikilink")）
   - [TAXi4](../Page/TAXi4.md "wikilink") （[2007年](../Page/2007年.md "wikilink")）
   - [TAXi ダイヤモンド・ミッション](https://ja.wikipedia.org/wiki/TAXi_ダイヤモンド・ミッション "wikilink")（[2018年](../Page/2018年.md "wikilink")）
 

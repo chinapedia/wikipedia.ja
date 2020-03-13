@@ -17,7 +17,7 @@ ATA は砂漠の嵐作戦向けの任務494回で108,000人の軍人を輸送す
 
 [2004年](../Page/2004年.md "wikilink")[10月27日](../Page/10月27日.md "wikilink")に、ATAホールディングス及びその子会社は[連邦倒産法第11章](../Page/連邦倒産法第11章.md "wikilink")の適用を申請した。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月13日](../Page/10月13日.md "wikilink")、ATA はボストン、ミネアポリス=セントポール、及びニューアークへの路線を廃止する、主要サービスを縮小する発表を行った。加えて、フロリダ州マイアミ及び[サラソータへの路線を加える計画を取り消した](https://ja.wikipedia.org/wiki/サラソータ_\(フロリダ州\) "wikilink")。これはミネアポリス及びニューアークでのサウスウエスト航空とのコードシェア・サービスを廃止する事となった。
+[2005年](../Page/2005年.md "wikilink")[10月13日](../Page/10月13日.md "wikilink")、ATA はボストン、ミネアポリス=セントポール、及びニューアークへの路線を廃止する、主要サービスを縮小する発表を行った。加えて、フロリダ州マイアミ及び[サラソータへの路線を加える計画を取り消した](https://ja.wikipedia.org/wiki/サラソータ_\(フロリダ州\) "wikilink")。これはミネアポリス及びニューアークでのサウスウエスト航空とのコードシェア・サービスを廃止する事となった。
 
 小型化及び破産から抜け出そうと努力を続ける中で、ATA航空はもっと主要都市への路線を廃止する事を2005年12月6日に発表した。AP によると、ATA航空は2006年4月後半にシカゴのミッドウェイ空港とフロリダ州フォートマイヤーズ、及びカリフォルニア州サンフランシスコ間のすべての便を廃止する事となる。それらの廃止に続き、ATA航空はシカゴ・ハブ空港から唯一毎日18便の出発及び会社全体で52便の出発規模となる。
 
@@ -87,7 +87,7 @@ ATA航空は以下の路線を運航している (2006年6月 日現在)：
   - [アルバ](../Page/アルバ.md "wikilink")
       - [Oranjestad](https://ja.wikipedia.org/wiki/w:Oranjestad,_Aruba "wikilink") ([クイーン・ベアトリクス国際空港](https://ja.wikipedia.org/wiki/クイーン・ベアトリクス国際空港 "wikilink"))
   - [メキシコ](../Page/メキシコ.md "wikilink")
-      - [カンクン](https://ja.wikipedia.org/wiki/カンクン "wikilink") ([カンクン国際空港](https://ja.wikipedia.org/wiki/カンクン国際空港 "wikilink"))
+      - [カンクン](../Page/カンクン.md "wikilink") ([カンクン国際空港](https://ja.wikipedia.org/wiki/カンクン国際空港 "wikilink"))
       - [Guadalajara](https://ja.wikipedia.org/wiki/w:Guadalajara,_Jalisco "wikilink") ([w:Don Miguel Hidalgo y Costilla International Airport](https://ja.wikipedia.org/wiki/w:Don_Miguel_Hidalgo_y_Costilla_International_Airport "wikilink"))
 
 ### 国際線 (循環) チャーター便

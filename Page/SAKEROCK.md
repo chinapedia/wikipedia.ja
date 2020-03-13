@@ -1,25 +1,25 @@
 > この記事は[SAKEROCK](https://ja.wikipedia.org/wiki/SAKEROCK)から翻訳されています。
 
 
-**SAKEROCK**（サケロック）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[インストゥルメンタル](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。リーダーの[星野源](../Page/星野源.md "wikilink")が同じ[自由の森学園高等学校出身のメンバーを集め](../Page/自由の森学園中学校・高等学校.md "wikilink")、2000年に結成。インディーズレーベル[カクバリズム](https://ja.wikipedia.org/wiki/カクバリズム "wikilink")所属。バンド名の由来は、[マーティン・デニー](https://ja.wikipedia.org/wiki/マーティン・デニー "wikilink")の同名曲から。
+**SAKEROCK**（サケロック）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[インストゥルメンタル](../Page/器楽曲.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。リーダーの[星野源](../Page/星野源.md "wikilink")が同じ[自由の森学園高等学校出身のメンバーを集め](../Page/自由の森学園中学校・高等学校.md "wikilink")、2000年に結成。インディーズレーベル[カクバリズム](https://ja.wikipedia.org/wiki/カクバリズム "wikilink")所属。バンド名の由来は、[マーティン・デニー](https://ja.wikipedia.org/wiki/マーティン・デニー "wikilink")の同名曲から。
 
 [2015年](../Page/2015年.md "wikilink")2月28日に解散発表\[1\]し、6月2日に[両国国技館](../Page/両国国技館.md "wikilink")でラストライブを開催し解散した。
 
 ## メンバー
 
   - [星野源](../Page/星野源.md "wikilink")（ほしの げん、[1981年](../Page/1981年.md "wikilink")[1月28日](../Page/1月28日.md "wikilink") - ）
-    [ギター](../Page/ギター.md "wikilink")・[マリンバ](https://ja.wikipedia.org/wiki/マリンバ "wikilink")担当。リーダー。
+    [ギター](../Page/ギター.md "wikilink")・[マリンバ](../Page/マリンバ.md "wikilink")担当。リーダー。
     一部の楽曲では[マンドリン](../Page/マンドリン.md "wikilink")や[スチールギター](https://ja.wikipedia.org/wiki/スチールギター "wikilink")、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")なども担当している。
   - [伊藤大地](https://ja.wikipedia.org/wiki/伊藤大地 "wikilink")（いとう だいち、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[3月8日](../Page/3月8日.md "wikilink") - ）
-    [ドラムス](../Page/ドラムセット.md "wikilink")・[口笛](https://ja.wikipedia.org/wiki/口笛 "wikilink")担当。
-    野村とのデュオ「[グッドラックヘイワ](https://ja.wikipedia.org/wiki/グッドラックヘイワ "wikilink")」のほか、[奥田民生](../Page/奥田民生.md "wikilink")・[岸田繁](../Page/岸田繁.md "wikilink")（[くるり](../Page/くるり.md "wikilink")）とのバンド「[サンフジンズ](https://ja.wikipedia.org/wiki/サンフジンズ "wikilink")」のドラマー、星野のソロ活動や[真心ブラザーズ](https://ja.wikipedia.org/wiki/真心ブラザーズ "wikilink")や[吉澤嘉代子](https://ja.wikipedia.org/wiki/吉澤嘉代子 "wikilink")のサポートメンバーとしても活動。鉄道好き。
+    [ドラムス](../Page/ドラムセット.md "wikilink")・[口笛](../Page/口笛.md "wikilink")担当。
+    野村とのデュオ「[グッドラックヘイワ](https://ja.wikipedia.org/wiki/グッドラックヘイワ "wikilink")」のほか、[奥田民生](../Page/奥田民生.md "wikilink")・[岸田繁](../Page/岸田繁.md "wikilink")（[くるり](../Page/くるり.md "wikilink")）とのバンド「[サンフジンズ](https://ja.wikipedia.org/wiki/サンフジンズ "wikilink")」のドラマー、星野のソロ活動や[真心ブラザーズ](../Page/真心ブラザーズ.md "wikilink")や[吉澤嘉代子](https://ja.wikipedia.org/wiki/吉澤嘉代子 "wikilink")のサポートメンバーとしても活動。鉄道好き。
   - [浜野謙太](https://ja.wikipedia.org/wiki/浜野謙太 "wikilink")（はまの けんた、[1981年](../Page/1981年.md "wikilink")[8月5日](../Page/8月5日.md "wikilink") - ）
     [トロンボーン](../Page/トロンボーン.md "wikilink")・[スキャット](../Page/スキャット.md "wikilink")担当。通称“ハマケン”。
     [2002年](../Page/2002年.md "wikilink")、野村の脱退後正式に加入。
     サケロックと並行して[在日ファンク](https://ja.wikipedia.org/wiki/在日ファンク "wikilink")のボーカルとしても活動。
   - [田中馨](https://ja.wikipedia.org/wiki/田中馨 "wikilink")（たなか けい、[1981年](../Page/1981年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink") - ）
-    [ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。
-    [2011年](../Page/2011年.md "wikilink")[12月26日](../Page/12月26日.md "wikilink")脱退。現在はソロワークス「Hei Tanaka」をはじめ「[ショピン](https://ja.wikipedia.org/wiki/ショピン "wikilink")」、「[トクマルシューゴ](https://ja.wikipedia.org/wiki/トクマルシューゴ "wikilink")＆ザ・マジックバンド」などで活動。
+    [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。
+    [2011年](../Page/2011年.md "wikilink")[12月26日](../Page/12月26日.md "wikilink")脱退。現在はソロワークス「Hei Tanaka」をはじめ「[ショピン](https://ja.wikipedia.org/wiki/ショピン "wikilink")」、「[トクマルシューゴ](../Page/トクマルシューゴ.md "wikilink")＆ザ・マジックバンド」などで活動。
     ラストアルバム『SAYONARA』で復帰。
   - [野村卓史](https://ja.wikipedia.org/wiki/野村卓史 "wikilink")（のむら たくじ、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[12月21日](../Page/12月21日.md "wikilink") - ）
     [キーボード担当](../Page/キーボード_\(楽器\).md "wikilink")。
@@ -478,9 +478,9 @@ UPCH-9116</p></td>
 </tr>
 <tr class="odd">
 <td><p>2005年4月27日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/グループ魂" title="wikilink">グループ魂</a>ライブDVD「グループ魂の雨の野音（晴天決行）」</p></td>
+<td><p><a href="../Page/グループ魂.md" title="wikilink">グループ魂</a>ライブDVD「グループ魂の雨の野音（晴天決行）」</p></td>
 <td><p>POBE-3015</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/宮崎吐夢" title="wikilink">宮崎吐夢</a>のバックバンドとして出演<br />
+<td><p><a href="../Page/宮崎吐夢.md" title="wikilink">宮崎吐夢</a>のバックバンドとして出演<br />
 10.アイツはdog Food!<br />
 11.慰安旅行<br />
 12.Mini Mini Chimpo〜バスト占いのうた〜</p></td>
@@ -519,13 +519,13 @@ SAKEROCK収録曲：穴を掘る／慰安旅行／イケニエの人（ゲスト
 </tr>
 <tr class="odd">
 <td><p>2009年9月16日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/コトリンゴ" title="wikilink">コトリンゴ</a>「trick &amp; tweet」</p></td>
+<td><p><a href="../Page/コトリンゴ.md" title="wikilink">コトリンゴ</a>「trick &amp; tweet」</p></td>
 <td><p>RZCM-46317</p></td>
 <td><p>8.でたらめサンバ with SAKEROCK</p></td>
 </tr>
 <tr class="even">
 <td><p>2009年9月30日</p></td>
-<td><p>DJ<a href="https://ja.wikipedia.org/wiki/松本素生" title="wikilink">松本素生</a>「<a href="https://ja.wikipedia.org/wiki/ROCK_THE_MIX" title="wikilink">ROCK THE MIX</a> 2」</p></td>
+<td><p>DJ<a href="../Page/松本素生.md" title="wikilink">松本素生</a>「<a href="https://ja.wikipedia.org/wiki/ROCK_THE_MIX" title="wikilink">ROCK THE MIX</a> 2」</p></td>
 <td><p>VICL-63399</p></td>
 <td><p>3.穴を掘る</p></td>
 </tr>
@@ -547,20 +547,20 @@ SAKEROCK収録曲：穴を掘る／慰安旅行／イケニエの人（ゲスト
 
 ## ミュージックビデオ
 
-| 監督                                                                    | 曲名                                                                                                                                                                    |
-| --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ウィスット・ポンニミット](https://ja.wikipedia.org/wiki/ウィスット・ポンニミット "wikilink") | 「インストバンド」                                                                                                                                                             |
-| [大関泰幸](https://ja.wikipedia.org/wiki/大関泰幸 "wikilink")                 | 「殺すな」                                                                                                                                                                 |
-| [山岸聖太](https://ja.wikipedia.org/wiki/山岸聖太 "wikilink")                 | 「[SAYONARA](https://www.youtube.com/watch?v=_uNmfLh71TQ)」                                                                                                             |
-| 山岸聖太 & 星野源                                                            | 「[Emerald Music](https://www.youtube.com/watch?v=0a7wTn6f0LE)」                                                                                                        |
-| [山田一郎](https://ja.wikipedia.org/wiki/山田一郎 "wikilink")                 | 「[MUDA](https://www.youtube.com/watch?v=TvbgID-v9c8)」「[ホニャララ](https://www.youtube.com/watch?v=88Bmd_I1Wm0)」「[会社員 / 今の私](https://www.youtube.com/watch?v=RBXM4f6xW8M)」 |
+| 監督                                                    | 曲名                                                                                                                                                                    |
+| ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ウィスット・ポンニミット](../Page/ウィスット・ポンニミット.md "wikilink")    | 「インストバンド」                                                                                                                                                             |
+| [大関泰幸](https://ja.wikipedia.org/wiki/大関泰幸 "wikilink") | 「殺すな」                                                                                                                                                                 |
+| [山岸聖太](https://ja.wikipedia.org/wiki/山岸聖太 "wikilink") | 「[SAYONARA](https://www.youtube.com/watch?v=_uNmfLh71TQ)」                                                                                                             |
+| 山岸聖太 & 星野源                                            | 「[Emerald Music](https://www.youtube.com/watch?v=0a7wTn6f0LE)」                                                                                                        |
+| [山田一郎](https://ja.wikipedia.org/wiki/山田一郎 "wikilink") | 「[MUDA](https://www.youtube.com/watch?v=TvbgID-v9c8)」「[ホニャララ](https://www.youtube.com/watch?v=88Bmd_I1Wm0)」「[会社員 / 今の私](https://www.youtube.com/watch?v=RBXM4f6xW8M)」 |
 
 ## 楽曲提供・演奏
 
 ### 映画
 
   - [キャッチボール屋](https://ja.wikipedia.org/wiki/キャッチボール屋 "wikilink")（2006年、Bitters End） - 音楽担当
-  - [黄色い涙](../Page/黄色い涙.md "wikilink")（2007年、[ジェイ・ストーム](https://ja.wikipedia.org/wiki/ジェイ・ストーム "wikilink")） - 音楽担当
+  - [黄色い涙](../Page/黄色い涙.md "wikilink")（2007年、[ジェイ・ストーム](../Page/ジェイ・ストーム.md "wikilink")） - 音楽担当
   - R246 STORY（2007年、ゴー・シネマ）※[ユースケ・サンタマリア](../Page/ユースケ・サンタマリア.md "wikilink")監督『弁当夫婦』
   - [少年メリケンサック](https://ja.wikipedia.org/wiki/少年メリケンサック "wikilink")（2009年、[東映](../Page/東映.md "wikilink")） - 出演
 
@@ -621,9 +621,9 @@ SAKEROCK収録曲：穴を掘る／慰安旅行／イケニエの人（ゲスト
   - [大人計画](../Page/大人計画.md "wikilink") - 星野が所属している事務所
   - [ファミ通WaveDVD](../Page/ファミ通WaveDVD.md "wikilink") - 山岸聖太の元職場であった為、SAKEROCKと縁の深いDVD付きゲーム雑誌（元々星野がこの雑誌の読者であり、山岸制作の映像を見て、一緒に活動してほしいと誘った\[2\]）
   - [松尾スズキ](../Page/松尾スズキ.md "wikilink") - 初監督短編映画『まぶだちの女』に楽曲使用
-  - [バナナマン](https://ja.wikipedia.org/wiki/バナナマン "wikilink") - 星野とのドラマ共演をきっかけに2007年バナナマン単独ライブ『Spicy Flower』より楽曲提供
+  - [バナナマン](../Page/バナナマン.md "wikilink") - 星野とのドラマ共演をきっかけに2007年バナナマン単独ライブ『Spicy Flower』より楽曲提供
   - [ハナレグミ](../Page/ハナレグミ.md "wikilink") - 同じ高校出身の縁もあり、『songs of instrumental』にゲストボーカル参加
-  - [スペースシャワーTV](https://ja.wikipedia.org/wiki/スペースシャワーTV "wikilink") - 浜野・星野がレギュラー出演していたCS局
+  - [スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink") - 浜野・星野がレギュラー出演していたCS局
   - [去年ルノアールで](https://ja.wikipedia.org/wiki/去年ルノアールで#テレビドラマ "wikilink") - 星野・浜野出演（星野は主演）
   - [週刊真木よう子](../Page/週刊真木よう子.md "wikilink") - 浜野は第8話、星野は第9話に出演
 

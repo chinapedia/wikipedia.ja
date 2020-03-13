@@ -12,7 +12,7 @@
 ## 代表作
 
   - 1994/03/18 [あさめしまえにゃんこ](https://ja.wikipedia.org/wiki/:en:Asameshimae_Nyanko "wikilink")（バンプレスト）
-  - 1994/03/25 [あらいぐまラスカル](https://ja.wikipedia.org/wiki/あらいぐまラスカル "wikilink")（メサイヤ）
+  - 1994/03/25 [あらいぐまラスカル](../Page/あらいぐまラスカル.md "wikilink")（メサイヤ）
   - 1995/03/17 [熱血大陸 バーニングヒーローズ](https://ja.wikipedia.org/wiki/熱血大陸_バーニングヒーローズ "wikilink")（エニックス）
   - 1995/04/21 [真・聖刻](../Page/真・聖刻.md "wikilink")（ユタカ）
   - 1995/06/23 [レニーブラスター](https://ja.wikipedia.org/wiki/レニーブラスター "wikilink")（NECアベニュー）
@@ -23,7 +23,7 @@
 
 ### クライアントとのトラブル
 
-1990年に設立したJフォースは、日本テレネット、ウルフチームで数々の名作を生み出した秋篠雅弘が代表を務めており、ゲームメーカーからは注目を集めていた。[エニックス](https://ja.wikipedia.org/wiki/エニックス "wikilink")が[RPGの開発を任せた数少ないソフトハウスのひとつであり](../Page/コンピュータRPG.md "wikilink")、他にも[バンプレスト](https://ja.wikipedia.org/wiki/バンプレスト "wikilink")、[サミー](https://ja.wikipedia.org/wiki/サミー "wikilink")、セガ（後の[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）など複数のメーカーよりプロジェクトを受託していた。しかし、相次ぐ開発の大幅な遅延により、常にクライアントとのトラブルが絶えなかった。
+1990年に設立したJフォースは、日本テレネット、ウルフチームで数々の名作を生み出した秋篠雅弘が代表を務めており、ゲームメーカーからは注目を集めていた。[エニックス](https://ja.wikipedia.org/wiki/エニックス "wikilink")が[RPGの開発を任せた数少ないソフトハウスのひとつであり](../Page/コンピュータRPG.md "wikilink")、他にも[バンプレスト](../Page/バンプレスト.md "wikilink")、[サミー](../Page/サミー.md "wikilink")、セガ（後の[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）など複数のメーカーよりプロジェクトを受託していた。しかし、相次ぐ開発の大幅な遅延により、常にクライアントとのトラブルが絶えなかった。
 
 ### ドラゴンフォース開発とJフォースの倒産
 
@@ -40,7 +40,7 @@
   - [日本テレネット](../Page/日本テレネット_\(ゲーム会社\).md "wikilink")
   - [ウルフチーム](../Page/ウルフチーム.md "wikilink")
       - Jフォース
-      - [トライエース](https://ja.wikipedia.org/wiki/トライエース "wikilink")
+      - [トライエース](../Page/トライエース.md "wikilink")
       - [ナムコ・テイルズスタジオ](../Page/ナムコ・テイルズスタジオ.md "wikilink")
   - [新日本レーザーソフト](https://ja.wikipedia.org/wiki/新日本レーザーソフト "wikilink")
   - [レノ](https://ja.wikipedia.org/wiki/レノ "wikilink")（RENO/Renovotion game）

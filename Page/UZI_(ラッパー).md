@@ -5,25 +5,25 @@
 
 ## 来歴
 
-学校では「1ミクロンも」勉強などしておらず、授業中は[絵](https://ja.wikipedia.org/wiki/絵 "wikilink")ばかり描いていた。小学生の頃は[4コマ漫画](../Page/4コマ漫画.md "wikilink")入りの[新聞](../Page/新聞.md "wikilink")を描き、高校生の頃は[キース・ヘリング](../Page/キース・ヘリング.md "wikilink")を模倣していた\[3\]。『[ゴルゴ13](../Page/ゴルゴ13.md "wikilink")』を当時既刊であった分は全て読んでおり、小学4年生の時点で[自慰](https://ja.wikipedia.org/wiki/自慰 "wikilink")を行うのに濡れ場のシーンを読んだという\[4\]。後は、同じく濡れ場のシーンを目当てに『昭和極道史』に愛読するなどして[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")・[劇画](../Page/劇画.md "wikilink")に親しんでいた\[5\]。[平田弘史](https://ja.wikipedia.org/wiki/平田弘史 "wikilink")のファンでもあり、長じて自身のアルバムのジャケットデザインの多くの作画を依頼している。
+学校では「1ミクロンも」勉強などしておらず、授業中は[絵](https://ja.wikipedia.org/wiki/絵 "wikilink")ばかり描いていた。小学生の頃は[4コマ漫画](../Page/4コマ漫画.md "wikilink")入りの[新聞](../Page/新聞.md "wikilink")を描き、高校生の頃は[キース・ヘリング](../Page/キース・ヘリング.md "wikilink")を模倣していた\[3\]。『[ゴルゴ13](../Page/ゴルゴ13.md "wikilink")』を当時既刊であった分は全て読んでおり、小学4年生の時点で[自慰](https://ja.wikipedia.org/wiki/自慰 "wikilink")を行うのに濡れ場のシーンを読んだという\[4\]。後は、同じく濡れ場のシーンを目当てに『昭和極道史』に愛読するなどして[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")・[劇画](../Page/劇画.md "wikilink")に親しんでいた\[5\]。[平田弘史](../Page/平田弘史.md "wikilink")のファンでもあり、長じて自身のアルバムのジャケットデザインの多くの作画を依頼している。
 
-小学生（[慶應幼稚舎](https://ja.wikipedia.org/wiki/慶應幼稚舎 "wikilink")\[6\]）の頃は普通に[歌謡曲](../Page/歌謡曲.md "wikilink")も聴き、中学生の時は[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")や[レベッカ](https://ja.wikipedia.org/wiki/レベッカ "wikilink")、[BARBEE BOYSなども好きであった](https://ja.wikipedia.org/wiki/BARBEE_BOYS "wikilink")。『三宅裕司のいかすバンド天国』などもよく見ており、高校生になると[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")の[ヒップホップ](../Page/ヒップホップ.md "wikilink")と[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")にのめり込んだ\[7\]。学生時代は[不良](https://ja.wikipedia.org/wiki/不良 "wikilink")としても知られており、16歳で[下北沢](../Page/下北沢.md "wikilink")の[ピンクサロン](../Page/ピンクサロン.md "wikilink")の常連となり、高校生の頃は[煙草](https://ja.wikipedia.org/wiki/煙草 "wikilink")を吸いながら[パチンコ店](../Page/パチンコ店.md "wikilink")にも通っていた\[8\]。
+小学生（[慶應幼稚舎](https://ja.wikipedia.org/wiki/慶應幼稚舎 "wikilink")\[6\]）の頃は普通に[歌謡曲](../Page/歌謡曲.md "wikilink")も聴き、中学生の時は[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")や[レベッカ](../Page/レベッカ.md "wikilink")、[BARBEE BOYSなども好きであった](../Page/BARBEE_BOYS.md "wikilink")。『三宅裕司のいかすバンド天国』などもよく見ており、高校生になると[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")の[ヒップホップ](../Page/ヒップホップ.md "wikilink")と[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")にのめり込んだ\[7\]。学生時代は[不良](https://ja.wikipedia.org/wiki/不良 "wikilink")としても知られており、16歳で[下北沢](../Page/下北沢.md "wikilink")の[ピンクサロン](../Page/ピンクサロン.md "wikilink")の常連となり、高校生の頃は[煙草](https://ja.wikipedia.org/wiki/煙草 "wikilink")を吸いながら[パチンコ店](../Page/パチンコ店.md "wikilink")にも通っていた\[8\]。
 
-最初、邦楽のラッパーは[スチャダラパー](https://ja.wikipedia.org/wiki/スチャダラパー "wikilink")と[EAST ENDしか知らず](../Page/EAST_END.md "wikilink")、日本語ラップを「クソだせー」としか思っていなかったが、19歳の時に[キングギドラに出会ってその概念が覆され](https://ja.wikipedia.org/wiki/KGDR "wikilink")、ラッパーデビュー後は[スチャダラパー](https://ja.wikipedia.org/wiki/スチャダラパー "wikilink")も[EAST ENDも同じ仲間としてリスペクトするに至った](../Page/EAST_END.md "wikilink")\[9\]。
+最初、邦楽のラッパーは[スチャダラパー](../Page/スチャダラパー.md "wikilink")と[EAST ENDしか知らず](../Page/EAST_END.md "wikilink")、日本語ラップを「クソだせー」としか思っていなかったが、19歳の時に[キングギドラに出会ってその概念が覆され](../Page/KGDR.md "wikilink")、ラッパーデビュー後は[スチャダラパー](../Page/スチャダラパー.md "wikilink")も[EAST ENDも同じ仲間としてリスペクトするに至った](../Page/EAST_END.md "wikilink")\[9\]。
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、[ポリスター](https://ja.wikipedia.org/wiki/ポリスター "wikilink")よりメジャーデビューを果たすが、その後諸事情により活動を休止する。ラッパーとして稼げない時期はとんかつ屋で[アルバイト](../Page/アルバイト.md "wikilink")を行っていたが\[10\]、[2001年](../Page/2001年.md "wikilink")に[プライエイド・レコーズ](https://ja.wikipedia.org/wiki/:en:Pryaid_Records "wikilink")（通称:プライエイド）より再デビューし、[2002年](../Page/2002年.md "wikilink")には[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")へ移籍した。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、[ポリスター](../Page/ポリスター.md "wikilink")よりメジャーデビューを果たすが、その後諸事情により活動を休止する。ラッパーとして稼げない時期はとんかつ屋で[アルバイト](../Page/アルバイト.md "wikilink")を行っていたが\[10\]、[2001年](../Page/2001年.md "wikilink")に[プライエイド・レコーズ](https://ja.wikipedia.org/wiki/:en:Pryaid_Records "wikilink")（通称:プライエイド）より再デビューし、[2002年](../Page/2002年.md "wikilink")には[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")へ移籍した。
 
-[2018年](../Page/2018年.md "wikilink")[1月15日](../Page/1月15日.md "wikilink")、東京都内の自宅で乾燥[大麻](https://ja.wikipedia.org/wiki/大麻 "wikilink")600グラムを所持していた疑いで[厚生労働省](../Page/厚生労働省.md "wikilink")[関東信越厚生局](../Page/関東信越厚生局.md "wikilink")[麻薬取締部](https://ja.wikipedia.org/wiki/麻薬取締部 "wikilink")により[大麻取締法](https://ja.wikipedia.org/wiki/大麻取締法 "wikilink")[違反](https://ja.wikipedia.org/wiki/違反 "wikilink")で[現行犯逮捕されていたことが発覚](https://ja.wikipedia.org/wiki/逮捕_\(日本法\)#現行犯逮捕 "wikilink")\[11\]\[12\]。出演していた1月17日未明（16日深夜）放送の[テレビ朝日](../Page/テレビ朝日.md "wikilink")『[フリースタイルダンジョン](https://ja.wikipedia.org/wiki/フリースタイルダンジョン "wikilink")』は地上波分については総集編に差し替えられ、[インターネットテレビ](https://ja.wikipedia.org/wiki/インターネットテレビ "wikilink")放送『[AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")』での配信が中止に\[13\]。同局はその後、出演シーンをカットして後日放送するとしている\[14\]。さらにナレーションを務めていた[TBSテレビ](../Page/TBSテレビ.md "wikilink")『[有田ジェネレーション](https://ja.wikipedia.org/wiki/有田ジェネレーション "wikilink")』の1月18日未明（17日深夜）放送分は急遽ナレーションを差し替えて放送したが、その後の対応については未定としている\[15\]。家宅捜査の模様は同年5月12日のTBS系『[新・情報7daysニュースキャスター](https://ja.wikipedia.org/wiki/情報7daysニュースキャスター "wikilink")』にて放送され、その後5月22日に[東京地方裁判所](../Page/東京地方裁判所.md "wikilink")は懲役3年、執行猶予5年（求刑懲役3年）の有罪判決を言い渡した\[16\]。
+[2018年](../Page/2018年.md "wikilink")[1月15日](../Page/1月15日.md "wikilink")、東京都内の自宅で乾燥[大麻](https://ja.wikipedia.org/wiki/大麻 "wikilink")600グラムを所持していた疑いで[厚生労働省](../Page/厚生労働省.md "wikilink")[関東信越厚生局](../Page/関東信越厚生局.md "wikilink")[麻薬取締部](../Page/麻薬取締部.md "wikilink")により[大麻取締法](../Page/大麻取締法.md "wikilink")[違反](https://ja.wikipedia.org/wiki/違反 "wikilink")で[現行犯逮捕されていたことが発覚](https://ja.wikipedia.org/wiki/逮捕_\(日本法\)#現行犯逮捕 "wikilink")\[11\]\[12\]。出演していた1月17日未明（16日深夜）放送の[テレビ朝日](../Page/テレビ朝日.md "wikilink")『[フリースタイルダンジョン](https://ja.wikipedia.org/wiki/フリースタイルダンジョン "wikilink")』は地上波分については総集編に差し替えられ、[インターネットテレビ](../Page/インターネットテレビ.md "wikilink")放送『[AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")』での配信が中止に\[13\]。同局はその後、出演シーンをカットして後日放送するとしている\[14\]。さらにナレーションを務めていた[TBSテレビ](../Page/TBSテレビ.md "wikilink")『[有田ジェネレーション](https://ja.wikipedia.org/wiki/有田ジェネレーション "wikilink")』の1月18日未明（17日深夜）放送分は急遽ナレーションを差し替えて放送したが、その後の対応については未定としている\[15\]。家宅捜査の模様は同年5月12日のTBS系『[新・情報7daysニュースキャスター](https://ja.wikipedia.org/wiki/情報7daysニュースキャスター "wikilink")』にて放送され、その後5月22日に[東京地方裁判所](../Page/東京地方裁判所.md "wikilink")は懲役3年、執行猶予5年（求刑懲役3年）の有罪判決を言い渡した\[16\]。
 
 ## 人物
 
-  - 自身のことを探究心の強い人物として認識している\[17\]。[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")[宗像](https://ja.wikipedia.org/wiki/宗像 "wikilink")地方の武家[許斐氏](https://ja.wikipedia.org/wiki/許斐氏 "wikilink")の末裔。クレー射撃選手・右翼・特殊株主・興行師・スチームサウナ創始者として知られる[許斐氏利](../Page/許斐氏利.md "wikilink")は祖父\[18\]。漫画家の[許斐剛](https://ja.wikipedia.org/wiki/許斐剛 "wikilink")は親戚にあたるが、面識はない。尊敬する人物は10歳年上の兄。アメリカ留学から帰ってきた兄が空港のレストランのウエイトレスに対してかしこまった態度で注文を行ったのを見て、その行為から人間性についてのあるべき様を学んだという\[19\]。
+  - 自身のことを探究心の強い人物として認識している\[17\]。[福岡県](../Page/福岡県.md "wikilink")[宗像](https://ja.wikipedia.org/wiki/宗像 "wikilink")地方の武家[許斐氏](https://ja.wikipedia.org/wiki/許斐氏 "wikilink")の末裔。クレー射撃選手・右翼・特殊株主・興行師・スチームサウナ創始者として知られる[許斐氏利](../Page/許斐氏利.md "wikilink")は祖父\[18\]。漫画家の[許斐剛](../Page/許斐剛.md "wikilink")は親戚にあたるが、面識はない。尊敬する人物は10歳年上の兄。アメリカ留学から帰ってきた兄が空港のレストランのウエイトレスに対してかしこまった態度で注文を行ったのを見て、その行為から人間性についてのあるべき様を学んだという\[19\]。
 
   - [慶應幼稚舎](https://ja.wikipedia.org/wiki/慶應幼稚舎 "wikilink")時代は、英国[ロールスロイス](https://ja.wikipedia.org/wiki/ロールスロイス "wikilink")で送り迎えされていた\[20\]。
 
   - 。
 
-  - [ウイニングイレブン](https://ja.wikipedia.org/wiki/ウイニングイレブン "wikilink")のプロゲーマーとして2007年に『e-sports』とプロ契約を結んでおり、日本代表として大会にも出演するほどである\[21\]。また、1998年には[SEGA](https://ja.wikipedia.org/wiki/SEGA "wikilink")開催の[バーチャストライカー](https://ja.wikipedia.org/wiki/バーチャストライカー "wikilink") (Virtua Striker98)の大会において優勝、同年のＷ杯観戦を賞品として獲得している。 ウイニングイレブンのオンライン対戦ではある時期300勝200敗の記録を残したことがある\[22\]。
+  - [ウイニングイレブン](../Page/ウイニングイレブン.md "wikilink")のプロゲーマーとして2007年に『e-sports』とプロ契約を結んでおり、日本代表として大会にも出演するほどである\[21\]。また、1998年には[SEGA](https://ja.wikipedia.org/wiki/SEGA "wikilink")開催の[バーチャストライカー](../Page/バーチャストライカー.md "wikilink") (Virtua Striker98)の大会において優勝、同年のＷ杯観戦を賞品として獲得している。 ウイニングイレブンのオンライン対戦ではある時期300勝200敗の記録を残したことがある\[22\]。
 
   - テレビ番組「[フリースタイルダンジョン](https://ja.wikipedia.org/wiki/フリースタイルダンジョン "wikilink")」では進行及びナレーションを担当している。
 
@@ -65,11 +65,11 @@
           -
             作詞：UZI・565・kenta・D.O／作曲・編曲：SUBZERO
     4.  ひとり酒 〜 instrumental\[3:40\]
-4.  打つべし 〜明日のために〜（2006年6月21日）「[あしたのジョー](https://ja.wikipedia.org/wiki/あしたのジョー "wikilink")」のテーマ曲を[サンプリング](../Page/サンプリング.md "wikilink")
+4.  打つべし 〜明日のために〜（2006年6月21日）「[あしたのジョー](../Page/あしたのジョー.md "wikilink")」のテーマ曲を[サンプリング](../Page/サンプリング.md "wikilink")
     1.  打つべし 〜明日のために〜\[3:05\]
           -
-            作詞：UZI・[寺山修司](https://ja.wikipedia.org/wiki/寺山修司 "wikilink")／作曲：LUCHA・[八木正生](../Page/八木正生.md "wikilink")／編曲：LUCHA
-    2.  Wハットトリック 2 feat.[G.K.MARYAN](https://ja.wikipedia.org/wiki/G.K.MARYAN "wikilink")\[4:15\]
+            作詞：UZI・[寺山修司](../Page/寺山修司.md "wikilink")／作曲：LUCHA・[八木正生](../Page/八木正生.md "wikilink")／編曲：LUCHA
+    2.  Wハットトリック 2 feat.[G.K.MARYAN](../Page/G.K.MARYAN.md "wikilink")\[4:15\]
           -
             作詞：UZI・G.K.MARYAN／作曲・編曲：DJ CELORY
     3.  打つべし 〜明日のために〜 (Instrumental)\[3:06\]
@@ -92,7 +92,7 @@
     2.  荒技師\[3:49\]
     3.  Knock Out feat.Zeebra\[3:13\]
     4.  言霊\[4:48\]
-    5.  戦場の狼 feat.[RINO LATINA II](https://ja.wikipedia.org/wiki/RINO_LATINA_II "wikilink")\[4:07\]
+    5.  戦場の狼 feat.[RINO LATINA II](../Page/RINO_LATINA_II.md "wikilink")\[4:07\]
     6.  俺ら feat.Zeebra+OJ\&ST\[4:03\]
     7.  Wハットトリック feat.G.K.Maryan\[3:35\]
     8.  十里への道\[2:09\]
@@ -113,7 +113,7 @@
     4.  スキット\[0:34\]
     5.  HOT SPOT feat.AI\[4:15\]
     6.  プロフェッショナル・ベースボール feat.G.K.MARYAN\[3:43\]
-    7.  FIVE DEADLY MICS feat.[KENTA5RAS](https://ja.wikipedia.org/wiki/妄走族 "wikilink"), [DEV LARGE](../Page/DEV_LARGE.md "wikilink"), 秋田犬どぶ六, [MACCHO](../Page/OZROSAURUS.md "wikilink")\[5:25\]
+    7.  FIVE DEADLY MICS feat.[KENTA5RAS](../Page/妄走族.md "wikilink"), [DEV LARGE](../Page/DEV_LARGE.md "wikilink"), 秋田犬どぶ六, [MACCHO](../Page/OZROSAURUS.md "wikilink")\[5:25\]
     8.  CR 氏物語\[3:15\]
     9.  開放軍 04 feat.RINO LATINA II, 秋田犬どぶ六, KANTA5RAS, 565, D.O., G.K.MARYAN\[5:33\]
     10. J.A.M.\[2:42\]
@@ -151,17 +151,17 @@
     9.  火曜サスペンス劇場
     10. WARNING feat.SHIBA-YANKEE, SHINNOSK8
     11. BATTLE FIELD
-    12. Urban Cruising feat.[HI-D](https://ja.wikipedia.org/wiki/HI-D "wikilink")
+    12. Urban Cruising feat.[HI-D](../Page/HI-D.md "wikilink")
     13. 出せなかったラブレター feat.48.9
     14. 我良友 〜My Good Friend〜 pro.LUCHA
     15. 1つだけ feat.秋田犬どぶ六
 6.  フジヤマ（2014年12月3日）
     1.  フジヤマ Pro. LIL'OGI
     2.  次元爆弾 Pro. LIL'OGI
-    3.  ATARI feat. [G-MAN](https://ja.wikipedia.org/wiki/妄走族 "wikilink"), [AKTION](https://ja.wikipedia.org/wiki/AKTION "wikilink") Pro. LIL'OGI
+    3.  ATARI feat. [G-MAN](../Page/妄走族.md "wikilink"), [AKTION](https://ja.wikipedia.org/wiki/AKTION "wikilink") Pro. LIL'OGI
     4.  必殺 feat. 輪入道 Pro. KUT
     5.  流れビッチの波止場 Pro. KUT
-    6.  燕返し feat. G-MAN, [DEN](https://ja.wikipedia.org/wiki/妄走族 "wikilink") Pro. KUT
+    6.  燕返し feat. G-MAN, [DEN](../Page/妄走族.md "wikilink") Pro. KUT
     7.  開放軍4 feat. Akitaken Dob-Rok a.k.a. Angel De Lucia, 十影, [ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink") Pro. LIL'OGI
     8.  韻 feat. [K DUB SHINE](https://ja.wikipedia.org/wiki/K_DUB_SHINE "wikilink") Pro. [INOVADER](https://ja.wikipedia.org/wiki/INOVADER "wikilink")
     9.  予感 feat. MICHO Pro. KUT

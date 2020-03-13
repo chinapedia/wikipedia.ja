@@ -1,7 +1,7 @@
 > この記事は[Congratulations](https://ja.wikipedia.org/wiki/Congratulations)から翻訳されています。
 
 
-**Congratulations: 50 Years of the Eurovision Song Contest**(おめでとう\!ユーロビジョン・ソング・コンテストの50年)は、[ユーロビジョン・ソング・コンテスト](../Page/ユーロビジョン・ソング・コンテスト.md "wikilink")スタート50周年を記念して放送された特別番組。[デンマーク放送協会](../Page/デンマーク放送協会.md "wikilink")が制作し、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月22日](../Page/10月22日.md "wikilink")に放送された。この日は視聴者投票総数250万票を記録した\[1\]。
+**Congratulations: 50 Years of the Eurovision Song Contest**(おめでとう\!ユーロビジョン・ソング・コンテストの50年)は、[ユーロビジョン・ソング・コンテスト](../Page/ユーロビジョン・ソング・コンテスト.md "wikilink")スタート50周年を記念して放送された特別番組。[デンマーク放送協会](../Page/デンマーク放送協会.md "wikilink")が制作し、[2005年](../Page/2005年.md "wikilink")[10月22日](../Page/10月22日.md "wikilink")に放送された。この日は視聴者投票総数250万票を記録した\[1\]。
 
 過去のユーロビジョン・ソング・コンテストの人気優勝曲、上位で人気を得た曲が一堂に集結し、そのグランドチャンピオンを決める大会として行われた\[2\]。
 
@@ -9,7 +9,7 @@
 
 ## 番組概要
 
-番組開催地を巡っては[BBCが](../Page/英国放送協会.md "wikilink")[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[ロイヤル・アルバート・ホール](https://ja.wikipedia.org/wiki/ロイヤル・アルバート・ホール "wikilink")で開催をする予定だった\[4\]。しかしそれを撤回、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")も名乗りを上げたが、[デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink")のDRが[コペンハーゲン](https://ja.wikipedia.org/wiki/コペンハーゲン "wikilink")の開催を決定された\[5\]。
+番組開催地を巡っては[BBCが](../Page/英国放送協会.md "wikilink")[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[ロイヤル・アルバート・ホール](../Page/ロイヤル・アルバート・ホール.md "wikilink")で開催をする予定だった\[4\]。しかしそれを撤回、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")も名乗りを上げたが、[デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink")のDRが[コペンハーゲン](../Page/コペンハーゲン.md "wikilink")の開催を決定された\[5\]。
 
 大会は通常のユーロビジョン・ソング・コンテストと同じ方式。ただし、ネットで投票された過去のユーロビジョンの優勝者上位10組とビッグ4の合計14組が真のグランドチャンピオンを賭けて行われた。また、禁止されている自らの国での投票もできた。
 
@@ -103,7 +103,7 @@
 <tr class="odd">
 <td><p>7</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ABBA" title="wikilink">ABBA</a></p></td>
+<td><p><a href="../Page/ABBA.md" title="wikilink">ABBA</a></p></td>
 <td><p><a href="../Page/恋のウォータールー.md" title="wikilink">恋のウォータールー</a></p></td>
 <td><p><a href="../Page/1974年.md" title="wikilink">1974年</a>優勝</p></td>
 <td><p>1st</p></td>
@@ -180,9 +180,9 @@
 <tr class="even">
 <td><p>14</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エレナ_(歌手)" title="wikilink">エレーナ・パパリズー</a></p></td>
+<td><p><a href="../Page/エレナ_(歌手).md" title="wikilink">エレーナ・パパリズー</a></p></td>
 <td><p><a href="../Page/My_Number_One.md" title="wikilink">My Number One</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a>優勝</p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a>優勝</p></td>
 <td><p>4th</p></td>
 <td><p>167</p></td>
 <td><p>4位</p></td>

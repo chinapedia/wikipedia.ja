@@ -15,7 +15,7 @@
 
 :\*\* 番組冒頭に、報道フロアからの『[福井新聞ニュース](../Page/福井新聞ニュース.md "wikilink")』を放送。
 
-:\* 出演者：スクラッチ田中（現・[たなかつよし](https://ja.wikipedia.org/wiki/たなかつよし "wikilink")）、[福田布貴子](https://ja.wikipedia.org/wiki/福田布貴子 "wikilink")（後に[鈴木理香](../Page/鈴木理香.md "wikilink")）、[桑原達秋](https://ja.wikipedia.org/wiki/桑原達秋 "wikilink")
+:\* 出演者：スクラッチ田中（現・[たなかつよし](../Page/たなかつよし.md "wikilink")）、[福田布貴子](https://ja.wikipedia.org/wiki/福田布貴子 "wikilink")（後に[鈴木理香](../Page/鈴木理香.md "wikilink")）、[桑原達秋](../Page/桑原達秋.md "wikilink")
 
   - 内容
     桑原が中継出演することもあった。この時点で「おかサタ」が番組の通称として定着し、その後に至っている。この番組によってスクラッチ田中が「週6回生番組に出演する」ことになった。一時、「ドットコムガールズ」なる2人組の女性が出演していた。
@@ -24,7 +24,7 @@
 
   - 概要
 
-:\* 放送期間：2003年[10月11日](../Page/10月11日.md "wikilink") - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月26日](../Page/2月26日.md "wikilink")
+:\* 放送期間：2003年[10月11日](../Page/10月11日.md "wikilink") - [2005年](../Page/2005年.md "wikilink")[2月26日](../Page/2月26日.md "wikilink")
 
 :\* 放送時間：毎週土曜日 18:30 - 19:00
 
@@ -37,7 +37,7 @@
 
   - 概要
 
-:\* 放送期間：2005年[4月2日](../Page/4月2日.md "wikilink") - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")
+:\* 放送期間：2005年[4月2日](../Page/4月2日.md "wikilink") - [2006年](../Page/2006年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")
 
 :\* 放送時間：毎週土曜日 18:30 - 19:00
 

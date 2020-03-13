@@ -1,7 +1,7 @@
 > この記事は[Front Row](https://ja.wikipedia.org/wiki/Front_Row)から翻訳されています。
 
 
-**Front Row**（フロントロー）は、[アップルの](../Page/アップル_\(企業\).md "wikilink")[iMac](https://ja.wikipedia.org/wiki/iMac "wikilink")や[Mac mini](https://ja.wikipedia.org/wiki/Mac_mini "wikilink")、[MacBook](../Page/MacBook.md "wikilink")など、[Apple Remoteが付属している](../Page/Apple_Remote.md "wikilink")[Macintosh](../Page/Macintosh.md "wikilink")コンピュータに付属する[アプリケーションソフトウェア](../Page/アプリケーションソフトウェア.md "wikilink")。Apple Remoteを用い、[音楽](../Page/音楽.md "wikilink")や[DVD-Video](../Page/DVD-Video.md "wikilink")の視聴、[写真](../Page/写真.md "wikilink")の閲覧など、Macを[リモコン](https://ja.wikipedia.org/wiki/リモコン "wikilink")操作することができる。なお[Mac OS X Lionより廃止された](https://ja.wikipedia.org/wiki/Mac_OS_X_Lion "wikilink")。
+**Front Row**（フロントロー）は、[アップルの](../Page/アップル_\(企業\).md "wikilink")[iMac](https://ja.wikipedia.org/wiki/iMac "wikilink")や[Mac mini](https://ja.wikipedia.org/wiki/Mac_mini "wikilink")、[MacBook](../Page/MacBook.md "wikilink")など、[Apple Remoteが付属している](../Page/Apple_Remote.md "wikilink")[Macintosh](../Page/Macintosh.md "wikilink")コンピュータに付属する[アプリケーションソフトウェア](../Page/アプリケーションソフトウェア.md "wikilink")。Apple Remoteを用い、[音楽](../Page/音楽.md "wikilink")や[DVD-Video](../Page/DVD-Video.md "wikilink")の視聴、[写真](../Page/写真.md "wikilink")の閲覧など、Macを[リモコン](../Page/リモコン.md "wikilink")操作することができる。なお[Mac OS X Lionより廃止された](https://ja.wikipedia.org/wiki/Mac_OS_X_Lion "wikilink")。
 
 画像:Apple Remote.jpg|Apple Remote
 
@@ -20,7 +20,7 @@
 ## 関連項目
 
   - [Apple Remote](../Page/Apple_Remote.md "wikilink")
-  - [Apple TV](https://ja.wikipedia.org/wiki/Apple_TV "wikilink")
+  - [Apple TV](../Page/Apple_TV.md "wikilink")
 
 ## 外部リンク
 

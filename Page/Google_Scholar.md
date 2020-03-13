@@ -1,11 +1,11 @@
 > この記事は[Google Scholar](https://ja.wikipedia.org/wiki/Google_Scholar)から翻訳されています。
 
 
-**Google Scholar**（グーグル・スカラー）は、[ウェブ](../Page/World_Wide_Web.md "wikilink")[検索](../Page/検索.md "wikilink")サイトの[Google](../Page/Google.md "wikilink")の提供する検索サービスの一つ。主に学術用途での検索を対象としており、[論文](../Page/論文.md "wikilink")、[学術誌](https://ja.wikipedia.org/wiki/学術誌 "wikilink")、[出版](../Page/出版.md "wikilink")物の全文や[メタデータ](https://ja.wikipedia.org/wiki/メタデータ "wikilink")にアクセスできる。Googleはそのデータベースのサイズを公開していないが\[1\]、第三者機関の調査によれば、2014年5月時点、約1.6億の文章が含まれると推定される\[2\]。
+**Google Scholar**（グーグル・スカラー）は、[ウェブ](../Page/World_Wide_Web.md "wikilink")[検索](../Page/検索.md "wikilink")サイトの[Google](../Page/Google.md "wikilink")の提供する検索サービスの一つ。主に学術用途での検索を対象としており、[論文](../Page/論文.md "wikilink")、[学術誌](https://ja.wikipedia.org/wiki/学術誌 "wikilink")、[出版](../Page/出版.md "wikilink")物の全文や[メタデータ](../Page/メタデータ.md "wikilink")にアクセスできる。Googleはそのデータベースのサイズを公開していないが\[1\]、第三者機関の調査によれば、2014年5月時点、約1.6億の文章が含まれると推定される\[2\]。
 
 ## 概要
 
-普通の[Google検索](https://ja.wikipedia.org/wiki/Google検索 "wikilink")との違いは、ネット上に散らばっている同一論文をまとめて表示する点にある。論文本体が有料の[査読](https://ja.wikipedia.org/wiki/査読 "wikilink")つき[雑誌](../Page/雑誌.md "wikilink")に投稿されている場合でも、本人のウェブサイトに論文が無料でアップロードされている場合や、[arXiv](https://ja.wikipedia.org/wiki/arXiv "wikilink")に[プレプリント](https://ja.wikipedia.org/wiki/プレプリント "wikilink")がアップロードされているなどの場合は、検索結果右下の「全5バージョン」などと書かれている部分から、その論文本文にたどり着くことができる。検索時に使える演算子などについては、例えばが詳しい。サービスの開始は[2004年](../Page/2004年.md "wikilink")11月18日の[ベータ版](../Page/ベータ版.md "wikilink")の公開から\[3\]\[4\]。
+普通の[Google検索](https://ja.wikipedia.org/wiki/Google検索 "wikilink")との違いは、ネット上に散らばっている同一論文をまとめて表示する点にある。論文本体が有料の[査読](../Page/査読.md "wikilink")つき[雑誌](../Page/雑誌.md "wikilink")に投稿されている場合でも、本人のウェブサイトに論文が無料でアップロードされている場合や、[arXiv](https://ja.wikipedia.org/wiki/arXiv "wikilink")に[プレプリント](https://ja.wikipedia.org/wiki/プレプリント "wikilink")がアップロードされているなどの場合は、検索結果右下の「全5バージョン」などと書かれている部分から、その論文本文にたどり着くことができる。検索時に使える演算子などについては、例えばが詳しい。サービスの開始は[2004年](../Page/2004年.md "wikilink")11月18日の[ベータ版](../Page/ベータ版.md "wikilink")の公開から\[3\]\[4\]。
 
 [2011年](../Page/2011年.md "wikilink")11月から新たな関連サービスとして[Google Scholar Citations](http://scholar.google.co.jp/intl/ja/scholar/citations.html)が一般公開された\[5\]。これは学術文献の著者プロフィールとともに，その著作物が一元的に管理できるサービスである。
 

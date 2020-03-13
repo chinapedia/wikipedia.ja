@@ -1,7 +1,7 @@
 > この記事は[CEATEC](https://ja.wikipedia.org/wiki/CEATEC)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:CEATEC_JAPAN_2006.JPG "wikilink")   **CEATEC**（シーテック、Combined Exhibition of Advanced TEChnologies）とは、毎年10月に[幕張メッセ](../Page/幕張メッセ.md "wikilink")で開催される[アジア](https://ja.wikipedia.org/wiki/アジア "wikilink")最大級の規模を誇るIT技術とエレクトロニクスの国際展示会である。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:CEATEC_JAPAN_2006.JPG "wikilink")   **CEATEC**（シーテック、Combined Exhibition of Advanced TEChnologies）とは、毎年10月に[幕張メッセ](../Page/幕張メッセ.md "wikilink")で開催される[アジア](../Page/アジア.md "wikilink")最大級の規模を誇るIT技術とエレクトロニクスの国際展示会である。
 
 主催団体は[情報通信ネットワーク産業協会](https://ja.wikipedia.org/wiki/情報通信ネットワーク産業協会 "wikilink")（CIAJ）、[電子情報技術産業協会](../Page/電子情報技術産業協会.md "wikilink")（JEITA）、[コンピュータソフトウェア協会](../Page/コンピュータソフトウェア協会.md "wikilink")（CSAJ）。
 

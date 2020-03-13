@@ -5,9 +5,9 @@
 
 ## 内容
 
-11枚目のシングル「**[Kiss You (世界は宇宙と恋におちる)](../Page/Kiss_You_\(世界は宇宙と恋におちる\).md "wikilink")**」のリミックスバージョン。3枚同時リリースされたリプロダクションシングルの1つ。「COME ON EVERYBODY」のリミックスを手掛けた[ナイル・ロジャース](../Page/ナイル・ロジャース.md "wikilink")が所属している[シックのメンバー](../Page/シック_\(バンド\).md "wikilink")、バーナード・エドワーズが表題曲、[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")ともに[リミックス](../Page/リミックス.md "wikilink")を手がけ、また[ベースを弾いている](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。
+11枚目のシングル「**[Kiss You (世界は宇宙と恋におちる)](../Page/Kiss_You_\(世界は宇宙と恋におちる\).md "wikilink")**」のリミックスバージョン。3枚同時リリースされたリプロダクションシングルの1つ。「COME ON EVERYBODY」のリミックスを手掛けた[ナイル・ロジャース](../Page/ナイル・ロジャース.md "wikilink")が所属している[シックのメンバー](../Page/シック_\(バンド\).md "wikilink")、バーナード・エドワーズが表題曲、[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")ともに[リミックス](../Page/リミックス.md "wikilink")を手がけ、また[ベースを弾いている](../Page/ベース_\(弦楽器\).md "wikilink")。
 
-カップリング曲の「TIME (PASSED SO SLOWLY)」は、アルバム『[DRESS](https://ja.wikipedia.org/wiki/DRESS_\(TM_NETWORKのアルバム\) "wikilink")』未収録曲であり、一連のリプロダクトの中で唯一[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")の録り直しを行った曲である。このバージョンは、2004年にリリースされたベストアルバム『[Welcome to the FANKS\!](https://ja.wikipedia.org/wiki/Welcome_to_the_FANKS! "wikilink")』に初収録された。
+カップリング曲の「TIME (PASSED SO SLOWLY)」は、アルバム『[DRESS](../Page/DRESS_\(TM_NETWORKのアルバム\).md "wikilink")』未収録曲であり、一連のリプロダクトの中で唯一[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")の録り直しを行った曲である。このバージョンは、2004年にリリースされたベストアルバム『[Welcome to the FANKS\!](../Page/Welcome_to_the_FANKS!.md "wikilink")』に初収録された。
 
 ## 収録曲
 
@@ -20,17 +20,17 @@
 
 **KISS YOU (KISS JAPAN)**
 
-  - [DRESS](https://ja.wikipedia.org/wiki/DRESS_\(TM_NETWORKのアルバム\) "wikilink")
+  - [DRESS](../Page/DRESS_\(TM_NETWORKのアルバム\).md "wikilink")
   - [GROOVE GEAR 1984-1994](../Page/GROOVE_GEAR_1984-1994.md "wikilink") (ライブバージョン)
-  - [TIME CAPSULE all the singles](https://ja.wikipedia.org/wiki/TIME_CAPSULE_all_the_singles "wikilink")
+  - [TIME CAPSULE all the singles](../Page/TIME_CAPSULE_all_the_singles.md "wikilink")
   - [TM NETWORK THE SINGLES 2](https://ja.wikipedia.org/wiki/THE_SINGLES_2 "wikilink")
   - [TM NETWORK ORIGINAL SINGLES 1984-1999](https://ja.wikipedia.org/wiki/ORIGINAL_SINGLES_1984-1999 "wikilink")
   - [TM NETWORK ORIGINAL SINGLE BACK TRACKS 1984-1999](https://ja.wikipedia.org/wiki/ORIGINAL_SINGLE_BACK_TRACKS_1984-1999 "wikilink") (オリジナル・カラオケ)
 
 **TIME (PASSED SO SLOWLY)**
 
-  - [DRESS](https://ja.wikipedia.org/wiki/DRESS_\(TM_NETWORKのアルバム\) "wikilink") (2013年再発盤のみ)
-  - [Welcome to the FANKS\!](https://ja.wikipedia.org/wiki/Welcome_to_the_FANKS! "wikilink")
+  - [DRESS](../Page/DRESS_\(TM_NETWORKのアルバム\).md "wikilink") (2013年再発盤のみ)
+  - [Welcome to the FANKS\!](../Page/Welcome_to_the_FANKS!.md "wikilink")
   - [TM NETWORK THE SINGLES 2](https://ja.wikipedia.org/wiki/THE_SINGLES_2 "wikilink") (初回限定盤のみ)
 
 [Category:1989年のシングル](https://ja.wikipedia.org/wiki/Category:1989年のシングル "wikilink") [Category:エピックレコードジャパンのシングル](https://ja.wikipedia.org/wiki/Category:エピックレコードジャパンのシングル "wikilink") [Category:TM_NETWORKの楽曲](https://ja.wikipedia.org/wiki/Category:TM_NETWORKの楽曲 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:小室みつ子が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室みつ子が制作した楽曲 "wikilink") [Category:接吻を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:接吻を題材とした楽曲 "wikilink") [Category:楽曲_き](https://ja.wikipedia.org/wiki/Category:楽曲_き "wikilink")

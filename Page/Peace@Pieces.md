@@ -1,7 +1,7 @@
 > この記事は[Peace@Pieces](https://ja.wikipedia.org/wiki/Peace@Pieces)から翻訳されています。
 
 
-『**Peace@Pieces**』（ピースアピーシーズ）は[ユニゾンシフト製作の](https://ja.wikipedia.org/wiki/ソフパル "wikilink")[18禁](https://ja.wikipedia.org/wiki/18禁 "wikilink")「**学園恋愛甘甘コメディ萌シチュエーションえっちアドベンチャー**」ゲーム。 キャラクターデザイン・原画は[いとうのいぢ](https://ja.wikipedia.org/wiki/いとうのいぢ "wikilink")。本作発売の翌年にファンディスク「**わんもあ@ぴぃしぃず**」が、2007年には本作に「わんもあ@ぴぃしぃず」のアナザーストーリー部分のみを追加した廉価版が「**Peace@Pieces+わんもあ@ぴぃしぃず Special Memorial Edition**」の名前で発売されている。 死神候補生全員、またそれに関する者の名前には｢あ段｣の文字が一文字入っており、テキストの名前表示の後ろ(英語表記)で｢A｣は｢@｣になっている。
+『**Peace@Pieces**』（ピースアピーシーズ）は[ユニゾンシフト製作の](../Page/ソフパル.md "wikilink")[18禁](https://ja.wikipedia.org/wiki/18禁 "wikilink")「**学園恋愛甘甘コメディ萌シチュエーションえっちアドベンチャー**」ゲーム。 キャラクターデザイン・原画は[いとうのいぢ](../Page/いとうのいぢ.md "wikilink")。本作発売の翌年にファンディスク「**わんもあ@ぴぃしぃず**」が、2007年には本作に「わんもあ@ぴぃしぃず」のアナザーストーリー部分のみを追加した廉価版が「**Peace@Pieces+わんもあ@ぴぃしぃず Special Memorial Edition**」の名前で発売されている。 死神候補生全員、またそれに関する者の名前には｢あ段｣の文字が一文字入っており、テキストの名前表示の後ろ(英語表記)で｢A｣は｢@｣になっている。
 
 ## ストーリー
 
@@ -18,7 +18,7 @@
 
 <!-- end list -->
 
-  - 百瀬 玉（ももせ ひかる） / ヒカル（声：[安玖深音](https://ja.wikipedia.org/wiki/安玖深音 "wikilink")）
+  - 百瀬 玉（ももせ ひかる） / ヒカル（声：[安玖深音](../Page/安玖深音.md "wikilink")）
     誕生日　9月26日　身長151cm　体重45Kg 血液型 O
     メインヒロイン。落ちこぼれの死神候補生。[二挺拳銃](https://ja.wikipedia.org/wiki/二挺拳銃 "wikilink")「Lies\&Truth（ライズアンドトゥルース）」を武器としており、構えの練習にも余念が無い。しかし、肝心の射撃の腕は良くない（銃を構えると何故か片方の銃が久斗に向いている）。元気で明るい性格で、感情がストレートに表に出るタイプ。
     ナギと一緒に編入学する予定だったが、道に迷ったため半年以上遅れて編入してくるなど、相当な[ドジを踏む事も多いが](../Page/ドジっ娘.md "wikilink")、料理に関してはかなりの腕前（本人は自覚無し）。愛称は**タマ**（漢字の音読みから）。
@@ -27,7 +27,7 @@
 
 <!-- end list -->
 
-  - 秋月 凪（あきづき なぎ） / ナギ（声：[まきいづみ](https://ja.wikipedia.org/wiki/まきいづみ "wikilink")）
+  - 秋月 凪（あきづき なぎ） / ナギ（声：[まきいづみ](../Page/まきいづみ.md "wikilink")）
     誕生日　12月23日　身長149cm　体重43Kg 血液型 AB
     もう一人のメインヒロイン。ヒカルと同じく死神候補生。メカ部所属で、魂の浄化には自らが製作した**びっくりどっきりメカ**を使用する。
     学年成績はトップクラスで、理系の難問を初見で解くなど頭脳明晰。しかし「最後に爆発するのがメカの美学」などと言い、自前のメカに自爆装置を付ける等、現実離れした行動を取る事も少なくないため、ヒカルと並んで落ちこぼれ候補生の位置に。
@@ -118,19 +118,19 @@
 ### ノベル（小説）
 
   - [ファミ通文庫](../Page/ファミ通文庫.md "wikilink")（[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")）発売
-      - 「Peace@Pieces」　[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[8月29日](../Page/8月29日.md "wikilink")発売（ISBN 978-4-7577-2395-5）
-      - 著：[小林正親](https://ja.wikipedia.org/wiki/小林正親 "wikilink")　イラスト：[いとうのいぢ](https://ja.wikipedia.org/wiki/いとうのいぢ "wikilink")
+      - 「Peace@Pieces」　[2005年](../Page/2005年.md "wikilink")[8月29日](../Page/8月29日.md "wikilink")発売（ISBN 978-4-7577-2395-5）
+      - 著：[小林正親](https://ja.wikipedia.org/wiki/小林正親 "wikilink")　イラスト：[いとうのいぢ](../Page/いとうのいぢ.md "wikilink")
 
 ### イラスト・設定資料集
 
-  - [メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink")発売
-      - 「Peace@Pieces ARTWORKS」　[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")発売（ISBN 978-4-8402-2987-6）
+  - [メディアワークス](../Page/メディアワークス.md "wikilink")発売
+      - 「Peace@Pieces ARTWORKS」　[2005年](../Page/2005年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")発売（ISBN 978-4-8402-2987-6）
       - 著：[電撃姫](https://ja.wikipedia.org/wiki/電撃姫 "wikilink")編集部
 
 ### CD
 
   - ゲームサウンドトラック
-      - 「Peace@Pieces SOUNDTRACKS」　[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")発売
+      - 「Peace@Pieces SOUNDTRACKS」　[2005年](../Page/2005年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")発売
           - [ユニゾンシフトから発売](https://ja.wikipedia.org/wiki/ソフパル#ユニゾンシフト "wikilink")
 
 ## 外部リンク

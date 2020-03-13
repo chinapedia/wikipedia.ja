@@ -5,9 +5,9 @@
 
 ## 内容
 
-10枚目のシングル「[Get Wild](../Page/Get_Wild.md "wikilink")」の[リミックス](../Page/リミックス.md "wikilink")バージョンで、3枚同時リリースされたリプロダクションシングルの1つ。「GET WILD '89」は[ピート・ハモンドが](https://ja.wikipedia.org/wiki/ストック・エイトキン・ウォーターマン "wikilink")[リミックス](../Page/リミックス.md "wikilink")を行っており、[ユーロビート](https://ja.wikipedia.org/wiki/ユーロビート "wikilink")にリアレンジされている。[サビ](../Page/サビ.md "wikilink")の歌い出しを[フレーズ](https://ja.wikipedia.org/wiki/フレーズ "wikilink")[サンプリング](../Page/サンプリング.md "wikilink")し、[SE的に使われている](https://ja.wikipedia.org/wiki/効果音 "wikilink")。リリースされた3枚の中で、当時テレビ番組に出演した時はこの曲を演奏する事が多かった。
+10枚目のシングル「[Get Wild](../Page/Get_Wild.md "wikilink")」の[リミックス](../Page/リミックス.md "wikilink")バージョンで、3枚同時リリースされたリプロダクションシングルの1つ。「GET WILD '89」は[ピート・ハモンドが](https://ja.wikipedia.org/wiki/ストック・エイトキン・ウォーターマン "wikilink")[リミックス](../Page/リミックス.md "wikilink")を行っており、[ユーロビート](../Page/ユーロビート.md "wikilink")にリアレンジされている。[サビ](../Page/サビ.md "wikilink")の歌い出しを[フレーズ](https://ja.wikipedia.org/wiki/フレーズ "wikilink")[サンプリング](../Page/サンプリング.md "wikilink")し、[SE的に使われている](../Page/効果音.md "wikilink")。リリースされた3枚の中で、当時テレビ番組に出演した時はこの曲を演奏する事が多かった。
 
-カップリング曲の「**FOOL ON THE PLANET (WHERE ARE YOU NOW)**」はジミー・ブラロウアー、ピーター・ウッドがリミックスを行っている。このバージョンはアルバム『[DRESS](https://ja.wikipedia.org/wiki/DRESS_\(TM_NETWORKのアルバム\) "wikilink")』未収録であったが、2004年にリリースされたベストアルバム『[Welcome to the FANKS\!](https://ja.wikipedia.org/wiki/Welcome_to_the_FANKS! "wikilink")』に初収録されている。
+カップリング曲の「**FOOL ON THE PLANET (WHERE ARE YOU NOW)**」はジミー・ブラロウアー、ピーター・ウッドがリミックスを行っている。このバージョンはアルバム『[DRESS](../Page/DRESS_\(TM_NETWORKのアルバム\).md "wikilink")』未収録であったが、2004年にリリースされたベストアルバム『[Welcome to the FANKS\!](../Page/Welcome_to_the_FANKS!.md "wikilink")』に初収録されている。
 
 ライブ等でこれらリプロダクションバージョンで演奏された楽曲は、アルバム『DRESS』リリース直後のライヴツアー『CAMP FANKS\!\! '89』のみであるが、唯一この曲だけはそれ以降のライブや1999年の再始動以降のライブでも頻繁にこのバージョンで演奏されることが多い（1994年終了ライブ、2003・2005・2007年のtribute LIVEなど）。
 
@@ -28,14 +28,14 @@
 
 **GET WILD '89**
 
-  - [DRESS](https://ja.wikipedia.org/wiki/DRESS_\(TM_NETWORKのアルバム\) "wikilink")
+  - [DRESS](../Page/DRESS_\(TM_NETWORKのアルバム\).md "wikilink")
   - BEAT EXPRESS ORIGINAL KARAOKE VOX for men (インストゥルメンタルバージョン)
-  - [TMN COLOSSEUM II](https://ja.wikipedia.org/wiki/TMN_COLOSSEUM "wikilink") (ライブバージョン。但し表記は『[Get Wild](../Page/Get_Wild.md "wikilink")』となっている。)
-  - [TMN CLASSIX 1](https://ja.wikipedia.org/wiki/TMN_CLASSIX "wikilink") (techno overdub mix)
+  - [TMN COLOSSEUM II](../Page/TMN_COLOSSEUM.md "wikilink") (ライブバージョン。但し表記は『[Get Wild](../Page/Get_Wild.md "wikilink")』となっている。)
+  - [TMN CLASSIX 1](../Page/TMN_CLASSIX.md "wikilink") (techno overdub mix)
   - [GROOVE GEAR 1984-1994](../Page/GROOVE_GEAR_1984-1994.md "wikilink") (DISC 2にオリジナル、DISC 3にtechno overdub mixが収録)
-  - [TAKASHI UTSUNOMIYA PRESENTS TMN RED](https://ja.wikipedia.org/wiki/TAKASHI_UTSUNOMIYA_PRESENTS_TMN_RED "wikilink")
-  - [TMN final LAST GROOVE 5.18](https://ja.wikipedia.org/wiki/TMN_final_live_LAST_GROOVE "wikilink") (ライブバージョン)
-  - [TIME CAPSULE all the singles](https://ja.wikipedia.org/wiki/TIME_CAPSULE_all_the_singles "wikilink")
+  - [TAKASHI UTSUNOMIYA PRESENTS TMN RED](../Page/TAKASHI_UTSUNOMIYA_PRESENTS_TMN_RED.md "wikilink")
+  - [TMN final LAST GROOVE 5.18](../Page/TMN_final_live_LAST_GROOVE.md "wikilink") (ライブバージョン)
+  - [TIME CAPSULE all the singles](../Page/TIME_CAPSULE_all_the_singles.md "wikilink")
   - [STAR BOX TM NETWORK](../Page/STAR_BOX_TM_NETWORK.md "wikilink")
   - [ALL the “Get Wild” ALBUM](https://ja.wikipedia.org/wiki/WORLD_HERITAGE_DOUBLE-DECADE_COMPLETE_BOX "wikilink")
   - [GET WILD SONG MAFIA](https://ja.wikipedia.org/wiki/GET_WILD_SONG_MAFIA "wikilink") (オリジナル・techno overdub mix・ライブバージョン全て収録)
@@ -43,20 +43,20 @@
   - [TK BOX 〜TETSUYA KOMURO HIT HISTORY〜](https://ja.wikipedia.org/wiki/TK_BOX_〜TETSUYA_KOMURO_HIT_HISTORY〜 "wikilink")
   - [TM NETWORK ORIGINAL SINGLES 1984-1999](https://ja.wikipedia.org/wiki/ORIGINAL_SINGLES_1984-1999 "wikilink")
   - [TM NETWORK ORIGINAL SINGLE BACK TRACKS 1984-1999](https://ja.wikipedia.org/wiki/ORIGINAL_SINGLE_BACK_TRACKS_1984-1999 "wikilink") (オリジナル・カラオケ。但し別テイク)
-  - [Gift from Fanks M](https://ja.wikipedia.org/wiki/Gift_from_Fanks_M "wikilink") (DISC 2にオリジナル、DISC 3に7inch Versionが収録)
+  - [Gift from Fanks M](../Page/Gift_from_Fanks_M.md "wikilink") (DISC 2にオリジナル、DISC 3に7inch Versionが収録)
 
 **FOOL ON THE PLANET (WHERE ARE YOU NOW)**
 
   - [Self Control](../Page/Self_Control_\(TM_NETWORKのアルバム\).md "wikilink") (オリジナルバージョン)
-  - [DRESS](https://ja.wikipedia.org/wiki/DRESS_\(TM_NETWORKのアルバム\) "wikilink") (2013年再発盤のみ)
-  - [TMN COLOSSEUM II](https://ja.wikipedia.org/wiki/TMN_COLOSSEUM "wikilink") (ライブバージョン)
+  - [DRESS](../Page/DRESS_\(TM_NETWORKのアルバム\).md "wikilink") (2013年再発盤のみ)
+  - [TMN COLOSSEUM II](../Page/TMN_COLOSSEUM.md "wikilink") (ライブバージョン)
   - [GROOVE GEAR 1](../Page/GROOVE_GEAR_1984-1994.md "wikilink") (オリジナルバージョン)
-  - [NAOTO KINE PRESENTS TMN BLUE](https://ja.wikipedia.org/wiki/NAOTO_KINE_PRESENTS_TMN_BLUE "wikilink") (オリジナルバージョン)
+  - [NAOTO KINE PRESENTS TMN BLUE](../Page/NAOTO_KINE_PRESENTS_TMN_BLUE.md "wikilink") (オリジナルバージョン)
   - [STAR BOX TM NETWORK](../Page/STAR_BOX_TM_NETWORK.md "wikilink") (オリジナルバージョン)
   - [BEST TRACKS 〜A message to the next generation〜](../Page/BEST_TRACKS_〜A_message_to_the_next_generation〜.md "wikilink") (オリジナルバージョン)
-  - [Welcome to the FANKS\!](https://ja.wikipedia.org/wiki/Welcome_to_the_FANKS! "wikilink") (Disc1にオリジナル、Disc3に本曲が収録)
+  - [Welcome to the FANKS\!](../Page/Welcome_to_the_FANKS!.md "wikilink") (Disc1にオリジナル、Disc3に本曲が収録)
   - [TM NETWORK THE SINGLES 2](https://ja.wikipedia.org/wiki/THE_SINGLES_2 "wikilink") (初回限定盤のみ)
-  - [Gift from Fanks T](https://ja.wikipedia.org/wiki/Gift_from_Fanks_T "wikilink")
-  - [Gift from Fanks M](https://ja.wikipedia.org/wiki/Gift_from_Fanks_M "wikilink") (オリジナルバージョン)
+  - [Gift from Fanks T](../Page/Gift_from_Fanks_T.md "wikilink")
+  - [Gift from Fanks M](../Page/Gift_from_Fanks_M.md "wikilink") (オリジナルバージョン)
 
 [Category:1989年のシングル](https://ja.wikipedia.org/wiki/Category:1989年のシングル "wikilink") [Category:エピックレコードジャパンのシングル](https://ja.wikipedia.org/wiki/Category:エピックレコードジャパンのシングル "wikilink") [Category:TM_NETWORKの楽曲](https://ja.wikipedia.org/wiki/Category:TM_NETWORKの楽曲 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:小室みつ子が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室みつ子が制作した楽曲 "wikilink") [Category:楽曲_け](https://ja.wikipedia.org/wiki/Category:楽曲_け "wikilink")

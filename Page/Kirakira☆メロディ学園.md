@@ -1,7 +1,7 @@
 > この記事は[Kirakira](https://ja.wikipedia.org/wiki/Kirakira)から翻訳されています。
 
 
-**KiraKira☆メロディ学園**（キラキラメロディがくえん）は、[バンプレスト](https://ja.wikipedia.org/wiki/バンプレスト "wikilink")（[ミューラス](../Page/ミューラス.md "wikilink")）、[ニッポン放送](../Page/ニッポン放送.md "wikilink")、[AICによる](https://ja.wikipedia.org/wiki/アニメインターナショナルカンパニー "wikilink")[声優ユニット](../Page/声優ユニット.md "wikilink")企画。略称は**キラメロ**。
+**KiraKira☆メロディ学園**（キラキラメロディがくえん）は、[バンプレスト](../Page/バンプレスト.md "wikilink")（[ミューラス](../Page/ミューラス.md "wikilink")）、[ニッポン放送](../Page/ニッポン放送.md "wikilink")、[AICによる](../Page/アニメインターナショナルカンパニー.md "wikilink")[声優ユニット](../Page/声優ユニット.md "wikilink")企画。略称は**キラメロ**。
 
 担当者の一人は、[グッドスマイルカンパニー](../Page/グッドスマイルカンパニー.md "wikilink")社長になった[安藝貴範](https://ja.wikipedia.org/wiki/安藝貴範 "wikilink")。
 
@@ -23,12 +23,12 @@
 <td><ul>
 <li>No.1 赤見幸重</li>
 <li>No.2 <a href="../Page/浅野真澄.md" title="wikilink">浅野真澄</a></li>
-<li>No.3 <a href="https://ja.wikipedia.org/wiki/工藤杏" title="wikilink">新舞りあす</a></li>
+<li>No.3 <a href="../Page/工藤杏.md" title="wikilink">新舞りあす</a></li>
 <li>No.4 伊藤彩</li>
-<li>No.5 <a href="https://ja.wikipedia.org/wiki/伊東絵実" title="wikilink">伊藤栄味子</a></li>
-<li>No.6 <a href="https://ja.wikipedia.org/wiki/伊藤麻衣_(声優)" title="wikilink">伊藤麻衣</a></li>
-<li>No.7 <a href="https://ja.wikipedia.org/wiki/真木碧" title="wikilink">伊藤麻喜</a></li>
-<li>No.8 <a href="https://ja.wikipedia.org/wiki/いのくちゆか" title="wikilink">猪口有佳</a></li>
+<li>No.5 <a href="../Page/伊東絵実.md" title="wikilink">伊藤栄味子</a></li>
+<li>No.6 <a href="../Page/伊藤麻衣_(声優).md" title="wikilink">伊藤麻衣</a></li>
+<li>No.7 <a href="../Page/真木碧.md" title="wikilink">伊藤麻喜</a></li>
+<li>No.8 <a href="../Page/いのくちゆか.md" title="wikilink">猪口有佳</a></li>
 <li>No.9 皆乃楓子</li>
 <li>No.10 大木美里</li>
 <li>No.11 <a href="../Page/オオゴシ*トモエ.md" title="wikilink">大越友恵</a></li>
@@ -40,7 +40,7 @@
 </ul></td>
 <td><ul>
 <li>No.17 加藤まどか</li>
-<li>No.18 <a href="https://ja.wikipedia.org/wiki/門脇舞以" title="wikilink">門脇舞</a></li>
+<li>No.18 <a href="../Page/門脇舞以.md" title="wikilink">門脇舞</a></li>
 <li>No.19 亀井朝香</li>
 <li>No.20 欠番</li>
 <li>No.21 <a href="https://ja.wikipedia.org/wiki/榊原ゆい" title="wikilink">雛野真代</a></li>
@@ -68,19 +68,19 @@
 <li>No.41 欠番</li>
 <li>No.42 田邊みり</li>
 <li>No.43 欠番</li>
-<li>No.44 <a href="https://ja.wikipedia.org/wiki/つちやみえこ" title="wikilink">土屋美恵子</a></li>
+<li>No.44 <a href="../Page/つちやみえこ.md" title="wikilink">土屋美恵子</a></li>
 <li>No.45 出口元子</li>
 <li>No.46 堂免聡美</li>
-<li>No.47 <a href="https://ja.wikipedia.org/wiki/徳永愛" title="wikilink">徳永愛</a></li>
+<li>No.47 <a href="../Page/徳永愛.md" title="wikilink">徳永愛</a></li>
 <li>No.48 豊留千佳子</li>
 </ul></td>
 <td><ul>
 <li>No.49 <a href="../Page/永井乃愛.md" title="wikilink">永井信子</a></li>
 <li>No.50 長阪可南子</li>
 <li>No.51 長野江梨子</li>
-<li>No.52 <a href="https://ja.wikipedia.org/wiki/日笠山亜美" title="wikilink">日笠山亜美</a></li>
+<li>No.52 <a href="../Page/日笠山亜美.md" title="wikilink">日笠山亜美</a></li>
 <li>No.53 <a href="../Page/広江美奈.md" title="wikilink">広江美奈</a></li>
-<li>No.54 <a href="https://ja.wikipedia.org/wiki/古原奈々" title="wikilink">古内里佳</a></li>
+<li>No.54 <a href="../Page/古原奈々.md" title="wikilink">古内里佳</a></li>
 <li>No.55 古田英恵</li>
 <li>No.56 <a href="../Page/細川聖可.md" title="wikilink">細川聖可</a></li>
 <li>No.57 欠番</li>
@@ -110,7 +110,7 @@
 <li>No.5 池江倫子</li>
 <li>No.6 <a href="https://ja.wikipedia.org/wiki/伊藤あすか" title="wikilink">伊藤あすか</a></li>
 <li>No.7 井上恵理</li>
-<li>No.8 <a href="https://ja.wikipedia.org/wiki/金子絵里" title="wikilink">絵里</a></li>
+<li>No.8 <a href="../Page/金子絵里.md" title="wikilink">絵里</a></li>
 <li>No.9 遠藤さとこ</li>
 <li>No.10 <a href="../Page/桜花由美.md" title="wikilink">桜花由美</a></li>
 <li>No.11 桜沢レナ</li>
@@ -120,7 +120,7 @@
 <li>No.15 小野彰子</li>
 </ul></td>
 <td><ul>
-<li>No.16 <a href="https://ja.wikipedia.org/wiki/折戸マリ" title="wikilink">折戸マリ</a></li>
+<li>No.16 <a href="../Page/折戸マリ.md" title="wikilink">折戸マリ</a></li>
 <li>No.17 神谷るり</li>
 <li>No.18 川崎理加</li>
 <li>No.19 <a href="../Page/Cutie_Pai.md" title="wikilink">神咲まゆみ</a></li>
@@ -157,7 +157,7 @@
 <li>No.46 山ざき瞳</li>
 <li>No.47 山田香世子</li>
 <li>No.48 山田さとこ</li>
-<li>No.49 <a href="https://ja.wikipedia.org/wiki/吉川由弥" title="wikilink">吉川由弥</a></li>
+<li>No.49 <a href="../Page/吉川由弥.md" title="wikilink">吉川由弥</a></li>
 <li>No.50 和所こづえ</li>
 </ul></td>
 </tr>
@@ -247,7 +247,7 @@
 
 ## その他
 
-  - [ドラマCD](https://ja.wikipedia.org/wiki/ドラマCD "wikilink")化について
+  - [ドラマCD](../Page/ドラマCD.md "wikilink")化について
     KiraKiraメロディ学園 ドラマCD 1 - 2、2000年発売（第1巻3月25日、第2巻4月28日）。
   - [OVA](../Page/OVA.md "wikilink")化について
     2001年、プロジェクト開始直後より告知されていたアニメ化（OVAリリース）が決定し、メインの声優として以下のメンバーが各種アニメ雑誌に公開されたが、解散にともないお蔵入りとなった。

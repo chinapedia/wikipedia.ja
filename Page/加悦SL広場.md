@@ -1,7 +1,7 @@
 > この記事は[SL](https://ja.wikipedia.org/wiki/SL)から翻訳されています。
 
 
-**加悦SL広場**（かやSLひろば）は[京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")[与謝野町](../Page/与謝野町.md "wikilink")[加悦にある](https://ja.wikipedia.org/wiki/加悦町 "wikilink")[鉄道保存展示施設](https://ja.wikipedia.org/wiki/鉄道保存展示施設 "wikilink")。主に[加悦鉄道](https://ja.wikipedia.org/wiki/加悦鉄道 "wikilink")で活躍した車両を展示している。[1977年](../Page/1977年.md "wikilink")（昭和52年）9月に開設された。当初は[加悦駅](https://ja.wikipedia.org/wiki/加悦駅 "wikilink")構内（1985年に営業廃止）にあったが、[1993年](../Page/1993年.md "wikilink")（平成5年）に当時の加悦町へ加悦駅用地を譲渡することになったため、[1996年](../Page/1996年.md "wikilink")（平成8年）11月に現在の[大江山鉱山駅跡に移転](https://ja.wikipedia.org/wiki/加悦SL広場#大江山鉱山駅\(跡\) "wikilink")・再開している。加悦鉄道から社名変更した「カヤ興産株式会社」が運営していたが、[2011年](../Page/2011年.md "wikilink")（平成23年）[4月1日](../Page/4月1日.md "wikilink")に同社と宮津港運株式会社が合併して設立された「宮津海陸運輸株式会社」の運営となった。現在は全部で27両を保存展示している。そのうち11両が[動態保存](../Page/動態保存.md "wikilink")されている。
+**加悦SL広場**（かやSLひろば）は[京都府](../Page/京都府.md "wikilink")[与謝野町](../Page/与謝野町.md "wikilink")[加悦にある](../Page/加悦町.md "wikilink")[鉄道保存展示施設](https://ja.wikipedia.org/wiki/鉄道保存展示施設 "wikilink")。主に[加悦鉄道](../Page/加悦鉄道.md "wikilink")で活躍した車両を展示している。[1977年](../Page/1977年.md "wikilink")（昭和52年）9月に開設された。当初は[加悦駅](https://ja.wikipedia.org/wiki/加悦駅 "wikilink")構内（1985年に営業廃止）にあったが、[1993年](../Page/1993年.md "wikilink")（平成5年）に当時の加悦町へ加悦駅用地を譲渡することになったため、[1996年](../Page/1996年.md "wikilink")（平成8年）11月に現在の[大江山鉱山駅跡に移転](https://ja.wikipedia.org/wiki/加悦SL広場#大江山鉱山駅\(跡\) "wikilink")・再開している。加悦鉄道から社名変更した「カヤ興産株式会社」が運営していたが、[2011年](../Page/2011年.md "wikilink")（平成23年）[4月1日](../Page/4月1日.md "wikilink")に同社と宮津港運株式会社が合併して設立された「宮津海陸運輸株式会社」の運営となった。現在は全部で27両を保存展示している。そのうち11両が[動態保存](../Page/動態保存.md "wikilink")されている。
 
 構内に保存展示されている**旧加悦鉄道2号機関車（123号機関車）**は、国の[重要文化財](../Page/重要文化財.md "wikilink")及び、[日本遺産](https://ja.wikipedia.org/wiki/日本遺産 "wikilink")「[丹後ちりめん回廊](https://ja.wikipedia.org/wiki/丹後ちりめん回廊 "wikilink")」の構成文化財に指定されている\[1\]\[2\]。
 
@@ -21,7 +21,7 @@
   - [1996年](../Page/1996年.md "wikilink")（平成8年） - 加悦SLの広場が大江山鉱山駅跡に移転。「加悦SL広場」としてリニューアルオープンした\[11\]。来客用休憩車となっていたサハ3104が移転に伴いカフェ車に改造され、カフェトレイン蒸気屋として営業\[12\]。
   - [2000年](../Page/2000年.md "wikilink")（平成12年） - 2号機関車、木造客車5両（ハ21、ハブ3、フハ2、ハ10）、有蓋貨物1両（ワブ3）の合計7両が日本産業考古学会の産業遺産に認定\[13\]。
   - [2003年](../Page/2003年.md "wikilink")（平成15年） - 蒸気機関車3両(2、4、1261）、木造客車5両（ハ21、ハブ3、フハ2、ハ10）、有蓋貨物1両（ワブ3）、気動車2両（キハ101、キハ51）、合計11両が旧加悦町（現・与謝野町）文化財に指定\[14\]。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）6月9日 - **旧加悦鉄道2号機関車（123号機関車）**が車歴簿とともに**国の重要文化財**に指定\[15\]。
+  - [2005年](../Page/2005年.md "wikilink")（平成17年）6月9日 - **旧加悦鉄道2号機関車（123号機関車）**が車歴簿とともに**国の重要文化財**に指定\[15\]。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）7月 - 車両以外の加悦鉄道遺産を集約し、与謝野町指定文化財である加悦駅舎にて[加悦鉄道資料館](https://ja.wikipedia.org/wiki/加悦鉄道資料館 "wikilink")として一般公開を始めた\[16\]。
   - [2011年](../Page/2011年.md "wikilink")（平成23年） - 宮津港運株式会社とカヤ興産株式会社が合併。宮津海陸運輸株式会社が発足\[17\]。以後、宮津海陸運輸の社員に加悦鐡道保存会が協力する形で車両の維持並びに加悦SL広場の運営を行っている\[18\]。
 
@@ -90,7 +90,7 @@
 
 ### 加悦鐡道保存会による保全活動
 
-**加悦鐡道保存会**は、加悦SL広場や旧加悦鉄道沿線地域での加悦鉄道遺産の保存継承活動及び、各種イベントや学習会などの事業を行うNPO法人として、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）に設立され、[加悦鉄道資料館](https://ja.wikipedia.org/wiki/加悦鉄道資料館 "wikilink")の管理並びに、加悦SL広場の運営にも協力している\[26\]\[27\]\[28\]。
+**加悦鐡道保存会**は、加悦SL広場や旧加悦鉄道沿線地域での加悦鉄道遺産の保存継承活動及び、各種イベントや学習会などの事業を行うNPO法人として、[2006年](../Page/2006年.md "wikilink")（平成18年）に設立され、[加悦鉄道資料館](https://ja.wikipedia.org/wiki/加悦鉄道資料館 "wikilink")の管理並びに、加悦SL広場の運営にも協力している\[26\]\[27\]\[28\]。
 
 ### 閉園についての一連の報道と発表の経緯
 
@@ -98,17 +98,17 @@
 
 さらに、閉園について報じた[京都新聞社](https://ja.wikipedia.org/wiki/京都新聞社 "wikilink")の記者は自身のコラムで、2019年（令和元年）12月4日に京都市内に展示されていた蒸気機関車C160が与謝野町に帰郷したことに触れ、『そんな中にあって、（中略）閉園が検討されているのは「青天のへきれき」だ。』と述べ、与謝野町の歴史を学ぶ時、身近に町を支えた車両があるということは代え難い財産であること、他の地域で車両が保存された場合、今以上に歴史的価値を高めていくことの難しさについて言及し、今後も町内に残せるのか、動向を見守っていきたいという\[33\]。
 
-加悦SL広場は、1990年代は[観光バス](https://ja.wikipedia.org/wiki/観光バス "wikilink")の立ち寄り地の[観光地](https://ja.wikipedia.org/wiki/観光地 "wikilink")としてにぎわっていたが、[山陰近畿自動車道](../Page/山陰近畿自動車道.md "wikilink")の[京丹後市](../Page/京丹後市.md "wikilink")への延伸の影響もあり、客足が遠のいており、2019年6月からは水曜日だけであった定休日に火曜日と木曜日を追加している\[34\]\[35\]。
+加悦SL広場は、1990年代は[観光バス](../Page/観光バス.md "wikilink")の立ち寄り地の[観光地](https://ja.wikipedia.org/wiki/観光地 "wikilink")としてにぎわっていたが、[山陰近畿自動車道](../Page/山陰近畿自動車道.md "wikilink")の[京丹後市](../Page/京丹後市.md "wikilink")への延伸の影響もあり、客足が遠のいており、2019年6月からは水曜日だけであった定休日に火曜日と木曜日を追加している\[34\]\[35\]。
 
 2020年（令和2年）2月17日、宮津海陸運輸が同年3月31日をもって閉園することを発表した\[36\]。
 
 ## 大江山鉱山駅(跡)
 
-**大江山鉱山駅**（おおえやまこうざんえき）は、かつて大江山にニッケル鉱山（[大江山鉱山](https://ja.wikipedia.org/wiki/大江山鉱山 "wikilink")）が発見されたことに伴い、[加悦鉄道](https://ja.wikipedia.org/wiki/加悦鉄道 "wikilink")[加悦駅](https://ja.wikipedia.org/wiki/加悦駅 "wikilink")から鉱土輸送のための貨物専用線（大江山線）として2.6キロ延伸された際に設置されていた駅\[37\]\[38\]。大江山線は、[1940年](../Page/1940年.md "wikilink")(昭和15年）6月には開通していた\[39\]。[1945年](../Page/1945年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")20年）の終戦後、ニッケル鉱山の採掘が休止、ニッケル鉱土輸送は廃止された。
+**大江山鉱山駅**（おおえやまこうざんえき）は、かつて大江山にニッケル鉱山（[大江山鉱山](https://ja.wikipedia.org/wiki/大江山鉱山 "wikilink")）が発見されたことに伴い、[加悦鉄道](../Page/加悦鉄道.md "wikilink")[加悦駅](https://ja.wikipedia.org/wiki/加悦駅 "wikilink")から鉱土輸送のための貨物専用線（大江山線）として2.6キロ延伸された際に設置されていた駅\[37\]\[38\]。大江山線は、[1940年](../Page/1940年.md "wikilink")(昭和15年）6月には開通していた\[39\]。[1945年](../Page/1945年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")20年）の終戦後、ニッケル鉱山の採掘が休止、ニッケル鉱土輸送は廃止された。
 
 その後、地方鉄道として営業許可を申請。[1948年](../Page/1948年.md "wikilink")（昭和23年）に認可され、翌1949年（昭和24年）には旅客運賃制定も認可。運行を開始する予定であったが、路線バスとの競合により実現することはなかった\[40\]。加悦鉄道が[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（[昭和](../Page/昭和.md "wikilink")60年）4月30日に廃止されるまでの間、大江山鉱山が[1955年](../Page/1955年.md "wikilink")（昭和30年）の6月から9月の4ヶ月間、一時的に掘削を再開した期間に貨物列車が走行した。大江山鉱山は1967年（昭和42年）にも一時的に掘削を再開しているが、その際は線路の状態が思わしくなく、ダンプによる陸路輸送だった。その状況を鑑みた日本冶金は大江線の復旧作業に着手、完成させたが、[1975年](../Page/1975年.md "wikilink")（昭和50年）頃までの年2回程度の[試運転](https://ja.wikipedia.org/wiki/試運転 "wikilink")と称したキハ101の走行を行っていたのみで本格的な列車は走行せず、廃線を迎えた\[41\]。
 
-現在は、加悦SL広場として整備されており、[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")（[昭和](../Page/昭和.md "wikilink")45年）より、旧加悦駅構内の一区画で営業していたものを施設を新たに建築し、[1996年](../Page/1996年.md "wikilink")（[平成](../Page/平成.md "wikilink")8年）移転リニューアルさせたものである\[42\]\[43\]。
+現在は、加悦SL広場として整備されており、[1970年](../Page/1970年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")45年）より、旧加悦駅構内の一区画で営業していたものを施設を新たに建築し、[1996年](../Page/1996年.md "wikilink")（[平成](../Page/平成.md "wikilink")8年）移転リニューアルさせたものである\[42\]\[43\]。
 
 ## 営業時間
 
@@ -128,8 +128,8 @@
   - [加悦鉄道4](https://ja.wikipedia.org/wiki/国鉄1200形蒸気機関車#1250形・1265形（川崎造船所製1200系） "wikilink") ← 河東鉄道（[長野電鉄](../Page/長野電鉄.md "wikilink")）3 - 与謝野町[文化財](../Page/文化財.md "wikilink")に指定
   - 加悦鉄道[1261](https://ja.wikipedia.org/wiki/国鉄1260形蒸気機関車 "wikilink") ← 旧[簸上鉄道](https://ja.wikipedia.org/wiki/木次線 "wikilink")1261 - 与謝野町文化財に指定
   - [国鉄C57 189](../Page/国鉄C57形蒸気機関車.md "wikilink")
-  - [国鉄C58 390](https://ja.wikipedia.org/wiki/国鉄C58形蒸気機関車 "wikilink")
-  - [東洋レーヨン](https://ja.wikipedia.org/wiki/東レ "wikilink")103 ← [長門鉄道](https://ja.wikipedia.org/wiki/長門鉄道 "wikilink")[101](https://ja.wikipedia.org/wiki/国鉄1045形蒸気機関車 "wikilink")
+  - [国鉄C58 390](../Page/国鉄C58形蒸気機関車.md "wikilink")
+  - [東洋レーヨン](../Page/東レ.md "wikilink")103 ← [長門鉄道](https://ja.wikipedia.org/wiki/長門鉄道 "wikilink")[101](https://ja.wikipedia.org/wiki/国鉄1045形蒸気機関車 "wikilink")
 
 ファイル:Kaya 2 in Kaya SL Square.jpg|2 ファイル:Kaya 4 in Kaya SL Square.jpg|4 ファイル:Kaya 1261 in Kaya SL Square.jpg|1261 ファイル:C57 189 in Kaya SL Square.jpg|C57 189 ファイル:C58 390 in Kaya SL Square.jpg|C58 390 ファイル:Toyo 103 in Kaya SL Square.jpg|103
 
@@ -137,7 +137,7 @@
 
   - 加悦鉄道DB201- [動態保存](../Page/動態保存.md "wikilink")（現存する唯一の[森製作所](../Page/森製作所.md "wikilink")製造の機関車）
   - 加悦鉄道DC351
-  - [神奈川臨海鉄道](https://ja.wikipedia.org/wiki/神奈川臨海鉄道 "wikilink")DB202 - 動態保存
+  - [神奈川臨海鉄道](../Page/神奈川臨海鉄道.md "wikilink")DB202 - 動態保存
   - TMC100形モーターカー - 動態保存
   - [日本専売公社](../Page/日本専売公社.md "wikilink")岡山KD-4 - 動態保存
 
@@ -146,7 +146,7 @@
 ### 気動車
 
   - 加悦鉄道キハ101 - 動態保存（日本に現存する唯一の[片ボギー](https://ja.wikipedia.org/wiki/片ボギー "wikilink")車両） - 与謝野町文化財に指定
-  - 加悦鉄道キハユニ51 ← [船木鉄道](https://ja.wikipedia.org/wiki/船木鉄道 "wikilink") ← [芸備鉄道](https://ja.wikipedia.org/wiki/芸備鉄道 "wikilink")キハユニ18 - 与謝野町文化財に指定
+  - 加悦鉄道キハユニ51 ← [船木鉄道](../Page/船木鉄道.md "wikilink") ← [芸備鉄道](https://ja.wikipedia.org/wiki/芸備鉄道 "wikilink")キハユニ18 - 与謝野町文化財に指定
   - [加悦鉄道キハ08 3](../Page/国鉄キハ08系気動車.md "wikilink")
   - [加悦鉄道キハ10 18](../Page/国鉄キハ10系気動車.md "wikilink")
 
@@ -165,14 +165,14 @@
 
 ### 電車
 
-  - [京都市電](https://ja.wikipedia.org/wiki/京都市電 "wikilink")[狭軌1形23号車](https://ja.wikipedia.org/wiki/京都市交通局狭軌1形電車 "wikilink")
-  - [南海電鉄](../Page/南海電気鉄道.md "wikilink")[モハ1202](https://ja.wikipedia.org/wiki/南海1201形電車 "wikilink") - 保存のために譲り受け
+  - [京都市電](../Page/京都市電.md "wikilink")[狭軌1形23号車](https://ja.wikipedia.org/wiki/京都市交通局狭軌1形電車 "wikilink")
+  - [南海電鉄](../Page/南海電気鉄道.md "wikilink")[モハ1202](../Page/南海1201形電車.md "wikilink") - 保存のために譲り受け
 
 ファイル:Kyoto-shiden-23 in Kaya SL Square.jpg|京都市電23(表記は5) ファイル:Nankai 1201 series 1202 in Kaya SL Square.JPG|モハ1202
 
 ### 貨車
 
-  - [遠州鉄道](https://ja.wikipedia.org/wiki/遠州鉄道 "wikilink")ト404
+  - [遠州鉄道](../Page/遠州鉄道.md "wikilink")ト404
   - 加悦鉄道ワブ3 - 与謝野町文化財に指定。産業考古学会産業遺産に認定。
   - [国鉄ヨ2047](../Page/国鉄ヨ2000形貨車.md "wikilink")
   - [国鉄キ165](../Page/国鉄キ100形貨車.md "wikilink")
@@ -205,9 +205,9 @@
 
 ## アクセス
 
-  - [京都丹後鉄道宮豊線](https://ja.wikipedia.org/wiki/京都丹後鉄道宮豊線 "wikilink")：[与謝野駅](https://ja.wikipedia.org/wiki/与謝野駅 "wikilink")から
+  - [京都丹後鉄道宮豊線](https://ja.wikipedia.org/wiki/京都丹後鉄道宮豊線 "wikilink")：[与謝野駅](../Page/与謝野駅.md "wikilink")から
       - [丹後海陸交通](../Page/丹後海陸交通.md "wikilink")バス（与謝、共栄高校ゆき）「SL広場西」下車、徒歩5分。
-  - [JR西日本](https://ja.wikipedia.org/wiki/西日本旅客鉄道 "wikilink")[山陰本線](https://ja.wikipedia.org/wiki/山陰本線 "wikilink")・[福知山線](../Page/福知山線.md "wikilink")・[京都丹後鉄道宮福線](https://ja.wikipedia.org/wiki/京都丹後鉄道宮福線 "wikilink")：[福知山駅](../Page/福知山駅.md "wikilink")から
+  - [JR西日本](../Page/西日本旅客鉄道.md "wikilink")[山陰本線](https://ja.wikipedia.org/wiki/山陰本線 "wikilink")・[福知山線](../Page/福知山線.md "wikilink")・[京都丹後鉄道宮福線](https://ja.wikipedia.org/wiki/京都丹後鉄道宮福線 "wikilink")：[福知山駅](../Page/福知山駅.md "wikilink")から
       - 丹後海陸交通バス（傘松ケーブル下行き）「SL広場西」下車、徒歩5分
           - 与謝野駅からに比べると、本数が少ない。
 
@@ -231,7 +231,7 @@
 ## 関連項目
 
   - [加悦鉄道資料館](https://ja.wikipedia.org/wiki/加悦鉄道資料館 "wikilink")
-  - [サイクリングロード](https://ja.wikipedia.org/wiki/自転車道 "wikilink")（[加悦岩滝自転車道](https://ja.wikipedia.org/wiki/京都府道803号加悦岩滝自転車道線 "wikilink")）
+  - [サイクリングロード](../Page/自転車道.md "wikilink")（[加悦岩滝自転車道](../Page/京都府道803号加悦岩滝自転車道線.md "wikilink")）
   - [道の駅](../Page/道の駅.md "wikilink")[シルクのまち かや](../Page/道の駅シルクのまち_かや.md "wikilink")
   - [岸由一郎](../Page/岸由一郎.md "wikilink")
   - [廃線](../Page/廃線.md "wikilink")

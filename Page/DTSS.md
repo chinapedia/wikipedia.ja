@@ -1,7 +1,7 @@
 > この記事は[DTSS](https://ja.wikipedia.org/wiki/DTSS)から翻訳されています。
 
 
-**DTSS**(Dartmouth Time-Sharing System、**ダートマス・タイムシェアリングシステム**)は、世界で初めて成功裏に実装された大規模[タイムシェアリングシステム](../Page/タイムシェアリングシステム.md "wikilink")である。[Bolt, Beranek and Newman](../Page/BBNテクノロジーズ.md "wikilink") で[PDP-1](../Page/PDP-1.md "wikilink")上で構築されたタイムシェアリングシステムに影響を受けている。1962年、[ダートマス大学](https://ja.wikipedia.org/wiki/ダートマス大学 "wikilink")の[ジョン・ケメニーと](https://ja.wikipedia.org/wiki/ジョン・ジョージ・ケメニー "wikilink")は新たなタイムシェアリングシステム開発の資金援助を[NSFに申請した](../Page/アメリカ国立科学財団.md "wikilink")（実際に出資されたのは1964年）\[1\]。[1963年](../Page/1963年.md "wikilink")、大学の全メンバーに計算設備への容易なアクセスを提供する目的で\[2\]、ケメニーとカーツの指揮下で学生のチーム\[3\]によって実装が開始された。1964年5月1日午前4時、システムが運用開始された。なお、このシステムは1999年末まで運用された\[4\]\[5\]。DTSSは当初、[GE 235](https://ja.wikipedia.org/wiki/GE-200シリーズ "wikilink") コンピュータ上に実装され、端末プロセッサ GE Datanet 30 が235を制御する形態だった。後に [GE 635](../Page/GE-600シリーズ.md "wikilink") 上に再実装されているが\[6\]、端末制御には相変わらず Datanet 30 を使用していた。635版のDTSSは1970年代に300台弱の端末によるタイムシェアリングを実現しており、これは当時としては非常に大規模である。
+**DTSS**(Dartmouth Time-Sharing System、**ダートマス・タイムシェアリングシステム**)は、世界で初めて成功裏に実装された大規模[タイムシェアリングシステム](../Page/タイムシェアリングシステム.md "wikilink")である。[Bolt, Beranek and Newman](../Page/BBNテクノロジーズ.md "wikilink") で[PDP-1](../Page/PDP-1.md "wikilink")上で構築されたタイムシェアリングシステムに影響を受けている。1962年、[ダートマス大学](../Page/ダートマス大学.md "wikilink")の[ジョン・ケメニーと](https://ja.wikipedia.org/wiki/ジョン・ジョージ・ケメニー "wikilink")は新たなタイムシェアリングシステム開発の資金援助を[NSFに申請した](../Page/アメリカ国立科学財団.md "wikilink")（実際に出資されたのは1964年）\[1\]。[1963年](../Page/1963年.md "wikilink")、大学の全メンバーに計算設備への容易なアクセスを提供する目的で\[2\]、ケメニーとカーツの指揮下で学生のチーム\[3\]によって実装が開始された。1964年5月1日午前4時、システムが運用開始された。なお、このシステムは1999年末まで運用された\[4\]\[5\]。DTSSは当初、[GE 235](../Page/GE-200シリーズ.md "wikilink") コンピュータ上に実装され、端末プロセッサ GE Datanet 30 が235を制御する形態だった。後に [GE 635](../Page/GE-600シリーズ.md "wikilink") 上に再実装されているが\[6\]、端末制御には相変わらず Datanet 30 を使用していた。635版のDTSSは1970年代に300台弱の端末によるタイムシェアリングを実現しており、これは当時としては非常に大規模である。
 
 その目的（あらゆる学科の学生の教育）のため、DTSSは使い易さを優先して設計された。
 
@@ -17,7 +17,7 @@ DTSSには世界初の[統合開発環境](../Page/統合開発環境.md "wikili
 
 ユーザーが入力した先頭に行番号のある行はプログラムに追加され、もし以前に同じ行番号の行を入力していたら、それを置き換える。それ以外の入力行は即座にコンパイルされ実行される。行番号のみの入力は保存されないが、同じ行番号で入力済みの行があればそれを削除する効果がある。このような入力方法になっているのは、DTSSで使用された[端末](../Page/端末.md "wikilink")が[テレタイプ端末](../Page/テレタイプ端末.md "wikilink")だったからである。
 
-1968年から1970年代中ごろにかけて、黎明期のネットワークによって東海岸の他の学校や研究機関もDTSSに接続された。例えば、、[フィリップス・アカデミー](https://ja.wikipedia.org/wiki/フィリップス・アカデミー "wikilink")、[海軍兵学校などで](../Page/海軍兵学校_\(アメリカ合衆国\).md "wikilink")、テレタイプ端末[ASR-33](../Page/ASR-33.md "wikilink")とモデムを使って接続した。ユーザー間で[電子メール](../Page/電子メール.md "wikilink")的なメッセージのやり取りが可能で、[UNIX](../Page/UNIX.md "wikilink")の[talk](https://ja.wikipedia.org/wiki/talk "wikilink")コマンドの前身となったリアルタイム[チャット](../Page/チャット.md "wikilink")機能も存在した。
+1968年から1970年代中ごろにかけて、黎明期のネットワークによって東海岸の他の学校や研究機関もDTSSに接続された。例えば、、[フィリップス・アカデミー](../Page/フィリップス・アカデミー.md "wikilink")、[海軍兵学校などで](../Page/海軍兵学校_\(アメリカ合衆国\).md "wikilink")、テレタイプ端末[ASR-33](../Page/ASR-33.md "wikilink")とモデムを使って接続した。ユーザー間で[電子メール](../Page/電子メール.md "wikilink")的なメッセージのやり取りが可能で、[UNIX](../Page/UNIX.md "wikilink")の[talk](https://ja.wikipedia.org/wiki/talk "wikilink")コマンドの前身となったリアルタイム[チャット](../Page/チャット.md "wikilink")機能も存在した。
 
 [2000年](../Page/2000年.md "wikilink")、DTSSシステムをシミュレータ上で再生するプロジェクトが行われ、[Microsoft Windowsと](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Macintosh](../Page/Macintosh.md "wikilink")上でDTSSが利用可能となっている\[8\]。
 

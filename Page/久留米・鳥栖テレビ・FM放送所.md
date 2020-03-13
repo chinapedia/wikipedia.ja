@@ -1,13 +1,13 @@
 > この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
 
 
-**久留米・鳥栖テレビ・FM放送所**（くるめ・とすテレビ・エフエムほうそうじょ）は、[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")[那珂川市](https://ja.wikipedia.org/wiki/那珂川市 "wikilink")と[佐賀県](../Page/佐賀県.md "wikilink")[鳥栖市](../Page/鳥栖市.md "wikilink")にまたがる[九千部山](../Page/九千部山.md "wikilink")に存在するテレビ、ラジオ放送などの送信所である。
+**久留米・鳥栖テレビ・FM放送所**（くるめ・とすテレビ・エフエムほうそうじょ）は、[福岡県](../Page/福岡県.md "wikilink")[那珂川市](../Page/那珂川市.md "wikilink")と[佐賀県](../Page/佐賀県.md "wikilink")[鳥栖市](../Page/鳥栖市.md "wikilink")にまたがる[九千部山](../Page/九千部山.md "wikilink")に存在するテレビ、ラジオ放送などの送信所である。
 
 この記事では、[2013年](../Page/2013年.md "wikilink")に「補完局」として設置された“**久留米東デジタルテレビジョン中継局**”（くるめひがし-ちゅうけいきょく）についても述べる。
 
 ## 概要
 
-福岡県[筑後地方](https://ja.wikipedia.org/wiki/筑後地方 "wikilink")及び佐賀県南東部におけるテレビ放送とFM放送の基幹送信所として位置づけられている。地理的事情で、[福岡都市圏](../Page/福岡都市圏.md "wikilink")でもここにアンテナを向けている世帯が多く、九州北部の広範囲の地域に住む世帯が利用する。
+福岡県[筑後地方](../Page/筑後地方.md "wikilink")及び佐賀県南東部におけるテレビ放送とFM放送の基幹送信所として位置づけられている。地理的事情で、[福岡都市圏](../Page/福岡都市圏.md "wikilink")でもここにアンテナを向けている世帯が多く、九州北部の広範囲の地域に住む世帯が利用する。
 
 鳥栖市の城山による山陰となり、久留米市の一部で韓国からの到来波の影響でNHK福岡が難視聴となる地域が現れた。このため国は2012年5月に、「補完局」として“久留米東デジタルテレビジョン中継放送局”を置局させることで解決する方針を決め\[1\]、2012年12月NHKに予備免許を交付した\[2\]。
 
@@ -27,9 +27,9 @@
   - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")（昭和46年）[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")　サガテレビが、九千部山に鳥栖中継局を開設。
   - [1991年](../Page/1991年.md "wikilink")（[平成](../Page/平成.md "wikilink")3年）4月1日　ティー・エックス・エヌ九州（現在のTVQ九州放送）久留米中継局、福岡局・北九州中継局と同時開局。
   - [1993年](../Page/1993年.md "wikilink")（平成5年）[9月1日](../Page/9月1日.md "wikilink")　[エフエム九州](../Page/エフエム九州.md "wikilink")（現在のCROSS FM）久留米中継局、福岡局など4局と同時開局
-  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）4月1日　九州国際エフエム（2011年1月1日に[天神エフエム](https://ja.wikipedia.org/wiki/天神エフエム "wikilink")に承継後、同年7月1日[ラブエフエム国際放送](../Page/ラブエフエム国際放送.md "wikilink")に社名変更。）福岡局、当地を親局として開局（北九州中継局同時開局）。
+  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）4月1日　九州国際エフエム（2011年1月1日に[天神エフエム](../Page/天神エフエム.md "wikilink")に承継後、同年7月1日[ラブエフエム国際放送](../Page/ラブエフエム国際放送.md "wikilink")に社名変更。）福岡局、当地を親局として開局（北九州中継局同時開局）。
   - [2003年](../Page/2003年.md "wikilink")（平成15年）[7月1日](../Page/7月1日.md "wikilink")　エフエム佐賀鳥栖中継局開局。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）[12月1日](../Page/12月1日.md "wikilink")　久留米局出力3W、佐賀局出力100W（定格）で地上デジタルテレビジョン放送開始。
+  - [2006年](../Page/2006年.md "wikilink")（平成18年）[12月1日](../Page/12月1日.md "wikilink")　久留米局出力3W、佐賀局出力100W（定格）で地上デジタルテレビジョン放送開始。
 
 <!-- end list -->
 
@@ -42,7 +42,7 @@
   - [2011年](../Page/2011年.md "wikilink")（平成23年）[7月24日](../Page/7月24日.md "wikilink")正午（午後0時）　アナログテレビ放送が終了。
   - [2013年](../Page/2013年.md "wikilink")（平成25年）[1月25日](../Page/1月25日.md "wikilink")　「補完局」の**久留米東デジタルテレビジョン中継放送局**開局\[4\]。
   - [2014年](../Page/2014年.md "wikilink")（平成26年）
-      - [7月17日](../Page/7月17日.md "wikilink")　[モバキャス鳥栖中継局の](https://ja.wikipedia.org/wiki/ジャパン・モバイルキャスティング "wikilink")[予備免許](https://ja.wikipedia.org/wiki/予備免許 "wikilink")交付\[5\]。
+      - [7月17日](../Page/7月17日.md "wikilink")　[モバキャス鳥栖中継局の](https://ja.wikipedia.org/wiki/ジャパン・モバイルキャスティング "wikilink")[予備免許](../Page/予備免許.md "wikilink")交付\[5\]。
       - [11月1日](../Page/11月1日.md "wikilink")　モバキャス鳥栖中継局開局。
   - [2016年](../Page/2016年.md "wikilink")（平成28年）
       - [3月28日](../Page/3月28日.md "wikilink")　[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")と[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")がFM補完中継局を開局\[6\]\[7\]。
@@ -83,9 +83,9 @@
 <th><p><a href="../Page/リモコンキーID.md" title="wikilink">ID</a></p></th>
 <th><p>放送局名</p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/識別信号#呼出符号" title="wikilink">呼出符号</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/チャンネル_(テレビ放送)" title="wikilink">チャンネル<br />
+<th><p><a href="../Page/チャンネル_(テレビ放送).md" title="wikilink">チャンネル<br />
 番号</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/空中線電力" title="wikilink">空中線<br />
+<th><p><a href="../Page/空中線電力.md" title="wikilink">空中線<br />
 電力</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/実効放射電力" title="wikilink">ERP</a></p></th>
 <th><p><a href="../Page/偏光.md" title="wikilink">偏波面</a></p></th>
@@ -117,7 +117,7 @@
 <td><p>30W</p></td>
 <td><p>300W</p></td>
 <td><p>水平偏波</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p>927,399世帯</p></td>
 <td><p>2006年<br />
 12月1日</p></td>
@@ -125,7 +125,7 @@
 <tr class="odd">
 <td><p>2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHK</a><br />
-<a href="../Page/NHK福岡放送局.md" title="wikilink">福岡</a><a href="https://ja.wikipedia.org/wiki/NHK教育テレビジョン" title="wikilink">教育</a></p></td>
+<a href="../Page/NHK福岡放送局.md" title="wikilink">福岡</a><a href="../Page/NHK教育テレビジョン.md" title="wikilink">教育</a></p></td>
 <td><p>13ch</p></td>
 <td><p>270W</p></td>
 <td><p><a href="../Page/全国放送.md" title="wikilink">全国</a></p></td>
@@ -138,7 +138,7 @@
 <tr class="even">
 <td><p>3</p></td>
 <td><p>NHK<br />
-福岡<a href="https://ja.wikipedia.org/wiki/NHK総合テレビジョン" title="wikilink">総合</a></p></td>
+福岡<a href="../Page/NHK総合テレビジョン.md" title="wikilink">総合</a></p></td>
 <td><p>17ch</p></td>
 <td><p>福岡県</p></td>
 <td></td>
@@ -296,7 +296,7 @@
 
 ### 備考
 
-  - 福岡県域の放送局は全局[福岡タワー](https://ja.wikipedia.org/wiki/福岡タワー "wikilink")局の[中継局](../Page/中継局.md "wikilink")扱い、佐賀県域の放送局は全局[親局](https://ja.wikipedia.org/wiki/親局 "wikilink")である。
+  - 福岡県域の放送局は全局[福岡タワー](../Page/福岡タワー.md "wikilink")局の[中継局](../Page/中継局.md "wikilink")扱い、佐賀県域の放送局は全局[親局](../Page/親局.md "wikilink")である。
 
   - 。
 
@@ -454,8 +454,8 @@ RKB毎日放送</p></td>
 ### 備考
 
   - [2011年](../Page/2011年.md "wikilink")（[平成](../Page/平成.md "wikilink")23年）[7月24日](../Page/7月24日.md "wikilink")をもってすべて廃止された。
-  - 鳥栖中継局は、[福岡タワー](https://ja.wikipedia.org/wiki/福岡タワー "wikilink")局の地デジ開始のために、[アナアナ変換](https://ja.wikipedia.org/wiki/アナアナ変換 "wikilink")が実施された。
-  - [鳥栖市](../Page/鳥栖市.md "wikilink")・[基山町](https://ja.wikipedia.org/wiki/基山町 "wikilink")などでは、NHKアナログ教育は久留米中継局の放送を視聴していた。なお、デジタル教育は佐賀親局の放送エリア。
+  - 鳥栖中継局は、[福岡タワー](../Page/福岡タワー.md "wikilink")局の地デジ開始のために、[アナアナ変換](https://ja.wikipedia.org/wiki/アナアナ変換 "wikilink")が実施された。
+  - [鳥栖市](../Page/鳥栖市.md "wikilink")・[基山町](../Page/基山町.md "wikilink")などでは、NHKアナログ教育は久留米中継局の放送を視聴していた。なお、デジタル教育は佐賀親局の放送エリア。
 
 ## FMラジオ放送
 
@@ -516,7 +516,7 @@ RKB毎日放送</p></td>
 <tr class="even">
 <td><p>83.4[31]</p></td>
 <td><p>NHK<br />
-福岡<a href="https://ja.wikipedia.org/wiki/NHK-FM放送" title="wikilink">FM</a></p></td>
+福岡<a href="../Page/NHK-FM放送.md" title="wikilink">FM</a></p></td>
 <td><p>1970年<br />
 11月1日</p></td>
 <td></td>

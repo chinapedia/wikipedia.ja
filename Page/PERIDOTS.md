@@ -5,7 +5,7 @@
 
 ## 概要
 
-2002年からソロで活動を開始し、2006年に[東芝EMIよりメジャーデビュー](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")。2007年に[ユニバーサルミュージックのアイランド](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")・レーベルへ移籍。
+2002年からソロで活動を開始し、2006年に[東芝EMIよりメジャーデビュー](../Page/EMIミュージック・ジャパン.md "wikilink")。2007年に[ユニバーサルミュージックのアイランド](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")・レーベルへ移籍。
 
 名前の由来は、[ジョニ・ミッチェル](../Page/ジョニ・ミッチェル.md "wikilink")の楽曲“Dawntreader”冒頭の気になる歌詞を調べたら、自分の[誕生石](../Page/誕生石.md "wikilink")だったことから。
 
@@ -30,7 +30,7 @@
   - Fire（1970年5月25日 - ）
     ベース担当。2015年9月加入。本名：松田卓己、大阪府出身。A型。the Badasses。
   - 中畑大樹（1974年7月25日 - ）
-    ドラム担当。2015年9月加入。青森県出身。B型。[Syrup 16g](https://ja.wikipedia.org/wiki/Syrup_16g "wikilink")、[VOLA & THE ORIENTAL MACHINE](../Page/VOLA_&_THE_ORIENTAL_MACHINE.md "wikilink")、YakYakYak。
+    ドラム担当。2015年9月加入。青森県出身。B型。[Syrup 16g](../Page/Syrup_16g.md "wikilink")、[VOLA & THE ORIENTAL MACHINE](../Page/VOLA_&_THE_ORIENTAL_MACHINE.md "wikilink")、YakYakYak。
 
 ## ディスコグラフィー
 
@@ -145,7 +145,7 @@
 </tr>
 <tr class="even">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/5月31日.md" title="wikilink">5月31日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/5月31日.md" title="wikilink">5月31日</a></p></td>
 <td><p><strong>PERIDOTS</strong></p></td>
 <td><p>TOCT-22276</p></td>
 <td><ol>
@@ -160,7 +160,7 @@
 </tr>
 <tr class="odd">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="https://ja.wikipedia.org/wiki/7月23日" title="wikilink">7月23日</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/7月23日.md" title="wikilink">7月23日</a></p></td>
 <td><p><strong>EVERY LOVE SONG</strong></p></td>
 <td><p>UPCI-1086</p></td>
 <td><ol>
@@ -358,16 +358,16 @@
 
 ## ミュージックビデオ
 
-|                                                       |                                                                    |
-| ----------------------------------------------------- | ------------------------------------------------------------------ |
-| **監督**                                                | **曲名**                                                             |
-| [木山健司](https://ja.wikipedia.org/wiki/木山健司 "wikilink") | 「[ホーム・ムーヴィー](https://www.youtube.com/watch?v=gqpBH2wW60Y)」         |
-| [小嶋貴之](https://ja.wikipedia.org/wiki/小嶋貴之 "wikilink") | 「[オールライト](https://www.youtube.com/watch?v=ZpAs4VT_MPI)」            |
-| [佐藤孝至](https://ja.wikipedia.org/wiki/佐藤孝至 "wikilink") | 「9月のソーダ」(出演:[高橋由真](https://ja.wikipedia.org/wiki/高橋由真 "wikilink")) |
-| [野村徹](https://ja.wikipedia.org/wiki/野村徹 "wikilink")   | 「[異常気象](https://www.youtube.com/watch?v=qUdYSDhI4Xg)」              |
-| [松崎茂登](https://ja.wikipedia.org/wiki/松崎茂登 "wikilink") | 「労働」(出演:[青木崇高](../Page/青木崇高.md "wikilink"))                        |
-| 不明                                                    | 「ライフワーク」                                                           |
-|                                                       |                                                                    |
+|                                                       |                                                            |
+| ----------------------------------------------------- | ---------------------------------------------------------- |
+| **監督**                                                | **曲名**                                                     |
+| [木山健司](https://ja.wikipedia.org/wiki/木山健司 "wikilink") | 「[ホーム・ムーヴィー](https://www.youtube.com/watch?v=gqpBH2wW60Y)」 |
+| [小嶋貴之](https://ja.wikipedia.org/wiki/小嶋貴之 "wikilink") | 「[オールライト](https://www.youtube.com/watch?v=ZpAs4VT_MPI)」    |
+| [佐藤孝至](https://ja.wikipedia.org/wiki/佐藤孝至 "wikilink") | 「9月のソーダ」(出演:[高橋由真](../Page/高橋由真.md "wikilink"))            |
+| [野村徹](../Page/野村徹.md "wikilink")                      | 「[異常気象](https://www.youtube.com/watch?v=qUdYSDhI4Xg)」      |
+| [松崎茂登](https://ja.wikipedia.org/wiki/松崎茂登 "wikilink") | 「労働」(出演:[青木崇高](../Page/青木崇高.md "wikilink"))                |
+| 不明                                                    | 「ライフワーク」                                                   |
+|                                                       |                                                            |
 
 ## 主なライブ
 

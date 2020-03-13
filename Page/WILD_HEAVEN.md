@@ -17,29 +17,29 @@
       - 作詞：[小室みつ子](../Page/小室みつ子.md "wikilink")／作曲・編曲：[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
     <!-- end list -->
       -
-        1991年7月にアルバム『[EXPO](https://ja.wikipedia.org/wiki/EXPO_\(アルバム\) "wikilink")』レコーディングの真っ只中の時に作られた曲であるが、この曲をどういう曲順に並び替えても[ボーナス・トラック](../Page/ボーナス・トラック.md "wikilink")のようになってしまったとのことで、収録を見合わせた曲である。シングルカットの予定も無かったが「[Self Control](../Page/Self_Control_\(方舟に曳かれて\).md "wikilink")」と同様に音楽雑誌の編集部の知り合いからの評判が良く、シングル化が決定した\[1\]。
+        1991年7月にアルバム『[EXPO](../Page/EXPO_\(アルバム\).md "wikilink")』レコーディングの真っ只中の時に作られた曲であるが、この曲をどういう曲順に並び替えても[ボーナス・トラック](../Page/ボーナス・トラック.md "wikilink")のようになってしまったとのことで、収録を見合わせた曲である。シングルカットの予定も無かったが「[Self Control](../Page/Self_Control_\(方舟に曳かれて\).md "wikilink")」と同様に音楽雑誌の編集部の知り合いからの評判が良く、シングル化が決定した\[1\]。
         『EXPO』用にレコーディングした音源ではギターが主体のアレンジで[ミキシング](../Page/ミキシング.md "wikilink")まで終わっていたが、いまだもって未発表のままである。構成は「Tour TMN EXPO」で披露されたアレンジに近かった。シングル化の際にバックトラック・ボーカルを全て録り直した\[2\]。
-        当作品の[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")は1990年9月のTMNのリニューアル後初のシングル「[TIME TO COUNT DOWN](https://ja.wikipedia.org/wiki/TIME_TO_COUNT_DOWN "wikilink")」以来約1年ぶりに[小室みつ子](../Page/小室みつ子.md "wikilink")が担当している。テーマは小室より「[スティーブン・スピルバーグ](https://ja.wikipedia.org/wiki/スティーブン・スピルバーグ "wikilink")みたいに夜の[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")や[高速道路](../Page/高速道路.md "wikilink")を俯瞰しているイメージで」とみつ子に指示した。宇都宮は「TMの香りがする」とコメントしている\[3\]。
+        当作品の[作詞](../Page/作詞.md "wikilink")は1990年9月のTMNのリニューアル後初のシングル「[TIME TO COUNT DOWN](../Page/TIME_TO_COUNT_DOWN.md "wikilink")」以来約1年ぶりに[小室みつ子](../Page/小室みつ子.md "wikilink")が担当している。テーマは小室より「[スティーブン・スピルバーグ](https://ja.wikipedia.org/wiki/スティーブン・スピルバーグ "wikilink")みたいに夜の[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")や[高速道路](../Page/高速道路.md "wikilink")を俯瞰しているイメージで」とみつ子に指示した。宇都宮は「TMの香りがする」とコメントしている\[3\]。
 2.  **DREAMS OF CHRISTMAS ('91 NY MIX)**
       - 作詞：小室哲哉／作曲：[木根尚登](https://ja.wikipedia.org/wiki/木根尚登 "wikilink")、小室哲哉／編曲：小室哲哉
     <!-- end list -->
       -
-        シングル「[RHYTHM RED BEAT BLACK](https://ja.wikipedia.org/wiki/RHYTHM_RED_BEAT_BLACK "wikilink")」のカップリングとして収録されている同曲の[リミックス](../Page/リミックス.md "wikilink")バージョンである。原曲版との相違点は、1サビ後の2Aメロ（木根のボーカルパート）以降、原曲ではなかった阿部薫によるドラムが加わっており、さらに原曲版ではアウトロがカットアウトしているの対し、本作ではフェードアウトしている。またこれまではアルバム未収録曲ではあったが、原曲版・リミックス版ともに2004年リリースの『[Welcome to the FANKS\!](https://ja.wikipedia.org/wiki/Welcome_to_the_FANKS! "wikilink")』に初収録されている。
+        シングル「[RHYTHM RED BEAT BLACK](../Page/RHYTHM_RED_BEAT_BLACK.md "wikilink")」のカップリングとして収録されている同曲の[リミックス](../Page/リミックス.md "wikilink")バージョンである。原曲版との相違点は、1サビ後の2Aメロ（木根のボーカルパート）以降、原曲ではなかった阿部薫によるドラムが加わっており、さらに原曲版ではアウトロがカットアウトしているの対し、本作ではフェードアウトしている。またこれまではアルバム未収録曲ではあったが、原曲版・リミックス版ともに2004年リリースの『[Welcome to the FANKS\!](../Page/Welcome_to_the_FANKS!.md "wikilink")』に初収録されている。
         ボーカルについては新録を検討したが、「あのときのスタジオの空気がはまっていて、すでに発表された曲を新たに歌い直すのは新曲を録音するより難しいと思う」と宇都宮の意向から、そのままになっている。小室哲哉は「毎年バージョンを変えてリリースしたい、いつかA面扱いになる日がくる」とインタビューで答えている\[4\]。
 
 ## 収録アルバム
 
-  - [TMN CLASSIX 2](https://ja.wikipedia.org/wiki/TMN_CLASSIX "wikilink") (extended hard core mix)
-  - [TETSUYA KOMURO PRESENTS TMN BLACK](https://ja.wikipedia.org/wiki/TETSUYA_KOMURO_PRESENTS_TMN_BLACK "wikilink")
-  - [TMN final live LAST GROOVE 5.19](https://ja.wikipedia.org/wiki/TMN_final_live_LAST_GROOVE "wikilink") (ライブバージョン)
-  - [TIME CAPSULE all the singles](https://ja.wikipedia.org/wiki/TIME_CAPSULE_all_the_singles "wikilink")
+  - [TMN CLASSIX 2](../Page/TMN_CLASSIX.md "wikilink") (extended hard core mix)
+  - [TETSUYA KOMURO PRESENTS TMN BLACK](../Page/TETSUYA_KOMURO_PRESENTS_TMN_BLACK.md "wikilink")
+  - [TMN final live LAST GROOVE 5.19](../Page/TMN_final_live_LAST_GROOVE.md "wikilink") (ライブバージョン)
+  - [TIME CAPSULE all the singles](../Page/TIME_CAPSULE_all_the_singles.md "wikilink")
   - [STAR BOX TMN](../Page/STAR_BOX_TMN.md "wikilink")
   - [BEST TRACKS ～A message to the next generation～](https://ja.wikipedia.org/wiki/BEST_TRACKS_～A_message_to_the_next_generation～ "wikilink")
   - [TM NETWORK SUPER BEST](../Page/TM_NETWORK_SUPER_BEST.md "wikilink")
   - [TM NETWORK THE SINGLES 2](https://ja.wikipedia.org/wiki/THE_SINGLES_2 "wikilink")
   - [TM NETWORK ORIGINAL SINGLES 1984-1999](https://ja.wikipedia.org/wiki/ORIGINAL_SINGLES_1984-1999 "wikilink")
   - [TM NETWORK ORIGINAL SINGLE BACK TRACKS 1984-1999](https://ja.wikipedia.org/wiki/ORIGINAL_SINGLE_BACK_TRACKS_1984-1999 "wikilink") (オリジナル・カラオケ)
-  - [Gift from Fanks M](https://ja.wikipedia.org/wiki/Gift_from_Fanks_M "wikilink")
+  - [Gift from Fanks M](../Page/Gift_from_Fanks_M.md "wikilink")
 
 ## 脚注
 

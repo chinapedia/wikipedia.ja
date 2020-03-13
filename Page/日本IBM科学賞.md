@@ -29,7 +29,7 @@
 <tr class="even">
 <td><p><a href="../Page/1988年.md" title="wikilink">1988年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/北澤宏一" title="wikilink">北澤宏一</a>、<a href="https://ja.wikipedia.org/wiki/内田慎一" title="wikilink">内田慎一</a>、<a href="https://ja.wikipedia.org/wiki/高木英典" title="wikilink">高木英典</a>、<a href="https://ja.wikipedia.org/wiki/土井正男" title="wikilink">土井正男</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山本尚" title="wikilink">山本尚</a></p></td>
+<td><p><a href="../Page/山本尚.md" title="wikilink">山本尚</a></p></td>
 <td><p><a href="../Page/辻井潤一.md" title="wikilink">辻井潤一</a>、<a href="https://ja.wikipedia.org/wiki/室田一雄" title="wikilink">室田一雄</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/大津元一" title="wikilink">大津元一</a></p></td>
 </tr>
@@ -42,7 +42,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1990年" title="wikilink">1990年</a></p></td>
-<td><p><a href="../Page/十倉好紀.md" title="wikilink">十倉好紀</a>、<a href="https://ja.wikipedia.org/wiki/西森秀稔" title="wikilink">西森秀稔</a>、<a href="../Page/和達三樹.md" title="wikilink">和達三樹</a></p></td>
+<td><p><a href="../Page/十倉好紀.md" title="wikilink">十倉好紀</a>、<a href="../Page/西森秀稔.md" title="wikilink">西森秀稔</a>、<a href="../Page/和達三樹.md" title="wikilink">和達三樹</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/岩澤康裕" title="wikilink">岩澤康裕</a>、<a href="https://ja.wikipedia.org/wiki/小宮山真" title="wikilink">小宮山真</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/石原宏" title="wikilink">石原宏</a></p></td>
 <td></td>
@@ -51,7 +51,7 @@
 <td><p><a href="../Page/1991年.md" title="wikilink">1991年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/池田研介" title="wikilink">池田研介</a>、<a href="https://ja.wikipedia.org/wiki/北岡良雄" title="wikilink">北岡良雄</a></p></td>
 <td><p><a href="../Page/林民生.md" title="wikilink">林民生</a>、<a href="https://ja.wikipedia.org/wiki/吉川研一" title="wikilink">吉川研一</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/坂井修一" title="wikilink">坂井修一</a></p></td>
+<td><p><a href="../Page/坂井修一.md" title="wikilink">坂井修一</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/荒川泰彦" title="wikilink">荒川泰彦</a></p></td>
 </tr>
 <tr class="even">
@@ -64,7 +64,7 @@
 <tr class="odd">
 <td><p><a href="../Page/1993年.md" title="wikilink">1993年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/家泰弘" title="wikilink">家泰弘</a>、<a href="https://ja.wikipedia.org/wiki/山本智_(物理学者)" title="wikilink">山本智</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/岡畑恵雄" title="wikilink">岡畑恵雄</a>、<a href="https://ja.wikipedia.org/wiki/原田明_(超分子化学者)" title="wikilink">原田明</a></p></td>
+<td><p><a href="../Page/岡畑恵雄.md" title="wikilink">岡畑恵雄</a>、<a href="../Page/原田明_(超分子化学者).md" title="wikilink">原田明</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/上田和紀" title="wikilink">上田和紀</a></p></td>
 <td><p><a href="../Page/江刺正喜.md" title="wikilink">江刺正喜</a></p></td>
 </tr>
@@ -128,7 +128,7 @@
 <td><p><a href="../Page/2002年.md" title="wikilink">2002年</a></p></td>
 <td><p><a href="../Page/前野悦輝.md" title="wikilink">前野悦輝</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/寺嶋正秀" title="wikilink">寺嶋正秀</a>、<a href="https://ja.wikipedia.org/wiki/八島栄次" title="wikilink">八島栄次</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/岩田覚" title="wikilink">岩田覚</a>、<a href="https://ja.wikipedia.org/wiki/冨田勝" title="wikilink">冨田勝</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/岩田覚" title="wikilink">岩田覚</a>、<a href="../Page/冨田勝.md" title="wikilink">冨田勝</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/相澤清晴" title="wikilink">相澤清晴</a></p></td>
 </tr>
 <tr class="odd">
@@ -146,14 +146,14 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/高木信一" title="wikilink">高木信一</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/小形正男" title="wikilink">小形正男</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/中谷和彦" title="wikilink">中谷和彦</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/長谷川真人" title="wikilink">長谷川真人</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/川崎雅司" title="wikilink">川崎雅司</a>、<a href="https://ja.wikipedia.org/wiki/平川一彦" title="wikilink">平川一彦</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/香取秀俊" title="wikilink">香取秀俊</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/鈴木俊法" title="wikilink">鈴木俊法</a>、<a href="https://ja.wikipedia.org/wiki/野崎京子" title="wikilink">野崎京子</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/五十嵐淳_(コンピューター研究者)" title="wikilink">五十嵐淳</a></p></td>

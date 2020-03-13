@@ -5,7 +5,7 @@
 
 ## メンバー
 
-  - [aico](https://ja.wikipedia.org/wiki/aico "wikilink") （[1973年](../Page/1973年.md "wikilink")[12月30日](../Page/12月30日.md "wikilink") - ）- ボーカル。本名は町田愛子。[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")生まれ、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")の下町育ち。2歳下の妹がいる。
+  - [aico](https://ja.wikipedia.org/wiki/aico "wikilink") （[1973年](../Page/1973年.md "wikilink")[12月30日](../Page/12月30日.md "wikilink") - ）- ボーカル。本名は町田愛子。[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")生まれ、[東京都](../Page/東京都.md "wikilink")の下町育ち。2歳下の妹がいる。
   - [DJ HASEBE](../Page/DJ_HASEBE.md "wikilink") （[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[6月](../Page/6月.md "wikilink") - ）- [DJ](../Page/ディスクジョッキー.md "wikilink")。現在は脱退。本名は長谷部大助。
   - [カワベ](https://ja.wikipedia.org/wiki/河辺健宏 "wikilink") （[1967年](../Page/1967年.md "wikilink")[1月22日](../Page/1月22日.md "wikilink") - ） - [コンポーザー](https://ja.wikipedia.org/wiki/コンポーザー "wikilink")。現在は脱退。本名は河辺健宏。
 
@@ -15,11 +15,11 @@
 
 <!-- end list -->
 
-  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に[ダブリューイーエー・ジャパン](https://ja.wikipedia.org/wiki/ダブリューイーエー・ジャパン "wikilink")（現在の[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")）よりメジャーデビュー。
+  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に[ダブリューイーエー・ジャパン](https://ja.wikipedia.org/wiki/ダブリューイーエー・ジャパン "wikilink")（現在の[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")）よりメジャーデビュー。
 
 <!-- end list -->
 
-  - [Dragon AshのKenji](https://ja.wikipedia.org/wiki/Dragon_Ash "wikilink")(現:[Kj](https://ja.wikipedia.org/wiki/降谷建志 "wikilink"))との[コラボレーション](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")曲『[Garden](https://ja.wikipedia.org/wiki/Garden_\(Sugar_Soulの曲\) "wikilink")』が90万枚を超える大ヒット。続いてリリースした[ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink")とのコラボレーション曲『Siva 1999』も10万枚以上の売り上げを記録した。
+  - [Dragon AshのKenji](../Page/Dragon_Ash.md "wikilink")(現:[Kj](../Page/降谷建志.md "wikilink"))との[コラボレーション](../Page/コラボレーション.md "wikilink")曲『[Garden](https://ja.wikipedia.org/wiki/Garden_\(Sugar_Soulの曲\) "wikilink")』が90万枚を超える大ヒット。続いてリリースした[ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink")とのコラボレーション曲『Siva 1999』も10万枚以上の売り上げを記録した。
 
 <!-- end list -->
 
@@ -139,15 +139,15 @@
 
 ## 参加作品
 
-| アーティスト                                                                 | 形態          | タイトル                                  | 発売日         | 収録曲                                                         |
-| ---------------------------------------------------------------------- | ----------- | ------------------------------------- | ----------- | ----------------------------------------------------------- |
-| [V.A.](https://ja.wikipedia.org/wiki/V.A. "wikilink")                  | アルバム        | concierge - A.K.A.records compilation | 1998年11月26日 | 悲しみの花に (DJ HASEBE remix)                                    |
-| [Zeebra](https://ja.wikipedia.org/wiki/Zeebra "wikilink") / Sugar Soul | シングル        | ZEUS 2000                             | 2000年01月26日 | ZEUS 2000                                                   |
-| [DJ HASEBE](../Page/DJ_HASEBE.md "wikilink")                           | アルバム        | HEY WORLD                             | 2000年11月08日 | SUPER PLAYERS feat. RONNY JORDAN / sugar soul               |
-| TAIL OF OLD NICK                                                       | 2002年07月10日 | XAVIER -OLD NICK ver.-                |             |                                                             |
-| Manhattan Records "The Exclusives" Japanese R\&B Hits                  | 2011年08月03日 | Love Shines feat. Sugar Soul & Zeebra |             |                                                             |
-| DJ HASEBE, [キエるマキュウ](../Page/キエるマキュウ.md "wikilink"), Sugar Soul        | シングル        | ザビエル3800                              | 2001年02月21日 | ザビエル3800                                                    |
-| 餓鬼レンジャー                                                                | アルバム        | キンキーキッズ                               | 2017年08月02日 | ONE feat. SUGAR SOUL & [JESSE](../Page/JESSE.md "wikilink") |
+| アーティスト                                                          | 形態          | タイトル                                  | 発売日         | 収録曲                                                         |
+| --------------------------------------------------------------- | ----------- | ------------------------------------- | ----------- | ----------------------------------------------------------- |
+| [V.A.](https://ja.wikipedia.org/wiki/V.A. "wikilink")           | アルバム        | concierge - A.K.A.records compilation | 1998年11月26日 | 悲しみの花に (DJ HASEBE remix)                                    |
+| [Zeebra](../Page/Zeebra.md "wikilink") / Sugar Soul             | シングル        | ZEUS 2000                             | 2000年01月26日 | ZEUS 2000                                                   |
+| [DJ HASEBE](../Page/DJ_HASEBE.md "wikilink")                    | アルバム        | HEY WORLD                             | 2000年11月08日 | SUPER PLAYERS feat. RONNY JORDAN / sugar soul               |
+| TAIL OF OLD NICK                                                | 2002年07月10日 | XAVIER -OLD NICK ver.-                |             |                                                             |
+| Manhattan Records "The Exclusives" Japanese R\&B Hits           | 2011年08月03日 | Love Shines feat. Sugar Soul & Zeebra |             |                                                             |
+| DJ HASEBE, [キエるマキュウ](../Page/キエるマキュウ.md "wikilink"), Sugar Soul | シングル        | ザビエル3800                              | 2001年02月21日 | ザビエル3800                                                    |
+| 餓鬼レンジャー                                                         | アルバム        | キンキーキッズ                               | 2017年08月02日 | ONE feat. SUGAR SOUL & [JESSE](../Page/JESSE.md "wikilink") |
 
 ## 脚注
 
@@ -157,7 +157,7 @@
 
 ### オフィシャルサイト
 
-  - [SUGARSOUL | Warner Music Japan](https://wmg.jp/sugarsoul/) - 公式サイト（[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")）
+  - [SUGARSOUL | Warner Music Japan](https://wmg.jp/sugarsoul/) - 公式サイト（[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")）
 
 ### オフィシャルSNS
 

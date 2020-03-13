@@ -1,7 +1,7 @@
 > この記事は[SmaSTATION!!](https://ja.wikipedia.org/wiki/SmaSTATION!!)から翻訳されています。
 
 
-『**SmaSTATION\!\!**』（スマステーション\!\!、[通称](../Page/通称.md "wikilink")：**スマステ**）は、[テレビ朝日](../Page/テレビ朝日.md "wikilink")[系列で](../Page/オールニッポン・ニュースネットワーク.md "wikilink")[2001年](../Page/2001年.md "wikilink")[10月13日](../Page/10月13日.md "wikilink")から[2017年](../Page/2017年.md "wikilink")[9月23日](../Page/9月23日.md "wikilink")まで[土曜日](../Page/土曜日.md "wikilink")[夜](https://ja.wikipedia.org/wiki/夜 "wikilink")に[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")されていた[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")・[教養](../Page/教養番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。 放送毎にスマタイムズというフリーペーパーも発行。
+『**SmaSTATION\!\!**』（スマステーション\!\!、[通称](../Page/通称.md "wikilink")：**スマステ**）は、[テレビ朝日](../Page/テレビ朝日.md "wikilink")[系列で](../Page/オールニッポン・ニュースネットワーク.md "wikilink")[2001年](../Page/2001年.md "wikilink")[10月13日](../Page/10月13日.md "wikilink")から[2017年](../Page/2017年.md "wikilink")[9月23日](../Page/9月23日.md "wikilink")まで[土曜日](../Page/土曜日.md "wikilink")[夜](../Page/夜.md "wikilink")に[生放送](../Page/生放送.md "wikilink")されていた[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")・[教養](../Page/教養番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。 放送毎にスマタイムズというフリーペーパーも発行。
 
 [2017年](../Page/2017年.md "wikilink")[4月22日](../Page/4月22日.md "wikilink")から最終回までの放送時間は、毎週[土曜日](../Page/土曜日.md "wikilink") 23:05 - 23:59（[JST](../Page/日本標準時.md "wikilink")）。
 
@@ -72,7 +72,7 @@
 
 [2001年](../Page/2001年.md "wikilink")[10月13日](../Page/10月13日.md "wikilink")から[2002年](../Page/2002年.md "wikilink")[9月21日](../Page/9月21日.md "wikilink")に放送された。
 
-開始当初は「**香取慎吾と小宮悦子の新ニュース番組**」として、ゲストを呼ばず（ゲストは自宅などから中継で出演）、2人のみで番組を進めた。第一回は[カーブル](../Page/カーブル.md "wikilink")からの生中継や「ステーションの先輩」として、当時『[ニュースステーション](../Page/ニュースステーション.md "wikilink")』の司会をしていた[久米宏](https://ja.wikipedia.org/wiki/久米宏 "wikilink")がテレビ電話出演するなど、当初はニュース色の強い番組だった。香取は、「**司会でもニュースキャスターでもなく主役**」と番組での自らの位置付けについて話していた。しかし小宮が、担当する『[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』など[報道番組](../Page/報道番組.md "wikilink")に専念するという理由で2001年[12月22日](../Page/12月22日.md "wikilink")の放送を最後に番組を降板。毎回、小宮にニュースキャスターにしては過激な衣装（例：パーマがかかったロングヘアのカツラを被り、エナメルのジャンパーやミニスカートなど黒い衣装で統一）を着せていたことが小宮の[当時の事務所サイドの怒りを買ったため](../Page/オフィス・トゥー・ワン.md "wikilink")、という説がある。香取についても、スケジュール上このスマステ開始により、売れっ子とはいえ想定以上の激務になることから、それまでフジテレビ系レギュラー番組で、ロケ収録を行っていた「[サタ☆スマ](https://ja.wikipedia.org/wiki/サタ☆スマ "wikilink")」をやめている（2002年3月）。
+開始当初は「**香取慎吾と小宮悦子の新ニュース番組**」として、ゲストを呼ばず（ゲストは自宅などから中継で出演）、2人のみで番組を進めた。第一回は[カーブル](../Page/カーブル.md "wikilink")からの生中継や「ステーションの先輩」として、当時『[ニュースステーション](../Page/ニュースステーション.md "wikilink")』の司会をしていた[久米宏](../Page/久米宏.md "wikilink")がテレビ電話出演するなど、当初はニュース色の強い番組だった。香取は、「**司会でもニュースキャスターでもなく主役**」と番組での自らの位置付けについて話していた。しかし小宮が、担当する『[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』など[報道番組](../Page/報道番組.md "wikilink")に専念するという理由で2001年[12月22日](../Page/12月22日.md "wikilink")の放送を最後に番組を降板。毎回、小宮にニュースキャスターにしては過激な衣装（例：パーマがかかったロングヘアのカツラを被り、エナメルのジャンパーやミニスカートなど黒い衣装で統一）を着せていたことが小宮の[当時の事務所サイドの怒りを買ったため](../Page/オフィス・トゥー・ワン.md "wikilink")、という説がある。香取についても、スケジュール上このスマステ開始により、売れっ子とはいえ想定以上の激務になることから、それまでフジテレビ系レギュラー番組で、ロケ収録を行っていた「[サタ☆スマ](../Page/サタ☆スマ.md "wikilink")」をやめている（2002年3月）。
 
 2002年1月からは中継先ではなくスタジオにゲストが2組出演するようになるなど、バラエティー要素が強くなっていった。小宮の後任には、自局の看板女性アナウンサーである『[ワイド\!スクランブル](../Page/ワイド!スクランブル.md "wikilink")』司会の[大下容子](../Page/大下容子.md "wikilink")を敢えてシフト無視\[6\] で起用し、最終回まで至る。
 
@@ -99,7 +99,7 @@
 
 ### SmaSTATION-3の出来事
 
-  - [2003年](../Page/2003年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")の初回は、[日本テレビの](../Page/日本テレビ放送網.md "wikilink")『[香取慎吾の特上\!天声慎吾](../Page/香取慎吾の特上!天声慎吾.md "wikilink")』の毛利編成担当、[TBSの](../Page/TBSテレビ.md "wikilink")『[うたばん](../Page/うたばん.md "wikilink")』や『[週刊アサ秘ジャーナル](https://ja.wikipedia.org/wiki/第二アサ秘ジャーナル "wikilink")』の[古谷英一](../Page/古谷英一.md "wikilink")ディレクター、[フジテレビ広報部員](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")・小中ももこを迎え、ベラベラステーションを行った。
+  - [2003年](../Page/2003年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")の初回は、[日本テレビの](../Page/日本テレビ放送網.md "wikilink")『[香取慎吾の特上\!天声慎吾](../Page/香取慎吾の特上!天声慎吾.md "wikilink")』の毛利編成担当、[TBSの](../Page/TBSテレビ.md "wikilink")『[うたばん](../Page/うたばん.md "wikilink")』や『[週刊アサ秘ジャーナル](../Page/第二アサ秘ジャーナル.md "wikilink")』の[古谷英一](../Page/古谷英一.md "wikilink")ディレクター、[フジテレビ広報部員](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")・小中ももこを迎え、ベラベラステーションを行った。
 
 <!-- end list -->
 
@@ -115,24 +115,24 @@
 
 ## SmaSTATION-4
 
-[2004年](../Page/2004年.md "wikilink")[10月16日](../Page/10月16日.md "wikilink")から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月24日](../Page/9月24日.md "wikilink")に放送された。
+[2004年](../Page/2004年.md "wikilink")[10月16日](../Page/10月16日.md "wikilink")から[2005年](../Page/2005年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink")に放送された。
 
 ### SmaSTATION-4の出来事
 
   - [2004年](../Page/2004年.md "wikilink")[10月16日](../Page/10月16日.md "wikilink")の第1回放送でテレビ朝日[代表取締役](../Page/代表取締役.md "wikilink")の[広瀬道貞](../Page/広瀬道貞.md "wikilink")会長（当時[社長](../Page/社長.md "wikilink")）が出演し、香取は広瀬社長に「サッカー日本代表応援団長になりたい」とお願いして、香取は[2006 サッカー・ワールドカップアジア最終予選](../Page/2006_FIFAワールドカップ.md "wikilink") の日本代表応援団長に就任。
   - 2004年[10月23日](../Page/10月23日.md "wikilink")の第2回放送は、[新潟県中越地震](https://ja.wikipedia.org/wiki/新潟県中越地震 "wikilink")のため予定を変更し、冒頭に香取が登場後、地震特番に切り替えた。このため、この週のSmaTIMESは休刊。
   - 2004年[11月27日](../Page/11月27日.md "wikilink")は香取と草彅が真剣にトークをした。
-  - 2004年[12月25日](../Page/12月25日.md "wikilink")は『[さんま\&SMAP\!美女と野獣のクリスマススペシャル](https://ja.wikipedia.org/wiki/さんま&SMAP!美女と野獣のクリスマススペシャル "wikilink")』に出演後、草彅剛、稲垣吾郎が出演しクリスマススペシャルで30分拡大版だった。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月12日](../Page/2月12日.md "wikilink")は番組始まって以来初めて香取が[インフルエンザ](../Page/インフルエンザ.md "wikilink")で体調不良により番組を欠席。草彅と中居が司会代理で出演。ゲストは[東山紀之](https://ja.wikipedia.org/wiki/東山紀之 "wikilink")。
+  - 2004年[12月25日](../Page/12月25日.md "wikilink")は『[さんま\&SMAP\!美女と野獣のクリスマススペシャル](../Page/さんま&SMAP!美女と野獣のクリスマススペシャル.md "wikilink")』に出演後、草彅剛、稲垣吾郎が出演しクリスマススペシャルで30分拡大版だった。
+  - [2005年](../Page/2005年.md "wikilink")[2月12日](../Page/2月12日.md "wikilink")は番組始まって以来初めて香取が[インフルエンザ](../Page/インフルエンザ.md "wikilink")で体調不良により番組を欠席。草彅と中居が司会代理で出演。ゲストは[東山紀之](https://ja.wikipedia.org/wiki/東山紀之 "wikilink")。
   - 2005年[4月12日](../Page/4月12日.md "wikilink")は『[報道ステーション](https://ja.wikipedia.org/wiki/報道ステーション "wikilink")』の司会を務める[古舘伊知郎](../Page/古舘伊知郎.md "wikilink")が出演、世界のニュースキャスターを放送した。
   - 2005年[4月30日](../Page/4月30日.md "wikilink")は番組で追い続けていた[田臥勇太](../Page/田臥勇太.md "wikilink")が出演し田臥勇太伝説を放送した。この放送の中で香取はうまく2回目でシュートを決めた。
-  - 2005年[5月14日](../Page/5月14日.md "wikilink")は[中井美穂](../Page/中井美穂.md "wikilink")と[ヨガを体験した](https://ja.wikipedia.org/wiki/ヨーガ "wikilink")。またこの日の生放送は大下容子アナの誕生日でもあった。
+  - 2005年[5月14日](../Page/5月14日.md "wikilink")は[中井美穂](../Page/中井美穂.md "wikilink")と[ヨガを体験した](../Page/ヨーガ.md "wikilink")。またこの日の生放送は大下容子アナの誕生日でもあった。
   - 2005年[5月28日](../Page/5月28日.md "wikilink")は『[ワイド\!スクランブル](../Page/ワイド!スクランブル.md "wikilink")』司会者の[大和田獏](../Page/大和田獏.md "wikilink")が出演して[バーレーン](../Page/バーレーン.md "wikilink")について放送した。また稲垣吾郎がツキイチゴローを[イタリア](../Page/イタリア.md "wikilink")の[ローマ](../Page/ローマ.md "wikilink")で収録。[マライア・キャリー](https://ja.wikipedia.org/wiki/マライア・キャリー "wikilink")といっしょに香取がベラベラステーションを。番組最後にヨガを。
   - 2005年[6月4日](../Page/6月4日.md "wikilink")は[バーレーン](../Page/バーレーン.md "wikilink")から生放送し日本対バーレーン戦について放送した。ヨガも放送。
   - 2005年[6月11日](../Page/6月11日.md "wikilink")はサッカー日本代表がワールドカップ出場が決まり、香取の奮闘を振り返った。またこの日ヨガのコーナーの名前が**ヨガステーション**に決まった。（後に**スマヨガステーション**に変更）
   - 2005年[6月18日](../Page/6月18日.md "wikilink")は[竹中平蔵](../Page/竹中平蔵.md "wikilink")大臣が出演しマネーin the ワールドを放送した。
   - 2005年[7月2日](../Page/7月2日.md "wikilink")は[爆笑問題](../Page/爆笑問題.md "wikilink")が出演し[太田光](../Page/太田光.md "wikilink")が好きな[チャーリー・チャップリン](https://ja.wikipedia.org/wiki/チャーリー・チャップリン "wikilink")特集を放送した。問題で太田より[田中裕二の方が先に答えてしまい](https://ja.wikipedia.org/wiki/田中裕二_\(お笑い芸人\) "wikilink")、太田は怒った。
-  - 2005年[7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink")は[吉田兄弟](../Page/吉田兄弟.md "wikilink")が生演奏を行い、香取に[三味線](../Page/三味線.md "wikilink")をプレゼントした。（[フジテレビは](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[FNS25時間テレビ](https://ja.wikipedia.org/wiki/FNS25時間テレビ "wikilink")を放送していたが、香取が出演しなかったため、中継はなかった。）
+  - 2005年[7月23日](../Page/7月23日.md "wikilink")は[吉田兄弟](../Page/吉田兄弟.md "wikilink")が生演奏を行い、香取に[三味線](../Page/三味線.md "wikilink")をプレゼントした。（[フジテレビは](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[FNS25時間テレビ](../Page/FNS25時間テレビ.md "wikilink")を放送していたが、香取が出演しなかったため、中継はなかった。）
   - 2005年[8月13日](../Page/8月13日.md "wikilink")はコンサートの後[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")から生放送。草彅が出演し「香取・草彅 真剣対談2」を行った。そして、途中で木村がいきなり出演（公式に予告なし・草彅へもサプライズ）。歌について語った。最後に『世界に一つだけの花』を3人のアカペラで披露。中居、稲垣は出演しなかった。
   - 2005年[9月10日](../Page/9月10日.md "wikilink")は、[朝日放送からの中継を行い](../Page/朝日放送テレビ.md "wikilink")、木村が出演。15分拡大スペシャルを放送した。香取×木村でトークを行った。
   - 2005年[9月24日](../Page/9月24日.md "wikilink")は総集編を放送。
@@ -147,7 +147,7 @@
 
 <!-- end list -->
 
-  - [藤原竜也](../Page/藤原竜也.md "wikilink")、[山口智充](../Page/山口智充.md "wikilink")（[DonDokoDon](../Page/DonDokoDon.md "wikilink")）、[山本太郎](https://ja.wikipedia.org/wiki/山本太郎 "wikilink")、[中村勘太郎](https://ja.wikipedia.org/wiki/中村勘九郎_\(6代目\) "wikilink")、[照英](../Page/照英.md "wikilink")、[小林隆](../Page/小林隆.md "wikilink")、[桂吉弥](https://ja.wikipedia.org/wiki/桂吉弥 "wikilink")、（[堺雅人](../Page/堺雅人.md "wikilink")※[長野県](../Page/長野県.md "wikilink")[松本市](../Page/松本市.md "wikilink")から中継、[山本耕史](../Page/山本耕史.md "wikilink")※[大阪府](../Page/大阪府.md "wikilink")から中継）
+  - [藤原竜也](../Page/藤原竜也.md "wikilink")、[山口智充](../Page/山口智充.md "wikilink")（[DonDokoDon](../Page/DonDokoDon.md "wikilink")）、[山本太郎](https://ja.wikipedia.org/wiki/山本太郎 "wikilink")、[中村勘太郎](../Page/中村勘九郎_\(6代目\).md "wikilink")、[照英](../Page/照英.md "wikilink")、[小林隆](../Page/小林隆.md "wikilink")、[桂吉弥](../Page/桂吉弥.md "wikilink")、（[堺雅人](../Page/堺雅人.md "wikilink")※[長野県](../Page/長野県.md "wikilink")[松本市](../Page/松本市.md "wikilink")から中継、[山本耕史](../Page/山本耕史.md "wikilink")※[大阪府](../Page/大阪府.md "wikilink")から中継）
   - [三谷幸喜](../Page/三谷幸喜.md "wikilink")
 
 #### ベラベラパーティー
@@ -156,7 +156,7 @@
 
 #### NASA初潜入&緊張の記者会見に挑む\!
 
-  - 2005年[7月9日](../Page/7月9日.md "wikilink")は日本人宇宙飛行士・[野口聡一](https://ja.wikipedia.org/wiki/野口聡一 "wikilink")が乗り込む[スペースシャトル](../Page/スペースシャトル.md "wikilink")・[ディスカバリーが近日打ち上げられることになったため香取と稲垣の](https://ja.wikipedia.org/wiki/ディスカバリー_\(オービタ\) "wikilink")2人でアメリカの[NASAに取材に出かける](../Page/アメリカ航空宇宙局.md "wikilink")。\[7\] スペースシャトルなどを見学後、ディスカバリーの乗組員による記者会見が行われ、香取らも会見場に参列する。そして、質疑応答の時間に香取は「宇宙へいったら何を聞きたいですか?」と質問。そのときに[野口聡一](https://ja.wikipedia.org/wiki/野口聡一 "wikilink")は答えてくれなかった。しかし、その後の写真撮影で香取らは野口聡一に接近し、もう一度同じ質問をぶつける。すると野口は「[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")\!」と快く答えてくれた。（そしてフライト13日目となる2005年8月7日にウェイクアップコールで『[世界に一つだけの花](https://ja.wikipedia.org/wiki/世界に一つだけの花 "wikilink")』がかけられた）
+  - 2005年[7月9日](../Page/7月9日.md "wikilink")は日本人宇宙飛行士・[野口聡一](../Page/野口聡一.md "wikilink")が乗り込む[スペースシャトル](../Page/スペースシャトル.md "wikilink")・[ディスカバリーが近日打ち上げられることになったため香取と稲垣の](https://ja.wikipedia.org/wiki/ディスカバリー_\(オービタ\) "wikilink")2人でアメリカの[NASAに取材に出かける](../Page/アメリカ航空宇宙局.md "wikilink")。\[7\] スペースシャトルなどを見学後、ディスカバリーの乗組員による記者会見が行われ、香取らも会見場に参列する。そして、質疑応答の時間に香取は「宇宙へいったら何を聞きたいですか?」と質問。そのときに[野口聡一](../Page/野口聡一.md "wikilink")は答えてくれなかった。しかし、その後の写真撮影で香取らは野口聡一に接近し、もう一度同じ質問をぶつける。すると野口は「[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")\!」と快く答えてくれた。（そしてフライト13日目となる2005年8月7日にウェイクアップコールで『[世界に一つだけの花](../Page/世界に一つだけの花.md "wikilink")』がかけられた）
 
 #### テレビ朝日×日本テレビ、2回目の生中継コラボ（世界を救うチャリティー）
 
@@ -164,24 +164,24 @@
 
 #### SMAPが国立に立った日・特別企画\! 聖地・国立霞ヶ丘競技場
 
-  - 2005年[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink")はSMAPが『SMAPとイク“SAMPLEツアー”for62days』東京公演初日であった。初めて[国立霞ヶ丘競技場で単独アーティストとしてコンサートを行ったため](https://ja.wikipedia.org/wiki/国立霞ヶ丘陸上競技場 "wikilink")、[松岡修造](../Page/松岡修造.md "wikilink")とともに国立霞ヶ丘競技場の特集を放送した。
+  - 2005年[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink")はSMAPが『SMAPとイク“SAMPLEツアー”for62days』東京公演初日であった。初めて[国立霞ヶ丘競技場で単独アーティストとしてコンサートを行ったため](../Page/国立霞ヶ丘陸上競技場.md "wikilink")、[松岡修造](../Page/松岡修造.md "wikilink")とともに国立霞ヶ丘競技場の特集を放送した。
 
 ## SmaSTATION-5
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月8日](../Page/10月8日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[9月23日](../Page/9月23日.md "wikilink")に放送された。
+[2005年](../Page/2005年.md "wikilink")[10月8日](../Page/10月8日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[9月23日](../Page/9月23日.md "wikilink")に放送された。
 
 ### SmaSTATION-5の出来事
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月8日](../Page/10月8日.md "wikilink")の第1回放送は『[報道ステーション](https://ja.wikipedia.org/wiki/報道ステーション "wikilink")』アンカーマンの[古舘伊知郎](../Page/古舘伊知郎.md "wikilink")がゲスト。
-  - 2005年[10月22日](../Page/10月22日.md "wikilink")はゲストに[崔洋一](https://ja.wikipedia.org/wiki/崔洋一 "wikilink")を迎えて「日本の[芸者](../Page/芸妓.md "wikilink")・[中村喜春](../Page/中村喜春.md "wikilink")」特集を。[プロ野球日本シリーズの影響で](../Page/日本選手権シリーズ.md "wikilink")20分遅れで放送開始。
+  - [2005年](../Page/2005年.md "wikilink")[10月8日](../Page/10月8日.md "wikilink")の第1回放送は『[報道ステーション](https://ja.wikipedia.org/wiki/報道ステーション "wikilink")』アンカーマンの[古舘伊知郎](../Page/古舘伊知郎.md "wikilink")がゲスト。
+  - 2005年[10月22日](../Page/10月22日.md "wikilink")はゲストに[崔洋一](../Page/崔洋一.md "wikilink")を迎えて「日本の[芸者](../Page/芸妓.md "wikilink")・[中村喜春](../Page/中村喜春.md "wikilink")」特集を。[プロ野球日本シリーズの影響で](../Page/日本選手権シリーズ.md "wikilink")20分遅れで放送開始。
   - 2005年[12月3日](../Page/12月3日.md "wikilink")は[竹中平蔵](../Page/竹中平蔵.md "wikilink")[総務大臣](../Page/総務大臣.md "wikilink")をゲストに迎え、竹中大臣の人生、お金に関する疑問などを特集した。
   - 2005年[12月10日](../Page/12月10日.md "wikilink")は[浜田幸一](https://ja.wikipedia.org/wiki/浜田幸一 "wikilink")元衆議院議員をゲストに迎え、浜田の人生を特集した。
-  - 2005年[12月17日](../Page/12月17日.md "wikilink")は[笑福亭鶴瓶](../Page/笑福亭鶴瓶.md "wikilink")をゲストに迎え、[落語](../Page/落語.md "wikilink")を特集した。番組終盤に[ロンドンブーツ1号2号](../Page/ロンドンブーツ1号2号.md "wikilink")が乱入、鶴瓶を夜勤（[ドスペ2](https://ja.wikipedia.org/wiki/ドスペ2 "wikilink")の夜通し生放送「笑福亭鶴瓶&ロンブーの[お笑い\!\!ゆく年くる年](../Page/お笑い!!ゆく年くる年.md "wikilink")への道」）に連れて行こうとしていたが、香取が「スマステです。まだスマステです」と引き止めた。
+  - 2005年[12月17日](../Page/12月17日.md "wikilink")は[笑福亭鶴瓶](../Page/笑福亭鶴瓶.md "wikilink")をゲストに迎え、[落語](../Page/落語.md "wikilink")を特集した。番組終盤に[ロンドンブーツ1号2号](../Page/ロンドンブーツ1号2号.md "wikilink")が乱入、鶴瓶を夜勤（[ドスペ2](../Page/ドスペ2.md "wikilink")の夜通し生放送「笑福亭鶴瓶&ロンブーの[お笑い\!\!ゆく年くる年](../Page/お笑い!!ゆく年くる年.md "wikilink")への道」）に連れて行こうとしていたが、香取が「スマステです。まだスマステです」と引き止めた。
   - 2005年[12月24日](../Page/12月24日.md "wikilink")は草彅と稲垣が出演。テレビ朝日が[2006 FIFAワールドカップの](../Page/2006_FIFAワールドカップ.md "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")対[クロアチア](../Page/クロアチア.md "wikilink")戦の放映権を獲得するまでの模様を放送。
   - [2006年](../Page/2006年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink")は、ドラマ『[西遊記](../Page/西遊記_\(2006年のテレビドラマ\).md "wikilink")』の放映を記念して[沙悟浄](../Page/沙悟浄.md "wikilink")役の[内村光良](https://ja.wikipedia.org/wiki/内村光良 "wikilink")を交え[西遊記](../Page/西遊記.md "wikilink")特集を放送。「セカイノニュース」が「サイシンニュース」と名称が変更された。
   - 2006年[1月21日](../Page/1月21日.md "wikilink")は、[寺尾聰](../Page/寺尾聰.md "wikilink")をゲストに[イサム・ノグチ](../Page/イサム・ノグチ.md "wikilink")の特集を行った。（当初「黒澤映画特集」予定だったが、企画者の太田光が香取に苦言を呈し、香取が要求を飲んだ為）
-  - 2006年[1月28日](../Page/1月28日.md "wikilink")は、当初[堀江貴文](https://ja.wikipedia.org/wiki/堀江貴文 "wikilink")がゲスト予定だったが[逮捕の為](../Page/ライブドア・ショック.md "wikilink")、[竹下景子](../Page/竹下景子.md "wikilink")をゲストに迎え、[ライブドア・ショック](../Page/ライブドア・ショック.md "wikilink")とキスの心理を緊急特集。
-  - 2006年[2月18日](../Page/2月18日.md "wikilink")は、[カルロス・ゴーン](https://ja.wikipedia.org/wiki/カルロス・ゴーン "wikilink")を迎え、[日産自動車](../Page/日産自動車.md "wikilink")とカルロス・ゴーンの人生、経営術を特集。
+  - 2006年[1月28日](../Page/1月28日.md "wikilink")は、当初[堀江貴文](../Page/堀江貴文.md "wikilink")がゲスト予定だったが[逮捕の為](../Page/ライブドア・ショック.md "wikilink")、[竹下景子](../Page/竹下景子.md "wikilink")をゲストに迎え、[ライブドア・ショック](../Page/ライブドア・ショック.md "wikilink")とキスの心理を緊急特集。
+  - 2006年[2月18日](../Page/2月18日.md "wikilink")は、[カルロス・ゴーン](../Page/カルロス・ゴーン.md "wikilink")を迎え、[日産自動車](../Page/日産自動車.md "wikilink")とカルロス・ゴーンの人生、経営術を特集。
   - 2006年[3月11日](../Page/3月11日.md "wikilink")は、『[愛と死をみつめて](../Page/愛と死をみつめて.md "wikilink")』のスペシャル企画で、草彅剛とゲストの[広末涼子](https://ja.wikipedia.org/wiki/広末涼子 "wikilink")を迎え、ラブレター特集を放送。
   - 2006年[6月17日](../Page/6月17日.md "wikilink")は、ドイツから[福田正博](../Page/福田正博.md "wikilink")らと生放送。
   - 2006年[7月15日](../Page/7月15日.md "wikilink")は、映画『[日本沈没](../Page/日本沈没.md "wikilink")』公開記念として草彅と[柴咲コウ](https://ja.wikipedia.org/wiki/柴咲コウ "wikilink")がゲスト。月イチゴローにて『日本沈没』が1位となった。
@@ -218,7 +218,7 @@
 
 ### SmaSTATION\!\!（第2期）の出来事
 
-  - 2007年3月17日は、TBS版『[華麗なる一族](../Page/華麗なる一族_\(2007年のテレビドラマ\).md "wikilink")』で主演の[木村拓哉](https://ja.wikipedia.org/wiki/木村拓哉 "wikilink")をゲストに迎えて、『[華麗なる一族](../Page/華麗なる一族.md "wikilink")』について取り上げた。TBS版の最終回を前日に控え、しかもドラマ映像もTBSから提供されており、事実上のコラボ企画である。また、この放送回では『華麗なる一族』の著者である[小説家](../Page/小説家.md "wikilink")の[山崎豊子](../Page/山崎豊子.md "wikilink")から木村へのメッセージが本人の肉声によってオンエアされた。
+  - 2007年3月17日は、TBS版『[華麗なる一族](../Page/華麗なる一族_\(2007年のテレビドラマ\).md "wikilink")』で主演の[木村拓哉](../Page/木村拓哉.md "wikilink")をゲストに迎えて、『[華麗なる一族](../Page/華麗なる一族.md "wikilink")』について取り上げた。TBS版の最終回を前日に控え、しかもドラマ映像もTBSから提供されており、事実上のコラボ企画である。また、この放送回では『華麗なる一族』の著者である[小説家](../Page/小説家.md "wikilink")の[山崎豊子](../Page/山崎豊子.md "wikilink")から木村へのメッセージが本人の肉声によってオンエアされた。
   - [2007年](../Page/2007年.md "wikilink")[7月28日](../Page/7月28日.md "wikilink")の放送は、香取がフジテレビの『[FNS27時間テレビ みんな“なまか”だっ\!ウッキー\!ハッピー\!西遊記\!](../Page/FNS27時間テレビ_\(2007年\).md "wikilink")』に出演しており、総合司会という立場上同番組のスタジオを離れられなかったため出演できず、全編[島田洋七](../Page/島田洋七.md "wikilink")に密着した[佐賀のがばいばあちゃん](../Page/佐賀のがばいばあちゃん.md "wikilink")特集VTRのみで構成されたが、番組冒頭及び最後の5秒のみ事前収録のVTRで香取が登場し、『27時間テレビ』を意識させる発言をした。
   - 2009年[3月8日](../Page/3月8日.md "wikilink")（7日深夜）の放送は、[野球中継の放送時間延長で](../Page/2009_ワールド・ベースボール・クラシック.md "wikilink")1時間20分遅れの0:20に放送、日曜になってからの放送となった。
   - 2009年[4月18日](../Page/4月18日.md "wikilink")の放送より、8年間使用されていたセットが一新された。初ゲストは、[タカアンドトシ](../Page/タカアンドトシ.md "wikilink")。
@@ -231,17 +231,17 @@
       - [8月21日](../Page/8月21日.md "wikilink") → 事前に本放送の為に収録されたロケ企画を放送。
       - [8月28日](../Page/8月28日.md "wikilink") → CM中の未公開を含む総集編。
       - [9月4日](../Page/9月4日.md "wikilink") → コンサート開催地の大阪で[朝日放送の屋上から生放送](../Page/朝日放送テレビ.md "wikilink")。ゲストは[トータス松本](../Page/トータス松本.md "wikilink")で本番組の為に大阪へ駆け付けた。
-  - 2010年[11月13日](../Page/11月13日.md "wikilink")は香取が[シルク・ドゥ・ソレイユ クーザの取材](https://ja.wikipedia.org/wiki/シルク・ドゥ・ソレイユ "wikilink")（フジテレビ系）でアメリカへ渡っていた為、事前に本放送の為に収録されたロケ企画を放送した。
+  - 2010年[11月13日](../Page/11月13日.md "wikilink")は香取が[シルク・ドゥ・ソレイユ クーザの取材](../Page/シルク・ドゥ・ソレイユ.md "wikilink")（フジテレビ系）でアメリカへ渡っていた為、事前に本放送の為に収録されたロケ企画を放送した。
   - 2011年[1月29日](../Page/1月29日.md "wikilink")は[今田耕司](../Page/今田耕司.md "wikilink")を迎えて前週に予告した当初の内容を変更し、[AFCアジアカップ2011](../Page/AFCアジアカップ2011.md "wikilink")・決勝（日本対オーストラリア）を行うカタール・ドーハから中継をつなぎ、決勝の展望などを放送。
-  - 2011年[2月12日](../Page/2月12日.md "wikilink")は番組放送以来初となる[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")の後輩、[山下智久](https://ja.wikipedia.org/wiki/山下智久 "wikilink")を迎えて「ジャニーズ事務所の歴史を総復習SP」を放送。また、全てのVTRが終わった後に、[Kis-My-Ft2](https://ja.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")が5月にCDデビューする事が決定したことを伝えた。
-  - 2011年[3月12日](../Page/3月12日.md "wikilink")、[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")発生による[ANN](https://ja.wikipedia.org/wiki/オールニッポン・ニュースネットワーク#特別番組 "wikilink")[報道特別番組](https://ja.wikipedia.org/wiki/報道特別番組 "wikilink")を放送のため、休止。
-  - [2012年](../Page/2012年.md "wikilink")[8月18日](../Page/8月18日.md "wikilink")、映画『あなたへ』公開直前で草彅をゲストに迎え、終盤では[高倉健](https://ja.wikipedia.org/wiki/高倉健 "wikilink")が生出演した。高倉本人による、草彅にサプライズで出演したいという希望が実現された形である。よって、高倉が生出演することは非公開で草彅にも知らされていなかった。
+  - 2011年[2月12日](../Page/2月12日.md "wikilink")は番組放送以来初となる[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")の後輩、[山下智久](https://ja.wikipedia.org/wiki/山下智久 "wikilink")を迎えて「ジャニーズ事務所の歴史を総復習SP」を放送。また、全てのVTRが終わった後に、[Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")が5月にCDデビューする事が決定したことを伝えた。
+  - 2011年[3月12日](../Page/3月12日.md "wikilink")、[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")発生による[ANN](https://ja.wikipedia.org/wiki/オールニッポン・ニュースネットワーク#特別番組 "wikilink")[報道特別番組](../Page/報道特別番組.md "wikilink")を放送のため、休止。
+  - [2012年](../Page/2012年.md "wikilink")[8月18日](../Page/8月18日.md "wikilink")、映画『あなたへ』公開直前で草彅をゲストに迎え、終盤では[高倉健](../Page/高倉健.md "wikilink")が生出演した。高倉本人による、草彅にサプライズで出演したいという希望が実現された形である。よって、高倉が生出演することは非公開で草彅にも知らされていなかった。
   - 2012年[9月1日](../Page/9月1日.md "wikilink")、SMAPが大阪でコンサートを行った関係で、朝日放送から生放送をおこなった。
   - [2013年](../Page/2013年.md "wikilink")[5月11日](../Page/5月11日.md "wikilink")に放送回数500回達成。
   - 2013年最後の放送となる[12月28日](../Page/12月28日.md "wikilink")は、後述の『[裏Sma\!\!](https://ja.wikipedia.org/wiki/#裏Sma!! "wikilink")』を15秒の[クロスプログラム](https://ja.wikipedia.org/wiki/クロスプログラム "wikilink")に差し替えてから開始した。
   - [2014年](../Page/2014年.md "wikilink")[9月13日](../Page/9月13日.md "wikilink")は、コンサート開催地の大阪で朝日放送から生放送。
   - 2014年11月15日は、当初は通常通り放送予定だったが、23:06より『テニス・[ATPワールドツアー](https://ja.wikipedia.org/wiki/ATPワールドツアー "wikilink")ファイナルズ 準決勝 「[錦織圭](https://ja.wikipedia.org/wiki/錦織圭 "wikilink")×[N・ジョコビッチ](../Page/ノバク・ジョコビッチ.md "wikilink")」』を生中継することになったため、番組休止となった。
-  - 2014年11月22日は[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")・[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")からの生放送（ゲスト：[博多華丸・大吉](https://ja.wikipedia.org/wiki/博多華丸・大吉 "wikilink")）だが、冒頭、開始前の22:08に[長野県](../Page/長野県.md "wikilink")北部で震度6弱の[地震](../Page/地震.md "wikilink")が発生したために地震情報を放送、その後、同年11月10日に死去した高倉健のゲスト出演回である2012年8月18日放送分を放送し、そのままOPタイトル抜きで始まった。
+  - 2014年11月22日は[福岡県](../Page/福岡県.md "wikilink")・[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")からの生放送（ゲスト：[博多華丸・大吉](../Page/博多華丸・大吉.md "wikilink")）だが、冒頭、開始前の22:08に[長野県](../Page/長野県.md "wikilink")北部で震度6弱の[地震](../Page/地震.md "wikilink")が発生したために地震情報を放送、その後、同年11月10日に死去した高倉健のゲスト出演回である2012年8月18日放送分を放送し、そのままOPタイトル抜きで始まった。
   - [2016年](../Page/2016年.md "wikilink")[12月31日](../Page/12月31日.md "wikilink")をもって、香取が所属していたSMAPが正式に解散したが、同ユニットに由来する本番組のタイトルについては解散後も当面変更はないとする説明が2016年11月29日、テレビ朝日担当役員・常務の亀山慶二より発表された。ただし4月以後についてはこの時点においては「ご報告できるタイミングではない」とした\[8\]。
   - [2017年](../Page/2017年.md "wikilink")[4月22日](../Page/4月22日.md "wikilink")はゲストに[中居正広](../Page/中居正広.md "wikilink")が登場、SMAP解散後初めてとなる共演を果たした。平均視聴率は8.3%（関東地区・世帯・リアルタイム、ビデオリサーチ調べ）を記録した<ref>
 
@@ -282,7 +282,7 @@
 <!-- end list -->
 
   -
-    『[ベストヒットUSA](https://ja.wikipedia.org/wiki/ベストヒットUSA "wikilink")』のパロディで、ランキングを発表する。ナビゲーターは本家と同じく小林だが、セットは異なる。
+    『[ベストヒットUSA](../Page/ベストヒットUSA.md "wikilink")』のパロディで、ランキングを発表する。ナビゲーターは本家と同じく小林だが、セットは異なる。
 
 <!-- end list -->
 
@@ -318,7 +318,7 @@
 <!-- end list -->
 
   -
-    香取とゲスト（初期は香取と小宮）が日常[英会話](https://ja.wikipedia.org/wiki/英会話 "wikilink")フレーズをクイズ形式で答えるコーナー。もともと2人の[英語](../Page/英語.md "wikilink")力を伸ばそうという企画であり、香取はこの企画から英語を勉強するようになった。香取は英語を学ぶにあたって当初英単語をひたすら暗記し続ける方法をとっていたが、効率が悪いため、会話フレーズを暗唱し徐々に暗記文を増やす方向に転換。同時に、番組で出題される文もその暗記リストから出題されることになった。その会話文リストをまとめ直したものが『ベラベラブック』である。こうして初期のベラベラステーションが確立された。その後、さまざまな出題形式へと変更していった。
+    香取とゲスト（初期は香取と小宮）が日常[英会話](../Page/英会話.md "wikilink")フレーズをクイズ形式で答えるコーナー。もともと2人の[英語](../Page/英語.md "wikilink")力を伸ばそうという企画であり、香取はこの企画から英語を勉強するようになった。香取は英語を学ぶにあたって当初英単語をひたすら暗記し続ける方法をとっていたが、効率が悪いため、会話フレーズを暗唱し徐々に暗記文を増やす方向に転換。同時に、番組で出題される文もその暗記リストから出題されることになった。その会話文リストをまとめ直したものが『ベラベラブック』である。こうして初期のベラベラステーションが確立された。その後、さまざまな出題形式へと変更していった。
     放送では、問題に対する答えが正解または優秀な答えであれば「*Perfect BERA-BERA\!*」のジングルが鳴る。通じるけど正答とはいえない場合普通のチャイムが鳴り、完全に不正解の場合は「*Too Bad\!\!*」のジングルが鳴る。出演者を取り囲む外国人たちの大げさな反応も見ることができる。
     初期は基本的には与えられた会話文を英語に訳す問題で、回によっては単語の英訳問題や、聞き取った英語に対して応答するヒアリング問題もあった。香取とゲスト（小宮）がなぜか背中合わせになっていた。1回の放送で5～10問出され、毎回長い時間が割かれていた。
     「2」になると、「2nd ステージ」としてリニューアルされる。テーマは「リスニング」。洋画や外国人へのインタビュー（出演者へのメッセージ）の中から問題文として抜き出された言葉の日本語訳を答える問題だった。
@@ -397,7 +397,7 @@
 
   -
     「スマムービー・オスギハイクラ\!?」の後継として2004年4月10日に開始したコーナー。
-    香取が[チラシ](https://ja.wikipedia.org/wiki/チラシ "wikilink")のみで選んだ5本の映画作品を稲垣が見て、そのランキングと批評を行う。
+    香取が[チラシ](../Page/チラシ.md "wikilink")のみで選んだ5本の映画作品を稲垣が見て、そのランキングと批評を行う。
     タイトルに「月イチ」と付いているが、行わない月も増えている。[2009年](../Page/2009年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - [12月](https://ja.wikipedia.org/wiki/12月 "wikilink")の3ヶ月間行わなかった時もあった。
     当初は稲垣のコメントに香取が突っ込むシーンもあったが、コーナー後期にはコメントの内容も深くなり、納得する姿も多くなった。
 
@@ -450,7 +450,7 @@
 
 ## 香取輸送作戦
 
-[日本テレビで毎年](../Page/日本テレビ放送網.md "wikilink")12月のクリスマス時期に放送される『[さんま\&SMAP\!美女と野獣のクリスマススペシャル](https://ja.wikipedia.org/wiki/さんま&SMAP!美女と野獣のクリスマススペシャル "wikilink")』に出演している香取を、その後23:00から生放送の『SmaSTATION-3スペシャル』に出演する為、『SmaSTATION\!\!』の放送が始まった[2001年](../Page/2001年.md "wikilink")から実施されている日本テレビの駐車場から大型[バスなどでテレビ朝日の社屋へ輸送するという作戦である](../Page/バス_\(交通機関\).md "wikilink")。
+[日本テレビで毎年](../Page/日本テレビ放送網.md "wikilink")12月のクリスマス時期に放送される『[さんま\&SMAP\!美女と野獣のクリスマススペシャル](../Page/さんま&SMAP!美女と野獣のクリスマススペシャル.md "wikilink")』に出演している香取を、その後23:00から生放送の『SmaSTATION-3スペシャル』に出演する為、『SmaSTATION\!\!』の放送が始まった[2001年](../Page/2001年.md "wikilink")から実施されている日本テレビの駐車場から大型[バスなどでテレビ朝日の社屋へ輸送するという作戦である](../Page/バス_\(交通機関\).md "wikilink")。
 
 この回はSMAPメンバーの草彅が毎年出演している。またベラベラステーションは[2002年](../Page/2002年.md "wikilink")から草彅だけは韓国語の問題が、香取など他の出演者は通常通り英会話の問題が出されている。
 
@@ -476,7 +476,7 @@
       -
         香取は道が渋滞で車に乗れないと告げられ、日本テレビからテレビ朝日へ走って移動した。しかしスタジオに到着すると、すでに車で移動していた草彅の姿があった。草彅「道混んでなかったですよ」。今回は草彅剛と稲垣吾郎が出演した。
 
-※[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")は、『さんま\&SMAP-』の放送が[日曜日](../Page/日曜日.md "wikilink")（[12月25日](../Page/12月25日.md "wikilink")）になったため、輸送作戦は行われていない。
+※[2005年](../Page/2005年.md "wikilink")は、『さんま\&SMAP-』の放送が[日曜日](../Page/日曜日.md "wikilink")（[12月25日](../Page/12月25日.md "wikilink")）になったため、輸送作戦は行われていない。
 
 ※[2006年](../Page/2006年.md "wikilink")については『さんま\&SMAP-』が土曜日放送（[12月23日](../Page/12月23日.md "wikilink")）に戻されたが、同日の『[土曜ワイド劇場](../Page/土曜ワイド劇場.md "wikilink")』（前枠番組）の30分拡大を受けて『SmaSTATION-6』自体の開始が23:30に繰り下げられたため、『さんま\&SMAP-』が終了した後の約20分間の間に香取がテレビ朝日へ移動した。よって輸送作戦は行われず、裏Sma\!以外は通常通り香取がオープニングからテレビ朝日のスタジオに登場した。
 
@@ -504,8 +504,8 @@
 
 ## 番組内でよく使われる楽曲
 
-  - [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")「[世界に一つだけの花](https://ja.wikipedia.org/wiki/世界に一つだけの花 "wikilink")」「[Dear WOMAN](../Page/Dear_WOMAN.md "wikilink")」「[buzzer beater](../Page/Dear_WOMAN.md "wikilink")」「[ススメ\!](https://ja.wikipedia.org/wiki/SMAP_016/MIJ "wikilink")」「[Theme of MIJ](https://ja.wikipedia.org/wiki/SMAP_016/MIJ "wikilink")」
-  - [桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")「[ROCK AND ROLL HERO](https://ja.wikipedia.org/wiki/ROCK_AND_ROLL_HERO "wikilink")」「HOLD ON (It's Alright)」
+  - [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")「[世界に一つだけの花](../Page/世界に一つだけの花.md "wikilink")」「[Dear WOMAN](../Page/Dear_WOMAN.md "wikilink")」「[buzzer beater](../Page/Dear_WOMAN.md "wikilink")」「[ススメ\!](https://ja.wikipedia.org/wiki/SMAP_016/MIJ "wikilink")」「[Theme of MIJ](https://ja.wikipedia.org/wiki/SMAP_016/MIJ "wikilink")」
+  - [桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")「[ROCK AND ROLL HERO](../Page/ROCK_AND_ROLL_HERO.md "wikilink")」「HOLD ON (It's Alright)」
   - [U2](../Page/U2.md "wikilink")、[THE Beatles](../Page/ビートルズ.md "wikilink")、[THE ROLLING STONES](../Page/ローリング・ストーンズ.md "wikilink")
   - [ジョン・パウエル](../Page/ジョン・パウエル.md "wikilink")「Our Heros」([映画「エボリューション」より](../Page/エボリューション_\(映画\).md "wikilink")、主に企画前の前振りVTR時)
 
@@ -700,7 +700,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/九州朝日放送" title="wikilink">九州朝日放送</a>（KBC）</p></td>
 <td></td>
 <td></td>

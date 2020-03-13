@@ -54,7 +54,7 @@
   - [島大介](../Page/島大介.md "wikilink")
     ヤマト航海班長で、本作では副長を兼任する。
     同期の古代が艦長に就任したことにわずかながらも嫉妬し、意見の対立などを招いていたが、ケンタウルスα星での騒動を通して古代を艦長の器として認めるようになる。
-  - [真田志郎](https://ja.wikipedia.org/wiki/真田志郎 "wikilink")
+  - [真田志郎](../Page/真田志郎.md "wikilink")
     ヤマト工作班長で、本作では副長を兼任する。
     ヤマトの頭脳にして、古代にとっては良き兄代わりともいえる存在。戦闘では参謀として知恵を出すほか、工作班を率いて惑星探査などにおいても活躍する。
   - [土門竜介](https://ja.wikipedia.org/wiki/宇宙戦艦ヤマトシリーズの登場人物一覧#土門竜介 "wikilink")
@@ -154,7 +154,7 @@
   - アニメーション・ディレクター - 棚橋一徳
   - 総作画監督 - 小泉謙三
   - SF設定協力 - [豊田有恒](../Page/豊田有恒.md "wikilink")、星敬、[出渕裕](../Page/出渕裕.md "wikilink")
-  - メカデザイン - [板橋克己](https://ja.wikipedia.org/wiki/板橋克己 "wikilink")、サブマリン
+  - メカデザイン - [板橋克己](../Page/板橋克己.md "wikilink")、サブマリン
   - 美術監督 - 伊藤主計、勝又激
   - 撮影監督 - 菅谷信行
   - 音響監督 - 鳥海俊材
@@ -183,7 +183,7 @@
 
 :; 「別離」　（読み：べつり）
 
-::作詞 - 和田順子、[山口洋子](https://ja.wikipedia.org/wiki/山口洋子 "wikilink") / 作曲・編曲 - 宮川泰 / 歌 - [堀江美都子](../Page/堀江美都子.md "wikilink")
+::作詞 - 和田順子、[山口洋子](../Page/山口洋子.md "wikilink") / 作曲・編曲 - 宮川泰 / 歌 - [堀江美都子](../Page/堀江美都子.md "wikilink")
 
 ::※第3・4・5および6話以降の偶数回で使用。
 
@@ -192,7 +192,7 @@
   -
 
       -
-        作詞 - [安藤ありさ](https://ja.wikipedia.org/wiki/安藤ありさ "wikilink") / 作曲・編曲 - 宮川泰 / 歌 - ささきいさお
+        作詞 - [安藤ありさ](../Page/安藤ありさ.md "wikilink") / 作曲・編曲 - 宮川泰 / 歌 - ささきいさお
         ※第7話以降の奇数回で使用。
 
 ※テレビ版第1・2作と同じく、「宇宙戦艦ヤマト」がオープニングテーマだが、後期レコードバージョンの前半部分と、第一作TVシリーズで使用したオープニングの後半部分とを編集で繋げて1コーラスにしている。この2曲はテンポが微妙に異なるため、繋いだ部分（"銀河を離れイスカンダルへ〜"）からテンポアップして聴こえる。後半部の音源が元々モノラルだったため、全体としてもモノラルでダビングされている。
@@ -244,7 +244,7 @@
 <td><p>第3話</p></td>
 <td><p>10月25日</p></td>
 <td><p>ヤマト暁の発進</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/芦田豊雄" title="wikilink">芦田豊雄</a></p></td>
+<td><p><a href="../Page/芦田豊雄.md" title="wikilink">芦田豊雄</a></p></td>
 <td><p>329日</p></td>
 <td></td>
 <td></td>
@@ -254,7 +254,7 @@
 <td><p>第4話</p></td>
 <td><p>11月1日</p></td>
 <td><p>あの火星を撃て</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/藤川桂介" title="wikilink">藤川桂介</a></p></td>
+<td><p><a href="../Page/藤川桂介.md" title="wikilink">藤川桂介</a></p></td>
 <td><p>遠藤政治</p></td>
 <td><p>小泉謙三</p></td>
 <td><p>328日</p></td>
@@ -314,7 +314,7 @@
 <td><p>第10話</p></td>
 <td><p>12月13日</p></td>
 <td><p>ダゴン新鋭艦隊の反撃</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/笹川ひろし" title="wikilink">笹川ひろし</a></p></td>
+<td><p><a href="../Page/笹川ひろし.md" title="wikilink">笹川ひろし</a></p></td>
 <td><p>宇田川一彦</p></td>
 <td><p>285日</p></td>
 <td></td>
@@ -499,7 +499,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/札幌テレビ放送" title="wikilink">札幌テレビ</a></p></td>
+<td><p><a href="../Page/札幌テレビ放送.md" title="wikilink">札幌テレビ</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -652,7 +652,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/福岡放送.md" title="wikilink">福岡放送</a></p></td>
 <td></td>
 <td></td>
@@ -719,7 +719,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/沖縄県.md" title="wikilink">沖縄県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/琉球放送" title="wikilink">琉球放送</a></p></td>
+<td><p><a href="../Page/琉球放送.md" title="wikilink">琉球放送</a></p></td>
 <td><p>木曜 19:00 - 19:30</p></td>
 <td></td>
 <td></td>
@@ -790,7 +790,7 @@
 7.  「YAMATO III NEW ENDING」『ロマンアルバム・デラックス43 宇宙戦艦ヤマトIII』徳間書店、1981年6月、p. 119。
 8.  2曲共に、放映で使われたテイクはシングルレコード版とは異なるテレビバージョンである。
 9.  同LPは1995年に『宇宙戦艦ヤマト SONG COLLECTION』としてCD化されている（COCC-12875）。
-10. 「全国放映リスト」『[アニメージュ](https://ja.wikipedia.org/wiki/アニメージュ "wikilink") 1981年4月号』徳間書店、1981年。pp. 114 - 115。
+10. 「全国放映リスト」『[アニメージュ](../Page/アニメージュ.md "wikilink") 1981年4月号』徳間書店、1981年。pp. 114 - 115。
 11. 「全国放映リスト」『アニメージュ 1981年10月号』徳間書店、1981年。p. 101。
 12. 「ヤマトIIIの時代検証2 80～81年『ヤマトIII』時の関連本」『宇宙戦艦ヤマトIII DVDメモリアルボックス 保完ファイル』p. 37。
 13. 「ヤマトIIIの時代検証2 80～81年『ヤマトIII』時の関連本」『宇宙戦艦ヤマトIII DVDメモリアルボックス 保完ファイル』p. 36。

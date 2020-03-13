@@ -13,7 +13,7 @@
 
 また、この頃は時報前に次番組予告として「ニッポン放送 LF+R。このあとは〝●●（番組名）〟です。時刻は○時です。」というものが流れていた。
 
-LF+Rで採用していた[電子メール](../Page/電子メール.md "wikilink")アドレス「 (@) allnightnippon.com」は当初ニッポン放送の昼の番組でも使われていた（〜1999年9月。その後は現在の「@1242.com」に変更。夜のヤング番組は従前どおりだが、『[金子達仁のSports Press](https://ja.wikipedia.org/wiki/金子達仁のSports_Press "wikilink")』や『[川嶋あい 勇気の唄](https://ja.wikipedia.org/wiki/川嶋あい_勇気の唄 "wikilink")』など一部の番組では「@1242.com」のドメインが使われている）。
+LF+Rで採用していた[電子メール](../Page/電子メール.md "wikilink")アドレス「 (@) allnightnippon.com」は当初ニッポン放送の昼の番組でも使われていた（〜1999年9月。その後は現在の「@1242.com」に変更。夜のヤング番組は従前どおりだが、『[金子達仁のSports Press](../Page/金子達仁のSports_Press.md "wikilink")』や『[川嶋あい 勇気の唄](../Page/川嶋あい_勇気の唄.md "wikilink")』など一部の番組では「@1242.com」のドメインが使われている）。
 
 ## 『オールナイトニッポン』への影響
 
@@ -24,12 +24,12 @@ LF+Rで採用していた[電子メール](../Page/電子メール.md "wikilink"
       - 月曜〜土曜 25:00 - 27:00 『**[@llnightnippon.com](../Page/@llnightnippon.com.md "wikilink")**』
       - 月曜〜木曜 27:00 - 28:30、金曜・土曜 27:00 - 29:00 『**[allnightnippon-r](../Page/オールナイトニッポンR.md "wikilink")**』
 
-また、1990年代末に『オールナイトニッポン』のパーソナリティも経験した[平野友康](../Page/平野友康.md "wikilink")など多数の[インターネット](../Page/インターネット.md "wikilink")関係者の協力の下、[メール](https://ja.wikipedia.org/wiki/メール "wikilink")や[インターネット放送](https://ja.wikipedia.org/wiki/インターネット放送 "wikilink")などに対応した公式サイト「www.allnightnippon.com」\[1\]を開設するなど、当時のインターネット社会を視野に入れた画期的な大改編となった。
+また、1990年代末に『オールナイトニッポン』のパーソナリティも経験した[平野友康](../Page/平野友康.md "wikilink")など多数の[インターネット](../Page/インターネット.md "wikilink")関係者の協力の下、[メール](https://ja.wikipedia.org/wiki/メール "wikilink")や[インターネット放送](../Page/インターネット放送.md "wikilink")などに対応した公式サイト「www.allnightnippon.com」\[1\]を開設するなど、当時のインターネット社会を視野に入れた画期的な大改編となった。
 
 その一方で、LF+R開始後、『[allnightnippon SUPER\!](https://ja.wikipedia.org/wiki/allnightnippon_SUPER! "wikilink")』等では以下のような問題点が発生した。
 
   - 旧1部のパーソナリティを引き継いだSUPER枠がニッポン放送単局での放送にとどまった。
-  - もう一つの柱であった[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")も、1999年の時点ではインターネットの[常時接続](https://ja.wikipedia.org/wiki/常時接続 "wikilink")システムが現在ほど普及していなかった。1999年当時のインターネットラジオでは、[著作権](../Page/著作権.md "wikilink")の問題などもあり、各番組内でかかる曲は、殆どオンエアされていなかった。
+  - もう一つの柱であった[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")も、1999年の時点ではインターネットの[常時接続](../Page/常時接続.md "wikilink")システムが現在ほど普及していなかった。1999年当時のインターネットラジオでは、[著作権](../Page/著作権.md "wikilink")の問題などもあり、各番組内でかかる曲は、殆どオンエアされていなかった。
   - 1999年秋以降、SUPER枠をネットする地方局が増えたが\[2\]、他方で、一部のJRN系ラジオ局\[3\]は[TBSラジオ](../Page/TBSラジオ.md "wikilink")『[BATTLE TALK RADIO アクセス](../Page/BATTLE_TALK_RADIO_アクセス.md "wikilink")』を受け入れることとなり、同時に『アクセス』の地方ネットも同時進行することとなり、TBSラジオとニッポン放送（後に文化放送の『[レコメン\!](../Page/レコメン!.md "wikilink")』関東ローカル枠も加わる）による、夜ワイド番組の販売合戦の原因となる。
   - 人気があった旧1部パーソナリティを時間の浅い22時台と23時台に移したことで、トークやコーナー内容に規制がかかり、パーソナリティは番組を深夜帯ほど自由に行うことが難しくなり、番組自体も深夜帯に比べ若年の聴取者層にも対応しうる内容が求められた\[4\]。
   - その一方で、com枠では、Webを活用した企画などで番組制作を試みたが、トーク・ネタコーナーを中軸に据えた「深夜放送」というシンプルな編成は少なくなった。
@@ -42,7 +42,7 @@ LF+Rで採用していた[電子メール](../Page/電子メール.md "wikilink"
 
 その後も、2000年に土曜深夜の23:30 - 25:00の90分枠に、かつてオールナイトニッポンを担当した[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")を再起用した『**[福山雅治のallnightnippon saturday special・魂のラジオ](../Page/福山雅治のオールナイトニッポンサタデースペシャル・魂のラジオ.md "wikilink")**』を立ち上げたり、[女性アイドルをパーソナリティに迎えた番組を増やしたり](https://ja.wikipedia.org/wiki/アイドル "wikilink")、番組間の連携を強めた企画を多数行ったが、肝心な勢いの回復には殆ど至らず、[2002年](../Page/2002年.md "wikilink")のTBSラジオ「[JUNK](../Page/JUNK.md "wikilink")」の開始などにより聴取率が低下、[2003年](../Page/2003年.md "wikilink")3月で「LF+R」は終了した。それに伴い夜帯が下記のように改題された。
 
-  - 月曜〜金曜 22:00 - 24:00 『**[オールナイトニッポンいいネ\!](../Page/オールナイトニッポンいいネ!.md "wikilink")**』（金曜のみ『**[長渕剛のオールナイトニッポンフライデースペシャル・今夜もバリサン](https://ja.wikipedia.org/wiki/長渕剛のオールナイトニッポンフライデースペシャル・今夜もバリサン "wikilink")**』）
+  - 月曜〜金曜 22:00 - 24:00 『**[オールナイトニッポンいいネ\!](../Page/オールナイトニッポンいいネ!.md "wikilink")**』（金曜のみ『**[長渕剛のオールナイトニッポンフライデースペシャル・今夜もバリサン](../Page/長渕剛のオールナイトニッポンフライデースペシャル・今夜もバリサン.md "wikilink")**』）
   - 月曜〜土曜 25:00 - 27:00 『**[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")**』（4年ぶりにカタカナ表記に戻した）
   - 月曜〜土曜 27:00 - 28:30 『**[オールナイトニッポンR](../Page/オールナイトニッポンR.md "wikilink")**』（金曜のみ27:00-29:00）
 
@@ -53,7 +53,7 @@ LF+Rで採用していた[電子メール](../Page/電子メール.md "wikilink"
 ## LF+R枠で放送されていたワイド番組
 
   - allnightnippon SUPER\!（月-金 22:00-24:00、ただし、2002年10月-2003年3月までは金は25:00終了）
-  - [LF+RフライングNIGHT\!](https://ja.wikipedia.org/wiki/LF+RフライングNIGHT! "wikilink")→[グローバーのウラナイ\!](https://ja.wikipedia.org/wiki/グローバーのウラナイ! "wikilink")（月-木 24:00-25:00）※
+  - [LF+RフライングNIGHT\!](../Page/LF+RフライングNIGHT!.md "wikilink")→[グローバーのウラナイ\!](https://ja.wikipedia.org/wiki/グローバーのウラナイ! "wikilink")（月-木 24:00-25:00）※
   - @llnightnippon.com（月-土 25:00-27:00）
   - allnightnippon-r（月-土 27:00-28:30、ただし、金は29:00終了）
   - [福山雅治のallnightnippon Saturday Special‘魂のラジオ’](../Page/福山雅治のオールナイトニッポンサタデースペシャル・魂のラジオ.md "wikilink")（土 23:30-25:00）
@@ -65,7 +65,7 @@ LF+Rで採用していた[電子メール](../Page/電子メール.md "wikilink"
   -
     ※印のついたものはニッポン放送ローカルで、ネット局はなかった（また、allnightnippon SUPER\!も1999年9月まではニッポン放送ローカルだった）。
 
-また、[BSデジタル本放送が開始された](https://ja.wikipedia.org/wiki/日本における衛星放送#BSデジタル放送 "wikilink")[2000年](../Page/2000年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")からは、[BSフジ](../Page/BSフジ.md "wikilink")とニッポン放送事業開発局の制作で『[LF+Rモーニング YOUNG LIVE JAPAN](https://ja.wikipedia.org/wiki/LF+Rモーニング_YOUNG_LIVE_JAPAN "wikilink")』『[ヤングライブニッポンLF+RミュージックTV](https://ja.wikipedia.org/wiki/ヤングライブニッポンLF+RミュージックTV "wikilink")』が毎週月〜金曜日に放送されていた時期があった（[フジテレビ721でも同時放送された](https://ja.wikipedia.org/wiki/フジテレビTWO "wikilink")）。
+また、[BSデジタル本放送が開始された](https://ja.wikipedia.org/wiki/日本における衛星放送#BSデジタル放送 "wikilink")[2000年](../Page/2000年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")からは、[BSフジ](../Page/BSフジ.md "wikilink")とニッポン放送事業開発局の制作で『[LF+Rモーニング YOUNG LIVE JAPAN](../Page/LF+Rモーニング_YOUNG_LIVE_JAPAN.md "wikilink")』『[ヤングライブニッポンLF+RミュージックTV](../Page/ヤングライブニッポンLF+RミュージックTV.md "wikilink")』が毎週月〜金曜日に放送されていた時期があった（[フジテレビ721でも同時放送された](https://ja.wikipedia.org/wiki/フジテレビTWO "wikilink")）。
 
 ## 脚注
 

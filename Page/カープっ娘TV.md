@@ -1,7 +1,7 @@
 > この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
 
 
-『**カープっ娘TV**』（カープっこティーヴィー）は、[1988年](../Page/1988年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")で放送された[ミニ番組](https://ja.wikipedia.org/wiki/ミニ番組 "wikilink")・[ローカル](../Page/ローカル番組.md "wikilink")[テレビ番組](../Page/テレビ番組.md "wikilink")。
+『**カープっ娘TV**』（カープっこティーヴィー）は、[1988年](../Page/1988年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2005年](../Page/2005年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")で放送された[ミニ番組](../Page/ミニ番組.md "wikilink")・[ローカル](../Page/ローカル番組.md "wikilink")[テレビ番組](../Page/テレビ番組.md "wikilink")。
 
 [2017年](../Page/2017年.md "wikilink")[1月9日](../Page/1月9日.md "wikilink")から[2018年](../Page/2018年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")までは、「**カープっ娘TV2**」として『[TSSみんなのテレビ](https://ja.wikipedia.org/wiki/みんなのテレビ_\(テレビ新広島\) "wikilink")』内のコーナーとして放送されていた。
 
@@ -17,7 +17,7 @@
 
 2003年9月頃\[1\]から2005年3月の放送終了までは、公式サイトで月毎の担当者表が公開されていた\[2\]。
 
-2005年3月31日放送の最終回では、担当メンバー3人が番組終了の挨拶をし、17年間の放送に幕を閉じた。なお、当日夕方放送の『[tssスーパーニュース](https://ja.wikipedia.org/wiki/TSSスーパーニュース "wikilink")』のエンディングでは、『カープっ娘TV』が最終回であることを、[石井百恵](../Page/石井百恵.md "wikilink")アナウンサーが予告した。
+2005年3月31日放送の最終回では、担当メンバー3人が番組終了の挨拶をし、17年間の放送に幕を閉じた。なお、当日夕方放送の『[tssスーパーニュース](../Page/TSSスーパーニュース.md "wikilink")』のエンディングでは、『カープっ娘TV』が最終回であることを、[石井百恵](../Page/石井百恵.md "wikilink")アナウンサーが予告した。
 
 番組終了後は、『tssスーパーニュース』のローカル枠を5分拡大してスポーツコーナー「広島スポーツの力」→「Hiroshima SPORTS」を設け、その中でカープ関連の情報を伝える他、サッカーJリーグ・[サンフレッチェ広島](https://ja.wikipedia.org/wiki/サンフレッチェ広島 "wikilink")や、その他広島県内の各種スポーツについても伝えるようになった。
 
@@ -29,7 +29,7 @@
 
 当初は、まどか・ゆい・ゆうきのカープっ娘3人体制であったが、2017年8月2日からは、[STU48](https://ja.wikipedia.org/wiki/STU48 "wikilink")の今村美月と矢野帆夏を加えて\[5\]\[6\]5人体制となった。
 
-ゆうきが担当した2017年9月18日は、放送時間中の17時13分に「[阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")対[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")24回戦」が試合終了し、広島東洋カープの37年ぶり[セントラル・リーグ](https://ja.wikipedia.org/wiki/セントラル・リーグ "wikilink")連覇が決まった\[7\]。
+ゆうきが担当した2017年9月18日は、放送時間中の17時13分に「[阪神タイガース](../Page/阪神タイガース.md "wikilink")対[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")24回戦」が試合終了し、広島東洋カープの37年ぶり[セントラル・リーグ](https://ja.wikipedia.org/wiki/セントラル・リーグ "wikilink")連覇が決まった\[7\]。
 
 2017年末をもって、ゆいが卒業し4人体制となってからも放送は継続された。しかし、2018年春の番組改編で『[TSSプライムニュース](https://ja.wikipedia.org/wiki/TSSプライムニュース "wikilink")/TSSプライムニュースフライデー』が開始されるのに伴い、『[TSSみんなのテレビ](https://ja.wikipedia.org/wiki/みんなのテレビ_\(テレビ新広島\) "wikilink")』が終了するため、同番組の最終回をもって「カープっ娘TV2」も終了した。
 
@@ -57,7 +57,7 @@
   - 米田佳代 - から\[9\]まで\[10\]
   - [串山真理](https://ja.wikipedia.org/wiki/串山真理 "wikilink") - から まで\[11\]
   - 小川千佳 - から まで\[12\]
-  - [天野陽子](https://ja.wikipedia.org/wiki/天野陽子 "wikilink")\[13\] - から まで \[14\]
+  - [天野陽子](../Page/天野陽子.md "wikilink")\[13\] - から まで \[14\]
   - 西澤由美子 - 頃まで
   - [石井百恵](../Page/石井百恵.md "wikilink")\[15\] - から\[16\]まで
   - 上田裕子 - まで

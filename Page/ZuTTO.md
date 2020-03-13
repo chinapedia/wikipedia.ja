@@ -9,7 +9,7 @@
 
 [2004年](../Page/2004年.md "wikilink")に結成。直後にシングル「明日に続く空」（[マルサンアイ](../Page/マルサンアイ.md "wikilink")[豆乳](../Page/豆乳.md "wikilink")CM曲）をリリース。二人の[コーラスが特徴的なミディアムテンポの明るめの](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")[ポップ・ミュージック](../Page/ポップ・ミュージック.md "wikilink")に構成されている。CDを買いづらい若年層でも買えるよう制作費を抑え、300円での発売を実現。卒業に合わせて小学生がクラス単位で購入することもあったとされる\[1\]。
 
-[2006年](../Page/2006年.md "wikilink")に楽曲「恋につづく街」「フワフワな午後」を制作し、ライブ会場限定でCD販売され後に[ダウンロード販売された](../Page/音楽配信.md "wikilink")。その曲でも二人の[ハーモニー](../Page/ハーモニー.md "wikilink")を主軸とした楽曲に仕上がっている。また、[2007年](../Page/2007年.md "wikilink")夏に公開された[映画](../Page/映画.md "wikilink")『[コーラスたい](https://ja.wikipedia.org/wiki/コーラスたい "wikilink")』の[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")に同ユニットの楽曲が起用された。
+[2006年](../Page/2006年.md "wikilink")に楽曲「恋につづく街」「フワフワな午後」を制作し、ライブ会場限定でCD販売され後に[ダウンロード販売された](../Page/音楽配信.md "wikilink")。その曲でも二人の[ハーモニー](../Page/ハーモニー.md "wikilink")を主軸とした楽曲に仕上がっている。また、[2007年](../Page/2007年.md "wikilink")夏に公開された[映画](../Page/映画.md "wikilink")『[コーラスたい](https://ja.wikipedia.org/wiki/コーラスたい "wikilink")』の[主題歌](../Page/主題歌.md "wikilink")に同ユニットの楽曲が起用された。
 
 ## 作品
 

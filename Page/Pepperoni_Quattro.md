@@ -1,7 +1,7 @@
 > この記事は[Pepperoni Quattro](https://ja.wikipedia.org/wiki/Pepperoni_Quattro)から翻訳されています。
 
 
-『**Pepperoni Quattro**』（ペパロニ・クアットロ）は[ELLEGARDEN](https://ja.wikipedia.org/wiki/ELLEGARDEN "wikilink")の3作目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")である\[1\]。[2004年](../Page/2004年.md "wikilink")[5月26日](../Page/5月26日.md "wikilink")発売。
+『**Pepperoni Quattro**』（ペパロニ・クアットロ）は[ELLEGARDEN](../Page/ELLEGARDEN.md "wikilink")の3作目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")である\[1\]。[2004年](../Page/2004年.md "wikilink")[5月26日](../Page/5月26日.md "wikilink")発売。
 
 ## 概要
 

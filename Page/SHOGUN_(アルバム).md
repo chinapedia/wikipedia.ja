@@ -5,7 +5,7 @@
 
 ## 概要
 
-[テレビドラマ](../Page/テレビドラマ.md "wikilink")『[俺たちは天使だ\!](../Page/俺たちは天使だ!.md "wikilink")』の[サウンドトラック](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")と銘打って発売されたアルバム。実際には[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")以外は歌自体が使われたことはないが、一部の曲はBGM用にアレンジされたものが使われている。
+[テレビドラマ](../Page/テレビドラマ.md "wikilink")『[俺たちは天使だ\!](../Page/俺たちは天使だ!.md "wikilink")』の[サウンドトラック](../Page/サウンドトラック.md "wikilink")と銘打って発売されたアルバム。実際には[主題歌](../Page/主題歌.md "wikilink")以外は歌自体が使われたことはないが、一部の曲はBGM用にアレンジされたものが使われている。
 
 [ライナーノーツ](../Page/ライナーノーツ.md "wikilink")には、[堂野伴](https://ja.wikipedia.org/wiki/堂野伴 "wikilink")のコメントと[浅野裕子](../Page/浅野裕子.md "wikilink")による訳詞が掲載されている。
 

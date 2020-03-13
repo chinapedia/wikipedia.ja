@@ -1,7 +1,7 @@
 > この記事は[Crunch](https://ja.wikipedia.org/wiki/Crunch)から翻訳されています。
 
 
-**Crunch**（クランチ）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink") - [2001年](../Page/2001年.md "wikilink")頃に[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で活動した、男女混成の4人組[ダンスグループ](https://ja.wikipedia.org/wiki/ダンスグループ "wikilink")。1人が[小学生](https://ja.wikipedia.org/wiki/小学生 "wikilink")であることが話題を呼んだ。[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")のメンバー・[今井絵理子](https://ja.wikipedia.org/wiki/今井絵理子 "wikilink")との[コラボレーション](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")・ユニットEriko with Crunchで知られる。
+**Crunch**（クランチ）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink") - [2001年](../Page/2001年.md "wikilink")頃に[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で活動した、男女混成の4人組[ダンスグループ](https://ja.wikipedia.org/wiki/ダンスグループ "wikilink")。1人が[小学生](https://ja.wikipedia.org/wiki/小学生 "wikilink")であることが話題を呼んだ。[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")のメンバー・[今井絵理子](https://ja.wikipedia.org/wiki/今井絵理子 "wikilink")との[コラボレーション](../Page/コラボレーション.md "wikilink")・ユニットEriko with Crunchで知られる。
 
 ## メンバー
 

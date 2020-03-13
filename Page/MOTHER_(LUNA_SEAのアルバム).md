@@ -3,27 +3,27 @@
 
 **MOTHER**（マザー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")・[LUNA SEAの](../Page/LUNA_SEA.md "wikilink")4枚目のオリジナル[アルバム](../Page/アルバム.md "wikilink")である。初回限定盤は、透明帯・ピクチャーレーベル・ブックレット付き。
 
-2007年12月5日、最新[リマスタリング](https://ja.wikipedia.org/wiki/リマスタリング "wikilink")音源、「ROSIER」「TRUE BLUE」「MOTHER」の[PVが収録された](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")[DVD](../Page/DVD.md "wikilink")との2枚組で、[ユニバーサルミュージックより再発された](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。
+2007年12月5日、最新[リマスタリング](https://ja.wikipedia.org/wiki/リマスタリング "wikilink")音源、「ROSIER」「TRUE BLUE」「MOTHER」の[PVが収録された](../Page/ミュージック・ビデオ.md "wikilink")[DVD](../Page/DVD.md "wikilink")との2枚組で、[ユニバーサルミュージックより再発された](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
 
 ## 概要
 
 「前アルバムの製作によって得たものを次作に生かしてきたという意味で、『[LUNA SEA](../Page/LUNA_SEA_\(アルバム\).md "wikilink")』『[IMAGE](../Page/IMAGE_\(LUNA_SEAのアルバム\).md "wikilink")』『[EDEN](../Page/EDEN_\(アルバム\).md "wikilink")』という“3部作”が完結したと思っている。でも、これで終わるのではなく、より“本物”を目指したい」というメンバーの思いの下、製作が行われた。メンバーの一人、SUGIZO曰く「バンドマジックが生まれた」作品に仕上がった\[1\]。
 
-また、[マニピュレーター](https://ja.wikipedia.org/wiki/マニピュレーター "wikilink")兼[キーボーディスト](https://ja.wikipedia.org/wiki/キーボーディスト "wikilink")であるd-kikuこと[菊地大輔](https://ja.wikipedia.org/wiki/菊地大輔 "wikilink")が製作に関わり始めたのもこの頃である\[2\]\[3\]。
+また、[マニピュレーター](../Page/マニピュレーター.md "wikilink")兼[キーボーディスト](../Page/キーボーディスト.md "wikilink")であるd-kikuこと[菊地大輔](https://ja.wikipedia.org/wiki/菊地大輔 "wikilink")が製作に関わり始めたのもこの頃である\[2\]\[3\]。
 
 ## 収録曲
 
-全[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink"):[LUNA SEA](../Page/LUNA_SEA.md "wikilink")
+全[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink"):[LUNA SEA](../Page/LUNA_SEA.md "wikilink")
 
 1.  **LOVELESS**
       -
-        [SUGIZO](https://ja.wikipedia.org/wiki/SUGIZO "wikilink")原曲。SUGIZO曰く「この曲よりも、始まりにふさわしい曲はない」\[4\]。初の東京ドームライヴである「LUNATIC TOKYO」をはじめ、様々な場面でオープニングとして演奏された\[5\]。また、イントロやアウトロで「eins...zwei...」とドイツ語で繰り返し呟いているのはSUGIZOである。ライヴでは、SUGIZOが[トリプルネックギター](https://ja.wikipedia.org/wiki/ダブルネック・ギター#マルチネック・ギター "wikilink")（[PR -TRIPLE NECK-（ESP）](http://www.espguitars.co.jp/gallery/sugizo/pr3/index.html)）を（12弦、フレットレス、フロイドローズ付き6弦を使い分ける曲であるため）、INORANが[12弦の](../Page/12弦ギター.md "wikilink")[エレアコを用いて](../Page/エレクトリックアコースティックギター.md "wikilink")[演奏](../Page/演奏.md "wikilink")する\[6\]。ベストアルバムやライブアルバムでもファーストトラックでの収録が通例である（ベストアルバム『[PERIOD 〜THE BEST SELECTION〜](../Page/PERIOD_〜THE_BEST_SELECTION〜.md "wikilink")』を除く）。
+        [SUGIZO](../Page/SUGIZO.md "wikilink")原曲。SUGIZO曰く「この曲よりも、始まりにふさわしい曲はない」\[4\]。初の東京ドームライヴである「LUNATIC TOKYO」をはじめ、様々な場面でオープニングとして演奏された\[5\]。また、イントロやアウトロで「eins...zwei...」とドイツ語で繰り返し呟いているのはSUGIZOである。ライヴでは、SUGIZOが[トリプルネックギター](https://ja.wikipedia.org/wiki/ダブルネック・ギター#マルチネック・ギター "wikilink")（[PR -TRIPLE NECK-（ESP）](http://www.espguitars.co.jp/gallery/sugizo/pr3/index.html)）を（12弦、フレットレス、フロイドローズ付き6弦を使い分ける曲であるため）、INORANが[12弦の](../Page/12弦ギター.md "wikilink")[エレアコを用いて](../Page/エレクトリックアコースティックギター.md "wikilink")[演奏](../Page/演奏.md "wikilink")する\[6\]。ベストアルバムやライブアルバムでもファーストトラックでの収録が通例である（ベストアルバム『[PERIOD 〜THE BEST SELECTION〜](../Page/PERIOD_〜THE_BEST_SELECTION〜.md "wikilink")』を除く）。
 2.  **[ROSIER](../Page/ROSIER.md "wikilink")**
       -
-        [J原曲](https://ja.wikipedia.org/wiki/J_\(ミュージシャン\) "wikilink")。3rdシングル。シングル版では[フェードアウト](https://ja.wikipedia.org/wiki/フェードアウト "wikilink")して終わるが、アルバムではフェードアウトせずに完奏する。
+        [J原曲](../Page/J_\(ミュージシャン\).md "wikilink")。3rdシングル。シングル版では[フェードアウト](https://ja.wikipedia.org/wiki/フェードアウト "wikilink")して終わるが、アルバムではフェードアウトせずに完奏する。
 3.  **FACE TO FACE**
       -
-        [INORAN](https://ja.wikipedia.org/wiki/INORAN "wikilink")原曲。冒頭では[真矢が](https://ja.wikipedia.org/wiki/真矢_\(ドラマー\) "wikilink")[ドラを叩き](https://ja.wikipedia.org/wiki/銅鑼 "wikilink")、INORANは[ギターシンセサイザー](https://ja.wikipedia.org/wiki/ギターシンセサイザー "wikilink")を使っている。2019年の武道館公演ではINORANがパーカッションを演奏。
+        [INORAN](../Page/INORAN.md "wikilink")原曲。冒頭では[真矢が](../Page/真矢_\(ドラマー\).md "wikilink")[ドラを叩き](https://ja.wikipedia.org/wiki/銅鑼 "wikilink")、INORANは[ギターシンセサイザー](../Page/ギターシンセサイザー.md "wikilink")を使っている。2019年の武道館公演ではINORANがパーカッションを演奏。
 4.  **CIVILIZE**
       -
         SUGIZO原曲。SUGIZOが愛用しているワーミーペダルのリフが際立っている曲。曲の構成がシンメトリーとなっているため、始めから曲の真ん中までと、真ん中から終わりまでが対称になっている。

@@ -1,11 +1,11 @@
 > この記事は[ELEVEN FIRE CRACKERS](https://ja.wikipedia.org/wiki/ELEVEN_FIRE_CRACKERS)から翻訳されています。
 
 
-『**ELEVEN FIRE CRACKERS**』（イレヴン・ファイヤー・クラッカーズ）は、[ELLEGARDEN](https://ja.wikipedia.org/wiki/ELLEGARDEN "wikilink")の5作目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")である\[1\]。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月8日](../Page/11月8日.md "wikilink")発売。
+『**ELEVEN FIRE CRACKERS**』（イレヴン・ファイヤー・クラッカーズ）は、[ELLEGARDEN](../Page/ELLEGARDEN.md "wikilink")の5作目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")である\[1\]。[2006年](../Page/2006年.md "wikilink")[11月8日](../Page/11月8日.md "wikilink")発売。
 
 ## 概要
 
-フルアルバムとしては5枚目となる。[ライナーノーツ](../Page/ライナーノーツ.md "wikilink")は[ROCKIN'ON JAPAN編集長の](../Page/ROCKIN'ON_JAPAN.md "wikilink")[山崎洋一郎](https://ja.wikipedia.org/wiki/山崎洋一郎 "wikilink")が手掛けている。ライブ、フェス、取材の合間を縫って行なわれたレコーディングには苦労したようで、発売日は2度（1度目は発売日が発表される前）延期されている。
+フルアルバムとしては5枚目となる。[ライナーノーツ](../Page/ライナーノーツ.md "wikilink")は[ROCKIN'ON JAPAN編集長の](../Page/ROCKIN'ON_JAPAN.md "wikilink")[山崎洋一郎](../Page/山崎洋一郎.md "wikilink")が手掛けている。ライブ、フェス、取材の合間を縫って行なわれたレコーディングには苦労したようで、発売日は2度（1度目は発売日が発表される前）延期されている。
 
 生形はELLEGARDENの中で最もロック色が強いアルバムだと述べている。
 

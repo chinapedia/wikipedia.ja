@@ -5,7 +5,7 @@
 
 ## 　概要・歴史　
 
-[1999年](../Page/1999年.md "wikilink")結成。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に[コロムビアミュージックエンタテインメントよりデビュー](../Page/日本コロムビア.md "wikilink")。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")にバンド名を『STAN』から『STAn』へ表記変更。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")、自主レーベルbelly roll設立。[2011年](../Page/2011年.md "wikilink")、西井鏡悟脱退に伴い活動終了。
+[1999年](../Page/1999年.md "wikilink")結成。[2005年](../Page/2005年.md "wikilink")に[コロムビアミュージックエンタテインメントよりデビュー](../Page/日本コロムビア.md "wikilink")。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")にバンド名を『STAN』から『STAn』へ表記変更。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")、自主レーベルbelly roll設立。[2011年](../Page/2011年.md "wikilink")、西井鏡悟脱退に伴い活動終了。
 
 ## メンバー
 

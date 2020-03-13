@@ -53,9 +53,9 @@
 
 それまでは島谷が1人で語る番組方式であったが、[2007年](../Page/2007年.md "wikilink")からゲストを招く回も出てきた。（これまでの出演者・下記日付は[文化放送](../Page/文化放送.md "wikilink")での放送日）.
 
-2007年 [国仲涼子](https://ja.wikipedia.org/wiki/国仲涼子 "wikilink")（1月8、15日）、[上原多香子](https://ja.wikipedia.org/wiki/上原多香子 "wikilink")（3月12日）、[川嶋あい](https://ja.wikipedia.org/wiki/川嶋あい "wikilink")（4月9日）、[Pistol Valve](../Page/ピストルバルブ.md "wikilink")（**cotton** と **アンドー\!**）（5月14日）、[伊調千春](https://ja.wikipedia.org/wiki/伊調千春 "wikilink")・[伊調馨](https://ja.wikipedia.org/wiki/伊調馨 "wikilink")・[吉田沙保里](https://ja.wikipedia.org/wiki/吉田沙保里 "wikilink")選手（女子レスリングのメダリスト）と [栄和人](../Page/栄和人.md "wikilink")監督（10月1日）、[鈴木蘭々](https://ja.wikipedia.org/wiki/鈴木蘭々 "wikilink")（12月24日）
+2007年 [国仲涼子](https://ja.wikipedia.org/wiki/国仲涼子 "wikilink")（1月8、15日）、[上原多香子](https://ja.wikipedia.org/wiki/上原多香子 "wikilink")（3月12日）、[川嶋あい](https://ja.wikipedia.org/wiki/川嶋あい "wikilink")（4月9日）、[Pistol Valve](../Page/ピストルバルブ.md "wikilink")（**cotton** と **アンドー\!**）（5月14日）、[伊調千春](https://ja.wikipedia.org/wiki/伊調千春 "wikilink")・[伊調馨](https://ja.wikipedia.org/wiki/伊調馨 "wikilink")・[吉田沙保里](https://ja.wikipedia.org/wiki/吉田沙保里 "wikilink")選手（女子レスリングのメダリスト）と [栄和人](../Page/栄和人.md "wikilink")監督（10月1日）、[鈴木蘭々](../Page/鈴木蘭々.md "wikilink")（12月24日）
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") [土屋アンナ](https://ja.wikipedia.org/wiki/土屋アンナ "wikilink")（2月11日）、[LOW IQ 01](https://ja.wikipedia.org/wiki/LOW_IQ_01 "wikilink")（6月2日）、[川嶋あい](https://ja.wikipedia.org/wiki/川嶋あい "wikilink")（6月9日））、GooF（[SOFFet](https://ja.wikipedia.org/wiki/SOFFet "wikilink")）（6月23日）、[良知真次](../Page/良知真次.md "wikilink") と [宇野まり絵](https://ja.wikipedia.org/wiki/まりゑ "wikilink")（9月29日）
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") [土屋アンナ](https://ja.wikipedia.org/wiki/土屋アンナ "wikilink")（2月11日）、[LOW IQ 01](https://ja.wikipedia.org/wiki/LOW_IQ_01 "wikilink")（6月2日）、[川嶋あい](https://ja.wikipedia.org/wiki/川嶋あい "wikilink")（6月9日））、GooF（[SOFFet](../Page/SOFFet.md "wikilink")）（6月23日）、[良知真次](../Page/良知真次.md "wikilink") と [宇野まり絵](https://ja.wikipedia.org/wiki/まりゑ "wikilink")（9月29日）
 
 [2009年](../Page/2009年.md "wikilink") [京谷陽子](https://ja.wikipedia.org/wiki/京谷陽子 "wikilink")（3月9日）
 
@@ -63,8 +63,8 @@
 
 | 放送地域                                                    | 放送局                                                            | 曜日  | 放送時間        | 備考  |
 | ------------------------------------------------------- | -------------------------------------------------------------- | --- | ----------- | --- |
-| [山形県](https://ja.wikipedia.org/wiki/山形県 "wikilink")     | [山形放送(YBC)](https://ja.wikipedia.org/wiki/山形放送#ラジオ "wikilink") | 水曜日 | 21:00～21:30 |     |
-| [茨城県](https://ja.wikipedia.org/wiki/茨城県 "wikilink")     | [茨城放送](../Page/茨城放送.md "wikilink")(IBS)                        | 火曜日 | 21:30～22:00 |     |
+| [山形県](../Page/山形県.md "wikilink")                        | [山形放送(YBC)](https://ja.wikipedia.org/wiki/山形放送#ラジオ "wikilink") | 水曜日 | 21:00～21:30 |     |
+| [茨城県](../Page/茨城県.md "wikilink")                        | [茨城放送](../Page/茨城放送.md "wikilink")(IBS)                        | 火曜日 | 21:30～22:00 |     |
 | [関東広域圏](https://ja.wikipedia.org/wiki/関東広域圏 "wikilink") | [文化放送](../Page/文化放送.md "wikilink")                             | 金曜日 | 24:30～25:00 | 制作局 |
 | [山梨県](../Page/山梨県.md "wikilink")                        | [山梨放送(YBS)](https://ja.wikipedia.org/wiki/山梨放送#ラジオ "wikilink") | 月曜日 | 20:00～20:30 |     |
 | [高知県](../Page/高知県.md "wikilink")                        | [高知放送(RKC)](https://ja.wikipedia.org/wiki/高知放送#ラジオ "wikilink") | 木曜日 | 23:30～24:00 |     |

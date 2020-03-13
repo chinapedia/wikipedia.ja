@@ -1,7 +1,7 @@
 > この記事は[ Z](https://ja.wikipedia.org/wiki/_Z)から翻訳されています。
 
 
-『**ケロロ軍曹 メロメロバトルロイヤルZ**』（ケロロぐんそう メロメロバトルロイヤルゼット）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月17日](../Page/11月17日.md "wikilink")に[バンダイ](../Page/バンダイ.md "wikilink")から発売された[PlayStation 2専用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")。ジャンルは「ドタバタ3Dアクション」と名付けられた[対戦アクションゲーム](../Page/対戦アクションゲーム.md "wikilink")である。
+『**ケロロ軍曹 メロメロバトルロイヤルZ**』（ケロロぐんそう メロメロバトルロイヤルゼット）は、[2005年](../Page/2005年.md "wikilink")[11月17日](../Page/11月17日.md "wikilink")に[バンダイ](../Page/バンダイ.md "wikilink")から発売された[PlayStation 2専用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")。ジャンルは「ドタバタ3Dアクション」と名付けられた[対戦アクションゲーム](../Page/対戦アクションゲーム.md "wikilink")である。
 
 ## 概要
 
@@ -83,7 +83,7 @@
     嫌いキャラ 夏美
     コスチューム フルアーマーケロロ
   - [ギロロ](https://ja.wikipedia.org/wiki/ギロロ "wikilink")伍長
-    声：[中田譲治](https://ja.wikipedia.org/wiki/中田譲治 "wikilink")
+    声：[中田譲治](../Page/中田譲治.md "wikilink")
     軍人気質を持つ戦闘のプロ。重火器を装備しているため動きは遅く二段ジャンプ不可だが、原作の設定を反映し怒モードではスピードが高くなる。
     必殺技1 60mmレーザーキャノン
       -
@@ -127,7 +127,7 @@
     弱点キャラ モア
     嫌いキャラ ギロロ
     コスチューム ちょんまげお殿様
-  - [ドロロ](https://ja.wikipedia.org/wiki/ドロロ "wikilink")兵長
+  - [ドロロ](../Page/ドロロ.md "wikilink")兵長
     声：[草尾毅](../Page/草尾毅.md "wikilink")
     アサシン部隊の精鋭。スピードが速く、3段ジャンプもできる。ジャンプ中にR1を押すとジャンプキャンセル着地できる。
     必殺技1 必殺ドロロ車
@@ -142,7 +142,7 @@
     弱点キャラ 小雪
     嫌いキャラ ケロロ
     コスチューム お誕生日会（くまの着ぐるみ）
-  - [日向冬樹](https://ja.wikipedia.org/wiki/日向冬樹 "wikilink")
+  - [日向冬樹](../Page/日向冬樹.md "wikilink")
     声：[川上とも子](../Page/川上とも子.md "wikilink")
     ケロロ軍曹の親友。前作より基本性能が上昇している。
     必殺技1 やけくそ冬樹アタック
@@ -157,7 +157,7 @@
     弱点キャラ　ケロロ、夏美、秋
     嫌いキャラ　なし
     コスチューム 潜水服
-  - [日向夏美](https://ja.wikipedia.org/wiki/日向夏美 "wikilink")
+  - [日向夏美](../Page/日向夏美.md "wikilink")
     声：[斎藤千和](https://ja.wikipedia.org/wiki/斎藤千和 "wikilink")
     冬樹の姉。弟と対照的に基本性能は高く、格闘戦に優れる。
     必殺技1 723シュート
@@ -186,7 +186,7 @@
         裏桃華になり、西澤家の高度な科学力にて作り出されたスーパーアーマー（仮）を装着後、最大出力で巨大なレーザー砲を放つ技。
     弱点キャラ 冬樹
     嫌いキャラ 夏美
-  - [サブロー](https://ja.wikipedia.org/wiki/北城睦実 "wikilink")
+  - [サブロー](../Page/北城睦実.md "wikilink")
     声：[石田彰](../Page/石田彰.md "wikilink")
     夏美の憧れの人物。クルルのパートナー。コンボ中実体化ペンでアイテムを投げつけ状態異常を引き起こすことができる。
     必殺技1 マニピュレーション
@@ -201,7 +201,7 @@
     弱点キャラ なし
     嫌いキャラ なし
     コスチューム 制服（冬Ver.）
-  - [東谷小雪](https://ja.wikipedia.org/wiki/東谷小雪 "wikilink")
+  - [東谷小雪](../Page/東谷小雪.md "wikilink")
     声：[広橋涼](../Page/広橋涼.md "wikilink")
     夏美の同級生。忍者の少女。ドロロのパートナー。身のこなしが軽く、空中ダッシュが可能。
     必殺技1 乱れクナイ
@@ -231,7 +231,7 @@
     弱点キャラ ケロロ
     嫌いキャラ なし
     コスチューム バニーガール 普段着（旧Ver.） 審判衣装
-  - [日向秋](https://ja.wikipedia.org/wiki/日向秋 "wikilink")
+  - [日向秋](../Page/日向秋.md "wikilink")
     声：[平松晶子](../Page/平松晶子.md "wikilink")
     日向家の家長で冬樹、夏美の母。夏美以上に基本能力が高く格闘戦に強い。空中ダッシュが可能。
     必殺技1 H・ES（ヒナタ・エクソダスシール） Ver.秋

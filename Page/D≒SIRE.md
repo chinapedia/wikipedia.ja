@@ -11,7 +11,7 @@
 
 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[12月24日](../Page/12月24日.md "wikilink")に[新宿リキッドルームで公式解散ライブ](https://ja.wikipedia.org/wiki/LIQUIDROOM "wikilink")、翌日の25日に[新宿LOFT](https://ja.wikipedia.org/wiki/新宿LOFT "wikilink")にてシークレット解散ライブを行い、バンド活動を停止した。
 
-なお、ヴォーカルの[幸也](https://ja.wikipedia.org/wiki/YUKIYA "wikilink")（藤田幸也）はインディーズレーベル「[Kreis](../Page/Kreis.md "wikilink")」の代表でもあり、[Blüe](https://ja.wikipedia.org/wiki/Blue_\(日本のバンド\) "wikilink")、[Dir en grey](https://ja.wikipedia.org/wiki/DIR_EN_GREY "wikilink")、[Ize](https://ja.wikipedia.org/wiki/Ize "wikilink")などのプロデュースを行った。また、近年一般には幸也が、[JILS](https://ja.wikipedia.org/wiki/JILS "wikilink")以前にやっていたバンドとして認知されている。
+なお、ヴォーカルの[幸也](../Page/YUKIYA.md "wikilink")（藤田幸也）はインディーズレーベル「[Kreis](../Page/Kreis.md "wikilink")」の代表でもあり、[Blüe](https://ja.wikipedia.org/wiki/Blue_\(日本のバンド\) "wikilink")、[Dir en grey](../Page/DIR_EN_GREY.md "wikilink")、[Ize](https://ja.wikipedia.org/wiki/Ize "wikilink")などのプロデュースを行った。また、近年一般には幸也が、[JILS](../Page/JILS.md "wikilink")以前にやっていたバンドとして認知されている。
 
 ## メンバー
 
@@ -146,7 +146,7 @@
 
 ## 関連項目
 
-  - [JILS](https://ja.wikipedia.org/wiki/JILS "wikilink")
+  - [JILS](../Page/JILS.md "wikilink")
 
 ## 外部リンク
 

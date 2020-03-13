@@ -5,7 +5,7 @@
 
 ## 概要
 
-[テレビドラマ](../Page/テレビドラマ.md "wikilink")『[探偵物語](https://ja.wikipedia.org/wiki/探偵物語 "wikilink")』の[主題歌を収録したアルバム](https://ja.wikipedia.org/wiki/Lonely_Man/Bad_City "wikilink")。他の収録曲もドラマの中盤から挿入歌として使われるようになったため、ドラマのサウンドトラック・アルバムとしての役割も果たしている。
+[テレビドラマ](../Page/テレビドラマ.md "wikilink")『[探偵物語](../Page/探偵物語.md "wikilink")』の[主題歌を収録したアルバム](https://ja.wikipedia.org/wiki/Lonely_Man/Bad_City "wikilink")。他の収録曲もドラマの中盤から挿入歌として使われるようになったため、ドラマのサウンドトラック・アルバムとしての役割も果たしている。
 
 なお、SHOGUNのメンバーと共にジャケット写真に写っているのは、ドラマに出演していた[ナンシー・チェニー](../Page/ナンシー・チェニー.md "wikilink")である。
 

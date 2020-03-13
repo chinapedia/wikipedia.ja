@@ -11,11 +11,11 @@
 
   - \- 中型株60銘柄で構成。[2011年](../Page/2011年.md "wikilink")3月21日算出開始。主な銘柄として、[イプセン](https://ja.wikipedia.org/wiki/イプセン_\(製薬会社\) "wikilink")、[エールフランス‐KLM](../Page/エールフランス‐KLM.md "wikilink")、[グループセブ](../Page/グループセブ.md "wikilink")、[ジェーシードゥコー](../Page/ジェーシードゥコー.md "wikilink")、[テクニカラー](../Page/テクニカラー_\(企業\).md "wikilink")、[ネクサンス](https://ja.wikipedia.org/wiki/ネクサンス "wikilink")、[ビック](../Page/ビック_\(フランス企業\).md "wikilink")、[ユーテルサット](../Page/ユーテルサット.md "wikilink")、[ユーロフィン](https://ja.wikipedia.org/wiki/ユーロフィン "wikilink")、[ユーロネクスト](../Page/ユーロネクスト.md "wikilink")、[ヨーロッパカー](https://ja.wikipedia.org/wiki/ヨーロッパカー "wikilink")、[ラガルデール](https://ja.wikipedia.org/wiki/ラガルデール "wikilink")、[ロスチャイルド&カンパニー](https://ja.wikipedia.org/wiki/ロスチャイルド&カンパニー "wikilink")等。
 
-  - \- 小型株で構成。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")1月3日算出開始。当初は90銘柄でスタートしたがその後増加している。
+  - \- 小型株で構成。[2005年](../Page/2005年.md "wikilink")1月3日算出開始。当初は90銘柄でスタートしたがその後増加している。
 
   - \- 取引の活発な300以上の銘柄で構成。（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")12月31日算出開始）を置き換える形で、[2011年](../Page/2011年.md "wikilink")3月21日算出開始。
 
-  - \- ユーロネクスト・パリ全株指数。大型・中型・小型株を含む490以上の銘柄で構成。 [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")1月3日算出開始。
+  - \- ユーロネクスト・パリ全株指数。大型・中型・小型株を含む490以上の銘柄で構成。 [2005年](../Page/2005年.md "wikilink")1月3日算出開始。
 
 ## 指数の推移
 

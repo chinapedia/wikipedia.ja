@@ -1,9 +1,9 @@
 > この記事は[!BUNBUN](https://ja.wikipedia.org/wiki/!BUNBUN)から翻訳されています。
 
 
-**きょうもそう快\!BUNBUNラジオ**（きょうもそうかい\! ブンブンらじお）は、[岐阜放送で放送されていた平日午前](https://ja.wikipedia.org/wiki/岐阜放送ラジオ "wikilink")・午後のワイド番組である。
+**きょうもそう快\!BUNBUNラジオ**（きょうもそうかい\! ブンブンらじお）は、[岐阜放送で放送されていた平日午前](../Page/岐阜放送ラジオ.md "wikilink")・午後のワイド番組である。
 
-2005年4月から開始した[岐阜放送の看板番組であったが](https://ja.wikipedia.org/wiki/岐阜放送ラジオ "wikilink")、2007年3月30日を最後に番組は終了した。
+2005年4月から開始した[岐阜放送の看板番組であったが](../Page/岐阜放送ラジオ.md "wikilink")、2007年3月30日を最後に番組は終了した。
 
 ## 番組概要
 
@@ -35,7 +35,7 @@
 ### 番組パーソナリティ（2006年4月3日～現在）
 
   - 月曜日・[戸井康成](../Page/戸井康成.md "wikilink")・[田口悠子](https://ja.wikipedia.org/wiki/田口悠子 "wikilink")
-  - 火曜日・[伊藤伸久](https://ja.wikipedia.org/wiki/伊藤伸久 "wikilink")・[松本亜梨](https://ja.wikipedia.org/wiki/松本亜梨 "wikilink")
+  - 火曜日・[伊藤伸久](../Page/伊藤伸久.md "wikilink")・[松本亜梨](../Page/松本亜梨.md "wikilink")
   - 水曜日・[若山貴嗣](https://ja.wikipedia.org/wiki/若山貴嗣 "wikilink")・[平野さわこ](https://ja.wikipedia.org/wiki/平野さわこ "wikilink")
   - 木曜日・[本地洋一](../Page/本地洋一.md "wikilink")・[吉田早苗](https://ja.wikipedia.org/wiki/吉田早苗 "wikilink")
   - 金曜日・[小松肇](https://ja.wikipedia.org/wiki/小松肇 "wikilink")・吉田早苗
@@ -84,7 +84,7 @@
 
 <!-- end list -->
 
-  - 10:30 [岐阜バス歌のドライブ](https://ja.wikipedia.org/wiki/岐阜乗合自動車 "wikilink")
+  - 10:30 [岐阜バス歌のドライブ](../Page/岐阜乗合自動車.md "wikilink")
 
 <!-- end list -->
 
@@ -143,7 +143,7 @@
 
 <!-- end list -->
 
-  - 11:40 [TOYOTA DRIVING TALK](https://ja.wikipedia.org/wiki/TOYOTA_DRIVING_TALK "wikilink")
+  - 11:40 [TOYOTA DRIVING TALK](../Page/TOYOTA_DRIVING_TALK.md "wikilink")
 
 <!-- end list -->
 
@@ -353,11 +353,11 @@
 
 ### 過去のコーナー
 
-  - [我が家のセーフティプラン](https://ja.wikipedia.org/wiki/我が家のセーフティプラン "wikilink")（月曜日～金曜日 16:10ごろ、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで）
+  - [我が家のセーフティプラン](https://ja.wikipedia.org/wiki/我が家のセーフティプラン "wikilink")（月曜日～金曜日 16:10ごろ、[2006年](../Page/2006年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで）
       - 2006年10月現在は月曜～金曜の17:55に単発番組として放送。
-  - **KOBE旧居留地前 LOVEストーリー a'tNow\!**（木曜日 15:40ごろ、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月28日](../Page/9月28日.md "wikilink")まで）
+  - **KOBE旧居留地前 LOVEストーリー a'tNow\!**（木曜日 15:40ごろ、[2006年](../Page/2006年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")まで）
       - ラジオ関西などでも2006年9月まで放送されていた。
-  - キリンのビールで岐阜に乾杯\!（火曜日 15:30ごろ、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月26日](../Page/9月26日.md "wikilink")まで）
+  - キリンのビールで岐阜に乾杯\!（火曜日 15:30ごろ、[2006年](../Page/2006年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")まで）
 
 ## レポーター・レポートコーナーについて
 

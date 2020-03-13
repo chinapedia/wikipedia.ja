@@ -29,12 +29,12 @@
     例: PUTメソッドでリソースを作成するリクエストを行ったとき、そのリクエストが完了した場合に返される。
   - 202 Accepted
     **受理**。リクエストは受理されたが、処理は完了していない。
-    例: PUTメソッドでリソースを作成するリクエストを行ったとき、サーバがリクエストを受理したものの、リソースの作成が完了していない場合に返される。[バッチ処理](https://ja.wikipedia.org/wiki/バッチ処理 "wikilink")向け。
+    例: PUTメソッドでリソースを作成するリクエストを行ったとき、サーバがリクエストを受理したものの、リソースの作成が完了していない場合に返される。[バッチ処理](../Page/バッチ処理.md "wikilink")向け。
   - 203 Non-Authoritative Information
     **信頼できない情報**。オリジナルのデータではなく、ローカルやプロキシ等からの情報であることを示す。
   - 204 No Content
     **内容なし**。リクエストを受理したが、返すべきレスポンスエンティティが存在しない場合に返される。
-    例: POSTメソッドで[フォームの内容を送信したが](https://ja.wikipedia.org/wiki/フォーム_\(ウェブ\) "wikilink")、ウェブブラウザの画面を更新しない場合に返される。
+    例: POSTメソッドで[フォームの内容を送信したが](../Page/フォーム_\(ウェブ\).md "wikilink")、ウェブブラウザの画面を更新しない場合に返される。
   - 205 Reset Content
     **内容のリセット**。リクエストを受理し、[ユーザエージェント](https://ja.wikipedia.org/wiki/ユーザエージェント "wikilink")の画面をリセットする場合に返される。
     例: POSTメソッドでフォームの内容を送信した後、ウェブブラウザの画面を初期状態に戻す場合に返される。
@@ -89,7 +89,7 @@
   - 400 Bad Request
     **リクエストが不正である**。定義されていないメソッドを使うなど、クライアントのリクエストがおかしい場合に返される。
   -
-    **認証が必要である**。[Basic認証](https://ja.wikipedia.org/wiki/Basic認証 "wikilink")や[Digest認証](../Page/Digest認証.md "wikilink")などを行うときに使用される。
+    **認証が必要である**。[Basic認証](../Page/Basic認証.md "wikilink")や[Digest認証](../Page/Digest認証.md "wikilink")などを行うときに使用される。
     たいていのウェブブラウザは、レスポンスヘッダー`WWW-Authenticate`で処理可能な認証方式が指定されていれば、認証ダイアログを表示する。
   - 402 Payment Required
     **支払いが必要である**。現在は実装されておらず、将来のために予約されているとされる。
@@ -142,7 +142,7 @@
     具体例として、Expect:ヘッダに100-continue以外の変なものを入れた場合や、そもそもサーバが100 Continueを扱えない場合に返す。
   - 418 I'm a teapot
     **私はティーポット**。[HTCPCP/1.0の拡張ステータスコード](../Page/Hyper_Text_Coffee_Pot_Control_Protocol.md "wikilink")。
-    [ティーポット](https://ja.wikipedia.org/wiki/ティーポット "wikilink")に[コーヒー](https://ja.wikipedia.org/wiki/コーヒー "wikilink")を淹れさせようとして、拒否された場合に返すとされる、[ジョーク](https://ja.wikipedia.org/wiki/ジョーク "wikilink")のコードである。
+    [ティーポット](https://ja.wikipedia.org/wiki/ティーポット "wikilink")に[コーヒー](https://ja.wikipedia.org/wiki/コーヒー "wikilink")を淹れさせようとして、拒否された場合に返すとされる、[ジョーク](../Page/ジョーク.md "wikilink")のコードである。
     [418 I'm a teapotの例](https://www.google.com/teapot)
   - 421 Misdirected Request (RFC 7540)
     **誤ったリクエスト**。

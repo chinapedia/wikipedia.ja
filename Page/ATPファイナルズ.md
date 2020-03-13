@@ -7,9 +7,9 @@
 
 ## 歴史
 
-[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")に[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")・[東京都体育館で](https://ja.wikipedia.org/wiki/東京体育館 "wikilink")「**[ペプシ](../Page/ペプシコーラ.md "wikilink")・グランプリ・マスターズ**」（**Pepsi Grand Prix Masters**）として第1回大会が行われた。「ザ・マスターズ」（The Masters）とも言われ、この年以降、各国持ち回りで行われたが、1977年からはシングルスは[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[ニューヨーク](../Page/ニューヨーク.md "wikilink")、ダブルスは[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")・[ロンドン](../Page/ロンドン.md "wikilink")で行われるようになる。以降は[WTAツアー選手権](https://ja.wikipedia.org/wiki/WTAツアー選手権 "wikilink")との同時開催で行われた。
+[1970年](../Page/1970年.md "wikilink")に[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")・[東京都体育館で](../Page/東京体育館.md "wikilink")「**[ペプシ](../Page/ペプシコーラ.md "wikilink")・グランプリ・マスターズ**」（**Pepsi Grand Prix Masters**）として第1回大会が行われた。「ザ・マスターズ」（The Masters）とも言われ、この年以降、各国持ち回りで行われたが、1977年からはシングルスは[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[ニューヨーク](../Page/ニューヨーク.md "wikilink")、ダブルスは[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")・[ロンドン](../Page/ロンドン.md "wikilink")で行われるようになる。以降は[WTAツアー選手権](https://ja.wikipedia.org/wiki/WTAツアー選手権 "wikilink")との同時開催で行われた。
 
-[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に「**ATPツアー世界選手権**」（**ATP Tour World Championships**）に改称され、[1999年](../Page/1999年.md "wikilink")まで[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[フランクフルトと](../Page/フランクフルト・アム・マイン.md "wikilink")[ハノーファー](../Page/ハノーファー.md "wikilink")で行われていた。[2000年](../Page/2000年.md "wikilink")の第31回大会から「**テニス・マスターズ・カップ**」（**Tennis Masters Cup**）という名称になり、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")までは[中国](../Page/中華人民共和国.md "wikilink")[上海の](../Page/上海市.md "wikilink")[上海旗忠森林体育城テニスセンター](../Page/上海旗忠森林体育城テニスセンター.md "wikilink")で開催された。
+[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に「**ATPツアー世界選手権**」（**ATP Tour World Championships**）に改称され、[1999年](../Page/1999年.md "wikilink")まで[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[フランクフルトと](../Page/フランクフルト・アム・マイン.md "wikilink")[ハノーファー](../Page/ハノーファー.md "wikilink")で行われていた。[2000年](../Page/2000年.md "wikilink")の第31回大会から「**テニス・マスターズ・カップ**」（**Tennis Masters Cup**）という名称になり、[2005年](../Page/2005年.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")までは[中国](../Page/中華人民共和国.md "wikilink")[上海の](../Page/上海市.md "wikilink")[上海旗忠森林体育城テニスセンター](../Page/上海旗忠森林体育城テニスセンター.md "wikilink")で開催された。
 
 [2009年](../Page/2009年.md "wikilink")からは[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")・[ロンドン](../Page/ロンドン.md "wikilink")の[O2アリーナで開催されるとともに](https://ja.wikipedia.org/wiki/O2アリーナ_\(ロンドン\) "wikilink")、大会名称も「**ATPワールドツアー・ファイナルズ**」（**ATP World Tour Finals**）に変更された。[2017年](../Page/2017年.md "wikilink")以降4年間は[日東電工](https://ja.wikipedia.org/wiki/日東電工 "wikilink")がタイトルスポンサーに就任し、「**Nitto ATPファイナルズ**」（**Nitto ATP Finals**）に改称。同時にロンドンでの開催を2020年まで延長した。
 
@@ -56,7 +56,7 @@
 | ----------------------------------------------------------------------- |
 | **ザ・マスターズ (The Masters)**                                               |
 | 年                                                                       |
-| [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")                 |
+| [1970年](../Page/1970年.md "wikilink")                                    |
 | [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")                 |
 | [1972年](../Page/1972年.md "wikilink")                                    |
 | [1973年](../Page/1973年.md "wikilink")                                    |
@@ -95,8 +95,8 @@
 | [2002年](../Page/2002年.md "wikilink")                                    |
 | [2003年](../Page/2003年.md "wikilink")                                    |
 | [2004年](../Page/2004年.md "wikilink")                                    |
-| [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")                 |
-| [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")                 |
+| [2005年](../Page/2005年.md "wikilink")                                    |
+| [2006年](../Page/2006年.md "wikilink")                                    |
 | [2007年](../Page/2007年.md "wikilink")                                    |
 | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")                 |
 | **ATPワールドツアー・ファイナルズ (ATP World Tour Finals)**                           |
@@ -154,8 +154,8 @@
 | 年                                                                       |
 | [2003年](../Page/2003年.md "wikilink")                                    |
 | [2004年](../Page/2004年.md "wikilink")                                    |
-| [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")                 |
-| [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")                 |
+| [2005年](../Page/2005年.md "wikilink")                                    |
+| [2006年](../Page/2006年.md "wikilink")                                    |
 | [2007年](../Page/2007年.md "wikilink")                                    |
 | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")                 |
 | **ATPワールドツアー・ファイナルズ (ATP World Tour Finals)**                           |
@@ -207,7 +207,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/2019年ATPファイナルズ" title="wikilink">2019</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ラファエル・ナダル" title="wikilink">ナダル</a></p></td>
+<td><p><a href="../Page/ラファエル・ナダル.md" title="wikilink">ナダル</a></p></td>
 <td><p><a href="../Page/ノバク・ジョコビッチ.md" title="wikilink">ジョコビッチ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ロジャー・フェデラー" title="wikilink">フェデラー</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ダニール・メドベージェフ" title="wikilink">メドベージェフ</a></p></td>
@@ -458,7 +458,7 @@
 </tr>
 <tr class="even">
 <td><p>2018</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/グスタボ・クエルテン" title="wikilink">グーガ・クエルテン</a></p></td>
+<td><p><a href="../Page/グスタボ・クエルテン.md" title="wikilink">グーガ・クエルテン</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/レイトン・ヒューイット" title="wikilink">レイトン・ヒューイット</a></p></td>
 <td><p><a href="../Page/マーク・ノールズ.md" title="wikilink">ノールズ</a>/ <a href="../Page/ダニエル・ネスター.md" title="wikilink">ネスター</a></p></td>
 <td><p><a href="../Page/ミカエル・ロドラ.md" title="wikilink">ロドラ</a>/ <a href="../Page/ファブリス・サントロ.md" title="wikilink">サントロ</a></p></td>
@@ -473,7 +473,7 @@
 <tr class="even">
 <td><p>2016</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジョン・マッケンロー" title="wikilink">ジョン・マッケンロー</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/イワン・レンドル" title="wikilink">イワン・レンドル</a></p></td>
+<td><p><a href="../Page/イワン・レンドル.md" title="wikilink">イワン・レンドル</a></p></td>
 <td><p><a href="../Page/ピーター・フレミング.md" title="wikilink">フレミング</a>/ <a href="https://ja.wikipedia.org/wiki/ジョン・マッケンロー" title="wikilink">マッケンロー</a></p></td>
 <td><p><a href="../Page/ステファン・エドベリ.md" title="wikilink">エドベリ</a>/ <a href="../Page/アンダース・ヤリード.md" title="wikilink">ヤリード</a></p></td>
 </tr>
@@ -481,7 +481,7 @@
 <td><p>2015</p></td>
 <td><p><a href="../Page/スタン・スミス.md" title="wikilink">スタン・スミス</a></p></td>
 <td><p><a href="../Page/イリ・ナスターゼ.md" title="wikilink">イリ・ナスターゼ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アーサー・アッシュ" title="wikilink">アッシュ</a>/ <a href="../Page/スタン・スミス.md" title="wikilink">スミス</a></p></td>
+<td><p><a href="../Page/アーサー・アッシュ.md" title="wikilink">アッシュ</a>/ <a href="../Page/スタン・スミス.md" title="wikilink">スミス</a></p></td>
 <td><p><a href="../Page/ピーター・フレミング.md" title="wikilink">フレミング</a>/ <a href="https://ja.wikipedia.org/wiki/ジョン・マッケンロー" title="wikilink">マッケンロー</a></p></td>
 </tr>
 <tr class="even">

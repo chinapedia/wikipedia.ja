@@ -111,7 +111,7 @@
 <td><p>1964-65</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/インターシティーズ・フェアーズカップ1964-65" title="wikilink">インターシティーズ・フェアーズカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アイントラハト・フランクフルト" title="wikilink">アイントラハト・フランクフルト</a></p></td>
+<td><p><a href="../Page/アイントラハト・フランクフルト.md" title="wikilink">アイントラハト・フランクフルト</a></p></td>
 <td><p>5–1</p></td>
 <td><p>0–3</p></td>
 <td><p>'''5–4</p></td>
@@ -119,7 +119,7 @@
 </tr>
 <tr class="even">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エヴァートンFC" title="wikilink">エヴァートン</a></p></td>
+<td><p><a href="../Page/エヴァートンFC.md" title="wikilink">エヴァートン</a></p></td>
 <td><p>0–2</p></td>
 <td><p>1–4</p></td>
 <td><p>'''1–6</p></td>
@@ -279,7 +279,7 @@
 </tr>
 <tr class="even">
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1.FCカイザースラウテルン" title="wikilink">カイザースラウテルン</a></p></td>
+<td><p><a href="../Page/1.FCカイザースラウテルン.md" title="wikilink">カイザースラウテルン</a></p></td>
 <td><p>0–2</p></td>
 <td><p>0–3</p></td>
 <td><p>'''0–5</p></td>

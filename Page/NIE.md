@@ -5,11 +5,11 @@
 
 ## 概要
 
-[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")で1930年代に[ニューヨーク・タイムズ](https://ja.wikipedia.org/wiki/ニューヨーク・タイムズ "wikilink")が新聞の教材として[ハイスクールでの利用を考え始めたもので](https://ja.wikipedia.org/wiki/アメリカ合衆国の中等教育#ハイスクール_\(第九学年から第十二学年まで\) "wikilink")、組織的なNIEの始まりは、1955年に[アイオワ州](https://ja.wikipedia.org/wiki/アイオワ州 "wikilink")で実施された「中学生の文字との接触調査」がきっかけで、同調査では、対象となった5500人の生徒の内、男子40％、女子33％が、教室外では全く活字を読まないという実態が明らかになり、これに驚いた地元紙であるが、の協力の元、NIC(Newspaper In Classroom）運動を開始。2016年4月時点で、[世界新聞協会](https://ja.wikipedia.org/wiki/世界新聞協会 "wikilink")によると NIEを教育上利用している国家は80ヵ国以上で実施されている\[3\]。
+[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")で1930年代に[ニューヨーク・タイムズ](../Page/ニューヨーク・タイムズ.md "wikilink")が新聞の教材として[ハイスクールでの利用を考え始めたもので](https://ja.wikipedia.org/wiki/アメリカ合衆国の中等教育#ハイスクール_\(第九学年から第十二学年まで\) "wikilink")、組織的なNIEの始まりは、1955年に[アイオワ州](https://ja.wikipedia.org/wiki/アイオワ州 "wikilink")で実施された「中学生の文字との接触調査」がきっかけで、同調査では、対象となった5500人の生徒の内、男子40％、女子33％が、教室外では全く活字を読まないという実態が明らかになり、これに驚いた地元紙であるが、の協力の元、NIC(Newspaper In Classroom）運動を開始。2016年4月時点で、[世界新聞協会](https://ja.wikipedia.org/wiki/世界新聞協会 "wikilink")によると NIEを教育上利用している国家は80ヵ国以上で実施されている\[3\]。
 
-日本では、1985年に[静岡県](../Page/静岡県.md "wikilink")で開催された、[日本新聞協会](https://ja.wikipedia.org/wiki/日本新聞協会 "wikilink")加盟各社の第38回新聞大会において、当時新聞協会の会長であった、[小林與三次](https://ja.wikipedia.org/wiki/小林與三次 "wikilink")[読売新聞社](../Page/読売新聞社.md "wikilink")[代表取締役社長が](https://ja.wikipedia.org/wiki/取締役 "wikilink")、若年層の文字離れ、読書嫌いの傾向に歯止めを掛け、児童、生徒が活字文化に親しむ手段、方法の一つとして、NIEプログラムの重要性を提唱し、翌月、販売委員会にNIE専門部会が設立される。
+日本では、1985年に[静岡県](../Page/静岡県.md "wikilink")で開催された、[日本新聞協会](../Page/日本新聞協会.md "wikilink")加盟各社の第38回新聞大会において、当時新聞協会の会長であった、[小林與三次](../Page/小林與三次.md "wikilink")[読売新聞社](../Page/読売新聞社.md "wikilink")[代表取締役社長が](../Page/取締役.md "wikilink")、若年層の文字離れ、読書嫌いの傾向に歯止めを掛け、児童、生徒が活字文化に親しむ手段、方法の一つとして、NIEプログラムの重要性を提唱し、翌月、販売委員会にNIE専門部会が設立される。
 
-翌1986年から具体的な活動を始め、同年3月、アメリカで開かれた第15回米国NIE大会に部会長を、翌年1987年3月、北欧4国に副部会長2人を派遣。同年4月パンフレットを作成し、[文部省や全国の](../Page/文部科学省.md "wikilink")[教育委員会](https://ja.wikipedia.org/wiki/教育委員会 "wikilink")、小・中学校、高等学校、[PTA](../Page/PTA.md "wikilink")、新聞協会会員各社等に配布し周知。同年10月、新聞協会理事会にて専門部会を発展解消を承認し、1988年2月、[河北新報社](https://ja.wikipedia.org/wiki/河北新報社 "wikilink")[社主](https://ja.wikipedia.org/wiki/社主 "wikilink")である、[一力一夫](https://ja.wikipedia.org/wiki/一力一夫 "wikilink")理事を委員長にNIE委員会を設立。
+翌1986年から具体的な活動を始め、同年3月、アメリカで開かれた第15回米国NIE大会に部会長を、翌年1987年3月、北欧4国に副部会長2人を派遣。同年4月パンフレットを作成し、[文部省や全国の](../Page/文部科学省.md "wikilink")[教育委員会](../Page/教育委員会.md "wikilink")、小・中学校、高等学校、[PTA](../Page/PTA.md "wikilink")、新聞協会会員各社等に配布し周知。同年10月、新聞協会理事会にて専門部会を発展解消を承認し、1988年2月、[河北新報社](../Page/河北新報社.md "wikilink")[社主](https://ja.wikipedia.org/wiki/社主 "wikilink")である、[一力一夫](https://ja.wikipedia.org/wiki/一力一夫 "wikilink")理事を委員長にNIE委員会を設立。
 
 東京都の小中学校教師の新聞活用授業研究会を基盤に「東京NIE推進委員会」を設立し、1989年9月、小学校1校、中学校2校で全国初のパイロット計画を開始した\[4\]。1992年には新潟県が参加し、1994年から全国的に拡大した。1996年に「NIE実践校」制度が制定され、翌年には47都道府県で実践されるようになった。日本新聞協会は日本国内で500以上の小中高校を NIE実践指定校に認定している。
 
@@ -35,7 +35,7 @@
       - 国語：社説、コラム、投書欄、人物欄等を読込み、要旨を簡潔に要約、意見、感想発表、グループ討論を開く\[7\]
       - 社会科：環境、福祉、高齢化、ボランティア等の課題教育教材\[8\]
           - 地理：自然環境、[資源エネルギー問題](https://ja.wikipedia.org/wiki/エネルギー資源#世界情勢など "wikilink")\[9\]
-          - 公民：[裁判制度](https://ja.wikipedia.org/wiki/裁判制度 "wikilink")、[少子高齢化](https://ja.wikipedia.org/wiki/少子高齢化 "wikilink")\[10\]
+          - 公民：[裁判制度](https://ja.wikipedia.org/wiki/裁判制度 "wikilink")、[少子高齢化](../Page/少子高齢化.md "wikilink")\[10\]
           - 歴史：[北方領土問題](https://ja.wikipedia.org/wiki/北方領土問題 "wikilink")\[11\]
 
 <!-- end list -->
@@ -63,11 +63,11 @@
 ## 関連項目
 
   - [教育](../Page/教育.md "wikilink")
-  - [社会科](https://ja.wikipedia.org/wiki/社会_\(教科\) "wikilink")
-  - [生活科](https://ja.wikipedia.org/wiki/生活_\(教科\) "wikilink")
-  - [風評被害](https://ja.wikipedia.org/wiki/風評被害 "wikilink")
-  - [メディア・リテラシー](https://ja.wikipedia.org/wiki/メディア・リテラシー "wikilink")
-  - [活字離れ](https://ja.wikipedia.org/wiki/活字離れ "wikilink")
+  - [社会科](../Page/社会_\(教科\).md "wikilink")
+  - [生活科](../Page/生活_\(教科\).md "wikilink")
+  - [風評被害](../Page/風評被害.md "wikilink")
+  - [メディア・リテラシー](../Page/メディア・リテラシー.md "wikilink")
+  - [活字離れ](../Page/活字離れ.md "wikilink")
   - [まわしよみ新聞](https://ja.wikipedia.org/wiki/まわしよみ新聞 "wikilink")
   - [冤罪報道](https://ja.wikipedia.org/wiki/冤罪報道 "wikilink")
 

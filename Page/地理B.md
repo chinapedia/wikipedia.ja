@@ -1,15 +1,15 @@
 > この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
 
 
-『**地理B**』（ちりビー）は、[1991年](../Page/1991年.md "wikilink")[4月9日](../Page/4月9日.md "wikilink")から[1991年](../Page/1991年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink")まで[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[深夜番組](../Page/深夜番組.md "wikilink")放送枠『[JOCX-TV2](https://ja.wikipedia.org/wiki/JOCX-TV2 "wikilink")』で毎週火曜深夜に放送された[教養](../Page/教養番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。全25回。放送時間は25:10 - 25:40 ([JST](../Page/日本標準時.md "wikilink")) が中心だった。
+『**地理B**』（ちりビー）は、[1991年](../Page/1991年.md "wikilink")[4月9日](../Page/4月9日.md "wikilink")から[1991年](../Page/1991年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink")まで[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[深夜番組](../Page/深夜番組.md "wikilink")放送枠『[JOCX-TV2](../Page/JOCX-TV2.md "wikilink")』で毎週火曜深夜に放送された[教養](../Page/教養番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。全25回。放送時間は25:10 - 25:40 ([JST](../Page/日本標準時.md "wikilink")) が中心だった。
 
 ## 概要
 
-この番組は毎回ある国をテーマに取り上げ、その国に関する様々なデータを紹介していた。最終回では[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")を取り上げていた。取り上げた国の[大使](https://ja.wikipedia.org/wiki/大使 "wikilink")をはじめとする[外交官](../Page/外交官.md "wikilink")や[留学](https://ja.wikipedia.org/wiki/留学 "wikilink")生が案内人として登場した。
+この番組は毎回ある国をテーマに取り上げ、その国に関する様々なデータを紹介していた。最終回では[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")を取り上げていた。取り上げた国の[大使](https://ja.wikipedia.org/wiki/大使 "wikilink")をはじめとする[外交官](../Page/外交官.md "wikilink")や[留学](../Page/留学.md "wikilink")生が案内人として登場した。
 
-データを紹介するVTRは専門家が監修したもので、（当時の）正確な情報を紹介していたが、途中に[駄洒落](https://ja.wikipedia.org/wiki/駄洒落 "wikilink")や薀蓄も交えるなど堅苦しくない仕上がりになっていた。BGMには、その国に因んだ音楽を用いていた。
+データを紹介するVTRは専門家が監修したもので、（当時の）正確な情報を紹介していたが、途中に[駄洒落](../Page/駄洒落.md "wikilink")や薀蓄も交えるなど堅苦しくない仕上がりになっていた。BGMには、その国に因んだ音楽を用いていた。
 
-ちなみに、番組放送当時はこの番組が指す「地理B」という[科目は既に無く](https://ja.wikipedia.org/wiki/教科 "wikilink")、1982年から「地理」になっている。詳細は[学習指導要領](../Page/学習指導要領.md "wikilink")を参照のこと。
+ちなみに、番組放送当時はこの番組が指す「地理B」という[科目は既に無く](../Page/教科.md "wikilink")、1982年から「地理」になっている。詳細は[学習指導要領](../Page/学習指導要領.md "wikilink")を参照のこと。
 
 ## ナレーター
 
@@ -154,6 +154,6 @@
 
 ## 関連項目
 
-  - [新地理B](https://ja.wikipedia.org/wiki/新地理B "wikilink") - 1998年・2002年・2006年の[FIFAワールドカップ](https://ja.wikipedia.org/wiki/FIFAワールドカップ "wikilink")開催時に[スカイパーフェクTV\!で放送された番組で](../Page/スカパー!プレミアムサービス.md "wikilink")、この番組と同様のスタイルで出場32か国の紹介を行っていた。
+  - [新地理B](../Page/新地理B.md "wikilink") - 1998年・2002年・2006年の[FIFAワールドカップ](../Page/FIFAワールドカップ.md "wikilink")開催時に[スカイパーフェクTV\!で放送された番組で](../Page/スカパー!プレミアムサービス.md "wikilink")、この番組と同様のスタイルで出場32か国の紹介を行っていた。
 
 [Category:1991年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1991年のテレビ番組_\(日本\) "wikilink") [Category:フジテレビの教養番組](https://ja.wikipedia.org/wiki/Category:フジテレビの教養番組 "wikilink") [Category:フジテレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビのバラエティ番組の歴史 "wikilink") [Category:JOCX-TV2](https://ja.wikipedia.org/wiki/Category:JOCX-TV2 "wikilink")

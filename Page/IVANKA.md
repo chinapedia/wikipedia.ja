@@ -7,7 +7,7 @@
 
 ## 沿革
 
-  - [1994年](../Page/1994年.md "wikilink") - 美容室IVANKAを[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")代官山町で開業。
+  - [1994年](../Page/1994年.md "wikilink") - 美容室IVANKAを[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")代官山町で開業。
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - ヘアケア事業に進出。
   - [2003年](../Page/2003年.md "wikilink") - 化粧品事業に進出。
 

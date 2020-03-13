@@ -1,7 +1,7 @@
 > この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
 
 
-『**シンデレラII**』（シンデレラツー、原題：*Cinderella II: Dreams Come True*）は、[ディズニーの映画](https://ja.wikipedia.org/wiki/ウォルト・ディズニー・カンパニー "wikilink")『[シンデレラ](https://ja.wikipedia.org/wiki/シンデレラ_\(アニメ映画\) "wikilink")』の続編の[OVA](../Page/OVA.md "wikilink")作品。[2002年](../Page/2002年.md "wikilink")（[平成](../Page/平成.md "wikilink")14年）[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")に発売された。収録時間は約73分。
+『**シンデレラII**』（シンデレラツー、原題：*Cinderella II: Dreams Come True*）は、[ディズニーの映画](../Page/ウォルト・ディズニー・カンパニー.md "wikilink")『[シンデレラ](https://ja.wikipedia.org/wiki/シンデレラ_\(アニメ映画\) "wikilink")』の続編の[OVA](../Page/OVA.md "wikilink")作品。[2002年](../Page/2002年.md "wikilink")（[平成](../Page/平成.md "wikilink")14年）[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")に発売された。収録時間は約73分。
 
 ## あらすじ
 
@@ -37,12 +37,12 @@
 </tr>
 <tr class="odd">
 <td><p>大公</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/岩崎ひろし" title="wikilink">岩崎ひろし</a></p></td>
+<td><p><a href="../Page/岩崎ひろし.md" title="wikilink">岩崎ひろし</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>パン屋さん</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/高木渉" title="wikilink">高木渉</a></p></td>
+<td><p><a href="../Page/高木渉.md" title="wikilink">高木渉</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -54,11 +54,11 @@
 <td><p>フェアリー・ゴッドマザー<br />
 （妖精のおばあさん）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ルシー・テイラー" title="wikilink">ルシー・テイラー</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/京田尚子" title="wikilink">京田尚子</a></p></td>
+<td><p><a href="../Page/京田尚子.md" title="wikilink">京田尚子</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>ドリゼラ・トレメイン</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/安達忍" title="wikilink">安達忍</a></p></td>
+<td><p><a href="../Page/安達忍.md" title="wikilink">安達忍</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -78,13 +78,13 @@
 </tr>
 <tr class="odd">
 <td><p>レ・グランド伯爵夫人</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/さとうあい" title="wikilink">さとうあい</a></p></td>
+<td><p><a href="../Page/さとうあい.md" title="wikilink">さとうあい</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>アナスタシア・トレメイン</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/トレス・マクニール" title="wikilink">トレス・マクニール</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/喜田あゆ美" title="wikilink">喜田あゆ美</a></p></td>
+<td><p><a href="../Page/喜田あゆ美.md" title="wikilink">喜田あゆ美</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>トレメイン夫人<br />
@@ -96,7 +96,7 @@
 <td><p>プリンス・チャーミング<br />
 （王子）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/クリストファー・ダニエル・バーンズ" title="wikilink">クリストファー・ダニエル・バーンズ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/堀内賢雄" title="wikilink">堀内賢雄</a></p></td>
+<td><p><a href="../Page/堀内賢雄.md" title="wikilink">堀内賢雄</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>国王<br />
@@ -131,9 +131,9 @@
 <a href="https://ja.wikipedia.org/wiki/ジェニファー・ダーリング" title="wikilink">ジェニファー・ダーリング</a>、<a href="https://ja.wikipedia.org/wiki/ポール・エイディング" title="wikilink">ポール・エイディング</a><br />
 <a href="https://ja.wikipedia.org/wiki/シェリー・リン" title="wikilink">シェリー・リン</a>、<a href="https://ja.wikipedia.org/wiki/ミッキー・マクガワン" title="wikilink">ミッキー・マクガワン</a><br />
 <a href="https://ja.wikipedia.org/wiki/フィリップ・プロクター" title="wikilink">フィル・プロクター</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/藤本譲" title="wikilink">藤本譲</a>、<a href="https://ja.wikipedia.org/wiki/小杉十郎太" title="wikilink">小杉十郎太</a><br />
-<a href="https://ja.wikipedia.org/wiki/小室正幸" title="wikilink">小室正幸</a>、<a href="https://ja.wikipedia.org/wiki/坂東尚樹" title="wikilink">坂東尚樹</a><br />
-<a href="https://ja.wikipedia.org/wiki/落合弘治" title="wikilink">落合弘治</a></p></td>
+<td><p><a href="../Page/藤本譲.md" title="wikilink">藤本譲</a>、<a href="../Page/小杉十郎太.md" title="wikilink">小杉十郎太</a><br />
+<a href="../Page/小室正幸.md" title="wikilink">小室正幸</a>、<a href="../Page/坂東尚樹.md" title="wikilink">坂東尚樹</a><br />
+<a href="../Page/落合弘治.md" title="wikilink">落合弘治</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -167,7 +167,7 @@
   - 訳詞：[高橋由美子](https://ja.wikipedia.org/wiki/高橋由美子 "wikilink")
   - 録音・調整：[重光秀樹](https://ja.wikipedia.org/wiki/重光秀樹 "wikilink")
   - 音楽録音：[石井治郎](https://ja.wikipedia.org/wiki/石井治郎 "wikilink")
-  - 録音制作：[ケイエスエス](https://ja.wikipedia.org/wiki/ケイエスエス "wikilink")
+  - 録音制作：[ケイエスエス](../Page/ケイエスエス.md "wikilink")
   - 制作監修：[津司大三](https://ja.wikipedia.org/wiki/津司大三 "wikilink")
   - 日本語版制作：[DISNEY CHARACTER VOICES INTERNATIONAL, INC.](https://ja.wikipedia.org/wiki/DISNEY_CHARACTER_VOICES_INTERNATIONAL,_INC. "wikilink")
 

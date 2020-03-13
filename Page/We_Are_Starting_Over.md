@@ -20,8 +20,8 @@
 
 ## 収録アルバム
 
-  - [Major Turn-Round](https://ja.wikipedia.org/wiki/Major_Turn-Round "wikilink") (ALBUM VERSION)
+  - [Major Turn-Round](../Page/Major_Turn-Round.md "wikilink") (ALBUM VERSION)
   - [キヲクトキロク](../Page/キヲクトキロク_〜_Major_Turn-Round.md "wikilink") (Naoto Kine Piano Instrumental Version)
-  - [Gift from Fanks T](https://ja.wikipedia.org/wiki/Gift_from_Fanks_T "wikilink") (Straight Run)
+  - [Gift from Fanks T](../Page/Gift_from_Fanks_T.md "wikilink") (Straight Run)
 
 [Category:TM_NETWORKの楽曲](https://ja.wikipedia.org/wiki/Category:TM_NETWORKの楽曲 "wikilink") [Category:木根尚登が制作した楽曲](https://ja.wikipedia.org/wiki/Category:木根尚登が制作した楽曲 "wikilink") [Category:小室みつ子が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室みつ子が制作した楽曲 "wikilink") [Category:2000年のシングル](https://ja.wikipedia.org/wiki/Category:2000年のシングル "wikilink") [Category:楽曲_う](https://ja.wikipedia.org/wiki/Category:楽曲_う "wikilink")

@@ -20,7 +20,7 @@ MTBFとMTTRから、システムにおける**[可用性](../Page/可用性.md "
 
 ## 歴史
 
-RASの3つの要素を評価の指標とする考え方は[IBM](../Page/IBM.md "wikilink")が大型[コンピュータ](../Page/コンピュータ.md "wikilink")（[メインフレーム](../Page/メインフレーム.md "wikilink")）の[System/370](https://ja.wikipedia.org/wiki/System/370 "wikilink")シリーズを[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")6月に発表したことに始まる。System/370は[1964年](../Page/1964年.md "wikilink")にIBMが開発、販売した汎用コンピュータであった[System/360](https://ja.wikipedia.org/wiki/System/360 "wikilink")シリーズの後継機である。IBMはこのSystem/370の新機種において新たなRASの考え方を採用し商品としての新たな価値を訴えた\[10\]。
+RASの3つの要素を評価の指標とする考え方は[IBM](../Page/IBM.md "wikilink")が大型[コンピュータ](../Page/コンピュータ.md "wikilink")（[メインフレーム](../Page/メインフレーム.md "wikilink")）の[System/370](https://ja.wikipedia.org/wiki/System/370 "wikilink")シリーズを[1970年](../Page/1970年.md "wikilink")6月に発表したことに始まる。System/370は[1964年](../Page/1964年.md "wikilink")にIBMが開発、販売した汎用コンピュータであった[System/360](https://ja.wikipedia.org/wiki/System/360 "wikilink")シリーズの後継機である。IBMはこのSystem/370の新機種において新たなRASの考え方を採用し商品としての新たな価値を訴えた\[10\]。
 
 当時、IBMのコンピュータと同等の機能や性能とともにサービスを競った[富士通](../Page/富士通.md "wikilink")と[日立の](../Page/日立製作所.md "wikilink")2社もIBM[互換機](../Page/互換機.md "wikilink")としての[Mシリーズ](https://ja.wikipedia.org/wiki/Mシリーズ "wikilink")で市場を分け合った。このMシリーズにおいても互換機の立場から、IBMが謳うRASの機能を盛り込んだ\[11\]。 このような経緯によりRASとともにその後「**I**」と「**S**」を加えた**RASIS**は現在コンピュータの分野に限らず広く使われる[頭字語](../Page/頭字語.md "wikilink")としての言葉となった。
 
@@ -46,5 +46,5 @@ RASの3つの要素を評価の指標とする考え方は[IBM](../Page/IBM.md "
 7.  [RASIS](http://e-words.jp/w/RASIS.html) IT用語事典e-words
 8.  [PDFファイル](../Page/Portable_Document_Format.md "wikilink")：[情報システムとRASIS](http://www.infor.kanazawa-it.ac.jp/~emilab/lecture/CS/CS-chap9.pdf)、[金沢工業大学](https://ja.wikipedia.org/wiki/金沢工業大学 "wikilink")
 9.  JIS X 0014「情報処理用語―信頼性、保守性及び可用性」においては、serviceabilityに対応する訳語は「運用性」(サービス性)であり、「保守性」に対応する英語はmaintainabilityである。
-10. [システム370におけるRAS機能(System/370 RAS Facilities)](http://ci.nii.ac.jp/cinii/servlet/QuotDisp?LOCALID=ART0003004906&DB=NELS&USELANG=en)、[国立情報学研究所](https://ja.wikipedia.org/wiki/国立情報学研究所 "wikilink")
+10. [システム370におけるRAS機能(System/370 RAS Facilities)](http://ci.nii.ac.jp/cinii/servlet/QuotDisp?LOCALID=ART0003004906&DB=NELS&USELANG=en)、[国立情報学研究所](../Page/国立情報学研究所.md "wikilink")
 11. [Ⅱ．大型計算機開発の時代、〔1962年～1980年〕、8.3 テクノロジとアーキテクチャ、【表5．M-160/M-180II/M-190 の概要】、特徴： 高度なRAS機能](http://homepage2.nifty.com/Miwa/8_FACOM%20M/index.html)、[ニフティ](https://ja.wikipedia.org/wiki/ニフティ "wikilink")ホームページ

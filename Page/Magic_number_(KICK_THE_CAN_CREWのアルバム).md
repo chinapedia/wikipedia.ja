@@ -1,13 +1,13 @@
 > この記事は[Magic number \(KICK THE CAN CREW\)](https://ja.wikipedia.org/wiki/Magic_number_\(KICK_THE_CAN_CREW\))から翻訳されています。
 
 
-**magic number**（マジック・ナンバー）は、[KICK THE CAN CREWの](https://ja.wikipedia.org/wiki/KICK_THE_CAN_CREW "wikilink")3枚目([メジャー](https://ja.wikipedia.org/wiki/レコード会社#メジャーとインディーズ "wikilink")2枚目)の[アルバム](../Page/アルバム.md "wikilink")である。
+**magic number**（マジック・ナンバー）は、[KICK THE CAN CREWの](../Page/KICK_THE_CAN_CREW.md "wikilink")3枚目([メジャー](https://ja.wikipedia.org/wiki/レコード会社#メジャーとインディーズ "wikilink")2枚目)の[アルバム](../Page/アルバム.md "wikilink")である。
 
 ## 概要
 
   - 初回プレス分は、スリーブケース仕様と開運おみくじ付属。
-  - 全15曲収録。参加[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")は[CASSETTE VISION](https://ja.wikipedia.org/wiki/CASSETTE_VISION "wikilink")（[INNOSENCE](../Page/INNOSENCE.md "wikilink")、[CUEZERO](https://ja.wikipedia.org/wiki/CUEZERO "wikilink")、[DJ TATSUTA](../Page/DJ_TATSUTA.md "wikilink")）。
-  - [オリコンウィークリーチャート初登場](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")3位。翌週2位。約50万枚の好セールス。
+  - 全15曲収録。参加[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")は[CASSETTE VISION](https://ja.wikipedia.org/wiki/CASSETTE_VISION "wikilink")（[INNOSENCE](../Page/INNOSENCE.md "wikilink")、[CUEZERO](../Page/CUEZERO.md "wikilink")、[DJ TATSUTA](../Page/DJ_TATSUTA.md "wikilink")）。
+  - [オリコンウィークリーチャート初登場](../Page/オリコンチャート.md "wikilink")3位。翌週2位。約50万枚の好セールス。
   - 2003年[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")から[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")にかけて全国20ヶ所で行われたホールツアー「TOUR 2003 magic number」(本公演23本＋追加公演3本)は、全公演即日ソールドアウト。[チケット](https://ja.wikipedia.org/wiki/チケット "wikilink")は入手困難で[プレミア](../Page/プレミア.md "wikilink")チケットと化した。
   - 世界的な評価を受けるに値するアルバムをリリースした[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")を表彰するため、新たに設立された賞「[International Album of the Year](https://ja.wikipedia.org/wiki/International_Album_of_the_Year "wikilink")」の第一回目に、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")や[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")、[キューバ](../Page/キューバ.md "wikilink")のアーティストの作品とともに、このアルバムが選ばれた。
   - 録音・ミキシングは[東京U家族](https://ja.wikipedia.org/wiki/東京U家族 "wikilink")の「TETSUYA SUGIMOTO」という人物が担当している。
@@ -47,7 +47,7 @@
 13. LONELY ONE
       -
         雑誌のインタビューでLITTLEが「スーパーオリジナルの続編的な曲」だと語っている。
-14. [sayonara sayonara](https://ja.wikipedia.org/wiki/sayonara_sayonara "wikilink") (Album Edit) feat. [CUEZERO](https://ja.wikipedia.org/wiki/CUEZERO "wikilink")
+14. [sayonara sayonara](https://ja.wikipedia.org/wiki/sayonara_sayonara "wikilink") (Album Edit) feat. [CUEZERO](../Page/CUEZERO.md "wikilink")
       -
         7thシングルの別バージョン。
 15. magic number

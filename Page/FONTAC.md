@@ -1,7 +1,7 @@
 > この記事は[FONTAC](https://ja.wikipedia.org/wiki/FONTAC)から翻訳されています。
 
 
-**FONTAC**（フォンタック、Fujitsu Oki Nippondenki Triple Allied Computer）は、[1965年](../Page/1965年.md "wikilink")11月に完成した[富士通](../Page/富士通.md "wikilink")、[沖電気](https://ja.wikipedia.org/wiki/沖電気工業 "wikilink")、[NECの](../Page/日本電気.md "wikilink")3社共同開発による[コンピュータ](../Page/コンピュータ.md "wikilink")。
+**FONTAC**（フォンタック、Fujitsu Oki Nippondenki Triple Allied Computer）は、[1965年](../Page/1965年.md "wikilink")11月に完成した[富士通](../Page/富士通.md "wikilink")、[沖電気](../Page/沖電気工業.md "wikilink")、[NECの](../Page/日本電気.md "wikilink")3社共同開発による[コンピュータ](../Page/コンピュータ.md "wikilink")。
 
 ## 経緯
 
@@ -24,12 +24,12 @@ CPU部分の「FONTAC Central」と入出力部の「FONTAC Sub I」と「FONTAC
 
 ## 参考文献
 
-  - [情報処理学会](https://ja.wikipedia.org/wiki/情報処理学会 "wikilink")歴史特別委員会(編)、『日本のコンピュータ発達史』オーム社(1998年)、ISBN 4-274-07864-7
+  - [情報処理学会](../Page/情報処理学会.md "wikilink")歴史特別委員会(編)、『日本のコンピュータ発達史』オーム社(1998年)、ISBN 4-274-07864-7
   - 高橋茂(著)、『コンピュータクロニクル』オーム社(1996年)、ISBN 4-274-02319-2
 
 ## 外部リンク
 
-  - [FONTAC](http://museum.ipsj.or.jp/computer/main/0005.html) [情報処理学会](https://ja.wikipedia.org/wiki/情報処理学会 "wikilink")コンピュータ博物館
+  - [FONTAC](http://museum.ipsj.or.jp/computer/main/0005.html) [情報処理学会](../Page/情報処理学会.md "wikilink")コンピュータ博物館
   - [1](http://homepage2.nifty.com/Miwa/5_FONTAC/index.html) 『私のコンピュータ開発史』三輪 修
 
 [Category:コンピュータ_(歴代)](https://ja.wikipedia.org/wiki/Category:コンピュータ_\(歴代\) "wikilink") [Category:個別のコンピュータ](https://ja.wikipedia.org/wiki/Category:個別のコンピュータ "wikilink")

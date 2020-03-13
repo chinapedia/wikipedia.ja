@@ -9,7 +9,7 @@
 
 ## 概要
 
-[2001年](../Page/2001年.md "wikilink")のJRAレーシングプログラムに基づき、実在の芝のレースを循環させてゲームを進めている。それに伴い、左回り右回りを忠実に再現している。馬・騎手は全て実名で登場している。OPENは6頭立て、GIII・GIIは8頭立て、GIは10頭立てである。実況はバージョン1では[ラジオたんぱの](../Page/日経ラジオ社.md "wikilink")[白川次郎](https://ja.wikipedia.org/wiki/白川次郎 "wikilink")アナウンサー、バージョン2では[山本直也](../Page/山本直也.md "wikilink")が行っている。
+[2001年](../Page/2001年.md "wikilink")のJRAレーシングプログラムに基づき、実在の芝のレースを循環させてゲームを進めている。それに伴い、左回り右回りを忠実に再現している。馬・騎手は全て実名で登場している。OPENは6頭立て、GIII・GIIは8頭立て、GIは10頭立てである。実況はバージョン1では[ラジオたんぱの](../Page/日経ラジオ社.md "wikilink")[白川次郎](../Page/白川次郎.md "wikilink")アナウンサー、バージョン2では[山本直也](../Page/山本直也.md "wikilink")が行っている。
 
 ## ゲーム内容
 
@@ -37,7 +37,7 @@
   - [GI CLASSIC WINDS](../Page/GI_CLASSIC_WINDS.md "wikilink")
   - [GI CLASSIC EX](../Page/GI_CLASSIC_EX.md "wikilink")
   - [GI LEADING SIRE](../Page/GI_LEADING_SIRE.md "wikilink")
-  - [GI TURFWILD](https://ja.wikipedia.org/wiki/GI_TURFWILD "wikilink")
+  - [GI TURFWILD](../Page/GI_TURFWILD.md "wikilink")
 
 ## 外部リンク
 

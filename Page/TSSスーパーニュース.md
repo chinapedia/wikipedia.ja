@@ -7,7 +7,7 @@
 
 番組のロゴは「tss」「FNN」「スーパーニュース（Super NEWS）」「WEEKEND」の書体や配置が何度か変更されている。
 
-[2014年](../Page/2014年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")時点のTSS[番組表](https://ja.wikipedia.org/wiki/番組表 "wikilink")には[平日](../Page/平日.md "wikilink")「TSSスーパーニュース」、週末は「TSSスーパーニュースFNN」として掲載されており、平日・週末ともに現行の平日用ロゴ（赤色ベース）と併記されている。ただし、実際のエンドクレジットでは[週末](https://ja.wikipedia.org/wiki/週末 "wikilink")（提供スポンサーが無い場合）は現行の「WEEKEND」ロゴ（青色ベース）が使われている（平日と異なり、「FNN」が無い）。なお、ローカル部分でも平日版のスタジオセットやエンドクレジットの番組ロゴには「FNN」が併記されている。
+[2014年](../Page/2014年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")時点のTSS[番組表](https://ja.wikipedia.org/wiki/番組表 "wikilink")には[平日](../Page/平日.md "wikilink")「TSSスーパーニュース」、週末は「TSSスーパーニュースFNN」として掲載されており、平日・週末ともに現行の平日用ロゴ（赤色ベース）と併記されている。ただし、実際のエンドクレジットでは[週末](../Page/週末.md "wikilink")（提供スポンサーが無い場合）は現行の「WEEKEND」ロゴ（青色ベース）が使われている（平日と異なり、「FNN」が無い）。なお、ローカル部分でも平日版のスタジオセットやエンドクレジットの番組ロゴには「FNN」が併記されている。
 
 前番組『**tss FNNザ・ヒューマン**』に代わって[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")からスタートした。[ステレオ放送](../Page/ステレオ放送.md "wikilink")実施（[2011年](../Page/2011年.md "wikilink")[10月31日](../Page/10月31日.md "wikilink")より全編実施）。ニュース映像は[2009年](../Page/2009年.md "wikilink")[1月5日](../Page/1月5日.md "wikilink")からハイビジョンが多くなってきた。ローカル部分でのニュース映像中のサイドテロップがついていないが、マイクはスタジオセットにされたものである。
 

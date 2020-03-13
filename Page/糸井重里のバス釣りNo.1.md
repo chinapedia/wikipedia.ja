@@ -1,11 +1,11 @@
 > この記事は[No.1](https://ja.wikipedia.org/wiki/No.1)から翻訳されています。
 
 
-『**糸井重里のバス釣りNo.1**』（いといしげさとのバスつりナンバーワン）は、[バス](https://ja.wikipedia.org/wiki/ブラックバス "wikilink")[釣り](https://ja.wikipedia.org/wiki/釣り "wikilink")をテーマとした[任天堂](../Page/任天堂.md "wikilink")の[ゲームソフト](../Page/ゲームソフト.md "wikilink")のシリーズである。開発は[HAL研究所](https://ja.wikipedia.org/wiki/HAL研究所 "wikilink")が担当。
+『**糸井重里のバス釣りNo.1**』（いといしげさとのバスつりナンバーワン）は、[バス](https://ja.wikipedia.org/wiki/ブラックバス "wikilink")[釣り](../Page/釣り.md "wikilink")をテーマとした[任天堂](../Page/任天堂.md "wikilink")の[ゲームソフト](../Page/ゲームソフト.md "wikilink")のシリーズである。開発は[HAL研究所](https://ja.wikipedia.org/wiki/HAL研究所 "wikilink")が担当。
 
 ## 概要
 
-本作はバス釣り好きで有名な[コピーライター](https://ja.wikipedia.org/wiki/コピーライター "wikilink")の[糸井重里](../Page/糸井重里.md "wikilink")（発売当時、HAL研究所の取締役監査役）が監修を務めており、赤星湖と呼ばれる架空の湖でバスフィッシングを楽しむ釣りシミュレーションゲーム。釣り独特の感覚を巧みに再現しており細部に作り込まれている。[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")版では[サテラビュー](../Page/サテラビュー.md "wikilink")対応となっており、[セント・ギガ](../Page/セント・ギガ.md "wikilink")による[衛星放送](../Page/衛星放送.md "wikilink")でバス釣り大会が開催された。
+本作はバス釣り好きで有名な[コピーライター](../Page/コピーライター.md "wikilink")の[糸井重里](../Page/糸井重里.md "wikilink")（発売当時、HAL研究所の取締役監査役）が監修を務めており、赤星湖と呼ばれる架空の湖でバスフィッシングを楽しむ釣りシミュレーションゲーム。釣り独特の感覚を巧みに再現しており細部に作り込まれている。[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")版では[サテラビュー](../Page/サテラビュー.md "wikilink")対応となっており、[セント・ギガ](../Page/セント・ギガ.md "wikilink")による[衛星放送](../Page/衛星放送.md "wikilink")でバス釣り大会が開催された。
 
 ## 評価
 

@@ -1,7 +1,7 @@
 > この記事は[AEK](https://ja.wikipedia.org/wiki/AEK)から翻訳されています。
 
 
-**AEKアテネ**（**あえくあてね**、）は、[ギリシャ](../Page/ギリシャ.md "wikilink")・[アテネ](../Page/アテネ.md "wikilink")に本拠地を置く総合[スポーツ](../Page/スポーツ.md "wikilink")クラブ。**ΑΕΚ**とは（英：The Athletic Union of [Constantinople](../Page/コンスタンティノープル.md "wikilink")　直訳すると「コンスタンティノープル体育連盟」）の略である。[希土戦争の後の](https://ja.wikipedia.org/wiki/希土戦争_\(1919年-1922年\) "wikilink")[ギリシャとトルコの住民交換](https://ja.wikipedia.org/wiki/ギリシャとトルコの住民交換 "wikilink")によって、[イスタンブール](../Page/イスタンブール.md "wikilink")（[コンスタンティノープル](../Page/コンスタンティノープル.md "wikilink")）からギリシャに移ってきた[ギリシャ人](../Page/ギリシャ人.md "wikilink")達によって設立された。[エンブレム](../Page/エンブレム.md "wikilink")は、かつてコンスタンティノープルを[首都](../Page/首都.md "wikilink")としていた[東ローマ（ビザンツ）帝国末期の](../Page/東ローマ帝国.md "wikilink")[国章](../Page/国章.md "wikilink")・[双頭の鷲](../Page/双頭の鷲.md "wikilink")を基にしている。
+**AEKアテネ**（**あえくあてね**、）は、[ギリシャ](../Page/ギリシャ.md "wikilink")・[アテネ](../Page/アテネ.md "wikilink")に本拠地を置く総合[スポーツ](../Page/スポーツ.md "wikilink")クラブ。**ΑΕΚ**とは（英：The Athletic Union of [Constantinople](../Page/コンスタンティノープル.md "wikilink")　直訳すると「コンスタンティノープル体育連盟」）の略である。[希土戦争の後の](../Page/希土戦争_\(1919年-1922年\).md "wikilink")[ギリシャとトルコの住民交換](https://ja.wikipedia.org/wiki/ギリシャとトルコの住民交換 "wikilink")によって、[イスタンブール](../Page/イスタンブール.md "wikilink")（[コンスタンティノープル](../Page/コンスタンティノープル.md "wikilink")）からギリシャに移ってきた[ギリシャ人](../Page/ギリシャ人.md "wikilink")達によって設立された。[エンブレム](../Page/エンブレム.md "wikilink")は、かつてコンスタンティノープルを[首都](../Page/首都.md "wikilink")としていた[東ローマ（ビザンツ）帝国末期の](../Page/東ローマ帝国.md "wikilink")[国章](../Page/国章.md "wikilink")・[双頭の鷲](../Page/双頭の鷲.md "wikilink")を基にしている。
 
 [サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")・[バスケットボール](../Page/バスケットボール.md "wikilink")・[バレーボール](../Page/バレーボール.md "wikilink")・[ハンドボール](../Page/ハンドボール.md "wikilink")などのクラブチームで構成されている。
 

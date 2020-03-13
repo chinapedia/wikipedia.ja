@@ -7,7 +7,7 @@
 
 [ニューヨーク州立大学アルバニー校](https://ja.wikipedia.org/wiki/ニューヨーク州立大学アルバニー校 "wikilink")で博士号取得後、同大ニュー・プラッツ校、[ウェールズ大学](https://ja.wikipedia.org/wiki/ウェールズ大学 "wikilink")を経て、現職。
 
-政治理論専門家[ジョン・ガネル](https://ja.wikipedia.org/wiki/ジョン・ガネル "wikilink")(John G. Gunnell)に依拠した方法を用いて、[国際関係論](../Page/国際関係論.md "wikilink")の歴史（特に第二次世界大戦以前）の再検討を中心課題としている。
+政治理論専門家[ジョン・ガネル](../Page/ジョン・ガネル.md "wikilink")(John G. Gunnell)に依拠した方法を用いて、[国際関係論](../Page/国際関係論.md "wikilink")の歴史（特に第二次世界大戦以前）の再検討を中心課題としている。
 
 ## 著作
 

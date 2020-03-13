@@ -1,7 +1,7 @@
 > この記事は[HiTBiT](https://ja.wikipedia.org/wiki/HiTBiT)から翻訳されています。
 
 
-**HitBit**（ヒットビット）は、[ソニー](../Page/ソニー.md "wikilink")が1980年代に使用していた[パソコンおよびその周辺機器](../Page/パーソナルコンピュータ.md "wikilink")・対応ソフトのブランド名。同社[MSX](https://ja.wikipedia.org/wiki/MSX "wikilink")や[SMC-777](https://ja.wikipedia.org/wiki/SMC-777 "wikilink")シリーズに使われた。それ以前の、[SMC-70](https://ja.wikipedia.org/wiki/SMC-70 "wikilink")には用いられていない。また姉妹機として[ワープロ専用機](https://ja.wikipedia.org/wiki/ワープロ専用機 "wikilink")の「HiTBiT Word」も存在していた。
+**HitBit**（ヒットビット）は、[ソニー](../Page/ソニー.md "wikilink")が1980年代に使用していた[パソコンおよびその周辺機器](../Page/パーソナルコンピュータ.md "wikilink")・対応ソフトのブランド名。同社[MSX](https://ja.wikipedia.org/wiki/MSX "wikilink")や[SMC-777](../Page/SMC-777.md "wikilink")シリーズに使われた。それ以前の、[SMC-70](https://ja.wikipedia.org/wiki/SMC-70 "wikilink")には用いられていない。また姉妹機として[ワープロ専用機](https://ja.wikipedia.org/wiki/ワープロ専用機 "wikilink")の「HiTBiT Word」も存在していた。
 
 由来は「ヒット」するように + コンピュータの記憶単位である「ビット」、および「人々」。テレビCMや雑誌広告での[キャッチコピー](../Page/キャッチコピー.md "wikilink")は「**ひとびとの、ヒットビット**」。イメージキャラクターに[松田聖子](../Page/松田聖子.md "wikilink")を起用した。
 
@@ -13,7 +13,7 @@
 
 ### 主なタイトル
 
-  - [ガルフォース](https://ja.wikipedia.org/wiki/ガルフォース "wikilink")
+  - [ガルフォース](../Page/ガルフォース.md "wikilink")
   - [奇々怪界](https://ja.wikipedia.org/wiki/奇々怪界 "wikilink")
   - [キネティックコネクション](../Page/キネティックコネクション.md "wikilink")
   - [ジュノファースト](https://ja.wikipedia.org/wiki/ジュノファースト "wikilink")

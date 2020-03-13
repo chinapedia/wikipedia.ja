@@ -5,16 +5,16 @@
 
 ## 解説
 
-  - [フジテレビ系列](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[とんねるずのみなさんのおかげでした](../Page/とんねるずのみなさんのおかげでした.md "wikilink")』エンディングテーマ。[野村證券](https://ja.wikipedia.org/wiki/野村證券 "wikilink")[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。
-  - [PVは](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")と[エイベックス本社ビル屋上で撮影された](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。本来台湾で全編撮影する予定だったが、台風による悪天候でラストシーンを含む一部が撮影不可能となり、代理としてエイベックス本社ビル屋上が選ばれた。
+  - [フジテレビ系列](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[とんねるずのみなさんのおかげでした](../Page/とんねるずのみなさんのおかげでした.md "wikilink")』エンディングテーマ。[野村證券](https://ja.wikipedia.org/wiki/野村證券 "wikilink")[CMソング](../Page/コマーシャルソング.md "wikilink")。
+  - [PVは](../Page/ミュージック・ビデオ.md "wikilink")、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")と[エイベックス本社ビル屋上で撮影された](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。本来台湾で全編撮影する予定だったが、台風による悪天候でラストシーンを含む一部が撮影不可能となり、代理としてエイベックス本社ビル屋上が選ばれた。
   - このシングルより、これまでボーカルチームだった成井一浩がダンサーチームへ移動となった。ただしリリース時に開催された野猿ドラフトではヴォーカルチームとして紹介されており、またカップリングの「CHASER」では成井も歌っているので、正式に降格したのはこれより後である。なお、「CHASER」は[星野教昭](https://ja.wikipedia.org/wiki/星野教昭 "wikilink")も参加しており6人ヴォーカルとなっている。
 
 ## 収録曲
 
 1.  SNOW BLIND
       -
-        作詞：[秋元康](../Page/秋元康.md "wikilink")、作曲：[後藤次利](https://ja.wikipedia.org/wiki/後藤次利 "wikilink")、編曲：後藤次利･[田原音彦](https://ja.wikipedia.org/wiki/田原音彦 "wikilink")
-        1枚目の[アルバム](../Page/アルバム.md "wikilink")『[STAFF ROLL](../Page/STAFF_ROLL.md "wikilink")」、[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『[撤収](https://ja.wikipedia.org/wiki/撤収_\(アルバム\) "wikilink")』に収録されている。
+        作詞：[秋元康](../Page/秋元康.md "wikilink")、作曲：[後藤次利](../Page/後藤次利.md "wikilink")、編曲：後藤次利･[田原音彦](../Page/田原音彦.md "wikilink")
+        1枚目の[アルバム](../Page/アルバム.md "wikilink")『[STAFF ROLL](../Page/STAFF_ROLL.md "wikilink")」、[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[撤収](../Page/撤収_\(アルバム\).md "wikilink")』に収録されている。
 2.  CHASER
       -
         作詞：秋元康、作曲：後藤次利、編曲：後藤次利･田原音彦

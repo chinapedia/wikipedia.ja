@@ -28,8 +28,8 @@
 <!-- end list -->
 
   - [水着少女](../Page/水着少女.md "wikilink")（2004年1月 - 2005年3月、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
-  - [P-1ゴールドラッシュ](https://ja.wikipedia.org/wiki/P-1ゴールドラッシュ "wikilink")（2006年4月 - 2007年5月、[テレビ大阪](../Page/テレビ大阪.md "wikilink")）
-  - [天使らんまん](https://ja.wikipedia.org/wiki/天使らんまん "wikilink")（2006年11月22日未明、[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")）
+  - [P-1ゴールドラッシュ](../Page/P-1ゴールドラッシュ.md "wikilink")（2006年4月 - 2007年5月、[テレビ大阪](../Page/テレビ大阪.md "wikilink")）
+  - [天使らんまん](../Page/天使らんまん.md "wikilink")（2006年11月22日未明、[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")）
   - [シックスハンター](../Page/シックスハンター.md "wikilink")（[テレビ愛知](../Page/テレビ愛知.md "wikilink")）
   - [悩殺×女神](https://ja.wikipedia.org/wiki/悩殺×女神 "wikilink")（2008年6月、[MONDO21](https://ja.wikipedia.org/wiki/MONDO21 "wikilink")）
   - [誘惑のマーメイド](https://ja.wikipedia.org/wiki/誘惑のマーメイド "wikilink")（MONDO21）

@@ -1,7 +1,7 @@
 > この記事は[Lonely Night](https://ja.wikipedia.org/wiki/Lonely_Night)から翻訳されています。
 
 
-『**走り出せLonely Night**』（はしりだせロンリー・ナイト）は[MANISH](https://ja.wikipedia.org/wiki/MANISH "wikilink")の9枚目のシングル。
+『**走り出せLonely Night**』（はしりだせロンリー・ナイト）は[MANISH](../Page/MANISH.md "wikilink")の9枚目のシングル。
 
 ## 内容
 
@@ -11,7 +11,7 @@
 
 1.  **走り出せLonely Night**
       -
-        作詞：高橋美鈴　作曲：[栗林誠一郎](https://ja.wikipedia.org/wiki/栗林誠一郎 "wikilink")　編曲：[明石昌夫](https://ja.wikipedia.org/wiki/明石昌夫 "wikilink")
+        作詞：高橋美鈴　作曲：[栗林誠一郎](../Page/栗林誠一郎.md "wikilink")　編曲：[明石昌夫](../Page/明石昌夫.md "wikilink")
 2.  **涙見せたくない**
       -
         作詞：高橋美鈴　作曲：西本麻里　編曲：明石昌夫
@@ -21,12 +21,12 @@
 
   - [鈴木英俊](../Page/鈴木英俊.md "wikilink") - ギター
   - [大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink") - コーラス
-  - [栗林誠一郎](https://ja.wikipedia.org/wiki/栗林誠一郎 "wikilink") - コーラス
+  - [栗林誠一郎](../Page/栗林誠一郎.md "wikilink") - コーラス
 
 ## 関連項目
 
   - [ビーイング](../Page/ビーイング.md "wikilink")
-  - [MANISH](https://ja.wikipedia.org/wiki/MANISH "wikilink")
-  - [明石昌夫](https://ja.wikipedia.org/wiki/明石昌夫 "wikilink")
+  - [MANISH](../Page/MANISH.md "wikilink")
+  - [明石昌夫](../Page/明石昌夫.md "wikilink")
 
 [Category:MANISHの楽曲](https://ja.wikipedia.org/wiki/Category:MANISHの楽曲 "wikilink") [Category:1994年のシングル](https://ja.wikipedia.org/wiki/Category:1994年のシングル "wikilink") [Category:栗林誠一郎が制作した楽曲](https://ja.wikipedia.org/wiki/Category:栗林誠一郎が制作した楽曲 "wikilink") [Category:楽曲_は](https://ja.wikipedia.org/wiki/Category:楽曲_は "wikilink")

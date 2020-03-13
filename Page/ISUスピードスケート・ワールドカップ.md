@@ -1,7 +1,7 @@
 > この記事は[ISU](https://ja.wikipedia.org/wiki/ISU)から翻訳されています。
 
 
-**ISUスピードスケート・ワールドカップ**（ISU World Cup Speed Skating）は、[国際スケート連盟](../Page/国際スケート連盟.md "wikilink")（ISU）が主催する[スピードスケート](https://ja.wikipedia.org/wiki/スピードスケート "wikilink")の大会の総称である。毎年9-12月から翌年3月にかけて、世界各国を転戦する。各々のレースは単独大会として行われ、なおかつ各距離各レースの順位点（W杯ポイント）の合計をもって、各距離ごとにシーズン総合チャンピオンが決められる。2013-14シーズンまではがタイトルスポンサーであった。
+**ISUスピードスケート・ワールドカップ**（ISU World Cup Speed Skating）は、[国際スケート連盟](../Page/国際スケート連盟.md "wikilink")（ISU）が主催する[スピードスケート](../Page/スピードスケート.md "wikilink")の大会の総称である。毎年9-12月から翌年3月にかけて、世界各国を転戦する。各々のレースは単独大会として行われ、なおかつ各距離各レースの順位点（W杯ポイント）の合計をもって、各距離ごとにシーズン総合チャンピオンが決められる。2013-14シーズンまではがタイトルスポンサーであった。
 
 1000mまでの短距離大会と、1500m以上の中長距離大会に大きくカテゴリー分けされ、基本的に2系統で運営されているが、例年、両カテゴリーの競技を実施する全距離大会も開かれている。
 
@@ -110,7 +110,7 @@
 </tr>
 <tr class="even">
 <td><p>6</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/清水宏保" title="wikilink">清水宏保</a></p></td>
+<td><p><a href="../Page/清水宏保.md" title="wikilink">清水宏保</a></p></td>
 <td><p>1993-2004</p></td>
 <td><p><strong>35</strong></p></td>
 <td><p>1</p></td>
@@ -123,7 +123,7 @@
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
-<td><p>/ <a href="https://ja.wikipedia.org/wiki/イーゴリ・ゼレゾフスキー" title="wikilink">イーゴリ・ゼレゾフスキー</a></p></td>
+<td><p>/ <a href="../Page/イーゴリ・ゼレゾフスキー.md" title="wikilink">イーゴリ・ゼレゾフスキー</a></p></td>
 <td><p>1985-1993</p></td>
 <td><p><strong>30</strong></p></td>
 <td></td>

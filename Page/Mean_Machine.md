@@ -15,10 +15,10 @@
 
   - **[伊藤歩](https://ja.wikipedia.org/wiki/伊藤歩 "wikilink")**（[女優](../Page/俳優.md "wikilink")）
       - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。
-  - **[ちわきまゆみ](../Page/ちわきまゆみ.md "wikilink")**（[シンガー](https://ja.wikipedia.org/wiki/シンガー "wikilink")、[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[ラジオパーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")）
+  - **[ちわきまゆみ](../Page/ちわきまゆみ.md "wikilink")**（[シンガー](../Page/シンガー.md "wikilink")、[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[ラジオパーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")）
       - [ギター](../Page/ギター.md "wikilink")、[コーラス担当](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。[バンドマスター](https://ja.wikipedia.org/wiki/バンドマスター "wikilink")\[13\]。
-  - **YUKARIE**（元[JAGATARA](https://ja.wikipedia.org/wiki/JAGATARA "wikilink")の[ダンサー](https://ja.wikipedia.org/wiki/ダンサー "wikilink")、現THE THRILLの[サックス](https://ja.wikipedia.org/wiki/サックス "wikilink")奏者）
-      - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、コーラス担当。
+  - **YUKARIE**（元[JAGATARA](../Page/JAGATARA.md "wikilink")の[ダンサー](https://ja.wikipedia.org/wiki/ダンサー "wikilink")、現THE THRILLの[サックス](https://ja.wikipedia.org/wiki/サックス "wikilink")奏者）
+      - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")、コーラス担当。
   - **[CHARA](https://ja.wikipedia.org/wiki/CHARA "wikilink")**（[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")）
       - [ドラムス](../Page/ドラムセット.md "wikilink")、コーラス担当。
   - **[YUKI](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")**（ソロ[歌手](../Page/歌手.md "wikilink")、元[JUDY AND MARY](../Page/JUDY_AND_MARY.md "wikilink")）

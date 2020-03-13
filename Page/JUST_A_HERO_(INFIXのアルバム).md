@@ -7,11 +7,11 @@
 
   - 本作より、[板倉雅一が](https://ja.wikipedia.org/wiki/THE_FUSE "wikilink")[サウンドプロデューサー](../Page/音楽プロデューサー.md "wikilink")、及び[サポートメンバーで参加している](https://ja.wikipedia.org/wiki/バックバンド "wikilink")。
   - infixのアルバムの中で唯一、全曲の作詞と作曲を長友ひとりで手掛けている。
-  - [長友仍世](https://ja.wikipedia.org/wiki/長友仍世 "wikilink")は担当していたラジオ番組やライブのMCで、INFIXは身の切り売りで自己表現するバンドで、自らの経験を元に人生観を語る事が多く、故に説教臭いという評価がついて回ったが、このアルバムはINFIXが**“説教バンド”**と揶揄される決定打となった。
+  - [長友仍世](../Page/長友仍世.md "wikilink")は担当していたラジオ番組やライブのMCで、INFIXは身の切り売りで自己表現するバンドで、自らの経験を元に人生観を語る事が多く、故に説教臭いという評価がついて回ったが、このアルバムはINFIXが**“説教バンド”**と揶揄される決定打となった。
 
 ## 収録曲
 
-  - 全作詞・作曲：[長友仍世](https://ja.wikipedia.org/wiki/長友仍世 "wikilink") 編曲：[板倉雅一](https://ja.wikipedia.org/wiki/THE_FUSE "wikilink")
+  - 全作詞・作曲：[長友仍世](../Page/長友仍世.md "wikilink") 編曲：[板倉雅一](https://ja.wikipedia.org/wiki/THE_FUSE "wikilink")
 
 <!-- end list -->
 

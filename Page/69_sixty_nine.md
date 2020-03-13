@@ -38,20 +38,20 @@
   - 極道：[村上淳](../Page/村上淳.md "wikilink")
   - 中村譲：[星野源](../Page/星野源.md "wikilink")
   - 大滝良：[加瀬亮](../Page/加瀬亮.md "wikilink")
-  - 福島清（フク）：[与座嘉秋](https://ja.wikipedia.org/wiki/与座嘉秋 "wikilink")（[ホーム・チーム](https://ja.wikipedia.org/wiki/ホーム・チーム_\(お笑い\) "wikilink")）
+  - 福島清（フク）：[与座嘉秋](https://ja.wikipedia.org/wiki/与座嘉秋 "wikilink")（[ホーム・チーム](../Page/ホーム・チーム_\(お笑い\).md "wikilink")）
   - 成島五郎：三浦哲郁 現[三浦アキフミ](https://ja.wikipedia.org/wiki/三浦アキフミ "wikilink")
   - 増垣達夫：[柄本佑](../Page/柄本佑.md "wikilink")
   - 書記長：瀬山俊行（[ナイーブ](https://ja.wikipedia.org/wiki/ナイーブ "wikilink")）
   - 城串裕二：[桐谷健太](https://ja.wikipedia.org/wiki/桐谷健太 "wikilink")
   - 江崎：澤田俊輔
   - 白井：宮内陽輔（ヨースケ@HOME）
-  - 相原先生：[嶋田久作](https://ja.wikipedia.org/wiki/嶋田久作 "wikilink")
+  - 相原先生：[嶋田久作](../Page/嶋田久作.md "wikilink")
   - フミ子先生：[峯村リエ](../Page/峯村リエ.md "wikilink")
-  - 川崎先生：[豊原功補](https://ja.wikipedia.org/wiki/豊原功補 "wikilink")
-  - アダチ・独裁者：[森下能幸](https://ja.wikipedia.org/wiki/森下能幸 "wikilink")
-  - 吉岡先生：[小日向文世](https://ja.wikipedia.org/wiki/小日向文世 "wikilink")
-  - 松永先生：[岸部一徳](https://ja.wikipedia.org/wiki/岸部一徳 "wikilink")
-  - 佐々木刑事：[國村隼](https://ja.wikipedia.org/wiki/國村隼 "wikilink")
+  - 川崎先生：[豊原功補](../Page/豊原功補.md "wikilink")
+  - アダチ・独裁者：[森下能幸](../Page/森下能幸.md "wikilink")
+  - 吉岡先生：[小日向文世](../Page/小日向文世.md "wikilink")
+  - 松永先生：[岸部一徳](../Page/岸部一徳.md "wikilink")
+  - 佐々木刑事：[國村隼](../Page/國村隼.md "wikilink")
   - ケンの母：[原日出子](../Page/原日出子.md "wikilink")
   - ケンの父：[柴田恭兵](https://ja.wikipedia.org/wiki/柴田恭兵 "wikilink")
 
@@ -63,7 +63,7 @@
   - [三浦誠己](../Page/三浦誠己.md "wikilink")
   - [千葉哲也](https://ja.wikipedia.org/wiki/千葉哲也 "wikilink")
   - [豊田眞唯](https://ja.wikipedia.org/wiki/豊田眞唯 "wikilink")
-  - [田中哲司](https://ja.wikipedia.org/wiki/田中哲司 "wikilink")
+  - [田中哲司](../Page/田中哲司.md "wikilink")
   - [神戸みゆき](https://ja.wikipedia.org/wiki/神戸みゆき "wikilink")
   - [伊藤洋三郎](../Page/伊藤洋三郎.md "wikilink")
   - [眞島秀和](../Page/眞島秀和.md "wikilink")
@@ -74,8 +74,8 @@
   - 安村昇剛（アームストロング）
   - [橘ユキコ](https://ja.wikipedia.org/wiki/橘ユキコ "wikilink")
   - 上原由恵
-  - [鈴木一功](https://ja.wikipedia.org/wiki/鈴木一功 "wikilink")
-  - [半海一晃](https://ja.wikipedia.org/wiki/半海一晃 "wikilink")
+  - [鈴木一功](../Page/鈴木一功.md "wikilink")
+  - [半海一晃](../Page/半海一晃.md "wikilink")
   - [江口のりこ](../Page/江口のりこ.md "wikilink")
   - ケニー・スコット
   - ピニー・マーティン

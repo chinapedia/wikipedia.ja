@@ -53,16 +53,16 @@
 | 2004年4月28日                                   | JEEP（Remix）                                                 | V.A.『[Hey ANIKI\!](../Page/Hey_ANIKI!.md "wikilink")』                                                                                                                           |
 | 2004年8月18日                                   | Good Dayz                                                   | EXILE「[HEART of GOLD](../Page/HEART_of_GOLD.md "wikilink")」                                                                                                                     |
 | 2004年9月29日                                   | SO FUNKY NOISE                                              | [EXILES](https://ja.wikipedia.org/wiki/EXILES "wikilink")『[HEART of GOLD 〜STREET FUTURE OPERA BEAT POPS〜](../Page/HEART_of_GOLD_〜STREET_FUTURE_OPERA_BEAT_POPS〜.md "wikilink")』 |
-| 2005年3月9日                                    | ACT ON MY STYLE                                             | [MCU](https://ja.wikipedia.org/wiki/MCU_\(ラッパー\) "wikilink")「[ありがとう](https://ja.wikipedia.org/wiki/ありがとう_\(MCUの曲\) "wikilink")」                                                 |
+| 2005年3月9日                                    | ACT ON MY STYLE                                             | [MCU](../Page/MCU_\(ラッパー\).md "wikilink")「[ありがとう](https://ja.wikipedia.org/wiki/ありがとう_\(MCUの曲\) "wikilink")」                                                                    |
 
 ### タイアップ
 
-| 曲名                                                                  | タイアップ                                                                                                                           |
-| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| Winter Bell                                                         | [テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[アドレな\!ガレッジ](../Page/アドレな!ガレッジ.md "wikilink")』2005年1月 - 3月度エンディングテーマ                      |
-| Start Spurt                                                         | [TBS系](../Page/TBSテレビ.md "wikilink")『[オオカミ少年](https://ja.wikipedia.org/wiki/オオカミ少年_\(テレビ番組\) "wikilink")』2005年4月 - 5月度エンディングテーマ |
-| [music.jp](https://ja.wikipedia.org/wiki/music.jp "wikilink") CMソング |                                                                                                                                 |
-| Truth Proof                                                         | music.jp CMソング                                                                                                                  |
+| 曲名                                                                  | タイアップ                                                                                                        |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| Winter Bell                                                         | [テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[アドレな\!ガレッジ](../Page/アドレな!ガレッジ.md "wikilink")』2005年1月 - 3月度エンディングテーマ   |
+| Start Spurt                                                         | [TBS系](../Page/TBSテレビ.md "wikilink")『[オオカミ少年](../Page/オオカミ少年_\(テレビ番組\).md "wikilink")』2005年4月 - 5月度エンディングテーマ |
+| [music.jp](https://ja.wikipedia.org/wiki/music.jp "wikilink") CMソング |                                                                                                              |
+| Truth Proof                                                         | music.jp CMソング                                                                                               |
 
 ## 脚注
 

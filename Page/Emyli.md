@@ -7,7 +7,7 @@
 
 ## プロフィール
 
-[2003年](../Page/2003年.md "wikilink")[6月](../Page/6月.md "wikilink")、15歳でデビュー。音楽に深く関わる両親のもとに生まれたEmyliは、幼少期から[アメリカンスクール](../Page/アメリカンスクール.md "wikilink")に通い、3歳から[バレエ](../Page/バレエ.md "wikilink")、6歳から[ヒップホップ・ダンスを学び](https://ja.wikipedia.org/wiki/ヒップホップ_\(ダンス\) "wikilink")、11歳で本格的に歌い始めたという。好きな音楽は[R\&B](../Page/リズム・アンド・ブルース.md "wikilink")。敬愛する歌手は[マライア・キャリー](https://ja.wikipedia.org/wiki/マライア・キャリー "wikilink")、[アリシア・キーズ](https://ja.wikipedia.org/wiki/アリシア・キーズ "wikilink")。
+[2003年](../Page/2003年.md "wikilink")[6月](../Page/6月.md "wikilink")、15歳でデビュー。音楽に深く関わる両親のもとに生まれたEmyliは、幼少期から[アメリカンスクール](../Page/アメリカンスクール.md "wikilink")に通い、3歳から[バレエ](../Page/バレエ.md "wikilink")、6歳から[ヒップホップ・ダンスを学び](../Page/ヒップホップ_\(ダンス\).md "wikilink")、11歳で本格的に歌い始めたという。好きな音楽は[R\&B](../Page/リズム・アンド・ブルース.md "wikilink")。敬愛する歌手は[マライア・キャリー](https://ja.wikipedia.org/wiki/マライア・キャリー "wikilink")、[アリシア・キーズ](../Page/アリシア・キーズ.md "wikilink")。
 
 2006年6月にアメリカンスクール卒業、2010年9月にｌ[上智大学](../Page/上智大学.md "wikilink")国際教養学部国際教養学科を卒業。趣味は絵画、書道（5段）、読書。楽器は[ピアノ](../Page/ピアノ.md "wikilink")と[ドラムをたしなむ](../Page/ドラムセット.md "wikilink")。
 
@@ -33,7 +33,7 @@
 
 [7月](https://ja.wikipedia.org/wiki/7月 "wikilink")、m-flo loves EMYLI & [YOSHIKA](../Page/YOSHIKA.md "wikilink") のシングル曲、「[Loop In My Heart](https://ja.wikipedia.org/wiki/Loop_In_My_Heart_/_HEY! "wikilink")」（m-flo loves [Akiko Wada](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")「HEY\!」との両A面）をリリース。
 
-この年はm-floのゲスト・ボーカリストとして、「ROCK IN JAPAN FESTIVAL 2005」「[僕らの音楽](https://ja.wikipedia.org/wiki/僕らの音楽 "wikilink")お台場ライブ」「[a-nation](https://ja.wikipedia.org/wiki/a-nation "wikilink") '05 powered by Weider」「[Tokyo Girls Collection](../Page/東京ガールズコレクション.md "wikilink")」等の[ライブイベントに出演](https://ja.wikipedia.org/wiki/演奏会 "wikilink")。
+この年はm-floのゲスト・ボーカリストとして、「ROCK IN JAPAN FESTIVAL 2005」「[僕らの音楽](https://ja.wikipedia.org/wiki/僕らの音楽 "wikilink")お台場ライブ」「[a-nation](https://ja.wikipedia.org/wiki/a-nation "wikilink") '05 powered by Weider」「[Tokyo Girls Collection](../Page/東京ガールズコレクション.md "wikilink")」等の[ライブイベントに出演](../Page/演奏会.md "wikilink")。
 
 [9月](../Page/9月.md "wikilink")、アーティスト名表記をEMYLIからEmyliに変更し、3rdシングル「Come Home」をリリース。
 
@@ -45,9 +45,9 @@
 
 ### 2006年
 
-「INGNI presents"GROOVE COASTER -[ARTIMAGE](https://ja.wikipedia.org/wiki/ARTIMAGE "wikilink") NIGHT in Osaka 2006-"」にm-floのゲスト・ボーカリストとして、[melody.](https://ja.wikipedia.org/wiki/melody. "wikilink")、[加藤ミリヤ](https://ja.wikipedia.org/wiki/加藤ミリヤ "wikilink")と共にゲスト参加。「STARZ LIVE 東京公演」にm-floのゲスト・ボーカリストとして参加。ファッション誌[BLENDA](../Page/BLENDA.md "wikilink")が主催する「Def Deeper'06」にm-floのゲスト・ボーカリストとして参加。
+「INGNI presents"GROOVE COASTER -[ARTIMAGE](../Page/ARTIMAGE.md "wikilink") NIGHT in Osaka 2006-"」にm-floのゲスト・ボーカリストとして、[melody.](https://ja.wikipedia.org/wiki/melody. "wikilink")、[加藤ミリヤ](https://ja.wikipedia.org/wiki/加藤ミリヤ "wikilink")と共にゲスト参加。「STARZ LIVE 東京公演」にm-floのゲスト・ボーカリストとして参加。ファッション誌[BLENDA](../Page/BLENDA.md "wikilink")が主催する「Def Deeper'06」にm-floのゲスト・ボーカリストとして参加。
 
-「CROSSOVER JAM '06」にて[ドン・グルーシン](../Page/ドン・グルーシン.md "wikilink")、[シャカタク](../Page/シャカタク.md "wikilink")のビル・シャープ、[渡辺香津美](https://ja.wikipedia.org/wiki/渡辺香津美 "wikilink")らと共演。[K-POP](https://ja.wikipedia.org/wiki/K-POP "wikilink")グループ[神話のアルバム](../Page/神話_\(音楽グループ\).md "wikilink")『Inspiration ＃1』に収録されている「HIGHWAY STAR -Featuring Vocal Emyli-」にゲスト・ボーカリストとして参加。
+「CROSSOVER JAM '06」にて[ドン・グルーシン](../Page/ドン・グルーシン.md "wikilink")、[シャカタク](../Page/シャカタク.md "wikilink")のビル・シャープ、[渡辺香津美](../Page/渡辺香津美.md "wikilink")らと共演。[K-POP](https://ja.wikipedia.org/wiki/K-POP "wikilink")グループ[神話のアルバム](../Page/神話_\(音楽グループ\).md "wikilink")『Inspiration ＃1』に収録されている「HIGHWAY STAR -Featuring Vocal Emyli-」にゲスト・ボーカリストとして参加。
 
 [10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、アップフロントワークスの新レーベルSeventh Codeより、移籍第1弾シングル｢Don’t Vanish Love｣をリリース。
 
@@ -71,13 +71,13 @@ m-floのライブツアー「m-flo TOUR 2007 COSMICOLOR」に全会場出演。
 
 ### 2009年
 
-[11月](../Page/11月.md "wikilink")、m-floの10周年ライブに、[国立代々木競技場](https://ja.wikipedia.org/wiki/国立代々木競技場 "wikilink")でLoves アーティストとして参加。
+[11月](../Page/11月.md "wikilink")、m-floの10周年ライブに、[国立代々木競技場](../Page/国立代々木競技場.md "wikilink")でLoves アーティストとして参加。
 
 ### 2010年
 
 [4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、7th シングル「Take Me Away」を [ITunes](../Page/ITunes.md "wikilink")等で配信限定リリース。
 
-[MAKAI](https://ja.wikipedia.org/wiki/MAKAI "wikilink")のアルバム「LOVE LITE」の「Your \#1」(MAKAI feat. Emyli & [WISE](https://ja.wikipedia.org/wiki/WISE "wikilink"))と「I Belong 2 U」(MAKAI feat. Emyli＆日乃内エミ＆宏美)に参加。
+[MAKAI](https://ja.wikipedia.org/wiki/MAKAI "wikilink")のアルバム「LOVE LITE」の「Your \#1」(MAKAI feat. Emyli & [WISE](../Page/WISE.md "wikilink"))と「I Belong 2 U」(MAKAI feat. Emyli＆日乃内エミ＆宏美)に参加。
 
 [7月](https://ja.wikipedia.org/wiki/7月 "wikilink")、8th シングル「Wanna Dance」を iTunes 等で配信限定リリース。
 
@@ -91,7 +91,7 @@ MAKAIの「LOVE LITE」ツアーファイナル、「LOVE LITE RELEASE TOUR THE 
 
 ### 2011年
 
-[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")、[Berryz工房](../Page/Berryz工房.md "wikilink")、[五木ひろし](https://ja.wikipedia.org/wiki/五木ひろし "wikilink")等、アップフロントエージェンシー所属全タレントと「がんばろうニッポン　愛は勝つ」のチャリティCDをリリース。
+[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")、[Berryz工房](../Page/Berryz工房.md "wikilink")、[五木ひろし](../Page/五木ひろし.md "wikilink")等、アップフロントエージェンシー所属全タレントと「がんばろうニッポン　愛は勝つ」のチャリティCDをリリース。
 
 ### 2012年
 
@@ -126,7 +126,7 @@ RADICAL HARDCORE CLIQUE の「Choke」にフィーチャリングボーカリス
 <li>Rain
 <ul>
 <li>作詞：EMYLI／作曲：Yukoh Kusunoki／編曲：Hitoshi Harukawa</li>
-<li><a href="../Page/TBSテレビ.md" title="wikilink">TBS系列</a><a href="https://ja.wikipedia.org/wiki/COUNT_DOWN_TV" title="wikilink">COUNT DOWN TVオープニングテーマ</a></li>
+<li><a href="../Page/TBSテレビ.md" title="wikilink">TBS系列</a><a href="../Page/COUNT_DOWN_TV.md" title="wikilink">COUNT DOWN TVオープニングテーマ</a></li>
 </ul></li>
 <li>MARIA
 <ul>
@@ -302,7 +302,7 @@ RADICAL HARDCORE CLIQUE の「Choke」にフィーチャリングボーカリス
   - HIGHWAY STAR -Featuring Vocal Emyli- / [神話](../Page/神話_\(音楽グループ\).md "wikilink")
   - love comes and goes / m-flo loves [日之内エミ](https://ja.wikipedia.org/wiki/日之内エミ "wikilink") & [Ryohei](../Page/Ryohei.md "wikilink") & Emyli & YOSHIKA & [LISA](../Page/LISA_\(歌手\).md "wikilink") [MV](https://www.youtube.com/watch?v=56FOKrCS-aM)
   - I Belong 2 U / [MAKAI](https://ja.wikipedia.org/wiki/MAKAI "wikilink") feat. 日之内エミ & Emyli & [宏実](https://ja.wikipedia.org/wiki/宏実 "wikilink")
-  - Your \#1 / MAKAI feat. Emyli & [WISE](https://ja.wikipedia.org/wiki/WISE "wikilink")
+  - Your \#1 / MAKAI feat. Emyli & [WISE](../Page/WISE.md "wikilink")
   - Champion / TCY FORCE feat. Emyli
   - come on & Let's go / [BACK-ON](../Page/BACK-ON.md "wikilink") feat. Emyli, kailis from OVERDOSE
   - Choke / Radical Hardcore Clique feat. Emyli
@@ -388,11 +388,11 @@ RADICAL HARDCORE CLIQUE の「Choke」にフィーチャリングボーカリス
 
 ## その他
 
-  - 2003年のデビュー・コンベンションでは、アリシア・キーズの「Fallin'」、[スティーヴィー・ワンダー](../Page/スティーヴィー・ワンダー.md "wikilink")の「Lately」、デビューシングル「Rain」のEnglish Version、[クリスティーナ・アギレラ](https://ja.wikipedia.org/wiki/クリスティーナ・アギレラ "wikilink")の「遠く離れて〜コンティゴ・エン・ラ・ディスタンシア」を歌った。
+  - 2003年のデビュー・コンベンションでは、アリシア・キーズの「Fallin'」、[スティーヴィー・ワンダー](../Page/スティーヴィー・ワンダー.md "wikilink")の「Lately」、デビューシングル「Rain」のEnglish Version、[クリスティーナ・アギレラ](../Page/クリスティーナ・アギレラ.md "wikilink")の「遠く離れて〜コンティゴ・エン・ラ・ディスタンシア」を歌った。
   - 「The Other Side of Love」にて名義が"Sister E"となっているのは、原曲を歌っていた[坂本美雨](https://ja.wikipedia.org/wiki/坂本美雨 "wikilink")（[坂本龍一](../Page/坂本龍一.md "wikilink")の娘）の名義、"Sister M"に対するオマージュである。また、この曲は「[let go](https://ja.wikipedia.org/wiki/let_go_\(m-floの曲\) "wikilink") / m-flo loves YOSHIKA」のカップリング曲であるのと同時に、次回シングルのlovesアーティスト予告でもあったため名前が明かせなかった、という事情もあった。
   - 「Come Home」リリース時にアーティスト名表記が全部大文字の "EMYLI" から頭だけ大文字の "Emyli" に変わったが、変更の理由は「Emyli の方が女っぽいから」。
   - 「DOPAMINE」に "SHE'S ONLY SIXTEEN" というリリックがあるが、m-floのBEAT SPACE NINE TOUR 2005時にはEmyli は17歳であった。そこで、ツアー中にDiggy-MO' の代役を務めていた[山本領平が](../Page/Ryohei.md "wikilink") "SHE'S ONLY SEVENTEEN" と歌ったことによって、以後は "SEVENTEEN" が定着した。Diggy-MO'も「HMV 15th Anniversary presents ARTIMAGE NIGHT 2005」にて "SEVENTEEN" で歌っている（BEAT SPACE NINE TOUR FINAL@武道館では "SIXTEEN"）。
-  - m-floの「BEAT SPACE NINE TOUR 2005」では自身のフィーチャリング曲の他に[BENNIE K](https://ja.wikipedia.org/wiki/BENNIE_K "wikilink")、[Monday満ちる](https://ja.wikipedia.org/wiki/Monday満ちる "wikilink")、[kahimi karie](https://ja.wikipedia.org/wiki/カヒミ・カリィ "wikilink") のフィーチャリング曲をカバーしている。
+  - m-floの「BEAT SPACE NINE TOUR 2005」では自身のフィーチャリング曲の他に[BENNIE K](https://ja.wikipedia.org/wiki/BENNIE_K "wikilink")、[Monday満ちる](https://ja.wikipedia.org/wiki/Monday満ちる "wikilink")、[kahimi karie](../Page/カヒミ・カリィ.md "wikilink") のフィーチャリング曲をカバーしている。
   - 「Def Deeper '06」ではm-floの代表曲の一つ「[miss you](https://ja.wikipedia.org/wiki/miss_you_\(m-floの曲\) "wikilink")」にてmelody.の代役を務めている。
 
 ## 外部リンク

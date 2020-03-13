@@ -3,7 +3,7 @@
 
 **1991 CONCACAFゴールドカップ** (1991 CONCACAF Gold Cup) は、北中米およびカリブ海諸島の国々によって争われる、[北中米カリブ海サッカー連盟](../Page/北中米カリブ海サッカー連盟.md "wikilink") (CONCACAF) 主催の、第1回目の[CONCACAFゴールドカップ](../Page/CONCACAFゴールドカップ.md "wikilink")である。
 
-この大会は、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")の[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")と[パサディナで開催された](https://ja.wikipedia.org/wiki/パサデナ_\(カリフォルニア州\) "wikilink")。参加した8カ国は4カ国ずつ2つのグループに分けられ、各グループ上位2カ国の計4カ国が準決勝へ進出する。決勝では[アメリカが](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ホンジュラス](https://ja.wikipedia.org/wiki/ホンジュラス "wikilink")をPK戦で下し、初優勝を決めた。
+この大会は、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")の[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")と[パサディナで開催された](../Page/パサデナ_\(カリフォルニア州\).md "wikilink")。参加した8カ国は4カ国ずつ2つのグループに分けられ、各グループ上位2カ国の計4カ国が準決勝へ進出する。決勝では[アメリカが](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ホンジュラス](https://ja.wikipedia.org/wiki/ホンジュラス "wikilink")をPK戦で下し、初優勝を決めた。
 
 ## グループラウンド
 

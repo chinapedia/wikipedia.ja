@@ -303,7 +303,7 @@
 
 ## 準決勝
 
-[2003年](../Page/2003年.md "wikilink")[7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink")
+[2003年](../Page/2003年.md "wikilink")[7月23日](../Page/7月23日.md "wikilink")
 
 <table>
 <tbody>

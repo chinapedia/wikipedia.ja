@@ -6,7 +6,7 @@
 ## 来歴
 
   - [1996年](../Page/1996年.md "wikilink")[6月12日](../Page/6月12日.md "wikilink")にシングル『愛よりも激しく、誰よりも愛しく』でデビュー。
-  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[2月5日](../Page/2月5日.md "wikilink")に発売された1stアルバム『DREAM & MEMORIES』、 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月18日](../Page/2月18日.md "wikilink")に発売された2ndアルバム『Missing place』では立て続けに[オリコンアルバムウィークリーチャートで](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位を獲得した\[1\]。
+  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[2月5日](../Page/2月5日.md "wikilink")に発売された1stアルバム『DREAM & MEMORIES』、 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月18日](../Page/2月18日.md "wikilink")に発売された2ndアルバム『Missing place』では立て続けに[オリコンアルバムウィークリーチャートで](../Page/オリコンチャート.md "wikilink")1位を獲得した\[1\]。
   - [1999年](../Page/1999年.md "wikilink")6月、 初の全国ツアー「LIVE CIRCUIT'99」を開催。 開催地は福岡ドラムロゴス（6/10）、 名古屋クラブクワトロ（6/12）、大阪クラブクワトロ（6/13）、広島ナミキジャンクション（6/15）、東京クラブクワトロ（6/18）の5ヵ所。
   - [2000年](../Page/2000年.md "wikilink")のベストアルバムリリースを最後に活動停止。同年[2月2日](../Page/2月2日.md "wikilink")に発売された『FB BEST～eternal pictures～』は[エイベックスがリリースした最初のDVD](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")-Video作品となった。
   - 2002年5月に[m.o.v.e](https://ja.wikipedia.org/wiki/m.o.v.e "wikilink")のホームページでFavorite Blue木村貴志として正式に活動終了を表明。4thアルバム「solitude」の制作終了時に松崎の方からFavorite Blueとしての活動を終わらせたいとの話があったとのこと。
@@ -60,14 +60,14 @@ ANB系「桃かん」テーマソング</small></p></td>
 <td><p><small>1997年4月30日</small></p></td>
 <td><p>Movin'oN</p></td>
 <td><p><small>30位</small></p></td>
-<td><p><small>ANB系「<a href="https://ja.wikipedia.org/wiki/目撃!ドキュン" title="wikilink">目撃!ドキュン</a>」エンディングテーマ</small></p></td>
+<td><p><small>ANB系「<a href="../Page/目撃!ドキュン.md" title="wikilink">目撃!ドキュン</a>」エンディングテーマ</small></p></td>
 </tr>
 <tr class="odd">
 <td><p><small>5th</small></p></td>
 <td><p><small>1997年7月30日</small></p></td>
 <td><p>Change by me</p></td>
 <td><p><small>28位</small></p></td>
-<td><p><small>花王「<a href="https://ja.wikipedia.org/wiki/ソフィーナ" title="wikilink">ソフィーナ オーブ ルージュ ドレシャス</a>」CMソング</small></p></td>
+<td><p><small>花王「<a href="../Page/ソフィーナ.md" title="wikilink">ソフィーナ オーブ ルージュ ドレシャス</a>」CMソング</small></p></td>
 </tr>
 <tr class="even">
 <td><p><small>6th</small></p></td>
@@ -81,7 +81,7 @@ ANB系「桃かん」テーマソング</small></p></td>
 <td><p><small>1997年12月3日</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/さよならより永遠の中で" title="wikilink">さよならより永遠の中で</a></p></td>
 <td><p><small>29位</small></p></td>
-<td><p><small>東映配給「<a href="https://ja.wikipedia.org/wiki/北京原人_Who_are_you?" title="wikilink">北京原人 Who are you?</a>」主題歌</small></p></td>
+<td><p><small>東映配給「<a href="../Page/北京原人_Who_are_you?.md" title="wikilink">北京原人 Who are you?</a>」主題歌</small></p></td>
 </tr>
 <tr class="even">
 <td><p><small>8th</small></p></td>

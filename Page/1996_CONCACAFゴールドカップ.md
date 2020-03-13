@@ -3,7 +3,7 @@
 
 **1996 CONCACAFゴールドカップ** (1996 CONCACAF Gold Cup) は、北中米およびカリブ海諸島の国々によって争われる、[北中米カリブ海サッカー連盟](../Page/北中米カリブ海サッカー連盟.md "wikilink") (CONCACAF) 主催の、第3回目の[CONCACAFゴールドカップ](../Page/CONCACAFゴールドカップ.md "wikilink")である。
 
-この大会は、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")の[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")、[サンディエゴ](../Page/サンディエゴ.md "wikilink")、[アナハイム](https://ja.wikipedia.org/wiki/アナハイム "wikilink")で開催された。大会の形式は[1993年から変更され](../Page/1993_CONCACAFゴールドカップ.md "wikilink")、参加した9カ国は3カ国ずつ3つのグループに分けられ、各グループ1位の国と、各グループ2位の国のうち成績上位1カ国の、計4カ国が準決勝へ進出する。この大会では、[北中米カリブ海サッカー連盟](../Page/北中米カリブ海サッカー連盟.md "wikilink")以外の国として[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")が招待され、23歳以下の代表チーム (U-23) が出場した。決勝では[メキシコ](../Page/メキシコ.md "wikilink")が[ブラジル U-23を](https://ja.wikipedia.org/wiki/ブラジル "wikilink")2-0で下し、2大会連続2回目の優勝を決めた。
+この大会は、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")の[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")、[サンディエゴ](../Page/サンディエゴ.md "wikilink")、[アナハイム](../Page/アナハイム.md "wikilink")で開催された。大会の形式は[1993年から変更され](../Page/1993_CONCACAFゴールドカップ.md "wikilink")、参加した9カ国は3カ国ずつ3つのグループに分けられ、各グループ1位の国と、各グループ2位の国のうち成績上位1カ国の、計4カ国が準決勝へ進出する。この大会では、[北中米カリブ海サッカー連盟](../Page/北中米カリブ海サッカー連盟.md "wikilink")以外の国として[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")が招待され、23歳以下の代表チーム (U-23) が出場した。決勝では[メキシコ](../Page/メキシコ.md "wikilink")が[ブラジル U-23を](https://ja.wikipedia.org/wiki/ブラジル "wikilink")2-0で下し、2大会連続2回目の優勝を決めた。
 
 ## グループラウンド
 

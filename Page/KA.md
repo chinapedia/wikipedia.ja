@@ -10,8 +10,8 @@
 
 ## 正式名称
 
-  - **Ka**（カァ） - [フォードの小型車](../Page/フォード・モーター.md "wikilink") ⇒ **[フォード・Ka](https://ja.wikipedia.org/wiki/フォード・Ka "wikilink")**
-  - **Kà**（カー） - [シルク・ドゥ・ソレイユ](https://ja.wikipedia.org/wiki/シルク・ドゥ・ソレイユ "wikilink")の常設公演。
+  - **Ka**（カァ） - [フォードの小型車](../Page/フォード・モーター.md "wikilink") ⇒ **[フォード・Ka](../Page/フォード・Ka.md "wikilink")**
+  - **Kà**（カー） - [シルク・ドゥ・ソレイユ](../Page/シルク・ドゥ・ソレイユ.md "wikilink")の常設公演。
 
 ## 略語・略称
 
@@ -25,7 +25,7 @@
 
 ## コード・形式名
 
-  - [言語コード](https://ja.wikipedia.org/wiki/ISO_639 "wikilink")（ISO 639-1）で、[グルジア語](https://ja.wikipedia.org/wiki/グルジア語 "wikilink") (kartuli ena)を示す
+  - [言語コード](../Page/ISO_639.md "wikilink")（ISO 639-1）で、[グルジア語](https://ja.wikipedia.org/wiki/グルジア語 "wikilink") (kartuli ena)を示す
   - [IATA航空会社コードで](../Page/航空会社コード.md "wikilink")、[香港ドラゴン航空](https://ja.wikipedia.org/wiki/香港ドラゴン航空 "wikilink") (Dragonair) を示す
   - [日本の海外渡航用ナンバープレートで](../Page/国際ナンバー.md "wikilink")、「[香](../Page/香川県.md "wikilink")」 (Kagawa) の代わりに使う記号。
   - [漁船](../Page/漁船.md "wikilink")の登録番号において[香川県](../Page/香川県.md "wikilink")を表す識別標（漁船法施行規則13条・付録第二）

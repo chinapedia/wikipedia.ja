@@ -23,12 +23,12 @@
 
   - [HOME (アンジェラ・アキの曲)](../Page/HOME_\(アンジェラ・アキの曲\).md "wikilink") - [アンジェラ・アキ](https://ja.wikipedia.org/wiki/アンジェラ・アキ "wikilink")のシングル曲。アルバム『Home』にも収録。
   - [home (木山裕策の曲)](https://ja.wikipedia.org/wiki/home_\(木山裕策の曲\) "wikilink") - [木山裕策](../Page/木山裕策.md "wikilink")のシングル曲。
-  - [HOME (榊いずみの曲)](https://ja.wikipedia.org/wiki/HOME_\(榊いずみの曲\) "wikilink") - [榊いずみ](../Page/榊いずみ.md "wikilink")の配信シングル曲。
+  - [HOME (榊いずみの曲)](../Page/HOME_\(榊いずみの曲\).md "wikilink") - [榊いずみ](../Page/榊いずみ.md "wikilink")の配信シングル曲。
   - [HOME (清水翔太の曲)](https://ja.wikipedia.org/wiki/HOME_\(清水翔太の曲\) "wikilink") - [清水翔太](../Page/清水翔太.md "wikilink")のシングル曲。
   - home - [SoulJa](https://ja.wikipedia.org/wiki/SoulJa "wikilink")×Misslimの曲。シングル「[記念日・home](https://ja.wikipedia.org/wiki/記念日・home "wikilink")」に収録。
   - [HOME (曽根由希江の曲)](https://ja.wikipedia.org/wiki/HOME_\(曽根由希江の曲\) "wikilink") - [曽根由希江](../Page/曽根由希江.md "wikilink")のシングル曲。
   - [HOME (B'zの曲)](../Page/HOME_\(B'zの曲\).md "wikilink") - [B'z](../Page/B'z.md "wikilink")のシングル曲。
   - [Home (米倉千尋の曲)](https://ja.wikipedia.org/wiki/Home_\(米倉千尋の曲\) "wikilink") - [米倉千尋](https://ja.wikipedia.org/wiki/米倉千尋 "wikilink")のシングル曲。
-  - [Home (Rie fuの曲)](https://ja.wikipedia.org/wiki/Home_\(Rie_fuの曲\) "wikilink") - [Rie fuのシングル曲](https://ja.wikipedia.org/wiki/Rie_fu "wikilink")。
+  - [Home (Rie fuの曲)](https://ja.wikipedia.org/wiki/Home_\(Rie_fuの曲\) "wikilink") - [Rie fuのシングル曲](../Page/Rie_fu.md "wikilink")。
   - HOME - [WANIMA](https://ja.wikipedia.org/wiki/WANIMA "wikilink")の楽曲。アルバム『Can Not Behaved\!\!』に収録。
   - [Home (Lugz\&Jeraの曲)](https://ja.wikipedia.org/wiki/Home_\(Lugz&Jeraの曲\) "wikilink") - [Lugz\&Jera](https://ja.wikipedia.org/wiki/Lugz&Jera "wikilink")のシングル曲。

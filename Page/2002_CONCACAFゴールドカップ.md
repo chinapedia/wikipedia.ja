@@ -3,7 +3,7 @@
 
 **2002 CONCACAFゴールドカップ** (2002 CONCACAF Gold Cup) は、北中米およびカリブ海諸島の国々によって争われる、[北中米カリブ海サッカー連盟](../Page/北中米カリブ海サッカー連盟.md "wikilink") (CONCACAF) 主催の、第6回目の[CONCACAFゴールドカップ](../Page/CONCACAFゴールドカップ.md "wikilink")である。
 
-この大会は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[マイアミ](../Page/マイアミ.md "wikilink")と[パサディナで開催された](https://ja.wikipedia.org/wiki/パサデナ_\(カリフォルニア州\) "wikilink")。大会の形式は[2000年と同様であり](../Page/2000_CONCACAFゴールドカップ.md "wikilink")、参加した12カ国は3カ国ずつ4つのグループに分けられ、各グループ上位2カ国の計8カ国が準々決勝へ進出する。この大会では、[北中米カリブ海サッカー連盟](../Page/北中米カリブ海サッカー連盟.md "wikilink")以外の国として[エクアドルと](../Page/サッカーエクアドル代表.md "wikilink")[韓国が招待された](../Page/サッカー大韓民国代表.md "wikilink")。決勝では[アメリカ合衆国が](../Page/サッカーアメリカ合衆国代表.md "wikilink")[コスタリカを](../Page/サッカーコスタリカ代表.md "wikilink")2-0で下し、[1991年以来](../Page/1991_CONCACAFゴールドカップ.md "wikilink")5大会ぶり2回目の優勝を決めた。
+この大会は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[マイアミ](../Page/マイアミ.md "wikilink")と[パサディナで開催された](../Page/パサデナ_\(カリフォルニア州\).md "wikilink")。大会の形式は[2000年と同様であり](../Page/2000_CONCACAFゴールドカップ.md "wikilink")、参加した12カ国は3カ国ずつ4つのグループに分けられ、各グループ上位2カ国の計8カ国が準々決勝へ進出する。この大会では、[北中米カリブ海サッカー連盟](../Page/北中米カリブ海サッカー連盟.md "wikilink")以外の国として[エクアドルと](../Page/サッカーエクアドル代表.md "wikilink")[韓国が招待された](../Page/サッカー大韓民国代表.md "wikilink")。決勝では[アメリカ合衆国が](../Page/サッカーアメリカ合衆国代表.md "wikilink")[コスタリカを](../Page/サッカーコスタリカ代表.md "wikilink")2-0で下し、[1991年以来](../Page/1991_CONCACAFゴールドカップ.md "wikilink")5大会ぶり2回目の優勝を決めた。
 
 ## グループラウンド
 

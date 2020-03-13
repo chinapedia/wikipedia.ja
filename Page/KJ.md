@@ -10,7 +10,7 @@
 ## 正式名称
 
   - **KJ** - 『[建設ジャーナル](http://www.kj-p.co.jp/)』を出版する日本の出版社。
-  - **Kj** - [Dragon Ashの](../Page/Dragon_Ash.md "wikilink")[リーダー](https://ja.wikipedia.org/wiki/リーダー "wikilink")・[降谷建志](https://ja.wikipedia.org/wiki/降谷建志 "wikilink")の別名義
+  - **Kj** - [Dragon Ashの](../Page/Dragon_Ash.md "wikilink")[リーダー](https://ja.wikipedia.org/wiki/リーダー "wikilink")・[降谷建志](../Page/降谷建志.md "wikilink")の別名義
   - **K.J.** - [KOHEI JAPANの別名義](../Page/KOHEI_JAPAN.md "wikilink")
   - **KJ** - [EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")の[ダンサー](https://ja.wikipedia.org/wiki/ダンサー "wikilink")・[KEIJI](https://ja.wikipedia.org/wiki/KEIJI "wikilink")がFULCRUM在籍時に使っていた名義。
 
@@ -27,11 +27,11 @@
       - 建築ジャーナル社が出版する『建築ジャーナル』 [2](http://www.kj-web.or.jp/) の略
       - 株式会社KJが出版する『建設ジャーナル』 [3](http://www.kj-p.co.jp/) の略
   - 人名
-      - [ケビン・ジョンソン](https://ja.wikipedia.org/wiki/ケビン・ジョンソン "wikilink") - 元[バスケットボール](../Page/バスケットボール.md "wikilink")選手
+      - [ケビン・ジョンソン](../Page/ケビン・ジョンソン.md "wikilink") - 元[バスケットボール](../Page/バスケットボール.md "wikilink")選手
       - [KJヌーンズ](https://ja.wikipedia.org/wiki/KJヌーンズ "wikilink") - [総合格闘家](https://ja.wikipedia.org/wiki/総合格闘家 "wikilink")、[プロボクサー](../Page/プロボクサー.md "wikilink")
-      - KJ 松井 - バスケットボール選手、[松井啓十郎](../Page/松井啓十郎.md "wikilink")の過去の[登録名](https://ja.wikipedia.org/wiki/登録名 "wikilink")
+      - KJ 松井 - バスケットボール選手、[松井啓十郎](../Page/松井啓十郎.md "wikilink")の過去の[登録名](../Page/登録名.md "wikilink")
   - 学校名
-      - [新潟県立国際情報高等学校](https://ja.wikipedia.org/wiki/新潟県立国際情報高等学校 "wikilink") (**K**okusai **J**oho High School)の略称、愛称。
+      - [新潟県立国際情報高等学校](../Page/新潟県立国際情報高等学校.md "wikilink") (**K**okusai **J**oho High School)の略称、愛称。
 
 ## コード・形式名
 

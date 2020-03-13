@@ -13,7 +13,7 @@
 
 ## ビジネス分野
 
-  - [商品ライフサイクルマネジメント](https://ja.wikipedia.org/wiki/商品ライフサイクルマネジメント "wikilink") ([Product life cycle management](https://ja.wikipedia.org/wiki/:en:Product_life_cycle_management "wikilink"))
+  - [商品ライフサイクルマネジメント](../Page/商品ライフサイクルマネジメント.md "wikilink") ([Product life cycle management](https://ja.wikipedia.org/wiki/:en:Product_life_cycle_management "wikilink"))
 
 <!-- end list -->
 
@@ -35,7 +35,7 @@
 
 ## 言語学分野
 
-  - [プラハ学派](https://ja.wikipedia.org/wiki/プラハ学派 "wikilink") ([Prague linguistic circle](https://ja.wikipedia.org/wiki/:en:Prague_linguistic_circle "wikilink"))
+  - [プラハ学派](../Page/プラハ学派.md "wikilink") ([Prague linguistic circle](https://ja.wikipedia.org/wiki/:en:Prague_linguistic_circle "wikilink"))
   - [Phonetic loan characte](https://ja.wikipedia.org/wiki/:en:Phonetic_loan_characte "wikilink")
 
 ## 教育分野
@@ -46,4 +46,4 @@
 
 ## その他
 
-  - [Psycho le Cemu](https://ja.wikipedia.org/wiki/Psycho_le_Cemu "wikilink")（サイコ・ル・シェイム）-日本のロックバンド。
+  - [Psycho le Cemu](../Page/Psycho_le_Cemu.md "wikilink")（サイコ・ル・シェイム）-日本のロックバンド。

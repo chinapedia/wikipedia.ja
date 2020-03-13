@@ -11,20 +11,20 @@
       - [1月7日](../Page/1月7日.md "wikilink") - 2ndシングル『[around the world](https://ja.wikipedia.org/wiki/around_the_world_\(m.o.v.eの曲\) "wikilink")』発売。
       - TAIPEI J-DANCE FESTIVALでは初海外パフォーマンスを約3万人の前で実現させる。\[1\]
   - [2001年](../Page/2001年.md "wikilink")
-      - 10thシングル『[Gamble Rumble](../Page/Gamble_Rumble.md "wikilink")』が[オリコンウィークリーチャートで自身初のトップ](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")10に入る。
+      - 10thシングル『[Gamble Rumble](../Page/Gamble_Rumble.md "wikilink")』が[オリコンウィークリーチャートで自身初のトップ](../Page/オリコンチャート.md "wikilink")10に入る。
   - [2003年](../Page/2003年.md "wikilink")
       - ダラスにて行われたAnimeFESTS\!2003に出演。\[2\]
       - 10月から11月に掛けてライブツアー「DECADANCE PARADE'03」を行う。全8回公演。
   - [2004年](../Page/2004年.md "wikilink")
       - [8月4日](../Page/8月4日.md "wikilink") - Hip Hopとロックを融合したGhetto Rockナンバー『[GHETTO BLASTER](../Page/GHETTO_BLASTER.md "wikilink")』をリリース。この楽曲を機にメジャーで活動する幾つかのRap Rockグループからプロデュース依頼を受けたり、同年発売されたアルバムDeep Calmでは突如としてゴシック、[インダストリアルメタルサウンドを全面的に投入](https://ja.wikipedia.org/wiki/インダストリアル・メタル "wikilink")、ヘヴィーメタル専門誌等で絶賛される。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
       - アメリカ進出に伴う商標登録上の問題により**move**から**m.o.v.e**にユニット名を変更。ほぼ時期を同じくして、4ヶ月連続リリースを開始。米iTunes Storeでも楽曲販売が開始される。\[3\]
       - 23rdシングル『[FREAKY PLANET](../Page/FREAKY_PLANET.md "wikilink")』が米ソニーが提供するグローバルオンライン・リミックスコンテストのAcid Planetに抜擢される。日本人アーティストとしては初めての参加。\[4\]
   - [2006年](../Page/2006年.md "wikilink")
       - 1月に4ヶ月連続リリースのシングルを含んだ8thアルバム、『[GRID](../Page/GRID.md "wikilink")』をリリース。この後1年半近く、新曲のリリースが行われなかった。
   - [2007年](../Page/2007年.md "wikilink")
       - ドイツ、カッセルで開催されたConnichi2007に出演。4月にはアメリカ、シアトルで開催されたSakura-Con2007に単独出演し約4000人を動員。そのファンが楽曲にあわせてジャンプを始めた為、会場であるコンベンションセンターの建物全体に地震の様な揺れが発生。ライブ会場に設置された4つの巨大スクリーンが落下する危険性も発生し、スタッフ数十人が人力で支えながらの中で演奏が続行された。
-      - 28thシングル『[SPEED MASTER](../Page/SPEED_MASTER.md "wikilink")』において、[8-BALL](../Page/8-BALL.md "wikilink")との[コラボレーション](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")に挑戦。他アーティストとの[コラボレーション](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")は、今作が初である。国内では[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")に[日本武道館](../Page/日本武道館.md "wikilink")で行われた[Animelo Summer Live](https://ja.wikipedia.org/wiki/Animelo_Summer_Live "wikilink") 2007 -Generation-A-に初のアニメイベント出演。10月に10周年を迎え、同月3日に記念アルバムとして『[10th Anniversary MEGA BEST](../Page/10th_Anniversary_MEGA_BEST.md "wikilink")』（CD+DVDの限定盤とCDのみの通常盤）と『[10th Anniversary GIGA BEST](../Page/10th_Anniversary_GIGA_BEST.md "wikilink")』(DVD)を同時リリースした。
+      - 28thシングル『[SPEED MASTER](../Page/SPEED_MASTER.md "wikilink")』において、[8-BALL](../Page/8-BALL.md "wikilink")との[コラボレーション](../Page/コラボレーション.md "wikilink")に挑戦。他アーティストとの[コラボレーション](../Page/コラボレーション.md "wikilink")は、今作が初である。国内では[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")に[日本武道館](../Page/日本武道館.md "wikilink")で行われた[Animelo Summer Live](https://ja.wikipedia.org/wiki/Animelo_Summer_Live "wikilink") 2007 -Generation-A-に初のアニメイベント出演。10月に10周年を迎え、同月3日に記念アルバムとして『[10th Anniversary MEGA BEST](../Page/10th_Anniversary_MEGA_BEST.md "wikilink")』（CD+DVDの限定盤とCDのみの通常盤）と『[10th Anniversary GIGA BEST](../Page/10th_Anniversary_GIGA_BEST.md "wikilink")』(DVD)を同時リリースした。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")
       - 3月 - 10周年記念の一環でSHIBUYA CLUB QUATTROにて行われた『[10 YEARS ANNIVERSARY MEGALOPOLIS TOUR 2008 LIVE CD at SHIBUYA CLUB QUATTRO](https://ja.wikipedia.org/wiki/10_YEARS_ANNIVERSARY_MEGALOPOLIS_TOUR_2008_LIVE_CD_at_SHIBUYA_CLUB_QUATTRO "wikilink")』(CD)と『[10 YEARS ANNIVERSARY MEGALOPOLIS TOUR 2008 LIVE DVD at SHIBUYA CLUB QUATTRO](https://ja.wikipedia.org/wiki/10_YEARS_ANNIVERSARY_MEGALOPOLIS_TOUR_2008_LIVE_DVD_at_SHIBUYA_CLUB_QUATTRO "wikilink")』(DVD)をリリースした。[Wonder Gooにて購入した購入者には初回特典として](../Page/ワンダーコーポレーション.md "wikilink")『[雷鳴-out of kontrol-](../Page/雷鳴-out_of_kontrol-.md "wikilink")』のPVにて登場した赤のRX-7(FD3S)のチョロQとスペシャルライブの応募ハガキが付いてくる。
       - [5月11日](../Page/5月11日.md "wikilink") - Wonder Goo 守谷店内のGoostにてスペシャルライブを行った。15:00～と17:00～の2部構成で行われ、『[10 YEARS ANNIVERSARY MEGALOPOLIS TOUR 2008 LIVE CD at SHIBUYA CLUB QUATTRO](https://ja.wikipedia.org/wiki/10_YEARS_ANNIVERSARY_MEGALOPOLIS_TOUR_2008_LIVE_CD_at_SHIBUYA_CLUB_QUATTRO "wikilink")』(CD)と『[10 YEARS ANNIVERSARY MEGALOPOLIS TOUR 2008 LIVE DVD at SHIBUYA CLUB QUATTRO](https://ja.wikipedia.org/wiki/10_YEARS_ANNIVERSARY_MEGALOPOLIS_TOUR_2008_LIVE_DVD_at_SHIBUYA_CLUB_QUATTRO "wikilink")』(DVD)をWonder Gooで購入した購入者を対象に抽選し150組300名が招待された。
@@ -33,7 +33,7 @@
       - [12月2日](../Page/12月2日.md "wikilink") - m.o.v.e公式HPにて、リーダーであるt-kimuraの脱退が発表された。avexとの契約は2008年4月に契約解消していた。アーティスト及び芸能活動を終了とし、プロデューサーに専念するとのこと。m.o.v.eのプロデューサーとしての活動は続け、楽曲制作は行うと言う。
   - [2009年](../Page/2009年.md "wikilink")
       - [1月21日](../Page/1月21日.md "wikilink") - 9枚目のオリジナルアルバム『[Humanizer](https://ja.wikipedia.org/wiki/Humanizer "wikilink")』をリリース。
-      - [4月4日](../Page/4月4日.md "wikilink") - [SHIBUYA-AX](https://ja.wikipedia.org/wiki/SHIBUYA-AX "wikilink")にて『LIVE TRANSFORM 2009』が行われ、[t-kimura](https://ja.wikipedia.org/wiki/t-kimura "wikilink")がアーティストとして表舞台で活動する最後のライブになった。観客はアルバムの『[Humanizer](https://ja.wikipedia.org/wiki/Humanizer "wikilink")』についてくる用紙にかいてあるシリアルナンバーを公式サイトの特設ページに入力し応募することで抽選対象となり、当選者にはメールで当選結果が送られ無料招待となった。応募にもれてもシリアルナンバーを入力することで当日[ニコニコ動画](../Page/ニコニコ動画.md "wikilink")で行われていたLIVEの生放送を閲覧することができた。\[5\]
+      - [4月4日](../Page/4月4日.md "wikilink") - [SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")にて『LIVE TRANSFORM 2009』が行われ、[t-kimura](https://ja.wikipedia.org/wiki/t-kimura "wikilink")がアーティストとして表舞台で活動する最後のライブになった。観客はアルバムの『[Humanizer](https://ja.wikipedia.org/wiki/Humanizer "wikilink")』についてくる用紙にかいてあるシリアルナンバーを公式サイトの特設ページに入力し応募することで抽選対象となり、当選者にはメールで当選結果が送られ無料招待となった。応募にもれてもシリアルナンバーを入力することで当日[ニコニコ動画](../Page/ニコニコ動画.md "wikilink")で行われていたLIVEの生放送を閲覧することができた。\[5\]
       - [8月19日](../Page/8月19日.md "wikilink") - 初のカバーアルバム『[anim.o.v.e 01](https://ja.wikipedia.org/wiki/anim.o.v.e_01 "wikilink")』をリリース。中には新曲もあり、ほとんどが[AKINOや](https://ja.wikipedia.org/wiki/AKINO_\(歌手\) "wikilink")[桃井はるこ](../Page/桃井はるこ.md "wikilink")、[三木眞一郎](https://ja.wikipedia.org/wiki/三木眞一郎 "wikilink")、[ALI PROJECTの](https://ja.wikipedia.org/wiki/ALI_PROJECT "wikilink")[宝野アリカ](https://ja.wikipedia.org/wiki/宝野アリカ "wikilink")らをフィーチャーしたものとなっている。4月4日にSHIBUYA-AXで行われたt-kimuraのラストライブ、『LIVE TRANSFORM 2009』の様子もDVDで収録。
       - [8月23日](../Page/8月23日.md "wikilink") - [さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")で行われた[Animelo Summer Live](https://ja.wikipedia.org/wiki/Animelo_Summer_Live "wikilink") 2009 -RE:BRIDGE-に出演。\[6\] 3年連続の参加。
       - [11月12日](../Page/11月12日.md "wikilink") - 公式サイトにてyuriの結婚＆妊娠を報告。\[7\]
@@ -62,7 +62,7 @@
 
 ## 結成に至る経緯
 
-[Favorite Blueで活躍していた](https://ja.wikipedia.org/wiki/Favorite_Blue "wikilink")[木村貴志が](https://ja.wikipedia.org/wiki/t-kimura "wikilink")、覆面ユニット（実際、結成初期のmoveのラジオ番組では、FBとのデュエット等、セッション企画も進んでいるとmotsuが発言していた）として考えていた計画を実行に移す為に結成。その中で、オーディション番組『[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")』が開催したとあるオーディションに参加していたyuriに着目。そのオーディションは合格者なしという結果だったが、楽曲に非常にマッチしたことからyuriを正式に抜擢した。moveというグループ名の由来は、「一つの音楽性に落ち着かず、つねに何かを追い求める」。そして、「国籍や音楽的な枠組みと言ったジャンルに囚われず常に進化と変化を繰り返す」というプロデューサーであるt-kimuraのコンセプトの元に集合したユニットである。
+[Favorite Blueで活躍していた](../Page/Favorite_Blue.md "wikilink")[木村貴志が](https://ja.wikipedia.org/wiki/t-kimura "wikilink")、覆面ユニット（実際、結成初期のmoveのラジオ番組では、FBとのデュエット等、セッション企画も進んでいるとmotsuが発言していた）として考えていた計画を実行に移す為に結成。その中で、オーディション番組『[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")』が開催したとあるオーディションに参加していたyuriに着目。そのオーディションは合格者なしという結果だったが、楽曲に非常にマッチしたことからyuriを正式に抜擢した。moveというグループ名の由来は、「一つの音楽性に落ち着かず、つねに何かを追い求める」。そして、「国籍や音楽的な枠組みと言ったジャンルに囚われず常に進化と変化を繰り返す」というプロデューサーであるt-kimuraのコンセプトの元に集合したユニットである。
 
 ## 楽曲の特徴
 
@@ -82,11 +82,11 @@
   - [テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")
   - [オルタナティブ・ミュージック](https://ja.wikipedia.org/wiki/オルタナティブ・ミュージック "wikilink")
   - [ゴシックメタル](../Page/ゴシックメタル.md "wikilink")
-  - [シンフォニックメタル](https://ja.wikipedia.org/wiki/シンフォニックメタル "wikilink")
+  - [シンフォニックメタル](../Page/シンフォニックメタル.md "wikilink")
   - [ハードコアテクノ](../Page/ハードコアテクノ.md "wikilink")
   - [ヒップホップ](../Page/ヒップホップ.md "wikilink")
-  - [ラテン音楽](https://ja.wikipedia.org/wiki/ラテン音楽 "wikilink")
-  - [ヴォコーダー](https://ja.wikipedia.org/wiki/ヴォコーダー "wikilink")
+  - [ラテン音楽](../Page/ラテン音楽.md "wikilink")
+  - [ヴォコーダー](../Page/ヴォコーダー.md "wikilink")
 
 ## ディスコグラフィ
 
@@ -115,11 +115,11 @@
 | 19th | [2004年](../Page/2004年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink")                        | ''' [Blast My Desire](../Page/Blast_My_Desire.md "wikilink") '''                                                                | AVCT-30081      | [Deep Calm](../Page/Deep_Calm.md "wikilink")                                      | 29位 |
 | 20th | [2004年](../Page/2004年.md "wikilink")[5月26日](../Page/5月26日.md "wikilink")                      | ''' [DOGFIGHT](../Page/DOGFIGHT.md "wikilink") '''                                                                              | AVCT-30082      | [BOULDER](../Page/BOULDER.md "wikilink")                                          | 43位 |
 | 21st | [2004年](../Page/2004年.md "wikilink")[8月4日](../Page/8月4日.md "wikilink")                        | ''' [GHETTO BLASTER](../Page/GHETTO_BLASTER.md "wikilink") '''                                                                  | AVCT-30088\~9/B | 45位                                                                               |     |
-| 22nd | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[1月13日](../Page/1月13日.md "wikilink")   | ''' [How To See You Again/Noizy Tribe](https://ja.wikipedia.org/wiki/How_To_See_You_Again/Noizy_Tribe "wikilink") '''           | AVCT-30092\~3/B | 28位                                                                               |     |
-| 23rd | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月28日](../Page/9月28日.md "wikilink")   | ''' [FREAKY PLANET](../Page/FREAKY_PLANET.md "wikilink") '''                                                                    | AVCT-30102\~3/B | [GRID](../Page/GRID.md "wikilink")                                                | 27位 |
-| 24th | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月26日](../Page/10月26日.md "wikilink") | ''' [DISCO TIME](../Page/DISCO_TIME.md "wikilink") '''                                                                          | AVCT-30106\~7/B | 37位                                                                               |     |
-| 25th | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月23日](../Page/11月23日.md "wikilink") | *' [雷鳴-out of kontrol-](../Page/雷鳴-out_of_kontrol-.md "wikilink")*'                                                             | AVCT-30112\~3/B | 44位                                                                               |     |
-| 26th | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月14日](../Page/12月14日.md "wikilink") | ''' [Angel Eyes](../Page/Angel_Eyes_\(m.o.v.eの曲\).md "wikilink") '''                                                            | AVCT-30114\~5/B | 45位                                                                               |     |
+| 22nd | [2005年](../Page/2005年.md "wikilink")[1月13日](../Page/1月13日.md "wikilink")                      | ''' [How To See You Again/Noizy Tribe](https://ja.wikipedia.org/wiki/How_To_See_You_Again/Noizy_Tribe "wikilink") '''           | AVCT-30092\~3/B | 28位                                                                               |     |
+| 23rd | [2005年](../Page/2005年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")                      | ''' [FREAKY PLANET](../Page/FREAKY_PLANET.md "wikilink") '''                                                                    | AVCT-30102\~3/B | [GRID](../Page/GRID.md "wikilink")                                                | 27位 |
+| 24th | [2005年](../Page/2005年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink")                    | ''' [DISCO TIME](../Page/DISCO_TIME.md "wikilink") '''                                                                          | AVCT-30106\~7/B | 37位                                                                               |     |
+| 25th | [2005年](../Page/2005年.md "wikilink")[11月23日](../Page/11月23日.md "wikilink")                    | *' [雷鳴-out of kontrol-](../Page/雷鳴-out_of_kontrol-.md "wikilink")*'                                                             | AVCT-30112\~3/B | 44位                                                                               |     |
+| 26th | [2005年](../Page/2005年.md "wikilink")[12月14日](../Page/12月14日.md "wikilink")                    | ''' [Angel Eyes](../Page/Angel_Eyes_\(m.o.v.eの曲\).md "wikilink") '''                                                            | AVCT-30114\~5/B | 45位                                                                               |     |
 | 27th | [2007年](../Page/2007年.md "wikilink")[6月20日](../Page/6月20日.md "wikilink")                      | ''' [Systematic Fantasy/Good Day Good Time](https://ja.wikipedia.org/wiki/Systematic_Fantasy/Good_Day_Good_Time "wikilink") ''' | AVCT-30123      |                                                                                   | 52位 |
 | 28th | [2007年](../Page/2007年.md "wikilink")[8月22日](../Page/8月22日.md "wikilink")                      | *' [SPEED MASTER](../Page/SPEED_MASTER.md "wikilink")*'\[12\]                                                                   | AVCT-30124      | 58位                                                                               |     |
 | 29th | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月2日](../Page/7月2日.md "wikilink")     | *' [DIVE INTO STREAM](https://ja.wikipedia.org/wiki/DIVE_INTO_STREAM "wikilink")*'                                              | AVCT-30129      | [Humanizer](https://ja.wikipedia.org/wiki/Humanizer "wikilink")                   | 31位 |
@@ -137,20 +137,20 @@
 
 #### オリジナルアルバム
 
-| 枚    | 発売日                                                                                                            | タイトル                                                                                     | 規格品番            |
-| ---- | -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | --------------- |
-| 1st  | [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[6月24日](../Page/6月24日.md "wikilink")                    | **[electrock](https://ja.wikipedia.org/wiki/electrock "wikilink")**                      | AVCT-10015      |
-| 2nd  | [2000年](../Page/2000年.md "wikilink")[1月19日](../Page/1月19日.md "wikilink")                                       | **[worlds of the mind](https://ja.wikipedia.org/wiki/worlds_of_the_mind "wikilink")**    | AVCT-10065      |
-| 3rd  | [2001年](../Page/2001年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink")                                       | **[Operation Overload 7](../Page/Operation_Overload_7.md "wikilink")**                   | AVCT-10091      |
-| 4th  | [2002年](../Page/2002年.md "wikilink")[2月27日](../Page/2月27日.md "wikilink")                                       | **[SYNERGY](../Page/SYNERGY.md "wikilink")**                                             | AVCT-10108      |
-| 5th  | [2003年](../Page/2003年.md "wikilink")[9月10日](../Page/9月10日.md "wikilink")                                       | **[DECADANCE](../Page/DECADANCE.md "wikilink")**                                         | AVCT-10134      |
-| 6th  | [2004年](../Page/2004年.md "wikilink")[1月28日](../Page/1月28日.md "wikilink")                                       | **[Deep Calm](../Page/Deep_Calm.md "wikilink")**                                         | AVCT-10140\~1/B |
-| 7th  | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink") | **[BOULDER](../Page/BOULDER.md "wikilink")**                                             | AVCT-10152\~3/B |
-| 8th  | [2006年](../Page/2006年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink")                                       | **[GRID](../Page/GRID.md "wikilink")**                                                   | AVCT-10156\~7/B |
-| 9th  | [2009年](../Page/2009年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink")                                       | **[Humanizer](https://ja.wikipedia.org/wiki/Humanizer "wikilink")**                      | AVCT-10169      |
-| 10th | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月3日](../Page/3月3日.md "wikilink")                      | **[Dream Again](https://ja.wikipedia.org/wiki/Dream_Again_\(m.o.v.eのアルバム\) "wikilink")** | AVCT-10172\~3/B |
-| 11th | [2011年](../Page/2011年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink")                                       | **[oveRtaKerS SPIRIT](https://ja.wikipedia.org/wiki/oveRtaKerS_SPIRIT "wikilink")**      | AVCT-10177\~8/B |
-| 12th | [2012年](../Page/2012年.md "wikilink")[3月7日](../Page/3月7日.md "wikilink")                                         | **[XII](https://ja.wikipedia.org/wiki/XII_\(アルバム\) "wikilink")**                         | AVCT-10182\~3/B |
+| 枚    | 発売日                                                                                         | タイトル                                                                                     | 規格品番            |
+| ---- | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | --------------- |
+| 1st  | [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[6月24日](../Page/6月24日.md "wikilink") | **[electrock](https://ja.wikipedia.org/wiki/electrock "wikilink")**                      | AVCT-10015      |
+| 2nd  | [2000年](../Page/2000年.md "wikilink")[1月19日](../Page/1月19日.md "wikilink")                    | **[worlds of the mind](https://ja.wikipedia.org/wiki/worlds_of_the_mind "wikilink")**    | AVCT-10065      |
+| 3rd  | [2001年](../Page/2001年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink")                    | **[Operation Overload 7](../Page/Operation_Overload_7.md "wikilink")**                   | AVCT-10091      |
+| 4th  | [2002年](../Page/2002年.md "wikilink")[2月27日](../Page/2月27日.md "wikilink")                    | **[SYNERGY](../Page/SYNERGY.md "wikilink")**                                             | AVCT-10108      |
+| 5th  | [2003年](../Page/2003年.md "wikilink")[9月10日](../Page/9月10日.md "wikilink")                    | **[DECADANCE](../Page/DECADANCE.md "wikilink")**                                         | AVCT-10134      |
+| 6th  | [2004年](../Page/2004年.md "wikilink")[1月28日](../Page/1月28日.md "wikilink")                    | **[Deep Calm](../Page/Deep_Calm.md "wikilink")**                                         | AVCT-10140\~1/B |
+| 7th  | [2005年](../Page/2005年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink") | **[BOULDER](../Page/BOULDER.md "wikilink")**                                             | AVCT-10152\~3/B |
+| 8th  | [2006年](../Page/2006年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink")                    | **[GRID](../Page/GRID.md "wikilink")**                                                   | AVCT-10156\~7/B |
+| 9th  | [2009年](../Page/2009年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink")                    | **[Humanizer](https://ja.wikipedia.org/wiki/Humanizer "wikilink")**                      | AVCT-10169      |
+| 10th | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月3日](../Page/3月3日.md "wikilink")   | **[Dream Again](https://ja.wikipedia.org/wiki/Dream_Again_\(m.o.v.eのアルバム\) "wikilink")** | AVCT-10172\~3/B |
+| 11th | [2011年](../Page/2011年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink")                    | **[oveRtaKerS SPIRIT](https://ja.wikipedia.org/wiki/oveRtaKerS_SPIRIT "wikilink")**      | AVCT-10177\~8/B |
+| 12th | [2012年](../Page/2012年.md "wikilink")[3月7日](../Page/3月7日.md "wikilink")                      | **[XII](https://ja.wikipedia.org/wiki/XII_\(アルバム\) "wikilink")**                         | AVCT-10182\~3/B |
 
 #### リミックスアルバム
 
@@ -332,13 +332,13 @@
 </tr>
 <tr class="odd">
 <td><p>¡WAKE YOUR LOVE!</p></td>
-<td><p>テレビ東京系アニメ「<a href="https://ja.wikipedia.org/wiki/アソボット戦記五九" title="wikilink">アソボット戦記五九</a>」エンディングテーマ</p></td>
+<td><p>テレビ東京系アニメ「<a href="../Page/アソボット戦記五九.md" title="wikilink">アソボット戦記五九</a>」エンディングテーマ</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2003年</p></td>
 <td><p>BURNING DANCE</p></td>
-<td><p>テレビ東京系テレビアニメ『<a href="https://ja.wikipedia.org/wiki/アソボット戦記五九" title="wikilink">アソボット戦記五九</a>』エンディングテーマ</p></td>
+<td><p>テレビ東京系テレビアニメ『<a href="../Page/アソボット戦記五九.md" title="wikilink">アソボット戦記五九</a>』エンディングテーマ</p></td>
 </tr>
 <tr class="odd">
 <td><p>Drivin' Through The Night</p></td>
@@ -543,7 +543,7 @@
   - [HEY\! HEY\! HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!_HEY!_HEY!_MUSIC_CHAMP "wikilink")（2000年1月17日）
   - [うたばん](../Page/うたばん.md "wikilink")（2000年2月3日）
   - [CDTV-Neo](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV#CDTV-Neo "wikilink")（2001年1月12日）
-  - [MUSIX\!](https://ja.wikipedia.org/wiki/MUSIX! "wikilink")（2001年1月14日）
+  - [MUSIX\!](../Page/MUSIX!.md "wikilink")（2001年1月14日）
   - 音楽通信（2001年1月16日）
   - [速報\!歌の大辞テン\!\!](https://ja.wikipedia.org/wiki/速報!歌の大辞テン!! "wikilink")（2001年1月17日）
   - 伝説音舗～うれる堂～（2001年1月28日）
@@ -553,22 +553,22 @@
   - mモード「伝説音舗～うれる堂～」（2001年3月18日）
   - mモード「伝説音舗～うれる堂～」（2001年6月17日）
   - [AX MUSIC-FACTORY](https://ja.wikipedia.org/wiki/AX_MUSIC-FACTORY "wikilink")（2001年6月21日）
-  - [MUSIX\!](https://ja.wikipedia.org/wiki/MUSIX! "wikilink")（2001年7月1日）
+  - [MUSIX\!](../Page/MUSIX!.md "wikilink")（2001年7月1日）
   - [AX MUSIC-FACTORY](https://ja.wikipedia.org/wiki/AX_MUSIC-FACTORY "wikilink")（2001年8月16日）
   - [MelodiX\!](../Page/プレミアMelodiX!.md "wikilink")（2001年12月18日）
   - [AX MUSIC-FACTORY](https://ja.wikipedia.org/wiki/AX_MUSIC-FACTORY "wikilink")（2001年12月19日）
   - [CDTV-Neo](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV#CDTV-Neo "wikilink")（2002年3月1日）
   - Tokyo club gang（2002年3月2日）
-  - [MUSIX\!](https://ja.wikipedia.org/wiki/MUSIX! "wikilink")（2002年3月10日)
+  - [MUSIX\!](../Page/MUSIX!.md "wikilink")（2002年3月10日)
   - [AX MUSIC-FACTORY](https://ja.wikipedia.org/wiki/AX_MUSIC-FACTORY "wikilink")（2002年3月14日）
   - MUSIC YELL\!ジャポ音（2002年3月24日）
   - Tokyo club gang（2002年6月15日）
-  - [MUSIX\!](https://ja.wikipedia.org/wiki/MUSIX! "wikilink")（2002年6月25日)
+  - [MUSIX\!](../Page/MUSIX!.md "wikilink")（2002年6月25日)
   - [MelodiX\!](../Page/プレミアMelodiX!.md "wikilink")（2002年6月28日）
   - [音楽的流行](../Page/音流〜On_Ryu〜.md "wikilink")（2002年11月27日）
   - ピカピカプリンス（2003年10月11日）
   - ピカピカプリンス（2004年2月21日）
-  - [音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")（2005年1月28日）
+  - [音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")（2005年1月28日）
   - 音時間（2005年9月27日）
   - ウタカタ（2006年1月23日）
   - [激走\!GT](../Page/激走!GT.md "wikilink")（2006年3月19日）
@@ -594,12 +594,12 @@
 [マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink") [FD3S・RX-7](https://ja.wikipedia.org/wiki/マツダ・RX-7#3代目_FD3S型（1991-2002年） "wikilink")
 [フジミ模型](../Page/フジミ模型.md "wikilink")1/24頭文字Dシリーズより改造\]\]
 
-  - アニメ『[頭文字D](../Page/頭文字D.md "wikilink")』の主題歌をFirst StageからFinal Stageまで、ゲーム『[頭文字D ARCADE STAGE](../Page/頭文字D_ARCADE_STAGE.md "wikilink")』でも2以降で、一部の例外を除いて一貫して担当しており、同作品のイメージが色濃いユニットでもある。攻撃的なビートが、[ドリフトのアグレッシブな走行シーンにとてもマッチしている](https://ja.wikipedia.org/wiki/ドリフト走行 "wikilink")。
+  - アニメ『[頭文字D](../Page/頭文字D.md "wikilink")』の主題歌をFirst StageからFinal Stageまで、ゲーム『[頭文字D ARCADE STAGE](../Page/頭文字D_ARCADE_STAGE.md "wikilink")』でも2以降で、一部の例外を除いて一貫して担当しており、同作品のイメージが色濃いユニットでもある。攻撃的なビートが、[ドリフトのアグレッシブな走行シーンにとてもマッチしている](../Page/ドリフト走行.md "wikilink")。
   - ゲーム雑誌のインタビューやラジオなどで、メンバーがファンである事を過去に明かしている。[motsu](https://ja.wikipedia.org/wiki/motsu "wikilink")と[t-kimura](https://ja.wikipedia.org/wiki/t-kimura "wikilink")の両名は[サブカルチャー](../Page/サブカルチャー.md "wikilink")に深い事はファンにも周知の事実である。「[DOGFIGHT](../Page/DOGFIGHT.md "wikilink")」をはじめ、タイトル・歌詞に作中の情景を強く意識した楽曲も非常に多い。愛着も深いのか、過去楽曲の歌い直し・Remixも多い。アニメのサントラには、シングルの新録・Remixを提供している（yuriの歌い方自体も大きく変わっている）。
   - 1st Stageでは、主題歌以外にも1stアルバム「[electrock](https://ja.wikipedia.org/wiki/electrock "wikilink")」収録曲のほとんどが劇中で挿入歌として使用されている。
   - 4th Stageのact.20に[ゲスト出演する](https://ja.wikipedia.org/wiki/頭文字Dの登場人物#パープルシャドウ "wikilink")（ほんの[脇役](https://ja.wikipedia.org/wiki/脇役 "wikilink")程度だが）。
   - 「[FREAKY PLANET](../Page/FREAKY_PLANET.md "wikilink")」「[DISCO TIME](../Page/DISCO_TIME.md "wikilink")」「[雷鳴-out of kontrol-](../Page/雷鳴-out_of_kontrol-.md "wikilink")」「[Angel Eyes](../Page/Angel_Eyes_\(m.o.v.eの曲\).md "wikilink")」の4ヵ月連続リリースシングルは『[頭文字D](../Page/頭文字D.md "wikilink")』とのコラボレーションとして企画され、4曲のPVを組み合わせたショートムービーを制作。アルバム「[GRID](../Page/GRID.md "wikilink")」に付いているDVDには、この作品の完全版が収録されている。
-      - 第1弾「[FREAKY PLANET](../Page/FREAKY_PLANET.md "wikilink")」では、[榛名山](../Page/榛名山.md "wikilink")で撮影。劇中では[ハチロクも登場する](https://ja.wikipedia.org/wiki/トヨタ・AE86 "wikilink")。
+      - 第1弾「[FREAKY PLANET](../Page/FREAKY_PLANET.md "wikilink")」では、[榛名山](../Page/榛名山.md "wikilink")で撮影。劇中では[ハチロクも登場する](../Page/トヨタ・AE86.md "wikilink")。
       - 第3弾の「[雷鳴-out of kontrol-](../Page/雷鳴-out_of_kontrol-.md "wikilink")」では、頭文字Dのスタッフによって制作、メンバー3人が主人公・[藤原拓海](../Page/藤原拓海.md "wikilink")と共演。\[21\]
           - motsu（ドライバー）・t-kimura（助手席）・・・赤い[FD3S・RX-7](https://ja.wikipedia.org/wiki/マツダ・RX-7#3代目_FD3S型（1991-2002年） "wikilink")（ナンバー「品川33 む 05-111」）
           - yuri・・・拓海のハチロクの助手席

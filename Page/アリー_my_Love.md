@@ -3,7 +3,7 @@
 
 『**アリー my Love**』（アリー・マイ・ラブ、*Ally McBeal*）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[FOXで](../Page/フォックス放送.md "wikilink")[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")から[2002年](../Page/2002年.md "wikilink")まで、5シーズンにわたって放送された[コメディ](https://ja.wikipedia.org/wiki/コメディ "wikilink")ドラマシリーズ。
 
-アメリカ・[ボストン市にある法律事務所で働く女性](https://ja.wikipedia.org/wiki/ボストン_\(マサチューセッツ州\) "wikilink")[弁護士](../Page/弁護士.md "wikilink")・アリー・マクビール（演：[キャリスタ・フロックハート](../Page/キャリスタ・フロックハート.md "wikilink")）を取り巻く恋愛模様や、法廷での活躍を描いたドラマ。日本では[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")より[NHK総合テレビで放送された](../Page/NHK総合テレビジョン.md "wikilink")\[1\]。[エミー賞](https://ja.wikipedia.org/wiki/エミー賞 "wikilink")や[ゴールデングローブ賞](../Page/ゴールデングローブ賞.md "wikilink")を受賞している。
+アメリカ・[ボストン市にある法律事務所で働く女性](https://ja.wikipedia.org/wiki/ボストン_\(マサチューセッツ州\) "wikilink")[弁護士](../Page/弁護士.md "wikilink")・アリー・マクビール（演：[キャリスタ・フロックハート](../Page/キャリスタ・フロックハート.md "wikilink")）を取り巻く恋愛模様や、法廷での活躍を描いたドラマ。日本では[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")より[NHK総合テレビで放送された](../Page/NHK総合テレビジョン.md "wikilink")\[1\]。[エミー賞](../Page/エミー賞.md "wikilink")や[ゴールデングローブ賞](../Page/ゴールデングローブ賞.md "wikilink")を受賞している。
 
 ## 登場人物
 
@@ -16,20 +16,20 @@
     演：[グレッグ・ジャーマン](../Page/グレッグ・ジャーマン.md "wikilink")、吹替：[小杉十郎太](../Page/小杉十郎太.md "wikilink")
     ケイジ&フィッシュ法律事務所のシニアパートナー（共同経営者のひとり）。アリーとは大学の同級生。フィッシュ哲学なるものを持ち、女性の「たるみ」に[フェティシズム](../Page/フェティシズム.md "wikilink")を感じる。
   - ジョン・ケイジ（全シーズン、シーズン5は一部ゲスト扱い）
-    演：[ピーター・マクニコル](https://ja.wikipedia.org/wiki/ピーター・マクニコル "wikilink")、吹替：[江原正士](../Page/江原正士.md "wikilink")
+    演：[ピーター・マクニコル](../Page/ピーター・マクニコル.md "wikilink")、吹替：[江原正士](../Page/江原正士.md "wikilink")
     ケイジ&フィッシュ法律事務所のシニアパートナー。変わり者だがアリーの良き理解者でもある。
   - ビリー・トーマス（シーズン1 - 3、シーズン4と5はゲスト扱い）
     演：[ギル・ベローズ](../Page/ギル・ベローズ.md "wikilink")、吹替：[宮本充](../Page/宮本充.md "wikilink")
     ケイジ&フィッシュの弁護士。アリーの幼なじみで元彼。同じ大学に入ったがアリーの方が成績優秀だったため転校し、ジョージアと知り合い結婚。アリーとの関係が深まることでジョージアはアリーに嫉妬を抱くようになる。
-    シーズン3で[脳腫瘍](https://ja.wikipedia.org/wiki/脳腫瘍 "wikilink")を発症し幻覚に翻弄され、法廷でアリーに告白した直後に死去。以降幻影として、最終回までアリーの前に何度も現れる。
+    シーズン3で[脳腫瘍](../Page/脳腫瘍.md "wikilink")を発症し幻覚に翻弄され、法廷でアリーに告白した直後に死去。以降幻影として、最終回までアリーの前に何度も現れる。
   - ジョージア・トーマス（シーズン1 - 3、シーズン4と5はゲスト扱い）
-    演：[コートニー・ソーン＝スミス](https://ja.wikipedia.org/wiki/コートニー・ソーン＝スミス "wikilink")、吹替：[唐沢潤](https://ja.wikipedia.org/wiki/唐沢潤 "wikilink")
+    演：[コートニー・ソーン＝スミス](https://ja.wikipedia.org/wiki/コートニー・ソーン＝スミス "wikilink")、吹替：[唐沢潤](../Page/唐沢潤.md "wikilink")
     ビリーの妻。ケイジ&フィッシュの弁護士。
   - エレイン・バッセル（全シーズン）
     演：[ジェーン・クラコウスキー](https://ja.wikipedia.org/wiki/ジェーン・クラコウスキー "wikilink")、吹替：[高乃麗](../Page/高乃麗.md "wikilink")
     アリーの[パラリーガル](../Page/パラリーガル.md "wikilink")。発明好きで、他人の揉め事も好き。
   - ネル・ポーター（シーズン2 - 5）
-    演：[ポーシャ・デ・ロッシ](https://ja.wikipedia.org/wiki/ポーシャ・デ・ロッシ "wikilink")、吹替：[赤間麻里子](https://ja.wikipedia.org/wiki/赤間麻里子 "wikilink")
+    演：[ポーシャ・デ・ロッシ](../Page/ポーシャ・デ・ロッシ.md "wikilink")、吹替：[赤間麻里子](https://ja.wikipedia.org/wiki/赤間麻里子 "wikilink")
     美人で仕事が出来る女性。リンとはロースクールで知り合う。ケイジ&フィッシュの弁護士。
   - リン・ウー（シーズン2 - 4、シーズン5はゲスト扱い）
     演：[ルーシー・リュー](../Page/ルーシー・リュー.md "wikilink")、吹替：[阿部桐子](https://ja.wikipedia.org/wiki/阿部桐子 "wikilink")
@@ -38,19 +38,19 @@
 ### アリーの関係者
 
   - レネ・ラディック（シーズン1 - 4、シーズン5はゲスト扱い）
-    演：[リサ・ニコル・カールソン](https://ja.wikipedia.org/wiki/リサ・ニコル・カールソン "wikilink")、吹替：[山像かおり](https://ja.wikipedia.org/wiki/山像かおり "wikilink")
+    演：[リサ・ニコル・カールソン](https://ja.wikipedia.org/wiki/リサ・ニコル・カールソン "wikilink")、吹替：[山像かおり](../Page/山像かおり.md "wikilink")
     アリーの親友でルームメイト。女性検事。後に検事を辞め、元女性判事のウィッパー（リチャードの昔の彼女）と弁護士事務所を設立。
 
 ### その他
 
   - ラリー・ポール（シーズン4）
-    演：[ロバート・ダウニー・Jr](https://ja.wikipedia.org/wiki/ロバート・ダウニー・Jr "wikilink")、吹替：[郷田ほづみ](../Page/郷田ほづみ.md "wikilink")
+    演：[ロバート・ダウニー・Jr](../Page/ロバート・ダウニー・Jr.md "wikilink")、吹替：[郷田ほづみ](../Page/郷田ほづみ.md "wikilink")
   - グレッグ・バターズ（シーズン1第17話 - シーズン2）
     演：[ジェシー・L・マーティン](https://ja.wikipedia.org/wiki/ジェシー・L・マーティン "wikilink")、吹替：
   - マーク・アルバート（シーズン3第17話 - シーズン4）
-    演：[ジェームズ・レグロス](https://ja.wikipedia.org/wiki/ジェームズ・レグロス "wikilink")、吹替：[村治学](https://ja.wikipedia.org/wiki/村治学 "wikilink")
+    演：[ジェームズ・レグロス](https://ja.wikipedia.org/wiki/ジェームズ・レグロス "wikilink")、吹替：[村治学](../Page/村治学.md "wikilink")
   - ジャクソン・デューパー（シーズン4第13 - 23話）
-    演：[テイ・ディグス](../Page/テイ・ディグス.md "wikilink")、吹替：[竹若拓磨](https://ja.wikipedia.org/wiki/竹若拓磨 "wikilink")
+    演：[テイ・ディグス](../Page/テイ・ディグス.md "wikilink")、吹替：[竹若拓磨](../Page/竹若拓磨.md "wikilink")
   - ジェニー・ショー（シーズン5第1 - 13話）
     演：[ジュリアンヌ・ニコルソン](https://ja.wikipedia.org/wiki/ジュリアンヌ・ニコルソン "wikilink")、吹替：[純名りさ](../Page/純名里沙.md "wikilink")
   - グレン・フォイ（シーズン5第1 - 13話）
@@ -80,13 +80,13 @@
     演：[アルバート・ホール](https://ja.wikipedia.org/wiki/アルバート・ホール "wikilink")、吹替：[池田勝](../Page/池田勝.md "wikilink")
     『[ザ・プラクティス ボストン弁護士ファイル](https://ja.wikipedia.org/wiki/ザ・プラクティス_ボストン弁護士ファイル "wikilink")』に登場する判事と同一人物。
   - トレイシー・クラーク（シーズン1 - 3）
-    演：[トレイシー・ウルマン](https://ja.wikipedia.org/wiki/トレイシー・ウルマン "wikilink")、吹替：[藤田淑子](../Page/藤田淑子.md "wikilink")
+    演：[トレイシー・ウルマン](../Page/トレイシー・ウルマン.md "wikilink")、吹替：[藤田淑子](../Page/藤田淑子.md "wikilink")
     アリーのセラピスト。
   - キャロライン
     演：[サンドラ・バーンハード](https://ja.wikipedia.org/wiki/サンドラ・バーンハード "wikilink")、吹替：[小山茉美](../Page/小山茉美.md "wikilink")
     弁護士。シーズン1第9話でレズビアンの疑いを受ける。
   - ボビー・ドネル（シーズン1第20・23話）
-    演：[ディラン・マクダーモット](https://ja.wikipedia.org/wiki/ディラン・マクダーモット "wikilink")、吹替：
+    演：[ディラン・マクダーモット](../Page/ディラン・マクダーモット.md "wikilink")、吹替：
     『ザ・プラクティス ボストン弁護士ファイル』の主人公。
   - ヘレン・ギャンブル（シーズン1第20話、シーズン2第6話、シーズン5第18話）
     演：[ララ・フリン・ボイル](../Page/ララ・フリン・ボイル.md "wikilink")、吹替：
@@ -116,7 +116,7 @@
   - バリー・フィルブリック（シーズン2第22話）
     演：[ロバート・ピカード](https://ja.wikipedia.org/wiki/ロバート・ピカード "wikilink")、吹替：
     敵側の原告。11年に渡って空想上の恋人に手紙を書き続けた妻を、財産狙いの結婚詐欺として告訴。
-  - [アル・グリーン](https://ja.wikipedia.org/wiki/アル・グリーン "wikilink")（シーズン2第22・23話、シーズン3第3話）
+  - [アル・グリーン](../Page/アル・グリーン.md "wikilink")（シーズン2第22・23話、シーズン3第3話）
     演：本人役、吹替：
     アリーが裁判中などに見る幻覚。
 
@@ -149,15 +149,15 @@
     演：[ジョン・マイケル・ヒギンズ](https://ja.wikipedia.org/wiki/ジョン・マイケル・ヒギンズ "wikilink")、吹替：[大川透](../Page/大川透.md "wikilink")
     弁護士兼セラピスト。日本語吹替版では「剣呑」が口癖。
   - ジェイミー（シーズン4第8・10話）
-    演：[ファムケ・ヤンセン](https://ja.wikipedia.org/wiki/ファムケ・ヤンセン "wikilink")、吹替：[勝生真沙子](../Page/勝生真沙子.md "wikilink")
+    演：[ファムケ・ヤンセン](../Page/ファムケ・ヤンセン.md "wikilink")、吹替：[勝生真沙子](../Page/勝生真沙子.md "wikilink")
   - メラニー・ウェスト（シーズン4第9 - 16話）
     演：[アン・ヘッシュ](../Page/アン・ヘッシュ.md "wikilink")、吹替：
     [トゥレット障害](../Page/トゥレット障害.md "wikilink")に悩む教師。
-  - [バリー・マニロウ](https://ja.wikipedia.org/wiki/バリー・マニロウ "wikilink")（シーズン4第13話）
+  - [バリー・マニロウ](../Page/バリー・マニロウ.md "wikilink")（シーズン4第13話）
     演：本人役、吹替：
     アリーが見る幻覚。
   - カサンドラ・ルイス（シーズン4第16・18話）
-    演：[バーナデット・ピーターズ](../Page/バーナデット・ピーターズ.md "wikilink")、吹替：[土居裕子](https://ja.wikipedia.org/wiki/土居裕子 "wikilink")
+    演：[バーナデット・ピーターズ](../Page/バーナデット・ピーターズ.md "wikilink")、吹替：[土居裕子](../Page/土居裕子.md "wikilink")
     ジョンが旅先で出会う女性。
   - [アナスタシア](../Page/アナスタシア.md "wikilink")（シーズン4第16・21話）
     演：本人役、吹替：
@@ -169,7 +169,7 @@
     演：[ポール・ルーベンス](https://ja.wikipedia.org/wiki/ポール・ルーベンス "wikilink")、吹替：
     スティングがコンサート中にステージから妻を誘惑したとして告訴。
   - マルコム・ワイアット（シーズン4第23話、シーズン5第7話）
-    演：[ジョシュ・グローバン](../Page/ジョシュ・グローバン.md "wikilink")、吹替：[坂詰貴之](https://ja.wikipedia.org/wiki/坂詰貴之 "wikilink")
+    演：[ジョシュ・グローバン](../Page/ジョシュ・グローバン.md "wikilink")、吹替：[坂詰貴之](../Page/坂詰貴之.md "wikilink")
     プロムの誘いを直前に断った同級生を告訴。
 
 #### シーズン5（ゲスト）
@@ -189,7 +189,7 @@
     演：[ジョン・ボン・ジョヴィ](https://ja.wikipedia.org/wiki/ジョン・ボン・ジョヴィ "wikilink")、吹替：
     アリーの家を修理に来た配管工。
   - トッド・メリック（シーズン5第16・17話）
-    演：[マシュー・ペリー](https://ja.wikipedia.org/wiki/マシュー・ペリー_\(俳優\) "wikilink")、吹替：山路和弘
+    演：[マシュー・ペリー](../Page/マシュー・ペリー_\(俳優\).md "wikilink")、吹替：山路和弘
     採用面接を受けに来た弁護士。
   - シーラ・ハント（シーズン5第19話）
     演：[ヴァネッサ・ウィリアムス](../Page/ヴァネッサ・ウィリアムス.md "wikilink")、吹替：
@@ -197,7 +197,7 @@
 
 ## スタッフ
 
-  - 企画・製作総指揮 - [デビッド・E・ケリー](https://ja.wikipedia.org/wiki/デビッド・E・ケリー "wikilink")
+  - 企画・製作総指揮 - [デビッド・E・ケリー](../Page/デビッド・E・ケリー.md "wikilink")
   - 制作 - デビッド・E・ケリー・プロダクション、20世紀フォックス・テレビジョン
 
 ## シリーズ

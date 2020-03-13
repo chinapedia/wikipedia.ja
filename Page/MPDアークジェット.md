@@ -1,9 +1,9 @@
 > この記事は[MPD](https://ja.wikipedia.org/wiki/MPD)から翻訳されています。
 
 
-[Self-field_MPD_thruster-CGI_illustration.jpeg](https://ja.wikipedia.org/wiki/File:Self-field_MPD_thruster-CGI_illustration.jpeg "fig:Self-field_MPD_thruster-CGI_illustration.jpeg") **MPDアークジェット**（Magnetoplasmadynamic thruster）は主に同軸構造を持つ陰極（[カソード](https://ja.wikipedia.org/wiki/カソード "wikilink")）、陽極（[アノード](https://ja.wikipedia.org/wiki/アノード "wikilink")）間に数kAの大電流を流すことにより、推進剤を電離し高密度の[プラズマ](https://ja.wikipedia.org/wiki/プラズマ "wikilink")を生成すると同時に、電極間に流れる放電電流と[アンペールの法則](../Page/アンペールの法則.md "wikilink")によってその電流周りに生み出される磁力との相互作用（[ローレンツ力](../Page/ローレンツ力.md "wikilink")）により、生成したプラズマを強制排気するというコンセプトの推進機である。
+[Self-field_MPD_thruster-CGI_illustration.jpeg](https://ja.wikipedia.org/wiki/File:Self-field_MPD_thruster-CGI_illustration.jpeg "fig:Self-field_MPD_thruster-CGI_illustration.jpeg") **MPDアークジェット**（Magnetoplasmadynamic thruster）は主に同軸構造を持つ陰極（[カソード](../Page/カソード.md "wikilink")）、陽極（[アノード](https://ja.wikipedia.org/wiki/アノード "wikilink")）間に数kAの大電流を流すことにより、推進剤を電離し高密度の[プラズマ](https://ja.wikipedia.org/wiki/プラズマ "wikilink")を生成すると同時に、電極間に流れる放電電流と[アンペールの法則](../Page/アンペールの法則.md "wikilink")によってその電流周りに生み出される磁力との相互作用（[ローレンツ力](../Page/ローレンツ力.md "wikilink")）により、生成したプラズマを強制排気するというコンセプトの推進機である。
 
-放電電流が小さく推進剤流量が大きい場合には気体力学的な加速も無視することができず、[DCアークジェット](https://ja.wikipedia.org/wiki/DCアークジェット "wikilink")と同様に末広がりノズルやノズルスロートを備えた構造となることが多い。よって、放電電流および推進剤流量の値によりMPDアークジェットの推進性能は、DCアークジェットと[イオンスラスタ](https://ja.wikipedia.org/wiki/イオンスラスタ "wikilink")との中間に位置する。
+放電電流が小さく推進剤流量が大きい場合には気体力学的な加速も無視することができず、[DCアークジェット](../Page/DCアークジェット.md "wikilink")と同様に末広がりノズルやノズルスロートを備えた構造となることが多い。よって、放電電流および推進剤流量の値によりMPDアークジェットの推進性能は、DCアークジェットと[イオンスラスタ](https://ja.wikipedia.org/wiki/イオンスラスタ "wikilink")との中間に位置する。
 
 数百kW～MW級の大電力を必要とするため、現在までに実用化された例は無いが、地上での定常作動試験及び[コンデンサに充放電する形でのパルス作動試験は](https://ja.wikipedia.org/wiki/キャパシタ "wikilink")[1960年代](../Page/1960年代.md "wikilink")から行われており、宇宙空間においては[1970年代](../Page/1970年代.md "wikilink")に旧[ソ連](https://ja.wikipedia.org/wiki/ソ連 "wikilink")が、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")（昭和55年）、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")（昭和58年）、[1996年](../Page/1996年.md "wikilink")（平成8年）には[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")がパルス作動での軌道上飛行試験を行っている。
 
@@ -12,7 +12,7 @@
 ## 関連項目
 
   - [宇宙機の推進方法](https://ja.wikipedia.org/wiki/宇宙機の推進方法 "wikilink")
-  - [ホールスラスタ](https://ja.wikipedia.org/wiki/ホールスラスタ "wikilink")
+  - [ホールスラスタ](../Page/ホールスラスタ.md "wikilink")
   - [イオンエンジン](../Page/イオンエンジン.md "wikilink")
   - [磁気流体力学](../Page/磁気流体力学.md "wikilink")
   - [マグネティックセイル](../Page/マグネティックセイル.md "wikilink")

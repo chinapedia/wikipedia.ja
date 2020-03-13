@@ -163,7 +163,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1991_CONCACAFゴールドカップ" title="wikilink">1</a></p></td>
+<td><p><a href="../Page/1991_CONCACAFゴールドカップ.md" title="wikilink">1</a></p></td>
 <td><p><a href="../Page/1991年.md" title="wikilink">1991年</a></p></td>
 <td></td>
 <td></td>
@@ -175,7 +175,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1993_CONCACAFゴールドカップ" title="wikilink">2</a></p></td>
+<td><p><a href="../Page/1993_CONCACAFゴールドカップ.md" title="wikilink">2</a></p></td>
 <td><p><a href="../Page/1993年.md" title="wikilink">1993年</a></p></td>
 <td><p><br />
 </p></td>
@@ -189,7 +189,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1996_CONCACAFゴールドカップ" title="wikilink">3</a></p></td>
+<td><p><a href="../Page/1996_CONCACAFゴールドカップ.md" title="wikilink">3</a></p></td>
 <td><p><a href="../Page/1996年.md" title="wikilink">1996年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
@@ -200,7 +200,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1998_CONCACAFゴールドカップ" title="wikilink">4</a></p></td>
+<td><p><a href="../Page/1998_CONCACAFゴールドカップ.md" title="wikilink">4</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1998年" title="wikilink">1998年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
@@ -211,7 +211,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2000_CONCACAFゴールドカップ" title="wikilink">5</a></p></td>
+<td><p><a href="../Page/2000_CONCACAFゴールドカップ.md" title="wikilink">5</a></p></td>
 <td><p><a href="../Page/2000年.md" title="wikilink">2000年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
@@ -222,7 +222,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2002_CONCACAFゴールドカップ" title="wikilink">6</a></p></td>
+<td><p><a href="../Page/2002_CONCACAFゴールドカップ.md" title="wikilink">6</a></p></td>
 <td><p><a href="../Page/2002年.md" title="wikilink">2002年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
@@ -233,7 +233,7 @@
 <td><p><em></em></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2003_CONCACAFゴールドカップ" title="wikilink">7</a></p></td>
+<td><p><a href="../Page/2003_CONCACAFゴールドカップ.md" title="wikilink">7</a></p></td>
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a></p></td>
 <td><p><br />
 </p></td>
@@ -246,7 +246,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2005_CONCACAFゴールドカップ.md" title="wikilink">8</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>0 - 0</strong> <a href="../Page/延長戦.md" title="wikilink">aet</a><br />

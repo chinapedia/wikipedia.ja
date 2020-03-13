@@ -9,7 +9,7 @@
 
 2000年、[ASV（先進安全研究車）研究の一環として](https://ja.wikipedia.org/wiki/先進安全自動車 "wikilink")[運輸省](../Page/運輸省.md "wikilink")(現・[国土交通省](../Page/国土交通省.md "wikilink"))[大臣認定を業界で初めて取得](../Page/運輸大臣.md "wikilink")。公道テストを開始し、商品化開発を展開すると発表した\[2\]。
 
-2002年、[7代目アコードと同時販売されたシリーズ車の](https://ja.wikipedia.org/wiki/ホンダ・アコード#7.E4.BB.A3.E7.9B.AE_CL7.2F8.2F9.E5.9E.8B.EF.BC.882002-2008.E5.B9.B4.EF.BC.89 "wikilink")[4代目アコードワゴンから製品技術として市場投入された](https://ja.wikipedia.org/wiki/ホンダ・アコードツアラー#4.E4.BB.A3.E7.9B.AE_CM1.2F2.2F3.E5.9E.8B.EF.BC.882002-2008.E5.B9.B4.EF.BC.89 "wikilink")\[3\]。同車種からの車線維持支援システム用のカメラセンサーには[C-MOS](https://ja.wikipedia.org/wiki/CMOSイメージセンサ "wikilink")[カメラ](../Page/カメラ.md "wikilink")が、前方車両検知システムには[ミリ波](../Page/ミリ波.md "wikilink")[レーダー](../Page/レーダー.md "wikilink")が採用されている\[4\]。
+2002年、[7代目アコードと同時販売されたシリーズ車の](https://ja.wikipedia.org/wiki/ホンダ・アコード#7.E4.BB.A3.E7.9B.AE_CL7.2F8.2F9.E5.9E.8B.EF.BC.882002-2008.E5.B9.B4.EF.BC.89 "wikilink")[4代目アコードワゴンから製品技術として市場投入された](https://ja.wikipedia.org/wiki/ホンダ・アコードツアラー#4.E4.BB.A3.E7.9B.AE_CM1.2F2.2F3.E5.9E.8B.EF.BC.882002-2008.E5.B9.B4.EF.BC.89 "wikilink")\[3\]。同車種からの車線維持支援システム用のカメラセンサーには[C-MOS](../Page/CMOSイメージセンサ.md "wikilink")[カメラ](../Page/カメラ.md "wikilink")が、前方車両検知システムには[ミリ波](../Page/ミリ波.md "wikilink")[レーダー](../Page/レーダー.md "wikilink")が採用されている\[4\]。
 
 ### システム構成
 

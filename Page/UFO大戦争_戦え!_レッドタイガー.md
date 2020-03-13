@@ -1,15 +1,15 @@
 > この記事は[UFO ! ](https://ja.wikipedia.org/wiki/UFO_!_)から翻訳されています。
 
 
-『**UFO大戦争 戦え\! レッドタイガー**』（ユーフォーだいせんそう たたかえ レッドタイガー）は、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")（昭和53年）[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")から同年[12月28日](../Page/12月28日.md "wikilink")まで、[東京12チャンネル（現・テレビ東京）で毎週土曜日](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")18：00 - 18：30（13話まで）、毎週火曜日19：30 - 20：00（14話から25話まで）、毎週木曜日19：30 - 20：00（26話から）に全39話が放送された、[創英舎](https://ja.wikipedia.org/wiki/創英舎 "wikilink")製作の[特撮テレビ番組である](../Page/特撮テレビ番組一覧.md "wikilink")。
+『**UFO大戦争 戦え\! レッドタイガー**』（ユーフォーだいせんそう たたかえ レッドタイガー）は、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")（昭和53年）[4月8日](../Page/4月8日.md "wikilink")から同年[12月28日](../Page/12月28日.md "wikilink")まで、[東京12チャンネル（現・テレビ東京）で毎週土曜日](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")18：00 - 18：30（13話まで）、毎週火曜日19：30 - 20：00（14話から25話まで）、毎週木曜日19：30 - 20：00（26話から）に全39話が放送された、[創英舎](https://ja.wikipedia.org/wiki/創英舎 "wikilink")製作の[特撮テレビ番組である](../Page/特撮テレビ番組一覧.md "wikilink")。
 
 ## 概要
 
 土曜日時代の前枠であるアニメ・『[ドン・チャック物語](../Page/ドン・チャック物語.md "wikilink")』と同様、[後楽園ゆうえんちが企画した](../Page/東京ドームシティアトラクションズ.md "wikilink")\[1\]。野外劇場用のオリジナルヒーローとして、アトラクション先行で製作されたヒーロー番組である\[2\]。1970年代の後楽園ゆうえんちでは、『[仮面ライダー](../Page/仮面ライダー.md "wikilink")』ショーの好評を受けて野外劇場が常設され、[仮面ライダーシリーズ](https://ja.wikipedia.org/wiki/仮面ライダーシリーズ "wikilink")や『[秘密戦隊ゴレンジャー](../Page/秘密戦隊ゴレンジャー.md "wikilink")』のショーが人気を博していたが、『ゴレンジャー』に続く『[ジャッカー電撃隊](../Page/ジャッカー電撃隊.md "wikilink")』は番組自体が短命に終わり、シリーズも途切れるかたちとなった\[3\]。本作品は番組事情に左右されず安定して活用できるヒーローとして創作された\[4\]。
 
-番組の企画は当初、[広告代理店](../Page/広告代理店.md "wikilink")の[大広](../Page/大広.md "wikilink")を通じて[東映](../Page/東映.md "wikilink")の[平山亨](https://ja.wikipedia.org/wiki/平山亨 "wikilink")に打診されたが、提示された予算額があまりにも低かったために交渉は破談となり、最終的には原作者主宰の[大野剣友会](../Page/大野剣友会.md "wikilink")が下請制作を引き受けることになった。
+番組の企画は当初、[広告代理店](../Page/広告代理店.md "wikilink")の[大広](../Page/大広.md "wikilink")を通じて[東映](../Page/東映.md "wikilink")の[平山亨](../Page/平山亨.md "wikilink")に打診されたが、提示された予算額があまりにも低かったために交渉は破談となり、最終的には原作者主宰の[大野剣友会](../Page/大野剣友会.md "wikilink")が下請制作を引き受けることになった。
 
-この作品の主人公であるレッドタイガーは、素顔が全編通じて画面に出てこず、その正体が劇中で明かされるまでは謎多きヒーローだった。大部分の脚本を[長坂秀佳](https://ja.wikipedia.org/wiki/長坂秀佳 "wikilink")が手がけており、長坂の代表作である『[快傑ズバット](../Page/快傑ズバット.md "wikilink")』や『[特捜最前線](../Page/特捜最前線.md "wikilink")』などで多用された父と子の親子愛や奇抜なアイデアセンスが多様にストーリーに盛り込まれた。記憶喪失の親がロボットの重要回路の秘密を持って放浪しており、子供達がそれを追って旅する、ピンチになるとヒーローが駆けつけるというシチュエーションは[キカイダーと共通する](../Page/人造人間キカイダー.md "wikilink")。『’70年代特撮ヒーロー全集』では、[上原正三](../Page/上原正三.md "wikilink")が参加していた『[シルバー仮面](../Page/シルバー仮面.md "wikilink")』との類似性を指摘している。
+この作品の主人公であるレッドタイガーは、素顔が全編通じて画面に出てこず、その正体が劇中で明かされるまでは謎多きヒーローだった。大部分の脚本を[長坂秀佳](../Page/長坂秀佳.md "wikilink")が手がけており、長坂の代表作である『[快傑ズバット](../Page/快傑ズバット.md "wikilink")』や『[特捜最前線](../Page/特捜最前線.md "wikilink")』などで多用された父と子の親子愛や奇抜なアイデアセンスが多様にストーリーに盛り込まれた。記憶喪失の親がロボットの重要回路の秘密を持って放浪しており、子供達がそれを追って旅する、ピンチになるとヒーローが駆けつけるというシチュエーションは[キカイダーと共通する](../Page/人造人間キカイダー.md "wikilink")。『’70年代特撮ヒーロー全集』では、[上原正三](../Page/上原正三.md "wikilink")が参加していた『[シルバー仮面](../Page/シルバー仮面.md "wikilink")』との類似性を指摘している。
 
 造形には、当時剣友会に所属しており後に造形家として活躍する[若狭新一](https://ja.wikipedia.org/wiki/若狭新一 "wikilink")が参加し、[中村文弥](../Page/中村文弥.md "wikilink")も携わっていた\[5\]。
 
@@ -82,7 +82,7 @@
     作戦立案時や計画失敗時に、基地にある鏡に「鏡よ、鏡よ、鏡さん....」と相談して、方針を決める事もある。
     第36話でレッド電磁ムチで身体を縛り上げられ、両手から放たれた電撃を地面に通して敵に流す必殺技であるタイガー・スパークとタイガーVサインの連携技によってようやく倒される。その際、メカニックの残骸しか残されていなかったので、ロボット（サイボーグ）の可能性もある。
   - ガザル
-    第35話に登場した暗殺隊長。クイーンギルバの命令で[妙高高原に赴いた天野一家を狙うが](https://ja.wikipedia.org/wiki/妙高山 "wikilink")、故郷に残してきた息子パピットを想うあまりクイーンギルバの命令に背いたために処刑された。
+    第35話に登場した暗殺隊長。クイーンギルバの命令で[妙高高原に赴いた天野一家を狙うが](../Page/妙高山.md "wikilink")、故郷に残してきた息子パピットを想うあまりクイーンギルバの命令に背いたために処刑された。
   - パピット
     第35‐37話に登場したガザルの息子。なお第35話はガザルの回想シーンの中で登場。父親が天野一家に殺されたと唆されて天野一家を狙うが、ふとしたことから事実を知り、「父さんの仇だ\!」とクイーンギルバに自身の短剣を突き刺し、ダメージを与える。その時の致命傷が、ギルバを倒す大きなきっかけとなった。
   - ジャンケン兵士
@@ -145,7 +145,7 @@
   - ブラックデンジャー魔王（声）：[飯塚昭三](../Page/飯塚昭三.md "wikilink")
   - クイーンギルバ：松田利也子
   - ブラックデンジャー軍指揮官：松沢勇虫、長沢大、宗方みどり、安喰洋子、松原君江
-  - 指揮官（声）：[清川元夢](https://ja.wikipedia.org/wiki/清川元夢 "wikilink")、[岡部政明](../Page/岡部政明.md "wikilink")、[岡田道郎](https://ja.wikipedia.org/wiki/政宗一成 "wikilink")、[渡部猛](../Page/渡部猛.md "wikilink")、[依田英助](https://ja.wikipedia.org/wiki/依田英助 "wikilink")、[緑川稔](../Page/緑川稔.md "wikilink")、[今西正男](https://ja.wikipedia.org/wiki/今西正男 "wikilink")、[村瀬正彦](https://ja.wikipedia.org/wiki/村瀬正彦 "wikilink")、[増岡弘](../Page/増岡弘.md "wikilink")、[小林清志](../Page/小林清志.md "wikilink")、[池田勝](../Page/池田勝.md "wikilink")、[丸山詠二](https://ja.wikipedia.org/wiki/丸山詠二 "wikilink")、[京田尚子](https://ja.wikipedia.org/wiki/京田尚子 "wikilink")、[加山三起](https://ja.wikipedia.org/wiki/鳳芳野 "wikilink")
+  - 指揮官（声）：[清川元夢](../Page/清川元夢.md "wikilink")、[岡部政明](../Page/岡部政明.md "wikilink")、[岡田道郎](../Page/政宗一成.md "wikilink")、[渡部猛](../Page/渡部猛.md "wikilink")、[依田英助](../Page/依田英助.md "wikilink")、[緑川稔](../Page/緑川稔.md "wikilink")、[今西正男](../Page/今西正男.md "wikilink")、[村瀬正彦](https://ja.wikipedia.org/wiki/村瀬正彦 "wikilink")、[増岡弘](../Page/増岡弘.md "wikilink")、[小林清志](../Page/小林清志.md "wikilink")、[池田勝](../Page/池田勝.md "wikilink")、[丸山詠二](../Page/丸山詠二.md "wikilink")、[京田尚子](../Page/京田尚子.md "wikilink")、[加山三起](../Page/鳳芳野.md "wikilink")
   - ガザル：[堀田真三](../Page/堀田眞三.md "wikilink")
   - パピット：[長谷川誉](https://ja.wikipedia.org/wiki/長谷川ほまれ "wikilink")
 
@@ -153,7 +153,7 @@
 
   - レッドタイガー\[13\]\[14\]：中屋敷鉄也
   - ブラックデンジャー指揮官\[15\]、イエロー三人衆\[16\]：[河原崎洋夫](../Page/河原崎洋央.md "wikilink")
-  - イエロー三人衆\[17\]、ジャンケン兵士\[18\]：[新堀和男](https://ja.wikipedia.org/wiki/新堀和男 "wikilink")
+  - イエロー三人衆\[17\]、ジャンケン兵士\[18\]：[新堀和男](../Page/新堀和男.md "wikilink")
   - イエロー三人衆\[19\]、ジャンケン兵士\[20\]：[上田弘司](../Page/上田弘司.md "wikilink")
   - ジャンケン兵士\[21\]、トランポリン\[22\]：[湯川泰男](https://ja.wikipedia.org/wiki/湯川泰男 "wikilink")
   - ジャンケン兵士\[23\]：[中村文弥](../Page/中村文弥.md "wikilink")、[栗原良二](https://ja.wikipedia.org/wiki/栗原良二 "wikilink")（クレジットは「栗原アキラ」）
@@ -166,7 +166,7 @@
   - プロデューサー：柳沢隆行（東京12チャンネル）、中野庄司（[大広](../Page/大広.md "wikilink")）、鈴木清（創英舎）
   - プロデューサー補：神野智
   - 監督：鍛冶昇、戸田康貴、[松生秀二](https://ja.wikipedia.org/wiki/松生秀二 "wikilink")、近藤一美、神原大松、大塚莞爾
-  - 脚本：[上原正三](../Page/上原正三.md "wikilink")、[長坂秀佳](https://ja.wikipedia.org/wiki/長坂秀佳 "wikilink")、近藤一美、高橋千津子
+  - 脚本：[上原正三](../Page/上原正三.md "wikilink")、[長坂秀佳](../Page/長坂秀佳.md "wikilink")、近藤一美、高橋千津子
   - 特殊技術：創英舎特技班
   - 音楽：植原路雄
   - ミニチュアデザイン：[高橋昭彦](https://ja.wikipedia.org/wiki/井口昭彦 "wikilink")
@@ -195,13 +195,13 @@
   - VTR合成：東洋ビデオセンター
   - 録音スタジオ：[整音スタジオ](https://ja.wikipedia.org/wiki/整音スタジオ "wikilink")
   - 現像所：[東京現像所](../Page/東京現像所.md "wikilink")
-  - 掲載：[テレビマガジン](https://ja.wikipedia.org/wiki/テレビマガジン "wikilink")、[たのしい幼稚園](../Page/たのしい幼稚園_\(雑誌\).md "wikilink")、[おともだち](../Page/おともだち.md "wikilink")、[冒険王](../Page/冒険王_\(漫画雑誌\).md "wikilink")
+  - 掲載：[テレビマガジン](../Page/テレビマガジン.md "wikilink")、[たのしい幼稚園](../Page/たのしい幼稚園_\(雑誌\).md "wikilink")、[おともだち](../Page/おともだち.md "wikilink")、[冒険王](../Page/冒険王_\(漫画雑誌\).md "wikilink")
   - 撮影協力：[EDWIN](https://ja.wikipedia.org/wiki/EDWIN "wikilink")、[スズキ自動車](../Page/スズキ_\(企業\).md "wikilink")
 
 ## 主題歌・挿入歌
 
   - オープニングテーマ「戦え\! レッドタイガー」
-    作詞：大野幸太郎 / 作・編曲：植原路雄 / 歌：[ささきいさお](../Page/ささきいさお.md "wikilink")、[コロムビアゆりかご会](https://ja.wikipedia.org/wiki/音羽ゆりかご会 "wikilink")
+    作詞：大野幸太郎 / 作・編曲：植原路雄 / 歌：[ささきいさお](../Page/ささきいさお.md "wikilink")、[コロムビアゆりかご会](../Page/音羽ゆりかご会.md "wikilink")
   - エンディングテーマ「出撃\! レッドタイガーの詩」
     作詞：[保富康午](../Page/保富康午.md "wikilink") / 作・編曲：[菊池俊輔](../Page/菊池俊輔.md "wikilink") / 歌：ささきいさお、コロムビアゆりかご会
   - 挿入歌「母をもとめて」

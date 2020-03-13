@@ -16,7 +16,7 @@
   - [防衛庁](https://ja.wikipedia.org/wiki/防衛庁 "wikilink") (Defense Agency) - 日本の[防衛省](../Page/防衛省.md "wikilink")の前身
   - [PC-9801DA](https://ja.wikipedia.org/wiki/PC-9801#ホビーユースへの進出 "wikilink")
   - [DVDアニメーション](https://ja.wikipedia.org/wiki/DVDアニメーション "wikilink")
-  - [ディールス・アルダー反応](https://ja.wikipedia.org/wiki/ディールス・アルダー反応 "wikilink") (Diels-Alder reaction)
+  - [ディールス・アルダー反応](../Page/ディールス・アルダー反応.md "wikilink") (Diels-Alder reaction)
   - [アメリカ陸軍](../Page/アメリカ陸軍.md "wikilink")（Department of the Army）
   - [ソヴィエト連邦](https://ja.wikipedia.org/wiki/ソヴィエト連邦 "wikilink")超距離航空部隊
   - 動軸1軸の[ディーゼル機関車](../Page/ディーゼル機関車.md "wikilink")の符号。旧国鉄で制定され、JR・私鉄などで使用されている。([2009年](../Page/2009年.md "wikilink")[9月](../Page/9月.md "wikilink")現在該当する機関車は存在しない。

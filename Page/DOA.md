@@ -7,7 +7,7 @@
 
   - [デッド オア アライブ](https://ja.wikipedia.org/wiki/デッド_オア_アライブ "wikilink")。[テクモ](../Page/テクモ.md "wikilink")・[Team NINJAの](../Page/Team_NINJA.md "wikilink")3D[格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")『[デッド オア アライブ シリーズ](../Page/デッド_オア_アライブ_シリーズ.md "wikilink")』としてシリーズ化された。
       - [DOA/デッド・オア・アライブ](https://ja.wikipedia.org/wiki/DOA/デッド・オア・アライブ "wikilink") ([DOA: Dead or Alive](https://ja.wikipedia.org/wiki/:en:DOA:_Dead_or_Alive "wikilink"))。2006年製作のアメリカ映画。ゲーム『デッドオアアライブ』が原作。
-  - DEAD OR ALIVEシリーズ。[三池崇史](../Page/三池崇史.md "wikilink")監督、[竹内力](https://ja.wikipedia.org/wiki/竹内力 "wikilink")と[哀川翔](../Page/哀川翔.md "wikilink")が主演の映画。
+  - DEAD OR ALIVEシリーズ。[三池崇史](../Page/三池崇史.md "wikilink")監督、[竹内力](../Page/竹内力.md "wikilink")と[哀川翔](../Page/哀川翔.md "wikilink")が主演の映画。
       - [DEAD OR ALIVE 犯罪者](../Page/DEAD_OR_ALIVE_犯罪者.md "wikilink")。1997年製作の日本映画。
       - [DEAD OR ALIVE 2 逃亡者](https://ja.wikipedia.org/wiki/DEAD_OR_ALIVE_2_逃亡者 "wikilink")。2000年製作の日本映画。シリーズ第2作。
       - [DEAD OR ALIVE FINAL](https://ja.wikipedia.org/wiki/DEAD_OR_ALIVE_FINAL "wikilink")。2001年製作の日本映画。シリーズ第3作・最終作。

@@ -1,17 +1,17 @@
 > この記事は[TRUTHA Great Detective of Love](https://ja.wikipedia.org/wiki/TRUTHA_Great_Detective_of_Love)から翻訳されています。
 
 
-「**TRUTH〜A Great Detective of Love〜**」（トゥルース・ア・グレート・ディティクティヴ・オブ・ラヴ）は、[TWO-MIX](https://ja.wikipedia.org/wiki/TWO-MIX "wikilink")の13枚目の[シングル](../Page/シングル.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")に[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")から発売された。
+「**TRUTH〜A Great Detective of Love〜**」（トゥルース・ア・グレート・ディティクティヴ・オブ・ラヴ）は、[TWO-MIX](../Page/TWO-MIX.md "wikilink")の13枚目の[シングル](../Page/シングル.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")に[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")から発売された。
 
 ## 概要
 
-  - [よみうりテレビ](../Page/讀賣テレビ放送.md "wikilink")・[日本テレビ系全国ネットアニメ](../Page/日本テレビ放送網.md "wikilink")『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")』のオープニングテーマであり、[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")からリリースした最初のシングル。
-  - [高山みなみ](../Page/高山みなみ.md "wikilink")自身が主人公・[江戸川コナン](https://ja.wikipedia.org/wiki/江戸川コナン "wikilink")役を担当していることでも話題となり、オリコンチャート3位にランクイン。オープニングテロップでは『**TRUTH**』と表記されていた。
-  - 初回限定版2種「[砂漠](../Page/砂漠.md "wikilink")」「[海](../Page/海.md "wikilink")」、通常版「[森](../Page/森.md "wikilink")」の3種類のジャケットが同時発売され、全種類の購入者特典としてCD『TRUTH・江戸川コナンヴァージョン 』プレゼントキャンペーンを行っていた。TWO-MIXの二人が巻き込まれた「人気アーティスト誘拐事件」の後日談的な内容となっている。特典版とは別だが、もう一つの江戸川コナンヴァージョンはTWO-MIXのアルバム『[RHYTHM FORMULA](https://ja.wikipedia.org/wiki/RHYTHM_FORMULA "wikilink")』のDisc2に[シークレットトラックとして収録されている](https://ja.wikipedia.org/wiki/隠しトラック "wikilink")\[1\]。
+  - [よみうりテレビ](../Page/讀賣テレビ放送.md "wikilink")・[日本テレビ系全国ネットアニメ](../Page/日本テレビ放送網.md "wikilink")『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")』のオープニングテーマであり、[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")からリリースした最初のシングル。
+  - [高山みなみ](../Page/高山みなみ.md "wikilink")自身が主人公・[江戸川コナン](../Page/江戸川コナン.md "wikilink")役を担当していることでも話題となり、オリコンチャート3位にランクイン。オープニングテロップでは『**TRUTH**』と表記されていた。
+  - 初回限定版2種「[砂漠](../Page/砂漠.md "wikilink")」「[海](../Page/海.md "wikilink")」、通常版「[森](../Page/森.md "wikilink")」の3種類のジャケットが同時発売され、全種類の購入者特典としてCD『TRUTH・江戸川コナンヴァージョン 』プレゼントキャンペーンを行っていた。TWO-MIXの二人が巻き込まれた「人気アーティスト誘拐事件」の後日談的な内容となっている。特典版とは別だが、もう一つの江戸川コナンヴァージョンはTWO-MIXのアルバム『[RHYTHM FORMULA](https://ja.wikipedia.org/wiki/RHYTHM_FORMULA "wikilink")』のDisc2に[シークレットトラックとして収録されている](../Page/隠しトラック.md "wikilink")\[1\]。
   - 初回限定版のバックジャケットには[青山剛昌](../Page/青山剛昌.md "wikilink")描き下ろしによるTWO-MIXのイラストが描かれている（通常版は江戸川コナン）。しかし、工場印刷時のミスで、イラストは左右[反転](https://ja.wikipedia.org/wiki/反転 "wikilink")しまま発売した。発売後もメーカー側は全然気付かず、メンバーの永野もしばらく経ってからこのミスに気付いたという\[2\]。
-  - [CD EXTRA仕様で](https://ja.wikipedia.org/wiki/CD_EXTRA "wikilink")、CM向けのプロモーションクリップ（[CG](../Page/コンピュータグラフィックス.md "wikilink")）の試作映像を収録。収録内容は各バージョンごとに異なっている。
+  - [CD EXTRA仕様で](../Page/CD_EXTRA.md "wikilink")、CM向けのプロモーションクリップ（[CG](../Page/コンピュータグラフィックス.md "wikilink")）の試作映像を収録。収録内容は各バージョンごとに異なっている。
   - 発売当初、抽選でコナンのCDシングル収納ケースプレゼントキャンペーンが実施されていた。
-  - 当時、既に[ビーイング](../Page/ビーイング.md "wikilink")が『コナン』のスポンサーとなり、ワーナー所属のTWO-MIXが主題歌を歌うことに問題があり、スポンサー枠を一時的に当時『コナン』の前に放送されていた『[金田一少年の事件簿](../Page/金田一少年の事件簿_\(アニメ\).md "wikilink")』と交換するという「離れ業のビジネス交渉」（[永野椎菜](https://ja.wikipedia.org/wiki/永野椎菜 "wikilink")談）で実現したという\[3\]。その経緯から、後に[ZAIN RECORDSから発売された](https://ja.wikipedia.org/wiki/ZAIN_RECORDS "wikilink")『[主題歌ベストアルバム](https://ja.wikipedia.org/wiki/THE_BEST_OF_DETECTIVE_CONAN_〜名探偵コナン_テーマ曲集〜 "wikilink")』には未収録\[4\]。[1999年](../Page/1999年.md "wikilink")[4月12日](../Page/4月12日.md "wikilink")から[4月26日](../Page/4月26日.md "wikilink")までの期間は、『コナン』と[『金田一』のオープニング曲が共にTWO](https://ja.wikipedia.org/wiki/JUSTICE〜Future_Mystery〜 "wikilink")-MIX系の曲となっていた。オンエア終了後、番組においての再使用は一切されていない。
+  - 当時、既に[ビーイング](../Page/ビーイング.md "wikilink")が『コナン』のスポンサーとなり、ワーナー所属のTWO-MIXが主題歌を歌うことに問題があり、スポンサー枠を一時的に当時『コナン』の前に放送されていた『[金田一少年の事件簿](../Page/金田一少年の事件簿_\(アニメ\).md "wikilink")』と交換するという「離れ業のビジネス交渉」（[永野椎菜](../Page/永野椎菜.md "wikilink")談）で実現したという\[3\]。その経緯から、後に[ZAIN RECORDSから発売された](../Page/ZAIN_RECORDS.md "wikilink")『[主題歌ベストアルバム](../Page/THE_BEST_OF_DETECTIVE_CONAN_〜名探偵コナン_テーマ曲集〜.md "wikilink")』には未収録\[4\]。[1999年](../Page/1999年.md "wikilink")[4月12日](../Page/4月12日.md "wikilink")から[4月26日](../Page/4月26日.md "wikilink")までの期間は、『コナン』と[『金田一』のオープニング曲が共にTWO](https://ja.wikipedia.org/wiki/JUSTICE〜Future_Mystery〜 "wikilink")-MIX系の曲となっていた。オンエア終了後、番組においての再使用は一切されていない。
   - 『名探偵コナン』のオープニングテーマである事からシングルのCMでは、ボーカルの高山が声を担当しているコナンの声でナレーションしている。
 
 ## 収録曲
@@ -25,7 +25,7 @@
 <th><p>日付</p></th>
 <th><p><a href="../Page/レコードレーベル.md" title="wikilink">レーベル</a></p></th>
 <th><p>規格</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>最高順位</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -34,13 +34,13 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1998年" title="wikilink">1998年</a><a href="https://ja.wikipedia.org/wiki/11月26日" title="wikilink">11月26日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン" title="wikilink">ワーナーミュージック・ジャパン</a></p></td>
+<td><p><a href="../Page/ワーナーミュージック・ジャパン.md" title="wikilink">ワーナーミュージック・ジャパン</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/8センチCD" title="wikilink">8cmCD</a><br />
-(<a href="https://ja.wikipedia.org/wiki/CD_EXTRA" title="wikilink">CD EXTRA</a>)</p></td>
+(<a href="../Page/CD_EXTRA.md" title="wikilink">CD EXTRA</a>)</p></td>
 <td><p>WPD7-9201</p></td>
 <td><p>3位</p></td>
 <td><p>初回限定版2種「<a href="../Page/砂漠.md" title="wikilink">砂漠</a>」「<a href="../Page/海.md" title="wikilink">海</a>」と通常版「<a href="../Page/森.md" title="wikilink">森</a>」の3形態のジャケットで発売。<br />
-<a href="../Page/オーケストラ.md" title="wikilink">オーケストラ</a><a href="../Page/編曲.md" title="wikilink">アレンジ</a><a href="https://ja.wikipedia.org/wiki/ベスト・アルバム" title="wikilink">アルバム</a>『<a href="https://ja.wikipedia.org/wiki/Baroque_Best" title="wikilink">Baroque Best</a>』と同時発売。</p></td>
+<a href="../Page/オーケストラ.md" title="wikilink">オーケストラ</a><a href="../Page/編曲.md" title="wikilink">アレンジ</a><a href="../Page/ベスト・アルバム.md" title="wikilink">アルバム</a>『<a href="https://ja.wikipedia.org/wiki/Baroque_Best" title="wikilink">Baroque Best</a>』と同時発売。</p></td>
 </tr>
 </tbody>
 </table>
@@ -150,14 +150,14 @@
 ## 関連項目
 
   - [高山みなみ](../Page/高山みなみ.md "wikilink")
-  - [永野椎菜](https://ja.wikipedia.org/wiki/永野椎菜 "wikilink")
+  - [永野椎菜](../Page/永野椎菜.md "wikilink")
   - [名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")
-  - [1998年の音楽](https://ja.wikipedia.org/wiki/1998年の音楽 "wikilink")
+  - [1998年の音楽](../Page/1998年の音楽.md "wikilink")
 
 <table>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビアニメ" title="wikilink">テレビアニメ</a>『<a href="https://ja.wikipedia.org/wiki/名探偵コナン_(アニメ)" title="wikilink">名探偵コナン</a>』<a href="https://ja.wikipedia.org/wiki/主題歌" title="wikilink">オープニングテーマ</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/テレビアニメ" title="wikilink">テレビアニメ</a>『<a href="https://ja.wikipedia.org/wiki/名探偵コナン_(アニメ)" title="wikilink">名探偵コナン</a>』<a href="../Page/主題歌.md" title="wikilink">オープニングテーマ</a><br />
 <a href="https://ja.wikipedia.org/wiki/1998年" title="wikilink">1998年</a><a href="https://ja.wikipedia.org/wiki/11月16日" title="wikilink">11月16日</a> - <a href="../Page/1999年.md" title="wikilink">1999年</a><a href="../Page/4月26日.md" title="wikilink">4月26日</a></p></td>
 </tr>
 <tr class="even">

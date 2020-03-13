@@ -5,9 +5,9 @@
 
 ## 由来
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、小泉内閣の進める[郵政民営化](https://ja.wikipedia.org/wiki/郵政民営化 "wikilink")政策に関する宣伝企画の立案を[自民党](https://ja.wikipedia.org/wiki/自民党 "wikilink")から受注した[広告会社](https://ja.wikipedia.org/wiki/広告会社 "wikilink")・[有限会社](../Page/有限会社.md "wikilink")[スリード](https://ja.wikipedia.org/wiki/スリード "wikilink")が、小泉政権の主な[支持基盤](https://ja.wikipedia.org/wiki/支持基盤 "wikilink")として想定した概念である\[3\]。
+[2005年](../Page/2005年.md "wikilink")、小泉内閣の進める[郵政民営化](https://ja.wikipedia.org/wiki/郵政民営化 "wikilink")政策に関する宣伝企画の立案を[自民党](https://ja.wikipedia.org/wiki/自民党 "wikilink")から受注した[広告会社](https://ja.wikipedia.org/wiki/広告会社 "wikilink")・[有限会社](../Page/有限会社.md "wikilink")[スリード](https://ja.wikipedia.org/wiki/スリード "wikilink")が、小泉政権の主な[支持基盤](https://ja.wikipedia.org/wiki/支持基盤 "wikilink")として想定した概念である\[3\]。
 
-スリードの企画書では国民を「[構造改革に肯定的か否か](../Page/聖域なき構造改革.md "wikilink")」を横軸、「[IQ軸](../Page/知能指数.md "wikilink")（[EQ](https://ja.wikipedia.org/wiki/心の知能指数 "wikilink")、[ITQを含む独自の概念とされる](https://ja.wikipedia.org/wiki/#批判と反論 "wikilink")）」を縦軸として分類し、「IQ」が比較的低くかつ構造改革に中立ないし肯定的な層を「B層」とした。B層には、「[主婦](https://ja.wikipedia.org/wiki/主婦 "wikilink")と子供を中心とした層、[シルバー層](../Page/高齢者.md "wikilink")」を含み、「具体的なことはわからないが、小泉総理の[キャラクター](../Page/キャラクター.md "wikilink")を支持する層、内閣閣僚を何となく支持する層」を指すとされる\[4\]。
+スリードの企画書では国民を「[構造改革に肯定的か否か](../Page/聖域なき構造改革.md "wikilink")」を横軸、「[IQ軸](../Page/知能指数.md "wikilink")（[EQ](../Page/心の知能指数.md "wikilink")、[ITQを含む独自の概念とされる](https://ja.wikipedia.org/wiki/#批判と反論 "wikilink")）」を縦軸として分類し、「IQ」が比較的低くかつ構造改革に中立ないし肯定的な層を「B層」とした。B層には、「[主婦](../Page/主婦.md "wikilink")と子供を中心とした層、[シルバー層](../Page/高齢者.md "wikilink")」を含み、「具体的なことはわからないが、小泉総理の[キャラクター](../Page/キャラクター.md "wikilink")を支持する層、内閣閣僚を何となく支持する層」を指すとされる\[4\]。
 
 上記の[企画](https://ja.wikipedia.org/wiki/企画 "wikilink")書がネット等を通じて公に流布されたため、資料中に使用された「IQ」という[知能指数](../Page/知能指数.md "wikilink")を示す語や露骨な[マーケティング戦略](../Page/マーケティング戦略.md "wikilink")が物議を醸すところとなり、[国会](https://ja.wikipedia.org/wiki/国会 "wikilink")でも取り上げられた（後述）。
 
@@ -16,9 +16,9 @@
 スリード社等は、国民を以下の4層に分類している。
 
   - A層
-    [エコノミスト](https://ja.wikipedia.org/wiki/エコノミスト "wikilink")を始めとして、基本的に民営化の必要性は感じているが、これまで、特に[道路公団民営化](https://ja.wikipedia.org/wiki/道路公団民営化 "wikilink")の結末からの類推上、結果について悲観的な観測を持っており、批判的立場を形成している。「IQ」が比較的高く、構造改革に肯定的。構成者は[財界](https://ja.wikipedia.org/wiki/財界 "wikilink")[勝ち組](../Page/勝ち組.md "wikilink")[企業](../Page/企業.md "wikilink")、[大学](../Page/大学.md "wikilink")[教授](../Page/教授.md "wikilink")、[マスメディア](../Page/マスメディア.md "wikilink")（[テレビ](../Page/テレビ.md "wikilink")）、[都市](../Page/都市.md "wikilink")部[ホワイトカラー](https://ja.wikipedia.org/wiki/ホワイトカラー "wikilink")など。
+    [エコノミスト](../Page/エコノミスト.md "wikilink")を始めとして、基本的に民営化の必要性は感じているが、これまで、特に[道路公団民営化](https://ja.wikipedia.org/wiki/道路公団民営化 "wikilink")の結末からの類推上、結果について悲観的な観測を持っており、批判的立場を形成している。「IQ」が比較的高く、構造改革に肯定的。構成者は[財界](https://ja.wikipedia.org/wiki/財界 "wikilink")[勝ち組](../Page/勝ち組.md "wikilink")[企業](../Page/企業.md "wikilink")、[大学](../Page/大学.md "wikilink")[教授](../Page/教授.md "wikilink")、[マスメディア](../Page/マスメディア.md "wikilink")（[テレビ](../Page/テレビ.md "wikilink")）、[都市](../Page/都市.md "wikilink")部[ホワイトカラー](../Page/ホワイトカラー.md "wikilink")など。
   - B層
-    郵政の現状サービスへの満足度が極めて高いため、[道路](../Page/道路.md "wikilink")などへの[公共事業](https://ja.wikipedia.org/wiki/公共事業 "wikilink")批判ほどたやすく支持は得られない。郵政民営化への支持を取り付けるために、より深いレベルでの合意形成が不可欠。マスコミ報道に流されやすく「IQ」が比較的低い\[5\]、構造改革に中立的ないし肯定的。構成者は[主婦](https://ja.wikipedia.org/wiki/主婦 "wikilink")層、[若年層](https://ja.wikipedia.org/wiki/若者 "wikilink")、シルバー（[高齢者](../Page/高齢者.md "wikilink")）層など。具体的なことは分からないが小泉総理のキャラクター・内閣閣僚を支持する。
+    郵政の現状サービスへの満足度が極めて高いため、[道路](../Page/道路.md "wikilink")などへの[公共事業](../Page/公共事業.md "wikilink")批判ほどたやすく支持は得られない。郵政民営化への支持を取り付けるために、より深いレベルでの合意形成が不可欠。マスコミ報道に流されやすく「IQ」が比較的低い\[5\]、構造改革に中立的ないし肯定的。構成者は[主婦](../Page/主婦.md "wikilink")層、[若年層](https://ja.wikipedia.org/wiki/若者 "wikilink")、シルバー（[高齢者](../Page/高齢者.md "wikilink")）層など。具体的なことは分からないが小泉総理のキャラクター・内閣閣僚を支持する。
   - C層
     構造改革抵抗守旧派。「IQ」が比較的高く、構造改革に否定的。構成者についてはこれ以上の分析はない。
   - D層
@@ -26,13 +26,13 @@
 
 ## PR提言
 
-郵政民営化の広報にあたっては、小泉政権の主な支持基盤とされる「B層」に絞ってPRを展開すべきとし、ネガティブな表現を極力避けたうえで、「B層」に伝わりやすい新聞折込み[フライヤー](https://ja.wikipedia.org/wiki/チラシ "wikilink")（チラシ、ビラ）やテレビ・[ラジオ](../Page/ラジオ.md "wikilink")の広報番組を利用し、民営化の必要性を徹底的に「[ラーニング](../Page/学習.md "wikilink")」させるように、また、「A層はB層に強い影響力を持つ」として、「A層」向けに数万人規模のイベントを開催し、間接的に「B層」にも影響を与えるようにと提言した\[6\]。
+郵政民営化の広報にあたっては、小泉政権の主な支持基盤とされる「B層」に絞ってPRを展開すべきとし、ネガティブな表現を極力避けたうえで、「B層」に伝わりやすい新聞折込み[フライヤー](../Page/チラシ.md "wikilink")（チラシ、ビラ）やテレビ・[ラジオ](../Page/ラジオ.md "wikilink")の広報番組を利用し、民営化の必要性を徹底的に「[ラーニング](../Page/学習.md "wikilink")」させるように、また、「A層はB層に強い影響力を持つ」として、「A層」向けに数万人規模のイベントを開催し、間接的に「B層」にも影響を与えるようにと提言した\[6\]。
 
 「C層」及び「IQが比較的低く、構造改革に否定的」な層についてはPRの対象外としている。
 
 ## 批判と反論
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[6月29日](../Page/6月29日.md "wikilink")の郵政民営化特別委員会で、[共産党の](../Page/日本共産党.md "wikilink")[佐々木憲昭](../Page/佐々木憲昭.md "wikilink")は、スリード社の企画書の概略を述べ、「重大なのは、この階層はIQがロー、つまり低い層とされている。（中略）つまり知能指数のことであります。（中略）EQとは何かというと、教育指数です、エデュケーションクオーシェント。ITQとはITクオーシェント、つまりIT指数。それが低いから、ウェブではなく折り込みチラシという手段になる、こういうことになるんです。（中略）要するに、小泉内閣を支持しているが、IQが低く、インターネットを使わず、郵便局に満足している、そういう層にターゲットを絞って徹底的に民営化の必要を浸透させよう、上から教育してやろうという考えなんです。竹中大臣（[竹中平蔵](../Page/竹中平蔵.md "wikilink")）に聞きます。これは余りにも国民を愚弄した戦略ではありませんか」と質問した\[7\]\[8\]。竹中は「民間の企業の企画書でございますから、私はコメントをする立場にはございません。政府としては、そのような話を政府の中でしたという事実もございません」と答弁した\[9\]。
+[2005年](../Page/2005年.md "wikilink")[6月29日](../Page/6月29日.md "wikilink")の郵政民営化特別委員会で、[共産党の](../Page/日本共産党.md "wikilink")[佐々木憲昭](../Page/佐々木憲昭.md "wikilink")は、スリード社の企画書の概略を述べ、「重大なのは、この階層はIQがロー、つまり低い層とされている。（中略）つまり知能指数のことであります。（中略）EQとは何かというと、教育指数です、エデュケーションクオーシェント。ITQとはITクオーシェント、つまりIT指数。それが低いから、ウェブではなく折り込みチラシという手段になる、こういうことになるんです。（中略）要するに、小泉内閣を支持しているが、IQが低く、インターネットを使わず、郵便局に満足している、そういう層にターゲットを絞って徹底的に民営化の必要を浸透させよう、上から教育してやろうという考えなんです。竹中大臣（[竹中平蔵](../Page/竹中平蔵.md "wikilink")）に聞きます。これは余りにも国民を愚弄した戦略ではありませんか」と質問した\[7\]\[8\]。竹中は「民間の企業の企画書でございますから、私はコメントをする立場にはございません。政府としては、そのような話を政府の中でしたという事実もございません」と答弁した\[9\]。
 
 スリード社側はこうした批判について、企画書内で分析軸として使用した“IQ”という言葉のみが抽出された一方的な解釈であり、[名誉毀損](../Page/名誉毀損.md "wikilink")であると再批判した。また、分析は情報戦略において行う通常手法に基づいて行ったものであり、指摘されるような差別的な意図は全く無く、また問題となった企画書はあくまで「会議用資料であり、内容の是非は、そこで行われた弊社の説明を含めて語られるべき」と反論したうえで、「内部資料とはいえ、こうした誤解を誘発する表現を行った」ことに対して謝罪した\[10\]。
 
@@ -44,7 +44,7 @@
 
   - [小泉劇場](../Page/小泉劇場.md "wikilink")
   - [郵政国会](../Page/郵政国会.md "wikilink")
-  - [第44回衆議院議員総選挙](https://ja.wikipedia.org/wiki/第44回衆議院議員総選挙 "wikilink")
+  - [第44回衆議院議員総選挙](../Page/第44回衆議院議員総選挙.md "wikilink")
   - [国家社会主義ドイツ労働者党](https://ja.wikipedia.org/wiki/国家社会主義ドイツ労働者党 "wikilink") - 有権者に対して、同じ手法が用いられている。
 
 [Category:平成時代の政治](https://ja.wikipedia.org/wiki/Category:平成時代の政治 "wikilink") [Category:日本のプロパガンダ](https://ja.wikipedia.org/wiki/Category:日本のプロパガンダ "wikilink") [Category:小泉純一郎](https://ja.wikipedia.org/wiki/Category:小泉純一郎 "wikilink")

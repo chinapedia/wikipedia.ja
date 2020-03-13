@@ -1,11 +1,11 @@
 > この記事は[MelodySOUNDS REAL](https://ja.wikipedia.org/wiki/MelodySOUNDS_REAL)から翻訳されています。
 
 
-「**melody〜SOUNDS REAL〜**」（メロディ サウンズ・リアル）は、[絢香](https://ja.wikipedia.org/wiki/絢香 "wikilink")の2枚目の[シングル](../Page/シングル.md "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[5月10日](../Page/5月10日.md "wikilink")に[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")から発売された。
+「**melody〜SOUNDS REAL〜**」（メロディ サウンズ・リアル）は、[絢香](https://ja.wikipedia.org/wiki/絢香 "wikilink")の2枚目の[シングル](../Page/シングル.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[5月10日](../Page/5月10日.md "wikilink")に[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")から発売された。
 
 ## 解説
 
-「初ツアー記念盤」と銘打った、5万枚完全生産限定盤作品。カップリング曲「ブルーデイズ」は後に[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビ系 "wikilink")ドラマ『[サプリ](../Page/サプリ_\(テレビドラマ\).md "wikilink")』の挿入歌に使用された。（主題歌は3rdシングル「[Real voice](https://ja.wikipedia.org/wiki/Real_voice "wikilink")」）
+「初ツアー記念盤」と銘打った、5万枚完全生産限定盤作品。カップリング曲「ブルーデイズ」は後に[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビ系 "wikilink")ドラマ『[サプリ](../Page/サプリ_\(テレビドラマ\).md "wikilink")』の挿入歌に使用された。（主題歌は3rdシングル「[Real voice](../Page/Real_voice.md "wikilink")」）
 
 ## 収録曲
 
@@ -18,7 +18,7 @@
 
 ## 収録アルバム
 
-  - [First Message](https://ja.wikipedia.org/wiki/First_Message "wikilink")（\#1,\#2及び\#4の通常音源）
+  - [First Message](../Page/First_Message.md "wikilink")（\#1,\#2及び\#4の通常音源）
   - [ayaka's History 2006-2009](https://ja.wikipedia.org/wiki/ayaka's_History_2006-2009 "wikilink")（\#1（Disc1）,\#2（Disc2））
 
 [Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:ワーナーミュージック・ジャパンのシングル](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのシングル "wikilink") [Category:楽曲_め](https://ja.wikipedia.org/wiki/Category:楽曲_め "wikilink")

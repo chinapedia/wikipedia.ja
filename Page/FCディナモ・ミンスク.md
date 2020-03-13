@@ -1,7 +1,7 @@
 > この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
 
 
-**FCディナモ・ミンスク**（、）は、[ベラルーシ](../Page/ベラルーシ.md "wikilink")の首都[ミンスク](https://ja.wikipedia.org/wiki/ミンスク "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
+**FCディナモ・ミンスク**（、）は、[ベラルーシ](../Page/ベラルーシ.md "wikilink")の首都[ミンスク](../Page/ミンスク.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
 
 [旧ソ連時代には](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")、ベラルーシのクラブとして唯一[ソビエト・トップリーグ優勝](../Page/ソビエト連邦サッカーリーグ.md "wikilink")、[USSRカップ](../Page/USSRカップ.md "wikilink")準優勝2回を成し遂げた。名実ともにベラルーシのサッカークラブを代表する存在だった。
 
@@ -203,7 +203,7 @@
 </tr>
 <tr class="odd">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スポルティング・クルーベ・デ・ポルトゥガル" title="wikilink">スポルティングCP</a></p></td>
+<td><p><a href="../Page/スポルティング・クルーベ・デ・ポルトゥガル.md" title="wikilink">スポルティングCP</a></p></td>
 <td><p>2–0</p></td>
 <td><p>0–2</p></td>
 <td><p><strong>2-2<br />
@@ -257,7 +257,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/レアル・ソシエダ" title="wikilink">レアル・ソシエダ</a></p></td>
 <td><p>0–0</p></td>
 <td><p>1–1</p></td>
-<td><p><strong>1-1 (<a href="https://ja.wikipedia.org/wiki/アウェーゴール" title="wikilink">a</a>)</strong></p></td>
+<td><p><strong>1-1 (<a href="../Page/アウェーゴール.md" title="wikilink">a</a>)</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -296,7 +296,7 @@
 <td><p>1993-94</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップウィナーズカップ_1993-94" title="wikilink">UEFAカップウィナーズカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヴェルダー・ブレーメン" title="wikilink">ヴェルダー・ブレーメン</a></p></td>
+<td><p><a href="../Page/ヴェルダー・ブレーメン.md" title="wikilink">ヴェルダー・ブレーメン</a></p></td>
 <td><p>1–1</p></td>
 <td><p>2–5</p></td>
 <td><p><strong>3-6</strong></p></td>
@@ -346,7 +346,7 @@
 </tr>
 <tr class="odd">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヴェルダー・ブレーメン" title="wikilink">ヴェルダー・ブレーメン</a></p></td>
+<td><p><a href="../Page/ヴェルダー・ブレーメン.md" title="wikilink">ヴェルダー・ブレーメン</a></p></td>
 <td><p>2–1</p></td>
 <td><p>0–5</p></td>
 <td><p><strong>2-6</strong></p></td>
@@ -366,7 +366,7 @@
 </tr>
 <tr class="odd">
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ベシクタシュJK" title="wikilink">ベシクタシュ</a></p></td>
+<td><p><a href="../Page/ベシクタシュJK.md" title="wikilink">ベシクタシュ</a></p></td>
 <td><p>2–1</p></td>
 <td><p>0–2</p></td>
 <td><p><strong>2-3</strong></p></td>
@@ -426,7 +426,7 @@
 </tr>
 <tr class="odd">
 <td><p>3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/VfLヴォルフスブルク" title="wikilink">ヴォルフスブルク</a></p></td>
+<td><p><a href="../Page/VfLヴォルフスブルク.md" title="wikilink">ヴォルフスブルク</a></p></td>
 <td><p>0–0</p></td>
 <td><p>3–4</p></td>
 <td><p><strong>3-4</strong></p></td>
@@ -477,7 +477,7 @@
 </tr>
 <tr class="even">
 <td><p>3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/LOSCリール・メトロポール" title="wikilink">リール</a></p></td>
+<td><p><a href="../Page/LOSCリール・メトロポール.md" title="wikilink">リール</a></p></td>
 <td><p>2–2</p></td>
 <td><p>1–2</p></td>
 <td><p><strong>3-4</strong></p></td>
@@ -507,7 +507,7 @@
 </tr>
 <tr class="odd">
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCペトルジャルカ・アカデーミア" title="wikilink">ペトルジャルカ・アカデーミア</a></p></td>
+<td><p><a href="../Page/FCペトルジャルカ・アカデーミア.md" title="wikilink">ペトルジャルカ・アカデーミア</a></p></td>
 <td><p>2–3</p></td>
 <td><p>1–2</p></td>
 <td><p><strong>3-5</strong></p></td>
@@ -577,7 +577,7 @@
 </tr>
 <tr class="even">
 <td><p>プレーオフ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クラブ・ブルッヘ" title="wikilink">クラブ・ブルッヘ</a></p></td>
+<td><p><a href="../Page/クラブ・ブルッヘ.md" title="wikilink">クラブ・ブルッヘ</a></p></td>
 <td><p>1–2</p></td>
 <td><p>2–3</p></td>
 <td><p><strong>3-5</strong></p></td>
@@ -656,7 +656,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ACFフィオレンティーナ" title="wikilink">フィオレンティーナ</a></p></td>
+<td><p><a href="../Page/ACFフィオレンティーナ.md" title="wikilink">フィオレンティーナ</a></p></td>
 <td><p>0–3</p></td>
 <td><p>2–1</p></td>
 <td></td>
@@ -718,7 +718,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/SKラピード・ウィーン" title="wikilink">ラピード・ウィーン</a></p></td>
+<td><p><a href="../Page/SKラピード・ウィーン.md" title="wikilink">ラピード・ウィーン</a></p></td>
 <td><p>0–1</p></td>
 <td><p>1–2</p></td>
 <td></td>
@@ -728,7 +728,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ビジャレアルCF" title="wikilink">ビジャレアル</a></p></td>
+<td><p><a href="../Page/ビジャレアルCF.md" title="wikilink">ビジャレアル</a></p></td>
 <td><p>0–4</p></td>
 <td><p>1–2</p></td>
 <td></td>

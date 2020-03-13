@@ -1,9 +1,9 @@
 > この記事は[UNITED](https://ja.wikipedia.org/wiki/UNITED)から翻訳されています。
 
 
-**UNITED**（**ユナイテッド**）は[1981年](../Page/1981年.md "wikilink")に結成、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")にアルバムデビューした[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[スラッシュメタル](../Page/スラッシュメタル.md "wikilink")バンド。バンド名は[ジューダス・プリースト](https://ja.wikipedia.org/wiki/ジューダス・プリースト "wikilink")（Judas Priest）の6thアルバム『[British Steel](https://ja.wikipedia.org/wiki/ブリティッシュ・スティール "wikilink")』に収録されている「United」より名付けられた。結成初期の頃はメロディアスな[パワーメタル](../Page/パワーメタル.md "wikilink")を演奏していたが、その後[スラッシュメタル](../Page/スラッシュメタル.md "wikilink")色を強めていく。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")のアルバム『Distorted Vision』の頃には[ラウドロック](../Page/ラウドロック.md "wikilink")等に幅を広げつつも、[2001年](../Page/2001年.md "wikilink")の『Infectious Hazard』より再びスラッシュメタルに焦点を合わせたサウンドを標榜。現在も一貫してソリッドでタイトなスラッシュメタルを聴かせてくれるバンドである。
+**UNITED**（**ユナイテッド**）は[1981年](../Page/1981年.md "wikilink")に結成、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")にアルバムデビューした[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[スラッシュメタル](../Page/スラッシュメタル.md "wikilink")バンド。バンド名は[ジューダス・プリースト](../Page/ジューダス・プリースト.md "wikilink")（Judas Priest）の6thアルバム『[British Steel](https://ja.wikipedia.org/wiki/ブリティッシュ・スティール "wikilink")』に収録されている「United」より名付けられた。結成初期の頃はメロディアスな[パワーメタル](../Page/パワーメタル.md "wikilink")を演奏していたが、その後[スラッシュメタル](../Page/スラッシュメタル.md "wikilink")色を強めていく。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")のアルバム『Distorted Vision』の頃には[ラウドロック](../Page/ラウドロック.md "wikilink")等に幅を広げつつも、[2001年](../Page/2001年.md "wikilink")の『Infectious Hazard』より再びスラッシュメタルに焦点を合わせたサウンドを標榜。現在も一貫してソリッドでタイトなスラッシュメタルを聴かせてくれるバンドである。
 
-海外のヘヴィメタル系バンドの来日公演で[サポートに付く事が多く](https://ja.wikipedia.org/wiki/オープニングアクト "wikilink")、過去には[ニュークリア・アソルト](../Page/ニュークリア・アソルト.md "wikilink")(Nuclear Assault)、[ラーズ・ロキット](https://ja.wikipedia.org/wiki/ラーズ・ロキット "wikilink")(Laaz Rockit)、[ソドム](../Page/ソドム_\(バンド\).md "wikilink")(Sodom)、[エクソダス](https://ja.wikipedia.org/wiki/エクソダス_\(バンド\) "wikilink")(Exodus)、[テスタメント](https://ja.wikipedia.org/wiki/テスタメント_\(バンド\) "wikilink")(Testament)、[スレイヤー](../Page/スレイヤー.md "wikilink")(Slayer)、[マシーン・ヘッド](https://ja.wikipedia.org/wiki/マシーン・ヘッド "wikilink")(Machine Head)、[S.O.D](https://ja.wikipedia.org/wiki/ストームトゥルーパーズ・オブ・デス "wikilink")、[シック・オブ・イット・オール](https://ja.wikipedia.org/wiki/シック・オブ・イット・オール "wikilink")(Sick Of It All)、[ザ・ホーンテッド](../Page/ザ・ホーンテッド.md "wikilink")(The Haunted)、さらには[エクスプロイテッド](https://ja.wikipedia.org/wiki/エクスプロイテッド "wikilink")(Exploited)のような[ハードコアバンドとも競演を果たしている](https://ja.wikipedia.org/wiki/ハードコア_\(音楽\) "wikilink")。また、[BURRN\!](../Page/BURRN!.md "wikilink")の[前田岳彦](https://ja.wikipedia.org/wiki/前田岳彦 "wikilink")と親交が深く(前田自身も80年代にスラッシュメタルバンドで活動していた時期があった)、彼の思い入れも深いため、結果的に彼がユナイテッドのプッシュ役となっている。
+海外のヘヴィメタル系バンドの来日公演で[サポートに付く事が多く](https://ja.wikipedia.org/wiki/オープニングアクト "wikilink")、過去には[ニュークリア・アソルト](../Page/ニュークリア・アソルト.md "wikilink")(Nuclear Assault)、[ラーズ・ロキット](https://ja.wikipedia.org/wiki/ラーズ・ロキット "wikilink")(Laaz Rockit)、[ソドム](../Page/ソドム_\(バンド\).md "wikilink")(Sodom)、[エクソダス](../Page/エクソダス_\(バンド\).md "wikilink")(Exodus)、[テスタメント](https://ja.wikipedia.org/wiki/テスタメント_\(バンド\) "wikilink")(Testament)、[スレイヤー](../Page/スレイヤー.md "wikilink")(Slayer)、[マシーン・ヘッド](https://ja.wikipedia.org/wiki/マシーン・ヘッド "wikilink")(Machine Head)、[S.O.D](https://ja.wikipedia.org/wiki/ストームトゥルーパーズ・オブ・デス "wikilink")、[シック・オブ・イット・オール](https://ja.wikipedia.org/wiki/シック・オブ・イット・オール "wikilink")(Sick Of It All)、[ザ・ホーンテッド](../Page/ザ・ホーンテッド.md "wikilink")(The Haunted)、さらには[エクスプロイテッド](https://ja.wikipedia.org/wiki/エクスプロイテッド "wikilink")(Exploited)のような[ハードコアバンドとも競演を果たしている](https://ja.wikipedia.org/wiki/ハードコア_\(音楽\) "wikilink")。また、[BURRN\!](../Page/BURRN!.md "wikilink")の[前田岳彦](https://ja.wikipedia.org/wiki/前田岳彦 "wikilink")と親交が深く(前田自身も80年代にスラッシュメタルバンドで活動していた時期があった)、彼の思い入れも深いため、結果的に彼がユナイテッドのプッシュ役となっている。
 
 ## バンドメンバー
 
@@ -35,7 +35,7 @@
 
 ## 来歴
 
-[1981年](../Page/1981年.md "wikilink")結成。旧知の仲である原（G、marchan)と塚原（Dr、Yasu)が、様々な音楽に価値観を同じくしたことが結成のきっかけとなった。中里（G)、OZ（B)、NAO（V）の加入により、UNITEDとして活動を開始。当初は[ジューダス・プリースト](https://ja.wikipedia.org/wiki/ジューダス・プリースト "wikilink")のコピーバンドであり、他に[ブラック・サバス](https://ja.wikipedia.org/wiki/ブラック・サバス "wikilink")、[オジー・オズボーン](https://ja.wikipedia.org/wiki/オジー・オズボーン "wikilink")等を演奏していた。その後、原（G)、中里（G)、塚原（D)の3人が中心となりオリジナル曲の作曲も重ね、翌年より本格的に開始したライブ活動では、オリジナル曲が殆どで、コピー曲は主にアンコールで演奏していた。当時のヘヴィメタルバンドとしては友好関係が大変珍しく、当時結成間もない[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")（メンバー6人の頃）や東京ローズとも親交を持ち、お互いのライブにも行き来していた。
+[1981年](../Page/1981年.md "wikilink")結成。旧知の仲である原（G、marchan)と塚原（Dr、Yasu)が、様々な音楽に価値観を同じくしたことが結成のきっかけとなった。中里（G)、OZ（B)、NAO（V）の加入により、UNITEDとして活動を開始。当初は[ジューダス・プリースト](../Page/ジューダス・プリースト.md "wikilink")のコピーバンドであり、他に[ブラック・サバス](../Page/ブラック・サバス.md "wikilink")、[オジー・オズボーン](../Page/オジー・オズボーン.md "wikilink")等を演奏していた。その後、原（G)、中里（G)、塚原（D)の3人が中心となりオリジナル曲の作曲も重ね、翌年より本格的に開始したライブ活動では、オリジナル曲が殆どで、コピー曲は主にアンコールで演奏していた。当時のヘヴィメタルバンドとしては友好関係が大変珍しく、当時結成間もない[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")（メンバー6人の頃）や東京ローズとも親交を持ち、お互いのライブにも行き来していた。
 
 [1982年](../Page/1982年.md "wikilink")、バンドの活動がさらにライブ中心に本格化する中、ベースのOZが突然脱退。数人のベーシストの加入を経て、横山明裕『YOKO』が正式メンバーとなる。
 
@@ -45,7 +45,7 @@
 
 [1991年](../Page/1991年.md "wikilink")エクスプロイテッド(Exploited)の来日公演をサポートし、8月には[Outrage](https://ja.wikipedia.org/wiki/Outrage "wikilink")と共に日本のスラッシュメタル系バンドを集めたイベント『メタリゼーション』を全国5都市で開催し成功を収める。
 
-[1992年](../Page/1992年.md "wikilink")、1986年に発表したEP『Beast Dominate』を再[レコーディングし](../Page/録音.md "wikilink")、さらに[ベイ・シティ・ローラーズ](https://ja.wikipedia.org/wiki/ベイ・シティ・ローラーズ "wikilink")(Bay City Rollers)、[ウルトラQ](../Page/ウルトラQ.md "wikilink")のテーマ曲の[カバーを加えた](https://ja.wikipedia.org/wiki/カバー#カバー（楽曲） "wikilink")6曲入りミニアルバム『Beast Dominates '92』を3月にリリース。5月にはラーズ・ロキット(Laas Rockit)の来日サポートを行う。9月には2ndアルバム『Human Zoo』をリリースし、12月にはソドム(Sodom)の来日サポートを行う
+[1992年](../Page/1992年.md "wikilink")、1986年に発表したEP『Beast Dominate』を再[レコーディングし](../Page/録音.md "wikilink")、さらに[ベイ・シティ・ローラーズ](../Page/ベイ・シティ・ローラーズ.md "wikilink")(Bay City Rollers)、[ウルトラQ](../Page/ウルトラQ.md "wikilink")のテーマ曲の[カバーを加えた](https://ja.wikipedia.org/wiki/カバー#カバー（楽曲） "wikilink")6曲入りミニアルバム『Beast Dominates '92』を3月にリリース。5月にはラーズ・ロキット(Laas Rockit)の来日サポートを行う。9月には2ndアルバム『Human Zoo』をリリースし、12月にはソドム(Sodom)の来日サポートを行う
 
 [1993年](../Page/1993年.md "wikilink")、5月に『メタリゼーション』を再度開催し、エクソダス(Exodus)との競演を果たす。
 
@@ -55,7 +55,7 @@
 
 [1996年](../Page/1996年.md "wikilink")、3月新ヴォーカリストとして稲津信一が加入する。ロサンゼルスの「Hollywood Studio」にて[レコーディング・エンジニア](../Page/レコーディング・エンジニア.md "wikilink")に[ヴィンセント・ヴォイノ](https://ja.wikipedia.org/wiki/ヴィンセント・ヴォイノ "wikilink")を迎えレコーディングを行う。
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、2月に4thアルバム『Reload』をリリースし、4月には新曲2曲と過去の3曲を再レコーディングしたミニアルバム『Burst』をリリースする。この頃メンバーは[コーン](https://ja.wikipedia.org/wiki/コーン_\(バンド\) "wikilink")(Korn)やトゥール(Tool)等に傾倒しており、彼らのようなラウドロックと自身が培ってきたスラッシュメタルとの融合を模索していた時期である。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、2月に4thアルバム『Reload』をリリースし、4月には新曲2曲と過去の3曲を再レコーディングしたミニアルバム『Burst』をリリースする。この頃メンバーは[コーン](../Page/コーン_\(バンド\).md "wikilink")(Korn)やトゥール(Tool)等に傾倒しており、彼らのようなラウドロックと自身が培ってきたスラッシュメタルとの融合を模索していた時期である。
 
 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、再びヴィンセント・ヴォイノと共にレコーディングを行い、4月に5thアルバム『Distorted Vision』をリリース。7月にはスレイヤー(Slayer)の来日サポートを行う。しかし5thアルバムのレコーディングで、徹底的に鍛え上げられた弦楽器隊とは対照的に、もう少し楽しんで演奏をしたいドラムの内野裕一との間に考え方の相違が起こり、結局12月に内野が脱退する。
 
@@ -71,17 +71,17 @@
 
 [2004年](../Page/2004年.md "wikilink")、4月に新ドラムとして元VacuumのAkiraが加入する。6月に『Hell Breaks Loose Tour 2004』を開催し[Youthquake](https://ja.wikipedia.org/wiki/Youthquake "wikilink")、[Abubaca](https://ja.wikipedia.org/wiki/Abubaca "wikilink")と共に各地を廻る。9月にはエクソダス(Exodus)の来日サポートを行うなど活動も順調だったが、12月にヴォーカルの湯浅が家庭の事情により脱退する。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、6月に新ヴォーカルとしてDefameのNobが加入。12月には『METAL BLADE TOUR IN JAPAN』に参加し [インピオス](../Page/インピオス.md "wikilink")　[ザ・ブラック・ダリア・マーダー](https://ja.wikipedia.org/wiki/ザ・ブラック・ダリア・マーダー "wikilink")と共演。その後8thアルバム『Nine』をリリース。
+[2005年](../Page/2005年.md "wikilink")、6月に新ヴォーカルとしてDefameのNobが加入。12月には『METAL BLADE TOUR IN JAPAN』に参加し [インピオス](../Page/インピオス.md "wikilink")　[ザ・ブラック・ダリア・マーダー](https://ja.wikipedia.org/wiki/ザ・ブラック・ダリア・マーダー "wikilink")と共演。その後8thアルバム『Nine』をリリース。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")、1月から4月にかけて『Genocide Nine Tour '06』と題して全国36カ所を廻り、引き続き6月より『Genocide Again Tour '06』を開催、再び36カ所を廻る。10月には日本のヘヴィメタル・フェスティバル『[LOUD PARK 06](https://ja.wikipedia.org/wiki/LOUD_PARK_06 "wikilink")』へ出演した。
+[2006年](../Page/2006年.md "wikilink")、1月から4月にかけて『Genocide Nine Tour '06』と題して全国36カ所を廻り、引き続き6月より『Genocide Again Tour '06』を開催、再び36カ所を廻る。10月には日本のヘヴィメタル・フェスティバル『[LOUD PARK 06](https://ja.wikipedia.org/wiki/LOUD_PARK_06 "wikilink")』へ出演した。
 
-[2007年](../Page/2007年.md "wikilink")、4月には「A.V.E.S.T project ROCK」に参加。[10-FEET](https://ja.wikipedia.org/wiki/10-FEET "wikilink") [dustbox](https://ja.wikipedia.org/wiki/dustbox "wikilink") [UZUMAKI](https://ja.wikipedia.org/wiki/UZUMAKI "wikilink") [DOORMAT](https://ja.wikipedia.org/wiki/DOORMAT "wikilink") など今までとは違う傾向のバンドと共演を果たす。相変わらず各地を回る活動を続けながら次作に向けての作曲作業に突入。
+[2007年](../Page/2007年.md "wikilink")、4月には「A.V.E.S.T project ROCK」に参加。[10-FEET](../Page/10-FEET.md "wikilink") [dustbox](https://ja.wikipedia.org/wiki/dustbox "wikilink") [UZUMAKI](https://ja.wikipedia.org/wiki/UZUMAKI "wikilink") [DOORMAT](https://ja.wikipedia.org/wiki/DOORMAT "wikilink") など今までとは違う傾向のバンドと共演を果たす。相変わらず各地を回る活動を続けながら次作に向けての作曲作業に突入。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、4月には[44MAGNUM](https://ja.wikipedia.org/wiki/44MAGNUM "wikilink")のトリビュート・アルバムに参加するもボーカルのNOBの家庭に事情により極端に縮小した活動を余儀なくされ、12月のライブを最後にNOBが脱退。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、4月には[44MAGNUM](../Page/44MAGNUM.md "wikilink")のトリビュート・アルバムに参加するもボーカルのNOBの家庭に事情により極端に縮小した活動を余儀なくされ、12月のライブを最後にNOBが脱退。
 
 [2009年](../Page/2009年.md "wikilink")、10月に新ヴォーカルとして[クウェート](../Page/クウェート.md "wikilink")人ヴォーカリストのKEN-SHINが加入。12月からライブを再開。
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")、4月には「10th Anniversary Subciety A.V.E.S.T project」に参加。[coldrain](https://ja.wikipedia.org/wiki/coldrain "wikilink")　[EGG BRAIN](https://ja.wikipedia.org/wiki/EGG_BRAIN "wikilink")　[Pay money To my Pain](../Page/Pay_money_To_my_Pain.md "wikilink")　[RIZE](https://ja.wikipedia.org/wiki/RIZE "wikilink")　10FEETと共演。10月にはレコーディングを開始する。11月にはレコーディングの傍ら楽器隊が[ポール・ディアノ](../Page/ポール・ディアノ.md "wikilink")のJAPAN TOURのサポートをおこなう。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")、4月には「10th Anniversary Subciety A.V.E.S.T project」に参加。[coldrain](https://ja.wikipedia.org/wiki/coldrain "wikilink")　[EGG BRAIN](https://ja.wikipedia.org/wiki/EGG_BRAIN "wikilink")　[Pay money To my Pain](../Page/Pay_money_To_my_Pain.md "wikilink")　[RIZE](../Page/RIZE.md "wikilink")　10FEETと共演。10月にはレコーディングを開始する。11月にはレコーディングの傍ら楽器隊が[ポール・ディアノ](../Page/ポール・ディアノ.md "wikilink")のJAPAN TOURのサポートをおこなう。
 
 [2011年](../Page/2011年.md "wikilink")、UNITEDは結成30周年を迎えた。4月には9thアルバム『Tear Of Illusions』がリリースされ、8月にはこれまでのUNITEDの音源を全て網羅し、さらに未発表曲も収録した12枚組のBOX SET『30th Anniversary complete box』をリリースした。10月には『[LOUD PARK 11](https://ja.wikipedia.org/wiki/LOUD_PARK_11 "wikilink")』に出演。12月に行われた30周年記念GIGには歴代メンバーのNao(Vo)、古井(Vo)、湯浅(Vo)、原(Gt)、中里(Gt)、滝澤(Dr)が出演した。
 
@@ -296,7 +296,7 @@ VICP-65025</p></td>
 </tr>
 <tr class="even">
 <td><p>8th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/12月21日.md" title="wikilink">12月21日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/12月21日.md" title="wikilink">12月21日</a></p></td>
 <td><p><strong>Nine</strong></p></td>
 <td><p>HWCA-1104</p></td>
 <td><ol>
@@ -710,7 +710,7 @@ BITE YOURSELF</p></td>
 </tr>
 <tr class="even">
 <td><p>2000年9月20日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/フラワー・トラベリン・バンド" title="wikilink">FLOWER TRAVELLIN' BAND</a> TRIBUTE</strong></p></td>
+<td><p><strong><a href="../Page/フラワー・トラベリン・バンド.md" title="wikilink">FLOWER TRAVELLIN' BAND</a> TRIBUTE</strong></p></td>
 <td><p>RFCA-0002</p></td>
 <td><p>MAKE UP</p></td>
 <td><p>フリーダム･エム</p></td>
@@ -759,7 +759,7 @@ BITE YOURSELF</p></td>
 </tr>
 <tr class="odd">
 <td><p>2008年4月2日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/44MAGNUM" title="wikilink">44MAGNUM</a> Tribute Album</strong></p></td>
+<td><p><strong><a href="../Page/44MAGNUM.md" title="wikilink">44MAGNUM</a> Tribute Album</strong></p></td>
 <td><p>XNDC-10032</p></td>
 <td><p>IT'S TOO BAD</p></td>
 <td><p>Danger Crue Records</p></td>

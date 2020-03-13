@@ -1,7 +1,7 @@
 > この記事は[LM.C](https://ja.wikipedia.org/wiki/LM.C)から翻訳されています。
 
 
-**LM.C**（エルエムシー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[ユニット](../Page/ユニット.md "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")、[メジャーデビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。
+**LM.C**（エルエムシー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[ユニット](../Page/ユニット.md "wikilink")。[2006年](../Page/2006年.md "wikilink")、[メジャーデビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。
 
 ## メンバー
 
@@ -37,16 +37,16 @@ PIERROTのギタリストだった[Aiji](../Page/Aiji.md "wikilink")と、Sinner
 
 <!-- end list -->
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")
+  - [2006年](../Page/2006年.md "wikilink")
       - 4月2日、PIERROTの[日比谷野外大音楽堂](https://ja.wikipedia.org/wiki/日比谷野外大音楽堂 "wikilink")でのファンクラブ限定ライブ\[2\]で、デビューシングル発売の告知チラシを配布し初めてその存在を明かす。
-      - 8月、メジャーデビュー曲「[☆Rock the LM.C☆](https://ja.wikipedia.org/wiki/Trailers【Gold】 "wikilink")」の[PVシューティングにて](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、初めてファンの前にお披露目となる。
+      - 8月、メジャーデビュー曲「[☆Rock the LM.C☆](https://ja.wikipedia.org/wiki/Trailers【Gold】 "wikilink")」の[PVシューティングにて](../Page/ミュージック・ビデオ.md "wikilink")、初めてファンの前にお披露目となる。
       - 10月4日、[シングル](../Page/シングル.md "wikilink")「[Trailers【Gold】](https://ja.wikipedia.org/wiki/Trailers【Gold】 "wikilink")」「[Trailers【Silver】](https://ja.wikipedia.org/wiki/Trailers【Silver】 "wikilink")」を、2枚同時リリースし、メジャーデビュー。
-      - 10月16日、デビューライブ「Release Party -60min-」を[Shibuya O-EASTで行う](https://ja.wikipedia.org/wiki/Shibuya_O-EAST "wikilink")。
+      - 10月16日、デビューライブ「Release Party -60min-」を[Shibuya O-EASTで行う](../Page/Shibuya_O-EAST.md "wikilink")。
 
 <!-- end list -->
 
   - [2007年](../Page/2007年.md "wikilink")
-      - 3月7日、1枚目の[アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")『GLITTER LOUD BOX』を発売。
+      - 3月7日、1枚目の[アルバム](../Page/スタジオ・アルバム.md "wikilink")『GLITTER LOUD BOX』を発売。
       - 7月28日、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")最大の[ロック・フェスティバル](../Page/ロック・フェスティバル.md "wikilink")『Formoz Festival 2007』に参加\[3\]。
 
 <!-- end list -->
@@ -60,10 +60,10 @@ PIERROTのギタリストだった[Aiji](../Page/Aiji.md "wikilink")と、Sinner
 <!-- end list -->
 
   - [2009年](../Page/2009年.md "wikilink")
-      - 1月から、[南米](../Page/南アメリカ.md "wikilink")・[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")・[アジア](https://ja.wikipedia.org/wiki/アジア "wikilink")を含む、全11ヶ国14公演に及ぶ初のワールドツアーを敢行\[8\]。
-      - 9月27日、[チャリティー](https://ja.wikipedia.org/wiki/チャリティー "wikilink")コンサートイベント「Think the water,Feel the music. LIVE for LOVE we support WaterAid」に出演\[9\]。
+      - 1月から、[南米](../Page/南アメリカ.md "wikilink")・[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")・[アジア](../Page/アジア.md "wikilink")を含む、全11ヶ国14公演に及ぶ初のワールドツアーを敢行\[8\]。
+      - 9月27日、[チャリティー](../Page/チャリティー.md "wikilink")コンサートイベント「Think the water,Feel the music. LIVE for LOVE we support WaterAid」に出演\[9\]。
       - 5月2日、[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")でLM.C LIVE 2009 YAON de FEVER.を開催。\[10\]。
-      - 12月25日、出身地である[長野でLM](../Page/長野県.md "wikilink").C TOUR'09 -winter- FINAL 「NAGANO de HOLY☆NIGHT」を開催。[長野県民文化会館・大ホールで行った](https://ja.wikipedia.org/wiki/長野県県民文化会館 "wikilink")。
+      - 12月25日、出身地である[長野でLM](../Page/長野県.md "wikilink").C TOUR'09 -winter- FINAL 「NAGANO de HOLY☆NIGHT」を開催。[長野県民文化会館・大ホールで行った](../Page/長野県県民文化会館.md "wikilink")。
 
 <!-- end list -->
 
@@ -75,11 +75,11 @@ PIERROTのギタリストだった[Aiji](../Page/Aiji.md "wikilink")と、Sinner
 <!-- end list -->
 
   - [2011年](../Page/2011年.md "wikilink")
-      - デビュー5周年を記念した全国ツアー、～Go To The 5th Anniversary～ LM.C LIVE TOUR 2011、 LM.C TOUR 2011、[Zepp Nagoya](https://ja.wikipedia.org/wiki/Zepp "wikilink")、[Zepp Osaka](https://ja.wikipedia.org/wiki/Zepp "wikilink")、[Zepp Tokyoの](https://ja.wikipedia.org/wiki/Zepp "wikilink")3箇所で - CRAZY A GO GO GO TO THE 5TH ANNIVERSARY -を行う。
+      - デビュー5周年を記念した全国ツアー、～Go To The 5th Anniversary～ LM.C LIVE TOUR 2011、 LM.C TOUR 2011、[Zepp Nagoya](../Page/Zepp.md "wikilink")、[Zepp Osaka](../Page/Zepp.md "wikilink")、[Zepp Tokyoの](../Page/Zepp.md "wikilink")3箇所で - CRAZY A GO GO GO TO THE 5TH ANNIVERSARY -を行う。
       - 5月1日、[タイにてLM](../Page/タイ王国.md "wikilink").C LIVE TOUR 2011 in [Thailand](../Page/タイ王国.md "wikilink")、6月3日には[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")でLM.C LIVE TOUR 2011 in [Hong Kongを行う](https://ja.wikipedia.org/wiki/香港 "wikilink")。
       - [東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")の影響で延期となったが、5月29日、～Go To The 5th Anniversary～ LM.C LIVE 2011 YAON de FEVER FEVER\!\!を[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")で開催。雨の中でのライブとなった。
-      - 10月12日、[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『☆★Best the LM.C★☆2006-2011 SINGLES』を発売。
-      - 10月16日、[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")にてファン投票によって[セットリスト](https://ja.wikipedia.org/wiki/セットリスト "wikilink")が決められるカウントダウンライブ「LM.Cリクエストアワー セットリストベスト20」、「Release Party-60min- Returns\!\!」と題した、2006年10月16日に[Shibuya O-EASTで行われた初ライブの再現ライブを開催](https://ja.wikipedia.org/wiki/Shibuya_O-EAST "wikilink")。\[13\]
+      - 10月12日、[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『☆★Best the LM.C★☆2006-2011 SINGLES』を発売。
+      - 10月16日、[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")にてファン投票によって[セットリスト](https://ja.wikipedia.org/wiki/セットリスト "wikilink")が決められるカウントダウンライブ「LM.Cリクエストアワー セットリストベスト20」、「Release Party-60min- Returns\!\!」と題した、2006年10月16日に[Shibuya O-EASTで行われた初ライブの再現ライブを開催](../Page/Shibuya_O-EAST.md "wikilink")。\[13\]
       - 10月23日、[さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")で行われた [V-ROCK FESTIVAL '11](https://ja.wikipedia.org/wiki/V-ROCK_FESTIVAL "wikilink") に出演
 
 <!-- end list -->
@@ -93,7 +93,7 @@ PIERROTのギタリストだった[Aiji](../Page/Aiji.md "wikilink")と、Sinner
 <!-- end list -->
 
   - [2013年](../Page/2013年.md "wikilink")
-      - 1月2日から、3日連続で[東名阪](https://ja.wikipedia.org/wiki/東名阪 "wikilink")ツアー、LM.C LIVE TOUR 2013を[Zepp Nagoya](https://ja.wikipedia.org/wiki/Zepp "wikilink")、[Zepp Namba](https://ja.wikipedia.org/wiki/Zepp "wikilink")、[Zepp Tokyoで敢行](https://ja.wikipedia.org/wiki/Zepp "wikilink")\[17\]。
+      - 1月2日から、3日連続で[東名阪](https://ja.wikipedia.org/wiki/東名阪 "wikilink")ツアー、LM.C LIVE TOUR 2013を[Zepp Nagoya](../Page/Zepp.md "wikilink")、[Zepp Namba](../Page/Zepp.md "wikilink")、[Zepp Tokyoで敢行](../Page/Zepp.md "wikilink")\[17\]。
       - 6月5日、過去のシングルのカップリングに収録されていた曲を新たにマスタリングしたアルバム『B-Side BEST\!\!』を発売。未発表の曲「激FANFARE」等も含んだ作品。
       - 7月11日から、ツアー「STRONG SIDE vs POP SIDE」が開始。
 
@@ -106,13 +106,13 @@ PIERROTのギタリストだった[Aiji](../Page/Aiji.md "wikilink")と、Sinner
       - [SuG](../Page/SuG.md "wikilink")主催、渋谷 SuG Fes 2014 夏に出演。
       - 3度目の[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")でのライブとなるLIVE2014-YAON de FEVER MAX\!\!\!を行う。\[19\]
       - 12月17日、ミニアルバム『PERFECT RAINBOW』を発売。
-      - LM.C LIVE 2014 PERFECT RAINBOW -Release Party-を[渋谷公会堂](https://ja.wikipedia.org/wiki/渋谷公会堂 "wikilink")で開催。
+      - LM.C LIVE 2014 PERFECT RAINBOW -Release Party-を[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")で開催。
 
 <!-- end list -->
 
   - [2015年](../Page/2015年.md "wikilink")
       - 3月15日からLM.C TOUR 2015 -PERFECT RAINBOW-を開始
-      - LM.Cの楽曲「88」にちなんだ8月8日、改装前の[渋谷公会堂](https://ja.wikipedia.org/wiki/渋谷公会堂 "wikilink")でのラストライブ★☆★☆Good-bye渋公\!\! 88ナイト☆★☆★ Over The Fantasy, Under The Rainbow.を開催。\[20\]。
+      - LM.Cの楽曲「88」にちなんだ8月8日、改装前の[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")でのラストライブ★☆★☆Good-bye渋公\!\! 88ナイト☆★☆★ Over The Fantasy, Under The Rainbow.を開催。\[20\]。
       - 2014年、2015年に発売された『PERFECT FANTASY』、『PERFECT RAINBOW』、2作品のアルバムツアーLM.C TOUR 2015「Over The Fantasy, Under The Rainbow.」を9月5日から開始。ツアー開催を記念し、会場＆CJビクターオンラインサイト限定でPERFECTシリーズのCOMPLETE ALBUM『Over The Fantasy, Under The Rainbow.』を発売
 
 <!-- end list -->
@@ -131,7 +131,7 @@ PIERROTのギタリストだった[Aiji](../Page/Aiji.md "wikilink")と、Sinner
 <!-- end list -->
 
   - [2017年](../Page/2017年.md "wikilink")
-      - 2月19日 [TSUTAYA O-EASTからLM](https://ja.wikipedia.org/wiki/Shibuya_O-EAST "wikilink").C TOUR 2017「VEDA」を開始。\[25\]。
+      - 2月19日 [TSUTAYA O-EASTからLM](../Page/Shibuya_O-EAST.md "wikilink").C TOUR 2017「VEDA」を開始。\[25\]。
 
 ## ディスコグラフィ
 
@@ -139,7 +139,7 @@ PIERROTのギタリストだった[Aiji](../Page/Aiji.md "wikilink")と、Sinner
 
 |    | 発売日                                                           | タイトル                                                                                                                        | 最高順位           |
 | -- | ------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | -------------- |
-| 1  | [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")10月4日  | ''' [Trailers【Gold】](https://ja.wikipedia.org/wiki/Trailers【Gold】 "wikilink") '''                                           | 24位            |
+| 1  | [2006年](../Page/2006年.md "wikilink")10月4日                     | ''' [Trailers【Gold】](https://ja.wikipedia.org/wiki/Trailers【Gold】 "wikilink") '''                                           | 24位            |
 | 2  | 2006年10月4日                                                    | ''' [Trailers【Silver】](https://ja.wikipedia.org/wiki/Trailers【Silver】 "wikilink") '''                                       | 29位            |
 | 3  | [2007年](../Page/2007年.md "wikilink")1月31日                     | ''' [OH MY JULIET.](https://ja.wikipedia.org/wiki/OH_MY_JULIET. "wikilink") '''                                             | 18位            |
 | 4  | 2007年5月23日                                                    | ''' [BOYS & GIRLS](https://ja.wikipedia.org/wiki/BOYS_&_GIRLS_\(LM.Cの曲\) "wikilink") '''                                    | 18位            |

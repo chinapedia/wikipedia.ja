@@ -1,7 +1,7 @@
 > この記事は[ -W.I.T.C.H.-](https://ja.wikipedia.org/wiki/_-W.I.T.C.H.-)から翻訳されています。
 
 
-『**ウィッチ -W.I.T.C.H.-**』（ウィッチ）は、同名の[イタリア](../Page/イタリア.md "wikilink")の[コミック](https://ja.wikipedia.org/wiki/コミック "wikilink")を原作とする[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")と[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の共同製作。[2004年](../Page/2004年.md "wikilink")から[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")にかけて放送された。全2シーズン、52話。アニメーション制作会社はフランスの「[シップ・アニメーション](https://ja.wikipedia.org/wiki/シップ・アニメーション "wikilink")」。
+『**ウィッチ -W.I.T.C.H.-**』（ウィッチ）は、同名の[イタリア](../Page/イタリア.md "wikilink")の[コミック](https://ja.wikipedia.org/wiki/コミック "wikilink")を原作とする[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")と[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の共同製作。[2004年](../Page/2004年.md "wikilink")から[2006年](../Page/2006年.md "wikilink")にかけて放送された。全2シーズン、52話。アニメーション制作会社はフランスの「[シップ・アニメーション](https://ja.wikipedia.org/wiki/シップ・アニメーション "wikilink")」。
 
 ## 概要
 
@@ -42,7 +42,7 @@
       - 身長：156cm
       - 好きな学科：生物、自然
   - イルマ・レアー（Irma Lair）
-    声 - [キャンディ・ミロ](../Page/キャンディ・ミロ.md "wikilink")／吹き替え - [相田さやか](https://ja.wikipedia.org/wiki/相田さやか "wikilink")
+    声 - [キャンディ・ミロ](../Page/キャンディ・ミロ.md "wikilink")／吹き替え - [相田さやか](../Page/相田さやか.md "wikilink")
     「水」の力の持ち主。ライトブラウンのセミロングに青い瞳の少女。好奇心が強く、誰彼構わずジョークを飛ばすムードメーカー的存在。食いしん坊で少しぽっちゃりしている。楽天的なものの言い方が相手を苛立たせてしまうこともしばしば（特にコーネリア）。不真面目なイメージが強いが、優しい女の子。ペットは[カメ](../Page/カメ.md "wikilink")のリーフィ。海とお風呂をこよなく愛する。未来を予言する予知能力の持ち主。変身後は水を操る力が強化され、津波を起こしたり巨大な水の塊をぶつけたりできるようになる。原作コミックでは変身するとグラマラスな体型になる。
     イメージカラーは水色。シンボルマークは青い波。
     **プロフィール**
@@ -52,7 +52,7 @@
       - 身長：156cm
       - 好きな学科：なし
   - タラネー・クック（Taranee Cook）
-    声 - [カーリー・トロイ](https://ja.wikipedia.org/wiki/カーリー・トロイ "wikilink")／吹き替え - [竹内順子](https://ja.wikipedia.org/wiki/竹内順子 "wikilink")
+    声 - [カーリー・トロイ](https://ja.wikipedia.org/wiki/カーリー・トロイ "wikilink")／吹き替え - [竹内順子](../Page/竹内順子.md "wikilink")
     「炎」の力の持ち主。丸い眼鏡がトレードマークの黒人少女。シャイな性格で、真面目な優等生タイプ。頭が良く、得意分野は数学。チョウなどを除いた虫が苦手。普段は低いサイドポニーだが、変身すると左右三つずつ結んだ髪型になる。いったんキレると炎を所構わず撃ち出して手が付けられなくなる。テレパス能力の持ち主。変身後は拳から灼熱の炎の球を撃ち放てるようになる。
     イメージカラーは赤橙色。シンボルマークは赤い三角形。
     **プロフィール**
@@ -86,7 +86,7 @@
 ### ガーディアンを支える人々
 
   - ヤン・リン
-    声 - [ローレン・トム](https://ja.wikipedia.org/wiki/ローレン・トム "wikilink")／吹き替え - [安達忍](https://ja.wikipedia.org/wiki/安達忍 "wikilink")
+    声 - [ローレン・トム](https://ja.wikipedia.org/wiki/ローレン・トム "wikilink")／吹き替え - [安達忍](../Page/安達忍.md "wikilink")
     ヘイ・リンの祖母。後述のC.H.Y.K.N.（先代のガーディアン）を参照。
   - マット（Matthew Olsen）
     声 - [ジェイソン・マースデン](https://ja.wikipedia.org/wiki/ジェイソン・マースデン "wikilink")／吹き替え - [板倉光隆](../Page/板倉光隆.md "wikilink")
@@ -117,7 +117,7 @@
 ### 反乱軍
 
   - ケイレブ（Caleb）
-    声 - [グレッグ・サイプス](https://ja.wikipedia.org/wiki/グレッグ・サイプス "wikilink")／吹き替え - [加藤将之](https://ja.wikipedia.org/wiki/加藤将之 "wikilink")
+    声 - [グレッグ・サイプス](https://ja.wikipedia.org/wiki/グレッグ・サイプス "wikilink")／吹き替え - [加藤将之](../Page/加藤将之.md "wikilink")
     フォボスの強引なやり方に反対し、反乱軍を率いてレジスタンス活動を続ける若きリーダー。フォボスの差し向けた追っ手に襲われていたところをガーディアンに助け出され、地球に逃れる。コーネリアとは相思相愛。コミックでは読者投票の結果、エリオンを好きになってしまいコーネリアと話し合いの末別れることになる。アニメ版ではネリッサの息子であることが判明。
   - アルダーン（Aldarn）
     声 - [ディー・ブラッドリー・ベイカー](https://ja.wikipedia.org/wiki/ディー・ブラッドリー・ベイカー "wikilink")／吹き替え - [飯島肇](../Page/飯島肇.md "wikilink")
@@ -132,10 +132,10 @@
     声 - [ミッチェル・ホイットフィールド](https://ja.wikipedia.org/wiki/ミッチェル・ホイットフィールド "wikilink")／吹き替え - 板倉光隆
     異世界メリディアンの王。エリオンの兄。傲慢で欲深く慇懃無礼な人物で、強引なやり方でメリディアンを支配する暴君。強力な魔力を持っている。メリディアンだけでなく地球やカンドラカールをも手中に収めるべく、「ベール」の破壊を企む。プラチナブロンドの長髪に青い瞳の美青年。いわゆる美形悪役。
   - セドリック（Lord Cedric）
-    声 - [ディー・ブラッドリー・ベイカー](https://ja.wikipedia.org/wiki/ディー・ブラッドリー・ベイカー "wikilink")／吹き替え - [小野大輔](https://ja.wikipedia.org/wiki/小野大輔 "wikilink")
+    声 - [ディー・ブラッドリー・ベイカー](https://ja.wikipedia.org/wiki/ディー・ブラッドリー・ベイカー "wikilink")／吹き替え - [小野大輔](../Page/小野大輔.md "wikilink")
     フォボスの腹心。普段は金髪の青年の姿をしているが、戦闘時には下半身が蛇の様な巨大な怪物に変身する。地球ではセドリック・ホフマンを名乗り、本屋を営みながら行方不明の王女エリオンを探していた。エリオンの初恋の相手。原作コミックではベールを開く能力を持つ。オルベと恋に落ち、彼女を庇って命を落としてしまう。
   - ブルンク（Blunk）
-    声 - [ダラン・ノリス](https://ja.wikipedia.org/wiki/ダラン・ノリス "wikilink")／吹き替え - [星野充昭](https://ja.wikipedia.org/wiki/星野充昭 "wikilink")
+    声 - [ダラン・ノリス](https://ja.wikipedia.org/wiki/ダラン・ノリス "wikilink")／吹き替え - [星野充昭](../Page/星野充昭.md "wikilink")
     小柄な[トロール](../Page/トロール.md "wikilink")。ベールの裂け目の匂いを嗅ぎ分けることができる。ケレイブとセドリックの戦いに巻き込まれ地球に来てガーディアンの手伝いをする。主食はネズミで、ゴミをあさって生計を立てていた。ケイレブと一緒にいることが多い。少し間抜けでお調子者。[コミックリリーフ](https://ja.wikipedia.org/wiki/コミックリリーフ "wikilink")の一人でマスコット的存在。ウィルには初対面でカエルに間違えられた。地球で見つけた物を宝物にしてメリディアンにたびたび持ち帰っている。
   - ヴァセック（Vathek）
     声 - [Lloyd Sherr](https://ja.wikipedia.org/wiki/:w:Lloyd_Sherr "wikilink")
@@ -162,7 +162,7 @@
     声 - [ベティ・ジーン・ワード](https://ja.wikipedia.org/wiki/ベティ・ジーン・ワード "wikilink")
     先代「炎」のガーディアン。既に他界している。金髪の女性で積極的な性格。生前のキャシディの親友。キャシディがネリッサに殺されたことでオラクルの力に疑問を抱いたため、カンドラカールから追放されてしまった。亡くなるまでカドマと親交があった。アニメ版では存命。追放もされておらず、カンドラカールの評議員になっている。
   - ヤン・リン（Yan Lin）
-    声 - [ローレン・トム](https://ja.wikipedia.org/wiki/ローレン・トム "wikilink")／吹き替え - [安達忍](https://ja.wikipedia.org/wiki/安達忍 "wikilink")
+    声 - [ローレン・トム](https://ja.wikipedia.org/wiki/ローレン・トム "wikilink")／吹き替え - [安達忍](../Page/安達忍.md "wikilink")
     ヘイ・リンの祖母。先代「風」のガーディアン。ネリッサの裏切りやカドマとハリノアの追放後はヤン・リンひとりが残り、カンドラカールの心を守り続けた。ウィルにカンドラカールの心を託し、ヘイ・リンに自分の役目を引き継ぐ。ガーディアン達のよき助言者。若い頃の姿はベリーショートで釣り目がち。
   - カドマ（Kadma）
     声 - [CCH・パウンダー](https://ja.wikipedia.org/wiki/CCH・パウンダー "wikilink")

@@ -1,7 +1,7 @@
 > この記事は[CUBE JUICE](https://ja.wikipedia.org/wiki/CUBE_JUICE)から翻訳されています。
 
 
-**CUBE JUICE**（キューブ・ジュース）は、[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")**長尾 伸一**（ながお しんいち、[1975年](../Page/1975年.md "wikilink")[1月22日](../Page/1月22日.md "wikilink") - ）の[ソロユニット](https://ja.wikipedia.org/wiki/ソロユニット "wikilink")である。2002年[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")よりメジャーデビュー。熊の「BAN BAN」がマスコット。[星野英彦](../Page/星野英彦.md "wikilink")（[BUCK-TICK](https://ja.wikipedia.org/wiki/BUCK-TICK "wikilink")）のソロプロジェクト・[dropz](https://ja.wikipedia.org/wiki/dropz "wikilink")にもメンバーとして参加。
+**CUBE JUICE**（キューブ・ジュース）は、[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")**長尾 伸一**（ながお しんいち、[1975年](../Page/1975年.md "wikilink")[1月22日](../Page/1月22日.md "wikilink") - ）の[ソロユニット](https://ja.wikipedia.org/wiki/ソロユニット "wikilink")である。2002年[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")よりメジャーデビュー。熊の「BAN BAN」がマスコット。[星野英彦](../Page/星野英彦.md "wikilink")（[BUCK-TICK](../Page/BUCK-TICK.md "wikilink")）のソロプロジェクト・[dropz](https://ja.wikipedia.org/wiki/dropz "wikilink")にもメンバーとして参加。
 
 ## ディスコグラフィー
 
@@ -42,13 +42,13 @@
       - 1.ライオン（編曲）
   - [V6 (グループ)](../Page/V6_\(グループ\).md "wikilink")『[READY?](https://ja.wikipedia.org/wiki/READY? "wikilink")』（2010年3月31日）
       - 9.RADIO MAGIC（作曲）
-  - [安蘭けい](https://ja.wikipedia.org/wiki/安蘭けい "wikilink")『arche』（2010年6月2日）
+  - [安蘭けい](../Page/安蘭けい.md "wikilink")『arche』（2010年6月2日）
       - 8.World Is Beautiful（作詞・作曲）
   - [新垣結衣](https://ja.wikipedia.org/wiki/新垣結衣 "wikilink")『[虹](https://ja.wikipedia.org/wiki/虹_\(新垣結衣のアルバム\) "wikilink")』（2010年9月22日）
       - 2.ふわり（作曲）
   - V6『[only dreaming/Catch](https://ja.wikipedia.org/wiki/only_dreaming/Catch "wikilink")』初回限定MUSIC盤（2010年9月1日）
       - DISC-2 3.小さな恋のおはなし（作曲・編曲）
-  - [BUCK-TICK](https://ja.wikipedia.org/wiki/BUCK-TICK "wikilink")『[RAZZLE DAZZLE](https://ja.wikipedia.org/wiki/RAZZLE_DAZZLE "wikilink")』（2010年10月13日）
+  - [BUCK-TICK](../Page/BUCK-TICK.md "wikilink")『[RAZZLE DAZZLE](https://ja.wikipedia.org/wiki/RAZZLE_DAZZLE "wikilink")』（2010年10月13日）
       - 4.独壇場 Beauty -R.I.P.- （編曲）
       - 6.妖月 -ようげつの宴-（編曲）
       - 11.くちづけ -SERIAL THRILL KISSER- （編曲）

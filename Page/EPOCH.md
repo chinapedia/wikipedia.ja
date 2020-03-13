@@ -1,15 +1,15 @@
 > この記事は[EPOCH](https://ja.wikipedia.org/wiki/EPOCH)から翻訳されています。
 
 
-『**EPOCH**』（エポック）は、[RIP SLYMEの](https://ja.wikipedia.org/wiki/RIP_SLYME "wikilink")5枚目の[アルバム](../Page/アルバム.md "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月29日](../Page/11月29日.md "wikilink")発売。
+『**EPOCH**』（エポック）は、[RIP SLYMEの](../Page/RIP_SLYME.md "wikilink")5枚目の[アルバム](../Page/アルバム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[11月29日](../Page/11月29日.md "wikilink")発売。
 
 ## 概要
 
-オリジナルアルバムとしては、『[MASTERPIECE](../Page/MASTERPIECE_\(RIP_SLYMEのアルバム\).md "wikilink")』以来約2年ぶりとなり、最長のリリース間隔である。また、[自律神経失調症](https://ja.wikipedia.org/wiki/自律神経失調症 "wikilink")で休養していたFUMIYAの復帰後初のアルバムである。
+オリジナルアルバムとしては、『[MASTERPIECE](../Page/MASTERPIECE_\(RIP_SLYMEのアルバム\).md "wikilink")』以来約2年ぶりとなり、最長のリリース間隔である。また、[自律神経失調症](../Page/自律神経失調症.md "wikilink")で休養していたFUMIYAの復帰後初のアルバムである。
 
-[くるり](../Page/くるり.md "wikilink")との[コラボレーション](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")[シングル](../Page/シングル.md "wikilink")である「[ラヴぃ](../Page/ラヴぃ.md "wikilink")」は収録されているが、同じくくるりとコラボした「[Juice](../Page/Juice_\(くるりとリップスライムの曲\).md "wikilink")」、[布袋寅泰](../Page/布袋寅泰.md "wikilink")とコラボした「[BATTLE FUNKASTIC](../Page/BATTLE_FUNKASTIC.md "wikilink")」、映画「[間宮兄弟](../Page/間宮兄弟.md "wikilink")」主題歌の「[Hey,Brother](https://ja.wikipedia.org/wiki/間宮兄弟/Hey,Brother_feat._RIP_SLYME "wikilink")」などは未収録となった。
+[くるり](../Page/くるり.md "wikilink")との[コラボレーション](../Page/コラボレーション.md "wikilink")[シングル](../Page/シングル.md "wikilink")である「[ラヴぃ](../Page/ラヴぃ.md "wikilink")」は収録されているが、同じくくるりとコラボした「[Juice](../Page/Juice_\(くるりとリップスライムの曲\).md "wikilink")」、[布袋寅泰](../Page/布袋寅泰.md "wikilink")とコラボした「[BATTLE FUNKASTIC](../Page/BATTLE_FUNKASTIC.md "wikilink")」、映画「[間宮兄弟](../Page/間宮兄弟.md "wikilink")」主題歌の「[Hey,Brother](https://ja.wikipedia.org/wiki/間宮兄弟/Hey,Brother_feat._RIP_SLYME "wikilink")」などは未収録となった。
 
-初回限定盤のみ特典ステッカー付き、「RIP SLYME無料（タダ）武道館ライブII〜fromR〜」のチケットか「EPOCH」豪華[ヘッドフォン](https://ja.wikipedia.org/wiki/ヘッドフォン "wikilink")が当たるシリアル・ナンバー付きの三面見開きパノラマ紙ジャケ仕様。
+初回限定盤のみ特典ステッカー付き、「RIP SLYME無料（タダ）武道館ライブII〜fromR〜」のチケットか「EPOCH」豪華[ヘッドフォン](../Page/ヘッドフォン.md "wikilink")が当たるシリアル・ナンバー付きの三面見開きパノラマ紙ジャケ仕様。
 
 ## 収録曲
 
@@ -41,7 +41,7 @@
 8.  **レッツゴー7〜8匹（feat. スチャダラパー）**
       -
         （作詞：RYO-Z, ILMARI, PES, SU, BOSE, ANI　作曲：DJ FUMIYA）
-        [スチャダラパー](https://ja.wikipedia.org/wiki/スチャダラパー "wikilink")が参加している。
+        [スチャダラパー](../Page/スチャダラパー.md "wikilink")が参加している。
 9.  **Break Beats ERA**
       -
         （作曲：DJ FUMIYA）

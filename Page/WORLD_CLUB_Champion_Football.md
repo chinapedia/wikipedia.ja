@@ -560,7 +560,7 @@ H&Ａトーナメント制・5試合。
 
   - [バイエルン・ミュンヘン](https://ja.wikipedia.org/wiki/FCバイエルン・ミュンヘン "wikilink")
   - [VfLボルフスブルク](../Page/VfLヴォルフスブルク.md "wikilink")
-  - [AZアルクマール](https://ja.wikipedia.org/wiki/AZアルクマール "wikilink")
+  - [AZアルクマール](../Page/AZアルクマール.md "wikilink")
   - [FCポルト](../Page/FCポルト.md "wikilink")
 
 </div>

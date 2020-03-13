@@ -84,7 +84,7 @@
 
 ## 登場キャラクター
 
-  - [孫悟空](https://ja.wikipedia.org/wiki/孫悟空_\(ドラゴンボール\) "wikilink")（声：[野沢雅子](../Page/野沢雅子.md "wikilink")）
+  - [孫悟空](../Page/孫悟空_\(ドラゴンボール\).md "wikilink")（声：[野沢雅子](../Page/野沢雅子.md "wikilink")）
 
 <!-- end list -->
 
@@ -102,7 +102,7 @@
 
 <!-- end list -->
 
-  - [パン](https://ja.wikipedia.org/wiki/パン_\(ドラゴンボール\) "wikilink")（声：[皆口裕子](../Page/皆口裕子.md "wikilink")）
+  - [パン](../Page/パン_\(ドラゴンボール\).md "wikilink")（声：[皆口裕子](../Page/皆口裕子.md "wikilink")）
 
 <!-- end list -->
 
@@ -120,7 +120,7 @@
 
 <!-- end list -->
 
-  - [孫悟飯](https://ja.wikipedia.org/wiki/孫悟飯 "wikilink")（声：野沢雅子）
+  - [孫悟飯](../Page/孫悟飯.md "wikilink")（声：野沢雅子）
 
 <!-- end list -->
 
@@ -129,7 +129,7 @@
 
 <!-- end list -->
 
-  - [ベジータ](https://ja.wikipedia.org/wiki/ベジータ "wikilink")（声：[堀川亮](../Page/堀川りょう.md "wikilink")）
+  - [ベジータ](../Page/ベジータ.md "wikilink")（声：[堀川亮](../Page/堀川りょう.md "wikilink")）
 
 <!-- end list -->
 

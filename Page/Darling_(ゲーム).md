@@ -1,7 +1,7 @@
 > この記事は[Darling \(\)](https://ja.wikipedia.org/wiki/Darling_\(\))から翻訳されています。
 
 
-**Darling**（だーりん）は[NESTより発売された](https://ja.wikipedia.org/wiki/NEST_\(ゲームブランド\) "wikilink")[声優](../Page/声優.md "wikilink")[子安武人](../Page/子安武人.md "wikilink")がプロデュースと主演をするパソコン用[女性向け](https://ja.wikipedia.org/wiki/乙女ゲーム "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")。
+**Darling**（だーりん）は[NESTより発売された](https://ja.wikipedia.org/wiki/NEST_\(ゲームブランド\) "wikilink")[声優](../Page/声優.md "wikilink")[子安武人](../Page/子安武人.md "wikilink")がプロデュースと主演をするパソコン用[女性向け](../Page/乙女ゲーム.md "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")。
 
 ## 第1作 Darling
 

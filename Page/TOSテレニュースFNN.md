@@ -5,7 +5,7 @@
 
 ## 概要
 
-テレビ大分は[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")の開局時から1993年[9月26日](../Page/9月26日.md "wikilink")まで[ANN昼のニュース番組](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")『[ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")』を放送していたが、ANN系列フルネット局の[大分朝日放送](../Page/大分朝日放送.md "wikilink")が開局するのに合わせてこの番組の放送を開始した。
+テレビ大分は[1970年](../Page/1970年.md "wikilink")の開局時から1993年[9月26日](../Page/9月26日.md "wikilink")まで[ANN昼のニュース番組](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")『[ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")』を放送していたが、ANN系列フルネット局の[大分朝日放送](../Page/大分朝日放送.md "wikilink")が開局するのに合わせてこの番組の放送を開始した。
 
 内容は、[フジテレビ発の全国ニュース](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[産経テレニュースFNN](https://ja.wikipedia.org/wiki/産経テレニュースFNN "wikilink")』が中心だった。平日（かつては土曜版もあった）に放送される『[TOSスピーク](../Page/TOSスピーク.md "wikilink")』とは違って県内のニュースを取り扱っていない。
 

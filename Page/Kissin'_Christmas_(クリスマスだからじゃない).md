@@ -19,7 +19,7 @@
 
 プロモーションレコードは3種類のアナログEP盤があり、A/B面とも当該楽曲が入っているもの、B面には[CHAGE and ASKAの楽曲が入っているもの](../Page/CHAGE_and_ASKA.md "wikilink")、B面には何も入っていないもの（溝がない）ものである。EP盤片面に7分10秒の楽曲を収録していることから、音溝が狭くなっておりレベルが低い旨の注釈が表記されている。
 
-かつては、2002年に発売された桑田のベスト・アルバム「[TOP OF THE POPS](https://ja.wikipedia.org/wiki/TOP_OF_THE_POPS_\(桑田佳祐のアルバム\) "wikilink")」にこの曲を入れようという運動があったが、スタジオ録音での[マスターテープ](https://ja.wikipedia.org/wiki/マスターテープ "wikilink")が当時見つからなかったため収録は見送られていた。桑田自身も多くを語らない楽曲であったが、2006年に自身のラジオ番組「[桑田佳祐のやさしい夜遊び](../Page/桑田佳祐のやさしい夜遊び.md "wikilink")」内で同曲の一部をOAしており、「また機会があったら全部かけてもいいかな」などと語っていた。
+かつては、2002年に発売された桑田のベスト・アルバム「[TOP OF THE POPS](../Page/TOP_OF_THE_POPS_\(桑田佳祐のアルバム\).md "wikilink")」にこの曲を入れようという運動があったが、スタジオ録音での[マスターテープ](https://ja.wikipedia.org/wiki/マスターテープ "wikilink")が当時見つからなかったため収録は見送られていた。桑田自身も多くを語らない楽曲であったが、2006年に自身のラジオ番組「[桑田佳祐のやさしい夜遊び](../Page/桑田佳祐のやさしい夜遊び.md "wikilink")」内で同曲の一部をOAしており、「また機会があったら全部かけてもいいかな」などと語っていた。
 
 マスターテープを発見した時、デジタル盤とアナログ盤がみつかったが、アナログ盤はあまりにも古かったためテープ同士が1枚1枚張りついており、[オーブン](../Page/オーブン.md "wikilink")で少しずつ温めて丁寧に直していった。なお、デジタル盤は使い物にならなくなっていたという\[8\]。
 
@@ -45,8 +45,8 @@
 
   - JASRACのホームページでは「KISS IN X'MAS (クリスマスのせいじゃなく)」と間違えて登録されているが、正式なタイトルは「Kissin' Christmas (クリスマスだからじゃない)」である。前述のタイトルはサザンのファンクラブ「サザンオールスターズ応援団」への先行歌詞公開時にだけ使われており、恐らく完成前のデモ段階のものが登録されてしまったものだと考えられる。
   - オリジナルが発売される前に[TRY-TONE](../Page/TRY-TONE.md "wikilink")がカヴァーしたものが[1999年](../Page/1999年.md "wikilink")[11月20日](../Page/11月20日.md "wikilink")発売のアルバム『J-POP A CAPPELLA CHRISTMAS ALBUM』に収録されている。
-  - [タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")の[通信カラオケ](../Page/通信カラオケ.md "wikilink")『X2000』、『[Lavca](https://ja.wikipedia.org/wiki/Lavca "wikilink")』、およびその後継機である[エクシング](../Page/エクシング.md "wikilink")の[JOYSOUND](../Page/JOYSOUND.md "wikilink")、[UGA](https://ja.wikipedia.org/wiki/UGA "wikilink")では「桑田佳祐・松任谷由実」名義で配信されていた（JOYSOUND、UGAおよび[DAMでは本来の](../Page/DAM_\(カラオケ\).md "wikilink")「桑田佳祐 & His Friends」名義でアルバム発売時に改めて配信）。同じく[着信メロディ](../Page/着信メロディ.md "wikilink")がタイトー主催の『究極EZメロディ取り放題\!』というサイトでも着メロが配信されている。
-  - 「Merry X'mas Show」の司会を務めた[明石家さんま](../Page/明石家さんま.md "wikilink")のラジオ番組「[ヤングタウン土曜日](../Page/ヤングタウン土曜日.md "wikilink")」では、クリスマスの週に放送される番組のエンディングにこの曲を流すのが恒例である。また、2007年1月3日放送の「[さんタク](../Page/さんタク.md "wikilink")」の中でさんまからのリクエストにより[木村拓哉](https://ja.wikipedia.org/wiki/木村拓哉 "wikilink")がギターの弾き語りでこの曲を演奏し、その際にはタイトルを「Kissin' Santaku」に、歌詞の「クリスマス」を「さんタク」などと変更されていた。
+  - [タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")の[通信カラオケ](../Page/通信カラオケ.md "wikilink")『X2000』、『[Lavca](../Page/Lavca.md "wikilink")』、およびその後継機である[エクシング](../Page/エクシング.md "wikilink")の[JOYSOUND](../Page/JOYSOUND.md "wikilink")、[UGA](https://ja.wikipedia.org/wiki/UGA "wikilink")では「桑田佳祐・松任谷由実」名義で配信されていた（JOYSOUND、UGAおよび[DAMでは本来の](../Page/DAM_\(カラオケ\).md "wikilink")「桑田佳祐 & His Friends」名義でアルバム発売時に改めて配信）。同じく[着信メロディ](../Page/着信メロディ.md "wikilink")がタイトー主催の『究極EZメロディ取り放題\!』というサイトでも着メロが配信されている。
+  - 「Merry X'mas Show」の司会を務めた[明石家さんま](../Page/明石家さんま.md "wikilink")のラジオ番組「[ヤングタウン土曜日](../Page/ヤングタウン土曜日.md "wikilink")」では、クリスマスの週に放送される番組のエンディングにこの曲を流すのが恒例である。また、2007年1月3日放送の「[さんタク](../Page/さんタク.md "wikilink")」の中でさんまからのリクエストにより[木村拓哉](../Page/木村拓哉.md "wikilink")がギターの弾き語りでこの曲を演奏し、その際にはタイトルを「Kissin' Santaku」に、歌詞の「クリスマス」を「さんタク」などと変更されていた。
 
 ## 脚注
 

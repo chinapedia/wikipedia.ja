@@ -20,7 +20,7 @@
 
 ## 作品
 
-  - EXTRAVAGANZA（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")）- CD:RLCG-0002
+  - EXTRAVAGANZA（[2005年](../Page/2005年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")）- CD:RLCG-0002
       - 01\) Hope And Fears
       - 02\) ACTUAL GOD
       - 03\) SHOT THE HEART

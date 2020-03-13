@@ -19,25 +19,25 @@
 
 ### 1980年代
 
-[論理回路](https://ja.wikipedia.org/wiki/論理回路 "wikilink")設計用のCAEシステムとして[メンター・グラフィックス](https://ja.wikipedia.org/wiki/メンター・グラフィックス "wikilink")、デイジー、バリッドなどが登場する。プラットフォームには汎用のエンジニアリングワークステーション（[EWS](https://ja.wikipedia.org/wiki/ワークステーション#エンジニアリングワークステーション "wikilink")）を使用したもの（メンター）と専用のハード・OSを使用していたものがあった（後の2社）が、その後[UNIX](../Page/UNIX.md "wikilink")ベースのEWSとOSが一般的になった。
+[論理回路](https://ja.wikipedia.org/wiki/論理回路 "wikilink")設計用のCAEシステムとして[メンター・グラフィックス](../Page/メンター・グラフィックス.md "wikilink")、デイジー、バリッドなどが登場する。プラットフォームには汎用のエンジニアリングワークステーション（[EWS](https://ja.wikipedia.org/wiki/ワークステーション#エンジニアリングワークステーション "wikilink")）を使用したもの（メンター）と専用のハード・OSを使用していたものがあった（後の2社）が、その後[UNIX](../Page/UNIX.md "wikilink")ベースのEWSとOSが一般的になった。
 
 これらのツールは論理回路入力をするエディターとその動作検証をシミュレータなどを一体としたものである。またこのあたりから設計者一人ひとりが占有して使うという形態が一般的になってくる。
 
-レイアウトCADで作成データと論理設計ツールのデータを比較するツールも登場する（ECAD社、後にCadence社） 回路図をもとにレイアウトデータの自動配置配線を行うツールも出てきた。当初はゲートアレイなどの[セミカスタム半導体を対象したが](../Page/ASIC.md "wikilink")、より汎用性の高いものへと進化していった。この種のツールにおいては多数の図形データを処理する必要があるが、[計算幾何学](https://ja.wikipedia.org/wiki/計算幾何学 "wikilink")の成果も取り入れ性能の向上が図られていった。
+レイアウトCADで作成データと論理設計ツールのデータを比較するツールも登場する（ECAD社、後にCadence社） 回路図をもとにレイアウトデータの自動配置配線を行うツールも出てきた。当初はゲートアレイなどの[セミカスタム半導体を対象したが](../Page/ASIC.md "wikilink")、より汎用性の高いものへと進化していった。この種のツールにおいては多数の図形データを処理する必要があるが、[計算幾何学](../Page/計算幾何学.md "wikilink")の成果も取り入れ性能の向上が図られていった。
 
-複数のベンダーが各種ツールを発表した結果、データの互換がとれない等の問題も生じている。当時2大ベンダーであった[ケイデンス社](https://ja.wikipedia.org/wiki/ケイデンス・デザイン・システムズ "wikilink")（Cadence）とメンター社（Mentor）がそれぞれフレームワークという枠組みに他社製品を取り込んで統合しようとの動きもあったが成功していない。またデータを交換する共通フォーマットとして[EDIF](https://ja.wikipedia.org/wiki/EDIF "wikilink")の研究が始まった。
+複数のベンダーが各種ツールを発表した結果、データの互換がとれない等の問題も生じている。当時2大ベンダーであった[ケイデンス社](../Page/ケイデンス・デザイン・システムズ.md "wikilink")（Cadence）とメンター社（Mentor）がそれぞれフレームワークという枠組みに他社製品を取り込んで統合しようとの動きもあったが成功していない。またデータを交換する共通フォーマットとして[EDIF](../Page/EDIF.md "wikilink")の研究が始まった。
 
 #### ハードウェア記述言語の登場
 
 [カーバー・ミード](../Page/カーバー・ミード.md "wikilink")と[リン・コンウェイ](../Page/リン・コンウェイ.md "wikilink")の著書『超LSIシステム入門』で、プログラミング言語のコンパイルによって回路を生成することが提唱された。これは論理合成として後に実用化される。
 
-1980年代半ばに、回路図ではなくプログラム言語に似た[ハードウェア記述言語](../Page/ハードウェア記述言語.md "wikilink")（HDL）の一つである[Verilog](https://ja.wikipedia.org/wiki/Verilog "wikilink")とそのシミュレータが登場、回路図に代わって言語記述で設計する手法が始まった。1980年代後半には、そのHDLから論理回路（ネットリスト）を自動生成するシステムが実用化された。この技術は[論理合成](../Page/論理合成.md "wikilink")と呼ばれ、[シノプシス](../Page/シノプシス.md "wikilink")により製品化された。
+1980年代半ばに、回路図ではなくプログラム言語に似た[ハードウェア記述言語](../Page/ハードウェア記述言語.md "wikilink")（HDL）の一つである[Verilog](../Page/Verilog.md "wikilink")とそのシミュレータが登場、回路図に代わって言語記述で設計する手法が始まった。1980年代後半には、そのHDLから論理回路（ネットリスト）を自動生成するシステムが実用化された。この技術は[論理合成](../Page/論理合成.md "wikilink")と呼ばれ、[シノプシス](../Page/シノプシス.md "wikilink")により製品化された。
 
 ### 1990年以降
 
 それぞれのツールの性能向上が続くなかで、半導体製造工程の微細化による様々な問題を解決するためのツールが各種登場する。シミュレーションを行わずにタイミングの問題を検証するツール（静的タイミング解析）、複数の回路の等価性を比較するツール（[形式等価判定](../Page/形式等価判定.md "wikilink")）、配線遅延や負荷を考慮しながらクロック配線網を生成するツール（クロックツリー合成）など各種のものが登場している。また実際[ウェハー](../Page/ウェハー.md "wikilink")にパターンを露光する際、光の波長に近づき近接効果が無視できなくなってきたため、あらかじめ補正する光学近接効果補正技術（、OPC）も使われるようになった。
 
-1990年代後半よりHDLより抽象度の高い記述を可能とする言語の開発が始まった。[C](../Page/C言語.md "wikilink")/[C++](../Page/C++.md "wikilink")を元にした[SystemC](https://ja.wikipedia.org/wiki/SystemC "wikilink")、SpecCや既存のVerilogの拡張である[SystemVerilog](../Page/SystemVerilog.md "wikilink")などである。これらはシステム記述言語などと呼ばれる。
+1990年代後半よりHDLより抽象度の高い記述を可能とする言語の開発が始まった。[C](../Page/C言語.md "wikilink")/[C++](../Page/C++.md "wikilink")を元にした[SystemC](../Page/SystemC.md "wikilink")、SpecCや既存のVerilogの拡張である[SystemVerilog](../Page/SystemVerilog.md "wikilink")などである。これらはシステム記述言語などと呼ばれる。
 
 プラットフォームは[サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")を中心とした各種ワークステーションのシェア向上が続いたが、PCの性能向上により[Linux](../Page/Linux.md "wikilink")を使う動きがでてきた。[Windows NTおよび後継のサポートもされるようになってきた](../Page/Microsoft_Windows_NT.md "wikilink")。2000年以降、ハードウェアとして[PC/AT互換機](https://ja.wikipedia.org/wiki/PC/AT互換機 "wikilink")を、OSとしてWindowsやLinuxを使う動きが加速している。
 
@@ -64,7 +64,7 @@
         全体のシステムの要求より、構成するブロックと各ブロックの要求性能を決定する。この際に行われるシミュレーションを[システムシミュレーション](https://ja.wikipedia.org/wiki/システムシミュレーション "wikilink")という。
   - 個別ブロック設計
       -
-        各ブロックは[シミュレーション](../Page/シミュレーション.md "wikilink")を利用して、個別に要求性能を満たす設計を行う。デジタル回路のブロックは[Verilog](https://ja.wikipedia.org/wiki/Verilog "wikilink")・[VHDL](https://ja.wikipedia.org/wiki/VHDL "wikilink")等を用いた論理記述で、アナログ回路はSPICEネットリスト等を利用した記述で回路図へ変換を行う。必要に応じて[IPを利用する](../Page/IPコア.md "wikilink")。
+        各ブロックは[シミュレーション](../Page/シミュレーション.md "wikilink")を利用して、個別に要求性能を満たす設計を行う。デジタル回路のブロックは[Verilog](../Page/Verilog.md "wikilink")・[VHDL](../Page/VHDL.md "wikilink")等を用いた論理記述で、アナログ回路はSPICEネットリスト等を利用した記述で回路図へ変換を行う。必要に応じて[IPを利用する](../Page/IPコア.md "wikilink")。
     <!-- end list -->
       - [IP](../Page/IPコア.md "wikilink")（）
           -
@@ -111,8 +111,8 @@
 <!-- end list -->
 
   - [シノプシス](../Page/シノプシス.md "wikilink")　（売上高：1535.6百万米ドル） - 2011年、Extreme DA及びを買収し、2012年、SpringSoftを買収し、2015年、Atrentaを買収した。
-  - [ケイデンス・デザイン・システムズ](https://ja.wikipedia.org/wiki/ケイデンス・デザイン・システムズ "wikilink")　（売上高：1149.8百万米ドル） - 2010年、Denali Softwareを買収し、2011年、Azuroを買収した。
-  - [メンター・グラフィックス](https://ja.wikipedia.org/wiki/メンター・グラフィックス "wikilink")　（売上高：1014.6百万米ドル）- 2013年、Oasys Design SystemsのEDA「RealTime」を買収し、2015年、Tanner EDAを買収した。2017年、[シーメンス](../Page/シーメンス.md "wikilink")により買収された。同年、訴訟により破産したATopTechの資産を買収した\[2\]ほか、親会社のシーメンスがSolido Design Automationを買収した。2018年、シーメンスがAustemper Design Systemsの買収を発表した。
+  - [ケイデンス・デザイン・システムズ](../Page/ケイデンス・デザイン・システムズ.md "wikilink")　（売上高：1149.8百万米ドル） - 2010年、Denali Softwareを買収し、2011年、Azuroを買収した。
+  - [メンター・グラフィックス](../Page/メンター・グラフィックス.md "wikilink")　（売上高：1014.6百万米ドル）- 2013年、Oasys Design SystemsのEDA「RealTime」を買収し、2015年、Tanner EDAを買収した。2017年、[シーメンス](../Page/シーメンス.md "wikilink")により買収された。同年、訴訟により破産したATopTechの資産を買収した\[2\]ほか、親会社のシーメンスがSolido Design Automationを買収した。2018年、シーメンスがAustemper Design Systemsの買収を発表した。
 
 売上はFY2011
 

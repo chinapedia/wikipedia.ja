@@ -116,11 +116,11 @@
     [an](https://ja.wikipedia.org/wiki/an_\(求人情報\) "wikilink") BE WITH YOU
     上記2番組は前番組のJ-WAVE DXから引き継いだスポンサー枠の番組であった。2002年9月終了。
   - [DoCoMo](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink") MOONLIGHT COMPASS
-    OH\! MY RADIO開始と同時に放送開始し23:50 - 24:00に放送されていた。ナビゲーターは[綾戸智絵](https://ja.wikipedia.org/wiki/綾戸智絵 "wikilink")。2003年4月以降は平日23:50 - 24:00の単独番組となる。のちにナビゲーターは[矢野顕子](../Page/矢野顕子.md "wikilink")に交代。同枠は[DoCoMo MAKING SENSEに引き継がれた](https://ja.wikipedia.org/wiki/MAKING_SENSE "wikilink")。2005年3月終了。
+    OH\! MY RADIO開始と同時に放送開始し23:50 - 24:00に放送されていた。ナビゲーターは[綾戸智絵](https://ja.wikipedia.org/wiki/綾戸智絵 "wikilink")。2003年4月以降は平日23:50 - 24:00の単独番組となる。のちにナビゲーターは[矢野顕子](../Page/矢野顕子.md "wikilink")に交代。同枠は[DoCoMo MAKING SENSEに引き継がれた](../Page/MAKING_SENSE.md "wikilink")。2005年3月終了。
   - DoCoMo [M-stage music](../Page/M-stage.md "wikilink") presents "COMMUNE"
     本番組と同じ2001年10月1日から放送開始された[Jam the WORLD内で開始時から放送していた番組で](../Page/Jam_the_WORLD.md "wikilink")、OH\! MY RADIO内では2003年4月から9月まで放送。ナビゲーターは[ちわきまゆみ](../Page/ちわきまゆみ.md "wikilink")。
   - RE-FLEX VOX
-    前番組である[NIGHT STORIESから引き継いだ番組](https://ja.wikipedia.org/wiki/NIGHT_STORIES "wikilink")。週単位で2名（もしくは2組）のゲスト同士による対談。放送期間は2006年4月 - 2007年3月。
+    前番組である[NIGHT STORIESから引き継いだ番組](../Page/NIGHT_STORIES.md "wikilink")。週単位で2名（もしくは2組）のゲスト同士による対談。放送期間は2006年4月 - 2007年3月。
 
 ## 特別番組
 

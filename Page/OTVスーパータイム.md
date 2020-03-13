@@ -37,4 +37,4 @@
 
 [Category:1992年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1992年のテレビ番組_\(日本\) "wikilink") [Category:沖縄テレビ放送の番組](https://ja.wikipedia.org/wiki/Category:沖縄テレビ放送の番組 "wikilink") [Category:九州・沖縄地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のテレビのニュース・報道番組の歴史 "wikilink") [Category:九州・沖縄地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のテレビの帯番組 "wikilink") [Category:FNNスーパータイム](https://ja.wikipedia.org/wiki/Category:FNNスーパータイム "wikilink")
 
-1.  同様に[琉球放送](https://ja.wikipedia.org/wiki/琉球放送 "wikilink")の夕方のニュースワイド番組（当時は「[RBCエリアレポート](../Page/RBCエリアレポート.md "wikilink")」）も時差放送されていた
+1.  同様に[琉球放送](../Page/琉球放送.md "wikilink")の夕方のニュースワイド番組（当時は「[RBCエリアレポート](../Page/RBCエリアレポート.md "wikilink")」）も時差放送されていた

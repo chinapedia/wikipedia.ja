@@ -3,7 +3,7 @@
 
 **WIEN BASEBALL CLUB**（ウィーンベースボールクラブ）は、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[鎌倉市](../Page/鎌倉市.md "wikilink")に本拠地を置き、[日本野球連盟](../Page/日本野球連盟.md "wikilink")に所属する[社会人野球](../Page/社会人野球.md "wikilink")の[クラブチーム](../Page/クラブチーム_\(社会人野球\).md "wikilink")。
 
-[東京都](../Page/東京都.md "wikilink")に本拠地を置く[WIEN'Z](https://ja.wikipedia.org/wiki/WIEN'Z "wikilink")は、このチームから分かれて設立された。
+[東京都](../Page/東京都.md "wikilink")に本拠地を置く[WIEN'Z](../Page/WIEN'Z.md "wikilink")は、このチームから分かれて設立された。
 
 ## 概要
 
@@ -13,7 +13,7 @@
 
 [1989年](../Page/1989年.md "wikilink")、[全日本クラブ野球選手権大会](../Page/全日本クラブ野球選手権大会.md "wikilink")に初出場（ベスト4）。
 
-[1993年](../Page/1993年.md "wikilink")の冬、創設者の1人である軍司が退団し、[東京都](../Page/東京都.md "wikilink")に本拠地とする[クラブチームの](../Page/クラブチーム_\(社会人野球\).md "wikilink")[WIEN'94を設立した](https://ja.wikipedia.org/wiki/WIEN'Z "wikilink")\[3\]。これにより、東山が球団代表に就任した。
+[1993年](../Page/1993年.md "wikilink")の冬、創設者の1人である軍司が退団し、[東京都](../Page/東京都.md "wikilink")に本拠地とする[クラブチームの](../Page/クラブチーム_\(社会人野球\).md "wikilink")[WIEN'94を設立した](../Page/WIEN'Z.md "wikilink")\[3\]。これにより、東山が球団代表に就任した。
 
 [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、全日本クラブ野球選手権大会で準優勝となる。
 

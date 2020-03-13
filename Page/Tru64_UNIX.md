@@ -7,17 +7,17 @@ Tru64 UNIXは、[Mach](../Page/Mach.md "wikilink")カーネル上に構築され
 
 ## OSF/1
 
-[1988年](../Page/1988年.md "wikilink")、いわゆる「[UNIX戦争](../Page/UNIX戦争.md "wikilink")」の最中に、[AT\&T](../Page/AT&T.md "wikilink")や[サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")と対抗する[UNIX](../Page/UNIX.md "wikilink")を開発すべく、[DECは](../Page/ディジタル・イクイップメント・コーポレーション.md "wikilink")[IBM](../Page/IBM.md "wikilink")、[ヒューレットパッカード](https://ja.wikipedia.org/wiki/ヒューレットパッカード "wikilink") (HP) と合流して[Open Software Foundation](../Page/Open_Software_Foundation.md "wikilink") (OSF) を結成した。[OSF/1](https://ja.wikipedia.org/wiki/OSF/1 "wikilink")は[カーネギーメロン大学](https://ja.wikipedia.org/wiki/カーネギーメロン大学 "wikilink")で開発された[Mach](../Page/Mach.md "wikilink")[カーネル](../Page/カーネル.md "wikilink")を利用した最初の[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")であり、[System Vと](https://ja.wikipedia.org/wiki/UNIX_System_V "wikilink")[BSD](../Page/BSD.md "wikilink")に続く第3の主要なUNIXファミリの基礎として、おそらく最もよく知られている。
+[1988年](../Page/1988年.md "wikilink")、いわゆる「[UNIX戦争](../Page/UNIX戦争.md "wikilink")」の最中に、[AT\&T](../Page/AT&T.md "wikilink")や[サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")と対抗する[UNIX](../Page/UNIX.md "wikilink")を開発すべく、[DECは](../Page/ディジタル・イクイップメント・コーポレーション.md "wikilink")[IBM](../Page/IBM.md "wikilink")、[ヒューレットパッカード](https://ja.wikipedia.org/wiki/ヒューレットパッカード "wikilink") (HP) と合流して[Open Software Foundation](../Page/Open_Software_Foundation.md "wikilink") (OSF) を結成した。[OSF/1](https://ja.wikipedia.org/wiki/OSF/1 "wikilink")は[カーネギーメロン大学](https://ja.wikipedia.org/wiki/カーネギーメロン大学 "wikilink")で開発された[Mach](../Page/Mach.md "wikilink")[カーネル](../Page/カーネル.md "wikilink")を利用した最初の[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")であり、[System Vと](../Page/UNIX_System_V.md "wikilink")[BSD](../Page/BSD.md "wikilink")に続く第3の主要なUNIXファミリの基礎として、おそらく最もよく知られている。
 
-DECの最初のOSF/1は、[1991年](../Page/1991年.md "wikilink")に[MIPS](https://ja.wikipedia.org/wiki/MIPSアーキテクチャ "wikilink")[ワークステーション](../Page/ワークステーション.md "wikilink")用にリリースされた。実際には決して完全にサポートされた製品ではなく、[1992年](../Page/1992年.md "wikilink")の末までにはキャンセルされた。DECはOSF/1を新しい製品であるAlphaワークステーションに移植し、これがOSF/1として一般的に知られている最初のバージョン(V1.2)であった。
+DECの最初のOSF/1は、[1991年](../Page/1991年.md "wikilink")に[MIPS](../Page/MIPSアーキテクチャ.md "wikilink")[ワークステーション](../Page/ワークステーション.md "wikilink")用にリリースされた。実際には決して完全にサポートされた製品ではなく、[1992年](../Page/1992年.md "wikilink")の末までにはキャンセルされた。DECはOSF/1を新しい製品であるAlphaワークステーションに移植し、これがOSF/1として一般的に知られている最初のバージョン(V1.2)であった。
 
-HPも、初期のバージョンの[PA-RISC](https://ja.wikipedia.org/wiki/PA-RISC "wikilink")ワークステーション用に設計されたOSF/1と呼ばれる製品に取りかかっていたが、[ハードウェア](../Page/ハードウェア.md "wikilink")の複雑さのためこのプロジェクトは実際には立ち上がらなかった。
+HPも、初期のバージョンの[PA-RISC](../Page/PA-RISC.md "wikilink")ワークステーション用に設計されたOSF/1と呼ばれる製品に取りかかっていたが、[ハードウェア](../Page/ハードウェア.md "wikilink")の複雑さのためこのプロジェクトは実際には立ち上がらなかった。
 
 1994年に、UNIX戦争がUNIX市場を断片化してしまった後に、Open Software FoundationはOSF/1の研究開発への資金提供を停止した。
 
 ## Digital UNIX
 
-OSFが[OSF/1](https://ja.wikipedia.org/wiki/OSF/1 "wikilink")を投げ出してしまった後、DECはその製品をDigital UNIXと改名し、Alphaプロセッサ向けの主要な[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink") (OS) として扱った。Digital UNIXは64[ビット](../Page/ビット.md "wikilink")であり[Mach](../Page/Mach.md "wikilink")[カーネル](../Page/カーネル.md "wikilink")の基礎を維持していたが、[BSD](../Page/BSD.md "wikilink")、[System Vや他のソースのコンポーネントも取り入れた](https://ja.wikipedia.org/wiki/UNIX_System_V "wikilink")。
+OSFが[OSF/1](https://ja.wikipedia.org/wiki/OSF/1 "wikilink")を投げ出してしまった後、DECはその製品をDigital UNIXと改名し、Alphaプロセッサ向けの主要な[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink") (OS) として扱った。Digital UNIXは64[ビット](../Page/ビット.md "wikilink")であり[Mach](../Page/Mach.md "wikilink")[カーネル](../Page/カーネル.md "wikilink")の基礎を維持していたが、[BSD](../Page/BSD.md "wikilink")、[System Vや他のソースのコンポーネントも取り入れた](../Page/UNIX_System_V.md "wikilink")。
 
 ## Tru64 UNIX
 

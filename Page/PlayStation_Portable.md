@@ -67,7 +67,7 @@
 [Sony-PSP-1000-Body.png](https://ja.wikipedia.org/wiki/File:Sony-PSP-1000-Body.png "fig:Sony-PSP-1000-Body.png")
 
   - Sony CXD2962GG （のちCXD2967GG）
-      - PSP [CPU](../Page/CPU.md "wikilink")（[MIPS](https://ja.wikipedia.org/wiki/MIPSアーキテクチャ "wikilink") [R4000](https://ja.wikipedia.org/wiki/R4000 "wikilink") [32ビット](../Page/32ビット.md "wikilink")コア）
+      - PSP [CPU](../Page/CPU.md "wikilink")（[MIPS](../Page/MIPSアーキテクチャ.md "wikilink") [R4000](https://ja.wikipedia.org/wiki/R4000 "wikilink") [32ビット](../Page/32ビット.md "wikilink")コア）
           - 90nm、セミコンダクタCMOSプロセス
           - [クロック](../Page/クロック.md "wikilink")[周波数](../Page/周波数.md "wikilink")：1 - 333 MHz（標準は222MHz）
           - 16 KB 命令キャッシュ / 16 KB データキャッシュ
@@ -317,7 +317,7 @@
       - 『[機動戦士ガンダム ガンダムVS.ガンダム](https://ja.wikipedia.org/wiki/機動戦士ガンダム_ガンダムVS.ガンダム "wikilink")　プレミアムパック』（2008年[11月20日](../Page/11月20日.md "wikilink")発売）
       - 『[パタポン ドンチャカ♪](../Page/パタポン.md "wikilink")2』（2008年[11月27日](../Page/11月27日.md "wikilink")発売）
       - 『[DISSIDIA FINAL FANTASY](https://ja.wikipedia.org/wiki/ディシディア_ファイナルファンタジー "wikilink")』（2008年[12月18日](../Page/12月18日.md "wikilink")発売）
-      - 『[モンスターハンターポータブル 2nd G](https://ja.wikipedia.org/wiki/モンスターハンター_ポータブル#モンスターハンター_ポータブル_2nd_G "wikilink")　新米ハンターズパック』（2009年[7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink")発売）
+      - 『[モンスターハンターポータブル 2nd G](https://ja.wikipedia.org/wiki/モンスターハンター_ポータブル#モンスターハンター_ポータブル_2nd_G "wikilink")　新米ハンターズパック』（2009年[7月23日](../Page/7月23日.md "wikilink")発売）
       - 『[グランツーリスモ (PSP)](https://ja.wikipedia.org/wiki/グランツーリスモ_\(PSP\) "wikilink") RACING PACK』（2009年[10月1日](../Page/10月1日.md "wikilink")発売。元々は[10月8日](../Page/10月8日.md "wikilink")に発売予定だった。）
       - 『[ワールドサッカー ウイニングイレブン 2010](https://ja.wikipedia.org/wiki/ワールドサッカー_ウイニングイレブン_2010 "wikilink")』（2009年[12月10日](../Page/12月10日.md "wikilink")発売）
       - 『[キングダム ハーツ バース バイ スリープ　"KINGDOM HEARTS EDITION"](../Page/キングダム_ハーツ_バース_バイ_スリープ.md "wikilink")』（2010年[1月9日](../Page/1月9日.md "wikilink")発売）
@@ -339,7 +339,7 @@
 
 #### PSP内蔵ソフトウェア
 
-  - [XMB](https://ja.wikipedia.org/wiki/クロスメディアバー "wikilink")（クロスメディアバー）による直感的操作が可能
+  - [XMB](../Page/クロスメディアバー.md "wikilink")（クロスメディアバー）による直感的操作が可能
       - 音楽（[MP3](../Page/MP3.md "wikilink")/[ATRAC](../Page/ATRAC.md "wikilink")3/ATRAC3plus/[PCM](https://ja.wikipedia.org/wiki/PCM "wikilink")/[AAC](../Page/AAC.md "wikilink")/[WMA](../Page/Windows_Media_Audio.md "wikilink")）再生機能
       - 動画（[MP4](../Page/MP4.md "wikilink")/[AVC](../Page/H.264.md "wikilink")720×480ドット・30fps・Level3まで対応）再生機能
       - 静止画（[JPEG](../Page/JPEG.md "wikilink")/[TIFF](../Page/Tagged_Image_File_Format.md "wikilink")/[GIF](../Page/Graphics_Interchange_Format.md "wikilink")/[PNG](../Page/Portable_Network_Graphics.md "wikilink")/[BMP](https://ja.wikipedia.org/wiki/Windowsビットマップ "wikilink")）閲覧機能
@@ -592,7 +592,7 @@ PSP-2000/3000の場合、別売りバッテリーカバーが必要。</p></td>
 </tr>
 <tr class="even">
 <td><p>PSP-S310</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ワンセグ" title="wikilink">ワンセグ</a>チューナー</p></td>
+<td><p><a href="../Page/ワンセグ.md" title="wikilink">ワンセグ</a>チューナー</p></td>
 <td><p>×</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
@@ -910,7 +910,7 @@ SCZM-92096</p></td>
   - [10月27日](../Page/10月27日.md "wikilink") - PSP日本国内12月発売タイトル発表。
   - [12月12日](../Page/12月12日.md "wikilink") - プレイステーション・ポータブル、プレイステーション・ポータブル バリュー・パック（ブラック）発売開始。
 
-**[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")**
+**[2005年](../Page/2005年.md "wikilink")**
 
   - [4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - UMD Video対応ソフトウェア 発売開始。
   - [6月9日](../Page/6月9日.md "wikilink") - PSP向け周辺機器「カーアダプター」・「アクセサリーポーチ&クロス」発売。
@@ -1021,7 +1021,7 @@ SCZM-92096</p></td>
 
     海外では、ミリオンセラーの登場時期は日本より早くそのタイトル数も多いものの、記録的な大ヒット作は登場しなかった（備考として、海外で2010年3月までに発売された[モンスターハンターシリーズ](https://ja.wikipedia.org/wiki/モンスターハンターシリーズ "wikilink")の各作品は評価・売上ともに中堅へとどまっている）。日本から数年遅れる形でニンテンドーDSが大ヒットした、[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")など[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")によるアプリケーションの普及が日本以上に大きく第3の競合相手になりつつあるなどの要因が重なり、苦戦を強いられており、2010年までの欧米の携帯型ゲーム機用のソフト市場におけるPSPのシェアは10％ほどしかなかった\[27\]。
 
-    そのため、世界市場から見てのPSPは「日本でのみ好調で、他の国では不振だったゲーム機」であり、次世代機[PlayStation Vitaが発表早期から海外市場を意識したメディア展開を行ったのはこの反省を踏まえたものであった](https://ja.wikipedia.org/wiki/PlayStation_Vita "wikilink")\[28\]。PS Vita発売後はPS Vitaが発売された週を除いて同ハードを上回る売り上げで推移していたが\[29\]、PS Vitaが値下げされて以降は逆転し、2013年10月1日現在では週間販売台数5000台前後で推移した。新作ソフトも[乙女ゲーム](https://ja.wikipedia.org/wiki/乙女ゲーム "wikilink")を中心に発表されていた。
+    そのため、世界市場から見てのPSPは「日本でのみ好調で、他の国では不振だったゲーム機」であり、次世代機[PlayStation Vitaが発表早期から海外市場を意識したメディア展開を行ったのはこの反省を踏まえたものであった](https://ja.wikipedia.org/wiki/PlayStation_Vita "wikilink")\[28\]。PS Vita発売後はPS Vitaが発売された週を除いて同ハードを上回る売り上げで推移していたが\[29\]、PS Vitaが値下げされて以降は逆転し、2013年10月1日現在では週間販売台数5000台前後で推移した。新作ソフトも[乙女ゲーム](../Page/乙女ゲーム.md "wikilink")を中心に発表されていた。
 
   - 日本国外での評価
     2004年5月にアメリカで世界最大と言われたゲーム展示会E3(エレクトロニック・エンターテインメント・エキスポ)で本体のデザインやソフトラインアップが発表された。 米国の雑誌「ポピュラーサイエンス」は、11月15日発売の12月号で、2005年の新製品大賞を発表した。本機がハイテク小物部門にて、東芝の[垂直磁気記録方式](../Page/垂直磁気記録方式.md "wikilink")ハードディスクドライブ(HDD)がコンピューター部門にて、ともに大賞を獲得した。
@@ -1084,7 +1084,7 @@ SCZM-92096</p></td>
 
 ## 関連項目
 
-  - [PlayStation Portableのゲームタイトル一覧](https://ja.wikipedia.org/wiki/PlayStation_Portableのゲームタイトル一覧 "wikilink") - 日本で公式発売された全タイトルのリスト（発売日順）
+  - [PlayStation Portableのゲームタイトル一覧](../Page/PlayStation_Portableのゲームタイトル一覧.md "wikilink") - 日本で公式発売された全タイトルのリスト（発売日順）
 
 ## 外部リンク
 

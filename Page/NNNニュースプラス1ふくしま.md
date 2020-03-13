@@ -55,7 +55,7 @@
 [Category:1988年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1988年のテレビ番組_\(日本\) "wikilink") [Category:福島中央テレビの番組](https://ja.wikipedia.org/wiki/Category:福島中央テレビの番組 "wikilink") [Category:東北地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:東北地方のテレビのニュース・報道番組の歴史 "wikilink") [Category:東北地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:東北地方のテレビの帯番組 "wikilink") [Category:NNNニュースプラス1](https://ja.wikipedia.org/wiki/Category:NNNニュースプラス1 "wikilink")
 
 1.  1992年度当時。
-2.  『[NNNふくしまToday](https://ja.wikipedia.org/wiki/NNNふくしまToday "wikilink")』より続投。
+2.  『[NNNふくしまToday](../Page/NNNふくしまToday.md "wikilink")』より続投。
 3.  『[ゴジてれシャトル](../Page/ゴジてれシャトル.md "wikilink")』も続投。
 4.
 5.  『ゴジてれシャトル』で再登板。

@@ -5,7 +5,7 @@
 
 ## 番組概要
 
-  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")に『[ザ・ヒューマンあきた](https://ja.wikipedia.org/wiki/ザ・ヒューマンあきた "wikilink")』の後継番組として放送開始。その後、「[情報ステーションi455](https://ja.wikipedia.org/wiki/情報ステーションi455 "wikilink")」の終了に伴い、[2002年](../Page/2002年.md "wikilink")[12月2日](../Page/12月2日.md "wikilink")から17時台のネットを開始した。
+  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")に『[ザ・ヒューマンあきた](https://ja.wikipedia.org/wiki/ザ・ヒューマンあきた "wikilink")』の後継番組として放送開始。その後、「[情報ステーションi455](../Page/情報ステーションi455.md "wikilink")」の終了に伴い、[2002年](../Page/2002年.md "wikilink")[12月2日](../Page/12月2日.md "wikilink")から17時台のネットを開始した。
 
 ## タイムテーブル
 
@@ -246,7 +246,7 @@
 <td><p>武田哲哉</p></td>
 <td><p>石井資子</p></td>
 <td><p>竹島知郁</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/関陽樹" title="wikilink">関陽樹</a></p></td>
+<td><p><a href="../Page/関陽樹.md" title="wikilink">関陽樹</a></p></td>
 </tr>
 </tbody>
 </table>

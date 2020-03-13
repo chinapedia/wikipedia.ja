@@ -58,7 +58,7 @@
   - [IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink") 15:55 - 16:00（[ワイドステーション](../Page/ワイドステーション.md "wikilink")内）
   - [東北放送](../Page/東北放送.md "wikilink") 16:25 - 16:30
   - [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink") 16:20 - 16:25
-  - [山形放送](../Page/山形放送.md "wikilink") 16:47 - 16:52（[YBCイブニング・スコープ](https://ja.wikipedia.org/wiki/YBCイブニング・スコープ "wikilink")内）
+  - [山形放送](../Page/山形放送.md "wikilink") 16:47 - 16:52（[YBCイブニング・スコープ](../Page/YBCイブニング・スコープ.md "wikilink")内）
   - [ラジオ福島](../Page/ラジオ福島.md "wikilink") 16:35 - 16:40([イブニングパートナー](https://ja.wikipedia.org/wiki/イブニングパートナー "wikilink")内）
   - [茨城放送](../Page/茨城放送.md "wikilink") 16:55 - 17:00（[阿部重典のアットマーク](../Page/阿部重典のアットマーク.md "wikilink")内）
   - [栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink") 16:10 - 16:15（[ゆうがたフレンズ](https://ja.wikipedia.org/wiki/ゆうがたフレンズ "wikilink")内）

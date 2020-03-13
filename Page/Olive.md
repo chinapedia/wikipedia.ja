@@ -21,7 +21,7 @@
 
 ## 現代文化雑誌としての『オリーブ』
 
-『オリーブ』は、特に[1980年代](../Page/1980年代.md "wikilink")においては、実用的なファッション雑誌というより、のちに「ガーリー(＞girlish)」と呼ばれる、新しいタイプの[都会](https://ja.wikipedia.org/wiki/都会 "wikilink")的[少女文化](https://ja.wikipedia.org/wiki/少女文化 "wikilink")を提示する[サブカルチャー](../Page/サブカルチャー.md "wikilink")雑誌というべき存在であった。主要読者層の想定として[ミッション系](https://ja.wikipedia.org/wiki/キリスト教主義学校 "wikilink")、[一貫教育](https://ja.wikipedia.org/wiki/一貫教育 "wikilink")校などの中高生や[帰国子女](../Page/帰国子女.md "wikilink")を含み、[音楽](../Page/音楽.md "wikilink")、[映画](../Page/映画.md "wikilink")、[インテリア](../Page/インテリア.md "wikilink")、[絵本](../Page/絵本.md "wikilink")など文化記事に力を入れ、当時『オリーブ』の愛読者でリセエンヌ的なファッションやライフスタイルにこだわる若い女性は「オリーブ少女」といわれた。
+『オリーブ』は、特に[1980年代](../Page/1980年代.md "wikilink")においては、実用的なファッション雑誌というより、のちに「ガーリー(＞girlish)」と呼ばれる、新しいタイプの[都会](https://ja.wikipedia.org/wiki/都会 "wikilink")的[少女文化](../Page/少女文化.md "wikilink")を提示する[サブカルチャー](../Page/サブカルチャー.md "wikilink")雑誌というべき存在であった。主要読者層の想定として[ミッション系](https://ja.wikipedia.org/wiki/キリスト教主義学校 "wikilink")、[一貫教育](https://ja.wikipedia.org/wiki/一貫教育 "wikilink")校などの中高生や[帰国子女](../Page/帰国子女.md "wikilink")を含み、[音楽](../Page/音楽.md "wikilink")、[映画](../Page/映画.md "wikilink")、[インテリア](../Page/インテリア.md "wikilink")、[絵本](../Page/絵本.md "wikilink")など文化記事に力を入れ、当時『オリーブ』の愛読者でリセエンヌ的なファッションやライフスタイルにこだわる若い女性は「オリーブ少女」といわれた。
 
 しかし、[1990年代](../Page/1990年代.md "wikilink")以降、読者層としていた10代の女性の指向が以前より現実的なものになり、より実用的なファッション雑誌に読者が流れた。『オリーブ』の提示した先鋭的な美意識が拡散し一般的なものになるにつれ、それまで唯一無二のものであった『オリーブ』の立ち位置が曖昧になってしまったともいえる。1990年代の『オリーブ』は文化や生活全般を題材にするという姿勢は崩さないものの、より地に足のついた実践的な記事が増える傾向にあり、[2000年代](../Page/2000年代.md "wikilink")の[スローライフ](../Page/スローライフ.md "wikilink")に通じるようなコンセプトが強まっていった。
 

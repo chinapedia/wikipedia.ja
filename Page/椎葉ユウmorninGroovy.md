@@ -13,7 +13,7 @@
 <!-- end list -->
 
   -
-    TOKYO FM制作の『[明日に生きる](../Page/アフタヌーン・ブリーズ.md "wikilink")』が終了、JFNCの『[MY OLYMPIC](https://ja.wikipedia.org/wiki/MY_OLYMPIC "wikilink")』が10分繰り上がったため、当番組の放送時間も繰り上げ。
+    TOKYO FM制作の『[明日に生きる](../Page/アフタヌーン・ブリーズ.md "wikilink")』が終了、JFNCの『[MY OLYMPIC](../Page/MY_OLYMPIC.md "wikilink")』が10分繰り上がったため、当番組の放送時間も繰り上げ。
 
 ## 主な内容
 

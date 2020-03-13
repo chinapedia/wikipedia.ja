@@ -1,7 +1,7 @@
 > この記事は[TOKIO TODAY](https://ja.wikipedia.org/wiki/TOKIO_TODAY)から翻訳されています。
 
 
-**TOKIO TODAY**（**トキオ・トゥディ**）は、[1988年](../Page/1988年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")から[2000年](../Page/2000年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで[J-WAVE](../Page/J-WAVE.md "wikilink")で放送されていた朝の情報[番組である](../Page/ラジオ番組.md "wikilink")。1年間の長期休暇を終えたジョン・カビラの復帰に伴い「[TOKIO ONE](https://ja.wikipedia.org/wiki/TOKIO_ONE "wikilink")」にリニューアルされた。
+**TOKIO TODAY**（**トキオ・トゥディ**）は、[1988年](../Page/1988年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")から[2000年](../Page/2000年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで[J-WAVE](../Page/J-WAVE.md "wikilink")で放送されていた朝の情報[番組である](../Page/ラジオ番組.md "wikilink")。1年間の長期休暇を終えたジョン・カビラの復帰に伴い「[TOKIO ONE](../Page/TOKIO_ONE.md "wikilink")」にリニューアルされた。
 
 ## 放送時間
 

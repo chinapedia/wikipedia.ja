@@ -11,16 +11,16 @@
 
 [2003年](../Page/2003年.md "wikilink")、[全日本クラブ野球選手権大会](../Page/全日本クラブ野球選手権大会.md "wikilink")に初出場し初勝利をあげる。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月23日](../Page/3月23日.md "wikilink")付けで、チーム名を『**ABC東京野球クラブ**』に改称した\[1\]。このチーム名のABCは、前身母体の昭島ベースボールクラブ（**A**kisima **B**aseball **C**lub）の頭文字から取ったもの。
+[2005年](../Page/2005年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")付けで、チーム名を『**ABC東京野球クラブ**』に改称した\[1\]。このチーム名のABCは、前身母体の昭島ベースボールクラブ（**A**kisima **B**aseball **C**lub）の頭文字から取ったもの。
 
-限りで廃部となり、[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")付けで日本野球連盟から正式に解散が承認された\[2\]。主力選手は[所沢グリーンベースボールクラブ](https://ja.wikipedia.org/wiki/所沢グリーンベースボールクラブ "wikilink")へ移籍している。
+限りで廃部となり、[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")付けで日本野球連盟から正式に解散が承認された\[2\]。主力選手は[所沢グリーンベースボールクラブ](../Page/所沢グリーンベースボールクラブ.md "wikilink")へ移籍している。
 
 ## 設立・沿革
 
   - [1999年](../Page/1999年.md "wikilink") - さくら銀行硬式野球部が活動停止。
   - [2000年](../Page/2000年.md "wikilink") - 有志が[クラブチームとして活動再開](../Page/クラブチーム_\(社会人野球\).md "wikilink")。チーム名は『**昭島ベースボールクラブ**』とし、本拠地は[東京都](../Page/東京都.md "wikilink")[昭島市](../Page/昭島市.md "wikilink")に置かれた。
   - [2003年](../Page/2003年.md "wikilink") - [全日本クラブ野球選手権大会](../Page/全日本クラブ野球選手権大会.md "wikilink")初出場（2回戦敗退）
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") - チーム名を『**ABC東京野球クラブ**』に改称
+  - [2005年](../Page/2005年.md "wikilink") - チーム名を『**ABC東京野球クラブ**』に改称
   - [2009年](../Page/2009年.md "wikilink") - 廃部
 
 ## 主な大会の出場歴・最高成績

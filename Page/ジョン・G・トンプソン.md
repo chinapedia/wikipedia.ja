@@ -13,7 +13,7 @@
 
 ## 受賞歴
 
-  - 1965年 [コール賞](https://ja.wikipedia.org/wiki/コール賞 "wikilink")
+  - 1965年 [コール賞](../Page/コール賞.md "wikilink")
   - 1970年 フィールズ賞
   - 1985年 [シルヴェスター・メダル](https://ja.wikipedia.org/wiki/シルヴェスター・メダル "wikilink")
   - 1992年 [ウルフ賞数学部門](../Page/ウルフ賞数学部門.md "wikilink")

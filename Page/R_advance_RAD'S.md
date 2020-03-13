@@ -5,9 +5,9 @@
 
 ## 概要
 
-[2003年](../Page/2003年.md "wikilink")[3月3日](../Page/3月3日.md "wikilink")に、[えき☆スタ](https://ja.wikipedia.org/wiki/えき☆スタ "wikilink")の供用開始とともに「**R**」として放送開始。[2007年](../Page/2007年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")、「R advance RAD'S」にリニューアルされた。2009年3月31日をもって放送終了。
+[2003年](../Page/2003年.md "wikilink")[3月3日](../Page/3月3日.md "wikilink")に、[えき☆スタ](../Page/えき☆スタ.md "wikilink")の供用開始とともに「**R**」として放送開始。[2007年](../Page/2007年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")、「R advance RAD'S」にリニューアルされた。2009年3月31日をもって放送終了。
 
-ちなみに、「R」の前には[鈴井貴之](../Page/鈴井貴之.md "wikilink")の「[GO・I・S](https://ja.wikipedia.org/wiki/GO・I・S "wikilink")」が放送されていた。
+ちなみに、「R」の前には[鈴井貴之](../Page/鈴井貴之.md "wikilink")の「[GO・I・S](../Page/GO・I・S.md "wikilink")」が放送されていた。
 
 ## 放送時間
 
@@ -49,7 +49,7 @@
 ### 降板の代替措置
 
   - NACSメンバーの降板に伴う措置として、収録型の深夜番組がスタートした。佐藤の「[Side7](https://ja.wikipedia.org/wiki/Side7 "wikilink")」や、森崎の「[MORY STAGE](https://ja.wikipedia.org/wiki/MORY_STAGE "wikilink")」、安田の「[顕さんの丑三つ前](https://ja.wikipedia.org/wiki/顕さんの丑三つ前 "wikilink")」がそれである。
-  - 安田・大泉については引き続き金曜日の「[GOLGOLGO](https://ja.wikipedia.org/wiki/GOLGOLGO "wikilink")」を担当していた。
+  - 安田・大泉については引き続き金曜日の「[GOLGOLGO](../Page/GOLGOLGO.md "wikilink")」を担当していた。
 
 ## タイムテーブル
 

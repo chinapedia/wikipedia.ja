@@ -244,7 +244,7 @@
   - クリーチャーデザイン - [吉成曜](../Page/吉成曜.md "wikilink")
   - キャラクター作画監督 - [青野厚司](../Page/青野厚司.md "wikilink")
   - エフェクト作画監督 - 桝田浩史
-  - 美術監督 - [加藤浩](https://ja.wikipedia.org/wiki/加藤浩 "wikilink")(前編)、[吉原俊一郎](https://ja.wikipedia.org/wiki/吉原俊一郎 "wikilink")(後編)
+  - 美術監督 - [加藤浩](../Page/加藤浩.md "wikilink")(前編)、[吉原俊一郎](https://ja.wikipedia.org/wiki/吉原俊一郎 "wikilink")(後編)
   - 撮影監督 - 大瀧勝之
   - 編集 - 正木直幸
   - 音響監督 - 三間雅文

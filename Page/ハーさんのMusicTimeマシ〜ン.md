@@ -5,7 +5,7 @@
 
 ## 出演者
 
-  - [河原龍夫](https://ja.wikipedia.org/wiki/河原龍夫 "wikilink")（ハーさん）
+  - [河原龍夫](../Page/河原龍夫.md "wikilink")（ハーさん）
   - [伊藤理恵](https://ja.wikipedia.org/wiki/伊藤理恵 "wikilink")（アシススタント）
       - かみさま（番組スタッフ）　
 
@@ -42,7 +42,7 @@
 
   - [岐阜放送](../Page/岐阜放送.md "wikilink")　
   - [サンデーフォークプロモーション](https://ja.wikipedia.org/wiki/サンデーフォークプロモーション "wikilink")　-ハーさんの所属していた事務所
-  - [伊藤秀志](https://ja.wikipedia.org/wiki/伊藤秀志 "wikilink")　-ゲスト出演
+  - [伊藤秀志](../Page/伊藤秀志.md "wikilink")　-ゲスト出演
   - [河原龍夫のヒット\!ヒット\!パラダイス](https://ja.wikipedia.org/wiki/河原龍夫のヒット!ヒット!パラダイス "wikilink")
 
 [Category:岐阜放送のラジオ番組](https://ja.wikipedia.org/wiki/Category:岐阜放送のラジオ番組 "wikilink")

@@ -11,7 +11,7 @@
 
 ` }}`
 
-| Section8 =  }} **アジ化鉛(II)**（あじかなまり に、）とは[鉛](https://ja.wikipedia.org/wiki/鉛 "wikilink")の[アジ化物](https://ja.wikipedia.org/wiki/アジ化物 "wikilink")で、[爆薬](https://ja.wikipedia.org/wiki/爆薬 "wikilink")として使用される。現在では [DDNP](https://ja.wikipedia.org/wiki/DDNP "wikilink") への移行が進みあまり使用されなくなっているが、DDNP に比べて熱に強いため耐熱[雷管](../Page/雷管.md "wikilink")などには現在でも[起爆薬](https://ja.wikipedia.org/wiki/起爆薬 "wikilink")として使用されている。実際に雷管に使用する場合には着火性を良くする為に[トリシネート](../Page/トリシネート.md "wikilink")や[テトラセン](https://ja.wikipedia.org/wiki/テトラセン "wikilink")を混合する。
+| Section8 =  }} **アジ化鉛(II)**（あじかなまり に、）とは[鉛](https://ja.wikipedia.org/wiki/鉛 "wikilink")の[アジ化物](../Page/アジ化物.md "wikilink")で、[爆薬](https://ja.wikipedia.org/wiki/爆薬 "wikilink")として使用される。現在では [DDNP](https://ja.wikipedia.org/wiki/DDNP "wikilink") への移行が進みあまり使用されなくなっているが、DDNP に比べて熱に強いため耐熱[雷管](../Page/雷管.md "wikilink")などには現在でも[起爆薬](https://ja.wikipedia.org/wiki/起爆薬 "wikilink")として使用されている。実際に雷管に使用する場合には着火性を良くする為に[トリシネート](../Page/トリシネート.md "wikilink")や[テトラセン](https://ja.wikipedia.org/wiki/テトラセン "wikilink")を混合する。
 
 近年では鉛による環境汚染の問題から忌避されるようになり、使用されなくなりつつある。
 

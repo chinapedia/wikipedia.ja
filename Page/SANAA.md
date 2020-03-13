@@ -7,7 +7,7 @@
 
   - [1996年](../Page/1996年.md "wikilink") - [日本建築学会賞](../Page/日本建築学会賞.md "wikilink")作品賞（岐阜県立国際情報科学芸術アカデミー・マルチメディア工房）
   - [2004年](../Page/2004年.md "wikilink") - [ヴェネツィア・ビエンナーレ](../Page/ヴェネツィア・ビエンナーレ.md "wikilink")第9回国際建築展[金獅子賞](../Page/金獅子賞.md "wikilink")（金沢21世紀美術館）
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") - [毎日芸術賞](../Page/毎日芸術賞.md "wikilink")（金沢21世紀美術館）
+  - [2005年](../Page/2005年.md "wikilink") - [毎日芸術賞](../Page/毎日芸術賞.md "wikilink")（金沢21世紀美術館）
   - [2006年](../Page/2006年.md "wikilink") - [日本建築学会賞](../Page/日本建築学会賞.md "wikilink")作品賞（金沢21世紀美術館）
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink") - [プリツカー賞](../Page/プリツカー賞.md "wikilink")
   - [2013年](../Page/2013年.md "wikilink") -  [銀の定規賞](../Page/銀の定規賞.md "wikilink") (ランス・ルーブル美術館分館)

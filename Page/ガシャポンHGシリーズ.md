@@ -265,7 +265,7 @@
 
 ## 関連書籍（バンダイ公認のみ）
 
-  - [勁文社](https://ja.wikipedia.org/wiki/勁文社 "wikilink")
+  - [勁文社](../Page/勁文社.md "wikilink")
     1.  ガシャポンHGシリーズ 完全活用テクニックブック
     2.  ガシャポンHGシリーズ コンプリートブック 2000
   - [講談社](../Page/講談社.md "wikilink")
@@ -279,7 +279,7 @@
 
 ## 関連項目
 
-  - [カプセルトイ](https://ja.wikipedia.org/wiki/カプセルトイ "wikilink")
+  - [カプセルトイ](../Page/カプセルトイ.md "wikilink")
   - [自動販売機](../Page/自動販売機.md "wikilink")
   - [フィギュア](../Page/フィギュア.md "wikilink")
   - [食玩](../Page/食玩.md "wikilink")

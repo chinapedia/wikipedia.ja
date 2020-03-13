@@ -27,7 +27,7 @@
 
 ## ツアー
 
-本作リリース後に、「ROMANTIC 1990 TOUR」と題し、1990年[5月9日](../Page/5月9日.md "wikilink")の[群馬県民会館](../Page/群馬県民会館.md "wikilink")を皮切りに、20都市全33公演の全国ライブツアーを実施している。本ツアーを最後にCOMPLEXとしての活動は休止する予定となっていたが、吉川からの要望により「ROMANTIC EXTRA」と題した追加公演が同年[11月8日](../Page/11月8日.md "wikilink")に東京ドームで実施され、その模様が1991年[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")にライブ・アルバム『[19901108](https://ja.wikipedia.org/wiki/19901108 "wikilink")』として、[2月14日](../Page/2月14日.md "wikilink")にライブ・ビデオ『19901108』としてリリースされた。
+本作リリース後に、「ROMANTIC 1990 TOUR」と題し、1990年[5月9日](../Page/5月9日.md "wikilink")の[群馬県民会館](../Page/群馬県民会館.md "wikilink")を皮切りに、20都市全33公演の全国ライブツアーを実施している。本ツアーを最後にCOMPLEXとしての活動は休止する予定となっていたが、吉川からの要望により「ROMANTIC EXTRA」と題した追加公演が同年[11月8日](../Page/11月8日.md "wikilink")に東京ドームで実施され、その模様が1991年[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")にライブ・アルバム『[19901108](../Page/19901108.md "wikilink")』として、[2月14日](../Page/2月14日.md "wikilink")にライブ・ビデオ『19901108』としてリリースされた。
 
 ## 収録曲
 

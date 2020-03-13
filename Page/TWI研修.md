@@ -5,7 +5,7 @@
 
 ## 概要
 
-TWI研修は、TWIとはTraining（[訓練](https://ja.wikipedia.org/wiki/訓練 "wikilink")）within industry（企業内の）for supervisors（監督者のための）の頭文字をとったものである。
+TWI研修は、TWIとはTraining（[訓練](../Page/訓練.md "wikilink")）within industry（企業内の）for supervisors（監督者のための）の頭文字をとったものである。
 
 日本では、第二次世界大戦後，占領軍によりもたらされ，[労働省](../Page/労働省.md "wikilink")（現在の[厚生労働省](../Page/厚生労働省.md "wikilink")）によって敷延された。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）現在、[日本産業訓練協会](http://www.alpha-net.ne.jp/users2/sankun/tokyo/index.html)（日産訓）や[都道府県職業能力開発協会](../Page/都道府県職業能力開発協会.md "wikilink")などを中心に、広く行なわれている。
 
@@ -91,7 +91,7 @@ TWI-JIでおなじみなのが、「[電気コード結び](../Page/電線.md "w
 
   - [社員教育](https://ja.wikipedia.org/wiki/社員教育 "wikilink")
   - [日本産業訓練協会](https://ja.wikipedia.org/wiki/日本産業訓練協会 "wikilink")（日産訓）
-  - [MTP研修](https://ja.wikipedia.org/wiki/MTP研修 "wikilink")
+  - [MTP研修](../Page/MTP研修.md "wikilink")
   - [OJT](../Page/OJT.md "wikilink")
 
 ## 外部リンク

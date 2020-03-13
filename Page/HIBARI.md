@@ -3,7 +3,7 @@
 
 **HIBARI**（ひばり）は、角口香織（かどぐち かおり、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[8月1日](../Page/8月1日.md "wikilink") - 、[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")[南区出身](../Page/南区_\(福岡市\).md "wikilink")）のソロ・プロジェクト。但し、デビュー当初はAYUMIという相棒がいた。[福岡県立柏陵高等学校](https://ja.wikipedia.org/wiki/福岡県立柏陵高等学校 "wikilink")卒業。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[8月18日](../Page/8月18日.md "wikilink")にHIBARIとしての活動を打ち切り、同年9月25日に**Hi-Endorphin**名義でバンドとして再デビューした。
+[2005年](../Page/2005年.md "wikilink")[8月18日](../Page/8月18日.md "wikilink")にHIBARIとしての活動を打ち切り、同年9月25日に**Hi-Endorphin**名義でバンドとして再デビューした。
 
 ## HIBARIとしての歴史
 

@@ -13,7 +13,7 @@
 
 2007年、元・[演劇集団キャラメルボックス](../Page/演劇集団キャラメルボックス.md "wikilink")の佐藤仁志、[レッドキング。](https://ja.wikipedia.org/wiki/レッドキング。 "wikilink")の花見卓哉、[虹組キララ](https://ja.wikipedia.org/wiki/虹組キララ "wikilink")のキララらと共に、ユニット「IKKANプロデュース」を立ち上げる。以降、自作のお笑い作品を発表する母体となる。
 
-2009年、[劇団ショーマ](https://ja.wikipedia.org/wiki/劇団ショーマ "wikilink")の[高橋いさを](https://ja.wikipedia.org/wiki/高橋いさを "wikilink")、[サンモールスタジオ](https://ja.wikipedia.org/wiki/サンモールスタジオ "wikilink")の[佐山泰三](https://ja.wikipedia.org/wiki/佐山泰三 "wikilink")と共に高橋いさをの新作舞台を上演するユニット「[Wit](https://ja.wikipedia.org/wiki/Wit "wikilink")」を立ち上げる。
+2009年、[劇団ショーマ](../Page/劇団ショーマ.md "wikilink")の[高橋いさを](https://ja.wikipedia.org/wiki/高橋いさを "wikilink")、[サンモールスタジオ](https://ja.wikipedia.org/wiki/サンモールスタジオ "wikilink")の[佐山泰三](https://ja.wikipedia.org/wiki/佐山泰三 "wikilink")と共に高橋いさをの新作舞台を上演するユニット「[Wit](https://ja.wikipedia.org/wiki/Wit "wikilink")」を立ち上げる。
 
 2010年、オフィス★怪人社俳優部と、元氣エンターテインメントシアター(G.E.T)が合併して新劇団「[怪傑パンダース](https://ja.wikipedia.org/wiki/怪傑パンダース "wikilink")」を旗揚げ。2011年の旗揚げ公演は1200人を動員する。2011年10月の公演「リーゼント総理」では1400人を動員。10月公演以後、怪傑パンダースを離れる。
 
@@ -29,7 +29,7 @@
 
 **1997年～1999年**
 
-  - [スクール五輪の書](https://ja.wikipedia.org/wiki/スクール五輪の書 "wikilink") 〜発想ミュージアム〜（[NHK教育テレビジョン](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")）　-レポーター
+  - [スクール五輪の書](https://ja.wikipedia.org/wiki/スクール五輪の書 "wikilink") 〜発想ミュージアム〜（[NHK教育テレビジョン](../Page/NHK教育テレビジョン.md "wikilink")）　-レポーター
 
 **1999年〜2001年**
 
@@ -65,7 +65,7 @@
 
 **2011年**
 
-  - [ざわざわ森のがんこちゃん](../Page/ざわざわ森のがんこちゃん.md "wikilink")（[NHK教育](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")） - カッパのラッパー
+  - [ざわざわ森のがんこちゃん](../Page/ざわざわ森のがんこちゃん.md "wikilink")（[NHK教育](../Page/NHK教育テレビジョン.md "wikilink")） - カッパのラッパー
   - [ぞうのババール 〜バドゥのだいぼうけん〜](https://ja.wikipedia.org/wiki/ぞうのババール_〜バドゥのだいぼうけん〜 "wikilink")（[ディズニー・チャンネル](../Page/ディズニー・チャンネル.md "wikilink")） - クロコディルス、ポム、アンディ、オープニング主題歌リードボーカル担当
   - [青春アドベンチャー](https://ja.wikipedia.org/wiki/青春アドベンチャー "wikilink")（[NHK-FM](../Page/NHK-FM放送.md "wikilink")）
       - 「[サバイバル](../Page/サバイバル.md "wikilink")」 - ロバート曹長
@@ -111,7 +111,7 @@
 **2016年**
 
   - 子ども安全リアル・ストーリー（NHK Eテレ）　- ヤギ太
-  - [Why\!?プログラミング](https://ja.wikipedia.org/wiki/Why!?プログラミング "wikilink")（[NHK Eテレ](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")、2016年3月21日 - 25日） - プログ\[2\]
+  - [Why\!?プログラミング](https://ja.wikipedia.org/wiki/Why!?プログラミング "wikilink")（[NHK Eテレ](../Page/NHK教育テレビジョン.md "wikilink")、2016年3月21日 - 25日） - プログ\[2\]
 
 **2017年**
 
@@ -132,7 +132,7 @@
 
 ## 出演（ゲーム）
 
-  - [半熟英雄](https://ja.wikipedia.org/wiki/半熟英雄 "wikilink")対3D（[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")） - スケルトン男爵、ブロックゴーレム、クーモン、ダスモン ほか
+  - [半熟英雄](../Page/半熟英雄.md "wikilink")対3D（[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")） - スケルトン男爵、ブロックゴーレム、クーモン、ダスモン ほか
   - 半熟英雄4（スクウェア・エニックス） - ランプキン ほか
   - [ジェットセットラジオ](../Page/ジェットセットラジオ.md "wikilink")（[セガ](https://ja.wikipedia.org/wiki/セガ "wikilink") [ドリームキャスト](../Page/ドリームキャスト.md "wikilink")） - ビート
   - [ROOMANIA\#203](https://ja.wikipedia.org/wiki/ROOMANIA#203 "wikilink")（セガ ドリームキャスト）
@@ -176,7 +176,7 @@
 
   - サンデージャポン（[TBS](../Page/TBSテレビ.md "wikilink")）「鉄拳コーナー」　作
   - 鉄拳の絵がうごく こんな○○は××だ（DVD）作・演出・監修
-  - [わたしのきもち](https://ja.wikipedia.org/wiki/わたしのきもち "wikilink") スペシャルだよ！([NHK教育](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")) 脚本・作詞
+  - [わたしのきもち](https://ja.wikipedia.org/wiki/わたしのきもち "wikilink") スペシャルだよ！([NHK教育](../Page/NHK教育テレビジョン.md "wikilink")) 脚本・作詞
 
 ### 舞台
 
@@ -275,7 +275,7 @@
 
 ## 歌手
 
-  - 「べんとうべんのうんめ〜！」＜[ひとりでできるもん](../Page/ひとりでできるもん.md "wikilink")（[NHK教育](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")）＞ - 怪人べんとうべん名義
+  - 「べんとうべんのうんめ〜！」＜[ひとりでできるもん](../Page/ひとりでできるもん.md "wikilink")（[NHK教育](../Page/NHK教育テレビジョン.md "wikilink")）＞ - 怪人べんとうべん名義
   - 「戦え[鉄拳](https://ja.wikipedia.org/wiki/鉄拳 "wikilink")！」＜絵がうごく！こんな●●は××だ！（DVD）＞ - オープニング主題歌
   - 「[ぞうのババール](https://ja.wikipedia.org/wiki/ぞうのババール "wikilink")」＜ぞうのババール〜バドゥのだいぼうけん〜([ディズニーチャンネル](https://ja.wikipedia.org/wiki/ディズニーチャンネル "wikilink"))＞ - オープニング主題歌
 

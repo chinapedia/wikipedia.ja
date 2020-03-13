@@ -137,7 +137,7 @@
 <td><p>0020</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/智代アフター_ORIGINAL_SOUNDTRACK" title="wikilink">智代アフターオリジナルサウンドトラック</a></p></td>
 <td><p>（Lia）</p></td>
-<td><p>『<a href="https://ja.wikipedia.org/wiki/智代アフター_〜It&#39;s_a_Wonderful_Life〜" title="wikilink">智代アフター</a>』初回限定版同梱</p></td>
+<td><p>『<a href="../Page/智代アフター_〜It&#39;s_a_Wonderful_Life〜.md" title="wikilink">智代アフター</a>』初回限定版同梱</p></td>
 <td></td>
 </tr>
 <tr class="odd">

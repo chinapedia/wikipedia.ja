@@ -1,7 +1,7 @@
 > この記事は[DOKYU!](https://ja.wikipedia.org/wiki/DOKYU!)から翻訳されています。
 
 
-『**娘DOKYU\!**』（むすめドキュ）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")まで[テレビ東京系列](https://ja.wikipedia.org/wiki/TXN "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、[テレビ北海道](../Page/テレビ北海道.md "wikilink")）で[平日](../Page/平日.md "wikilink")[深夜](../Page/深夜.md "wikilink")24:53 - 25:00（[JST](../Page/日本標準時.md "wikilink")）に放送されていた[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")メンバー出演の[テレビ番組](../Page/テレビ番組.md "wikilink")である。
+『**娘DOKYU\!**』（むすめドキュ）は、[2005年](../Page/2005年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")まで[テレビ東京系列](https://ja.wikipedia.org/wiki/TXN "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、[テレビ北海道](../Page/テレビ北海道.md "wikilink")）で[平日](../Page/平日.md "wikilink")[深夜](../Page/深夜.md "wikilink")24:53 - 25:00（[JST](../Page/日本標準時.md "wikilink")）に放送されていた[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")メンバー出演の[テレビ番組](../Page/テレビ番組.md "wikilink")である。
 
 ## 番組概要
 
@@ -49,7 +49,7 @@
       - [嗣永桃子](../Page/嗣永桃子.md "wikilink")（2005年4月5日 - 6月8日）
       - [熊井友理奈](../Page/熊井友理奈.md "wikilink")（2005年4月5日 - 5月18日）
   - [ハロプロエッグ](https://ja.wikipedia.org/wiki/ハロプロ研修生 "wikilink")
-      - [是永美記](https://ja.wikipedia.org/wiki/是永美記 "wikilink")（2005年7月20日 - 2006年3月29日）
+      - [是永美記](../Page/是永美記.md "wikilink")（2005年7月20日 - 2006年3月29日）
   - ソロメンバー
       - [後藤真希](https://ja.wikipedia.org/wiki/後藤真希 "wikilink")（2006年5月8日 - 30日）
       - [松浦亜弥](../Page/松浦亜弥.md "wikilink")（2006年5月8日 - 18日）
@@ -75,7 +75,7 @@
   - [ピース](https://ja.wikipedia.org/wiki/ピース_\(お笑い\) "wikilink")
       - 綾部祐二（2006年6月19日 - 2006年6月23日）
       - 又吉直樹（2006年8月18日 - 2006年9月11日）
-  - [バッドボーイズ](https://ja.wikipedia.org/wiki/バッドボーイズ_\(お笑いコンビ\) "wikilink")
+  - [バッドボーイズ](../Page/バッドボーイズ_\(お笑いコンビ\).md "wikilink")
       - 大溝清人（2006年5月8日 - 2006年5月15日）
   - [ジパング上陸作戦](https://ja.wikipedia.org/wiki/ジパング上陸作戦 "wikilink")
       - チャド・イアン・マレーン（2006年6月6日 - 2006年9月6日）
@@ -235,7 +235,7 @@ Berryz工房
 
 ### 第5、6クール
 
-2006年5月5日までは第4クールの延長と捉えることが出来る内容である。5月8日からはモーニング娘。を離れて、ハロー\!プロジェクトの年長メンバーであるエルダークラブによる「日常観察ショートドラマ 〜絵流田4丁目の人々～」を放送しており、過去のクールとは趣の大きく異なる物となっている。また、夏にモーニング娘。を卒業する紺野あさ美と小川麻琴やメトロラビッツH.P.の密着ドキュメンタリーも娘DOKYU\! EXTRAとして放送されている。このクール迄[ビックカメラ](https://ja.wikipedia.org/wiki/ビックカメラ "wikilink")もスポンサーだった。2006年9月20日から29日までの8回分は絵流田4丁目の総集編を放送した。メロン記念日（村田めぐみを除く）と里田まいがMCとなり、あるスタジオで絵流田4丁目に登場する人物の相関図を見ながらこれ迄のVTRを流した。
+2006年5月5日までは第4クールの延長と捉えることが出来る内容である。5月8日からはモーニング娘。を離れて、ハロー\!プロジェクトの年長メンバーであるエルダークラブによる「日常観察ショートドラマ 〜絵流田4丁目の人々～」を放送しており、過去のクールとは趣の大きく異なる物となっている。また、夏にモーニング娘。を卒業する紺野あさ美と小川麻琴やメトロラビッツH.P.の密着ドキュメンタリーも娘DOKYU\! EXTRAとして放送されている。このクール迄[ビックカメラ](../Page/ビックカメラ.md "wikilink")もスポンサーだった。2006年9月20日から29日までの8回分は絵流田4丁目の総集編を放送した。メロン記念日（村田めぐみを除く）と里田まいがMCとなり、あるスタジオで絵流田4丁目に登場する人物の相関図を見ながらこれ迄のVTRを流した。
 
   - モーニング娘。
 
@@ -293,7 +293,7 @@ Berryz工房
   - [Missラブ探偵](https://ja.wikipedia.org/wiki/Missラブ探偵 "wikilink") W （2005年9月5日 - 16日）
   - [気がつけば あなた](../Page/気がつけば_あなた.md "wikilink") [松浦亜弥](../Page/松浦亜弥.md "wikilink") （2005年9月19日 - 30日）
   - [クレナイの季節](https://ja.wikipedia.org/wiki/クレナイの季節 "wikilink") 美勇伝 （2005年10月3日 - 21日）
-  - [好きすぎて バカみたい](../Page/好きすぎて_バカみたい.md "wikilink") [DEF.DIVA](https://ja.wikipedia.org/wiki/DEF.DIVA "wikilink") （2005年10月24日 - 11月4日）
+  - [好きすぎて バカみたい](../Page/好きすぎて_バカみたい.md "wikilink") [DEF.DIVA](../Page/DEF.DIVA.md "wikilink") （2005年10月24日 - 11月4日）
   - [直感2 〜逃した魚は大きいぞ\!〜](../Page/直感2_〜逃した魚は大きいぞ!〜.md "wikilink") モーニング娘。 （2005年11月7日 - 11日）
   - [ギャグ100回分愛してください](../Page/ギャグ100回分愛してください.md "wikilink") Berryz工房 （2005年11月14日 - 2006年1月13日）
   - [今にきっと…In My LIFE](https://ja.wikipedia.org/wiki/今にきっと…In_My_LIFE "wikilink") 後藤真希 （2006年1月16日 - 27日）
@@ -325,9 +325,9 @@ Berryz工房
   - 撮影協力 - ZOOプロ
   - 編集 - 渡辺正宏、五郎丸亮（以上[e-naスタジオ](https://ja.wikipedia.org/wiki/e-naスタジオ "wikilink")）
   - 効果 - 久坂惠紹（[戯音工房](../Page/戯音工房.md "wikilink")）
-  - AP - 新潟竜大（[テレビ東京ミュージック](https://ja.wikipedia.org/wiki/テレビ東京ミュージック "wikilink")）
-  - AD - 佐々木誠（[エス・エス・エム](https://ja.wikipedia.org/wiki/エス・エス・エム "wikilink")）
-  - ディレクター - 相澤幸一（[アクロ](https://ja.wikipedia.org/wiki/アクロ "wikilink")）
+  - AP - 新潟竜大（[テレビ東京ミュージック](../Page/テレビ東京ミュージック.md "wikilink")）
+  - AD - 佐々木誠（[エス・エス・エム](../Page/エス・エス・エム.md "wikilink")）
+  - ディレクター - 相澤幸一（[アクロ](../Page/アクロ.md "wikilink")）
   - プロデューサー - [両角誠](https://ja.wikipedia.org/wiki/両角誠 "wikilink")（エス・エス・エム）、[柴幸伸](https://ja.wikipedia.org/wiki/柴幸伸 "wikilink")（テレビ東京）、北島英光（テレビ東京ミュージック）
   - 企画協力 - アップフロントワークス
   - 制作協力 - エス・エス・エム、[アップフロントエージェンシー](../Page/アップフロントプロモーション.md "wikilink")（現：アップフロントプロモーション）

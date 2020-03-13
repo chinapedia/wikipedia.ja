@@ -40,7 +40,7 @@
 
 ### 自動車模型・ミニカー
 
-元来Oゲージ鉄道模型のアクセサリーとして作られた[自動車模型](../Page/自動車模型.md "wikilink")であったが、現在は鉄道模型から独立した存在となっている。縮尺は1/43から1/50までさまざまである。[スロットカー](https://ja.wikipedia.org/wiki/スロットカー "wikilink")において、この縮尺を採用していたメーカーも存在する。
+元来Oゲージ鉄道模型のアクセサリーとして作られた[自動車模型](../Page/自動車模型.md "wikilink")であったが、現在は鉄道模型から独立した存在となっている。縮尺は1/43から1/50までさまざまである。[スロットカー](../Page/スロットカー.md "wikilink")において、この縮尺を採用していたメーカーも存在する。
 
 ### プラモデル
 
@@ -53,7 +53,7 @@
   - [NMRA](https://ja.wikipedia.org/wiki/全米鉄道模型協会 "wikilink")
   - [MOROP](https://ja.wikipedia.org/wiki/MOROP "wikilink")
   - [ミニカー](../Page/ミニカー_\(玩具\).md "wikilink")
-  - [スロットカー](https://ja.wikipedia.org/wiki/スロットカー "wikilink")
+  - [スロットカー](../Page/スロットカー.md "wikilink")
   - [スケールモデル](../Page/スケールモデル.md "wikilink")
 
 ## 外部リンク

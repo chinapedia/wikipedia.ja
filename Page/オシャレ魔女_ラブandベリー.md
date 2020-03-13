@@ -526,7 +526,7 @@ LH-005 しとやかハット（エレガンス／<span style="color:white">**白
 
 ### スタッフ
 
-  - 監督、絵コンテ、演出、音響監督：[望月智充](https://ja.wikipedia.org/wiki/望月智充 "wikilink")
+  - 監督、絵コンテ、演出、音響監督：[望月智充](../Page/望月智充.md "wikilink")
   - 脚本：[国井桂](https://ja.wikipedia.org/wiki/国井桂 "wikilink")
   - 音楽：[MOKA☆](https://ja.wikipedia.org/wiki/MOKA☆ "wikilink")
   - 総作画監督・キャラクターデザイン：[門之園恵美](https://ja.wikipedia.org/wiki/門之園恵美 "wikilink")

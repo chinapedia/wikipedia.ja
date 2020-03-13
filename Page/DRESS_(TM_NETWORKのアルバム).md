@@ -15,7 +15,7 @@
 
 収録曲の中で、「**[COME ON EVERYBODY (with Nile Rodgers)](../Page/COME_ON_EVERYBODY_\(with_Nile_Rodgers\).md "wikilink")**」と「**[KISS YOU (KISS JAPAN)](../Page/KISS_YOU_\(KISS_JAPAN\).md "wikilink")**」、「**[GET WILD '89](../Page/GET_WILD_'89.md "wikilink")**」は先行シングルとしてリリースされ、3曲同時チャートインを果たしている。これは日本音楽史上初の事である。
 
-また、「KISS YOU (KISS JAPAN)」の[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")である「**TIME (PASSED SO SLOWLY)**」と「GET WILD '89」のカップリング曲の「**FOOL ON THE PLANET(WHERE ARE YOU NOW)**」の2曲はアルバム収録曲とほぼ同時に製作されたが、アナログ盤の収録時間の関係上未収録となったが、後にベストアルバム『**[Welcome to the FANKS\!](https://ja.wikipedia.org/wiki/Welcome_to_the_FANKS! "wikilink")**』（[2004年](../Page/2004年.md "wikilink")）に収録）や2013年11月27日にリマスター＆高品質CD『**Blu-spec CD2**』にて再発売された際にボーナストラックとして収録された。
+また、「KISS YOU (KISS JAPAN)」の[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")である「**TIME (PASSED SO SLOWLY)**」と「GET WILD '89」のカップリング曲の「**FOOL ON THE PLANET(WHERE ARE YOU NOW)**」の2曲はアルバム収録曲とほぼ同時に製作されたが、アナログ盤の収録時間の関係上未収録となったが、後にベストアルバム『**[Welcome to the FANKS\!](../Page/Welcome_to_the_FANKS!.md "wikilink")**』（[2004年](../Page/2004年.md "wikilink")）に収録）や2013年11月27日にリマスター＆高品質CD『**Blu-spec CD2**』にて再発売された際にボーナストラックとして収録された。
 
 このアルバムをリリース直後のライブ**「CAMP FANKS\!\! '89」**では主にこれらリプロダクションバージョンで演奏されているが、それ以降でのライブでは原曲バージョンの演奏となっており、リプロダクションバージョンで演奏されている楽曲は、**「[GET WILD '89](../Page/GET_WILD_'89.md "wikilink")」**のみである。
 

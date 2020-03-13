@@ -21,7 +21,7 @@
 
   - [2000年](../Page/2000年.md "wikilink") - 『**野田市民硬式野球倶楽部**』として創部。
   - [2001年](../Page/2001年.md "wikilink") - [日本野球連盟](../Page/日本野球連盟.md "wikilink")に加盟。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") - チーム名を『**NODA BASEBALL CLUB**』に改称。
+  - [2005年](../Page/2005年.md "wikilink") - チーム名を『**NODA BASEBALL CLUB**』に改称。
   - [2009年](../Page/2009年.md "wikilink") - チーム名を『**NODA BC NEXUS**』に改称。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink") - 本拠地を[印西市](https://ja.wikipedia.org/wiki/印西市 "wikilink")に移転。チーム名を『**BIG WINGS印西**』に改称。
   - [2016年](../Page/2016年.md "wikilink") - 本拠地を[船橋市](https://ja.wikipedia.org/wiki/船橋市 "wikilink")に移転。チーム名を『**BIG WINGS**』に改称。

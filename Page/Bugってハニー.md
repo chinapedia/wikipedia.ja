@@ -60,7 +60,7 @@
   - 原案 - 岡かすみ、竹部隆司
   - [プロデューサー](../Page/プロデューサー.md "wikilink") - [加藤俊三](../Page/加藤俊三.md "wikilink")（[東京ムービー新社](https://ja.wikipedia.org/wiki/東京ムービー新社 "wikilink")）、武井英彦、垂水保貴（[NTV](../Page/日本テレビ放送網.md "wikilink")）、亀山泰夫（[旭通信社](https://ja.wikipedia.org/wiki/旭通信社 "wikilink")）
   - 音楽 - [筒井広志](../Page/筒井広志.md "wikilink")、稲川徹
-  - [キャラクターデザイン](../Page/キャラクターデザイン.md "wikilink") - [前田実](https://ja.wikipedia.org/wiki/前田実 "wikilink")
+  - [キャラクターデザイン](../Page/キャラクターデザイン.md "wikilink") - [前田実](../Page/前田実.md "wikilink")
   - 作画監督 - [香西隆男](../Page/香西隆男.md "wikilink")
   - 美術監督 - 横山幸博
   - 撮影監督 - 野村隆
@@ -208,7 +208,7 @@
 <td><p>11</p></td>
 <td><p>びっくりオモチャ王国</p></td>
 <td><p><a href="../Page/雪室俊一.md" title="wikilink">雪室俊一</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/こだま兼嗣" title="wikilink">こだま兼嗣</a></p></td>
+<td><p><a href="../Page/こだま兼嗣.md" title="wikilink">こだま兼嗣</a></p></td>
 <td><p>矢部秋則</p></td>
 <td><p><a href="../Page/12月12日.md" title="wikilink">12月12日</a></p></td>
 </tr>

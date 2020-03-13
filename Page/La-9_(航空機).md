@@ -5,7 +5,7 @@
 
 ## 概要
 
-La-9は、ソ連において[LaGG-1以来](https://ja.wikipedia.org/wiki/LaGG-1_\(航空機\) "wikilink")[ラーヴォチュキン](https://ja.wikipedia.org/wiki/ラーヴォチュキン "wikilink")設計局が開発を続けてきた一連の戦闘機の完成型といえる機体であった。そこでは、[La-7まで金属](../Page/La-7_\(航空機\).md "wikilink")・木材・布等の混合構造であった機体構造を全金属製にするなど、全面的な改設計を行われていた。また、操縦席もより視界の良い風防に変更されていた。戦力化は[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")には間に合わなかったが、[Yak-9Pとともに](../Page/Yak-9P_\(航空機\).md "wikilink")[1940年代](../Page/1940年代.md "wikilink")後半のソ連軍の主力戦闘機となった。しかしながら、[1947年](../Page/1947年.md "wikilink")には[MiG-15が初飛行に成功するなどジェット化がすぐあとに控えていたため](https://ja.wikipedia.org/wiki/MiG-15_\(航空機\) "wikilink")、La-9などのレシプロ戦闘機はそれらと比べればあまり多くは配備されなかった。
+La-9は、ソ連において[LaGG-1以来](https://ja.wikipedia.org/wiki/LaGG-1_\(航空機\) "wikilink")[ラーヴォチュキン](https://ja.wikipedia.org/wiki/ラーヴォチュキン "wikilink")設計局が開発を続けてきた一連の戦闘機の完成型といえる機体であった。そこでは、[La-7まで金属](../Page/La-7_\(航空機\).md "wikilink")・木材・布等の混合構造であった機体構造を全金属製にするなど、全面的な改設計を行われていた。また、操縦席もより視界の良い風防に変更されていた。戦力化は[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")には間に合わなかったが、[Yak-9Pとともに](../Page/Yak-9P_\(航空機\).md "wikilink")[1940年代](../Page/1940年代.md "wikilink")後半のソ連軍の主力戦闘機となった。しかしながら、[1947年](../Page/1947年.md "wikilink")には[MiG-15が初飛行に成功するなどジェット化がすぐあとに控えていたため](../Page/MiG-15_\(航空機\).md "wikilink")、La-9などのレシプロ戦闘機はそれらと比べればあまり多くは配備されなかった。
 
 La-9の発展型としては、1947年に初飛行した**La-9V**(****、**UTI La-9**(****)とも呼ばれる)複座練習訓練戦闘機があり、また同年には[ジェットエンジン](../Page/ジェットエンジン.md "wikilink")2基を搭載する**La-9RD**(****)も飛行した。**[La-11](../Page/La-11_\(航空機\).md "wikilink")**(****<small>ラー・アヂーンナツァチ</small>)はLa-9の長距離護衛戦闘機型で、翼端に燃料タンクを取り付けることも出来た。La-9とLa-11はともに[朝鮮戦争](https://ja.wikipedia.org/wiki/朝鮮戦争 "wikilink")へ投入され、Yak-9Pとともに[中華人民共和国](../Page/中華人民共和国.md "wikilink")・[朝鮮民主主義人民共和国](../Page/朝鮮民主主義人民共和国.md "wikilink")軍の航空戦力の主力を担った。また、La-9は[ルーマニア](../Page/ルーマニア.md "wikilink")などに、La-11は[インドネシア](../Page/インドネシア.md "wikilink")などにも輸出された。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の近くでは、[1950年代](../Page/1950年代.md "wikilink")、[択捉島](../Page/択捉島.md "wikilink")にソ連軍のLa-11が配備されていた。
 
@@ -39,7 +39,7 @@ La-9の発展型としては、1947年に初飛行した**La-9V**(****、**UTI L
       - [空軍](../Page/ソ連空軍.md "wikilink")
       - [国土防空軍](../Page/ソ連防空軍.md "wikilink")
 
-  - [ルーマニア](https://ja.wikipedia.org/wiki/ルーマニア空軍 "wikilink")
+  - [ルーマニア](../Page/ルーマニア空軍.md "wikilink")
 
   - [中華人民共和国](../Page/中国人民解放軍.md "wikilink")
 

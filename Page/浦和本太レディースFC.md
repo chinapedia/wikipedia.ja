@@ -15,7 +15,7 @@
 
 残ったメンバーを中心としたチームは再び「**浦和本太レディースFC**」として編成され、関東女子サッカーリーグでは上位に位置するチームとして活躍する時代もあったが、次第に大学勢となでしこリーグ下部組織が台頭するようになると下位に甘んじるようになる。
 
-2005年には関東第3代表として[第27回全日本女子サッカー選手権大会](../Page/第27回全日本女子サッカー選手権大会.md "wikilink")に出場した。[JLSLチャレンジリーグ](https://ja.wikipedia.org/wiki/JLSLチャレンジリーグ "wikilink")への降格や浦和レイナスの分離独立などもあり、その後は関東女子サッカーリーグで活動していた。しかし、2008年2月9日に行なわれた早稲田大学ア式蹴球部女子との入れ替え戦に敗れ、2008年シーズンは埼玉県リーグに降格も人数不足となった。
+2005年には関東第3代表として[第27回全日本女子サッカー選手権大会](../Page/第27回全日本女子サッカー選手権大会.md "wikilink")に出場した。[JLSLチャレンジリーグ](../Page/JLSLチャレンジリーグ.md "wikilink")への降格や浦和レイナスの分離独立などもあり、その後は関東女子サッカーリーグで活動していた。しかし、2008年2月9日に行なわれた早稲田大学ア式蹴球部女子との入れ替え戦に敗れ、2008年シーズンは埼玉県リーグに降格も人数不足となった。
 
 「少女団」への指導により地域に根付いたチーム作りを行い、将来的な[日本女子サッカーリーグ](../Page/日本女子サッカーリーグ.md "wikilink")（なでしこリーグ）への復帰は諦めていないが、人数不足の状態となったことから当分の間は女子サッカー大会の開催や選手育成などを行っていた。なお、現時点で活動しているかどうかは定かではなく、公式ホームページは2010年1月を以て更新を停止している。
 
@@ -43,7 +43,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/JLSLチャレンジリーグ" title="wikilink">C</a></p></td>
+<td><p><a href="../Page/JLSLチャレンジリーグ.md" title="wikilink">C</a></p></td>
 <td><p>1992</p>
 <td rowspan="2">
 <p>浦和本太レディースFC</p>
@@ -62,7 +62,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/JLSLチャレンジリーグ" title="wikilink">C</a></p></td>
+<td><p><a href="../Page/JLSLチャレンジリーグ.md" title="wikilink">C</a></p></td>
 <td><p>1993</p></td>
 <td><p>4</p></td>
 <td><p>6</p></td>
@@ -77,7 +77,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/第6回日本女子サッカーリーグ" title="wikilink">6</a></p></td>
+<td><p><a href="../Page/第6回日本女子サッカーリーグ.md" title="wikilink">6</a></p></td>
 <td><p>1994</p>
 <td rowspan="2">
 <p>浦和レディースFC</p></td>
@@ -94,7 +94,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/JLSLチャレンジリーグ" title="wikilink">C</a></p></td>
+<td><p><a href="../Page/JLSLチャレンジリーグ.md" title="wikilink">C</a></p></td>
 <td><p>1995</p></td>
 <td><p>JLSL・チャレンジリーグ</p></td>
 <td><p>3</p></td>
@@ -162,7 +162,7 @@
   - [第15回大会](../Page/第15回全日本女子サッカー選手権大会.md "wikilink") ([1994年](../Page/1994年.md "wikilink")) 2回戦敗退
   - [第16回大会](../Page/第16回全日本女子サッカー選手権大会.md "wikilink") ([1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")) 2回戦敗退
   - [第18回大会](../Page/第18回全日本女子サッカー選手権大会.md "wikilink") ([1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")) 2回戦（シードのため初戦）敗退
-  - [第27回大会](../Page/第27回全日本女子サッカー選手権大会.md "wikilink") ([2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")) 1回戦敗退
+  - [第27回大会](../Page/第27回全日本女子サッカー選手権大会.md "wikilink") ([2005年](../Page/2005年.md "wikilink")) 1回戦敗退
 
 ## 獲得タイトル
 
@@ -196,7 +196,7 @@
 ## 関連項目
 
   - [日本女子サッカーリーグ](../Page/日本女子サッカーリーグ.md "wikilink")
-  - [JLSLチャレンジリーグ](https://ja.wikipedia.org/wiki/JLSLチャレンジリーグ "wikilink")
+  - [JLSLチャレンジリーグ](../Page/JLSLチャレンジリーグ.md "wikilink")
 
 ## 外部リンク
 

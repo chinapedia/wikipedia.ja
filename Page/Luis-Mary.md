@@ -10,7 +10,7 @@
 <!-- end list -->
 
   -
-    ([西川貴教](../Page/西川貴教.md "wikilink"))・ボーカル、[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[9月19日](../Page/9月19日.md "wikilink")生まれ、[滋賀県](../Page/滋賀県.md "wikilink")[彦根市](https://ja.wikipedia.org/wiki/彦根市 "wikilink")出身
+    ([西川貴教](../Page/西川貴教.md "wikilink"))・ボーカル、[1970年](../Page/1970年.md "wikilink")[9月19日](../Page/9月19日.md "wikilink")生まれ、[滋賀県](../Page/滋賀県.md "wikilink")[彦根市](https://ja.wikipedia.org/wiki/彦根市 "wikilink")出身
 
 <!-- end list -->
 
@@ -37,7 +37,7 @@
 <!-- end list -->
 
   -
-    (有田賢)・ドラム、[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[4月13日](../Page/4月13日.md "wikilink")生まれ、千葉県出身
+    (有田賢)・ドラム、[1970年](../Page/1970年.md "wikilink")[4月13日](../Page/4月13日.md "wikilink")生まれ、千葉県出身
 
 ## 来歴
 

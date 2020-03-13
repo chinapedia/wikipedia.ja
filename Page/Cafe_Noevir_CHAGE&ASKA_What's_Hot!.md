@@ -3,7 +3,7 @@
 
 『**Cafe Noevir CHAGE\&ASKA What's Hot\!**』（**カフェ・ノエビア・チャゲアンドアスカ・ワッツ・ホット**）は、[TOKYO FMを](../Page/エフエム東京.md "wikilink")[キーステーションに毎週土曜日に](https://ja.wikipedia.org/wiki/キー局 "wikilink")[JFN系列で放送されていた](https://ja.wikipedia.org/wiki/JAPAN_FM_NETWORK "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[CHAGE and ASKA](../Page/CHAGE_and_ASKA.md "wikilink")。[スポンサー](../Page/スポンサー.md "wikilink")は[ノエビア](https://ja.wikipedia.org/wiki/ノエビア "wikilink")。
 
-これまでに[CHAGE](https://ja.wikipedia.org/wiki/CHAGE "wikilink")が一人でラジオレギュラー番組を持っていた事は何度もあったが、CHAGEと[ASKA](https://ja.wikipedia.org/wiki/ASKA "wikilink")が二人でパーソナリティを務めたのは、[1984年](../Page/1984年.md "wikilink")10月～[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")3月に『[スーパーギャング](https://ja.wikipedia.org/wiki/スーパーギャング "wikilink")火曜日』（[TBSラジオ](../Page/TBSラジオ.md "wikilink")）を担当して以来16年ぶり（[特番等を除く](../Page/特別番組.md "wikilink")）。また、CHAGE and ASKA単独の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")としてはデビュー以来初。
+これまでに[CHAGE](https://ja.wikipedia.org/wiki/CHAGE "wikilink")が一人でラジオレギュラー番組を持っていた事は何度もあったが、CHAGEと[ASKA](https://ja.wikipedia.org/wiki/ASKA "wikilink")が二人でパーソナリティを務めたのは、[1984年](../Page/1984年.md "wikilink")10月～[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")3月に『[スーパーギャング](../Page/スーパーギャング.md "wikilink")火曜日』（[TBSラジオ](../Page/TBSラジオ.md "wikilink")）を担当して以来16年ぶり（[特番等を除く](../Page/特別番組.md "wikilink")）。また、CHAGE and ASKA単独の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")としてはデビュー以来初。
 
 ## ネット局・放送時間
 
@@ -19,7 +19,7 @@
 ## ゲスト
 
   - 第1回（2001年10月6日） なし
-  - 第2回（2001年10月13日） [清貴](https://ja.wikipedia.org/wiki/清貴 "wikilink")
+  - 第2回（2001年10月13日） [清貴](../Page/清貴.md "wikilink")
   - 第3回（2001年10月20日） [石井竜也](https://ja.wikipedia.org/wiki/石井竜也 "wikilink")
   - 第4回（2001年10月27日） [小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
   - 第5回（2001年11月3日） [根本要](../Page/根本要.md "wikilink")（[スターダストレビュー](../Page/スターダストレビュー.md "wikilink")）

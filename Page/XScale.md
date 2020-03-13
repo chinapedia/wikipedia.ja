@@ -3,7 +3,7 @@
 
 **XScale**（エックススケール）は、[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")が実装した第五世代[ARMアーキテクチャ](../Page/ARMアーキテクチャ.md "wikilink")の[RISC](../Page/RISC.md "wikilink")[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink")であり、v5TE [ISAに基づいている](../Page/命令セット.md "wikilink")。
 
-これは、[DECの](../Page/ディジタル・イクイップメント・コーポレーション.md "wikilink")[StrongARM](../Page/StrongARM.md "wikilink")[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink")および[マイクロコントローラ](https://ja.wikipedia.org/wiki/マイクロコントローラ "wikilink")の後継であり、StrongARMはDECとの訴訟問題の和解案としてDECの半導体部門から購入した経緯がある。インテルはStrongARMを同社の古くなった[RISC](../Page/RISC.md "wikilink")プロセッサ([i860](../Page/Intel_i860.md "wikilink")、[i960](../Page/Intel_i960.md "wikilink"))の後継として使用した。
+これは、[DECの](../Page/ディジタル・イクイップメント・コーポレーション.md "wikilink")[StrongARM](../Page/StrongARM.md "wikilink")[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink")および[マイクロコントローラ](../Page/マイクロコントローラ.md "wikilink")の後継であり、StrongARMはDECとの訴訟問題の和解案としてDECの半導体部門から購入した経緯がある。インテルはStrongARMを同社の古くなった[RISC](../Page/RISC.md "wikilink")プロセッサ([i860](../Page/Intel_i860.md "wikilink")、[i960](../Page/Intel_i960.md "wikilink"))の後継として使用した。
 
 [2006年](../Page/2006年.md "wikilink")[6月27日](../Page/6月27日.md "wikilink")の[プレスリリース](../Page/プレスリリース.md "wikilink")でインテルは[マーベル・テクノロジー・グループ](https://ja.wikipedia.org/wiki/マーベル・テクノロジー・グループ "wikilink")（マーベル）にXScaleおよびその周辺チップ事業を6億ドルで譲渡する事を発表した。
 

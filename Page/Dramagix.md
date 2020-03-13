@@ -78,7 +78,7 @@ Dramagixシリーズ第3弾。2005年9月20日発売。
   - キャスト
     洋子：[白石涼子](https://ja.wikipedia.org/wiki/白石涼子 "wikilink")
     陽介：[白井秀行](https://ja.wikipedia.org/wiki/白井秀行 "wikilink")
-    宏美：[柏木弘美](https://ja.wikipedia.org/wiki/柏木弘美 "wikilink")
+    宏美：[柏木弘美](../Page/柏木弘美.md "wikilink")
     早紀：[藤平るみ](https://ja.wikipedia.org/wiki/藤平るみ "wikilink")
     聡美：[海野沙織](https://ja.wikipedia.org/wiki/海野沙織 "wikilink")
     香奈枝：[寺内淳](https://ja.wikipedia.org/wiki/寺内淳 "wikilink")
@@ -137,19 +137,19 @@ DSEシリーズ第3弾。2006年2月24日発売。
 
 DSEシリーズ第4弾。2006年3月24日発売。
 
-  - 主題歌『NON STOP\!\!\!』（歌：[酒井香奈子](https://ja.wikipedia.org/wiki/さかいかな "wikilink")）
+  - 主題歌『NON STOP\!\!\!』（歌：[酒井香奈子](../Page/さかいかな.md "wikilink")）
     キャスト
-    綾小路姫子：[酒井香奈子](https://ja.wikipedia.org/wiki/さかいかな "wikilink")
+    綾小路姫子：[酒井香奈子](../Page/さかいかな.md "wikilink")
     西町すもも：[斎藤桃子](../Page/斎藤桃子.md "wikilink")
 
 ### Flower Snow
 
 DSEシリーズ第5弾。2006年4月28日発売。
 
-  - 主題歌『白い約束』（歌：[酒井香奈子](https://ja.wikipedia.org/wiki/さかいかな "wikilink")）
+  - 主題歌『白い約束』（歌：[酒井香奈子](../Page/さかいかな.md "wikilink")）
     キャスト
     宇田川杏子：[國府田マリ子](../Page/國府田マリ子.md "wikilink")
-    宇田川リカ：[酒井香奈子](https://ja.wikipedia.org/wiki/さかいかな "wikilink")
+    宇田川リカ：[酒井香奈子](../Page/さかいかな.md "wikilink")
 
 ### Gift
 
@@ -158,7 +158,7 @@ DSEシリーズ第6弾。2006年5月26日発売。
   - キャスト
     中島裕二郎：[森田成一](../Page/森田成一.md "wikilink")
     中島歌織：[庄子裕衣](../Page/庄子裕衣.md "wikilink")
-    森響子：[近江知永](https://ja.wikipedia.org/wiki/近江知永 "wikilink")
+    森響子：[近江知永](../Page/近江知永.md "wikilink")
 
 ### パルフェ Another Story
 

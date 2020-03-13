@@ -5,7 +5,7 @@
 
 ## 概要
 
-欧州での展開も見据えて開発されたスポーティセダン。[2018年](../Page/2018年.md "wikilink")2月現在で販売されているのは2013年に発売された第3世代モデルである。派生車種として高性能モデルである「**[IS F](../Page/レクサス・IS_F.md "wikilink")**」（アイエス・エフ）があり、それらは[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に発売された先代（2代目モデル）のセダンをベースにしたものが販売されていた。なお、2代目モデル（日本仕様は初代モデル）のみ2ドアコンバーチブルクーペも混在していた。
+欧州での展開も見据えて開発されたスポーティセダン。[2018年](../Page/2018年.md "wikilink")2月現在で販売されているのは2013年に発売された第3世代モデルである。派生車種として高性能モデルである「**[IS F](../Page/レクサス・IS_F.md "wikilink")**」（アイエス・エフ）があり、それらは[2005年](../Page/2005年.md "wikilink")に発売された先代（2代目モデル）のセダンをベースにしたものが販売されていた。なお、2代目モデル（日本仕様は初代モデル）のみ2ドアコンバーチブルクーペも混在していた。
 
 第1世代モデルに相当する[1999年](../Page/1999年.md "wikilink")発売のモデルは日本国内に限ってトヨタブランド（[ネッツ店](../Page/ネッツ店.md "wikilink")）にて「**[トヨタ・アルテッツァ](../Page/トヨタ・アルテッツァ.md "wikilink")**」として販売されていた。
 
@@ -55,7 +55,7 @@
 
   - 発表・発売（2005年）
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")8月、日本でもレクサスブランドが展開。「[GS（3代目モデル）](https://ja.wikipedia.org/wiki/レクサス・GS#3代目_S19#型（2005年_-_2012年） "wikilink")」、「[SC](https://ja.wikipedia.org/wiki/レクサス・SC#2代目_（2001年_-_2010年） "wikilink")」と同時発表されるが、両車より1か月遅れの同年9月より販売開始。目標月間販売台数は1,800台と発表された。
+[2005年](../Page/2005年.md "wikilink")8月、日本でもレクサスブランドが展開。「[GS（3代目モデル）](https://ja.wikipedia.org/wiki/レクサス・GS#3代目_S19#型（2005年_-_2012年） "wikilink")」、「[SC](https://ja.wikipedia.org/wiki/レクサス・SC#2代目_（2001年_-_2010年） "wikilink")」と同時発表されるが、両車より1か月遅れの同年9月より販売開始。目標月間販売台数は1,800台と発表された。
 
 当初は4ドアセダンのみとなり、日本では実質的な先代モデルとなる「トヨタ・アルテッツァ」よりも価格帯は大幅に上昇しターゲット顧客層も変わる。初代モデルに存在したステーションワゴンモデル（IS SportsCross／アルテッツァジータ）はラインアップから外れたほか、[ハイブリッドモデルは日本国内外向けともにラインアップされない](../Page/ハイブリッドカー.md "wikilink")。
 
@@ -110,7 +110,7 @@ IS350に搭載される排気量3,456ccの（[2GR-FSE](https://ja.wikipedia.org/
 
 ### レクサス IS C（2009年-2014年）
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に発表され、翌[2009年](../Page/2009年.md "wikilink")から発売された[コンバーチブル](../Page/オープンカー.md "wikilink")2ドア[クーペ](../Page/クーペ.md "wikilink")モデルである。レクサスとしては、「[SC](https://ja.wikipedia.org/wiki/レクサス・SC "wikilink")」に次ぐコンバーチブル2ドアクーペとなる。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に発表され、翌[2009年](../Page/2009年.md "wikilink")から発売された[コンバーチブル](../Page/オープンカー.md "wikilink")2ドア[クーペ](../Page/クーペ.md "wikilink")モデルである。レクサスとしては、「[SC](../Page/レクサス・SC.md "wikilink")」に次ぐコンバーチブル2ドアクーペとなる。
 
 電動開閉式のメタルトップは軽量な[アルミニウム合金](../Page/アルミニウム合金.md "wikilink")製であり、屋根の自動開閉は20秒の短時間で行われ、かつ静かな開閉が実現されている。エクステリアカラーとインテリアカラーを豊富に用意され、セダンとの差別化が図られている。また、フロントバンパーのデザインもよりシャープなものに変更され（フォグランプが「IS F」風の丸型になっている）、ISシリーズとしては初めてフロントウインドウの上部にダークブルーのトップシェードが入れられているほか、[リアコンビランプにはセダンとは異型のものが採用されている](../Page/尾灯.md "wikilink")。
 
@@ -319,7 +319,7 @@ IS350で参戦するチームは[TEAM TAKEUCHI](../Page/TEAM_TAKEUCHI.md "wikili
 
 [Lexus_IS-F_CCS-R.jpg](https://ja.wikipedia.org/wiki/File:Lexus_IS-F_CCS-R.jpg "fig:Lexus_IS-F_CCS-R.jpg") 2008年にIS Fのワンメイクレース用車両のテストカーが発表され、2011年に『IS F CCS-R』の名で発売された\[24\]。安全装備の他フェンダーやウィングなどがカーボン化により軽量化されているものの、エンジン・ブレーキ・トランスミッションは市販車のIS Fと同じである。
 
-CCS-Rの開発はニュルで行われ、2011年にVLN第9戦[木下隆之](../Page/木下隆之.md "wikilink")/高木実/[佐藤久実](https://ja.wikipedia.org/wiki/佐藤久実 "wikilink")、2012年のVLN開幕戦では[山内一典](../Page/山内一典.md "wikilink")・[飯田章](https://ja.wikipedia.org/wiki/飯田章 "wikilink")らがステアリングを握った。
+CCS-Rの開発はニュルで行われ、2011年にVLN第9戦[木下隆之](../Page/木下隆之.md "wikilink")/高木実/[佐藤久実](https://ja.wikipedia.org/wiki/佐藤久実 "wikilink")、2012年のVLN開幕戦では[山内一典](../Page/山内一典.md "wikilink")・[飯田章](../Page/飯田章.md "wikilink")らがステアリングを握った。
 
 レースは現在まで[インタープロトシリーズ](https://ja.wikipedia.org/wiki/インタープロトシリーズ "wikilink")と併催で行われている。
 
@@ -354,7 +354,7 @@ CCS-Rの開発はニュルで行われ、2011年にVLN第9戦[木下隆之](../P
 
 [Category:レクサスの車種](https://ja.wikipedia.org/wiki/Category:レクサスの車種 "wikilink") [Category:セダン](https://ja.wikipedia.org/wiki/Category:セダン "wikilink") [Category:オープンカー](https://ja.wikipedia.org/wiki/Category:オープンカー "wikilink") [Category:四輪駆動車](https://ja.wikipedia.org/wiki/Category:四輪駆動車 "wikilink") [Category:レクサスのハイブリッドカー](https://ja.wikipedia.org/wiki/Category:レクサスのハイブリッドカー "wikilink")
 
-1.  AUTO CAR JAPAN [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")号 VOL.024 28ページ
+1.  AUTO CAR JAPAN [2005年](../Page/2005年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")号 VOL.024 28ページ
 2.  [LEXUS\>IS C IS Cの販売につきましては、2014年5月29日 (木) をもちまして、終了させていただきました。](http://lexus.jp/models/isc/)
 3.  2012年に発売された3代目「GS」以降の、「スピンドルグリル」を備えた次世代レクサスラインアップの総称。
 4.

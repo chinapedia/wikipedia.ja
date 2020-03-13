@@ -65,7 +65,7 @@
   - [近畿は美しく](https://ja.wikipedia.org/wiki/近畿は美しく "wikilink")
   - [たかじんONE MAN](../Page/たかじんONE_MAN.md "wikilink")
   - [MBSスポーツドーム](../Page/MBSスポーツドーム.md "wikilink")
-  - [クヮンガクッ](https://ja.wikipedia.org/wiki/クヮンガクッ "wikilink")
+  - [クヮンガクッ](../Page/クヮンガクッ.md "wikilink")
   - [せやねん\!](../Page/せやねん!.md "wikilink")
   - [水野真紀の魔法のレストラン](../Page/水野真紀の魔法のレストランR.md "wikilink")
   - [?マジっすか\!](../Page/?マジっすか!.md "wikilink")
@@ -93,7 +93,7 @@
   - [りえむら](../Page/りえむら.md "wikilink")
   - [ぶったま\!](../Page/ぶったま!.md "wikilink")
   - [F-CUBE](../Page/F-CUBE.md "wikilink")・木曜日『素敵にぶらりずむ』
-  - [南パラZ\!](https://ja.wikipedia.org/wiki/南パラZ! "wikilink")
+  - [南パラZ\!](../Page/南パラZ!.md "wikilink")
   - [やすしきよしの夏休み](../Page/やすしきよしの夏休み.md "wikilink")
 
 **読売テレビ**

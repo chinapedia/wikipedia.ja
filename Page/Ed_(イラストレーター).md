@@ -16,7 +16,7 @@
   - 2000年 - 個展「FEMME 2000 IN TOKIO」（FUMIYART GALLERY）開催。
   - [2001年](../Page/2001年.md "wikilink") - ウエアブランド「nakEd bunch」のデザイン、クリエイティヴ・ディレクションを2010年まで手掛ける。
   - [2004年](../Page/2004年.md "wikilink") - 個展「Merry - go - round」（SHISEIDO LA BEAUTE / [パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")）開催。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") - グループ展 「LIFE IN A BOX」（FABRICA FEATURES / [香港](https://ja.wikipedia.org/wiki/香港 "wikilink")）出展。
+  - [2005年](../Page/2005年.md "wikilink") - グループ展 「LIFE IN A BOX」（FABRICA FEATURES / [香港](https://ja.wikipedia.org/wiki/香港 "wikilink")）出展。
   - [2006年](../Page/2006年.md "wikilink") - 個展「DESSERT HOUSE」（Fireking Cafe、カフェレストMIMOCA）開催。
   - [2007年](../Page/2007年.md "wikilink") - グループ展 [深澤直人](../Page/深澤直人.md "wikilink")ディレクション「Chocolate」（21_21 DESIGN SIGHT）出展\[3\]。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink") - 個展「CoCo」（FOIL GALLERY）開催\[4\]。
@@ -44,7 +44,7 @@
 
 ### イラストレーション
 
-  - [ヴォーグ](https://ja.wikipedia.org/wiki/ヴォーグ_\(雑誌\) "wikilink")・ジャパン
+  - [ヴォーグ](../Page/ヴォーグ_\(雑誌\).md "wikilink")・ジャパン
 
   - ヴォーグ・ジョイエッロ
 

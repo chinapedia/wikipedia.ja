@@ -11,21 +11,21 @@
 
 ## キャスト
 
-| 役名       | 俳優                                                                       | 日本語吹替                                                   |
-| -------- | ------------------------------------------------------------------------ | ------------------------------------------------------- |
-| デイブ      | [デヴィッド・ヒューレット](../Page/デヴィッド・ヒューレット.md "wikilink")                       | [安原義人](../Page/安原義人.md "wikilink")                      |
-| アンドリュー   | [アンドリュー・ミラー](https://ja.wikipedia.org/wiki/アンドリュー・ミラー_\(俳優\) "wikilink") | [堀内賢雄](../Page/堀内賢雄.md "wikilink")                      |
-| クロフォード   | [アンドリュー・ロウリー](https://ja.wikipedia.org/wiki/アンドリュー・ロウリー "wikilink")      | [内田直哉](../Page/内田直哉.md "wikilink")                      |
-| サラ       | [マリ＝ジョゼ・クローズ](../Page/マリ＝ジョゼ・クローズ.md "wikilink")                         | [阿部桐子](https://ja.wikipedia.org/wiki/阿部桐子 "wikilink")   |
-| エレナの母    | [スー・ギャレイ](https://ja.wikipedia.org/wiki/スー・ギャレイ "wikilink")              | [八十川真由野](../Page/八十川真由野.md "wikilink")                  |
-| エレナ      | [イレーナ・シリング](https://ja.wikipedia.org/wiki/イレーナ・シリング "wikilink")          | [浅井清己](../Page/浅井清己.md "wikilink")                      |
-| 市役所職員    | [ゴードン・ピンセント](https://ja.wikipedia.org/wiki/ゴードン・ピンセント "wikilink")        | [金尾哲夫](../Page/金尾哲夫.md "wikilink")                      |
-| 作業員      |                                                                          | [田中英樹](https://ja.wikipedia.org/wiki/田中英樹 "wikilink")   |
-| 警官1      |                                                                          | [中多和宏](../Page/中田和宏.md "wikilink")                      |
-| 警官2      |                                                                          | [宇垣秀成](../Page/宇垣秀成.md "wikilink")                      |
-| ゲームキャラ   |                                                                          | [小林さやか](https://ja.wikipedia.org/wiki/小林さやか "wikilink") |
-| アンドリューの父 |                                                                          | [福田信昭](../Page/福田信昭.md "wikilink")                      |
-|          |                                                                          |                                                         |
+| 役名       | 俳優                                                                       | 日本語吹替                                                 |
+| -------- | ------------------------------------------------------------------------ | ----------------------------------------------------- |
+| デイブ      | [デヴィッド・ヒューレット](../Page/デヴィッド・ヒューレット.md "wikilink")                       | [安原義人](../Page/安原義人.md "wikilink")                    |
+| アンドリュー   | [アンドリュー・ミラー](https://ja.wikipedia.org/wiki/アンドリュー・ミラー_\(俳優\) "wikilink") | [堀内賢雄](../Page/堀内賢雄.md "wikilink")                    |
+| クロフォード   | [アンドリュー・ロウリー](https://ja.wikipedia.org/wiki/アンドリュー・ロウリー "wikilink")      | [内田直哉](../Page/内田直哉.md "wikilink")                    |
+| サラ       | [マリ＝ジョゼ・クローズ](../Page/マリ＝ジョゼ・クローズ.md "wikilink")                         | [阿部桐子](https://ja.wikipedia.org/wiki/阿部桐子 "wikilink") |
+| エレナの母    | [スー・ギャレイ](https://ja.wikipedia.org/wiki/スー・ギャレイ "wikilink")              | [八十川真由野](../Page/八十川真由野.md "wikilink")                |
+| エレナ      | [イレーナ・シリング](https://ja.wikipedia.org/wiki/イレーナ・シリング "wikilink")          | [浅井清己](../Page/浅井清己.md "wikilink")                    |
+| 市役所職員    | [ゴードン・ピンセント](https://ja.wikipedia.org/wiki/ゴードン・ピンセント "wikilink")        | [金尾哲夫](../Page/金尾哲夫.md "wikilink")                    |
+| 作業員      |                                                                          | [田中英樹](https://ja.wikipedia.org/wiki/田中英樹 "wikilink") |
+| 警官1      |                                                                          | [中多和宏](../Page/中田和宏.md "wikilink")                    |
+| 警官2      |                                                                          | [宇垣秀成](../Page/宇垣秀成.md "wikilink")                    |
+| ゲームキャラ   |                                                                          | [小林さやか](../Page/小林さやか.md "wikilink")                  |
+| アンドリューの父 |                                                                          | [福田信昭](../Page/福田信昭.md "wikilink")                    |
+|          |                                                                          |                                                       |
 
 ## 外部リンク
 

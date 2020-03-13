@@ -68,8 +68,8 @@
 
 ## 関連項目
 
-  - [とくしまCITY](https://ja.wikipedia.org/wiki/とくしまCITY "wikilink")（元系列）
-  - [しんかなCITY](https://ja.wikipedia.org/wiki/しんかなCITY "wikilink")（閉店）
+  - [とくしまCITY](../Page/とくしまCITY.md "wikilink")（元系列）
+  - [しんかなCITY](../Page/しんかなCITY.md "wikilink")（閉店）
   - [日本のショッピングセンター一覧](https://ja.wikipedia.org/wiki/日本のショッピングセンター一覧 "wikilink")
 
 ## 外部リンク

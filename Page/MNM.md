@@ -7,9 +7,9 @@ MNMというユニット名は、それぞれの[リングネーム](../Page/リ
 
 ## 概要
 
-初登場は[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、[スマックダウン](../Page/スマックダウン.md "wikilink")内での[カリート・カリビアン・クールによるインタビューから](../Page/カーリー・コロン.md "wikilink")。[レイ・ミステリオ](../Page/レイ・ミステリオ・ジュニア.md "wikilink")&[エディ・ゲレロ](../Page/エディ・ゲレロ.md "wikilink")から[WWEタッグ王座を奪い](https://ja.wikipedia.org/wiki/WWE・タッグチーム王座 "wikilink")、タッグ王座に君臨していた。
+初登場は[2005年](../Page/2005年.md "wikilink")、[スマックダウン](../Page/スマックダウン.md "wikilink")内での[カリート・カリビアン・クールによるインタビューから](../Page/カーリー・コロン.md "wikilink")。[レイ・ミステリオ](../Page/レイ・ミステリオ・ジュニア.md "wikilink")&[エディ・ゲレロ](../Page/エディ・ゲレロ.md "wikilink")から[WWEタッグ王座を奪い](https://ja.wikipedia.org/wiki/WWE・タッグチーム王座 "wikilink")、タッグ王座に君臨していた。
 
-同年7月24日の[グレート・アメリカン・バッシュ](https://ja.wikipedia.org/wiki/グレート・アメリカン・バッシュ "wikilink")で[ハイデンライク](../Page/ジョン・ハイデンライク.md "wikilink")&[ロード・ウォリアー・アニマル](https://ja.wikipedia.org/wiki/ロード・ウォリアー・アニマル "wikilink")に敗れてタッグ王座から陥落した。
+同年7月24日の[グレート・アメリカン・バッシュ](../Page/グレート・アメリカン・バッシュ.md "wikilink")で[ハイデンライク](../Page/ジョン・ハイデンライク.md "wikilink")&[ロード・ウォリアー・アニマル](../Page/ロード・ウォリアー・アニマル.md "wikilink")に敗れてタッグ王座から陥落した。
 
 同年10月25日に[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")で行われたWWEタッグ王座決定戦で、再度タッグ王座に輝いた。同年12月16日には[バティスタ](https://ja.wikipedia.org/wiki/デビッド・バウティスタ "wikilink")&レイ・ミステリオに敗れて再度王座流出した。
 

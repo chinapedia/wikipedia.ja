@@ -1,7 +1,7 @@
 > この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
 
 
-『**スパイダーマンJ**』（スパイダーマンジェイ）は、『[コミックボンボン](../Page/コミックボンボン.md "wikilink")』において[2004年](../Page/2004年.md "wikilink")9月号から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")11月号まで連載された[山中あきら](../Page/山中あきら.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。
+『**スパイダーマンJ**』（スパイダーマンジェイ）は、『[コミックボンボン](../Page/コミックボンボン.md "wikilink")』において[2004年](../Page/2004年.md "wikilink")9月号から[2005年](../Page/2005年.md "wikilink")11月号まで連載された[山中あきら](../Page/山中あきら.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。
 
 『[スパイダーマン](../Page/スパイダーマン.md "wikilink")』を基にしており、[映画版との](../Page/スパイダーマン_\(映画\).md "wikilink")[クロスオーバー展開もある](../Page/クロスオーバー作品.md "wikilink")。
 

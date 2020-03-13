@@ -27,7 +27,7 @@
   - [中田美香](../Page/中田美香.md "wikilink")
   - [小川もこ](../Page/小川もこ.md "wikilink")
   - [今泉清保](../Page/今泉清保.md "wikilink")
-  - [普天間かおり](https://ja.wikipedia.org/wiki/普天間かおり "wikilink")
+  - [普天間かおり](../Page/普天間かおり.md "wikilink")
   - [牛嶋俊明](../Page/牛嶋俊明.md "wikilink")
   - [工藤彰乃](https://ja.wikipedia.org/wiki/工藤彰乃 "wikilink")
   - [棚橋麻衣](../Page/棚橋麻衣.md "wikilink")

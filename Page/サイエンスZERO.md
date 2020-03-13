@@ -1,7 +1,7 @@
 > この記事は[ZERO](https://ja.wikipedia.org/wiki/ZERO)から翻訳されています。
 
 
-『**サイエンスZERO**』（サイエンスゼロ）は、[NHK教育テレビジョン](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")（NHK Eテレ）で[2003年](../Page/2003年.md "wikilink")[4月9日](../Page/4月9日.md "wikilink")\[1\]から放送されている[科学](../Page/科学.md "wikilink")[教育番組](../Page/教育番組.md "wikilink")である。[2002年](../Page/2002年.md "wikilink")3月まで放送された『[サイエンスアイ](https://ja.wikipedia.org/wiki/サイエンスアイ "wikilink")』の後継番組にあたる。かつては国際放送（[NHKワールドTV](../Page/NHKワールドTV.md "wikilink")）でも2003年度から放送された\[2\]2004年度には英日2か国語放送を行った\[3\]。 2005年度よりハイビジョン放送を開始。
+『**サイエンスZERO**』（サイエンスゼロ）は、[NHK教育テレビジョン](../Page/NHK教育テレビジョン.md "wikilink")（NHK Eテレ）で[2003年](../Page/2003年.md "wikilink")[4月9日](../Page/4月9日.md "wikilink")\[1\]から放送されている[科学](../Page/科学.md "wikilink")[教育番組](../Page/教育番組.md "wikilink")である。[2002年](../Page/2002年.md "wikilink")3月まで放送された『[サイエンスアイ](https://ja.wikipedia.org/wiki/サイエンスアイ "wikilink")』の後継番組にあたる。かつては国際放送（[NHKワールドTV](../Page/NHKワールドTV.md "wikilink")）でも2003年度から放送された\[2\]2004年度には英日2か国語放送を行った\[3\]。 2005年度よりハイビジョン放送を開始。
 
 ## 内容
 
@@ -63,7 +63,7 @@
       - [BS2](../Page/NHK衛星第2テレビジョン.md "wikilink")（再放送）: 翌週木曜日 02:30 - 03:04 （水曜深夜）
   - 2011年4月2日 - 2012年3月31日
       - NHK Eテレ（本放送）: 土曜日 00:00 - 00:30 （金曜深夜）
-      - NHK Eテレ（[再放送](https://ja.wikipedia.org/wiki/再放送 "wikilink")）: 翌週木曜日 18:55 - 19:25
+      - NHK Eテレ（[再放送](../Page/再放送.md "wikilink")）: 翌週木曜日 18:55 - 19:25
   - 2012年4月8日 - 2018年4月1日
       - NHK Eテレ 日曜日 23:30 - 0:00 （本放送）
       - NHK Eテレ 土曜日 12:30 - 13:00（再放送）

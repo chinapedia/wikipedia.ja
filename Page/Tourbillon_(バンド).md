@@ -65,7 +65,7 @@
 
 ### シングル
 
-1.  **[HEAVEN](../Page/HEAVEN_\(Tourbillonの曲\).md "wikilink")**（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")9月7日、AVCD-30789）
+1.  **[HEAVEN](../Page/HEAVEN_\(Tourbillonの曲\).md "wikilink")**（[2005年](../Page/2005年.md "wikilink")9月7日、AVCD-30789）
     1.  HEAVEN
           - テレビ朝日プロマーシャル
     2.  Crisis of my life
@@ -200,7 +200,7 @@
 
 ### 書籍
 
-1.  **アンセコンドリュー トゥールビヨン写真集**（2005年8月、zazaミュージッククリエイター事業部/[シンコーミュージック・エンタテイメント](https://ja.wikipedia.org/wiki/シンコーミュージック・エンタテイメント "wikilink")）- ISBN 9784401761074
+1.  **アンセコンドリュー トゥールビヨン写真集**（2005年8月、zazaミュージッククリエイター事業部/[シンコーミュージック・エンタテイメント](../Page/シンコーミュージック・エンタテイメント.md "wikilink")）- ISBN 9784401761074
       - 「Un Tourbillon」（2005年7月2日 日本武道館）の写真集（ドキュメント）
       - 著者：Yamauchi Yorihito, Miyawaki Susumu
 
@@ -216,7 +216,7 @@
 
 ## ライヴ・コンサート
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
 
 <!-- end list -->
 

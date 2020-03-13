@@ -27,7 +27,7 @@
   - [AI](https://ja.wikipedia.org/wiki/AI_\(歌手\) "wikilink") (2003年〜2004年)
   - [HI-D](../Page/HI-D.md "wikilink") (2003年〜2004年)
   - [TOKONA-X](../Page/TOKONA-X.md "wikilink") (2003年〜2004年)
-  - [HIBARI](https://ja.wikipedia.org/wiki/HIBARI "wikilink") (2003年〜2004年)
+  - [HIBARI](../Page/HIBARI.md "wikilink") (2003年〜2004年)
   - [岡村靖幸](../Page/岡村靖幸.md "wikilink") (2004年〜2007年)
   - CRYSTAL MOVEMENT (2004年)
   - 浜口祐夢 (2004年)
@@ -69,7 +69,7 @@
 <li>DO THE PUNK ROCK…fuck forever / TINY PANX</li>
 <li>ECDの“東京っていい街だなぁ” / <a href="../Page/ECD_(ミュージシャン).md" title="wikilink">ECD</a></li>
 <li>平和 (ピース) の住人 / <a href="../Page/ZINGI.md" title="wikilink">ZINGI</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/DA.YO.NE" title="wikilink">DA.YO.NE</a> / <a href="https://ja.wikipedia.org/wiki/EAST_END×YURI" title="wikilink">EAST END×YURI</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/DA.YO.NE" title="wikilink">DA.YO.NE</a> / <a href="../Page/EAST_END×YURI.md" title="wikilink">EAST END×YURI</a></li>
 <li><a href="../Page/今夜はブギー・バック.md" title="wikilink">今夜はブギー・バック</a> / <a href="../Page/スチャダラパー.md" title="wikilink">スチャダラパー</a> feat. <a href="../Page/小沢健二.md" title="wikilink">小沢健二</a></li>
 <li>ビシッ！とやれよ / <a href="https://ja.wikipedia.org/wiki/BOY-KEN" title="wikilink">BOY-KEN</a></li>
 <li>つるみの塔 ORIGINAL EDIT VERSION FROM CHECK YOUR MIKE / <a href="https://ja.wikipedia.org/wiki/キミドリ" title="wikilink">キミドリ</a></li>

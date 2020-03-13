@@ -1,7 +1,7 @@
 > この記事は[HAKUEI](https://ja.wikipedia.org/wiki/HAKUEI)から翻訳されています。
 
 
-**HAKUEI**(ハクエイ、[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[12月16日](../Page/12月16日.md "wikilink")-)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[歌手](../Page/歌手.md "wikilink")、[作詞家](../Page/作詞家.md "wikilink")、[タレント](../Page/タレント.md "wikilink")。[PENICILIN](https://ja.wikipedia.org/wiki/PENICILIN "wikilink")および[machine](https://ja.wikipedia.org/wiki/machine "wikilink")、[ライチ☆光クラブ](../Page/ライチ☆光クラブ.md "wikilink")の[ボーカリスト](https://ja.wikipedia.org/wiki/ボーカリスト "wikilink")。[宮崎県](../Page/宮崎県.md "wikilink")[串間市](../Page/串間市.md "wikilink")生まれの[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")[弘前市](../Page/弘前市.md "wikilink")育ち。身長183センチ。血液型O型。本名は田中 博英。
+**HAKUEI**(ハクエイ、[1970年](../Page/1970年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink")-)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[歌手](../Page/歌手.md "wikilink")、[作詞家](../Page/作詞家.md "wikilink")、[タレント](../Page/タレント.md "wikilink")。[PENICILIN](https://ja.wikipedia.org/wiki/PENICILIN "wikilink")および[machine](https://ja.wikipedia.org/wiki/machine "wikilink")、[ライチ☆光クラブ](../Page/ライチ☆光クラブ.md "wikilink")の[ボーカリスト](https://ja.wikipedia.org/wiki/ボーカリスト "wikilink")。[宮崎県](../Page/宮崎県.md "wikilink")[串間市](../Page/串間市.md "wikilink")生まれの[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")[弘前市](../Page/弘前市.md "wikilink")育ち。身長183センチ。血液型O型。本名は田中 博英。
 
 ## 略歴
 
@@ -25,14 +25,14 @@
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")
       - [古屋兎丸](../Page/古屋兎丸.md "wikilink")・[平沼紀久](https://ja.wikipedia.org/wiki/平沼紀久 "wikilink")と共に「漫画兄弟」を結成し[幻冬舎](../Page/幻冬舎.md "wikilink")から絵本「納豆侍 まめ太郎でござる」（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")発売）と「ずっといっしょ」（2010年発売）を発売。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")
-      - [3月24日](../Page/3月24日.md "wikilink")、ボーカリストとしてラッパーの[TWIGY](../Page/TWIGY.md "wikilink")と共に参加した[ナイトメアのドラマー](https://ja.wikipedia.org/wiki/ナイトメア_\(バンド\) "wikilink")[RUKA](https://ja.wikipedia.org/wiki/RUKA "wikilink")のソロプロジェクトThe LEGENDARY SIX NINEのシングル「Cruel」が発売。ライブイベントに3度出演。
+      - [3月24日](../Page/3月24日.md "wikilink")、ボーカリストとしてラッパーの[TWIGY](../Page/TWIGY.md "wikilink")と共に参加した[ナイトメアのドラマー](../Page/ナイトメア_\(バンド\).md "wikilink")[RUKA](../Page/RUKA.md "wikilink")のソロプロジェクトThe LEGENDARY SIX NINEのシングル「Cruel」が発売。ライブイベントに3度出演。
   - [2011年](../Page/2011年.md "wikilink")
       - 古屋兎丸の[漫画作品](https://ja.wikipedia.org/wiki/漫画作品 "wikilink")、[ライチ☆光クラブ](../Page/ライチ☆光クラブ.md "wikilink")とのコラボレーションで、同名の音楽ユニット「[ライチ☆光クラブ](https://ja.wikipedia.org/wiki/ライチ☆光クラブ#音楽ユニット "wikilink")」として音楽配信も行い、その集大成として全6曲のミニアルバム『エラガバルス☆の夢』を発売。[武田真治](../Page/武田真治.md "wikilink")などゲストミュージシャンが多数参加。
 
 ## 人物
 
   - [漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")好きが高じて四コマ漫画家としてデビューした経験もあり、音楽雑誌[フールズメイト](https://ja.wikipedia.org/wiki/フールズメイト "wikilink")で第213回連載。古屋兎丸をはじめ漫画家の知人が多く、CDのジャケットデザインなども依頼。
-  - [ヴィヴィアン・ウエストウッド](https://ja.wikipedia.org/wiki/ヴィヴィアン・ウエストウッド "wikilink")愛用者であるとともに、[クロムハーツ](../Page/クロムハーツ.md "wikilink")の愛用者の代表格として紹介される事が多い。また2010年秋頃からは、別のシルバーアクセサリーブランドの「Lips＆Tips」のデザイン画を書き下ろしてコラボレートした作品も出している。
+  - [ヴィヴィアン・ウエストウッド](../Page/ヴィヴィアン・ウエストウッド.md "wikilink")愛用者であるとともに、[クロムハーツ](../Page/クロムハーツ.md "wikilink")の愛用者の代表格として紹介される事が多い。また2010年秋頃からは、別のシルバーアクセサリーブランドの「Lips＆Tips」のデザイン画を書き下ろしてコラボレートした作品も出している。
   - [2000年](../Page/2000年.md "wikilink")夏頃から両腕の二の腕にタトゥーを入れ始めた。現在では、首・両胸～両肩～両腕～両手手の甲～両小指にかけて、まんべんなくタトゥーを入れている。
   - [UP-BEAT](../Page/UP-BEAT.md "wikilink")の大ファンでもあり、高校時代にコピーバンドをした。
   - [菊池桃子](../Page/菊池桃子.md "wikilink")の大ファン。お気に入りナンバーは「雪に書いたラブレター」。

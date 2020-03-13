@@ -7,7 +7,7 @@
 
 ## 名称
 
-正式名称は「IBM eServer pSeries」である。IBMのサーバ全体のブランド名「[IBM Systems](https://ja.wikipedia.org/wiki/IBM_Systems "wikilink")」を構成するシリーズ（[System z](../Page/System_z.md "wikilink")、[System i](https://ja.wikipedia.org/wiki/System_i "wikilink")、System p、[System x](../Page/System_x.md "wikilink")、[System Storage](https://ja.wikipedia.org/wiki/System_Storage "wikilink")）の1つである。「p」は「performance（パフォーマンス）」を意味する。また[POWER5](https://ja.wikipedia.org/wiki/POWER5 "wikilink")ベースのものを **p5** とも称する。
+正式名称は「IBM eServer pSeries」である。IBMのサーバ全体のブランド名「[IBM Systems](https://ja.wikipedia.org/wiki/IBM_Systems "wikilink")」を構成するシリーズ（[System z](../Page/System_z.md "wikilink")、[System i](../Page/System_i.md "wikilink")、System p、[System x](../Page/System_x.md "wikilink")、[System Storage](https://ja.wikipedia.org/wiki/System_Storage "wikilink")）の1つである。「p」は「performance（パフォーマンス）」を意味する。また[POWER5](https://ja.wikipedia.org/wiki/POWER5 "wikilink")ベースのものを **p5** とも称する。
 
 ## 歴史
 
@@ -44,7 +44,7 @@ IBM System p5 と IBM *e*Server p5 以降は、仮想化機能として以下を
 
   - [IBM Systems](https://ja.wikipedia.org/wiki/IBM_Systems "wikilink")
       - [System z](../Page/System_z.md "wikilink")
-      - [System i](https://ja.wikipedia.org/wiki/System_i "wikilink")
+      - [System i](../Page/System_i.md "wikilink")
       - [System x](../Page/System_x.md "wikilink")
 
 ## 参考文献

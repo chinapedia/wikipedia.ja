@@ -7,7 +7,7 @@
 
 この遺伝子は元々**Pokemon**（ポケモン）と命名されていた。POK[赤血球](../Page/赤血球.md "wikilink")系・[骨髄球](https://ja.wikipedia.org/wiki/骨髄球 "wikilink")性[幼若化](https://ja.wikipedia.org/wiki/幼若化 "wikilink")因子（**POK** **E**rythroid, **M**yeloid **ON**togenic factor）という語の[頭字語](../Page/頭字語.md "wikilink")であり、**Pokémon**（ゲームの[ポケモンの英字綴り](../Page/ポケットモンスター.md "wikilink")）の[バクロニム](../Page/バクロニム.md "wikilink")である。
 
-株式会社[ポケモンの米国法人であるPokémon](../Page/ポケモン_\(企業\).md "wikilink") USAは彼等の[商標](../Page/商標.md "wikilink")が癌を引き起こす遺伝子と同じ名前を持つことで悪評に結びつくことを危惧して、法的措置を執り行うと[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")12月にMSKCCへ警告を送り、遺伝子はZbtb7へ改称された\[2\]\[3\]。
+株式会社[ポケモンの米国法人であるPokémon](../Page/ポケモン_\(企業\).md "wikilink") USAは彼等の[商標](../Page/商標.md "wikilink")が癌を引き起こす遺伝子と同じ名前を持つことで悪評に結びつくことを危惧して、法的措置を執り行うと[2005年](../Page/2005年.md "wikilink")12月にMSKCCへ警告を送り、遺伝子はZbtb7へ改称された\[2\]\[3\]。
 
 ## 脚注
 
@@ -19,5 +19,5 @@
 [Category:がん遺伝子](https://ja.wikipedia.org/wiki/Category:がん遺伝子 "wikilink")
 
 1.  [Switching Off 'Pokemon' Gene May Block Cancer-Cell Formation](http://health.dailynewscentral.com/content/view/000316/31/)
-2.  [Pokemon USA threat leads to gene name change](http://archive.is/20120715235913/http://news.com.com/Pokemon+USA+threat+leads+to+gene+name+change/2100-1043_3-6001323.html)（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")の*[CNET](../Page/CNET.md "wikilink") NEWS.com*の記事）
+2.  [Pokemon USA threat leads to gene name change](http://archive.is/20120715235913/http://news.com.com/Pokemon+USA+threat+leads+to+gene+name+change/2100-1043_3-6001323.html)（[2005年](../Page/2005年.md "wikilink")[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")の*[CNET](../Page/CNET.md "wikilink") NEWS.com*の記事）
 3.  前立腺癌は「ポケモン」のせい？ [1](https://jp.sputniknews.com/https://jp.sputniknews.com/science/201607222545242/)（*Sputnik.*の記事）

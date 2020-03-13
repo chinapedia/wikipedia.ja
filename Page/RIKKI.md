@@ -1,7 +1,7 @@
 > この記事は[RIKKI](https://ja.wikipedia.org/wiki/RIKKI)から翻訳されています。
 
 
-**RIKKI**（りっき、[1975年](../Page/1975年.md "wikilink")[1月19日](../Page/1月19日.md "wikilink") - ）は[鹿児島県](../Page/鹿児島県.md "wikilink")[大島郡](../Page/大島郡_\(鹿児島県\).md "wikilink")[瀬戸内町](https://ja.wikipedia.org/wiki/瀬戸内町 "wikilink")([奄美大島](../Page/奄美大島.md "wikilink"))出身\[1\]の[島唄](https://ja.wikipedia.org/wiki/島唄 "wikilink")および[ポップスの](../Page/ポピュラー音楽.md "wikilink")[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")。本名は**中野 律紀**（なかの りつき）。
+**RIKKI**（りっき、[1975年](../Page/1975年.md "wikilink")[1月19日](../Page/1月19日.md "wikilink") - ）は[鹿児島県](../Page/鹿児島県.md "wikilink")[大島郡](../Page/大島郡_\(鹿児島県\).md "wikilink")[瀬戸内町](../Page/瀬戸内町.md "wikilink")([奄美大島](../Page/奄美大島.md "wikilink"))出身\[1\]の[島唄](../Page/島唄.md "wikilink")および[ポップスの](../Page/ポピュラー音楽.md "wikilink")[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")。本名は**中野 律紀**（なかの りつき）。
 
 ## 略歴
 
@@ -37,7 +37,7 @@
 
 :\*: [プレイステーション2専用ゲーム](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[ファイナルファンタジーX](../Page/ファイナルファンタジーX.md "wikilink")』主題歌。
 
-:\* 『からたち野道 / 朱鷺 -トキ-』(2003年3月19日) ※RIKKI+[宮沢和史](https://ja.wikipedia.org/wiki/宮沢和史 "wikilink")名義
+:\* 『からたち野道 / 朱鷺 -トキ-』(2003年3月19日) ※RIKKI+[宮沢和史](../Page/宮沢和史.md "wikilink")名義
 
 :\* [Sound Horizon](https://ja.wikipedia.org/wiki/Sound_Horizon "wikilink")『[少年は剣を…](../Page/少年は剣を….md "wikilink")』（2006年10月4日）
 

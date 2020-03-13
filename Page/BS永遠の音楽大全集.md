@@ -47,7 +47,7 @@
 
 <!-- end list -->
 
-  - [井上あずみ](https://ja.wikipedia.org/wiki/井上あずみ "wikilink")
+  - [井上あずみ](../Page/井上あずみ.md "wikilink")
   - [米良美一](../Page/米良美一.md "wikilink")
   - [木村弓](../Page/木村弓.md "wikilink")
   - [ドリーミング](../Page/ドリーミング_\(歌手グループ\).md "wikilink")
@@ -65,7 +65,7 @@
   - [布施明](https://ja.wikipedia.org/wiki/布施明 "wikilink")
   - [串田アキラ](../Page/串田アキラ.md "wikilink")
   - [松本梨香](https://ja.wikipedia.org/wiki/松本梨香 "wikilink")
-  - [高橋洋子](https://ja.wikipedia.org/wiki/高橋洋子_\(歌手\) "wikilink")
+  - [高橋洋子](../Page/高橋洋子_\(歌手\).md "wikilink")
   - [NHK東京児童合唱団](../Page/NHK東京児童合唱団.md "wikilink")
 
 </div>
@@ -160,7 +160,7 @@
 <!-- end list -->
 
   - [由紀さおり](../Page/由紀さおり.md "wikilink")
-  - [安田祥子](https://ja.wikipedia.org/wiki/安田祥子 "wikilink")
+  - [安田祥子](../Page/安田祥子.md "wikilink")
   - [デューク・エイセス](../Page/デューク・エイセス.md "wikilink")
   - [白鳥英美子](../Page/白鳥英美子.md "wikilink")
   - [錦織健](../Page/錦織健.md "wikilink")
@@ -276,7 +276,7 @@
   - [MoJo](../Page/MoJo.md "wikilink")
   - 大杉久美子
   - [森川美穂](../Page/森川美穂.md "wikilink")
-  - [加橋かつみ](https://ja.wikipedia.org/wiki/加橋かつみ "wikilink")
+  - [加橋かつみ](../Page/加橋かつみ.md "wikilink")
   - [タケカワユキヒデ](../Page/タケカワユキヒデ.md "wikilink")
   - 松本梨香
   - [中沢堅司](https://ja.wikipedia.org/wiki/中沢堅司 "wikilink")
@@ -536,7 +536,7 @@
   - トワ・エ・モワ
   - 五つの赤い風船
   - ビリー・バンバン
-  - [新谷のり子](https://ja.wikipedia.org/wiki/新谷のり子 "wikilink")
+  - [新谷のり子](../Page/新谷のり子.md "wikilink")
   - ダ・カーポ
   - [杉田二郎](../Page/杉田二郎.md "wikilink")
   - 加藤登紀子
@@ -863,7 +863,7 @@
 
 <!-- end list -->
 
-  - [神田愛花](https://ja.wikipedia.org/wiki/神田愛花 "wikilink")（アナウンサー）
+  - [神田愛花](../Page/神田愛花.md "wikilink")（アナウンサー）
   - [中山秀征](../Page/中山秀征.md "wikilink")
 
 <!-- end list -->

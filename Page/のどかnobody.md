@@ -5,13 +5,13 @@
 
 ## 概要
 
-[富士見書房](../Page/富士見書房.md "wikilink")の雑誌『[月刊ドラゴンエイジ](https://ja.wikipedia.org/wiki/月刊ドラゴンエイジ "wikilink")』で[2004年](../Page/2004年.md "wikilink")7月号から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")9月号まで連載された。
+[富士見書房](../Page/富士見書房.md "wikilink")の雑誌『[月刊ドラゴンエイジ](../Page/月刊ドラゴンエイジ.md "wikilink")』で[2004年](../Page/2004年.md "wikilink")7月号から[2005年](../Page/2005年.md "wikilink")9月号まで連載された。
 
 冒険・[ファンタジー](../Page/ファンタジー.md "wikilink")系作品が中心の掲載誌にあって、人間ドラマを描く本作は異彩を放つ存在となっていた。
 
 作品名「のどかnobody」は、「“のどか”の他にこれほどの天才温泉旅館デザイナーは“いない”」という意味である。スタッフの間では「**のどかの**」と呼ばれている。
 
-なお、原作の田山りくは『[魔法遣いに大切なこと](https://ja.wikipedia.org/wiki/魔法遣いに大切なこと "wikilink")』の原作者[山田典枝](https://ja.wikipedia.org/wiki/山田典枝 "wikilink")の別ペンネームである。
+なお、原作の田山りくは『[魔法遣いに大切なこと](https://ja.wikipedia.org/wiki/魔法遣いに大切なこと "wikilink")』の原作者[山田典枝](../Page/山田典枝.md "wikilink")の別ペンネームである。
 
 ## 作品概要
 
@@ -77,8 +77,8 @@
 
 [角川書店](../Page/角川書店.md "wikilink")より「単行本コミックス」として刊行されている\[1\]。単行本のカバーには、実際の温泉旅館の写真が使われている。
 
-1.  第1巻「温泉の魔術師」（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[1月25日](../Page/1月25日.md "wikilink")発行） ISBN 4-04-853811-X
-2.  第2巻「日本の心」（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月30日](../Page/4月30日.md "wikilink")発行） ISBN 4-04-853856-X
+1.  第1巻「温泉の魔術師」（[2005年](../Page/2005年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink")発行） ISBN 4-04-853811-X
+2.  第2巻「日本の心」（[2005年](../Page/2005年.md "wikilink")[4月30日](../Page/4月30日.md "wikilink")発行） ISBN 4-04-853856-X
 
 なお、第11話以後は単行本化されていない。
 

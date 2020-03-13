@@ -19,7 +19,7 @@
 ### レギュラー出演者
 
   - [飯島愛](https://ja.wikipedia.org/wiki/飯島愛 "wikilink")
-  - [岩井由紀子](https://ja.wikipedia.org/wiki/岩井由紀子 "wikilink")
+  - [岩井由紀子](../Page/岩井由紀子.md "wikilink")
   - [ウド鈴木](../Page/ウド鈴木.md "wikilink")（[キャイ〜ン](../Page/キャイ〜ン.md "wikilink")）
   - [天野ひろゆき](../Page/天野ひろゆき.md "wikilink")（キャイ〜ン）
   - [勝俣州和](../Page/勝俣州和.md "wikilink")（当時[K2](https://ja.wikipedia.org/wiki/K2_\(お笑い\) "wikilink")）

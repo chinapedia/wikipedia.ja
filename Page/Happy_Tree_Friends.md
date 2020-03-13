@@ -319,7 +319,7 @@
     「Water You Wading For」に登場。池に生息し、2匹登場して、カドルスを飛ばして遊んでいた。
   - [ワニ](../Page/ワニ.md "wikilink")
     「Water You Wading For」に登場。上記のアシカに遊ばれた後のカドルスを飲み込んだ。
-  - [亀](../Page/カメ.md "wikilink")（[カミツキガメ](https://ja.wikipedia.org/wiki/カミツキガメ "wikilink")）
+  - [亀](../Page/カメ.md "wikilink")（[カミツキガメ](../Page/カミツキガメ.md "wikilink")）
     ランピーが郵便配達員をしているエピソード「Letter Late Than Ever」に登場。撫でると凶暴化する。かなり凶暴で、ランピーの行く先々で襲い掛かり、最終的にランピーを食い殺した。「Junk in the Trunk」では、この亀とよく似た亀をトゥーシーが飼っていた。また、「Sight for Sore Eyes」にもよく似た亀が登場した。こちらは盲導鈴の補助の亀であった（ただし両方とも大人しかった）。また、「Blast from the Past」では、この亀の祖先と思われる殻がない生物が登場したが、登場してすぐにタイムマシンで押し潰された。
   - [犬](../Page/イヌ.md "wikilink")
     「Doggone It」にてペットショップでポップとカブが飼った犬。普段は大人しいが、口笛やホイッスルなどの高音域の音に反応して凶暴な性格になる。また、これとそっくりな犬が「Sight for Sore Eyes」にてザ・モールの盲導犬として登場したが凶暴化はしない。
@@ -382,7 +382,7 @@ Happy Tree Friendsの成功に感動させられたMondo Mediaは、[DVD](../Pag
     放送期間: [1999年](../Page/1999年.md "wikilink")〜[2001年](../Page/2001年.md "wikilink")
   - [シーズン2](https://ja.wikipedia.org/wiki/Happy_Tree_Friends_シーズン2のエピソード一覧 "wikilink")
     エピソード: 27
-    放送期間: [2002年](../Page/2002年.md "wikilink")〜[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+    放送期間: [2002年](../Page/2002年.md "wikilink")〜[2005年](../Page/2005年.md "wikilink")
   - [シーズン3](https://ja.wikipedia.org/wiki/Happy_Tree_Friends_シーズン3のエピソード一覧 "wikilink")
     エピソード: 13
     放送期間: [2007年](../Page/2007年.md "wikilink")〜[2013年](../Page/2013年.md "wikilink")
@@ -455,30 +455,30 @@ Mondo Mediaの公式サイトにあるフラッシュゲームも、iOSなどで
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Kenn_Navarro.jpg "wikilink")
 
-| 名前                     | 役職                             | 役歴                                                                                            |
-| ---------------------- | ------------------------------ | --------------------------------------------------------------------------------------------- |
-| Kenn Navarro           | 監督・映像監督・作家・アニメーター・声優           | [1999年](../Page/1999年.md "wikilink")\~現在                                                      |
-| Rhode Montijo          | 監督・描画監督・作家・声優                  | 1999年\~[2004年](../Page/2004年.md "wikilink")                                                   |
-| Aubrey Ankrum          | 監督・作家・ストーリーボードアーティスト・声優        | 1999年\~[2006年](../Page/2006年.md "wikilink")                                                   |
-| Warren Graff           | ストーリー考案・作家・声優                  | [2000年](../Page/2000年.md "wikilink")\~現在                                                      |
-| Ken Pontac             | ストーリー考案・作家・声優                  | 2004年\~現在                                                                                     |
-| Ziad Natshe            | アニメーター・ストーリーボードアーティスト          | 2000年\~[2002年](../Page/2002年.md "wikilink")                                                   |
-| Jeff Biancalana        | 作家・アニメーター・ストーリーボードアーティスト・声優    | [2001年](../Page/2001年.md "wikilink")\~[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") |
-| David Winn             | 作家・アニメーター・声優                   | [2003年](../Page/2003年.md "wikilink")\~現在                                                      |
-| Alan Lau               | アニメーター・作家・監督・ストーリーボードアーティスト    | 2001年\~現在                                                                                     |
-| Jason Sadler           | アニメーター・作家・監督                   | 2001年\~現在                                                                                     |
-| Mark Fiorenza          | 作家                             | 2000年\~2003年                                                                                  |
-| Brad Rau               | アニメーター・ストーリーボードアーティスト          | 2001年\~現在                                                                                     |
-| Roque Bollestros       | 作家・アニメーター・監督・ストーリーボードアーティスト    | 2001年\~現在                                                                                     |
-| Paul Allan             | 作家・アニメーター・ストーリーボードアーティスト       | 2000年\~現在                                                                                     |
-| Nica Lorber            | アニメーター・声優                      | 2000年\~現在                                                                                     |
-| Michael "Lippy" Lipman | ストーリーボードアーティスト・アニメーター・監督・作家・声優 | 2000年\~現在                                                                                     |
-| Peter Herrman          | ストーリーボードアーティスト・声優              | 2000年\~現在                                                                                     |
-| Jim Lively             | 音響・音楽                          | 2000年\~現在                                                                                     |
-| Francis Carr           | アーティスト・声優                      | 2004年\~現在                                                                                     |
-| Jerome Rossen          | 音楽編集                           | 2005年\~現在                                                                                     |
-| John Evershed          | 幹部プロデューサー                      | 2000年\~現在                                                                                     |
-| Liz Stuart             | プロデューサー・声優                     | 2000年\~現在                                                                                     |
+| 名前                     | 役職                             | 役歴                                                                         |
+| ---------------------- | ------------------------------ | -------------------------------------------------------------------------- |
+| Kenn Navarro           | 監督・映像監督・作家・アニメーター・声優           | [1999年](../Page/1999年.md "wikilink")\~現在                                   |
+| Rhode Montijo          | 監督・描画監督・作家・声優                  | 1999年\~[2004年](../Page/2004年.md "wikilink")                                |
+| Aubrey Ankrum          | 監督・作家・ストーリーボードアーティスト・声優        | 1999年\~[2006年](../Page/2006年.md "wikilink")                                |
+| Warren Graff           | ストーリー考案・作家・声優                  | [2000年](../Page/2000年.md "wikilink")\~現在                                   |
+| Ken Pontac             | ストーリー考案・作家・声優                  | 2004年\~現在                                                                  |
+| Ziad Natshe            | アニメーター・ストーリーボードアーティスト          | 2000年\~[2002年](../Page/2002年.md "wikilink")                                |
+| Jeff Biancalana        | 作家・アニメーター・ストーリーボードアーティスト・声優    | [2001年](../Page/2001年.md "wikilink")\~[2005年](../Page/2005年.md "wikilink") |
+| David Winn             | 作家・アニメーター・声優                   | [2003年](../Page/2003年.md "wikilink")\~現在                                   |
+| Alan Lau               | アニメーター・作家・監督・ストーリーボードアーティスト    | 2001年\~現在                                                                  |
+| Jason Sadler           | アニメーター・作家・監督                   | 2001年\~現在                                                                  |
+| Mark Fiorenza          | 作家                             | 2000年\~2003年                                                               |
+| Brad Rau               | アニメーター・ストーリーボードアーティスト          | 2001年\~現在                                                                  |
+| Roque Bollestros       | 作家・アニメーター・監督・ストーリーボードアーティスト    | 2001年\~現在                                                                  |
+| Paul Allan             | 作家・アニメーター・ストーリーボードアーティスト       | 2000年\~現在                                                                  |
+| Nica Lorber            | アニメーター・声優                      | 2000年\~現在                                                                  |
+| Michael "Lippy" Lipman | ストーリーボードアーティスト・アニメーター・監督・作家・声優 | 2000年\~現在                                                                  |
+| Peter Herrman          | ストーリーボードアーティスト・声優              | 2000年\~現在                                                                  |
+| Jim Lively             | 音響・音楽                          | 2000年\~現在                                                                  |
+| Francis Carr           | アーティスト・声優                      | 2004年\~現在                                                                  |
+| Jerome Rossen          | 音楽編集                           | 2005年\~現在                                                                  |
+| John Evershed          | 幹部プロデューサー                      | 2000年\~現在                                                                  |
+| Liz Stuart             | プロデューサー・声優                     | 2000年\~現在                                                                  |
 
 ### 声優
 

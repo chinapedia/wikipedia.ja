@@ -1,7 +1,7 @@
 > この記事は[SHIBUYA BOXX](https://ja.wikipedia.org/wiki/SHIBUYA_BOXX)から翻訳されています。
 
 
-**SHIBUYA BOXX**（しぶやぼっくす）は、[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")にあった[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")。[2002年](../Page/2002年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")から[2012年](../Page/2012年.md "wikilink")[12月31日](../Page/12月31日.md "wikilink")までの10年半にわたって営業していた\[1\]。
+**SHIBUYA BOXX**（しぶやぼっくす）は、[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")にあった[ライブハウス](../Page/ライブハウス.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")から[2012年](../Page/2012年.md "wikilink")[12月31日](../Page/12月31日.md "wikilink")までの10年半にわたって営業していた\[1\]。
 
 ## 概要
 

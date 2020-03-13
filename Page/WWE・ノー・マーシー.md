@@ -30,7 +30,7 @@
 
 <!-- end list -->
 
-  - **グッド・ハウスキーピング・マッチ形式[WWFインターコンチネンタル王座戦](https://ja.wikipedia.org/wiki/WWE・インターコンチネンタル王座 "wikilink") -Good Housekeeping Match for the WWF Intercontinental Championship-**
+  - **グッド・ハウスキーピング・マッチ形式[WWFインターコンチネンタル王座戦](../Page/WWE・インターコンチネンタル王座.md "wikilink") -Good Housekeeping Match for the WWF Intercontinental Championship-**
 
 <!-- end list -->
 
@@ -102,7 +102,7 @@
 
 <!-- end list -->
 
-  - ○[バル・ビーナス](../Page/ショーン・モーリー.md "wikilink")&[スティーブン・リチャーズ](https://ja.wikipedia.org/wiki/マイケル・マナ "wikilink") vs [チャイナ](https://ja.wikipedia.org/wiki/ジョーニー・ローラー "wikilink")&[ミスター・アス](../Page/モンティ・ソップ.md "wikilink")●
+  - ○[バル・ビーナス](../Page/ショーン・モーリー.md "wikilink")&[スティーブン・リチャーズ](../Page/マイケル・マナ.md "wikilink") vs [チャイナ](https://ja.wikipedia.org/wiki/ジョーニー・ローラー "wikilink")&[ミスター・アス](../Page/モンティ・ソップ.md "wikilink")●
 
 <!-- end list -->
 
@@ -176,7 +176,7 @@
 <!-- end list -->
 
   -
-    ○[ハーディー・ボーイズ](../Page/ハーディー・ボーイズ.md "wikilink")（[マット・ハーディー](../Page/マット・ハーディー.md "wikilink")＆[ジェフ・ハーディー](../Page/ジェフ・ハーディー.md "wikilink")）(c)（w / [リタ](../Page/エーミィ・ダーマス.md "wikilink")）（WWF） vs [ランス・ストーム](https://ja.wikipedia.org/wiki/ランス・ストーム "wikilink")＆[ザ・ハリケーン](https://ja.wikipedia.org/wiki/グレゴリー・ヘルムズ "wikilink")（w / [マイティ・モーリー](../Page/ノラ・グリーンウォルド.md "wikilink")＆[アイボリー](https://ja.wikipedia.org/wiki/リサ・モレッティ "wikilink")）（Alliance）●
+    ○[ハーディー・ボーイズ](../Page/ハーディー・ボーイズ.md "wikilink")（[マット・ハーディー](../Page/マット・ハーディー.md "wikilink")＆[ジェフ・ハーディー](../Page/ジェフ・ハーディー.md "wikilink")）(c)（w / [リタ](../Page/エーミィ・ダーマス.md "wikilink")）（WWF） vs [ランス・ストーム](../Page/ランス・ストーム.md "wikilink")＆[ザ・ハリケーン](../Page/グレゴリー・ヘルムズ.md "wikilink")（w / [マイティ・モーリー](../Page/ノラ・グリーンウォルド.md "wikilink")＆[アイボリー](https://ja.wikipedia.org/wiki/リサ・モレッティ "wikilink")）（Alliance）●
 
 <!-- end list -->
 
@@ -193,7 +193,7 @@
 
 <!-- end list -->
 
-  - **[ラダー・マッチ](https://ja.wikipedia.org/wiki/ラダー・マッチ "wikilink")形式[WWFインターコンチネンタル王座戦](https://ja.wikipedia.org/wiki/WWE・インターコンチネンタル王座 "wikilink") -Ladder Match for the WWF Intercontinental Championship-**
+  - **[ラダー・マッチ](https://ja.wikipedia.org/wiki/ラダー・マッチ "wikilink")形式[WWFインターコンチネンタル王座戦](../Page/WWE・インターコンチネンタル王座.md "wikilink") -Ladder Match for the WWF Intercontinental Championship-**
 
 <!-- end list -->
 
@@ -244,7 +244,7 @@
 <!-- end list -->
 
   -
-    ○[ザ・ハリケーン](https://ja.wikipedia.org/wiki/グレゴリー・ヘルムズ "wikilink") vs [スティーブン・リチャーズ](https://ja.wikipedia.org/wiki/マイケル・マナ "wikilink")●
+    ○[ザ・ハリケーン](../Page/グレゴリー・ヘルムズ.md "wikilink") vs [スティーブン・リチャーズ](../Page/マイケル・マナ.md "wikilink")●
 
 <!-- end list -->
 
@@ -274,7 +274,7 @@
 
 <!-- end list -->
 
-  - **[世界ヘビー級王座](https://ja.wikipedia.org/wiki/WWE・世界ヘビー級王座 "wikilink")＆[WWEインターコンチネンタル王座統一戦](https://ja.wikipedia.org/wiki/WWE・インターコンチネンタル王座 "wikilink") -World Heavyweight Championship and WWE Intercontinental Championship Unification Match-**（RAW）
+  - **[世界ヘビー級王座](https://ja.wikipedia.org/wiki/WWE・世界ヘビー級王座 "wikilink")＆[WWEインターコンチネンタル王座統一戦](../Page/WWE・インターコンチネンタル王座.md "wikilink") -World Heavyweight Championship and WWE Intercontinental Championship Unification Match-**（RAW）
 
 <!-- end list -->
 
@@ -403,7 +403,7 @@
 <!-- end list -->
 
   -
-    ○[スパイク・ダッドリー](../Page/マット・ハイソン.md "wikilink")(c)（w / [ババ・レイ・ダッドリー](../Page/マーク・ロモナコ.md "wikilink")＆[ディーボン・ダッドリー](../Page/ディーボン・ヒューズ.md "wikilink")） vs [ナンジオ](https://ja.wikipedia.org/wiki/ジェームズ・マリタート "wikilink")（w / [ジョニー・スタンボリー](../Page/ジョン・ハガー.md "wikilink")）●
+    ○[スパイク・ダッドリー](../Page/マット・ハイソン.md "wikilink")(c)（w / [ババ・レイ・ダッドリー](../Page/マーク・ロモナコ.md "wikilink")＆[ディーボン・ダッドリー](../Page/ディーボン・ヒューズ.md "wikilink")） vs [ナンジオ](../Page/ジェームズ・マリタート.md "wikilink")（w / [ジョニー・スタンボリー](../Page/ジョン・ハガー.md "wikilink")）●
 
 <!-- end list -->
 
@@ -501,7 +501,7 @@
 <!-- end list -->
 
   -
-    ●[ナンジオ](https://ja.wikipedia.org/wiki/ジェームズ・マリタート "wikilink")(c)（w / [ヴィトー](../Page/ヴィトー・ログラッソ.md "wikilink")） vs [フベントゥ](../Page/フベントゥ・ゲレーラ.md "wikilink")（w / [シコシス](https://ja.wikipedia.org/wiki/ディオニシオ・カスティリアノス "wikilink")、[スーパー・クレイジー](https://ja.wikipedia.org/wiki/フランシスコ・イスラス "wikilink")）○
+    ●[ナンジオ](../Page/ジェームズ・マリタート.md "wikilink")(c)（w / [ヴィトー](../Page/ヴィトー・ログラッソ.md "wikilink")） vs [フベントゥ](../Page/フベントゥ・ゲレーラ.md "wikilink")（w / [シコシス](https://ja.wikipedia.org/wiki/ディオニシオ・カスティリアノス "wikilink")、[スーパー・クレイジー](https://ja.wikipedia.org/wiki/フランシスコ・イスラス "wikilink")）○
 
 <!-- end list -->
 
@@ -529,7 +529,7 @@
 
 <!-- end list -->
 
-  - ○[マット・ハーディー](../Page/マット・ハーディー.md "wikilink") vs [グレゴリー・ヘルムズ](https://ja.wikipedia.org/wiki/グレゴリー・ヘルムズ "wikilink")●
+  - ○[マット・ハーディー](../Page/マット・ハーディー.md "wikilink") vs [グレゴリー・ヘルムズ](../Page/グレゴリー・ヘルムズ.md "wikilink")●
 
 <!-- end list -->
 
@@ -538,7 +538,7 @@
 <!-- end list -->
 
   -
-    ○[ポール・ロンドン](../Page/ポール・ロンドン.md "wikilink")＆[ブライアン・ケンドリック](../Page/ブライアン・ケンドリック.md "wikilink")(c)（w / [アシュリー](https://ja.wikipedia.org/wiki/アシュリー・マッサーロ "wikilink")） vs [アイドル・スティーブンス](https://ja.wikipedia.org/wiki/アーロン・スティーブンス "wikilink")＆[K.C.ジェームス](https://ja.wikipedia.org/wiki/カート・セラーズ "wikilink")（w / [ミシェル・マクール](https://ja.wikipedia.org/wiki/ミシェル・マクール "wikilink")）●
+    ○[ポール・ロンドン](../Page/ポール・ロンドン.md "wikilink")＆[ブライアン・ケンドリック](../Page/ブライアン・ケンドリック.md "wikilink")(c)（w / [アシュリー](https://ja.wikipedia.org/wiki/アシュリー・マッサーロ "wikilink")） vs [アイドル・スティーブンス](https://ja.wikipedia.org/wiki/アーロン・スティーブンス "wikilink")＆[K.C.ジェームス](https://ja.wikipedia.org/wiki/カート・セラーズ "wikilink")（w / [ミシェル・マクール](../Page/ミシェル・マクール.md "wikilink")）●
 
 <!-- end list -->
 
@@ -764,7 +764,7 @@
 
 <!-- end list -->
 
-  - **[タイトル](https://ja.wikipedia.org/wiki/WWE・インターコンチネンタル王座 "wikilink") vs [引退戦](../Page/キャリア.md "wikilink") -Title vs. Career match for the WWE Intercontinental Championship-**
+  - **[タイトル](../Page/WWE・インターコンチネンタル王座.md "wikilink") vs [引退戦](../Page/キャリア.md "wikilink") -Title vs. Career match for the WWE Intercontinental Championship-**
 
 <!-- end list -->
 

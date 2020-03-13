@@ -3,7 +3,7 @@
 
 **MIYAVI**（ミヤビ\[1\]、[1981年](../Page/1981年.md "wikilink")\[2\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[俳優](../Page/俳優.md "wikilink")。
 
-日本、[北米](../Page/北アメリカ.md "wikilink")、[南米](../Page/南アメリカ.md "wikilink")、[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")、[アジア](https://ja.wikipedia.org/wiki/アジア "wikilink")、[オーストラリア](../Page/オーストラリア.md "wikilink")など約30か国300公演以上のライブを行い、7度のワールドツアーも行っている\[3\]\[4\]。
+日本、[北米](../Page/北アメリカ.md "wikilink")、[南米](../Page/南アメリカ.md "wikilink")、[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")、[アジア](../Page/アジア.md "wikilink")、[オーストラリア](../Page/オーストラリア.md "wikilink")など約30か国300公演以上のライブを行い、7度のワールドツアーも行っている\[3\]\[4\]。
 
 ## 概要
 
@@ -43,7 +43,7 @@
 
 ## 人物
 
-  - 影響を受けたギタリストとして[スティーヴィー・レイ・ヴォーン](https://ja.wikipedia.org/wiki/スティーヴィー・レイ・ヴォーン "wikilink")、[ロバート・ジョンソン](../Page/ロバート・ジョンソン.md "wikilink")、[サンハウス](../Page/サンハウス.md "wikilink")、[B.B.キング](../Page/B.B.キング.md "wikilink")らを挙げている、ブルースマンが多い。一方では「誰かをコピーしてもしゃあないと思ってたから、ガチでコピーとかしたことないです」「世界にはクラプトンもジミヘンもB.B.キングも、もういるわけですよ。だから俺がやる必要なくて」と2017年3月のインタビューで語っている\[19\]。
+  - 影響を受けたギタリストとして[スティーヴィー・レイ・ヴォーン](../Page/スティーヴィー・レイ・ヴォーン.md "wikilink")、[ロバート・ジョンソン](../Page/ロバート・ジョンソン.md "wikilink")、[サンハウス](../Page/サンハウス.md "wikilink")、[B.B.キング](../Page/B.B.キング.md "wikilink")らを挙げている、ブルースマンが多い。一方では「誰かをコピーしてもしゃあないと思ってたから、ガチでコピーとかしたことないです」「世界にはクラプトンもジミヘンもB.B.キングも、もういるわけですよ。だから俺がやる必要なくて」と2017年3月のインタビューで語っている\[19\]。
   - 自身のファンの事を「Co-miyavi＝仔雅（こみやび）」と呼ぶ。
   - [アンジェリーナ・ジョリー](../Page/アンジェリーナ・ジョリー.md "wikilink")が監督を務めたハリウッド映画『[不屈の男 アンブロークン](https://ja.wikipedia.org/wiki/不屈の男_アンブロークン "wikilink")』に出演したことがきっかけで、その後、アンジェリーナ・ジョリー、[ブラッド・ピット](../Page/ブラッド・ピット.md "wikilink")夫妻とは家族ぐるみの付き合いがある。映画のキャストにMIYAVIが抜擢されたのも元々はジョリーが[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")などを通してMIYAVIのギタープレイを前々から鑑賞しており、ジョリーがMIYAVIの大ファンであったことがきっかけである\[20\]\[21\]。
   - [アンジェリーナ・ジョリー](../Page/アンジェリーナ・ジョリー.md "wikilink")と交流を持ったことがきっかけで、その縁から、ジョリーが特別大使を務めているUNHCR（[国連難民高等弁務官事務所](../Page/国連難民高等弁務官事務所.md "wikilink")）にも参加し、世界の[難民](https://ja.wikipedia.org/wiki/難民 "wikilink")の支援活動なども行っている\[22\]。
@@ -469,7 +469,7 @@
 | 2011年2月9日  | [LIL](https://ja.wikipedia.org/wiki/LIL "wikilink")         | BLACK WALL feat.雅-MIYAVI-                    | Synchronize                                                                           |
 | 2011年8月17日 | [布袋寅泰](../Page/布袋寅泰.md "wikilink")                          | GUITARHYTHM                                  | [ALL TIME SUPER GUEST](https://ja.wikipedia.org/wiki/ALL_TIME_SUPER_GUEST "wikilink") |
 | 2011年9月28日 | [土屋アンナ](https://ja.wikipedia.org/wiki/土屋アンナ "wikilink")     | Master Blaster                               | [UNCHAINED GIRL](https://ja.wikipedia.org/wiki/UNCHAINED_GIRL "wikilink")             |
-| 2012年1月25日 | [野宮真貴](https://ja.wikipedia.org/wiki/野宮真貴 "wikilink")       | スーパースター                                      | \[\[30_〜Greatest_Self_Covers_&_More                                              |
+| 2012年1月25日 | [野宮真貴](../Page/野宮真貴.md "wikilink")                          | スーパースター                                      | \[\[30_〜Greatest_Self_Covers_&_More                                              |
 | 2017年9月6日  | [シェネル](https://ja.wikipedia.org/wiki/シェネル "wikilink")       | Remember My Name feat. MIYAVI                | METAMORPHOSIS                                                                         |
 | 2018年3月21日 | [SKY-HI](https://ja.wikipedia.org/wiki/SKY-HI "wikilink")   | Gemstone                                     | ベストカタリスト -Collaboration Best Album-                                                   |
 | 2018年6月6日  | [hide](https://ja.wikipedia.org/wiki/hide "wikilink")       | [ピンク スパイダー](../Page/ピンク_スパイダー.md "wikilink") | hide TRIBUTE IMPULSE                                                                  |
@@ -484,12 +484,12 @@
 
 ### 楽曲提供
 
-| リリース日      | アーティスト                                                            | タイトル                                                                                    | 収録作品                                                                                                              |
-| ---------- | ----------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| 2013年9月11日 | [山下智久](https://ja.wikipedia.org/wiki/山下智久 "wikilink")             | Stand Alone                                                                             | [A NUDE](https://ja.wikipedia.org/wiki/A_NUDE "wikilink")                                                         |
-| 2014年7月16日 | [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")             | Top Of The World                                                                        | [Top Of The World/Amazing Discovery](https://ja.wikipedia.org/wiki/Top_Of_The_World/Amazing_Discovery "wikilink") |
-| 2015年9月9日  | Otherside                                                         | [Otherside/愛が止まるまでは](https://ja.wikipedia.org/wiki/Otherside/愛が止まるまでは "wikilink")\[27\] |                                                                                                                   |
-| 2018年4月25日 | [Kis-My-Ft2](https://ja.wikipedia.org/wiki/Kis-My-Ft2 "wikilink") | FREEZE                                                                                  | \[\[Yummy                                                                                                         |
+| リリース日      | アーティスト                                                | タイトル                                                                                    | 収録作品                                                                                                              |
+| ---------- | ----------------------------------------------------- | --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| 2013年9月11日 | [山下智久](https://ja.wikipedia.org/wiki/山下智久 "wikilink") | Stand Alone                                                                             | [A NUDE](https://ja.wikipedia.org/wiki/A_NUDE "wikilink")                                                         |
+| 2014年7月16日 | [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink") | Top Of The World                                                                        | [Top Of The World/Amazing Discovery](https://ja.wikipedia.org/wiki/Top_Of_The_World/Amazing_Discovery "wikilink") |
+| 2015年9月9日  | Otherside                                             | [Otherside/愛が止まるまでは](https://ja.wikipedia.org/wiki/Otherside/愛が止まるまでは "wikilink")\[27\] |                                                                                                                   |
+| 2018年4月25日 | [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")        | FREEZE                                                                                  | \[\[Yummy                                                                                                         |
 
   - KREVA
   - 土屋アンナ

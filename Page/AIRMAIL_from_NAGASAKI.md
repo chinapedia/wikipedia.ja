@@ -3,7 +3,7 @@
 
 **AIRMAIL from NAGASAKI**（エアメール・フロム・ナガサキ）は、日本の[音楽グループ](https://ja.wikipedia.org/wiki/音楽グループ "wikilink")。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[サンライズ制作のテレビアニメ](../Page/サンライズ_\(アニメ制作会社\).md "wikilink")『[蒼き流星SPTレイズナー](../Page/蒼き流星SPTレイズナー.md "wikilink")』主題歌でデビュー。元々は4人で活動していたが、デビュー時3人になった。当時、日本武道館で行われた『アニメフェスティバル』に出演した。
 
-バンド名の「Nagasaki」は彼らの出身地である[長崎](../Page/長崎.md "wikilink")から、「AIRMAIL」は「長崎は外国だから」とのこと（[FM横浜の番組で発言](https://ja.wikipedia.org/wiki/横浜エフエム放送 "wikilink")）
+バンド名の「Nagasaki」は彼らの出身地である[長崎](../Page/長崎.md "wikilink")から、「AIRMAIL」は「長崎は外国だから」とのこと（[FM横浜の番組で発言](../Page/横浜エフエム放送.md "wikilink")）
 
 1986年にミニアルバム『DOGEN?』発表後、1年足らずほどで解散。
 

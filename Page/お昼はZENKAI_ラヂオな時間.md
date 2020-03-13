@@ -49,7 +49,7 @@
 ### 過去のパーソナリティ
 
   - [高橋裕](../Page/高橋裕_\(アナウンサー\).md "wikilink")（金曜、番組開始〜2006年9月8日）卒業後[熱血テレビ](../Page/熱血テレビ.md "wikilink")2代目司会者となった
-  - [竹重雅則](../Page/竹重雅則.md "wikilink")(木曜、2009年4月〜2011年3月2日）卒業後[ほっとゾーンおはようKRY](https://ja.wikipedia.org/wiki/ほっとゾーンおはようKRY "wikilink")のメインへ
+  - [竹重雅則](../Page/竹重雅則.md "wikilink")(木曜、2009年4月〜2011年3月2日）卒業後[ほっとゾーンおはようKRY](../Page/ほっとゾーンおはようKRY.md "wikilink")のメインへ
   - [高橋良](https://ja.wikipedia.org/wiki/高橋良 "wikilink")(月曜・水曜、2009年4月〜2011年3月）、卒業後[スクープアップやまぐち](https://ja.wikipedia.org/wiki/スクープアップやまぐち "wikilink")へ
   - [福谷貞夫](../Page/福谷貞夫.md "wikilink")（水曜・木曜→金曜→水曜、番組開始〜2011年7月）
   - [福屋利信](https://ja.wikipedia.org/wiki/福屋利信 "wikilink")（水曜、2011年4月〜2014年3月、現在もコーナー出演している）山口大学教授・博士（文学）

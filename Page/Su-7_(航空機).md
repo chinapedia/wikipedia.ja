@@ -19,13 +19,13 @@
 
 ### 評価
 
-Su-7の長所は超低空における高速力であり、[第四次中東戦争](../Page/第四次中東戦争.md "wikilink")ではある程度の戦果も挙げたが、航続距離の短さと長すぎる滑走距離という欠点があり、また兵器搭載量も不十分であった。さらに、中東戦争では小型で比較的機動性に富む[MiG-17に対し](https://ja.wikipedia.org/wiki/MiG-17_\(航空機\) "wikilink")、大型で鈍重なSu-7BMKはより標的となりやすい機体であると言われた。しかしながら、この欠点は地上目標への攻撃プラットホームとしての観点からすれば安定性に富んだ優れた機体であるという長所となる。
+Su-7の長所は超低空における高速力であり、[第四次中東戦争](../Page/第四次中東戦争.md "wikilink")ではある程度の戦果も挙げたが、航続距離の短さと長すぎる滑走距離という欠点があり、また兵器搭載量も不十分であった。さらに、中東戦争では小型で比較的機動性に富む[MiG-17に対し](../Page/MiG-17_\(航空機\).md "wikilink")、大型で鈍重なSu-7BMKはより標的となりやすい機体であると言われた。しかしながら、この欠点は地上目標への攻撃プラットホームとしての観点からすれば安定性に富んだ優れた機体であるという長所となる。
 
 インド空軍のSu-7Bは、[第三次印パ戦争](../Page/第三次印パ戦争.md "wikilink")で用いられ、30機以上を喪失した。上昇率が低かったせいで対空砲火にさらされたと言われる\[2\]。
 
 ### その後
 
-[1966年](../Page/1966年.md "wikilink")、スホーイ設計局では航続距離と滑走距離の問題の改善のため、Su-7BMの主翼を半[可変翼](https://ja.wikipedia.org/wiki/可変翼 "wikilink")化した**Su-7IK**(S-22I)を開発し、この研究機を踏襲した戦闘爆撃機[Su-17](../Page/Su-17_\(航空機\).md "wikilink")(当初の名称は**Su-7IG**)を開発した。これは新型の[MiG-23/27戦闘爆撃機への国内対抗機として開発が続けられ](https://ja.wikipedia.org/wiki/MiG-27_\(航空機\) "wikilink")、その後それらよりあとの1990年まで生産が続けられた。Su-17シリーズは2005年現在でも[ポーランド](../Page/ポーランド.md "wikilink")、[ペルー](https://ja.wikipedia.org/wiki/ペルー "wikilink")等で多くが使用されている。Su-7シリーズそれ自体は既に退役して久しいが、直系の子孫であるSu-17シリーズを含めれば、この飛行機は初飛行以来50年以上の現役を誇っているとも言えよう。
+[1966年](../Page/1966年.md "wikilink")、スホーイ設計局では航続距離と滑走距離の問題の改善のため、Su-7BMの主翼を半[可変翼](../Page/可変翼.md "wikilink")化した**Su-7IK**(S-22I)を開発し、この研究機を踏襲した戦闘爆撃機[Su-17](../Page/Su-17_\(航空機\).md "wikilink")(当初の名称は**Su-7IG**)を開発した。これは新型の[MiG-23/27戦闘爆撃機への国内対抗機として開発が続けられ](../Page/MiG-27_\(航空機\).md "wikilink")、その後それらよりあとの1990年まで生産が続けられた。Su-17シリーズは2005年現在でも[ポーランド](../Page/ポーランド.md "wikilink")、[ペルー](https://ja.wikipedia.org/wiki/ペルー "wikilink")等で多くが使用されている。Su-7シリーズそれ自体は既に退役して久しいが、直系の子孫であるSu-17シリーズを含めれば、この飛行機は初飛行以来50年以上の現役を誇っているとも言えよう。
 
 ## スペック（Su-7BKL）
 
@@ -74,7 +74,7 @@ Su-7の長所は超低空における高速力であり、[第四次中東戦争
 
   - [アルジェリア](https://ja.wikipedia.org/wiki/アルジェリア空軍 "wikilink")：Su-7BMK/UMK
 
-  - [イラク](https://ja.wikipedia.org/wiki/イラク空軍 "wikilink")：Su-7BMK/UMK
+  - [イラク](../Page/イラク空軍.md "wikilink")：Su-7BMK/UMK
 
 ## 関連項目
 
@@ -86,18 +86,18 @@ Su-7の長所は超低空における高速力であり、[第四次中東戦争
 
 ソ連・ロシアの小型・中型爆撃機
 
-  - [MiG-17](https://ja.wikipedia.org/wiki/MiG-17_\(航空機\) "wikilink")
+  - [MiG-17](../Page/MiG-17_\(航空機\).md "wikilink")
   - [MiG-21](../Page/MiG-21_\(航空機\).md "wikilink")
   - [MiG-23](../Page/MiG-23_\(航空機\).md "wikilink")
   - [MiG-25BM](../Page/MiG-25_\(航空機\).md "wikilink")
-  - [MiG-27](https://ja.wikipedia.org/wiki/MiG-27_\(航空機\) "wikilink")
+  - [MiG-27](../Page/MiG-27_\(航空機\).md "wikilink")
   - [MiG-29SMT/BM](../Page/MiG-29_\(航空機\).md "wikilink")
-  - [MiG-31BM](https://ja.wikipedia.org/wiki/MiG-31_\(航空機\) "wikilink")
+  - [MiG-31BM](../Page/MiG-31_\(航空機\).md "wikilink")
   - [Yak-28I](https://ja.wikipedia.org/wiki/Yak-28_\(航空機\) "wikilink")
 
 同時代の[攻撃機](../Page/攻撃機.md "wikilink")・戦闘爆撃機
 
-  - [A-7コルセアII](https://ja.wikipedia.org/wiki/A-7_\(航空機\) "wikilink")
+  - [A-7コルセアII](../Page/A-7_\(航空機\).md "wikilink")
   - [F-4ファントムII](../Page/F-4_\(戦闘機\).md "wikilink")
   - [F-105サンダーチーフ](../Page/F-105_\(戦闘機\).md "wikilink")
   - [ホーカー ハンター](../Page/ホーカー_ハンター.md "wikilink")

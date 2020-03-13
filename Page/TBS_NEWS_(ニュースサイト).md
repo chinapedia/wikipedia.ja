@@ -17,11 +17,11 @@
 
 [TBSは](../Page/TBSテレビ.md "wikilink")「TBS News i」として公開しているように、原則としてJNN系列の各放送局は自社ウェブサイトの一つとして公開している。配信内容は同一で、TBSが配信している。なお、JNN系列局では「News i」とは別にローカル（地域）ニュースを配信しているが、配信形態は局によって異なっている。
 
-TBSが取材した関東ローカルニュースも配信されている。TBS独自企画は[金平茂紀](https://ja.wikipedia.org/wiki/金平茂紀 "wikilink")や[伊藤洋一](https://ja.wikipedia.org/wiki/伊藤洋一 "wikilink")らによるコラムコーナーがある（原則として閲覧できるのは連載中のもの、既記2者は連載終了）。
+TBSが取材した関東ローカルニュースも配信されている。TBS独自企画は[金平茂紀](https://ja.wikipedia.org/wiki/金平茂紀 "wikilink")や[伊藤洋一](../Page/伊藤洋一.md "wikilink")らによるコラムコーナーがある（原則として閲覧できるのは連載中のもの、既記2者は連載終了）。
 
 ## 動画配信
 
-  - [FLV](../Page/Flash_Video.md "wikilink")、[WMV高画質](https://ja.wikipedia.org/wiki/Windows_Media_Video "wikilink")（291kbps）、WMV低画質（56kbps）の3形式で配信している。
+  - [FLV](../Page/Flash_Video.md "wikilink")、[WMV高画質](../Page/Windows_Media_Video.md "wikilink")（291kbps）、WMV低画質（56kbps）の3形式で配信している。
   - [Yahoo\!ニュース](https://ja.wikipedia.org/wiki/Yahoo!ニュース "wikilink")、[MSN](../Page/MSN.md "wikilink")ビデオなどでも見ることができる。また、[2009年](../Page/2009年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")より[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")での配信を開始した\[1\]。Youtubeでの配信は2015年10月21日をもって終了した。
 
 ## 脚注

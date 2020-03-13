@@ -13,7 +13,7 @@
 
 女子プロ界に革命を起こすと宣言し、各団体所属・フリーの選手問わずいろいろな選手と闘った。
 
-試合中の首の怪我を理由に、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")7月15日に引退。K-DOJO初期に参戦していた、[Ryoko](https://ja.wikipedia.org/wiki/Ryoko "wikilink")と同一人物であるという説もあるが、真相は不明である 。
+試合中の首の怪我を理由に、[2005年](../Page/2005年.md "wikilink")7月15日に引退。K-DOJO初期に参戦していた、[Ryoko](https://ja.wikipedia.org/wiki/Ryoko "wikilink")と同一人物であるという説もあるが、真相は不明である 。
 
 現在は、地元・宮古市にて両親が経営している魚菜市場の「岩船商店」に勤務\[1\]している。
 

@@ -88,7 +88,7 @@ SICC-216:winter edition</p></td>
 <td><p>オリコン最高235位</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/2月2日.md" title="wikilink">2月2日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/2月2日.md" title="wikilink">2月2日</a></p></td>
 <td><p>image essentielle</p></td>
 <td><p>SICC-218</p></td>
 <td></td>

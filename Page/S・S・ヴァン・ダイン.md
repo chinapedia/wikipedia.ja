@@ -28,14 +28,14 @@
       - 『ベンスン殺人事件』 [日暮雅通](https://ja.wikipedia.org/wiki/日暮雅通 "wikilink")訳 創元推理文庫 2013年
   - The Canary Murder Case'', 1927
       - 『カナリヤ殺人事件』 平林初之輔訳 [平凡社](../Page/平凡社.md "wikilink") （世界探偵小説全集19） 1930年
-      - 『カナリヤ殺人事件』 [瀬沼茂樹](../Page/瀬沼茂樹.md "wikilink")訳 新樹社 1950年 のち[角川文庫](https://ja.wikipedia.org/wiki/角川文庫 "wikilink")
+      - 『カナリヤ殺人事件』 [瀬沼茂樹](../Page/瀬沼茂樹.md "wikilink")訳 新樹社 1950年 のち[角川文庫](../Page/角川文庫.md "wikilink")
       - 『カナリヤ殺人事件』 井上勇訳 [東京創元社](../Page/東京創元社.md "wikilink") 1957年 のち文庫
       - 『カナリア殺人事件』 日暮雅通訳 創元推理文庫 2018年
   - The Greene Murder Case, 1928
       - 『グリイン家の惨劇』 平林初之輔訳 [博文館](../Page/博文館.md "wikilink") （世界探偵小説全集24） 1929年 のち 博文館文庫 （グリイン家惨殺事件） 1939年
-      - 『[グリーン家殺人事件](https://ja.wikipedia.org/wiki/グリーン家殺人事件 "wikilink")』 [延原謙](https://ja.wikipedia.org/wiki/延原謙 "wikilink")訳 新樹社 1950年 のち[新潮文庫](../Page/新潮文庫.md "wikilink")
+      - 『[グリーン家殺人事件](https://ja.wikipedia.org/wiki/グリーン家殺人事件 "wikilink")』 [延原謙](../Page/延原謙.md "wikilink")訳 新樹社 1950年 のち[新潮文庫](../Page/新潮文庫.md "wikilink")
       - 『グリーン家殺人事件』 井上勇訳 創元推理文庫 1959年
-      - 『グリーン家殺人事件』 [坂下昇](../Page/坂下昇.md "wikilink")訳 [講談社文庫](https://ja.wikipedia.org/wiki/講談社文庫 "wikilink") 1975年
+      - 『グリーン家殺人事件』 [坂下昇](../Page/坂下昇.md "wikilink")訳 [講談社文庫](../Page/講談社文庫.md "wikilink") 1975年
   - The Bishop Murder Case, 1929
       - 『[僧正殺人事件](../Page/僧正殺人事件.md "wikilink")』 武田晃訳 新樹社 1950年
       - 『僧正殺人事件』 井上勇訳 東京創元社 1956年 のち文庫
@@ -49,7 +49,7 @@
       - 『カブト虫殺人事件』 井上勇訳 東京創元社 1959年 のち文庫
       - 『甲虫殺人事件』 [能島武文](https://ja.wikipedia.org/wiki/能島武文 "wikilink")訳 新潮文庫 1960年 （本訳書は甲虫を「こうちゅう」と読ませる）
   - The Kennel Murder Case, 1931
-      - 『ケンネル殺人事件』 [延原謙](https://ja.wikipedia.org/wiki/延原謙 "wikilink")訳 [早川書房](../Page/早川書房.md "wikilink") 1954年
+      - 『ケンネル殺人事件』 [延原謙](../Page/延原謙.md "wikilink")訳 [早川書房](../Page/早川書房.md "wikilink") 1954年
       - 『ケンネル殺人事件』 井上勇訳 東京創元社 1958年 のち文庫
   - The Dragon Murder Case, 1933
       - 『ドラゴン殺人事件』 杉公平訳 芸術社 1956年

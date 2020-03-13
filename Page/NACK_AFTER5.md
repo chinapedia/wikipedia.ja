@@ -7,7 +7,7 @@
 
 ## 放送時間
 
-  - [2004年](../Page/2004年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink") - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink") 17:00-20:25
+  - [2004年](../Page/2004年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink") - [2005年](../Page/2005年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink") 17:00-20:25
   - 2005年[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - [2011年](../Page/2011年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink") 17:00-20:00
 
 ## パーソナリティ

@@ -5,7 +5,7 @@
 
 ## 概要
 
-原作は、[大衆文学](https://ja.wikipedia.org/wiki/大衆文学 "wikilink")の重鎮である[大佛次郎](../Page/大佛次郎.md "wikilink")の大作『[赤穂浪士](https://ja.wikipedia.org/wiki/赤穂浪士_\(小説\) "wikilink")』。主役の[大石内蔵助に大映の看板俳優で後に](https://ja.wikipedia.org/wiki/大石良雄 "wikilink")[国民栄誉賞](../Page/国民栄誉賞.md "wikilink")を受賞する[長谷川一夫](../Page/長谷川一夫.md "wikilink")を担ぎ出し、[歌舞伎](../Page/歌舞伎.md "wikilink")界や新劇界の大物、歌謡界の人気[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")までも起用し、前作『[花の生涯](../Page/花の生涯_\(NHK大河ドラマ\).md "wikilink")』を上回る豪華キャストの競演で話題を集めた\[1\]\[2\]。赤穂四十七士たちの討ち入りを決意するまでの苦悩や葛藤、彼らに関わる人々の思惑などを1年間かけてじっくりと描き\[3\]、また討入り後も切腹までを4回にわたって放送した\[4\]。その結果[視聴率](../Page/視聴率.md "wikilink")は優に30%を超え、浪士の討入りが放送された回には視聴率53.0%という大河ドラマ史上最高視聴率記録をも打ち立てた\[5\]。この記録は2019年現在まで未だに破られていない。ただし、この当時は大河ドラマはまだ日曜午後8時からの放送ではなかった（当時、日曜午後8時枠はコメディドラマの『[若い季節](../Page/若い季節_\(テレビドラマ\).md "wikilink")』であった）。全話の平均視聴率は31.9%で歴代4位（2019年現在）。
+原作は、[大衆文学](https://ja.wikipedia.org/wiki/大衆文学 "wikilink")の重鎮である[大佛次郎](../Page/大佛次郎.md "wikilink")の大作『[赤穂浪士](https://ja.wikipedia.org/wiki/赤穂浪士_\(小説\) "wikilink")』。主役の[大石内蔵助に大映の看板俳優で後に](../Page/大石良雄.md "wikilink")[国民栄誉賞](../Page/国民栄誉賞.md "wikilink")を受賞する[長谷川一夫](../Page/長谷川一夫.md "wikilink")を担ぎ出し、[歌舞伎](../Page/歌舞伎.md "wikilink")界や新劇界の大物、歌謡界の人気[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")までも起用し、前作『[花の生涯](../Page/花の生涯_\(NHK大河ドラマ\).md "wikilink")』を上回る豪華キャストの競演で話題を集めた\[1\]\[2\]。赤穂四十七士たちの討ち入りを決意するまでの苦悩や葛藤、彼らに関わる人々の思惑などを1年間かけてじっくりと描き\[3\]、また討入り後も切腹までを4回にわたって放送した\[4\]。その結果[視聴率](../Page/視聴率.md "wikilink")は優に30%を超え、浪士の討入りが放送された回には視聴率53.0%という大河ドラマ史上最高視聴率記録をも打ち立てた\[5\]。この記録は2019年現在まで未だに破られていない。ただし、この当時は大河ドラマはまだ日曜午後8時からの放送ではなかった（当時、日曜午後8時枠はコメディドラマの『[若い季節](../Page/若い季節_\(テレビドラマ\).md "wikilink")』であった）。全話の平均視聴率は31.9%で歴代4位（2019年現在）。
 
 大河ドラマの名称は、この『赤穂浪士』放送中に、読売新聞が外国の大河小説に倣って、前作『花の生涯』で井伊直弼、今作『赤穂浪士』で大石内蔵助の生涯を描くことから、「大河ドラマ」と呼称したことに由来する\[6\]\[7\]。
 
@@ -21,14 +21,14 @@
 
 ### 大石・浅野家
 
-  - [大石内蔵助](https://ja.wikipedia.org/wiki/大石良雄 "wikilink")：**[長谷川一夫](../Page/長谷川一夫.md "wikilink")**
-  - [りく](../Page/香林院.md "wikilink")：[山田五十鈴](https://ja.wikipedia.org/wiki/山田五十鈴 "wikilink")
-  - [大石主税](https://ja.wikipedia.org/wiki/大石良金 "wikilink")：**[中村賀津雄](../Page/中村嘉葎雄.md "wikilink")**（現・中村嘉葎雄）
+  - [大石内蔵助](../Page/大石良雄.md "wikilink")：**[長谷川一夫](../Page/長谷川一夫.md "wikilink")**
+  - [りく](../Page/香林院.md "wikilink")：[山田五十鈴](../Page/山田五十鈴.md "wikilink")
+  - [大石主税](../Page/大石良金.md "wikilink")：**[中村賀津雄](../Page/中村嘉葎雄.md "wikilink")**（現・中村嘉葎雄）
   - [大石吉千代](../Page/大石吉之進.md "wikilink")：[市川銀之助](../Page/市川團蔵_\(9代目\).md "wikilink")（現・市川團蔵）
   - [八助](https://ja.wikipedia.org/wiki/八助 "wikilink")：[片岡半蔵](https://ja.wikipedia.org/wiki/片岡半蔵_\(3代目\) "wikilink")
   - [浅野内匠頭](../Page/浅野長矩.md "wikilink")：[尾上梅幸](../Page/尾上梅幸_\(7代目\).md "wikilink")
-  - [あぐり](../Page/瑤泉院.md "wikilink")：[岸田今日子](https://ja.wikipedia.org/wiki/岸田今日子 "wikilink")
-  - [浅野大学](https://ja.wikipedia.org/wiki/浅野長広 "wikilink")：[城所英夫](https://ja.wikipedia.org/wiki/城所英夫 "wikilink")
+  - [あぐり](../Page/瑤泉院.md "wikilink")：[岸田今日子](../Page/岸田今日子.md "wikilink")
+  - [浅野大学](../Page/浅野長広.md "wikilink")：[城所英夫](https://ja.wikipedia.org/wiki/城所英夫 "wikilink")
   - [大石無人](https://ja.wikipedia.org/wiki/大石無人 "wikilink")：**[河津清三郎](../Page/河津清三郎.md "wikilink")**
   - 大石三平（無人の子）：**[花柳喜章](https://ja.wikipedia.org/wiki/花柳喜章 "wikilink")**
   - 鎌髭奴（無人の郎党）：**[奈良重徳](https://ja.wikipedia.org/wiki/奈良重徳 "wikilink")**、**[森章二](../Page/森章二.md "wikilink")**、**[桂広行](https://ja.wikipedia.org/wiki/桂広行 "wikilink")**
@@ -36,30 +36,30 @@
 ### 赤穂四十七士
 
   - [小野寺十内](../Page/小野寺秀和.md "wikilink")：**[志村喬](../Page/志村喬.md "wikilink")**
-  - [堀部弥兵衛](https://ja.wikipedia.org/wiki/堀部金丸 "wikilink")：**[中村芝鶴](https://ja.wikipedia.org/wiki/中村芝鶴_\(2代目\) "wikilink")**
-  - [片岡源五右衛門](https://ja.wikipedia.org/wiki/片岡高房 "wikilink")：**[中村又五郎](https://ja.wikipedia.org/wiki/中村又五郎_\(2代目\) "wikilink")**
-  - [不破数右衛門](https://ja.wikipedia.org/wiki/不破正種 "wikilink")：**[黒川弥太郎](../Page/黒川弥太郎.md "wikilink")**
+  - [堀部弥兵衛](../Page/堀部金丸.md "wikilink")：**[中村芝鶴](https://ja.wikipedia.org/wiki/中村芝鶴_\(2代目\) "wikilink")**
+  - [片岡源五右衛門](../Page/片岡高房.md "wikilink")：**[中村又五郎](https://ja.wikipedia.org/wiki/中村又五郎_\(2代目\) "wikilink")**
+  - [不破数右衛門](../Page/不破正種.md "wikilink")：**[黒川弥太郎](../Page/黒川弥太郎.md "wikilink")**
   - [原惣右衛門](../Page/原元辰.md "wikilink")：**[中村福助](../Page/中村福助_\(高砂屋5代目\).md "wikilink")**（[中村芝翫とは別人](../Page/中村芝翫_\(7代目\).md "wikilink")）
   - [前原伊助](../Page/前原宗房.md "wikilink")：**[林成年](https://ja.wikipedia.org/wiki/林成年 "wikilink")**
   - [奥田孫太夫](../Page/奥田重盛.md "wikilink")：**[下元勉](../Page/下元勉.md "wikilink")**
-  - [礒貝十郎左衛門](https://ja.wikipedia.org/wiki/礒貝正久 "wikilink")：**[井上孝雄](../Page/井上孝雄.md "wikilink")**
+  - [礒貝十郎左衛門](../Page/礒貝正久.md "wikilink")：**[井上孝雄](../Page/井上孝雄.md "wikilink")**
   - [堀部安兵衛](../Page/堀部武庸.md "wikilink")：**[加藤武](../Page/加藤武.md "wikilink")**
-  - [吉田忠左衛門](https://ja.wikipedia.org/wiki/吉田兼亮 "wikilink")：**[巌金四郎](https://ja.wikipedia.org/wiki/巌金四郎 "wikilink")**
+  - [吉田忠左衛門](../Page/吉田兼亮.md "wikilink")：**[巌金四郎](https://ja.wikipedia.org/wiki/巌金四郎 "wikilink")**
   - [矢頭右衛門七](../Page/矢頭教兼.md "wikilink")：**[舟木一夫](../Page/舟木一夫.md "wikilink")**
-  - [赤埴源蔵](https://ja.wikipedia.org/wiki/赤埴重賢 "wikilink")：**[舟橋元](../Page/舟橋元.md "wikilink")**
+  - [赤埴源蔵](../Page/赤埴重賢.md "wikilink")：**[舟橋元](../Page/舟橋元.md "wikilink")**
   - [村松喜兵衛](../Page/村松秀直.md "wikilink")：**[宮本曠二朗](https://ja.wikipedia.org/wiki/宮本曠二朗 "wikilink")**
   - [富森助右衛門](../Page/富森正因.md "wikilink")：**[金田竜之介](../Page/金田龍之介.md "wikilink")**
-  - [武林唯七](https://ja.wikipedia.org/wiki/武林隆重 "wikilink")：**[戸浦六宏](../Page/戸浦六宏.md "wikilink")**
+  - [武林唯七](../Page/武林隆重.md "wikilink")：**[戸浦六宏](../Page/戸浦六宏.md "wikilink")**
   - [神崎与五郎](../Page/神崎則休.md "wikilink")：**[鈴木瑞穂](../Page/鈴木瑞穂.md "wikilink")**
   - [横川勘平](../Page/横川宗利.md "wikilink")：**[大山克巳](../Page/大山克巳.md "wikilink")**
   - [間喜兵衛](../Page/間光延.md "wikilink")：**[高橋正夫](https://ja.wikipedia.org/wiki/高橋正夫 "wikilink")**
   - [貝賀弥左衛門](../Page/貝賀友信.md "wikilink")：**[幸田宗丸](../Page/幸田宗丸.md "wikilink")**
   - [潮田又之丞](../Page/潮田高教.md "wikilink")：**[渥美国泰](../Page/渥美国泰.md "wikilink")**
   - [木村岡右衛門](../Page/木村貞行.md "wikilink")：**[内田稔](../Page/内田稔.md "wikilink")**
-  - [茅野和助](../Page/茅野常成.md "wikilink")：**[田口計](https://ja.wikipedia.org/wiki/田口計 "wikilink")**
+  - [茅野和助](../Page/茅野常成.md "wikilink")：**[田口計](../Page/田口計.md "wikilink")**
   - [岡嶋八十右衛門](../Page/岡島常樹.md "wikilink")：**[松本朝夫](https://ja.wikipedia.org/wiki/松本朝生 "wikilink")**
   - [岡野金右衛門](../Page/岡野包秀.md "wikilink")：**[中村豊](../Page/猿若清三郎.md "wikilink")**（現・猿若清三郎）
-  - [大高源五](https://ja.wikipedia.org/wiki/大高忠雄 "wikilink")：**[外山高士](../Page/外山高士.md "wikilink")**
+  - [大高源五](../Page/大高忠雄.md "wikilink")：**[外山高士](../Page/外山高士.md "wikilink")**
   - [杉野十平次](../Page/杉野次房.md "wikilink")：**[伊達正三郎](../Page/伊達正三郎.md "wikilink")**
   - [吉田沢右衛門](https://ja.wikipedia.org/wiki/吉田兼貞 "wikilink")：**[小沢慶太郎](https://ja.wikipedia.org/wiki/小沢慶太郎 "wikilink")**
   - [三村次郎左衛門](https://ja.wikipedia.org/wiki/三村包常 "wikilink")：**[生井健夫](https://ja.wikipedia.org/wiki/生井健夫 "wikilink")**
@@ -84,12 +84,12 @@
 ### その他の赤穂藩士・四十七士の縁者
 
   - [高田郡兵衛](https://ja.wikipedia.org/wiki/高田郡兵衛 "wikilink")：[田村高廣](../Page/田村高廣.md "wikilink")
-  - [大野九郎兵衛](https://ja.wikipedia.org/wiki/大野知房 "wikilink")：[菅井一郎](https://ja.wikipedia.org/wiki/菅井一郎 "wikilink")
+  - [大野九郎兵衛](../Page/大野知房.md "wikilink")：[菅井一郎](https://ja.wikipedia.org/wiki/菅井一郎 "wikilink")
   - [大野郡右衛門](https://ja.wikipedia.org/wiki/大野群右衛門 "wikilink")：[奥野匡](https://ja.wikipedia.org/wiki/奥野匡 "wikilink")
   - [藤井又左衛門](https://ja.wikipedia.org/wiki/藤井宗茂 "wikilink")：[近藤準](https://ja.wikipedia.org/wiki/近藤準 "wikilink")
   - [安井彦右衛門](https://ja.wikipedia.org/wiki/安井彦右衛門 "wikilink")：[増田順司](../Page/増田順司.md "wikilink")
   - [落合与左衛門](https://ja.wikipedia.org/wiki/落合勝信 "wikilink")：[山田清](https://ja.wikipedia.org/wiki/山田清_\(俳優\) "wikilink")
-  - [奥野将監](https://ja.wikipedia.org/wiki/奥野定良 "wikilink")：[大町文夫](https://ja.wikipedia.org/wiki/大町文夫 "wikilink")
+  - [奥野将監](../Page/奥野定良.md "wikilink")：[大町文夫](https://ja.wikipedia.org/wiki/大町文夫 "wikilink")
   - [進藤源四郎](../Page/進藤俊式.md "wikilink")：[須藤健](https://ja.wikipedia.org/wiki/須藤健 "wikilink")
   - [小山源五右衛門](https://ja.wikipedia.org/wiki/小山良師 "wikilink")：[須永康夫](https://ja.wikipedia.org/wiki/須永康夫 "wikilink")
   - [毛利小平太](../Page/毛利小平太.md "wikilink")：**[安井昌二](../Page/安井昌二.md "wikilink")**
@@ -101,7 +101,7 @@
   - [萩原兵助](https://ja.wikipedia.org/wiki/萩原兵助 "wikilink")：[松下達夫](https://ja.wikipedia.org/wiki/松下達夫 "wikilink")
   - 内藤万右衛門：[冨田浩太郎](../Page/富田浩太郎.md "wikilink")
   - [矢頭長助](https://ja.wikipedia.org/wiki/矢頭長助 "wikilink")：[長浜藤夫](https://ja.wikipedia.org/wiki/長浜藤夫 "wikilink")
-  - [萱野三平](https://ja.wikipedia.org/wiki/萱野重実 "wikilink")：[清川新吾](https://ja.wikipedia.org/wiki/清川新吾 "wikilink")
+  - [萱野三平](../Page/萱野重実.md "wikilink")：[清川新吾](https://ja.wikipedia.org/wiki/清川新吾 "wikilink")
   - [萱野七郎左衛門](../Page/萱野重利.md "wikilink")：[河村弘二](https://ja.wikipedia.org/wiki/河村弘二 "wikilink")
   - [橋本平左衛門](https://ja.wikipedia.org/wiki/橋本平左衛門 "wikilink")：[坂東吉弥](https://ja.wikipedia.org/wiki/坂東吉弥_\(2代目\) "wikilink")
   - 遠藤弥五左衛門：**[島宇志夫](../Page/島宇志夫.md "wikilink")**
@@ -113,7 +113,7 @@
 
 ### 吉良・上杉家
 
-  - [吉良上野介](../Page/吉良義央.md "wikilink")：**[滝沢修](https://ja.wikipedia.org/wiki/滝沢修 "wikilink")**
+  - [吉良上野介](../Page/吉良義央.md "wikilink")：**[滝沢修](../Page/滝沢修.md "wikilink")**
   - [吉良義周](../Page/吉良義周.md "wikilink")：**[山岸勝](https://ja.wikipedia.org/wiki/山岸勝 "wikilink")**
   - [小林平七](../Page/小林平八郎.md "wikilink")：**[芦田伸介](../Page/芦田伸介.md "wikilink")**
   - [清水一学](../Page/清水一学.md "wikilink")：**[内藤武敏](../Page/内藤武敏.md "wikilink")**
@@ -136,11 +136,11 @@
   - [徳川綱吉](../Page/徳川綱吉.md "wikilink")：[守田勘弥](https://ja.wikipedia.org/wiki/守田勘彌_\(14代目\) "wikilink")
   - [柳沢出羽守](../Page/柳沢吉保.md "wikilink")：[坂東三津五郎](../Page/坂東三津五郎_\(8代目\).md "wikilink")
   - [細川越中守](../Page/細川綱利.md "wikilink")：[嵐寛寿郎](../Page/嵐寛寿郎.md "wikilink")
-  - [堀内伝右衛門](https://ja.wikipedia.org/wiki/堀内伝右衛門 "wikilink")：[大友柳太朗](https://ja.wikipedia.org/wiki/大友柳太朗 "wikilink")
-  - [土屋相模守](https://ja.wikipedia.org/wiki/土屋政直 "wikilink")：[坂東蓑助](../Page/坂東三津五郎_\(9代目\).md "wikilink")
+  - [堀内伝右衛門](https://ja.wikipedia.org/wiki/堀内伝右衛門 "wikilink")：[大友柳太朗](../Page/大友柳太朗.md "wikilink")
+  - [土屋相模守](../Page/土屋政直.md "wikilink")：[坂東蓑助](../Page/坂東三津五郎_\(9代目\).md "wikilink")
   - [脇坂淡路守](../Page/脇坂安照.md "wikilink")：[久米明](../Page/久米明.md "wikilink")
-  - [阿部豊後守](https://ja.wikipedia.org/wiki/阿部正武 "wikilink")：[市村羽左衛門](../Page/市村羽左衛門_\(17代目\).md "wikilink")
-  - [稲葉正通](https://ja.wikipedia.org/wiki/稲葉正往 "wikilink")：[尾上九朗右衛門](https://ja.wikipedia.org/wiki/尾上九朗右衛門_\(2代目\) "wikilink")
+  - [阿部豊後守](../Page/阿部正武.md "wikilink")：[市村羽左衛門](../Page/市村羽左衛門_\(17代目\).md "wikilink")
+  - [稲葉正通](../Page/稲葉正往.md "wikilink")：[尾上九朗右衛門](https://ja.wikipedia.org/wiki/尾上九朗右衛門_\(2代目\) "wikilink")
   - [伊達左京亮](../Page/伊達村豊.md "wikilink")：[市村家橘](https://ja.wikipedia.org/wiki/市村吉五郎_\(2代目\) "wikilink")（現・市村吉五郎）
   - [仙石伯耆守](../Page/仙石久尚.md "wikilink")：[清水将夫](../Page/清水将夫.md "wikilink")
   - [荒木十左衛門](../Page/荒木政羽.md "wikilink")：[信欣三](../Page/信欣三.md "wikilink")
@@ -157,7 +157,7 @@
   - 相沢新兵衛（吉保の間者）：**[西村晃](../Page/西村晃.md "wikilink")**
   - 目玉の金助（千坂の間者）：[穂積隆信](../Page/穂積隆信.md "wikilink")
   - 丸岡朴庵（犬の医師）：[伴淳三郎](../Page/伴淳三郎.md "wikilink")
-  - お千賀（朴庵の妾）：[瑳峨三智子](https://ja.wikipedia.org/wiki/瑳峨三智子 "wikilink")
+  - お千賀（朴庵の妾）：[瑳峨三智子](../Page/瑳峨三智子.md "wikilink")
   - 春山権之丞：[杉浦宏策](https://ja.wikipedia.org/wiki/杉浦宏策 "wikilink")
   - 浮橋太夫：[越路吹雪](../Page/越路吹雪.md "wikilink")
   - [新井白石](../Page/新井白石.md "wikilink")：[尾上松緑](../Page/尾上松緑_\(2代目\).md "wikilink")

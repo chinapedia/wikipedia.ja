@@ -27,7 +27,7 @@
 <td><p>第1回<br />
 （<a href="../Page/2000年.md" title="wikilink">2000年</a>）</p></td>
 <td><p>大賞</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ポストガール" title="wikilink">ポストガール</a></p></td>
+<td><p><a href="../Page/ポストガール.md" title="wikilink">ポストガール</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/増子二郎" title="wikilink">増子二郎</a></p></td>
 </tr>
 <tr class="even">
@@ -73,7 +73,7 @@
 </tr>
 <tr class="even">
 <td><p>第6回<br />
-（<a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a>）</p></td>
+（<a href="../Page/2005年.md" title="wikilink">2005年</a>）</p></td>
 <td><p>金賞</p></td>
 <td><p>ネズミのかぞく[4]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/有澤翔" title="wikilink">有澤翔</a></p></td>

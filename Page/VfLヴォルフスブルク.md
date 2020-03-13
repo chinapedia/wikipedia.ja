@@ -9,25 +9,25 @@
 
 ### 初のリーグ優勝
 
-[220px](https://ja.wikipedia.org/wiki/ファイル:Vflwolfsburg_tabellenspitze.jpg "wikilink") 2005-06シーズンからの2年間は残留争いに巻き込まれる不本意な成績が続いていたが、2007-08シーズンから[シュトゥットガルトや](https://ja.wikipedia.org/wiki/VfBシュトゥットガルト "wikilink")[バイエルン・ミュンヘンを率いた](https://ja.wikipedia.org/wiki/FCバイエルン・ミュンヘン "wikilink")[フェリックス・マガト](https://ja.wikipedia.org/wiki/フェリックス・マガト "wikilink")が監督に就任。前半戦こそ30得点30失点の11位と不安定な成績で終えたものの、冬の補強で[CDナシオナル](../Page/CDナシオナル.md "wikilink")からGKの[ディエゴ・ベナリオ](https://ja.wikipedia.org/wiki/ディエゴ・ベナリオ "wikilink")を、[浦和レッドダイヤモンズ](https://ja.wikipedia.org/wiki/浦和レッドダイヤモンズ "wikilink")からMFの[長谷部誠](../Page/長谷部誠.md "wikilink")らを獲得しDF組織のテコ入れを図る。この補強が功を奏して後半戦は28得点16失点と安定した戦いを見せ、クラブ史上最高の5位でシーズンを終了。2008-09シーズンのUEFAカップ出場権を獲得した。
+[220px](https://ja.wikipedia.org/wiki/ファイル:Vflwolfsburg_tabellenspitze.jpg "wikilink") 2005-06シーズンからの2年間は残留争いに巻き込まれる不本意な成績が続いていたが、2007-08シーズンから[シュトゥットガルトや](https://ja.wikipedia.org/wiki/VfBシュトゥットガルト "wikilink")[バイエルン・ミュンヘンを率いた](https://ja.wikipedia.org/wiki/FCバイエルン・ミュンヘン "wikilink")[フェリックス・マガト](../Page/フェリックス・マガト.md "wikilink")が監督に就任。前半戦こそ30得点30失点の11位と不安定な成績で終えたものの、冬の補強で[CDナシオナル](../Page/CDナシオナル.md "wikilink")からGKの[ディエゴ・ベナリオ](https://ja.wikipedia.org/wiki/ディエゴ・ベナリオ "wikilink")を、[浦和レッドダイヤモンズ](https://ja.wikipedia.org/wiki/浦和レッドダイヤモンズ "wikilink")からMFの[長谷部誠](../Page/長谷部誠.md "wikilink")らを獲得しDF組織のテコ入れを図る。この補強が功を奏して後半戦は28得点16失点と安定した戦いを見せ、クラブ史上最高の5位でシーズンを終了。2008-09シーズンのUEFAカップ出場権を獲得した。
 
 2008-09シーズンは序盤戦こそ成績が安定しなかったものの、[グラフィッチや](../Page/エジナウド・バチスタ・リバノ.md "wikilink")[エディン・ジェコ](https://ja.wikipedia.org/wiki/エディン・ジェコ "wikilink")の大ブレイクなどもあり、徐々に順位を上げていった。[2009年](../Page/2009年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")の[バイエルン・ミュンヘン戦に圧勝して首位に立つと](https://ja.wikipedia.org/wiki/FCバイエルン・ミュンヘン "wikilink")、最終節まで勢いは衰えず、クラブ史上初のリーグ優勝（はもとより、カップ戦を含めドイツの主要国内大会初優勝）を果たした。グラフィッチは28得点で得点王、ジェコは26得点でグラフィッチに次ぐ得点ランク2位となるなど、攻撃力の高さが目立った。なお、同一チームから20得点以上の選手が2人出るのはブンデスリーガ史上初である。また、長谷部誠と[大久保嘉人](../Page/大久保嘉人.md "wikilink")は[奥寺康彦](../Page/奥寺康彦.md "wikilink")以来31年ぶりにブンデスリーガ優勝を経験した日本人となった。
 
 ### リーグ優勝達成以降
 
-ドイツ王者として出場した2009-10シーズンの[UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")では[マンチェスター・ユナイテッドや](../Page/マンチェスター・ユナイテッドFC.md "wikilink")[CSKAモスクワ等と同組となり](https://ja.wikipedia.org/wiki/PFC_CSKAモスクワ "wikilink")、最終節まで決勝トーナメント進出を争ったものの、[マイケル・オーウェン](../Page/マイケル・オーウェン.md "wikilink")にハットトリックを決められて、1-3でマンチェスター・ユナイテッドに敗れ、グループリーグにて敗退している。リーグも中位に低迷し、 [アルミン・フェー](https://ja.wikipedia.org/wiki/アルミン・フェー "wikilink")は解任された。
+ドイツ王者として出場した2009-10シーズンの[UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")では[マンチェスター・ユナイテッドや](../Page/マンチェスター・ユナイテッドFC.md "wikilink")[CSKAモスクワ等と同組となり](../Page/PFC_CSKAモスクワ.md "wikilink")、最終節まで決勝トーナメント進出を争ったものの、[マイケル・オーウェン](../Page/マイケル・オーウェン.md "wikilink")にハットトリックを決められて、1-3でマンチェスター・ユナイテッドに敗れ、グループリーグにて敗退している。リーグも中位に低迷し、 [アルミン・フェー](https://ja.wikipedia.org/wiki/アルミン・フェー "wikilink")は解任された。
 
 2009-10シーズン以降、クラブの予算や戦力に見合わない低迷した成績が続き、2010-11シーズンはあわやブンデスリーガ2部降格という危機にまで陥った。
 
-2010年、[ヘルタ・ベルリン](https://ja.wikipedia.org/wiki/ヘルタ・ベルリン "wikilink")のフロントで手腕を振るっていた[ディーター・ヘーネス](../Page/ディーター・ヘーネス.md "wikilink")を[ゼネラルマネージャー](../Page/ゼネラルマネージャー.md "wikilink")に招聘。[2011年](../Page/2011年.md "wikilink")3月には2008-09シーズン優勝時の監督[フェリックス・マガト](https://ja.wikipedia.org/wiki/フェリックス・マガト "wikilink")を呼び戻し、彼の主導の下、ここ暫く続いた低迷を打破しようと試みた。
+2010年、[ヘルタ・ベルリン](https://ja.wikipedia.org/wiki/ヘルタ・ベルリン "wikilink")のフロントで手腕を振るっていた[ディーター・ヘーネス](../Page/ディーター・ヘーネス.md "wikilink")を[ゼネラルマネージャー](../Page/ゼネラルマネージャー.md "wikilink")に招聘。[2011年](../Page/2011年.md "wikilink")3月には2008-09シーズン優勝時の監督[フェリックス・マガト](../Page/フェリックス・マガト.md "wikilink")を呼び戻し、彼の主導の下、ここ暫く続いた低迷を打破しようと試みた。
 
 その後、クラブの立ち位置としては、優勝もしくは優勝争いをするレベルまでの戦力および予算を保持していないが、チャンピオンズリーグ出場権（2011-12シーズンからは4位以内）もしくはヨーロッパリーグ出場権（国内カップ戦優勝、リーグ戦5位6位）を狙える、上位グループに位置する戦力を有している。
 
 2014-15シーズンは、[ケヴィン・デ・ブライネ](https://ja.wikipedia.org/wiki/ケヴィン・デ・ブライネ "wikilink")がエースとして躍動し、20アシストを記録した。他にも[バス・ドスト](https://ja.wikipedia.org/wiki/バス・ドスト "wikilink")や[イヴァン・ペリシッチ](https://ja.wikipedia.org/wiki/イヴァン・ペリシッチ "wikilink")らの活躍もあり、バイエルン・ミュンヘンに次ぐ2位となりCL出場権を獲得。さらに、[DFBポカール](../Page/DFBポカール.md "wikilink")では決勝で[ボルシア・ドルトムント](../Page/ボルシア・ドルトムント.md "wikilink")を破り初優勝を達成した。
 
-2015-16年シーズンは[マンチェスター・シティ](https://ja.wikipedia.org/wiki/マンチェスター・シティ "wikilink")に移籍したデブライネの穴を埋めるべく[シャルケ04](../Page/シャルケ04.md "wikilink")から[ユリアン・ドラクスラー](https://ja.wikipedia.org/wiki/ユリアン・ドラクスラー "wikilink")を獲得した。他にも[ボルシア・メンヒェングラートバッハ](https://ja.wikipedia.org/wiki/ボルシア・メンヒェングラートバッハ "wikilink")から[マックス・クルーゼ](https://ja.wikipedia.org/wiki/マックス・クルーゼ "wikilink")、[バイエルン・ミュンヘンから](https://ja.wikipedia.org/wiki/FCバイエルン・ミュンヘン "wikilink")[ダンテらを獲得](https://ja.wikipedia.org/wiki/ダンテ・ボンフィム・コスタ・サントス "wikilink")。[UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")はベスト8まで進んだものの、[レアル・マドリード](https://ja.wikipedia.org/wiki/レアル・マドリード "wikilink")に敗れた。リーグ戦は8位終えた。
+2015-16年シーズンは[マンチェスター・シティ](https://ja.wikipedia.org/wiki/マンチェスター・シティ "wikilink")に移籍したデブライネの穴を埋めるべく[シャルケ04](../Page/シャルケ04.md "wikilink")から[ユリアン・ドラクスラー](https://ja.wikipedia.org/wiki/ユリアン・ドラクスラー "wikilink")を獲得した。他にも[ボルシア・メンヒェングラートバッハ](../Page/ボルシア・メンヒェングラートバッハ.md "wikilink")から[マックス・クルーゼ](https://ja.wikipedia.org/wiki/マックス・クルーゼ "wikilink")、[バイエルン・ミュンヘンから](https://ja.wikipedia.org/wiki/FCバイエルン・ミュンヘン "wikilink")[ダンテらを獲得](https://ja.wikipedia.org/wiki/ダンテ・ボンフィム・コスタ・サントス "wikilink")。[UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")はベスト8まで進んだものの、[レアル・マドリード](https://ja.wikipedia.org/wiki/レアル・マドリード "wikilink")に敗れた。リーグ戦は8位終えた。
 
-16-17シーズンは[ベシクタシュJK](https://ja.wikipedia.org/wiki/ベシクタシュJK "wikilink")から[マリオ・ゴメス](../Page/マリオ・ゴメス.md "wikilink")、[レアル・マドリード](https://ja.wikipedia.org/wiki/レアル・マドリード "wikilink")から[ボルハ・マジョラル](https://ja.wikipedia.org/wiki/ボルハ・マジョラル・モラ "wikilink")、[VfBシュトゥットガルト](https://ja.wikipedia.org/wiki/VfBシュトゥットガルト "wikilink")から[ダニエル・ディダヴィ](https://ja.wikipedia.org/wiki/ダニエル・ディダヴィ "wikilink")、[ボルシア・ドルトムント](../Page/ボルシア・ドルトムント.md "wikilink")から[ヤクブ・ブワシュチコフスキ](https://ja.wikipedia.org/wiki/ヤクブ・ブワシュチコフスキ "wikilink")、[PSVアイントホーフェン](../Page/PSVアイントホーフェン.md "wikilink")から[ジェフリー・ブルマ](https://ja.wikipedia.org/wiki/ジェフリー・ブルマ "wikilink")などを獲得するも、ゴメス以外のプレーヤーの得点が少なく低迷した。冬にはドラクスラーを[パリ・サンジェルマン](https://ja.wikipedia.org/wiki/パリ・サンジェルマン "wikilink")に放出し、[1.FSVマインツ05](https://ja.wikipedia.org/wiki/1.FSVマインツ05 "wikilink")から[ユヌス・マリ](https://ja.wikipedia.org/wiki/ユヌス・マリ "wikilink")、[アヤックス・アムステルダム](../Page/アヤックス・アムステルダム.md "wikilink")から[リーシェドリー・バズール](https://ja.wikipedia.org/wiki/リーシェドリー・バズール "wikilink")を獲得した。しかし依然として調子が悪く、16位でシーズンを終えた。しかし[ブラウンシュヴァイク](../Page/ブラウンシュヴァイク.md "wikilink")との入れ替え戦に無事勝利し、1部残留を決めた。
+16-17シーズンは[ベシクタシュJK](../Page/ベシクタシュJK.md "wikilink")から[マリオ・ゴメス](../Page/マリオ・ゴメス.md "wikilink")、[レアル・マドリード](https://ja.wikipedia.org/wiki/レアル・マドリード "wikilink")から[ボルハ・マジョラル](https://ja.wikipedia.org/wiki/ボルハ・マジョラル・モラ "wikilink")、[VfBシュトゥットガルト](https://ja.wikipedia.org/wiki/VfBシュトゥットガルト "wikilink")から[ダニエル・ディダヴィ](https://ja.wikipedia.org/wiki/ダニエル・ディダヴィ "wikilink")、[ボルシア・ドルトムント](../Page/ボルシア・ドルトムント.md "wikilink")から[ヤクブ・ブワシュチコフスキ](https://ja.wikipedia.org/wiki/ヤクブ・ブワシュチコフスキ "wikilink")、[PSVアイントホーフェン](../Page/PSVアイントホーフェン.md "wikilink")から[ジェフリー・ブルマ](https://ja.wikipedia.org/wiki/ジェフリー・ブルマ "wikilink")などを獲得するも、ゴメス以外のプレーヤーの得点が少なく低迷した。冬にはドラクスラーを[パリ・サンジェルマン](https://ja.wikipedia.org/wiki/パリ・サンジェルマン "wikilink")に放出し、[1.FSVマインツ05](../Page/1.FSVマインツ05.md "wikilink")から[ユヌス・マリ](https://ja.wikipedia.org/wiki/ユヌス・マリ "wikilink")、[アヤックス・アムステルダム](../Page/アヤックス・アムステルダム.md "wikilink")から[リーシェドリー・バズール](https://ja.wikipedia.org/wiki/リーシェドリー・バズール "wikilink")を獲得した。しかし依然として調子が悪く、16位でシーズンを終えた。しかし[ブラウンシュヴァイク](../Page/ブラウンシュヴァイク.md "wikilink")との入れ替え戦に無事勝利し、1部残留を決めた。
 
 2017-18シーズンは[ACミラン](https://ja.wikipedia.org/wiki/ACミラン "wikilink")に[リカルド・ロドリゲス](https://ja.wikipedia.org/wiki/リカルド・イヴァン・ロドリゲス・アラジャ "wikilink")、[オリンピック・マルセイユ](../Page/オリンピック・マルセイユ.md "wikilink")に[ルイス・グスタヴォ](https://ja.wikipedia.org/wiki/ルイス・グスタヴォ "wikilink")、[ASモナコ](../Page/ASモナコ.md "wikilink")に[ディエゴ・ベナリオ](https://ja.wikipedia.org/wiki/ディエゴ・ベナリオ "wikilink")を放出した。9月18日には[アンドリース・ヨンカー](https://ja.wikipedia.org/wiki/アンドリース・ヨンカー "wikilink")監督を解任した<ref>[ヴォルフスブルク、アンドリース・ヨンカー監督を解任](http://kicker.town/wolfsburg/2017/09/66133.html)Kicker日本語版
 
@@ -205,7 +205,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/PFC_CSKAモスクワ" title="wikilink">CSKAモスクワ</a></p></td>
+<td><p><a href="../Page/PFC_CSKAモスクワ.md" title="wikilink">CSKAモスクワ</a></p></td>
 <td><p>3–1</p></td>
 <td><p>1–2</p></td>
 <td></td>
@@ -215,7 +215,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ベシクタシュJK" title="wikilink">ベシクタシュ</a></p></td>
+<td><p><a href="../Page/ベシクタシュJK.md" title="wikilink">ベシクタシュ</a></p></td>
 <td><p>0–0</p></td>
 <td><p>3–0</p></td>
 <td></td>
@@ -437,7 +437,7 @@
 
 <!-- end list -->
 
-  - [オリバー・グラスナー](https://ja.wikipedia.org/wiki/オリバー・グラスナー "wikilink")
+  - [オリバー・グラスナー](../Page/オリバー・グラスナー.md "wikilink")
 
 ### ローン移籍選手
 
@@ -504,7 +504,7 @@
 
   - [クラウス・アウゲンターラー](../Page/クラウス・アウゲンターラー.md "wikilink") 2005.12-2007.5
 
-  - [フェリックス・マガト](https://ja.wikipedia.org/wiki/フェリックス・マガト "wikilink") 2007.5-2009.6
+  - [フェリックス・マガト](../Page/フェリックス・マガト.md "wikilink") 2007.5-2009.6
 
   - [アルミン・フェー](https://ja.wikipedia.org/wiki/アルミン・フェー "wikilink") 2009.7-2010.1
 
@@ -528,7 +528,7 @@
 
   - [ブルーノ・ラッバディア](../Page/ブルーノ・ラッバディア.md "wikilink") 2018.2-2019.6
 
-  - [オリバー・グラスナー](https://ja.wikipedia.org/wiki/オリバー・グラスナー "wikilink") 2019.7-
+  - [オリバー・グラスナー](../Page/オリバー・グラスナー.md "wikilink") 2019.7-
 
 ## 歴代所属選手
 
@@ -566,9 +566,9 @@
 
   - [ミロスラフ・カルハン](https://ja.wikipedia.org/wiki/ミロスラフ・カルハン "wikilink") 2001-2007
 
-  - [ロブソン・ポンテ](https://ja.wikipedia.org/wiki/ロブソン・ポンテ "wikilink") 2001-2003
+  - [ロブソン・ポンテ](../Page/ロブソン・ポンテ.md "wikilink") 2001-2003
 
-  - [シュテファン・エッフェンベルク](https://ja.wikipedia.org/wiki/シュテファン・エッフェンベルク "wikilink") 2002-2003
+  - [シュテファン・エッフェンベルク](../Page/シュテファン・エッフェンベルク.md "wikilink") 2002-2003
 
   - [ドゥシャン・ペトコビッチ](../Page/ドゥシャン・ペトコビッチ.md "wikilink") 2003-2004
 
@@ -606,9 +606,9 @@
 
   - [ジョシュア・ケネディ](../Page/ジョシュア・ケネディ.md "wikilink") 2000-2002
 
-  - [トミスラフ・マリッチ](https://ja.wikipedia.org/wiki/トミスラフ・マリッチ "wikilink") 2000-2003, 2004-2005
+  - [トミスラフ・マリッチ](../Page/トミスラフ・マリッチ.md "wikilink") 2000-2003, 2004-2005
 
-  - [マルティン・ペトロフ](https://ja.wikipedia.org/wiki/マルティン・ペトロフ "wikilink") 2001-2005
+  - [マルティン・ペトロフ](../Page/マルティン・ペトロフ.md "wikilink") 2001-2005
 
   - [マルコ・トピッチ](https://ja.wikipedia.org/wiki/マルコ・トピッチ "wikilink") 2003-2004
 

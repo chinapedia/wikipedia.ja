@@ -3,7 +3,7 @@
 
 『**THE CHAIR**』（ザ・チェアー）は、[アメリカ生まれの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")・[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。
 
-世界15か国で放送され、アメリカでは[ABCで](../Page/アメリカン・ブロードキャスティング・カンパニー.md "wikilink")、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")では[BBCで](../Page/英国放送協会.md "wikilink")、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")では[TF1](../Page/TF1.md "wikilink")で放送されている。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[5月25日](../Page/5月25日.md "wikilink")および[9月28日](../Page/9月28日.md "wikilink")に[TBSで放送され](../Page/TBSテレビ.md "wikilink")、『[クイズ$ミリオネア](../Page/クイズ$ミリオネア.md "wikilink")』を上回る[視聴率](../Page/視聴率.md "wikilink")を得た。
+世界15か国で放送され、アメリカでは[ABCで](../Page/アメリカン・ブロードキャスティング・カンパニー.md "wikilink")、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")では[BBCで](../Page/英国放送協会.md "wikilink")、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")では[TF1](../Page/TF1.md "wikilink")で放送されている。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[2005年](../Page/2005年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink")および[9月28日](../Page/9月28日.md "wikilink")に[TBSで放送され](../Page/TBSテレビ.md "wikilink")、『[クイズ$ミリオネア](../Page/クイズ$ミリオネア.md "wikilink")』を上回る[視聴率](../Page/視聴率.md "wikilink")を得た。
 
 アメリカ版・イギリス版司会者は[テニス](../Page/テニス.md "wikilink")界の暴れん坊[ジョン・マッケンロー](https://ja.wikipedia.org/wiki/ジョン・マッケンロー "wikilink")である。
 
@@ -58,7 +58,7 @@
 
 **初回**
 
-  - [丸山和也](https://ja.wikipedia.org/wiki/丸山和也 "wikilink")
+  - [丸山和也](../Page/丸山和也.md "wikilink")
   - [泉ピン子](../Page/泉ピン子.md "wikilink")
   - [野村克也](../Page/野村克也.md "wikilink")
   - [田村淳](../Page/田村淳.md "wikilink")（[ロンドンブーツ1号2号](../Page/ロンドンブーツ1号2号.md "wikilink")）
@@ -67,19 +67,19 @@
 
 **第2回**
 
-  - [真島茂樹](https://ja.wikipedia.org/wiki/真島茂樹 "wikilink")
+  - [真島茂樹](../Page/真島茂樹.md "wikilink")
   - [橋下徹](../Page/橋下徹.md "wikilink")
   - [上田晋也](../Page/上田晋也.md "wikilink")（[くりぃむしちゅー](../Page/くりぃむしちゅー.md "wikilink")）
   - [レイザーラモンHG](../Page/レイザーラモンHG.md "wikilink")
   - [山口智充](../Page/山口智充.md "wikilink")（[DonDokoDon](../Page/DonDokoDon.md "wikilink")）
-  - [堺正章](https://ja.wikipedia.org/wiki/堺正章 "wikilink")
+  - [堺正章](../Page/堺正章.md "wikilink")
   - [MEGUMI](https://ja.wikipedia.org/wiki/MEGUMI "wikilink")
 
 ### スタッフ
 
   - ナレーター：[垂木勉](../Page/垂木勉.md "wikilink") ／ [豊田綾乃](../Page/豊田綾乃.md "wikilink")（TBSアナウンサー）
   - 構成：[高須光聖](../Page/高須光聖.md "wikilink")、[都築浩](../Page/都築浩.md "wikilink")、[木野聡](https://ja.wikipedia.org/wiki/木野聡 "wikilink")、[堀江利幸](../Page/堀江利幸.md "wikilink")、長谷川大雲
-  - 問題ブレーン：[道蔦岳史](../Page/道蔦岳史.md "wikilink")、[矢野了平](https://ja.wikipedia.org/wiki/矢野了平 "wikilink")
+  - 問題ブレーン：[道蔦岳史](../Page/道蔦岳史.md "wikilink")、[矢野了平](../Page/矢野了平.md "wikilink")
   - TM/TD：中澤健
   - VE：江川英男
   - カメラ：井原公二
@@ -109,7 +109,7 @@
   - プロデューサー：[櫟本憲勝](../Page/櫟本憲勝.md "wikilink")、[帯純也](https://ja.wikipedia.org/wiki/帯純也 "wikilink")、[山地孝英](https://ja.wikipedia.org/wiki/山地孝英 "wikilink")
   - チーフプロデューサー：[戸髙正啓](../Page/戸高正啓.md "wikilink")
   - 協力：[アルファリレーション](http://www.alphar.co.jp/)
-  - 技術協力：[エヌ・エス・ティー](https://ja.wikipedia.org/wiki/エヌ・エス・ティー "wikilink")、[TAMCO](../Page/タムコ.md "wikilink")、[ティ・エル・シー](https://ja.wikipedia.org/wiki/ティ・エル・シー "wikilink")
+  - 技術協力：[エヌ・エス・ティー](../Page/エヌ・エス・ティー.md "wikilink")、[TAMCO](../Page/タムコ.md "wikilink")、[ティ・エル・シー](../Page/ティ・エル・シー.md "wikilink")
   - 制作協力：[G-yama](../Page/ジーヤマ.md "wikilink")
   - 制作：[TBSテレビ](../Page/TBSテレビ.md "wikilink")
   - 製作著作：TBS

@@ -1,7 +1,7 @@
 > この記事は[OpenVMS](https://ja.wikipedia.org/wiki/OpenVMS)から翻訳されています。
 
 
-**OpenVMS** (Open Virtual Memory System) は、[ディジタル・イクイップメント・コーポレーション](../Page/ディジタル・イクイップメント・コーポレーション.md "wikilink") （DEC、現在は[ヒューレット・パッカード・エンタープライズ](https://ja.wikipedia.org/wiki/ヒューレット・パッカード・エンタープライズ "wikilink")） によって設計された、[タイムシェアリングシステム](../Page/タイムシェアリングシステム.md "wikilink")、[バッチ処理](https://ja.wikipedia.org/wiki/バッチ処理 "wikilink")および[トランザクション](../Page/トランザクション.md "wikilink")処理用の[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")である。当初は単に**VMS**と一般的には呼ばれており、元々は[VAX](../Page/VAX.md "wikilink")システム上で動作していたが、後に[DEC Alphaと](https://ja.wikipedia.org/wiki/DEC_Alpha "wikilink")[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink") [Itanium](../Page/Itanium.md "wikilink")に移植された。 [2014年](../Page/2014年.md "wikilink")、ヒューレット・パッカードは**VMS Software, Inc.**にOpenVMSの将来のリリースを開発する独占的な権利を与えると発表した。
+**OpenVMS** (Open Virtual Memory System) は、[ディジタル・イクイップメント・コーポレーション](../Page/ディジタル・イクイップメント・コーポレーション.md "wikilink") （DEC、現在は[ヒューレット・パッカード・エンタープライズ](https://ja.wikipedia.org/wiki/ヒューレット・パッカード・エンタープライズ "wikilink")） によって設計された、[タイムシェアリングシステム](../Page/タイムシェアリングシステム.md "wikilink")、[バッチ処理](../Page/バッチ処理.md "wikilink")および[トランザクション](../Page/トランザクション.md "wikilink")処理用の[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")である。当初は単に**VMS**と一般的には呼ばれており、元々は[VAX](../Page/VAX.md "wikilink")システム上で動作していたが、後に[DEC Alphaと](https://ja.wikipedia.org/wiki/DEC_Alpha "wikilink")[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink") [Itanium](../Page/Itanium.md "wikilink")に移植された。 [2014年](../Page/2014年.md "wikilink")、ヒューレット・パッカードは**VMS Software, Inc.**にOpenVMSの将来のリリースを開発する独占的な権利を与えると発表した。
 
 ## 経緯
 

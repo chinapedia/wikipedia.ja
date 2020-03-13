@@ -1,7 +1,7 @@
 > この記事は[DragonBall](https://ja.wikipedia.org/wiki/DragonBall)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Motorola_DragonBallEZ_XC60EZ328PU16V_top.jpg "wikilink") **DragonBall**（ドラゴンボール）または**MC68328**は、[68000コアをベースとした](../Page/MC68000.md "wikilink")[モトローラ](../Page/モトローラ.md "wikilink")/[フリースケール](https://ja.wikipedia.org/wiki/フリースケール "wikilink")の[マイクロコントローラ](https://ja.wikipedia.org/wiki/マイクロコントローラ "wikilink")である。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Motorola_DragonBallEZ_XC60EZ328PU16V_top.jpg "wikilink") **DragonBall**（ドラゴンボール）または**MC68328**は、[68000コアをベースとした](../Page/MC68000.md "wikilink")[モトローラ](../Page/モトローラ.md "wikilink")/[フリースケール](https://ja.wikipedia.org/wiki/フリースケール "wikilink")の[マイクロコントローラ](../Page/マイクロコントローラ.md "wikilink")である。
 
 [ハンドヘルドコンピュータ](../Page/ハンドヘルドコンピュータ.md "wikilink")向けの低消費電力[プロセッサ](../Page/プロセッサ.md "wikilink")として実装されている。設計はモトローラが[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")で行った。
 

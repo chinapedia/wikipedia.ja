@@ -61,9 +61,9 @@
   - [勇次](../Page/三味線屋の勇次.md "wikilink")
     演 - [中条きよし](../Page/中条きよし.md "wikilink")
     三味線屋。母のおりくとともに抗争に巻き込まれる形で、裏稼業に復帰する。
-    最終話の仕事人グループの解散後も江戸に残り、次回作『[必殺仕切人](https://ja.wikipedia.org/wiki/必殺仕切人 "wikilink")』に連続登場することになる。
+    最終話の仕事人グループの解散後も江戸に残り、次回作『[必殺仕切人](../Page/必殺仕切人.md "wikilink")』に連続登場することになる。
   - [おりく](https://ja.wikipedia.org/wiki/おりく "wikilink")
-    演 - [山田五十鈴](https://ja.wikipedia.org/wiki/山田五十鈴 "wikilink")\[2\]\[3\]
+    演 - [山田五十鈴](../Page/山田五十鈴.md "wikilink")\[2\]\[3\]
     三味線屋で、仕事人の元締。勇次の母親で、彼とともに旅を続けていたが江戸に戻り、裏稼業を再開する。
     最終話の仕事人グループ解散後は、再び旅に出る。
 
@@ -272,7 +272,7 @@
 
   - 第11話 「秀 催眠術をかけられる」
 
-:\* お京 - [秋野暢子](https://ja.wikipedia.org/wiki/秋野暢子 "wikilink")
+:\* お京 - [秋野暢子](../Page/秋野暢子.md "wikilink")
 
 :\* お京の手下 - 武中秀人
 
@@ -540,7 +540,7 @@
 
 :\* お半 - [山本ゆか里](../Page/山本ゆか里.md "wikilink")
 
-:\* 長右衛門 - [長谷川哲夫](https://ja.wikipedia.org/wiki/長谷川哲夫 "wikilink")
+:\* 長右衛門 - [長谷川哲夫](../Page/長谷川哲夫.md "wikilink")
 
 :\* 秋芳 - [楠年明](https://ja.wikipedia.org/wiki/楠年明 "wikilink")
 
@@ -797,14 +797,14 @@
 
 ## スタッフ
 
-  - 制作 - [山内久司](https://ja.wikipedia.org/wiki/山内久司 "wikilink")（朝日放送）
+  - 制作 - [山内久司](../Page/山内久司.md "wikilink")（朝日放送）
   - プロデューサー - 辰野悦央（朝日放送）、櫻井洋三（松竹）
   - 脚本 - [吉田剛](https://ja.wikipedia.org/wiki/吉田剛_\(脚本家\) "wikilink")、鶉野昭彦、[篠崎好](https://ja.wikipedia.org/wiki/篠崎好 "wikilink")、[林千代](https://ja.wikipedia.org/wiki/林千代 "wikilink")、中原朗、保利吉紀、[野上龍雄](../Page/野上龍雄.md "wikilink")、[三田純市](../Page/三田純市.md "wikilink")
   - 音楽 - [平尾昌晃](../Page/平尾昌晃.md "wikilink")
   - 監督 - [田中徳三](../Page/田中徳三.md "wikilink")、原田雄一、[広瀬襄](../Page/広瀬襄.md "wikilink")、家喜俊彦、[松野宏軌](https://ja.wikipedia.org/wiki/松野宏軌 "wikilink")、[黒田義之](../Page/黒田義之.md "wikilink")、八木美津雄
   - ナレーション
       - 語り - [中村梅之助](../Page/中村梅之助_\(4代目\).md "wikilink")
-      - 作 - [山内久司](https://ja.wikipedia.org/wiki/山内久司 "wikilink")
+      - 作 - [山内久司](../Page/山内久司.md "wikilink")
   - 協力 - [エクラン演技集団](https://ja.wikipedia.org/wiki/エクラン社 "wikilink")、新演技座
   - 製作協力 - 京都映画撮影所（現・松竹撮影所）
   - 制作 - 朝日放送、松竹
@@ -1072,7 +1072,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/沖縄県.md" title="wikilink">沖縄県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/琉球放送" title="wikilink">琉球放送</a></p></td>
+<td><p><a href="../Page/琉球放送.md" title="wikilink">琉球放送</a></p></td>
 <td><p>TBS系列</p></td>
 <td></td>
 </tr>

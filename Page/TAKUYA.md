@@ -33,7 +33,7 @@ analersのヨウイチ率いるバンド・SKAFUNK（スカンクと読む。実
 
 大の[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")ファンとしても名を馳せ、自身では芸能人サッカーチーム「THEミイラ」に所属し、不定期ながらも試合に参加して活躍している他、『ORANGE SUNSHINE』には「special thanks to JUBILO」のクレジットが有るなど[ジュビロ磐田](../Page/ジュビロ磐田.md "wikilink")のファンとしても知られている。また、サッカー選手の[稲本潤一](../Page/稲本潤一.md "wikilink")の大ファンであり、親交も深く、稲本選手の後援会長でもある。尚、[ヤマハスタジアム](../Page/ヤマハスタジアム.md "wikilink")にあるサポーターズクラブメンバーズボードには10年以上もの間、会員の欄に「浅沼拓也」の名前がある。2008年には歌手活動も行っている現役女子サッカー選手・[石田美穂子](https://ja.wikipedia.org/wiki/石田美穂子 "wikilink")（アーティストネームは「石田ミホコ」）のデビュー曲のプロデュースを行った。 [LUNA SEAの](../Page/LUNA_SEA.md "wikilink")[INORAN](../Page/INORAN.md "wikilink")や[175R](../Page/175R.md "wikilink")の[SHOGO](../Page/SHOGO.md "wikilink")とは、親交がある。
 
-ゲームも好きで、特に[モンスターハンター](../Page/モンスターハンター.md "wikilink")が大得意。[中川翔子](../Page/中川翔子.md "wikilink")も驚くほど、芸能界でもかなりの腕前である。地元京都の[天下一品](../Page/天下一品.md "wikilink")のラーメンが産湯というくらいの好物で、またライブでの初ギャラで打ち上げをしたのは[餃子の王将](https://ja.wikipedia.org/wiki/餃子の王将 "wikilink")で、王将の料理はソウルフードとまで明言している。
+ゲームも好きで、特に[モンスターハンター](../Page/モンスターハンター.md "wikilink")が大得意。[中川翔子](../Page/中川翔子.md "wikilink")も驚くほど、芸能界でもかなりの腕前である。地元京都の[天下一品](../Page/天下一品.md "wikilink")のラーメンが産湯というくらいの好物で、またライブでの初ギャラで打ち上げをしたのは[餃子の王将](../Page/餃子の王将.md "wikilink")で、王将の料理はソウルフードとまで明言している。
 
 ## ディスコグラフィ
 

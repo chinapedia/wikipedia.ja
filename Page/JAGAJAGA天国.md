@@ -27,7 +27,7 @@ UMKは『[さんさんサタデー](../Page/さんさんサタデー.md "wikilin
   - [柳田哲志](../Page/柳田哲志.md "wikilink")（UMKアナウンサー） - 下記の放送中の事故によりリハビリ中である。
   - [s@ko](https://ja.wikipedia.org/wiki/s@ko "wikilink")（[JOY FMの](../Page/エフエム宮崎.md "wikilink")[DJ](../Page/ディスクジョッキー.md "wikilink")） - 2004年10月から出演。その後、2015年12月から筋萎縮性側索硬化症の為、療養生活を送りながら活動していたが2019年5月4日の夜に44歳で死去
   - [Mr.バニー](https://ja.wikipedia.org/wiki/Mr.バニー "wikilink")（UMKディレクター、[ローカルタレント](../Page/ローカルタレント.md "wikilink")） - 『さんさんサタデー』時代から出演。
-  - [南出雅之](https://ja.wikipedia.org/wiki/南出雅之 "wikilink")（当時UMKアナウンサー、現在は定年の為一度退職するもUMKの契約キャスター、リポーターとして再雇用され活躍中） - Mr.バニーと隔週で出演。『さんさんサタデー』時代のメインMC。
+  - [南出雅之](../Page/南出雅之.md "wikilink")（当時UMKアナウンサー、現在は定年の為一度退職するもUMKの契約キャスター、リポーターとして再雇用され活躍中） - Mr.バニーと隔週で出演。『さんさんサタデー』時代のメインMC。
   - [首藤真吾](../Page/首藤真吾.md "wikilink")（当時UMKアナウンサー）
   - [荒尾茉紀](https://ja.wikipedia.org/wiki/荒尾茉紀 "wikilink")（UMKアナウンサー）
   - [児玉泰一郎](https://ja.wikipedia.org/wiki/児玉泰一郎 "wikilink")（UMKアナウンサー）

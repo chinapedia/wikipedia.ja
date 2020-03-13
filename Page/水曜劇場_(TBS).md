@@ -9,7 +9,7 @@
 
 ### 第1期（1961年 - 1982年）
 
-1961年（昭和36年）に開始した当初は、文芸調を帯びたテーマで[新劇](https://ja.wikipedia.org/wiki/新劇 "wikilink")の俳優を用いたドラマや、社会派記者もの、あるいは時代劇、と路線を模索していたが、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")（昭和44年）あたりからほのぼのとしてポップな「[ホームドラマ](../Page/ホームドラマ.md "wikilink")」という活路を見出す。『[東芝](../Page/東芝.md "wikilink")[日曜劇場](https://ja.wikipedia.org/wiki/日曜劇場 "wikilink")』や『[木曜8時枠ドラマ](../Page/TBS木曜8時枠の連続ドラマ.md "wikilink")』、『[近鉄金曜劇場](https://ja.wikipedia.org/wiki/近鉄金曜劇場 "wikilink")』や『[金曜8時枠ドラマ](../Page/TBS金曜8時枠の連続ドラマ.md "wikilink")』と共に“**ドラマのTBS**”の代名詞ともいわれる放送枠であった。 [1970年代](../Page/1970年代.md "wikilink")初頭に始まる[久世光彦](../Page/久世光彦.md "wikilink")の演出・プロデュースによる『[時間ですよ](../Page/時間ですよ.md "wikilink")』でいわゆる「久世ドラマ」がブレイク、1974年 - 1975年の『[寺内貫太郎一家](../Page/寺内貫太郎一家.md "wikilink")』、『[ムー](../Page/ムー_\(テレビドラマ\).md "wikilink")』（1977年）および『[ムー一族](../Page/ムー一族.md "wikilink")』（1978年 - 1979年）の爛熟期を経て、[1979年](../Page/1979年.md "wikilink")（昭和54年）の『[家路〜ママ・ドント・クライ〜](https://ja.wikipedia.org/wiki/家路〜ママ・ドント・クライ〜 "wikilink")』へと向かっていく。
+1961年（昭和36年）に開始した当初は、文芸調を帯びたテーマで[新劇](https://ja.wikipedia.org/wiki/新劇 "wikilink")の俳優を用いたドラマや、社会派記者もの、あるいは時代劇、と路線を模索していたが、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")（昭和44年）あたりからほのぼのとしてポップな「[ホームドラマ](../Page/ホームドラマ.md "wikilink")」という活路を見出す。『[東芝](../Page/東芝.md "wikilink")[日曜劇場](https://ja.wikipedia.org/wiki/日曜劇場 "wikilink")』や『[木曜8時枠ドラマ](../Page/TBS木曜8時枠の連続ドラマ.md "wikilink")』、『[近鉄金曜劇場](../Page/近鉄金曜劇場.md "wikilink")』や『[金曜8時枠ドラマ](../Page/TBS金曜8時枠の連続ドラマ.md "wikilink")』と共に“**ドラマのTBS**”の代名詞ともいわれる放送枠であった。 [1970年代](../Page/1970年代.md "wikilink")初頭に始まる[久世光彦](../Page/久世光彦.md "wikilink")の演出・プロデュースによる『[時間ですよ](../Page/時間ですよ.md "wikilink")』でいわゆる「久世ドラマ」がブレイク、1974年 - 1975年の『[寺内貫太郎一家](../Page/寺内貫太郎一家.md "wikilink")』、『[ムー](../Page/ムー_\(テレビドラマ\).md "wikilink")』（1977年）および『[ムー一族](../Page/ムー一族.md "wikilink")』（1978年 - 1979年）の爛熟期を経て、[1979年](../Page/1979年.md "wikilink")（昭和54年）の『[家路〜ママ・ドント・クライ〜](https://ja.wikipedia.org/wiki/家路〜ママ・ドント・クライ〜 "wikilink")』へと向かっていく。
 
 1979年（昭和54年）、本枠のヒットドラマで演出からプロデュース、主演俳優（[郷ひろみ](../Page/郷ひろみ.md "wikilink")、[沢田研二](../Page/沢田研二.md "wikilink")）の楽曲の作詞まで手がけていた久世光彦がTBSから独立。[1982年](../Page/1982年.md "wikilink")（昭和57年）1月～3月の『[橋田ドラマ・結婚](https://ja.wikipedia.org/wiki/結婚_\(1982年のテレビドラマ\) "wikilink")』をもって本ドラマ枠は一時消滅する。
 
@@ -54,7 +54,7 @@
 <!-- end list -->
 
   - 放送期間：1963年10月2日 - 1963年12月18日
-  - 主な出演者：[宇野重吉](../Page/宇野重吉.md "wikilink")、[伊藤孝雄](../Page/伊藤孝雄.md "wikilink")、[滝沢修](https://ja.wikipedia.org/wiki/滝沢修 "wikilink")、[梅野泰靖](../Page/梅野泰靖.md "wikilink")
+  - 主な出演者：[宇野重吉](../Page/宇野重吉.md "wikilink")、[伊藤孝雄](../Page/伊藤孝雄.md "wikilink")、[滝沢修](../Page/滝沢修.md "wikilink")、[梅野泰靖](../Page/梅野泰靖.md "wikilink")
 
 <!-- end list -->
 
@@ -72,7 +72,7 @@
 <!-- end list -->
 
   - 放送期間：1964年5月27日 - 1964年9月2日
-  - 主な出演者：[中村竹弥](https://ja.wikipedia.org/wiki/中村竹弥 "wikilink")
+  - 主な出演者：[中村竹弥](../Page/中村竹弥.md "wikilink")
 
 <!-- end list -->
 
@@ -108,7 +108,7 @@
 <!-- end list -->
 
   - 放送期間：1965年9月8日 - 1965年10月27日
-  - 主な出演者：[東野英治郎](../Page/東野英治郎.md "wikilink")、[岸田今日子](https://ja.wikipedia.org/wiki/岸田今日子 "wikilink")、[村瀬幸子](../Page/村瀬幸子.md "wikilink")
+  - 主な出演者：[東野英治郎](../Page/東野英治郎.md "wikilink")、[岸田今日子](../Page/岸田今日子.md "wikilink")、[村瀬幸子](../Page/村瀬幸子.md "wikilink")
 
 <!-- end list -->
 
@@ -125,7 +125,7 @@
 <!-- end list -->
 
   - 放送期間：1966年3月9日 - 1966年7月20日
-  - 主な出演者：[長谷川一夫](../Page/長谷川一夫.md "wikilink")、[淡島千景](../Page/淡島千景.md "wikilink")、[長谷川裕見子](../Page/長谷川裕見子.md "wikilink")、[天津敏](https://ja.wikipedia.org/wiki/天津敏 "wikilink")
+  - 主な出演者：[長谷川一夫](../Page/長谷川一夫.md "wikilink")、[淡島千景](../Page/淡島千景.md "wikilink")、[長谷川裕見子](../Page/長谷川裕見子.md "wikilink")、[天津敏](../Page/天津敏.md "wikilink")
 
 <!-- end list -->
 
@@ -151,7 +151,7 @@
 <!-- end list -->
 
   - 放送期間：1967年5月10日 - 1967年6月14日
-  - 主な出演者：[岸惠子](../Page/岸惠子.md "wikilink")、[池部良](https://ja.wikipedia.org/wiki/池部良 "wikilink")、[津島恵子](../Page/津島恵子.md "wikilink")、[石立鉄男](../Page/石立鉄男.md "wikilink")
+  - 主な出演者：[岸惠子](../Page/岸惠子.md "wikilink")、[池部良](../Page/池部良.md "wikilink")、[津島恵子](../Page/津島恵子.md "wikilink")、[石立鉄男](../Page/石立鉄男.md "wikilink")
 
 <!-- end list -->
 
@@ -232,7 +232,7 @@
 <!-- end list -->
 
   - 放送期間：1969年4月16日 - 1969年6月25日
-  - 主な出演者：[新珠三千代](../Page/新珠三千代.md "wikilink")、[池部良](https://ja.wikipedia.org/wiki/池部良 "wikilink")、[仲谷昇](../Page/仲谷昇.md "wikilink")、[中山千夏](../Page/中山千夏.md "wikilink")
+  - 主な出演者：[新珠三千代](../Page/新珠三千代.md "wikilink")、[池部良](../Page/池部良.md "wikilink")、[仲谷昇](../Page/仲谷昇.md "wikilink")、[中山千夏](../Page/中山千夏.md "wikilink")
 
 <!-- end list -->
 
@@ -249,7 +249,7 @@
 
 <!-- end list -->
 
-  - 放送期間：1969年10月15日 - [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")1月28日
+  - 放送期間：1969年10月15日 - [1970年](../Page/1970年.md "wikilink")1月28日
   - 主な出演者：[池内淳子](../Page/池内淳子.md "wikilink")、[児玉清](../Page/児玉清.md "wikilink")、[山岡久乃](../Page/山岡久乃.md "wikilink")、[中山千夏](../Page/中山千夏.md "wikilink")
 
 #### 1970年代
@@ -259,7 +259,7 @@
 <!-- end list -->
 
   - 放送期間：1970年2月4日 - 1970年8月26日
-  - 主な出演者：[森光子](../Page/森光子.md "wikilink")、[船越英二](https://ja.wikipedia.org/wiki/船越英二 "wikilink")、[松山英太郎](../Page/松山英太郎.md "wikilink")、[堺正章](../Page/堺正章.md "wikilink")
+  - 主な出演者：[森光子](../Page/森光子.md "wikilink")、[船越英二](../Page/船越英二.md "wikilink")、[松山英太郎](../Page/松山英太郎.md "wikilink")、[堺正章](../Page/堺正章.md "wikilink")
 
 <!-- end list -->
 
@@ -286,7 +286,7 @@
 <!-- end list -->
 
   - 放送期間：1971年7月21日 - [1972年](../Page/1972年.md "wikilink")3月15日
-  - 主な出演者：[森光子](../Page/森光子.md "wikilink")、[船越英二](https://ja.wikipedia.org/wiki/船越英二 "wikilink")、[松山英太郎](../Page/松山英太郎.md "wikilink")、[松原智恵子](../Page/松原智恵子.md "wikilink")
+  - 主な出演者：[森光子](../Page/森光子.md "wikilink")、[船越英二](../Page/船越英二.md "wikilink")、[松山英太郎](../Page/松山英太郎.md "wikilink")、[松原智恵子](../Page/松原智恵子.md "wikilink")
 
 <!-- end list -->
 
@@ -295,7 +295,7 @@
 <!-- end list -->
 
   - 放送期間：1972年3月22日 - 1972年6月28日
-  - 主な出演者：[吉永小百合](../Page/吉永小百合.md "wikilink")、[堺正章](../Page/堺正章.md "wikilink")、[藤間紫](../Page/藤間紫.md "wikilink")、[長山藍子](https://ja.wikipedia.org/wiki/長山藍子 "wikilink")
+  - 主な出演者：[吉永小百合](../Page/吉永小百合.md "wikilink")、[堺正章](../Page/堺正章.md "wikilink")、[藤間紫](../Page/藤間紫.md "wikilink")、[長山藍子](../Page/長山藍子.md "wikilink")
 
 <!-- end list -->
 
@@ -322,7 +322,7 @@
 <!-- end list -->
 
   - 放送期間：1973年2月14日 - 1973年9月5日
-  - 主な出演者：[森光子](../Page/森光子.md "wikilink")、[船越英二](https://ja.wikipedia.org/wiki/船越英二 "wikilink")、[松山英太郎](../Page/松山英太郎.md "wikilink")、[松原智恵子](../Page/松原智恵子.md "wikilink")、[堺正章](../Page/堺正章.md "wikilink")、[天地真理](../Page/天地真理.md "wikilink")、[浅田美代子](../Page/浅田美代子.md "wikilink")
+  - 主な出演者：[森光子](../Page/森光子.md "wikilink")、[船越英二](../Page/船越英二.md "wikilink")、[松山英太郎](../Page/松山英太郎.md "wikilink")、[松原智恵子](../Page/松原智恵子.md "wikilink")、[堺正章](../Page/堺正章.md "wikilink")、[天地真理](../Page/天地真理.md "wikilink")、[浅田美代子](../Page/浅田美代子.md "wikilink")
 
 <!-- end list -->
 
@@ -394,7 +394,7 @@
 <!-- end list -->
 
   - 放送期間：1977年4月6日 - 1977年5月11日
-  - 主な出演者：[大原麗子](https://ja.wikipedia.org/wiki/大原麗子 "wikilink")、[江守徹](../Page/江守徹.md "wikilink")、[池部良](https://ja.wikipedia.org/wiki/池部良 "wikilink")、[村野武憲](https://ja.wikipedia.org/wiki/村野武憲 "wikilink")
+  - 主な出演者：[大原麗子](https://ja.wikipedia.org/wiki/大原麗子 "wikilink")、[江守徹](../Page/江守徹.md "wikilink")、[池部良](../Page/池部良.md "wikilink")、[村野武憲](https://ja.wikipedia.org/wiki/村野武憲 "wikilink")
 
 <!-- end list -->
 
@@ -439,7 +439,7 @@
 <!-- end list -->
 
   - 放送期間：1979年8月15日 - 1979年11月7日
-  - 主な出演者：[京マチ子](https://ja.wikipedia.org/wiki/京マチ子 "wikilink")、[郷ひろみ](../Page/郷ひろみ.md "wikilink")、[池部良](https://ja.wikipedia.org/wiki/池部良 "wikilink")、[タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")
+  - 主な出演者：[京マチ子](../Page/京マチ子.md "wikilink")、[郷ひろみ](../Page/郷ひろみ.md "wikilink")、[池部良](../Page/池部良.md "wikilink")、[タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")
 
 <!-- end list -->
 
@@ -448,7 +448,7 @@
 <!-- end list -->
 
   - 放送期間：1979年11月14日 - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")2月6日
-  - 主な出演者：[京マチ子](https://ja.wikipedia.org/wiki/京マチ子 "wikilink")、[佐野浅夫](../Page/佐野浅夫.md "wikilink")、[梶芽衣子](../Page/梶芽衣子.md "wikilink")、[浅野温子](../Page/浅野温子.md "wikilink")
+  - 主な出演者：[京マチ子](../Page/京マチ子.md "wikilink")、[佐野浅夫](../Page/佐野浅夫.md "wikilink")、[梶芽衣子](../Page/梶芽衣子.md "wikilink")、[浅野温子](../Page/浅野温子.md "wikilink")
 
 #### 1980年代
 
@@ -529,7 +529,7 @@
 <!-- end list -->
 
   - 放送期間：1982年1月6日 - 1982年4月14日
-  - 主な出演者：[赤木春恵](https://ja.wikipedia.org/wiki/赤木春恵 "wikilink")、[三田佳子](https://ja.wikipedia.org/wiki/三田佳子 "wikilink")、[小川知子](https://ja.wikipedia.org/wiki/小川知子_\(女優\) "wikilink")、[小鹿ミキ](https://ja.wikipedia.org/wiki/小鹿みき "wikilink")
+  - 主な出演者：[赤木春恵](https://ja.wikipedia.org/wiki/赤木春恵 "wikilink")、[三田佳子](../Page/三田佳子.md "wikilink")、[小川知子](../Page/小川知子_\(女優\).md "wikilink")、[小鹿ミキ](https://ja.wikipedia.org/wiki/小鹿みき "wikilink")
 
 ### 第2期
 
@@ -562,7 +562,7 @@
 
   - 制作：[テレパック](../Page/テレパック.md "wikilink")
   - 放送期間：2009年10月21日 - 2009年12月16日
-  - 主な出演者：[沢村一樹](../Page/沢村一樹.md "wikilink")、[風間杜夫](../Page/風間杜夫.md "wikilink")、[原沙知絵](https://ja.wikipedia.org/wiki/原沙知絵 "wikilink")、[黒田知永子](https://ja.wikipedia.org/wiki/黒田知永子 "wikilink")、[田中幸太朗](../Page/田中幸太朗.md "wikilink")、[佐久間良子](../Page/佐久間良子.md "wikilink") ほか
+  - 主な出演者：[沢村一樹](../Page/沢村一樹.md "wikilink")、[風間杜夫](../Page/風間杜夫.md "wikilink")、[原沙知絵](https://ja.wikipedia.org/wiki/原沙知絵 "wikilink")、[黒田知永子](../Page/黒田知永子.md "wikilink")、[田中幸太朗](../Page/田中幸太朗.md "wikilink")、[佐久間良子](../Page/佐久間良子.md "wikilink") ほか
 
 #### 2010年
 

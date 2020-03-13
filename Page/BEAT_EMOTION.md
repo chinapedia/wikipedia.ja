@@ -41,7 +41,7 @@
 
 ツアータイトルの示す通り、当初はサーカスをイメージしたテント小屋を会場にしようと計画していたが、サーカスの管理事務所側から「地ならしのためのゾウを引き取ってもらわないと困る」と言われ断念した\[3\]。
 
-本ツアーでは2度の日本武道館公演が含まれており、後にその模様がCD『[GIGS at BUDOKAN BEAT EMOTION ROCK'N ROLL CIRCUS TOUR 1986.11.11〜1987.02.24](https://ja.wikipedia.org/wiki/GIGS_at_BUDOKAN_BEAT_EMOTION_ROCK'N_ROLL_CIRCUS_TOUR_1986.11.11〜1987.02.24 "wikilink")』（2004年）、ビデオ『[GIGS at BUDOKAN BEAT EMOTION ROCK'N ROLL CIRCUS TOUR 1986.11.11〜1987.02.24](../Page/GIGS_at_BUDOKAN_BEAT_EMOTION_ROCK'N_ROLL_CIRCUS_TOUR_1986.11.11〜1987.02.24_\(Video\).md "wikilink")』としてリリースされている。
+本ツアーでは2度の日本武道館公演が含まれており、後にその模様がCD『[GIGS at BUDOKAN BEAT EMOTION ROCK'N ROLL CIRCUS TOUR 1986.11.11〜1987.02.24](../Page/GIGS_at_BUDOKAN_BEAT_EMOTION_ROCK'N_ROLL_CIRCUS_TOUR_1986.11.11〜1987.02.24.md "wikilink")』（2004年）、ビデオ『[GIGS at BUDOKAN BEAT EMOTION ROCK'N ROLL CIRCUS TOUR 1986.11.11〜1987.02.24](../Page/GIGS_at_BUDOKAN_BEAT_EMOTION_ROCK'N_ROLL_CIRCUS_TOUR_1986.11.11〜1987.02.24_\(Video\).md "wikilink")』としてリリースされている。
 
 ## 批評
 

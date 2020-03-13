@@ -79,7 +79,7 @@
 
 <!-- end list -->
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
       - 3月23日、初のDVD「NITRO REFLECTIONS」を発売\[3\]。
       - 12月3日、特定非営利活動法人[ほっとけない世界のまずしさ](https://ja.wikipedia.org/wiki/ほっとけない世界のまずしさ "wikilink")が主催した[ホワイトバンドプロジェクト](../Page/ホワイトバンドプロジェクト.md "wikilink")に参加。スチールポートレート冊子や、[さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")にて開催されたイベントWhite Band FES.に出演。
 
@@ -104,7 +104,7 @@
 
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")
       - 7月16日、「SPECIAL FORCE ツアー」のライブ映像を収録したDVD『SPECIAL FORCE TOUR』をリリース。
-      - 初の[アジア](https://ja.wikipedia.org/wiki/アジア "wikilink")ツアーの第一弾である「NITRO IN KINDOM OF THAILAND」を敢行。 NIKE JAPANとNIKE THAILANDのバックアップのもと[バンコク](../Page/バンコク.md "wikilink")にてライブを行った。
+      - 初の[アジア](../Page/アジア.md "wikilink")ツアーの第一弾である「NITRO IN KINDOM OF THAILAND」を敢行。 NIKE JAPANとNIKE THAILANDのバックアップのもと[バンコク](../Page/バンコク.md "wikilink")にてライブを行った。
       - 渋谷ON AIR EASTで「NITROCAMP ’08」開催。
       - 12月31日、EP『BACK AGAIN』を発売。アメリカの自動車メーカー[クライスラー](../Page/クライスラー.md "wikilink")の車種[ダッジ・ナイトロ](https://ja.wikipedia.org/wiki/ダッジ・ナイトロ "wikilink")のイメージソング「COME AGAIN」を収録。
 
@@ -208,12 +208,12 @@ DABOとMACKA-CHINによるユニット。2003年、[ラッパ我リヤ](../Page/
 
 ### DVD
 
-| 発売日                                                          | タイトル                                            | レーベル       | 備考 |
-| ------------------------------------------------------------ | ----------------------------------------------- | ---------- | -- |
-| [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")3月23日 | **NITRO REFLECTIONS**                           | コロムビア      |    |
-| [2007年](../Page/2007年.md "wikilink")9月19日                    | **The Chronicle**                               | DVD+CDの2枚組 |    |
-| [2009年](../Page/2009年.md "wikilink")11月25日                   | **NITRO CAMP '09 *10TH ANNIVERSARY SPECIAL***   |            |    |
-| [2012年](../Page/2012年.md "wikilink")5月30日                    | **NITRO MICROPHONE UNDERGROUND LIVE DVD 10-11** |            |    |
+| 発売日                                        | タイトル                                            | レーベル       | 備考 |
+| ------------------------------------------ | ----------------------------------------------- | ---------- | -- |
+| [2005年](../Page/2005年.md "wikilink")3月23日  | **NITRO REFLECTIONS**                           | コロムビア      |    |
+| [2007年](../Page/2007年.md "wikilink")9月19日  | **The Chronicle**                               | DVD+CDの2枚組 |    |
+| [2009年](../Page/2009年.md "wikilink")11月25日 | **NITRO CAMP '09 *10TH ANNIVERSARY SPECIAL***   |            |    |
+| [2012年](../Page/2012年.md "wikilink")5月30日  | **NITRO MICROPHONE UNDERGROUND LIVE DVD 10-11** |            |    |
 
 ### MABO
 
@@ -230,7 +230,7 @@ DABOとMACKA-CHINによるユニット。2003年、[ラッパ我リヤ](../Page/
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a>6月8日</p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a>6月8日</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
 <p>デラコスタ</p>
@@ -287,7 +287,7 @@ DABOとMACKA-CHINによるユニット。2003年、[ラッパ我リヤ](../Page/
 
 <!-- end list -->
 
-  - SUIKEN×S-WORD - 『**HYBRID LINK**』（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月20日](../Page/7月20日.md "wikilink")、acehigh records）
+  - SUIKEN×S-WORD - 『**HYBRID LINK**』（[2005年](../Page/2005年.md "wikilink")[7月20日](../Page/7月20日.md "wikilink")、acehigh records）
 
 <!-- end list -->
 
@@ -329,7 +329,7 @@ DABOとMACKA-CHINによるユニット。2003年、[ラッパ我リヤ](../Page/
 <td><p>62位</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a>2月16日</p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a>2月16日</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
 <p>MONTIEN II</p>

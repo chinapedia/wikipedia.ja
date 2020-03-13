@@ -37,8 +37,8 @@
   - [ぷり☆すて RETURN](../Page/ツバサ・クロニクル_由依&美香のぷり☆すて.md "wikilink")
   - [良子と羽衣の姫様放送局](../Page/良子と羽衣の姫様放送局.md "wikilink")
   - [あさラジ。](../Page/あさラジ。.md "wikilink")
-  - [アリカ&ニナの乙女ちっくレディオ](https://ja.wikipedia.org/wiki/アリカ&ニナの乙女ちっくレディオ "wikilink")（再放送）
-  - [嗚呼、クラスター学園\!](https://ja.wikipedia.org/wiki/CLUSTER_EDGE "wikilink")（アンコール放送）
+  - [アリカ&ニナの乙女ちっくレディオ](../Page/アリカ&ニナの乙女ちっくレディオ.md "wikilink")（再放送）
+  - [嗚呼、クラスター学園\!](../Page/CLUSTER_EDGE.md "wikilink")（アンコール放送）
   - [千葉紗子の地獄探偵局](https://ja.wikipedia.org/wiki/千葉紗子の地獄探偵局 "wikilink")
   - [すももらじお](../Page/すももらじお.md "wikilink")
   - [そらいろらじお](https://ja.wikipedia.org/wiki/sola "wikilink")
@@ -54,7 +54,7 @@
   - [狂乱家族計画](https://ja.wikipedia.org/wiki/進め!狂乱電波日記 "wikilink")
   - [ケロロとギロロの地球侵略ラヂオ](../Page/ケロロとギロロの地球侵略ラヂオ.md "wikilink")
   - [コードギアス はんぎゃく日記](../Page/コードギアス_はんぎゃく日記.md "wikilink")
-  - [くろかみ 〜Radioシステム〜](https://ja.wikipedia.org/wiki/黒神 "wikilink")
+  - [くろかみ 〜Radioシステム〜](../Page/黒神.md "wikilink")
   - [こじからじお](../Page/こじからじお.md "wikilink")
   - [超アニメ研究ステーション えもらぼ](../Page/超アニメ研究ステーション_えもらぼ.md "wikilink")
   - [宇宙（そら）をかけるラジオ](https://ja.wikipedia.org/wiki/宇宙をかける少女 "wikilink")

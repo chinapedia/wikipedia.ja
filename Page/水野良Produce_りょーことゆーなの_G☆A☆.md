@@ -1,7 +1,7 @@
 > この記事は[Produce  GA](https://ja.wikipedia.org/wiki/Produce__GA)から翻訳されています。
 
 
-**Broccoli The Night 水野良Produce りょーことゆーなの G☆A☆**（ブロッコリーザナイト みずのりょうプロデュース りょーことゆーなの ジーエー）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[8月5日](../Page/8月5日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[ラジオ関西](../Page/ラジオ関西.md "wikilink")（本放送）と[音泉](../Page/音泉.md "wikilink")（再配信）で放送・配信されていたラジオ番組。全35回。前番組の[かないみか](../Page/かないみか.md "wikilink")と[森訓久](../Page/森訓久.md "wikilink")が担当していた「[Broccoli The Night みか・もりしゃんのGamers Amusement Station](https://ja.wikipedia.org/wiki/Broccoli_The_Night_みか・もりしゃんのGamers_Amusement_Station "wikilink")」とは一転した[ギャラクシーエンジェル](../Page/ギャラクシーエンジェル.md "wikilink")関連の番組に変わった。
+**Broccoli The Night 水野良Produce りょーことゆーなの G☆A☆**（ブロッコリーザナイト みずのりょうプロデュース りょーことゆーなの ジーエー）は、[2005年](../Page/2005年.md "wikilink")[8月5日](../Page/8月5日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[ラジオ関西](../Page/ラジオ関西.md "wikilink")（本放送）と[音泉](../Page/音泉.md "wikilink")（再配信）で放送・配信されていたラジオ番組。全35回。前番組の[かないみか](../Page/かないみか.md "wikilink")と[森訓久](../Page/森訓久.md "wikilink")が担当していた「[Broccoli The Night みか・もりしゃんのGamers Amusement Station](https://ja.wikipedia.org/wiki/Broccoli_The_Night_みか・もりしゃんのGamers_Amusement_Station "wikilink")」とは一転した[ギャラクシーエンジェル](../Page/ギャラクシーエンジェル.md "wikilink")関連の番組に変わった。
 
 ## 番組概要
 
@@ -18,7 +18,7 @@
 
 ### 配信曜日など
 
-  - 放送期間：[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[8月5日](../Page/8月5日.md "wikilink")～[2006年](../Page/2006年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")（全35回・8ヶ月）
+  - 放送期間：[2005年](../Page/2005年.md "wikilink")[8月5日](../Page/8月5日.md "wikilink")～[2006年](../Page/2006年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")（全35回・8ヶ月）
   - 放送：[ラジオ関西](../Page/ラジオ関西.md "wikilink")：毎週[金曜日](../Page/金曜日.md "wikilink")27:30\~28:00（＝土曜3:30\~4:00）
   - 配信：[音泉](../Page/音泉.md "wikilink")：毎週木曜日（本放送より6日遅れで配信）
   - [スポンサー](../Page/スポンサー.md "wikilink")：[BROCCOLI](../Page/ブロッコリー_\(企業\).md "wikilink")
@@ -235,35 +235,35 @@
 <tr class="odd">
 <td><p>01</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/8月5日.md" title="wikilink">8月5日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/8月5日.md" title="wikilink">8月5日</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>02</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/8月12日.md" title="wikilink">8月12日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/8月12日.md" title="wikilink">8月12日</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>03</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/8月19日.md" title="wikilink">8月19日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/8月19日.md" title="wikilink">8月19日</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>04</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/8月26日.md" title="wikilink">8月26日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/8月26日.md" title="wikilink">8月26日</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>05</p></td>
 <td><p>けん玉を大皿・小皿・後ろ皿に乗せる（サドンデス）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/9月2日.md" title="wikilink">9月2日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/9月2日.md" title="wikilink">9月2日</a></p></td>
 <td><p>×</p></td>
 <td><ul>
 <li>良子と優奈の交互でけん玉の玉を乗せていく</li>
@@ -273,7 +273,7 @@
 <tr class="even">
 <td><p>06</p></td>
 <td><p>お題合わせてぴっ単語</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/9月9日.md" title="wikilink">9月9日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/9月9日.md" title="wikilink">9月9日</a></p></td>
 <td><p>○</p></td>
 <td><ul>
 <li>出されたお題に水野と一緒にならなければクリア（桜葉姉妹・水野の答えが不一致ならOK）</li>
@@ -284,7 +284,7 @@
 <tr class="odd">
 <td><p>07</p></td>
 <td><p>「～の～」という言葉を使って<a href="https://ja.wikipedia.org/wiki/しりとり" title="wikilink">しりとり</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/9月16日.md" title="wikilink">9月16日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/9月16日.md" title="wikilink">9月16日</a></p></td>
 <td><p>×</p></td>
 <td><ul>
 <li>制限時間1分で合計10問×2（桜葉姉妹で2回挑戦）</li>
@@ -298,7 +298,7 @@
 <tr class="even">
 <td><p>08</p></td>
 <td><p>お互い1～10までの数字を相手に見えないように書いて相手の数字を当て合う</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/9月23日.md" title="wikilink">9月23日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/9月23日.md" title="wikilink">9月23日</a></p></td>
 <td><p>×</p></td>
 <td><ul>
 <li>水野vs桜葉姉妹</li>
@@ -308,7 +308,7 @@
 <tr class="odd">
 <td><p>09</p></td>
 <td><p>教えて花言葉（各メンバーの誕生日の花の種類に関してのクイズを3択）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/9月30日.md" title="wikilink">9月30日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/9月30日.md" title="wikilink">9月30日</a></p></td>
 <td><p>×</p></td>
 <td><ul>
 <li>3問中1問のため</li>
@@ -320,7 +320,7 @@
 <tr class="even">
 <td><p>10</p></td>
 <td><p>ジャストサーティーセカンズ（電話がかけ、留守電モードになるので丁度30秒になるように合わせて残す。前後1秒は可）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/10月7日.md" title="wikilink">10月7日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/10月7日.md" title="wikilink">10月7日</a></p></td>
 <td><p>×（優奈）</p></td>
 <td><ul>
 <li>桜葉姉妹の対決で優奈25秒、良子29秒で優奈が罰ゲーム</li>
@@ -330,7 +330,7 @@
 <tr class="odd">
 <td><p>11</p></td>
 <td><p>大久保（宇治）の聖徳太子ゲーム</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/10月14日.md" title="wikilink">10月14日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/10月14日.md" title="wikilink">10月14日</a></p></td>
 <td><p>○</p></td>
 <td><ul>
 <li>似たような言葉を姉妹が同時に叫び、それを水野が答える。正解数50%以上なら水野の勝ち、以下なら姉妹の勝ち</li>
@@ -347,7 +347,7 @@
 <tr class="even">
 <td><p>12</p></td>
 <td><p><a href="../Page/早口言葉.md" title="wikilink">早口言葉</a>（各3回）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/10月21日.md" title="wikilink">10月21日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/10月21日.md" title="wikilink">10月21日</a></p></td>
 <td><p>×</p></td>
 <td><ul>
 <li>「<a href="https://ja.wikipedia.org/wiki/東京特許許可局" title="wikilink">東京特許許可局</a>」（良：○）</li>
@@ -361,7 +361,7 @@
 <tr class="odd">
 <td><p>13</p></td>
 <td><p>絶叫エンジェルボイス</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/10月28日" title="wikilink">10月28日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/10月28日" title="wikilink">10月28日</a></p></td>
 <td><p>○（桜葉姉妹の勝利）</p></td>
 <td><ul>
 <li>お題にあった言葉を一息で出来るだけ長く叫ぶ（秒数競い）</li>
@@ -376,7 +376,7 @@
 <tr class="even">
 <td><p>14</p></td>
 <td><p>ダイナマイト文字数しりとり</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/11月4日.md" title="wikilink">11月4日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/11月4日.md" title="wikilink">11月4日</a></p></td>
 <td><p>○（桜葉姉妹の勝利）</p></td>
 <td><ul>
 <li>爆弾風タイマー（40秒でカチッと音がなる）を使ってしりとりを言い、言えたら次の人に渡す（水→良・優→水…の交代交代）。その時に爆弾を持っていたチームの負け。尚、文字数は1本目は2文字、2本目3文字、3本目4文字で対決する</li>
@@ -388,7 +388,7 @@
 <tr class="odd">
 <td><p>15</p></td>
 <td><p>限定パピプペポゲーム</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/11月11日.md" title="wikilink">11月11日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/11月11日.md" title="wikilink">11月11日</a></p></td>
 <td><p>○（桜葉姉妹の勝利）</p></td>
 <td><ul>
 <li>出てくる言葉をパピプペポだけを使って相手に伝える。桜葉姉妹vsミュージカル（小出・中山）で1分間以内に多く答えたほうが勝ち（前半・後半30秒交代）</li>
@@ -398,7 +398,7 @@
 <tr class="even">
 <td><p>16</p></td>
 <td><p>アドリブエンジェル</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/11月18日.md" title="wikilink">11月18日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/11月18日.md" title="wikilink">11月18日</a></p></td>
 <td><p>×</p></td>
 <td><ul>
 <li>出てきた単語を使って3つ以上の文章にする。制限時間30秒（桜葉姉妹vs蘭花・ちとせ）</li>
@@ -409,7 +409,7 @@
 <tr class="odd">
 <td><p>17</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/11月25日.md" title="wikilink">11月25日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/11月25日.md" title="wikilink">11月25日</a></p></td>
 <td></td>
 <td></td>
 </tr>

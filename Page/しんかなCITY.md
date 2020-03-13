@@ -60,7 +60,7 @@
 
 ## 関連項目
 
-  - [とくしまCITY](https://ja.wikipedia.org/wiki/とくしまCITY "wikilink")（元系列、閉店）
+  - [とくしまCITY](../Page/とくしまCITY.md "wikilink")（元系列、閉店）
 
 ## 外部リンク
 

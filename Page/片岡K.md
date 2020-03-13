@@ -9,7 +9,7 @@
 
 その後はおもにテレビドラマを中心に活動。『[世にも奇妙な物語](https://ja.wikipedia.org/wiki/世にも奇妙な物語 "wikilink")』や『[学校の階段](../Page/学校の階段.md "wikilink")』などの監督をつとめる。自身が企画したテレビ朝日系深夜ドラマ『[いとしの未来ちゃん](../Page/いとしの未来ちゃん.md "wikilink")』では1クール全11話の脚本・演出を一人で手掛ける。
 
-2004年、[綿矢りさ](https://ja.wikipedia.org/wiki/綿矢りさ "wikilink")原作の『[インストール](https://ja.wikipedia.org/wiki/インストール_\(小説\) "wikilink")』（主演：[上戸彩](https://ja.wikipedia.org/wiki/上戸彩 "wikilink")）で映画監督としてデビュー。
+2004年、[綿矢りさ](https://ja.wikipedia.org/wiki/綿矢りさ "wikilink")原作の『[インストール](../Page/インストール_\(小説\).md "wikilink")』（主演：[上戸彩](https://ja.wikipedia.org/wiki/上戸彩 "wikilink")）で映画監督としてデビュー。
 
 妻は元女優、CMアイドルの[井出薫](../Page/井出薫.md "wikilink")。
 
@@ -52,7 +52,7 @@ BSフジ『[宝島の地図](../Page/宝島の地図.md "wikilink")』内の1コ
     恐い女シリーズ『殴る女』 - フジテレビ
     [世にも奇妙な物語](https://ja.wikipedia.org/wiki/世にも奇妙な物語 "wikilink") 秋の特別編『のどが渇く』 - フジテレビ
     世にも奇妙な物語 聖夜の特別編『ゴリラ』 - フジテレビ
-    [3番テーブルの客](https://ja.wikipedia.org/wiki/3番テーブルの客 "wikilink") - フジテレビ
+    [3番テーブルの客](../Page/3番テーブルの客.md "wikilink") - フジテレビ
     [金魚のフン](https://ja.wikipedia.org/wiki/金魚のフン "wikilink") - テレビ朝日
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")
     [いとしの未来ちゃん](../Page/いとしの未来ちゃん.md "wikilink") - テレビ朝日
@@ -86,10 +86,10 @@ BSフジ『[宝島の地図](../Page/宝島の地図.md "wikilink")』内の1コ
     宝島の地図よっ - BSフジ
     ニセ宝島の地図 - BSフジ
   - [2004年](../Page/2004年.md "wikilink")
-    [インストール](https://ja.wikipedia.org/wiki/インストール_\(小説\) "wikilink") - 映画
+    [インストール](../Page/インストール_\(小説\).md "wikilink") - 映画
     宝島の地図エイト - BSフジ
     宝島の地図セブン - BSフジ
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
     [女優開発プロジェクト ××プロ](../Page/女優開発プロジェクト_××プロ.md "wikilink") -テレビ朝日、[BS朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")
     [正しい恋愛のススメ](../Page/正しい恋愛のススメ.md "wikilink") - TBS
   - [2006年](../Page/2006年.md "wikilink")

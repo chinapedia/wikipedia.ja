@@ -1,7 +1,7 @@
 > この記事は[GI TURFWILD](https://ja.wikipedia.org/wiki/GI_TURFWILD)から翻訳されています。
 
 
-**GI TURFWILD**（ジーワンターフワイルド）とは[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")の[メダルゲーム](../Page/メダルゲーム.md "wikilink")で、[競馬](../Page/競馬.md "wikilink")ゲームとして[2003年](../Page/2003年.md "wikilink")に発売された。[2004年](../Page/2004年.md "wikilink")にはGI TURFWILD2が、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")にはGI TURFWILD3が発売された。
+**GI TURFWILD**（ジーワンターフワイルド）とは[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")の[メダルゲーム](../Page/メダルゲーム.md "wikilink")で、[競馬](../Page/競馬.md "wikilink")ゲームとして[2003年](../Page/2003年.md "wikilink")に発売された。[2004年](../Page/2004年.md "wikilink")にはGI TURFWILD2が、[2005年](../Page/2005年.md "wikilink")にはGI TURFWILD3が発売された。
 
 継続的なプレイのために、ICカードを利用した情報保存システム（[e-AMUSEMENT](https://ja.wikipedia.org/wiki/e-AMUSEMENT "wikilink")）を採用している。
 

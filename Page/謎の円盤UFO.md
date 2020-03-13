@@ -3,7 +3,7 @@
 
 『**謎の円盤UFO**』（なぞのえんばん ユー・エフ・オー、原題**UFO**）は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[APフィルムズ](https://ja.wikipedia.org/wiki/APフィルムズ "wikilink")（後の21世紀プロダクション）が製作した[SF](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")[特撮](../Page/特撮.md "wikilink")ドラマである。
 
-[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")10月3日から[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")3月27日まで[日本テレビ系列局で放送され](../Page/日本テレビ放送網.md "wikilink")「[UFO](../Page/未確認飛行物体.md "wikilink")」という言葉を一般に紹介する先駆的役割を果たした。
+[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[1970年](../Page/1970年.md "wikilink")10月3日から[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")3月27日まで[日本テレビ系列局で放送され](../Page/日本テレビ放送網.md "wikilink")「[UFO](../Page/未確認飛行物体.md "wikilink")」という言葉を一般に紹介する先駆的役割を果たした。
 
 ## 作品概要
 
@@ -335,7 +335,7 @@ DVD<br />
 ## 日本版レコード
 
   - A面：「謎の円盤UFO」
-    作詞：[藤川桂介](https://ja.wikipedia.org/wiki/藤川桂介 "wikilink") / 作曲・編曲：[小野崎孝輔](https://ja.wikipedia.org/wiki/小野崎孝輔 "wikilink") / 唄：[若子内悦郎](../Page/若子内悦郎.md "wikilink")
+    作詞：[藤川桂介](../Page/藤川桂介.md "wikilink") / 作曲・編曲：[小野崎孝輔](https://ja.wikipedia.org/wiki/小野崎孝輔 "wikilink") / 唄：[若子内悦郎](../Page/若子内悦郎.md "wikilink")
   - B面：「シャドーのマーチ」
     作詞：藤川桂介 / 作曲・編曲：小野崎孝輔 / 唄：若子内悦郎
     発売：[CBSソニー](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink") (SOGA-79003)

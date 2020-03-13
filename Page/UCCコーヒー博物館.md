@@ -46,8 +46,8 @@
 
 ## 周辺情報
 
-  - [神戸市立青少年科学館](https://ja.wikipedia.org/wiki/神戸市立青少年科学館 "wikilink")
-  - [神戸コンベンションコンプレックス](https://ja.wikipedia.org/wiki/神戸コンベンションコンプレックス "wikilink")
+  - [神戸市立青少年科学館](../Page/神戸市立青少年科学館.md "wikilink")
+  - [神戸コンベンションコンプレックス](../Page/神戸コンベンションコンプレックス.md "wikilink")
   - [ワールド本社](../Page/ワールド_\(企業\).md "wikilink")
   - [神戸ポートターミナル](../Page/神戸ポートターミナル.md "wikilink")
 

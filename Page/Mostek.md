@@ -23,7 +23,7 @@ Mostek創設者の一人 Robert Proebsting は、DRAMのアドレス・マルチ
 
 Mostekは1970年代にはよく知られた半導体工場となっていた。たとえば、[フェアチャイルドの](../Page/フェアチャイルドセミコンダクター.md "wikilink")[F8プロセッサを構成するふたつのチップ](https://ja.wikipedia.org/wiki/フェアチャイルド_F8 "wikilink")（3850 と 3851）をひとつのチップにした Mostek 3870 を1977年に製造した。フェアチャイルドは後に3870のライセンスをMostekから供給された。また、要求に応じて[ROMも作り](https://ja.wikipedia.org/wiki/Read_Only_Memory "wikilink")、電子オルガン用のチップも製造した。
 
-Mostekはまた、[ザイログ](../Page/ザイログ.md "wikilink")が工場を持っていなかった時期、ザイログの工場でもあった。[Z80](../Page/Z80.md "wikilink") もその周辺チップも、ザイログが自前の工場を建設するまでMostekが製造していた。 Z80は最も人気のあるマイクロプロセッサとなり、組み込みシステムから[CP/M](https://ja.wikipedia.org/wiki/CP/M "wikilink")を使ったコンピュータまで使われた。 その後、Mostekは Z80 から [Intel 8086](../Page/Intel_8086.md "wikilink") のチップセットの製造、さらに[モトローラ](../Page/モトローラ.md "wikilink")[68000ファミリと](../Page/MC68000.md "wikilink")[VME関連へと主軸を移していった](https://ja.wikipedia.org/wiki/VMEバス "wikilink")。
+Mostekはまた、[ザイログ](../Page/ザイログ.md "wikilink")が工場を持っていなかった時期、ザイログの工場でもあった。[Z80](../Page/Z80.md "wikilink") もその周辺チップも、ザイログが自前の工場を建設するまでMostekが製造していた。 Z80は最も人気のあるマイクロプロセッサとなり、組み込みシステムから[CP/M](https://ja.wikipedia.org/wiki/CP/M "wikilink")を使ったコンピュータまで使われた。 その後、Mostekは Z80 から [Intel 8086](../Page/Intel_8086.md "wikilink") のチップセットの製造、さらに[モトローラ](../Page/モトローラ.md "wikilink")[68000ファミリと](../Page/MC68000.md "wikilink")[VME関連へと主軸を移していった](../Page/VMEバス.md "wikilink")。
 
 Mostekは1979年に Poly 5 プロセスを導入した。これは最初の完全注入式プロセスであり、ウェハーの各層を全てイオン注入機で製造する。このための5番目の工場が建設された。
 

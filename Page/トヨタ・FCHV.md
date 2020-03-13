@@ -13,7 +13,7 @@
 
 2002年当時のホンダ・FCXがカナダの[バラード社製スタックを搭載し車両を発表したように](../Page/バラード・パワー・システムズ.md "wikilink")、他自動車メーカーが[燃料電池](../Page/燃料電池.md "wikilink")専門メーカー製のスタックを搭載する中、自社製スタックを搭載、技術力をアピールしたが、一般への認知度は低い。
 
-その他、ボディーパネルの一部[アルミ化や](../Page/アルミニウム.md "wikilink")、[リヤスポイラー](https://ja.wikipedia.org/wiki/エアロパーツ "wikilink")・床下フラット等による空力特性の改善、[フロンガス](https://ja.wikipedia.org/wiki/フロンガス "wikilink")を使用しないCO2エアコンを搭載する等、新規技術を多数織り込んでいる。
+その他、ボディーパネルの一部[アルミ化や](../Page/アルミニウム.md "wikilink")、[リヤスポイラー](../Page/エアロパーツ.md "wikilink")・床下フラット等による空力特性の改善、[フロンガス](https://ja.wikipedia.org/wiki/フロンガス "wikilink")を使用しないCO2エアコンを搭載する等、新規技術を多数織り込んでいる。
 
 氷点下30度の低温環境で起動・走行試験が可能だが、燃料電池自動車の弱点である凍結の問題はクリアーできていない。
 
@@ -42,7 +42,7 @@
       - 9月：FCHVアドバンスドの限定リース販売を開始
   - 2011年1月
       - 第87回[東京箱根間往復大学駅伝競走](../Page/東京箱根間往復大学駅伝競走.md "wikilink")（箱根駅伝）で緊急対応車両を務める。
-      - 水素供給・利用技術研究組合（HySUT）の水素ハイウェイプロジェクトに参加、松崎（まんざき）交通（[ベイサイドホールディングス](https://ja.wikipedia.org/wiki/ベイサイドホールディングス "wikilink")グループ）に貸与して[ハイヤー](https://ja.wikipedia.org/wiki/ハイヤー "wikilink")としての実証運行を開始。[1](http://hysut.or.jp/topics/highway20110121.pdf)
+      - 水素供給・利用技術研究組合（HySUT）の水素ハイウェイプロジェクトに参加、松崎（まんざき）交通（[ベイサイドホールディングス](https://ja.wikipedia.org/wiki/ベイサイドホールディングス "wikilink")グループ）に貸与して[ハイヤー](../Page/ハイヤー.md "wikilink")としての実証運行を開始。[1](http://hysut.or.jp/topics/highway20110121.pdf)
 
 ## 仕様
 
@@ -80,7 +80,7 @@
 <!-- end list -->
 
   -
-    2002年の[東京モーターショー](../Page/東京モーターショー.md "wikilink")で一般公開される。燃料電池スタックを90kWのものを2組に、水素タンクは容量は150リットル5基のままだが充填圧力が35MPaに増強、設計上の航続距離は250kmを確保した。[国土交通大臣](../Page/国土交通大臣.md "wikilink")認定を受けて2003年8月から2004年12月まで[東京都交通局](../Page/東京都交通局.md "wikilink")に1台が貸し出され、[都営バス深川営業所](https://ja.wikipedia.org/wiki/都営バス深川営業所 "wikilink")の[路線バス](../Page/路線バス.md "wikilink")として東16系統（[東京駅](https://ja.wikipedia.org/wiki/東京駅 "wikilink") - [豊洲駅](../Page/豊洲駅.md "wikilink") - [東京ビッグサイト](../Page/東京国際展示場.md "wikilink")）と海01系統（[門前仲町](../Page/門前仲町.md "wikilink") - 豊洲駅 - [東京テレポート駅](https://ja.wikipedia.org/wiki/東京テレポート駅 "wikilink")）を中心に運行された。
+    2002年の[東京モーターショー](../Page/東京モーターショー.md "wikilink")で一般公開される。燃料電池スタックを90kWのものを2組に、水素タンクは容量は150リットル5基のままだが充填圧力が35MPaに増強、設計上の航続距離は250kmを確保した。[国土交通大臣](../Page/国土交通大臣.md "wikilink")認定を受けて2003年8月から2004年12月まで[東京都交通局](../Page/東京都交通局.md "wikilink")に1台が貸し出され、[都営バス深川営業所](../Page/都営バス深川営業所.md "wikilink")の[路線バス](../Page/路線バス.md "wikilink")として東16系統（[東京駅](https://ja.wikipedia.org/wiki/東京駅 "wikilink") - [豊洲駅](../Page/豊洲駅.md "wikilink") - [東京ビッグサイト](../Page/東京国際展示場.md "wikilink")）と海01系統（[門前仲町](../Page/門前仲町.md "wikilink") - 豊洲駅 - [東京テレポート駅](https://ja.wikipedia.org/wiki/東京テレポート駅 "wikilink")）を中心に運行された。
 
 <!-- end list -->
 

@@ -1,13 +1,13 @@
 > この記事は[!ABC](https://ja.wikipedia.org/wiki/!ABC)から翻訳されています。
 
 
-『**体験\!メディアのABC**』（たいけん メディアのエービーシー）は、[2001年](../Page/2001年.md "wikilink")[4月9日](../Page/4月9日.md "wikilink")から[2004年](../Page/2004年.md "wikilink")[3月19日](../Page/3月19日.md "wikilink")まで[NHK教育テレビで放送されていた小学校高学年向け](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")\[1\]の[学校放送](../Page/学校放送.md "wikilink")（教科：[総合学習](../Page/総合的な学習の時間.md "wikilink")\[2\]）である。
+『**体験\!メディアのABC**』（たいけん メディアのエービーシー）は、[2001年](../Page/2001年.md "wikilink")[4月9日](../Page/4月9日.md "wikilink")から[2004年](../Page/2004年.md "wikilink")[3月19日](../Page/3月19日.md "wikilink")まで[NHK教育テレビで放送されていた小学校高学年向け](../Page/NHK教育テレビジョン.md "wikilink")\[1\]の[学校放送](../Page/学校放送.md "wikilink")（教科：[総合学習](../Page/総合的な学習の時間.md "wikilink")\[2\]）である。
 
 ## 概要
 
 子供たちの[メディア・リテラシー](../Page/メディア・リテラシー.md "wikilink")教育に主眼を置いた番組。リポーターの[大沢あかね](https://ja.wikipedia.org/wiki/大沢あかね "wikilink")と[中谷日出](../Page/中谷日出.md "wikilink")が各種メディアで使われている技法・手法を体験取材する「体験コーナー」と、マスメディアに携わる人物がどのような仕事をしているのかを紹介する「メディアのプロコーナー」で構成されていた\[3\]。
 
-番組は2000年12月25日に一度[パイロット版](../Page/パイロット版.md "wikilink")を放送した後（後日に[再放送](https://ja.wikipedia.org/wiki/再放送 "wikilink")あり）、2001年4月にレギュラー放送を開始した。
+番組は2000年12月25日に一度[パイロット版](../Page/パイロット版.md "wikilink")を放送した後（後日に[再放送](../Page/再放送.md "wikilink")あり）、2001年4月にレギュラー放送を開始した。
 
 ## 放送時間
 

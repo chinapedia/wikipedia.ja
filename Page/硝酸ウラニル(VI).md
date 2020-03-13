@@ -5,7 +5,7 @@
 
 ` }}`
 
-| Section7 =  | Section8 =  }} **硝酸ウラニル(VI)**（しょうさんウラニル ろく、）は、[化学式](../Page/化学式.md "wikilink") UO<sub>2</sub>(NO<sub>3</sub>)<sub>2</sub> と表される[ウラニル](https://ja.wikipedia.org/wiki/ウラニル "wikilink")の[硝酸](../Page/硝酸.md "wikilink")塩である。ウランは[重金属](../Page/重金属.md "wikilink")なので、硝酸ウラニル(VI)は人に対して重金属一般の毒性を示す。また、[窯業](https://ja.wikipedia.org/wiki/窯業 "wikilink")、ガラス工業の顔料、[写真](../Page/写真.md "wikilink")の[増感剤](https://ja.wikipedia.org/wiki/増感剤 "wikilink")などにも利用される。
+| Section7 =  | Section8 =  }} **硝酸ウラニル(VI)**（しょうさんウラニル ろく、）は、[化学式](../Page/化学式.md "wikilink") UO<sub>2</sub>(NO<sub>3</sub>)<sub>2</sub> と表される[ウラニル](https://ja.wikipedia.org/wiki/ウラニル "wikilink")の[硝酸](../Page/硝酸.md "wikilink")塩である。ウランは[重金属](../Page/重金属.md "wikilink")なので、硝酸ウラニル(VI)は人に対して重金属一般の毒性を示す。また、[窯業](../Page/窯業.md "wikilink")、ガラス工業の顔料、[写真](../Page/写真.md "wikilink")の[増感剤](https://ja.wikipedia.org/wiki/増感剤 "wikilink")などにも利用される。
 
 ## 水和物
 
@@ -15,7 +15,7 @@
 
 ## 放射性
 
-消防法[危険物第1類酸化性固体として規制を受ける](https://ja.wikipedia.org/wiki/危険物#第1類 "wikilink")。また[原子力基本法](https://ja.wikipedia.org/wiki/原子力基本法 "wikilink")に[核原料物質](https://ja.wikipedia.org/wiki/核原料物質 "wikilink")として定められている。またウランの[同位体](../Page/同位体.md "wikilink")はいずれも放射線を発するので[放射性同位元素等による放射線障害の防止に関する法律](https://ja.wikipedia.org/wiki/放射性同位元素等による放射線障害の防止に関する法律 "wikilink")（[放射性同位元素](https://ja.wikipedia.org/wiki/放射性同位元素 "wikilink")）等の規制を受ける。
+消防法[危険物第1類酸化性固体として規制を受ける](https://ja.wikipedia.org/wiki/危険物#第1類 "wikilink")。また[原子力基本法](../Page/原子力基本法.md "wikilink")に[核原料物質](https://ja.wikipedia.org/wiki/核原料物質 "wikilink")として定められている。またウランの[同位体](../Page/同位体.md "wikilink")はいずれも放射線を発するので[放射性同位元素等による放射線障害の防止に関する法律](https://ja.wikipedia.org/wiki/放射性同位元素等による放射線障害の防止に関する法律 "wikilink")（[放射性同位元素](https://ja.wikipedia.org/wiki/放射性同位元素 "wikilink")）等の規制を受ける。
 
 また、<sup>235</sup>U 等を天然存在比以上の高濃度に含む場合は、[核原料物質、核燃料物質及び原子炉の規制に関する法律](../Page/核原料物質、核燃料物質及び原子炉の規制に関する法律.md "wikilink")の[核燃料物質](https://ja.wikipedia.org/wiki/核燃料物質 "wikilink")としての規制を受ける。
 

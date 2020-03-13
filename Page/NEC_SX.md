@@ -73,7 +73,7 @@ SX-4と同様にCMOSを採用、集積化を進めチップの処理速度向上
 
 [アーキテクチャはSX](../Page/コンピュータ・アーキテクチャ.md "wikilink")-3以前(SX-2まで)とそれ以降は多少差はあるが、ここでは全体的な特徴について説明する。大きく分けて2つのユニットから構成されている、非対称密結合マルチプロセッサ構成をとっている。また同時期に開発された他系統の機種と比較すると、[日立のもの](../Page/日立製作所.md "wikilink")（HITAC S-810）と対照的で、S-810は既存メインフレームの拡張という形態であるのに対し、SXシリーズでは制御部のメインフレームとは分離独立した形態をとった\[9\]。
 
-また、モデル毎に高速化をはかる機能が追加されてきている。たとえば、[パイプラインの増加](https://ja.wikipedia.org/wiki/命令パイプライン "wikilink")、[命令セット](https://ja.wikipedia.org/wiki/命令セット "wikilink")の強化(8[バイト演算命令の追加など](../Page/バイト_\(情報\).md "wikilink"))、データのロード/ストア用のバスの分離や強化などがあげられる。
+また、モデル毎に高速化をはかる機能が追加されてきている。たとえば、[パイプラインの増加](https://ja.wikipedia.org/wiki/命令パイプライン "wikilink")、[命令セット](../Page/命令セット.md "wikilink")の強化(8[バイト演算命令の追加など](../Page/バイト_\(情報\).md "wikilink"))、データのロード/ストア用のバスの分離や強化などがあげられる。
 
 ### 制御プロセッサ(CP)
 
@@ -130,7 +130,7 @@ SX-4では[スーパースカラー化されている](https://ja.wikipedia.org/
 
 #### 命令セット
 
-[命令セット](https://ja.wikipedia.org/wiki/命令セット "wikilink")は3[オペランド形式である](https://ja.wikipedia.org/wiki/被演算子 "wikilink")。演算はすべて[レジスタで行なわれる](../Page/レジスタ_\(コンピュータ\).md "wikilink")。[RISC](../Page/RISC.md "wikilink")風のため、演算[命令とロード](../Page/命令_\(コンピュータ\).md "wikilink")/ストア命令が分かれている(メモリ上のデータをレジスタ上の値と演算を行う命令はない)。
+[命令セット](../Page/命令セット.md "wikilink")は3[オペランド形式である](https://ja.wikipedia.org/wiki/被演算子 "wikilink")。演算はすべて[レジスタで行なわれる](../Page/レジスタ_\(コンピュータ\).md "wikilink")。[RISC](../Page/RISC.md "wikilink")風のため、演算[命令とロード](../Page/命令_\(コンピュータ\).md "wikilink")/ストア命令が分かれている(メモリ上のデータをレジスタ上の値と演算を行う命令はない)。
 
 [スカラ演算用の命令と](https://ja.wikipedia.org/wiki/スカラー "wikilink")[ベクトル演算](https://ja.wikipedia.org/wiki/ベクトル演算 "wikilink")用の命令が分かれている。スカラ演算用の命令(RX型)は1命令1[ワード](../Page/ワード.md "wikilink")(4[バイト](../Page/バイト_\(情報\).md "wikilink"))または2ワード（8バイト）である。1バイトの[オペコード](../Page/オペコード.md "wikilink")の後に、3つのオペランドが続く。オペランドはレジスタ、インデックスレジスタ、あるいは即値である。
 
@@ -148,7 +148,7 @@ SX-4では[スーパースカラー化されている](https://ja.wikipedia.org/
 
 SX-3では、64[ビット](../Page/ビット.md "wikilink")整数演算命令、最大値/最小値検索命令等が追加されている。
 
-SX-4では、浮動小数点演算に、[IBM](../Page/IBM.md "wikilink")形式、[CRAY形式の他に](https://ja.wikipedia.org/wiki/クレイ "wikilink")、[IEEE](../Page/IEEE.md "wikilink")形式もサポートするようになった。
+SX-4では、浮動小数点演算に、[IBM](../Page/IBM.md "wikilink")形式、[CRAY形式の他に](../Page/クレイ.md "wikilink")、[IEEE](../Page/IEEE.md "wikilink")形式もサポートするようになった。
 
 ベクトル命令は、複数のオペランドを持つが、1つのベクトルのオペランドを全て処理してから次のベクトル命令を実行すると処理が遅くなる。SXシリーズでは、1つのベクトルのオペランドが演算を終えた後、次のベクトル命令の処理を開始する機能がハードウェアによって用意されている。このため、ベクトル命令の高速化が可能である。
 
@@ -180,7 +180,7 @@ SX-2、SX-1は、[ACOS-4](../Page/ACOS-4.md "wikilink")をベースとした[SX-
 
 #### SX-3以降のOS
 
-SX-3以降は、[メインフレーム](../Page/メインフレーム.md "wikilink")ベースの[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink") (OS) をやめ、[UNIX](../Page/UNIX.md "wikilink")ベース([System V](https://ja.wikipedia.org/wiki/UNIX_System_V "wikilink") ベース)のOS、[SUPER-UX](../Page/SUPER-UX.md "wikilink")となった。ベースは System V ではあるが、4.3[BSD](../Page/BSD.md "wikilink")の機能を取り入れ、[ネットワーク関係等が強化されている](../Page/コンピュータネットワーク.md "wikilink")[TCP/IP](https://ja.wikipedia.org/wiki/TCP/IP "wikilink")だけではなく、[OSIへの対応もなされている](https://ja.wikipedia.org/wiki/開放型システム間相互接続 "wikilink")。そのほかの特徴は以下のとおり。
+SX-3以降は、[メインフレーム](../Page/メインフレーム.md "wikilink")ベースの[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink") (OS) をやめ、[UNIX](../Page/UNIX.md "wikilink")ベース([System V](../Page/UNIX_System_V.md "wikilink") ベース)のOS、[SUPER-UX](../Page/SUPER-UX.md "wikilink")となった。ベースは System V ではあるが、4.3[BSD](../Page/BSD.md "wikilink")の機能を取り入れ、[ネットワーク関係等が強化されている](../Page/コンピュータネットワーク.md "wikilink")[TCP/IP](https://ja.wikipedia.org/wiki/TCP/IP "wikilink")だけではなく、[OSIへの対応もなされている](https://ja.wikipedia.org/wiki/開放型システム間相互接続 "wikilink")。そのほかの特徴は以下のとおり。
 
   - [マルチプロセッサ](https://ja.wikipedia.org/wiki/マルチプロセッサ "wikilink")対応
     [カーネル](../Page/カーネル.md "wikilink")の[マルチスレッド](https://ja.wikipedia.org/wiki/マルチスレッド "wikilink")化を行なっている。
@@ -189,15 +189,15 @@ SX-3以降は、[メインフレーム](../Page/メインフレーム.md "wikili
   - オーバレイ機能
     メモリを効率的に使うため、[サブルーチン](../Page/サブルーチン.md "wikilink")単位にオーバレイ機能を使うことが出来る。この機能は[ソースプログラムを変更することなく実行可能である](../Page/ソースコード.md "wikilink")。
   - スケジューリング機能の大幅な変更
-    通常の処理(UNIXコマンドによる対話的な処理)と、数値演算のような[バッチ的な処理のスケジューリングを適切に行うために](https://ja.wikipedia.org/wiki/バッチ処理 "wikilink")、ドメイン、スケジューリンググループという機能を用意している。
+    通常の処理(UNIXコマンドによる対話的な処理)と、数値演算のような[バッチ的な処理のスケジューリングを適切に行うために](../Page/バッチ処理.md "wikilink")、ドメイン、スケジューリンググループという機能を用意している。
       - ドメイン
         会話処理ドメインとバッチ処理ドメインが用意されている。それぞれに対して、CPU配分、メモリ配分を設定できる。
       - スケジューリンググループ
         ユーザ毎にスケジュール方法を設定できる。従来のUNIX風のスケジュール方法の他に、固定的にスケジュールを設定する機能も、バッチ的な処理のために用意されている。
       - [ファイルシステム](../Page/ファイルシステム.md "wikilink")の改良
-        ファイルシステムはs5fs(System V固有のファイルシステム)をベースに改良したSFS(Supercomputing File System)である。このファイルシステムは、基本的なUNIXのファイルシステムをベースに、大量の[入出力](../Page/入出力.md "wikilink") (I/O) に対応するように改良されている。たとえば、I/O単位がブロックをまとめたクラスタ単位である、[カーネル](../Page/カーネル.md "wikilink")の[バッファ](https://ja.wikipedia.org/wiki/バッファ "wikilink")を使わず、直接ユーザ[アプリケーションとI](../Page/アプリケーションソフトウェア.md "wikilink")/Oを行う、仮想ボリューム機能を用いて、ディスク容量より大きな[ファイルを作成できるなどである](../Page/ファイル_\(コンピュータ\).md "wikilink")。
+        ファイルシステムはs5fs(System V固有のファイルシステム)をベースに改良したSFS(Supercomputing File System)である。このファイルシステムは、基本的なUNIXのファイルシステムをベースに、大量の[入出力](../Page/入出力.md "wikilink") (I/O) に対応するように改良されている。たとえば、I/O単位がブロックをまとめたクラスタ単位である、[カーネル](../Page/カーネル.md "wikilink")の[バッファ](../Page/バッファ.md "wikilink")を使わず、直接ユーザ[アプリケーションとI](../Page/アプリケーションソフトウェア.md "wikilink")/Oを行う、仮想ボリューム機能を用いて、ディスク容量より大きな[ファイルを作成できるなどである](../Page/ファイル_\(コンピュータ\).md "wikilink")。
       - NQS機能
-        [バッチ処理](https://ja.wikipedia.org/wiki/バッチ処理 "wikilink")を効率的に行うために、NQS(Network Queuing System)という[ジョブ](https://ja.wikipedia.org/wiki/ジョブ "wikilink")管理システムが提供されている。
+        [バッチ処理](../Page/バッチ処理.md "wikilink")を効率的に行うために、NQS(Network Queuing System)という[ジョブ](https://ja.wikipedia.org/wiki/ジョブ "wikilink")管理システムが提供されている。
 
 SX-4対応のOSでは、SVR4.2MP (System V Release 4.2 MP) 対応になった。また、[並列処理](https://ja.wikipedia.org/wiki/並列処理 "wikilink")も、SX-3ではタスクライブラリという[Fortran指向のライブラリを用意していたが](../Page/FORTRAN.md "wikilink")、SX-4では[POSIXスレッド](https://ja.wikipedia.org/wiki/POSIXスレッド "wikilink")を使えるようになった。また、より並列度が上がるように、粒度を向上したり、アトミック命令が追加されている。
 
@@ -227,7 +227,7 @@ SXシリーズは、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメ
 
 米国などのスーパーコンピュータメーカでは制御系を専用マシンで補わなければならないためこの製作が高額であった。これに対し[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")メーカーは自社の汎用マシンで補い、さらに、SX-3等では小型汎用サーバに置き換える事により大幅な価格差が生じる結果となった。
 
-米国では軍事産業保護の観点からスーパーコンピュータも保護すべき対象となっていた為、安価であった日本のスーパーコンピュータの導入は一向に進まなかった。 後に、米国国内でも安価なスーパーコンピュータが使えない事に抗議の声が上がり、この問題は消え去ることとなった。2001年2月28日に、[日本電気](../Page/日本電気.md "wikilink") (NEC) は[クレイ](https://ja.wikipedia.org/wiki/クレイ "wikilink")社にSXシリーズを[OEM](../Page/OEM.md "wikilink")することで合意している。なお、詳しい経緯については[日米スパコン貿易摩擦](../Page/日米スパコン貿易摩擦.md "wikilink")を参照されたい。
+米国では軍事産業保護の観点からスーパーコンピュータも保護すべき対象となっていた為、安価であった日本のスーパーコンピュータの導入は一向に進まなかった。 後に、米国国内でも安価なスーパーコンピュータが使えない事に抗議の声が上がり、この問題は消え去ることとなった。2001年2月28日に、[日本電気](../Page/日本電気.md "wikilink") (NEC) は[クレイ](../Page/クレイ.md "wikilink")社にSXシリーズを[OEM](../Page/OEM.md "wikilink")することで合意している。なお、詳しい経緯については[日米スパコン貿易摩擦](../Page/日米スパコン貿易摩擦.md "wikilink")を参照されたい。
 
 ## SX シリーズ システム
 

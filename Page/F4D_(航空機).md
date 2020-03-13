@@ -15,7 +15,7 @@
 
 | 生産数=422機 | 生産開始年月日= | 運用開始年月日=[1956年](../Page/1956年.md "wikilink") | 退役年月日=[1964年](../Page/1964年.md "wikilink") | 運用状況=退役 | ユニットコスト= }} **F4D スカイレイ**（*Douglas F4D Skyray* ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ダグラス社が開発し](../Page/ダグラス・エアクラフト.md "wikilink")、1950年代に[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")で運用された[艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink")。
 
-愛称の「**スカイレイ** (Skyray)」は、「空の[エイ](https://ja.wikipedia.org/wiki/エイ "wikilink")」の意。後に命名法則の改正により**F-6 スカイレイ**となった。
+愛称の「**スカイレイ** (Skyray)」は、「空の[エイ](../Page/エイ.md "wikilink")」の意。後に命名法則の改正により**F-6 スカイレイ**となった。
 
 ## 概要
 
@@ -42,7 +42,7 @@
   - F4D-2
     エンジンをJ57-P-14に換装した型。100機発注されるも、キャンセル。
   - F4D-2N
-    F4D-2のレーダーを強化した型。[F5Dに名称変更](https://ja.wikipedia.org/wiki/F5D_\(航空機\) "wikilink")。
+    F4D-2のレーダーを強化した型。[F5Dに名称変更](../Page/F5D_\(航空機\).md "wikilink")。
 
 ## 諸元
 

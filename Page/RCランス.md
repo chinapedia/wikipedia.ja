@@ -1,7 +1,7 @@
 > この記事は[RC](https://ja.wikipedia.org/wiki/RC)から翻訳されています。
 
 
-**ラシン・クルブ・ドゥ・ランス**（**Racing Club de Lens** ）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[パ＝ド＝カレー県](https://ja.wikipedia.org/wiki/パ＝ド＝カレー県 "wikilink")・[ランスに本拠地を置く](../Page/ランス_\(パ＝ド＝カレー県\).md "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。愛称は「**血と黄金**」。
+**ラシン・クルブ・ドゥ・ランス**（**Racing Club de Lens** ）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[パ＝ド＝カレー県](../Page/パ＝ド＝カレー県.md "wikilink")・[ランスに本拠地を置く](../Page/ランス_\(パ＝ド＝カレー県\).md "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。愛称は「**血と黄金**」。
 
 他のフランスのサッカークラブの例にもれず、アフリカの若手選手を獲得しての育成に実績がある。
 
@@ -191,7 +191,7 @@ in
 
   - [ベルナール・ラマ](../Page/ベルナール・ラマ.md "wikilink") 1991-1992
 
-  - [ヴェドラン・ルニェ](https://ja.wikipedia.org/wiki/ヴェドラン・ルニェ "wikilink") 2007-2011
+  - [ヴェドラン・ルニェ](../Page/ヴェドラン・ルニェ.md "wikilink") 2007-2011
 
 ### DF
 

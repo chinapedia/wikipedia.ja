@@ -5,7 +5,7 @@
 
 ## 来歴
 
-1986年に結成。1989年から[東京](../Page/東京.md "wikilink")、[名古屋](../Page/名古屋市.md "wikilink")、[大阪](../Page/大阪.md "wikilink")を中心にライヴ活動し、同年にはシングル「[エヴリデイ](https://ja.wikipedia.org/wiki/エヴリデイ "wikilink")」で[メジャー・デビューし](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")、アルバム『DOKI DOKI』を発表。デビュー前の1989年5月20日には、人気オーディション番組『[三宅裕司のいかすバンド天国](https://ja.wikipedia.org/wiki/三宅裕司のいかすバンド天国 "wikilink")』に出場。その独特の[2ビートが新鮮で高い評価を得て](../Page/ドラム・ビート.md "wikilink")、5代目イカ天キングとなっていた[RABBIT](../Page/RABBIT.md "wikilink")を倒して6代目キングとなった。しかし翌週には[セメントミキサーズ](../Page/セメントミキサーズ.md "wikilink")に倒され、キングに在位したのは1週だけだった。 その後も、2ビートを主体としたポップな曲調でコアな人気を獲得していった。
+1986年に結成。1989年から[東京](../Page/東京.md "wikilink")、[名古屋](../Page/名古屋市.md "wikilink")、[大阪](../Page/大阪.md "wikilink")を中心にライヴ活動し、同年にはシングル「[エヴリデイ](https://ja.wikipedia.org/wiki/エヴリデイ "wikilink")」で[メジャー・デビューし](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")、アルバム『DOKI DOKI』を発表。デビュー前の1989年5月20日には、人気オーディション番組『[三宅裕司のいかすバンド天国](../Page/三宅裕司のいかすバンド天国.md "wikilink")』に出場。その独特の[2ビートが新鮮で高い評価を得て](../Page/ドラム・ビート.md "wikilink")、5代目イカ天キングとなっていた[RABBIT](../Page/RABBIT.md "wikilink")を倒して6代目キングとなった。しかし翌週には[セメントミキサーズ](../Page/セメントミキサーズ.md "wikilink")に倒され、キングに在位したのは1週だけだった。 その後も、2ビートを主体としたポップな曲調でコアな人気を獲得していった。
 
 1990年、「[プレゼント](https://ja.wikipedia.org/wiki/プレゼント_\(JITTERIN'JINNの曲\) "wikilink")」「[にちようび](https://ja.wikipedia.org/wiki/にちようび "wikilink")」「[夏祭り](https://ja.wikipedia.org/wiki/夏祭り_\(JITTERIN'JINNの曲\) "wikilink")」が、立て続けに[ブレイク](https://ja.wikipedia.org/wiki/ブレイク "wikilink")する。特に「にちようび」は週間[オリコンチャート](../Page/オリコンチャート.md "wikilink")において初登場1位を記録し、最大の[ヒット](https://ja.wikipedia.org/wiki/ヒット "wikilink")曲と成った。その後、[ベースパートのメンバーの脱退](../Page/ベース_\(弦楽器\).md "wikilink")、加入を繰り返し、現在はベースにサポートメンバーを迎え、[インディーズ](../Page/インディーズ.md "wikilink")で活動している。
 
@@ -32,7 +32,7 @@
   - **破矢ジンタ（はし ジンタ）**
       -
 
-        生まれ。奈良県大和郡山市出身。ギター・ボーカル担当。多数の楽曲の[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")を手がけている。[エピフォン](https://ja.wikipedia.org/wiki/エピフォン "wikilink")のギターをメインに使用して、かつては「破矢ジンタモデル」として同社のギターである「ソレント」をベースとしたギターが発売されていたこともあった。
+        生まれ。奈良県大和郡山市出身。ギター・ボーカル担当。多数の楽曲の[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")を手がけている。[エピフォン](../Page/エピフォン.md "wikilink")のギターをメインに使用して、かつては「破矢ジンタモデル」として同社のギターである「ソレント」をベースとしたギターが発売されていたこともあった。
   - **入江美由紀（いりえ みゆき）**
       -
 
@@ -781,7 +781,7 @@ COCP-31366</p></td>
 
 ## 関連項目
 
-  - [三宅裕司のいかすバンド天国](https://ja.wikipedia.org/wiki/三宅裕司のいかすバンド天国 "wikilink")
+  - [三宅裕司のいかすバンド天国](../Page/三宅裕司のいかすバンド天国.md "wikilink")
   - [三宅裕司のいかすバンド天国に出場したバンド](../Page/三宅裕司のいかすバンド天国に出場したバンド.md "wikilink")
 
 ## 脚注

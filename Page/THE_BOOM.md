@@ -5,11 +5,11 @@
 
 ## 概要
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")11月結成。「THE BOOM」というバンド名は、「常に流行に左右されず自分たちの音楽を貫いていけるように」という逆説で、ヴォーカルの[宮沢和史](https://ja.wikipedia.org/wiki/宮沢和史 "wikilink")による命名である。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）[7月26日](../Page/7月26日.md "wikilink")より、[原宿](../Page/原宿.md "wikilink")の[ホコ天でバンド活動を始める](https://ja.wikipedia.org/wiki/歩行者天国 "wikilink")。[1988年](../Page/1988年.md "wikilink")（昭和63年）[12月18日](../Page/12月18日.md "wikilink")、ソニーのオーディションに合格、翌[1989年](../Page/1989年.md "wikilink")（平成元年）[5月21日](../Page/5月21日.md "wikilink")、シングル「[君はTVっ子](../Page/君はTVっ子.md "wikilink")」とアルバム『A Peacetime Boom』でメジャーデビュー。代表曲は「[星のラブレター](../Page/星のラブレター.md "wikilink")」（1989年）、「[島唄](../Page/島唄_\(オリジナル・ヴァージョン\).md "wikilink")」（[1993年](../Page/1993年.md "wikilink")）、「[風になりたい](../Page/風になりたい_\(THE_BOOMの曲\).md "wikilink")」（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")）など多数。結成から解散までの28年間で（途中数回の活動休止はあったものの）1度のメンバーチェンジもなかった。1980年代後期のバンドブームでおびただしい数のバンドがデビューする中、ライブでの跳んだり、踊ったり、ステージから観客席に飛び込むなど、派手なパフォーマンスで人気を博した。1990年代初頭まではわりとオーソドックスなロックバンドだったが、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（平成2年）に発表した3枚目のアルバム『[JAPANESKA](../Page/JAPANESKA.md "wikilink")』を転機に、音楽性の幅を広げていく。とりわけ、THE BOOM ＝「島唄」として広く認知されているため、一般には[沖縄のイメージが強いが](../Page/沖縄県.md "wikilink")、初期は陽気で軽快な[スカ](../Page/スカ.md "wikilink")、90年代前半は沖縄、中盤は[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")、現在は[歌謡曲](../Page/歌謡曲.md "wikilink")といった変遷をたどり、それ以降はスカ・ロック・[フォーク](../Page/フォークソング.md "wikilink")・[沖縄民謡](https://ja.wikipedia.org/wiki/沖縄民謡 "wikilink")・ブラジル・や[演歌](../Page/演歌.md "wikilink")の要素を生かしつつ独自の世界を作っており、同時期に複数のジャンルに挑戦している。自身のライブで前座として、[ほるすたいんづ](https://ja.wikipedia.org/wiki/ほるすたいんづ "wikilink")という架空のバンドで演奏することがある。メンバーはボーカル（宮沢）がバター、ギター（小林）がカマンベール、ベース（山川）がカルビ・クッパで、ドラム（栃木）が吉野屋ヒレカツ。オリジナル楽曲は「乳牛なんて」など（CD化はされていない）。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）に[ソニー・ミュージックから](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")[東芝EMIへ所属レコード会社を移籍している](../Page/EMIミュージック・ジャパン.md "wikilink")。公式ファンクラブは「MOOBMENT CLUB」（MOOBMENTのBは、正しくは左右反転の字）である。BOOMを逆から書いたMOOBとMOVEMENTをかけたもの。[2006年](../Page/2006年.md "wikilink")（平成18年）より活動を休止していたが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）に[avex内](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")[FIVE D plusへと所属レコードを再移籍し](https://ja.wikipedia.org/wiki/FIVE_D_plus "wikilink")、[2009年](../Page/2009年.md "wikilink")（平成21年）よりデビュー20周年を記念して、正式に活動が再開された。[2014年](../Page/2014年.md "wikilink")（平成26年）5月21日にはデビュー25周年をむかえたが、2014年3月31日に公式ウェブサイトにて、2014年12月いっぱいで解散することを発表\[1\]\[2\]\[3\]、12月17日の[日本武道館](../Page/日本武道館.md "wikilink")でのラストライブをもって解散した。
+[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")11月結成。「THE BOOM」というバンド名は、「常に流行に左右されず自分たちの音楽を貫いていけるように」という逆説で、ヴォーカルの[宮沢和史](../Page/宮沢和史.md "wikilink")による命名である。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）[7月26日](../Page/7月26日.md "wikilink")より、[原宿](../Page/原宿.md "wikilink")の[ホコ天でバンド活動を始める](../Page/歩行者天国.md "wikilink")。[1988年](../Page/1988年.md "wikilink")（昭和63年）[12月18日](../Page/12月18日.md "wikilink")、ソニーのオーディションに合格、翌[1989年](../Page/1989年.md "wikilink")（平成元年）[5月21日](../Page/5月21日.md "wikilink")、シングル「[君はTVっ子](../Page/君はTVっ子.md "wikilink")」とアルバム『A Peacetime Boom』でメジャーデビュー。代表曲は「[星のラブレター](../Page/星のラブレター.md "wikilink")」（1989年）、「[島唄](../Page/島唄_\(オリジナル・ヴァージョン\).md "wikilink")」（[1993年](../Page/1993年.md "wikilink")）、「[風になりたい](../Page/風になりたい_\(THE_BOOMの曲\).md "wikilink")」（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")）など多数。結成から解散までの28年間で（途中数回の活動休止はあったものの）1度のメンバーチェンジもなかった。1980年代後期のバンドブームでおびただしい数のバンドがデビューする中、ライブでの跳んだり、踊ったり、ステージから観客席に飛び込むなど、派手なパフォーマンスで人気を博した。1990年代初頭まではわりとオーソドックスなロックバンドだったが、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（平成2年）に発表した3枚目のアルバム『[JAPANESKA](../Page/JAPANESKA.md "wikilink")』を転機に、音楽性の幅を広げていく。とりわけ、THE BOOM ＝「島唄」として広く認知されているため、一般には[沖縄のイメージが強いが](../Page/沖縄県.md "wikilink")、初期は陽気で軽快な[スカ](../Page/スカ.md "wikilink")、90年代前半は沖縄、中盤は[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")、現在は[歌謡曲](../Page/歌謡曲.md "wikilink")といった変遷をたどり、それ以降はスカ・ロック・[フォーク](../Page/フォークソング.md "wikilink")・[沖縄民謡](https://ja.wikipedia.org/wiki/沖縄民謡 "wikilink")・ブラジル・や[演歌](../Page/演歌.md "wikilink")の要素を生かしつつ独自の世界を作っており、同時期に複数のジャンルに挑戦している。自身のライブで前座として、[ほるすたいんづ](https://ja.wikipedia.org/wiki/ほるすたいんづ "wikilink")という架空のバンドで演奏することがある。メンバーはボーカル（宮沢）がバター、ギター（小林）がカマンベール、ベース（山川）がカルビ・クッパで、ドラム（栃木）が吉野屋ヒレカツ。オリジナル楽曲は「乳牛なんて」など（CD化はされていない）。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）に[ソニー・ミュージックから](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")[東芝EMIへ所属レコード会社を移籍している](../Page/EMIミュージック・ジャパン.md "wikilink")。公式ファンクラブは「MOOBMENT CLUB」（MOOBMENTのBは、正しくは左右反転の字）である。BOOMを逆から書いたMOOBとMOVEMENTをかけたもの。[2006年](../Page/2006年.md "wikilink")（平成18年）より活動を休止していたが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）に[avex内](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")[FIVE D plusへと所属レコードを再移籍し](https://ja.wikipedia.org/wiki/FIVE_D_plus "wikilink")、[2009年](../Page/2009年.md "wikilink")（平成21年）よりデビュー20周年を記念して、正式に活動が再開された。[2014年](../Page/2014年.md "wikilink")（平成26年）5月21日にはデビュー25周年をむかえたが、2014年3月31日に公式ウェブサイトにて、2014年12月いっぱいで解散することを発表\[1\]\[2\]\[3\]、12月17日の[日本武道館](../Page/日本武道館.md "wikilink")でのラストライブをもって解散した。
 
 ## メンバー
 
-  - [宮沢和史](https://ja.wikipedia.org/wiki/宮沢和史 "wikilink")（みやざわ かずふみ、[1966年](../Page/1966年.md "wikilink")（昭和41年）[1月18日](../Page/1月18日.md "wikilink") - ）：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")。通称：MIYA
+  - [宮沢和史](../Page/宮沢和史.md "wikilink")（みやざわ かずふみ、[1966年](../Page/1966年.md "wikilink")（昭和41年）[1月18日](../Page/1月18日.md "wikilink") - ）：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")。通称：MIYA
       -
         [山梨県](../Page/山梨県.md "wikilink")[甲府市](../Page/甲府市.md "wikilink")出身。[甲府市立千塚小学校](../Page/甲府市立千塚小学校.md "wikilink")、[甲府市立北中学校](../Page/甲府市立北中学校.md "wikilink")、[山梨県立甲府南高等学校](../Page/山梨県立甲府南高等学校.md "wikilink")、[明治大学](../Page/明治大学.md "wikilink")[経営学部](../Page/経営学部.md "wikilink")卒業。THE BOOMのほぼ全ての楽曲を作詞・作曲している。ソロミュージシャンとしても活動し、2006年より、[GANGA ZUMBA](../Page/GANGA_ZUMBA.md "wikilink")（ガンガズンバ）のリーダー兼ボーカルも務めている。世界各地を旅し、その土地にある音楽のエッセンスをロックに融合して独自の音楽を生み出している。シンガーソングライターとして、楽曲提供も多数。また、過去には俳優として[ミュージカル](../Page/ミュージカル.md "wikilink")・[映画](../Page/映画.md "wikilink")・テレビドラマにも出演。妻はタレントでパーソナリティの[光岡ディオン](../Page/光岡ディオン.md "wikilink")（[1994年](../Page/1994年.md "wikilink")に結婚）。3人の子供がいる。[ビートたけし](../Page/ビートたけし.md "wikilink")の大ファン。詳細は本人の項目を参照のこと。
   - [小林孝至](https://ja.wikipedia.org/wiki/小林孝至_\(ミュージシャン\) "wikilink")（こばやし たかし、[1965年](../Page/1965年.md "wikilink")（昭和40年）[12月26日](../Page/12月26日.md "wikilink") - ）：[ギター](../Page/ギター.md "wikilink")。通称：TAKASHIくん、しーたか王子
@@ -25,7 +25,7 @@
 ### 主なサポートメンバー（順不同）
 
   - [伊藤直樹](https://ja.wikipedia.org/wiki/伊藤_直樹 "wikilink")（いとう　なおき）：[パーカッション](../Page/パーカッション.md "wikilink")。
-  - [朝本浩文](https://ja.wikipedia.org/wiki/朝本浩文 "wikilink")（あさもと ひろふみ）：[キーボード](../Page/キーボード_\(楽器\).md "wikilink")。
+  - [朝本浩文](../Page/朝本浩文.md "wikilink")（あさもと ひろふみ）：[キーボード](../Page/キーボード_\(楽器\).md "wikilink")。
   - [斉藤久美](https://ja.wikipedia.org/wiki/斉藤久美 "wikilink")（さいとう　くみ）：[コーラス](https://ja.wikipedia.org/wiki/コーラス "wikilink")。
   - [坂東次郎](https://ja.wikipedia.org/wiki/坂東次郎 "wikilink")（ばんどう　じろう）：[ギター](../Page/ギター.md "wikilink")。
   - [今福健司](https://ja.wikipedia.org/wiki/今福健司 "wikilink")（いまふく　けんじ）：パーカッション。
@@ -98,7 +98,7 @@
 
   - 5月、THE BOOM初の海外公演。[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")にて3都市4公演のコンサートを行う。
   - [7月1日](../Page/7月1日.md "wikilink")、7thアルバム「[TROPICALISM -0°](../Page/TROPICALISM_-0°.md "wikilink")」を発表。
-  - [7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink")、3ヶ月にわたる長期ツアー「TROPICALIZE TOUR」を開始。
+  - [7月23日](../Page/7月23日.md "wikilink")、3ヶ月にわたる長期ツアー「TROPICALIZE TOUR」を開始。
   - [12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")より、ツアーの総集編「TROPICALIZE TOUR FINAL」を行う。
 
 #### 1997年
@@ -108,7 +108,7 @@
   - 1月下旬、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[カンヌ](../Page/カンヌ.md "wikilink")で行われた「[国際音楽見本市](https://ja.wikipedia.org/wiki/国際音楽見本市 "wikilink")（[ミデム](https://ja.wikipedia.org/wiki/ミデム "wikilink")）」に出演。
   - 3月21日、ベスト・アルバム「[THE BOOM 2 (BLUE)](../Page/THE_BOOM_2_\(BLUE\).md "wikilink")」発表。
   - [7月6日](../Page/7月6日.md "wikilink")、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[テュービンゲン](../Page/テュービンゲン.md "wikilink")にて「[ビバ・アフロ・ブラジル](https://ja.wikipedia.org/wiki/ビバ・アフロ・ブラジル "wikilink")'97」に出演。
-  - [7月10日](../Page/7月10日.md "wikilink")、[スイス](../Page/スイス.md "wikilink")・[モントルー](https://ja.wikipedia.org/wiki/モントルー "wikilink")で開催された[モントルー・ジャズ・フェスティバル](https://ja.wikipedia.org/wiki/モントルー・ジャズ・フェスティバル "wikilink")」に出演。これを最後にしばらくグループとしての活動休止。各メンバーはソロ活動に入る。
+  - [7月10日](../Page/7月10日.md "wikilink")、[スイス](../Page/スイス.md "wikilink")・[モントルー](../Page/モントルー.md "wikilink")で開催された[モントルー・ジャズ・フェスティバル](https://ja.wikipedia.org/wiki/モントルー・ジャズ・フェスティバル "wikilink")」に出演。これを最後にしばらくグループとしての活動休止。各メンバーはソロ活動に入る。
 
 ### ソロ活動〜島唄リバイバル・ヒット
 
@@ -219,11 +219,11 @@
 
   - [3月31日](../Page/3月31日.md "wikilink")、公式ウェブサイト、公式Facebookページも閉鎖。
 
-[2016年](../Page/2016年.md "wikilink")現在、解散から1年、[宮沢和史](https://ja.wikipedia.org/wiki/宮沢和史 "wikilink")は2016年1月31日のZeep Diver Cityでのソロ公演を最後に表舞台での音楽活動を休止。[小林孝至は主に楽曲提供や編曲などの活動を中心としながら](https://ja.wikipedia.org/wiki/小林孝至_\(ミュージシャン\) "wikilink")、ギターや作曲家の講師としても活動。[山川浩正](https://ja.wikipedia.org/wiki/山川浩正 "wikilink")はロックバンド1-GATAを結成。アーティファクトミュージックスクールの講師として参加。栃木孝夫もソロ活動中。
+[2016年](../Page/2016年.md "wikilink")現在、解散から1年、[宮沢和史](../Page/宮沢和史.md "wikilink")は2016年1月31日のZeep Diver Cityでのソロ公演を最後に表舞台での音楽活動を休止。[小林孝至は主に楽曲提供や編曲などの活動を中心としながら](https://ja.wikipedia.org/wiki/小林孝至_\(ミュージシャン\) "wikilink")、ギターや作曲家の講師としても活動。[山川浩正](https://ja.wikipedia.org/wiki/山川浩正 "wikilink")はロックバンド1-GATAを結成。アーティファクトミュージックスクールの講師として参加。栃木孝夫もソロ活動中。
 
 #### 2017年
 
-  - 1月、昨年から活動休止中だった[宮沢和史](https://ja.wikipedia.org/wiki/宮沢和史 "wikilink")が公式Twitterにて少しずつ歌唱の活動を再開していくと発表。
+  - 1月、昨年から活動休止中だった[宮沢和史](../Page/宮沢和史.md "wikilink")が公式Twitterにて少しずつ歌唱の活動を再開していくと発表。
   - [5月24日](../Page/5月24日.md "wikilink")、J-POPコンピ「エース」7inchiプロジェクト第3弾としてシングル「[風になりたい](https://ja.wikipedia.org/wiki/風になりたい "wikilink")」がアナログ・シングル化されて発売される。
   - [小林孝至は自身を中心とした音楽プロジェクトTakashi](https://ja.wikipedia.org/wiki/小林孝至_\(ミュージシャン\) "wikilink")+を始動。同プロジェクトでは[i don't like mondaysの](https://ja.wikipedia.org/wiki/I_Don't_Like_Mondays. "wikilink")[ギタリスト](../Page/ギタリスト.md "wikilink")兆志とのギターコラボを始め、ドイツのインディーズラップグループとのコラボなど行っている。
 
@@ -301,7 +301,7 @@
   - [24時間の旅](../Page/24時間の旅.md "wikilink")（2004年[5月8日](../Page/5月8日.md "wikilink")・非売品）
       -
         2004年5月8日、THE BOOMデビュー15周年ライブ“ありがとう”[日本武道館](../Page/日本武道館.md "wikilink")公演の入場者に配布されたプレゼントCD。2004年、[J-WAVE](../Page/J-WAVE.md "wikilink")春のキャンペーンソング。アルバム『百景』に収録されている。
-  - [THE STORY](https://ja.wikipedia.org/wiki/THE_STORY "wikilink")（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")・非売品）
+  - [THE STORY](https://ja.wikipedia.org/wiki/THE_STORY "wikilink")（[2005年](../Page/2005年.md "wikilink")・非売品）
       -
         2005年に再発されたアルバムに付いてくる応募券を3枚集めた応募者全員に、無料でプレゼントされたトークCD。再発されたアルバムの思い出やエピソードを発売順に語っている。収録時間は60分以上と長時間である。
 
@@ -379,7 +379,7 @@
   - THE BOOM SPECIALLIVE 渋谷La mama 2004年5月24日（2004年[10月1日](../Page/10月1日.md "wikilink")） - アルバム『百景』の初回特典として、応募者全員にプレゼントされたスペシャルDVD（募集は既に終了）
   - THE BOOM デビュー15周年記念ライブ“ありがとう”（2004年[11月2日](../Page/11月2日.md "wikilink")）
   - THE BOOM LIVE DVD BOX Vol.1 '90〜'93（2004年[12月1日](../Page/12月1日.md "wikilink")）
-  - THE BOOM LIVE DVD BOX Vol.2 '94〜'97（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月2日](../Page/2月2日.md "wikilink")） - デビュー15周年を記念して作られた、DVD-BOX.過去に発売されたVHS作品の、「PICK ME UP」から「TROPICALISM-0°LIVE」（「きのう聞かせた僕の歌」と「Beat」を除く）までの10作品を5本ずつDVD化し、更に特典DISCを1本ずつ加えた、計6本入りとなっている（Vol.1、Vol.2両方共に）。
+  - THE BOOM LIVE DVD BOX Vol.2 '94〜'97（[2005年](../Page/2005年.md "wikilink")[2月2日](../Page/2月2日.md "wikilink")） - デビュー15周年を記念して作られた、DVD-BOX.過去に発売されたVHS作品の、「PICK ME UP」から「TROPICALISM-0°LIVE」（「きのう聞かせた僕の歌」と「Beat」を除く）までの10作品を5本ずつDVD化し、更に特典DISCを1本ずつ加えた、計6本入りとなっている（Vol.1、Vol.2両方共に）。
   - 10,000 SAMBA 〜LIVE FROM BRASIL TO JAPAN〜（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")12月3日）
   - THE BOOM 20th Anniversary Live Tour 2009　 "My Sweet Home"（2010年[5月19日](../Page/5月19日.md "wikilink")）
   - THE BOOM CONCERT TOUR 2013 "24"(2014年[5月21日](../Page/5月21日.md "wikilink"))

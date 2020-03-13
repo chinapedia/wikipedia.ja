@@ -7,11 +7,11 @@
 
 型式名NC36\[1\]。本田技研工業が[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") - [2001年](../Page/2001年.md "wikilink")に製造販売した[CBシリーズ](https://ja.wikipedia.org/wiki/ホンダ・CB "wikilink")[排気量](../Page/排気量.md "wikilink")400㏄クラス（[普通自動二輪車](../Page/普通自動二輪車.md "wikilink")）のロードスポーツモデルである。
 
-同時期に製造販売されていたNC31型[CB400スーパーフォアと一部コンポーネンツを共有する](../Page/ホンダ・CB400スーパーフォア.md "wikilink")[姉妹車](../Page/姉妹車.md "wikilink")であるが、本モデルは『**ノスタルジックでありながらも新鮮さを感じる新しい時代のロードスポーツモデルはどうあるべきか**』を追求し\[2\]、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")に発売された同社の[フラグシップモデル](../Page/フラグシップ機.md "wikilink")[ドリームCB750FOURのスピリットを現代に受け継いだスタイリングを目指した](https://ja.wikipedia.org/wiki/ホンダ・ドリームCB750FOUR "wikilink")**新・ネイキッドスポーツ**を[コンセプトとして開発された](../Page/概念.md "wikilink")\[3\]。
+同時期に製造販売されていたNC31型[CB400スーパーフォアと一部コンポーネンツを共有する](../Page/ホンダ・CB400スーパーフォア.md "wikilink")[姉妹車](../Page/姉妹車.md "wikilink")であるが、本モデルは『**ノスタルジックでありながらも新鮮さを感じる新しい時代のロードスポーツモデルはどうあるべきか**』を追求し\[2\]、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")に発売された同社の[フラグシップモデル](../Page/フラグシップ機.md "wikilink")[ドリームCB750FOURのスピリットを現代に受け継いだスタイリングを目指した](../Page/ホンダ・ドリームCB750FOUR.md "wikilink")**新・ネイキッドスポーツ**を[コンセプトとして開発された](../Page/概念.md "wikilink")\[3\]。
 
 ## 車両解説
 
-車体はダブルクレードル型[フレームに全長x全幅x全高](../Page/フレーム_\(オートバイ\).md "wikilink")：2,130x780x1,090（mm）とした[ネイキッドタイプで車重は乾燥](../Page/ネイキッド_\(オートバイ\).md "wikilink")192㎏/装備210㎏であるが\[4\]、上述したようにドリームCB750FOURのスタイルを目指したことから、[クローム](../Page/クロム.md "wikilink")[メッキ](https://ja.wikipedia.org/wiki/メッキ "wikilink")仕上げの前後フェンダー・4本出し[マフラー](https://ja.wikipedia.org/wiki/マフラー_\(原動機\) "wikilink")・スポークホイールなどを装着するが\[5\]、2眼式の[スピード](../Page/速度計.md "wikilink")・[タコ両メーターは電気式とするほか](https://ja.wikipedia.org/wiki/タコメーター "wikilink")、液晶式オド/トリップ・セグメント表示燃料計・[H4ハロゲン](../Page/ハロゲンランプ.md "wikilink")[ヘッドランプ](../Page/前照灯.md "wikilink")・アジャスト機構付ブレーキレバーなど[1990年代](../Page/1990年代.md "wikilink")後半当時の標準的装備を持つ\[6\]。
+車体はダブルクレードル型[フレームに全長x全幅x全高](../Page/フレーム_\(オートバイ\).md "wikilink")：2,130x780x1,090（mm）とした[ネイキッドタイプで車重は乾燥](../Page/ネイキッド_\(オートバイ\).md "wikilink")192㎏/装備210㎏であるが\[4\]、上述したようにドリームCB750FOURのスタイルを目指したことから、[クローム](../Page/クロム.md "wikilink")[メッキ](https://ja.wikipedia.org/wiki/メッキ "wikilink")仕上げの前後フェンダー・4本出し[マフラー](https://ja.wikipedia.org/wiki/マフラー_\(原動機\) "wikilink")・スポークホイールなどを装着するが\[5\]、2眼式の[スピード](../Page/速度計.md "wikilink")・[タコ両メーターは電気式とするほか](../Page/タコメーター.md "wikilink")、液晶式オド/トリップ・セグメント表示燃料計・[H4ハロゲン](../Page/ハロゲンランプ.md "wikilink")[ヘッドランプ](../Page/前照灯.md "wikilink")・アジャスト機構付ブレーキレバーなど[1990年代](../Page/1990年代.md "wikilink")後半当時の標準的装備を持つ\[6\]。
 
 搭載される内径x行程：55.5x42.0（mm）・排気量399㏄のNC23E型[水冷](../Page/水冷エンジン.md "wikilink")[4ストローク](../Page/4ストローク機関.md "wikilink")4バルブ[DOHC](../Page/DOHC.md "wikilink")[並列4気筒エンジンは](../Page/直列4気筒.md "wikilink")、NC23型[CBR400RRからのキャリーオーバーで](../Page/ホンダ・CBR400RR.md "wikilink")、NC31型CB400スーパーフォアにも搭載されるが、本モデルに合わせたチューニングを行い以下に示す相違点がある\[7\]\[8\]\[9\]。
 
@@ -66,7 +66,7 @@
 ## 関連項目
 
   - [ホンダ・CB](https://ja.wikipedia.org/wiki/ホンダ・CB "wikilink")
-  - [ホンダ・ドリームCB750FOUR](https://ja.wikipedia.org/wiki/ホンダ・ドリームCB750FOUR "wikilink")
+  - [ホンダ・ドリームCB750FOUR](../Page/ホンダ・ドリームCB750FOUR.md "wikilink")
   - [ホンダ・CB400スーパーフォア](../Page/ホンダ・CB400スーパーフォア.md "wikilink")
   - [ホンダ・CBR400RR](../Page/ホンダ・CBR400RR.md "wikilink")
 

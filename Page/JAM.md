@@ -3,7 +3,7 @@
 
 **JAM** / **Jam** / **jam**
 
-  - [ジャム](../Page/ジャム.md "wikilink")（[ゼリー](https://ja.wikipedia.org/wiki/ゼリー "wikilink")状にした[食品](../Page/食品.md "wikilink")）。
+  - [ジャム](../Page/ジャム.md "wikilink")（[ゼリー](../Page/ゼリー.md "wikilink")状にした[食品](../Page/食品.md "wikilink")）。
   - [ジャマイカ](../Page/ジャマイカ.md "wikilink") (Jamaica) の[ISO 3166-1](../Page/ISO_3166-1.md "wikilink")[国名コード](../Page/国名コード.md "wikilink")。
   - **人名**
       - 作詞家の[山田ひろし](../Page/山田ひろし.md "wikilink")の別名義「jam」。

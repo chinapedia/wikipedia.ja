@@ -3,13 +3,13 @@
 
 **ROVO**（**ロヴォ**）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンドである](../Page/バンド_\(音楽\).md "wikilink")。
 
-[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、[勝井祐二](../Page/勝井祐二.md "wikilink")、[山本精一](https://ja.wikipedia.org/wiki/山本精一 "wikilink")らが中心になって「宇宙っぽいことをやろう」ということで結成された。[芳垣安洋](https://ja.wikipedia.org/wiki/芳垣安洋 "wikilink")、[岡部洋一らの出す圧倒的な高速ダブルドラミングから](https://ja.wikipedia.org/wiki/岡部洋一_\(音楽家\) "wikilink")「人力[トランス](../Page/トランス_\(音楽\).md "wikilink")」とも言われ、[Strobo](https://ja.wikipedia.org/wiki/Strobo "wikilink")、[Soft](https://ja.wikipedia.org/wiki/Soft "wikilink")、[NATSUMEN](../Page/NATSUMEN.md "wikilink")などの後続のグループを生み出すことになった。
+[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、[勝井祐二](../Page/勝井祐二.md "wikilink")、[山本精一](../Page/山本精一.md "wikilink")らが中心になって「宇宙っぽいことをやろう」ということで結成された。[芳垣安洋](https://ja.wikipedia.org/wiki/芳垣安洋 "wikilink")、[岡部洋一らの出す圧倒的な高速ダブルドラミングから](https://ja.wikipedia.org/wiki/岡部洋一_\(音楽家\) "wikilink")「人力[トランス](../Page/トランス_\(音楽\).md "wikilink")」とも言われ、[Strobo](https://ja.wikipedia.org/wiki/Strobo "wikilink")、[Soft](https://ja.wikipedia.org/wiki/Soft "wikilink")、[NATSUMEN](../Page/NATSUMEN.md "wikilink")などの後続のグループを生み出すことになった。
 
 ## メンバー
 
 ### 現在のメンバー
 
-  - [山本精一](https://ja.wikipedia.org/wiki/山本精一 "wikilink")（エレクトリック・ギター）
+  - [山本精一](../Page/山本精一.md "wikilink")（エレクトリック・ギター）
   - [勝井祐二](../Page/勝井祐二.md "wikilink")（エレクトリック・ヴァイオリン）
   - [芳垣安洋](https://ja.wikipedia.org/wiki/芳垣安洋 "wikilink")（ドラムス、パーカッション）1996年加入。
   - [岡部洋一](https://ja.wikipedia.org/wiki/岡部洋一_\(音楽家\) "wikilink")（ドラムス、パーカッション）1997年加入。

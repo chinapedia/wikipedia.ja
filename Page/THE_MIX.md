@@ -7,7 +7,7 @@
 
 ## 解説
 
-『[アウトバーン](../Page/アウトバーン_\(アルバム\).md "wikilink")』から『[エレクトリック・カフェ](https://ja.wikipedia.org/wiki/エレクトリック・カフェ "wikilink")』までの[アルバム](../Page/アルバム.md "wikilink")の曲を新しい[アレンジで再録音したベスト盤](../Page/編曲.md "wikilink")。ヒュッターは本作に関するインタビューで「『The Mix』は[ライブ盤の一種と考えている](../Page/ライブ・アルバム.md "wikilink")」と語った。
+『[アウトバーン](../Page/アウトバーン_\(アルバム\).md "wikilink")』から『[エレクトリック・カフェ](../Page/エレクトリック・カフェ.md "wikilink")』までの[アルバム](../Page/アルバム.md "wikilink")の曲を新しい[アレンジで再録音したベスト盤](../Page/編曲.md "wikilink")。ヒュッターは本作に関するインタビューで「『The Mix』は[ライブ盤の一種と考えている](../Page/ライブ・アルバム.md "wikilink")」と語った。
 
 今作からフリッツ・ヒルパートが参加している。
 
@@ -20,7 +20,7 @@
 ## クレジット
 
   - [Ralf Hütter](../Page/ラルフ・ヒュッター.md "wikilink") – VOICE, [VOCODER](../Page/ヴォコーダー.md "wikilink"), [SYNCLAVIER](../Page/シンクラヴィア.md "wikilink")
-  - [Florian Schneider](../Page/フローリアン・シュナイダー.md "wikilink") – VOCODER, [SPEECH SYNTHESIS](https://ja.wikipedia.org/wiki/音声合成 "wikilink")
+  - [Florian Schneider](../Page/フローリアン・シュナイダー.md "wikilink") – VOCODER, [SPEECH SYNTHESIS](../Page/音声合成.md "wikilink")
   - Fritz Hilpert – MUSIC DATA MIX
 
 ※[カール・バルトス](https://ja.wikipedia.org/wiki/カール・バルトス "wikilink")も参加しているが途中で脱退したためかクレジットされていない。

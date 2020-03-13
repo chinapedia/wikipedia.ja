@@ -17,11 +17,11 @@
 
 ## 歴史
 
-[代替文=](https://ja.wikipedia.org/wiki/ファイル:Strong_Europe_Tank_Challenge_2018_\(41876895085\).jpg "wikilink")\]\] [H\&K社は](../Page/ヘッケラー&コッホ.md "wikilink")[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")に世界初の[ポリマーフレーム製](../Page/重合体.md "wikilink")[拳銃](../Page/拳銃.md "wikilink")[H\&K VP70を発表したが](../Page/H&K_VP70.md "wikilink")、商業的には失敗に終わった。それから約10年後、[グロック](../Page/グロック.md "wikilink")社の開発したポリマーフレーム製拳銃[グロック17](https://ja.wikipedia.org/wiki/グロック17 "wikilink")が販売され好調な売れ行きを示すと、これからの時代はポリマーフレーム拳銃にあると見たH\&K社は[アメリカ市場で通用するポリマーフレーム製拳銃の開発を再スタートした](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。
+[代替文=](https://ja.wikipedia.org/wiki/ファイル:Strong_Europe_Tank_Challenge_2018_\(41876895085\).jpg "wikilink")\]\] [H\&K社は](../Page/ヘッケラー&コッホ.md "wikilink")[1970年](../Page/1970年.md "wikilink")に世界初の[ポリマーフレーム製](../Page/重合体.md "wikilink")[拳銃](../Page/拳銃.md "wikilink")[H\&K VP70を発表したが](../Page/H&K_VP70.md "wikilink")、商業的には失敗に終わった。それから約10年後、[グロック](../Page/グロック.md "wikilink")社の開発したポリマーフレーム製拳銃[グロック17](../Page/グロック17.md "wikilink")が販売され好調な売れ行きを示すと、これからの時代はポリマーフレーム拳銃にあると見たH\&K社は[アメリカ市場で通用するポリマーフレーム製拳銃の開発を再スタートした](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。
 
 [1993年](../Page/1993年.md "wikilink")に発表されたUSPは、文字通りH\&K社の販売戦略上の基幹拳銃となり、さまざまなバリエーションが発売された。なおUSSOCOM（[アメリカ特殊作戦軍](../Page/アメリカ特殊作戦軍.md "wikilink")）の制式採用トライアルを勝ち抜いた拳銃、[H\&K MARK 23](../Page/H&K_MARK_23.md "wikilink")（SOCOM ピストル）はUSPがベースである。
 
-軍隊、警察等の採用は**P8**の名称で[ドイツ連邦軍](../Page/ドイツ連邦軍.md "wikilink")が採用。また、[日本警察の](../Page/日本の警察.md "wikilink")[特殊部隊（SAT）や](https://ja.wikipedia.org/wiki/特殊急襲部隊 "wikilink")[陸上自衛隊](../Page/陸上自衛隊.md "wikilink")の[特殊作戦群](https://ja.wikipedia.org/wiki/特殊作戦群 "wikilink")、[韓国の](../Page/大韓民国.md "wikilink")[海洋警察特別攻撃隊](../Page/海洋警察特別攻撃隊.md "wikilink")も装備している。
+軍隊、警察等の採用は**P8**の名称で[ドイツ連邦軍](../Page/ドイツ連邦軍.md "wikilink")が採用。また、[日本警察の](../Page/日本の警察.md "wikilink")[特殊部隊（SAT）や](../Page/特殊急襲部隊.md "wikilink")[陸上自衛隊](../Page/陸上自衛隊.md "wikilink")の[特殊作戦群](../Page/特殊作戦群.md "wikilink")、[韓国の](../Page/大韓民国.md "wikilink")[海洋警察特別攻撃隊](../Page/海洋警察特別攻撃隊.md "wikilink")も装備している。
 
 派生型であるUSP コンパクト（[9x19mmパラベラム弾](../Page/9x19mmパラベラム弾.md "wikilink")仕様）は、**P10**の名称で、[ドイツ警察および](../Page/ドイツの警察.md "wikilink")[法執行機関](https://ja.wikipedia.org/wiki/法執行機関 "wikilink")に制式採用されている。
 

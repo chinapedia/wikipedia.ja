@@ -13,7 +13,7 @@
 
 本試験は**テクニカルエンジニア(システム管理)試験**を前身としているが、論述課題が課されることから、当時より他のテクニカルエンジニア試験の区分に比べて難易度が高いと言われていた。
 
-本試験は[情報処理技術者試験](../Page/情報処理技術者試験.md "wikilink")の論文区分の登竜門と言われることもある。多くの受験者の場合、[システムアーキテクト試験](../Page/システムアーキテクト試験.md "wikilink")とともに論文試験で最初に受験する区分になるとされる。その上で、[プロジェクトマネージャ試験](https://ja.wikipedia.org/wiki/プロジェクトマネージャ試験 "wikilink")や[ITストラテジスト試験](https://ja.wikipedia.org/wiki/ITストラテジスト試験 "wikilink")（旧・[システムアナリスト試験](https://ja.wikipedia.org/wiki/システムアナリスト試験 "wikilink")）、[システム監査技術者試験](https://ja.wikipedia.org/wiki/システム監査技術者試験 "wikilink")といったより上位の論文試験に挑戦するためのキャリアパスになっている。
+本試験は[情報処理技術者試験](../Page/情報処理技術者試験.md "wikilink")の論文区分の登竜門と言われることもある。多くの受験者の場合、[システムアーキテクト試験](../Page/システムアーキテクト試験.md "wikilink")とともに論文試験で最初に受験する区分になるとされる。その上で、[プロジェクトマネージャ試験](../Page/プロジェクトマネージャ試験.md "wikilink")や[ITストラテジスト試験](../Page/ITストラテジスト試験.md "wikilink")（旧・[システムアナリスト試験](https://ja.wikipedia.org/wiki/システムアナリスト試験 "wikilink")）、[システム監査技術者試験](../Page/システム監査技術者試験.md "wikilink")といったより上位の論文試験に挑戦するためのキャリアパスになっている。
 
 ## 沿革
 
@@ -64,7 +64,7 @@
 <li><a href="../Page/コンピュータネットワーク.md" title="wikilink">コンピュータネットワーク</a></li>
 </ul></td>
 <td><ul>
-<li><a href="../Page/計算機科学.md" title="wikilink">基礎理論</a>（<a href="../Page/離散数学.md" title="wikilink">離散数学</a>、<a href="https://ja.wikipedia.org/wiki/応用数学" title="wikilink">応用数学</a>、<a href="../Page/アルゴリズム.md" title="wikilink">アルゴリズム</a>、<a href="../Page/プログラミング.md" title="wikilink">プログラミング</a>など）</li>
+<li><a href="../Page/計算機科学.md" title="wikilink">基礎理論</a>（<a href="../Page/離散数学.md" title="wikilink">離散数学</a>、<a href="../Page/応用数学.md" title="wikilink">応用数学</a>、<a href="../Page/アルゴリズム.md" title="wikilink">アルゴリズム</a>、<a href="../Page/プログラミング.md" title="wikilink">プログラミング</a>など）</li>
 <li><a href="../Page/ハードウェア.md" title="wikilink">ハードウェア</a>、<a href="../Page/ソフトウェア.md" title="wikilink">ソフトウェア</a></li>
 <li><a href="../Page/ヒューマン・インタフェース・デバイス.md" title="wikilink">ヒューマン・インタフェース・デバイス</a>、<a href="../Page/マルチメディア.md" title="wikilink">マルチメディア</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/システム開発" title="wikilink">システム開発</a>技術、<a href="../Page/ソフトウェア開発.md" title="wikilink">ソフトウェア開発</a>管理技術</li>
@@ -89,7 +89,7 @@
 </ul></td>
 <td><ul>
 <li><a href="../Page/IT戦略.md" title="wikilink">システム戦略</a>、システム<a href="https://ja.wikipedia.org/wiki/企画" title="wikilink">企画</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/経営戦略" title="wikilink">経営戦略</a>マネジメント、<a href="https://ja.wikipedia.org/wiki/技術戦略" title="wikilink">技術戦略</a>マネジメント、ビジネスインダストリ</li>
+<li><a href="../Page/経営戦略.md" title="wikilink">経営戦略</a>マネジメント、<a href="https://ja.wikipedia.org/wiki/技術戦略" title="wikilink">技術戦略</a>マネジメント、ビジネスインダストリ</li>
 <li><a href="https://ja.wikipedia.org/wiki/企業活動" title="wikilink">企業活動</a></li>
 </ul></td>
 </tr>
@@ -120,7 +120,7 @@
   - 科目免除又は任用資格、これには従前のシステム運用管理エンジニアおよびテクニカルエンジニア（システム管理）を含む。
       - [弁理士試験の科目免除](../Page/弁理士_\(日本\).md "wikilink")
       - [ITコーディネータ](../Page/ITコーディネータ.md "wikilink")（ITC）試験の科目免除
-      - [技術陸曹・海曹・空曹及び](https://ja.wikipedia.org/wiki/技術曹 "wikilink")[予備自衛官補](https://ja.wikipedia.org/wiki/予備自衛官補 "wikilink")（技能公募）の任用資格
+      - [技術陸曹・海曹・空曹及び](https://ja.wikipedia.org/wiki/技術曹 "wikilink")[予備自衛官補](../Page/予備自衛官補.md "wikilink")（技能公募）の任用資格
       - [警視庁特別捜査官](https://ja.wikipedia.org/wiki/警視庁特別捜査官 "wikilink")の4級職（[警部補](../Page/警部補.md "wikilink")）のコンピュータ犯罪捜査官の任用資格
 
 ## その他
@@ -144,8 +144,8 @@
   - [情報処理技術者試験](../Page/情報処理技術者試験.md "wikilink")
   - [ITサービスマネジメント](../Page/ITサービスマネジメント.md "wikilink")
   - [ITIL](https://ja.wikipedia.org/wiki/ITIL "wikilink")
-  - [プロジェクトマネージャ試験](https://ja.wikipedia.org/wiki/プロジェクトマネージャ試験 "wikilink")
-  - [システム監査技術者試験](https://ja.wikipedia.org/wiki/システム監査技術者試験 "wikilink")
+  - [プロジェクトマネージャ試験](../Page/プロジェクトマネージャ試験.md "wikilink")
+  - [システム監査技術者試験](../Page/システム監査技術者試験.md "wikilink")
 
 ## 脚注
 

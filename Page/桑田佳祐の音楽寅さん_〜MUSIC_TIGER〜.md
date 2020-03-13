@@ -45,7 +45,7 @@
 
 曲タイトルは番組のサブタイトルと同じ「MUSIC TIGER」。楽器は全て（レコーディングエンジニア・マニピュレーター以外）を桑田が担当し、ユースケも「合いの手」として参加。1曲通して全ての楽器のクレジットに記載されるのは、サザンオールスターズ・桑田の全名義で初である。初披露の際には、レコーディング後に飲酒をした桑田が泥酔状態で登場。弾き語りで「[匂艶 THE NIGHT CLUB](../Page/匂艶_THE_NIGHT_CLUB.md "wikilink")」も披露された。
 
-なお、この時に第1期のオープニングのタイトルバックが公開され、映画「[バッファロー'66](https://ja.wikipedia.org/wiki/バッファロー'66 "wikilink")」のパロディが含まれていた。
+なお、この時に第1期のオープニングのタイトルバックが公開され、映画「[バッファロー'66](../Page/バッファロー'66.md "wikilink")」のパロディが含まれていた。
 
 なお、当該楽曲は桑田のシングル『[波乗りジョニー](../Page/波乗りジョニー.md "wikilink")』のカップリング曲として収録。初披露版とは一部構成が異なっている（サビが2回から1回に省略）。
 
@@ -218,7 +218,7 @@
 
   - 2001年[2月2日](../Page/2月2日.md "wikilink")・[2月9日](../Page/2月9日.md "wikilink")放送
 
-桑田がかねてから熱望していた「[網走刑務所](../Page/網走刑務所.md "wikilink")での慰問ライブ」の模様を放送したもの。ライブの開始前にはユースケと共に刑務所内を見学し、実際に受刑者が利用している施設に触れた。見学後に2人が控え室へ戻ると、そこに[警備員](https://ja.wikipedia.org/wiki/警備員 "wikilink")に扮した[小倉博和](../Page/小倉博和.md "wikilink")の姿があり、そのままライブへ参加することとなった。なお、桑田はこのライブに関して「過去にこの番組を担当している[水口昌彦](../Page/水口昌彦.md "wikilink")プロデューサーが収監されていたことがあった為、そのコネクションで入れてもらった」といったジョークを述べており、番組でも「※フィクションです」といったテロップが表示された。
+桑田がかねてから熱望していた「[網走刑務所](../Page/網走刑務所.md "wikilink")での慰問ライブ」の模様を放送したもの。ライブの開始前にはユースケと共に刑務所内を見学し、実際に受刑者が利用している施設に触れた。見学後に2人が控え室へ戻ると、そこに[警備員](../Page/警備員.md "wikilink")に扮した[小倉博和](../Page/小倉博和.md "wikilink")の姿があり、そのままライブへ参加することとなった。なお、桑田はこのライブに関して「過去にこの番組を担当している[水口昌彦](../Page/水口昌彦.md "wikilink")プロデューサーが収監されていたことがあった為、そのコネクションで入れてもらった」といったジョークを述べており、番組でも「※フィクションです」といったテロップが表示された。
 
   - 演奏曲
 
@@ -263,12 +263,12 @@
 1.  炎の偽[ブランニュー](../Page/ミス・ブランニュー・デイ.md "wikilink")・ファイター
       -
         「ミス・ブランニュー・デイ」（サザンオールスターズ）・「すきすきソング」（[水森亜土](../Page/水森亜土.md "wikilink")）・「炎のファイター 〜INOKI BOM-BA-YE〜」のマッシュアップ
-        ゲストは[春一番](https://ja.wikipedia.org/wiki/春一番_\(お笑い芸人\) "wikilink")（[アントニオ猪木](../Page/アントニオ猪木.md "wikilink")の[物真似](../Page/物真似.md "wikilink")）。ユースケもこの企画の内で唯一参加。
+        ゲストは[春一番](../Page/春一番_\(お笑い芸人\).md "wikilink")（[アントニオ猪木](../Page/アントニオ猪木.md "wikilink")の[物真似](../Page/物真似.md "wikilink")）。ユースケもこの企画の内で唯一参加。
 2.  史上最低の夫婦合体プレイ'''
       -
         「[五木の子守唄](../Page/五木の子守唄.md "wikilink")」・「The Shadow of Your Smile」のマッシュアップ
         タイトルにもある通り、ゲストは桑田の妻・[原由子](../Page/原由子.md "wikilink")。
-3.  [季節はずれの快姦物語](https://ja.wikipedia.org/wiki/季節はずれの海岸物語 "wikilink")
+3.  [季節はずれの快姦物語](../Page/季節はずれの海岸物語.md "wikilink")
       -
         「[ローハイド](../Page/ローハイド.md "wikilink")」（[フランキー・レイン](https://ja.wikipedia.org/wiki/:en:Frankie_Laine "wikilink")）・「[DESTINY](https://ja.wikipedia.org/wiki/悲しいほどお天気#Side_A "wikilink")」（[松任谷由実](../Page/松任谷由実.md "wikilink")）のマッシュアップ
         ゲストは[清水ミチコ](../Page/清水ミチコ.md "wikilink")（松任谷の物真似）。
@@ -303,7 +303,7 @@
 <!-- end list -->
 
 1.  [悲しき口笛](https://ja.wikipedia.org/wiki/悲しき口笛 "wikilink")([美空ひばり](../Page/美空ひばり.md "wikilink"))
-2.  [リンゴ追分](https://ja.wikipedia.org/wiki/リンゴ追分 "wikilink")(美空ひばり)　この曲は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に発表された[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")名義のシングル『[BOHBO No.5/神の島遥か国](https://ja.wikipedia.org/wiki/BOHBO_No.5/神の島遥か国 "wikilink")』でもカバーされている。
+2.  [リンゴ追分](https://ja.wikipedia.org/wiki/リンゴ追分 "wikilink")(美空ひばり)　この曲は、[2005年](../Page/2005年.md "wikilink")に発表された[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")名義のシングル『[BOHBO No.5/神の島遥か国](https://ja.wikipedia.org/wiki/BOHBO_No.5/神の島遥か国 "wikilink")』でもカバーされている。
 3.  [車屋さん](https://ja.wikipedia.org/wiki/車屋さん "wikilink")(美空ひばり)
 4.  [愛燦燦](https://ja.wikipedia.org/wiki/愛燦燦_\(美空ひばりの曲\) "wikilink")(美空ひばり)
 
@@ -313,7 +313,7 @@
 
 [Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の[桜井和寿](../Page/桜井和寿.md "wikilink")と、[格闘技](../Page/格闘技.md "wikilink")「[PRIDE](../Page/PRIDE_\(格闘技イベント\).md "wikilink")」を模した[カラオケ](../Page/カラオケ.md "wikilink")対決を行う企画。実際の[プロレス](../Page/プロレス.md "wikilink")中継で実況を務め、サザンオールスターズのライブでも出囃子を担当するなど桑田と縁の深い[辻よしなり](../Page/辻よしなり.md "wikilink")が実況を担当。また、サザンオールスターズのファンとして知られる格闘家の[角田信朗](../Page/角田信朗.md "wikilink")が「[レフェリー](../Page/審判員.md "wikilink")」として出演しているが、審査基準となるのはカラオケの点数である。
 
-桑田側のセコンドはユースケ、桜井側のセコンドは[鈴木英哉](../Page/鈴木英哉.md "wikilink")（Mr.Children・ドラムス）。鈴木はマイクパフォーマンスの際に『TSUNAMI』のシングルCDを床に叩き付けて足で踏んだり、桑田の歌唱中、プロレスさながら「乱入」して歌唱を妨害したりと、[ヒールとしての役回りを演じ](https://ja.wikipedia.org/wiki/ヒール_\(プロレス\) "wikilink")、対する桑田も桜井の歌唱中に邪魔を入れるなどの行為を働いている。
+桑田側のセコンドはユースケ、桜井側のセコンドは[鈴木英哉](../Page/鈴木英哉.md "wikilink")（Mr.Children・ドラムス）。鈴木はマイクパフォーマンスの際に『TSUNAMI』のシングルCDを床に叩き付けて足で踏んだり、桑田の歌唱中、プロレスさながら「乱入」して歌唱を妨害したりと、[ヒールとしての役回りを演じ](../Page/ヒール_\(プロレス\).md "wikilink")、対する桑田も桜井の歌唱中に邪魔を入れるなどの行為を働いている。
 
 また、桑田は「自称三冠王者」という設定であった。
 
@@ -362,7 +362,7 @@
 <!-- end list -->
 
 1.  [桜坂](../Page/桜坂_\(曲\).md "wikilink") （[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")） - [神代桜](../Page/神代桜.md "wikilink")においての別撮り。「自分が死んだら流してほしい」という桑田の[遺言](https://ja.wikipedia.org/wiki/遺言 "wikilink")（という設定）に従って追悼番組中に流された映像。桑田は[和服](../Page/和服.md "wikilink")を着ての歌唱であり、間奏で[ミニー・リパートン](../Page/ミニー・リパートン.md "wikilink")の「Lovin' You」のフレーズが引用されており、曲の最後には「[さくらさくら](../Page/さくらさくら.md "wikilink")」のメロディーが流れ、[サザン30周年記念ライブでの](https://ja.wikipedia.org/wiki/真夏の大感謝祭_LIVE "wikilink")「みんな本当に死ぬなよ\!」という桑田の発言がサンプリングされるなどの桑田流のお遊びもあった。
-2.  [Yesterday](../Page/イエスタデイ.md "wikilink") （ビートルズ） - 追悼番組中の「こうして耳を澄ますと桑田さんの歌が聞こえてくるようですね」という佐々木アナの言葉を受けて、その場にあったギターを手に取り[替え歌](https://ja.wikipedia.org/wiki/替え歌 "wikilink")を披露（「イエスタデイ」を「犬捨てたでい」と歌った明らかな[コミックソング](../Page/コミックソング.md "wikilink")であった）。ユースケは「生前から乗せるとすぐになんでも歌ってくれた」とコメント。
+2.  [Yesterday](../Page/イエスタデイ.md "wikilink") （ビートルズ） - 追悼番組中の「こうして耳を澄ますと桑田さんの歌が聞こえてくるようですね」という佐々木アナの言葉を受けて、その場にあったギターを手に取り[替え歌](../Page/替え歌.md "wikilink")を披露（「イエスタデイ」を「犬捨てたでい」と歌った明らかな[コミックソング](../Page/コミックソング.md "wikilink")であった）。ユースケは「生前から乗せるとすぐになんでも歌ってくれた」とコメント。
 
 <!-- end list -->
 
@@ -408,7 +408,7 @@
 
   - 2009年[5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink")放送
 
-[ビートルズ](../Page/ビートルズ.md "wikilink")の[アルバム](../Page/アルバム.md "wikilink")『[Abbey Road](https://ja.wikipedia.org/wiki/アビイ・ロード "wikilink")』に収録された楽曲へ日本語の空耳歌詞を当てて、メドレー形式で演奏するという企画。歌詞は2009年当時の日本の政治・経済を桑田なりのユーモアを交えて風刺したものとなっている。アルバム名は『アベー・ロード』。[安倍晋三](https://ja.wikipedia.org/wiki/安倍晋三 "wikilink")をもじったタイトルではあるが、この企画が制作・放送された頃は[麻生太郎政権下であった](https://ja.wikipedia.org/wiki/麻生内閣 "wikilink")。
+[ビートルズ](../Page/ビートルズ.md "wikilink")の[アルバム](../Page/アルバム.md "wikilink")『[Abbey Road](../Page/アビイ・ロード.md "wikilink")』に収録された楽曲へ日本語の空耳歌詞を当てて、メドレー形式で演奏するという企画。歌詞は2009年当時の日本の政治・経済を桑田なりのユーモアを交えて風刺したものとなっている。アルバム名は『アベー・ロード』。[安倍晋三](https://ja.wikipedia.org/wiki/安倍晋三 "wikilink")をもじったタイトルではあるが、この企画が制作・放送された頃は[麻生太郎政権下であった](https://ja.wikipedia.org/wiki/麻生内閣 "wikilink")。
 
 この回から番組タイトルロゴの右上に「あいなめ」の文字が付け加えられた。書体は「あいのり」のタイトルロゴに似せたものを使用している。また、DVDでは権利上の問題により収録されておらず、『100ページブックレット「音楽寅の巻」』に歌詞が収録された。
 
@@ -425,7 +425,7 @@
 5.  僕当選さす票田 - （[Octopus's Garden](https://ja.wikipedia.org/wiki/オクトパス・ガーデン "wikilink")） - [選挙運動](../Page/選挙運動.md "wikilink")
 6.  [iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")中 - （[I Want You (She's So Heavy)](../Page/アイ・ウォント・ユー.md "wikilink")） - [円相場](../Page/円相場.md "wikilink")、[世界金融危機](https://ja.wikipedia.org/wiki/世界金融危機_\(2007年-\) "wikilink")
 7.  爪噛むおじさん - （[Here Comes The Sun](../Page/ヒア・カムズ・ザ・サン.md "wikilink")） - 麻生太郎、[鴻池祥肇](https://ja.wikipedia.org/wiki/鴻池祥肇 "wikilink")、[中川昭一](../Page/中川昭一.md "wikilink")
-8.  [民主党](https://ja.wikipedia.org/wiki/民主党_\(日本_1998-2016\) "wikilink") - （[Because](../Page/ビコーズ.md "wikilink")） - [小沢一郎](https://ja.wikipedia.org/wiki/小沢一郎 "wikilink")、[西松建設事件](https://ja.wikipedia.org/wiki/西松建設事件 "wikilink")
+8.  [民主党](../Page/民主党_\(日本_1998-2016\).md "wikilink") - （[Because](../Page/ビコーズ.md "wikilink")） - [小沢一郎](https://ja.wikipedia.org/wiki/小沢一郎 "wikilink")、[西松建設事件](https://ja.wikipedia.org/wiki/西松建設事件 "wikilink")
 9.  [油田](../Page/油田.md "wikilink")は危機を招き - （[You Never Give Me Your Money](../Page/ユー・ネヴァー・ギヴ・ミー・ユア・マネー.md "wikilink")） - [環境問題](../Page/環境問題.md "wikilink")、[ガザ紛争](https://ja.wikipedia.org/wiki/ガザ紛争_\(2008年-2009年\) "wikilink")
 10. 国際危惧\!\! - （[Sun King](../Page/サン・キング.md "wikilink")） - [北朝鮮](https://ja.wikipedia.org/wiki/北朝鮮 "wikilink")によるさまざまな問題（[日本人拉致問題](../Page/北朝鮮による日本人拉致問題.md "wikilink")、[ミサイル発射実験](../Page/北朝鮮によるミサイル発射実験.md "wikilink")、[主体思想](../Page/主体思想.md "wikilink")、[万景峰号](../Page/万景峰号.md "wikilink")、[日朝関係](https://ja.wikipedia.org/wiki/日朝関係 "wikilink")など）
 11. 民意無視して増した・・・\!\! - （[Mean Mr. Mustard](../Page/ミーン・ミスター・マスタード.md "wikilink")） - [税金](https://ja.wikipedia.org/wiki/税金 "wikilink") 、[天下り](../Page/天下り.md "wikilink")、[田母神論文問題](https://ja.wikipedia.org/wiki/田母神論文問題 "wikilink")、[在日米軍](https://ja.wikipedia.org/wiki/在日米軍 "wikilink")、[防衛省問題](https://ja.wikipedia.org/wiki/防衛省#山田洋行事件と防衛省改革 "wikilink")
@@ -514,7 +514,7 @@
 4.  [風をあつめて](https://ja.wikipedia.org/wiki/風をあつめて "wikilink") （[はっぴいえんど](../Page/はっぴいえんど.md "wikilink")） - 桑田一人による歌唱（カラオケ音源）。ボーカル・ギター・タンバリンを桑田、コーラス・ピアノを原が担当。
 5.  傘がない （[井上陽水](../Page/井上陽水.md "wikilink")）※
 6.  [かもめ](https://ja.wikipedia.org/wiki/かもめ "wikilink") （[浅川マキ](../Page/浅川マキ.md "wikilink")）
-7.  [あの素晴しい愛をもう一度](https://ja.wikipedia.org/wiki/あの素晴しい愛をもう一度 "wikilink") （[加藤和彦](../Page/加藤和彦.md "wikilink")と[北山修](../Page/北山修.md "wikilink")）※
+7.  [あの素晴しい愛をもう一度](../Page/あの素晴しい愛をもう一度.md "wikilink") （[加藤和彦](../Page/加藤和彦.md "wikilink")と[北山修](../Page/北山修.md "wikilink")）※
 
 <!-- end list -->
 
@@ -582,7 +582,7 @@
 3.  悲しい色やね（上田正樹）
 4.  [明日晴れるかな](../Page/明日晴れるかな.md "wikilink")（桑田佳祐）
 5.  [波乗りジョニー](../Page/波乗りジョニー.md "wikilink")（桑田佳祐） - 4.と5.はダイジェスト。以上大阪城ホールでの演奏メンバーは、桑田（ボーカル・ギター）・[佐橋佳幸](../Page/佐橋佳幸.md "wikilink")（ギター）・[河村“カースケ”智康](https://ja.wikipedia.org/wiki/河村智康 "wikilink")（ドラムス）・渡辺等（ベース）・Dr.kyOn（キーボード）・斎藤有太（キーボード）・本田雅人（サックス）・佐々木久美（コーラス）・渕上祥人（コーラス）・大滝裕子（コーラス）。
-6.  雨の御堂筋（[欧陽菲菲](https://ja.wikipedia.org/wiki/欧陽菲菲 "wikilink")） - スタジオライブ。
+6.  雨の御堂筋（[欧陽菲菲](../Page/欧陽菲菲.md "wikilink")） - スタジオライブ。
 7.  お政治オバチャン（[憂歌団](../Page/憂歌団.md "wikilink")） - スタジオライブ。[井脇ノブ子](../Page/井脇ノブ子.md "wikilink")をモチーフとした[コスプレ](../Page/コスプレ.md "wikilink")をしての歌唱だが、架空の政治家「**ミヤネ屋寅次郎**」という設定\[30\]。
 8.  酒と泪と男と女（[河島英五](../Page/河島英五.md "wikilink")） - ジャズバー「藤田バー」での演奏。桑田（ボーカル）・斎藤（ギター）・片山（オルガン）のほか、藤田バーのマスター・藤田さんもサックスで参加。
 
@@ -605,7 +605,7 @@
 1.  [The Weight](https://ja.wikipedia.org/wiki/ザ・ウェイト "wikilink")（[ザ・バンド](../Page/ザ・バンド.md "wikilink")） - [稲村ヶ崎](../Page/稲村ヶ崎.md "wikilink")で披露。ロケにおいては桑田のほか、ギターの演奏で斎藤誠、鍵盤ハーモニカ・ピアノの演奏で片山敦夫、タンバリンの演奏でマネージャーの田中康太朗が参加。
 2.  Tight Rope（[レオン・ラッセル](../Page/レオン・ラッセル.md "wikilink")） - 鎌倉学園の音楽室で披露。
 3.  I Shot the Sheriff（[ボブ・マーリー](../Page/ボブ・マーリー.md "wikilink")） - スタジオライブ。
-4.  Heart Of Gold（[ニール・ヤング](https://ja.wikipedia.org/wiki/ニール・ヤング "wikilink")） - 鎌倉学園に隣接する[建長寺](../Page/建長寺.md "wikilink")の半僧坊で披露。
+4.  Heart Of Gold（[ニール・ヤング](../Page/ニール・ヤング.md "wikilink")） - 鎌倉学園に隣接する[建長寺](../Page/建長寺.md "wikilink")の半僧坊で披露。
 5.  It's Too Late（[キャロル・キング](../Page/キャロル・キング.md "wikilink")） - スタジオライブ。
 
 <!-- end list -->
@@ -634,7 +634,7 @@
 8.  [君にBUMP](../Page/君にBUMP.md "wikilink")（[ケツメイシ](../Page/ケツメイシ.md "wikilink")、2004年）
 9.  テルーの唄（[手嶌葵](../Page/手嶌葵.md "wikilink")、2006年）
 10. [マツケンサンバII](https://ja.wikipedia.org/wiki/マツケンサンバII "wikilink")（[松平健](../Page/松平健.md "wikilink")、2004年）
-11. [世界はそれを愛と呼ぶんだぜ](https://ja.wikipedia.org/wiki/世界はそれを愛と呼ぶんだぜ "wikilink")（[サンボマスター](https://ja.wikipedia.org/wiki/サンボマスター "wikilink")、2005年）
+11. [世界はそれを愛と呼ぶんだぜ](https://ja.wikipedia.org/wiki/世界はそれを愛と呼ぶんだぜ "wikilink")（[サンボマスター](../Page/サンボマスター.md "wikilink")、2005年）
 12. [Everything](../Page/Everything_\(MISIAの曲\).md "wikilink")（[MISIA](https://ja.wikipedia.org/wiki/MISIA "wikilink")、2000年）
 13. [キセキ](https://ja.wikipedia.org/wiki/キセキ_\(GReeeeNの曲\) "wikilink")（[GReeeeN](https://ja.wikipedia.org/wiki/GReeeeN "wikilink")、2008年）
 14. [SAKURA](../Page/SAKURA_\(いきものがかりの曲\).md "wikilink")（[いきものがかり](https://ja.wikipedia.org/wiki/いきものがかり "wikilink")、2006年）
@@ -883,7 +883,7 @@
 
 <!-- end list -->
 
-1.  [漫画ドリーム09〜音楽寅さんver.](https://ja.wikipedia.org/wiki/孤独の太陽_\(アルバム\)#収録曲 "wikilink") - 「[かんぽの宿](../Page/かんぽの宿.md "wikilink")売却騒動」「[新疆ウイグル自治区騒乱](https://ja.wikipedia.org/wiki/2009年ウイグル騒乱 "wikilink")」「[新型インフルエンザ](https://ja.wikipedia.org/wiki/新型インフルエンザ "wikilink")」「[臓器移植法](https://ja.wikipedia.org/wiki/臓器移植法 "wikilink")案改正」「[民主党政権樹立](https://ja.wikipedia.org/wiki/民主党_\(日本_1998-2016\) "wikilink")」など放送された2009年の半年間に起こった出来事を題材にして歌われた。放送当日に収録されたものであり、歌詞内容は[前日に死亡が確認された](../Page/9月20日.md "wikilink")[臼井儀人](https://ja.wikipedia.org/wiki/臼井儀人 "wikilink")（「クレヨンしんちゃん」などの作品を持つ漫画家で、サザンの大ファンとして知られる）を追悼する歌詞もあった。桑田一人のギター弾き語り曲であり、7分以上の曲をワンカットで撮影された。
+1.  [漫画ドリーム09〜音楽寅さんver.](https://ja.wikipedia.org/wiki/孤独の太陽_\(アルバム\)#収録曲 "wikilink") - 「[かんぽの宿](../Page/かんぽの宿.md "wikilink")売却騒動」「[新疆ウイグル自治区騒乱](https://ja.wikipedia.org/wiki/2009年ウイグル騒乱 "wikilink")」「[新型インフルエンザ](https://ja.wikipedia.org/wiki/新型インフルエンザ "wikilink")」「[臓器移植法](https://ja.wikipedia.org/wiki/臓器移植法 "wikilink")案改正」「[民主党政権樹立](../Page/民主党_\(日本_1998-2016\).md "wikilink")」など放送された2009年の半年間に起こった出来事を題材にして歌われた。放送当日に収録されたものであり、歌詞内容は[前日に死亡が確認された](../Page/9月20日.md "wikilink")[臼井儀人](https://ja.wikipedia.org/wiki/臼井儀人 "wikilink")（「クレヨンしんちゃん」などの作品を持つ漫画家で、サザンの大ファンとして知られる）を追悼する歌詞もあった。桑田一人のギター弾き語り曲であり、7分以上の曲をワンカットで撮影された。
 2.  寅が終わるど\!\! - 「日本版『[We are the World](https://ja.wikipedia.org/wiki/ウィー・アー・ザ・ワールド "wikilink")』」を意識した空耳替え歌。番組の出演者（ゲスト含む）やスタッフなどがコーラスとして参加している。
 
 ### 補足
@@ -923,7 +923,7 @@
 2.  [ニッポンのヒール](https://ja.wikipedia.org/wiki/世に万葉の花が咲くなり#収録曲 "wikilink")
 3.  [旅姿六人衆](https://ja.wikipedia.org/wiki/綺麗#収録曲 "wikilink")'''
       -
-        カラオケ演奏。途中から「元バンドマンでレコード会社勤務」という設定で[平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink")が登場。平井はサザンオールスターズのファンで、「素人時代に桑田の家の前へ自分のデモテープを置いたことがある」というエピソードを披露するが、桑田に「爪が折られてなかったから[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")録っちゃった」と冗談ではあるが返される。なお、そのテープは2012年に桑田の自宅で見つかり、自身のラジオに平井をゲストで呼び、音源が流された。このテープには、[プロコル・ハルム](https://ja.wikipedia.org/wiki/プロコル・ハルム "wikilink")「[青い影](https://ja.wikipedia.org/wiki/青い影 "wikilink")」、[ビリー・ジョエル](../Page/ビリー・ジョエル.md "wikilink")「[ニューヨークの想い](https://ja.wikipedia.org/wiki/:en:New_York_state_of_mind "wikilink")」の2曲が収録されている\[46\]。
+        カラオケ演奏。途中から「元バンドマンでレコード会社勤務」という設定で[平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink")が登場。平井はサザンオールスターズのファンで、「素人時代に桑田の家の前へ自分のデモテープを置いたことがある」というエピソードを披露するが、桑田に「爪が折られてなかったから[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")録っちゃった」と冗談ではあるが返される。なお、そのテープは2012年に桑田の自宅で見つかり、自身のラジオに平井をゲストで呼び、音源が流された。このテープには、[プロコル・ハルム](../Page/プロコル・ハルム.md "wikilink")「[青い影](https://ja.wikipedia.org/wiki/青い影 "wikilink")」、[ビリー・ジョエル](../Page/ビリー・ジョエル.md "wikilink")「[ニューヨークの想い](https://ja.wikipedia.org/wiki/:en:New_York_state_of_mind "wikilink")」の2曲が収録されている\[46\]。
 4.  お嫁においで （[加山雄三](https://ja.wikipedia.org/wiki/加山雄三 "wikilink")）
       -
         桑田が歌詞を「もしもし[亀よ](https://ja.wikipedia.org/wiki/亀頭 "wikilink")、君の[頭は剥けてるかい](https://ja.wikipedia.org/wiki/亀頭 "wikilink")」などとといった卑猥なものに変えて歌ったため、放送では途中でカット。
@@ -974,7 +974,7 @@
 
 ユースケが桑田を呼び出し、突如[夏フェス](../Page/ロック・フェスティバル.md "wikilink")\[48\]への出演を宣言。「持ち歌がない」ユースケは「女性(?)との密会現場」を捉えた[写メール](../Page/写メール.md "wikilink")（後述）で桑田を脅し、ビクタースタジオ・303スタジオを押さえ（たという名目。普段桑田は401スタジオを使用しているが、ユースケは「いくら俺でも押さえられなかった」と述べている。）\[49\]、夏フェス用の楽曲を制作。曲作りはほぼ桑田主導で行われ、ユースケは「スリーコード進行」「期間が短く曲を覚えられないから、全て一音のメロディ」など、注文を付けるのみであった（詞は桑田・ユースケがディスカッション形式で共作）。
 
-楽曲制作中には桑田が「[女呼んでブギ](https://ja.wikipedia.org/wiki/熱い胸さわぎ "wikilink")」「[栞のテーマ](../Page/栞のテーマ.md "wikilink")」([サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink"))、「[A Hard Day's Night](../Page/ビートルズがやって来るヤァ!ヤァ!ヤァ!_\(曲\).md "wikilink")」「[Get Back](../Page/ゲット・バック.md "wikilink")」([ザ・ビートルズ](https://ja.wikipedia.org/wiki/ザ・ビートルズ "wikilink"))を、ユースケが「ユウスケの「サマー・ビーチジゴロ」」([BINGO BONGO](https://ja.wikipedia.org/wiki/BINGO_BONGO "wikilink"))を歌唱する場面もあった。
+楽曲制作中には桑田が「[女呼んでブギ](../Page/熱い胸さわぎ.md "wikilink")」「[栞のテーマ](../Page/栞のテーマ.md "wikilink")」([サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink"))、「[A Hard Day's Night](../Page/ビートルズがやって来るヤァ!ヤァ!ヤァ!_\(曲\).md "wikilink")」「[Get Back](../Page/ゲット・バック.md "wikilink")」([ザ・ビートルズ](https://ja.wikipedia.org/wiki/ザ・ビートルズ "wikilink"))を、ユースケが「ユウスケの「サマー・ビーチジゴロ」」([BINGO BONGO](https://ja.wikipedia.org/wiki/BINGO_BONGO "wikilink"))を歌唱する場面もあった。
 
 楽曲は無事完成し、タイトルは『突然の吐き気 〜えりの思い出〜』と決定\[50\]。しかし、「THE 夢人島 Fes.」の開催日だった[8月26日](../Page/8月26日.md "wikilink")・[27日には自身の主演映画](../Page/8月27日.md "wikilink")『[UDON](../Page/UDON.md "wikilink")』の舞台挨拶と重なっており、ユースケは「やっぱり参加できない」「原さんと来て」と、『UDON』のペア鑑賞券を残してスタジオから退室した。楽曲自体公式に音源化されていなかったものの、2012年の桑田のベストアルバム『[I LOVE YOU -now & forever-](https://ja.wikipedia.org/wiki/I_LOVE_YOU_-now_&_forever- "wikilink")』完全限定生産盤にようやく収録されることになった。また、前述の通り、「突然の吐き気」は2009年に半年間放送された音楽寅さんの番組仮タイトルの候補にもなっていた。
 
@@ -1009,7 +1009,7 @@ DVD-BOX発売記念の[\#第2期（本放送）](https://ja.wikipedia.org/wiki/#
 <!-- end list -->
 
 1.  [本当は怖い愛とロマンス](https://ja.wikipedia.org/wiki/本当は怖い愛とロマンス "wikilink")（桑田佳祐）
-2.  [今でも君を愛してる](https://ja.wikipedia.org/wiki/Keisuke_Kuwata "wikilink")（桑田佳祐）
+2.  [今でも君を愛してる](../Page/Keisuke_Kuwata.md "wikilink")（桑田佳祐）
 3.  [たなばたさま](https://ja.wikipedia.org/wiki/たなばたさま "wikilink")（童謡） 〜 [ベガ](https://ja.wikipedia.org/wiki/MUSICMAN_\(桑田佳祐のアルバム\) "wikilink")（桑田佳祐）
 4.  [MY LITTLE HOMETOWN](../Page/風の詩を聴かせて.md "wikilink")（桑田佳祐）
 5.  [MASARU](https://ja.wikipedia.org/wiki/MASARU "wikilink")（桑田佳祐）
@@ -1112,7 +1112,7 @@ DVD-BOX発売記念の[\#第2期（本放送）](https://ja.wikipedia.org/wiki/#
 10. [広報ちがさき2013年10月15日号](http://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/002/831/1-8ALL.pdf)
 11. 「[茅ヶ崎ライブ 〜あなただけの茅ヶ崎〜](../Page/茅ヶ崎ライブ_〜あなただけの茅ヶ崎〜.md "wikilink")」にもVTRでコメント出演している。
 12. 「CHIYAMA」はその後、桑田の楽曲「[MY LITTLE HOMETOWN](https://ja.wikipedia.org/wiki/風の詩を聴かせて#収録曲 "wikilink")」の歌詞中にも登場している。
-13. [渡邉恒雄](../Page/渡邉恒雄.md "wikilink")、[フリーエージェント](https://ja.wikipedia.org/wiki/フリーエージェント_\(日本プロ野球\) "wikilink")、[逆指名](https://ja.wikipedia.org/wiki/希望入団枠制度 "wikilink")、「生え抜き選手」が少数の（当時の）主力メンバー、[夏季オリンピック](../Page/夏季オリンピック.md "wikilink")野球競技におけるジャイアンツ選手の未派遣（歌詞中では[シドニー](https://ja.wikipedia.org/wiki/シドニーオリンピック野球日本代表 "wikilink")・[アテネ](https://ja.wikipedia.org/wiki/アテネオリンピック野球日本代表 "wikilink")（当時未開催）の2大会を挙げているが、後者へは[高橋由伸](https://ja.wikipedia.org/wiki/高橋由伸 "wikilink")と[上原浩治](https://ja.wikipedia.org/wiki/上原浩治 "wikilink")を派遣している）などへのもの。ただし、歌詞のすべてが巨人を揶揄したものではなく、[松井秀喜](https://ja.wikipedia.org/wiki/松井秀喜 "wikilink")や[長嶋茂雄](../Page/長嶋茂雄.md "wikilink")などを称賛するフレーズも存在した。
+13. [渡邉恒雄](../Page/渡邉恒雄.md "wikilink")、[フリーエージェント](https://ja.wikipedia.org/wiki/フリーエージェント_\(日本プロ野球\) "wikilink")、[逆指名](../Page/希望入団枠制度.md "wikilink")、「生え抜き選手」が少数の（当時の）主力メンバー、[夏季オリンピック](../Page/夏季オリンピック.md "wikilink")野球競技におけるジャイアンツ選手の未派遣（歌詞中では[シドニー](https://ja.wikipedia.org/wiki/シドニーオリンピック野球日本代表 "wikilink")・[アテネ](https://ja.wikipedia.org/wiki/アテネオリンピック野球日本代表 "wikilink")（当時未開催）の2大会を挙げているが、後者へは[高橋由伸](https://ja.wikipedia.org/wiki/高橋由伸 "wikilink")と[上原浩治](https://ja.wikipedia.org/wiki/上原浩治 "wikilink")を派遣している）などへのもの。ただし、歌詞のすべてが巨人を揶揄したものではなく、[松井秀喜](https://ja.wikipedia.org/wiki/松井秀喜 "wikilink")や[長嶋茂雄](../Page/長嶋茂雄.md "wikilink")などを称賛するフレーズも存在した。
 14. 桑田佳祐「ただの歌詩じゃねえか、こんなもん」(1984年、新潮社、p213)
 15.
 16.
@@ -1124,12 +1124,12 @@ DVD-BOX発売記念の[\#第2期（本放送）](https://ja.wikipedia.org/wiki/#
 22. 『産経新聞』平成21年（2009年）6月12日付大阪本社夕刊10面。
 23.
 24.
-25. 渋谷・キラー通りに実在するラーメン店「ホープ軒」が名前の元ネタであり、2回目の終盤で小倉が指摘した。ちなみにこの店の名前はサザンの楽曲「[The Track for the Japanese Typical Foods called “Karaage” & “Soba”](https://ja.wikipedia.org/wiki/キラーストリート "wikilink")」にも出てくる。
+25. 渋谷・キラー通りに実在するラーメン店「ホープ軒」が名前の元ネタであり、2回目の終盤で小倉が指摘した。ちなみにこの店の名前はサザンの楽曲「[The Track for the Japanese Typical Foods called “Karaage” & “Soba”](../Page/キラーストリート.md "wikilink")」にも出てくる。
 26. ただし、尼崎市は大阪ではなく[兵庫県](../Page/兵庫県.md "wikilink")である。
 27. 原由子『あじわい夕日新聞～夢をアリガトウ～』P66、朝日新聞出版、2013年
 28. [桑田佳祐にソウル公演を望む声「両国国民の閉ざされた心を開くだろう」](http://news.livedoor.com/article/detail/9662137/) ライブドアニュース 2015年1月11日
 29. [桑田佳祐、今年初ライブは1万2000人を前に“着ぐるみ姿”でサプライズ出演](https://www.oricon.co.jp/news/66552/full/)オリコンニュース 2009年5月31日 09:00
-30. 番組放送翌日の『[情報ライブ ミヤネ屋](https://ja.wikipedia.org/wiki/情報ライブ_ミヤネ屋 "wikilink")』では、サザンのファンで番組を見ていた[宮根誠司](../Page/宮根誠司.md "wikilink")が「（本番組で）『ミヤネ屋』と書かれた[襷](https://ja.wikipedia.org/wiki/襷 "wikilink")を掛けていた」と紹介。
+30. 番組放送翌日の『[情報ライブ ミヤネ屋](../Page/情報ライブ_ミヤネ屋.md "wikilink")』では、サザンのファンで番組を見ていた[宮根誠司](../Page/宮根誠司.md "wikilink")が「（本番組で）『ミヤネ屋』と書かれた[襷](https://ja.wikipedia.org/wiki/襷 "wikilink")を掛けていた」と紹介。
 31. 「桑田佳祐の音楽寅さん 〜MUSIC TIGER〜 あいなめBOX」 Disc 2より。
 32. [原由子](../Page/原由子.md "wikilink")『あじわい夕日新聞～夢をアリガトウ～』P66 - 67、朝日新聞出版、2013年
 33.
@@ -1138,7 +1138,7 @@ DVD-BOX発売記念の[\#第2期（本放送）](https://ja.wikipedia.org/wiki/#
 36. 選ばれた文学作品はすべて、日本国内において[著作権](../Page/著作権.md "wikilink")が切れている。
 37. ちなみに芥川龍之介の名前はサザンの楽曲「[マンピーのG☆SPOT](https://ja.wikipedia.org/wiki/マンピーのG☆SPOT "wikilink")」にも出てくる。
 38. 「桑田佳祐の音楽寅さん 〜MUSIC TIGER〜 あいなめBOX」 Disc 4より。
-39. なお、番組の中盤ではバーに設置されているテレビに当時小雪が出演していた映画『[カムイ外伝](https://ja.wikipedia.org/wiki/カムイ外伝#実写映画 "wikilink")』（[崔洋一](https://ja.wikipedia.org/wiki/崔洋一 "wikilink")監督）の予告編が流れる演出があった。DVD版では桑田の映像に差し替えられた。
+39. なお、番組の中盤ではバーに設置されているテレビに当時小雪が出演していた映画『[カムイ外伝](https://ja.wikipedia.org/wiki/カムイ外伝#実写映画 "wikilink")』（[崔洋一](../Page/崔洋一.md "wikilink")監督）の予告編が流れる演出があった。DVD版では桑田の映像に差し替えられた。
 40.
 41.
 42.

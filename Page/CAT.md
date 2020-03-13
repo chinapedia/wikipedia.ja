@@ -33,7 +33,7 @@
 
   - [シティ・エアポート・トレイン](https://ja.wikipedia.org/wiki/シティ・エアポート・トレイン "wikilink") (**C**ity **A**irport **T**rain) - オーストリアの[ウィーン国際空港](../Page/ウィーン国際空港.md "wikilink")とウィーン市内を結ぶ列車。
 
-  - [民航空運公司](../Page/民航空運公司.md "wikilink") - [中華民国](https://ja.wikipedia.org/wiki/中華民国 "wikilink")に存在した[航空会社](../Page/航空会社.md "wikilink") (**C**ivil **A**ir **T**ransport/CAT)
+  - [民航空運公司](../Page/民航空運公司.md "wikilink") - [中華民国](../Page/中華民国.md "wikilink")に存在した[航空会社](../Page/航空会社.md "wikilink") (**C**ivil **A**ir **T**ransport/CAT)
 
   - [コンピュータ支援検査](https://ja.wikipedia.org/wiki/コンピュータ支援検査 "wikilink") (**C**omputer **A**ided **T**esting)
 

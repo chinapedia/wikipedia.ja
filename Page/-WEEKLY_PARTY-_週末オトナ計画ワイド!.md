@@ -3,7 +3,7 @@
 
 『**-WEEKLY PARTY- 週末オトナ計画ワイド！**』（ウィークリーパーティ しゅうまつオトナけいかくワイド）は[広島エフエム放送](../Page/広島エフエム放送.md "wikilink")のワイド番組。[2003年](../Page/2003年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に金曜日の12:00から放送されている『[-WEEKLY PARTY- 週末オトナ計画](../Page/-WEEKLY_PARTY-_週末オトナ計画.md "wikilink")』を朝（モーニングサイド：前枠は『[田中宏之のウィークエンドパッションひろしま](https://ja.wikipedia.org/wiki/田中宏之のウィークエンドパッションひろしま "wikilink")』）と昼（アフターヌーンサイド）の2部構成とする形でスタートしたが、2003年[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")にモーニングサイドが終了し、アフタヌーンサイドのみ継続となり、タイトルも『[-WEEKLY PARTY- 週末オトナ計画](../Page/-WEEKLY_PARTY-_週末オトナ計画.md "wikilink")』に戻った。アフタヌーンサイドも2006年3月24日を以って終了した。
 
-モーニングサイドの後枠は『[WEEKEND FLY\! DAY](https://ja.wikipedia.org/wiki/WEEKEND_FLY!_DAY "wikilink")』（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")終了）であるが、2003年3月まで『週末…』のパーソナリティである[村上ゆみえ](../Page/村上ゆみえ.md "wikilink")が番組のパーソナリティを務めていたため、実質『週末…』のモーニングサイドのリニューアルといえる。また、レポーターである[桧垣直子](https://ja.wikipedia.org/wiki/桧垣直子 "wikilink")も出演していた。
+モーニングサイドの後枠は『[WEEKEND FLY\! DAY](../Page/WEEKEND_FLY!_DAY.md "wikilink")』（[2005年](../Page/2005年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")終了）であるが、2003年3月まで『週末…』のパーソナリティである[村上ゆみえ](../Page/村上ゆみえ.md "wikilink")が番組のパーソナリティを務めていたため、実質『週末…』のモーニングサイドのリニューアルといえる。また、レポーターである[桧垣直子](https://ja.wikipedia.org/wiki/桧垣直子 "wikilink")も出演していた。
 
 ## タイムテーブル
 

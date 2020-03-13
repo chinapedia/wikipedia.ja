@@ -5,7 +5,7 @@
 
 ## 歴史
 
-[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")から[2002年](../Page/2002年.md "wikilink")まで、[マウリツィオ・ザンパリーニ](https://ja.wikipedia.org/wiki/マウリツィオ・ザンパリーニ "wikilink")（現[パレルモ会長](../Page/USチッタ・ディ・パレルモ.md "wikilink")）がクラブを所有。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、それまでの*ACヴェネツィア* (*Associazione Calcio Venezia 1907*) から*SSCヴェネツィア* (*Società Sportiva Calcio Venezia*) にチーム名を変更した。なお、ACヴェネツィアと名乗っていた1999年から2000年にかけて、[名波浩](../Page/名波浩.md "wikilink")が在籍していた。
+[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")から[2002年](../Page/2002年.md "wikilink")まで、[マウリツィオ・ザンパリーニ](https://ja.wikipedia.org/wiki/マウリツィオ・ザンパリーニ "wikilink")（現[パレルモ会長](../Page/USチッタ・ディ・パレルモ.md "wikilink")）がクラブを所有。[2005年](../Page/2005年.md "wikilink")、それまでの*ACヴェネツィア* (*Associazione Calcio Venezia 1907*) から*SSCヴェネツィア* (*Società Sportiva Calcio Venezia*) にチーム名を変更した。なお、ACヴェネツィアと名乗っていた1999年から2000年にかけて、[名波浩](../Page/名波浩.md "wikilink")が在籍していた。
 
 しかし、かねてより経営の危機が囁かれていた2008-09シーズン終了後、二度目の破産。*FBCウニオーネ・ヴェネツィア* (*Foot Ball Club Unione Venezia*) と改名し再結成のうえ、2009-10シーズンに[セリエD](https://ja.wikipedia.org/wiki/セリエD "wikilink")から再スタートした。2011-12シーズンにセリエDで優勝したのに続き、翌シーズンの[レガ・プロ・セコンダ・ディヴィジオーネ](../Page/レガ・プロ・セコンダ・ディヴィジオーネ.md "wikilink")でもタイトルを獲得し[レガ・プロ・プリマ・ディヴィジオーネ](../Page/レガ・プロ・プリマ・ディヴィジオーネ.md "wikilink")に昇格した。
 
@@ -15,7 +15,7 @@
 
 ### 国内タイトル
 
-  - **[コッパ・イタリア](https://ja.wikipedia.org/wiki/コッパ・イタリア "wikilink") : 1回**
+  - **[コッパ・イタリア](../Page/コッパ・イタリア.md "wikilink") : 1回**
       - 1940-41
   - **[セリエB](../Page/セリエB_\(サッカー\).md "wikilink") : 2回**
       - 1960-61, 1965-66

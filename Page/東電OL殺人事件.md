@@ -39,7 +39,7 @@
 
 [2000年](../Page/2000年.md "wikilink")（平成12年）[4月14日](../Page/4月14日.md "wikilink")、[東京地方裁判所](../Page/東京地方裁判所.md "wikilink")（[大渕敏和](../Page/大渕敏和.md "wikilink")裁判長、[森健二](https://ja.wikipedia.org/wiki/森健二 "wikilink")・[高山光明](https://ja.wikipedia.org/wiki/高山光明 "wikilink")裁判官）で、現場から第三者の体毛が見つかったことなどを「解明できない疑問点」として挙げ、「第三者が犯行時に現場にいた可能性も否定できず、立証不十分」として、無罪[判決](https://ja.wikipedia.org/wiki/判決 "wikilink")が言い渡された。しかし、[4月18日](../Page/4月18日.md "wikilink")に検察側が[控訴](../Page/控訴.md "wikilink")した。
 
-[大渕敏和](../Page/大渕敏和.md "wikilink")裁判長は<sub>、</sub>同年12月の玉突き人事\[2\]の際、東京地裁八王子支部部総括判事に異動となり、この点につき[佐野眞一](../Page/佐野眞一.md "wikilink")は左遷にあったと指摘している\[3\]。大渕裁判長は、判事就任以来20年間にわたり、[東京高裁管内の裁判所および](../Page/東京高等裁判所.md "wikilink")[最高裁判所でのみ勤務していた](../Page/最高裁判所_\(日本\).md "wikilink")。しかし八王子支部のあとは、それまで一度も勤務したことのなかった[広島で初めて高裁部総括判事となり](https://ja.wikipedia.org/wiki/広島市 "wikilink")、[福井](../Page/福井市.md "wikilink")（地裁所長）、[大阪](../Page/大阪市.md "wikilink")（高裁部総括判事）の各裁判所を転々としたが、東京高裁管内の地裁所長、東京高裁の部総括判事以上には昇らず、[定年](../Page/定年.md "wikilink")に2年あまりを残して[依願退官し](https://ja.wikipedia.org/wiki/依願退職 "wikilink")[公証人](https://ja.wikipedia.org/wiki/公証人 "wikilink")に転じた。
+[大渕敏和](../Page/大渕敏和.md "wikilink")裁判長は<sub>、</sub>同年12月の玉突き人事\[2\]の際、東京地裁八王子支部部総括判事に異動となり、この点につき[佐野眞一](../Page/佐野眞一.md "wikilink")は左遷にあったと指摘している\[3\]。大渕裁判長は、判事就任以来20年間にわたり、[東京高裁管内の裁判所および](../Page/東京高等裁判所.md "wikilink")[最高裁判所でのみ勤務していた](../Page/最高裁判所_\(日本\).md "wikilink")。しかし八王子支部のあとは、それまで一度も勤務したことのなかった[広島で初めて高裁部総括判事となり](https://ja.wikipedia.org/wiki/広島市 "wikilink")、[福井](../Page/福井市.md "wikilink")（地裁所長）、[大阪](../Page/大阪市.md "wikilink")（高裁部総括判事）の各裁判所を転々としたが、東京高裁管内の地裁所長、東京高裁の部総括判事以上には昇らず、[定年](../Page/定年.md "wikilink")に2年あまりを残して[依願退官し](https://ja.wikipedia.org/wiki/依願退職 "wikilink")[公証人](../Page/公証人.md "wikilink")に転じた。
 
 ### 控訴審・上告審（無期懲役）
 
@@ -49,7 +49,7 @@
 
 ### 再審請求
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）[3月24日](../Page/3月24日.md "wikilink")、[横浜刑務所](../Page/横浜刑務所.md "wikilink")に[収監](https://ja.wikipedia.org/wiki/収監 "wikilink")されたゴビンダは、獄中から東京高裁に[再審](../Page/再審.md "wikilink")を請求した。収監中の男性に対し、[日本国民救援会](../Page/日本国民救援会.md "wikilink")が支援を行った。また、[日本弁護士連合会](../Page/日本弁護士連合会.md "wikilink")も、[2006年](../Page/2006年.md "wikilink")（平成18年）[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に冤罪事件として、専門家の派遣・費用の援助など、さまざまな形での支援を決定している\[6\]。
+[2005年](../Page/2005年.md "wikilink")（平成17年）[3月24日](../Page/3月24日.md "wikilink")、[横浜刑務所](../Page/横浜刑務所.md "wikilink")に[収監](https://ja.wikipedia.org/wiki/収監 "wikilink")されたゴビンダは、獄中から東京高裁に[再審](../Page/再審.md "wikilink")を請求した。収監中の男性に対し、[日本国民救援会](../Page/日本国民救援会.md "wikilink")が支援を行った。また、[日本弁護士連合会](../Page/日本弁護士連合会.md "wikilink")も、[2006年](../Page/2006年.md "wikilink")（平成18年）[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に冤罪事件として、専門家の派遣・費用の援助など、さまざまな形での支援を決定している\[6\]。
 
 [2011年](../Page/2011年.md "wikilink")（平成23年）[7月21日](../Page/7月21日.md "wikilink")、[東京高裁の再審請求審で弁護側が要請し](../Page/東京高等裁判所.md "wikilink")、東京高裁がそれを受けて現場で採取された物証のうち、DNA鑑定をしていないものについて実施するよう検察側に要請し、[東京高検がDNA鑑定を実施した](../Page/東京高等検察庁.md "wikilink")。その結果、遺体から採取された精液から検出されたDNAはゴビンダのものと一致しないことが判明し、現場に残された体毛と一致することが分かったと報道された\[7\]。
 
@@ -70,7 +70,7 @@
 
 ### 帰国
 
-ゴビンダは[入管難民法](https://ja.wikipedia.org/wiki/入管難民法 "wikilink")違反（[不法残留](https://ja.wikipedia.org/wiki/不法残留 "wikilink")）で有罪が確定しているため、[国外強制退去処分を受けて](../Page/退去強制.md "wikilink")、[横浜刑務所](../Page/横浜刑務所.md "wikilink")釈放後に[東京入国管理局](https://ja.wikipedia.org/wiki/東京入国管理局 "wikilink")横浜支局に身柄を移され\[12\]、駐日本国ネパール連邦民主共和国[大使館](../Page/大使館.md "wikilink")から[パスポート](https://ja.wikipedia.org/wiki/パスポート "wikilink")の発給を受けて、2012年6月15日、[成田国際空港](https://ja.wikipedia.org/wiki/成田国際空港 "wikilink")から[タイ](../Page/タイ王国.md "wikilink")・[バンコク](../Page/バンコク.md "wikilink")行旅客機で[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")を出国し、ネパールへ帰国した\[13\]\[14\]\[15\]。こうしてゴビンダは家族の元に帰ることができたが、実父は息子との再会を果たせないまま、5年前に他界していた\[16\]。
+ゴビンダは[入管難民法](https://ja.wikipedia.org/wiki/入管難民法 "wikilink")違反（[不法残留](https://ja.wikipedia.org/wiki/不法残留 "wikilink")）で有罪が確定しているため、[国外強制退去処分を受けて](../Page/退去強制.md "wikilink")、[横浜刑務所](../Page/横浜刑務所.md "wikilink")釈放後に[東京入国管理局](https://ja.wikipedia.org/wiki/東京入国管理局 "wikilink")横浜支局に身柄を移され\[12\]、駐日本国ネパール連邦民主共和国[大使館](../Page/大使館.md "wikilink")から[パスポート](https://ja.wikipedia.org/wiki/パスポート "wikilink")の発給を受けて、2012年6月15日、[成田国際空港](../Page/成田国際空港.md "wikilink")から[タイ](../Page/タイ王国.md "wikilink")・[バンコク](../Page/バンコク.md "wikilink")行旅客機で[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")を出国し、ネパールへ帰国した\[13\]\[14\]\[15\]。こうしてゴビンダは家族の元に帰ることができたが、実父は息子との再会を果たせないまま、5年前に他界していた\[16\]。
 
 ### 再審（無罪判決）
 
@@ -82,7 +82,7 @@
 
 ### 再来日
 
-2017年、ゴビンダは支援者らの呼びかけで来日し、[文京区民センター](https://ja.wikipedia.org/wiki/文京区民センター "wikilink")で開催された「くりかえすな冤罪！市民集会」に出席し、「日本は素晴らしい国なのに、冤罪の人がたくさんいます。二度と私のような冤罪者を作らないようにしてほしい」などと語った。その後、ゴビンダが「神様」と慕う[佐野眞一](../Page/佐野眞一.md "wikilink")の取材を、[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")の事件現場で夫婦で受け、一番会いたい司法関係者は、との問いに、一審で無罪判決を出した[大渕敏和](../Page/大渕敏和.md "wikilink")[裁判長](../Page/裁判長.md "wikilink")と答えるなどしたが、再審無罪後、東京[公証人](https://ja.wikipedia.org/wiki/公証人 "wikilink")協会評議員会[議長](https://ja.wikipedia.org/wiki/議長 "wikilink")となった大渕元裁判長に面会することはかなわなかった\[19\]。
+2017年、ゴビンダは支援者らの呼びかけで来日し、[文京区民センター](https://ja.wikipedia.org/wiki/文京区民センター "wikilink")で開催された「くりかえすな冤罪！市民集会」に出席し、「日本は素晴らしい国なのに、冤罪の人がたくさんいます。二度と私のような冤罪者を作らないようにしてほしい」などと語った。その後、ゴビンダが「神様」と慕う[佐野眞一](../Page/佐野眞一.md "wikilink")の取材を、[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")の事件現場で夫婦で受け、一番会いたい司法関係者は、との問いに、一審で無罪判決を出した[大渕敏和](../Page/大渕敏和.md "wikilink")[裁判長](../Page/裁判長.md "wikilink")と答えるなどしたが、再審無罪後、東京[公証人](../Page/公証人.md "wikilink")協会評議員会[議長](../Page/議長.md "wikilink")となった大渕元裁判長に面会することはかなわなかった\[19\]。
 
 ## その他問題となった点
 
@@ -122,7 +122,7 @@
         2007年に『女性未解決事件ファイル』に改題され、新風舎文庫より文庫化。
   - 無実のゴビンダさんを支える会『神様、わたしやっていない\!—ゴビンダさん冤罪事件』（2001年12月、現代人文社）
   - 佐野眞一『東電OL症候群』（2003年、新潮社）
-  - 押田茂実『死人に口あり—現場の法医学・法医解剖室より』（2004年11月、[実業之日本社](https://ja.wikipedia.org/wiki/実業之日本社 "wikilink")）
+  - 押田茂実『死人に口あり—現場の法医学・法医解剖室より』（2004年11月、[実業之日本社](../Page/実業之日本社.md "wikilink")）
   - 真樹龍彦『「東電OL殺人事件」行—迷宮のヒロイン』（2005年8月、[沖積舎](https://ja.wikipedia.org/wiki/沖積舎 "wikilink")）
   - 永島雪夫『東電OL強盗殺人事件 午前0時の逃亡者』（2008年4月、リアン合同会社）
   - [読売新聞](../Page/読売新聞.md "wikilink")社会部『東電OL事件—DNAが暴いた闇』（2012年11月、[中央公論新社](../Page/中央公論新社.md "wikilink")）

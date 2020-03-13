@@ -183,7 +183,7 @@
 | 12月18日 | [ニード・フォー・スピード アンダーカバー](../Page/ニード・フォー・スピード_アンダーカバー.md "wikilink")（エレクトロニック・アーツ）                                                                                                                                                                                         |                                                                                     |             |
 | 12月18日 | [ガンダム無双2](https://ja.wikipedia.org/wiki/ガンダム無双#ガンダム無双2 "wikilink")（バンダイナムコゲームス）                                                                                                                                                                                          |                                                                                     |             |
 | 12月18日 | [beatmania IIDX 15 DJ TROOPERS](https://ja.wikipedia.org/wiki/beatmania_IIDX "wikilink")（コナミデジタルエンタテインメント）                                                                                                                                                               |                                                                                     |             |
-| 12月18日 | [FIFA 09 ワールドクラス サッカー](https://ja.wikipedia.org/wiki/FIFAシリーズ "wikilink")（エレクトロニック・アーツ）                                                                                                                                                                                  |                                                                                     |             |
+| 12月18日 | [FIFA 09 ワールドクラス サッカー](../Page/FIFAシリーズ.md "wikilink")（エレクトロニック・アーツ）                                                                                                                                                                                                     |                                                                                     |             |
 | 12月18日 | [ADK魂](https://ja.wikipedia.org/wiki/エーディーケイ#倒産後 "wikilink")（SNKプレイモア）                                                                                                                                                                                                   |                                                                                     |             |
 | 12月25日 | [ぱちんこ冬のソナタ2 パチってちょんまげ達人15](https://ja.wikipedia.org/wiki/CRぱちんこ冬のソナタ2 "wikilink")（[京楽産業ホールディングス](https://ja.wikipedia.org/wiki/京楽産業ホールディングス "wikilink")）                                                                                                                 |                                                                                     |             |
 
@@ -288,7 +288,7 @@
 </tr>
 <tr class="odd">
 <td><p>03月12日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ギャラクシーエンジェルII" title="wikilink">ギャラクシーエンジェルII 永劫回帰の刻</a></p></td>
+<td><p><a href="../Page/ギャラクシーエンジェルII.md" title="wikilink">ギャラクシーエンジェルII 永劫回帰の刻</a></p></td>
 <td><p>ブロッコリー</p></td>
 <td><p>限定版あり</p></td>
 </tr>
@@ -474,7 +474,7 @@
 </tr>
 <tr class="even">
 <td><p>07月30日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/つよきす" title="wikilink">つよきす −Swift Love−</a>2学期</p></td>
+<td><p><a href="../Page/つよきす.md" title="wikilink">つよきす −Swift Love−</a>2学期</p></td>
 <td><p>revolution</p></td>
 <td><p>限定版あり</p></td>
 </tr>

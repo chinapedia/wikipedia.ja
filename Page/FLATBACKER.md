@@ -113,6 +113,6 @@ E・Z・O改名後の[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")
 4.  『ヘドバン』Vol.23（2019年 シンコーミュージック・エンタテイメント）175p
 5.
 6.  [SUSHISAMBA](http://sushisamba.com/location/miami/dromo/team) 2015年4月16日閲覧
-7.  『ヘドバン』Vol.2 （2013年 [シンコーミュージック・エンタテイメント](https://ja.wikipedia.org/wiki/シンコーミュージック・エンタテイメント "wikilink")）101p
+7.  『ヘドバン』Vol.2 （2013年 [シンコーミュージック・エンタテイメント](../Page/シンコーミュージック・エンタテイメント.md "wikilink")）101p
 8.  [MORRIEのInstagram 2019年6月14日](https://www.instagram.com/p/Byr-z_3p2Ic/)
 9.  『ヘドバン』Vol.2 （2013年 シンコーミュージック・エンタテイメント） 103p

@@ -81,7 +81,7 @@
       -
         「Dear…あなたへ」 - 作曲（作詞：宇都美慶子、編曲：旭純）
   - [大西結花](https://ja.wikipedia.org/wiki/大西結花 "wikilink")
-      - 「まぶしい想いにして」 - 作詞・作曲（編曲：[倉田信雄](https://ja.wikipedia.org/wiki/倉田信雄 "wikilink")）
+      - 「まぶしい想いにして」 - 作詞・作曲（編曲：[倉田信雄](../Page/倉田信雄.md "wikilink")）
       - 「昨日よりステキに…」 - 作詞・作曲（編曲：倉田信雄）
   - [笠原弘子](../Page/笠原弘子.md "wikilink")
       -

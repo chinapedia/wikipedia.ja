@@ -11,7 +11,7 @@
 
 夜間のスポットニュースについては、『道新ニュース』が放送されていた時代は日曜日のみ差し替えていた。
 
-かつては『[ショットガン](https://ja.wikipedia.org/wiki/ショットガン_\(ニュース\) "wikilink")』の後番組となる『FNNニュース』のタイトル差し替えとして19:58枠でも放送していた。
+かつては『[ショットガン](../Page/ショットガン_\(ニュース\).md "wikilink")』の後番組となる『FNNニュース』のタイトル差し替えとして19:58枠でも放送していた。
 
 [2017年](../Page/2017年.md "wikilink")からは、[インターネット](../Page/インターネット.md "wikilink")におけるニュースの名称を**北海道ニュースUHB**としている（UHBの[ウェブサイト](../Page/ウェブサイト.md "wikilink")、ならびにUHBが配信している[Yahoo\!ニュース](https://ja.wikipedia.org/wiki/Yahoo!ニュース "wikilink")、[LINEで表記](https://ja.wikipedia.org/wiki/LINE_\(アプリケーション\) "wikilink")）。[2018年](../Page/2018年.md "wikilink")には[Twitter](../Page/Twitter.md "wikilink")も含めて名称を統一している。
 

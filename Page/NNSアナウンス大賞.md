@@ -7,7 +7,7 @@
 
   - [1981年](../Page/1981年.md "wikilink")からNNS系列各局のアナウンサーの資質向上を目的に開始された。
   - **大賞**は、テレビ部門・ラジオ部門の2部門制で、各部門に1名ずつ与えられる。
-  - ラジオ部門は、NNS系列の[ラテ兼営](../Page/ラテ兼営.md "wikilink")11局に、[札幌テレビ放送](../Page/札幌テレビ放送.md "wikilink")の[子会社](https://ja.wikipedia.org/wiki/子会社 "wikilink")である[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")と日本テレビの関連会社である[アール・エフ・ラジオ日本](../Page/アール・エフ・ラジオ日本.md "wikilink")を含む13局が対象。
+  - ラジオ部門は、NNS系列の[ラテ兼営](../Page/ラテ兼営.md "wikilink")11局に、[札幌テレビ放送](../Page/札幌テレビ放送.md "wikilink")の[子会社](../Page/子会社.md "wikilink")である[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")と日本テレビの関連会社である[アール・エフ・ラジオ日本](../Page/アール・エフ・ラジオ日本.md "wikilink")を含む13局が対象。
   - [2006年](../Page/2006年.md "wikilink")度に、新人部門（入社3年以内のアナウンサーが対象）が新たに設けられた。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")度は、テレビ部門の選考が激戦だったため、特別に「最優秀パーソナリティ賞」を設置している。
   - 授賞式は毎年3月頃に行われ、『北海道・東北』、『関東・中部』、『西日本』、『九州』の4ブロックからノミネートされた10人前後のアナウンサーの中から受賞者が発表される。
@@ -41,7 +41,7 @@
 <tr class="odd">
 <td><p>第22回<br />
 （<a href="../Page/2001年.md" title="wikilink">2001年</a>）[1]</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/保岡栄二" title="wikilink">保岡栄二</a>（<a href="https://ja.wikipedia.org/wiki/四国放送" title="wikilink">四国放送</a>）</p></td>
+<td><p><a href="../Page/保岡栄二.md" title="wikilink">保岡栄二</a>（<a href="https://ja.wikipedia.org/wiki/四国放送" title="wikilink">四国放送</a>）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/佐藤正幸" title="wikilink">佐藤正幸</a>（<a href="https://ja.wikipedia.org/wiki/福井放送" title="wikilink">福井放送</a>）</p></td>
 <td><p><a href="../Page/福岡竜馬.md" title="wikilink">福岡竜馬</a>（<a href="../Page/福岡放送.md" title="wikilink">福岡放送</a>）</p></td>
 </tr>
@@ -55,7 +55,7 @@
 <tr class="odd">
 <td><p>第24回<br />
 （<a href="../Page/2003年.md" title="wikilink">2003年</a>）[3]</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/藤井利彦" title="wikilink">藤井利彦</a>（<a href="../Page/中京テレビ放送.md" title="wikilink">中京テレビ放送</a>）</p></td>
+<td><p><a href="../Page/藤井利彦.md" title="wikilink">藤井利彦</a>（<a href="../Page/中京テレビ放送.md" title="wikilink">中京テレビ放送</a>）</p></td>
 <td><p><a href="../Page/室田智美.md" title="wikilink">室田智美</a>（<a href="../Page/札幌テレビ放送.md" title="wikilink">札幌テレビ放送</a>）</p></td>
 <td></td>
 </tr>
@@ -68,7 +68,7 @@
 </tr>
 <tr class="odd">
 <td><p>第26回<br />
-（<a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a>）</p></td>
+（<a href="../Page/2005年.md" title="wikilink">2005年</a>）</p></td>
 <td><p><a href="../Page/河村亮.md" title="wikilink">河村亮</a>（<a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ放送網</a>）</p></td>
 <td><p><a href="../Page/谷口祐子.md" title="wikilink">谷口祐子</a>（<a href="../Page/札幌テレビ放送.md" title="wikilink">札幌テレビ放送</a>）</p></td>
 <td></td>
@@ -77,8 +77,8 @@
 <td><p>第27回<br />
 （<a href="../Page/2006年.md" title="wikilink">2006年</a>）[5]</p></td>
 <td><p><a href="../Page/平川健太郎.md" title="wikilink">平川健太郎</a>（<a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ放送網</a>）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/佐伯りさ" title="wikilink">佐伯りさ</a>（<a href="https://ja.wikipedia.org/wiki/南海放送" title="wikilink">南海放送</a>）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/松岡陽子" title="wikilink">松岡陽子</a>（<a href="../Page/中京テレビ放送.md" title="wikilink">中京テレビ放送</a>）</p></td>
+<td><p><a href="../Page/佐伯りさ.md" title="wikilink">佐伯りさ</a>（<a href="https://ja.wikipedia.org/wiki/南海放送" title="wikilink">南海放送</a>）</p></td>
+<td><p><a href="../Page/松岡陽子.md" title="wikilink">松岡陽子</a>（<a href="../Page/中京テレビ放送.md" title="wikilink">中京テレビ放送</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>第28回<br />
@@ -139,7 +139,7 @@
 <tr class="odd">
 <td><p>第36回<br />
 （<a href="../Page/2015年.md" title="wikilink">2015年</a>）[13]</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/急式裕美" title="wikilink">急式裕美</a>（<a href="../Page/札幌テレビ放送.md" title="wikilink">札幌テレビ放送</a>）</p></td>
+<td><p><a href="../Page/急式裕美.md" title="wikilink">急式裕美</a>（<a href="../Page/札幌テレビ放送.md" title="wikilink">札幌テレビ放送</a>）</p></td>
 <td><p><a href="../Page/岩本和弘.md" title="wikilink">岩本和弘</a>（<a href="https://ja.wikipedia.org/wiki/福井放送" title="wikilink">福井放送</a>）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/佐野祐子" title="wikilink">佐野祐子</a>（<a href="../Page/中京テレビ放送.md" title="wikilink">中京テレビ放送</a>）</p></td>
 </tr>
@@ -168,7 +168,7 @@
 <td><p>第40回<br />
 （<a href="../Page/2019年.md" title="wikilink">2019年</a>）[17]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/山本紘之" title="wikilink">山本紘之</a>（<a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ放送網</a>）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/吉川典雄" title="wikilink">吉川典雄</a>（<a href="../Page/札幌テレビ放送.md" title="wikilink">札幌テレビ放送</a>）</p></td>
+<td><p><a href="../Page/吉川典雄.md" title="wikilink">吉川典雄</a>（<a href="../Page/札幌テレビ放送.md" title="wikilink">札幌テレビ放送</a>）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/北本隆雄" title="wikilink">北本隆雄</a>（<a href="../Page/札幌テレビ放送.md" title="wikilink">札幌テレビ放送</a>）</p></td>
 </tr>
 </tbody>
@@ -178,9 +178,9 @@
 
 ## 関連項目
 
-  - [アノンシスト賞](https://ja.wikipedia.org/wiki/アノンシスト賞 "wikilink")
+  - [アノンシスト賞](../Page/アノンシスト賞.md "wikilink")
   - [FNSアナウンス大賞](../Page/FNSアナウンス大賞.md "wikilink")
-  - [ANNアナウンサー賞](https://ja.wikipedia.org/wiki/ANNアナウンサー賞 "wikilink")
+  - [ANNアナウンサー賞](../Page/ANNアナウンサー賞.md "wikilink")
 
 [Category:日本テレビ放送網](https://ja.wikipedia.org/wiki/Category:日本テレビ放送網 "wikilink") [Category:テレビの賞](https://ja.wikipedia.org/wiki/Category:テレビの賞 "wikilink") [Category:日本のメディア賞](https://ja.wikipedia.org/wiki/Category:日本のメディア賞 "wikilink") [Category:日本テレビ系列](https://ja.wikipedia.org/wiki/Category:日本テレビ系列 "wikilink") [Category:アール・エフ・ラジオ日本](https://ja.wikipedia.org/wiki/Category:アール・エフ・ラジオ日本 "wikilink")
 

@@ -1,7 +1,7 @@
 > この記事は[THE WAVE!](https://ja.wikipedia.org/wiki/THE_WAVE!)から翻訳されています。
 
 
-**THE WAVE\!**（**ザ ウェイブ**）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink")・24日放送の[FNS ALLSTARS あっつい25時間テレビやっぱ楽しくなければテレビじゃないもん\!内で放送された](../Page/FNS25時間テレビ.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")の作品。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")のドラマ「[24 -TWENTY FOUR-](https://ja.wikipedia.org/wiki/24_-TWENTY_FOUR- "wikilink")」をモチーフとした[リアルタイム](../Page/リアルタイム.md "wikilink")ドラマの逆輸入・日本版で、25時間内で全部で13話を放送。放送前の各種プロモーションでは題名が「THE WAVE\!」と表記されたことがあるが、実際の放送で使われたロゴは感嘆符のない「THE WAVE」である。
+**THE WAVE\!**（**ザ ウェイブ**）は、[2005年](../Page/2005年.md "wikilink")[7月23日](../Page/7月23日.md "wikilink")・24日放送の[FNS ALLSTARS あっつい25時間テレビやっぱ楽しくなければテレビじゃないもん\!内で放送された](../Page/FNS25時間テレビ.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")の作品。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")のドラマ「[24 -TWENTY FOUR-](https://ja.wikipedia.org/wiki/24_-TWENTY_FOUR- "wikilink")」をモチーフとした[リアルタイム](../Page/リアルタイム.md "wikilink")ドラマの逆輸入・日本版で、25時間内で全部で13話を放送。放送前の各種プロモーションでは題名が「THE WAVE\!」と表記されたことがあるが、実際の放送で使われたロゴは感嘆符のない「THE WAVE」である。
 
 ## 概要
 

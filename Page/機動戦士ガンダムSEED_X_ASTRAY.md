@@ -112,7 +112,7 @@
   - 原作 - [矢立肇](../Page/矢立肇.md "wikilink")、[富野由悠季](../Page/富野由悠季.md "wikilink")
   - SEED キャラクターデザイン - [平井久司](../Page/平井久司.md "wikilink")
   - ASTRAY\&X ASTRAYキャラクター原案 - 植田洋一
-  - SEEDメカニックデザイン - [大河原邦男](../Page/大河原邦男.md "wikilink")、[山根公利](https://ja.wikipedia.org/wiki/山根公利 "wikilink")
+  - SEEDメカニックデザイン - [大河原邦男](../Page/大河原邦男.md "wikilink")、[山根公利](../Page/山根公利.md "wikilink")
   - ASTRAYメカニックデザイン - 阿久津潤一（ビークラフト）
   - X ASTRAYメカニックデザイン - 大河原邦男
   - 設定・企画協力 - 森田繁

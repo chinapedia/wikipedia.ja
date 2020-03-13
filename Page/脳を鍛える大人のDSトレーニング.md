@@ -5,7 +5,7 @@
 
 副題も含めたタイトルは『**東北大学未来科学技術共同研究センター川島隆太教授監修 脳を鍛える大人のDSトレーニング**』（とうほくだいがくみらいかがくぎじゅつきょうどうけんきゅうセンターかわしまりゅうたきょうじゅかんしゅう のうをきたえるおとなのディーエストレーニング、）であり、これが正式名称である。
 
-ジャンルは「脳活性化ソフト」で「[Touch\! Generations](../Page/Touch!_Generations.md "wikilink")」シリーズの1つ。副題にある通り、[東北大学](https://ja.wikipedia.org/wiki/東北大学 "wikilink")未来科学技術共同研究センター教授（発売当時。後に同大学加齢医学研究所教授へ異動）・医学博士の[川島隆太](https://ja.wikipedia.org/wiki/川島隆太 "wikilink")が監修している。ゲーム中には川島本人がポリゴン化したキャラクターで登場しており、プレイヤーに色々なアドバイスをする。
+ジャンルは「脳活性化ソフト」で「[Touch\! Generations](../Page/Touch!_Generations.md "wikilink")」シリーズの1つ。副題にある通り、[東北大学](https://ja.wikipedia.org/wiki/東北大学 "wikilink")未来科学技術共同研究センター教授（発売当時。後に同大学加齢医学研究所教授へ異動）・医学博士の[川島隆太](../Page/川島隆太.md "wikilink")が監修している。ゲーム中には川島本人がポリゴン化したキャラクターで登場しており、プレイヤーに色々なアドバイスをする。
 
 [2014年](../Page/2014年.md "wikilink")[6月4日](../Page/6月4日.md "wikilink")には、[Wii U用](https://ja.wikipedia.org/wiki/Wii_U "wikilink")[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")として[6月30日](../Page/6月30日.md "wikilink")まで期間限定で無料配信され、[2015年](../Page/2015年.md "wikilink")[8月5日](../Page/8月5日.md "wikilink")には680円で正式に販売が開始した。
 

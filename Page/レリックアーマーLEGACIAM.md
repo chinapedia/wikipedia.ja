@@ -44,7 +44,7 @@
   - 脚本 - [遠藤明範](../Page/遠藤明範.md "wikilink")
   - キャラクターデザイン - 北爪宏幸、[山下明彦](../Page/山下明彦.md "wikilink")、[山形厚史](https://ja.wikipedia.org/wiki/山形厚史 "wikilink")
   - メカニックデザイン - 北爪宏幸、[ふじたゆきひさ](https://ja.wikipedia.org/wiki/ふじたゆきひさ "wikilink")、[安藤達也](https://ja.wikipedia.org/wiki/安藤達也 "wikilink")
-  - 絵コンテ - [望月智充](https://ja.wikipedia.org/wiki/望月智充 "wikilink")、北爪宏幸、[高山秀樹](https://ja.wikipedia.org/wiki/高山秀樹 "wikilink")
+  - 絵コンテ - [望月智充](../Page/望月智充.md "wikilink")、北爪宏幸、[高山秀樹](https://ja.wikipedia.org/wiki/高山秀樹 "wikilink")
   - 演出 - 高山秀樹
   - メカニック作画監督 - [大森英敏](https://ja.wikipedia.org/wiki/大森英敏 "wikilink")
   - 作画監督 - 山下明彦、大森英敏、北爪宏幸

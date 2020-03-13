@@ -1,7 +1,7 @@
 > この記事は[GO!GO!](https://ja.wikipedia.org/wiki/GO!GO!)から翻訳されています。
 
 
-『**マツケン・今ちゃん・オセロのGO\!GO\!サタ**』（マツケン・いまちゃん・オセロのゴゴサタ）は、[フジテレビで](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月9日](../Page/4月9日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")まで毎週土曜日正午に放送された『[バニラ気分\!](../Page/バニラ気分!.md "wikilink")』枠の前半（[土曜日](../Page/土曜日.md "wikilink")12:00 - 12:59([JST](../Page/日本標準時.md "wikilink"))、2006年9月までは - 13:15）で放送していた[トーク](../Page/トーク番組.md "wikilink")[バラエティ](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")[番組である](../Page/テレビ番組.md "wikilink")。[松平健](../Page/松平健.md "wikilink")の初[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")でもある。なお、番組内では出演者の名前は省略され、単に「**GO\!GO\!サタ**」と略される。
+『**マツケン・今ちゃん・オセロのGO\!GO\!サタ**』（マツケン・いまちゃん・オセロのゴゴサタ）は、[フジテレビで](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[2005年](../Page/2005年.md "wikilink")[4月9日](../Page/4月9日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")まで毎週土曜日正午に放送された『[バニラ気分\!](../Page/バニラ気分!.md "wikilink")』枠の前半（[土曜日](../Page/土曜日.md "wikilink")12:00 - 12:59([JST](../Page/日本標準時.md "wikilink"))、2006年9月までは - 13:15）で放送していた[トーク](../Page/トーク番組.md "wikilink")[バラエティ](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")[番組である](../Page/テレビ番組.md "wikilink")。[松平健](../Page/松平健.md "wikilink")の初[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")でもある。なお、番組内では出演者の名前は省略され、単に「**GO\!GO\!サタ**」と略される。
 
 ## 概要
 
@@ -47,7 +47,7 @@
 
 ### 番組後半のコーナー
 
-  - えんた〜の殿様'''（ - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[6月25日](../Page/6月25日.md "wikilink")）
+  - えんた〜の殿様'''（ - [2005年](../Page/2005年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")）
     旬の若手お笑い芸人1組が出演し、ネタを披露するコーナー。タイトルとロゴも本家『[エンタの神様](https://ja.wikipedia.org/wiki/エンタの神様 "wikilink")』（[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")）と似ている。松平健に面白いと判定されれば合格、面白くなければ『かげながら応援しています』の札を上げられるものだった。しかし後述の通り、[レギュラーが出演した際にレギュラー出演者になりたいと言い出したことからコーナー終了となった](../Page/レギュラー_\(お笑い\).md "wikilink")。
   - 本日4時から\! 激安探検隊（2005年[7月2日](../Page/7月2日.md "wikilink") - [2006年](../Page/2006年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")）
     2005年6月25日放送でお笑いコンビ、[レギュラーがスタジオにゲスト出演した際](../Page/レギュラー_\(お笑い\).md "wikilink")、レギュラーがこの番組のレギュラー出演者になりたいと言い出したため、よいのか?という時に司会の松平健が「いいんじゃない?」と言ったことから、2005年[7月2日](../Page/7月2日.md "wikilink")放送以降、急遽始まったコーナーで、「あるある探検隊\!」ことお笑いコンビのレギュラーが毎週さまざまな町のさまざまな分野の店に訪問して値下げをしてもらい、オンエアー日の4時から一週間の間（店の指定で値下げするのは当日の10名限定や20名限定の場合もある）、その店で指定された商品を値下げしてもらうというものである。過去の最下価格は2005年9月17日放送で記録した1円（本来は190円）。2006年3月25日にコーナー終了したあともレギュラーはしばらく[レポート](https://ja.wikipedia.org/wiki/レポート "wikilink")出演として継続して出演していた。
@@ -78,7 +78,7 @@
 
 ## 備考
 
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月14日](../Page/6月14日.md "wikilink")放送分は[岩手・宮城内陸地震によるFNN報道特別番組のため休止となったが](https://ja.wikipedia.org/wiki/平成20年岩手・宮城内陸地震 "wikilink")、フジテレビでは[6月19日](../Page/6月19日.md "wikilink")の[チャンネルα](../Page/チャンネルα.md "wikilink")（[関東ローカル](https://ja.wikipedia.org/wiki/関東ローカル "wikilink")）内で14:07 - 15:00に振替放送があった。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月14日](../Page/6月14日.md "wikilink")放送分は[岩手・宮城内陸地震によるFNN報道特別番組のため休止となったが](https://ja.wikipedia.org/wiki/平成20年岩手・宮城内陸地震 "wikilink")、フジテレビでは[6月19日](../Page/6月19日.md "wikilink")の[チャンネルα](../Page/チャンネルα.md "wikilink")（[関東ローカル](../Page/関東ローカル.md "wikilink")）内で14:07 - 15:00に振替放送があった。
   - この番組の終了から半年が経過した[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月3日](../Page/4月3日.md "wikilink")、[テレビ朝日](../Page/テレビ朝日.md "wikilink")『[二人の食卓](https://ja.wikipedia.org/wiki/二人の食卓 "wikilink")』に松平がゲスト出演\[3\]し「マツケンレシピ」と題して自身の手料理を披露、「マツケン流春の炊き込みご飯」など4品を作った。同番組司会の[八嶋智人](https://ja.wikipedia.org/wiki/八嶋智人 "wikilink")が『出た\!**マツケンポイント**だ』と叫ぶなど、かつてのマツケンレシピさながらの展開であった。さらに2010年[5月7日](../Page/5月7日.md "wikilink")、[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[スタジオパークからこんにちは](../Page/スタジオパークからこんにちは.md "wikilink")』に松平がゲスト出演\[4\]した際にもマツケンレシピを披露し、「マツケン流カツオのたたき丼」を作った。他局ではあったが、半年ぶりにマツケンレシピが復活した。しかしフジテレビにおけるマツケンレシピの復活は一度もなされていない。
 
 ## 書籍
@@ -88,7 +88,7 @@
 
 ## スタッフ
 
-  - ナレーター：[杉山裕子](https://ja.wikipedia.org/wiki/杉山裕子 "wikilink")
+  - ナレーター：[杉山裕子](../Page/杉山裕子.md "wikilink")
   - 構成：海老克哉、堀田延、[ヒロハラノブヒコ](../Page/ヒロハラノブヒコ.md "wikilink")
   - リサーチ：P・Aライターズ
   - TD／SW：坂本淳一

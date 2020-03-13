@@ -112,7 +112,7 @@ miRNA遺伝子が[RNAポリメラーゼ](https://ja.wikipedia.org/wiki/RNAポリ
 
 ### pre-miRNAの生成
 
-[核内に存在するRNaseIII様のDrosha](https://ja.wikipedia.org/wiki/細胞核 "wikilink") (ドローシャ) と呼ばれる[酵素](../Page/酵素.md "wikilink")がこのpri-miRNA分子の一部を切断して、約70塩基長の[ステムループ](https://ja.wikipedia.org/wiki/ステムループ "wikilink")構造をもつpre-miRNA (precursor miRNA, 成熟したmiRNAの前駆体) を作る\[21\]。次いで、pre-miRNA分子はExportin-5と呼ばれる[キャリアタンパク質によって細胞核の外に輸送される](https://ja.wikipedia.org/wiki/輸送タンパク質 "wikilink")\[22\]。
+[核内に存在するRNaseIII様のDrosha](https://ja.wikipedia.org/wiki/細胞核 "wikilink") (ドローシャ) と呼ばれる[酵素](../Page/酵素.md "wikilink")がこのpri-miRNA分子の一部を切断して、約70塩基長の[ステムループ](../Page/ステムループ.md "wikilink")構造をもつpre-miRNA (precursor miRNA, 成熟したmiRNAの前駆体) を作る\[21\]。次いで、pre-miRNA分子はExportin-5と呼ばれる[キャリアタンパク質によって細胞核の外に輸送される](https://ja.wikipedia.org/wiki/輸送タンパク質 "wikilink")\[22\]。
 
 ### mature-miRNAの生成
 
@@ -164,7 +164,7 @@ AMO設計の研究について、[有機化学](../Page/有機化学.md "wikilin
 
 ## miRNAとがん
 
-miRNAは、[がん](https://ja.wikipedia.org/wiki/がん "wikilink")\[76\]、[心血管疾患](https://ja.wikipedia.org/wiki/心血管疾患 "wikilink")\[77\]、[神経変性疾患](https://ja.wikipedia.org/wiki/神経変性疾患 "wikilink")\[78\]、[精神疾患](https://ja.wikipedia.org/wiki/精神疾患 "wikilink")\[79\]、[慢性炎症性疾患](../Page/炎症.md "wikilink")\[80\]などの発症と進行に関わっている\[81\]。特に、がんの原因因子についてはさまざまな議論がなされているが\[82\]、その中でもmiRNAは、細胞のがん化に深く関与していることが多くの研究者らによって指摘されている\[83\]\[84\]\[85\]。
+miRNAは、[がん](https://ja.wikipedia.org/wiki/がん "wikilink")\[76\]、[心血管疾患](https://ja.wikipedia.org/wiki/心血管疾患 "wikilink")\[77\]、[神経変性疾患](../Page/神経変性疾患.md "wikilink")\[78\]、[精神疾患](https://ja.wikipedia.org/wiki/精神疾患 "wikilink")\[79\]、[慢性炎症性疾患](../Page/炎症.md "wikilink")\[80\]などの発症と進行に関わっている\[81\]。特に、がんの原因因子についてはさまざまな議論がなされているが\[82\]、その中でもmiRNAは、細胞のがん化に深く関与していることが多くの研究者らによって指摘されている\[83\]\[84\]\[85\]。
 
 miRNAとがん化の関わりについて、2002年、米国のG. M. CalinとC. M. Croceらによって最初の報告がなされた\[86\]。
 

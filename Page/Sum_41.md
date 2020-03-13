@@ -18,7 +18,7 @@
 <!-- end list -->
 
   -
-    2006年に[アヴリル・ラヴィーン](../Page/アヴリル・ラヴィーン.md "wikilink")と結婚。しかし2009年に離婚。実は内気な性格。スティーヴが歌う時には代わりに[ドラムを叩く](../Page/ドラムセット.md "wikilink")。アヴリルのものによく似たモデルのギターを持つ（[フェンダー社の](https://ja.wikipedia.org/wiki/フェンダー_\(楽器メーカー\) "wikilink")[テレキャスターまたは](../Page/フェンダー・テレキャスター.md "wikilink")[テレキャスターデラックス](../Page/フェンダー・テレキャスター.md "wikilink")）。2人ともスクワイアからシグネイチャーのモデルが販売されている。また、[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")では、今ではあまり見かけない[ギブソン・マローダー](../Page/ギブソン・マローダー.md "wikilink")をしばしば使用している事がわかる。[パリス・ヒルトン](https://ja.wikipedia.org/wiki/パリス・ヒルトン "wikilink")等と交際していたことが判明している。2015年にモデルのアリアナ・クーパーと再婚した。
+    2006年に[アヴリル・ラヴィーン](../Page/アヴリル・ラヴィーン.md "wikilink")と結婚。しかし2009年に離婚。実は内気な性格。スティーヴが歌う時には代わりに[ドラムを叩く](../Page/ドラムセット.md "wikilink")。アヴリルのものによく似たモデルのギターを持つ（[フェンダー社の](../Page/フェンダー_\(楽器メーカー\).md "wikilink")[テレキャスターまたは](../Page/フェンダー・テレキャスター.md "wikilink")[テレキャスターデラックス](../Page/フェンダー・テレキャスター.md "wikilink")）。2人ともスクワイアからシグネイチャーのモデルが販売されている。また、[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")では、今ではあまり見かけない[ギブソン・マローダー](../Page/ギブソン・マローダー.md "wikilink")をしばしば使用している事がわかる。[パリス・ヒルトン](../Page/パリス・ヒルトン.md "wikilink")等と交際していたことが判明している。2015年にモデルのアリアナ・クーパーと再婚した。
 
 <!-- end list -->
 
@@ -64,7 +64,7 @@
   - **ジョン・マーシャル** （Jon Marshall） - ヴォーカル、リズムギター（1997 - 1998）
   - **マーク・スピコラック** （Mark Spicoluk） - ベース、ヴォーカル（1997 - 1998）
   - **リチャード・ロイ** （Richard Roy (Twitch)） - ベース、ヴォーカル（1998 - 1999）
-  - **[スティーヴ・ジョクス](../Page/スティーヴ・ジョクス.md "wikilink")**（Steve Jocz (Stevo32)、[1981年](../Page/1981年.md "wikilink")[7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink") - ） - ドラムス、ヴォーカル（1996 - 2013）
+  - **[スティーヴ・ジョクス](../Page/スティーヴ・ジョクス.md "wikilink")**（Steve Jocz (Stevo32)、[1981年](../Page/1981年.md "wikilink")[7月23日](../Page/7月23日.md "wikilink") - ） - ドラムス、ヴォーカル（1996 - 2013）
 
 <!-- end list -->
 
@@ -136,13 +136,13 @@
   - [アメリカン・サマー・ストーリー](https://ja.wikipedia.org/wiki/アメリカン・サマー・ストーリー "wikilink")
   - [アメリカン・パイ3 ウエディング大作戦](https://ja.wikipedia.org/wiki/アメリカン・パイ3_ウエディング大作戦 "wikilink")
   - [クールボーダー](https://ja.wikipedia.org/wiki/クールボーダー "wikilink")
-  - [ゾルタン★星人](https://ja.wikipedia.org/wiki/ゾルタン★星人 "wikilink")
+  - [ゾルタン★星人](../Page/ゾルタン★星人.md "wikilink")
 
 ## その他
 
   - 3rdアルバムのChuckというタイトルの由来は、[コンゴ](../Page/コンゴ.md "wikilink")でバンドが突然の[内戦](../Page/内戦.md "wikilink")に巻き込まれた際、バンドを救出してくれた国連職員の名前からである。Chuckに収録されているリード・シングル、We're All To Blameは、コンゴでの出来事にインスパイアされた曲と言われている。
   - [スクワイア](https://ja.wikipedia.org/wiki/スクワイア "wikilink")社よりデリックのシグネイチャー・ギター(テレキャスター・デラックス)が発売中である。通常のテレキャスター・デラックスと比べると、ピックアップはリアのみ、コントロールは1ヴォリューム1トーンという仕様。最大の特徴は、ボディ下部とピックガード上部に赤い×印がペイントされている事である。デリックはUnderclass HeroとWalking Disasterのビデオで使用している。
-  - [2003年](../Page/2003年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink") - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月1日](../Page/7月1日.md "wikilink")の約2年3ヶ月間、Sum 41作曲の[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")ジングルが使用された(ただし、[木曜日](../Page/木曜日.md "wikilink")の[ナインティナインのオールナイトニッポン](../Page/ナインティナインのオールナイトニッポン.md "wikilink")のみ、1パターンだけ[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月18日](../Page/9月18日.md "wikilink")まで使用された)。
+  - [2003年](../Page/2003年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink") - [2005年](../Page/2005年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")の約2年3ヶ月間、Sum 41作曲の[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")ジングルが使用された(ただし、[木曜日](../Page/木曜日.md "wikilink")の[ナインティナインのオールナイトニッポン](../Page/ナインティナインのオールナイトニッポン.md "wikilink")のみ、1パターンだけ[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月18日](../Page/9月18日.md "wikilink")まで使用された)。
   - アルバムUnderclass Heroの特典DVDには、日本盤のみRoad to Ruin Episode \#10が収録されている。このストーリーはまだオフィシャルサイトでは公開されていない。
   - アルバムUnderclass Heroの先行シングル"March of the Dogs"がブッシュ大統領への脅迫ではないかと、物議をかもした(この歌の歌いだしは"アメリカ大統領は死んだ"から始まる)。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[8月](../Page/8月.md "wikilink")に、[大阪市](../Page/大阪市.md "wikilink")で開催の音楽祭に出演するために来日したが、その時に、メンバーの一人のデリック・ウィブリーが、同月6日に日本国内で[暴行](https://ja.wikipedia.org/wiki/暴行 "wikilink")を受け負傷したと、[AP通信](../Page/AP通信.md "wikilink")が報じた。[バーに立ち寄った折にトラブルとなった模様だが](../Page/バー_\(酒場\).md "wikilink")、暴行を受けた場所は明らかになっていない\[1\]。

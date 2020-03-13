@@ -28,7 +28,7 @@ BEENOS（ビーノス）の由来は「BEE=ミツバチ」「NOS=の巣」。
   - [2003年](../Page/2003年.md "wikilink")7月 - 株式会社有線ブロードネットワークスがネットプライスモールのサービスを[楽天](https://ja.wikipedia.org/wiki/楽天 "wikilink")に移管。
   - [2004年](../Page/2004年.md "wikilink")2月 - [楽天](https://ja.wikipedia.org/wiki/楽天 "wikilink")運営のネットプライスモールがサービス終了。
   - 2004年7月8日 - 東証[マザーズ](../Page/マザーズ.md "wikilink")に上場。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")1月 - [日本経団連](https://ja.wikipedia.org/wiki/日本経団連 "wikilink")に入会。
+  - [2005年](../Page/2005年.md "wikilink")1月 - [日本経団連](https://ja.wikipedia.org/wiki/日本経団連 "wikilink")に入会。
   - [2007年](../Page/2007年.md "wikilink")2月 - [持株会社](../Page/持株会社.md "wikilink")体制に。社名を**株式会社ネットプライスドットコム**に変更。
   - 2007年12月 - [eBay](https://ja.wikipedia.org/wiki/eBay "wikilink")との業務提携を発表。連結子会社株式会社[ショップエアライン](https://ja.wikipedia.org/wiki/ショップエアライン "wikilink")にて、eBay.comの商品が日本語で買えるグローバルショッピング・サービス「[セカイモン](https://ja.wikipedia.org/wiki/セカイモン "wikilink")（sekaimon）」を開始。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")4月 - 本社を東京都品川区北品川へ移転。

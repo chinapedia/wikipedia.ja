@@ -9,7 +9,7 @@
 
 日本デビューから一貫して楽曲制作に[ビーイング](../Page/ビーイング.md "wikilink")のミュージシャンを起用しており、ビーイングと共同で自身の楽曲のプロデュースを行っている。日本デビュー当初の所属レコード会社は[コロムビアミュージックエンタテインメント](https://ja.wikipedia.org/wiki/コロムビアミュージックエンタテインメント "wikilink")（現在の[日本コロムビア](../Page/日本コロムビア.md "wikilink")）だったが、ビーイングが運営していた音楽配信サイトであるBGV.JP（現ミュージング）に情報が掲載されていた。コロムビアミュージックエンタテインメントから移籍した[バウンシーレコーズ](https://ja.wikipedia.org/wiki/バウンシーレコーズ "wikilink")の事業が終了した現在では、ビーイング系列のレコード会社である[ZAIN RECORDSに所属している](../Page/ZAIN_RECORDS.md "wikilink")。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")には[韓国政府](https://ja.wikipedia.org/wiki/韓国政府 "wikilink")から「ハングル広報大使」に任命され、[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[ハングル講座](https://ja.wikipedia.org/wiki/ハングル講座 "wikilink")にゲスト出演。7月には再度、全国17ヵ所でツアーを行った。
+[2005年](../Page/2005年.md "wikilink")には[韓国政府](https://ja.wikipedia.org/wiki/韓国政府 "wikilink")から「ハングル広報大使」に任命され、[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[ハングル講座](https://ja.wikipedia.org/wiki/ハングル講座 "wikilink")にゲスト出演。7月には再度、全国17ヵ所でツアーを行った。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")には韓国観光名誉広報大使に任命される。[2014年](../Page/2014年.md "wikilink")にはアイドルグループ・[SKE48](https://ja.wikipedia.org/wiki/SKE48 "wikilink")のユニットGALAXY of DREAMSの「GALAXY of DREAMS」の作曲を担当した。
 

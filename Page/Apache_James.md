@@ -1,7 +1,7 @@
 > この記事は[Apache James](https://ja.wikipedia.org/wiki/Apache_James)から翻訳されています。
 
 
-**Apache James**（アパッチ・ジェームズ）は、[Apacheプロジェクト内の電子メールアプリケーションサーバを開発するサブプロジェクトである](https://ja.wikipedia.org/wiki/Apacheソフトウェア財団 "wikilink")。Jamesというプロジェクト名は、**J**ava **A**pache **M**ail **E**nterprise **S**erver の頭文字をとったものである。
+**Apache James**（アパッチ・ジェームズ）は、[Apacheプロジェクト内の電子メールアプリケーションサーバを開発するサブプロジェクトである](../Page/Apacheソフトウェア財団.md "wikilink")。Jamesというプロジェクト名は、**J**ava **A**pache **M**ail **E**nterprise **S**erver の頭文字をとったものである。
 
 Webアプリケーションサーバとして有名な、同プロジェクトの[Apache Tomcatの](https://ja.wikipedia.org/wiki/Apache_Tomcat "wikilink")[電子メール](../Page/電子メール.md "wikilink")版である。
 

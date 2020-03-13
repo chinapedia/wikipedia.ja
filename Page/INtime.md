@@ -11,7 +11,7 @@
 
 ### Microsoft Windowsとの共存
 
-Microsoft Windowsと共存し、同時に起動して利用することができる。INtime[カーネル](../Page/カーネル.md "wikilink")の起動時に、Windows OSはINtimeのひとつのINtime[プロセス](../Page/プロセス.md "wikilink")として取り込まれる。これによりRTOSとしての特性を損なうことなく、Windows用に提供される豊富な[ミドルウェア](https://ja.wikipedia.org/wiki/ミドルウェア "wikilink")や[アプリケーションを活用したシステム構成が可能になる](../Page/アプリケーションソフトウェア.md "wikilink")。
+Microsoft Windowsと共存し、同時に起動して利用することができる。INtime[カーネル](../Page/カーネル.md "wikilink")の起動時に、Windows OSはINtimeのひとつのINtime[プロセス](../Page/プロセス.md "wikilink")として取り込まれる。これによりRTOSとしての特性を損なうことなく、Windows用に提供される豊富な[ミドルウェア](../Page/ミドルウェア.md "wikilink")や[アプリケーションを活用したシステム構成が可能になる](../Page/アプリケーションソフトウェア.md "wikilink")。
 
 ### ダイナミックローディング
 

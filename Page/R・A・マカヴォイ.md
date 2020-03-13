@@ -39,6 +39,6 @@
       - The Book of Kells ([1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")) ：未訳
       - The Grey Horse ([1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")) ：未訳
       - The Third Eagle ([1989年](../Page/1989年.md "wikilink")) ：未訳
-      - The Go-Between ([2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")) ：未訳
+      - The Go-Between ([2005年](../Page/2005年.md "wikilink")) ：未訳
 
 [Category:20世紀アメリカ合衆国の女性著作家](https://ja.wikipedia.org/wiki/Category:20世紀アメリカ合衆国の女性著作家 "wikilink") [Category:21世紀アメリカ合衆国の女性著作家](https://ja.wikipedia.org/wiki/Category:21世紀アメリカ合衆国の女性著作家 "wikilink") [Category:アメリカ合衆国のファンタジー作家](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のファンタジー作家 "wikilink") [Category:アメリカ合衆国の女性小説家](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の女性小説家 "wikilink") [Category:SFとファンタジーの女性著作家](https://ja.wikipedia.org/wiki/Category:SFとファンタジーの女性著作家 "wikilink") [Category:クリーブランド出身の人物](https://ja.wikipedia.org/wiki/Category:クリーブランド出身の人物 "wikilink") [Category:1949年生](https://ja.wikipedia.org/wiki/Category:1949年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

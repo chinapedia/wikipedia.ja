@@ -1,7 +1,7 @@
 > この記事は[THE](https://ja.wikipedia.org/wiki/THE)から翻訳されています。
 
 
-『**THEランク**』（ザ・ランク）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月13日](../Page/9月13日.md "wikilink")（火曜） 19:00 - 19:54に[朝日放送](../Page/朝日放送テレビ.md "wikilink")（ABCテレビ）で放送された単発の[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")である。
+『**THEランク**』（ザ・ランク）は、[2005年](../Page/2005年.md "wikilink")[9月13日](../Page/9月13日.md "wikilink")（火曜） 19:00 - 19:54に[朝日放送](../Page/朝日放送テレビ.md "wikilink")（ABCテレビ）で放送された単発の[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")である。
 
 ## 司会
 
@@ -120,7 +120,7 @@
   - EED：岡田勉・今西政之（アイネックス）
   - 制作協力：[東通](https://ja.wikipedia.org/wiki/東通 "wikilink")・[東通テクノサービス](https://ja.wikipedia.org/wiki/関西東通 "wikilink")・ハートス・富士ライト商事・[アイネックス](../Page/アイネックス_\(ポストプロダクション\).md "wikilink")・[戯音工房](../Page/戯音工房.md "wikilink")・ちゅるんカンパニー・[ABCリブラ](../Page/ABCリブラ.md "wikilink")
   - 美術：[口井雅弘](https://ja.wikipedia.org/wiki/口井雅弘 "wikilink")
-  - 美術進行：木綿宏彰（[つむら工芸](https://ja.wikipedia.org/wiki/つむら工芸 "wikilink")）
+  - 美術進行：木綿宏彰（[つむら工芸](../Page/つむら工芸.md "wikilink")）
   - 番組宣伝：渡邊亜希子
   - デスク：田村圭
   - FD （フロアディレクター）：細谷尚広（フィーノ）

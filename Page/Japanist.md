@@ -3,7 +3,7 @@
 
 **Japanist**は、[富士通](../Page/富士通.md "wikilink")が開発・販売している[日本語入力システム](../Page/日本語入力システム.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[12月15日](../Page/12月15日.md "wikilink")販売開始。
 
-[DOS/V](https://ja.wikipedia.org/wiki/DOS/V "wikilink")パソコン向けWindows OS用のソフトであるが、他プラットフォーム・OS用のソフトとしても、[Pocket PC](../Page/Pocket_PC.md "wikilink")、[Windows Mobile](https://ja.wikipedia.org/wiki/Windows_Mobile "wikilink") 5.0上で動作する「Japanist for Pocket PC」が、[2006年](../Page/2006年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")に富士通大分ソフトウェアラボラトリ（現・富士通九州システムズ\[1\]）からシェアウェアとして提供開始された。
+[DOS/V](https://ja.wikipedia.org/wiki/DOS/V "wikilink")パソコン向けWindows OS用のソフトであるが、他プラットフォーム・OS用のソフトとしても、[Pocket PC](../Page/Pocket_PC.md "wikilink")、[Windows Mobile](../Page/Windows_Mobile.md "wikilink") 5.0上で動作する「Japanist for Pocket PC」が、[2006年](../Page/2006年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")に富士通大分ソフトウェアラボラトリ（現・富士通九州システムズ\[1\]）からシェアウェアとして提供開始された。
 
 ## 沿革
 

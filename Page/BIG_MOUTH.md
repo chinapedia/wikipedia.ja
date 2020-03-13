@@ -18,7 +18,7 @@
 入社年度順。
 
   - ドラム・[山中秀樹](../Page/山中秀樹.md "wikilink")(リーダー)
-  - [菊間千乃](https://ja.wikipedia.org/wiki/菊間千乃 "wikilink")
+  - [菊間千乃](../Page/菊間千乃.md "wikilink")
   - ベース・[森昭一郎](../Page/森昭一郎.md "wikilink")
   - [ギター](../Page/ギター.md "wikilink")・[竹下陽平](../Page/竹下陽平.md "wikilink")
   - ボーカル・[佐々木恭子](../Page/佐々木恭子.md "wikilink")

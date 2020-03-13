@@ -22,7 +22,7 @@
   - 彼女の夏（[2003年](../Page/2003年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")発売）
   - Snow Party（2003年[12月12日](../Page/12月12日.md "wikilink")発売）
   - ハツコイ（[2004年](../Page/2004年.md "wikilink")[9月22日](../Page/9月22日.md "wikilink")発売）
-  - 向日葵（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月20日](../Page/7月20日.md "wikilink")発売）
+  - 向日葵（[2005年](../Page/2005年.md "wikilink")[7月20日](../Page/7月20日.md "wikilink")発売）
   - アネモネ（[2006年](../Page/2006年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")発売）
 
 5thまでは、Sunny Side Up名義
@@ -44,7 +44,7 @@
 
 ### イベント配布
 
-  - every time,many times（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月24日](../Page/12月24日.md "wikilink")[25日無料配布](../Page/12月25日.md "wikilink")）
+  - every time,many times（[2005年](../Page/2005年.md "wikilink")[12月24日](../Page/12月24日.md "wikilink")[25日無料配布](../Page/12月25日.md "wikilink")）
   - シアワセノアシアト（[2007年](../Page/2007年.md "wikilink")[2月22日](../Page/2月22日.md "wikilink")〜[2月28日](../Page/2月28日.md "wikilink")近鉄京都店PLATZ閉店記念、応募抽選300枚）
   - もこすくるん（[2007年](../Page/2007年.md "wikilink")[6月3日](../Page/6月3日.md "wikilink")イニシア塚口入会キャンペーンプレゼント）
 

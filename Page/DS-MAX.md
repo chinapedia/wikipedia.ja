@@ -1,7 +1,7 @@
 > この記事は[DS-MAX](https://ja.wikipedia.org/wiki/DS-MAX)から翻訳されています。
 
 
-**DS-MAX**は、提携する独立採算制訪問販売会社に商品を委託する[卸売](../Page/卸売.md "wikilink")会社であり、[北米](https://ja.wikipedia.org/wiki/北米 "wikilink")・[南米](../Page/南アメリカ.md "wikilink")・[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")・[アジア](https://ja.wikipedia.org/wiki/アジア "wikilink")に点在する架空の巨大組織。いわゆるマルチ組織である。 [フランチャイズ](../Page/フランチャイズ.md "wikilink")ではないため経営権の売買等はできず、参入するにはダイレクトセールスから始める。 いわゆる「やり甲斐搾取」の典型例であり、委託販売にも関わらず、長時間に及ぶ違法拘束やノルマなどが問題になっている。
+**DS-MAX**は、提携する独立採算制訪問販売会社に商品を委託する[卸売](../Page/卸売.md "wikilink")会社であり、[北米](https://ja.wikipedia.org/wiki/北米 "wikilink")・[南米](../Page/南アメリカ.md "wikilink")・[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")・[アジア](../Page/アジア.md "wikilink")に点在する架空の巨大組織。いわゆるマルチ組織である。 [フランチャイズ](../Page/フランチャイズ.md "wikilink")ではないため経営権の売買等はできず、参入するにはダイレクトセールスから始める。 いわゆる「やり甲斐搾取」の典型例であり、委託販売にも関わらず、長時間に及ぶ違法拘束やノルマなどが問題になっている。
 
 ## 歴史
 

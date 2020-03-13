@@ -17,7 +17,7 @@ Webメールを採用しているフリーメールサービスには、[Yahoo\!
 
 ### 機能
 
-大半のWebメールサービスは一般的な電子メールクライアントと同様、受信メールを条件により任意の[フォルダ](https://ja.wikipedia.org/wiki/フォルダ "wikilink")や[ゴミ箱に振り分けるフィルタ](https://ja.wikipedia.org/wiki/ごみ箱_\(GUI\) "wikilink")、アドレス帳などの機能を持っている。Webメールサービスによっては、 [コンピュータウイルス](https://ja.wikipedia.org/wiki/コンピュータウイルス "wikilink")の自動駆除、[スパムのフィルタリング機能などを提供している](../Page/スパム_\(メール\).md "wikilink")。
+大半のWebメールサービスは一般的な電子メールクライアントと同様、受信メールを条件により任意の[フォルダ](https://ja.wikipedia.org/wiki/フォルダ "wikilink")や[ゴミ箱に振り分けるフィルタ](../Page/ごみ箱_\(GUI\).md "wikilink")、アドレス帳などの機能を持っている。Webメールサービスによっては、 [コンピュータウイルス](https://ja.wikipedia.org/wiki/コンピュータウイルス "wikilink")の自動駆除、[スパムのフィルタリング機能などを提供している](../Page/スパム_\(メール\).md "wikilink")。
 
 ### 規制
 

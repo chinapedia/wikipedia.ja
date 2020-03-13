@@ -127,7 +127,7 @@
 <tr class="even">
 <td><p>1979年（第25回）</p></td>
 <td><p>室蘭</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/日本製鉄室蘭シャークス" title="wikilink">新日本製鐵室蘭</a></strong></p></td>
+<td><p><strong><a href="../Page/日本製鉄室蘭シャークス.md" title="wikilink">新日本製鐵室蘭</a></strong></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -416,7 +416,7 @@
 札幌ドーム</p></td>
 <td><p><strong><a href="../Page/NTT東日本硬式野球部.md" title="wikilink">NTT東日本</a></strong></p></td>
 <td><p><strong>4</strong>-0</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日本製鉄室蘭シャークス" title="wikilink">室蘭シャークス</a></p></td>
+<td><p><a href="../Page/日本製鉄室蘭シャークス.md" title="wikilink">室蘭シャークス</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

@@ -47,13 +47,13 @@
 
   - [ヴェルナー・ローラント](https://ja.wikipedia.org/wiki/ヴェルナー・ローラント "wikilink") 2004
 
-  - [張外龍](https://ja.wikipedia.org/wiki/張外龍 "wikilink") 2005-2006, 2008
+  - [張外龍](../Page/張外龍.md "wikilink") 2005-2006, 2008
 
   - [イリヤ・ペトコヴィッチ](https://ja.wikipedia.org/wiki/イリヤ・ペトコヴィッチ "wikilink") 2009-2010
 
   - [許丁茂](https://ja.wikipedia.org/wiki/許丁茂 "wikilink") 2010-2012
 
-  - [金度勲](https://ja.wikipedia.org/wiki/金度勲 "wikilink") 2015-2016
+  - [金度勲](../Page/金度勲.md "wikilink") 2015-2016
 
   - [李基珩](https://ja.wikipedia.org/wiki/李基珩 "wikilink") 2016-2018
 
@@ -67,7 +67,7 @@
 
 ## "ユナイテッド"の由来
 
-欧州において、通常この名称が用いられる場合はなんらかの組織的な経緯が伴うが、仁川の場合はこれに当たらず、単なる理念的なものに留まる。また、同じ"ユナイテッド"を名称としている[済州ユナイテッドFC](https://ja.wikipedia.org/wiki/済州ユナイテッドFC "wikilink")とも関係はない。
+欧州において、通常この名称が用いられる場合はなんらかの組織的な経緯が伴うが、仁川の場合はこれに当たらず、単なる理念的なものに留まる。また、同じ"ユナイテッド"を名称としている[済州ユナイテッドFC](../Page/済州ユナイテッドFC.md "wikilink")とも関係はない。
 
 ## 外部リンク
 

@@ -1,7 +1,7 @@
 > この記事は[AZ-3](https://ja.wikipedia.org/wiki/AZ-3)から翻訳されています。
 
 
-**AZ-3**（エーゼットスリー）は、[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")が製造し、[オートザム](https://ja.wikipedia.org/wiki/オートザム "wikilink")で販売していた[ハッチバッククーペ](https://ja.wikipedia.org/wiki/ハッチバッククーペ "wikilink")である。
+**AZ-3**（エーゼットスリー）は、[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")が製造し、[オートザム](../Page/オートザム.md "wikilink")で販売していた[ハッチバッククーペ](https://ja.wikipedia.org/wiki/ハッチバッククーペ "wikilink")である。
 
 ## 概要
 

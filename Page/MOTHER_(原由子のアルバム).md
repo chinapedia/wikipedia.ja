@@ -7,7 +7,7 @@
 
 ## 背景
 
-前作『[Miss YOKOHAMADULT](../Page/Miss_YOKOHAMADULT.md "wikilink")』より7年7ヶ月ぶりにリリースしたアルバムである。本作も夫の[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")が全面プロデュースしており、桑田のソロアルバム『[Keisuke Kuwata](https://ja.wikipedia.org/wiki/Keisuke_Kuwata "wikilink")』に続いて[小林武史](../Page/小林武史.md "wikilink")が編曲を務めている。プロデューサーもこの2名がクレジットされている。
+前作『[Miss YOKOHAMADULT](../Page/Miss_YOKOHAMADULT.md "wikilink")』より7年7ヶ月ぶりにリリースしたアルバムである。本作も夫の[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")が全面プロデュースしており、桑田のソロアルバム『[Keisuke Kuwata](../Page/Keisuke_Kuwata.md "wikilink")』に続いて[小林武史](../Page/小林武史.md "wikilink")が編曲を務めている。プロデューサーもこの2名がクレジットされている。
 
 ## 制作
 
@@ -64,7 +64,7 @@
       - 作詞・作曲：原由子、編曲：[矢口博康](https://ja.wikipedia.org/wiki/矢口博康 "wikilink")
       - [1989年](../Page/1989年.md "wikilink")リリースの8thシングル。当時、子育てに追われていた原が、幼く手のかかる二人の子供達を「かいじゅう」に例えて歌った。桑田が非常に気に入っている作品と言われ、桑田曰く、毎日聴きたい楽曲の1つに挙げているという。「星のハーモニー」同様、「ひらけ\!ポンキッキ」内で使用された。
 9.  **UFO（僕らの銀河系）**
-      - 作詞：[阿久悠](../Page/阿久悠.md "wikilink")、補作詞：桑田佳祐・[Jadranka](https://ja.wikipedia.org/wiki/ヤドランカ "wikilink")、作曲：[都倉俊一](../Page/都倉俊一.md "wikilink")、編曲：小林武史・桑田佳祐
+      - 作詞：[阿久悠](../Page/阿久悠.md "wikilink")、補作詞：桑田佳祐・[Jadranka](../Page/ヤドランカ.md "wikilink")、作曲：[都倉俊一](../Page/都倉俊一.md "wikilink")、編曲：小林武史・桑田佳祐
       - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")の[ピンク・レディー](../Page/ピンク・レディー.md "wikilink")の大ヒット曲『[UFO](../Page/UFO_\(ピンク・レディーの曲\).md "wikilink")』に、歌詞を加筆した実験的作品となっている。テンポなども転調をつけるなど、メロディーこそ同じもののアレンジ面では大きな違いで加えている。前述の単独ライブでは煌びやかな衣装を纏ってのダンスも披露した。
 10. **花咲く旅路**(広東版本:陳慧嫻-飄雪)
       - 作詞・作曲：桑田佳祐、編曲：小林武史・桑田佳祐
@@ -231,7 +231,7 @@
   - 角谷仁宣:Computer Operation
   - 佐橋佳幸:Guitars
   - 桑田佳祐:Backing Vocals
-  - [Jadranka](https://ja.wikipedia.org/wiki/ヤドランカ "wikilink"):[Voice](../Page/声.md "wikilink")
+  - [Jadranka](../Page/ヤドランカ.md "wikilink"):[Voice](../Page/声.md "wikilink")
 
 <!-- end list -->
 

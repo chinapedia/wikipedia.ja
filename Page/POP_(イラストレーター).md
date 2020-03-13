@@ -13,7 +13,7 @@
 
   - [もえたん](../Page/もえたん.md "wikilink")シリーズ（[三才ブックス](https://ja.wikipedia.org/wiki/三才ブックス "wikilink")）
       - 萌える英単語 〜もえたん〜（[2003年](../Page/2003年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")）
-      - 新装版 もえたん（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")）
+      - 新装版 もえたん（[2005年](../Page/2005年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")）
       - もえたん サブリーダー 〜文法・表現編〜（2005年[12月15日](../Page/12月15日.md "wikilink")）
       - もえたん3 魔法少女の帰還 〜Return of the Little Witch\!\!〜（[2006年](../Page/2006年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")）
       - もえたん ぴくちゃーすとーりー（[学研](../Page/学研ホールディングス.md "wikilink")、文：朝霧つくね、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月）
@@ -50,7 +50,7 @@
 
 ### 画集
 
-  - Lollipop 〜ろりぽっぷ〜（三才ブックス、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月16日](../Page/7月16日.md "wikilink")）
+  - Lollipop 〜ろりぽっぷ〜（三才ブックス、[2005年](../Page/2005年.md "wikilink")[7月16日](../Page/7月16日.md "wikilink")）
   - SUPER LOLLIPOP（三才ブックス、[2007年](../Page/2007年.md "wikilink")[9月14日](../Page/9月14日.md "wikilink")）
   - ani pop girls POP Animation Works（[一迅社](../Page/一迅社.md "wikilink")、[2013年](../Page/2013年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")）
 
@@ -80,7 +80,7 @@
 
 可愛いキャラクターの育成が楽しめる本格弾幕シューティングゲーム。アバターやキャラクターの性格を自由に変更できる要素が人気となっている。
 
-  - [エミル・クロニクル・オンライン](https://ja.wikipedia.org/wiki/エミル・クロニクル・オンライン "wikilink")（ヘッドロック/ガンホー/ブロッコリー、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月9日](../Page/12月9日.md "wikilink") - ）
+  - [エミル・クロニクル・オンライン](https://ja.wikipedia.org/wiki/エミル・クロニクル・オンライン "wikilink")（ヘッドロック/ガンホー/ブロッコリー、[2005年](../Page/2005年.md "wikilink")[12月9日](../Page/12月9日.md "wikilink") - ）
 
 2012年度キャラクターイメージイラスト（第1期アルマ/ネコマタハートetc）
 
@@ -101,4 +101,4 @@ LBXを身に纏った少女たちのアクションRPG。PCから手始めに、
 2.
 3.
 4.
-5.  『[月刊コミック電撃大王](../Page/月刊コミック電撃大王.md "wikilink")』[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")11月号にも出張掲載された。
+5.  『[月刊コミック電撃大王](../Page/月刊コミック電撃大王.md "wikilink")』[2005年](../Page/2005年.md "wikilink")11月号にも出張掲載された。

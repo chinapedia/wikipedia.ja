@@ -15,7 +15,7 @@
 
 ## 技術的詳細
 
-UNIVAC 1103 は 1024ビットの[ウィリアムス管](https://ja.wikipedia.org/wiki/ウィリアムス管 "wikilink")メモリを36本使用しており、1024[ワード](../Page/ワード.md "wikilink")×36ビットの[RAMを備えている](../Page/Random_Access_Memory.md "wikilink")。36本のウィリアムス管はそれぞれ直径5インチ（約13cm）であったという。また[磁気ドラムメモリ](https://ja.wikipedia.org/wiki/磁気ドラムメモリ "wikilink")は 16,384[ワード](../Page/ワード.md "wikilink")の容量を持つ。この静電メモリとドラムメモリには直接[アドレスが振られている](../Page/メモリアドレス.md "wikilink")。アドレス 0～01777（[八進数](../Page/八進法.md "wikilink")）には静電メモリが配置され、040000～077777（八進数）には磁気ドラムメモリが配置されている。
+UNIVAC 1103 は 1024ビットの[ウィリアムス管](https://ja.wikipedia.org/wiki/ウィリアムス管 "wikilink")メモリを36本使用しており、1024[ワード](../Page/ワード.md "wikilink")×36ビットの[RAMを備えている](../Page/Random_Access_Memory.md "wikilink")。36本のウィリアムス管はそれぞれ直径5インチ（約13cm）であったという。また[磁気ドラムメモリ](../Page/磁気ドラムメモリ.md "wikilink")は 16,384[ワード](../Page/ワード.md "wikilink")の容量を持つ。この静電メモリとドラムメモリには直接[アドレスが振られている](../Page/メモリアドレス.md "wikilink")。アドレス 0～01777（[八進数](../Page/八進法.md "wikilink")）には静電メモリが配置され、040000～077777（八進数）には磁気ドラムメモリが配置されている。
 
 [固定小数点数](../Page/固定小数点数.md "wikilink")は 1ビットの符号と 35ビットの値からなり、負数は[1の補数形式で表現する](../Page/符号付数値表現.md "wikilink")。[命令は](../Page/命令セット.md "wikilink") 6ビットの命令コードと 15ビットのオペランドアドレスからなる。
 

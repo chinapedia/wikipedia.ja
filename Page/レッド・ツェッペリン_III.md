@@ -1,7 +1,7 @@
 > この記事は[ III](https://ja.wikipedia.org/wiki/_III)から翻訳されています。
 
 
-『**レッド・ツェッペリン III**』 （**Led Zeppelin III**）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[ロックグループ](../Page/ロック_\(音楽\).md "wikilink")、[レッド・ツェッペリン](../Page/レッド・ツェッペリン.md "wikilink")の第3作[アルバム](../Page/アルバム.md "wikilink")。[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")10月発表。[プロデューサー](../Page/プロデューサー.md "wikilink")は[ジミー・ペイジ](../Page/ジミー・ペイジ.md "wikilink")。レコーディング・エンジニアは[アンディ・ジョンズ](https://ja.wikipedia.org/wiki/アンディ・ジョンズ "wikilink")。
+『**レッド・ツェッペリン III**』 （**Led Zeppelin III**）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[ロックグループ](../Page/ロック_\(音楽\).md "wikilink")、[レッド・ツェッペリン](../Page/レッド・ツェッペリン.md "wikilink")の第3作[アルバム](../Page/アルバム.md "wikilink")。[1970年](../Page/1970年.md "wikilink")10月発表。[プロデューサー](../Page/プロデューサー.md "wikilink")は[ジミー・ペイジ](../Page/ジミー・ペイジ.md "wikilink")。レコーディング・エンジニアは[アンディ・ジョンズ](https://ja.wikipedia.org/wiki/アンディ・ジョンズ "wikilink")。
 
 ## 経緯
 
@@ -11,7 +11,7 @@
 
 アルバムは10月に入ってからリリースされた。収録曲の半分以上がアコースティック・サウンドであり（A-2およびB面全曲）、[1st](../Page/レッド・ツェッペリン_I.md "wikilink")、[2ndで確立したヘヴィ](../Page/レッド・ツェッペリン_II.md "wikilink")・ロック・バンドというイメージからの脱却を意図したものとなっている。ブロン・イ・アーでの暮らしが彼らの音楽性に影響をもたらしたことは間違いなく、ペイジは「モーテルやホテルの中じゃなく、スノウドニアの素晴しい大自然の中で曲作りをしてたんだから、楽曲が変化して当然だ」と認める一方で\[3\]、単なる[ハードロック](../Page/ハードロック.md "wikilink")・[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")バンドではない事を実証するというよりも、進歩のないバンドではないという事を証明したかったと語っている\[4\]。また、ペイジやプラントが元々抱いていたブリティッシュ・トラッドや[ウエスト・コースト・サウンドへの嗜好なども相まって新作の方向が定められたのだと思われる](https://ja.wikipedia.org/wiki/ウェストコースト・ロック "wikilink")。
 
-一連のセッションで録音されたものの収録されなかった曲のうち、「ホワット・キャン・アイ・ドゥ」はシングル「移民の歌」のB面に、「ブロン・イ・アー」はアルバム『[フィジカル・グラフィティ](https://ja.wikipedia.org/wiki/フィジカル・グラフィティ "wikilink")』（[1975年](../Page/1975年.md "wikilink")）に、「プア・トム」は解散後のアルバム『[最終楽章 (コーダ)](../Page/最終楽章_\(コーダ\).md "wikilink")』にそれぞれ収録された。
+一連のセッションで録音されたものの収録されなかった曲のうち、「ホワット・キャン・アイ・ドゥ」はシングル「移民の歌」のB面に、「ブロン・イ・アー」はアルバム『[フィジカル・グラフィティ](../Page/フィジカル・グラフィティ.md "wikilink")』（[1975年](../Page/1975年.md "wikilink")）に、「プア・トム」は解散後のアルバム『[最終楽章 (コーダ)](../Page/最終楽章_\(コーダ\).md "wikilink")』にそれぞれ収録された。
 
 ## アートワーク
 
@@ -81,7 +81,7 @@
 
 [Category:レッド・ツェッペリンのアルバム](https://ja.wikipedia.org/wiki/Category:レッド・ツェッペリンのアルバム "wikilink") [Category:1970年のアルバム](https://ja.wikipedia.org/wiki/Category:1970年のアルバム "wikilink") [Category:全英アルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:全英アルバムチャート1位獲得作品 "wikilink") [Category:Billboard_200_1位獲得作品](https://ja.wikipedia.org/wiki/Category:Billboard_200_1位獲得作品 "wikilink")
 
-1.  『THE DIG』No.41、[シンコー・ミュージック](https://ja.wikipedia.org/wiki/シンコー・ミュージック "wikilink")刊、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")。ISBN 4-401-61945-5、16頁
+1.  『THE DIG』No.41、[シンコー・ミュージック](https://ja.wikipedia.org/wiki/シンコー・ミュージック "wikilink")刊、[2005年](../Page/2005年.md "wikilink")。ISBN 4-401-61945-5、16頁
 2.  シンコー・ミュージック・ムック『レッド・ツェッペリン―幻惑されて―』クリス・ウェルチ著、中村美夏訳、1999年。ISBN 4-401-70012-0、44頁
 3.  シンコー・ミュージック・ムック『天才ギタリスト　ジミー・ペイジ　完全版』、2004年。ISBN 4-401-61855-6、219頁
 4.  シンコー・ミュージック・ムック『天才ギタリスト　ジミー・ペイジ　完全版』、[2004年](../Page/2004年.md "wikilink")。ISBN 4-401-61855-6、220頁
@@ -92,12 +92,12 @@
 9.  [led+zeppelin | full Official Chart History | Official Charts Company:](http://www.officialcharts.com/search/albums/led%20zeppelin/)
 10. [Top 200 Albums | Billboard:](http://www.billboard.com/charts/billboard-200/2014-06-21)
 11.
-12. 『THE DIG』No.41、[シンコー・ミュージック](https://ja.wikipedia.org/wiki/シンコー・ミュージック "wikilink")刊、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")。ISBN 4-401-61945-5、22頁
+12. 『THE DIG』No.41、[シンコー・ミュージック](https://ja.wikipedia.org/wiki/シンコー・ミュージック "wikilink")刊、[2005年](../Page/2005年.md "wikilink")。ISBN 4-401-61945-5、22頁
 13.
 14.
 15. シンコー・ミュージック・ムック『レッド・ツェッペリン―幻惑されて―』クリス・ウェルチ著、中村美夏訳、1999年。ISBN 4-401-70012-0、45頁
 16.
-17. 『THE DIG』No.41、[シンコー・ミュージック](https://ja.wikipedia.org/wiki/シンコー・ミュージック "wikilink")刊、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")。ISBN 4-401-61945-5、23頁
+17. 『THE DIG』No.41、[シンコー・ミュージック](https://ja.wikipedia.org/wiki/シンコー・ミュージック "wikilink")刊、[2005年](../Page/2005年.md "wikilink")。ISBN 4-401-61945-5、23頁
 18.
 19. [Led Zeppelin III - Led Zeppelin | Awards | AllMusic:](http://www.allmusic.com/album/led-zeppelin-iii-mw0000650405/awards)
 20. 「アウト・オン・ザ・タイルズ」の別テイク。

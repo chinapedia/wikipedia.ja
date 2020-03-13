@@ -5,7 +5,7 @@
 
 [1999年](../Page/1999年.md "wikilink")[大学](../Page/大学.md "wikilink")の[サークル](../Page/サークル.md "wikilink")内で結成。[2003年](../Page/2003年.md "wikilink")には[テイチク](https://ja.wikipedia.org/wiki/テイチク "wikilink")傘下の[レコードレーベル](../Page/レコードレーベル.md "wikilink")・[インペリアルレコードからメジャーデビュー](../Page/インペリアルレコード_\(日本\).md "wikilink")。
 
-[2004年](../Page/2004年.md "wikilink")には[ギター](../Page/ギター.md "wikilink")の松原史明が脱退。脱退後からサポート[メンバー](https://ja.wikipedia.org/wiki/メンバー "wikilink")として入っていた小野晃裕が[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に正式なメンバーとなった。
+[2004年](../Page/2004年.md "wikilink")には[ギター](../Page/ギター.md "wikilink")の松原史明が脱退。脱退後からサポート[メンバー](https://ja.wikipedia.org/wiki/メンバー "wikilink")として入っていた小野晃裕が[2005年](../Page/2005年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に正式なメンバーとなった。
 
 ## メンバー
 

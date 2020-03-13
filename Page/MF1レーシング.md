@@ -1,7 +1,7 @@
 > この記事は[MF1](https://ja.wikipedia.org/wiki/MF1)から翻訳されています。
 
 
-**MF1レーシング** (**MF1 Racing**) は2006年のみ[F1に参戦していた](../Page/フォーミュラ1.md "wikilink")[コンストラクター](https://ja.wikipedia.org/wiki/F1コンストラクターの一覧 "wikilink")。「MF1」とは「**ミッドランドF1**」の略称。イギリスに本拠を置くが、チームの国籍登録はロシアであった。
+**MF1レーシング** (**MF1 Racing**) は2006年のみ[F1に参戦していた](../Page/フォーミュラ1.md "wikilink")[コンストラクター](../Page/F1コンストラクターの一覧.md "wikilink")。「MF1」とは「**ミッドランドF1**」の略称。イギリスに本拠を置くが、チームの国籍登録はロシアであった。
 
 ## 略歴
 
@@ -78,7 +78,7 @@
 <td><p>10位</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ティアゴ・モンテイロ" title="wikilink">ティアゴ・モンテイロ</a></p></td>
+<td><p><a href="../Page/ティアゴ・モンテイロ.md" title="wikilink">ティアゴ・モンテイロ</a></p></td>
 <td><p><small>17</small></p></td>
 <td><p><small>13</small></p></td>
 <td><p><small>Ret</small></p></td>
@@ -138,7 +138,7 @@
 
   - [スパイカーF1](../Page/スパイカーF1.md "wikilink")
   - [モータースポーツ](https://ja.wikipedia.org/wiki/モータースポーツ "wikilink")
-  - [F1コンストラクターの一覧](https://ja.wikipedia.org/wiki/F1コンストラクターの一覧 "wikilink")
+  - [F1コンストラクターの一覧](../Page/F1コンストラクターの一覧.md "wikilink")
   - [ジョーダン・グランプリ](../Page/ジョーダン・グランプリ.md "wikilink")
 
 ## 外部リンク

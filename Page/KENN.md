@@ -1465,7 +1465,7 @@
 <td><p>ゲーム『金色のコルダ』関連曲</p></td>
 </tr>
 <tr class="even">
-<td><p>冥加玲士（<a href="https://ja.wikipedia.org/wiki/日野聡" title="wikilink">日野聡</a>）、天宮静（宮野真守）、七海宗介（<a href="../Page/増田ゆき.md" title="wikilink">増田ゆき</a>）、氷渡貴史（<a href="../Page/三浦祥朗.md" title="wikilink">三浦祥朗</a>）、如月響也（<a href="https://ja.wikipedia.org/wiki/福山潤" title="wikilink">福山潤</a>）、ソラ（<strong>KENN</strong>）、トーノ（前野智昭）、ニア（佐藤朱）</p></td>
+<td><p>冥加玲士（<a href="../Page/日野聡.md" title="wikilink">日野聡</a>）、天宮静（宮野真守）、七海宗介（<a href="../Page/増田ゆき.md" title="wikilink">増田ゆき</a>）、氷渡貴史（<a href="../Page/三浦祥朗.md" title="wikilink">三浦祥朗</a>）、如月響也（<a href="../Page/福山潤.md" title="wikilink">福山潤</a>）、ソラ（<strong>KENN</strong>）、トーノ（前野智昭）、ニア（佐藤朱）</p></td>
 <td></td>
 <td></td>
 <td></td>

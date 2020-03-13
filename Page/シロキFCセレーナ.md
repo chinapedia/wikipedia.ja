@@ -5,7 +5,7 @@
 
 ## 概要
 
-[1991年](../Page/1991年.md "wikilink")1月、愛知県豊川市にある[シロキ工業](../Page/シロキ工業.md "wikilink")の社内活性化運動推進のシンボルとして誕生。[日興證券ドリームレディース](../Page/日興證券ドリームレディース.md "wikilink")に次ぐ2番目の企業内女子サッカークラブとなった。本格的な活動は[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から開始し、[1992年](../Page/1992年.md "wikilink")3月に[第13回全日本女子サッカー選手権大会](../Page/第13回全日本女子サッカー選手権大会.md "wikilink")に参加。[11月](../Page/11月.md "wikilink")から行われた「[JLSLチャレンジリーグ](https://ja.wikipedia.org/wiki/JLSLチャレンジリーグ "wikilink")’92」では4チーム2回総当たり戦を5勝1敗で優勝し、[田崎神戸レディースとの入れ替え戦](https://ja.wikipedia.org/wiki/TASAKIペルーレFC "wikilink")（[ホーム・アンド・アウェー](../Page/ホーム・アンド・アウェー.md "wikilink")方式）を1勝1分けで収めて、日本女子サッカーリーグへの昇格を決めた。
+[1991年](../Page/1991年.md "wikilink")1月、愛知県豊川市にある[シロキ工業](../Page/シロキ工業.md "wikilink")の社内活性化運動推進のシンボルとして誕生。[日興證券ドリームレディース](../Page/日興證券ドリームレディース.md "wikilink")に次ぐ2番目の企業内女子サッカークラブとなった。本格的な活動は[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から開始し、[1992年](../Page/1992年.md "wikilink")3月に[第13回全日本女子サッカー選手権大会](../Page/第13回全日本女子サッカー選手権大会.md "wikilink")に参加。[11月](../Page/11月.md "wikilink")から行われた「[JLSLチャレンジリーグ](../Page/JLSLチャレンジリーグ.md "wikilink")’92」では4チーム2回総当たり戦を5勝1敗で優勝し、[田崎神戸レディースとの入れ替え戦](https://ja.wikipedia.org/wiki/TASAKIペルーレFC "wikilink")（[ホーム・アンド・アウェー](../Page/ホーム・アンド・アウェー.md "wikilink")方式）を1勝1分けで収めて、日本女子サッカーリーグへの昇格を決めた。
 
 自社内に公式戦も行える「シロキSEGグラウンド（現：[豊川市サッカー場](https://ja.wikipedia.org/wiki/豊川市サッカー場 "wikilink")）」という本格的な練習環境を備えており、初参加の[1993年](../Page/1993年.md "wikilink")にはいきなり5位という快挙を遂げた。[1994年](../Page/1994年.md "wikilink")の[第15回全日本女子サッカー選手権大会](../Page/第15回全日本女子サッカー選手権大会.md "wikilink")でベスト4となるもその後は低迷。[1999年](../Page/1999年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")の第20回全日本女子サッカー選手権大会終了後にL・リーグ脱退を発表したため、同大会の準々決勝・日興證券ドリームレディース戦での敗戦が公式戦最後の試合に、またL・リーグは[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")シーズンが最後になった。
 
@@ -32,7 +32,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/第5回日本女子サッカーリーグ" title="wikilink">5</a></p></td>
+<td><p><a href="../Page/第5回日本女子サッカーリーグ.md" title="wikilink">5</a></p></td>
 <td><p>1993年</p>
 <td rowspan="6">
 <p>シロキFCセレーナ</p></td>
@@ -46,7 +46,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/第6回日本女子サッカーリーグ" title="wikilink">6</a></p></td>
+<td><p><a href="../Page/第6回日本女子サッカーリーグ.md" title="wikilink">6</a></p></td>
 <td><p>1994年</p>
 <td rowspan="5">
 <p>L・リーグ</p></td>
@@ -60,7 +60,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/第7回日本女子サッカーリーグ" title="wikilink">7</a></p></td>
+<td><p><a href="../Page/第7回日本女子サッカーリーグ.md" title="wikilink">7</a></p></td>
 <td><p>1995年</p></td>
 <td><p>10</p></td>
 <td><p>18</p></td>
@@ -72,19 +72,19 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/第8回日本女子サッカーリーグ" title="wikilink">8</a></p></td>
+<td><p><a href="../Page/第8回日本女子サッカーリーグ.md" title="wikilink">8</a></p></td>
 <td><p>1996年</p></td>
 <td><p>10</p></td>
 <td><p>18</p></td>
 <td><p>6</p></td>
 <td><p>12</p></td>
 <td><p>8位</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/今井敏明" title="wikilink">今井敏明</a></p></td>
+<td><p><a href="../Page/今井敏明.md" title="wikilink">今井敏明</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/第9回日本女子サッカーリーグ" title="wikilink">9</a></p></td>
+<td><p><a href="../Page/第9回日本女子サッカーリーグ.md" title="wikilink">9</a></p></td>
 <td><p>1997年</p></td>
 <td><p>10</p></td>
 <td><p>18</p></td>
@@ -96,7 +96,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/第10回日本女子サッカーリーグ" title="wikilink">10</a></p></td>
+<td><p><a href="../Page/第10回日本女子サッカーリーグ.md" title="wikilink">10</a></p></td>
 <td><p>1998年</p></td>
 <td><p>10</p></td>
 <td><p>18</p></td>
@@ -118,12 +118,12 @@
 
   - 開催期間: 1992年11月1日‐1993年2月14日
 
-| 順位 | チーム名                                                                | 勝点 | 勝 | 分 | 敗戦 |
-| -- | ------------------------------------------------------------------- | -- | - | - | -- |
-| 1位 | **シロキFCセレーナ**                                                       | 10 | 5 | 0 | 1  |
-| 2位 | [浦和本太レディースFC](https://ja.wikipedia.org/wiki/浦和本太レディースFC "wikilink") | 7  | 3 | 1 | 2  |
-| 3位 | [清水第八スポーツクラブ](https://ja.wikipedia.org/wiki/清水第八プレアデス "wikilink")   | 5  | 2 | 1 | 3  |
-| 4位 | [OKIレディーサンダース](../Page/OKI_FC_Winds.md "wikilink")                  | 2  | 1 | 0 | 5  |
+| 順位 | チーム名                                                              | 勝点 | 勝 | 分 | 敗戦 |
+| -- | ----------------------------------------------------------------- | -- | - | - | -- |
+| 1位 | **シロキFCセレーナ**                                                     | 10 | 5 | 0 | 1  |
+| 2位 | [浦和本太レディースFC](../Page/浦和本太レディースFC.md "wikilink")                  | 7  | 3 | 1 | 2  |
+| 3位 | [清水第八スポーツクラブ](https://ja.wikipedia.org/wiki/清水第八プレアデス "wikilink") | 5  | 2 | 1 | 3  |
+| 4位 | [OKIレディーサンダース](../Page/OKI_FC_Winds.md "wikilink")                | 2  | 1 | 0 | 5  |
 
 ### 1992－93入替戦
 

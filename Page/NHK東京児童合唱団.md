@@ -80,7 +80,7 @@
 
   - [小堺一機](../Page/小堺一機.md "wikilink")
   - [宮本浩次](../Page/宮本浩次_\(エレファントカシマシ\).md "wikilink")（[エレファントカシマシ](https://ja.wikipedia.org/wiki/エレファントカシマシ "wikilink")）
-  - [神崎ゆう子](https://ja.wikipedia.org/wiki/神崎ゆう子 "wikilink")
+  - [神崎ゆう子](../Page/神崎ゆう子.md "wikilink")
   - [神子雅](https://ja.wikipedia.org/wiki/神子雅 "wikilink")
   - [神山まりあ](https://ja.wikipedia.org/wiki/神山まりあ "wikilink") - [ミス・ユニバース・ジャパン](../Page/ミス・ユニバース・ジャパン.md "wikilink")2011
   - [外山国彦](https://ja.wikipedia.org/wiki/外山国彦 "wikilink")（初代指導者・声楽家）
@@ -159,7 +159,7 @@
   - [川はだれのもの?](https://ja.wikipedia.org/wiki/川はだれのもの? "wikilink")
   - 川面がキラキラ（[井上昌己](https://ja.wikipedia.org/wiki/井上昌己_\(歌手\) "wikilink")）
   - 元祖バナナの魂（[山本コウタロー](../Page/山本コウタロー.md "wikilink")）
-  - [北風小僧の寒太郎](https://ja.wikipedia.org/wiki/北風小僧の寒太郎 "wikilink")（[堺正章](https://ja.wikipedia.org/wiki/堺正章 "wikilink")）
+  - [北風小僧の寒太郎](https://ja.wikipedia.org/wiki/北風小僧の寒太郎 "wikilink")（[堺正章](../Page/堺正章.md "wikilink")）
   - [口笛吹いたら](https://ja.wikipedia.org/wiki/口笛吹いたら "wikilink")（[五味美保](../Page/五味美保.md "wikilink")）
   - [クマのぬいぐるみ](https://ja.wikipedia.org/wiki/クマのぬいぐるみ "wikilink")（[吉岡雄介](https://ja.wikipedia.org/wiki/吉岡雄介 "wikilink")）
   - [コックのポルカ](../Page/コックのポルカ.md "wikilink")（[天地総子](../Page/天地総子.md "wikilink")）
@@ -213,7 +213,7 @@
 
   - [みんなの童謡](../Page/みんなの童謡.md "wikilink")（不定期）
   - [NHK全国学校音楽コンクール](../Page/NHK全国学校音楽コンクール.md "wikilink")課題曲紹介番組（その年の課題曲を範唱するのが通例である）
-  - [BS永遠の音楽大全集](https://ja.wikipedia.org/wiki/BS永遠の音楽大全集 "wikilink")（2009年まで）
+  - [BS永遠の音楽大全集](../Page/BS永遠の音楽大全集.md "wikilink")（2009年まで）
 
 ## かつて出演していた番組
 
@@ -272,13 +272,13 @@
 
   - [南安雄](../Page/南安雄.md "wikilink")
 
-  - [シャルル・デュトワ](https://ja.wikipedia.org/wiki/シャルル・デュトワ "wikilink")
+  - [シャルル・デュトワ](../Page/シャルル・デュトワ.md "wikilink")
 
   - [ヘルベルト・ブロムシュテット](../Page/ヘルベルト・ブロムシュテット.md "wikilink")
 
   - [ユーリ・テミルカーノフ](../Page/ユーリ・テミルカーノフ.md "wikilink")
 
-  - [パーヴォ・ヤルヴィ](https://ja.wikipedia.org/wiki/パーヴォ・ヤルヴィ "wikilink")
+  - [パーヴォ・ヤルヴィ](../Page/パーヴォ・ヤルヴィ.md "wikilink")
 
   - [ジャナンドレア・ノセダ](../Page/ジャナンドレア・ノセダ.md "wikilink")
 

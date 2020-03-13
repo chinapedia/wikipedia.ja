@@ -1,7 +1,7 @@
 > この記事は[UEFA](https://ja.wikipedia.org/wiki/UEFA)から翻訳されています。
 
 
-**UEFA欧州選手権**（）は、[欧州サッカー連盟](../Page/欧州サッカー連盟.md "wikilink")（UEFA）が主催する、[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の大陸選手権大会である。**EURO**（ユーロ）とも呼称される（大抵は年度を付加して“UEFA EURO \[年度\]”などのように使われる）。4年に1度、[FIFAワールドカップ](https://ja.wikipedia.org/wiki/FIFAワールドカップ "wikilink")の中間年（[夏季五輪の開催年](../Page/夏季オリンピック.md "wikilink")）に開催される。優勝国には[FIFAコンフェデレーションズカップ](../Page/FIFAコンフェデレーションズカップ.md "wikilink")への出場権が与えられていた。
+**UEFA欧州選手権**（）は、[欧州サッカー連盟](../Page/欧州サッカー連盟.md "wikilink")（UEFA）が主催する、[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の大陸選手権大会である。**EURO**（ユーロ）とも呼称される（大抵は年度を付加して“UEFA EURO \[年度\]”などのように使われる）。4年に1度、[FIFAワールドカップ](../Page/FIFAワールドカップ.md "wikilink")の中間年（[夏季五輪の開催年](../Page/夏季オリンピック.md "wikilink")）に開催される。優勝国には[FIFAコンフェデレーションズカップ](../Page/FIFAコンフェデレーションズカップ.md "wikilink")への出場権が与えられていた。
 
 ## 概要
 
@@ -13,7 +13,7 @@
 
 ### 大会の重要性
 
-欧州において、本大会は[FIFAワールドカップ](https://ja.wikipedia.org/wiki/FIFAワールドカップ "wikilink")と同様重要な大会と考えられている。UEFAにはサッカーにおける強豪国が多数加盟しているのに加え、選手の知名度も高いので、欧州の地域大会といえども本大会には世界中の注目が集まるためである。
+欧州において、本大会は[FIFAワールドカップ](../Page/FIFAワールドカップ.md "wikilink")と同様重要な大会と考えられている。UEFAにはサッカーにおける強豪国が多数加盟しているのに加え、選手の知名度も高いので、欧州の地域大会といえども本大会には世界中の注目が集まるためである。
 
 本大会はまず6つのグループリーグに分かれて戦うため、必然的に強豪国同士の試合がグループリーグで発生する。そのため強豪国のグループリーグ敗退も珍しくない。また[1992年大会の](../Page/UEFA_EURO_'92.md "wikilink")[デンマークや](../Page/サッカーデンマーク代表.md "wikilink")[2004年大会の](../Page/UEFA_EURO_2004.md "wikilink")[ギリシャのように](../Page/サッカーギリシャ代表.md "wikilink")、全くノーマークだったチームが優勝したりするなど波乱要素でもFIFAワールドカップを上回っていると言える。
 
@@ -21,13 +21,13 @@
 
 1990年代以降、[ソ連や](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[ユーゴスラビアの崩壊](../Page/ユーゴスラビア社会主義連邦共和国.md "wikilink")、および[スロバキア](../Page/スロバキア.md "wikilink")の分離独立などにより、UEFAの加盟国数も増加した。それに加えてサッカーという競技そのものの商業主義化により、年々大会規模は大きくなっている。[1996年大会から本大会出場国がそれまでの](../Page/UEFA_EURO_'96.md "wikilink")8カ国から16カ国に増加し、[2016年大会からは](https://ja.wikipedia.org/wiki/UEFA_EURO_2016 "wikilink")24カ国に増加した。この拡大構想は、欧州における中堅国へ国際大会に出場する機会を与えようと言うものである。
 
-また、大会の巨大化が進むにつれ、ヨーロッパの中堅国では1カ国のみでの大会開催が難しい状況になりつつある。そのため、[2000年大会](../Page/UEFA_EURO_2000.md "wikilink")、[2008年大会](https://ja.wikipedia.org/wiki/UEFA_EURO_2008 "wikilink")、[2012年大会のような共同開催がスタンダード化しつつあり](../Page/UEFA_EURO_2012.md "wikilink")、2012年12月6日のUEFA理事会で[2020年大会は](https://ja.wikipedia.org/wiki/UEFA_EURO_2020 "wikilink")、欧州13カ国で分散開催する事を決定した。\[1\]
+また、大会の巨大化が進むにつれ、ヨーロッパの中堅国では1カ国のみでの大会開催が難しい状況になりつつある。そのため、[2000年大会](../Page/UEFA_EURO_2000.md "wikilink")、[2008年大会](../Page/UEFA_EURO_2008.md "wikilink")、[2012年大会のような共同開催がスタンダード化しつつあり](../Page/UEFA_EURO_2012.md "wikilink")、2012年12月6日のUEFA理事会で[2020年大会は](https://ja.wikipedia.org/wiki/UEFA_EURO_2020 "wikilink")、欧州13カ国で分散開催する事を決定した。\[1\]
 
 ## 開催方式
 
 ### 予選
 
-[FIFAワールドカップ](https://ja.wikipedia.org/wiki/FIFAワールドカップ "wikilink")終了後から、約1年2-3カ月程度グループ内総当り戦による[H\&Aのリーグ戦を行う](../Page/ホーム・アンド・アウェー.md "wikilink")。リーグ戦終了後、グループ次点同士によるプレーオフを行うこともある。[2016年大会については](https://ja.wikipedia.org/wiki/UEFA_EURO_2016 "wikilink")[こちらを参照されたい](https://ja.wikipedia.org/wiki/UEFA_EURO_2016予選 "wikilink")。
+[FIFAワールドカップ](../Page/FIFAワールドカップ.md "wikilink")終了後から、約1年2-3カ月程度グループ内総当り戦による[H\&Aのリーグ戦を行う](../Page/ホーム・アンド・アウェー.md "wikilink")。リーグ戦終了後、グループ次点同士によるプレーオフを行うこともある。[2016年大会については](https://ja.wikipedia.org/wiki/UEFA_EURO_2016 "wikilink")[こちらを参照されたい](https://ja.wikipedia.org/wiki/UEFA_EURO_2016予選 "wikilink")。
 
 ### 本大会
 
@@ -167,7 +167,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1988" title="wikilink">8</a></p></td>
+<td><p><a href="../Page/UEFA欧州選手権1988.md" title="wikilink">8</a></p></td>
 <td><p><a href="../Page/1988年.md" title="wikilink">1988年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
@@ -223,7 +223,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/UEFA_EURO_2008" title="wikilink">13</a></p></td>
+<td><p><a href="../Page/UEFA_EURO_2008.md" title="wikilink">13</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a></p></td>
 <td><p><br />
 </p></td>
@@ -928,7 +928,7 @@
 <td><p>9</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/クリスティアーノ・ロナウド" title="wikilink">クリスティアーノ・ロナウド</a></p></td>
+<td><p><a href="../Page/クリスティアーノ・ロナウド.md" title="wikilink">クリスティアーノ・ロナウド</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1023,7 +1023,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クリスティアーノ・ロナウド" title="wikilink">クリスティアーノ・ロナウド</a></p></td>
+<td><p><a href="../Page/クリスティアーノ・ロナウド.md" title="wikilink">クリスティアーノ・ロナウド</a></p></td>
 <td><p>21</p></td>
 </tr>
 <tr class="even">
@@ -1130,7 +1130,7 @@
 <td><p>9</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1988" title="wikilink">1988</a></p></td>
+<td><p><a href="../Page/UEFA欧州選手権1988.md" title="wikilink">1988</a></p></td>
 <td></td>
 <td><p><a href="../Page/マルコ・ファン・バステン.md" title="wikilink">マルコ・ファン・バステン</a></p></td>
 <td><p>5</p></td>
@@ -1146,7 +1146,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/UEFA_EURO_&#39;96.md" title="wikilink">1996</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マティアス・ザマー" title="wikilink">マティアス・ザマー</a></p></td>
+<td><p><a href="../Page/マティアス・ザマー.md" title="wikilink">マティアス・ザマー</a></p></td>
 <td><p><a href="../Page/アラン・シアラー.md" title="wikilink">アラン・シアラー</a></p></td>
 <td><p>5</p></td>
 </tr>
@@ -1164,7 +1164,7 @@
 <td><p>5</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/UEFA_EURO_2008" title="wikilink">2008</a></p></td>
+<td><p><a href="../Page/UEFA_EURO_2008.md" title="wikilink">2008</a></p></td>
 <td><p><a href="../Page/シャビ.md" title="wikilink">シャビ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ダビド・ビジャ" title="wikilink">ダビド・ビジャ</a></p></td>
 <td><p>4</p></td>
@@ -1175,7 +1175,7 @@
 <td><p><a href="../Page/フェルナンド・トーレス.md" title="wikilink">フェルナンド・トーレス</a><br />
  <a href="https://ja.wikipedia.org/wiki/マリオ・バロテッリ" title="wikilink">マリオ・バロテッリ</a><br />
  <a href="../Page/マリオ・ゴメス.md" title="wikilink">マリオ・ゴメス</a><br />
- <a href="https://ja.wikipedia.org/wiki/クリスティアーノ・ロナウド" title="wikilink">クリスティアーノ・ロナウド</a><br />
+ <a href="../Page/クリスティアーノ・ロナウド.md" title="wikilink">クリスティアーノ・ロナウド</a><br />
  <a href="https://ja.wikipedia.org/wiki/アラン・ジャゴエフ" title="wikilink">アラン・ジャゴエフ</a><br />
  <a href="https://ja.wikipedia.org/wiki/マリオ・マンジュキッチ" title="wikilink">マリオ・マンジュキッチ</a></p></td>
 <td><p>3</p></td>

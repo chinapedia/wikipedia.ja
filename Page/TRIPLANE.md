@@ -737,7 +737,7 @@ NFCD-27345:通常盤</p></td>
 </tr>
 <tr class="even">
 <td><p>Brand New Day</p></td>
-<td><p>オリジナルVシネマ『<a href="https://ja.wikipedia.org/wiki/仮面ライダージオウ_NEXT_TIME_ゲイツ、マジェスティ" title="wikilink">仮面ライダージオウ NEXT TIME ゲイツ、マジェスティ</a>』主題歌</p></td>
+<td><p>オリジナルVシネマ『<a href="../Page/仮面ライダージオウ_NEXT_TIME_ゲイツ、マジェスティ.md" title="wikilink">仮面ライダージオウ NEXT TIME ゲイツ、マジェスティ</a>』主題歌</p></td>
 </tr>
 </tbody>
 </table>

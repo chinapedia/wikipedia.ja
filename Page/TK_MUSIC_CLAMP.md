@@ -102,7 +102,7 @@
   - [Bro.KONE](https://ja.wikipedia.org/wiki/Bro.KONE "wikilink")
   - [つんく♂](https://ja.wikipedia.org/wiki/つんく♂ "wikilink")
   - [大澤誉志幸](../Page/大澤誉志幸.md "wikilink")
-  - [木村拓哉](https://ja.wikipedia.org/wiki/木村拓哉 "wikilink")
+  - [木村拓哉](../Page/木村拓哉.md "wikilink")
   - [甲斐よしひろ](../Page/甲斐よしひろ.md "wikilink")
   - trf
   - [globe](https://ja.wikipedia.org/wiki/globe "wikilink")
@@ -157,7 +157,7 @@
   - [サンプラザ中野](../Page/サンプラザ中野くん.md "wikilink")
   - [THE BIG BAND\!\!](https://ja.wikipedia.org/wiki/THE_BIG_BAND!! "wikilink")
   - [中西圭三](https://ja.wikipedia.org/wiki/中西圭三 "wikilink")
-  - [近藤真彦](https://ja.wikipedia.org/wiki/近藤真彦 "wikilink")
+  - [近藤真彦](../Page/近藤真彦.md "wikilink")
   - [内田有紀](../Page/内田有紀.md "wikilink")
   - [PIZZICATO FIVE](https://ja.wikipedia.org/wiki/PIZZICATO_FIVE "wikilink")
   - [仲井戸麗市](../Page/仲井戸麗市.md "wikilink")
@@ -192,7 +192,7 @@
   - [T.M.Revolution](../Page/T.M.Revolution.md "wikilink")
   - [IZAM](../Page/IZAM.md "wikilink") from [SHAZNA](../Page/SHAZNA.md "wikilink")
   - [宝生舞](https://ja.wikipedia.org/wiki/宝生舞 "wikilink")
-  - [野宮真貴](https://ja.wikipedia.org/wiki/野宮真貴 "wikilink")
+  - [野宮真貴](../Page/野宮真貴.md "wikilink")
   - [観月ありさ](https://ja.wikipedia.org/wiki/観月ありさ "wikilink")
   - [アン・ルイス](../Page/アン・ルイス.md "wikilink")
   - 奥居香

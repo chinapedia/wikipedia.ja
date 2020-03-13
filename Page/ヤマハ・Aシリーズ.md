@@ -19,7 +19,7 @@
 
 [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")発売。当時の定価179,000円。
 
-コントロールノブでパラメーターをリアルタイム操作可能なサンプラー。ブレイクビーツ作成を念頭に置いている。青色の筐体を採用し、ハンディーサンプラー[SU10の流れも感じられるモデルである](https://ja.wikipedia.org/wiki/ヤマハ・SUシリーズ "wikilink")。
+コントロールノブでパラメーターをリアルタイム操作可能なサンプラー。ブレイクビーツ作成を念頭に置いている。青色の筐体を採用し、ハンディーサンプラー[SU10の流れも感じられるモデルである](../Page/ヤマハ・SUシリーズ.md "wikilink")。
 
 最大同時発音数 64音 マルチティンバー数 16パート AD変換 16bitΔΣ方式64倍オーバーサンプリング DAコンバータ 18bit4倍オーバーサンプリング エフェクト 3系統（各54プログラム）＋4バンドEQ。
 
@@ -37,7 +37,7 @@
 
 ## 関連項目
 
-  - [ヤマハ・SUシリーズ](https://ja.wikipedia.org/wiki/ヤマハ・SUシリーズ "wikilink")
+  - [ヤマハ・SUシリーズ](../Page/ヤマハ・SUシリーズ.md "wikilink")
   - [TX16W](../Page/ヤマハ・TXシリーズ.md "wikilink")
 
 [Category:ヤマハの製品](https://ja.wikipedia.org/wiki/Category:ヤマハの製品 "wikilink")

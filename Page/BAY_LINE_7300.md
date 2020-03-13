@@ -43,7 +43,7 @@
   - [きゃんひとみ](../Page/きゃんひとみ.md "wikilink")、[山本太郎](https://ja.wikipedia.org/wiki/山本太郎 "wikilink")（1998年4月 - 2001年頃）
   - きゃんひとみ、[末飛登](https://ja.wikipedia.org/wiki/末飛登 "wikilink")（2001年頃）
   - [島村幸男](../Page/島村幸男.md "wikilink")、[村瀬日加里](https://ja.wikipedia.org/wiki/村瀬日加里 "wikilink")（2001年頃 - 2002年3月）
-  - 島村幸男、[たなかえり](https://ja.wikipedia.org/wiki/たなかえり "wikilink")（2002年4月1日 - 2002年9月30日）
+  - 島村幸男、[たなかえり](../Page/たなかえり.md "wikilink")（2002年4月1日 - 2002年9月30日）
   - 島村幸男、[小坂あきら](../Page/笠原あきら.md "wikilink")（2002年10月7日 - 2003年3月24日）
   - きゃんひとみ、[松風雅也](../Page/松風雅也.md "wikilink")（2003年4月7日 - 2004年9月27日）
   - きゃんひとみ、島村幸男（2004年10月4日 - 2009年3月30日）
@@ -119,7 +119,7 @@
   - きゃんひとみ
   - きゃんひとみ、[高杉'Jay'二郎](../Page/高杉'Jay'二郎.md "wikilink")（2002年頃 - 2003年3月）
   - 島村幸男、雨宮朋絵（2003年4月4日 - 2004年9月24日）
-  - [原田真二](https://ja.wikipedia.org/wiki/原田真二 "wikilink")（2004年10月8日 - 2005年3月25日）
+  - [原田真二](../Page/原田真二.md "wikilink")（2004年10月8日 - 2005年3月25日）
   - [松崎麻矢](../Page/松崎麻矢.md "wikilink")、[なおと](https://ja.wikipedia.org/wiki/ナオト・インティライミ "wikilink")（2005年4月1日 - 2005年12月16日）
   - なおと、[根本美緒](https://ja.wikipedia.org/wiki/根本美緒 "wikilink")（2006年1月6日 - 9月29日）
   - [井森美幸](https://ja.wikipedia.org/wiki/井森美幸 "wikilink")、BAY LINE ALL STARS（2006年10月6日 - 27日）
@@ -177,7 +177,7 @@
 ### 富里スイカロードレース出場
 
   -
-    [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月22日](../Page/6月22日.md "wikilink")、[千葉県](../Page/千葉県.md "wikilink")[富里市](https://ja.wikipedia.org/wiki/富里市 "wikilink")で行われた『第25回[富里スイカロードレース大会](https://ja.wikipedia.org/wiki/富里スイカロードレース大会 "wikilink")』に、きゃんひとみ、島村幸男、有村昆(2007年度も参加)、バズーカ山寺、高橋正純の各パーソナリティ・スタッフが参加して、全員10キロメートルを完走した。この模様は6月27日に、きゃんがキャスターを務める『[NEWS C-master](../Page/NEWS_C-master.md "wikilink")』（[チバテレ](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink")）内でも放送された。
+    [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月22日](../Page/6月22日.md "wikilink")、[千葉県](../Page/千葉県.md "wikilink")[富里市](https://ja.wikipedia.org/wiki/富里市 "wikilink")で行われた『第25回[富里スイカロードレース大会](https://ja.wikipedia.org/wiki/富里スイカロードレース大会 "wikilink")』に、きゃんひとみ、島村幸男、有村昆(2007年度も参加)、バズーカ山寺、高橋正純の各パーソナリティ・スタッフが参加して、全員10キロメートルを完走した。この模様は6月27日に、きゃんがキャスターを務める『[NEWS C-master](../Page/NEWS_C-master.md "wikilink")』（[チバテレ](../Page/千葉テレビ放送.md "wikilink")）内でも放送された。
 
 ## 関連項目
 

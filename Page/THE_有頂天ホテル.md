@@ -71,7 +71,7 @@
 ### その他
 
   - 垂れ幕業者 - [阿南健治](../Page/阿南健治.md "wikilink")
-  - 事故に遭った蒼白顔のタクシー運転手 - [佐渡稔](https://ja.wikipedia.org/wiki/佐渡稔 "wikilink")
+  - 事故に遭った蒼白顔のタクシー運転手 - [佐渡稔](../Page/佐渡稔.md "wikilink")
   - 記者1 - [伊東孝明](../Page/伊東孝明.md "wikilink")
   - 記者2 - [高川裕也](../Page/高川裕也.md "wikilink")
   - 記者3 - [望月章男](https://ja.wikipedia.org/wiki/望月章男 "wikilink")

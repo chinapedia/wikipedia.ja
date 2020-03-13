@@ -151,7 +151,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/東海3県" title="wikilink">中京広域圏</a></p></td>
+<td><p><a href="../Page/東海3県.md" title="wikilink">中京広域圏</a></p></td>
 <td><p><a href="../Page/名古屋テレビ放送.md" title="wikilink">名古屋テレビ</a><br />
 (NBN)</p></td>
 <td><p>テレビ朝日系列</p></td>
@@ -278,7 +278,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/沖縄県.md" title="wikilink">沖縄県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/琉球放送" title="wikilink">琉球放送</a><br />
+<td><p><a href="../Page/琉球放送.md" title="wikilink">琉球放送</a><br />
 (RBC)</p></td>
 <td><p>TBS系列</p></td>
 <td><p>遅れネット</p></td>

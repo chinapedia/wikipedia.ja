@@ -54,7 +54,7 @@
   - Drums
   - SearchMus
   - Muse Filer
-  - [MuseScore](https://ja.wikipedia.org/wiki/MuseScore_\(Museデータ作成支援ソフト\) "wikilink")
+  - [MuseScore](../Page/MuseScore_\(Museデータ作成支援ソフト\).md "wikilink")
   - MML2MUS
   - Musexec
   - RegMuse

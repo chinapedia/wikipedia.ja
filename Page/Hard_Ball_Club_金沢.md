@@ -9,7 +9,7 @@
 
 [石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")から社会人硬式野球部がなくなり、社会人となる[学生野球](../Page/学生野球.md "wikilink")出身者の受け皿を作ろうと\[1\]、金沢市内高校硬式野球部OBたちが[2002年](../Page/2002年.md "wikilink")に『**Hard Base League クラブ**』を立ち上げた。
 
-その後、少年野球指導などの活動を行っていく中で、公式戦への出場を望む声が高まり、[2004年](../Page/2004年.md "wikilink")にチーム名を『**Hard Ball Club 金沢**』に改称し、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月3日](../Page/3月3日.md "wikilink")付けで[日本野球連盟](../Page/日本野球連盟.md "wikilink")に加盟した\[2\]。
+その後、少年野球指導などの活動を行っていく中で、公式戦への出場を望む声が高まり、[2004年](../Page/2004年.md "wikilink")にチーム名を『**Hard Ball Club 金沢**』に改称し、[2005年](../Page/2005年.md "wikilink")[3月3日](../Page/3月3日.md "wikilink")付けで[日本野球連盟](../Page/日本野球連盟.md "wikilink")に加盟した\[2\]。
 
 [2006年](../Page/2006年.md "wikilink")、[全日本クラブ野球選手権大会](../Page/全日本クラブ野球選手権大会.md "wikilink")に初出場を果たす（2回戦敗退）。
 
@@ -17,7 +17,7 @@
 
   - [2002年](../Page/2002年.md "wikilink") - チームの前身『**Hard Base League クラブ**』が発足
   - [2004年](../Page/2004年.md "wikilink") - チーム名を『**Hard Ball Club 金沢**』に改称
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") - [日本野球連盟](../Page/日本野球連盟.md "wikilink")に加盟
+  - [2005年](../Page/2005年.md "wikilink") - [日本野球連盟](../Page/日本野球連盟.md "wikilink")に加盟
   - [2006年](../Page/2006年.md "wikilink") - [全日本クラブ野球選手権大会](../Page/全日本クラブ野球選手権大会.md "wikilink")に初出場（2回戦敗退）
 
 ## 主要大会の優勝歴・最高成績

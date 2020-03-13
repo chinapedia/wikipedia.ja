@@ -11,7 +11,7 @@
 
 ## 総合司会
 
-  - [永松ケンシ](https://ja.wikipedia.org/wiki/永松ケンシ "wikilink")
+  - [永松ケンシ](../Page/永松ケンシ.md "wikilink")
 
 ## 各局のパーソナリティ
 
@@ -28,7 +28,7 @@
 
 ## 備考
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月9日](../Page/9月9日.md "wikilink")放送分ではFM山口アナウンサーの鈴木晶久が永松ケンシの代わりに司会を担当した。
+  - [2005年](../Page/2005年.md "wikilink")[9月9日](../Page/9月9日.md "wikilink")放送分ではFM山口アナウンサーの鈴木晶久が永松ケンシの代わりに司会を担当した。
   - この番組の終了をもって『[COUNTDOWN RADIO WEST](../Page/COUNTDOWN_RADIO_WEST.md "wikilink")』以来続いてきた中国・四国地方のJFN系列県域民間FM放送局8社全局をネットする番組は終止符を打った。
   - 逆に民間[中波放送](../Page/中波放送.md "wikilink")局では2005年秋以降『[中四国ライブネット](../Page/中四国ライブネット.md "wikilink")』という中国・四国地方の全局をネットする番組が登場している。
 

@@ -7,7 +7,7 @@
 
 ## 来歴
 
-[東京都立新宿高等学校](https://ja.wikipedia.org/wiki/東京都立新宿高等学校 "wikilink")、[帝京大学](../Page/帝京大学.md "wikilink")卒業。[1994年](../Page/1994年.md "wikilink")より本名名義で作曲・編曲家として活動していた。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、[原田知世](https://ja.wikipedia.org/wiki/原田知世 "wikilink")主演の映画『[あした](../Page/あした_\(映画\).md "wikilink")』の主題歌「あした」の作曲で注目されるが、仕事が少なかった[2001年](../Page/2001年.md "wikilink")ごろに登録社員として[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")にある解体業者[日本ブレイク工業](../Page/日本ブレイク工業.md "wikilink")に勤務する\[2\]。コミックバンド仲間でもあった同社の課長からの依頼を受け、同社の[社歌](../Page/社歌.md "wikilink")を作詞・作曲したところ\[3\]、[2003年](../Page/2003年.md "wikilink")になって[タモリ倶楽部](../Page/タモリ倶楽部.md "wikilink")で紹介され、注目されるようになった\[4\]。現在は音楽活動に専念しており、萬Zあるいはmanzoの名で[CDをリリースする一方](../Page/コンパクトディスク.md "wikilink")、[桃井はるこ](../Page/桃井はるこ.md "wikilink")他の作品の作曲・編曲、各種[アニメ](../Page/アニメ.md "wikilink")の劇伴などで活躍、また本名名義でもアーティストへの楽曲提供を行っている。PCに詳しい。
+[東京都立新宿高等学校](../Page/東京都立新宿高等学校.md "wikilink")、[帝京大学](../Page/帝京大学.md "wikilink")卒業。[1994年](../Page/1994年.md "wikilink")より本名名義で作曲・編曲家として活動していた。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、[原田知世](https://ja.wikipedia.org/wiki/原田知世 "wikilink")主演の映画『[あした](../Page/あした_\(映画\).md "wikilink")』の主題歌「あした」の作曲で注目されるが、仕事が少なかった[2001年](../Page/2001年.md "wikilink")ごろに登録社員として[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")にある解体業者[日本ブレイク工業](../Page/日本ブレイク工業.md "wikilink")に勤務する\[2\]。コミックバンド仲間でもあった同社の課長からの依頼を受け、同社の[社歌](../Page/社歌.md "wikilink")を作詞・作曲したところ\[3\]、[2003年](../Page/2003年.md "wikilink")になって[タモリ倶楽部](../Page/タモリ倶楽部.md "wikilink")で紹介され、注目されるようになった\[4\]。現在は音楽活動に専念しており、萬Zあるいはmanzoの名で[CDをリリースする一方](../Page/コンパクトディスク.md "wikilink")、[桃井はるこ](../Page/桃井はるこ.md "wikilink")他の作品の作曲・編曲、各種[アニメ](../Page/アニメ.md "wikilink")の劇伴などで活躍、また本名名義でもアーティストへの楽曲提供を行っている。PCに詳しい。
 
 ## 人物
 
@@ -37,7 +37,7 @@
         2つ目のカップリング曲の『Labyrinth』は、[ホストクラブ](../Page/ホストクラブ.md "wikilink")「メシア」の店歌である。
 3.  霊峰マウンテン
       -
-        [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月27日](../Page/4月27日.md "wikilink")発売。名古屋市昭和区にある重食レストラン「[喫茶マウンテン](../Page/喫茶マウンテン.md "wikilink")」の店歌。
+        [2005年](../Page/2005年.md "wikilink")[4月27日](../Page/4月27日.md "wikilink")発売。名古屋市昭和区にある重食レストラン「[喫茶マウンテン](../Page/喫茶マウンテン.md "wikilink")」の店歌。
         1つ目のカップリング曲は『翔べ\!ウサライダー』で、こちらは個人商店のキャラクター『[ウサライダー](../Page/ウサライダー.md "wikilink")』のテーマソングである。『[ウサライダー](../Page/ウサライダー.md "wikilink")』は2005年にWEB[アニメ](../Page/アニメ.md "wikilink")シリーズ化。
         2つ目のカップリング曲の『今夜もサバイバル』はサバイバルゲームチーム「アーセナル」のテーマソングである。
         3つ目のカップリング曲の『21st Century Motorway Star』は[ポルシェ](../Page/ポルシェ.md "wikilink")の[インターネットコミュニティ](../Page/インターネットコミュニティ.md "wikilink")『[Progress](http://www.porsche.gr.jp/)』のテーマソングである。
@@ -208,7 +208,7 @@
   - 『棺姫のチャイカ AVENGING BATTLE(2期)』(2014年)
       - OP「漆黒を塗りつぶせ」(作曲・編曲)
       - ED「ワタシハオマエノナカニイル」(作曲)
-  - 『[三者三葉](https://ja.wikipedia.org/wiki/三者三葉 "wikilink")』(2016年)
+  - 『[三者三葉](../Page/三者三葉.md "wikilink")』(2016年)
       - OP「クローバー♣かくめーしょん」(編曲)
 
 ### アニメ劇伴
@@ -291,9 +291,9 @@
       - 「[わがままな流れ星](https://ja.wikipedia.org/wiki/チームK_5th_Stage「逆上がり」 "wikilink")」（作曲）
   - [織田裕二](../Page/織田裕二.md "wikilink")
       - 「[I'll Be Back To You](https://ja.wikipedia.org/wiki/愛までもうすぐだから "wikilink")」（作曲）
-  - [影山ヒロノブ](https://ja.wikipedia.org/wiki/影山ヒロノブ "wikilink")
+  - [影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink")
       - 「歌う珍プレー」（作曲）
-  - [K.](https://ja.wikipedia.org/wiki/K. "wikilink")
+  - [K.](../Page/K..md "wikilink")
       - 「After the Silence」（作曲）
   - [鈴里真帆](../Page/鈴里真帆.md "wikilink")
       - 「Lisa」（作曲）
@@ -410,7 +410,7 @@
         唄：ストロベリーバニー 作詞：haru-A 作編曲：manzo
     「恋のβ-カロテン」唄：ストロベリーバニー 作詞：haru-A 作曲･編曲：manzo
       -
-        2006年1月[ウラモモーイ](https://ja.wikipedia.org/wiki/ウラモモーイ "wikilink")代打出演時にオンエアされた
+        2006年1月[ウラモモーイ](../Page/ウラモモーイ.md "wikilink")代打出演時にオンエアされた
         [manzo日記](http://manzoblog.seesaa.net/article/23755461.html)にてショートバージョン公開中。
 
 ## 出演

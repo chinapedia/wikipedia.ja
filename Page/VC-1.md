@@ -13,7 +13,7 @@
 
 [2004年](../Page/2004年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")、[DVDフォーラム](../Page/DVDフォーラム.md "wikilink")がVC-9(当時)および[MPEG-4 AVCを](../Page/H.264.md "wikilink")[HD DVDプレーヤの必須](../Page/HD_DVD.md "wikilink")[コーデック](../Page/コーデック.md "wikilink")とすることを承認し、同12月にVC-1についてはアドバンスドプロファイルを採用することを決定した。また、[Blu-ray Discでも同](../Page/Blu-ray_Disc.md "wikilink")9月にVC-1アドバンスドプロファイルとMPEG-4 AVCハイプロファイルの採用を決定している。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、SMPTEでのVC-1規格化作業が完了し、SMPTE 421Mとして発表された。
+[2005年](../Page/2005年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、SMPTEでのVC-1規格化作業が完了し、SMPTE 421Mとして発表された。
 
 [2007年](../Page/2007年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink")、[Windows Media Player 11](../Page/Windows_Media_Player.md "wikilink") for [Windows XPが](../Page/Microsoft_Windows_XP.md "wikilink")、[Windows Vistaの発売にあわせ正式公開された](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink")。それまではβ版コーデックを入れないといけなかったが、WMP 11にはVC-1コーデック(WVC1)が同梱され、扱いやすくなった。なお、Windows Vistaには最初からWMP 11が含まれているため、VC-1コーデックに標準で対応している。
 

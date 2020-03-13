@@ -5,13 +5,13 @@
 
 ## 概要・歴史
 
-[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")、[沖電気工業](../Page/沖電気工業.md "wikilink")の女子サッカークラブとして「**OKIレディーサンダース**」の名称で結成。[1992年](../Page/1992年.md "wikilink")からは[JLSLチャレンジリーグ](https://ja.wikipedia.org/wiki/JLSLチャレンジリーグ "wikilink")（2部に相当）で活動し、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")にリーグ優勝。その後に[清水第八](https://ja.wikipedia.org/wiki/清水第八プレアデス "wikilink")、[浦和レディースFCとの](https://ja.wikipedia.org/wiki/浦和本太レディースFC "wikilink")3クラブで行われた参入戦でも1位（3勝1敗）の成績を挙げ、[1996年](../Page/1996年.md "wikilink")に練習グランド確保困難のため廃部となった[TOKYO SHiDAXに代わってL](https://ja.wikipedia.org/wiki/新光精工FCクレール "wikilink")・リーグに昇格。同時に地元埼玉県を吹き付ける「上州[空っ風](https://ja.wikipedia.org/wiki/空っ風 "wikilink")」をイメージして、クラブ名を「**OKI FC Winds**」とした。
+[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")、[沖電気工業](../Page/沖電気工業.md "wikilink")の女子サッカークラブとして「**OKIレディーサンダース**」の名称で結成。[1992年](../Page/1992年.md "wikilink")からは[JLSLチャレンジリーグ](../Page/JLSLチャレンジリーグ.md "wikilink")（2部に相当）で活動し、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")にリーグ優勝。その後に[清水第八](https://ja.wikipedia.org/wiki/清水第八プレアデス "wikilink")、[浦和レディースFCとの](../Page/浦和本太レディースFC.md "wikilink")3クラブで行われた参入戦でも1位（3勝1敗）の成績を挙げ、[1996年](../Page/1996年.md "wikilink")に練習グランド確保困難のため廃部となった[TOKYO SHiDAXに代わってL](../Page/新光精工FCクレール.md "wikilink")・リーグに昇格。同時に地元埼玉県を吹き付ける「上州[空っ風](https://ja.wikipedia.org/wiki/空っ風 "wikilink")」をイメージして、クラブ名を「**OKI FC Winds**」とした。
 
 また、沖電気もL・リーグ公式戦の協賛とカップ戦（[L・リーグカップ](https://ja.wikipedia.org/wiki/L・リーグカップ "wikilink")）及びチャンピオンシップの冠協賛となった。
 
-L・リーグとして、初の公式戦は1996年6月に行われた「OKI L・リーグカップ96」で、4戦全敗で予選リーグ敗退。[アトランタオリンピック](https://ja.wikipedia.org/wiki/アトランタオリンピック "wikilink")後の開催の開催となった[第8回日本女子サッカーリーグ](https://ja.wikipedia.org/wiki/第8回日本女子サッカーリーグ "wikilink")（1996年）は初戦で[日興證券ドリームレディース](../Page/日興證券ドリームレディース.md "wikilink")を相手に[リンダ・メダレン](https://ja.wikipedia.org/wiki/リンダ・メダレン "wikilink")の10得点を含む1-16で敗退。シーズン成績も1勝（1PK勝）17敗（1PK敗）の最下位に終わった。浦和レディースFCとの入れ替え戦は、2戦2勝でL・リーグ残留を果たした。
+L・リーグとして、初の公式戦は1996年6月に行われた「OKI L・リーグカップ96」で、4戦全敗で予選リーグ敗退。[アトランタオリンピック](https://ja.wikipedia.org/wiki/アトランタオリンピック "wikilink")後の開催の開催となった[第8回日本女子サッカーリーグ](../Page/第8回日本女子サッカーリーグ.md "wikilink")（1996年）は初戦で[日興證券ドリームレディース](../Page/日興證券ドリームレディース.md "wikilink")を相手に[リンダ・メダレン](https://ja.wikipedia.org/wiki/リンダ・メダレン "wikilink")の10得点を含む1-16で敗退。シーズン成績も1勝（1PK勝）17敗（1PK敗）の最下位に終わった。浦和レディースFCとの入れ替え戦は、2戦2勝でL・リーグ残留を果たした。
 
-[1999年](../Page/1999年.md "wikilink")、前年廃部になった日興證券ドリームレディースから[大部由美](../Page/大部由美.md "wikilink")、[佐藤春詠](https://ja.wikipedia.org/wiki/佐藤春詠 "wikilink")、[高橋彩子](../Page/高橋彩子.md "wikilink")などを獲得し、同様に廃部となった[フジタマーキュリーおよび](https://ja.wikipedia.org/wiki/フジタ天台SCマーキュリー "wikilink")[シロキFCセレーナ](https://ja.wikipedia.org/wiki/シロキFCセレーナ "wikilink")などからも選手を補強。リーグ戦は4位となったが、この年限りで廃部となった。
+[1999年](../Page/1999年.md "wikilink")、前年廃部になった日興證券ドリームレディースから[大部由美](../Page/大部由美.md "wikilink")、[佐藤春詠](../Page/佐藤春詠.md "wikilink")、[高橋彩子](../Page/高橋彩子.md "wikilink")などを獲得し、同様に廃部となった[フジタマーキュリーおよび](../Page/フジタ天台SCマーキュリー.md "wikilink")[シロキFCセレーナ](../Page/シロキFCセレーナ.md "wikilink")などからも選手を補強。リーグ戦は4位となったが、この年限りで廃部となった。
 
 ## 主な成績
 
@@ -42,7 +42,7 @@ L・リーグとして、初の公式戦は1996年6月に行われた「OKI L・
 <td rowspan="4">
 <p>OKIレディーサンダース</p>
 <td rowspan="4">
-<p><a href="https://ja.wikipedia.org/wiki/JLSLチャレンジリーグ" title="wikilink">JLSLチャレンジリーグ</a></p></td>
+<p><a href="../Page/JLSLチャレンジリーグ.md" title="wikilink">JLSLチャレンジリーグ</a></p></td>
 <td><p>4</p></td>
 <td><p>6</p></td>
 <td><p><strong>2</strong></p></td>
@@ -109,7 +109,7 @@ L・リーグとして、初の公式戦は1996年6月に行われた「OKI L・
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/第8回日本女子サッカーリーグ" title="wikilink">8</a></p></td>
+<td><p><a href="../Page/第8回日本女子サッカーリーグ.md" title="wikilink">8</a></p></td>
 <td><p>1996</p>
 <td rowspan="4">
 <p>OKI FC Winds</p>
@@ -130,7 +130,7 @@ L・リーグとして、初の公式戦は1996年6月に行われた「OKI L・
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/第9回日本女子サッカーリーグ" title="wikilink">9</a></p></td>
+<td><p><a href="../Page/第9回日本女子サッカーリーグ.md" title="wikilink">9</a></p></td>
 <td><p>1997</p></td>
 <td><p>10</p></td>
 <td><p>18</p></td>
@@ -147,7 +147,7 @@ L・リーグとして、初の公式戦は1996年6月に行われた「OKI L・
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/第10回日本女子サッカーリーグ" title="wikilink">10</a></p></td>
+<td><p><a href="../Page/第10回日本女子サッカーリーグ.md" title="wikilink">10</a></p></td>
 <td><p>1998</p></td>
 <td><p>10</p></td>
 <td><p>18</p></td>
@@ -164,7 +164,7 @@ L・リーグとして、初の公式戦は1996年6月に行われた「OKI L・
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/第11回日本女子サッカーリーグ" title="wikilink">11</a></p></td>
+<td><p><a href="../Page/第11回日本女子サッカーリーグ.md" title="wikilink">11</a></p></td>
 <td><p>1999</p></td>
 <td><p>8</p></td>
 <td><p>14</p></td>
@@ -202,11 +202,11 @@ L・リーグとして、初の公式戦は1996年6月に行われた「OKI L・
 
   - [大部由美](../Page/大部由美.md "wikilink")
   - [高橋彩子](../Page/高橋彩子.md "wikilink")
-  - [佐藤春詠](https://ja.wikipedia.org/wiki/佐藤春詠 "wikilink")
+  - [佐藤春詠](../Page/佐藤春詠.md "wikilink")
 
 ## 関連項目
 
   - [日本女子サッカーリーグ](../Page/日本女子サッカーリーグ.md "wikilink")
-  - [JLSLチャレンジリーグ](https://ja.wikipedia.org/wiki/JLSLチャレンジリーグ "wikilink")
+  - [JLSLチャレンジリーグ](../Page/JLSLチャレンジリーグ.md "wikilink")
 
 [Category:現在活動していない日本のサッカークラブ](https://ja.wikipedia.org/wiki/Category:現在活動していない日本のサッカークラブ "wikilink") [Category:沖電気](https://ja.wikipedia.org/wiki/Category:沖電気 "wikilink") [Category:OKI_FC_Windsの選手](https://ja.wikipedia.org/wiki/Category:OKI_FC_Windsの選手 "wikilink") [Category:日本の女子サッカークラブ](https://ja.wikipedia.org/wiki/Category:日本の女子サッカークラブ "wikilink") [Category:埼玉県のサッカークラブ](https://ja.wikipedia.org/wiki/Category:埼玉県のサッカークラブ "wikilink") [Category:埼玉県のスポーツ史](https://ja.wikipedia.org/wiki/Category:埼玉県のスポーツ史 "wikilink") [Category:本庄市の歴史](https://ja.wikipedia.org/wiki/Category:本庄市の歴史 "wikilink") [Category:1990年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:1990年設立のスポーツチーム "wikilink") [Category:1999年廃止のスポーツチーム](https://ja.wikipedia.org/wiki/Category:1999年廃止のスポーツチーム "wikilink")

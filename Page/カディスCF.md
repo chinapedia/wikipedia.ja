@@ -5,7 +5,7 @@
 
 ## 歴史
 
-1910年創立の歴史あるクラブである。1950年代半ばから20年以上[セグンダ・ディビシオン](../Page/セグンダ・ディビシオン.md "wikilink")（2部）でプレーし、1977-78シーズンに初めて[プリメーラ・ディビシオン](https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン "wikilink")（1部）に昇格したが、わずか1シーズンでセグンダ・ディビシオンに舞い戻った。2度目のプリメーラ・ディビシオン参戦となった1981-82シーズンも1シーズン限りの挑戦に終わったが、1980年代半ばから1990年代前半にはプリメーラ・ディビシオンに定着した。
+1910年創立の歴史あるクラブである。1950年代半ばから20年以上[セグンダ・ディビシオン](../Page/セグンダ・ディビシオン.md "wikilink")（2部）でプレーし、1977-78シーズンに初めて[プリメーラ・ディビシオン](../Page/プリメーラ・ディビシオン.md "wikilink")（1部）に昇格したが、わずか1シーズンでセグンダ・ディビシオンに舞い戻った。2度目のプリメーラ・ディビシオン参戦となった1981-82シーズンも1シーズン限りの挑戦に終わったが、1980年代半ばから1990年代前半にはプリメーラ・ディビシオンに定着した。
 
 [エルサルバドル代表のレジェンドである](../Page/サッカーエルサルバドル代表.md "wikilink")[マヒコ・ゴンサレス](../Page/マヒコ・ゴンサレス.md "wikilink")はこの時期にカディスCFでプレーし、クラブ史上最高の選手と認識されている。
 
@@ -15,7 +15,7 @@
 
 2003年についにセグンダ・ディビシオン復帰を決め、2004-05シーズンには最終節に近隣の[ヘレスCD](../Page/ヘレスCD.md "wikilink")を破って優勝し、プリメーラ・ディビシオン昇格を決めた。
 
-2005-06シーズンは13年ぶりに[プリメーラ・ディビシオン](https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン "wikilink")（1部）へ参戦したが、19位でセグンダ・ディビシオンへ降格。2006年夏には元[スペイン代表の](https://ja.wikipedia.org/wiki/サッカースペイン代表 "wikilink")[オリ監督を招聘したが](https://ja.wikipedia.org/wiki/オリベリオ・ヘスス・アルバレス・ゴンサレス "wikilink")、わずか数ヶ月率いただけで解任された。
+2005-06シーズンは13年ぶりに[プリメーラ・ディビシオン](../Page/プリメーラ・ディビシオン.md "wikilink")（1部）へ参戦したが、19位でセグンダ・ディビシオンへ降格。2006年夏には元[スペイン代表の](https://ja.wikipedia.org/wiki/サッカースペイン代表 "wikilink")[オリ監督を招聘したが](https://ja.wikipedia.org/wiki/オリベリオ・ヘスス・アルバレス・ゴンサレス "wikilink")、わずか数ヶ月率いただけで解任された。
 
 2007-08シーズンにはセグンダ・ディビシオンで最下位となり、[セグンダ・ディビシオンB](../Page/セグンダ・ディビシオンB.md "wikilink")（3部）へ降格となった。2008-09シーズンはグループ4を首位で終え、さらにプレーオフを勝ち抜いてセグンダ・ディビシオン復帰を決めた。
 
@@ -320,7 +320,7 @@
 </tr>
 <tr class="odd">
 <td><p>1977/78</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>18位</p></td>
 <td></td>
 </tr>
@@ -363,7 +363,7 @@
 </tr>
 <tr class="even">
 <td><p>1981/82</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>16位</p></td>
 <td></td>
 </tr>
@@ -375,7 +375,7 @@
 </tr>
 <tr class="even">
 <td><p>1983/84</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>16位</p></td>
 <td></td>
 </tr>
@@ -387,49 +387,49 @@
 </tr>
 <tr class="even">
 <td><p>1985/86</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>15位</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1986/87</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>18位</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1987/88</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>12位</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1988/89</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>15位</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1989/90</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>15位</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1990/91</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>18位</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1991/92</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>18位</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1992/93</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>19位</p></td>
 <td></td>
 </tr>
@@ -519,7 +519,7 @@
 </tr>
 <tr class="even">
 <td><p>2005/06</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>19位</p></td>
 <td><p>ベスト8</p></td>
 </tr>
@@ -615,7 +615,7 @@
 
 -----
 
-  - **12**シーズン - [プリメーラ・ディビシオン](https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン "wikilink")
+  - **12**シーズン - [プリメーラ・ディビシオン](../Page/プリメーラ・ディビシオン.md "wikilink")
   - **41**シーズン - [セグンダ・ディビシオン](../Page/セグンダ・ディビシオン.md "wikilink")
   - **16**シーズン - [セグンダ・ディビシオンB](../Page/セグンダ・ディビシオンB.md "wikilink")
   - **12** シーズン - [テルセーラ・ディビシオン](../Page/テルセーラ・ディビシオン.md "wikilink")

@@ -63,7 +63,7 @@
 <!-- end list -->
 
   -
-    声 - [滝沢博子](https://ja.wikipedia.org/wiki/滝沢ロコ "wikilink")
+    声 - [滝沢博子](../Page/滝沢ロコ.md "wikilink")
 
 <!-- end list -->
 

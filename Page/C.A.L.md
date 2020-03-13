@@ -7,11 +7,11 @@
 
 ## 概要
 
-[1966年](../Page/1966年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")に、大手[広告代理店](../Page/広告代理店.md "wikilink")[電通](../Page/電通.md "wikilink")のラジオテレビ局長だった梅垣哲郎が中心となって設立した。初代の社長には[東宝](../Page/東宝.md "wikilink")の監督だった[青柳信雄](../Page/青柳信雄.md "wikilink")、重役に[黒澤明](../Page/黒澤明.md "wikilink")の映画のシナリオを担当した[橋本忍](https://ja.wikipedia.org/wiki/橋本忍 "wikilink")、[菊島隆三](https://ja.wikipedia.org/wiki/菊島隆三 "wikilink")、[小国英雄](https://ja.wikipedia.org/wiki/小国英雄 "wikilink")、井手雅人といった映画界の大御所を迎えた他、企画の原田庸之輔ら電通の出身者も多く参加した。
+[1966年](../Page/1966年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")に、大手[広告代理店](../Page/広告代理店.md "wikilink")[電通](../Page/電通.md "wikilink")のラジオテレビ局長だった梅垣哲郎が中心となって設立した。初代の社長には[東宝](../Page/東宝.md "wikilink")の監督だった[青柳信雄](../Page/青柳信雄.md "wikilink")、重役に[黒澤明](../Page/黒澤明.md "wikilink")の映画のシナリオを担当した[橋本忍](../Page/橋本忍.md "wikilink")、[菊島隆三](https://ja.wikipedia.org/wiki/菊島隆三 "wikilink")、[小国英雄](https://ja.wikipedia.org/wiki/小国英雄 "wikilink")、井手雅人といった映画界の大御所を迎えた他、企画の原田庸之輔ら電通の出身者も多く参加した。
 
 時代劇制作を得意としてきたが、近年は[2時間ドラマ](../Page/2時間ドラマ.md "wikilink")も制作しており、映画にも進出している。
 
-タレントを起用したロケーションものの情報バラエティ番組も手がけ、[BSデジタル](https://ja.wikipedia.org/wiki/BSデジタル "wikilink")や[ローカル局](https://ja.wikipedia.org/wiki/ローカル局 "wikilink")向けに年間10数本制作している。
+タレントを起用したロケーションものの情報バラエティ番組も手がけ、[BSデジタル](https://ja.wikipedia.org/wiki/BSデジタル "wikilink")や[ローカル局](../Page/ローカル局.md "wikilink")向けに年間10数本制作している。
 
 ## 現役員
 
@@ -20,7 +20,7 @@
 
 ## 歴代社長
 
-  - [1966年](../Page/1966年.md "wikilink")8月 - [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")：[青柳信雄](../Page/青柳信雄.md "wikilink")
+  - [1966年](../Page/1966年.md "wikilink")8月 - [1970年](../Page/1970年.md "wikilink")：[青柳信雄](../Page/青柳信雄.md "wikilink")
   - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink") - 浅野英雄\[1\]
   - [1996年](../Page/1996年.md "wikilink")9月 - [2006年](../Page/2006年.md "wikilink")6月：[加地隆雄](https://ja.wikipedia.org/wiki/加地隆雄 "wikilink")
   - [2006年](../Page/2006年.md "wikilink")6月 - 2011年6月：中尾幸男
@@ -70,7 +70,7 @@
   - short cut（WOWOW）
   - [パーフェクト・ブルー](https://ja.wikipedia.org/wiki/パーフェクト・ブルー#2012年版 "wikilink")（TBS）
   - [大岡越前→大岡越前2→大岡越前3→大岡越前スペシャル](https://ja.wikipedia.org/wiki/大岡越前_\(2013年のテレビドラマ\) "wikilink")（[NHK BSプレミアム](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")）
-  - [ぼんくら](https://ja.wikipedia.org/wiki/ぼんくら "wikilink")（NHK総合テレビ）
+  - [ぼんくら](../Page/ぼんくら.md "wikilink")（NHK総合テレビ）
   - [水戸黄門](https://ja.wikipedia.org/wiki/水戸黄門_\(BS-TBS版\) "wikilink")（[BS-TBS](../Page/BS-TBS.md "wikilink")）
   - [やじ×きた 元祖・東海道中膝栗毛](https://ja.wikipedia.org/wiki/やじ×きた_元祖・東海道中膝栗毛 "wikilink")（[BSテレ東](../Page/BSテレビ東京.md "wikilink"))
 

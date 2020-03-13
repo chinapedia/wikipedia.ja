@@ -11,7 +11,7 @@
 
 なお、奥田政夫・[橋本祥路](../Page/橋本祥路.md "wikilink")編曲は歌詞がパート別に分かれるところはないが、富澤裕編曲（特に大きな違いは、転調前のサビはソプラノではなくアルトが主旋律）では分かれる。また、富澤裕編曲版のみ転調後の歌詞が異なり、橋本祥路・奥田政夫編曲のものより小節数が多くなっている。
 
-[2006年](../Page/2006年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink")、[井上あずみ](https://ja.wikipedia.org/wiki/井上あずみ "wikilink")がカバーし、[ロックチッパーレコード](https://ja.wikipedia.org/wiki/ロックチッパーレコード "wikilink")からシングルCDとして発売された。
+[2006年](../Page/2006年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink")、[井上あずみ](../Page/井上あずみ.md "wikilink")がカバーし、[ロックチッパーレコード](https://ja.wikipedia.org/wiki/ロックチッパーレコード "wikilink")からシングルCDとして発売された。
 
 [ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")所属のアイドルグループ、[V6がカバーしたものが出演する](../Page/V6_\(グループ\).md "wikilink")『[学校へ行こう\!MAX](../Page/学校へ行こう!MAX.md "wikilink")』のエンディングテーマとして使用され、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月17日](../Page/9月17日.md "wikilink")発売のシングル『[LIGHT IN YOUR HEART/Swing\!](https://ja.wikipedia.org/wiki/LIGHT_IN_YOUR_HEART/Swing! "wikilink")』の通常盤に収録された。
 

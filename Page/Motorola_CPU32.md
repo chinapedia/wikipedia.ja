@@ -1,11 +1,11 @@
 > この記事は[Motorola CPU32](https://ja.wikipedia.org/wiki/Motorola_CPU32)から翻訳されています。
 
 
-**Motorola CPU32**(**683xx**)は、[フリースケール・セミコンダクタ](https://ja.wikipedia.org/wiki/フリースケール・セミコンダクタ "wikilink")によって製造された[68000ベースの](../Page/MC68000.md "wikilink")[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink")コアを使った[マイクロコントローラ](https://ja.wikipedia.org/wiki/マイクロコントローラ "wikilink")の製品群である。
+**Motorola CPU32**(**683xx**)は、[フリースケール・セミコンダクタ](../Page/フリースケール・セミコンダクタ.md "wikilink")によって製造された[68000ベースの](../Page/MC68000.md "wikilink")[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink")コアを使った[マイクロコントローラ](../Page/マイクロコントローラ.md "wikilink")の製品群である。
 
 ## 特徴
 
-[命令セット](https://ja.wikipedia.org/wiki/命令セット "wikilink")は[68020から](../Page/MC68020.md "wikilink")[ビットフィールド](https://ja.wikipedia.org/wiki/ビットフィールド "wikilink")命令を削除し、テーブル参照更新命令や低電力停止モードなどいくつかの命令を追加したものである。このファミリは[ハードウェア記述言語](../Page/ハードウェア記述言語.md "wikilink")を使い[コンピュータ](../Page/コンピュータ.md "wikilink")上で[コンパイルして設計された](../Page/コンパイラ.md "wikilink")。これにより、回路を追加しやすくなり、最新の製造工程にもマッチし、[ダイ](../Page/ダイ.md "wikilink")サイズも小さくなった。
+[命令セット](../Page/命令セット.md "wikilink")は[68020から](../Page/MC68020.md "wikilink")[ビットフィールド](https://ja.wikipedia.org/wiki/ビットフィールド "wikilink")命令を削除し、テーブル参照更新命令や低電力停止モードなどいくつかの命令を追加したものである。このファミリは[ハードウェア記述言語](../Page/ハードウェア記述言語.md "wikilink")を使い[コンピュータ](../Page/コンピュータ.md "wikilink")上で[コンパイルして設計された](../Page/コンパイラ.md "wikilink")。これにより、回路を追加しやすくなり、最新の製造工程にもマッチし、[ダイ](../Page/ダイ.md "wikilink")サイズも小さくなった。
 
 マイクロコントローラのモジュール群は個別に設計され、新しい[CPU](../Page/CPU.md "wikilink")のテストに使われた。この方式をとることにより設計者はデザイン優先で進めることができ、後に半導体技術が進歩したときに[モトローラ](../Page/モトローラ.md "wikilink")はそれらをワンチップに搭載して市場に出すことができた。これらのサブモジュールの設計は[Coldfire](https://ja.wikipedia.org/wiki/Coldfire "wikilink")の系統に生かされている。
 

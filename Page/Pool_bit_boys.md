@@ -7,7 +7,7 @@
 
 [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列の[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")』の企画「男性ヴォーカリストオーディション」から誕生。[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")の[浅倉大介](../Page/浅倉大介.md "wikilink")のもと、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")12月3日にシングル「SPIRAL」にて[avex tuneより](https://ja.wikipedia.org/wiki/avex_tune "wikilink")[メジャー・デビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。当時の所属事務所は[スタッツ](https://ja.wikipedia.org/wiki/スタッツ "wikilink")。その後[DRIVE MUSICへ移籍した](https://ja.wikipedia.org/wiki/DRIVE_MUSIC "wikilink")。
 
-[2001年](../Page/2001年.md "wikilink")[12月31日](../Page/12月31日.md "wikilink")解散。ボーカリストの伊藤欣司は[タイで](../Page/タイ王国.md "wikilink")[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")まで音楽活動を行っていたが、現在は[ニューヨーク](../Page/ニューヨーク.md "wikilink")へ活動拠点を移している。ギタリストのDANは[2006年](../Page/2006年.md "wikilink")から[ハワイアン](../Page/ハワイ州.md "wikilink")[フォークシンガーとして音楽活動を継続している](https://ja.wikipedia.org/wiki/日本のフォークシンガー "wikilink")。
+[2001年](../Page/2001年.md "wikilink")[12月31日](../Page/12月31日.md "wikilink")解散。ボーカリストの伊藤欣司は[タイで](../Page/タイ王国.md "wikilink")[2005年](../Page/2005年.md "wikilink")まで音楽活動を行っていたが、現在は[ニューヨーク](../Page/ニューヨーク.md "wikilink")へ活動拠点を移している。ギタリストのDANは[2006年](../Page/2006年.md "wikilink")から[ハワイアン](../Page/ハワイ州.md "wikilink")[フォークシンガーとして音楽活動を継続している](https://ja.wikipedia.org/wiki/日本のフォークシンガー "wikilink")。
 
 ## メンバー
 

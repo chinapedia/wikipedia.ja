@@ -1,7 +1,7 @@
 > この記事は[CHiYO](https://ja.wikipedia.org/wiki/CHiYO)から翻訳されています。
 
 
-**千誉**（CHiYO、ちよ、[1991年](../Page/1991年.md "wikilink")[9月8日](https://ja.wikipedia.org/wiki/9月8日 "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元[歌手](../Page/歌手.md "wikilink")。
+**千誉**（CHiYO、ちよ、[1991年](../Page/1991年.md "wikilink")[9月8日](../Page/9月8日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元[歌手](../Page/歌手.md "wikilink")。
 
 [つばさレコーズ](https://ja.wikipedia.org/wiki/つばさレコーズ "wikilink")、[ダブルウィング](https://ja.wikipedia.org/wiki/ダブルウィング "wikilink")所属。[福岡県](../Page/福岡県.md "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")在住。 2008年4月上京。
 
@@ -18,9 +18,9 @@
   - [1996年](../Page/1996年.md "wikilink") - 音楽教室に通い始める。
   - [2004年](../Page/2004年.md "wikilink")
       - [2月18日](../Page/2月18日.md "wikilink") -1st pre Single 『卒業〜坂道〜』でCDデビュー、限定発売。現役中学生歌手として注目を集める。
-      - [8月11日](../Page/8月11日.md "wikilink") - 2nd pre Single 『ファーストデート』を限定発売。[オリコン総合チャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")46位。これをもって、『CHIYO』から『CHiYO』に改名。
+      - [8月11日](../Page/8月11日.md "wikilink") - 2nd pre Single 『ファーストデート』を限定発売。[オリコン総合チャート](../Page/オリコンチャート.md "wikilink")46位。これをもって、『CHIYO』から『CHiYO』に改名。
       - [12月22日](../Page/12月22日.md "wikilink") - 3rd pre Single 『song for you 〜もしも叶うなら〜』発売。オリコン総合チャート57位
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
       - [5月12日](../Page/5月12日.md "wikilink") - ファーストワンマンライブ『CHiYO's green♪』。
       - [5月25日](../Page/5月25日.md "wikilink") - JOCOSOの「ホムピー」と呼ばれる日記形式のWebページを開設。2006年9月29日休止。
       - [6月1日](../Page/6月1日.md "wikilink") - 最終 pre single 『アリス道』発売。[CX系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[めちゃ²イケてるッ\!](../Page/めちゃ×2イケてるッ!.md "wikilink")」エンディング・テーマ。オリコン総合チャート100位
@@ -84,7 +84,7 @@
       - 6月 『[飾りじゃないのよ涙は](../Page/飾りじゃないのよ涙は.md "wikilink")』
       - 7月 『彼女とTIP ON DUO』
       - 8月 『[北ウイング](../Page/北ウイング.md "wikilink")』
-      - 9月 『[風のLONELY WAY](https://ja.wikipedia.org/wiki/杉山清貴 "wikilink")』
+      - 9月 『[風のLONELY WAY](../Page/杉山清貴.md "wikilink")』
       - 10月 『[CAT'S EYE](../Page/CAT'S_EYE_\(杏里の曲\).md "wikilink")』
       - 11月 『[あゝ無情](../Page/アン・ルイス.md "wikilink")』
       - 12月 『[Rock'n Rouge](../Page/Rock'n_Rouge.md "wikilink")』
@@ -122,7 +122,7 @@
       - 南日本放送（土）21:00〜
       - 東北放送（土）20:00〜
   - CHiYOのハッピーウィング([ふくしまFM](../Page/エフエム福島.md "wikilink")「MUSIC LAGER」内・毎週金曜20:00〜20:55、2005年[3月4日](../Page/3月4日.md "wikilink")から)【終了】
-  - CHiYOのちょっとブレイク([FREE WAVE](https://ja.wikipedia.org/wiki/天神エフエム "wikilink")・毎週日曜日12:30〜12:45、2005年[1月8日](../Page/1月8日.md "wikilink")から)【終了】
+  - CHiYOのちょっとブレイク([FREE WAVE](../Page/天神エフエム.md "wikilink")・毎週日曜日12:30〜12:45、2005年[1月8日](../Page/1月8日.md "wikilink")から)【終了】
   - CHiYOのちよっと元気が出るラジオ([九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")・毎週日曜日20:00〜20:15、2005年[4月3日](../Page/4月3日.md "wikilink")〜2008年[3月30日](../Page/3月30日.md "wikilink"))【終了】
   - CHiYOのきいたもん勝ち\!([アール・エフ・ラジオ日本](../Page/アール・エフ・ラジオ日本.md "wikilink")・毎週土曜日24:00〜24:30、[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")・毎週日曜日21:30〜22:00、2006年7〜9月)【終了】
 

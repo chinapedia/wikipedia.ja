@@ -5,7 +5,7 @@
 
 ## 概要
 
-[レシプロ戦闘機の](https://ja.wikipedia.org/wiki/レシプロエンジン "wikilink")[Yak-3にドイツで開発された](../Page/Yak-3_\(航空機\).md "wikilink")[ユモ004](https://ja.wikipedia.org/wiki/ユンカース_ユモ_004 "wikilink") (Jumo-004)[ジェットエンジン](../Page/ジェットエンジン.md "wikilink")のコピーであるRD-10()ジェットエンジンを組み込んで開発された。政治的な理由により、初飛行は[MiG-9の初飛行まで認められなかった](https://ja.wikipedia.org/wiki/MiG-9_\(航空機\) "wikilink")。Yak-15は旧来どおりの尾輪式の機体であったが、すぐに前輪式の[Yak-17が開発され量産に移された](../Page/Yak-17_\(航空機\).md "wikilink")。
+[レシプロ戦闘機の](https://ja.wikipedia.org/wiki/レシプロエンジン "wikilink")[Yak-3にドイツで開発された](../Page/Yak-3_\(航空機\).md "wikilink")[ユモ004](https://ja.wikipedia.org/wiki/ユンカース_ユモ_004 "wikilink") (Jumo-004)[ジェットエンジン](../Page/ジェットエンジン.md "wikilink")のコピーであるRD-10()ジェットエンジンを組み込んで開発された。政治的な理由により、初飛行は[MiG-9の初飛行まで認められなかった](../Page/MiG-9_\(航空機\).md "wikilink")。Yak-15は旧来どおりの尾輪式の機体であったが、すぐに前輪式の[Yak-17が開発され量産に移された](../Page/Yak-17_\(航空機\).md "wikilink")。
 
 ## スペック
 
@@ -36,9 +36,9 @@
 
 国内対抗機
 
-  - [La-15](https://ja.wikipedia.org/wiki/La-15_\(航空機\) "wikilink")
-  - [MiG-9](https://ja.wikipedia.org/wiki/MiG-9_\(航空機\) "wikilink")
-  - [MiG-15](https://ja.wikipedia.org/wiki/MiG-15_\(航空機\) "wikilink")
+  - [La-15](../Page/La-15_\(航空機\).md "wikilink")
+  - [MiG-9](../Page/MiG-9_\(航空機\).md "wikilink")
+  - [MiG-15](../Page/MiG-15_\(航空機\).md "wikilink")
   - [Su-9](https://ja.wikipedia.org/wiki/Su-9_\(航空機・初代\) "wikilink")
 
 ## 外部リンク

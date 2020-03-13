@@ -9,7 +9,7 @@
 
 先行シングルとしてリリースされた「[Come on Let's Dance (This is the FANKS DYNA-MIX)](../Page/Come_on_Let's_Dance_\(This_is_the_FANKS_DYNA-MIX\).md "wikilink")」を収録している他、後に[リカット](../Page/リカット.md "wikilink")シングルとして「[GIRL](../Page/GIRL_\(TM_NETWORKの曲\).md "wikilink")」がリリースされた。
 
-[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")では最高位12位となった。
+[オリコンチャート](../Page/オリコンチャート.md "wikilink")では最高位12位となった。
 
 ## 背景
 
@@ -39,7 +39,7 @@
 
 [FANKS](../Page/FANKS.md "wikilink")には“**Powerful and Tenderness**”という別のキーワードが本作品に提示されている。これは[ゴリラ](../Page/ゴリラ.md "wikilink")は力強さと優しさを持ち合わせているという意味から「**GORILLA**」と命名されたが、このタイトルは小室でなくプロデューサーの[小坂洋二](../Page/小坂洋二.md "wikilink")が命名したとされる（当初は力強い男性というイメージから「**Tarzan**」というタイトルも考えられていたが、同名の雑誌が存在するために取りやめになった、という経緯もある）。ここでいう**Powerful**とは「**[Come on Let's Dance](../Page/Come_on_Let's_Dance_\(This_is_the_FANKS_DYNA-MIX\).md "wikilink")**」や「**You can Dance**」のようなファンキーな曲、**Tenderness**は「**Confession**」や「**[GIRL](../Page/GIRL_\(TM_NETWORKの曲\).md "wikilink")**」のようなバラードを表している。
 
-2曲目「NERVOUS」の[リフ](https://ja.wikipedia.org/wiki/リフ "wikilink")は[レッド・ツェッペリン](../Page/レッド・ツェッペリン.md "wikilink")の影響で製作された\[12\]。 3曲目「PASSENGER 〜a train named Big City〜」は洋楽を意識して製作されており、あえてBメロを無くしいきなりサビに移る構成にした\[13\]。4曲目「Confession〜告白〜」のアレンジは[大村雅朗](../Page/大村雅朗.md "wikilink")からの影響が大きいと小室は語り、大村と小室は[ポリスの](../Page/ポリス_\(バンド\).md "wikilink")「見つめていたい」（[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")）の影響を受けているという\[14\]。5曲目の「You can Dance」は[エルトン・ジョン](../Page/エルトン・ジョン.md "wikilink")のアルバム『[黄昏のレンガ路](../Page/黄昏のレンガ路.md "wikilink")』（[1973年](../Page/1973年.md "wikilink")）に収録された「土曜の夜は僕の生きがい」からの影響で、[ロックンロール](../Page/ロックンロール.md "wikilink")を目指して製作された。7曲目の「Come on Let's Dance」のイントロは小室の実家に遊びに来る際に階段を数段飛び越しながら上がってくる様をヒントに製作された\[15\]。8曲目「GIRL」はスタッフの坂西伊作の自宅で製作され、坂西の持つ洋画コレクションから製作されたビデオを音声を消して見ながら製作されたという\[16\]。9曲目「雨に誓って〜SAINT RAIN〜」は[ナイル・ロジャース](../Page/ナイル・ロジャース.md "wikilink")や[デヴィッド・ボウイ](https://ja.wikipedia.org/wiki/デヴィッド・ボウイ "wikilink")の「[レッツ・ダンス](https://ja.wikipedia.org/wiki/レッツ・ダンス_\(曲\) "wikilink")」（[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")）などの[ブラックミュージック](../Page/ブラックミュージック.md "wikilink")と白人の音楽が混在しているサウンドに影響されている\[17\]。10曲目「SAD EMOTION」は特にインスパイアされた対象はなく、独自で製作された音で構成されている\[18\]。
+2曲目「NERVOUS」の[リフ](../Page/リフ.md "wikilink")は[レッド・ツェッペリン](../Page/レッド・ツェッペリン.md "wikilink")の影響で製作された\[12\]。 3曲目「PASSENGER 〜a train named Big City〜」は洋楽を意識して製作されており、あえてBメロを無くしいきなりサビに移る構成にした\[13\]。4曲目「Confession〜告白〜」のアレンジは[大村雅朗](../Page/大村雅朗.md "wikilink")からの影響が大きいと小室は語り、大村と小室は[ポリスの](../Page/ポリス_\(バンド\).md "wikilink")「見つめていたい」（[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")）の影響を受けているという\[14\]。5曲目の「You can Dance」は[エルトン・ジョン](../Page/エルトン・ジョン.md "wikilink")のアルバム『[黄昏のレンガ路](../Page/黄昏のレンガ路.md "wikilink")』（[1973年](../Page/1973年.md "wikilink")）に収録された「土曜の夜は僕の生きがい」からの影響で、[ロックンロール](../Page/ロックンロール.md "wikilink")を目指して製作された。7曲目の「Come on Let's Dance」のイントロは小室の実家に遊びに来る際に階段を数段飛び越しながら上がってくる様をヒントに製作された\[15\]。8曲目「GIRL」はスタッフの坂西伊作の自宅で製作され、坂西の持つ洋画コレクションから製作されたビデオを音声を消して見ながら製作されたという\[16\]。9曲目「雨に誓って〜SAINT RAIN〜」は[ナイル・ロジャース](../Page/ナイル・ロジャース.md "wikilink")や[デヴィッド・ボウイ](https://ja.wikipedia.org/wiki/デヴィッド・ボウイ "wikilink")の「[レッツ・ダンス](https://ja.wikipedia.org/wiki/レッツ・ダンス_\(曲\) "wikilink")」（[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")）などの[ブラックミュージック](../Page/ブラックミュージック.md "wikilink")と白人の音楽が混在しているサウンドに影響されている\[17\]。10曲目「SAD EMOTION」は特にインスパイアされた対象はなく、独自で製作された音で構成されている\[18\]。
 
 ## リリース
 
@@ -73,7 +73,7 @@
 
 ## チャート成績
 
-[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")ではLP盤が最高位15位、登場回数7回、売り上げ枚数2.4万枚、CT版は最高位29位、登場回数7回、売り上げ枚数は0.4万枚、CD盤は最高位12位、登場回数8回、売り上げ枚数は0.8万枚となり、売り上げ枚数は累計で4.2万枚となった。
+[オリコンチャート](../Page/オリコンチャート.md "wikilink")ではLP盤が最高位15位、登場回数7回、売り上げ枚数2.4万枚、CT版は最高位29位、登場回数7回、売り上げ枚数は0.4万枚、CD盤は最高位12位、登場回数8回、売り上げ枚数は0.8万枚となり、売り上げ枚数は累計で4.2万枚となった。
 
 ## 収録曲
 
@@ -88,7 +88,7 @@
 3.  **PASSENGER〜a train named Big City〜**
 4.  **Confession〜告白〜**
       -
-        木根が[デイヴィッド・フォスター](https://ja.wikipedia.org/wiki/デイヴィッド・フォスター "wikilink")に影響されて作り、ギターの弾き方は[ジェイ・グレイドン](../Page/ジェイ・グレイドン.md "wikilink")を意識した\[26\]。
+        木根が[デイヴィッド・フォスター](../Page/デイヴィッド・フォスター.md "wikilink")に影響されて作り、ギターの弾き方は[ジェイ・グレイドン](../Page/ジェイ・グレイドン.md "wikilink")を意識した\[26\]。
 5.  **You can Dance**
       -
         6thシングル「Come on Let's Dance (This is the FANKS DYNA-MIX)」のカップリング曲。

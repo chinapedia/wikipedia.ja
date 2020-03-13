@@ -1,9 +1,9 @@
 > この記事は[DEPAPEPE](https://ja.wikipedia.org/wiki/DEPAPEPE)から翻訳されています。
 
 
-**DEPAPEPE**（デパペペ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の2人組[インストゥルメンタルユニット](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")。[ソニー・ミュージックエンタテインメント所属](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")。
+**DEPAPEPE**（デパペペ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の2人組[インストゥルメンタルユニット](../Page/器楽曲.md "wikilink")。[ソニー・ミュージックエンタテインメント所属](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")。
 
-[2002年](../Page/2002年.md "wikilink")にユニットを結成、[路上ライブ](../Page/路上ライブ.md "wikilink")を中心に[インディーズ](../Page/インディーズ.md "wikilink")ではアルバム3枚をリリースし、計10万枚を売り上げる。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")にアルバム『Let's Go\!\!\!』でメジャーデビュー、インストゥルメンタルのアーティストのデビュー曲としては日本音楽史上初の[オリコンベスト](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")10にランクインした。「インストミュージックをポピュラーに！」を目標に活動している
+[2002年](../Page/2002年.md "wikilink")にユニットを結成、[路上ライブ](../Page/路上ライブ.md "wikilink")を中心に[インディーズ](../Page/インディーズ.md "wikilink")ではアルバム3枚をリリースし、計10万枚を売り上げる。[2005年](../Page/2005年.md "wikilink")にアルバム『Let's Go\!\!\!』でメジャーデビュー、インストゥルメンタルのアーティストのデビュー曲としては日本音楽史上初の[オリコンベスト](../Page/オリコンチャート.md "wikilink")10にランクインした。「インストミュージックをポピュラーに！」を目標に活動している
 
 名前の由来は三浦が出っ歯である事と、徳岡が以前組んでいたバンド「デルペペ」の名前をもじったところから。
 
@@ -42,7 +42,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/7月20日.md" title="wikilink">7月20日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/7月20日.md" title="wikilink">7月20日</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -105,7 +105,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/5月18日.md" title="wikilink">5月18日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/5月18日.md" title="wikilink">5月18日</a></p></td>
 <td><p>{{big|'''[[Let's_Go</p></td>
 </tr>
 <tr class="even">
@@ -184,7 +184,7 @@
 </tr>
 <tr class="even">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/10月19日.md" title="wikilink">10月19日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/10月19日.md" title="wikilink">10月19日</a></p></td>
 <td><p>{{big|'''Hi! Mode</p></td>
 </tr>
 </tbody>
@@ -280,12 +280,12 @@
 
 ### ギタースコア
 
-|     | 発売日                                                                                                              | タイトル                       |
-| --- | ---------------------------------------------------------------------------------------------------------------- | -------------------------- |
-| 1st | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink") | '''Let's Go                |
-| 2nd | [2006年](../Page/2006年.md "wikilink")[5月13日](../Page/5月13日.md "wikilink")                                         | '''SUMMER PARADE／Hi\! Mode |
-| 3rd | 2006年[12月6日](../Page/12月6日.md "wikilink")                                                                        | '''Ciao\! Bravo            |
-| 4th | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月9日](../Page/5月9日.md "wikilink")                        | **HOP\! SKIP\! JUMP\!**    |
+|     | 発売日                                                                                           | タイトル                       |
+| --- | --------------------------------------------------------------------------------------------- | -------------------------- |
+| 1st | [2005年](../Page/2005年.md "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink") | '''Let's Go                |
+| 2nd | [2006年](../Page/2006年.md "wikilink")[5月13日](../Page/5月13日.md "wikilink")                      | '''SUMMER PARADE／Hi\! Mode |
+| 3rd | 2006年[12月6日](../Page/12月6日.md "wikilink")                                                     | '''Ciao\! Bravo            |
+| 4th | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月9日](../Page/5月9日.md "wikilink")     | **HOP\! SKIP\! JUMP\!**    |
 
 ### リミックス
 
@@ -301,13 +301,13 @@
 | [2006年](../Page/2006年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")                    | Welcome to Dongmakgol                                                                | [久石譲](../Page/久石譲.md "wikilink")「Asian X.T.C.」                                                                                                 |
 | 2006年[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")                                                 | Long Train Running                                                                   | JとB「GIFT」                                                                                                                                      |
 | 2006年[11月29日](../Page/11月29日.md "wikilink")                                                                    | MY LIFE                                                                              | Various Artists「[WANNA BE THE PIANO MAN](https://ja.wikipedia.org/wiki/WANNA_BE_THE_PIANO_MAN "wikilink")」                                     |
-| [2007年](../Page/2007年.md "wikilink")[9月19日](../Page/9月19日.md "wikilink")                                       | My Way                                                                               | [風味堂](https://ja.wikipedia.org/wiki/風味堂 "wikilink")「[風味堂3](../Page/風味堂3.md "wikilink")」                                                        |
+| [2007年](../Page/2007年.md "wikilink")[9月19日](../Page/9月19日.md "wikilink")                                       | My Way                                                                               | [風味堂](../Page/風味堂.md "wikilink")「[風味堂3](../Page/風味堂3.md "wikilink")」                                                                           |
 | 2007年[10月24日](../Page/10月24日.md "wikilink")                                                                    | [サウンド・オブ・ミュージック](https://ja.wikipedia.org/wiki/サウンド・オブ・ミュージック_\(奥田民生の曲\) "wikilink") | Various Artists「[奥田民生・カバーズ](../Page/奥田民生・カバーズ.md "wikilink")」                                                                                  |
 | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink") | birdie／presents [木村カエラ](https://ja.wikipedia.org/wiki/木村カエラ "wikilink") & DEPAPEPE   | 山沢大洋 presents「music tree」                                                                                                                      |
-| 2008年[2月27日](../Page/2月27日.md "wikilink")                                                                      | 音遊技 〜四段〜 with DEPAPEPE                                                               | [SOFFet](https://ja.wikipedia.org/wiki/SOFFet "wikilink")「[NEW STANDARD](https://ja.wikipedia.org/wiki/NEW_STANDARD_\(アルバム\) "wikilink")」      |
+| 2008年[2月27日](../Page/2月27日.md "wikilink")                                                                      | 音遊技 〜四段〜 with DEPAPEPE                                                               | [SOFFet](../Page/SOFFet.md "wikilink")「[NEW STANDARD](https://ja.wikipedia.org/wiki/NEW_STANDARD_\(アルバム\) "wikilink")」                         |
 | [2009年](../Page/2009年.md "wikilink")[12月9日](../Page/12月9日.md "wikilink")                                       | [翔べ\! ガンダム](https://ja.wikipedia.org/wiki/翔べ!_ガンダム "wikilink")                       | Various Artists「GUNDAM UNPLUGGED 〜アコギ de ガンダム A.C. 2009〜」                                                                                      |
 | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[2月17日](../Page/2月17日.md "wikilink")                    | ハルコイ                                                                                 | [杉本有美](https://ja.wikipedia.org/wiki/杉本有美 "wikilink")「ハルコイ」                                                                                    |
-| [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[9月22日](../Page/9月22日.md "wikilink")                    | お別れですか?                                                                              | [ユンナ](https://ja.wikipedia.org/wiki/ユンナ "wikilink")「ひとつ空の下」                                                                                    |
+| [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[9月22日](../Page/9月22日.md "wikilink")                    | お別れですか?                                                                              | [ユンナ](../Page/ユンナ.md "wikilink")「ひとつ空の下」                                                                                                       |
 | 2010年[10月20日](../Page/10月20日.md "wikilink")                                                                    | やさしさに包まれたなら                                                                          | [坂本真綾](https://ja.wikipedia.org/wiki/坂本真綾 "wikilink")「[DOWN TOWN/やさしさに包まれたなら](https://ja.wikipedia.org/wiki/DOWN_TOWN/やさしさに包まれたなら "wikilink")」 |
 | [2015年](../Page/2015年.md "wikilink")[1月14日](../Page/1月14日.md "wikilink")                                       | Tonight's The Night Co. DEPAPEPE                                                     | [AZU](../Page/AZU.md "wikilink")「Co.Lab」                                                                                                       |
 | 2016年6月22日                                                                                                     | Over The Sea                                                                         | Various Artists「HONEY meets ISLAND CAFE Sea Of Love」                                                                                           |
@@ -343,8 +343,8 @@
 | 哀愁バイオレット                                                                                                                                                                                                | [第一製薬](../Page/第一製薬.md "wikilink")「リジュエージュ Q10 クリーム」CMソング                                                                                                                     |
 | 夕焼けサイクリング                                                                                                                                                                                               | [マーベラスエンターテイメント](https://ja.wikipedia.org/wiki/マーベラスエンターテイメント "wikilink")「[牧場物語 コロボックルステーション](../Page/牧場物語_コロボックルステーション.md "wikilink")」CMソング                                  |
 | [NHK総合](../Page/NHK総合テレビジョン.md "wikilink")『[ゆうどきネットワーク](https://ja.wikipedia.org/wiki/ゆうどきネットワーク "wikilink")』「列島津々うらうら」コーナーテーマ曲                                                                         |                                                                                                                                                                               |
-| [NHK-FM](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink")（北海道地方のみ）『フレッシュサウンド北海道』テーマ曲                                                                                                                  |                                                                                                                                                                               |
-| Harvest                                                                                                                                                                                                 | NHK総合『[生中継 ふるさと一番\!](https://ja.wikipedia.org/wiki/生中継_ふるさと一番! "wikilink")』テーマ曲                                                                                               |
+| [NHK-FM](../Page/NHK-FM放送.md "wikilink")（北海道地方のみ）『フレッシュサウンド北海道』テーマ曲                                                                                                                                     |                                                                                                                                                                               |
+| Harvest                                                                                                                                                                                                 | NHK総合『[生中継 ふるさと一番\!](../Page/生中継_ふるさと一番!.md "wikilink")』テーマ曲                                                                                                                  |
 | [ニッポン放送](../Page/ニッポン放送.md "wikilink")『ミュージックファーム』テーマ曲                                                                                                                                                  |                                                                                                                                                                               |
 | シュプール                                                                                                                                                                                                   | [JR四国CMソング](../Page/四国旅客鉄道.md "wikilink")                                                                                                                                     |
 | Morning Smile                                                                                                                                                                                           | [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『\[\[ズームイン                                                                                                                            |
@@ -407,31 +407,31 @@
 
 ## ミュージックビデオ
 
-| 公開日        | 監督                                                      | 曲名                                                                                | 備考                                                                                                                             |
-| ---------- | ------------------------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| 2004       | [武哲也](https://ja.wikipedia.org/wiki/武哲也 "wikilink")     | [激情メランコリック](https://www.youtube.com/watch?v=dOwyVn8Xqro)                          |                                                                                                                                |
-| 2004       | 武哲也                                                     | [Snow Dance](https://www.youtube.com/watch?v=7W91I53ItQs)                         |                                                                                                                                |
-| 2005       |                                                         | [START](https://www.youtube.com/watch?v=O9JWWHTNmgM)                              |                                                                                                                                |
-| 2005       | [竹内鉄郎](../Page/竹内鉄郎.md "wikilink")                      | [SUMMER PARADE](https://www.youtube.com/watch?v=ZH5Qn8STwuk)                      |                                                                                                                                |
-| 2005       |                                                         | [シュプール -WINTER VERSION '05-](https://www.youtube.com/watch?v=ckw8dh-DUFA)         |                                                                                                                                |
-| 2005       | [野田智雄](https://ja.wikipedia.org/wiki/野田智雄 "wikilink")   | [哀愁バイオレット](https://www.youtube.com/watch?v=mOaMy3G5dNo)                           |                                                                                                                                |
-| 2005       |                                                         | MTMM                                                                              |                                                                                                                                |
-| 2006       | [宅野祐介](https://ja.wikipedia.org/wiki/宅野祐介 "wikilink")   | [ラハイナ](https://www.youtube.com/watch?v=DaEhUBJgDxE)                               |                                                                                                                                |
-| 2006       |                                                         | [Night＆Day](https://www.youtube.com/watch?v=I950FcTHEGY)                          |                                                                                                                                |
-| 2006       |                                                         | ブラボー･マーチ                                                                          |                                                                                                                                |
-| 2007       | [TAGO](https://ja.wikipedia.org/wiki/TAGO "wikilink")   | [桜風](https://www.youtube.com/watch?v=e_7Hlz7jMDk)                                 | 出演:[内藤惟人](https://ja.wikipedia.org/wiki/内藤惟人 "wikilink")・[岡西里奈](../Page/岡西里奈.md "wikilink")・[水沢奈子](../Page/水沢奈子.md "wikilink") |
-| 2007       | [平澤一成](https://ja.wikipedia.org/wiki/平澤一成 "wikilink")   | [パッヘルベルのカノン](https://www.youtube.com/watch?v=guQZI3ScvTM)                         |                                                                                                                                |
-| 2007       | [大野早葉子](https://ja.wikipedia.org/wiki/大野早葉子 "wikilink") | Sky\!Sky\!Sky\! '07 Ver.                                                          |                                                                                                                                |
-| 2008       |                                                         | [シュプール (295音 Ver.)](https://www.youtube.com/watch?v=aryRD75TiJ8)                  |                                                                                                                                |
-| 2008       | [井上卓](https://ja.wikipedia.org/wiki/井上卓 "wikilink")     | Ready\! GO                                                                        |                                                                                                                                |
-| 2009       |                                                         | [KATANA staging Diggy-MO'](https://www.youtube.com/watch?v=5JRFfU9CSCM)           |                                                                                                                                |
-| 2011       |                                                         | [ONE](https://www.youtube.com/watch?v=a3Rwc0JXkls)                                |                                                                                                                                |
-| 2013       | [藤村忠寿](https://ja.wikipedia.org/wiki/藤村忠寿 "wikilink")   | [紫陽花](https://www.youtube.com/watch?v=SGNgUQ-1iqA)                                |                                                                                                                                |
-| 2014/07/01 |                                                         | [Kiss (short ver.)](https://www.youtube.com/watch?v=tgd1TnP0k8c)                  |                                                                                                                                |
-| 2015/04/08 |                                                         | [Charge\&Go. (short ver.)](https://www.youtube.com/watch?v=q_yyMqdiXJ8)           |                                                                                                                                |
-| 2017/05/23 |                                                         | [Color](https://www.youtube.com/watch?v=53265DRkD-U)                              |                                                                                                                                |
-| 2019/09/30 |                                                         | [Love Letter feat.三浦一馬 (short ver.)](https://www.youtube.com/watch?v=RMqgkHcoDi4) |                                                                                                                                |
-|            |                                                         |                                                                                   |                                                                                                                                |
+| 公開日        | 監督                                                      | 曲名                                                                                | 備考                                                                                                          |
+| ---------- | ------------------------------------------------------- | --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| 2004       | [武哲也](https://ja.wikipedia.org/wiki/武哲也 "wikilink")     | [激情メランコリック](https://www.youtube.com/watch?v=dOwyVn8Xqro)                          |                                                                                                             |
+| 2004       | 武哲也                                                     | [Snow Dance](https://www.youtube.com/watch?v=7W91I53ItQs)                         |                                                                                                             |
+| 2005       |                                                         | [START](https://www.youtube.com/watch?v=O9JWWHTNmgM)                              |                                                                                                             |
+| 2005       | [竹内鉄郎](../Page/竹内鉄郎.md "wikilink")                      | [SUMMER PARADE](https://www.youtube.com/watch?v=ZH5Qn8STwuk)                      |                                                                                                             |
+| 2005       |                                                         | [シュプール -WINTER VERSION '05-](https://www.youtube.com/watch?v=ckw8dh-DUFA)         |                                                                                                             |
+| 2005       | [野田智雄](https://ja.wikipedia.org/wiki/野田智雄 "wikilink")   | [哀愁バイオレット](https://www.youtube.com/watch?v=mOaMy3G5dNo)                           |                                                                                                             |
+| 2005       |                                                         | MTMM                                                                              |                                                                                                             |
+| 2006       | [宅野祐介](https://ja.wikipedia.org/wiki/宅野祐介 "wikilink")   | [ラハイナ](https://www.youtube.com/watch?v=DaEhUBJgDxE)                               |                                                                                                             |
+| 2006       |                                                         | [Night＆Day](https://www.youtube.com/watch?v=I950FcTHEGY)                          |                                                                                                             |
+| 2006       |                                                         | ブラボー･マーチ                                                                          |                                                                                                             |
+| 2007       | [TAGO](https://ja.wikipedia.org/wiki/TAGO "wikilink")   | [桜風](https://www.youtube.com/watch?v=e_7Hlz7jMDk)                                 | 出演:[内藤惟人](../Page/内藤惟人.md "wikilink")・[岡西里奈](../Page/岡西里奈.md "wikilink")・[水沢奈子](../Page/水沢奈子.md "wikilink") |
+| 2007       | [平澤一成](https://ja.wikipedia.org/wiki/平澤一成 "wikilink")   | [パッヘルベルのカノン](https://www.youtube.com/watch?v=guQZI3ScvTM)                         |                                                                                                             |
+| 2007       | [大野早葉子](https://ja.wikipedia.org/wiki/大野早葉子 "wikilink") | Sky\!Sky\!Sky\! '07 Ver.                                                          |                                                                                                             |
+| 2008       |                                                         | [シュプール (295音 Ver.)](https://www.youtube.com/watch?v=aryRD75TiJ8)                  |                                                                                                             |
+| 2008       | [井上卓](https://ja.wikipedia.org/wiki/井上卓 "wikilink")     | Ready\! GO                                                                        |                                                                                                             |
+| 2009       |                                                         | [KATANA staging Diggy-MO'](https://www.youtube.com/watch?v=5JRFfU9CSCM)           |                                                                                                             |
+| 2011       |                                                         | [ONE](https://www.youtube.com/watch?v=a3Rwc0JXkls)                                |                                                                                                             |
+| 2013       | [藤村忠寿](../Page/藤村忠寿.md "wikilink")                      | [紫陽花](https://www.youtube.com/watch?v=SGNgUQ-1iqA)                                |                                                                                                             |
+| 2014/07/01 |                                                         | [Kiss (short ver.)](https://www.youtube.com/watch?v=tgd1TnP0k8c)                  |                                                                                                             |
+| 2015/04/08 |                                                         | [Charge\&Go. (short ver.)](https://www.youtube.com/watch?v=q_yyMqdiXJ8)           |                                                                                                             |
+| 2017/05/23 |                                                         | [Color](https://www.youtube.com/watch?v=53265DRkD-U)                              |                                                                                                             |
+| 2019/09/30 |                                                         | [Love Letter feat.三浦一馬 (short ver.)](https://www.youtube.com/watch?v=RMqgkHcoDi4) |                                                                                                             |
+|            |                                                         |                                                                                   |                                                                                                             |
 
 ## レギュラー出演
 
@@ -514,7 +514,7 @@
   - 2006年08月13日 - Exciting Summer in WAJIKI '06
   - 2006年08月27日 - [MONSTER baSH](../Page/MONSTER_baSH.md "wikilink") 2006
   - 2006年09月03日 - TREASURE052 2006
-  - 2006年11月22日 - [相愛大学](https://ja.wikipedia.org/wiki/相愛大学 "wikilink") 祭旋風
+  - 2006年11月22日 - [相愛大学](../Page/相愛大学.md "wikilink") 祭旋風
   - 2007年01月01日 - [COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 06/07
   - 2007年07月16日 - [ap bank fes](https://ja.wikipedia.org/wiki/ap_bank_fes "wikilink") '07
   - 2007年07月22日 - SETSTOCK'07
@@ -581,7 +581,7 @@
   - 2017年12月09日 - 夢チカLIVE クリスマスSP
   - 2018年03月17日 - Daiwa Sakura Aidスペシャルライブ DEPAPEPE with ジュスカ・グランペール
   - 2018年03月25日 - [ISEKI](https://ja.wikipedia.org/wiki/ISEKI_\(ミュージシャン\) "wikilink") LIVE 2018 COFFEE & SOUL～深煎り編～
-  - 2018年04月15日 - [トアロード・アコースティック・フェスティバル](https://ja.wikipedia.org/wiki/トアロード・アコースティック・フェスティバル "wikilink")2018
+  - 2018年04月15日 - [トアロード・アコースティック・フェスティバル](../Page/トアロード・アコースティック・フェスティバル.md "wikilink")2018
   - 2018年04月27日 - [→Pia-no-jaC←](https://ja.wikipedia.org/wiki/→Pia-no-jaC← "wikilink")デビュー10周年 対バンライブ企画「組曲『 』」
   - 2018年08月02日・3日・7日 - [カサリンチュ](https://ja.wikipedia.org/wiki/カサリンチュ "wikilink")対バンツアー「ハブアナイスデイ2018」
   - 2018年08月28日 - OTODAMA SEA STUDIO 2018「BEACH SOUNDS GOOD 2018」
@@ -627,5 +627,5 @@
 
 1.  [PROFILE | アルカラ Official Web Site](http://arukara.net/profile.html)
 2.  [アルカラのワンマンで笑い泣き - ROCKIN'ON JAPAN 編集部日記](https://rockinon.com/blog/japan/59895)
-3.  [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月30日](../Page/11月30日.md "wikilink")～[12月22日](../Page/12月22日.md "wikilink")までの期間限定版
+3.  [2005年](../Page/2005年.md "wikilink")[11月30日](../Page/11月30日.md "wikilink")～[12月22日](../Page/12月22日.md "wikilink")までの期間限定版
 4.  「**DEPAPEPE meets [ハチミツとクローバー](https://ja.wikipedia.org/wiki/ハチミツとクローバー#アニメ "wikilink")**」名義でのリリース

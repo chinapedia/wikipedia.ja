@@ -9,7 +9,7 @@ Mighty Mouseの名称は、アップルが米国のTV局CBS（カートゥーン
 
 [Macintosh](../Page/Macintosh.md "wikilink")の発売以降、アップルは一貫して「多機能さよりも明快さを最優先する製品」であることの象徴として1ボタンマウスにこだわっていたが、1ボタンマウスでは年々[ユーザインタフェース](../Page/ユーザインタフェース.md "wikilink")が複雑化している[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink") (OS) や[アプリケーションソフトウェア](../Page/アプリケーションソフトウェア.md "wikilink")に対応するには限界が見えていた。
 
-[Mac OS 8ではControlキーを押しながらクリックすることでコンテクストメニューを呼び出す機能が追加され](../Page/Classic_Mac_OS.md "wikilink")、[Mac OS X以降は](https://ja.wikipedia.org/wiki/macOS "wikilink")2ボタンとホイール機能を持つ他社製マウスを標準でサポートしていたことなどから、アップルによる2ボタンマウスの開発はかねてより噂されており、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[8月2日](../Page/8月2日.md "wikilink")のMighty Mouse発表に至った。 また、[2006年](../Page/2006年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")には[レーザー](../Page/レーザー.md "wikilink")トラッキングエンジンを採用し、Bluetoothによってワイヤレスで使用できる**Wireless Mighty Mouse**も発売された。
+[Mac OS 8ではControlキーを押しながらクリックすることでコンテクストメニューを呼び出す機能が追加され](../Page/Classic_Mac_OS.md "wikilink")、[Mac OS X以降は](https://ja.wikipedia.org/wiki/macOS "wikilink")2ボタンとホイール機能を持つ他社製マウスを標準でサポートしていたことなどから、アップルによる2ボタンマウスの開発はかねてより噂されており、[2005年](../Page/2005年.md "wikilink")[8月2日](../Page/8月2日.md "wikilink")のMighty Mouse発表に至った。 また、[2006年](../Page/2006年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")には[レーザー](../Page/レーザー.md "wikilink")トラッキングエンジンを採用し、Bluetoothによってワイヤレスで使用できる**Wireless Mighty Mouse**も発売された。
 
 2007年8月7日に各モデルが（MA272J/AとMA086J/Aから）MB111J/AとMB112J/Aへマイナーモデルチェンジ。サイドのクリックボタンがグレーから本体と同色に変わった他、Mac OS X v10.4.8以降の対応となった。
 

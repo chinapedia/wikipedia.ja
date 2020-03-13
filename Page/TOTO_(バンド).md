@@ -9,7 +9,7 @@
 
 [Toto2_Oct82.JPG](https://ja.wikipedia.org/wiki/File:Toto2_Oct82.JPG "fig:Toto2_Oct82.JPG") [1976年](../Page/1976年.md "wikilink")に[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")で[スタジオミュージシャン](https://ja.wikipedia.org/wiki/スタジオミュージシャン "wikilink")をしていた[デヴィッド・ペイチ](https://ja.wikipedia.org/wiki/デヴィッド・ペイチ "wikilink")と[ジェフ・ポーカロ](../Page/ジェフ・ポーカロ.md "wikilink") を中心に発足。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月の[ボズ・スキャッグス](../Page/ボズ・スキャッグス.md "wikilink")との[来日](https://ja.wikipedia.org/wiki/来日 "wikilink")公演を最後に活動を無期限に休止すると宣言し、公式[ウェブサイト](../Page/ウェブサイト.md "wikilink")で[7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink")に正式に解散を発表。その後[ALSを患った](../Page/筋萎縮性側索硬化症.md "wikilink")[マイク・ポーカロ](https://ja.wikipedia.org/wiki/マイク・ポーカロ "wikilink")の救済目的で、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")7月に[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")各地で期間限定としてツアーを行った。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月の[ボズ・スキャッグス](../Page/ボズ・スキャッグス.md "wikilink")との[来日](https://ja.wikipedia.org/wiki/来日 "wikilink")公演を最後に活動を無期限に休止すると宣言し、公式[ウェブサイト](../Page/ウェブサイト.md "wikilink")で[7月23日](../Page/7月23日.md "wikilink")に正式に解散を発表。その後[ALSを患った](../Page/筋萎縮性側索硬化症.md "wikilink")[マイク・ポーカロ](https://ja.wikipedia.org/wiki/マイク・ポーカロ "wikilink")の救済目的で、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")7月に[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")各地で期間限定としてツアーを行った。
 
 翌[2011年](../Page/2011年.md "wikilink")9月には日本でもツアーが実現し\[2\]、以降は多くの来日公演を重ねた\[3\]。[2015年](../Page/2015年.md "wikilink")には9年ぶりのオリジナル・アルバムを発売するなど\[4\]、事実上恒久的な活動を再開している。
 
@@ -31,7 +31,7 @@
 
 ## 音楽的特徴
 
-一般的には、典型的な[AOR](../Page/AOR.md "wikilink")サウンド\[8\]と評されている。また、商業的な成功と聴きやすいサウンドを有していることから、[ジャーニーなどとともに](https://ja.wikipedia.org/wiki/ジャーニー_\(バンド\) "wikilink")[産業ロック](https://ja.wikipedia.org/wiki/産業ロック "wikilink")と形容されることがある。実際に、そういった趣が色濃い曲も数多く、それゆえヒット曲が多かった。アルバム全体では[ハードロック](../Page/ハードロック.md "wikilink")から[プログレッシブ・ロック](../Page/プログレッシブ・ロック.md "wikilink")、[ジャズ・フュージョン](https://ja.wikipedia.org/wiki/ジャズ・フュージョン "wikilink")といった、多くのジャンルの曲を録音している。ロック評論家、渋谷陽一は、松任谷正隆がデビュー当時のTOTOについて「こういうサウンドを出したい」と発言したことを紹介している。
+一般的には、典型的な[AOR](../Page/AOR.md "wikilink")サウンド\[8\]と評されている。また、商業的な成功と聴きやすいサウンドを有していることから、[ジャーニーなどとともに](../Page/ジャーニー_\(バンド\).md "wikilink")[産業ロック](https://ja.wikipedia.org/wiki/産業ロック "wikilink")と形容されることがある。実際に、そういった趣が色濃い曲も数多く、それゆえヒット曲が多かった。アルバム全体では[ハードロック](../Page/ハードロック.md "wikilink")から[プログレッシブ・ロック](../Page/プログレッシブ・ロック.md "wikilink")、[ジャズ・フュージョン](https://ja.wikipedia.org/wiki/ジャズ・フュージョン "wikilink")といった、多くのジャンルの曲を録音している。ロック評論家、渋谷陽一は、松任谷正隆がデビュー当時のTOTOについて「こういうサウンドを出したい」と発言したことを紹介している。
 
 専任の[ボーカリスト](https://ja.wikipedia.org/wiki/ボーカリスト "wikilink")がいるにも関わらず、[ギタリスト](../Page/ギタリスト.md "wikilink")のスティーヴ・ルカサーや[キーボーディスト](../Page/キーボーディスト.md "wikilink")のデヴィッド・ペイチが[リード・ボーカル](https://ja.wikipedia.org/wiki/リード・ボーカル "wikilink")をとることが多い。実際、TOTO最大のヒット曲「[Africa](https://ja.wikipedia.org/wiki/アフリカ_\(TOTOの曲\) "wikilink")」\[9\]はペイチのボーカルである。また、[スティーヴ・ポーカロ](../Page/スティーヴ・ポーカロ.md "wikilink")も、リード・ボーカルをとる曲が存在し、2005年加入のグレッグ・フィンリンゲインズも、キーボーディスト兼リード・ボーカルとしての加入で、『フォーリング・イン・ビトゥイーン』では、彼のリード・ボーカル曲も多くフィーチャーされ、ステージでは、休止中のペイチのボーカル曲を代行した。
 
@@ -116,7 +116,7 @@
 
 <!-- end list -->
 
-  - [デヴィッド・ハンゲイト](https://ja.wikipedia.org/wiki/デヴィッド・ハンゲイト "wikilink")（David Hungate、 [1948年](../Page/1948年.md "wikilink")[8月5日](../Page/8月5日.md "wikilink") - ） - ベース
+  - [デヴィッド・ハンゲイト](../Page/デヴィッド・ハンゲイト.md "wikilink")（David Hungate、 [1948年](../Page/1948年.md "wikilink")[8月5日](../Page/8月5日.md "wikilink") - ） - ベース
 
 <!-- end list -->
 
@@ -153,7 +153,7 @@
 <!-- end list -->
 
   -
-    [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")より加入。[マイケル・ジャクソン](https://ja.wikipedia.org/wiki/マイケル・ジャクソン "wikilink")や[エリック・クラプトン](../Page/エリック・クラプトン.md "wikilink")などのツアー・メンバーとしても活動していた。2004年よりジョン・ジョッセルの後任サポート・メンバーとしてツアーに参加していたが、その力量を買ったペイチの誘いで正式加入し、解散まで籍を置いた。正メンバーとしては交代ではなく、追加である。再結成にはオリジナル・メンバーのスティーヴ・ポーカロが復帰したため不参加。レコーディング参加は[2006年](../Page/2006年.md "wikilink")1月の『フォーリング・イン・ビトゥイーン』からだが、次回作を作ることなく解散したため、この作品が唯一の参加アルバムとなった。コーラスなどのバッキング・ボーカルは長い間様々なアーティストのバックで経験しているが、リード・ボーカルはTOTOに加入してから初めての挑戦となる。中低音域からボビーやジョセフの音域にも迫るハイトーンまで、非常に広い音域を繰り高評価を得ている。また、それまでのTOTOのボーカリストにないタイプであるため、バンドに新しい血を導入することにも成功している。当時ツアー活動を休止していたペイチのヴォーカル曲や、彼の演奏パートもステージ上で代行していた。TOTO初の[アフリカ系アメリカ人](../Page/アフリカ系アメリカ人.md "wikilink")（外国人メンバーも含めればジャン=ミシェル・バイロンに次ぐ2人目のアフリカ系メンバー)。
+    [2005年](../Page/2005年.md "wikilink")より加入。[マイケル・ジャクソン](https://ja.wikipedia.org/wiki/マイケル・ジャクソン "wikilink")や[エリック・クラプトン](../Page/エリック・クラプトン.md "wikilink")などのツアー・メンバーとしても活動していた。2004年よりジョン・ジョッセルの後任サポート・メンバーとしてツアーに参加していたが、その力量を買ったペイチの誘いで正式加入し、解散まで籍を置いた。正メンバーとしては交代ではなく、追加である。再結成にはオリジナル・メンバーのスティーヴ・ポーカロが復帰したため不参加。レコーディング参加は[2006年](../Page/2006年.md "wikilink")1月の『フォーリング・イン・ビトゥイーン』からだが、次回作を作ることなく解散したため、この作品が唯一の参加アルバムとなった。コーラスなどのバッキング・ボーカルは長い間様々なアーティストのバックで経験しているが、リード・ボーカルはTOTOに加入してから初めての挑戦となる。中低音域からボビーやジョセフの音域にも迫るハイトーンまで、非常に広い音域を繰り高評価を得ている。また、それまでのTOTOのボーカリストにないタイプであるため、バンドに新しい血を導入することにも成功している。当時ツアー活動を休止していたペイチのヴォーカル曲や、彼の演奏パートもステージ上で代行していた。TOTO初の[アフリカ系アメリカ人](../Page/アフリカ系アメリカ人.md "wikilink")（外国人メンバーも含めればジャン=ミシェル・バイロンに次ぐ2人目のアフリカ系メンバー)。
 
 <!-- end list -->
 
@@ -686,7 +686,7 @@ XIV Tour 2016</p></td>
   -
     5月7日 [倉敷市民会館](../Page/倉敷市民会館.md "wikilink")
     5月8日 [九電記念体育館](../Page/福岡市九電記念体育館.md "wikilink")
-    5月10日・11日 [大阪府立体育館](https://ja.wikipedia.org/wiki/大阪府立体育会館 "wikilink")
+    5月10日・11日 [大阪府立体育館](../Page/大阪府立体育会館.md "wikilink")
     5月13日 [京都府立体育館](https://ja.wikipedia.org/wiki/京都府立体育館 "wikilink")
     5月15日 貞宝カントリークラブ
     5月17日・18日・21日 [日本武道館](../Page/日本武道館.md "wikilink")
@@ -788,7 +788,7 @@ XIV Tour 2016</p></td>
 <!-- end list -->
 
   -
-    4月14日 [盛岡市民文化ホール](https://ja.wikipedia.org/wiki/マリオス "wikilink")
+    4月14日 [盛岡市民文化ホール](../Page/マリオス.md "wikilink")
     4月15日 イズミティ21
     4月16日・17日・25日 [東京国際フォーラム](../Page/東京国際フォーラム.md "wikilink")
     4月19日 愛知厚生年金会館
@@ -804,13 +804,13 @@ XIV Tour 2016</p></td>
 
   -
     12月3日 パシフィコ横浜
-    12月4日 [Zepp Sendai](https://ja.wikipedia.org/wiki/Zepp "wikilink")
+    12月4日 [Zepp Sendai](../Page/Zepp.md "wikilink")
     12月5日 盛岡市民文化ホール
     12月7日 [月寒グリーンドーム](../Page/北海道立産業共進会場.md "wikilink")
     12月9日・10日・17日 東京国際フォーラム
     12月12日 名古屋市公会堂
     12月14日 大阪厚生年金会館
-    12月15日 [Zepp Fukuoka](https://ja.wikipedia.org/wiki/Zepp "wikilink")
+    12月15日 [Zepp Fukuoka](../Page/Zepp.md "wikilink")
 
 <!-- end list -->
 
@@ -919,7 +919,7 @@ XIV Tour 2016</p></td>
 ## 関連項目
 
   - [産業ロック](https://ja.wikipedia.org/wiki/産業ロック "wikilink")
-  - [フォリナー](https://ja.wikipedia.org/wiki/フォリナー "wikilink")
+  - [フォリナー](../Page/フォリナー.md "wikilink")
 
 ## 脚注
 

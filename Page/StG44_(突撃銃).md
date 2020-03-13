@@ -31,7 +31,7 @@ StG44は**Sturmgewehr 44**の略称である。この**Sturmgewehr**シュトゥ
 
 一方で[ソ連赤軍は](../Page/赤軍.md "wikilink")、大戦前から[自動小銃](../Page/自動小銃.md "wikilink")の研究に熱心であり、既に配備も行われていた。トカレフSVT-38および[トカレフSVT-40などの半自動小銃が相当数装備されており](../Page/トカレフM1940半自動小銃.md "wikilink")、これらの調達数は、ドイツ軍の主力小銃である[Kar98k](../Page/Kar98k.md "wikilink")を凌いでいた。ソ連軍が自動小銃を配備していることを知った前線の歩兵部隊からは、同様の自動小銃の配備を要求する声があがり、ドイツ軍も遅れながらも、[Gew41](../Page/ワルサーGew43半自動小銃.md "wikilink")（Gewehr41）などの半自動小銃の開発を急いでいた。
 
-新型の[自動火器](../Page/自動火器.md "wikilink")の研究は続けられたが、[7.92x57mmモーゼル弾](https://ja.wikipedia.org/wiki/7.92x57mmモーゼル弾 "wikilink")の反動は強力で、これを使用した[FG42などの自動小銃では](https://ja.wikipedia.org/wiki/ラインメタルFG42自動小銃 "wikilink")、銃の重量は常に過大となり、連発時の命中精度は低下した。この問題を解決するためには、より反動の低い新たな[弾丸](../Page/弾丸.md "wikilink")を使用することが必要だった。
+新型の[自動火器](../Page/自動火器.md "wikilink")の研究は続けられたが、[7.92x57mmモーゼル弾](https://ja.wikipedia.org/wiki/7.92x57mmモーゼル弾 "wikilink")の反動は強力で、これを使用した[FG42などの自動小銃では](../Page/ラインメタルFG42自動小銃.md "wikilink")、銃の重量は常に過大となり、連発時の命中精度は低下した。この問題を解決するためには、より反動の低い新たな[弾丸](../Page/弾丸.md "wikilink")を使用することが必要だった。
 
 第二次世界大戦勃発前から、[ドイツ陸軍兵器局では自軍の小銃の問題点を認めていた](../Page/陸軍兵器局.md "wikilink")。当時の主力小銃はKar98k小銃だったが、陸軍兵器局ではこの小銃が従来想定されたような状況では使用されず、[7.92x57mmモーゼル弾](https://ja.wikipedia.org/wiki/7.92x57mmモーゼル弾 "wikilink")の威力も無駄になっていると捉えていた\[3\]。また、Kar98kは[ボルトアクション式の小銃であり](../Page/ボルトアクション方式.md "wikilink")、[自動小銃](../Page/自動小銃.md "wikilink")には速射性能で劣っていた。その後、MP38および[MP40](../Page/MP40.md "wikilink")短機関銃によって速射性能の不足は補われたものの、この短機関銃は拳銃用の[9mmルガー弾を使用していた為](../Page/9x19mmパラベラム弾.md "wikilink")、威力と射程に問題があった。
 
@@ -49,7 +49,7 @@ StG44は**Sturmgewehr 44**の略称である。この**Sturmgewehr**シュトゥ
 
 [Bundesarchiv_Bild_146-1979-118-55,_Infanterist_mit_Sturmgewehr_44.jpg](https://ja.wikipedia.org/wiki/File:Bundesarchiv_Bild_146-1979-118-55,_Infanterist_mit_Sturmgewehr_44.jpg "fig:Bundesarchiv_Bild_146-1979-118-55,_Infanterist_mit_Sturmgewehr_44.jpg") ヒトラーによる命令の後も、[アルベルト・シュペーア](../Page/アルベルト・シュペーア.md "wikilink")軍需相は密かにMKbの開発を継続させた\[10\]\[11\]。
 
-武器開発計画を保護するため、従来の[モーゼル弾を使った新計画MKb](https://ja.wikipedia.org/wiki/7.92x57mmモーゼル弾 "wikilink")43(G)が[グストロフ財団により始められた](../Page/ヴィルヘルム・グストロフ.md "wikilink")。これを量産する意図はなかったが、ヒトラーが銃の開発状況について尋ねた時には、常にこの銃の[プロトタイプ](https://ja.wikipedia.org/wiki/プロトタイプ "wikilink")を見せるようにしていた。
+武器開発計画を保護するため、従来の[モーゼル弾を使った新計画MKb](https://ja.wikipedia.org/wiki/7.92x57mmモーゼル弾 "wikilink")43(G)が[グストロフ財団により始められた](../Page/ヴィルヘルム・グストロフ.md "wikilink")。これを量産する意図はなかったが、ヒトラーが銃の開発状況について尋ねた時には、常にこの銃の[プロトタイプ](../Page/プロトタイプ.md "wikilink")を見せるようにしていた。
 
 オープンボルト作動式のMKb42(H)からクローズドボルト作動式\[12\]のMP43に至る過程で名称はまずMP43/1となった。MP43とMP43/1の相違点はごく僅かだが、明白な違いとして確認できる。MP43/1の作動方式はクローズドボルトでMP43と同じ。[銃口](https://ja.wikipedia.org/wiki/銃口 "wikilink")部分はねじ込み式の[擲弾筒](https://ja.wikipedia.org/wiki/擲弾筒 "wikilink")（[グレネードランチャー](https://ja.wikipedia.org/wiki/グレネードランチャー "wikilink")）を取り付けるためのねじ切りが余分にしてあり（MKb42と同一）、バレルナットもMKb42と同一のものであった。[バレルは](https://ja.wikipedia.org/wiki/銃砲身 "wikilink")、MP43が銃口に向かって一段細く切削加工されているのに対して、MP43/1のバレルは同一径の筒状であった。フロントサイト基部の形状も大きく違っている。また、リアサイト基部にはZF41 [照準器](../Page/照準器.md "wikilink")を取り付けるレールがプレスされている。シリアルナンバー上ではa系とb系があり、a系のリアサイトには照準器取り付け用レールに照準器を固定するための切り欠きがあった。のちのMP43以降は[Kar98k](../Page/Kar98k.md "wikilink")用擲弾筒（グレネードランチャー）を流用するためにフロントサイト基部の形状が改められている。
 
@@ -75,7 +75,7 @@ krummer Lauf（クルマー ラウフ）または Krummlauf（クルムラウフ
 
 ### 後期のプロトタイプ
 
-[モーゼル](../Page/モーゼル.md "wikilink")は、[ローラー遅延式ブローバック方式を採用した](https://ja.wikipedia.org/wiki/ブローバック#ローラー遅延式 "wikilink")[StG45](https://ja.wikipedia.org/wiki/StG45 "wikilink")(M)の[プロトタイプ](https://ja.wikipedia.org/wiki/プロトタイプ "wikilink")を開発していた。これらは後に、[セトメ・ライフル](https://ja.wikipedia.org/wiki/セトメ・ライフル "wikilink")、[H\&K](../Page/ヘッケラー&コッホ.md "wikilink") [G3および](../Page/H&K_G3.md "wikilink")[MP5に引き継がれた](../Page/H&K_MP5.md "wikilink")。
+[モーゼル](../Page/モーゼル.md "wikilink")は、[ローラー遅延式ブローバック方式を採用した](https://ja.wikipedia.org/wiki/ブローバック#ローラー遅延式 "wikilink")[StG45](https://ja.wikipedia.org/wiki/StG45 "wikilink")(M)の[プロトタイプ](../Page/プロトタイプ.md "wikilink")を開発していた。これらは後に、[セトメ・ライフル](https://ja.wikipedia.org/wiki/セトメ・ライフル "wikilink")、[H\&K](../Page/ヘッケラー&コッホ.md "wikilink") [G3および](../Page/H&K_G3.md "wikilink")[MP5に引き継がれた](../Page/H&K_MP5.md "wikilink")。
 
 終戦の直前に、さらに安価に量産するための土壇場の努力がなされた。これは、[国民突撃銃](https://ja.wikipedia.org/wiki/国民突撃銃 "wikilink")（Volkssturmgewehr, VG）と呼ばれ、そのプロトタイプのうち、いくつかはガス・ブローバック方式を採用していた。
 

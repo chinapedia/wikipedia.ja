@@ -21,7 +21,7 @@
   - **バーニー・ペイジ**　（声：[冬馬由美](../Page/冬馬由美.md "wikilink")）
   - **アンジー・ペイジ**　（声：[天野由梨](../Page/天野由梨.md "wikilink") / [萩森侚子](../Page/萩森じゅん子.md "wikilink")）
   - **マリア・ウィンター**　（声：[弥生みつき](../Page/弥生みつき.md "wikilink")）
-  - **ミレイ・ギャレット**　（声：[引田有美](https://ja.wikipedia.org/wiki/引田有美 "wikilink")）
+  - **ミレイ・ギャレット**　（声：[引田有美](../Page/引田有美.md "wikilink")）
   - **フィリップ・エミット准将**　（声：[神谷明](../Page/神谷明.md "wikilink")）
   - **ギラン大佐**　（声：[渡部猛](../Page/渡部猛.md "wikilink") / [青野武](../Page/青野武.md "wikilink")）
   - **エミリー・ブラフォード**　（声：[皆口裕子](../Page/皆口裕子.md "wikilink")）
@@ -31,7 +31,7 @@
   - **ウエルド・ハンタス**　（声：[井上和彦](../Page/井上和彦_\(声優\).md "wikilink")）
   - **マーチン・ペイトン**　（声：[田中秀幸](../Page/田中秀幸_\(声優\).md "wikilink")）
   - **ケルク・バートン**　（声：[古川登志夫](../Page/古川登志夫.md "wikilink")）
-  - **ジャス・タミガン**　（声：[千葉繁](https://ja.wikipedia.org/wiki/千葉繁 "wikilink")）
+  - **ジャス・タミガン**　（声：[千葉繁](../Page/千葉繁.md "wikilink")）
   - **テブロス**　（声：[真地勇志](../Page/真地勇志.md "wikilink")）
   - **ラルフ・イハート**　（声：[塩屋翼](../Page/塩屋翼.md "wikilink")）
   - **リリー・ゴールドマン**　（声：[富沢美智恵](../Page/富沢美智恵.md "wikilink")）
@@ -58,12 +58,12 @@
 ## スタッフ
 
   - 企画 - 末吉博彦
-  - 原案 - 伊豆一彦、[水口幸広](https://ja.wikipedia.org/wiki/水口幸広 "wikilink")、[金巻兼一](../Page/金巻兼一.md "wikilink")
+  - 原案 - 伊豆一彦、[水口幸広](../Page/水口幸広.md "wikilink")、[金巻兼一](../Page/金巻兼一.md "wikilink")
   - 総監督 - [山内重保](../Page/山内重保.md "wikilink")
   - 脚本 - 荒木芳久
   - 絵コンテ - 山内重保、山田徹
   - 演出 - 山内重保、山田徹、今村隆寛
-  - キャラクターデザイン - 井上栄作、[荒木伸吾](../Page/荒木伸吾.md "wikilink")、[姫野美智](https://ja.wikipedia.org/wiki/姫野美智 "wikilink")
+  - キャラクターデザイン - 井上栄作、[荒木伸吾](../Page/荒木伸吾.md "wikilink")、[姫野美智](../Page/姫野美智.md "wikilink")
   - メカデザイン - [大倉雅彦](https://ja.wikipedia.org/wiki/大倉雅彦 "wikilink")
   - 作画監督 - [井上栄作](../Page/井上栄作.md "wikilink")、清山滋崇
   - 美術監督 - 坂本信人、松宮正純

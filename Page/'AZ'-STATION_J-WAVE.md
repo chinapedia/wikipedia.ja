@@ -22,7 +22,7 @@
 ### 平日
 
   - 5:00 スィート・モーニング・コール
-  - 7:00 [トキオ・トゥデイ](https://ja.wikipedia.org/wiki/TOKIO_TODAY "wikilink")
+  - 7:00 [トキオ・トゥデイ](../Page/TOKIO_TODAY.md "wikilink")
       - 7:45〜8:15トキオ・スペック
   - 9:00 サウンド・パティオ
       - 9:15〜9:45ノンストップ・パワープレイ
@@ -44,14 +44,14 @@
   - 20:50 AZ WAVE
   - 21:05 イン・フライト・ミュージック
   - 21:35 AZ WAVE
-  - 21:55 [パズ・アンド・ジョップス](https://ja.wikipedia.org/wiki/PAZZ&JOPS "wikilink")
+  - 21:55 [パズ・アンド・ジョップス](../Page/PAZZ&JOPS.md "wikilink")
   - 22:55 AZ WAVE
   - 23:15 ワールド・ヘッドライン
   - 23:45 AZ WAVE
   - 0:00 クラッシー・ウェーブ・フロム・トキオ
   - 0:50 AZ WAVE
   - 1:00 トキオ・ホット・ウェーブ
-  - 3:00 [スティル・ライフ](https://ja.wikipedia.org/wiki/Still_Life_\(ラジオ番組\) "wikilink")
+  - 3:00 [スティル・ライフ](../Page/Still_Life_\(ラジオ番組\).md "wikilink")
 
 ### 土曜日
 
@@ -71,7 +71,7 @@
 
   - 5:30 ハイパー・モーニング
   - 7:00 ディズニー・ファンタジー
-  - 13:00 [トキオ・ホット100](https://ja.wikipedia.org/wiki/TOKIO_HOT_100 "wikilink")
+  - 13:00 [トキオ・ホット100](../Page/TOKIO_HOT_100.md "wikilink")
   - 1:00 J-WAVEトライアル
 
 ## 関連項目

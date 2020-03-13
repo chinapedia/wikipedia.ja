@@ -71,7 +71,7 @@
   - [栗林みえ](https://ja.wikipedia.org/wiki/栗林みえ "wikilink")
   - [黒沢あすか](https://ja.wikipedia.org/wiki/黒沢あすか "wikilink")
   - [小松千春](../Page/小松千春.md "wikilink")
-  - [斉藤のぞみ](https://ja.wikipedia.org/wiki/斉藤のぞみ "wikilink")
+  - [斉藤のぞみ](../Page/斉藤のぞみ.md "wikilink")
   - [幸さえこ](https://ja.wikipedia.org/wiki/幸さえこ "wikilink")
   - [篠原涼子](https://ja.wikipedia.org/wiki/篠原涼子 "wikilink")
   - [島田秋奈](https://ja.wikipedia.org/wiki/島田秋奈 "wikilink")
@@ -84,7 +84,7 @@
   - [辺見えみり](../Page/辺見えみり.md "wikilink")
   - [真樹麗子](https://ja.wikipedia.org/wiki/真樹麗子 "wikilink")
   - [宮崎つぐみ](https://ja.wikipedia.org/wiki/宮崎つぐみ "wikilink")
-  - [村田あゆみ](https://ja.wikipedia.org/wiki/村田あゆみ "wikilink")
+  - [村田あゆみ](../Page/村田あゆみ.md "wikilink")
   - [吉田真希子](https://ja.wikipedia.org/wiki/吉田真希子 "wikilink")
   - ほか
 
@@ -133,7 +133,7 @@
 ### 季節に関係なく行われたもの
 
   - [アパート](../Page/アパート.md "wikilink")物件探し - 物件を探訪する企画は年に何回か行われていたが、新学期には必ず行われた。
-  - [中古車](https://ja.wikipedia.org/wiki/中古車 "wikilink")探し
+  - [中古車](../Page/中古車.md "wikilink")探し
   - [ドライブ](../Page/ドライブ.md "wikilink")
   - [サイクリング](../Page/サイクリング.md "wikilink")
   - [乗馬](../Page/乗馬.md "wikilink")
@@ -158,7 +158,7 @@
   - [占い](../Page/占い.md "wikilink")
   - [ペット](../Page/ペット.md "wikilink")との戯れ
   - [祭](../Page/祭.md "wikilink")りや地方イベントへの参加
-  - [商店街](../Page/商店街.md "wikilink")探訪、[ジュエリー専門店](../Page/装身具.md "wikilink")・[ブティック](https://ja.wikipedia.org/wiki/ブティック "wikilink")・[市場](../Page/市場.md "wikilink")・[浅草橋](../Page/浅草橋.md "wikilink")の玩具などを扱う[問屋街](https://ja.wikipedia.org/wiki/問屋街 "wikilink")での物色、[骨董品](../Page/骨董品.md "wikilink")の物色
+  - [商店街](../Page/商店街.md "wikilink")探訪、[ジュエリー専門店](../Page/装身具.md "wikilink")・[ブティック](https://ja.wikipedia.org/wiki/ブティック "wikilink")・[市場](../Page/市場.md "wikilink")・[浅草橋](../Page/浅草橋.md "wikilink")の玩具などを扱う[問屋街](../Page/問屋街.md "wikilink")での物色、[骨董品](../Page/骨董品.md "wikilink")の物色
 
 ### 特にシリーズ化していたもの
 

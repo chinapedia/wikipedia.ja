@@ -37,7 +37,7 @@
 ## 備考
 
   - 月刊音楽情報誌「[WHAT'S IN?](https://ja.wikipedia.org/wiki/WHAT'S_IN? "wikilink")」（ソニーマガジンズ発行）には誌上再録コーナーが毎号掲載されていた（1996年5月号 - 2006年5月号）。
-  - 2003年1月 - 3月は番組名を「ファイナルファンタジータクティクスアドバンスpresents RADIO MAGAZINE WHAT'S IN?」と改題し、番組内で[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")用[ゲームソフト](../Page/ゲームソフト.md "wikilink")「[ファイナルファンタジータクティクスアドバンス](https://ja.wikipedia.org/wiki/ファイナルファンタジータクティクスアドバンス "wikilink")」（スクウェア〔当時〕より2003年[2月14日](../Page/2月14日.md "wikilink")発売）の[ラジオドラマ](../Page/ラジオドラマ.md "wikilink")を放送していた。なお、このラジオドラマはCD化されている。
+  - 2003年1月 - 3月は番組名を「ファイナルファンタジータクティクスアドバンスpresents RADIO MAGAZINE WHAT'S IN?」と改題し、番組内で[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")用[ゲームソフト](../Page/ゲームソフト.md "wikilink")「[ファイナルファンタジータクティクスアドバンス](../Page/ファイナルファンタジータクティクスアドバンス.md "wikilink")」（スクウェア〔当時〕より2003年[2月14日](../Page/2月14日.md "wikilink")発売）の[ラジオドラマ](../Page/ラジオドラマ.md "wikilink")を放送していた。なお、このラジオドラマはCD化されている。
   - 2004年3月末でのせがわきりの番組降板理由は2001年4 - 6月の一時降板中に生まれた子供の教育に専念するためであり、それは番組降板から約1年経過した[2005年](../Page/2005年.md "wikilink")2月に「WE MADE IT\! ハワイ親子プチ留学 -お金? 夫の理解\!? 英語がダメ\! をのりこえて-」（VIENT刊）を上梓したことで明らかになった。
 
 [Category:TOKYO_FMの番組](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの番組 "wikilink") [Category:1996年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1996年のラジオ番組_\(日本\) "wikilink")

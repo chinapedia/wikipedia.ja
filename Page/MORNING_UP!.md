@@ -1,7 +1,7 @@
 > この記事は[MORNING UP!](https://ja.wikipedia.org/wiki/MORNING_UP!)から翻訳されています。
 
 
-**MORNING UP\!**（モーニング・アップ）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")から同年[9月30日](../Page/9月30日.md "wikilink")まで放送された[広島エフエム放送](../Page/広島エフエム放送.md "wikilink")の[金曜朝のワイド番組である](../Page/金曜日.md "wikilink")。前枠は「[WEEKEND FLY\! DAY](https://ja.wikipedia.org/wiki/WEEKEND_FLY!_DAY "wikilink")」。
+**MORNING UP\!**（モーニング・アップ）は、[2005年](../Page/2005年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から同年[9月30日](../Page/9月30日.md "wikilink")まで放送された[広島エフエム放送](../Page/広島エフエム放送.md "wikilink")の[金曜朝のワイド番組である](../Page/金曜日.md "wikilink")。前枠は「[WEEKEND FLY\! DAY](../Page/WEEKEND_FLY!_DAY.md "wikilink")」。
 
 ## 番組概要
 
@@ -10,7 +10,7 @@
 
 <!-- end list -->
 
-  - 2005年10月7日からは「[MORNING ALIVE](https://ja.wikipedia.org/wiki/MORNING_ALIVE "wikilink")」金曜日がスタート。パーソナリティは引き続き柴田が2008年3月まで担当。その後、貢藤十六・臼井美貴を経て、2015年10月より当番組初代パーソナリティの藤井が担当している。
+  - 2005年10月7日からは「[MORNING ALIVE](../Page/MORNING_ALIVE.md "wikilink")」金曜日がスタート。パーソナリティは引き続き柴田が2008年3月まで担当。その後、貢藤十六・臼井美貴を経て、2015年10月より当番組初代パーソナリティの藤井が担当している。
 
 <!-- end list -->
 
@@ -54,7 +54,7 @@
 <!-- end list -->
 
   -
-    週末に行われる映画、コンサート、エンターテイメント情報をまとめて紹介する（「[MORNING ALIVE](https://ja.wikipedia.org/wiki/MORNING_ALIVE "wikilink")」のWEEKEND ALIVEのコーナーの前身ともいえる）。
+    週末に行われる映画、コンサート、エンターテイメント情報をまとめて紹介する（「[MORNING ALIVE](../Page/MORNING_ALIVE.md "wikilink")」のWEEKEND ALIVEのコーナーの前身ともいえる）。
 
 <!-- end list -->
 
@@ -72,7 +72,7 @@
 <!-- end list -->
 
   -
-    朝の最新ニュースを伝える。GOOD MORNING NEWSは7:45の回だけで、当時月〜木曜日放送の「[GOOD MORNING](https://ja.wikipedia.org/wiki/GOOD_MORNING_\(広島エフエム放送\) "wikilink")」でも同名のコーナーがあった（BGMは異なる）。また、MORNING UP NEWSのBGM（藤井担当の時のもの）は、「[永松ケンシのHEART ROCK FRIDAY](https://ja.wikipedia.org/wiki/永松ケンシのHeart_rock_Friday "wikilink")」のヘッドラインニュースで使用されている。
+    朝の最新ニュースを伝える。GOOD MORNING NEWSは7:45の回だけで、当時月〜木曜日放送の「[GOOD MORNING](../Page/GOOD_MORNING_\(広島エフエム放送\).md "wikilink")」でも同名のコーナーがあった（BGMは異なる）。また、MORNING UP NEWSのBGM（藤井担当の時のもの）は、「[永松ケンシのHEART ROCK FRIDAY](https://ja.wikipedia.org/wiki/永松ケンシのHeart_rock_Friday "wikilink")」のヘッドラインニュースで使用されている。
 
 ## タイムテーブル
 
@@ -87,7 +87,7 @@
   - 8:30 MORNING UP NEWS
   - 8:40 HFMトラフィックインフォメーション　＜提供：[TOYOグループ](https://ja.wikipedia.org/wiki/TOYOグループ "wikilink")＞
   - 8:45 90'sトレンディドラマクイズ（出題編）
-  - 9:00 HFMトラフィックインフォメーション＆ウェザーリポート　＜提供：[にしき堂](https://ja.wikipedia.org/wiki/にしき堂 "wikilink")＞
+  - 9:00 HFMトラフィックインフォメーション＆ウェザーリポート　＜提供：[にしき堂](../Page/にしき堂.md "wikilink")＞
   - 9:07 MORNING UP NEWS
   - 9:10 90'sトレンディドラマクイズ（解答編）
   - 9:30 HFMトラフィックインフォメーション＆ウェザーリポート

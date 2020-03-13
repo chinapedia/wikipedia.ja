@@ -75,7 +75,7 @@ B'zデビュー10周年を記念して発売されたベスト・アルバム第
 12. **[MOTEL](../Page/MOTEL_\(B'zの曲\).md "wikilink")**　(4:23)
       -
         15thシングル。アルバム初収録。
-13. **[いつかのメリークリスマス](https://ja.wikipedia.org/wiki/いつかのメリークリスマス "wikilink")**　(5:38)
+13. **[いつかのメリークリスマス](../Page/いつかのメリークリスマス.md "wikilink")**　(5:38)
       -
         4thミニアルバム『[FRIENDS](../Page/FRIENDS_\(B'zのアルバム\).md "wikilink")』収録曲。
 14. **[RUN](../Page/RUN_\(アルバム\).md "wikilink") -1998 style-**　(5:49)
@@ -104,7 +104,7 @@ B'zデビュー10周年を記念して発売されたベスト・アルバム第
   - 3位：[ねがい](../Page/ねがい_\(B'zの曲\).md "wikilink")（16th Single）
   - 4位：[もう一度キスしたかった](../Page/もう一度キスしたかった.md "wikilink")（5th Album『[IN THE LIFE](../Page/IN_THE_LIFE.md "wikilink")』収録）
   - 5位：TIME（10th Single「[BLOWIN'](../Page/BLOWIN'.md "wikilink")」2nd beat）
-  - 6位：[いつかのメリークリスマス](https://ja.wikipedia.org/wiki/いつかのメリークリスマス "wikilink")（4th Mini Album『[FRIENDS](../Page/FRIENDS_\(B'zのアルバム\).md "wikilink")』収録）
+  - 6位：[いつかのメリークリスマス](../Page/いつかのメリークリスマス.md "wikilink")（4th Mini Album『[FRIENDS](../Page/FRIENDS_\(B'zのアルバム\).md "wikilink")』収録）
   - 7位：[Liar\! Liar\!](../Page/Liar!_Liar!.md "wikilink")（23rd Single）
   - 8位：Pleasure'91 〜人生の快楽〜（8th Single「[LADY NAVIGATION](../Page/LADY_NAVIGATION.md "wikilink")」2nd beat）
   - 9位：[MOTEL](../Page/MOTEL_\(B'zの曲\).md "wikilink")（15th Single）
@@ -141,7 +141,7 @@ B'zデビュー10周年を記念して発売されたベスト・アルバム第
   - 青山純：ドラム（\#6.8.12）
   - グレッグ・ビソネット：ドラム（\#11）
   - [小野塚晃](../Page/DIMENSION.md "wikilink")：[ピアノ](../Page/ピアノ.md "wikilink")（\#5.12）、[シンセサイザー](../Page/シンセサイザー.md "wikilink") （\#5）
-  - [増田隆宣](https://ja.wikipedia.org/wiki/増田隆宣 "wikilink")：[ピアノ](../Page/ピアノ.md "wikilink")（\#7）、[オルガン](../Page/オルガン.md "wikilink") （\#7.8.12）、[キーボード](../Page/キーボード_\(楽器\).md "wikilink")（\#14\[11\]）
+  - [増田隆宣](../Page/増田隆宣.md "wikilink")：[ピアノ](../Page/ピアノ.md "wikilink")（\#7）、[オルガン](../Page/オルガン.md "wikilink") （\#7.8.12）、[キーボード](../Page/キーボード_\(楽器\).md "wikilink")（\#14\[11\]）
   - JOSEPH MICHAEL SZEIBERT：キーボード（\#11）
   - [勝田一樹](https://ja.wikipedia.org/wiki/勝田かず樹 "wikilink")：[サクソフォーン](../Page/サクソフォーン.md "wikilink") （\#2.5）
   - 古村敏比古：サクソフォーン（\#14）

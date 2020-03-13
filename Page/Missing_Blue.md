@@ -25,7 +25,7 @@
     声：[友永朱音](../Page/友永朱音.md "wikilink")
     主人公のクラスに転校してきた少女。主人公に「思い出して…」と伝え、不思議な[水晶](https://ja.wikipedia.org/wiki/水晶 "wikilink")を渡す。全てが謎に包まれている。
   - 神瞳 かりん（Shindou Karin）
-    声：[幡宮かのこ](https://ja.wikipedia.org/wiki/幡宮かのこ "wikilink")
+    声：[幡宮かのこ](../Page/幡宮かのこ.md "wikilink")
     主人公のピンチに駆けつける騎士道部の下級生。大の男を軽々と投げ飛ばすほど強い。言葉遣いが丁寧で、何故か主人公に対して献身的である。静乃とは趣味が合うので仲が良い。
   - 矢城 静乃（Yagi Shizuno）
     声：[飯塚雅弓](../Page/飯塚雅弓.md "wikilink")
@@ -79,7 +79,7 @@
     声：[内野一](../Page/内野一.md "wikilink")
     桂介が選んだ静乃の結婚相手。意外に話のわかる好青年。
   - 朝武 太一（Tomotake TaiChi）
-    声：[藤田圭宣](https://ja.wikipedia.org/wiki/織田圭祐 "wikilink")
+    声：[藤田圭宣](../Page/織田圭祐.md "wikilink")
     都市研究会の部長。部室内にさらに部屋を作って生活している謎の多い人物。よく居眠りしている。
   - 愛菜 稚（Aina Waka）
     声：[静木亜美](../Page/静木亜美.md "wikilink")

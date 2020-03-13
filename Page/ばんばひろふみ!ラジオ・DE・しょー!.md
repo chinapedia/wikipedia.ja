@@ -8,8 +8,8 @@
 ## 出演者
 
   - メインパーソナリティ（MC） [ばんばひろふみ](../Page/ばんばひろふみ.md "wikilink")（愛称「バンバン」）（但し皆勤ではない。毎年必ずどこかで1回以上休みを取ることでお馴染み。2007年は年明けに休みを取ったものの、夏休みはとらず。）
-  - アシスタント [増井孝子](https://ja.wikipedia.org/wiki/増井孝子 "wikilink")（愛称「おたか」）（但し皆勤ではない。杉田二郎が代打で登場した回に、午後の部の途中で帰ったことがある。）
-  - パートナー [露の吉次](https://ja.wikipedia.org/wiki/露の吉次 "wikilink")（愛称「吉次」、「きっちゃん」）
+  - アシスタント [増井孝子](../Page/増井孝子.md "wikilink")（愛称「おたか」）（但し皆勤ではない。杉田二郎が代打で登場した回に、午後の部の途中で帰ったことがある。）
+  - パートナー [露の吉次](../Page/露の吉次.md "wikilink")（愛称「吉次」、「きっちゃん」）
   - パートナー [天宮遥](../Page/天宮遥.md "wikilink")（「ベストセラーを読む」コーナー担当）（2009年4月～）
   - ニュース担当 [国広正夫](../Page/国広正夫.md "wikilink")（2008年4月4日～）
 
@@ -32,7 +32,7 @@
 
 ## スタッフ
 
-  - プロデューサー [森下悦伸](https://ja.wikipedia.org/wiki/森下次郎 "wikilink")
+  - プロデューサー [森下悦伸](../Page/森下次郎.md "wikilink")
 
 ## タイトルについて
 
@@ -136,7 +136,7 @@
   - 熊本[RKK](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")－とんでるワイド　大田黒浩一のきょうも元気\!（2006年7月28日）
   - 新潟[BSN](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")－[キンラジ](../Page/キンラジ.md "wikilink")（2006年7月28日）
   - 鹿児島[MBC](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")－[城山スズメ](../Page/城山スズメ.md "wikilink")（2006年8月4日）
-  - 沖縄[RBC](https://ja.wikipedia.org/wiki/琉球放送 "wikilink")－[シャキッとi](../Page/シャキッとi.md "wikilink")（2006年8月4日）
+  - 沖縄[RBC](../Page/琉球放送.md "wikilink")－[シャキッとi](../Page/シャキッとi.md "wikilink")（2006年8月4日）
 
 ### ホームページについて
 
@@ -179,7 +179,7 @@
 ### 知性の玉手箱・その他のゲスト
 
   - 武山峯久（京都竜馬会）
-  - [露の五郎兵衛](https://ja.wikipedia.org/wiki/露の五郎兵衛 "wikilink")（京都竜馬会）
+  - [露の五郎兵衛](../Page/露の五郎兵衛.md "wikilink")（京都竜馬会）
   - 眞山滋志（神戸大学副学長）
   - 曽束政昭（旅行ライター、meets記者）
   - 高士薫（神戸新聞社社会部長）
@@ -192,7 +192,7 @@
 
 <!-- end list -->
 
-  - 高林喜久生（[関西学院大学](https://ja.wikipedia.org/wiki/関西学院大学 "wikilink")経済学部教授）
+  - 高林喜久生（[関西学院大学](../Page/関西学院大学.md "wikilink")経済学部教授）
   - ジョージ岡崎（海洋学者）
   - 塚本純司（日光・神戸アイスバックス社長）
   - 柿木央久（ボサノバ評論家）
@@ -229,7 +229,7 @@
 
   - [三宅裕司](../Page/三宅裕司.md "wikilink")（[スーパーエキセントリックシアター](https://ja.wikipedia.org/wiki/スーパーエキセントリックシアター "wikilink")）
   - [小倉久寛](../Page/小倉久寛.md "wikilink")（同上）
-  - [キャシー中島](https://ja.wikipedia.org/wiki/キャシー中島 "wikilink")
+  - [キャシー中島](../Page/キャシー中島.md "wikilink")
   - [谷村新司](../Page/谷村新司.md "wikilink")
   - [谷五郎](../Page/谷五郎.md "wikilink")（年に1回、1月に自身のワイド番組のツアーの宣伝のため出演する）
   - [長江健次](../Page/長江健次.md "wikilink")　
@@ -251,17 +251,17 @@
 
 <!-- end list -->
 
-  - [大江千里 (アーティスト)](https://ja.wikipedia.org/wiki/大江千里_\(アーティスト\) "wikilink")
+  - [大江千里 (アーティスト)](../Page/大江千里_\(アーティスト\).md "wikilink")
   - [久保田洋司](../Page/久保田洋司.md "wikilink")（シンガーソングライター）
   - [因幡晃](../Page/因幡晃.md "wikilink")
   - [古川忠義](https://ja.wikipedia.org/wiki/古川忠義 "wikilink")（ギタリスト）
   - [倭製ジェロニモ&ラブゲリラエクスペリエンス](https://ja.wikipedia.org/wiki/倭製ジェロニモ&ラブゲリラエクスペリエンス "wikilink")
-  - [Les.R](https://ja.wikipedia.org/wiki/Les.R "wikilink")
+  - [Les.R](../Page/Les.R.md "wikilink")
   - [松下萌子](../Page/松下萌子.md "wikilink")
   - [斉藤哲夫](../Page/斉藤哲夫.md "wikilink")
   - [城ノ内ミサ](https://ja.wikipedia.org/wiki/城ノ内ミサ "wikilink")
   - [岸田智史](https://ja.wikipedia.org/wiki/岸田智史 "wikilink")
-  - [山根康広](https://ja.wikipedia.org/wiki/山根康広 "wikilink")
+  - [山根康広](../Page/山根康広.md "wikilink")
   - [高山厳](../Page/高山厳.md "wikilink")
   - [ビリケン (歌手)](../Page/ビリケン_\(歌手\).md "wikilink")
   - [川井郁子](../Page/川井郁子.md "wikilink")(ヴァイオリニスト)　
@@ -269,7 +269,7 @@
   - [弐本恩太](https://ja.wikipedia.org/wiki/弐本恩太 "wikilink")（シンガーソングライター）
   - [大西ユカリ](../Page/大西ユカリ.md "wikilink")
   - [中山ラビ](https://ja.wikipedia.org/wiki/中山ラビ "wikilink")
-  - [佐川満男](https://ja.wikipedia.org/wiki/佐川満男 "wikilink")
+  - [佐川満男](../Page/佐川満男.md "wikilink")
   - [吉川忠英](../Page/吉川忠英.md "wikilink")（ギタリスト）
   - [井上尭之](https://ja.wikipedia.org/wiki/井上尭之 "wikilink")
   - [伍芳](../Page/伍芳.md "wikilink")（ウーファン、中国古筝奏者)
@@ -287,7 +287,7 @@
   - [兵藤ゆき](../Page/兵藤ゆき.md "wikilink")（2004年・8月）、（2006年8月11日、但し午後以降の出演）
   - [杉田二郎](../Page/杉田二郎.md "wikilink")（2005年2月18日）
   - 露の団六（金曜バンバン時代）
-  - [三浦和人](https://ja.wikipedia.org/wiki/三浦和人 "wikilink")(雅夢)（2007年1月5日、但し午後以降の出演）など
+  - [三浦和人](../Page/三浦和人.md "wikilink")(雅夢)（2007年1月5日、但し午後以降の出演）など
 
 ## 番組グッズ
 
@@ -330,7 +330,7 @@
 
 ## 以前に同時間帯に放送された番組
 
-  - [土曜バンバン\!やってもいいかな?\!](../Page/土曜バンバン!やってもいいかな?!.md "wikilink")（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")～[2000年](../Page/2000年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")までの259回）
+  - [土曜バンバン\!やってもいいかな?\!](../Page/土曜バンバン!やってもいいかな?!.md "wikilink")（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[4月8日](../Page/4月8日.md "wikilink")～[2000年](../Page/2000年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")までの259回）
   - [金曜バンバン ゴメンネ\!?ばんばひろふみDE](../Page/金曜バンバン_ゴメンネ!?ばんばひろふみDE.md "wikilink")（2000年[4月7日](../Page/4月7日.md "wikilink")～2004年[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")までの208回）
 
 ## 外部データ

@@ -17,7 +17,7 @@
 
 地上波では、[テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[日曜洋画劇場](../Page/日曜洋画劇場.md "wikilink")』で[1999年](../Page/1999年.md "wikilink")[2月14日](../Page/2月14日.md "wikilink")に初放映され、視聴率は11.5%であった。
 
-公開から8年後の[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月9日](../Page/12月9日.md "wikilink")に本作の[DVD](../Page/DVD.md "wikilink")が発売された\[4\]。
+公開から8年後の[2005年](../Page/2005年.md "wikilink")[12月9日](../Page/12月9日.md "wikilink")に本作の[DVD](../Page/DVD.md "wikilink")が発売された\[4\]。
 
 ## あらすじ
 

@@ -47,7 +47,7 @@ QXシリーズは後の[QYシリーズと異なり](../Page/ヤマハ・QYシリ
   - [ミュージックシーケンサー](../Page/ミュージックシーケンサー.md "wikilink")
   - [MIDI](../Page/MIDI.md "wikilink")
   - [ヤマハ・QYシリーズ](../Page/ヤマハ・QYシリーズ.md "wikilink")
-  - [ヤマハ・RXシリーズ](https://ja.wikipedia.org/wiki/ヤマハ・RXシリーズ "wikilink")
+  - [ヤマハ・RXシリーズ](../Page/ヤマハ・RXシリーズ.md "wikilink")
 
 ## 外部リンク
 

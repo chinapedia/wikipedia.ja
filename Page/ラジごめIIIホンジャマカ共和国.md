@@ -149,7 +149,7 @@
       - 開催日時：1993年9月11日（10日深夜）
       - 開催会場：[クラブダイアモンドホール](https://ja.wikipedia.org/wiki/DIAMOND_HALL "wikilink")
       - 内容：ラジごめ新旧レギュラー陣による公開生放送合同イベント
-      - 出演者：石塚英彦、恵俊彰、藤田陽子、大石まゆみ、[嘉門達夫](../Page/嘉門タツオ.md "wikilink")、[原田さとみ](https://ja.wikipedia.org/wiki/原田さとみ "wikilink")、[大藤晋司](../Page/大藤晋司.md "wikilink")
+      - 出演者：石塚英彦、恵俊彰、藤田陽子、大石まゆみ、[嘉門達夫](../Page/嘉門タツオ.md "wikilink")、[原田さとみ](../Page/原田さとみ.md "wikilink")、[大藤晋司](../Page/大藤晋司.md "wikilink")
   - ラジごめIIIホンジャマカ共和国 東京ディズニーランド&横浜ツアー
       - 開催日時：1994年4月4日・4月5日
       - 内容：[東京ディズニーランド](https://ja.wikipedia.org/wiki/東京ディズニーランド "wikilink")パスポート入場券付き、[ザ・ホテルヨコハマにてホンジャマカとの楽しいトークタイム](../Page/ホテルモントレ.md "wikilink")（説明フリップの原文まま）

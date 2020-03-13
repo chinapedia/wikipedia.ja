@@ -7,7 +7,7 @@
 
 [2001年](../Page/2001年.md "wikilink")5月23日、バンドのファンクラブ活動の一環でソロ企画として主催したイベントにこの名前が冠されたことに端を発する（イベント詳細は下記参照）。イベント後、同年9月27日にyukihiro名義でシングル「[ring the noise](https://ja.wikipedia.org/wiki/ring_the_noise "wikilink")」をリリースし活動を本格化させた。同年11月19日にライブ「acid android act in november」を[新宿リキッドルーム](https://ja.wikipedia.org/wiki/新宿リキッドルーム "wikilink")で開催。本人含めギター4名、さらにツイン・ドラムという編成で楽曲を披露した\[1\]。翌[2002年](../Page/2002年.md "wikilink")にはacid android名義で初の作品となる1stアルバム『[acid android](https://ja.wikipedia.org/wiki/acid_android_\(アルバム\) "wikilink")』をリリースした。
 
-その後もライヴを中心に活動を継続し、[2003年](../Page/2003年.md "wikilink")には[Ki/oon Recordsより初のミニアルバム](../Page/キューンミュージック.md "wikilink")『[faults](https://ja.wikipedia.org/wiki/faults "wikilink")』、[2006年](../Page/2006年.md "wikilink")にはacid android名義での初となるシングル「[let's dance](https://ja.wikipedia.org/wiki/let's_dance "wikilink")」、2ndアルバム『[purification](https://ja.wikipedia.org/wiki/purification "wikilink")』を発表した。また、同年[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")にはロックバンド、[KORNのライブツアー](https://ja.wikipedia.org/wiki/コーン_\(バンド\) "wikilink")「JAPAN TOUR 2006」にオープニングアクトとして出演している\[2\]。以後もL'Arc〜en〜Cielの活動と並行して活動しており、現在までにシングル3作（yukihiro名義及び配信含む）、アルバム6作（内ミニアルバム2作）をリリースしている。
+その後もライヴを中心に活動を継続し、[2003年](../Page/2003年.md "wikilink")には[Ki/oon Recordsより初のミニアルバム](../Page/キューンミュージック.md "wikilink")『[faults](https://ja.wikipedia.org/wiki/faults "wikilink")』、[2006年](../Page/2006年.md "wikilink")にはacid android名義での初となるシングル「[let's dance](https://ja.wikipedia.org/wiki/let's_dance "wikilink")」、2ndアルバム『[purification](https://ja.wikipedia.org/wiki/purification "wikilink")』を発表した。また、同年[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")にはロックバンド、[KORNのライブツアー](../Page/コーン_\(バンド\).md "wikilink")「JAPAN TOUR 2006」にオープニングアクトとして出演している\[2\]。以後もL'Arc〜en〜Cielの活動と並行して活動しており、現在までにシングル3作（yukihiro名義及び配信含む）、アルバム6作（内ミニアルバム2作）をリリースしている。
 
 [2011年](../Page/2011年.md "wikilink")4月13日に発売された『[alcove / \#1](https://ja.wikipedia.org/wiki/alcove_/_1 "wikilink")』までにリリースされた楽曲は、yukihiroが昔から好んで聴いていた[インダストリアル](../Page/インダストリアル.md "wikilink")を取り入れたものが多い。ただし本人は「インダストリアルバンドというわけではない」と語っており、事実エレクトロ、[ヘヴィ・ロック](../Page/ラウドロック.md "wikilink")、ラップ調等\[3\]、様々なジャンルの楽曲が作られている。しかし、2016年にインタビューを受けたyukihiroは「自分的にはインダストリアルは十分がんばった\[4\]」「自分のなかでやりたいと思っていたことはやったかな\[5\]」と述べており、この頃から音楽性がインダストリアルからダークな[エレクトロ](../Page/エレクトロ.md "wikilink")を基調としたサウンド\[6\]に変化している。
 
@@ -137,10 +137,10 @@ acid androidが企画するオールナイトイベント。[2001年](../Page/20
   - [3月5日](../Page/3月5日.md "wikilink")、1stアルバム『acid android』店頭販売開始。
   - [3月12日](../Page/3月12日.md "wikilink")、1stミニアルバム『[faults](https://ja.wikipedia.org/wiki/faults "wikilink")』を[Ki/oon Recordsより発売](../Page/キューンミュージック.md "wikilink")。
   - [3月12日](../Page/3月12日.md "wikilink") - [5月27日](../Page/5月27日.md "wikilink")、初のライブツアー「acid android live 2003」を開催。
-  - [5月8日](../Page/5月8日.md "wikilink")、[なんばhatchで行われた](https://ja.wikipedia.org/wiki/湊町リバープレイス "wikilink")[SONS OF ALL PUSSYS主催の](../Page/SONS_OF_ALL_PUSSYS.md "wikilink")[ライブイベント](../Page/演奏会.md "wikilink")「第二回 [OSAKA](../Page/大阪.md "wikilink") [BUBBLE FESTiVAL](https://ja.wikipedia.org/wiki/BUBBLE_FESTiVAL "wikilink")」に出演。acid android、[HYDE](https://ja.wikipedia.org/wiki/HYDE "wikilink")、[SONS OF ALL PUSSYSがステージ上で競演](../Page/SONS_OF_ALL_PUSSYS.md "wikilink")。客席には[tetsuya](https://ja.wikipedia.org/wiki/tetsuya "wikilink")の姿も。
+  - [5月8日](../Page/5月8日.md "wikilink")、[なんばhatchで行われた](../Page/湊町リバープレイス.md "wikilink")[SONS OF ALL PUSSYS主催の](../Page/SONS_OF_ALL_PUSSYS.md "wikilink")[ライブイベント](../Page/演奏会.md "wikilink")「第二回 [OSAKA](../Page/大阪.md "wikilink") [BUBBLE FESTiVAL](../Page/BUBBLE_FESTiVAL.md "wikilink")」に出演。acid android、[HYDE](https://ja.wikipedia.org/wiki/HYDE "wikilink")、[SONS OF ALL PUSSYSがステージ上で競演](../Page/SONS_OF_ALL_PUSSYS.md "wikilink")。客席には[tetsuya](https://ja.wikipedia.org/wiki/tetsuya "wikilink")の姿も。
   - [8月9日](../Page/8月9日.md "wikilink") - [9月22日](../Page/9月22日.md "wikilink")、ライブツアー「acid android live 2003 ver.2」を開催。
   - [9月26日](../Page/9月26日.md "wikilink")、[新宿LOFT](https://ja.wikipedia.org/wiki/新宿LOFT "wikilink")にてacid androidが主催するイベント「acid android in an alcove vol.3」を開催。
-  - [12月26日](../Page/12月26日.md "wikilink")、[日本武道館](../Page/日本武道館.md "wikilink")で行われたライブイベント「DANGER CRUE RECORDS presents [天嘉](https://ja.wikipedia.org/wiki/天嘉_\(イベント\) "wikilink")-弐-」に出演。yukihiroはL'Arc〜en〜Cielとしてもステージに立つ。
+  - [12月26日](../Page/12月26日.md "wikilink")、[日本武道館](../Page/日本武道館.md "wikilink")で行われたライブイベント「DANGER CRUE RECORDS presents [天嘉](../Page/天嘉_\(イベント\).md "wikilink")-弐-」に出演。yukihiroはL'Arc〜en〜Cielとしてもステージに立つ。
 
 **[2004年](../Page/2004年.md "wikilink")**
 
@@ -151,7 +151,7 @@ acid androidが企画するオールナイトイベント。[2001年](../Page/20
   - [3月3日](../Page/3月3日.md "wikilink")、ライブビデオ『[acid android live 2003](https://ja.wikipedia.org/wiki/acid_android_live_2003 "wikilink")』を[DANGER CRUE RECORDSより発売](https://ja.wikipedia.org/wiki/デンジャークルー "wikilink")。
   - [12月25日](../Page/12月25日.md "wikilink")、日本武道館で行われた「DANGER CRUE presents 天嘉-参-」に出演。yukihiroは[P'UNK〜EN〜CIEL](https://ja.wikipedia.org/wiki/P'UNK〜EN〜CIEL "wikilink") feat.[P'UNK青木](../Page/青木さやか.md "wikilink")、L'Arc〜en〜Cielとしてもステージに立つ。
 
-**[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")**
+**[2005年](../Page/2005年.md "wikilink")**
 
   - [10月25日](../Page/10月25日.md "wikilink")・[10月27日](../Page/10月27日.md "wikilink")・[11月4日](../Page/11月4日.md "wikilink")、ライブ「acid android live 2005」を行う。
   - [12月25日](../Page/12月25日.md "wikilink")、日本武道館で行われた「DANGER CRUE presents 天嘉-四-」に出演。
@@ -159,9 +159,9 @@ acid androidが企画するオールナイトイベント。[2001年](../Page/20
 **[2006年](../Page/2006年.md "wikilink")**
 
   - [2月1日](../Page/2月1日.md "wikilink")、3年ぶりのアルバムとツアーの詳細が発表される。
-  - [3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")、[音楽と人](https://ja.wikipedia.org/wiki/音楽と人 "wikilink")主催のライブイベント「音楽と人 Presents MUSIC & PEOPLE」に出演。
+  - [3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")、[音楽と人](../Page/音楽と人.md "wikilink")主催のライブイベント「音楽と人 Presents MUSIC & PEOPLE」に出演。
   - [9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")、シングル「[let's dance](https://ja.wikipedia.org/wiki/let's_dance "wikilink")」をacid android名義でKi/oon Recordsより発売。
-  - [4月19日](../Page/4月19日.md "wikilink")、ロックバンド、[KORNのライブツアー](https://ja.wikipedia.org/wiki/コーン_\(バンド\) "wikilink")「JAPAN TOUR 2006」にオープニングアクトとして出演。
+  - [4月19日](../Page/4月19日.md "wikilink")、ロックバンド、[KORNのライブツアー](../Page/コーン_\(バンド\).md "wikilink")「JAPAN TOUR 2006」にオープニングアクトとして出演。
   - [4月22日](../Page/4月22日.md "wikilink")・[4月23日](../Page/4月23日.md "wikilink")、[中国](../Page/中国.md "wikilink")・[上海](https://ja.wikipedia.org/wiki/上海 "wikilink")のxintindi ARKで行われたライブイベント「acid android vs mucc 2006 in shanghai」でムックと対バン。自身初となる海外公演となった。
   - [5月10日](../Page/5月10日.md "wikilink")、2ndアルバム『[purification](https://ja.wikipedia.org/wiki/purification "wikilink")』をKi/oon Recordsより発売。
   - [5月12日](../Page/5月12日.md "wikilink") - [8月6日](../Page/8月6日.md "wikilink")、ライブツアー「acid android tour 2006」を開催。
@@ -592,7 +592,7 @@ POCS-9176/7</p></td>
 <a href="../Page/SHIBUYA-AX.md" title="wikilink">SHIBUYA-AX</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/10月25日.md" title="wikilink">10月25日</a>・<a href="../Page/10月27日.md" title="wikilink">10月27日</a>・<a href="../Page/11月4日.md" title="wikilink">11月4日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/10月25日.md" title="wikilink">10月25日</a>・<a href="../Page/10月27日.md" title="wikilink">10月27日</a>・<a href="../Page/11月4日.md" title="wikilink">11月4日</a></p></td>
 <td><p>単発ライブ</p></td>
 <td><p>acid android live 2005</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -1065,7 +1065,7 @@ yukihiro</p></td>
 <td><p>5月8日 なんばhatch</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/天嘉_(イベント)" title="wikilink">天嘉-弐-</a></strong></p></td>
+<td><p><strong><a href="../Page/天嘉_(イベント).md" title="wikilink">天嘉-弐-</a></strong></p></td>
 <td><p>12月26日 <a href="../Page/日本武道館.md" title="wikilink">日本武道館</a></p></td>
 <td></td>
 </tr>
@@ -1089,7 +1089,7 @@ yukihiro</p></td>
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p>
+<p><a href="../Page/2005年.md" title="wikilink">2005年</a></p>
 </center></td>
 <td><p><strong>天嘉-四-</strong></p></td>
 <td><p>12月25日 日本武道館</p></td>
@@ -1098,7 +1098,7 @@ yukihiro</p></td>
 <td><center>
 <p><a href="../Page/2006年.md" title="wikilink">2006年</a></p>
 </center></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/コーン_(バンド)" title="wikilink">KORN</a> 『JAPAN TOUR 2006』</strong></p></td>
+<td><p><strong><a href="../Page/コーン_(バンド).md" title="wikilink">KORN</a> 『JAPAN TOUR 2006』</strong></p></td>
 <td><p>4月19日 Zepp Tokyo<br />
 <small>（サポートアクトとして出演）</small></p></td>
 </tr>

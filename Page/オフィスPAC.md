@@ -374,7 +374,7 @@
   - [長島真祐](https://ja.wikipedia.org/wiki/長島真祐 "wikilink")（現所属：フリー）
   - [野沢聡](https://ja.wikipedia.org/wiki/野沢聡 "wikilink")（現所属：[よしもとクリエイティブ・エージェンシー](https://ja.wikipedia.org/wiki/よしもとクリエイティブ・エージェンシー "wikilink")）
   - [野沢那智](../Page/野沢那智.md "wikilink")（元代表、在籍中に死去）
-  - [早志勇紀](https://ja.wikipedia.org/wiki/早志勇紀 "wikilink")（現所属：[LAL](https://ja.wikipedia.org/wiki/LAL_\(芸能事務所\) "wikilink")）
+  - [早志勇紀](https://ja.wikipedia.org/wiki/早志勇紀 "wikilink")（現所属：[LAL](../Page/LAL_\(芸能事務所\).md "wikilink")）
   - [古屋家臣](https://ja.wikipedia.org/wiki/古屋家臣 "wikilink")
   - [丸田光](https://ja.wikipedia.org/wiki/丸田光 "wikilink")
 

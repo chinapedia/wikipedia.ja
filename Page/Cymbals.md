@@ -33,7 +33,7 @@
 
 <!-- end list -->
 
-  - **[矢野博康](https://ja.wikipedia.org/wiki/矢野博康 "wikilink")**（やの ひろやす、[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[12月24日](../Page/12月24日.md "wikilink") - ）
+  - **[矢野博康](https://ja.wikipedia.org/wiki/矢野博康 "wikilink")**（やの ひろやす、[1970年](../Page/1970年.md "wikilink")[12月24日](../Page/12月24日.md "wikilink") - ）
 
 <!-- end list -->
 

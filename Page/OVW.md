@@ -5,9 +5,9 @@
 
 ## 概要
 
-かつて[WWE](../Page/WWE.md "wikilink")の下部組織として知られており、WWE入りを目指す新人レスラーがキャリアを積むための養成機関であったり、ケガをしたWWEスーパースターのリハビリや[ギミックがうまくはまらなかった選手の新ギミックの練り直し等にも使われることがあった](https://ja.wikipedia.org/wiki/ギミック_\(プロレス\) "wikilink")。
+かつて[WWE](../Page/WWE.md "wikilink")の下部組織として知られており、WWE入りを目指す新人レスラーがキャリアを積むための養成機関であったり、ケガをしたWWEスーパースターのリハビリや[ギミックがうまくはまらなかった選手の新ギミックの練り直し等にも使われることがあった](../Page/ギミック_\(プロレス\).md "wikilink")。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")7月まで[ジム・コルネット](https://ja.wikipedia.org/wiki/ジム・コルネット "wikilink")がオーナーを務め、その後は[ポール・ヘイマン](../Page/ポール・ヘイマン.md "wikilink")や[アル・スノー](../Page/アル・スノー.md "wikilink")がメインのブッカーを担当していた。
+[2005年](../Page/2005年.md "wikilink")7月まで[ジム・コルネット](https://ja.wikipedia.org/wiki/ジム・コルネット "wikilink")がオーナーを務め、その後は[ポール・ヘイマン](../Page/ポール・ヘイマン.md "wikilink")や[アル・スノー](../Page/アル・スノー.md "wikilink")がメインのブッカーを担当していた。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月7日](../Page/2月7日.md "wikilink")、WWEとの関係を解消することを発表。
 
@@ -89,7 +89,7 @@
 
   - [アーロン・スティーブンス](https://ja.wikipedia.org/wiki/アーロン・ハダッド "wikilink")（Aaron Stevens）（アイドル・スティーブンス、ダミアン・サンドウ）
   - [アミッシュ・ロードキル](https://ja.wikipedia.org/wiki/マイケル・デボリ "wikilink")（Amish Roadkill）（ロードキル）
-  - [アントニオ](https://ja.wikipedia.org/wiki/トム・マテラ "wikilink")（Antonio）（アントニオ・トーマス）
+  - [アントニオ](../Page/トム・マテラ.md "wikilink")（Antonio）（アントニオ・トーマス）
   - [イライジャ・バーク](../Page/イライジャ・バーク.md "wikilink")（Elijah Burke）（ディアンジェロ・ディネロ）
   - [オーランド・ジョーダン](../Page/オーランド・ジョーダン.md "wikilink")（Orlando Jordan）
   - [カリート・カリビアン・クール](../Page/カーリー・コロン.md "wikilink")（Carlito）（カリート）
@@ -104,16 +104,16 @@
   - [ジョイ・マーキュリー](../Page/アダム・バーチ.md "wikilink")（Joey Mercury）
   - [ザ・プロトタイプ](../Page/ジョン・シナ.md "wikilink")（The Prototype）（ジョン・シナ）
   - [ジョン・ハイデンライク](../Page/ジョン・ハイデンライク.md "wikilink")（Johon Heidenreich）（ハイデンライク）
-  - [ジョニー・ナイトロ](https://ja.wikipedia.org/wiki/ジョン・ヘニガン "wikilink")（Johnny Nitro）（ジョン・モリソン）
+  - [ジョニー・ナイトロ](../Page/ジョン・ヘニガン.md "wikilink")（Johnny Nitro）（ジョン・モリソン）
   - [シルヴァン・グラニエ](../Page/シルヴァン・グラニエ.md "wikilink")（Sylvain Grenier）（シルヴァン）
   - [セブン](../Page/ケビン・ファーティグ.md "wikilink")（Seven）（ケビン・ソーン、モルデカイ）
-  - [トラヴィス・ベイン](https://ja.wikipedia.org/wiki/トラヴィス・トムコ "wikilink")（Travis Bain）（トラヴィス・トムコ、トムコ、タイソン・トムコ）
+  - [トラヴィス・ベイン](../Page/トラヴィス・トムコ.md "wikilink")（Travis Bain）（トラヴィス・トムコ、トムコ、タイソン・トムコ）
   - [ダグ・バシャム](../Page/ダグ・バシャム.md "wikilink")（Doug Basham）
   - [ダニー・ドーリング](https://ja.wikipedia.org/wiki/ダン・モリソン "wikilink")（Danny Doring）
   - [ダニー・バシャム](../Page/ダニー・ホリー.md "wikilink")（Danny Basham）
   - [ダ・ビースト](https://ja.wikipedia.org/wiki/シャド・ガスパード "wikilink")（Da Beast）（シャド・ガスパード、シャド）
   - [ダン・ロッドマン](https://ja.wikipedia.org/wiki/ダニエル・ロディマー "wikilink")（Dan Rodman）
-  - [チャーリー・ハース](https://ja.wikipedia.org/wiki/チャーリー・ハース "wikilink")（Charlie Haas）
+  - [チャーリー・ハース](../Page/チャーリー・ハース.md "wikilink")（Charlie Haas）
   - [ニック・ネメス](https://ja.wikipedia.org/wiki/ニック・ネメス "wikilink")（Nick Nemeth）（ニッキー、ドルフ・ジグラー）
   - [BJペイン](https://ja.wikipedia.org/wiki/ラッセル・ペイン・ジュニア "wikilink")（B.J. Payne）
   - [ブギーマン](../Page/マーティー・ライト.md "wikilink")（Boogeyman）
@@ -126,7 +126,7 @@
   - [マット・モーガン](../Page/マット・モーガン.md "wikilink")（Matt Morgan）
   - [マーク・ヘンリー](../Page/マーク・ヘンリー.md "wikilink")（Mark Henry）
   - [ユージン](../Page/ニコラス・ディンスモア.md "wikilink")（Eugene）
-  - [ランディ・オートン](https://ja.wikipedia.org/wiki/ランディ・オートン "wikilink")（Randy Orton）
+  - [ランディ・オートン](../Page/ランディ・オートン.md "wikilink")（Randy Orton）
   - [リヴァイアサン](https://ja.wikipedia.org/wiki/デビッド・バウティスタ "wikilink")（Leviathan）（バティスタ）
   - [レネ・デュプリー](../Page/レネ・ゴーゲン.md "wikilink")（Rene Dupree）
   - [ロドニー・マック](https://ja.wikipedia.org/wiki/ロドニー・ベグナウド "wikilink")（Rodney Mack）（レッド・ドッグ）

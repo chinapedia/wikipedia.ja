@@ -67,7 +67,7 @@ MC08E型水冷4ストローク4バルブDOHC90°バンクV型2気筒エンジン
 
 ### 装備品
 
-[ジュラルミン](../Page/ジュラルミン.md "wikilink")製鍛造[セパレートハンドル](https://ja.wikipedia.org/wiki/セパレートハンドル "wikilink")・電気式[タコメーター](https://ja.wikipedia.org/wiki/タコメーター "wikilink")を採用するほか、[ヘッドライトはH](../Page/前照灯.md "wikilink")4[ハロゲンランプ](../Page/ハロゲンランプ.md "wikilink")を搭載する。またハーフタイプのフェアリングを装備するが、法規上はメータバイザーである\[12\] 。
+[ジュラルミン](../Page/ジュラルミン.md "wikilink")製鍛造[セパレートハンドル](https://ja.wikipedia.org/wiki/セパレートハンドル "wikilink")・電気式[タコメーター](../Page/タコメーター.md "wikilink")を採用するほか、[ヘッドライトはH](../Page/前照灯.md "wikilink")4[ハロゲンランプ](../Page/ハロゲンランプ.md "wikilink")を搭載する。またハーフタイプのフェアリングを装備するが、法規上はメータバイザーである\[12\] 。
 
 ## 型式別詳細
 
@@ -161,7 +161,7 @@ MC15型エンジンを、VTZ250の1988年モデルと同じスペックとした
 
 ## 関連項目
 
-  - [ホンダ・マグナ](https://ja.wikipedia.org/wiki/ホンダ・マグナ "wikilink") - VツインマグナがMC15E型エンジンを搭載
+  - [ホンダ・マグナ](../Page/ホンダ・マグナ.md "wikilink") - VツインマグナがMC15E型エンジンを搭載
 
 ## 脚注
 

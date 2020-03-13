@@ -5,9 +5,9 @@
 
 ## 製品概要
 
-[1952年](../Page/1952年.md "wikilink")（昭和27年）、当時爆発的な売り上げを記録していた[武田薬品工業](../Page/武田薬品工業.md "wikilink")のビタミン剤・「[アリナミン](https://ja.wikipedia.org/wiki/アリナミン "wikilink")」シリーズに対抗する形で[塩野義製薬](../Page/塩野義製薬.md "wikilink")から発売された。当初は医薬品として「ポポン」の名称で誕生し、[1965年](../Page/1965年.md "wikilink")（昭和40年）には「ポポンS」に改名、更に[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）には「新ポポンS」と改名、[2000年](../Page/2000年.md "wikilink")（平成12年）に「ポポンS」に戻すという歴史を持つ。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）[7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink")には従来の100錠・180錠から、60錠・120錠・240錠に容量を変更し、パッケージデザインもリニューアルされた。各種ビタミンから[カルシウム](../Page/カルシウム.md "wikilink")・[マグネシウム](../Page/マグネシウム.md "wikilink")も含まれる。同社が発売する「ポポン」以外のビタミン剤には「シナール」・「ベリックス」・「ベクス」などがある。
+[1952年](../Page/1952年.md "wikilink")（昭和27年）、当時爆発的な売り上げを記録していた[武田薬品工業](../Page/武田薬品工業.md "wikilink")のビタミン剤・「[アリナミン](https://ja.wikipedia.org/wiki/アリナミン "wikilink")」シリーズに対抗する形で[塩野義製薬](../Page/塩野義製薬.md "wikilink")から発売された。当初は医薬品として「ポポン」の名称で誕生し、[1965年](../Page/1965年.md "wikilink")（昭和40年）には「ポポンS」に改名、更に[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）には「新ポポンS」と改名、[2000年](../Page/2000年.md "wikilink")（平成12年）に「ポポンS」に戻すという歴史を持つ。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）[7月23日](../Page/7月23日.md "wikilink")には従来の100錠・180錠から、60錠・120錠・240錠に容量を変更し、パッケージデザインもリニューアルされた。各種ビタミンから[カルシウム](../Page/カルシウム.md "wikilink")・[マグネシウム](../Page/マグネシウム.md "wikilink")も含まれる。同社が発売する「ポポン」以外のビタミン剤には「シナール」・「ベリックス」・「ベクス」などがある。
 
-2012年2月にはシリーズ品として、[鉄](../Page/鉄.md "wikilink")・[葉酸](https://ja.wikipedia.org/wiki/葉酸 "wikilink")・[カルシウム](../Page/カルシウム.md "wikilink")を含む11種類のビタミンと3種類の[ミネラル](../Page/ミネラル.md "wikilink")を配合した医薬品【指定第2類医薬品】「ポポンSプラス」を発売(TVCMでは2009年6月の薬事法改正に伴うテロップ内容が付いている）。さらに2013年6月には8種類のビタミンと2種類のミネラルに、[アミノ酸](https://ja.wikipedia.org/wiki/アミノ酸 "wikilink")などの栄養素が豊富に含まれている[ローヤルゼリー](../Page/ローヤルゼリー.md "wikilink")と[エネルギー](https://ja.wikipedia.org/wiki/エネルギー "wikilink")[代謝](https://ja.wikipedia.org/wiki/代謝 "wikilink")を促進する[α-リポ酸](https://ja.wikipedia.org/wiki/α-リポ酸 "wikilink")[誘導体](https://ja.wikipedia.org/wiki/誘導体 "wikilink")のチオクト酸アミド、[生薬](../Page/生薬.md "wikilink")成分の[リュウガン](../Page/リュウガン.md "wikilink")ニクエキスを配合した総合ビタミン剤（指定医薬部外品）「ポポンSローヤル」を発売した。
+2012年2月にはシリーズ品として、[鉄](../Page/鉄.md "wikilink")・[葉酸](https://ja.wikipedia.org/wiki/葉酸 "wikilink")・[カルシウム](../Page/カルシウム.md "wikilink")を含む11種類のビタミンと3種類の[ミネラル](../Page/ミネラル.md "wikilink")を配合した医薬品【指定第2類医薬品】「ポポンSプラス」を発売(TVCMでは2009年6月の薬事法改正に伴うテロップ内容が付いている）。さらに2013年6月には8種類のビタミンと2種類のミネラルに、[アミノ酸](https://ja.wikipedia.org/wiki/アミノ酸 "wikilink")などの栄養素が豊富に含まれている[ローヤルゼリー](../Page/ローヤルゼリー.md "wikilink")と[エネルギー](https://ja.wikipedia.org/wiki/エネルギー "wikilink")[代謝](../Page/代謝.md "wikilink")を促進する[α-リポ酸](https://ja.wikipedia.org/wiki/α-リポ酸 "wikilink")[誘導体](https://ja.wikipedia.org/wiki/誘導体 "wikilink")のチオクト酸アミド、[生薬](../Page/生薬.md "wikilink")成分の[リュウガン](../Page/リュウガン.md "wikilink")ニクエキスを配合した総合ビタミン剤（指定医薬部外品）「ポポンSローヤル」を発売した。
 
 2016年4月に塩野義製薬の日本国内におけるコンシューマーヘルスケア部門の分社化に伴い、シオノギヘルスケアへ移管された。
 
@@ -18,7 +18,7 @@
 ### 総合ビタミン剤
 
   - ポポンS【指定医薬部外品】
-  - ポポンSプラス【指定第2類医薬品】 - [2012年](../Page/2012年.md "wikilink")（平成24年）2月発売。「ポポンS」の処方をベースに新たに[シアノコバラミン](../Page/シアノコバラミン.md "wikilink")（[ビタミンB12](https://ja.wikipedia.org/wiki/ビタミンB12 "wikilink")）、葉酸、[炭酸マグネシウム](https://ja.wikipedia.org/wiki/炭酸マグネシウム "wikilink")、[フマル酸](../Page/フマル酸.md "wikilink")第一鉄（鉄）を加えた11種類のビタミンと3種類のミネラルを配合。60錠入りはチャック付パウチ包装としている（使用上の注意テロップは、TVCMにおいて薬事法改正に伴うテロップ内容を放映している（製造販売元：[生晃栄養薬品](https://ja.wikipedia.org/wiki/生晃栄養薬品 "wikilink")）。
+  - ポポンSプラス【指定第2類医薬品】 - [2012年](../Page/2012年.md "wikilink")（平成24年）2月発売。「ポポンS」の処方をベースに新たに[シアノコバラミン](../Page/シアノコバラミン.md "wikilink")（[ビタミンB12](https://ja.wikipedia.org/wiki/ビタミンB12 "wikilink")）、葉酸、[炭酸マグネシウム](../Page/炭酸マグネシウム.md "wikilink")、[フマル酸](../Page/フマル酸.md "wikilink")第一鉄（鉄）を加えた11種類のビタミンと3種類のミネラルを配合。60錠入りはチャック付パウチ包装としている（使用上の注意テロップは、TVCMにおいて薬事法改正に伴うテロップ内容を放映している（製造販売元：[生晃栄養薬品](https://ja.wikipedia.org/wiki/生晃栄養薬品 "wikilink")）。
 
 ### ビタミン含有保健剤
 

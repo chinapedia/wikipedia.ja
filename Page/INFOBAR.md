@@ -5,13 +5,13 @@
 
 ## 概要
 
-INFOBARは[au design projectの第](https://ja.wikipedia.org/wiki/au_design_project "wikilink")1弾の端末である。ベースモデルは三洋マルチメディア鳥取の[A5306ST](https://ja.wikipedia.org/wiki/A5306ST "wikilink")であり、性能面での差は、サブディスプレイの有無（A5306STにはあるが、INFOBARには無い）以外はほとんど見られない。[2002年](../Page/2002年.md "wikilink")5月17日から19日に開催された「ビジネスショウ 2002 TOKYO」に参考出品された[プロトモデル](https://ja.wikipedia.org/wiki/プロトタイプ "wikilink")「info.bar」がデザインのベースとなっている。[プロダクトデザイナー](https://ja.wikipedia.org/wiki/プロダクトデザイナー "wikilink")である[深澤直人](../Page/深澤直人.md "wikilink")がデザインした。ソフトウェアも端末デザインをイメージした、統一感のあるものとなっている。
+INFOBARは[au design projectの第](https://ja.wikipedia.org/wiki/au_design_project "wikilink")1弾の端末である。ベースモデルは三洋マルチメディア鳥取の[A5306ST](https://ja.wikipedia.org/wiki/A5306ST "wikilink")であり、性能面での差は、サブディスプレイの有無（A5306STにはあるが、INFOBARには無い）以外はほとんど見られない。[2002年](../Page/2002年.md "wikilink")5月17日から19日に開催された「ビジネスショウ 2002 TOKYO」に参考出品された[プロトモデル](../Page/プロトタイプ.md "wikilink")「info.bar」がデザインのベースとなっている。[プロダクトデザイナー](https://ja.wikipedia.org/wiki/プロダクトデザイナー "wikilink")である[深澤直人](../Page/深澤直人.md "wikilink")がデザインした。ソフトウェアも端末デザインをイメージした、統一感のあるものとなっている。
 
 筐体はマグネシウム製\[1\]のストレート式。外部メモリーは非対応。カメラは31万画素[CCD](../Page/CCDイメージセンサ.md "wikilink")。カラーバリエーションは、NISHIKIGOI（赤とベージュ。ボタン部には水色も）、ICHIMATSU（黒と白）、BUILDING（藍と銀）の3色。[2004年](../Page/2004年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")より、ANNIN（白）が新色として発売された。このカラーネーミングは、開発時に技術者が自然に呼び始めた名称をそのまま利用したものとなっている。INFOBARの反響は非常に大きく、発売日以降売り切れの店舗が続出した。
 
 なおこの機種は、鳥取三洋電機製端末としては最後となる、型番の末尾の記号が「ST」のモデルであり、以降の鳥取三洋電機製端末は大阪の三洋電機製端末と同じく、型番の末尾の記号は「SA」となっている。
 
-[2003年](../Page/2003年.md "wikilink")度[グッドデザイン賞](https://ja.wikipedia.org/wiki/グッドデザイン賞 "wikilink")選定\[2\]、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")には[ドイツ](../Page/ドイツ連邦.md "wikilink")・[iFデザイン賞](https://ja.wikipedia.org/wiki/iFデザイン賞 "wikilink")の「iFプロダクトデザイン賞」を受賞\[3\]。[2007年](../Page/2007年.md "wikilink")には[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[ニューヨーク近代美術館](../Page/ニューヨーク近代美術館.md "wikilink")\[4\]に、[2013年](../Page/2013年.md "wikilink")には同国の[インディアナポリス美術館](https://ja.wikipedia.org/wiki/インディアナポリス美術館 "wikilink")\[5\]にそれぞれ収蔵品として同機種が選定された。
+[2003年](../Page/2003年.md "wikilink")度[グッドデザイン賞](https://ja.wikipedia.org/wiki/グッドデザイン賞 "wikilink")選定\[2\]、[2005年](../Page/2005年.md "wikilink")には[ドイツ](../Page/ドイツ連邦.md "wikilink")・[iFデザイン賞](https://ja.wikipedia.org/wiki/iFデザイン賞 "wikilink")の「iFプロダクトデザイン賞」を受賞\[3\]。[2007年](../Page/2007年.md "wikilink")には[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[ニューヨーク近代美術館](../Page/ニューヨーク近代美術館.md "wikilink")\[4\]に、[2013年](../Page/2013年.md "wikilink")には同国の[インディアナポリス美術館](https://ja.wikipedia.org/wiki/インディアナポリス美術館 "wikilink")\[5\]にそれぞれ収蔵品として同機種が選定された。
 
 2007年12月1日には、デザインコンセプトを引き継ぎつつ最新技術を盛り込んだ新モデルとして[INFOBAR2](https://ja.wikipedia.org/wiki/INFOBAR2 "wikilink")が発売された。詳細は該当項目を参照されたい。
 
@@ -29,7 +29,7 @@ INFOBARは[au design projectの第](https://ja.wikipedia.org/wiki/au_design_proj
   - 2003年[12月26日](../Page/12月26日.md "wikilink") - [インプレス](../Page/インプレス.md "wikilink")「[ケータイ Watch](../Page/ケータイ_Watch.md "wikilink")」で「[読者が選ぶ ケータイ of the Year 2003](http://k-tai.impress.co.jp/static/enquete/year2003/result.htm)」を受賞
   - [2004年](../Page/2004年.md "wikilink")[2月26日](../Page/2月26日.md "wikilink") - KDDIより新色(ANNIN)が発表。
   - 2004年[4月24日](../Page/4月24日.md "wikilink") - ANNINが発売。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") - [iFデザイン賞](https://ja.wikipedia.org/wiki/iFデザイン賞 "wikilink")「iFプロダクトデザイン賞」を受賞。
+  - [2005年](../Page/2005年.md "wikilink") - [iFデザイン賞](https://ja.wikipedia.org/wiki/iFデザイン賞 "wikilink")「iFプロダクトデザイン賞」を受賞。
   - [2007年](../Page/2007年.md "wikilink")[1月15日](../Page/1月15日.md "wikilink") - [ニューヨーク近代美術館](../Page/ニューヨーク近代美術館.md "wikilink")収蔵品に選定。
   - [2012年](../Page/2012年.md "wikilink")[7月22日](../Page/7月22日.md "wikilink") - 本機種を含むCDMA 1Xシリーズのサービスが終了。翌日以後、携帯電話機として実質使用不可となる。
   - [2013年](../Page/2013年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink") - [インディアナポリス美術館](https://ja.wikipedia.org/wiki/インディアナポリス美術館 "wikilink")パーマネントコレクションに選定。

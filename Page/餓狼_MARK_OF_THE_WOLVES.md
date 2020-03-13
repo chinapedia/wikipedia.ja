@@ -3,7 +3,7 @@
 
 『**餓狼 MARK OF THE WOLVES**』（がろう マーク オブ ザ ウルヴス）は[1999年](../Page/1999年.md "wikilink")に[SNKが発売した](../Page/SNK_\(1978年設立の企業\).md "wikilink")2D対戦型格闘ゲーム。略称は『**餓狼MOW**』『**MOW**』など。キャラクターイラストは[TONKOが担当した](../Page/せんのあき.md "wikilink")。[MVS](../Page/Multi_Video_System.md "wikilink")（1999年11月26日登場）の容量は706[メガ](../Page/メガ.md "wikilink")。家庭用[ネオジオ](https://ja.wikipedia.org/wiki/ネオジオ "wikilink")版は688[メガ](../Page/メガ.md "wikilink")（容量圧縮による）。
 
-[2001年](../Page/2001年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")に[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")版が発売され、これがSNKが発売した最後の他社プラットフォーム向けの家庭用ソフトとなった。また、[SNKプレイモア](https://ja.wikipedia.org/wiki/SNKプレイモア "wikilink")から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[6月30日](../Page/6月30日.md "wikilink")に『[ネオジオオンラインコレクション](https://ja.wikipedia.org/wiki/ネオジオオンラインコレクション "wikilink")』第一弾として、[CEROレーティング](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")12歳以上対象の[PlayStation 2版が発売された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")（[マルチマッチングBB](https://ja.wikipedia.org/wiki/マルチマッチングBB "wikilink")対応、[2015年](../Page/2015年.md "wikilink")[6月17日](../Page/6月17日.md "wikilink")からは[PS2アーカイブスで配信開始](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")）。また、ネオジオスティック2（餓狼MOWバージョン）付きの限定版も発売された。[2009年](../Page/2009年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink")に[Xbox 360の](../Page/Xbox_360.md "wikilink")[XBLA版が配信](https://ja.wikipedia.org/wiki/Xbox_Live#Xbox_Live_Arcade "wikilink")。[2015年](../Page/2015年.md "wikilink")[2月19日](../Page/2月19日.md "wikilink")に[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")（[iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")/[Android](../Page/Android.md "wikilink")）版が配信。[2016年](../Page/2016年.md "wikilink")[12月7日](../Page/12月7日.md "wikilink")に[PlayStation 4](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")、[PlayStation Vita](https://ja.wikipedia.org/wiki/PlayStation_Vita "wikilink")、[Steam](../Page/Steam.md "wikilink")版（[Windows Vista以降対応](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink")、Steam版は英語版・音声のみ日本語\[1\]\[2\]）、[アケアカNEOGEO版では](https://ja.wikipedia.org/wiki/アーケードアーカイブス "wikilink")[2017年](../Page/2017年.md "wikilink")[5月11日](../Page/5月11日.md "wikilink")に[Nintendo Switch版が](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")、[2018年](../Page/2018年.md "wikilink")[8月16日](../Page/8月16日.md "wikilink")にPlayStation 4版と[Xbox One版がそれぞれ配信された](https://ja.wikipedia.org/wiki/Xbox_One "wikilink")。
+[2001年](../Page/2001年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")に[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")版が発売され、これがSNKが発売した最後の他社プラットフォーム向けの家庭用ソフトとなった。また、[SNKプレイモア](https://ja.wikipedia.org/wiki/SNKプレイモア "wikilink")から[2005年](../Page/2005年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink")に『[ネオジオオンラインコレクション](https://ja.wikipedia.org/wiki/ネオジオオンラインコレクション "wikilink")』第一弾として、[CEROレーティング](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")12歳以上対象の[PlayStation 2版が発売された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")（[マルチマッチングBB](https://ja.wikipedia.org/wiki/マルチマッチングBB "wikilink")対応、[2015年](../Page/2015年.md "wikilink")[6月17日](../Page/6月17日.md "wikilink")からは[PS2アーカイブスで配信開始](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")）。また、ネオジオスティック2（餓狼MOWバージョン）付きの限定版も発売された。[2009年](../Page/2009年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink")に[Xbox 360の](../Page/Xbox_360.md "wikilink")[XBLA版が配信](https://ja.wikipedia.org/wiki/Xbox_Live#Xbox_Live_Arcade "wikilink")。[2015年](../Page/2015年.md "wikilink")[2月19日](../Page/2月19日.md "wikilink")に[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")（[iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")/[Android](../Page/Android.md "wikilink")）版が配信。[2016年](../Page/2016年.md "wikilink")[12月7日](../Page/12月7日.md "wikilink")に[PlayStation 4](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")、[PlayStation Vita](https://ja.wikipedia.org/wiki/PlayStation_Vita "wikilink")、[Steam](../Page/Steam.md "wikilink")版（[Windows Vista以降対応](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink")、Steam版は英語版・音声のみ日本語\[1\]\[2\]）、[アケアカNEOGEO版では](https://ja.wikipedia.org/wiki/アーケードアーカイブス "wikilink")[2017年](../Page/2017年.md "wikilink")[5月11日](../Page/5月11日.md "wikilink")に[Nintendo Switch版が](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")、[2018年](../Page/2018年.md "wikilink")[8月16日](../Page/8月16日.md "wikilink")にPlayStation 4版と[Xbox One版がそれぞれ配信された](https://ja.wikipedia.org/wiki/Xbox_One "wikilink")。
 
 ## 概要
 
@@ -44,7 +44,7 @@
 
 テリー以外は全員新規のキャラクターで、本作のキャラクターは『[ザ・キング・オブ・ファイターズ](../Page/ザ・キング・オブ・ファイターズ.md "wikilink")』シリーズなどの外部作品にもたびたび登場している。なお、グラントとカインはボスキャラクターとして登場しているが、プレイヤーキャラクターとしても使用可能（アーケード版ではルーレットやコマンド入力、家庭用では最初から使用可能）。
 
-  - [ロック・ハワード](https://ja.wikipedia.org/wiki/ロック・ハワード "wikilink")［*Rock Howard*］
+  - [ロック・ハワード](../Page/ロック・ハワード.md "wikilink")［*Rock Howard*］
     [声](../Page/声優.md "wikilink") - [竹本英史](../Page/竹本英史.md "wikilink")
     本作の主人公で、[ギース・ハワード](../Page/ギース・ハワード.md "wikilink")の忘れ形見。テリーが育てたため、ギースの技とテリーの技を使うことができる。母を見捨てたギースのことは嫌っている。
     ギースの死から10年後、ロックにキング・オブ・ファイターズの招待状が届く。そこには「優勝すれば自分の母について『ある事』を教える」と書いてあった。ロックはキング・オブ・ファイターズに出場することを決める。
@@ -69,7 +69,7 @@
     声 - [花田光](../Page/花田光.md "wikilink")
     [極限流空手](../Page/極限流空手.md "wikilink")道場に道場破りとして挑み[リョウ・サカザキ](../Page/リョウ・サカザキ.md "wikilink")に大敗したあと、極限流空手の奥深さを知り、その強さに憧れ入門。現在は師範クラス。保守的なモラリストだが、どこか間の抜けた発言が目立つ。グリフォンマスクを珍しい鳥と勘違いして彼の怒りを買う。
     日本国外版では名前が「Khushnood Butt」に変更されている。
-  - [北斗丸](https://ja.wikipedia.org/wiki/北斗丸 "wikilink")［*Hokutomaru*］
+  - [北斗丸](../Page/北斗丸.md "wikilink")［*Hokutomaru*］
     声 - [竹内順子](../Page/竹内順子.md "wikilink")
     不知火流忍術を使う元気な少年。[アンディ・ボガード](../Page/アンディ・ボガード.md "wikilink")の弟子。
   - [B.ジェニー](../Page/B.ジェニー.md "wikilink")［*B. Jenet*］
@@ -113,7 +113,7 @@
 
 ## 関連項目
 
-  - [SNKの対戦型格闘ゲーム一覧](https://ja.wikipedia.org/wiki/SNKの対戦型格闘ゲーム一覧 "wikilink")
+  - [SNKの対戦型格闘ゲーム一覧](../Page/SNKの対戦型格闘ゲーム一覧.md "wikilink")
 
 ## 外部リンク
 

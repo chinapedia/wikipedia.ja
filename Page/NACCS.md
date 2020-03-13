@@ -1,7 +1,7 @@
 > この記事は[NACCS](https://ja.wikipedia.org/wiki/NACCS)から翻訳されています。
 
 
-**NACCS**（ナックス）とは、国際[貿易](../Page/貿易.md "wikilink")における、[通関](https://ja.wikipedia.org/wiki/通関 "wikilink")及び[輸入](https://ja.wikipedia.org/wiki/輸入 "wikilink")の際の[関税](https://ja.wikipedia.org/wiki/関税 "wikilink")の納付などを効率的に処理することを目的に構築された、[税関](../Page/税関.md "wikilink")官署、[運輸](https://ja.wikipedia.org/wiki/運輸 "wikilink")業者、[通関業者](../Page/通関業者.md "wikilink")、[倉庫](../Page/倉庫.md "wikilink")業者、[航空](../Page/航空.md "wikilink")会社、[船](https://ja.wikipedia.org/wiki/船 "wikilink")会社、[船舶](https://ja.wikipedia.org/wiki/船舶 "wikilink")代理店、[金融](../Page/金融.md "wikilink")機関等の相互を繋ぐ電子的情報通信システムである。正式名称は、「**輸出入・港湾関連情報処理システム**」（**Nippon Automated Cargo And Port Consolidated System**）。従前は、通関情報処理システムと呼ばれてきたが、港湾手続、食品衛生手続、動植物検疫手続、入国管理手続等の他省庁関係手続きにも業務を拡大することを見越して改称された。
+**NACCS**（ナックス）とは、国際[貿易](../Page/貿易.md "wikilink")における、[通関](../Page/通関.md "wikilink")及び[輸入](../Page/輸入.md "wikilink")の際の[関税](https://ja.wikipedia.org/wiki/関税 "wikilink")の納付などを効率的に処理することを目的に構築された、[税関](../Page/税関.md "wikilink")官署、[運輸](https://ja.wikipedia.org/wiki/運輸 "wikilink")業者、[通関業者](../Page/通関業者.md "wikilink")、[倉庫](../Page/倉庫.md "wikilink")業者、[航空](../Page/航空.md "wikilink")会社、[船](https://ja.wikipedia.org/wiki/船 "wikilink")会社、[船舶](https://ja.wikipedia.org/wiki/船舶 "wikilink")代理店、[金融](../Page/金融.md "wikilink")機関等の相互を繋ぐ電子的情報通信システムである。正式名称は、「**輸出入・港湾関連情報処理システム**」（**Nippon Automated Cargo And Port Consolidated System**）。従前は、通関情報処理システムと呼ばれてきたが、港湾手続、食品衛生手続、動植物検疫手続、入国管理手続等の他省庁関係手続きにも業務を拡大することを見越して改称された。
 
 NACCSにより[外国貨物](https://ja.wikipedia.org/wiki/外国貨物 "wikilink")の管理と[通関業務](https://ja.wikipedia.org/wiki/通関業務 "wikilink")は大幅に向上した。現在、[貨物](../Page/貨物.md "wikilink")の[通関業務](https://ja.wikipedia.org/wiki/通関業務 "wikilink")、外国貨物の管理はその大半が、このNACCSを使用して行われている。
 
@@ -15,7 +15,7 @@ NACCSは、[輸出入・港湾関連情報処理センター](https://ja.wikiped
 
   - Air-NACCS
 
-1978(昭和53)年8月より[成田空港にて稼動](https://ja.wikipedia.org/wiki/成田国際空港 "wikilink")。当初は輸入のみを対象にしていたが、1985(昭和60)年より輸出も行えるようになった。また、暫時システムの拡大と更改を繰り返し、現在は成田、関西、新千歳、仙台、羽田、名古屋、小松、広島、岡山及び福岡の10空港を含む37地区を対象としていた。
+1978(昭和53)年8月より[成田空港にて稼動](../Page/成田国際空港.md "wikilink")。当初は輸入のみを対象にしていたが、1985(昭和60)年より輸出も行えるようになった。また、暫時システムの拡大と更改を繰り返し、現在は成田、関西、新千歳、仙台、羽田、名古屋、小松、広島、岡山及び福岡の10空港を含む37地区を対象としていた。
 
   - Sea-NACCS
 
@@ -50,7 +50,7 @@ NACCSの主たる機能は以下の通り。
 
   - [貿易](../Page/貿易.md "wikilink")
   - [関税](https://ja.wikipedia.org/wiki/関税 "wikilink")
-  - [通関](https://ja.wikipedia.org/wiki/通関 "wikilink")
+  - [通関](../Page/通関.md "wikilink")
 
 ## 参考文献
 

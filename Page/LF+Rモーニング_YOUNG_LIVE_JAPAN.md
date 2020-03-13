@@ -33,7 +33,7 @@
 
 ### LF+Rウオッチャー（今夜のニッポン放送LF+Rの番組紹介）
 
-  - [松田大輔](https://ja.wikipedia.org/wiki/松田大輔 "wikilink")
+  - [松田大輔](../Page/松田大輔.md "wikilink")
   - [青木さやか](../Page/青木さやか.md "wikilink")
 
 ## 外部リンク

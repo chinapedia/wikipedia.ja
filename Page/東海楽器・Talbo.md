@@ -7,7 +7,7 @@
 
 ## 解説
 
-[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")、それまで[フェンダーや](https://ja.wikipedia.org/wiki/フェンダー_\(楽器メーカー\) "wikilink")[ギブソンのコピーモデル製造やその販売を中心としていた東海楽器は](../Page/ギブソン_\(楽器メーカー\).md "wikilink")、自社オリジナルのエレクトリックギターとして、独自のボディシェイプを持つTalboを発表した。ギターの素材は木材が一般的であるが、このTalboは「クイックレスポンス」「ロングサスティーン」「ノイズレス」を目的に、ボディの素材をアルミニウム合金にするという当時としては極めて斬新かつ先鋭的なギターであった（この他にも、後に東海楽器は[炭素繊維](../Page/炭素繊維.md "wikilink")を素材とした「MAT」を発表している）。
+[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")、それまで[フェンダーや](../Page/フェンダー_\(楽器メーカー\).md "wikilink")[ギブソンのコピーモデル製造やその販売を中心としていた東海楽器は](../Page/ギブソン_\(楽器メーカー\).md "wikilink")、自社オリジナルのエレクトリックギターとして、独自のボディシェイプを持つTalboを発表した。ギターの素材は木材が一般的であるが、このTalboは「クイックレスポンス」「ロングサスティーン」「ノイズレス」を目的に、ボディの素材をアルミニウム合金にするという当時としては極めて斬新かつ先鋭的なギターであった（この他にも、後に東海楽器は[炭素繊維](../Page/炭素繊維.md "wikilink")を素材とした「MAT」を発表している）。
 
 当初は2プライ構造で、上下に分かれた砂型に800℃以上の溶けたアルミニウムを流し込んで鋳造したものを重ねて溶接し、中空ボディの中に[発泡ウレタン](https://ja.wikipedia.org/wiki/発泡ウレタン "wikilink")を注入していた。やがて溶接のない1プライ構造の[エレクトリックベース](../Page/エレクトリックベース.md "wikilink")・「Talbo Bass」も発表し、現在はすべて1プライ構造となっている。
 
@@ -312,7 +312,7 @@ SG（シルバー・グレー）</p></td>
   - [岡野ハジメ](../Page/岡野ハジメ.md "wikilink")
   - [ホッピー神山](../Page/ホッピー神山.md "wikilink")
   - [ティム・ファリス](https://ja.wikipedia.org/wiki/ティム・ファリス "wikilink")（[:en:Tim Farriss](https://ja.wikipedia.org/wiki/:en:Tim_Farriss "wikilink")）[INXS](../Page/INXS.md "wikilink")
-  - [Hackai](https://ja.wikipedia.org/wiki/渡邉博海 "wikilink")（元：[有頂天](https://ja.wikipedia.org/wiki/有頂天_\(バンド\) "wikilink")）
+  - [Hackai](https://ja.wikipedia.org/wiki/渡邉博海 "wikilink")（元：[有頂天](../Page/有頂天_\(バンド\).md "wikilink")）
   - [今井寿](../Page/今井寿.md "wikilink")（[BUCK-TICK](../Page/BUCK-TICK.md "wikilink")）
   - [本田恭章](../Page/本田恭章.md "wikilink")
   - [ちわきまゆみ](../Page/ちわきまゆみ.md "wikilink")

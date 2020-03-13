@@ -145,7 +145,7 @@ GO!GO!ゴマちゃん</a></p></td>
 </tr>
 <tr class="even">
 <td><p>19:20</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ガールズクラフト" title="wikilink">ガールズクラフト</a></p></td>
+<td><p><a href="../Page/ガールズクラフト.md" title="wikilink">ガールズクラフト</a></p></td>
 <td><p>19:20</p></td>
 <td></td>
 <td></td>
@@ -222,7 +222,7 @@ GO!GO!ゴマちゃん</a></p></td>
 | ------------------------------------------------------------------------- | ------------- |
 | [Eダンスアカデミー](https://ja.wikipedia.org/wiki/Eダンスアカデミー "wikilink")           | 土曜09:30-10:00 |
 | [すイエんサー](https://ja.wikipedia.org/wiki/すイエんサー "wikilink")                 | 土曜10:00-10:25 |
-| [ガールズクラフト](https://ja.wikipedia.org/wiki/ガールズクラフト "wikilink")             | 土曜10:25-10:30 |
+| [ガールズクラフト](../Page/ガールズクラフト.md "wikilink")                                | 土曜10:25-10:30 |
 | [エイエイGO\!](https://ja.wikipedia.org/wiki/エイエイGO! "wikilink")              | 土曜11:00-11:20 |
 | [リトル・チャロ](https://ja.wikipedia.org/wiki/リトル・チャロ "wikilink")               | 土曜11:20-11:30 |
 | [いじめをノックアウト](https://ja.wikipedia.org/wiki/いじめをノックアウト "wikilink")         | 土曜11:30-11:40 |
@@ -371,7 +371,7 @@ GO!GO!ゴマちゃん</a></p></td>
 <td><p>ダンス</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ガールズクラフト" title="wikilink">ガールズクラフト</a></p></td>
+<td><p><a href="../Page/ガールズクラフト.md" title="wikilink">ガールズクラフト</a></p></td>
 <td><p>2014年度 - 継続</p></td>
 <td><p>クラフト</p></td>
 </tr>

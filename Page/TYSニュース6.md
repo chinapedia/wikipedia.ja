@@ -1,7 +1,7 @@
 > この記事は[TYS6](https://ja.wikipedia.org/wiki/TYS6)から翻訳されています。
 
 
-『**TYSニュース6**』（ティーワイエス ニュースシックス）は、[テレビ山口](../Page/テレビ山口.md "wikilink")で放送されていたローカル[ニュース番組](../Page/報道番組.md "wikilink")。1975年3月から10年半にわたって放送された『[TYS夕やけニュース（ショー）](https://ja.wikipedia.org/wiki/TYS夕やけニュースショー "wikilink")』の後継番組として、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[10月5日](../Page/10月5日.md "wikilink")にスタートし、[1992年](../Page/1992年.md "wikilink")秋まで続いた。
+『**TYSニュース6**』（ティーワイエス ニュースシックス）は、[テレビ山口](../Page/テレビ山口.md "wikilink")で放送されていたローカル[ニュース番組](../Page/報道番組.md "wikilink")。1975年3月から10年半にわたって放送された『[TYS夕やけニュース（ショー）](../Page/TYS夕やけニュースショー.md "wikilink")』の後継番組として、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[10月5日](../Page/10月5日.md "wikilink")にスタートし、[1992年](../Page/1992年.md "wikilink")秋まで続いた。
 
 スタート時は18:00から18:30までの放送だったが、1990年4月2日に『[JNNニュースの森](../Page/JNNニュースの森.md "wikilink")』がスタートしたことに伴い、18:30から19:00に放送時間が変更された。また、時期不明だが、土曜日にも放送していた。番組の終了後、TYSの夕方のニュースは『[TYSナウ](../Page/TYSナウ.md "wikilink")』へと引き継がれた。
 

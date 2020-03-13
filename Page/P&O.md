@@ -13,7 +13,7 @@
 
 ### 拡大
 
-その後[1842年](../Page/1842年.md "wikilink")にはイギリスの最大の植民地である[イギリス領インドへの旅客サービスを](../Page/イギリス領インド帝国.md "wikilink")、[1845年](../Page/1845年.md "wikilink")には同じく植民地である[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")と[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")への旅客サービスも開始。その後も[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")や[中華民国](https://ja.wikipedia.org/wiki/中華民国 "wikilink")など世界中にその航路を広げた。ヨーロッパ-日本間の就航は1860年\[1\]。第二次世界大戦まではP\&Oの利益の源泉は政府との郵便契約であったが、商用船や旅客船へも業容を拡大した。
+その後[1842年](../Page/1842年.md "wikilink")にはイギリスの最大の植民地である[イギリス領インドへの旅客サービスを](../Page/イギリス領インド帝国.md "wikilink")、[1845年](../Page/1845年.md "wikilink")には同じく植民地である[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")と[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")への旅客サービスも開始。その後も[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")や[中華民国](../Page/中華民国.md "wikilink")など世界中にその航路を広げた。ヨーロッパ-日本間の就航は1860年\[1\]。第二次世界大戦まではP\&Oの利益の源泉は政府との郵便契約であったが、商用船や旅客船へも業容を拡大した。
 
 [1914年](../Page/1914年.md "wikilink")には当時イギリス最大の海運会社であったブリティッシュ・インディア・スチーム・ナビゲーション・カンパニー（British India Steam Navigation Company）を買収し、[1918年](../Page/1918年.md "wikilink")にはイギリス・[オーストラリア](../Page/オーストラリア.md "wikilink")間の郵便運送業のパートナーであったオリエント・ライン（Orient Line）の経営も掌握した。[1920年代](../Page/1920年代.md "wikilink")半ばには相次ぐ海運会社の買収で船舶数は500隻とピークに達している。[1920年](../Page/1920年.md "wikilink")には独自の銀行（P\&O銀行）も設立したが[1927年](../Page/1927年.md "wikilink")には売却している。一方で戦争による被害も大きく、[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")では85隻を、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")では179隻を喪失した。
 
@@ -51,7 +51,7 @@ P\&OCLは[1996年](../Page/1996年.md "wikilink")に[オランダ](https://ja.wi
 
 しかし[1999年](../Page/1999年.md "wikilink")3月にP\&Oは海運・輸送業に資源を集中する決定を行い、これ以後多くの事業は売却・廃止された。オーストラリアでのP\&Oの活動から生まれた港運業P\&Oポーツ（P\&O Ports）と冷蔵倉庫・運送業P\&Oコールド・ロジスティクス（P\&O Cold Logistics）は、現地では市場を主導する地位を得ている。
 
-1999年以後、グループの様々な部門の売却が相次いだ。[2002年](../Page/2002年.md "wikilink")[10月23日](../Page/10月23日.md "wikilink")、客船[クルーズ](../Page/クルーズ.md "wikilink")部門である「P\&Oプリンセス・クルーズ」（P\&O Princess Cruises plc.）は分社化され、[2003年](../Page/2003年.md "wikilink")4月に[カーニバル・コーポレーション](../Page/カーニバル・コーポレーション.md "wikilink")（Carnival Corporation）に売却され「Carnival Corporation & plc」となった。[2004年](../Page/2004年.md "wikilink")6月、P\&Oは「P\&O Nedlloyd」社の株式の25%を売却し、さらに[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")6月にはP\&O Nedlloydは[デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink")の海運会社[A.P. モラー・マースク](../Page/A.P._モラー・マースク.md "wikilink")（売上高では世界一）に買収されている。
+1999年以後、グループの様々な部門の売却が相次いだ。[2002年](../Page/2002年.md "wikilink")[10月23日](../Page/10月23日.md "wikilink")、客船[クルーズ](../Page/クルーズ.md "wikilink")部門である「P\&Oプリンセス・クルーズ」（P\&O Princess Cruises plc.）は分社化され、[2003年](../Page/2003年.md "wikilink")4月に[カーニバル・コーポレーション](../Page/カーニバル・コーポレーション.md "wikilink")（Carnival Corporation）に売却され「Carnival Corporation & plc」となった。[2004年](../Page/2004年.md "wikilink")6月、P\&Oは「P\&O Nedlloyd」社の株式の25%を売却し、さらに[2005年](../Page/2005年.md "wikilink")6月にはP\&O Nedlloydは[デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink")の海運会社[A.P. モラー・マースク](../Page/A.P._モラー・マースク.md "wikilink")（売上高では世界一）に買収されている。
 
 ### DPWによる買収
 

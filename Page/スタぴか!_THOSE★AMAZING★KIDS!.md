@@ -1,11 +1,11 @@
 > この記事は[! THOSEAMAZINGKIDS!](https://ja.wikipedia.org/wiki/!_THOSEAMAZINGKIDS!)から翻訳されています。
 
 
-『**スタぴか\! THOSE★AMAZING★KIDS\!**』は、一部[日本テレビ系列局で放送されていた](../Page/日本テレビネットワーク協議会.md "wikilink")[読売テレビ製作の](../Page/讀賣テレビ放送.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。全150回\[1\]。製作局の読売テレビでは[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで、毎週日曜 10:54 - 11:24 （[日本標準時](../Page/日本標準時.md "wikilink")）に放送。
+『**スタぴか\! THOSE★AMAZING★KIDS\!**』は、一部[日本テレビ系列局で放送されていた](../Page/日本テレビネットワーク協議会.md "wikilink")[読売テレビ製作の](../Page/讀賣テレビ放送.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。全150回\[1\]。製作局の読売テレビでは[2005年](../Page/2005年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで、毎週日曜 10:54 - 11:24 （[日本標準時](../Page/日本標準時.md "wikilink")）に放送。
 
 ## 概要
 
-未来のスターを目指している「スタぴかキッズ」が、スタジオやロケ先でさまざまな企画に挑戦する模様を放送していた番組。スタぴかキッズは番組のオーディションで選ばれた一般参加の子供たち20人で（後に25人に増員）、そのうちの12人前後が輪番出演していた\[2\]。司会は[山口智充](../Page/山口智充.md "wikilink")（[DonDokoDon](../Page/DonDokoDon.md "wikilink")）と[友近](../Page/友近.md "wikilink")が、リポーターはお笑いコンビの[レギュラーが](https://ja.wikipedia.org/wiki/レギュラー_\(お笑い\) "wikilink")、ナレーターは[松尾明子](https://ja.wikipedia.org/wiki/松尾明子 "wikilink")が務めていた。
+未来のスターを目指している「スタぴかキッズ」が、スタジオやロケ先でさまざまな企画に挑戦する模様を放送していた番組。スタぴかキッズは番組のオーディションで選ばれた一般参加の子供たち20人で（後に25人に増員）、そのうちの12人前後が輪番出演していた\[2\]。司会は[山口智充](../Page/山口智充.md "wikilink")（[DonDokoDon](../Page/DonDokoDon.md "wikilink")）と[友近](../Page/友近.md "wikilink")が、リポーターはお笑いコンビの[レギュラーが](../Page/レギュラー_\(お笑い\).md "wikilink")、ナレーターは[松尾明子](https://ja.wikipedia.org/wiki/松尾明子 "wikilink")が務めていた。
 
 番組スポンサーはネット局ごとに異なり、読売テレビでは[関西電力](../Page/関西電力.md "wikilink")の一社提供で放送されていた。
 
@@ -36,7 +36,7 @@
   - プロデューサー：太田匡隆（ytv）、片山勝三（吉本興業）、横田和光（オフィスりぷる）
   - チーフプロデューサー：竹内伸治（ytv）
   - 技術協力：テレプロ・カム、[大阪共立](https://ja.wikipedia.org/wiki/共立_\(照明\)#共立グループ法人 "wikilink")、[東通](https://ja.wikipedia.org/wiki/東通大阪支社 "wikilink")、ハートス、[サウンドエフェクト](../Page/サウンドエフェクト.md "wikilink")、[マウス](../Page/マウス_\(ポストプロダクション\).md "wikilink")、[読売テレビ映像](https://ja.wikipedia.org/wiki/読売テレビ映像 "wikilink")
-  - 美術協力：[つむら工芸](https://ja.wikipedia.org/wiki/つむら工芸 "wikilink")、[高津商会](https://ja.wikipedia.org/wiki/高津商会 "wikilink")
+  - 美術協力：[つむら工芸](../Page/つむら工芸.md "wikilink")、[高津商会](https://ja.wikipedia.org/wiki/高津商会 "wikilink")
   - 制作協力：[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")、[オフィスりぷる](../Page/オフィスりぷる.md "wikilink")
   - 制作著作：ytv（読売テレビ）
 

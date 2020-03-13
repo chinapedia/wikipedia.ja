@@ -19,9 +19,9 @@
 
 [芝端康二](https://ja.wikipedia.org/wiki/芝端康二 "wikilink")が最初に提案した四輪駆動システムは前輪と後輪の間で駆動力を配分するものであった。しかし、それはすでに他社が開発に着手しており、ホンダとしての独自性がないとして上層部に却下された。芝端は左右の車輪間での駆動力配分の可能性を見いだし、四輪駆動の[シビックを改造し](../Page/ホンダ・シビック.md "wikilink")、後輪の片側だけに駆動力を伝える三輪駆動の試作車で実走し後輪の左右でのトルク配分の効果を確認し、本格的な開発に至った。
 
-その後、2代目[レジェンドに後輪左右駆動力配分システムを搭載した試作車を開発し](../Page/ホンダ・レジェンド.md "wikilink")、[1991年](../Page/1991年.md "wikilink")には[東京モーターショー](../Page/東京モーターショー.md "wikilink")で[コンセプトカー](../Page/コンセプトカー.md "wikilink")である[FS-Xを発表](https://ja.wikipedia.org/wiki/ホンダ・FS-X "wikilink")。3代目[インテグラにこのシステムを搭載すべく開発を進めたが](https://ja.wikipedia.org/wiki/ホンダ・インテグラ "wikilink")、市販を断念した\[7\]。
+その後、2代目[レジェンドに後輪左右駆動力配分システムを搭載した試作車を開発し](../Page/ホンダ・レジェンド.md "wikilink")、[1991年](../Page/1991年.md "wikilink")には[東京モーターショー](../Page/東京モーターショー.md "wikilink")で[コンセプトカー](../Page/コンセプトカー.md "wikilink")である[FS-Xを発表](https://ja.wikipedia.org/wiki/ホンダ・FS-X "wikilink")。3代目[インテグラにこのシステムを搭載すべく開発を進めたが](../Page/ホンダ・インテグラ.md "wikilink")、市販を断念した\[7\]。
 
-[1996年](../Page/1996年.md "wikilink")には左右駆動力配分システムを後輪ではなく前輪に搭載した[ATTS](https://ja.wikipedia.org/wiki/ATTS "wikilink")を[プレリュードで市販化した](../Page/ホンダ・プレリュード.md "wikilink")。
+[1996年](../Page/1996年.md "wikilink")には左右駆動力配分システムを後輪ではなく前輪に搭載した[ATTS](../Page/ATTS.md "wikilink")を[プレリュードで市販化した](../Page/ホンダ・プレリュード.md "wikilink")。
 
 ## 搭載車種
 

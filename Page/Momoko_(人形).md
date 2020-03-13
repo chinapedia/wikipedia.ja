@@ -159,7 +159,7 @@
 
 ### セキグチ版
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")から、企画ペットワークス、製造販売セキグチで販売されている着せ替え人形で、 Momokoドールという商品名で発売している。
+[2005年](../Page/2005年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")から、企画ペットワークス、製造販売セキグチで販売されている着せ替え人形で、 Momokoドールという商品名で発売している。
 
 ボディが[CoCoドール](https://ja.wikipedia.org/wiki/CoCoドール "wikilink")ボディから専用ボディに変更され、ボディの分割線が目立ちにくいアンダーバストの位置に移動されたほか、可動部分が強化され、首をかしげるポーズや、膝をそろえて座るポーズをつけられるようになっている。 フェイス仕様もアイプリントが左サイドグランスとセンターアイに加えて右サイドグランスが増え、リップがオープンマウスのものもリリースされるようになる。
 
@@ -488,7 +488,7 @@
 
 ### コラボレーション
 
-  - [お船chan](https://ja.wikipedia.org/wiki/お船chan "wikilink")
+  - [お船chan](../Page/お船chan.md "wikilink")
 
 2004年9月発売
 

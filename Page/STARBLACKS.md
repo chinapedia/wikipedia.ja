@@ -1,7 +1,7 @@
 > この記事は[STARBLACKS](https://ja.wikipedia.org/wiki/STARBLACKS)から翻訳されています。
 
 
-『**STARBLACKS**』は、[槙ようこ](../Page/槙ようこ.md "wikilink")による日本の[少女漫画](../Page/少女漫画.md "wikilink")作品。サブタイトルは「**舞い降りた伝説の女神**」。[集英社](../Page/集英社.md "wikilink")の『[りぼん](https://ja.wikipedia.org/wiki/りぼん "wikilink")』において[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")4月号から2005年12月号まで連載された。タイトルは「[スターバックス](../Page/スターバックス.md "wikilink")」のもじりである。略し方は「スタック」「スタブラ」「スタクー」など。
+『**STARBLACKS**』は、[槙ようこ](../Page/槙ようこ.md "wikilink")による日本の[少女漫画](../Page/少女漫画.md "wikilink")作品。サブタイトルは「**舞い降りた伝説の女神**」。[集英社](../Page/集英社.md "wikilink")の『[りぼん](https://ja.wikipedia.org/wiki/りぼん "wikilink")』において[2005年](../Page/2005年.md "wikilink")4月号から2005年12月号まで連載された。タイトルは「[スターバックス](../Page/スターバックス.md "wikilink")」のもじりである。略し方は「スタック」「スタブラ」「スタクー」など。
 
 ## 概要
 

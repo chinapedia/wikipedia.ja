@@ -1,11 +1,11 @@
 > この記事は[PEARL \(\)](https://ja.wikipedia.org/wiki/PEARL_\(\))から翻訳されています。
 
 
-**PEARL**（パール）は、**[田村直美](https://ja.wikipedia.org/wiki/田村直美 "wikilink")(SHO-TA)**を中心としたロックバンドである。
+**PEARL**（パール）は、**[田村直美](../Page/田村直美.md "wikilink")(SHO-TA)**を中心としたロックバンドである。
 
 ## 概要
 
-名古屋[E.L.L.](https://ja.wikipedia.org/wiki/E.L.L. "wikilink")を中心に活躍していたバンド『STEP』を母体に結成された。バンド名の由来は、田村の敬愛する[ジャニス・ジョプリン](https://ja.wikipedia.org/wiki/ジャニス・ジョプリン "wikilink")のラストアルバム『[PEARL](../Page/パール_\(アルバム\).md "wikilink")』から。
+名古屋[E.L.L.](https://ja.wikipedia.org/wiki/E.L.L. "wikilink")を中心に活躍していたバンド『STEP』を母体に結成された。バンド名の由来は、田村の敬愛する[ジャニス・ジョプリン](../Page/ジャニス・ジョプリン.md "wikilink")のラストアルバム『[PEARL](../Page/パール_\(アルバム\).md "wikilink")』から。
 
 当初はバンドとしてデビューしたが、メンバーが相次いで脱退し、4枚目のアルバムを出す頃にはSHO-TA一人になっていた。[1994年](../Page/1994年.md "wikilink")から、田村がソロとして活動するようになり、PEARLは消滅した。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、新たにメンバーで、バンドとして活動を再開した。結成20周年となる2007年12月12日にベストアルバムをリリースし、12月16日名古屋[E.L.L.](https://ja.wikipedia.org/wiki/E.L.L. "wikilink")、12月17日[渋谷O-EASTでライブを行った](https://ja.wikipedia.org/wiki/Shibuya_O-East "wikilink")。
 
@@ -13,7 +13,7 @@
 
 ### 初期PEARL
 
-  - [田村直美](https://ja.wikipedia.org/wiki/田村直美 "wikilink")（SHO-TA） ボーカル
+  - [田村直美](../Page/田村直美.md "wikilink")（SHO-TA） ボーカル
   - [大橋勇](../Page/大橋勇武.md "wikilink")（KAZUYA） ギター担当。→[1988年](../Page/1988年.md "wikilink")[5月31日](../Page/5月31日.md "wikilink")脱退
   - 大野進（未知樹(MICHIKI)） [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。→[1989年](../Page/1989年.md "wikilink")[4月27日](../Page/4月27日.md "wikilink")脱退
   - [宮本ひろ美](https://ja.wikipedia.org/wiki/宮本ひろ美 "wikilink")（HONEY）[ドラムス担当](../Page/ドラムセット.md "wikilink")。→[1989年](../Page/1989年.md "wikilink")[7月31日](../Page/7月31日.md "wikilink")脱退
@@ -21,7 +21,7 @@
 
 ### 新生PEARL
 
-  - [田村直美](https://ja.wikipedia.org/wiki/田村直美 "wikilink")（SHO-TA） ボーカル担当。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")出身。
+  - [田村直美](../Page/田村直美.md "wikilink")（SHO-TA） ボーカル担当。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")出身。
   - [カーマイン・アピス](../Page/カーマイン・アピス.md "wikilink") (Carmine Appice) [ドラムス担当](../Page/ドラムセット.md "wikilink")。[アメリカ出身](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")
   - [トニー・フランクリン](../Page/トニー・フランクリン.md "wikilink") (Tony Franklin) [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")出身
   - [北島健二](../Page/北島健二.md "wikilink") （KENNY）ギター担当。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")出身。
@@ -266,7 +266,7 @@
 
 :\# LIFE
 
-**1994 「[田村直美](https://ja.wikipedia.org/wiki/田村直美 "wikilink")」として活動開始**
+**1994 「[田村直美](../Page/田村直美.md "wikilink")」として活動開始**
 
   - 『[SIXTEEN GEMS](https://ja.wikipedia.org/wiki/SIXTEEN_GEMS "wikilink")』ベスト盤 (1995.08.21)
 

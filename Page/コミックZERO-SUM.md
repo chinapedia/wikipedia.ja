@@ -1,13 +1,13 @@
 > この記事は[ZERO-SUM](https://ja.wikipedia.org/wiki/ZERO-SUM)から翻訳されています。
 
 
-『**コミックZERO-SUM**』（コミックゼロサム）は、[一迅社](https://ja.wikipedia.org/wiki/一迅社 "wikilink")（旧：一賽舎）発行の月刊[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")雑誌。
+『**コミックZERO-SUM**』（コミックゼロサム）は、[一迅社](../Page/一迅社.md "wikilink")（旧：一賽舎）発行の月刊[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")雑誌。
 
 ## 概要
 
 メインターゲットは女性である\[1\]。[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")発行の『[月刊Gファンタジー](../Page/月刊Gファンタジー.md "wikilink")』の当時のメイン作家、峰倉かずや、高河ゆん、遠藤海成等を引き抜く形で、一賽舎より2002年3月に創刊された（詳細は[エニックスお家騒動](../Page/エニックスお家騒動.md "wikilink")を参照）。毎月28日発売。増刊として季刊誌『[コミックZERO-SUM増刊WARD](../Page/コミックZERO-SUM増刊WARD.md "wikilink")』があった（2015年休刊）。
 
-無料オンラインマガジン『[ゼロサムオンライン](https://ja.wikipedia.org/wiki/ゼロサムオンライン "wikilink")』が2011年5月10日に配信を開始した\[2\]。
+無料オンラインマガジン『[ゼロサムオンライン](../Page/ゼロサムオンライン.md "wikilink")』が2011年5月10日に配信を開始した\[2\]。
 
   - 峰倉かずや作「最遊記RELOAD」をメイン作品として据える一方、新人発掘、他社作家の引き抜きなどにも精力的。またしばしば誌上で連載作品のオリジナルDVD、ドラマCDなどのグッズも発売される。
   - 他社・他誌の連載作品の続編を掲載するケースも多い（例：「コーセルテルの竜術士物語」、「最遊記」、「嵐雪記」など）。
@@ -79,7 +79,7 @@
   - [吉祥7](https://ja.wikipedia.org/wiki/吉祥7 "wikilink")（[天河藍](https://ja.wikipedia.org/wiki/天河藍 "wikilink")、原作：[里羅琴音](https://ja.wikipedia.org/wiki/里羅琴音 "wikilink")）
   - [共鳴せよ\!私立轟高校図書委員会](../Page/共鳴せよ!私立轟高校図書委員会.md "wikilink")（[D・キッサン](https://ja.wikipedia.org/wiki/D・キッサン "wikilink")）
   - [釘付け鎖スピシャス](https://ja.wikipedia.org/wiki/釘付け鎖スピシャス "wikilink")（[芹川豆](https://ja.wikipedia.org/wiki/芹川豆 "wikilink")）
-  - [グリオットの眠り姫](https://ja.wikipedia.org/wiki/グリオットの眠り姫 "wikilink")（[藤村あゆみ](https://ja.wikipedia.org/wiki/藤村あゆみ "wikilink")、原作：[霜月はるか](https://ja.wikipedia.org/wiki/霜月はるか "wikilink")&[日山尚](https://ja.wikipedia.org/wiki/日山尚 "wikilink")）
+  - [グリオットの眠り姫](https://ja.wikipedia.org/wiki/グリオットの眠り姫 "wikilink")（[藤村あゆみ](https://ja.wikipedia.org/wiki/藤村あゆみ "wikilink")、原作：[霜月はるか](../Page/霜月はるか.md "wikilink")&[日山尚](https://ja.wikipedia.org/wiki/日山尚 "wikilink")）
   - [CHRONOS-DEEP-](https://ja.wikipedia.org/wiki/CHRONOS-DEEP- "wikilink")（[相川有](https://ja.wikipedia.org/wiki/相川有 "wikilink")）
   - [廃虚サークル](https://ja.wikipedia.org/wiki/廃虚サークル "wikilink")（[渡辺ゆうな](https://ja.wikipedia.org/wiki/渡辺ゆうな "wikilink")、原作：[ゆうきあずさ](../Page/ゆうきあずさ.md "wikilink")）
   - [クラブクライム](https://ja.wikipedia.org/wiki/クラブクライム "wikilink")（[凛野ミキ](https://ja.wikipedia.org/wiki/凛野ミキ "wikilink")）
@@ -143,7 +143,7 @@
 ### は行
 
   - [伯爵家御用達](https://ja.wikipedia.org/wiki/伯爵家御用達 "wikilink")（[篠原花那](https://ja.wikipedia.org/wiki/篠原花那 "wikilink")、原作：[高殿円](../Page/高殿円.md "wikilink")）
-  - [幕末Rock-howling soul-](https://ja.wikipedia.org/wiki/幕末Rock#漫画 "wikilink")（[上田信舟](../Page/上田信舟.md "wikilink")、原作：[マーベラス](https://ja.wikipedia.org/wiki/マーベラス_\(企業\) "wikilink")）
+  - [幕末Rock-howling soul-](https://ja.wikipedia.org/wiki/幕末Rock#漫画 "wikilink")（[上田信舟](../Page/上田信舟.md "wikilink")、原作：[マーベラス](../Page/マーベラス_\(企業\).md "wikilink")）
   - [ハスク・エディン　husk of Eden](https://ja.wikipedia.org/wiki/ハスク・エディン_husk_of_Eden "wikilink")（[如月芳規](https://ja.wikipedia.org/wiki/如月芳規 "wikilink")）
   - [バトラビッツ](https://ja.wikipedia.org/wiki/バトラビッツ "wikilink")（[雨市](https://ja.wikipedia.org/wiki/雨市 "wikilink")）
   - [華園ファンタジカ](https://ja.wikipedia.org/wiki/華園ファンタジカ "wikilink")（[上田信舟](../Page/上田信舟.md "wikilink")）

@@ -12,7 +12,7 @@
 
 同設計局は戦後[M-4をはじめとする大型](../Page/M-4_\(航空機\).md "wikilink")[爆撃機](../Page/爆撃機.md "wikilink")を製作し、西側に「ボマー・ギャップ」論を生み出させた。[1966年](../Page/1966年.md "wikilink")には、**設計局「試作機械製造工場」**(****)と改称された。
 
-[ソ連の崩壊に伴い](../Page/ソ連崩壊.md "wikilink")、独立したロシア連邦の[企業](../Page/企業.md "wikilink")となった。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")現在では宇宙関係の航空機も継続しており、[愛知万博にもその実物大模型等が展示されている](../Page/2005年日本国際博覧会.md "wikilink")。また、[M-101Tグジェーリのような小型](https://ja.wikipedia.org/wiki/M-101_\(航空機\) "wikilink")[民間機](https://ja.wikipedia.org/wiki/民間機 "wikilink")の開発にも取り組んでいる。
+[ソ連の崩壊に伴い](../Page/ソ連崩壊.md "wikilink")、独立したロシア連邦の[企業](../Page/企業.md "wikilink")となった。[2005年](../Page/2005年.md "wikilink")現在では宇宙関係の航空機も継続しており、[愛知万博にもその実物大模型等が展示されている](../Page/2005年日本国際博覧会.md "wikilink")。また、[M-101Tグジェーリのような小型](https://ja.wikipedia.org/wiki/M-101_\(航空機\) "wikilink")[民間機](https://ja.wikipedia.org/wiki/民間機 "wikilink")の開発にも取り組んでいる。
 
 2014年7月3日、取締役会において[イリューシンとの融合が決定されたことが発表された](../Page/S・V・イリユーシン記念航空複合体.md "wikilink")。両社は統一航空機製造会社の輸送機におけるビジネスユニットを形成するために協力するという\[1\]\[2\]。
 

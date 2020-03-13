@@ -1,7 +1,7 @@
 > この記事は[GNUstep](https://ja.wikipedia.org/wiki/GNUstep)から翻訳されています。
 
 
-**GNUstep**（グニューステップ）は、[NeXT](../Page/NeXT.md "wikilink")の[OPENSTEP](../Page/OPENSTEP.md "wikilink") [Objective-C](../Page/Objective-C.md "wikilink") ライブラリ(フレームワーク)、[ウィジェット・ツールキット](https://ja.wikipedia.org/wiki/ウィジェット・ツールキット "wikilink")、アプリケーション開発ツール群を[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")として実装したものである。[Unix系](../Page/Unix系.md "wikilink")[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")だけでなく[Microsoft Windowsでも動作する](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。[GNUプロジェクト](../Page/GNUプロジェクト.md "wikilink")の一部でもある。
+**GNUstep**（グニューステップ）は、[NeXT](../Page/NeXT.md "wikilink")の[OPENSTEP](../Page/OPENSTEP.md "wikilink") [Objective-C](../Page/Objective-C.md "wikilink") ライブラリ(フレームワーク)、[ウィジェット・ツールキット](../Page/ウィジェット・ツールキット.md "wikilink")、アプリケーション開発ツール群を[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")として実装したものである。[Unix系](../Page/Unix系.md "wikilink")[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")だけでなく[Microsoft Windowsでも動作する](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。[GNUプロジェクト](../Page/GNUプロジェクト.md "wikilink")の一部でもある。
 
 GNUstepは、[NeXTのOPENSTEP仕様に完全互換なプラットフォームにまたがったオブジェクト指向開発環境を備えている](../Page/NEXTSTEP.md "wikilink")（NeXT社は[アップルコンピュータに買収された](../Page/アップル_\(企業\).md "wikilink")）。アップルと同様GNUstepは[Java](https://ja.wikipedia.org/wiki/Java "wikilink")インターフェイスを持ち、同時に[Ruby](../Page/Ruby.md "wikilink")\[1\]や[Scheme](../Page/Scheme.md "wikilink")とも接続できる。 GNUstepの[アプリケーション](../Page/アプリケーションソフトウェア.md "wikilink")[インタフェースは](../Page/インタフェース_\(情報技術\).md "wikilink")[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")の[Cocoa](../Page/Cocoa.md "wikilink")のインタフェースと根幹は同じ（NeXTとOPENSTEP）である。GNUstepの発祥はCocoaより先であった。
 

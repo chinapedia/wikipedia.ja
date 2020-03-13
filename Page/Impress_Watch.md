@@ -5,7 +5,7 @@
 
 ## 概要
 
-インプレスは、当時インターネット情報誌「[iNTERNET magazine](https://ja.wikipedia.org/wiki/iNTERNET_magazine "wikilink")」を刊行していたが、雑誌媒体であるがゆえに速報性に限界を感じていた。そこで制作・配布コストを勘案し、速報性に優れる電子メールを使った日本初の電子メール新聞「INTERNET Watch」を[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[11月30日](../Page/11月30日.md "wikilink")にプレ創刊、[1996年](../Page/1996年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")に正式創刊（月額300円）し、[メールマガジン](../Page/メールマガジン.md "wikilink")という分野を作り上げた\[1\]。同年[7月22日](../Page/7月22日.md "wikilink")には「PC Watch」も創刊、同時にWebマガジンも開始し以後IT系ニュースサイトの第一線を走り続けている。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")10月から[2014年](../Page/2014年.md "wikilink")6月までは事業分割され株式会社Impress Watchが運営を行っていたが、同社は2014年7月1日に株式会社インプレスジャパンに吸収合併され、現在は株式会社インプレス（株式会社インプレスジャパンが商号変更）の運営になっている。
+インプレスは、当時インターネット情報誌「[iNTERNET magazine](https://ja.wikipedia.org/wiki/iNTERNET_magazine "wikilink")」を刊行していたが、雑誌媒体であるがゆえに速報性に限界を感じていた。そこで制作・配布コストを勘案し、速報性に優れる電子メールを使った日本初の電子メール新聞「INTERNET Watch」を[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[11月30日](../Page/11月30日.md "wikilink")にプレ創刊、[1996年](../Page/1996年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")に正式創刊（月額300円）し、[メールマガジン](../Page/メールマガジン.md "wikilink")という分野を作り上げた\[1\]。同年[7月22日](../Page/7月22日.md "wikilink")には「PC Watch」も創刊、同時にWebマガジンも開始し以後IT系ニュースサイトの第一線を走り続けている。[2005年](../Page/2005年.md "wikilink")10月から[2014年](../Page/2014年.md "wikilink")6月までは事業分割され株式会社Impress Watchが運営を行っていたが、同社は2014年7月1日に株式会社インプレスジャパンに吸収合併され、現在は株式会社インプレス（株式会社インプレスジャパンが商号変更）の運営になっている。
 
 INTERNET Watch の生みの親は、「できるシリーズ」を発案した[山下憲治](https://ja.wikipedia.org/wiki/山下憲治 "wikilink")である。日本のメールマガジンの広告が5行を基本とするのは、INTERNET Watch での山下の発案が発祥とされている\[2\]\[3\]。
 

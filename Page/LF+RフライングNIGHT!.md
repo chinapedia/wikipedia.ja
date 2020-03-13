@@ -22,7 +22,7 @@
 ## 箱番組
 
   - 「[独占\!\!Jリーグエキスプレス](../Page/独占!!Jリーグエキスプレス.md "wikilink")」→「[Jリーグ totoゴール・フラッシュ\!](https://ja.wikipedia.org/wiki/Jリーグ_totoゴール・フラッシュ! "wikilink")」
-  - 「[V6のカミセンミュージアム](https://ja.wikipedia.org/wiki/V6のカミセンミュージアム "wikilink")」(MC:[V6](../Page/V6_\(グループ\).md "wikilink")・[Coming Century](../Page/V6_\(グループ\).md "wikilink")（[森田剛](https://ja.wikipedia.org/wiki/森田剛 "wikilink"),[三宅健](../Page/三宅健.md "wikilink"),[岡田准一](../Page/岡田准一.md "wikilink")）
+  - 「[V6のカミセンミュージアム](../Page/V6のカミセンミュージアム.md "wikilink")」(MC:[V6](../Page/V6_\(グループ\).md "wikilink")・[Coming Century](../Page/V6_\(グループ\).md "wikilink")（[森田剛](https://ja.wikipedia.org/wiki/森田剛 "wikilink"),[三宅健](../Page/三宅健.md "wikilink"),[岡田准一](../Page/岡田准一.md "wikilink")）
   - 「[深田恭子 IN MY ROOM](https://ja.wikipedia.org/wiki/深田恭子_IN_MY_ROOM "wikilink")」（MC:[深田恭子](https://ja.wikipedia.org/wiki/深田恭子 "wikilink")）
   - 「[ぽっぷん王国ミュージックスタジアム](../Page/ぽっぷん王国ミュージックスタジアム.md "wikilink")」
 

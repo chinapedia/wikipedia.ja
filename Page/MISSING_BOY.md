@@ -25,7 +25,7 @@
         初音源化。『[LAST TEENAGE APPEARANCE](../Page/LAST_TEENAGE_APPEARANCE.md "wikilink")』に収録されている公演の前日、11月14日の音源である。この日の公演は単独発売はなく、このCDでしか聞くことができない。
 3.  **Driving All Night**
       -
-        初音源化。ライブ映像が1998年に一部カットされテレビ放送後、2014年に『[復活 尾崎豊 YOKOHAMA ARENA 1991.5.20](https://ja.wikipedia.org/wiki/復活_尾崎豊_YOKOHAMA_ARENA_1991.5.20 "wikilink")』に完全収録。
+        初音源化。ライブ映像が1998年に一部カットされテレビ放送後、2014年に『[復活 尾崎豊 YOKOHAMA ARENA 1991.5.20](../Page/復活_尾崎豊_YOKOHAMA_ARENA_1991.5.20.md "wikilink")』に完全収録。
 4.  **Bow\!**
       -
         初音源化。1998年に『[OSAKA STADIUM on August 25th in 1985 Vol.1](https://ja.wikipedia.org/wiki/OSAKA_STADIUM_on_August_25th_in_1985_Vol.1 "wikilink")』に収録。

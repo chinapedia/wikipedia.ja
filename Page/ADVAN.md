@@ -35,7 +35,7 @@
   - [F3](https://ja.wikipedia.org/wiki/フォーミュラ3 "wikilink")・[マカオグランプリ](../Page/マカオグランプリ.md "wikilink")（1983年 - ）
   - [スーパーFJ](../Page/スーパーFJ.md "wikilink")、[FJ1600](../Page/FJ1600.md "wikilink")（2010年 - ）
   - [インタープロトシリーズ](https://ja.wikipedia.org/wiki/インタープロトシリーズ "wikilink")（2013年 - ）
-  - [全日本スーパーフォーミュラ・ライツ選手権](https://ja.wikipedia.org/wiki/全日本スーパーフォーミュラ・ライツ選手権 "wikilink")（2020年 - ）
+  - [全日本スーパーフォーミュラ・ライツ選手権](../Page/全日本スーパーフォーミュラ・ライツ選手権.md "wikilink")（2020年 - ）
 
 ### 過去供給していたカテゴリ
 

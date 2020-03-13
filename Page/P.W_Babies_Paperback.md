@@ -1,7 +1,7 @@
 > この記事は[P.W Babies Paperback](https://ja.wikipedia.org/wiki/P.W_Babies_Paperback)から翻訳されています。
 
 
-**P.W Babies Paperback**（**ポスト・ウォー・ベィビーズ・ペーパーバック**）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[ムーンライダーズ](../Page/ムーンライダーズ.md "wikilink")の3年半ぶりのアルバム。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[5月11日](../Page/5月11日.md "wikilink")発売。
+**P.W Babies Paperback**（**ポスト・ウォー・ベィビーズ・ペーパーバック**）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[ムーンライダーズ](../Page/ムーンライダーズ.md "wikilink")の3年半ぶりのアルバム。[2005年](../Page/2005年.md "wikilink")[5月11日](../Page/5月11日.md "wikilink")発売。
 
 ## 解説
 

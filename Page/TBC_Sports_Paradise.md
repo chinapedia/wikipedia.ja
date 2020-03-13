@@ -3,7 +3,7 @@
 
 **TBC Sports Paradise**（ティービーシー・スポーツパラダイス）は、[東北放送](../Page/東北放送.md "wikilink")ラジオの[スポーツ](../Page/スポーツ.md "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。[プロ野球](../Page/プロ野球.md "wikilink")シーズン中は、[プロ野球中継](../Page/プロ野球中継.md "wikilink")「[TBCイーグルスナイター](https://ja.wikipedia.org/wiki/TBCイーグルスナイター "wikilink")」の試合終了後のクッション番組として、2005年4月から2008年9月まで放送していた。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")4月から放送開始。プロ野球シーズン中の年度上半期（4-9月）はこの年に新設された地元プロ野球チーム[東北楽天ゴールデンイーグルス](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")の試合情報を中心軸に据え、[Jリーグ](../Page/日本プロサッカーリーグ.md "wikilink")[ベガルタ仙台](../Page/ベガルタ仙台.md "wikilink")（放送当時は[J2所属](https://ja.wikipedia.org/wiki/J2リーグ "wikilink")\[1\]）や[bjリーグ](https://ja.wikipedia.org/wiki/日本プロバスケットボールリーグ "wikilink")[仙台89ERS](https://ja.wikipedia.org/wiki/仙台89ERS "wikilink")をはじめとする[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")内のスポーツの話題を日替わりで取り上げた。
+[2005年](../Page/2005年.md "wikilink")4月から放送開始。プロ野球シーズン中の年度上半期（4-9月）はこの年に新設された地元プロ野球チーム[東北楽天ゴールデンイーグルス](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")の試合情報を中心軸に据え、[Jリーグ](../Page/日本プロサッカーリーグ.md "wikilink")[ベガルタ仙台](../Page/ベガルタ仙台.md "wikilink")（放送当時は[J2所属](https://ja.wikipedia.org/wiki/J2リーグ "wikilink")\[1\]）や[bjリーグ](https://ja.wikipedia.org/wiki/日本プロバスケットボールリーグ "wikilink")[仙台89ERS](../Page/仙台89ERS.md "wikilink")をはじめとする[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")内のスポーツの話題を日替わりで取り上げた。
 
 ## 放送時間
 
@@ -77,7 +77,7 @@
 
 ## スポパラToday's Flash
 
-この番組の1コーナーだった「Today's Flash」がプロ野球シーズンオフのみ独立した番組となる。 放送時間は、火曜から金曜の18:00～18:25までの25分間である。（2005年度は月曜から金曜の18:10～18:30までの20分間だった。） 内容はその日の宮城県内のスポーツの情報や結果を伝えるものである。 パーソナリティはシーズン中に楽天戦の実況やリポートをしていたアナウンサーが日替わりで担当する。2006年度は担当曜日がほぼ固定されたが、2007年度はスポーツ担当アナウンサーのシフト制（[佐藤修](../Page/佐藤修_\(アナウンサー\).md "wikilink")、[三橋泰介](../Page/三橋泰介.md "wikilink")、[松尾武](../Page/松尾武_\(アナウンサー\).md "wikilink") 、[守屋周](https://ja.wikipedia.org/wiki/守屋周 "wikilink")、[安東理紗](../Page/安東理紗.md "wikilink")）となった。
+この番組の1コーナーだった「Today's Flash」がプロ野球シーズンオフのみ独立した番組となる。 放送時間は、火曜から金曜の18:00～18:25までの25分間である。（2005年度は月曜から金曜の18:10～18:30までの20分間だった。） 内容はその日の宮城県内のスポーツの情報や結果を伝えるものである。 パーソナリティはシーズン中に楽天戦の実況やリポートをしていたアナウンサーが日替わりで担当する。2006年度は担当曜日がほぼ固定されたが、2007年度はスポーツ担当アナウンサーのシフト制（[佐藤修](../Page/佐藤修_\(アナウンサー\).md "wikilink")、[三橋泰介](../Page/三橋泰介.md "wikilink")、[松尾武](../Page/松尾武_\(アナウンサー\).md "wikilink") 、[守屋周](../Page/守屋周.md "wikilink")、[安東理紗](../Page/安東理紗.md "wikilink")）となった。
 
 ## 脚注
 

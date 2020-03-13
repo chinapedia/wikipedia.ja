@@ -7,7 +7,7 @@
 
 ## 概要
 
-コミュニティFMは送信出力が弱いため（原則、最大20[W](../Page/ワット.md "wikilink")）、聴取可能地域においても、住居の高層化や[市町村合併等の理由で場所によっては聴取できない場合がある](https://ja.wikipedia.org/wiki/日本の市町村の廃置分合 "wikilink")。そのため[災害](../Page/災害.md "wikilink")時、情報格差が生じるため地域に密着した情報を放送することを使命とするコミュニティFM局にとっては致命傷となる。その解消を目的に[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")に運用を開始した。
+コミュニティFMは送信出力が弱いため（原則、最大20[W](../Page/ワット.md "wikilink")）、聴取可能地域においても、住居の高層化や[市町村合併等の理由で場所によっては聴取できない場合がある](https://ja.wikipedia.org/wiki/日本の市町村の廃置分合 "wikilink")。そのため[災害](../Page/災害.md "wikilink")時、情報格差が生じるため地域に密着した情報を放送することを使命とするコミュニティFM局にとっては致命傷となる。その解消を目的に[2005年](../Page/2005年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")に運用を開始した。
 
 [インターネット](../Page/インターネット.md "wikilink")による楽曲配信についての可能性を探るため[JASRACから楽曲配信の許諾を受け実証実験を終え](../Page/日本音楽著作権協会.md "wikilink")、[2006年](../Page/2006年.md "wikilink")4月1日、正式運用を開始した。
 
@@ -37,7 +37,7 @@
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（平成10年） - 「[FMジャングル](../Page/エフエムたじま.md "wikilink")」にて、開局と同時にインターネット再送信を開始（[2002年](../Page/2002年.md "wikilink")（平成14年）に停止）。
   - [1999年](../Page/1999年.md "wikilink")（平成11年） - 「[FMいるか](../Page/FMいるか.md "wikilink")」で、インターネット再送信を開始。
       - 後に、著作権等の問題から一旦再送信を停止。権利者団体と協議や勉強会を行う。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）
+  - [2005年](../Page/2005年.md "wikilink")（平成17年）
       - [4月1日](../Page/4月1日.md "wikilink") - 「SimulRadio」として、実証実験を開始。「[三角山放送局](../Page/らむれす.md "wikilink")」・「FMいるか」・「[フラワーラジオ](../Page/フラワーコミュニティ放送.md "wikilink")」・「湘南ビーチFM」が配信開始。
       - 4月 - 「FMいるか」が配信を停止。
   - [2006年](../Page/2006年.md "wikilink")（平成18年）4月1日 - 現在の形式で正式運用を開始。
@@ -101,7 +101,7 @@ FMドラマシティ</a>★</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/旭川シティネットワーク" title="wikilink">FMりべーる</a></p></td>
+<td><p><a href="../Page/旭川シティネットワーク.md" title="wikilink">FMりべーる</a></p></td>
 <td><p>北海道<a href="../Page/旭川市.md" title="wikilink">旭川市</a></p></td>
 <td><p><span style="display:none">20090401</span>2009年4月1日</p></td>
 <td><p>-</p></td>
@@ -109,7 +109,7 @@ FMドラマシティ</a>★</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/エフエムくしろ" title="wikilink">FMくしろ</a></p></td>
+<td><p><a href="../Page/エフエムくしろ.md" title="wikilink">FMくしろ</a></p></td>
 <td><p>北海道<a href="../Page/釧路市.md" title="wikilink">釧路市</a></p></td>
 <td><p><span style="display:none">20110329</span>2011年3月29日</p></td>
 <td><p>○</p></td>
@@ -125,7 +125,7 @@ FMドラマシティ</a>★</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/おびひろ市民ラジオ" title="wikilink">FM WING</a></p></td>
+<td><p><a href="../Page/おびひろ市民ラジオ.md" title="wikilink">FM WING</a></p></td>
 <td><p>北海道帯広市</p></td>
 <td><p><span style="display:none">20081006</span>2008年10月6日</p></td>
 <td><p>-</p></td>
@@ -245,7 +245,7 @@ FMドラマシティ</a>★</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/仙台シティエフエム" title="wikilink">RADIO3</a></p></td>
+<td><p><a href="../Page/仙台シティエフエム.md" title="wikilink">RADIO3</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/宮城県" title="wikilink">宮城県</a><a href="../Page/仙台市.md" title="wikilink">仙台市</a><a href="../Page/若林区.md" title="wikilink">若林区</a></p></td>
 <td><p><span style="display:none">20080715</span>2008年7月15日</p></td>
 <td><p>○</p></td>
@@ -541,7 +541,7 @@ FMドラマシティ</a>★</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/藤沢エフエム放送" title="wikilink">レディオ湘南</a></p></td>
+<td><p><a href="../Page/藤沢エフエム放送.md" title="wikilink">レディオ湘南</a></p></td>
 <td><p>神奈川県<a href="../Page/藤沢市.md" title="wikilink">藤沢市</a></p></td>
 <td><p><span style="display:none">20080619</span>2008年6月19日</p></td>
 <td><p>○</p></td>
@@ -557,7 +557,7 @@ FMドラマシティ</a>★</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/大和ラジオ放送" title="wikilink">FMやまと</a></p></td>
+<td><p><a href="../Page/大和ラジオ放送.md" title="wikilink">FMやまと</a></p></td>
 <td><p>神奈川県<a href="../Page/大和市.md" title="wikilink">大和市</a></p></td>
 <td><p><span style="display:none">20100901</span>2010年9月1日</p></td>
 <td><p>-</p></td>
@@ -837,7 +837,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>△</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/中国コミュニケーションネットワーク" title="wikilink">FMちゅーピー</a></p></td>
+<td><p><a href="../Page/中国コミュニケーションネットワーク.md" title="wikilink">FMちゅーピー</a></p></td>
 <td><p><a href="../Page/広島県.md" title="wikilink">広島県</a><a href="https://ja.wikipedia.org/wiki/広島市" title="wikilink">広島市</a><a href="../Page/中区_(広島市).md" title="wikilink">中区</a></p></td>
 <td><p><span style="display:none">20100401</span>2010年4月1日</p></td>
 <td><p>○</p></td>
@@ -909,7 +909,7 @@ FMドラマシティ</a>★</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/エフエムなかつ" title="wikilink">NOAS FM</a></p></td>
+<td><p><a href="../Page/エフエムなかつ.md" title="wikilink">NOAS FM</a></p></td>
 <td><p><a href="../Page/大分県.md" title="wikilink">大分県</a><a href="../Page/中津市.md" title="wikilink">中津市</a></p></td>
 <td><p><span style="display:none">20081128</span>2008年11月28日</p></td>
 <td><p>○</p></td>
@@ -918,7 +918,7 @@ FMドラマシティ</a>★</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ゆふいんラヂオ局" title="wikilink">ゆふいんラヂオ局</a></p></td>
-<td><p>大分県<a href="https://ja.wikipedia.org/wiki/由布市" title="wikilink">由布市</a></p></td>
+<td><p>大分県<a href="../Page/由布市.md" title="wikilink">由布市</a></p></td>
 <td><p><span style="display:none">20120611</span>2012年6月11日</p></td>
 <td><p>|-[13]</p></td>
 <td><p>-</p></td>
@@ -998,7 +998,7 @@ FMドラマシティ</a>★</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/FMなんじょう" title="wikilink">FMなんじょう</a></p></td>
-<td><p>沖縄県<a href="https://ja.wikipedia.org/wiki/南城市" title="wikilink">南城市</a></p></td>
+<td><p>沖縄県<a href="../Page/南城市.md" title="wikilink">南城市</a></p></td>
 <td><p><span style="display:none">20130418</span>2013年4月18日</p></td>
 <td><p>-</p></td>
 <td><p>△</p></td>

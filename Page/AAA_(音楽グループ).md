@@ -131,7 +131,7 @@
 
 [Do As Infinity](../Page/Do_As_Infinity.md "wikilink")、[大塚愛](https://ja.wikipedia.org/wiki/大塚愛 "wikilink")などのアーティストを育成する[エイベックス・エンタテインメント](../Page/エイベックス・エンタテインメント.md "wikilink")取締役・原田淳の企画により誕生した\[5\]。メンバー全員が別々のオーディションで合格して結成される。[アクターズスクール](../Page/アクターズスクール.md "wikilink")でレッスンを積んでいたメンバーや、すでに違うグループで活動していたメンバーもいる。また、[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")・[鈴木亜美](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")などのバックダンサーを務めていたメンバーもいる。
 
-[2006年](../Page/2006年.md "wikilink")以降は、毎年ライブツアーを行っており、デビュー日（9月14日）の前後にアニバーサリーライブやツアーを行っており、年に2回の異なったテーマのライブツアーを行っていた。[2012年](../Page/2012年.md "wikilink")以降は、1年間を通してのライブツアーになったため、ライブツアー中にデビュー日の公演を行うようになった。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")以降からは[エイベックスが開催する野外ライブイベント](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")[a-nation](https://ja.wikipedia.org/wiki/a-nation "wikilink")にも毎年参加している。
+[2006年](../Page/2006年.md "wikilink")以降は、毎年ライブツアーを行っており、デビュー日（9月14日）の前後にアニバーサリーライブやツアーを行っており、年に2回の異なったテーマのライブツアーを行っていた。[2012年](../Page/2012年.md "wikilink")以降は、1年間を通してのライブツアーになったため、ライブツアー中にデビュー日の公演を行うようになった。[2005年](../Page/2005年.md "wikilink")以降からは[エイベックスが開催する野外ライブイベント](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")[a-nation](https://ja.wikipedia.org/wiki/a-nation "wikilink")にも毎年参加している。
 
 初期の頃はメンバーが主導して作品に関わることは少なかったが、13枚目のシングル「[Get チュー\!/SHEの事実](https://ja.wikipedia.org/wiki/Get_チュー!/SHEの事実 "wikilink")」を含む3枚目のアルバム「[AROUND](../Page/AROUND.md "wikilink")」以降は、メンバーが率先してアイデアを出し合い、作品を作っている\[6\]。様々なジャンル・アーティストからの楽曲提供があるのも特徴の一つであり、[石田衣良](https://ja.wikipedia.org/wiki/石田衣良 "wikilink")（[Shalala キボウの歌](../Page/Shalala_キボウの歌.md "wikilink")）、[真島昌利](../Page/真島昌利.md "wikilink")（[ハリケーン・リリ、ボストン・マリ](../Page/ハリケーン・リリ、ボストン・マリ.md "wikilink")）、[小森田実](../Page/小森田実.md "wikilink")（[旅ダチノウタ](https://ja.wikipedia.org/wiki/旅ダチノウタ "wikilink")）、[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")（[逢いたい理由等](https://ja.wikipedia.org/wiki/逢いたい理由/Dream_After_Dream_〜夢から醒めた夢〜 "wikilink")）、[GReeeeN](https://ja.wikipedia.org/wiki/GReeeeN "wikilink") （[虹](https://ja.wikipedia.org/wiki/虹_\(AAAの曲\) "wikilink")）などから提供を受けている。
 
@@ -143,7 +143,7 @@
 
 ### 2005年 - 2010年
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")2月、初代[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")の[富樫明生](https://ja.wikipedia.org/wiki/富樫明生 "wikilink")が宇野、西島、末吉という3人組で[avex traxから夏にデビューを予定され](https://ja.wikipedia.org/wiki/avex_trax "wikilink")、3人がavex artist academy（aaa）でレッスンを受ける\[10\]。その後同じくレッスンを積んでいた浦田、日高、與を加えた6人がメンバーとなり、4月にAAAが正式に発表され、後藤友香里が加入し、浦田直也がリーダーに就任する。同時に新曲「[Friday Party](../Page/Friday_Party.md "wikilink")」の[プロモーションビデオ](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")が配信された。5月にAAAとしての活動が開始し、16日に伊藤千晃がオーディション番組『[歌スタ\!\!](../Page/歌スタ!!.md "wikilink")』の優勝者となり\[11\]、6月15日に公式サイトで伊藤の加入が発表され、8人のメンバーで活動することになる。8月から11月にかけて15回以上にわたるストリートライブ（青山、渋谷、大阪、福岡、札幌）が行われ、9月14日にシングル「[BLOOD on FIRE](../Page/BLOOD_on_FIRE.md "wikilink")」でデビュー。同作で[ベストヒット歌謡祭](../Page/ベストヒット歌謡祭.md "wikilink")2005新人賞、[第38回日本有線大賞](../Page/日本有線大賞.md "wikilink") 有線音楽賞、[第47回日本レコード大賞](https://ja.wikipedia.org/wiki/第47回日本レコード大賞 "wikilink") 最優秀新人賞を受賞した。
+[2005年](../Page/2005年.md "wikilink")2月、初代[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")の[富樫明生](https://ja.wikipedia.org/wiki/富樫明生 "wikilink")が宇野、西島、末吉という3人組で[avex traxから夏にデビューを予定され](https://ja.wikipedia.org/wiki/avex_trax "wikilink")、3人がavex artist academy（aaa）でレッスンを受ける\[10\]。その後同じくレッスンを積んでいた浦田、日高、與を加えた6人がメンバーとなり、4月にAAAが正式に発表され、後藤友香里が加入し、浦田直也がリーダーに就任する。同時に新曲「[Friday Party](../Page/Friday_Party.md "wikilink")」の[プロモーションビデオ](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")が配信された。5月にAAAとしての活動が開始し、16日に伊藤千晃がオーディション番組『[歌スタ\!\!](../Page/歌スタ!!.md "wikilink")』の優勝者となり\[11\]、6月15日に公式サイトで伊藤の加入が発表され、8人のメンバーで活動することになる。8月から11月にかけて15回以上にわたるストリートライブ（青山、渋谷、大阪、福岡、札幌）が行われ、9月14日にシングル「[BLOOD on FIRE](../Page/BLOOD_on_FIRE.md "wikilink")」でデビュー。同作で[ベストヒット歌謡祭](../Page/ベストヒット歌謡祭.md "wikilink")2005新人賞、[第38回日本有線大賞](../Page/日本有線大賞.md "wikilink") 有線音楽賞、[第47回日本レコード大賞](https://ja.wikipedia.org/wiki/第47回日本レコード大賞 "wikilink") 最優秀新人賞を受賞した。
 
 [2006年](../Page/2006年.md "wikilink")1月1日、1stアルバム『[ATTACK](../Page/ATTACK.md "wikilink")』が発売。5月4日から7日にかけてAAAが主演する舞台「[Theater of AAA 〜ボクラノテ〜](https://ja.wikipedia.org/wiki/Theater_of_AAA_〜ボクラノテ〜 "wikilink")」が公演された。6月4日、AAAオフィシャル[ファンクラブ](../Page/ファンクラブ.md "wikilink")「AAA Party（トリエーパーティ）」が設立され、入会受付が始まった。9月13日、[dwango](https://ja.wikipedia.org/wiki/dwango "wikilink")提供による無料ライブ「AAA 1st Anniversary Live 060913 〜3rd ATTACK〜 日本武道館」が開催された\[12\]\[13\]。 11月20日、7thシングル「[ハリケーン・リリ、ボストン・マリ](../Page/ハリケーン・リリ、ボストン・マリ.md "wikilink")」で、[ベストヒット歌謡祭](../Page/ベストヒット歌謡祭.md "wikilink")2006ゴールドアーティスト賞を受賞した。11月28日に[横浜税関](../Page/横浜税関.md "wikilink")134周年記念税関記念日式典にてAAAが一日税関長を務め、12月23日に東京ラフォーレミュージアム六本木にて初ファンクラブイベントを開催した。
 
@@ -185,7 +185,7 @@
 
 [2月5日](../Page/2月5日.md "wikilink")、【AAA DOME TOUR 2020】の追加公演が決定し、男女混合パフォーマンスグループ日本史上"初"６大ドームツアーの開催が決まった\[59\]。
 
-[2月27日](../Page/2月27日.md "wikilink")、AAAが15年分の感謝の気持ちを込めて届ける15周年記念ベストアルバム『[AAA 15th Anniversary All Time Best -thanx AAA lot-](https://ja.wikipedia.org/wiki/AAA_15th_Anniversary_All_Time_Best_-thanx_AAA_lot- "wikilink")』 & ミュージック・クリップベスト『[AAA 15th Anniversary All Time Music Clip Best -thanx AAA lot-](https://ja.wikipedia.org/wiki/AAA_15th_Anniversary_All_Time_Music_Clip_Best_-thanx_AAA_lot- "wikilink")』との同時発売初週で11.5万枚の売上を記録し、3月2日付の[オリコン週間アルバムランキングで](../Page/オリコンチャート.md "wikilink")、9thアルバム『[GOLD SYMPHONY](https://ja.wikipedia.org/wiki/GOLD_SYMPHONY "wikilink")』より5作連続での首位を獲得（通算7作目）。同時に、11thアルバム『[WAY OF GLORY](https://ja.wikipedia.org/wiki/WAY_OF_GLORY "wikilink")』の初週売上（10.8万枚）を上回り、アルバム自己最高初週売上を記録\[60\]\[61\]。
+[2月27日](../Page/2月27日.md "wikilink")、AAAが15年分の感謝の気持ちを込めて届ける15周年記念ベストアルバム『[AAA 15th Anniversary All Time Best -thanx AAA lot-](../Page/AAA_15th_Anniversary_All_Time_Best_-thanx_AAA_lot-.md "wikilink")』 & ミュージック・クリップベスト『[AAA 15th Anniversary All Time Music Clip Best -thanx AAA lot-](https://ja.wikipedia.org/wiki/AAA_15th_Anniversary_All_Time_Music_Clip_Best_-thanx_AAA_lot- "wikilink")』との同時発売初週で11.5万枚の売上を記録し、3月2日付の[オリコン週間アルバムランキングで](../Page/オリコンチャート.md "wikilink")、9thアルバム『[GOLD SYMPHONY](https://ja.wikipedia.org/wiki/GOLD_SYMPHONY "wikilink")』より5作連続での首位を獲得（通算7作目）。同時に、11thアルバム『[WAY OF GLORY](https://ja.wikipedia.org/wiki/WAY_OF_GLORY "wikilink")』の初週売上（10.8万枚）を上回り、アルバム自己最高初週売上を記録\[60\]\[61\]。
 
 ## ディスコグラフィ
 
@@ -742,7 +742,7 @@ AVC1-48931</p></td>
 CD(FC限定)</p></td>
 <td><p>AVC1-48961/B<br />
 AVC1-48962</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/AAA_15th_Anniversary_All_Time_Best_-thanx_AAA_lot-" title="wikilink">AAA 15th Anniversary All Time Best -thanx AAA lot-</a></strong></p></td>
+<td><p><strong><a href="../Page/AAA_15th_Anniversary_All_Time_Best_-thanx_AAA_lot-.md" title="wikilink">AAA 15th Anniversary All Time Best -thanx AAA lot-</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p>41</p></td>
@@ -934,7 +934,7 @@ CD+GOODS(FC限定)</p></td>
 <td><p>AVCD-94252/B<br />
 AVCD-94253<br />
 AVC1-94254</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/AAA_15th_Anniversary_All_Time_Best_-thanx_AAA_lot-" title="wikilink">AAA 15th Anniversary All Time Best -thanx AAA lot-</a></strong></p></td>
+<td><p><strong><a href="../Page/AAA_15th_Anniversary_All_Time_Best_-thanx_AAA_lot-.md" title="wikilink">AAA 15th Anniversary All Time Best -thanx AAA lot-</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p>57</p></td>
@@ -1221,7 +1221,7 @@ AVCD-93249〜50</p></td>
 <tr class="odd">
 <td><p>5</p></td>
 <td><p>2020年2月19日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/AAA_15th_Anniversary_All_Time_Best_-thanx_AAA_lot-" title="wikilink">AAA 15th Anniversary All Time Best -thanx AAA lot-</a></strong></p></td>
+<td><p><strong><a href="../Page/AAA_15th_Anniversary_All_Time_Best_-thanx_AAA_lot-.md" title="wikilink">AAA 15th Anniversary All Time Best -thanx AAA lot-</a></strong></p></td>
 <td><p>5CD<br />
 4CD</p></td>
 <td><p>AVCD-96448～52<br />
@@ -2586,7 +2586,7 @@ AVXD-92307</p></td>
 6月3日 三重県文化会館<br />
 6月4日 名古屋国際会議場 センチュリーホール<br />
 6月5日 名古屋国際会議場 センチュリーホール<br />
-6月7日 <a href="https://ja.wikipedia.org/wiki/府中の森芸術劇場" title="wikilink">府中の森芸術劇場 どりーむホール</a><br />
+6月7日 <a href="../Page/府中の森芸術劇場.md" title="wikilink">府中の森芸術劇場 どりーむホール</a><br />
 6月11日 神戸ワールド記念ホール<br />
 6月12日 神戸ワールド記念ホール<br />
 6月17日 青森市文化会館<br />
@@ -2758,7 +2758,7 @@ AVXD-92307</p></td>
 7月5日 <a href="../Page/宮城県総合運動公園総合体育館.md" title="wikilink">宮城 セキスイハイムスーパーアリーナ</a><br />
 7月12日 <a href="../Page/長野市若里多目的スポーツアリーナ.md" title="wikilink">長野 ビッグハット</a><br />
 7月13日 長野 ビッグハット<br />
-7月19日 <a href="https://ja.wikipedia.org/wiki/福井県産業振興施設" title="wikilink">サンドーム福井</a><br />
+7月19日 <a href="../Page/福井県産業振興施設.md" title="wikilink">サンドーム福井</a><br />
 7月20日 サンドーム福井<br />
 9月14日 <a href="../Page/マリンメッセ福岡.md" title="wikilink">マリンメッセ福岡</a><br />
 9月15日 マリンメッセ福岡<br />
@@ -3145,7 +3145,7 @@ AVXD-92307</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/DRAGON_FIRE.md" title="wikilink">DRAGON FIRE</a></p></td>
-<td><p><a href="../Page/TBSテレビ.md" title="wikilink">TBS系</a>『<a href="https://ja.wikipedia.org/wiki/アイチテル!" title="wikilink">アイチテル!</a>』エンディングテーマ</p></td>
+<td><p><a href="../Page/TBSテレビ.md" title="wikilink">TBS系</a>『<a href="../Page/アイチテル!.md" title="wikilink">アイチテル!</a>』エンディングテーマ</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -4041,7 +4041,7 @@ H.I.S.『中部秋キャンペーン』CMソング</p></td>
 
 ### ゴールド認定
 
-  - [日本レコード協会](../Page/日本レコード協会.md "wikilink")『**[ゴールドディスク](https://ja.wikipedia.org/wiki/ゴールドディスク "wikilink")認定作品**』
+  - [日本レコード協会](../Page/日本レコード協会.md "wikilink")『**[ゴールドディスク](../Page/ゴールドディスク.md "wikilink")認定作品**』
 
 <!-- end list -->
 
@@ -4070,7 +4070,7 @@ H.I.S.『中部秋キャンペーン』CMソング</p></td>
 
   - AAAのツアーやバラエティ番組などに出演していたキッズダンサー集団である。
 
-現在（2014年時点）でも芸能活動を続けているメンバーが多数おり、REINA（久保玲奈）はエイベックス所属のグループ「[Prizmmy☆](https://ja.wikipedia.org/wiki/Prizmmy☆ "wikilink")」のメンバーとしてデビュー。 KAKERU（雨宮翔）は同じくエイベックス所属のグループ「[GENIC](https://ja.wikipedia.org/wiki/GENIC "wikilink")」に所属してデビューを目指している。翔はchibikkoAAAがきっかけでAAAに憧れ、オーディションを受けた。 MAHIRO（森田真弥）は[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")に所属している。
+現在（2014年時点）でも芸能活動を続けているメンバーが多数おり、REINA（久保玲奈）はエイベックス所属のグループ「[Prizmmy☆](https://ja.wikipedia.org/wiki/Prizmmy☆ "wikilink")」のメンバーとしてデビュー。 KAKERU（雨宮翔）は同じくエイベックス所属のグループ「[GENIC](../Page/GENIC.md "wikilink")」に所属してデビューを目指している。翔はchibikkoAAAがきっかけでAAAに憧れ、オーディションを受けた。 MAHIRO（森田真弥）は[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")に所属している。
 
   -   - KAKERU（[雨宮翔](https://ja.wikipedia.org/wiki/GENIC#メンバー "wikilink")） - [西島隆弘](../Page/西島隆弘.md "wikilink") 役
       - REINA（久保玲奈） - [宇野実彩子](../Page/宇野実彩子.md "wikilink") 役

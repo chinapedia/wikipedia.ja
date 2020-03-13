@@ -1,7 +1,7 @@
 > この記事は[J-WORKS](https://ja.wikipedia.org/wiki/J-WORKS)から翻訳されています。
 
 
-**有限会社ジェイワークス**（英称：**J-WORKS SOUND DESIGN**）は、映画・TV・ゲームなどの[音響効果](https://ja.wikipedia.org/wiki/音響効果 "wikilink")会社。[OCBプロ](https://ja.wikipedia.org/wiki/OCBプロ "wikilink")を経て田中寿一が設立。事業の大部分は[フジテレビ系TV番組の選曲効果](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")。
+**有限会社ジェイワークス**（英称：**J-WORKS SOUND DESIGN**）は、映画・TV・ゲームなどの[音響効果](https://ja.wikipedia.org/wiki/音響効果 "wikilink")会社。[OCBプロ](../Page/OCBプロ.md "wikilink")を経て田中寿一が設立。事業の大部分は[フジテレビ系TV番組の選曲効果](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")。
 
 ## 会社データ
 
@@ -18,7 +18,7 @@
 
 ## 元所属スタッフ
 
-  - [笠松広司](https://ja.wikipedia.org/wiki/笠松広司 "wikilink")（[OCBプロ](https://ja.wikipedia.org/wiki/OCBプロ "wikilink")→J-WORKS→1999年[デジタルサーカス](https://ja.wikipedia.org/wiki/デジタルサーカス "wikilink")設立）
+  - [笠松広司](https://ja.wikipedia.org/wiki/笠松広司 "wikilink")（[OCBプロ](../Page/OCBプロ.md "wikilink")→J-WORKS→1999年[デジタルサーカス](../Page/デジタルサーカス.md "wikilink")設立）
   - [山田稔](https://ja.wikipedia.org/wiki/山田稔_\(音響効果\) "wikilink")（OCBプロ→J-WORKS→[ena設立](https://ja.wikipedia.org/wiki/ena_\(音響効果\) "wikilink")）
   - [田村智之](https://ja.wikipedia.org/wiki/田村智之 "wikilink")（OCBプロ→J-WORKS→[クジラノイズ](https://ja.wikipedia.org/wiki/クジラノイズ "wikilink")設立）
   - [舘川雄史](https://ja.wikipedia.org/wiki/舘川雄史 "wikilink")（OCBプロ→J-WORKS→[サウンドオーバー](https://ja.wikipedia.org/wiki/サウンドオーバー "wikilink")設立）

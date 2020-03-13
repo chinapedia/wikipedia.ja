@@ -42,7 +42,7 @@
 
 ### ナレーター
 
-  - [児玉育則](https://ja.wikipedia.org/wiki/児玉育則 "wikilink")
+  - [児玉育則](../Page/児玉育則.md "wikilink")
 
 ## スタッフ
 

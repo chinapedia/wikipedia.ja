@@ -54,7 +54,7 @@
 </tr>
 <tr class="even">
 <td><p>4</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/3月25日" title="wikilink">3月25日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/3月25日" title="wikilink">3月25日</a></p></td>
 <td><p><strong><a href="../Page/ゆのはな.md" title="wikilink">ゆのはな</a></strong></p></td>
 <td><p>藤原々々</p></td>
 <td><p>仁之丞</p></td>

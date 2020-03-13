@@ -10,7 +10,7 @@
 IBMのメインフレームのブランド名で、「z」は「ダウンタイム ゼロ(Zero)」（[高可用性](../Page/高可用性.md "wikilink")）を表す。
 
   - IBM eServer zSeries - 2000年以降。IBMサーバ全体のブランド名「IBM eServer」を構成する。（他のサーバーは[pSeries](https://ja.wikipedia.org/wiki/pSeries "wikilink")、[iSeries](https://ja.wikipedia.org/wiki/iSeries "wikilink")、[xSeries](https://ja.wikipedia.org/wiki/xSeries "wikilink")等。）
-  - IBM System z - 2005年以降。IBMサーバ全体のブランド名「[IBM Systems](https://ja.wikipedia.org/wiki/IBM_Systems "wikilink")」を構成する。（他のサーバーは[System p](https://ja.wikipedia.org/wiki/System_p "wikilink")、[System i](https://ja.wikipedia.org/wiki/System_i "wikilink")、[System x等](../Page/System_x.md "wikilink")。）
+  - IBM System z - 2005年以降。IBMサーバ全体のブランド名「[IBM Systems](https://ja.wikipedia.org/wiki/IBM_Systems "wikilink")」を構成する。（他のサーバーは[System p](../Page/System_p.md "wikilink")、[System i](../Page/System_i.md "wikilink")、[System x等](../Page/System_x.md "wikilink")。）
   - IBM zEnterprise System - 2010年以降。
   - IBM z System - 2015年以降。（他のサーバーは[Power Systems等](https://ja.wikipedia.org/wiki/Power_Systems "wikilink")。）
   - IBM Z - 2017年以降。

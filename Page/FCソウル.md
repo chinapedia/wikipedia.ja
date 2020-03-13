@@ -5,7 +5,7 @@
 
 ## 概要
 
-1983年12月22日、[ラッキー金星財閥傘下のサッカークラブ](https://ja.wikipedia.org/wiki/LGグループ "wikilink")、チーム名は「ラッキー金星黄牛」（ラッキークムソンファンソ、럭키금성황소축구단、Lucky-Goldstar FC）として創立した。ホームタウンは韓国の首都ソウルにある。
+1983年12月22日、[ラッキー金星財閥傘下のサッカークラブ](../Page/LGグループ.md "wikilink")、チーム名は「ラッキー金星黄牛」（ラッキークムソンファンソ、럭키금성황소축구단、Lucky-Goldstar FC）として創立した。ホームタウンは韓国の首都ソウルにある。
 
 国際タイトルはない（2001年-2002年のアジアクラブ選手権と2013年の[AFCチャンピオンズリーグ](../Page/AFCチャンピオンズリーグ.md "wikilink")でそれぞれ準優勝しているのみ）が、国内タイトルでは[Kリーグを](https://ja.wikipedia.org/wiki/Kリーグクラシック "wikilink")6回、[韓国FAカップ](../Page/韓国FAカップ.md "wikilink")を2回、[韓国リーグカップ](https://ja.wikipedia.org/wiki/韓国リーグカップ "wikilink")（2011年大会を最後に廃止された）を2回、[韓国スーパーカップ](../Page/韓国スーパーカップ.md "wikilink")（2006年大会を最後に廃止された）を1回の優勝を果たしている。
 
@@ -15,7 +15,7 @@
 
 ### 1983年 クラブ創設
 
-  - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink"):1983年12月22日、[ラッキー金星財閥傘下のサッカークラブ](https://ja.wikipedia.org/wiki/LGグループ "wikilink")、チーム名は「ラッキー金星黄牛」（ラッキークムソンファンソ、럭키금성황소축구단、Lucky-Goldstar FC）として創立された。国内プロサッカーチームの5番目として誕生した。
+  - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink"):1983年12月22日、[ラッキー金星財閥傘下のサッカークラブ](../Page/LGグループ.md "wikilink")、チーム名は「ラッキー金星黄牛」（ラッキークムソンファンソ、럭키금성황소축구단、Lucky-Goldstar FC）として創立された。国内プロサッカーチームの5番目として誕生した。
 
 ### 1984年 Kリーグに参加
 
@@ -54,11 +54,11 @@
 
 ### 2004年-2008年（2004年 FCソウルに改名）
 
-  - [2004年](../Page/2004年.md "wikilink"):本拠地をソウルに移転し、同時に「FCソウル」と改称。6月から運営が[LGグループ](https://ja.wikipedia.org/wiki/LGグループ "wikilink")から分離した[GSグループ](https://ja.wikipedia.org/wiki/GSグループ "wikilink")へ移管。リーグ総合5位。
-    [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink"):注目の若手フォワードである[朴主永](../Page/朴主永.md "wikilink")を[高麗大学に在籍したまま加入させた](../Page/高麗大学校.md "wikilink")2005年途中からは観客動員数は飛躍的に伸び、ホーム戦どころかアウェイで遠征したクラブ（[釜山や](https://ja.wikipedia.org/wiki/釜山アイパーク "wikilink")[光州](https://ja.wikipedia.org/wiki/光州尚武フェニックス "wikilink")）の最多動員記録に貢献することになった。リーグ総合6位、ハウゼンカップ5位。
+  - [2004年](../Page/2004年.md "wikilink"):本拠地をソウルに移転し、同時に「FCソウル」と改称。6月から運営が[LGグループ](../Page/LGグループ.md "wikilink")から分離した[GSグループ](https://ja.wikipedia.org/wiki/GSグループ "wikilink")へ移管。リーグ総合5位。
+    [2005年](../Page/2005年.md "wikilink"):注目の若手フォワードである[朴主永](../Page/朴主永.md "wikilink")を[高麗大学に在籍したまま加入させた](../Page/高麗大学校.md "wikilink")2005年途中からは観客動員数は飛躍的に伸び、ホーム戦どころかアウェイで遠征したクラブ（[釜山や](../Page/釜山アイパーク.md "wikilink")[光州](https://ja.wikipedia.org/wiki/光州尚武フェニックス "wikilink")）の最多動員記録に貢献することになった。リーグ総合6位、ハウゼンカップ5位。
     [2006年](../Page/2006年.md "wikilink"):リーグ総合3位、カップ大会優勝、[FC東京](https://ja.wikipedia.org/wiki/FC東京 "wikilink")と親善試合（入場者61235人）
     [2007年](../Page/2007年.md "wikilink"):ハウゼンカップ準優勝、リーグ総合7位、プロスポーツ史上最多観客動員数達成（55,397人、４月8日 vs 水原）
-    [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink"):Kリーグの2大人気クラブである[水原三星ブルーウィングス](https://ja.wikipedia.org/wiki/水原三星ブルーウィングス "wikilink")とFCソウルによって行われた2008年度プレーオフは盛り上がりを見せていた。リーグ2位、総合2位。
+    [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink"):Kリーグの2大人気クラブである[水原三星ブルーウィングス](../Page/水原三星ブルーウィングス.md "wikilink")とFCソウルによって行われた2008年度プレーオフは盛り上がりを見せていた。リーグ2位、総合2位。
 
 ### 2009年-2011年（2009年 AFCチャンピオンズリーグへ初出場）
 
@@ -75,14 +75,14 @@
   -
     リーグ5位、ピースカップコリア（カップ大会）ベスト4。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")
-    5月5日のホームゲーム（対[城南一和天馬](https://ja.wikipedia.org/wiki/城南一和天馬 "wikilink")）では、60747人がスタジアムに来場し、Kリーグにおける1試合の観客動員数の新記録を達成した。リーグ戦1位でプレーオフに進出し、チャンピオン決定戦で[済州ユナイテッドFC](https://ja.wikipedia.org/wiki/済州ユナイテッドFC "wikilink")に勝利し、ソウル移転後初優勝を達成し、Kリーグカップとの2冠となった。
+    5月5日のホームゲーム（対[城南一和天馬](https://ja.wikipedia.org/wiki/城南一和天馬 "wikilink")）では、60747人がスタジアムに来場し、Kリーグにおける1試合の観客動員数の新記録を達成した。リーグ戦1位でプレーオフに進出し、チャンピオン決定戦で[済州ユナイテッドFC](../Page/済州ユナイテッドFC.md "wikilink")に勝利し、ソウル移転後初優勝を達成し、Kリーグカップとの2冠となった。
   - [2011年](../Page/2011年.md "wikilink")
     リーグ3位
 
 ### 2012年-現在（2012年 5度目のリーグ制覇, 2016年 6度目のリーグ制覇）
 
   - [2012年](../Page/2012年.md "wikilink")
-    [崔龍洙](https://ja.wikipedia.org/wiki/崔龍洙 "wikilink")が正式に監督に就任し、2年ぶりのKリーグ優勝を達成した
+    [崔龍洙](../Page/崔龍洙.md "wikilink")が正式に監督に就任し、2年ぶりのKリーグ優勝を達成した
 
   - [2016年](../Page/2016年.md "wikilink")
 
@@ -99,16 +99,16 @@
 <!-- end list -->
 
   -
-    6月21日、[チェ・ヨンス監督が](https://ja.wikipedia.org/wiki/崔龍洙 "wikilink")[中国サッカー・スーパーリーグ](https://ja.wikipedia.org/wiki/中国サッカー・スーパーリーグ "wikilink")の[江蘇蘇寧の監督に就任することを発表](https://ja.wikipedia.org/wiki/江蘇蘇寧足球倶楽部 "wikilink")。それに伴い[ファン・ソンホンの監督就任を発表](../Page/黄善洪.md "wikilink")。
+    6月21日、[チェ・ヨンス監督が](../Page/崔龍洙.md "wikilink")[中国サッカー・スーパーリーグ](https://ja.wikipedia.org/wiki/中国サッカー・スーパーリーグ "wikilink")の[江蘇蘇寧の監督に就任することを発表](https://ja.wikipedia.org/wiki/江蘇蘇寧足球倶楽部 "wikilink")。それに伴い[ファン・ソンホンの監督就任を発表](../Page/黄善洪.md "wikilink")。
 
 <!-- end list -->
 
   -
-    [Kリーグクラシックでは](https://ja.wikipedia.org/wiki/Kリーグクラシック_2016 "wikilink")、最終節で前年度王者の[全北現代モータース](https://ja.wikipedia.org/wiki/全北現代モータース "wikilink")を1-0で下し、4年ぶり6度目の優勝を果たした。
+    [Kリーグクラシックでは](https://ja.wikipedia.org/wiki/Kリーグクラシック_2016 "wikilink")、最終節で前年度王者の[全北現代モータース](../Page/全北現代モータース.md "wikilink")を1-0で下し、4年ぶり6度目の優勝を果たした。
   - [2017年](../Page/2017年.md "wikilink")
     ファン・ソンホン監督体制を続けたが、5位にとどまった。
   - [2018年](../Page/2018年.md "wikilink")
-    シーズン開幕後の[4月30日](../Page/4月30日.md "wikilink")にファン・ソンホン監督が成績不振で辞任した。[李乙容監督が後任となったが](https://ja.wikipedia.org/wiki/イ・ウリョン "wikilink")、成績不振で[10月11日](../Page/10月11日.md "wikilink")に辞任し、チェ・ヨンス監督が2年4ヶ月ぶりに復帰した。リーグ戦は11位で[釜山アイパーク](https://ja.wikipedia.org/wiki/釜山アイパーク "wikilink")と昇格・降格プレーオフで対戦して勝利し、[Kリーグ1](../Page/Kリーグ1.md "wikilink")（旧Kリーグクラシック）に残留した。
+    シーズン開幕後の[4月30日](../Page/4月30日.md "wikilink")にファン・ソンホン監督が成績不振で辞任した。[李乙容監督が後任となったが](https://ja.wikipedia.org/wiki/イ・ウリョン "wikilink")、成績不振で[10月11日](../Page/10月11日.md "wikilink")に辞任し、チェ・ヨンス監督が2年4ヶ月ぶりに復帰した。リーグ戦は11位で[釜山アイパーク](../Page/釜山アイパーク.md "wikilink")と昇格・降格プレーオフで対戦して勝利し、[Kリーグ1](../Page/Kリーグ1.md "wikilink")（旧Kリーグクラシック）に残留した。
 
 ## タイトル
 
@@ -188,7 +188,7 @@
 
 <!-- end list -->
 
-  - [チェ・ヨンス](https://ja.wikipedia.org/wiki/崔龍洙 "wikilink")
+  - [チェ・ヨンス](../Page/崔龍洙.md "wikilink")
 
 ## 歴代監督
 
@@ -210,13 +210,13 @@
 
   - [皇甫官](../Page/皇甫官.md "wikilink") 2011-2011.4
 
-  - [崔龍洙](https://ja.wikipedia.org/wiki/崔龍洙 "wikilink") 2011.4-2016.6（2011.4-2011.12は監督代行）
+  - [崔龍洙](../Page/崔龍洙.md "wikilink") 2011.4-2016.6（2011.4-2011.12は監督代行）
 
   - [黄善洪](../Page/黄善洪.md "wikilink") 2016.6-2018.4
 
   - [李乙容](../Page/李乙容.md "wikilink") 2018.4-2018.10 (監督代行)
 
-  - [崔龍洙](https://ja.wikipedia.org/wiki/崔龍洙 "wikilink") 2018.10-
+  - [崔龍洙](../Page/崔龍洙.md "wikilink") 2018.10-
 
 ## 歴代所属選手
 
@@ -266,7 +266,7 @@
 
 ### FW
 
-  - [崔兌旭](https://ja.wikipedia.org/wiki/崔兌旭 "wikilink") 2000-2003, 2010-2013
+  - [崔兌旭](../Page/崔兌旭.md "wikilink") 2000-2003, 2010-2013
 
   - [韓東元](https://ja.wikipedia.org/wiki/韓東元 "wikilink") 2002-2006
 
@@ -278,7 +278,7 @@
 
   - [朴主永](../Page/朴主永.md "wikilink") 2005-2008, 2015-
 
-  - [崔龍洙](https://ja.wikipedia.org/wiki/崔龍洙 "wikilink") 2006
+  - [崔龍洙](../Page/崔龍洙.md "wikilink") 2006
 
   - [李昇烈](https://ja.wikipedia.org/wiki/李昇烈 "wikilink") 2008-2011
 

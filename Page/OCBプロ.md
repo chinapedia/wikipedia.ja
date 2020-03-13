@@ -5,7 +5,7 @@
 
 ## 沿革
 
-  - 198x年 [プロジェクト80](https://ja.wikipedia.org/wiki/プロジェクト80 "wikilink")から派生
+  - 198x年 [プロジェクト80](../Page/プロジェクト80.md "wikilink")から派生
 
 ## 所属スタッフ
 
@@ -21,7 +21,7 @@
     [志田博英](../Page/志田博英.md "wikilink")（→[ヴェントゥオノ](../Page/ヴェントゥオノ.md "wikilink")）
     [戸辺豊](https://ja.wikipedia.org/wiki/戸辺豊 "wikilink")（→[ヴェントゥオノ](../Page/ヴェントゥオノ.md "wikilink")）
     [田中寿一](https://ja.wikipedia.org/wiki/田中寿一 "wikilink")（→[J-WORKS](../Page/J-WORKS.md "wikilink")）
-    [笠松広司](https://ja.wikipedia.org/wiki/笠松広司 "wikilink")（→[J-WORKS](../Page/J-WORKS.md "wikilink")→[デジタルサーカス](https://ja.wikipedia.org/wiki/デジタルサーカス "wikilink")）
+    [笠松広司](https://ja.wikipedia.org/wiki/笠松広司 "wikilink")（→[J-WORKS](../Page/J-WORKS.md "wikilink")→[デジタルサーカス](../Page/デジタルサーカス.md "wikilink")）
     [村山直幸](https://ja.wikipedia.org/wiki/村山直幸 "wikilink")（→[ヴェントゥオノ](../Page/ヴェントゥオノ.md "wikilink")）
     [仲西匡](../Page/仲西匡.md "wikilink")（→[ヴェントゥオノ](../Page/ヴェントゥオノ.md "wikilink")）
     [大久保吉久](https://ja.wikipedia.org/wiki/大久保吉久 "wikilink")（→[ヴェントゥオノ](../Page/ヴェントゥオノ.md "wikilink")）
@@ -44,7 +44,7 @@
   - [所さんのただものではない\!](../Page/所さんのただものではない!.md "wikilink")（フジテレビ）
   - [志村けんのだいじょうぶだぁ](../Page/志村けんのだいじょうぶだぁ.md "wikilink")（フジテレビ）
   - [あっぱれさんま大先生](../Page/あっぱれさんま大先生.md "wikilink")（フジテレビ）
-  - [IQエンジン](https://ja.wikipedia.org/wiki/IQエンジン "wikilink")（フジテレビ）
+  - [IQエンジン](../Page/IQエンジン.md "wikilink")（フジテレビ）
   - [ダンス\!ダンス\!ダンス\!](https://ja.wikipedia.org/wiki/ダンス!ダンス!ダンス!_\(テレビ番組\) "wikilink")（フジテレビ）
   - [ダウンタウンのごっつええ感じ](../Page/ダウンタウンのごっつええ感じ.md "wikilink")（フジテレビ）
   - [夢で逢えたら](../Page/夢で逢えたら_\(テレビ番組\).md "wikilink")（フジテレビ）
@@ -61,7 +61,7 @@
   - [ラスタとんねるず'94](../Page/ラスタとんねるず'94.md "wikilink")（フジテレビ）
   - [志村けんのオレがナニしたのヨ?](../Page/志村けんのオレがナニしたのヨ?.md "wikilink")（フジテレビ）
   - [クイズ赤恥青恥](../Page/クイズ赤恥青恥.md "wikilink")（テレビ東京）
-  - [冒冒グラフ](https://ja.wikipedia.org/wiki/冒冒グラフ "wikilink")（フジテレビ）
+  - [冒冒グラフ](../Page/冒冒グラフ.md "wikilink")（フジテレビ）
   - よゐこのわるぢえ（TBS）
   - [めちゃ×2モテたいッ\!](../Page/めちゃ×2モテたいッ!.md "wikilink")（フジテレビ）
   - [けんちゃんのオーマイゴッド](../Page/けんちゃんのオーマイゴッド.md "wikilink")（フジテレビ）

@@ -5,13 +5,13 @@
 
 ## 概要
 
-Honda IMAシステム（以下IMA）は、[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")と[電気モーターの双方の動力源を持ち](../Page/電動機.md "wikilink")、[ハイブリッド](https://ja.wikipedia.org/wiki/ハイブリッド "wikilink")[システム](../Page/システム.md "wikilink")の種類としては、エンジンとモーター両方が並行して駆動する、[パラレル型に分類される](https://ja.wikipedia.org/wiki/ハイブリッドカー#パラレル方式 "wikilink")。[電力](../Page/電力.md "wikilink")は、自動車の制動、巡航運転時に発生するエネルギーを回生、余剰エネルギーをモーターが[発電機](../Page/発電機.md "wikilink")となって回収し、[バッテリー](../Page/バッテリー.md "wikilink")に[充電](../Page/充電.md "wikilink")するため、充電する作業は必要としない。エネルギー補給は[ガソリン](../Page/ガソリン.md "wikilink")の給油のみである。
+Honda IMAシステム（以下IMA）は、[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")と[電気モーターの双方の動力源を持ち](../Page/電動機.md "wikilink")、[ハイブリッド](../Page/ハイブリッド.md "wikilink")[システム](../Page/システム.md "wikilink")の種類としては、エンジンとモーター両方が並行して駆動する、[パラレル型に分類される](https://ja.wikipedia.org/wiki/ハイブリッドカー#パラレル方式 "wikilink")。[電力](../Page/電力.md "wikilink")は、自動車の制動、巡航運転時に発生するエネルギーを回生、余剰エネルギーをモーターが[発電機](../Page/発電機.md "wikilink")となって回収し、[バッテリー](../Page/バッテリー.md "wikilink")に[充電](../Page/充電.md "wikilink")するため、充電する作業は必要としない。エネルギー補給は[ガソリン](../Page/ガソリン.md "wikilink")の給油のみである。
 
 主動力源はエンジンであり、名前の通りモーターは必要に応じてアシストし、エンジンのトルクが不足する状況時にモーターが駆動しトルクが増大される。発進時や加速時などで余剰トルクが不要になり、燃費が改善できるようになった。停車時に作動する[オートアイドルストップシステムと](../Page/アイドリングストップ.md "wikilink")、IMAに採用されているエンジンの低燃費性能により燃費が向上し、フライホイールの役目をなす薄型ローターと一体化したモーターが動的に負荷変動を吸収するため、エンジンの回転は滑らかなものとなっている。
 
 当システムは、日本では[インサイト](../Page/ホンダ・インサイト.md "wikilink")、[シビックハイブリッド](../Page/ホンダ・シビックハイブリッド.md "wikilink")、[CR-Z](../Page/ホンダ・CR-Z.md "wikilink")、[フィットハイブリッド](https://ja.wikipedia.org/wiki/ホンダ・フィットハイブリッド "wikilink")、[フィットシャトルハイブリッド](https://ja.wikipedia.org/wiki/ホンダ・フィットシャトル "wikilink")、[フリードハイブリッド](https://ja.wikipedia.org/wiki/ホンダ・フリード "wikilink")、[フリードスパイクハイブリッド](https://ja.wikipedia.org/wiki/ホンダ・フリードスパイク "wikilink")、北米では更に[アコードハイブリッドに採用された](../Page/ホンダ・アコードハイブリッド.md "wikilink")。
 
-インサイト及びシビックハイブリッドの燃費性能は、[国土交通省](../Page/国土交通省.md "wikilink")の「平成16年燃費の良いガソリン乗用車ランキング」\[1\]でそれぞれ1位と3位（[10・15モード燃費](../Page/10・15モード燃費.md "wikilink")値：36.0km/L及び31.0km/L）であった。アコードハイブリッドは、[可変シリンダーシステム](../Page/気筒休止エンジン.md "wikilink")（VCM）を採用した[V6](https://ja.wikipedia.org/wiki/V型6気筒 "wikilink")・3.0Lエンジンとの組み合わせで、ガソリンエンジン搭載車に対し15[馬力](../Page/馬力.md "wikilink")上回る255馬力の出力を発揮しながら、[直4エンジン搭載車と同等の燃費性能を得ている](../Page/直列4気筒.md "wikilink")。
+インサイト及びシビックハイブリッドの燃費性能は、[国土交通省](../Page/国土交通省.md "wikilink")の「平成16年燃費の良いガソリン乗用車ランキング」\[1\]でそれぞれ1位と3位（[10・15モード燃費](../Page/10・15モード燃費.md "wikilink")値：36.0km/L及び31.0km/L）であった。アコードハイブリッドは、[可変シリンダーシステム](../Page/気筒休止エンジン.md "wikilink")（VCM）を採用した[V6](../Page/V型6気筒.md "wikilink")・3.0Lエンジンとの組み合わせで、ガソリンエンジン搭載車に対し15[馬力](../Page/馬力.md "wikilink")上回る255馬力の出力を発揮しながら、[直4エンジン搭載車と同等の燃費性能を得ている](../Page/直列4気筒.md "wikilink")。
 
 [File:HondaInsight.jpg|初代インサイト](File:HondaInsight.jpg%7C初代インサイト) [File:Honda-Civic-hybrid.jpg|初代シビックハイブリッド](File:Honda-Civic-hybrid.jpg%7C初代シビックハイブリッド) <File:Honda> Civic Hybrid (24h Nürburgring 2007).jpg|2代目シビックハイブリッド（[2007年](../Page/2007年.md "wikilink")[ニュルブルクリンク24時間レース](../Page/ニュルブルクリンク24時間レース.md "wikilink")参戦車両） <File:2005> Honda Accord Hybrid -- 07-09-2009.jpg|初代アコードハイブリッド
 
@@ -23,13 +23,13 @@ Honda IMAシステム（以下IMA）は、[ガソリンエンジン](../Page/ガ
 
 超低燃費を狙うには、エンジン単体で燃費性能を向上することも要求されることになる。
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")にIMAが発表された際の[コンセプトカー](../Page/コンセプトカー.md "wikilink")「[J-VX](https://ja.wikipedia.org/wiki/ホンダ・J-VX "wikilink")」に採用されたエンジンは、[VTEC](../Page/VTEC.md "wikilink")機構と[ガソリン直噴機構を採用して低燃費を図った](../Page/ガソリン直噴エンジン.md "wikilink")[直列3気筒](../Page/直列3気筒.md "wikilink") [SOHC](../Page/SOHC.md "wikilink") 1.0L [リーンバーン](https://ja.wikipedia.org/wiki/リーンバーン "wikilink")エンジンであった。[1999年](../Page/1999年.md "wikilink")に発売されたインサイトに搭載された[ECA型は](../Page/ホンダ・E型エンジン.md "wikilink")、基本形式は同様であったがガソリン直噴機構は採用されなかった。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")にIMAが発表された際の[コンセプトカー](../Page/コンセプトカー.md "wikilink")「[J-VX](https://ja.wikipedia.org/wiki/ホンダ・J-VX "wikilink")」に採用されたエンジンは、[VTEC](../Page/VTEC.md "wikilink")機構と[ガソリン直噴機構を採用して低燃費を図った](../Page/ガソリン直噴エンジン.md "wikilink")[直列3気筒](../Page/直列3気筒.md "wikilink") [SOHC](../Page/SOHC.md "wikilink") 1.0L [リーンバーン](../Page/リーンバーン.md "wikilink")エンジンであった。[1999年](../Page/1999年.md "wikilink")に発売されたインサイトに搭載された[ECA型は](../Page/ホンダ・E型エンジン.md "wikilink")、基本形式は同様であったがガソリン直噴機構は採用されなかった。
 
 [2001年](../Page/2001年.md "wikilink")に発売されたシビックハイブリッドには、さらに進んだ[LDA型](../Page/ホンダ・L型エンジン.md "wikilink") [直列4気筒](../Page/直列4気筒.md "wikilink") SOHC 1.3L リーンバーンエンジンが搭載された。同年発売された[フィットのエンジンと同様に](../Page/ホンダ・フィット.md "wikilink")[i-DSI](https://ja.wikipedia.org/wiki/i-DSI "wikilink")を採用し、回生ブレーキ性能向上のため[気筒休止VTECシステムや](../Page/気筒休止エンジン.md "wikilink")、[樹脂](https://ja.wikipedia.org/wiki/樹脂 "wikilink")製パーツや超小型パーツ等を導入して軽量化も図られている。気筒休止VTECシステムとは、自動車の減速時に効率良くモーターがエネルギーを回生できるよう、4気筒のうち3気筒のバルブをVTEC機構で休止させることによってエンジン出力と拮抗しないようにし、エネルギーの[回生ロスを低減するよう設計されたものである](../Page/回生ブレーキ.md "wikilink")。
 
-[2004年](../Page/2004年.md "wikilink")に北米で発売されたアコードハイブリッドは、[J30A型](https://ja.wikipedia.org/wiki/ホンダ・J型エンジン "wikilink") V型6気筒 SOHC 3.0Lエンジンと上記2車種と比較して大排気量のエンジンを搭載しているが、低燃費技術の[i-VTEC](https://ja.wikipedia.org/wiki/i-VTEC "wikilink")とVCMを採用、VCMによって巡航時は前側3気筒のみで駆動することによって低燃費を実現している。
+[2004年](../Page/2004年.md "wikilink")に北米で発売されたアコードハイブリッドは、[J30A型](../Page/ホンダ・J型エンジン.md "wikilink") V型6気筒 SOHC 3.0Lエンジンと上記2車種と比較して大排気量のエンジンを搭載しているが、低燃費技術の[i-VTEC](https://ja.wikipedia.org/wiki/i-VTEC "wikilink")とVCMを採用、VCMによって巡航時は前側3気筒のみで駆動することによって低燃費を実現している。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に発売された2代目シビックハイブリッドでは基本は初代と同じ1.3Lエンジンであるが3ステージi-VTECとなり全気筒休止も可能となった。全気筒休止により回生の効率向上し、低速クルーズと緩加速時にモーターのみでの走行モードの追加がなされ、3ステージi-VTECによる低速カム高速カムの切り替えによりエンジン出力が向上している。また、結果的に[NO<sub>x</sub>対策向上をも含め](../Page/窒素酸化物.md "wikilink")、リーンバーンではなく[理論空燃比](https://ja.wikipedia.org/wiki/理論空燃比 "wikilink")に近づいた。
+[2005年](../Page/2005年.md "wikilink")に発売された2代目シビックハイブリッドでは基本は初代と同じ1.3Lエンジンであるが3ステージi-VTECとなり全気筒休止も可能となった。全気筒休止により回生の効率向上し、低速クルーズと緩加速時にモーターのみでの走行モードの追加がなされ、3ステージi-VTECによる低速カム高速カムの切り替えによりエンジン出力が向上している。また、結果的に[NO<sub>x</sub>対策向上をも含め](../Page/窒素酸化物.md "wikilink")、リーンバーンではなく[理論空燃比](https://ja.wikipedia.org/wiki/理論空燃比 "wikilink")に近づいた。
 
 [2009年](../Page/2009年.md "wikilink")に発売された2代目インサイトでは、上記シビックハイブリッドのエンジンを基本とするが、i-VTECは3ステージから2ステージに変更となり、気筒休止と通常動作の切り替えのみとなった。そのため、シビックハイブリッドに比べて最大出力は若干低下している。引き続き、低速クルーズでモーターのみの走行が可能になっている。
 

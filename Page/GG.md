@@ -40,8 +40,8 @@
   - [ゴールデングラブ賞](../Page/ゴールデングラブ賞.md "wikilink")の略称。
   - [ゴールデングローブ賞](../Page/ゴールデングローブ賞.md "wikilink")の略称。
   - スイスのオートバイメーカー ⇒ [GG (オートバイ)](https://ja.wikipedia.org/wiki/GG_\(オートバイ\) "wikilink")
-  - George's Government - [MUSIC ON\! TVが主催する](https://ja.wikipedia.org/wiki/MUSIC_ON!_TV "wikilink")、[ジョージ・ウィリアムズ企画によるライブイベント](../Page/ジョージ・ウィリアムズ_\(タレント\).md "wikilink")。
-  - **G**ood **G**ame（良い試合だった、の意）の略語。主に[オンラインゲーム](../Page/オンラインゲーム.md "wikilink")などで用いられる[インターネットスラング](https://ja.wikipedia.org/wiki/インターネットスラング "wikilink")。
+  - George's Government - [MUSIC ON\! TVが主催する](../Page/MUSIC_ON!_TV.md "wikilink")、[ジョージ・ウィリアムズ企画によるライブイベント](../Page/ジョージ・ウィリアムズ_\(タレント\).md "wikilink")。
+  - **G**ood **G**ame（良い試合だった、の意）の略語。主に[オンラインゲーム](../Page/オンラインゲーム.md "wikilink")などで用いられる[インターネットスラング](../Page/インターネットスラング.md "wikilink")。
   - グラッチェガーデンズの略称。詳しくは[すかいらーく](../Page/すかいらーく.md "wikilink")を参照。
   - [ガーンジー](../Page/ガーンジー.md "wikilink")の[ISO 3166-1における国名コードもしくはそれに基づく](../Page/ISO_3166-1.md "wikilink")[ccTLD](https://ja.wikipedia.org/wiki/ccTLD "wikilink")([.gg](https://ja.wikipedia.org/wiki/.gg "wikilink"))。
   - [小山薫堂](../Page/小山薫堂.md "wikilink")が提唱するシニア世代の呼称「グランド・ジェネレーション」の略（G.G.）。

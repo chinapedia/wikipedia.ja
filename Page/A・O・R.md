@@ -7,7 +7,7 @@
 
 本番組は[パーソナリティ](https://ja.wikipedia.org/wiki/パーソナリティ "wikilink")の[ユキ・ラインハート](../Page/ユキ・ラインハート.md "wikilink")が、「**今日はあなたにとってどんな一日でしたでしょうか。今日がいい日だったという人も、そうでなかったという人も、この時間だけでもリラックスしておつきあい下さいね。**」という冒頭の言葉から始まるように、一日の仕事や勉強などの疲れをクールダウンさせたり、リラックス出来る音楽の選曲をコンセプトに置いている生放送の音楽番組だが、選曲は番組タイトル通りの「[AOR](../Page/AOR.md "wikilink")」に特化せずにジャンルの枠組みを超えた「アダルト・コンテンポラリー・サウンド」にこだわるとしている。
 
-なお、同名の番組が[エフエム・ノースウェーブ](../Page/エフエム・ノースウェーブ.md "wikilink")（2007年3月終了）・[FM COCOLO](../Page/FM_COCOLO.md "wikilink")（2010年3月28日終了）及び、類似したタイトルの番組が[Kiss-FM KOBE](https://ja.wikipedia.org/wiki/Kiss-FM_KOBE "wikilink")（『たそがれのA.O.R.』、2009年7月終了）、[FMヨコハマ](https://ja.wikipedia.org/wiki/横浜エフエム放送 "wikilink")（『たまらなく、AOR』）・FM COCOLO（『君と焚き火とAOR』）に存在するが、全て本番組とは無関係である。ちなみにKiss-FM KOBEでは、前述の番組が終了後に本番組のネットを開始している。
+なお、同名の番組が[エフエム・ノースウェーブ](../Page/エフエム・ノースウェーブ.md "wikilink")（2007年3月終了）・[FM COCOLO](../Page/FM_COCOLO.md "wikilink")（2010年3月28日終了）及び、類似したタイトルの番組が[Kiss-FM KOBE](https://ja.wikipedia.org/wiki/Kiss-FM_KOBE "wikilink")（『たそがれのA.O.R.』、2009年7月終了）、[FMヨコハマ](../Page/横浜エフエム放送.md "wikilink")（『たまらなく、AOR』）・FM COCOLO（『君と焚き火とAOR』）に存在するが、全て本番組とは無関係である。ちなみにKiss-FM KOBEでは、前述の番組が終了後に本番組のネットを開始している。
 
 放送開始 - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")9月は『**Adult Oriented Radio**』（アダルト・オリエンテッド・レディオ）というタイトルで月曜 - 木曜 19:00 - 19:55で放送されており、前番組の『Plug in tokyo』からコンセプトが変わり、洋楽が多くなった。同年10月より、略称である『A・O・R』に番組タイトルが変更されて現在に至る。
 
@@ -27,7 +27,7 @@
 
 （2016年10月現在）
 
-  - 19時台 - メッセージテーマ（月曜日のみフリー）を日替わりで設定。リスナーからのメッセージ紹介を中心に、アーティストのプロフィールを交えながら楽曲をオンエアする。不定期でゲストが生出演する事がある（例：2016年9月20日放送分の[大江千里など](https://ja.wikipedia.org/wiki/大江千里_\(アーティスト\) "wikilink")）。2016年10月より、第2水曜に「A・O・R川柳サロン」というリスナーが投稿した川柳を紹介するコーナーも開始。
+  - 19時台 - メッセージテーマ（月曜日のみフリー）を日替わりで設定。リスナーからのメッセージ紹介を中心に、アーティストのプロフィールを交えながら楽曲をオンエアする。不定期でゲストが生出演する事がある（例：2016年9月20日放送分の[大江千里など](../Page/大江千里_\(アーティスト\).md "wikilink")）。2016年10月より、第2水曜に「A・O・R川柳サロン」というリスナーが投稿した川柳を紹介するコーナーも開始。
   - 20時台 - 日替わり特集（2014年4月 - ）
       - 月曜日「**A・O・R～Rock Bar Rhinehart**」：ユキは「Rock Bar Rhinehart」という架空のバーのオーナーという設定。ユキに送られてきた手紙の文面を紹介する・来店客との会話という体でロックアーティスト1名を週替わりでフィーチャーしていく。
       - 火曜日「**A・O・R～Jazz and Vocal Night**」：「JAZZ 100年の100曲」の候補曲やジャズの名曲をレギュラーゲストの[行方均の解説を交えながら進行し](https://ja.wikipedia.org/wiki/行方均_\(音楽評論家\) "wikilink")、最終週はリスナーからのリクエスト特集になる。その他、月1回の特集として月刊誌「JAZZ LIFE」の紹介が行われ、同誌がリスナープレゼントになる場合もある。2016年7月12日 - 9月27日放送分は行方が病気療養のため本番組を休演していたので、他曜日と同様ユキ単独で進行していた。
@@ -280,7 +280,7 @@
 
 [Category:2004年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2004年のラジオ番組_\(日本\) "wikilink") [Category:JFNCの帯番組](https://ja.wikipedia.org/wiki/Category:JFNCの帯番組 "wikilink") [Category:JFN系ラジオの音楽番組](https://ja.wikipedia.org/wiki/Category:JFN系ラジオの音楽番組 "wikilink") [Category:TOKYO_FMの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの帯番組の歴史 "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
 
-1.  19:55 - 20:00は、『[JFNニュース](https://ja.wikipedia.org/wiki/JFNニュース "wikilink")』または各局自主編成。なお、[2011年](../Page/2011年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink") - [6月30日](../Page/6月30日.md "wikilink")は、同年[3月11日](../Page/3月11日.md "wikilink")に発生した[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")（[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")）の被災者を対象とした[政府広報](../Page/政府広報.md "wikilink")番組『[震災情報 官邸発](https://ja.wikipedia.org/wiki/震災情報_官邸発 "wikilink")』が一部ネット局で放送されていた。
+1.  19:55 - 20:00は、『[JFNニュース](../Page/JFNニュース.md "wikilink")』または各局自主編成。なお、[2011年](../Page/2011年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink") - [6月30日](../Page/6月30日.md "wikilink")は、同年[3月11日](../Page/3月11日.md "wikilink")に発生した[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")（[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")）の被災者を対象とした[政府広報](../Page/政府広報.md "wikilink")番組『[震災情報 官邸発](https://ja.wikipedia.org/wiki/震災情報_官邸発 "wikilink")』が一部ネット局で放送されていた。
 2.  放送開始 - 2011年3月は月曜・火曜・木曜の19時台のみネット、2011年4月 - 2017年3月は20時台のみネットだったが、同年4月よりフルネット。
 3.  2010年4月に放送開始。
 4.  2009年4月に月曜 - 水曜のみ放送開始し、2011年10月より、木曜も20時台のみネット。2012年10月より全曜日フルネット。

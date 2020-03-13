@@ -60,7 +60,7 @@
 5.  **INTERLUDE B Part II**
       -
         アナログA面の「Part II」同様、フェイド・アウトせず終止まで行くB面のアカペラが再度登場する。
-6.  **[YOUR EYES](https://ja.wikipedia.org/wiki/YOUR_EYES_\(山下達郎の曲\) "wikilink")**
+6.  **[YOUR EYES](../Page/YOUR_EYES_\(山下達郎の曲\).md "wikilink")**
       -
         [ALAN O'DAY](https://ja.wikipedia.org/wiki/アラン・オデイ "wikilink") 作詞, 山下達郎 作曲・編曲
         [菅原文太](https://ja.wikipedia.org/wiki/菅原文太 "wikilink")出演の[ニッスイCMソング](../Page/日本水産.md "wikilink")。「MORNING GLORY」と同じ時に竹内まりやに書き下ろした作品だったが、彼女の制作サイドで不採用になったので、自身のレパートリィとしてレコーディングされた。初めから英語の詞を乗せるつもりで書いたもので、それまで竹内の「EVERY NIGHT」などで共作していた[アラン・オデイ](https://ja.wikipedia.org/wiki/アラン・オデイ "wikilink")に自分用の依頼をした最初の作品になった。ベスト・アルバム『GREATEST HITS\!』\[24\]に収録されたほか、サウンドトラック・アルバム『[BIG WAVE](https://ja.wikipedia.org/wiki/BIG_WAVE_\(サウンドトラック\) "wikilink")』\[25\]にリミックスで再収録された。また、シングル「[LOVELAND, ISLAND](https://ja.wikipedia.org/wiki/LOVELAND,_ISLAND "wikilink")」\[26\]にカップリングとして収録され、さらにオールタイム・ベスト・アルバム『OPUS』\[27\]にも収録された。[2013年](../Page/2013年.md "wikilink")に竹内まりやがシングル「[Your Eyes](https://ja.wikipedia.org/wiki/Your_Eyes_\(竹内まりやの曲\) "wikilink")」としてリリース。竹内による“YOUR EYES”が、31年後に実現した。

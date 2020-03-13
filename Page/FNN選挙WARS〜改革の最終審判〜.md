@@ -1,7 +1,7 @@
 > この記事は[FNNWARS](https://ja.wikipedia.org/wiki/FNNWARS)から翻訳されています。
 
 
-『**FNN選挙WARS〜改革の最終審判〜**』（エフエヌエヌ せんきょウォーズ かいかくのさいしゅうしんぱん）は、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")（[FNN系列](../Page/フジニュースネットワーク.md "wikilink")）で[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月11日](../Page/9月11日.md "wikilink")に放送された[選挙特別番組](../Page/選挙特別番組.md "wikilink")。タイトルは『[スター・ウォーズ](https://ja.wikipedia.org/wiki/スター・ウォーズ "wikilink")』をもじっている。
+『**FNN選挙WARS〜改革の最終審判〜**』（エフエヌエヌ せんきょウォーズ かいかくのさいしゅうしんぱん）は、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")（[FNN系列](../Page/フジニュースネットワーク.md "wikilink")）で[2005年](../Page/2005年.md "wikilink")[9月11日](../Page/9月11日.md "wikilink")に放送された[選挙特別番組](../Page/選挙特別番組.md "wikilink")。タイトルは『[スター・ウォーズ](https://ja.wikipedia.org/wiki/スター・ウォーズ "wikilink")』をもじっている。
 
 [NNNの選挙特番](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")『[ゲキセン\!](../Page/ゲキセン!.md "wikilink")』を放送する[クロスネット局](../Page/クロスネット局.md "wikilink")の[テレビ大分](../Page/テレビ大分.md "wikilink")と[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")を除き、全国26局ネットで放送。
 
@@ -9,11 +9,11 @@
 
 ## 概要
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月11日](../Page/9月11日.md "wikilink")の[第44回衆議院議員総選挙](../Page/第44回衆議院議員総選挙.md "wikilink")の午後7時58分(実質19:59.00)に番組開始。スタジオセットは、未来の国会をイメージ。前回の選挙トリビアに代わり『[電車男](../Page/電車男.md "wikilink")』の選挙版「選挙男」が登場。
+[2005年](../Page/2005年.md "wikilink")[9月11日](../Page/9月11日.md "wikilink")の[第44回衆議院議員総選挙](../Page/第44回衆議院議員総選挙.md "wikilink")の午後7時58分(実質19:59.00)に番組開始。スタジオセットは、未来の国会をイメージ。前回の選挙トリビアに代わり『[電車男](../Page/電車男.md "wikilink")』の選挙版「選挙男」が登場。
 
 ## 放送時間
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月11日](../Page/9月11日.md "wikilink")
+[2005年](../Page/2005年.md "wikilink")[9月11日](../Page/9月11日.md "wikilink")
 
   - episode1　19:58(実質19:59.00) - 21:15
   - episode2　22:20 - 23:15

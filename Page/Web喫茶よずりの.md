@@ -18,7 +18,7 @@
 
 ### その他
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月10日](../Page/4月10日.md "wikilink")に[初台](../Page/初台.md "wikilink")の「The DOORS」にて「[サーカス情報局ボルケ〜ノ](../Page/サーカス情報局_VOLCANO.md "wikilink")」との合同公開収録を行なった（第61回放送分）。
+  - [2005年](../Page/2005年.md "wikilink")[4月10日](../Page/4月10日.md "wikilink")に[初台](../Page/初台.md "wikilink")の「The DOORS」にて「[サーカス情報局ボルケ〜ノ](../Page/サーカス情報局_VOLCANO.md "wikilink")」との合同公開収録を行なった（第61回放送分）。
   - 第100回記念として「裏喫茶よずりの」を配信している（2006年1月14日〜2月11日）。
 
 ## ゲスト
@@ -30,7 +30,7 @@
   - 第61回放送(2005年4月16日配信)　[らまマン](https://ja.wikipedia.org/wiki/らまマン "wikilink")、[かゆらゆか](https://ja.wikipedia.org/wiki/かゆらゆか "wikilink")
   - 第64回放送(2005年5月7日配信)　[らまマン](https://ja.wikipedia.org/wiki/らまマン "wikilink")
   - 第72・73回放送(2005年7月2日・7月9日配信)　[橋本みゆき](../Page/橋本みゆき.md "wikilink")
-  - 第76回放送(2005年7月30日配信)　[bamboo](https://ja.wikipedia.org/wiki/Milktub "wikilink")（[グリーングリーン3](https://ja.wikipedia.org/wiki/グリーングリーン3_ハローグッバイ "wikilink") [プロデューサー](../Page/プロデューサー.md "wikilink")）
+  - 第76回放送(2005年7月30日配信)　[bamboo](../Page/Milktub.md "wikilink")（[グリーングリーン3](../Page/グリーングリーン3_ハローグッバイ.md "wikilink") [プロデューサー](../Page/プロデューサー.md "wikilink")）
   - 第77回放送(2005年8月6日配信)　[佐藤裕美](../Page/佐藤ひろ美.md "wikilink")
   - 第92・93回放送(2005年11月19日・11月26日配信)　[meg rock](https://ja.wikipedia.org/wiki/meg_rock "wikilink")
   - 第94回放送(2005年12月3日配信)　[影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink")
@@ -50,7 +50,7 @@
   - 第183回放送(2007年8月18日配信) [marble](https://ja.wikipedia.org/wiki/marble "wikilink")
   - 第192回放送(2007年10月20日配信) [美郷あき](../Page/美郷あき.md "wikilink")
   - 第195回放送(2007年11月10日配信) [ゆうまお](../Page/ゆうまお.md "wikilink")
-  - 第197回放送(2007年11月24日配信) Snow\*（[大竹佑季](https://ja.wikipedia.org/wiki/大竹佑季 "wikilink")）
+  - 第197回放送(2007年11月24日配信) Snow\*（[大竹佑季](../Page/大竹佑季.md "wikilink")）
   - 第198回放送(2007年12月1日配信) [YURIA](../Page/YURIA.md "wikilink")
   - 第207回放送(2008年2月2日配信) [marble](https://ja.wikipedia.org/wiki/marble "wikilink")
   - 第209回放送(2008年2月16日配信) [ゆうまお](../Page/ゆうまお.md "wikilink")

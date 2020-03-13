@@ -54,7 +54,7 @@
 </tr>
 <tr class="even">
 <td><p>リサイクラ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NEXTSTEP" title="wikilink">NEXTSTEP</a></p></td>
+<td><p><a href="../Page/NEXTSTEP.md" title="wikilink">NEXTSTEP</a></p></td>
 <td><p>Workspace Manager</p></td>
 </tr>
 </tbody>

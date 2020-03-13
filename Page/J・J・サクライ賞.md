@@ -5,8 +5,8 @@
 
 ## 受賞者一覧
 
-  - 1985年： [益川敏英](../Page/益川敏英.md "wikilink")、[小林誠](https://ja.wikipedia.org/wiki/小林誠_\(物理学者\) "wikilink")
-  - 1986年： [デイヴィッド・J・グロス](https://ja.wikipedia.org/wiki/デイヴィッド・J・グロス "wikilink")、[H. デビッド・ポリツァー](../Page/H._デビッド・ポリツァー.md "wikilink")、[フランク・ウィルチェック](https://ja.wikipedia.org/wiki/フランク・ウィルチェック "wikilink")
+  - 1985年： [益川敏英](../Page/益川敏英.md "wikilink")、[小林誠](../Page/小林誠_\(物理学者\).md "wikilink")
+  - 1986年： [デイヴィッド・J・グロス](https://ja.wikipedia.org/wiki/デイヴィッド・J・グロス "wikilink")、[H. デビッド・ポリツァー](../Page/H._デビッド・ポリツァー.md "wikilink")、[フランク・ウィルチェック](../Page/フランク・ウィルチェック.md "wikilink")
   - 1987年： [ルチャーノ・マイアーニ](https://ja.wikipedia.org/wiki/ルチャーノ・マイアーニ "wikilink")、[w:John Iliopoulos](https://ja.wikipedia.org/wiki/w:John_Iliopoulos "wikilink")
   - 1988年： [w:Stephen L. Adler](https://ja.wikipedia.org/wiki/w:Stephen_L._Adler "wikilink")
   - 1989年： [ニコラ・カビボ](../Page/ニコラ・カビボ.md "wikilink")

@@ -1,13 +1,13 @@
 > この記事は[EXPO](https://ja.wikipedia.org/wiki/EXPO)から翻訳されています。
 
 
-**EXPOドーム駅**（エキスポドームえき）は、かつて[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[愛知郡長久手町](../Page/愛知郡_\(愛知県\).md "wikilink")（現・[長久手市](https://ja.wikipedia.org/wiki/長久手市 "wikilink")）岩作の[愛・地球博長久手会場内にあった](../Page/2005年日本国際博覧会.md "wikilink")、[2005年日本国際博覧会協会](../Page/2005年日本国際博覧会協会.md "wikilink")[愛・地球博線の](https://ja.wikipedia.org/wiki/2005年日本国際博覧会協会愛・地球博線 "wikilink")[IMTS](https://ja.wikipedia.org/wiki/IMTS "wikilink")の[駅](../Page/鉄道駅.md "wikilink")（[廃駅](../Page/廃駅.md "wikilink")）である。
+**EXPOドーム駅**（エキスポドームえき）は、かつて[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[愛知郡長久手町](../Page/愛知郡_\(愛知県\).md "wikilink")（現・[長久手市](https://ja.wikipedia.org/wiki/長久手市 "wikilink")）岩作の[愛・地球博長久手会場内にあった](../Page/2005年日本国際博覧会.md "wikilink")、[2005年日本国際博覧会協会](../Page/2005年日本国際博覧会協会.md "wikilink")[愛・地球博線の](https://ja.wikipedia.org/wiki/2005年日本国際博覧会協会愛・地球博線 "wikilink")[IMTS](../Page/IMTS.md "wikilink")の[駅](../Page/鉄道駅.md "wikilink")（[廃駅](../Page/廃駅.md "wikilink")）である。
 
 愛・地球博の最南部に位置するグローバル・コモン4の北側にあり、北ゲート・西ゲートに向かう利用者で非常に混雑していた。
 
 ## 歴史
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（[平成](../Page/平成.md "wikilink")17年）
+  - [2005年](../Page/2005年.md "wikilink")（[平成](../Page/平成.md "wikilink")17年）
       - [3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink") 開業\[1\]。
       - [9月26日](../Page/9月26日.md "wikilink") 博覧会閉会に伴い廃止\[2\]。
 

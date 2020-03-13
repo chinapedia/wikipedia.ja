@@ -7,7 +7,7 @@
 
 元[女優で今は歌手のかたわら](../Page/俳優.md "wikilink")[デザイナー](../Page/デザイナー.md "wikilink")としても活躍している。[アメリカではその声質をかわれ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、レコーディングテストなどの経験もある。精力的に[歌手](../Page/歌手.md "wikilink")活動は行なっていないが、[インディーズ](../Page/インディーズ.md "wikilink")の[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")達に[作詞](../Page/作詞.md "wikilink")提供などを行なっている。また、バックコーラス参加などもする。
 
-[歌舞伎](../Page/歌舞伎.md "wikilink")[俳優](../Page/俳優.md "wikilink")の[市村家橘の長女として生まれる](https://ja.wikipedia.org/wiki/市村家橘_\(17代目\) "wikilink")。父方の祖父は[市村吉五郎](https://ja.wikipedia.org/wiki/市村吉五郎_\(2代目\) "wikilink")、祖母は[清元の出である](../Page/清元節.md "wikilink")。[十八代目中村勘三郎](../Page/中村勘三郎_\(18代目\).md "wikilink")、[波乃久里子](../Page/波乃久里子.md "wikilink")は実父の従姉弟になる。[中村勘九郎](../Page/中村勘九郎_\(6代目\).md "wikilink")、[中村七之助は従兄弟にあたる](../Page/中村七之助_\(2代目\).md "wikilink")。
+[歌舞伎](../Page/歌舞伎.md "wikilink")[俳優](../Page/俳優.md "wikilink")の[市村家橘の長女として生まれる](../Page/市村家橘_\(17代目\).md "wikilink")。父方の祖父は[市村吉五郎](https://ja.wikipedia.org/wiki/市村吉五郎_\(2代目\) "wikilink")、祖母は[清元の出である](../Page/清元節.md "wikilink")。[十八代目中村勘三郎](../Page/中村勘三郎_\(18代目\).md "wikilink")、[波乃久里子](../Page/波乃久里子.md "wikilink")は実父の従姉弟になる。[中村勘九郎](../Page/中村勘九郎_\(6代目\).md "wikilink")、[中村七之助は従兄弟にあたる](../Page/中村七之助_\(2代目\).md "wikilink")。
 
 [森村学園幼稚部から森村学園中等部まで在籍](../Page/学校法人森村学園.md "wikilink")、卒業。のちにJapan International Schoolに在籍、卒業。
 

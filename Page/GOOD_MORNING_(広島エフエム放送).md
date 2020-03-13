@@ -1,15 +1,15 @@
 > この記事は[GOOD MORNING \(\)](https://ja.wikipedia.org/wiki/GOOD_MORNING_\(\))から翻訳されています。
 
 
-『**GOOD MORNING**』（グッド モーニング）は、[広島エフエム放送](../Page/広島エフエム放送.md "wikilink")で[2003年](../Page/2003年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月29日](../Page/9月29日.md "wikilink")まで放送されていた朝の[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。前身番組は『[HFMニュースパイス・シャワー](../Page/HFMニュースパイス・シャワー.md "wikilink")』。
+『**GOOD MORNING**』（グッド モーニング）は、[広島エフエム放送](../Page/広島エフエム放送.md "wikilink")で[2003年](../Page/2003年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[2005年](../Page/2005年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")まで放送されていた朝の[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。前身番組は『[HFMニュースパイス・シャワー](../Page/HFMニュースパイス・シャワー.md "wikilink")』。
 
-DJは最終回まで[清野茂樹](https://ja.wikipedia.org/wiki/清野茂樹 "wikilink")が務めた。清野はこの番組の開始前日までは夕方の音楽番組『[MUSIC MANIA](../Page/ミュージック・マニア.md "wikilink")』を担当しており、夕方から朝の声に転身した。清野の休暇中は当時金曜日の朝番組『[WEEKEND FLY\! DAY](https://ja.wikipedia.org/wiki/WEEKEND_FLY!_DAY "wikilink")』の君崎滋が担当した。
+DJは最終回まで[清野茂樹](../Page/清野茂樹.md "wikilink")が務めた。清野はこの番組の開始前日までは夕方の音楽番組『[MUSIC MANIA](../Page/ミュージック・マニア.md "wikilink")』を担当しており、夕方から朝の声に転身した。清野の休暇中は当時金曜日の朝番組『[WEEKEND FLY\! DAY](../Page/WEEKEND_FLY!_DAY.md "wikilink")』の君崎滋が担当した。
 
 番組の特徴として、流す曲はすべて洋楽、リクエストは1曲のみ、最初に流す曲は必ずビートルズの曲、トラフィックインフォメーションのBGMが7:30のみ違う（オープニングBGMと兼ねている）、などが挙げられる。2004年12月にはコンピレーションCDが全国発売された。
 
 放送開始当初、選曲はディレクターが行っていたが、2005年4月からは清野が行っている。また、番組プロデュースも兼任している。番組のエンディングでは、必ず「GOOD MORNING、選曲とお相手、プロデュースは私、清野茂樹でした。」と言っている。
 
-2005年9月29日で番組終了。後枠は『[MORNING ALIVE](https://ja.wikipedia.org/wiki/MORNING_ALIVE "wikilink")』。最終回では、多くの方から花束や贈り物が届いたという（ホームページより）。その中にはピンチヒッターを務めた君崎滋やかつてのミュージックディレクター、『MUSIC MANIA』を一緒に担当していた[浜平恭子](https://ja.wikipedia.org/wiki/浜平恭子 "wikilink")の名前が書いてあった。なお、清野のHFMワイドプログラムでのDJ担当は、この番組が最後となった。
+2005年9月29日で番組終了。後枠は『[MORNING ALIVE](../Page/MORNING_ALIVE.md "wikilink")』。最終回では、多くの方から花束や贈り物が届いたという（ホームページより）。その中にはピンチヒッターを務めた君崎滋やかつてのミュージックディレクター、『MUSIC MANIA』を一緒に担当していた[浜平恭子](../Page/浜平恭子.md "wikilink")の名前が書いてあった。なお、清野のHFMワイドプログラムでのDJ担当は、この番組が最後となった。
 
 ## コーナー
 
@@ -50,7 +50,7 @@ DJは最終回まで[清野茂樹](https://ja.wikipedia.org/wiki/清野茂樹 "w
   - 8:42 フライトインフォメーション
   - 8:45 ひろしまCITY情報（毎週木曜日のみ）＜提供：[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")＞
   - 8:50 GOOD SPORTS
-  - 9:00 HFMトラフィックインフォメーション＆ウェザーリポート ＜提供：[にしき堂](https://ja.wikipedia.org/wiki/にしき堂 "wikilink")＞
+  - 9:00 HFMトラフィックインフォメーション＆ウェザーリポート ＜提供：[にしき堂](../Page/にしき堂.md "wikilink")＞
   - 9:10
       - （火）洋楽BANZAI\!
       - （木）AK＠MY BEST
@@ -62,6 +62,6 @@ DJは最終回まで[清野茂樹](https://ja.wikipedia.org/wiki/清野茂樹 "w
 
 ## 外部リンク
 
-  - [GOOD MORNING 番組ホームページ](http://hfmweb.jp/gm/index.html)（現在はクリックすると[MORNING ALIVEのページが開く](https://ja.wikipedia.org/wiki/MORNING_ALIVE "wikilink")）
+  - [GOOD MORNING 番組ホームページ](http://hfmweb.jp/gm/index.html)（現在はクリックすると[MORNING ALIVEのページが開く](../Page/MORNING_ALIVE.md "wikilink")）
 
 [Category:広島エフエム放送の帯番組](https://ja.wikipedia.org/wiki/Category:広島エフエム放送の帯番組 "wikilink") [Category:2003年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のラジオ番組_\(日本\) "wikilink")

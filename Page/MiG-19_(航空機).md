@@ -15,13 +15,13 @@ MiG-19の最初の試作機である**SM-9/1**(****)は[1954年](../Page/1954年
 
 [K-6](https://ja.wikipedia.org/wiki/K-6_\(ミサイル\) "wikilink")()[空対空ミサイル](../Page/空対空ミサイル.md "wikilink")を搭載する迎撃戦闘機として既存の機体から改修された**SM-2/I**(****)は30 mm機関砲NR-30 3門を保持していたが、全天候能力に欠けていた。MiG-19Pの原型となった**SM-6**(****)はアルマース3()捜索・指示装置を装備し、また主翼下には試験用の写真機Ye-13-300()とAKS-2()を搭載していた。武装は23 mm機関砲NR-23 3門とK-6 2発であった。初飛行は[1957年](../Page/1957年.md "wikilink")に行われ、[翌年まで試験が続けられた](../Page/1958年.md "wikilink")。
 
-[1955年](../Page/1955年.md "wikilink")に初飛行を行った**SM-10**(****)は、[空中給油](../Page/空中給油.md "wikilink")装置を装備する戦闘機として開発され、[Tu-16や](../Page/Tu-16_\(航空機\).md "wikilink")[M-4](../Page/M-4_\(航空機\).md "wikilink")、[Il-28](../Page/Il-28_\(航空機\).md "wikilink")、[MiG-15などとともに試験を行っていたが](https://ja.wikipedia.org/wiki/MiG-15_\(航空機\) "wikilink")、結局ソ連では戦闘機に空中給油能力を持たせることは決定されなかった。なお、SM-10の諸性能は武装を含めSM-9と同等であったとされている。
+[1955年](../Page/1955年.md "wikilink")に初飛行を行った**SM-10**(****)は、[空中給油](../Page/空中給油.md "wikilink")装置を装備する戦闘機として開発され、[Tu-16や](../Page/Tu-16_\(航空機\).md "wikilink")[M-4](../Page/M-4_\(航空機\).md "wikilink")、[Il-28](../Page/Il-28_\(航空機\).md "wikilink")、[MiG-15などとともに試験を行っていたが](../Page/MiG-15_\(航空機\).md "wikilink")、結局ソ連では戦闘機に空中給油能力を持たせることは決定されなかった。なお、SM-10の諸性能は武装を含めSM-9と同等であったとされている。
 
 [1956年](../Page/1956年.md "wikilink")に初飛行を行った**SM-30**(****)は、ロケットのように発射台から発射される短距離離陸（[ゼロ距離発進](https://ja.wikipedia.org/wiki/ゼロ距離発進 "wikilink")）の試験機として開発された。こうした試みは当時各国で行われており、アメリカ合衆国では[F-86や](../Page/F-86_\(戦闘機\).md "wikilink")[F-100](../Page/F-100_\(戦闘機\).md "wikilink")、[F-104で行われていたものが有名である](../Page/F-104_\(戦闘機\).md "wikilink")。これらはいずれも量産には移されなかったが、小型の補助ロケットエンジンによる離陸距離の短縮（[JATO](https://ja.wikipedia.org/wiki/JATO "wikilink")）は[MiG-21や](../Page/MiG-21_\(航空機\).md "wikilink")[Su-7で実用化されている](../Page/Su-7_\(航空機\).md "wikilink")。
 
 ### 実戦
 
-初めて実戦活動を行ったのは[トルクメニスタンにあった](https://ja.wikipedia.org/wiki/トルクメン・ソビエト社会主義共和国 "wikilink")[ソ連防空軍](../Page/ソ連防空軍.md "wikilink")第9護衛戦闘飛行[連隊](../Page/連隊.md "wikilink")の機体で、[1957年](../Page/1957年.md "wikilink")、[アンディジャン](../Page/アンディジャン.md "wikilink")飛行場を飛び立った機体が[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[U-2](../Page/U-2_\(航空機\).md "wikilink")[偵察機](../Page/偵察機.md "wikilink")を迎撃した。[1960年](../Page/1960年.md "wikilink")[5月1日](../Page/5月1日.md "wikilink")にU-2がS-75[地対空ミサイル](../Page/地対空ミサイル.md "wikilink")によって撃墜された際もMiG-19は迎撃を行っていたが、MiG-19によるU-2迎撃はすべて失敗に終わっている。しかし、1960年と1963年に、[バレンツ海](../Page/バレンツ海.md "wikilink")でアメリカの[RB-47偵察機を機関砲で撃墜している](../Page/B-47_\(航空機\).md "wikilink")。
+初めて実戦活動を行ったのは[トルクメニスタンにあった](../Page/トルクメン・ソビエト社会主義共和国.md "wikilink")[ソ連防空軍](../Page/ソ連防空軍.md "wikilink")第9護衛戦闘飛行[連隊](../Page/連隊.md "wikilink")の機体で、[1957年](../Page/1957年.md "wikilink")、[アンディジャン](../Page/アンディジャン.md "wikilink")飛行場を飛び立った機体が[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[U-2](../Page/U-2_\(航空機\).md "wikilink")[偵察機](../Page/偵察機.md "wikilink")を迎撃した。[1960年](../Page/1960年.md "wikilink")[5月1日](../Page/5月1日.md "wikilink")にU-2がS-75[地対空ミサイル](../Page/地対空ミサイル.md "wikilink")によって撃墜された際もMiG-19は迎撃を行っていたが、MiG-19によるU-2迎撃はすべて失敗に終わっている。しかし、1960年と1963年に、[バレンツ海](../Page/バレンツ海.md "wikilink")でアメリカの[RB-47偵察機を機関砲で撃墜している](../Page/B-47_\(航空機\).md "wikilink")。
 
 その後、MiG-19は[ベトナム戦争](../Page/ベトナム戦争.md "wikilink")で北ベトナム空軍機として使用された。航続距離、探知距離が共に短かったMiG-19だったが、当時の北ベトナムでは超音速の機体が配備されていなかったため大いに受け入れられた。またこの戦争の間には、中華人民共和国の殲-6が領空侵犯したアメリカ軍の航空機を撃墜している。
 
@@ -100,13 +100,13 @@ MiG-19_Lip.jpg|初期型のMiG-19 Mikoyan-Gurevich_MiG-19S_Farmer_USAF.jpg|MiG-1
 
   - [ポーランド](../Page/ポーランド空軍.md "wikilink")：MiG-19S/P/PM [PolandAF MiG-19PM \#905](http://lotnictwo.net/foto.php?id=105276)
 
-  - [ルーマニア](https://ja.wikipedia.org/wiki/ルーマニア空軍 "wikilink")：MiG-19P [FAR MiG-19P \#802, 2001](http://www.paulnann.com/images/pn_w3734.jpg)
+  - [ルーマニア](../Page/ルーマニア空軍.md "wikilink")：MiG-19P [FAR MiG-19P \#802, 2001](http://www.paulnann.com/images/pn_w3734.jpg)
 
   - [チェコスロヴァキア](https://ja.wikipedia.org/wiki/チェコスロバキア空軍 "wikilink")：MiG-19S/P/PM [CzechoslovakiaAF MiG-19PM \#1102, 2004](http://www.airliners.net/open.file/577782/L/)
 
   - [ハンガリー](https://ja.wikipedia.org/wiki/ハンガリー空軍 "wikilink")：MiG-19P/PM [HugaryAF MiG-19PM \#28, 2004](http://www.airliners.net/open.file/723540/L/)
 
-  - [東ドイツ](https://ja.wikipedia.org/wiki/ドイツ空軍 "wikilink")：MiG-19S/P/PM
+  - [東ドイツ](../Page/ドイツ空軍.md "wikilink")：MiG-19S/P/PM
 
   - [ユーゴスラヴィア](https://ja.wikipedia.org/wiki/ユーゴスラビア空軍及び防空軍 "wikilink")：MiG-19P
 
@@ -116,9 +116,9 @@ MiG-19_Lip.jpg|初期型のMiG-19 Mikoyan-Gurevich_MiG-19S_Farmer_USAF.jpg|MiG-1
 
   - [ソマリア](https://ja.wikipedia.org/wiki/ソマリア空軍 "wikilink")：F-6 [SomaliAF F-6](http://forum.keypublishing.co.uk/attachment.php?attachmentid=75273)
 
-  - [シリア](https://ja.wikipedia.org/wiki/シリア空軍 "wikilink")：MiG-19S
+  - [シリア](../Page/シリア空軍.md "wikilink")：MiG-19S
 
-  - [イラク](https://ja.wikipedia.org/wiki/イラク空軍 "wikilink")：MiG-19S
+  - [イラク](../Page/イラク空軍.md "wikilink")：MiG-19S
 
   - [エジプト](https://ja.wikipedia.org/wiki/エジプト空 "wikilink")：MiG-19S、F-6、FT-6
 

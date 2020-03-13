@@ -30,7 +30,7 @@
 <!-- end list -->
 
   -
-    SAM がアマチュア時代に所属していた[ダンス](https://ja.wikipedia.org/wiki/ダンス "wikilink")チーム「[Be-Bop Crew](https://ja.wikipedia.org/wiki/Be-Bop_Crew "wikilink")」は、[岡村隆史](https://ja.wikipedia.org/wiki/岡村隆史 "wikilink")が所属していたチーム「[Angel Dust Breakers](https://ja.wikipedia.org/wiki/Angel_Dust_Breakers "wikilink")」とライバル関係にあったので、岡村とは旧知の仲である。
+    SAM がアマチュア時代に所属していた[ダンス](../Page/ダンス.md "wikilink")チーム「[Be-Bop Crew](https://ja.wikipedia.org/wiki/Be-Bop_Crew "wikilink")」は、[岡村隆史](https://ja.wikipedia.org/wiki/岡村隆史 "wikilink")が所属していたチーム「[Angel Dust Breakers](https://ja.wikipedia.org/wiki/Angel_Dust_Breakers "wikilink")」とライバル関係にあったので、岡村とは旧知の仲である。
 
 <!-- end list -->
 

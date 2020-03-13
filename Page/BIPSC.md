@@ -9,7 +9,7 @@
 
 [免許人](https://ja.wikipedia.org/wiki/免許人 "wikilink")のBIPSCは当初、[有限会社](../Page/有限会社.md "wikilink")として設立されたが、法律改正により改組されて現在に至る。
 
-札幌市[清田区](../Page/清田区.md "wikilink")、[白石区](../Page/白石区.md "wikilink")、[豊平区](../Page/豊平区.md "wikilink")、[江別市](../Page/江別市.md "wikilink")、[北広島市](../Page/北広島市.md "wikilink")、[恵庭市](../Page/恵庭市.md "wikilink")などでも、場所によっては受信できる。 また、CSRA運営「[SimulRadio](https://ja.wikipedia.org/wiki/SimulRadio "wikilink")」のサイマル放送(動画付き)や[MTIのインターネットラジオ](../Page/エムティーアイ.md "wikilink")[ListenRadio](https://ja.wikipedia.org/wiki/ListenRadio "wikilink")でも聴取できる。
+札幌市[清田区](../Page/清田区.md "wikilink")、[白石区](../Page/白石区.md "wikilink")、[豊平区](../Page/豊平区.md "wikilink")、[江別市](../Page/江別市.md "wikilink")、[北広島市](../Page/北広島市.md "wikilink")、[恵庭市](../Page/恵庭市.md "wikilink")などでも、場所によっては受信できる。 また、CSRA運営「[SimulRadio](../Page/SimulRadio.md "wikilink")」のサイマル放送(動画付き)や[MTIのインターネットラジオ](../Page/エムティーアイ.md "wikilink")[ListenRadio](https://ja.wikipedia.org/wiki/ListenRadio "wikilink")でも聴取できる。
 
 ## 役員
 

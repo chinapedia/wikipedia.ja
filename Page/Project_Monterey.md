@@ -5,7 +5,7 @@
 
 ## 概要
 
-Project Montereyは1998年10月に発表され、いくつかのUNIXベンダーが参加した。当時、IA-64 がUNIXサーバ市場を支配するとの見方があり、計画の中心は [IA-64](../Page/IA-64.md "wikilink")向けの高信頼なUNIXを開発することになった。1998年[IBM](../Page/IBM.md "wikilink")は[AIX](https://ja.wikipedia.org/wiki/AIX "wikilink")から[POWERおよび](../Page/POWER_\(マイクロプロセッサ\).md "wikilink")[PowerPC](../Page/PowerPC.md "wikilink")サポート機能を提供した。[SCO](../Page/SCO.md "wikilink")は[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink") [IA-32](../Page/IA-32.md "wikilink")サポート機能を提供した。[シークエントは](../Page/シークエント・コンピュータ.md "wikilink")[DYNIX/ptxからマルチプロセッサ機能を提供した](https://ja.wikipedia.org/wiki/Dynix "wikilink")。[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")は、当時まだリリースされていなかった [IA-64](../Page/IA-64.md "wikilink") に関する情報を提供し、独立系ソフトウェアベンダーが IA-64 向けにアプリケーションを移植する際の資金協力をした\[1\]。
+Project Montereyは1998年10月に発表され、いくつかのUNIXベンダーが参加した。当時、IA-64 がUNIXサーバ市場を支配するとの見方があり、計画の中心は [IA-64](../Page/IA-64.md "wikilink")向けの高信頼なUNIXを開発することになった。1998年[IBM](../Page/IBM.md "wikilink")は[AIX](../Page/AIX.md "wikilink")から[POWERおよび](../Page/POWER_\(マイクロプロセッサ\).md "wikilink")[PowerPC](../Page/PowerPC.md "wikilink")サポート機能を提供した。[SCO](../Page/SCO.md "wikilink")は[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink") [IA-32](../Page/IA-32.md "wikilink")サポート機能を提供した。[シークエントは](../Page/シークエント・コンピュータ.md "wikilink")[DYNIX/ptxからマルチプロセッサ機能を提供した](https://ja.wikipedia.org/wiki/Dynix "wikilink")。[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")は、当時まだリリースされていなかった [IA-64](../Page/IA-64.md "wikilink") に関する情報を提供し、独立系ソフトウェアベンダーが IA-64 向けにアプリケーションを移植する際の資金協力をした\[1\]。
 
 2001年5月、プロジェクトは IA-64 向けの AIX-5L のβ版が完成したことを発表し、所期の第一目標を達成した。しかし、インテルは [Itanium](../Page/Itanium.md "wikilink")（最初の IA-64 ハードウェア）のリリースを2年も遅らせてしまったため、Monterrey のソフトウェアには全く市場価値が無くなっていた。
 

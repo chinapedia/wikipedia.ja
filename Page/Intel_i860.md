@@ -1,7 +1,7 @@
 > この記事は[Intel i860](https://ja.wikipedia.org/wiki/Intel_i860)から翻訳されています。
 
 
-**Intel i860**（または**80860**）は[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")の[RISC](../Page/RISC.md "wikilink")[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink")であり、[1989年](../Page/1989年.md "wikilink")にリリースされた。i860(と[i960](https://ja.wikipedia.org/wiki/Intel_i960 "wikilink"))は、インテルにとって[1980年代](../Page/1980年代.md "wikilink")の[i432以来の完全に新しい](https://ja.wikipedia.org/wiki/Intel_iAPX_432 "wikilink")[ハイエンド](https://ja.wikipedia.org/wiki/ハイエンド "wikilink")[ISAについての試みであった](https://ja.wikipedia.org/wiki/命令セット "wikilink")。i860は鳴り物入りで登場し、多くの人が設計が優れていると考えていた[i960のリリースを覆い隠したほどだったが](https://ja.wikipedia.org/wiki/Intel_i960 "wikilink")、i960が[組み込みシステム](../Page/組み込みシステム.md "wikilink")に活路を見出したのに対して、i860は商業的には全く成功せず、プロジェクトは[1990年代](../Page/1990年代.md "wikilink")中ごろに終結させられた。
+**Intel i860**（または**80860**）は[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")の[RISC](../Page/RISC.md "wikilink")[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink")であり、[1989年](../Page/1989年.md "wikilink")にリリースされた。i860(と[i960](../Page/Intel_i960.md "wikilink"))は、インテルにとって[1980年代](../Page/1980年代.md "wikilink")の[i432以来の完全に新しい](../Page/Intel_iAPX_432.md "wikilink")[ハイエンド](https://ja.wikipedia.org/wiki/ハイエンド "wikilink")[ISAについての試みであった](../Page/命令セット.md "wikilink")。i860は鳴り物入りで登場し、多くの人が設計が優れていると考えていた[i960のリリースを覆い隠したほどだったが](../Page/Intel_i960.md "wikilink")、i960が[組み込みシステム](../Page/組み込みシステム.md "wikilink")に活路を見出したのに対して、i860は商業的には全く成功せず、プロジェクトは[1990年代](../Page/1990年代.md "wikilink")中ごろに終結させられた。
 
 [アンドルー・グローヴ](../Page/アンドルー・グローヴ.md "wikilink")はi860の市場での失敗の原因はインテルにあるとして、次のように述べている。
 
@@ -35,7 +35,7 @@ i860をメインCPUとして持つ[UNIX](../Page/UNIX.md "wikilink")ワークス
 
 i860は[ワークステーション](../Page/ワークステーション.md "wikilink")市場で[グラフィックスアクセラレータ](https://ja.wikipedia.org/wiki/グラフィックスアクセラレータ "wikilink")として使われたりした。例えば[NeXT](../Page/NeXT.md "wikilink")Dimensionでも使われた。このマシンは[Mach](../Page/Mach.md "wikilink")の機能削減版が動作し、完全な[PostScript](../Page/PostScript.md "wikilink")スタックを実装していた。ただし、PostScript部分が完全に仕上げられることはなく、単に色[ピクセル](../Page/ピクセル.md "wikilink")を動かすぐらいしかできなかった。このような環境ではi860はかなりよく動作した。主なプログラムはキャッシュに収まるサイズで、完全に予測通りに動くようにコーディングできたからである。は同社のフレームバッファカード Targa と Vista と共に使うことを意図したi860ベースのアクセラレータカードを作り、[ピクサーがそれを使って動作するバージョンの](https://ja.wikipedia.org/wiki/ピクサー・アニメーション・スタジオ "wikilink")[RenderMan](../Page/RenderMan.md "wikilink")を開発。これは386ホストの4倍の性能を発揮した。他の採用例は、ジオメトリエンジン内に複数個のi860XPを使った [SGI](../Page/シリコングラフィックス.md "wikilink")  がある。このような使用法も徐々に減っていき、多くの汎用CPUがi860の性能に追いついて、インテルもPentiumを主力とするようになった。
 
-はi860を[並列計算](../Page/並列計算.md "wikilink")機に採用した。型ネットワークで2個から360個の計算ノードを相互接続したもので、各ノードのローカルメモリに他ノードからもアクセスできる。ノード毎に異なるシステムを採用でき、i860の他に[PowerPC](../Page/PowerPC.md "wikilink")や [SHARC](https://ja.wikipedia.org/wiki/Super_Harvard_Architecture_Single-Chip_Computer "wikilink") DSP を3個組合わせたノードがある。i860向けにアセンブリ言語で書かれた信号処理ライブラリを提供したため、よい性能が得られた。[19インチラック](../Page/19インチラック.md "wikilink") 9U の筐体に360個の計算ノードを詰め込めるため、軍用機上でのレーダー処理などに適していた。
+はi860を[並列計算](../Page/並列計算.md "wikilink")機に採用した。型ネットワークで2個から360個の計算ノードを相互接続したもので、各ノードのローカルメモリに他ノードからもアクセスできる。ノード毎に異なるシステムを採用でき、i860の他に[PowerPC](../Page/PowerPC.md "wikilink")や [SHARC](../Page/Super_Harvard_Architecture_Single-Chip_Computer.md "wikilink") DSP を3個組合わせたノードがある。i860向けにアセンブリ言語で書かれた信号処理ライブラリを提供したため、よい性能が得られた。[19インチラック](../Page/19インチラック.md "wikilink") 9U の筐体に360個の計算ノードを詰め込めるため、軍用機上でのレーダー処理などに適していた。
 
 また1990年代前半、[ストラタスがi](https://ja.wikipedia.org/wiki/ストラタステクノロジー "wikilink")860ベースの[無停止コンピュータ](https://ja.wikipedia.org/wiki/無停止コンピュータ "wikilink") XA/R シリーズを開発している\[6\]。
 

@@ -1,7 +1,7 @@
 > この記事は[MTV](https://ja.wikipedia.org/wiki/MTV)から翻訳されています。
 
 
-**MTV JAPAN**（MTVジャパン）は、音楽[専門チャンネル](../Page/専門チャンネル.md "wikilink")「[MTV](../Page/MTV.md "wikilink")」の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")版。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")（米国。以下、米と表記）[バイアコム・インターナショナル・メディア・ネットワークス](https://ja.wikipedia.org/wiki/:en:ViacomCBS_International_Media_Networks "wikilink")（[バイアコム](../Page/バイアコム.md "wikilink")傘下）の[子会社](https://ja.wikipedia.org/wiki/子会社 "wikilink")で[衛星一般放送事業者](https://ja.wikipedia.org/wiki/衛星一般放送事業者 "wikilink")のバイアコム・ネットワークス・ジャパン株式会社が運営している。
+**MTV JAPAN**（MTVジャパン）は、音楽[専門チャンネル](../Page/専門チャンネル.md "wikilink")「[MTV](../Page/MTV.md "wikilink")」の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")版。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")（米国。以下、米と表記）[バイアコム・インターナショナル・メディア・ネットワークス](https://ja.wikipedia.org/wiki/:en:ViacomCBS_International_Media_Networks "wikilink")（[バイアコム](../Page/バイアコム.md "wikilink")傘下）の[子会社](../Page/子会社.md "wikilink")で[衛星一般放送事業者](https://ja.wikipedia.org/wiki/衛星一般放送事業者 "wikilink")のバイアコム・ネットワークス・ジャパン株式会社が運営している。
 
 ## 概要
 
@@ -19,7 +19,7 @@
 
 そのため、バイアコム社は再びミュージックチャンネルと組むことになり、傘下のMTVネットワークスが資本参加する形で[2001年](../Page/2001年.md "wikilink")1月1日、「**MTVジャパン**」が開局した（ちなみに、開局1曲目は[birdの](https://ja.wikipedia.org/wiki/bird_\(日本の歌手\) "wikilink")「マインドトラベル」）。同時に社名も「エム・ティー・ヴィー・ジャパン株式会社」に変更している。開局を前にして、旧MTV・Vibe時代からのVJはほとんどが2000年11月頃に降板している。
 
-なお、Vibeのインターネット事業は2000年4月に「ミュージック・オンライン株式会社」（[2003年](../Page/2003年.md "wikilink")5月、「株式会社VIBE」に社名変更）に分社化されており、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、バンダイネットワークス（[バンダイナムコグループ](../Page/バンダイナムコグループ.md "wikilink")）の傘下となっている。
+なお、Vibeのインターネット事業は2000年4月に「ミュージック・オンライン株式会社」（[2003年](../Page/2003年.md "wikilink")5月、「株式会社VIBE」に社名変更）に分社化されており、[2005年](../Page/2005年.md "wikilink")、バンダイネットワークス（[バンダイナムコグループ](../Page/バンダイナムコグループ.md "wikilink")）の傘下となっている。
 
 この当時のMTVジャパンは邦楽中心に構成されたものであるため、かつて海外アーティスト達のPV中心だったMTVに親しんでいた層からの評判は必ずしも良いとは言えず、MTVジャパン社長兼CEOの[笹本裕](../Page/笹本裕.md "wikilink")も、当時、自身の経営について、「昔存在していた日本におけるMTVと現在のMTVの相違は 事業的にも市場の変化としても仕方がないものの固定概念を持った人たちといかにうまくお付き合いしつつ新たなマーケットをつくっていく必要があるかという点でも困難であります。」とコメントしているが\[2\]、経営的には成功を収め、視聴者数は[2006年](../Page/2006年.md "wikilink")3月に600万人を突破。音楽専門チャンネルでは最大手のスペースシャワーTVに次ぐ規模を誇る。
 
@@ -86,7 +86,7 @@ MTVジャパンやアメリカMTV制作の番組みならず、[VH1](https://ja.
 
 ### その他
 
-  - [Pimp My Ride](https://ja.wikipedia.org/wiki/Pimp_My_Ride "wikilink")
+  - [Pimp My Ride](../Page/Pimp_My_Ride.md "wikilink")
   - The Money and The Power
   - [Punk'd](../Page/パンクト.md "wikilink")
   - [Paris Hiltons My New BFF](https://ja.wikipedia.org/wiki/MTV_My_New_BFF〜パリス・ヒルトンのベストフレンドを探せ!〜 "wikilink")
@@ -97,7 +97,7 @@ MTVジャパンやアメリカMTV制作の番組みならず、[VH1](https://ja.
   - [Nitro Circus](https://ja.wikipedia.org/wiki/ナイトロ・サーカス "wikilink")
   - [Jackass](../Page/ジャッカス.md "wikilink")
   - Tempura(日本版jackass)
-  - [オズボーンズ](https://ja.wikipedia.org/wiki/オズボーンズ "wikilink")
+  - [オズボーンズ](../Page/オズボーンズ.md "wikilink")
   - [The World of GOLDEN EGGS](../Page/The_World_of_GOLDEN_EGGS.md "wikilink")
   - MTV Girls Collection
   - M chat
@@ -133,7 +133,7 @@ MTVジャパンやアメリカMTV制作の番組みならず、[VH1](https://ja.
   - [福田明子](../Page/福田明子.md "wikilink")
   - [ia](https://ja.wikipedia.org/wiki/ia "wikilink")
   - AKIRA
-  - [KAORI](https://ja.wikipedia.org/wiki/板倉香 "wikilink")
+  - [KAORI](../Page/板倉香.md "wikilink")
   - [カーチン](../Page/加藤哉子.md "wikilink")
   - [クリステル・チアリ](../Page/クリステル・チアリ.md "wikilink")
   - [グローバー](../Page/グローバー_\(ミュージシャン\).md "wikilink")
@@ -165,8 +165,8 @@ MTVジャパンやアメリカMTV制作の番組みならず、[VH1](https://ja.
 ## 関連項目
 
   - [音楽専門チャンネル一覧](../Page/音楽専門チャンネル一覧.md "wikilink")
-  - [MTV THE SUPER DRY LIVE](https://ja.wikipedia.org/wiki/MTV_THE_SUPER_DRY_LIVE "wikilink")
-  - [MTV Video Music Awards Japan](https://ja.wikipedia.org/wiki/MTV_Video_Music_Awards_Japan "wikilink")
+  - [MTV THE SUPER DRY LIVE](../Page/MTV_THE_SUPER_DRY_LIVE.md "wikilink")
+  - [MTV Video Music Awards Japan](../Page/MTV_Video_Music_Awards_Japan.md "wikilink")
   - [ニコロデオン (TVチャンネル)](../Page/ニコロデオン_\(TVチャンネル\).md "wikilink")
   - [ニコニコ動画](../Page/ニコニコ動画.md "wikilink") - 専門チャンネルが存在する
   - [MSP](https://ja.wikipedia.org/wiki/MSP "wikilink") - MTV STUDENT PROMOTERS

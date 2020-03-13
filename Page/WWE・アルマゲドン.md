@@ -58,7 +58,7 @@
 
 <!-- end list -->
 
-  - **[WWFインターコンチネンタル王座戦](https://ja.wikipedia.org/wiki/WWE・インターコンチネンタル王座 "wikilink") -WWF Intercontinental Championship-**
+  - **[WWFインターコンチネンタル王座戦](../Page/WWE・インターコンチネンタル王座.md "wikilink") -WWF Intercontinental Championship-**
 
 <!-- end list -->
 
@@ -160,7 +160,7 @@
 
 <!-- end list -->
 
-  - **[WWFインターコンチネンタル王座戦](https://ja.wikipedia.org/wiki/WWE・インターコンチネンタル王座 "wikilink") -WWF Intercontinental Championship-**
+  - **[WWFインターコンチネンタル王座戦](../Page/WWE・インターコンチネンタル王座.md "wikilink") -WWF Intercontinental Championship-**
 
 <!-- end list -->
 
@@ -207,7 +207,7 @@
 <!-- end list -->
 
   -
-    [クリス・ジェリコ](../Page/クリス・ジェリコ.md "wikilink")＆[クリスチャン](../Page/ジェイソン・リソ.md "wikilink")(c) vs [ダッドリー・ボーイズ](../Page/ダッドリー・ボーイズ.md "wikilink")（[ババ・レイ・ダッドリー](../Page/マーク・ロモナコ.md "wikilink")＆[ディーボン・ダッドリー](../Page/ディーボン・ヒューズ.md "wikilink")） vs [ウィリアム・リーガル](../Page/ダレン・マシューズ.md "wikilink")＆[ランス・ストーム](https://ja.wikipedia.org/wiki/ランス・ストーム "wikilink") vs [ブッカー・T](https://ja.wikipedia.org/wiki/ブッカー・ハフマン "wikilink")＆[ゴールダスト](https://ja.wikipedia.org/wiki/ヴァージル・ラネルズ3世 "wikilink")○
+    [クリス・ジェリコ](../Page/クリス・ジェリコ.md "wikilink")＆[クリスチャン](../Page/ジェイソン・リソ.md "wikilink")(c) vs [ダッドリー・ボーイズ](../Page/ダッドリー・ボーイズ.md "wikilink")（[ババ・レイ・ダッドリー](../Page/マーク・ロモナコ.md "wikilink")＆[ディーボン・ダッドリー](../Page/ディーボン・ヒューズ.md "wikilink")） vs [ウィリアム・リーガル](../Page/ダレン・マシューズ.md "wikilink")＆[ランス・ストーム](../Page/ランス・ストーム.md "wikilink") vs [ブッカー・T](https://ja.wikipedia.org/wiki/ブッカー・ハフマン "wikilink")＆[ゴールダスト](https://ja.wikipedia.org/wiki/ヴァージル・ラネルズ3世 "wikilink")○
 
 |         |             |                     |                  |
 | ------- | ----------- | ------------------- | ---------------- |
@@ -294,7 +294,7 @@
 
 <!-- end list -->
 
-  - **[WWEインターコンチネンタル王座戦](https://ja.wikipedia.org/wiki/WWE・インターコンチネンタル王座 "wikilink") -WWE Intercontinental Championship-** スペシャル・レフェリー：[ミック・フォーリー](../Page/ミック・フォーリー.md "wikilink")
+  - **[WWEインターコンチネンタル王座戦](../Page/WWE・インターコンチネンタル王座.md "wikilink") -WWE Intercontinental Championship-** スペシャル・レフェリー：[ミック・フォーリー](../Page/ミック・フォーリー.md "wikilink")
 
 <!-- end list -->
 
@@ -317,7 +317,7 @@
 <!-- end list -->
 
   -
-    [ダッドリー・ボーイズ](../Page/ダッドリー・ボーイズ.md "wikilink")（[ババ・レイ・ダッドリー](../Page/マーク・ロモナコ.md "wikilink")＆[ディーボン・ダッドリー](../Page/ディーボン・ヒューズ.md "wikilink")）(c) vs [スコット・スタイナー](../Page/スコット・スタイナー.md "wikilink")＆[テスト](../Page/アンドリュー・マーチン.md "wikilink") vs [マーク・ジンドラック](../Page/マーク・ジンドラック.md "wikilink")＆[ギャリソン・ケイド](../Page/ランス・ケイド.md "wikilink") vs [バル・ビーナス](../Page/ショーン・モーリー.md "wikilink")＆[ランス・ストーム](https://ja.wikipedia.org/wiki/ランス・ストーム "wikilink") vs [ザ・ハリケーン](../Page/グレゴリー・ヘルムズ.md "wikilink")＆[ロージー](../Page/マット・アノアイ.md "wikilink") vs [ラ・レジスタンス](https://ja.wikipedia.org/wiki/ラ・レジスタンス "wikilink")（[ロブ・コンウェイ](../Page/ロブ・コンウェイ.md "wikilink")＆[レネ・デュプリー](../Page/レネ・ゴーゲン.md "wikilink")）vs [リック・フレアー](../Page/リック・フレアー.md "wikilink")＆[バティスタ](https://ja.wikipedia.org/wiki/デビッド・バウティスタ "wikilink")○
+    [ダッドリー・ボーイズ](../Page/ダッドリー・ボーイズ.md "wikilink")（[ババ・レイ・ダッドリー](../Page/マーク・ロモナコ.md "wikilink")＆[ディーボン・ダッドリー](../Page/ディーボン・ヒューズ.md "wikilink")）(c) vs [スコット・スタイナー](../Page/スコット・スタイナー.md "wikilink")＆[テスト](../Page/アンドリュー・マーチン.md "wikilink") vs [マーク・ジンドラック](../Page/マーク・ジンドラック.md "wikilink")＆[ギャリソン・ケイド](../Page/ランス・ケイド.md "wikilink") vs [バル・ビーナス](../Page/ショーン・モーリー.md "wikilink")＆[ランス・ストーム](../Page/ランス・ストーム.md "wikilink") vs [ザ・ハリケーン](../Page/グレゴリー・ヘルムズ.md "wikilink")＆[ロージー](../Page/マット・アノアイ.md "wikilink") vs [ラ・レジスタンス](https://ja.wikipedia.org/wiki/ラ・レジスタンス "wikilink")（[ロブ・コンウェイ](../Page/ロブ・コンウェイ.md "wikilink")＆[レネ・デュプリー](../Page/レネ・ゴーゲン.md "wikilink")）vs [リック・フレアー](../Page/リック・フレアー.md "wikilink")＆[バティスタ](https://ja.wikipedia.org/wiki/デビッド・バウティスタ "wikilink")○
 
 |         |                                          |                 |                  |
 | ------- | ---------------------------------------- | --------------- | ---------------- |
@@ -652,7 +652,7 @@
 
 <!-- end list -->
 
-  - **[インターコンチネンタル王座第一挑戦者決定トーナメント決勝戦](https://ja.wikipedia.org/wiki/WWE・インターコンチネンタル王座 "wikilink") -Number One Contenders Tournament Final for the Intercontinental Championship-**
+  - **[インターコンチネンタル王座第一挑戦者決定トーナメント決勝戦](../Page/WWE・インターコンチネンタル王座.md "wikilink") -Number One Contenders Tournament Final for the Intercontinental Championship-**
 
 <!-- end list -->
 

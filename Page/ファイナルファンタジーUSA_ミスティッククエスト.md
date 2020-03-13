@@ -1,7 +1,7 @@
 > この記事は[USA ](https://ja.wikipedia.org/wiki/USA_)から翻訳されています。
 
 
-『**ファイナルファンタジーUSA ミスティッククエスト**』（ファイナルファンタジーユーエスエー ミスティッククエスト、英字：*Final Fantasy USA Mystic Quest*、略称：**FFUSA**、**MQ**）は、[スクウェア](../Page/スクウェア_\(ゲーム会社\).md "wikilink")（現[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")）から発売された[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用[ゲームソフト](../Page/ゲームソフト.md "wikilink")。ジャンルは[RPG](../Page/コンピュータRPG.md "wikilink")。[ファイナルファンタジーシリーズ](https://ja.wikipedia.org/wiki/ファイナルファンタジーシリーズ "wikilink")（以下、FFシリーズ）の外伝的作品。単に「**ミスティッククエスト**」とも呼ばれる。
+『**ファイナルファンタジーUSA ミスティッククエスト**』（ファイナルファンタジーユーエスエー ミスティッククエスト、英字：*Final Fantasy USA Mystic Quest*、略称：**FFUSA**、**MQ**）は、[スクウェア](../Page/スクウェア_\(ゲーム会社\).md "wikilink")（現[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")）から発売された[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用[ゲームソフト](../Page/ゲームソフト.md "wikilink")。ジャンルは[RPG](../Page/コンピュータRPG.md "wikilink")。[ファイナルファンタジーシリーズ](../Page/ファイナルファンタジーシリーズ.md "wikilink")（以下、FFシリーズ）の外伝的作品。単に「**ミスティッククエスト**」とも呼ばれる。
 
 ## 概要
 
@@ -25,7 +25,7 @@ FFシリーズでは定番の[クリスタル](../Page/クリスタル.md "wikil
 
 ## システム
 
-ジャンルは[RPGだが](https://ja.wikipedia.org/wiki/コンピューターRPG "wikilink")[アクションRPG](https://ja.wikipedia.org/wiki/アクションRPG "wikilink")的要素も多い。フィールドで**ジャンプ**と**武器アクション**ができることや、[シンボルエンカウントの採用など](../Page/エンカウント.md "wikilink")、FFシリーズの中でも異彩を放っている。[魔法](https://ja.wikipedia.org/wiki/魔法 "wikilink")は[マジックポイント](../Page/マジックポイント.md "wikilink") (MP) を消費するのではなく、**使用回数制**となっている。これは『[FFI](https://ja.wikipedia.org/wiki/ファイナルファンタジー "wikilink")』（GBA版やPSP版を除く）や『[FFIII](../Page/ファイナルファンタジーIII.md "wikilink")』などでも見られたシステムである。
+ジャンルは[RPGだが](https://ja.wikipedia.org/wiki/コンピューターRPG "wikilink")[アクションRPG](https://ja.wikipedia.org/wiki/アクションRPG "wikilink")的要素も多い。フィールドで**ジャンプ**と**武器アクション**ができることや、[シンボルエンカウントの採用など](../Page/エンカウント.md "wikilink")、FFシリーズの中でも異彩を放っている。[魔法](https://ja.wikipedia.org/wiki/魔法 "wikilink")は[マジックポイント](../Page/マジックポイント.md "wikilink") (MP) を消費するのではなく、**使用回数制**となっている。これは『[FFI](../Page/ファイナルファンタジー.md "wikilink")』（GBA版やPSP版を除く）や『[FFIII](../Page/ファイナルファンタジーIII.md "wikilink")』などでも見られたシステムである。
 
 ワールドマップは自由に歩いて進むことはできず、点在する町や[ダンジョン](../Page/ダンジョン.md "wikilink")のシンボルを矢印で繋ぐ**ポイント移動形式**となっている。イベントが進行する度に行き先が増え、新たなポイントへ向かえるようになっているので、道に迷うことはまずない。
 

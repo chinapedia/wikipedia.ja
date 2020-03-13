@@ -80,8 +80,8 @@
   - [2001年](../Page/2001年.md "wikilink")、ベースのTOKIEが脱退、u:zoと中尾が加入した。4月からJESSEと金子の二人で[@llnightnippon.com](../Page/@llnightnippon.com.md "wikilink")の月曜パーソナリティーを担当（4月～9月）。
   - [2003年](../Page/2003年.md "wikilink")3月28日放送の[TBS系ドラマ](../Page/TBSテレビ.md "wikilink")『[池袋ウエストゲートパーク](../Page/池袋ウエストゲートパーク.md "wikilink")』にバンドが出演。4月には[Tibetan Freedom Concertに出演](https://ja.wikipedia.org/wiki/:en:Tibetan_Freedom_Concert "wikilink")、READER'S CAMP開催。活動の拠点をロサンゼルスに移し、[Kottonmouth Kings](https://ja.wikipedia.org/wiki/:en:Kottonmouth_Kings "wikilink")、Phunk JunkeesらSuburban Noize Recordsのバンドとともに全米ツアーを行う。
   - [2004年](../Page/2004年.md "wikilink")に“TIME OUT”（活動休止）を発表。後のインタビューにて、活動拠点を移したものの上手く軌道に乗らず、メンバーもストレスを抱え、ほぼ解散に近い状態だったが、いつか再会できるように“TIME OUT”（活動休止）という形にしたと話してる\[1\]。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、活動再開。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、自らのレーベル**TENSAIBAKA RECORDS**を設立。11月3日のライブを最後にu:zoが脱退。サポートのベーシストとしてKenKenが加わる。
+  - [2005年](../Page/2005年.md "wikilink")、活動再開。
+  - [2005年](../Page/2005年.md "wikilink")、自らのレーベル**TENSAIBAKA RECORDS**を設立。11月3日のライブを最後にu:zoが脱退。サポートのベーシストとしてKenKenが加わる。
   - [2006年](../Page/2006年.md "wikilink")4月からKenKenが正式メンバーとなる。[ユニバーサルミュージック内レーベル](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")[Far Eastern Tribe Recordsへ移籍](../Page/Far_Eastern_Tribe_Records.md "wikilink")。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")5月20日にギターの中尾が脱退。
   - [2016年](../Page/2016年.md "wikilink")8月26日の[SPACE SHOWER SWEET LOVE SHOWER 2016で](../Page/SWEET_LOVE_SHOWER.md "wikilink")、古巣Epic Recordsへ13年ぶりに復帰することを発表した\[2\]。
@@ -385,7 +385,7 @@ ESCL-4829：期間生産限定盤</p></td>
 </tr>
 <tr class="odd">
 <td><p>4th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/7月6日.md" title="wikilink">7月6日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/7月6日.md" title="wikilink">7月6日</a></p></td>
 <td><p><strong>Spit &amp; Yell</strong></p></td>
 <td><p>GTCR-05001</p></td>
 <td><p>18位</p></td>
@@ -477,7 +477,7 @@ ESJL-3091〜ESJL-3092：完全生産限定盤 (アナログ盤)</p></td>
 </tr>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/3月24日.md" title="wikilink">3月24日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/3月24日.md" title="wikilink">3月24日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/FUCK&#39;N_BEST" title="wikilink">FUCK'N BEST</a></strong></p></td>
 <td><p>ESCL-2640</p></td>
 <td><p>70位</p></td>
@@ -507,7 +507,7 @@ UMCF-1094：通常盤</p></td>
 | [オリコン](../Page/オリコン.md "wikilink") |                                                                                             |                            |           |      |
 | 1st                                | [2001年](../Page/2001年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")                    | **Fresh Blend**            | ESBB-2052 | 45位  |
 | 2nd                                | [2002年](../Page/2002年.md "wikilink")[11月7日](../Page/11月7日.md "wikilink")                    | **FUCK'N LIVE**            | ESBL-2097 | 53位  |
-| 3rd                                | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月24日](../Page/3月24日.md "wikilink") | **LOST CLIPS**             | ESCL-2640 | 203位 |
+| 3rd                                | [2005年](../Page/2005年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")                    | **LOST CLIPS**             | ESCL-2640 | 203位 |
 | 4th                                | [2007年](../Page/2007年.md "wikilink")[10月10日](../Page/10月10日.md "wikilink")                  | **LIVE DVD「ALTERNA LIVE」** | UMBF-1003 | 10位  |
 | 5th                                | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[11月5日](../Page/11月5日.md "wikilink") | **LIVE DVD「T.K.O.」**       | UMBF-1005 | 24位  |
 | 6th                                | [2011年](../Page/2011年.md "wikilink")[7月20日](../Page/7月20日.md "wikilink")                    | **HISTORY DVD「PIECE」**     | UMBF-9535 | 30位  |
@@ -545,7 +545,7 @@ UMCF-1094：通常盤</p></td>
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/2月23日" title="wikilink">2月23日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/2月23日" title="wikilink">2月23日</a></p></td>
 <td><p><strong>革命</strong> / 山嵐VS雷図</p></td>
 <td><p>MUCD-1117</p></td>
 <td><p><a href="../Page/ドリーミュージック.md" title="wikilink">ドリーミュージック</a></p></td>

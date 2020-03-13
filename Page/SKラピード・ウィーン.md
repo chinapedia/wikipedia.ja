@@ -321,7 +321,7 @@
 <td><p>1962-63</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/インターシティーズ・フェアーズカップ1962-63" title="wikilink">インターシティーズ・フェアーズカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レッドスター・ベオグラード" title="wikilink">ツルヴェナ・ズヴェズダ</a></p></td>
+<td><p><a href="../Page/レッドスター・ベオグラード.md" title="wikilink">ツルヴェナ・ズヴェズダ</a></p></td>
 <td><p>1–1</p></td>
 <td><p>0–1</p></td>
 <td><p>'''1-2</p></td>
@@ -806,7 +806,7 @@
 <td><p>1986-87</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップウィナーズカップ_1986-87" title="wikilink">UEFAカップウィナーズカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クラブ・ブルッヘ" title="wikilink">クラブ・ブルッヘ</a></p></td>
+<td><p><a href="../Page/クラブ・ブルッヘ.md" title="wikilink">クラブ・ブルッヘ</a></p></td>
 <td><p>4–3</p></td>
 <td><p>3–3</p></td>
 <td><p>'''7-6</p></td>
@@ -871,7 +871,7 @@
 </tr>
 <tr class="odd">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クラブ・ブルッヘ" title="wikilink">クラブ・ブルッヘ</a></p></td>
+<td><p><a href="../Page/クラブ・ブルッヘ.md" title="wikilink">クラブ・ブルッヘ</a></p></td>
 <td><p>4–3</p></td>
 <td><p>2–1</p></td>
 <td><p>'''6-4</p></td>
@@ -1256,7 +1256,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/クラブ・ブルッヘ" title="wikilink">クラブ・ブルッヘ</a></p></td>
+<td><p><a href="../Page/クラブ・ブルッヘ.md" title="wikilink">クラブ・ブルッヘ</a></p></td>
 <td><p>0–1</p></td>
 <td><p>2–3</p></td>
 <td></td>

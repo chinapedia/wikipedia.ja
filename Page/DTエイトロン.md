@@ -135,7 +135,7 @@
 
   - 原作 - チームエイトロン
   - 原作監修 - 伊波正文
-  - 監督 - [アミノテツロー](https://ja.wikipedia.org/wiki/アミノテツロー "wikilink")
+  - 監督 - [アミノテツロー](../Page/アミノテツロー.md "wikilink")
   - シリーズ構成 - [柿沼秀樹](../Page/柿沼秀樹.md "wikilink")
   - キャラクター原案 - 市田善
   - キャラクターデザイン - [田中良](../Page/田中良_\(アニメーター\).md "wikilink")
@@ -178,7 +178,7 @@
 <td><p>1</p></td>
 <td><p>OUT OF DATANIA</p></td>
 <td><p><a href="../Page/柿沼秀樹.md" title="wikilink">柿沼秀樹</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アミノテツロー" title="wikilink">アミノテツロー</a></p></td>
+<td><p><a href="../Page/アミノテツロー.md" title="wikilink">アミノテツロー</a></p></td>
 <td><p>鈴木吉男</p></td>
 <td><p><a href="../Page/田中良_(アニメーター).md" title="wikilink">田中良</a></p></td>
 <td><p><strong>1998年</strong><br />
@@ -197,7 +197,7 @@
 <td><p>3</p></td>
 <td><p>LIFE SIDE'S WALL</p></td>
 <td><p>西澤晋</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/本橋秀之" title="wikilink">本橋秀之</a></p></td>
+<td><p><a href="../Page/本橋秀之.md" title="wikilink">本橋秀之</a></p></td>
 <td><p>5月2日</p></td>
 <td></td>
 <td></td>

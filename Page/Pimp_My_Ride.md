@@ -13,7 +13,7 @@
 
 [2004年](../Page/2004年.md "wikilink")[3月4日](../Page/3月4日.md "wikilink")の初回放送開始直後から全米で大人気の番組となった。番組は[2006年](../Page/2006年.md "wikilink")7月23日に7シーズンで終了。同年秋に『**Pimp My Ride International**』としてリニューアル。司会進行役は[ファット・ジョー](../Page/ファット・ジョー.md "wikilink")が務めるとともに、肝心の改造に関しては既存のカスタムショップではなく、番組専属のカスタムチームによって行われている。
 
-日本においても[MTVジャパン](../Page/MTVジャパン.md "wikilink")、[TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")、[TwellV](https://ja.wikipedia.org/wiki/TwellV "wikilink")で放送されている。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")6月からは[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")版『**Pimp My Ride UK**』が独自のラインナップで放送されている。
+日本においても[MTVジャパン](../Page/MTVジャパン.md "wikilink")、[TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")、[TwellV](https://ja.wikipedia.org/wiki/TwellV "wikilink")で放送されている。[2005年](../Page/2005年.md "wikilink")6月からは[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")版『**Pimp My Ride UK**』が独自のラインナップで放送されている。
 
 ### 番組の流れ
 
@@ -34,7 +34,7 @@
 
 ### 改造内容
 
-[タイヤ](../Page/タイヤ.md "wikilink")の[インチ](../Page/インチ.md "wikilink")アップや大径クローム[ホイール](https://ja.wikipedia.org/wiki/ホイール "wikilink")の取り付け、車両本体に派手なカラーリングを施すなどの外装の改造から、[シートや](../Page/椅子.md "wikilink")[オーディオ](../Page/カーオーディオ.md "wikilink")、生地の張替えなどの内装の改造、場合によっては見た目だけでなく[エンジンスワップ](https://ja.wikipedia.org/wiki/エンジンスワップ "wikilink")や[ターボ](../Page/ターボチャージャー.md "wikilink")、[NOSなどの装着といった](https://ja.wikipedia.org/wiki/ナイトラス・オキサイド・システム "wikilink")[チューニングカー](../Page/チューニングカー.md "wikilink")の部類に入るカスタムまで、幅広く行われる。その方向性は[アメリカ西海岸](https://ja.wikipedia.org/wiki/アメリカ西海岸 "wikilink")で行われている様々な自動車のカスタムジャンル（[ホットロッド](../Page/ホットロッド.md "wikilink")から[スポーツコンパクト](../Page/スポーツコンパクト.md "wikilink")など多岐にわたる）が取り入れられている。
+[タイヤ](../Page/タイヤ.md "wikilink")の[インチ](../Page/インチ.md "wikilink")アップや大径クローム[ホイール](https://ja.wikipedia.org/wiki/ホイール "wikilink")の取り付け、車両本体に派手なカラーリングを施すなどの外装の改造から、[シートや](../Page/椅子.md "wikilink")[オーディオ](../Page/カーオーディオ.md "wikilink")、生地の張替えなどの内装の改造、場合によっては見た目だけでなく[エンジンスワップ](https://ja.wikipedia.org/wiki/エンジンスワップ "wikilink")や[ターボ](../Page/ターボチャージャー.md "wikilink")、[NOSなどの装着といった](../Page/ナイトラス・オキサイド・システム.md "wikilink")[チューニングカー](../Page/チューニングカー.md "wikilink")の部類に入るカスタムまで、幅広く行われる。その方向性は[アメリカ西海岸](https://ja.wikipedia.org/wiki/アメリカ西海岸 "wikilink")で行われている様々な自動車のカスタムジャンル（[ホットロッド](../Page/ホットロッド.md "wikilink")から[スポーツコンパクト](../Page/スポーツコンパクト.md "wikilink")など多岐にわたる）が取り入れられている。
 
 スポンサーから提供された[モニターや](https://ja.wikipedia.org/wiki/薄型テレビ#液晶テレビ "wikilink")[DVDプレーヤー](../Page/DVDプレーヤー.md "wikilink")、巨大な[スピーカー](../Page/スピーカー.md "wikilink")、複数台の[ゲーム機](../Page/ゲーム機.md "wikilink")などの仕掛けが組み込まれるのが特徴。依頼者の趣味や職業に合わせた改造も多く、中には[盆栽](../Page/盆栽.md "wikilink")、[銅鑼](https://ja.wikipedia.org/wiki/銅鑼 "wikilink")、[風呂](../Page/風呂.md "wikilink")、乾燥機、水槽、[卓球](../Page/卓球.md "wikilink")台、コーヒーメーカー、[ジャクジーなどが装備されてしまった例もある](https://ja.wikipedia.org/wiki/風呂#ジャグジーバス "wikilink")。その豪快な改造費が、新車を買えるほどの額になることもしばしばである。
 

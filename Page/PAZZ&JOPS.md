@@ -17,7 +17,7 @@
 
 1996年4月26日から、毎月最終金曜日は[坂本龍一](../Page/坂本龍一.md "wikilink")がスペシャル・ナビゲーターを務める「gut on-line」というコーナーで構成された。
 
-番組に使われていたオープニング・テーマは、「Loco Motive」 (Eddie Gomez) 。エンディング・テーマは、当初「Last Train Home」 （[パット・メセニー・グループ](https://ja.wikipedia.org/wiki/パット・メセニー・グループ "wikilink")）だったが、後に「The Bounce」 (Vibraphonic) に変更された。
+番組に使われていたオープニング・テーマは、「Loco Motive」 (Eddie Gomez) 。エンディング・テーマは、当初「Last Train Home」 （[パット・メセニー・グループ](../Page/パット・メセニー・グループ.md "wikilink")）だったが、後に「The Bounce」 (Vibraphonic) に変更された。
 
 2013年12月15日、「J-WAVE SELECTION EUROPEAN FEVER PAZZ\&JOPS from EUROPE」（22:00-22:54）として復活した。
 

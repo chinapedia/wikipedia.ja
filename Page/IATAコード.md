@@ -5,7 +5,7 @@
 
 ## 空港
 
-[IATA空港コード](https://ja.wikipedia.org/wiki/IATA空港コード "wikilink")（IATA airport code）は[空港](../Page/空港.md "wikilink")に付けられる3文字のコード。[東京国際空港](https://ja.wikipedia.org/wiki/東京国際空港 "wikilink")は*HND*、[成田国際空港](https://ja.wikipedia.org/wiki/成田国際空港 "wikilink")は*NRT*、[シンガポール・チャンギ国際空港](../Page/シンガポール・チャンギ国際空港.md "wikilink")は*SIN*など。
+[IATA空港コード](https://ja.wikipedia.org/wiki/IATA空港コード "wikilink")（IATA airport code）は[空港](../Page/空港.md "wikilink")に付けられる3文字のコード。[東京国際空港](https://ja.wikipedia.org/wiki/東京国際空港 "wikilink")は*HND*、[成田国際空港](../Page/成田国際空港.md "wikilink")は*NRT*、[シンガポール・チャンギ国際空港](../Page/シンガポール・チャンギ国際空港.md "wikilink")は*SIN*など。
 
 ## 航空会社
 

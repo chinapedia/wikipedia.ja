@@ -24,7 +24,7 @@
       - 画像データを格納する事により、ジャケット等を表示する事が可能。(格納は[Mp3tag](https://ja.wikipedia.org/wiki/Mp3tag "wikilink")等を利用、表示は[Foobar2000](../Page/Foobar2000.md "wikilink")等)
       - 歌詞データを格納する事により、カラオケのように表示をする事が可能。
       - Logを格納する事により、エンコード時の環境等を確認する事が可能。
-      - [ID3タグ](https://ja.wikipedia.org/wiki/ID3タグ "wikilink")とデータの高い互換性を有する。
+      - [ID3タグ](../Page/ID3タグ.md "wikilink")とデータの高い互換性を有する。
   - [ストリーミング](../Page/ストリーミング.md "wikilink")への利用可能なデータ形式。
   - クローズドソース故に対応ソフトが限られていた。現在は他のアプリケーションから簡単に利用できるデコード用の[SDKが公開されている](../Page/ソフトウェア開発キット.md "wikilink")
   - エンコードに関してはtak.exe本体の他、[Exact Audio Copyや](https://ja.wikipedia.org/wiki/Exact_Audio_Copy "wikilink")[Foobar2000](../Page/Foobar2000.md "wikilink")等、takc.exeを外部エンコーダーとして利用できるソフトウェアであれば、エンコードする事が可能である。

@@ -5,7 +5,7 @@
 
 ## 概要
 
-[直列4気筒](../Page/直列4気筒.md "wikilink")[SOHC](../Page/SOHC.md "wikilink")8バルブであった[2S-E型エンジンを基に](https://ja.wikipedia.org/wiki/トヨタ・S型エンジン_\(2代目\)#2S-ELU "wikilink")、ヤマハ発動機製の[シリンダーヘッド](https://ja.wikipedia.org/wiki/シリンダーヘッド "wikilink")を装着し、[シリンダー](https://ja.wikipedia.org/wiki/シリンダー "wikilink")の内径および行程を変更して、より高出力のスポーツ志向に振ったものである。
+[直列4気筒](../Page/直列4気筒.md "wikilink")[SOHC](../Page/SOHC.md "wikilink")8バルブであった[2S-E型エンジンを基に](https://ja.wikipedia.org/wiki/トヨタ・S型エンジン_\(2代目\)#2S-ELU "wikilink")、ヤマハ発動機製の[シリンダーヘッド](https://ja.wikipedia.org/wiki/シリンダーヘッド "wikilink")を装着し、[シリンダー](../Page/シリンダー.md "wikilink")の内径および行程を変更して、より高出力のスポーツ志向に振ったものである。
 
 [1984年](../Page/1984年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")59年）6月に[マイナーチェンジを実施した](https://ja.wikipedia.org/wiki/モデルチェンジ_\(自動車\)#マイナーモデルチェンジ（マイナーチェンジ） "wikilink")[2代目カムリ（V10系）](https://ja.wikipedia.org/wiki/トヨタ・カムリ#2代目_V10型（1982年～1986年） "wikilink")、および、[姉妹車](../Page/姉妹車.md "wikilink")の[初代ビスタ（V10系）に初めて採用された](https://ja.wikipedia.org/wiki/トヨタ・ビスタ#初代_V1#型（1982年_-_1986年） "wikilink")。採用当初はレギュラーガソリン指定だったが、後の高出力化に伴い[ハイオクタンガソリン指定へと変更された](../Page/高オクタン価ガソリン.md "wikilink")。
 
@@ -15,9 +15,9 @@
 
 1994年（平成6年）4月、3S-GTEの[シリンダーヘッド](https://ja.wikipedia.org/wiki/シリンダーヘッド "wikilink")を改良。これまでの[焼結](../Page/焼結.md "wikilink")合金製バルブシートを圧入する方式から、レーザークラッド法と二液相分離反応\[2\]の応用により、硬質粒子を[アルミ合金製シリンダーヘッドへ直接均一に肉盛りできるようになった](../Page/アルミニウム合金.md "wikilink")\[3\]。これにより、動弁系周辺の冷却性能が向上した。この技術は[自動車技術会](https://ja.wikipedia.org/wiki/自動車技術会 "wikilink")を受賞している\[4\]
 
-1997年(平成9年)12月、3S-GEに[可変バルブタイミング機構](https://ja.wikipedia.org/wiki/可変バルブタイミング機構 "wikilink")（[VVT-i](https://ja.wikipedia.org/wiki/VVT-i "wikilink")など）が採用され、出力と[燃費](../Page/燃費.md "wikilink")を大幅に向上させ、**Beams**という通称が与えられた。
+1997年(平成9年)12月、3S-GEに[可変バルブタイミング機構](https://ja.wikipedia.org/wiki/可変バルブタイミング機構 "wikilink")（[VVT-i](../Page/VVT-i.md "wikilink")など）が採用され、出力と[燃費](../Page/燃費.md "wikilink")を大幅に向上させ、**Beams**という通称が与えられた。
 
-1998年(平成10年) 10月、排気側にも[可変バルブタイミング機構](https://ja.wikipedia.org/wiki/可変バルブタイミング機構 "wikilink")（[VVT-i](https://ja.wikipedia.org/wiki/VVT-i "wikilink")）が追加され（[Dual VVT-i](https://ja.wikipedia.org/wiki/Dual_VVT-i "wikilink")）となり210馬力まで出力を向上させた。
+1998年(平成10年) 10月、排気側にも[可変バルブタイミング機構](https://ja.wikipedia.org/wiki/可変バルブタイミング機構 "wikilink")（[VVT-i](../Page/VVT-i.md "wikilink")）が追加され（[Dual VVT-i](https://ja.wikipedia.org/wiki/Dual_VVT-i "wikilink")）となり210馬力まで出力を向上させた。
 
 なお、3S-GEの派生版に当たるのがトヨタ内製のハイメカツインカムヘッドを装着した**3S-FE**である。こちらはレギュラーガソリン指定の実用エンジンであり、トヨタの中型車に幅広く搭載された。
 
@@ -25,9 +25,9 @@
 
 ## モータースポーツでの活躍
 
-[トムス](../Page/トムス.md "wikilink")が提供する[F3用エンジンのベースとして使われている](https://ja.wikipedia.org/wiki/フォーミュラ3 "wikilink")。[2002年](../Page/2002年.md "wikilink")（平成14年）までは、3S-GTEが[全日本GT選手権](https://ja.wikipedia.org/wiki/全日本GT選手権 "wikilink")に参戦する[スープラに搭載されていた](../Page/トヨタ・スープラ.md "wikilink")。ターボ付きの3S-Gエンジンは[グループC](../Page/グループC.md "wikilink")1車両の[トムス/童夢86C](../Page/トムス・86C.md "wikilink")、[トヨタ/童夢87C](../Page/トヨタ・87C.md "wikilink")、[トヨタ88Cにも搭載された](https://ja.wikipedia.org/wiki/トヨタ・87C#トヨタ・88C "wikilink")。また、[パイクスピーク・インターナショナル・ヒルクライム](../Page/パイクスピーク・インターナショナル・ヒルクライム.md "wikilink")において、[ロッド・ミレン](https://ja.wikipedia.org/wiki/ロッド・ミレン "wikilink")のセリカと[タコマ用に貸与された](../Page/トヨタ・タコマ.md "wikilink")3S-Gは900馬力超の出力を誇り、13年もの間レコードタイムを保持した。肉厚の[鋳鉄](../Page/鋳鉄.md "wikilink")[シリンダーブロック](https://ja.wikipedia.org/wiki/シリンダーブロック "wikilink")ゆえ[強度](../Page/強度.md "wikilink")に長け、[チューニングベースエンジンとして長らく用いられてきた](../Page/チューニングカー.md "wikilink")。しかし、そのため重量が重い（およそ160 kg）のが欠点である。
+[トムス](../Page/トムス.md "wikilink")が提供する[F3用エンジンのベースとして使われている](https://ja.wikipedia.org/wiki/フォーミュラ3 "wikilink")。[2002年](../Page/2002年.md "wikilink")（平成14年）までは、3S-GTEが[全日本GT選手権](https://ja.wikipedia.org/wiki/全日本GT選手権 "wikilink")に参戦する[スープラに搭載されていた](../Page/トヨタ・スープラ.md "wikilink")。ターボ付きの3S-Gエンジンは[グループC](../Page/グループC.md "wikilink")1車両の[トムス/童夢86C](../Page/トムス・86C.md "wikilink")、[トヨタ/童夢87C](../Page/トヨタ・87C.md "wikilink")、[トヨタ88Cにも搭載された](https://ja.wikipedia.org/wiki/トヨタ・87C#トヨタ・88C "wikilink")。また、[パイクスピーク・インターナショナル・ヒルクライム](../Page/パイクスピーク・インターナショナル・ヒルクライム.md "wikilink")において、[ロッド・ミレン](https://ja.wikipedia.org/wiki/ロッド・ミレン "wikilink")のセリカと[タコマ用に貸与された](../Page/トヨタ・タコマ.md "wikilink")3S-Gは900馬力超の出力を誇り、13年もの間レコードタイムを保持した。肉厚の[鋳鉄](../Page/鋳鉄.md "wikilink")[シリンダーブロック](../Page/シリンダーブロック.md "wikilink")ゆえ[強度](../Page/強度.md "wikilink")に長け、[チューニングベースエンジンとして長らく用いられてきた](../Page/チューニングカー.md "wikilink")。しかし、そのため重量が重い（およそ160 kg）のが欠点である。
 
-[ホモロゲーション](../Page/ホモロゲーション.md "wikilink")切れの期限が迫り、F3用エンジンについて[1AZ-FEをベースとした新型エンジンへの切り替えが進められた](https://ja.wikipedia.org/wiki/トヨタ・AZエンジン#1AZ-FE "wikilink")。一方で[全日本F3選手権](../Page/全日本F3選手権.md "wikilink")では[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）より3S-GEエンジンの[ワンメイク](https://ja.wikipedia.org/wiki/ワンメイク "wikilink")で競われる「ナショナルクラス」（現・F3Nクラス）が新設されるなど、依然としてモータースポーツの世界で使われ続けたが、F3Nクラスでの使用も[2017年](../Page/2017年.md "wikilink")（平成29年）シーズンをもって終了することになった。
+[ホモロゲーション](../Page/ホモロゲーション.md "wikilink")切れの期限が迫り、F3用エンジンについて[1AZ-FEをベースとした新型エンジンへの切り替えが進められた](https://ja.wikipedia.org/wiki/トヨタ・AZエンジン#1AZ-FE "wikilink")。一方で[全日本F3選手権](../Page/全日本F3選手権.md "wikilink")では[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）より3S-GEエンジンの[ワンメイク](../Page/ワンメイク.md "wikilink")で競われる「ナショナルクラス」（現・F3Nクラス）が新設されるなど、依然としてモータースポーツの世界で使われ続けたが、F3Nクラスでの使用も[2017年](../Page/2017年.md "wikilink")（平成29年）シーズンをもって終了することになった。
 
 ## 諸元
 
@@ -89,12 +89,12 @@
 </tbody>
 </table>
 
-| 圧縮比   | 11.0                                                             | 11.5                                                                             |
-| ----- | ---------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| 最高出力  | 180PS/6,600rpm                                                   | 190PS/7,000rpm                                                                   |
-| 最高トルク | 20.5kgm/6,000rpm                                                 | 21.0kgm/6,000rpm                                                                 |
-| 搭載車種  | RAV4 - XA10系（1998年8月～）                                           | カルディナ - T210系                                                                    |
-| 備考    | Beams（[VVT-i](https://ja.wikipedia.org/wiki/VVT-i "wikilink")）仕様 | Beams（[DUAL VVT-i](https://ja.wikipedia.org/wiki/VVT-i#DUAL_VVT-i "wikilink")）仕様 |
+| 圧縮比   | 11.0                                          | 11.5                                                                             |
+| ----- | --------------------------------------------- | -------------------------------------------------------------------------------- |
+| 最高出力  | 180PS/6,600rpm                                | 190PS/7,000rpm                                                                   |
+| 最高トルク | 20.5kgm/6,000rpm                              | 21.0kgm/6,000rpm                                                                 |
+| 搭載車種  | RAV4 - XA10系（1998年8月～）                        | カルディナ - T210系                                                                    |
+| 備考    | Beams（[VVT-i](../Page/VVT-i.md "wikilink")）仕様 | Beams（[DUAL VVT-i](https://ja.wikipedia.org/wiki/VVT-i#DUAL_VVT-i "wikilink")）仕様 |
 
 ### 3S-GTE
 

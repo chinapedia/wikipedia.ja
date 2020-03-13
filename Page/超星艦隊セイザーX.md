@@ -1,7 +1,7 @@
 > この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
 
 
-『**超星艦隊セイザーX**』（ちょうせいかんたいセイザーエックス）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink")まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列で全38話（3クール）が放送された、[東宝](../Page/東宝.md "wikilink")製作の[特撮テレビ番組](../Page/特撮テレビ番組一覧.md "wikilink")。
+『**超星艦隊セイザーX**』（ちょうせいかんたいセイザーエックス）は、[2005年](../Page/2005年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink")まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列で全38話（3クール）が放送された、[東宝](../Page/東宝.md "wikilink")製作の[特撮テレビ番組](../Page/特撮テレビ番組一覧.md "wikilink")。
 
 ## あらすじ
 
@@ -560,7 +560,7 @@
 
   - 安藤拓人 / ライオセイザー（声）、安藤宗二郎（18歳時）：[高橋良輔](../Page/高橋良輔_\(俳優\).md "wikilink")（5歳時、[川瀬裕斗](https://ja.wikipedia.org/wiki/川瀬裕斗 "wikilink")）
   - アド / イーグルセイザー（声）：[進藤学](../Page/進藤学.md "wikilink")
-  - ケイン・ルカーノ / ビートルセイザー（声）：[三浦涼介](https://ja.wikipedia.org/wiki/三浦涼介 "wikilink")
+  - ケイン・ルカーノ / ビートルセイザー（声）：[三浦涼介](../Page/三浦涼介.md "wikilink")
   - レミー・フリーデ：[松山まみ](../Page/松山まみ.md "wikilink")
   - シャーク隊長 / シャークセイザー（声）：[松永博史](../Page/松永博史.md "wikilink")
   - ゴルド：[ロバート・ボールドウィン](../Page/ロバート・ボールドウィン.md "wikilink")
@@ -582,9 +582,9 @@
   - 水将軍アクアル：[浅川悠](../Page/浅川悠.md "wikilink")
   - 風将軍サイクリード：[岸尾だいすけ](../Page/岸尾だいすけ.md "wikilink")
   - 雷将軍サンダーラ：[倉田雅世](../Page/倉田雅世.md "wikilink")
-  - ネオデスカル、ブラックライオ：[津田英三](https://ja.wikipedia.org/wiki/津田英三 "wikilink")
+  - ネオデスカル、ブラックライオ：[津田英三](../Page/津田英三.md "wikilink")
   - ガレイド：[二又一成](../Page/二又一成.md "wikilink")
-  - ナレーション：[相沢正輝](../Page/相沢まさき.md "wikilink")（1 - 12話）、[桐井大介](https://ja.wikipedia.org/wiki/桐井大介 "wikilink")（13 - 39話）
+  - ナレーション：[相沢正輝](../Page/相沢まさき.md "wikilink")（1 - 12話）、[桐井大介](../Page/桐井大介.md "wikilink")（13 - 39話）
 
 ### スーツアクター
 
@@ -614,7 +614,7 @@
 
   - [監督](../Page/監督.md "wikilink")：[米田興弘](https://ja.wikipedia.org/wiki/米田興弘 "wikilink")、[市野龍一](https://ja.wikipedia.org/wiki/市野龍一 "wikilink")、[池田敏春](../Page/池田敏春.md "wikilink")、[舞原賢三](../Page/舞原賢三.md "wikilink")
   - [特技監督](https://ja.wikipedia.org/wiki/特技監督 "wikilink")：[川北紘一](../Page/川北紘一.md "wikilink")
-  - [シリーズ構成](https://ja.wikipedia.org/wiki/シリーズ構成 "wikilink")・[脚本](../Page/脚本.md "wikilink")：[林民夫](https://ja.wikipedia.org/wiki/林民夫 "wikilink")
+  - [シリーズ構成](../Page/シリーズ構成.md "wikilink")・[脚本](../Page/脚本.md "wikilink")：[林民夫](https://ja.wikipedia.org/wiki/林民夫 "wikilink")
   - 脚本：[河田秀二](https://ja.wikipedia.org/wiki/河田秀二 "wikilink")、[古怒田健志](https://ja.wikipedia.org/wiki/古怒田健志 "wikilink")、[関根智彦](https://ja.wikipedia.org/wiki/関根智彦 "wikilink")、[今井聡](https://ja.wikipedia.org/wiki/今井聡 "wikilink")
   - アクション監督：[松井哲也](../Page/松井哲也.md "wikilink")、[川名求己](https://ja.wikipedia.org/wiki/川名求己 "wikilink")
   - [音楽](../Page/音楽.md "wikilink")：[高木洋](../Page/高木洋.md "wikilink")
@@ -1088,7 +1088,7 @@
 <td><p>拓人、闇の中へ</p></td>
 <td><ul>
 <li>暗黒恐獣ダークゲラン</li>
-<li>ブラックライオ (声：<a href="https://ja.wikipedia.org/wiki/津田英三" title="wikilink">津田英三</a>）</li>
+<li>ブラックライオ (声：<a href="../Page/津田英三.md" title="wikilink">津田英三</a>）</li>
 </ul></td>
 <td></td>
 <td></td>

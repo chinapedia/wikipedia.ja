@@ -9,7 +9,7 @@
 
 欧州では珍しいピンクをクラブカラーとしていることで知られるが、1900年の設立から7年間は「赤と青」を採用していた。現在のカラーを採用するに至った経緯は明確になっておらず諸説あるが、ユニフォームを漂白する過程で誤ってピンクと黒になってしまったという説や、創設者の一人[ジョセフ・ウィテカーが勝利あるいは敗北の試合後に飲んだリキュールと薬草酒の](https://ja.wikipedia.org/wiki/:en:Joseph_Whitaker_\(ornithologist\) "wikilink")「甘みと苦味」を表現したという説が最も有名である\[3\]\[4\]。
 
-多くをセリエAで過ごした1940～50年代を除いて長らく下部リーグに所属していたが、2002年夏、[ヴェネツィアのオーナーだった](https://ja.wikipedia.org/wiki/ヴェネツィアFC "wikilink")[マウリツィオ・ザンパリーニ](https://ja.wikipedia.org/wiki/マウリツィオ・ザンパリーニ "wikilink")が1500万ユーロでクラブを買収し、会長に就任すると、積極的な補強などが実を結び2004年に31季ぶりの[セリエA昇格を果たし](../Page/セリエA_\(サッカー\).md "wikilink")、さらに欧州カップ戦への出場を成し遂げるなどクラブの地位を著しく向上させた。通算29シーズンをセリエAで過ごし、また2006年の[イタリア代表の](../Page/サッカーイタリア代表.md "wikilink")[ワールドカップ制覇には](../Page/2006_FIFAワールドカップ.md "wikilink")[アンドレア・バルツァッリ](../Page/アンドレア・バルツァッリ.md "wikilink")、[クリスティアン・ザッカルド](../Page/クリスティアン・ザッカルド.md "wikilink")、[ファビオ・グロッソ](../Page/ファビオ・グロッソ.md "wikilink")、[シモーネ・バローネ](../Page/シモーネ・バローネ.md "wikilink")の4名を送り込み、[ユベントスの](../Page/ユヴェントスFC.md "wikilink")5名に次ぐ2番目の勢力として代表チームに貢献した。2008年に[G-14](../Page/G-14.md "wikilink")（ヨーロッパビッグクラブ連合体）の後継組織である[ECA](https://ja.wikipedia.org/wiki/ECA "wikilink")（欧州クラブ協会）に加盟。
+多くをセリエAで過ごした1940～50年代を除いて長らく下部リーグに所属していたが、2002年夏、[ヴェネツィアのオーナーだった](../Page/ヴェネツィアFC.md "wikilink")[マウリツィオ・ザンパリーニ](https://ja.wikipedia.org/wiki/マウリツィオ・ザンパリーニ "wikilink")が1500万ユーロでクラブを買収し、会長に就任すると、積極的な補強などが実を結び2004年に31季ぶりの[セリエA昇格を果たし](../Page/セリエA_\(サッカー\).md "wikilink")、さらに欧州カップ戦への出場を成し遂げるなどクラブの地位を著しく向上させた。通算29シーズンをセリエAで過ごし、また2006年の[イタリア代表の](../Page/サッカーイタリア代表.md "wikilink")[ワールドカップ制覇には](../Page/2006_FIFAワールドカップ.md "wikilink")[アンドレア・バルツァッリ](../Page/アンドレア・バルツァッリ.md "wikilink")、[クリスティアン・ザッカルド](../Page/クリスティアン・ザッカルド.md "wikilink")、[ファビオ・グロッソ](../Page/ファビオ・グロッソ.md "wikilink")、[シモーネ・バローネ](../Page/シモーネ・バローネ.md "wikilink")の4名を送り込み、[ユベントスの](../Page/ユヴェントスFC.md "wikilink")5名に次ぐ2番目の勢力として代表チームに貢献した。2008年に[G-14](../Page/G-14.md "wikilink")（ヨーロッパビッグクラブ連合体）の後継組織である[ECA](https://ja.wikipedia.org/wiki/ECA "wikilink")（欧州クラブ協会）に加盟。
 
 ## 名物オーナー
 
@@ -32,13 +32,13 @@
 | 2010      | [ユーロベット](https://ja.wikipedia.org/wiki/ユーロベット "wikilink")                                            |                                                                       |
 | 2010–2011 | [レゲア](https://ja.wikipedia.org/wiki/レゲア "wikilink")                                                  |                                                                       |
 | 2011–2012 | [ユーロベット](https://ja.wikipedia.org/wiki/ユーロベット "wikilink") & [バーガーキング](../Page/バーガーキング.md "wikilink") |                                                                       |
-| 2012–2013 | [プーマ](https://ja.wikipedia.org/wiki/プーマ "wikilink")                                                  | [ユーロベット](https://ja.wikipedia.org/wiki/ユーロベット "wikilink") & Italiacom |
+| 2012–2013 | [プーマ](../Page/プーマ.md "wikilink")                                                                     | [ユーロベット](https://ja.wikipedia.org/wiki/ユーロベット "wikilink") & Italiacom |
 | 2013–2014 | Palermocalcio.it & [シグマ](https://ja.wikipedia.org/wiki/シグマ_\(スーパーマーケット\) "wikilink")                 |                                                                       |
 | 2014-2015 | [ホマ](https://ja.wikipedia.org/wiki/ホマ "wikilink")                                                    | RosaneroCares & CBM                                                   |
 | 2015-2017 | *なし*                                                                                                 |                                                                       |
 | 2017-2019 | [レゲア](https://ja.wikipedia.org/wiki/レゲア "wikilink")                                                  |                                                                       |
 | 2019      | Gruppo Arena c/o Super Conveniente\[7\]\[8\]                                                         |                                                                       |
-| 2019-     | [Kappa](https://ja.wikipedia.org/wiki/Kappa "wikilink")                                              | Bisaten, Gruppo Arena, Ottica Lipari, ACI, DVP and Gagliano Gioielli  |
+| 2019-     | [Kappa](../Page/Kappa.md "wikilink")                                                                 | Bisaten, Gruppo Arena, Ottica Lipari, ACI, DVP and Gagliano Gioielli  |
 
 ## タイトル
 
@@ -73,7 +73,7 @@
 <tr class="header">
 <th><p>シーズン</p></th>
 <th><p>ディビジョン</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/コッパ・イタリア" title="wikilink">コッパ・イタリア</a></p></th>
+<th><p><a href="../Page/コッパ・イタリア.md" title="wikilink">コッパ・イタリア</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -427,7 +427,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/FCロコモティフ・モスクワ" title="wikilink">ロコモティフ・モスクワ</a></p></td>
+<td><p><a href="../Page/FCロコモティフ・モスクワ.md" title="wikilink">ロコモティフ・モスクワ</a></p></td>
 <td><p>0-0</p></td>
 <td><p>style="background-color:#CFF" align="center" </p></td>
 <td></td>
@@ -488,7 +488,7 @@
 </tr>
 <tr class="odd">
 <td><p>グループH</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アイントラハト・フランクフルト" title="wikilink">アイントラハト・フランクフルト</a></p></td>
+<td><p><a href="../Page/アイントラハト・フランクフルト.md" title="wikilink">アイントラハト・フランクフルト</a></p></td>
 <td><p>style="background-color:#CFF" align="center" </p></td>
 <td><p>2-1</p></td>
 <td><p>'''4位</p></td>
@@ -507,7 +507,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/フェネルバフチェSK" title="wikilink">フェネルバフチェ</a></p></td>
+<td><p><a href="../Page/フェネルバフチェSK.md" title="wikilink">フェネルバフチェ</a></p></td>
 <td><p>style="background-color:#CFF" align="center" </p></td>
 <td><p>0-3</p></td>
 <td></td>
@@ -568,7 +568,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/PFC_CSKAモスクワ" title="wikilink">CSKAモスクワ</a></p></td>
+<td><p><a href="../Page/PFC_CSKAモスクワ.md" title="wikilink">CSKAモスクワ</a></p></td>
 <td><p>0–3</p></td>
 <td><p>1–3</p></td>
 <td></td>
@@ -581,7 +581,7 @@
 <td><p>2011-12</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2011-12" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCトゥーン" title="wikilink">トゥーン</a></p></td>
+<td><p><a href="../Page/FCトゥーン.md" title="wikilink">トゥーン</a></p></td>
 <td><p>2–2</p></td>
 <td><p>1–1</p></td>
 <td><p>'''3–3 (a)</p></td>
@@ -724,7 +724,7 @@
 
   - [ステファノ・ソレンティーノ](../Page/ステファノ・ソレンティーノ.md "wikilink") 2013-2016
 
-  - [ヨシプ・ポサヴェツ](https://ja.wikipedia.org/wiki/ヨシプ・ポサヴェツ "wikilink") 2016-2019
+  - [ヨシプ・ポサヴェツ](../Page/ヨシプ・ポサヴェツ.md "wikilink") 2016-2019
 
 ### DF
 
@@ -756,7 +756,7 @@
 
   - [ジャンカルロ・ゴンサレス](https://ja.wikipedia.org/wiki/ジャンカルロ・ゴンサレス "wikilink") 2014-2017
 
-  - [ハイタム・アレーサミ](https://ja.wikipedia.org/wiki/ハイタム・アレーサミ "wikilink") 2016-2019
+  - [ハイタム・アレーサミ](../Page/ハイタム・アレーサミ.md "wikilink") 2016-2019
 
 ### MF
 
@@ -826,7 +826,7 @@
 
   - [アンドレア・ベロッティ](https://ja.wikipedia.org/wiki/アンドレア・ベロッティ "wikilink") 2013-2015
 
-  - [アルベルト・ジラルディーノ](https://ja.wikipedia.org/wiki/アルベルト・ジラルディーノ "wikilink") 2015-2016
+  - [アルベルト・ジラルディーノ](../Page/アルベルト・ジラルディーノ.md "wikilink") 2015-2016
 
   - [イリヤ・ネストロフスキ](https://ja.wikipedia.org/wiki/イリヤ・ネストロフスキ "wikilink") 2016-2019
 

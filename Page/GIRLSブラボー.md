@@ -1,7 +1,7 @@
 > この記事は[GIRLS](https://ja.wikipedia.org/wiki/GIRLS)から翻訳されています。
 
 
-『**GIRLSブラボー**』（ガールズブラボー）は、[まりお金田](../Page/まりお金田.md "wikilink")による[少年漫画](../Page/少年漫画.md "wikilink")作品。「[月刊少年エース](https://ja.wikipedia.org/wiki/月刊少年エース "wikilink")」（[角川書店](../Page/角川書店.md "wikilink")）、および「少年エース 桃組」（同）にて、[2000年](../Page/2000年.md "wikilink")から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")にかけて連載された。[単行本](../Page/単行本.md "wikilink")は、角川コミックスエースより全10巻。またゲームも制作された。
+『**GIRLSブラボー**』（ガールズブラボー）は、[まりお金田](../Page/まりお金田.md "wikilink")による[少年漫画](../Page/少年漫画.md "wikilink")作品。「[月刊少年エース](https://ja.wikipedia.org/wiki/月刊少年エース "wikilink")」（[角川書店](../Page/角川書店.md "wikilink")）、および「少年エース 桃組」（同）にて、[2000年](../Page/2000年.md "wikilink")から[2005年](../Page/2005年.md "wikilink")にかけて連載された。[単行本](../Page/単行本.md "wikilink")は、角川コミックスエースより全10巻。またゲームも制作された。
 
 ## あらすじ
 
@@ -9,7 +9,7 @@
 
 ## 登場人物
 
-[声優](../Page/声優.md "wikilink")は、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")・[ゲーム版](../Page/コンピュータゲーム.md "wikilink") / 『CDバラエティ GIRLS ブラボー』および『CDバラエティ GIRLS ブラボー3時のおやつ』の[ドラマCD](https://ja.wikipedia.org/wiki/ドラマCD "wikilink")版\[1\]の順で記載。また声優1名だけの記載の場合はテレビアニメ・ゲーム版のみで、ドラマCD版には登場しなかった（または台詞がなかった）ことを示す。
+[声優](../Page/声優.md "wikilink")は、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")・[ゲーム版](../Page/コンピュータゲーム.md "wikilink") / 『CDバラエティ GIRLS ブラボー』および『CDバラエティ GIRLS ブラボー3時のおやつ』の[ドラマCD](../Page/ドラマCD.md "wikilink")版\[1\]の順で記載。また声優1名だけの記載の場合はテレビアニメ・ゲーム版のみで、ドラマCD版には登場しなかった（または台詞がなかった）ことを示す。
 
 ### 主要キャラクター
 
@@ -80,7 +80,7 @@
     リサの傍に仕える男性従者で、眼鏡をかけている。小雨と同様に諜報活動を行う。小雨の兄でもある（アニメ11話予告）。
     アニメ版では、トモカと着ぐるみを着て闘う（脱衣麻雀に負けて）シーンがあった。
   - 小雨（こさめ）
-    声 - [升望](https://ja.wikipedia.org/wiki/升望 "wikilink")
+    声 - [升望](../Page/升望.md "wikilink")
     リサの傍に仕える女性従者。諜報、拉致などを行う。
     アニメ版では同じ女性であるにも関わらず桐絵のことが好きになり、ストーカーまがいの行為や女性同士の危ない世界に引きずり込もうとし、最後には桐絵のファーストキスを奪った。
   - リリ

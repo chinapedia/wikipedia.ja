@@ -7,7 +7,7 @@
 
 ## 概要
 
-[タレント](../Page/タレント.md "wikilink")や[パーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")、[俳優](../Page/俳優.md "wikilink")、[ナレーター](https://ja.wikipedia.org/wiki/ナレーター "wikilink")、婚礼式場の司会者など総勢150人が在籍する。[テレビタレントセンター](https://ja.wikipedia.org/wiki/テレビタレントセンター "wikilink") (TTC) で1年間基礎訓練を受けた人物と、実務経験を持ち採用された一部の中途採用者によって構成されている。
+[タレント](../Page/タレント.md "wikilink")や[パーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")、[俳優](../Page/俳優.md "wikilink")、[ナレーター](https://ja.wikipedia.org/wiki/ナレーター "wikilink")、婚礼式場の司会者など総勢150人が在籍する。[テレビタレントセンター](../Page/テレビタレントセンター.md "wikilink") (TTC) で1年間基礎訓練を受けた人物と、実務経験を持ち採用された一部の中途採用者によって構成されている。
 
 また、大手広告代理店[電通](../Page/電通.md "wikilink")と在名の放送局（[東海テレビ放送](../Page/東海テレビ放送.md "wikilink")、[中部日本放送](../Page/中部日本放送.md "wikilink")、[名古屋テレビ放送](../Page/名古屋テレビ放送.md "wikilink")、[中京テレビ放送](../Page/中京テレビ放送.md "wikilink")、[東海ラジオ放送](../Page/東海ラジオ放送.md "wikilink")、[エフエム愛知](../Page/エフエム愛知.md "wikilink")）を[株主](../Page/株主.md "wikilink")に持ち、タレントたちのTTCでの基礎訓練に携わる講師陣は在名局各局のアナウンサーと電通関係者によって成り立っている。講師陣には狂言の家元で有名な[和泉元彌](../Page/和泉元彌.md "wikilink")の名前もあり、そこで学ぶ研修生たちの総合的な表現力の向上を図っている。この教育システムによって、TTCでの研修を終えた者が在名局各局の契約アナウンサーとして採用されるというケースも多い。中京圏のテレビ放送などで日常的に目にするアナウンサーの一部は、NTBに所属する契約アナウンサーである。なお、名古屋を拠点に活動していた当時の[青木さやか](../Page/青木さやか.md "wikilink")もここに所属していた\[1\]。
 
@@ -27,12 +27,12 @@
 
 ### アナウンサー
 
-  - [神取恭子](https://ja.wikipedia.org/wiki/神取恭子 "wikilink")（名古屋テレビ契約）
-  - [千ヶ崎公子](https://ja.wikipedia.org/wiki/千ヶ崎公子 "wikilink")（名古屋テレビ契約 → フリー）
+  - [神取恭子](../Page/神取恭子.md "wikilink")（名古屋テレビ契約）
+  - [千ヶ崎公子](../Page/千ヶ崎公子.md "wikilink")（名古屋テレビ契約 → フリー）
   - [樋田かおり](https://ja.wikipedia.org/wiki/樋田かおり "wikilink")（[青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink") → 中京テレビ契約 → フリー）
   - [早川真代](../Page/早川真代.md "wikilink")（富山テレビ契約 → フリー）
   - [深谷里奈](../Page/深谷里奈.md "wikilink")（東海ラジオ契約 → フリー）
-  - [政次夏希](https://ja.wikipedia.org/wiki/政次夏希 "wikilink")（中京テレビ契約 → フリー）
+  - [政次夏希](../Page/政次夏希.md "wikilink")（中京テレビ契約 → フリー）
   - [松本亜梨](../Page/松本亜梨.md "wikilink")（中京テレビ契約 → フリー）
   - [若杉直美](../Page/若杉直美.md "wikilink")（名古屋テレビ契約 → フリー）
   - [下岡陽子](https://ja.wikipedia.org/wiki/下岡陽子 "wikilink")（[富山テレビ契約](../Page/富山テレビ放送.md "wikilink") → 東海ラジオ契約→ フリー\[2\]→岐阜放送契約→フリー）
@@ -47,7 +47,7 @@
 
   - [青木さやか](../Page/青木さやか.md "wikilink")（[ワタナベエンターテインメント](../Page/ワタナベエンターテインメント.md "wikilink")へ移籍）
   - [大石まゆみ](../Page/大石まゆみ.md "wikilink")（現在の所属先不明）
-  - [きくち教児](https://ja.wikipedia.org/wiki/きくち教児 "wikilink")（現在の所属先不明）
+  - [きくち教児](../Page/きくち教児.md "wikilink")（現在の所属先不明）
   - [小林千穂](../Page/小林千穂.md "wikilink")\[3\]（現在の所属先不明）
   - [戸井康成](../Page/戸井康成.md "wikilink")\[4\]（個人事務所設立）
   - [平松圭子](../Page/平松圭子.md "wikilink")（現在の所属先不明）
@@ -71,7 +71,7 @@
 
   - [佐藤友香](../Page/佐藤友香_\(東海ラジオアナウンサー\).md "wikilink")（東海ラジオ契約、引退）
   - [下山さおり](../Page/下山さおり.md "wikilink")（名古屋テレビ契約、現在の所属先不明）
-  - [杉山裕子](https://ja.wikipedia.org/wiki/杉山裕子 "wikilink")\[10\]（中京テレビ契約 → フリー、[シグマ・セブン](../Page/シグマ・セブン.md "wikilink")へ移籍）
+  - [杉山裕子](../Page/杉山裕子.md "wikilink")\[10\]（中京テレビ契約 → フリー、[シグマ・セブン](../Page/シグマ・セブン.md "wikilink")へ移籍）
   - [竹田由紀](https://ja.wikipedia.org/wiki/竹田由紀 "wikilink")\[11\]（中京テレビ契約 → フリー、[オールウェーブ・アソシエツ](https://ja.wikipedia.org/wiki/オールウェーブ・アソシエツ "wikilink")へ移籍）
   - [土屋愛子](../Page/土屋愛子.md "wikilink")\[12\]（フリー → 富山テレビ契約、現在の所属先不明）
   - [橋詰真美](https://ja.wikipedia.org/wiki/橋詰真美 "wikilink")（[NHK津放送局](../Page/NHK津放送局.md "wikilink")契約 → 中京テレビ契約 → 名古屋テレビ契約 → フリー、[アクターズエージェンシーへ移籍](../Page/アクターズプロモーション.md "wikilink")）

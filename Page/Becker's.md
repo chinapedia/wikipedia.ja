@@ -1,7 +1,7 @@
 > この記事は[Becker\'s](https://ja.wikipedia.org/wiki/Becker\'s)から翻訳されています。
 
 
-[thumb店](https://ja.wikipedia.org/wiki/ファイル:BecKer's_2006.jpg "wikilink")(現在は閉店) \]\] [thumb店](https://ja.wikipedia.org/wiki/ファイル:Beckers-Hachiouji.JPG "wikilink")（現在は閉店） \]\] **Becker's**（ベッカーズ）は、[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）の[子会社](https://ja.wikipedia.org/wiki/子会社 "wikilink")である[ジェイアール東日本フードビジネス](../Page/ジェイアール東日本フードビジネス.md "wikilink") (ジェフビー) が経営する[ハンバーガー](../Page/ハンバーガー.md "wikilink")・[ベーカリー](../Page/ベーカリー.md "wikilink")[カフェの](../Page/喫茶店.md "wikilink")[ファストカジュアル](https://ja.wikipedia.org/wiki/ファストカジュアル "wikilink")形態のチェーン店。
+[thumb店](https://ja.wikipedia.org/wiki/ファイル:BecKer's_2006.jpg "wikilink")(現在は閉店) \]\] [thumb店](https://ja.wikipedia.org/wiki/ファイル:Beckers-Hachiouji.JPG "wikilink")（現在は閉店） \]\] **Becker's**（ベッカーズ）は、[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）の[子会社](../Page/子会社.md "wikilink")である[ジェイアール東日本フードビジネス](../Page/ジェイアール東日本フードビジネス.md "wikilink") (ジェフビー) が経営する[ハンバーガー](../Page/ハンバーガー.md "wikilink")・[ベーカリー](../Page/ベーカリー.md "wikilink")[カフェの](../Page/喫茶店.md "wikilink")[ファストカジュアル](https://ja.wikipedia.org/wiki/ファストカジュアル "wikilink")形態のチェーン店。
 
 ## 概要
 

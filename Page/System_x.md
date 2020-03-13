@@ -7,7 +7,7 @@
 
 ## 名称
 
-正式名称は「IBM System x」である。IBMのサーバー全体のブランド名「[IBM Systems](https://ja.wikipedia.org/wiki/IBM_Systems "wikilink")」を構成するシリーズ（[System z](https://ja.wikipedia.org/wiki/System_z "wikilink")、[System i](https://ja.wikipedia.org/wiki/System_i "wikilink")、[System p](https://ja.wikipedia.org/wiki/System_p "wikilink")、System x、[System Storage](https://ja.wikipedia.org/wiki/System_Storage "wikilink")）の1つで、x86サーバーのシリーズである。
+正式名称は「IBM System x」である。IBMのサーバー全体のブランド名「[IBM Systems](https://ja.wikipedia.org/wiki/IBM_Systems "wikilink")」を構成するシリーズ（[System z](../Page/System_z.md "wikilink")、[System i](../Page/System_i.md "wikilink")、[System p](../Page/System_p.md "wikilink")、System x、[System Storage](https://ja.wikipedia.org/wiki/System_Storage "wikilink")）の1つで、x86サーバーのシリーズである。
 
 ## 歴史
 
@@ -21,11 +21,11 @@ IBMは1981年の[IBM PCでパーソナルコンピュータ市場に参入した
 
 製品アーキテクチャ上は、いわゆる[PC/AT互換機](https://ja.wikipedia.org/wiki/PC/AT互換機 "wikilink")の1種であるが、2001年のeServer以降は[メインフレーム](../Page/メインフレーム.md "wikilink")など上位サーバー製品の技術を段階的に適用している。
 
-また2002年には、買収した[シークエント・コンピュータ](https://ja.wikipedia.org/wiki/シークエント・コンピュータ "wikilink")の[NUMA](../Page/NUMA.md "wikilink")技術を使用した、大規模SMPサーバーである x Series 400 を追加した。
+また2002年には、買収した[シークエント・コンピュータ](../Page/シークエント・コンピュータ.md "wikilink")の[NUMA](../Page/NUMA.md "wikilink")技術を使用した、大規模SMPサーバーである x Series 400 を追加した。
 
 [2012年](../Page/2012年.md "wikilink")には、買収したPlatform Computing社の技術を使用した、[スーパーコンピュータ](../Page/スーパーコンピュータ.md "wikilink")領域のテクニカル・コンピューティング向けとして、高集積のSystem x **iDataPlex**を追加した\[1\]。
 
-なお、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")の[レノボ](../Page/レノボ.md "wikilink")へのPC事業売却は、対象はパーソナルコンピュータ事業（[ThinkCentre](../Page/ThinkCentre.md "wikilink")、[ThinkPad](../Page/ThinkPad.md "wikilink")）のみで、System xを含めたサーバー事業は売却の対象外であった。その後2014年1月23日に、[Flex Systems Integrated Systems](https://ja.wikipedia.org/wiki/PureSystems "wikilink")、NeXtScale、iDataPlex、保守サービス業務を含むSystem xのサーバー事業もレノボに売却することが発表された。\[2\]
+なお、[2005年](../Page/2005年.md "wikilink")の[レノボ](../Page/レノボ.md "wikilink")へのPC事業売却は、対象はパーソナルコンピュータ事業（[ThinkCentre](../Page/ThinkCentre.md "wikilink")、[ThinkPad](../Page/ThinkPad.md "wikilink")）のみで、System xを含めたサーバー事業は売却の対象外であった。その後2014年1月23日に、[Flex Systems Integrated Systems](https://ja.wikipedia.org/wiki/PureSystems "wikilink")、NeXtScale、iDataPlex、保守サービス業務を含むSystem xのサーバー事業もレノボに売却することが発表された。\[2\]
 
 ## 詳細
 
@@ -46,7 +46,7 @@ x Series以降では、基幹システムサーバに求められる設計思想
   - [2001年](../Page/2001年.md "wikilink") 第1世代 - X-Architecture (Xtended Design Architecture、XDA)\[3\]
       - 16CPUまで拡張可能
   - [2003年](../Page/2003年.md "wikilink") 第2世代 - X-Architecture II (XDA II)\[4\]
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") 第3世代 - X-Architecture (X3)
+  - [2005年](../Page/2005年.md "wikilink") 第3世代 - X-Architecture (X3)
       - ホットスワップメモリを搭載
   - [2007年](../Page/2007年.md "wikilink") 第4世代 Enterprise X-Architecture (eX4)
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")3月 第5世代 Enterprise X-Architecture (eX5、エックスファイブ)\[5\]

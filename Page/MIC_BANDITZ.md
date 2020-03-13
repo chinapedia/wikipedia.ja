@@ -39,7 +39,7 @@ espionage records.からこれまでに2枚のフルアルバムと1枚のミニ
 <!-- end list -->
 
   -
-    [茨城県](../Page/茨城県.md "wikilink")出身。[クレンチ&ブリスタ](../Page/クレンチ&ブリスタ.md "wikilink")のメンバー。倖田來未や[唐沢美帆](https://ja.wikipedia.org/wiki/唐沢美帆 "wikilink")、[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")らの楽曲に参加している。
+    [茨城県](../Page/茨城県.md "wikilink")出身。[クレンチ&ブリスタ](../Page/クレンチ&ブリスタ.md "wikilink")のメンバー。倖田來未や[唐沢美帆](../Page/唐沢美帆.md "wikilink")、[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")らの楽曲に参加している。
 
 <!-- end list -->
 

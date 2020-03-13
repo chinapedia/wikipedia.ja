@@ -9,7 +9,7 @@
   - [2002年](../Page/2002年.md "wikilink")、台湾限定ミニアルバム「ZERO HOUR」を[SOPHIA](../Page/SOPHIA.md "wikilink")の都啓一、wyseの拓磨によるプロデュースによりリリース。
     [12月](https://ja.wikipedia.org/wiki/12月 "wikilink")、Ai+BANDを結成。
   - [2003年](../Page/2003年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")、「Ai+BAND」として6ヶ月連続リメイクシングルリリース。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")、アルバム「KEEP ON SMILE」リリース。
+  - [2005年](../Page/2005年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")、アルバム「KEEP ON SMILE」リリース。
   - その後、ボーカルのAiが台湾での活動も本格化したため、公式発表もないまま「Ai+BAND」は活動休止となる。
 
 ## メンバー
@@ -49,7 +49,7 @@
         JUN SKY WALKER(S)のカバー。 森純太プロデュース。
 4.  RASPBERRY DREAM （2003年4月23日）
       -
-        [REBECCAのカバー](https://ja.wikipedia.org/wiki/レベッカ_\(バンド\) "wikilink")。 [土橋安騎夫](../Page/土橋安騎夫.md "wikilink")（REBECCA）プロデュース。
+        [REBECCAのカバー](../Page/レベッカ_\(バンド\).md "wikilink")。 [土橋安騎夫](../Page/土橋安騎夫.md "wikilink")（REBECCA）プロデュース。
 5.  Hello\! Orange Sunshine （2003年5月21日）
       -
         [JUDY AND MARYのカバー](../Page/JUDY_AND_MARY.md "wikilink")。 [恩田快人](../Page/恩田快人.md "wikilink")（元 JUDY AND MARY）プロデュース。

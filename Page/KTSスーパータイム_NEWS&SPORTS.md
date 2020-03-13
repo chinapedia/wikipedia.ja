@@ -28,7 +28,7 @@
   - [小澤一彦](https://ja.wikipedia.org/wiki/小澤一彦 "wikilink")
   - [川辺ゆかり](https://ja.wikipedia.org/wiki/川辺ゆかり "wikilink") - 前番組の『[KTSテレビ夕刊](../Page/KTSテレビ夕刊.md "wikilink")』から続投。
   - [溝口典子](../Page/山下のりこ.md "wikilink")
-  - [山本慎一](https://ja.wikipedia.org/wiki/山本慎一 "wikilink")（1988年10月 - 1997年3月） - 山本はこの後の『[KTSニュース ザ・ヒューマン](https://ja.wikipedia.org/wiki/KTSニュース_ザ・ヒューマン "wikilink")』や『[KTSスーパーニュース](https://ja.wikipedia.org/wiki/KTSスーパーニュース "wikilink")』にも引き続き出演し、2011年3月25日に降板するまで22年半にわたって鹿児島テレビ夕方のニュース番組に出演し続けた。
+  - [山本慎一](https://ja.wikipedia.org/wiki/山本慎一 "wikilink")（1988年10月 - 1997年3月） - 山本はこの後の『[KTSニュース ザ・ヒューマン](https://ja.wikipedia.org/wiki/KTSニュース_ザ・ヒューマン "wikilink")』や『[KTSスーパーニュース](../Page/KTSスーパーニュース.md "wikilink")』にも引き続き出演し、2011年3月25日に降板するまで22年半にわたって鹿児島テレビ夕方のニュース番組に出演し続けた。
   - [古井千佳夫](../Page/古井千佳夫.md "wikilink")
   - [青木隆子](https://ja.wikipedia.org/wiki/青木隆子 "wikilink")
   - [中村朋美](https://ja.wikipedia.org/wiki/中村朋美 "wikilink")（1994年 - 1997年）

@@ -3,7 +3,7 @@
 
 **GRエンジン**とは、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[V型6気筒](../Page/V型6気筒.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")の[系列である](../Page/トヨタのエンジン系列名.md "wikilink")。バンク角は60度。
 
-[2003年](../Page/2003年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")に登場した[クラウン](../Page/トヨタ・クラウン.md "wikilink")（S180系、12代目）に搭載され、翌年の2004年11月には[マークXにも搭載され](../Page/トヨタ・マークX.md "wikilink")、かつての[直列6気筒](../Page/直列6気筒.md "wikilink")の [JZ型](../Page/トヨタ・JZエンジン.md "wikilink") と、[V型6気筒](../Page/V型6気筒.md "wikilink")の [VZ型](../Page/トヨタ・VZエンジン.md "wikilink") [MZ型](../Page/トヨタ・MZエンジン.md "wikilink") の後継エンジンとなった。 [2005](https://ja.wikipedia.org/wiki/2005年 "wikilink")[イヤーモデルの](https://ja.wikipedia.org/wiki/モデルイヤー "wikilink")[レクサス・GS](../Page/レクサス・GS.md "wikilink")に搭載される形で3.5リットルの2GR-FSEが登場、同年10月には[クラウンのマイナーチェンジに伴い](../Page/トヨタ・クラウン.md "wikilink")、アスリート系の上級グレードに2GR-FSEが搭載されている。当初、国内では無鉛プレミアムガソリン仕様のみだったが、ユーザー間ではパワー向上よりも経済性を重視する声が増えてきたことや、レギュラーガソリンでも充分な出力を得られることから、一部レギュラーガソリン仕様が登場した。
+[2003年](../Page/2003年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")に登場した[クラウン](../Page/トヨタ・クラウン.md "wikilink")（S180系、12代目）に搭載され、翌年の2004年11月には[マークXにも搭載され](../Page/トヨタ・マークX.md "wikilink")、かつての[直列6気筒](../Page/直列6気筒.md "wikilink")の [JZ型](../Page/トヨタ・JZエンジン.md "wikilink") と、[V型6気筒](../Page/V型6気筒.md "wikilink")の [VZ型](../Page/トヨタ・VZエンジン.md "wikilink") [MZ型](../Page/トヨタ・MZエンジン.md "wikilink") の後継エンジンとなった。 [2005](../Page/2005年.md "wikilink")[イヤーモデルの](https://ja.wikipedia.org/wiki/モデルイヤー "wikilink")[レクサス・GS](../Page/レクサス・GS.md "wikilink")に搭載される形で3.5リットルの2GR-FSEが登場、同年10月には[クラウンのマイナーチェンジに伴い](../Page/トヨタ・クラウン.md "wikilink")、アスリート系の上級グレードに2GR-FSEが搭載されている。当初、国内では無鉛プレミアムガソリン仕様のみだったが、ユーザー間ではパワー向上よりも経済性を重視する声が増えてきたことや、レギュラーガソリンでも充分な出力を得られることから、一部レギュラーガソリン仕様が登場した。
 
 ## 系譜
 
@@ -17,7 +17,7 @@
 
 <!-- end list -->
 
-  - タイプ　BEAMS V型6気筒 [DOHC](../Page/DOHC.md "wikilink") [24バルブ](../Page/マルチバルブ.md "wikilink") [VVT-i](https://ja.wikipedia.org/wiki/VVT-i "wikilink") / Dual VVT-i
+  - タイプ　BEAMS V型6気筒 [DOHC](../Page/DOHC.md "wikilink") [24バルブ](../Page/マルチバルブ.md "wikilink") [VVT-i](../Page/VVT-i.md "wikilink") / Dual VVT-i
   - 排気量　3,955 cc
   - 内径φ94.0 mm×行程95.0 mm
   - [圧縮比](https://ja.wikipedia.org/wiki/圧縮比 "wikilink")　10.0 / 10.4
@@ -39,7 +39,7 @@
   - [タコマ](../Page/トヨタ・タコマ.md "wikilink") （海外仕様）
   - [ハイラックス](../Page/トヨタ・ハイラックス.md "wikilink") （海外仕様）
 
-GR型で最初にデビューしたエンジン。この4.0リットル仕様は主に[SUVと](../Page/スポーツ・ユーティリティ・ビークル.md "wikilink")[ライトトラックに搭載されるため](../Page/ピックアップトラック.md "wikilink")、他のGR系エンジンに比べ、最高出力 よりも低・中速のトルク特性や耐久性に重点が置かれた[設計](../Page/設計.md "wikilink")がなされている。 2009年9月に発売された150系ランドクルーザープラドに搭載されたものから 。排気側にも可変バルブタイミング機構を追加(デュアル[VVT-i](https://ja.wikipedia.org/wiki/VVT-i "wikilink")化)し、大幅に出力を向上させた 。これは主に[バルブ形状や](https://ja.wikipedia.org/wiki/ポペットバルブ "wikilink")[バルブタイミング](https://ja.wikipedia.org/wiki/バルブタイミング "wikilink")、[燃焼室](https://ja.wikipedia.org/wiki/燃焼室 "wikilink")形状等の細かい見直しにより、燃焼速度を向上させた結果である。また同時に耐[ノック特性も改善され](../Page/ノッキング.md "wikilink")、出力を向上させながら[レギュラーガソリン](https://ja.wikipedia.org/wiki/レギュラーガソリン "wikilink")仕様となっている。
+GR型で最初にデビューしたエンジン。この4.0リットル仕様は主に[SUVと](../Page/スポーツ・ユーティリティ・ビークル.md "wikilink")[ライトトラックに搭載されるため](../Page/ピックアップトラック.md "wikilink")、他のGR系エンジンに比べ、最高出力 よりも低・中速のトルク特性や耐久性に重点が置かれた[設計](../Page/設計.md "wikilink")がなされている。 2009年9月に発売された150系ランドクルーザープラドに搭載されたものから 。排気側にも可変バルブタイミング機構を追加(デュアル[VVT-i](../Page/VVT-i.md "wikilink")化)し、大幅に出力を向上させた 。これは主に[バルブ形状や](https://ja.wikipedia.org/wiki/ポペットバルブ "wikilink")[バルブタイミング](https://ja.wikipedia.org/wiki/バルブタイミング "wikilink")、[燃焼室](https://ja.wikipedia.org/wiki/燃焼室 "wikilink")形状等の細かい見直しにより、燃焼速度を向上させた結果である。また同時に耐[ノック特性も改善され](../Page/ノッキング.md "wikilink")、出力を向上させながら[レギュラーガソリン](https://ja.wikipedia.org/wiki/レギュラーガソリン "wikilink")仕様となっている。
 
 ### 2GR
 
@@ -307,7 +307,7 @@ GR型で最初にデビューしたエンジン。この4.0リットル仕様は
 
 ### 1GR-FE - 4.0リットル
 
-  - （初）3代目[ランドクルーザープラド](../Page/トヨタ・ランドクルーザープラド.md "wikilink")（GRJ120W/121W）-（120系 海外向け 国内は[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")7月から）
+  - （初）3代目[ランドクルーザープラド](../Page/トヨタ・ランドクルーザープラド.md "wikilink")（GRJ120W/121W）-（120系 海外向け 国内は[2005年](../Page/2005年.md "wikilink")7月から）
   - （初）[4ランナー](../Page/トヨタ・ハイラックスサーフ.md "wikilink")/4代目[ハイラックスサーフ](../Page/トヨタ・ハイラックスサーフ.md "wikilink")（GRN215W）-（210系 海外向け 国内は2005年7月から）※4ランナーは海外仕様
   - [ハイラックス](../Page/トヨタ・ハイラックス.md "wikilink")（GRN21\#W）
   - [FJクルーザー](../Page/トヨタ・FJクルーザー.md "wikilink") （GSJ15W）

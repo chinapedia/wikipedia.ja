@@ -11,9 +11,9 @@ Lost Withnessの「Red Sun Rising」をモチーフとした曲であり\[1\]『
 
 [NHK-FMにおける長時間特別番組](../Page/NHK-FM放送.md "wikilink")、「[今日は一日○○三昧](../Page/今日は一日○○三昧.md "wikilink")」シリーズのアニソン編では5回の放送全てで取り上げられている。1回目の「[今日は一日 アニソン三昧](http://www.nhk.or.jp/zanmai/archive/060503.html)」では126曲目、2回目の「[今日は一日 アニソン三昧SS](http://www.nhk.or.jp/zanmai/archive/070430.html)」では前年度に最もリクエストの多かった曲として1曲目に放送され、3回目の「[今日は一日 アニソン三昧 ファイナル](http://www.nhk.or.jp/zanmai/archive/081231.html)」では128曲目に放送されLia本人もゲスト出演した。4回目の「[今日は一日“帰ってきたアニソン”三昧](http://www.nhk.or.jp/zanmai/past/20100505/index.html)」では36曲目に放送され、Lia本人が電話出演した。また5回目となる「[今日は一日“アニソン”三昧 Z（ゼット）](http://www9.nhk.or.jp/zanmai/program/120616.html)」ではゲスト出演していたLiaが41曲目にライブで歌った。
 
-2000年[9月8日](https://ja.wikipedia.org/wiki/9月8日 "wikilink")のWindows初回版『AIR』の発売に先立ち、「鳥の詩」のショートバージョンが同年[7月14日](../Page/7月14日.md "wikilink")に発売されたI'veのコンピレーションアルバム『[verge](https://ja.wikipedia.org/wiki/verge "wikilink")』に先行収録されている。 また2000年12月発売のアダルトゲーム専門誌『[PUSH\!\!](../Page/PUSH!!.md "wikilink")』2001年2月号には、フルバージョンのMP3データおよびメロディのみの楽譜\[2\]が収録されていた。
+2000年[9月8日](../Page/9月8日.md "wikilink")のWindows初回版『AIR』の発売に先立ち、「鳥の詩」のショートバージョンが同年[7月14日](../Page/7月14日.md "wikilink")に発売されたI'veのコンピレーションアルバム『[verge](https://ja.wikipedia.org/wiki/verge "wikilink")』に先行収録されている。 また2000年12月発売のアダルトゲーム専門誌『[PUSH\!\!](../Page/PUSH!!.md "wikilink")』2001年2月号には、フルバージョンのMP3データおよびメロディのみの楽譜\[2\]が収録されていた。
 
-この「鳥の詩」と同じ制作メンバーで、そのメロディを意識して作られた曲に『Light colors』（『[智代アフター 〜It's a Wonderful Life〜](https://ja.wikipedia.org/wiki/智代アフター_〜It's_a_Wonderful_Life〜 "wikilink")』オープニングテーマ曲）がある。
+この「鳥の詩」と同じ制作メンバーで、そのメロディを意識して作られた曲に『Light colors』（『[智代アフター 〜It's a Wonderful Life〜](../Page/智代アフター_〜It's_a_Wonderful_Life〜.md "wikilink")』オープニングテーマ曲）がある。
 
 ## 批評
 
@@ -77,9 +77,9 @@ Lost Withnessの「Red Sun Rising」をモチーフとした曲であり\[1\]『
 
 ## AIR以外での使用
 
-  - 折戸伸治プロデュースのバンド「WORK-S」のアルバム『Humanity...』（[Key Sounds Label](https://ja.wikipedia.org/wiki/Key_Sounds_Label "wikilink")、2001年8月10日発売）に「鳥の詩 〜[Bossanova](../Page/ボサノヴァ.md "wikilink") Version〜」がボーナストラックとして収録された。
+  - 折戸伸治プロデュースのバンド「WORK-S」のアルバム『Humanity...』（[Key Sounds Label](../Page/Key_Sounds_Label.md "wikilink")、2001年8月10日発売）に「鳥の詩 〜[Bossanova](../Page/ボサノヴァ.md "wikilink") Version〜」がボーナストラックとして収録された。
   - Liaの歌声をデータベースとしたVOCALOID3、[IA -ARIA ON THE PLANETES-には](https://ja.wikipedia.org/wiki/IA_-ARIA_ON_THE_PLANETES- "wikilink")、鳥の詩の歌唱データファイルと伴奏用のインストゥルメンタル版の音楽データファイルが添付されている。
-  - [バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")のアイドル育成ゲーム『[THE IDOLM@STER](../Page/THE_IDOLM@STER.md "wikilink")』のオフィシャルグッズショップ「765プロダクション商品企画部」において、所属アイドル（登場キャラクター）の歌う[カバー](../Page/カバー.md "wikilink")曲のリクエストをユーザーから行ったところ、「如月千早（声：[今井麻美](https://ja.wikipedia.org/wiki/今井麻美 "wikilink")）」のカバー曲として選考されている\[5\]。
+  - [バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")のアイドル育成ゲーム『[THE IDOLM@STER](../Page/THE_IDOLM@STER.md "wikilink")』のオフィシャルグッズショップ「765プロダクション商品企画部」において、所属アイドル（登場キャラクター）の歌う[カバー](../Page/カバー.md "wikilink")曲のリクエストをユーザーから行ったところ、「如月千早（声：[今井麻美](../Page/今井麻美.md "wikilink")）」のカバー曲として選考されている\[5\]。
   - テレビ番組『[モテケン](../Page/モテケン.md "wikilink")』の2007年10月15日放送分のエンディングテーマ
   - ラジオ番組『[新らっきー☆ちゃんねる](https://ja.wikipedia.org/wiki/新らっきー☆ちゃんねる "wikilink")』のコーナー「拝啓・日下部みさお様」タイトルコールのジングル（本曲イントロ部分のアレンジ）としても使われた。
   - 2008年に[遠藤正明](../Page/遠藤正明.md "wikilink")が自身のアニソンカバーアルバム『ENSON2』でこの曲のカバーを行っている。
@@ -91,8 +91,8 @@ Lost Withnessの「Red Sun Rising」をモチーフとした曲であり\[1\]『
 
 ## 鳥の詩のカヴァー
 
-  - [霜月はるか](https://ja.wikipedia.org/wiki/霜月はるか "wikilink")（2001年10月11日発売のCD『ciel etoile』収録）
-  - [如月千早](https://ja.wikipedia.org/wiki/如月千早 "wikilink")（声 - [今井麻美](https://ja.wikipedia.org/wiki/今井麻美 "wikilink")）（『[THE IDOLM@STER YOUR SONG](https://ja.wikipedia.org/wiki/アイドルマスターシリーズの作品一覧#その他の音楽CD "wikilink")』および『[THE IDOLM@STER MASTER ARTIST 05](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_MASTER_ARTIST "wikilink")』収録）
+  - [霜月はるか](../Page/霜月はるか.md "wikilink")（2001年10月11日発売のCD『ciel etoile』収録）
+  - [如月千早](https://ja.wikipedia.org/wiki/如月千早 "wikilink")（声 - [今井麻美](../Page/今井麻美.md "wikilink")）（『[THE IDOLM@STER YOUR SONG](https://ja.wikipedia.org/wiki/アイドルマスターシリーズの作品一覧#その他の音楽CD "wikilink")』および『[THE IDOLM@STER MASTER ARTIST 05](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_MASTER_ARTIST "wikilink")』収録）
   - [榊原ゆい](https://ja.wikipedia.org/wiki/榊原ゆい "wikilink")、[鳥羽すの](https://ja.wikipedia.org/wiki/鳥羽すの "wikilink")、[鈴原たると](../Page/木村あやか.md "wikilink")、[安玖深音](../Page/安玖深音.md "wikilink")、[本山美奈](../Page/本山美奈.md "wikilink")（各々のsolo version、『タイムリープぱらだいす ボーカル・サウンドコレクション コンプリートBOX』収録）
   - [遠藤正明](../Page/遠藤正明.md "wikilink")（『ENSON2 〜COVER SONGS COLLECTION Vol.2〜』収録）
   - [高垣彩陽](../Page/高垣彩陽.md "wikilink")（[2009年](../Page/2009年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink")に行われた、声優ユニット[スフィアのイベント](https://ja.wikipedia.org/wiki/スフィア_\(声優ユニット\) "wikilink")「ミュージックレインgirls 春のチョコまつり」内にて）
@@ -101,7 +101,7 @@ Lost Withnessの「Red Sun Rising」をモチーフとした曲であり\[1\]『
 
 ## 永邦による盗作事件
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")には、[永邦](https://ja.wikipedia.org/wiki/永邦 "wikilink")（ヨン・バン、ショーン・ヨン）という[華人](https://ja.wikipedia.org/wiki/華人 "wikilink")系[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")人アーティストのアルバムに収録された「melody」（作曲・ジー・ゾンピン）と言う曲が、この曲の[盗作](../Page/盗作.md "wikilink")ではないかとの疑惑が持たれ（アレンジ[MIDI](../Page/MIDI.md "wikilink")を使用していた）、Keyが問題のアルバムの版権を持つ[Sony BMGに抗議をしたため同CDはSony](../Page/ソニー・ミュージックエンタテインメント_\(米国\).md "wikilink") BMGにより回収された\[7\]\[8\]。
+[2005年](../Page/2005年.md "wikilink")には、[永邦](https://ja.wikipedia.org/wiki/永邦 "wikilink")（ヨン・バン、ショーン・ヨン）という[華人](https://ja.wikipedia.org/wiki/華人 "wikilink")系[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")人アーティストのアルバムに収録された「melody」（作曲・ジー・ゾンピン）と言う曲が、この曲の[盗作](../Page/盗作.md "wikilink")ではないかとの疑惑が持たれ（アレンジ[MIDI](../Page/MIDI.md "wikilink")を使用していた）、Keyが問題のアルバムの版権を持つ[Sony BMGに抗議をしたため同CDはSony](../Page/ソニー・ミュージックエンタテインメント_\(米国\).md "wikilink") BMGにより回収された\[7\]\[8\]。
 
 ## 脚注
 

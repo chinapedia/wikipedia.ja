@@ -1,9 +1,9 @@
 > この記事は[MCA](https://ja.wikipedia.org/wiki/MCA)から翻訳されています。
 
 
-**MCAレコード** (MCA Records, Inc.) は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")のレコード会社。総合娯楽企業[ミュージック・コーポレーション・オブ・アメリカ](../Page/ミュージック・コーポレーション・オブ・アメリカ.md "wikilink") (MCA) の音楽部門である。母体は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[デッカ・レコード](https://ja.wikipedia.org/wiki/デッカ・レコード "wikilink")（英デッカ）の米国法人（→米デッカ）。MCAは米デッカを[1962年](../Page/1962年.md "wikilink")に買収し、[1973年](../Page/1973年.md "wikilink")にMCAレコードと改名した。詳細は[:en:Music_Corporation_of_America](https://ja.wikipedia.org/wiki/:en:Music_Corporation_of_America "wikilink")を参照。
+**MCAレコード** (MCA Records, Inc.) は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")のレコード会社。総合娯楽企業[ミュージック・コーポレーション・オブ・アメリカ](../Page/ミュージック・コーポレーション・オブ・アメリカ.md "wikilink") (MCA) の音楽部門である。母体は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[デッカ・レコード](../Page/デッカ・レコード.md "wikilink")（英デッカ）の米国法人（→米デッカ）。MCAは米デッカを[1962年](../Page/1962年.md "wikilink")に買収し、[1973年](../Page/1973年.md "wikilink")にMCAレコードと改名した。詳細は[:en:Music_Corporation_of_America](https://ja.wikipedia.org/wiki/:en:Music_Corporation_of_America "wikilink")を参照。
 
-[1996年](../Page/1996年.md "wikilink")に[ユニバーサルミュージックと改名](../Page/ユニバーサル_ミュージック_グループ.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")には[ポリグラム](https://ja.wikipedia.org/wiki/ポリグラム "wikilink")（英デッカを傘下に持つ）と合併して世界最大級のレコード会社となる。
+[1996年](../Page/1996年.md "wikilink")に[ユニバーサルミュージックと改名](../Page/ユニバーサル_ミュージック_グループ.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")には[ポリグラム](../Page/ポリグラム.md "wikilink")（英デッカを傘下に持つ）と合併して世界最大級のレコード会社となる。
 
 ## 沿革
 
@@ -17,16 +17,16 @@
   - 1990年、[ゲフィン・レコード](../Page/ゲフィン・レコード.md "wikilink")と[GRPレコード](../Page/GRPレコード.md "wikilink")を買収
   - 1991年、松下電器産業（現 [パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")）がMCAを買収
       - 日本の音楽事業は合弁会社MCAビクター（後のユニバーサルビクター）が受け持つ。（[日本ビクター](../Page/日本ビクター.md "wikilink")は当時松下グループのため）
-  - 1995年、松下電器産業は出資分80%を[シーグラム](https://ja.wikipedia.org/wiki/シーグラム "wikilink")に売却
+  - 1995年、松下電器産業は出資分80%を[シーグラム](../Page/シーグラム.md "wikilink")に売却
   - 1996年、社名を[ユニバーサルミュージックに](../Page/ユニバーサル_ミュージック_グループ.md "wikilink")、レーベルを「ユニバーサル」に変更
-  - 1998年、[シーグラム](https://ja.wikipedia.org/wiki/シーグラム "wikilink")はフィリップスより[ポリグラム](https://ja.wikipedia.org/wiki/ポリグラム "wikilink")を買収し、統合。
+  - 1998年、[シーグラム](../Page/シーグラム.md "wikilink")はフィリップスより[ポリグラム](../Page/ポリグラム.md "wikilink")を買収し、統合。
 
 ## 日本での事業
 
 ### MCAレコード
 
   - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")に米デッカと[テイチクとの契約解消を期に](../Page/テイチクエンタテインメント.md "wikilink")、[日本ビクター](../Page/日本ビクター.md "wikilink")（現：[JVCケンウッド](https://ja.wikipedia.org/wiki/JVCケンウッド "wikilink")）の音楽レコード事業部（後にビクター音楽産業へ分社・独立を経てビクターエンタテインメント → [JVCケンウッド・ビクターエンタテインメント](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")となる）が販売を担当していた。
-  - ビクターに販売権があった1970年代の一時期は、[日本コロムビア](../Page/日本コロムビア.md "wikilink")から移籍してきた[扇ひろ子](https://ja.wikipedia.org/wiki/扇ひろ子 "wikilink")と[守屋浩](https://ja.wikipedia.org/wiki/守屋浩 "wikilink")を始め、[松崎しげる](https://ja.wikipedia.org/wiki/松崎しげる "wikilink")や[頭脳警察](../Page/頭脳警察.md "wikilink")がMCAレーベルから作品をリリースしていた。
+  - ビクターに販売権があった1970年代の一時期は、[日本コロムビア](../Page/日本コロムビア.md "wikilink")から移籍してきた[扇ひろ子](https://ja.wikipedia.org/wiki/扇ひろ子 "wikilink")と[守屋浩](../Page/守屋浩.md "wikilink")を始め、[松崎しげる](https://ja.wikipedia.org/wiki/松崎しげる "wikilink")や[頭脳警察](../Page/頭脳警察.md "wikilink")がMCAレーベルから作品をリリースしていた。
 
 ### MCAビクター/ユニバーサルビクター
 
@@ -45,7 +45,7 @@
 
   - [2001年](../Page/2001年.md "wikilink") - ポリドールと制作セクションが統合され、**ユニバーサルポリドール**へ改称。
   - [2002年](../Page/2002年.md "wikilink") - ユニバーサルポリドールがキティMMEと統合され、ユニバーサルミュージックの邦楽セクションが**ユニバーサルJ**に一括される事になった。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") - ユニバーサルJから旧キティMMEに所属していたアーティストが新設の**ユニバーサルシグマ**へ移管されることになり、同社の邦楽セクションは２つに分けられる事になった。
+  - [2005年](../Page/2005年.md "wikilink") - ユニバーサルJから旧キティMMEに所属していたアーティストが新設の**ユニバーサルシグマ**へ移管されることになり、同社の邦楽セクションは２つに分けられる事になった。
   - [2007年](../Page/2007年.md "wikilink") - ユニバーサルJから[SPITZ](https://ja.wikipedia.org/wiki/SPITZ "wikilink")を除く旧ポリドール所属アーティスト\[4\]が新設された**NAYUTAWAVE RECORDS**\[5\]に移管される事になり、これを機にユニバーサルJは実質的に旧ユニバーサルビクターの流れを組むセクションとなる。
   - [2012年](../Page/2012年.md "wikilink") - LUNA SEAが[avex traxよりユニバーサルJへ移籍](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。\[6\]
   - [2014年](../Page/2014年.md "wikilink") - 中森明菜がユニバーサルシグマから制作セクションがユニバーサルJに移管。

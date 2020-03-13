@@ -18,7 +18,7 @@
   - 1981-1985 [マツダ・ルーチェ](../Page/マツダ・ルーチェ.md "wikilink")（[セダン](../Page/セダン.md "wikilink")　[ハードトップ](../Page/ハードトップ.md "wikilink")）
   - 1981-1986 Mazda 929（輸出車種）（[セダン](../Page/セダン.md "wikilink")　[クーペ](../Page/クーペ.md "wikilink")　[ハードトップ](../Page/ハードトップ.md "wikilink")）
   - 1981-1989 [マツダ・コスモ](../Page/マツダ・コスモ.md "wikilink")（[セダン](../Page/セダン.md "wikilink")　[クーペ](../Page/クーペ.md "wikilink")　[ハードトップ](../Page/ハードトップ.md "wikilink")）
-  - 1989-1995 [マツダ・カスタムキャブ](https://ja.wikipedia.org/wiki/マツダ・カスタムキャブ "wikilink")（タクシー専用車）（[セダン](../Page/セダン.md "wikilink")）
+  - 1989-1995 [マツダ・カスタムキャブ](../Page/マツダ・カスタムキャブ.md "wikilink")（タクシー専用車）（[セダン](../Page/セダン.md "wikilink")）
 
 ## HC
 

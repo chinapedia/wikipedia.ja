@@ -27,7 +27,7 @@
 
 一般には桜井青の特異性が目立つワンマンバンドだと思われがちだが、タイトルに「実験室」を冠した作品（現在は数字のみとなっている）はメンバーそれぞれの持つ音楽の指向・方向性が反映されており、メンバーのバラバラな個性が表出した内容となっている。
 
-桜井は[井上陽水](../Page/井上陽水.md "wikilink")、[森田童子](../Page/森田童子.md "wikilink")、[浅川マキ](../Page/浅川マキ.md "wikilink")、[山崎ハコ](../Page/山崎ハコ.md "wikilink")、[堀江淳](../Page/堀江淳.md "wikilink")、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")、[村下孝蔵](../Page/村下孝蔵.md "wikilink")、[バウハウス](../Page/バウハウス_\(バンド\).md "wikilink")、[ザ・キュアー](https://ja.wikipedia.org/wiki/ザ・キュアー "wikilink")を好きなアーティストにあげている\[6\]。キュアーは『[Boys Don't Cry](https://ja.wikipedia.org/wiki/:w:Boys_Don't_Cry_\(The_Cure_album\) "wikilink")』が好きだという\[7\]。[横溝正史](../Page/横溝正史.md "wikilink")の[金田一耕助](../Page/金田一耕助.md "wikilink")シリーズや、[寺山修司](../Page/寺山修司.md "wikilink")、[江戸川乱歩](../Page/江戸川乱歩.md "wikilink")も好きだと述べる\[8\]。
+桜井は[井上陽水](../Page/井上陽水.md "wikilink")、[森田童子](../Page/森田童子.md "wikilink")、[浅川マキ](../Page/浅川マキ.md "wikilink")、[山崎ハコ](../Page/山崎ハコ.md "wikilink")、[堀江淳](../Page/堀江淳.md "wikilink")、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")、[村下孝蔵](../Page/村下孝蔵.md "wikilink")、[バウハウス](../Page/バウハウス_\(バンド\).md "wikilink")、[ザ・キュアー](../Page/ザ・キュアー.md "wikilink")を好きなアーティストにあげている\[6\]。キュアーは『[Boys Don't Cry](https://ja.wikipedia.org/wiki/:w:Boys_Don't_Cry_\(The_Cure_album\) "wikilink")』が好きだという\[7\]。[横溝正史](../Page/横溝正史.md "wikilink")の[金田一耕助](../Page/金田一耕助.md "wikilink")シリーズや、[寺山修司](../Page/寺山修司.md "wikilink")、[江戸川乱歩](../Page/江戸川乱歩.md "wikilink")も好きだと述べる\[8\]。
 
 ## メンバー
 
@@ -506,7 +506,7 @@
 
 :\* [4月23日](../Page/4月23日.md "wikilink")-[6月24日](../Page/6月24日.md "wikilink")、ツアー『憧憬、睡蓮と向日葵』開催。ファイナル[EX THEATER ROPPONGI公演にて](https://ja.wikipedia.org/wiki/EX_THEATER_ROPPONGI "wikilink") CD 『残響、睡蓮と向日葵』配布。
 
-:\* [9月8日](https://ja.wikipedia.org/wiki/9月8日 "wikilink")-[9月29日](../Page/9月29日.md "wikilink")、『秋の生活応援ツアー 「火の車」 』開催。ツアー初日に シングル『みんなの発狂』発売。
+:\* [9月8日](../Page/9月8日.md "wikilink")-[9月29日](../Page/9月29日.md "wikilink")、『秋の生活応援ツアー 「火の車」 』開催。ツアー初日に シングル『みんなの発狂』発売。
 
 :\* [9月25日](../Page/9月25日.md "wikilink")、[恵比寿リキッドルーム](https://ja.wikipedia.org/wiki/恵比寿リキッドルーム "wikilink")にて、『ラムフェス２０１６ 「EXTRA」 』出演。
 

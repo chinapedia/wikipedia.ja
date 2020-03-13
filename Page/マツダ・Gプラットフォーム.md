@@ -47,7 +47,7 @@
   - 1993-1997 フォード・プローブ（クーペ）
   - 1993-1997 Mazda 626（セダン）
 
-この時期、フォード・テルスターは段階的に[フォード・モンデオ](https://ja.wikipedia.org/wiki/フォード・モンデオ "wikilink")に置き換えられ始めた。日本への導入は[1994年](../Page/1994年.md "wikilink")、オーストラリアへは[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")である。GEプラットフォームを用いたフォード・テルスターとMazda 626は[1992年](../Page/1992年.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")の間ニュージーランドにて旧バージョンと並行して製造された。[南アフリカでは](https://ja.wikipedia.org/wiki/南アフリカ共和国 "wikilink")、それまでのGCプラットフォーム版のMazda 626の後継として[1993年](../Page/1993年.md "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")まで製造された。GCプラットフォームを用いたフォード・テルスターの後継には、GEプラットフォームのテルスターではなく[フォード・シエラ](https://ja.wikipedia.org/wiki/フォード・シエラ "wikilink")が導入された。なお、GEプラットフォームは当時マツダと提携関係にあった[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")・[起亜自動車](../Page/起亜自動車.md "wikilink")のクレドス（輸出名クラルス）にも用いられた。
+この時期、フォード・テルスターは段階的に[フォード・モンデオ](../Page/フォード・モンデオ.md "wikilink")に置き換えられ始めた。日本への導入は[1994年](../Page/1994年.md "wikilink")、オーストラリアへは[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")である。GEプラットフォームを用いたフォード・テルスターとMazda 626は[1992年](../Page/1992年.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")の間ニュージーランドにて旧バージョンと並行して製造された。[南アフリカでは](https://ja.wikipedia.org/wiki/南アフリカ共和国 "wikilink")、それまでのGCプラットフォーム版のMazda 626の後継として[1993年](../Page/1993年.md "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")まで製造された。GCプラットフォームを用いたフォード・テルスターの後継には、GEプラットフォームのテルスターではなく[フォード・シエラ](https://ja.wikipedia.org/wiki/フォード・シエラ "wikilink")が導入された。なお、GEプラットフォームは当時マツダと提携関係にあった[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")・[起亜自動車](../Page/起亜自動車.md "wikilink")のクレドス（輸出名クラルス）にも用いられた。
 
 ## GF
 

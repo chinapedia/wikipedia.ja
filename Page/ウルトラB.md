@@ -108,7 +108,7 @@
 <td><p>宇宙からきた赤ちゃん</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/桜井正明" title="wikilink">桜井正明</a></p></td>
 <td><p><a href="../Page/笹川ひろし.md" title="wikilink">笹川ひろし</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/善聡一郎" title="wikilink">善聡一郎</a></p></td>
+<td><p><a href="../Page/善聡一郎.md" title="wikilink">善聡一郎</a></p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -125,7 +125,7 @@
 <td><p>4月12日</p></td>
 <td><p>ひみつのUBパワー</p></td>
 <td><p><a href="../Page/山本優.md" title="wikilink">山本優</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/やすみ哲夫" title="wikilink">やすみ哲夫</a></p></td>
+<td><p><a href="../Page/やすみ哲夫.md" title="wikilink">やすみ哲夫</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -160,7 +160,7 @@
 <td><p>第7話</p></td>
 <td><p>4月26日</p></td>
 <td><p>友情のフトンたたき</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/岸間信明" title="wikilink">岸間信明</a></p></td>
+<td><p><a href="../Page/岸間信明.md" title="wikilink">岸間信明</a></p></td>
 <td><p>竹内大三</p></td>
 <td></td>
 <td></td>
@@ -1189,13 +1189,13 @@
   - 撮影監督：奥井敦
   - 録音監督：[山田悦司](https://ja.wikipedia.org/wiki/山田悦司 "wikilink")
   - 色指定：酒井美晴
-  - 文芸：[桶谷顕](https://ja.wikipedia.org/wiki/桶谷顕 "wikilink")（第1話 - 第80話）
+  - 文芸：[桶谷顕](../Page/桶谷顕.md "wikilink")（第1話 - 第80話）
   - 制作担当：田中敦（第1話 - 第80話）
-  - 作画：風プロダクション、[スタジオディーン](../Page/スタジオディーン.md "wikilink")、[じゃんぐるじむ](https://ja.wikipedia.org/wiki/じゃんぐるじむ "wikilink")、スタジオルック、ACプロ、あすなろスタジオ、スタジオビクトリー、ういん堂、[アニメスポット](../Page/アニメ・スポット.md "wikilink")
+  - 作画：風プロダクション、[スタジオディーン](../Page/スタジオディーン.md "wikilink")、[じゃんぐるじむ](../Page/じゃんぐるじむ.md "wikilink")、スタジオルック、ACプロ、あすなろスタジオ、スタジオビクトリー、ういん堂、[アニメスポット](../Page/アニメ・スポット.md "wikilink")
   - 仕上：スタジオM、スタジオディーン、スタジオルック
   - 背景：[スタジオユニ](../Page/スタジオユニ.md "wikilink")
   - 撮影：[旭プロダクション](../Page/旭プロダクション.md "wikilink")
-  - 制作デスク：小倉久美、茂木清、児玉ともじ、[増子相二郎](https://ja.wikipedia.org/wiki/増子相二郎 "wikilink")
+  - 制作デスク：小倉久美、茂木清、児玉ともじ、[増子相二郎](../Page/増子相二郎.md "wikilink")
   - 編集：[岡安肇](https://ja.wikipedia.org/wiki/岡安肇 "wikilink")、[小島俊彦](https://ja.wikipedia.org/wiki/小島俊彦 "wikilink")
   - 効果：[柏原満](https://ja.wikipedia.org/wiki/東京演劇音響研究所 "wikilink")
   - 整音：中戸川次男、[大城久典](https://ja.wikipedia.org/wiki/大城久典 "wikilink")
@@ -1208,7 +1208,7 @@
   - オープニングテーマ - 「バビバビバビブー　ウルトラB」
     作詞 - 藤子不二雄<span class="Unicode">Ⓐ</span> / 作曲・編曲 - [菊池俊輔](../Page/菊池俊輔.md "wikilink") / 歌 - [三田ゆう子](../Page/三田ゆう子.md "wikilink")、[森の木児童合唱団](https://ja.wikipedia.org/wiki/森の木児童合唱団 "wikilink")
   - エンディングテーマ - 「ウルトラBにチュッ\!」（映画版のみ）
-    作詞 - [高田ひろお](https://ja.wikipedia.org/wiki/高田ひろお "wikilink") / 作曲・編曲 - 菊池俊輔 / 歌 - [ぶんけかな](../Page/ぶんけかな.md "wikilink")、[こおろぎ'73](../Page/こおろぎ'73.md "wikilink")
+    作詞 - [高田ひろお](../Page/高田ひろお.md "wikilink") / 作曲・編曲 - 菊池俊輔 / 歌 - [ぶんけかな](../Page/ぶんけかな.md "wikilink")、[こおろぎ'73](../Page/こおろぎ'73.md "wikilink")
 
 <!-- end list -->
 

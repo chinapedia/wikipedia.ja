@@ -58,7 +58,7 @@
 
   - [BUTCH COUNTDOWN RADIO](../Page/BUTCH_COUNTDOWN_RADIO.md "wikilink")（FM FUKUOKA、金曜　13:30〜19:00）
   - BUTCHの飲みたいかい・食べたいかい（[μFM](../Page/エフエム鹿児島.md "wikilink")、木曜　17:55〜・[MBCラジオ](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")、土曜17:10〜）
-  - [BUTCHと山田優子のキラキラ☆ラジオ](https://ja.wikipedia.org/wiki/BUTCHと山田優子のキラキラ☆ラジオ "wikilink")（FM FUKUOKA、土曜　11:00〜11:30　[JFN系](../Page/全国FM放送協議会.md "wikilink")12局と[fm yokohamaにもネット](https://ja.wikipedia.org/wiki/横浜エフエム放送 "wikilink")）
+  - [BUTCHと山田優子のキラキラ☆ラジオ](https://ja.wikipedia.org/wiki/BUTCHと山田優子のキラキラ☆ラジオ "wikilink")（FM FUKUOKA、土曜　11:00〜11:30　[JFN系](../Page/全国FM放送協議会.md "wikilink")12局と[fm yokohamaにもネット](../Page/横浜エフエム放送.md "wikilink")）
   - [NTT docomo presents Enjoy\!スマートライフストーリー](https://ja.wikipedia.org/wiki/NTT_docomo_presents_Enjoy!スマートライフストーリー "wikilink")（FM FUKUOKA、月曜　10:55〜11:00　[エフエム山口](https://ja.wikipedia.org/wiki/エフエム山口 "wikilink")を除く[FMQリーグ](../Page/FMQリーグ.md "wikilink")加盟局と[エフエム沖縄](../Page/エフエム沖縄.md "wikilink")の8局ネット）
 
 ## 過去の出演番組

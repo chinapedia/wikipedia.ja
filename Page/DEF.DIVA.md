@@ -6,11 +6,11 @@
 ## 概要
 
   - [つんく♂](https://ja.wikipedia.org/wiki/つんく♂ "wikilink")（[シャ乱Q](../Page/シャ乱Q.md "wikilink")）曰く、**DEF.**は[英語](../Page/英語.md "wikilink")で最高の、**いかす**（〔[形](../Page/形容詞.md "wikilink")〕*def*initiveの短縮形）。**DIVA**は[イタリア語](../Page/イタリア語.md "wikilink")で（オペラの）主役女性歌手；プリマドンナと言う意味が有り、2ヶ国語の造語。
-  - 結成第一報はインターネット通販の[CDリリース情報で](../Page/コンパクトディスク.md "wikilink")、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月5日](../Page/9月5日.md "wikilink")にオフィシャルウェブサイトで発表された。
+  - 結成第一報はインターネット通販の[CDリリース情報で](../Page/コンパクトディスク.md "wikilink")、[2005年](../Page/2005年.md "wikilink")[9月5日](../Page/9月5日.md "wikilink")にオフィシャルウェブサイトで発表された。
   - 年末のスペシャルユニットは、これまでの[ごまっとう](../Page/ごまっとう.md "wikilink")（[2002年](../Page/2002年.md "wikilink")）、[後浦なつみ](../Page/後浦なつみ.md "wikilink")（[2004年](../Page/2004年.md "wikilink")）に続き3つ目。
   - メンバーがソロ又はグループのレーベルは、[ピッコロタウン](https://ja.wikipedia.org/wiki/アップフロントワークス#ピッコロタウン（PICCOLO_TOWN） "wikilink")（後藤、石川：[美勇伝](../Page/美勇伝.md "wikilink")）、[zetima](https://ja.wikipedia.org/wiki/アップフロントワークス#ゼティマ（zetima） "wikilink")（松浦）、[hachama](https://ja.wikipedia.org/wiki/アップフロントワークス#ハチャマ（hachama） "wikilink")（安倍）に分かれるが、このユニットはzetimaレーベルからリリースされている。
   - 2005年の[第56回NHK紅白歌合戦](../Page/第56回NHK紅白歌合戦.md "wikilink")は**松浦亜弥\&DEF.DIVA**として出場した。
-  - シングル「[好きすぎて バカみたい](../Page/好きすぎて_バカみたい.md "wikilink")」が[オリコン週間シングルチャート](../Page/オリコンチャート.md "wikilink")（2005年10月31日付）で初登場1位を獲得した。ハロー\!プロジェクトの作品が首位となるのはモーニング娘。の「AS FOR ONE DAY」以来約2年半ぶり。初動売上枚数および累計売上枚数は[AAAの](https://ja.wikipedia.org/wiki/AAA_\(音楽グループ\) "wikilink")「[MIRAGE](../Page/MIRAGE_\(AAAの曲\).md "wikilink")」が記録更新するまでオリコン1位獲得曲中での最小記録であった。
+  - シングル「[好きすぎて バカみたい](../Page/好きすぎて_バカみたい.md "wikilink")」が[オリコン週間シングルチャート](../Page/オリコンチャート.md "wikilink")（2005年10月31日付）で初登場1位を獲得した。ハロー\!プロジェクトの作品が首位となるのはモーニング娘。の「AS FOR ONE DAY」以来約2年半ぶり。初動売上枚数および累計売上枚数は[AAAの](../Page/AAA_\(音楽グループ\).md "wikilink")「[MIRAGE](../Page/MIRAGE_\(AAAの曲\).md "wikilink")」が記録更新するまでオリコン1位獲得曲中での最小記録であった。
   - 「DEF.DIVAと楽天イーグルス応援隊」名義で[東北楽天ゴールデンイーグルス](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")の[2006年](../Page/2006年.md "wikilink")新公式応援歌「LET'S GO 楽天イーグルス」を歌う。CDは一般のCDショップでは販売されず、[Web販売の楽天イーグルスオフィシャルショップ及びハロー](../Page/World_Wide_Web.md "wikilink")\!プロジェクトオフィシャルショップなどでのみ販売された。この曲には「楽天イーグルス応援隊」としてつんく♂、[カントリー娘。](../Page/カントリー娘。.md "wikilink")、及び[メロン記念日](../Page/メロン記念日.md "wikilink")がコーラスで参加している。
   - 2006年7月に[2006年バレーボール世界選手権](https://ja.wikipedia.org/wiki/2006年バレーボール世界選手権 "wikilink")のオフィシャルサポーターを務める[WaT×ハロー\!プロジェクト](../Page/WaT×ハロー!プロジェクト.md "wikilink")に参加することが発表された。なお、松浦は「[ごまっとう](../Page/ごまっとう.md "wikilink")」でも一緒だった[藤本美貴](https://ja.wikipedia.org/wiki/藤本美貴 "wikilink")と[GAMを結成していたが](../Page/GAM_\(音楽ユニット\).md "wikilink")、活動は並行して行なっていたというわけで、これが後継ユニットということにはならない。
   - 2006年9月3日に[フルキャストスタジアム宮城で行われた東北楽天ゴールデンイーグルス対](../Page/宮城球場.md "wikilink")[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")戦において「ハイタッチでのお出迎え」イベントやスペシャルライブなどを実施した。
@@ -50,7 +50,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a>（平成17年）/<a href="../Page/第56回NHK紅白歌合戦.md" title="wikilink">第56回</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a>（平成17年）/<a href="../Page/第56回NHK紅白歌合戦.md" title="wikilink">第56回</a></p></td>
 <td><p>初</p></td>
 <td><p>気がつけば好きすぎて♪<br />
 盛り上がって♪LOVEマシーン!</p></td>

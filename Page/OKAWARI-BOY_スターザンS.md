@@ -62,7 +62,7 @@
     声 - [篠原さなえ](../Page/篠原さなえ.md "wikilink")
     セノビ族の赤ん坊。ジュンやスターザンSと仲が良い。いつも風船にぶら下がって移動している。泣き声には大地を揺るがす程のパワーがある。
   - エビテン・セノビ
-    声 - [田口昂](https://ja.wikipedia.org/wiki/田口昂 "wikilink")
+    声 - [田口昂](../Page/田口昂.md "wikilink")
     オジン坊の父親。熱病に冒されていた幼いスターザンSを一家で保護してから、家族ぐるみで交流している。
   - カカサン・セノビ
     声 - [友近恵子](../Page/友近恵子.md "wikilink")
@@ -110,7 +110,7 @@
   - 製作 - [吉田健二](../Page/吉田健二.md "wikilink")
   - 原案 - [笹川ひろし](../Page/笹川ひろし.md "wikilink")
   - 企画 - 井上明（[タツノコプロ](../Page/タツノコプロ.md "wikilink")）
-  - シリーズ構成 - 小山高男（現・[小山高生](https://ja.wikipedia.org/wiki/小山高生 "wikilink")）
+  - シリーズ構成 - 小山高男（現・[小山高生](../Page/小山高生.md "wikilink")）
   - 文芸担当 - [関島真頼](https://ja.wikipedia.org/wiki/関島真頼 "wikilink")
   - 音楽 - 石田かつのり（現・[石田勝範](../Page/石田勝範.md "wikilink")）
   - 美術監督 - 多田喜久子
@@ -118,7 +118,7 @@
   - キャラクターデザイン - 林政行
   - メカニックデザイン - アンモナイト
   - キャラクターシート - 林政行
-  - 制作担当 - [石川光久](https://ja.wikipedia.org/wiki/石川光久 "wikilink")（竜の子プロ）
+  - 制作担当 - [石川光久](../Page/石川光久.md "wikilink")（竜の子プロ）
   - プロデューサー - 前田和也（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）、大野実（[読売広告社](../Page/読売広告社.md "wikilink")）、田村常夫（竜の子プロ）
   - チーフディレクター - [うえだひでひと](../Page/うえだひでひと.md "wikilink")
   - キャラデザイン - 水村十司
@@ -194,7 +194,7 @@
 <td><p><strong>1984年</strong><br />
 1月7日</p></td>
 <td><p>宇宙一のおかわりボーイ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小山高生" title="wikilink">小山高男</a></p></td>
+<td><p><a href="../Page/小山高生.md" title="wikilink">小山高男</a></p></td>
 <td><p><a href="../Page/うえだひでひと.md" title="wikilink">うえだひでひと</a></p></td>
 <td><p>林政行</p></td>
 <td></td>
@@ -258,7 +258,7 @@
 <td><p>第8話</p></td>
 <td><p>2月25日</p></td>
 <td><p>ドキ!見たねジュンちゃん</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/島田満" title="wikilink">島田満</a></p></td>
+<td><p><a href="../Page/島田満.md" title="wikilink">島田満</a></p></td>
 <td><p>古川順康</p></td>
 <td><p>鄭雨英</p></td>
 <td></td>
@@ -341,7 +341,7 @@
 <td><p>燃える闘魂!涙のハチロー</p></td>
 <td><p>井上敏樹</p></td>
 <td><p>うえだひでひと</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小島正幸" title="wikilink">小島正幸</a></p></td>
+<td><p><a href="../Page/小島正幸.md" title="wikilink">小島正幸</a></p></td>
 <td><p>和泉絹子</p></td>
 </tr>
 <tr class="even">

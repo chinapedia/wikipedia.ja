@@ -11,7 +11,7 @@
 
 売り上げは[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")時点で600万部を突破している\[2\]。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")10月から[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")まで\[3\][アニメ](../Page/アニメ.md "wikilink")版が[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[ノイタミナ](../Page/ノイタミナ.md "wikilink")」枠で放送されていた。[2011年](../Page/2011年.md "wikilink")6月4日全国東急系にて実写版映画公開。詳細は[\#映画](https://ja.wikipedia.org/wiki/#映画 "wikilink")を参照のこと。
+[2005年](../Page/2005年.md "wikilink")10月から[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")まで\[3\][アニメ](../Page/アニメ.md "wikilink")版が[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[ノイタミナ](../Page/ノイタミナ.md "wikilink")」枠で放送されていた。[2011年](../Page/2011年.md "wikilink")6月4日全国東急系にて実写版映画公開。詳細は[\#映画](https://ja.wikipedia.org/wiki/#映画 "wikilink")を参照のこと。
 
 ## ストーリー
 
@@ -25,7 +25,7 @@
 
   - 早坂紫（はやさか ゆかり）
     私立清栄学園に通う高校三年生。見栄っ張りで[処女](../Page/処女.md "wikilink")。両親と弟の4人家族。父親は単身赴任中。
-    受験勉強に追われる自分の人生に悩みを抱えていたある日、ジョージ達、矢澤芸術学院（通称 ヤザガク）[服飾科](https://ja.wikipedia.org/wiki/服飾科 "wikilink")の面々にショー[モデルにスカウトされた](https://ja.wikipedia.org/wiki/ファッションモデル "wikilink")。
+    受験勉強に追われる自分の人生に悩みを抱えていたある日、ジョージ達、矢澤芸術学院（通称 ヤザガク）[服飾科](https://ja.wikipedia.org/wiki/服飾科 "wikilink")の面々にショー[モデルにスカウトされた](../Page/ファッションモデル.md "wikilink")。
     クラスメイトの徳森浩行に憧れていたが、ジョージと恋に落ち、相思相愛になる。しかし、主体性のない女が嫌いでマイペースなジョージに振り回される。実和子とイザベラからは「**キャロライン**」、もしくは「**キャリー**」と呼ばれている。意外と手先は器用で、ドレスのパーツにビーズを縫い付ける作業を手伝ったりもした。
     受験を控えた時期に「パラダイス・キス」メンバーと関わることを母親に咎められ、咄嗟に家出してしまう。しかしその後母と和解、高校卒業を条件にモデル事務所に所属し、卒業後は日本でモデルの道を歩み始める決意を固める。その際ジョージとは別れたが、ジョージが残していった服を励みに体型維持や仕事に打ち込み、10年後、浩行と婚約している。
   - 小泉譲二（こいずみ じょうじ）
@@ -95,13 +95,13 @@
   - 浜田先生：[川瀬晶子](../Page/川瀬晶子_\(声優\).md "wikilink")
   - セバスチャン：[緒方賢一](../Page/緒方賢一.md "wikilink")
   - 陶波法司：[掟ポルシェ](../Page/掟ポルシェ.md "wikilink")
-  - 麻生香：[斉木美帆](https://ja.wikipedia.org/wiki/斉木美帆 "wikilink")
+  - 麻生香：[斉木美帆](../Page/斉木美帆.md "wikilink")
   - 二階堂譲一：[岩城滉一](https://ja.wikipedia.org/wiki/岩城滉一 "wikilink")
 
 ### スタッフ
 
-  - 監督・シリーズ構成・脚本 - [小林治](https://ja.wikipedia.org/wiki/小林治_\(イラストレーター\) "wikilink")\[8\]
-  - キャラクターデザイン・総作画監督 - [結城信輝](https://ja.wikipedia.org/wiki/結城信輝 "wikilink")\[9\]
+  - 監督・シリーズ構成・脚本 - [小林治](../Page/小林治_\(イラストレーター\).md "wikilink")\[8\]
+  - キャラクターデザイン・総作画監督 - [結城信輝](../Page/結城信輝.md "wikilink")\[9\]
   - 衣装デザイン - 田山淳朗 (A/T)\[10\]
   - アートディレクター、スタイリスト - [清川あさみ](../Page/清川あさみ.md "wikilink")\[11\]
   - 色彩設計 - 堀川佳典
@@ -112,7 +112,7 @@
   - 音楽 - THE BABYS、[NARASAKI](../Page/NARASAKI.md "wikilink")（[COALTAR OF THE DEEPERS](../Page/COALTAR_OF_THE_DEEPERS.md "wikilink")）
   - プロデューサー - [松崎容子](../Page/松崎容子.md "wikilink")、伊藤幸弘、[山本幸治](https://ja.wikipedia.org/wiki/山本幸治_\(フジテレビ\) "wikilink")、[丸山正雄](../Page/丸山正雄.md "wikilink")、大山良、渡辺哲也
   - アニメーションプロデューサー - 諸澤昌男、藤尾勉
-  - アニメーション制作 - [マッドハウス](https://ja.wikipedia.org/wiki/マッドハウス "wikilink")\[12\]
+  - アニメーション制作 - [マッドハウス](../Page/マッドハウス.md "wikilink")\[12\]
   - 制作 - パラキス製作委員会（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、[アニプレックス](../Page/アニプレックス.md "wikilink")、[電通](../Page/電通.md "wikilink")、マッドハウス、[祥伝社](../Page/祥伝社.md "wikilink")）
 
 ### 主題歌
@@ -140,7 +140,7 @@
 <tr class="odd">
 <td><p>stage-1</p></td>
 <td><p>アトリエ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小林治_(イラストレーター)" title="wikilink">小林治</a></p></td>
+<td><p><a href="../Page/小林治_(イラストレーター).md" title="wikilink">小林治</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/田中雄一_(アニメーター)" title="wikilink">田中雄一</a></p></td>
 <td></td>
 </tr>
@@ -209,7 +209,7 @@
 <tr class="even">
 <td><p>stage-10</p></td>
 <td><p>薔薇</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/りんたろう" title="wikilink">りんたろう</a></p></td>
+<td><p><a href="../Page/りんたろう.md" title="wikilink">りんたろう</a></p></td>
 <td><p>増原光幸</p></td>
 <td><p>窪詔之</p></td>
 </tr>
@@ -232,14 +232,14 @@
 
 ### 放送局
 
-| 放送地域                                        | 放送局                                                                                                                    | 放送期間                                                                                                                                   | 放送日時             | 放送系列                                                             | 備考 |
-| ------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------------------------------------------------------- | -- |
-| [関東広域圏](../Page/広域放送.md "wikilink")         | [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")                                                             | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月13日](../Page/10月13日.md "wikilink") - [12月29日](../Page/12月29日.md "wikilink") | 木曜 24:35 - 25:05 | [フジテレビ系列](../Page/フジネットワーク.md "wikilink")                        |    |
-| [中京広域圏](../Page/広域放送.md "wikilink")         | [東海テレビ](../Page/東海テレビ放送.md "wikilink")                                                                                 | 2005年10月13日 - [2006年](../Page/2006年.md "wikilink")[1月5日](../Page/1月5日.md "wikilink")                                                   | 木曜 26:05 - 26:35 |                                                                  |    |
-| [近畿広域圏](../Page/広域放送.md "wikilink")         | [関西テレビ](../Page/関西テレビ放送.md "wikilink")                                                                                 | 2005年[10月17日](../Page/10月17日.md "wikilink") - 2006年[1月9日](../Page/1月9日.md "wikilink")                                                  | 月曜 25:30 - 26:00 |                                                                  |    |
-| [岡山県・香川県](../Page/岡山県・香川県の放送.md "wikilink") | [岡山放送](../Page/岡山放送.md "wikilink")                                                                                     | 2006年[3月30日](../Page/3月30日.md "wikilink") - [5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink")                                      | 木曜 25:35 - 26:35 | 2話連続放送                                                           |    |
-| [日本全域](../Page/全国放送.md "wikilink")          | [フジテレビ721](https://ja.wikipedia.org/wiki/フジテレビTWO "wikilink")                                                          | 2006年[3月1日](../Page/3月1日.md "wikilink") - [4月5日](../Page/4月5日.md "wikilink")                                                           | 水曜 21:00 - 21:50 | [CS放送](https://ja.wikipedia.org/wiki/日本における衛星放送#CS放送 "wikilink") |    |
-| [アニマックス](../Page/アニマックス.md "wikilink")      | 2006年[11月20日](../Page/11月20日.md "wikilink") - [2007年](../Page/2007年.md "wikilink")[2月12日](../Page/2月12日.md "wikilink") | 月曜 22:30 - 23:00                                                                                                                       | リピート放送あり         |                                                                  |    |
+| 放送地域                                        | 放送局                                                                                                                    | 放送期間                                                                                                                | 放送日時             | 放送系列                                                             | 備考 |
+| ------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------------------------------------------------------- | -- |
+| [関東広域圏](../Page/広域放送.md "wikilink")         | [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")                                                             | [2005年](../Page/2005年.md "wikilink")[10月13日](../Page/10月13日.md "wikilink") - [12月29日](../Page/12月29日.md "wikilink") | 木曜 24:35 - 25:05 | [フジテレビ系列](../Page/フジネットワーク.md "wikilink")                        |    |
+| [中京広域圏](../Page/広域放送.md "wikilink")         | [東海テレビ](../Page/東海テレビ放送.md "wikilink")                                                                                 | 2005年10月13日 - [2006年](../Page/2006年.md "wikilink")[1月5日](../Page/1月5日.md "wikilink")                                | 木曜 26:05 - 26:35 |                                                                  |    |
+| [近畿広域圏](../Page/広域放送.md "wikilink")         | [関西テレビ](../Page/関西テレビ放送.md "wikilink")                                                                                 | 2005年[10月17日](../Page/10月17日.md "wikilink") - 2006年[1月9日](../Page/1月9日.md "wikilink")                               | 月曜 25:30 - 26:00 |                                                                  |    |
+| [岡山県・香川県](../Page/岡山県・香川県の放送.md "wikilink") | [岡山放送](../Page/岡山放送.md "wikilink")                                                                                     | 2006年[3月30日](../Page/3月30日.md "wikilink") - [5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink")                   | 木曜 25:35 - 26:35 | 2話連続放送                                                           |    |
+| [日本全域](../Page/全国放送.md "wikilink")          | [フジテレビ721](https://ja.wikipedia.org/wiki/フジテレビTWO "wikilink")                                                          | 2006年[3月1日](../Page/3月1日.md "wikilink") - [4月5日](../Page/4月5日.md "wikilink")                                        | 水曜 21:00 - 21:50 | [CS放送](https://ja.wikipedia.org/wiki/日本における衛星放送#CS放送 "wikilink") |    |
+| [アニマックス](../Page/アニマックス.md "wikilink")      | 2006年[11月20日](../Page/11月20日.md "wikilink") - [2007年](../Page/2007年.md "wikilink")[2月12日](../Page/2月12日.md "wikilink") | 月曜 22:30 - 23:00                                                                                                    | リピート放送あり         |                                                                  |    |
 
 ## 映画
 
@@ -282,11 +282,11 @@
   - [瀬戸あゆみ](https://ja.wikipedia.org/wiki/瀬戸あゆみ "wikilink")
   - [竹原久美子](https://ja.wikipedia.org/wiki/竹原久美子 "wikilink")
   - まどか - [かでなれおん](../Page/かでなれおん.md "wikilink")
-  - 如月星次 - [平山浩行](https://ja.wikipedia.org/wiki/平山浩行 "wikilink")
+  - 如月星次 - [平山浩行](../Page/平山浩行.md "wikilink")
   - 小泉雪乃 - [高橋ひとみ](https://ja.wikipedia.org/wiki/高橋ひとみ "wikilink")
   - 二階堂譲一 - [小木茂光](../Page/小木茂光.md "wikilink")
   - 早坂保子 - [羽田美智子](https://ja.wikipedia.org/wiki/羽田美智子 "wikilink")
-  - その他 - [蒼あんな](https://ja.wikipedia.org/wiki/蒼あんな "wikilink")、[蒼れいな](https://ja.wikipedia.org/wiki/蒼れいな "wikilink")、[優希](https://ja.wikipedia.org/wiki/奥村優希 "wikilink")、[西村優奈](../Page/西村優奈.md "wikilink")、[佐伯大地](https://ja.wikipedia.org/wiki/佐伯大地 "wikilink")、[小林麗菜](https://ja.wikipedia.org/wiki/小林麗菜 "wikilink")、[池永亜美](../Page/池永亜美.md "wikilink")、[葛西幸菜](../Page/葛西幸菜.md "wikilink")、[福園彩花](https://ja.wikipedia.org/wiki/福園彩花 "wikilink")、[山内明日](https://ja.wikipedia.org/wiki/山内明日 "wikilink")、[笠井しげ](https://ja.wikipedia.org/wiki/笠井しげ "wikilink")　ほか
+  - その他 - [蒼あんな](https://ja.wikipedia.org/wiki/蒼あんな "wikilink")、[蒼れいな](https://ja.wikipedia.org/wiki/蒼れいな "wikilink")、[優希](https://ja.wikipedia.org/wiki/奥村優希 "wikilink")、[西村優奈](../Page/西村優奈.md "wikilink")、[佐伯大地](https://ja.wikipedia.org/wiki/佐伯大地 "wikilink")、[小林麗菜](https://ja.wikipedia.org/wiki/小林麗菜 "wikilink")、[池永亜美](../Page/池永亜美.md "wikilink")、[葛西幸菜](../Page/葛西幸菜.md "wikilink")、[福園彩花](https://ja.wikipedia.org/wiki/福園彩花 "wikilink")、[山内明日](../Page/山内明日.md "wikilink")、[笠井しげ](https://ja.wikipedia.org/wiki/笠井しげ "wikilink")　ほか
 
 ### スタッフ（映画）
 

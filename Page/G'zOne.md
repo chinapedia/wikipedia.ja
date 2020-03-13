@@ -1,13 +1,13 @@
 > この記事は[G\'zOne](https://ja.wikipedia.org/wiki/G\'zOne)から翻訳されています。
 
 
-**G'zOne**（**ジーズワン**）は、かつて[カシオ計算機](../Page/カシオ計算機.md "wikilink")および[カシオ日立モバイルコミュニケーションズ](https://ja.wikipedia.org/wiki/カシオ日立モバイルコミュニケーションズ "wikilink")→[NECカシオモバイルコミュニケーションズ](https://ja.wikipedia.org/wiki/NECモバイルコミュニケーションズ "wikilink")（現・[日本電気](../Page/日本電気.md "wikilink")(NEC)）が開発・製造・発売していた、耐衝撃・[防水](../Page/防水.md "wikilink")・防塵（[G'zOne TYPE-X以降の機種のみ](https://ja.wikipedia.org/wiki/G'zOne_TYPE-X "wikilink")）性能を特徴とする[携帯電話](../Page/携帯電話.md "wikilink")（[フィーチャーフォン](https://ja.wikipedia.org/wiki/フィーチャーフォン "wikilink")）及び[Android](../Page/Android.md "wikilink")搭載[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")の各種ブランドである。
+**G'zOne**（**ジーズワン**）は、かつて[カシオ計算機](../Page/カシオ計算機.md "wikilink")および[カシオ日立モバイルコミュニケーションズ](../Page/カシオ日立モバイルコミュニケーションズ.md "wikilink")→[NECカシオモバイルコミュニケーションズ](https://ja.wikipedia.org/wiki/NECモバイルコミュニケーションズ "wikilink")（現・[日本電気](../Page/日本電気.md "wikilink")(NEC)）が開発・製造・発売していた、耐衝撃・[防水](../Page/防水.md "wikilink")・防塵（[G'zOne TYPE-X以降の機種のみ](https://ja.wikipedia.org/wiki/G'zOne_TYPE-X "wikilink")）性能を特徴とする[携帯電話](../Page/携帯電話.md "wikilink")（[フィーチャーフォン](https://ja.wikipedia.org/wiki/フィーチャーフォン "wikilink")）及び[Android](../Page/Android.md "wikilink")搭載[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")の各種ブランドである。
 
 ## 概要
 
 日本では、[auブランドを展開する](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")（旧・[IDO](../Page/日本移動通信.md "wikilink")／[DDIセルラーブランド](../Page/DDIセルラーグループ.md "wikilink")）[KDDI](../Page/KDDI.md "wikilink")・[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")[連合](https://ja.wikipedia.org/wiki/連合 "wikilink")にて販売されていた。カシオの頑丈な[腕時計](../Page/腕時計.md "wikilink")「[G-SHOCK](../Page/G-SHOCK.md "wikilink")」にちなみ「G-SHOCK携帯」とも呼ばれた。
 
-[2000年](../Page/2000年.md "wikilink")に最初の端末 **C303CA** が発売された。カシオはこの「G'zOne」シリーズで初めて携帯電話事業に参入した。[2001年](../Page/2001年.md "wikilink")発売の **C452CA** 以来、約4年間にわたって新機種が発表されていなかったが、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に **[G'zOne TYPE-R](https://ja.wikipedia.org/wiki/G'zOne_TYPE-R "wikilink")** の発売によって復活、その後は再び新機種が継続的に発表されていた。2006年から2013年までアメリカ合衆国でも[ベライゾン・ワイヤレス](../Page/ベライゾン・ワイヤレス.md "wikilink")向けに端末が提供されていた。また、[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")の[LG U+向けにも](../Page/LGユープラス.md "wikilink")2機種が発売されていた。
+[2000年](../Page/2000年.md "wikilink")に最初の端末 **C303CA** が発売された。カシオはこの「G'zOne」シリーズで初めて携帯電話事業に参入した。[2001年](../Page/2001年.md "wikilink")発売の **C452CA** 以来、約4年間にわたって新機種が発表されていなかったが、[2005年](../Page/2005年.md "wikilink")に **[G'zOne TYPE-R](../Page/G'zOne_TYPE-R.md "wikilink")** の発売によって復活、その後は再び新機種が継続的に発表されていた。2006年から2013年までアメリカ合衆国でも[ベライゾン・ワイヤレス](../Page/ベライゾン・ワイヤレス.md "wikilink")向けに端末が提供されていた。また、[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")の[LG U+向けにも](../Page/LGユープラス.md "wikilink")2機種が発売されていた。
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")にカシオ日立が[日本電気](../Page/日本電気.md "wikilink")（NEC）の携帯電話事業と合流してNECカシオ名義となってからは、NECブランドにて[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")（以下ドコモ）向けに「G'zOne」を冠していない事実上の兄弟機種が発売された（[N-03C](https://ja.wikipedia.org/wiki/N-03C "wikilink")と[N-02E](https://ja.wikipedia.org/wiki/N-02E "wikilink")）。
 
@@ -33,12 +33,12 @@
 
 #### カシオ日立時代（CASIOブランド）
 
-  - [G'zOne TYPE-R](https://ja.wikipedia.org/wiki/G'zOne_TYPE-R "wikilink") （CDMA A5513CA）
+  - [G'zOne TYPE-R](../Page/G'zOne_TYPE-R.md "wikilink") （CDMA A5513CA）
     2005年7月22日順次発売。シリーズ初の折畳みボディとなって約4年ぶりに復活を遂げたモデルである。
   - [W42CA](../Page/W42CA.md "wikilink")（CDMA W42CA）
     2006年6月29日発売。[CDMA 1X WINに対応](../Page/CDMA_1X_WIN.md "wikilink")。シリーズ初の外部メモリ([microSDカード](https://ja.wikipedia.org/wiki/SDメモリーカード#microSDカード "wikilink"))対応モデル。バッテリー容量を増量し、さらに[Bluetooth](../Page/Bluetooth.md "wikilink")に対応させた[ヤマト運輸](../Page/ヤマト運輸.md "wikilink")のセールスドライバー向け、および法人向けのE03CA（CDMA E03CA）という同型機種がある。
   - [W62CA](../Page/W62CA.md "wikilink")（CDMA W62CA）
-    2008年7月19日発売。シリーズ初の[KCP+](../Page/KCP+.md "wikilink")、[Bluetooth](../Page/Bluetooth.md "wikilink")、[ワンセグ](https://ja.wikipedia.org/wiki/ワンセグ "wikilink")、[EZ FeliCaを搭載した機種](https://ja.wikipedia.org/wiki/EZ_FeliCa "wikilink")。
+    2008年7月19日発売。シリーズ初の[KCP+](../Page/KCP+.md "wikilink")、[Bluetooth](../Page/Bluetooth.md "wikilink")、[ワンセグ](../Page/ワンセグ.md "wikilink")、[EZ FeliCaを搭載した機種](../Page/EZ_FeliCa.md "wikilink")。
   - [CA002](https://ja.wikipedia.org/wiki/CA002 "wikilink")（CDMA CA002）
     2009年5月29日発売。W62CAの改良型。
 
@@ -125,7 +125,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/G&#39;zOne_TYPE-R" title="wikilink">G'zOne TYPE-R</a> (A5513CA)</p></td>
+<td><p><a href="../Page/G&#39;zOne_TYPE-R.md" title="wikilink">G'zOne TYPE-R</a> (A5513CA)</p></td>
 <td><p>2005年</p></td>
 <td><p>CDMA 1X</p></td>
 <td><p>グリーンフラッグ、レッドゾーン、ブラックマーク</p></td>
@@ -410,7 +410,7 @@ COMMANDO 4G LTE</p></td>
 ## 関連項目
 
   - [カシオ計算機](../Page/カシオ計算機.md "wikilink")
-      - [カシオ日立モバイルコミュニケーションズ](https://ja.wikipedia.org/wiki/カシオ日立モバイルコミュニケーションズ "wikilink")
+      - [カシオ日立モバイルコミュニケーションズ](../Page/カシオ日立モバイルコミュニケーションズ.md "wikilink")
   - [NECカシオ モバイルコミュニケーションズ](https://ja.wikipedia.org/wiki/NECカシオ_モバイルコミュニケーションズ "wikilink")
       - [日本電気](../Page/日本電気.md "wikilink")
       - [MEDIAS](https://ja.wikipedia.org/wiki/MEDIAS "wikilink") - NECカシオ製・NECブランドのスマートフォン。

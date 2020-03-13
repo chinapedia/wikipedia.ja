@@ -14,7 +14,7 @@
   - [イグナクロス零号駅](https://ja.wikipedia.org/wiki/イグナクロス零号駅 "wikilink")（[1996年](../Page/1996年.md "wikilink")〜） - 漫画連載
   - [ピクシーガーデン](https://ja.wikipedia.org/wiki/ピクシーガーデン "wikilink")（[1999年](../Page/1999年.md "wikilink")） - キャラクターデザイン
   - [白詰草話](../Page/白詰草話.md "wikilink")（[2002年](../Page/2002年.md "wikilink")） - メカデザイン
-  - [旋光の輪舞](../Page/旋光の輪舞.md "wikilink")（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")）/[旋光の輪舞DUO](https://ja.wikipedia.org/wiki/旋光の輪舞DUO "wikilink")（[2009年](../Page/2009年.md "wikilink")） - メカデザイン
+  - [旋光の輪舞](../Page/旋光の輪舞.md "wikilink")（[2005年](../Page/2005年.md "wikilink")）/[旋光の輪舞DUO](https://ja.wikipedia.org/wiki/旋光の輪舞DUO "wikilink")（[2009年](../Page/2009年.md "wikilink")） - メカデザイン
   - [武装神姫](../Page/武装神姫.md "wikilink") - [第7弾（2007年）・第12弾（2010年）](https://ja.wikipedia.org/wiki/武装神姫の一覧 "wikilink") - キャラクターデザイン
   - レルムクレイズ：グレーテル（[2007年](../Page/2007年.md "wikilink")〜[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") クレイズ ガレージキット、完成品[フィギュア](../Page/フィギュア.md "wikilink")） - デザイン
   - [CHAOS;HEAD](https://ja.wikipedia.org/wiki/CHAOS;HEAD "wikilink")（2008年） - プロダクトデザイン

@@ -123,7 +123,7 @@
 <td><p><a href="../Page/関西テレビ☆京都チャンネル.md" title="wikilink">関西テレビ☆京都チャンネル</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/日本における衛星放送#CSデジタル放送" title="wikilink">CS放送</a></p></td>
 <td><p>水曜 20:00 - 21:00 ほか</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/再放送" title="wikilink">リピート放送あり</a><br />
+<td><p><a href="../Page/再放送.md" title="wikilink">リピート放送あり</a><br />
 リピート放送の頻度と日時は時期によって異なる</p></td>
 </tr>
 </tbody>

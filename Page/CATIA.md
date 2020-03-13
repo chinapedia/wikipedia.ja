@@ -1,7 +1,7 @@
 > この記事は[CATIA](https://ja.wikipedia.org/wiki/CATIA)から翻訳されています。
 
 
-[AIX](https://ja.wikipedia.org/wiki/AIX "wikilink"){{-}}[HP-UX](../Page/HP-UX.md "wikilink"){{-}}[IRIX](../Page/IRIX.md "wikilink"){{-}}[Solaris](../Page/Solaris.md "wikilink")
+[AIX](../Page/AIX.md "wikilink"){{-}}[HP-UX](../Page/HP-UX.md "wikilink"){{-}}[IRIX](../Page/IRIX.md "wikilink"){{-}}[Solaris](../Page/Solaris.md "wikilink")
 
 `| エンジン = `
 `| 対応プラットフォーム = `[`OADG互換`](../Page/PCオープン・アーキテクチャー推進協議会.md "wikilink")`{{*}}`[`UNIXワークステーション`](../Page/ワークステーション.md "wikilink")
@@ -302,7 +302,7 @@ CATIA V5のシステムは、標準構成とアドオンとの組み合わせで
 ## 主な稼動OS
 
   - [Microsoft](../Page/マイクロソフト.md "wikilink") [Windows 2000](../Page/Microsoft_Windows_2000.md "wikilink")/[Windows XP](../Page/Microsoft_Windows_XP.md "wikilink")/[Windows Vista](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink")(CATIA V5,V6)
-  - [IBM](../Page/IBM.md "wikilink") [AIX](https://ja.wikipedia.org/wiki/AIX "wikilink")
+  - [IBM](../Page/IBM.md "wikilink") [AIX](../Page/AIX.md "wikilink")
   - [HP](../Page/ヒューレット・パッカード.md "wikilink") [HP-UX](../Page/HP-UX.md "wikilink")
   - [SGI](https://ja.wikipedia.org/wiki/Silicon_Graphics "wikilink") [IRIX](../Page/IRIX.md "wikilink")
   - [Sun](../Page/サン・マイクロシステムズ.md "wikilink") [Solaris](../Page/Solaris.md "wikilink")

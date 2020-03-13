@@ -7,13 +7,13 @@
 
   - 主に福岡市[中央区天神にある](../Page/中央区_\(福岡市\).md "wikilink")[西鉄ホール](https://ja.wikipedia.org/wiki/西鉄ホール "wikilink")\[1\]で上演している。このホールでの上演をきっかけに人気を得る。毎回、3000人以上の観客動員があり、福岡公演ではチケットがほぼ即日完売するほどの人気である。
   - 西鉄ホール以前は、[NHK福岡放送局](../Page/NHK福岡放送局.md "wikilink")跡地 (現・岩田屋新館) や[福岡ドーム](../Page/福岡ドーム.md "wikilink") (現・福岡Yahoo\!JAPANドーム) のスポーツバーなどで公演を行なっていた。
-  - 劇団の[キャッチフレーズ](https://ja.wikipedia.org/wiki/キャッチフレーズ "wikilink")は、「**地元の人にしかわからない芝居**」[カーテンコール](https://ja.wikipedia.org/wiki/カーテンコール "wikilink")の最後に主宰が必ず語るのが恒例。東京公演以降は「**人間が登場しないヒューマンドラマ**」とも呼ばれている。
+  - 劇団の[キャッチフレーズ](https://ja.wikipedia.org/wiki/キャッチフレーズ "wikilink")は、「**地元の人にしかわからない芝居**」[カーテンコール](../Page/カーテンコール.md "wikilink")の最後に主宰が必ず語るのが恒例。東京公演以降は「**人間が登場しないヒューマンドラマ**」とも呼ばれている。
   - 一人で、複数のキャラクターを演じ分けるため、たまに「かぶりもの」をかぶり忘れることもある。
   - 新作は少なく、旧作の脚本に新しいエピソードやシーンを付け加えることが多い。その場合、タイトルの後に[西暦](../Page/西暦.md "wikilink")や副題が付く。しかし、中には旧作に大幅な加筆をしたため、新作になった作品も存在する。
   - 大塚ムネトは、[スタートレック](../Page/スタートレック.md "wikilink")や[時代劇](../Page/時代劇.md "wikilink")の大ファン。そのため、作品中にはそれらの[パロディー](https://ja.wikipedia.org/wiki/パロディー "wikilink")シーンがよく登場する。彼は、脚本、[演出](../Page/演出.md "wikilink")、「かぶりもの」製作、出演などをおこなっている。
   - 一部の[役者](https://ja.wikipedia.org/wiki/役者 "wikilink")が、「かぶりもの」をかぶらない作品も存在する。(福岡[電話](../Page/電話.md "wikilink")物語)
   - 福岡市を拠点に活動しているため、市外での公演はそこが、[大都市](https://ja.wikipedia.org/wiki/大都市 "wikilink")圏であっても「**地方公演**」と呼ぶ。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、劇団初の地方公演として、[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")の[PARCO劇場](../Page/PARCO劇場.md "wikilink")を皮切りに[大分市](../Page/大分市.md "wikilink")、[宗像市](../Page/宗像市.md "wikilink")での上演を行った。
+  - [2005年](../Page/2005年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、劇団初の地方公演として、[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")の[PARCO劇場](../Page/PARCO劇場.md "wikilink")を皮切りに[大分市](../Page/大分市.md "wikilink")、[宗像市](../Page/宗像市.md "wikilink")での上演を行った。
 
 ## 歴史
 
@@ -21,7 +21,7 @@
 
 西鉄ホール公演以前、特に[高橋徹郎](../Page/高橋徹郎.md "wikilink")が主宰を勤めていたころは、現在より[コント](../Page/コント.md "wikilink")色の強い劇団であった。しかし、彼が脱退後主宰が大塚ムネトに交代以降は、[ドラマ](../Page/ドラマ.md "wikilink")色が徐々に色濃くなってゆく。それに対して一部の劇団員や観客からは「ギンギラに涙はいらない」として彼の脚本や演出に異議をとなえるものもいたが、地道な公演を積み重ねて行く中でそういった反発を取り除き相互に理解を深めていった。
 
-そのような公演活動が西鉄ホールプロデューサーの目にとまり劇場初となる地元劇団公演を成功させる。さらには、地方劇団としては当時はめずらしかった、[ローソンチケット](https://ja.wikipedia.org/wiki/ローソンチケット "wikilink")や[チケットぴあ](https://ja.wikipedia.org/wiki/チケットぴあ "wikilink")と提携。劇団の公演チケットが全国で購入可能となった。その後はこの劇場を拠点に地の利や劇団の[ダイレクトメール](../Page/ダイレクトメール.md "wikilink")を中心とした広報活動、観客の口コミなどで知名度が徐々に上がってゆく。
+そのような公演活動が西鉄ホールプロデューサーの目にとまり劇場初となる地元劇団公演を成功させる。さらには、地方劇団としては当時はめずらしかった、[ローソンチケット](https://ja.wikipedia.org/wiki/ローソンチケット "wikilink")や[チケットぴあ](../Page/チケットぴあ.md "wikilink")と提携。劇団の公演チケットが全国で購入可能となった。その後はこの劇場を拠点に地の利や劇団の[ダイレクトメール](../Page/ダイレクトメール.md "wikilink")を中心とした広報活動、観客の口コミなどで知名度が徐々に上がってゆく。
 
 ### 天災による公演中止と初の「地方」公演
 
@@ -29,7 +29,7 @@
 
 その後も劇団の人気は上がり続け、著名な演劇雑誌や地元マスコミに活動内容を広く取り上げられたり、公式な公演以外でも、地元福岡の[祭](../Page/祭.md "wikilink")や[イベント](../Page/イベント.md "wikilink")に出演する機会が増えていく。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")には、「翼をくださいっ\!」の新作「さらばYS-11」が公演されたが、公演期間中の[3月20日](../Page/3月20日.md "wikilink")、福岡県西方沖地震が発生。発生時間が公演直前であったため直接的な被害はまぬがれたもの、劇場の安全点検等を理由に以後に予定されていた2回の公演は中止された。
+[2005年](../Page/2005年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")には、「翼をくださいっ\!」の新作「さらばYS-11」が公演されたが、公演期間中の[3月20日](../Page/3月20日.md "wikilink")、福岡県西方沖地震が発生。発生時間が公演直前であったため直接的な被害はまぬがれたもの、劇場の安全点検等を理由に以後に予定されていた2回の公演は中止された。
 
 その年の10月、演劇[プロモーター](../Page/プロモーター.md "wikilink")である福岡市の「ピクニック」の協力を得て劇団初の地方公演となる東京公演を企画、福岡での上演内容を東京用にアレンジすることなくそのままもっていくことと、長年地元での公演にこだわってきたことから、当初は公演の成功を危ぶむ声もあったが、「かぶりもの」を用いたヒューマンドラマが好評となり結果は全公演で満席となる大成功を収め、大塚ムネトが日ごろから抱いている「魅力のある舞台であればどこで上演してもお客さまはついて来る」という持論を証明した。
 
@@ -58,7 +58,7 @@
 <!-- end list -->
 
   -
-    [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月20日](../Page/3月20日.md "wikilink")、「翼をくださいっ\!　さらば[YS-11](../Page/YS-11.md "wikilink")」上演期間中に、[福岡県西方沖地震](https://ja.wikipedia.org/wiki/福岡県西方沖地震 "wikilink")が発生。公演直前だったため、大きな被害はまぬがれたものの、劇場の安全点検のため以後の公演がすべて中止された。
+    [2005年](../Page/2005年.md "wikilink")[3月20日](../Page/3月20日.md "wikilink")、「翼をくださいっ\!　さらば[YS-11](../Page/YS-11.md "wikilink")」上演期間中に、[福岡県西方沖地震](https://ja.wikipedia.org/wiki/福岡県西方沖地震 "wikilink")が発生。公演直前だったため、大きな被害はまぬがれたものの、劇場の安全点検のため以後の公演がすべて中止された。
 
 <!-- end list -->
 
@@ -157,7 +157,7 @@
 
 ### ラジオ
 
-  - 福岡天神モノ語り…[NHK-FM](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink") 「FMシアター」2004年
+  - 福岡天神モノ語り…[NHK-FM](../Page/NHK-FM放送.md "wikilink") 「FMシアター」2004年
 
 ### CM
 
@@ -188,7 +188,7 @@
 
 ## 受賞歴
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") - 第42回[ギャラクシー賞](../Page/ギャラクシー賞.md "wikilink")[ラジオ](../Page/ラジオ.md "wikilink")部門優秀賞 ([NPO](../Page/特定非営利活動法人.md "wikilink")[放送批評懇談会](https://ja.wikipedia.org/wiki/放送批評懇談会 "wikilink"))…[FMシアター](../Page/ラジオ.md "wikilink")「福岡天神モノ語り」（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")　[2004年](../Page/2004年.md "wikilink")[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink")放送）
+  - [2005年](../Page/2005年.md "wikilink") - 第42回[ギャラクシー賞](../Page/ギャラクシー賞.md "wikilink")[ラジオ](../Page/ラジオ.md "wikilink")部門優秀賞 ([NPO](../Page/特定非営利活動法人.md "wikilink")[放送批評懇談会](https://ja.wikipedia.org/wiki/放送批評懇談会 "wikilink"))…[FMシアター](../Page/ラジオ.md "wikilink")「福岡天神モノ語り」（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")　[2004年](../Page/2004年.md "wikilink")[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink")放送）
   - [2007年](../Page/2007年.md "wikilink") - 平成19年度第15回[福岡県文化賞](https://ja.wikipedia.org/wiki/福岡県文化賞 "wikilink")奨励部門
 
 ## 脚注

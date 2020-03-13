@@ -7,11 +7,11 @@
 
 定禅寺ストリートジャズフェスティバルは、「市民[ボランティア](../Page/ボランティア.md "wikilink")が中心となって運営」「無料」「街が舞台装置」をキーワードとした都市音楽イベントである。仙台市都心部の至るところの「街角がステージ」となっているため、演奏者と聴衆の高さも同じで距離が近く、また、買物ついでに立ち寄れる気軽さも手伝って、市民から多くの支持を受け、仙台の初秋の風物詩として毎年規模が拡大している。聴衆は、オープン[カフェ](../Page/カフェ.md "wikilink")やオープン[バー](../Page/バー_\(酒場\).md "wikilink")、あるいはワールドキッチンなどで供される飲食物を片手に、自分の好きな音楽を自由に楽しむことが出来、聴き方の面でも開放されている。
 
-例年、前夜祭と本祭2日間で開催され、[定禅寺通り](https://ja.wikipedia.org/wiki/定禅寺通り "wikilink")のほか、[勾当台公園](https://ja.wikipedia.org/wiki/勾当台公園 "wikilink")、[一番町](https://ja.wikipedia.org/wiki/一番町_\(仙台市\) "wikilink")、[西公園](../Page/西公園_\(仙台市\).md "wikilink")、[青葉通り](../Page/青葉通り.md "wikilink")、[仙台駅](../Page/仙台駅.md "wikilink")西口[ペデストリアンデッキ](../Page/ペデストリアンデッキ.md "wikilink")、ビルの屋外エントランスなどや、タイアップステージに約100か所のステージが設置され、700組以上のバンドで4000人以上が演奏する（いずれも延べ数）。参加バンド数・出演者数では日本最大の[音楽祭](../Page/音楽祭.md "wikilink")となっており、参加する団体も、北は[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")、南は[沖縄県](../Page/沖縄県.md "wikilink")と日本全国に及び、海外からの出演者もいる。
+例年、前夜祭と本祭2日間で開催され、[定禅寺通り](https://ja.wikipedia.org/wiki/定禅寺通り "wikilink")のほか、[勾当台公園](../Page/勾当台公園.md "wikilink")、[一番町](../Page/一番町_\(仙台市\).md "wikilink")、[西公園](../Page/西公園_\(仙台市\).md "wikilink")、[青葉通り](../Page/青葉通り.md "wikilink")、[仙台駅](../Page/仙台駅.md "wikilink")西口[ペデストリアンデッキ](../Page/ペデストリアンデッキ.md "wikilink")、ビルの屋外エントランスなどや、タイアップステージに約100か所のステージが設置され、700組以上のバンドで4000人以上が演奏する（いずれも延べ数）。参加バンド数・出演者数では日本最大の[音楽祭](../Page/音楽祭.md "wikilink")となっており、参加する団体も、北は[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")、南は[沖縄県](../Page/沖縄県.md "wikilink")と日本全国に及び、海外からの出演者もいる。
 
 [ジャズ](../Page/ジャズ.md "wikilink")、[ロック](../Page/ロック_\(音楽\).md "wikilink")、[ゴスペルなど](https://ja.wikipedia.org/wiki/ゴスペル_\(音楽\) "wikilink")、[ポピュラー音楽](../Page/ポピュラー音楽.md "wikilink")を中心に[ジャンル](../Page/ジャンル.md "wikilink")を問わず演奏されるが、ステージやエリアごとに演奏者の音楽の傾向を集め、聴衆は好きな音楽を選んで楽しむことが出来るようになっている。また、プロ・アマを問わず全ての演奏家に出演機会が開放されている。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（[平成](../Page/平成.md "wikilink")20年）は2日間で約75万人の聴衆を集めた。これだけの観客数があるため、近年、定禅寺通りでは片側車線に[交通規制](../Page/交通規制.md "wikilink")をしいて期間中[歩行者天国](https://ja.wikipedia.org/wiki/歩行者天国 "wikilink")としている。また、各ステージを巡回する無料のループシャトルを運行したり、インフォメーション・ブースを市内に十数か所設置したりしている。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（[平成](../Page/平成.md "wikilink")20年）は2日間で約75万人の聴衆を集めた。これだけの観客数があるため、近年、定禅寺通りでは片側車線に[交通規制](../Page/交通規制.md "wikilink")をしいて期間中[歩行者天国](../Page/歩行者天国.md "wikilink")としている。また、各ステージを巡回する無料のループシャトルを運行したり、インフォメーション・ブースを市内に十数か所設置したりしている。
 
 ## 付随するイベント
 
@@ -86,7 +86,7 @@
       -
         [福岡](https://ja.wikipedia.org/wiki/福岡市 "wikilink")（8/9・[月](../Page/月曜日.md "wikilink")）、[東京](../Page/東京都.md "wikilink")（8/19・[木](../Page/木曜日.md "wikilink")）、[名古屋](../Page/名古屋市.md "wikilink")（9/3・[金](../Page/金曜日.md "wikilink")）、[大阪](../Page/大阪市.md "wikilink")（9/4・[土](../Page/土曜日.md "wikilink")）、[新潟](https://ja.wikipedia.org/wiki/新潟市 "wikilink")（9/9・木）、**仙台（9/10・金）**
     <!-- end list -->
-      - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")　全国9都市
+      - [2005年](../Page/2005年.md "wikilink")　全国9都市
     <!-- end list -->
       -
         [札幌](https://ja.wikipedia.org/wiki/札幌市 "wikilink")（9/7・[水](../Page/水曜日.md "wikilink")）、新潟（9/8・木）、**仙台（9/9・金）**、名古屋（9/10・土）、東京（9/11・日）、大阪（9/13・[火](../Page/火曜日.md "wikilink")）、福岡（9/14・水）、[広島](https://ja.wikipedia.org/wiki/広島市 "wikilink")（9/16・金）、[岡山](../Page/岡山市.md "wikilink")（9/17・土）
@@ -103,7 +103,7 @@
 
 ## 沿革
 
-[1981年](../Page/1981年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")56年）から始まった[仙台市営地下鉄南北線の工事に伴い](https://ja.wikipedia.org/wiki/仙台市地下鉄南北線 "wikilink")、[勾当台公園](https://ja.wikipedia.org/wiki/勾当台公園 "wikilink")周辺の[再開発](https://ja.wikipedia.org/wiki/再開発 "wikilink")が進み、[バブル景気](../Page/バブル景気.md "wikilink")を追い風に[仙台市](../Page/仙台市.md "wikilink")は大きく変化した。[1980年代](../Page/1980年代.md "wikilink")の仙台[郊外](../Page/郊外.md "wikilink")では、[スポーツランドSUGO](../Page/スポーツランドSUGO.md "wikilink")にて[ロックンロールオリンピック](https://ja.wikipedia.org/wiki/ロックンロールオリンピック "wikilink")、[泉パークタウン](https://ja.wikipedia.org/wiki/泉パークタウン "wikilink")などで[ライブ・アンダー・ザ・スカイ](../Page/ライブ・アンダー・ザ・スカイ.md "wikilink")やJTスーパーサウンドなど、野外での[ロックフェスティバル](https://ja.wikipedia.org/wiki/ロックフェスティバル "wikilink")や[ジャズフェスティバル](https://ja.wikipedia.org/wiki/ジャズフェスティバル "wikilink")などが開催され、[青葉山公園](../Page/青葉山公園.md "wikilink")では[TBC夏まつり](https://ja.wikipedia.org/wiki/TBC夏まつり "wikilink")の野外コンサートなどが開催されていた。この時期に当フェスティバルが始まり、拡大していった。
+[1981年](../Page/1981年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")56年）から始まった[仙台市営地下鉄南北線の工事に伴い](https://ja.wikipedia.org/wiki/仙台市地下鉄南北線 "wikilink")、[勾当台公園](../Page/勾当台公園.md "wikilink")周辺の[再開発](../Page/再開発.md "wikilink")が進み、[バブル景気](../Page/バブル景気.md "wikilink")を追い風に[仙台市](../Page/仙台市.md "wikilink")は大きく変化した。[1980年代](../Page/1980年代.md "wikilink")の仙台[郊外](../Page/郊外.md "wikilink")では、[スポーツランドSUGO](../Page/スポーツランドSUGO.md "wikilink")にて[ロックンロールオリンピック](https://ja.wikipedia.org/wiki/ロックンロールオリンピック "wikilink")、[泉パークタウン](../Page/泉パークタウン.md "wikilink")などで[ライブ・アンダー・ザ・スカイ](../Page/ライブ・アンダー・ザ・スカイ.md "wikilink")やJTスーパーサウンドなど、野外での[ロックフェスティバル](https://ja.wikipedia.org/wiki/ロックフェスティバル "wikilink")や[ジャズフェスティバル](https://ja.wikipedia.org/wiki/ジャズフェスティバル "wikilink")などが開催され、[青葉山公園](../Page/青葉山公園.md "wikilink")では[TBC夏まつり](https://ja.wikipedia.org/wiki/TBC夏まつり "wikilink")の野外コンサートなどが開催されていた。この時期に当フェスティバルが始まり、拡大していった。
 
   - 前史
 
@@ -115,7 +115,7 @@
 
 ### LIVE 141　定禅寺ストリートジャズフェスティバル
 
-上述のように、勾当台公園周辺で新たなイベントが始まり、[再開発](https://ja.wikipedia.org/wiki/再開発 "wikilink")が行われて大きく変化している最中の1987年（昭和62年）、[定禅寺通](../Page/定禅寺通.md "wikilink")の新たな顔となった141において、[エル・パーク仙台を会場に](https://ja.wikipedia.org/wiki/141ビル#エル・パーク仙台 "wikilink")[ジャズ](../Page/ジャズ.md "wikilink")を中心とする[ライブが始まった](../Page/演奏会.md "wikilink")。ジャズという音楽[ジャンル](../Page/ジャンル.md "wikilink")が選ばれた理由については、[JAZZ PROMENADE in SENDAI\#歴史を参照](https://ja.wikipedia.org/wiki/JAZZ_PROMENADE_in_SENDAI#歴史 "wikilink")。
+上述のように、勾当台公園周辺で新たなイベントが始まり、[再開発](../Page/再開発.md "wikilink")が行われて大きく変化している最中の1987年（昭和62年）、[定禅寺通](../Page/定禅寺通.md "wikilink")の新たな顔となった141において、[エル・パーク仙台を会場に](https://ja.wikipedia.org/wiki/141ビル#エル・パーク仙台 "wikilink")[ジャズ](../Page/ジャズ.md "wikilink")を中心とする[ライブが始まった](../Page/演奏会.md "wikilink")。ジャズという音楽[ジャンル](../Page/ジャンル.md "wikilink")が選ばれた理由については、[JAZZ PROMENADE in SENDAI\#歴史を参照](https://ja.wikipedia.org/wiki/JAZZ_PROMENADE_in_SENDAI#歴史 "wikilink")。
 
 このライブは恒例となり、「定禅寺通り（定禅寺ストリート）」の「[ジャズフェス](https://ja.wikipedia.org/wiki/ジャズフェスティバル "wikilink")」から「*定禅寺ストリート* ・ジャズフェスティバル」(JJF) と名付けられ、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（[平成](../Page/平成.md "wikilink")2年）の第4回まで続いた。
 
@@ -123,7 +123,7 @@
 
 音楽家の[榊原光裕](https://ja.wikipedia.org/wiki/榊原光裕 "wikilink")の「本来音楽は野外でやるもの」という考えに基づき、「[SENDAI光のページェント](../Page/SENDAI光のページェント.md "wikilink")」期間中に[定禅寺通り](https://ja.wikipedia.org/wiki/定禅寺通り "wikilink")の一角で[シンセサイザー](../Page/シンセサイザー.md "wikilink")のミニコンサートを行ったところ、多数の観客が集まった\[1\]。この経験から有志が集まって、街頭でJJFを開催することを企画し、[1991年](../Page/1991年.md "wikilink")（平成3年）に現在のような「街角」「屋外」「無料」のスタイルで初開催された。また、フェスティバルの名称も、「屋外で行う」ということから「ストリートジャズ」を1つの言葉と捉え直し、「定禅寺（通り）」の「ストリートジャズ」「フェスティバル」から「定禅寺*ストリートジャズ* ・フェスティバル」(JSF) に改称された。
 
-一方、[1989年](../Page/1989年.md "wikilink")（平成元年）[4月1日](../Page/4月1日.md "wikilink")の仙台市の[政令指定都市](../Page/政令指定都市.md "wikilink")移行に合わせ、['89グリーンフェアせんだい](https://ja.wikipedia.org/wiki/'89グリーンフェアせんだい "wikilink")（[全国都市緑化フェア](https://ja.wikipedia.org/wiki/全国都市緑化フェア "wikilink")）が地下鉄や[宮城県庁舎](../Page/宮城県庁舎.md "wikilink")などの工事が終わって再整備された勾当台公園を会場の1つとして開催された。勾当台公園は再整備により大きく変化し、イベント会場として利用できる「市民広場」などが設置された。ここに[屋台](../Page/屋台.md "wikilink")を並べ、大規模なステージを築くことにより、JSFは定禅寺通りから外に向かって[仙台市都心部](../Page/仙台市都心部.md "wikilink")各地にステージを増やしながら広がっていった。
+一方、[1989年](../Page/1989年.md "wikilink")（平成元年）[4月1日](../Page/4月1日.md "wikilink")の仙台市の[政令指定都市](../Page/政令指定都市.md "wikilink")移行に合わせ、['89グリーンフェアせんだい](https://ja.wikipedia.org/wiki/'89グリーンフェアせんだい "wikilink")（[全国都市緑化フェア](../Page/全国都市緑化フェア.md "wikilink")）が地下鉄や[宮城県庁舎](../Page/宮城県庁舎.md "wikilink")などの工事が終わって再整備された勾当台公園を会場の1つとして開催された。勾当台公園は再整備により大きく変化し、イベント会場として利用できる「市民広場」などが設置された。ここに[屋台](../Page/屋台.md "wikilink")を並べ、大規模なステージを築くことにより、JSFは定禅寺通りから外に向かって[仙台市都心部](../Page/仙台市都心部.md "wikilink")各地にステージを増やしながら広がっていった。
 
 当初から[仙台市市民文化事業団](https://ja.wikipedia.org/wiki/仙台市市民文化事業団 "wikilink")より助成を受けていた\[2\]が、[バブル崩壊](../Page/バブル崩壊.md "wikilink")後の[失われた10年](../Page/失われた10年.md "wikilink")の影響で、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（平成7年）をピークに協賛・協力企業が減少したため、出演者が運営協力費を負担したり、[ボランティア](../Page/ボランティア.md "wikilink")の手を借りたり、サポーターズクラブを結成して年会費を得たりして、JSFの開催を維持するようになった\[3\]。[2000年](../Page/2000年.md "wikilink")（平成12年）の開催実績から仙台市を代表するイベントであると市が認め、[2001年](../Page/2001年.md "wikilink")（平成13年）から仙台市経済局が所管して直接市から助成を受けるようになり\[4\]、協賛・協力企業の数も増加するが、規模の拡大に対応するため[2003年](../Page/2003年.md "wikilink")（[平成](../Page/平成.md "wikilink")15年）に運営協力費は値上げされた\[5\]。年4000万円強の運営費総額の2/3は、この運営協力費と、当日会場を訪れた市民のカンパや協賛金によってまかなわれている。\[6\]。
 
@@ -139,7 +139,7 @@
 | 3           | [1993年](../Page/1993年.md "wikilink")                             | [9月19日](../Page/9月19日.md "wikilink")\<\!--                    | <span style="font-size:90%;">晴れ--\>                                                               | 67組  | 450人   | 15か所 |
 | 4           | [1994年](../Page/1994年.md "wikilink")                             | [9月11日](../Page/9月11日.md "wikilink")\<\!--                    | <span style="font-size:90%;">晴れ<sup>時々</sup>曇り<sup>一時</sup>[雨](../Page/雨.md "wikilink")--\>       | 111組 | 750人   | 20か所 |
 | 5           | [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")          | [9月10日](../Page/9月10日.md "wikilink")\<\!--                    | <span style="font-size:90%;">小雨<sup>のち</sup>晴れ--\>                                                | 167組 | 1,028人 | 27か所 |
-| 6           | [1996年](../Page/1996年.md "wikilink")                             | [9月8日](https://ja.wikipedia.org/wiki/9月8日 "wikilink")\<\!--   | <span style="font-size:90%;">晴れ--\>                                                               | 194組 | 1,250人 | 29か所 |
+| 6           | [1996年](../Page/1996年.md "wikilink")                             | [9月8日](../Page/9月8日.md "wikilink")\<\!--                      | <span style="font-size:90%;">晴れ--\>                                                               | 194組 | 1,250人 | 29か所 |
 | 7           | [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")          | [9月14日](../Page/9月14日.md "wikilink")\<\!--                    | <span style="font-size:90%;">雨--\>                                                                | 255組 | 1,280人 | 32か所 |
 | 8           | [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")          | [9月13日](../Page/9月13日.md "wikilink")\<\!--                    | <span style="font-size:90%;">晴れ--\>                                                               | 290組 | 1,470人 | 34か所 |
 | 9           | [1999年](../Page/1999年.md "wikilink")                             | [9月12日](../Page/9月12日.md "wikilink")\<\!--                    | <span style="font-size:90%;">晴れ--\>                                                               | 363組 | 2,200人 | 42か所 |
@@ -153,7 +153,7 @@
 | 9月14日\<\!-- | <span style="font-size:90%;">晴れ--\>                              |                                                               |                                                                                                   |      |        |      |
 | 14          | [2004年](../Page/2004年.md "wikilink")                             | 9月11日\<\!--                                                   | <span style="font-size:90%;">曇り--\>                                                               | 629組 | 4,008人 | 88か所 |
 | 9月12日\<\!-- | <span style="font-size:90%;">曇り--\>                              |                                                               |                                                                                                   |      |        |      |
-| 15          | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")          | 9月10日\<\!--                                                   | <span style="font-size:90%;">晴れ--\>                                                               | 640組 | 3,921人 | 80か所 |
+| 15          | [2005年](../Page/2005年.md "wikilink")                             | 9月10日\<\!--                                                   | <span style="font-size:90%;">晴れ--\>                                                               | 640組 | 3,921人 | 80か所 |
 | 9月11日\<\!-- | <span style="font-size:90%;">曇り--\>                              |                                                               |                                                                                                   |      |        |      |
 | 16          | [2006年](../Page/2006年.md "wikilink")                             | 9月9日\<\!--                                                    | <span style="font-size:90%;">晴れ<sup>のち</sup>曇り<sup>一時</sup>雨--\>                                  | 649組 | 4,123人 | 89か所 |
 | 9月10日\<\!-- | <span style="font-size:90%;">晴れ<sup>のち</sup>曇り<sup>一時</sup>雨--\> |                                                               |                                                                                                   |      |        |      |
@@ -186,7 +186,7 @@
 
 他都市や[仙台市都心部](../Page/仙台市都心部.md "wikilink")以外での同様の趣旨の無料街角コンサートに対し、「JSF○○」、または、「定禅寺ストリートジャズ・フェスティバル in ○○」という名称でロゴ使用許可を出していることがある。
 
-共催・支援イベントでは、無料街角コンサートを開催するノウハウの伝授と、JSFに過去参加したバンドの斡旋などが中心。このJSF実行委員会の共催活動により、[仙台都市圏](https://ja.wikipedia.org/wiki/仙台都市圏 "wikilink")では、数々の[ポピュラー音楽](../Page/ポピュラー音楽.md "wikilink")系無料街角コンサートが開催されるようになってきている。なお、[クラシック音楽](../Page/クラシック音楽.md "wikilink")系の無料街角コンサートは、仙台市が主催している。
+共催・支援イベントでは、無料街角コンサートを開催するノウハウの伝授と、JSFに過去参加したバンドの斡旋などが中心。このJSF実行委員会の共催活動により、[仙台都市圏](../Page/仙台都市圏.md "wikilink")では、数々の[ポピュラー音楽](../Page/ポピュラー音楽.md "wikilink")系無料街角コンサートが開催されるようになってきている。なお、[クラシック音楽](../Page/クラシック音楽.md "wikilink")系の無料街角コンサートは、仙台市が主催している。
 
 #### JSFの期間以外
 
@@ -199,7 +199,7 @@
 <!-- end list -->
 
   -
-    [GW中](https://ja.wikipedia.org/wiki/ゴールデンウィーク "wikilink")、[勾当台公園](https://ja.wikipedia.org/wiki/勾当台公園 "wikilink")で開催される無料コンサート。JSF実行委員会主催。
+    [GW中](https://ja.wikipedia.org/wiki/ゴールデンウィーク "wikilink")、[勾当台公園](../Page/勾当台公園.md "wikilink")で開催される無料コンサート。JSF実行委員会主催。
 
   - JSF実行委員会が共催、または支援
 
@@ -228,7 +228,7 @@
 <!-- end list -->
 
   -
-    2006年[12月16日](../Page/12月16日.md "wikilink")（土）・17日（日）15:00〜20:00、[一番町および](https://ja.wikipedia.org/wiki/一番町_\(仙台市\) "wikilink")[中央通りで開催された無料街角コンサート](../Page/中央通り_\(仙台市\).md "wikilink")。仙台市中心部アーケード街にある6商店街合同での年末商戦[キャッチコピー](../Page/キャッチコピー.md "wikilink")である「Heartland Festa」において、JSF実行委員会が協力して行われた。
+    2006年[12月16日](../Page/12月16日.md "wikilink")（土）・17日（日）15:00〜20:00、[一番町および](../Page/一番町_\(仙台市\).md "wikilink")[中央通りで開催された無料街角コンサート](../Page/中央通り_\(仙台市\).md "wikilink")。仙台市中心部アーケード街にある6商店街合同での年末商戦[キャッチコピー](../Page/キャッチコピー.md "wikilink")である「Heartland Festa」において、JSF実行委員会が協力して行われた。
 
 <!-- end list -->
 
@@ -246,7 +246,7 @@
 <!-- end list -->
 
   -
-    [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）から秋保・里センターで開催されている。近年はJSFの1週間前に開催し、JSFの「プレビューステージ」としてJSF参加バントなどが出演している。JSF実行委員会の特別協力。
+    [2005年](../Page/2005年.md "wikilink")（平成17年）から秋保・里センターで開催されている。近年はJSFの1週間前に開催し、JSFの「プレビューステージ」としてJSF参加バントなどが出演している。JSF実行委員会の特別協力。
 
 <!-- end list -->
 
@@ -259,7 +259,7 @@
 
 ### メディア
 
-2006年（平成18年）は、地元[コミュニティ放送](../Page/コミュニティ放送.md "wikilink")の[ラジオ3](https://ja.wikipedia.org/wiki/仙台シティエフエム "wikilink")、および、[東北放送](../Page/東北放送.md "wikilink")の[県域放送](../Page/県域放送.md "wikilink")[AMラジオと](https://ja.wikipedia.org/wiki/ラジオ#AM放送 "wikilink")[テレビ](../Page/テレビ.md "wikilink")の計3チャンネルで生中継がなされた。また、実力の高い出演者を集めた「Saturday Night Jam\!」を県域放送[FM局の](https://ja.wikipedia.org/wiki/ラジオ#超短波放送（FM放送・BSデジタルラジオ） "wikilink")[Date fmが後日編集放送し](../Page/エフエム仙台.md "wikilink")、フェスティバルの模様を[NHKが東北](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")6県[ブロックネット](../Page/ブロックネット.md "wikilink")で1回、[NHKワールドTV](../Page/NHKワールドTV.md "wikilink")で世界に2回ほど放送した。その他、地元[タウン情報誌](../Page/タウン情報誌.md "wikilink")などで特集が組まれている。
+2006年（平成18年）は、地元[コミュニティ放送](../Page/コミュニティ放送.md "wikilink")の[ラジオ3](../Page/仙台シティエフエム.md "wikilink")、および、[東北放送](../Page/東北放送.md "wikilink")の[県域放送](../Page/県域放送.md "wikilink")[AMラジオと](https://ja.wikipedia.org/wiki/ラジオ#AM放送 "wikilink")[テレビ](../Page/テレビ.md "wikilink")の計3チャンネルで生中継がなされた。また、実力の高い出演者を集めた「Saturday Night Jam\!」を県域放送[FM局の](https://ja.wikipedia.org/wiki/ラジオ#超短波放送（FM放送・BSデジタルラジオ） "wikilink")[Date fmが後日編集放送し](../Page/エフエム仙台.md "wikilink")、フェスティバルの模様を[NHKが東北](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")6県[ブロックネット](../Page/ブロックネット.md "wikilink")で1回、[NHKワールドTV](../Page/NHKワールドTV.md "wikilink")で世界に2回ほど放送した。その他、地元[タウン情報誌](../Page/タウン情報誌.md "wikilink")などで特集が組まれている。
 
 ### 商業面
 
@@ -290,14 +290,14 @@
   - 2005年：[Rey](https://ja.wikipedia.org/wiki/Rey "wikilink")（[東北楽天ゴールデンイーグルス](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")の元監督の[田尾安志](../Page/田尾安志.md "wikilink")の夫人）\[9\]
   - 2006年：[アンジェラ・アキ](https://ja.wikipedia.org/wiki/アンジェラ・アキ "wikilink")\[10\]
   - 2007年：[タテタカコ](https://ja.wikipedia.org/wiki/タテタカコ "wikilink")
-  - 2008年：[風味堂](https://ja.wikipedia.org/wiki/風味堂 "wikilink")\[11\]
+  - 2008年：[風味堂](../Page/風味堂.md "wikilink")\[11\]
   - 2009年：[矢野沙織](../Page/矢野沙織.md "wikilink")\[12\]
   - 2010年：[Happy Toco](http://www.happytoco.jp/)（榊原光裕率いるジャズバンド）
   - 2011年：[宇崎竜童](../Page/宇崎竜童.md "wikilink")・[綾戸智恵](../Page/綾戸智恵.md "wikilink")\[13\]
   - 2012年：[浅野祥](../Page/浅野祥.md "wikilink")・[小林香織](https://ja.wikipedia.org/wiki/小林香織 "wikilink")\[14\]
   - 2013年：[上田正樹](../Page/上田正樹.md "wikilink")
-  - 2014年：[八神純子](https://ja.wikipedia.org/wiki/八神純子 "wikilink")
-  - 2015年：[ケイコ・リー](https://ja.wikipedia.org/wiki/ケイコ・リー "wikilink")\[15\]
+  - 2014年：[八神純子](../Page/八神純子.md "wikilink")
+  - 2015年：[ケイコ・リー](../Page/ケイコ・リー.md "wikilink")\[15\]
 
 ### NHK
 
@@ -308,13 +308,13 @@
 
 ## JSFに影響を受けて始まったイベント
 
-  - [伊達ロックフェスティバル](https://ja.wikipedia.org/wiki/伊達ロックフェスティバル "wikilink")（[2000年](../Page/2000年.md "wikilink")〜[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、[2011年](../Page/2011年.md "wikilink")〜。仙台市）
+  - [伊達ロックフェスティバル](https://ja.wikipedia.org/wiki/伊達ロックフェスティバル "wikilink")（[2000年](../Page/2000年.md "wikilink")〜[2005年](../Page/2005年.md "wikilink")、[2011年](../Page/2011年.md "wikilink")〜。仙台市）
   - [JAZZ PROMENADE in SENDAI](../Page/JAZZ_PROMENADE_in_SENDAI.md "wikilink")（[2001年](../Page/2001年.md "wikilink")〜。仙台市）
   - [仙台ブルースフェスティバル](https://ja.wikipedia.org/wiki/仙台ブルースフェスティバル "wikilink")（[2001年](../Page/2001年.md "wikilink")〜[2007年](../Page/2007年.md "wikilink")。仙台市）　
   - [とっておきの音楽祭](../Page/とっておきの音楽祭.md "wikilink")（[2001年](../Page/2001年.md "wikilink")〜。仙台市ほか）
   - [仙台ゴスペル・フェスティバル](../Page/仙台ゴスペル・フェスティバル.md "wikilink")（[2002年](../Page/2002年.md "wikilink")〜。仙台市）
-  - [松本ミュージックフェスティバル](../Page/松本ミュージックフェスティバル.md "wikilink")（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")〜[2011年](../Page/2011年.md "wikilink")。[長野県](../Page/長野県.md "wikilink")[松本市](../Page/松本市.md "wikilink")）\[17\]
-  - [ザ・パワーオブミュージックフロムアキタ](https://ja.wikipedia.org/wiki/ザ・パワーオブミュージックフロムアキタ "wikilink")（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")〜。[秋田県](../Page/秋田県.md "wikilink")[秋田市](../Page/秋田市.md "wikilink")）\[18\]
+  - [松本ミュージックフェスティバル](../Page/松本ミュージックフェスティバル.md "wikilink")（[2005年](../Page/2005年.md "wikilink")〜[2011年](../Page/2011年.md "wikilink")。[長野県](../Page/長野県.md "wikilink")[松本市](../Page/松本市.md "wikilink")）\[17\]
+  - [ザ・パワーオブミュージックフロムアキタ](https://ja.wikipedia.org/wiki/ザ・パワーオブミュージックフロムアキタ "wikilink")（[2005年](../Page/2005年.md "wikilink")〜。[秋田県](../Page/秋田県.md "wikilink")[秋田市](../Page/秋田市.md "wikilink")）\[18\]
   - [やらまいかミュージックフェスティバル](https://ja.wikipedia.org/wiki/やらまいかミュージックフェスティバル "wikilink")（[2007年](../Page/2007年.md "wikilink")〜。[静岡県](../Page/静岡県.md "wikilink")[浜松市](https://ja.wikipedia.org/wiki/浜松市 "wikilink")）\[19\]
   - [TENDO JONDANA FESTIVAL](https://ja.wikipedia.org/wiki/TENDO_JONDANA_FESTIVAL "wikilink")（[2007年](../Page/2007年.md "wikilink")〜。[山形県](../Page/山形県.md "wikilink")[天童市](../Page/天童市.md "wikilink")）\[20\]
   - [センダイ・ロック・フェスティバル](https://ja.wikipedia.org/wiki/センダイ・ロック・フェスティバル "wikilink")（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")〜。仙台市）

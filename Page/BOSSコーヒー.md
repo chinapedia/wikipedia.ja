@@ -1,7 +1,7 @@
 > この記事は[BOSS](https://ja.wikipedia.org/wiki/BOSS)から翻訳されています。
 
 
-**BOSS**（ボス）は、[サントリーフーズ](https://ja.wikipedia.org/wiki/サントリーフーズ "wikilink")（[サントリー食品インターナショナル](https://ja.wikipedia.org/wiki/サントリー食品インターナショナル "wikilink")の[機能子会社](https://ja.wikipedia.org/wiki/子会社 "wikilink")）の[缶コーヒー](../Page/缶コーヒー.md "wikilink")を中心とした飲料のブランド。1987年 - 1992年に製造・販売されていた缶コーヒー「WEST」（ウェスト）の後継ブランドとして[1992年](../Page/1992年.md "wikilink")8月より発売開始。パッケージに[パイプをくわえた男性のイラストが特徴である](../Page/パイプ_\(たばこ\).md "wikilink")。
+**BOSS**（ボス）は、[サントリーフーズ](../Page/サントリーフーズ.md "wikilink")（[サントリー食品インターナショナル](https://ja.wikipedia.org/wiki/サントリー食品インターナショナル "wikilink")の[機能子会社](../Page/子会社.md "wikilink")）の[缶コーヒー](../Page/缶コーヒー.md "wikilink")を中心とした飲料のブランド。1987年 - 1992年に製造・販売されていた缶コーヒー「WEST」（ウェスト）の後継ブランドとして[1992年](../Page/1992年.md "wikilink")8月より発売開始。パッケージに[パイプをくわえた男性のイラストが特徴である](../Page/パイプ_\(たばこ\).md "wikilink")。
 
 缶コーヒーだけでなく、缶[ココア](../Page/ココア.md "wikilink")、[ペットボトル](../Page/ペットボトル.md "wikilink")入り[紅茶](../Page/紅茶.md "wikilink")飲料（「[リプトン](../Page/リプトン.md "wikilink")」ブランドの製品も併売）、[炭酸飲料](../Page/炭酸飲料.md "wikilink")、缶[スープ](../Page/スープ.md "wikilink")も発売されている。
 
@@ -617,37 +617,37 @@
         以下は津田寛治と共演した俳優
     <!-- end list -->
       - [並木史朗](https://ja.wikipedia.org/wiki/並木史朗 "wikilink")（1999年、2000年。ボス電=[携帯電話](../Page/携帯電話.md "wikilink")）
-      - [國村隼](https://ja.wikipedia.org/wiki/國村隼 "wikilink")（1999年 - 2000年。ボスジャン=[ジャンパー](../Page/ジャンパー_\(衣服\).md "wikilink")）
+      - [國村隼](../Page/國村隼.md "wikilink")（1999年 - 2000年。ボスジャン=[ジャンパー](../Page/ジャンパー_\(衣服\).md "wikilink")）
       - [佐藤允](../Page/佐藤允.md "wikilink")（2000年。ボス歌=[ヘッドホンステレオ](https://ja.wikipedia.org/wiki/ヘッドホンステレオ "wikilink")）
       - [あおい輝彦](https://ja.wikipedia.org/wiki/あおい輝彦 "wikilink")、[細川俊之](../Page/細川俊之.md "wikilink")（2001年。ボス漫=[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")）
   - BOSS贅沢微糖
-      - [伊藤淳史](https://ja.wikipedia.org/wiki/伊藤淳史 "wikilink")（2007年9月 - 2010年12月）
+      - [伊藤淳史](../Page/伊藤淳史.md "wikilink")（2007年9月 - 2010年12月）
           -
             以下は伊藤との共演者
         <!-- end list -->
-          - [遠藤章造](https://ja.wikipedia.org/wiki/遠藤章造 "wikilink")、[デビット伊東](../Page/デビット伊東.md "wikilink")、[川藤幸三](../Page/川藤幸三.md "wikilink")、[武藤敬司](https://ja.wikipedia.org/wiki/武藤敬司 "wikilink")、[杉本彩](../Page/杉本彩.md "wikilink")（2007年9月 - ）
+          - [遠藤章造](../Page/遠藤章造.md "wikilink")、[デビット伊東](../Page/デビット伊東.md "wikilink")、[川藤幸三](../Page/川藤幸三.md "wikilink")、[武藤敬司](https://ja.wikipedia.org/wiki/武藤敬司 "wikilink")、[杉本彩](../Page/杉本彩.md "wikilink")（2007年9月 - ）
           - [モロ師岡](../Page/モロ師岡.md "wikilink")、[デヴィ・スカルノ](https://ja.wikipedia.org/wiki/デヴィ・スカルノ "wikilink")、[グラビアアイドル](https://ja.wikipedia.org/wiki/グラビアアイドル "wikilink")=[山崎真実](https://ja.wikipedia.org/wiki/山崎真実 "wikilink") 他（2008年9月 - ）
           - [桑田真澄](../Page/桑田真澄.md "wikilink")、[上野由岐子](https://ja.wikipedia.org/wiki/上野由岐子 "wikilink")（2009年2月 - ）
           - [エリック・ワイナイナ](../Page/エリック・ワイナイナ.md "wikilink")、[宗茂](../Page/宗茂.md "wikilink")、[増田明美](../Page/増田明美.md "wikilink")、[小出義雄](https://ja.wikipedia.org/wiki/小出義雄 "wikilink")、[末續慎吾](../Page/末續慎吾.md "wikilink")、[為末大](../Page/為末大.md "wikilink")、[猫ひろし](../Page/猫ひろし.md "wikilink")（2009年6月 - ）
           - [橘秀雪](https://ja.wikipedia.org/wiki/橘秀雪 "wikilink")（日本最後の[三助](../Page/三助.md "wikilink")）、[北島三郎](https://ja.wikipedia.org/wiki/北島三郎 "wikilink")（2009年9月 - ）
-          - [おニャン子クラブ](../Page/おニャン子クラブ.md "wikilink")元メンバー11人=[新田恵利](../Page/新田恵利.md "wikilink")、[国生さゆり](../Page/国生さゆり.md "wikilink")、[立見里歌](https://ja.wikipedia.org/wiki/立見里歌 "wikilink")、[城之内早苗](../Page/城之内早苗.md "wikilink")、[白石麻子](../Page/白石麻子.md "wikilink")、[横田睦美](../Page/横田睦美.md "wikilink")、[渡辺美奈代](../Page/渡辺美奈代.md "wikilink")、[布川智子](../Page/布川智子.md "wikilink")、[生稲晃子](../Page/生稲晃子.md "wikilink")、[杉浦美雪](https://ja.wikipedia.org/wiki/杉浦美雪 "wikilink")、[宮野久美子](../Page/宮野久美子.md "wikilink")（2010年1月 - ）
+          - [おニャン子クラブ](../Page/おニャン子クラブ.md "wikilink")元メンバー11人=[新田恵利](../Page/新田恵利.md "wikilink")、[国生さゆり](../Page/国生さゆり.md "wikilink")、[立見里歌](../Page/立見里歌.md "wikilink")、[城之内早苗](../Page/城之内早苗.md "wikilink")、[白石麻子](../Page/白石麻子.md "wikilink")、[横田睦美](../Page/横田睦美.md "wikilink")、[渡辺美奈代](../Page/渡辺美奈代.md "wikilink")、[布川智子](../Page/布川智子.md "wikilink")、[生稲晃子](../Page/生稲晃子.md "wikilink")、[杉浦美雪](https://ja.wikipedia.org/wiki/杉浦美雪 "wikilink")、[宮野久美子](../Page/宮野久美子.md "wikilink")（2010年1月 - ）
           - [チーム青森](../Page/チーム青森.md "wikilink")=[本橋麻里](https://ja.wikipedia.org/wiki/本橋麻里 "wikilink")、[目黒萌絵](https://ja.wikipedia.org/wiki/目黒萌絵 "wikilink")、[石崎琴美](https://ja.wikipedia.org/wiki/石崎琴美 "wikilink")、[山浦麻葉](https://ja.wikipedia.org/wiki/山浦麻葉 "wikilink")、[近江谷杏菜](https://ja.wikipedia.org/wiki/近江谷杏菜 "wikilink")（2010年5月 - ）
           - [山田隆夫](../Page/山田隆夫.md "wikilink")、[はしのえみ](../Page/はしのえみ.md "wikilink")、[ヨネスケ](../Page/ヨネスケ.md "wikilink")、[ギャル曽根](../Page/ギャル曽根.md "wikilink")、[松本あゆ美](https://ja.wikipedia.org/wiki/松本あゆ美 "wikilink")、[山岸舞彩](../Page/山岸舞彩.md "wikilink")、[高樹千佳子](../Page/高樹千佳子.md "wikilink")（2010年9月 - ）
           - [桃井かおり](../Page/桃井かおり.md "wikilink")（2010年11月 - ）
     <!-- end list -->
       -
-        このCMには、「[刑事コロンボ](../Page/刑事コロンボ.md "wikilink")」シリーズのテーマ曲「[ミステリー・ムーヴィーのテーマ](../Page/NBCミステリー・ムービー.md "wikilink")」（[ヘンリー・マンシーニ](https://ja.wikipedia.org/wiki/ヘンリー・マンシーニ "wikilink")作曲、フィルム・スタジオ・オーケストラ演奏）が用いられている。
+        このCMには、「[刑事コロンボ](../Page/刑事コロンボ.md "wikilink")」シリーズのテーマ曲「[ミステリー・ムーヴィーのテーマ](../Page/NBCミステリー・ムービー.md "wikilink")」（[ヘンリー・マンシーニ](../Page/ヘンリー・マンシーニ.md "wikilink")作曲、フィルム・スタジオ・オーケストラ演奏）が用いられている。
     <!-- end list -->
       - [大森南朋](../Page/大森南朋.md "wikilink")（2011年2月 - 出演中）
           -
             以下は大森との共演者
         <!-- end list -->
           - [テリー伊藤](../Page/テリー伊藤.md "wikilink")、[カンニング竹山](https://ja.wikipedia.org/wiki/竹山隆範 "wikilink")（2011年2月 - ）
-          - [田村淳](../Page/田村淳.md "wikilink")、[やくみつる](../Page/やくみつる.md "wikilink")、[くまだまさし](https://ja.wikipedia.org/wiki/くまだまさし "wikilink")、[レイザーラモンHG](../Page/レイザーラモンHG.md "wikilink")（2011年2月 - ）
+          - [田村淳](../Page/田村淳.md "wikilink")、[やくみつる](../Page/やくみつる.md "wikilink")、[くまだまさし](../Page/くまだまさし.md "wikilink")、[レイザーラモンHG](../Page/レイザーラモンHG.md "wikilink")（2011年2月 - ）
           - [橋本愛](https://ja.wikipedia.org/wiki/橋本愛_\(1996年生\) "wikilink")（2012年4月 - 出演中）
           - [小深山菜美](https://ja.wikipedia.org/wiki/小深山菜美 "wikilink")（2012年4月 - ）
           - [菜々緒](https://ja.wikipedia.org/wiki/菜々緒 "wikilink")（2013年2月 - ）
-          - [西島秀俊](https://ja.wikipedia.org/wiki/西島秀俊 "wikilink")（2013年5月 - ）
+          - [西島秀俊](../Page/西島秀俊.md "wikilink")（2013年5月 - ）
           - [鈴木奈々](https://ja.wikipedia.org/wiki/鈴木奈々_\(モデル\) "wikilink")（2014年2月 - ）
     <!-- end list -->
       -
@@ -659,10 +659,10 @@
         以下は共演者
     <!-- end list -->
       - [中村敦夫](../Page/中村敦夫.md "wikilink")、[吹越満](../Page/吹越満.md "wikilink")（2009年3月 - ）
-      - [上川隆也](../Page/上川隆也.md "wikilink")、[佐藤B作](https://ja.wikipedia.org/wiki/佐藤B作 "wikilink")、[佐藤蛾次郎](../Page/佐藤蛾次郎.md "wikilink")（2009年11月 - ）
+      - [上川隆也](../Page/上川隆也.md "wikilink")、[佐藤B作](../Page/佐藤B作.md "wikilink")、[佐藤蛾次郎](../Page/佐藤蛾次郎.md "wikilink")（2009年11月 - ）
     <!-- end list -->
       -
-        このCMには、[イタリア](../Page/イタリア.md "wikilink")[映画](../Page/映画.md "wikilink")「[ひまわり](../Page/ひまわり_\(映画\).md "wikilink")」テーマ曲（[ヘンリー・マンシーニ](https://ja.wikipedia.org/wiki/ヘンリー・マンシーニ "wikilink")作曲）が用いられている。
+        このCMには、[イタリア](../Page/イタリア.md "wikilink")[映画](../Page/映画.md "wikilink")「[ひまわり](../Page/ひまわり_\(映画\).md "wikilink")」テーマ曲（[ヘンリー・マンシーニ](../Page/ヘンリー・マンシーニ.md "wikilink")作曲）が用いられている。
   - BOSSシルキーブラック
       -
         出演者は全員、「シルキーブラックオーケストラ」という楽団の一員という設定。
@@ -722,7 +722,7 @@
       - [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")（2013年8月 - ）
     <!-- end list -->
       -
-        SMAPメンバーも含めてCMに出てくる登場人物の鼻が高くなっている\[13\]。BGMは『[世界に一つだけの花](https://ja.wikipedia.org/wiki/世界に一つだけの花 "wikilink")』で、ナレーションは[草彅剛](https://ja.wikipedia.org/wiki/草彅剛 "wikilink")が行っている。
+        SMAPメンバーも含めてCMに出てくる登場人物の鼻が高くなっている\[13\]。BGMは『[世界に一つだけの花](../Page/世界に一つだけの花.md "wikilink")』で、ナレーションは[草彅剛](https://ja.wikipedia.org/wiki/草彅剛 "wikilink")が行っている。
         『ティザー編』（2013年8月 - ）
         このCMではメンバー5人がコーヒーを飲むシルエットのみとなっている。
         『開発編』（2013年8月 - ）
@@ -825,7 +825,7 @@
 
 全員、地球を調査している宇宙人という設定で登場している。
 
-  - 宇宙人ジョーンズ（演：[トミー・リー・ジョーンズ](../Page/トミー・リー・ジョーンズ.md "wikilink")/吹き替え：[谷口節](../Page/谷口節.md "wikilink")〈初登場〜『[ネット](../Page/インターネット.md "wikilink")』篇〉/[菅生隆之](https://ja.wikipedia.org/wiki/菅生隆之 "wikilink")〈『[大相撲](https://ja.wikipedia.org/wiki/大相撲 "wikilink")』篇〜〉）\[18\]
+  - 宇宙人ジョーンズ（演：[トミー・リー・ジョーンズ](../Page/トミー・リー・ジョーンズ.md "wikilink")/吹き替え：[谷口節](../Page/谷口節.md "wikilink")〈初登場〜『[ネット](../Page/インターネット.md "wikilink")』篇〉/[菅生隆之](../Page/菅生隆之.md "wikilink")〈『[大相撲](https://ja.wikipedia.org/wiki/大相撲 "wikilink")』篇〜〉）\[18\]
     主人公。『登場篇』によると、人間に化けるにあたり、映画を観てトミー・リー・ジョーンズに扮したとのこと。『一乗谷篇』で一瞬正体（[タコ](../Page/タコ.md "wikilink")型宇宙人）を現した事がある。
     『[人類史](https://ja.wikipedia.org/wiki/人類史 "wikilink")篇』でマンモスなどがいた太古より、地球調査を行っていたことが明かされている。様々な職につき、地球を調査し続けている（職歴については、[\#各話リスト](https://ja.wikipedia.org/wiki/#各話リスト "wikilink")を参照）。
     台詞はほとんど、吹き替えによる[ボイスオーバー](../Page/ボイスオーバー.md "wikilink")のみ。ジョーンズ自身の声としては『ディスカウントストア篇』で、店員に扮し「[イチキュッパ](../Page/イチキュッパ.md "wikilink")\!」と連呼したのが最初。その後も『2つのタワー篇』[エレベーター](../Page/エレベーター.md "wikilink")案内係役での「ウエヘマイリマス」、『[地上の星篇](https://ja.wikipedia.org/wiki/地上の星/ヘッドライト・テールライト "wikilink")』作業員役での「ハッパ\!（[発破](../Page/発破.md "wikilink")）」、『[教師篇](../Page/教員.md "wikilink")』での「オハヨウゴザイマス」「ハイ\!」「コエガチイサイ」と、だんだん台詞が多くなってきている。ジョーンズの出演シーンはほとんどが別撮りで、後から合成したものである。
@@ -858,7 +858,7 @@
 
   - [八代亜紀](../Page/八代亜紀.md "wikilink")
     『[カラオケボックス](../Page/カラオケボックス.md "wikilink")』篇において、背景のテレビ画面に映る形で出演。
-  - [城咲仁](https://ja.wikipedia.org/wiki/城咲仁 "wikilink")
+  - [城咲仁](../Page/城咲仁.md "wikilink")
     『[ホストクラブ](../Page/ホストクラブ.md "wikilink")篇』で登場。カリスマホスト。
   - [ディープインパクト](../Page/ディープインパクト_\(競走馬\).md "wikilink")
     『[牧場](../Page/牧場.md "wikilink")篇』で登場。
@@ -874,10 +874,10 @@
     『秋葉原篇』で登場。ジョーンズに[オムライス](../Page/オムライス.md "wikilink")を食べさせる[メイド](../Page/メイド.md "wikilink")。
   - [阿藤快](../Page/阿藤快.md "wikilink")
     『温泉篇』で登場。[温泉](../Page/温泉.md "wikilink")旅館の旅行客。従業員に扮装したジョーンズと、[卓球](../Page/卓球.md "wikilink")をする。
-  - [渡辺裕之](https://ja.wikipedia.org/wiki/渡辺裕之 "wikilink")
+  - [渡辺裕之](../Page/渡辺裕之.md "wikilink")
     『時代劇篇』で登場。[時代劇](../Page/時代劇.md "wikilink")の主人公を務める俳優。
   - [福本清三](../Page/福本清三.md "wikilink")
-    『時代劇篇』で登場。時代劇の[エキストラ](https://ja.wikipedia.org/wiki/エキストラ "wikilink")（斬られ役）。ジョーンズに励ましの言葉をかける。
+    『時代劇篇』で登場。時代劇の[エキストラ](../Page/エキストラ.md "wikilink")（斬られ役）。ジョーンズに励ましの言葉をかける。
   - [山崎武司](../Page/山崎武司.md "wikilink")
     『[桜篇](../Page/サクラ.md "wikilink")』で登場。ジョーンズが働く[神社](https://ja.wikipedia.org/wiki/神社 "wikilink")に参拝する。
   - [魁皇](../Page/魁皇博之.md "wikilink")
@@ -909,7 +909,7 @@
   - [入来祐作](../Page/入来祐作.md "wikilink")
     『用具係篇』で登場。元プロ野球選手、[横浜DeNAベイスターズ](../Page/横浜DeNAベイスターズ.md "wikilink")用具係（当時）。スパイクの靴紐を新しいものに付け替えてあげた若手選手（[菅谷哲也](https://ja.wikipedia.org/wiki/菅谷哲也 "wikilink")）から初勝利のウィングボールをプレゼントされる\[26\]。
   - タモリ\[27\]
-    『プレミアムな出会い篇』、『[テレビ局篇](https://ja.wikipedia.org/wiki/テレビ放送局 "wikilink")』、『プレミアム対談篇』、『テレビと若者篇』、『プレミアム鉄道篇』、『プレミアム京都篇』、『プレミアム城跡篇』、『プレミアムお祭り篇』、『プレミアムTOKYO篇』、『プレミアム熊本篇』で登場\[28\]。バラエティ番組の司会者。『プレミアムな出会い篇』および『テレビ局篇』では花屋で働くジョーンズが花を納品しに来たテレビ局のスタジオにて遭遇。誰もいない客席から「出てくれるかな?」とジョーンズに声をかける。『プレミアム対談 A篇』及び『プレミアム対談 B篇』では、かつてタモリが司会を務めた「[森田一義アワー 笑っていいとも\!](https://ja.wikipedia.org/wiki/森田一義アワー_笑っていいとも! "wikilink")」の名物コーナー「[テレフォンショッキング](https://ja.wikipedia.org/wiki/テレフォンショッキング "wikilink")」とよく似た番組にジョーンズがゲストとして登場\[29\]。本家と同様に「髪切った？」とジョーンズに尋ねたり、ジョーンズのリクエストで[イグアナ](https://ja.wikipedia.org/wiki/イグアナ "wikilink")の物まねを披露した。コーナー終了後にジョーンズは「イグアナ、お疲れ」と言われ、プレミアムボスを渡された。『テレビと若者篇』では、ハイヤーに乗って現れ、「この惑星の住人は、本当にテレビが嫌いなのだろうか」というジョーンズの調査報告に対して「まあ、どっちでもいいけどな」と返した。『プレミアム鉄道篇』では、豪華列車の乗客として登場。ダイニングカーで食事をしている女性（[松雪泰子](https://ja.wikipedia.org/wiki/松雪泰子 "wikilink")）に「よろしければご一緒にどうですか？」と声をかけるものの、女性は「曲がってますよ」とタモリのネクタイを整えた後、立ち去られてしまう。その後、ラウンジカーでは一緒に旅をする友人たち（[山田五郎](../Page/山田五郎.md "wikilink")、[みうらじゅん](../Page/みうらじゅん.md "wikilink")）の前で産まれたての仔馬の物まね\[30\]を披露して、爆笑の渦に巻き込むなど友人たちとの会話を楽しんでいた。その後ジョーンズの計らいで、列車が花火が上がる夜空を飛ぶと「すごいね、アンタ」と感嘆し、ジョーンズと一緒にプレミアムボス ブラックを飲む。そして、列車が終着駅に近づくと「もうすぐ終点かな」と寂しげな表情を見せるが、「まだチョットあります」とジョーンズから意味深な言葉を返された。『プレミアム京都篇』では[京都](https://ja.wikipedia.org/wiki/京都 "wikilink")を散策。[清水寺](https://ja.wikipedia.org/wiki/清水寺 "wikilink")から茶わん坂を上り[東福寺](../Page/東福寺.md "wikilink")へ向かい、通天橋で一人紅葉を楽しむ女性（松雪泰子）に「京都は好きですか？」と尋ねると「大好きです」と返されると「確かに紅葉は綺麗だ」と言っている間に違う女性（[山村紅葉](../Page/山村紅葉.md "wikilink")）に入れ替わり、入れ替わった女性に気に入られてしまう。[三年坂を下り](../Page/産寧坂.md "wikilink")、[先斗町](../Page/先斗町.md "wikilink")で「この路地は通り抜けできまへん」の看板に京都らしさを感じていると路地を通り抜けられたことで喜ぶ男性（[篠原信一](https://ja.wikipedia.org/wiki/篠原信一 "wikilink")）に遭遇する。その後[龍安寺](../Page/龍安寺.md "wikilink")の石庭を見て「これはわかんないね…。ま、わかったらつまんないか…。」と呟くとジョーンズによって大量の紅葉が降り注ぎ、「これはいいねぇ」と感嘆し、ジョーンズと一緒にプレミアムボス 微糖を飲む。最後は[祇園](../Page/祇園.md "wikilink")にて、「また来てもいいかな？」と問うと舞妓とジョーンズに「おこしやす」と返される。『プレミアム城跡篇』では[竹田城](https://ja.wikipedia.org/wiki/竹田城 "wikilink")跡を訪れる。城跡の石積みを見て「これは野面積み？」とジョーンズに質問したり、「敵を防ぐためとはいえ、すごい石段だね」とジョーンズに話しかけながら懸命に石段を登るが、ジョーンズに「コチラデス」とどんどん先を進まれてしまう。そして雲海広がる天守閣跡に着くと「おぉこりゃ絶景だね。いやー、こんなとこあったんだ。」と歓声を上げると「つい最近なんですよ、知られるようになったの。ずっとここにあったのに。」と女性カメラマン（[満島ひかり](https://ja.wikipedia.org/wiki/満島ひかり "wikilink")）に話しかけられる。「あなたは？」と女性カメラマンに話しかけるが、雲海から手招きするジョーンズに女性カメラマンと共に恐る恐る雲海へと降りて進む。すると雲が濃くなり、いつの間にかジョーンズは戦国武将に女性カメラマンは女武者に変わっていたことに驚く。法螺貝が鳴る中ジョーンズが指す軍配の先を見ると、雲に浮かぶ戦国時代の竹田城が見え、「夢見てんのかね。」と呟く。その後、ジョーンズと女性カメラマンと共にプレミアムボス ラテを飲む。最後は「またお会いできますか？」と質問するが、女性カメラマンよりも先に「スケジュールパンパンです」と答えるジョーンズに「あんたじゃないんだけど」と呟きながらツッコミを入れた。『プレミアム祭り篇』ではお祭りを散策。お祭り屋台の賑わいに「人多いねぇ」とつぶやく。すると、たい焼き屋台を営んでるジョーンズを見つけて「またアンタか」と嘆きながら、たい焼きを買い食べながら散策。その後、「こっちこっち」と手を振りながら呼びかける浴衣姿の美女（[石田ゆり子](../Page/石田ゆり子.md "wikilink")）を見つけ、手を振るも別の男性に対してであったため、「違った」と苦笑いする。その後、喧嘩神輿を見ていたところ、法被を着たジョーンズに呼びかけられ、法被を着て神輿の上で踊る大工方（だいくがた）となって参加する。その後、ジョーンズと共にプレミアムボス　リミテッドを飲む。最後に再び手を振る浴衣姿の美女を見つけるが、ジョーンズに対してであったことに「アンタかい」とツッコミを入れる。『プレミアムTOKYO篇』では、[水上タクシー](../Page/水上タクシー.md "wikilink")で東京の[隅田川](../Page/隅田川.md "wikilink")を散策。[日本橋でジョーンズが運転する水上タクシーを見つけると](../Page/日本橋_\(東京都中央区\).md "wikilink")、「またアンタかい」と呟きながら乗船。その後、愛用のカメラ片手に水上タクシーで遊覧しながら「東京って川多いんだな」と呟いていると、一緒に乗船していた女性[ジャーナリスト](../Page/ジャーナリスト.md "wikilink")（[貫地谷しほり](https://ja.wikipedia.org/wiki/貫地谷しほり "wikilink")）に東京の川について説明される\[31\]。その後、ジョーンズの「[開けゴマ](https://ja.wikipedia.org/wiki/開けゴマ "wikilink")\!」の一言で[勝鬨橋](https://ja.wikipedia.org/wiki/勝鬨橋 "wikilink")が跳開すると「開けちゃったよ、勝鬨橋」と女性ジャーナリストと共に驚く。その後、[レインボーブリッジ](../Page/レインボーブリッジ.md "wikilink")付近で見る東京の夕日に「東京じゃないみたいだ」と感嘆する。最後にジョーンズと女性ジャーナリストと共にプレミアムボス ザ・マイルドを飲む。『プレミアム熊本篇』では、[熊本地震による被害を修復中の](https://ja.wikipedia.org/wiki/熊本地震_\(2016年\) "wikilink")[熊本城](../Page/熊本城.md "wikilink")を[くまモン](https://ja.wikipedia.org/wiki/くまモン "wikilink")と訪れた際、そこを築城した[加藤清正](../Page/加藤清正.md "wikilink")の事を考えていると、作業員のジョーンズの力により戦国時代にタイムスリップして忍者の姿に扮し、天井裏から熊本城の建築構想中の清正を覗き見る。くまモンがうっかり天上に穴を開けると、清正に曲者と思われて槍を天井に突き刺される。その後現代に戻り、「この城が復活しないと、アンタも元気出ないよね」とくまモンに語りかけた後、ジョーンズ・くまモンと3人でプレミアムボスを飲む。最後は熊本城下の土産物店で、「それにしても、くまモンだらけだねぇ」と感想を述べる。尚、タモリは『[関が原篇](https://ja.wikipedia.org/wiki/関ヶ原の戦い "wikilink")』では[徳川家康](../Page/徳川家康.md "wikilink")を、『[忠臣蔵](https://ja.wikipedia.org/wiki/忠臣蔵 "wikilink")篇』では[吉良上野介](https://ja.wikipedia.org/wiki/吉良上野介 "wikilink")を演じている。
+    『プレミアムな出会い篇』、『[テレビ局篇](https://ja.wikipedia.org/wiki/テレビ放送局 "wikilink")』、『プレミアム対談篇』、『テレビと若者篇』、『プレミアム鉄道篇』、『プレミアム京都篇』、『プレミアム城跡篇』、『プレミアムお祭り篇』、『プレミアムTOKYO篇』、『プレミアム熊本篇』で登場\[28\]。バラエティ番組の司会者。『プレミアムな出会い篇』および『テレビ局篇』では花屋で働くジョーンズが花を納品しに来たテレビ局のスタジオにて遭遇。誰もいない客席から「出てくれるかな?」とジョーンズに声をかける。『プレミアム対談 A篇』及び『プレミアム対談 B篇』では、かつてタモリが司会を務めた「[森田一義アワー 笑っていいとも\!](https://ja.wikipedia.org/wiki/森田一義アワー_笑っていいとも! "wikilink")」の名物コーナー「[テレフォンショッキング](https://ja.wikipedia.org/wiki/テレフォンショッキング "wikilink")」とよく似た番組にジョーンズがゲストとして登場\[29\]。本家と同様に「髪切った？」とジョーンズに尋ねたり、ジョーンズのリクエストで[イグアナ](https://ja.wikipedia.org/wiki/イグアナ "wikilink")の物まねを披露した。コーナー終了後にジョーンズは「イグアナ、お疲れ」と言われ、プレミアムボスを渡された。『テレビと若者篇』では、ハイヤーに乗って現れ、「この惑星の住人は、本当にテレビが嫌いなのだろうか」というジョーンズの調査報告に対して「まあ、どっちでもいいけどな」と返した。『プレミアム鉄道篇』では、豪華列車の乗客として登場。ダイニングカーで食事をしている女性（[松雪泰子](https://ja.wikipedia.org/wiki/松雪泰子 "wikilink")）に「よろしければご一緒にどうですか？」と声をかけるものの、女性は「曲がってますよ」とタモリのネクタイを整えた後、立ち去られてしまう。その後、ラウンジカーでは一緒に旅をする友人たち（[山田五郎](../Page/山田五郎.md "wikilink")、[みうらじゅん](../Page/みうらじゅん.md "wikilink")）の前で産まれたての仔馬の物まね\[30\]を披露して、爆笑の渦に巻き込むなど友人たちとの会話を楽しんでいた。その後ジョーンズの計らいで、列車が花火が上がる夜空を飛ぶと「すごいね、アンタ」と感嘆し、ジョーンズと一緒にプレミアムボス ブラックを飲む。そして、列車が終着駅に近づくと「もうすぐ終点かな」と寂しげな表情を見せるが、「まだチョットあります」とジョーンズから意味深な言葉を返された。『プレミアム京都篇』では[京都](https://ja.wikipedia.org/wiki/京都 "wikilink")を散策。[清水寺](https://ja.wikipedia.org/wiki/清水寺 "wikilink")から茶わん坂を上り[東福寺](../Page/東福寺.md "wikilink")へ向かい、通天橋で一人紅葉を楽しむ女性（松雪泰子）に「京都は好きですか？」と尋ねると「大好きです」と返されると「確かに紅葉は綺麗だ」と言っている間に違う女性（[山村紅葉](../Page/山村紅葉.md "wikilink")）に入れ替わり、入れ替わった女性に気に入られてしまう。[三年坂を下り](../Page/産寧坂.md "wikilink")、[先斗町](../Page/先斗町.md "wikilink")で「この路地は通り抜けできまへん」の看板に京都らしさを感じていると路地を通り抜けられたことで喜ぶ男性（[篠原信一](../Page/篠原信一.md "wikilink")）に遭遇する。その後[龍安寺](../Page/龍安寺.md "wikilink")の石庭を見て「これはわかんないね…。ま、わかったらつまんないか…。」と呟くとジョーンズによって大量の紅葉が降り注ぎ、「これはいいねぇ」と感嘆し、ジョーンズと一緒にプレミアムボス 微糖を飲む。最後は[祇園](../Page/祇園.md "wikilink")にて、「また来てもいいかな？」と問うと舞妓とジョーンズに「おこしやす」と返される。『プレミアム城跡篇』では[竹田城](../Page/竹田城.md "wikilink")跡を訪れる。城跡の石積みを見て「これは野面積み？」とジョーンズに質問したり、「敵を防ぐためとはいえ、すごい石段だね」とジョーンズに話しかけながら懸命に石段を登るが、ジョーンズに「コチラデス」とどんどん先を進まれてしまう。そして雲海広がる天守閣跡に着くと「おぉこりゃ絶景だね。いやー、こんなとこあったんだ。」と歓声を上げると「つい最近なんですよ、知られるようになったの。ずっとここにあったのに。」と女性カメラマン（[満島ひかり](https://ja.wikipedia.org/wiki/満島ひかり "wikilink")）に話しかけられる。「あなたは？」と女性カメラマンに話しかけるが、雲海から手招きするジョーンズに女性カメラマンと共に恐る恐る雲海へと降りて進む。すると雲が濃くなり、いつの間にかジョーンズは戦国武将に女性カメラマンは女武者に変わっていたことに驚く。法螺貝が鳴る中ジョーンズが指す軍配の先を見ると、雲に浮かぶ戦国時代の竹田城が見え、「夢見てんのかね。」と呟く。その後、ジョーンズと女性カメラマンと共にプレミアムボス ラテを飲む。最後は「またお会いできますか？」と質問するが、女性カメラマンよりも先に「スケジュールパンパンです」と答えるジョーンズに「あんたじゃないんだけど」と呟きながらツッコミを入れた。『プレミアム祭り篇』ではお祭りを散策。お祭り屋台の賑わいに「人多いねぇ」とつぶやく。すると、たい焼き屋台を営んでるジョーンズを見つけて「またアンタか」と嘆きながら、たい焼きを買い食べながら散策。その後、「こっちこっち」と手を振りながら呼びかける浴衣姿の美女（[石田ゆり子](../Page/石田ゆり子.md "wikilink")）を見つけ、手を振るも別の男性に対してであったため、「違った」と苦笑いする。その後、喧嘩神輿を見ていたところ、法被を着たジョーンズに呼びかけられ、法被を着て神輿の上で踊る大工方（だいくがた）となって参加する。その後、ジョーンズと共にプレミアムボス　リミテッドを飲む。最後に再び手を振る浴衣姿の美女を見つけるが、ジョーンズに対してであったことに「アンタかい」とツッコミを入れる。『プレミアムTOKYO篇』では、[水上タクシー](../Page/水上タクシー.md "wikilink")で東京の[隅田川](../Page/隅田川.md "wikilink")を散策。[日本橋でジョーンズが運転する水上タクシーを見つけると](../Page/日本橋_\(東京都中央区\).md "wikilink")、「またアンタかい」と呟きながら乗船。その後、愛用のカメラ片手に水上タクシーで遊覧しながら「東京って川多いんだな」と呟いていると、一緒に乗船していた女性[ジャーナリスト](../Page/ジャーナリスト.md "wikilink")（[貫地谷しほり](https://ja.wikipedia.org/wiki/貫地谷しほり "wikilink")）に東京の川について説明される\[31\]。その後、ジョーンズの「[開けゴマ](https://ja.wikipedia.org/wiki/開けゴマ "wikilink")\!」の一言で[勝鬨橋](../Page/勝鬨橋.md "wikilink")が跳開すると「開けちゃったよ、勝鬨橋」と女性ジャーナリストと共に驚く。その後、[レインボーブリッジ](../Page/レインボーブリッジ.md "wikilink")付近で見る東京の夕日に「東京じゃないみたいだ」と感嘆する。最後にジョーンズと女性ジャーナリストと共にプレミアムボス ザ・マイルドを飲む。『プレミアム熊本篇』では、[熊本地震による被害を修復中の](https://ja.wikipedia.org/wiki/熊本地震_\(2016年\) "wikilink")[熊本城](../Page/熊本城.md "wikilink")を[くまモン](https://ja.wikipedia.org/wiki/くまモン "wikilink")と訪れた際、そこを築城した[加藤清正](../Page/加藤清正.md "wikilink")の事を考えていると、作業員のジョーンズの力により戦国時代にタイムスリップして忍者の姿に扮し、天井裏から熊本城の建築構想中の清正を覗き見る。くまモンがうっかり天上に穴を開けると、清正に曲者と思われて槍を天井に突き刺される。その後現代に戻り、「この城が復活しないと、アンタも元気出ないよね」とくまモンに語りかけた後、ジョーンズ・くまモンと3人でプレミアムボスを飲む。最後は熊本城下の土産物店で、「それにしても、くまモンだらけだねぇ」と感想を述べる。尚、タモリは『[関が原篇](https://ja.wikipedia.org/wiki/関ヶ原の戦い "wikilink")』では[徳川家康](../Page/徳川家康.md "wikilink")を、『[忠臣蔵](../Page/忠臣蔵.md "wikilink")篇』では[吉良上野介](https://ja.wikipedia.org/wiki/吉良上野介 "wikilink")を演じている。
     『[平成](../Page/平成.md "wikilink")特別篇』では、渋谷の交差点を歩くジョーンズにビルの壁に設置されたディスプレイから「まだ調査を続けるの、あんたもしつこいね。」と語りかける。
   - [坂上忍](../Page/坂上忍.md "wikilink")
     『テレビ局篇』で登場。マネージャーを怒鳴る売れっ子タレント。ジョーンズが局内のモニターで坂上が出演している生放送番組を視聴する場面がある\[32\]。
@@ -933,9 +933,9 @@
     『喝采篇』で登場。ミッツの父親\[40\]。3年前の回想では「目を覚ましてくれ」とミッツに平手打ちしたが無言で列車に乗り立ち去ってしまう。しかし、ショーでのミッツの歌を聴き拍手を送った。
   - [山村紅葉](../Page/山村紅葉.md "wikilink")
     『プレミアム京都篇』で登場。東福寺の通天橋でタモリが「確かに紅葉（もみじ）は綺麗だ」と言った際にタモリの前に現れ、「いや、もう、かなわんわぁ」と言いタモリの肩を軽く叩いた。
-  - [篠原信一](https://ja.wikipedia.org/wiki/篠原信一 "wikilink")
+  - [篠原信一](../Page/篠原信一.md "wikilink")
     『プレミアム京都篇』で登場。[先斗町](../Page/先斗町.md "wikilink")にある「この路地は通り抜けできまへん」と書かれた路地から現れて「通り抜けれたやん」と言いながら立ち去った。
-  - [堤下敦](https://ja.wikipedia.org/wiki/堤下敦 "wikilink")
+  - [堤下敦](../Page/堤下敦.md "wikilink")
     『ヘッドライト・テールライト篇』で登場。長距離トラック運転手。数日前の回想では、高校の同窓会で同級生に「いやーいいなぁ、トラックドライバー。上下関係とかなさそうだし」と言われるが、不機嫌そうに「そんな気楽なもんじゃねぇよ」と返す。その後、今田、鬼奴がいるサービスエリアで流れ星を見つけると明るい笑顔になり、ジョーンズの「よいお年を」にも3人一緒に「よいお年を」と返す。
   - [椿鬼奴](https://ja.wikipedia.org/wiki/椿鬼奴 "wikilink")
     『ヘッドライト・テールライト篇』で登場。長距離トラック運転手。出勤前の回想では、慌ただしく仕事に出かける支度をしながら娘に「来週は休みとれるからね、いつもごめんね」と話しかけるが、携帯をいじっている娘からは何の返事もない。しかし、運転中の鬼奴の携帯には娘から「気を付けてね」のメールが送られる。その後、今田、堤下がいるサービスエリアで流れ星を見つけると明るい笑顔になり、ジョーンズの「よいお年を」にも3人一緒に「よいお年を」と返す。
@@ -944,13 +944,13 @@
   - [石川さゆり](../Page/石川さゆり.md "wikilink")
     『北海道新幹線篇』で登場。喫茶「TSUGARU」の店主。「私は[連絡船のほうが好きだったわ](../Page/青函連絡船.md "wikilink")」といい、青函連絡船時代を懐かしみながら「[津軽海峡・冬景色](../Page/津軽海峡・冬景色.md "wikilink")」を口ずさむ\[41\]。
   - [貫地谷しほり](https://ja.wikipedia.org/wiki/貫地谷しほり "wikilink")
-    『プレミアムTOKYO篇』で登場。タモリと共に[水上タクシー](../Page/水上タクシー.md "wikilink")に乗船する[江戸時代](../Page/江戸時代.md "wikilink")専門[ジャーナリスト](../Page/ジャーナリスト.md "wikilink")。川にめっぽう詳しい川[オタクで](../Page/おたく.md "wikilink")、[隅田川](../Page/隅田川.md "wikilink")で「東京って意外と川多いんだな」と呟くタモリに、江戸時代には川は道路であり遊び場でもあったと説明する\[42\]。（説明中に江戸時代の[屋形船](../Page/屋形船.md "wikilink")に[タイムスリップするシーンでは](https://ja.wikipedia.org/wiki/タイムトラベル "wikilink")、ジョーンズ（船頭）、タモリ（川遊びを楽しむ文化人）とともに[芸者に扮する](../Page/芸妓.md "wikilink")。）その後、水上タクシー船長・ジョーンズの「開けゴマ\!」の一言で[勝鬨橋](https://ja.wikipedia.org/wiki/勝鬨橋 "wikilink")が跳開するとタモリと共に驚く。
+    『プレミアムTOKYO篇』で登場。タモリと共に[水上タクシー](../Page/水上タクシー.md "wikilink")に乗船する[江戸時代](../Page/江戸時代.md "wikilink")専門[ジャーナリスト](../Page/ジャーナリスト.md "wikilink")。川にめっぽう詳しい川[オタクで](../Page/おたく.md "wikilink")、[隅田川](../Page/隅田川.md "wikilink")で「東京って意外と川多いんだな」と呟くタモリに、江戸時代には川は道路であり遊び場でもあったと説明する\[42\]。（説明中に江戸時代の[屋形船](../Page/屋形船.md "wikilink")に[タイムスリップするシーンでは](https://ja.wikipedia.org/wiki/タイムトラベル "wikilink")、ジョーンズ（船頭）、タモリ（川遊びを楽しむ文化人）とともに[芸者に扮する](../Page/芸妓.md "wikilink")。）その後、水上タクシー船長・ジョーンズの「開けゴマ\!」の一言で[勝鬨橋](../Page/勝鬨橋.md "wikilink")が跳開するとタモリと共に驚く。
   - [永六輔](../Page/永六輔.md "wikilink")
     『昭和篇』で登場。生前のラジオ番組出演の映像で、ディレクターに扮したジョーンズが共に映っている。
   - [蜷川幸雄](../Page/蜷川幸雄.md "wikilink")
     『昭和篇』で登場。生前（1980年代）の演劇の稽古場で演技指導をした際、怒鳴って灰皿を投げつける。演劇スタッフのジョーンズがその灰皿を拾いに行く。
   - [大橋巨泉](../Page/大橋巨泉.md "wikilink")
-    『昭和篇』で登場。生前の「[クイズダービー](../Page/クイズダービー.md "wikilink")」出演時、問題を正解した[はらたいら](https://ja.wikipedia.org/wiki/はらたいら "wikilink")に「やっぱり宇宙人ですね\!」と声をかけた際、[ガッツ石松](../Page/ガッツ石松.md "wikilink")と共に出場者チームにいたジョーンズに「違います」と即答される。
+    『昭和篇』で登場。生前の「[クイズダービー](../Page/クイズダービー.md "wikilink")」出演時、問題を正解した[はらたいら](../Page/はらたいら.md "wikilink")に「やっぱり宇宙人ですね\!」と声をかけた際、[ガッツ石松](../Page/ガッツ石松.md "wikilink")と共に出場者チームにいたジョーンズに「違います」と即答される。
   - [くまモン](https://ja.wikipedia.org/wiki/くまモン "wikilink")
     『プレミアム熊本篇』で登場。タモリと共に修復中の熊本城を見物した後、ジョーンズの力で戦国時代にタイムスリップし、天井裏から加藤清正を覗いている際にうっかり手で天井に穴を開け、清正に槍で突き刺されそうになった。
   - [加山雄三](https://ja.wikipedia.org/wiki/加山雄三 "wikilink")
@@ -990,13 +990,13 @@
 #### 現場で働く人たちへ編
 
   - [タカアンドトシ](../Page/タカアンドトシ.md "wikilink")
-    『[関が原篇](https://ja.wikipedia.org/wiki/関ヶ原の戦い "wikilink")』では[足軽](../Page/足軽.md "wikilink")を、『[忠臣蔵](https://ja.wikipedia.org/wiki/忠臣蔵 "wikilink")篇』では吉良家の奉公人を演じている。
+    『[関が原篇](https://ja.wikipedia.org/wiki/関ヶ原の戦い "wikilink")』では[足軽](../Page/足軽.md "wikilink")を、『[忠臣蔵](../Page/忠臣蔵.md "wikilink")篇』では吉良家の奉公人を演じている。
   - [野村萬斎](../Page/野村萬斎.md "wikilink")
-    『[関が原篇](https://ja.wikipedia.org/wiki/関ヶ原の戦い "wikilink")』では[石田三成](../Page/石田三成.md "wikilink")を、『[忠臣蔵](https://ja.wikipedia.org/wiki/忠臣蔵 "wikilink")篇』では[大石内蔵助](https://ja.wikipedia.org/wiki/大石内蔵助 "wikilink")を演じている。
+    『[関が原篇](https://ja.wikipedia.org/wiki/関ヶ原の戦い "wikilink")』では[石田三成](../Page/石田三成.md "wikilink")を、『[忠臣蔵](../Page/忠臣蔵.md "wikilink")篇』では[大石内蔵助](https://ja.wikipedia.org/wiki/大石内蔵助 "wikilink")を演じている。
 
 #### その他
 
-  - [駐車監視員](../Page/駐車監視員.md "wikilink")（演：[レギュラー](https://ja.wikipedia.org/wiki/レギュラー_\(お笑い\) "wikilink")([松本康太](https://ja.wikipedia.org/wiki/松本康太 "wikilink")・[西川晃啓](https://ja.wikipedia.org/wiki/西川晃啓 "wikilink"))）
+  - [駐車監視員](../Page/駐車監視員.md "wikilink")（演：[レギュラー](../Page/レギュラー_\(お笑い\).md "wikilink")([松本康太](../Page/松本康太.md "wikilink")・[西川晃啓](../Page/西川晃啓.md "wikilink"))）
     『[宅配便](../Page/宅配便.md "wikilink")篇』で登場。配達員に扮したジョーンズを、2回も取り締まっている。
   - ホットペッパーを配る女性（演：[柳原可奈子](https://ja.wikipedia.org/wiki/柳原可奈子 "wikilink")）
     『ホットペッパー篇』で登場\[46\]。ジョーンズと共に、街頭で[ホットペッパーを配る](../Page/ホットペッパー_\(フリーペーパー\).md "wikilink")。
@@ -1020,7 +1020,7 @@
     『鵜飼い篇』で登場。
   - サラリーマン（演：[杉本哲太](https://ja.wikipedia.org/wiki/杉本哲太 "wikilink")）
     『2つのタワー篇』で登場。[東京タワー](https://ja.wikipedia.org/wiki/東京タワー "wikilink")の展望台の双眼鏡で覗き込んだ先にある、とある会社で働く中堅社員。
-  - 会社の重役（演：[村野武範](https://ja.wikipedia.org/wiki/村野武範 "wikilink")）
+  - 会社の重役（演：[村野武範](../Page/村野武範.md "wikilink")）
     『とある老人篇』で一瞬だけ登場。社用車の後席から[東京スカイツリー](../Page/東京スカイツリー.md "wikilink")を見上げている。
   - 駅で相手との別れを惜しむカップル2組（演：[吉岡秀隆](../Page/吉岡秀隆.md "wikilink")、[佐藤江梨子](https://ja.wikipedia.org/wiki/佐藤江梨子 "wikilink")、[ヒロシ](../Page/ヒロシ.md "wikilink")、[池脇千鶴](https://ja.wikipedia.org/wiki/池脇千鶴 "wikilink")）
     『[駅員](https://ja.wikipedia.org/wiki/駅員 "wikilink")篇』で登場。駅の舞台は[のと鉄道](../Page/のと鉄道.md "wikilink")[能登中島駅](https://ja.wikipedia.org/wiki/能登中島駅 "wikilink")1番ホーム。
@@ -1029,8 +1029,8 @@
   - 体育館裏で告白される女子（演：[井越有彩](https://ja.wikipedia.org/wiki/井越有彩 "wikilink")）
     『教師篇』で登場。告白した男子は声が小さかった事から竹刀を持ったジョーンズに怒鳴られる。
   - ジョーンズの弟子（演：[有吉弘行](../Page/有吉弘行.md "wikilink")）
-    『[奥の細道](https://ja.wikipedia.org/wiki/奥の細道 "wikilink")篇』で登場。ジョーンズと共に旅に出ているが、[俳句](https://ja.wikipedia.org/wiki/俳句 "wikilink")を詠めないジョーンズに辛辣なツッコミを入れている。
-  - 首を痛めた島民（演：[渡辺哲](https://ja.wikipedia.org/wiki/渡辺哲 "wikilink")）
+    『[奥の細道](https://ja.wikipedia.org/wiki/奥の細道 "wikilink")篇』で登場。ジョーンズと共に旅に出ているが、[俳句](../Page/俳句.md "wikilink")を詠めないジョーンズに辛辣なツッコミを入れている。
+  - 首を痛めた島民（演：[渡辺哲](../Page/渡辺哲.md "wikilink")）
     『[医師](../Page/医師.md "wikilink")篇』で登場。痛めた首をジョーンズに治療してもらう。
   - 寝込んでいる女性（演：[松原智恵子](../Page/松原智恵子.md "wikilink")）
     『医師篇』で登場。自宅で寝込んでおり、ジョーズに治療してもらう。ジョーンズにはずっと島に居てほしいようだ。
@@ -1039,13 +1039,13 @@
     しかし、ジョーンズが島を去る際、島民に「ありがとう」と涙ながら見送られていることから、評判はよかったようである。
   - 役所の職員（演：[田中哲司](../Page/田中哲司.md "wikilink")）
     『医師篇』で登場。島の役所の職員。ジョーンズに「許可を得ているのか?」と尋ね、彼を島から追い出す。
-  - 通りすがりの男（演：[今野浩喜](https://ja.wikipedia.org/wiki/今野浩喜 "wikilink")）
+  - 通りすがりの男（演：[今野浩喜](../Page/今野浩喜.md "wikilink")）
     『ネット篇』、『ネット特別篇』で登場。空を飛びながら[ピザ](../Page/ピザ.md "wikilink")を配達するジョーンズを発見し、その様子を[動画サイト](https://ja.wikipedia.org/wiki/動画サイト "wikilink")に投稿する。
   - 研究員（演：[嶋田久作](../Page/嶋田久作.md "wikilink")）
     『ネット特別篇』で登場。宇宙人について研究している研究員。科学の進歩のためにジョーンズに研究の協力を要請するが、「嫌だ」と断られて逃げ出されてしまう。
   - マンション管理人（演：[風間杜夫](../Page/風間杜夫.md "wikilink")）
     『マンション篇』で登場。ジョーンズの先輩の管理人。
-  - すごく太った男（演：[HIRO](https://ja.wikipedia.org/wiki/HIRO_\(お笑い芸人\) "wikilink")）
+  - すごく太った男（演：[HIRO](../Page/HIRO_\(お笑い芸人\).md "wikilink")）
     『マンション篇』で登場。ジョーンズが管理人を務めるマンションの住人。部屋で縄跳びをしていたところ、その騒音について別の部屋の住人に管理人室へクレームを入れられる。
   - 若手選手（演：[菅谷哲也](https://ja.wikipedia.org/wiki/菅谷哲也 "wikilink")）
     『用具係篇』で登場。横浜DeNAベイスターズの若手選手で、背番号59\[47\]。靴紐が切れたスパイクを入来に直してもらい、後日初勝利のウイニングボールを入来に手渡す。
@@ -1155,7 +1155,7 @@
 <tr class="even">
 <td><p>『時代劇篇』</p></td>
 <td><p>2008年4月</p></td>
-<td><p>時代劇俳優（<a href="https://ja.wikipedia.org/wiki/エキストラ" title="wikilink">エキストラ</a>）</p></td>
+<td><p>時代劇俳優（<a href="../Page/エキストラ.md" title="wikilink">エキストラ</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>『大工篇』</p></td>
@@ -1320,7 +1320,7 @@
 <tr class="odd">
 <td><p>『コンサート出会い篇』[72]</p></td>
 <td><p>2013年8月</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/警備員" title="wikilink">警備員</a></p></td>
+<td><p><a href="../Page/警備員.md" title="wikilink">警備員</a></p></td>
 </tr>
 <tr class="even">
 <td><p>『コンサート篇』[73][74]</p></td>
@@ -1350,7 +1350,7 @@
 <tr class="odd">
 <td><p>『プレミアムな出会い篇』[79]</p></td>
 <td><p>2014年8月</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/花屋" title="wikilink">花屋</a>の配達員</p></td>
+<td><p><a href="../Page/花屋.md" title="wikilink">花屋</a>の配達員</p></td>
 </tr>
 <tr class="even">
 <td><p>『テレビ局篇』[80]</p></td>
@@ -1415,7 +1415,7 @@
 <tr class="even">
 <td><p>『<a href="https://ja.wikipedia.org/wiki/北海道新幹線" title="wikilink">北海道新幹線</a>篇』</p></td>
 <td><p>2016年1月</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/保線" title="wikilink">保線</a>作業員</p></td>
+<td><p><a href="../Page/保線.md" title="wikilink">保線</a>作業員</p></td>
 </tr>
 <tr class="odd">
 <td><p>『プレミアム城跡篇』[89][90]</p></td>
@@ -1481,7 +1481,7 @@
 <td><p>足軽</p></td>
 </tr>
 <tr class="odd">
-<td><p>『<a href="https://ja.wikipedia.org/wiki/忠臣蔵" title="wikilink">忠臣蔵</a>篇』</p></td>
+<td><p>『<a href="../Page/忠臣蔵.md" title="wikilink">忠臣蔵</a>篇』</p></td>
 <td><p>2018年11月</p></td>
 <td><p>吉良邸の奉公人</p></td>
 </tr>
@@ -1577,11 +1577,11 @@
 49.
 50. 仕事の合間を縫って牛丼屋で食事をしているという設定。
 51. CM最後に八代のヒット曲『[舟唄](../Page/舟唄.md "wikilink")』が流れ、店員に扮装したジョーンズが涙し、口ずさむ。
-52. 「[プロジェクトX](../Page/プロジェクトX〜挑戦者たち〜.md "wikilink")」のパロディで、同番組で取り上げられた[黒部ダム](../Page/黒部ダム.md "wikilink")の大町トンネル建設を真似た映像になっている。トンネル内の映像は、当時建設中だった[岐阜県](../Page/岐阜県.md "wikilink")[下呂市](https://ja.wikipedia.org/wiki/下呂市 "wikilink")にある[濃飛横断自動車道](https://ja.wikipedia.org/wiki/濃飛横断自動車道 "wikilink")ささゆりトンネルの映像である。ちなみに、同番組の主題歌であった[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")の『[地上の星](https://ja.wikipedia.org/wiki/地上の星/ヘッドライト・テールライト "wikilink")』も使用された。
+52. 「[プロジェクトX](../Page/プロジェクトX〜挑戦者たち〜.md "wikilink")」のパロディで、同番組で取り上げられた[黒部ダム](../Page/黒部ダム.md "wikilink")の大町トンネル建設を真似た映像になっている。トンネル内の映像は、当時建設中だった[岐阜県](../Page/岐阜県.md "wikilink")[下呂市](../Page/下呂市.md "wikilink")にある[濃飛横断自動車道](https://ja.wikipedia.org/wiki/濃飛横断自動車道 "wikilink")ささゆりトンネルの映像である。ちなみに、同番組の主題歌であった[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")の『[地上の星](https://ja.wikipedia.org/wiki/地上の星/ヘッドライト・テールライト "wikilink")』も使用された。
 53. 往年の名刑事ドラマ『[太陽にほえろ\!](../Page/太陽にほえろ!.md "wikilink")』をモチーフにした作品。配役もドラマに準じ、音楽も同ドラマの音楽を手がけた[大野克夫](../Page/大野克夫.md "wikilink")の音楽をアレンジで使用している。
 54. このCMでは『[ムーン・リヴァー](https://ja.wikipedia.org/wiki/ムーン・リヴァー "wikilink")』がBGMとして使われ,『原始人時代の[マンモス](../Page/マンモス.md "wikilink")狩り』・『[ピラミッド](../Page/ピラミッド.md "wikilink")建設現場』・『[万里の長城](../Page/万里の長城.md "wikilink")建設現場』・『現代の[東京](https://ja.wikipedia.org/wiki/東京特別区 "wikilink")』が描かれている 。表中の職業はそのうち最後の『現代の東京』での職業。また,『現代の東京』では「内定を獲得した就活生の電話をジョーンズが小耳にはさむ」という設定だった。
 55. 「**2つのタワー**」とは、東京タワーと、建設中の[東京スカイツリー](../Page/東京スカイツリー.md "wikilink")の事であり、BGMに映画『[ALWAYS 三丁目の夕日](../Page/ALWAYS_三丁目の夕日.md "wikilink")』（東京タワー建設中の時期を描いた映画）のメインテーマが使用されている。
-56. 建設中の[東京スカイツリー](../Page/東京スカイツリー.md "wikilink")が再度登場。BGMに『[上を向いて歩こう](https://ja.wikipedia.org/wiki/上を向いて歩こう "wikilink")』が使用されている。
+56. 建設中の[東京スカイツリー](../Page/東京スカイツリー.md "wikilink")が再度登場。BGMに『[上を向いて歩こう](../Page/上を向いて歩こう.md "wikilink")』が使用されている。
 57. 過去のCMの総集篇。地球での調査の延長を申請したようだ。BGMに[平原綾香](https://ja.wikipedia.org/wiki/平原綾香 "wikilink")の『明日』が使用されている。
 58. ロケ地は[のと鉄道](../Page/のと鉄道.md "wikilink")[七尾線](https://ja.wikipedia.org/wiki/のと鉄道七尾線 "wikilink")[能登中島駅](https://ja.wikipedia.org/wiki/能登中島駅 "wikilink")。BGMに『[春よ、来い](../Page/春よ、来い_\(松任谷由実の曲\).md "wikilink")』が使用されている。
 59. BGMに[森田健作](https://ja.wikipedia.org/wiki/森田健作 "wikilink")の『さらば涙と言おう』が使用されている。
@@ -1615,11 +1615,11 @@
 87.
 88. ロケ地は[清水寺](https://ja.wikipedia.org/wiki/清水寺 "wikilink")、茶わん坂、[東福寺](../Page/東福寺.md "wikilink")、[三年坂](../Page/産寧坂.md "wikilink")、[先斗町](../Page/先斗町.md "wikilink")、[龍安寺](../Page/龍安寺.md "wikilink")、[祇園](../Page/祇園.md "wikilink")。
 89.
-90. ロケ地は[竹田城](https://ja.wikipedia.org/wiki/竹田城 "wikilink")跡。
+90. ロケ地は[竹田城](../Page/竹田城.md "wikilink")跡。
 91. CM途中でジョーンズは[戦国武将になっている](../Page/戦国大名.md "wikilink")。
 92.
 93. CM途中でジョーンズは法被を着て[神輿](../Page/神輿.md "wikilink")の上で踊る大工方（だいくがた）になっている。
 94. BGMには[吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")の『[今日までそして明日から](https://ja.wikipedia.org/wiki/今日までそして明日から_\(よしだたくろうの曲\) "wikilink")』が使用されている。
 95.
 96. CM途中でジョーンズは浮世絵に写る遊覧船の船頭になっている。
-97. BGMには『夢であいましょう』、『[上を向いて歩こう](https://ja.wikipedia.org/wiki/上を向いて歩こう "wikilink")』が使用されている。
+97. BGMには『夢であいましょう』、『[上を向いて歩こう](../Page/上を向いて歩こう.md "wikilink")』が使用されている。

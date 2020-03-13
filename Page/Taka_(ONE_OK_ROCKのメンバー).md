@@ -7,7 +7,7 @@
 
 **[2001年](../Page/2001年.md "wikilink")**
 
-  - 3月、[慶應義塾幼稚舎](https://ja.wikipedia.org/wiki/慶應義塾幼稚舎 "wikilink")卒業。
+  - 3月、[慶應義塾幼稚舎](../Page/慶應義塾幼稚舎.md "wikilink")卒業。
   - 4月、[慶應義塾湘南藤沢中等部](https://ja.wikipedia.org/wiki/慶應義塾湘南藤沢中等部 "wikilink")（SFC中等部）入学。
   - 8月、[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")入所
 
@@ -21,7 +21,7 @@
 
   - 4月、[慶應義塾湘南藤沢高等部](https://ja.wikipedia.org/wiki/慶應義塾湘南藤沢高等部 "wikilink")（SFC高等部）入学。
 
-**[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")**
+**[2005年](../Page/2005年.md "wikilink")**
 
   - 3月、[慶應義塾湘南藤沢高等部](https://ja.wikipedia.org/wiki/慶應義塾湘南藤沢高等部 "wikilink")一年終了時、音楽の道に進むため自主退学。
   - 4月、両親（森進一、森昌子）が離婚。
@@ -44,7 +44,7 @@
   -
     レッスンは週1回土曜日のみ参加、授業に差し障りがあったら辞めさせるという父親からの条件付き\[5\]。
     [NEWS結成メンバーに選抜されるが](https://ja.wikipedia.org/wiki/NEWS_\(ジャニーズ\) "wikilink")、3ヶ月後、「学業に専念する」との理由で活動を休止、まもなく自主退所する。
-    またこの時期、共通の友人とともに[RIZE](https://ja.wikipedia.org/wiki/RIZE "wikilink")の[金子ノブアキ](../Page/金子ノブアキ.md "wikilink")と食事をする機会があり、ライブに誘われる。後日、ライブハウスで初めてRIZEのライブを見て感動、ロックに目覚め、バンドをやりたいという思いが生まれる\[6\]。
+    またこの時期、共通の友人とともに[RIZE](../Page/RIZE.md "wikilink")の[金子ノブアキ](../Page/金子ノブアキ.md "wikilink")と食事をする機会があり、ライブに誘われる。後日、ライブハウスで初めてRIZEのライブを見て感動、ロックに目覚め、バンドをやりたいという思いが生まれる\[6\]。
 
 ### バンド時代
 
@@ -169,13 +169,13 @@
 <tr class="even">
 <td><p>2013年3月20日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Summer_Paradise" title="wikilink">Summer Paradise</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シンプル・プラン_(バンド)" title="wikilink">シンプル・プラン</a></p></td>
+<td><p><a href="../Page/シンプル・プラン_(バンド).md" title="wikilink">シンプル・プラン</a></p></td>
 <td><p>「<strong><a href="https://ja.wikipedia.org/wiki/Summer_Paradise" title="wikilink">Summer Paradise</a></strong> feat. Taka from ONE OK ROCK」 （シングル）</p></td>
 </tr>
 <tr class="odd">
 <td><p>2013年3月27日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Get_Your_Heart_On!_(Japan_Tour_Edition)" title="wikilink">Get Your Heart On! (Japan Tour Edition)</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シンプル・プラン_(バンド)" title="wikilink">シンプル・プラン</a></p></td>
+<td><p><a href="../Page/シンプル・プラン_(バンド).md" title="wikilink">シンプル・プラン</a></p></td>
 <td><p>『<strong><a href="https://ja.wikipedia.org/wiki/Summer_Paradise" title="wikilink">Summer Paradise</a></strong> feat. Taka from ONE OK ROCK』（アルバム）</p></td>
 </tr>
 <tr class="even">
@@ -223,7 +223,7 @@
 <tr class="odd">
 <td><p>2016年10月8日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/サーティーン・ヴォイシーズ" title="wikilink">13voices (japanese ver.)</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Sum_41" title="wikilink">Sum 41</a></p></td>
+<td><p><a href="../Page/Sum_41.md" title="wikilink">Sum 41</a></p></td>
 <td><p>「<strong><a href="https://ja.wikipedia.org/wiki/War(feat.Taka)" title="wikilink">War(feat.Taka)</a></strong>」にゲストボーカルとして参加。</p></td>
 </tr>
 <tr class="even">

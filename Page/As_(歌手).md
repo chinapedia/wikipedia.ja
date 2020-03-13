@@ -9,7 +9,7 @@
   - 2003年 - シングル『BIRTH』が発売される。
   - 2004年10月 - コイケタマミからtamamiに改名。
   - 2005年1月 - tamamiからasに改名する。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink") - asとしてシングル『タイムカプセル』でデビュー。
+  - [2005年](../Page/2005年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink") - asとしてシングル『タイムカプセル』でデビュー。
   - [2006年](../Page/2006年.md "wikilink")[6月7日](../Page/6月7日.md "wikilink") - 1stアルバム『and song』をリリース。
   - この間、病気療養のため音楽活動を休止
   - [2007年](../Page/2007年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink") - asとして活動終了。tamamiでの活動へ移行。

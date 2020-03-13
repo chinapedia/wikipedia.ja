@@ -23,7 +23,7 @@
 <!-- end list -->
 
   -
-    [富田武](https://ja.wikipedia.org/wiki/富田武 "wikilink")・[下斗米伸夫](../Page/下斗米伸夫.md "wikilink")・[永綱憲悟](https://ja.wikipedia.org/wiki/永綱憲悟 "wikilink")・[広岡直子](https://ja.wikipedia.org/wiki/広岡直子 "wikilink")・[鈴木義一](https://ja.wikipedia.org/wiki/鈴木義一 "wikilink")訳『ペレストロイカと歴史像の転換』（[岩波書店](../Page/岩波書店.md "wikilink"), 1990年）
+    [富田武](../Page/富田武.md "wikilink")・[下斗米伸夫](../Page/下斗米伸夫.md "wikilink")・[永綱憲悟](https://ja.wikipedia.org/wiki/永綱憲悟 "wikilink")・[広岡直子](https://ja.wikipedia.org/wiki/広岡直子 "wikilink")・[鈴木義一](https://ja.wikipedia.org/wiki/鈴木義一 "wikilink")訳『ペレストロイカと歴史像の転換』（[岩波書店](../Page/岩波書店.md "wikilink"), 1990年）
 
 <!-- end list -->
 

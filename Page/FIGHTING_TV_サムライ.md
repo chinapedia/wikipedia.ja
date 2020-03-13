@@ -27,7 +27,7 @@
 
 ## 放送チャンネル
 
-  - スカパー\!プレミアムサービス・[スカパー\!プレミアムサービス光](https://ja.wikipedia.org/wiki/スカパー!プレミアムサービス光 "wikilink") Ch.301（標準画質、2014年5月31日放送終了）、Ch.600（ハイビジョン放送）
+  - スカパー\!プレミアムサービス・[スカパー\!プレミアムサービス光](../Page/スカパー!プレミアムサービス光.md "wikilink") Ch.301（標準画質、2014年5月31日放送終了）、Ch.600（ハイビジョン放送）
   - [ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")各局（一部、チャンネルは異なる。多くはオプション契約チャンネル）
   - 2009年3月31日をもって[JC-HITSでの放送を終了するが](https://ja.wikipedia.org/wiki/ジャパンケーブルキャスト "wikilink")、同年4月1日から、[i-HITSでの放送を開始する](../Page/アイ・ヒッツ.md "wikilink")。
 
@@ -219,7 +219,7 @@
     [ニュースの鬼](https://ja.wikipedia.org/wiki/ニュースの鬼 "wikilink")
     「生でGONG\! X2」や「Sアリーナ」と続いていく毎日のニュース番組、だったが、一時期週一回になっていたこともある。
   - [生でGONG\! X2](https://ja.wikipedia.org/wiki/生でGONG!_X2 "wikilink")
-    毎日のニュース番組。日替わりのキャスターに、[川野太郎](https://ja.wikipedia.org/wiki/川野太郎 "wikilink")・[秦真司](https://ja.wikipedia.org/wiki/秦真司 "wikilink")などを起用し、その人選に疑問を呈する視聴者が多かった。
+    毎日のニュース番組。日替わりのキャスターに、[川野太郎](../Page/川野太郎.md "wikilink")・[秦真司](../Page/秦真司.md "wikilink")などを起用し、その人選に疑問を呈する視聴者が多かった。
   - [ニュース侍](https://ja.wikipedia.org/wiki/ニュース侍 "wikilink")
     司会:[矢野武](../Page/矢野武.md "wikilink")等
     サムライTVの看板番組、「Sアリーナ」復活により引き継がれる。
@@ -243,7 +243,7 @@
   - [NOAH's ark](https://ja.wikipedia.org/wiki/NOAH's_ark "wikilink")
     司会: [あさりど](../Page/あさりど.md "wikilink")、[加藤由季](../Page/加藤由季.md "wikilink")。NOAHの選手参加のロケ番組。
   - [SAMURAI X\!](https://ja.wikipedia.org/wiki/SAMURAI_X! "wikilink")
-    司会: [伊集院光](../Page/伊集院光.md "wikilink")、[黒住祐子](https://ja.wikipedia.org/wiki/黒住祐子 "wikilink")。1時間のPR番組。無料放送。5回程度で終了。
+    司会: [伊集院光](../Page/伊集院光.md "wikilink")、[黒住祐子](../Page/黒住祐子.md "wikilink")。1時間のPR番組。無料放送。5回程度で終了。
   - [プロレススーパースター列伝](../Page/プロレススーパースター列伝.md "wikilink")
     [同名の漫画とは無関係](../Page/プロレススーパースター列伝.md "wikilink")。過去の名レスラーにスポットを当てた、「あの人は今」的な番組。一部が[GyaOで再配信されていた](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")。
   - [サムライパンチ](https://ja.wikipedia.org/wiki/サムライパンチ "wikilink")
@@ -318,11 +318,11 @@
 
 ### 実況アナウンサー
 
-  - [清野茂樹](https://ja.wikipedia.org/wiki/清野茂樹 "wikilink")([新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")実況、「[NEW JAPAN ROAD](https://ja.wikipedia.org/wiki/NEW_JAPAN_ROAD "wikilink")」司会等)
+  - [清野茂樹](../Page/清野茂樹.md "wikilink")([新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")実況、「[NEW JAPAN ROAD](https://ja.wikipedia.org/wiki/NEW_JAPAN_ROAD "wikilink")」司会等)
   - [村田晴郎](../Page/村田晴郎.md "wikilink")(DDT、[全日本プロレス](../Page/全日本プロレス.md "wikilink")、[みちのくプロレス](../Page/みちのくプロレス.md "wikilink")、各[女子プロレス](../Page/女子プロレス.md "wikilink")中継等)
   - [登坂栄児](../Page/登坂栄児.md "wikilink")([BJW](../Page/大日本プロレス.md "wikilink")[社長](../Page/社長.md "wikilink")・「[大日大戦](../Page/大日大戦.md "wikilink")」実況)
   - [塩野潤二](https://ja.wikipedia.org/wiki/塩野潤二 "wikilink")(主に[プロレスリング・ノア](../Page/プロレスリング・ノア.md "wikilink")中継担当)
-  - [山口雅史](https://ja.wikipedia.org/wiki/山口雅史 "wikilink")([宮尾すすむ](https://ja.wikipedia.org/wiki/宮尾すすむ "wikilink")の長男。主に[新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")、[IGF中継担当](../Page/イノキ・ゲノム・フェデレーション.md "wikilink"))
+  - [山口雅史](https://ja.wikipedia.org/wiki/山口雅史 "wikilink")([宮尾すすむ](../Page/宮尾すすむ.md "wikilink")の長男。主に[新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")、[IGF中継担当](../Page/イノキ・ゲノム・フェデレーション.md "wikilink"))
   - [矢野武](../Page/矢野武.md "wikilink")([修斗](../Page/修斗.md "wikilink")）
   - [高橋大輔](https://ja.wikipedia.org/wiki/高橋大輔_\(アナウンサー\) "wikilink")([ZERO1](../Page/ZERO1.md "wikilink")、[パンクラス](../Page/パンクラス.md "wikilink"))
   - [市川勝也](https://ja.wikipedia.org/wiki/市川勝也 "wikilink")([シュートボクシング](../Page/シュートボクシング.md "wikilink")）
@@ -339,7 +339,7 @@
   - [工藤めぐみ](../Page/工藤めぐみ.md "wikilink")
   - [浅草キッド](../Page/浅草キッド.md "wikilink")
   - [ターザン山本](https://ja.wikipedia.org/wiki/ターザン山本 "wikilink")
-  - [志生野温夫](https://ja.wikipedia.org/wiki/志生野温夫 "wikilink")
+  - [志生野温夫](../Page/志生野温夫.md "wikilink")
   - [有田哲平](../Page/有田哲平.md "wikilink")
   - [辻よしなり](../Page/辻よしなり.md "wikilink")
   - [山本シュウ](../Page/山本シュウ.md "wikilink")
@@ -355,8 +355,8 @@
   - [山田玲奈](../Page/山田玲奈.md "wikilink")
   - [遠藤あゆみ](https://ja.wikipedia.org/wiki/遠藤あゆみ "wikilink")
   - [山本雅俊](https://ja.wikipedia.org/wiki/山本雅俊 "wikilink")
-  - [川野太郎](https://ja.wikipedia.org/wiki/川野太郎 "wikilink")
-  - [秦真司](https://ja.wikipedia.org/wiki/秦真司 "wikilink")
+  - [川野太郎](../Page/川野太郎.md "wikilink")
+  - [秦真司](../Page/秦真司.md "wikilink")
   - [舞の海秀平](../Page/舞の海秀平.md "wikilink")
   - [三四六](../Page/三四六.md "wikilink")
   - [水嶋洋子](../Page/水嶋洋子.md "wikilink")

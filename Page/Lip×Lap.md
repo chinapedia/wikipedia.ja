@@ -81,17 +81,17 @@
 <!-- end list -->
 
   - UX-W50
-    [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")発売。**UX-WD70**からDVD再生機能を省略しスピーカーのデザインを変更しているモデル。音質調整機能にも一部違いがある。αサウンド採用。サイドイルミ機能はUX-WD70のシルバーからブルーに変更。2006年1月生産終了。
+    [2005年](../Page/2005年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")発売。**UX-WD70**からDVD再生機能を省略しスピーカーのデザインを変更しているモデル。音質調整機能にも一部違いがある。αサウンド採用。サイドイルミ機能はUX-WD70のシルバーからブルーに変更。2006年1月生産終了。
 
 <!-- end list -->
 
   - UX-Q10
-    [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")発売。**UX-Q1**のマイナーチェンジ版。デザインを変更し本当に若い女性向けのモデルと見て取れる機種である。[2ウェイスピーカー](https://ja.wikipedia.org/wiki/2ウェイスピーカー "wikilink")採用。2006年3月生産終了。
+    [2005年](../Page/2005年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")発売。**UX-Q1**のマイナーチェンジ版。デザインを変更し本当に若い女性向けのモデルと見て取れる機種である。[2ウェイスピーカー](https://ja.wikipedia.org/wiki/2ウェイスピーカー "wikilink")採用。2006年3月生産終了。
 
 <!-- end list -->
 
   - UX-QD70
-    [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[8月](../Page/8月.md "wikilink")発売。**UX-QD7**と違う点は、[DVDプレーヤー](../Page/DVDプレーヤー.md "wikilink")は[DVD](../Page/DVD.md "wikilink")-R/-RWの最近の規格であるVRモードに対応。[CPRM](https://ja.wikipedia.org/wiki/CPRM "wikilink")対応で、[デジタル放送](https://ja.wikipedia.org/wiki/デジタル放送 "wikilink")を録画したディスクも再生可能となっている。音質調整機能[αサウンド](https://ja.wikipedia.org/wiki/αサウンド "wikilink")採用。2006年6月生産終了。
+    [2005年](../Page/2005年.md "wikilink")[8月](../Page/8月.md "wikilink")発売。**UX-QD7**と違う点は、[DVDプレーヤー](../Page/DVDプレーヤー.md "wikilink")は[DVD](../Page/DVD.md "wikilink")-R/-RWの最近の規格であるVRモードに対応。[CPRM](../Page/CPRM.md "wikilink")対応で、[デジタル放送](../Page/デジタル放送.md "wikilink")を録画したディスクも再生可能となっている。音質調整機能[αサウンド](https://ja.wikipedia.org/wiki/αサウンド "wikilink")採用。2006年6月生産終了。
 
 <!-- end list -->
 
@@ -101,9 +101,9 @@
 <!-- end list -->
 
   - UX-WD700
-    [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")発売。UX-WD70の後継機種。1.5cmドーム型[スーパーツイーター](https://ja.wikipedia.org/wiki/ツイーター "wikilink")、4cmコーン型[ツイーター](https://ja.wikipedia.org/wiki/ツイーター "wikilink")と11cmコーン型[ウーファー](https://ja.wikipedia.org/wiki/ウーファー "wikilink")から12.5cmに変更した3WAY[スピーカー](../Page/スピーカー.md "wikilink")採用。オプションで[ウーファー](https://ja.wikipedia.org/wiki/ウーファー "wikilink")を付けられるようにサブウーファー、音場の高さを調節できるサウンドリフターを搭載。光るトレイ採用。
-    [デジタルオーディオプレーヤー](../Page/デジタルオーディオプレーヤー.md "wikilink")用接続端子を前面に配置し、[ダイレクトレコーディング](https://ja.wikipedia.org/wiki/ダイレクトレコーディング "wikilink")や再生が簡単に行うことが可能となった。[MP3](../Page/MP3.md "wikilink")、[WMA再生可能](../Page/Windows_Media_Audio.md "wikilink")。[左右差信号](https://ja.wikipedia.org/wiki/左右差信号 "wikilink")（[L-R間接音](https://ja.wikipedia.org/wiki/L-R間接音 "wikilink")）に[LFO](https://ja.wikipedia.org/wiki/LFO "wikilink")変調（[α波](https://ja.wikipedia.org/wiki/α波 "wikilink")[周波数](../Page/周波数.md "wikilink")で[ゆらぎ](https://ja.wikipedia.org/wiki/ゆらぎ "wikilink")を与える）を施し、中音域の音楽信号を自然に補正して、聴くだけで[リラックス](https://ja.wikipedia.org/wiki/リラックス "wikilink")できる音を作る機能新しい音質調整機能αサウンドモード採用。
-    [DVDプレーヤー](../Page/DVDプレーヤー.md "wikilink")は[DVD](../Page/DVD.md "wikilink")-R/-RWの最近の規格である[VRモードに対応](../Page/DVD-VR.md "wikilink")。[CPRM](https://ja.wikipedia.org/wiki/CPRM "wikilink")対応で、[デジタル放送](https://ja.wikipedia.org/wiki/デジタル放送 "wikilink")を録画した[ディスクも再生可能となっている](../Page/ディスクメディア.md "wikilink")。2007年1月生産終了。
+    [2005年](../Page/2005年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")発売。UX-WD70の後継機種。1.5cmドーム型[スーパーツイーター](../Page/ツイーター.md "wikilink")、4cmコーン型[ツイーター](../Page/ツイーター.md "wikilink")と11cmコーン型[ウーファー](../Page/ウーファー.md "wikilink")から12.5cmに変更した3WAY[スピーカー](../Page/スピーカー.md "wikilink")採用。オプションで[ウーファー](../Page/ウーファー.md "wikilink")を付けられるようにサブウーファー、音場の高さを調節できるサウンドリフターを搭載。光るトレイ採用。
+    [デジタルオーディオプレーヤー](../Page/デジタルオーディオプレーヤー.md "wikilink")用接続端子を前面に配置し、[ダイレクトレコーディング](https://ja.wikipedia.org/wiki/ダイレクトレコーディング "wikilink")や再生が簡単に行うことが可能となった。[MP3](../Page/MP3.md "wikilink")、[WMA再生可能](../Page/Windows_Media_Audio.md "wikilink")。[左右差信号](https://ja.wikipedia.org/wiki/左右差信号 "wikilink")（[L-R間接音](https://ja.wikipedia.org/wiki/L-R間接音 "wikilink")）に[LFO](https://ja.wikipedia.org/wiki/LFO "wikilink")変調（[α波](https://ja.wikipedia.org/wiki/α波 "wikilink")[周波数](../Page/周波数.md "wikilink")で[ゆらぎ](../Page/ゆらぎ.md "wikilink")を与える）を施し、中音域の音楽信号を自然に補正して、聴くだけで[リラックス](https://ja.wikipedia.org/wiki/リラックス "wikilink")できる音を作る機能新しい音質調整機能αサウンドモード採用。
+    [DVDプレーヤー](../Page/DVDプレーヤー.md "wikilink")は[DVD](../Page/DVD.md "wikilink")-R/-RWの最近の規格である[VRモードに対応](../Page/DVD-VR.md "wikilink")。[CPRM](../Page/CPRM.md "wikilink")対応で、[デジタル放送](../Page/デジタル放送.md "wikilink")を録画した[ディスクも再生可能となっている](../Page/ディスクメディア.md "wikilink")。2007年1月生産終了。
 
 <!-- end list -->
 
@@ -142,7 +142,7 @@
   - [日本ビクター](../Page/日本ビクター.md "wikilink")
   - [JVCケンウッド](https://ja.wikipedia.org/wiki/JVCケンウッド "wikilink")
   - [ミニディスク](../Page/ミニディスク.md "wikilink")（MDLP、MDグループ機能の詳細はこの項目を参照。）
-  - [Clavia](https://ja.wikipedia.org/wiki/Clavia "wikilink")
+  - [Clavia](../Page/Clavia.md "wikilink")
   - [Memory COMPO](https://ja.wikipedia.org/wiki/Memory_COMPO "wikilink")
 
 ## 外部リンク

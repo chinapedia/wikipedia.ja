@@ -233,7 +233,7 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1998-99" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レッドスター・ベオグラード" title="wikilink">ツルヴェナ・ズヴェズダ</a></p></td>
+<td><p><a href="../Page/レッドスター・ベオグラード.md" title="wikilink">ツルヴェナ・ズヴェズダ</a></p></td>
 <td><p>1-2</p></td>
 <td><p>2-1</p></td>
 <td><p>'''3-3<br />

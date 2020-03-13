@@ -15,9 +15,9 @@ Xsanは、[クアンタムの](../Page/クアンタム_\(企業\).md "wikilink")
 
 ### Ver.1系列
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")1月 - Xsan 1.0:16[TBのストレージボリュームをサポート](../Page/テラバイト.md "wikilink")
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")6月 - Xsan 1.1：ストレージボリュームのサポートを最大2[PB](https://ja.wikipedia.org/wiki/ペタバイト "wikilink") (2048TB) に拡張
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")11月 - Xsan 1.2：[バグ](../Page/バグ.md "wikilink")修正、全体的な信頼性の改善
+  - [2005年](../Page/2005年.md "wikilink")1月 - Xsan 1.0:16[TBのストレージボリュームをサポート](../Page/テラバイト.md "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")6月 - Xsan 1.1：ストレージボリュームのサポートを最大2[PB](https://ja.wikipedia.org/wiki/ペタバイト "wikilink") (2048TB) に拡張
+  - [2005年](../Page/2005年.md "wikilink")11月 - Xsan 1.2：[バグ](../Page/バグ.md "wikilink")修正、全体的な信頼性の改善
   - [2006年](../Page/2006年.md "wikilink")4月 - Xsan 1.3：バグ修正、2TBを超えるLUNのサポート、全体的な信頼性の改善
   - [2006年](../Page/2006年.md "wikilink")8月 - Xsan 1.4：[Universal Binary化](https://ja.wikipedia.org/wiki/Universal_Binary "wikilink")、セキュリティアップデート、[ACLのサポート](../Page/アクセス制御リスト.md "wikilink")、[フェイルオーバー](https://ja.wikipedia.org/wiki/フェイルオーバー "wikilink")やクオータ等の機能改善
   - [2006年](../Page/2006年.md "wikilink")12月 - Xsan 1.4.1：バグ修正、フェイルオーバーや信頼性等の機能改善
@@ -25,7 +25,7 @@ Xsanは、[クアンタムの](../Page/クアンタム_\(企業\).md "wikilink")
 
 ### Ver.2系列
 
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")2月 - Xsan 2発表。[ユーザインタフェース](../Page/ユーザインタフェース.md "wikilink")の改良、[Spotlight](https://ja.wikipedia.org/wiki/Spotlight "wikilink")対応、MultiSAN対応、動作保証ストレージにPromise VTrak E-Class RAIDを公式認定\[4\]\[5\]。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")2月 - Xsan 2発表。[ユーザインタフェース](../Page/ユーザインタフェース.md "wikilink")の改良、[Spotlight](../Page/Spotlight.md "wikilink")対応、MultiSAN対応、動作保証ストレージにPromise VTrak E-Class RAIDを公式認定\[4\]\[5\]。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")6月 - Xsan 2.1：Xsan Adminのバグ修正、フェイルオーバーや互換性・信頼性等の機能改善\[6\]
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")10月 - Xsan 2.1.1：ファイルシステムの信頼性の向上、Xsan Adminの信頼性向上、ファイルシステムのパフォーマンスの向上等、機能改善\[7\]
   - [2009年](../Page/2009年.md "wikilink")9月 - Xsan 2.2：Mac OS XおよびMac OS X Server v10.5.8以降v10.6 Snow Leopard対応、[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")化、[拡張属性](https://ja.wikipedia.org/wiki/拡張ファイル属性 "wikilink")(extended attributes)対応\[8\]、信頼性の向上、セキュリティアップデート\[9\]など\[10\]。このバージョンからIntel Macのみの対応となった。

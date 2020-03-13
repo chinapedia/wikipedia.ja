@@ -13,9 +13,9 @@ RIPは、経由する可能性のある[ルータを](../Page/ルーター.md "w
 
 ネットワーク全体の[ネットワーク・トポロジー](../Page/ネットワーク・トポロジー.md "wikilink")を考慮する必要がないため、計算負荷が非常に低いメリットがある。 しかし、ネットワーク全体の経路が完全に収束するまでの時間が長いデメリットがある。 また、さらに重大なデメリットとして、リンクダウンが起きると、そのリンクと関係した経路のメトリックが無限大に発散するCount-to-Infinity問題が起きる可能性があり、実際に起きた場合には、無駄な経路情報が流れ続ける状態に陥ってしまう。 ([RFC2453(RIP Version 2)](https://tools.ietf.org/html/rfc2453)のPage14-Page15でも言及されている) 一旦、1箇所でもこの問題が起きれば、その周辺のルータの経路表の特定の送信先に関する経路のメトリックも無制限に増加して行く。
 
-1990年代半ばまでは計算機の能力に余裕がなく、[OSPF対応ルータは高価であり](https://ja.wikipedia.org/wiki/Open_Shortest_Path_First "wikilink")、上記の問題への対応よりも計算負荷の低さのメリットが優先されたためにRIPの運用が広く行われていた。
+1990年代半ばまでは計算機の能力に余裕がなく、[OSPF対応ルータは高価であり](../Page/Open_Shortest_Path_First.md "wikilink")、上記の問題への対応よりも計算負荷の低さのメリットが優先されたためにRIPの運用が広く行われていた。
 
-2000年以降の計算機の性能向上により、上記の問題を全て解決したリンクステート型の[OSPFで用いるダイクストラ法の計算負荷は大きな問題ではなくなった](https://ja.wikipedia.org/wiki/Open_Shortest_Path_First "wikilink")。 現在は[RIP](https://ja.wikipedia.org/wiki/RIP "wikilink")専用ルータから[OSPF対応ルータへと置き換えが進んだことで](https://ja.wikipedia.org/wiki/Open_Shortest_Path_First "wikilink")、[RIP](https://ja.wikipedia.org/wiki/RIP "wikilink")は利用可能な計算資源が非常に少ない場合を除いて全く使用されなくなった。
+2000年以降の計算機の性能向上により、上記の問題を全て解決したリンクステート型の[OSPFで用いるダイクストラ法の計算負荷は大きな問題ではなくなった](../Page/Open_Shortest_Path_First.md "wikilink")。 現在は[RIP](https://ja.wikipedia.org/wiki/RIP "wikilink")専用ルータから[OSPF対応ルータへと置き換えが進んだことで](../Page/Open_Shortest_Path_First.md "wikilink")、[RIP](https://ja.wikipedia.org/wiki/RIP "wikilink")は利用可能な計算資源が非常に少ない場合を除いて全く使用されなくなった。
 
 ### ホップ数と固定メトリック
 

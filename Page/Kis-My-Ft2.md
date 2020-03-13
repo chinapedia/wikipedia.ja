@@ -39,7 +39,7 @@
 </tr>
 <tr class="even">
 <td><p><strong>s</strong></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/千賀健永" title="wikilink">千賀健永</a></strong><br />
+<td><p><strong><a href="../Page/千賀健永.md" title="wikilink">千賀健永</a></strong><br />
 <small>（せんが けんと）</small></p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/愛知県" title="wikilink">愛知県</a></p></td>
@@ -177,7 +177,7 @@
   - 2019年
     4月24日、8作目のオリジナルアルバム『[FREE HUGS\!](https://ja.wikipedia.org/wiki/FREE_HUGS! "wikilink")』を発売、同アルバムを引っ提げて、5月6日から7月14日まで2年連続2度目の5大ドームツアー『Kis-My-Ft2 LIVE TOUR 2019 FREE HUGS\!』を開催。11月14日、『[第70回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第70回NHK紅白歌合戦 "wikilink")』への初出場が発表された\[78\]。11月30日、『ASIA FASHION AWARD 2019 in TAIPEI』に出演、海外初パフォーマンスとなる\[79\]。
   - 2020年
-    3月24日、9作目のオリジナルアルバム『**[To-y2](https://ja.wikipedia.org/wiki/To-y2 "wikilink")**』を発売。4月9日から6月7日まで5大ドームツアー『**Kis-My-Ft2 LIVE TOUR 2020**』を開催。
+    3月24日、9作目のオリジナルアルバム『**[To-y2](../Page/To-y2.md "wikilink")**』を発売。4月9日から6月7日まで5大ドームツアー『**Kis-My-Ft2 LIVE TOUR 2020**』を開催。
 
 ## 作品
 
@@ -1190,7 +1190,7 @@
 | 8                  | 2019年4月24日     | **[FREE HUGS\!](https://ja.wikipedia.org/wiki/FREE_HUGS! "wikilink")**                | 初回盤A                  | CD+DVD   | AVCD-96288/B   |
 | 初回盤B               | AVCD-96289/B   |                                                                                       |                       |          |                |
 | 通常盤                | 2CD            | AVCD-96290〜1                                                                          |                       |          |                |
-| 9                  | 2020年3月25日     | **[To-y2](https://ja.wikipedia.org/wiki/To-y2 "wikilink")**                           | 初回盤A                  | CD+DVD   | AVCD-96465/B   |
+| 9                  | 2020年3月25日     | **[To-y2](../Page/To-y2.md "wikilink")**                                              | 初回盤A                  | CD+DVD   | AVCD-96465/B   |
 | 初回盤B               | AVCD-96466/B   |                                                                                       |                       |          |                |
 | 通常盤                | 2CD            | AVCD-96467〜8                                                                          |                       |          |                |
 

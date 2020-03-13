@@ -11,7 +11,7 @@
 
 [板野一郎](../Page/板野一郎.md "wikilink")演出によるフルボイスのムービーが随所に挿入され、メガテンシリーズ未体験のユーザーにも楽しめるような作りとなっている反面、戦闘の難易度は総じて高く、終盤のボス戦や隠しボス戦は周到な準備と緻密な戦略が要求される。
 
-[インド神話](https://ja.wikipedia.org/wiki/インド神話 "wikilink")と[仏教](../Page/仏教.md "wikilink")の思想が物語の土台となっていて、プレイヤー達の変身後の悪魔の名前や作中に登場する用語（[アートマ](../Page/アートマン.md "wikilink")、[ニルヴァーナ](../Page/涅槃.md "wikilink")、[ローカパーラ](../Page/ローカパーラ.md "wikilink")）などにも色濃く現れている。
+[インド神話](../Page/インド神話.md "wikilink")と[仏教](../Page/仏教.md "wikilink")の思想が物語の土台となっていて、プレイヤー達の変身後の悪魔の名前や作中に登場する用語（[アートマ](../Page/アートマン.md "wikilink")、[ニルヴァーナ](../Page/涅槃.md "wikilink")、[ローカパーラ](../Page/ローカパーラ.md "wikilink")）などにも色濃く現れている。
 
 略称は「**DDSAT**」。日本国外版でのタイトルは「**Shin Megami Tensei: Digital Devil Saga**」。
 
@@ -64,7 +64,7 @@
     エンブリオンのメンバーであり、[スナイパー](https://ja.wikipedia.org/wiki/スナイパー "wikilink")。冷徹な性格だが、戦うことに疑問を感じるようになる。姉御肌で気が強いが心優しい一面もあり、誰よりも喰らうことを嫌う。左胸に「サイズミックウェーブ（[地震波](../Page/地震波.md "wikilink")）」のアートマ印を宿す。悪魔「[プリティヴィー](../Page/プリティヴィー.md "wikilink")」に変身する。
   - ヒート（Heat）
     声 - [緑川光](../Page/緑川光.md "wikilink")
-    エンブリオンのメンバーであり、[アタッカー](https://ja.wikipedia.org/wiki/アタッカー "wikilink")。いわゆる直情型。サーフを[ライバル](../Page/ライバル.md "wikilink")視している。常に何かに苛立っていたり、セラに対して不思議な感情を持っていたりと、自分でも抑えきれない感覚に不安や苛立を覚えている。右腕に「ファイアーボール（[火球](https://ja.wikipedia.org/wiki/火球 "wikilink")）」のアートマ印を宿す。悪魔「[アグニ](../Page/アグニ.md "wikilink")」に変身する。
+    エンブリオンのメンバーであり、[アタッカー](https://ja.wikipedia.org/wiki/アタッカー "wikilink")。いわゆる直情型。サーフを[ライバル](../Page/ライバル.md "wikilink")視している。常に何かに苛立っていたり、セラに対して不思議な感情を持っていたりと、自分でも抑えきれない感覚に不安や苛立を覚えている。右腕に「ファイアーボール（[火球](../Page/火球.md "wikilink")）」のアートマ印を宿す。悪魔「[アグニ](../Page/アグニ.md "wikilink")」に変身する。
   - ゲイル（Gale）
     声 - [堀秀行](../Page/堀秀行.md "wikilink")
     エンブリオンのメンバーであり、頭の切れる参謀。口癖は“理解不能”。なぜかセラの口ずさむ歌を知っている。左足の脛に「ツイスター（[竜巻](../Page/竜巻.md "wikilink")）」のアートマ印を宿す。悪魔「[ヴァーユ](../Page/ヴァーユ.md "wikilink")」に変身する。
@@ -352,7 +352,7 @@ S\!アプリ版とEZアプリ版はタイトルに『完全版』とついてい
       - OP「Pray」 歌 - [桑島法子](../Page/桑島法子.md "wikilink")
   - 『DIGITAL DEVIL SAGA アバタール・チューナー2』
       - OP「ALIVE」 歌 - [桃田佳世子](https://ja.wikipedia.org/wiki/桃田佳世子 "wikilink")
-      - ED「タイムカプセル」 歌 - [as](https://ja.wikipedia.org/wiki/As_\(歌手\) "wikilink")
+      - ED「タイムカプセル」 歌 - [as](../Page/As_\(歌手\).md "wikilink")
 
 ## ラジオドラマ版
 

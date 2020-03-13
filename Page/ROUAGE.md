@@ -7,9 +7,9 @@
 
 ## メンバー
 
-  - KAZUSHI（カズシ/一至）：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")出身。[1973年](../Page/1973年.md "wikilink")[6月12日](../Page/6月12日.md "wikilink")生まれ。A型。現在は[STRAY PIG VANGUARDとして活動中](https://ja.wikipedia.org/wiki/STRAY_PIG_VANGUARD "wikilink")
-  - RAYZI（レイジ/麗蒔）：[ギター](../Page/ギター.md "wikilink")担当。愛知県出身。1973年[6月18日](../Page/6月18日.md "wikilink")生まれ。AB型。[STRAY PIG VANGUARDを脱退してソロ活動するも現在は活動停止中](https://ja.wikipedia.org/wiki/STRAY_PIG_VANGUARD "wikilink")。
-  - SHONO（ショウノ/祥之）：[ドラム担当](../Page/ドラムセット.md "wikilink")。愛知県出身。[1974年](../Page/1974年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")生まれ。O型。[STRAY PIG VANGUARDを脱退して引退](https://ja.wikipedia.org/wiki/STRAY_PIG_VANGUARD "wikilink")、家業を継ぐ
+  - KAZUSHI（カズシ/一至）：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")出身。[1973年](../Page/1973年.md "wikilink")[6月12日](../Page/6月12日.md "wikilink")生まれ。A型。現在は[STRAY PIG VANGUARDとして活動中](../Page/STRAY_PIG_VANGUARD.md "wikilink")
+  - RAYZI（レイジ/麗蒔）：[ギター](../Page/ギター.md "wikilink")担当。愛知県出身。1973年[6月18日](../Page/6月18日.md "wikilink")生まれ。AB型。[STRAY PIG VANGUARDを脱退してソロ活動するも現在は活動停止中](../Page/STRAY_PIG_VANGUARD.md "wikilink")。
+  - SHONO（ショウノ/祥之）：[ドラム担当](../Page/ドラムセット.md "wikilink")。愛知県出身。[1974年](../Page/1974年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")生まれ。O型。[STRAY PIG VANGUARDを脱退して引退](../Page/STRAY_PIG_VANGUARD.md "wikilink")、家業を継ぐ
 
 ### 旧メンバー
 
@@ -26,7 +26,7 @@
   - 1993年12月に結成。愛知県でRIKAを中心に、KAZUSHI、RAYZI、SHONOの4人で結成され、[1994年](../Page/1994年.md "wikilink")1月にはKAIKIが加入。
   - [1996年](../Page/1996年.md "wikilink")KAIKIが脱退し、4月、シングル『Queen』でメジャーデビュー。同年発売のセカンドシングル『insomnia』では「[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")」に出演を果たす。計15枚のシングルと6枚のオリジナルアルバムをリリース。
   - 2000年、東京ベイNKホール公演にて中心人物のRIKAが脱退。
-  - [2001年](../Page/2001年.md "wikilink")3月に活動停止。活動停止と同時にKAZUSHI、RAYZI、SHONOの3人で**STRAY PIG**（ストレイピッグ）を結成し活動すると発表されたが、3月23日のファンクラブ限定ライブにおいて、既に2月末でSHONOが脱退し引退した事が判明。その後、KAZUSHIとRAYZIにより**[STRAY PIG VANGUARD](https://ja.wikipedia.org/wiki/STRAY_PIG_VANGUARD "wikilink")**（ストレイピッグバンガード）が結成されたが、2004年2月にRAYZIが脱退し、活動休止。同年12月27日のライブをきっかけに活動再開した。なお、RAYZIはソロ活動を開始し、和也（ex.[FANATIC◇CRISIS](../Page/FANATIC◇CRISIS.md "wikilink")）などと仕事をするが2007年をもってアーティストとしての活動を停止。
+  - [2001年](../Page/2001年.md "wikilink")3月に活動停止。活動停止と同時にKAZUSHI、RAYZI、SHONOの3人で**STRAY PIG**（ストレイピッグ）を結成し活動すると発表されたが、3月23日のファンクラブ限定ライブにおいて、既に2月末でSHONOが脱退し引退した事が判明。その後、KAZUSHIとRAYZIにより**[STRAY PIG VANGUARD](../Page/STRAY_PIG_VANGUARD.md "wikilink")**（ストレイピッグバンガード）が結成されたが、2004年2月にRAYZIが脱退し、活動休止。同年12月27日のライブをきっかけに活動再開した。なお、RAYZIはソロ活動を開始し、和也（ex.[FANATIC◇CRISIS](../Page/FANATIC◇CRISIS.md "wikilink")）などと仕事をするが2007年をもってアーティストとしての活動を停止。
 
 ## ディスコグラフィ
 

@@ -12,7 +12,7 @@ Jungle Smileというグループ名には、"殺伐とした[ジャングル](h
   - [1996年](../Page/1996年.md "wikilink")11月、シングル「風をおこそう」でデビュー。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")3月、リリースした2ndシングル「片思い」でこの年の[全日本有線放送大賞](../Page/全日本有線放送大賞.md "wikilink")新人賞を受賞。
   - [1999年](../Page/1999年.md "wikilink")6月、ボーカルの高木郁乃が[声帯結節](https://ja.wikipedia.org/wiki/声帯結節 "wikilink")のため活動休止。
-  - [1999年](../Page/1999年.md "wikilink")11月、[レベッカのトリビュートアルバムに参加し活動再開](https://ja.wikipedia.org/wiki/レベッカ_\(バンド\) "wikilink")。
+  - [1999年](../Page/1999年.md "wikilink")11月、[レベッカのトリビュートアルバムに参加し活動再開](../Page/レベッカ_\(バンド\).md "wikilink")。
   - [2002年](../Page/2002年.md "wikilink")12月18日、DVD「ジャンスマシネマ」発売と同時に活動休止。
   - [2011年](../Page/2011年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")、デビュー15周年を記念し、当日はかつてのラジオレギュラー番組「のほほん喫茶」を渋谷J-POP CAFÉで一夜限りの復活。「Jungle Smile 15周年特別企画『帰ってきた〜のほほん喫茶〜』」と題し実施。当初は当時のリスナーを集めたパーティー形式で行う予定だったが、イベントのチケットが即日完売するなど反響が非常に大きかったことから、急遽当日の模様が[Ustream](https://ja.wikipedia.org/wiki/Ustream "wikilink")で生中継されることも決定。
   - [2013年](../Page/2013年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink") - [12月26日](../Page/12月26日.md "wikilink")にかけて、[K-mixで放送されたラジオドラマ](../Page/静岡エフエム放送.md "wikilink")『[新静岡セノバ](https://ja.wikipedia.org/wiki/新静岡セノバ "wikilink") presents セノバスマイルストーリー』のテーマソングとして、12年振りの新曲「流星スペクタクル」「理由は要らない」がオンエアされる。また、同曲が[公式サイト](http://www.jungle-smile.com)にて視聴可能となる。
@@ -23,7 +23,7 @@ Jungle Smileというグループ名には、"殺伐とした[ジャングル](h
   - 高木 郁乃（たかぎ いくの、[1975年](../Page/1975年.md "wikilink")[6月29日](../Page/6月29日.md "wikilink") - ）
     [作詞](../Page/作詞.md "wikilink")、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横須賀市](../Page/横須賀市.md "wikilink")生まれ、[新潟県](../Page/新潟県.md "wikilink")[妙高高原町](../Page/妙高高原町.md "wikilink")（現在は[妙高市](https://ja.wikipedia.org/wiki/妙高市 "wikilink")）育ち。
     Jungle Smile活動中の2002年には、単独で映画「[Tokyo.sora](https://ja.wikipedia.org/wiki/Tokyo.sora "wikilink")」へ出演したことがある。
-    Jungle Smile活動休止後の[2004年](../Page/2004年.md "wikilink")、[CMソングの製作にボーカルとして参加する](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。
+    Jungle Smile活動休止後の[2004年](../Page/2004年.md "wikilink")、[CMソングの製作にボーカルとして参加する](../Page/コマーシャルソング.md "wikilink")。
     [2006年](../Page/2006年.md "wikilink")に[チャリティー](../Page/チャリティー.md "wikilink")[コンサート](https://ja.wikipedia.org/wiki/コンサート "wikilink")に[ゲスト](https://ja.wikipedia.org/wiki/ゲスト "wikilink")参加し「抱きしめたい」1曲だけを歌う。[翌年にも同じくチャリティーコンサートに請われ再び参加](../Page/2007年.md "wikilink")、「抱きしめたい」と「風をおこそう」を歌唱する。
     [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")の同コンサートでは**高木いくの**として正式にクレジットされ、「恐竜のヘリコプター」「希望」「おなじ星」「抱きしめたい」、この日のために作った「生きる」を歌った。また、ソロ活動を準備中であることと、本人による[ホームページ](http://www.ikunov.net/)が開設されることが表明された。
     [2011年](../Page/2011年.md "wikilink")[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink") より、FM-NIIGATA Nature City 妙高で、パーソナリティーを勤めている。
@@ -52,7 +52,7 @@ Jungle Smileというグループ名には、"殺伐とした[ジャングル](h
     3.  小さな革命（お稽古用）\[5:26\]
 5.  [おなじ星](../Page/おなじ星.md "wikilink")（1998年6月24日）オリコン27位、登場回数17回
     1.  [おなじ星](../Page/おなじ星.md "wikilink")
-          - フジテレビ系アニメ 「[DTエイトロン](https://ja.wikipedia.org/wiki/DTエイトロン "wikilink")」 エンディングテーマ
+          - フジテレビ系アニメ 「[DTエイトロン](../Page/DTエイトロン.md "wikilink")」 エンディングテーマ
           - [名古屋NSCカレッジ](../Page/名古屋NSCカレッジ.md "wikilink") CMソング
     2.  同級生
 6.  白い恋人（1998年11月26日）オリコン39位

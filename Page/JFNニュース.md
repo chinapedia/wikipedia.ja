@@ -1,7 +1,7 @@
 > この記事は[JFN](https://ja.wikipedia.org/wiki/JFN)から翻訳されています。
 
 
-『**JFNニュース**』（ジェイエフエヌニュース）は、[ジャパンエフエムネットワーク](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")（JFNC）が[全国FM放送協議会](../Page/全国FM放送協議会.md "wikilink")（JFN）加盟局に向けて制作・配信している[スポットニュース](https://ja.wikipedia.org/wiki/スポットニュース "wikilink")番組である。
+『**JFNニュース**』（ジェイエフエヌニュース）は、[ジャパンエフエムネットワーク](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")（JFNC）が[全国FM放送協議会](../Page/全国FM放送協議会.md "wikilink")（JFN）加盟局に向けて制作・配信している[スポットニュース](../Page/スポットニュース.md "wikilink")番組である。
 
 ## 概要
 
@@ -523,7 +523,7 @@ AIR-G'ヘッドラインニュース</a>[13]</p></td>
 
   - [全国FM放送協議会](../Page/全国FM放送協議会.md "wikilink")
   - [ジャパンエフエムネットワーク](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")（『JFNニュース』制作会社）
-  - [スポットニュース](https://ja.wikipedia.org/wiki/スポットニュース "wikilink")
+  - [スポットニュース](../Page/スポットニュース.md "wikilink")
   - [ラジオ局ローカルニュースタイトル一覧](../Page/ラジオ局ローカルニュースタイトル一覧.md "wikilink")
   - [ジャパンエフエムネットワーク平日朝ワイド枠](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク平日朝ワイド枠 "wikilink") - 2019年からは『[ONE MORNING](https://ja.wikipedia.org/wiki/ONE_MORNING "wikilink")』を放送中。このうち7:00 - 7:10にあるニュース番組が唯一JFN38局へ向けて放送されるネットワークニュースゾーンとなっている。
 

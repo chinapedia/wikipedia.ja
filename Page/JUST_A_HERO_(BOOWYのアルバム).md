@@ -144,7 +144,7 @@
       - 作詞：PAUL JANSEN / 作曲：氷室京介 / 編曲：布袋寅泰
     <!-- end list -->
       -
-        英語詞の曲で、カセットテープ盤と、当時普及し始めであった[CDに収録され](../Page/コンパクトディスク.md "wikilink")、[アナログ](../Page/アナログ.md "wikilink")レコード盤には収録されていない。「[OH\!MY JULLY Part1](../Page/INSTANT_LOVE.md "wikilink")」、「[DOWN TOWN SHUFFLE](https://ja.wikipedia.org/wiki/BEAT_EMOTION "wikilink")」と並び、アレンジに[デフスクールの影響が強く見受けられる曲である](https://ja.wikipedia.org/wiki/w:Deaf_School "wikilink")。
+        英語詞の曲で、カセットテープ盤と、当時普及し始めであった[CDに収録され](../Page/コンパクトディスク.md "wikilink")、[アナログ](../Page/アナログ.md "wikilink")レコード盤には収録されていない。「[OH\!MY JULLY Part1](../Page/INSTANT_LOVE.md "wikilink")」、「[DOWN TOWN SHUFFLE](../Page/BEAT_EMOTION.md "wikilink")」と並び、アレンジに[デフスクールの影響が強く見受けられる曲である](https://ja.wikipedia.org/wiki/w:Deaf_School "wikilink")。
 5.  **JUSTY** (3:57)
 6.  **JUST A HERO** (5:28)
 

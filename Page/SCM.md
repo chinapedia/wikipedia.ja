@@ -5,7 +5,7 @@
 
 1.  [クロームモリブデン鋼](https://ja.wikipedia.org/wiki/クロームモリブデン鋼 "wikilink")（[鉄鋼](https://ja.wikipedia.org/wiki/鉄鋼 "wikilink")材料の1つ）の記号であり、その略称。[ニッケル](../Page/ニッケル.md "wikilink")、[クロム](../Page/クロム.md "wikilink")、[モリブデン](../Page/モリブデン.md "wikilink")などを添加した[合金鋼](../Page/合金鋼.md "wikilink")。
 2.  [Scheme](../Page/Scheme.md "wikilink") [インタプリタ](../Page/インタプリタ.md "wikilink")の一つ。作者はオーブリー・ジェファー（Aubrey Jaffer）など。
-3.  [サプライチェーン・マネジメント](https://ja.wikipedia.org/wiki/サプライチェーン・マネジメント "wikilink")（）の略語。商品の生産・物流・販売までの業務を管理する手法。
+3.  [サプライチェーン・マネジメント](../Page/サプライチェーン・マネジメント.md "wikilink")（）の略語。商品の生産・物流・販売までの業務を管理する手法。
 4.  [副搬送波多重通信](https://ja.wikipedia.org/wiki/副搬送波多重通信 "wikilink")（）の略。[光通信](../Page/光通信.md "wikilink")方式の一つ。複数の[搬送波](https://ja.wikipedia.org/wiki/搬送波 "wikilink")を光強度変調する方式。
 5.  ソースコードマネージメント（）の略。⇒[バージョン管理システム](../Page/バージョン管理システム.md "wikilink")
 6.  シッピング・カートン・マーキング（）の略。物流において梱包に表示を行って出荷すること。またそのラベルのこと。[バーコード](../Page/バーコード.md "wikilink")CODE-128が使われる。

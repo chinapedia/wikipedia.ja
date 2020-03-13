@@ -56,9 +56,9 @@
 
 『[Aries](../Page/Aries.md "wikilink")』『[Infantaria](../Page/Infantaria.md "wikilink")』『[水夏](../Page/水夏.md "wikilink")』に続くCIRCUSブランドの4作目\[2\]。当時CIRCUS代表だった[tororo](https://ja.wikipedia.org/wiki/tororo "wikilink")によれば、「ダークな作品・生命感をテーマにした作品の次に、泣ける学園ものを出すと売れる」という当時の“売れるための方程式”に乗り、『水夏』の次に学園ものを出すことを早くから決めていた\[3\]。作品企画は「学園もの」を起点にスタッフ全員で話し合い、その中から「枯れない桜」などの設定が生まれた\[4\]。前作『水夏』の販売が好調でサーカス自体が注目されていたため、本作品の開発中からtororoには売れる自信があり、アニメ化の話も作品発売前から進めていた\[5\]。
 
-当初メインの[キャラクターデザイン](../Page/キャラクターデザイン.md "wikilink")と[原画](../Page/原画.md "wikilink")は[七尾奈留](https://ja.wikipedia.org/wiki/七尾奈留 "wikilink")だったが、第1作発売後にCIRCUSを去ったため、『White Season』以降の新規原画は[たにはらなつき](../Page/たにはらなつき.md "wikilink")らが担当している。また、ディレクター兼シナリオの[御影](../Page/御影_\(シナリオライター\).md "wikilink")（みかげ）、ディレクター、CG担当の恋純ほたる、シナリオの呉一郎（呉）も同時期にCIRCUSを退社している。スタッフ、デザインなどの変更があったものの、その後も作品はシリーズ化され、2003年には[アニメ化された](https://ja.wikipedia.org/wiki/D.C._〜ダ・カーポ〜_\(アニメ\) "wikilink")。
+当初メインの[キャラクターデザイン](../Page/キャラクターデザイン.md "wikilink")と[原画](../Page/原画.md "wikilink")は[七尾奈留](../Page/七尾奈留.md "wikilink")だったが、第1作発売後にCIRCUSを去ったため、『White Season』以降の新規原画は[たにはらなつき](../Page/たにはらなつき.md "wikilink")らが担当している。また、ディレクター兼シナリオの[御影](../Page/御影_\(シナリオライター\).md "wikilink")（みかげ）、ディレクター、CG担当の恋純ほたる、シナリオの呉一郎（呉）も同時期にCIRCUSを退社している。スタッフ、デザインなどの変更があったものの、その後も作品はシリーズ化され、2003年には[アニメ化された](https://ja.wikipedia.org/wiki/D.C._〜ダ・カーポ〜_\(アニメ\) "wikilink")。
 
-[2006年](../Page/2006年.md "wikilink")には続編である『[D.C.II 〜ダ・カーポII〜](../Page/D.C.II_〜ダ・カーポII〜.md "wikilink")』が、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")にはシリーズ初の[乙女ゲーム](https://ja.wikipedia.org/wiki/乙女ゲーム "wikilink")『[D.C. Girl's Symphony 〜ダ・カーポ〜 ガールズシンフォニー](https://ja.wikipedia.org/wiki/D.C._Girl's_Symphony_〜ダ・カーポ〜_ガールズシンフォニー "wikilink")』が相次いで発売された。
+[2006年](../Page/2006年.md "wikilink")には続編である『[D.C.II 〜ダ・カーポII〜](../Page/D.C.II_〜ダ・カーポII〜.md "wikilink")』が、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")にはシリーズ初の[乙女ゲーム](../Page/乙女ゲーム.md "wikilink")『[D.C. Girl's Symphony 〜ダ・カーポ〜 ガールズシンフォニー](https://ja.wikipedia.org/wiki/D.C._Girl's_Symphony_〜ダ・カーポ〜_ガールズシンフォニー "wikilink")』が相次いで発売された。
 
 コンシューマー移植は2003年に『[D.C.P.S. 〜ダ・カーポ〜 プラスシチュエーション](../Page/D.C.P.S._〜ダ・カーポ〜_プラスシチュエーション.md "wikilink")』のタイトルで既に行われているが、2008年2月にはその追加要素を排除し、オリジナルにほぼ忠実な形での移植となる『D.C. the Origin 〜ダ・カーポ〜 ジ オリジン』が発売された。2010年[11月25日](../Page/11月25日.md "wikilink")にはゲームとアニメによるスピンオフ作品『T.P.さくら\[6\]』も発売された。
 
@@ -97,7 +97,7 @@
 
   - 7月2日、テレビアニメ『D.C.S.S. 〜ダ・カーポ セカンドシーズン〜』放送開始。
   - 7月14日、『D.C.P.S. 〜ダ・カーポ〜 プラスシチュエーション KADOKAWA THE Best』（PS2廉価版）発売。
-  - 7月15日、『[初音島放送局S.S.](https://ja.wikipedia.org/wiki/初音島放送局S.S. "wikilink")』放送開始。
+  - 7月15日、『[初音島放送局S.S.](../Page/初音島放送局S.S..md "wikilink")』放送開始。
   - 12月15日、『[D.C. Four Seasons 〜ダ・カーポ〜 フォーシーズンズ](../Page/D.C._Four_Seasons_〜ダ・カーポ〜_フォーシーズンズ.md "wikilink")』 (PS2) 発売。
   - 12月16日、『D.C.P.C. 〜ダ・カーポ〜 プラスコミュニケーション 感謝ぱっく』 (PC) 発売。
 
@@ -182,14 +182,14 @@
 ## 登場人物
 
   - 朝倉 純一（あさくら じゅんいち）
-    声：[杉崎和哉](../Page/杉崎和哉.md "wikilink")（ビジュアルファンブックドラマCD） / [福山潤](https://ja.wikipedia.org/wiki/福山潤 "wikilink")（[ドラマアルバム「春色の島」](https://ja.wikipedia.org/wiki/D.C._〜ダ・カーポ〜#ドラマCD "wikilink")） / [泰勇気](../Page/泰勇気.md "wikilink")（[テレビアニメ版](https://ja.wikipedia.org/wiki/D.C._〜ダ・カーポ〜_\(アニメ\) "wikilink")） / [高木礼子](../Page/高木礼子.md "wikilink")（テレビアニメ版・幼少期） / [能登麻美子](https://ja.wikipedia.org/wiki/能登麻美子 "wikilink")（『D.C.P.S.』幼少期） / [城樹翔](https://ja.wikipedia.org/wiki/城樹翔 "wikilink")（DVD-PG版） / [加瀬愛奈](https://ja.wikipedia.org/wiki/加瀬愛奈 "wikilink")（[T.P.さくら](https://ja.wikipedia.org/wiki/T.P.さくら_〜タイムパラディンさくら〜 "wikilink")）
+    声：[杉崎和哉](../Page/杉崎和哉.md "wikilink")（ビジュアルファンブックドラマCD） / [福山潤](../Page/福山潤.md "wikilink")（[ドラマアルバム「春色の島」](https://ja.wikipedia.org/wiki/D.C._〜ダ・カーポ〜#ドラマCD "wikilink")） / [泰勇気](../Page/泰勇気.md "wikilink")（[テレビアニメ版](https://ja.wikipedia.org/wiki/D.C._〜ダ・カーポ〜_\(アニメ\) "wikilink")） / [高木礼子](../Page/高木礼子.md "wikilink")（テレビアニメ版・幼少期） / [能登麻美子](https://ja.wikipedia.org/wiki/能登麻美子 "wikilink")（『D.C.P.S.』幼少期） / [城樹翔](https://ja.wikipedia.org/wiki/城樹翔 "wikilink")（DVD-PG版） / [加瀬愛奈](https://ja.wikipedia.org/wiki/加瀬愛奈 "wikilink")（[T.P.さくら](https://ja.wikipedia.org/wiki/T.P.さくら_〜タイムパラディンさくら〜 "wikilink")）
     「かったるい」が口癖の主人公。
   - 朝倉 音夢（あさくら ねむ）
-    声：[鳥居花音](../Page/鳥居花音.md "wikilink")（『[D.C. Summer Vacation](../Page/D.C._Summer_Vacation_〜ダ・カーポ_サマーバケーション〜.md "wikilink")』（以降『D.C.S.V.』）まで）→[安玖深音](https://ja.wikipedia.org/wiki/安玖深音 "wikilink")（『[CircusLand I](https://ja.wikipedia.org/wiki/CircusLand_I_〜ドキ!_ヒロインいっぱい初音島★コスプレミスコン祭り♪よりどりみどりで♪好きな子選んで着せ替え育成デートだょ_兄さん♪〜 "wikilink")』から） / [野川さくら](../Page/野川さくら.md "wikilink") / [春夏ひとみ](https://ja.wikipedia.org/wiki/春夏ひとみ "wikilink")（T.P.さくら）、原画：[七尾奈留](https://ja.wikipedia.org/wiki/七尾奈留 "wikilink")
+    声：[鳥居花音](../Page/鳥居花音.md "wikilink")（『[D.C. Summer Vacation](../Page/D.C._Summer_Vacation_〜ダ・カーポ_サマーバケーション〜.md "wikilink")』（以降『D.C.S.V.』）まで）→[安玖深音](../Page/安玖深音.md "wikilink")（『[CircusLand I](https://ja.wikipedia.org/wiki/CircusLand_I_〜ドキ!_ヒロインいっぱい初音島★コスプレミスコン祭り♪よりどりみどりで♪好きな子選んで着せ替え育成デートだょ_兄さん♪〜 "wikilink")』から） / [野川さくら](../Page/野川さくら.md "wikilink") / [春夏ひとみ](https://ja.wikipedia.org/wiki/春夏ひとみ "wikilink")（T.P.さくら）、原画：[七尾奈留](../Page/七尾奈留.md "wikilink")
     純一の義理の妹。
   - 芳乃 さくら（よしの さくら）
     声：[北都南](../Page/北都南.md "wikilink") / [田村ゆかり](https://ja.wikipedia.org/wiki/田村ゆかり "wikilink") / [三森すずこ](https://ja.wikipedia.org/wiki/三森すずこ "wikilink")（T.P.さくら）、原画：七尾奈留
-    D.C.全般のメインヒロイン。純一の[幼馴染](https://ja.wikipedia.org/wiki/幼馴染 "wikilink")で[従姉](https://ja.wikipedia.org/wiki/いとこ "wikilink")。
+    D.C.全般のメインヒロイン。純一の[幼馴染](../Page/幼馴染.md "wikilink")で[従姉](../Page/いとこ.md "wikilink")。
   - 白河 ことり（しらかわ ことり）
     声：[日向裕羅](../Page/日向裕羅.md "wikilink") / [堀江由衣](https://ja.wikipedia.org/wiki/堀江由衣 "wikilink") / [新田恵海](https://ja.wikipedia.org/wiki/新田恵海 "wikilink")（T.P.さくら）、原画：七尾奈留
     純一の同級生。学園のアイドル的存在。
@@ -211,7 +211,7 @@
   - プロデューサー：tororo
   - ディレクター：[御影](../Page/御影_\(シナリオライター\).md "wikilink")、恋純ほたる
   - キャラクターデザイン・原画：
-      - [七尾奈留](https://ja.wikipedia.org/wiki/七尾奈留 "wikilink")（音夢・さくら・ことり）
+      - [七尾奈留](../Page/七尾奈留.md "wikilink")（音夢・さくら・ことり）
       - igul（美春・萌・眞子、他）
       - いくたたかのん（チビキャラ、他）
   - シナリオ：
@@ -369,7 +369,7 @@
 
 ## ラジオ
 
-2003年[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から2005年[6月](../Page/6月.md "wikilink")まで、[ラジオ大阪](../Page/大阪放送.md "wikilink")・[TBSラジオで](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")『[D.C. 〜ダ・カーポ〜 初音島放送局](../Page/D.C._〜ダ・カーポ〜_初音島放送局.md "wikilink")』が放送され、これを引き継ぐ形で、2005年[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")から2006年[6月](../Page/6月.md "wikilink")まで[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")・『[初音島放送局S.S.](https://ja.wikipedia.org/wiki/初音島放送局S.S. "wikilink")』が配信された。
+2003年[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から2005年[6月](../Page/6月.md "wikilink")まで、[ラジオ大阪](../Page/大阪放送.md "wikilink")・[TBSラジオで](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")『[D.C. 〜ダ・カーポ〜 初音島放送局](../Page/D.C._〜ダ・カーポ〜_初音島放送局.md "wikilink")』が放送され、これを引き継ぐ形で、2005年[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")から2006年[6月](../Page/6月.md "wikilink")まで[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")・『[初音島放送局S.S.](../Page/初音島放送局S.S..md "wikilink")』が配信された。
 
 ## モバイル
 
@@ -771,7 +771,7 @@ ISBN 978-4-04-713777-6（通常版）</p></td>
 ### ドラマCD
 
   - 『D.C. 〜ダ・カーポ〜 ドラマアルバム 春色の島』
-    PCゲーム版キャスト、純一役は[福山潤](https://ja.wikipedia.org/wiki/福山潤 "wikilink")
+    PCゲーム版キャスト、純一役は[福山潤](../Page/福山潤.md "wikilink")
   - 『D.C. ちょっと○○○なドラマCD「音夢はじめ」』
     声：[鳥居花音](../Page/鳥居花音.md "wikilink")他
   - 『Wind -a breath of heart-・D.C. 〜ダ・カーポ〜 まったり温泉CDドラマ』

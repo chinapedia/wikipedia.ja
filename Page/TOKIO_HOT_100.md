@@ -32,7 +32,7 @@ J-WAVEでのオンエアチャート・[インターネット](../Page/インタ
   - [2002年](../Page/2002年.md "wikilink")[1月20日](../Page/1月20日.md "wikilink") [LOVE PSYCHEDELICOの](https://ja.wikipedia.org/wiki/LOVE_PSYCHEDELICO "wikilink")『STANDING BIRD』が1位を獲得。HOT POPPERで1位となった曲（後述）としては番組史上最高となる96位から95ランクアップ。
   - [2002年](../Page/2002年.md "wikilink")4月 番組リニューアル。チャート発表が過去の100位→1位カウントダウンスタイルから、100位→41位の下位パート、40位→1位の上位パートに分け、シャッフルして発表する形式に変更。また、楽曲チャート以外に書籍や雑貨などの売上げランキングを紹介するようにもなる。同時に女性ナビゲーターが加わりツインナビゲート制となる。
   - [2004年](../Page/2004年.md "wikilink")10月 クリス単独での進行に変更。同時にランキングも100位から順に紹介するようになった。
-  - [2006年](../Page/2006年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink") [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")年間チャートにて、[Def Techの](https://ja.wikipedia.org/wiki/Def_Tech "wikilink")『MY WAY』が、邦楽(J-POP)としては初のNo.1ソングになる。
+  - [2006年](../Page/2006年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink") [2005年](../Page/2005年.md "wikilink")年間チャートにて、[Def Techの](https://ja.wikipedia.org/wiki/Def_Tech "wikilink")『MY WAY』が、邦楽(J-POP)としては初のNo.1ソングになる。
   - [2006年](../Page/2006年.md "wikilink")[1月22日](../Page/1月22日.md "wikilink") [マドンナの](https://ja.wikipedia.org/wiki/マドンナ_\(歌手\) "wikilink")『[HUNG UP](../Page/コンフェッションズ・オン・ア・ダンスフロア.md "wikilink")』が11週連続1位となり、前述のホイットニーが持っている連続1位の歴代タイ記録に並ぶ。
   - [2007年](../Page/2007年.md "wikilink")[12月2日](../Page/12月2日.md "wikilink") 放送1000回を迎える。1000回目のNO.1はALICIA KEYSの『NO ONE』。
   - [2009年](../Page/2009年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink") 冠スポンサーが[サッポロビール](../Page/サッポロビール.md "wikilink")から[日本マクドナルド](../Page/日本マクドナルド.md "wikilink")になるのに伴い、番組タイトルが「**[McDonald's](https://ja.wikipedia.org/wiki/McDonald's "wikilink") TOKIO HOT 100**」となった（同時期に[ZIP-FM](../Page/ZIP-FM.md "wikilink")の『[ZIP HOT 100](../Page/ZIP_HOT_100.md "wikilink")』でも冠スポンサーになっている）。あわせて番組企画やロゴのリニューアルを行った。
@@ -93,7 +93,7 @@ J-WAVEでのオンエアチャート・[インターネット](../Page/インタ
 
 ### 降板したナビゲーター
 
-  - [板倉香](https://ja.wikipedia.org/wiki/板倉香 "wikilink") （2002年4月-2002年9月）
+  - [板倉香](../Page/板倉香.md "wikilink") （2002年4月-2002年9月）
   - [君嶋ゆかり](../Page/君嶋ゆかり.md "wikilink") （2002年10月-2004年9月）
 
 <!-- end list -->
@@ -163,7 +163,7 @@ J-WAVEでのオンエアチャート・[インターネット](../Page/インタ
 | [2002年](../Page/2002年.md "wikilink")                                             | [TWO MONTHS OFF](../Page/ア・ハンドレッド・デイズ・オフ.md "wikilink")                                                | [UNDERWORLD](../Page/アンダーワールド_\(バンド\).md "wikilink")                                                                       | 1位（通算5週）       |
 | [2003年](../Page/2003年.md "wikilink")                                             | [CRAZY IN LOVE](https://ja.wikipedia.org/wiki/クレイジー・イン・ラブ "wikilink")                                  | [BEYONCE](../Page/ビヨンセ.md "wikilink") FEAT. [JAY-Z](https://ja.wikipedia.org/wiki/Jay-Z "wikilink")                        | 1位（7週連続）       |
 | [2004年](../Page/2004年.md "wikilink")                                             | [DON'T TELL ME](../Page/アンダー・マイ・スキン.md "wikilink")                                                     | [AVRIL LAVIGNE](../Page/アヴリル・ラヴィーン.md "wikilink")                                                                          | 1位（4週連続）       |
-| [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")                          | [MY WAY](../Page/Def_Tech_\(アルバム\).md "wikilink")                                                      | [Def Tech](https://ja.wikipedia.org/wiki/Def_Tech "wikilink")                                                              | 1位（通算4週）       |
+| [2005年](../Page/2005年.md "wikilink")                                             | [MY WAY](../Page/Def_Tech_\(アルバム\).md "wikilink")                                                      | [Def Tech](https://ja.wikipedia.org/wiki/Def_Tech "wikilink")                                                              | 1位（通算4週）       |
 | [2006年](../Page/2006年.md "wikilink")                                             | [BAD DAY](https://ja.wikipedia.org/wiki/バッド・デイ〜ついてない日の応援歌 "wikilink")                                  | [DANIEL POWTER](../Page/ダニエル・パウター.md "wikilink")                                                                           | 1位（4週連続）       |
 | [2007年](../Page/2007年.md "wikilink")                                             | [BECAUSE OF YOU](https://ja.wikipedia.org/wiki/ビコーズ・オブ・ユー_\(ニーヨのアルバム\) "wikilink")                     | [NE-YO](../Page/ニーヨ.md "wikilink")                                                                                         | 1位（通算2週）       |
 | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")                          | [VIVA LA VIDA](https://ja.wikipedia.org/wiki/美しき生命 "wikilink")                                         | [COLDPLAY](../Page/コールドプレイ.md "wikilink")                                                                                  | 1位（通算10週）      |
@@ -243,7 +243,7 @@ J-WAVEでのオンエアチャート・[インターネット](../Page/インタ
 </tr>
 <tr class="even">
 <td><p>第11回</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
 <td><p><a href="../Page/Def_Tech_(アルバム).md" title="wikilink">MY WAY</a><br />
 （Def Tech）</p></td>
 <td><p>平井堅</p></td>
@@ -652,7 +652,7 @@ Olympicグループになってからは「Olympic HOT 10 RANKING」と題して
   - [RADIOBIRD](../Page/FM鳥取.md "wikilink")（鳥取）
   - [FMくらしき](../Page/エフエムくらしき.md "wikilink")（倉敷）
   - [FMちゅーピー](../Page/中国コミュニケーションネットワーク.md "wikilink")（広島）
-  - [レディオビンゴ](https://ja.wikipedia.org/wiki/エフエムふくやま "wikilink")（福山、週によっては休止する場合あり））\[45\]
+  - [レディオビンゴ](../Page/エフエムふくやま.md "wikilink")（福山、週によっては休止する場合あり））\[45\]
   - [FM NANAKO](../Page/エフエム萩.md "wikilink")（萩）
   - [FM761](https://ja.wikipedia.org/wiki/FMサン "wikilink")（坂出、15時から飛び乗り）
   - [ホエールステーション](../Page/高知シティエフエムラジオ放送.md "wikilink")（高知）
@@ -670,7 +670,7 @@ Olympicグループになってからは「Olympic HOT 10 RANKING」と題して
   - [PORT WAVE](https://ja.wikipedia.org/wiki/エフエムよっかいち "wikilink")（四日市、毎時間CM・時報をならすため飛び降り）
   - [FM-N1](../Page/えふえむ・エヌ・ワン.md "wikilink")（野々市）
   - [Radioあいらんど](../Page/福井街角放送.md "wikilink")（福井）
-  - [たんなん夢レディオ](https://ja.wikipedia.org/wiki/たんなん夢レディオ "wikilink")（鯖江、自社番組放送あり・毎時間58分でCM・時報をならすため飛び降り）
+  - [たんなん夢レディオ](../Page/たんなん夢レディオ.md "wikilink")（鯖江、自社番組放送あり・毎時間58分でCM・時報をならすため飛び降り）
   - [HARBOR STATION](../Page/敦賀FM放送.md "wikilink")（敦賀）
   - [Radio momo](../Page/岡山シティエフエム.md "wikilink")（岡山）
   - [エフエム津山](https://ja.wikipedia.org/wiki/エフエム津山 "wikilink")（津山）

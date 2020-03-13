@@ -3,7 +3,7 @@
 
 **フェネルバフチェ・スポル・クリュビュ**（）は、[トルコ](../Page/トルコ.md "wikilink")の[イスタンブール](../Page/イスタンブール.md "wikilink")を本拠地とする総合スポーツクラブ。
 
-[ガラタサライ](https://ja.wikipedia.org/wiki/ガラタサライ "wikilink")、[ベシクタシュと並びトルコ](https://ja.wikipedia.org/wiki/ベシクタシュJK "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")界を代表するチーム。リーグでは創設1年目の優勝など19回を数える。トルコではガラタサライに次いで2番目に、人気のあるクラブである\[1\]。
+[ガラタサライ](https://ja.wikipedia.org/wiki/ガラタサライ "wikilink")、[ベシクタシュと並びトルコ](../Page/ベシクタシュJK.md "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")界を代表するチーム。リーグでは創設1年目の優勝など19回を数える。トルコではガラタサライに次いで2番目に、人気のあるクラブである\[1\]。
 
 ## 歴史
 
@@ -19,7 +19,7 @@
 
 2011-12シーズンは前年の八百長疑惑の影響で選手補強が進まず、特に開幕前に獲得した[エマヌエル・エメニケ](https://ja.wikipedia.org/wiki/エマヌエル・エメニケ "wikilink")を、公式戦に出場することなく放出するといった事態が生じた。(なおエメニケは2013-14シーズンに再び獲得され、フェネルバフチェに復帰している。)
 
-2012-13シーズンは[ラウル・メイレレス](../Page/ラウル・メイレレス.md "wikilink")、[ミロシュ・クラシッチ](https://ja.wikipedia.org/wiki/ミロシュ・クラシッチ "wikilink")、[メフメト・トパル](https://ja.wikipedia.org/wiki/メフメト・トパル "wikilink")、[ディルク・カイト](https://ja.wikipedia.org/wiki/ディルク・カイト "wikilink")らを獲得するも、シーズン前に副キャプテンのエムレが[アトレティコ・マドリード](https://ja.wikipedia.org/wiki/アトレティコ・マドリード "wikilink")に移籍。さらにはキャプテンであり長年にわたってチームを支えてきた[アレックスが開幕直後の](../Page/アレクサンドロ・デ・ソウザ.md "wikilink")2012年10月1日に契約解除により退団。このように、チームの象徴とも言えるアレックスの退団を巡るトラブルもありチームは序盤戦低迷し4位で折り返す。 冬の移籍市場でエムレをアトレティコから、[レト・ツィーグラー](https://ja.wikipedia.org/wiki/レト・ツィーグラー "wikilink")を[ユヴェントスFC](../Page/ユヴェントスFC.md "wikilink")から呼び戻し、さらには[ピエール・ウェボ](https://ja.wikipedia.org/wiki/ピエール・ウェボ "wikilink")も獲得。すると徐々にチーム状態は上向き、2位でシーズンを終えた。
+2012-13シーズンは[ラウル・メイレレス](../Page/ラウル・メイレレス.md "wikilink")、[ミロシュ・クラシッチ](https://ja.wikipedia.org/wiki/ミロシュ・クラシッチ "wikilink")、[メフメト・トパル](https://ja.wikipedia.org/wiki/メフメト・トパル "wikilink")、[ディルク・カイト](../Page/ディルク・カイト.md "wikilink")らを獲得するも、シーズン前に副キャプテンのエムレが[アトレティコ・マドリード](https://ja.wikipedia.org/wiki/アトレティコ・マドリード "wikilink")に移籍。さらにはキャプテンであり長年にわたってチームを支えてきた[アレックスが開幕直後の](../Page/アレクサンドロ・デ・ソウザ.md "wikilink")2012年10月1日に契約解除により退団。このように、チームの象徴とも言えるアレックスの退団を巡るトラブルもありチームは序盤戦低迷し4位で折り返す。 冬の移籍市場でエムレをアトレティコから、[レト・ツィーグラー](https://ja.wikipedia.org/wiki/レト・ツィーグラー "wikilink")を[ユヴェントスFC](../Page/ユヴェントスFC.md "wikilink")から呼び戻し、さらには[ピエール・ウェボ](https://ja.wikipedia.org/wiki/ピエール・ウェボ "wikilink")も獲得。すると徐々にチーム状態は上向き、2位でシーズンを終えた。
 
 2013-14シーズンは[エルスン・ヤナル](https://ja.wikipedia.org/wiki/エルスン・ヤナル "wikilink")が新監督に就任。[ミハル・カドレツ](https://ja.wikipedia.org/wiki/ミハル・カドレツ "wikilink")、[ブルーノ・アルヴェス](../Page/ブルーノ・アルヴェス.md "wikilink")、[エマヌエル・エメニケ](https://ja.wikipedia.org/wiki/エマヌエル・エメニケ "wikilink")といったビッグネームを次々と獲得する。開幕戦こそ[コンヤスポル](../Page/コンヤスポル.md "wikilink")に敗れるも、2節から14試合無敗(12勝2分)を達成するなど好調を維持。5節から一度も首位を明け渡すことなくシーズンを終え、2011-12シーズン以来の優勝を達成した。
 
@@ -41,7 +41,7 @@
 
 ## ライバル
 
-フェネルバフチェ、[ガラタサライ](https://ja.wikipedia.org/wiki/ガラタサライ "wikilink")、[ベシクタシュのイスタンブールの](https://ja.wikipedia.org/wiki/ベシクタシュJK "wikilink")3チームは「ビッグ3」と呼ばれ、100年を超えるライバル関係がある。特にフェネルバフチェとガラタサライのダービーは[トルコ・ダービー](https://ja.wikipedia.org/wiki/トルコ・ダービー "wikilink")と呼ばれ、トルコにおいてもっとも重要なダービーとなっている。
+フェネルバフチェ、[ガラタサライ](https://ja.wikipedia.org/wiki/ガラタサライ "wikilink")、[ベシクタシュのイスタンブールの](../Page/ベシクタシュJK.md "wikilink")3チームは「ビッグ3」と呼ばれ、100年を超えるライバル関係がある。特にフェネルバフチェとガラタサライのダービーは[トルコ・ダービー](https://ja.wikipedia.org/wiki/トルコ・ダービー "wikilink")と呼ばれ、トルコにおいてもっとも重要なダービーとなっている。
 
 そのライバル関係は時にサポーターの危険な行動をも引き起こしている。特に発炎筒、旗、巨大なポスターを用いた応援はアウェイチームに大きなプレッシャーを与えており、ファンの間では"welcoming them to hell"(地獄へようこそ)と呼ばれている。
 
@@ -227,7 +227,7 @@
 
   - [ヴィトール・ペレイラ](https://ja.wikipedia.org/wiki/ヴィトール・ペレイラ "wikilink") 2015-2016
 
-  - [ディック・アドフォカート](https://ja.wikipedia.org/wiki/ディック・アドフォカート "wikilink") 2016–2017
+  - [ディック・アドフォカート](../Page/ディック・アドフォカート.md "wikilink") 2016–2017
 
   - [アイクト・コジャマン](https://ja.wikipedia.org/wiki/アイクト・コジャマン "wikilink") 2017-2018
 
@@ -255,7 +255,7 @@
 
   - [ムラト・ヤキン](https://ja.wikipedia.org/wiki/ムラト・ヤキン "wikilink") 1998-2000
 
-  - [アルパイ・オザラン](https://ja.wikipedia.org/wiki/アルパイ・オザラン "wikilink") 1999-2000
+  - [アルパイ・オザラン](../Page/アルパイ・オザラン.md "wikilink") 1999-2000
 
   - [ウミト・オザト](https://ja.wikipedia.org/wiki/ウミト・オザト "wikilink") 2001-2007
 
@@ -287,7 +287,7 @@
 
   - [アレックス](../Page/アレクサンドロ・デ・ソウザ.md "wikilink") 2004-2012
 
-  - [スティーヴン・アッピアー](https://ja.wikipedia.org/wiki/スティーヴン・アッピアー "wikilink") 2005-2008
+  - [スティーヴン・アッピアー](../Page/スティーヴン・アッピアー.md "wikilink") 2005-2008
 
   - [エムレ・ベロゾール](../Page/エムレ・ベロゾール.md "wikilink") 2008-2012, 2013-2015
 
@@ -313,13 +313,13 @@
 
   - [セルゲイ・レブロフ](../Page/セルゲイ・レブロフ.md "wikilink") 2003-2004
 
-  - [ピエール・ファン・ホーイドンク](https://ja.wikipedia.org/wiki/ピエール・ファン・ホーイドンク "wikilink") 2003-2005
+  - [ピエール・ファン・ホーイドンク](../Page/ピエール・ファン・ホーイドンク.md "wikilink") 2003-2005
 
   - [メルト・ノブレ](../Page/メルト・ノブレ.md "wikilink") 2003-2006
 
   - [ニコラ・アネルカ](../Page/ニコラ・アネルカ.md "wikilink") 2005-2006
 
-  - [マテヤ・ケジュマン](https://ja.wikipedia.org/wiki/マテヤ・ケジュマン "wikilink") 2006-2008
+  - [マテヤ・ケジュマン](../Page/マテヤ・ケジュマン.md "wikilink") 2006-2008
 
   - [ダニ・グイサ](https://ja.wikipedia.org/wiki/ダニエル・ゴンサレス・グイサ "wikilink") 2008-2011
 
@@ -327,7 +327,7 @@
 
   - [ママドゥ・ニアン](../Page/ママドゥ・ニアン.md "wikilink") 2010-2011
 
-  - [ディルク・カイト](https://ja.wikipedia.org/wiki/ディルク・カイト "wikilink") 2012-2015
+  - [ディルク・カイト](../Page/ディルク・カイト.md "wikilink") 2012-2015
 
   - [ロビン・ファン・ペルシ](../Page/ロビン・ファン・ペルシ.md "wikilink") 2015-2018
 

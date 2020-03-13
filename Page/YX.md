@@ -19,7 +19,7 @@
   - YS-33-20：胴長の139席
   - YS-33-30：さらに胴長の149席
 
-翌[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")（昭和45年）には市場動向の変化から、さらに三種の計画が追加された。
+翌[1970年](../Page/1970年.md "wikilink")（昭和45年）には市場動向の変化から、さらに三種の計画が追加された。
 
   - YX-B/C案：150席〜180席クラス
   - YX-D案：200席から250席クラスの中型機
@@ -42,7 +42,7 @@
 
 この開発費の高騰に耐え切れなかった欧米の中小航空機メーカーが次々と淘汰されていった時代に、YX計画は動き出したのである。
 
-[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")（昭和45年）ごろ、外国各社が同クラスの機体の共同開発を持ちかけてきた。各社の打診を以下に挙げる。
+[1970年](../Page/1970年.md "wikilink")（昭和45年）ごろ、外国各社が同クラスの機体の共同開発を持ちかけてきた。各社の打診を以下に挙げる。
 
   - [アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[ボーイング](../Page/ボーイング.md "wikilink") - 中型輸送機の共同開発
   - アメリカ・[マクドネル・ダグラス](../Page/マクドネル・ダグラス.md "wikilink") - DC-11双発輸送機の共同開発
@@ -103,7 +103,7 @@
 
 [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")（昭和53年）9月、ボーイングが7X7の受注を獲得したことから、民間航空機開発協会とボーイングの間で基本事業契約を締結し、7X7の開発が開始された。YX/7X7は**[ボーイング767](../Page/ボーイング767.md "wikilink")**の名称を得た。設計は同年半ばから始まっており、日本からは3社合計136名がボーイングに派遣された。そして、この年の末には試作機の製造を開始するという素早さに、日本側は経験の差を思い知らされた。
 
-[Aircanada.b767.750pix.jpg](https://ja.wikipedia.org/wiki/File:Aircanada.b767.750pix.jpg "fig:Aircanada.b767.750pix.jpg")（エア・カナダの300型）\]\] 日本は民間航空機開発協会が[三菱重工業](../Page/三菱重工業.md "wikilink")、[川崎重工業](../Page/川崎重工業.md "wikilink")、[富士重工業](https://ja.wikipedia.org/wiki/富士重工業 "wikilink")に作業を委託し、3社によって分担開発された。開発部位は三菱が後胴パネル、川崎が前胴・中胴パネル、富士が主翼胴体間フェアリングを担当し、ボーイングに引き渡すこととなった。生産分野では、川崎が中部胴体・主翼小骨、三菱が後部胴体・乗降口扉、富士が主翼胴体間フェアリングと主脚扉で、[新明和工業](../Page/新明和工業.md "wikilink")も3社の部品製造を行っている。部品メーカーとしては、[帝人製機](https://ja.wikipedia.org/wiki/帝人製機 "wikilink")、[島津製作所](../Page/島津製作所.md "wikilink")、[萱場工業](../Page/KYB.md "wikilink")、[三菱電機](../Page/三菱電機.md "wikilink")、[小糸製作所](https://ja.wikipedia.org/wiki/小糸製作所 "wikilink")、[新日本航空整備](../Page/ジャムコ.md "wikilink")、[松下電器](https://ja.wikipedia.org/wiki/パナソニック "wikilink")、[神戸製鋼](https://ja.wikipedia.org/wiki/神戸製鋼 "wikilink")、大同製綱、[住友精密工業](../Page/住友精密工業.md "wikilink")、[東京航空計器](https://ja.wikipedia.org/wiki/東京航空計器 "wikilink")、その他様々な企業が参入している。
+[Aircanada.b767.750pix.jpg](https://ja.wikipedia.org/wiki/File:Aircanada.b767.750pix.jpg "fig:Aircanada.b767.750pix.jpg")（エア・カナダの300型）\]\] 日本は民間航空機開発協会が[三菱重工業](../Page/三菱重工業.md "wikilink")、[川崎重工業](../Page/川崎重工業.md "wikilink")、[富士重工業](https://ja.wikipedia.org/wiki/富士重工業 "wikilink")に作業を委託し、3社によって分担開発された。開発部位は三菱が後胴パネル、川崎が前胴・中胴パネル、富士が主翼胴体間フェアリングを担当し、ボーイングに引き渡すこととなった。生産分野では、川崎が中部胴体・主翼小骨、三菱が後部胴体・乗降口扉、富士が主翼胴体間フェアリングと主脚扉で、[新明和工業](../Page/新明和工業.md "wikilink")も3社の部品製造を行っている。部品メーカーとしては、[帝人製機](https://ja.wikipedia.org/wiki/帝人製機 "wikilink")、[島津製作所](../Page/島津製作所.md "wikilink")、[萱場工業](../Page/KYB.md "wikilink")、[三菱電機](../Page/三菱電機.md "wikilink")、[小糸製作所](../Page/小糸製作所.md "wikilink")、[新日本航空整備](../Page/ジャムコ.md "wikilink")、[松下電器](https://ja.wikipedia.org/wiki/パナソニック "wikilink")、[神戸製鋼](https://ja.wikipedia.org/wiki/神戸製鋼 "wikilink")、大同製綱、[住友精密工業](../Page/住友精密工業.md "wikilink")、[東京航空計器](https://ja.wikipedia.org/wiki/東京航空計器 "wikilink")、その他様々な企業が参入している。
 
 主翼などの最も重要な部門からは完全に締め出される状態であり、一部の設計を任されたものの、実態は下請けと変わらないものであった。とくに、販売やアフターサービスなど、独自に飛行機を持つうえで重要な営業ノウハウは、日本やイタリアが手にできないよう、ボーイングによって硬く閉ざされ、全く覗かせてもらえなかった。また、ボーイングからの厳しい発注基準に各社の技術陣は苦労を強いられたが、結果的に日本の技術水準を高めることとなり、ボーイングからも品質の高さを賞賛されている。
 
@@ -111,7 +111,7 @@
 
 ### YXXと777、787
 
-[ボーイング767](../Page/ボーイング767.md "wikilink")は一部で設計から参加できたとはいえ、実態は下請けと変わらない姿に日本の関係者の不満は募り、767開発開始の翌[1979年](../Page/1979年.md "wikilink")（昭和54年）8月、新たな国産機「100席クラスまたはそれよりやや大型」旅客機の開発計画が始まった。これが**[YXX](https://ja.wikipedia.org/wiki/YXX "wikilink")**である。しかし、「日本が主体性をもつ」こととしたはずのYXXも、結局[1984年](../Page/1984年.md "wikilink")（昭和59年）から[ボーイング](../Page/ボーイング.md "wikilink")の**[7J7](../Page/ボーイング7J7.md "wikilink")**計画に取り込まれて共同開発となってしまったが、エンジンの開発不調によって計画は遅々として進まなかった（詳細は[YXX](https://ja.wikipedia.org/wiki/YXX "wikilink")参照）。
+[ボーイング767](../Page/ボーイング767.md "wikilink")は一部で設計から参加できたとはいえ、実態は下請けと変わらない姿に日本の関係者の不満は募り、767開発開始の翌[1979年](../Page/1979年.md "wikilink")（昭和54年）8月、新たな国産機「100席クラスまたはそれよりやや大型」旅客機の開発計画が始まった。これが**[YXX](../Page/YXX.md "wikilink")**である。しかし、「日本が主体性をもつ」こととしたはずのYXXも、結局[1984年](../Page/1984年.md "wikilink")（昭和59年）から[ボーイング](../Page/ボーイング.md "wikilink")の**[7J7](../Page/ボーイング7J7.md "wikilink")**計画に取り込まれて共同開発となってしまったが、エンジンの開発不調によって計画は遅々として進まなかった（詳細は[YXX](../Page/YXX.md "wikilink")参照）。
 
 [thumb開発にも参加した](https://ja.wikipedia.org/wiki/画像:B777-200LR_DSC04302.JPG "wikilink")（写真は200LR型）\]\] 一方、ボーイングは国際分担によって開発費を減らすことと、納期を守る上に低価格高品質な日本の技術力、日本が気前良くはずむ開発費に味をしめ、[747と](https://ja.wikipedia.org/wiki/ボーイング747 "wikilink")[767の間を埋める](../Page/ボーイング767.md "wikilink")350席クラスの中型旅客機**7-7**を共同開発しないかと日本に打診した。
 
@@ -121,7 +121,7 @@
 
 様々に振り回されてきたものの、日本企業にとって767と777への参加は非常に重要だった。767以前、日本の航空機メーカーの仕事の9割以上は[防衛庁](https://ja.wikipedia.org/wiki/防衛庁 "wikilink")関連のものであったが、767と777によって民需への可能性を開くことができたと同時に、[冷戦](../Page/冷戦.md "wikilink")の終結によって世界的な軍縮の中で、防衛庁関連の受注も今後は伸びないであろう事から、積極的に民需への移転が必要とされるようになっていた。[三菱重工業](../Page/三菱重工業.md "wikilink")は後に[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の[ボンバルディア・エアロスペース](../Page/ボンバルディア・エアロスペース.md "wikilink")と協力関係を強め、[川崎重工業](../Page/川崎重工業.md "wikilink")も[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")の[エンブラエル](../Page/エンブラエル.md "wikilink")と協力体制をとることで、[2001年](../Page/2001年.md "wikilink")（平成13年）には民需が4割を占めるまでに成長した。民需重視は今後も進み、特に三菱は[2000年](../Page/2000年.md "wikilink")（平成12年）5月、ボーイングと宇宙機器や新型旅客機などにおいて包括提携を結び、今後は民需関連を5割以上に高めることとしている。
 
-[thumb](https://ja.wikipedia.org/wiki/画像:Boeing_787_Roll-out.jpg "wikilink") [2003年](../Page/2003年.md "wikilink")（平成15年）に、ソニック・クルーザー計画に代わる中型旅客機**7E7**計画が発表された。7E7は[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）に開発が決定して**[ボーイング787](../Page/ボーイング787.md "wikilink")**となり、JADCの担当比率は主翼・中胴など最重要部分を中心に35パーセントとなった。787は[2007年](../Page/2007年.md "wikilink")（平成19年）[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink")にロールアウト、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）中の初飛行および納入を予定していたが、下請け丸投げな製造体制はうまく機能せず、開発遅延による度重なるスケジュールの見直しで初飛行は[2009年](../Page/2009年.md "wikilink")（平成21年）にずれ込み、2011年（平成23年）に納入されて就航した。しかし、度重なる電気系統の不具合により米連邦航空局より耐空性改善命令を受けて飛行停止になるなど問題山積の航空機となってしまった。
+[thumb](https://ja.wikipedia.org/wiki/画像:Boeing_787_Roll-out.jpg "wikilink") [2003年](../Page/2003年.md "wikilink")（平成15年）に、ソニック・クルーザー計画に代わる中型旅客機**7E7**計画が発表された。7E7は[2005年](../Page/2005年.md "wikilink")（平成17年）に開発が決定して**[ボーイング787](../Page/ボーイング787.md "wikilink")**となり、JADCの担当比率は主翼・中胴など最重要部分を中心に35パーセントとなった。787は[2007年](../Page/2007年.md "wikilink")（平成19年）[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink")にロールアウト、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）中の初飛行および納入を予定していたが、下請け丸投げな製造体制はうまく機能せず、開発遅延による度重なるスケジュールの見直しで初飛行は[2009年](../Page/2009年.md "wikilink")（平成21年）にずれ込み、2011年（平成23年）に納入されて就航した。しかし、度重なる電気系統の不具合により米連邦航空局より耐空性改善命令を受けて飛行停止になるなど問題山積の航空機となってしまった。
 
 ## 参考文献
 
@@ -131,8 +131,8 @@
 ## 関連項目
 
   - [YS-11](../Page/YS-11.md "wikilink")
-  - [YXX](https://ja.wikipedia.org/wiki/YXX "wikilink")
-  - [YSX](https://ja.wikipedia.org/wiki/YSX "wikilink")
+  - [YXX](../Page/YXX.md "wikilink")
+  - [YSX](../Page/YSX.md "wikilink")
   - [Mitsubishi SpaceJet](../Page/Mitsubishi_SpaceJet.md "wikilink")
 
 ## 外部リンク

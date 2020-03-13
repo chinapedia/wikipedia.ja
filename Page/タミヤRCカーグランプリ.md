@@ -255,7 +255,7 @@
 
 ## スペシャル版司会
 
-  - [高橋里華](https://ja.wikipedia.org/wiki/高橋里華 "wikilink")
+  - [高橋里華](../Page/高橋里華.md "wikilink")
   - [雨宮朋絵](../Page/雨宮朋絵.md "wikilink")
   - [内山信二](../Page/内山信二.md "wikilink")
 

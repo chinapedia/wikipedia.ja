@@ -12,7 +12,7 @@
   - みんなのGOLF
     [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[7月17日](../Page/7月17日.md "wikilink")発売（[PS](https://ja.wikipedia.org/wiki/PlayStation "wikilink")）、ザ・ベスト版[1999年](../Page/1999年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")発売
     通常コース6コース パットゴルフコース1コース
-    この作品はキャメロットでの開発で、コースデザインは村守将志、高橋秀五のほかに、宇野正明が最終コースのエキストラコースを設計していた。コース数は通常コースが6+パットゴルフ用コース。音楽担当は[桜庭統](../Page/桜庭統.md "wikilink")。この作品のみ、プレー終了時に「[GAME OVER](https://ja.wikipedia.org/wiki/ゲームオーバー "wikilink")」と表記されていた（後の作品では「お疲れ様でした。何かボタンを押してください」に置き換え）。
+    この作品はキャメロットでの開発で、コースデザインは村守将志、高橋秀五のほかに、宇野正明が最終コースのエキストラコースを設計していた。コース数は通常コースが6+パットゴルフ用コース。音楽担当は[桜庭統](../Page/桜庭統.md "wikilink")。この作品のみ、プレー終了時に「[GAME OVER](../Page/ゲームオーバー.md "wikilink")」と表記されていた（後の作品では「お疲れ様でした。何かボタンを押してください」に置き換え）。
     国内累計出荷本数は213万本\[2\]。
   - みんなのGOLF 2
     [1999年](../Page/1999年.md "wikilink")[7月29日](../Page/7月29日.md "wikilink")発売（[PS](https://ja.wikipedia.org/wiki/PlayStation "wikilink")）・PocketStation対応
@@ -84,7 +84,7 @@
 
   - みんなのGOLF オンライン
     [2003年](../Page/2003年.md "wikilink")[6月12日](../Page/6月12日.md "wikilink")発売
-    シリーズ第4作目。[PlayStation BB Unitによる](../Page/PlayStation_BB_Unit.md "wikilink")[オンラインプレイ専用ソフトだが](../Page/オンラインゲーム.md "wikilink")、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月31日](../Page/10月31日.md "wikilink")をもってオンラインプレイサービスを終了した。
+    シリーズ第4作目。[PlayStation BB Unitによる](../Page/PlayStation_BB_Unit.md "wikilink")[オンラインプレイ専用ソフトだが](../Page/オンラインゲーム.md "wikilink")、[2005年](../Page/2005年.md "wikilink")[10月31日](../Page/10月31日.md "wikilink")をもってオンラインプレイサービスを終了した。
 
 ## 主なゲームモード
 
@@ -1715,7 +1715,7 @@
 <tr class="odd">
 <td><p>ユメリ</p></td>
 <td><p>♀</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/本名陽子" title="wikilink">本名陽子</a></p></td>
+<td><p><a href="../Page/本名陽子.md" title="wikilink">本名陽子</a></p></td>
 <td><p>日本</p></td>
 <td><p>18歳</p></td>
 <td><p>×</p></td>
@@ -2002,7 +2002,7 @@
 <tr class="even">
 <td><p>アユミ</p></td>
 <td><p>♀</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/村田あゆみ" title="wikilink">村田あゆみ</a></p></td>
+<td><p><a href="../Page/村田あゆみ.md" title="wikilink">村田あゆみ</a></p></td>
 <td><p>日本</p></td>
 <td><p>？</p></td>
 <td><p>×</p></td>
@@ -2686,7 +2686,7 @@
 <tr class="even">
 <td><p>リサ</p></td>
 <td><p>♀</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小松由佳_(声優)" title="wikilink">小松由佳</a></p></td>
+<td><p><a href="../Page/小松由佳_(声優).md" title="wikilink">小松由佳</a></p></td>
 <td><p>日本</p></td>
 <td><p>？</p></td>
 <td><p>×</p></td>
@@ -2760,7 +2760,7 @@
 <td><p>♀</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ステハニー☆林" title="wikilink">ステハニー☆林</a>（<strong>1</strong>）<br />
 <a href="../Page/茂呂田かおる.md" title="wikilink">茂呂田かおる</a>（<strong>2</strong>）<br />
-<a href="https://ja.wikipedia.org/wiki/滝沢ロコ" title="wikilink">滝沢ロコ</a>（<strong>2</strong>）<br />
+<a href="../Page/滝沢ロコ.md" title="wikilink">滝沢ロコ</a>（<strong>2</strong>）<br />
 <a href="../Page/阪井あかね.md" title="wikilink">阪井あかね</a>（<strong>2</strong>）</p></td>
 <td><p>不明</p></td>
 <td><p>不明</p></td>
@@ -2778,7 +2778,7 @@
 </tr>
 <tr class="odd">
 <td><p>♂</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/福山潤" title="wikilink">福山潤</a>（<strong>2</strong>）<br />
+<td><p><a href="../Page/福山潤.md" title="wikilink">福山潤</a>（<strong>2</strong>）<br />
 佐藤賢治（<strong>2</strong>）</p></td>
 <td></td>
 <td></td>

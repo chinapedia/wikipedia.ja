@@ -1,7 +1,7 @@
 > この記事は[OKWAVE](https://ja.wikipedia.org/wiki/OKWAVE)から翻訳されています。
 
 
-**OKWAVE**（オウケイウェイヴ）は、**株式会社オウケイウェイヴ**が運営している[ナレッジコミュニティ](../Page/ナレッジコミュニティ.md "wikilink")である。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月17日](../Page/10月17日.md "wikilink")に「OKWeb」（オーケイウェブ）から改名された。
+**OKWAVE**（オウケイウェイヴ）は、**株式会社オウケイウェイヴ**が運営している[ナレッジコミュニティ](../Page/ナレッジコミュニティ.md "wikilink")である。[2005年](../Page/2005年.md "wikilink")[10月17日](../Page/10月17日.md "wikilink")に「OKWeb」（オーケイウェブ）から改名された。
 
 「**OK**」とは、[Q\&A](https://ja.wikipedia.org/wiki/Q&A "wikilink")の流れを表す「**O**shiete? **K**otaeru\!」の略。
 
@@ -17,7 +17,7 @@
   - [2001年](../Page/2001年.md "wikilink")4月 - ナレッジソリューション「ASK-OK」の販売開始。
   - [2002年](../Page/2002年.md "wikilink")5月 - 東京都[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")に移転。
   - [2003年](../Page/2003年.md "wikilink")12月 - 東京都渋谷区[道玄坂](../Page/道玄坂.md "wikilink")に移転。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
       - 7月 - 音楽事業運営の連結子会社「株式会社OK LABEL」を東京都渋谷区に設立。
       - 10月 - 「OKWebコミュニティ」を「OKWave」へリニューアル。
   - [2006年](../Page/2006年.md "wikilink")

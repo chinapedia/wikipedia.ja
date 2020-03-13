@@ -7,7 +7,7 @@
 
 それまで『絶望』など、いわゆる「鬼畜もの」を世に送り出してきたスタジオメビウスが純愛ものを手がけるということで発表時には話題を呼んだ。しかし、当初[2001年](../Page/2001年.md "wikilink")初めとされていた発売予定がその後幾度か延期を繰り返し、発売されたのは2年後の[2003年](../Page/2003年.md "wikilink")であった。さらに当初はキャラクターボイスが有りと発表されていたが、開発中に無しとされるスペック変更も発表された。
 
-マルチストーリーの順序構成やストーリーにおいて、同じビジュアルアーツ傘下である[Keyの](../Page/Key_\(ゲームブランド\).md "wikilink")『[AIR](../Page/AIR_\(ゲーム\).md "wikilink")』や『[Kanon](https://ja.wikipedia.org/wiki/Kanon_\(ゲーム\) "wikilink")』と類似する部分が数多く指摘されている。これについては、制作者側がインタビューでこれらの作品を意識して似せていることを認めており\[1\]、同時にKeyの監修を受けていたことを明らかにしている。『AIR』のSUMMER編といったKey作品のシナリオを担当していた[涼元悠一](../Page/涼元悠一.md "wikilink")がシナリオアシスタントとして参加していたこともわかっている。
+マルチストーリーの順序構成やストーリーにおいて、同じビジュアルアーツ傘下である[Keyの](../Page/Key_\(ゲームブランド\).md "wikilink")『[AIR](../Page/AIR_\(ゲーム\).md "wikilink")』や『[Kanon](../Page/Kanon_\(ゲーム\).md "wikilink")』と類似する部分が数多く指摘されている。これについては、制作者側がインタビューでこれらの作品を意識して似せていることを認めており\[1\]、同時にKeyの監修を受けていたことを明らかにしている。『AIR』のSUMMER編といったKey作品のシナリオを担当していた[涼元悠一](../Page/涼元悠一.md "wikilink")がシナリオアシスタントとして参加していたこともわかっている。
 
 また、移植に伴って2度も新規ヒロインが追加されたが、この複数回に渡るヒロインの追加により結果として未回収の伏線の多くも回収される事となった。
 
@@ -19,7 +19,7 @@
 
 [NECインターチャネルより本作の](https://ja.wikipedia.org/wiki/インターチャネル・ホロン "wikilink")[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")版が同年[9月25日](../Page/9月25日.md "wikilink")に、サブキャラクターであった橘芽依子を新規ヒロインとして追加した[PlayStation 2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")（[CEROレーティング](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")15歳以上対象）が[翌年](../Page/2004年.md "wikilink")[2月26日](../Page/2月26日.md "wikilink")に発売されている。また、2004年9月24日の『[友達以上恋人未満](../Page/友達以上恋人未満_\(ゲーム\).md "wikilink")』発売に合わせ、同日フルボイス版が発売された。
 
-2006年9月29日にはこのフルボイス版にDC版やPS2版での追加部分を逆移植し、さらに新規ヒロインとして謎の少女を追加した『SNOW P・E』(P・Eは"Plus Edition"の略)が発売された。[携帯電話ゲーム](../Page/携帯電話ゲーム.md "wikilink")では[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")の[SoftBank 3G端末と](../Page/SoftBank_3G.md "wikilink")[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[FOMA](../Page/FOMA.md "wikilink")向けにも2006年11月1日から配信されている。2006年12月に[プロトタイプから](../Page/プロトタイプ_\(企業\).md "wikilink")[PlayStation Portable版が発売予定であったが](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")、延期に次ぐ延期で2007年夏の8月16日に発売された。
+2006年9月29日にはこのフルボイス版にDC版やPS2版での追加部分を逆移植し、さらに新規ヒロインとして謎の少女を追加した『SNOW P・E』(P・Eは"Plus Edition"の略)が発売された。[携帯電話ゲーム](../Page/携帯電話ゲーム.md "wikilink")では[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")の[SoftBank 3G端末と](../Page/SoftBank_3G.md "wikilink")[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[FOMA](../Page/FOMA.md "wikilink")向けにも2006年11月1日から配信されている。2006年12月に[プロトタイプから](../Page/プロトタイプ_\(企業\).md "wikilink")[PlayStation Portable版が発売予定であったが](../Page/PlayStation_Portable.md "wikilink")、延期に次ぐ延期で2007年夏の8月16日に発売された。
 
 その後、『SNOW P・E』が『暗黒SNOW』\[2\]とセットで、Android移植版の配信が2015年11月からビジュアルアーツのアプリマーケット『アニゲマ』で開始された\[3\]。
 
@@ -129,7 +129,7 @@
 
 ## その他
 
-本作品の舞台と同じ名前の[龍神村](../Page/龍神村.md "wikilink")が[和歌山県](../Page/和歌山県.md "wikilink")に存在していたが（現在は[田辺市](https://ja.wikipedia.org/wiki/田辺市 "wikilink")の一部）、製作にあたっては[京都府](../Page/京都府.md "wikilink")[美山町](../Page/美山町_\(京都府\).md "wikilink")(現在は[南丹市](https://ja.wikipedia.org/wiki/南丹市 "wikilink")の一部)が参考とされた。
+本作品の舞台と同じ名前の[龍神村](../Page/龍神村.md "wikilink")が[和歌山県](../Page/和歌山県.md "wikilink")に存在していたが（現在は[田辺市](https://ja.wikipedia.org/wiki/田辺市 "wikilink")の一部）、製作にあたっては[京都府](../Page/京都府.md "wikilink")[美山町](../Page/美山町_\(京都府\).md "wikilink")(現在は[南丹市](../Page/南丹市.md "wikilink")の一部)が参考とされた。
 
 ## 脚注
 

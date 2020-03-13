@@ -137,7 +137,7 @@
 <td><p>1960-61</p></td>
 <td><p><a href="../Page/UEFAチャンピオンズカップ_1960-61.md" title="wikilink">UEFAチャンピオンズカップ</a></p></td>
 <td><p>予選</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SKラピード・ウィーン" title="wikilink">ラピード・ウィーン</a></p></td>
+<td><p><a href="../Page/SKラピード・ウィーン.md" title="wikilink">ラピード・ウィーン</a></p></td>
 <td><p>1–0</p></td>
 <td><p>0–4</p></td>
 <td><p>'''1–4</p></td>
@@ -157,7 +157,7 @@
 <td><p>1967-68</p></td>
 <td><p><a href="../Page/UEFAチャンピオンズカップ_1967-68.md" title="wikilink">UEFAチャンピオンズカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SKラピード・ウィーン" title="wikilink">ラピード・ウィーン</a></p></td>
+<td><p><a href="../Page/SKラピード・ウィーン.md" title="wikilink">ラピード・ウィーン</a></p></td>
 <td><p>0–1</p></td>
 <td><p>0–3</p></td>
 <td><p>'''0–4</p></td>
@@ -195,7 +195,7 @@
 </tr>
 <tr class="odd">
 <td><p>準々決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCディナモ・キエフ" title="wikilink">ディナモ・キエフ</a></p></td>
+<td><p><a href="../Page/FCディナモ・キエフ.md" title="wikilink">ディナモ・キエフ</a></p></td>
 <td><p>0–5</p></td>
 <td><p>0–2</p></td>
 <td><p>'''0–7</p></td>
@@ -237,7 +237,7 @@
 <td><p>1995-96</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_1995-96" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>予選ラウンド</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ローゼンボリBK" title="wikilink">ローゼンボリBK</a></p></td>
+<td><p><a href="../Page/ローゼンボリBK.md" title="wikilink">ローゼンボリBK</a></p></td>
 <td><p>3–1</p></td>
 <td><p>0–3</p></td>
 <td><p>'''3–4</p></td>
@@ -305,7 +305,7 @@
 </tr>
 <tr class="even">
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCロコモティフ・モスクワ" title="wikilink">ロコモティフ・モスクワ</a></p></td>
+<td><p><a href="../Page/FCロコモティフ・モスクワ.md" title="wikilink">ロコモティフ・モスクワ</a></p></td>
 <td><p>3–0</p></td>
 <td><p>3–1</p></td>
 <td><p>'''6–1</p></td>
@@ -434,7 +434,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/PFC_CSKAモスクワ" title="wikilink">CSKAモスクワ</a></p></td>
+<td><p><a href="../Page/PFC_CSKAモスクワ.md" title="wikilink">CSKAモスクワ</a></p></td>
 <td><p>1–2</p></td>
 <td><p>1–2</p></td>
 <td></td>
@@ -484,7 +484,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/FCディナモ・キエフ" title="wikilink">ディナモ・キエフ</a></p></td>
+<td><p><a href="../Page/FCディナモ・キエフ.md" title="wikilink">ディナモ・キエフ</a></p></td>
 <td><p>1–1</p></td>
 <td><p>0–6</p></td>
 <td></td>
@@ -586,7 +586,7 @@
 <td><p>1984-85</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップウィナーズカップ_1984-85" title="wikilink">UEFAカップウィナーズカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SKラピード・ウィーン" title="wikilink">ラピード・ウィーン</a></p></td>
+<td><p><a href="../Page/SKラピード・ウィーン.md" title="wikilink">ラピード・ウィーン</a></p></td>
 <td><p>1–1</p></td>
 <td><p>1–4</p></td>
 <td><p>'''2–5</p></td>
@@ -773,7 +773,7 @@
 </tr>
 <tr class="even">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デポルティーボ・アラベス" title="wikilink">アラベス</a></p></td>
+<td><p><a href="../Page/デポルティーボ・アラベス.md" title="wikilink">アラベス</a></p></td>
 <td><p>1–0</p></td>
 <td><p>1–1</p></td>
 <td><p>'''2–1</p></td>
@@ -783,7 +783,7 @@
 </tr>
 <tr class="odd">
 <td><p>3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCディナモ・キエフ" title="wikilink">ディナモ・キエフ</a></p></td>
+<td><p><a href="../Page/FCディナモ・キエフ.md" title="wikilink">ディナモ・キエフ</a></p></td>
 <td><p>3–1</p></td>
 <td><p>0–0</p></td>
 <td><p>'''3–1</p></td>
@@ -962,7 +962,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/クラブ・ブルッヘ" title="wikilink">クラブ・ブルッヘ</a></p></td>
+<td><p><a href="../Page/クラブ・ブルッヘ.md" title="wikilink">クラブ・ブルッヘ</a></p></td>
 <td><p>2-1</p></td>
 <td><p>style="background-color:#CFF" align="center" </p></td>
 <td></td>
@@ -1042,7 +1042,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/SKラピード・ウィーン" title="wikilink">ラピード・ウィーン</a></p></td>
+<td><p><a href="../Page/SKラピード・ウィーン.md" title="wikilink">ラピード・ウィーン</a></p></td>
 <td><p>2–0</p></td>
 <td><p>2–1</p></td>
 <td></td>
@@ -1063,7 +1063,7 @@
 </tr>
 <tr class="odd">
 <td><p>ラウンド32</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCディナモ・キエフ" title="wikilink">ディナモ・キエフ</a></p></td>
+<td><p><a href="../Page/FCディナモ・キエフ.md" title="wikilink">ディナモ・キエフ</a></p></td>
 <td><p>1–4</p></td>
 <td><p>0–4</p></td>
 <td><p>'''1–8</p></td>
@@ -1102,7 +1102,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/FCディナモ・キエフ" title="wikilink">ディナモ・キエフ</a></p></td>
+<td><p><a href="../Page/FCディナモ・キエフ.md" title="wikilink">ディナモ・キエフ</a></p></td>
 <td><p>1–0</p></td>
 <td><p>0–1</p></td>
 <td></td>
@@ -1184,7 +1184,7 @@
 </tr>
 <tr class="odd">
 <td><p>ラウンド16</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クラブ・ブルッヘ" title="wikilink">クラブ・ブルッヘ</a></p></td>
+<td><p><a href="../Page/クラブ・ブルッヘ.md" title="wikilink">クラブ・ブルッヘ</a></p></td>
 <td><p>1–3</p></td>
 <td><p>1–2</p></td>
 <td><p>'''2–5</p></td>
@@ -1213,7 +1213,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/FCロコモティフ・モスクワ" title="wikilink">ロコモティフ・モスクワ</a></p></td>
+<td><p><a href="../Page/FCロコモティフ・モスクワ.md" title="wikilink">ロコモティフ・モスクワ</a></p></td>
 <td><p>1–1</p></td>
 <td><p>1–1</p></td>
 <td></td>
@@ -1324,7 +1324,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ウルヴァーハンプトン・ワンダラーズFC" title="wikilink">ウルヴァーハンプトン</a></p></td>
+<td><p><a href="../Page/ウルヴァーハンプトン・ワンダラーズFC.md" title="wikilink">ウルヴァーハンプトン</a></p></td>
 <td><p>0-1</p></td>
 <td><p>0-4</p></td>
 <td></td>
@@ -1394,7 +1394,7 @@
 
   - ルザ・チャルンバイ 2005
 
-  - [ジャン・ティガナ](https://ja.wikipedia.org/wiki/ジャン・ティガナ "wikilink") 2005-2007
+  - [ジャン・ティガナ](../Page/ジャン・ティガナ.md "wikilink") 2005-2007
 
   - [エルトゥールル・サーラム](https://ja.wikipedia.org/wiki/エルトゥールル・サーラム "wikilink") 2007-2008
 
@@ -1432,7 +1432,7 @@
 
 ### DF
 
-  - [アルパイ・オザラン](https://ja.wikipedia.org/wiki/アルパイ・オザラン "wikilink") 1994-1999
+  - [アルパイ・オザラン](../Page/アルパイ・オザラン.md "wikilink") 1994-1999
 
   - [アントニオ・カルロス・ザーゴ](../Page/アントニオ・カルロス・ザーゴ.md "wikilink") 2002-2004
 

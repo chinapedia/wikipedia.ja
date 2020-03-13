@@ -29,7 +29,7 @@
 
 2005年7月6日にインディーズレーベルよりミニアルバム『Hunting\!\!\!\!』をリリース。2005年の夏はロック・フェスティバルなど各種ライブに出演。特に公言はしていないが、2006年の秋以降、表立った活動は一旦停止していた。
 
-2008年10月15日、2ndミニアルバム『牙をみせろ』をリリースし活動再開。初ツアーとなるSHOOT THE MOON TOURで全国の[Zepp](https://ja.wikipedia.org/wiki/Zepp "wikilink")を周った。ツアー中、まだ音源化されていない新曲、「グッド・マナーズ」「Good bye Gobrin」、インストナンバーの「MEAT FACTORY」も披露された。
+2008年10月15日、2ndミニアルバム『牙をみせろ』をリリースし活動再開。初ツアーとなるSHOOT THE MOON TOURで全国の[Zepp](../Page/Zepp.md "wikilink")を周った。ツアー中、まだ音源化されていない新曲、「グッド・マナーズ」「Good bye Gobrin」、インストナンバーの「MEAT FACTORY」も披露された。
 
 2010年3月15日、SHOOT THE MOON TOURを最後にナカヤマシンペイが多忙のため脱退したことが発表された。代役として[高橋宏貴](https://ja.wikipedia.org/wiki/高橋宏貴 "wikilink")（[ELLEGARDEN](../Page/ELLEGARDEN.md "wikilink")、[Scars Borough](https://ja.wikipedia.org/wiki/Scars_Borough "wikilink")）が加入。フェスの参加も発表され、再始動、8月4日にアルバム[THIS WORLDをリリースし](https://ja.wikipedia.org/wiki/THIS_WORLD "wikilink")、9月からツアー THIS WORLD TOURを行った。
 

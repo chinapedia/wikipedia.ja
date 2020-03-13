@@ -176,7 +176,7 @@ DFCL-1249:CD</p></td>
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/4月6日.md" title="wikilink">4月6日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/4月6日.md" title="wikilink">4月6日</a></p></td>
 <td><p><strong>YELLOW</strong></p></td>
 <td><p>DFCL-1176</p></td>
 <td><ol>
@@ -450,7 +450,7 @@ DFBL-7055:DVD</p></td>
   - イエジェネDictionary（2002年7月3日～2002年9月25日、[fm osaka](../Page/エフエム大阪.md "wikilink")）
   - YeLLOW Generationのちょいと一服（2003年8月2日～2004年3月29日、[STARdigio](../Page/スターデジオ.md "wikilink")）
   - [ゴチャ2](https://ja.wikipedia.org/wiki/ゴチャ2 "wikilink") [木曜日](../Page/木曜日.md "wikilink")（ユキのみ、2006年4月14日～2006年9月28日、[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")）
-  - [ゴチャ・まぜっ\!](https://ja.wikipedia.org/wiki/ゴチャ・まぜっ! "wikilink") [火曜日](../Page/火曜日.md "wikilink")（5分間のミニコーナー、ユキのみ、2007年4月10日～2008年4月1日、[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")）
+  - [ゴチャ・まぜっ\!](../Page/ゴチャ・まぜっ!.md "wikilink") [火曜日](../Page/火曜日.md "wikilink")（5分間のミニコーナー、ユキのみ、2007年4月10日～2008年4月1日、[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")）
 
 ## 関連項目
 

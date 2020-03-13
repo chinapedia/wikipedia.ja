@@ -31,7 +31,7 @@
   - [武藤綾子](../Page/武藤綾子_\(アナウンサー\).md "wikilink")
   - [千田剛裕](https://ja.wikipedia.org/wiki/千田剛裕 "wikilink")
   - [野口仁子](https://ja.wikipedia.org/wiki/野口仁子 "wikilink")
-  - [片桐千晶](https://ja.wikipedia.org/wiki/片桐千晶 "wikilink")
+  - [片桐千晶](../Page/片桐千晶.md "wikilink")
   - [竹島知郁](https://ja.wikipedia.org/wiki/竹島知郁 "wikilink")（現役）
   - [長島瑞穂](../Page/長島瑞穂.md "wikilink")
   - [加藤未来](https://ja.wikipedia.org/wiki/加藤未来 "wikilink")（現役）

@@ -92,7 +92,7 @@ WPCL-70019</p></td>
 </tr>
 <tr class="even">
 <td><p>7th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/6月8日.md" title="wikilink">6月8日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/6月8日.md" title="wikilink">6月8日</a></p></td>
 <td></td>
 <td><p>12cmCD</p></td>
 <td><p>WPCL-10171</p></td>
@@ -380,7 +380,7 @@ ZLCP-320</p></td>
 <td><p><a href="../Page/山嵐_(バンド).md" title="wikilink">山嵐</a>「COLORS WATER」</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/8月17日.md" title="wikilink">8月17日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/8月17日.md" title="wikilink">8月17日</a></p></td>
 <td><p>GOOD MORNIN' GOOD ROLLIN' / <a href="../Page/佐藤竹善.md" title="wikilink">佐藤竹善</a> &amp; SOFFet with No Name Hourse</p></td>
 <td><p>佐藤竹善 &amp; SOFFet with No Name Hourse「GOOD MORNIN' GOOD ROLLIN'」</p></td>
 </tr>
@@ -472,7 +472,7 @@ feat. GooF from SOFFet <SMOOTH RAP version></p></td>
 <td><p>コーラス（SOFFet）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/11月16日" title="wikilink">11月16日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/11月16日" title="wikilink">11月16日</a></p></td>
 <td><p>believin’</p></td>
 <td><p><a href="../Page/CHEMISTRY.md" title="wikilink">CHEMISTRY</a>「<a href="https://ja.wikipedia.org/wiki/fo(u)r" title="wikilink">fo(u)r</a>」</p></td>
 <td><p>作詞（SOFFet）</p></td>
@@ -506,7 +506,7 @@ feat. GooF from SOFFet <SMOOTH RAP version></p></td>
   - デビュー前の「変態マスター」は、地元や友達にしか配られていない、CDに収録されているのとは違う内容の[MDが存在する](../Page/ミニディスク.md "wikilink")。
   - FMラジオ局[NACK5で毎週土曜](../Page/エフエムナックファイブ.md "wikilink")24時からオンエア中の『[JAPANESE DREAM](https://ja.wikipedia.org/wiki/JAPANESE_DREAM "wikilink")』で行われる[ランキング](https://ja.wikipedia.org/wiki/ランキング "wikilink")で、シングル**『人生一度』**が[2003年](../Page/2003年.md "wikilink")[11月](../Page/11月.md "wikilink")度月間グランプリを獲得した。この番組では一ヶ月間にリリースされる[J-POP](../Page/J-POP.md "wikilink")のシングルを1曲も余さず全てオン・エアし、その曲の中から[投票](../Page/投票.md "wikilink")によってランキングを決定しているので、[2003年](../Page/2003年.md "wikilink")[11月](../Page/11月.md "wikilink")発売の全てのシングルの頂点に立ったといえる。
   - この**『人生一度』**は初登場で[オリコン](../Page/オリコンチャート.md "wikilink")44位だったものの、その後12週に渡ってチャートインし、ロングヒットを記録した。また、バラエティ番組[金持ちA様×貧乏B様とコラボレートし](../Page/おすぎとピーコの金持ちA様×貧乏B様.md "wikilink")、[北陽](../Page/北陽.md "wikilink")が出演するスペシャル[PVが作成された](https://ja.wikipedia.org/wiki/ミュージックビデオ "wikilink")。また、この曲の内容は、[サラリーマン](../Page/サラリーマン.md "wikilink")を馬鹿にしているのではないかという批判が起こり、掲示板などで話題となった。以来公式には「SOFFet流の[応援歌](../Page/応援歌.md "wikilink")だ」と弁明しているが、mp3で出回っているインディーズ時代のバージョンは、3番の歌詞が違い、サラリーマンへの[皮肉](https://ja.wikipedia.org/wiki/皮肉 "wikilink")なトーンが強い。「変態マスター」などの内容にもあてはまるが、10代の頃の彼らには「つまらんオヤジになりたくない」という意識が強かったように思われる。
-  - シングル『Private Beach』で「ひとつの楽曲で最多のバリエーションを持つPV」という記録で[ギネス](https://ja.wikipedia.org/wiki/ギネス "wikilink")申請をした。サビの部分で42パターンの[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")の若手芸人が出演している（通常版は[山本圭壱](https://ja.wikipedia.org/wiki/山本圭一 "wikilink")）。最終的にギネスに認定されたかどうかは不明。
+  - シングル『Private Beach』で「ひとつの楽曲で最多のバリエーションを持つPV」という記録で[ギネス](../Page/ギネス.md "wikilink")申請をした。サビの部分で42パターンの[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")の若手芸人が出演している（通常版は[山本圭壱](https://ja.wikipedia.org/wiki/山本圭一 "wikilink")）。最終的にギネスに認定されたかどうかは不明。
   - シングル**『へその緒』**の発売日である[6月8日](../Page/6月8日.md "wikilink")、**SOFFet**は[日本記念日協会](https://ja.wikipedia.org/wiki/日本記念日協会 "wikilink")にこの日を**『へその緒の日』**とするよう申請し、新たな[記念日](../Page/記念日.md "wikilink")が制定された。
   - 6月8日当日、[FMラジオ](https://ja.wikipedia.org/wiki/FMラジオ "wikilink")『[やまだひさしのラジアンリミテッドDX](../Page/やまだひさしのラジアンリミテッドDX.md "wikilink")』（[JFN](https://ja.wikipedia.org/wiki/JFN "wikilink")系/毎週月～木 25:00～27:00）と、[衛星放送](../Page/衛星放送.md "wikilink") [スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")『ゴゴイチ！』（毎週日曜 13:00～15:00）の人気2番組との合同企画で、[渋谷](../Page/渋谷.md "wikilink")J-POPカフェで**『へその緒の日』**イベントが開催された。
   - シングル『キグルミマスター』の歌詞は、移籍直前にワーナーにあてて書いた内容のようにも読めるが、真偽は不明。
@@ -514,28 +514,28 @@ feat. GooF from SOFFet <SMOOTH RAP version></p></td>
 
 ### タイアップ
 
-| 曲名                                                                                                   | タイアップ                                                                                                                               |
-| ---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| だらりぽっぽっぽ                                                                                             | [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[エンタ\!見たもん勝ち](../Page/エンタ!見たもん勝ち.md "wikilink")」エンディングテーマ               |
-| キグルミマスター                                                                                             | [シネカノン](../Page/シネカノン.md "wikilink")配給映画「転がれ\!たま子」イメージソング                                                                           |
-| TRIO the ROCK                                                                                        | フジテレビ系「[69★TRIBE ロック族](../Page/69★TRIBE_ロック族.md "wikilink")」エンディングテーマ                                                               |
-| Join the Party Tune                                                                                  |                                                                                                                                     |
-| Answer                                                                                               | [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")「[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")」POWER PLAY                  |
-| フジテレビ系「[志村けんのだいじょうぶだぁII](https://ja.wikipedia.org/wiki/志村けんのだいじょうぶだぁII "wikilink")」2008年3月度エンディングテーマ |                                                                                                                                     |
-| フジテレビ系「幸太郎Wキッチン」2008年3月度エンディングテーマ                                                                    |                                                                                                                                     |
-| Potato Chips                                                                                         | [ホンダ・クロスロード](../Page/ホンダ・クロスロード.md "wikilink")「クロスファクトリー『RAP×DIARY』」オリジナルソング                                                        |
-| 東京ホタル                                                                                                | 「NPOホタルの会」公認ソング                                                                                                                     |
-| [東京都水道局](../Page/東京都水道局.md "wikilink")「安全でおいしい水プロジェクト」応援ソング                                          |                                                                                                                                     |
-| 日本テレビ系「音楽戦士 MUSIC FIGHTER」POWER PLAY                                                                 |                                                                                                                                     |
-| スキナツ                                                                                                 | 日本テレビ系「[しゃべくり007](../Page/しゃべくり007.md "wikilink")」POWER PLAY                                                                        |
-| 「MUSIC B.B.」2008年8月度エンディングテーマ                                                                        |                                                                                                                                     |
-| 花                                                                                                    | [TBS系](../Page/TBSテレビ.md "wikilink")「[王様のブランチ](https://ja.wikipedia.org/wiki/王様のブランチ "wikilink")」12・1月度エンディングテーマ                    |
-| [札幌テレビ放送](../Page/札幌テレビ放送.md "wikilink")「WE\! TV」11月度オープニングテーマ                                       |                                                                                                                                     |
-| 蒼空バラッド                                                                                               | 日本テレビ系「音楽戦士 MUSIC FIGHTER」POWER PLAY                                                                                                |
-| JunkArtistic with Tokyo Junkastic Band                                                               | 高須クリニックCMソング                                                                                                                        |
-| More than I love you ～365のキセキ～ with [MAY'S](../Page/MAY'S.md "wikilink")                             | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系「[JAPAN COUNTDOWN](../Page/JAPAN_COUNTDOWN.md "wikilink")」2009年9月度オープニングテーマ |
-| The moment I saw you with [Sowelu](https://ja.wikipedia.org/wiki/Sowelu "wikilink")                  | [TBSラジオ](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")「[カキーン](https://ja.wikipedia.org/wiki/カキーン "wikilink")」コラボソング   |
-| Beautiful Smile ～NO MUSIC, NO LIFE.～                                                                 | 高須クリニックCMソング                                                                                                                        |
+| 曲名                                                                                  | タイアップ                                                                                                                               |
+| ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| だらりぽっぽっぽ                                                                            | [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[エンタ\!見たもん勝ち](../Page/エンタ!見たもん勝ち.md "wikilink")」エンディングテーマ               |
+| キグルミマスター                                                                            | [シネカノン](../Page/シネカノン.md "wikilink")配給映画「転がれ\!たま子」イメージソング                                                                           |
+| TRIO the ROCK                                                                       | フジテレビ系「[69★TRIBE ロック族](../Page/69★TRIBE_ロック族.md "wikilink")」エンディングテーマ                                                               |
+| Join the Party Tune                                                                 |                                                                                                                                     |
+| Answer                                                                              | [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")「[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")」POWER PLAY                  |
+| フジテレビ系「[志村けんのだいじょうぶだぁII](../Page/志村けんのだいじょうぶだぁII.md "wikilink")」2008年3月度エンディングテーマ   |                                                                                                                                     |
+| フジテレビ系「幸太郎Wキッチン」2008年3月度エンディングテーマ                                                   |                                                                                                                                     |
+| Potato Chips                                                                        | [ホンダ・クロスロード](../Page/ホンダ・クロスロード.md "wikilink")「クロスファクトリー『RAP×DIARY』」オリジナルソング                                                        |
+| 東京ホタル                                                                               | 「NPOホタルの会」公認ソング                                                                                                                     |
+| [東京都水道局](../Page/東京都水道局.md "wikilink")「安全でおいしい水プロジェクト」応援ソング                         |                                                                                                                                     |
+| 日本テレビ系「音楽戦士 MUSIC FIGHTER」POWER PLAY                                                |                                                                                                                                     |
+| スキナツ                                                                                | 日本テレビ系「[しゃべくり007](../Page/しゃべくり007.md "wikilink")」POWER PLAY                                                                        |
+| 「MUSIC B.B.」2008年8月度エンディングテーマ                                                       |                                                                                                                                     |
+| 花                                                                                   | [TBS系](../Page/TBSテレビ.md "wikilink")「[王様のブランチ](https://ja.wikipedia.org/wiki/王様のブランチ "wikilink")」12・1月度エンディングテーマ                    |
+| [札幌テレビ放送](../Page/札幌テレビ放送.md "wikilink")「WE\! TV」11月度オープニングテーマ                      |                                                                                                                                     |
+| 蒼空バラッド                                                                              | 日本テレビ系「音楽戦士 MUSIC FIGHTER」POWER PLAY                                                                                                |
+| JunkArtistic with Tokyo Junkastic Band                                              | 高須クリニックCMソング                                                                                                                        |
+| More than I love you ～365のキセキ～ with [MAY'S](../Page/MAY'S.md "wikilink")            | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系「[JAPAN COUNTDOWN](../Page/JAPAN_COUNTDOWN.md "wikilink")」2009年9月度オープニングテーマ |
+| The moment I saw you with [Sowelu](https://ja.wikipedia.org/wiki/Sowelu "wikilink") | [TBSラジオ](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")「[カキーン](https://ja.wikipedia.org/wiki/カキーン "wikilink")」コラボソング   |
+| Beautiful Smile ～NO MUSIC, NO LIFE.～                                                | 高須クリニックCMソング                                                                                                                        |
 
 ## ミュージックビデオ
 

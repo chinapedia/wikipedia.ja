@@ -39,7 +39,7 @@
       - [スーパーマリオオデッセイ](https://ja.wikipedia.org/wiki/スーパーマリオオデッセイ "wikilink")（[2017年](../Page/2017年.md "wikilink")）
   - その他
       - [カードeリーダー+](https://ja.wikipedia.org/wiki/カードeリーダー+ "wikilink")（[2001年](../Page/2001年.md "wikilink")）
-      - [DS楽引辞典](../Page/DS楽引辞典.md "wikilink")（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")）
+      - [DS楽引辞典](../Page/DS楽引辞典.md "wikilink")（[2005年](../Page/2005年.md "wikilink")）
       - [ドンキーコング リターンズ](https://ja.wikipedia.org/wiki/ドンキーコング_リターンズ "wikilink")（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")）
 
 ## 大乱闘スマッシュブラザーズシリーズ

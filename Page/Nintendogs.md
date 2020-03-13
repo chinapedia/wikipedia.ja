@@ -1,7 +1,7 @@
 > この記事は[Nintendogs](https://ja.wikipedia.org/wiki/Nintendogs)から翻訳されています。
 
 
-『**nintendogs**』（ニンテンドッグス）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に[任天堂](../Page/任天堂.md "wikilink")より発売された[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用のソフトウェアである。続編として『**[nintendogs + cats](https://ja.wikipedia.org/wiki/nintendogs_+_cats "wikilink")**』が[ニンテンドー3DS](https://ja.wikipedia.org/wiki/ニンテンドー3DS "wikilink")の[ローンチタイトル](../Page/ローンチタイトル.md "wikilink")として[2011年](../Page/2011年.md "wikilink")[2月26日](../Page/2月26日.md "wikilink")に発売された。
+『**nintendogs**』（ニンテンドッグス）は、[2005年](../Page/2005年.md "wikilink")に[任天堂](../Page/任天堂.md "wikilink")より発売された[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用のソフトウェアである。続編として『**[nintendogs + cats](https://ja.wikipedia.org/wiki/nintendogs_+_cats "wikilink")**』が[ニンテンドー3DS](https://ja.wikipedia.org/wiki/ニンテンドー3DS "wikilink")の[ローンチタイトル](../Page/ローンチタイトル.md "wikilink")として[2011年](../Page/2011年.md "wikilink")[2月26日](../Page/2月26日.md "wikilink")に発売された。
 
 ## 概要
 
@@ -37,7 +37,7 @@
   - 隠し犬種（ジャック・ラッセルの本を入手すると飼えるようになる）
       - [ジャック・ラッセル・テリア](../Page/ジャック・ラッセル・テリア.md "wikilink")
   - 日本国外版のみに登場する犬種
-      - [ゴールデン・レトリバー](../Page/ゴールデン・レトリバー.md "wikilink")、[シベリアン・ハスキー](https://ja.wikipedia.org/wiki/シベリアン・ハスキー "wikilink")、[ボクサー](../Page/ボクサー_\(犬\).md "wikilink")、[ダルメシアン](../Page/ダルメシアン.md "wikilink")（隠し犬種）
+      - [ゴールデン・レトリバー](../Page/ゴールデン・レトリバー.md "wikilink")、[シベリアン・ハスキー](../Page/シベリアン・ハスキー.md "wikilink")、[ボクサー](../Page/ボクサー_\(犬\).md "wikilink")、[ダルメシアン](../Page/ダルメシアン.md "wikilink")（隠し犬種）
       - ※『ダルメシアン&フレンズ』では柴犬が隠し犬種（和柄カラーを手に入れると飼えるようになる）
 
 ## すれちがい通信

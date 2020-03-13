@@ -97,7 +97,7 @@ DC-7B型は、両大陸連絡便の北大西洋航路では航続距離不足が
   - [スカンジナビア航空](../Page/スカンジナビア航空.md "wikilink")・DC-7C型14機
   - [アリタリア航空](https://ja.wikipedia.org/wiki/アリタリア航空 "wikilink")・DC-7C型6機
   - [スイス航空](../Page/スイス航空.md "wikilink")・DC-7C型5機
-  - [南アフリカ航空](https://ja.wikipedia.org/wiki/南アフリカ航空 "wikilink")・DC-7B型4機
+  - [南アフリカ航空](../Page/南アフリカ航空.md "wikilink")・DC-7B型4機
   - [メキシカーナ航空](../Page/メキシカーナ航空.md "wikilink")・DC-7C型3機
   - [KLMオランダ航空](../Page/KLMオランダ航空.md "wikilink")・DC-7C型15機
   - [サベナ・ベルギー航空](../Page/サベナ・ベルギー航空.md "wikilink")・DC-7C型10機

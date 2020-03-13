@@ -33,7 +33,7 @@
   - 1994年　[泉川ピート](https://ja.wikipedia.org/wiki/泉川ピート "wikilink")
   - 1995年　[丸山智弘](https://ja.wikipedia.org/wiki/丸山智弘 "wikilink")
   - 1996年　[堀川昌利](https://ja.wikipedia.org/wiki/堀川昌利 "wikilink")
-  - 1997年　[細川和彦](https://ja.wikipedia.org/wiki/細川和彦 "wikilink")
+  - 1997年　[細川和彦](../Page/細川和彦.md "wikilink")
   - 1998年　[河村雅之](https://ja.wikipedia.org/wiki/河村雅之 "wikilink")
   - 1999年　[伊沢利光](../Page/伊沢利光.md "wikilink")
   - 2000年　[白潟英純](https://ja.wikipedia.org/wiki/白潟英純 "wikilink")

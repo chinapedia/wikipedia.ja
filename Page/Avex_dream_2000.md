@@ -27,7 +27,7 @@
 
 1.  [浜田春菜](https://ja.wikipedia.org/wiki/HΛLNA "wikilink")（はまだ はるな、19歳 [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")） - [HΛLNA](https://ja.wikipedia.org/wiki/HΛLNA "wikilink")として[HΛL](../Page/HΛL.md "wikilink")に加入 ※
 2.  河本奈津子（かわもと なつこ、20歳 [大阪府](../Page/大阪府.md "wikilink")） - 奈津子としてソロCDデビュー （女優の[奈津子](../Page/奈津子.md "wikilink")とは別人）
-3.  [浅見優子](../Page/浅見ユウコ.md "wikilink")（あさみ ゆうこ、17歳 [埼玉県](../Page/埼玉県.md "wikilink")） - [ユウコとして](../Page/浅見ユウコ.md "wikilink")[YeLLOW Generationを結成](https://ja.wikipedia.org/wiki/YeLLOW_Generation "wikilink")
+3.  [浅見優子](../Page/浅見ユウコ.md "wikilink")（あさみ ゆうこ、17歳 [埼玉県](../Page/埼玉県.md "wikilink")） - [ユウコとして](../Page/浅見ユウコ.md "wikilink")[YeLLOW Generationを結成](../Page/YeLLOW_Generation.md "wikilink")
 4.  降矢智美（ふるや ともみ、19歳 [山梨県](../Page/山梨県.md "wikilink")） - TOMOMIとしてキーヤキッスを結成 ※
 5.  中尾友香（なかお ゆか、17歳 [広島県](../Page/広島県.md "wikilink")）
 6.  津崎雪江（つざき ゆきみ、18歳 [鹿児島県](../Page/鹿児島県.md "wikilink")） - YUKIMI としてキーヤキッスを結成 ※
@@ -61,7 +61,7 @@
 15人が合格。オーディションCMには当時エイベックスのレッスン生だった[阿部絵里恵](https://ja.wikipedia.org/wiki/阿部絵里恵 "wikilink")（後に[Dream](../Page/Dream_\(音楽ユニット\).md "wikilink")）が出演。
 
   - [瀧本美織](https://ja.wikipedia.org/wiki/瀧本美織 "wikilink")を含む5名で[SweetS](https://ja.wikipedia.org/wiki/SweetS "wikilink")を結成。
-  - [宇野実彩子](../Page/宇野実彩子.md "wikilink")が[AAAに加入](https://ja.wikipedia.org/wiki/AAA_\(音楽グループ\) "wikilink")。
+  - [宇野実彩子](../Page/宇野実彩子.md "wikilink")が[AAAに加入](../Page/AAA_\(音楽グループ\).md "wikilink")。
   - [高橋優がファッションモデルに](../Page/高橋ユウ.md "wikilink")。
   - [佐藤鮎美が](../Page/YU-A.md "wikilink")[Foxxi misQを結成](https://ja.wikipedia.org/wiki/Foxxi_misQ "wikilink")。後にソロデビュー。
   - [宮脇詩音](../Page/宮脇詩音.md "wikilink")が歌手デビュー。
@@ -71,7 +71,7 @@
 11人が合格。
 
   - [伊藤千晃](../Page/伊藤千晃.md "wikilink")がAAAに加入。
-  - [木内梨生奈](https://ja.wikipedia.org/wiki/木内梨生奈 "wikilink")、[細田羅夢](https://ja.wikipedia.org/wiki/細田羅夢 "wikilink")が[てれび戦士](https://ja.wikipedia.org/wiki/てれび戦士 "wikilink")に。
+  - [木内梨生奈](../Page/木内梨生奈.md "wikilink")、[細田羅夢](https://ja.wikipedia.org/wiki/細田羅夢 "wikilink")が[てれび戦士](https://ja.wikipedia.org/wiki/てれび戦士 "wikilink")に。
 
 ### avex audition 2006
 

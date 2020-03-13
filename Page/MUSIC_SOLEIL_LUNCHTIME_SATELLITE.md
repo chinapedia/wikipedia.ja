@@ -14,7 +14,7 @@
 ## DJ
 
   - 月・火　[冨永晃道](https://ja.wikipedia.org/wiki/冨永晃道 "wikilink")　
-  - 水・木　[永松ケンシ](https://ja.wikipedia.org/wiki/永松ケンシ "wikilink")
+  - 水・木　[永松ケンシ](../Page/永松ケンシ.md "wikilink")
 
 <!-- end list -->
 
@@ -56,7 +56,7 @@
       - 12:10頃のPart1は相談内容の紹介、12:50頃のPart2ではリスナーからのアドバイスを紹介する。バレンタインの時期にはバレンタイン向上委員会と題してやっている。後枠[LUNCH BREAK☆STYLEでも同じようなコーナーが放送される予定](../Page/LUNCH_BREAK☆STYLE.md "wikilink")。
   - みちひのワンポイント風水(月曜日)
       - 2006年4月より[LUNCH BREAK☆STYLE月曜日で放送される](../Page/LUNCH_BREAK☆STYLE.md "wikilink")。
-  - [フタバ図書TERAエンタメリサーチ](https://ja.wikipedia.org/wiki/フタバ図書TERAエンタメリサーチ "wikilink")(火・水曜日)
+  - [フタバ図書TERAエンタメリサーチ](../Page/フタバ図書TERAエンタメリサーチ.md "wikilink")(火・水曜日)
       - 2006年4月からは[庄司悟のリクエスト魂](../Page/庄司悟のリクエスト魂.md "wikilink")内で放送される。
   - マンスリーレコメンド
       - 2005年3月まではフタバ図書TERAエンタメリサーチ内のコーナーだった

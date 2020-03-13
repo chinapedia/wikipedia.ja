@@ -81,7 +81,7 @@
 <td><p>4月25日</p></td>
 <td><p>立ちはだかる父</p></td>
 <td><p>岡嶋国敏</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/須田正己" title="wikilink">須田正己</a></p></td>
+<td><p><a href="../Page/須田正己.md" title="wikilink">須田正己</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

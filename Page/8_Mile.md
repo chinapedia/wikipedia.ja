@@ -19,7 +19,7 @@
   - アレックス - [ブリタニー・マーフィ](../Page/ブリタニー・マーフィ.md "wikilink")（[魏涼子](../Page/魏涼子.md "wikilink")）
   - ステファニー・スミス - [キム・ベイシンガー](../Page/キム・ベイシンガー.md "wikilink")（[小金澤篤子](https://ja.wikipedia.org/wiki/小金澤篤子 "wikilink")）
   - リリー・スミス - [クロエ・グリーンフィールド](https://ja.wikipedia.org/wiki/クロエ・グリーンフィールド "wikilink")
-  - デヴィッド・“フューチャー”・ポーター - [メキ・ファイファー](https://ja.wikipedia.org/wiki/メキ・ファイファー "wikilink")（[江川央生](../Page/江川央生.md "wikilink")）
+  - デヴィッド・“フューチャー”・ポーター - [メキ・ファイファー](../Page/メキ・ファイファー.md "wikilink")（[江川央生](../Page/江川央生.md "wikilink")）
   - チェダー・ボブ - [エヴァン・ジョーンズ](https://ja.wikipedia.org/wiki/エヴァン・ジョーンズ_\(俳優\) "wikilink")（[小森創介](../Page/小森創介.md "wikilink")）
   - ソル・ジョージ - [オマー・ベンソン・ミラー](https://ja.wikipedia.org/wiki/オマー・ベンソン・ミラー "wikilink")（[奈良徹](../Page/奈良徹.md "wikilink")）
   - ウィンク - [ユージン・バード](https://ja.wikipedia.org/wiki/ユージン・バード "wikilink")（[伊藤健太郎](../Page/伊藤健太郎_\(声優\).md "wikilink")）

@@ -7,9 +7,9 @@
 
 主に[女性](../Page/女性.md "wikilink")を対象とした生活情報を中心とした[トーク](https://ja.wikipedia.org/wiki/トーク "wikilink")と[音楽](../Page/音楽.md "wikilink")とで構成される番組であった。2000年4月のナビゲーター交代並びに放送時間短縮を機に、コンセプトはそのままに、コーナーや内包番組等内容を大幅にリニューアルした。
 
-タイムテーブル上の放送開始は9時とされているが、クリスが前の時間帯の[J-WAVE GOOD MORNING TOKYOのナビゲーターである](https://ja.wikipedia.org/wiki/J-WAVE_GOOD_MORNING_TOKYO "wikilink")[別所哲也](../Page/別所哲也.md "wikilink")（2006年9月までは[ジョン・カビラ](../Page/ジョン・カビラ.md "wikilink")）と喋りながら番組を繋いでいく[クロストーク](https://ja.wikipedia.org/wiki/クロストーク "wikilink")をしているため、定刻どおりに番組が始まることはあまりなかった。
+タイムテーブル上の放送開始は9時とされているが、クリスが前の時間帯の[J-WAVE GOOD MORNING TOKYOのナビゲーターである](../Page/J-WAVE_GOOD_MORNING_TOKYO.md "wikilink")[別所哲也](../Page/別所哲也.md "wikilink")（2006年9月までは[ジョン・カビラ](../Page/ジョン・カビラ.md "wikilink")）と喋りながら番組を繋いでいく[クロストーク](https://ja.wikipedia.org/wiki/クロストーク "wikilink")をしているため、定刻どおりに番組が始まることはあまりなかった。
 
-長い間、同時間帯に放送中の[NACK5の](../Page/エフエムナックファイブ.md "wikilink")[NACK WITH YOUとは激しい聴取率](../Page/NACK_WITH_YOU.md "wikilink")1位争いを展開していたが、2009年3月26日にNACK WITH YOUが放送終了。聴取率争いにピリオドを打った。（共に同時期に放送を開始して10年以上続く[長寿番組となっていた](https://ja.wikipedia.org/wiki/長寿番組の一覧 "wikilink")。）
+長い間、同時間帯に放送中の[NACK5の](../Page/エフエムナックファイブ.md "wikilink")[NACK WITH YOUとは激しい聴取率](../Page/NACK_WITH_YOU.md "wikilink")1位争いを展開していたが、2009年3月26日にNACK WITH YOUが放送終了。聴取率争いにピリオドを打った。（共に同時期に放送を開始して10年以上続く[長寿番組となっていた](../Page/長寿番組の一覧.md "wikilink")。）
 
 ## 放送時間
 
@@ -24,7 +24,7 @@
 
   - [海老原由佳](https://ja.wikipedia.org/wiki/海老原由佳 "wikilink")（月曜-木曜・1997年4月-2000年3月30日、金曜・1998年4月-2000年3月31日）
   - [永井美奈子](https://ja.wikipedia.org/wiki/永井美奈子 "wikilink")（金曜のみ・1997年4月-1998年3月）
-  - [クリス智子](https://ja.wikipedia.org/wiki/クリス智子 "wikilink")（2000年4月3日-2010年9月30日）
+  - [クリス智子](../Page/クリス智子.md "wikilink")（2000年4月3日-2010年9月30日）
 
 <!-- end list -->
 
@@ -140,7 +140,7 @@
 <!-- end list -->
 
   -
-    [TOKIO HOT 100の最新チャートの紹介](https://ja.wikipedia.org/wiki/TOKIO_HOT_100 "wikilink")。のちに[VIVA\! ACCESS](../Page/VIVA!_ACCESS.md "wikilink")→[M+(MUSIC PLUS)内での放送となったが](../Page/MUSIC_PLUS.md "wikilink")、現在は再びI A.M.→[POP UP\!](https://ja.wikipedia.org/wiki/POP_UP! "wikilink")→[STEP ONEにて同時間帯での放送となっている](https://ja.wikipedia.org/wiki/STEP_ONE "wikilink")。当時は、[クリス・ペプラー](../Page/クリス・ペプラー.md "wikilink")ではなくナビゲーターによる紹介であった。
+    [TOKIO HOT 100の最新チャートの紹介](../Page/TOKIO_HOT_100.md "wikilink")。のちに[VIVA\! ACCESS](../Page/VIVA!_ACCESS.md "wikilink")→[M+(MUSIC PLUS)内での放送となったが](../Page/MUSIC_PLUS.md "wikilink")、現在は再びI A.M.→[POP UP\!](https://ja.wikipedia.org/wiki/POP_UP! "wikilink")→[STEP ONEにて同時間帯での放送となっている](https://ja.wikipedia.org/wiki/STEP_ONE "wikilink")。当時は、[クリス・ペプラー](../Page/クリス・ペプラー.md "wikilink")ではなくナビゲーターによる紹介であった。
 
 <!-- end list -->
 

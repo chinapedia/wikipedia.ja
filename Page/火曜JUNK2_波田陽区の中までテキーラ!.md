@@ -1,11 +1,11 @@
 > この記事は[JUNK2 !](https://ja.wikipedia.org/wiki/JUNK2_!)から翻訳されています。
 
 
-**火曜JUNK2 波田陽区の中までテキーラ\!**（かようジャンクツー はたようくのなかまでテキーラ\!）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")4月〜[2006年](../Page/2006年.md "wikilink")9月まで、[TBSラジオを](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")に[JRN系列各局で毎週火曜](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")27:00〜28:00（水曜3:00〜4:00）に[深夜放送](../Page/深夜放送.md "wikilink")されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[波田陽区](../Page/波田陽区.md "wikilink")。
+**火曜JUNK2 波田陽区の中までテキーラ\!**（かようジャンクツー はたようくのなかまでテキーラ\!）は、[2005年](../Page/2005年.md "wikilink")4月〜[2006年](../Page/2006年.md "wikilink")9月まで、[TBSラジオを](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")に[JRN系列各局で毎週火曜](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")27:00〜28:00（水曜3:00〜4:00）に[深夜放送](../Page/深夜放送.md "wikilink")されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[波田陽区](../Page/波田陽区.md "wikilink")。
 
 ## 概要
 
-  - 放送開始は[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月5日](../Page/4月5日.md "wikilink")（[4月6日](../Page/4月6日.md "wikilink")未明）で、2006年[9月26日](../Page/9月26日.md "wikilink")（[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")未明）の放送をもって最終回を迎えた。放送回数は77回。
+  - 放送開始は[2005年](../Page/2005年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")（[4月6日](../Page/4月6日.md "wikilink")未明）で、2006年[9月26日](../Page/9月26日.md "wikilink")（[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")未明）の放送をもって最終回を迎えた。放送回数は77回。
   - 番組名の由来は波田陽区の中の部分まで知る事が出来るという事から（これは2005年12月19日放送の[笑い飯のトランジスタラジオくん](https://ja.wikipedia.org/wiki/笑い飯のトランジスタラジオくん "wikilink")で明かされた）。
   - 1週間に届く[葉書](https://ja.wikipedia.org/wiki/葉書 "wikilink")・メールの合計数が700件を超える。謎の[放送作家](../Page/放送作家.md "wikilink")・通称**うさぎちゃん**もスタジオにいて笑っている。
   - 放送開始時から録音放送が主であるが、2006年4月分の放送は生放送で放送した。

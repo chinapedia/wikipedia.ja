@@ -5,7 +5,7 @@
 
 ## 業績
 
-日本での英語教育の経験から、[E・V・ゲイテンビー](https://ja.wikipedia.org/wiki/E・V・ゲイテンビー "wikilink")と[H・ウェイクフィールド](https://ja.wikipedia.org/wiki/H・ウェイクフィールド "wikilink")と共に、外国語として英語を学ぶ者のための全く新しい辞書の編纂に取り組む。これは単一の言語しか解さない人のための[英英辞典](https://ja.wikipedia.org/wiki/英英辞典 "wikilink")としては最初のものである。[1940年](../Page/1940年.md "wikilink")に完成し、[1942年](../Page/1942年.md "wikilink")に「The Idiomatic and Syntactic English Dictionary」（略称ISED、現在の日本名「新英英大辞典」）という書名の下に東京で出版された。[1939年](../Page/1939年.md "wikilink")にホーンビーは日本を離れ、ブリティッシュ・カウンシルの仕事を始める。
+日本での英語教育の経験から、[E・V・ゲイテンビー](https://ja.wikipedia.org/wiki/E・V・ゲイテンビー "wikilink")と[H・ウェイクフィールド](https://ja.wikipedia.org/wiki/H・ウェイクフィールド "wikilink")と共に、外国語として英語を学ぶ者のための全く新しい辞書の編纂に取り組む。これは単一の言語しか解さない人のための[英英辞典](../Page/英英辞典.md "wikilink")としては最初のものである。[1940年](../Page/1940年.md "wikilink")に完成し、[1942年](../Page/1942年.md "wikilink")に「The Idiomatic and Syntactic English Dictionary」（略称ISED、現在の日本名「新英英大辞典」）という書名の下に東京で出版された。[1939年](../Page/1939年.md "wikilink")にホーンビーは日本を離れ、ブリティッシュ・カウンシルの仕事を始める。
 
 戦後、英語教育部門の編集者になり、1948年に彼の辞書が再度校訂を加えて、[オックスフォード大学出版局](https://ja.wikipedia.org/wiki/オックスフォード大学出版局 "wikilink")から、「[Oxford Advanced Learner's Dictionary](../Page/オックスフォード現代英英辞典.md "wikilink")」（略称OALD）のタイトルで復刊される。これは出版事業としては破格の成功を収める。ホーンビーは日本人を相手に英語を教えていた経験を持つので、これらの辞書は日本人にとって使いやすいとされる。
 

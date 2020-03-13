@@ -18,9 +18,9 @@ Navelのデビュー作である本作品は、他社の作品に埋もれない
 
 結果、マンネリ感が言われるようになったアダルトゲーム界に新風を起こし、[2004年](../Page/2004年.md "wikilink")のアダルトゲーム年間セールスにおいて『[Fate/stay night](https://ja.wikipedia.org/wiki/Fate/stay_night "wikilink")』、『[CLANNAD](https://ja.wikipedia.org/wiki/CLANNAD_\(ゲーム\) "wikilink")』に次いで3位を記録し、Navelはデビュー作にして人気アダルトゲームブランドに名を連ねるに至った\[1\]。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")から[WOWOW](../Page/WOWOW.md "wikilink")（ノンスクランブル）にて[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")が放送された\[2\]。
+[2005年](../Page/2005年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")から[WOWOW](../Page/WOWOW.md "wikilink")（ノンスクランブル）にて[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")が放送された\[2\]。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月20日](../Page/10月20日.md "wikilink")に[角川書店](../Page/角川書店.md "wikilink")より、新規OPムービー・OPソング\[3\]と、麻弓＝タイムおよびカレハルート・カレハの妹「ツボミ」が追加された[PlayStation 2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『SHUFFLE\! ON THE STAGE』（シャッフル オン ザ ステージ）が[CEROレーティング](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")15歳以上対象で発売された。
+[2005年](../Page/2005年.md "wikilink")[10月20日](../Page/10月20日.md "wikilink")に[角川書店](../Page/角川書店.md "wikilink")より、新規OPムービー・OPソング\[3\]と、麻弓＝タイムおよびカレハルート・カレハの妹「ツボミ」が追加された[PlayStation 2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『SHUFFLE\! ON THE STAGE』（シャッフル オン ザ ステージ）が[CEROレーティング](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")15歳以上対象で発売された。
 
 スピンオフ作品として、ネリネEND後を描いた『[Tick\! Tack\!](../Page/Tick!_Tack!.md "wikilink")』、楓END後を描いた『[Really? Really\!](../Page/Really?_Really!.md "wikilink")』が発売されている。
 
@@ -43,7 +43,7 @@ Navelのデビュー作である本作品は、他社の作品に埋もれない
   - 2004年[12月17日](../Page/12月17日.md "wikilink") - 『SHUFFLE\!』Standard Edition発売。\[8\]
       -
         付属特典無し。パッケージはメインヒロイン5人だが、デザインは異なる。ゲーム内容に変更無し。生産終了。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月16日](../Page/9月16日.md "wikilink") - ネリネEND後を描いたスピンオフ作品『[Tick\! Tack\!](../Page/Tick!_Tack!.md "wikilink")』発売。
+  - [2005年](../Page/2005年.md "wikilink")[9月16日](../Page/9月16日.md "wikilink") - ネリネEND後を描いたスピンオフ作品『[Tick\! Tack\!](../Page/Tick!_Tack!.md "wikilink")』発売。
       -
         セージ、アイ、サイネリアが初登場。
   - 2005年[10月20日](../Page/10月20日.md "wikilink") - [PS2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『SHUFFLE\! ON THE STAGE』発売。\[9\]
@@ -97,7 +97,7 @@ Navelのデビュー作である本作品は、他社の作品に埋もれない
 ゲームで語られている内容をまとめているが、一部『Tick\! Tack\!』『Really? Really\!』で判明した内容も含んでいる。神界と魔界の関係など、『SHUFFLE\! Essence+』で新たに加えられた設定もある。
 
   - 神界（しんかい）
-    神族が住む、「魔法」によって支配された世界。[王政で](https://ja.wikipedia.org/wiki/君主制 "wikilink")、現在の神王はユーストマ。[貴族](https://ja.wikipedia.org/wiki/貴族 "wikilink")階級が存在する。魔法が発達しているため、科学については遅れている。
+    神族が住む、「魔法」によって支配された世界。[王政で](https://ja.wikipedia.org/wiki/君主制 "wikilink")、現在の神王はユーストマ。[貴族](../Page/貴族.md "wikilink")階級が存在する。魔法が発達しているため、科学については遅れている。
     神族の外見は人間とほとんど変わらないが、長い耳が特徴である。神族は魔力を持っており、魔法を使うことができる。魔法は攻撃系よりも回復系のほうが得意とするものが多い。魔力の大きさや使える魔法は、その人の能力により異なっている。神王の配下には修繕魔法部隊が存在し、建物が全壊しても元通りにすることができる。言葉は人間と異なるが、テレパシー系の翻訳呪文で通じる。
     神族は元々女性が中心であった。現在でも男性は全体の3割程度と少ないこともあり、[一夫多妻制](../Page/一夫多妻制.md "wikilink")である。神界に籍を移し、神界で結婚式を挙げれば、神族でなくても複数の妻を持つことができる。そのためか神界では、一人の男の人を好きになった女の子は友達同士になり、喧嘩することは滅多にない。また神族にとって、キスは死ぬまで一緒にいる人に捧げるという誓約である。
   - 魔界（まかい）
@@ -144,7 +144,7 @@ Navelのデビュー作である本作品は、他社の作品に埋もれない
   - 背景美術・CG監修
       - 斉藤陽子
   - スクリプト
-      - [王雀孫](https://ja.wikipedia.org/wiki/王雀孫 "wikilink") (SH)
+      - [王雀孫](../Page/王雀孫.md "wikilink") (SH)
       - 移植部：尾上尚志 / オリジナル：王雀孫 (PS2)
       - 森林彬 (SHES)
   - プログラム
@@ -397,5 +397,5 @@ Navelより発売
 16. あごバリアは、SH発売時点での所属は[ういんどみる](../Page/ういんどみる.md "wikilink")であった。発売後、[Navel](../Page/Navel.md "wikilink")へ移籍している。
 17. 『SHUFFLE\! ファーストファンブック』、[ソフトバンクパブリッシング](https://ja.wikipedia.org/wiki/ソフトバンクパブリッシング "wikilink")、2004年、31頁。
 18. 『SHUFFLE\!ビジュアルファンブック』、[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")、2004年、134頁。
-19. Navel×Lantis インターネットラジオ [ねぶら](https://ja.wikipedia.org/wiki/ねぶら "wikilink") 第95回 西又葵談。
+19. Navel×Lantis インターネットラジオ [ねぶら](../Page/ねぶら.md "wikilink") 第95回 西又葵談。
 20. [안녕하세요? 디시뉴스입니다.](https://web.archive.org/web/20070729071806/http://www.dcnews.in/news_list.php?code=ahh&id=235370)（インターネットアーカイブ2007年7月29日分キャッシュ）

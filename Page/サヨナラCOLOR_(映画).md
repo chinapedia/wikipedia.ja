@@ -31,7 +31,7 @@
   - 高校生の正平：[三東康太郎](https://ja.wikipedia.org/wiki/三東康太郎 "wikilink")　
   - ホームの女（韮崎）：[伊佐山ひろ子](../Page/伊佐山ひろ子.md "wikilink")
   - 花江：[原ひさ子](../Page/原ひさ子.md "wikilink")
-  - 売店店員（小板橋）：[片桐はいり](https://ja.wikipedia.org/wiki/片桐はいり "wikilink")
+  - 売店店員（小板橋）：[片桐はいり](../Page/片桐はいり.md "wikilink")
   - 三枝医師：[半海一晃](../Page/半海一晃.md "wikilink")
   - 野本医師：[大森南朋](../Page/大森南朋.md "wikilink")
   - 聖子の店の客A：[三宅伸治](../Page/三宅伸治.md "wikilink")

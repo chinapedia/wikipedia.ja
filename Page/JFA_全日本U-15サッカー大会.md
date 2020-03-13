@@ -13,9 +13,9 @@
 
 [Fukushima_j-village_stadium.jpg](https://ja.wikipedia.org/wiki/File:Fukushima_j-village_stadium.jpg "fig:Fukushima_j-village_stadium.jpg")\]\] 参加資格は日本サッカー協会に登録された[第3種チームであり](https://ja.wikipedia.org/wiki/日本サッカー協会チーム登録種別#第3種 "wikilink")、[2000年](../Page/2000年.md "wikilink")からは女子チームも出場資格を得た。これに加えて、選手は開催年1月1日現在で14歳未満（いわゆるU-14）でなければならない。全国9地域の予選を勝ち抜いた9チームに加え、普及枠と呼ばれる2チーム分の枠を毎年持ち回りで2地域に配分、さらに前年度優勝チームを輩出した地域に1枠を与え、計12チームで全国大会を行った。なお、[Jヴィレッジ](../Page/Jヴィレッジ.md "wikilink")で開催されていた。
 
-中学3年生の多数は出場できない点が[高円宮杯や](https://ja.wikipedia.org/wiki/高円宮杯_JFA_全日本U-15サッカー選手権大会 "wikilink")[全国中学校体育大会](../Page/全国中学校体育大会.md "wikilink")（[全国中学校サッカー大会](../Page/全国中学校サッカー大会.md "wikilink")）との違いである。
+中学3年生の多数は出場できない点が[高円宮杯や](../Page/高円宮杯_JFA_全日本U-15サッカー選手権大会.md "wikilink")[全国中学校体育大会](../Page/全国中学校体育大会.md "wikilink")（[全国中学校サッカー大会](../Page/全国中学校サッカー大会.md "wikilink")）との違いである。
 
-なお、本大会はナイキ協賛の世界大会であるナイキプレミアカップ（[2003年](../Page/2003年.md "wikilink")から[マンチェスター・ユナイテッド・プレミアカップ](https://ja.wikipedia.org/wiki/マンチェスター・ユナイテッド・プレミアカップ "wikilink")に改称）の国内予選を兼ねており、優勝チームが世界大会への出場権を得る。これは[国際サッカー連盟](../Page/国際サッカー連盟.md "wikilink")の主催ではないが、ジュニアユース年代にとって唯一の世界大会である。なお、世界大会の出場資格はU-15であり、中学3年生も出場可能となる。
+なお、本大会はナイキ協賛の世界大会であるナイキプレミアカップ（[2003年](../Page/2003年.md "wikilink")から[マンチェスター・ユナイテッド・プレミアカップ](../Page/マンチェスター・ユナイテッド・プレミアカップ.md "wikilink")に改称）の国内予選を兼ねており、優勝チームが世界大会への出場権を得る。これは[国際サッカー連盟](../Page/国際サッカー連盟.md "wikilink")の主催ではないが、ジュニアユース年代にとって唯一の世界大会である。なお、世界大会の出場資格はU-15であり、中学3年生も出場可能となる。
 
 ### 2011年 - 2018年
 
@@ -105,7 +105,7 @@
 </tr>
 <tr class="odd">
 <td><p>9</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
 <td><p><strong><a href="../Page/クマガヤサッカースポーツクラブ.md" title="wikilink">クマガヤサッカースポーツクラブ</a></strong></p></td>
 <td><p><strong>4 - 1</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/大分トリニータ" title="wikilink">大分トリニータ</a>U-15</p></td>
@@ -358,7 +358,7 @@
 
 ## 関連項目
 
-  - [マンチェスター・ユナイテッド・プレミアカップ](https://ja.wikipedia.org/wiki/マンチェスター・ユナイテッド・プレミアカップ "wikilink")
+  - [マンチェスター・ユナイテッド・プレミアカップ](../Page/マンチェスター・ユナイテッド・プレミアカップ.md "wikilink")
 
 ## 外部リンク
 

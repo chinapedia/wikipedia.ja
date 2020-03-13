@@ -234,13 +234,13 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a><a href="https://ja.wikipedia.org/wiki/4月16日" title="wikilink">4月16日</a> - <a href="../Page/10月2日.md" title="wikilink">10月2日</a>（全22回）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a><a href="../Page/4月16日.md" title="wikilink">4月16日</a> - <a href="../Page/10月2日.md" title="wikilink">10月2日</a>（全22回）</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2011年.md" title="wikilink">2011年</a><a href="https://ja.wikipedia.org/wiki/4月16日" title="wikilink">4月16日</a> - <a href="../Page/10月1日.md" title="wikilink">10月1日</a>（全14回）</p></td>
+<td><p><a href="../Page/2011年.md" title="wikilink">2011年</a><a href="../Page/4月16日.md" title="wikilink">4月16日</a> - <a href="../Page/10月1日.md" title="wikilink">10月1日</a>（全14回）</p></td>
 <td></td>
 <td></td>
 <td></td>

@@ -12,7 +12,7 @@
   - [梅島三環子](../Page/梅島三環子.md "wikilink")
   - [木下瑠音](https://ja.wikipedia.org/wiki/木下瑠音 "wikilink")
   - [水上明子](https://ja.wikipedia.org/wiki/水上明子 "wikilink")
-  - [出射由佳](https://ja.wikipedia.org/wiki/出射由佳 "wikilink")
+  - [出射由佳](../Page/出射由佳.md "wikilink")
   - [佐藤亜樹](../Page/佐藤亜樹.md "wikilink")
   - 武石裕子（タレント）
   - [山田基行](../Page/山田基行.md "wikilink")（フリーアナウンサー）\[1\]
@@ -27,7 +27,7 @@
 
 ## 放送時間
 
-番組は、特別な事情がない限りは以下の時間帯に放送。このほか、本放送翌日の未明（[番組表](https://ja.wikipedia.org/wiki/番組表 "wikilink")上では本放送当日の深夜）にも[再放送](https://ja.wikipedia.org/wiki/再放送 "wikilink")される。
+番組は、特別な事情がない限りは以下の時間帯に放送。このほか、本放送翌日の未明（[番組表](https://ja.wikipedia.org/wiki/番組表 "wikilink")上では本放送当日の深夜）にも[再放送](../Page/再放送.md "wikilink")される。
 
 ### MiMiよりマーケット
 
@@ -57,7 +57,7 @@
 | 5月30日 - 6月18日 | ○                                                                                   | この間、木曜 - 土曜のみが定期放送となる。                       |   |                                                                                                                     |                                                                                       |   |    |
 | 6月20日 - 7月2日  | ○                                                                                   | この間、水曜 - 土曜のみが定期放送となる。                       |   |                                                                                                                     |                                                                                       |   |    |
 
-平日版の休止期間中には、直前枠の番組『[知りたがり\!](https://ja.wikipedia.org/wiki/知りたがり! "wikilink")』の[関東ローカル](https://ja.wikipedia.org/wiki/関東ローカル "wikilink")パート（11:25以降）が代替放送されていた。この間、通常時にはネットしない[関東地方](https://ja.wikipedia.org/wiki/関東地方 "wikilink")の天気予報も伝えられた。
+平日版の休止期間中には、直前枠の番組『[知りたがり\!](https://ja.wikipedia.org/wiki/知りたがり! "wikilink")』の[関東ローカル](../Page/関東ローカル.md "wikilink")パート（11:25以降）が代替放送されていた。この間、通常時にはネットしない[関東地方](https://ja.wikipedia.org/wiki/関東地方 "wikilink")の天気予報も伝えられた。
 
 サタデーの休止期間中には、上記一覧に挙げた番組が代替放送されていた。震災翌日の3月12日には、仙台放送が終日[報道特別番組](../Page/報道特別番組.md "wikilink")を放送していたことから代替番組の放送はなかった。
 

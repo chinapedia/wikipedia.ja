@@ -8,7 +8,7 @@
   - [可逆圧縮](../Page/可逆圧縮.md "wikilink")
   - [インターネット](../Page/インターネット.md "wikilink")で広く使われている圧縮形式
   - 圧縮は比較的高速、伸長（元に戻すこと/展開）は非常に高速。ただし、[LZWなどと比べると計算量は多い](../Page/Lempel–Ziv–Welch.md "wikilink")。
-  - 特許問題：[LZ77](https://ja.wikipedia.org/wiki/LZ77 "wikilink")には色々な会社・人物が特許を取っていた。[zlib](https://ja.wikipedia.org/wiki/zlib "wikilink")の実装においては、特許を回避するように注意深く実装された。保証されておらず、かつ、議論もあったが[特許](https://ja.wikipedia.org/wiki/特許 "wikilink")にかかわる[アルゴリズム](../Page/アルゴリズム.md "wikilink")は全て回避できたと考えられている。また、開発当初は問題となった特許も現在では大半は有効期限が切れた。
+  - 特許問題：[LZ77](https://ja.wikipedia.org/wiki/LZ77 "wikilink")には色々な会社・人物が特許を取っていた。[zlib](https://ja.wikipedia.org/wiki/zlib "wikilink")の実装においては、特許を回避するように注意深く実装された。保証されておらず、かつ、議論もあったが[特許](../Page/特許.md "wikilink")にかかわる[アルゴリズム](../Page/アルゴリズム.md "wikilink")は全て回避できたと考えられている。また、開発当初は問題となった特許も現在では大半は有効期限が切れた。
 
 日本人により考案された[LHA](../Page/LHA.md "wikilink")とほぼ同じアルゴリズムを使う。
 

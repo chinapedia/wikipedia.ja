@@ -1,7 +1,7 @@
 > この記事は[DANCE 86.4 FUNKY RADIO STATION](https://ja.wikipedia.org/wiki/DANCE_86.4_FUNKY_RADIO_STATION)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Dance864cabinet.jpg "wikilink") 『**DANCE 86.4 FUNKY RADIO STATION**』（**ダンスやろーよ ファンキーラジオステーション**）は[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[6月23日](../Page/6月23日.md "wikilink")に[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")（後の[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")）が発売した[BEMANIシリーズ](../Page/BEMANIシリーズ.md "wikilink")の[音楽シミュレーションのアーケードゲームである](../Page/音楽ゲーム.md "wikilink")。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Dance864cabinet.jpg "wikilink") 『**DANCE 86.4 FUNKY RADIO STATION**』（**ダンスやろーよ ファンキーラジオステーション**）は[2005年](../Page/2005年.md "wikilink")[6月23日](../Page/6月23日.md "wikilink")に[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")（後の[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")）が発売した[BEMANIシリーズ](../Page/BEMANIシリーズ.md "wikilink")の[音楽シミュレーションのアーケードゲームである](../Page/音楽ゲーム.md "wikilink")。
 
 同社の『[Dance Dance Revolution](https://ja.wikipedia.org/wiki/Dance_Dance_Revolution "wikilink")』（以下『DDR』）と同様、「ダンスステージ」を模したアーケードマシンであるが、入力デバイス（足でふむ）は1人あたり3つしかないなど、『[Toy'sMarch](../Page/Toy'sMarch.md "wikilink")』同様、小さな子供を対象の中心にしていると思われる。 楽曲は『Toy'sMarch』やナムコ（後の[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")）の『[太鼓の達人](../Page/太鼓の達人.md "wikilink")』と同じく、J-POPなどの邦楽のヒット曲が中心である。
 

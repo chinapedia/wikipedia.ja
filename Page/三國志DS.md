@@ -1,9 +1,9 @@
 > この記事は[DS](https://ja.wikipedia.org/wiki/DS)から翻訳されています。
 
 
-『**三國志DS**』（さんごくしディーエス）は、[コーエー](../Page/コーエー.md "wikilink")（現・[コーエーテクモゲームス](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")）より発売された[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用[歴史シミュレーションゲーム](../Page/歴史シミュレーションゲーム.md "wikilink")。「[三國志シリーズ](https://ja.wikipedia.org/wiki/三國志シリーズ "wikilink")」の1つ。
+『**三國志DS**』（さんごくしディーエス）は、[コーエー](../Page/コーエー.md "wikilink")（現・[コーエーテクモゲームス](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")）より発売された[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用[歴史シミュレーションゲーム](../Page/歴史シミュレーションゲーム.md "wikilink")。「[三國志シリーズ](../Page/三國志シリーズ.md "wikilink")」の1つ。
 
-当初は[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月29日](../Page/9月29日.md "wikilink")に発売する予定であったが、発売3週間前に発売日が急遽変更、その後も変更を繰り返し、最終的に[2006年](../Page/2006年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")となった。
+当初は[2005年](../Page/2005年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")に発売する予定であったが、発売3週間前に発売日が急遽変更、その後も変更を繰り返し、最終的に[2006年](../Page/2006年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")となった。
 
 なお本項では、本作がベースとなっている『**三國志2**（3DS版）』についても併せて記述する。
 

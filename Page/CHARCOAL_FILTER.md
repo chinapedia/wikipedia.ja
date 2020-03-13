@@ -1,7 +1,7 @@
 > この記事は[CHARCOAL FILTER](https://ja.wikipedia.org/wiki/CHARCOAL_FILTER)から翻訳されています。
 
 
-**CHARCOAL FILTER**（チャコールフィルター）は、[小名川高弘](https://ja.wikipedia.org/wiki/小名川高弘 "wikilink")・[大塚雄三](https://ja.wikipedia.org/wiki/大塚雄三 "wikilink")・[安井佑輝](https://ja.wikipedia.org/wiki/安井佑輝 "wikilink")・[高野真太郎](https://ja.wikipedia.org/wiki/高野真太郎 "wikilink")からなる[4ピース](../Page/四人組.md "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。所属事務所は[POWERPOP & Co.で](https://ja.wikipedia.org/wiki/パワーポップアンドカンパニー "wikilink")、最終所属レコード会社は[日本クラウン](../Page/日本クラウン.md "wikilink")。[2002年](../Page/2002年.md "wikilink")から[2004年](../Page/2004年.md "wikilink")までは[亀田誠治](../Page/亀田誠治.md "wikilink")に[プロデュースされていた](../Page/音楽プロデューサー.md "wikilink")。
+**CHARCOAL FILTER**（チャコールフィルター）は、[小名川高弘](../Page/小名川高弘.md "wikilink")・[大塚雄三](../Page/大塚雄三.md "wikilink")・[安井佑輝](../Page/安井佑輝.md "wikilink")・[高野真太郎](../Page/高野真太郎.md "wikilink")からなる[4ピース](../Page/四人組.md "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。所属事務所は[POWERPOP & Co.で](https://ja.wikipedia.org/wiki/パワーポップアンドカンパニー "wikilink")、最終所属レコード会社は[日本クラウン](../Page/日本クラウン.md "wikilink")。[2002年](../Page/2002年.md "wikilink")から[2004年](../Page/2004年.md "wikilink")までは[亀田誠治](../Page/亀田誠治.md "wikilink")に[プロデュースされていた](../Page/音楽プロデューサー.md "wikilink")。
 
 2007年7月解散。
 
@@ -23,10 +23,10 @@
 
 ソロ活動やプロフィール、エピソードなどはそれぞれの項目を参照
 
-  - **[小名川高弘](https://ja.wikipedia.org/wiki/小名川高弘 "wikilink")** (こながわ たかひろ、[1979年](../Page/1979年.md "wikilink")[11月30日](../Page/11月30日.md "wikilink") - )：リーダー、[ギター](../Page/ギター.md "wikilink")
-  - **[大塚雄三](https://ja.wikipedia.org/wiki/大塚雄三 "wikilink")** (おおつか ゆうぞう、[1979年](../Page/1979年.md "wikilink")[8月27日](../Page/8月27日.md "wikilink") - )：[ヴォーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
-  - **[安井佑輝](https://ja.wikipedia.org/wiki/安井佑輝 "wikilink")** (やすい ゆうき、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[3月5日](../Page/3月5日.md "wikilink") - )：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
-  - **[高野真太郎](https://ja.wikipedia.org/wiki/高野真太郎 "wikilink")** (たかの しんたろう、[1979年](../Page/1979年.md "wikilink")[10月20日](../Page/10月20日.md "wikilink") - )：[ドラム](../Page/ドラムセット.md "wikilink")
+  - **[小名川高弘](../Page/小名川高弘.md "wikilink")** (こながわ たかひろ、[1979年](../Page/1979年.md "wikilink")[11月30日](../Page/11月30日.md "wikilink") - )：リーダー、[ギター](../Page/ギター.md "wikilink")
+  - **[大塚雄三](../Page/大塚雄三.md "wikilink")** (おおつか ゆうぞう、[1979年](../Page/1979年.md "wikilink")[8月27日](../Page/8月27日.md "wikilink") - )：[ヴォーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
+  - **[安井佑輝](../Page/安井佑輝.md "wikilink")** (やすい ゆうき、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[3月5日](../Page/3月5日.md "wikilink") - )：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
+  - **[高野真太郎](../Page/高野真太郎.md "wikilink")** (たかの しんたろう、[1979年](../Page/1979年.md "wikilink")[10月20日](../Page/10月20日.md "wikilink") - )：[ドラム](../Page/ドラムセット.md "wikilink")
 
 ## 曲のクレジット
 
@@ -632,7 +632,7 @@
 
 ## 関連項目
 
-  - [大塚明](../Page/大塚明.md "wikilink") - [千葉ロッテマリーンズ](../Page/千葉ロッテマリーンズ.md "wikilink")の[外野手](../Page/外野手.md "wikilink")。[2005年](../Page/2005年.md "wikilink")シーズン時、ヒッティングマーチ（打席に入る際のテーマ曲）として「[Brand-New Myself ～僕にできること](https://ja.wikipedia.org/wiki/Brand-New_Myself_～僕にできること "wikilink")」を使用。但しメンバーと面識はなく、メンバーは自分達の曲が使用されていることをファンに教えられて知った。また、この年はロッテが[日本シリーズを制しており](../Page/日本選手権シリーズ.md "wikilink")、[パ・リーグの](https://ja.wikipedia.org/wiki/パシフィック・リーグ "wikilink")[プレーオフや](../Page/プレーオフ制度_\(日本プロ野球\).md "wikilink")、[阪神タイガース](../Page/阪神タイガース.md "wikilink")との[日本シリーズなどの大きな試合の際にも](https://ja.wikipedia.org/wiki/2005年の日本シリーズ "wikilink")、球場で同曲が流れていた。また、引退セレモニーで流された映像にも同曲が使われていた。
+  - [大塚明](../Page/大塚明.md "wikilink") - [千葉ロッテマリーンズ](../Page/千葉ロッテマリーンズ.md "wikilink")の[外野手](../Page/外野手.md "wikilink")。[2005年](../Page/2005年.md "wikilink")シーズン時、ヒッティングマーチ（打席に入る際のテーマ曲）として「[Brand-New Myself ～僕にできること](https://ja.wikipedia.org/wiki/Brand-New_Myself_～僕にできること "wikilink")」を使用。但しメンバーと面識はなく、メンバーは自分達の曲が使用されていることをファンに教えられて知った。また、この年はロッテが[日本シリーズを制しており](../Page/日本選手権シリーズ.md "wikilink")、[パ・リーグの](https://ja.wikipedia.org/wiki/パシフィック・リーグ "wikilink")[プレーオフや](../Page/プレーオフ制度_\(日本プロ野球\).md "wikilink")、[阪神タイガース](../Page/阪神タイガース.md "wikilink")との[日本シリーズなどの大きな試合の際にも](../Page/2005年の日本シリーズ.md "wikilink")、球場で同曲が流れていた。また、引退セレモニーで流された映像にも同曲が使われていた。
   - [峰倉かずや](../Page/峰倉かずや.md "wikilink") - 漫画「[最遊記](https://ja.wikipedia.org/wiki/最遊記シリーズ "wikilink")」（アニメ「[幻想魔伝 最遊記](https://ja.wikipedia.org/wiki/最遊記シリーズ "wikilink")」の原作）の作者であり、「[Tightrope](https://ja.wikipedia.org/wiki/Tightrope_\(CHARCOAL_FILTERの曲\) "wikilink")」のジャケットを手掛け、大塚をモデルにした男性を描いた。
   - [The Nutty Radio Show 鬼玉](https://ja.wikipedia.org/wiki/The_Nutty_Radio_Show_鬼玉 "wikilink") - [NACK5の番組](../Page/エフエムナックファイブ.md "wikilink")。2003年9月に大塚が出演した際、「絶対売れる曲のタイトル」というお題で、次のタームで出す曲のタイトルを募集。多数の応募の中から大塚の独断で「苔と裸体」が選ばれ、翌年のアルバム『[CHARCOAL FILTER](https://ja.wikipedia.org/wiki/CHARCOAL_FILTER_\(アルバム\) "wikilink")』に「コケトラタイ」として収録された。「大人の口約束」で終わらなかったことを喜んだ[バカボン鬼塚](../Page/バカボン鬼塚.md "wikilink")（番組パーソナリティ）が、自らが所属するバンド[かかしとの対バンを申し出](../Page/かかし_\(フォークバンド\).md "wikilink")、メンバーも快諾。2006年末のカウントダウンイベントで実現した。また、2004年9月の出演時には「ライヴのメンバー紹介で、ヴォーカルを紹介する際のフレーズ」を募集。その時に採用された「声出すだけでボロ儲け、ヴォーカルの大塚です\!」は、翌月の渋谷公会堂でのライヴ（"Re:HOME"）で、実際に大塚が使用した。
   - [日テレ・ベレーザ](https://ja.wikipedia.org/wiki/日テレ・ベレーザ "wikilink") - 「[one Days](https://ja.wikipedia.org/wiki/one_Days "wikilink")」のPVに出演した女子サッカークラブ。その縁で、[2004年](../Page/2004年.md "wikilink")シーズンには競技場でしばしばこの曲を流していた。

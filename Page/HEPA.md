@@ -31,7 +31,7 @@ HEPAフィルタの濾紙は主に直径1～10 µm以下のガラス繊維でで
 
 ### 空気清浄機フィルタ
 
-現在の主流となっているファン式[空気清浄機](https://ja.wikipedia.org/wiki/空気清浄機 "wikilink")のハイエンド機種にはHEPAフィルタを使ったものが多い。より高性能な[ULPA](https://ja.wikipedia.org/wiki/ULPA "wikilink")フィルタを採用したものも発売されたが、過剰性能のため、採用する機種は少なくなっている。
+現在の主流となっているファン式[空気清浄機](../Page/空気清浄機.md "wikilink")のハイエンド機種にはHEPAフィルタを使ったものが多い。より高性能な[ULPA](https://ja.wikipedia.org/wiki/ULPA "wikilink")フィルタを採用したものも発売されたが、過剰性能のため、採用する機種は少なくなっている。
 
 ### 家庭用掃除機フィルタ
 

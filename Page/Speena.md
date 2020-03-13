@@ -93,7 +93,7 @@
 <li>スピーナ (Instrumental) [5:02]</li>
 <li>LOVE POTION NO.69 (Instrumental) [4:11]</li>
 </ol></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オリコンチャート" title="wikilink">オリコン最高順位</a>89位</p></td>
+<td><p><a href="../Page/オリコンチャート.md" title="wikilink">オリコン最高順位</a>89位</p></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
@@ -432,7 +432,7 @@ AVCD-30267</p></td>
 <td><p>CTCR-16073</p></td>
 <td><ol>
 <li>マテリアル・ガール [3:55] produced by 小西康陽（原曲：<a href="https://ja.wikipedia.org/wiki/マドンナ_(歌手)" title="wikilink">マドンナ</a>）</li>
-<li>スペシャルボーイフレンド [5:03] produced by <a href="https://ja.wikipedia.org/wiki/石田ショーキチ" title="wikilink">石田ショーキチ</a>（原曲：<a href="../Page/GO-BANG&#39;S.md" title="wikilink">GO-BANG'S</a>）</li>
+<li>スペシャルボーイフレンド [5:03] produced by <a href="../Page/石田ショーキチ.md" title="wikilink">石田ショーキチ</a>（原曲：<a href="../Page/GO-BANG&#39;S.md" title="wikilink">GO-BANG'S</a>）</li>
 <li><a href="https://ja.wikipedia.org/wiki/トゥルー・カラーズ" title="wikilink">TRUE COLORS</a> [3:42] produced by 渡辺善太郎（原曲：<a href="https://ja.wikipedia.org/wiki/シンディー・ローパー" title="wikilink">シンディー・ローパー</a>）</li>
 <li><a href="https://ja.wikipedia.org/wiki/ガラスの林檎/SWEET_MEMORIES" title="wikilink">Sweet Memories</a> [4:06] produced by 渡辺善太郎（原曲：<a href="../Page/松田聖子.md" title="wikilink">松田聖子</a>）</li>
 <li>パレードしようよ [4:09] produced by 渡辺善太郎（原曲：<a href="../Page/プリンセス_プリンセス.md" title="wikilink">プリンセス プリンセス</a>）</li>
@@ -564,7 +564,7 @@ AVBD-91344</p></td>
 ## 関連項目
 
   - [sunny-side up](https://ja.wikipedia.org/wiki/sunny-side_up "wikilink")
-  - [石田ショーキチ](https://ja.wikipedia.org/wiki/石田ショーキチ "wikilink")
+  - [石田ショーキチ](../Page/石田ショーキチ.md "wikilink")
   - [鎌田雅人](../Page/鎌田雅人.md "wikilink")
   - [周防彰悟](../Page/周防彰悟.md "wikilink")
   - [田中隼人](https://ja.wikipedia.org/wiki/田中隼人 "wikilink")

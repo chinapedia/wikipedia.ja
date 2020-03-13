@@ -3,7 +3,7 @@
 
 **前頭のぶちかましRADIO**（**まえがしらのぶちかましラジオ**）は、2002年10月から2007年3月まで[中国放送](../Page/中国放送.md "wikilink")で放送されていた夜の[ラジオ番組](../Page/ラジオ番組.md "wikilink")。 毎週[月曜](https://ja.wikipedia.org/wiki/月曜 "wikilink")21:50～24:00に[生放送](../Page/生放送.md "wikilink")されていた。[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")、[maegashira](https://ja.wikipedia.org/wiki/maegashira "wikilink")の[ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")野上智行と[HIPPY](https://ja.wikipedia.org/wiki/HIPPY "wikilink")（[イシカワヒロキ](https://ja.wikipedia.org/wiki/HIPPY "wikilink")）。
 
-放送時間は[2004年](../Page/2004年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")までは毎週[日曜日](../Page/日曜日.md "wikilink")だったが、同年[8月2日](../Page/8月2日.md "wikilink")より[月曜日](../Page/月曜日.md "wikilink")に変更され、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")までは22:00からの放送だったが、[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から現在の21:50からの放送と10分拡大した。
+放送時間は[2004年](../Page/2004年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")までは毎週[日曜日](../Page/日曜日.md "wikilink")だったが、同年[8月2日](../Page/8月2日.md "wikilink")より[月曜日](../Page/月曜日.md "wikilink")に変更され、[2005年](../Page/2005年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")までは22:00からの放送だったが、[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から現在の21:50からの放送と10分拡大した。
 
 兄弟番組に[モノイイ](https://ja.wikipedia.org/wiki/モノイイ "wikilink")(土23:05～23:10)があったが、こちらも2007年3月31日をもって終了した。
 

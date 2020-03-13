@@ -24,7 +24,7 @@
       - [アスペクツ オブ ラブ](https://ja.wikipedia.org/wiki/アスペクツ・オブ・ラブ "wikilink") （5月3日 - 7月31日）
       - 劇団四季ソング&ダンス （8月17日 - 10月9日）
       - [スルース (探偵)](https://ja.wikipedia.org/wiki/スルース_\(探偵\) "wikilink") （10月15日 - 10月31日）
-      - [コーラスライン](https://ja.wikipedia.org/wiki/コーラスライン "wikilink") （11月6日 - 2000年3月20日）
+      - [コーラスライン](../Page/コーラスライン.md "wikilink") （11月6日 - 2000年3月20日）
   - [2000年](../Page/2000年.md "wikilink")
       - [ラ・ソヴァージュ（ノンという女）](https://ja.wikipedia.org/wiki/野生の女 "wikilink") （3月25日 - 4月13日）
       - ミュージカル李香蘭 （4月23日 - 6月18日）
@@ -54,7 +54,7 @@
       - [ジーザス・クライスト＝スーパースター エルサレムバージョン](https://ja.wikipedia.org/wiki/ジーザス・クライスト＝スーパースター_エルサレムバージョン "wikilink") （6月26日 - 8月1日）
       - [ジーザス・クライスト＝スーパースター ジャポネスクバージョン](https://ja.wikipedia.org/wiki/ジーザス・クライスト＝スーパースター_ジャポネスクバージョン "wikilink") （8月8日 - 8月29日）
       - [ミュージカル南十字星](../Page/ミュージカル南十字星.md "wikilink") （9月12日 - 2005年1月10日）
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
       - [エビータ](../Page/エビータ_\(ミュージカル\).md "wikilink") （1月27日 - 3月13日）
       - [夢から醒めた夢](../Page/夢から醒めた夢.md "wikilink") （3月21日 - 8月6日）
       - [ミュージカル李香蘭](../Page/ミュージカル李香蘭.md "wikilink") （8月14日 - 10月2日）
@@ -63,7 +63,7 @@
   - [2006年](../Page/2006年.md "wikilink")
       - [クレイジー・フォー・ユー](https://ja.wikipedia.org/wiki/クレイジー・フォー・ユー "wikilink") （2月17日 - 7月9日）
       - [エビータ](https://ja.wikipedia.org/wiki/エビータ "wikilink") （7月26日 - 9月18日）
-      - [コーラスライン](https://ja.wikipedia.org/wiki/コーラスライン "wikilink") （9月29日 - 11月12日）
+      - [コーラスライン](../Page/コーラスライン.md "wikilink") （9月29日 - 11月12日）
       - [中国文化フェスティバル](https://ja.wikipedia.org/wiki/中国文化フェスティバル "wikilink") （後述）
   - [2007年](../Page/2007年.md "wikilink")
       - コンタクト （1月6日 - 3月31日 ）
@@ -163,7 +163,7 @@
 2.
 3.
 4.  近隣の小学生を無料招待する公演
-5.  一般公演は[自由劇場で上演された](https://ja.wikipedia.org/wiki/JR東日本アートセンター自由劇場 "wikilink")（7月25日 - 8月23日）。
+5.  一般公演は[自由劇場で上演された](../Page/JR東日本アートセンター自由劇場.md "wikilink")（7月25日 - 8月23日）。
 6.  一般公演は自由劇場で上演された（7月23日 - 8月21日）
 7.  [【速報】海外新作ミュージカル『ノートルダムの鐘』、上演決定\!](http://www.shiki.jp/navi/news/renewinfo/027450.html) - 劇団四季最新ニュース、2016年2月29日
 8.  [JR東日本四季劇場こけら落とし公演決定！［春］『アナと雪の女王』／［秋］開場記念作品『劇団四季 The Bridge ～歌の架け橋～』『オペラ座の怪人』](https://www.shiki.jp/navi/news/renewinfo/032491.html) - 劇団四季最新ニュース、2019年10月25日

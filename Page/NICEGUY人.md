@@ -17,7 +17,7 @@
     MC担当。
   - NOVIGO
     MC担当。
-    [スズキから販売されている乗用車](../Page/スズキ_\(企業\).md "wikilink")『[スズキ・ソリオ](https://ja.wikipedia.org/wiki/スズキ・ソリオ "wikilink")』の[テレビコマーシャルにも出演](../Page/コマーシャルメッセージ.md "wikilink")。
+    [スズキから販売されている乗用車](../Page/スズキ_\(企業\).md "wikilink")『[スズキ・ソリオ](../Page/スズキ・ソリオ.md "wikilink")』の[テレビコマーシャルにも出演](../Page/コマーシャルメッセージ.md "wikilink")。
 
 ## 作品
 

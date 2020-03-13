@@ -1,7 +1,7 @@
 > この記事は[Apache Derby](https://ja.wikipedia.org/wiki/Apache_Derby)から翻訳されています。
 
 
-**Apache Derby**（アパッチ・ダービー）は、[IBM](../Page/IBM.md "wikilink")から寄贈された[Cloudscape](https://ja.wikipedia.org/wiki/Cloudscape "wikilink")の[ソースコード](../Page/ソースコード.md "wikilink")を元に、 [Apacheソフトウェア財団](https://ja.wikipedia.org/wiki/Apacheソフトウェア財団 "wikilink")によって[プログラムの開発が進められている](../Page/プログラム_\(コンピュータ\).md "wikilink")、[Java](https://ja.wikipedia.org/wiki/Java "wikilink")技術で実装された[RDBMSの](../Page/関係データベース管理システム.md "wikilink")[ソフトウェア](../Page/ソフトウェア.md "wikilink")。
+**Apache Derby**（アパッチ・ダービー）は、[IBM](../Page/IBM.md "wikilink")から寄贈された[Cloudscape](https://ja.wikipedia.org/wiki/Cloudscape "wikilink")の[ソースコード](../Page/ソースコード.md "wikilink")を元に、 [Apacheソフトウェア財団](../Page/Apacheソフトウェア財団.md "wikilink")によって[プログラムの開発が進められている](../Page/プログラム_\(コンピュータ\).md "wikilink")、[Java](https://ja.wikipedia.org/wiki/Java "wikilink")技術で実装された[RDBMSの](../Page/関係データベース管理システム.md "wikilink")[ソフトウェア](../Page/ソフトウェア.md "wikilink")。
 
 ## 歴史
 
@@ -9,7 +9,7 @@
     1997年: Cloudscape Inc. よりJBMSという名称でリリースされ、その後Cloudscapeと改名。
     1999年: Informix Software, Inc.により、Cloudscape Inc が買収される。
     2001年: [IBM](../Page/IBM.md "wikilink")が[Informix](../Page/Informix.md "wikilink")からCloudscapeを含むDBMSのソフトウェア資産を買収。IBM Cloudscapeとブランド名称が変更されリリースが続けられる。主に、IBM製品の組み込みDBMSとして使われる。
-    2004年: [IBM](../Page/IBM.md "wikilink")よりソースコードが[Apacheソフトウェア財団](https://ja.wikipedia.org/wiki/Apacheソフトウェア財団 "wikilink")に寄贈される。
+    2004年: [IBM](../Page/IBM.md "wikilink")よりソースコードが[Apacheソフトウェア財団](../Page/Apacheソフトウェア財団.md "wikilink")に寄贈される。
     2005年: incubationを卒業してApache DBのsubprojectとなる。
     [サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")がApache Derbyを基にしたJava DBを提供することを発表。
     2006年: サン・マイクロシステムズが[JDK](../Page/Java_Development_Kit.md "wikilink") 6にJava DBを同梱することを発表。

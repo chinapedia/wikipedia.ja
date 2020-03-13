@@ -5,7 +5,7 @@
 
 ## 概要・沿革
 
-[虫プロダクション](../Page/虫プロダクション.md "wikilink")（旧）出身の[音響監督](https://ja.wikipedia.org/wiki/音響監督 "wikilink")である[浦上靖夫](../Page/浦上靖夫.md "wikilink")が[1972年](../Page/1972年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")に創立した。当初は自社スタジオを持たず、他社のスタジオ（[整音スタジオ](../Page/メディアフォース.md "wikilink")、[アバコスタジオ](https://ja.wikipedia.org/wiki/早稲田奉仕園#アバコ（AVACO） "wikilink")、番町スタジオなど）を使用していたが、1981年に[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")に本社兼スタジオの「APUスタジオ」を構える。
+[虫プロダクション](../Page/虫プロダクション.md "wikilink")（旧）出身の[音響監督](../Page/音響監督.md "wikilink")である[浦上靖夫](../Page/浦上靖夫.md "wikilink")が[1972年](../Page/1972年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")に創立した。当初は自社スタジオを持たず、他社のスタジオ（[整音スタジオ](../Page/メディアフォース.md "wikilink")、[アバコスタジオ](https://ja.wikipedia.org/wiki/早稲田奉仕園#アバコ（AVACO） "wikilink")、番町スタジオなど）を使用していたが、1981年に[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")に本社兼スタジオの「APUスタジオ」を構える。
 
 [2003年](../Page/2003年.md "wikilink")にマルチオーディオスタジオ「**APU MEGURO STUDIO**（APU目黒スタジオ）」の完成に伴い、本社機能を移転。併せてロゴタイプを更新し、カタカナ表記の「オーディオ・プランニング・ユー」から英字表記「AUDIO PLANNING U」とクレジットされるようになった。
 
@@ -48,7 +48,7 @@
   - 浦上和子（浦上靖夫夫人で元取締役。故人）
   - [山田悦司](https://ja.wikipedia.org/wiki/山田悦司 "wikilink")（フリー転身後に死去）
   - [松浦典良](https://ja.wikipedia.org/wiki/松浦典良 "wikilink")（→株式会社「[現 GEN](https://ja.wikipedia.org/wiki/現 "wikilink")」設立後に死去）
-  - [井澤基](https://ja.wikipedia.org/wiki/井澤基 "wikilink")
+  - [井澤基](../Page/井澤基.md "wikilink")
   - 中戸川次男
   - [大城久典](https://ja.wikipedia.org/wiki/大城久典 "wikilink")
   - [小林克良](../Page/小林克良.md "wikilink")（→[トリニティサウンド](https://ja.wikipedia.org/wiki/トリニティサウンド "wikilink")代表取締役）

@@ -36,7 +36,7 @@
 
 ### 控訴審
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月29日](../Page/9月29日.md "wikilink")、[札幌高裁判決は](../Page/札幌高等裁判所.md "wikilink")、[性犯罪](../Page/性犯罪.md "wikilink")の可能性を否定し、一審同様に状況証拠から被告人の犯行と認定、控訴を[棄却](https://ja.wikipedia.org/wiki/棄却 "wikilink")した。被告人側は、最高裁に[上告](../Page/上告.md "wikilink")した。
+[2005年](../Page/2005年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")、[札幌高裁判決は](../Page/札幌高等裁判所.md "wikilink")、[性犯罪](../Page/性犯罪.md "wikilink")の可能性を否定し、一審同様に状況証拠から被告人の犯行と認定、控訴を[棄却](https://ja.wikipedia.org/wiki/棄却 "wikilink")した。被告人側は、最高裁に[上告](../Page/上告.md "wikilink")した。
 
 ### 上告審
 

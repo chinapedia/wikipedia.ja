@@ -7,7 +7,7 @@
 
 ボタンはアイコンと同様の、機能のグラフィカルな表現である。かなりのバリエーションがあり、全てに共通する特徴を挙げるのは難しいが、アイコンとの主な違いは
 
-  - [OSごと](../Page/オペレーティングシステム.md "wikilink")、[スキンごとに](https://ja.wikipedia.org/wiki/スキン_\(GUI\) "wikilink")[調和](https://ja.wikipedia.org/wiki/調和 "wikilink")のとれたデザインを持つ
+  - [OSごと](../Page/オペレーティングシステム.md "wikilink")、[スキンごとに](../Page/スキン_\(GUI\).md "wikilink")[調和](https://ja.wikipedia.org/wiki/調和 "wikilink")のとれたデザインを持つ
   - 固定配置であり、[ドラッグ操作で移動できない](../Page/ドラッグ・アンド・ドロップ.md "wikilink")
   - 単一[クリックあるいはタップで動作する](https://ja.wikipedia.org/wiki/ポイント・アンド・クリック "wikilink")
 

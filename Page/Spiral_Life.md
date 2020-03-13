@@ -983,7 +983,7 @@ UVBA-5001</p></td>
 <td><p>Polystar</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/1月26日" title="wikilink">1月26日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/1月26日" title="wikilink">1月26日</a></p></td>
 <td><p><strong>CARAMELBOX SOUNDBOOK OPENINGS～演劇集団キャラメルボックス・オープニング曲集～</strong></p></td>
 <td><p>MTCA-1017</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">

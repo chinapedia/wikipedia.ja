@@ -1,7 +1,7 @@
 > この記事は[Jealkb](https://ja.wikipedia.org/wiki/Jealkb)から翻訳されています。
 
 
-**jealkb**（ジュアルケービー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[ロックバンド](../Page/バンド_\(音楽\).md "wikilink")\[1\]。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、[ロンドンブーツ1号2号](../Page/ロンドンブーツ1号2号.md "wikilink")の[田村淳](../Page/田村淳.md "wikilink")を中心に結成された。
+**jealkb**（ジュアルケービー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[ロックバンド](../Page/バンド_\(音楽\).md "wikilink")\[1\]。[2005年](../Page/2005年.md "wikilink")、[ロンドンブーツ1号2号](../Page/ロンドンブーツ1号2号.md "wikilink")の[田村淳](../Page/田村淳.md "wikilink")を中心に結成された。
 
 ## 概要
 
@@ -19,9 +19,9 @@
 
 ### 結成
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")1月、正式にバンド結成。事務所を通して作詞、作曲活動を始める。
+[2005年](../Page/2005年.md "wikilink")1月、正式にバンド結成。事務所を通して作詞、作曲活動を始める。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")1月、**jeal.kb**結成。
+[2005年](../Page/2005年.md "wikilink")1月、**jeal.kb**結成。
 
 同年[4月6日](../Page/4月6日.md "wikilink")、GBワンマンライブにてオープニングACTを務める。jealkbの初ステージとなった。
 
@@ -118,17 +118,17 @@
 ### 正式メンバー
 
   - [haderu](../Page/田村淳.md "wikilink")
-    [ボーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") -）
+    [ボーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")（[2005年](../Page/2005年.md "wikilink") -）
     命名理由は「歯が出ているから」。[田村淳](../Page/田村淳.md "wikilink")（[ロンドンブーツ1号2号](../Page/ロンドンブーツ1号2号.md "wikilink")）の弟という設定。
     クセのある[ハスキーボイス](../Page/ハスキーボイス.md "wikilink")の歌声。ライブMCを進行を担当している。また、殆どの楽曲の作詞を担当する[作詞家](../Page/作詞家.md "wikilink")だが、インディーズ2ndの「恋傷」などの楽曲などを例に、作曲も担当することがある。高校時代からのバンド活動をしており、ボーカルの他にも稀にライブのパートチェンジでドラム、ギターを演奏することがある。
     よくメディアではjealkbを「ロンブー淳率いるバンド」と紹介されているが、リーダーはelsaである。とはいえ、バンドの精神的な主軸であり、企画進行をリードすることが多い。メンバー内で最もいたずら好きな性格で、よくdunchをイジる。
   - [elsa](https://ja.wikipedia.org/wiki/衛藤幸生 "wikilink")
-    [ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") -）
+    [ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")（[2005年](../Page/2005年.md "wikilink") -）
     命名理由は「名前を決めるときに置いてあったティッシュの名前」。[衛藤幸生](https://ja.wikipedia.org/wiki/衛藤幸生 "wikilink")（元[チープスープ](https://ja.wikipedia.org/wiki/チープスープ "wikilink")）の弟という設定。
     haderuと共にjealkbを結成した。バンドリーダーであり、殆どの楽曲の作曲を担当するメイン[コンポーザー](https://ja.wikipedia.org/wiki/コンポーザー "wikilink")でもある。また、曲によってはコーラスも担当する。元々は[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")やパンクが好きだったが、jealkbではロックを中心としながらジャンルレスな楽曲を制作している。ドラム以外にも一通りの楽器を演奏できるため、デモテープ制作ではかなりのレベルまで作り込むらしい。
     若い頃は短気だったらしいが、今は自他共に性格を「心優しい」という評価。元々はお笑いコンビを組んでいたが、2002年に解散して以降、jealkbとしての活動やプロデューサー業などを中心とする本職のミュージシャン。
   - [ediee](../Page/ニブンノゴ!.md "wikilink")
-    [ギター](../Page/ギター.md "wikilink")（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") -）
+    [ギター](../Page/ギター.md "wikilink")（[2005年](../Page/2005年.md "wikilink") -）
     命名理由は「絵がうまいから」。大川知英（[ニブンノゴ\!](../Page/ニブンノゴ!.md "wikilink")）の弟という設定。
     主にリードギターを担当するが、曲によってはコーラス、メインボーカルを担当する。天然のため常軌を逸した言動が多いゆえ、作曲した楽曲はどれも世界観が独特すぎると評価されている。その名の通り画才があり、グッズやジャケットのイラストやデザインを担当することも。
   - [sapoto](https://ja.wikipedia.org/wiki/sapoto "wikilink")
@@ -136,12 +136,12 @@
     命名理由は「サポートメンバーだったから」。本名は[櫛野啓介](https://ja.wikipedia.org/wiki/櫛野啓介 "wikilink")（くしのけいすけ）。
     メンバーで唯一、当初から職業ミュージシャン。edieeのギターの師匠でもある。結成後から楽曲制作においてのギターアレンジを手がけており、5thアルバムではプロデューサーを務めた。やがてライブでのサポートを担当するようになり、[2015年](../Page/2015年.md "wikilink")12月のライブ（夢路薔薇ノ誓2015）では、インフルエンザにかかってしまったedieeの替わりにメインギタリストとして演奏した。[2016年](../Page/2016年.md "wikilink")から正式メンバーとなる。
   - [dunch](../Page/じゃぴょん.md "wikilink")
-    [ベース](../Page/ベース_\(弦楽器\).md "wikilink")（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") -）
+    [ベース](../Page/ベース_\(弦楽器\).md "wikilink")（[2005年](../Page/2005年.md "wikilink") -）
     命名理由は「実家が団地だから」。桑折貴之（元[じゃぴょん](../Page/じゃぴょん.md "wikilink")）の弟という設定。
     [ムックの](../Page/MUCC.md "wikilink")[逹瑯](https://ja.wikipedia.org/wiki/逹瑯 "wikilink")によるヴィジュアル系ユニット「[カラス](https://ja.wikipedia.org/wiki/カラス_\(バンド\) "wikilink")」のメンバーでもある。ピック弾き。メンバー1の「イジラられキャラ」。わざと名前を間違えられたり、存在を忘れられるネタやミニコントが多い。またアルバム「AGAINST」収録のメンバーを一人一人紹介していく楽曲の「jealize」では一切、名前を紹介してもらえずに「東京重低音ツリー」や「名前なんだっけすみません！」と言われる始末になっている。
     常に金欠であり、現在でもバイト活動をしている。メンバーはメジャーデビューに消極的だったが、チャンスを無駄にしたくないという思いで積極的に推し、やがてそれが実現した。
   - [hideki](../Page/ニブンノゴ!.md "wikilink")
-    [アジテーター](https://ja.wikipedia.org/wiki/アジテーター "wikilink")（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") -）
+    [アジテーター](https://ja.wikipedia.org/wiki/アジテーター "wikilink")（[2005年](../Page/2005年.md "wikilink") -）
     命名理由は本名（hidenからhidekiに改名）。[森本英樹](https://ja.wikipedia.org/wiki/森本英樹 "wikilink")（[ニブンノゴ\!](../Page/ニブンノゴ!.md "wikilink")）の弟という設定。
     ライブでは振り付けを先導している。曲によってコーラス、デスボイス、ラップを使い分ける。バラード曲などでは音の出ないヴァイオリンでのパフォーマンスをすることもあった。YouTubeなどで自身の振り付けの映像を多数公開している。現在のメンバー内では唯一、楽器を演奏しないパートだが、少しならギターが演奏できるらしく、稀にライブのパートチェンジなどで披露する。
     10年間隠し子だった娘は、ジュアルネーム「musume」としてライブでダンスを披露していた。
@@ -151,12 +151,12 @@
 chaosとmoftoは本業のお笑い活動に専念するために、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月17日](../Page/4月17日.md "wikilink")のJCB HALL「異薔薇ノ未知」のライブをもって一時脱退。二人はこれを機に、お笑いコンビの[ギンナナ](https://ja.wikipedia.org/wiki/ギンナナ "wikilink")を結成し、芸人として一人前に売れたら再加入する予定であるとのこと。
 
   - [chaos](../Page/金成公信.md "wikilink")
-    [キーボード](../Page/キーボード_\(楽器\).md "wikilink")、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")）
+    [キーボード](../Page/キーボード_\(楽器\).md "wikilink")、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")（[2005年](../Page/2005年.md "wikilink") - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")）
     命名理由は「顔がすげーでかいから」。[金成公信](../Page/金成公信.md "wikilink")（元[ハローバイバイ](../Page/ハローバイバイ.md "wikilink")、現[ギンナナ](https://ja.wikipedia.org/wiki/ギンナナ "wikilink")）の弟という設定。
     サブヴォーカリストであり、大半の曲のコーラスを務める。また、音の出ないキーボードで常に両手を交互に交差する「クロス」と言うパフォーマンスをする。プロモーションやテレビ出演などでは、haderuの次に目立つようなキャラで、メンバー内でのミニコントではよく偉そうなキャラを演じていた。
     ヴィジュアル的特徴は、メガネとそれを支えるメガネチェーン。なおメガネには反射を防ぐためにレンズが入っていない。ジュアルネームの通り顔が大きいが、実はedieeのほうが大きいらしい。
   - [mofto](https://ja.wikipedia.org/wiki/ギンナナ "wikilink")
-    [ギター](../Page/ギター.md "wikilink")（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")）
+    [ギター](../Page/ギター.md "wikilink")（[2005年](../Page/2005年.md "wikilink") - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")）
     命名理由は「ももが太いから」。菊池健一（元ガラクタパンチ、現[ギンナナ](https://ja.wikipedia.org/wiki/ギンナナ "wikilink")）の弟という設定。
     主にサイドギターを担当するが、ギターソロを演奏することもあった。定番の挨拶は「おばんですぅ〜」。女形というキャラ設定上、普段からよく語尾に「アタイ」を付けていた。ヴィジュアル的特徴は、内股など女っぽさを意識したポーズ。
 
@@ -188,7 +188,7 @@ chaosとmoftoは本業のお笑い活動に専念するために、[2010年](htt
   - ちなみに、バンド結成時に牛丼屋で音楽性について相談していたとき、そこでかかっていたのがヴィジュアル系ロックバンド[Janne Da Arcの](../Page/Janne_Da_Arc.md "wikilink")「[ダイヤモンドヴァージン](../Page/ダイヤモンドヴァージン.md "wikilink")」という曲で、そのメロディのキラキラ感と独特な歌詞と世界観(実は[hyde](https://ja.wikipedia.org/wiki/hyde "wikilink")への愛の歌詞であった)に影響を受けたという話もある。後に日本武道館公演のライブにも訪れた。ボーカルの[yasu](https://ja.wikipedia.org/wiki/yasu "wikilink")([Acid Black Cherry](../Page/Acid_Black_Cherry.md "wikilink"))とは度々共演し、今でも交流があるようだ。
   - 結成当初、haderuとelsaは学生時代からバンド経験があったが、それ以外のメンバーはバンド経験がなく、全く楽器も弾けない初心者だった。そのため一通りの楽器を演奏できるリーダーのelsaからの指導を受け、遊びの延長線上として楽器の練習を始めた。この当時の映像はメジャー2ndアルバムの「Invade」の初回版BのDVDで公開されている\[6\]。最初はまだ楽器のパートが定まっていなかったが、学生時代にバンドの大会でベスト・ヴォーカリスト賞を受賞したhaderuは、当然のごとくヴォーカリストを担当することになり、その他のメンバーの楽器パートも徐々に定まってゆく。
   - 普通のバンドではインパクトが無いので、「メイクをする事で普段の自分とは違う自分になれる」という理由でヴィジュアル系を選んだ\[7\]。メンバーそれぞれ適当にヴィジュアル系っぽい名前を名乗ったことで、現在のジュアルネームとなった。
-  - 結成当初はバンド演奏を人にみせるつもりはなく、スタジオで練習したりメイクをしてビデオ撮影をしていただけだったが、elsaの友人である[水玉れっぷう隊](../Page/水玉れっぷう隊.md "wikilink")のアキを中心に構成されるバンド「[GB](https://ja.wikipedia.org/wiki/GB_\(バンド\) "wikilink")」が、ワンマンライブを開催することとなり、その際にjealkbがオープニングアクトとして誘われる。そこから大急ぎでオリジナル曲を制作する流れとなり、遊びの一線を超えた本格的なバンド活動がはじまる\[8\]。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月6日](../Page/4月6日.md "wikilink")、晴れてその[GBのワンマンライブにてオープニングACTをつとめ](https://ja.wikipedia.org/wiki/GB_\(バンド\) "wikilink")、これがjealkbの初ステージとなった。
+  - 結成当初はバンド演奏を人にみせるつもりはなく、スタジオで練習したりメイクをしてビデオ撮影をしていただけだったが、elsaの友人である[水玉れっぷう隊](../Page/水玉れっぷう隊.md "wikilink")のアキを中心に構成されるバンド「[GB](https://ja.wikipedia.org/wiki/GB_\(バンド\) "wikilink")」が、ワンマンライブを開催することとなり、その際にjealkbがオープニングアクトとして誘われる。そこから大急ぎでオリジナル曲を制作する流れとなり、遊びの一線を超えた本格的なバンド活動がはじまる\[8\]。[2005年](../Page/2005年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")、晴れてその[GBのワンマンライブにてオープニングACTをつとめ](https://ja.wikipedia.org/wiki/GB_\(バンド\) "wikilink")、これがjealkbの初ステージとなった。
   - メンバーが芸人であるがゆえに一時的な企画もののバンドだと思われることもあるが、メンバー曰く「ガチでやってる」「お笑いもバンドも人を楽しませることは一緒」という理念の元に活動を続けている\[9\]。
 
 ## 作品

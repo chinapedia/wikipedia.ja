@@ -9,7 +9,7 @@
 
 ## キャリア
 
-5歳の時に、父親であるダウニー・Sr.監督の『[Pound](https://ja.wikipedia.org/wiki/:en:Pound_\(film\) "wikilink")』（1970年）で[子役](https://ja.wikipedia.org/wiki/子役 "wikilink")として映画初出演。同監督作品に子役として数本出演した後、17歳でサンタモニカ高校を中退し俳優の道へ進む。『[ベイビー・イッツ・ユー](https://ja.wikipedia.org/wiki/:en:Baby_It's_You_\(film\) "wikilink")』（1983年）で本格的に映画デビュー。1985〜1986年には『[サタデー・ナイト・ライブ](https://ja.wikipedia.org/wiki/サタデー・ナイト・ライブ "wikilink")』出演。初主演映画となった『[ピックアップ・アーティスト](https://ja.wikipedia.org/wiki/:en:The_Pick-up_Artist_\(film\) "wikilink")』（1987年）、ドラッグ中毒の若者役を演じた『[レス・ザン・ゼロ](https://ja.wikipedia.org/wiki/レス・ザン・ゼロ "wikilink")』（1987年）などで注目を集め、[ブラット・パック](https://ja.wikipedia.org/wiki/ブラット・パック "wikilink")の一員として取り上げられるようになる。
+5歳の時に、父親であるダウニー・Sr.監督の『[Pound](https://ja.wikipedia.org/wiki/:en:Pound_\(film\) "wikilink")』（1970年）で[子役](https://ja.wikipedia.org/wiki/子役 "wikilink")として映画初出演。同監督作品に子役として数本出演した後、17歳でサンタモニカ高校を中退し俳優の道へ進む。『[ベイビー・イッツ・ユー](https://ja.wikipedia.org/wiki/:en:Baby_It's_You_\(film\) "wikilink")』（1983年）で本格的に映画デビュー。1985〜1986年には『[サタデー・ナイト・ライブ](../Page/サタデー・ナイト・ライブ.md "wikilink")』出演。初主演映画となった『[ピックアップ・アーティスト](https://ja.wikipedia.org/wiki/:en:The_Pick-up_Artist_\(film\) "wikilink")』（1987年）、ドラッグ中毒の若者役を演じた『[レス・ザン・ゼロ](https://ja.wikipedia.org/wiki/レス・ザン・ゼロ "wikilink")』（1987年）などで注目を集め、[ブラット・パック](../Page/ブラット・パック.md "wikilink")の一員として取り上げられるようになる。
 
 1992年公開の『[チャーリー](https://ja.wikipedia.org/wiki/チャーリー_\(映画\) "wikilink")』で喜劇王[チャーリー・チャップリン](https://ja.wikipedia.org/wiki/チャーリー・チャップリン "wikilink")を演じ、[英国アカデミー賞 主演男優賞を受賞](../Page/英国アカデミー賞_主演男優賞.md "wikilink")。また[アカデミー主演男優賞](../Page/アカデミー主演男優賞.md "wikilink")の候補となった。2000年にテレビシリーズ『[アリー my Love](../Page/アリー_my_Love.md "wikilink")』（第4シーズン）で[ゴールデングローブ賞](../Page/ゴールデングローブ賞.md "wikilink")助演男優賞（ミニシリーズ/テレビ映画部門）を受賞。2009年公開の『[シャーロック・ホームズ](https://ja.wikipedia.org/wiki/シャーロック・ホームズ_\(2009年の映画\) "wikilink")』の[シャーロック・ホームズ](../Page/シャーロック・ホームズ.md "wikilink")役で、[ゴールデングローブ賞 主演男優賞（ミュージカル・コメディ部門）を受賞](https://ja.wikipedia.org/wiki/ゴールデングローブ賞_主演男優賞_\(ミュージカル・コメディ部門\) "wikilink")。
 
@@ -74,7 +74,7 @@
   - 自らの逮捕歴や、過去の薬物問題を頻繁にジョークのネタにしており、『[シャーロック・ホームズ](https://ja.wikipedia.org/wiki/シャーロック・ホームズ_\(2009年の映画\) "wikilink")』のインタビューでは、「7%の溶解液（原作でホームズが常用している[コカイン](../Page/コカイン.md "wikilink")）は僕に言わせると薄すぎる」と語っている。\[41\]また次男エクストンの子育てについて「意識が朦朧としながらのおむつ替えは難しいからマリファナはやってない」と語っている。\[42\]
   - 薬物依存のリハビリ・プログラムの一環として始めた[詠春拳](../Page/詠春拳.md "wikilink")や[ヨーガ](../Page/ヨーガ.md "wikilink")などのレッスンを、克服した現在も続けている。また『シャーロック・ホームズ』の役作りとしてトレイシー・アンダーソン・メソッドを\[43\]、『[アイアンマン](https://ja.wikipedia.org/wiki/アイアンマン2 "wikilink")』の役作りとして、グレース・ソマトモーフィック・テクニック（GST）のレッスンをそれぞれ受けている\[44\]。
   - 引き取った2匹の捨て猫を溺愛しており、携帯には愛猫の写真が大量に収められている。2012年5月の『[エレンの部屋](https://ja.wikipedia.org/wiki/エレンの部屋 "wikilink")』(*The Ellen DeGeneres Show*) 出演時に、写真の一部をお茶の間にも披露した。\[45\]
-  - 2014年に始めた[Twitter](../Page/Twitter.md "wikilink")が、史上最速で100万フォロワーを獲得。世界記録保持者として[ギネス](https://ja.wikipedia.org/wiki/ギネス "wikilink")登録されることになった。\[46\]また2012年6月から2013年6月の間に7670万ドル（約81億4900万円）を稼いだとして、[トム・クルーズ](https://ja.wikipedia.org/wiki/トム・クルーズ "wikilink")と共に「年間で最も稼いだ映画俳優」のギネス世界記録入りを果たした。\[47\]
+  - 2014年に始めた[Twitter](../Page/Twitter.md "wikilink")が、史上最速で100万フォロワーを獲得。世界記録保持者として[ギネス](../Page/ギネス.md "wikilink")登録されることになった。\[46\]また2012年6月から2013年6月の間に7670万ドル（約81億4900万円）を稼いだとして、[トム・クルーズ](https://ja.wikipedia.org/wiki/トム・クルーズ "wikilink")と共に「年間で最も稼いだ映画俳優」のギネス世界記録入りを果たした。\[47\]
   - 500ドル（約5万3,500円）より高いものを買うときは、妻の許可が必要らしい。スーザン曰く「[中年の危機](https://ja.wikipedia.org/wiki/中年の危機 "wikilink")みたいなバカな買い物をしてもらっちゃ困るから電話して」とのことである。\[48\]
   - どこで撮影を行うことになっても、撮影所付近に借りた部屋に、自身の家具を持ち込み配置する癖がある。これは常に自分の生活空間を「我が家」のような感覚に保つためだそうである。\[49\]
   - 近年主演した大作では『シャーロック・ホームズ』が一番のお気に入りであるとしている。またヒーロー役が続いている現状を「需要がある限りは続けたいが、この状態がいつまでも続くとは思っていない。＜スーパーヒーロー時代＞が過ぎたら、妻と小規模な映画を作っていきたい」と述べている。\[50\]
@@ -366,7 +366,7 @@
 <em>In Dreams</em></p></td>
 <td><p>ヴィヴィアン・トンプソン</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/岩崎ひろし" title="wikilink">岩崎ひろし</a>（<a href="../Page/VHS.md" title="wikilink">VHS</a>版）<br />
+<td><p><a href="../Page/岩崎ひろし.md" title="wikilink">岩崎ひろし</a>（<a href="../Page/VHS.md" title="wikilink">VHS</a>版）<br />
 <a href="../Page/檀臣幸.md" title="wikilink">檀臣幸</a>（<a href="../Page/DVD.md" title="wikilink">DVD</a>版）</p></td>
 </tr>
 <tr class="even">
@@ -395,7 +395,7 @@
 </tr>
 <tr class="odd">
 <td><p>2000</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ワンダー・ボーイズ" title="wikilink">ワンダー・ボーイズ</a><br />
+<td><p><a href="../Page/ワンダー・ボーイズ.md" title="wikilink">ワンダー・ボーイズ</a><br />
 <em>Wonder Boys</em></p></td>
 <td><p>テリー・クラブツリー</p></td>
 <td></td>
@@ -410,7 +410,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ゴシカ" title="wikilink">ゴシカ</a><br />
+<td><p><a href="../Page/ゴシカ.md" title="wikilink">ゴシカ</a><br />
 <em>Gothika</em></p></td>
 <td><p>ピート・グレアム</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/スーザン・ダウニー" title="wikilink">スーザン・ダウニー</a>（当時はレヴィン名義）プロデュース作品</p></td>
@@ -722,7 +722,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1985–1986</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サタデー・ナイト・ライブ" title="wikilink">サタデー・ナイト・ライブ</a><br />
+<td><p><a href="../Page/サタデー・ナイト・ライブ.md" title="wikilink">サタデー・ナイト・ライブ</a><br />
 <em>Saturday Night Live</em></p></td>
 <td><p>本人</p></td>
 <td></td>

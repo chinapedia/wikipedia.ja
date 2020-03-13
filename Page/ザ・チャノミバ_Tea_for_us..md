@@ -3,7 +3,7 @@
 
 『**ザ・チャノミバ Tea for us.**』（ザ・チャノミバ ティー・フォー・アス）は、[TBSラジオ](../Page/TBSラジオ.md "wikilink")で放送されていた[トーク番組](../Page/トーク番組.md "wikilink")。[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[コピーライター](../Page/コピーライター.md "wikilink")の[糸井重里](../Page/糸井重里.md "wikilink")。
 
-[2004年](../Page/2004年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")放送開始。同年[9月26日](../Page/9月26日.md "wikilink")までは毎週[日曜日](../Page/日曜日.md "wikilink")の22:00-22:30の30分番組で、同年[10月5日](../Page/10月5日.md "wikilink")より[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで『[おとなの時間割](../Page/おとなの時間割.md "wikilink")』枠に組み込まれ毎週[火曜日](../Page/火曜日.md "wikilink")の21:00-22:00の1時間番組として放送された。
+[2004年](../Page/2004年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")放送開始。同年[9月26日](../Page/9月26日.md "wikilink")までは毎週[日曜日](../Page/日曜日.md "wikilink")の22:00-22:30の30分番組で、同年[10月5日](../Page/10月5日.md "wikilink")より[2005年](../Page/2005年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで『[おとなの時間割](../Page/おとなの時間割.md "wikilink")』枠に組み込まれ毎週[火曜日](../Page/火曜日.md "wikilink")の21:00-22:00の1時間番組として放送された。
 
 糸井が各界からゲストを招き、2週に渡りいっさい段取りや進行を省いてゲストと一対一でとりとめもない「茶飲み話」をするというのが番組コンセプト。糸井の主宰しているサイト「[ほぼ日刊イトイ新聞](../Page/ほぼ日刊イトイ新聞.md "wikilink")」とタイアップしており、トークのダイジェストは今でもサイトで読むことができる。
 

@@ -11,7 +11,7 @@
 
 バージョン1からバージョン3までは立て続けにバージョンアップが図られ、幾度か大胆な機能強化や仕様変更がおこなわれた。[2007年](../Page/2007年.md "wikilink")には初のユーザーによるクローズド[ベータテストを行い](../Page/ベータ版.md "wikilink")、[9月28日](../Page/9月28日.md "wikilink")にWindows版バージョン4を発売。Macintosh版は[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月26日](../Page/9月26日.md "wikilink")の発売であった。
 
-また[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")12月には、ComicStudio 3.0が北米で**Manga Studio**の名で発売された（販売元は[イーフロンティア](../Page/イーフロンティア.md "wikilink")のアメリカ法人）。[2012年](../Page/2012年.md "wikilink")までに、北米やヨーロッパ、オセアニアにおいて、18万ライセンスが出荷された\[1\]。
+また[2005年](../Page/2005年.md "wikilink")12月には、ComicStudio 3.0が北米で**Manga Studio**の名で発売された（販売元は[イーフロンティア](../Page/イーフロンティア.md "wikilink")のアメリカ法人）。[2012年](../Page/2012年.md "wikilink")までに、北米やヨーロッパ、オセアニアにおいて、18万ライセンスが出荷された\[1\]。
 
 [2012年](../Page/2012年.md "wikilink")[5月31日](../Page/5月31日.md "wikilink")にはComicStudioとIllustStudioの後継ソフト**[CLIP STUDIO PAINT PRO](https://ja.wikipedia.org/wiki/CLIP_STUDIO_PAINT "wikilink")**が発売され、[12月20日](../Page/12月20日.md "wikilink")には漫画向けの機能を強化した上位グレード版の**CLIP STUDIO PAINT EX**も発売された。日本国外では北米とヨーロッパにおいて、2012年[12月6日](../Page/12月6日.md "wikilink")に**MANGA STUDIO 5.0**として発売された。
 

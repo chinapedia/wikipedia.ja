@@ -76,7 +76,7 @@
   - 株式会社[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")
   - [讀賣テレビ放送](../Page/讀賣テレビ放送.md "wikilink")株式会社
   - 株式会社[ラジオ関西](../Page/ラジオ関西.md "wikilink")
-  - [琉球放送](https://ja.wikipedia.org/wiki/琉球放送 "wikilink")株式会社
+  - [琉球放送](../Page/琉球放送.md "wikilink")株式会社
 
 ### 広告代理店
 

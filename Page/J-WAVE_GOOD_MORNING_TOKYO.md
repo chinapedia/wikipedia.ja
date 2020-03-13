@@ -9,9 +9,9 @@ J-WAVEの朝のワイド番組で、初代ナビゲーターは今やTVでも知
 
 番組は次番組「[BOOM TOWN](../Page/BOOM_TOWN.md "wikilink")」のナビゲーターである[クリス智子](../Page/クリス智子.md "wikilink")とクロストークでつなぐためにタイムテーブル上の終了時刻である9:00に番組を終えることはまずなく、1分程度時間がオーバーすることが多い。（ただし、祝日に放送される[J-WAVE HOLIDAY SPECIALがあるときはクロストークはなく](../Page/J-WAVE_HOLIDAY_SPECIAL.md "wikilink")9:00に終了する。）なお、番組は必ず「Have a great day and smile.」（カビラ時代は「Good day and peace.」だった）で終わり、BOOM TOWNのオープニングに入る。（ちなみに以前は[DO YOUR SATURDAYと](https://ja.wikipedia.org/wiki/DO_YOUR_SATURDAY "wikilink")[WEEKEND CONNECTIONでも](../Page/WEEKEND_CONNECTION.md "wikilink")、クロストークをしていた。）
 
-番組名の表記が長いことから各単語の頭文字からJGMTもしくはGMTと略して記載されることもある。全国のコミュニティ配信局でもこの番組は[TOKIO HOT 100並に配信されている率が高い番組のひとつである](https://ja.wikipedia.org/wiki/TOKIO_HOT_100 "wikilink")。
+番組名の表記が長いことから各単語の頭文字からJGMTもしくはGMTと略して記載されることもある。全国のコミュニティ配信局でもこの番組は[TOKIO HOT 100並に配信されている率が高い番組のひとつである](../Page/TOKIO_HOT_100.md "wikilink")。
 
-2002年4月に放送を開始。以前この枠ではジョン・カビラがナビゲーターを務めていた[TOKIO TODAYや](https://ja.wikipedia.org/wiki/TOKIO_TODAY "wikilink")[TOKIO ONEが放送されていた](https://ja.wikipedia.org/wiki/TOKIO_ONE "wikilink")。開始当初は毎週月曜から金曜の朝6:00スタートの3時間番組で[Singin' Clockから入っていたが](../Page/Singin'_Clock.md "wikilink")、[2004年](../Page/2004年.md "wikilink")4月からは朝7:00スタートとなったためJ-WAVEジングルからの開始となっている。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")4月からは放送曜日が月曜から木曜となった。
+2002年4月に放送を開始。以前この枠ではジョン・カビラがナビゲーターを務めていた[TOKIO TODAYや](../Page/TOKIO_TODAY.md "wikilink")[TOKIO ONEが放送されていた](../Page/TOKIO_ONE.md "wikilink")。開始当初は毎週月曜から金曜の朝6:00スタートの3時間番組で[Singin' Clockから入っていたが](../Page/Singin'_Clock.md "wikilink")、[2004年](../Page/2004年.md "wikilink")4月からは朝7:00スタートとなったためJ-WAVEジングルからの開始となっている。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")4月からは放送曜日が月曜から木曜となった。
 
 ## 放送時間
 
@@ -30,7 +30,7 @@ J-WAVEの朝のワイド番組で、初代ナビゲーターは今やTVでも知
 
   - [DJ TARO](../Page/DJ_TARO.md "wikilink")
   - [福ノ上達也](../Page/福ノ上達也.md "wikilink")（カビラが急病の為、[2002年](../Page/2002年.md "wikilink")[8月](../Page/8月.md "wikilink")頃に1日だけ担当）
-  - [金子奈緒](../Page/金子奈緒.md "wikilink")（カビラが休暇の為、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月4日](../Page/7月4日.md "wikilink")から2週間担当）
+  - [金子奈緒](../Page/金子奈緒.md "wikilink")（カビラが休暇の為、[2005年](../Page/2005年.md "wikilink")[7月4日](../Page/7月4日.md "wikilink")から2週間担当）
   - [小宮山雄飛](../Page/小宮山雄飛.md "wikilink")（カビラが休暇の為、[2006年](../Page/2006年.md "wikilink")[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")から2日間担当）
   - [金子奈緒](../Page/金子奈緒.md "wikilink")、[高瀬毅](../Page/高瀬毅.md "wikilink")（カビラが休暇の為、[2006年](../Page/2006年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink")から3日間、同年[8月14日](../Page/8月14日.md "wikilink")から1週間担当）
   - [Sascha](../Page/Sascha.md "wikilink")（カビラが休暇の為、[2006年](../Page/2006年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink")から2日間担当）

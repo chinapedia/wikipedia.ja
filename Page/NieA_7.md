@@ -51,7 +51,7 @@
     声 - [折笠富美子](../Page/折笠富美子.md "wikilink")
     まゆ子と同じ予備校の浪人生。重度の宇宙人[オタク](https://ja.wikipedia.org/wiki/オタク "wikilink")・PCオタクであり、独自にサイトを運営するほど没頭。常にノートパソコンを持ち歩いており、宇宙人に関して気になることがあればその場でサイト更新を行なう。勉強そっちのけのため、成績は今一つ。眼鏡っ娘で逆ナイロールの眼鏡が特徴。
   - 樋山 言実（ひやま ことみ）
-    声 - [落合るみ](https://ja.wikipedia.org/wiki/落合るみ "wikilink")
+    声 - [落合るみ](../Page/落合るみ.md "wikilink")
     まゆ子の下宿先「荏の花湯」の現オーナー。大学卒業後、前オーナー（まゆ子の父）の死で常連だった「荏の花湯」が無くなると知り、買収して自らオーナーになったというほど愛着を持っている。都心部の会社OLをしながら掛け持ちで「荏の花湯」を経営しているが、経営はかなり苦しい。集客のためにイベントも行なっているが、コストがかかりすぎて赤字を出すこともある。
   - 荏ノ嶋 モモ（えのしま モモ）
     声 - [市川千恵子](../Page/市川千恵子.md "wikilink")
@@ -69,7 +69,7 @@
     声 - [小笠原茉莉](https://ja.wikipedia.org/wiki/小笠原茉莉 "wikilink")
     修平の娘。しっかり者。「かるちえ」の店名は智絵の名にちなんで付けられた。ゲーム好き。
   - 染谷 源蔵（そめや げんぞう）
-    声 - [岡森諦](../Page/岡森諦.md "wikilink")／[佐々木優太](https://ja.wikipedia.org/wiki/佐々木優太 "wikilink")（子供時代）
+    声 - [岡森諦](../Page/岡森諦.md "wikilink")／[佐々木優太](../Page/佐々木優太.md "wikilink")（子供時代）
     まゆ子の1つ年下の幼馴染。岐阜から東京に出てきている。まゆ子のことが気になっており、しばしば実家（米屋）からの差し入れ（米や[プラッシー](../Page/プラッシー.md "wikilink")など）を持って「荏の花湯」に現れる。上京してから髪型を[ドレッドロックス](../Page/ドレッドロックス.md "wikilink")にしたため、当初はまゆ子に気づかれなかった。年下にもかかわらずまゆ子を「茅ヶ崎」と名字で呼び捨てにしているが（子供時代は「お姉ちゃん」と呼んでいた）、まゆ子は気にしていない様子。
   - チャダ
     声 - [ALLAN SCHINTU](https://ja.wikipedia.org/wiki/ALLAN_SCHINTU "wikilink")
@@ -114,7 +114,7 @@
   - 音響監督 - [鶴岡陽太](../Page/鶴岡陽太.md "wikilink")
   - プロデューサー - [ueda yasuyuki](https://ja.wikipedia.org/wiki/上田耕行 "wikilink")、安部正次郎
   - アニメーション制作 - [トライアングルスタッフ](../Page/トライアングルスタッフ.md "wikilink")
-  - 製作 - NieA製作委員会（[パイオニアLDC](https://ja.wikipedia.org/wiki/パイオニアLDC "wikilink")、[角川書店](../Page/角川書店.md "wikilink")、[TBSサービス](../Page/TBSテレビ.md "wikilink")、[GENCO](https://ja.wikipedia.org/wiki/ジェンコ "wikilink")）
+  - 製作 - NieA製作委員会（[パイオニアLDC](https://ja.wikipedia.org/wiki/パイオニアLDC "wikilink")、[角川書店](../Page/角川書店.md "wikilink")、[TBSサービス](../Page/TBSテレビ.md "wikilink")、[GENCO](../Page/ジェンコ.md "wikilink")）
 
 ## 主題歌
 

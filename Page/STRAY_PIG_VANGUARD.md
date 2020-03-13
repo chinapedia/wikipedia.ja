@@ -43,7 +43,7 @@
 
 ### 旧サポートメンバー
 
-  - [野口薫](../Page/野口薫.md "wikilink")(のぐち かおる)：ドラム担当。2002年から参加。[GRiP](https://ja.wikipedia.org/wiki/GRiP "wikilink")のメンバー。[FAKE?](https://ja.wikipedia.org/wiki/FAKE? "wikilink")や[SHUUBI](https://ja.wikipedia.org/wiki/SHUUBI "wikilink")のサポートでも活躍。
+  - [野口薫](../Page/野口薫.md "wikilink")(のぐち かおる)：ドラム担当。2002年から参加。[GRiP](https://ja.wikipedia.org/wiki/GRiP "wikilink")のメンバー。[FAKE?](../Page/FAKE?.md "wikilink")や[SHUUBI](https://ja.wikipedia.org/wiki/SHUUBI "wikilink")のサポートでも活躍。
   - 名取栄二(なとり えいじ)：ギター担当。2004年12月の復活ライブから参加。通称弟。2009年6月サポート終了。
   - [森重卓](https://ja.wikipedia.org/wiki/森重卓 "wikilink")(もりしげ たく)：ベース担当。通称モリッシー。FAKE?のサポートベーシスト。2006年tour06"tempo primo"から参加。2009年6月サポート終了。
   - 岡本啓祐(おかもと けいすけ)：ベース担当。結成当時から参加。TAKUIや松田樹利亜のサポートでも活躍。2006年サポート終了。

@@ -5,7 +5,7 @@
 
 ## 背景
 
-全国ツアー『[ROCK'N'ROLL CIRCUS TOUR](https://ja.wikipedia.org/wiki/GIGS_at_BUDOKAN_BEAT_EMOTION_ROCK'N_ROLL_CIRCUS_TOUR_1986.11.11〜1987.02.24 "wikilink")』が終了した後、メンバーはオフ期間に入り、その期間中にアルバムからのシングルカットとして「[ONLY YOU](../Page/ONLY_YOU_\(BOOWYの曲\).md "wikilink")」をリリースする。
+全国ツアー『[ROCK'N'ROLL CIRCUS TOUR](../Page/GIGS_at_BUDOKAN_BEAT_EMOTION_ROCK'N_ROLL_CIRCUS_TOUR_1986.11.11〜1987.02.24.md "wikilink")』が終了した後、メンバーはオフ期間に入り、その期間中にアルバムからのシングルカットとして「[ONLY YOU](../Page/ONLY_YOU_\(BOOWYの曲\).md "wikilink")」をリリースする。
 
 既に音楽的にも商業的にも成功を収めたBOØWYは、このアルバムが発売された1987年は解散に向けて活動していくようになる。既にメンバー間や一部スタッフの間では解散は決定事項となっていたが、外部には一切知られていない状態であった。
 
@@ -224,7 +224,7 @@ LP盤のレーベルを再現</p></td>
     <!-- end list -->
 
       -
-        ベストアルバム『[THIS BOØWY](https://ja.wikipedia.org/wiki/THIS_BOOWY "wikilink")』リリース時にはこの曲をベースにした[PVが作られた](../Page/ミュージック・ビデオ.md "wikilink")。
+        ベストアルバム『[THIS BOØWY](../Page/THIS_BOOWY.md "wikilink")』リリース時にはこの曲をベースにした[PVが作られた](../Page/ミュージック・ビデオ.md "wikilink")。
 
 6.  **[季節が君だけを変える](../Page/季節が君だけを変える.md "wikilink")** (4:40)
 

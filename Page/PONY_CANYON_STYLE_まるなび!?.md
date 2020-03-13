@@ -12,7 +12,7 @@
 
 ## 概要
 
-  - 2004年9月28日に能登麻美子の単独パーソナリティ番組「**PONY CANYON STYLE まるなび?**」として放送が開始されたが、最初の公開録音（第16回放送分）にて番組の終了が発表されると同時に[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[1月18日](../Page/1月18日.md "wikilink")（第17回放送分）から川澄綾子がパーソナリティに加わる新番組の開始が発表された。新番組には番組タイトル名にも「**\!**」が追加された。
+  - 2004年9月28日に能登麻美子の単独パーソナリティ番組「**PONY CANYON STYLE まるなび?**」として放送が開始されたが、最初の公開録音（第16回放送分）にて番組の終了が発表されると同時に[2005年](../Page/2005年.md "wikilink")[1月18日](../Page/1月18日.md "wikilink")（第17回放送分）から川澄綾子がパーソナリティに加わる新番組の開始が発表された。新番組には番組タイトル名にも「**\!**」が追加された。
     実は最初から2人の番組として企画されていたが、川澄のスケジュールの都合でこのような形となった。しかしながらこのような情報が事前に発表されていないため、発表時の会場のリスナーの騒然としたどよめきからもわかるように突然のサプライズ発表にリスナーが困惑したことは否めない 。
   - 川澄の参加で番組のトーンは微妙に変化していると言われている。これに関して、能登単独の落ち着いた雰囲気の方が良かったとする意見がある一方で、新人時代から能登を暖かく見守ってきた先輩・川澄とのトークが新たな能登の魅力を引き出しているという意見もある。
   - オープニングテーマ「Scoop\!\!」とエンディングテーマ「7 days after」は、どちらも川澄と能登の2人で歌っている。当初は携帯電話の着うた配信のみであったが、[2006年](../Page/2006年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink")に[CDが発売された](../Page/コンパクトディスク.md "wikilink")。
@@ -33,7 +33,7 @@
       - リスナーが「やってみたけどできなかったこと」に川澄と能登が挑戦するコーナー。
       - 失敗すると綾ちゃん人形・麻美ちゃん人形の服が1枚脱がされる。
       - 今までに「1分以内に当たり付き自動販売機で当たりを出す」「(床に足を付かずに)バランスボールに二人合計で20秒間座る」等に挑戦している。
-      - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月18日](../Page/9月18日.md "wikilink")に[東京ゲームショウ](../Page/東京ゲームショウ.md "wikilink")（[幕張メッセ](../Page/幕張メッセ.md "wikilink")）内で開催された公開録音（2005年[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")深夜放送）を以って終了した。
+      - [2005年](../Page/2005年.md "wikilink")[9月18日](../Page/9月18日.md "wikilink")に[東京ゲームショウ](../Page/東京ゲームショウ.md "wikilink")（[幕張メッセ](../Page/幕張メッセ.md "wikilink")）内で開催された公開録音（2005年[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")深夜放送）を以って終了した。
   - まるなびクエスト\!〜勇者麻美子の冒険
       - 「やってやれないことはない\! Duo」に代わる新コーナー。
       - [ドラゴンクエストシリーズ](../Page/ドラゴンクエストシリーズ.md "wikilink")のパロディで、“まるなび星”の勇者麻美子（能登）が立派な勇者になるために（人が好い）魔王綾子（川澄）からの試練に挑戦していく。
@@ -232,7 +232,7 @@
 <tr class="even">
 <td style="text-align: center;"><p>59・60</p></td>
 <td style="text-align: center;"><p>2005年11月8日・11月15日</p></td>
-<td style="text-align: center;"><p><a href="https://ja.wikipedia.org/wiki/さかいかな" title="wikilink">酒井香奈子</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/さかいかな.md" title="wikilink">酒井香奈子</a></p></td>
 <td style="text-align: center;"><p>「<a href="../Page/REC_(漫画).md" title="wikilink">REC</a>」 恩田赤役</p></td>
 </tr>
 <tr class="odd">
@@ -275,7 +275,7 @@
 <td style="text-align: center;"><p>79・80</p></td>
 <td style="text-align: center;"><p>2006年3月28日・4月4日<br />
 （公開録音）</p></td>
-<td style="text-align: center;"><p><a href="https://ja.wikipedia.org/wiki/福山潤" title="wikilink">福山潤</a>／<a href="https://ja.wikipedia.org/wiki/柿原徹也" title="wikilink">柿原徹也</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/福山潤.md" title="wikilink">福山潤</a>／<a href="https://ja.wikipedia.org/wiki/柿原徹也" title="wikilink">柿原徹也</a></p></td>
 <td style="text-align: center;"><p>「<a href="../Page/プリンセス・プリンセス_(漫画).md" title="wikilink">プリンセス・プリンセス</a>」 河野亨役/豊実琴役</p></td>
 </tr>
 <tr class="even">
@@ -348,7 +348,7 @@
 <td style="text-align: center;"><p>113・114</p></td>
 <td style="text-align: center;"><p>2006年11月21日・11月28日</p></td>
 <td style="text-align: center;"><p><a href="../Page/國府田マリ子.md" title="wikilink">國府田マリ子</a></p></td>
-<td style="text-align: center;"><p>「<a href="https://ja.wikipedia.org/wiki/Kanon_(ゲーム)" title="wikilink">KANON</a>」 水瀬名雪役</p></td>
+<td style="text-align: center;"><p>「<a href="../Page/Kanon_(ゲーム).md" title="wikilink">KANON</a>」 水瀬名雪役</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>115・116</p></td>

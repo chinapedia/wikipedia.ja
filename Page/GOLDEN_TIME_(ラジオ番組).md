@@ -1,7 +1,7 @@
 > この記事は[GOLDEN TIME \(\)](https://ja.wikipedia.org/wiki/GOLDEN_TIME_\(\))から翻訳されています。
 
 
-**GOLDEN TIME**（ゴールデン・タイム）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")まで[J-WAVE](../Page/J-WAVE.md "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。原則的には[生放送](../Page/生放送.md "wikilink")であった。
+**GOLDEN TIME**（ゴールデン・タイム）は、[2005年](../Page/2005年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")まで[J-WAVE](../Page/J-WAVE.md "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。原則的には[生放送](../Page/生放送.md "wikilink")であった。
 
 ## 概要
 
@@ -182,7 +182,7 @@
 | 2005年4月23日  | [リリー・フランキー](../Page/リリー・フランキー.md "wikilink")                                                                                                     |
 | 2005年4月30日  | [しりあがり寿](../Page/しりあがり寿.md "wikilink")                                                                                                           |
 | 2005年5月7日   | [梅澤学滋](https://ja.wikipedia.org/wiki/梅澤学滋 "wikilink")（[サザンハリケーン](../Page/サザンハリケーン.md "wikilink")）                                                |
-| 2005年6月4日   | [LITTLE](https://ja.wikipedia.org/wiki/LITTLE "wikilink")([KICK THE CAN CREW](../Page/KICK_THE_CAN_CREW.md "wikilink"))                          |
+| 2005年6月4日   | [LITTLE](../Page/LITTLE.md "wikilink")([KICK THE CAN CREW](../Page/KICK_THE_CAN_CREW.md "wikilink"))                                             |
 | 2005年6月25日  | [ジャガー](../Page/ジャガー_\(ローカルタレント\).md "wikilink")                                                                                                  |
 | 2005年7月2日   | [ケツメイシ](../Page/ケツメイシ.md "wikilink")                                                                                                             |
 | 2005年7月30日  | [真心ブラザーズ](../Page/真心ブラザーズ.md "wikilink")                                                                                                         |

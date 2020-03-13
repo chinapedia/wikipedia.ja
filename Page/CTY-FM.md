@@ -9,7 +9,7 @@
 
 [1999年](../Page/1999年.md "wikilink")[7月30日](../Page/7月30日.md "wikilink")に、エフエムよっかいち株式会社が設立され、同年[9月1日](../Page/9月1日.md "wikilink")にコミュニティ放送を開局した。
 
-その後、エフエムよっかいちは、[2011年](../Page/2011年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2017年](../Page/2017年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで四日市市に本社を置く[ケーブルテレビ局](../Page/ケーブルテレビ局.md "wikilink")[シー・ティー・ワイ](../Page/シー・ティー・ワイ.md "wikilink")の[完全子会社](https://ja.wikipedia.org/wiki/完全子会社 "wikilink")であった。同局のほか、[津市](../Page/津市.md "wikilink")に本社を置くケーブルテレビ局[ZTV](../Page/ZTV.md "wikilink")（津・亀山エリアのみ）が[再送信](https://ja.wikipedia.org/wiki/再送信 "wikilink")している。長らく**PORT WAVE**（ポートウェイブ）の愛称で[コミュニティ放送](../Page/コミュニティ放送.md "wikilink")をしていたが、[2017年](../Page/2017年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")に合併のためコールネーム全体が**CTY-FM**に変更された。本社と[演奏所](https://ja.wikipedia.org/wiki/演奏所 "wikilink")（スタジオ）は四日市市本町8番2号、[送信所](https://ja.wikipedia.org/wiki/送信所 "wikilink")は[四日市港ポートビル](../Page/四日市港ポートビル.md "wikilink")にある。また、かつてサテライトスタジオが四日市一番街商店街内の文化の諏訪駅にあった。放送エリアは、四日市市と菰野町の他、[鈴鹿市](../Page/鈴鹿市.md "wikilink")、[いなべ市](../Page/いなべ市.md "wikilink")、[桑名市](../Page/桑名市.md "wikilink")、[朝日町](../Page/朝日町_\(三重県\).md "wikilink")、[川越町](../Page/川越町.md "wikilink")、[東員町](../Page/東員町.md "wikilink")で、エリア内合計人口77万6千人の85%をカバーする\[1\]。[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")の一部でも良好に聞こえる地域がある。
+その後、エフエムよっかいちは、[2011年](../Page/2011年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2017年](../Page/2017年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで四日市市に本社を置く[ケーブルテレビ局](../Page/ケーブルテレビ局.md "wikilink")[シー・ティー・ワイ](../Page/シー・ティー・ワイ.md "wikilink")の[完全子会社](https://ja.wikipedia.org/wiki/完全子会社 "wikilink")であった。同局のほか、[津市](../Page/津市.md "wikilink")に本社を置くケーブルテレビ局[ZTV](../Page/ZTV.md "wikilink")（津・亀山エリアのみ）が[再送信](https://ja.wikipedia.org/wiki/再送信 "wikilink")している。長らく**PORT WAVE**（ポートウェイブ）の愛称で[コミュニティ放送](../Page/コミュニティ放送.md "wikilink")をしていたが、[2017年](../Page/2017年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")に合併のためコールネーム全体が**CTY-FM**に変更された。本社と[演奏所](https://ja.wikipedia.org/wiki/演奏所 "wikilink")（スタジオ）は四日市市本町8番2号、[送信所](../Page/送信所.md "wikilink")は[四日市港ポートビル](../Page/四日市港ポートビル.md "wikilink")にある。また、かつてサテライトスタジオが四日市一番街商店街内の文化の諏訪駅にあった。放送エリアは、四日市市と菰野町の他、[鈴鹿市](../Page/鈴鹿市.md "wikilink")、[いなべ市](../Page/いなべ市.md "wikilink")、[桑名市](../Page/桑名市.md "wikilink")、[朝日町](../Page/朝日町_\(三重県\).md "wikilink")、[川越町](../Page/川越町.md "wikilink")、[東員町](../Page/東員町.md "wikilink")で、エリア内合計人口77万6千人の85%をカバーする\[1\]。[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")の一部でも良好に聞こえる地域がある。
 
 株式会社シー･ティー･ワイとエフエムよっかいち株式会社は、2017年4月1日付にて合併\[2\]。エフエムよっかいちの名称も2017年4月1日付でコールネームからなくなった。コールネームにはCTY-FMとハイフンが入っているが、新ロゴにはハイフンは省略されている。時報通知の際も「CTYが午前(あるいは午後)○○時をお伝えします」とCTY提供であることを明示している。呼出名称は放送内で用いられていない。新しい[ジングル](https://ja.wikipedia.org/wiki/ジングル "wikilink")は[エレキギター](https://ja.wikipedia.org/wiki/エレキギター "wikilink")のソロの後で「シー・ティー・ワイ・エフエム(x2-3)セブンティ・シックス・ポイント・エイト(x1)」で、PORT WAVE時代の周波数コール\[3\]を含んだ[SF](../Page/SF.md "wikilink")の後に短く全員で愛称を囁くヴァージョンよりボーカルを前面に出した構成\[4\]。予報・正報音は省略される。
 
@@ -18,7 +18,7 @@
   - [1999年](../Page/1999年.md "wikilink")（平成11年）
       - [7月30日](../Page/7月30日.md "wikilink") エフエムよっかいち株式会社設立。
       - [9月1日](../Page/9月1日.md "wikilink") 開局。
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[6月10日](../Page/6月10日.md "wikilink") [SimulRadio](https://ja.wikipedia.org/wiki/SimulRadio "wikilink")に参加。インターネットでの聴取が可能となる。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[6月10日](../Page/6月10日.md "wikilink") [SimulRadio](../Page/SimulRadio.md "wikilink")に参加。インターネットでの聴取が可能となる。
   - [2011年](../Page/2011年.md "wikilink")（平成23年）[4月1日](../Page/4月1日.md "wikilink") 四日市市に本社を置くケーブルテレビ局シー・ティー・ワイの完全子会社化。
   - [2012年](../Page/2012年.md "wikilink")（平成24年）3月までは自社制作番組以外の時間は[J-WAVE](../Page/J-WAVE.md "wikilink")の番組を放送していたが、4月より[ミュージックバード](../Page/ミュージックバード.md "wikilink")に変更された。
   - [2014年](../Page/2014年.md "wikilink")（平成26年）
@@ -29,7 +29,7 @@
       - [5月](https://ja.wikipedia.org/wiki/5月 "wikilink") [FM++](https://ja.wikipedia.org/wiki/FM++ "wikilink")の公式ホームページからWindowsのブラウザのほとんどで聴取可能になった。
       - [9月30日](../Page/9月30日.md "wikilink") [ListenRadio](https://ja.wikipedia.org/wiki/ListenRadio "wikilink")による配信を終了\[9\]。[10月1日](../Page/10月1日.md "wikilink")からは独自のスマートフォン・iPhone向け聴取アプリのみ使用可能。
   - [2018年](../Page/2018年.md "wikilink")（平成30年）
-      - [10月](https://ja.wikipedia.org/wiki/10月 "wikilink")までに携帯端末向けインターネットラジオの配信を[FM++](https://ja.wikipedia.org/wiki/FM++ "wikilink")(PC・スマートフォン・iPhone)と[FM聴](https://ja.wikipedia.org/wiki/FM聴 "wikilink")(スマートフォン・iPhone\[10\])へと変更。[SimulRadio](https://ja.wikipedia.org/wiki/SimulRadio "wikilink")のホームページからCTY-FMの「放送を聴く」をクリックするとfmplaplaへリンク\[11\]されるようになった。
+      - [10月](https://ja.wikipedia.org/wiki/10月 "wikilink")までに携帯端末向けインターネットラジオの配信を[FM++](https://ja.wikipedia.org/wiki/FM++ "wikilink")(PC・スマートフォン・iPhone)と[FM聴](../Page/FM聴.md "wikilink")(スマートフォン・iPhone\[10\])へと変更。[SimulRadio](../Page/SimulRadio.md "wikilink")のホームページからCTY-FMの「放送を聴く」をクリックするとfmplaplaへリンク\[11\]されるようになった。
   - [2019年](../Page/2019年.md "wikilink")（令和元年）
       - [9月](../Page/9月.md "wikilink")に開局20周年を迎えた。
   - [2020年](../Page/2020年.md "wikilink")（令和2年）

@@ -1,7 +1,7 @@
 > この記事は[UZ](https://ja.wikipedia.org/wiki/UZ)から翻訳されています。
 
 
-**UZエンジン**とは、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[V型8気筒](../Page/V型8気筒.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")の[系列である](https://ja.wikipedia.org/wiki/トヨタ・エンジン系列名 "wikilink")。[バンク角](https://ja.wikipedia.org/wiki/バンク角 "wikilink")は、90度。[シリンダーブロック](https://ja.wikipedia.org/wiki/シリンダーブロック "wikilink")の製造にトヨタ独自の「吸引鋳造法」が初めて使われた\[1\]。
+**UZエンジン**とは、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[V型8気筒](../Page/V型8気筒.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")の[系列である](https://ja.wikipedia.org/wiki/トヨタ・エンジン系列名 "wikilink")。[バンク角](https://ja.wikipedia.org/wiki/バンク角 "wikilink")は、90度。[シリンダーブロック](../Page/シリンダーブロック.md "wikilink")の製造にトヨタ独自の「吸引鋳造法」が初めて使われた\[1\]。
 
 初代[レクサス・LS](../Page/レクサス・LS.md "wikilink")のエンジンである\[2\]。 後継エンジンは[URエンジンである](../Page/トヨタ・URエンジン.md "wikilink")。
 
@@ -59,7 +59,7 @@
   - 初代(1)・2代目(3)(4)セルシオ（UCF10/11/20/21）
   - 初代・2代目レクサスLS400（UCF10/20）
   - 初代(5)[レクサスSC400](../Page/レクサス・SC.md "wikilink")（UZZ30）
-  - 初代(2)[ハイメディック](https://ja.wikipedia.org/wiki/トヨタ・ハイメディック "wikilink")（UZH132S/138S）
+  - 初代(2)[ハイメディック](../Page/トヨタ・ハイメディック.md "wikilink")（UZH132S/138S）
   - 2代目(5)[レクサスGS400](../Page/レクサス・GS.md "wikilink")
   - [ムーンクラフト・紫電](../Page/ムーンクラフト・紫電.md "wikilink")
   - [サード・MC8R](../Page/サード・MC8R.md "wikilink")

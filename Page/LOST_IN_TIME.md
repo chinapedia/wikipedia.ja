@@ -80,7 +80,7 @@
   -
     ギター担当。
     [埼玉県](../Page/埼玉県.md "wikilink")[本庄市](../Page/本庄市.md "wikilink")出身。血液型B型。
-    脱退後、[大森洋平](../Page/大森洋平.md "wikilink") (vo)、竹内俊広 (b)、山田琢磨 (dr)、[飛内将大](https://ja.wikipedia.org/wiki/飛内将大 "wikilink") (key)と[aiterasu](https://ja.wikipedia.org/wiki/aiterasu "wikilink")を結成。また2008年6月に[WONDERS](https://ja.wikipedia.org/wiki/WONDERS "wikilink")に加入するも、2009年12月23日の[ライブ](../Page/ライブ.md "wikilink")を最後に脱退。現在は2012年にシンガーソングライターの[伊藤サチコ](https://ja.wikipedia.org/wiki/伊藤サチコ "wikilink")と結成した音楽ユニットhuenica（フエニカ）として活動中。
+    脱退後、[大森洋平](../Page/大森洋平.md "wikilink") (vo)、竹内俊広 (b)、山田琢磨 (dr)、[飛内将大](https://ja.wikipedia.org/wiki/飛内将大 "wikilink") (key)と[aiterasu](https://ja.wikipedia.org/wiki/aiterasu "wikilink")を結成。また2008年6月に[WONDERS](https://ja.wikipedia.org/wiki/WONDERS "wikilink")に加入するも、2009年12月23日の[ライブ](../Page/ライブ.md "wikilink")を最後に脱退。現在は2012年にシンガーソングライターの[伊藤サチコ](../Page/伊藤サチコ.md "wikilink")と結成した音楽ユニットhuenica（フエニカ）として活動中。
 
 ### サポートメンバー
 
@@ -539,7 +539,7 @@ VIDEO CLIP: 1.手紙 2.約束 3.列車 4.ココロノウタ 5.ココロノウタ
   - 2009年09月05日 - [OTODAMA](https://ja.wikipedia.org/wiki/OTODAMA_音泉魂 "wikilink")'09 〜音泉魂〜
   - 2010年10月29日 - [a flood of circle](https://ja.wikipedia.org/wiki/a_flood_of_circle "wikilink") Tour ZOOMANITY～天晴全国百鬼夜行～
   - 2011年05月04日 - [COMIN'KOBE](https://ja.wikipedia.org/wiki/COMIN'KOBE "wikilink")11
-  - 2011年07月01日・02日 - [メレンゲ](https://ja.wikipedia.org/wiki/メレンゲ_\(バンド\) "wikilink") アポリア TOUR in 2011
+  - 2011年07月01日・02日 - [メレンゲ](../Page/メレンゲ_\(バンド\).md "wikilink") アポリア TOUR in 2011
   - 2011年07月12日 - 音霊 OTODAMA SEA STUDIO 2011 「MUSIC ISLAND」
   - 2012年04月14日 - [cinema staff](https://ja.wikipedia.org/wiki/cinema_staff "wikilink") TOUR 2012 "SALVAGE YOUR VINYL"
   - 2012年05月03日 - 祝春一番2012

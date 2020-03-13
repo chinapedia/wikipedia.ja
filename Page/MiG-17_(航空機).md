@@ -5,7 +5,7 @@
 
 ## 概要
 
-MiG-17は、[朝鮮戦争](https://ja.wikipedia.org/wiki/朝鮮戦争 "wikilink")で実戦には投入されたものの飛行機として未成熟だった[MiG-15を改良した完成型である](https://ja.wikipedia.org/wiki/MiG-15_\(航空機\) "wikilink")。当初MiG-15bis-45°として開発されたことからわかるように、MiG-15において35度であった主翼の後退角を45度に改め（厳密には前縁途中で角度が変わっている）、主翼上の境界層板の数も片側2枚から3枚へと変更した。
+MiG-17は、[朝鮮戦争](https://ja.wikipedia.org/wiki/朝鮮戦争 "wikilink")で実戦には投入されたものの飛行機として未成熟だった[MiG-15を改良した完成型である](../Page/MiG-15_\(航空機\).md "wikilink")。当初MiG-15bis-45°として開発されたことからわかるように、MiG-15において35度であった主翼の後退角を45度に改め（厳密には前縁途中で角度が変わっている）、主翼上の境界層板の数も片側2枚から3枚へと変更した。
 
 基本型のMiG-17及びMiG-17Fの武装は[機関砲](../Page/機関砲.md "wikilink")のみで、MiG-15bisと同じく37 mm機関砲[N-37](https://ja.wikipedia.org/wiki/N-37_\(機関砲\) "wikilink") 1門と23mm機関砲[NR-23](https://ja.wikipedia.org/wiki/NR-23_\(機関砲\) "wikilink") 2門であった。その後、[爆弾](../Page/爆弾.md "wikilink")や[ロケット弾](../Page/ロケット弾.md "wikilink")を搭載できるよう改修された機体もあった。朝鮮戦争には間に合わなかったものの、[東側諸国](../Page/東側諸国.md "wikilink")をはじめ多くの国に配備され、[1990年代](../Page/1990年代.md "wikilink")まで数多くの実戦に参加した。
 
@@ -24,7 +24,7 @@ MiG-17は、[朝鮮戦争](https://ja.wikipedia.org/wiki/朝鮮戦争 "wikilink"
   - MiG-17PF
     MiG-17Fにイズムルート・レーダーを搭載した量産型。レーダーの搭載に伴い、37 mm機関砲は23 mm機関砲に換装されている。中華人民共和国でのライセンス生産機は**殲撃五甲型**（**殲-5A**/**J-5A**/**F-5A**）などと呼称される。なお、ソ連では生産されなかった複座[練習機](../Page/練習機.md "wikilink")型として本型を元に開発された**殲教五型** (**JJ-5**/**FT-5**) が[大量生産](../Page/大量生産.md "wikilink")されている[FAR MiG-17PF \#0904, 1999](http://mysite.wanadoo-members.co.uk/visits_pages/trip-rom_files/roman-47.jpg) [AlbaniaAF FT-5 \#8-09](http://forum.keypublishing.co.uk/attachment.php?attachmentid=66925)。
   - MiG-17PFU
-    MiG-17PFを改修した[RS-1U及び](https://ja.wikipedia.org/wiki/RS-1_\(ミサイル\) "wikilink")[RS-2U](https://ja.wikipedia.org/wiki/RS-2_\(ミサイル\) "wikilink")[空対空ミサイル](../Page/空対空ミサイル.md "wikilink")搭載型で、固定武装は廃止されている。[MiG-19PMや](https://ja.wikipedia.org/wiki/MiG-19_\(航空機\) "wikilink")[Su-9](../Page/Su-9_\(航空機\).md "wikilink")[迎撃戦闘機配備までのつなぎとして](../Page/要撃機.md "wikilink")40機程度が[ソ連防空軍](../Page/ソ連防空軍.md "wikilink")に配備された。
+    MiG-17PFを改修した[RS-1U及び](https://ja.wikipedia.org/wiki/RS-1_\(ミサイル\) "wikilink")[RS-2U](https://ja.wikipedia.org/wiki/RS-2_\(ミサイル\) "wikilink")[空対空ミサイル](../Page/空対空ミサイル.md "wikilink")搭載型で、固定武装は廃止されている。[MiG-19PMや](../Page/MiG-19_\(航空機\).md "wikilink")[Su-9](../Page/Su-9_\(航空機\).md "wikilink")[迎撃戦闘機配備までのつなぎとして](../Page/要撃機.md "wikilink")40機程度が[ソ連防空軍](../Page/ソ連防空軍.md "wikilink")に配備された。
   - Lim-5
     MiG-17Fのポーランド生産型が**Lim-5**、MiG-17PFに準じたレーダー搭載型が**Lim-5P**であるが、Lim-5Pの方がMiG-17PFよりエア・インテイクの開口部が大きく、内部のドームも大型である。 [PolandAF Lim-5P \#521](http://www.airliners.net/open.file/093126/L/)
   - Lim-6

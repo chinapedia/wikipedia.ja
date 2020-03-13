@@ -18,7 +18,7 @@ Sg-TVというビデオ・オン・デマンドのサービスも行っていた
   - [らいむいろ流奇譚X](../Page/らいむいろ戦奇譚.md "wikilink")
   - [下級生2 〜瞳の中の少女たち〜](../Page/下級生2.md "wikilink")
   - [GR-GIANT ROBO-](../Page/GR-GIANT_ROBO-.md "wikilink")
-  - [_summer](https://ja.wikipedia.org/wiki/アンダーバーサマー "wikilink")（OVA版）
+  - [_summer](../Page/アンダーバーサマー.md "wikilink")（OVA版）
   - [ナチュラル・ウーマン2010](../Page/ナチュラル・ウーマン_\(小説\).md "wikilink")
   - [難波金融伝・ミナミの帝王](https://ja.wikipedia.org/wiki/難波金融伝・ミナミの帝王 "wikilink")
 

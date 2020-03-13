@@ -149,9 +149,9 @@
 
   - 製作：[吉田健二](../Page/吉田健二.md "wikilink")
   - 企画：[九里一平](../Page/九里一平.md "wikilink")、柳川茂、[鳥海尽三](../Page/鳥海尽三.md "wikilink")、陶山智
-  - 原作：[吉田竜夫](../Page/吉田竜夫.md "wikilink")（連載誌 - 『[てれびくん](../Page/てれびくん.md "wikilink")』\[8\]、『[小学館学習雑誌](https://ja.wikipedia.org/wiki/小学館の学年別学習雑誌 "wikilink")』）
+  - 原作：[吉田竜夫](../Page/吉田竜夫.md "wikilink")（連載誌 - 『[てれびくん](../Page/てれびくん.md "wikilink")』\[8\]、『[小学館学習雑誌](../Page/小学館の学年別学習雑誌.md "wikilink")』）
   - キャラクターデザイン：[天野喜孝](../Page/天野喜孝.md "wikilink")、[高田明美](../Page/高田明美.md "wikilink")
-  - 美術デザイン：[中村光毅](https://ja.wikipedia.org/wiki/中村光毅 "wikilink")
+  - 美術デザイン：[中村光毅](../Page/中村光毅.md "wikilink")
   - メカニックデザイン：[大河原邦男](../Page/大河原邦男.md "wikilink")
   - 作画監修：[宮本貞雄](https://ja.wikipedia.org/wiki/宮本貞雄 "wikilink")
   - SF考証：[小隅黎](../Page/柴野拓美.md "wikilink")
@@ -161,7 +161,7 @@
   - 脚本協力：鳥プロ
   - 色指定：羽生道代、鶴巻のりこ
   - 編集：三木幸子、戸田れい子
-  - [録音ディレクター](https://ja.wikipedia.org/wiki/音響監督 "wikilink")：[水本完](../Page/水本完.md "wikilink")
+  - [録音ディレクター](../Page/音響監督.md "wikilink")：[水本完](../Page/水本完.md "wikilink")
   - 録音：兼子芳博
   - 効果：[加藤昭二](https://ja.wikipedia.org/wiki/加藤昭二 "wikilink")（[アニメサウンドプロダクション](../Page/アニメサウンドプロダクション.md "wikilink")）
   - 現像：[東洋現像所](https://ja.wikipedia.org/wiki/IMAGICA "wikilink")、スキアニメ協力
@@ -176,7 +176,7 @@
     作詞：[丘灯至夫](../Page/丘灯至夫.md "wikilink") / 作曲：小林亜星 / 編曲：[高田弘](../Page/高田弘.md "wikilink") / 歌：ささきいさお、[コロムビアゆりかご会](../Page/音羽ゆりかご会.md "wikilink")
     テレビ放映版とレコード収録版では、前者のキーが約全音高くなっている。
   - エンディングテーマ「ぼくらのガッチャマン」
-    作詞：[小山高男](https://ja.wikipedia.org/wiki/小山高生 "wikilink") / 作曲：小林亜星 / 編曲：高田弘 / 歌：コロムビアゆりかご会
+    作詞：[小山高男](../Page/小山高生.md "wikilink") / 作曲：小林亜星 / 編曲：高田弘 / 歌：コロムビアゆりかご会
     前作の挿入歌「僕等のガッチャマン」とは異なる。
 
 ## 各話リスト
@@ -241,7 +241,7 @@
 <td><p>中原朗</p></td>
 <td><p>岡崎邦彦<br />
 津田義三</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/湖川友謙" title="wikilink">湖川友謙</a></p></td>
+<td><p><a href="../Page/湖川友謙.md" title="wikilink">湖川友謙</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -282,7 +282,7 @@
 <td><p><a href="../Page/田口勝彦_(監督).md" title="wikilink">田口章一</a></p></td>
 <td><p>高垣幸蔵<br />
 石田正平</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/須田正己" title="wikilink">須田正己</a></p></td>
+<td><p><a href="../Page/須田正己.md" title="wikilink">須田正己</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -943,7 +943,7 @@
 
 ## 参考文献
 
-  - 『科学忍者隊ガッチャマン　アニメアーカイブス』（[2013年](../Page/2013年.md "wikilink")、[小学館集英社プロダクション](https://ja.wikipedia.org/wiki/小学館集英社プロダクション "wikilink")）
+  - 『科学忍者隊ガッチャマン　アニメアーカイブス』（[2013年](../Page/2013年.md "wikilink")、[小学館集英社プロダクション](../Page/小学館集英社プロダクション.md "wikilink")）
 
 ## 脚注
 

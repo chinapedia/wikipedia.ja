@@ -55,7 +55,7 @@
 
 ## エピソード
 
-  - [ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")の新レーベル[SWEETSTARより](../Page/SPEEDSTAR_RECORDS.md "wikilink")[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[8月](../Page/8月.md "wikilink")『[白線〜スタートライン](https://ja.wikipedia.org/wiki/白線〜スタートライン "wikilink")』でCDデビュー。同曲は[TBS系大ヒット](../Page/TBSテレビ.md "wikilink")[ドラマ](https://ja.wikipedia.org/wiki/TVドラマ "wikilink")『[新キッズ・ウォー](../Page/新キッズ・ウォー.md "wikilink")』のエンディングテーマ。
+  - [ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")の新レーベル[SWEETSTARより](../Page/SPEEDSTAR_RECORDS.md "wikilink")[2005年](../Page/2005年.md "wikilink")[8月](../Page/8月.md "wikilink")『[白線〜スタートライン](https://ja.wikipedia.org/wiki/白線〜スタートライン "wikilink")』でCDデビュー。同曲は[TBS系大ヒット](../Page/TBSテレビ.md "wikilink")[ドラマ](https://ja.wikipedia.org/wiki/TVドラマ "wikilink")『[新キッズ・ウォー](../Page/新キッズ・ウォー.md "wikilink")』のエンディングテーマ。
   - [ベッキー](../Page/ベッキー.md "wikilink")出演のビューティーンのCM楽曲や、[押切もえ](https://ja.wikipedia.org/wiki/押切もえ "wikilink")のCM楽曲、アニメの主題歌などタイアップ戦略で知名度を上げる。2ndアルバムでは収録曲すべてがゲームとのタイアップであった。
   - 決めポーズとして「ウソをつく事やズルイ事やいい加減な事など、ハレンチな事にパンチする『ハレンチ☆パーンチ\!\!』」というものがあるが、「80★PAN！」へ改名したと同時に封印したと報道されている。
   - 終わりの挨拶で、「以上、80★PAN\!でした」と言うところを、改名後も「以上、ハレンチ☆パンチでした」といい間違えることがある。
@@ -91,7 +91,7 @@
 
 ### シングル
 
-  - **1st　白線～スタートライン**:[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[8月24日](../Page/8月24日.md "wikilink")
+  - **1st　白線～スタートライン**:[2005年](../Page/2005年.md "wikilink")[8月24日](../Page/8月24日.md "wikilink")
 
 <!-- end list -->
 

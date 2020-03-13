@@ -30,7 +30,7 @@
         作詞・作曲・編曲: [酒井ミキオ](../Page/酒井ミキオ.md "wikilink")
     <!-- end list -->
       - フジテレビ系『[第36回春の高校バレー](../Page/全国高等学校バレーボール選抜優勝大会.md "wikilink")』イメージソング
-      - [ニベア花王](https://ja.wikipedia.org/wiki/ニベア花王 "wikilink")「8×4パウダースプレー」CMソング
+      - [ニベア花王](../Page/ニベア花王.md "wikilink")「8×4パウダースプレー」CMソング
 3.  **[紅く燃ゆる太陽](../Page/紅く燃ゆる太陽.md "wikilink")**
       -
         作詞: [Satomi](../Page/スマイルカンパニー.md "wikilink")、作曲・編曲: Shusui, Stefan Engblom, Axel Belinder、編曲: [中西亮輔](../Page/スマイルカンパニー.md "wikilink"), Shusui, Stefan Engblom, Axel Bellinder、Poetry: [山下智久](https://ja.wikipedia.org/wiki/山下智久 "wikilink")

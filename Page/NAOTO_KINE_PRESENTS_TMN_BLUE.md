@@ -85,6 +85,6 @@
 14. **ANOTHER MEETING (未発表1994)**
       -
         作詞：木根尚登　作曲：[宇都宮隆](https://ja.wikipedia.org/wiki/宇都宮隆 "wikilink")
-        <ins>TMN最後のシングル『[Nights of The Knife](../Page/Nights_of_The_Knife.md "wikilink")』のカップリングになる予定だったが、宇都宮の声の調子が悪くて延期になったとのことらしい（SPIN OFF from TM　ライブパンフレットコメントより）。</ins>木根作詞、宇都宮作曲という珍しい組み合わせで、アレンジもアコースティックギターを基本とした素朴なものであり小室色が薄い。新曲であるが終了後に発表された曲であるため、記載上は未発表1994になっている。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")のトリビュートライブ『**[SPIN OFF from TM](https://ja.wikipedia.org/wiki/SPIN_OFF_from_TM#-tribute_LIVE_2005- "wikilink")**』の際、アンコールで演奏された。
+        <ins>TMN最後のシングル『[Nights of The Knife](../Page/Nights_of_The_Knife.md "wikilink")』のカップリングになる予定だったが、宇都宮の声の調子が悪くて延期になったとのことらしい（SPIN OFF from TM　ライブパンフレットコメントより）。</ins>木根作詞、宇都宮作曲という珍しい組み合わせで、アレンジもアコースティックギターを基本とした素朴なものであり小室色が薄い。新曲であるが終了後に発表された曲であるため、記載上は未発表1994になっている。[2005年](../Page/2005年.md "wikilink")のトリビュートライブ『**[SPIN OFF from TM](https://ja.wikipedia.org/wiki/SPIN_OFF_from_TM#-tribute_LIVE_2005- "wikilink")**』の際、アンコールで演奏された。
 
 [Category:TM_NETWORKのベスト・アルバム](https://ja.wikipedia.org/wiki/Category:TM_NETWORKのベスト・アルバム "wikilink") [Category:1994年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:1994年のベスト・アルバム "wikilink") [Category:EPICソニーのアルバム](https://ja.wikipedia.org/wiki/Category:EPICソニーのアルバム "wikilink") [Category:バラード・ベスト・アルバム](https://ja.wikipedia.org/wiki/Category:バラード・ベスト・アルバム "wikilink")

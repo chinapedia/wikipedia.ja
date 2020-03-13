@@ -106,7 +106,7 @@
 ### 明智家
 
   - [明智光秀](https://ja.wikipedia.org/wiki/明智光秀 "wikilink")（あけち みつひで）
-    演：[五木ひろし](https://ja.wikipedia.org/wiki/五木ひろし "wikilink")
+    演：[五木ひろし](../Page/五木ひろし.md "wikilink")
     明智家当主。[本能寺の変](../Page/本能寺の変.md "wikilink")で信長を討つが、山崎の戦いで敗北する。
   - [明智秀満](../Page/明智秀満.md "wikilink")（あけち ひでみつ）/ [明智次右衛門](../Page/明智光忠.md "wikilink")（あけち じえもん）/ [溝尾庄兵衛](../Page/溝尾茂朝.md "wikilink")（みぞお しょうべえ）/ [藤田伝五](https://ja.wikipedia.org/wiki/藤田行政 "wikilink")（ふじた でんご）
     演：[磯部勉](../Page/磯部勉.md "wikilink")（秀満）/ [佐藤仁哉](../Page/佐藤仁哉.md "wikilink")（次右衛門）/ [右京孝雄](https://ja.wikipedia.org/wiki/右京孝雄 "wikilink")（溝尾）/ [中村元則](https://ja.wikipedia.org/wiki/中村元則 "wikilink")（藤田）
@@ -124,7 +124,7 @@
     演：[中村雅俊](https://ja.wikipedia.org/wiki/中村雅俊 "wikilink")
     2代目征夷大将軍。家康やお江与に頭が上がらない反面、実利を重んじるあまり、家族に対する情を切り捨てることもいとわない冷徹な一面も覗かせるようになる。
   - [お江与](../Page/崇源院.md "wikilink")（おえよ）
-    演：[長山藍子](https://ja.wikipedia.org/wiki/長山藍子 "wikilink")　※当初は[山本陽子](../Page/山本陽子.md "wikilink")の予定　（少女期：[坂上香織](../Page/坂上香織.md "wikilink")）
+    演：[長山藍子](../Page/長山藍子.md "wikilink")　※当初は[山本陽子](../Page/山本陽子.md "wikilink")の予定　（少女期：[坂上香織](../Page/坂上香織.md "wikilink")）
     秀忠の正室。伯父の信長を殺した謀反人の娘であるおふくを嫌う。しかし貢献的なおふくの仕事ぶりを見て、次第に「竹千代君にはなくてはならない方」とおふくを認めるようになる。竹千代が正式に徳川の世継に決まった際、乳母の役目を降りようとしていたおふくを江戸に留めた。茶々の次妹。
   - [阿茶の局](../Page/雲光院.md "wikilink")（あちゃのつぼね）
     演：[和田幾子](https://ja.wikipedia.org/wiki/和田幾子 "wikilink")
@@ -326,10 +326,10 @@
     演：[藤岡琢也](../Page/藤岡琢也.md "wikilink")
     天下人。もとは織田信長の家臣。
   - [寧々](../Page/高台院.md "wikilink")（ねね）
-    演：[香川京子](https://ja.wikipedia.org/wiki/香川京子 "wikilink")
+    演：[香川京子](../Page/香川京子.md "wikilink")
     秀吉の正室。関ヶ原の戦いののちは家康と淀殿の関係修復に奔走する。
   - [茶々](../Page/淀殿.md "wikilink")（ちゃちゃ）
-    演：[大空眞弓](../Page/大空眞弓.md "wikilink")（少女期:[喜多嶋舞](https://ja.wikipedia.org/wiki/喜多嶋舞 "wikilink")）
+    演：[大空眞弓](../Page/大空眞弓.md "wikilink")（少女期:[喜多嶋舞](../Page/喜多嶋舞.md "wikilink")）
     秀吉の側室。秀頼の母、お初とお江与の姉。
     秀吉死後の豊臣家の屋台骨を一人で支える気丈な女性。徳川への対抗心は持ち続けていたものの、見苦しく振舞うようことはなく、大坂城落城に際しても、自分たちに従い自害するという千姫に対し、「我らとともに死ぬことはない」と諭して彼女をお初に託して城外に落ち延びさせ、自らは秀頼らとともに潔く負けを認め自害して散っていった。
   - [豊臣秀頼](../Page/豊臣秀頼.md "wikilink")（とよとみ ひでより）
@@ -443,7 +443,7 @@
 ### その他
 
   - [三条西公国](https://ja.wikipedia.org/wiki/三条西公国 "wikilink")（さんじょうにし きんくに）
-    演：[佐藤B作](https://ja.wikipedia.org/wiki/佐藤B作 "wikilink")
+    演：[佐藤B作](../Page/佐藤B作.md "wikilink")
     公家。
     身寄りの無くなったおふく母子を引き取るも陰では迷惑がっていた。
   - 時子（ときこ）

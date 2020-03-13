@@ -1,7 +1,7 @@
 > この記事は[JBOD](https://ja.wikipedia.org/wiki/JBOD)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:JBOD.svg "wikilink") **JBOD (ジェイボド)**は"**J**ust a **B**unch **O**f **D**isks(ただのディスクの束)"の略で、[ディスクアレイ](https://ja.wikipedia.org/wiki/ディスクアレイ "wikilink")の実装形態の一つ。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:JBOD.svg "wikilink") **JBOD (ジェイボド)**は"**J**ust a **B**unch **O**f **D**isks(ただのディスクの束)"の略で、[ディスクアレイ](../Page/ディスクアレイ.md "wikilink")の実装形態の一つ。
 
 ## JBODの実装パターン
 
@@ -55,7 +55,7 @@ JBODは上記2例のように極めて大規模な容量を求める場合や、
 
 ## 関連項目
 
-  - [ディスクアレイ](https://ja.wikipedia.org/wiki/ディスクアレイ "wikilink")
+  - [ディスクアレイ](../Page/ディスクアレイ.md "wikilink")
   - [RAID](../Page/RAID.md "wikilink")
   - [NT File System](../Page/NT_File_System.md "wikilink")
   - [ネットワークアタッチトストレージ](../Page/ネットワークアタッチトストレージ.md "wikilink")

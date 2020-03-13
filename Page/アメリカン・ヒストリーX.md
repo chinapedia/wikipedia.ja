@@ -19,11 +19,11 @@
   - ダニー・ヴィンヤード - [エドワード・ファーロング](../Page/エドワード・ファーロング.md "wikilink")（[浪川大輔](../Page/浪川大輔.md "wikilink")）
   - ドリス・ヴィンヤード - [ビヴァリー・ダンジェロ](https://ja.wikipedia.org/wiki/ビヴァリー・ダンジェロ "wikilink")（[火野カチコ](https://ja.wikipedia.org/wiki/火野カチ子 "wikilink")）
   - ダヴィナ・ヴィンヤード - [ジェニファー・リーン](https://ja.wikipedia.org/wiki/ジェニファー・リーン "wikilink")（[加藤優子](../Page/加藤有生子.md "wikilink")）
-  - デニス・ヴィンヤード - [ウィリアム・ラス](https://ja.wikipedia.org/wiki/ウィリアム・ラス "wikilink")（[津田英三](https://ja.wikipedia.org/wiki/津田英三 "wikilink")）
+  - デニス・ヴィンヤード - [ウィリアム・ラス](https://ja.wikipedia.org/wiki/ウィリアム・ラス "wikilink")（[津田英三](../Page/津田英三.md "wikilink")）
   - セス・ライアン - [イーサン・サプリー](https://ja.wikipedia.org/wiki/イーサン・サプリー "wikilink")（[遠藤純一](../Page/遠藤純一_\(俳優\).md "wikilink")）
-  - ステイシー - [フェアルザ・バルク](https://ja.wikipedia.org/wiki/フェアルザ・バルク "wikilink")（[亀井芳子](../Page/亀井芳子.md "wikilink")）
+  - ステイシー - [フェアルザ・バルク](../Page/フェアルザ・バルク.md "wikilink")（[亀井芳子](../Page/亀井芳子.md "wikilink")）
   - ボブ・スウィーニー - [エイヴリー・ブルックス](../Page/エイヴリー・ブルックス.md "wikilink")（[池田勝](../Page/池田勝.md "wikilink")）
-  - マーレイ - [エリオット・グールド](https://ja.wikipedia.org/wiki/エリオット・グールド "wikilink")（[有本欽隆](../Page/有本欽隆.md "wikilink")）
+  - マーレイ - [エリオット・グールド](../Page/エリオット・グールド.md "wikilink")（[有本欽隆](../Page/有本欽隆.md "wikilink")）
   - ラモント - [ガイ・トリー](https://ja.wikipedia.org/wiki/ガイ・トリー "wikilink")（[二又一成](../Page/二又一成.md "wikilink")）
   - キャメロン・アレクサンダー - [ステイシー・キーチ](../Page/ステイシー・キーチ.md "wikilink")（有本欽隆）
   - マクマホン - [ポール・ル・マット](https://ja.wikipedia.org/wiki/ポール・ル・マット "wikilink")

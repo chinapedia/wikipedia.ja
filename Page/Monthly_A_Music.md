@@ -1,7 +1,7 @@
 > この記事は[Monthly A Music](https://ja.wikipedia.org/wiki/Monthly_A_Music)から翻訳されています。
 
 
-『**Monthly A Music**』（マンスリー・エー・ミュージック）は、[関西](https://ja.wikipedia.org/wiki/関西 "wikilink")のAM[ラジオ局](https://ja.wikipedia.org/wiki/ラジオ局 "wikilink")のうち、[和歌山放送](https://ja.wikipedia.org/wiki/和歌山放送 "wikilink")（WBS）を除く5局（[ラジオ関西](../Page/ラジオ関西.md "wikilink")、[ABCラジオ](../Page/朝日放送ラジオ.md "wikilink")、[KBS京都](../Page/京都放送.md "wikilink")、[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")、[ラジオ大阪](../Page/大阪放送.md "wikilink")）が、一丸となって、毎月一つの楽曲を選曲し、1か月間通じてプッシュして行こうという企画である。簡単に言うと、[FM局がよく行っている](https://ja.wikipedia.org/wiki/ラジオ#超短波放送（FM放送・BSデジタルラジオ） "wikilink")[ヘヴィー・ローテーション](https://ja.wikipedia.org/wiki/ヘヴィー・ローテーション "wikilink")や[パワープレイ](https://ja.wikipedia.org/wiki/パワープレイ "wikilink")を、関西のAMラジオ5局共同で行っているようなものである。
+『**Monthly A Music**』（マンスリー・エー・ミュージック）は、[関西](https://ja.wikipedia.org/wiki/関西 "wikilink")のAM[ラジオ局](https://ja.wikipedia.org/wiki/ラジオ局 "wikilink")のうち、[和歌山放送](https://ja.wikipedia.org/wiki/和歌山放送 "wikilink")（WBS）を除く5局（[ラジオ関西](../Page/ラジオ関西.md "wikilink")、[ABCラジオ](../Page/朝日放送ラジオ.md "wikilink")、[KBS京都](../Page/京都放送.md "wikilink")、[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")、[ラジオ大阪](../Page/大阪放送.md "wikilink")）が、一丸となって、毎月一つの楽曲を選曲し、1か月間通じてプッシュして行こうという企画である。簡単に言うと、[FM局がよく行っている](https://ja.wikipedia.org/wiki/ラジオ#超短波放送（FM放送・BSデジタルラジオ） "wikilink")[ヘヴィー・ローテーション](../Page/ヘヴィー・ローテーション.md "wikilink")や[パワープレイ](https://ja.wikipedia.org/wiki/パワープレイ "wikilink")を、関西のAMラジオ5局共同で行っているようなものである。
 
 ## 概要
 
@@ -64,7 +64,7 @@
   - 3月「Spring Springer ～春に跳ぶ人～」／[堂島孝平](../Page/堂島孝平.md "wikilink")
   - 4月「幼なじみ」／[Sound Schedule](../Page/Sound_Schedule.md "wikilink")
   - 5月「空想ゲーム」／[エスカーゴ](../Page/エスカーゴ.md "wikilink")
-  - 6月「LOST Generation」／[YeLLOW Generation](https://ja.wikipedia.org/wiki/YeLLOW_Generation "wikilink")
+  - 6月「LOST Generation」／[YeLLOW Generation](../Page/YeLLOW_Generation.md "wikilink")
   - 7月「ヒカリヘ」／[ザ・ベイビースターズ](../Page/ザ・ベイビースターズ.md "wikilink")
   - 8月「蜜蜂」／[flex life](https://ja.wikipedia.org/wiki/flex_life "wikilink")
   - 9月「ピンクのボトル」／[WHiTE](https://ja.wikipedia.org/wiki/WHiTE "wikilink")
@@ -109,7 +109,7 @@
   - 3月「大切な思い出」／[えちうら](../Page/えちうら.md "wikilink")
   - 4月「[君の声](../Page/君の声.md "wikilink")」／[アンダーグラフ](../Page/アンダーグラフ.md "wikilink")
   - 5月「[大切な人](../Page/大切な人_\(植村花菜の曲\).md "wikilink")」／[植村花菜](https://ja.wikipedia.org/wiki/植村花菜 "wikilink")
-  - 6月「[ほうき星](https://ja.wikipedia.org/wiki/ほうき星_\(ユンナの曲\) "wikilink")」／[ユンナ](https://ja.wikipedia.org/wiki/ユンナ "wikilink")
+  - 6月「[ほうき星](https://ja.wikipedia.org/wiki/ほうき星_\(ユンナの曲\) "wikilink")」／[ユンナ](../Page/ユンナ.md "wikilink")
   - 7月「心のルーペ」／[湘南探偵団](../Page/湘南探偵団.md "wikilink")
   - 8月「やさしい花」／[奥華子](../Page/奥華子.md "wikilink")
   - 9月「アウトサイド」／[倭製ジェロニモ&ラブゲリラエクスペリエンス](../Page/!wagero!.md "wikilink")
@@ -284,7 +284,7 @@
 
   - 1月「革命のマスク」／[魔法少女になり隊](https://ja.wikipedia.org/wiki/魔法少女になり隊 "wikilink")
   - 2月「初恋サンライズ」／[つばきファクトリー](https://ja.wikipedia.org/wiki/つばきファクトリー "wikilink")
-  - 3月「I HAVE A DREAM」／[馬場俊英](https://ja.wikipedia.org/wiki/馬場俊英 "wikilink")
+  - 3月「I HAVE A DREAM」／[馬場俊英](../Page/馬場俊英.md "wikilink")
   - 4月「faithlessness」／[Maison book girl](https://ja.wikipedia.org/wiki/Maison_book_girl "wikilink")
   - 5月「ドリーミージャーニー」／[the peggies](https://ja.wikipedia.org/wiki/the_peggies "wikilink")
   - 6月「On may way」／[I Don't Like Mondays.](https://ja.wikipedia.org/wiki/I_Don't_Like_Mondays. "wikilink")

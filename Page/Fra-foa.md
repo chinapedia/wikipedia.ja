@@ -1,13 +1,13 @@
 > この記事は[Fra-foa](https://ja.wikipedia.org/wiki/Fra-foa)から翻訳されています。
 
 
-**fra-foa**（フラホア）は、日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[東北大学](https://ja.wikipedia.org/wiki/東北大学 "wikilink")出身の男女4人によって[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に結成され、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に解散した。
+**fra-foa**（フラホア）は、日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[東北大学](https://ja.wikipedia.org/wiki/東北大学 "wikilink")出身の男女4人によって[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に結成され、[2005年](../Page/2005年.md "wikilink")に解散した。
 
 ## 概要・来歴
 
 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、[仙台](https://ja.wikipedia.org/wiki/仙台 "wikilink")にて[東北大学](https://ja.wikipedia.org/wiki/東北大学 "wikilink")の学生だった三上ちさ子（現・[三上ちさこ](../Page/三上ちさこ.md "wikilink")）、高橋誠二、平塚学、佐々木康治の4人によって結成された[エモコア](https://ja.wikipedia.org/wiki/エモコア "wikilink")・バンド\[1\]。
 
-[2000年](../Page/2000年.md "wikilink")5月24日、[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より[マキシシングル](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")「月と砂漠」でメジャーデビュー。以後、6枚のシングルと2枚のアルバムをリリースし仙台に在住しながら精力的な活動を続けていたが、[2003年](../Page/2003年.md "wikilink")に三上の結婚・出産をきっかけに活動休止となる。その後も単発的にライブを行っていたが、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[5月14日](../Page/5月14日.md "wikilink")のライブをもってバンドは解散した\[2\]。その後はそれぞれのソロプロジェクトで活動している。
+[2000年](../Page/2000年.md "wikilink")5月24日、[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より[マキシシングル](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")「月と砂漠」でメジャーデビュー。以後、6枚のシングルと2枚のアルバムをリリースし仙台に在住しながら精力的な活動を続けていたが、[2003年](../Page/2003年.md "wikilink")に三上の結婚・出産をきっかけに活動休止となる。その後も単発的にライブを行っていたが、[2005年](../Page/2005年.md "wikilink")[5月14日](../Page/5月14日.md "wikilink")のライブをもってバンドは解散した\[2\]。その後はそれぞれのソロプロジェクトで活動している。
 
 2010年4月24日、バンドの拠点である宮城県仙台市の輪王寺で開催されたイベント“アースディ2010”におけるキャンドルナイトコンサートに、オリジナル・ドラマーを欠いた編成の[FRA+](https://ja.wikipedia.org/wiki/FRA+ "wikilink")（フラプラス）としてトリで出演した。ドラムはギターの高橋がfra-foa後に活動したN.E.S.の盟友：瀬野尾達也。
 

@@ -1,7 +1,7 @@
 > この記事は[GENJI](https://ja.wikipedia.org/wiki/GENJI)から翻訳されています。
 
 
-『**GENJI**』（ゲンジ）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[6月30日](../Page/6月30日.md "wikilink")に[PlayStation 2向けに発売された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、神威（[カムイ](https://ja.wikipedia.org/wiki/カムイ "wikilink")）アクション・アドベンチャーゲーム。[ゲームリパブリック](../Page/ゲームリパブリック.md "wikilink")×[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")ジャパンの第一弾作品。また、同作品はベスト版も発売されている。
+『**GENJI**』（ゲンジ）は、[2005年](../Page/2005年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink")に[PlayStation 2向けに発売された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、神威（[カムイ](https://ja.wikipedia.org/wiki/カムイ "wikilink")）アクション・アドベンチャーゲーム。[ゲームリパブリック](../Page/ゲームリパブリック.md "wikilink")×[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")ジャパンの第一弾作品。また、同作品はベスト版も発売されている。
 
 ## クリエイター
 
@@ -29,7 +29,7 @@
   - しんた - [喜田あゆみ](../Page/喜田あゆ美.md "wikilink")
   - 三郎太 - [吉野貴宏](../Page/吉野貴宏.md "wikilink")、[間島淳司](../Page/間島淳司.md "wikilink")、[有島モユ](../Page/有島モユ.md "wikilink")
   - [源頼朝](../Page/源頼朝.md "wikilink")
-  - [ナレーション](https://ja.wikipedia.org/wiki/ナレーター "wikilink") - [津田英三](https://ja.wikipedia.org/wiki/津田英三 "wikilink")
+  - [ナレーション](https://ja.wikipedia.org/wiki/ナレーター "wikilink") - [津田英三](../Page/津田英三.md "wikilink")
 
 ## 主題歌
 

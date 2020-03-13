@@ -39,7 +39,7 @@
 
 <TD nowrap>
 
-[エフエムふくやま](https://ja.wikipedia.org/wiki/エフエムふくやま "wikilink")
+[エフエムふくやま](../Page/エフエムふくやま.md "wikilink")
 
 </TD>
 
@@ -233,7 +233,7 @@ JOZZ8AH-FM
 
 <TD nowrap>
 
-[エフエム出雲](https://ja.wikipedia.org/wiki/エフエムいずも "wikilink")
+[エフエム出雲](../Page/エフエムいずも.md "wikilink")
 
 </TD>
 

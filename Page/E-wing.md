@@ -23,7 +23,7 @@
 
 ## 沿革
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）
+  - [2005年](../Page/2005年.md "wikilink")（平成17年）
       - [2月17日](../Page/2月17日.md "wikilink") - 中部国際空港開港にあわせて中部国際空港線が運行開始。当時は[磐田駅](https://ja.wikipedia.org/wiki/磐田駅 "wikilink")（一部便のみ）・浜松駅〜中部国際空港間で運行。
       - [6月17日](../Page/6月17日.md "wikilink") - 利用者10万人達成。
       - [9月1日](../Page/9月1日.md "wikilink") - ダイヤ改正。（中部国際空港〜磐田営業所便、浜松西IC〜磐田営業所間連絡便を新設。磐田駅発着便は廃止。）

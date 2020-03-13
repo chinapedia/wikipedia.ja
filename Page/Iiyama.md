@@ -16,13 +16,13 @@
 その後、エポック産業は社名をアイデック上越に変更、更に平成9年にイーヤマに変更した。
 そして、平成13年4月にイーヤマが飯山電機を吸収する形で合併した。
 
-しかし、低価格販売が売りだったことから売り上げに反して業績は思わしくなく、[2005年](../Page/2005年.md "wikilink")[11月7日](../Page/11月7日.md "wikilink")に[民事再生の申し立てを行なった](../Page/民事再生法.md "wikilink")。経営再建にあたり、[BTO](https://ja.wikipedia.org/wiki/BTO "wikilink")[パソコンメーカーである](../Page/パーソナルコンピュータ.md "wikilink")[MCJ](../Page/MCJ.md "wikilink")の支援を受け入れることになり、MCJは[2006年](../Page/2006年.md "wikilink")[1月24日](../Page/1月24日.md "wikilink")に子会社であるイーヤマ販売の全株式を取得した。
+しかし、低価格販売が売りだったことから売り上げに反して業績は思わしくなく、[2005年](../Page/2005年.md "wikilink")[11月7日](../Page/11月7日.md "wikilink")に[民事再生の申し立てを行なった](../Page/民事再生法.md "wikilink")。経営再建にあたり、[BTO](../Page/BTO.md "wikilink")[パソコンメーカーである](../Page/パーソナルコンピュータ.md "wikilink")[MCJ](../Page/MCJ.md "wikilink")の支援を受け入れることになり、MCJは[2006年](../Page/2006年.md "wikilink")[1月24日](../Page/1月24日.md "wikilink")に子会社であるイーヤマ販売の全株式を取得した。
 
 2006年[2月1日](../Page/2月1日.md "wikilink")、本社を東京都中央区に移転し、社名を株式会社iiyamaに変更。イーヤマおよび国内外子会社の営業権譲渡と株式譲渡を受ける。2006年[3月27日](../Page/3月27日.md "wikilink")には、本社をMCJと同じ東京都千代田区のビルに移した。その後、株式会社iiyamaとして業績を回復したものの、国内生産を行っていたタッチパネルディスプレイ等の産業用ディスプレイ事業の伸び悩みに伴い、2008年7月、株式会社iiyamaの産業用ディスプレイ事業は[東京特殊電線](../Page/東京特殊電線.md "wikilink")に事業譲渡された。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")10月、iiyamaグループの本社機能をiiyama International（オランダ）に移転し、株式会社iiyamaは、MCJのグループ会社、株式会社マウスコンピューターに吸収合併され、解散に至った。 株式会社iiyamaの長野県飯山市の飯山事業所は、株式会社マウスコンピューターのパソコン製造工場及び従来のモニター修理工場として継続している\[1\]。
 
-[Iiyama_girl_at_Igromir_2012.jpg](https://ja.wikipedia.org/wiki/File:Iiyama_girl_at_Igromir_2012.jpg "fig:Iiyama_girl_at_Igromir_2012.jpg")（[ロシア](../Page/ロシア.md "wikilink")の[ゲーム](../Page/コンピュータゲーム.md "wikilink")[イベント](../Page/見本市.md "wikilink")、[IgroMir](https://ja.wikipedia.org/wiki/:en:IgroMir "wikilink") 2012にて）\]\] [2013年](../Page/2013年.md "wikilink")10月からは、同じMCJ傘下の[ユニットコム](https://ja.wikipedia.org/wiki/ユニットコム "wikilink")が発売するパーソナルコンピュータのブランド名としても「iiyama」が使われているが、ロゴは別デザインとなる（2015年にリニューアルし、ディスプレイのものに似たデザインとなる）。
+[Iiyama_girl_at_Igromir_2012.jpg](https://ja.wikipedia.org/wiki/File:Iiyama_girl_at_Igromir_2012.jpg "fig:Iiyama_girl_at_Igromir_2012.jpg")（[ロシア](../Page/ロシア.md "wikilink")の[ゲーム](../Page/コンピュータゲーム.md "wikilink")[イベント](../Page/見本市.md "wikilink")、[IgroMir](https://ja.wikipedia.org/wiki/:en:IgroMir "wikilink") 2012にて）\]\] [2013年](../Page/2013年.md "wikilink")10月からは、同じMCJ傘下の[ユニットコム](../Page/ユニットコム.md "wikilink")が発売するパーソナルコンピュータのブランド名としても「iiyama」が使われているが、ロゴは別デザインとなる（2015年にリニューアルし、ディスプレイのものに似たデザインとなる）。
 
 ## 脚注
 

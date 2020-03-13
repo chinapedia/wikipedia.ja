@@ -15,7 +15,7 @@
   - [2003年](../Page/2003年.md "wikilink") - 1集(1st)アルバム『JUST LISTEN』で本格的にデビュー。リード曲「」（来てくれ）で活動を開始。
   - [2004年](../Page/2004年.md "wikilink") - 2集(2nd)アルバム『MUST LISTEN』を、自分の芸名にかけて[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")に発売。リード曲「」（熱情）、後続曲「」（刺青）ともにチャート1位を獲得し、歌手としての地位を確かなものにした。
   - [2004年](../Page/2004年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink") - インターネット限定のデジタルシングル「CRAZY」を配信。インターネット音源としては異例の26万ダウンロードを記録した。この曲の活動時、振り付け兼ダンサーとして[Usherのダンスチームをレンタルしていた](../Page/アッシャー_\(歌手\).md "wikilink")。なお、同曲は後に日本デビューシングルとなった「光」のカップリングとして収録された。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")- 予定していた3集アルバムの発売を、翌年の[2006年](../Page/2006年.md "wikilink")に延期することを、本人公式HP上の日記で明らかにした。その理由として、「自分のすべてを籠めることが出来なかった」からと、同日記で述べている。
+  - [2005年](../Page/2005年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")- 予定していた3集アルバムの発売を、翌年の[2006年](../Page/2006年.md "wikilink")に延期することを、本人公式HP上の日記で明らかにした。その理由として、「自分のすべてを籠めることが出来なかった」からと、同日記で述べている。
   - [2007年](../Page/2007年.md "wikilink") - [MBCで放送のドラマ](../Page/文化放送_\(韓国\).md "wikilink")「[宮S](../Page/宮S.md "wikilink")」（日本放送時のタイトルは「宮S -Secret Prince-」）の主演として役者デビュー。
   - [2009年](../Page/2009年.md "wikilink")[6月](../Page/6月.md "wikilink")- 5月に何度も熱愛が噂されていた、女優のパク・ハンビョルと二人で泥パックをしながら仲良くポーズを取ったポロライド写真が流失した。6月10日にミニホームページで七年越しの恋人関係であること告白した。
   - [2013年](../Page/2013年.md "wikilink") - 3月19日の午後2時に京畿道(キョンギド)議政府(ウィジョンブ)306補充隊に入所し、1年10ヶ月間服務する。
@@ -30,9 +30,9 @@
 
 <!-- end list -->
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink") - [D・A・Iを](../Page/長尾大.md "wikilink")[プロデューサー](../Page/プロデューサー.md "wikilink")に迎え、日本デビューシングル「光」を発売。これに際して来日し、全国の大手レコードショップでのインストアライブや、TV・ラジオの出演など日本での活動を開始する。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[5月18日](../Page/5月18日.md "wikilink") - 2ndシングル「STYLE」を発売。発売週に[オリコンウィークリーランキング](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")10位となり、日本において初めてランキングトップ10入りを果たした。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月19日](../Page/10月19日.md "wikilink") - 両A面3rdシングル「スタートライン/Forever」を発売。[オリコンウィークリーランキング](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")4位を記録。2曲ともに[日本語](../Page/日本語.md "wikilink")曲では初めてのバラード。また10月22日には、デビューから8ヶ月で横浜アリーナでのコンサートを開催。
+  - [2005年](../Page/2005年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink") - [D・A・Iを](../Page/長尾大.md "wikilink")[プロデューサー](../Page/プロデューサー.md "wikilink")に迎え、日本デビューシングル「光」を発売。これに際して来日し、全国の大手レコードショップでのインストアライブや、TV・ラジオの出演など日本での活動を開始する。
+  - [2005年](../Page/2005年.md "wikilink")[5月18日](../Page/5月18日.md "wikilink") - 2ndシングル「STYLE」を発売。発売週に[オリコンウィークリーランキング](../Page/オリコンチャート.md "wikilink")10位となり、日本において初めてランキングトップ10入りを果たした。
+  - [2005年](../Page/2005年.md "wikilink")[10月19日](../Page/10月19日.md "wikilink") - 両A面3rdシングル「スタートライン/Forever」を発売。[オリコンウィークリーランキング](../Page/オリコンチャート.md "wikilink")4位を記録。2曲ともに[日本語](../Page/日本語.md "wikilink")曲では初めてのバラード。また10月22日には、デビューから8ヶ月で横浜アリーナでのコンサートを開催。
   - [2006年](../Page/2006年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink") - 1stアルバム『FIRST SE7EN』を発売。
   - [2006年](../Page/2006年.md "wikilink")[9月13日](../Page/9月13日.md "wikilink") - 4thシングル「I wanna...」を発売。TVなどでのプロモーション展開をほぼしなかったが、ウィークリーランキング10位にランクイン。
   - [2007年](../Page/2007年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink") - 5thシングル「会いたい」を発売。このPVには本人の出演はない。デビュー当時の山本裕典が出演している。
@@ -133,7 +133,7 @@
 <li>THE ONE</li>
 <li>STYLE -instrumental-</li>
 </ol></td>
-<td><p>VENTUNO「エフキュア」（出演：<a href="../Page/クォン・サンウ.md" title="wikilink">クォン・サンウ</a>）<a href="https://ja.wikipedia.org/wiki/コマーシャルソング" title="wikilink">CMソング</a></p></td>
+<td><p>VENTUNO「エフキュア」（出演：<a href="../Page/クォン・サンウ.md" title="wikilink">クォン・サンウ</a>）<a href="../Page/コマーシャルソング.md" title="wikilink">CMソング</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>

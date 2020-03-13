@@ -19,7 +19,7 @@
 
 ※（参考：1999年秋）一部コーナーは金曜放送の「[中田美知子](https://ja.wikipedia.org/wiki/中田美知子 "wikilink")の週刊AIR-G'族」などと共通。金曜は6時台の放送番組の一部を『チェキチェキ』（月－木は6:00までの放送）に内包。★は東京発の番組内容。
 
-  - 6：00 - 9：00　【6PAX】・・・[高山秀毅](../Page/高山秀毅.md "wikilink")＆[佐藤ゆかり](https://ja.wikipedia.org/wiki/佐藤ゆかり "wikilink")
+  - 6：00 - 9：00　【6PAX】・・・[高山秀毅](../Page/高山秀毅.md "wikilink")＆[佐藤ゆかり](../Page/佐藤ゆかり.md "wikilink")
 
 <table>
 <tbody>
@@ -27,7 +27,7 @@
 <td><ul>
 <li>6:00　News Earlybird</li>
 <li>6:20　JUMP UP SPORTS</li>
-<li>6:25　★<a href="https://ja.wikipedia.org/wiki/MY_OLYMPIC" title="wikilink">MY OLYMPIC</a> - <a href="../Page/蒲田健.md" title="wikilink">蒲田健</a></li>
+<li>6:25　★<a href="../Page/MY_OLYMPIC.md" title="wikilink">MY OLYMPIC</a> - <a href="../Page/蒲田健.md" title="wikilink">蒲田健</a></li>
 <li>6:30　時々刻々</li>
 <li>6:40　Catch Of THE DAY</li>
 <li>6:46　★<a href="../Page/おはようSMAP.md" title="wikilink">おはようSMAP</a> - <a href="https://ja.wikipedia.org/wiki/SMAP" title="wikilink">SMAP</a>、<a href="../Page/立花裕人.md" title="wikilink">立花裕人</a>、<a href="../Page/柴田玲.md" title="wikilink">柴田玲</a></li>

@@ -7,7 +7,7 @@
 
 [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")、日本女子サッカーリーグへの参入を希望していた神奈川県[綾瀬市](../Page/綾瀬市.md "wikilink")の天台FCに建設会社の[フジタ](../Page/フジタ.md "wikilink")がスポンサーに付き**フジタ天台SCマーキュリー**として誕生\[1\]。翌[1991年](../Page/1991年.md "wikilink")6月から[旭国際バニーズ](https://ja.wikipedia.org/wiki/バニーズ京都SC "wikilink")、[松下電器LSC](https://ja.wikipedia.org/wiki/スペランツァFC大阪高槻 "wikilink")、[日興證券ドリームレディース](../Page/日興證券ドリームレディース.md "wikilink")とともに日本女子サッカーリーグ（JLSL：のちL・リーグ）に参加した。
 
-[1994年](../Page/1994年.md "wikilink")、前年限りで廃部となった[日産FCレディース](https://ja.wikipedia.org/wiki/日産FCレディース "wikilink")から選手が移籍。またこの年に[Jリーグに昇格した](../Page/日本プロサッカーリーグ.md "wikilink")[ベルマーレ平塚と兄妹チーム的存在となり](https://ja.wikipedia.org/wiki/湘南ベルマーレ "wikilink")、同じデザインをベースとする黄緑色のユニフォームを採用した。
+[1994年](../Page/1994年.md "wikilink")、前年限りで廃部となった[日産FCレディース](../Page/日産FCレディース.md "wikilink")から選手が移籍。またこの年に[Jリーグに昇格した](../Page/日本プロサッカーリーグ.md "wikilink")[ベルマーレ平塚と兄妹チーム的存在となり](https://ja.wikipedia.org/wiki/湘南ベルマーレ "wikilink")、同じデザインをベースとする黄緑色のユニフォームを採用した。
 
 [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、チーム名を**フジタサッカークラブ・マーキュリー**（フジタSCマーキュリー）に改名\[2\]。
 
@@ -39,7 +39,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/第3回日本女子サッカーリーグ" title="wikilink">3</a></p></td>
+<td><p><a href="../Page/第3回日本女子サッカーリーグ.md" title="wikilink">3</a></p></td>
 <td><p>1991</p>
 <td rowspan="4">
 <p>フジタ天台SCマーキュリー</p>
@@ -58,7 +58,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/第4回日本女子サッカーリーグ" title="wikilink">4</a></p></td>
+<td><p><a href="../Page/第4回日本女子サッカーリーグ.md" title="wikilink">4</a></p></td>
 <td><p>1992</p></td>
 <td><p>10</p></td>
 <td><p>18</p></td>
@@ -73,7 +73,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/第5回日本女子サッカーリーグ" title="wikilink">5</a></p></td>
+<td><p><a href="../Page/第5回日本女子サッカーリーグ.md" title="wikilink">5</a></p></td>
 <td><p>1993</p></td>
 <td><p>10</p></td>
 <td><p>18</p></td>
@@ -88,7 +88,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/第6回日本女子サッカーリーグ" title="wikilink">6</a></p></td>
+<td><p><a href="../Page/第6回日本女子サッカーリーグ.md" title="wikilink">6</a></p></td>
 <td><p>1994</p>
 <td rowspan="5">
 <p><a href="../Page/日本女子サッカーリーグ.md" title="wikilink">L・リーグ</a></p></td>
@@ -105,7 +105,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/第7回日本女子サッカーリーグ" title="wikilink">7</a></p></td>
+<td><p><a href="../Page/第7回日本女子サッカーリーグ.md" title="wikilink">7</a></p></td>
 <td><p>1995</p>
 <td rowspan="4">
 <p>フジタサッカークラブ・マーキュリー</p>
@@ -124,7 +124,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/第8回日本女子サッカーリーグ" title="wikilink">8</a></p></td>
+<td><p><a href="../Page/第8回日本女子サッカーリーグ.md" title="wikilink">8</a></p></td>
 <td><p>1996</p></td>
 <td><p>10</p></td>
 <td><p>18</p></td>
@@ -139,7 +139,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/第9回日本女子サッカーリーグ" title="wikilink">9</a></p></td>
+<td><p><a href="../Page/第9回日本女子サッカーリーグ.md" title="wikilink">9</a></p></td>
 <td><p>1997</p></td>
 <td><p>10</p></td>
 <td><p>18</p></td>
@@ -154,7 +154,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/第10回日本女子サッカーリーグ" title="wikilink">10</a></p></td>
+<td><p><a href="../Page/第10回日本女子サッカーリーグ.md" title="wikilink">10</a></p></td>
 <td><p>1998</p></td>
 <td><p>10</p></td>
 <td><p>18</p></td>

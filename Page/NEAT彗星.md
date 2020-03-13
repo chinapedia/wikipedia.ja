@@ -1,7 +1,7 @@
 > この記事は[NEAT](https://ja.wikipedia.org/wiki/NEAT)から翻訳されています。
 
 
-**NEAT彗星**（ニート彗星、ニートすいせい）は、[NASAが](../Page/アメリカ航空宇宙局.md "wikilink")[パロマー天文台](https://ja.wikipedia.org/wiki/パロマー天文台 "wikilink")でおこなっている[地球近傍小惑星](../Page/地球近傍小惑星.md "wikilink")サーベイ、Near-Earth Asteroid Tracking ([NEAT](https://ja.wikipedia.org/wiki/地球近傍小惑星追跡 "wikilink")）で発見された[彗星](../Page/彗星.md "wikilink")である。約40個（2006年8月現在、連名を除く）あるが、次のものが代表的である。
+**NEAT彗星**（ニート彗星、ニートすいせい）は、[NASAが](../Page/アメリカ航空宇宙局.md "wikilink")[パロマー天文台](../Page/パロマー天文台.md "wikilink")でおこなっている[地球近傍小惑星](../Page/地球近傍小惑星.md "wikilink")サーベイ、Near-Earth Asteroid Tracking ([NEAT](https://ja.wikipedia.org/wiki/地球近傍小惑星追跡 "wikilink")）で発見された[彗星](../Page/彗星.md "wikilink")である。約40個（2006年8月現在、連名を除く）あるが、次のものが代表的である。
 
   - [C/2001 Q4 (NEAT)](https://ja.wikipedia.org/wiki/ニート彗星_\(C/2001_Q4\) "wikilink") - [2004年](../Page/2004年.md "wikilink")に[近日点](https://ja.wikipedia.org/wiki/近日点 "wikilink")通過、地球に接近し、肉眼彗星となった。特にこの彗星は遠日点が約1光年(54000AU)に及び周期も約350万年と超長期彗星である。[オールトの雲](../Page/オールトの雲.md "wikilink")から飛来していると推測されている。
 

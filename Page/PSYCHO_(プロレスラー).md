@@ -53,7 +53,7 @@
 ## テレビ出演
 
   - [プロレスKING](https://ja.wikipedia.org/wiki/プロレスKING "wikilink")（[GAORA](https://ja.wikipedia.org/wiki/GAORA "wikilink")）
-  - [ピタゴラスイッチ](../Page/ピタゴラスイッチ.md "wikilink")（[NHK教育テレビ](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")）
+  - [ピタゴラスイッチ](../Page/ピタゴラスイッチ.md "wikilink")（[NHK教育テレビ](../Page/NHK教育テレビジョン.md "wikilink")）
 
 ## マリーンズマスク（2代目）
 
@@ -103,11 +103,11 @@
 
 ## サワディー仮面
 
-  - **サワディー仮面**（サワディーかめん、生年月日不明 - ）は、国籍不明の[覆面レスラー](../Page/覆面レスラー.md "wikilink")。[リングネーム](../Page/リングネーム.md "wikilink")は[タイ語](../Page/タイ語.md "wikilink")における挨拶である[サワディーが由来](https://ja.wikipedia.org/wiki/サワッディー "wikilink")。本名：非公開。身長体重不明。
+  - **サワディー仮面**（サワディーかめん、生年月日不明 - ）は、国籍不明の[覆面レスラー](../Page/覆面レスラー.md "wikilink")。[リングネーム](../Page/リングネーム.md "wikilink")は[タイ語](../Page/タイ語.md "wikilink")における挨拶である[サワディーが由来](../Page/サワッディー.md "wikilink")。本名：非公開。身長体重不明。
 
 ### 歴史
 
-  - [2013年](../Page/2013年.md "wikilink")[10月10日](../Page/10月10日.md "wikilink")、[さくらえみ](https://ja.wikipedia.org/wiki/さくらえみ "wikilink")の要請に応じて[プロレスリング我闘雲舞に参戦して](https://ja.wikipedia.org/wiki/我闘雲舞 "wikilink")[円華](https://ja.wikipedia.org/wiki/円華 "wikilink")とタッグを組んで対[帯広さやか](https://ja.wikipedia.org/wiki/帯広さやか "wikilink")&[ワンチューロ](https://ja.wikipedia.org/wiki/ワンチューロ "wikilink")組戦でデビュー\[2\]\[3\]。
+  - [2013年](../Page/2013年.md "wikilink")[10月10日](../Page/10月10日.md "wikilink")、[さくらえみ](../Page/さくらえみ.md "wikilink")の要請に応じて[プロレスリング我闘雲舞に参戦して](https://ja.wikipedia.org/wiki/我闘雲舞 "wikilink")[円華](https://ja.wikipedia.org/wiki/円華 "wikilink")とタッグを組んで対[帯広さやか](https://ja.wikipedia.org/wiki/帯広さやか "wikilink")&[ワンチューロ](https://ja.wikipedia.org/wiki/ワンチューロ "wikilink")組戦でデビュー\[2\]\[3\]。
 
 ### 得意技
 

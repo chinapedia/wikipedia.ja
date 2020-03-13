@@ -77,7 +77,7 @@
   - メロディー＜着信音＞ [田原俊彦](../Page/田原俊彦.md "wikilink") （[作詞](../Page/作詞.md "wikilink")は[小林宏至](https://ja.wikipedia.org/wiki/小林宏至 "wikilink")）
   - 空のたまご [浜野和子](https://ja.wikipedia.org/wiki/浜野和子 "wikilink") （『[天才てれびくん](https://ja.wikipedia.org/wiki/天才てれびくん "wikilink")』＜一芸を磨けコーナー＞テーマ）
   - 大丈夫〜病は気から〜 [大柴邦彦](https://ja.wikipedia.org/wiki/大柴邦彦 "wikilink") （洋服の青山フレッシャーズCM）
-  - [シャワー](https://ja.wikipedia.org/wiki/シャワー_\(曲\) "wikilink") [由佳](https://ja.wikipedia.org/wiki/由佳 "wikilink")
+  - [シャワー](../Page/シャワー_\(曲\).md "wikilink") [由佳](https://ja.wikipedia.org/wiki/由佳 "wikilink")
   - ミルク／夏の魔法 [椛田早紀](../Page/椛田早紀.md "wikilink") （ライブのみで披露。共に[作詞](../Page/作詞.md "wikilink")は[椛田早紀](../Page/椛田早紀.md "wikilink")）
 
 ## タイアップ
@@ -95,7 +95,7 @@
 ## 関連項目
 
   - [HAPPY DRUG STORE](../Page/HAPPY_DRUG_STORE.md "wikilink")
-  - [稲田光穂](https://ja.wikipedia.org/wiki/稲田光穂 "wikilink")
+  - [稲田光穂](../Page/稲田光穂.md "wikilink")
   - [輝け\!ソングラ天国](../Page/ソングラシリーズ.md "wikilink")
 
 ## 外部リンク

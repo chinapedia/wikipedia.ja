@@ -50,7 +50,7 @@
 
 特に、イギリス海軍の[航空母艦](../Page/航空母艦.md "wikilink")「[カレイジャス](../Page/カレイジャス_\(空母\).md "wikilink")」を撃沈したVIIA型のU-29、[スカパ・フロー](../Page/スカパ・フロー.md "wikilink")に潜入し[戦艦](https://ja.wikipedia.org/wiki/戦艦 "wikilink")「[ロイヤル・オーク](../Page/ロイヤル・オーク_\(戦艦\).md "wikilink")」を撃沈した[ギュンター・プリーン](../Page/ギュンター・プリーン.md "wikilink")（Günther Prien）指揮するVIIB型のU-47、[大西洋](../Page/大西洋.md "wikilink")と[北海](../Page/北海.md "wikilink")での12回の作戦行動で54隻を撃沈したU-48、空母「[イーグル](../Page/イーグル_\(空母・初代\).md "wikilink")」を撃沈したU-73、[オットー・クレッチマー](../Page/オットー・クレッチマー.md "wikilink")（Otto Kretschmer）の指揮したU-99や[ヨアヒム・シェプケ](https://ja.wikipedia.org/wiki/ヨアヒム・シェプケ "wikilink")（Joachim Schepke）のU-100、空母「[アーク・ロイヤル](../Page/アーク・ロイヤル_\(空母・初代\).md "wikilink")」を撃沈したVIIC型のU-81、戦艦「[バーラム](../Page/バーラム_\(戦艦\).md "wikilink")」を撃沈したU-331が有名である。
 
-ちなみに、HX228船団を襲撃したU-444は、英海軍駆逐艦「[ハーヴェスター](https://ja.wikipedia.org/wiki/ハーヴェスター_\(駆逐艦\) "wikilink")」に体当たりを受け、互いのプロペラシャフトが絡み合って動けない所に、自由フランス海軍の[フラワー級コルベット](https://ja.wikipedia.org/wiki/フラワー級コルベット "wikilink")「アコニト」の体当たりを受けて沈没した\[1\]。
+ちなみに、HX228船団を襲撃したU-444は、英海軍駆逐艦「[ハーヴェスター](https://ja.wikipedia.org/wiki/ハーヴェスター_\(駆逐艦\) "wikilink")」に体当たりを受け、互いのプロペラシャフトが絡み合って動けない所に、自由フランス海軍の[フラワー級コルベット](../Page/フラワー級コルベット.md "wikilink")「アコニト」の体当たりを受けて沈没した\[1\]。
 
 ## 性能諸元
 
@@ -290,7 +290,7 @@
 <tr class="even">
 <td><p>対空機銃<br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2cm_Flakvierling38" title="wikilink">C30 20 mm</a></p></td>
+<td><p><a href="../Page/2cm_Flakvierling38.md" title="wikilink">C30 20 mm</a></p></td>
 <td><p>複数</p></td>
 <td><p>2 × C30 20 mm,<br />
 弾丸4,380発</p></td>

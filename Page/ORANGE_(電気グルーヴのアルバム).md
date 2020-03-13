@@ -36,7 +36,7 @@
         アナウンサーである[徳光和夫](../Page/徳光和夫.md "wikilink")がゲスト参加し、臨時ニュースをアナウンスしている。
 8.  **スコーピオン** - *SCORPION*
       -
-        後に、セルフ・[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")の『[The Last Supper](https://ja.wikipedia.org/wiki/The_Last_Supper "wikilink")』に「スコーピオン2001」というリメイクしたバージョンが収録された。
+        後に、セルフ・[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")の『[The Last Supper](../Page/The_Last_Supper.md "wikilink")』に「スコーピオン2001」というリメイクしたバージョンが収録された。
 9.  **スマイルレス スマイル** - *SMILELESS SMILE*
 10. **Tシャツで雪まつり Including 燃えよドラゴンのテーマ** - *T-SHIRT DE YUKIMATSURI*
       -

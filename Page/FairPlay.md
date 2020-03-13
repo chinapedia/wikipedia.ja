@@ -1,7 +1,7 @@
 > この記事は[FairPlay](https://ja.wikipedia.org/wiki/FairPlay)から翻訳されています。
 
 
-**FairPlay**（フェアプレー）は、[QuickTime](../Page/QuickTime.md "wikilink")マルチメディア技術に内蔵され[iPod](https://ja.wikipedia.org/wiki/iPod "wikilink")、[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")、及び[iTunes Storeによって使用されているこの](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")[デジタル著作権管理](https://ja.wikipedia.org/wiki/デジタル著作権管理 "wikilink") (DRM : Digital Rights Management) 向けに[アップルが名付けた名称である](../Page/アップル_\(企業\).md "wikilink")。iTunesと共にiTunes Storeから購入したそれぞれのファイルはFairPlayと同時にエンコードされている。また同社の[携帯音楽プレーヤー](../Page/携帯音楽プレーヤー.md "wikilink")である[iPod](https://ja.wikipedia.org/wiki/iPod "wikilink")シリーズはこの方式の[ファイルをスムーズにシンクする](../Page/ファイル_\(コンピュータ\).md "wikilink")。
+**FairPlay**（フェアプレー）は、[QuickTime](../Page/QuickTime.md "wikilink")マルチメディア技術に内蔵され[iPod](https://ja.wikipedia.org/wiki/iPod "wikilink")、[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")、及び[iTunes Storeによって使用されているこの](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")[デジタル著作権管理](../Page/デジタル著作権管理.md "wikilink") (DRM : Digital Rights Management) 向けに[アップルが名付けた名称である](../Page/アップル_\(企業\).md "wikilink")。iTunesと共にiTunes Storeから購入したそれぞれのファイルはFairPlayと同時にエンコードされている。また同社の[携帯音楽プレーヤー](../Page/携帯音楽プレーヤー.md "wikilink")である[iPod](https://ja.wikipedia.org/wiki/iPod "wikilink")シリーズはこの方式の[ファイルをスムーズにシンクする](../Page/ファイル_\(コンピュータ\).md "wikilink")。
 
 ## 「FairPlay」の仕様 (v2)
 

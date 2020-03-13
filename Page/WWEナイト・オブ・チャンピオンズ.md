@@ -37,7 +37,7 @@
 <!-- end list -->
 
   -
-    ○[マット・ハーディー](https://ja.wikipedia.org/wiki/マット・ハーディー "wikilink")(c) vs [チャボ・ゲレロ](../Page/チャボ・ゲレロ・ジュニア.md "wikilink")（w /[バム・ニーリー](https://ja.wikipedia.org/wiki/ジャスティン・ラルーシュ "wikilink") ）●
+    ○[マット・ハーディー](../Page/マット・ハーディー.md "wikilink")(c) vs [チャボ・ゲレロ](../Page/チャボ・ゲレロ・ジュニア.md "wikilink")（w /[バム・ニーリー](https://ja.wikipedia.org/wiki/ジャスティン・ラルーシュ "wikilink") ）●
 
 <!-- end list -->
 
@@ -59,7 +59,7 @@
 
 <!-- end list -->
 
-  - **[WWEインターコンチネンタル王座戦](https://ja.wikipedia.org/wiki/WWE・インターコンチネンタル王座 "wikilink") -WWE Intercontinental Championship-**（RAW）
+  - **[WWEインターコンチネンタル王座戦](../Page/WWE・インターコンチネンタル王座.md "wikilink") -WWE Intercontinental Championship-**（RAW）
 
 <!-- end list -->
 
@@ -82,7 +82,7 @@
 <!-- end list -->
 
   -
-    ○[エッジ](https://ja.wikipedia.org/wiki/アダム・コープランド "wikilink")(c) vs [バティスタ](https://ja.wikipedia.org/wiki/デビッド・バウティスタ "wikilink")●
+    ○[エッジ](../Page/アダム・コープランド.md "wikilink")(c) vs [バティスタ](https://ja.wikipedia.org/wiki/デビッド・バウティスタ "wikilink")●
 
 <!-- end list -->
 
@@ -124,7 +124,7 @@
 <!-- end list -->
 
   -
-    ●[トミー・ドリーマー](../Page/トミー・ドリーマー.md "wikilink")(c) vs [クリスチャン](https://ja.wikipedia.org/wiki/ジェイソン・リソ "wikilink")○
+    ●[トミー・ドリーマー](../Page/トミー・ドリーマー.md "wikilink")(c) vs [クリスチャン](../Page/ジェイソン・リソ.md "wikilink")○
 
 <!-- end list -->
 
@@ -142,7 +142,7 @@
 <!-- end list -->
 
   -
-    ○[ミシェル・マクール](https://ja.wikipedia.org/wiki/ミシェル・マクール "wikilink")(c) vs [メリーナ](https://ja.wikipedia.org/wiki/メリーナ・ペレス "wikilink")●
+    ○[ミシェル・マクール](../Page/ミシェル・マクール.md "wikilink")(c) vs [メリーナ](https://ja.wikipedia.org/wiki/メリーナ・ペレス "wikilink")●
 
 <!-- end list -->
 
@@ -164,7 +164,7 @@
 
 <!-- end list -->
 
-  - **[インターコンチネンタル王座戦](https://ja.wikipedia.org/wiki/WWE・インターコンチネンタル王座 "wikilink") - Intercontinental Championship-**
+  - **[インターコンチネンタル王座戦](../Page/WWE・インターコンチネンタル王座.md "wikilink") - Intercontinental Championship-**
 
 <!-- end list -->
 
@@ -197,7 +197,7 @@
 
 <!-- end list -->
 
-  - **[インターコンチネンタル王座戦](https://ja.wikipedia.org/wiki/WWE・インターコンチネンタル王座 "wikilink") - Intercontinental Championship-**
+  - **[インターコンチネンタル王座戦](../Page/WWE・インターコンチネンタル王座.md "wikilink") - Intercontinental Championship-**
 
 <!-- end list -->
 
@@ -224,7 +224,7 @@
 <!-- end list -->
 
   -
-    ○[ミシェル・マクール](https://ja.wikipedia.org/wiki/ミシェル・マクール "wikilink")（WWE女子王者） vs [メリーナ](https://ja.wikipedia.org/wiki/メリーナ・ペレス "wikilink")（ディーヴァズ王者）●
+    ○[ミシェル・マクール](../Page/ミシェル・マクール.md "wikilink")（WWE女子王者） vs [メリーナ](https://ja.wikipedia.org/wiki/メリーナ・ペレス "wikilink")（ディーヴァズ王者）●
 
 <!-- end list -->
 
@@ -258,7 +258,7 @@
 <!-- end list -->
 
   -
-    [シェイマス](https://ja.wikipedia.org/wiki/ステファン・ファレリー "wikilink")(c) vs [ジョン・シナ](../Page/ジョン・シナ.md "wikilink") vs [クリス・ジェリコ](../Page/クリス・ジェリコ.md "wikilink") vs [エッジ](https://ja.wikipedia.org/wiki/アダム・コープランド "wikilink") vs [ウェイド・バレット](https://ja.wikipedia.org/wiki/ステュー・ベネット "wikilink") vs [ランディ・オートン](../Page/ランディ・オートン.md "wikilink")○
+    [シェイマス](https://ja.wikipedia.org/wiki/ステファン・ファレリー "wikilink")(c) vs [ジョン・シナ](../Page/ジョン・シナ.md "wikilink") vs [クリス・ジェリコ](../Page/クリス・ジェリコ.md "wikilink") vs [エッジ](../Page/アダム・コープランド.md "wikilink") vs [ウェイド・バレット](https://ja.wikipedia.org/wiki/ステュー・ベネット "wikilink") vs [ランディ・オートン](../Page/ランディ・オートン.md "wikilink")○
 
 | 退場順 | スーパースター   | 退場させたスーパースター |
 | --- | --------- | ------------ |
@@ -297,7 +297,7 @@
 
 <!-- end list -->
 
-  - **[インターコンチネンタル王座戦](https://ja.wikipedia.org/wiki/WWE・インターコンチネンタル王座 "wikilink") -WWE Intercontinental Championship-**
+  - **[インターコンチネンタル王座戦](../Page/WWE・インターコンチネンタル王座.md "wikilink") -WWE Intercontinental Championship-**
 
 <!-- end list -->
 
@@ -368,7 +368,7 @@
 
 <!-- end list -->
 
-  - **フェイタル4ウェイ形式[インターコンチネンタル王座戦](https://ja.wikipedia.org/wiki/WWE・インターコンチネンタル王座 "wikilink") - Fatal 4-Way Match for the WWE Intercontinental Championship-**
+  - **フェイタル4ウェイ形式[インターコンチネンタル王座戦](../Page/WWE・インターコンチネンタル王座.md "wikilink") - Fatal 4-Way Match for the WWE Intercontinental Championship-**
 
 <!-- end list -->
 
@@ -451,7 +451,7 @@
 | 4       | ザ・リール・アメリカンズ vs プライムタイム・プレイヤーズ | プライムタイム・プレイヤーズ | ピンフォール |
 |         |                                |                |        |
 
-  - **[インターコンチネンタル王座戦](https://ja.wikipedia.org/wiki/WWE・インターコンチネンタル王座 "wikilink") -WWE Intercontinental Championship-**
+  - **[インターコンチネンタル王座戦](../Page/WWE・インターコンチネンタル王座.md "wikilink") -WWE Intercontinental Championship-**
 
 <!-- end list -->
 
@@ -544,7 +544,7 @@
 
 <!-- end list -->
 
-  - **[インターコンチネンタル王座戦](https://ja.wikipedia.org/wiki/WWE・インターコンチネンタル王座 "wikilink") -WWE Intercontinental championship-**
+  - **[インターコンチネンタル王座戦](../Page/WWE・インターコンチネンタル王座.md "wikilink") -WWE Intercontinental championship-**
 
 <!-- end list -->
 
@@ -605,7 +605,7 @@
 
 <!-- end list -->
 
-  - **[インターコンチネンタル王者戦](https://ja.wikipedia.org/wiki/WWE・インターコンチネンタル王座 "wikilink") -WWE Intercontinental Championship-**
+  - **[インターコンチネンタル王者戦](../Page/WWE・インターコンチネンタル王座.md "wikilink") -WWE Intercontinental Championship-**
 
 <!-- end list -->
 
@@ -623,7 +623,7 @@
 <!-- end list -->
 
   -
-    ●[ニュー・デイ](https://ja.wikipedia.org/wiki/ニュー・デイ_\(プロレス\) "wikilink")([ビッグ・E](https://ja.wikipedia.org/wiki/エットレ・ユエン "wikilink") & [コフィ・キングストン](https://ja.wikipedia.org/wiki/コフィ・キングストン "wikilink")(w/[エグザビアー・ウッズ](https://ja.wikipedia.org/wiki/エグザビアー・ウッズ "wikilink")))(c) vs [ダッドリー・ボーイズ](https://ja.wikipedia.org/wiki/ダッドリー・ボーイズ "wikilink")([ババレイ・ダッドリー](../Page/マーク・ロモナコ.md "wikilink") & [ディーボン・ダッドリー](../Page/ディーボン・ヒューズ.md "wikilink"))○
+    ●[ニュー・デイ](https://ja.wikipedia.org/wiki/ニュー・デイ_\(プロレス\) "wikilink")([ビッグ・E](https://ja.wikipedia.org/wiki/エットレ・ユエン "wikilink") & [コフィ・キングストン](https://ja.wikipedia.org/wiki/コフィ・キングストン "wikilink")(w/[エグザビアー・ウッズ](https://ja.wikipedia.org/wiki/エグザビアー・ウッズ "wikilink")))(c) vs [ダッドリー・ボーイズ](../Page/ダッドリー・ボーイズ.md "wikilink")([ババレイ・ダッドリー](../Page/マーク・ロモナコ.md "wikilink") & [ディーボン・ダッドリー](../Page/ディーボン・ヒューズ.md "wikilink"))○
     DQのため、王座移動なし
 
 <!-- end list -->

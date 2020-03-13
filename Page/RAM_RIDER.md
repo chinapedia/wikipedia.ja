@@ -1,7 +1,7 @@
 > この記事は[RAM RIDER](https://ja.wikipedia.org/wiki/RAM_RIDER)から翻訳されています。
 
 
-**RAM RIDER**（ラムライダー、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[7月17日](../Page/7月17日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽家](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、プロデューサー、シンガー、[DJ](https://ja.wikipedia.org/wiki/ディスクジョッキー#ミュージシャンとしてのDJ "wikilink")。男性。所属事務所は[ASOBI SYSTEM](https://ja.wikipedia.org/wiki/アソビシステム "wikilink")。所属レーベルは[401](https://ja.wikipedia.org/wiki/401_\(レコードレーベル\) "wikilink")。
+**RAM RIDER**（ラムライダー、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[7月17日](../Page/7月17日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽家](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、プロデューサー、シンガー、[DJ](https://ja.wikipedia.org/wiki/ディスクジョッキー#ミュージシャンとしてのDJ "wikilink")。男性。所属事務所は[ASOBI SYSTEM](https://ja.wikipedia.org/wiki/アソビシステム "wikilink")。所属レーベルは[401](../Page/401_\(レコードレーベル\).md "wikilink")。
 
 ## 来歴
 
@@ -19,7 +19,7 @@
 
 [2018年](../Page/2018年.md "wikilink")[9月](../Page/9月.md "wikilink")、ワンマンライブ｢AUDIO GALAXY presents RAM RIDER LIVE 2018｣を渋谷のダンスクラブ・SOUND MUSEUM VISIONで開催。
 
-[2019年](../Page/2019年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")、自身が主宰するレーベル「[401](https://ja.wikipedia.org/wiki/401_\(レコードレーベル\) "wikilink")」の設立を発表、自身6年ぶりとなる本人がボーカルを務める『東京論』を配信でリリース。
+[2019年](../Page/2019年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")、自身が主宰するレーベル「[401](../Page/401_\(レコードレーベル\).md "wikilink")」の設立を発表、自身6年ぶりとなる本人がボーカルを務める『東京論』を配信でリリース。
 
 ## 人物
 
@@ -29,7 +29,7 @@
 
 アルバム「PORTABLE DISCO」・シングル「旅へ出よう」には、[タワーレコード](../Page/タワーレコード.md "wikilink")及び[HMV](../Page/HMV.md "wikilink")において、先着順で特典CDが付けられた。（それぞれ別の[リミックス](../Page/リミックス.md "wikilink")が収録されている。）
 
-[マキシシングルには全て](https://ja.wikipedia.org/wiki/シングル#CDシングル "wikilink")[CD EXTRAとして](https://ja.wikipedia.org/wiki/CD_EXTRA "wikilink")[プロモーションビデオ(PV)が収録されている](../Page/ミュージック・ビデオ.md "wikilink")。 収録されているPVは、ほとんどが俳優を起用したドラマ風、もしくはアニメ風のものが多く、RAM RIDER本人が登場するシーンはあまり無い。PVでの初顔出しは「HELLO」、続く「旅へ出よう」では、歌うシーンが見られる。
+[マキシシングルには全て](https://ja.wikipedia.org/wiki/シングル#CDシングル "wikilink")[CD EXTRAとして](../Page/CD_EXTRA.md "wikilink")[プロモーションビデオ(PV)が収録されている](../Page/ミュージック・ビデオ.md "wikilink")。 収録されているPVは、ほとんどが俳優を起用したドラマ風、もしくはアニメ風のものが多く、RAM RIDER本人が登場するシーンはあまり無い。PVでの初顔出しは「HELLO」、続く「旅へ出よう」では、歌うシーンが見られる。
 
 ### シングル
 

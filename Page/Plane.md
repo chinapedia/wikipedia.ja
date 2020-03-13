@@ -455,7 +455,7 @@
 <li>good friends / <a href="../Page/2BACKKA.md" title="wikilink">2BACKKA</a></li>
 <li>問題意識! / <a href="https://ja.wikipedia.org/wiki/Takami_&amp;_Teacher_Fujimaki" title="wikilink">Takami &amp; Teacher Fujimaki</a></li>
 <li><strong>どう思う？ / plane</strong></li>
-<li>you / <a href="https://ja.wikipedia.org/wiki/TRIPLANE" title="wikilink">TRIPLANE</a></li>
+<li>you / <a href="../Page/TRIPLANE.md" title="wikilink">TRIPLANE</a></li>
 <li>STONED &amp; PRETTY / <a href="https://ja.wikipedia.org/wiki/STAIREO" title="wikilink">STAIREO</a></li>
 <li>ORBIT / <a href="https://ja.wikipedia.org/wiki/REI_MASTROGIOVANNI" title="wikilink">REI MASTROGIOVANNI</a></li>
 <li>踊ろよハニー / <a href="../Page/ミサイルイノベーション.md" title="wikilink">ミサイルイノベーション</a></li>

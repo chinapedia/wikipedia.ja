@@ -15,7 +15,7 @@
 
 グラマン社において、ジェット戦闘機の開発は1943年から開始されており、1946年4月には双発複座のG-75案がXF9F-1としてアメリカ海軍から発注されている。これは1946年12月に単発単座のG-79案に発展したため、XF9F-1はキャンセルとなり、G-79案をXF9F-2として開発が続行された。XF9F-2は3機が製作され、1947年11月21日に初飛行している。XF9F-2は量産化が決定され、F9F-2として[1949年](../Page/1949年.md "wikilink")から配備が開始された。
 
-パンサーは[朝鮮戦争](https://ja.wikipedia.org/wiki/朝鮮戦争 "wikilink")に投入されたが、直線翼で構成された機体デザインは、ジェット戦闘機としては明らかに古い設計思想に基づいたものであり、空力的な性能において同世代のライバル機より劣っていた。結果、戦闘機としてよりも、主に[対地攻撃機の代用として運用される事となった](../Page/攻撃機.md "wikilink")。しかしながら、性能差を搭乗員の技量でカバーするなどして[MiG-15を含む多数の敵機を撃墜しており](https://ja.wikipedia.org/wiki/MiG-15_\(航空機\) "wikilink")、朝鮮戦争を通じて戦闘で失われた64機のF9Fのうち、空中戦で撃墜されたものはたった1機のみであった。[1950年](../Page/1950年.md "wikilink")11月9日には、米海軍のW.T.エイメン少佐がF9F-2でMiG-15を撃墜し、米海軍初のジェット機撃墜を成し遂げている。朝鮮戦争休戦後は、改良型のクーガーと交代する形で第一線を退き、主に[無人標的機として使用された](https://ja.wikipedia.org/wiki/標的機 "wikilink")。
+パンサーは[朝鮮戦争](https://ja.wikipedia.org/wiki/朝鮮戦争 "wikilink")に投入されたが、直線翼で構成された機体デザインは、ジェット戦闘機としては明らかに古い設計思想に基づいたものであり、空力的な性能において同世代のライバル機より劣っていた。結果、戦闘機としてよりも、主に[対地攻撃機の代用として運用される事となった](../Page/攻撃機.md "wikilink")。しかしながら、性能差を搭乗員の技量でカバーするなどして[MiG-15を含む多数の敵機を撃墜しており](../Page/MiG-15_\(航空機\).md "wikilink")、朝鮮戦争を通じて戦闘で失われた64機のF9Fのうち、空中戦で撃墜されたものはたった1機のみであった。[1950年](../Page/1950年.md "wikilink")11月9日には、米海軍のW.T.エイメン少佐がF9F-2でMiG-15を撃墜し、米海軍初のジェット機撃墜を成し遂げている。朝鮮戦争休戦後は、改良型のクーガーと交代する形で第一線を退き、主に[無人標的機として使用された](https://ja.wikipedia.org/wiki/標的機 "wikilink")。
 
 [アルゼンチン海軍](https://ja.wikipedia.org/wiki/アルゼンチン海軍 "wikilink")は、[1957年](../Page/1957年.md "wikilink")に中古のF9F-2を24機、加えて[1962年](../Page/1962年.md "wikilink")に新品のTF-9Jを2機購入し2個飛行隊を編成、南米の海軍で初めてのジェット機部隊となった。
 
@@ -151,7 +151,7 @@
 
 ## F9F クーガー
 
-[Grumman_F9F-7_Cougar_at_the_National_Advisory_Committee_for_Aeronautics_in_the_1950s.jpg](https://ja.wikipedia.org/wiki/File:Grumman_F9F-7_Cougar_at_the_National_Advisory_Committee_for_Aeronautics_in_the_1950s.jpg "fig:Grumman_F9F-7_Cougar_at_the_National_Advisory_Committee_for_Aeronautics_in_the_1950s.jpg") クーガーは、パンサーの主翼を直線翼から後退翼に改良した機体である。朝鮮戦争で活躍したパンサーは頑丈で信頼性が高く扱い易い機体ではあったが、敵である[東側諸国](../Page/東側諸国.md "wikilink")が使用する[MiG-15や](https://ja.wikipedia.org/wiki/MiG-15_\(航空機\) "wikilink")[アメリカ空軍](https://ja.wikipedia.org/wiki/アメリカ空軍 "wikilink")の[F-86等の後退翼を有する戦闘機に比べると性能面で見劣りがした](../Page/F-86_\(戦闘機\).md "wikilink")。そのため、アメリカ海軍はグラマン社にパンサーの後退翼化を要請した。
+[Grumman_F9F-7_Cougar_at_the_National_Advisory_Committee_for_Aeronautics_in_the_1950s.jpg](https://ja.wikipedia.org/wiki/File:Grumman_F9F-7_Cougar_at_the_National_Advisory_Committee_for_Aeronautics_in_the_1950s.jpg "fig:Grumman_F9F-7_Cougar_at_the_National_Advisory_Committee_for_Aeronautics_in_the_1950s.jpg") クーガーは、パンサーの主翼を直線翼から後退翼に改良した機体である。朝鮮戦争で活躍したパンサーは頑丈で信頼性が高く扱い易い機体ではあったが、敵である[東側諸国](../Page/東側諸国.md "wikilink")が使用する[MiG-15や](../Page/MiG-15_\(航空機\).md "wikilink")[アメリカ空軍](https://ja.wikipedia.org/wiki/アメリカ空軍 "wikilink")の[F-86等の後退翼を有する戦闘機に比べると性能面で見劣りがした](../Page/F-86_\(戦闘機\).md "wikilink")。そのため、アメリカ海軍はグラマン社にパンサーの後退翼化を要請した。
 
 グラマン社は1947年の段階で、F9Fの後退翼機案を検討しており、これを基にF9F-6として開発することとなった。しかし、広大な滑走路を使用出来る陸上機と異なり、限られたスペースしかない[航空母艦](../Page/航空母艦.md "wikilink")からの離発艦をこなさなければならない[艦上機](../Page/艦上機.md "wikilink")は直線翼と比し、後退翼は不利であったが、大型[フラップ](../Page/高揚力装置.md "wikilink")、[自動スラット](../Page/高揚力装置.md "wikilink")、[スポイラーを導入することにより](../Page/スポイラー_\(航空機\).md "wikilink")、パンサーの性能を凌ぐ艦上戦闘機となった。初飛行は1951年9月20日。[1952年](../Page/1952年.md "wikilink")から部隊配備が始まり、60年代初めに戦闘機型が退役した後も、練習機や連絡機として[1974年](../Page/1974年.md "wikilink")まで使用された。またアメリカが[ベトナム戦争](../Page/ベトナム戦争.md "wikilink")に参戦した後、複座練習機型TF-9Jが[1965年](../Page/1965年.md "wikilink")から[1967年](../Page/1967年.md "wikilink")頃までFAC(前線航空管制任務)に投入されていた。
 

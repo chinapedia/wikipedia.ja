@@ -5,7 +5,7 @@
 
 本名は。歌手としての別名義に**とみた いちろう**がある。
 
-「**とみた いちろう**」名義で[フォークシンガーとしてデビュー](https://ja.wikipedia.org/wiki/日本のフォークシンガー "wikilink")。のちに作曲家・スタジオミュージシャンとしても活動し、[CMソングなどの作曲](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")・歌唱を手がける一方、「**MoJo**」の名義で[アニメソング](https://ja.wikipedia.org/wiki/アニメソング "wikilink")歌手としても活動している。
+「**とみた いちろう**」名義で[フォークシンガーとしてデビュー](https://ja.wikipedia.org/wiki/日本のフォークシンガー "wikilink")。のちに作曲家・スタジオミュージシャンとしても活動し、[CMソングなどの作曲](../Page/コマーシャルソング.md "wikilink")・歌唱を手がける一方、「**MoJo**」の名義で[アニメソング](https://ja.wikipedia.org/wiki/アニメソング "wikilink")歌手としても活動している。
 
 ## 来歴
 
@@ -101,21 +101,21 @@
   - 究極サムライハオー 降臨\!（2009年、『[侍戦隊シンケンジャー](https://ja.wikipedia.org/wiki/侍戦隊シンケンジャー "wikilink")』）
   - データスハイパー 天使と共に（2010年、『[天装戦隊ゴセイジャー](https://ja.wikipedia.org/wiki/天装戦隊ゴセイジャー "wikilink")』）
   - アキバレンジャー シーズン痛\!（2013年、『[非公認戦隊アキバレンジャー シーズン痛](https://ja.wikipedia.org/wiki/非公認戦隊アキバレンジャー#シーズン痛 "wikilink")』オープニングテーマ）　 - 「[桃井はるこ](../Page/桃井はるこ.md "wikilink")feat.[山形ユキオ](../Page/山形ユキオ.md "wikilink")あんどMoJo」名義
-  - スーパー戦隊☆非公認応援歌（2013年、『非公認戦隊アキバレンジャー シーズン痛』エンディングテーマ）　- 「[赤木信夫と山形ユキオあんどMoJo](https://ja.wikipedia.org/wiki/和田正人 "wikilink")」名義
+  - スーパー戦隊☆非公認応援歌（2013年、『非公認戦隊アキバレンジャー シーズン痛』エンディングテーマ）　- 「[赤木信夫と山形ユキオあんどMoJo](../Page/和田正人.md "wikilink")」名義
   - 正義の兵（つわもの）リベリオン（2017年、『[宇宙戦隊キュウレンジャー](https://ja.wikipedia.org/wiki/宇宙戦隊キュウレンジャー "wikilink")』） - 「魂の三兄弟（串田アキラ・MoJo・宮内タカユキ）」名義
 
 #### コマーシャルソング
 
   - ミスタードーナツ「いいことあるぞ」（[ダスキン](https://ja.wikipedia.org/wiki/ダスキン "wikilink")「[ミスタードーナツ](https://ja.wikipedia.org/wiki/ミスタードーナツ "wikilink")」） - 岡田恭子と共演
-  - 石丸電気のうた（1975年、[石丸電気](https://ja.wikipedia.org/wiki/石丸電気 "wikilink")） - 藤本房子と共演
+  - 石丸電気のうた（1975年、[石丸電気](../Page/石丸電気.md "wikilink")） - 藤本房子と共演
   - ジョニーウオーカー（1978年、日本コールドベック「[ジョニー・ウォーカー](https://ja.wikipedia.org/wiki/ジョニー・ウォーカー "wikilink")」）\[5\] - とみたいちろう名義
   - オバルチン（1978年、[カルピス](https://ja.wikipedia.org/wiki/カルピス "wikilink")食品工業「[オバルチン](../Page/オバルチン.md "wikilink")」）\[6\] - とみたいちろう名義、槇みちると共演
   - オバルチン、パート2（1978年、カルピス食品工業「オバルチン」）\[7\] - とみたいちろう名義、槇みちると共演
   - 旭化成シーベ（1979年、[旭化成](../Page/旭化成.md "wikilink")）\[8\] - とみたいちろう名義、菊地真美と共演
   - ニュースバルレックス（1979年、[富士重工業](../Page/SUBARU.md "wikilink")「[スバル・レックス](../Page/スバル・レックス.md "wikilink")」）\[9\] - とみたいちろう名義、フィーリングフリーと共演
-  - カバヤ マスカットキャンディー（1979年、[カバヤ食品](https://ja.wikipedia.org/wiki/カバヤ食品 "wikilink")「マスカットキャンディー」） - とみたいちろう名義、藤本房子と共演
+  - カバヤ マスカットキャンディー（1979年、[カバヤ食品](../Page/カバヤ食品.md "wikilink")「マスカットキャンディー」） - とみたいちろう名義、藤本房子と共演
   - 風よロマンに針路を向けて（1979年、[サッポロビール](../Page/サッポロビール.md "wikilink")「[びん生](https://ja.wikipedia.org/wiki/サッポロ生ビール黒ラベル "wikilink")」）
-  - パンパース（1981年、[P\&Gサンホーム](../Page/プロクター・アンド・ギャンブル・ジャパン.md "wikilink")「[パンパース](https://ja.wikipedia.org/wiki/パンパース "wikilink")」）\[10\] - 諏訪マリーと共演
+  - パンパース（1981年、[P\&Gサンホーム](../Page/プロクター・アンド・ギャンブル・ジャパン.md "wikilink")「[パンパース](../Page/パンパース.md "wikilink")」）\[10\] - 諏訪マリーと共演
   - 森永、ボコデコ（1985年、[森永製菓](https://ja.wikipedia.org/wiki/森永製菓 "wikilink")）\[11\]
   - 雪印、アカディ、思いやり篇 / なぜだろう篇（1988年、[雪印乳業](../Page/雪印乳業.md "wikilink")「アカディ」）\[12\]
   - パッ\! とさいでりあ\[13\]\[14\]（1990年、[新興産業](../Page/新興産業_\(建材\).md "wikilink")「さいでりあ」）
@@ -128,16 +128,16 @@
   - アスパラエース 登場篇 / 海篇 / ランニング篇\[20\]（[田辺製薬](https://ja.wikipedia.org/wiki/田辺三菱製薬 "wikilink")「[アスパラ](../Page/アスパラ.md "wikilink")エース」）
   - あなたとコンビにファミリーマート\[21\]（[ファミリーマート](../Page/ファミリーマート.md "wikilink")） - 杉本ユーリと共演
   - 「明治エッセルスーパーカップ」コマーシャルソング（[明治乳業](https://ja.wikipedia.org/wiki/明治乳業 "wikilink")「[明治エッセルスーパーカップ](../Page/明治エッセルスーパーカップ.md "wikilink")」）\[22\]
-  - 高速人カード E-NEXCO pass\[23\]（[東日本高速道路](https://ja.wikipedia.org/wiki/東日本高速道路 "wikilink")「E-NEXCO pass」） - 作編曲も担当\[24\]
+  - 高速人カード E-NEXCO pass\[23\]（[東日本高速道路](../Page/東日本高速道路.md "wikilink")「E-NEXCO pass」） - 作編曲も担当\[24\]
   - 花キューピット\[25\]
   - 禁煙パイポ（[マルマン](../Page/マジェスティ_ゴルフ.md "wikilink")「[禁煙パイポ](../Page/禁煙パイポ.md "wikilink")」）\[26\]
   - アースジェット（[アース製薬](../Page/アース製薬.md "wikilink")「アースジェット」）\[27\]
   - カーセンサー（[リクルート](../Page/リクルートホールディングス.md "wikilink")「[カーセンサー](https://ja.wikipedia.org/wiki/カーセンサー "wikilink")」）\[28\]
-  - ビックカメラの歌（「[ビックカメラ](https://ja.wikipedia.org/wiki/ビックカメラ "wikilink")」）
+  - ビックカメラの歌（「[ビックカメラ](../Page/ビックカメラ.md "wikilink")」）
 
 #### 子供向け
 
-  - なくな\! ダメ虫（1978年、『[ひらけ\!ポンキッキ](https://ja.wikipedia.org/wiki/ひらけ!ポンキッキ "wikilink")』。キャニオン CX-115）
+  - なくな\! ダメ虫（1978年、『[ひらけ\!ポンキッキ](../Page/ひらけ!ポンキッキ.md "wikilink")』。キャニオン CX-115）
   - マンモス（1978年、『ひらけ\!ポンキッキ』。LP『ひらけ\!ポンキッキ』（キャニオン C18G0003）収録）
   - 大きいのかな小さいのかな（1978年、『ひらけ\!ポンキッキ』。LP『ひらけ\!ポンキッキ』（キャニオン C18G0003）収録）
   - ひとりぼっちのスニーカー（1979年、『ひらけ\!ポンキッキ』。キャニオン CX-117）
@@ -189,13 +189,13 @@
   - jo / 「そんなあなたを支えたい」（1998年、[佐藤製薬](../Page/佐藤製薬.md "wikilink")「[ユンケル黄帝液](https://ja.wikipedia.org/wiki/ユンケル黄帝液 "wikilink")」）
   - 金鳥タンスにゴンゴン「胸騒ぎ」篇（2000年、[大日本除虫菊](../Page/大日本除虫菊.md "wikilink")「金鳥タンスにゴンゴン」）
   - 本つゆでいかがでしょうか（[キッコーマン](../Page/キッコーマン.md "wikilink")「本つゆ」）
-  - 「強力わかもと」サウンドロゴ（[わかもと製薬](https://ja.wikipedia.org/wiki/わかもと製薬 "wikilink")）
+  - 「強力わかもと」サウンドロゴ（[わかもと製薬](../Page/わかもと製薬.md "wikilink")）
   - ヤマダ電機の歌（「[ヤマダ電機](../Page/ヤマダ電機.md "wikilink")」）
   - 永谷園ラ〜メン茶漬け（[永谷園](https://ja.wikipedia.org/wiki/永谷園 "wikilink")）
   - トヨタデュエット（[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")「[デュエット](../Page/トヨタ・デュエット.md "wikilink")」）
   - アートネイチャー
   - ポポンS（シオノギ製薬）
-  - [越後製菓](https://ja.wikipedia.org/wiki/越後製菓 "wikilink")
+  - [越後製菓](../Page/越後製菓.md "wikilink")
 
 ## 出演
 

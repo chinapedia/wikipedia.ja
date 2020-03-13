@@ -12,7 +12,7 @@
   - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")9月 - コミーインターナショナル株式会社設立。
   - [1979年](../Page/1979年.md "wikilink")7月 - 東京医療株式会社設立。
   - 1979年11月 - 新宿センタービル43Fに本社移転。本店サロンを同時にオープン。
-  - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")12月 - トータル[エステティックサロン](../Page/エステティックサロン.md "wikilink")を[新宿センタービル](https://ja.wikipedia.org/wiki/新宿センタービル "wikilink")4Ｆにオープン。
+  - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")12月 - トータル[エステティックサロン](../Page/エステティックサロン.md "wikilink")を[新宿センタービル](../Page/新宿センタービル.md "wikilink")4Ｆにオープン。
   - [1981年](../Page/1981年.md "wikilink")9月 - コミーエース株式会社設立。
   - [1989年](../Page/1989年.md "wikilink")9月 - 直営100号店として[上大岡](../Page/上大岡.md "wikilink")店オープン。
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")6月 - 株式会社コミーツーリスト設立。
@@ -20,7 +20,7 @@
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")2月 - 株式会社TBC設立。
   - [1999年](../Page/1999年.md "wikilink")1月 - [渋谷](../Page/渋谷.md "wikilink")にMen'sTBC 1号店オープン。
   - [2000年](../Page/2000年.md "wikilink")1月 - 脱毛に使用するチタンプローブの開発で特許登録。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")9月 - コミーインターナショナル株式会社をインセル株式会社に社名変更。
+  - [2005年](../Page/2005年.md "wikilink")9月 - コミーインターナショナル株式会社をインセル株式会社に社名変更。
   - [2006年](../Page/2006年.md "wikilink")8月 - コミー株式会社から**TBCグループ株式会社**に社名を変更\[1\]。
   - 2006年8月 - コミーエース株式会社をエース株式会社に社名変更。
   - [2007年](../Page/2007年.md "wikilink")3月 - 株式会社ナノエッグ、[学校法人聖マリアンナ医科大学と共に](../Page/聖マリアンナ医科大学.md "wikilink")、第22回日本DDS学会にて「NANOCUBE（ナノキューブ）」応用研究成果を発表。
@@ -64,7 +64,7 @@
   - 1996年 - 「恋よりきれいになれるもの」　出演：[華原朋美](../Page/華原朋美.md "wikilink")\[8\]
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") - 「キレイになるのがTBC」　出演：[ナオミ・キャンベル](../Page/ナオミ・キャンベル.md "wikilink")\[9\]、[主浜はるみ](https://ja.wikipedia.org/wiki/しゅはまはるみ "wikilink")\[10\]
   - 1997年 - 「ナオミになろうTBC」　出演：ナオミ・キャンベル\[11\]
-  - 1997年 - 「くびれ～」　出演：[木村拓哉](https://ja.wikipedia.org/wiki/木村拓哉 "wikilink")
+  - 1997年 - 「くびれ～」　出演：[木村拓哉](../Page/木村拓哉.md "wikilink")
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink") - 「MEN'S TBCはじまる」　出演：木村拓哉
   - [1999年](../Page/1999年.md "wikilink") - 「TBC・ビューティ2000サイバーエステ」　出演：木村拓哉
   - [2000年](../Page/2000年.md "wikilink") - 「AESTHE FIGHTER TBC」　出演：木村拓哉、[大和悠河](../Page/大和悠河.md "wikilink")
@@ -74,12 +74,12 @@
   - 2003年 - 「メンズコスメ」　出演：デビッド＆ヴィクトリア・ベッカム
   - [2004年](../Page/2004年.md "wikilink") - 「男がエステ・きっかけ」　出演：[デビッド・ベッカム](../Page/デビッド・ベッカム.md "wikilink")、[魔裟斗](../Page/魔裟斗.md "wikilink")\[14\]
   - 2004年 - 「Good News\! ３人の宣言」　出演：デビッド＆ヴィクトリア・ベッカム、[山下智久](https://ja.wikipedia.org/wiki/山下智久 "wikilink")
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") - 「OBAGI手技」　出演：Dr.オバジ\[15\]
+  - [2005年](../Page/2005年.md "wikilink") - 「OBAGI手技」　出演：Dr.オバジ\[15\]
   - [2006年](../Page/2006年.md "wikilink") - 「Image2016！矢沢」　出演：[矢沢永吉](../Page/矢沢永吉.md "wikilink")\[16\]
   - [2007年](../Page/2007年.md "wikilink") - 「LIVE NATURALLY〜スライスオブライフ」　出演：山下智久、[知花くらら](../Page/知花くらら.md "wikilink")
   - 2007年 - 「世界の美・グランプリ篇」　出演：[森理世](../Page/森理世.md "wikilink")
   - 2007年 - 「FOR BEAUTIFUL GOAL」　出演：[本田圭佑](https://ja.wikipedia.org/wiki/本田圭佑 "wikilink")、[家長昭博](../Page/家長昭博.md "wikilink")、[青山直晃](../Page/青山直晃.md "wikilink")、[カレン・ロバート](../Page/カレン・ロバート.md "wikilink")
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") - 「オリンピック日本代表TRUE BEAUTY」　出演：[谷亮子](https://ja.wikipedia.org/wiki/谷亮子 "wikilink")、[末續慎吾](../Page/末續慎吾.md "wikilink")、[浜口京子](https://ja.wikipedia.org/wiki/浜口京子 "wikilink")、[髙橋大輔](https://ja.wikipedia.org/wiki/高橋大輔_\(フィギュアスケート選手\) "wikilink")、[北島康介](https://ja.wikipedia.org/wiki/北島康介 "wikilink")、[柴田亜衣](../Page/柴田亜衣.md "wikilink")
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") - 「オリンピック日本代表TRUE BEAUTY」　出演：[谷亮子](../Page/谷亮子.md "wikilink")、[末續慎吾](../Page/末續慎吾.md "wikilink")、[浜口京子](https://ja.wikipedia.org/wiki/浜口京子 "wikilink")、[髙橋大輔](../Page/高橋大輔_\(フィギュアスケート選手\).md "wikilink")、[北島康介](https://ja.wikipedia.org/wiki/北島康介 "wikilink")、[柴田亜衣](../Page/柴田亜衣.md "wikilink")
   - 2008年 - 「TRUE BEAUTY」　出演：北島康介
   - 2008年 - 「CHALLENGE BEAUTY」　出演：[クルム伊達公子](https://ja.wikipedia.org/wiki/クルム伊達公子 "wikilink")\[17\]
   - [2009年](../Page/2009年.md "wikilink") - 「HUMAN×BEAUTY」　出演：[中田英寿](../Page/中田英寿.md "wikilink")
@@ -92,7 +92,7 @@
   - 2011年 - 「TBCエステチケット」　出演：[奈々澤メイミ](https://ja.wikipedia.org/wiki/奈々澤メイミ "wikilink")\[22\]
   - 2011年 - 「TBC 3つの鍵」　出演：[前田敦子](https://ja.wikipedia.org/wiki/前田敦子 "wikilink")、[大島優子](https://ja.wikipedia.org/wiki/大島優子 "wikilink")、[チャン・グンソク](https://ja.wikipedia.org/wiki/チャン・グンソク "wikilink")\[23\]
   - [2012年](../Page/2012年.md "wikilink") - 「open your beauty」　出演：前田敦子、大島優子、チャン・グンソク\[24\]
-  - [2013年](../Page/2013年.md "wikilink") - 「TBCでキレイに」「TBCで男前に」　出演：[ローラ](https://ja.wikipedia.org/wiki/ローラ_\(モデル\) "wikilink")、[溝端淳平](../Page/溝端淳平.md "wikilink")、[パンツェッタ・ジローラモ](https://ja.wikipedia.org/wiki/パンツェッタ・ジローラモ "wikilink")、[ガチャピン](../Page/ガチャピン.md "wikilink")、[ムック](../Page/ムック_\(キャラクター\).md "wikilink")\[25\]\[26\]
+  - [2013年](../Page/2013年.md "wikilink") - 「TBCでキレイに」「TBCで男前に」　出演：[ローラ](https://ja.wikipedia.org/wiki/ローラ_\(モデル\) "wikilink")、[溝端淳平](../Page/溝端淳平.md "wikilink")、[パンツェッタ・ジローラモ](../Page/パンツェッタ・ジローラモ.md "wikilink")、[ガチャピン](../Page/ガチャピン.md "wikilink")、[ムック](../Page/ムック_\(キャラクター\).md "wikilink")\[25\]\[26\]
   - [2014年](../Page/2014年.md "wikilink") - 「人が人をキレイにする」　出演：ローラ\[27\]
   - [2015年](../Page/2015年.md "wikilink") - 「ローラ内閣発足」「執務室」　出演：ローラ、[ワッキー](https://ja.wikipedia.org/wiki/ワッキー "wikilink")、[やしろ優](https://ja.wikipedia.org/wiki/やしろ優 "wikilink")\[28\]
   - [2016年](../Page/2016年.md "wikilink") - 「キレイはＴからはじまる」　出演：ローラ\[29\]

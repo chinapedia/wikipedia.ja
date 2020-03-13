@@ -7,7 +7,7 @@
 
 ### 「レスポール」から「SG」へ
 
-[1959年](../Page/1959年.md "wikilink")後半、それまで「[レスポール](https://ja.wikipedia.org/wiki/レスポール "wikilink")・モデル」の名でラインナップされていたシリーズのうち、廉価版のジュニア、スペシャル、TVなどの一部が、レス・ポール氏の名称を冠しない「SG」の名で出荷されるようになる。1961年にはレスポールシリーズ全体がフルモデルチェンジとなり、現在一般的に「SG」と呼ばれるスタイルに置き換えられた\[1\]。さらなる小型化、薄型化と軽量化、抱えやすさと弾きやすさ、そしてコスト削減を狙ってボディーはマホガニーの一枚板となり、ネックの全体がボディから飛び出したダブルカッタウェイの、より芸術的で未来的なデザインとなった。ボディ両面のエッジ部分には、斜めに削られる加工が施された（ベベルド・エッジ）。「スタンダード」および「カスタム」には、[ES-355などで採用されていた](https://ja.wikipedia.org/wiki/ギブソン・ES-335 "wikilink")“スウィング・アウェイ・プル・サイドウェイ・トレモロ”が装備された。
+[1959年](../Page/1959年.md "wikilink")後半、それまで「[レスポール](https://ja.wikipedia.org/wiki/レスポール "wikilink")・モデル」の名でラインナップされていたシリーズのうち、廉価版のジュニア、スペシャル、TVなどの一部が、レス・ポール氏の名称を冠しない「SG」の名で出荷されるようになる。1961年にはレスポールシリーズ全体がフルモデルチェンジとなり、現在一般的に「SG」と呼ばれるスタイルに置き換えられた\[1\]。さらなる小型化、薄型化と軽量化、抱えやすさと弾きやすさ、そしてコスト削減を狙ってボディーはマホガニーの一枚板となり、ネックの全体がボディから飛び出したダブルカッタウェイの、より芸術的で未来的なデザインとなった。ボディ両面のエッジ部分には、斜めに削られる加工が施された（ベベルド・エッジ）。「スタンダード」および「カスタム」には、[ES-355などで採用されていた](../Page/ギブソン・ES-335.md "wikilink")“スウィング・アウェイ・プル・サイドウェイ・トレモロ”が装備された。
 
 当初は「新型レスポール」として発売されたこのモデルは、レス・ポール氏の助言や嗜好に基づかないギブソン独自のデザインであった。レス・ポールはこれを快く思わず、1963年頃に氏との契約は終了する。以後このシリーズは「SG」と総称されるようになった。
 
@@ -131,11 +131,11 @@
   - [グレン・ティプトン](../Page/グレン・ティプトン.md "wikilink") （[ジューダス・プリースト](../Page/ジューダス・プリースト.md "wikilink")）
   - [ドン・ウィルソン](https://ja.wikipedia.org/wiki/ドン・ウィルソン_\(ギタリスト\) "wikilink")（[ザ・ベンチャーズ](../Page/ザ・ベンチャーズ.md "wikilink")）
       -
-        1970年代に一時使用していた。ラージピックガード、板バネ式ヴィブローラを搭載したモデルを使用。しかし、1〜2年程で[フェンダー・ジャズマスター](https://ja.wikipedia.org/wiki/フェンダー・ジャズマスター "wikilink")に持ち替え、短期間の使用に終わっている。
+        1970年代に一時使用していた。ラージピックガード、板バネ式ヴィブローラを搭載したモデルを使用。しかし、1〜2年程で[フェンダー・ジャズマスター](../Page/フェンダー・ジャズマスター.md "wikilink")に持ち替え、短期間の使用に終わっている。
   - [ジ・エッジ](../Page/ジ・エッジ.md "wikilink")（[U2](../Page/U2.md "wikilink")）
   - [マニュエル・ゲッチング](../Page/マニュエル・ゲッチング.md "wikilink")（[アシュ・ラ・テンペル](../Page/アシュ・ラ・テンペル.md "wikilink")）
   - [バーナード・サムナー](../Page/バーナード・サムナー.md "wikilink")（[ニュー・オーダー](../Page/ニュー・オーダー.md "wikilink")）
-  - [リヴァース・クオモ](https://ja.wikipedia.org/wiki/リヴァース・クオモ "wikilink")（[ウィーザー](https://ja.wikipedia.org/wiki/ウィーザー "wikilink")）
+  - [リヴァース・クオモ](https://ja.wikipedia.org/wiki/リヴァース・クオモ "wikilink")（[ウィーザー](../Page/ウィーザー.md "wikilink")）
   - [ケリー・ジョーンズ](https://ja.wikipedia.org/wiki/ケリー・ジョーンズ "wikilink") （[ステレオフォニックス](../Page/ステレオフォニックス.md "wikilink")）
   - [トム・リントン](https://ja.wikipedia.org/wiki/トム・リントン "wikilink")（[ジミー・イート・ワールド](https://ja.wikipedia.org/wiki/ジミー・イート・ワールド "wikilink")）
   - [パトリック・スタンプ](../Page/パトリック・スタンプ.md "wikilink")（[フォール・アウト・ボーイ](../Page/フォール・アウト・ボーイ.md "wikilink")）
@@ -154,7 +154,7 @@
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><a href="../Page/安部俊幸.md" title="wikilink">安部俊幸</a>（<a href="https://ja.wikipedia.org/wiki/チューリップ_(バンド)" title="wikilink">チューリップ</a>）<a href="https://ja.wikipedia.org/wiki/ギブソン・ES-335" title="wikilink">ES-335と併用</a></li>
+<li><a href="../Page/安部俊幸.md" title="wikilink">安部俊幸</a>（<a href="https://ja.wikipedia.org/wiki/チューリップ_(バンド)" title="wikilink">チューリップ</a>）<a href="../Page/ギブソン・ES-335.md" title="wikilink">ES-335と併用</a></li>
 <li><a href="../Page/中山加奈子.md" title="wikilink">中山加奈子</a>（<a href="../Page/プリンセス_プリンセス.md" title="wikilink">プリンセス プリンセス</a>）</li>
 <li><a href="https://ja.wikipedia.org/wiki/福山雅治" title="wikilink">福山雅治</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/岡野昭仁" title="wikilink">岡野昭仁</a>（<a href="https://ja.wikipedia.org/wiki/ポルノグラフィティ" title="wikilink">ポルノグラフィティ</a>）</li>
@@ -162,13 +162,13 @@
 <li>和田唱（<a href="../Page/TRICERATOPS.md" title="wikilink">TRICERATOPS</a>）</li>
 <li>坂本慎太郎（<a href="../Page/ゆらゆら帝国.md" title="wikilink">ゆらゆら帝国</a>）</li>
 <li><a href="../Page/土屋公平.md" title="wikilink">土屋公平</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/和嶋慎治" title="wikilink">和嶋慎治</a>（<a href="https://ja.wikipedia.org/wiki/人間椅子_(バンド)" title="wikilink">人間椅子</a>）</li>
+<li><a href="../Page/和嶋慎治.md" title="wikilink">和嶋慎治</a>（<a href="https://ja.wikipedia.org/wiki/人間椅子_(バンド)" title="wikilink">人間椅子</a>）</li>
 <li><a href="../Page/岸田繁.md" title="wikilink">岸田繁</a>（<a href="../Page/くるり.md" title="wikilink">くるり</a>）</li>
 <li>桑原彰（<a href="https://ja.wikipedia.org/wiki/RADWIMPS" title="wikilink">RADWIMPS</a>）</li>
 <li>布谷吉崇（<a href="https://ja.wikipedia.org/wiki/hare-brained_unity" title="wikilink">hare-brained unity</a>）</li>
 <li>一色徳保（<a href="../Page/つばき_(ロックバンド).md" title="wikilink">つばき</a>）</li>
 <li>松本俊（<a href="../Page/AJISAI.md" title="wikilink">AJISAI</a>）</li>
-<li>藤井敬之（<a href="https://ja.wikipedia.org/wiki/音速ライン" title="wikilink">音速ライン</a>）</li>
+<li>藤井敬之（<a href="../Page/音速ライン.md" title="wikilink">音速ライン</a>）</li>
 <li><a href="../Page/西川進.md" title="wikilink">西川進</a></li>
 <li>カトウタロウ（<a href="../Page/BEAT_CRUSADERS.md" title="wikilink">BEAT CRUSADERS</a>）</li>
 <li>越川和磨 (<a href="https://ja.wikipedia.org/wiki/毛皮のマリーズ" title="wikilink">毛皮のマリーズ</a>)</li>
@@ -180,8 +180,8 @@
 <li>山内総一郎（<a href="../Page/フジファブリック.md" title="wikilink">フジファブリック</a>）</li>
 <li>セイジ（<a href="../Page/ギターウルフ.md" title="wikilink">ギターウルフ</a>）</li>
 <li>小野武正 (<a href="https://ja.wikipedia.org/wiki/KEYTALK" title="wikilink">KEYTALK</a>)</li>
-<li>竹安堅一（<a href="https://ja.wikipedia.org/wiki/フラワーカンパニーズ" title="wikilink">フラワーカンパニーズ</a>）</li>
-<li>ハヤシヒロユキ（<a href="https://ja.wikipedia.org/wiki/POLYSICS" title="wikilink">POLYSICS</a>）</li>
+<li>竹安堅一（<a href="../Page/フラワーカンパニーズ.md" title="wikilink">フラワーカンパニーズ</a>）</li>
+<li>ハヤシヒロユキ（<a href="../Page/POLYSICS.md" title="wikilink">POLYSICS</a>）</li>
 <li>岩寺基晴（<a href="https://ja.wikipedia.org/wiki/サカナクション" title="wikilink">サカナクション</a>）</li>
 <li><a href="../Page/招鬼.md" title="wikilink">招鬼</a>（<a href="../Page/陰陽座.md" title="wikilink">陰陽座</a>）</li>
 <li><a href="https://ja.wikipedia.org/wiki/椎名林檎" title="wikilink">椎名林檎</a></li>

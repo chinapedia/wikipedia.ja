@@ -21,7 +21,7 @@
 
 その後、ABCラジオの[1999年](../Page/1999年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")改編で、放送時間を毎週[土曜日](../Page/土曜日.md "wikilink")の21:00 - 22:00に変更。パーソナリティも、[藤崎健一郎](../Page/藤崎健一郎.md "wikilink")・[高野直子の両アナウンサーに固定した](../Page/高野直子_\(アナウンサー\).md "wikilink")。しかし、[2000年](../Page/2000年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")改編で、ラジオでのレギュラー放送を終了。Webioでのオンデマンド配信およスカイ・Aでの放送へ移行するとともに、当番組の放送枠で『[ABCミュージック21](../Page/ABCミュージック21.md "wikilink")』の放送を開始した。
 
-なお、ABCラジオでは[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月17日](../Page/10月17日.md "wikilink")に、1時間の特別番組『アナパラジオ〜Oh\!ラフィーキ〜』を編成。『Oh\!ラフィーキ』名義の番組としては、レギュラー放送終了後10年半振りにラジオでの放送が実現した。同番組では、当時Webio版で実施していた複数のアナウンサーによるフリートークを2本立て形式で放送（前半：中村・[芦沢誠](../Page/芦沢誠.md "wikilink")・[保坂和拓](../Page/保坂和拓.md "wikilink")・[高橋大作](../Page/高橋大作.md "wikilink")、後半：中村智子・[小寺右子](https://ja.wikipedia.org/wiki/小寺右子 "wikilink")・[北村真平](../Page/北村真平.md "wikilink")・[角野友紀](https://ja.wikipedia.org/wiki/角野友紀 "wikilink")）。朝日放送テレビ・ラジオにおける過去の人気番組の歴史を、[和沙哲郎](../Page/和沙哲郎.md "wikilink")による番組テーマ曲の[リコーダー](../Page/リコーダー.md "wikilink")演奏とともに紹介する企画も実施した。
+なお、ABCラジオでは[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月17日](../Page/10月17日.md "wikilink")に、1時間の特別番組『アナパラジオ〜Oh\!ラフィーキ〜』を編成。『Oh\!ラフィーキ』名義の番組としては、レギュラー放送終了後10年半振りにラジオでの放送が実現した。同番組では、当時Webio版で実施していた複数のアナウンサーによるフリートークを2本立て形式で放送（前半：中村・[芦沢誠](../Page/芦沢誠.md "wikilink")・[保坂和拓](../Page/保坂和拓.md "wikilink")・[高橋大作](../Page/高橋大作.md "wikilink")、後半：中村智子・[小寺右子](../Page/小寺右子.md "wikilink")・[北村真平](../Page/北村真平.md "wikilink")・[角野友紀](https://ja.wikipedia.org/wiki/角野友紀 "wikilink")）。朝日放送テレビ・ラジオにおける過去の人気番組の歴史を、[和沙哲郎](../Page/和沙哲郎.md "wikilink")による番組テーマ曲の[リコーダー](../Page/リコーダー.md "wikilink")演奏とともに紹介する企画も実施した。
 
 #### Webio・スカイA版
 

@@ -4,7 +4,7 @@
 **DLP**
 
 1.  映像表示システムの一種。本項で紹介。
-2.  [離散対数問題](https://ja.wikipedia.org/wiki/離散対数問題 "wikilink")。[ElGamal暗号](https://ja.wikipedia.org/wiki/ElGamal暗号 "wikilink")や[楕円曲線暗号](../Page/楕円曲線暗号.md "wikilink")の[数論](../Page/数論.md "wikilink")的安全性の根拠。
+2.  [離散対数問題](https://ja.wikipedia.org/wiki/離散対数問題 "wikilink")。[ElGamal暗号](../Page/ElGamal暗号.md "wikilink")や[楕円曲線暗号](../Page/楕円曲線暗号.md "wikilink")の[数論](../Page/数論.md "wikilink")的安全性の根拠。
 3.  [情報漏洩](../Page/情報漏洩.md "wikilink")対策。**D**ata **L**oss **P**revention あるいは **D**ata **L**eak **P**reventionの頭字語。
 
 -----

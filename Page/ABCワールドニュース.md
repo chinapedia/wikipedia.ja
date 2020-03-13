@@ -5,23 +5,23 @@
 
 ## 第1期:3人のアンカーの時代
 
-[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")から放送されてきた「ABCイブニング・ニュース」（*ABC Evening News*）の後継番組として、番組名を「ABCワールド・ニュース・トゥナイト」（*ABC World News Tonight*）とし[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")に放送開始。
+[1970年](../Page/1970年.md "wikilink")から放送されてきた「ABCイブニング・ニュース」（*ABC Evening News*）の後継番組として、番組名を「ABCワールド・ニュース・トゥナイト」（*ABC World News Tonight*）とし[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")に放送開始。
 
-アンカー（ニュースキャスター）は3人のアンカー（co-anchor）が異なる場所から担当する。政治ニュースを中心に[ワシントンD.C.](../Page/ワシントンD.C..md "wikilink")から [フランク・レイノルズ](https://ja.wikipedia.org/wiki/フランク・レイノルズ "wikilink")（Frank Reynolds、3人の中で中心人物）、海外ニュースを[ロンドン](../Page/ロンドン.md "wikilink")から[ピーター・ジェニングス](https://ja.wikipedia.org/wiki/ピーター・ジェニングス "wikilink")（Peter Jennings）が、国内ニュースは[シカゴ](../Page/シカゴ.md "wikilink")から[マックス・ロビンソン](https://ja.wikipedia.org/wiki/マックス・ロビンソン "wikilink")（Max Robinson、全米ネット初の[黒人](../Page/黒人.md "wikilink")アンカー）が伝えるという珍しい体制をとる。
+アンカー（ニュースキャスター）は3人のアンカー（co-anchor）が異なる場所から担当する。政治ニュースを中心に[ワシントンD.C.](../Page/ワシントンD.C..md "wikilink")から [フランク・レイノルズ](https://ja.wikipedia.org/wiki/フランク・レイノルズ "wikilink")（Frank Reynolds、3人の中で中心人物）、海外ニュースを[ロンドン](../Page/ロンドン.md "wikilink")から[ピーター・ジェニングス](../Page/ピーター・ジェニングス.md "wikilink")（Peter Jennings）が、国内ニュースは[シカゴ](../Page/シカゴ.md "wikilink")から[マックス・ロビンソン](https://ja.wikipedia.org/wiki/マックス・ロビンソン "wikilink")（Max Robinson、全米ネット初の[黒人](../Page/黒人.md "wikilink")アンカー）が伝えるという珍しい体制をとる。
 
 1970年代までのアメリカではNBCが2人体制の期間が長くCBSは1人体制が続き、これに対してABCは試行錯誤を続けてきたが、結果として3位体制という試みになった。しかし、情報が集まるのは3人がいないニューヨークであって、また例えばメキシコで起きたニュースをロンドンから伝えるといった非効率の面もあって、見直されることとなった。
 
 ## 第2期:ピーター・ジェニングスの時代
 
-[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")にレイノルズが亡くなり、ロンドンから伝えていた[ピーター・ジェニングス](https://ja.wikipedia.org/wiki/ピーター・ジェニングス "wikilink")が単独アンカーとしてニューヨークから伝えることになる。[1984年](../Page/1984年.md "wikilink")9月からは、番組名も彼の名を冠した *World News Tonight With Peter Jennings* となった。
+[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")にレイノルズが亡くなり、ロンドンから伝えていた[ピーター・ジェニングス](../Page/ピーター・ジェニングス.md "wikilink")が単独アンカーとしてニューヨークから伝えることになる。[1984年](../Page/1984年.md "wikilink")9月からは、番組名も彼の名を冠した *World News Tonight With Peter Jennings* となった。
 
-ジェニングスは海外取材歴が長かったこともあり、単独で担当するようになってからも、国内ニュースのほかに海外のニュース取材も積極的に行なった。日本には[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")の原爆記念の日に広島から放送したほか、[昭和天皇](../Page/昭和天皇.md "wikilink")崩御の際にも来日して取材・放送を行った。また[1993年](../Page/1993年.md "wikilink")の[東京サミットで来日した際には](https://ja.wikipedia.org/wiki/第19回先進国首脳会議 "wikilink")（当時日本では解散[総選挙の真っ只中でもあったため](https://ja.wikipedia.org/wiki/衆議院議員総選挙 "wikilink")）日本全国各地を取材・放送を行った。
+ジェニングスは海外取材歴が長かったこともあり、単独で担当するようになってからも、国内ニュースのほかに海外のニュース取材も積極的に行なった。日本には[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")の原爆記念の日に広島から放送したほか、[昭和天皇](../Page/昭和天皇.md "wikilink")崩御の際にも来日して取材・放送を行った。また[1993年](../Page/1993年.md "wikilink")の[東京サミットで来日した際には](https://ja.wikipedia.org/wiki/第19回先進国首脳会議 "wikilink")（当時日本では解散[総選挙の真っ只中でもあったため](../Page/衆議院議員総選挙.md "wikilink")）日本全国各地を取材・放送を行った。
 
 ジェニングスと同じく1980年代前半に[トム・ブロコウ](https://ja.wikipedia.org/wiki/トム・ブロコウ "wikilink")が「[NBCナイトリーニュース](../Page/NBCナイトリーニュース.md "wikilink")」の、[ダン・ラザー](../Page/ダン・ラザー.md "wikilink")が「[CBSイブニングニュース](../Page/CBSイブニングニュース.md "wikilink")」のアンカーとなり、これら[三大ネットワーク](https://ja.wikipedia.org/wiki/三大ネットワーク "wikilink")の夕方ニュース番組は激しい視聴率競争を展開した。80年代後半からの国際社会の激変の中で、番組は国際報道で強みを発揮し、10年あまり視聴率競争で優位にあった。しかし90年代後半から「NBCナイトリーニュース」が優位に立ち、以後後塵を拝する格好となった。
 
 [2001年](../Page/2001年.md "wikilink")、[アメリカ同時多発テロ事件](https://ja.wikipedia.org/wiki/アメリカ同時多発テロ事件 "wikilink")に関して愛国心が渦巻く中、冷静を保った報道姿勢が保守層から反感を買い、視聴率が急落する一幕もあった。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")4月、ジェニングスは自らが[肺癌](../Page/肺癌.md "wikilink")患者であることを告白し、病気療養に専念する為に降板。同年[8月7日](../Page/8月7日.md "wikilink")、67歳で亡くなった。ジェニングスの死は世界中で報道された。ライバルであった[NBCニュース](https://ja.wikipedia.org/wiki/NBCニュース "wikilink")は、ジェニングスへの哀悼の意を異例の新聞全面追悼広告として表した。WNTを放送していた[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[衛星第1テレビでABCの追悼番組を放送した](https://ja.wikipedia.org/wiki/NHK衛星第1テレビジョン "wikilink")。
+[2005年](../Page/2005年.md "wikilink")4月、ジェニングスは自らが[肺癌](../Page/肺癌.md "wikilink")患者であることを告白し、病気療養に専念する為に降板。同年[8月7日](../Page/8月7日.md "wikilink")、67歳で亡くなった。ジェニングスの死は世界中で報道された。ライバルであった[NBCニュース](https://ja.wikipedia.org/wiki/NBCニュース "wikilink")は、ジェニングスへの哀悼の意を異例の新聞全面追悼広告として表した。WNTを放送していた[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[衛星第1テレビでABCの追悼番組を放送した](https://ja.wikipedia.org/wiki/NHK衛星第1テレビジョン "wikilink")。
 
 ジェニングスの病気療養・死去から新アンカーが決まるまで、ジェニングスが担当していた平日の担当は、平日朝の番組『[グッド・モーニング・アメリカ](../Page/グッド・モーニング・アメリカ.md "wikilink")』（*Good Morning America*、GMA）の司会者[チャールズ・ギブソン](../Page/チャールズ・ギブソン.md "wikilink")（Charles Gibson）や、*[20/20](https://ja.wikipedia.org/wiki/20/20_\(テレビ番組\) "wikilink")* の司会者[エリザベス・バーガス](https://ja.wikipedia.org/wiki/エリザベス・バーガス "wikilink")（Elizabeth Vargas）、番組の日曜日担当だった[ボブ・ウッドラフ](https://ja.wikipedia.org/wiki/ボブ・ウッドラフ "wikilink")（Bob Woodruff）らで補った。
 
@@ -29,7 +29,7 @@
 
 ### バーガス & ウッドラフ
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月5日](../Page/12月5日.md "wikilink")、[ABCニュースはジェニングスの正式な後任として](../Page/ABCニュース_\(アメリカ\).md "wikilink")、バーガスとウッドラフを共同アンカーとすると発表した。
+[2005年](../Page/2005年.md "wikilink")[12月5日](../Page/12月5日.md "wikilink")、[ABCニュースはジェニングスの正式な後任として](../Page/ABCニュース_\(アメリカ\).md "wikilink")、バーガスとウッドラフを共同アンカーとすると発表した。
 
 [2006年](../Page/2006年.md "wikilink")1月から新アンカーによる放送が始まり、いくつかの新しい試みも始まった（後述）。その一つとして、二人でニューヨークのスタジオから伝える形式に加え、いずれか一方（主にウッドラフ）が国内外問わずニュースの現場に出てリポートする形式を積極的に採用した。ちなみに1月最初の放送では、バーガスがスタジオからニュースを、ウッドラフが[イラン](../Page/イラン.md "wikilink")の首都[テヘラン](../Page/テヘラン.md "wikilink")からリポートを伝えた。
 
@@ -79,7 +79,7 @@ ABCのウェブサイトで[ビデオ・オン・デマンド](../Page/ビデオ
 
 しかし[2006年](../Page/2006年.md "wikilink")[11月7日](../Page/11月7日.md "wikilink")からは、アメリカでの放送開始から10分程度遅らせて放送する同時通訳放送が始められた（つまり、下見が出来なくなった）。当初は最後のニュース項目を除いてほぼ全編放送されたが、2007年11月以降は前半部分のみの放送となっている。一方再放送ではこれまで通り時差通訳方式のため、同時通訳放送より安定した訳で放送、最後のニュース項目まで全編放送される。
 
-2005年度、「[メジャーリーグ](https://ja.wikipedia.org/wiki/メジャーリーグ "wikilink")中継」などのスポーツ中継がBS1の8時台にある際に、[BS2の](../Page/NHK衛星第2テレビジョン.md "wikilink")8時台に「[ワールドニュースアワー](https://ja.wikipedia.org/wiki/ワールドニュースアワー "wikilink")」として振り替え放送された（土曜日を除く）。同時通訳放送を実施する2007年以降、そのような措置はとられていない。
+2005年度、「[メジャーリーグ](https://ja.wikipedia.org/wiki/メジャーリーグ "wikilink")中継」などのスポーツ中継がBS1の8時台にある際に、[BS2の](../Page/NHK衛星第2テレビジョン.md "wikilink")8時台に「[ワールドニュースアワー](../Page/ワールドニュースアワー.md "wikilink")」として振り替え放送された（土曜日を除く）。同時通訳放送を実施する2007年以降、そのような措置はとられていない。
 
   - **同時通訳放送**（[2019年](../Page/2019年.md "wikilink")4月現在）
 

@@ -1,7 +1,7 @@
 > この記事は[JUNK2 !](https://ja.wikipedia.org/wiki/JUNK2_!)から翻訳されています。
 
 
-**金曜JUNK2 原口・はなわの角っ歯\!**（**きんようジャンクツー はらぐち - つの - ぱ**）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月8日](../Page/4月8日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで、[TBSラジオで放送された](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")、[原口あきまさ](../Page/原口あきまさ.md "wikilink")と[はなわ](https://ja.wikipedia.org/wiki/はなわ "wikilink")が[パーソナリティを務めた](../Page/ラジオパーソナリティ.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
+**金曜JUNK2 原口・はなわの角っ歯\!**（**きんようジャンクツー はらぐち - つの - ぱ**）は、[2005年](../Page/2005年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで、[TBSラジオで放送された](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")、[原口あきまさ](../Page/原口あきまさ.md "wikilink")と[はなわ](https://ja.wikipedia.org/wiki/はなわ "wikilink")が[パーソナリティを務めた](../Page/ラジオパーソナリティ.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
 
 TBSラジオをキー局に[JRN各局で](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")。毎週[金曜日](../Page/金曜日.md "wikilink")27:00-28:00（[土曜日](../Page/土曜日.md "wikilink")3:00-4:00）の『金曜[JUNK2](../Page/JUNK2.md "wikilink")』枠で放送されていた。
 

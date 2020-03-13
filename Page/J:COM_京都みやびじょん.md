@@ -71,7 +71,7 @@
 <td><p>021<br />
 022<br />
 023</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK教育テレビジョン" title="wikilink">NHKEテレ</a><a href="../Page/NHK大阪放送局.md" title="wikilink">大阪</a></p></td>
+<td><p><a href="../Page/NHK教育テレビジョン.md" title="wikilink">NHKEテレ</a><a href="../Page/NHK大阪放送局.md" title="wikilink">大阪</a></p></td>
 <td><p>●</p></td>
 <td><p>?</p></td>
 </tr>
@@ -147,13 +147,13 @@
 
   - [2019年](../Page/2019年.md "wikilink")（[平成](../Page/平成.md "wikilink")31年）[1月1日](../Page/1月1日.md "wikilink")現在。
 
-| MHz  | 放送局                                                                                                                                                | 備考 |
-| ---- | -------------------------------------------------------------------------------------------------------------------------------------------------- | -- |
-| 80.2 | [FM802](../Page/FM802.md "wikilink")                                                                                                               |    |
-| 81.0 | [α-station](../Page/エフエム京都.md "wikilink")                                                                                                          |    |
-| 82.8 | [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[京都](../Page/NHK京都放送局.md "wikilink")-[FM](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink") |    |
-| 85.1 | [FM OH\!](../Page/エフエム大阪.md "wikilink")                                                                                                            |    |
-|      |                                                                                                                                                    |    |
+| MHz  | 放送局                                                                                                                             | 備考 |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------- | -- |
+| 80.2 | [FM802](../Page/FM802.md "wikilink")                                                                                            |    |
+| 81.0 | [α-station](../Page/エフエム京都.md "wikilink")                                                                                       |    |
+| 82.8 | [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[京都](../Page/NHK京都放送局.md "wikilink")-[FM](../Page/NHK-FM放送.md "wikilink") |    |
+| 85.1 | [FM OH\!](../Page/エフエム大阪.md "wikilink")                                                                                         |    |
+|      |                                                                                                                                 |    |
 
 ### BSデジタル放送・専門チャンネル
 

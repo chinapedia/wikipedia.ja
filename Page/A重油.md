@@ -9,7 +9,7 @@
 
 これは[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")独自の[税制](https://ja.wikipedia.org/wiki/税制 "wikilink")上の分類で、[ディーゼル車の燃料として](../Page/ディーゼル自動車.md "wikilink")[ガソリンスタンド](../Page/ガソリンスタンド.md "wikilink")で販売されている軽油と比べると若干[炭素](../Page/炭素.md "wikilink")の含有率が高いものの、[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")を回すうえでは基本的には問題ないと言われるほど成分が似ている。軽油には1リットルあたり32.1円の[税金](https://ja.wikipedia.org/wiki/税金 "wikilink")（[軽油引取税](../Page/軽油引取税.md "wikilink")）がかかるが、用途を[農業](https://ja.wikipedia.org/wiki/農業 "wikilink")用・[漁業](https://ja.wikipedia.org/wiki/漁業 "wikilink")用に限定することを条件に無税としたものがA重油である。
 
-[精製](https://ja.wikipedia.org/wiki/精製 "wikilink")原価を超える[租税がかかるため](../Page/日本の租税.md "wikilink")、無税のA重油を[トラック燃料に用いようとする](../Page/貨物自動車.md "wikilink")[脱税行為が後を絶たない](https://ja.wikipedia.org/wiki/不正軽油 "wikilink")。管轄省庁では簡易に検査できるように、A重油には[クマリン](https://ja.wikipedia.org/wiki/クマリン "wikilink")を混入することを義務づけている。クマリンは[ブラックライト](../Page/ブラックライト.md "wikilink")により[蛍光](../Page/蛍光.md "wikilink")する為、簡易に軽油とA重油を、または混合の有無を識別することが可能である。
+[精製](https://ja.wikipedia.org/wiki/精製 "wikilink")原価を超える[租税がかかるため](../Page/日本の租税.md "wikilink")、無税のA重油を[トラック燃料に用いようとする](../Page/貨物自動車.md "wikilink")[脱税行為が後を絶たない](../Page/不正軽油.md "wikilink")。管轄省庁では簡易に検査できるように、A重油には[クマリン](https://ja.wikipedia.org/wiki/クマリン "wikilink")を混入することを義務づけている。クマリンは[ブラックライト](../Page/ブラックライト.md "wikilink")により[蛍光](../Page/蛍光.md "wikilink")する為、簡易に軽油とA重油を、または混合の有無を識別することが可能である。
 
 なお、A重油をディーゼルエンジンに使用する行為は、現在では旧型に類するディーゼルエンジンに限られる事に注意する必要がある。[2000年代](../Page/2000年代.md "wikilink")以降の自動車用ディーゼルエンジンでは、[排気ガス](../Page/排気ガス.md "wikilink")対策として[EGRや](../Page/排気再循環.md "wikilink")[DPF](../Page/ディーゼル微粒子捕集フィルター.md "wikilink")、[触媒を設けており](../Page/三元触媒.md "wikilink")、また[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")同様燃料噴射や[ノックコントロールなどを電子制御](../Page/ノッキング.md "wikilink")[ECUで行っている](../Page/エンジンコントロールユニット.md "wikilink")。
 
@@ -30,7 +30,7 @@
 
 ## 関連項目
 
-  - [不正軽油](https://ja.wikipedia.org/wiki/不正軽油 "wikilink")
+  - [不正軽油](../Page/不正軽油.md "wikilink")
   - [トラクター](../Page/トラクター.md "wikilink")
   - [漁船](../Page/漁船.md "wikilink")
 

@@ -94,7 +94,7 @@
 | \#4DB56A                                                                               | [緑](../Page/緑.md "wikilink")                                  | 2.5G 6.5/10                                  |
 | \#357C4C                                                                               | [常磐（ときわ）色](https://ja.wikipedia.org/wiki/常磐色 "wikilink")      | 3G 4.5/7                                     |
 | \#5F836D                                                                               | [緑青（ろくしょう）色](https://ja.wikipedia.org/wiki/緑青色 "wikilink")    | 4G 5/4                                       |
-| \#4A6956                                                                               | [千歳緑](https://ja.wikipedia.org/wiki/千歳緑 "wikilink")（ちとせみどり）   | 4G 4/3.5                                     |
+| \#4A6956                                                                               | [千歳緑](../Page/千歳緑.md "wikilink")（ちとせみどり）                      | 4G 4/3.5                                     |
 | \#005731                                                                               | [深緑](https://ja.wikipedia.org/wiki/深緑 "wikilink")             | 5G 3/7                                       |
 | \#15543B                                                                               | [もえぎ色](https://ja.wikipedia.org/wiki/萌葱色 "wikilink")          | 5.5G 3/5                                     |
 | \#49A581                                                                               | [若竹色](https://ja.wikipedia.org/wiki/若竹色 "wikilink")           | 6G 6/7.5                                     |

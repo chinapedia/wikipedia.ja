@@ -1,7 +1,7 @@
 > この記事は[!MAX](https://ja.wikipedia.org/wiki/!MAX)から翻訳されています。
 
 
-『**学校へ行こう\!MAX**』（がっこうへいこう マックス、英名：*GROOVY AFTER SCHOOL MAX\!*）とは[TBS系列で](../Page/TBSテレビ.md "wikilink")、[日本時間の毎週](../Page/日本標準時.md "wikilink")[火曜日](../Page/火曜日.md "wikilink")19時56分から20時54分まで放送していた[学校教育](../Page/学校教育.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。[2006年](../Page/2006年.md "wikilink")3月までは19時54分（TBS以外では原則として20時）からの放送だった。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月19日](../Page/4月19日.md "wikilink")スタート。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月2日](../Page/9月2日.md "wikilink")『学校へ行こう\!MAX 11年ありがとう\!大卒業式スペシャル\!』にて放送終了。
+『**学校へ行こう\!MAX**』（がっこうへいこう マックス、英名：*GROOVY AFTER SCHOOL MAX\!*）とは[TBS系列で](../Page/TBSテレビ.md "wikilink")、[日本時間の毎週](../Page/日本標準時.md "wikilink")[火曜日](../Page/火曜日.md "wikilink")19時56分から20時54分まで放送していた[学校教育](../Page/学校教育.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。[2006年](../Page/2006年.md "wikilink")3月までは19時54分（TBS以外では原則として20時）からの放送だった。[2005年](../Page/2005年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink")スタート。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月2日](../Page/9月2日.md "wikilink")『学校へ行こう\!MAX 11年ありがとう\!大卒業式スペシャル\!』にて放送終了。
 
 ## 出演
 
@@ -61,7 +61,7 @@ V6とスタッフの一部は、同年10月から『[新知識階級　クマグ
   - 井出君
     崎浜君のVTRの後に、スタジオで発見。後日、井出君の家で趣味のバスケット、天気予報の話を聞く。また、その際に井出君は好きだった女の子に告白（正確に言うと、返事を聞いただけ）。
   - 佐藤君
-    [2006年](../Page/2006年.md "wikilink")[8月22日](../Page/8月22日.md "wikilink")放送分で紹介された、千葉県の[成田高校のチアダンス部の唯一の男子部員](https://ja.wikipedia.org/wiki/成田高等学校・付属中学校 "wikilink")。卒業後に大分県の[日本文理大学](../Page/日本文理大学.md "wikilink")に進学し、チアリーディング部に所属。[2009年](../Page/2009年.md "wikilink")の全日本学生選手権大会ではAチーム入りを果たし、同大学チアリーディング部のV14（14大会連続優勝）に貢献した。現在は同部の主将を務めている。[1](http://www.oita-press.co.jp/localSports/120731028281/2010_126922039912.html)
+    [2006年](../Page/2006年.md "wikilink")[8月22日](../Page/8月22日.md "wikilink")放送分で紹介された、千葉県の[成田高校のチアダンス部の唯一の男子部員](../Page/成田高等学校・付属中学校.md "wikilink")。卒業後に大分県の[日本文理大学](../Page/日本文理大学.md "wikilink")に進学し、チアリーディング部に所属。[2009年](../Page/2009年.md "wikilink")の全日本学生選手権大会ではAチーム入りを果たし、同大学チアリーディング部のV14（14大会連続優勝）に貢献した。現在は同部の主将を務めている。[1](http://www.oita-press.co.jp/localSports/120731028281/2010_126922039912.html)
 
 ## スタッフ（最終回時点）
 

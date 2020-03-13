@@ -13,7 +13,7 @@
 
 [2001年](../Page/2001年.md "wikilink")10月に芸能界復帰を果たした市井紗耶香と、[シャ乱Q](../Page/シャ乱Q.md "wikilink")のキーボーディスト・たいせー（のち、たいせい）、ギタリスト[鳥山雄司](https://ja.wikipedia.org/wiki/鳥山雄司 "wikilink")の弟子であり、『[LOVE LOVEあいしてる](https://ja.wikipedia.org/wiki/LOVE_LOVEあいしてる "wikilink")』のスタッフでもあったギタリスト・吉澤直樹の3人で、[2002年](../Page/2002年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")に結成される。
 
-シングル「人生がもう始まってる」で2002年[4月24日](../Page/4月24日.md "wikilink")にCDデビュー。2002年11月に1stアルバム『C:BOX』をリリース。[Cymbals](https://ja.wikipedia.org/wiki/Cymbals "wikilink")の矢野博康をアレンジャーに迎える。全11曲中7曲の作詞を市井が担当。
+シングル「人生がもう始まってる」で2002年[4月24日](../Page/4月24日.md "wikilink")にCDデビュー。2002年11月に1stアルバム『C:BOX』をリリース。[Cymbals](../Page/Cymbals.md "wikilink")の矢野博康をアレンジャーに迎える。全11曲中7曲の作詞を市井が担当。
 
 [2003年](../Page/2003年.md "wikilink")初めにリリース予定だったシングル「ずっとずっと」は発売延期の末、同年5月にリリース。長髪の市井のジャケット写真が話題になるが、累計約5000枚と初めて売上1万枚を割る\[1\]。同年夏、CUBIC-CROSSは活動を休止し、[11月9日](../Page/11月9日.md "wikilink")に市井の引退宣言を受けて解散。市井は[2009年](../Page/2009年.md "wikilink")にソロで活動を再開した。
 

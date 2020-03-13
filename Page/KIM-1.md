@@ -31,7 +31,7 @@ KIMを出して間もなく[モステクノロジー](../Page/モステクノロ
       - 6530×2（1KB ROM、64バイト RAM、8ビット双方向ポート×2、プログラマブル・インターバルタイマ）\[3\]
       - 6102×8（1Kビット RAM）
   - 周辺デバイス
-      - [7セグメント](https://ja.wikipedia.org/wiki/7セグメントディスプレイ "wikilink")[LED](../Page/発光ダイオード.md "wikilink")×6桁分
+      - [7セグメント](../Page/7セグメントディスプレイ.md "wikilink")[LED](../Page/発光ダイオード.md "wikilink")×6桁分
       - 24キー電卓型キーパッド
 
 KIM-1の説明書には "1 K BYTE RAM" とあるが、6102×8による1024バイトの他に6530×2による128バイトが加わるので、正確には1152バイトである。[Byte magazine](https://ja.wikipedia.org/wiki/:en:Byte_magazine "wikilink") 1976年4月号で紹介され、掲載された広告には "1 K BYTE RAM" および "2048 ROM BYTES" と書かれていた\[4\]。
@@ -55,7 +55,7 @@ KIM-1はもう少し複雑なブートストラップ・ローダに相当する
   - CPU: [MCS6502](../Page/MOS_6502.md "wikilink")
   - 2×PIO MCS6530 - 1024×8ビットROM、64×8ビットRAM、2×8ビット[GPIO](https://ja.wikipedia.org/wiki/GPIO "wikilink")ポート、
   - 8×6102 [SRAM](../Page/Static_Random_Access_Memory.md "wikilink") 1024×1 （合計1152バイト）
-  - 6×[7セグメント](https://ja.wikipedia.org/wiki/7セグメントディスプレイ "wikilink")[LED](../Page/発光ダイオード.md "wikilink")
+  - 6×[7セグメント](../Page/7セグメントディスプレイ.md "wikilink")[LED](../Page/発光ダイオード.md "wikilink")
   - 24キーの電卓型[キーパッド](https://ja.wikipedia.org/wiki/キーパッド "wikilink")
   - 2×[シリアルポート](https://ja.wikipedia.org/wiki/シリアル通信 "wikilink")
   - Terminal Interface Monitor (TIM) - [ブート](../Page/ブート.md "wikilink")、キーパッド、7セグメントLED、カセットレコーダを制御
@@ -97,7 +97,7 @@ KIM-1はもう少し複雑なブートストラップ・ローダに相当する
   - [KIM-1 6502 website](http://users.telenet.be/kim1-6502/) – `erik.vdbroeck` のKIM-1に関するサイト。[HTML化されたマニュアルや書籍がある](../Page/HyperText_Markup_Language.md "wikilink")。
   - [Instructions on building your own KIM-1](http://www.6502.org/oldmicro/buildkim/buildkim.htm)
   - [KIM-1 Hints/FAQ](http://zimmers.net/cbmpics/cbm/kim1/kim-hints.txt)
-  - [Floodgap Retrobits KIM-1](http://www.floodgap.com/retrobits/kim-1/) [コモドール64](https://ja.wikipedia.org/wiki/コモドール64 "wikilink")上で動作するKIM-1[エミュレータ](../Page/エミュレータ.md "wikilink")がある。
+  - [Floodgap Retrobits KIM-1](http://www.floodgap.com/retrobits/kim-1/) [コモドール64](../Page/コモドール64.md "wikilink")上で動作するKIM-1[エミュレータ](../Page/エミュレータ.md "wikilink")がある。
   - [Modern KIM-1 clone website](http://www.brielcomputers.com/micro-KIM.html)
   - [KIM-1 hobbyist's development:](http://nowscape.com/blk/KIM_development.htm) KIM-1とそのクローンの写真
 

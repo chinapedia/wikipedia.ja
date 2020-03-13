@@ -13,7 +13,7 @@
 
 [装甲](../Page/装甲.md "wikilink")[ジープ](../Page/ジープ.md "wikilink")的な性格の[装甲車](../Page/装甲車.md "wikilink")両で、ホイールベースに対して車体を極力小さくまとめ、機関室を車体前部に配している。
 
-タイプとしては、[偵察](https://ja.wikipedia.org/wiki/偵察 "wikilink")型と[対戦車ミサイル](../Page/対戦車ミサイル.md "wikilink")搭載型の2種類が存在する。
+タイプとしては、[偵察](../Page/偵察.md "wikilink")型と[対戦車ミサイル](../Page/対戦車ミサイル.md "wikilink")搭載型の2種類が存在する。
 
 輸出を含めて約2,300両が生産され、この内およそ1,600両がフランス軍で使用されている（[2006年](../Page/2006年.md "wikilink")の時点で）。
 
@@ -32,7 +32,7 @@
 
   - \- 243台
 
-  - \- [ISAFの一環で使用](https://ja.wikipedia.org/wiki/国際治安支援部隊 "wikilink")。
+  - \- [ISAFの一環で使用](../Page/国際治安支援部隊.md "wikilink")。
 
   - \- 18台。[2006年](../Page/2006年.md "wikilink")、[国連軍](../Page/国連軍.md "wikilink")の一員として[レバノン](https://ja.wikipedia.org/wiki/レバノン "wikilink")での[平和維持活動](https://ja.wikipedia.org/wiki/平和維持活動 "wikilink")で使用。
 

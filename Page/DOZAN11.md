@@ -428,7 +428,7 @@ TKCA-10005:Blu-spec CD</p></td>
 </tr>
 <tr class="odd">
 <td><p>2002年04月26日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Ram_Jam_World" title="wikilink">Ram Jam World</a>『POSITIVE VIBRATION featuring 三木道山』</p></td>
+<td><p><a href="../Page/Ram_Jam_World.md" title="wikilink">Ram Jam World</a>『POSITIVE VIBRATION featuring 三木道山』</p></td>
 <td><p>YRJN-38006</p></td>
 <td><p>POSITIVE VIBRATION featuring 三木道山</p></td>
 </tr>

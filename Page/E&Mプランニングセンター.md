@@ -19,7 +19,7 @@
 
   - [一休さん](https://ja.wikipedia.org/wiki/一休さん_\(テレビアニメ\) "wikilink") (NET→ANB)
   - [風の谷のナウシカ](https://ja.wikipedia.org/wiki/風の谷のナウシカ_\(映画\) "wikilink")※佐藤一俊と連名クレジット
-  - [ゲゲゲの鬼太郎（第1期）](https://ja.wikipedia.org/wiki/ゲゲゲの鬼太郎_\(テレビアニメ第1シリーズ\) "wikilink")・[（第2期）](https://ja.wikipedia.org/wiki/ゲゲゲの鬼太郎_\(テレビアニメ第2シリーズ\) "wikilink")(CX)
+  - [ゲゲゲの鬼太郎（第1期）](../Page/ゲゲゲの鬼太郎_\(テレビアニメ第1シリーズ\).md "wikilink")・[（第2期）](../Page/ゲゲゲの鬼太郎_\(テレビアニメ第2シリーズ\).md "wikilink")(CX)
   - [少年徳川家康](../Page/少年徳川家康.md "wikilink") (NET)
   - [とんがり帽子のメモル](../Page/とんがり帽子のメモル.md "wikilink") (ABC-ANN)
   - [はーいステップジュン](../Page/はーいステップジュン.md "wikilink") (ABC-ANN)

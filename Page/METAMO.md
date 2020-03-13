@@ -66,6 +66,6 @@
       - 2001年9月25日 - [ジェニーいとう](https://ja.wikipedia.org/wiki/ジェニーいとう "wikilink")、[藤川なお美](../Page/藤川なお美.md "wikilink")と5人で[Folder5](../Page/Folder5.md "wikilink")の物真似を披露
   - 特選ネタショップ（[テレビ朝日](../Page/テレビ朝日.md "wikilink")、2000年10月～2001年3月　[さまぁ〜ず](../Page/さまぁ〜ず.md "wikilink")と共にレギュラー出演）
   - [ファイトマネー](../Page/ファイトマネー_\(テレビ番組\).md "wikilink")（[関西テレビ制作](../Page/関西テレビ放送.md "wikilink")、フジテレビ系ネット　2001年4月～2001年9月）
-  - TOKYO★1週間（[BS-i](../Page/BS-TBS.md "wikilink")　毎週[木曜日](https://ja.wikipedia.org/wiki/木曜日 "wikilink")、2001年7月～2001年9月）
+  - TOKYO★1週間（[BS-i](../Page/BS-TBS.md "wikilink")　毎週[木曜日](../Page/木曜日.md "wikilink")、2001年7月～2001年9月）
 
 [Category:チェキッ娘](https://ja.wikipedia.org/wiki/Category:チェキッ娘 "wikilink") [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink")

@@ -68,7 +68,7 @@
 <tr class="header">
 <th><p>シーズン</p></th>
 <th><p>ディビジョン</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/コッパ・イタリア" title="wikilink">コッパ・イタリア</a></p></th>
+<th><p><a href="../Page/コッパ・イタリア.md" title="wikilink">コッパ・イタリア</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/UEFA" title="wikilink">欧州カップ</a></p></th>
 <th><p>最多得点者</p></th>
 </tr>
@@ -431,7 +431,7 @@
 <td><p>2002-03</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ_2002-03" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レッドスター・ベオグラード" title="wikilink">ツルヴェナ・ズヴェズダ</a></p></td>
+<td><p><a href="../Page/レッドスター・ベオグラード.md" title="wikilink">ツルヴェナ・ズヴェズダ</a></p></td>
 <td><p>0–2</p></td>
 <td><p>0–0</p></td>
 <td><p>'''0–2</p></td>
@@ -559,7 +559,7 @@
 
   - [ルシアーノ](https://ja.wikipedia.org/wiki/ルシアーノ・シケイラ・デ・オリヴェイラ "wikilink")　2000-
 
-  - [シモーネ・ペッロッタ](https://ja.wikipedia.org/wiki/シモーネ・ペッロッタ "wikilink") 2001-2004
+  - [シモーネ・ペッロッタ](../Page/シモーネ・ペッロッタ.md "wikilink") 2001-2004
 
   - [ダニエル・アンデション](../Page/ダニエル・アンデション.md "wikilink") 2002-2003
 
@@ -569,7 +569,7 @@
 
   - [フランコ・セミオーリ](../Page/フランコ・セミオーリ.md "wikilink")　2003-2007
 
-  - [マッテオ・ブリーギ](https://ja.wikipedia.org/wiki/マッテオ・ブリーギ "wikilink") 2004-2007
+  - [マッテオ・ブリーギ](../Page/マッテオ・ブリーギ.md "wikilink") 2004-2007
 
   - [パオロ・サンマルコ](https://ja.wikipedia.org/wiki/パオロ・サンマルコ "wikilink") 2004-2007
 
@@ -626,7 +626,7 @@
 
 [Category:ACキエーヴォ・ヴェローナ](https://ja.wikipedia.org/wiki/Category:ACキエーヴォ・ヴェローナ "wikilink") [Category:イタリアのサッカークラブ](https://ja.wikipedia.org/wiki/Category:イタリアのサッカークラブ "wikilink") [Category:ヴェローナのスポーツ](https://ja.wikipedia.org/wiki/Category:ヴェローナのスポーツ "wikilink")
 
-1.  エンブレムの世界 キエーボ『[サッカーマガジン](../Page/サッカーマガジン.md "wikilink")』2012年5月8日号、[ベースボール・マガジン社](https://ja.wikipedia.org/wiki/ベースボール・マガジン社 "wikilink")、斉藤健仁、2012年、[雑誌](../Page/雑誌コード.md "wikilink")23882-5/8, 055頁。
+1.  エンブレムの世界 キエーボ『[サッカーマガジン](../Page/サッカーマガジン.md "wikilink")』2012年5月8日号、[ベースボール・マガジン社](../Page/ベースボール・マガジン社.md "wikilink")、斉藤健仁、2012年、[雑誌](../Page/雑誌コード.md "wikilink")23882-5/8, 055頁。
 2.
 3.
 4.  フットボールチャンネル2018年09月14日『遅すぎるキエーヴォ勝ち点剥奪にクロトーネ会長が激怒「最低だ。馬鹿げている」』 [1](https://www.footballchannel.jp/2018/09/14/post289415/)

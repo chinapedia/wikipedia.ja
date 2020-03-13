@@ -99,7 +99,7 @@
     通称 凶刃のシェザル。銃やナイフなどを使う暗殺者。人の死に快楽を覚える狂人である。場合によっては自分の死すらも快楽に思うことがある。仮面をしているために素顔は不明。少々ナルシストのようなところがある。ムドウと馬が合わないのかよく口喧嘩をしているが仲間だとは思っている。
     その正体はベリオの義兄。かつて父親が娘の欲しさのあまりさらってきたため血は繋がっておらず、成長したベリオをそのうち四肢を切り取り自分の花嫁にするつもりだった。
   - ムドウ
-    声 : [宮林康](https://ja.wikipedia.org/wiki/宮林康 "wikilink") / [若本規夫](../Page/若本規夫.md "wikilink")
+    声 : [宮林康](../Page/宮林康.md "wikilink") / [若本規夫](../Page/若本規夫.md "wikilink")
     本名は八虐無道。通称 悪逆のムドウ。勝利のためには手段を問わない残忍な性格の大男。大型を剣を振り回し口から炎を吐いてくる力任せの攻撃のほか、外見に似合わず忍術も得意としている。また、傀儡の術を得意とし、相手を自由に動かし相手を同士討ちさせ相手の精神的に苦しむのを眺めて楽しんだりする。
     かつて秘術を求め柊の里に忍び込み、カエデの両親をカエデの目の前で殺した張本人。将来の楽しみとして傀儡の術をカエデに使い、わざと見逃している。
   - ロベリア・リード
@@ -165,7 +165,7 @@
 
 ## DUEL SAVIOR JUSTICE
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月29日](../Page/7月29日.md "wikilink")に発売されたリニューアル版。DUEL SAVIORからのアップデートディスク『DUEL SAVIOR collection disc.』も同時発売された。
+[2005年](../Page/2005年.md "wikilink")[7月29日](../Page/7月29日.md "wikilink")に発売されたリニューアル版。DUEL SAVIORからのアップデートディスク『DUEL SAVIOR collection disc.』も同時発売された。
 
 ちなみにDUEL SAVIOR JUSTICEからもアップデート可能でDUEL SAVIOR JUSTICE、DUEL SAVIOR collection disc.共にDUEL SAVIORのセーブデータが引継ぎ可能。
 
@@ -179,7 +179,7 @@
 
 ## DUEL SAVIOR DESTINY
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月22日](../Page/12月22日.md "wikilink")に[アルケミストから発売されたDUEL](../Page/アルケミスト_\(企業\).md "wikilink") SAVIORの[PlayStation 2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。
+[2005年](../Page/2005年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")に[アルケミストから発売されたDUEL](../Page/アルケミスト_\(企業\).md "wikilink") SAVIORの[PlayStation 2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。
 
 クレアルートの追加、主人公を含むキャラクターに新しく声優をキャスティングして選択可能のほか、新主題歌と新OPムービーとなっている（OP曲: 『**NO WAY OUT\!**』 作詞・作曲：YOFFY、ボーカル: [サイキックラバー](../Page/サイキックラバー.md "wikilink")）。
 

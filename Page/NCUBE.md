@@ -46,7 +46,7 @@
       - 13本のI/Oチャネル（各20Mビット/s）のうち12本がプロセッサ間のハイパーキューブ接続に使用され、1本をI/Oに使用。[ワームホール・ルーティング](https://ja.wikipedia.org/wiki/ワームホール・ルーティング "wikilink")でCPU間メッセージを転送。
       - オペレーティングシステム: nCX[マイクロカーネル](https://ja.wikipedia.org/wiki/マイクロカーネル "wikilink")
       - 1プロセッサモジュール、2プロセッサモジュール、4プロセッサモジュールがある。
-  - 入出力: [SCSI](../Page/Small_Computer_System_Interface.md "wikilink")、[HIPPI](https://ja.wikipedia.org/wiki/HIPPI "wikilink")など
+  - 入出力: [SCSI](../Page/Small_Computer_System_Interface.md "wikilink")、[HIPPI](../Page/HIPPI.md "wikilink")など
 
 フロントエンドとして[サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")などの[ワークステーション](../Page/ワークステーション.md "wikilink")を使用する。**nCX**マイクロカーネルは200Kバイトで、ファイル操作を最大96分割して96個のCPUが並行して処理することができる。[C言語](../Page/C言語.md "wikilink")と[C++](../Page/C++.md "wikilink")、NQS、Linda、ParasoftのExpressなどが動作した。オラクル社と共同で[Oracle Databaseも移植され](../Page/Oracle_Database.md "wikilink")、高性能データベースマシンとしても販売された。このときの技術がのちの[Oracle 10gの](../Page/Oracle_Database.md "wikilink")[グリッド・コンピューティング](../Page/グリッド・コンピューティング.md "wikilink")技術につながっている。実際に納入された最大のnCUBE 2システムは Sandia National Laboratories の 1024プロセッサモデルで、1.91GFLOPSの性能を記録している。
 

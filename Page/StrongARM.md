@@ -1,7 +1,7 @@
 > この記事は[StrongARM](https://ja.wikipedia.org/wiki/StrongARM)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:DEC_StrongARM.jpg "wikilink") **StrongARM**（ストロングアーム）は、[ARM V4](../Page/ARMアーキテクチャ.md "wikilink") [命令セット](https://ja.wikipedia.org/wiki/命令セット "wikilink")アーキテクチャ (ISA) に基づいて[DECが開発した](../Page/ディジタル・イクイップメント・コーポレーション.md "wikilink")[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink")ファミリである。後に[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")へ売却され、最終的には[XScale](https://ja.wikipedia.org/wiki/XScale "wikilink")に取って代わられた。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:DEC_StrongARM.jpg "wikilink") **StrongARM**（ストロングアーム）は、[ARM V4](../Page/ARMアーキテクチャ.md "wikilink") [命令セット](../Page/命令セット.md "wikilink")アーキテクチャ (ISA) に基づいて[DECが開発した](../Page/ディジタル・イクイップメント・コーポレーション.md "wikilink")[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink")ファミリである。後に[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")へ売却され、最終的には[XScale](../Page/XScale.md "wikilink")に取って代わられた。
 
 ## 歴史
 
@@ -9,9 +9,9 @@ StrongARMは [ARMと](https://ja.wikipedia.org/wiki/ARMホールディングス 
 
 DECは[マサチューセッツ州](../Page/マサチューセッツ州.md "wikilink")を[半導体](../Page/半導体.md "wikilink")部門の拠点としていたが、[シリコンバレー](../Page/シリコンバレー.md "wikilink")の才能ある人材を獲得しやすくするためカリフォルニア州[パロアルトにデザインセンターを開設した](../Page/パロアルト_\(カリフォルニア州\).md "wikilink")。ここがStrongARMプロジェクトの拠点となった。また、DECから[アップルや](../Page/アップル_\(企業\).md "wikilink")[モトローラ](../Page/モトローラ.md "wikilink")に一旦移籍して戻った技術者らが作ったテキサス州[オースティンの設計拠点もプロジェクトに関わっている](../Page/オースティン_\(テキサス州\).md "wikilink")。プロジェクトは1995年に始まり、まもなく最初の設計である **SA-110** が完成した。
 
-訴訟問題の結果として[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、DECの StrongARM を含む半導体部門は後に[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")に売却された\[3\]。インテルは不振だった同社の[RISC](../Page/RISC.md "wikilink")プロセッサ([i860](../Page/Intel_i860.md "wikilink"), [i960](../Page/Intel_i960.md "wikilink"))の代わりにStrongARMを使った。[2000年](../Page/2000年.md "wikilink")、その設計はインテルの[XScale](https://ja.wikipedia.org/wiki/XScale "wikilink")に取って代わられた。なお、そのXScaleも[2006年](../Page/2006年.md "wikilink")に[マーベル・テクノロジー・グループ](https://ja.wikipedia.org/wiki/マーベル・テクノロジー・グループ "wikilink")に売却された。
+訴訟問題の結果として[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、DECの StrongARM を含む半導体部門は後に[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")に売却された\[3\]。インテルは不振だった同社の[RISC](../Page/RISC.md "wikilink")プロセッサ([i860](../Page/Intel_i860.md "wikilink"), [i960](../Page/Intel_i960.md "wikilink"))の代わりにStrongARMを使った。[2000年](../Page/2000年.md "wikilink")、その設計はインテルの[XScale](../Page/XScale.md "wikilink")に取って代わられた。なお、そのXScaleも[2006年](../Page/2006年.md "wikilink")に[マーベル・テクノロジー・グループ](https://ja.wikipedia.org/wiki/マーベル・テクノロジー・グループ "wikilink")に売却された。
 
-DECの半導体部門がインテルに売却された際、パロアルトの技術者の多くは[MIPSアーキテクチャ](../Page/MIPSアーキテクチャ.md "wikilink")の通信向け [System-on-a-chip](../Page/System-on-a-chip.md "wikilink") (SoC) を設計していた[ベンチャー](../Page/ベンチャー.md "wikilink") SiByte（後に[ブロードコム](https://ja.wikipedia.org/wiki/ブロードコム "wikilink")が買収）へ移籍した。オースティンの設計グループもMIPSの携帯機器向け SoC を設計するベンチャー Alchemy Semiconductor に参加した。
+DECの半導体部門がインテルに売却された際、パロアルトの技術者の多くは[MIPSアーキテクチャ](../Page/MIPSアーキテクチャ.md "wikilink")の通信向け [System-on-a-chip](../Page/System-on-a-chip.md "wikilink") (SoC) を設計していた[ベンチャー](../Page/ベンチャー.md "wikilink") SiByte（後に[ブロードコム](../Page/ブロードコム.md "wikilink")が買収）へ移籍した。オースティンの設計グループもMIPSの携帯機器向け SoC を設計するベンチャー Alchemy Semiconductor に参加した。
 
 ## SA-110
 
@@ -23,7 +23,7 @@ SA-110の[マイクロアーキテクチャ](../Page/マイクロアーキテク
 
 命令の実行は3段目から開始される。このステージはEBOXで処理され、その中に[レジスタファイル](https://ja.wikipedia.org/wiki/レジスタファイル "wikilink")、[ALU](https://ja.wikipedia.org/wiki/演算論理装置 "wikilink")、[バレルシフタ](../Page/バレルシフタ.md "wikilink")、[乗算器](../Page/乗算器.md "wikilink")、条件処理ロジックなどが含まれる。レジスタファイルには3つのリードポートと2つのライトポートがある。ALUとバレルシフタは1サイクルで命令を実行する。乗算器はパイプライン化されておらず、実行には複数サイクルを要する。
 
-IMMUとDMMUはそれぞれ、命令とデータの[メモリ管理ユニット](https://ja.wikipedia.org/wiki/メモリ管理ユニット "wikilink")である。各MMUには32エントリのフルアソシアティブ[TLBがあり](https://ja.wikipedia.org/wiki/トランスレーション・ルックアサイド・バッファ "wikilink")、1エントリで4KB、64KB、1MBのいずれかをマッピングできる（可変ページサイズ）。ライトバッファ (WB) は1エントリ16バイトで8エントリある。それによってストア動作をパイプライン化できる。バスインタフェースユニット (BIU) はSA-110と外部とのインタフェースである。
+IMMUとDMMUはそれぞれ、命令とデータの[メモリ管理ユニット](../Page/メモリ管理ユニット.md "wikilink")である。各MMUには32エントリのフルアソシアティブ[TLBがあり](../Page/トランスレーション・ルックアサイド・バッファ.md "wikilink")、1エントリで4KB、64KB、1MBのいずれかをマッピングできる（可変ページサイズ）。ライトバッファ (WB) は1エントリ16バイトで8エントリある。それによってストア動作をパイプライン化できる。バスインタフェースユニット (BIU) はSA-110と外部とのインタフェースである。
 
 [PLLは外部から供給される](../Page/位相同期回路.md "wikilink")3.68MHzのクロック信号から内部[クロック](../Page/クロック.md "wikilink")信号を生成する。これはDECが設計したものではなく、スイスの[ヌーシャテル](../Page/ヌーシャテル.md "wikilink")にある Centre Suisse d'Electronique et de Microtechnique (CSEM) が設計を請け負った。
 

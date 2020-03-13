@@ -1,7 +1,7 @@
 > この記事は[Athlon 64 X2](https://ja.wikipedia.org/wiki/Athlon_64_X2)から翻訳されています。
 
 
-**Athlon 64 X2**（アスロンろくじゅうよん エックスツー、アスロンろくよんかけるに）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に[AMDが発売した](https://ja.wikipedia.org/wiki/アドバンスト・マイクロ・デバイセズ "wikilink")[x86](https://ja.wikipedia.org/wiki/x86 "wikilink")アーキテクチャの[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink")。
+**Athlon 64 X2**（アスロンろくじゅうよん エックスツー、アスロンろくよんかけるに）は、[2005年](../Page/2005年.md "wikilink")に[AMDが発売した](https://ja.wikipedia.org/wiki/アドバンスト・マイクロ・デバイセズ "wikilink")[x86](https://ja.wikipedia.org/wiki/x86 "wikilink")アーキテクチャの[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink")。
 
 AMD K8アーキテクチャ製品で、[Athlon 64の](../Page/Athlon_64.md "wikilink")[デュアルコア](../Page/マルチコア.md "wikilink") [プロセッサ](../Page/プロセッサ.md "wikilink")である。2007年に上位製品として発表された製品に、既に当然となった[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")プロセッサであることを明示しなくなった[Phenomと統一させる為に](../Page/AMD_Phenom.md "wikilink")**Athlon X2**と改称した。
 

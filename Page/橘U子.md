@@ -45,7 +45,7 @@
   - [めぐり逢う大地](https://ja.wikipedia.org/wiki/めぐり逢う大地 "wikilink")（スー）
   - [ラブ・アペタイザー](https://ja.wikipedia.org/wiki/ラブ・アペタイザー "wikilink")（アガタ）
   - [レジスタンス](https://ja.wikipedia.org/wiki/レジスタンス_\(映画\) "wikilink")（カタリーナ）
-  - [ロスト・マネー 偽りの報酬](https://ja.wikipedia.org/wiki/ロスト・マネー_偽りの報酬 "wikilink")（リンダ〈[ミシェル・ロドリゲス](https://ja.wikipedia.org/wiki/ミシェル・ロドリゲス "wikilink")〉）
+  - [ロスト・マネー 偽りの報酬](https://ja.wikipedia.org/wiki/ロスト・マネー_偽りの報酬 "wikilink")（リンダ〈[ミシェル・ロドリゲス](../Page/ミシェル・ロドリゲス.md "wikilink")〉）
 
 #### テレビドラマ
 

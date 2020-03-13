@@ -1,7 +1,7 @@
 > この記事は[FNS25](https://ja.wikipedia.org/wiki/FNS25)から翻訳されています。
 
 
-『**FNS ALLSTARS あっつい25時間テレビ やっぱ楽しくなければテレビじゃないもん\!**』（FNS ALLSTARS あっつい25じかんテレビ やっぱたのしくなければテレビじゃないもん）は、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列で](../Page/フジネットワーク.md "wikilink")[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink") 19:57 - [7月24日](../Page/7月24日.md "wikilink") 20:54（[JST](../Page/日本標準時.md "wikilink")）に[生放送](../Page/生放送.md "wikilink")された通算19回目の『[FNS25時間テレビ](../Page/FNSの日.md "wikilink")』。番組名は、[2001年](../Page/2001年.md "wikilink")（第15回）の『[FNS ALLSTARS 27時間笑いの夢列島](../Page/FNS27時間テレビ.md "wikilink")』と、[2004年](../Page/2004年.md "wikilink")（第18回）のテーマ『[楽しくなければテレビじゃないじゃ～ん\!\!](../Page/FNS27時間テレビ_\(2004年\).md "wikilink")』を合体させている。
+『**FNS ALLSTARS あっつい25時間テレビ やっぱ楽しくなければテレビじゃないもん\!**』（FNS ALLSTARS あっつい25じかんテレビ やっぱたのしくなければテレビじゃないもん）は、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列で](../Page/フジネットワーク.md "wikilink")[2005年](../Page/2005年.md "wikilink")[7月23日](../Page/7月23日.md "wikilink") 19:57 - [7月24日](../Page/7月24日.md "wikilink") 20:54（[JST](../Page/日本標準時.md "wikilink")）に[生放送](../Page/生放送.md "wikilink")された通算19回目の『[FNS25時間テレビ](../Page/FNSの日.md "wikilink")』。番組名は、[2001年](../Page/2001年.md "wikilink")（第15回）の『[FNS ALLSTARS 27時間笑いの夢列島](../Page/FNS27時間テレビ.md "wikilink")』と、[2004年](../Page/2004年.md "wikilink")（第18回）のテーマ『[楽しくなければテレビじゃないじゃ～ん\!\!](../Page/FNS27時間テレビ_\(2004年\).md "wikilink")』を合体させている。
 
 ## 主な出演者
 
@@ -26,9 +26,9 @@
   - [杉本清](../Page/杉本清.md "wikilink")（FNSあっついテレビ局決定戦　決勝ラウンド&トーナメント[準々決勝](https://ja.wikipedia.org/wiki/準々決勝 "wikilink")/[準決勝](../Page/準決勝.md "wikilink")/[決勝戦](../Page/決勝戦.md "wikilink")・全7試合　実況）
   - [山中秀樹](../Page/山中秀樹.md "wikilink")
   - [遠藤玲子](https://ja.wikipedia.org/wiki/遠藤玲子 "wikilink")
-  - [田淵裕章](https://ja.wikipedia.org/wiki/田淵裕章 "wikilink")
+  - [田淵裕章](../Page/田淵裕章.md "wikilink")
   - [平井理央](../Page/平井理央.md "wikilink")
-  - [宮瀬茉祐子](https://ja.wikipedia.org/wiki/宮瀬茉祐子 "wikilink")
+  - [宮瀬茉祐子](../Page/宮瀬茉祐子.md "wikilink")
 
 ほか
 
@@ -36,13 +36,13 @@
 
 この年は例年より2時間短い放送時間となった。そのため番組名は『**FNS25時間テレビ**』となっている。
 
-総合司会の鶴瓶は過去の『[FNSの日](../Page/FNSの日.md "wikilink")』で数々の「事件」を引き起こしていた。そのため、制作発表で「本番中に酒を飲まない」「本番中に寝ない」「本番中に脱がない」「本気で怒らない」「1つでも多くの企画を実行する」ことを約束させられた。「1つでも多くの企画を実行する」ためフジテレビ全社員から企画を募集し、コーナー冒頭で企画者の氏名が表示された。すべてのキャストをお笑い芸人が演じるドラマ企画『[THE WAVE\!](https://ja.wikipedia.org/wiki/THE_WAVE! "wikilink")』や『[トリビアの泉](../Page/トリビアの泉_〜素晴らしきムダ知識〜.md "wikilink")』など人気番組のスペシャルバージョンが放送された。
+総合司会の鶴瓶は過去の『[FNSの日](../Page/FNSの日.md "wikilink")』で数々の「事件」を引き起こしていた。そのため、制作発表で「本番中に酒を飲まない」「本番中に寝ない」「本番中に脱がない」「本気で怒らない」「1つでも多くの企画を実行する」ことを約束させられた。「1つでも多くの企画を実行する」ためフジテレビ全社員から企画を募集し、コーナー冒頭で企画者の氏名が表示された。すべてのキャストをお笑い芸人が演じるドラマ企画『[THE WAVE\!](../Page/THE_WAVE!.md "wikilink")』や『[トリビアの泉](../Page/トリビアの泉_〜素晴らしきムダ知識〜.md "wikilink")』など人気番組のスペシャルバージョンが放送された。
 
 ## コーナー・企画
 
 ### 鶴瓶逃走劇
 
-[小松純也](https://ja.wikipedia.org/wiki/小松純也 "wikilink")が人事異動で番組制作から離れることが決まっていた為に、総合演出を担当する事になった。小松は鶴瓶に総合司会を依頼したが、鶴瓶は重圧に思って「軽く出来ないか」と訴えた。その答えとして提案されたのが「鶴瓶が逃げ回る」という設定の中継企画（要するにコント及び通しコーナー）だった。この逃走劇が約20時間行われ、総合司会である鶴瓶が番組の大半でスタジオにいない事態となった。
+[小松純也](../Page/小松純也.md "wikilink")が人事異動で番組制作から離れることが決まっていた為に、総合演出を担当する事になった。小松は鶴瓶に総合司会を依頼したが、鶴瓶は重圧に思って「軽く出来ないか」と訴えた。その答えとして提案されたのが「鶴瓶が逃げ回る」という設定の中継企画（要するにコント及び通しコーナー）だった。この逃走劇が約20時間行われ、総合司会である鶴瓶が番組の大半でスタジオにいない事態となった。
 
 ### グランドオープニング
 
@@ -53,7 +53,7 @@
   -
     タイトルコールを言う競争で、青木さやかと高島彩が早口言葉で競う。高島が勝ち、タイトルコールを言う。
 
-  - ドラマ [THE WAVE\!](https://ja.wikipedia.org/wiki/THE_WAVE! "wikilink") Episode-1
+  - ドラマ [THE WAVE\!](../Page/THE_WAVE!.md "wikilink") Episode-1
 
 ### テレビヤの種 第1部
 
@@ -134,7 +134,7 @@
 
   -
     「鶴瓶逃走劇」と同様に、今年の『FNS25時間テレビ』の通しコーナーとして行われた。
-    通常の同番組とは異なり、ナレーションが[藤岡弘、](../Page/藤岡弘、.md "wikilink")、背景が炎を基調とした赤色、得点単位は「へぇ」ではなく「あっつい」（ボタンを押した時の効果音も藤岡が叫ぶ「あっつい」）。八嶋智人曰く「紳助がパネラー席に座るのは、[TBS系](../Page/TBSテレビ.md "wikilink")『[わくわく動物ランド](../Page/わくわく動物ランド.md "wikilink")』以来」。また、[関西テレビの](../Page/関西テレビ放送.md "wikilink")[千草宗一郎](https://ja.wikipedia.org/wiki/千草宗一郎 "wikilink")社長（当時）やトリビア「[トラ](../Page/トラ.md "wikilink")に襲われたアナウンサーがいた」([桑原征平](../Page/桑原征平.md "wikilink")を20年ぶりにトラが襲撃)を、紳助と[今田耕司](../Page/今田耕司.md "wikilink")がいじっていた。
+    通常の同番組とは異なり、ナレーションが[藤岡弘、](../Page/藤岡弘、.md "wikilink")、背景が炎を基調とした赤色、得点単位は「へぇ」ではなく「あっつい」（ボタンを押した時の効果音も藤岡が叫ぶ「あっつい」）。八嶋智人曰く「紳助がパネラー席に座るのは、[TBS系](../Page/TBSテレビ.md "wikilink")『[わくわく動物ランド](../Page/わくわく動物ランド.md "wikilink")』以来」。また、[関西テレビの](../Page/関西テレビ放送.md "wikilink")[千草宗一郎](../Page/千草宗一郎.md "wikilink")社長（当時）やトリビア「[トラ](../Page/トラ.md "wikilink")に襲われたアナウンサーがいた」([桑原征平](../Page/桑原征平.md "wikilink")を20年ぶりにトラが襲撃)を、紳助と[今田耕司](../Page/今田耕司.md "wikilink")がいじっていた。
     品評委員長は通常の同番組で務めているタモリではなく、特別に島田紳助が務めた。また、タモリは「テレビアの種」「トリビアの温泉」揃って出演していないが、「笑っていいとも\!増刊号 生スペシャル」で『FNS25時間テレビ』に出演している。
     また、紳助の『FNS25時間テレビ』の出演は[1989年](../Page/1989年.md "wikilink")以来の16年ぶりとなる。
     尚、ゲストとして出演した石原は『怪談スペシャル 契り』の番宣も兼ねていた。
@@ -166,7 +166,7 @@
 
 ### 真夜中の大かま騒ぎ
 
-[恋のかま騒ぎ](https://ja.wikipedia.org/wiki/恋のかま騒ぎ "wikilink")（『[めちゃ²イケてるッ\!](../Page/めちゃ×2イケてるッ!.md "wikilink")』のコーナー）のスペシャル版。
+[恋のかま騒ぎ](../Page/恋のかま騒ぎ.md "wikilink")（『[めちゃ²イケてるッ\!](../Page/めちゃ×2イケてるッ!.md "wikilink")』のコーナー）のスペシャル版。
 
   - ゲスト:明石家さんま、中居正広（SMAP）
   - 演出上、「笑福亭鶴瓶、ココリコは本来は出演する予定」（実際に鶴瓶の席も、着る予定だったアイドル風衣装と共に置かれていた）。
@@ -260,7 +260,7 @@
 <!-- end list -->
 
   - 鶴瓶中継
-    裏で放送されていた[TBS系](../Page/TBSテレビ.md "wikilink")「[アッコにおまかせ\!](../Page/アッコにおまかせ!.md "wikilink")」の生放送中に鶴瓶が「乱入」。[全員正解あたりまえ\!クイズ](https://ja.wikipedia.org/wiki/全員正解あたりまえ!クイズ "wikilink")のコーナー中で、2局同時に生放送した。
+    裏で放送されていた[TBS系](../Page/TBSテレビ.md "wikilink")「[アッコにおまかせ\!](../Page/アッコにおまかせ!.md "wikilink")」の生放送中に鶴瓶が「乱入」。[全員正解あたりまえ\!クイズ](../Page/全員正解あたりまえ!クイズ.md "wikilink")のコーナー中で、2局同時に生放送した。
 
 <!-- end list -->
 
@@ -318,7 +318,7 @@
 
   - 第2部　サザエさん
     トリビアは「[三谷幸喜](../Page/三谷幸喜.md "wikilink")は[サザエさんの脚本もしていた](https://ja.wikipedia.org/wiki/サザエさん_\(テレビアニメ\) "wikilink")」。
-    アニメの3本目には三谷が脚本を担当した『兄思い 妹思い』が再放送された。三谷は翌年に公開する映画「[THE 有頂天ホテル](https://ja.wikipedia.org/wiki/THE_有頂天ホテル "wikilink")」も宣伝した。
+    アニメの3本目には三谷が脚本を担当した『兄思い 妹思い』が再放送された。三谷は翌年に公開する映画「[THE 有頂天ホテル](../Page/THE_有頂天ホテル.md "wikilink")」も宣伝した。
 
 ### FNSあっついテレビ局決定戦 決勝トーナメント
 
@@ -328,7 +328,7 @@
 
 <!-- end list -->
 
-  - 出演:笑福亭鶴瓶、西山喜久恵、[杉本清](../Page/杉本清.md "wikilink")、高島彩、青木さやか、勝俣州和、[ココリコ](../Page/ココリコ.md "wikilink")（[遠藤章造](https://ja.wikipedia.org/wiki/遠藤章造 "wikilink")・[田中直樹](../Page/田中直樹_\(お笑い芸人\).md "wikilink")）
+  - 出演:笑福亭鶴瓶、西山喜久恵、[杉本清](../Page/杉本清.md "wikilink")、高島彩、青木さやか、勝俣州和、[ココリコ](../Page/ココリコ.md "wikilink")（[遠藤章造](../Page/遠藤章造.md "wikilink")・[田中直樹](../Page/田中直樹_\(お笑い芸人\).md "wikilink")）
 
 <!-- end list -->
 
@@ -355,7 +355,7 @@
       - 準決勝第1試合・関西テレビ×-○福島テレビ
       - 準決勝第2試合・テレビ宮崎○-×長野放送
       - 決勝戦・福島テレビ×-○テレビ宮崎
-    優勝（あっついテレビ局）はテレビ宮崎。鶴瓶と喜びの抱擁を（半ば強制的に）したため、副社長のスーツに鶴瓶の金粉が付着してしまった。テレビ宮崎では、その金粉が着いたスーツを玄関で一時期展示した他、優勝の舞台裏を自局の『[JAGAJAGA天国](https://ja.wikipedia.org/wiki/JAGAJAGA天国 "wikilink")』で放送した。
+    優勝（あっついテレビ局）はテレビ宮崎。鶴瓶と喜びの抱擁を（半ば強制的に）したため、副社長のスーツに鶴瓶の金粉が付着してしまった。テレビ宮崎では、その金粉が着いたスーツを玄関で一時期展示した他、優勝の舞台裏を自局の『[JAGAJAGA天国](../Page/JAGAJAGA天国.md "wikilink")』で放送した。
 
 <!-- end list -->
 
@@ -368,8 +368,8 @@
 <!-- end list -->
 
   -
-    提供クレジットを読み上げた新人アナウンサーは[遠藤玲子](https://ja.wikipedia.org/wiki/遠藤玲子 "wikilink")、[平井理央](../Page/平井理央.md "wikilink")、[宮瀬茉祐子](https://ja.wikipedia.org/wiki/宮瀬茉祐子 "wikilink")、[田淵裕章](https://ja.wikipedia.org/wiki/田淵裕章 "wikilink")の男性1人・女性3人。青木さやかも参加して5人で[提供読み](https://ja.wikipedia.org/wiki/提供読み "wikilink")を行った。マラソンを完走し、人事異動を免除された山中が立会人を務めた。
-    エンディングは鶴瓶による[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")（[ニッポン放送](../Page/ニッポン放送.md "wikilink")ライブドア問題を含む）へのメッセージである。ここで、鶴瓶の一連の行動は全て台本通りの「壮大なコント」であったことが暴露される。また、この番組をもってバラエティー制作の現場から離れる番組総合演出の[小松純也](https://ja.wikipedia.org/wiki/小松純也 "wikilink")プロデューサー、[島本栄太郎](https://ja.wikipedia.org/wiki/島本栄太郎 "wikilink")プロデューサーや、監修の[片岡飛鳥](../Page/片岡飛鳥.md "wikilink")に対して「小松ありがとう\!島本ありがとう\!飛鳥ありがとう\!」とメッセージを送った。
+    提供クレジットを読み上げた新人アナウンサーは[遠藤玲子](https://ja.wikipedia.org/wiki/遠藤玲子 "wikilink")、[平井理央](../Page/平井理央.md "wikilink")、[宮瀬茉祐子](../Page/宮瀬茉祐子.md "wikilink")、[田淵裕章](../Page/田淵裕章.md "wikilink")の男性1人・女性3人。青木さやかも参加して5人で[提供読み](https://ja.wikipedia.org/wiki/提供読み "wikilink")を行った。マラソンを完走し、人事異動を免除された山中が立会人を務めた。
+    エンディングは鶴瓶による[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")（[ニッポン放送](../Page/ニッポン放送.md "wikilink")ライブドア問題を含む）へのメッセージである。ここで、鶴瓶の一連の行動は全て台本通りの「壮大なコント」であったことが暴露される。また、この番組をもってバラエティー制作の現場から離れる番組総合演出の[小松純也](../Page/小松純也.md "wikilink")プロデューサー、[島本栄太郎](https://ja.wikipedia.org/wiki/島本栄太郎 "wikilink")プロデューサーや、監修の[片岡飛鳥](../Page/片岡飛鳥.md "wikilink")に対して「小松ありがとう\!島本ありがとう\!飛鳥ありがとう\!」とメッセージを送った。
 
 ## 主要スタッフ
 
@@ -380,9 +380,9 @@
   - アニメパート制作：[エイケン](https://ja.wikipedia.org/wiki/エイケン_\(アニメ制作会社\) "wikilink")、[日本アニメーション](../Page/日本アニメーション.md "wikilink")
   - ブレーン：[星野淳一郎](https://ja.wikipedia.org/wiki/星野淳一郎 "wikilink")
   - 総合プロデューサー：[坪田譲治](../Page/坪田譲治_\(フジテレビ\).md "wikilink")、[神原孝](../Page/神原孝.md "wikilink")、関卓也、[宮道治朗](../Page/宮道治朗.md "wikilink")、[高橋正秀](../Page/高橋正秀.md "wikilink")、[中嶋優一](../Page/中嶋優一.md "wikilink")
-  - 総合演出：[小松純也](https://ja.wikipedia.org/wiki/小松純也 "wikilink")
+  - 総合演出：[小松純也](../Page/小松純也.md "wikilink")
   - 監修：[片岡飛鳥](../Page/片岡飛鳥.md "wikilink")
-  - 制作統括：[港浩一](../Page/港浩一.md "wikilink")、[吉田正樹](https://ja.wikipedia.org/wiki/吉田正樹 "wikilink")、[西山仁紫](../Page/西山仁紫.md "wikilink")、[水口昌彦](../Page/水口昌彦.md "wikilink")
+  - 制作統括：[港浩一](../Page/港浩一.md "wikilink")、[吉田正樹](../Page/吉田正樹.md "wikilink")、[西山仁紫](../Page/西山仁紫.md "wikilink")、[水口昌彦](../Page/水口昌彦.md "wikilink")
   - 製作総指揮：[村上光一](../Page/村上光一.md "wikilink")
   - 制作代表：[日枝久](../Page/日枝久.md "wikilink")
   - 制作協力：さくらプロダクション、[集英社](../Page/集英社.md "wikilink")『[りぼん](https://ja.wikipedia.org/wiki/りぼん "wikilink")』編集部、[長谷川町子美術館](../Page/長谷川町子美術館.md "wikilink")

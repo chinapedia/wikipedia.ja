@@ -7,7 +7,7 @@
 
 [1972年](../Page/1972年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")47年）に東北で初めて、かつサーキット大会（メジャータイトルなど）を除けば唯一の[東北地方](https://ja.wikipedia.org/wiki/東北地方 "wikilink")でのプロゴルフツアー大会として「東北クラシック」という名称でスタート。会場は、宮城県宮城郡宮城町（現 : 仙台市青葉区）の「西仙台カントリークラブ」。その後、[1988年](../Page/1988年.md "wikilink")（昭和63年）に、宮城県柴田郡柴田町の「表蔵王国際ゴルフクラブ」に会場を移し、その年より「仙台放送クラシック」、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（[平成](../Page/平成.md "wikilink")2年）より「JCBクラシック仙台」と名称変更され、[2007年](../Page/2007年.md "wikilink")（平成19年）は「JCBクラシック」となった。
 
-大会が開かれる時期の[仙台都市圏](https://ja.wikipedia.org/wiki/仙台都市圏 "wikilink")は、日照時間も長く最も過ごし易い初夏にあたるが、朝夕が涼しく、時に海からの冷たい北東風「[やませ](../Page/やませ.md "wikilink")」が入り込んで日中の気温が平年値より大きく下がる日もある。[2006年](../Page/2006年.md "wikilink")（平成18年）まで大会が開かれた[柴田町](../Page/柴田町.md "wikilink")（仙台都市圏南部）の丘陵地にあるゴルフ場（表蔵王国際GC）では、さらに残雪が覆う[奥羽山脈](../Page/奥羽山脈.md "wikilink")からの吹き降ろしの風が吹く年もあるため、既に[夏日](https://ja.wikipedia.org/wiki/夏日 "wikilink")が続いている東京方面からの出場者には体調管理が難しい大会でもあった。
+大会が開かれる時期の[仙台都市圏](../Page/仙台都市圏.md "wikilink")は、日照時間も長く最も過ごし易い初夏にあたるが、朝夕が涼しく、時に海からの冷たい北東風「[やませ](../Page/やませ.md "wikilink")」が入り込んで日中の気温が平年値より大きく下がる日もある。[2006年](../Page/2006年.md "wikilink")（平成18年）まで大会が開かれた[柴田町](../Page/柴田町.md "wikilink")（仙台都市圏南部）の丘陵地にあるゴルフ場（表蔵王国際GC）では、さらに残雪が覆う[奥羽山脈](../Page/奥羽山脈.md "wikilink")からの吹き降ろしの風が吹く年もあるため、既に[夏日](https://ja.wikipedia.org/wiki/夏日 "wikilink")が続いている東京方面からの出場者には体調管理が難しい大会でもあった。
 
 2007年（平成19年）は、会場と名称を変更して、[大衡村](../Page/大衡村.md "wikilink")（仙台都市圏北部）の花の杜ゴルフクラブ（[アコーディア・ゴルフ](../Page/アコーディア・ゴルフ.md "wikilink")系）において開催された。仙台放送主催であるため、他の在仙台テレビ局での告知や大会の経過などが放送されることは基本的にないが、県内で女子プロゴルツアーの大会を主催する[ミヤギテレビのローカルニュースのスポーツコーナーでは](../Page/宮城テレビ放送.md "wikilink")、大会[ロゴマークを使用して試合の映像を放送していた](../Page/ロゴタイプ.md "wikilink")。
 
@@ -66,7 +66,7 @@
   - [2002年](../Page/2002年.md "wikilink")　[鈴木亨](../Page/鈴木亨.md "wikilink")
   - [2003年](../Page/2003年.md "wikilink")　[友利勝良](../Page/友利勝良.md "wikilink")
   - [2004年](../Page/2004年.md "wikilink")　[神山隆志](https://ja.wikipedia.org/wiki/神山隆志 "wikilink")
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")　[S・K・ホ](https://ja.wikipedia.org/wiki/S・K・ホ "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")　[S・K・ホ](https://ja.wikipedia.org/wiki/S・K・ホ "wikilink")
   - [2006年](../Page/2006年.md "wikilink")　[谷原秀人](../Page/谷原秀人.md "wikilink")
 
 <!-- end list -->
@@ -81,7 +81,7 @@
 
 仙台放送の制作で最終日のみ[フジテレビ系列](../Page/フジテレビ系列.md "wikilink")（ただし[クロスネット局](../Page/クロスネット局.md "wikilink")の[テレビ大分](../Page/テレビ大分.md "wikilink")と[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")を除く）に全国放送されていた。予選ラウンド（以下・予選R）は当日の夕方に1時間枠で放送し（2006年より2日目からの放送）、決勝ラウンド（以下・決勝R）は土曜日が宮城県のみ13:00～15:55（天気予報など数分間の中断）で[生中継](https://ja.wikipedia.org/wiki/生中継 "wikilink")。中断後の放送は[東海テレビで同時ネット](../Page/東海テレビ放送.md "wikilink")、フジテレビで当日深夜に放送される。最終日は16:05～17:45の放送で本来17:30から放送されるニュースは短縮版での放送となる。
 
-実況は長年、仙台放送の[浅見博幸](https://ja.wikipedia.org/wiki/浅見博幸 "wikilink")が担当していたがここ数年、自身の担当番組異動により出演せず予選Rは同局の[下田恒幸](https://ja.wikipedia.org/wiki/下田恒幸 "wikilink")（現フリー）、[金澤聡](https://ja.wikipedia.org/wiki/金澤聡 "wikilink")が担当し、決勝Rはゴルフキャスターの[戸張捷](../Page/戸張捷.md "wikilink")が実況・解説を担当していた。また、ラウンドリポーターは決勝Rに入ると予選R実況者と系列局から1名が務め過去に[塩原恒夫](https://ja.wikipedia.org/wiki/塩原恒夫 "wikilink")、[松井みどり](../Page/松井みどり.md "wikilink")、[竹下陽平](../Page/竹下陽平.md "wikilink")、[加藤晃](../Page/加藤晃.md "wikilink")が担当していた。また、現日経ラジオ社(ラジオNIKKEI)の[小塚歩](../Page/小塚歩.md "wikilink")も同局所属時代にリポーターを担当している。
+実況は長年、仙台放送の[浅見博幸](../Page/浅見博幸.md "wikilink")が担当していたがここ数年、自身の担当番組異動により出演せず予選Rは同局の[下田恒幸](../Page/下田恒幸.md "wikilink")（現フリー）、[金澤聡](../Page/金澤聡.md "wikilink")が担当し、決勝Rはゴルフキャスターの[戸張捷](../Page/戸張捷.md "wikilink")が実況・解説を担当していた。また、ラウンドリポーターは決勝Rに入ると予選R実況者と系列局から1名が務め過去に[塩原恒夫](https://ja.wikipedia.org/wiki/塩原恒夫 "wikilink")、[松井みどり](../Page/松井みどり.md "wikilink")、[竹下陽平](../Page/竹下陽平.md "wikilink")、[加藤晃](../Page/加藤晃.md "wikilink")が担当していた。また、現日経ラジオ社(ラジオNIKKEI)の[小塚歩](../Page/小塚歩.md "wikilink")も同局所属時代にリポーターを担当している。
 
 ## 大会打ち切り
 
@@ -98,7 +98,7 @@
   - [JGTOツアー](../Page/日本ゴルフツアー機構.md "wikilink")
       - [ダンロップ・スリクソン福島オープン](https://ja.wikipedia.org/wiki/ダンロップ・スリクソン福島オープン "wikilink")（[福島県](../Page/福島県.md "wikilink")[西白河郡](../Page/西白河郡.md "wikilink")[西郷村](../Page/西郷村.md "wikilink")）…[白河都市圏](https://ja.wikipedia.org/wiki/白河都市圏 "wikilink")西部
   - [JLPGAツアー](../Page/日本女子プロゴルフ協会.md "wikilink")
-      - [ミヤギテレビ杯ダンロップ女子オープンゴルフトーナメント](../Page/ミヤギテレビ杯ダンロップ女子オープンゴルフトーナメント.md "wikilink")（[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[宮城郡](../Page/宮城郡.md "wikilink")[利府町](../Page/利府町.md "wikilink")）…[仙台都市圏](https://ja.wikipedia.org/wiki/仙台都市圏 "wikilink")北東部
+      - [ミヤギテレビ杯ダンロップ女子オープンゴルフトーナメント](../Page/ミヤギテレビ杯ダンロップ女子オープンゴルフトーナメント.md "wikilink")（[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[宮城郡](../Page/宮城郡.md "wikilink")[利府町](../Page/利府町.md "wikilink")）…[仙台都市圏](../Page/仙台都市圏.md "wikilink")北東部
       - [リゾートトラストレディス](../Page/リゾートトラストレディス.md "wikilink")（[福島県](../Page/福島県.md "wikilink")[西白河郡](../Page/西白河郡.md "wikilink")[西郷村](../Page/西郷村.md "wikilink")）…[白河都市圏](https://ja.wikipedia.org/wiki/白河都市圏 "wikilink")西部 ※2005年 - 2007年まで。
 
 ## 外部リンク

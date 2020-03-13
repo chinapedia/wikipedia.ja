@@ -52,7 +52,7 @@
 ### 金曜日
 
   - [まじかるナースステーション乙乙！](../Page/中原小麦のまじかるナースステーション.md "wikilink") 〔[ナースウィッチ小麦ちゃんマジカルてZ](https://ja.wikipedia.org/wiki/ナースウィッチ小麦ちゃんマジカルてZ "wikilink")〕（2004年7月～2005年10月28日）
-  - [日本橋天女放送局](https://ja.wikipedia.org/wiki/日本橋天女放送局 "wikilink") 〔[落語天女おゆい](https://ja.wikipedia.org/wiki/落語天女おゆい "wikilink")〕（2005年12月16日～2006年5月）
+  - [日本橋天女放送局](https://ja.wikipedia.org/wiki/日本橋天女放送局 "wikilink") 〔[落語天女おゆい](../Page/落語天女おゆい.md "wikilink")〕（2005年12月16日～2006年5月）
   - [峠のラジオ](../Page/峠のラジオ.md "wikilink") 〔[大魔法峠](../Page/大魔法峠.md "wikilink")〕（2005年12月16日～2007年3月30日）
   - [UPLIFTかくかたりき](../Page/UPLIFTかくかたりき.md "wikilink")セカンドシーズン（2007年6月15日～7月6日：配信元は[キャララジオ](../Page/キャララジオ.md "wikilink")）
   - [英梨と聡美のHENTAIですか? ～全国のタカヤさんをごひいきします★～ プロデュース by こはるびより...](../Page/こはるびより.md "wikilink")（2008年1月11日～2月1日：配信元はキャララジオ）

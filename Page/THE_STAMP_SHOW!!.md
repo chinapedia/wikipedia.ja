@@ -43,7 +43,7 @@
 
 ### スペシャルゲスト
 
-  - [シャ乱Q](../Page/シャ乱Q.md "wikilink")（[つんく♂](https://ja.wikipedia.org/wiki/つんく♂ "wikilink")（当時は「つんく」）、[しゅう](../Page/しゅう.md "wikilink")（当時）、[たいせい](../Page/たいせい.md "wikilink")（当時は「たいせー」）、[はたけ](https://ja.wikipedia.org/wiki/はたけ "wikilink")、[まこと](../Page/まこと_\(ミュージシャン\).md "wikilink")）（[1996年](../Page/1996年.md "wikilink")[12月28日](../Page/12月28日.md "wikilink")）
+  - [シャ乱Q](../Page/シャ乱Q.md "wikilink")（[つんく♂](https://ja.wikipedia.org/wiki/つんく♂ "wikilink")（当時は「つんく」）、[しゅう](../Page/しゅう.md "wikilink")（当時）、[たいせい](../Page/たいせい.md "wikilink")（当時は「たいせー」）、[はたけ](../Page/はたけ.md "wikilink")、[まこと](../Page/まこと_\(ミュージシャン\).md "wikilink")）（[1996年](../Page/1996年.md "wikilink")[12月28日](../Page/12月28日.md "wikilink")）
 
 <!-- end list -->
 
@@ -104,7 +104,7 @@
 
 STAMP時代同様、巨大ハリセンを振るうのは主にルーク（ルークが当たった場合はデビットorハリセン代打）でスイングの直前には「たーたき叩き、叩き潰すぞ\!」という決め台詞を叫ぶ。ハリセン攻撃の際、画面の両サイドに「スタンプマニア」と称する[beatmania](https://ja.wikipedia.org/wiki/beatmania "wikilink")のノートを模したスクロール表示が出るようになった。大ハリセン攻撃でジャストミートした際には「[HomeRun](../Page/本塁打.md "wikilink")\!\!」の表示が出る。加えてメンバーのハリセンの叩く威力が以前と比べて明らかに弱くなっている。
 
-なお[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")7月16日から8月31日まで開催された「[お台場冒険王](https://ja.wikipedia.org/wiki/お台場冒険王 "wikilink")2005～史上最大のテレビ遊園地」にも「スタンプマニア」のアトラクションが登場し、ファンもこのSTAMPをプレーすることができた。
+なお[2005年](../Page/2005年.md "wikilink")7月16日から8月31日まで開催された「[お台場冒険王](../Page/お台場冒険王.md "wikilink")2005～史上最大のテレビ遊園地」にも「スタンプマニア」のアトラクションが登場し、ファンもこのSTAMPをプレーすることができた。
 
 2005年6月12日、コーナー冒頭でルークが突如「体張ってゴーゴゴー\!\!」と絶叫した。これは元々同局系で以前放映されていた『[力の限りゴーゴゴー\!\!](../Page/力の限りゴーゴゴー!!.md "wikilink")』が元ネタだが、以来しばしば「ゴーゴゴー\!\!」をメンバー全員で叫んでいる。
 
@@ -226,7 +226,7 @@ STAMP時代同様、巨大ハリセンを振るうのは主にルーク（ルー
 
   - 第2回（2004年11月20日） [ヴァンダレイ・シウバ](../Page/ヴァンダレイ・シウバ.md "wikilink")
   - 第3回（2004年12月25日） [藤井広幸](https://ja.wikipedia.org/wiki/藤井広幸 "wikilink")（[サガテレビ](https://ja.wikipedia.org/wiki/サガテレビ "wikilink")）
-  - 第8回（2005年11月12日） [チェ・ホンマン](https://ja.wikipedia.org/wiki/チェ・ホンマン "wikilink")
+  - 第8回（2005年11月12日） [チェ・ホンマン](../Page/チェ・ホンマン.md "wikilink")
 
 ## 脚注
 

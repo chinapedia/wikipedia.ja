@@ -31,7 +31,7 @@
 
 ## メンバー
 
-  - ボーカル : [山田信夫](https://ja.wikipedia.org/wiki/山田信夫_\(歌手\) "wikilink") (NoB)
+  - ボーカル : [山田信夫](../Page/山田信夫_\(歌手\).md "wikilink") (NoB)
   - ギター : [松澤浩明](https://ja.wikipedia.org/wiki/松澤浩明 "wikilink")
   - キーボード : [河野陽吾](../Page/河野陽吾.md "wikilink")
   - ベース : [池田育義](https://ja.wikipedia.org/wiki/池田育義 "wikilink")

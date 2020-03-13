@@ -1,11 +1,11 @@
 > この記事は[Dreamin\' Night](https://ja.wikipedia.org/wiki/Dreamin\'_Night)から翻訳されています。
 
 
-**渡辺真理のDreamin' Night**（わたなべまりのどりーみんないと）は[ニッポン放送](../Page/ニッポン放送.md "wikilink")で、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")にかけて放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[渡辺真理](../Page/渡辺真理.md "wikilink")。
+**渡辺真理のDreamin' Night**（わたなべまりのどりーみんないと）は[ニッポン放送](../Page/ニッポン放送.md "wikilink")で、[2005年](../Page/2005年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")にかけて放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[渡辺真理](../Page/渡辺真理.md "wikilink")。
 
 ## 概要
 
-[2004年](../Page/2004年.md "wikilink")10月～[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")3月まで、同内容で、[垣花正のDreamin' Night](https://ja.wikipedia.org/wiki/Dreamin'_Night "wikilink")（パーソナリティは[ニッポン放送](../Page/ニッポン放送.md "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")の[垣花正](../Page/垣花正.md "wikilink")）が放送されていた。
+[2004年](../Page/2004年.md "wikilink")10月～[2005年](../Page/2005年.md "wikilink")3月まで、同内容で、[垣花正のDreamin' Night](https://ja.wikipedia.org/wiki/Dreamin'_Night "wikilink")（パーソナリティは[ニッポン放送](../Page/ニッポン放送.md "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")の[垣花正](../Page/垣花正.md "wikilink")）が放送されていた。
 
 放送内容は、毎週様々な分野で活躍している[ゲスト](https://ja.wikipedia.org/wiki/ゲスト "wikilink")を迎えて、それぞれの生き方・夢の実現に至った道のりなどを紹介。また、毎月1回、[ニッポン放送](../Page/ニッポン放送.md "wikilink")のイマジン[スタジオ](../Page/スタジオ.md "wikilink")にゲストを迎えて、公開録音を行っている。なお、放送開始時のタイトルコールの後、渡辺本人からのあいさつはなく、すぐゲストの紹介に移るほか、[CM明けの](../Page/コマーシャルメッセージ.md "wikilink")[ジングル](https://ja.wikipedia.org/wiki/ジングル "wikilink")でもタイトルコールがなく、開始同時にトークが始まる（再開する）。
 

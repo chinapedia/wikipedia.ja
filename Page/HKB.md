@@ -20,9 +20,9 @@
   - お気軽元町半日コース
     [湯の川温泉](../Page/湯の川温泉_\(北海道\).md "wikilink") - [函館駅前バスターミナル](../Page/函館駅前バスターミナル.md "wikilink") - 旧イギリス領事館 - 元町 - [立待岬](https://ja.wikipedia.org/wiki/立待岬 "wikilink") - ブルームーン/[北島三郎](https://ja.wikipedia.org/wiki/北島三郎 "wikilink")記念館 - [金森赤レンガ倉庫](../Page/金森赤レンガ倉庫.md "wikilink") - 函館駅前バスターミナル
   - お気軽半日歴史散歩コース
-    函館駅前バスターミナル - [五稜郭公園](https://ja.wikipedia.org/wiki/五稜郭公園 "wikilink")・[五稜郭タワー](https://ja.wikipedia.org/wiki/五稜郭タワー "wikilink") - [トラピスチヌ修道院](https://ja.wikipedia.org/wiki/トラピスチヌ修道院 "wikilink") - 土方啄木浪漫館 - 啄木小公園 - 函館駅前バスターミナル - 湯の川温泉
+    函館駅前バスターミナル - [五稜郭公園](https://ja.wikipedia.org/wiki/五稜郭公園 "wikilink")・[五稜郭タワー](../Page/五稜郭タワー.md "wikilink") - [トラピスチヌ修道院](https://ja.wikipedia.org/wiki/トラピスチヌ修道院 "wikilink") - 土方啄木浪漫館 - 啄木小公園 - 函館駅前バスターミナル - 湯の川温泉
   - Mt.函館夜景ロマンコース
-    湯の川温泉 - [函館山](https://ja.wikipedia.org/wiki/函館山 "wikilink") - 湯の川温泉
+    湯の川温泉 - [函館山](../Page/函館山.md "wikilink") - 湯の川温泉
     函館駅前バスターミナル - 函館山 - 函館駅前バスターミナル
   - 大沼公園遊ゆうコース
     湯の川温泉 - 函館駅前バスターミナル - [トラピスト修道院](../Page/トラピスト修道院.md "wikilink") - 男爵資料館 - フレンドリーベア - [大沼公園](../Page/大沼_\(七飯町\).md "wikilink") - 北海道昆布館 - はこだてわいん葡萄館 - 函館駅前バスターミナル - 湯の川温泉

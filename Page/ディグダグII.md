@@ -212,7 +212,7 @@
   - Windows版
     [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")発売。『[ナムコヒストリー Vol.3](https://ja.wikipedia.org/wiki/ナムコヒストリー "wikilink")』に収録。生産終了後はナムコチャンネル for Sony Style、ナムコチャンネル for VAIOにてダウンロード販売が行われていたが、2007年6月28日に終了。
   - [食玩](../Page/食玩.md "wikilink")版（Windows用CD-ROM付き玩具菓子）
-    [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に[カバヤ食品](../Page/カバヤ食品.md "wikilink")より発売の『ゲーム伝説』に、1〜3・5・7〜8・10面のみ収録されたバージョンの[CD-ROM](../Page/CD-ROM.md "wikilink")が[食玩](../Page/食玩.md "wikilink")の付属物として製作された。本作を含めた5タイトルがあり、中身は任意に選べない仕様だった。復刻版のインストラクションカードや、[すがやみつる](../Page/すがやみつる.md "wikilink")のコメントなども付属していた。また、発売当時は公式サイト（現在は閉鎖）でハイスコアランキングも行われていた。
+    [2005年](../Page/2005年.md "wikilink")に[カバヤ食品](../Page/カバヤ食品.md "wikilink")より発売の『ゲーム伝説』に、1〜3・5・7〜8・10面のみ収録されたバージョンの[CD-ROM](../Page/CD-ROM.md "wikilink")が[食玩](../Page/食玩.md "wikilink")の付属物として製作された。本作を含めた5タイトルがあり、中身は任意に選べない仕様だった。復刻版のインストラクションカードや、[すがやみつる](../Page/すがやみつる.md "wikilink")のコメントなども付属していた。また、発売当時は公式サイト（現在は閉鎖）でハイスコアランキングも行われていた。
   - PlayStation Portable版
     [2006年](../Page/2006年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")発売の『[ナムコミュージアム Vol.2](https://ja.wikipedia.org/wiki/ナムコミュージアム_\(PSP\) "wikilink")』に収録。
   - ニンテンドーDS版

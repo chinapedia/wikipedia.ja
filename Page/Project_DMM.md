@@ -9,7 +9,7 @@
 
 1999年、[大門一也](../Page/大門一也.md "wikilink")・[松原剛志](https://ja.wikipedia.org/wiki/松原剛志 "wikilink")・[前田達也](../Page/前田達也.md "wikilink")の3名で結成。同年「ウルトラマン・ベストヒットメドレー！」でデビュー。
 
-2000年に前田達也が脱退（[円谷プロダクション](../Page/円谷プロダクション.md "wikilink")を退社）し代わって[KATSUMI](https://ja.wikipedia.org/wiki/KATSUMI "wikilink")が加入。前田在籍時代の楽曲のいくつかは、後にKATSUMIを含む新メンバーで再レコーディングされている。
+2000年に前田達也が脱退（[円谷プロダクション](../Page/円谷プロダクション.md "wikilink")を退社）し代わって[KATSUMI](../Page/KATSUMI.md "wikilink")が加入。前田在籍時代の楽曲のいくつかは、後にKATSUMIを含む新メンバーで再レコーディングされている。
 
 2007年末に所属事務所であった円谷ミュージックが再編されたことを受けて[T.M.Lab](https://ja.wikipedia.org/wiki/T.M.Lab "wikilink")に所属となるが、2009年ごろより活動休止となる。なお、2009年以降のウルトラシリーズの主題歌・挿入歌には、DMMの後継ユニットにあたる[voyagerが主に起用されている](https://ja.wikipedia.org/wiki/Voyager_\(音楽ユニット\) "wikilink")。
 
@@ -23,7 +23,7 @@
     ユニットのリーダー\[5\]。イメージカラーはブルー。ウルトラシリーズの楽曲には、Project DMM参加以前に『[ウルトラマンガイア](../Page/ウルトラマンガイア.md "wikilink")』主題歌を[田中昌之](../Page/田中昌之.md "wikilink")とのユニットで歌唱している。Project DMMでは多数の楽曲で作詞・作編曲も担当している。2004年6月16日時点の設定年齢は5920歳\[6\]。
   - [松原剛志](https://ja.wikipedia.org/wiki/松原剛志 "wikilink")
     イメージカラーはレッド。[スーパー戦隊シリーズ](https://ja.wikipedia.org/wiki/スーパー戦隊シリーズ "wikilink")関連楽曲のユニット「[Project.R](https://ja.wikipedia.org/wiki/Project.R "wikilink")」にも参加。他、アニソンを多数歌唱する他、俳優としても活動。2004年6月16日時点の設定年齢は1279歳\[7\]。
-  - [KATSUMI](https://ja.wikipedia.org/wiki/KATSUMI "wikilink")
+  - [KATSUMI](../Page/KATSUMI.md "wikilink")
     イメージカラーはイエロー。2000年に前田達也に代わり加入。ユニットでは歌唱のほか、『[ウルトラマンコスモス](../Page/ウルトラマンコスモス.md "wikilink")』エンディングテーマ「心の絆」など一部楽曲の作詞・作曲も手がけている。ソロ活動も盛んに行っている。2004年6月16日時点の設定年齢は4022歳\[8\]。
 
 ### 旧メンバー
@@ -48,7 +48,7 @@
   - 「ウルトラセブン21 TYPE 2001」（挿入歌）
       - 作詞：松井五郎 / 作曲：鈴木キサブロー / 編曲：大門一也
 
-**OV『[ウルトラマンティガ外伝 古代に蘇る巨人](https://ja.wikipedia.org/wiki/ウルトラマンティガ外伝_古代に蘇る巨人 "wikilink")』（2001年）**
+**OV『[ウルトラマンティガ外伝 古代に蘇る巨人](../Page/ウルトラマンティガ外伝_古代に蘇る巨人.md "wikilink")』（2001年）**
 
   - 「鼓動 〜for TIGA〜」
       - 作詞：KATSUMI / 作曲・編曲：大門一也
@@ -115,7 +115,7 @@
   - 「Fight the Future 〜ウルトラマンネクサスのテーマ〜」（イメージソング）
       - 作詞：松井五郎 / 作曲：[川井憲次](../Page/川井憲次.md "wikilink") / 編曲：[籠島裕昌](https://ja.wikipedia.org/wiki/籠島裕昌 "wikilink")
   - 「光の絆」（イメージソング）
-      - 『[テレビマガジン](https://ja.wikipedia.org/wiki/テレビマガジン "wikilink")』2005年3月号（講談社）に特別付録として付属したストーリーCD「ウルトラヒーローvs怪獣軍団」に収録。
+      - 『[テレビマガジン](../Page/テレビマガジン.md "wikilink")』2005年3月号（講談社）に特別付録として付属したストーリーCD「ウルトラヒーローvs怪獣軍団」に収録。
 
 **『[ウルトラマンマックス](../Page/ウルトラマンマックス.md "wikilink")』（2005年）**
 

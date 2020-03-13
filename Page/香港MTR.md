@@ -24,7 +24,7 @@
   - [南港島線中国製電車](https://ja.wikipedia.org/wiki/:en:MTR_CNR_Changchun_EMU "wikilink")（S-Train） - [南港島線](https://ja.wikipedia.org/wiki/南港島線 "wikilink")
   - [中車四方電車](https://ja.wikipedia.org/wiki/:en:MTR_Urban_Lines_Vision_Train "wikilink")（Q-Train）（2019年より導入予定）- [觀塘老舊系統](https://ja.wikipedia.org/wiki/観塘線 "wikilink")・[{{Lang](https://ja.wikipedia.org/wiki/セン湾線 "wikilink")・[港島線](https://ja.wikipedia.org/wiki/港島線 "wikilink")・[将軍澳線](https://ja.wikipedia.org/wiki/将軍澳線 "wikilink")
 
-旧香港地下鉄の路線で使用されている車両は2019年現在5種類存在する。一般車両については[英国](https://ja.wikipedia.org/wiki/イギリス "wikilink")、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")、[韓国](../Page/大韓民国.md "wikilink")、[中国の各国で製造されている](../Page/中華人民共和国.md "wikilink")。一次車では元宗主国であった[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")が建設した影響からか、[ロンドン地下鉄](https://ja.wikipedia.org/wiki/ロンドン地下鉄 "wikilink")と近い[デザイン](../Page/デザイン.md "wikilink")の施しが随所に見られた。連結部は貫通しており扉は無く車両間の移動は自由である。また連結部の扉が無いため、直線部への列車進入時には前後では長い空間が広がる。[座席](../Page/座席.md "wikilink")は全て[ロングシートで](../Page/鉄道車両の座席.md "wikilink")、素材は[ステンレスである](../Page/ステンレス鋼.md "wikilink")。2009年より[優先席](https://ja.wikipedia.org/wiki/優先席 "wikilink")や[車椅子](https://ja.wikipedia.org/wiki/車椅子 "wikilink")専用エリアが設置された。
+旧香港地下鉄の路線で使用されている車両は2019年現在5種類存在する。一般車両については[英国](https://ja.wikipedia.org/wiki/イギリス "wikilink")、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")、[韓国](../Page/大韓民国.md "wikilink")、[中国の各国で製造されている](../Page/中華人民共和国.md "wikilink")。一次車では元宗主国であった[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")が建設した影響からか、[ロンドン地下鉄](../Page/ロンドン地下鉄.md "wikilink")と近い[デザイン](../Page/デザイン.md "wikilink")の施しが随所に見られた。連結部は貫通しており扉は無く車両間の移動は自由である。また連結部の扉が無いため、直線部への列車進入時には前後では長い空間が広がる。[座席](../Page/座席.md "wikilink")は全て[ロングシートで](../Page/鉄道車両の座席.md "wikilink")、素材は[ステンレスである](../Page/ステンレス鋼.md "wikilink")。2009年より[優先席](https://ja.wikipedia.org/wiki/優先席 "wikilink")や[車椅子](https://ja.wikipedia.org/wiki/車椅子 "wikilink")専用エリアが設置された。
 
 案内表示は各ドアに設置された路線図上の[LEDの点灯により停車駅と運行されている路線を表示する](../Page/発光ダイオード.md "wikilink")。なお座席上にもLED画面が設置されているが、これは[広告](../Page/広告.md "wikilink")用のものである。[中吊りや](https://ja.wikipedia.org/wiki/吊り広告 "wikilink")[シール](../Page/シール.md "wikilink")など、車内に紙の[メディアによる広告は掲出されていない](../Page/メディア_\(媒体\).md "wikilink")。
 
@@ -224,7 +224,7 @@ MTR内の車両は全て[冷房](../Page/冷房.md "wikilink")完備である。
 <td><p><a href="https://ja.wikipedia.org/wiki/迪士尼線" title="wikilink">迪士尼線</a>（ディズニーランドリゾート線）（Disneyland Resort Line）</p></td>
 <td><p>欣澳（Sunny Bay）～迪士尼（Disney Land Resort）</p></td>
 <td><p>3.5km</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
 </tr>
 <tr class="odd">
 <td><p> </p></td>

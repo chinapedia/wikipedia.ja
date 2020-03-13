@@ -1048,7 +1048,7 @@
 ### テレビ
 
   - [第44回NHK紅白歌合戦](../Page/第44回NHK紅白歌合戦.md "wikilink")（1993年12月31日）
-      - [中山美穂](https://ja.wikipedia.org/wiki/中山美穂 "wikilink")「[幸せになるために](../Page/幸せになるために_\(中山美穂の曲\).md "wikilink")」アコーディオン
+      - [中山美穂](../Page/中山美穂.md "wikilink")「[幸せになるために](../Page/幸せになるために_\(中山美穂の曲\).md "wikilink")」アコーディオン
   - おしゃれカンケイ（1994年7月3日 - 2005年3月27日）
       - 音楽
       - メインテーマ「deja vuがにげる頃」、「fellinism」、「CREPUSCULE」、「telephone king」、「霖雨 -リンユイ-」

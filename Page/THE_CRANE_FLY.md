@@ -1,7 +1,7 @@
 > この記事は[THE CRANE FLY](https://ja.wikipedia.org/wiki/THE_CRANE_FLY)から翻訳されています。
 
 
-**THE CRANE FLY**（ザ・クレイン・フライ）は、現在[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")を中心に全国で活動している[インディーズ](../Page/インディーズ.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[2001年](../Page/2001年.md "wikilink")に[広島県立広島工業高等学校](../Page/広島県立広島工業高等学校.md "wikilink")で結成。[2004年](../Page/2004年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")に解散するものの、翌年[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月5日](../Page/3月5日.md "wikilink")に復活した。
+**THE CRANE FLY**（ザ・クレイン・フライ）は、現在[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")を中心に全国で活動している[インディーズ](../Page/インディーズ.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[2001年](../Page/2001年.md "wikilink")に[広島県立広島工業高等学校](../Page/広島県立広島工業高等学校.md "wikilink")で結成。[2004年](../Page/2004年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")に解散するものの、翌年[2005年](../Page/2005年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")に復活した。
 
 ## メンバー
 
@@ -235,7 +235,7 @@
 ## ラジオ
 
   - **[THE CRANE FLYのガガンボレディオ](https://ja.wikipedia.org/wiki/THE_CRANE_FLYのガガンボレディオ "wikilink")**（[RCCラジオ毎週木曜](../Page/中国放送.md "wikilink")24:00-24:30 [rcc/music](https://ja.wikipedia.org/wiki/rcc/music "wikilink")枠）
-  - [9ジラジ](https://ja.wikipedia.org/wiki/9ジラジ "wikilink")水曜日**「THE CRANE FLYの門出の詩が聞こえる～広島元気計画～」**（[HFM水曜](../Page/広島エフエム放送.md "wikilink")21:15頃～）
+  - [9ジラジ](../Page/9ジラジ.md "wikilink")水曜日**「THE CRANE FLYの門出の詩が聞こえる～広島元気計画～」**（[HFM水曜](../Page/広島エフエム放送.md "wikilink")21:15頃～）
 
 ## ミュージックビデオ
 

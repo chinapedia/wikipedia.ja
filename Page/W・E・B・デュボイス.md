@@ -125,7 +125,7 @@
 ## 関連項目
 
   - [優生学](../Page/優生学.md "wikilink")
-  - [黄禍論](https://ja.wikipedia.org/wiki/黄禍論 "wikilink")
+  - [黄禍論](../Page/黄禍論.md "wikilink")
   - [人種差別](../Page/人種差別.md "wikilink")
   - [日系アメリカ人](https://ja.wikipedia.org/wiki/日系アメリカ人 "wikilink")
   - [アフリカ系アメリカ人](../Page/アフリカ系アメリカ人.md "wikilink")

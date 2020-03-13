@@ -1,7 +1,7 @@
 > この記事は[STARHORSE2](https://ja.wikipedia.org/wiki/STARHORSE2)から翻訳されています。
 
 
-『**STARHORSE2**』（**スターホースツー**）とはセガ（後の[セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")）の[メダルゲーム](../Page/メダルゲーム.md "wikilink")で、[競馬](../Page/競馬.md "wikilink")ゲームとして[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に稼動された。
+『**STARHORSE2**』（**スターホースツー**）とはセガ（後の[セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")）の[メダルゲーム](../Page/メダルゲーム.md "wikilink")で、[競馬](../Page/競馬.md "wikilink")ゲームとして[2005年](../Page/2005年.md "wikilink")に稼動された。
 
 シリーズ作品であり、[STARHORSE](../Page/STARHORSE.md "wikilink")シリーズでは5 - 8・10作目となる。
 
@@ -23,7 +23,7 @@
   - 実況は前作同様[杉本清](../Page/杉本清.md "wikilink")が担当（ただし、今作のために新たな音片を録音し直している）。
   - ベット画面中に流れるファンファーレや本馬場入場の曲などは実際の曲が使われており（前作まで収録されていなかった[宝塚記念](https://ja.wikipedia.org/wiki/宝塚記念 "wikilink")ファンファーレも使用）、架空レースであるWBCシリーズの入場曲は[布袋寅泰](../Page/布袋寅泰.md "wikilink")の曲を使用している（後述参照のこと）。
   - サテライトは基本セットで10席であるが、サテライトの数は21席まで増大可能である。サテライトはリクライニングシートつきであり、長時間プレイでも疲れないようになっている。メダルの投入は『[ROYAL ASCOT II](../Page/ROYAL_ASCOT_II.md "wikilink")』でも導入されていた自動投入装置が装備されている（ただし、構造は『ROYAL ASCOT II』とのそれとは異なっている）。また、操作画面はリクライニングにも合わせて動かすことができる。
-  - [落馬](../Page/落馬.md "wikilink")・馬体故障・[予後不良](../Page/予後不良_\(競馬\).md "wikilink")・[競走中止](https://ja.wikipedia.org/wiki/競走中止 "wikilink")・[出走取消](https://ja.wikipedia.org/wiki/出走取消 "wikilink")・[競走除外](https://ja.wikipedia.org/wiki/競走除外 "wikilink")・[失格](https://ja.wikipedia.org/wiki/失格 "wikilink")・[降着](https://ja.wikipedia.org/wiki/降着制度 "wikilink")・[同着は存在しない](https://ja.wikipedia.org/wiki/着差_\(競馬\)#日本の着差の表示 "wikilink")。
+  - [落馬](../Page/落馬.md "wikilink")・馬体故障・[予後不良](../Page/予後不良_\(競馬\).md "wikilink")・[競走中止](https://ja.wikipedia.org/wiki/競走中止 "wikilink")・[出走取消](https://ja.wikipedia.org/wiki/出走取消 "wikilink")・[競走除外](https://ja.wikipedia.org/wiki/競走除外 "wikilink")・[失格](https://ja.wikipedia.org/wiki/失格 "wikilink")・[降着](../Page/降着制度.md "wikilink")・[同着は存在しない](https://ja.wikipedia.org/wiki/着差_\(競馬\)#日本の着差の表示 "wikilink")。
   - 育成ゲームでの継続的なプレイのため、育成ゲーム専用のICカードを利用した情報保存システムを採用している。
       - 『STARHORSE PROGRESS』および『PROGRESS Returns』以前からのデータの引継ぎはできない。
       - カードには50度数あり、0になるとカードを新しくする必要がある。度数は1日につき1回以上使用するごとに1つ減る。同じ日にカードを抜き差ししても度数は減らない。

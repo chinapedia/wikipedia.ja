@@ -25,7 +25,7 @@
 
 ## リリース
 
-[2001年](../Page/2001年.md "wikilink")のシングル曲に関しては、当初はそれらを軸にしたオリジナル・アルバムを作ろうとしたが時間的な理由で実現せず\[6\]、ベストアルバム『[TOP OF THE POPS](https://ja.wikipedia.org/wiki/TOP_OF_THE_POPS_\(桑田佳祐のアルバム\) "wikilink")』に収録された。逆に「東京」および同シングルc/w「夏の日の少年」は未収録である。直後に発売されるベスト・アルバム『TOP OF THE POPS』とは、本人曰く「連作」である。そのために、『TOP OF THE POPS』のジャケットには『ex ROCK AND ROLL HERO』と書かれた看板が映っていると共に、本作から『TOP OF THE POPS』に収録された曲は無い。
+[2001年](../Page/2001年.md "wikilink")のシングル曲に関しては、当初はそれらを軸にしたオリジナル・アルバムを作ろうとしたが時間的な理由で実現せず\[6\]、ベストアルバム『[TOP OF THE POPS](../Page/TOP_OF_THE_POPS_\(桑田佳祐のアルバム\).md "wikilink")』に収録された。逆に「東京」および同シングルc/w「夏の日の少年」は未収録である。直後に発売されるベスト・アルバム『TOP OF THE POPS』とは、本人曰く「連作」である。そのために、『TOP OF THE POPS』のジャケットには『ex ROCK AND ROLL HERO』と書かれた看板が映っていると共に、本作から『TOP OF THE POPS』に収録された曲は無い。
 
 ## アートワーク
 

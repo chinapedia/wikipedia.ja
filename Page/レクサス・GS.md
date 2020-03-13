@@ -21,9 +21,9 @@
 
 ## 2代目 S16\#L型（1998年 - 2005年）
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[アリストがモデルチェンジした翌年](https://ja.wikipedia.org/wiki/トヨタ・アリスト#2代目_JZS16#型（1997年_-_2005年） "wikilink")、GSもモデルチェンジした。エンジンは[直列6気筒](../Page/直列6気筒.md "wikilink")エンジン（[2JZ-GE](../Page/トヨタ・JZエンジン.md "wikilink")）と[V8エンジン](../Page/V型8気筒.md "wikilink")（[1UZ-FE](https://ja.wikipedia.org/wiki/トヨタ・UZエンジン "wikilink")）の2本立て。[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[雑誌](../Page/雑誌.md "wikilink")『モータトレンド』が選定する[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")のインポートカー・オブ・ザ・イヤーに輝いている。また、同じくアメリカの雑誌『カーアンドドライバー』が選定するテン・ベストカーに、1998年から[2000年](../Page/2000年.md "wikilink")まで3年連続で選定された。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[アリストがモデルチェンジした翌年](https://ja.wikipedia.org/wiki/トヨタ・アリスト#2代目_JZS16#型（1997年_-_2005年） "wikilink")、GSもモデルチェンジした。エンジンは[直列6気筒](../Page/直列6気筒.md "wikilink")エンジン（[2JZ-GE](../Page/トヨタ・JZエンジン.md "wikilink")）と[V8エンジン](../Page/V型8気筒.md "wikilink")（[1UZ-FE](../Page/トヨタ・UZエンジン.md "wikilink")）の2本立て。[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[雑誌](../Page/雑誌.md "wikilink")『モータトレンド』が選定する[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")のインポートカー・オブ・ザ・イヤーに輝いている。また、同じくアメリカの雑誌『カーアンドドライバー』が選定するテン・ベストカーに、1998年から[2000年](../Page/2000年.md "wikilink")まで3年連続で選定された。
 
-[2000年](../Page/2000年.md "wikilink")マイナーチェンジ。「GS400」に搭載されていた4.0L [V8エンジン](../Page/V型8気筒.md "wikilink")（[1UZ-FE](https://ja.wikipedia.org/wiki/トヨタ・UZエンジン "wikilink")）が、LS（3代目）にも搭載される4.3L（[3UZ-FE](https://ja.wikipedia.org/wiki/トヨタ・UZエンジン#3UZ-FE "wikilink")）に変更され、モデル名も「GS430」へ変更。
+[2000年](../Page/2000年.md "wikilink")マイナーチェンジ。「GS400」に搭載されていた4.0L [V8エンジン](../Page/V型8気筒.md "wikilink")（[1UZ-FE](../Page/トヨタ・UZエンジン.md "wikilink")）が、LS（3代目）にも搭載される4.3L（[3UZ-FE](https://ja.wikipedia.org/wiki/トヨタ・UZエンジン#3UZ-FE "wikilink")）に変更され、モデル名も「GS430」へ変更。
 
 | グレード  | 排気量  | エンジン・最高出力                                                                                                                          | 変速機                                            | 駆動方式                                                                      |
 | ----- | ---- | ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------------------- |
@@ -39,7 +39,7 @@
 
   - 発表・発売（2005年）
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")1月、[北米国際オートショー](../Page/北米国際オートショー.md "wikilink")にて3代目GSがワールドプレミア。同年[8月30日](../Page/8月30日.md "wikilink")には日本においてもレクサスブランドが開業し、2ドア[クーペ](../Page/クーペ.md "wikilink")の「[SC430](https://ja.wikipedia.org/wiki/レクサス・SC "wikilink")」とともに「日本レクサス」の第1弾としてデビューした。目標月間販売台数は1100台と発表された。
+[2005年](../Page/2005年.md "wikilink")1月、[北米国際オートショー](../Page/北米国際オートショー.md "wikilink")にて3代目GSがワールドプレミア。同年[8月30日](../Page/8月30日.md "wikilink")には日本においてもレクサスブランドが開業し、2ドア[クーペ](../Page/クーペ.md "wikilink")の「[SC430](../Page/レクサス・SC.md "wikilink")」とともに「日本レクサス」の第1弾としてデビューした。目標月間販売台数は1100台と発表された。
 
 当初は[V型8気筒](../Page/V型8気筒.md "wikilink")搭載モデルのフラグシップモデル「**GS430**」と、[V型6気筒](../Page/V型6気筒.md "wikilink")エンジン搭載の量販モデル「**GS350**」の2車種をラインアップ。「GS430」は先代と同じパワートレーン（3UZ-FE型V8+6AT）を引き継ぐが、「GS350」が搭載する新開発の[直噴V型](../Page/ガソリン直噴エンジン.md "wikilink")6気筒3.5Lエンジン（[2GR-FSE](https://ja.wikipedia.org/wiki/トヨタ・GRエンジン#2GR-FSE "wikilink")）の出力は300psを大きく超えて315psとなり、歴代のトヨタ自動車製乗用車としては初めて280psを超えた。また地域によって商品展開に違いがあり、「GS350」は日本・北米・[韓国で](../Page/大韓民国.md "wikilink")、同じV6エンジンでも3L版の3GR-FE型を搭載する「GS300」は[中国などその他の地域で販売されている](../Page/中華人民共和国.md "wikilink")。
 
@@ -49,7 +49,7 @@
 
   - 年次改良（2006年）
 
-10月、イヤーモデル制度を敷くレクサスブランドの方針に従い年次改良を実施し2007年モデルへ移行。主な変更点として、GS350にもGS430と同じ18インチアルミホイール+245/40/R18タイヤが選択できるようになり、GS450h専用ボディカラーだったプレミアムライトブルーがGS350とGS430でも選択できるようになる。また翌2007年3月、日本車として初めてドイツ・[iFデザイン賞](https://ja.wikipedia.org/wiki/iFデザイン賞 "wikilink")金賞を受賞（[ISと同時受賞](https://ja.wikipedia.org/wiki/レクサス・IS "wikilink")）。
+10月、イヤーモデル制度を敷くレクサスブランドの方針に従い年次改良を実施し2007年モデルへ移行。主な変更点として、GS350にもGS430と同じ18インチアルミホイール+245/40/R18タイヤが選択できるようになり、GS450h専用ボディカラーだったプレミアムライトブルーがGS350とGS430でも選択できるようになる。また翌2007年3月、日本車として初めてドイツ・[iFデザイン賞](https://ja.wikipedia.org/wiki/iFデザイン賞 "wikilink")金賞を受賞（[ISと同時受賞](../Page/レクサス・IS.md "wikilink")）。
 
   - マイナーチェンジ（2007年）
 
@@ -181,7 +181,7 @@
 ## モータースポーツ
 
   - 2006年の[十勝24時間レース](https://ja.wikipedia.org/wiki/十勝24時間レース "wikilink")にGS450hがハイブリッド車として初参戦。総合17位で完走した\[38\]。
-  - [スーパー耐久](../Page/スーパー耐久.md "wikilink")のST-3クラスに[OTG MOTOR SPORTSが](../Page/大阪トヨペット.md "wikilink")2012年よりGSで参戦。2013年に[フェアレディZ](https://ja.wikipedia.org/wiki/フェアレディZ "wikilink")と[IS350を打ち破ってチャンピオンを獲得した](https://ja.wikipedia.org/wiki/レクサス・IS "wikilink")\[39\]。
+  - [スーパー耐久](../Page/スーパー耐久.md "wikilink")のST-3クラスに[OTG MOTOR SPORTSが](../Page/大阪トヨペット.md "wikilink")2012年よりGSで参戦。2013年に[フェアレディZ](https://ja.wikipedia.org/wiki/フェアレディZ "wikilink")と[IS350を打ち破ってチャンピオンを獲得した](../Page/レクサス・IS.md "wikilink")\[39\]。
 
 ## 車名の由来
 

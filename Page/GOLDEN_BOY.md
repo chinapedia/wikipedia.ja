@@ -3,7 +3,7 @@
 
 『**GOLDEN BOY**』（ゴールデンボーイ）は[江川達也](../Page/江川達也.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")、及びそれを原作とした[アニメ](../Page/アニメ.md "wikilink")。[集英社](../Page/集英社.md "wikilink")発行の『[スーパージャンプ](../Page/スーパージャンプ.md "wikilink")』にて[1992年](../Page/1992年.md "wikilink")15号から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")20号まで連載された。
 
-同社発行の『[ビジネスジャンプ](https://ja.wikipedia.org/wiki/ビジネスジャンプ "wikilink")』[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")20号から[2011年](../Page/2011年.md "wikilink")12号まで、『**GOLDEN BOY II 〜さすらいのお勉強野郎 芸能界大暴れ編〜**』というタイトルで主人公が芸能界に挑むという続編が連載された。
+同社発行の『[ビジネスジャンプ](../Page/ビジネスジャンプ.md "wikilink")』[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")20号から[2011年](../Page/2011年.md "wikilink")12号まで、『**GOLDEN BOY II 〜さすらいのお勉強野郎 芸能界大暴れ編〜**』というタイトルで主人公が芸能界に挑むという続編が連載された。
 
 ## 概要
 
@@ -72,7 +72,7 @@
   - 原作・監修 - 江川達也
   - 監督・音響監督 - [北久保弘之](../Page/北久保弘之.md "wikilink")
   - キャラクターデザイン・総作画監督 - [川元利浩](../Page/川元利浩.md "wikilink")
-  - 美術監督 - [串田達也](../Page/串田達也.md "wikilink")（第1話、第3話）、池畑祐治（第2話）、[加藤浩](https://ja.wikipedia.org/wiki/加藤浩 "wikilink")（第4話 - 第6話）
+  - 美術監督 - [串田達也](../Page/串田達也.md "wikilink")（第1話、第3話）、池畑祐治（第2話）、[加藤浩](../Page/加藤浩.md "wikilink")（第4話 - 第6話）
   - 撮影監督 - 岡崎英夫
   - 音楽 - [片柳譲陽](https://ja.wikipedia.org/wiki/片柳譲陽 "wikilink")
   - プロデューサー - 石川洋一、浅賀孝郎、野村和史
@@ -111,7 +111,7 @@
 <td><p>第2巻</p></td>
 <td><p>乙女の誘惑</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/菊地康仁" title="wikilink">菊地康仁</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/本田雄" title="wikilink">本田雄</a><br />
+<td><p><a href="../Page/本田雄.md" title="wikilink">本田雄</a><br />
 菊地康仁</p></td>
 <td><p>1995年<a href="https://ja.wikipedia.org/wiki/11月22日" title="wikilink">11月22日</a></p></td>
 <td></td>

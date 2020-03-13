@@ -5,7 +5,7 @@
 
 ## 概要
 
-[元気の](../Page/元気_\(ゲーム会社\).md "wikilink")[携帯電話](../Page/携帯電話.md "wikilink")アプリ、携帯型ゲーム機向けゲーム開発子会社として[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）に設立された。[2006年](../Page/2006年.md "wikilink")（平成18年）には親会社の元気と共に[ダイコク電機](../Page/ダイコク電機.md "wikilink")の子会社となったが、[2012年](../Page/2012年.md "wikilink")（平成24年）にグループを離脱\[1\]。[2013年](../Page/2013年.md "wikilink")（[平成](../Page/平成.md "wikilink")25年）6月には元気モバイル株式会社より商号を変更した\[2\]。
+[元気の](../Page/元気_\(ゲーム会社\).md "wikilink")[携帯電話](../Page/携帯電話.md "wikilink")アプリ、携帯型ゲーム機向けゲーム開発子会社として[2005年](../Page/2005年.md "wikilink")（平成17年）に設立された。[2006年](../Page/2006年.md "wikilink")（平成18年）には親会社の元気と共に[ダイコク電機](../Page/ダイコク電機.md "wikilink")の子会社となったが、[2012年](../Page/2012年.md "wikilink")（平成24年）にグループを離脱\[1\]。[2013年](../Page/2013年.md "wikilink")（[平成](../Page/平成.md "wikilink")25年）6月には元気モバイル株式会社より商号を変更した\[2\]。
 
 携帯電話向けゲームは、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")（[iアプリ](https://ja.wikipedia.org/wiki/iアプリ "wikilink")）、[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")（[S\!アプリ](../Page/S!アプリ.md "wikilink")）、[au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")([KDDI](../Page/KDDI.md "wikilink"))（[EZアプリ (Java)](../Page/EZアプリ_\(Java\).md "wikilink")、[EZアプリ (BREW)](https://ja.wikipedia.org/wiki/EZアプリ_\(BREW\) "wikilink")）、[ウィルコム](../Page/ウィルコム.md "wikilink")の4キャリア向けに提供している。
 

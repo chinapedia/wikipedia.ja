@@ -13,13 +13,13 @@
 
 「[ドラムマシン](../Page/ドラムマシン.md "wikilink")に内蔵されている音より良い音」「[トランスに負けない音](../Page/トランス_\(音楽\).md "wikilink")」で録るために、[Pro Toolsに全ての素材を取り込んだ後に](../Page/Pro_Tools.md "wikilink")[マルチトラック・レコーダー](../Page/マルチトラック・レコーダー.md "wikilink")に落とし直して編集した。編集には素材のレコーディングより時間をかけた\[3\]。
 
-アルバム全体としても「プログレ」が強調されている。CDジャケットのロゴデザインは、プログレッシブ・ロックバンド「[イエス](../Page/イエス_\(バンド\).md "wikilink")」や[エイジア](https://ja.wikipedia.org/wiki/エイジア "wikilink")のジャケットデザインなどを手がけた、イラストレーターの[ロジャー・ディーン](../Page/ロジャー・ディーン.md "wikilink")が担当している。
+アルバム全体としても「プログレ」が強調されている。CDジャケットのロゴデザインは、プログレッシブ・ロックバンド「[イエス](../Page/イエス_\(バンド\).md "wikilink")」や[エイジア](../Page/エイジア.md "wikilink")のジャケットデザインなどを手がけた、イラストレーターの[ロジャー・ディーン](../Page/ロジャー・ディーン.md "wikilink")が担当している。
 
 先行シングルは、ROJAMからリリースされた3枚のみ。メジャーレーベル[TRUE KiSS DiSCからリリースされた](../Page/TRUE_KiSS_DiSC.md "wikilink")「[GET WILD DECADE RUN](../Page/GET_WILD_DECADE_RUN.md "wikilink")」、「[10 YEARS AFTER](../Page/10_YEARS_AFTER_\(TM_NETWORKの曲\).md "wikilink")」、「[Happiness×3 Loneliness×3](../Page/Happiness×3_Loneliness×3.md "wikilink")」は収録されていない。
 
 このアルバムは、それぞれレーベルで、初回盤・通常版共に異なる仕様となっている。
 
-アルバムとしては『[DRESS](https://ja.wikipedia.org/wiki/DRESS_\(TM_NETWORKのアルバム\) "wikilink")』以来、アナログ盤が発売される。3枚組となり、CDでは未収録の「SLOWDOWN MIX」も収録されている。
+アルバムとしては『[DRESS](../Page/DRESS_\(TM_NETWORKのアルバム\).md "wikilink")』以来、アナログ盤が発売される。3枚組となり、CDでは未収録の「SLOWDOWN MIX」も収録されている。
 
 最初はインディーズ流通のみだったが、[2003年](../Page/2003年.md "wikilink")[2月5日](../Page/2月5日.md "wikilink")に[R\&C Japanより](https://ja.wikipedia.org/wiki/よしもとミュージックエンタテインメント "wikilink")、蔵出し音源集を加えた2枚組『[キヲクトキロク 〜 Major Turn-Round](../Page/キヲクトキロク_〜_Major_Turn-Round.md "wikilink")』として一般流通で発売された。
 

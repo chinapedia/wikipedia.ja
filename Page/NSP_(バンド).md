@@ -11,11 +11,11 @@
 
 [高専在学中の](../Page/高等専門学校.md "wikilink")[1973年](../Page/1973年.md "wikilink")に第5回[ヤマハポピュラーソングコンテスト](https://ja.wikipedia.org/wiki/ヤマハポピュラーソングコンテスト "wikilink")に於いて楽曲「あせ」で[ニッポン放送](../Page/ニッポン放送.md "wikilink")賞を受賞し、同年[6月](../Page/6月.md "wikilink")「さようなら」でデビュー。翌年、高専卒業を機に上京する。その後[1974年](../Page/1974年.md "wikilink")に「夕暮れ時はさびしそう」が[オリコン](../Page/オリコンチャート.md "wikilink")11位の大ヒットに、同年のアルバム『NSP III ひとやすみ』はオリコン4位のヒットを記録。その後も、[1976年](../Page/1976年.md "wikilink")「赤い糸の伝説」がヒットし、[叙情](../Page/叙情.md "wikilink")派[フォークを代表するグループとなる](../Page/フォークソング.md "wikilink")。
 
-[1980年代](../Page/1980年代.md "wikilink")に入りメンバーそれぞれが作曲、プロデュースなどソロ活動が多くなり、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")には中村貴之が脱退する。[澤近泰輔](https://ja.wikipedia.org/wiki/澤近泰輔 "wikilink")、[深浦昭彦を加えて活動するも](../Page/S.E.N.S..md "wikilink")[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に平賀和人脱退を機に、活動を停止。その後、[天野滋](https://ja.wikipedia.org/wiki/天野滋 "wikilink")はソロ活動を開始。平賀和人はNSPの所属レコード会社であった[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")に[ディレクター](../Page/ディレクター.md "wikilink")として入社し、[平松愛理](../Page/平松愛理.md "wikilink")、[GO-BANG'S](../Page/GO-BANG'S.md "wikilink")、[瀬戸朝香](../Page/瀬戸朝香.md "wikilink")、[Melodyなどの作品を担当していた](../Page/Melody_\(アイドルグループ\).md "wikilink")。
+[1980年代](../Page/1980年代.md "wikilink")に入りメンバーそれぞれが作曲、プロデュースなどソロ活動が多くなり、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")には中村貴之が脱退する。[澤近泰輔](https://ja.wikipedia.org/wiki/澤近泰輔 "wikilink")、[深浦昭彦を加えて活動するも](../Page/S.E.N.S..md "wikilink")[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に平賀和人脱退を機に、活動を停止。その後、[天野滋](../Page/天野滋.md "wikilink")はソロ活動を開始。平賀和人はNSPの所属レコード会社であった[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")に[ディレクター](../Page/ディレクター.md "wikilink")として入社し、[平松愛理](../Page/平松愛理.md "wikilink")、[GO-BANG'S](../Page/GO-BANG'S.md "wikilink")、[瀬戸朝香](../Page/瀬戸朝香.md "wikilink")、[Melodyなどの作品を担当していた](../Page/Melody_\(アイドルグループ\).md "wikilink")。
 
 [2002年](../Page/2002年.md "wikilink")にオリジナルメンバーで再結成。1月26日、[日本青年館](../Page/日本青年館.md "wikilink")大ホールで復活後初コンサート。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")2月に19年ぶりの新曲シングル「水のせいだったんです」、アルバム『Radio Days』を発売したが、同年[7月1日](../Page/7月1日.md "wikilink")午後7時8分、リーダーの[天野滋](https://ja.wikipedia.org/wiki/天野滋 "wikilink")が療養中の病院にて[脳内出血](../Page/脳内出血.md "wikilink")で死去。天野は[大腸癌](../Page/大腸癌.md "wikilink")で闘病中でありながらも、精力的に全国ツアーや諸活動を続けていた。
+[2005年](../Page/2005年.md "wikilink")2月に19年ぶりの新曲シングル「水のせいだったんです」、アルバム『Radio Days』を発売したが、同年[7月1日](../Page/7月1日.md "wikilink")午後7時8分、リーダーの[天野滋](../Page/天野滋.md "wikilink")が療養中の病院にて[脳内出血](../Page/脳内出血.md "wikilink")で死去。天野は[大腸癌](../Page/大腸癌.md "wikilink")で闘病中でありながらも、精力的に全国ツアーや諸活動を続けていた。
 
 [2019年](../Page/2019年.md "wikilink")3月20日より、代表曲の「夕暮れ時はさびしそう」が[東北新幹線](https://ja.wikipedia.org/wiki/東北新幹線 "wikilink")の[一ノ関駅](../Page/一ノ関駅.md "wikilink")の発車メロディーに使用されている。
 
@@ -35,7 +35,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/天野滋" title="wikilink">天野 滋</a></strong><br />
+<td><p><strong><a href="../Page/天野滋.md" title="wikilink">天野 滋</a></strong><br />
 （あまの しげる）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1953年" title="wikilink">1953年</a><a href="../Page/5月5日.md" title="wikilink">5月5日</a> - </p></td>
 <td><p><a href="../Page/岩手県.md" title="wikilink">岩手県</a><a href="../Page/一関市.md" title="wikilink">一関市</a></p></td>
@@ -119,7 +119,7 @@
 <td><p><a href="../Page/1973年.md" title="wikilink">1973年</a><a href="../Page/6月25日.md" title="wikilink">6月25日</a></p></td>
 <td><p><strong>さようなら</strong></p></td>
 <td><p>さようなら</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/天野滋" title="wikilink">天野滋</a></p></td>
+<td><p><a href="../Page/天野滋.md" title="wikilink">天野滋</a></p></td>
 <td><p>天野滋</p></td>
 <td><p>N.S.P.</p></td>
 <td><p>46位</p></td>
@@ -322,7 +322,7 @@
 <td><p>あなたこっちを振り向いて</p></td>
 <td><p>天野滋</p></td>
 <td><p>天野滋</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/瀬尾一三" title="wikilink">瀬尾一三</a></p></td>
+<td><p><a href="../Page/瀬尾一三.md" title="wikilink">瀬尾一三</a></p></td>
 <td><p>82位</p></td>
 </tr>
 <tr class="even">
@@ -662,7 +662,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a><a href="../Page/7月21日.md" title="wikilink">7月21日</a></p></td>
 <td><p><strong>シェイキンLADY</strong></p></td>
 <td><p>シェイキンLADY</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/天野滋" title="wikilink">天野音彦</a></p></td>
+<td><p><a href="../Page/天野滋.md" title="wikilink">天野音彦</a></p></td>
 <td><p>天野音彦</p></td>
 <td><p>N.S.P.</p></td>
 <td><p>-</p></td>
@@ -679,7 +679,7 @@
 </tr>
 <tr class="odd">
 <td><p>29th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/2月2日.md" title="wikilink">2月2日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/2月2日.md" title="wikilink">2月2日</a></p></td>
 <td><p><strong>水のせいだったんです</strong></p></td>
 <td><p>水のせいだったんです</p></td>
 <td><p>天野滋</p></td>
@@ -723,19 +723,19 @@
 | 15th | [1984年](../Page/1984年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink")                      | **冬の時代**            | 91位  |                     |
 | 16th | [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[4月21日](../Page/4月21日.md "wikilink")   | **水と太陽**            | \-   |                     |
 | 17th | [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[7月21日](../Page/7月21日.md "wikilink")   | **APOCALYPSE**      | \-   | 中村脱退後、新メンバーによるアルバム。 |
-| 18th | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月2日](../Page/2月2日.md "wikilink")     | **Radio days**      | 152位 | 19年ぶりのオリジナルアルバム     |
+| 18th | [2005年](../Page/2005年.md "wikilink")[2月2日](../Page/2月2日.md "wikilink")                        | **Radio days**      | 152位 | 19年ぶりのオリジナルアルバム     |
 
 #### ライブアルバム
 
-| 枚   | リリース日                                                                                         | タイトル                                     | 最高位  | 備考           |
-| --- | --------------------------------------------------------------------------------------------- | ---------------------------------------- | ---- | ------------ |
-| 1st | [1973年](../Page/1973年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")                      | **NSP FIRST**                            | 33位  |              |
-| 2nd | [1975年](../Page/1975年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")                    | **僕らはごきげん**                              | 31位  |              |
-| 3rd | [2002年](../Page/2002年.md "wikilink")[10月9日](../Page/10月9日.md "wikilink")                      | '''NSP復活コンサート                            | '''  | \-           |
-| 4th | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月22日](../Page/10月22日.md "wikilink") | '''ライブはごきげん                              | '''  | \-           |
-| 5th | [2006年](../Page/2006年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")                        | **天野はごきげん\!? ふきげん\!? Vol.1**             | \-   |              |
-| 6th | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[8月2日](../Page/8月2日.md "wikilink")     | **雨の田園コロシアム・ライブ19800802**                | \-   |              |
-| 7th | [2013年](../Page/2013年.md "wikilink")[6月26日](../Page/6月26日.md "wikilink")                      | **NSPデビュー40周年メモリアル・ドリームライブ 〜70年代をもう一度〜** | 273位 | 40周年記念ライブベスト |
+| 枚   | リリース日                                                                                     | タイトル                                     | 最高位  | 備考           |
+| --- | ----------------------------------------------------------------------------------------- | ---------------------------------------- | ---- | ------------ |
+| 1st | [1973年](../Page/1973年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")                  | **NSP FIRST**                            | 33位  |              |
+| 2nd | [1975年](../Page/1975年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")                | **僕らはごきげん**                              | 31位  |              |
+| 3rd | [2002年](../Page/2002年.md "wikilink")[10月9日](../Page/10月9日.md "wikilink")                  | '''NSP復活コンサート                            | '''  | \-           |
+| 4th | [2005年](../Page/2005年.md "wikilink")[10月22日](../Page/10月22日.md "wikilink")                | '''ライブはごきげん                              | '''  | \-           |
+| 5th | [2006年](../Page/2006年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")                    | **天野はごきげん\!? ふきげん\!? Vol.1**             | \-   |              |
+| 6th | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[8月2日](../Page/8月2日.md "wikilink") | **雨の田園コロシアム・ライブ19800802**                | \-   |              |
+| 7th | [2013年](../Page/2013年.md "wikilink")[6月26日](../Page/6月26日.md "wikilink")                  | **NSPデビュー40周年メモリアル・ドリームライブ 〜70年代をもう一度〜** | 273位 | 40周年記念ライブベスト |
 
 #### ベストアルバム
 
@@ -808,7 +808,7 @@
 </tr>
 <tr class="odd">
 <td><p>9th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/3月23日.md" title="wikilink">3月23日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/3月23日.md" title="wikilink">3月23日</a></p></td>
 <td><p><strong>NSPベストセレクション2 1973〜1986</strong></p></td>
 <td><p>-</p></td>
 <td></td>

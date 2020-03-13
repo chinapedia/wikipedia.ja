@@ -5,8 +5,8 @@
 
 ## 概要
 
-  - [CIRCUSの情報番組で](https://ja.wikipedia.org/wiki/CIRCUS_\(ブランド\) "wikilink")[音泉](../Page/音泉.md "wikilink")でのみ配信されていたが、後に[ランティスウェブラジオ](https://ja.wikipedia.org/wiki/ランティスウェブラジオ "wikilink")でも配信されるようになった。
-  - 配信日は、[音泉](../Page/音泉.md "wikilink")が火曜日、[ランティスウェブラジオ](https://ja.wikipedia.org/wiki/ランティスウェブラジオ "wikilink")が水曜日となっている。
+  - [CIRCUSの情報番組で](https://ja.wikipedia.org/wiki/CIRCUS_\(ブランド\) "wikilink")[音泉](../Page/音泉.md "wikilink")でのみ配信されていたが、後に[ランティスウェブラジオ](../Page/ランティスウェブラジオ.md "wikilink")でも配信されるようになった。
+  - 配信日は、[音泉](../Page/音泉.md "wikilink")が火曜日、[ランティスウェブラジオ](../Page/ランティスウェブラジオ.md "wikilink")が水曜日となっている。
   - [コンプティーク](../Page/コンプティーク.md "wikilink")の[D.C. 〜ダ・カーポ〜情報ページ内に出張版ボルケーノというコーナーを持っている](../Page/D.C._〜ダ・カーポ〜.md "wikilink")。
   - 2005年4月10日に[初台](../Page/初台.md "wikilink")のThe DOORSで[yozuca\*](https://ja.wikipedia.org/wiki/yozuca* "wikilink")ファンクラブと[CIRCUSファンクラブのイベントとして](https://ja.wikipedia.org/wiki/CIRCUS_\(ブランド\) "wikilink")、「[web喫茶よずりの](https://ja.wikipedia.org/wiki/web喫茶よずりの "wikilink")」との合同公開録音が行なわれた。
   - 2005年7月9日に[秋葉原](https://ja.wikipedia.org/wiki/秋葉原 "wikilink")の秋葉原マークインタースペースで「サーカス地方巡業 in 大日本○国2」の一環として公開録音が行なわれた。
@@ -38,7 +38,7 @@
     パーソナリティーの二人がそれぞれ引いたかゆいワードのどちらがかゆい（[萌え](../Page/萌え.md "wikilink")る）かを競うコーナー
   - ボルケーノシチュエーション
     ゲスト出演時のみに行なうコーナーで、募集したシチュエーションをもとに[らまマン](https://ja.wikipedia.org/wiki/らまマン "wikilink")がセリフを考え、ゲストとパーソナリティーが感情を込めて言うコーナー
-    （第34回：[bamboo](https://ja.wikipedia.org/wiki/bamboo "wikilink")、第35回：[橋本みゆき](../Page/橋本みゆき.md "wikilink")、第38回：[まきいづみ](https://ja.wikipedia.org/wiki/まきいづみ "wikilink")、第39回：[安玖深音](https://ja.wikipedia.org/wiki/安玖深音 "wikilink")、第40回：[桃井はるこ](../Page/桃井はるこ.md "wikilink")、第49回：[宮崎羽衣](../Page/宮崎羽衣.md "wikilink")）
+    （第34回：[bamboo](https://ja.wikipedia.org/wiki/bamboo "wikilink")、第35回：[橋本みゆき](../Page/橋本みゆき.md "wikilink")、第38回：[まきいづみ](../Page/まきいづみ.md "wikilink")、第39回：[安玖深音](../Page/安玖深音.md "wikilink")、第40回：[桃井はるこ](../Page/桃井はるこ.md "wikilink")、第49回：[宮崎羽衣](../Page/宮崎羽衣.md "wikilink")）
   - サーカスインフォメーション
     [CIRCUS関連の](https://ja.wikipedia.org/wiki/CIRCUS_\(ブランド\) "wikilink")[イベント](../Page/イベント.md "wikilink")のお知らせなど
   - 萌えしりとり

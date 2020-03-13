@@ -5,7 +5,7 @@
 
 ## 概要
 
-鳥山明の作品『[COWA\!](https://ja.wikipedia.org/wiki/COWA! "wikilink")』や『[カジカ](https://ja.wikipedia.org/wiki/カジカ_\(漫画\) "wikilink")』と同様に『[ドラゴンボール](https://ja.wikipedia.org/wiki/ドラゴンボール "wikilink")』終了後、短期集中連載で描かれた作品であり、鳥山明が老人と[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")を描きたいということから創られた\[1\]。
+鳥山明の作品『[COWA\!](../Page/COWA!.md "wikilink")』や『[カジカ](../Page/カジカ_\(漫画\).md "wikilink")』と同様に『[ドラゴンボール](https://ja.wikipedia.org/wiki/ドラゴンボール "wikilink")』終了後、短期集中連載で描かれた作品であり、鳥山明が老人と[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")を描きたいということから創られた\[1\]。
 
 構想当初より全一巻の短期集中連載として企画されており、ストーリーも作者にしては珍しく最後まで決められ描かれた。この物語では、他の多くの鳥山明作品と同様に人間以外の知的生命体が多数存在し、主人公のベルゼブブも魔物の少年である。わずか全1巻の短い連載ながら人気を博し、数カ国語で翻訳出版された。
 

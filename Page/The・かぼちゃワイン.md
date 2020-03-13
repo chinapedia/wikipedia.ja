@@ -391,7 +391,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/沖縄県.md" title="wikilink">沖縄県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/琉球放送" title="wikilink">琉球放送</a></p></td>
+<td><p><a href="../Page/琉球放送.md" title="wikilink">琉球放送</a></p></td>
 <td><p>TBS系列</p></td>
 <td><p>遅れネット</p></td>
 <td></td>
@@ -1330,7 +1330,7 @@
 ### キャスト
 
   - [熊田曜子](https://ja.wikipedia.org/wiki/熊田曜子 "wikilink") - 朝丘夏美役
-  - [米原幸佑](https://ja.wikipedia.org/wiki/米原幸佑 "wikilink") - 青葉春助役
+  - [米原幸佑](../Page/米原幸佑.md "wikilink") - 青葉春助役
   - [加藤ゆき](../Page/後藤ゆきこ.md "wikilink") - サンシャイン学園[チアガール](https://ja.wikipedia.org/wiki/チアガール "wikilink")部の友人役
   - [勝矢](../Page/勝矢.md "wikilink") - 青葉春助の叔父・吾郎役
   - [濱田のり子](../Page/濱田のり子.md "wikilink") - 青葉花江役

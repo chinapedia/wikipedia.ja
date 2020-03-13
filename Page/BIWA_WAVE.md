@@ -101,7 +101,7 @@
 
   - MUSIC MAGIC（月-木 17:00-20:00 DJ:[ミネリカ](https://ja.wikipedia.org/wiki/ミネリカ "wikilink")（火）・Choco（杢））
   - MYCAL street（月-木 16:00-18:00）
-  - RUNNING☆HIGH（金 17:00-20:00 DJ:[舟岡昭浩](https://ja.wikipedia.org/wiki/舟岡昭浩 "wikilink")・NAO）
+  - RUNNING☆HIGH（金 17:00-20:00 DJ:[舟岡昭浩](../Page/舟岡昭浩.md "wikilink")・NAO）
   - The A★NAVI radio（月-金 21:50-22:00 DJ:K-ZONE)
   - DIGGIN on SMILE（土 12:00-13:00 DJ:ゆりりん）
   - ENDLESS DREAM（土 13:00-15:00 DJ:[佐々木清次](../Page/佐々木清次.md "wikilink")・カリスマGO-Z）

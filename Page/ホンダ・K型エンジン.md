@@ -9,9 +9,9 @@
 
   - K20A/K24A
 
-[B型及び](../Page/ホンダ・B型エンジン.md "wikilink")[F型の後継エンジンにあたる直列](../Page/ホンダ・F型エンジン.md "wikilink")4気筒エンジンで、全機種[DOHC](../Page/DOHC.md "wikilink")を採用。[J型以降の流れで従来のB型](https://ja.wikipedia.org/wiki/ホンダ・J型エンジン "wikilink")・F型とはエンジン回転方向が逆向き\[1\]に変更され、他社と同様の方向に改められた。次世代に向け「[CO<sub>2</sub>の削減](../Page/二酸化炭素.md "wikilink")（燃費の向上）」と「[排気ガス](../Page/排気ガス.md "wikilink")のクリーン化」を両立しながら、走る楽しさ（動力性能の向上）との高次元での融合を目指したエンジンをホンダは「i-シリーズ」と称し、K型はその第1弾として発表された。
+[B型及び](../Page/ホンダ・B型エンジン.md "wikilink")[F型の後継エンジンにあたる直列](../Page/ホンダ・F型エンジン.md "wikilink")4気筒エンジンで、全機種[DOHC](../Page/DOHC.md "wikilink")を採用。[J型以降の流れで従来のB型](../Page/ホンダ・J型エンジン.md "wikilink")・F型とはエンジン回転方向が逆向き\[1\]に変更され、他社と同様の方向に改められた。次世代に向け「[CO<sub>2</sub>の削減](../Page/二酸化炭素.md "wikilink")（燃費の向上）」と「[排気ガス](../Page/排気ガス.md "wikilink")のクリーン化」を両立しながら、走る楽しさ（動力性能の向上）との高次元での融合を目指したエンジンをホンダは「i-シリーズ」と称し、K型はその第1弾として発表された。
 
-[吸・排気バルブをそれぞれ](https://ja.wikipedia.org/wiki/バルブ#内燃機関におけるバルブ "wikilink")2個ずつ設け、[スイングアームによって駆動される](../Page/ロッカーアーム.md "wikilink")。装着される[可変バルブタイミング・リフト機構の](../Page/可変バルブ機構.md "wikilink")「[i-VTEC](https://ja.wikipedia.org/wiki/i-VTEC "wikilink")」は、低速域\[2\]では吸気バルブのうち片方をほぼ休止され、吸気側カムシャフトの[位相](../Page/位相.md "wikilink")を変化しオーバーラップ量を調整する「VTC（Variable Timing Control）」が組み合されている。スイングアームには摺動部のフリクションを低減する目的からローラー機構を使用している。[シリンダーブロック](https://ja.wikipedia.org/wiki/シリンダーブロック "wikilink")は[アルミ](https://ja.wikipedia.org/wiki/アルミニューム "wikilink")[ダイカスト](../Page/ダイカスト.md "wikilink")製で、[クランクシャフト](../Page/クランクシャフト.md "wikilink")の支持剛性を上げるためにロアブロック構造が採用されて、2次の[エンジンの振動](../Page/エンジンの振動.md "wikilink")を低減させるため[バランサーが装着された](https://ja.wikipedia.org/wiki/バランスシャフト "wikilink")。F型と同じ94mmの[ボアピッチ](https://ja.wikipedia.org/wiki/ボアピッチ "wikilink")であるが、タイミングチェーンの採用や補機サーペンタイン駆動などにより、エンジン長は抑えられている。
+[吸・排気バルブをそれぞれ](https://ja.wikipedia.org/wiki/バルブ#内燃機関におけるバルブ "wikilink")2個ずつ設け、[スイングアームによって駆動される](../Page/ロッカーアーム.md "wikilink")。装着される[可変バルブタイミング・リフト機構の](../Page/可変バルブ機構.md "wikilink")「[i-VTEC](https://ja.wikipedia.org/wiki/i-VTEC "wikilink")」は、低速域\[2\]では吸気バルブのうち片方をほぼ休止され、吸気側カムシャフトの[位相](../Page/位相.md "wikilink")を変化しオーバーラップ量を調整する「VTC（Variable Timing Control）」が組み合されている。スイングアームには摺動部のフリクションを低減する目的からローラー機構を使用している。[シリンダーブロック](../Page/シリンダーブロック.md "wikilink")は[アルミ](https://ja.wikipedia.org/wiki/アルミニューム "wikilink")[ダイカスト](../Page/ダイカスト.md "wikilink")製で、[クランクシャフト](../Page/クランクシャフト.md "wikilink")の支持剛性を上げるためにロアブロック構造が採用されて、2次の[エンジンの振動](../Page/エンジンの振動.md "wikilink")を低減させるため[バランサーが装着された](https://ja.wikipedia.org/wiki/バランスシャフト "wikilink")。F型と同じ94mmの[ボアピッチ](https://ja.wikipedia.org/wiki/ボアピッチ "wikilink")であるが、タイミングチェーンの採用や補機サーペンタイン駆動などにより、エンジン長は抑えられている。
 
 [PGM-FIは](../Page/燃料噴射装置.md "wikilink")[インテークマニホールド](../Page/インテークマニホールド.md "wikilink")の各気筒のポートにインジェクターが取付けられたマルチポイント式である。インテークマニホールドに可変吸気装置が装備され、i-VTECとの協調制御により中・低速域のトルクと高速域の出力を両立させている。エンジン後方に[エキゾーストマニホールド](../Page/エキゾーストマニホールド.md "wikilink")を取付けることにより、エンジンと[三元触媒](../Page/三元触媒.md "wikilink")との間隔を近づけ、冷間時でも早期から[排気ガス](../Page/排気ガス.md "wikilink")の浄化を可能にした。2008年以降の仕様では、エキゾーストマニホールドが無く、[シリンダーヘッド](https://ja.wikipedia.org/wiki/シリンダーヘッド "wikilink")内で隣り合う排気ポートが集合し、その直後に三元触媒が装備されるほか、吸気側に[エアフロメーター](https://ja.wikipedia.org/wiki/エアフロメーター "wikilink")が取付けられ、更なる排気ガスの浄化が図られている。
 
@@ -25,7 +25,7 @@
 
   - K20B
 
-標準仕様のi-VTEC仕様の燃料供給方式を[筒内直接噴射](../Page/ガソリン直噴エンジン.md "wikilink")（直噴）にし、低燃費、排気ガスのクリーン化と高出力をさせている。インジェクタを燃焼室天井中央部に取付けた「センターインジェクション」を採用し、[空燃比](../Page/空燃比.md "wikilink") 65：1の[超希薄燃焼を実現しながら](https://ja.wikipedia.org/wiki/リーンバーン "wikilink")[平成17年排出ガス基準](../Page/自動車排出ガス規制.md "wikilink")50％低減レベルをクリアした。
+標準仕様のi-VTEC仕様の燃料供給方式を[筒内直接噴射](../Page/ガソリン直噴エンジン.md "wikilink")（直噴）にし、低燃費、排気ガスのクリーン化と高出力をさせている。インジェクタを燃焼室天井中央部に取付けた「センターインジェクション」を採用し、[空燃比](../Page/空燃比.md "wikilink") 65：1の[超希薄燃焼を実現しながら](../Page/リーンバーン.md "wikilink")[平成17年排出ガス基準](../Page/自動車排出ガス規制.md "wikilink")50％低減レベルをクリアした。
 
 ### バリアブルフロー・ターボ
 

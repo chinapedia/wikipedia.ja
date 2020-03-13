@@ -37,7 +37,7 @@
 
 ## 日本での扱い
 
-競技用車両であっても[逆輸入車に対しては](https://ja.wikipedia.org/wiki/輸入車#逆輸入車 "wikilink")[通関](https://ja.wikipedia.org/wiki/通関 "wikilink")証明が発行されるため日本国内での[登録は可能となっており](https://ja.wikipedia.org/wiki/日本のナンバープレート "wikilink")、別途[速度計](../Page/速度計.md "wikilink")・[ウインカーおよび操作](../Page/方向指示器.md "wikilink")[スイッチ](../Page/スイッチ.md "wikilink")・[バックミラー](https://ja.wikipedia.org/wiki/バックミラー "wikilink")・[反射板](https://ja.wikipedia.org/wiki/リフレクター "wikilink")・ナンバープレートステーなどを用意し、付属の輸入業者の譲渡書と通関証明書（250 cc 超は[ブレーキ](../Page/ブレーキ.md "wikilink")性能証明書類も必要）を提示することで車検場（[地方運輸局](../Page/地方運輸局.md "wikilink")）でのナンバープレート取得が可能である。ただし[保安部品](https://ja.wikipedia.org/wiki/保安部品 "wikilink")の装着や[排ガス検査をパスするために煩雑な手続きを要するため割高ではあるが](../Page/排気ガス.md "wikilink")[並行輸入](https://ja.wikipedia.org/wiki/並行輸入 "wikilink")業者がすべて代行し、すぐ乗れるような状態で販売している場合もある。
+競技用車両であっても[逆輸入車に対しては](https://ja.wikipedia.org/wiki/輸入車#逆輸入車 "wikilink")[通関](../Page/通関.md "wikilink")証明が発行されるため日本国内での[登録は可能となっており](https://ja.wikipedia.org/wiki/日本のナンバープレート "wikilink")、別途[速度計](../Page/速度計.md "wikilink")・[ウインカーおよび操作](../Page/方向指示器.md "wikilink")[スイッチ](../Page/スイッチ.md "wikilink")・[バックミラー](https://ja.wikipedia.org/wiki/バックミラー "wikilink")・[反射板](https://ja.wikipedia.org/wiki/リフレクター "wikilink")・ナンバープレートステーなどを用意し、付属の輸入業者の譲渡書と通関証明書（250 cc 超は[ブレーキ](../Page/ブレーキ.md "wikilink")性能証明書類も必要）を提示することで車検場（[地方運輸局](../Page/地方運輸局.md "wikilink")）でのナンバープレート取得が可能である。ただし[保安部品](https://ja.wikipedia.org/wiki/保安部品 "wikilink")の装着や[排ガス検査をパスするために煩雑な手続きを要するため割高ではあるが](../Page/排気ガス.md "wikilink")[並行輸入](https://ja.wikipedia.org/wiki/並行輸入 "wikilink")業者がすべて代行し、すぐ乗れるような状態で販売している場合もある。
 
 また[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")9月より[自動車排出ガス規制](../Page/自動車排出ガス規制.md "wikilink")が輸入車に対しても強化されており、元から公道走行が考慮されていない競技用車両を規制値に対応させることは非常に厳しくなったためこの規制以降より新規登録が難しい状況下にある。
 
@@ -53,7 +53,7 @@
 
 #### CRF50F/70F/110F
 
-[Honda_CRF50_mod.jpg](https://ja.wikipedia.org/wiki/File:Honda_CRF50_mod.jpg "fig:Honda_CRF50_mod.jpg") 本シリーズ最小[排気量](../Page/排気量.md "wikilink")の車種となるが、[子供](../Page/子供.md "wikilink")向けのモトクロス[入門](https://ja.wikipedia.org/wiki/入門 "wikilink")用モデルとしての位置づけであり、ライダーの[体重](../Page/体重.md "wikilink")制限がある。エンジンは[カブ系の](https://ja.wikipedia.org/wiki/ホンダ・カブ "wikilink")[水平](https://ja.wikipedia.org/wiki/水平 "wikilink")[シリンダーエンジンを採用し](https://ja.wikipedia.org/wiki/シリンダーブロック "wikilink")、子供が簡単に操作できることを重点に置いた設計であるため、[自動遠心式クラッチを採用している](https://ja.wikipedia.org/wiki/セミオートマチックトランスミッション#オートバイ "wikilink")。なお、[リヤサスペンションに社外品を組み込み](https://ja.wikipedia.org/wiki/リヤサスペンション_\(オートバイ\) "wikilink")（[改造](https://ja.wikipedia.org/wiki/改造 "wikilink")し）、[大人](../Page/大人.md "wikilink")が乗る事例もある。
+[Honda_CRF50_mod.jpg](https://ja.wikipedia.org/wiki/File:Honda_CRF50_mod.jpg "fig:Honda_CRF50_mod.jpg") 本シリーズ最小[排気量](../Page/排気量.md "wikilink")の車種となるが、[子供](../Page/子供.md "wikilink")向けのモトクロス[入門](https://ja.wikipedia.org/wiki/入門 "wikilink")用モデルとしての位置づけであり、ライダーの[体重](../Page/体重.md "wikilink")制限がある。エンジンは[カブ系の](https://ja.wikipedia.org/wiki/ホンダ・カブ "wikilink")[水平](https://ja.wikipedia.org/wiki/水平 "wikilink")[シリンダーエンジンを採用し](../Page/シリンダーブロック.md "wikilink")、子供が簡単に操作できることを重点に置いた設計であるため、[自動遠心式クラッチを採用している](https://ja.wikipedia.org/wiki/セミオートマチックトランスミッション#オートバイ "wikilink")。なお、[リヤサスペンションに社外品を組み込み](https://ja.wikipedia.org/wiki/リヤサスペンション_\(オートバイ\) "wikilink")（[改造](https://ja.wikipedia.org/wiki/改造 "wikilink")し）、[大人](../Page/大人.md "wikilink")が乗る事例もある。
 
   - 50と70の違い
 
@@ -99,7 +99,7 @@
 
 欠点としては、新規開発で実戦経験がない事や価格が2ストローク車と比較して20万円の価格上昇でさらに15万円の投資で上位車種のCRF250Rが買える値段やメンテナンス性からの問題などから、個人ユーザーが趣味でモトクロスを楽しむ際にコストパフォーマンスで上位車種と本モデルと、同クラスの軽量2ストロークエンジン搭載モデルや中古車両などの複数の選択肢が出てしまうケースが発生する。
 
-いずれ他社からも本クラスに同様の4ストロークエンジン搭載モデルが登場予定であり、価格の面からも他社の動向によっては価格も下げられるケースも少なからず出ることが予想でき、実戦経験も[2007年](../Page/2007年.md "wikilink")度[全日本モトクロス選手権](https://ja.wikipedia.org/wiki/全日本モトクロス選手権 "wikilink")レディースクラスへの投入が決定しており、フィードバックによる車両自体の熟成も期待されるなど、上述欠点も解消される可能性は高い。
+いずれ他社からも本クラスに同様の4ストロークエンジン搭載モデルが登場予定であり、価格の面からも他社の動向によっては価格も下げられるケースも少なからず出ることが予想でき、実戦経験も[2007年](../Page/2007年.md "wikilink")度[全日本モトクロス選手権](../Page/全日本モトクロス選手権.md "wikilink")レディースクラスへの投入が決定しており、フィードバックによる車両自体の熟成も期待されるなど、上述欠点も解消される可能性は高い。
 
 ちなみに海外では空冷のCRF150F（末尾がRではなくF）が販売されており、日本にも輸入代理店を通じて販売されるが、国内のXLR125R等と同じCB90系のエンジンを搭載しており、CRF150Rとは性質が異なりレーサーと言うよりはファンライドモデルである。また、CRF230Fという、NX125系エンジン（XR230とはクランクケースが大きく異なる）を搭載するファンライドモデルが海外で販売される。
 

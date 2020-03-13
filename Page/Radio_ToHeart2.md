@@ -361,5 +361,5 @@
 4.  第99回以降は落合のみがメインパーソナリティのため、形の上ではゲスト扱いとなっているが、実質的にはそれまでと同様の番組進行となった。
 5.  第97回・第98回でのSuaraはゲストとしてではなく、それぞれ伊藤・落合に代わるパーソナリティとして出演。番組タイトルもそれぞれ「夏休みスペシャル、ゆりしー・SuaraのRadio ToHeart2」「夏休みスペシャル、静・SuaraのRadio ToHeart2」として配信された。
 6.  TVアニメ版EDテーマとOVA ToHeart2のOPテーマを唄っている歌手
-7.  ToHeart2には参加していないながら、Radio ToHeart2史上唯一の男性ゲスト（河野貴明役の[福山潤](https://ja.wikipedia.org/wiki/福山潤 "wikilink")とも共演歴は幾つかある）。デビュー曲『[真・うたわれるもののテーマ](../Page/真・うたわれるもののテーマ.md "wikilink")』の宣伝や、当番組と『[うたわれるものらじお](../Page/うたわれるものらじお.md "wikilink")』の合同[公開録音](https://ja.wikipedia.org/wiki/公開録音 "wikilink")の司会を務めた縁から出演となった。
+7.  ToHeart2には参加していないながら、Radio ToHeart2史上唯一の男性ゲスト（河野貴明役の[福山潤](../Page/福山潤.md "wikilink")とも共演歴は幾つかある）。デビュー曲『[真・うたわれるもののテーマ](../Page/真・うたわれるもののテーマ.md "wikilink")』の宣伝や、当番組と『[うたわれるものらじお](../Page/うたわれるものらじお.md "wikilink")』の合同[公開録音](https://ja.wikipedia.org/wiki/公開録音 "wikilink")の司会を務めた縁から出演となった。
 8.  PC版ToHeart2 AnotherDaysのEDテーマとOVA ToHeart2adのOPテーマを唄っている歌手

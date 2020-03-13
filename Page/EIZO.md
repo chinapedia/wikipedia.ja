@@ -37,7 +37,7 @@
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（平成10年）[7月](https://ja.wikipedia.org/wiki/7月 "wikilink") ‐ [ISO14001認証取得](../Page/ISO_14000.md "wikilink")
   - [2002年](../Page/2002年.md "wikilink")（平成14年）[3月](https://ja.wikipedia.org/wiki/3月 "wikilink") ‐ 東京証券取引所市場第二部上場
   - [2003年](../Page/2003年.md "wikilink")（平成15年）[3月](https://ja.wikipedia.org/wiki/3月 "wikilink") ‐ 東京証券取引所市場第一部上場
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") ‐ [ISO13485認証取得](https://ja.wikipedia.org/wiki/ISO_13485 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")（平成17年）[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") ‐ [ISO13485認証取得](https://ja.wikipedia.org/wiki/ISO_13485 "wikilink")
   - [2013年](../Page/2013年.md "wikilink")（平成25年）[4月1日](../Page/4月1日.md "wikilink") - **EIZO株式会社**に商号変更\[1\]
   - [2016年](../Page/2016年.md "wikilink")（平成28年）[6月6日](../Page/6月6日.md "wikilink") - [パナソニック ヘルスケアの手術](https://ja.wikipedia.org/wiki/パナソニック_ヘルスケア "wikilink")・内視鏡モニター事業を買収\[2\]
   - [2018年](../Page/2018年.md "wikilink")（平成28年）[10月1日](../Page/10月1日.md "wikilink") - EIZOメディカルソリューションズ株式会社（[イメーション](https://ja.wikipedia.org/wiki/イメーション "wikilink")株式会社の医療市場向けシステムインテグレーション事業を譲受）を吸収合併\[3\]

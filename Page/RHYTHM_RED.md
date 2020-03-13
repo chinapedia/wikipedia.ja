@@ -7,13 +7,13 @@
 
 レコーディングは「**THE POINT OF LOVERS' NIGHT**」以外は日本国内の[一口坂スタジオ](../Page/一口坂スタジオ.md "wikilink")で全て行われ、国外の著名なミュージシャンであるや[ブラッド・ギルス](../Page/ブラッド・ギルス.md "wikilink")、[デヴィッド・"クレム"・クレムソンが参加している](https://ja.wikipedia.org/wiki/クレム・クレムソン "wikilink")。音楽性としては[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")の影響が大きく、1曲目の「**TIME TO COUNT DOWN**」のリズムなどは[スラッシュメタル](../Page/スラッシュメタル.md "wikilink")に近い。「**SECRET RHYTHM**」はダンサブルなインストゥルメンタルナンバーとなっている。
 
-先行シングルとして[マクセル](https://ja.wikipedia.org/wiki/日立マクセル "wikilink")[カセットテープの](../Page/コンパクトカセット.md "wikilink")[コマーシャルソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")として使用された「[THE POINT OF LOVERS' NIGHT](../Page/THE_POINT_OF_LOVERS'_NIGHT.md "wikilink")」および「[TIME TO COUNT DOWN](../Page/TIME_TO_COUNT_DOWN.md "wikilink")」を収録している他、[ハウス食品](../Page/ハウス食品.md "wikilink")「O'ZACK」のコマーシャルソングとして使用された「[RHYTHM RED BEAT BLACK](../Page/RHYTHM_RED_BEAT_BLACK.md "wikilink")」が後に[リカット](../Page/リカット.md "wikilink")シングルとしてリリースされている。
+先行シングルとして[マクセル](https://ja.wikipedia.org/wiki/日立マクセル "wikilink")[カセットテープの](../Page/コンパクトカセット.md "wikilink")[コマーシャルソング](../Page/コマーシャルソング.md "wikilink")として使用された「[THE POINT OF LOVERS' NIGHT](../Page/THE_POINT_OF_LOVERS'_NIGHT.md "wikilink")」および「[TIME TO COUNT DOWN](../Page/TIME_TO_COUNT_DOWN.md "wikilink")」を収録している他、[ハウス食品](../Page/ハウス食品.md "wikilink")「O'ZACK」のコマーシャルソングとして使用された「[RHYTHM RED BEAT BLACK](../Page/RHYTHM_RED_BEAT_BLACK.md "wikilink")」が後に[リカット](../Page/リカット.md "wikilink")シングルとしてリリースされている。
 
-[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")では最高位1位を獲得し、売り上げ枚数は約60万枚と前作に匹敵する結果となった。同年12月10より本作を受けてのツアー「[TM NETWORK RHYTHM RED TMN TOUR](https://ja.wikipedia.org/wiki/TM_NETWORK_RHYTHM_RED_TMN_TOUR "wikilink")」が敢行された。
+[オリコンチャート](../Page/オリコンチャート.md "wikilink")では最高位1位を獲得し、売り上げ枚数は約60万枚と前作に匹敵する結果となった。同年12月10より本作を受けてのツアー「[TM NETWORK RHYTHM RED TMN TOUR](https://ja.wikipedia.org/wiki/TM_NETWORK_RHYTHM_RED_TMN_TOUR "wikilink")」が敢行された。
 
 ## 背景
 
-1989年に入り、TM NETWORKは[4月15日](../Page/4月15日.md "wikilink")にリプロダクトシングルとして「[COME ON EVERYBODY (with Nile Rodgers)](../Page/COME_ON_EVERYBODY_\(with_Nile_Rodgers\).md "wikilink")」、「[KISS YOU (KISS JAPAN)](../Page/KISS_YOU_\(KISS_JAPAN\).md "wikilink")」、「[GET WILD '89](../Page/GET_WILD_'89.md "wikilink")」の3枚のシングルを同時リリース、[5月12日](../Page/5月12日.md "wikilink")にはリプロダクトアルバム『[DRESS](https://ja.wikipedia.org/wiki/DRESS_\(TM_NETWORKのアルバム\) "wikilink")』をリリースした。
+1989年に入り、TM NETWORKは[4月15日](../Page/4月15日.md "wikilink")にリプロダクトシングルとして「[COME ON EVERYBODY (with Nile Rodgers)](../Page/COME_ON_EVERYBODY_\(with_Nile_Rodgers\).md "wikilink")」、「[KISS YOU (KISS JAPAN)](../Page/KISS_YOU_\(KISS_JAPAN\).md "wikilink")」、「[GET WILD '89](../Page/GET_WILD_'89.md "wikilink")」の3枚のシングルを同時リリース、[5月12日](../Page/5月12日.md "wikilink")にはリプロダクトアルバム『[DRESS](../Page/DRESS_\(TM_NETWORKのアルバム\).md "wikilink")』をリリースした。
 
 また、TM NETWORKの名義でリリースしたアルバム『[CAROL 〜A DAY IN A GIRL'S LIFE 1991〜](../Page/CAROL_〜A_DAY_IN_A_GIRL'S_LIFE_1991〜.md "wikilink")』を受け、「[TM NETWORK TOUR '88〜'89 CAROL 〜A DAY IN A GIRL'S LIFE 1991〜](../Page/TM_NETWORK_TOUR_'88〜'89_CAROL_〜A_DAY_IN_A_GIRL'S_LIFE_1991〜.md "wikilink")」と題したコンサートツアーを[12月9日](../Page/12月9日.md "wikilink")の[名古屋市民会館](../Page/名古屋市民会館.md "wikilink")から翌1989年[8月18日](../Page/8月18日.md "wikilink")の[大阪厚生年金会館](https://ja.wikipedia.org/wiki/大阪厚生年金会館 "wikilink")まで、25都市全63公演敢行した\[1\]。さらに前述のツアーの追加公演として、[8月25日](../Page/8月25日.md "wikilink")、[8月26日](../Page/8月26日.md "wikilink")の[東京ベイNKホール](../Page/東京ベイNKホール.md "wikilink")と[8月29日](../Page/8月29日.md "wikilink")、[8月30日](../Page/8月30日.md "wikilink")の[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")にて「[TM NETWORK CAROL TOUR FINAL CAMP FANKS\!\! '89](../Page/TM_NETWORK_CAROL_TOUR_FINAL_CAMP_FANKS!!_'89.md "wikilink")」と題したコンサートツアーを2都市全4公演敢行した\[2\]。
 
@@ -49,7 +49,7 @@
 
 本作の音楽性は[X JAPANや](../Page/X_JAPAN.md "wikilink")[BUCK-TICK](../Page/BUCK-TICK.md "wikilink")、[B'z](../Page/B'z.md "wikilink")、[UNICORN](../Page/UNICORN.md "wikilink")、[THE BLUE HEARTSなどがブレイクし](../Page/THE_BLUE_HEARTS.md "wikilink")、[第二次バンドブームが発生した事による影響があった他](https://ja.wikipedia.org/wiki/バンドブーム#第二次バンドブーム "wikilink")、元々小室は[ガンズ・アンド・ローゼズ](https://ja.wikipedia.org/wiki/ガンズ・アンド・ローゼズ "wikilink")や[モトリー・クルー](../Page/モトリー・クルー.md "wikilink")などのハードロックを愛聴していた事もあり、TMNへのリニューアルと共にハードなロックサウンドのアルバムを製作する事となった\[18\]。本作に関して小室は「吉と出るか凶と出るかというギャンブル性はあった」と述べている\[19\]。
 
-2曲目「69/99」ではイントロで[フェラーリ](../Page/フェラーリ.md "wikilink")のエンジン音をサンプリングしており、録音し終えた後に100万円程の高価なマイクが故障した\[20\]。3曲目「RHYTHM RED BEAT BLACK」はハードロックに寄りすぎた内容のため、売り上げ不振に対する恐怖感からダンスミュージックを入れるために製作された\[21\]。また、同曲が本作で一番最後にレコーディングされた曲となった\[22\]。4曲目「GOOD MORNING YESTERDAY」はハードディスクレコーディングだからこそ完成した曲であるという\[23\]。5曲目「SECRET RHYTHM」はモトリー・クルーと[TOTOからの影響で製作された曲であるが](../Page/TOTO_\(バンド\).md "wikilink")、同時期に[ケミカル・ブラザーズ](https://ja.wikipedia.org/wiki/ケミカル・ブラザーズ "wikilink")も似たようなアプローチの曲を発表していた小室は述べている\[24\]。7曲目「BURNIN' STREET」はライブにおいてダンス用のナンバーとして使用された\[25\]。9曲目「TENDER IS THE NIGHT」は坂元の詞に強く影響されて製作した曲であるという\[26\]。11曲目「THE POINT OF LOVERS' NIGHT」はマクセルのコマーシャルソングとして製作された曲であり、歌詞中においてカセットテープと関連付けるために「電話ボックス」という言葉が使用された\[27\]。小室は同曲に関して「弾きながら、自分のなかで、はじめてコード進行が面白いなと思った曲」、「特にBメロとかの作り方は面白かったですね」と述べている\[28\]。
+2曲目「69/99」ではイントロで[フェラーリ](../Page/フェラーリ.md "wikilink")のエンジン音をサンプリングしており、録音し終えた後に100万円程の高価なマイクが故障した\[20\]。3曲目「RHYTHM RED BEAT BLACK」はハードロックに寄りすぎた内容のため、売り上げ不振に対する恐怖感からダンスミュージックを入れるために製作された\[21\]。また、同曲が本作で一番最後にレコーディングされた曲となった\[22\]。4曲目「GOOD MORNING YESTERDAY」はハードディスクレコーディングだからこそ完成した曲であるという\[23\]。5曲目「SECRET RHYTHM」はモトリー・クルーと[TOTOからの影響で製作された曲であるが](../Page/TOTO_\(バンド\).md "wikilink")、同時期に[ケミカル・ブラザーズ](../Page/ケミカル・ブラザーズ.md "wikilink")も似たようなアプローチの曲を発表していた小室は述べている\[24\]。7曲目「BURNIN' STREET」はライブにおいてダンス用のナンバーとして使用された\[25\]。9曲目「TENDER IS THE NIGHT」は坂元の詞に強く影響されて製作した曲であるという\[26\]。11曲目「THE POINT OF LOVERS' NIGHT」はマクセルのコマーシャルソングとして製作された曲であり、歌詞中においてカセットテープと関連付けるために「電話ボックス」という言葉が使用された\[27\]。小室は同曲に関して「弾きながら、自分のなかで、はじめてコード進行が面白いなと思った曲」、「特にBメロとかの作り方は面白かったですね」と述べている\[28\]。
 
 ## リリース
 
@@ -77,7 +77,7 @@ CDジャケットは初回版は箱型の紙ジャケットで表面には「**R
 
 ## チャート成績
 
-[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")では最高位1位、登場回数21回となり、売り上げ枚数は59.3万枚となった。
+[オリコンチャート](../Page/オリコンチャート.md "wikilink")では最高位1位、登場回数21回となり、売り上げ枚数は59.3万枚となった。
 
 ## 収録曲
 
@@ -272,11 +272,11 @@ CDジャケットは初回版は箱型の紙ジャケットで表面には「**R
 6.
 7.
 8.  [藤本健のDigital Audio Laboratory 『**第196回:WMAロスレスの音楽配信サイト「@MUSIC HD Sound」 ～ 小室氏とavexが提唱するHDサウンドとは? ～**』](http://av.watch.impress.co.jp/docs/20050628/dal196.htm)より。
-9.  [シンコーミュージック・エンタテイメント](https://ja.wikipedia.org/wiki/シンコーミュージック・エンタテイメント "wikilink")刊『[B-PASS](https://ja.wikipedia.org/wiki/B-PASS "wikilink") ALL AREA』Vol.6 65Pより。
+9.  [シンコーミュージック・エンタテイメント](../Page/シンコーミュージック・エンタテイメント.md "wikilink")刊『[B-PASS](https://ja.wikipedia.org/wiki/B-PASS "wikilink") ALL AREA』Vol.6 65Pより。
 10. [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊 『[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")』 1994年8月号168P-170Pより。
 11.
 12. [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊 『[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")』 1990年10月号23Pより。
-13. [ダイヤモンド社](https://ja.wikipedia.org/wiki/ダイヤモンド社 "wikilink")刊『[FM STATION](../Page/FM_STATION.md "wikilink")』1990年12月23日号13P-15Pより。
+13. [ダイヤモンド社](../Page/ダイヤモンド社.md "wikilink")刊『[FM STATION](../Page/FM_STATION.md "wikilink")』1990年12月23日号13P-15Pより。
 14. 立東社刊『KB special』1990年11月号19Pより。
 15. [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊 『[ギターブック](https://ja.wikipedia.org/wiki/ギターブック "wikilink")』 1990年12月号10P-14Pより。
 16. 『[TM NETWORK TOUR MAJOR TURN-ROUND Supported by ROJAM.COM](../Page/TM_NETWORK_TOUR_MAJOR_TURN-ROUND_Supported_by_ROJAM.COM.md "wikilink")』パンフレットより。
@@ -316,4 +316,4 @@ CDジャケットは初回版は箱型の紙ジャケットで表面には「**R
 50. 1994年4月21日放送の「[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")」終了特番より。
 51.
 52.
-53. [ダイヤモンド社](https://ja.wikipedia.org/wiki/ダイヤモンド社 "wikilink")刊『[FM STATION](../Page/FM_STATION.md "wikilink")』1990年10月28日号113Pより。
+53. [ダイヤモンド社](../Page/ダイヤモンド社.md "wikilink")刊『[FM STATION](../Page/FM_STATION.md "wikilink")』1990年10月28日号113Pより。

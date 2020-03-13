@@ -19,7 +19,7 @@
 
 2001年にはユーザのPC環境に左右されず、1つのプラットフォームに投資を集中してクオリティの高い作品を提供することを目的に、さらにはコンシューマ層の厚い一般ゲーム機市場に進出し、DVDによる高精細映像を使用した[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『Train Simulator Real』シリーズとして『[THE 山手線](../Page/Train_Simulator_Real_THE_山手線.md "wikilink")』『[THE 京浜急行](../Page/Train_Simulator_Real_THE_京浜急行.md "wikilink")』（[SCE発売](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")）。『[Train Simulator 御堂筋線](../Page/Train_Simulator_御堂筋線.md "wikilink")』『[Train Simulator+電車でGO\! 東京急行編](../Page/Train_Simulator+電車でGO!_東京急行編.md "wikilink")』『[Train Simulator 九州新幹線](https://ja.wikipedia.org/wiki/Train_Simulator_九州新幹線 "wikilink")』『[Train Simulator 京成・都営浅草・京急線](../Page/Train_Simulator_京成・都営浅草・京急線.md "wikilink")』（音楽館発売）の6作品がリリースされている。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")からは[PlayStation Portable用](../Page/PlayStation_Portable.md "wikilink")『Mobile Train Simulator＋電車でGO\! 東京急行編』『Mobile Train Simulator 京成・都営浅草・京急線』の2作品をリリースしている。
+[2005年](../Page/2005年.md "wikilink")からは[PlayStation Portable用](../Page/PlayStation_Portable.md "wikilink")『Mobile Train Simulator＋電車でGO\! 東京急行編』『Mobile Train Simulator 京成・都営浅草・京急線』の2作品をリリースしている。
 
 最新作はブルーレイディスクによるハイビジョン映像を使用できる[PLAYSTATION 3に移り](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、『[Railfan](../Page/Railfan.md "wikilink")』にタイトル名を変更。[2006年](../Page/2006年.md "wikilink")12月発売。タイトル名は音楽館が運営する鉄道関連総合情報サイト「[レールファン](http://www.railfan.ne.jp/)」から名前を採用。収録路線は[中央線快速](https://ja.wikipedia.org/wiki/中央線快速 "wikilink") [201系](https://ja.wikipedia.org/wiki/国鉄201系電車 "wikilink")、[京阪本線](../Page/京阪本線.md "wikilink")[鴨東線](../Page/京阪鴨東線.md "wikilink") [8000系](../Page/京阪8000系電車.md "wikilink")、[シカゴ・L](../Page/シカゴ・L.md "wikilink")ブラウンライン 3200系の3路線。中央線快速は同シリーズ3回目、京阪線は同2回目、国外路線は同3回目の採用となる。
 

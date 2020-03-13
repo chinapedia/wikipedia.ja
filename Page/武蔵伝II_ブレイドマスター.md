@@ -1,7 +1,7 @@
 > この記事は[II ](https://ja.wikipedia.org/wiki/II_)から翻訳されています。
 
 
-『**武蔵伝II ブレイドマスター**』（*むさしでんツー BLADE MASTER*）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")に[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")より発売された[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[アクションRPG](https://ja.wikipedia.org/wiki/アクションRPG "wikilink")ゲームソフト。
+『**武蔵伝II ブレイドマスター**』（*むさしでんツー BLADE MASTER*）は、[2005年](../Page/2005年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")に[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")より発売された[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[アクションRPG](https://ja.wikipedia.org/wiki/アクションRPG "wikilink")ゲームソフト。
 
 ## 概要
 
@@ -91,7 +91,7 @@
 ムサシには「HP」「力」「眼力」「運」といった六種類のパラメータがある。ムサシがレベルアップに到達する経験値を取得すると37ポイント前後のポイントが加算され、それをメニュー画面でプレイヤーが任意のパラメータに割り振る事でレベルアップとなる。任意に振り分けるほか強化したいポイントを指示して自動で振り分けてもらう事も可能。さらにプレイヤーが割り振らずにそのままにする事も可能で、その場合次のレベルアップ経験値に到達すると連続してレベルアップさせる事も可能。
 
   - [HP](../Page/ヒットポイント.md "wikilink")
-    HPを上昇させる。これがゼロになると[ゲームオーバー](https://ja.wikipedia.org/wiki/ゲームオーバー "wikilink")となる。HPボールのほか、[弁当](../Page/弁当.md "wikilink")や[パン](../Page/パン.md "wikilink")で回復可能。
+    HPを上昇させる。これがゼロになると[ゲームオーバー](../Page/ゲームオーバー.md "wikilink")となる。HPボールのほか、[弁当](../Page/弁当.md "wikilink")や[パン](../Page/パン.md "wikilink")で回復可能。
   - [MP](../Page/マジックポイント.md "wikilink")
     MPを上昇させる。見切り技などを使える回数が増える。MPボールのほか、弁当や[アイス](https://ja.wikipedia.org/wiki/アイス "wikilink")で回復可能。
   - 攻撃力

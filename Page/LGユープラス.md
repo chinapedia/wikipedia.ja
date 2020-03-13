@@ -1,7 +1,7 @@
 > この記事は[LG](https://ja.wikipedia.org/wiki/LG)から翻訳されています。
 
 
-**U PLUS(旧・LGテレコム)**は[大韓民国](../Page/大韓民国.md "wikilink")の[携帯電話](../Page/携帯電話.md "wikilink")事業者。[LGグループ](https://ja.wikipedia.org/wiki/LGグループ "wikilink")や海外の携帯電話事業者の出資で1997年10月にサービスを開始した。株式は[韓国取引所](https://ja.wikipedia.org/wiki/韓国証券先物取引所 "wikilink")、店頭市場部（旧･[コスダック](https://ja.wikipedia.org/wiki/KOSDAQ "wikilink")）に上場（証券コード:32640）。 [LG U+（旧・canU）ブランドを展開している](https://ja.wikipedia.org/wiki/canU "wikilink")。
+**U PLUS(旧・LGテレコム)**は[大韓民国](../Page/大韓民国.md "wikilink")の[携帯電話](../Page/携帯電話.md "wikilink")事業者。[LGグループ](../Page/LGグループ.md "wikilink")や海外の携帯電話事業者の出資で1997年10月にサービスを開始した。株式は[韓国取引所](https://ja.wikipedia.org/wiki/韓国証券先物取引所 "wikilink")、店頭市場部（旧･[コスダック](https://ja.wikipedia.org/wiki/KOSDAQ "wikilink")）に上場（証券コード:32640）。 [LG U+（旧・canU）ブランドを展開している](https://ja.wikipedia.org/wiki/canU "wikilink")。
 
 ## 合併
 

@@ -9,7 +9,7 @@
 
   - LUNKHEADのほとんどの楽曲の[作詞](../Page/作詞.md "wikilink")[作曲](../Page/作曲.md "wikilink")を担当している。
   - [愛媛県](../Page/愛媛県.md "wikilink")[新居浜市](../Page/新居浜市.md "wikilink")出身、[早稲田大学](../Page/早稲田大学.md "wikilink")[理工学部](../Page/理工学部.md "wikilink")卒。
-  - [NUMBER GIRLを敬愛しており](https://ja.wikipedia.org/wiki/NUMBER_GIRL "wikilink")、現在メインサブ共に使用している[フェンダー](https://ja.wikipedia.org/wiki/フェンダー_\(楽器メーカー\) "wikilink")・[ジャズマスター](https://ja.wikipedia.org/wiki/ジャズマスター "wikilink")は同バンドの[ギタリスト](../Page/ギタリスト.md "wikilink")、[田渕ひさ子](../Page/田渕ひさ子.md "wikilink")が使用していたことに因んでいる。スタジオが隣だった際、田渕にジャズマスターのヘッド裏にサインを入れてもらったことがある。また[thee michelle gun elephantの影響から](../Page/THEE_MICHELLE_GUN_ELEPHANT.md "wikilink")、[ザ・ジャム](../Page/ザ・ジャム.md "wikilink")等のイギリスのパンクロックも聞くようになったとブログで語っている。
+  - [NUMBER GIRLを敬愛しており](https://ja.wikipedia.org/wiki/NUMBER_GIRL "wikilink")、現在メインサブ共に使用している[フェンダー](../Page/フェンダー_\(楽器メーカー\).md "wikilink")・[ジャズマスター](https://ja.wikipedia.org/wiki/ジャズマスター "wikilink")は同バンドの[ギタリスト](../Page/ギタリスト.md "wikilink")、[田渕ひさ子](../Page/田渕ひさ子.md "wikilink")が使用していたことに因んでいる。スタジオが隣だった際、田渕にジャズマスターのヘッド裏にサインを入れてもらったことがある。また[thee michelle gun elephantの影響から](../Page/THEE_MICHELLE_GUN_ELEPHANT.md "wikilink")、[ザ・ジャム](../Page/ザ・ジャム.md "wikilink")等のイギリスのパンクロックも聞くようになったとブログで語っている。
   - 高校・大学と、推薦で入学を果たしたため、入学試験を受けたことが無い。
   - 高校時代は弓道部、大学時代は写真部であった。
   - 敬愛する漫画家は[日本橋ヨヲコ](../Page/日本橋ヨヲコ.md "wikilink")であり、彼等の楽曲「ヘヴンズドア」は同氏の作品『[G戦場ヘヴンズドア](../Page/G戦場ヘヴンズドア.md "wikilink")』からインスパイアを受けている。
@@ -67,12 +67,12 @@
       - 7月15日 - 東名阪ワンマンツアー「しれもの魂で候〜東名阪ワンマンライブ〜」を実施。17日まで全3ヶ所。
       - 11月13日 - 全国ワンマンライブツアー「SHIREMONO-DANCING TOUR 2004〜ひとりごと〜」を実施。12月4日まで全9ヶ所。
       - 12月31日 - [幕張メッセ](../Page/幕張メッセ.md "wikilink")国際展示場にて「[COUNTDOWN JAPAN 04/05](../Page/COUNTDOWN_JAPAN.md "wikilink")」に出演。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
       - 3月11日 - 全国イベントツアー「VINTAGE LEAGUE 009」（全6ヶ所）
       - 5月22日 - 「[RUSH BALL](../Page/RUSH_BALL.md "wikilink")★7」に出演。
       - 6月24日 - 全国ワンマンツアー「月とすっぴん」（全10ヶ所）
       - 7月13日 - 母校である新居浜西高校の学園祭に呼ばれ、体育館で凱旋ライブを行う。
-      - 8月5日 - [国営ひたち海浜公園](https://ja.wikipedia.org/wiki/国営ひたち海浜公園 "wikilink")にて「[ROCK IN JAPAN FESTIVAL 2005](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink")」に出演。
+      - 8月5日 - [国営ひたち海浜公園](../Page/国営ひたち海浜公園.md "wikilink")にて「[ROCK IN JAPAN FESTIVAL 2005](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink")」に出演。
       - 8月26日 - 「RUSH BALL★P」に出演。
       - 11月2日 - [セカイイチ](../Page/セカイイチ.md "wikilink")との全国ツアー《セカイランクツアー 〜ぼくらの27日間演奏〜》を開始。全国15ヶ所で15公演を行う。
       - 12月31日 - 「COUNTDOWN JAPAN 05/06」に出演。
@@ -101,7 +101,7 @@
       - 3月16日 - [新木場STUDIO COASTで](https://ja.wikipedia.org/wiki/新木場STUDIO_COAST "wikilink")「史上空前のみかん祭ワンマン×SLOW NIGHT」を開催。
       - 3月28日 - 新居浜市民文化センター・中ホールで「史上空前のみかん祭ワンマン×文セン」を開催。
       - 4月5日 - 全国ワンマンツアー「エントラン(＾3＾)-☆chu\!\!\!\!」を開始。5月31日まで全17ヶ所にて実施。
-      - 6月21日 - [藍坊主](https://ja.wikipedia.org/wiki/藍坊主 "wikilink")「aobozu TOUR 2008 〜森と共に去りぬ〜」に出演。
+      - 6月21日 - [藍坊主](../Page/藍坊主.md "wikilink")「aobozu TOUR 2008 〜森と共に去りぬ〜」に出演。
       - 7月18日 - 東名阪ワンマンツアー「ヒレをとりもどせ\!\!〜YOUはSHARK〜」を開始。21日まで全3ヶ所にて実施。
       - 8月1日 - 「ROCK IN JAPAN FESTIVAL 2008」に出演。
       - 9月20日 - 全国対バンツアー「尾ビレ vs. 背ビレ」を開始。10月18日まで全10公演。
@@ -240,7 +240,7 @@
   - いわゆる[下北系](https://ja.wikipedia.org/wiki/下北系 "wikilink")出身のアーティストであり、他バンドとの交流は広い。[つばき](https://ja.wikipedia.org/wiki/つばき "wikilink")や[UNDER THE COUNTERと比較されることも少なくないが](../Page/UNDER_THE_COUNTER.md "wikilink")、彼らとは共にツアーやライブをしたり音楽番組に出演したりと交流は深い。[ART-SCHOOL](../Page/ART-SCHOOL.md "wikilink")のメンバーとも親交があり、「Tour'07“Flora”Live\&Document」のDVDにてLUNKHEADのメンバーが見られる。また現在は、脱退した石川の代わりに、元ART-SCHOOLの桜井がサポートとして参加している。
   - 他には、[SUGIZO](../Page/SUGIZO.md "wikilink")（[LUNA SEA](../Page/LUNA_SEA.md "wikilink")、[X JAPAN](../Page/X_JAPAN.md "wikilink")）とも交流があるようで、彼からアンプを借りたこともあるという。SUGIZO自身もLUNKHEADのライブに足を運んだことがあるという\[1\]。
   - [L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の[ken](https://ja.wikipedia.org/wiki/ken "wikilink")は「白い声」を気に入っていたらしく、[SONS OF ALL PUSSYS主催のロックフェスにLUNKHEADを呼んでいる](../Page/SONS_OF_ALL_PUSSYS.md "wikilink")\[2\]。
-  - 櫻井以外のメンバー全員（石川がドラムだった頃は四人全員）が[愛媛県](../Page/愛媛県.md "wikilink")出身であり、地方色を押し出した活動も多い。「帰り途」を全編[伊予弁](https://ja.wikipedia.org/wiki/伊予弁 "wikilink")訛りで「僕らは生きる」も同様にMC部分を伊予弁で歌う、「金木犀」では「[別子の山](../Page/別子銅山.md "wikilink")」「[燧灘](../Page/燧灘.md "wikilink")」、「僕らの背中と太陽と」では「[新居浜](https://ja.wikipedia.org/wiki/新居浜 "wikilink")市民文化センター」、「消えたプレヤード」では「[国領川](../Page/国領川.md "wikilink")」といった地元の地名を歌詞に盛り込む、新居浜市民文化センターでフリーライヴを敢行、その模様を映像化してDVDをにいはま価格(2180円)でリリースする、自らが主催するライヴ・イベントを「みかん祭」と命名し[ポンジュースと提携したTシャツをはじめとしたグッズを展開するなどして](../Page/えひめ飲料.md "wikilink")、上京した後もその活動の随所で愛媛への思いを体現している。先述の[つばき](../Page/つばき_\(ロックバンド\).md "wikilink")（ヴォーカルの一色徳保が[松山市](../Page/松山市.md "wikilink")出身）とも「愛媛繋がり」としても切磋琢磨したと、過去に行われた「史上最超のみかん祭」の最終日の2マンの相手に抜擢するなど、愛媛感を演出している。
+  - 櫻井以外のメンバー全員（石川がドラムだった頃は四人全員）が[愛媛県](../Page/愛媛県.md "wikilink")出身であり、地方色を押し出した活動も多い。「帰り途」を全編[伊予弁](../Page/伊予弁.md "wikilink")訛りで「僕らは生きる」も同様にMC部分を伊予弁で歌う、「金木犀」では「[別子の山](../Page/別子銅山.md "wikilink")」「[燧灘](../Page/燧灘.md "wikilink")」、「僕らの背中と太陽と」では「[新居浜](https://ja.wikipedia.org/wiki/新居浜 "wikilink")市民文化センター」、「消えたプレヤード」では「[国領川](../Page/国領川.md "wikilink")」といった地元の地名を歌詞に盛り込む、新居浜市民文化センターでフリーライヴを敢行、その模様を映像化してDVDをにいはま価格(2180円)でリリースする、自らが主催するライヴ・イベントを「みかん祭」と命名し[ポンジュースと提携したTシャツをはじめとしたグッズを展開するなどして](../Page/えひめ飲料.md "wikilink")、上京した後もその活動の随所で愛媛への思いを体現している。先述の[つばき](../Page/つばき_\(ロックバンド\).md "wikilink")（ヴォーカルの一色徳保が[松山市](../Page/松山市.md "wikilink")出身）とも「愛媛繋がり」としても切磋琢磨したと、過去に行われた「史上最超のみかん祭」の最終日の2マンの相手に抜擢するなど、愛媛感を演出している。
   - 2019年6月7日、公式[LINE BLOGにて小高が](https://ja.wikipedia.org/wiki/LINE_BLOG "wikilink")「LUNKHEAD結成20年。何もおめでたくはない。」「2か月を切ってもツアーファイナルのチケットが半分も売れていない。」などと悲痛な投稿をし、ファンや業界関係者をざわつかせた。\[3\]このツアーの動員次第で今後の活動や事務所存続の行方までも変わるかもしれないという危機的状況に、サブスク解禁やライブ中の撮影許可など新たな試みを行った。一部ファンによるチケットのまとめ買い騒動もあったが（これも最終的には全て売れた）、結果、無事にツアーファイナルの恵比寿LIQUIDROOMのチケットは完売し、次のツアーへと活動は続いていくこととなった。\[4\]\[5\]
 
 ## ディスコグラフィー
@@ -262,7 +262,7 @@
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a><a href="../Page/10月15日.md" title="wikilink">10月15日</a><br />
-<a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/5月11日.md" title="wikilink">5月11日</a>（再発）</p></td>
+<a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/5月11日.md" title="wikilink">5月11日</a>（再発）</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/千川通りは夕風だった" title="wikilink">千川通りは夕風だった</a></strong></p></td>
 <td><p>CHKY-0001（廃盤） bounce-1003（再発盤）</p></td>
 <td><p>128位</p></td>
@@ -460,7 +460,7 @@
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/5月11日.md" title="wikilink">5月11日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/5月11日.md" title="wikilink">5月11日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/月と手のひら" title="wikilink">月と手のひら</a></strong></p></td>
 <td><p>VICL-61628</p></td>
 <td><p>44位</p></td>
@@ -485,7 +485,7 @@ VICL-61963（通常盤）</p></td>
 </tr>
 <tr class="odd">
 <td><p>5th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="https://ja.wikipedia.org/wiki/4月16日" title="wikilink">4月16日</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/4月16日.md" title="wikilink">4月16日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/孵化_(アルバム)" title="wikilink">孵化</a></strong></p></td>
 <td><p>VICL-62799</p></td>
 <td><p>59位</p></td>
@@ -565,11 +565,11 @@ VICL-61963（通常盤）</p></td>
 
 ### ミニアルバム
 
-|     | 発売日                                                                                           | タイトル                                                                 | 規格品番       | オリコン | 備考            |
-| --- | --------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ---------- | ---- | ------------- |
-| 1st | [2003年](../Page/2003年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink")                      | **[影と煙草と僕と青](https://ja.wikipedia.org/wiki/影と煙草と僕と青 "wikilink")**    | BWCP-10020 | \-   |               |
-| 2nd | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月26日](../Page/10月26日.md "wikilink") | **[プルケリマ](https://ja.wikipedia.org/wiki/プルケリマ_\(アルバム\) "wikilink")** | VICL-61756 | 86位  |               |
-| 3rd | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月20日](../Page/1月20日.md "wikilink")   | **[V0X e.p.](https://ja.wikipedia.org/wiki/V0X_e.p. "wikilink")**    | VICB-60051 | 63位  | 石川脱退前最後のアルバム。 |
+|     | 発売日                                                                                         | タイトル                                                                 | 規格品番       | オリコン | 備考            |
+| --- | ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ---------- | ---- | ------------- |
+| 1st | [2003年](../Page/2003年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink")                    | **[影と煙草と僕と青](https://ja.wikipedia.org/wiki/影と煙草と僕と青 "wikilink")**    | BWCP-10020 | \-   |               |
+| 2nd | [2005年](../Page/2005年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink")                  | **[プルケリマ](https://ja.wikipedia.org/wiki/プルケリマ_\(アルバム\) "wikilink")** | VICL-61756 | 86位  |               |
+| 3rd | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月20日](../Page/1月20日.md "wikilink") | **[V0X e.p.](https://ja.wikipedia.org/wiki/V0X_e.p. "wikilink")**    | VICB-60051 | 63位  | 石川脱退前最後のアルバム。 |
 
 ### ベストアルバム
 
@@ -846,7 +846,7 @@ DVD「VIDEO CLIPS Vol.2」を付属した2枚組。</p></td>
 <tr class="even">
 <td><p><a href="../Page/下山天.md" title="wikilink">下山天</a></p></td>
 <td><p>「きらりいろ」<br />
-「夏の匂い」(出演:<a href="https://ja.wikipedia.org/wiki/多部未華子" title="wikilink">多部未華子</a>・<a href="https://ja.wikipedia.org/wiki/北条隆博" title="wikilink">北条隆博</a>)</p></td>
+「夏の匂い」(出演:<a href="https://ja.wikipedia.org/wiki/多部未華子" title="wikilink">多部未華子</a>・<a href="../Page/北条隆博.md" title="wikilink">北条隆博</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/上乗直子" title="wikilink">上乗直子</a></p></td>

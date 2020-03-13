@@ -5,7 +5,7 @@
 
 ## 解説
 
-  - [細野晴臣](../Page/細野晴臣.md "wikilink")監修『[YMO GO HOME\!](https://ja.wikipedia.org/wiki/YMO_GO_HOME! "wikilink")』（[1999年](../Page/1999年.md "wikilink")）、[高橋幸宏](../Page/高橋幸宏.md "wikilink")監修『[ONE MORE YMO](https://ja.wikipedia.org/wiki/ONE_MORE_YMO "wikilink")』（[2000年](../Page/2000年.md "wikilink")）に続き、YMO結成25周年・散開20周年・再生10周年記念リリースのラストを飾るアルバムとして、[坂本龍一](../Page/坂本龍一.md "wikilink")が監修・選曲を担当した。
+  - [細野晴臣](../Page/細野晴臣.md "wikilink")監修『[YMO GO HOME\!](../Page/YMO_GO_HOME!.md "wikilink")』（[1999年](../Page/1999年.md "wikilink")）、[高橋幸宏](../Page/高橋幸宏.md "wikilink")監修『[ONE MORE YMO](../Page/ONE_MORE_YMO.md "wikilink")』（[2000年](../Page/2000年.md "wikilink")）に続き、YMO結成25周年・散開20周年・再生10周年記念リリースのラストを飾るアルバムとして、[坂本龍一](../Page/坂本龍一.md "wikilink")が監修・選曲を担当した。
   - ボーナストラックとして、[1982年](../Page/1982年.md "wikilink")に唯一出演した音楽番組「[ミュージックフェア](../Page/ミュージックフェア.md "wikilink")」で演奏された「恋人よ我に帰れ(Lover Come Back To Me)」、坂本のソロ曲として制作された[SEIKOのCMソング](../Page/セイコーホールディングス.md "wikilink")「BEHIND THE MASK(CM Version)」が収録されている。また、未CD化の「開け心－磁性紀－」（ステレオヴァージョン）\[1\]やアルバム未収録の「M-16」なども収録された。
   - 「THE END OF ASIA」はアルバム『YMO GO HOME\!』収録のクリーン・イントロ・バージョン、「SOLID STATE SURVIVOR」は初登場のフェイド・アウトが長いロング・バージョン。
   - Sony Musicの公式HPに掲載された坂本のインタビューによれば、選曲に際し「（特定の作曲者に）偏らないように気を配った」という。
@@ -45,10 +45,10 @@
         シングル「[テクノポリス](../Page/テクノポリス_\(YMOの曲\).md "wikilink")」より（オリジナルアルバム未収録）。
 6.  **[インソムニア](https://ja.wikipedia.org/wiki/インソムニア_\(YMOの曲\) "wikilink")** - *INSOMNIA*
       -
-        アルバム『[ソリッド・ステイト・サヴァイヴァー](https://ja.wikipedia.org/wiki/ソリッド・ステイト・サヴァイヴァー "wikilink")』より。
+        アルバム『[ソリッド・ステイト・サヴァイヴァー](../Page/ソリッド・ステイト・サヴァイヴァー.md "wikilink")』より。
 7.  **[ライディーン](../Page/ライディーン_\(YMOの曲\).md "wikilink")** - *RYDEEN*
       -
-        アルバム『[ソリッド・ステイト・サヴァイヴァー](https://ja.wikipedia.org/wiki/ソリッド・ステイト・サヴァイヴァー "wikilink")』より。シングルとしてもリリース。
+        アルバム『[ソリッド・ステイト・サヴァイヴァー](../Page/ソリッド・ステイト・サヴァイヴァー.md "wikilink")』より。シングルとしてもリリース。
 8.  **[ビハインド・ザ・マスク](../Page/ビハインド・ザ・マスク_\(曲\).md "wikilink")** - *BEHIND THE MASK*
       -
         アルバム『ソリッド・ステイト・サヴァイヴァー』より。

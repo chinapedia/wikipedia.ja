@@ -14,9 +14,9 @@
   - [2001年](../Page/2001年.md "wikilink")4月、毎週[水曜日](../Page/水曜日.md "wikilink")1時台（JST）で「**BEST HIT TV**」としてスタート（30分間）。当時は一部地域ネット（遅れて[KBS京都などの](../Page/京都放送.md "wikilink")[独立U局でも放送](https://ja.wikipedia.org/wiki/全国独立UHF放送協議会 "wikilink")）の深夜番組ながら人気アーティストが多数ゲスト出演したり、「スナックゆかり」などのコーナーで評判になった。同年10月の[ゴールデンタイム](https://ja.wikipedia.org/wiki/ゴールデンタイム "wikilink")でのスペシャルには[ダウンタウンや](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink")[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")らがゲスト出演している。
   - [2002年](../Page/2002年.md "wikilink")4月17日に「**Matthew's Best Hit TV**」と改題し、毎週[水曜日](../Page/水曜日.md "wikilink")23:15 - 翌0:10(JST)の55分間([ネオバラ水曜1部](https://ja.wikipedia.org/wiki/ネオバラエティ "wikilink"))に昇格・拡大。[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")と連動した[特番を放送するなど](../Page/特別番組.md "wikilink")、この頃はまだ音楽番組に近い要素を残していた。
   - [2003年](../Page/2003年.md "wikilink")にはマシューが[ソフィア・コッポラ](../Page/ソフィア・コッポラ.md "wikilink")が監督した『[ロスト・イン・トランスレーション](../Page/ロスト・イン・トランスレーション.md "wikilink")』に、番組そのままに出演し、[ビル・マーレーと共演した](../Page/ビル・マーレイ.md "wikilink")。この作品は第76回アカデミー賞のオリジナル脚本賞にノミネートされ、アカデミー賞の発表会場では作品紹介としてマシューの出演パートが頻繁に流れた。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")4月6日に「**Matthew's Best Hit TV+**」と改題・リニューアル。スタッフの一部が入れ替わり、音楽番組の枠組みではなくなる。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")6月30日 20:00 - 21:48（JST）でゴールデンタイムの特番「日本全国なまり頂上決戦\!芸能人が方言丸出しだべさSP」が放送され、高視聴率（17.1%）を記録。それを受けて[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")10月18日、毎週[火曜日](../Page/火曜日.md "wikilink")19:00 - 19:54（JST）のゴールデンタイムへの昇格した。初回は2時間特番だった。なお、[テレビ朝日](../Page/テレビ朝日.md "wikilink")と[北海道テレビでは](../Page/北海道テレビ放送.md "wikilink")、放送後の19:54 - 20:00に裏話と次週予告を含めた[ミニ番組](../Page/ミニ番組.md "wikilink")「別冊マシュー」も放送。
-  - だが、ゴールデンレギュラー後は[視聴率](../Page/視聴率.md "wikilink")は苦戦し、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")12月27日 18:30 - 20:54(JST)に「全国なまり東西大決戦\! 郷土の愛を叫ぶだべさSP」を放送したが、これも10%とあまり振るわなかった。視聴率は2006年になり6%台とさらに低迷。「なまり亭」でも視聴率がとれず、グルメ企画が大半となってしまった。結局「別冊マシュー」は2月14日に終了し、火曜7時のゴールデン枠も3月14日で打ち切りになった。ただ、放送は深夜に降格して続行されたため、最終回の新聞欄には「（終）」と表記されなかった。3月14日のゴールデン枠最終回では、深夜枠移動を知らせるエンディングにマシューが好きな映画『[時をかける少女（原田知世ヴァージョン）](../Page/時をかける少女_\(1983年の映画\).md "wikilink")』のラストシーンの[パロディ](../Page/パロディ.md "wikilink")を行った。
+  - [2005年](../Page/2005年.md "wikilink")4月6日に「**Matthew's Best Hit TV+**」と改題・リニューアル。スタッフの一部が入れ替わり、音楽番組の枠組みではなくなる。
+  - [2005年](../Page/2005年.md "wikilink")6月30日 20:00 - 21:48（JST）でゴールデンタイムの特番「日本全国なまり頂上決戦\!芸能人が方言丸出しだべさSP」が放送され、高視聴率（17.1%）を記録。それを受けて[2005年](../Page/2005年.md "wikilink")10月18日、毎週[火曜日](../Page/火曜日.md "wikilink")19:00 - 19:54（JST）のゴールデンタイムへの昇格した。初回は2時間特番だった。なお、[テレビ朝日](../Page/テレビ朝日.md "wikilink")と[北海道テレビでは](../Page/北海道テレビ放送.md "wikilink")、放送後の19:54 - 20:00に裏話と次週予告を含めた[ミニ番組](../Page/ミニ番組.md "wikilink")「別冊マシュー」も放送。
+  - だが、ゴールデンレギュラー後は[視聴率](../Page/視聴率.md "wikilink")は苦戦し、[2005年](../Page/2005年.md "wikilink")12月27日 18:30 - 20:54(JST)に「全国なまり東西大決戦\! 郷土の愛を叫ぶだべさSP」を放送したが、これも10%とあまり振るわなかった。視聴率は2006年になり6%台とさらに低迷。「なまり亭」でも視聴率がとれず、グルメ企画が大半となってしまった。結局「別冊マシュー」は2月14日に終了し、火曜7時のゴールデン枠も3月14日で打ち切りになった。ただ、放送は深夜に降格して続行されたため、最終回の新聞欄には「（終）」と表記されなかった。3月14日のゴールデン枠最終回では、深夜枠移動を知らせるエンディングにマシューが好きな映画『[時をかける少女（原田知世ヴァージョン）](../Page/時をかける少女_\(1983年の映画\).md "wikilink")』のラストシーンの[パロディ](../Page/パロディ.md "wikilink")を行った。
 
 <!-- end list -->
 
@@ -155,7 +155,7 @@
 
   - [はしのえみ](../Page/はしのえみ.md "wikilink")　[鹿児島県](../Page/鹿児島県.md "wikilink")[鹿児島市](../Page/鹿児島市.md "wikilink")出身
   - [八代亜紀](../Page/八代亜紀.md "wikilink")　[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")[八代市](../Page/八代市.md "wikilink")出身
-  - [島崎和歌子](https://ja.wikipedia.org/wiki/島崎和歌子 "wikilink")　[高知県](../Page/高知県.md "wikilink")[高知市](../Page/高知市.md "wikilink")出身
+  - [島崎和歌子](../Page/島崎和歌子.md "wikilink")　[高知県](../Page/高知県.md "wikilink")[高知市](../Page/高知市.md "wikilink")出身
   - [森下千里](https://ja.wikipedia.org/wiki/森下千里 "wikilink")　[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")出身
 
 *2005年04月14日放送*
@@ -171,7 +171,7 @@
 *2005年05月12日放送*
 
   - [杉本彩](../Page/杉本彩.md "wikilink")　[京都府](../Page/京都府.md "wikilink")[京都市](../Page/京都市.md "wikilink")出身
-  - [磯山さやか](https://ja.wikipedia.org/wiki/磯山さやか "wikilink")　[茨城県](../Page/茨城県.md "wikilink")[鉾田市](https://ja.wikipedia.org/wiki/鉾田市 "wikilink")出身
+  - [磯山さやか](https://ja.wikipedia.org/wiki/磯山さやか "wikilink")　[茨城県](../Page/茨城県.md "wikilink")[鉾田市](../Page/鉾田市.md "wikilink")出身
 
 *2005年05月26日放送*
 
@@ -232,7 +232,7 @@
 
 *2005年11月29日放送*
 
-  - [磯山さやか](https://ja.wikipedia.org/wiki/磯山さやか "wikilink")　[茨城県](../Page/茨城県.md "wikilink")[鉾田市](https://ja.wikipedia.org/wiki/鉾田市 "wikilink")出身
+  - [磯山さやか](https://ja.wikipedia.org/wiki/磯山さやか "wikilink")　[茨城県](../Page/茨城県.md "wikilink")[鉾田市](../Page/鉾田市.md "wikilink")出身
   - [星井七瀬](https://ja.wikipedia.org/wiki/星井七瀬 "wikilink")　[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")出身
   - [錦野旦](../Page/錦野旦.md "wikilink")　[大分県](../Page/大分県.md "wikilink")[大分市](../Page/大分市.md "wikilink")出身
   - [ISSA](https://ja.wikipedia.org/wiki/ISSA_\(歌手\) "wikilink")　[沖縄県](../Page/沖縄県.md "wikilink")[沖縄市](../Page/沖縄市.md "wikilink")出身
@@ -268,7 +268,7 @@
   - [西村知美](https://ja.wikipedia.org/wiki/西村知美 "wikilink")　[山口県](../Page/山口県.md "wikilink")[宇部市](https://ja.wikipedia.org/wiki/宇部市 "wikilink")出身
   - [浅香唯](https://ja.wikipedia.org/wiki/浅香唯 "wikilink")　[宮崎県](../Page/宮崎県.md "wikilink")出身
   - [松居一代](../Page/松居一代.md "wikilink")　[滋賀県](../Page/滋賀県.md "wikilink")出身
-  - [千代大海](https://ja.wikipedia.org/wiki/千代大海龍二 "wikilink")　[大分県](../Page/大分県.md "wikilink")出身
+  - [千代大海](../Page/千代大海龍二.md "wikilink")　[大分県](../Page/大分県.md "wikilink")出身
 
 ### 早口道場
 
@@ -334,7 +334,7 @@
 
 ## スタッフ
 
-  - [構成](../Page/放送作家.md "wikilink")：吉井三奈子、[長谷川朝二](https://ja.wikipedia.org/wiki/長谷川朝二 "wikilink") ／ たちばなひとなり、[北本かつら](../Page/北本かつら.md "wikilink")、[松本真一](../Page/松本真一_\(放送作家\).md "wikilink")、塩野智章、[桝本壮志](https://ja.wikipedia.org/wiki/桝本壮志 "wikilink")、いけだかずな
+  - [構成](../Page/放送作家.md "wikilink")：吉井三奈子、[長谷川朝二](https://ja.wikipedia.org/wiki/長谷川朝二 "wikilink") ／ たちばなひとなり、[北本かつら](../Page/北本かつら.md "wikilink")、[松本真一](../Page/松本真一_\(放送作家\).md "wikilink")、塩野智章、[桝本壮志](../Page/桝本壮志.md "wikilink")、いけだかずな
   - [TD](https://ja.wikipedia.org/wiki/テクニカルディレクター_\(テレビ\) "wikilink")：後藤太郎→横関正人
   - カメラ：横関正人→中司武史
   - 音声：井之川和穂→柳原健司

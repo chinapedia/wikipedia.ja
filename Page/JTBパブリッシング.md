@@ -13,7 +13,7 @@
 
 ## 出版物を巡るトラブル
 
-同社が[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")から発行した「JTBキャンブックス [韓国鉄道の旅](../Page/大韓民国.md "wikilink")」に掲載されていた[地図](../Page/地図.md "wikilink")で、[日本海](../Page/日本海.md "wikilink")の表記が「[東海](https://ja.wikipedia.org/wiki/日本海呼称問題 "wikilink")」となっていたことが、[2012年](../Page/2012年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に判明した。同社はこの本について、同年[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")付で[絶版](../Page/絶版.md "wikilink")とし、書店から回収した\[1\]\[2\]\[3\]。
+同社が[2005年](../Page/2005年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")から発行した「JTBキャンブックス [韓国鉄道の旅](../Page/大韓民国.md "wikilink")」に掲載されていた[地図](../Page/地図.md "wikilink")で、[日本海](../Page/日本海.md "wikilink")の表記が「[東海](https://ja.wikipedia.org/wiki/日本海呼称問題 "wikilink")」となっていたことが、[2012年](../Page/2012年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に判明した。同社はこの本について、同年[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")付で[絶版](../Page/絶版.md "wikilink")とし、書店から回収した\[1\]\[2\]\[3\]。
 
 ## 脚注
 

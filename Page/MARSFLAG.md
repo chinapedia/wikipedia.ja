@@ -15,15 +15,15 @@
 
 ## 終了したサービス
 
-（現在はサービスしていない）ポータルサーチエンジンは[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（[平成](../Page/平成.md "wikilink")17年）[3月9日](../Page/3月9日.md "wikilink")からβ版が開始。[2006年](../Page/2006年.md "wikilink")（平成18年）[5月8日](../Page/5月8日.md "wikilink")に正式サービスを開始した。イベントには[眞鍋かをり](https://ja.wikipedia.org/wiki/眞鍋かをり "wikilink")を起用した。2012年(平成24年)5月31日ポータルサーチエンジンは Enterprise B2B Serviceに転用することで発展的終了。
+（現在はサービスしていない）ポータルサーチエンジンは[2005年](../Page/2005年.md "wikilink")（[平成](../Page/平成.md "wikilink")17年）[3月9日](../Page/3月9日.md "wikilink")からβ版が開始。[2006年](../Page/2006年.md "wikilink")（平成18年）[5月8日](../Page/5月8日.md "wikilink")に正式サービスを開始した。イベントには[眞鍋かをり](https://ja.wikipedia.org/wiki/眞鍋かをり "wikilink")を起用した。2012年(平成24年)5月31日ポータルサーチエンジンは Enterprise B2B Serviceに転用することで発展的終了。
 
 過去には日本初のCloud型Serviceである、BookMark管理の FACE(MARK AGENT)も提供していた。
 
 ## 沿革
 
   - 1998年 代表者の[武井信也](https://ja.wikipedia.org/wiki/武井信也 "wikilink")らが創業（当時の社名はbe void）
-  - 2004年 [プロトコーポレーション](https://ja.wikipedia.org/wiki/プロトコーポレーション "wikilink")の資本参加(5億円)を受ける
-  - 2005年 [SBIホールディングス](../Page/SBIホールディングス.md "wikilink")、[ジャフコ](https://ja.wikipedia.org/wiki/ジャフコ "wikilink")をはじめとする国内ベンチャーキャピタルからの投資(6億円)を得る
+  - 2004年 [プロトコーポレーション](../Page/プロトコーポレーション.md "wikilink")の資本参加(5億円)を受ける
+  - 2005年 [SBIホールディングス](../Page/SBIホールディングス.md "wikilink")、[ジャフコ](../Page/ジャフコ.md "wikilink")をはじめとする国内ベンチャーキャピタルからの投資(6億円)を得る
   - 2011年 代表者の[武井信也](https://ja.wikipedia.org/wiki/武井信也 "wikilink")を中心とした経営陣によるMBO([マネジメント・バイアウト](../Page/マネジメント・バイアウト.md "wikilink"))を完了させ、独立した企業グループへ戻る
   - 2012年 ポータル検索サービス marsflag.com を 5/31 をもって終了。企業向けを核としたグローバル展開への注力を発表
   - 2013年 シンガポールオフィス 開設

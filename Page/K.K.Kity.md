@@ -25,7 +25,7 @@
   - Private Hearts
     JASRAC作品コード：101-0013-0。結成時に堂本光一がJ-Supportのために作った楽曲。のちに[NEWSの曲として](https://ja.wikipedia.org/wiki/NEWS_\(グループ\) "wikilink")、シングル『[NEWSニッポン](../Page/NEWSニッポン.md "wikilink")』に収録される\[8\]。NEWSの初のコンサート「A Happy "NEWS" year 2004新春」で披露され、バックダンサーとして飯田・武内・横尾が参加した映像がDVD『[NEWSニッポン0304](https://ja.wikipedia.org/wiki/NEWSニッポン#NEWSニッポン0304 "wikilink")』に収録されている。また、2006年には堂本自身が「[UNBREAKABLE](https://ja.wikipedia.org/wiki/Deep_in_your_heart/+MILLION_but_-LOVE "wikilink")」というタイトルで[セルフカバー](../Page/セルフカバー.md "wikilink")している他、2012年6月発売の『[NEWS BEST](https://ja.wikipedia.org/wiki/NEWS_BEST "wikilink")』初回盤Disc2『UNRELEASED BEST』に小山のソロ曲として収録されている。
   - 千年のLove Song\[9\]
-    JASRAC作品コード：109-9457-2。後に、[Kis-My-Ft2](https://ja.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")が歌うようになる\[10\]。
+    JASRAC作品コード：109-9457-2。後に、[Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")が歌うようになる\[10\]。
 
 ## 脚注
 

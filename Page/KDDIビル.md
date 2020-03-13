@@ -37,7 +37,7 @@
 
 ## その他
 
-  - ビル手前の通路や外観は時おり映画・ドラマ等の撮影として利用されており[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に上映された『[仮面ライダー THE FIRST](https://ja.wikipedia.org/wiki/仮面ライダー_THE_FIRST "wikilink")』等多くのドラマ等で登場している。また、『[スーパー戦隊シリーズ](https://ja.wikipedia.org/wiki/スーパー戦隊シリーズ "wikilink")』ではしばしば敵の組織に破壊されている。
+  - ビル手前の通路や外観は時おり映画・ドラマ等の撮影として利用されており[2005年](../Page/2005年.md "wikilink")に上映された『[仮面ライダー THE FIRST](../Page/仮面ライダー_THE_FIRST.md "wikilink")』等多くのドラマ等で登場している。また、『[スーパー戦隊シリーズ](https://ja.wikipedia.org/wiki/スーパー戦隊シリーズ "wikilink")』ではしばしば敵の組織に破壊されている。
   - ビル屋上では[TM NETWORKのコンサートツアー](../Page/TM_NETWORK.md "wikilink")「KISS JAPAN DANCING DYNA-MIX」（[1988年](../Page/1988年.md "wikilink")）のオープニングビデオで、TM NETWORKの3人がビルの屋上で佇む姿が収録される（ツアーのスポンサーとしてKDDが協賛していた関係から）等、アーティストのプロモーションビデオに利用される場面もある。
   - 正面入り口付近には、竣工の際に[デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink")の[グレート・ノーザン・テレグラフ社から贈られた記念碑がある](https://ja.wikipedia.org/wiki/大北電信会社 "wikilink")。
   - 冬季にビル上部から氷塊が落ちてくることがあり、注意を呼びかける看板が設置されている。

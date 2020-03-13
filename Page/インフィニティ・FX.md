@@ -19,7 +19,7 @@
 
 [スタイリングのテーマは](../Page/インダストリアルデザイン.md "wikilink")「バイオニックチーター」。野性の[チーター](../Page/チーター.md "wikilink")が持つ躍動感と優美さを狙っている。デザイン開発は、日産テクニカルセンターで行われた。2001年に初めて発表されたFXコンセプトは、翌2002年には大きく姿を変えており、市販車のスタイリングは2002年のものをベースとしている。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に[リアコンビランプが](../Page/尾灯.md "wikilink")[LED](../Page/発光ダイオード.md "wikilink")+クリアーレンズに変更され、[2006年](../Page/2006年.md "wikilink")には[フロントグリル](https://ja.wikipedia.org/wiki/フロントグリル "wikilink")と20インチ[アルミホイール](../Page/アルミホイール.md "wikilink")のデザインが変更されている。
+[2005年](../Page/2005年.md "wikilink")に[リアコンビランプが](../Page/尾灯.md "wikilink")[LED](../Page/発光ダイオード.md "wikilink")+クリアーレンズに変更され、[2006年](../Page/2006年.md "wikilink")には[フロントグリル](https://ja.wikipedia.org/wiki/フロントグリル "wikilink")と20インチ[アルミホイール](../Page/アルミホイール.md "wikilink")のデザインが変更されている。
 
 ### メカニズム
 

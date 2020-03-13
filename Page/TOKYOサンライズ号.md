@@ -58,7 +58,7 @@
   - 楯岡交通（村山駅前）
   - 尾花沢タクシー（尾花沢待合所）
   - 主な旅行代理店
-  - WEB予約：[発車オ〜ライネット](../Page/発車オ〜ライネット.md "wikilink")、バスぷらざ（[日本旅行](../Page/日本旅行.md "wikilink")）、[JTB](../Page/JTB.md "wikilink")、[WILLER TRAVEL](../Page/WILLER_TRAVEL.md "wikilink")、[楽天トラベル](https://ja.wikipedia.org/wiki/楽天トラベル "wikilink")、[じゃらん](../Page/じゃらん.md "wikilink")net
+  - WEB予約：[発車オ〜ライネット](../Page/発車オ〜ライネット.md "wikilink")、バスぷらざ（[日本旅行](../Page/日本旅行.md "wikilink")）、[JTB](../Page/JTB.md "wikilink")、[WILLER TRAVEL](../Page/WILLER_TRAVEL.md "wikilink")、[楽天トラベル](../Page/楽天トラベル.md "wikilink")、[じゃらん](../Page/じゃらん.md "wikilink")net
 
 ## 利用状況
 

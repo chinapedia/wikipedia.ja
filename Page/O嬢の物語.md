@@ -29,7 +29,7 @@
       -
         コミック版。全2巻
 
-[官能小説](../Page/官能小説.md "wikilink")家の[千草忠夫](../Page/千草忠夫.md "wikilink")が翻訳したバージョンはオリジナルの設定があり、[翻案](https://ja.wikipedia.org/wiki/翻案 "wikilink")に近い。このほかにも、[鈴木豊訳](https://ja.wikipedia.org/wiki/鈴木豊_\(フランス文学者\) "wikilink")（[講談社文庫](https://ja.wikipedia.org/wiki/講談社文庫 "wikilink")）[清水正二郎](https://ja.wikipedia.org/wiki/清水正二郎 "wikilink")の翻訳も存在しているが、いずれも絶版。
+[官能小説](../Page/官能小説.md "wikilink")家の[千草忠夫](../Page/千草忠夫.md "wikilink")が翻訳したバージョンはオリジナルの設定があり、[翻案](https://ja.wikipedia.org/wiki/翻案 "wikilink")に近い。このほかにも、[鈴木豊訳](https://ja.wikipedia.org/wiki/鈴木豊_\(フランス文学者\) "wikilink")（[講談社文庫](../Page/講談社文庫.md "wikilink")）[清水正二郎](https://ja.wikipedia.org/wiki/清水正二郎 "wikilink")の翻訳も存在しているが、いずれも絶版。
 
 ## 他メディアへの展開
 
@@ -37,7 +37,7 @@
 
   - [O嬢の物語](../Page/O嬢の物語_\(映画\).md "wikilink")
       -
-        [1975年](../Page/1975年.md "wikilink")に[ジュスト・ジャカン](../Page/ジュスト・ジャカン.md "wikilink")監督、[コリンヌ・クレリー](../Page/コリンヌ・クレリー.md "wikilink")、[ウド・キア](https://ja.wikipedia.org/wiki/ウド・キア "wikilink")出演で映画化されている。
+        [1975年](../Page/1975年.md "wikilink")に[ジュスト・ジャカン](../Page/ジュスト・ジャカン.md "wikilink")監督、[コリンヌ・クレリー](../Page/コリンヌ・クレリー.md "wikilink")、[ウド・キア](../Page/ウド・キア.md "wikilink")出演で映画化されている。
 
 <!-- end list -->
 

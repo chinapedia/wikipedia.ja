@@ -43,4 +43,4 @@
 
 [Category:アメリカ合衆国のキリスト教](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のキリスト教 "wikilink") [Category:テレビの宗教番組](https://ja.wikipedia.org/wiki/Category:テレビの宗教番組 "wikilink") [Category:日本のローカルテレビ局番組](https://ja.wikipedia.org/wiki/Category:日本のローカルテレビ局番組 "wikilink")
 
-1.  『クリスチャン新聞』1987年7月12日、1989年1月1日など、『基督教年鑑』各号、『ブラウン管の神々』 [生駒孝彰](https://ja.wikipedia.org/wiki/生駒孝彰 "wikilink") ヨルダン社 1987年、『日本における福音派の歴史』 中村敏 いのちのことば社 2000年
+1.  『クリスチャン新聞』1987年7月12日、1989年1月1日など、『基督教年鑑』各号、『ブラウン管の神々』 [生駒孝彰](../Page/生駒孝彰.md "wikilink") ヨルダン社 1987年、『日本における福音派の歴史』 中村敏 いのちのことば社 2000年

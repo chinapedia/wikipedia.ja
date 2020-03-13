@@ -95,7 +95,7 @@
 
 [2003年](../Page/2003年.md "wikilink")3月30日　[浜松町JUNK BOX](https://ja.wikipedia.org/wiki/浜松町JUNK_BOX "wikilink") ライブ内で活動を一旦休止を宣言する。……が、
 
-[2003年](../Page/2003年.md "wikilink")5月25日、6月21日　[原宿アストロホール](https://ja.wikipedia.org/wiki/原宿アストロホール "wikilink") FM局4局主催のオーディションに応募(エントリー曲は「Peace」)。5月度マンスリーグランプリ獲得。6月のマンスリーライブにも出演。
+[2003年](../Page/2003年.md "wikilink")5月25日、6月21日　[原宿アストロホール](../Page/原宿アストロホール.md "wikilink") FM局4局主催のオーディションに応募(エントリー曲は「Peace」)。5月度マンスリーグランプリ獲得。6月のマンスリーライブにも出演。
 
 [2003年](../Page/2003年.md "wikilink")7月20日　[渋谷BOXX](https://ja.wikipedia.org/wiki/渋谷BOXX "wikilink") 上記オーディションのファイナルへ進出。受賞はならず。
 
@@ -103,9 +103,9 @@
 
 [2004年](../Page/2004年.md "wikilink")7月25日　[CLUB CITTA'](../Page/CLUB_CITTA'.md "wikilink") 初の夏ライブ。総勢21名がステージにあがるという盛大なお祭り的ライブになった。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")8月7日　[科学技術館](../Page/科学技術館.md "wikilink")サイエンスホール 触れ合いをテーマとして初のイベントを決行。
+[2005年](../Page/2005年.md "wikilink")8月7日　[科学技術館](../Page/科学技術館.md "wikilink")サイエンスホール 触れ合いをテーマとして初のイベントを決行。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")12月4日　[CLUB CITTA'](../Page/CLUB_CITTA'.md "wikilink") 4時間近くのステージ。泡雪を降らせたり、演奏者が増えたりと一段と豪華なライブに。
+[2005年](../Page/2005年.md "wikilink")12月4日　[CLUB CITTA'](../Page/CLUB_CITTA'.md "wikilink") 4時間近くのステージ。泡雪を降らせたり、演奏者が増えたりと一段と豪華なライブに。
 
 [2006年](../Page/2006年.md "wikilink")7月30日　[富士スピードウェイ](https://ja.wikipedia.org/wiki/富士スピードウェイ "wikilink") Super American Festivalでの初野外ライブ。
 
@@ -115,7 +115,7 @@
 
 [2007年](../Page/2007年.md "wikilink")6月3日　[表参道FAB](https://ja.wikipedia.org/wiki/表参道FAB "wikilink") 2ndアルバム発売記念のプレライブ開催予定。昼夜の2公演を予定。
 
-[2007年](../Page/2007年.md "wikilink")9月16日　[中之島公園](https://ja.wikipedia.org/wiki/中之島公園 "wikilink") 中之島MUSIC CARNIVAL 07にて野外ライブ。 これが初の大阪上陸となった。
+[2007年](../Page/2007年.md "wikilink")9月16日　[中之島公園](../Page/中之島公園.md "wikilink") 中之島MUSIC CARNIVAL 07にて野外ライブ。 これが初の大阪上陸となった。
 
 ※普段は個々で活動している声優・ミュージシャンのため活動は不定期
 

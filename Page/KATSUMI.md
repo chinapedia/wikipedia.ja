@@ -7,7 +7,7 @@
 
   - 1965年10月20日、茨城県で生まれる。
   - 1983年、[茨城県立多賀高等学校](../Page/茨城県立多賀高等学校.md "wikilink")を卒業し、[ミューズ音楽院](https://ja.wikipedia.org/wiki/ミューズ音楽院 "wikilink")に進学する。
-  - 1984年 - 1989年、都内の[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")で[バンド](../Page/バンド_\(音楽\).md "wikilink")「SIZE」（サイズ）を組んで活動する。そのバンドの[デモテープ](https://ja.wikipedia.org/wiki/デモテープ "wikilink")に音楽関係者が関心を寄せる。
+  - 1984年 - 1989年、都内の[ライブハウス](../Page/ライブハウス.md "wikilink")で[バンド](../Page/バンド_\(音楽\).md "wikilink")「SIZE」（サイズ）を組んで活動する。そのバンドの[デモテープ](https://ja.wikipedia.org/wiki/デモテープ "wikilink")に音楽関係者が関心を寄せる。
   - 1990年4月25日、[パイオニアLDCの](../Page/NBCユニバーサル・エンターテイメントジャパン.md "wikilink")[J-POP](../Page/J-POP.md "wikilink")第一号歌手として、アルバム『[SHINING](https://ja.wikipedia.org/wiki/SHINING_\(KATSUMIのアルバム\) "wikilink")』、シングル「[SHINING IN THE NIGHT](https://ja.wikipedia.org/wiki/SHINING_IN_THE_NIGHT "wikilink")」でデビューする。2nd.シングル「[危険な女神](https://ja.wikipedia.org/wiki/危険な女神 "wikilink")」が[カメリアダイアモンド](https://ja.wikipedia.org/wiki/カメリアダイアモンド "wikilink")のテレビコマーシャルイメージソングとして起用される。その後も「[YES,抱きしめて](https://ja.wikipedia.org/wiki/YES,抱きしめて/With_Me "wikilink")」「[Just time girl](https://ja.wikipedia.org/wiki/Just_time_girl/Crossing_Love "wikilink")」「[It's my JAL](https://ja.wikipedia.org/wiki/It's_my_JAL "wikilink")」等が続けてCMタイアップ曲として起用され、ヒットした。
   - 1991年、音楽プロデューサー・[武部聡志](../Page/武部聡志.md "wikilink")を介して知り合ったシンガーソングライター・[楠瀬誠志郎](../Page/楠瀬誠志郎.md "wikilink")、[崎谷健次郎](../Page/崎谷健次郎.md "wikilink")とともにコーラスグループ"[adam](https://ja.wikipedia.org/wiki/adam_\(歌手グループ\) "wikilink")"を結成。3rd.アルバム『[ROSE IS A ROSE](https://ja.wikipedia.org/wiki/ROSE_IS_A_ROSE "wikilink")』に収録される。
   - 1994年1月、5th.アルバム『[SUPER BALANCE](https://ja.wikipedia.org/wiki/SUPER_BALANCE "wikilink")』が[オリコン](../Page/オリコン.md "wikilink")チャートで1位を獲得。同年9月、[フジテレビ系テレビドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[妹よ](../Page/妹よ.md "wikilink")』にミュージシャン役で出演。
@@ -22,8 +22,8 @@
   - 2011年1月、ミュージックバード系列コミュニティFM33局ネットで担当する音楽番組『KATSUMI・ユメルのJump to the 90's』に、崎谷がゲスト出演。同年2月、崎谷との新プロジェクトを始動させる。同年7月、東京・南青山マンダラにて、崎谷が企画したポップスと恋愛詩で綴るポエトリーリーディング・ライヴ「【TIMES】〜featuring KATSUMI〜」で共演。
   - 2011年10月5日、茨城放送の生ワイド番組『ふれラジいばらき』）のパーソナリティとして出演（毎週水曜日担当）。
   - 2012年、FMひたちで、「Music of Dreams\!」（隔週日曜日、16:00 - 18:00）を担当。
-  - 2012年6月、[渡辺裕之](https://ja.wikipedia.org/wiki/渡辺裕之 "wikilink")監督の映画『[桜田門内の変\!?](https://ja.wikipedia.org/wiki/桜田門内の変!? "wikilink")』に出演。
-  - 2013年2月、舞台「+GOLD FISH」に出演する。共演は[米倉利紀](../Page/米倉利紀.md "wikilink")、[杏子など](https://ja.wikipedia.org/wiki/杏子_\(ミュージシャン\) "wikilink")。
+  - 2012年6月、[渡辺裕之](../Page/渡辺裕之.md "wikilink")監督の映画『[桜田門内の変\!?](https://ja.wikipedia.org/wiki/桜田門内の変!? "wikilink")』に出演。
+  - 2013年2月、舞台「+GOLD FISH」に出演する。共演は[米倉利紀](../Page/米倉利紀.md "wikilink")、[杏子など](../Page/杏子_\(ミュージシャン\).md "wikilink")。
   - 2014年5月より、全国ゆるツアー「Voice from the Heart」を展開中。
 
 ## 人物
@@ -536,7 +536,7 @@ MUSIC JAPAN TV系『BREAK TV』エンディングテーマ</p></td>
 <tr class="even">
 <td><p>作詞</p></td>
 <td><p>鼓動 〜for TIGA〜</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/OV" title="wikilink">OV</a>『<a href="https://ja.wikipedia.org/wiki/ウルトラマンティガ外伝_古代に蘇る巨人" title="wikilink">ウルトラマンティガ外伝 古代に蘇る巨人</a>』主題歌</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/OV" title="wikilink">OV</a>『<a href="../Page/ウルトラマンティガ外伝_古代に蘇る巨人.md" title="wikilink">ウルトラマンティガ外伝 古代に蘇る巨人</a>』主題歌</p></td>
 <td></td>
 </tr>
 <tr class="odd">

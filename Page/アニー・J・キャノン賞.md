@@ -7,7 +7,7 @@
 
 ### アメリカ天文学会の賞
 
-  - 1934年 [セシリア・ペイン＝ガポーシュキン](https://ja.wikipedia.org/wiki/セシリア・ペイン＝ガポーシュキン "wikilink")
+  - 1934年 [セシリア・ペイン＝ガポーシュキン](../Page/セシリア・ペイン＝ガポーシュキン.md "wikilink")
   - 1937年 [シャーロット・ムーア＝シタリー](https://ja.wikipedia.org/wiki/シャーロット・ムーア＝シタリー "wikilink")
   - 1940年 Julie Vinter Hansen
   - 1943年 [アントニア・モーリ](https://ja.wikipedia.org/wiki/アントニア・モーリ "wikilink")

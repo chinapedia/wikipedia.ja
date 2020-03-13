@@ -77,7 +77,7 @@
   - [北海道放送](../Page/HBCラジオ.md "wikilink")（北海道）
   - [RKB毎日放送](../Page/RKBラジオ.md "wikilink")（福岡県）
       - RKBでは、[1999年](../Page/1999年.md "wikilink")頃から木曜または金曜のみ、自主制作番組や[アニラジ](../Page/アニラジ.md "wikilink")を放送していたため、未ネットの曜日があったが、[2002年](../Page/2002年.md "wikilink")4月の『[JUNK](../Page/JUNK.md "wikilink")』開始から再び全曜日フルネットになった。
-  - [琉球放送](https://ja.wikipedia.org/wiki/琉球放送 "wikilink")（沖縄県）
+  - [琉球放送](../Page/琉球放送.md "wikilink")（沖縄県）
   - [山陽放送](https://ja.wikipedia.org/wiki/RSKラジオ "wikilink")（岡山県、 - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")9月）
       - 山陽放送は[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")10月に[NRNに加盟し](../Page/全国ラジオネットワーク.md "wikilink")、JRNとの[クロスネット開始に伴って](../Page/クロスネット局.md "wikilink")、営業面などの理由（[スポンサー](../Page/スポンサー.md "wikilink")の有無）で『UP'S』のネット離脱。『オールナイトニッポン』のネットに変更した。
 

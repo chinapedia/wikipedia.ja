@@ -7,7 +7,7 @@
 
 「ティーエス キュービックカード」という名称は、生活をドライビング・ファイナンシング・ライフスタイルの3つの側面から立体（CUBIC）的にサポートする（TS：**T**otal **S**upport）という意味である。
 
-[トヨタグループ](../Page/トヨタグループ.md "wikilink")の財務基盤を活用した直営化により、会員情報や取引動向のより深い戦略的活用を図り、自社商品の販売促進のみならず消費者向け信販、金融事業を単体で利益事業化することを狙って、[2001年](../Page/2001年.md "wikilink")7月からトヨタファイナンスがクレジットカード事業に参入した。これに伴い、従来から存在した[トヨタカード](../Page/トヨタカード.md "wikilink")（[JCB](../Page/ジェーシービー.md "wikilink")、[UC及びMC](../Page/ユーシーカード.md "wikilink")（現・[UFJ](../Page/UFJカード.md "wikilink")）との[提携カード](https://ja.wikipedia.org/wiki/提携カード "wikilink")）からの切替が行われた。 なお、[2004年](../Page/2004年.md "wikilink")[9月8日](https://ja.wikipedia.org/wiki/9月8日 "wikilink")以前は「TS CUBIC」は読みは同じで「TS<sup>3</sup>」と表記されていた。「TS<sup>3</sup>」表記はカードブランドを示すアクセプタンスマークやウェブサイトのドメイン名（ts3card.com）にて引き続き利用されている。
+[トヨタグループ](../Page/トヨタグループ.md "wikilink")の財務基盤を活用した直営化により、会員情報や取引動向のより深い戦略的活用を図り、自社商品の販売促進のみならず消費者向け信販、金融事業を単体で利益事業化することを狙って、[2001年](../Page/2001年.md "wikilink")7月からトヨタファイナンスがクレジットカード事業に参入した。これに伴い、従来から存在した[トヨタカード](../Page/トヨタカード.md "wikilink")（[JCB](../Page/ジェーシービー.md "wikilink")、[UC及びMC](../Page/ユーシーカード.md "wikilink")（現・[UFJ](../Page/UFJカード.md "wikilink")）との[提携カード](../Page/提携カード.md "wikilink")）からの切替が行われた。 なお、[2004年](../Page/2004年.md "wikilink")[9月8日](../Page/9月8日.md "wikilink")以前は「TS CUBIC」は読みは同じで「TS<sup>3</sup>」と表記されていた。「TS<sup>3</sup>」表記はカードブランドを示すアクセプタンスマークやウェブサイトのドメイン名（ts3card.com）にて引き続き利用されている。
 
 [クレジットカード](../Page/クレジットカード.md "wikilink")に[ETC](../Page/ETC.md "wikilink")と[QUICPay](../Page/QUICPay.md "wikilink")を同時に一体化したカードを発行できる点が特徴の一つとなっている。[カードローンの貸付利率が他のクレジットカード会社と比べて低利](https://ja.wikipedia.org/wiki/キャッシング "wikilink")（[利息制限法](../Page/利息制限法.md "wikilink")の範囲）であるが、2009年4月以降の新規発行分より全国展開のクレジットカード会社では初めてカードローン枠の付与を一律廃止することを発表・実施し、融資残高を縮小させている（融資枠の廃止は[ビューカード](../Page/ビューカード.md "wikilink")などが追従した）。このため、同時期以降に入会した者は海外キャッシングサービスも利用不可となっている。
 
@@ -17,7 +17,7 @@
 
 ### TS CUBIC CARD
 
-プロパーカードであるが、ほとんどのTS CUBIC CARD（提携含む）はトヨタ自動車運営のポータルサイトである[GAZOO.com](https://ja.wikipedia.org/wiki/GAZOO.com "wikilink")のID機能を標準装備（カード送付台紙に掲載）しているため、事実上、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")（他の提携先含む）との[提携カード](https://ja.wikipedia.org/wiki/提携カード "wikilink")という形態となっている。カードのグレードはそれぞれ、レギュラー・セレクト（海外旅行保険付き）・[ゴールドがあり](../Page/ゴールドカード.md "wikilink")、国際ブランドは、[VISA](../Page/Visa.md "wikilink")・[MasterCard](../Page/マスターカード.md "wikilink")・[JCB](https://ja.wikipedia.org/wiki/JCB "wikilink")からの選択が可能（一部を除く）。また、TOYOTA・HINO・DAIHATSUのTS CUBIC CARDには、1枚の本カードに[ETC機能や](https://ja.wikipedia.org/wiki/ETCカード "wikilink")[QUICPay](../Page/QUICPay.md "wikilink")に加えて、[JAF会員証](../Page/日本自動車連盟.md "wikilink")（裏面に印字）を重ねて一体化させることができる。
+プロパーカードであるが、ほとんどのTS CUBIC CARD（提携含む）はトヨタ自動車運営のポータルサイトである[GAZOO.com](https://ja.wikipedia.org/wiki/GAZOO.com "wikilink")のID機能を標準装備（カード送付台紙に掲載）しているため、事実上、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")（他の提携先含む）との[提携カード](../Page/提携カード.md "wikilink")という形態となっている。カードのグレードはそれぞれ、レギュラー・セレクト（海外旅行保険付き）・[ゴールドがあり](../Page/ゴールドカード.md "wikilink")、国際ブランドは、[VISA](../Page/Visa.md "wikilink")・[MasterCard](../Page/マスターカード.md "wikilink")・[JCB](https://ja.wikipedia.org/wiki/JCB "wikilink")からの選択が可能（一部を除く）。また、TOYOTA・HINO・DAIHATSUのTS CUBIC CARDには、1枚の本カードに[ETC機能や](https://ja.wikipedia.org/wiki/ETCカード "wikilink")[QUICPay](../Page/QUICPay.md "wikilink")に加えて、[JAF会員証](../Page/日本自動車連盟.md "wikilink")（裏面に印字）を重ねて一体化させることができる。
 
 [トヨタ販売店・ダイハツ販売店での自動車購入時にTOYOTA](../Page/自動車ディーラー.md "wikilink")（DAIHATSU）TS CUBIC CARDに入会するとキャッシュバック特典が受けられるため、ディーラー経由での申込が多い。またこれらのディーラーでは、自動車・オプション購入費用（基本的に50万円まで）、車検・修理整備費用などをショッピングとして決済したり（クレジットポイントが付与）、貯めたポイントから費用を充当することができる。
 
@@ -105,7 +105,7 @@ QUICPayに対応しているクレジットカードの会員でなくても[QUI
 
 <!-- end list -->
 
-  - [トレッサ横浜](https://ja.wikipedia.org/wiki/トレッサ横浜 "wikilink")の[ポイントカード](https://ja.wikipedia.org/wiki/ポイントカード "wikilink")機能とQUICPayカード単体型を一体化した、形状的にはQUICPay決済専用の[提携](https://ja.wikipedia.org/wiki/提携カード "wikilink")[ハウスカード](../Page/ハウスカード.md "wikilink")である。「おサイフくんQUICPay」とは異なり、TS3 JCBの会員番号は発番されず、16桁のハウスカード番号が券面に付番される。なお、ETC TS CUBIC CARD単体型を追加発行することは可能である。
+  - [トレッサ横浜](https://ja.wikipedia.org/wiki/トレッサ横浜 "wikilink")の[ポイントカード](https://ja.wikipedia.org/wiki/ポイントカード "wikilink")機能とQUICPayカード単体型を一体化した、形状的にはQUICPay決済専用の[提携](../Page/提携カード.md "wikilink")[ハウスカード](../Page/ハウスカード.md "wikilink")である。「おサイフくんQUICPay」とは異なり、TS3 JCBの会員番号は発番されず、16桁のハウスカード番号が券面に付番される。なお、ETC TS CUBIC CARD単体型を追加発行することは可能である。
 
 ## ETC TS CUBIC CARD
 

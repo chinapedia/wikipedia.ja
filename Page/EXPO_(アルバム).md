@@ -7,9 +7,9 @@
 
 レコーディングは同年に日本国内で行われ、[ハリー・ニルソン](../Page/ハリー・ニルソン.md "wikilink")の作品に参加した事で知られるミュージシャンのゲイリー・ライトが参加している。アルバムタイトルが示す通り、[ハウス](../Page/ハウス_\(音楽\).md "wikilink")、[フォーク](../Page/フォークソング.md "wikilink")、[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")、[ラテン音楽](../Page/ラテン音楽.md "wikilink")、[歌謡曲](../Page/歌謡曲.md "wikilink")、[ボサノヴァ](../Page/ボサノヴァ.md "wikilink")、[プログレッシブ・ロック](../Page/プログレッシブ・ロック.md "wikilink")などあらゆる音楽ジャンルを網羅した作品となっている。
 
-先行シングルとしてリリースされ、[カメリアダイヤモンドの](../Page/三貴.md "wikilink")[コマーシャルソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")として使用された「[Love Train](https://ja.wikipedia.org/wiki/Love_Train/We_love_the_EARTH "wikilink")」および「We love the EARTH」を収録している。また本作の後にリリースされたシングル「**[WILD HEAVEN](../Page/WILD_HEAVEN.md "wikilink")**」は（コンセプトとしては「TM NETWORKパビリオン」として）本アルバム収録予定だったのだが、[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")の「**Dreams Of Christmas**」同様、曲順を変更しても[ボーナストラック](https://ja.wikipedia.org/wiki/ボーナストラック "wikilink")的になってしまい、アルバムの雰囲気と合わないとの理由で収録を見送られたというエピソードがある。さらに「WILD HEAVEN」が未収録となったため、本アルバムには[小室みつ子](../Page/小室みつ子.md "wikilink")による作詞曲は未収録となった。
+先行シングルとしてリリースされ、[カメリアダイヤモンドの](../Page/三貴.md "wikilink")[コマーシャルソング](../Page/コマーシャルソング.md "wikilink")として使用された「[Love Train](https://ja.wikipedia.org/wiki/Love_Train/We_love_the_EARTH "wikilink")」および「We love the EARTH」を収録している。また本作の後にリリースされたシングル「**[WILD HEAVEN](../Page/WILD_HEAVEN.md "wikilink")**」は（コンセプトとしては「TM NETWORKパビリオン」として）本アルバム収録予定だったのだが、[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")の「**Dreams Of Christmas**」同様、曲順を変更しても[ボーナストラック](https://ja.wikipedia.org/wiki/ボーナストラック "wikilink")的になってしまい、アルバムの雰囲気と合わないとの理由で収録を見送られたというエピソードがある。さらに「WILD HEAVEN」が未収録となったため、本アルバムには[小室みつ子](../Page/小室みつ子.md "wikilink")による作詞曲は未収録となった。
 
-[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")では最高位1位を獲得し、売り上げ枚数は約65万枚と前作を上回る結果となった。同年[9月1日](../Page/9月1日.md "wikilink")より本作を受けてのツアー「Tour TMN EXPO」が敢行され、翌1992年には追加公演となる「TMN special event パーティーパビリオン」および「[TOUR TMN EXPO FINAL CRAZY 4 YOU](../Page/TOUR_TMN_EXPO_FINAL_CRAZY_4_YOU.md "wikilink")」、「TMNフォーク/メタル・パビリオン」が敢行された。
+[オリコンチャート](../Page/オリコンチャート.md "wikilink")では最高位1位を獲得し、売り上げ枚数は約65万枚と前作を上回る結果となった。同年[9月1日](../Page/9月1日.md "wikilink")より本作を受けてのツアー「Tour TMN EXPO」が敢行され、翌1992年には追加公演となる「TMN special event パーティーパビリオン」および「[TOUR TMN EXPO FINAL CRAZY 4 YOU](../Page/TOUR_TMN_EXPO_FINAL_CRAZY_4_YOU.md "wikilink")」、「TMNフォーク/メタル・パビリオン」が敢行された。
 
 しかし、本作の後には新曲のリリースはあったもののアルバムはリリースされず、[1994年](../Page/1994年.md "wikilink")にTMNはプロジェクト終了となったため1999年の復活までは最後のオリジナルアルバムとなっていた。
 
@@ -83,7 +83,7 @@
 
 ## チャート成績
 
-[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")では最高位1位、登場回数14回となり、売り上げ枚数は64.8万枚となった。
+[オリコンチャート](../Page/オリコンチャート.md "wikilink")では最高位1位、登場回数14回となり、売り上げ枚数は64.8万枚となった。
 
 ## 収録曲
 
@@ -94,7 +94,7 @@
         逆再生でTMのメンバー3人の声を入れている。小室は「時代が言葉に蓋をしたことを表現したかった」と語り、宇都宮は「メッセージをタイムカプセルに収めたようなもの」と例えている\[28\]。
 2.  **[We Love The Earth](https://ja.wikipedia.org/wiki/Love_Train/We_love_the_EARTH "wikilink") （Ooh,Ah,Ah,Mix）**
       -
-        25thシングル両A面曲のアルバムバージョン。「[DRESS](https://ja.wikipedia.org/wiki/DRESS_\(TM_NETWORKのアルバム\) "wikilink")」でとった手法と全く同じであり、大半のアレンジは 明石昭夫、ゲイリー・ライト,に委ねて、最終的なアレンジは小室がまとめた\[29\]\[30\]。
+        25thシングル両A面曲のアルバムバージョン。「[DRESS](../Page/DRESS_\(TM_NETWORKのアルバム\).md "wikilink")」でとった手法と全く同じであり、大半のアレンジは 明石昭夫、ゲイリー・ライト,に委ねて、最終的なアレンジは小室がまとめた\[29\]\[30\]。
 3.  **[Love Train](https://ja.wikipedia.org/wiki/Love_Train/We_love_the_EARTH "wikilink")**
       -
         25thシングル。アレンジバージョンを制作していたが、「最初にレコーディングしたときの勢い、特にボーカルの旬を大事にしたい」という小室の意向でシングル盤と同じ内容にした\[31\]。
@@ -285,7 +285,7 @@ ESTB-1115</p></td>
 5.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊 『[ギターブック](https://ja.wikipedia.org/wiki/ギターブック "wikilink")』 1991年8月号117Pより。
 6.
 7.
-8.  自身のnationality（国籍）も東京であると述べている。（[角川文庫](https://ja.wikipedia.org/wiki/角川文庫 "wikilink")『告白は踊る』）
+8.  自身のnationality（国籍）も東京であると述べている。（[角川文庫](../Page/角川文庫.md "wikilink")『告白は踊る』）
 9.
 10.
 11.

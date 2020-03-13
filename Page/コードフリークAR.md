@@ -19,7 +19,7 @@
   - チャコちゃんゲーム化計画
     季刊の時代から不定期で掲載されたコーナー。後述する「チャコっとゲーム研究会 ～すずめ隊長のメイドカフェ～」へと発展。
   - [アクションロッキー](https://ja.wikipedia.org/wiki/アクションロッキー "wikilink")
-    [あさいもとゆき](../Page/あさいもとゆき.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。『[月刊コロコロコミック](../Page/月刊コロコロコミック.md "wikilink")』（[小学館](../Page/小学館.md "wikilink")）に連載されていた「[ファミコンロッキー](https://ja.wikipedia.org/wiki/ファミコンロッキー "wikilink")」の続編。
+    [あさいもとゆき](../Page/あさいもとゆき.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。『[月刊コロコロコミック](../Page/月刊コロコロコミック.md "wikilink")』（[小学館](../Page/小学館.md "wikilink")）に連載されていた「[ファミコンロッキー](../Page/ファミコンロッキー.md "wikilink")」の続編。
   - [なんかいろいろ](https://ja.wikipedia.org/wiki/苺タイムス "wikilink")
     [竹本泉](../Page/竹本泉.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。『[ゲーマガ](../Page/ゲーマガ.md "wikilink")』（[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")）に連載されていたゲームエッセイ漫画。
   - 脳嵐
@@ -47,7 +47,7 @@
   - 原画・キャラクター：[きんりきまんとう](https://ja.wikipedia.org/wiki/きんりきまんとう "wikilink")
   - 脚本：[前田まさよし](https://ja.wikipedia.org/wiki/前田まさよし "wikilink")
   - オープニングテーマ：[いとうかなこ](https://ja.wikipedia.org/wiki/いとうかなこ "wikilink")「1bitにかけろ」
-  - エンディングテーマ：[ジョイまっくす](https://ja.wikipedia.org/wiki/ジョイまっくす "wikilink")
+  - エンディングテーマ：[ジョイまっくす](../Page/ジョイまっくす.md "wikilink")
   - 楽曲制作：[ZIZZ STUDIO](../Page/ZIZZ_STUDIO.md "wikilink")
   - 開発：株式会社[デジターボ](https://ja.wikipedia.org/wiki/デジターボ "wikilink")
   - 開発協力：株式会社[ニトロプラス](../Page/ニトロプラス.md "wikilink")

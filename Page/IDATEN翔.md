@@ -3,7 +3,7 @@
 
 『**IDATEN翔**』（いだてんじゃんぷ）は、[藤原としひろ](https://ja.wikipedia.org/wiki/藤原としひろ "wikilink")による漫画作品。[コミックボンボン](../Page/コミックボンボン.md "wikilink")にて連載された。
 
-[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")ほかにて『**韋駄天翔**』のタイトルで、テレビアニメが[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")まで毎週土曜日朝9時30分から放送された。
+[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")ほかにて『**韋駄天翔**』のタイトルで、テレビアニメが[2005年](../Page/2005年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")まで毎週土曜日朝9時30分から放送された。
 
 ## ストーリー
 
@@ -169,7 +169,7 @@
 ### スタッフ
 
   - 原作 - [藤原としひろ](https://ja.wikipedia.org/wiki/藤原としひろ "wikilink")、[江鳥告](https://ja.wikipedia.org/wiki/江鳥告 "wikilink")（[講談社](../Page/講談社.md "wikilink")刊『[月刊コミックボンボン](../Page/コミックボンボン.md "wikilink")』連載）
-  - 監督 - [浜名孝行](https://ja.wikipedia.org/wiki/浜名孝行 "wikilink")
+  - 監督 - [浜名孝行](../Page/浜名孝行.md "wikilink")
   - シリーズ構成 - [志茂文彦](../Page/志茂文彦.md "wikilink")
   - キャラクターデザイン・総作画監督 - [谷津美弥子](https://ja.wikipedia.org/wiki/谷津美弥子 "wikilink")
   - 美術監督 - 鈴木聡、いそぶちちか
@@ -179,7 +179,7 @@
   - 音楽 - [高梨康治](../Page/高梨康治.md "wikilink")
   - 音響監督 - [平光琢也](../Page/平光琢也.md "wikilink")
   - プロデューサー - [東不可止](../Page/東不可止.md "wikilink")→具嶋朋子、八田紳作、與那城香
-  - アニメーション制作 - [トランス・アーツ](https://ja.wikipedia.org/wiki/トランス・アーツ "wikilink")
+  - アニメーション制作 - [トランス・アーツ](../Page/トランス・アーツ.md "wikilink")
   - 制作協力 - [Production I.G](../Page/プロダクション・アイジー.md "wikilink")
   - 製作 - テレビ東京、[テレビ東京メディアネット](../Page/テレビ東京メディアネット.md "wikilink")、[アニプレックス](../Page/アニプレックス.md "wikilink")
 
@@ -233,7 +233,7 @@
 <td><p>1</p></td>
 <td><p>これがMTBバトルだ!</p></td>
 <td><p><a href="../Page/志茂文彦.md" title="wikilink">志茂文彦</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/浜名孝行" title="wikilink">浜名孝行</a></p></td>
+<td><p><a href="../Page/浜名孝行.md" title="wikilink">浜名孝行</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/谷津美弥子" title="wikilink">谷津美弥子</a></p></td>
 <td><p><strong>2005年</strong><br />
 10月1日</p></td>
@@ -708,19 +708,19 @@
 
 ### 放送局
 
-| 放送地域                                                              | 放送局                                                       | 放送期間                                                                                                                                                                   | 放送日時             |
-| ----------------------------------------------------------------- | --------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
-| [関東広域圏](../Page/広域放送.md "wikilink")                               | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")   | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月1日](../Page/10月1日.md "wikilink") - [2006年](../Page/2006年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink") | 土曜 9:30 - 10:00  |
-| [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")               | [テレビ愛知](../Page/テレビ愛知.md "wikilink")                      | 2005年[10月2日](../Page/10月2日.md "wikilink") - 2006年10月1日                                                                                                                 | 日曜 7:00 - 7:30   |
-| [大阪府](../Page/大阪府.md "wikilink")                                  | [テレビ大阪](../Page/テレビ大阪.md "wikilink")                      | 日曜 10:30 - 11:00                                                                                                                                                       |                  |
-| [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")               | [テレビ北海道](../Page/テレビ北海道.md "wikilink")                    | 2005年[10月9日](../Page/10月9日.md "wikilink") - 2006年[10月8日](../Page/10月8日.md "wikilink")                                                                                  | 日曜 7:00 - 7:30   |
-| [岡山県・香川県](../Page/岡山県・香川県の放送.md "wikilink")                       | [テレビせとうち](../Page/テレビせとうち.md "wikilink")                  | \- 2006年[10月1日](../Page/10月1日.md "wikilink")                                                                                                                           |                  |
-| [福岡県](../Page/福岡県.md "wikilink")                                  | [TVQ九州放送](../Page/TVQ九州放送.md "wikilink")                  |                                                                                                                                                                        |                  |
-| [鳥取県](../Page/鳥取県.md "wikilink")・[島根県](../Page/島根県.md "wikilink") | [日本海テレビ](../Page/日本海テレビジョン放送.md "wikilink")               |                                                                                                                                                                        | 水曜 16:00 - 16:30 |
-| [奈良県](../Page/奈良県.md "wikilink")                                  | [奈良テレビ](https://ja.wikipedia.org/wiki/奈良テレビ放送 "wikilink") |                                                                                                                                                                        | 月曜 18:00 - 18:30 |
-| [山形県](../Page/山形県.md "wikilink")                                  | [山形テレビ](../Page/山形テレビ.md "wikilink")                      |                                                                                                                                                                        | 日曜 6:30 - 7:00   |
-| [日本全域](../Page/全国放送.md "wikilink")                                | [AT-X](../Page/アニメシアターX.md "wikilink")                    | 2005年[10月11日](../Page/10月11日.md "wikilink") - 2006年[10月10日](../Page/10月10日.md "wikilink")                                                                              | 火曜 9:00 - 9:30   |
-| [トゥーン・ディズニー](../Page/トゥーン・ディズニー.md "wikilink")                    | 2007年10月1日 - 2008年                                        | 月曜 - 金曜 19:30 - 20:00                                                                                                                                                  |                  |
+| 放送地域                                                              | 放送局                                                       | 放送期間                                                                                                                                                | 放送日時             |
+| ----------------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| [関東広域圏](../Page/広域放送.md "wikilink")                               | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")   | [2005年](../Page/2005年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink") - [2006年](../Page/2006年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink") | 土曜 9:30 - 10:00  |
+| [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")               | [テレビ愛知](../Page/テレビ愛知.md "wikilink")                      | 2005年[10月2日](../Page/10月2日.md "wikilink") - 2006年10月1日                                                                                              | 日曜 7:00 - 7:30   |
+| [大阪府](../Page/大阪府.md "wikilink")                                  | [テレビ大阪](../Page/テレビ大阪.md "wikilink")                      | 日曜 10:30 - 11:00                                                                                                                                    |                  |
+| [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")               | [テレビ北海道](../Page/テレビ北海道.md "wikilink")                    | 2005年[10月9日](../Page/10月9日.md "wikilink") - 2006年[10月8日](../Page/10月8日.md "wikilink")                                                               | 日曜 7:00 - 7:30   |
+| [岡山県・香川県](../Page/岡山県・香川県の放送.md "wikilink")                       | [テレビせとうち](../Page/テレビせとうち.md "wikilink")                  | \- 2006年[10月1日](../Page/10月1日.md "wikilink")                                                                                                        |                  |
+| [福岡県](../Page/福岡県.md "wikilink")                                  | [TVQ九州放送](../Page/TVQ九州放送.md "wikilink")                  |                                                                                                                                                     |                  |
+| [鳥取県](../Page/鳥取県.md "wikilink")・[島根県](../Page/島根県.md "wikilink") | [日本海テレビ](../Page/日本海テレビジョン放送.md "wikilink")               |                                                                                                                                                     | 水曜 16:00 - 16:30 |
+| [奈良県](../Page/奈良県.md "wikilink")                                  | [奈良テレビ](https://ja.wikipedia.org/wiki/奈良テレビ放送 "wikilink") |                                                                                                                                                     | 月曜 18:00 - 18:30 |
+| [山形県](../Page/山形県.md "wikilink")                                  | [山形テレビ](../Page/山形テレビ.md "wikilink")                      |                                                                                                                                                     | 日曜 6:30 - 7:00   |
+| [日本全域](../Page/全国放送.md "wikilink")                                | [AT-X](../Page/アニメシアターX.md "wikilink")                    | 2005年[10月11日](../Page/10月11日.md "wikilink") - 2006年[10月10日](../Page/10月10日.md "wikilink")                                                           | 火曜 9:00 - 9:30   |
+| [トゥーン・ディズニー](../Page/トゥーン・ディズニー.md "wikilink")                    | 2007年10月1日 - 2008年                                        | 月曜 - 金曜 19:30 - 20:00                                                                                                                               |                  |
 
 ## 脚注
 

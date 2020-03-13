@@ -7,27 +7,27 @@
 
 ## 略歴
 
-中学生時代に、[ザ・タイマーズ](../Page/ザ・タイマーズ.md "wikilink")、[RCサクセション](../Page/RCサクセション.md "wikilink")、[ジャニス・ジョプリン](https://ja.wikipedia.org/wiki/ジャニス・ジョプリン "wikilink")に影響を受け音楽活動を始める。[三原東高等学校卒](https://ja.wikipedia.org/wiki/広島県立三原東高等学校 "wikilink") 。[1999年](../Page/1999年.md "wikilink")[6月19日](../Page/6月19日.md "wikilink")に[仲井戸麗市](../Page/仲井戸麗市.md "wikilink")プロデュースの「オレンジ」でデビュー。その後、[はっぴいえんど](../Page/はっぴいえんど.md "wikilink")の「風をあつめて」のカヴァーヴァージョンが[東レ](../Page/東レ.md "wikilink")のCMソングに起用され、話題となる。
+中学生時代に、[ザ・タイマーズ](../Page/ザ・タイマーズ.md "wikilink")、[RCサクセション](../Page/RCサクセション.md "wikilink")、[ジャニス・ジョプリン](../Page/ジャニス・ジョプリン.md "wikilink")に影響を受け音楽活動を始める。[三原東高等学校卒](../Page/広島県立三原東高等学校.md "wikilink") 。[1999年](../Page/1999年.md "wikilink")[6月19日](../Page/6月19日.md "wikilink")に[仲井戸麗市](../Page/仲井戸麗市.md "wikilink")プロデュースの「オレンジ」でデビュー。その後、[はっぴいえんど](../Page/はっぴいえんど.md "wikilink")の「風をあつめて」のカヴァーヴァージョンが[東レ](../Page/東レ.md "wikilink")のCMソングに起用され、話題となる。
 
 ## ディスコグラフィー
 
 ### シングル
 
-| 枚    | リリース日                                                                                       | タイトル                           | オリコン最高順位 | 販売生産番号     |
-| ---- | ------------------------------------------------------------------------------------------- | ------------------------------ | -------- | ---------- |
-| 1st  | [1999年](../Page/1999年.md "wikilink")[6月19日](../Page/6月19日.md "wikilink")                    | **オレンジ**                       |          | ESCB-1978  |
-| 2nd  | [1999年](../Page/1999年.md "wikilink")[11月20日](../Page/11月20日.md "wikilink")                  | **Beat Goes On, The**          |          | ESCB-2029  |
-| 3rd  | [2000年](../Page/2000年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink")                    | **Town to Town**               |          | ESCB-2128  |
-| 4th  | [2001年](../Page/2001年.md "wikilink")[1月24日](../Page/1月24日.md "wikilink")                    | **風をあつめて**                     | 97位      | ESCB-2180  |
-| 5th  | [2001年](../Page/2001年.md "wikilink")[6月6日](../Page/6月6日.md "wikilink")                      | **Tone**                       |          | ESCB-2233  |
-| 6th  | [2001年](../Page/2001年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink")                  | **travelin' man**              | 37位      | ESCL-2274  |
-| 7th  | [2002年](../Page/2002年.md "wikilink")[8月21日](../Page/8月21日.md "wikilink")                    | **Free wave/JOY TO THE WORLD** |          | ESCL-2332  |
-| 8th  | [2003年](../Page/2003年.md "wikilink")[5月8日](../Page/5月8日.md "wikilink")                      | **ひかりのうた**                     | 150位     | ESCL-2393  |
-| 9th  | [2003年](../Page/2003年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")                    | **500マイル/Love**                |          | ESCL-2417  |
-| 10th | [2004年](../Page/2004年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink")                    | **Try to Fly**                 |          | ESCL-2566  |
-| 11th | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[6月22日](../Page/6月22日.md "wikilink") | **新世界**                        |          | VICL-35826 |
-| 12th | [2006年](../Page/2006年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")                    | **Thank You**                  |          | VICL-35972 |
-| 13th | [2006年](../Page/2006年.md "wikilink")[6月7日](../Page/6月7日.md "wikilink")                      | **Rainy Blue**                 | 164位     | VICL-36046 |
+| 枚    | リリース日                                                                      | タイトル                           | オリコン最高順位 | 販売生産番号     |
+| ---- | -------------------------------------------------------------------------- | ------------------------------ | -------- | ---------- |
+| 1st  | [1999年](../Page/1999年.md "wikilink")[6月19日](../Page/6月19日.md "wikilink")   | **オレンジ**                       |          | ESCB-1978  |
+| 2nd  | [1999年](../Page/1999年.md "wikilink")[11月20日](../Page/11月20日.md "wikilink") | **Beat Goes On, The**          |          | ESCB-2029  |
+| 3rd  | [2000年](../Page/2000年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink")   | **Town to Town**               |          | ESCB-2128  |
+| 4th  | [2001年](../Page/2001年.md "wikilink")[1月24日](../Page/1月24日.md "wikilink")   | **風をあつめて**                     | 97位      | ESCB-2180  |
+| 5th  | [2001年](../Page/2001年.md "wikilink")[6月6日](../Page/6月6日.md "wikilink")     | **Tone**                       |          | ESCB-2233  |
+| 6th  | [2001年](../Page/2001年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink") | **travelin' man**              | 37位      | ESCL-2274  |
+| 7th  | [2002年](../Page/2002年.md "wikilink")[8月21日](../Page/8月21日.md "wikilink")   | **Free wave/JOY TO THE WORLD** |          | ESCL-2332  |
+| 8th  | [2003年](../Page/2003年.md "wikilink")[5月8日](../Page/5月8日.md "wikilink")     | **ひかりのうた**                     | 150位     | ESCL-2393  |
+| 9th  | [2003年](../Page/2003年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")   | **500マイル/Love**                |          | ESCL-2417  |
+| 10th | [2004年](../Page/2004年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink")   | **Try to Fly**                 |          | ESCL-2566  |
+| 11th | [2005年](../Page/2005年.md "wikilink")[6月22日](../Page/6月22日.md "wikilink")   | **新世界**                        |          | VICL-35826 |
+| 12th | [2006年](../Page/2006年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")   | **Thank You**                  |          | VICL-35972 |
+| 13th | [2006年](../Page/2006年.md "wikilink")[6月7日](../Page/6月7日.md "wikilink")     | **Rainy Blue**                 | 164位     | VICL-36046 |
 
 ### アルバム
 
@@ -67,7 +67,7 @@
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/7月21日.md" title="wikilink">7月21日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/7月21日.md" title="wikilink">7月21日</a></p></td>
 <td><p><strong>SPICE!</strong></p></td>
 <td><p>189位</p></td>
 <td><p>VICL-61693</p></td>
@@ -99,10 +99,10 @@ VICL-61980 (通常盤)</p></td>
 
 #### ミニアルバム
 
-| 枚   | リリース日                                                                                                          | タイトル         | オリコン最高順位 | 販売生産番号     |
-| --- | -------------------------------------------------------------------------------------------------------------- | ------------ | -------- | ---------- |
-| 1st | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink") | **NU WORLD** | 177位     | VICL-61618 |
-| 2nd | [2009年](../Page/2009年.md "wikilink")[1月28日](../Page/1月28日.md "wikilink")                                       | **MELODY**   | 183位     | CTCR-14599 |
+| 枚   | リリース日                                                                                       | タイトル         | オリコン最高順位 | 販売生産番号     |
+| --- | ------------------------------------------------------------------------------------------- | ------------ | -------- | ---------- |
+| 1st | [2005年](../Page/2005年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink") | **NU WORLD** | 177位     | VICL-61618 |
+| 2nd | [2009年](../Page/2009年.md "wikilink")[1月28日](../Page/1月28日.md "wikilink")                    | **MELODY**   | 183位     | CTCR-14599 |
 
 #### ベストアルバム
 
@@ -140,13 +140,13 @@ VICL-61980 (通常盤)</p></td>
   - [THEATRE BROOK](../Page/THEATRE_BROOK.md "wikilink")
   - [関口和之](../Page/関口和之.md "wikilink")&砂山オールスターズ
   - [ASA-CHANG](../Page/ASA-CHANG&巡礼.md "wikilink")
-  - [Tokie](https://ja.wikipedia.org/wiki/Tokie "wikilink") (元[RIZE](https://ja.wikipedia.org/wiki/RIZE "wikilink"))
+  - [Tokie](https://ja.wikipedia.org/wiki/Tokie "wikilink") (元[RIZE](../Page/RIZE.md "wikilink"))
   - [塩谷哲](../Page/塩谷哲.md "wikilink")
   - [MOOMIN](https://ja.wikipedia.org/wiki/MOOMIN "wikilink") - 客演
   - [Miss Monday](../Page/Miss_Monday.md "wikilink") - 客演
   - [忌野清志郎](../Page/忌野清志郎.md "wikilink")
   - [泉谷しげる](../Page/泉谷しげる.md "wikilink")
-  - [斉藤和義](https://ja.wikipedia.org/wiki/斉藤和義 "wikilink")
+  - [斉藤和義](../Page/斉藤和義.md "wikilink")
   - [畠山美由紀](../Page/畠山美由紀.md "wikilink")
   - 中納良恵 ([EGO-WRAPPIN'](../Page/EGO-WRAPPIN'.md "wikilink")) - [Double Famousのアルバムに](../Page/Double_Famous.md "wikilink")、畠山、中納と共に参加
   - [山嵐](../Page/山嵐_\(バンド\).md "wikilink")

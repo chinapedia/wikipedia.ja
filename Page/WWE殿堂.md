@@ -9,7 +9,7 @@ WWE殿堂が設定されたきっかけは、[1993年](../Page/1993年.md "wikil
 
 [2004年](../Page/2004年.md "wikilink")に入り、1996年以降行われていなかった殿堂入りが復活する。団体の名称がWWEに変更していたので、殿堂の名称もWWE殿堂となった。また、殿堂入りの表彰は[レッスルマニア](../Page/レッスルマニア.md "wikilink")前日に行われるイベントとして、一連のレッスルマニアの行事に組み込まれ、式典も盛大に行われることとなった。レッスルマニアの当日にも、開催会場において殿堂者が紹介される時間が設けられている。
 
-[2006年](../Page/2006年.md "wikilink")に[バーン・ガニア](../Page/バーン・ガニア.md "wikilink")が殿堂入りして以降は、[NWAや](https://ja.wikipedia.org/wiki/NWA_\(プロレス\) "wikilink")[AWAなど他団体で活動していたレスラーや関係者の殿堂入りも相次いでいる](../Page/アメリカン・レスリング・アソシエーション.md "wikilink")。日本を本拠としていたレスラーでは、[アントニオ猪木](../Page/アントニオ猪木.md "wikilink")が[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")、[藤波辰爾](../Page/藤波辰爾.md "wikilink")が[2015年](../Page/2015年.md "wikilink")に殿堂入りしており、[2017年](../Page/2017年.md "wikilink")には[力道山](../Page/力道山.md "wikilink")がレガシー部門の殿堂者に迎えられた。
+[2006年](../Page/2006年.md "wikilink")に[バーン・ガニア](../Page/バーン・ガニア.md "wikilink")が殿堂入りして以降は、[NWAや](../Page/NWA_\(プロレス\).md "wikilink")[AWAなど他団体で活動していたレスラーや関係者の殿堂入りも相次いでいる](../Page/アメリカン・レスリング・アソシエーション.md "wikilink")。日本を本拠としていたレスラーでは、[アントニオ猪木](../Page/アントニオ猪木.md "wikilink")が[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")、[藤波辰爾](../Page/藤波辰爾.md "wikilink")が[2015年](../Page/2015年.md "wikilink")に殿堂入りしており、[2017年](../Page/2017年.md "wikilink")には[力道山](../Page/力道山.md "wikilink")がレガシー部門の殿堂者に迎えられた。
 
 [2015年](../Page/2015年.md "wikilink")からは障害や病気に立ち向かう人々に向けて、[アルティメット・ウォリアー](../Page/アルティメット・ウォリアー.md "wikilink")の名前を冠した**ウォリアー賞**（*Warrior Award*）が新設された。
 
@@ -36,7 +36,7 @@ WWE殿堂が設定されたきっかけは、[1993年](../Page/1993年.md "wikil
 </tr>
 <tr class="even">
 <td><p><a href="../Page/アーノルド・スコーラン.md" title="wikilink">アーノルド・スコーラン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シェイン・マクマホン" title="wikilink">シェイン・マクマホン</a></p></td>
+<td><p><a href="../Page/シェイン・マクマホン.md" title="wikilink">シェイン・マクマホン</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/ボボ・ブラジル.md" title="wikilink">ボボ・ブラジル</a></p></td>
@@ -221,7 +221,7 @@ WWE殿堂が設定されたきっかけは、[1993年](../Page/1993年.md "wikil
 | ジミー・ハート                                                         | [ジェリー・ローラー](../Page/ジェリー・ローラー.md "wikilink")         |
 | [ポール・オーンドーフ](../Page/ポール・オーンドーフ.md "wikilink")                  | ボビー・ヒーナン                                             |
 | [ニコライ・ボルコフ](https://ja.wikipedia.org/wiki/ニコライ・ボルコフ "wikilink") | ジム・ロス                                                |
-| [アイアン・シーク](https://ja.wikipedia.org/wiki/コシロ・バジリ "wikilink")    | サージェント・スローター                                         |
+| [アイアン・シーク](../Page/コシロ・バジリ.md "wikilink")                       | サージェント・スローター                                         |
 
 ### 2006年
 
@@ -412,7 +412,7 @@ WWE殿堂が設定されたきっかけは、[1993年](../Page/1993年.md "wikil
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/ロード・ウォリアーズ.md" title="wikilink">ロード・ウォリアーズ / リージョン・オブ・ドゥーム</a><br />
-（<a href="https://ja.wikipedia.org/wiki/ロード・ウォリアー・ホーク" title="wikilink">ロード・ウォリアー・ホーク</a>、<a href="https://ja.wikipedia.org/wiki/ロード・ウォリアー・アニマル" title="wikilink">ロード・ウォリアー・アニマル</a>）&amp;<a href="https://ja.wikipedia.org/wiki/ポール・エラリング" title="wikilink">ポール・エラリング</a></p></td>
+（<a href="../Page/ロード・ウォリアー・ホーク.md" title="wikilink">ロード・ウォリアー・ホーク</a>、<a href="../Page/ロード・ウォリアー・アニマル.md" title="wikilink">ロード・ウォリアー・アニマル</a>）&amp;<a href="https://ja.wikipedia.org/wiki/ポール・エラリング" title="wikilink">ポール・エラリング</a></p></td>
 <td><p>ダスティ・ローデス</p></td>
 </tr>
 <tr class="even">
@@ -433,7 +433,7 @@ WWE殿堂が設定されたきっかけは、[1993年](../Page/1993年.md "wikil
 <td><p><strong>インダクター</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/アダム・コープランド" title="wikilink">エッジ</a></p></td>
+<td><p><a href="../Page/アダム・コープランド.md" title="wikilink">エッジ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/クリスチャン_(プロレスラー)" title="wikilink">クリスチャン</a></p></td>
 </tr>
 <tr class="odd">
@@ -480,11 +480,11 @@ WWE殿堂が設定されたきっかけは、[1993年](../Page/1993年.md "wikil
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/トリッシュ・ストラタス" title="wikilink">トリッシュ・ストラタス</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ステファニー・マクマホン＝レヴェック" title="wikilink">ステファニー・マクマホン</a></p></td>
+<td><p><a href="../Page/トリッシュ・ストラタス.md" title="wikilink">トリッシュ・ストラタス</a></p></td>
+<td><p><a href="../Page/ステファニー・マクマホン＝レヴェック.md" title="wikilink">ステファニー・マクマホン</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ブルーノ・サンマルチノ" title="wikilink">ブルーノ・サンマルチノ</a></p></td>
+<td><p><a href="../Page/ブルーノ・サンマルチノ.md" title="wikilink">ブルーノ・サンマルチノ</a></p></td>
 <td><p><a href="../Page/アーノルド・シュワルツェネッガー.md" title="wikilink">アーノルド・シュワルツェネッガー</a></p></td>
 </tr>
 <tr class="even">
@@ -510,7 +510,7 @@ WWE殿堂が設定されたきっかけは、[1993年](../Page/1993年.md "wikil
 | [ジェイク "ザ・スネーク" ロバーツ](../Page/ジェイク・ロバーツ.md "wikilink")         | [ダイヤモンド・ダラス・ペイジ](../Page/ダイヤモンド・ダラス・ペイジ.md "wikilink")                                                                                          |
 | [ポール・ベアラー](https://ja.wikipedia.org/wiki/ポール・ベアラー "wikilink") | ケイン                                                                                                                                             |
 | [ミスター・T](../Page/ミスター・T.md "wikilink")                        | ジーン・オーカーランド                                                                                                                                     |
-| [リタ](https://ja.wikipedia.org/wiki/エーミィ・ダーマス "wikilink")      | トリッシュ・ストラタス                                                                                                                                     |
+| [リタ](../Page/エーミィ・ダーマス.md "wikilink")                         | トリッシュ・ストラタス                                                                                                                                     |
 | [レイザー・ラモン](../Page/スコット・ホール.md "wikilink")                    | [ケビン・ナッシュ](../Page/ケビン・ナッシュ.md "wikilink")                                                                                                      |
 
 ### 2015年
@@ -539,7 +539,7 @@ WWE殿堂が設定されたきっかけは、[1993年](../Page/1993年.md "wikil
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ザ・ブッシュワッカーズ" title="wikilink">ザ・ブッシュワッカーズ</a><br />
 （<a href="https://ja.wikipedia.org/wiki/ブッチ・ミラー" title="wikilink">ブッチ・ミラー</a>、<a href="https://ja.wikipedia.org/wiki/ルーク・ウィリアムス" title="wikilink">ルーク・ウィリアムス</a>）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョン・ロウリネイティス" title="wikilink">ジョン・ロウリネイティス</a></p></td>
+<td><p><a href="../Page/ジョン・ロウリネイティス.md" title="wikilink">ジョン・ロウリネイティス</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/デブラ・ミセリー.md" title="wikilink">アランドラ・ブレイズ</a></p></td>
@@ -589,7 +589,7 @@ WWE殿堂が設定されたきっかけは、[1993年](../Page/1993年.md "wikil
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ジャクリーン・ムーア" title="wikilink">ジャクリーン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ダッドリー・ボーイズ" title="wikilink">ダッドリー・ボーイズ</a> (<a href="../Page/マーク・ロモナコ.md" title="wikilink">ババ・レイ・ダッドリー</a>&amp;<a href="../Page/ディーボン・ヒューズ.md" title="wikilink">ディーボン・ダッドリー</a>)</p></td>
+<td><p><a href="../Page/ダッドリー・ボーイズ.md" title="wikilink">ダッドリー・ボーイズ</a> (<a href="../Page/マーク・ロモナコ.md" title="wikilink">ババ・レイ・ダッドリー</a>&amp;<a href="../Page/ディーボン・ヒューズ.md" title="wikilink">ディーボン・ダッドリー</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p>スタン・ハンセン</p></td>
@@ -655,7 +655,7 @@ WWE殿堂が設定されたきっかけは、[1993年](../Page/1993年.md "wikil
 <td><p><strong>インダクター</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ビル・ゴールドバーグ" title="wikilink">ゴールドバーグ</a></p></td>
+<td><p><a href="../Page/ビル・ゴールドバーグ.md" title="wikilink">ゴールドバーグ</a></p></td>
 <td><p><a href="../Page/ポール・ヘイマン.md" title="wikilink">ポール・ヘイマン</a></p></td>
 </tr>
 <tr class="odd">
@@ -711,7 +711,7 @@ WWE殿堂が設定されたきっかけは、[1993年](../Page/1993年.md "wikil
 <td><p>ジミー・ハート</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/トリー・ウィルソン" title="wikilink">トリー・ウィルソン</a></p></td>
+<td><p><a href="../Page/トリー・ウィルソン.md" title="wikilink">トリー・ウィルソン</a></p></td>
 <td><p><a href="../Page/ステイシー・キーブラー.md" title="wikilink">ステイシー・キーブラー</a></p></td>
 </tr>
 <tr class="odd">
@@ -776,7 +776,7 @@ WWE殿堂が設定されたきっかけは、[1993年](../Page/1993年.md "wikil
 |                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **年度**                               | **表彰者**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| [2016年](../Page/2016年.md "wikilink") | [ミルドレッド・バーク](https://ja.wikipedia.org/wiki/ミルドレッド・バーク "wikilink")、[フランク・ゴッチ](../Page/フランク・ゴッチ.md "wikilink")、[ジョージ・ハッケンシュミット](../Page/ジョージ・ハッケンシュミット.md "wikilink")、[エド "ストラングラー" ルイス](https://ja.wikipedia.org/wiki/エド・ルイス "wikilink")、[パット・オコーナー](../Page/パット・オコーナー.md "wikilink")、[ルー・テーズ](https://ja.wikipedia.org/wiki/ルー・テーズ "wikilink")、["セーラー" アート・トーマス](https://ja.wikipedia.org/wiki/アート・トーマス "wikilink")                                                                                             |
+| [2016年](../Page/2016年.md "wikilink") | [ミルドレッド・バーク](https://ja.wikipedia.org/wiki/ミルドレッド・バーク "wikilink")、[フランク・ゴッチ](../Page/フランク・ゴッチ.md "wikilink")、[ジョージ・ハッケンシュミット](../Page/ジョージ・ハッケンシュミット.md "wikilink")、[エド "ストラングラー" ルイス](https://ja.wikipedia.org/wiki/エド・ルイス "wikilink")、[パット・オコーナー](../Page/パット・オコーナー.md "wikilink")、[ルー・テーズ](../Page/ルー・テーズ.md "wikilink")、["セーラー" アート・トーマス](https://ja.wikipedia.org/wiki/アート・トーマス "wikilink")                                                                                                                |
 | [2017年](../Page/2017年.md "wikilink") | [ヘイスタック・カルホーン](https://ja.wikipedia.org/wiki/ヘイスタック・カルホーン "wikilink")、、[ベアキャット・ライト](https://ja.wikipedia.org/wiki/ベアキャット・ライト "wikilink")、、[力道山](../Page/力道山.md "wikilink")、[ルター・レンジ](https://ja.wikipedia.org/wiki/ルター・レンジ "wikilink")、、、[ドクター・ジェリー・グラハム](https://ja.wikipedia.org/wiki/ジェリー・グラハム "wikilink")                                                                                                                                                                                                   |
 | [2018年](../Page/2018年.md "wikilink") | [スタン・スタージャック](https://ja.wikipedia.org/wiki/スタン・スタージャック "wikilink")、[ロード・アルフレッド・ヘイズ](https://ja.wikipedia.org/wiki/ロード・アルフレッド・ヘイズ "wikilink")、、、[エル・サント](../Page/エル・サント.md "wikilink")、、[ルーファス・R・ジョーンズ](https://ja.wikipedia.org/wiki/ルーファス・ジョーンズ "wikilink")、、[ボリス・マレンコ](https://ja.wikipedia.org/wiki/ボリス・マレンコ "wikilink")、[ヒロ・マツダ](../Page/ヒロ・マツダ.md "wikilink")                                                                                                                                             |
 | [2019年](../Page/2019年.md "wikilink") | [ブルーザー・ブロディ](../Page/ブルーザー・ブロディ.md "wikilink")、[ワフー・マクダニエル](../Page/ワフー・マクダニエル.md "wikilink")、[ルナ・バション](https://ja.wikipedia.org/wiki/ルナ・バション "wikilink")、[S・D・ジョーンズ](https://ja.wikipedia.org/wiki/スペシャル・デリバリー・ジョーンズ "wikilink")、[プロフェッサー・トール・タナカ](../Page/プロフェッサー・タナカ.md "wikilink")、[プリモ・カルネラ](../Page/プリモ・カルネラ.md "wikilink")、ジョセフ・コーエン、[新間寿](../Page/新間寿.md "wikilink")、["プレイボーイ" バディ・ローズ](https://ja.wikipedia.org/wiki/バディ・ローズ "wikilink")、[ジム・バーネット](https://ja.wikipedia.org/wiki/ジム・バーネット "wikilink") |

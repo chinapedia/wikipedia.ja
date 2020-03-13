@@ -1,7 +1,7 @@
 > この記事は[BiiN](https://ja.wikipedia.org/wiki/BiiN)から翻訳されています。
 
 
-**BiiN**は、[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")と[シーメンス](../Page/シーメンス.md "wikilink")の共同研究開発プロジェクトのために作られた企業であり、特注の[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink")を使って[フォールトトレラントな高性能](https://ja.wikipedia.org/wiki/フォールトトレラント設計 "wikilink")[マルチプロセッサ](https://ja.wikipedia.org/wiki/マルチプロセッサ "wikilink")[コンピュータ](../Page/コンピュータ.md "wikilink")を作ることを目的としていた。BiiNは[Intel iAPX 432](../Page/Intel_iAPX_432.md "wikilink")[マルチプロセッサ](https://ja.wikipedia.org/wiki/マルチプロセッサ "wikilink")プロジェクトの発展したものであり、[Intel iPSCや](https://ja.wikipedia.org/wiki/Intel_iPSC "wikilink")[nCUBE](https://ja.wikipedia.org/wiki/nCUBE "wikilink")を後に生み出す元となった。
+**BiiN**は、[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")と[シーメンス](../Page/シーメンス.md "wikilink")の共同研究開発プロジェクトのために作られた企業であり、特注の[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink")を使って[フォールトトレラントな高性能](../Page/フォールトトレラント設計.md "wikilink")[マルチプロセッサ](https://ja.wikipedia.org/wiki/マルチプロセッサ "wikilink")[コンピュータ](../Page/コンピュータ.md "wikilink")を作ることを目的としていた。BiiNは[Intel iAPX 432](../Page/Intel_iAPX_432.md "wikilink")[マルチプロセッサ](https://ja.wikipedia.org/wiki/マルチプロセッサ "wikilink")プロジェクトの発展したものであり、[Intel iPSCや](https://ja.wikipedia.org/wiki/Intel_iPSC "wikilink")[nCUBE](https://ja.wikipedia.org/wiki/nCUBE "wikilink")を後に生み出す元となった。
 
 この企業は1989年10月に事業を停止し、1990年4月に解散した。売り上げは全くなかった。しかし特注プロセッサの機能削減版は後に[Intel i960として商用化され](../Page/Intel_i960.md "wikilink")、1990年代中盤にはある程度人気となった。プロジェクト失敗の原因はインテルの管理能力の無さにあったと言われている。
 

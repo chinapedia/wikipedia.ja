@@ -11,13 +11,13 @@
 
 試合に際して、リング内外に凶器が設置され、試合中に自由に使うことができるようになっている。特に、机と椅子は攻撃で利用した際に破壊されることが多く、あらかじめ多くの机や椅子が用意される。対戦相手を机の上に横たえて、机めかげて[ムーンサルトプレス](../Page/ムーンサルトプレス.md "wikilink")やスワントーンダイブなどの飛び技を繰り出し、机まで破壊される光景が試合のハイライトの1つである。
 
-[2002年](../Page/2002年.md "wikilink")にWWEのTV番組、[RAWで行われたTLC戦](../Page/WWE・ロウ.md "wikilink")（参加者 : [クリス・ジェリコ](../Page/クリス・ジェリコ.md "wikilink")＆[クリスチャン](../Page/ジェイソン・リソ.md "wikilink")、[ジェフ・ハーディー](../Page/ジェフ・ハーディー.md "wikilink")＆[ロブ・ヴァン・ダム](../Page/ロブ・ヴァン・ダム.md "wikilink")、[ババレイ・ダッドリー](../Page/マーク・ロモナコ.md "wikilink")＆[スパイク・ダッドリー](../Page/マット・ハイソン.md "wikilink")、[ケイン](https://ja.wikipedia.org/wiki/グレン・ジェイコブズ "wikilink")）は、[1993年](../Page/1993年.md "wikilink")から始まったロウの10年間における最高の試合として、[2003年](../Page/2003年.md "wikilink")のロウ10周年記念番組にて「最高の試合賞」に賞された。（この試合でケインはハリケーン（現[グレゴリー・ヘルムズ](https://ja.wikipedia.org/wiki/グレゴリー・ヘルムズ "wikilink")）と組んで対戦予定だったが、直前にハリケーンは[トリプルH](../Page/トリプルH.md "wikilink")と[リック・フレアー](../Page/リック・フレアー.md "wikilink")に襲われて出場不能となり、ケインだけ相棒がいない状態で戦った）
+[2002年](../Page/2002年.md "wikilink")にWWEのTV番組、[RAWで行われたTLC戦](../Page/WWE・ロウ.md "wikilink")（参加者 : [クリス・ジェリコ](../Page/クリス・ジェリコ.md "wikilink")＆[クリスチャン](../Page/ジェイソン・リソ.md "wikilink")、[ジェフ・ハーディー](../Page/ジェフ・ハーディー.md "wikilink")＆[ロブ・ヴァン・ダム](../Page/ロブ・ヴァン・ダム.md "wikilink")、[ババレイ・ダッドリー](../Page/マーク・ロモナコ.md "wikilink")＆[スパイク・ダッドリー](../Page/マット・ハイソン.md "wikilink")、[ケイン](https://ja.wikipedia.org/wiki/グレン・ジェイコブズ "wikilink")）は、[1993年](../Page/1993年.md "wikilink")から始まったロウの10年間における最高の試合として、[2003年](../Page/2003年.md "wikilink")のロウ10周年記念番組にて「最高の試合賞」に賞された。（この試合でケインはハリケーン（現[グレゴリー・ヘルムズ](../Page/グレゴリー・ヘルムズ.md "wikilink")）と組んで対戦予定だったが、直前にハリケーンは[トリプルH](../Page/トリプルH.md "wikilink")と[リック・フレアー](../Page/リック・フレアー.md "wikilink")に襲われて出場不能となり、ケインだけ相棒がいない状態で戦った）
 
 [2006年](../Page/2006年.md "wikilink")には、[エッジと](../Page/アダム・コープランド.md "wikilink")、[リック・フレアー](../Page/リック・フレアー.md "wikilink")がこの形式で初めて[WWE王座](https://ja.wikipedia.org/wiki/WWE王座 "wikilink")戦を行った。
 
 また、[TNAでは](https://ja.wikipedia.org/wiki/TNAレスリング "wikilink")**フル・メタル・メイヘム**（*Full Metal Mayhem*）という、TLC戦から派生した試合形式が存在する。
 
-日本では主に[DDTや](../Page/DDTプロレスリング.md "wikilink")[大日本プロレス](../Page/大日本プロレス.md "wikilink")で採用されている。[ユニオンプロレス](../Page/ユニオンプロレス.md "wikilink")では机の代わりにハンマー（**T**onkachi）が使用される。大日本では2014年5月5日[横浜文化体育館](../Page/横浜文化体育館.md "wikilink")での[BJW認定デスマッチヘビー級選手権試合にて](https://ja.wikipedia.org/wiki/BJW認定デスマッチヘビー級王座 "wikilink")[蛍光灯](../Page/蛍光灯.md "wikilink")を300本追加された上で行われている。[全日本プロレス](../Page/全日本プロレス.md "wikilink")でも2012年3月4日後楽園ホールでの[TEAMビチッと\!](https://ja.wikipedia.org/wiki/TEAMビチッと! "wikilink") vs. [GET WILDがTLC戦として行われた](https://ja.wikipedia.org/wiki/GET_WILD_\(プロレス\) "wikilink")。
+日本では主に[DDTや](../Page/DDTプロレスリング.md "wikilink")[大日本プロレス](../Page/大日本プロレス.md "wikilink")で採用されている。[ユニオンプロレス](../Page/ユニオンプロレス.md "wikilink")では机の代わりにハンマー（**T**onkachi）が使用される。大日本では2014年5月5日[横浜文化体育館](../Page/横浜文化体育館.md "wikilink")での[BJW認定デスマッチヘビー級選手権試合にて](../Page/BJW認定デスマッチヘビー級王座.md "wikilink")[蛍光灯](../Page/蛍光灯.md "wikilink")を300本追加された上で行われている。[全日本プロレス](../Page/全日本プロレス.md "wikilink")でも2012年3月4日後楽園ホールでの[TEAMビチッと\!](https://ja.wikipedia.org/wiki/TEAMビチッと! "wikilink") vs. [GET WILDがTLC戦として行われた](https://ja.wikipedia.org/wiki/GET_WILD_\(プロレス\) "wikilink")。
 
 ## 歴代試合結果(WWE)
 
@@ -60,7 +60,7 @@
 
   -
     WWEタッグ選手権試合
-    ○[ケイン](https://ja.wikipedia.org/wiki/グレン・ジェイコブズ "wikilink")＆[ザ・ハリケーン](https://ja.wikipedia.org/wiki/グレゴリー・ヘルムズ "wikilink")(c) vs クリス・ジェリコ＆クリスチャン vs ババ・レイ・ダッドリー＆[スパイク・ダッドリー](../Page/マット・ハイソン.md "wikilink") vs [ロブ・ヴァン・ダム](../Page/ロブ・ヴァン・ダム.md "wikilink")＆ジェフ・ハーディー
+    ○[ケイン](https://ja.wikipedia.org/wiki/グレン・ジェイコブズ "wikilink")＆[ザ・ハリケーン](../Page/グレゴリー・ヘルムズ.md "wikilink")(c) vs クリス・ジェリコ＆クリスチャン vs ババ・レイ・ダッドリー＆[スパイク・ダッドリー](../Page/マット・ハイソン.md "wikilink") vs [ロブ・ヴァン・ダム](../Page/ロブ・ヴァン・ダム.md "wikilink")＆ジェフ・ハーディー
     （ケイン＆ザ・ハリケーンがWWEタッグ王座を防衛）
 
 <!-- end list -->

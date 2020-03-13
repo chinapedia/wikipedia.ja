@@ -12,7 +12,7 @@
 ## メンバー
 
   - [藤岡麻美](../Page/藤岡麻美.md "wikilink")
-  - [小林裕美](https://ja.wikipedia.org/wiki/上條りかこ "wikilink")
+  - [小林裕美](../Page/上條りかこ.md "wikilink")
 
 ## 音楽
 

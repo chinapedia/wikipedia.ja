@@ -37,7 +37,7 @@
 
 ### 最盛期
 
-[The_Original_Playboy_Mansion.jpg](https://ja.wikipedia.org/wiki/File:The_Original_Playboy_Mansion.jpg "fig:The_Original_Playboy_Mansion.jpg") [1950年代](../Page/1950年代.md "wikilink")後半から[1970年代](../Page/1970年代.md "wikilink")前半にかけて、洒落た紙面レイアウトに女性ピンナップ、そして[マーティン・ルーサー・キング](https://ja.wikipedia.org/wiki/マーティン・ルーサー・キング "wikilink")や[マルコムX](https://ja.wikipedia.org/wiki/マルコムX "wikilink")、[サミー・デイヴィスJr.](https://ja.wikipedia.org/wiki/サミー・デイヴィスJr. "wikilink")や[ジャン＝ポール・サルトル](https://ja.wikipedia.org/wiki/ジャン＝ポール・サルトル "wikilink")、[フィデル・カストロ](../Page/フィデル・カストロ.md "wikilink")など広範な層へのインタビューと並び、著名な作家の作品など、文化的意義を強く押し出した内容が特に[ベビーブーマー](../Page/ベビーブーマー.md "wikilink")世代に対して大きな人気を博し、[ジョン・F・ケネディ](../Page/ジョン・F・ケネディ.md "wikilink")[大統領](../Page/大統領.md "wikilink")も読んでいることを公言した。
+[The_Original_Playboy_Mansion.jpg](https://ja.wikipedia.org/wiki/File:The_Original_Playboy_Mansion.jpg "fig:The_Original_Playboy_Mansion.jpg") [1950年代](../Page/1950年代.md "wikilink")後半から[1970年代](../Page/1970年代.md "wikilink")前半にかけて、洒落た紙面レイアウトに女性ピンナップ、そして[マーティン・ルーサー・キング](https://ja.wikipedia.org/wiki/マーティン・ルーサー・キング "wikilink")や[マルコムX](https://ja.wikipedia.org/wiki/マルコムX "wikilink")、[サミー・デイヴィスJr.](../Page/サミー・デイヴィスJr..md "wikilink")や[ジャン＝ポール・サルトル](https://ja.wikipedia.org/wiki/ジャン＝ポール・サルトル "wikilink")、[フィデル・カストロ](../Page/フィデル・カストロ.md "wikilink")など広範な層へのインタビューと並び、著名な作家の作品など、文化的意義を強く押し出した内容が特に[ベビーブーマー](../Page/ベビーブーマー.md "wikilink")世代に対して大きな人気を博し、[ジョン・F・ケネディ](../Page/ジョン・F・ケネディ.md "wikilink")[大統領](../Page/大統領.md "wikilink")も読んでいることを公言した。
 
 しかし[1963年](../Page/1963年.md "wikilink")6月に、シカゴ警察によりヘフナーが[わいせつ](../Page/わいせつ.md "wikilink")図書の製作及び販売の容疑で逮捕されるが（罪状は[ジェーン・マンスフィールド](https://ja.wikipedia.org/wiki/ジェーン・マンスフィールド "wikilink")のヌード）、11月より行われた裁判で表現の自由を訴え無罪を勝ち取る。
 
@@ -47,7 +47,7 @@
 
 ### 事業多角化
 
-[McDonnell_Douglas_DC-9-32,_Private_JP6252786.jpg](https://ja.wikipedia.org/wiki/File:McDonnell_Douglas_DC-9-32,_Private_JP6252786.jpg "fig:McDonnell_Douglas_DC-9-32,_Private_JP6252786.jpg") [thumb](https://ja.wikipedia.org/wiki/ファイル:Playboy_Bunnies_2011.jpg "wikilink") また1950年代後半には「プレイメイト」にシンボルである[ウサギ](../Page/ウサギ.md "wikilink")をイメージしたコスチューム・[バニー・ガールの格好をさせ](../Page/バニーガール.md "wikilink")[ウェイトレス](https://ja.wikipedia.org/wiki/ウェイトレス "wikilink")に使い、[アレサ・フランクリン](https://ja.wikipedia.org/wiki/アレサ・フランクリン "wikilink")や[ナット・キング・コール](../Page/ナット・キング・コール.md "wikilink")を生でを聴かせる会員制高級クラブ「プレイボーイ・クラブ」を、[シカゴ](../Page/シカゴ.md "wikilink")を皮切りに[ニューヨーク](../Page/ニューヨーク.md "wikilink")や[セントルイス](../Page/セントルイス.md "wikilink")、[マイアミ](../Page/マイアミ.md "wikilink")や[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")に、さらに[カジノ](../Page/カジノ.md "wikilink")を設けた店舗を[ロンドン](../Page/ロンドン.md "wikilink")などにオープンするなど、世界観を広げつつ事業の多角化を進めた。
+[McDonnell_Douglas_DC-9-32,_Private_JP6252786.jpg](https://ja.wikipedia.org/wiki/File:McDonnell_Douglas_DC-9-32,_Private_JP6252786.jpg "fig:McDonnell_Douglas_DC-9-32,_Private_JP6252786.jpg") [thumb](https://ja.wikipedia.org/wiki/ファイル:Playboy_Bunnies_2011.jpg "wikilink") また1950年代後半には「プレイメイト」にシンボルである[ウサギ](../Page/ウサギ.md "wikilink")をイメージしたコスチューム・[バニー・ガールの格好をさせ](../Page/バニーガール.md "wikilink")[ウェイトレス](https://ja.wikipedia.org/wiki/ウェイトレス "wikilink")に使い、[アレサ・フランクリン](../Page/アレサ・フランクリン.md "wikilink")や[ナット・キング・コール](../Page/ナット・キング・コール.md "wikilink")を生でを聴かせる会員制高級クラブ「プレイボーイ・クラブ」を、[シカゴ](../Page/シカゴ.md "wikilink")を皮切りに[ニューヨーク](../Page/ニューヨーク.md "wikilink")や[セントルイス](../Page/セントルイス.md "wikilink")、[マイアミ](../Page/マイアミ.md "wikilink")や[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")に、さらに[カジノ](../Page/カジノ.md "wikilink")を設けた店舗を[ロンドン](../Page/ロンドン.md "wikilink")などにオープンするなど、世界観を広げつつ事業の多角化を進めた。
 
 しかしながらニューヨーク店をオープンするにあたり、[酒](../Page/酒.md "wikilink")の販売許可を得るためにニューヨーク州酒類管理局に賄賂を渡していたことがわかり、営業許可証が取り消されてしまうというトラブルにもあってしまうなど、これまでとは違う種類のビジネスにありがちなトラブルにあってしまう。
 
@@ -65,7 +65,7 @@
 
 [Chef_van_de_afdeling_buitenland_van_Playboy_Lee_Hall_met_Ellen_Soeters,_Bestanddeelnr_932-5642.jpg](https://ja.wikipedia.org/wiki/File:Chef_van_de_afdeling_buitenland_van_Playboy_Lee_Hall_met_Ellen_Soeters,_Bestanddeelnr_932-5642.jpg "fig:Chef_van_de_afdeling_buitenland_van_Playboy_Lee_Hall_met_Ellen_Soeters,_Bestanddeelnr_932-5642.jpg") また1970年代から1980年代においては、[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")各国や[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")など、[先進国](https://ja.wikipedia.org/wiki/先進国 "wikilink")を中心に各言語版の出版を進めたほか、事業多角化や新たなメディアへの進出に必要な資金調達のため、念願の[ニューヨーク株式市場](https://ja.wikipedia.org/wiki/ニューヨーク株式市場 "wikilink")への上場も果たした。
 
-またヘフナーの自宅の「プレイボーイ・マンション・ウェスト」を[ビバリーヒルズ](https://ja.wikipedia.org/wiki/ビバリーヒルズ "wikilink")に作り、パーティーに[ミック・ジャガー](../Page/ミック・ジャガー.md "wikilink")や[モハメド・アリ](../Page/モハメド・アリ.md "wikilink")、[ジェームス・カーン](https://ja.wikipedia.org/wiki/ジェームス・カーン "wikilink")などのセレブリティが集まる名所となる。以降はシカゴとビバリーヒルズをダグラスDC-9で飛び回る生活を送ることになる。
+またヘフナーの自宅の「プレイボーイ・マンション・ウェスト」を[ビバリーヒルズ](../Page/ビバリーヒルズ.md "wikilink")に作り、パーティーに[ミック・ジャガー](../Page/ミック・ジャガー.md "wikilink")や[モハメド・アリ](../Page/モハメド・アリ.md "wikilink")、[ジェームス・カーン](https://ja.wikipedia.org/wiki/ジェームス・カーン "wikilink")などのセレブリティが集まる名所となる。以降はシカゴとビバリーヒルズをダグラスDC-9で飛び回る生活を送ることになる。
 
 しかし1980年代には、ロンドンの「プレイボーイ・クラブ」のカジノの経営権がはく奪されたうえ、[アトランティックシティ](../Page/アトランティックシティ.md "wikilink")のカジノホテルの経営権も下りないなどの波乱に見舞われた（ロンドンの「プレイボーイ・クラブ」はその後営業が再開された）。
 
@@ -81,11 +81,11 @@
 
 また[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に、1953年の創刊号から2009年12月号までの全ての記事を収録した250GB[ハードディスク](https://ja.wikipedia.org/wiki/ハードディスク "wikilink")が、299ドル95セントで発売された。収録号は650を超え、総ページ数は10万以上になるという。
 
-「プレイボーイ・ジャズ・フェスティバル」など、音楽をはじめとするさまなメディアへの進出も安定した収益を上げ、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")から2010年まで放送されたリアリティ番組「ガールズ・ネクスト・ドア」はリアリティショーの人気に乗り、6シーズン続くヒットとなり、またヒューは最後の再婚相手のクリスタル・ ハリスを見つけた。
+「プレイボーイ・ジャズ・フェスティバル」など、音楽をはじめとするさまなメディアへの進出も安定した収益を上げ、[2005年](../Page/2005年.md "wikilink")から2010年まで放送されたリアリティ番組「ガールズ・ネクスト・ドア」はリアリティショーの人気に乗り、6シーズン続くヒットとなり、またヒューは最後の再婚相手のクリスタル・ ハリスを見つけた。
 
 ### ヌード掲載中止
 
-[Holly_Madison_6.jpg](https://ja.wikipedia.org/wiki/File:Holly_Madison_6.jpg "fig:Holly_Madison_6.jpg") [2015年](../Page/2015年.md "wikilink")10月、スコット・フランダース[最高経営責任者](../Page/最高経営責任者.md "wikilink")は、翌2016年3月号を以て、同誌の看板ともいえる女性のフルヌード写真の掲載を中止することを発表した。インターネットが普及し、[裸](https://ja.wikipedia.org/wiki/裸 "wikilink")の画像が容易に閲覧出来る2015年現在では、[ヌード写真](../Page/ヌード写真.md "wikilink")は「時代遅れ」と判断された結果である。
+[Holly_Madison_6.jpg](https://ja.wikipedia.org/wiki/File:Holly_Madison_6.jpg "fig:Holly_Madison_6.jpg") [2015年](../Page/2015年.md "wikilink")10月、スコット・フランダース[最高経営責任者](../Page/最高経営責任者.md "wikilink")は、翌2016年3月号を以て、同誌の看板ともいえる女性のフルヌード写真の掲載を中止することを発表した。インターネットが普及し、[裸](../Page/裸.md "wikilink")の画像が容易に閲覧出来る2015年現在では、[ヌード写真](../Page/ヌード写真.md "wikilink")は「時代遅れ」と判断された結果である。
 
 [2016年](../Page/2016年.md "wikilink")1月/2月号の『最後のフルヌード写真モデル』は、48歳の[パメラ・アンダーソン](../Page/パメラ・アンダーソン.md "wikilink")（[プレイメイト](../Page/プレイメイト.md "wikilink")掲載14回目）が務めた\[2\]\[3\]。しかし掲載停止から1年後となる2017年2月13日、CCOのクーパー・ヘフナーは「ヌードを止めたのは間違いだった」との声明を出し、ヌード写真を紙面に復活させる意向を表明した\[4\]。
 
@@ -150,7 +150,7 @@ Playmate of the Yearへの対価
   - [カール・セーガン](../Page/カール・セーガン.md "wikilink")
   - [サルバドール・ダリ](../Page/サルバドール・ダリ.md "wikilink")
   - [ロバート・デ・ニーロ](../Page/ロバート・デ・ニーロ.md "wikilink")
-  - [ラルフ・ネーダー](https://ja.wikipedia.org/wiki/ラルフ・ネーダー "wikilink")
+  - [ラルフ・ネーダー](../Page/ラルフ・ネーダー.md "wikilink")
   - [スティーヴン・ホーキング](../Page/スティーヴン・ホーキング.md "wikilink")
   - [マルコムX](https://ja.wikipedia.org/wiki/マルコムX "wikilink")
   - [バートランド・ラッセル](../Page/バートランド・ラッセル.md "wikilink")
@@ -158,7 +158,7 @@ Playmate of the Yearへの対価
   - [ジョン・レノン](../Page/ジョン・レノン.md "wikilink")
   - [ジョージ・リンカーン・ロックウェル](https://ja.wikipedia.org/wiki/ジョージ・リンカーン・ロックウェル "wikilink")
 
-といった[セレブリティ](../Page/セレブリティ.md "wikilink")が招かれている。なお、過去に起用されたインタビュアーには[アレックス・ヘイリー](https://ja.wikipedia.org/wiki/アレックス・ヘイリー "wikilink")や[アルビン・トフラー](../Page/アルビン・トフラー.md "wikilink")などがいる。
+といった[セレブリティ](../Page/セレブリティ.md "wikilink")が招かれている。なお、過去に起用されたインタビュアーには[アレックス・ヘイリー](../Page/アレックス・ヘイリー.md "wikilink")や[アルビン・トフラー](../Page/アルビン・トフラー.md "wikilink")などがいる。
 
 ## ロゴ
 
@@ -182,11 +182,11 @@ Playmate of the Yearへの対価
 
 ### 日本
 
-[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では、[女性器](../Page/女性器.md "wikilink")の写った写真を削除した独自版が、[集英社](../Page/集英社.md "wikilink")によって発行されていた。しかし、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[11月](../Page/11月.md "wikilink")下旬に発売された[2009年](../Page/2009年.md "wikilink")1月号を以って日本版「[月刊プレイボーイ](../Page/月刊プレイボーイ.md "wikilink")」を休刊した。不況による広告収入の減少や、[インターネット](../Page/インターネット.md "wikilink")や[携帯電話](../Page/携帯電話.md "wikilink")などの普及により、雑誌離れが進んでいることが休刊の理由とされる。なお、同社が発行する週刊雑誌である「[週刊プレイボーイ](https://ja.wikipedia.org/wiki/週刊プレイボーイ "wikilink")」（2019年9月現在発行継続中）とはライセンス契約を含めて一切関連がない。
+[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では、[女性器](../Page/女性器.md "wikilink")の写った写真を削除した独自版が、[集英社](../Page/集英社.md "wikilink")によって発行されていた。しかし、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[11月](../Page/11月.md "wikilink")下旬に発売された[2009年](../Page/2009年.md "wikilink")1月号を以って日本版「[月刊プレイボーイ](../Page/月刊プレイボーイ.md "wikilink")」を休刊した。不況による広告収入の減少や、[インターネット](../Page/インターネット.md "wikilink")や[携帯電話](../Page/携帯電話.md "wikilink")などの普及により、雑誌離れが進んでいることが休刊の理由とされる。なお、同社が発行する週刊雑誌である「[週刊プレイボーイ](../Page/週刊プレイボーイ.md "wikilink")」（2019年9月現在発行継続中）とはライセンス契約を含めて一切関連がない。
 
 ### アジア
 
-『プレイボーイ』は、[中華人民共和国](../Page/中華人民共和国.md "wikilink")や[ミャンマー](../Page/ミャンマー.md "wikilink")、[タイ](../Page/タイ王国.md "wikilink")、[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")、[韓国などのような](../Page/大韓民国.md "wikilink")、[政治](../Page/政治.md "wikilink")的、もしくは[宗教](../Page/宗教.md "wikilink")的観点から表現の自由が規制されている[アジア](https://ja.wikipedia.org/wiki/アジア "wikilink")の多くの地域のみならず、[中華民国](https://ja.wikipedia.org/wiki/中華民国 "wikilink")や[インド](../Page/インド.md "wikilink")のような表現が比較的自由な[民主主義](../Page/民主主義.md "wikilink")国でも販売、流通が禁じられている。
+『プレイボーイ』は、[中華人民共和国](../Page/中華人民共和国.md "wikilink")や[ミャンマー](../Page/ミャンマー.md "wikilink")、[タイ](../Page/タイ王国.md "wikilink")、[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")、[韓国などのような](../Page/大韓民国.md "wikilink")、[政治](../Page/政治.md "wikilink")的、もしくは[宗教](../Page/宗教.md "wikilink")的観点から表現の自由が規制されている[アジア](../Page/アジア.md "wikilink")の多くの地域のみならず、[中華民国](../Page/中華民国.md "wikilink")や[インド](../Page/インド.md "wikilink")のような表現が比較的自由な[民主主義](../Page/民主主義.md "wikilink")国でも販売、流通が禁じられている。
 
 また、[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")や[ブルネイ](../Page/ブルネイ.md "wikilink")を含む、ほぼ全ての[イスラム国家](../Page/イスラム国家.md "wikilink")でも上記のアジア諸国同様に禁止状態であるが、[2006年](../Page/2006年.md "wikilink")3月に『プレイボーイ』[インドネシア](../Page/インドネシア.md "wikilink")版が立ち上げられようとした。しかし、第1号の発行前から論争が巻き起こった。インドネシア版は日本版同様に何らかの変更が加えられたものになるとされていたが、インドネシア政府はポルノ規制を行うための法的手段などを利用して発行に対抗しようとした。
 

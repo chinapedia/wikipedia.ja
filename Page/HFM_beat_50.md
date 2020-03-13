@@ -1,7 +1,7 @@
 > この記事は[HFM beat 50](https://ja.wikipedia.org/wiki/HFM_beat_50)から翻訳されています。
 
 
-**HFM beat 50**は、[広島エフエム放送](../Page/広島エフエム放送.md "wikilink")が放送していたラジオ番組。2001年7月スタート。DJは[エフエム大阪](../Page/エフエム大阪.md "wikilink")でも活躍中の[庄司悟](https://ja.wikipedia.org/wiki/庄司悟 "wikilink")。HFMのオリジナルチャートトップ50位をカウントダウンする番組。早いテンポでチャートを紹介していく。チャートのみならず、リスナーと電話したり、お悩み相談、クイズなどがリスナー参加型のコーナーが多く、リスナーとの距離が非常に近い。
+**HFM beat 50**は、[広島エフエム放送](../Page/広島エフエム放送.md "wikilink")が放送していたラジオ番組。2001年7月スタート。DJは[エフエム大阪](../Page/エフエム大阪.md "wikilink")でも活躍中の[庄司悟](../Page/庄司悟.md "wikilink")。HFMのオリジナルチャートトップ50位をカウントダウンする番組。早いテンポでチャートを紹介していく。チャートのみならず、リスナーと電話したり、お悩み相談、クイズなどがリスナー参加型のコーナーが多く、リスナーとの距離が非常に近い。
 
 ディレクター・ミキサー・ADなどの内輪ネタが多いのも番組の特徴である。番組以外のスタッフやパーソナリティも出演することがある。また、番組の最後のほうで[SUNMALL LIVE ON RADIOの宣伝をしている](../Page/SUNMALL_LIVE_ON_RADIO.md "wikilink")。
 
@@ -18,10 +18,10 @@
 
   - [木村ミチタ](https://ja.wikipedia.org/wiki/木村ミチタ "wikilink")・・・[MUSIC MANIA](../Page/ミュージック・マニア.md "wikilink")(現：キムラミチタのVibe　ON！MUSIC）のDJだが、ピンチヒッターをした当時は[MUSIC MANIAのDJではなかった](../Page/ミュージック・マニア.md "wikilink")。
   - 渡辺裕之…SUNMALL　LIVE ON RADIO、STREET"H" のDJ
-  - 冨永晃道…[MUSIC SOLEIL LUNCHTIME SATELLITEのDJ](https://ja.wikipedia.org/wiki/MUSIC_SOLEIL_LUNCHTIME_SATELLITE "wikilink")、庄司が所属している事務所の後輩。
+  - 冨永晃道…[MUSIC SOLEIL LUNCHTIME SATELLITEのDJ](../Page/MUSIC_SOLEIL_LUNCHTIME_SATELLITE.md "wikilink")、庄司が所属している事務所の後輩。
   - [藤沢俊一郎](../Page/藤沢俊一郎.md "wikilink")…大阪のラジオで活躍中。
   - [小嶋晶子](https://ja.wikipedia.org/wiki/小嶋晶子 "wikilink")…[FM802](../Page/FM802.md "wikilink")や[FM愛知で活躍中](../Page/エフエム愛知.md "wikilink")。庄司が所属している事務所の後輩、冨永晃道の先輩である。
-  - 屋形英貴…[-WEEKLY PARTY- 週末オトナ計画のパーソナリティ](https://ja.wikipedia.org/wiki/-WEEKLY_PARTY-_週末オトナ計画 "wikilink")
+  - 屋形英貴…[-WEEKLY PARTY- 週末オトナ計画のパーソナリティ](../Page/-WEEKLY_PARTY-_週末オトナ計画.md "wikilink")
   - ケンちゃん…番組の初代ミキサー
 
 <!-- end list -->
@@ -57,7 +57,7 @@
 
 ## 公開生放送・イベント
 
-時々公開生放送やイベントをしている。2001年頃までは[紙屋町シャレオ](https://ja.wikipedia.org/wiki/紙屋町シャレオ "wikilink")iスタジオからの公開生放送をしていたこともあったが、後にHMV広島で主にやるようになった。公開生放送終了後には、来てくれた人一人一人に握手や話をしたりすることもある。ステッカーがもらえることもある。 このときは、毎回ゲストコーナーがある。
+時々公開生放送やイベントをしている。2001年頃までは[紙屋町シャレオ](../Page/紙屋町シャレオ.md "wikilink")iスタジオからの公開生放送をしていたこともあったが、後にHMV広島で主にやるようになった。公開生放送終了後には、来てくれた人一人一人に握手や話をしたりすることもある。ステッカーがもらえることもある。 このときは、毎回ゲストコーナーがある。
 
 2005年3月19日に[アルパーク](../Page/アルパーク.md "wikilink")で行われた、クイズコーナー「イントロの匠」の公開イベント『イントロの匠選手権inアルパーク」が番組で実質、最後の公開イベントとなった。
 

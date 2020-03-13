@@ -1,7 +1,7 @@
 > この記事は[DJ TETSUYA,REQUEST MASTER](https://ja.wikipedia.org/wiki/DJ_TETSUYA,REQUEST_MASTER)から翻訳されています。
 
 
-**DJ TETSUYA,REQUEST MASTER**（ディジェイテツヤリクエストマスター）は[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")4月2日にスタートした[NORTH WAVEのリクエスト番組](../Page/エフエム・ノースウェーブ.md "wikilink")。NORTH WAVEでリクエスト番組をオンエアーするのは2年ぶりでもある。制作ディレクターはエニビーサウンズの川上氏（KWKMHRK）。'06年10月2日から月曜日から木曜17:00\~20:00('06年9月28日までは16:00\~19:00 JST)に放送時間を変更。'08年9月をもって番組は終了し、10月からはMASTER'S LOCKに移行した。
+**DJ TETSUYA,REQUEST MASTER**（ディジェイテツヤリクエストマスター）は[2005年](../Page/2005年.md "wikilink")4月2日にスタートした[NORTH WAVEのリクエスト番組](../Page/エフエム・ノースウェーブ.md "wikilink")。NORTH WAVEでリクエスト番組をオンエアーするのは2年ぶりでもある。制作ディレクターはエニビーサウンズの川上氏（KWKMHRK）。'06年10月2日から月曜日から木曜17:00\~20:00('06年9月28日までは16:00\~19:00 JST)に放送時間を変更。'08年9月をもって番組は終了し、10月からはMASTER'S LOCKに移行した。
 
 ## コーナー
 

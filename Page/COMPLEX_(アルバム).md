@@ -56,7 +56,7 @@
         布袋が家に歩いて帰る最中に浮かんできた楽曲で、[イントロ](https://ja.wikipedia.org/wiki/イントロ "wikilink")のフレーズが頭の中で鳴った瞬間に「COMPLEXの勝利を確信した」と語っている。
 3.  **路地裏のVENUS**
       -
-        普段布袋には使用機会の少ない[レスポール](https://ja.wikipedia.org/wiki/レスポール "wikilink")でレコーディングされた。後に、吉川がソロライブで演奏したものがミニアルバム『[The Gundogs](https://ja.wikipedia.org/wiki/The_Gundogs "wikilink")』（[2002年](../Page/2002年.md "wikilink")）に収録されている。
+        普段布袋には使用機会の少ない[レスポール](https://ja.wikipedia.org/wiki/レスポール "wikilink")でレコーディングされた。後に、吉川がソロライブで演奏したものがミニアルバム『[The Gundogs](../Page/The_Gundogs.md "wikilink")』（[2002年](../Page/2002年.md "wikilink")）に収録されている。
 4.  **RAMBLING MAN**
 5.  **そんな君はほしくない**
 6.  **CRY FOR LOVE**
@@ -135,6 +135,6 @@ CT32-5443</p></td>
 [Category:COMPLEXのアルバム](https://ja.wikipedia.org/wiki/Category:COMPLEXのアルバム "wikilink") [Category:デビュー・アルバム](https://ja.wikipedia.org/wiki/Category:デビュー・アルバム "wikilink") [Category:1989年のアルバム](https://ja.wikipedia.org/wiki/Category:1989年のアルバム "wikilink") [Category:1989年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1989年のオリコンアルバムチャート1位獲得作品 "wikilink")
 
 1.  なお、同スタジオはアルバム発売直後の1989年9月にモンセラットを直撃した[ハリケーン](../Page/ハリケーン.md "wikilink")・ヒューゴの被害を受け閉鎖。
-2.  『[19901108](https://ja.wikipedia.org/wiki/19901108 "wikilink")』、『[COMPLEX 20110730 日本一心](https://ja.wikipedia.org/wiki/COMPLEX_20110730_日本一心 "wikilink")』で確認できる。
+2.  『[19901108](../Page/19901108.md "wikilink")』、『[COMPLEX 20110730 日本一心](https://ja.wikipedia.org/wiki/COMPLEX_20110730_日本一心 "wikilink")』で確認できる。
 3.  同商品のキャッチコピー「止まらない 新・微糖」と本曲のタイトルとを掛けている。
 4.  2006年に行われた単独ライブ「kurukuru bird」内のコント「キャンプファイヤー」で披露されている。尚、メンバーである設楽統は布袋がかつて所属していたバンド・[BOØWYのファンである事をテレビなどで公言している](https://ja.wikipedia.org/wiki/BOOWY "wikilink")。

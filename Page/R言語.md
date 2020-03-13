@@ -83,8 +83,8 @@ cat(Ans)
   - 文字列・式の相互変換や[パターンマッチング](../Page/パターンマッチング.md "wikilink")検索・編集などの[文字列](../Page/文字列.md "wikilink")操作
   - 対話的処理だけでなく[バッチ処理](../Page/バッチ処理.md "wikilink")も可能
   - 解析手法の比較検証には欠かせない「定番の検証用データ集」
-  - [ニューラルネット](https://ja.wikipedia.org/wiki/ニューラルネット "wikilink")、[決定木](https://ja.wikipedia.org/wiki/決定木 "wikilink")、[クラスター](../Page/クラスター.md "wikilink")、[線形](https://ja.wikipedia.org/wiki/線形 "wikilink")・[非線形](https://ja.wikipedia.org/wiki/非線形 "wikilink")・[自己相関](../Page/自己相関.md "wikilink")モデルなど、多数の高水準組込関数群
-  - [画像処理](../Page/画像処理.md "wikilink")・[音声合成](https://ja.wikipedia.org/wiki/音声合成 "wikilink")・[GIS](../Page/地理情報システム.md "wikilink")・[テキストマイニング](../Page/テキストマイニング.md "wikilink")など**CRAN**によって日々強化される拡張機能
+  - [ニューラルネット](https://ja.wikipedia.org/wiki/ニューラルネット "wikilink")、[決定木](../Page/決定木.md "wikilink")、[クラスター](../Page/クラスター.md "wikilink")、[線形](https://ja.wikipedia.org/wiki/線形 "wikilink")・[非線形](https://ja.wikipedia.org/wiki/非線形 "wikilink")・[自己相関](../Page/自己相関.md "wikilink")モデルなど、多数の高水準組込関数群
+  - [画像処理](../Page/画像処理.md "wikilink")・[音声合成](../Page/音声合成.md "wikilink")・[GIS](../Page/地理情報システム.md "wikilink")・[テキストマイニング](../Page/テキストマイニング.md "wikilink")など**CRAN**によって日々強化される拡張機能
   - [擬似乱数](../Page/擬似乱数.md "wikilink")生成法として[メルセンヌ・ツイスタ](../Page/メルセンヌ・ツイスタ.md "wikilink")（[デフォルト設定](../Page/デフォルト_\(コンピュータ\).md "wikilink")）や他の多種の生成法が選択可能
   - すべてのプラットフォームにおいて64bit対応
 

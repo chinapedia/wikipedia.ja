@@ -3,7 +3,7 @@
 
 [`thumbのドック`](https://ja.wikipedia.org/wiki/ファイル:Window_maker_freebsd_screenshot.jpg "wikilink")`]]`
 
-**Dock**（ドック）は、[NEXTSTEP](https://ja.wikipedia.org/wiki/NEXTSTEP "wikilink")や[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")で使われる[GUIの一種である](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")。
+**Dock**（ドック）は、[NEXTSTEP](../Page/NEXTSTEP.md "wikilink")や[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")で使われる[GUIの一種である](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")。
 
 ## 概要
 
@@ -23,4 +23,4 @@ Dockは[Windowsで例えると](https://ja.wikipedia.org/wiki/Microsoft_Windows 
 
 [Category:グラフィカルユーザインタフェース](https://ja.wikipedia.org/wiki/Category:グラフィカルユーザインタフェース "wikilink") [Category:MacOS](https://ja.wikipedia.org/wiki/Category:MacOS "wikilink")
 
-1.  [OpenDoc](https://ja.wikipedia.org/wiki/OpenDoc "wikilink")もその一つ。OpenDocのDocはドキュメントの略から派生。Dockとは全く無関係の概念。
+1.  [OpenDoc](../Page/OpenDoc.md "wikilink")もその一つ。OpenDocのDocはドキュメントの略から派生。Dockとは全く無関係の概念。

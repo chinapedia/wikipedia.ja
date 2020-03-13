@@ -7,7 +7,7 @@
 
 ## 国際健康開発センタービル
 
-WKCが入る国際健康開発センタービル（IHDビル）は、[ヘルスケア](https://ja.wikipedia.org/wiki/ヘルスケア "wikilink")関連研究機関・組織等集積によるWKCの活動支援と国際交流を目的に[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に建設された施設。設計は[丹下健三](../Page/丹下健三.md "wikilink")で、直線を基本とするシックな外観デザインは周囲との調和を優先した結果とされる。 [HAT神戸.jpg](https://ja.wikipedia.org/wiki/File:HAT神戸.jpg "fig:HAT神戸.jpg") 車道をはさんだ東隣には[安藤忠雄](../Page/安藤忠雄.md "wikilink")設計の[兵庫県立美術館](../Page/兵庫県立美術館.md "wikilink")、西隣は[国際協力機構](../Page/国際協力機構.md "wikilink")兵庫国際センター（JICA関西）。
+WKCが入る国際健康開発センタービル（IHDビル）は、[ヘルスケア](../Page/ヘルスケア.md "wikilink")関連研究機関・組織等集積によるWKCの活動支援と国際交流を目的に[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に建設された施設。設計は[丹下健三](../Page/丹下健三.md "wikilink")で、直線を基本とするシックな外観デザインは周囲との調和を優先した結果とされる。 [HAT神戸.jpg](https://ja.wikipedia.org/wiki/File:HAT神戸.jpg "fig:HAT神戸.jpg") 車道をはさんだ東隣には[安藤忠雄](../Page/安藤忠雄.md "wikilink")設計の[兵庫県立美術館](../Page/兵庫県立美術館.md "wikilink")、西隣は[国際協力機構](../Page/国際協力機構.md "wikilink")兵庫国際センター（JICA関西）。
 
   - 設計― 丹下健三
   - 竣工― 1998年4月

@@ -7,18 +7,18 @@
 
 *生年月日順*
 
-  - [髙木雄也](https://ja.wikipedia.org/wiki/高木雄也 "wikilink")（たかき ゆうや、1990年3月26日 - ） - 大阪府出身\[3\]。
+  - [髙木雄也](../Page/高木雄也.md "wikilink")（たかき ゆうや、1990年3月26日 - ） - 大阪府出身\[3\]。
   - [伊野尾慧](../Page/伊野尾慧.md "wikilink")（いのお けい、1990年6月22日 - ） - 埼玉県出身\[4\]。
   - [有岡大貴](https://ja.wikipedia.org/wiki/有岡大貴 "wikilink")（ありおか だいき、1991年4月15日 - ） - 千葉県出身\[5\]。2004年に加入\[6\]。
   - [亀井拓](https://ja.wikipedia.org/wiki/亀井拓 "wikilink")（かめい たく、1991年9月9日 - ） - オーストラリア出身。\[7\]
-  - [深澤辰哉](https://ja.wikipedia.org/wiki/深澤辰哉 "wikilink")（ふかざわ たつや、1992年5月5日 - ） - 東京都出身。
+  - [深澤辰哉](../Page/深澤辰哉.md "wikilink")（ふかざわ たつや、1992年5月5日 - ） - 東京都出身。
   - [橋本良亮](https://ja.wikipedia.org/wiki/橋本良亮 "wikilink")（はしもと りょうすけ、1993年7月15日 - ） - 千葉県出身。
 
 ### 過去のメンバー
 
   - 松本光平（まつもと こうへい、1989年6月15日 - ） - 神奈川県出身\[8\]。
   - 村野貴繕（むらの たかよし、1990年10月25日 - ） - 東京都出身\[9\]。
-  - [玉森裕太](https://ja.wikipedia.org/wiki/玉森裕太 "wikilink")（たまもり ゆうた、1990年3月17日 - ） - 東京都出身。
+  - [玉森裕太](../Page/玉森裕太.md "wikilink")（たまもり ゆうた、1990年3月17日 - ） - 東京都出身。
   - 山下拓海（やました たくみ、1991年11月29日 - ） - 東京都出身。\[10\]
   - [浅香航大](../Page/浅香航大.md "wikilink")（あさか こうだい、1992年8月24日 - ） - 神奈川県出身\[11\]。
   - [中島裕翔](https://ja.wikipedia.org/wiki/中島裕翔 "wikilink")（なかじま ゆうと、1993年8月10日 - ） - 東京都出身\[12\]。結成時からのメンバー\[13\]。
@@ -130,7 +130,7 @@
 ### 舞台
 
   - [Johnnys Theater"SダUイMジMェAスRトY2005"](https://ja.wikipedia.org/wiki/SUMMARY#SUMMARY_2005 "wikilink")（2005年、品川プリンス ステラボール）\[38\]
-  - [滝沢演舞城](https://ja.wikipedia.org/wiki/滝沢演舞城#滝沢演舞城_2006 "wikilink")（2006年3月7日 - 4月25日、[新橋演舞場](https://ja.wikipedia.org/wiki/新橋演舞場 "wikilink")）\[39\]
+  - [滝沢演舞城](https://ja.wikipedia.org/wiki/滝沢演舞城#滝沢演舞城_2006 "wikilink")（2006年3月7日 - 4月25日、[新橋演舞場](../Page/新橋演舞場.md "wikilink")）\[39\]
   - One\! -the history of Tackey- （2006年9月5日 - 9月28日、[日生劇場](../Page/日生劇場.md "wikilink")）
   - [滝沢演舞城 2007](https://ja.wikipedia.org/wiki/滝沢演舞城#滝沢演舞城_2007 "wikilink")（2007年7月3日 - 29日、新橋演舞場）
 

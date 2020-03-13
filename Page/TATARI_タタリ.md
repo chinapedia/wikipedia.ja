@@ -1,7 +1,7 @@
 > この記事は[TATARI ](https://ja.wikipedia.org/wiki/TATARI_)から翻訳されています。
 
 
-『**TATARI タタリ**』（原題：*House on Haunted Hill*）は、[ウィリアム・キャッスル](../Page/ウィリアム・キャッスル.md "wikilink")監督の[ホラー映画](../Page/ホラー映画.md "wikilink")『[地獄へつゞく部屋](https://ja.wikipedia.org/wiki/地獄へつゞく部屋 "wikilink")』(1959年)の[リメイク](../Page/リメイク.md "wikilink")作品。1999年に制作された。
+『**TATARI タタリ**』（原題：*House on Haunted Hill*）は、[ウィリアム・キャッスル](../Page/ウィリアム・キャッスル.md "wikilink")監督の[ホラー映画](../Page/ホラー映画.md "wikilink")『[地獄へつゞく部屋](../Page/地獄へつゞく部屋.md "wikilink")』(1959年)の[リメイク](../Page/リメイク.md "wikilink")作品。1999年に制作された。
 
 廃病院に潜む[死霊](../Page/死霊.md "wikilink")の恐怖を最新の[VFX](../Page/VFX.md "wikilink")（視覚効果）と、[グロテスク](../Page/グロテスク.md "wikilink")な[特殊メイク](../Page/特殊メイク.md "wikilink")を駆使して描く。[ダーク・キャッスル・エンターテインメント](../Page/ダーク・キャッスル・エンターテインメント.md "wikilink")が制作した最初の作品でもある。 日本語版字幕は東野聡が担当。 [映倫](https://ja.wikipedia.org/wiki/映倫 "wikilink")では[PG-12](https://ja.wikipedia.org/wiki/PG-12 "wikilink")指定がされており、[MPAA](https://ja.wikipedia.org/wiki/MPAA "wikilink")ではR指定がなされている。
 
@@ -46,7 +46,7 @@
   - セット - ローリ・ガフィン
   - 衣装 - ハー・グエン
   - 特殊メイク・デザイン - [ディック・スミス](https://ja.wikipedia.org/wiki/ディック・スミス "wikilink")
-  - 特殊メイク - [KNB EFX](https://ja.wikipedia.org/wiki/KNB_EFX "wikilink")、ノーマン・カブレラ、ガレット・インメル、シャノン・シェア
+  - 特殊メイク - [KNB EFX](../Page/KNB_EFX.md "wikilink")、ノーマン・カブレラ、ガレット・インメル、シャノン・シェア
   - 特殊効果監修 - トーマス・L・ベルッシモ
   - 特殊効果 - KNB EFX
   - 視覚効果監修 - ロバート・スコタク

@@ -3,7 +3,7 @@
 
 **サスカトゥーン・ジョン・G・ディーフェンベーカー国際空港**（）は、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の[サスカチュワン州](../Page/サスカチュワン州.md "wikilink")最大の都市[サスカトゥーン](../Page/サスカトゥーン.md "wikilink")に位置する[空港](../Page/空港.md "wikilink")。
 
-[2001年](../Page/2001年.md "wikilink")の年間利用客は80万人を超え、州内最大の空港となっている。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")には90万人以上の利用客が見られ、貨物部門ではカナダ国内で20番目に利用の多い空港である。
+[2001年](../Page/2001年.md "wikilink")の年間利用客は80万人を超え、州内最大の空港となっている。[2005年](../Page/2005年.md "wikilink")には90万人以上の利用客が見られ、貨物部門ではカナダ国内で20番目に利用の多い空港である。
 
 ## 歴史
 
@@ -13,7 +13,7 @@
 
 [2000年](../Page/2000年.md "wikilink")には、NAVカナダ（[NAV CANADA](https://ja.wikipedia.org/wiki/:w:NAV_CANADA "wikilink")）によって新しい管制塔が建てられ、空港公団によってターミナルの改築と拡張が始められる。[2002年](../Page/2002年.md "wikilink")10月、1,800万カナダドルを要してターミナル・ビルの改築が一部完成する。この改築は年間1,400万人の利用客を想定して設計された。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、残りのチェックインフロアなどの改築も完成する。同年、エア・カナダは、主な路線だった[トロントへのフライト](https://ja.wikipedia.org/wiki/トロント・ピアソン国際空港 "wikilink")（機材）をそれまでの[エアバスA320](../Page/エアバスA320.md "wikilink")やエアバスA319から[エア・カナダJazz](https://ja.wikipedia.org/wiki/エア・カナダJazz "wikilink")の[CRJ](https://ja.wikipedia.org/wiki/CRJ "wikilink")-705に変更した。翌年の[2006年](../Page/2006年.md "wikilink")にはまた週に何便かはエアバスA319を利用するようになった。同年、空港は駐車場の拡張を行い、プロント航空（[Pronto Airways](https://ja.wikipedia.org/wiki/:w:Pronto_Airways "wikilink")）が就航を開始する。また、ノースウェスタン・エア（[Northwestern Air](https://ja.wikipedia.org/wiki/:w: "wikilink")）とトランスウェスト・エア（[Transwest Air](https://ja.wikipedia.org/wiki/:w: "wikilink")）が[アルバータ州](../Page/アルバータ州.md "wikilink")の[フォートマクマレー](https://ja.wikipedia.org/wiki/フォートマクマレー "wikilink")へ運航を開始した。
+[2005年](../Page/2005年.md "wikilink")、残りのチェックインフロアなどの改築も完成する。同年、エア・カナダは、主な路線だった[トロントへのフライト](https://ja.wikipedia.org/wiki/トロント・ピアソン国際空港 "wikilink")（機材）をそれまでの[エアバスA320](../Page/エアバスA320.md "wikilink")やエアバスA319から[エア・カナダJazz](https://ja.wikipedia.org/wiki/エア・カナダJazz "wikilink")の[CRJ](https://ja.wikipedia.org/wiki/CRJ "wikilink")-705に変更した。翌年の[2006年](../Page/2006年.md "wikilink")にはまた週に何便かはエアバスA319を利用するようになった。同年、空港は駐車場の拡張を行い、プロント航空（[Pronto Airways](https://ja.wikipedia.org/wiki/:w:Pronto_Airways "wikilink")）が就航を開始する。また、ノースウェスタン・エア（[Northwestern Air](https://ja.wikipedia.org/wiki/:w: "wikilink")）とトランスウェスト・エア（[Transwest Air](https://ja.wikipedia.org/wiki/:w: "wikilink")）が[アルバータ州](../Page/アルバータ州.md "wikilink")の[フォートマクマレー](https://ja.wikipedia.org/wiki/フォートマクマレー "wikilink")へ運航を開始した。
 
 ## 脚注
 

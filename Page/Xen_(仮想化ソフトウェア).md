@@ -199,7 +199,7 @@ Xen自体は[デバイスドライバ](../Page/デバイスドライバ.md "wiki
 
 ## 動作環境
 
-多くの[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")が標準でXenを含んでいる。[Fedora Core 4以降](https://ja.wikipedia.org/wiki/Fedora_Core "wikilink")、[Xenoppix](../Page/KNOPPIX.md "wikilink")、[SUSE Linux 10.0](../Page/SUSE.md "wikilink")、[Debian Etch](../Page/Debian.md "wikilink")、[RHEL5](../Page/Red_Hat_Enterprise_Linux.md "wikilink")、[Ubuntu](https://ja.wikipedia.org/wiki/Ubuntu "wikilink")、[NetBSD](../Page/NetBSD.md "wikilink")などでサポートされている。また[Solaris](../Page/Solaris.md "wikilink")/[OpenSolaris](../Page/OpenSolaris.md "wikilink")にも移植されている\[31\]。
+多くの[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")が標準でXenを含んでいる。[Fedora Core 4以降](https://ja.wikipedia.org/wiki/Fedora_Core "wikilink")、[Xenoppix](../Page/KNOPPIX.md "wikilink")、[SUSE Linux 10.0](../Page/SUSE.md "wikilink")、[Debian Etch](../Page/Debian.md "wikilink")、[RHEL5](../Page/Red_Hat_Enterprise_Linux.md "wikilink")、[Ubuntu](../Page/Ubuntu.md "wikilink")、[NetBSD](../Page/NetBSD.md "wikilink")などでサポートされている。また[Solaris](../Page/Solaris.md "wikilink")/[OpenSolaris](../Page/OpenSolaris.md "wikilink")にも移植されている\[31\]。
 
 Xen3.0.2は[P6](../Page/P6マイクロアーキテクチャ.md "wikilink") (Pentium Pro) 以上のCPUで動作する。（一部のモバイル向けCPUはPAE非対応のため動作しない）
 

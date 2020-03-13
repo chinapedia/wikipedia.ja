@@ -26,9 +26,9 @@
 
 ### JFL各局の「HOT 100」
 
-[JFLの企画ネットとして放送している](../Page/JAPAN_FM_LEAGUE.md "wikilink")。802以外に放送開始から大きな休止期間をはさまず継続して放送しているのは『[TOKIO HOT 100](https://ja.wikipedia.org/wiki/TOKIO_HOT_100 "wikilink")』（[J-WAVE](../Page/J-WAVE.md "wikilink")）と『[ATEAM ZIP HOT 100](../Page/ZIP_HOT_100.md "wikilink")』（[ZIP-FM](../Page/ZIP-FM.md "wikilink")）の2つのみ。『[SAPPORO HOT 100](../Page/SAPPORO_HOT_100.md "wikilink")』（[FM NORTH WAVEは](../Page/エフエム・ノースウェーブ.md "wikilink")、2008年に休止し2016年に放送再開\[6\]、他には『[COUNTDOWN KYUSHU HOT 100](../Page/COUNTDOWN_KYUSHU_HOT_100.md "wikilink")』（[CROSS FM](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")）が放送されていたが、終了している。
+[JFLの企画ネットとして放送している](../Page/JAPAN_FM_LEAGUE.md "wikilink")。802以外に放送開始から大きな休止期間をはさまず継続して放送しているのは『[TOKIO HOT 100](../Page/TOKIO_HOT_100.md "wikilink")』（[J-WAVE](../Page/J-WAVE.md "wikilink")）と『[ATEAM ZIP HOT 100](../Page/ZIP_HOT_100.md "wikilink")』（[ZIP-FM](../Page/ZIP-FM.md "wikilink")）の2つのみ。『[SAPPORO HOT 100](../Page/SAPPORO_HOT_100.md "wikilink")』（[FM NORTH WAVEは](../Page/エフエム・ノースウェーブ.md "wikilink")、2008年に休止し2016年に放送再開\[6\]、他には『[COUNTDOWN KYUSHU HOT 100](../Page/COUNTDOWN_KYUSHU_HOT_100.md "wikilink")』（[CROSS FM](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")）が放送されていたが、終了している。
 
-2000年代に入ってからは[JFLの](../Page/JAPAN_FM_LEAGUE.md "wikilink")[HOT 100シリーズの中でも](../Page/HOT_100.md "wikilink")、[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")の楽曲や[J-POP](../Page/J-POP.md "wikilink")が優勢な傾向にある。また、大阪ならではの特徴として、歌詞が[関西弁](https://ja.wikipedia.org/wiki/関西弁 "wikilink")の楽曲が1位を獲得したことがたびたびある（例：[SAKURA](https://ja.wikipedia.org/wiki/SAKURA_\(歌手\) "wikilink")『LOVE 4 REAL』、[ウルフルズ](../Page/ウルフルズ.md "wikilink")『ええねん』『サムライソウル』、[DREAMS COME TRUE](../Page/DREAMS_COME_TRUE.md "wikilink")『[大阪LOVER](../Page/大阪LOVER.md "wikilink")』など）。
+2000年代に入ってからは[JFLの](../Page/JAPAN_FM_LEAGUE.md "wikilink")[HOT 100シリーズの中でも](../Page/HOT_100.md "wikilink")、[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")の楽曲や[J-POP](../Page/J-POP.md "wikilink")が優勢な傾向にある。また、大阪ならではの特徴として、歌詞が[関西弁](https://ja.wikipedia.org/wiki/関西弁 "wikilink")の楽曲が1位を獲得したことがたびたびある（例：[SAKURA](../Page/SAKURA_\(歌手\).md "wikilink")『LOVE 4 REAL』、[ウルフルズ](../Page/ウルフルズ.md "wikilink")『ええねん』『サムライソウル』、[DREAMS COME TRUE](../Page/DREAMS_COME_TRUE.md "wikilink")『[大阪LOVER](../Page/大阪LOVER.md "wikilink")』など）。
 
 ## 放送時間
 
@@ -235,9 +235,9 @@
   - 2005年から毎年1月の2週間、洋楽プロモーターによる新春座談会が行われていた。また2月には[グラミー賞](../Page/グラミー賞.md "wikilink")予想を行うのが恒例となっていた。
   - 2002年～2008年3月30日放送まではTOP3予想を受け付け、TOP3を完全に的中すると抽選で1名にCD券1万円分が送られた。なお、正解者がいない場合は次週に繰り越されるが、正解者なしは年間でも数回しかなかった。2008年4月7日放送以後は、ある特定の1曲の順位を予想する「注目曲予想」に変更され、2008年10月12日放送以後は1位予想に変更された。
   - スポンサーの関係で（[下記参照](https://ja.wikipedia.org/wiki/OSAKAN_HOT_100#スポンサー "wikilink")）『OSAKAN HOT 100』の携帯サイトは[iモード](https://ja.wikipedia.org/wiki/iモード "wikilink")しか対応していないので、[Y\!ケータイ](https://ja.wikipedia.org/wiki/Y!ケータイ "wikilink")では原則としてチャートを見ることができない\[17\]。\[18\]
-  - ウェブサイトのランキングやチャートシートでは原則として洋楽曲は原題表記になっているが、一部例外が存在する（[DJ BOBOの](https://ja.wikipedia.org/wiki/DJ_BOBO "wikilink")『チワワ de こんチワワ(原題:Chihuahua)』、[O-Zone](https://ja.wikipedia.org/wiki/O-Zone "wikilink")の『[恋のマイアヒ](../Page/恋のマイアヒ.md "wikilink")(原題:Dragostea Din Tei)』、[Carlitoの](../Page/ジョニー・ヤコブセン.md "wikilink")『Go\!Go\!カリート(原題:Carlito(Who's That Boy))』等）。
-  - 1990年9月23日と9月30日のチャートでは、当時、特に全国的にはリバイバルヒットしていたわけではなかった[ザ・ナック](../Page/ザ・ナック.md "wikilink")の『[マイ・シャローナ](https://ja.wikipedia.org/wiki/マイ・シャローナ "wikilink")』（1979年発売）が9位を記録したことがあった。同曲が[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")『FLASH BACK HITS IN USA』に収録され、FM802の[ヘビーローテーションに選ばれたことにより起こった現象である](https://ja.wikipedia.org/wiki/ヘヴィー・ローテーション "wikilink")\[19\]。
-  - 2007年頃まで、1位の曲が発表される直前に流れていたギターの[インスト曲は](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")、CIRCUIT V. PANTHERの「MIRACLE」。
+  - ウェブサイトのランキングやチャートシートでは原則として洋楽曲は原題表記になっているが、一部例外が存在する（[DJ BOBOの](https://ja.wikipedia.org/wiki/DJ_BOBO "wikilink")『チワワ de こんチワワ(原題:Chihuahua)』、[O-Zone](../Page/O-Zone.md "wikilink")の『[恋のマイアヒ](../Page/恋のマイアヒ.md "wikilink")(原題:Dragostea Din Tei)』、[Carlitoの](../Page/ジョニー・ヤコブセン.md "wikilink")『Go\!Go\!カリート(原題:Carlito(Who's That Boy))』等）。
+  - 1990年9月23日と9月30日のチャートでは、当時、特に全国的にはリバイバルヒットしていたわけではなかった[ザ・ナック](../Page/ザ・ナック.md "wikilink")の『[マイ・シャローナ](https://ja.wikipedia.org/wiki/マイ・シャローナ "wikilink")』（1979年発売）が9位を記録したことがあった。同曲が[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")『FLASH BACK HITS IN USA』に収録され、FM802の[ヘビーローテーションに選ばれたことにより起こった現象である](../Page/ヘヴィー・ローテーション.md "wikilink")\[19\]。
+  - 2007年頃まで、1位の曲が発表される直前に流れていたギターの[インスト曲は](../Page/器楽曲.md "wikilink")、CIRCUIT V. PANTHERの「MIRACLE」。
   - 本番組のチャートシートがセールスポイントを集計したCDショップにてフリーペーパーと同じスペースに陳列されていたが、2010年3月に廃止された。翌月からはウェブサイトからチャートシートをダウンロードすることができる。
 
 ## 番組で使用される用語
@@ -261,7 +261,7 @@
   - 第1回目の1位は、[ユニコーンの](https://ja.wikipedia.org/wiki/ユニコーン_\(バンド\) "wikilink")「大迷惑」。
   - 2008年9月7日現在、同番組にもっとも多く楽曲をチャートインさせているアーティストは、[ドリームズ・カム・トゥルーで](../Page/DREAMS_COME_TRUE.md "wikilink")58曲\[20\]\[21\]。
   - 2018年10月14日現在、同番組にもっとも多く楽曲を1位にランクインさせているアーティストは、[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")で20曲\[22\]\[23\]。
-  - 2008年8月31日現在、同番組で最も長く1位を獲得した[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")曲は、[ジャミロクワイ](https://ja.wikipedia.org/wiki/ジャミロクワイ "wikilink")の「VIRTUAL INSANITY」で16週連続1位\[24\]。
+  - 2008年8月31日現在、同番組で最も長く1位を獲得した[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")曲は、[ジャミロクワイ](../Page/ジャミロクワイ.md "wikilink")の「VIRTUAL INSANITY」で16週連続1位\[24\]。
   - 2015年11月22日現在、同番組で最も長く1位を獲得した[邦楽](../Page/邦楽.md "wikilink")([J-POP](../Page/J-POP.md "wikilink"))曲は、[ウルフルズ](../Page/ウルフルズ.md "wikilink")の「[ええねん](https://ja.wikipedia.org/wiki/ええねん_\(曲\) "wikilink")」、[BUMP OF CHICKENの](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink")「[プラネタリウム](../Page/プラネタリウム_\(BUMP_OF_CHICKENの曲\).md "wikilink")」\[25\]\[26\]、[サカナクション](https://ja.wikipedia.org/wiki/サカナクション "wikilink")の「[新宝島](https://ja.wikipedia.org/wiki/新宝島_\(曲\) "wikilink")」で9週連続1位。
   - 2017年1月22日現在、同番組で連続1位ではないが、[星野源](../Page/星野源.md "wikilink")の「[恋](https://ja.wikipedia.org/wiki/恋_\(星野源の曲\) "wikilink")」が通算10週の1位を獲得し、通算だが邦楽では史上初の記録を更新。
 
@@ -278,7 +278,7 @@
 
 ### 年間チャート第1位獲得曲
 
-背景が黄色の曲は邦楽（[J-POP](../Page/J-POP.md "wikilink")）、**太字の曲**は、FM802で[ヘビーローテーションに選ばれた楽曲である](https://ja.wikipedia.org/wiki/ヘヴィー・ローテーション "wikilink")。
+背景が黄色の曲は邦楽（[J-POP](../Page/J-POP.md "wikilink")）、**太字の曲**は、FM802で[ヘビーローテーションに選ばれた楽曲である](../Page/ヘヴィー・ローテーション.md "wikilink")。
 
 <table>
 <thead>
@@ -500,7 +500,7 @@
 
 <!-- end list -->
 
-  - [パイオニア](https://ja.wikipedia.org/wiki/パイオニア "wikilink") - 放送開始時は『[TOKIO HOT 100](https://ja.wikipedia.org/wiki/TOKIO_HOT_100 "wikilink")』と同じく1社提供であり、『PIONEER OSAKAN HOT 100』としてタイトルコールされていた。
+  - [パイオニア](https://ja.wikipedia.org/wiki/パイオニア "wikilink") - 放送開始時は『[TOKIO HOT 100](../Page/TOKIO_HOT_100.md "wikilink")』と同じく1社提供であり、『PIONEER OSAKAN HOT 100』としてタイトルコールされていた。
   - [アステル関西](../Page/アステル関西.md "wikilink") - 2000年3月まで。
   - [ツーカー](../Page/ツーカー.md "wikilink")ホン関西 - 2000年4月～2005年3月。オフィシャル携帯サイトは[EZweb](../Page/EZweb.md "wikilink")に開設されていた。
   - [サッポロビール](../Page/サッポロビール.md "wikilink") - 新製品が発売されたときには、番組中にレポートが入ることがあった。
@@ -523,7 +523,7 @@
 11. 番組DJが寺平に交代した週の第1位は[GUNS N' ROSESの](https://ja.wikipedia.org/wiki/ガンズ・アンド・ローゼズ "wikilink")「YOU COULD BE MINE」だった。
 12. 番組DJが浅井に交代した週の第1位は[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")の「TRAVELING」だった。
 13. 番組DJが久保田に交代した週の第1位は[スガシカオ](../Page/スガシカオ.md "wikilink")の「コノユビトマレ」だった。
-14. 番組DJに鬼頭が加わった週の第1位は[JUSTIN TIMBERLAKEの](https://ja.wikipedia.org/wiki/ジャスティン・ティンバーレイク "wikilink")「SUIT\&TIE FEAT.JAY-Z」だった。
+14. 番組DJに鬼頭が加わった週の第1位は[JUSTIN TIMBERLAKEの](../Page/ジャスティン・ティンバーレイク.md "wikilink")「SUIT\&TIE FEAT.JAY-Z」だった。
 15. 放送時間が短縮される前までは予想と予想の再確認の為に2回かけていた
 16. マクドナルドがスポンサーだった時期はマックカード5,000円分
 17. [EZweb](../Page/EZweb.md "wikilink")は番組ホームページにアクセスすることでCHART QUIZ・HOT100 MELODY以外のコンテンツを利用可能。

@@ -1,7 +1,7 @@
 > この記事は[!SUMO](https://ja.wikipedia.org/wiki/!SUMO)から翻訳されています。
 
 
-『**おんなは度胸\!ビーチSUMO**』（おんなはどきょう ビーチすもう）とは、[関西テレビほか](../Page/関西テレビ放送.md "wikilink")[近畿地方](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")・[中国地方](../Page/中国地方.md "wikilink")・[四国](../Page/四国.md "wikilink")地方の[FNS系列](../Page/フジネットワーク.md "wikilink")6局で放送された[相撲](../Page/相撲.md "wikilink")番組。第1回目は『**おんなは度胸\!ビーチSUMO〜みんなでシコふんじゃったSP〜**』のタイトルで[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月4日](../Page/9月4日.md "wikilink")に放送。第2回目は『**おんなは度胸\!ビーチSUMO2006**』のタイトルで[2006年](../Page/2006年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink")に放送された。
+『**おんなは度胸\!ビーチSUMO**』（おんなはどきょう ビーチすもう）とは、[関西テレビほか](../Page/関西テレビ放送.md "wikilink")[近畿地方](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")・[中国地方](../Page/中国地方.md "wikilink")・[四国](../Page/四国.md "wikilink")地方の[FNS系列](../Page/フジネットワーク.md "wikilink")6局で放送された[相撲](../Page/相撲.md "wikilink")番組。第1回目は『**おんなは度胸\!ビーチSUMO〜みんなでシコふんじゃったSP〜**』のタイトルで[2005年](../Page/2005年.md "wikilink")[9月4日](../Page/9月4日.md "wikilink")に放送。第2回目は『**おんなは度胸\!ビーチSUMO2006**』のタイトルで[2006年](../Page/2006年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink")に放送された。
 
 ## 概要
 
@@ -22,7 +22,7 @@
 
   - [相撲](../Page/相撲.md "wikilink")
   - [走れ\!ガリバーくん](../Page/走れ!ガリバーくん.md "wikilink") - 本項と同じく、上記のFNS6局共同制作により放送されていた番組。こちらは旅番組である。
-  - [GO\!GO\!ガリバーくん](https://ja.wikipedia.org/wiki/GO!GO!ガリバーくん "wikilink") - 上記のリニューアル番組。2006年4月放送分（関西テレビ）より関西テレビ1局による制作へと移り、同年9月30日放送分（関西テレビ）をもって終了した。
+  - [GO\!GO\!ガリバーくん](../Page/GO!GO!ガリバーくん.md "wikilink") - 上記のリニューアル番組。2006年4月放送分（関西テレビ）より関西テレビ1局による制作へと移り、同年9月30日放送分（関西テレビ）をもって終了した。
 
 ## 外部リンク
 

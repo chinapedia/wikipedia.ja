@@ -1,7 +1,7 @@
 > この記事は[RADIO SAKAMOTO](https://ja.wikipedia.org/wiki/RADIO_SAKAMOTO)から翻訳されています。
 
 
-**RADIO SAKAMOTO**（**レディオ・サカモト**）は、[J-WAVE](../Page/J-WAVE.md "wikilink")で現在放送されている、[坂本龍一](../Page/坂本龍一.md "wikilink")による音楽プログラム。提供は[UNITED ARROWS](https://ja.wikipedia.org/wiki/ユナイテッドアローズ "wikilink")。
+**RADIO SAKAMOTO**（**レディオ・サカモト**）は、[J-WAVE](../Page/J-WAVE.md "wikilink")で現在放送されている、[坂本龍一](../Page/坂本龍一.md "wikilink")による音楽プログラム。提供は[UNITED ARROWS](../Page/ユナイテッドアローズ.md "wikilink")。
 
 ## 放送時間
 
@@ -11,7 +11,7 @@
 
 ## 略歴
 
-[2003年](../Page/2003年.md "wikilink")[1月5日](../Page/1月5日.md "wikilink")より[ブルガリ](../Page/ブルガリ.md "wikilink")の提供で不定期で番組放送開始。同年[5月25日](../Page/5月25日.md "wikilink")の第2回放送より[NTTデータ](../Page/NTTデータ.md "wikilink")の提供になり、NTTデータのサイト「[先見日記](http://diary.nttdata.co.jp/)」と連動（現在は坂本の連載は終了）。[2004年](../Page/2004年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")にデモテープ作品をまとめたアルバム「DOCUMÉNTO」発売。2004年からは偶数月最終日曜に放送。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")からは提供スポンサーが[UNITED ARROWSに](https://ja.wikipedia.org/wiki/ユナイテッドアローズ "wikilink")、放送日が奇数月第1日曜に移行。2007年からはスポンサーが無くなった*（スポンサーは無いが、J-WAVEの番組などのCMはある）*。日曜の最終番組であるため、番組終了直後にエンディングが流れる。
+[2003年](../Page/2003年.md "wikilink")[1月5日](../Page/1月5日.md "wikilink")より[ブルガリ](../Page/ブルガリ.md "wikilink")の提供で不定期で番組放送開始。同年[5月25日](../Page/5月25日.md "wikilink")の第2回放送より[NTTデータ](../Page/NTTデータ.md "wikilink")の提供になり、NTTデータのサイト「[先見日記](http://diary.nttdata.co.jp/)」と連動（現在は坂本の連載は終了）。[2004年](../Page/2004年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")にデモテープ作品をまとめたアルバム「DOCUMÉNTO」発売。2004年からは偶数月最終日曜に放送。[2005年](../Page/2005年.md "wikilink")からは提供スポンサーが[UNITED ARROWSに](../Page/ユナイテッドアローズ.md "wikilink")、放送日が奇数月第1日曜に移行。2007年からはスポンサーが無くなった*（スポンサーは無いが、J-WAVEの番組などのCMはある）*。日曜の最終番組であるため、番組終了直後にエンディングが流れる。
 
 この時間に[J-WAVE](../Page/J-WAVE.md "wikilink")の放送を再送信している[コミュニティFM](https://ja.wikipedia.org/wiki/コミュニティFM "wikilink")局でも聴取することができるが、編成の都合により前半1時間のみ（[J-WAVE](../Page/J-WAVE.md "wikilink")の通常の放送終了時間にあたる午前1時）で中断してしまうところもある。
 

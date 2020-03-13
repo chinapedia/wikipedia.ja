@@ -1,9 +1,9 @@
 > この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
 
 
-**FCトゥーン1898**（）は[スイス](../Page/スイス.md "wikilink")中西部、[ベルン州](../Page/ベルン州.md "wikilink")の自治体[トゥーン](https://ja.wikipedia.org/wiki/トゥーン "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチームである。
+**FCトゥーン1898**（）は[スイス](../Page/スイス.md "wikilink")中西部、[ベルン州](../Page/ベルン州.md "wikilink")の自治体[トゥーン](../Page/トゥーン.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチームである。
 
-[ベルン州](../Page/ベルン州.md "wikilink")の小さなクラブだが、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")には[UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")においてリーグ戦入りを果たした。ホームとなるスタジアムは10350人収容、座席774席のであったが、2011年に開場した（1万人収容）に移転した。大規模な試合を開催することが困難なため、国際試合では[ベルン](../Page/ベルン.md "wikilink")のスタジアムを使用することもある。
+[ベルン州](../Page/ベルン州.md "wikilink")の小さなクラブだが、[2005年](../Page/2005年.md "wikilink")には[UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")においてリーグ戦入りを果たした。ホームとなるスタジアムは10350人収容、座席774席のであったが、2011年に開場した（1万人収容）に移転した。大規模な試合を開催することが困難なため、国際試合では[ベルン](../Page/ベルン.md "wikilink")のスタジアムを使用することもある。
 
 ## クラブの歴史
 
@@ -202,7 +202,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/SKラピード・ウィーン" title="wikilink">ラピード・ウィーン</a></p></td>
+<td><p><a href="../Page/SKラピード・ウィーン.md" title="wikilink">ラピード・ウィーン</a></p></td>
 <td><p>1–0</p></td>
 <td><p>1–2</p></td>
 <td></td>

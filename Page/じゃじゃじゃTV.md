@@ -13,7 +13,7 @@
 
 番組のテーマ曲は[佐藤将展](https://ja.wikipedia.org/wiki/佐藤将展 "wikilink")が作曲。[北上市](../Page/北上市.md "wikilink")出身のボーカリスト[佐々木由香利](https://ja.wikipedia.org/wiki/佐々木由香利 "wikilink")が歌っており、番組に出演して生で歌った事もある\[8\]。
 
-過去に[青森テレビ](../Page/青森テレビ.md "wikilink")（ATV）の『[おしゃべりハウス](../Page/おしゃべりハウス.md "wikilink")』と番組交換企画を行っていた。[奥州市](../Page/奥州市.md "wikilink")江刺区出身という縁でATVアナウンサーの[津田禎](https://ja.wikipedia.org/wiki/津田禎 "wikilink")がIBCのスタジオに生出演することがあった。なお、IBCからは奥村奈穂美がATVに出演した。
+過去に[青森テレビ](../Page/青森テレビ.md "wikilink")（ATV）の『[おしゃべりハウス](../Page/おしゃべりハウス.md "wikilink")』と番組交換企画を行っていた。[奥州市](../Page/奥州市.md "wikilink")江刺区出身という縁でATVアナウンサーの[津田禎](../Page/津田禎.md "wikilink")がIBCのスタジオに生出演することがあった。なお、IBCからは奥村奈穂美がATVに出演した。
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月20日](../Page/3月20日.md "wikilink")に放送350回を迎えた。これを記念して、[水沢競馬場](../Page/水沢競馬場.md "wikilink")でじゃじゃじゃTV杯が行われた。このレースの模様などを13:00 - 13:25に「じゃじゃじゃTV杯生中継SP」として放送した\[9\]。
 
@@ -262,7 +262,7 @@
 <!-- end list -->
 
   -
-    初代MC。番組開始時より10年に渡りMCを務めた。[ニュースエコー](https://ja.wikipedia.org/wiki/ニュースエコー "wikilink")担当に伴い、2013年3月30日放送分をもって降板。
+    初代MC。番組開始時より10年に渡りMCを務めた。[ニュースエコー](../Page/ニュースエコー.md "wikilink")担当に伴い、2013年3月30日放送分をもって降板。
 
 <!-- end list -->
 
@@ -318,7 +318,7 @@
 <!-- end list -->
 
   -
-    リポーター。主に中継や「学園天国Hey」のコーナーを担当。[ニュースエコー](https://ja.wikipedia.org/wiki/ニュースエコー "wikilink")担当に伴い、2013年3月30日放送分をもって降板。レギュラー降板後も不定期で出演することがある。
+    リポーター。主に中継や「学園天国Hey」のコーナーを担当。[ニュースエコー](../Page/ニュースエコー.md "wikilink")担当に伴い、2013年3月30日放送分をもって降板。レギュラー降板後も不定期で出演することがある。
 
 <!-- end list -->
 
@@ -463,7 +463,7 @@
 
 ## 関連項目
 
-  - [じゃじゃじゃFriday](https://ja.wikipedia.org/wiki/じゃじゃじゃFriday "wikilink") - IBCテレビで金曜日の午前に放送されていた姉妹番組。
+  - [じゃじゃじゃFriday](../Page/じゃじゃじゃFriday.md "wikilink") - IBCテレビで金曜日の午前に放送されていた姉妹番組。
   - [いわてホットライン](https://ja.wikipedia.org/wiki/いわてホットライン "wikilink") - 元日の特別番組。出演者の重複が多い
 
 ## 外部リンク

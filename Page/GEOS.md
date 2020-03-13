@@ -1,7 +1,7 @@
 > この記事は[GEOS](https://ja.wikipedia.org/wiki/GEOS)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:ジオス4160.JPG "wikilink") **株式会社ジオス**（英称：*GEOS Corporation*）は、[外国語](../Page/外国語.md "wikilink")[学校](https://ja.wikipedia.org/wiki/学校 "wikilink")\[1\]を経営していた企業。**GEOS**は、*Global Education Opportunities and Services*の略とされている。本社は[東京都](../Page/東京都.md "wikilink")[品川区](https://ja.wikipedia.org/wiki/品川区 "wikilink")[大崎に所在](https://ja.wikipedia.org/wiki/大崎_\(品川区\) "wikilink") 。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:ジオス4160.JPG "wikilink") **株式会社ジオス**（英称：*GEOS Corporation*）は、[外国語](../Page/外国語.md "wikilink")[学校](https://ja.wikipedia.org/wiki/学校 "wikilink")\[1\]を経営していた企業。**GEOS**は、*Global Education Opportunities and Services*の略とされている。本社は[東京都](../Page/東京都.md "wikilink")[品川区](https://ja.wikipedia.org/wiki/品川区 "wikilink")[大崎に所在](../Page/大崎_\(品川区\).md "wikilink") 。
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")、[東京地方裁判所](../Page/東京地方裁判所.md "wikilink")に[破産](../Page/破産.md "wikilink")手続き開始の申し立てをし、[経営破綻した](../Page/倒産.md "wikilink")。
 

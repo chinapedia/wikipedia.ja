@@ -5,7 +5,7 @@
 
 ## 概要
 
-作者の小手川ゆあにとって初めてのオカルトもの。『週刊ヤングジャンプ』2000年43号に読み切り（単行本上巻に第0話として収録 / 『[おっとり捜査](https://ja.wikipedia.org/wiki/おっとり捜査 "wikilink")』7巻収録の同名読みきり漫画については[後述](https://ja.wikipedia.org/wiki/#読み切り版『ARCANA』 "wikilink")）が掲載された後、同年49号から月イチ連載が開始された。単行本巻末には、上・下巻とも[竹田エリ](https://ja.wikipedia.org/wiki/竹田エリ "wikilink")によるパロディ4コマ漫画が収録されている。
+作者の小手川ゆあにとって初めてのオカルトもの。『週刊ヤングジャンプ』2000年43号に読み切り（単行本上巻に第0話として収録 / 『[おっとり捜査](../Page/おっとり捜査.md "wikilink")』7巻収録の同名読みきり漫画については[後述](https://ja.wikipedia.org/wiki/#読み切り版『ARCANA』 "wikilink")）が掲載された後、同年49号から月イチ連載が開始された。単行本巻末には、上・下巻とも[竹田エリ](https://ja.wikipedia.org/wiki/竹田エリ "wikilink")によるパロディ4コマ漫画が収録されている。
 
 2013年には、角川書店より新装版上下巻が発売され、[土屋太鳳](../Page/土屋太鳳.md "wikilink")主演で実写映画化された。また、原作に[金城一紀](../Page/金城一紀.md "wikilink")を迎え、[ヤングエース](https://ja.wikipedia.org/wiki/ヤングエース "wikilink")にて続編『[BORDER](https://ja.wikipedia.org/wiki/BORDER_\(金城一紀\) "wikilink")』が2013年12月号より連載されている。
 
@@ -83,7 +83,7 @@
   - 脚本 - 山口義高、及川章太郎
   - 原作 - [小手川ゆあ](../Page/小手川ゆあ.md "wikilink")
   - 製作 - 鳥羽乾二郎
-  - 音楽 - [林祐介](https://ja.wikipedia.org/wiki/林祐介 "wikilink")
+  - 音楽 - [林祐介](../Page/林祐介.md "wikilink")
   - 主題歌 - [RAM WIRE](https://ja.wikipedia.org/wiki/RAM_WIRE "wikilink")「むつのはな」
   - 撮影 - 馬場元
   - 編集 - 洲崎千恵子

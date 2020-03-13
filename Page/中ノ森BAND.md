@@ -5,7 +5,7 @@
 
 ## 概要
 
-2004年5月13日結成。[テイチクエンタテインメント](../Page/テイチクエンタテインメント.md "wikilink")傘下の[レコードレーベル](../Page/レコードレーベル.md "wikilink")、インペリアルレコードから[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")2月23日にCDデビュー。
+2004年5月13日結成。[テイチクエンタテインメント](../Page/テイチクエンタテインメント.md "wikilink")傘下の[レコードレーベル](../Page/レコードレーベル.md "wikilink")、インペリアルレコードから[2005年](../Page/2005年.md "wikilink")2月23日にCDデビュー。
 
 ボーカルのAYAKOはファッション雑誌等でもよく紹介されている。[阿久津健太郎](https://ja.wikipedia.org/wiki/阿久津健太郎 "wikilink")などが作詞に関わっている事などから、いわゆる「アイドルバンド」としての評価を受ける事が多いが、音楽専門学校で培ったスキルを持つなど、本人らは正統派ガールズバンドとしての志向を持っている。
 
@@ -62,7 +62,7 @@
 
 ### テレビ
 
-  - MTV Apt.([MTV](https://ja.wikipedia.org/wiki/MTVジャパン "wikilink")、[JST毎週](../Page/日本標準時.md "wikilink")[金曜日](../Page/金曜日.md "wikilink")25:00 - 25:30) (2006年10月 - 12月)
+  - MTV Apt.([MTV](../Page/MTVジャパン.md "wikilink")、[JST毎週](../Page/日本標準時.md "wikilink")[金曜日](../Page/金曜日.md "wikilink")25:00 - 25:30) (2006年10月 - 12月)
 
 ### ラジオ
 
@@ -78,7 +78,7 @@
 
 ### 映画
 
-  - [結婚しようよ](../Page/結婚しようよ_\(映画\).md "wikilink")（2008年、[佐々部清](https://ja.wikipedia.org/wiki/佐々部清 "wikilink")監督） - AYAKO…主人公の次女、香取歌織 役、他メンバー…歌織のバンド仲間 役
+  - [結婚しようよ](../Page/結婚しようよ_\(映画\).md "wikilink")（2008年、[佐々部清](../Page/佐々部清.md "wikilink")監督） - AYAKO…主人公の次女、香取歌織 役、他メンバー…歌織のバンド仲間 役
 
 ### その他
 
@@ -88,10 +88,10 @@
 
 ### シングル
 
-1.  **[ラズベリーパイ](https://ja.wikipedia.org/wiki/ラズベリーパイ "wikilink")**（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")、TECI-81）
+1.  **[ラズベリーパイ](https://ja.wikipedia.org/wiki/ラズベリーパイ "wikilink")**（[2005年](../Page/2005年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")、TECI-81）
       - [関西テレビ](../Page/関西テレビ放送.md "wikilink")・[フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[みんな昔は子供だった](../Page/みんな昔は子供だった.md "wikilink")」挿入歌
-2.  **[Whatever](https://ja.wikipedia.org/wiki/Whatever_\(中ノ森BANDの曲\) "wikilink")**（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[5月25日](../Page/5月25日.md "wikilink")、TECI-86）
-3.  **[Oh My Darlin'](https://ja.wikipedia.org/wiki/Oh_My_Darlin' "wikilink")**（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月23日](../Page/11月23日.md "wikilink")、TECI-94）
+2.  **[Whatever](https://ja.wikipedia.org/wiki/Whatever_\(中ノ森BANDの曲\) "wikilink")**（[2005年](../Page/2005年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink")、TECI-86）
+3.  **[Oh My Darlin'](https://ja.wikipedia.org/wiki/Oh_My_Darlin' "wikilink")**（[2005年](../Page/2005年.md "wikilink")[11月23日](../Page/11月23日.md "wikilink")、TECI-94）
       - 関西テレビ・フジテレビ系ドラマ「[鬼嫁日記](../Page/鬼嫁日記.md "wikilink")」主題歌
       - 2005年[第47回日本レコード大賞](https://ja.wikipedia.org/wiki/第47回日本レコード大賞 "wikilink")新人賞受賞
 4.  **[i Need Love](https://ja.wikipedia.org/wiki/i_Need_Love "wikilink")**（[2006年](../Page/2006年.md "wikilink")[5月31日](../Page/5月31日.md "wikilink")、TECI-102）

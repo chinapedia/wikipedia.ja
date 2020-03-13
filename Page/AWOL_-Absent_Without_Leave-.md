@@ -29,7 +29,7 @@
 
   - デュラン・ガッシュ（声 - [中田浩二](../Page/中田浩二_\(俳優\).md "wikilink")）
   - ビート・キュルテン（声 - [中尾隆聖](../Page/中尾隆聖.md "wikilink")）
-  - アマンダ・ケスラー（声 - [安達忍](https://ja.wikipedia.org/wiki/安達忍 "wikilink")）
+  - アマンダ・ケスラー（声 - [安達忍](../Page/安達忍.md "wikilink")）
 
 ### その他の人物
 
@@ -37,7 +37,7 @@
   - 統幕議長（声 - [加藤精三](../Page/加藤精三_\(声優\).md "wikilink")）
   - 補佐官（声 - [塾一久](https://ja.wikipedia.org/wiki/塾一久 "wikilink")）
   - 幕僚（声 - [山本泰平](https://ja.wikipedia.org/wiki/山本泰平 "wikilink")）
-  - オペレーター（声 - [長嶝高士](https://ja.wikipedia.org/wiki/長嶝高士 "wikilink")）
+  - オペレーター（声 - [長嶝高士](../Page/長嶝高士.md "wikilink")）
 
 ## スタッフ
 

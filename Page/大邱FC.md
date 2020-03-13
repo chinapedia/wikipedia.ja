@@ -1,13 +1,13 @@
 > この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
 
 
-**大邱FC**（テグFC、、）は、[韓国の東南部の](../Page/大韓民国.md "wikilink")[広域市](https://ja.wikipedia.org/wiki/広域市 "wikilink")の[大邱を本拠地とする韓国プロサッカークラブである](../Page/大邱広域市.md "wikilink")。[Kリーグ1](../Page/Kリーグ1.md "wikilink")に所属している。
+**大邱FC**（テグFC、、）は、[韓国の東南部の](../Page/大韓民国.md "wikilink")[広域市](../Page/広域市.md "wikilink")の[大邱を本拠地とする韓国プロサッカークラブである](../Page/大邱広域市.md "wikilink")。[Kリーグ1](../Page/Kリーグ1.md "wikilink")に所属している。
 
 [2002年](../Page/2002年.md "wikilink")に韓国史上初の「市民サッカークラブ」として創立された新興クラブ。[2002年日韓W杯に合わせて建設された](../Page/2002_FIFAワールドカップ.md "wikilink")、[大邱スタジアム](../Page/大邱スタジアム.md "wikilink")をホームグラウンドとする。
 
 [2013年](../Page/2013年.md "wikilink")、最終節で13位が確定し次シーズンの[Kリーグチャレンジ](https://ja.wikipedia.org/wiki/Kリーグチャレンジ "wikilink")降格が決定した。
 
-2015年のKリーグチャレンジでは[尚州尚武FC](https://ja.wikipedia.org/wiki/尚州尚武FC "wikilink")と勝ち点・得失点差まで並んだが、総得点が下回り2位に。そしてプレーオフでも[水原FC](https://ja.wikipedia.org/wiki/水原FC "wikilink")に敗れ、昇降格戦への進出はならなかった。
+2015年のKリーグチャレンジでは[尚州尚武FC](../Page/尚州尚武FC.md "wikilink")と勝ち点・得失点差まで並んだが、総得点が下回り2位に。そしてプレーオフでも[水原FC](https://ja.wikipedia.org/wiki/水原FC "wikilink")に敗れ、昇降格戦への進出はならなかった。
 
 2016年のKリーグチャレンジでは2位で、1位の[安山ムグンファFC](https://ja.wikipedia.org/wiki/安山ムグンファFC "wikilink")が規定により昇格できなかったため繰り上げで昇格し、2017年よりKリーグクラシックに復帰する。
 

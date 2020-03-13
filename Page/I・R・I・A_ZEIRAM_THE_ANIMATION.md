@@ -25,7 +25,7 @@
     捜索者達に仕事を割り振るゴンパック警備保障の社員でグレンの仕事仲間。イリアの良き理解者でもある。
     カルマ号でゼイラムに襲われ重傷を負ってしまう。口癖は「まったく、お前たち兄妹はよく似ている」。実写映画と違いAIではないが、3話以降から実写映画と同じ姿になった。
   - フジクロ
-    声 - [千葉繁](https://ja.wikipedia.org/wiki/千葉繁 "wikilink")
+    声 - [千葉繁](../Page/千葉繁.md "wikilink")
     イリア達の同業者である捜索者。傘状の乗り物であるデンパダンに乗る。
     イリアの仕事を横取りしたり、ちょっかいを出したりするのだが、何だかんだいってイリアを見守っている。ケイが女性であることを見抜いていた。
   - ケイ
@@ -64,7 +64,7 @@
 ## スタッフ
 
   - 原作 - [雨宮慶太](../Page/雨宮慶太.md "wikilink")
-  - 監督 - [アミノテツロー](https://ja.wikipedia.org/wiki/アミノテツロー "wikilink")
+  - 監督 - [アミノテツロー](../Page/アミノテツロー.md "wikilink")
   - キャラクター原案 - [桂正和](https://ja.wikipedia.org/wiki/桂正和 "wikilink")
   - キャラクターデザイン - [音無竜之介](../Page/高橋ナオヒト.md "wikilink")、[深沢幸司](https://ja.wikipedia.org/wiki/深沢幸司 "wikilink")、新羽こういちろう、[木崎文智](../Page/木崎文智.md "wikilink")（第1話）、[広田正志](../Page/志田ただし.md "wikilink")（第2話、第4話）、勝亦祥悦（第3話、第4話）、[佐藤和巳](https://ja.wikipedia.org/wiki/佐藤和巳 "wikilink")（第4話以降）
   - アニメーションコーディネーター - 角谷哲生、日下直義（第1話）
@@ -105,7 +105,7 @@
 <tr class="odd">
 <td><p>第1話</p></td>
 <td><p>射干玉 -ぬばたま-</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アミノテツロー" title="wikilink">アミノテツロー</a></p></td>
+<td><p><a href="../Page/アミノテツロー.md" title="wikilink">アミノテツロー</a></p></td>
 <td><p><a href="../Page/高橋ナオヒト.md" title="wikilink">高橋なおひと</a></p></td>
 <td><p>新羽こういちろう</p></td>
 <td><p><a href="../Page/高橋ナオヒト.md" title="wikilink">音無竜之介</a></p></td>

@@ -29,10 +29,10 @@
   - 2001年4月 - 2003年3月
       - [真矢](../Page/真矢_\(ドラマー\).md "wikilink")（元[LUNA SEA](../Page/LUNA_SEA.md "wikilink")）
       - [住吉美紀](../Page/住吉美紀.md "wikilink")（ - 2002年3月）
-      - [島津有理子](https://ja.wikipedia.org/wiki/島津有理子 "wikilink")（2002年4月 - ）
+      - [島津有理子](../Page/島津有理子.md "wikilink")（2002年4月 - ）
   - 2003年4月 - 2006年3月
       - [松岡充](../Page/松岡充.md "wikilink")（[SOPHIA](../Page/SOPHIA.md "wikilink")）
-      - [青山祐子](https://ja.wikipedia.org/wiki/青山祐子 "wikilink")（ - 2005年3月）
+      - [青山祐子](../Page/青山祐子.md "wikilink")（ - 2005年3月）
       - [塚原愛](../Page/塚原愛.md "wikilink")（2005年4月 - ）
 
 <!-- end list -->
@@ -82,7 +82,7 @@
   -
     このコーナーには2件のトラブルの逸話が存在する。
       - [東京スカパラダイスオーケストラ](../Page/東京スカパラダイスオーケストラ.md "wikilink")の回（2004年5月23日放送）。この収録での観客はファンを対象に[レコード会社のサイト上で募集がかけられ](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")、多数の応募があったが、レコード会社側のメールの問題により収録日を過ぎても当選者に連絡メールが届かないという事態が発生。結局、観客スペースがガラ空きのスタジオで演奏だけが収録される事となった\[2\]。
-      - [サンボマスター](https://ja.wikipedia.org/wiki/サンボマスター "wikilink")の回（2004年11月放送）。NHKでは原則として特定の[登録商標](https://ja.wikipedia.org/wiki/登録商標 "wikilink")名を出す事は[タブー](../Page/タブー.md "wikilink")とされているが、ボーカルの山口隆がそのタブーに挑戦。BEAT MOTIONの公式サイトの中で曲目の予告までされていた『美しき人間の日々』という曲の中で、様々な[ブランド](../Page/ブランド.md "wikilink")名を連呼。曲ごとカットされた。
+      - [サンボマスター](../Page/サンボマスター.md "wikilink")の回（2004年11月放送）。NHKでは原則として特定の[登録商標](https://ja.wikipedia.org/wiki/登録商標 "wikilink")名を出す事は[タブー](../Page/タブー.md "wikilink")とされているが、ボーカルの山口隆がそのタブーに挑戦。BEAT MOTIONの公式サイトの中で曲目の予告までされていた『美しき人間の日々』という曲の中で、様々な[ブランド](../Page/ブランド.md "wikilink")名を連呼。曲ごとカットされた。
   - NEXT BREAKERS COUNTDOWN
     2000年12月 - 2005年12月。年に1回、年末にのみ行われる企画。「次の年、ブレイクするのは一体どのアーティストか？」という問いに街頭で[アンケート](../Page/アンケート.md "wikilink")をとり、[ランキング](https://ja.wikipedia.org/wiki/ランキング "wikilink")に換算して[カウントダウン](../Page/カウントダウン.md "wikilink")形式で見ていく。放送される回はこの企画がメインとなる。
 

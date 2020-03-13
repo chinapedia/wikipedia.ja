@@ -5,7 +5,7 @@
 
 ## 概要
 
-59回大会まで、PL学園は2回決勝に進出していたがいずれも準優勝に終わっていた。そして臨んだ1978年夏の甲子園は、[西田真次（のち真二）](../Page/西田真二.md "wikilink")-[木戸克彦](https://ja.wikipedia.org/wiki/木戸克彦 "wikilink")を擁し、初優勝が強く望まれていた\[1\]。
+59回大会まで、PL学園は2回決勝に進出していたがいずれも準優勝に終わっていた。そして臨んだ1978年夏の甲子園は、[西田真次（のち真二）](../Page/西田真二.md "wikilink")-[木戸克彦](../Page/木戸克彦.md "wikilink")を擁し、初優勝が強く望まれていた\[1\]。
 
 初戦（2回戦）の[日川](../Page/山梨県立日川高等学校.md "wikilink")、3回戦の熊本工大高（現[文徳高校](../Page/文徳中学校・高等学校.md "wikilink")）を順当に破り、準々決勝の[県岐阜商を](../Page/岐阜県立岐阜商業高等学校.md "wikilink")[谷松浩之](https://ja.wikipedia.org/wiki/谷松浩之 "wikilink")（のち[ヤクルト](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")）が挙げた虎の子の1点を守って勝利した。
 
@@ -44,7 +44,7 @@
 
 ## 関連項目
 
-  - [西大立目永](https://ja.wikipedia.org/wiki/西大立目永 "wikilink") - 準決勝の球審、決勝の一塁塁審。
+  - [西大立目永](../Page/西大立目永.md "wikilink") - 準決勝の球審、決勝の一塁塁審。
   - [私学7強](https://ja.wikipedia.org/wiki/私学7強 "wikilink")
 
 [Category:全国高等学校野球選手権大会の試合](https://ja.wikipedia.org/wiki/Category:全国高等学校野球選手権大会の試合 "wikilink") [Category:1978年の野球](https://ja.wikipedia.org/wiki/Category:1978年の野球 "wikilink") [Category:1978年の日本のスポーツ](https://ja.wikipedia.org/wiki/Category:1978年の日本のスポーツ "wikilink") [Category:近畿地方の高校野球](https://ja.wikipedia.org/wiki/Category:近畿地方の高校野球 "wikilink") [Category:1978年8月](https://ja.wikipedia.org/wiki/Category:1978年8月 "wikilink")

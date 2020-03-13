@@ -52,7 +52,7 @@
   - 島本編集長：[四谷シモン](https://ja.wikipedia.org/wiki/四谷シモン "wikilink")
     株式会社三弘出版の社員であり、佐渡も編集員である雑誌「メルヘンワールド」の編集長。みさをの絵を当初は貶すが、北原が彼女を推薦すると手のひらを返して褒め称える。しかし、心の奥底ではみさをの絵を貶しており、洋子が挿絵画家の交代を提案したところそれを飲んだ。
   - 菅野正一：[柄本明](../Page/柄本明.md "wikilink")
-    みさをの母方の叔父。ラーメン屋を営む。[国際結婚](https://ja.wikipedia.org/wiki/国際結婚 "wikilink")をしている。
+    みさをの母方の叔父。ラーメン屋を営む。[国際結婚](../Page/国際結婚.md "wikilink")をしている。
   - ヨランダ：[マリア・シュナイダー](https://ja.wikipedia.org/wiki/マリア・シュナイダー "wikilink")
     正一の妻。底抜けに明るい性格。後に子供を宿す。
   - 佐渡香代：[中島ひろ子](../Page/中島ひろ子.md "wikilink")
@@ -83,7 +83,7 @@
   - 企画：小林義和・小川晋一（フジテレビ）
   - 脚本：吉田紀子
   - 音楽：[長谷部徹](../Page/長谷部徹_\(作曲家\).md "wikilink")
-  - 主題歌：[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")「[エロティカ・セブン](../Page/エロティカ・セブン.md "wikilink")」（[タイシタレーベル](https://ja.wikipedia.org/wiki/タイシタレーベル "wikilink")）
+  - 主題歌：[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")「[エロティカ・セブン](../Page/エロティカ・セブン.md "wikilink")」（[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")）
   - 挿入歌：[加藤いづみ](https://ja.wikipedia.org/wiki/加藤いづみ "wikilink")「[好きになって、よかった](https://ja.wikipedia.org/wiki/好きになって、よかった "wikilink")」（[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")）
   - 挿入歌：[川村かおり](../Page/川村カオリ.md "wikilink")「神様が降りて来る夜」（ポニーキャニオン）
   - 挿入歌：サザンオールスターズ「[真夏の果実](https://ja.wikipedia.org/wiki/真夏の果実 "wikilink")」（タイシタレーベル）

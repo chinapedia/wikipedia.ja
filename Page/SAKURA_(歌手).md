@@ -297,7 +297,7 @@
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>Day in, Day out [4:00]（作詞：SAKURA／作曲・編曲：<a href="https://ja.wikipedia.org/wiki/朝本浩文" title="wikilink">朝本浩文</a>）
+<li>Day in, Day out [4:00]（作詞：SAKURA／作曲・編曲：<a href="../Page/朝本浩文.md" title="wikilink">朝本浩文</a>）
 <dl>
 <dt></dt>
 <dd><a href="https://ja.wikipedia.org/wiki/All-nippon_News_Network" title="wikilink">ANB系ドラマ</a>「<a href="https://ja.wikipedia.org/wiki/アナザヘブン" title="wikilink">アナザヘブン</a>」挿入歌
@@ -452,7 +452,7 @@
 </ol>
 </div>
 </div></td>
-<td><p>オリコン148位。<a href="../Page/CHEMISTRY.md" title="wikilink">CHEMISTRY</a>、<a href="https://ja.wikipedia.org/wiki/Leyona" title="wikilink">Leyona</a>他を手掛ける益田トッシュがプロデュースを担当。</p></td>
+<td><p>オリコン148位。<a href="../Page/CHEMISTRY.md" title="wikilink">CHEMISTRY</a>、<a href="../Page/Leyona.md" title="wikilink">Leyona</a>他を手掛ける益田トッシュがプロデュースを担当。</p></td>
 </tr>
 <tr class="even">
 <td><p>17th</p></td>

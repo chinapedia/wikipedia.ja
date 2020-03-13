@@ -33,9 +33,9 @@
 
 ## 最近の放送履歴
 
-  - [2004年](../Page/2004年.md "wikilink")[6月](../Page/6月.md "wikilink") - [NHK教育](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")「[夢りんりん丸](../Page/夢りんりん丸.md "wikilink")」
+  - [2004年](../Page/2004年.md "wikilink")[6月](../Page/6月.md "wikilink") - [NHK教育](../Page/NHK教育テレビジョン.md "wikilink")「[夢りんりん丸](../Page/夢りんりん丸.md "wikilink")」
   - 2004年[11月](../Page/11月.md "wikilink") - [NHK総合](../Page/NHK総合テレビジョン.md "wikilink")「[お昼ですよ\!ふれあいホール](../Page/お昼ですよ!ふれあいホール.md "wikilink")」
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink") - [NHKラジオ第1](https://ja.wikipedia.org/wiki/NHKラジオ第1 "wikilink")「[音楽夢倶楽部](https://ja.wikipedia.org/wiki/音楽夢倶楽部 "wikilink")」
+  - [2005年](../Page/2005年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink") - [NHKラジオ第1](https://ja.wikipedia.org/wiki/NHKラジオ第1 "wikilink")「[音楽夢倶楽部](https://ja.wikipedia.org/wiki/音楽夢倶楽部 "wikilink")」
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月13日](../Page/2月13日.md "wikilink") - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[森田一義アワー 笑っていいとも\!](https://ja.wikipedia.org/wiki/森田一義アワー_笑っていいとも! "wikilink")」
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月21日](../Page/5月21日.md "wikilink") - [テレビ朝日](../Page/テレビ朝日.md "wikilink")「[『ぷっ』すま](../Page/『ぷっ』すま.md "wikilink")」
 

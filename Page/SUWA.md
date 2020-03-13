@@ -9,7 +9,7 @@
 
 ### デビュー前 - 2004年
 
-[鹿児島県立薩南工業高等学校](https://ja.wikipedia.org/wiki/鹿児島県立薩南工業高等学校 "wikilink")卒業後に東京の建設会社に就職して[アニマル浜口トレーニングジムに通い体作りをして](../Page/アニマル浜口レスリング道場.md "wikilink")[リングス](../Page/リングス.md "wikilink")の入団テストを受けるが不合格。その後、[ウルティモ・ドラゴン](../Page/ウルティモ・ドラゴン.md "wikilink")が設立したプロレススクール「[闘龍門](../Page/闘龍門.md "wikilink")」の1期生の募集に合格して同期生の[黒木克昌](../Page/黒木克昌.md "wikilink")（旧：マグナムTOKYO）、大島伸彦（現：[CIMA](https://ja.wikipedia.org/wiki/CIMA_\(プロレスラー\) "wikilink")）、藤井達樹（現：[ドン・フジイ](../Page/ドン・フジイ.md "wikilink")）と先発隊として[メキシコ](../Page/メキシコ.md "wikilink")へ渡り、大島と藤井の2人と[ルード](https://ja.wikipedia.org/wiki/ヒール_\(プロレス\) "wikilink")（悪役）ユニット[C-MAXを結成](../Page/CRAZY-MAX.md "wikilink")（後に[TARU](../Page/TARU.md "wikilink")となる多留嘉一が加入）。
+[鹿児島県立薩南工業高等学校](https://ja.wikipedia.org/wiki/鹿児島県立薩南工業高等学校 "wikilink")卒業後に東京の建設会社に就職して[アニマル浜口トレーニングジムに通い体作りをして](../Page/アニマル浜口レスリング道場.md "wikilink")[リングス](../Page/リングス.md "wikilink")の入団テストを受けるが不合格。その後、[ウルティモ・ドラゴン](../Page/ウルティモ・ドラゴン.md "wikilink")が設立したプロレススクール「[闘龍門](../Page/闘龍門.md "wikilink")」の1期生の募集に合格して同期生の[黒木克昌](../Page/黒木克昌.md "wikilink")（旧：マグナムTOKYO）、大島伸彦（現：[CIMA](https://ja.wikipedia.org/wiki/CIMA_\(プロレスラー\) "wikilink")）、藤井達樹（現：[ドン・フジイ](../Page/ドン・フジイ.md "wikilink")）と先発隊として[メキシコ](../Page/メキシコ.md "wikilink")へ渡り、大島と藤井の2人と[ルード](../Page/ヒール_\(プロレス\).md "wikilink")（悪役）ユニット[C-MAXを結成](../Page/CRAZY-MAX.md "wikilink")（後に[TARU](../Page/TARU.md "wikilink")となる多留嘉一が加入）。
 
 [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に正式デビュー。[1999年](../Page/1999年.md "wikilink")、闘龍門JAPANに日本逆上陸として登場後、大暴れぶりで団体の「強さの象徴」と言われたが、怪我に悩まされた。普段はコミカルな試合が多いフジイと衝突したことがあり、一時ユニットは空中分解、SUWAも会社を無断欠勤するという事件が起きている。その後復帰したものの、処罰として第1試合での試合を義務付けられた。フジイとは後に和解し、ユニットも元通りとなった。
 
@@ -47,9 +47,9 @@ DRAGON GATE退団後は[フリーランス](../Page/フリーランス.md "wikil
 
 [2013年](../Page/2013年.md "wikilink")1月6日の[後楽園ホール](../Page/後楽園ホール.md "wikilink")大会、[BRAVE対NO](https://ja.wikipedia.org/wiki/BRAVE_\(プロレス\) "wikilink") MERCYの第一回戦、[モハメド・ヨネ](../Page/モハメド・ヨネ.md "wikilink")vs[平柳玄藩](../Page/平柳玄藩.md "wikilink")の試合中、[マイバッハ谷口](../Page/マイバッハ谷口.md "wikilink")とともに、マイバッハと同じ覆面を付け、全身黒ずくめという姿の男が出現した。平柳の口からNO MERCYの新メンバーとして紹介される\[3\]。このときはまだ名前は公開されていなかったが、その後、公式サイトで「**マイバッハ谷口Jr.**」として今後の参戦が発表された\[4\]。
 
-初戦となった1月17日名古屋テレピアホール大会では、平柳と組んで、[ブラバド兄弟](https://ja.wikipedia.org/wiki/ブラバド兄弟 "wikilink")と対戦。かつてNO MERCYに所属していた[金丸義信](https://ja.wikipedia.org/wiki/金丸義信 "wikilink")の得意技であるタッチ・アウト（旋回式[ブレーンバスター](../Page/ブレーンバスター.md "wikilink")）を繰り出して勝利した\[5\]。
+初戦となった1月17日名古屋テレピアホール大会では、平柳と組んで、[ブラバド兄弟](https://ja.wikipedia.org/wiki/ブラバド兄弟 "wikilink")と対戦。かつてNO MERCYに所属していた[金丸義信](../Page/金丸義信.md "wikilink")の得意技であるタッチ・アウト（旋回式[ブレーンバスター](../Page/ブレーンバスター.md "wikilink")）を繰り出して勝利した\[5\]。
 
-2戦目となる1月27日の大阪[ボディメーカーコロシアム大会では](https://ja.wikipedia.org/wiki/大阪府立体育会館 "wikilink")、同じく平柳とのコンビで[南条隼人](https://ja.wikipedia.org/wiki/南条隼人 "wikilink")と[冨宅飛駈](../Page/冨宅飛駈.md "wikilink")と対戦。今度は「元祖増殖仮面」として知られる[新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")の[スーパー・ストロング・マシン](https://ja.wikipedia.org/wiki/スーパー・ストロング・マシン "wikilink")の得意技である[魔神風車固め](https://ja.wikipedia.org/wiki/魔神風車固め "wikilink")で勝利した。また、マイバッハ谷口Jr.は平柳自身がタッグベルトを奪取するために招聘した選手であることを明かした\[6\]。
+2戦目となる1月27日の大阪[ボディメーカーコロシアム大会では](../Page/大阪府立体育会館.md "wikilink")、同じく平柳とのコンビで[南条隼人](https://ja.wikipedia.org/wiki/南条隼人 "wikilink")と[冨宅飛駈](../Page/冨宅飛駈.md "wikilink")と対戦。今度は「元祖増殖仮面」として知られる[新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")の[スーパー・ストロング・マシン](https://ja.wikipedia.org/wiki/スーパー・ストロング・マシン "wikilink")の得意技である[魔神風車固め](https://ja.wikipedia.org/wiki/魔神風車固め "wikilink")で勝利した。また、マイバッハ谷口Jr.は平柳自身がタッグベルトを奪取するために招聘した選手であることを明かした\[6\]。
 
 その後、さらなる継続参戦を重ね、得意技であるジョン・ウーを繰り出すなどした。そして、3月10日の[横浜文化体育館](../Page/横浜文化体育館.md "wikilink")大会にて、平柳とのタッグで[リッキー・マルビン](../Page/リッキー・マルビン.md "wikilink")と[スペル・クレイジー](../Page/スペル・クレイジー.md "wikilink")が保持する[GHCジュニアヘビー級タッグ王座](https://ja.wikipedia.org/wiki/GHCジュニアヘビー級タッグ王座 "wikilink")へ挑戦。11分01秒、平柳が昇龍玄藩からのエビ固めでマルビンを仕留め、王座を奪取した\[7\]。
 
@@ -170,7 +170,7 @@ DRAGON GATE退団後は[フリーランス](../Page/フリーランス.md "wikil
 
   - タッチ・アウト
 
-変型[ブレーンバスター](../Page/ブレーンバスター.md "wikilink")。相手を持ち上げた状態で旋回してから垂直落下式で決める。元NO MERCYのメンバーでノアを退団した[金丸義信](https://ja.wikipedia.org/wiki/金丸義信 "wikilink")の得意技。
+変型[ブレーンバスター](../Page/ブレーンバスター.md "wikilink")。相手を持ち上げた状態で旋回してから垂直落下式で決める。元NO MERCYのメンバーでノアを退団した[金丸義信](../Page/金丸義信.md "wikilink")の得意技。
 
   - [魔神風車固め](https://ja.wikipedia.org/wiki/魔神風車固め "wikilink")
 

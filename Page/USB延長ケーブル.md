@@ -1,7 +1,7 @@
 > この記事は[USB](https://ja.wikipedia.org/wiki/USB)から翻訳されています。
 
 
-**USB延長ケーブル**（USBえんちょうケーブル、*USB extension cable*）は[周辺機器](../Page/周辺機器.md "wikilink")の一つであり、[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")や[NASなどのハードウェアのUSBポートと](../Page/ネットワークアタッチトストレージ.md "wikilink")、[USBに対応した](../Page/ユニバーサル・シリアル・バス.md "wikilink")[USBメモリや](https://ja.wikipedia.org/wiki/USBフラッシュドライブ "wikilink")、[外付けHDD](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")、[プリンター](https://ja.wikipedia.org/wiki/プリンター "wikilink")など周辺機器のUSBポートを接続する際に、パソコンと機器がはなれていて、付属ケーブルでは届かない時に、長さを補うために使われるケーブルのこと。また、USB A端子が直接本体に直付けされているUSBメモリなどを容易に接続できるようにするために使う。
+**USB延長ケーブル**（USBえんちょうケーブル、*USB extension cable*）は[周辺機器](../Page/周辺機器.md "wikilink")の一つであり、[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")や[NASなどのハードウェアのUSBポートと](../Page/ネットワークアタッチトストレージ.md "wikilink")、[USBに対応した](../Page/ユニバーサル・シリアル・バス.md "wikilink")[USBメモリや](../Page/USBフラッシュドライブ.md "wikilink")、[外付けHDD](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")、[プリンター](https://ja.wikipedia.org/wiki/プリンター "wikilink")など周辺機器のUSBポートを接続する際に、パソコンと機器がはなれていて、付属ケーブルでは届かない時に、長さを補うために使われるケーブルのこと。また、USB A端子が直接本体に直付けされているUSBメモリなどを容易に接続できるようにするために使う。
 
 通常のUSBケーブルは片方がパソコン側のUSB A端子でもう片側が機器側のB端子（もしくはミニB端子）であるが、USB延長ケーブルは両方がA端子で、一方がオス、もう一方がメスとなっている。ただし、USB規格においてはケーブルの一方はA端子、もう一方はB端子と規定されているため、両端にA型のオスとメスがついているUSB延長ケーブルは規格に則っておらずUSBロゴをつけることがゆるされていない。USBロゴが付いたものもあるが、これは、規格違反を承知で勝手につけたものである。
 

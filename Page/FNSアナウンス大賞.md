@@ -113,7 +113,7 @@ FNS系列各局のアナウンサーの資質向上を目的に[1985年](https:/
 <td><p><a href="https://ja.wikipedia.org/wiki/高橋幸平" title="wikilink">高橋幸平</a><br />
 （<a href="../Page/テレビ西日本.md" title="wikilink">テレビ西日本</a>）</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/佐藤拓雄" title="wikilink">佐藤拓雄</a><br />
+<td><p><a href="../Page/佐藤拓雄.md" title="wikilink">佐藤拓雄</a><br />
 （仙台放送）</p></td>
 </tr>
 <tr class="even">
@@ -169,7 +169,7 @@ FNS系列各局のアナウンサーの資質向上を目的に[1985年](https:/
 <tr class="even">
 <td><p>第16回<br />
 （<a href="../Page/2000年.md" title="wikilink">2000年</a>）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/原田幸子" title="wikilink">原田幸子</a><br />
+<td><p><a href="../Page/原田幸子.md" title="wikilink">原田幸子</a><br />
 （<a href="../Page/福島テレビ.md" title="wikilink">福島テレビ</a>）</p></td>
 <td><p>?</p></td>
 <td><p>不明</p></td>
@@ -213,7 +213,7 @@ FNS系列各局のアナウンサーの資質向上を目的に[1985年](https:/
 </tr>
 <tr class="odd">
 <td><p>第21回<br />
-（<a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a>）</p></td>
+（<a href="../Page/2005年.md" title="wikilink">2005年</a>）</p></td>
 <td><p><a href="../Page/石井百恵.md" title="wikilink">石井百恵</a><br />
 （テレビ新広島）</p></td>
 <td><p>ひろしまこの1年</p></td>
@@ -281,7 +281,7 @@ FNS系列各局のアナウンサーの資質向上を目的に[1985年](https:/
 <tr class="even">
 <td><p>第28回<br />
 （<a href="../Page/2012年.md" title="wikilink">2012年</a>）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/佐藤拓雄" title="wikilink">佐藤拓雄</a><br />
+<td><p><a href="../Page/佐藤拓雄.md" title="wikilink">佐藤拓雄</a><br />
 （<a href="../Page/仙台放送.md" title="wikilink">仙台放送</a>）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/東日本大震災" title="wikilink">東日本大震災</a>報道</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/横内美紗" title="wikilink">横内美紗</a><br />
@@ -299,7 +299,7 @@ FNS系列各局のアナウンサーの資質向上を目的に[1985年](https:/
 <tr class="even">
 <td><p>第30回<br />
 （<a href="../Page/2014年.md" title="wikilink">2014年</a>）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/寺田早輪子" title="wikilink">寺田早輪子</a><br />
+<td><p><a href="../Page/寺田早輪子.md" title="wikilink">寺田早輪子</a><br />
 （仙台放送）</p></td>
 <td><p>「青い鯉のぼり」[5]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/新実彰平" title="wikilink">新実彰平</a><br />
@@ -311,7 +311,7 @@ FNS系列各局のアナウンサーの資質向上を目的に[1985年](https:/
 <td><p><a href="../Page/千葉絢子.md" title="wikilink">千葉絢子</a><br />
 （<a href="../Page/岩手めんこいテレビ.md" title="wikilink">岩手めんこいテレビ</a>）[6]</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/豊嶋啓亮" title="wikilink">豊嶋啓亮</a><br />
+<td><p><a href="../Page/豊嶋啓亮.md" title="wikilink">豊嶋啓亮</a><br />
 （福島テレビ）[7]</p></td>
 </tr>
 <tr class="even">
@@ -363,9 +363,9 @@ FNS系列各局のアナウンサーの資質向上を目的に[1985年](https:/
 
 ## 関連項目
 
-  - [NNSアナウンス大賞](https://ja.wikipedia.org/wiki/NNSアナウンス大賞 "wikilink")
-  - [アノンシスト賞](https://ja.wikipedia.org/wiki/アノンシスト賞 "wikilink")
-  - [ANNアナウンサー賞](https://ja.wikipedia.org/wiki/ANNアナウンサー賞 "wikilink")
+  - [NNSアナウンス大賞](../Page/NNSアナウンス大賞.md "wikilink")
+  - [アノンシスト賞](../Page/アノンシスト賞.md "wikilink")
+  - [ANNアナウンサー賞](../Page/ANNアナウンサー賞.md "wikilink")
 
 [Category:フジテレビ系列](https://ja.wikipedia.org/wiki/Category:フジテレビ系列 "wikilink") [Category:テレビの賞](https://ja.wikipedia.org/wiki/Category:テレビの賞 "wikilink") [Category:日本のメディア賞](https://ja.wikipedia.org/wiki/Category:日本のメディア賞 "wikilink")
 

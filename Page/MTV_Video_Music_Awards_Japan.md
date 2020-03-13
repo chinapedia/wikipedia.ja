@@ -3,7 +3,7 @@
 
 **MTV Video Music Awards Japan**（エムティービー・ビデオ・ミュージック・アワード・ジャパン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[MTVジャパン](../Page/MTVジャパン.md "wikilink")が主催する[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")の祭典。略称は「**VMAJ**」。
 
-[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")で行われる「[MTV Video Music Awards](../Page/MTV_Video_Music_Awards.md "wikilink")」と同様に一年間を通じて各部門で最も活躍した[アーティストに対して賞を与える](../Page/芸術家.md "wikilink")[イベント](../Page/イベント.md "wikilink")である。[アジア](https://ja.wikipedia.org/wiki/アジア "wikilink")圏を網羅した[MTV Asia Awardsより独立した](https://ja.wikipedia.org/wiki/MTV_Asia_Awards "wikilink")。
+[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")で行われる「[MTV Video Music Awards](../Page/MTV_Video_Music_Awards.md "wikilink")」と同様に一年間を通じて各部門で最も活躍した[アーティストに対して賞を与える](../Page/芸術家.md "wikilink")[イベント](../Page/イベント.md "wikilink")である。[アジア](../Page/アジア.md "wikilink")圏を網羅した[MTV Asia Awardsより独立した](https://ja.wikipedia.org/wiki/MTV_Asia_Awards "wikilink")。
 
 2010年は名称を『**MTV WORLD STAGE VMAJ**』として開催し、司会者を設けずにナレーター・プレゼンターが案内・紹介スタイルで進行となった。また、2011年は名称を『**MTV Video Music Aid Japan**』（[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")のチャリティーイベント）として初めて6月に開催された。
 
@@ -50,7 +50,7 @@
 | -- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
 | 2  | [2003年](../Page/2003年.md "wikilink")                    | [RIP SLYME](../Page/RIP_SLYME.md "wikilink")                                                     | [楽園ベイベー](../Page/楽園ベイベー.md "wikilink")                                                          |
 | 3  | [2004年](../Page/2004年.md "wikilink")                    | [ミッシー・エリオット](../Page/ミッシー・エリオット.md "wikilink")                                                   | パス・ザット・ダッチ                                                                                      |
-| 4  | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") | [ORANGE RANGE](../Page/ORANGE_RANGE.md "wikilink")                                               | [花](../Page/花_\(ORANGE_RANGEの曲\).md "wikilink")                                                 |
+| 4  | [2005年](../Page/2005年.md "wikilink")                    | [ORANGE RANGE](../Page/ORANGE_RANGE.md "wikilink")                                               | [花](../Page/花_\(ORANGE_RANGEの曲\).md "wikilink")                                                 |
 | 5  | [2006年](../Page/2006年.md "wikilink")                    | [倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")                                            | Butterfly                                                                                       |
 | 6  | [2007年](../Page/2007年.md "wikilink")                    | 夢のうた                                                                                             |                                                                                                 |
 | 7  | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") | [EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")                                          | [I Believe](../Page/I_Believe_\(EXILEの曲\).md "wikilink")                                        |
@@ -583,7 +583,7 @@
       - [MTV Video Music Awards](../Page/MTV_Video_Music_Awards.md "wikilink")（[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")）
       - [MTV Europe Music Awards](https://ja.wikipedia.org/wiki/MTV_Europe_Music_Awards "wikilink")（[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")）
       - [MTV Australia Awards](https://ja.wikipedia.org/wiki/MTV_Australia_Awards "wikilink")（[オーストラリア](../Page/オーストラリア.md "wikilink")）
-      - [MTV Asia Awards](https://ja.wikipedia.org/wiki/MTV_Asia_Awards "wikilink")（[アジア](https://ja.wikipedia.org/wiki/アジア "wikilink")）
+      - [MTV Asia Awards](https://ja.wikipedia.org/wiki/MTV_Asia_Awards "wikilink")（[アジア](../Page/アジア.md "wikilink")）
   - [音楽に関する賞](../Page/音楽に関する賞.md "wikilink")
 
 ## 外部リンク

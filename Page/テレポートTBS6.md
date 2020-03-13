@@ -19,7 +19,7 @@
 
 この演出方法は、初代番組プロデューサー・中村登紀夫の考えによるところが大きく、全国ニュースとの差別化を図るため、夏の暑い時期には、キャスターの[背広](../Page/背広.md "wikilink")を脱がせ、[ワイシャツ](../Page/ワイシャツ.md "wikilink")姿で出演させ、話題になった。また、取材記者が原稿を書いて、キャスターがそれを読むのではなく、記者自らの[リポート](https://ja.wikipedia.org/wiki/リポート "wikilink")を放送にのせる手法をとり、また記者が体験取材を行うことで、リアルさを醸し出していった。[ロッキード事件](../Page/ロッキード事件.md "wikilink")の直後に、[田中角栄](../Page/田中角栄.md "wikilink")が払い下げたという[信濃川](../Page/信濃川.md "wikilink")河川敷の土地の広さを伝えるため、[料治直矢](../Page/料治直矢.md "wikilink")が自らその広い河川敷を歩き続ける[リポート](https://ja.wikipedia.org/wiki/リポート "wikilink")、師走の街を歌手・[都はるみ](../Page/都はるみ.md "wikilink")とともに[リポート](https://ja.wikipedia.org/wiki/リポート "wikilink")する企画など、現場の雰囲気や季節感などを重視したものが放送された。
 
-他にも番組初期には釣りが趣味と語る、[稲葉修](../Page/稲葉修.md "wikilink")[法務大臣](../Page/法務大臣.md "wikilink")が月に1回程度出演し「稲葉修の釣り談義」を放送、その後も釣りは[山本文郎](https://ja.wikipedia.org/wiki/山本文郎 "wikilink")の趣味でもあり、また季節感のある話題でもあるため「釣り情報」が幾度となく放送された。また、視聴者からの情報をもとに各地を訪問する「私鉄沿線シリーズ」などが人気を博したほか、春・夏の[高校野球](https://ja.wikipedia.org/wiki/高校野球 "wikilink")期間中には、郷司淑子を[リポーター](../Page/リポーター.md "wikilink")として[阪神甲子園球場](https://ja.wikipedia.org/wiki/阪神甲子園球場 "wikilink")に派遣し、関東勢のスタンド応援[リポート](https://ja.wikipedia.org/wiki/リポート "wikilink")を行うなど、一貫して関東地方の視聴者に向けた話題を紹介していった。
+他にも番組初期には釣りが趣味と語る、[稲葉修](../Page/稲葉修.md "wikilink")[法務大臣](../Page/法務大臣.md "wikilink")が月に1回程度出演し「稲葉修の釣り談義」を放送、その後も釣りは[山本文郎](../Page/山本文郎.md "wikilink")の趣味でもあり、また季節感のある話題でもあるため「釣り情報」が幾度となく放送された。また、視聴者からの情報をもとに各地を訪問する「私鉄沿線シリーズ」などが人気を博したほか、春・夏の[高校野球](https://ja.wikipedia.org/wiki/高校野球 "wikilink")期間中には、郷司淑子を[リポーター](../Page/リポーター.md "wikilink")として[阪神甲子園球場](https://ja.wikipedia.org/wiki/阪神甲子園球場 "wikilink")に派遣し、関東勢のスタンド応援[リポート](https://ja.wikipedia.org/wiki/リポート "wikilink")を行うなど、一貫して関東地方の視聴者に向けた話題を紹介していった。
 
 なお、[1976年](../Page/1976年.md "wikilink")（昭和51年）[3月29日](../Page/3月29日.md "wikilink")より[毎日新聞](https://ja.wikipedia.org/wiki/毎日新聞 "wikilink")が協力として制作に参加することとなり（前週[3月28日](../Page/3月28日.md "wikilink")をもって、TBSテレビの開局以来放送されてきた夕方の『[毎日新聞ニュース](../Page/毎日新聞ニュース.md "wikilink")』（[3社ニュース枠](../Page/読売・朝日・毎日3社ニュース.md "wikilink")）の放送を打ち切った。）、これまでの「毎日新聞ニュース」との関係から、番組初期の数年間は[カウキャッチャーとして毎日新聞のCMが放送されたほか](../Page/カウキャッチャー_\(放送\).md "wikilink")、毎日新聞の記者、論説委員らによる解説コーナー「今日のアングル」のコーナーが加わり、後に同局の『[朝のホットライン](https://ja.wikipedia.org/wiki/朝のホットライン "wikilink")』のコメンテーターで活躍する[鳥井守幸](../Page/鳥井守幸.md "wikilink")らが出演していた。
 
@@ -57,7 +57,7 @@
 <tr class="odd">
 <td><p>1976年10月</p></td>
 <td><p>1977年3月</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山本文郎" title="wikilink">山本文郎</a></p></td>
+<td><p><a href="../Page/山本文郎.md" title="wikilink">山本文郎</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -85,7 +85,7 @@
 <tr class="odd">
 <td><p>1986年10月</p></td>
 <td><p>1987年9月25日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/奈良陽" title="wikilink">奈良陽</a></p></td>
+<td><p><a href="../Page/奈良陽.md" title="wikilink">奈良陽</a></p></td>
 <td></td>
 <td></td>
 </tr>

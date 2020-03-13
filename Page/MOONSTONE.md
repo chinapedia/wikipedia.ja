@@ -16,7 +16,7 @@
   - [2003年](../Page/2003年.md "wikilink")[5月30日](../Page/5月30日.md "wikilink") - [あした出逢った少女](https://ja.wikipedia.org/wiki/あした出逢った少女 "wikilink")
   - 2003年[11月28日](../Page/11月28日.md "wikilink") - [妹 わたし、どんなことだって…](https://ja.wikipedia.org/wiki/妹_わたし、どんなことだって… "wikilink")
   - [2004年](../Page/2004年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink") - [何処へ行くの、あの日](../Page/何処へ行くの、あの日.md "wikilink")
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[5月27日](../Page/5月27日.md "wikilink") - [Gift 〜ギフト〜](../Page/Gift_〜ギフト〜.md "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")[5月27日](../Page/5月27日.md "wikilink") - [Gift 〜ギフト〜](../Page/Gift_〜ギフト〜.md "wikilink")
       - [2006年](../Page/2006年.md "wikilink")[1月27日](../Page/1月27日.md "wikilink") - [Gift にじいろストーリーズ](https://ja.wikipedia.org/wiki/Gift_〜ギフト〜#Gift_にじいろストーリーズ "wikilink")
   - [2007年](../Page/2007年.md "wikilink")[8月24日](../Page/8月24日.md "wikilink") - [Clear -クリア-](https://ja.wikipedia.org/wiki/Clear_-クリア- "wikilink")
       - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月3日](../Page/5月3日.md "wikilink") - [Clear クリスタルストーリーズ](https://ja.wikipedia.org/wiki/Clear_-クリア- "wikilink")

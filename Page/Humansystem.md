@@ -7,9 +7,9 @@
 
 レコーディングは同年7月から9月まで当時の最新鋭デジタル機器を取り入れて[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")と[東京](../Page/東京.md "wikilink")でレコーディングされた。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")にて著名な[ミック・グゾウスキー](https://ja.wikipedia.org/wiki/ミック・グゾウスキー "wikilink")や[バーニー・グランドマン](https://ja.wikipedia.org/wiki/バーニー・グランドマン "wikilink")などのエンジニアが参加しており、またロサンゼルスのミュージシャンとのコラボレーションによって製作されている。アルバムのテーマは「機械と人間の融合」であり、人間関係を主題とした曲が収録されている。
 
-先行シングルとしてリリースされた「[Kiss You (世界は宇宙と恋におちる)](../Page/Kiss_You_\(世界は宇宙と恋におちる\).md "wikilink")」を収録している他、[TBS系テレビドラマ](../Page/TBS系列.md "wikilink")『[痛快\!ロックンロール通り](https://ja.wikipedia.org/wiki/痛快!ロックンロール通り "wikilink")』の主題歌として使用された「[RESISTANCE](../Page/RESISTANCE_\(TM_NETWORKの曲\).md "wikilink")」が後に[リカット](../Page/リカット.md "wikilink")シングルとしてリリースされた。また、[1999年](../Page/1999年.md "wikilink")に[鈴木あみによってカバーされた](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")「[Be Together](../Page/BE_TOGETHER.md "wikilink")」、同年に[tohko](https://ja.wikipedia.org/wiki/tohko "wikilink")によってカバーされた「[Children of the New Century](https://ja.wikipedia.org/wiki/cure_\(tohkoのアルバム\) "wikilink")」など、他のアーティストによってカバーされている楽曲が多く収録されている。
+先行シングルとしてリリースされた「[Kiss You (世界は宇宙と恋におちる)](../Page/Kiss_You_\(世界は宇宙と恋におちる\).md "wikilink")」を収録している他、[TBS系テレビドラマ](../Page/TBS系列.md "wikilink")『[痛快\!ロックンロール通り](../Page/痛快!ロックンロール通り.md "wikilink")』の主題歌として使用された「[RESISTANCE](../Page/RESISTANCE_\(TM_NETWORKの曲\).md "wikilink")」が後に[リカット](../Page/リカット.md "wikilink")シングルとしてリリースされた。また、[1999年](../Page/1999年.md "wikilink")に[鈴木あみによってカバーされた](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")「[Be Together](../Page/BE_TOGETHER.md "wikilink")」、同年に[tohko](https://ja.wikipedia.org/wiki/tohko "wikilink")によってカバーされた「[Children of the New Century](https://ja.wikipedia.org/wiki/cure_\(tohkoのアルバム\) "wikilink")」など、他のアーティストによってカバーされている楽曲が多く収録されている。
 
-[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")ではオリジナルアルバムでは初となる1位を獲得した\[1\]。1988年度の売り上げは23万枚でオリコン年間41位。総合の売り上げは38万枚で、その当時の自己新記録だった。
+[オリコンチャート](../Page/オリコンチャート.md "wikilink")ではオリジナルアルバムでは初となる1位を獲得した\[1\]。1988年度の売り上げは23万枚でオリコン年間41位。総合の売り上げは38万枚で、その当時の自己新記録だった。
 
 同年[11月9日](../Page/11月9日.md "wikilink")より本作を受けてのコンサートツアー「[Kiss Japan TM NETWORK Tour '87〜'88](../Page/Kiss_Japan_TM_NETWORK_Tour_'87〜'88.md "wikilink")」、および1988年[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")より追加公演となるコンサートツアー「KISS JAPAN DANCING DYNA-MIX TM NETWORK ARENA TOUR」が敢行された。
 
@@ -17,15 +17,15 @@
 
 前作『[Self Control](../Page/Self_Control_\(TM_NETWORKのアルバム\).md "wikilink")』リリース後、TM NETWORKは「[TM NETWORK TOUR '87 FANKS\! BANG THE GONG](https://ja.wikipedia.org/wiki/TM_NETWORK_TOUR_'87_FANKS!_BANG_THE_GONG "wikilink")」と題したコンサートツアーを[3月10日](../Page/3月10日.md "wikilink")の[新潟市音楽文化会館](https://ja.wikipedia.org/wiki/新潟市音楽文化会館 "wikilink")から[5月20日](../Page/5月20日.md "wikilink")の[神奈川県民ホールまで](../Page/神奈川県立県民ホール.md "wikilink")、25都市全28公演敢行した。
 
-このツアー中に、[日本テレビ系テレビアニメ](../Page/日本テレビ系列.md "wikilink")『[シティーハンター](../Page/シティーハンター_\(アニメ\).md "wikilink")』（1987年 - 1988年）にてエンディングテーマとして使用されたシングル「[Get Wild](../Page/Get_Wild.md "wikilink")」が[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")で最高位9位となり、同グループにとって初のヒット曲となった。
+このツアー中に、[日本テレビ系テレビアニメ](../Page/日本テレビ系列.md "wikilink")『[シティーハンター](../Page/シティーハンター_\(アニメ\).md "wikilink")』（1987年 - 1988年）にてエンディングテーマとして使用されたシングル「[Get Wild](../Page/Get_Wild.md "wikilink")」が[オリコンチャート](../Page/オリコンチャート.md "wikilink")で最高位9位となり、同グループにとって初のヒット曲となった。
 
-[6月24日](../Page/6月24日.md "wikilink")には初の[日本武道館](../Page/日本武道館.md "wikilink")公演として「[TM NETWORK FANKS CRY-MAX](https://ja.wikipedia.org/wiki/FANKS_the_LIVE#FANKS_the_LIVE_1_FANKS_CRY-MAX "wikilink")」と題したライブイベントを敢行。[7月1日](../Page/7月1日.md "wikilink")には「Get Wild」を含む初のベストアルバム『[Gift for Fanks](https://ja.wikipedia.org/wiki/Gift_for_Fanks "wikilink")』をリリースし、同グループの作品では初となるオリコンチャート最高位1位を獲得した。
+[6月24日](../Page/6月24日.md "wikilink")には初の[日本武道館](../Page/日本武道館.md "wikilink")公演として「[TM NETWORK FANKS CRY-MAX](https://ja.wikipedia.org/wiki/FANKS_the_LIVE#FANKS_the_LIVE_1_FANKS_CRY-MAX "wikilink")」と題したライブイベントを敢行。[7月1日](../Page/7月1日.md "wikilink")には「Get Wild」を含む初のベストアルバム『[Gift for Fanks](../Page/Gift_for_Fanks.md "wikilink")』をリリースし、同グループの作品では初となるオリコンチャート最高位1位を獲得した。
 
 ## 録音
 
 本作のレコーディングは1987年[7月20日](../Page/7月20日.md "wikilink")から[8月29日](../Page/8月29日.md "wikilink")まで、日本国内のセディックスタジオ、[CBSソニー信濃町スタジオ](https://ja.wikipedia.org/wiki/ソニー・ミュージックスタジオ "wikilink")、スマイルガレージ、ビクター青山スタジオ、[サウンド・シティ](https://ja.wikipedia.org/wiki/サウンド・シティ_\(企業\) "wikilink")、[一口坂スタジオ](../Page/一口坂スタジオ.md "wikilink")にて行われ、さらに同年[9月4日](../Page/9月4日.md "wikilink")から[9月18日](../Page/9月18日.md "wikilink")まで、[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")のIgnited Productions、[Record One](https://ja.wikipedia.org/wiki/オーシャン・ウェイ・レコーディング "wikilink")、Image Recordingにて行われた。プロデューサーは前作に続き小室および[小坂洋二](../Page/小坂洋二.md "wikilink")が担当している。
 
-本作において日本国外でのレコーディングが取り入れられた理由としては、ロックバンド[BOØWYがアルバム](https://ja.wikipedia.org/wiki/BOOWY "wikilink")『[BOØWY](https://ja.wikipedia.org/wiki/BOOWY_\(アルバム\) "wikilink")』（[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")）において[ベルリン](https://ja.wikipedia.org/wiki/ベルリン "wikilink")の[ハンザ・スタジオ](https://ja.wikipedia.org/wiki/ハンザ・スタジオ "wikilink")にてレコーディングを行っており、[東西冷戦の空気感を取り入れたコンセプトでアルバムを製作している事などを受けて](../Page/冷戦.md "wikilink")、小室は「すごいところまで行っちゃった。これは追いつくのが大変だ」と対抗意識を認識した事から決定された\[2\]。
+本作において日本国外でのレコーディングが取り入れられた理由としては、ロックバンド[BOØWYがアルバム](https://ja.wikipedia.org/wiki/BOOWY "wikilink")『[BOØWY](../Page/BOOWY_\(アルバム\).md "wikilink")』（[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")）において[ベルリン](https://ja.wikipedia.org/wiki/ベルリン "wikilink")の[ハンザ・スタジオ](https://ja.wikipedia.org/wiki/ハンザ・スタジオ "wikilink")にてレコーディングを行っており、[東西冷戦の空気感を取り入れたコンセプトでアルバムを製作している事などを受けて](../Page/冷戦.md "wikilink")、小室は「すごいところまで行っちゃった。これは追いつくのが大変だ」と対抗意識を認識した事から決定された\[2\]。
 
 [デモテープ](https://ja.wikipedia.org/wiki/デモテープ "wikilink")は1987年7月下旬に小室と木根が共同で10曲作った。木根が2曲・後は小室が制作した。日本国外でのレコーディングのスケジュールが差し迫っていたため、状況に応じて、メロディ・テイク等をその日の内に決めなければならない程の即断即決を迫られた。コンセプトの全体像が固まったのは日本でのレコーディング終盤で、その頃同時に日本・海外のサポートミュージシャンを同時に決めて、許諾を得た後に契約を進めつつ、4曲程日本でレコーディングした。この時既に[ウォーレン・ククルロとも契約を結んでいたが](https://ja.wikipedia.org/wiki/:en:Warren_Cuccurullo "wikilink")、小室曰く「エキセントリックな弾き方をする人」だったため、ポップな曲を安全パイとして[鳥山雄司](https://ja.wikipedia.org/wiki/鳥山雄司 "wikilink")を筆頭とした日本のギタリストに任せて、冒険できる曲をウォーレンにやってもらった。逆にロサンゼルスのレコーディングでは、小室が思う通りの時間が取れ、午後2時から翌日早朝5時まで行った。海外のエンジニアからは「信じられない…」ときつそうな表情で見られたという\[3\]。
 
@@ -69,7 +69,7 @@
 
 ## アートワーク
 
-最初は小室が「宇宙船にメンバー3人が乗っている」という内容のイラストが描かれたジャケットを志望したが、没になった。しかし後に「[EXPO](https://ja.wikipedia.org/wiki/EXPO_\(アルバム\) "wikilink")」でそのアイディアが実現することとなる\[22\]。
+最初は小室が「宇宙船にメンバー3人が乗っている」という内容のイラストが描かれたジャケットを志望したが、没になった。しかし後に「[EXPO](../Page/EXPO_\(アルバム\).md "wikilink")」でそのアイディアが実現することとなる\[22\]。
 
 ## ツアー
 
@@ -83,7 +83,7 @@
 
 <!-- end list -->
 
-  - 音楽誌『音楽誌が書かないJポップ批評53 TMN&小室哲哉［ポップス神話創世］』において評論家の[町口哲生](https://ja.wikipedia.org/wiki/町口哲生 "wikilink")は、アメリカの一流エンジニアやミュージシャンが参加している事で「名作中の名作に決まっている」と絶賛し、作詞家として小室みつ子が全面的に参加している点も特筆すべき事項であると指摘した\[25\]。その他にも木根による作曲が後の木根のソロ作に繋がっていると指摘した他、様々な曲が収録されている点を「大衆から音楽マニアまで楽しめるアルバムに仕上がっている」と称賛した\[26\]。アルバムタイトルに関しては[ノーバート・ウィーナー](https://ja.wikipedia.org/wiki/ノーバート・ウィーナー "wikilink")の『人間機械論』（1950年）を彷彿させるとし、「人間の能力の先にマシンがあり、その機械が作り出す速度と時間が凝縮されて、本作の出来上がり」と総括した\[27\]。
+  - 音楽誌『音楽誌が書かないJポップ批評53 TMN&小室哲哉［ポップス神話創世］』において評論家の[町口哲生](https://ja.wikipedia.org/wiki/町口哲生 "wikilink")は、アメリカの一流エンジニアやミュージシャンが参加している事で「名作中の名作に決まっている」と絶賛し、作詞家として小室みつ子が全面的に参加している点も特筆すべき事項であると指摘した\[25\]。その他にも木根による作曲が後の木根のソロ作に繋がっていると指摘した他、様々な曲が収録されている点を「大衆から音楽マニアまで楽しめるアルバムに仕上がっている」と称賛した\[26\]。アルバムタイトルに関しては[ノーバート・ウィーナー](../Page/ノーバート・ウィーナー.md "wikilink")の『人間機械論』（1950年）を彷彿させるとし、「人間の能力の先にマシンがあり、その機械が作り出す速度と時間が凝縮されて、本作の出来上がり」と総括した\[27\]。
 
 <!-- end list -->
 
@@ -95,7 +95,7 @@
 
 ## チャート成績
 
-[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")では最高位1位、登場回数32回、売り上げ枚数は37.7万枚となった。この結果により、オリジナルアルバムとしては初の最高位1位を獲得する事となった。
+[オリコンチャート](../Page/オリコンチャート.md "wikilink")では最高位1位、登場回数32回、売り上げ枚数は37.7万枚となった。この結果により、オリジナルアルバムとしては初の最高位1位を獲得する事となった。
 
 ## 収録曲
 
@@ -111,7 +111,7 @@
 3.  **[Be Together](../Page/BE_TOGETHER.md "wikilink")**
       -
         後にシングル『[Get Wild](../Page/Get_Wild.md "wikilink")(再発盤)』のカップリング曲としてシングルカットされている。
-        BOØWYのシングル「[B・BLUE](../Page/B・BLUE.md "wikilink")」を意識して製作された曲であり、BOØWYに対抗すべく日本国外のパンクシーンや[ポリスのようなスピード感を目指すために](../Page/ポリス_\(バンド\).md "wikilink")[レベッカの](https://ja.wikipedia.org/wiki/レベッカ_\(バンド\) "wikilink")[小田原豊](../Page/小田原豊.md "wikilink")にドラムスを依頼した他、[松本孝弘](../Page/松本孝弘.md "wikilink")に難解なギターソロを依頼する事となった\[33\]。
+        BOØWYのシングル「[B・BLUE](../Page/B・BLUE.md "wikilink")」を意識して製作された曲であり、BOØWYに対抗すべく日本国外のパンクシーンや[ポリスのようなスピード感を目指すために](../Page/ポリス_\(バンド\).md "wikilink")[レベッカの](../Page/レベッカ_\(バンド\).md "wikilink")[小田原豊](../Page/小田原豊.md "wikilink")にドラムスを依頼した他、[松本孝弘](../Page/松本孝弘.md "wikilink")に難解なギターソロを依頼する事となった\[33\]。
 4.  **Human System**
       -
         アルバムタイトル曲。
@@ -119,9 +119,9 @@
         演奏した全員の方向性が上手くまとまった曲であると小室は語り、松本が最も好んでいる曲となった\[35\]。
 5.  **Telephone Line**
       -
-        [ELOの同名曲](https://ja.wikipedia.org/wiki/エレクトリック・ライト・オーケストラ "wikilink")「[テレフォン・ライン](https://ja.wikipedia.org/wiki/テレフォン・ライン "wikilink")」（[1977年](../Page/1977年.md "wikilink")）からの影響で製作された\[36\]。
+        [ELOの同名曲](../Page/エレクトリック・ライト・オーケストラ.md "wikilink")「[テレフォン・ライン](https://ja.wikipedia.org/wiki/テレフォン・ライン "wikilink")」（[1977年](../Page/1977年.md "wikilink")）からの影響で製作された\[36\]。
         この曲のラフテイクでは木根がボーカルを執っている。なお、このバージョンは『[TMN GROOVE GEAR](../Page/GROOVE_GEAR_1984-1994.md "wikilink")』に収録されている。
-        木根は「オケはエレクトリックだけど、ヒューマンなバラード」「『しんみり』とは違った形で表現したくて作った曲」\[37\]「最初は『[ELOが真似したくなりそうなバラード](https://ja.wikipedia.org/wiki/エレクトリック・ライト・オーケストラ "wikilink")』を作ろうとしたが、次第に一人歩きして[ビートルズ](../Page/ビートルズ.md "wikilink")調の歌メロになった」\[38\]と語っている。
+        木根は「オケはエレクトリックだけど、ヒューマンなバラード」「『しんみり』とは違った形で表現したくて作った曲」\[37\]「最初は『[ELOが真似したくなりそうなバラード](../Page/エレクトリック・ライト・オーケストラ.md "wikilink")』を作ろうとしたが、次第に一人歩きして[ビートルズ](../Page/ビートルズ.md "wikilink")調の歌メロになった」\[38\]と語っている。
         [ヨハン・パッヘルベル](https://ja.wikipedia.org/wiki/ヨハン・パッヘルベル "wikilink")の[カノンのコード進行を引用している](../Page/カノン_\(パッヘルベル\).md "wikilink")\[39\]。
 6.  **Leprechaun Christmas**
       -
@@ -382,7 +382,7 @@
 1.  アルバムとしては同年リリースのベストアルバム『Gift for Fanks』が初の1位獲得となった。
 2.
 3.
-4.  [リットーミュージック](https://ja.wikipedia.org/wiki/リットーミュージック "wikilink")刊「[キーボード・マガジン](../Page/キーボード・マガジン.md "wikilink")」1987年12月号「アルバム『humansystem』インタビュー『これまでのTMサウンドをさらに進化させた』」8P-11Pより。
+4.  [リットーミュージック](../Page/リットーミュージック.md "wikilink")刊「[キーボード・マガジン](../Page/キーボード・マガジン.md "wikilink")」1987年12月号「アルバム『humansystem』インタビュー『これまでのTMサウンドをさらに進化させた』」8P-11Pより。
 5.
 6.
 7.

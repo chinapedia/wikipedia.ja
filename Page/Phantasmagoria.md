@@ -98,9 +98,9 @@
 
 :\* 5月3日、[味の素スタジアムで開催された](../Page/東京スタジアム_\(多目的スタジアム\).md "wikilink")「hide memorial summit」にてPhantasmagoria奇跡の限定復活公演を果たす。
 
-:\*\* 共演 - [hide with Spread Beaver](https://ja.wikipedia.org/wiki/hide_with_Spread_Beaver "wikilink")/[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")/[DJ OZMA](../Page/DJ_OZMA.md "wikilink")/[RIZE](https://ja.wikipedia.org/wiki/RIZE "wikilink")/[マキシマム ザ ホルモン](https://ja.wikipedia.org/wiki/マキシマムザホルモン "wikilink")
+:\*\* 共演 - [hide with Spread Beaver](https://ja.wikipedia.org/wiki/hide_with_Spread_Beaver "wikilink")/[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")/[DJ OZMA](../Page/DJ_OZMA.md "wikilink")/[RIZE](../Page/RIZE.md "wikilink")/[マキシマム ザ ホルモン](https://ja.wikipedia.org/wiki/マキシマムザホルモン "wikilink")
 
-:\* 8月2日、大阪[アメリカ村](https://ja.wikipedia.org/wiki/アメリカ村 "wikilink")三角公園にて「GUERRILLA LIVE」を決行。
+:\* 8月2日、大阪[アメリカ村](../Page/アメリカ村.md "wikilink")三角公園にて「GUERRILLA LIVE」を決行。
 
 :\* 8月20日、復活記念写真集付メモリアルベスト盤『Dejavu～Sanctuary of Revival～』発売。(2枚組仕様-14曲入＋SPECIAL DVD-/完全限定盤)
 

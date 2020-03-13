@@ -286,7 +286,7 @@
 <tr class="odd">
 <td><p>25</p></td>
 <td><p>1996年04月26日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/パワーリーグ" title="wikilink">スーパーパワーリーグFX</a></p></td>
+<td><p><a href="../Page/パワーリーグ.md" title="wikilink">スーパーパワーリーグFX</a></p></td>
 <td><p><a href="../Page/ハドソン.md" title="wikilink">ハドソン</a></p></td>
 <td><p><a href="../Page/スポーツゲーム.md" title="wikilink">SPT</a></p></td>
 <td></td>
@@ -592,7 +592,7 @@
 <tr class="odd">
 <td><p>59</p></td>
 <td><p>1998年03月20日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/負けるな!魔剣道" title="wikilink">負けるな!魔剣道</a>Z</p></td>
+<td><p><a href="../Page/負けるな!魔剣道.md" title="wikilink">負けるな!魔剣道</a>Z</p></td>
 <td><p><a href="../Page/日本電気ホームエレクトロニクス.md" title="wikilink">NECホームエレクトロニクス</a></p></td>
 <td><p><a href="../Page/コンピュータRPG.md" title="wikilink">RPG</a></p></td>
 <td></td>

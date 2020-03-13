@@ -9,7 +9,7 @@
   - [ヴュ](../Page/ヴュ.md "wikilink") (**) - フランスの雑誌 (1928–1940)。
   - [VUメーター](../Page/VUメーター.md "wikilink") () で測定される[音量](https://ja.wikipedia.org/wiki/音量 "wikilink")の指標（単位ではない）。
   - [エール・イボワール](../Page/エール・イボワール.md "wikilink") () の[IATA航空会社コード](https://ja.wikipedia.org/wiki/IATA航空会社コード "wikilink")。
-  - [ヴィヴェンディ・ユニバーサル](https://ja.wikipedia.org/wiki/ヴィヴェンディ・ユニバーサル "wikilink") () - フランスのメディア企業 (2000–2006)。
+  - [ヴィヴェンディ・ユニバーサル](../Page/ヴィヴェンディ・ユニバーサル.md "wikilink") () - フランスのメディア企業 (2000–2006)。
   - [ヴェルヴェット・アンダーグラウンド](../Page/ヴェルヴェット・アンダーグラウンド.md "wikilink") () - アメリカの音楽バンド。
   - [VU (アルバム)](https://ja.wikipedia.org/wiki/VU_\(アルバム\) "wikilink") (**) - ヴェルヴェット・アンダーグラウンドの1985年のアルバム。
   - [危急](https://ja.wikipedia.org/wiki/危急種 "wikilink") () - [IUCNレッドリスト](https://ja.wikipedia.org/wiki/IUCNレッドリスト "wikilink")のカテゴリー。

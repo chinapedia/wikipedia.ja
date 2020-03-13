@@ -1,18 +1,18 @@
 > この記事は[MTV THE SUPER DRY LIVE](https://ja.wikipedia.org/wiki/MTV_THE_SUPER_DRY_LIVE)から翻訳されています。
 
 
-**MTV THE SUPER DRY LIVE**（エムティービー・ザ・スーパードライ・ライブ）は、[MTVジャパン](../Page/MTVジャパン.md "wikilink")と[アサヒスーパードライの共同企画で](../Page/アサヒビール.md "wikilink")、[2002年](../Page/2002年.md "wikilink")から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")まで毎年5月に行われていたコンサートである。
+**MTV THE SUPER DRY LIVE**（エムティービー・ザ・スーパードライ・ライブ）は、[MTVジャパン](../Page/MTVジャパン.md "wikilink")と[アサヒスーパードライの共同企画で](../Page/アサヒビール.md "wikilink")、[2002年](../Page/2002年.md "wikilink")から[2005年](../Page/2005年.md "wikilink")まで毎年5月に行われていたコンサートである。
 
 ## 概要
 
-このライブは、MTV視聴者から「こんなのやって欲しい」「超大物アーティスト同士の夢の競演が見たい」といった声を集め、それを実現するものである。[MTV Video Music Awards Japanと並ぶビッグイベント](https://ja.wikipedia.org/wiki/MTV_Video_Music_Awards_Japan "wikilink")。国内外の人気アーティストが出演するが、必ずしもリクエストの多いアーティストが出演するわけではない。
+このライブは、MTV視聴者から「こんなのやって欲しい」「超大物アーティスト同士の夢の競演が見たい」といった声を集め、それを実現するものである。[MTV Video Music Awards Japanと並ぶビッグイベント](../Page/MTV_Video_Music_Awards_Japan.md "wikilink")。国内外の人気アーティストが出演するが、必ずしもリクエストの多いアーティストが出演するわけではない。
 
   -
-    なお、“MTV THE SUPER DRY LIVE”は[MTV Video Music Awards Japanの前夜祭も兼ねていた](https://ja.wikipedia.org/wiki/MTV_Video_Music_Awards_Japan "wikilink")。
+    なお、“MTV THE SUPER DRY LIVE”は[MTV Video Music Awards Japanの前夜祭も兼ねていた](../Page/MTV_Video_Music_Awards_Japan.md "wikilink")。
 
 イベントの前にテレビの[地上波](../Page/地上波.md "wikilink")で大々的に[コマーシャルを放送し観覧を募集するため](../Page/コマーシャルメッセージ.md "wikilink")、MTVを視聴していない人々にも一定の認知度があるものと思われる。
 
-開催当初は[Zepp Tokyoで行われたが](https://ja.wikipedia.org/wiki/Zepp_Tokyo "wikilink")、[2004年](../Page/2004年.md "wikilink")からは、[国立代々木第一体育館で行われるようになった](../Page/国立代々木競技場.md "wikilink")。2004年までは編集し後日MTVで放送されていたが[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に初めてMTVで生中継された。なお、[2006年](../Page/2006年.md "wikilink")以降開催されない。（スポンサー降板のため。）
+開催当初は[Zepp Tokyoで行われたが](https://ja.wikipedia.org/wiki/Zepp_Tokyo "wikilink")、[2004年](../Page/2004年.md "wikilink")からは、[国立代々木第一体育館で行われるようになった](../Page/国立代々木競技場.md "wikilink")。2004年までは編集し後日MTVで放送されていたが[2005年](../Page/2005年.md "wikilink")に初めてMTVで生中継された。なお、[2006年](../Page/2006年.md "wikilink")以降開催されない。（スポンサー降板のため。）
 
 ## 出演アーティスト
 

@@ -22,7 +22,7 @@
       - 解熱鎮痛剤の処方の一種。[アスピリン](https://ja.wikipedia.org/wiki/アスピリン "wikilink") (aspirin) 、[パラセタモール](../Page/アセトアミノフェン.md "wikilink") (paracetamol) 、[カフェイン](../Page/カフェイン.md "wikilink") (caffeine) の合剤。
       - アルゴンプラズマ凝固法 ([Argon plasma coagulation](https://ja.wikipedia.org/wiki/:en:Argon_plasma_coagulation "wikilink"))
       - 細胞周期の進行に関与するタンパク質、[後期促進複合体](https://ja.wikipedia.org/wiki/後期促進複合体 "wikilink") (anaphase-promoting complex) の略。
-      - 活性化[プロテインC](https://ja.wikipedia.org/wiki/プロテインC "wikilink")（activated protein C）の略。
+      - 活性化[プロテインC](../Page/プロテインC.md "wikilink")（activated protein C）の略。
   - [PHP](../Page/PHP_\(プログラミング言語\).md "wikilink") のモジュールの一つの Alternative PHP Cache。
   - [ア・パーフェクト・サークル](https://ja.wikipedia.org/wiki/ア・パーフェクト・サークル "wikilink")
   - [:en:Association for Progressive Communications](https://ja.wikipedia.org/wiki/:en:Association_for_Progressive_Communications "wikilink")

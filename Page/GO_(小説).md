@@ -74,7 +74,7 @@
   - 電話前の挑戦者 - [仲島武士](https://ja.wikipedia.org/wiki/仲島武士 "wikilink")
   - 100円を賭ける生徒 - [西村豪起](https://ja.wikipedia.org/wiki/豪起 "wikilink")
   - 少年A - [椿隆之](../Page/椿隆之.md "wikilink")
-  - 少年Aの友人 - [吉永雄紀](https://ja.wikipedia.org/wiki/吉永雄紀 "wikilink")、[三原伸之](https://ja.wikipedia.org/wiki/三原伸之 "wikilink")、[小谷嘉一](https://ja.wikipedia.org/wiki/小谷嘉一 "wikilink")
+  - 少年Aの友人 - [吉永雄紀](https://ja.wikipedia.org/wiki/吉永雄紀 "wikilink")、[三原伸之](https://ja.wikipedia.org/wiki/三原伸之 "wikilink")、[小谷嘉一](../Page/小谷嘉一.md "wikilink")
   - クラブのDJ - [柳田英輝](https://ja.wikipedia.org/wiki/柳田英輝 "wikilink")
   - 加藤の女 - [飯田れな](../Page/飯田れな_\(AV女優\).md "wikilink")、[森高千春](../Page/森高千春.md "wikilink")
   - バスケの監督 - [松田直樹](https://ja.wikipedia.org/wiki/松田直樹_\(俳優\) "wikilink")
@@ -132,7 +132,7 @@
       - 助演男優賞:山崎努
       - 監督賞:行定勲
       - 新人賞:柴咲コウ
-  - 第56回[毎日映画コンクール](https://ja.wikipedia.org/wiki/毎日映画コンクール "wikilink")
+  - 第56回[毎日映画コンクール](../Page/毎日映画コンクール.md "wikilink")
       - 日本映画優秀賞
       - 脚本賞:宮藤官九郎
       - スポニチグランプリ新人賞:窪塚洋介・柴咲コウ

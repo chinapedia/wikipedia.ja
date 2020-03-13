@@ -23,17 +23,17 @@
 
 ### テレビ局
 
-| デジタル     | 放送局                                                                                               |
-| -------- | ------------------------------------------------------------------------------------------------- |
-| 011(1)   | [日本海テレビ](../Page/日本海テレビジョン放送.md "wikilink")                                                       |
-| 021(2)   | [NHK松江](../Page/NHK松江放送局.md "wikilink")[教育](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink") |
-| 031(3)   | NHK松江[総合](../Page/NHK総合テレビジョン.md "wikilink")                                                      |
-| 031-1(4) | [サンテレビ](../Page/サンテレビジョン.md "wikilink")                                                           |
-| 051(5)   | [広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")                                                        |
-| 061(6)   | [山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")                                             |
-| 081(8)   | [山陰中央テレビ](https://ja.wikipedia.org/wiki/山陰中央テレビジョン放送 "wikilink")                                  |
-| 111(11)  | わがとこテレビ                                                                                           |
-| 121(12)  | お天気チャンネル                                                                                          |
+| デジタル     | 放送局                                                                            |
+| -------- | ------------------------------------------------------------------------------ |
+| 011(1)   | [日本海テレビ](../Page/日本海テレビジョン放送.md "wikilink")                                    |
+| 021(2)   | [NHK松江](../Page/NHK松江放送局.md "wikilink")[教育](../Page/NHK教育テレビジョン.md "wikilink") |
+| 031(3)   | NHK松江[総合](../Page/NHK総合テレビジョン.md "wikilink")                                   |
+| 031-1(4) | [サンテレビ](../Page/サンテレビジョン.md "wikilink")                                        |
+| 051(5)   | [広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")                                     |
+| 061(6)   | [山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")                          |
+| 081(8)   | [山陰中央テレビ](https://ja.wikipedia.org/wiki/山陰中央テレビジョン放送 "wikilink")               |
+| 111(11)  | わがとこテレビ                                                                        |
+| 121(12)  | お天気チャンネル                                                                       |
 
   - [地上デジタルテレビジョン放送](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")は、地上デジタル対応テレビまたはチューナであれば視聴可能。
   - 次の表の放送はセットトップボックスを使用して視聴する。
@@ -68,14 +68,14 @@
 | 739     | [フジテレビONE](https://ja.wikipedia.org/wiki/フジテレビONE "wikilink")                     |
 | 749     | [アジアドラマチックTV](https://ja.wikipedia.org/wiki/アジアドラマチックTV★So-net "wikilink")        |
 | 752     | [日本映画専門チャンネル](../Page/日本映画専門チャンネル.md "wikilink")                                  |
-| 753     | [時代劇専門チャンネル](https://ja.wikipedia.org/wiki/時代劇専門チャンネル "wikilink")                 |
+| 753     | [時代劇専門チャンネル](../Page/時代劇専門チャンネル.md "wikilink")                                    |
 | 754     | [FOXチャンネル](../Page/FOXチャンネル.md "wikilink")                                        |
 | 759     | [ザ・シネマ](../Page/ザ・シネマ.md "wikilink")                                              |
 | 763     | [衛星劇場](../Page/衛星劇場.md "wikilink")                                                |
 | 765     | [TBSチャンネル](../Page/TBSチャンネル.md "wikilink")                                        |
 | 766     | [テレ朝チャンネル](../Page/テレ朝チャンネル.md "wikilink")                                        |
 | 767     | [日テレプラス](https://ja.wikipedia.org/wiki/日テレプラス "wikilink")                         |
-| 772     | [MTV](https://ja.wikipedia.org/wiki/MTVジャパン "wikilink")                           |
+| 772     | [MTV](../Page/MTVジャパン.md "wikilink")                                              |
 | 782     | [アニマックス](../Page/アニマックス.md "wikilink")                                            |
 | 794     | [TBSニュースバード](https://ja.wikipedia.org/wiki/TBSニュースバード "wikilink")                 |
 | 795     | [朝日ニュースター](../Page/朝日ニュースター.md "wikilink")                                        |

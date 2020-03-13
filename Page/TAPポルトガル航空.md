@@ -17,7 +17,7 @@
 
 [1996年](../Page/1996年.md "wikilink")は[マカオ](../Page/マカオ.md "wikilink")へのサービスを開始し、公式ホームページを立ち上げ、アゾレス諸島の[テルセイラ島](../Page/テルセイラ島.md "wikilink")経由ボストン行きのサービスを始めた。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に、[プンタカーナ](https://ja.wikipedia.org/wiki/w:Punta_Cana "wikilink") 及び[バンコク](../Page/バンコク.md "wikilink")へのサービスが始まる。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")にTAPは[スターアライアンス](../Page/スターアライアンス.md "wikilink")の16番目の会員となる。この会社は2005年2月にTAP Air Portugal から TAP Portugalへ社名変更を行った。また[2007年](../Page/2007年.md "wikilink")7月より元[植民地](../Page/植民地.md "wikilink")であった[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")の[首都](../Page/首都.md "wikilink")の[ブラジリア](../Page/ブラジリア.md "wikilink")へ初の直行便を就航させるなど、路線拡充を進めている。
+[2005年](../Page/2005年.md "wikilink")にTAPは[スターアライアンス](../Page/スターアライアンス.md "wikilink")の16番目の会員となる。この会社は2005年2月にTAP Air Portugal から TAP Portugalへ社名変更を行った。また[2007年](../Page/2007年.md "wikilink")7月より元[植民地](../Page/植民地.md "wikilink")であった[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")の[首都](../Page/首都.md "wikilink")の[ブラジリア](../Page/ブラジリア.md "wikilink")へ初の直行便を就航させるなど、路線拡充を進めている。
 
 ## 就航路線
 

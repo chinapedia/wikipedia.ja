@@ -1,7 +1,7 @@
 > この記事は[Kay](https://ja.wikipedia.org/wiki/Kay)から翻訳されています。
 
 
-**Kay 稲毛**（ケイ いなげ、[1967年](../Page/1967年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性[声優](../Page/声優.md "wikilink")、ラジオ[DJ](../Page/ディスクジョッキー.md "wikilink")。[香川県](../Page/香川県.md "wikilink")出身。[血液型はO型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[ボズアトール](https://ja.wikipedia.org/wiki/ボズアトール "wikilink")所属。以前は[大阪テレビタレントビューロー](../Page/大阪テレビタレントビューロー.md "wikilink")（TTB）、[キャラに所属していた](https://ja.wikipedia.org/wiki/キャラ_\(芸能プロダクション\) "wikilink")。主な活動は、パチンコに詳しいためパチンコ番組の実況、[ナレーター](https://ja.wikipedia.org/wiki/ナレーター "wikilink")、ラジオDJとしては[e-radioでの活動が多く](../Page/エフエム滋賀.md "wikilink")、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")頃から勤めている。
+**Kay 稲毛**（ケイ いなげ、[1967年](../Page/1967年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性[声優](../Page/声優.md "wikilink")、ラジオ[DJ](../Page/ディスクジョッキー.md "wikilink")。[香川県](../Page/香川県.md "wikilink")出身。[血液型はO型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[ボズアトール](../Page/ボズアトール.md "wikilink")所属。以前は[大阪テレビタレントビューロー](../Page/大阪テレビタレントビューロー.md "wikilink")（TTB）、[キャラに所属していた](../Page/キャラ_\(芸能プロダクション\).md "wikilink")。主な活動は、パチンコに詳しいためパチンコ番組の実況、[ナレーター](https://ja.wikipedia.org/wiki/ナレーター "wikilink")、ラジオDJとしては[e-radioでの活動が多く](../Page/エフエム滋賀.md "wikilink")、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")頃から勤めている。
 
 旧名は**稲毛 一弘**（いなげ かずひろ）。
 
@@ -30,7 +30,7 @@
   - [龍虎の拳](../Page/龍虎の拳.md "wikilink")シリーズ（**[ロバート・ガルシア](../Page/ロバート・ガルシア_\(龍虎の拳\).md "wikilink")**、[リー・パイロン](../Page/リー・パイロン.md "wikilink")（※リーの声は『龍虎の拳2』）
   - [ザ・キング・オブ・ファイターズ](../Page/ザ・キング・オブ・ファイターズ.md "wikilink")シリーズ（ロバート・ガルシア、[ラッキー・グローバー](../Page/ラッキー・グローバー.md "wikilink")、[溝口誠](../Page/溝口誠.md "wikilink")）
   - [サムライスピリッツ](../Page/サムライスピリッツ.md "wikilink")シリーズ（**[ガルフォード](../Page/ガルフォード.md "wikilink")**、千両狂死郎、タムタム）
-  - [ネオジオバトルコロシアム](https://ja.wikipedia.org/wiki/ネオジオバトルコロシアム "wikilink")（ロバート・ガルシア）
+  - [ネオジオバトルコロシアム](../Page/ネオジオバトルコロシアム.md "wikilink")（ロバート・ガルシア）
 
 ### その他
 

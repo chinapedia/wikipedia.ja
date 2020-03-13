@@ -145,7 +145,7 @@ PFI方式で開業した全国初の病院「[高知医療センター](https://
   - [神奈川県警察運転免許センター](../Page/神奈川県警察運転免許センター.md "wikilink")
   - [横浜みなとみらい国際コンベンションセンター](https://ja.wikipedia.org/wiki/横浜みなとみらい国際コンベンションセンター "wikilink")（パシフィコ横浜ノース）
   - [横浜文化体育館](../Page/横浜文化体育館.md "wikilink")建て替え
-  - [新潟県立武道館](https://ja.wikipedia.org/wiki/新潟県立武道館 "wikilink")
+  - [新潟県立武道館](../Page/新潟県立武道館.md "wikilink")
   - [愛知県運転免許試験場](../Page/愛知県運転免許試験場.md "wikilink")
   - [桑名市立中央図書館](../Page/桑名市立中央図書館.md "wikilink")
   - [京都市立京都御池中学校](https://ja.wikipedia.org/wiki/京都市立京都御池中学校 "wikilink")複合施設
@@ -204,7 +204,7 @@ PFI方式で開業した全国初の病院「[高知医療センター](https://
 <!-- end list -->
 
   - [民間資金等の活用による公共施設等の整備等の促進に関する法律](https://ja.wikipedia.org/wiki/民間資金等の活用による公共施設等の整備等の促進に関する法律 "wikilink")
-  - [指定管理者制度](https://ja.wikipedia.org/wiki/指定管理者制度 "wikilink")
+  - [指定管理者制度](../Page/指定管理者制度.md "wikilink")
   - [市場化テスト](../Page/市場化テスト.md "wikilink")
       - [NHK受信料](https://ja.wikipedia.org/wiki/NHK受信料 "wikilink")
   - [競争入札](../Page/競争入札.md "wikilink")

@@ -119,7 +119,7 @@ ID3v1.1 形式
 </tr>
 <tr class="even">
 <td><p>19</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/インダストリアル" title="wikilink">Industrial</a></p></td>
+<td><p><a href="../Page/インダストリアル.md" title="wikilink">Industrial</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>20</p></td>
@@ -479,7 +479,7 @@ ID3v1.1 形式
 </tr>
 <tr class="even">
 <td><p>110</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/風刺" title="wikilink">Satire</a></p></td>
+<td><p><a href="../Page/風刺.md" title="wikilink">Satire</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>111</p></td>
@@ -503,7 +503,7 @@ ID3v1.1 形式
 </tr>
 <tr class="even">
 <td><p>116</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/バラッド" title="wikilink">Ballad</a></p></td>
+<td><p><a href="../Page/バラッド.md" title="wikilink">Ballad</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>117</p></td>

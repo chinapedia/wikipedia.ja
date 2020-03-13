@@ -30,7 +30,7 @@
   - 01:00～02:30 - [WESTBAM](https://ja.wikipedia.org/wiki/ウエストバム "wikilink")
   - 02:30～03:00 - [MIJK VAN DIJK](../Page/マイク・ヴァン・ダイク.md "wikilink")
   - 03:00～04:30 - [石野卓球](../Page/石野卓球.md "wikilink")
-  - 04:30～06:00 - [田中フミヤ](https://ja.wikipedia.org/wiki/田中フミヤ "wikilink")
+  - 04:30～06:00 - [田中フミヤ](../Page/田中フミヤ.md "wikilink")
 
 <!-- end list -->
 
@@ -43,7 +43,7 @@
 
 <!-- end list -->
 
-  - 18:00～19:20 - [DJ TASAKA](https://ja.wikipedia.org/wiki/DJ_TASAKA "wikilink")
+  - 18:00～19:20 - [DJ TASAKA](../Page/DJ_TASAKA.md "wikilink")
   - 19:20～20:40 - [CLAUDE YOUNG](https://ja.wikipedia.org/wiki/Claude_Young "wikilink")
   - 20:40～21:10 - BEROSHIMA
   - 21:10～22:30 - [HELL](../Page/DJ_Hell.md "wikilink")
@@ -61,7 +61,7 @@
 
 ## WIRE01
 
-  - 開催日: [2001年](../Page/2001年.md "wikilink")（平成13年）[9月8日](https://ja.wikipedia.org/wiki/9月8日 "wikilink")
+  - 開催日: [2001年](../Page/2001年.md "wikilink")（平成13年）[9月8日](../Page/9月8日.md "wikilink")
   - 開催場所: 横浜アリーナ
 
 <!-- end list -->
@@ -214,7 +214,7 @@
 
 ## WIRE05
 
-  - 開催日: [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）[7月16日](../Page/7月16日.md "wikilink")
+  - 開催日: [2005年](../Page/2005年.md "wikilink")（平成17年）[7月16日](../Page/7月16日.md "wikilink")
   - 開催場所: 横浜アリーナ
 
 ### メインフロア
@@ -502,7 +502,7 @@
   - 01:00～02:30 - [WESTBAM](https://ja.wikipedia.org/wiki/ウエストバム "wikilink")
   - 02:30～03:00 - [MIJK VAN DIJK](../Page/マイク・ヴァン・ダイク.md "wikilink")
   - 03:00～04:30 - [石野卓球](../Page/石野卓球.md "wikilink")
-  - 04:30～06:00 - [田中フミヤ](https://ja.wikipedia.org/wiki/田中フミヤ "wikilink")
+  - 04:30～06:00 - [田中フミヤ](../Page/田中フミヤ.md "wikilink")
 
 <!-- end list -->
 

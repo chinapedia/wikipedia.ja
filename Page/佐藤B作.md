@@ -3,7 +3,7 @@
 
 **佐藤 B作**（さとう ビーさく、本名：**佐藤 俊夫**（さとう としお）、[1949年](../Page/1949年.md "wikilink")[2月13日](../Page/2月13日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[俳優](../Page/俳優.md "wikilink")。
 
-身長164cm。[血液型AB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[福島県](../Page/福島県.md "wikilink")[福島市](../Page/福島市.md "wikilink")出身。[福島県立福島高等学校](https://ja.wikipedia.org/wiki/福島県立福島高等学校 "wikilink")卒業、[早稲田大学](../Page/早稲田大学.md "wikilink")[商学部](../Page/商学部.md "wikilink")中退。妻は[女優の](../Page/俳優.md "wikilink")[あめくみちこ](../Page/あめくみちこ.md "wikilink")（[2001年](../Page/2001年.md "wikilink")に再婚）、息子は[佐藤銀平](../Page/佐藤銀平.md "wikilink")。[劇団東京ヴォードヴィルショー](../Page/劇団東京ヴォードヴィルショー.md "wikilink")主宰者。オフィスボードビル所属。
+身長164cm。[血液型AB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[福島県](../Page/福島県.md "wikilink")[福島市](../Page/福島市.md "wikilink")出身。[福島県立福島高等学校](../Page/福島県立福島高等学校.md "wikilink")卒業、[早稲田大学](../Page/早稲田大学.md "wikilink")[商学部](../Page/商学部.md "wikilink")中退。妻は[女優の](../Page/俳優.md "wikilink")[あめくみちこ](../Page/あめくみちこ.md "wikilink")（[2001年](../Page/2001年.md "wikilink")に再婚）、息子は[佐藤銀平](../Page/佐藤銀平.md "wikilink")。[劇団東京ヴォードヴィルショー](../Page/劇団東京ヴォードヴィルショー.md "wikilink")主宰者。オフィスボードビル所属。
 
 ## 来歴・人物
 
@@ -13,7 +13,7 @@
   - [1982年](../Page/1982年.md "wikilink")から[TBS系列で放映開始され高視聴率番組となった](../Page/TBSテレビ.md "wikilink")[萩本欽一](../Page/萩本欽一.md "wikilink")バラエティ番組「[週刊欽曜日](https://ja.wikipedia.org/wiki/週刊欽曜日 "wikilink")」にレギュラー出演し[コント](../Page/コント.md "wikilink")を繰り広げ、全国的な人気を得る\[5\]。同番組に出演することになったのは、「東京ヴォードビルショー」団員である[山口良一](../Page/山口良一.md "wikilink")が[フジテレビ系](../Page/フジニュースネットワーク.md "wikilink")「[欽ドン](https://ja.wikipedia.org/wiki/欽ドン "wikilink")」のレギュラー出演者に抜擢され、座長として御礼挨拶をしに萩本のもとに出向いた際の佐藤のしぐさなどが萩本に気に入られ、TBSで始める新番組で起用したいと声が掛かった\[6\]。
   - 本名の「としお」は父親が「砂糖と塩」とかけた洒落で命名したという。芸名の「B作」は、当時[ノーベル平和賞](../Page/ノーベル平和賞.md "wikilink")を受賞した[佐藤栄作](../Page/佐藤栄作.md "wikilink")元首相にちなんで\[7\]（A作に対抗してB作とした）。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")にアフリカの[ガンビア共和国](https://ja.wikipedia.org/wiki/ガンビア共和国 "wikilink")からノーベル平和賞の受賞者として佐藤栄作の[切手](../Page/切手.md "wikilink")が発行されたが、誤って「Bisaku Sato」と表記されていた\[8\]。アルファベットのEとBが似ているのが原因とみられ、2004年12月8日放送のフジテレビ「[トリビアの泉 〜素晴らしきムダ知識〜](../Page/トリビアの泉_〜素晴らしきムダ知識〜.md "wikilink")」で紹介された際に、番組スタッフが本人にこの事実を伝えたところ、「間違いでも気分はいいですね」と話していた\[9\]。
   - 三度結婚しており、一人目の妻とは離婚、銀平の母親で[医師](../Page/医師.md "wikilink")だった二人目の妻とは1998年に沖縄でのダイビング中に不慮の事故で死別している。2001年に現在の妻であるあめくと再婚した\[10\]\[11\]。
-  - 以前は三木まうす（現:[佐渡稔](https://ja.wikipedia.org/wiki/佐渡稔 "wikilink")）と漫才コンビを組んで活動。**佐藤B作とジミーハーディー**（地味そうだが派手の意味）というバンドを組んでいたこともあった。
+  - 以前は三木まうす（現:[佐渡稔](../Page/佐渡稔.md "wikilink")）と漫才コンビを組んで活動。**佐藤B作とジミーハーディー**（地味そうだが派手の意味）というバンドを組んでいたこともあった。
   - [島田紳助](../Page/島田紳助.md "wikilink")とは友人で、紳助の冠番組にも度々登場した。その中で、佐藤の女性関係が非常に乱れていた時期があり、妻に「浮気相手のところに一週間だけ家出させてくれ」と頼んだことや、その他のエピソードを紳助がネタにすることもあった。[角野卓造](../Page/角野卓造.md "wikilink")は大学時代からの演劇仲間で50年来の親友でもある。[笹野高史](../Page/笹野高史.md "wikilink")も40年来の親友で2019年には一緒に[徹子の部屋](https://ja.wikipedia.org/wiki/徹子の部屋 "wikilink")へ出演している。
   - [2007年](../Page/2007年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")に行った[健康診断](../Page/健康診断.md "wikilink")で初期の[胃がんと診断され](../Page/胃癌.md "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月1日](../Page/5月1日.md "wikilink")に[手術](../Page/手術.md "wikilink")を行い[胃](../Page/胃.md "wikilink")の3分の2を摘出、成功し5月中に退院、その後「[渡る世間は鬼ばかり](https://ja.wikipedia.org/wiki/渡る世間は鬼ばかり "wikilink")」などテレビ番組で仕事復帰した\[12\]\[13\]。
   - [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[行列のできる法律相談所](../Page/行列のできる法律相談所.md "wikilink")』に出演した際、共演した[デヴィ夫人に](https://ja.wikipedia.org/wiki/デヴィ・スカルノ "wikilink")「B助さん」と言い間違えられた。
@@ -217,7 +217,7 @@
 
 ### バラエティ
 
-  - [欽ちゃんの週刊欽曜日](https://ja.wikipedia.org/wiki/欽ちゃんの週刊欽曜日 "wikilink")
+  - [欽ちゃんの週刊欽曜日](../Page/欽ちゃんの週刊欽曜日.md "wikilink")
   - [クイズ日本人の質問](../Page/クイズ日本人の質問.md "wikilink") - もの知り博士※[井上順](../Page/井上順.md "wikilink")と交互に出演
   - [おはよう\!こどもショー](../Page/おはよう!こどもショー.md "wikilink")
   - [ムーブ](../Page/ムーブ_\(バラエティー\).md "wikilink")・[テレビ進学塾](../Page/テレビ進学塾.md "wikilink")

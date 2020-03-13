@@ -28,7 +28,7 @@
 
 ## 関連項目
 
-  - [YTSテレビ夕刊](https://ja.wikipedia.org/wiki/YTSテレビ夕刊 "wikilink") - 前番組。
+  - [YTSテレビ夕刊](../Page/YTSテレビ夕刊.md "wikilink") - 前番組。
   - [山形テレビ番組一覧](../Page/山形テレビ番組一覧.md "wikilink")
   - FNNスーパータイム
 

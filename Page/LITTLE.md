@@ -56,7 +56,7 @@
 
   - [I SING, I SAY](https://ja.wikipedia.org/wiki/I_SING,_I_SAY "wikilink") （2004年[7月21日](../Page/7月21日.md "wikilink")）
   - [聖者が街にやってくる](https://ja.wikipedia.org/wiki/聖者が街にやってくる_\(LITTLEの曲\) "wikilink") （2004年[11月24日](../Page/11月24日.md "wikilink")）
-  - はつ恋の 〜What's Going On〜 feat. [トータス松本](../Page/トータス松本.md "wikilink") （[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[5月18日](../Page/5月18日.md "wikilink")）
+  - はつ恋の 〜What's Going On〜 feat. [トータス松本](../Page/トータス松本.md "wikilink") （[2005年](../Page/2005年.md "wikilink")[5月18日](../Page/5月18日.md "wikilink")）
 
 :\# はつ恋の 〜What's Going On〜 feat. トータス松本
 
@@ -185,7 +185,7 @@
 
 :\* ROUTE 16 feat. LITTLE, Kayzabro for [DS455](../Page/DS455.md "wikilink"), GDX, BIG RON
 
-:: 童子-T、アルバム「童夢」に収録（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")）
+:: 童子-T、アルバム「童夢」に収録（[2005年](../Page/2005年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")）
 
 :\* フレテイタイ feat. LITTLE（KICK THE CAN CREW）× [ハナレグミ](../Page/ハナレグミ.md "wikilink")
 
@@ -197,7 +197,7 @@
 
 :\* Have A Nice Day feat. LITTLE
 
-:: [DJ TATSUTA](../Page/DJ_TATSUTA.md "wikilink")、アルバム「DYNAMITE」に収録（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[5月11日](../Page/5月11日.md "wikilink")）
+:: [DJ TATSUTA](../Page/DJ_TATSUTA.md "wikilink")、アルバム「DYNAMITE」に収録（[2005年](../Page/2005年.md "wikilink")[5月11日](../Page/5月11日.md "wikilink")）
 
 :\* ウィークエンド・シャフル feat. [MCU](../Page/MCU_\(ラッパー\).md "wikilink"), [RYO-Z](../Page/RYO-Z.md "wikilink"), [KREVA](../Page/KREVA.md "wikilink"), [CUEZERO](../Page/CUEZERO.md "wikilink"), [CHANNEL](../Page/CHANNEL.md "wikilink"), [KOHEI JAPAN](../Page/KOHEI_JAPAN.md "wikilink"), [SU](https://ja.wikipedia.org/wiki/SU_\(ラッパー\) "wikilink"), LITTLE, [ILMARI](../Page/ILMARI.md "wikilink"), [GAKU-MC](../Page/GAKU-MC.md "wikilink"), [SONOMI](../Page/SONOMI_\(歌手\).md "wikilink"), [PES](../Page/PES.md "wikilink"), [KIN](../Page/KIN.md "wikilink"), [童子-T](../Page/童子-T.md "wikilink")
 

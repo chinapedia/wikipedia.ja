@@ -1,7 +1,7 @@
 > この記事は[THC!!](https://ja.wikipedia.org/wiki/THC!!)から翻訳されています。
 
 
-**THC\!\!**（ティー・エイチ・シー）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に[メジャーデビューを果たした](https://ja.wikipedia.org/wiki/レコード会社#メジャーとインディーズ "wikilink")6人組の[ミクスチャー](../Page/ミクスチャー・ロック.md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。所属レコード会社は[BMGジャパン](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。[神輿ロッカーズ](https://ja.wikipedia.org/wiki/神輿ロッカーズ "wikilink")の一員。
+**THC\!\!**（ティー・エイチ・シー）は、[2005年](../Page/2005年.md "wikilink")に[メジャーデビューを果たした](https://ja.wikipedia.org/wiki/レコード会社#メジャーとインディーズ "wikilink")6人組の[ミクスチャー](../Page/ミクスチャー・ロック.md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。所属レコード会社は[BMGジャパン](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。[神輿ロッカーズ](https://ja.wikipedia.org/wiki/神輿ロッカーズ "wikilink")の一員。
 
 グループ名の「THC\!\!」は、「TEENS HATE CHAINS\!\!」＝「若者は束縛を嫌う\!\!」の略。
 
@@ -9,7 +9,7 @@
 
 クラブで活動していたKAI、KANA、Ritz、GOからなるTEENS HATE CHAINSと、T.K.N.（鉄拳）のIZU、K-69、Mackが出会い結成。本拠地は[湘南](../Page/湘南.md "wikilink")で、ジャンルは[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")、[ヒップホップ](../Page/ヒップホップ.md "wikilink")、[メロディック・ハードコア](../Page/メロディック・ハードコア.md "wikilink")、[ラウドロック](../Page/ラウドロック.md "wikilink")など多岐にわたり、メンバーは『[闇鍋](https://ja.wikipedia.org/wiki/闇鍋 "wikilink")のようなもの』と自負する。
 
-2003年に、アルバム「TEENS HATE CHAINS\!\!」で[インディーズ](../Page/インディーズ.md "wikilink")でリリースし、[2004年](../Page/2004年.md "wikilink")には[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")ソフト、「[大合奏\!バンドブラザーズ](../Page/大合奏!バンドブラザーズ.md "wikilink")」の[CMにメンバー全員で出演](../Page/コマーシャルメッセージ.md "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")初頭に「雪」でメジャーデビューを果たした。2008年、Ritzが脱退。2010年、公式HPを閉鎖し、活動を休止した。
+2003年に、アルバム「TEENS HATE CHAINS\!\!」で[インディーズ](../Page/インディーズ.md "wikilink")でリリースし、[2004年](../Page/2004年.md "wikilink")には[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")ソフト、「[大合奏\!バンドブラザーズ](../Page/大合奏!バンドブラザーズ.md "wikilink")」の[CMにメンバー全員で出演](../Page/コマーシャルメッセージ.md "wikilink")。[2005年](../Page/2005年.md "wikilink")初頭に「雪」でメジャーデビューを果たした。2008年、Ritzが脱退。2010年、公式HPを閉鎖し、活動を休止した。
 
 ## メンバー
 

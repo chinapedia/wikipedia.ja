@@ -1,7 +1,7 @@
 > この記事は[SHOW](https://ja.wikipedia.org/wiki/SHOW)から翻訳されています。
 
 
-『**上海ルーキーSHOW**』（シャンハイルーキーショー）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月14日](../Page/4月14日.md "wikilink")から同年[9月22日](../Page/9月22日.md "wikilink")まで[フジテレビで放送されていた](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。放送時間は毎週[水曜](../Page/水曜日.md "wikilink") 24時35分 - 24時58分（[日本標準時](../Page/日本標準時.md "wikilink")、[木曜](../Page/木曜日.md "wikilink") 0時35分 - 0時58分）。
+『**上海ルーキーSHOW**』（シャンハイルーキーショー）は、[2005年](../Page/2005年.md "wikilink")[4月14日](../Page/4月14日.md "wikilink")から同年[9月22日](../Page/9月22日.md "wikilink")まで[フジテレビで放送されていた](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。放送時間は毎週[水曜](../Page/水曜日.md "wikilink") 24時35分 - 24時58分（[日本標準時](../Page/日本標準時.md "wikilink")、[木曜](../Page/木曜日.md "wikilink") 0時35分 - 0時58分）。
 
 ## 概要
 
@@ -14,7 +14,7 @@
   - [大竹しのぶ](https://ja.wikipedia.org/wiki/大竹しのぶ "wikilink")
   - [久本雅美](../Page/久本雅美.md "wikilink")
   - ゲスト2組
-  - [坂見誠二](https://ja.wikipedia.org/wiki/坂見誠二 "wikilink")
+  - [坂見誠二](../Page/坂見誠二.md "wikilink")
   - [柳宗明](https://ja.wikipedia.org/wiki/柳宗明 "wikilink")
 
 ## ナレーター
@@ -23,7 +23,7 @@
 
 ## スタッフ
 
-  - 企画：[吉田正樹](https://ja.wikipedia.org/wiki/吉田正樹 "wikilink")
+  - 企画：[吉田正樹](../Page/吉田正樹.md "wikilink")
   - 構成：海老克哉、勝栄
   - ブレーン：[倉本美津留](../Page/倉本美津留.md "wikilink")
   - 振り付け：三浦享
@@ -55,7 +55,7 @@
   - 編成：中野利幸
   - 広報：稲葉匡信
   - ディレクター：藤沼聡、印田弘幸、渡辺勝昭
-  - 演出：深瀬雄介、[小松純也](https://ja.wikipedia.org/wiki/小松純也 "wikilink")
+  - 演出：深瀬雄介、[小松純也](../Page/小松純也.md "wikilink")
   - プロデューサー：[坪田譲治](../Page/坪田譲治_\(フジテレビ\).md "wikilink")、[高橋正秀](../Page/高橋正秀.md "wikilink")、朝倉千代子
   - 音楽制作協力：Halftone Music
   - 技術協力：[ニユーテレス](../Page/ニユーテレス.md "wikilink")、[FLT](../Page/フジライティング・アンド・テクノロジイ.md "wikilink")、[IMAGICA](https://ja.wikipedia.org/wiki/IMAGICA "wikilink")

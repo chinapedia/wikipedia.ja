@@ -5,9 +5,9 @@
 
 ## 概要
 
-当大会は[アジア](https://ja.wikipedia.org/wiki/アジア "wikilink")地域の大陸選手権大会として1956年に創設された。世界に6大会ある各大陸サッカー連盟の選手権では、[1916年](../Page/1916年.md "wikilink")に始まった[南米選手権（コパ・アメリカ）に次いで](../Page/コパ・アメリカ.md "wikilink")2番目に古い\[1\]。
+当大会は[アジア](../Page/アジア.md "wikilink")地域の大陸選手権大会として1956年に創設された。世界に6大会ある各大陸サッカー連盟の選手権では、[1916年](../Page/1916年.md "wikilink")に始まった[南米選手権（コパ・アメリカ）に次いで](../Page/コパ・アメリカ.md "wikilink")2番目に古い\[1\]。
 
-日本で認知されたのは[広島で開催された](../Page/広島県.md "wikilink")1992年の[AFCアジアカップ1992](https://ja.wikipedia.org/wiki/AFCアジアカップ1992 "wikilink")以降で\[2\]\[3\]、[Jリーグがスタートする直前に](../Page/日本プロサッカーリーグ.md "wikilink")[日本が初優勝して](../Page/サッカー日本代表.md "wikilink")、日本代表がマスメディアから注目されるきっかけになった\[4\]\[5\]。グループリーグ突破を決めた[イラン戦終了間際の](../Page/サッカーイラン代表.md "wikilink")[三浦知良](../Page/三浦知良.md "wikilink")のゴールは、試合後のカズの名言「魂込めました、足に」と共に有名である\[6\]\[7\]。
+日本で認知されたのは[広島で開催された](../Page/広島県.md "wikilink")1992年の[AFCアジアカップ1992](../Page/AFCアジアカップ1992.md "wikilink")以降で\[2\]\[3\]、[Jリーグがスタートする直前に](../Page/日本プロサッカーリーグ.md "wikilink")[日本が初優勝して](../Page/サッカー日本代表.md "wikilink")、日本代表がマスメディアから注目されるきっかけになった\[4\]\[5\]。グループリーグ突破を決めた[イラン戦終了間際の](../Page/サッカーイラン代表.md "wikilink")[三浦知良](../Page/三浦知良.md "wikilink")のゴールは、試合後のカズの名言「魂込めました、足に」と共に有名である\[6\]\[7\]。
 
 [2006年](../Page/2006年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")に[オーストラリアサッカー連盟](https://ja.wikipedia.org/wiki/オーストラリアサッカー連盟 "wikilink")が[オセアニアサッカー連盟](../Page/オセアニアサッカー連盟.md "wikilink")（OFC）を脱退し[アジアサッカー連盟](../Page/アジアサッカー連盟.md "wikilink")（AFC）に加盟したことで、[オーストラリア代表もAFCアジアカップならびにその予選に出場するようになった](https://ja.wikipedia.org/wiki/サッカーオーストラリア代表 "wikilink")（2006年2月から始まる[2007年大会の](../Page/AFCアジアカップ2007.md "wikilink")[予選より出場した](../Page/AFCアジアカップ2007_\(予選\).md "wikilink")）。
 
@@ -187,7 +187,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/AFCアジアカップ1992" title="wikilink">10</a></p></td>
+<td><p><a href="../Page/AFCアジアカップ1992.md" title="wikilink">10</a></p></td>
 <td><p><a href="../Page/1992年.md" title="wikilink">1992年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
@@ -1083,7 +1083,7 @@
 <td><p>グループステージ</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/AFCアジアカップ1992" title="wikilink">1992</a></p></td>
+<td><p><a href="../Page/AFCアジアカップ1992.md" title="wikilink">1992</a></p></td>
 <td></td>
 <td><p><strong>優勝</strong></p></td>
 </tr>
@@ -1197,7 +1197,7 @@
 <td><p><strong>優勝</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/AFCアジアカップ1992" title="wikilink">1992</a></p></td>
+<td><p><a href="../Page/AFCアジアカップ1992.md" title="wikilink">1992</a></p></td>
 <td></td>
 <td><p><strong>準優勝</strong></p></td>
 </tr>
@@ -1340,7 +1340,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/崔淳鎬" title="wikilink">崔淳鎬</a></p></td>
+<td><p><a href="../Page/崔淳鎬.md" title="wikilink">崔淳鎬</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1415,7 +1415,7 @@
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/崔淳鎬" title="wikilink">崔淳鎬</a></p></td>
+<td><p><a href="../Page/崔淳鎬.md" title="wikilink">崔淳鎬</a></p></td>
 <td><p>3</p></td>
 <td><p>26', 53', 78'(<a href="../Page/ペナルティーキック.md" title="wikilink">P</a>)</p></td>
 <td></td>
@@ -1701,7 +1701,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/AFCアジアカップ1992" title="wikilink">1992</a></p></td>
+<td><p><a href="../Page/AFCアジアカップ1992.md" title="wikilink">1992</a></p></td>
 <td><p><a href="../Page/ハンス・オフト.md" title="wikilink">ハンス・オフト</a></p></td>
 <td></td>
 </tr>
@@ -1844,7 +1844,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/AFCアジアカップ1992" title="wikilink">1992</a></p></td>
+<td><p><a href="../Page/AFCアジアカップ1992.md" title="wikilink">1992</a></p></td>
 <td></td>
 <td><p>16</p></td>
 <td><p>31</p></td>
@@ -1992,7 +1992,7 @@
 <td><p><a href="../Page/AFCアジアカップ1980.md" title="wikilink">1980</a></p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ベフターシュ・ファリーバー" title="wikilink">ベフターシュ・ファリーバー</a><br />
- <a href="https://ja.wikipedia.org/wiki/崔淳鎬" title="wikilink">崔淳鎬</a></p></td>
+ <a href="../Page/崔淳鎬.md" title="wikilink">崔淳鎬</a></p></td>
 <td><p>7</p></td>
 <td></td>
 <td></td>
@@ -2016,7 +2016,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/AFCアジアカップ1992" title="wikilink">1992</a></p></td>
+<td><p><a href="../Page/AFCアジアカップ1992.md" title="wikilink">1992</a></p></td>
 <td><p><a href="../Page/三浦知良.md" title="wikilink">三浦知良</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファハド・アル＝フライフィー・アル＝ビースィー" title="wikilink">ファハド・アル＝ビースィー</a></p></td>
 <td><p>3</p></td>

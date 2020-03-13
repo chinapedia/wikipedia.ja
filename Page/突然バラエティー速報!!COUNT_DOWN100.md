@@ -25,10 +25,10 @@
   - [Mi-Ke](../Page/Mi-Ke.md "wikilink")（[宇徳敬子](https://ja.wikipedia.org/wiki/宇徳敬子 "wikilink")、[村上遙](../Page/村上遙.md "wikilink")、[渡辺真美](../Page/渡辺真美.md "wikilink")）
   - [井上麻美](https://ja.wikipedia.org/wiki/井上麻美_\(Clik\) "wikilink")
   - [加藤紀子](https://ja.wikipedia.org/wiki/加藤紀子 "wikilink")
-  - [胡桃沢ひろこ](https://ja.wikipedia.org/wiki/胡桃沢ひろこ "wikilink")
+  - [胡桃沢ひろこ](../Page/胡桃沢ひろこ.md "wikilink")
   - [高橋由美子](https://ja.wikipedia.org/wiki/高橋由美子 "wikilink")
   - [寺尾友美](../Page/寺尾友美.md "wikilink")
-  - [遠野舞子](https://ja.wikipedia.org/wiki/遠野舞子 "wikilink")
+  - [遠野舞子](../Page/遠野舞子.md "wikilink")
   - [中嶋美智代](https://ja.wikipedia.org/wiki/中嶋美智代 "wikilink")
   - 中條かな子（後の[緒方かな子](../Page/緒方かな子.md "wikilink")）
   - [花島優子](../Page/花島優子.md "wikilink")
@@ -61,7 +61,7 @@
   - VE：豊中俊榮、大口修
   - 照明：笠原義博
   - 音声：立花成樹
-  - 音響：三澤恵美子、芹澤夕美子（[サウンズアート](https://ja.wikipedia.org/wiki/サウンズアート "wikilink")）
+  - 音響：三澤恵美子、芹澤夕美子（[サウンズアート](../Page/サウンズアート.md "wikilink")）
   - 美術プロデューサー：[山田満郎](https://ja.wikipedia.org/wiki/山田満郎 "wikilink")
   - 美術デザイナー：相野道生、青木ゆかり、金子俊彦
   - 美術製作：鈴木浩二

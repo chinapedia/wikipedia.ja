@@ -57,9 +57,9 @@ MiG-23Sの戦闘爆撃機化は、まず[エンジン](../Page/エンジン.md "
 
   - [アルジェリア](https://ja.wikipedia.org/wiki/アルジェリア空軍 "wikilink")
 
-  - [シリア](https://ja.wikipedia.org/wiki/シリア空軍 "wikilink")
+  - [シリア](../Page/シリア空軍.md "wikilink")
 
-  - [イラク](https://ja.wikipedia.org/wiki/イラク空軍 "wikilink")
+  - [イラク](../Page/イラク空軍.md "wikilink")
 
   - [リビア](https://ja.wikipedia.org/wiki/リビア空軍 "wikilink")
 
@@ -75,7 +75,7 @@ MiG-23Sの戦闘爆撃機化は、まず[エンジン](../Page/エンジン.md "
 
 [MiG-27.svg](https://ja.wikipedia.org/wiki/File:MiG-27.svg "fig:MiG-27.svg")
 
-  - 初飛行：[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")
+  - 初飛行：[1970年](../Page/1970年.md "wikilink")
   - 全幅
       - 後退角72°：7.78 m
       - 後退角16°：13.97 m

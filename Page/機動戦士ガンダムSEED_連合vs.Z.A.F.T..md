@@ -5,9 +5,9 @@
 
 ## 概要
 
-「[機動戦士ガンダム vs.シリーズ](../Page/機動戦士ガンダム_vs.シリーズ.md "wikilink")」の[アーケード版第](../Page/アーケードゲーム.md "wikilink")5作。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")7月中旬に稼動を開始した。これまでの同シリーズは『[機動戦士ガンダム](../Page/機動戦士ガンダム.md "wikilink")』における[宇宙世紀](../Page/宇宙世紀.md "wikilink")世界を舞台にしていたが、今作では『[機動戦士ガンダムSEED](../Page/機動戦士ガンダムSEED.md "wikilink")』の世界観（[コズミック・イラ](../Page/コズミック・イラ.md "wikilink")）を舞台にしている。
+「[機動戦士ガンダム vs.シリーズ](../Page/機動戦士ガンダム_vs.シリーズ.md "wikilink")」の[アーケード版第](../Page/アーケードゲーム.md "wikilink")5作。[2005年](../Page/2005年.md "wikilink")7月中旬に稼動を開始した。これまでの同シリーズは『[機動戦士ガンダム](../Page/機動戦士ガンダム.md "wikilink")』における[宇宙世紀](../Page/宇宙世紀.md "wikilink")世界を舞台にしていたが、今作では『[機動戦士ガンダムSEED](../Page/機動戦士ガンダムSEED.md "wikilink")』の世界観（[コズミック・イラ](../Page/コズミック・イラ.md "wikilink")）を舞台にしている。
 
-また、過去のゲームシステムを踏襲しつつも、カプコンが2003年に発売した[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")用ゲーム『[ガチャフォース](https://ja.wikipedia.org/wiki/ガチャフォース "wikilink")』のシステムを新たに取り入れているため、過去の戦法の中には今作ではそのまま使えないものも存在する。
+また、過去のゲームシステムを踏襲しつつも、カプコンが2003年に発売した[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")用ゲーム『[ガチャフォース](../Page/ガチャフォース.md "wikilink")』のシステムを新たに取り入れているため、過去の戦法の中には今作ではそのまま使えないものも存在する。
 
 2005年11月17日に[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")（以下、PS2）への移植版が発売されたが、AC版と異なり4人対戦は不可能であった。[2007年](../Page/2007年.md "wikilink")4月5日に、ミッションモードと4人対戦を追加した『**機動戦士ガンダムSEED 連合vs.Z.A.F.T. PORTABLE**』が[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")（以下、PSP）で発売された。
 

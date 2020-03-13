@@ -9,7 +9,7 @@
 
 ## 沿革
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月20日](../Page/10月20日.md "wikilink") - オープン。
+  - [2005年](../Page/2005年.md "wikilink")[10月20日](../Page/10月20日.md "wikilink") - オープン。
   - [2011年](../Page/2011年.md "wikilink")[4月29日](../Page/4月29日.md "wikilink") - NU茶屋町の向かい側に[NU茶屋町プラス](https://ja.wikipedia.org/wiki/NU茶屋町プラス "wikilink")がオープン。
 
 ## 主なテナント

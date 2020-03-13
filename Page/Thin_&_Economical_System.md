@@ -40,12 +40,12 @@
 <!-- end list -->
 
   -
-    現在、貯湯ユニットを[ノーリツ](../Page/ノーリツ.md "wikilink")と[長府が作っており](https://ja.wikipedia.org/wiki/長府製作所 "wikilink")、発電ユニットは[HONDAのガスエンジンが採用されている](../Page/本田技研工業.md "wikilink")。
+    現在、貯湯ユニットを[ノーリツ](../Page/ノーリツ.md "wikilink")と[長府が作っており](../Page/長府製作所.md "wikilink")、発電ユニットは[HONDAのガスエンジンが採用されている](../Page/本田技研工業.md "wikilink")。
 
 ### 燃料電池『[エネファーム](../Page/エネファーム.md "wikilink")』
 
   - [パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")が開発した、天然ガス(都市ガス13A)での家庭用燃料電池（発売当初の商品名は「ライフエル（LIFUEL）」）。エコウィルと同様で、熱源機の機能も持つ。
-      - 東京ガスや[東邦ガス](../Page/東邦ガス.md "wikilink")などにはパナソニックから、また大阪ガスなどには[東芝燃料電池システム](../Page/東芝燃料電池システム.md "wikilink")や[ENEOS](../Page/ENEOS.md "wikilink")セルテックから製品供給を受けている（いずれも[長府製作所](https://ja.wikipedia.org/wiki/長府製作所 "wikilink")からの[OEM](../Page/OEM.md "wikilink")供給）。
+      - 東京ガスや[東邦ガス](../Page/東邦ガス.md "wikilink")などにはパナソニックから、また大阪ガスなどには[東芝燃料電池システム](../Page/東芝燃料電池システム.md "wikilink")や[ENEOS](../Page/ENEOS.md "wikilink")セルテックから製品供給を受けている（いずれも[長府製作所](../Page/長府製作所.md "wikilink")からの[OEM](../Page/OEM.md "wikilink")供給）。
 
 ## 暖房端末
 
@@ -81,7 +81,7 @@
 
 ### ミストサウナ
 
-近年普及が始まった物で、ミスト（霧）による[サウナ](../Page/サウナ.md "wikilink")である。ミストの作り方、加熱の仕方は各メーカーで各種方式があり、[ノーリツ](../Page/ノーリツ.md "wikilink")・[リンナイ](../Page/リンナイ.md "wikilink")・[パナソニック電工](../Page/パナソニック電工.md "wikilink")・[ヤマハ](../Page/ヤマハ.md "wikilink")などで販売されている。ノーリツや[長府製作所](https://ja.wikipedia.org/wiki/長府製作所 "wikilink")のミスト単体製品においては給湯管より温水を調達する。浴室暖房乾燥機の内蔵タイプにも同じように給湯管からミスト用の温水を調達するものがある。
+近年普及が始まった物で、ミスト（霧）による[サウナ](../Page/サウナ.md "wikilink")である。ミストの作り方、加熱の仕方は各メーカーで各種方式があり、[ノーリツ](../Page/ノーリツ.md "wikilink")・[リンナイ](../Page/リンナイ.md "wikilink")・[パナソニック電工](../Page/パナソニック電工.md "wikilink")・[ヤマハ](../Page/ヤマハ.md "wikilink")などで販売されている。ノーリツや[長府製作所](../Page/長府製作所.md "wikilink")のミスト単体製品においては給湯管より温水を調達する。浴室暖房乾燥機の内蔵タイプにも同じように給湯管からミスト用の温水を調達するものがある。
 
 ### TESエアコン
 

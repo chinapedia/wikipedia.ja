@@ -7,7 +7,7 @@
 
 [第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中に開発が始まり、[戦後](../Page/戦後.md "wikilink")になってから戦力化された[センチュリオンは改良を受けつつ高い能力を維持したが](../Page/センチュリオン_\(戦車\).md "wikilink")、[1950年代](../Page/1950年代.md "wikilink")の初頭から後継車の研究が行われるようになった。
 
-[イギリス陸軍](../Page/イギリス陸軍.md "wikilink")は世界の戦車開発の情勢から、火力と防御力を重視する案と、火力と機動力を重視する案の二つの新戦車[ドクトリン](https://ja.wikipedia.org/wiki/ドクトリン "wikilink")を策定した。後者の機動力を重視する案は、同時期に開発が始まった[西ドイツ](../Page/西ドイツ.md "wikilink")の[レオパルト1](https://ja.wikipedia.org/wiki/レオパルト1 "wikilink")や[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[AMX-30と同じ設計思想で](https://ja.wikipedia.org/wiki/AMX-30_\(戦車\) "wikilink")、[対戦車ミサイル](../Page/対戦車ミサイル.md "wikilink")や[歩兵](../Page/歩兵.md "wikilink")の携帯[対戦車兵器](../Page/対戦車兵器.md "wikilink")の発達により装甲防御力は無意味になるので、機動力によりそれらからの攻撃を回避する、というものであった。
+[イギリス陸軍](../Page/イギリス陸軍.md "wikilink")は世界の戦車開発の情勢から、火力と防御力を重視する案と、火力と機動力を重視する案の二つの新戦車[ドクトリン](https://ja.wikipedia.org/wiki/ドクトリン "wikilink")を策定した。後者の機動力を重視する案は、同時期に開発が始まった[西ドイツ](../Page/西ドイツ.md "wikilink")の[レオパルト1](../Page/レオパルト1.md "wikilink")や[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[AMX-30と同じ設計思想で](https://ja.wikipedia.org/wiki/AMX-30_\(戦車\) "wikilink")、[対戦車ミサイル](../Page/対戦車ミサイル.md "wikilink")や[歩兵](../Page/歩兵.md "wikilink")の携帯[対戦車兵器](../Page/対戦車兵器.md "wikilink")の発達により装甲防御力は無意味になるので、機動力によりそれらからの攻撃を回避する、というものであった。
 
 しかし、イギリス陸軍はこの思想では乗員を保護出来ないとして防御力を重視する案を採り、これによって開発されたのが[チーフテンである](../Page/チーフテン_\(戦車\).md "wikilink")。レイランド社に開発させていたチーフテンは強力な120mmライフル砲と重装甲を備えイギリス陸軍のMBTとなることが内定していた。これに対し、ビッカース社はレイランド社と協力して機動力を重視した戦車の開発を開始した。
 

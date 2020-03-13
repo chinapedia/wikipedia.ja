@@ -30,7 +30,7 @@
   - ライカ
     声 - [結城比呂](../Page/優希比呂.md "wikilink")
       - サーチマン
-        声 - [福山潤](https://ja.wikipedia.org/wiki/福山潤 "wikilink")
+        声 - [福山潤](../Page/福山潤.md "wikilink")
   - ディンゴ
     声 - [山口眞弓](../Page/山口眞弓.md "wikilink")
       - トマホークマン

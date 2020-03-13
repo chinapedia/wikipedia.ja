@@ -5,7 +5,7 @@
 
 ## 概要
 
-ハードウェア・シーケンサー[QYシリーズに呼応して](../Page/ヤマハ・QYシリーズ.md "wikilink")、型番を従来の[RXシリーズから](https://ja.wikipedia.org/wiki/ヤマハ・RXシリーズ "wikilink")、**RY**と型番を変えたと思われる。以下の機種が発売された。本項目ではRY30の1Uラック[音源モジュール](../Page/音源モジュール.md "wikilink")版であるRM50も取り扱う。
+ハードウェア・シーケンサー[QYシリーズに呼応して](../Page/ヤマハ・QYシリーズ.md "wikilink")、型番を従来の[RXシリーズから](../Page/ヤマハ・RXシリーズ.md "wikilink")、**RY**と型番を変えたと思われる。以下の機種が発売された。本項目ではRY30の1Uラック[音源モジュール](../Page/音源モジュール.md "wikilink")版であるRM50も取り扱う。
 
 RY30、RY20はRXシリーズの流れを汲むリズムマシンとして、MIDIデータのリズムパートを担当する目的で作成されたのに対し、RY10、RY8、RY9はギタリストのメトロノームとして使うためのリズムマシンとして作成されている。90年代初期は[PCMデータを格納するWAVE](../Page/PCM音源.md "wikilink") ROMの容量が少なかったため、そして最大同時発音数が16や24と少なかったため、手弾きの[シンセサイザー](../Page/シンセサイザー.md "wikilink")とリズムパート用と別に音源を用意しなければならなかったが、90年代中頃からWAVE ROMの容量が飛躍的に増加したことや、最大同時発音数が32や64と増えていったこと、そして[DTMの普及によって](../Page/デスクトップミュージック.md "wikilink")1台完結が定着したことなどにより、リズム専用機が必ずしも必要ではなくなっていた。リズムパートの担当から外れていったことが、ギタリスト用のメトロノームという位置づけになっていったものと思われる。しかし、[2000年](../Page/2000年.md "wikilink")（[平成](../Page/平成.md "wikilink")12年）に発売された[QY100もギタリストをユーザとして考慮しているため](../Page/ヤマハ・QYシリーズ.md "wikilink")、このRYシリーズはQYシリーズに収束していった。
 
@@ -43,7 +43,7 @@ RY30、RY20はRXシリーズの流れを汲むリズムマシンとして、MIDI
 
   - [ドラムマシン](../Page/ドラムマシン.md "wikilink")
   - [MIDI](../Page/MIDI.md "wikilink")
-  - [ヤマハ・RXシリーズ](https://ja.wikipedia.org/wiki/ヤマハ・RXシリーズ "wikilink")
+  - [ヤマハ・RXシリーズ](../Page/ヤマハ・RXシリーズ.md "wikilink")
   - [ヤマハ・QYシリーズ](../Page/ヤマハ・QYシリーズ.md "wikilink")
 
 [Category:電子楽器](https://ja.wikipedia.org/wiki/Category:電子楽器 "wikilink") [Category:ヤマハの製品](https://ja.wikipedia.org/wiki/Category:ヤマハの製品 "wikilink")

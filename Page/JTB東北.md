@@ -7,7 +7,7 @@
 
 [1981年](../Page/1981年.md "wikilink")3月9日に株式会社ほのぼの旅行として設立。[1989年](../Page/1989年.md "wikilink")に株式会社ジェイティービー旅行サービスに商号変更。さらに翌年、株式会社ジェイティービー東北に商号変更した。
 
-[2006年](../Page/2006年.md "wikilink")にJTBが機能別および地域別事業会社を設立し、[純粋持株会社](https://ja.wikipedia.org/wiki/純粋持株会社 "wikilink")化するにあたって、その先陣を切り、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")4月1日にJTBから東北地区7支店の営業を譲り受け、同時に商号を株式会社JTB東北に変更し発足した\[1\]。それまでは、[盛岡市](https://ja.wikipedia.org/wiki/盛岡市 "wikilink")を除いて[県庁所在地など中核都市には店舗を設置していなかったが](../Page/都道府県庁所在地.md "wikilink")、店舗を譲り受けたことから、各県庁所在地と[郡山市](https://ja.wikipedia.org/wiki/郡山市 "wikilink")に店舗を構えることとなった。
+[2006年](../Page/2006年.md "wikilink")にJTBが機能別および地域別事業会社を設立し、[純粋持株会社](https://ja.wikipedia.org/wiki/純粋持株会社 "wikilink")化するにあたって、その先陣を切り、[2005年](../Page/2005年.md "wikilink")4月1日にJTBから東北地区7支店の営業を譲り受け、同時に商号を株式会社JTB東北に変更し発足した\[1\]。それまでは、[盛岡市](https://ja.wikipedia.org/wiki/盛岡市 "wikilink")を除いて[県庁所在地など中核都市には店舗を設置していなかったが](../Page/都道府県庁所在地.md "wikilink")、店舗を譲り受けたことから、各県庁所在地と[郡山市](https://ja.wikipedia.org/wiki/郡山市 "wikilink")に店舗を構えることとなった。
 
 [2009年](../Page/2009年.md "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")にJTBが需要の低下や店頭販売の落ち込みなどを理由として、国内の約200店舗の閉鎖を発表した。その際、JTB東北では[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")2月に10店舗を閉鎖した。このうち、一部の店舗は提携会社が継承した。また[2011年](../Page/2011年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")付で、東北6県に所在するJTBトラベランドの店舗全てを譲り受けた\[2\]。
 
@@ -19,7 +19,7 @@
   - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年） - [一般労働者派遣事業登録](../Page/労働者派遣事業.md "wikilink")。
   - [1989年](../Page/1989年.md "wikilink")（[平成](../Page/平成.md "wikilink")元年） - **株式会社ジェイティービー旅行サービス**に商号変更。
   - [2000年](../Page/2000年.md "wikilink")（平成12年） - **株式会社ジェイティービー東北**に商号変更。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）4月1日 - 株式会社ジェイティービーから7支店を営業譲り受ける。**株式会社JTB東北**に商号変更。
+  - [2005年](../Page/2005年.md "wikilink")（平成17年）4月1日 - 株式会社ジェイティービーから7支店を営業譲り受ける。**株式会社JTB東北**に商号変更。
   - [2006年](../Page/2006年.md "wikilink")（平成18年）
       - 2月13日 - 本社を仙台MTビルから明治安田生命仙台一番町ビル3Fに移転。
       - 4月1日 - 奥州営業所（後の奥州支店）を開設。

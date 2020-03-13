@@ -42,7 +42,7 @@
 <!-- end list -->
 
   -
-    1986年、GASTUNKに加入。名前の由来は「PUNK+JAZZ=PAZZ」と加入当時の雑誌インタビューで語っている（学生時代はJAZZドラマーをやっていた）。解散以前の作品では"PAZZ"とクレジットされなかった事もあった（"Shigeru Kobayashi"等）。現在は大村（ex.SUNKING）と[I love you... OK?というバンドで活動中](https://ja.wikipedia.org/wiki/I_love_you..._OK? "wikilink")。また、[明治通り沿いにある](../Page/明治通り_\(東京都\).md "wikilink")[長浜ラーメン](https://ja.wikipedia.org/wiki/長浜ラーメン "wikilink")屋「御天」で働いていた時期があり、[なんでんかんでんの](../Page/なんでんかんでんフーズ.md "wikilink")[川原ひろし](https://ja.wikipedia.org/wiki/川原ひろし "wikilink")とは博多時代に同じ店舗で修行していたというが、川原社長は一度もラーメン店では働いたことはない。\[4\]。2009年に独立して自身のラーメン店を[浅草橋](../Page/浅草橋.md "wikilink")付近にオープンさせているが、2011年8月には店舗を脱退している模様\[5\]。
+    1986年、GASTUNKに加入。名前の由来は「PUNK+JAZZ=PAZZ」と加入当時の雑誌インタビューで語っている（学生時代はJAZZドラマーをやっていた）。解散以前の作品では"PAZZ"とクレジットされなかった事もあった（"Shigeru Kobayashi"等）。現在は大村（ex.SUNKING）と[I love you... OK?というバンドで活動中](https://ja.wikipedia.org/wiki/I_love_you..._OK? "wikilink")。また、[明治通り沿いにある](../Page/明治通り_\(東京都\).md "wikilink")[長浜ラーメン](https://ja.wikipedia.org/wiki/長浜ラーメン "wikilink")屋「御天」で働いていた時期があり、[なんでんかんでんの](../Page/なんでんかんでんフーズ.md "wikilink")[川原ひろし](../Page/川原ひろし.md "wikilink")とは博多時代に同じ店舗で修行していたというが、川原社長は一度もラーメン店では働いたことはない。\[4\]。2009年に独立して自身のラーメン店を[浅草橋](../Page/浅草橋.md "wikilink")付近にオープンさせているが、2011年8月には店舗を脱退している模様\[5\]。
 
 ### 過去に在籍していたメンバー
 

@@ -62,7 +62,7 @@
 
 <!-- end list -->
 
-  - **[WWFインターコンチネンタル王座戦](https://ja.wikipedia.org/wiki/WWE・インターコンチネンタル王座 "wikilink") -WWF Intercontinental Championship-**
+  - **[WWFインターコンチネンタル王座戦](../Page/WWE・インターコンチネンタル王座.md "wikilink") -WWF Intercontinental Championship-**
 
 <!-- end list -->
 
@@ -155,7 +155,7 @@
 
 <!-- end list -->
 
-  - **[WWFインターコンチネンタル王座戦](https://ja.wikipedia.org/wiki/WWE・インターコンチネンタル王座 "wikilink") -WWF Intercontinental Championship-**
+  - **[WWFインターコンチネンタル王座戦](../Page/WWE・インターコンチネンタル王座.md "wikilink") -WWF Intercontinental Championship-**
 
 <!-- end list -->
 
@@ -247,7 +247,7 @@
 
 <!-- end list -->
 
-  - **[WWF王座](https://ja.wikipedia.org/wiki/WWE王座 "wikilink"),[WWFインターコンチネンタル王座](https://ja.wikipedia.org/wiki/WWE・インターコンチネンタル王座 "wikilink")＆[WWFタッグ王座戦](../Page/WWE・世界タッグチーム王座.md "wikilink") -WWF Championship,WWF Intercontinental Championship and WWF Tag Team Championship-**
+  - **[WWF王座](https://ja.wikipedia.org/wiki/WWE王座 "wikilink"),[WWFインターコンチネンタル王座](../Page/WWE・インターコンチネンタル王座.md "wikilink")＆[WWFタッグ王座戦](../Page/WWE・世界タッグチーム王座.md "wikilink") -WWF Championship,WWF Intercontinental Championship and WWF Tag Team Championship-**
 
 <!-- end list -->
 
@@ -269,7 +269,7 @@
 <!-- end list -->
 
   -
-    ○[ビッグ・ショー](https://ja.wikipedia.org/wiki/ポール・ワイト "wikilink") vs [ジャスティン・クレディブル](../Page/ピーター・ポラコ.md "wikilink")＆[スティービー・リチャーズ](https://ja.wikipedia.org/wiki/マイケル・マナ "wikilink")●
+    ○[ビッグ・ショー](https://ja.wikipedia.org/wiki/ポール・ワイト "wikilink") vs [ジャスティン・クレディブル](../Page/ピーター・ポラコ.md "wikilink")＆[スティービー・リチャーズ](../Page/マイケル・マナ.md "wikilink")●
 
 <!-- end list -->
 
@@ -303,7 +303,7 @@
 
 <!-- end list -->
 
-  - **[WWFインターコンチネンタル王座戦](https://ja.wikipedia.org/wiki/WWE・インターコンチネンタル王座 "wikilink") -WWF Intercontinental Championship-**
+  - **[WWFインターコンチネンタル王座戦](../Page/WWE・インターコンチネンタル王座.md "wikilink") -WWF Intercontinental Championship-**
 
 <!-- end list -->
 
@@ -403,7 +403,7 @@
 
 <!-- end list -->
 
-  - ○[ゴールドバーグ](https://ja.wikipedia.org/wiki/ビル・ゴールドバーグ "wikilink") vs [ザ・ロック](https://ja.wikipedia.org/wiki/ザ・ロック_\(プロレスラー\) "wikilink")●
+  - ○[ゴールドバーグ](../Page/ビル・ゴールドバーグ.md "wikilink") vs [ザ・ロック](https://ja.wikipedia.org/wiki/ザ・ロック_\(プロレスラー\) "wikilink")●
 
 ### 第6回大会（2004年）WWE RAW's Backlash 2004
 
@@ -449,7 +449,7 @@
 
 <!-- end list -->
 
-  - **[ハードコア・マッチ形式](https://ja.wikipedia.org/wiki/ハードコアマッチ "wikilink")[WWEインターコンチネンタル王座戦](https://ja.wikipedia.org/wiki/WWE・インターコンチネンタル王座 "wikilink") -Hardcore match for the WWE Intercontinental Championship-**
+  - **[ハードコア・マッチ形式](https://ja.wikipedia.org/wiki/ハードコアマッチ "wikilink")[WWEインターコンチネンタル王座戦](../Page/WWE・インターコンチネンタル王座.md "wikilink") -Hardcore match for the WWE Intercontinental Championship-**
 
 <!-- end list -->
 
@@ -491,7 +491,7 @@
 
 <!-- end list -->
 
-  - **[WWEインターコンチネンタル王座戦](https://ja.wikipedia.org/wiki/WWE・インターコンチネンタル王座 "wikilink") -WWE Intercontinental Championship-**
+  - **[WWEインターコンチネンタル王座戦](../Page/WWE・インターコンチネンタル王座.md "wikilink") -WWE Intercontinental Championship-**
 
 <!-- end list -->
 
@@ -505,7 +505,7 @@
 <!-- end list -->
 
   -
-    ●[タジリ](../Page/TAJIRI.md "wikilink")＆[ウィリアム・リーガル](../Page/ダレン・マシューズ.md "wikilink")(c) vs [ラ・レジスタンス](https://ja.wikipedia.org/wiki/ラ・レジスタンス "wikilink")（[シルヴァン・グラニエ](../Page/シルヴァン・グラニエ.md "wikilink")＆[ロブ・コンウェイ](../Page/ロブ・コンウェイ.md "wikilink")） vs [メイヴェン](../Page/メイヴェン・ハフマン.md "wikilink")＆[サイモン・ディーン](../Page/マイク・ブッチ.md "wikilink") vs [ザ・ハート・スロブス](https://ja.wikipedia.org/wiki/ザ・ハート・スロブス "wikilink")（[ロメオ](https://ja.wikipedia.org/wiki/ジョヴァンニ・ロゼリー "wikilink")＆[アントニオ](https://ja.wikipedia.org/wiki/トム・マテラ "wikilink")） vs [ザ・ハリケーン](../Page/グレゴリー・ヘルムズ.md "wikilink")＆[ロージー](../Page/マット・アノアイ.md "wikilink")○
+    ●[タジリ](../Page/TAJIRI.md "wikilink")＆[ウィリアム・リーガル](../Page/ダレン・マシューズ.md "wikilink")(c) vs [ラ・レジスタンス](https://ja.wikipedia.org/wiki/ラ・レジスタンス "wikilink")（[シルヴァン・グラニエ](../Page/シルヴァン・グラニエ.md "wikilink")＆[ロブ・コンウェイ](../Page/ロブ・コンウェイ.md "wikilink")） vs [メイヴェン](../Page/メイヴェン・ハフマン.md "wikilink")＆[サイモン・ディーン](../Page/マイク・ブッチ.md "wikilink") vs [ザ・ハート・スロブス](https://ja.wikipedia.org/wiki/ザ・ハート・スロブス "wikilink")（[ロメオ](https://ja.wikipedia.org/wiki/ジョヴァンニ・ロゼリー "wikilink")＆[アントニオ](../Page/トム・マテラ.md "wikilink")） vs [ザ・ハリケーン](../Page/グレゴリー・ヘルムズ.md "wikilink")＆[ロージー](../Page/マット・アノアイ.md "wikilink")○
 
 |         |                                   |                 |                  |
 | ------- | --------------------------------- | --------------- | ---------------- |
@@ -575,7 +575,7 @@
 
 <!-- end list -->
 
-  - **[WWEインターコンチネンタル王座戦](https://ja.wikipedia.org/wiki/WWE・インターコンチネンタル王座 "wikilink") -WWE Intercontinental Championship-**
+  - **[WWEインターコンチネンタル王座戦](../Page/WWE・インターコンチネンタル王座.md "wikilink") -WWE Intercontinental Championship-**
 
 <!-- end list -->
 
@@ -736,7 +736,7 @@
 <!-- end list -->
 
   -
-    ○[ベス・フェニックス](https://ja.wikipedia.org/wiki/ベス・フェニックス "wikilink")、[メリーナ](https://ja.wikipedia.org/wiki/メリーナ・ペレス "wikilink")、[ジリアン](https://ja.wikipedia.org/wiki/ジリアン・フレッチャー "wikilink")、[レイラ](https://ja.wikipedia.org/wiki/レイラ・エル "wikilink")、[ビクトリア](https://ja.wikipedia.org/wiki/リサ・マリー・バロン "wikilink")、[ナタリア](https://ja.wikipedia.org/wiki/ナッティ・ナイドハート "wikilink") vs [ミッキー・ジェームス](https://ja.wikipedia.org/wiki/ミッキー・ジェームス "wikilink")、[マリア](../Page/マリア・ケネリス.md "wikilink")、[アシュリー](https://ja.wikipedia.org/wiki/アシュリー・マッサーロ "wikilink")、[ミシェル・マクール](https://ja.wikipedia.org/wiki/ミシェル・マクール "wikilink")、[チェリー](https://ja.wikipedia.org/wiki/カラ・ドリュー "wikilink")、[ケリー・ケリー](https://ja.wikipedia.org/wiki/バービー・ブランク "wikilink")●
+    ○[ベス・フェニックス](https://ja.wikipedia.org/wiki/ベス・フェニックス "wikilink")、[メリーナ](https://ja.wikipedia.org/wiki/メリーナ・ペレス "wikilink")、[ジリアン](https://ja.wikipedia.org/wiki/ジリアン・フレッチャー "wikilink")、[レイラ](https://ja.wikipedia.org/wiki/レイラ・エル "wikilink")、[ビクトリア](https://ja.wikipedia.org/wiki/リサ・マリー・バロン "wikilink")、[ナタリア](https://ja.wikipedia.org/wiki/ナッティ・ナイドハート "wikilink") vs [ミッキー・ジェームス](https://ja.wikipedia.org/wiki/ミッキー・ジェームス "wikilink")、[マリア](../Page/マリア・ケネリス.md "wikilink")、[アシュリー](https://ja.wikipedia.org/wiki/アシュリー・マッサーロ "wikilink")、[ミシェル・マクール](../Page/ミシェル・マクール.md "wikilink")、[チェリー](https://ja.wikipedia.org/wiki/カラ・ドリュー "wikilink")、[ケリー・ケリー](https://ja.wikipedia.org/wiki/バービー・ブランク "wikilink")●
 
 <!-- end list -->
 
@@ -869,7 +869,7 @@
 
 <!-- end list -->
 
-  - **[インターコンチネンタル王座戦](https://ja.wikipedia.org/wiki/WWE・インターコンチネンタル王座 "wikilink") -WWE Intercontinental championship-**
+  - **[インターコンチネンタル王座戦](../Page/WWE・インターコンチネンタル王座.md "wikilink") -WWE Intercontinental championship-**
 
 <!-- end list -->
 

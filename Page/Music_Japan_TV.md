@@ -13,13 +13,13 @@
   - 1998年10月 - スカパー\!のチャンネル名を「Music Japan TV」に変更。
   - [2002年](../Page/2002年.md "wikilink")4月 - [プラット・ワン](../Page/プラット・ワン.md "wikilink")（後のスカイパーフェクTV\!110、現・[スカパー\!](../Page/スカパー!_\(東経110度BS・CSデジタル放送\).md "wikilink")）にて「**Music Japan TV plus**」（MJTV+）放送開始（[委託放送事業者](../Page/委託放送事業者.md "wikilink")（現・衛星基幹放送事業者）は[日本テレビ系列の](../Page/日本テレビ放送網.md "wikilink")[シーエス日本](../Page/CS日本.md "wikilink")）。
   - [2003年](../Page/2003年.md "wikilink")4月 - [衛星テレビ広告協議会](https://ja.wikipedia.org/wiki/衛星放送協会#衛星テレビ広告協議会\(CAB-J\) "wikilink")（CAB-J）に正式加盟。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")7月 - [The MUSIC 272の閉局に伴い](../Page/The_MUSIC_272.md "wikilink")、一部の番組が**music272アワー**として放送開始。
+  - [2005年](../Page/2005年.md "wikilink")7月 - [The MUSIC 272の閉局に伴い](../Page/The_MUSIC_272.md "wikilink")、一部の番組が**music272アワー**として放送開始。
   - [2006年](../Page/2006年.md "wikilink")2月 - スカイパーフェクTV\!110のチャンネル名を「Music Japan TV」に変更。
   - [2007年](../Page/2007年.md "wikilink")4月 - [モバHO\!](../Page/モバHO!.md "wikilink")にて「Music Japan TV」放送開始（月曜 - 金曜のみ、2009年3月放送終了）。
   - [2009年](../Page/2009年.md "wikilink")10月 - スカパー\!HD、[ひかりTV](https://ja.wikipedia.org/wiki/ひかりTV "wikilink")にてハイビジョン放送（チャンネル名は「**Music Japan TV HD**」）開始。
   - [2012年](../Page/2012年.md "wikilink")3月31日 - スカパー\!e2\[1\]・ひかりTVでの放送を終了。
   - [2013年](../Page/2013年.md "wikilink")4月1日 - 当チャンネルの運営をデジタルプラネット衛星放送から**アトス・インターナショナル**へ移管\[2\]。
-  - 2013年6月30日 - [スカパー\!プレミアムサービス光](https://ja.wikipedia.org/wiki/スカパー!プレミアムサービス光 "wikilink")にて標準画質放送が終了し、ハイビジョン放送に完全移行した。
+  - 2013年6月30日 - [スカパー\!プレミアムサービス光](../Page/スカパー!プレミアムサービス光.md "wikilink")にて標準画質放送が終了し、ハイビジョン放送に完全移行した。
   - 2014年5月31日 - スカパー\!プレミアムサービスにて標準画質放送を終了し、ハイビジョン放送に完全移行した。
   - 2015年5月1日 - チャンネル名を「Music Japan TV」から「**ミュージック・ジャパンTV**」に変更。
   - 2016年12月1日 - スカパー\!プレミアムサービスの衛星一般放送事業者が、[スカパー・ブロードキャスティング](../Page/スカパー・ブロードキャスティング.md "wikilink")から[スカパー・エンターテイメント](../Page/スカパー・エンターテイメント.md "wikilink")に変更。
@@ -47,7 +47,7 @@
   - music japan リクエスト [J:COMスペシャル](../Page/ジュピターテレコム.md "wikilink")（生放送、本放送は「J:COMチャンネル」でもサイマル放送）
   - Shohjo隊 あいどる☆一番星（[酒井瞳](https://ja.wikipedia.org/wiki/酒井瞳 "wikilink")（[アイドリング\!\!\!](https://ja.wikipedia.org/wiki/アイドリング!!!_\(グループ\) "wikilink")）、[Shohjo隊](https://ja.wikipedia.org/wiki/Shohjo隊 "wikilink")）
   - アイ活\!\!（[遠藤舞](../Page/遠藤舞.md "wikilink")）
-  - 週刊\![加藤和樹](https://ja.wikipedia.org/wiki/加藤和樹 "wikilink")
+  - 週刊\![加藤和樹](../Page/加藤和樹.md "wikilink")
   - [SHU-I](https://ja.wikipedia.org/wiki/SHU-I "wikilink") インソクのキラキラ遺産
   - MJインタビュー
   - アニメ&特撮大好き\!O・BA・MA

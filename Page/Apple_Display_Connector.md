@@ -3,7 +3,7 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:AppleDisplayConnector.jpg "wikilink") **Apple Display Connector**（アップル ディスプレイ コネクタ）は[アップルコンピュータが過去に採用していた](../Page/アップル_\(企業\).md "wikilink")[コンピュータディスプレイの接続方式の一つ](../Page/ディスプレイ_\(コンピュータ\).md "wikilink")。**ADC**と略して表記される。
 
-[2000年](../Page/2000年.md "wikilink")の[Power Mac](../Page/Power_Mac.md "wikilink") G4とPower Mac G4 Cubeから搭載された。電源、映像信号、[USB信号を一本のケーブルにまとめることでデスクトップをすっきりさせる目的で採用していた](../Page/ユニバーサル・シリアル・バス.md "wikilink")。従来の[ADBキーボードのように](https://ja.wikipedia.org/wiki/Apple_Desktop_Bus "wikilink")、ディスプレイの電源ボタンからシステムの電源を入れたり、[スリープさせることが可能である](https://ja.wikipedia.org/wiki/スリープ_\(コンピュータ\) "wikilink")。
+[2000年](../Page/2000年.md "wikilink")の[Power Mac](../Page/Power_Mac.md "wikilink") G4とPower Mac G4 Cubeから搭載された。電源、映像信号、[USB信号を一本のケーブルにまとめることでデスクトップをすっきりさせる目的で採用していた](../Page/ユニバーサル・シリアル・バス.md "wikilink")。従来の[ADBキーボードのように](../Page/Apple_Desktop_Bus.md "wikilink")、ディスプレイの電源ボタンからシステムの電源を入れたり、[スリープさせることが可能である](https://ja.wikipedia.org/wiki/スリープ_\(コンピュータ\) "wikilink")。
 
 [DVIと信号に互換性があり](../Page/Digital_Visual_Interface.md "wikilink")、変換アダプタが市販されているが[2016年](../Page/2016年.md "wikilink")現在では該当商品のプレミア化に伴う高騰\[1\]のため、非常に手が出しづらい状況にある。
 

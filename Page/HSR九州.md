@@ -9,7 +9,7 @@ Hondaグループで教習所をはじめとした交通安全普及啓発関連
 
 [250px](https://ja.wikipedia.org/wiki/ファイル:HSR九州オフロードコース_HSR_Kyushu_Offroad_Circuit_-_panoramio.jpg "wikilink") [250px](https://ja.wikipedia.org/wiki/ファイル:HSR九州の桜並木_Sakura_tree_namiki_-_panoramio.jpg "wikilink") サーキットコース、ドリームコース、オフロードコースの3コースから形成されている。
 
-主に平日は、[本田技術研究所](https://ja.wikipedia.org/wiki/本田技術研究所 "wikilink")二輪R\&Dセンターのテストコースとして利用されているが、休日は一般の人も利用可能である。
+主に平日は、[本田技術研究所](../Page/本田技術研究所.md "wikilink")二輪R\&Dセンターのテストコースとして利用されているが、休日は一般の人も利用可能である。
 
 施設規模の都合上、[オートバイ](../Page/オートバイ.md "wikilink")のレースを主体であるが、[ホンダ・N-ONE](https://ja.wikipedia.org/wiki/ホンダ・N-ONE "wikilink")の[ワンメイクレース](../Page/ワンメイクレース.md "wikilink")である「N-ONE OWNER'S CUP」や、 Hondaの企業イベントである「Enjoy Honda」などオートバイ以外のレースやイベントも開催されている。
 

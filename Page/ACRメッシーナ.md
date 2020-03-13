@@ -3,7 +3,7 @@
 
 **アッソチャツィオーネ・カルチョ・リウニーテ・メッシーナ**（**Associazioni Calcio Riunite Messina S.r.l.**）は、[イタリア](../Page/イタリア.md "wikilink")・[メッシーナ](../Page/メッシーナ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。2018-19シーズンは[セリエDに所属している](../Page/セリエD_\(サッカー\).md "wikilink")。
 
-メッシーナは[メッシーナ海峡](https://ja.wikipedia.org/wiki/メッシーナ海峡 "wikilink")を挟んで[レッジョ・ディ・カラブリア](../Page/レッジョ・ディ・カラブリア.md "wikilink")と向き合っており、[レッジーナとの一戦は](../Page/レッジーナ1914.md "wikilink")[ローカルダービーとして盛り上がりを見せる](https://ja.wikipedia.org/wiki/デルビー・デッロ・ストレット "wikilink")。
+メッシーナは[メッシーナ海峡](../Page/メッシーナ海峡.md "wikilink")を挟んで[レッジョ・ディ・カラブリア](../Page/レッジョ・ディ・カラブリア.md "wikilink")と向き合っており、[レッジーナとの一戦は](../Page/レッジーナ1914.md "wikilink")[ローカルダービーとして盛り上がりを見せる](https://ja.wikipedia.org/wiki/デルビー・デッロ・ストレット "wikilink")。
 
 ## 歴史
 

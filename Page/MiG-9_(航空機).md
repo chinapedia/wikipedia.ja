@@ -7,7 +7,7 @@
 
 ソ連は戦前より[ジェットエンジン](../Page/ジェットエンジン.md "wikilink")の開発を行っていたが、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")の勝利により[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")から先進的なジェットエンジンや技術者を獲得することに成功した。ドイツの開発した[BMW003](https://ja.wikipedia.org/wiki/BMW003 "wikilink")軸流式ジェットエンジンは[RD-20](https://ja.wikipedia.org/wiki/RD-20 "wikilink")()という名称で国産化されたが、このエンジンを搭載する初のジェット戦闘機として**I-300**が開発され、**MiG-9**として実戦配備された。MiG-9は飛行機としては基本的に良好な性能を持っていたが、空気取り入れ口の中央に機関砲を装備するという武装配置は致命的な欠陥を持っていた。機関砲の排気がエンジンに吸い込まれ、エンジントラブルを頻発させた。そのためこの機は十分な性能を発揮できなかった。
 
-その後、武装配置を改善した**MiG-9M**(**I-308**として開発され[1947年](../Page/1947年.md "wikilink")初飛行)や複座[練習機](../Page/練習機.md "wikilink")型の**MiG-9UTI**(**I-301T**として開発され[1947年](../Page/1947年.md "wikilink")初飛行)も作られたが、[MiG-15が空軍の主力となったため](https://ja.wikipedia.org/wiki/MiG-15_\(航空機\) "wikilink")、いずれも大量には生産されていない。その他、複座の試験機の**MiG-9L**([1948年](../Page/1948年.md "wikilink")初飛行)もあった。
+その後、武装配置を改善した**MiG-9M**(**I-308**として開発され[1947年](../Page/1947年.md "wikilink")初飛行)や複座[練習機](../Page/練習機.md "wikilink")型の**MiG-9UTI**(**I-301T**として開発され[1947年](../Page/1947年.md "wikilink")初飛行)も作られたが、[MiG-15が空軍の主力となったため](../Page/MiG-15_\(航空機\).md "wikilink")、いずれも大量には生産されていない。その他、複座の試験機の**MiG-9L**([1948年](../Page/1948年.md "wikilink")初飛行)もあった。
 
 MiG-9各型は[中華人民共和国](../Page/中華人民共和国.md "wikilink")・[朝鮮民主主義人民共和国](../Page/朝鮮民主主義人民共和国.md "wikilink")軍機として[朝鮮戦争](https://ja.wikipedia.org/wiki/朝鮮戦争 "wikilink")へも投入されたが、目立った働きは聞かれない。[1940年代](../Page/1940年代.md "wikilink")末に、[後退翼](https://ja.wikipedia.org/wiki/後退翼 "wikilink")という最新技術を盛り込んだ高性能のMiG-15が完成し実戦にも投入されるようになると、MiG-9は後方任務へ回されたようである。
 

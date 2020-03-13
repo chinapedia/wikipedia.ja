@@ -243,7 +243,7 @@
 
 <!-- end list -->
 
-  - **[Kis-My-Ft2](https://ja.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")**
+  - **[Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")**
       - 「[S.O.KISS](https://ja.wikipedia.org/wiki/Everybody_Go "wikilink")」（編曲）
       - 「[若者たち](https://ja.wikipedia.org/wiki/Everybody_Go "wikilink")」（編曲）
       - 「[We never give up\!](https://ja.wikipedia.org/wiki/We_never_give_up! "wikilink")」（編曲）
@@ -331,7 +331,7 @@
 
 <!-- end list -->
 
-  - **[近藤真彦](https://ja.wikipedia.org/wiki/近藤真彦 "wikilink")**
+  - **[近藤真彦](../Page/近藤真彦.md "wikilink")**
       - 「[情熱ナミダ](https://ja.wikipedia.org/wiki/上海慕情/情熱ナミダ "wikilink")」（編曲）
 
 <!-- end list -->
@@ -620,7 +620,7 @@
 
   - 「ずっとはなさない」（作曲）
 
-**[野水いおり](https://ja.wikipedia.org/wiki/野水伊織 "wikilink")**
+**[野水いおり](../Page/野水伊織.md "wikilink")**
 
   - 「[Black † White](https://ja.wikipedia.org/wiki/Black_†_White "wikilink")」（編曲・キーボード）
   - 「D.O.B.」（編曲）

@@ -1,7 +1,7 @@
 > この記事は[OH!!!](https://ja.wikipedia.org/wiki/OH!!!)から翻訳されています。
 
 
-『**モモコのOH\!ソレ\!み〜よ\!**』（モモコのオー\!ソレ\!み〜よ\!）は、[関西テレビで放送されている](../Page/関西テレビ放送.md "wikilink")[関西ローカル](https://ja.wikipedia.org/wiki/関西ローカル "wikilink")の[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。[大阪ガスの一社提供](https://ja.wikipedia.org/wiki/大阪瓦斯 "wikilink")。（なお、関西テレビが大阪ガスの単独提供番組を放送するのはこの番組が初であり、それまでは関西テレビは在阪局の中で唯一大阪ガス提供番組を持ったことはなかった。）
+『**モモコのOH\!ソレ\!み〜よ\!**』（モモコのオー\!ソレ\!み〜よ\!）は、[関西テレビで放送されている](../Page/関西テレビ放送.md "wikilink")[関西ローカル](../Page/関西ローカル.md "wikilink")の[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。[大阪ガスの一社提供](https://ja.wikipedia.org/wiki/大阪瓦斯 "wikilink")。（なお、関西テレビが大阪ガスの単独提供番組を放送するのはこの番組が初であり、それまでは関西テレビは在阪局の中で唯一大阪ガス提供番組を持ったことはなかった。）
 
 [2003年](../Page/2003年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")放送開始。放送開始当初は14時00分 - 14時30分に放送されていたが、2005年4月からは13時55分からに[繰り上げ](../Page/フライングスタート_\(放送\).md "wikilink")。2009年4月からは『[さんまのまんま](https://ja.wikipedia.org/wiki/さんまのまんま "wikilink")』の放送枠移動に伴い、30分繰り下がって14時25分開始となった。[2016年](../Page/2016年.md "wikilink")[11月5日](../Page/11月5日.md "wikilink")から[岡村隆史](https://ja.wikipedia.org/wiki/岡村隆史 "wikilink")（[ナインティナイン](https://ja.wikipedia.org/wiki/ナインティナイン "wikilink")）出演のトークバラエティ番組『[おかべろ](https://ja.wikipedia.org/wiki/おかべろ "wikilink")』が開始することに伴い\[1\]、2016年[10月22日](../Page/10月22日.md "wikilink")からは放送時間が約30分繰り上がった。2017年[10月7日](../Page/10月7日.md "wikilink")からは『[ウラマヨ\!](https://ja.wikipedia.org/wiki/ウラマヨ! "wikilink")』が3分拡大となったため、放送時間が3分繰り下がった。
 
@@ -15,7 +15,7 @@
 
 制作局の関西テレビでは、金曜日4:55 - 5:25に再放送を行っており、提供の部分は翌日放送分の予告に差し替えられている。また番組最後のキーワードの発表部分も締切がある関係上カットされている。
 
-関西テレビが[阪神タイガース](../Page/阪神タイガース.md "wikilink")主催ゲームを土曜午後に中継する際も、14時台は大阪ガスとの関係上本番組を優先して、15時放送開始とするため、14時台はビジター側の地元局に[裏送り](https://ja.wikipedia.org/wiki/裏送り "wikilink")することがある。
+関西テレビが[阪神タイガース](../Page/阪神タイガース.md "wikilink")主催ゲームを土曜午後に中継する際も、14時台は大阪ガスとの関係上本番組を優先して、15時放送開始とするため、14時台はビジター側の地元局に[裏送り](../Page/裏送り.md "wikilink")することがある。
 
 ### 放送時間の変遷
 
@@ -78,7 +78,7 @@
 #### レギュラー
 
   - [ハイヒールモモコ](../Page/ハイヒール_\(お笑い\).md "wikilink")
-  - [西川ヘレン](https://ja.wikipedia.org/wiki/西川ヘレン "wikilink")
+  - [西川ヘレン](../Page/西川ヘレン.md "wikilink")
   - [重岡大毅](https://ja.wikipedia.org/wiki/重岡大毅 "wikilink")（[ジャニーズWEST](https://ja.wikipedia.org/wiki/ジャニーズWEST "wikilink")、2013年4月6日 - ）\[3\]
   - [兵動大樹](../Page/兵動大樹.md "wikilink")（[矢野・兵動](../Page/矢野・兵動.md "wikilink")） - 当初は準レギュラーだったが、2011年4月にレギュラーに昇格。
   - [藤本景子](https://ja.wikipedia.org/wiki/藤本景子 "wikilink")（関西テレビアナウンサー） - 休養および産休のため降板\[4\]。中島の産休に伴い、2019年8月31日から復帰\[5\]。
@@ -105,7 +105,7 @@
 
   - [阿藤快](../Page/阿藤快.md "wikilink")
   - [有坂来瞳](https://ja.wikipedia.org/wiki/有坂来瞳 "wikilink")
-  - [彦摩呂](https://ja.wikipedia.org/wiki/彦摩呂 "wikilink")
+  - [彦摩呂](../Page/彦摩呂.md "wikilink")
   - [テンダラー](../Page/テンダラー_\(お笑いコンビ\).md "wikilink")（[白川悟実](https://ja.wikipedia.org/wiki/白川悟実 "wikilink")・[浜本広晃](https://ja.wikipedia.org/wiki/浜本広晃 "wikilink")）
   - [海原やすよ・ともこ](../Page/海原やすよ・ともこ.md "wikilink")
   - [酒井藍](https://ja.wikipedia.org/wiki/酒井藍 "wikilink") - 「ミートステーション」→「グルメステーション」リポーター。

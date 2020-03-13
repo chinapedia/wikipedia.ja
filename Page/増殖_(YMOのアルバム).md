@@ -5,21 +5,21 @@
 
 [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink")に[アルファレコード](../Page/アルファレコード.md "wikilink")からリリースされた。
 
-作詞は[クリス・モスデル](https://ja.wikipedia.org/wiki/クリス・モスデル "wikilink")、作曲は[細野晴臣](../Page/細野晴臣.md "wikilink")、[坂本龍一](../Page/坂本龍一.md "wikilink")、[高橋ユキヒロが担当している他](../Page/高橋幸宏.md "wikilink")、[エルマー・バーンスタイン](../Page/エルマー・バーンスタイン.md "wikilink")が作曲した映画『[荒野の七人](https://ja.wikipedia.org/wiki/荒野の七人 "wikilink")』（[1960年](../Page/1960年.md "wikilink")）のテーマからイントロを引用した曲や、[アーチー・ベル&ザ・ドレルズ](https://ja.wikipedia.org/wiki/アーチー・ベル&ザ・ドレルズ "wikilink")の「[タイトゥン・アップ](../Page/タイトゥン・アップ.md "wikilink")」（[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")）のカバーが収録されている。
+作詞は[クリス・モスデル](https://ja.wikipedia.org/wiki/クリス・モスデル "wikilink")、作曲は[細野晴臣](../Page/細野晴臣.md "wikilink")、[坂本龍一](../Page/坂本龍一.md "wikilink")、[高橋ユキヒロが担当している他](../Page/高橋幸宏.md "wikilink")、[エルマー・バーンスタイン](../Page/エルマー・バーンスタイン.md "wikilink")が作曲した映画『[荒野の七人](../Page/荒野の七人.md "wikilink")』（[1960年](../Page/1960年.md "wikilink")）のテーマからイントロを引用した曲や、[アーチー・ベル&ザ・ドレルズ](https://ja.wikipedia.org/wiki/アーチー・ベル&ザ・ドレルズ "wikilink")の「[タイトゥン・アップ](../Page/タイトゥン・アップ.md "wikilink")」（[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")）のカバーが収録されている。
 
 本作では当時ラジオを中心に活躍していたユニット「[スネークマンショー](../Page/スネークマンショー.md "wikilink")」による[コント](../Page/コント.md "wikilink")が曲間に挿入されている。先行シングルはなく、後に「[タイトゥン・アップ](../Page/タイトゥン・アップ.md "wikilink")」（1980年）がシングルカットされた。
 
 前作『[パブリック・プレッシャー](../Page/パブリック・プレッシャー.md "wikilink")』（1980年）の成功に気を良くした[アルファレコード](../Page/アルファレコード.md "wikilink")は、同様のライヴ盤のリリースを要請したが、メンバーはそれを拒否し代案として本作のリリースを提案した。
 
-[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")では最高位1位を獲得、日本国内での売り上げは累計で41.2万枚を記録した。
+[オリコンチャート](../Page/オリコンチャート.md "wikilink")では最高位1位を獲得、日本国内での売り上げは累計で41.2万枚を記録した。
 
 ## 背景
 
-YMOは1980年[3月21日](../Page/3月21日.md "wikilink")の[愛知県勤労会館](https://ja.wikipedia.org/wiki/愛知県勤労会館 "wikilink")を皮切りに、[5月7日](../Page/5月7日.md "wikilink")の[東京厚生年金会館](../Page/東京厚生年金会館.md "wikilink")までの10都市全13公演におよぶ初の日本国内ツアー「[テクノポリス2000-20](../Page/テクノポリス2000-20.md "wikilink")」を敢行\[1\]。同ツアーでは産休のため[矢野顕子](../Page/矢野顕子.md "wikilink")は参加せず、代わりに[橋本一子](../Page/橋本一子.md "wikilink")が参加した他、[大村憲司](../Page/大村憲司.md "wikilink")、[松武秀樹](../Page/松武秀樹.md "wikilink")が参加した\[2\]。その他、ツアー初日と同日に坂本が参加した[西城秀樹](https://ja.wikipedia.org/wiki/西城秀樹 "wikilink")のシングル「[愛の園](../Page/愛の園_\(AI_NO_SONO\).md "wikilink")」がリリースされた\[3\]。[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")には坂本がプロデュース、アレンジを担当した[Phew](../Page/Phew.md "wikilink")のシングル「終曲/うらはら」がリリースされ、インディーズとしては特筆すべきセールスを記録した\[4\]。ツアー中の[3月31日](../Page/3月31日.md "wikilink")、[仙台市民会館](https://ja.wikipedia.org/wiki/仙台市民会館 "wikilink")での公演後に大村が体調を崩し、[感冒性内耳炎の恐れがあったためメンバー変更が行われ](https://ja.wikipedia.org/wiki/内耳炎 "wikilink")、新たにギタリストとして[鮎川誠](../Page/鮎川誠.md "wikilink")、[藤本敦夫](../Page/藤本敦夫.md "wikilink")が参加する事となった\[5\]。その後[4月7日](../Page/4月7日.md "wikilink")、[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")の大阪[毎日ホール公演より大村が復帰する](../Page/毎日大阪会館.md "wikilink")\[6\]。
+YMOは1980年[3月21日](../Page/3月21日.md "wikilink")の[愛知県勤労会館](https://ja.wikipedia.org/wiki/愛知県勤労会館 "wikilink")を皮切りに、[5月7日](../Page/5月7日.md "wikilink")の[東京厚生年金会館](../Page/東京厚生年金会館.md "wikilink")までの10都市全13公演におよぶ初の日本国内ツアー「[テクノポリス2000-20](../Page/テクノポリス2000-20.md "wikilink")」を敢行\[1\]。同ツアーでは産休のため[矢野顕子](../Page/矢野顕子.md "wikilink")は参加せず、代わりに[橋本一子](../Page/橋本一子.md "wikilink")が参加した他、[大村憲司](../Page/大村憲司.md "wikilink")、[松武秀樹](../Page/松武秀樹.md "wikilink")が参加した\[2\]。その他、ツアー初日と同日に坂本が参加した[西城秀樹](https://ja.wikipedia.org/wiki/西城秀樹 "wikilink")のシングル「[愛の園](../Page/愛の園_\(AI_NO_SONO\).md "wikilink")」がリリースされた\[3\]。[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")には坂本がプロデュース、アレンジを担当した[Phew](../Page/Phew.md "wikilink")のシングル「終曲/うらはら」がリリースされ、インディーズとしては特筆すべきセールスを記録した\[4\]。ツアー中の[3月31日](../Page/3月31日.md "wikilink")、[仙台市民会館](https://ja.wikipedia.org/wiki/仙台市民会館 "wikilink")での公演後に大村が体調を崩し、[感冒性内耳炎の恐れがあったためメンバー変更が行われ](https://ja.wikipedia.org/wiki/内耳炎 "wikilink")、新たにギタリストとして[鮎川誠](../Page/鮎川誠.md "wikilink")、[藤本敦夫](../Page/藤本敦夫.md "wikilink")が参加する事となった\[5\]。その後[4月7日](../Page/4月7日.md "wikilink")、[4月8日](../Page/4月8日.md "wikilink")の大阪[毎日ホール公演より大村が復帰する](../Page/毎日大阪会館.md "wikilink")\[6\]。
 
 [4月23日](../Page/4月23日.md "wikilink")には[日本武道館](../Page/日本武道館.md "wikilink")にて開催された写真誌『[写楽](../Page/写楽_\(雑誌\).md "wikilink")』の創刊記念イベント「写楽祭」にYMOとして参加するも、のパロディやギャグを中心とした構成に観客が納得せず失敗に終わった\[7\]。また、野次を飛ばす客に対し坂本が怒号を発する場面もあった。[4月24日](../Page/4月24日.md "wikilink")には[NHK総合](../Page/NHK総合テレビジョン.md "wikilink")[報道番組](../Page/報道番組.md "wikilink")『[朝のニュースワイド](../Page/NHKニュースワイド.md "wikilink")』（1980年 - [1988年](../Page/1988年.md "wikilink")）にて「写楽祭」の模様が放送された\[8\]。[4月25日](../Page/4月25日.md "wikilink")には坂本がプロデュースした[フリクションのアルバム](../Page/フリクション_\(バンド\).md "wikilink")『[軋轢](https://ja.wikipedia.org/wiki/軋轢 "wikilink")』がリリースされた\[9\]。
 
-[5月1日](../Page/5月1日.md "wikilink")、3人が参加した[南佳孝](../Page/南佳孝.md "wikilink")のアルバム『MONTAGE』がリリースされ、[5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink")には[NHK-FM放送](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink")にて[4月13日](../Page/4月13日.md "wikilink")の[NHKホール](../Page/NHKホール.md "wikilink")公演の模様が放送された\[10\]。
+[5月1日](../Page/5月1日.md "wikilink")、3人が参加した[南佳孝](../Page/南佳孝.md "wikilink")のアルバム『MONTAGE』がリリースされ、[5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink")には[NHK-FM放送](../Page/NHK-FM放送.md "wikilink")にて[4月13日](../Page/4月13日.md "wikilink")の[NHKホール](../Page/NHKホール.md "wikilink")公演の模様が放送された\[10\]。
 
 6月から坂本はソロアルバム『[B-2ユニット](../Page/B-2ユニット.md "wikilink")』のレコーディングを開始、同アルバムには大村とグンジョーガクレヨンの組原正が参加した\[11\]。[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")には[フジテレビ系](../Page/フジテレビ系列.md "wikilink")[音楽番組](../Page/音楽番組.md "wikilink")『[夜のヒットスタジオ](https://ja.wikipedia.org/wiki/夜のヒットスタジオ "wikilink")』（[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink") - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")）に初出演し、「[テクノポリス](../Page/テクノポリス_\(YMOの曲\).md "wikilink")」と「[ライディーン](../Page/ライディーン_\(YMOの曲\).md "wikilink")」を演奏、これがYMOとして初のテレビ番組での生演奏となった\[12\]。
 
@@ -73,7 +73,7 @@ YMOの結成20周年企画盤として、スネークマン・ショーの桑原
 
 ## チャート成績
 
-[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")では[LPで最高位](https://ja.wikipedia.org/wiki/レコード#LP盤3 "wikilink")1位、[CTでは最高位](../Page/コンパクトカセット.md "wikilink")3位を獲得、LPは登場回数24回、CTは登場回数30回となり、売り上げ枚数はLPで33.1万枚、CTで8.1万枚、累計では41.2万枚となった。
+[オリコンチャート](../Page/オリコンチャート.md "wikilink")では[LPで最高位](https://ja.wikipedia.org/wiki/レコード#LP盤3 "wikilink")1位、[CTでは最高位](../Page/コンパクトカセット.md "wikilink")3位を獲得、LPは登場回数24回、CTは登場回数30回となり、売り上げ枚数はLPで33.1万枚、CTで8.1万枚、累計では41.2万枚となった。
 
 ## 収録曲
 
@@ -83,10 +83,10 @@ YMOの結成20周年企画盤として、スネークマン・ショーの桑原
 
 1.  **ジングル“Y.M.O.”** - *JINGLE "Y.M.O."*
       -
-        ラジオ番組の[ジングルを模した曲で](https://ja.wikipedia.org/wiki/ジングル_\(ラジオ\) "wikilink")、小林がラジオ[DJ風のトークを聞かせた後](../Page/ディスクジョッキー.md "wikilink")、次の曲に切れ目なしに続く。[ドラムは](../Page/ドラムセット.md "wikilink")[モーグIII](../Page/モーグ・シンセサイザー.md "wikilink")、[ベースと](../Page/シンセベース.md "wikilink")「パン！」となる[パーカッションは](../Page/打楽器.md "wikilink")[プロフェット5を使用している](../Page/シーケンシャル・サーキット_プロフェット5.md "wikilink")。[坂本龍一](../Page/坂本龍一.md "wikilink")は単にジングルということで、職業作家みたいなノリで書いたものとコメントしている\[36\]。[1999年](../Page/1999年.md "wikilink")リリースの[細野晴臣](../Page/細野晴臣.md "wikilink")監修のベストアルバム『[YMO GO HOME\!](https://ja.wikipedia.org/wiki/YMO_GO_HOME! "wikilink")』ではディスク1冒頭で単独で使用され、[2003年](../Page/2003年.md "wikilink")にリリースされた[坂本龍一](../Page/坂本龍一.md "wikilink")監修のベストアルバム『[UC YMO](https://ja.wikipedia.org/wiki/UC_YMO "wikilink")』ではこのつなぎをそのまま再現している。
+        ラジオ番組の[ジングルを模した曲で](https://ja.wikipedia.org/wiki/ジングル_\(ラジオ\) "wikilink")、小林がラジオ[DJ風のトークを聞かせた後](../Page/ディスクジョッキー.md "wikilink")、次の曲に切れ目なしに続く。[ドラムは](../Page/ドラムセット.md "wikilink")[モーグIII](../Page/モーグ・シンセサイザー.md "wikilink")、[ベースと](../Page/シンセベース.md "wikilink")「パン！」となる[パーカッションは](../Page/打楽器.md "wikilink")[プロフェット5を使用している](../Page/シーケンシャル・サーキット_プロフェット5.md "wikilink")。[坂本龍一](../Page/坂本龍一.md "wikilink")は単にジングルということで、職業作家みたいなノリで書いたものとコメントしている\[36\]。[1999年](../Page/1999年.md "wikilink")リリースの[細野晴臣](../Page/細野晴臣.md "wikilink")監修のベストアルバム『[YMO GO HOME\!](../Page/YMO_GO_HOME!.md "wikilink")』ではディスク1冒頭で単独で使用され、[2003年](../Page/2003年.md "wikilink")にリリースされた[坂本龍一](../Page/坂本龍一.md "wikilink")監修のベストアルバム『[UC YMO](../Page/UC_YMO.md "wikilink")』ではこのつなぎをそのまま再現している。
 2.  **ナイス・エイジ** - *NICE AGE*
       -
-        アルバム製作前に[A\&Mレコード](../Page/A&Mレコード.md "wikilink")からの依頼でアメリカ用シングルとして「シチズンズ・オブ・サイエンス」と共にレコーディングされた（ただし、アメリカのマーケティングにそぐわないという理由でリリースはされていない）\[37\]。曲中でニュース速報を読んでいるのは元[サディスティック・ミカ・バンド](../Page/サディスティック・ミカ・バンド.md "wikilink")の[ボーカリスト](https://ja.wikipedia.org/wiki/ボーカリスト "wikilink")[福井ミカ](../Page/福井ミカ.md "wikilink")である。本作の録音当時、イエロー・マジック・オーケストラは[ポール・マッカートニー](../Page/ポール・マッカートニー.md "wikilink")とのセッションを予定していたが\[38\]、来日したポールが[大麻](https://ja.wikipedia.org/wiki/大麻 "wikilink")不法所持によって逮捕勾留されたため、セッションが不可能となってしまった。その時のポールの妻[リンダのメッセージが曲中のニュース速報である](https://ja.wikipedia.org/wiki/リンダ・マッカートニー "wikilink")。速報中で読み上げられる「22番」とはポールの[拘置所](../Page/拘置所.md "wikilink")内での番号であり、同じく「Coming Up Like A Flower」は同じ年の4月に発売されるポールの[シングル](../Page/シングル.md "wikilink")「[カミング・アップ](../Page/カミング・アップ_\(曲\).md "wikilink")」で歌われるフレーズである。シングル『[タイトゥン・アップ](../Page/タイトゥン・アップ.md "wikilink")』のB面にも納められている。イントロ部分は『[どちら様も\!\!笑ってヨロシク](../Page/どちら様も!!笑ってヨロシク.md "wikilink")』スペシャルゲストクイズの衝立登場時に使用されている。
+        アルバム製作前に[A\&Mレコード](../Page/A&Mレコード.md "wikilink")からの依頼でアメリカ用シングルとして「シチズンズ・オブ・サイエンス」と共にレコーディングされた（ただし、アメリカのマーケティングにそぐわないという理由でリリースはされていない）\[37\]。曲中でニュース速報を読んでいるのは元[サディスティック・ミカ・バンド](../Page/サディスティック・ミカ・バンド.md "wikilink")の[ボーカリスト](https://ja.wikipedia.org/wiki/ボーカリスト "wikilink")[福井ミカ](../Page/福井ミカ.md "wikilink")である。本作の録音当時、イエロー・マジック・オーケストラは[ポール・マッカートニー](../Page/ポール・マッカートニー.md "wikilink")とのセッションを予定していたが\[38\]、来日したポールが[大麻](https://ja.wikipedia.org/wiki/大麻 "wikilink")不法所持によって逮捕勾留されたため、セッションが不可能となってしまった。その時のポールの妻[リンダのメッセージが曲中のニュース速報である](../Page/リンダ・マッカートニー.md "wikilink")。速報中で読み上げられる「22番」とはポールの[拘置所](../Page/拘置所.md "wikilink")内での番号であり、同じく「Coming Up Like A Flower」は同じ年の4月に発売されるポールの[シングル](../Page/シングル.md "wikilink")「[カミング・アップ](../Page/カミング・アップ_\(曲\).md "wikilink")」で歌われるフレーズである。シングル『[タイトゥン・アップ](../Page/タイトゥン・アップ.md "wikilink")』のB面にも納められている。イントロ部分は『[どちら様も\!\!笑ってヨロシク](../Page/どちら様も!!笑ってヨロシク.md "wikilink")』スペシャルゲストクイズの衝立登場時に使用されている。
 3.  **スネークマン・ショー** - *SNAKEMAN SHOW*
       -
         スネークマン・ショーでのコント名「**KDD**」。「ミスター大平」とは[大平正芳](../Page/大平正芳.md "wikilink")のパロディーであり、大平が会社名の「KDD」を言いにくそうにしているのは[KDD事件](../Page/KDD事件.md "wikilink")のパロディーである。
@@ -112,7 +112,7 @@ YMOの結成20周年企画盤として、スネークマン・ショーの桑原
 2.  **シチズンズ・オブ・サイエンス** - *CITIZENS OF SCIENCE*
 
       -
-        「ナイス・エイジ」と共にアメリカ用シングルとしてレコーディングされた。途中に[クリス・モスデル](https://ja.wikipedia.org/wiki/クリス・モスデル "wikilink")が歌っている部分（というより台詞）がある。ライヴでの同部分は坂本が[ヴォコーダー](https://ja.wikipedia.org/wiki/ヴォコーダー "wikilink")を用い担当した。
+        「ナイス・エイジ」と共にアメリカ用シングルとしてレコーディングされた。途中に[クリス・モスデル](https://ja.wikipedia.org/wiki/クリス・モスデル "wikilink")が歌っている部分（というより台詞）がある。ライヴでの同部分は坂本が[ヴォコーダー](../Page/ヴォコーダー.md "wikilink")を用い担当した。
 
 3.  **スネークマン・ショー** - *SNAKEMAN SHOW*
 
@@ -122,12 +122,12 @@ YMOの結成20周年企画盤として、スネークマン・ショーの桑原
 4.  **マルティプライズ** - *MULTIPLIES*
 
       -
-        当時[スペシャルズ](../Page/スペシャルズ.md "wikilink")等の台頭でムーブメントとなっていた[スカ](../Page/スカ.md "wikilink")を意識した[生演奏](https://ja.wikipedia.org/wiki/生演奏 "wikilink")主体の作品で、本盤および米国発売の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")のタイトルとなった曲。発売時の[クレジットは](../Page/クレジットタイトル.md "wikilink")「作曲：イエロー・マジック・オーケストラ」だったが、冒頭で『[荒野の七人](https://ja.wikipedia.org/wiki/荒野の七人 "wikilink")』の[メロディー](https://ja.wikipedia.org/wiki/メロディー "wikilink")を使用したことから問題が生じ（細野は後年「[バーンスタインはしっかり者ですから](../Page/エルマー・バーンスタイン.md "wikilink")」とのコメントを残している）、現在は作曲者名が変更されている。
+        当時[スペシャルズ](../Page/スペシャルズ.md "wikilink")等の台頭でムーブメントとなっていた[スカ](../Page/スカ.md "wikilink")を意識した[生演奏](https://ja.wikipedia.org/wiki/生演奏 "wikilink")主体の作品で、本盤および米国発売の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")のタイトルとなった曲。発売時の[クレジットは](../Page/クレジットタイトル.md "wikilink")「作曲：イエロー・マジック・オーケストラ」だったが、冒頭で『[荒野の七人](../Page/荒野の七人.md "wikilink")』の[メロディー](https://ja.wikipedia.org/wiki/メロディー "wikilink")を使用したことから問題が生じ（細野は後年「[バーンスタインはしっかり者ですから](../Page/エルマー・バーンスタイン.md "wikilink")」とのコメントを残している）、現在は作曲者名が変更されている。
 
 5.  **スネークマン・ショー** - *SNAKEMAN SHOW*
 
       -
-        スネークマン・ショーでのコント名「**若い山彦**」。コントに登場する番組名「若い山彦」は当時の[NHK-FMの若者向け音楽番組](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink")『若いこだま』のパロディである。コントの中でYMOを褒めるものの相手にされていないのはYMOの3人である。本作は『それいけスネークマン』で1979年4月17日に放送された「続・若い山彦」の改作であり、それはYMOの代わりに[井上瑤](../Page/井上瑤.md "wikilink")の[グルーピー](https://ja.wikipedia.org/wiki/グルーピー "wikilink")上がりの女評論家が加わるという内容である。なお、スネークマン・ショーでは「続々・若い山彦」という続編も存在する。
+        スネークマン・ショーでのコント名「**若い山彦**」。コントに登場する番組名「若い山彦」は当時の[NHK-FMの若者向け音楽番組](../Page/NHK-FM放送.md "wikilink")『若いこだま』のパロディである。コントの中でYMOを褒めるものの相手にされていないのはYMOの3人である。本作は『それいけスネークマン』で1979年4月17日に放送された「続・若い山彦」の改作であり、それはYMOの代わりに[井上瑤](../Page/井上瑤.md "wikilink")の[グルーピー](../Page/グルーピー.md "wikilink")上がりの女評論家が加わるという内容である。なお、スネークマン・ショーでは「続々・若い山彦」という続編も存在する。
 
 6.  **ジ・エンド・オブ・エイジア** - *THE END OF ASIA*
 
@@ -346,4 +346,4 @@ MHJL-66 (LP)</p></td>
 35.
 36.
 37.
-38. 坂本も｢ポールがスタジオA（YMOがレコーディングしていたスタジオ）に見学に来る｣と発言している（ただし坂本は2003年発売の[UC YMOに収録された同曲の解説において](https://ja.wikipedia.org/wiki/UC_YMO "wikilink")｢もしポールが捕まってなければ、アルファスタジオに遊びに来て、YMOとセッションしてたかもしれないんですが…。｣とも発言しており、それが実際のことであったのか、坂本の希望であったのか、また後年言われ続けていた事を反映したのかどうかは不明）。
+38. 坂本も｢ポールがスタジオA（YMOがレコーディングしていたスタジオ）に見学に来る｣と発言している（ただし坂本は2003年発売の[UC YMOに収録された同曲の解説において](../Page/UC_YMO.md "wikilink")｢もしポールが捕まってなければ、アルファスタジオに遊びに来て、YMOとセッションしてたかもしれないんですが…。｣とも発言しており、それが実際のことであったのか、坂本の希望であったのか、また後年言われ続けていた事を反映したのかどうかは不明）。

@@ -28,7 +28,7 @@
   - 各装置の耐用寿命の延長を図り保守・整備が容易な構造であること。
   - 優れた新しい材質と生産技術、特に最新の表面処理技術を駆使したユニークで量産性に富んだデザインであること。
 
-実験・設計変更を繰り返し[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")夏頃には[プロトタイプ](https://ja.wikipedia.org/wiki/プロトタイプ "wikilink")が完成し実走テストを開始。同年10月に開催された第15回[東京モーターショー](../Page/東京モーターショー.md "wikilink")に参考出品。1969年1月には[ネバダ州](../Page/ネバダ州.md "wikilink")[ラスベガス](../Page/ラスベガス.md "wikilink")で開催されたディラー向けイベントで[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")向け仕様車を発表。同年4月から大和工場\[9\]でエンジンを、浜松製作所で車体の生産を開始。同年4月から北米地区向け仕様車の輸出を開始し、同年6月に発売\[10\]。日本国内では同年7月18日発表、8月10日に発売された\[11\]。
+実験・設計変更を繰り返し[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")夏頃には[プロトタイプ](../Page/プロトタイプ.md "wikilink")が完成し実走テストを開始。同年10月に開催された第15回[東京モーターショー](../Page/東京モーターショー.md "wikilink")に参考出品。1969年1月には[ネバダ州](../Page/ネバダ州.md "wikilink")[ラスベガス](../Page/ラスベガス.md "wikilink")で開催されたディラー向けイベントで[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")向け仕様車を発表。同年4月から大和工場\[9\]でエンジンを、浜松製作所で車体の生産を開始。同年4月から北米地区向け仕様車の輸出を開始し、同年6月に発売\[10\]。日本国内では同年7月18日発表、8月10日に発売された\[11\]。
 
 ## 車両解説
 
@@ -45,7 +45,7 @@
 また本モデルならびにCB750FOUR-Kは型式名の後に[モデルイヤー](https://ja.wikipedia.org/wiki/モデルイヤー "wikilink")ごとで**K+数字**の[通称](../Page/通称.md "wikilink")が付く。
 
   - CB750**K0**：1969年モデル
-  - CB750**K1**：[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")モデル
+  - CB750**K1**：[1970年](../Page/1970年.md "wikilink")モデル
   - CB750**K2**：[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")モデル
   - CB750**K3**：[1972年](../Page/1972年.md "wikilink")モデル 海外向け仕様のみ
   - CB750**K4**：[1973年](../Page/1973年.md "wikilink")モデル
@@ -161,11 +161,11 @@
 
 ### EARA
 
-3要素1段2相形常時噛合式2段リターン[ホンダマチック](https://ja.wikipedia.org/wiki/ホンダマチック "wikilink")[オートマチックトランスミッション](../Page/オートマチックトランスミッション.md "wikilink")を搭載するモデルで1976年より北米向けに販売されていた型式名CB750A\[41\]を1977年4月21日発表、同月22日発売\[42\]。
+3要素1段2相形常時噛合式2段リターン[ホンダマチック](../Page/ホンダマチック.md "wikilink")[オートマチックトランスミッション](../Page/オートマチックトランスミッション.md "wikilink")を搭載するモデルで1976年より北米向けに販売されていた型式名CB750A\[41\]を1977年4月21日発表、同月22日発売\[42\]。
 
 車名の**EARA**は英語の**ERA**（時代）と**Automatic**を組み合わせた造語で、**E**xpands **A**utomatic **R**iding **A**ge=**オートマチック時代を開く**の意味あいが込められた\[43\]。
 
-最大の特徴であるホンダマチックに合わせたチューンを実施しており、エンジンはキャブレターPW28→PW24・圧縮比9.2→7.7へ変更した結果、同時発売された上述のCB750FOUR-Kの最高出力65ps/8,500rpm・最大トルク5.9kg-m/7,500rpmがそれぞれ47ps/7,500rpm・5.0kg-m/6,000rpmにデチューン。ほかには潤滑オイル容量を3.5L→5.5Lへ増大し[ウエットサンプ](https://ja.wikipedia.org/wiki/ウエットサンプ "wikilink")化・一次減速比1.708→1.419・最終減速比3.176→2.733・[クラッチ](https://ja.wikipedia.org/wiki/クラッチ "wikilink")レバー廃止・[パーキングブレーキ](../Page/パーキングブレーキ.md "wikilink")レバー設置・[タコメーター](https://ja.wikipedia.org/wiki/タコメーター "wikilink")→シフトポジション[インジケーター](https://ja.wikipedia.org/wiki/インジケーター "wikilink")に変更などマニュアルミッション搭載車との相違がある\[44\]。
+最大の特徴であるホンダマチックに合わせたチューンを実施しており、エンジンはキャブレターPW28→PW24・圧縮比9.2→7.7へ変更した結果、同時発売された上述のCB750FOUR-Kの最高出力65ps/8,500rpm・最大トルク5.9kg-m/7,500rpmがそれぞれ47ps/7,500rpm・5.0kg-m/6,000rpmにデチューン。ほかには潤滑オイル容量を3.5L→5.5Lへ増大し[ウエットサンプ](https://ja.wikipedia.org/wiki/ウエットサンプ "wikilink")化・一次減速比1.708→1.419・最終減速比3.176→2.733・[クラッチ](https://ja.wikipedia.org/wiki/クラッチ "wikilink")レバー廃止・[パーキングブレーキ](../Page/パーキングブレーキ.md "wikilink")レバー設置・[タコメーター](../Page/タコメーター.md "wikilink")→シフトポジション[インジケーター](https://ja.wikipedia.org/wiki/インジケーター "wikilink")に変更などマニュアルミッション搭載車との相違がある\[44\]。
 
 ## 諸元
 
@@ -499,7 +499,7 @@
   - [週刊少年キング](https://ja.wikipedia.org/wiki/週刊少年キング "wikilink")に掲載されていた[望月三起也](../Page/望月三起也.md "wikilink")原作の漫画「[ワイルド7](../Page/ワイルド7.md "wikilink")」で主人公の飛葉大陸が乗るバイクは本モデルの通称K０である。
   - [週刊少年チャンピオン](https://ja.wikipedia.org/wiki/週刊少年チャンピオン "wikilink")に掲載されていた[石井いさみ](../Page/石井いさみ.md "wikilink")原作の漫画「[750ライダー](https://ja.wikipedia.org/wiki/750ライダー "wikilink")」で主人公の早川光が乗るバイクは本モデルの通称K2である。
   - [週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")に掲載されていた池沢さとし原作の漫画「[サーキットの狼](../Page/サーキットの狼.md "wikilink")」でヒロインの早瀬ミキ（はやせ みき）が乗っていたバイクは本モデルである。
-  - [1984年](../Page/1984年.md "wikilink")公開の映画『[ターミネーター](../Page/ターミネーター_\(映画\).md "wikilink")\[46\]』で[アーノルド・シュワルツェネッガー](../Page/アーノルド・シュワルツェネッガー.md "wikilink")演ずる[T-800](../Page/T-800.md "wikilink")が乗るバイクはボディ左側に[アサルトライフル](../Page/アサルトライフル.md "wikilink")[AR-18](https://ja.wikipedia.org/wiki/AR-18 "wikilink")収納ストックを装備する赤色のドリームCB750FOUR-Kである。
+  - [1984年](../Page/1984年.md "wikilink")公開の映画『[ターミネーター](../Page/ターミネーター_\(映画\).md "wikilink")\[46\]』で[アーノルド・シュワルツェネッガー](../Page/アーノルド・シュワルツェネッガー.md "wikilink")演ずる[T-800](../Page/T-800.md "wikilink")が乗るバイクはボディ左側に[アサルトライフル](../Page/アサルトライフル.md "wikilink")[AR-18](../Page/AR-18.md "wikilink")収納ストックを装備する赤色のドリームCB750FOUR-Kである。
 
 ## 脚注
 
@@ -514,7 +514,7 @@
 
 ## 関連項目
 
-  - [CB750](https://ja.wikipedia.org/wiki/ホンダ・CB750 "wikilink")（RC42） - 1990年代のネイキッドブームから生まれた車種。1992年から2008年まで生産。
+  - [CB750](../Page/ホンダ・CB750.md "wikilink")（RC42） - 1990年代のネイキッドブームから生まれた車種。1992年から2008年まで生産。
   - [ホンダ・CB](https://ja.wikipedia.org/wiki/ホンダ・CB "wikilink")
 
 ## 外部リンク
@@ -593,4 +593,4 @@
 43.
 44.
 45.
-46. [ターミネーターシリーズ](../Page/ターミネーターシリーズ.md "wikilink")ではサラ・コナー（[Sarah Connor](https://ja.wikipedia.org/wiki/:en:Sarah_Connor_\(Terminator\) "wikilink")）が[スペイシー125ストライカーの海外向け仕様である](https://ja.wikipedia.org/wiki/ホンダ・スペイシー "wikilink")**Elite**を所有する設定がなされた。
+46. [ターミネーターシリーズ](../Page/ターミネーターシリーズ.md "wikilink")ではサラ・コナー（[Sarah Connor](https://ja.wikipedia.org/wiki/:en:Sarah_Connor_\(Terminator\) "wikilink")）が[スペイシー125ストライカーの海外向け仕様である](../Page/ホンダ・スペイシー.md "wikilink")**Elite**を所有する設定がなされた。

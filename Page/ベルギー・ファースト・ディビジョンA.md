@@ -23,13 +23,13 @@
 
 ### 初期 (1895-1914)
 
-ベルギーのサッカーにおいて最初のリーグ戦は1895-96に7チームによる[総当り戦トーナメントとして実施された](../Page/リーグ戦.md "wikilink")\[1\]。7チームは[アントワープFC](../Page/ロイヤル・アントワープFC.md "wikilink")、[FCブルジョワ](https://ja.wikipedia.org/wiki/クラブ・ブルッヘ "wikilink")、[FCリエジョワ](https://ja.wikipedia.org/wiki/RFCリエージュ "wikilink")、[RC・ド・ブリュッセル](https://ja.wikipedia.org/wiki/RC・ド・ブリュッセル "wikilink")、[レオポール・クラブ・ド・ブリュッセル](https://ja.wikipedia.org/wiki/レオポール・クラブ・ド・ブリュッセル "wikilink")、[SC・ド・ブリュッセル](https://ja.wikipedia.org/wiki/SC・ド・ブリュッセル "wikilink")、[ユニオン・ディクセル](https://ja.wikipedia.org/wiki/ユニオン・ディクセル "wikilink")である\[2\]。最初のベルギーチャンピオンに輝いたのはFCリエジョワだった\[3\]。ベルギーサッカーにおける最初の8タイトルはFCリエジョワとRC・ド・ブリュッセルによって独占された\[4\]。当時は昇格・降格システムは存在しなかったが、下位の2クラブ（FCブルジョワとユニオン・ディクセル）は脱退し、新たなクラブが加わった（[アスレティック・アンド・ランニング・クラブ・ド・ブリュッセル](https://ja.wikipedia.org/wiki/アスレティック・アンド・ランニング・クラブ・ド・ブリュッセル "wikilink")）\[5\]。1896-97終了後にSC・ド・ブリュッセルが脱退したことにより、1897-98はわずか5クラブによって行われた\[6\]。1898-99および1899-1900シーズン、サッカー協会はトップレベルの2つのリーグと2レグ制の決勝戦からなる新フォーマットを導入した\[7\]。1900-01に一旦、9クラブによる1リーグ制に戻った後、1901-02から1903-04シーズンまで再び2リーグ制が用いられ、今度は両リーグの上位2チームずつが決勝ラウンドに進んだ\[8\]。1904-05シーズンは11チームによる1リーグ制で実施された\[9\]。アスレティック・アンド・ランニング・クラブ・ド・ブリュッセルはこのシーズンで脱退し、1906シーズン以降、セカンドディビジョンの優勝チームとファーストディビジョンの最下位チームが入れ替わる昇格・降格システムが導入された\[10\]。
+ベルギーのサッカーにおいて最初のリーグ戦は1895-96に7チームによる[総当り戦トーナメントとして実施された](../Page/リーグ戦.md "wikilink")\[1\]。7チームは[アントワープFC](../Page/ロイヤル・アントワープFC.md "wikilink")、[FCブルジョワ](../Page/クラブ・ブルッヘ.md "wikilink")、[FCリエジョワ](https://ja.wikipedia.org/wiki/RFCリエージュ "wikilink")、[RC・ド・ブリュッセル](https://ja.wikipedia.org/wiki/RC・ド・ブリュッセル "wikilink")、[レオポール・クラブ・ド・ブリュッセル](https://ja.wikipedia.org/wiki/レオポール・クラブ・ド・ブリュッセル "wikilink")、[SC・ド・ブリュッセル](https://ja.wikipedia.org/wiki/SC・ド・ブリュッセル "wikilink")、[ユニオン・ディクセル](https://ja.wikipedia.org/wiki/ユニオン・ディクセル "wikilink")である\[2\]。最初のベルギーチャンピオンに輝いたのはFCリエジョワだった\[3\]。ベルギーサッカーにおける最初の8タイトルはFCリエジョワとRC・ド・ブリュッセルによって独占された\[4\]。当時は昇格・降格システムは存在しなかったが、下位の2クラブ（FCブルジョワとユニオン・ディクセル）は脱退し、新たなクラブが加わった（[アスレティック・アンド・ランニング・クラブ・ド・ブリュッセル](https://ja.wikipedia.org/wiki/アスレティック・アンド・ランニング・クラブ・ド・ブリュッセル "wikilink")）\[5\]。1896-97終了後にSC・ド・ブリュッセルが脱退したことにより、1897-98はわずか5クラブによって行われた\[6\]。1898-99および1899-1900シーズン、サッカー協会はトップレベルの2つのリーグと2レグ制の決勝戦からなる新フォーマットを導入した\[7\]。1900-01に一旦、9クラブによる1リーグ制に戻った後、1901-02から1903-04シーズンまで再び2リーグ制が用いられ、今度は両リーグの上位2チームずつが決勝ラウンドに進んだ\[8\]。1904-05シーズンは11チームによる1リーグ制で実施された\[9\]。アスレティック・アンド・ランニング・クラブ・ド・ブリュッセルはこのシーズンで脱退し、1906シーズン以降、セカンドディビジョンの優勝チームとファーストディビジョンの最下位チームが入れ替わる昇格・降格システムが導入された\[10\]。
 
 1899-1900から1902-03シーズンまでRC・ド・ブリュッセルが4連覇した直後、1906-07シーズンまで[ユニオン・サン＝ジロワーズが](https://ja.wikipedia.org/wiki/ロイヤル・ユニオン・サン＝ジロワーズ "wikilink")4連覇した。つづく3シーズンも両クラブが優勝したが、1910-11シーズンに[CSブルジョワ](https://ja.wikipedia.org/wiki/CSブルジョワ "wikilink")がライバルのFCブルジョワを1ポイント上回って初優勝した\[11\]。1907-08シーズン終了後、ファーストディビジョンのチーム数が10から12へと増やされた\[12\]。プロモシオンに優勝した[RCド・ガン](https://ja.wikipedia.org/wiki/RCド・ガン "wikilink")と準優勝の[ESCフォレスト](https://ja.wikipedia.org/wiki/ESCフォレスト "wikilink")が昇格し、ファーストディビジョンからの降格はなかった\[13\]。[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")が近付いたこの頃、デアリング・クラブ・ド・ブリュッセルがチャレンジャーの地位を確立し、1911-12・1913-14シーズンに優勝した。この時期はユニオン・サン＝ジロワーズのみが彼らと渡り合うことができ、1912-13シーズンに得失点差により優勝した\[14\]。
 
 ### 第一次世界大戦後 (1919-1945)
 
-第一次世界大戦の間は中止されていた。1919-20シーズンに再開され、過去に5回準優勝（内2回は決勝戦、1回はプレーオフで敗退）の経験があるFCブルジョワが初優勝した。1920-21シーズン終了後、チーム数が12から14に増やされ、ファーストディビジョンでは最下位の[イクル・スポルト](https://ja.wikipedia.org/wiki/イクル・スポルト "wikilink")のみが降格し、プロモシオンから上位3チームが昇格した（[スタンダール・クラブ・リエジョワ](https://ja.wikipedia.org/wiki/スタンダール・クラブ・リエジョワ "wikilink")、[FCマリノワ](https://ja.wikipedia.org/wiki/FCマリノワ "wikilink")、[RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト "wikilink")）。1921-22から1931-32シーズンまでの10年間のタイトルは[アントウェルペン州](../Page/アントウェルペン州.md "wikilink")のクラブによって独占された。[レイモン・ブレーヌ](https://ja.wikipedia.org/wiki/レイモン・ブレーヌ "wikilink")がいた[KベールスホットVAC](https://ja.wikipedia.org/wiki/KベールスホットVAC "wikilink")はクラブにとって最初の5タイトルを、ロイヤル・アントワープは最初の2タイトルを、そしてストライカーの[ベルナルト・フォールホーフ](https://ja.wikipedia.org/wiki/ベルナルト・フォールホーフ "wikilink")に率いられた小クラブの[リールセSK](https://ja.wikipedia.org/wiki/リールセSK "wikilink")は1931-32シーズンに初めての優勝を果たした。この時期のチャレンジャーたちには、CSブルジョワ（この時期に2回優勝）、デアリング・クラブ・ド・ブリュッセル、ユニオン・サン＝ジロワーズ（1回優勝）、スタンダール・クラブ・リエジョワがいた。1932年12月25日より3シーズンにわたるユニオン・サン＝ジロワーズによる60試合無敗記録が始まり、1932-33・1933-34・1934-35シーズンのタイトルを獲得した。当時のユニオンのライバルはデアリング・クラブ・ド・ブリュッセルであり、彼らは次の2シーズンのチャンピオンシップを獲得した。レイモン・ブレーヌが復帰したベールスホットは、第二次世界大戦前最後の2シーズンのタイトルを獲得した。
+第一次世界大戦の間は中止されていた。1919-20シーズンに再開され、過去に5回準優勝（内2回は決勝戦、1回はプレーオフで敗退）の経験があるFCブルジョワが初優勝した。1920-21シーズン終了後、チーム数が12から14に増やされ、ファーストディビジョンでは最下位の[イクル・スポルト](https://ja.wikipedia.org/wiki/イクル・スポルト "wikilink")のみが降格し、プロモシオンから上位3チームが昇格した（[スタンダール・クラブ・リエジョワ](https://ja.wikipedia.org/wiki/スタンダール・クラブ・リエジョワ "wikilink")、[FCマリノワ](https://ja.wikipedia.org/wiki/FCマリノワ "wikilink")、[RSCアンデルレヒト](../Page/RSCアンデルレヒト.md "wikilink")）。1921-22から1931-32シーズンまでの10年間のタイトルは[アントウェルペン州](../Page/アントウェルペン州.md "wikilink")のクラブによって独占された。[レイモン・ブレーヌ](https://ja.wikipedia.org/wiki/レイモン・ブレーヌ "wikilink")がいた[KベールスホットVAC](https://ja.wikipedia.org/wiki/KベールスホットVAC "wikilink")はクラブにとって最初の5タイトルを、ロイヤル・アントワープは最初の2タイトルを、そしてストライカーの[ベルナルト・フォールホーフ](https://ja.wikipedia.org/wiki/ベルナルト・フォールホーフ "wikilink")に率いられた小クラブの[リールセSK](https://ja.wikipedia.org/wiki/リールセSK "wikilink")は1931-32シーズンに初めての優勝を果たした。この時期のチャレンジャーたちには、CSブルジョワ（この時期に2回優勝）、デアリング・クラブ・ド・ブリュッセル、ユニオン・サン＝ジロワーズ（1回優勝）、スタンダール・クラブ・リエジョワがいた。1932年12月25日より3シーズンにわたるユニオン・サン＝ジロワーズによる60試合無敗記録が始まり、1932-33・1933-34・1934-35シーズンのタイトルを獲得した。当時のユニオンのライバルはデアリング・クラブ・ド・ブリュッセルであり、彼らは次の2シーズンのチャンピオンシップを獲得した。レイモン・ブレーヌが復帰したベールスホットは、第二次世界大戦前最後の2シーズンのタイトルを獲得した。
 
 1940年5月10日にドイツ軍がベルギーに侵攻したことにより、1939-40および1940-41のシーズンは中止された。大会は1941年9月に再開され、[リールセSK](https://ja.wikipedia.org/wiki/リールセSK "wikilink")はクラブにとって2度目となるタイトルを獲得した。このシーズン終了後は降格するクラブはなく、クラブ数が14から16に増やされた。1942-43シーズン、リールセSKは3人のキープレイヤーを失って（2人は爆撃、もう1人はピッチ上で負った重傷により）3位に終わり、同クラブの近郊にある[KVメヘレン](../Page/KVメヘレン.md "wikilink")が歴史上初めてのチャンピオンになった。
 
@@ -71,7 +71,7 @@
 | [KAAヘント](https://ja.wikipedia.org/wiki/KAAヘント "wikilink")                   | [ヘント](../Page/ヘント.md "wikilink")                                | 5位 \<\!--| [Ghelamco Arena](https://ja.wikipedia.org/wiki/Ghelamco_Arena "wikilink")                               | 20,000--\> |
 | [KRCヘンク](https://ja.wikipedia.org/wiki/KRCヘンク "wikilink")                   | [ヘンク](../Page/ヘンク.md "wikilink")                                | 1位 \<\!--| [Cristal Arena](https://ja.wikipedia.org/wiki/Fenix_Stadion "wikilink")                                 | 24,900--\> |
 | [SVズルテ・ワレヘム](../Page/SVズルテ・ワレヘム.md "wikilink")                              | [ワレヘム](https://ja.wikipedia.org/wiki/ワレヘム "wikilink")           | 11位 \<\!--| [Regenboogstadion](https://ja.wikipedia.org/wiki/Regenboogstadion "wikilink")                          | 8,500--\>  |
-| [RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト "wikilink")           | [アンデルレヒト](../Page/アンデルレヒト.md "wikilink")                        | 6位 \<\!--| [Constant Vanden Stock Stadium](https://ja.wikipedia.org/wiki/Constant_Vanden_Stock_Stadium "wikilink") | 21,000--\> |
+| [RSCアンデルレヒト](../Page/RSCアンデルレヒト.md "wikilink")                              | [アンデルレヒト](../Page/アンデルレヒト.md "wikilink")                        | 6位 \<\!--| [Constant Vanden Stock Stadium](https://ja.wikipedia.org/wiki/Constant_Vanden_Stock_Stadium "wikilink") | 21,000--\> |
 | [KVコルトレイク](../Page/KVコルトレイク.md "wikilink")                                  | [コルトレイク](https://ja.wikipedia.org/wiki/コルトレイク "wikilink")       | 8位 \<\!--| [Guldensporen Stadion](https://ja.wikipedia.org/wiki/Guldensporen_Stadion "wikilink")                   | 9,500--\>  |
 | [シント＝トロイデンVV](https://ja.wikipedia.org/wiki/シント＝トロイデンVV "wikilink")         | [シント＝トロイデン](https://ja.wikipedia.org/wiki/シント＝トロイデン "wikilink") | 7位 \<\!--| [Stade Maurice Dufrasne](https://ja.wikipedia.org/wiki/Stade_Maurice_Dufrasne "wikilink")               | 30,000--\> |
 | [ロイヤル・エクセル・ムスクロン](https://ja.wikipedia.org/wiki/ロイヤル・エクセル・ムスクロン "wikilink") | [ムスクロン](https://ja.wikipedia.org/wiki/ムスクロン "wikilink")         | 10位 \<\!--| [Stade Charles Tondreau](https://ja.wikipedia.org/wiki/Stade_Charles_Tondreau "wikilink")              | 12,000--\> |
@@ -111,7 +111,7 @@
 <li>1918-19　未開催</li>
 </ul></td>
 <td><ul>
-<li>1919-20 <a href="https://ja.wikipedia.org/wiki/クラブ・ブルッヘ" title="wikilink">クラブ・ブルッヘ</a></li>
+<li>1919-20 <a href="../Page/クラブ・ブルッヘ.md" title="wikilink">クラブ・ブルッヘ</a></li>
 <li>1920-21 RDCモレンベーク</li>
 <li>1921-22 <a href="https://ja.wikipedia.org/wiki/KベールスホットVAC" title="wikilink">KベールスホットVAC</a></li>
 <li>1922-23 ユニオン・サン＝ジロワーズ</li>
@@ -140,7 +140,7 @@
 <li>1943-44 ロイヤル・アントワープFC</li>
 <li>1944-45 未開催</li>
 <li>1945-46 <a href="../Page/KVメヘレン.md" title="wikilink">KVメヘレン</a></li>
-<li>1946-47 <a href="https://ja.wikipedia.org/wiki/RSCアンデルレヒト" title="wikilink">RSCアンデルレヒト</a></li>
+<li>1946-47 <a href="../Page/RSCアンデルレヒト.md" title="wikilink">RSCアンデルレヒト</a></li>
 <li>1947-48 KVメヘレン</li>
 <li>1948-49 RSCアンデルレヒト</li>
 <li>1949-50 RSCアンデルレヒト</li>
@@ -164,62 +164,62 @@
 </tbody>
 </table>
 
-| **シーズン**  | **優勝**                                                               | **準優勝**                                                             | **3位**                                                            |
-| --------- | -------------------------------------------------------------------- | ------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| 1965-66   | '''[RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト "wikilink") | [シント＝トロイデンVV](https://ja.wikipedia.org/wiki/シント＝トロイデンVV "wikilink") | [スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")                |
-| 1966-67   | '''[RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト "wikilink") | [FCブルジョワ](https://ja.wikipedia.org/wiki/クラブ・ブルッヘ "wikilink")        | [RFCリエージュ](https://ja.wikipedia.org/wiki/RFCリエージュ "wikilink")     |
-| 1967-68   | '''[RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト "wikilink") | [FCブルジョワ](https://ja.wikipedia.org/wiki/クラブ・ブルッヘ "wikilink")        | [スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")                |
-| 1968-69   | '''[スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")                | [シャルルロワSC](../Page/シャルルロワSC.md "wikilink")                          | [リールセSK](https://ja.wikipedia.org/wiki/リールセSK "wikilink")         |
-| 1969-70   | '''[スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")                | [クラブ・ブルッヘ](https://ja.wikipedia.org/wiki/クラブ・ブルッヘ "wikilink")       | [ARAラ・ガントワーズ](https://ja.wikipedia.org/wiki/KAAヘント "wikilink")    |
-| 1970-71   | '''[スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")                | [クラブ・ブルッヘ](https://ja.wikipedia.org/wiki/クラブ・ブルッヘ "wikilink")       | [RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト "wikilink") |
-| 1971-72   | '''[RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト "wikilink") | [クラブ・ブルッヘ](https://ja.wikipedia.org/wiki/クラブ・ブルッヘ "wikilink")       | [スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")                |
-| 1972-73   | '''[クラブ・ブルッヘ](https://ja.wikipedia.org/wiki/クラブ・ブルッヘ "wikilink")     | [スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")                  | [ラシン・ホワイト](https://ja.wikipedia.org/wiki/RWDモレンベーク "wikilink")    |
-| 1973-74   | '''[RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト "wikilink") | [アントワープFC](../Page/ロイヤル・アントワープFC.md "wikilink")                     | [RWDモレンベーク](https://ja.wikipedia.org/wiki/RWDモレンベーク "wikilink")   |
-| 1974-75   | '''[RWDモレンベーク](https://ja.wikipedia.org/wiki/RWDモレンベーク "wikilink")   | [アントワープFC](../Page/ロイヤル・アントワープFC.md "wikilink")                     | [RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト "wikilink") |
-| 1975-76   | '''[クラブ・ブルッヘ](https://ja.wikipedia.org/wiki/クラブ・ブルッヘ "wikilink")     | [RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト "wikilink")   | [RWDモレンベーク](https://ja.wikipedia.org/wiki/RWDモレンベーク "wikilink")   |
-| 1976-77   | '''[クラブ・ブルッヘ](https://ja.wikipedia.org/wiki/クラブ・ブルッヘ "wikilink")     | [RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト "wikilink")   | [スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")                |
-| 1977-78   | '''[クラブ・ブルッヘ](https://ja.wikipedia.org/wiki/クラブ・ブルッヘ "wikilink")     | [RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト "wikilink")   | [スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")                |
-| 1978-79   | '''[KSKベフェレン](https://ja.wikipedia.org/wiki/KSKベフェレン "wikilink")     | [RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト "wikilink")   | [スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")                |
-| 1979-80   | '''[クラブ・ブルッヘ](https://ja.wikipedia.org/wiki/クラブ・ブルッヘ "wikilink")     | [スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")                  | [RWDモレンベーク](https://ja.wikipedia.org/wiki/RWDモレンベーク "wikilink")   |
-| 1980-81   | '''[RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト "wikilink") | [スポルティング・ロケレン](../Page/スポルティング・ロケレン.md "wikilink")                  | [スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")                |
-| 1981-82   | '''[スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")                | [RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト "wikilink")   | [KAAヘント](https://ja.wikipedia.org/wiki/KAAヘント "wikilink")         |
-| 1982-83   | '''[スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")                | [RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト "wikilink")   | [アントワープFC](../Page/ロイヤル・アントワープFC.md "wikilink")                   |
-| 1983-84   | '''[KSKベフェレン](https://ja.wikipedia.org/wiki/KSKベフェレン "wikilink")     | [RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト "wikilink")   | [クラブ・ブルッヘ](https://ja.wikipedia.org/wiki/クラブ・ブルッヘ "wikilink")     |
-| 1984-85   | '''[RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト "wikilink") | [クラブ・ブルッヘ](https://ja.wikipedia.org/wiki/クラブ・ブルッヘ "wikilink")       | [FCリエージュ](https://ja.wikipedia.org/wiki/RFCリエージュ "wikilink")      |
-| 1985-86   | '''[RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト "wikilink") | [クラブ・ブルッヘ](https://ja.wikipedia.org/wiki/クラブ・ブルッヘ "wikilink")       | [スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")                |
-| 1986-87   | '''[RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト "wikilink") | [KVメヘレン](../Page/KVメヘレン.md "wikilink")                              | [クラブ・ブルッヘ](https://ja.wikipedia.org/wiki/クラブ・ブルッヘ "wikilink")     |
-| 1987-88   | '''[クラブ・ブルッヘ](https://ja.wikipedia.org/wiki/クラブ・ブルッヘ "wikilink")     | [KVメヘレン](../Page/KVメヘレン.md "wikilink")                              | [アントワープFC](../Page/ロイヤル・アントワープFC.md "wikilink")                   |
-| 1988-89   | '''[KVメヘレン](../Page/KVメヘレン.md "wikilink")                            | [RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト "wikilink")   | [FCリエージュ](https://ja.wikipedia.org/wiki/RFCリエージュ "wikilink")      |
-| 1989-90   | '''[クラブ・ブルッヘ](https://ja.wikipedia.org/wiki/クラブ・ブルッヘ "wikilink")     | [RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト "wikilink")   | [KVメヘレン](../Page/KVメヘレン.md "wikilink")                            |
-| 1990-91   | '''[RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト "wikilink") | [KVメヘレン](../Page/KVメヘレン.md "wikilink")                              | [KAAヘント](https://ja.wikipedia.org/wiki/KAAヘント "wikilink")         |
-| 1991-92   | '''[クラブ・ブルッヘ](https://ja.wikipedia.org/wiki/クラブ・ブルッヘ "wikilink")     | [RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト "wikilink")   | [スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")                |
-| 1992-93   | '''[RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト "wikilink") | [スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")                  | [KVメヘレン](../Page/KVメヘレン.md "wikilink")                            |
-| 1993-94   | '''[RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト "wikilink") | [クラブ・ブルッヘ](https://ja.wikipedia.org/wiki/クラブ・ブルッヘ "wikilink")       | [RFCセラン](https://ja.wikipedia.org/wiki/RFCセラン "wikilink")         |
-| 1994-95   | '''[RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト "wikilink") | [スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")                  | [クラブ・ブルッヘ](https://ja.wikipedia.org/wiki/クラブ・ブルッヘ "wikilink")     |
-| 1995-96   | '''[クラブ・ブルッヘ](https://ja.wikipedia.org/wiki/クラブ・ブルッヘ "wikilink")     | [RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト "wikilink")   | [ジェルミナル・エケレン](../Page/KベールスホットAC.md "wikilink")                   |
-| 1996-97   | '''[リールセSK](https://ja.wikipedia.org/wiki/リールセSK "wikilink")         | [クラブ・ブルッヘ](https://ja.wikipedia.org/wiki/クラブ・ブルッヘ "wikilink")       | [エクセルシオール・ムスクロン](../Page/REムスクロン.md "wikilink")                   |
-| 1997-98   | '''[クラブ・ブルッヘ](https://ja.wikipedia.org/wiki/クラブ・ブルッヘ "wikilink")     | [KRCヘンク](https://ja.wikipedia.org/wiki/KRCヘンク "wikilink")           | [ジェルミナル・エケレン](../Page/KベールスホットAC.md "wikilink")                   |
-| 1998-99   | '''[KRCヘンク](https://ja.wikipedia.org/wiki/KRCヘンク "wikilink")         | [クラブ・ブルッヘ](https://ja.wikipedia.org/wiki/クラブ・ブルッヘ "wikilink")       | [RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト "wikilink") |
-| 1999-2000 | '''[RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト "wikilink") | [クラブ・ブルッヘ](https://ja.wikipedia.org/wiki/クラブ・ブルッヘ "wikilink")       | [KAAヘント](https://ja.wikipedia.org/wiki/KAAヘント "wikilink")         |
-| 2000-01   | '''[RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト "wikilink") | [クラブ・ブルッヘ](https://ja.wikipedia.org/wiki/クラブ・ブルッヘ "wikilink")       | [スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")                |
-| 2001-02   | '''[KRCヘンク](https://ja.wikipedia.org/wiki/KRCヘンク "wikilink")         | [クラブ・ブルッヘ](https://ja.wikipedia.org/wiki/クラブ・ブルッヘ "wikilink")       | [RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト "wikilink") |
-| 2002-03   | '''[クラブ・ブルッヘ](https://ja.wikipedia.org/wiki/クラブ・ブルッヘ "wikilink")     | [RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト "wikilink")   | [スポルティング・ロケレン](../Page/スポルティング・ロケレン.md "wikilink")                |
-| 2003-04   | '''[RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト "wikilink") | [クラブ・ブルッヘ](https://ja.wikipedia.org/wiki/クラブ・ブルッヘ "wikilink")       | [スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")                |
-| 2004-05   | '''[クラブ・ブルッヘ](https://ja.wikipedia.org/wiki/クラブ・ブルッヘ "wikilink")     | [RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト "wikilink")   | [KRCヘンク](https://ja.wikipedia.org/wiki/KRCヘンク "wikilink")         |
-| 2005-06   | '''[RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト "wikilink") | [スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")                  | [クラブ・ブルッヘ](https://ja.wikipedia.org/wiki/クラブ・ブルッヘ "wikilink")     |
-| 2006-07   | '''[RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト "wikilink") | [KRCヘンク](https://ja.wikipedia.org/wiki/KRCヘンク "wikilink")           | [スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")                |
-| 2007-08   | '''[スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")                | [RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト "wikilink")   | [クラブ・ブルッヘ](https://ja.wikipedia.org/wiki/クラブ・ブルッヘ "wikilink")     |
-| 2008-09   | '''[スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")                | [RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト "wikilink")   | [クラブ・ブルッヘ](https://ja.wikipedia.org/wiki/クラブ・ブルッヘ "wikilink")     |
-| 2009-10   | '''[RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト "wikilink") | [KAAヘント](https://ja.wikipedia.org/wiki/KAAヘント "wikilink")           | [クラブ・ブルッヘ](https://ja.wikipedia.org/wiki/クラブ・ブルッヘ "wikilink")     |
-| 2010-11   | '''[KRCヘンク](https://ja.wikipedia.org/wiki/KRCヘンク "wikilink")         | [スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")                  | [RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト "wikilink") |
-| 2011-12   | '''[RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト "wikilink") | [クラブ・ブルッヘ](https://ja.wikipedia.org/wiki/クラブ・ブルッヘ "wikilink")       | [KRCヘンク](https://ja.wikipedia.org/wiki/KRCヘンク "wikilink")         |
-| 2012-13   | '''[RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト "wikilink") | [SVズルテ・ワレヘム](../Page/SVズルテ・ワレヘム.md "wikilink")                      | [クラブ・ブルッヘ](https://ja.wikipedia.org/wiki/クラブ・ブルッヘ "wikilink")     |
-| 2013-14   | '''[RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト "wikilink") | [スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")                  | [クラブ・ブルッヘ](https://ja.wikipedia.org/wiki/クラブ・ブルッヘ "wikilink")     |
-| 2014-15   | '''[KAAヘント](https://ja.wikipedia.org/wiki/KAAヘント "wikilink")         | [クラブ・ブルッヘ](https://ja.wikipedia.org/wiki/クラブ・ブルッヘ "wikilink")       | [RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト "wikilink") |
-| 2015-16   | '''[クラブ・ブルッヘ](https://ja.wikipedia.org/wiki/クラブ・ブルッヘ "wikilink")     | [RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト "wikilink")   | [KAAヘント](https://ja.wikipedia.org/wiki/KAAヘント "wikilink")         |
-| 2016-17   | '''[RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト "wikilink") | [クラブ・ブルッヘ](https://ja.wikipedia.org/wiki/クラブ・ブルッヘ "wikilink")       | [KAAヘント](https://ja.wikipedia.org/wiki/KAAヘント "wikilink")         |
-| 2017-18   | '''[クラブ・ブルッヘ](https://ja.wikipedia.org/wiki/クラブ・ブルッヘ "wikilink")     | [スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")                  | [RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト "wikilink") |
-| 2018-19   | '''[KRCヘンク](https://ja.wikipedia.org/wiki/KRCヘンク "wikilink")         | [クラブ・ブルージュ](https://ja.wikipedia.org/wiki/クラブ・ブルージュ "wikilink")     | [スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")                |
+| **シーズン**  | **優勝**                                                             | **準優勝**                                                             | **3位**                                                          |
+| --------- | ------------------------------------------------------------------ | ------------------------------------------------------------------- | --------------------------------------------------------------- |
+| 1965-66   | '''[RSCアンデルレヒト](../Page/RSCアンデルレヒト.md "wikilink")                  | [シント＝トロイデンVV](https://ja.wikipedia.org/wiki/シント＝トロイデンVV "wikilink") | [スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")              |
+| 1966-67   | '''[RSCアンデルレヒト](../Page/RSCアンデルレヒト.md "wikilink")                  | [FCブルジョワ](../Page/クラブ・ブルッヘ.md "wikilink")                           | [RFCリエージュ](https://ja.wikipedia.org/wiki/RFCリエージュ "wikilink")   |
+| 1967-68   | '''[RSCアンデルレヒト](../Page/RSCアンデルレヒト.md "wikilink")                  | [FCブルジョワ](../Page/クラブ・ブルッヘ.md "wikilink")                           | [スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")              |
+| 1968-69   | '''[スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")              | [シャルルロワSC](../Page/シャルルロワSC.md "wikilink")                          | [リールセSK](https://ja.wikipedia.org/wiki/リールセSK "wikilink")       |
+| 1969-70   | '''[スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")              | [クラブ・ブルッヘ](../Page/クラブ・ブルッヘ.md "wikilink")                          | [ARAラ・ガントワーズ](https://ja.wikipedia.org/wiki/KAAヘント "wikilink")  |
+| 1970-71   | '''[スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")              | [クラブ・ブルッヘ](../Page/クラブ・ブルッヘ.md "wikilink")                          | [RSCアンデルレヒト](../Page/RSCアンデルレヒト.md "wikilink")                  |
+| 1971-72   | '''[RSCアンデルレヒト](../Page/RSCアンデルレヒト.md "wikilink")                  | [クラブ・ブルッヘ](../Page/クラブ・ブルッヘ.md "wikilink")                          | [スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")              |
+| 1972-73   | '''[クラブ・ブルッヘ](../Page/クラブ・ブルッヘ.md "wikilink")                      | [スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")                  | [ラシン・ホワイト](https://ja.wikipedia.org/wiki/RWDモレンベーク "wikilink")  |
+| 1973-74   | '''[RSCアンデルレヒト](../Page/RSCアンデルレヒト.md "wikilink")                  | [アントワープFC](../Page/ロイヤル・アントワープFC.md "wikilink")                     | [RWDモレンベーク](https://ja.wikipedia.org/wiki/RWDモレンベーク "wikilink") |
+| 1974-75   | '''[RWDモレンベーク](https://ja.wikipedia.org/wiki/RWDモレンベーク "wikilink") | [アントワープFC](../Page/ロイヤル・アントワープFC.md "wikilink")                     | [RSCアンデルレヒト](../Page/RSCアンデルレヒト.md "wikilink")                  |
+| 1975-76   | '''[クラブ・ブルッヘ](../Page/クラブ・ブルッヘ.md "wikilink")                      | [RSCアンデルレヒト](../Page/RSCアンデルレヒト.md "wikilink")                      | [RWDモレンベーク](https://ja.wikipedia.org/wiki/RWDモレンベーク "wikilink") |
+| 1976-77   | '''[クラブ・ブルッヘ](../Page/クラブ・ブルッヘ.md "wikilink")                      | [RSCアンデルレヒト](../Page/RSCアンデルレヒト.md "wikilink")                      | [スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")              |
+| 1977-78   | '''[クラブ・ブルッヘ](../Page/クラブ・ブルッヘ.md "wikilink")                      | [RSCアンデルレヒト](../Page/RSCアンデルレヒト.md "wikilink")                      | [スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")              |
+| 1978-79   | '''[KSKベフェレン](https://ja.wikipedia.org/wiki/KSKベフェレン "wikilink")   | [RSCアンデルレヒト](../Page/RSCアンデルレヒト.md "wikilink")                      | [スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")              |
+| 1979-80   | '''[クラブ・ブルッヘ](../Page/クラブ・ブルッヘ.md "wikilink")                      | [スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")                  | [RWDモレンベーク](https://ja.wikipedia.org/wiki/RWDモレンベーク "wikilink") |
+| 1980-81   | '''[RSCアンデルレヒト](../Page/RSCアンデルレヒト.md "wikilink")                  | [スポルティング・ロケレン](../Page/スポルティング・ロケレン.md "wikilink")                  | [スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")              |
+| 1981-82   | '''[スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")              | [RSCアンデルレヒト](../Page/RSCアンデルレヒト.md "wikilink")                      | [KAAヘント](https://ja.wikipedia.org/wiki/KAAヘント "wikilink")       |
+| 1982-83   | '''[スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")              | [RSCアンデルレヒト](../Page/RSCアンデルレヒト.md "wikilink")                      | [アントワープFC](../Page/ロイヤル・アントワープFC.md "wikilink")                 |
+| 1983-84   | '''[KSKベフェレン](https://ja.wikipedia.org/wiki/KSKベフェレン "wikilink")   | [RSCアンデルレヒト](../Page/RSCアンデルレヒト.md "wikilink")                      | [クラブ・ブルッヘ](../Page/クラブ・ブルッヘ.md "wikilink")                      |
+| 1984-85   | '''[RSCアンデルレヒト](../Page/RSCアンデルレヒト.md "wikilink")                  | [クラブ・ブルッヘ](../Page/クラブ・ブルッヘ.md "wikilink")                          | [FCリエージュ](https://ja.wikipedia.org/wiki/RFCリエージュ "wikilink")    |
+| 1985-86   | '''[RSCアンデルレヒト](../Page/RSCアンデルレヒト.md "wikilink")                  | [クラブ・ブルッヘ](../Page/クラブ・ブルッヘ.md "wikilink")                          | [スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")              |
+| 1986-87   | '''[RSCアンデルレヒト](../Page/RSCアンデルレヒト.md "wikilink")                  | [KVメヘレン](../Page/KVメヘレン.md "wikilink")                              | [クラブ・ブルッヘ](../Page/クラブ・ブルッヘ.md "wikilink")                      |
+| 1987-88   | '''[クラブ・ブルッヘ](../Page/クラブ・ブルッヘ.md "wikilink")                      | [KVメヘレン](../Page/KVメヘレン.md "wikilink")                              | [アントワープFC](../Page/ロイヤル・アントワープFC.md "wikilink")                 |
+| 1988-89   | '''[KVメヘレン](../Page/KVメヘレン.md "wikilink")                          | [RSCアンデルレヒト](../Page/RSCアンデルレヒト.md "wikilink")                      | [FCリエージュ](https://ja.wikipedia.org/wiki/RFCリエージュ "wikilink")    |
+| 1989-90   | '''[クラブ・ブルッヘ](../Page/クラブ・ブルッヘ.md "wikilink")                      | [RSCアンデルレヒト](../Page/RSCアンデルレヒト.md "wikilink")                      | [KVメヘレン](../Page/KVメヘレン.md "wikilink")                          |
+| 1990-91   | '''[RSCアンデルレヒト](../Page/RSCアンデルレヒト.md "wikilink")                  | [KVメヘレン](../Page/KVメヘレン.md "wikilink")                              | [KAAヘント](https://ja.wikipedia.org/wiki/KAAヘント "wikilink")       |
+| 1991-92   | '''[クラブ・ブルッヘ](../Page/クラブ・ブルッヘ.md "wikilink")                      | [RSCアンデルレヒト](../Page/RSCアンデルレヒト.md "wikilink")                      | [スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")              |
+| 1992-93   | '''[RSCアンデルレヒト](../Page/RSCアンデルレヒト.md "wikilink")                  | [スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")                  | [KVメヘレン](../Page/KVメヘレン.md "wikilink")                          |
+| 1993-94   | '''[RSCアンデルレヒト](../Page/RSCアンデルレヒト.md "wikilink")                  | [クラブ・ブルッヘ](../Page/クラブ・ブルッヘ.md "wikilink")                          | [RFCセラン](https://ja.wikipedia.org/wiki/RFCセラン "wikilink")       |
+| 1994-95   | '''[RSCアンデルレヒト](../Page/RSCアンデルレヒト.md "wikilink")                  | [スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")                  | [クラブ・ブルッヘ](../Page/クラブ・ブルッヘ.md "wikilink")                      |
+| 1995-96   | '''[クラブ・ブルッヘ](../Page/クラブ・ブルッヘ.md "wikilink")                      | [RSCアンデルレヒト](../Page/RSCアンデルレヒト.md "wikilink")                      | [ジェルミナル・エケレン](../Page/KベールスホットAC.md "wikilink")                 |
+| 1996-97   | '''[リールセSK](https://ja.wikipedia.org/wiki/リールセSK "wikilink")       | [クラブ・ブルッヘ](../Page/クラブ・ブルッヘ.md "wikilink")                          | [エクセルシオール・ムスクロン](../Page/REムスクロン.md "wikilink")                 |
+| 1997-98   | '''[クラブ・ブルッヘ](../Page/クラブ・ブルッヘ.md "wikilink")                      | [KRCヘンク](https://ja.wikipedia.org/wiki/KRCヘンク "wikilink")           | [ジェルミナル・エケレン](../Page/KベールスホットAC.md "wikilink")                 |
+| 1998-99   | '''[KRCヘンク](https://ja.wikipedia.org/wiki/KRCヘンク "wikilink")       | [クラブ・ブルッヘ](../Page/クラブ・ブルッヘ.md "wikilink")                          | [RSCアンデルレヒト](../Page/RSCアンデルレヒト.md "wikilink")                  |
+| 1999-2000 | '''[RSCアンデルレヒト](../Page/RSCアンデルレヒト.md "wikilink")                  | [クラブ・ブルッヘ](../Page/クラブ・ブルッヘ.md "wikilink")                          | [KAAヘント](https://ja.wikipedia.org/wiki/KAAヘント "wikilink")       |
+| 2000-01   | '''[RSCアンデルレヒト](../Page/RSCアンデルレヒト.md "wikilink")                  | [クラブ・ブルッヘ](../Page/クラブ・ブルッヘ.md "wikilink")                          | [スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")              |
+| 2001-02   | '''[KRCヘンク](https://ja.wikipedia.org/wiki/KRCヘンク "wikilink")       | [クラブ・ブルッヘ](../Page/クラブ・ブルッヘ.md "wikilink")                          | [RSCアンデルレヒト](../Page/RSCアンデルレヒト.md "wikilink")                  |
+| 2002-03   | '''[クラブ・ブルッヘ](../Page/クラブ・ブルッヘ.md "wikilink")                      | [RSCアンデルレヒト](../Page/RSCアンデルレヒト.md "wikilink")                      | [スポルティング・ロケレン](../Page/スポルティング・ロケレン.md "wikilink")              |
+| 2003-04   | '''[RSCアンデルレヒト](../Page/RSCアンデルレヒト.md "wikilink")                  | [クラブ・ブルッヘ](../Page/クラブ・ブルッヘ.md "wikilink")                          | [スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")              |
+| 2004-05   | '''[クラブ・ブルッヘ](../Page/クラブ・ブルッヘ.md "wikilink")                      | [RSCアンデルレヒト](../Page/RSCアンデルレヒト.md "wikilink")                      | [KRCヘンク](https://ja.wikipedia.org/wiki/KRCヘンク "wikilink")       |
+| 2005-06   | '''[RSCアンデルレヒト](../Page/RSCアンデルレヒト.md "wikilink")                  | [スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")                  | [クラブ・ブルッヘ](../Page/クラブ・ブルッヘ.md "wikilink")                      |
+| 2006-07   | '''[RSCアンデルレヒト](../Page/RSCアンデルレヒト.md "wikilink")                  | [KRCヘンク](https://ja.wikipedia.org/wiki/KRCヘンク "wikilink")           | [スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")              |
+| 2007-08   | '''[スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")              | [RSCアンデルレヒト](../Page/RSCアンデルレヒト.md "wikilink")                      | [クラブ・ブルッヘ](../Page/クラブ・ブルッヘ.md "wikilink")                      |
+| 2008-09   | '''[スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")              | [RSCアンデルレヒト](../Page/RSCアンデルレヒト.md "wikilink")                      | [クラブ・ブルッヘ](../Page/クラブ・ブルッヘ.md "wikilink")                      |
+| 2009-10   | '''[RSCアンデルレヒト](../Page/RSCアンデルレヒト.md "wikilink")                  | [KAAヘント](https://ja.wikipedia.org/wiki/KAAヘント "wikilink")           | [クラブ・ブルッヘ](../Page/クラブ・ブルッヘ.md "wikilink")                      |
+| 2010-11   | '''[KRCヘンク](https://ja.wikipedia.org/wiki/KRCヘンク "wikilink")       | [スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")                  | [RSCアンデルレヒト](../Page/RSCアンデルレヒト.md "wikilink")                  |
+| 2011-12   | '''[RSCアンデルレヒト](../Page/RSCアンデルレヒト.md "wikilink")                  | [クラブ・ブルッヘ](../Page/クラブ・ブルッヘ.md "wikilink")                          | [KRCヘンク](https://ja.wikipedia.org/wiki/KRCヘンク "wikilink")       |
+| 2012-13   | '''[RSCアンデルレヒト](../Page/RSCアンデルレヒト.md "wikilink")                  | [SVズルテ・ワレヘム](../Page/SVズルテ・ワレヘム.md "wikilink")                      | [クラブ・ブルッヘ](../Page/クラブ・ブルッヘ.md "wikilink")                      |
+| 2013-14   | '''[RSCアンデルレヒト](../Page/RSCアンデルレヒト.md "wikilink")                  | [スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")                  | [クラブ・ブルッヘ](../Page/クラブ・ブルッヘ.md "wikilink")                      |
+| 2014-15   | '''[KAAヘント](https://ja.wikipedia.org/wiki/KAAヘント "wikilink")       | [クラブ・ブルッヘ](../Page/クラブ・ブルッヘ.md "wikilink")                          | [RSCアンデルレヒト](../Page/RSCアンデルレヒト.md "wikilink")                  |
+| 2015-16   | '''[クラブ・ブルッヘ](../Page/クラブ・ブルッヘ.md "wikilink")                      | [RSCアンデルレヒト](../Page/RSCアンデルレヒト.md "wikilink")                      | [KAAヘント](https://ja.wikipedia.org/wiki/KAAヘント "wikilink")       |
+| 2016-17   | '''[RSCアンデルレヒト](../Page/RSCアンデルレヒト.md "wikilink")                  | [クラブ・ブルッヘ](../Page/クラブ・ブルッヘ.md "wikilink")                          | [KAAヘント](https://ja.wikipedia.org/wiki/KAAヘント "wikilink")       |
+| 2017-18   | '''[クラブ・ブルッヘ](../Page/クラブ・ブルッヘ.md "wikilink")                      | [スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")                  | [RSCアンデルレヒト](../Page/RSCアンデルレヒト.md "wikilink")                  |
+| 2018-19   | '''[KRCヘンク](https://ja.wikipedia.org/wiki/KRCヘンク "wikilink")       | [クラブ・ブルージュ](https://ja.wikipedia.org/wiki/クラブ・ブルージュ "wikilink")     | [スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")              |
 
 ## クラブ別優勝回数
 
@@ -233,7 +233,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/RSCアンデルレヒト" title="wikilink">RSCアンデルレヒト</a></p></td>
+<td><p><a href="../Page/RSCアンデルレヒト.md" title="wikilink">RSCアンデルレヒト</a></p></td>
 <td><center>
 <p>34</p></td>
 <td><p>1946-47, 1948-49, 1949-50, 1950-51, 1953-54, 1954-55, 1955-56, 1958-59, 1961-62, 1963-64<br />
@@ -242,7 +242,7 @@
 2011-12, 2012-13, 2013-14, 2016-17</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/クラブ・ブルッヘ" title="wikilink">クラブ・ブルッヘ</a></p></td>
+<td><p><a href="../Page/クラブ・ブルッヘ.md" title="wikilink">クラブ・ブルッヘ</a></p></td>
 <td><center>
 <p>15</p></td>
 <td><p>1919-20, 1972-73, 1975-76, 1976-77, 1977-78, 1979-80, 1987-88, 1989-90, 1991-92, 1995-96<br />
@@ -351,14 +351,14 @@
 <td><p><a href="../Page/ブリュッセル.md" title="wikilink">ブリュッセル</a></p></td>
 <td><center>
 <p>57</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RSCアンデルレヒト" title="wikilink">RSCアンデルレヒト</a> (34), <a href="https://ja.wikipedia.org/wiki/ロイヤル・ユニオン・サン＝ジロワーズ" title="wikilink">ユニオン・サン＝ジロワーズ</a> (11), <a href="https://ja.wikipedia.org/wiki/KFCローディーヌ＝デ・フーク" title="wikilink">KFCローディーヌ＝デ・フーク</a> (6), <a href="https://ja.wikipedia.org/wiki/RDCモレンベーク" title="wikilink">RDCモレンベーク</a> (5),<br />
+<td><p><a href="../Page/RSCアンデルレヒト.md" title="wikilink">RSCアンデルレヒト</a> (34), <a href="https://ja.wikipedia.org/wiki/ロイヤル・ユニオン・サン＝ジロワーズ" title="wikilink">ユニオン・サン＝ジロワーズ</a> (11), <a href="https://ja.wikipedia.org/wiki/KFCローディーヌ＝デ・フーク" title="wikilink">KFCローディーヌ＝デ・フーク</a> (6), <a href="https://ja.wikipedia.org/wiki/RDCモレンベーク" title="wikilink">RDCモレンベーク</a> (5),<br />
 <a href="https://ja.wikipedia.org/wiki/RWDモレンベーク" title="wikilink">RWDモレンベーク</a> (1)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ブリュッヘ" title="wikilink">ブリュッヘ</a></p></td>
 <td><center>
 <p>18</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クラブ・ブルッヘ" title="wikilink">クラブ・ブルッヘ</a> (15), <a href="../Page/サークル・ブルッヘ.md" title="wikilink">サークル・ブルッヘ</a> (3)</p></td>
+<td><p><a href="../Page/クラブ・ブルッヘ.md" title="wikilink">クラブ・ブルッヘ</a> (15), <a href="../Page/サークル・ブルッヘ.md" title="wikilink">サークル・ブルッヘ</a> (3)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/リエージュ.md" title="wikilink">リエージュ</a></p></td>
@@ -443,14 +443,14 @@
 <td><p>1946-47</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Joseph_Mermans" title="wikilink">Jef Mermans</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RSCアンデルレヒト" title="wikilink">アンデルレヒト</a></p></td>
+<td><p><a href="../Page/RSCアンデルレヒト.md" title="wikilink">アンデルレヒト</a></p></td>
 <td><p>38</p></td>
 </tr>
 <tr class="odd">
 <td><p>1947-48</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Joseph_Mermans" title="wikilink">Jef Mermans</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RSCアンデルレヒト" title="wikilink">アンデルレヒト</a></p></td>
+<td><p><a href="../Page/RSCアンデルレヒト.md" title="wikilink">アンデルレヒト</a></p></td>
 <td><p>23</p></td>
 </tr>
 <tr class="even">
@@ -464,7 +464,7 @@
 <td><p>1949-50</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Joseph_Mermans" title="wikilink">Jef Mermans</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RSCアンデルレヒト" title="wikilink">アンデルレヒト</a></p></td>
+<td><p><a href="../Page/RSCアンデルレヒト.md" title="wikilink">アンデルレヒト</a></p></td>
 <td><p>37</p></td>
 </tr>
 <tr class="even">
@@ -492,7 +492,7 @@
 <td><p>1953-54</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Hippolyte_Van_Den_Bosch" title="wikilink">Hippolyte Van Den Bosch</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RSCアンデルレヒト" title="wikilink">アンデルレヒト</a></p></td>
+<td><p><a href="../Page/RSCアンデルレヒト.md" title="wikilink">アンデルレヒト</a></p></td>
 <td><p>29</p></td>
 </tr>
 <tr class="even">
@@ -555,7 +555,7 @@
 <td><p>1961-62</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジャックス・ストックマン" title="wikilink">ジャックス・ストックマン</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RSCアンデルレヒト" title="wikilink">アンデルレヒト</a></p></td>
+<td><p><a href="../Page/RSCアンデルレヒト.md" title="wikilink">アンデルレヒト</a></p></td>
 <td><p>29</p></td>
 </tr>
 <tr class="odd">
@@ -569,7 +569,7 @@
 <td><p>1963-64</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ポール・ヴァン・ヒムスト" title="wikilink">ポール・ヴァン・ヒムスト</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RSCアンデルレヒト" title="wikilink">アンデルレヒト</a></p></td>
+<td><p><a href="../Page/RSCアンデルレヒト.md" title="wikilink">アンデルレヒト</a></p></td>
 <td><p>26</p></td>
 </tr>
 <tr class="odd">
@@ -583,14 +583,14 @@
 <td><p>1965-66</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ポール・ヴァン・ヒムスト" title="wikilink">ポール・ヴァン・ヒムスト</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RSCアンデルレヒト" title="wikilink">アンデルレヒト</a></p></td>
+<td><p><a href="../Page/RSCアンデルレヒト.md" title="wikilink">アンデルレヒト</a></p></td>
 <td><p>25</p></td>
 </tr>
 <tr class="odd">
 <td><p>1966-67</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Jan_Mulder_(footballer)" title="wikilink">Jan Mulder</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RSCアンデルレヒト" title="wikilink">アンデルレヒト</a></p></td>
+<td><p><a href="../Page/RSCアンデルレヒト.md" title="wikilink">アンデルレヒト</a></p></td>
 <td><p>20</p></td>
 </tr>
 <tr class="even">
@@ -599,7 +599,7 @@
 <a href="https://ja.wikipedia.org/wiki/ロジャー・クラッセン" title="wikilink">ロジャー・クラッセン</a></p></td>
 <td><p><br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RSCアンデルレヒト" title="wikilink">アンデルレヒト</a><br />
+<td><p><a href="../Page/RSCアンデルレヒト.md" title="wikilink">アンデルレヒト</a><br />
 <a href="../Page/スタンダール・リエージュ.md" title="wikilink">スタンダール・リエージュ</a></p></td>
 <td><p>20</p></td>
 </tr>
@@ -628,7 +628,7 @@
 <td><p>1971-72</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ラウル・ランバート" title="wikilink">ラウル・ランバート</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クラブ・ブルッヘ" title="wikilink">クラブ・ブルッヘ</a></p></td>
+<td><p><a href="../Page/クラブ・ブルッヘ.md" title="wikilink">クラブ・ブルッヘ</a></p></td>
 <td><p>17</p></td>
 </tr>
 <tr class="odd">
@@ -637,7 +637,7 @@
 <a href="https://ja.wikipedia.org/wiki/Alfred_Riedl" title="wikilink">Alfred Riedl</a></p></td>
 <td><p><br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RSCアンデルレヒト" title="wikilink">アンデルレヒト</a><br />
+<td><p><a href="../Page/RSCアンデルレヒト.md" title="wikilink">アンデルレヒト</a><br />
 <a href="https://ja.wikipedia.org/wiki/シント＝トロイデンVV" title="wikilink">シント＝トロイデン</a></p></td>
 <td><p>16</p></td>
 </tr>
@@ -645,7 +645,7 @@
 <td><p>1973-74</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Attila_Ladynski" title="wikilink">Attila Ladynski</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RSCアンデルレヒト" title="wikilink">アンデルレヒト</a></p></td>
+<td><p><a href="../Page/RSCアンデルレヒト.md" title="wikilink">アンデルレヒト</a></p></td>
 <td><p>22</p></td>
 </tr>
 <tr class="odd">
@@ -666,7 +666,7 @@
 <td><p>1976-77</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/フランソワ・ファン・デル・エルスト" title="wikilink">フランソワ・ファン・デル・エルスト</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RSCアンデルレヒト" title="wikilink">アンデルレヒト</a></p></td>
+<td><p><a href="../Page/RSCアンデルレヒト.md" title="wikilink">アンデルレヒト</a></p></td>
 <td><p>21</p></td>
 </tr>
 <tr class="even">
@@ -708,7 +708,7 @@
 <td><p>1982-83</p></td>
 <td><p><a href="../Page/エルウィン・ヴァンデンベルグ.md" title="wikilink">エルウィン・ヴァンデンベルグ</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RSCアンデルレヒト" title="wikilink">アンデルレヒト</a></p></td>
+<td><p><a href="../Page/RSCアンデルレヒト.md" title="wikilink">アンデルレヒト</a></p></td>
 <td><p>20</p></td>
 </tr>
 <tr class="even">
@@ -729,14 +729,14 @@
 <td><p>1985-86</p></td>
 <td><p><a href="../Page/エルウィン・ヴァンデンベルグ.md" title="wikilink">エルウィン・ヴァンデンベルグ</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RSCアンデルレヒト" title="wikilink">アンデルレヒト</a></p></td>
+<td><p><a href="../Page/RSCアンデルレヒト.md" title="wikilink">アンデルレヒト</a></p></td>
 <td><p>27</p></td>
 </tr>
 <tr class="odd">
 <td><p>1986-87</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アルノール・グジョンセン" title="wikilink">アルノール・グジョンセン</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RSCアンデルレヒト" title="wikilink">アンデルレヒト</a></p></td>
+<td><p><a href="../Page/RSCアンデルレヒト.md" title="wikilink">アンデルレヒト</a></p></td>
 <td><p>19</p></td>
 </tr>
 <tr class="even">
@@ -750,14 +750,14 @@
 <td><p>1988-89</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/エディ・クリーンスビック" title="wikilink">エディ・クリーンスビック</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RSCアンデルレヒト" title="wikilink">アンデルレヒト</a></p></td>
+<td><p><a href="../Page/RSCアンデルレヒト.md" title="wikilink">アンデルレヒト</a></p></td>
 <td><p>23</p></td>
 </tr>
 <tr class="even">
 <td><p>1989-90</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/フランク・ファリーナ" title="wikilink">フランク・ファリーナ</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クラブ・ブルッヘ" title="wikilink">クラブ・ブルッヘ</a></p></td>
+<td><p><a href="../Page/クラブ・ブルッヘ.md" title="wikilink">クラブ・ブルッヘ</a></p></td>
 <td><p>24</p></td>
 </tr>
 <tr class="odd">
@@ -799,14 +799,14 @@
 <td><p>1995-96</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/マリオ・スタニッチ" title="wikilink">マリオ・スタニッチ</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クラブ・ブルッヘ" title="wikilink">クラブ・ブルッヘ</a></p></td>
+<td><p><a href="../Page/クラブ・ブルッヘ.md" title="wikilink">クラブ・ブルッヘ</a></p></td>
 <td><p>20</p></td>
 </tr>
 <tr class="odd">
 <td><p>1996-97</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ロベルト・スペハール" title="wikilink">ロベルト・スペハール</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クラブ・ブルッヘ" title="wikilink">クラブ・ブルッヘ</a></p></td>
+<td><p><a href="../Page/クラブ・ブルッヘ.md" title="wikilink">クラブ・ブルッヘ</a></p></td>
 <td><p>26</p></td>
 </tr>
 <tr class="even">
@@ -818,7 +818,7 @@
 </tr>
 <tr class="odd">
 <td><p>1998-99</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヤン・コレル" title="wikilink">ヤン・コレル</a></p></td>
+<td><p><a href="../Page/ヤン・コレル.md" title="wikilink">ヤン・コレル</a></p></td>
 <td></td>
 <td><p><a href="../Page/スポルティング・ロケレン.md" title="wikilink">ロケレン</a></p></td>
 <td><p>24</p></td>
@@ -837,7 +837,7 @@
 <td><p>2000-01</p></td>
 <td><p><a href="../Page/トマシュ・ラジンスキ.md" title="wikilink">トマシュ・ラジンスキ</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RSCアンデルレヒト" title="wikilink">アンデルレヒト</a></p></td>
+<td><p><a href="../Page/RSCアンデルレヒト.md" title="wikilink">アンデルレヒト</a></p></td>
 <td><p>23</p></td>
 </tr>
 <tr class="even">
@@ -868,7 +868,7 @@
 <td><p>2004-05</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ネナド・イエストロヴィッチ" title="wikilink">ネナド・イエストロヴィッチ</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RSCアンデルレヒト" title="wikilink">アンデルレヒト</a></p></td>
+<td><p><a href="../Page/RSCアンデルレヒト.md" title="wikilink">アンデルレヒト</a></p></td>
 <td><p>18</p></td>
 </tr>
 <tr class="even">
@@ -903,14 +903,14 @@
 <td><p>2009-10</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ロメル・ルカク" title="wikilink">ロメル・ルカク</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RSCアンデルレヒト" title="wikilink">RSCアンデルレヒト</a></p></td>
+<td><p><a href="../Page/RSCアンデルレヒト.md" title="wikilink">RSCアンデルレヒト</a></p></td>
 <td><p>15</p></td>
 </tr>
 <tr class="odd">
 <td><p>2010-11</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/イヴァン・ペリシッチ" title="wikilink">イヴァン・ペリシッチ</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クラブ・ブルッヘ" title="wikilink">クラブ・ブルッヘ</a></p></td>
+<td><p><a href="../Page/クラブ・ブルッヘ.md" title="wikilink">クラブ・ブルッヘ</a></p></td>
 <td><p>22</p></td>
 </tr>
 <tr class="even">
@@ -924,7 +924,7 @@
 <td><p>2012-13</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/カルロス・バッカ" title="wikilink">カルロス・バッカ</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クラブ・ブルッヘ" title="wikilink">クラブ・ブルッヘ</a></p></td>
+<td><p><a href="../Page/クラブ・ブルッヘ.md" title="wikilink">クラブ・ブルッヘ</a></p></td>
 <td><p>25</p></td>
 </tr>
 <tr class="even">
@@ -938,7 +938,7 @@
 <td><p>2014-15</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アレクサンダル・ミトロヴィッチ" title="wikilink">アレクサンダル・ミトロヴィッチ</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RSCアンデルレヒト" title="wikilink">アンデルレヒト</a></p></td>
+<td><p><a href="../Page/RSCアンデルレヒト.md" title="wikilink">アンデルレヒト</a></p></td>
 <td><p>20</p></td>
 </tr>
 <tr class="even">
@@ -952,7 +952,7 @@
 <td><p>2016-17</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ウカシュ・テオドルチュク" title="wikilink">ウカシュ・テオドルチュク</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RSCアンデルレヒト" title="wikilink">アンデルレヒト</a></p></td>
+<td><p><a href="../Page/RSCアンデルレヒト.md" title="wikilink">アンデルレヒト</a></p></td>
 <td><p>22</p></td>
 </tr>
 <tr class="even">
@@ -971,7 +971,7 @@
 
 | 順位    | クラブ                                                                                             | シーズン | 試合数  | 勝利   | 引分  | 敗北   | 得点   | 失点   | 勝ち点      |
 | ----- | ----------------------------------------------------------------------------------------------- | ---- | ---- | ---- | --- | ---- | ---- | ---- | -------- |
-| '''1  | [RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト "wikilink")                               | 83   | 2648 | 1518 | 556 | 574  | 5748 | 3028 | '''5110  |
+| '''1  | [RSCアンデルレヒト](../Page/RSCアンデルレヒト.md "wikilink")                                                  | 83   | 2648 | 1518 | 556 | 574  | 5748 | 3028 | '''5110  |
 | '''2  | [スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")                                              | 95   | 2937 | 1382 | 689 | 866  | 5424 | 4146 | '''4835  |
 | '''3  | [クラブ・ブルッヘKV](https://ja.wikipedia.org/wiki/クラブ・ブルッヘKV "wikilink")                               | 92   | 2653 | 1365 | 558 | 730  | 5136 | 3493 | '''4653  |
 | '''4  | [ロイヤル・アントワープFC](../Page/ロイヤル・アントワープFC.md "wikilink")                                            | 96   | 2660 | 1124 | 605 | 931  | 4618 | 4064 | '''3977  |
@@ -1063,7 +1063,7 @@
 
 2002年、[日韓ワールドカップで日本とベルギーが対戦し](../Page/2002_FIFAワールドカップ.md "wikilink")、その試合で得点を挙げた[鈴木隆行](../Page/鈴木隆行.md "wikilink")が[ヘンクに期限付き移籍](https://ja.wikipedia.org/wiki/KRCヘンク "wikilink")。ヘンクでは得点は挙げられなかったものの、2003年に期限付き移籍した[ヒュースデン＝ゾルダーで得点を挙げてベルギーリーグ初の日本人得点者となった](../Page/Kベリンゲン＝ヒュースデン＝ゾルダー.md "wikilink")。
 
-2010年、当時・日本代表GKの[川島永嗣](https://ja.wikipedia.org/wiki/川島永嗣 "wikilink")が[リールセSK](https://ja.wikipedia.org/wiki/リールセSK "wikilink")へ移籍し、レギュラーとして活躍。2012年には[スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")に移籍し、2013年には川島の他にも[小野裕二](https://ja.wikipedia.org/wiki/小野裕二 "wikilink")と[永井謙佑](https://ja.wikipedia.org/wiki/永井謙佑 "wikilink")が同時期にリエージュに在籍した。
+2010年、当時・日本代表GKの[川島永嗣](../Page/川島永嗣.md "wikilink")が[リールセSK](https://ja.wikipedia.org/wiki/リールセSK "wikilink")へ移籍し、レギュラーとして活躍。2012年には[スタンダール・リエージュ](../Page/スタンダール・リエージュ.md "wikilink")に移籍し、2013年には川島の他にも[小野裕二](https://ja.wikipedia.org/wiki/小野裕二 "wikilink")と[永井謙佑](https://ja.wikipedia.org/wiki/永井謙佑 "wikilink")が同時期にリエージュに在籍した。
 
 2017年、日本のECサイトを運営する[DMMグループが](../Page/DMM.com.md "wikilink")[シント＝トロイデンVV](https://ja.wikipedia.org/wiki/シント＝トロイデンVV "wikilink")の経営権を取得したことを発表\[19\]。その影響もあり、[冨安健洋](https://ja.wikipedia.org/wiki/冨安健洋 "wikilink")や[遠藤航](https://ja.wikipedia.org/wiki/遠藤航 "wikilink")、[鎌田大地](https://ja.wikipedia.org/wiki/鎌田大地 "wikilink")など多くの日本人選手が所属し、レギュラーとして活躍。シント＝トロイデン以外でも、同時期に[森岡亮太](https://ja.wikipedia.org/wiki/森岡亮太 "wikilink")や[豊川雄太](https://ja.wikipedia.org/wiki/豊川雄太 "wikilink")が活躍し、日本人選手の評価がベルギーで上がり、日本人若手選手の多くが移籍するリーグとなっている\[20\]。
 

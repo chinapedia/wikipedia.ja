@@ -11,7 +11,7 @@
 
 そして、活動の幅を宮崎から鹿児島へ広げ、1999年に[エフエム鹿児島](../Page/エフエム鹿児島.md "wikilink")で『ポップスチャートカウントダウン』を、2001年に帯番組の『[feel the μzic DA\!\!](https://ja.wikipedia.org/wiki/feel_the_μzic_DA!! "wikilink")』、2011年からラジオの他にも『言葉が人生を変える』などの講演会活動も精力的に行う。また、テレビでも[KTS鹿児島テレビ](https://ja.wikipedia.org/wiki/KTS鹿児島テレビ "wikilink")の『クリスマスナビゲーション』は毎年レギュラーナビゲーターを。
 
-2013年4月には福岡に進出。[cross fmで新番組](https://ja.wikipedia.org/wiki/cross_fm "wikilink")[霧島酒造](https://ja.wikipedia.org/wiki/霧島酒造 "wikilink")presents『POCKYのK’s WAVE』がスタート。2014年4月には[cross fmの新番組](https://ja.wikipedia.org/wiki/cross_fm "wikilink")『[SWITCH\!\!](https://ja.wikipedia.org/wiki/SWITCH!! "wikilink")』ナビゲーターで更に福岡での活動の場を広げ、スターフライヤー機内番組『cross fm SKYWAVE STATION』のナビゲーター、同年10月にはTOKYO FMで『霧島リラックスタイム 焼酎ダイニング J-Fairy YASU』のナビゲーターを務める。2017年には、福岡　LOVE　FMで、新番組\[Midnight Soundscape\] スタート。また、同年６月３０日ニッポン放送のオールナイトニッポンゴールドに出演し、現在は九州（宮崎・鹿児島・福岡）を拠点に東京（全国）でも活躍中のラジオDJであり、ハワイのKZOO RADIOとも番組展開中。また、「言葉が人生を変える」を演題に各学校、会社の講演会講師として、100箇所以上講演中。
+2013年4月には福岡に進出。[cross fmで新番組](https://ja.wikipedia.org/wiki/cross_fm "wikilink")[霧島酒造](../Page/霧島酒造.md "wikilink")presents『POCKYのK’s WAVE』がスタート。2014年4月には[cross fmの新番組](https://ja.wikipedia.org/wiki/cross_fm "wikilink")『[SWITCH\!\!](https://ja.wikipedia.org/wiki/SWITCH!! "wikilink")』ナビゲーターで更に福岡での活動の場を広げ、スターフライヤー機内番組『cross fm SKYWAVE STATION』のナビゲーター、同年10月にはTOKYO FMで『霧島リラックスタイム 焼酎ダイニング J-Fairy YASU』のナビゲーターを務める。2017年には、福岡　LOVE　FMで、新番組\[Midnight Soundscape\] スタート。また、同年６月３０日ニッポン放送のオールナイトニッポンゴールドに出演し、現在は九州（宮崎・鹿児島・福岡）を拠点に東京（全国）でも活躍中のラジオDJであり、ハワイのKZOO RADIOとも番組展開中。また、「言葉が人生を変える」を演題に各学校、会社の講演会講師として、100箇所以上講演中。
 
 また、「[日南](https://ja.wikipedia.org/wiki/日南 "wikilink")特命大使」「みやこんじょ大使」「[与論島](../Page/与論島.md "wikilink")観光大使」でもある。
 

@@ -912,7 +912,7 @@
   -
 
       -
-        ポルとタルボという2匹をはじめとした動物の[マペット](https://ja.wikipedia.org/wiki/マペット "wikilink")がVJを務める[UK](https://ja.wikipedia.org/wiki/イギリス "wikilink")[ロックを中心としたの洋楽番組](../Page/ロック_\(音楽\).md "wikilink")。略称はOFS（オフス）。
+        ポルとタルボという2匹をはじめとした動物の[マペット](../Page/マペット.md "wikilink")がVJを務める[UK](https://ja.wikipedia.org/wiki/イギリス "wikilink")[ロックを中心としたの洋楽番組](../Page/ロック_\(音楽\).md "wikilink")。略称はOFS（オフス）。
 
 <!-- end list -->
 
@@ -1570,16 +1570,16 @@
         出演:ACIDMAN/[KEMURI](https://ja.wikipedia.org/wiki/KEMURI "wikilink")/xDragon Ashx/[DOPING PANDA](../Page/DOPING_PANDA.md "wikilink")/BEAT CRUSADERSx/[Bleach](https://ja.wikipedia.org/wiki/BLEACH_\(バンド\) "wikilink")/[MONGOL800](../Page/MONGOL800.md "wikilink")
   - 2009年09月14日〜20日 - GG08 @ SHIBUYA-AX/新木場STUDIO COAST
       -
-        出演:Dragon Ash×[10-FEET](../Page/10-FEET.md "wikilink")/[OCEANLANE](https://ja.wikipedia.org/wiki/OCEANLANE "wikilink")(supporting act)/[BOYZ OF SUMMER](https://ja.wikipedia.org/wiki/BOYZ_OF_SUMMER "wikilink")×[SPECIAL OTHERS](../Page/SPECIAL_OTHERS.md "wikilink")/[monobright](https://ja.wikipedia.org/wiki/monobright "wikilink")(supporting act)/[RIZE](https://ja.wikipedia.org/wiki/RIZE "wikilink")×[WAGDUG FUTURISTIC UNITY](../Page/WAGDUG_FUTURISTIC_UNITY.md "wikilink")/[Northern19](../Page/Northern19.md "wikilink")(supporting act)/[SOIL&"PIMP"SESSIONS](../Page/SOIL&"PIMP"SESSIONS.md "wikilink")×9mm Parabellum Bullet/[Qomolangma Tomato](https://ja.wikipedia.org/wiki/Qomolangma_Tomato "wikilink")(supporting act)/[RYUKYUDISKO](https://ja.wikipedia.org/wiki/RYUKYUDISKO "wikilink")×[ZAZEN BOYS](../Page/ZAZEN_BOYS.md "wikilink")/[OGRE YOU ASSHOLE](../Page/OGRE_YOU_ASSHOLE.md "wikilink")(supporting act)/ACIDMAN×[SHERBETS](../Page/SHERBETS.md "wikilink")/[8otto](../Page/8otto.md "wikilink")(supporting act)/[PUFFY](../Page/PUFFY.md "wikilink")×[東京スカパラダイスオーケストラ](../Page/東京スカパラダイスオーケストラ.md "wikilink")
+        出演:Dragon Ash×[10-FEET](../Page/10-FEET.md "wikilink")/[OCEANLANE](https://ja.wikipedia.org/wiki/OCEANLANE "wikilink")(supporting act)/[BOYZ OF SUMMER](https://ja.wikipedia.org/wiki/BOYZ_OF_SUMMER "wikilink")×[SPECIAL OTHERS](../Page/SPECIAL_OTHERS.md "wikilink")/[monobright](https://ja.wikipedia.org/wiki/monobright "wikilink")(supporting act)/[RIZE](../Page/RIZE.md "wikilink")×[WAGDUG FUTURISTIC UNITY](../Page/WAGDUG_FUTURISTIC_UNITY.md "wikilink")/[Northern19](../Page/Northern19.md "wikilink")(supporting act)/[SOIL&"PIMP"SESSIONS](../Page/SOIL&"PIMP"SESSIONS.md "wikilink")×9mm Parabellum Bullet/[Qomolangma Tomato](https://ja.wikipedia.org/wiki/Qomolangma_Tomato "wikilink")(supporting act)/[RYUKYUDISKO](https://ja.wikipedia.org/wiki/RYUKYUDISKO "wikilink")×[ZAZEN BOYS](../Page/ZAZEN_BOYS.md "wikilink")/[OGRE YOU ASSHOLE](../Page/OGRE_YOU_ASSHOLE.md "wikilink")(supporting act)/ACIDMAN×[SHERBETS](../Page/SHERBETS.md "wikilink")/[8otto](../Page/8otto.md "wikilink")(supporting act)/[PUFFY](../Page/PUFFY.md "wikilink")×[東京スカパラダイスオーケストラ](../Page/東京スカパラダイスオーケストラ.md "wikilink")
   - 2009年07月16日〜19日 - GG09 @ SHIBUYA-AX
       -
-        出演:10-FEET/9mm Parabellum Bullet/ACIDMAN/BEAT CRUSADERS/Dragon Ash/[lego big morl](https://ja.wikipedia.org/wiki/lego_big_morl "wikilink")/[POLYSICS](https://ja.wikipedia.org/wiki/POLYSICS "wikilink")/SPECIAL OTHERS/[The Birthday](../Page/The_Birthday.md "wikilink")/[フジファブリック](../Page/フジファブリック.md "wikilink")/[ユニコーン](https://ja.wikipedia.org/wiki/ユニコーン_\(バンド\) "wikilink")
+        出演:10-FEET/9mm Parabellum Bullet/ACIDMAN/BEAT CRUSADERS/Dragon Ash/[lego big morl](https://ja.wikipedia.org/wiki/lego_big_morl "wikilink")/[POLYSICS](../Page/POLYSICS.md "wikilink")/SPECIAL OTHERS/[The Birthday](../Page/The_Birthday.md "wikilink")/[フジファブリック](../Page/フジファブリック.md "wikilink")/[ユニコーン](https://ja.wikipedia.org/wiki/ユニコーン_\(バンド\) "wikilink")
   - 2010年07月21日〜24日 - GG10 @ SHIBUYA-AX
       -
         出演:10-FEET/9mm Parabellum Bullet/ACIDMAN/[andymori](https://ja.wikipedia.org/wiki/andymori "wikilink")/Dragon Ash/MONGOL800/[OKAMOTO'S](https://ja.wikipedia.org/wiki/OKAMOTO'S "wikilink")/[SISTER JET](https://ja.wikipedia.org/wiki/SISTER_JET "wikilink")/[THE BACK HORN](../Page/THE_BACK_HORN.md "wikilink")/エレファントカシマシ/[チャットモンチー](../Page/チャットモンチー.md "wikilink")/[黒猫チェルシー](https://ja.wikipedia.org/wiki/黒猫チェルシー "wikilink")
   - 2011年09月23日・24日 - GG11 -10th Anniversary- @ 幕張メッセ国際展示場ホール
       -
-        出演:ACIDMAN/[Ken Yokoyama](https://ja.wikipedia.org/wiki/Ken_Yokoyama "wikilink")/SHERBETS/[怒髪天](https://ja.wikipedia.org/wiki/怒髪天 "wikilink")/The Birthday/THE BACK HORN/[the band apart](https://ja.wikipedia.org/wiki/the_band_apart "wikilink")/[BRAHMAN](../Page/BRAHMAN.md "wikilink")/AIR/OKAMOTO'S/9mm Parabellum Bullet/[ザ・クロマニヨンズ](../Page/ザ・クロマニヨンズ.md "wikilink")/SPECIAL OTHERS/[the telephones](https://ja.wikipedia.org/wiki/the_telephones "wikilink")/10-FEET/Dragon Ash/[POLYSICS](https://ja.wikipedia.org/wiki/POLYSICS "wikilink")
+        出演:ACIDMAN/[Ken Yokoyama](https://ja.wikipedia.org/wiki/Ken_Yokoyama "wikilink")/SHERBETS/[怒髪天](https://ja.wikipedia.org/wiki/怒髪天 "wikilink")/The Birthday/THE BACK HORN/[the band apart](https://ja.wikipedia.org/wiki/the_band_apart "wikilink")/[BRAHMAN](../Page/BRAHMAN.md "wikilink")/AIR/OKAMOTO'S/9mm Parabellum Bullet/[ザ・クロマニヨンズ](../Page/ザ・クロマニヨンズ.md "wikilink")/SPECIAL OTHERS/[the telephones](https://ja.wikipedia.org/wiki/the_telephones "wikilink")/10-FEET/Dragon Ash/[POLYSICS](../Page/POLYSICS.md "wikilink")
   - 2013年07月31日〜08月08日 - GG13 @ Zepp Namba/Nagoya/Tokyo
       -
         出演:Dragon Ash/[MY FIRST STORY](https://ja.wikipedia.org/wiki/MY_FIRST_STORY "wikilink")/10-FEET/MONGOL800/SPECIAL OTHERS/THE BACK HORN/The Birthday/[the HIATUS](https://ja.wikipedia.org/wiki/the_HIATUS "wikilink")
@@ -1591,13 +1591,13 @@
 
 [ハイビジョン](../Page/ハイビジョン.md "wikilink")放送開始以降、従来の[画角比](../Page/画角情報_\(テレビ放送\).md "wikilink")4:3のサイズで制作されているビデオでは、[ウォーターマーク](../Page/ウォーターマーク.md "wikilink")はビデオ内に収まる位置に表示される。ウォーターマークの位置は画面右下。また、[2012年](../Page/2012年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")の旧・スカパー\!e2でのハイビジョン放送開始と同時に[字幕放送を開始](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")\[31\]。
 
-エムオン・エンタテインメントの本社が入居しているビルの隣のビルには[スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")を運営する[スペースシャワーネットワーク](../Page/スペースシャワーネットワーク.md "wikilink")が入居している。また、かつては徒歩1分もしない場所にあるビルにも[MTVジャパン](https://ja.wikipedia.org/wiki/MTVジャパン "wikilink")が入っていた。
+エムオン・エンタテインメントの本社が入居しているビルの隣のビルには[スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")を運営する[スペースシャワーネットワーク](../Page/スペースシャワーネットワーク.md "wikilink")が入居している。また、かつては徒歩1分もしない場所にあるビルにも[MTVジャパン](../Page/MTVジャパン.md "wikilink")が入っていた。
 
 ### クロージング
 
 [EPGでは](../Page/電子番組ガイド.md "wikilink")『**放送休止のお知らせ**』と表記された5分番組である。2012年度からは鳩をイメージした[アニメーション](../Page/アニメーション.md "wikilink")で、画面下に半透明のじゅうたんに「MUSIC ON\! TVをご覧いただきありがとうございます。放送機器[メインテナンスのため](../Page/メンテナンス.md "wikilink")、（放送再開時刻）まで放送を休止いたします」という字幕を表示する。時刻は前日深夜の24時間表記と、当日の12時間表記が併載されている（午前6時までの休止である場合、「30:00（午前6:00）」と表示）。
 
-2011年度までは[TRIPLANE](https://ja.wikipedia.org/wiki/TRIPLANE "wikilink")の『木になった少年』のPVを流し、終了間際に「Thank you for watching MUSIC ON\! TV」→「Have a good night」のテロップとエムオンのロゴを表示して終了。曲は5分未満で、以降は[カラーバー](https://ja.wikipedia.org/wiki/カラーバー "wikilink")となり、さらに5分が経つと[停波](../Page/停波.md "wikilink")する。
+2011年度までは[TRIPLANE](../Page/TRIPLANE.md "wikilink")の『木になった少年』のPVを流し、終了間際に「Thank you for watching MUSIC ON\! TV」→「Have a good night」のテロップとエムオンのロゴを表示して終了。曲は5分未満で、以降は[カラーバー](../Page/カラーバー.md "wikilink")となり、さらに5分が経つと[停波](../Page/停波.md "wikilink")する。
 
 ## M-ON\! MUSIC
 
@@ -1609,7 +1609,7 @@
 
 ## 関連項目
 
-  - [音楽専門チャンネル一覧](https://ja.wikipedia.org/wiki/音楽専門チャンネル一覧 "wikilink")
+  - [音楽専門チャンネル一覧](../Page/音楽専門チャンネル一覧.md "wikilink")
   - [スカパー\! チャンネル一覧](../Page/スカパー!_チャンネル一覧.md "wikilink")
   - [スカパー\!](../Page/スカパー!_\(東経110度BS・CSデジタル放送\).md "wikilink")
   - [スカパー\!プレミアムサービス](../Page/スカパー!プレミアムサービス.md "wikilink")

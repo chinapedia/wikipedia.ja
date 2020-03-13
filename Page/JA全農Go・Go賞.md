@@ -112,7 +112,7 @@
 <tr class="odd">
 <td><p>7月</p></td>
 <td><p>救援賞</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/石毛博史" title="wikilink">石毛博史</a></p></td>
+<td><p><a href="../Page/石毛博史.md" title="wikilink">石毛博史</a></p></td>
 <td><p>巨人</p></td>
 <td></td>
 </tr>
@@ -168,7 +168,7 @@
 <tr class="odd">
 <td><p>9月</p></td>
 <td><p>強肩賞</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/畠山準" title="wikilink">畠山準</a></p></td>
+<td><p><a href="../Page/畠山準.md" title="wikilink">畠山準</a></p></td>
 <td><p>横浜</p></td>
 <td></td>
 </tr>
@@ -288,7 +288,7 @@
 <td><p>7月</p></td>
 <td><p>救援賞</p></td>
 <td><p><a href="../Page/宣銅烈.md" title="wikilink">宣銅烈</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中日ドラゴンズ" title="wikilink">中日</a></p></td>
+<td><p><a href="../Page/中日ドラゴンズ.md" title="wikilink">中日</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -399,7 +399,7 @@
 <tr class="even">
 <td><p>5月</p></td>
 <td><p>最多奪三振賞</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/メルビン・バンチ" title="wikilink">M.バンチ</a></p></td>
+<td><p><a href="../Page/メルビン・バンチ.md" title="wikilink">M.バンチ</a></p></td>
 <td><p>中日</p></td>
 <td><p><a href="../Page/永井智浩.md" title="wikilink">永井智浩</a></p></td>
 </tr>
@@ -506,7 +506,7 @@
 <td><p>最多二・三塁打賞</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/新井貴浩" title="wikilink">新井貴浩</a></p></td>
 <td><p>広島</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サブロー" title="wikilink">サブロー</a></p></td>
+<td><p><a href="../Page/サブロー.md" title="wikilink">サブロー</a></p></td>
 </tr>
 <tr class="even">
 <td><p>9月</p></td>
@@ -541,7 +541,7 @@
 <td><p>救援賞</p></td>
 <td><p><a href="../Page/安藤優也.md" title="wikilink">安藤優也</a></p></td>
 <td><p>阪神</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/建山義紀" title="wikilink">建山義紀</a></p></td>
+<td><p><a href="../Page/建山義紀.md" title="wikilink">建山義紀</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>8月</p></td>
@@ -645,7 +645,7 @@
 <td></td>
 <td><p>4月</p></td>
 <td><p>好走塁賞</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/鈴木尚広" title="wikilink">鈴木尚広</a></p></td>
+<td><p><a href="../Page/鈴木尚広.md" title="wikilink">鈴木尚広</a></p></td>
 <td><p>巨人</p></td>
 </tr>
 <tr class="even">
@@ -870,7 +870,7 @@
 <td><p>救援賞</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/デニス・サファテ" title="wikilink">D.サファテ</a></p></td>
 <td><p>広島</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/薮田安彦" title="wikilink">薮田安彦</a></p></td>
+<td><p><a href="../Page/薮田安彦.md" title="wikilink">薮田安彦</a></p></td>
 </tr>
 <tr class="even">
 <td><p>8月</p></td>

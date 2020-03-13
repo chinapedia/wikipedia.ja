@@ -9,7 +9,7 @@
 
 ## 概要
 
-[連絡偵察機_(8465563672).jpg](https://ja.wikipedia.org/wiki/File:連絡偵察機_\(8465563672\).jpg "fig:連絡偵察機_(8465563672).jpg") 機体はベース機の[ベントラルフィンが大型化したのみで](https://ja.wikipedia.org/wiki/垂直尾翼#ベントラルフィン "wikilink")、航空機としての性能はほぼ同等である。LR-1と同じくカメラなどの偵察機材を搭載しており[偵察機](../Page/偵察機.md "wikilink")としての運用が可能である。LR-1で採用された与圧を廃した[ガンシップ](../Page/ガンシップ.md "wikilink")型は大幅な改造が必要なため設定されなかったが、機体が大型化したことで患者空輸用の[ストレッチャー](../Page/ストレッチャー.md "wikilink")を搭載するほか、[自動体外式除細動器](../Page/自動体外式除細動器.md "wikilink")や[生体情報モニタ](https://ja.wikipedia.org/wiki/生体情報モニタ "wikilink")\[3\]を積む余裕もあるなど[緊急患者輸送能力が向上した](https://ja.wikipedia.org/wiki/航空救急 "wikilink")。ただし[エアステア](https://ja.wikipedia.org/wiki/エアステア "wikilink")式であるため、患者をストレッチャーごと乗降させるには[リフター](https://ja.wikipedia.org/wiki/リフター "wikilink")が必要となる\[4\]。
+[連絡偵察機_(8465563672).jpg](https://ja.wikipedia.org/wiki/File:連絡偵察機_\(8465563672\).jpg "fig:連絡偵察機_(8465563672).jpg") 機体はベース機の[ベントラルフィンが大型化したのみで](https://ja.wikipedia.org/wiki/垂直尾翼#ベントラルフィン "wikilink")、航空機としての性能はほぼ同等である。LR-1と同じくカメラなどの偵察機材を搭載しており[偵察機](../Page/偵察機.md "wikilink")としての運用が可能である。LR-1で採用された与圧を廃した[ガンシップ](../Page/ガンシップ.md "wikilink")型は大幅な改造が必要なため設定されなかったが、機体が大型化したことで患者空輸用の[ストレッチャー](../Page/ストレッチャー.md "wikilink")を搭載するほか、[自動体外式除細動器](../Page/自動体外式除細動器.md "wikilink")や[生体情報モニタ](https://ja.wikipedia.org/wiki/生体情報モニタ "wikilink")\[3\]を積む余裕もあるなど[緊急患者輸送能力が向上した](../Page/航空救急.md "wikilink")。ただし[エアステア](https://ja.wikipedia.org/wiki/エアステア "wikilink")式であるため、患者をストレッチャーごと乗降させるには[リフター](https://ja.wikipedia.org/wiki/リフター "wikilink")が必要となる\[4\]。
 
 ベストセラー機をベースにしているため部品の入手性も改善された（LR-1は1987年に生産中止となっていた）。
 

@@ -5,7 +5,7 @@
 
   - グループ名
       - [H<sub>2</sub>O (日本の歌手グループ)](../Page/H2O_\(日本の歌手グループ\).md "wikilink") - [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の歌手グループ。
-      - [H<sub>2</sub>O (アメリカのバンド)](https://ja.wikipedia.org/wiki/H2O_\(アメリカのバンド\) "wikilink") - [アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")。
+      - [H<sub>2</sub>O (アメリカのバンド)](../Page/H2O_\(アメリカのバンド\).md "wikilink") - [アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")。
 
 <!-- end list -->
 

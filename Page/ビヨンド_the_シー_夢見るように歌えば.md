@@ -15,7 +15,7 @@
 | スティーヴ・ブラウナー                                | [ジョン・グッドマン](../Page/ジョン・グッドマン.md "wikilink")                                | [島香裕](../Page/島香裕.md "wikilink")                      |
 | チャーリー・カソート・マフィア                            | [ボブ・ホスキンス](../Page/ボブ・ホスキンス.md "wikilink")                                  | [後藤哲夫](../Page/後藤哲夫.md "wikilink")                    |
 | メアリー                                       | [グレタ・スカッキ](../Page/グレタ・スカッキ.md "wikilink")                                  | [小宮和枝](../Page/小宮和枝.md "wikilink")                    |
-| ポリー・カソート                                   | [ブレンダ・ブレッシン](https://ja.wikipedia.org/wiki/ブレンダ・ブレッシン "wikilink")           | [宮寺智子](../Page/宮寺智子.md "wikilink")                    |
+| ポリー・カソート                                   | [ブレンダ・ブレッシン](../Page/ブレンダ・ブレッシン.md "wikilink")                              | [宮寺智子](../Page/宮寺智子.md "wikilink")                    |
 | ニーナ・カソート                                   | [キャロライン・アーロン](https://ja.wikipedia.org/wiki/キャロライン・アーロン "wikilink")         | [上村典子](../Page/上村典子.md "wikilink")                    |
 | デビッド                                       | [マット・リッピー](https://ja.wikipedia.org/wiki/マット・リッピー "wikilink")               | [飯島肇](../Page/飯島肇.md "wikilink")                      |
 | ディック                                       | [ピーター・シンコッティ](https://ja.wikipedia.org/wiki/ピーター・シンコッティ "wikilink")         | [田中一永](https://ja.wikipedia.org/wiki/田中一永 "wikilink") |

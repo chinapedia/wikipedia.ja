@@ -37,7 +37,7 @@ WAGEの名称の由来は、「**W**aseda **A**cademic **G**ag **E**ssence」の
 ## DVD
 
   - 「[下妻物語](../Page/下妻物語.md "wikilink") スタンダード★エディション」（[2004年](../Page/2004年.md "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")、[東宝](../Page/東宝.md "wikilink")）：小島
-  - 「白と黒 -kuro to shiro-」（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月12日](../Page/4月12日.md "wikilink")、[TOKYO FM出版](https://ja.wikipedia.org/wiki/TOKYO_FM出版 "wikilink")）
+  - 「白と黒 -kuro to shiro-」（[2005年](../Page/2005年.md "wikilink")[4月12日](../Page/4月12日.md "wikilink")、[TOKYO FM出版](https://ja.wikipedia.org/wiki/TOKYO_FM出版 "wikilink")）
   - 「[エンタの神様](https://ja.wikipedia.org/wiki/エンタの神様 "wikilink") ベストセレクションVol.6」（2005年[5月25日](../Page/5月25日.md "wikilink")、[バップ](../Page/バップ.md "wikilink")）
   - 「マジ☆ワラ vol.5」（2005年[7月25日](../Page/7月25日.md "wikilink")、[フォーサイド・ドット・コム](https://ja.wikipedia.org/wiki/フォーサイド・ドット・コム "wikilink")）
 

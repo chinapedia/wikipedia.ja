@@ -16,7 +16,7 @@
   - [急性冠症候群](../Page/急性冠症候群.md "wikilink") (**a**cute **c**oronary **s**yndrome) の略称。 → [心筋梗塞](../Page/心筋梗塞.md "wikilink")
   - [掃天観測用高性能カメラ](../Page/掃天観測用高性能カメラ.md "wikilink") (**A**dvanced **C**amera for **S**urveys) の略称。
   - [イージス戦闘システム](../Page/イージスシステム.md "wikilink") (**A**egis **C**ombat **S**ystem) の略称。
-  - [全国地方銀行協会](../Page/全国地方銀行協会.md "wikilink")加盟行のネットワークである[全国カードサービス](https://ja.wikipedia.org/wiki/全国カードサービス "wikilink") (**A**ll Japan **C**ard **S**ervice) の略称。
+  - [全国地方銀行協会](../Page/全国地方銀行協会.md "wikilink")加盟行のネットワークである[全国カードサービス](../Page/全国カードサービス.md "wikilink") (**A**ll Japan **C**ard **S**ervice) の略称。
   - [アメリカン・コミュニティ・スクール](https://ja.wikipedia.org/wiki/アメリカン・コミュニティ・スクール "wikilink") (**A**merican **C**ommunity **S**chool) の略称。　
   - [テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")作品『[魔法少女リリカルなのは](../Page/魔法少女リリカルなのはシリーズ.md "wikilink")』シリーズに登場するデバイス、[レイジングハート・エクセリオンの形態の](https://ja.wikipedia.org/wiki/魔法少女リリカルなのはシリーズ#登場するデバイス "wikilink")1つ「エクセリオンモードA.C.S.」。
   - トランプゲーム、[アメリカンシャッフル](https://ja.wikipedia.org/wiki/アメリカンシャッフル "wikilink")（**A**meri**C**an **S**huffle）の略称。

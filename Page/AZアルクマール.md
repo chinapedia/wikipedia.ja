@@ -1082,7 +1082,7 @@ PlotData=
 <td><p>2009</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ディック・アドフォカート" title="wikilink">ディック・アドフォカート</a></p></td>
+<td><p><a href="../Page/ディック・アドフォカート.md" title="wikilink">ディック・アドフォカート</a></p></td>
 <td></td>
 <td><p>2009-2010</p></td>
 </tr>

@@ -115,7 +115,7 @@
   - [小笠原長行](../Page/小笠原長行.md "wikilink")：[若松武史](../Page/若松武史.md "wikilink")
   - [脇坂安宅](../Page/脇坂安宅.md "wikilink")：[佐々木功](../Page/ささきいさお.md "wikilink")
   - [堀田備中守正睦](../Page/堀田正睦.md "wikilink")：[有川博](../Page/有川博.md "wikilink")
-  - [間部詮勝](../Page/間部詮勝.md "wikilink")：[石井愃一](https://ja.wikipedia.org/wiki/石井愃一 "wikilink")
+  - [間部詮勝](../Page/間部詮勝.md "wikilink")：[石井愃一](../Page/石井愃一.md "wikilink")
   - [内藤信思](https://ja.wikipedia.org/wiki/内藤信思 "wikilink")：[真実一路](../Page/真実一路_\(俳優\).md "wikilink")
   - [松平乗全](../Page/松平乗全.md "wikilink")：[内山森彦](https://ja.wikipedia.org/wiki/内山森彦 "wikilink")
   - [松平宗秀](../Page/松平宗秀.md "wikilink")：[坂西良太](https://ja.wikipedia.org/wiki/坂西良太 "wikilink")
@@ -150,7 +150,7 @@
   - [島津久光](../Page/島津久光.md "wikilink")：[江守徹](../Page/江守徹.md "wikilink")
   - [酒井忠義](../Page/酒井忠義_\(若狭国小浜藩主\).md "wikilink")：[矢島健一](../Page/矢島健一.md "wikilink")
   - [立花種恭](../Page/立花種恭.md "wikilink")：[伊丹幸雄](../Page/伊丹幸雄.md "wikilink")
-  - [松前崇広](https://ja.wikipedia.org/wiki/松前崇広 "wikilink")：[山内としお](../Page/山内としお.md "wikilink")
+  - [松前崇広](../Page/松前崇広.md "wikilink")：[山内としお](../Page/山内としお.md "wikilink")
   - [毛利敬親](../Page/毛利敬親.md "wikilink")：[仲恭司](https://ja.wikipedia.org/wiki/仲恭司 "wikilink")
   - [毛利元徳](../Page/毛利元徳.md "wikilink")：[天間信紘](https://ja.wikipedia.org/wiki/天間信紘 "wikilink")
   - [浅野長勲](../Page/浅野長勲.md "wikilink")：[岸本光正](https://ja.wikipedia.org/wiki/岸本光正 "wikilink")
@@ -217,7 +217,7 @@
   - [佐久間象山](https://ja.wikipedia.org/wiki/佐久間象山 "wikilink")：[秋間登](../Page/秋間登.md "wikilink")
   - [真木和泉](../Page/真木保臣.md "wikilink")：[山口嘉三](https://ja.wikipedia.org/wiki/山口嘉三 "wikilink")
   - [鈴木石見守](https://ja.wikipedia.org/wiki/鈴木重棟 "wikilink")：[頭師孝雄](../Page/頭師孝雄.md "wikilink")
-  - [田丸稲之衛門](../Page/田丸稲之衛門.md "wikilink")：[田口計](https://ja.wikipedia.org/wiki/田口計 "wikilink")
+  - [田丸稲之衛門](../Page/田丸稲之衛門.md "wikilink")：[田口計](../Page/田口計.md "wikilink")
 
 ### 皇室・公家
 
@@ -242,7 +242,7 @@
   - [三条実美](../Page/三条実美.md "wikilink")：[宇津木真](https://ja.wikipedia.org/wiki/宇津木真 "wikilink")
       -
         政争に敗れ、一時は長州へ追われたが復権を果たし、明治政府では[太政大臣](../Page/太政大臣.md "wikilink")となる。
-  - [中山忠能](../Page/中山忠能.md "wikilink")：[真夏竜](https://ja.wikipedia.org/wiki/真夏竜 "wikilink")
+  - [中山忠能](../Page/中山忠能.md "wikilink")：[真夏竜](../Page/真夏竜.md "wikilink")
   - [近衛忠房](../Page/近衛忠房.md "wikilink")：[渡辺規生](https://ja.wikipedia.org/wiki/渡辺規生 "wikilink")→[小倉雄三](https://ja.wikipedia.org/wiki/小倉雄三 "wikilink")
   - [島田左近](../Page/島田正辰.md "wikilink")：[竹本孝之](../Page/竹本孝之.md "wikilink")
   - [二条斉敬](../Page/二条斉敬.md "wikilink")：[小林勝也](../Page/小林勝也.md "wikilink")
@@ -296,7 +296,7 @@
         新三郎の恋人。新三郎とは、橋で佇んでいたところ知り合う。重吉の妾だったが、暴力を振るわれているところを新三郎に救われ、彼と運命を共にする。その後、新三郎の子を産むも、嫉妬にかられたたみにより赤子を奪われてしまう。
         新三郎が死亡すると後を追おうとするが、たみに阻止される。
         のちに、たみと呑み屋を営むようになる。
-  - 松島：[岸田今日子](https://ja.wikipedia.org/wiki/岸田今日子 "wikilink")
+  - 松島：[岸田今日子](../Page/岸田今日子.md "wikilink")
       -
         慶喜付きの老女。毒舌家で、しばしば直子や美賀に意地悪をする。
   - 永原帯刀：[佐藤慶](../Page/佐藤慶.md "wikilink")

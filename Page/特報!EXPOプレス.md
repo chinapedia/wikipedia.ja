@@ -1,7 +1,7 @@
 > この記事は[!EXPO](https://ja.wikipedia.org/wiki/!EXPO)から翻訳されています。
 
 
-『**特報\!EXPOプレス**』（とくほう エキスポプレス）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月21日](../Page/3月21日.md "wikilink")から同年[9月23日](../Page/9月23日.md "wikilink")まで[中京テレビで放送された](../Page/中京テレビ放送.md "wikilink")[愛知万博](../Page/2005年日本国際博覧会.md "wikilink")（愛・地球博）関連の[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。同博覧会[長久手会場からの](https://ja.wikipedia.org/wiki/長久手市 "wikilink")[生放送](../Page/生放送.md "wikilink")。
+『**特報\!EXPOプレス**』（とくほう エキスポプレス）は、[2005年](../Page/2005年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")から同年[9月23日](../Page/9月23日.md "wikilink")まで[中京テレビで放送された](../Page/中京テレビ放送.md "wikilink")[愛知万博](../Page/2005年日本国際博覧会.md "wikilink")（愛・地球博）関連の[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。同博覧会[長久手会場からの](https://ja.wikipedia.org/wiki/長久手市 "wikilink")[生放送](../Page/生放送.md "wikilink")。
 
 ## 概要
 
@@ -20,7 +20,7 @@
 
 ### メインキャスター
 
-  - [神ひろし](https://ja.wikipedia.org/wiki/神ひろし "wikilink")（当時中京テレビアナウンサー） - 月曜担当。
+  - [神ひろし](../Page/神ひろし.md "wikilink")（当時中京テレビアナウンサー） - 月曜担当。
   - [藤井利彦](../Page/藤井利彦.md "wikilink")（中京テレビアナウンサー） - 火曜担当。
   - [尾原秀三](../Page/尾原秀三.md "wikilink")（当時中京テレビアナウンサー） - 水曜担当。
   - [吉田太一](../Page/吉田太一.md "wikilink")（中京テレビアナウンサー） - 木曜担当。吉田が夏期休暇を取っている間は、[佐藤啓が代理でキャスターを務めていた](../Page/佐藤啓_\(アナウンサー\).md "wikilink")。
@@ -28,7 +28,7 @@
 
 ### サブキャスター
 
-  - [松岡陽子](https://ja.wikipedia.org/wiki/松岡陽子 "wikilink")（中京テレビアナウンサー） - 全日出演。
+  - [松岡陽子](../Page/松岡陽子.md "wikilink")（中京テレビアナウンサー） - 全日出演。
 
 ## 外部リンク
 

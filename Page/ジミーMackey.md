@@ -9,7 +9,7 @@
 
 1998年より2年間、ジェームス・マーティン名義でNHK教育『[天才てれびくん](https://ja.wikipedia.org/wiki/天才てれびくん "wikilink")シリーズ』に[てれび戦士](https://ja.wikipedia.org/wiki/てれび戦士 "wikilink")として出演。
 
-2000年3月にジャニーズ事務所に入所\[5\]。[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")のメンバーで構成されたバンド[FIVEのボーカルリストを務め](https://ja.wikipedia.org/wiki/FIVE_\(バンド\) "wikilink")、[2004年](../Page/2004年.md "wikilink")、初ライブを行った\[6\]。
+2000年3月にジャニーズ事務所に入所\[5\]。[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")のメンバーで構成されたバンド[FIVEのボーカルリストを務め](../Page/FIVE_\(バンド\).md "wikilink")、[2004年](../Page/2004年.md "wikilink")、初ライブを行った\[6\]。
 
 高校は東京都内のインターナショナル・スクールを卒業後、2005年9月に[早稲田大学国際教養学部](https://ja.wikipedia.org/wiki/早稲田大学国際教養学部 "wikilink")に入学\[7\]、大学入学後に芸能界を引退\[8\]。
 
@@ -19,12 +19,12 @@
 
 ### バラエティ
 
-  - [天才てれびくん](https://ja.wikipedia.org/wiki/天才てれびくん "wikilink")（1998年 - 1999年、[NHK教育](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")） - てれび戦士
+  - [天才てれびくん](https://ja.wikipedia.org/wiki/天才てれびくん "wikilink")（1998年 - 1999年、[NHK教育](../Page/NHK教育テレビジョン.md "wikilink")） - てれび戦士
   - [天才てれびくん](https://ja.wikipedia.org/wiki/天才てれびくん "wikilink")ワイド（1999年 - 2000年、NHK教育） - てれび戦士
   - [ザ少年倶楽部](../Page/ザ少年倶楽部.md "wikilink")（2000年 - 2006年、[NHKBS2](../Page/NHK衛星第2テレビジョン.md "wikilink")・[BShi](../Page/NHKデジタル衛星ハイビジョン.md "wikilink")）\[11\]
   - [ガキバラ帝国2000\!](../Page/ガキバラ帝国2000!.md "wikilink")（2000年 - 2001年、[TBS](../Page/TBSテレビ.md "wikilink")）
   - [USO\!?ジャパン](../Page/USO!?ジャパン.md "wikilink")（2001年 - 2003年、TBS）
-  - [裸の少年](https://ja.wikipedia.org/wiki/裸の少年 "wikilink")（2001年 - 2006年、[テレビ朝日](../Page/テレビ朝日.md "wikilink")）\[12\]
+  - [裸の少年](../Page/裸の少年.md "wikilink")（2001年 - 2006年、[テレビ朝日](../Page/テレビ朝日.md "wikilink")）\[12\]
 
 ### テレビドラマ
 
@@ -32,7 +32,7 @@
 
 ### コンサート
 
-  - 「[FIVE](https://ja.wikipedia.org/wiki/FIVE_\(バンド\) "wikilink")&ジミーMackey」単独ライブ
+  - 「[FIVE](../Page/FIVE_\(バンド\).md "wikilink")&ジミーMackey」単独ライブ
       - 2004年8月12日、SHIBUYA AX
       - 2005年9月2日\[13\]、品川プリンスホテル ステラボール
 

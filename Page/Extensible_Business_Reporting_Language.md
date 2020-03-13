@@ -5,9 +5,9 @@
 
 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に[米国の](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[米国公認会計士協会](https://ja.wikipedia.org/wiki/米国公認会計士協会 "wikilink")(AICPA)の支持で**XBRL** 1.0が作られて、世界的に普及を始めたことが始まりである。
 
-[国内では](https://ja.wikipedia.org/wiki/日本 "wikilink")[日本公認会計士協会](../Page/日本公認会計士協会.md "wikilink")(JICPA)等が中心となって設立した[XBRL Japanが作成](https://ja.wikipedia.org/wiki/XBRL_Japan "wikilink")・普及・啓蒙活動を行っており、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月20日](../Page/7月20日.md "wikilink")に[JIS](https://ja.wikipedia.org/wiki/日本工業規格 "wikilink")(JIS X 7206)化された。
+[国内では](https://ja.wikipedia.org/wiki/日本 "wikilink")[日本公認会計士協会](../Page/日本公認会計士協会.md "wikilink")(JICPA)等が中心となって設立した[XBRL Japanが作成](https://ja.wikipedia.org/wiki/XBRL_Japan "wikilink")・普及・啓蒙活動を行っており、[2005年](../Page/2005年.md "wikilink")[7月20日](../Page/7月20日.md "wikilink")に[JIS](https://ja.wikipedia.org/wiki/日本工業規格 "wikilink")(JIS X 7206)化された。
 
-**XBRL**はレポートの項目・科目そのものと項目・科目間の[関係を](https://ja.wikipedia.org/wiki/関係_\(データベース\) "wikilink")[定義](https://ja.wikipedia.org/wiki/定義 "wikilink")した[語彙](https://ja.wikipedia.org/wiki/語彙 "wikilink")[辞書である](../Page/辞典.md "wikilink")[タクソノミーと実際の](../Page/分類学.md "wikilink")[値の](../Page/値_\(情報工学\).md "wikilink")[集合](../Page/集合.md "wikilink")である[インスタンス](../Page/インスタンス.md "wikilink")の3要素から構成される。
+**XBRL**はレポートの項目・科目そのものと項目・科目間の[関係を](https://ja.wikipedia.org/wiki/関係_\(データベース\) "wikilink")[定義](https://ja.wikipedia.org/wiki/定義 "wikilink")した[語彙](../Page/語彙.md "wikilink")[辞書である](../Page/辞典.md "wikilink")[タクソノミーと実際の](../Page/分類学.md "wikilink")[値の](../Page/値_\(情報工学\).md "wikilink")[集合](../Page/集合.md "wikilink")である[インスタンス](../Page/インスタンス.md "wikilink")の3要素から構成される。
 
 ## 仕様
 

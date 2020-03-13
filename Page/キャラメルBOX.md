@@ -1,7 +1,7 @@
 > この記事は[BOX](https://ja.wikipedia.org/wiki/BOX)から翻訳されています。
 
 
-**キャラメルBOX**（**キャラメルぼっくす**）は、[ホビボックス](https://ja.wikipedia.org/wiki/ホビボックス "wikilink")株式会社の[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ブランド。現在、[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[神田小川町](../Page/神田小川町.md "wikilink")のホビボックス内に拠点を置いている\[1\]。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）1月に[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[東神田](https://ja.wikipedia.org/wiki/東神田 "wikilink")より移転した。もともとは株式会社[姫屋ソフト](../Page/姫屋ソフト.md "wikilink")のブランドだったが、移転時にホビボックスに移管されている。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）には新チーム「キャラメルBOX○○味」が結成された。同チームは「いちご味」としての「とっぱら〜ざしきわらしのはなし〜」が担当第1作となる。
+**キャラメルBOX**（**キャラメルぼっくす**）は、[ホビボックス](../Page/ホビボックス.md "wikilink")株式会社の[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ブランド。現在、[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[神田小川町](../Page/神田小川町.md "wikilink")のホビボックス内に拠点を置いている\[1\]。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）1月に[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[東神田](https://ja.wikipedia.org/wiki/東神田 "wikilink")より移転した。もともとは株式会社[姫屋ソフト](../Page/姫屋ソフト.md "wikilink")のブランドだったが、移転時にホビボックスに移管されている。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）には新チーム「キャラメルBOX○○味」が結成された。同チームは「いちご味」としての「とっぱら〜ざしきわらしのはなし〜」が担当第1作となる。
 
 ## 発売ゲーム一覧
 
@@ -12,10 +12,10 @@
   - [2003年](../Page/2003年.md "wikilink")（平成15年）9月26日 - エモーショナルノベル 「[めぐり、ひとひら。](../Page/めぐり、ひとひら。.md "wikilink")」 （初回版）
   - [2004年](../Page/2004年.md "wikilink")（平成16年）5月28日 - ピュアアドベンチャー 「[シャマナシャマナ 〜月とこころと太陽の魔法〜](../Page/シャマナシャマナ_〜月とこころと太陽の魔法〜.md "wikilink")」 （通常版）
   - [2004年](../Page/2004年.md "wikilink")（平成16年）10月29日 - 「めぐり、ひとひら。」 （廉価版）
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）1月28日 - 女装潜入ロマンティックラブコメディ 「[処女はお姉さまに恋してる](../Page/処女はお姉さまに恋してる.md "wikilink")」 （初回版）
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）2月18日 - 「処女はお姉さまに恋してる」 （通常版）
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）6月24日 - ファンディスク 「[キャラメルBOX やるきばこ](../Page/キャラメルBOX_やるきばこ.md "wikilink")」 （初回版）
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）12月22日 - シネマティクアドベンチャー 「[あえかなる世界の終わりに](https://ja.wikipedia.org/wiki/あえかなる世界の終わりに "wikilink")」 （初回版・通常版）
+  - [2005年](../Page/2005年.md "wikilink")（平成17年）1月28日 - 女装潜入ロマンティックラブコメディ 「[処女はお姉さまに恋してる](../Page/処女はお姉さまに恋してる.md "wikilink")」 （初回版）
+  - [2005年](../Page/2005年.md "wikilink")（平成17年）2月18日 - 「処女はお姉さまに恋してる」 （通常版）
+  - [2005年](../Page/2005年.md "wikilink")（平成17年）6月24日 - ファンディスク 「[キャラメルBOX やるきばこ](../Page/キャラメルBOX_やるきばこ.md "wikilink")」 （初回版）
+  - [2005年](../Page/2005年.md "wikilink")（平成17年）12月22日 - シネマティクアドベンチャー 「[あえかなる世界の終わりに](https://ja.wikipedia.org/wiki/あえかなる世界の終わりに "wikilink")」 （初回版・通常版）
   - [2006年](../Page/2006年.md "wikilink")（平成18年）3月17日 - 「シャマナシャマナ 〜月とこころと太陽の魔法〜」 （リパッケージ版）
   - [2006年](../Page/2006年.md "wikilink")（平成18年）4月28日 - 「処女はお姉さまに恋してる」 （DVDフルボイスパッケージ）
   - [2006年](../Page/2006年.md "wikilink")（平成18年）10月27日 - 少女剣劇・救世虚構恋愛奇譚 「[終末少女幻想アリスマチック](../Page/終末少女幻想アリスマチック.md "wikilink")」 （初回版）
@@ -117,7 +117,7 @@
 
   - [姫屋ソフト](../Page/姫屋ソフト.md "wikilink")：元々のブランドホルダー。「キャラメルBOX」ブランドは[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）1月にホビボックスへ移管された。
   - [シーズウェア](../Page/シーズウェア.md "wikilink")：姫屋ソフトの別ブランド。キャラメルBOXのソフトリリース開始とほぼ同時期に活動を停止している。
-  - [ホビボックス](https://ja.wikipedia.org/wiki/ホビボックス "wikilink")：ブランドホルダー兼販売委託先。作品の[著作権](../Page/著作権.md "wikilink")を共同所有する。
+  - [ホビボックス](../Page/ホビボックス.md "wikilink")：ブランドホルダー兼販売委託先。作品の[著作権](../Page/著作権.md "wikilink")を共同所有する。
   - [ニトロプラス](../Page/ニトロプラス.md "wikilink")：開発の一部をニトロプラスに外注していた期間があった。
   - [Meteor](../Page/Meteor.md "wikilink")：きゃらスタオンラインのインフォメーションにて新作の広告が流された。
   - [Comet](https://ja.wikipedia.org/wiki/Comet_\(ブランド\) "wikilink")：一部作品にて、所属スタッフが制作に参加している。

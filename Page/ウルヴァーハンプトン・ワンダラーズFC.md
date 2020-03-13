@@ -149,7 +149,7 @@
 </tr>
 <tr class="odd">
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レッドスター・ベオグラード" title="wikilink">ツルヴェナ・ズヴェズダ</a></p></td>
+<td><p><a href="../Page/レッドスター・ベオグラード.md" title="wikilink">ツルヴェナ・ズヴェズダ</a></p></td>
 <td><p>3-0</p></td>
 <td><p>1-1</p></td>
 <td><p>'''4-1</p></td>
@@ -452,7 +452,7 @@
 
   - [グレン・ホドル](../Page/グレン・ホドル.md "wikilink") 2004.12 - 2006.7
 
-  - [ミック・マッカーシー](https://ja.wikipedia.org/wiki/ミック・マッカーシー "wikilink") 2006.7 - 2012.2
+  - [ミック・マッカーシー](../Page/ミック・マッカーシー.md "wikilink") 2006.7 - 2012.2
 
   - [テリー・コナー](https://ja.wikipedia.org/wiki/テリー・コナー "wikilink") 2012.2 - 2012.5
 

@@ -54,7 +54,7 @@
   - [UMKスーパータイム](../Page/UMKスーパータイム.md "wikilink")
   - [UMKニュース ザ・ヒューマン](../Page/FNNニュース555_ザ・ヒューマン.md "wikilink")
   - [UMK奥さまニュース FNN](https://ja.wikipedia.org/wiki/UMK奥さまニュース_FNN "wikilink") - 『FNN奥さまニュース』のタイトル差し替え。
-  - [UMKニュースアタック](https://ja.wikipedia.org/wiki/UMKニュースアタック "wikilink") - 『[ショットガン](https://ja.wikipedia.org/wiki/ショットガン_\(ニュース\) "wikilink")』のタイトル差し替え。
+  - [UMKニュースアタック](https://ja.wikipedia.org/wiki/UMKニュースアタック "wikilink") - 『[ショットガン](../Page/ショットガン_\(ニュース\).md "wikilink")』のタイトル差し替え。
 
 ## 全国ニュース
 

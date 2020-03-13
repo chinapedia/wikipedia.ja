@@ -7,17 +7,17 @@
 
 [1991年](../Page/1991年.md "wikilink")、[北アメリカ](../Page/北アメリカ.md "wikilink")において発売された[クーペ](../Page/クーペ.md "wikilink")が初代モデルであり、[2001年](../Page/2001年.md "wikilink")に発売された2代目モデルは[コンバーチブル](https://ja.wikipedia.org/wiki/コンバーチブル "wikilink")仕様となった。
 
-いずれのモデルも日本ではトヨタブランド（[トヨタ店](../Page/トヨタ店.md "wikilink")・[トヨペット店](../Page/トヨペット店.md "wikilink")）から「**[トヨタ・ソアラ](../Page/トヨタ・ソアラ.md "wikilink")**」の3代目、4代目モデルとして販売され、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")8月のレクサス国内開業時に日本でも「レクサス・SC」に車名が変更された。
+いずれのモデルも日本ではトヨタブランド（[トヨタ店](../Page/トヨタ店.md "wikilink")・[トヨペット店](../Page/トヨペット店.md "wikilink")）から「**[トヨタ・ソアラ](../Page/トヨタ・ソアラ.md "wikilink")**」の3代目、4代目モデルとして販売され、[2005年](../Page/2005年.md "wikilink")8月のレクサス国内開業時に日本でも「レクサス・SC」に車名が変更された。
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")7月末をもって生産終了となり、後継モデルの有無について現時点でレクサスから公式の発表はない\[1\]。
 
 ## 初代（1991年 - 2001年）
 
-[1989年](../Page/1989年.md "wikilink")に北米で開業した[レクサス](../Page/レクサス.md "wikilink")ブランドで初めてのクーペとして開発され、[1991年](../Page/1991年.md "wikilink")に「SC400」（[LS400と同じ](../Page/レクサス・LS.md "wikilink")4.0L [V型8気筒](../Page/V型8気筒.md "wikilink")[1UZ-FE型エンジンを搭載](https://ja.wikipedia.org/wiki/トヨタ・UZエンジン "wikilink")）、[1992年](../Page/1992年.md "wikilink")に「SC300」（[GS300と同じ](../Page/レクサス・GS.md "wikilink")3.0L [直列6気筒](../Page/直列6気筒.md "wikilink")[2JZ-GE型エンジンを搭載](../Page/トヨタ・JZエンジン.md "wikilink")）が、それぞれ発売された。デザインは[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")のデザインセンター「[CALTY](https://ja.wikipedia.org/wiki/CALTY "wikilink")」によるもの。
+[1989年](../Page/1989年.md "wikilink")に北米で開業した[レクサス](../Page/レクサス.md "wikilink")ブランドで初めてのクーペとして開発され、[1991年](../Page/1991年.md "wikilink")に「SC400」（[LS400と同じ](../Page/レクサス・LS.md "wikilink")4.0L [V型8気筒](../Page/V型8気筒.md "wikilink")[1UZ-FE型エンジンを搭載](../Page/トヨタ・UZエンジン.md "wikilink")）、[1992年](../Page/1992年.md "wikilink")に「SC300」（[GS300と同じ](../Page/レクサス・GS.md "wikilink")3.0L [直列6気筒](../Page/直列6気筒.md "wikilink")[2JZ-GE型エンジンを搭載](../Page/トヨタ・JZエンジン.md "wikilink")）が、それぞれ発売された。デザインは[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")のデザインセンター「[CALTY](https://ja.wikipedia.org/wiki/CALTY "wikilink")」によるもの。
 
 北米市場での評価は極めて高く、1992年に[モータトレンド](https://ja.wikipedia.org/wiki/w:motor_trend "wikilink")（Motor Trend）誌主催の「[インポートカー・オブ・ザ・イヤー](https://ja.wikipedia.org/wiki/w:Motor_Trend_Car_of_the_Year "wikilink")」を受賞、[カーアンドドライバー](https://ja.wikipedia.org/wiki/w:Car_and_Driver "wikilink")（Car and Driver）誌の「[テン・ベストカー](https://ja.wikipedia.org/wiki/w:Car_and_Driver_Ten_Best "wikilink")」に1992年から4年連続で選出された。これにより日本では1992年（平成4年）[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")に2.5GTツインターボをベースとした特別仕様車『米国カーオブザイヤー受賞記念車』が発売された。
 
-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、エンジンに可変式バルブ（[VVT-i](https://ja.wikipedia.org/wiki/VVT-i "wikilink")）を搭載。「SC400」に5速[ATが採用され](../Page/オートマチックトランスミッション.md "wikilink")、「SC300」の5速[MTモデルは廃止された](../Page/マニュアルトランスミッション.md "wikilink")。 {{-}}
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、エンジンに可変式バルブ（[VVT-i](../Page/VVT-i.md "wikilink")）を搭載。「SC400」に5速[ATが採用され](../Page/オートマチックトランスミッション.md "wikilink")、「SC300」の5速[MTモデルは廃止された](../Page/マニュアルトランスミッション.md "wikilink")。 {{-}}
 
 ## 2代目 （2001年 - 2010年）
 
@@ -28,7 +28,7 @@
 初代とは異なり、デザインは欧州と日本で行われている（初代[ヴィッツのエクステリアデザインを手がけたソティリス](../Page/トヨタ・ヴィッツ.md "wikilink")・コヴォスの原案をもとにデザインされた）。乗車定員は4名であるが、多くの高級オープンカー同様に後部座席は狭小であり着座には適さない。ラゲージスペースはルーフオープン状態でも、ゴルフバック一個を収めることができる\[2\]。
 
 自動開閉式のハードトップは、当時、世界初となるすべての駆動を電気モーターによって行うタイプで、小型モーターを10個搭載している。
-自動開閉のルーフという複雑な機構を持つ一方で、性能・品質面での信頼性も確保しており、市場調査会社[JDパワー](../Page/JDパワー.md "wikilink")による米国自動車初期品質調査（IQS)では、[2004年](../Page/2004年.md "wikilink")、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")と[2006年](../Page/2006年.md "wikilink")にプレミアム・スポーティー部門の第1位を獲得しているほか\[3\]\[4\]\[5\]、米国自動車耐久品質調査（VDS）では、2006年、[2007年](../Page/2007年.md "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")と[2009年](../Page/2009年.md "wikilink")にプレミアム・スポーティー部門の第1位を獲得している\[6\]\[7\]\[8\]\[9\]。
+自動開閉のルーフという複雑な機構を持つ一方で、性能・品質面での信頼性も確保しており、市場調査会社[JDパワー](../Page/JDパワー.md "wikilink")による米国自動車初期品質調査（IQS)では、[2004年](../Page/2004年.md "wikilink")、[2005年](../Page/2005年.md "wikilink")と[2006年](../Page/2006年.md "wikilink")にプレミアム・スポーティー部門の第1位を獲得しているほか\[3\]\[4\]\[5\]、米国自動車耐久品質調査（VDS）では、2006年、[2007年](../Page/2007年.md "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")と[2009年](../Page/2009年.md "wikilink")にプレミアム・スポーティー部門の第1位を獲得している\[6\]\[7\]\[8\]\[9\]。
 
 ### 日本での販売
 

@@ -43,12 +43,12 @@
 
 ユーロ NCAPでは、サイズごとに[カテゴリ](../Page/カテゴリ.md "wikilink")ー分けをされている。
 
-  - スーパーミニ(例：[フォード・フィエスタ](https://ja.wikipedia.org/wiki/フォード・フィエスタ "wikilink")、[ホンダ・ジャズ](../Page/ホンダ・フィット.md "wikilink")、[キア・リオ](../Page/キア・リオ.md "wikilink")、[日産・ジューク](https://ja.wikipedia.org/wiki/日産・ジューク "wikilink"))
+  - スーパーミニ(例：[フォード・フィエスタ](../Page/フォード・フィエスタ.md "wikilink")、[ホンダ・ジャズ](../Page/ホンダ・フィット.md "wikilink")、[キア・リオ](../Page/キア・リオ.md "wikilink")、[日産・ジューク](https://ja.wikipedia.org/wiki/日産・ジューク "wikilink"))
   - スモールファミリーカー(例：[ヒュンダイ・i30](https://ja.wikipedia.org/wiki/ヒュンダイ・i30 "wikilink")、[ホンダ・CR-Z](../Page/ホンダ・CR-Z.md "wikilink")、[三菱・ランサー](../Page/三菱・ランサー.md "wikilink")、[BMW・3シリーズ](../Page/BMW・3シリーズ.md "wikilink"))
   - ラージファミリーカー(例：[トヨタ・アベンシス](https://ja.wikipedia.org/wiki/トヨタ・アベンシス "wikilink")、[ヒュンダイ・i40](https://ja.wikipedia.org/wiki/ヒュンダイ・i40 "wikilink")、[フォルクスワーゲン・パサート](../Page/フォルクスワーゲン・パサート.md "wikilink"),[スバル・レガシィ](../Page/スバル・レガシィ.md "wikilink"))
   - エグゼクティブカー（全長4.8メートル以上の車種　例：[メルセデス・ベンツ・Eクラス](../Page/メルセデス・ベンツ・Eクラス.md "wikilink")、[アウディ・A6](../Page/アウディ・A6.md "wikilink")[、BMW・5シリーズ](../Page/BMW・5シリーズ.md "wikilink")）
   - ロードスター(例：[マツダ・MX-5](../Page/マツダ・ロードスター.md "wikilink")、[ホンダ・S2000](../Page/ホンダ・S2000.md "wikilink")、[BMW・Z4](../Page/BMW・Z4.md "wikilink"))
-  - スモールオフロード4x4 （北米でのクロスオーバーSUVカテゴリー　例：[マツダ・CX-5](https://ja.wikipedia.org/wiki/マツダ・CX-5 "wikilink")、[ヒュンダイ・ix35](../Page/ヒュンダイ・ツーソン.md "wikilink")、[三菱・アウトランダー](https://ja.wikipedia.org/wiki/三菱・アウトランダー "wikilink")）
+  - スモールオフロード4x4 （北米でのクロスオーバーSUVカテゴリー　例：[マツダ・CX-5](https://ja.wikipedia.org/wiki/マツダ・CX-5 "wikilink")、[ヒュンダイ・ix35](../Page/ヒュンダイ・ツーソン.md "wikilink")、[三菱・アウトランダー](../Page/三菱・アウトランダー.md "wikilink")）
   - ラージオフロード4x4 （北米でのクロスオーバーSUVカテゴリー 例：[ヒュンダイ・サンタフェ](../Page/ヒュンダイ・サンタフェ.md "wikilink")、[ランドローバー・レンジローバー](../Page/ランドローバー・レンジローバー.md "wikilink")、[ジープ・グランドチェロキー](https://ja.wikipedia.org/wiki/ジープ・グランドチェロキー "wikilink")）
   - スモールMPV(例：[シトロエン・C4ピカソ](../Page/シトロエン・C4ピカソ.md "wikilink")、[キア・ヴェンガ](https://ja.wikipedia.org/wiki/キア・ヴェンガ "wikilink")、[トヨタ・アーバンクルーザー](https://ja.wikipedia.org/wiki/トヨタ・イスト "wikilink")、[日産・キューブ](../Page/日産・キューブ.md "wikilink"))
   - ラージMPV(例：[フォルクスワーゲン・シャラン](../Page/フォルクスワーゲン・シャラン.md "wikilink")、[クライスラー・ボイジャー](https://ja.wikipedia.org/wiki/クライスラー・ボイジャー "wikilink"))

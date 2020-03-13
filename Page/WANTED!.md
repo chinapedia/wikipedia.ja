@@ -1,13 +1,13 @@
 > この記事は[WANTED!](https://ja.wikipedia.org/wiki/WANTED!)から翻訳されています。
 
 
-『**WANTED\!**』（ウォンテッド\!）は、[TOKYO FMを](../Page/エフエム東京.md "wikilink")[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")に[JFN系列で](https://ja.wikipedia.org/wiki/JAPAN_FM_NETWORK "wikilink")[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
+『**WANTED\!**』（ウォンテッド\!）は、[TOKYO FMを](../Page/エフエム東京.md "wikilink")[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")に[JFN系列で](https://ja.wikipedia.org/wiki/JAPAN_FM_NETWORK "wikilink")[2005年](../Page/2005年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
 
 なお、[2007年](../Page/2007年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")以降は月 - 金で『[DAY BREAK](../Page/DAY_BREAK_\(ラジオ番組\).md "wikilink")』（金曜は『DAY BREAK FRIDAY』）が放送されている。
 
 ## 番組概要
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に、それまで放送されていた『[BPR5000](../Page/BPR5000.md "wikilink")』（月曜日 - 水曜日）と『[しんドル](../Page/しんドル.md "wikilink")』（木曜日）の後番組としてスタートした。
+  - [2005年](../Page/2005年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に、それまで放送されていた『[BPR5000](../Page/BPR5000.md "wikilink")』（月曜日 - 水曜日）と『[しんドル](../Page/しんドル.md "wikilink")』（木曜日）の後番組としてスタートした。
   - コンセプトは「男のための、遊びの総合案内所」である。
   - 基本的に生放送であるが、パーソナリティのスケジュールの都合で収録の週もある。水曜日は2005年10月から2006年3月まで収録だった。
 
@@ -39,7 +39,7 @@
 
   - まーたん（番組放送作家の[結城雅美](https://ja.wikipedia.org/wiki/結城雅美 "wikilink") ※通称『[バブル時代](../Page/バブル時代.md "wikilink")のファッションリーダー』や『赤ペン』、『デビルまさみ』等と呼ばれている）
 
-**旧月曜パーソナリティ**（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月26日](../Page/9月26日.md "wikilink")まで）
+**旧月曜パーソナリティ**（[2005年](../Page/2005年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")まで）
 
   - [李闘士男](../Page/李闘士男.md "wikilink")
   - [大網亜矢乃](../Page/亜矢乃.md "wikilink")
@@ -82,7 +82,7 @@
 
 ### 木曜日
 
-  - [城咲仁](https://ja.wikipedia.org/wiki/城咲仁 "wikilink")
+  - [城咲仁](../Page/城咲仁.md "wikilink")
   - [猫ひろし](../Page/猫ひろし.md "wikilink")
 
 <!-- end list -->

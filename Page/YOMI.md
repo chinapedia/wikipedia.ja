@@ -9,7 +9,7 @@
 
 初めて[バンドを組んだのは高校](../Page/バンド_\(音楽\).md "wikilink")2年の頃で、TEARLESS DIEというバンド名で活動開始。LUNA SEA、X、[Laputa](../Page/Laputa.md "wikilink")、[ROUAGE](../Page/ROUAGE.md "wikilink")、[La'cryma Christiなどのコピーの他](../Page/La'cryma_Christi.md "wikilink")、オリジナルも数曲やっていた。YOMIという名前はこの頃に付けられ、「[黄泉](../Page/黄泉.md "wikilink")の国」に由来する"黄泉"という漢字表記を使用していた。高校3年から卒業にかけて周りがバンドを諦めて行く中、バンドを続けたいのに辞めて行った人達の思いと、LUNA SEAやXに近づきたいという気持ちから自身はヴォーカリストの道を歩み、知り合いだった[柩に誘われバンドを組むことになる](../Page/柩_\(ミュージシャン\).md "wikilink")。
 
-[2000年](../Page/2000年.md "wikilink")元旦、[ナイトメアを結成](../Page/ナイトメア_\(バンド\).md "wikilink")\[1\]。同年春に初ライヴながら70〜80人を動員し、月1回のペースで[仙台市](../Page/仙台市.md "wikilink")でライヴを行うようになる。その後、[RUKA](https://ja.wikipedia.org/wiki/RUKA "wikilink")の加入によって行動範囲が広がり[東京](../Page/東京.md "wikilink")へ進出。[SPEED DISKからCDをリリースする際](../Page/高田馬場AREA.md "wikilink")、漢字表記の"黄泉"よりもイメージが広がると考え、名前を"YOMI"の表記とした。インディーズで活躍した後、[2003年](../Page/2003年.md "wikilink")8月に[日本クラウン](../Page/日本クラウン.md "wikilink")からメジャーデビューを果たした。
+[2000年](../Page/2000年.md "wikilink")元旦、[ナイトメアを結成](../Page/ナイトメア_\(バンド\).md "wikilink")\[1\]。同年春に初ライヴながら70〜80人を動員し、月1回のペースで[仙台市](../Page/仙台市.md "wikilink")でライヴを行うようになる。その後、[RUKA](../Page/RUKA.md "wikilink")の加入によって行動範囲が広がり[東京](../Page/東京.md "wikilink")へ進出。[SPEED DISKからCDをリリースする際](../Page/高田馬場AREA.md "wikilink")、漢字表記の"黄泉"よりもイメージが広がると考え、名前を"YOMI"の表記とした。インディーズで活躍した後、[2003年](../Page/2003年.md "wikilink")8月に[日本クラウン](../Page/日本クラウン.md "wikilink")からメジャーデビューを果たした。
 
 ## 人物
 

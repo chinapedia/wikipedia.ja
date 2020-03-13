@@ -43,7 +43,7 @@ IEEE 802.1Xを使った認証システムは、以下のものから構成され
   - EAP-MD5
     EAP-MD5（EAP-Message digest algorithm 5）はIDとパスワードで認証する方式。パスワードはチャレンジ＆レスポンス方式で暗号化されて送信される。無線LANでは安全ではない。
   - EAP-TLS
-    EAP-TLS（EAP-Transport layer security）はデジタル電子証明書を使って認証する方式。IDやパスワードは使用されない。[スマートカードやUSBキー](../Page/ICカード.md "wikilink")（[ドングル](https://ja.wikipedia.org/wiki/ドングル "wikilink")）と組み合わせて使用されることが多い。無線LANでもほぼ安全。
+    EAP-TLS（EAP-Transport layer security）はデジタル電子証明書を使って認証する方式。IDやパスワードは使用されない。[スマートカードやUSBキー](../Page/ICカード.md "wikilink")（[ドングル](../Page/ドングル.md "wikilink")）と組み合わせて使用されることが多い。無線LANでもほぼ安全。
   - PEAP
     PEAP（Protected EAP）は米[マイクロソフト](../Page/マイクロソフト.md "wikilink")社が開発したEAP規格でIDとパスワードで認証する方式。[SSL](https://ja.wikipedia.org/wiki/Secure_Sockets_Layer "wikilink")（Secure Sockets Layer）と同じ暗号化技術によって認証通信全体が暗号化されている。暗号化のために認証サーバにデジタル電子証明書が必要。無線LANでもほぼ安全。
   - LEAP

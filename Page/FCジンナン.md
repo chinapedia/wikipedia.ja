@@ -1,7 +1,7 @@
 > この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
 
 
-**FCジンナン**（エフシージンナン）は、[1972年](../Page/1972年.md "wikilink")に誕生した日本の[女子サッカー](../Page/女子サッカー.md "wikilink")で初のクラブチーム。東京都リーグの強豪チームで多くの代表選手を輩出したが、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に[日産自動車](../Page/日産自動車.md "wikilink")をスポンサーとする「**[日産FCレディース](https://ja.wikipedia.org/wiki/日産FCレディース "wikilink")**」となり、発展的解消を遂げた。
+**FCジンナン**（エフシージンナン）は、[1972年](../Page/1972年.md "wikilink")に誕生した日本の[女子サッカー](../Page/女子サッカー.md "wikilink")で初のクラブチーム。東京都リーグの強豪チームで多くの代表選手を輩出したが、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に[日産自動車](../Page/日産自動車.md "wikilink")をスポンサーとする「**[日産FCレディース](../Page/日産FCレディース.md "wikilink")**」となり、発展的解消を遂げた。
 
 ## クラブの概要・歴史
 

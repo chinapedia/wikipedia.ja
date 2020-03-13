@@ -5,7 +5,7 @@
 
 ## 北海道
 
-  - [北海道コンサドーレ札幌の選手一覧](https://ja.wikipedia.org/wiki/北海道コンサドーレ札幌の選手一覧 "wikilink")
+  - [北海道コンサドーレ札幌の選手一覧](../Page/北海道コンサドーレ札幌の選手一覧.md "wikilink")
 
 ## 東北
 
@@ -28,7 +28,7 @@
   - [浦和レッドダイヤモンズの選手一覧](https://ja.wikipedia.org/wiki/浦和レッドダイヤモンズの選手一覧 "wikilink")
   - [大宮アルディージャの選手一覧](https://ja.wikipedia.org/wiki/大宮アルディージャの選手一覧 "wikilink")
   - [ジェフユナイテッド市原・千葉の選手一覧](https://ja.wikipedia.org/wiki/ジェフユナイテッド市原・千葉の選手一覧 "wikilink")
-  - [柏レイソルの選手一覧](https://ja.wikipedia.org/wiki/柏レイソルの選手一覧 "wikilink")
+  - [柏レイソルの選手一覧](../Page/柏レイソルの選手一覧.md "wikilink")
   - [FC東京の選手一覧](../Page/FC東京の選手一覧.md "wikilink")
   - [東京ヴェルディ1969の選手一覧](https://ja.wikipedia.org/wiki/東京ヴェルディ1969の選手一覧 "wikilink")
 
@@ -74,7 +74,7 @@
 
 <!-- end list -->
 
-  - [セレッソ大阪の選手一覧](https://ja.wikipedia.org/wiki/セレッソ大阪の選手一覧 "wikilink")
+  - [セレッソ大阪の選手一覧](../Page/セレッソ大阪の選手一覧.md "wikilink")
   - [ヴィッセル神戸の選手一覧](https://ja.wikipedia.org/wiki/ヴィッセル神戸の選手一覧 "wikilink")
 
 ## 中国

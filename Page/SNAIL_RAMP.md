@@ -9,7 +9,7 @@
 
 [1999年](../Page/1999年.md "wikilink")7月2日、シングル「[MIND YOUR STEP\!](https://ja.wikipedia.org/wiki/MIND_YOUR_STEP! "wikilink")」を発売。オリコン週間10位を記録。[2000年](../Page/2000年.md "wikilink")1月19日には、アルバム『[FRESH BRASH OLD MAN](https://ja.wikipedia.org/wiki/FRESH_BRASH_OLD_MAN "wikilink")』を発売。オリコン週間1位を記録し、[Hi-STANDARD](../Page/Hi-STANDARD.md "wikilink")等に続く日本の[メロコア](../Page/メロディック・ハードコア.md "wikilink")、[スカコア](../Page/スカコア.md "wikilink")・ムーブメントの一角として頭角を現した。
 
-[2002年](../Page/2002年.md "wikilink")1月16日、アルバム『GRAVITY』を発売。AKIOが全面的にボーカル・作曲を担当し、レゲエ等のそれまでに無かった音楽性が多く導入された。「[蛍の光](../Page/蛍の光.md "wikilink")」をカバーした「HOTARU NO HIKARI」では[AIRをフィーチャリング](../Page/車谷浩司.md "wikilink")。その後、GRAVITYツアーを行い、[氣志團](../Page/氣志團.md "wikilink")が前座を務めた。同年10月21日、AKIOが脱退。以降、長期活動休止となり個々のメンバーの活動が中心になっていたが、[2004年](../Page/2004年.md "wikilink")9月に活動再開。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")1月、TORUがサポートメンバーとして参加し、3月に正式メンバーとして加入。
+[2002年](../Page/2002年.md "wikilink")1月16日、アルバム『GRAVITY』を発売。AKIOが全面的にボーカル・作曲を担当し、レゲエ等のそれまでに無かった音楽性が多く導入された。「[蛍の光](../Page/蛍の光.md "wikilink")」をカバーした「HOTARU NO HIKARI」では[AIRをフィーチャリング](../Page/車谷浩司.md "wikilink")。その後、GRAVITYツアーを行い、[氣志團](../Page/氣志團.md "wikilink")が前座を務めた。同年10月21日、AKIOが脱退。以降、長期活動休止となり個々のメンバーの活動が中心になっていたが、[2004年](../Page/2004年.md "wikilink")9月に活動再開。[2005年](../Page/2005年.md "wikilink")1月、TORUがサポートメンバーとして参加し、3月に正式メンバーとして加入。
 
 以降、[2006年](../Page/2006年.md "wikilink")にアルバム『TV MONSTER』、[2007年](../Page/2007年.md "wikilink")にベスト・アルバム『SNAIL RAMP TRACK SINGLE COLLECTION & MORE』、[2009年](../Page/2009年.md "wikilink")にアルバム『SIX LOGIC』を発表。
 
@@ -39,7 +39,7 @@
 <!-- end list -->
 
   -
-    [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")、AKIO脱退後のヘルプメンバーとして加入し、3月に正式メンバーとして加入。
+    [2005年](../Page/2005年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")、AKIO脱退後のヘルプメンバーとして加入し、3月に正式メンバーとして加入。
     当初はギターのみであったが、加入後初のアルバム「TV MONSTER」以降はヴォーカルもつとめている。
     メンバーには「マツウラ」と名字で呼ばれている。猫好きだが、特に好きな猫の種類は無い。
 
@@ -557,12 +557,12 @@ WPC6-10229</p></td>
       - 2002年1月に@llnightnippon.comと[allnightnippon SUPER\!で特番を放送](https://ja.wikipedia.org/wiki/allnightnippon_SUPER! "wikilink")。前者は次にブレイクするインディーズバンドを特集する番組で、[MONGOL800](../Page/MONGOL800.md "wikilink")と[Bivattchee](../Page/Bivattchee.md "wikilink")がゲスト出演した。後者は「GRAVITY」発売を記念しての@llnightnippon.comの復活番組。
   - [Across The View](../Page/Across_The_View.md "wikilink") "ABENISTA FIRE"（[J-WAVE](../Page/J-WAVE.md "wikilink")）
       - メンバー全員出演（〜[2001年](../Page/2001年.md "wikilink")[9月](../Page/9月.md "wikilink")）
-  - [OH\! MY RADIO](https://ja.wikipedia.org/wiki/OH!_MY_RADIO "wikilink")（J-WAVE）
+  - [OH\! MY RADIO](../Page/OH!_MY_RADIO.md "wikilink")（J-WAVE）
       - メンバー全員出演（[2001年](../Page/2001年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")〜[2002年](../Page/2002年.md "wikilink")[9月](../Page/9月.md "wikilink")）
   - [オールナイトニッポンいいネ\!](../Page/オールナイトニッポンいいネ!.md "wikilink")（ニッポン放送）
       - TAKEMURAのみ出演（[2003年](../Page/2003年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")〜[2004年](../Page/2004年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")）
   - [TOMORROW](../Page/TOMORROW_\(ラジオ番組\).md "wikilink")（J-WAVE）
-      - TAKEMURAのみ出演。[エア・ギター](https://ja.wikipedia.org/wiki/エア・ギター "wikilink")の世界選手権で[フィンランド](../Page/フィンランド.md "wikilink")に行った[金剛地武志](../Page/金剛地武志.md "wikilink")のピンチヒッターとして[2006年](../Page/2006年.md "wikilink")[9月4日](../Page/9月4日.md "wikilink")から[9月7日](../Page/9月7日.md "wikilink")までナビゲーターを務めた。
+      - TAKEMURAのみ出演。[エア・ギター](../Page/エア・ギター.md "wikilink")の世界選手権で[フィンランド](../Page/フィンランド.md "wikilink")に行った[金剛地武志](../Page/金剛地武志.md "wikilink")のピンチヒッターとして[2006年](../Page/2006年.md "wikilink")[9月4日](../Page/9月4日.md "wikilink")から[9月7日](../Page/9月7日.md "wikilink")までナビゲーターを務めた。
   - [ニコラジ](https://ja.wikipedia.org/wiki/ニコラジ "wikilink")（[ニコニコ動画](../Page/ニコニコ動画.md "wikilink")）
       - TAKEMURAのみ出演（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")度金曜日マンスリーパーソナリティ）
       - 第3回放送で元[ジョビジョバ](../Page/ジョビジョバ.md "wikilink")の[木下明水](../Page/木下明水.md "wikilink")が電話出演した。

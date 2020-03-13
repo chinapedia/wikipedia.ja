@@ -1,7 +1,7 @@
 > この記事は[DGGE](https://ja.wikipedia.org/wiki/DGGE)から翻訳されています。
 
 
-[16S_PCR_DGGE.jpg](https://ja.wikipedia.org/wiki/File:16S_PCR_DGGE.jpg "fig:16S_PCR_DGGE.jpg")で[染色したDGGE](https://ja.wikipedia.org/wiki/染色_\(生物学\) "wikilink")[ゲル](../Page/ゲル.md "wikilink")（ネガ像）\]\] **DGGE**とは(**D**enaturing **G**radient **G**el **E**lectrophoresis 変性剤濃度勾配ゲル電気泳動法)のこと。
+[16S_PCR_DGGE.jpg](https://ja.wikipedia.org/wiki/File:16S_PCR_DGGE.jpg "fig:16S_PCR_DGGE.jpg")で[染色したDGGE](../Page/染色_\(生物学\).md "wikilink")[ゲル](../Page/ゲル.md "wikilink")（ネガ像）\]\] **DGGE**とは(**D**enaturing **G**radient **G**el **E**lectrophoresis 変性剤濃度勾配ゲル電気泳動法)のこと。
 
 この方法では、変性剤の濃度勾配があるゲルを用いて二本鎖[DNAを電気泳動する](../Page/デオキシリボ核酸.md "wikilink")。通常は[ポリアクリルアミド](https://ja.wikipedia.org/wiki/ポリアクリルアミド "wikilink")ゲルを用い、尿素とホルムアミドを変性剤として用いる。ゲル中に変性剤の濃度勾配があると、二本鎖DNAは分子量の違いだけではなく、変性しやすさの違いによってもバンドがあらわれる位置が異なるため、高い分離能が得られる。
 

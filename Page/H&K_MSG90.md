@@ -26,7 +26,7 @@ MSGは""の略で、[ドイツ語](../Page/ドイツ語.md "wikilink")で"軍用
 
 ## 採用国
 
-MSG90は、開発国の[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")にはすでに[PSG1](../Page/H&K_PSG1.md "wikilink")・[G3SG/1があったためか](https://ja.wikipedia.org/wiki/H&K_G3SG/1 "wikilink")[軍](https://ja.wikipedia.org/wiki/軍 "wikilink")用としては納入されなかったが、[アメリカ軍](../Page/アメリカ軍.md "wikilink")に採用され、[アメリカ陸軍](../Page/アメリカ陸軍.md "wikilink")の[特殊部隊](../Page/特殊部隊.md "wikilink")[デルタフォース](../Page/デルタフォース.md "wikilink")、[グリーンベレー](../Page/アメリカ陸軍特殊部隊群.md "wikilink")、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の特殊部隊[ネイビーシールズなどの](../Page/Navy_SEALs.md "wikilink")[部隊](../Page/部隊.md "wikilink")でも導入されている他、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[海上自衛隊](https://ja.wikipedia.org/wiki/海上自衛隊 "wikilink")[特別警備隊（SBU）でも使用されている](https://ja.wikipedia.org/wiki/特別警備隊_\(海上自衛隊\) "wikilink")。
+MSG90は、開発国の[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")にはすでに[PSG1](../Page/H&K_PSG1.md "wikilink")・[G3SG/1があったためか](https://ja.wikipedia.org/wiki/H&K_G3SG/1 "wikilink")[軍](https://ja.wikipedia.org/wiki/軍 "wikilink")用としては納入されなかったが、[アメリカ軍](../Page/アメリカ軍.md "wikilink")に採用され、[アメリカ陸軍](../Page/アメリカ陸軍.md "wikilink")の[特殊部隊](../Page/特殊部隊.md "wikilink")[デルタフォース](../Page/デルタフォース.md "wikilink")、[グリーンベレー](../Page/アメリカ陸軍特殊部隊群.md "wikilink")、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の特殊部隊[ネイビーシールズなどの](../Page/Navy_SEALs.md "wikilink")[部隊](../Page/部隊.md "wikilink")でも導入されている他、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[海上自衛隊](../Page/海上自衛隊.md "wikilink")[特別警備隊（SBU）でも使用されている](../Page/特別警備隊_\(海上自衛隊\).md "wikilink")。
 
   -   - [フランス陸軍](../Page/フランス陸軍.md "wikilink")[第1海兵歩兵落下傘連隊](../Page/第1海兵歩兵落下傘連隊_\(フランス軍\).md "wikilink")\[1\]
 

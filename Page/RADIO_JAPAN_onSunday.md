@@ -241,7 +241,7 @@
 
 [Category:2002年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2002年のラジオ番組_\(日本\) "wikilink") [Category:JFNCの番組の歴史](https://ja.wikipedia.org/wiki/Category:JFNCの番組の歴史 "wikilink") [Category:ラジオの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:ラジオの情報・ワイドショー番組 "wikilink")
 
-1.  終了後、「[天使のモーニングコール](https://ja.wikipedia.org/wiki/天使のモーニングコール "wikilink")」をネット。
+1.  終了後、「[天使のモーニングコール](../Page/天使のモーニングコール.md "wikilink")」をネット。
 2.  放送開始 - 2005年3月は6:00 - 8:30、2005年4月 - 2006年4月16日は6:00 - 8:55にそれぞれ放送していた。
 3.  「[さわやかTHIS WAY](https://ja.wikipedia.org/wiki/さわやかTHIS_WAY "wikilink")」を放送するため、一時中断。
 4.  「さわやかTHIS WAY」・「天使のモーニングコール」を放送するため、一時中断。

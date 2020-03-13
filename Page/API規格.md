@@ -70,7 +70,7 @@ CJ-4の次期規格としてはCK-4が既に流通している他、別に省燃
 
 [Category:燃料](https://ja.wikipedia.org/wiki/Category:燃料 "wikilink") [Category:エネルギー政策](https://ja.wikipedia.org/wiki/Category:エネルギー政策 "wikilink") [Category:アメリカ合衆国のエネルギー](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のエネルギー "wikilink") [Category:アメリカ合衆国の規格](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の規格 "wikilink")
 
-1.  API規格からSIが除外された理由としては[国際単位系](https://ja.wikipedia.org/wiki/国際単位系 "wikilink")の略称としてSIが使用されている点とガソリンエンジンを示すspark ignition engineの略としてSIが使用される場合があること、そしてSIのIを数字の1と見間違う可能性がある事があげられる。 SKについてはオイル分野とも関連性のある韓国の石油関連の企業([SK](https://ja.wikipedia.org/wiki/SKグループ "wikilink"))と混同する可能性があり混乱を避ける為に除外されている。
+1.  API規格からSIが除外された理由としては[国際単位系](https://ja.wikipedia.org/wiki/国際単位系 "wikilink")の略称としてSIが使用されている点とガソリンエンジンを示すspark ignition engineの略としてSIが使用される場合があること、そしてSIのIを数字の1と見間違う可能性がある事があげられる。 SKについてはオイル分野とも関連性のある韓国の石油関連の企業([SK](../Page/SKグループ.md "wikilink"))と混同する可能性があり混乱を避ける為に除外されている。
 2.  [API MOTOR OIL GUIDE（PDF）](http://www.api.org/certifications/engineoil/categories/upload/motor_oil_guide_2010_120210.pdf)
 3.
 4.

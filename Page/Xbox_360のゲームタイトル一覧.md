@@ -167,7 +167,7 @@ Xbox 360に対応させた初代[Xboxのゲームタイトルのうち](../Page/
   - 1月31日 [セガラリー REVO](../Page/セガラリーチャンピオンシップ.md "wikilink")（セガ）◆
   - 1月31日 [デビルメイクライ4](https://ja.wikipedia.org/wiki/デビルメイクライ4 "wikilink")（カプコン）◆
   - 2月7日 [Battlestations: Midway](https://ja.wikipedia.org/wiki/Battlestations:_Midway "wikilink")（スパイク）◆
-  - 2月11日 [ニンジャガイデンブラック（Xboxクラシックス](https://ja.wikipedia.org/wiki/忍者龍剣伝 "wikilink")
+  - 2月11日 [ニンジャガイデンブラック（Xboxクラシックス](../Page/忍者龍剣伝.md "wikilink")
   - 2月14日 [WWE 2008 SmackDown vs Raw](../Page/WWE_2008_SmackDown_vs_Raw.md "wikilink")（THQジャパン）◆
   - 2月21日 [Bioshock](https://ja.wikipedia.org/wiki/Bioshock "wikilink")（スパイク）◆
   - 2月21日 [バーンアウト パラダイス](../Page/バーンアウト_\(ゲーム\).md "wikilink")（エレクトロニック・アーツ）◆
@@ -390,7 +390,7 @@ Xbox 360に対応させた初代[Xboxのゲームタイトルのうち](../Page/
   - 9月15日 [Halo:Reach](https://ja.wikipedia.org/wiki/Halo:Reach "wikilink")（マイクロソフト）
   - 9月16日 [フロントミッション エボルヴ](https://ja.wikipedia.org/wiki/フロントミッション_エボルヴ "wikilink")（スクウェア・エニックス）
   - 9月22日 [シンギュラリティ](https://ja.wikipedia.org/wiki/シンギュラリティ_\(ゲーム\) "wikilink")（スクウェア・エニックス）
-  - 9月22日 [智代アフター 〜It's a Wonderful Life〜CS Edition](https://ja.wikipedia.org/wiki/智代アフター_〜It's_a_Wonderful_Life〜 "wikilink")（プロトタイプ）
+  - 9月22日 [智代アフター 〜It's a Wonderful Life〜CS Edition](../Page/智代アフター_〜It's_a_Wonderful_Life〜.md "wikilink")（プロトタイプ）
   - 9月29日 [モンスターハンター フロンティアオンライン シーズン9.0 プレミアムパッケージ](../Page/モンスターハンター_フロンティア_オンライン.md "wikilink")（カプコン）
   - 9月30日 [マッデンNFL](https://ja.wikipedia.org/wiki/マッデンNFL "wikilink")11（エレクトロニック・アーツ）
   - 9月30日 [クウォンタムセオリー](https://ja.wikipedia.org/wiki/クウォンタムセオリー "wikilink")（コーエーテクモゲームス）

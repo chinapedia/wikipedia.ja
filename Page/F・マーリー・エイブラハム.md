@@ -198,7 +198,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/誘惑のアフロディーテ" title="wikilink">誘惑のアフロディーテ</a><br />
+<td><p><a href="../Page/誘惑のアフロディーテ.md" title="wikilink">誘惑のアフロディーテ</a><br />
 ''Mighty Aphrodite</p></td>
 <td><p>リーダー</p></td>
 <td></td>
@@ -282,7 +282,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/13ゴースト" title="wikilink">13ゴースト</a><br />
+<td><p><a href="../Page/13ゴースト.md" title="wikilink">13ゴースト</a><br />
 ''Thir13en Ghosts</p></td>
 <td><p>サイラス</p></td>
 <td></td>

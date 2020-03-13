@@ -1,11 +1,11 @@
 > この記事は[Prius \(\)](https://ja.wikipedia.org/wiki/Prius_\(\))から翻訳されています。
 
 
-**Prius**（プリウス）は、[日立製作所](../Page/日立製作所.md "wikilink")がかつて販売していたコンシューマ向けの[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")。[1996年](../Page/1996年.md "wikilink")に[フローラ](https://ja.wikipedia.org/wiki/日立フローラ "wikilink")（FLORA）のサブブランドとして**FLORA Prius**（フローラ・プリウス）ブランドが誕生し、[1999年](../Page/1999年.md "wikilink")より独立ブランドとなった。
+**Prius**（プリウス）は、[日立製作所](../Page/日立製作所.md "wikilink")がかつて販売していたコンシューマ向けの[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")。[1996年](../Page/1996年.md "wikilink")に[フローラ](../Page/日立フローラ.md "wikilink")（FLORA）のサブブランドとして**FLORA Prius**（フローラ・プリウス）ブランドが誕生し、[1999年](../Page/1999年.md "wikilink")より独立ブランドとなった。
 
 ## 概要
 
-[S1シリーズの終了より](../Page/ベーシックマスター.md "wikilink")、長らくコンシューマ向けにパソコンを販売していなかった日立が、[1994年](../Page/1994年.md "wikilink")に、それまで企業向けとして販売していた[フローラからコンシューマ向けモデルの販売を開始](https://ja.wikipedia.org/wiki/日立フローラ "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に[Microsoft Windows 95の登場に合わせ](../Page/Microsoft_Windows_95.md "wikilink")、コンシューマ向けブランドとして**フローラPX**を設け、イメージキャラクターに当時[巨人の監督だった](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")[長嶋茂雄](../Page/長嶋茂雄.md "wikilink")を起用した。なお、ブランド登場時より一部の機種を除いて法人向けのフローラと筐体を共有していた。
+[S1シリーズの終了より](../Page/ベーシックマスター.md "wikilink")、長らくコンシューマ向けにパソコンを販売していなかった日立が、[1994年](../Page/1994年.md "wikilink")に、それまで企業向けとして販売していた[フローラからコンシューマ向けモデルの販売を開始](../Page/日立フローラ.md "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に[Microsoft Windows 95の登場に合わせ](../Page/Microsoft_Windows_95.md "wikilink")、コンシューマ向けブランドとして**フローラPX**を設け、イメージキャラクターに当時[巨人の監督だった](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")[長嶋茂雄](../Page/長嶋茂雄.md "wikilink")を起用した。なお、ブランド登場時より一部の機種を除いて法人向けのフローラと筐体を共有していた。
 
 フローラPX時代より、一般的にはメーカー保証が1年間であるのに対して、3年保証を謳い、信頼性の高さをアピールしていた。
 
@@ -23,7 +23,7 @@
   - [2002年](../Page/2002年.md "wikilink"): [マイナスイオン](../Page/マイナスイオン.md "wikilink")発生装置を内蔵したモデルを発売。
   - [2003年](../Page/2003年.md "wikilink"): 5月、ディスプレイに20型液晶TV・[Wooo](../Page/Wooo.md "wikilink")を組み合わせたコラボレーションモデルを発売。11月、本体がマグネシウム合金製、ジャストA4サイズの**Prius Gear**を発売。
   - [2004年](../Page/2004年.md "wikilink"): 5月、**Prius Deck**で、アナログ放送の2番組同時録画対応機を発売。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink"): 1月、一体型モデルが復活。録画番組のハイライトシーンを自動再生する機能をTVモデルに搭載。9月、業界初の、TS方式で録画を行うハードウェアデコード方式の地上波デジタル放送対応機を発売。
+  - [2005年](../Page/2005年.md "wikilink"): 1月、一体型モデルが復活。録画番組のハイライトシーンを自動再生する機能をTVモデルに搭載。9月、業界初の、TS方式で録画を行うハードウェアデコード方式の地上波デジタル放送対応機を発売。
   - [2006年](../Page/2006年.md "wikilink"): 9月、業界初のノートパソコン用地上波デジタル外付けTVチューナーを発売。
   - [2007年](../Page/2007年.md "wikilink"): 10月23日、日立製作所が一般家庭向けパソコン事業からの撤退を表明、サポート体制のみ残し、生産・新機種の開発を終了。（ごく一部の業務用モデルについては[2017年](../Page/2017年.md "wikilink")まで販売された)
   - [2009年](../Page/2009年.md "wikilink"): 7月1日、日立製作所コンシューマ事業グループの事業再編により、サポート体制を[日立コンシューマエレクトロニクス](https://ja.wikipedia.org/wiki/日立コンシューマエレクトロニクス "wikilink")へ移管。
@@ -82,7 +82,7 @@
 
 ## 関連項目
 
-  - [日立フローラ](https://ja.wikipedia.org/wiki/日立フローラ "wikilink")
+  - [日立フローラ](../Page/日立フローラ.md "wikilink")
   - [日立チェーンストール](../Page/日立チェーンストール.md "wikilink")
 
 ## 外部リンク

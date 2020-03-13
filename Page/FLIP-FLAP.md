@@ -5,7 +5,7 @@
 
 ## 略歴
 
-2人とも[船橋市立八木が谷小学校](https://ja.wikipedia.org/wiki/船橋市立八木が谷小学校 "wikilink")、[船橋市立八木が谷中学校](../Page/船橋市立八木が谷中学校.md "wikilink")、[千葉県立鎌ケ谷西高等学校](https://ja.wikipedia.org/wiki/千葉県立鎌ケ谷西高等学校 "wikilink")卒業。
+2人とも[船橋市立八木が谷小学校](https://ja.wikipedia.org/wiki/船橋市立八木が谷小学校 "wikilink")、[船橋市立八木が谷中学校](../Page/船橋市立八木が谷中学校.md "wikilink")、[千葉県立鎌ケ谷西高等学校](../Page/千葉県立鎌ケ谷西高等学校.md "wikilink")卒業。
 
 2008年にYUKOが一般人と結婚。2011年に第1子の長男、2013年に第2子の長女、2015年に第3子の次男を出産\[3\]。
 
@@ -28,7 +28,7 @@
   - [オールスター感謝祭](https://ja.wikipedia.org/wiki/オールスター感謝祭 "wikilink")（TBS、1999年10月2日）
   - 地上波防衛軍（[TBS](../Page/TBSテレビ.md "wikilink")、2000年9月22日）
   - [Disney Time](../Page/Disney_Time.md "wikilink")（テレビ東京、2000年10月 - 2001年3月） - 司会
-  - 地球たべもの大百科（[NHK教育テレビ](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")、2000年4月 - 2002年3月） - レギュラー
+  - 地球たべもの大百科（[NHK教育テレビ](../Page/NHK教育テレビジョン.md "wikilink")、2000年4月 - 2002年3月） - レギュラー
   - [天才ビットくん](https://ja.wikipedia.org/wiki/天才ビットくん "wikilink")（NHK教育テレビ、2001年4月 - ） - レギュラー（2005年4月以降は不定期）
   - ツインズ探偵社2（テレビ東京、2004年4月 - 2005年3月） - レギュラー
   - [おはなしのくに](https://ja.wikipedia.org/wiki/おはなしのくに "wikilink") 第4回「[ももたろう](../Page/桃太郎.md "wikilink")」（NHK教育テレビ、2006年5月 - 6月） - 朗読と出演
@@ -75,7 +75,7 @@
   - 「夏休み」1999年7月1日
   - 「Liv la la la Luv」1999年10月1日 - [電気グルーヴ](../Page/電気グルーヴ.md "wikilink")のカヴァー「[虹](../Page/虹_\(電気グルーヴの曲\).md "wikilink")」（マクタンビーチ バージョン）収録
   - 「キスしたい男」2000年6月7日
-  - 「キミを連れて風を感じて」『天才ビットくん -GLORY DAYS-』2003年（[NHK教育](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")『天才ビットくん』Bレーベル）
+  - 「キミを連れて風を感じて」『天才ビットくん -GLORY DAYS-』2003年（[NHK教育](../Page/NHK教育テレビジョン.md "wikilink")『天才ビットくん』Bレーベル）
   - 「プリンセスはあきらめない」2005年4月27日（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")『[ふしぎ星の☆ふたご姫](../Page/ふしぎ星の☆ふたご姫.md "wikilink")』オープニングテーマ）
   - 「[キミのアシタ](../Page/キミのアシタ.md "wikilink")」2006年4月26日（テレビ東京『[ふしぎ星の☆ふたご姫 Gyu\!](../Page/ふしぎ星の☆ふたご姫_Gyu!.md "wikilink")』オープニングテーマ）
 

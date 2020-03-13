@@ -19,7 +19,7 @@ PSG1は[G3の中から特に命中精度の高いものを選び](../Page/H&K_G3
 
 ## 採用状況
 
-現在、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[GSG-9](../Page/GSG-9.md "wikilink")、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[SAS](../Page/特殊空挺部隊.md "wikilink")、[韓国のKNP](../Page/大韓民国.md "wikilink")-SWATなどの、各国の[特殊部隊](../Page/特殊部隊.md "wikilink")・[特殊警察部隊に配備されている](../Page/SWAT.md "wikilink")。また、[日本警察の](../Page/日本の警察.md "wikilink")[特殊部隊](https://ja.wikipedia.org/wiki/特殊急襲部隊 "wikilink")（SAT）および[海上保安庁](https://ja.wikipedia.org/wiki/海上保安庁 "wikilink")[特殊警備隊](../Page/特殊警備隊.md "wikilink")（SST）などに配備されているとも言われている。
+現在、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[GSG-9](../Page/GSG-9.md "wikilink")、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[SAS](../Page/特殊空挺部隊.md "wikilink")、[韓国のKNP](../Page/大韓民国.md "wikilink")-SWATなどの、各国の[特殊部隊](../Page/特殊部隊.md "wikilink")・[特殊警察部隊に配備されている](../Page/SWAT.md "wikilink")。また、[日本警察の](../Page/日本の警察.md "wikilink")[特殊部隊](../Page/特殊急襲部隊.md "wikilink")（SAT）および[海上保安庁](https://ja.wikipedia.org/wiki/海上保安庁 "wikilink")[特殊警備隊](../Page/特殊警備隊.md "wikilink")（SST）などに配備されているとも言われている。
 
 [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")国内では少数ながら狩猟用途で所持許可されている個体もある。
 
@@ -33,7 +33,7 @@ PSG1は[G3の中から特に命中精度の高いものを選び](../Page/H&K_G3
     [トルコ](../Page/トルコ.md "wikilink")の[MKE社が独自に開発したもの](https://ja.wikipedia.org/wiki/:en:Mechanical_and_Chemical_Industry_Corporation "wikilink")。[HK33の](https://ja.wikipedia.org/wiki/H&K_HK33 "wikilink")[バレルを延長し](https://ja.wikipedia.org/wiki/銃砲身 "wikilink")、リアサイトを取り外し、PSG1の[ストックと](../Page/銃床.md "wikilink")[ピカティニー・レール](../Page/ピカティニー・レール.md "wikilink")のハンドガードを装備したモデル。
   - MSG3
     [G3タイプの](../Page/H&K_G3.md "wikilink")[狙撃銃](../Page/狙撃銃.md "wikilink")のなかで一番G3に近い。MSG90タイプの少し短いストックを装備し、リアサイトの位置がG3より少し前にある。
-  - [MSG90](https://ja.wikipedia.org/wiki/H&K_MSG90 "wikilink")
+  - [MSG90](../Page/H&K_MSG90.md "wikilink")
     PSG1の[軍](https://ja.wikipedia.org/wiki/軍 "wikilink")用廉価版。
   - MSG90 SDN
     [メキシコ](../Page/メキシコ.md "wikilink")の[SEDENA社がMSG](https://ja.wikipedia.org/wiki/:en:Secretariat_of_National_Defense_\(Mexico\) "wikilink")90の銃床の顔当てとハンドガードを[木](https://ja.wikipedia.org/wiki/木 "wikilink")製にしたもの。
@@ -186,7 +186,7 @@ PSG1は[G3の中から特に命中精度の高いものを選び](../Page/H&K_G3
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/日本の警察.md" title="wikilink">日本警察特殊部隊</a>「<a href="https://ja.wikipedia.org/wiki/特殊急襲部隊" title="wikilink">SAT</a>」</p></td>
+<td><p><a href="../Page/日本の警察.md" title="wikilink">日本警察特殊部隊</a>「<a href="../Page/特殊急襲部隊.md" title="wikilink">SAT</a>」</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -244,13 +244,13 @@ PSG1は[G3の中から特に命中精度の高いものを選び](../Page/H&K_G3
   - 『[4夜連続ドラマ O-PARTS〜オーパーツ〜](https://ja.wikipedia.org/wiki/4夜連続ドラマ_O-PARTS〜オーパーツ〜 "wikilink")』
     『[MI-5 英国機密諜報部](https://ja.wikipedia.org/wiki/MI-5_英国機密諜報部 "wikilink")』
     『[S -最後の警官-](https://ja.wikipedia.org/wiki/S_-最後の警官- "wikilink")』
-    元[特殊作戦群](https://ja.wikipedia.org/wiki/特殊作戦群 "wikilink")で[警察庁](https://ja.wikipedia.org/wiki/警察庁 "wikilink")[特殊部隊](../Page/特殊部隊.md "wikilink")「[NPS](https://ja.wikipedia.org/wiki/S_-最後の警官-#NPS "wikilink")」の[狙撃手](../Page/狙撃手.md "wikilink")である林イルマが使用する。
+    元[特殊作戦群](../Page/特殊作戦群.md "wikilink")で[警察庁](https://ja.wikipedia.org/wiki/警察庁 "wikilink")[特殊部隊](../Page/特殊部隊.md "wikilink")「[NPS](https://ja.wikipedia.org/wiki/S_-最後の警官-#NPS "wikilink")」の[狙撃手](../Page/狙撃手.md "wikilink")である林イルマが使用する。
   - 『[SP 野望篇](https://ja.wikipedia.org/wiki/SP_THE_MOTION_PICTURE "wikilink")』
     井上を[狙撃](../Page/狙撃.md "wikilink")しようとする木内が使用。
   - 『[確証〜警視庁捜査3課](https://ja.wikipedia.org/wiki/確証〜警視庁捜査3課 "wikilink")』
-    第6話にて、立て籠もり事件の対応に出動した[SAT狙撃](https://ja.wikipedia.org/wiki/特殊急襲部隊 "wikilink")[班](https://ja.wikipedia.org/wiki/班 "wikilink")が、SAT突入班の進路上にいる犬を追い払うために使用する。
+    第6話にて、立て籠もり事件の対応に出動した[SAT狙撃](../Page/特殊急襲部隊.md "wikilink")[班](https://ja.wikipedia.org/wiki/班 "wikilink")が、SAT突入班の進路上にいる犬を追い払うために使用する。
   - 『[シュリ](../Page/シュリ.md "wikilink")』
-    [キム・ユンジン](../Page/キム・ユンジン.md "wikilink")が演じる[北朝鮮第](../Page/朝鮮民主主義人民共和国.md "wikilink")8特殊部隊の凄腕狙撃手、李芳姫が[核物理学](https://ja.wikipedia.org/wiki/核物理学 "wikilink")者・[国防科学研究所所長](../Page/国防科学研究所_\(大韓民国\).md "wikilink")・[KCIA](../Page/大韓民国中央情報部.md "wikilink")（本編では"国家安全企画部"と表記）構成員・[原子力潜水艦](../Page/原子力潜水艦.md "wikilink")開発責任者・[警察官](../Page/警察官.md "wikilink")を狙撃する際に使用（本当は[H\&K MSG90を使う予定だったが](https://ja.wikipedia.org/wiki/H&K_MSG90 "wikilink")、変更された）。
+    [キム・ユンジン](../Page/キム・ユンジン.md "wikilink")が演じる[北朝鮮第](../Page/朝鮮民主主義人民共和国.md "wikilink")8特殊部隊の凄腕狙撃手、李芳姫が[核物理学](https://ja.wikipedia.org/wiki/核物理学 "wikilink")者・[国防科学研究所所長](../Page/国防科学研究所_\(大韓民国\).md "wikilink")・[KCIA](../Page/大韓民国中央情報部.md "wikilink")（本編では"国家安全企画部"と表記）構成員・[原子力潜水艦](../Page/原子力潜水艦.md "wikilink")開発責任者・[警察官](../Page/警察官.md "wikilink")を狙撃する際に使用（本当は[H\&K MSG90を使う予定だったが](../Page/H&K_MSG90.md "wikilink")、変更された）。
   - 『[バッドボーイズ 2バッド](https://ja.wikipedia.org/wiki/バッドボーイズ_2バッド "wikilink")』
     [KKK襲撃時にTNT隊員が使用](../Page/クー・クラックス・クラン.md "wikilink")。
   - 『[山猫は眠らない](../Page/山猫は眠らない.md "wikilink")』
@@ -263,7 +263,7 @@ PSG1は[G3の中から特に命中精度の高いものを選び](../Page/H&K_G3
 ### アニメ・漫画
 
   - 『[BUGS -捕食者たちの夏-](../Page/BUGS_-捕食者たちの夏-.md "wikilink")』
-    [特殊作戦群](https://ja.wikipedia.org/wiki/特殊作戦群 "wikilink")[狙撃手](../Page/狙撃手.md "wikilink")の大山[1等陸曹が使用](../Page/曹.md "wikilink")。当初は[対人狙撃銃を使用してたが](https://ja.wikipedia.org/wiki/M24_SWS "wikilink")、途中からPSG-1に変更されている。
+    [特殊作戦群](../Page/特殊作戦群.md "wikilink")[狙撃手](../Page/狙撃手.md "wikilink")の大山[1等陸曹が使用](../Page/曹.md "wikilink")。当初は[対人狙撃銃を使用してたが](https://ja.wikipedia.org/wiki/M24_SWS "wikilink")、途中からPSG-1に変更されている。
   - 『[MADLAX](../Page/MADLAX.md "wikilink")』
     リメルダが使用。
   - 『[MURCIELAGO -ムルシエラゴ-](https://ja.wikipedia.org/wiki/MURCIELAGO_-ムルシエラゴ- "wikilink")』
@@ -361,7 +361,7 @@ PSG1は[G3の中から特に命中精度の高いものを選び](../Page/H&K_G3
 
   - 『[メタルギアシリーズ](../Page/メタルギアシリーズ.md "wikilink")』
 
-:; 『[MGS](https://ja.wikipedia.org/wiki/メタルギアソリッド "wikilink")』
+:; 『[MGS](../Page/メタルギアソリッド.md "wikilink")』
 
 :; 『[MGS2](../Page/メタルギアソリッド2.md "wikilink")』
 
@@ -400,7 +400,7 @@ PSG1は[G3の中から特に命中精度の高いものを選び](../Page/H&K_G3
   - [狙撃銃一覧](../Page/狙撃銃一覧.md "wikilink")
   - [H\&K](../Page/ヘッケラー&コッホ.md "wikilink")
   - [H\&K G3SG/1](https://ja.wikipedia.org/wiki/H&K_G3SG/1 "wikilink")
-  - [H\&K MSG90](https://ja.wikipedia.org/wiki/H&K_MSG90 "wikilink")
+  - [H\&K MSG90](../Page/H&K_MSG90.md "wikilink")
 
 ## 外部リンク
 

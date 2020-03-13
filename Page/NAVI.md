@@ -1,13 +1,13 @@
 > この記事は[NAVI](https://ja.wikipedia.org/wiki/NAVI)から翻訳されています。
 
 
-**NAVI**（ナビ）は、[東京都](../Page/東京都.md "wikilink")の[二玄社](../Page/二玄社.md "wikilink")が[1984年](../Page/1984年.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")まで発刊した[月刊](https://ja.wikipedia.org/wiki/逐次刊行物 "wikilink")[自動車雑誌](../Page/自動車雑誌.md "wikilink")である。
+**NAVI**（ナビ）は、[東京都](../Page/東京都.md "wikilink")の[二玄社](../Page/二玄社.md "wikilink")が[1984年](../Page/1984年.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")まで発刊した[月刊](../Page/逐次刊行物.md "wikilink")[自動車雑誌](../Page/自動車雑誌.md "wikilink")である。
 
 ## 概要
 
 [1984年](../Page/1984年.md "wikilink")4月に二玄社の月刊自動車雑誌「[カーグラフィック](../Page/カーグラフィック.md "wikilink")」の姉妹誌として創刊された。名前は「New Automobile Vocabulary for the Intellectuals」（インテリのための新たな自動車のボキャブラリー）を意味した。初代編集長は[大川悠](https://ja.wikipedia.org/wiki/大川悠 "wikilink")が務めた。
 
-当初は[社会学](../Page/社会学.md "wikilink")や技術的観点から自動車を扱うがのちに自動車関連の[ライフスタイル](https://ja.wikipedia.org/wiki/ライフスタイル "wikilink")も扱い、コラムや特集記事で交通安全や環境問題を取り上げた。[フランス車](https://ja.wikipedia.org/wiki/フランス車 "wikilink")、[イタリア車](https://ja.wikipedia.org/wiki/イタリア車 "wikilink")、[イギリス車](https://ja.wikipedia.org/wiki/イギリス車 "wikilink")、[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")車などの[輸入車](../Page/輸入車.md "wikilink")を多く扱い、後年は[日本車](../Page/日本車.md "wikilink")も多く扱った。
+当初は[社会学](../Page/社会学.md "wikilink")や技術的観点から自動車を扱うがのちに自動車関連の[ライフスタイル](https://ja.wikipedia.org/wiki/ライフスタイル "wikilink")も扱い、コラムや特集記事で交通安全や環境問題を取り上げた。[フランス車](../Page/フランス車.md "wikilink")、[イタリア車](https://ja.wikipedia.org/wiki/イタリア車 "wikilink")、[イギリス車](https://ja.wikipedia.org/wiki/イギリス車 "wikilink")、[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")車などの[輸入車](../Page/輸入車.md "wikilink")を多く扱い、後年は[日本車](../Page/日本車.md "wikilink")も多く扱った。
 
 ### 内容
 
@@ -82,7 +82,7 @@
 <!-- end list -->
 
   -
-    [岡崎宏司](https://ja.wikipedia.org/wiki/岡崎宏司 "wikilink")がエンジニアと対談。仮想敵となりうる輸入車と乗り比べる。
+    [岡崎宏司](../Page/岡崎宏司.md "wikilink")がエンジニアと対談。仮想敵となりうる輸入車と乗り比べる。
 
 <!-- end list -->
 
@@ -141,7 +141,7 @@
 
   - 「[MOTO NAVI](https://ja.wikipedia.org/wiki/MOTO_NAVI "wikilink")」 - NAVIの[オートバイ](../Page/オートバイ.md "wikilink")版。隔月刊。2010年2月26日発売号をもって休刊を発表するも、編集長の河西啓介が独立してたちあげたボイス・パブリケーションが商標を買い取り2ヵ月後にほどなく復刊。
   - 「BICYCLE NAVI」 - NAVIの自転車（[ロードバイク](../Page/ロードバイク.md "wikilink")・[マウンテンバイク](../Page/マウンテンバイク.md "wikilink")・[小径車](../Page/小径車.md "wikilink")）版。「[輸入車](../Page/輸入車.md "wikilink")の[ステーションワゴン](../Page/ステーションワゴン.md "wikilink")・[ミニバン](../Page/ミニバン.md "wikilink")に乗るドライバーが“最近は自転車がちょっとオシャレらしいから乗ってみようか”と考えているような流行優先の内容」「他の自転車誌に比べ内容が軽薄」と批判する声もあった。事実、自転車誌でありながら自動車の広告があった。2010年3月26日発売号で休刊となったが、「MOTO NAVI」同様こちらも5月号より復刊となる。2017年9月20日発行の11月号で再度休刊。
-  - 「Photo Navi」 - [デジタルカメラ](../Page/デジタルカメラ.md "wikilink")を採り上げる[ムック](https://ja.wikipedia.org/wiki/ムック_\(出版\) "wikilink")。
+  - 「Photo Navi」 - [デジタルカメラ](../Page/デジタルカメラ.md "wikilink")を採り上げる[ムック](../Page/ムック_\(出版\).md "wikilink")。
 
 ## 脚注
 

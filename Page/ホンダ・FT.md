@@ -23,7 +23,7 @@
 
 エンジンは[空冷](https://ja.wikipedia.org/wiki/空冷エンジン "wikilink")[4ストローク](../Page/4ストローク機関.md "wikilink")4バルブ[SOHC](../Page/SOHC.md "wikilink")[単気筒で](../Page/単気筒エンジン.md "wikilink")、500がXL500Sならびに海外向け輸出仕様に製造されていたXL500Rと共用するPD01E型を、400が日本国内向け仕様に製造されていたXL400Rと共用するND01型を搭載するが、本モデルではキャラクターに合せてチューニングならびに始動方式を[プライマリーキックから](../Page/キックスターター.md "wikilink")[セルモーター](../Page/セルモーター.md "wikilink")へ変更した。
 
-  - PD01E型・ND01E型とも[シリンダー](https://ja.wikipedia.org/wiki/シリンダー "wikilink")内径を共に89.0mmのまま、行程を80.0mm・64.0mmにすることでそれぞれの排気量を497㏄・398㏄とした。
+  - PD01E型・ND01E型とも[シリンダー](../Page/シリンダー.md "wikilink")内径を共に89.0mmのまま、行程を80.0mm・64.0mmにすることでそれぞれの排気量を497㏄・398㏄とした。
 
 [圧縮比](https://ja.wikipedia.org/wiki/圧縮比 "wikilink")は共に8.6、燃料供給はVB型[キャブレター](../Page/キャブレター.md "wikilink")を装着し、500が最高出力33ps/6,500rpm・最大トルク4.0kg-m/5,000rpm、400が最高出力27ps/6,500rpm・最大トルク3.2kg-m/5,000rpmのスペックをマーク\[10\]。動力伝達は5段[マニュアルトランスミッション](../Page/マニュアルトランスミッション.md "wikilink")を介する[チェーンドライブとした](../Page/ローラーチェーン.md "wikilink")\[11\]。
 

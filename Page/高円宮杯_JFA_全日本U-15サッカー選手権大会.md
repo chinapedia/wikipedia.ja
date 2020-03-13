@@ -189,7 +189,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/浦和レッドダイヤモンズ" title="wikilink">浦和レッズジュニアユース</a></strong></p></td>
 <td><p><strong>2 - 0</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/FC東京の下部組織" title="wikilink">FC東京U-15深川</a></p></td>

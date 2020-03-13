@@ -5,7 +5,7 @@
 
 [コインランドリー](../Page/コインランドリー.md "wikilink")を舞台に、19歳の若者たちが成長する姿を、一年を通じて描く青春群像ドラマ。主演の[福士誠治](../Page/福士誠治.md "wikilink")は、本作がドラマ初主演となる。
 
-2004年から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")にかけて[BS日テレや](../Page/BS日本.md "wikilink")、[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")（TVK）・[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")（ABC）など全国20局以上に[番組販売](../Page/番組販売.md "wikilink")されている。放送時間は主に深夜の時間帯。[2006年](../Page/2006年.md "wikilink")1月からは、[CS放送](https://ja.wikipedia.org/wiki/CS放送 "wikilink")の[ファミリー劇場](../Page/ファミリー劇場.md "wikilink")で放送。 [インターネット](../Page/インターネット.md "wikilink")では、2004年11月から2006年3月まで[KDDI](../Page/KDDI.md "wikilink")光プラスTVと[BIGLOBEストリーム](https://ja.wikipedia.org/wiki/BIGLOBEストリーム "wikilink")にて配信。2006年6月からは[GyaOにて配信](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")。2007年2月からは再びファミリー劇場にて放送。
+2004年から[2005年](../Page/2005年.md "wikilink")にかけて[BS日テレや](../Page/BS日本.md "wikilink")、[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")（TVK）・[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")（ABC）など全国20局以上に[番組販売](../Page/番組販売.md "wikilink")されている。放送時間は主に深夜の時間帯。[2006年](../Page/2006年.md "wikilink")1月からは、[CS放送](https://ja.wikipedia.org/wiki/CS放送 "wikilink")の[ファミリー劇場](../Page/ファミリー劇場.md "wikilink")で放送。 [インターネット](../Page/インターネット.md "wikilink")では、2004年11月から2006年3月まで[KDDI](../Page/KDDI.md "wikilink")光プラスTVと[BIGLOBEストリーム](https://ja.wikipedia.org/wiki/BIGLOBEストリーム "wikilink")にて配信。2006年6月からは[GyaOにて配信](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")。2007年2月からは再びファミリー劇場にて放送。
 
 [ソニー・ミュージックディストリビューション](https://ja.wikipedia.org/wiki/ソニー・ミュージックディストリビューション "wikilink")よりDVDも発売された。
 

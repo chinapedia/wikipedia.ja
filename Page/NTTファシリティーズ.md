@@ -79,7 +79,7 @@
   - [大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")本社 （2008）
   - [中央労働金庫](../Page/中央労働金庫.md "wikilink")本店 （2009）\[18\]
   - [JAビル](https://ja.wikipedia.org/wiki/JAビル "wikilink") （2009）\[19\]
-  - [東京大学大気海洋研究所](https://ja.wikipedia.org/wiki/東京大学大気海洋研究所 "wikilink") （2010）\[20\]
+  - [東京大学大気海洋研究所](../Page/東京大学大気海洋研究所.md "wikilink") （2010）\[20\]
   - [国立病院機構横浜医療センター](https://ja.wikipedia.org/wiki/国立病院機構横浜医療センター "wikilink") （2010）\[21\]
   - [渋谷区文化総合センター大和田](https://ja.wikipedia.org/wiki/渋谷区文化総合センター大和田 "wikilink") （2010）\[22\]
   - [八王子市民会館](../Page/八王子市民会館.md "wikilink") （2010）\[23\]

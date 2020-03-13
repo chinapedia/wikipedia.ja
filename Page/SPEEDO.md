@@ -15,7 +15,7 @@
 
 [1970年代](../Page/1970年代.md "wikilink")から[スパンデックス](https://ja.wikipedia.org/wiki/スパンデックス "wikilink")等の新素材を水着開発に生かしてきた。[1990年代](../Page/1990年代.md "wikilink")後半には「[アクアブレード](https://ja.wikipedia.org/wiki/アクアブレード "wikilink")」「[ファストスキン](https://ja.wikipedia.org/wiki/ファストスキン "wikilink")」等競泳用の新素材開発に注力し、[サメ](../Page/サメ.md "wikilink")などのいくつかの水生生物の肌素材の特徴を模倣することで水の抵抗を低減することを狙った。
 
-[2007年](../Page/2007年.md "wikilink")から若年層市場を狙い、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ファッション](../Page/ファッション.md "wikilink")・[ブランド](../Page/ブランド.md "wikilink")「[コム・デ・ギャルソン](https://ja.wikipedia.org/wiki/コム・デ・ギャルソン "wikilink")」と協同で商品開発を行っている。
+[2007年](../Page/2007年.md "wikilink")から若年層市場を狙い、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ファッション](../Page/ファッション.md "wikilink")・[ブランド](../Page/ブランド.md "wikilink")「[コム・デ・ギャルソン](../Page/コム・デ・ギャルソン.md "wikilink")」と協同で商品開発を行っている。
 
 現在は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[ペントラント](https://ja.wikipedia.org/wiki/ペントラント "wikilink")社が買収し、スピード・インターナショナル（Speedo International Limited）として傘下のブランドとなっている。
 

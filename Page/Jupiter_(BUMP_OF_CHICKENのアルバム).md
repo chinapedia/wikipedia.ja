@@ -99,5 +99,5 @@
 [Category:BUMP_OF_CHICKENのアルバム](https://ja.wikipedia.org/wiki/Category:BUMP_OF_CHICKENのアルバム "wikilink") [Category:2002年のアルバム](https://ja.wikipedia.org/wiki/Category:2002年のアルバム "wikilink") [Category:2002年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2002年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:BUMP_OF_CHICKENの映像作品](https://ja.wikipedia.org/wiki/Category:BUMP_OF_CHICKENの映像作品 "wikilink") [Category:2002年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:2002年の音楽関連の映像作品 "wikilink") [Category:ビデオ・クリップ集](https://ja.wikipedia.org/wiki/Category:ビデオ・クリップ集 "wikilink")
 
 1.  [ＢＵＭＰＯＦＣＨＩＣＫＥＮも羽生祝福](http://www.daily.co.jp/gossip/2014/02/16/0006712412.shtml)（デイリースポーツ　2014年2月16日）
-2.  ちなみに、歌詞を台詞中で引用した小南晴生は[iPod](https://ja.wikipedia.org/wiki/iPod "wikilink")で「同じドアをくぐれたら」（次作『[ユグドラシル](https://ja.wikipedia.org/wiki/ユグドラシル_\(アルバム\) "wikilink")』収録）を聴いていた。
+2.  ちなみに、歌詞を台詞中で引用した小南晴生は[iPod](https://ja.wikipedia.org/wiki/iPod "wikilink")で「同じドアをくぐれたら」（次作『[ユグドラシル](../Page/ユグドラシル_\(アルバム\).md "wikilink")』収録）を聴いていた。
 3.  [「初めの4人に見せたい景色」BUMP OF CHICKEN、レア曲満載の20周年ライブ](http://natalie.mu/music/news/175921)（ナタリー、2016年2月12日）

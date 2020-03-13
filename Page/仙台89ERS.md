@@ -190,7 +190,7 @@
 
 **過去のユニフォームスポンサー**
 
-  - [学校法人菅原学園](https://ja.wikipedia.org/wiki/学校法人菅原学園 "wikilink")
+  - [学校法人菅原学園](../Page/学校法人菅原学園.md "wikilink")
   - [仙台進学プラザ](../Page/仙台進学プラザ.md "wikilink")(「進プラ」表記、2006-07)
   - [パルコ](../Page/パルコ.md "wikilink")（[仙台パルコ](../Page/仙台パルコ.md "wikilink")）
   - [タイヤワールド館BEST](https://ja.wikipedia.org/wiki/タイヤワールド館BEST "wikilink")
@@ -343,7 +343,7 @@ B1残留プレーオフでは総合15位の[富山とアウェイで対戦した
 
 主将月野をはじめミラー、ティルマン含む主力の7選手が残留。その一方で俊野が[愛媛](../Page/愛媛オレンジバイキングス.md "wikilink")、宮本が[青森](https://ja.wikipedia.org/wiki/青森ワッツ "wikilink")、安部が[島根](https://ja.wikipedia.org/wiki/島根スサノオマジック "wikilink")、菅澤が[富山に移籍した](../Page/富山グラウジーズ.md "wikilink")。新戦力としては[京都から](https://ja.wikipedia.org/wiki/京都ハンナリーズ "wikilink")[片岡大晴](../Page/片岡大晴.md "wikilink")が3季ぶりに復帰。青森から[臼井弘樹](https://ja.wikipedia.org/wiki/臼井弘樹 "wikilink")、[琉球から](../Page/琉球ゴールデンキングス.md "wikilink")[金城茂之](../Page/金城茂之.md "wikilink")を獲得し、前季は練習生登録であった[阿部翔太](https://ja.wikipedia.org/wiki/阿部翔太 "wikilink")(石巻市出身、立教大卒)が開幕前に、同じく8月の球団トライアウトを経て練習生登録であった[金城知紗](https://ja.wikipedia.org/wiki/金城知紗 "wikilink")(天理大卒)が11月に正規契約に至り加入、1月には前季[福岡に所属していた](../Page/ライジングゼファーフクオカ.md "wikilink")[エリック・ジェイコブセンを補強した](https://ja.wikipedia.org/wiki/エリック・ジェイコブセン（バスケットボール選手） "wikilink")。また、2020年2月には特別指定選手として明治大学3年の[渡辺翔太を加えた](https://ja.wikipedia.org/wiki/渡辺翔太\(バスケットボール選手\) "wikilink")。
 
-シーズン開始前、練習中に澤邉が、B1[川崎との練習試合で月野が負傷して戦列を離れてしまい](../Page/川崎ブレイブサンダース.md "wikilink")、2年連続でホーム・ゼビオアリーナ仙台開催となったアーリーカップは3位、リーグ開幕戦・群馬との2戦を落としてのスタートとなった。澤邉は10月に復帰も、入れ替わりで新加入の金城が右膝を痛めてしまい苦しいロスター事情が続いて福島や東京Zにホームで取りこぼし、群馬には12月上旬で早々にシーズン負け越しが決定してしまう。しかし以降は前季と異なり他地区上位陣をはじめ連敗を喫することなく白星を重ね、特に12月中旬から[新型コロナウイルス流行による](https://ja.wikipedia.org/wiki/2019新型コロナウイルスによる急性呼吸器疾患 "wikilink")2月下旬のリーグ中断までの11節21戦を**2度の9連勝**含むなど好成績で34勝11敗とし東地区首位を保つ。
+シーズン開始前、練習中に澤邉が、B1[川崎との練習試合で月野が負傷して戦列を離れてしまい](../Page/川崎ブレイブサンダース.md "wikilink")、2年連続でホーム・ゼビオアリーナ仙台開催となったアーリーカップは3位、リーグ開幕戦・群馬との2戦を落としてのスタートとなった。澤邉は10月に復帰も、入れ替わりで新加入の金城が右膝を痛めてしまい苦しいロスター事情が続いて福島や東京Zにホームで取りこぼし、群馬には12月上旬で早々にシーズン負け越しが決定してしまう。しかし以降は前季と異なり他地区上位陣をはじめ連敗を喫することなく白星を重ね、特に12月中旬から[新型コロナウイルス流行による](../Page/2019新型コロナウイルスによる急性呼吸器疾患.md "wikilink")2月下旬のリーグ中断までの11節21戦を**2度の9連勝**含むなど好成績で34勝11敗とし東地区首位を保つ。
 
 ## スタッフと選手
 
@@ -610,7 +610,7 @@ B1残留プレーオフでは総合15位の[富山とアウェイで対戦した
 
 <!-- end list -->
 
-  - 「[TBC Sports Paradise](../Page/TBC_Sports_Paradise.md "wikilink")」内の「Watch Out\! 89ERS\!」（[TBCラジオ](../Page/東北放送.md "wikilink")、毎週金曜21:00～22:00内、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")～[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月](../Page/9月.md "wikilink")まで）
+  - 「[TBC Sports Paradise](../Page/TBC_Sports_Paradise.md "wikilink")」内の「Watch Out\! 89ERS\!」（[TBCラジオ](../Page/東北放送.md "wikilink")、毎週金曜21:00～22:00内、[2005年](../Page/2005年.md "wikilink")～[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月](../Page/9月.md "wikilink")まで）
   - 「スキダッちゃ\!\!」内の「キャベスポ　仙台89ERS～笑顔に会いたい～」（[ケーブルテレビ・キャベツ](../Page/宮城ネットワーク.md "wikilink")、隔週木曜11:00～11:30内）
 
 <!-- end list -->

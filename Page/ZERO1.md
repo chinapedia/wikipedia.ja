@@ -9,7 +9,7 @@
 
 [2004年](../Page/2004年.md "wikilink")[11月25日](../Page/11月25日.md "wikilink")、[プロレスリングZERO-ONE](../Page/プロレスリングZERO-ONE.md "wikilink")の活動停止後に元所属選手と元スタッフが中心となり**プロレスリングZERO1-MAX**（プロレスリング・ゼロワン-マックス）を設立。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[1月10日](../Page/1月10日.md "wikilink")、[後楽園ホール](../Page/後楽園ホール.md "wikilink")でプレ旗揚げ戦を開催、[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")、後楽園ホールで旗揚げ戦を開催。
+[2005年](../Page/2005年.md "wikilink")[1月10日](../Page/1月10日.md "wikilink")、[後楽園ホール](../Page/後楽園ホール.md "wikilink")でプレ旗揚げ戦を開催、[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")、後楽園ホールで旗揚げ戦を開催。
 
 [2006年](../Page/2006年.md "wikilink")、[AWAスーパースターズと業務提携を結んだことを発表](https://ja.wikipedia.org/wiki/レスリング・スーパースターズ・ライブ "wikilink")。[6月1日](../Page/6月1日.md "wikilink")、[草間政一](../Page/草間政一.md "wikilink")がAWAスーパースターズ[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")支部長に就任。これは設定上の地位であるもののプロレス業界に未練のある草間が[ファースト・オン・ステージ](../Page/ファースト・オン・ステージ.md "wikilink")のフロント入りを希望し、代表の[中村祥之](../Page/中村祥之.md "wikilink")の「営業に専念して仕事の負担を減らしたい」という思惑と一致したが、即フロント入りとする訳にはいかないため、とりあえず取締役的地位に就任させて、その手腕を試す期間を設けるためであったと思われる。7月、草間は「[火祭り](https://ja.wikipedia.org/wiki/火祭り_\(プロレス\) "wikilink")」の開会宣言を「草間ガニア政一」という名前で行った（ガニアとは[AWAの帝王である](../Page/アメリカン・レスリング・アソシエーション.md "wikilink")[バーン・ガニア](../Page/バーン・ガニア.md "wikilink")からの引用とされている）。[10月1日](../Page/10月1日.md "wikilink")、後楽園ホールでZERO1-MAX女子部「[プロレスリングSUN](../Page/CHICK_FIGHTS_SUN.md "wikilink")（後に団体名をCHICK FIGHTS SUNに改称）」の旗揚げ戦を開催。
 
@@ -19,7 +19,7 @@
 
 [2009年](../Page/2009年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")、団体名を**プロレスリングZERO1**（プロレスリング・ゼロワン）に改称。ZERO1総合格闘技部門の名称を[ランズエンド・ZERO1](https://ja.wikipedia.org/wiki/ランズエンド・ZERO1 "wikilink")に変更。
 
-[2011年](../Page/2011年.md "wikilink")1月、[NWAと業務提携を結んだことを発表](https://ja.wikipedia.org/wiki/NWA_\(プロレス\) "wikilink")。7月、[NWA世界ヘビー級王者の](../Page/NWA世界ヘビー級王座.md "wikilink")[ザ・シーク](https://ja.wikipedia.org/wiki/ジョセフ・カビボ "wikilink")（2代目）がNWAからの指名試合を拒否したためNWAはシークからNWA世界ヘビー級王座を剥奪することを発表。11月、NWAと業務提携を解消することを発表。11月、NWAへの当て付けとして組織「ニュー・レスリング・アライアンス（NWA）」を設立。
+[2011年](../Page/2011年.md "wikilink")1月、[NWAと業務提携を結んだことを発表](../Page/NWA_\(プロレス\).md "wikilink")。7月、[NWA世界ヘビー級王者の](../Page/NWA世界ヘビー級王座.md "wikilink")[ザ・シーク](https://ja.wikipedia.org/wiki/ジョセフ・カビボ "wikilink")（2代目）がNWAからの指名試合を拒否したためNWAはシークからNWA世界ヘビー級王座を剥奪することを発表。11月、NWAと業務提携を解消することを発表。11月、NWAへの当て付けとして組織「ニュー・レスリング・アライアンス（NWA）」を設立。
 
 [2014年](../Page/2014年.md "wikilink")1月、[大谷晋二郎](../Page/大谷晋二郎.md "wikilink")が1月1日から新体制に移行すると同時に団体名変更の可能性を示唆したが、ファンの反対もあり団体名変更は見送られた\[1\]。
 
@@ -183,7 +183,7 @@
   - [GAINA](../Page/湯浅和也.md "wikilink")
   - [佐藤嗣崇](https://ja.wikipedia.org/wiki/佐藤嗣崇 "wikilink")
   - [金本浩二](../Page/金本浩二.md "wikilink")
-  - [田中稔](https://ja.wikipedia.org/wiki/田中稔_\(プロレスラー\) "wikilink")
+  - [田中稔](../Page/田中稔_\(プロレスラー\).md "wikilink")
 
 <!-- end list -->
 
@@ -285,13 +285,13 @@
 
   - [葛西純](../Page/葛西純.md "wikilink")
   - [村浜武洋](../Page/村浜武洋.md "wikilink")
-  - [山笠Z"信介](https://ja.wikipedia.org/wiki/炭谷信介 "wikilink")（現：若鷹ジェット信介）
+  - [山笠Z"信介](../Page/炭谷信介.md "wikilink")（現：若鷹ジェット信介）
   - [横井宏考](../Page/横井宏考.md "wikilink")
   - [高橋冬樹](../Page/高橋冬樹.md "wikilink")
-  - [大森隆男](https://ja.wikipedia.org/wiki/大森隆男 "wikilink")
+  - [大森隆男](../Page/大森隆男.md "wikilink")
   - [佐々木義人](../Page/佐々木義人.md "wikilink")
   - [星川尚浩](../Page/星川尚浩.md "wikilink")
-  - [浪口修](https://ja.wikipedia.org/wiki/浪口修 "wikilink")
+  - [浪口修](../Page/浪口修.md "wikilink")
   - [斎藤譲](https://ja.wikipedia.org/wiki/斎藤譲 "wikilink")
   - [柿沼謙太](https://ja.wikipedia.org/wiki/柿沼謙太 "wikilink")
   - [高西翔太](https://ja.wikipedia.org/wiki/高西翔太 "wikilink")
@@ -350,7 +350,7 @@
 
 <!-- end list -->
 
-  - ZERO1（[FIGHTING TV サムライ](https://ja.wikipedia.org/wiki/FIGHTING_TV_サムライ "wikilink")、[サムライ2](https://ja.wikipedia.org/wiki/FIGHTING_TV_サムライ "wikilink")）
+  - ZERO1（[FIGHTING TV サムライ](../Page/FIGHTING_TV_サムライ.md "wikilink")、[サムライ2](../Page/FIGHTING_TV_サムライ.md "wikilink")）
 
 ## 関連番組
 
@@ -358,7 +358,7 @@
 
 <!-- end list -->
 
-  - [ゼロワン熱血通信](https://ja.wikipedia.org/wiki/ゼロワン熱血通信 "wikilink")（[FIGHTING TV サムライ](https://ja.wikipedia.org/wiki/FIGHTING_TV_サムライ "wikilink")、[サムライ2](https://ja.wikipedia.org/wiki/FIGHTING_TV_サムライ "wikilink")）
+  - [ゼロワン熱血通信](https://ja.wikipedia.org/wiki/ゼロワン熱血通信 "wikilink")（[FIGHTING TV サムライ](../Page/FIGHTING_TV_サムライ.md "wikilink")、[サムライ2](../Page/FIGHTING_TV_サムライ.md "wikilink")）
 
 ## プロレスリングZERO1海外支部
 
@@ -376,7 +376,7 @@
 
 [2007年](../Page/2007年.md "wikilink")[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink")、オープン記念として1日限りのグッズ販売を行った。以降は記者会見場として使われているが普段は閉まっている。
 
-[アングルとして芝アスレチックコミッションという組織を設立して](../Page/アングル_\(プロレス\).md "wikilink")[ギミック上](https://ja.wikipedia.org/wiki/ギミック_\(プロレス\) "wikilink")、芝アスレチックコミッションにZERO1の経営を譲渡している。ZERO1のコミッショナーとして[AWAスーパースターズと対等な立場で発言権を持ちZERO](https://ja.wikipedia.org/wiki/レスリング・スーパースターズ・ライブ "wikilink")1はAWAスーパースターズの傘下であるにもかかわらずAWAスーパースターズの要求を拒否や変更したりする様子が主に[東京スポーツ](../Page/東京スポーツ.md "wikilink")紙上で展開されていた。
+[アングルとして芝アスレチックコミッションという組織を設立して](../Page/アングル_\(プロレス\).md "wikilink")[ギミック上](../Page/ギミック_\(プロレス\).md "wikilink")、芝アスレチックコミッションにZERO1の経営を譲渡している。ZERO1のコミッショナーとして[AWAスーパースターズと対等な立場で発言権を持ちZERO](https://ja.wikipedia.org/wiki/レスリング・スーパースターズ・ライブ "wikilink")1はAWAスーパースターズの傘下であるにもかかわらずAWAスーパースターズの要求を拒否や変更したりする様子が主に[東京スポーツ](../Page/東京スポーツ.md "wikilink")紙上で展開されていた。
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")、ファースト・オン・ステージが[海岸へ移転したため閉鎖](../Page/海岸_\(東京都港区\).md "wikilink")。
 
@@ -405,4 +405,4 @@
 1.  [元旦より新体制で再スタート](http://www.z-1.co.jp/zero1/interview?targetId=328) 2013年12月17日閲覧
 2.
 3.
-4.  [NWAが管理](https://ja.wikipedia.org/wiki/NWA_\(プロレス\) "wikilink")、認定している[NWA世界ジュニアヘビー級王座](https://ja.wikipedia.org/wiki/NWA世界ジュニアヘビー級王座 "wikilink")とは別物。[2011年](../Page/2011年.md "wikilink")11月、ZERO1が設立した組織「ニュー・レスリング・アライアンス（NWA）」が管理、認定している王座。
+4.  [NWAが管理](../Page/NWA_\(プロレス\).md "wikilink")、認定している[NWA世界ジュニアヘビー級王座](https://ja.wikipedia.org/wiki/NWA世界ジュニアヘビー級王座 "wikilink")とは別物。[2011年](../Page/2011年.md "wikilink")11月、ZERO1が設立した組織「ニュー・レスリング・アライアンス（NWA）」が管理、認定している王座。

@@ -21,6 +21,6 @@ TOSは1970年の開局以来、[NNN](https://ja.wikipedia.org/wiki/Nippon_News_N
   - [ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")
   - [TOSニュース](../Page/TOSニュース.md "wikilink")
   - [FNN TOSスピーク](../Page/TOSスピーク.md "wikilink") - 後番組。
-  - [テレビ大分番組一覧](https://ja.wikipedia.org/wiki/テレビ大分番組一覧 "wikilink")
+  - [テレビ大分番組一覧](../Page/テレビ大分番組一覧.md "wikilink")
 
 [Category:1991年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1991年のテレビ番組_\(日本\) "wikilink") [Category:テレビ大分の番組](https://ja.wikipedia.org/wiki/Category:テレビ大分の番組 "wikilink") [Category:九州・沖縄地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のテレビのニュース・報道番組の歴史 "wikilink") [Category:九州・沖縄地方のテレビのミニ番組](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のテレビのミニ番組 "wikilink") [Category:九州・沖縄地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のテレビの帯番組 "wikilink") [Category:ANNニュースライナー](https://ja.wikipedia.org/wiki/Category:ANNニュースライナー "wikilink")

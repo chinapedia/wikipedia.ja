@@ -20,9 +20,9 @@
   - RB30→約3.0リットル (内径×行程：86.0mm×85.0mm、2,982cc)
   - RD28→約2.8リットル (内径×行程：85.0mm×83.0mm、2,825cc）
 
-第二世代GT-RであるR32～R34型[スカイラインGT](../Page/日産・スカイライン.md "wikilink")-R及び[ステージア](https://ja.wikipedia.org/wiki/日産・ステージア "wikilink")260RSオーテックバージョンに搭載された[RB26DETTエンジンは](https://ja.wikipedia.org/wiki/日産・RB26DETT "wikilink")、名前こそ便宜上RBと付いているものの、同車（当初GT-R専用）専用としての設計であり、かなり性格が異なる。しかしRB20/25用のオイルパンがRB26にボルトオンできる、あるいは逆に、RB26用オイルポンプ/ウォーターポンプが強化品としてRB20/25にボルトオンできるなど、補機類単位では互換性が保たれている。
+第二世代GT-RであるR32～R34型[スカイラインGT](../Page/日産・スカイライン.md "wikilink")-R及び[ステージア](../Page/日産・ステージア.md "wikilink")260RSオーテックバージョンに搭載された[RB26DETTエンジンは](../Page/日産・RB26DETT.md "wikilink")、名前こそ便宜上RBと付いているものの、同車（当初GT-R専用）専用としての設計であり、かなり性格が異なる。しかしRB20/25用のオイルパンがRB26にボルトオンできる、あるいは逆に、RB26用オイルポンプ/ウォーターポンプが強化品としてRB20/25にボルトオンできるなど、補機類単位では互換性が保たれている。
 
-80年代よりセドリック・フェアレディZなどで[V型6気筒](../Page/V型6気筒.md "wikilink")を採用していたが、新開発フロントミッドシップパッケージを採用することをうけ、日産自動車は次世代主力ユニット[VQシリーズに順次切り替えを行い](https://ja.wikipedia.org/wiki/日産・VQエンジン "wikilink")、[2004年](../Page/2004年.md "wikilink")の[セドリック](https://ja.wikipedia.org/wiki/日産・セドリック "wikilink")・[グロリアの生産終了と合わせて生産を終了した](../Page/日産・グロリア.md "wikilink")。
+80年代よりセドリック・フェアレディZなどで[V型6気筒](../Page/V型6気筒.md "wikilink")を採用していたが、新開発フロントミッドシップパッケージを採用することをうけ、日産自動車は次世代主力ユニット[VQシリーズに順次切り替えを行い](../Page/日産・VQエンジン.md "wikilink")、[2004年](../Page/2004年.md "wikilink")の[セドリック](../Page/日産・セドリック.md "wikilink")・[グロリアの生産終了と合わせて生産を終了した](../Page/日産・グロリア.md "wikilink")。
 
 ## バリエーション
 
@@ -94,7 +94,7 @@
 
 #### RB20DET-R
 
-  - DOHC 24バルブ インタークーラー付きシングルターボ。[FIA](../Page/国際自動車連盟.md "wikilink")[グループA](../Page/グループA.md "wikilink")[ホモロゲーションを取得する為に限定](https://ja.wikipedia.org/wiki/ホモロゲーション#モータースポーツ "wikilink")800台が生産された、HR31型スカイラインGTS-R専用のセミコンペティションエンジンである。ステンレス製の等長エキゾーストマニホールド、低慣性重量のタービンと大容量のコンプレッサーを組み合わせた[ギャレット社製T](https://ja.wikipedia.org/wiki/ハネウェル "wikilink")04Eハイフローターボチャージャーを備えており、大容量の空冷式インタークーラーとともに実装された。
+  - DOHC 24バルブ インタークーラー付きシングルターボ。[FIA](../Page/国際自動車連盟.md "wikilink")[グループA](../Page/グループA.md "wikilink")[ホモロゲーションを取得する為に限定](https://ja.wikipedia.org/wiki/ホモロゲーション#モータースポーツ "wikilink")800台が生産された、HR31型スカイラインGTS-R専用のセミコンペティションエンジンである。ステンレス製の等長エキゾーストマニホールド、低慣性重量のタービンと大容量のコンプレッサーを組み合わせた[ギャレット社製T](../Page/ハネウェル.md "wikilink")04Eハイフローターボチャージャーを備えており、大容量の空冷式インタークーラーとともに実装された。
 
 <!-- end list -->
 
@@ -169,7 +169,7 @@
 
 #### RB30S
 
-  - SOHC 12バルブ 自然吸気型。海外向けに存在した[シングルカム](../Page/SOHC.md "wikilink")3リットルエンジン「RB30」のシングル[キャブレター](../Page/キャブレター.md "wikilink")仕様。[中東](../Page/中東.md "wikilink")（主に[サウジアラビア](../Page/サウジアラビア.md "wikilink")）向けに輸出されていたR31型スカイラインや[パトロール等に搭載されていた](https://ja.wikipedia.org/wiki/日産・サファリ "wikilink")。
+  - SOHC 12バルブ 自然吸気型。海外向けに存在した[シングルカム](../Page/SOHC.md "wikilink")3リットルエンジン「RB30」のシングル[キャブレター](../Page/キャブレター.md "wikilink")仕様。[中東](../Page/中東.md "wikilink")（主に[サウジアラビア](../Page/サウジアラビア.md "wikilink")）向けに輸出されていたR31型スカイラインや[パトロール等に搭載されていた](../Page/日産・サファリ.md "wikilink")。
 
 #### RB30E
 
@@ -226,7 +226,7 @@ PS)/7,000rpm 294N・m(30.0kg・m)/5,800rpm
 
 #### RD28ETi
 
-  - SOHC 18バルブ インタークーラー付きシングルターボ。RD28Eのターボチャージャー仕様。Y61型[サファリの](https://ja.wikipedia.org/wiki/日産・サファリ "wikilink")2ドアハードトップに搭載された。
+  - SOHC 18バルブ インタークーラー付きシングルターボ。RD28Eのターボチャージャー仕様。Y61型[サファリの](../Page/日産・サファリ.md "wikilink")2ドアハードトップに搭載された。
 
 <!-- end list -->
 
@@ -241,11 +241,11 @@ PS)/7,000rpm 294N・m(30.0kg・m)/5,800rpm
   - [ローレル](../Page/日産・ローレル.md "wikilink")(C32～C35型)
   - [セフィーロ](../Page/日産・セフィーロ.md "wikilink")(A31型)
   - [フェアレディZ](../Page/日産・フェアレディZ.md "wikilink")(Z31型)
-  - [セドリック](https://ja.wikipedia.org/wiki/日産・セドリック "wikilink")・[グロリア](../Page/日産・グロリア.md "wikilink")・[レパード](https://ja.wikipedia.org/wiki/日産・レパード "wikilink")(Y33型、Y34型)
-  - [ステージア](https://ja.wikipedia.org/wiki/日産・ステージア "wikilink")（WC34型）
+  - [セドリック](../Page/日産・セドリック.md "wikilink")・[グロリア](../Page/日産・グロリア.md "wikilink")・[レパード](../Page/日産・レパード.md "wikilink")(Y33型、Y34型)
+  - [ステージア](../Page/日産・ステージア.md "wikilink")（WC34型）
   - [クルー](../Page/日産・クルー.md "wikilink")（サルーン系・[パトロールカー](../Page/パトロールカー.md "wikilink")仕様車）（K30型）
   - [セドリック営業車](../Page/日産・セドリック営業車.md "wikilink")(Y31型)
-  - [パトロール](https://ja.wikipedia.org/wiki/日産・サファリ "wikilink")(Y60型)
+  - [パトロール](../Page/日産・サファリ.md "wikilink")(Y60型)
 
 ## チューニングベースとしてのRB20/25
 

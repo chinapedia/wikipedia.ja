@@ -1,7 +1,7 @@
 > この記事は[FOMA](https://ja.wikipedia.org/wiki/FOMA)から翻訳されています。
 
 
-**FOMAプラスエリア**（ふぉーま ぷらすえりあ）とは、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[第3世代移動通信システム](../Page/第3世代移動通信システム.md "wikilink")携帯電話・[FOMA](../Page/FOMA.md "wikilink")の一部機種で利用できる、[800MHz帯](https://ja.wikipedia.org/wiki/800MHz帯 "wikilink")の[W-CDMA](../Page/W-CDMA.md "wikilink")方式によるサービスエリアのこと。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に、**FOMAサービスエリア**（[2GHz帯](../Page/2GHz帯.md "wikilink")）では[電波](../Page/電波.md "wikilink")が届きにくかった山間部などでの電波状況の改善を目的に開始されたが、現在は、都市部とその周辺部での2GHz帯を補完する目的でも使われている。
+**FOMAプラスエリア**（ふぉーま ぷらすえりあ）とは、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[第3世代移動通信システム](../Page/第3世代移動通信システム.md "wikilink")携帯電話・[FOMA](../Page/FOMA.md "wikilink")の一部機種で利用できる、[800MHz帯](https://ja.wikipedia.org/wiki/800MHz帯 "wikilink")の[W-CDMA](../Page/W-CDMA.md "wikilink")方式によるサービスエリアのこと。[2005年](../Page/2005年.md "wikilink")に、**FOMAサービスエリア**（[2GHz帯](../Page/2GHz帯.md "wikilink")）では[電波](../Page/電波.md "wikilink")が届きにくかった山間部などでの電波状況の改善を目的に開始されたが、現在は、都市部とその周辺部での2GHz帯を補完する目的でも使われている。
 
 なお、日本で使用されている1GHz帯未満を利用する第3世代移動通信システムとしては、NTTドコモのFOMAプラスエリアの他、[au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")（[KDDI](../Page/KDDI.md "wikilink")・[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")[連合](https://ja.wikipedia.org/wiki/連合 "wikilink")）のN800MHz帯（新800MHz帯・CDMA2000 Band class0 subclass2、サービス名称としては特に記述無し）と[SoftBankの](../Page/SoftBank_\(携帯電話\).md "wikilink")[プラチナバンド](https://ja.wikipedia.org/wiki/プラチナバンド_\(ソフトバンク\) "wikilink")(UMTSバンド8)がある。
 

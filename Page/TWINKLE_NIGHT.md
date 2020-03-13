@@ -9,7 +9,7 @@
 
 先行シングルとして本作収録曲のリミックスとなる「[YOUR SONG ("D"Mix)](../Page/YOUR_SONG_\("D"Mix\).md "wikilink")」がリリースされた。
 
-[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")では初リリース時は最高位57位であったが、再リリース盤にて最高位2位を獲得した。
+[オリコンチャート](../Page/オリコンチャート.md "wikilink")では初リリース時は最高位57位であったが、再リリース盤にて最高位2位を獲得した。
 
 ## 背景
 
@@ -41,7 +41,7 @@
 
 ## チャート成績
 
-[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")では初回リリース時のLP盤では最高位57位、登場回数2回、売り上げ枚数0.4万枚であったが、後に再リリースされたCD盤では最高位2位、登場回数12回、売り上げ枚数は13.9万枚となり、売り上げ枚数の累計は14.3万枚となった。
+[オリコンチャート](../Page/オリコンチャート.md "wikilink")では初回リリース時のLP盤では最高位57位、登場回数2回、売り上げ枚数0.4万枚であったが、後に再リリースされたCD盤では最高位2位、登場回数12回、売り上げ枚数は13.9万枚となり、売り上げ枚数の累計は14.3万枚となった。
 
 ## 収録曲
 
@@ -78,7 +78,7 @@
 ### スタッフ
 
   - 小室哲哉 - [プロデュース](../Page/音楽プロデューサー.md "wikilink")
-  - [小坂"yusho"洋二](../Page/小坂洋二.md "wikilink") - [エグゼクティブ・プロデューサー](https://ja.wikipedia.org/wiki/エグゼクティブ・プロデューサー "wikilink")
+  - [小坂"yusho"洋二](../Page/小坂洋二.md "wikilink") - [エグゼクティブ・プロデューサー](../Page/エグゼクティブ・プロデューサー.md "wikilink")
   - 松村慶子 - [スーパーバイザー](../Page/スーパーバイザー.md "wikilink")
   - 山口"Multi Killer"三平 - [ディレクト](../Page/ディレクター.md "wikilink")
   - 小池光夫 - [レコーディング](../Page/レコーディング・エンジニア.md "wikilink")、ミックス（1,2曲目）
@@ -161,7 +161,7 @@
   -
 [Category:1985年のミニ・アルバム](https://ja.wikipedia.org/wiki/Category:1985年のミニ・アルバム "wikilink") [Category:EPICソニーのアルバム](https://ja.wikipedia.org/wiki/Category:EPICソニーのアルバム "wikilink") [Category:TM_NETWORKのアルバム](https://ja.wikipedia.org/wiki/Category:TM_NETWORKのアルバム "wikilink") [Category:小室哲哉プロデュースのアルバム](https://ja.wikipedia.org/wiki/Category:小室哲哉プロデュースのアルバム "wikilink")
 
-1.  [ダイヤモンド社](https://ja.wikipedia.org/wiki/ダイヤモンド社 "wikilink")刊『[FM STATION](../Page/FM_STATION.md "wikilink")』1996年7月5日号22Pより。
+1.  [ダイヤモンド社](../Page/ダイヤモンド社.md "wikilink")刊『[FM STATION](../Page/FM_STATION.md "wikilink")』1996年7月5日号22Pより。
 2.
 3.
 4.

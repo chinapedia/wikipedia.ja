@@ -446,7 +446,7 @@
 
   - [MJ -MUSIC JOURNAL-](../Page/MJ_-MUSIC_JOURNAL-.md "wikilink")（1992年10月 - 1994年3月）
   - [HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")（1994年10月 - 2012年12月）
-  - [TK MUSIC CLAMP](https://ja.wikipedia.org/wiki/TK_MUSIC_CLAMP "wikilink")（1995年4月 - 1998年4月）
+  - [TK MUSIC CLAMP](../Page/TK_MUSIC_CLAMP.md "wikilink")（1995年4月 - 1998年4月）
   - [LOVE LOVEあいしてる](https://ja.wikipedia.org/wiki/LOVE_LOVEあいしてる "wikilink")（1996年10月 - 2001年3月）
   - [MUSIC HAMMER](../Page/MUSIC_HAMMER.md "wikilink")（[ビー・ブレーン](../Page/ビー・ブレーン.md "wikilink")　1998年4月 - 2000年3月）
 
@@ -638,7 +638,7 @@
 
   - [ポンキッキーズ21](../Page/ポンキッキーズ21.md "wikilink")（フジテレビKIDS、FCC 2001年4月 - 2005年3月）
   - [ポンキッキーズ](../Page/ポンキッキーズ.md "wikilink")（フジテレビKIDS、FCC 2005年4月 - 2006年3月）
-  - [〜空色グラフィティ〜君に会いたくて](https://ja.wikipedia.org/wiki/〜空色グラフィティ〜君に会いたくて "wikilink")（テレビ東京系列全国ネット、[電通](../Page/電通.md "wikilink")、オフィスクレッシェンド　2005年4月 - 9月）
+  - [〜空色グラフィティ〜君に会いたくて](../Page/〜空色グラフィティ〜君に会いたくて.md "wikilink")（テレビ東京系列全国ネット、[電通](../Page/電通.md "wikilink")、オフィスクレッシェンド　2005年4月 - 9月）
   - [ポンキッキ](../Page/ポンキッキ.md "wikilink")（フジテレビKIDS、FCC 2006年4月 - 2007年3月）
 
 <!-- end list -->
@@ -687,7 +687,7 @@
 
 <!-- end list -->
 
-  - [季節はずれの海岸物語](https://ja.wikipedia.org/wiki/季節はずれの海岸物語 "wikilink")[I](../Page/季節はずれの海岸物語_\(第1作\).md "wikilink")（1988年1月）
+  - [季節はずれの海岸物語](../Page/季節はずれの海岸物語.md "wikilink")[I](../Page/季節はずれの海岸物語_\(第1作\).md "wikilink")（1988年1月）
   - [季節のなかの海岸物語](../Page/季節のなかの海岸物語.md "wikilink")（1988年10月）
   - [季節はずれの海岸物語 砂浜のDESTINY](../Page/季節はずれの海岸物語_砂浜のDESTINY.md "wikilink")（1989年1月）
   - [季節はずれの海岸物語 '89夏](../Page/季節はずれの海岸物語_'89夏.md "wikilink")（1989年8月）

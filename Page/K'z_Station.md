@@ -19,7 +19,7 @@
 
   - ゆるめいつスペシャル（[2009年](../Page/2009年.md "wikilink")（平成21年）[4月24日](../Page/4月24日.md "wikilink")） - 『[ゆるめいつ](https://ja.wikipedia.org/wiki/ゆるめいつ "wikilink")』OVA関連。
       -
-        出演：[桃井はるこ](../Page/桃井はるこ.md "wikilink")、[桑谷夏子](../Page/桑谷夏子.md "wikilink")、[松来未祐](../Page/松来未祐.md "wikilink")、[日野聡](https://ja.wikipedia.org/wiki/日野聡 "wikilink")
+        出演：[桃井はるこ](../Page/桃井はるこ.md "wikilink")、[桑谷夏子](../Page/桑谷夏子.md "wikilink")、[松来未祐](../Page/松来未祐.md "wikilink")、[日野聡](../Page/日野聡.md "wikilink")
   - けものとチャットスペシャル（[2009年](../Page/2009年.md "wikilink")（平成21年）[10月26日](../Page/10月26日.md "wikilink")） - 『[けものとチャット](../Page/けものとチャット.md "wikilink")』OVA関連。
       -
         出演：[植田佳奈](https://ja.wikipedia.org/wiki/植田佳奈 "wikilink")、[矢作紗友里](https://ja.wikipedia.org/wiki/矢作紗友里 "wikilink")、[みずしな孝之](../Page/みずしな孝之.md "wikilink")

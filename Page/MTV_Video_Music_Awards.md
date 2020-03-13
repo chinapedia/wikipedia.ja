@@ -77,7 +77,7 @@ MTV、MTV2と[VH1](https://ja.wikipedia.org/wiki/VH1 "wikilink")で[プライム
 <li><a href="https://ja.wikipedia.org/wiki/a-ha" title="wikilink">a-ha</a> — "<a href="https://ja.wikipedia.org/wiki/テイク・オン・ミー" title="wikilink">Take on Me</a>"</li>
 <li><a href="../Page/ゴドレイ&amp;クレーム.md" title="wikilink">ゴドレイ&amp;クレーム</a> — "Cry"</li>
 <li><a href="../Page/ロバート・パーマー.md" title="wikilink">ロバート・パーマー</a> — "Addicted to Love"</li>
-<li><a href="https://ja.wikipedia.org/wiki/トーキング・ヘッズ" title="wikilink">トーキング・ヘッズ</a> — "Road to Nowhere"</small></li>
+<li><a href="../Page/トーキング・ヘッズ.md" title="wikilink">トーキング・ヘッズ</a> — "Road to Nowhere"</small></li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -104,7 +104,7 @@ MTV、MTV2と[VH1](https://ja.wikipedia.org/wiki/VH1 "wikilink")で[プライム
 </tr>
 <tr class="even">
 <td><p><a href="../Page/1989年.md" title="wikilink">1989年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ニール・ヤング" title="wikilink">ニール・ヤング</a> — "This Note's for You"</p></td>
+<td><p><a href="../Page/ニール・ヤング.md" title="wikilink">ニール・ヤング</a> — "This Note's for You"</p></td>
 <td><p><small></p>
 <ul>
 <li><a href="https://ja.wikipedia.org/wiki/ファイン・ヤング・カニバルズ" title="wikilink">ファイン・ヤング・カニバルズ</a> — "She Drives Me Crazy"</li>
@@ -214,7 +214,7 @@ MTV、MTV2と[VH1](https://ja.wikipedia.org/wiki/VH1 "wikilink")で[プライム
 <td><p><small></p>
 <ul>
 <li><a href="https://ja.wikipedia.org/wiki/バックストリート・ボーイズ" title="wikilink">バックストリート・ボーイズ</a> — "<a href="../Page/アイ・ウォント・イット・ザット・ウェイ.md" title="wikilink">I Want It That Way</a>"</li>
-<li><a href="https://ja.wikipedia.org/wiki/コーン_(バンド)" title="wikilink">コーン</a> — "Freak on a Leash"</li>
+<li><a href="../Page/コーン_(バンド).md" title="wikilink">コーン</a> — "Freak on a Leash"</li>
 <li><a href="../Page/リッキー・マーティン.md" title="wikilink">リッキー・マーティン</a> — "<a href="https://ja.wikipedia.org/wiki/リヴィン・ラ・ヴィダ・ロカ" title="wikilink">Livin' la Vida Loca</a>"</li>
 <li><a href="../Page/ウィル・スミス.md" title="wikilink">ウィル・スミス</a> (featuring <a href="https://ja.wikipedia.org/wiki/Dru_Hill" title="wikilink">Dru Hill</a> and <a href="https://ja.wikipedia.org/wiki/Kool_Moe_Dee" title="wikilink">Kool Moe Dee</a>) — "Wild Wild West"</small></li>
 </ul></td>
@@ -278,7 +278,7 @@ MTV、MTV2と[VH1](https://ja.wikipedia.org/wiki/VH1 "wikilink")で[プライム
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
 <td><p><a href="../Page/グリーン・デイ.md" title="wikilink">グリーン・デイ</a> — "<a href="https://ja.wikipedia.org/wiki/ブールヴァード・オブ・ブロークン・ドリームス" title="wikilink">Boulevard of Broken Dreams</a>"</p></td>
 <td><p><small></p>
 <ul>
@@ -362,7 +362,7 @@ MTV、MTV2と[VH1](https://ja.wikipedia.org/wiki/VH1 "wikilink")で[プライム
 <td><p><a href="../Page/リアーナ.md" title="wikilink">リアーナ</a>(featuring <a href="https://ja.wikipedia.org/wiki/カルヴィン・ハリス" title="wikilink">カルヴィン・ハリス</a>) — <a href="https://ja.wikipedia.org/wiki/ウィ・ファウンド・ラヴ" title="wikilink">ウィ・ファウンド・ラヴ</a></p></td>
 <td><p><small></p>
 <ul>
-<li><a href="https://ja.wikipedia.org/wiki/ドレイク" title="wikilink">ドレイク</a>(featuring <a href="../Page/リアーナ.md" title="wikilink">リアーナ</a>) — <a href="https://ja.wikipedia.org/wiki/:en:Take_Care_(song)" title="wikilink">Take Care</a></li>
+<li><a href="../Page/ドレイク.md" title="wikilink">ドレイク</a>(featuring <a href="../Page/リアーナ.md" title="wikilink">リアーナ</a>) — <a href="https://ja.wikipedia.org/wiki/:en:Take_Care_(song)" title="wikilink">Take Care</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ゴティエ" title="wikilink">ゴティエ</a>(featuring <a href="https://ja.wikipedia.org/wiki/キンブラ" title="wikilink">キンブラ</a>) — <a href="https://ja.wikipedia.org/wiki/:en:Somebody_That_I_Used_to_Know_(song)" title="wikilink">Somebody That I Used to Know</a></li>
 <li><a href="../Page/ケイティ・ペリー.md" title="wikilink">ケイティ・ペリー</a> — <a href="https://ja.wikipedia.org/wiki/:en:Wide_Awake_(Katy_Perry_song)" title="wikilink">Wide Awake</a></li>
 <li><a href="../Page/M.I.A._(歌手).md" title="wikilink">M.I.A. (歌手)</a> — <a href="https://ja.wikipedia.org/wiki/:en:Bad_Girls_(M.I.A._song)" title="wikilink">Bad Girls</a> </small></li>
@@ -400,7 +400,7 @@ MTV、MTV2と[VH1](https://ja.wikipedia.org/wiki/VH1 "wikilink")で[プライム
 ## 関連項目
 
   - [MTV Video Music Awards 2009](https://ja.wikipedia.org/wiki/MTV_Video_Music_Awards_2009 "wikilink")
-  - [MTV Video Music Awards Japan](https://ja.wikipedia.org/wiki/MTV_Video_Music_Awards_Japan "wikilink") （[MTVジャパン](../Page/MTVジャパン.md "wikilink")主催の音楽の祭典）
+  - [MTV Video Music Awards Japan](../Page/MTV_Video_Music_Awards_Japan.md "wikilink") （[MTVジャパン](../Page/MTVジャパン.md "wikilink")主催の音楽の祭典）
   - [MTV Europe Music Awards](https://ja.wikipedia.org/wiki/MTV_Europe_Music_Awards "wikilink")
   - [MTVオーストラリア・アワード](https://ja.wikipedia.org/wiki/MTVオーストラリア・アワード "wikilink")
   - [MTV Asia Awards](https://ja.wikipedia.org/wiki/MTV_Asia_Awards "wikilink")

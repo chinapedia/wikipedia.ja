@@ -1,9 +1,9 @@
 > この記事は[NTT](https://ja.wikipedia.org/wiki/NTT)から翻訳されています。
 
 
-**NTT東日本船橋グラウンド**（エヌティティひがしにほんふなばしグラウンド）は、[千葉県](../Page/千葉県.md "wikilink")[船橋市](https://ja.wikipedia.org/wiki/船橋市 "wikilink")にある野球場である。その名のとおり、[NTT東日本硬式野球部](../Page/NTT東日本硬式野球部.md "wikilink")の練習場として利用されているほか、オープン戦が行われている。[公認野球規則](https://ja.wikipedia.org/wiki/公認野球規則 "wikilink")で定められた規格を満たしていないが、当該規定の施行前に竣工した球場であるため、公式戦を開くことも可能であり、実際に第2回[全日本クラブ野球選手権](https://ja.wikipedia.org/wiki/全日本クラブ野球選手権 "wikilink")の会場として使用されたこともある。
+**NTT東日本船橋グラウンド**（エヌティティひがしにほんふなばしグラウンド）は、[千葉県](../Page/千葉県.md "wikilink")[船橋市](https://ja.wikipedia.org/wiki/船橋市 "wikilink")にある野球場である。その名のとおり、[NTT東日本硬式野球部](../Page/NTT東日本硬式野球部.md "wikilink")の練習場として利用されているほか、オープン戦が行われている。[公認野球規則](../Page/公認野球規則.md "wikilink")で定められた規格を満たしていないが、当該規定の施行前に竣工した球場であるため、公式戦を開くことも可能であり、実際に第2回[全日本クラブ野球選手権](https://ja.wikipedia.org/wiki/全日本クラブ野球選手権 "wikilink")の会場として使用されたこともある。
 
-もともとは船橋市に本拠地を置いていた[NTT関東のホームグラウンドであったが](https://ja.wikipedia.org/wiki/NTT関東硬式野球部 "wikilink")、[1999年](../Page/1999年.md "wikilink")に[NTTが組織大再編を実施したのに伴い](https://ja.wikipedia.org/wiki/日本電信電話 "wikilink")、野球部も[NTT東日本と](../Page/NTT東日本硬式野球部.md "wikilink")[NTT西日本に統合することとなり](../Page/NTT西日本硬式野球部.md "wikilink")、NTT関東は廃部となった。しかし、選手寮など設備が充実していることから、NTT東京から衣替えしたNTT東日本が船橋の施設を引き続き利用することとなったものである。
+もともとは船橋市に本拠地を置いていた[NTT関東のホームグラウンドであったが](https://ja.wikipedia.org/wiki/NTT関東硬式野球部 "wikilink")、[1999年](../Page/1999年.md "wikilink")に[NTTが組織大再編を実施したのに伴い](../Page/日本電信電話.md "wikilink")、野球部も[NTT東日本と](../Page/NTT東日本硬式野球部.md "wikilink")[NTT西日本に統合することとなり](../Page/NTT西日本硬式野球部.md "wikilink")、NTT関東は廃部となった。しかし、選手寮など設備が充実していることから、NTT東京から衣替えしたNTT東日本が船橋の施設を引き続き利用することとなったものである。
 
 近くには民家や自動車教習所があるため、非常に高いネットで囲まれているのが特徴である。
 

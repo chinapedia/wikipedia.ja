@@ -9,11 +9,11 @@
   - チリンヶ丘三丁目（暴走列車, UJT web）
   - ドープ子ちゃん（Ollie Girls [三栄書房](https://ja.wikipedia.org/wiki/三栄書房 "wikilink")）
   - ハイ！こちらFRESH研究所（dazzlin' [白夜書房](../Page/白夜書房.md "wikilink")）
-  - 少年DJダドーン（dig-it [シンコーミュージック・エンタテイメント](https://ja.wikipedia.org/wiki/シンコーミュージック・エンタテイメント "wikilink")）
+  - 少年DJダドーン（dig-it [シンコーミュージック・エンタテイメント](../Page/シンコーミュージック・エンタテイメント.md "wikilink")）
   - UJTのマンガDROP\!（bounce [タワーレコード](../Page/タワーレコード.md "wikilink")）
   - fika with ゲッチャン（fika [ソニー・エリクソン・モバイルコミュニケーションズ](https://ja.wikipedia.org/wiki/ソニー・エリクソン・モバイルコミュニケーションズ "wikilink")）
   - Don't Stopメンストくん（[Men's Street](../Page/Men's_Street.md "wikilink") [竹書房](../Page/竹書房.md "wikilink")）
-  - 日本ペンキ塗装研究会の画子ちゃん（[WOOFIN'](https://ja.wikipedia.org/wiki/WOOFIN' "wikilink") [シンコーミュージック・エンタテイメント](https://ja.wikipedia.org/wiki/シンコーミュージック・エンタテイメント "wikilink")）
+  - 日本ペンキ塗装研究会の画子ちゃん（[WOOFIN'](https://ja.wikipedia.org/wiki/WOOFIN' "wikilink") [シンコーミュージック・エンタテイメント](../Page/シンコーミュージック・エンタテイメント.md "wikilink")）
 
 ## 単行本リスト
 

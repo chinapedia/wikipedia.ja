@@ -369,7 +369,7 @@ U-12（千葉県）</p></td>
 </tr>
 <tr class="odd">
 <td><p>29</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
 <td><p>横浜F・マリノス<br />
 プライマリー（神奈川県）</p></td>
 <td><p>2-0</p></td>

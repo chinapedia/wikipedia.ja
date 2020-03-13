@@ -218,7 +218,7 @@ PlotData=
   - [1972年](../Page/1972年.md "wikilink")
       - 11月28日：[日本武道館](../Page/日本武道館.md "wikilink")
       - 11月29日：[愛知県体育館](../Page/愛知県体育館.md "wikilink")
-      - 12月1日：[大阪府立体育館](https://ja.wikipedia.org/wiki/大阪府立体育会館 "wikilink")
+      - 12月1日：[大阪府立体育館](../Page/大阪府立体育会館.md "wikilink")
       - 12月4日：日本武道館
   - [1973年](../Page/1973年.md "wikilink")
       - 10月25日：日本武道館
@@ -236,7 +236,7 @@ PlotData=
   - 『[ティラノザウルス・レックス登場\!\!](../Page/ティラノザウルス・レックス登場!!.md "wikilink")』 - *My People Were Fair And Had Sky In Their Hair, But Now They're Content To Wear Stars On Their Brows*（[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")）
   - 『[神秘の覇者](https://ja.wikipedia.org/wiki/神秘の覇者 "wikilink")』 - *Prophets, Seers And Sages, The Angels Of The Ages*（1968年）
   - 『[ユニコーン](../Page/ユニコーン_\(アルバム\).md "wikilink")』 - *Unicorn*（[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")）
-  - 『[ベアード・オブ・スターズ](https://ja.wikipedia.org/wiki/ベアード・オブ・スターズ "wikilink")』 - *A Beard Of Stars*（[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")）
+  - 『[ベアード・オブ・スターズ](https://ja.wikipedia.org/wiki/ベアード・オブ・スターズ "wikilink")』 - *A Beard Of Stars*（[1970年](../Page/1970年.md "wikilink")）
 
 ### T・レックス
 

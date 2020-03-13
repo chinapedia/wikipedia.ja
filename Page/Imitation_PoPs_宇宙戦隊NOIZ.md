@@ -295,5 +295,5 @@
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ヴィジュアル系](https://ja.wikipedia.org/wiki/Category:ヴィジュアル系 "wikilink") [Category:ミクスチャー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:ミクスチャー・ロック・バンド "wikilink")
 
-1.  東京FM出版刊[ROCK AND READ](https://ja.wikipedia.org/wiki/ROCK_AND_READ "wikilink")024のインタビューによる
+1.  東京FM出版刊[ROCK AND READ](../Page/ROCK_AND_READ.md "wikilink")024のインタビューによる
 2.  公式サイト、PROFILE

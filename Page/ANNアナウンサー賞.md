@@ -5,7 +5,7 @@
 
 ## 概要
 
-前年10月1日から当年9月30日までに放送された番組を対象として審査が行われ、毎年11月に表彰式が行われる。その模様はテレビ朝日アナウンス部ホームページや広報番組「[はい\!テレビ朝日です](https://ja.wikipedia.org/wiki/はい!テレビ朝日です "wikilink")」で紹介される。
+前年10月1日から当年9月30日までに放送された番組を対象として審査が行われ、毎年11月に表彰式が行われる。その模様はテレビ朝日アナウンス部ホームページや広報番組「[はい\!テレビ朝日です](../Page/はい!テレビ朝日です.md "wikilink")」で紹介される。
 
 ## 部門
 
@@ -47,27 +47,27 @@
 </tr>
 <tr class="even">
 <td><p>第3回（<a href="../Page/2004年.md" title="wikilink">2004年</a>）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/森さやか" title="wikilink">森さやか</a><br />
+<td><p><a href="../Page/森さやか.md" title="wikilink">森さやか</a><br />
 （北海道テレビ放送）</p></td>
 </tr>
 <tr class="odd">
-<td><p>第4回（<a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a>）</p></td>
+<td><p>第4回（<a href="../Page/2005年.md" title="wikilink">2005年</a>）</p></td>
 <td><p><a href="../Page/三河かおり.md" title="wikilink">三河かおり</a><br />
 （<a href="https://ja.wikipedia.org/wiki/新潟テレビ21" title="wikilink">新潟テレビ21</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>第5回（<a href="../Page/2006年.md" title="wikilink">2006年</a>）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/神取恭子" title="wikilink">神取恭子</a><br />
+<td><p><a href="../Page/神取恭子.md" title="wikilink">神取恭子</a><br />
 （<a href="../Page/名古屋テレビ放送.md" title="wikilink">名古屋テレビ</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>第6回（<a href="../Page/2007年.md" title="wikilink">2007年</a>）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/深津麻弓" title="wikilink">深津麻弓</a><br />
+<td><p><a href="../Page/深津麻弓.md" title="wikilink">深津麻弓</a><br />
 （名古屋テレビ）</p></td>
 </tr>
 <tr class="even">
 <td><p>第7回（<a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a>）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小坂深和" title="wikilink">小坂深和</a><br />
+<td><p><a href="../Page/小坂深和.md" title="wikilink">小坂深和</a><br />
 （山形テレビ）</p></td>
 </tr>
 <tr class="odd">

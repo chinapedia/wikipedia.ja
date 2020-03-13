@@ -163,7 +163,7 @@
 <tr class="even">
 <td><p>1975年（第18回）</p></td>
 <td></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ヤマハ硬式野球部" title="wikilink">日本楽器</a></strong></p></td>
+<td><p><strong><a href="../Page/ヤマハ硬式野球部.md" title="wikilink">日本楽器</a></strong></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -219,7 +219,7 @@
 <tr class="odd">
 <td><p>1982年（第25回）</p></td>
 <td></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/明治安田生命硬式野球部" title="wikilink">明治生命</a></strong></p></td>
+<td><p><strong><a href="../Page/明治安田生命硬式野球部.md" title="wikilink">明治生命</a></strong></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -379,7 +379,7 @@
 <tr class="odd">
 <td><p>2002年（第45回）</p></td>
 <td></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/三菱重工名古屋硬式野球部" title="wikilink">三菱重工名古屋</a></strong></p></td>
+<td><p><strong><a href="../Page/三菱重工名古屋硬式野球部.md" title="wikilink">三菱重工名古屋</a></strong></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -387,7 +387,7 @@
 <tr class="even">
 <td><p>2003年（第46回）</p></td>
 <td><p>10</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/東邦ガス硬式野球部" title="wikilink">東邦ガス</a></strong></p></td>
+<td><p><strong><a href="../Page/東邦ガス硬式野球部.md" title="wikilink">東邦ガス</a></strong></p></td>
 <td><p><strong>8</strong> - 1</p></td>
 <td><p><a href="../Page/日本ウェルネススポーツ専門学校.md" title="wikilink">日本ウェルネススポーツ専門学校</a></p></td>
 <td></td>
@@ -395,7 +395,7 @@
 <tr class="odd">
 <td><p>2004年（第47回）</p></td>
 <td><p>10</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/東海理化硬式野球部" title="wikilink">東海理化</a></strong></p></td>
+<td><p><strong><a href="../Page/東海理化硬式野球部.md" title="wikilink">東海理化</a></strong></p></td>
 <td><p><strong>4</strong> - 3</p></td>
 <td><p>三菱重工名古屋</p></td>
 <td><p>決勝戦は延長10回。</p></td>
@@ -403,7 +403,7 @@
 <tr class="even">
 <td><p>2005年（第48回）</p></td>
 <td><p>11</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ヤマハ硬式野球部" title="wikilink">ヤマハ</a></strong></p></td>
+<td><p><strong><a href="../Page/ヤマハ硬式野球部.md" title="wikilink">ヤマハ</a></strong></p></td>
 <td><p><strong>5</strong> - 4</p></td>
 <td><p>東海理化</p></td>
 <td><p>決勝戦は延長13回。</p></td>
@@ -411,9 +411,9 @@
 <tr class="odd">
 <td><p>2006年（第49回）</p></td>
 <td><p>11</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/JR東日本硬式野球部" title="wikilink">JR東日本</a></strong></p></td>
+<td><p><strong><a href="../Page/JR東日本硬式野球部.md" title="wikilink">JR東日本</a></strong></p></td>
 <td><p><strong>5</strong> - 1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/JR東海硬式野球部" title="wikilink">JR東海</a></p></td>
+<td><p><a href="../Page/JR東海硬式野球部.md" title="wikilink">JR東海</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -461,7 +461,7 @@
 <td><p>11</p></td>
 <td><p><strong>JR東海</strong></p></td>
 <td><p><strong>2</strong> - 1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/セガサミー硬式野球部" title="wikilink">セガサミー</a></p></td>
+<td><p><a href="../Page/セガサミー硬式野球部.md" title="wikilink">セガサミー</a></p></td>
 <td><p>決勝戦は延長12回。</p></td>
 </tr>
 <tr class="even">
@@ -477,7 +477,7 @@
 <td><p>11</p></td>
 <td><p><strong><a href="../Page/Honda鈴鹿硬式野球部.md" title="wikilink">Honda鈴鹿</a></strong></p></td>
 <td><p><strong>1</strong> - 0</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/鷺宮製作所硬式野球部" title="wikilink">鷺宮製作所</a></p></td>
+<td><p><a href="../Page/鷺宮製作所硬式野球部.md" title="wikilink">鷺宮製作所</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

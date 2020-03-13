@@ -15,7 +15,7 @@
 
 ## ストーリー
 
-現実とは異なる歴史を歩んだ世界。超大国**大亜細亜連邦共和国**は**[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")連合**との50年間の戦争に勝利したが、国内は[環境破壊](https://ja.wikipedia.org/wiki/環境破壊 "wikilink")により[公害病](https://ja.wikipedia.org/wiki/公害病 "wikilink")が蔓延していた。また[人種階級差別を是とする政治体制へ反発する内紛も続いていた](../Page/人種差別.md "wikilink")。
+現実とは異なる歴史を歩んだ世界。超大国**大亜細亜連邦共和国**は**[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")連合**との50年間の戦争に勝利したが、国内は[環境破壊](https://ja.wikipedia.org/wiki/環境破壊 "wikilink")により[公害病](../Page/公害病.md "wikilink")が蔓延していた。また[人種階級差別を是とする政治体制へ反発する内紛も続いていた](../Page/人種差別.md "wikilink")。
 
 [遺伝子工学](../Page/遺伝子工学.md "wikilink")の第一人者の**東光太郎**(以下「東博士」と表記)は、画期的な[再生医療](https://ja.wikipedia.org/wiki/再生医療 "wikilink")を可能とする新理論**新造細胞**を学会で発表し、実用化のため理解と支援を広く求めた。学会の反応は冷たかったが、国家元首の**上条将軍**は、貿易商社「日興ハイラル」の社員**内藤**を通じて支援を申し出る。難病を患う妻**ミドリ**のために、一刻も早く研究を完成させたかった東博士は申し出を受ける。
 
@@ -44,7 +44,7 @@
   - ユーラシア第七管区
     大亜細亜連邦の地域のひとつ。環境汚染の被害を強く受けている。鉄也とその部隊はテロリスト殲滅の命令を受けてこの地に派兵され、虐殺を行った。異形の稲妻が落ちた後、新造細胞の実験体である人体確保のため再び大亜細亜連邦軍に襲撃されることとなり、同時に科学者・技術者拉致のため赴いた新造人間も加わり、鉄也と三つ巴乱戦の場と化す。
   - ユーラシア第七管区住民
-    大亜細亜連邦共和国内でテロにより抵抗を続けている少数民族。容姿は現実世界の[日本人](https://ja.wikipedia.org/wiki/日本人 "wikilink")に酷似しており、生活水準は低く貧困層にある。過去、戦乱に巻き込まれたことから、外部の人間に対して異常なまでに警戒心が強い。物語の終盤において、実は地球人類の全ての始祖となる『[オリジナル･ヒューマン](https://ja.wikipedia.org/wiki/ミトコンドリア・イブ "wikilink")』であったことが明かされる。新造細胞の実験のため[乱獲](../Page/乱獲.md "wikilink")されたのはこれが理由であった。
+    大亜細亜連邦共和国内でテロにより抵抗を続けている少数民族。容姿は現実世界の[日本人](https://ja.wikipedia.org/wiki/日本人 "wikilink")に酷似しており、生活水準は低く貧困層にある。過去、戦乱に巻き込まれたことから、外部の人間に対して異常なまでに警戒心が強い。物語の終盤において、実は地球人類の全ての始祖となる『[オリジナル･ヒューマン](../Page/ミトコンドリア・イブ.md "wikilink")』であったことが明かされる。新造細胞の実験のため[乱獲](../Page/乱獲.md "wikilink")されたのはこれが理由であった。
   - キャシャーン（CASSHERN）
     第七管区の民族が信仰する守り神。神像は両手に雷を握り背中に羽根を持った青年の姿。逃避行中に汚染地域を通ったため発病したルナと鉄也を第七管区の老医師が助けるが、その老医師からキャシャーンの伝説を語られる。その後、再び大亜細亜連邦軍が襲撃してきたとき「この街を救えるか？」と問われ、鉄也はそのキャシャーンを名乗り、大亜細亜連邦軍や新造人間の「バラシン」と戦う。
   - 高機能ボディアーマー
@@ -66,18 +66,18 @@
   - アクボーン（新造人間） - [宮迫博之](https://ja.wikipedia.org/wiki/宮迫博之 "wikilink")
   - サグレー（新造人間） - [佐田真由美](../Page/佐田真由美.md "wikilink")
   - バラシン（新造人間） - [要潤](../Page/要潤.md "wikilink")
-  - 上条又一郎 / 上条将軍（上条ミキオの父） - [大滝秀治](https://ja.wikipedia.org/wiki/大滝秀治 "wikilink")
-  - 上条ミキオ / 上条中佐（クーデター決行後は『総帥』） - [西島秀俊](https://ja.wikipedia.org/wiki/西島秀俊 "wikilink")
+  - 上条又一郎 / 上条将軍（上条ミキオの父） - [大滝秀治](../Page/大滝秀治.md "wikilink")
+  - 上条ミキオ / 上条中佐（クーデター決行後は『総帥』） - [西島秀俊](../Page/西島秀俊.md "wikilink")
   - 内藤薫（日興ハイラル社員） - [及川光博](../Page/及川光博.md "wikilink")
   - 老医師 - [三橋達也](../Page/三橋達也.md "wikilink")（特別出演）
   - 坂本（東鉄也の従軍時代の上官） - [寺島進](https://ja.wikipedia.org/wiki/寺島進 "wikilink")
-  - ルナの母親 - [森口瑤子](https://ja.wikipedia.org/wiki/森口瑤子 "wikilink")
+  - ルナの母親 - [森口瑤子](../Page/森口瑤子.md "wikilink")
   - ブライキング・ボスの妻 - [鶴田真由](../Page/鶴田真由.md "wikilink")
   - ブライキング・ボスの子 - 福島翔大
   - 関口（東鉄也の従軍時代の戦友） - [玉山鉄二](../Page/玉山鉄二.md "wikilink")
   - 池上（東ミドリの助手） - [りょう](https://ja.wikipedia.org/wiki/りょう "wikilink")
   - 老軍人 - [伊藤幸純](https://ja.wikipedia.org/wiki/伊藤幸純 "wikilink")、[山本哲也](https://ja.wikipedia.org/wiki/山本哲也_\(俳優\) "wikilink")、[児玉頼信](../Page/児玉頼信.md "wikilink")、[戸沢佑介](https://ja.wikipedia.org/wiki/戸沢佑介 "wikilink")
-  - 東博士の助手 - [戸田昌宏](https://ja.wikipedia.org/wiki/戸田昌宏 "wikilink")、亀石太夏匡、[伊藤淳史](https://ja.wikipedia.org/wiki/伊藤淳史 "wikilink")、水谷ノブ
+  - 東博士の助手 - [戸田昌宏](https://ja.wikipedia.org/wiki/戸田昌宏 "wikilink")、亀石太夏匡、[伊藤淳史](../Page/伊藤淳史.md "wikilink")、水谷ノブ
   - 聴衆 - 坂本宗一郎、[桜井聖](../Page/桜井聖.md "wikilink")
   - 虐殺される民間人 - [HISASHI](../Page/HISASHI.md "wikilink") & [TAKURO](../Page/TAKURO.md "wikilink")（[GLAY](../Page/GLAY.md "wikilink"))）
   - オープニングナレーション - [納谷悟朗](../Page/納谷悟朗.md "wikilink")
@@ -86,8 +86,8 @@
 
   - 原作：[吉田竜夫](../Page/吉田竜夫.md "wikilink") / [タツノコプロ](../Page/タツノコプロ.md "wikilink")『[新造人間キャシャーン](../Page/新造人間キャシャーン.md "wikilink")』
   - 監督・撮影監督：[紀里谷和明](../Page/紀里谷和明.md "wikilink")
-  - 脚本：紀里谷和明、[菅正太郎](https://ja.wikipedia.org/wiki/菅正太郎 "wikilink")、[佐藤大](https://ja.wikipedia.org/wiki/佐藤大 "wikilink")
-  - 音楽：[鷺巣詩郎](https://ja.wikipedia.org/wiki/鷺巣詩郎 "wikilink")
+  - 脚本：紀里谷和明、[菅正太郎](../Page/菅正太郎.md "wikilink")、[佐藤大](../Page/佐藤大.md "wikilink")
+  - 音楽：[鷺巣詩郎](../Page/鷺巣詩郎.md "wikilink")
   - プロデュース：[宮島秀司](https://ja.wikipedia.org/wiki/宮島秀司 "wikilink")、[小澤俊晴](https://ja.wikipedia.org/wiki/小澤俊晴 "wikilink")
   - プロデューサー：[若林利明](https://ja.wikipedia.org/wiki/若林利明 "wikilink")
   - 美術：[林田裕至](https://ja.wikipedia.org/wiki/林田裕至 "wikilink")
@@ -110,7 +110,7 @@
   - ラインプロデューサー：[椋樹弘尚](https://ja.wikipedia.org/wiki/椋樹弘尚 "wikilink")
   - アソシエイトプロデューサー：[野地千秋](https://ja.wikipedia.org/wiki/野地千秋 "wikilink")、[田中誠](../Page/田中誠_\(映画監督\).md "wikilink")、[姉川佳弘](https://ja.wikipedia.org/wiki/姉川佳弘 "wikilink")
   - 音楽プロデューサー：[高石真美](https://ja.wikipedia.org/wiki/高石真美 "wikilink")
-  - 製作：CASSHERNパートナーズ（[松竹](../Page/松竹.md "wikilink")、[プログレッシブピクチャーズ](https://ja.wikipedia.org/wiki/プログレッシブピクチャーズ "wikilink")、[エレクトリック・ゴースト](https://ja.wikipedia.org/wiki/エレクトリック・ゴースト "wikilink")、[衛星劇場](https://ja.wikipedia.org/wiki/衛星劇場 "wikilink")、[テレビ朝日](../Page/テレビ朝日.md "wikilink")、[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")、[タカラトミー](../Page/タカラトミー.md "wikilink")、[伊藤忠商事](https://ja.wikipedia.org/wiki/伊藤忠商事 "wikilink")、[TOKYO FM](../Page/エフエム東京.md "wikilink")、[イーンソリューションズ](https://ja.wikipedia.org/wiki/イーンソリューションズ "wikilink")、[菱和ライフクリエイト](https://ja.wikipedia.org/wiki/菱和ライフクリエイト "wikilink")、[ビッグショット](../Page/ビッグショット_\(広告代理店\).md "wikilink")）
+  - 製作：CASSHERNパートナーズ（[松竹](../Page/松竹.md "wikilink")、[プログレッシブピクチャーズ](https://ja.wikipedia.org/wiki/プログレッシブピクチャーズ "wikilink")、[エレクトリック・ゴースト](https://ja.wikipedia.org/wiki/エレクトリック・ゴースト "wikilink")、[衛星劇場](../Page/衛星劇場.md "wikilink")、[テレビ朝日](../Page/テレビ朝日.md "wikilink")、[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")、[タカラトミー](../Page/タカラトミー.md "wikilink")、[伊藤忠商事](https://ja.wikipedia.org/wiki/伊藤忠商事 "wikilink")、[TOKYO FM](../Page/エフエム東京.md "wikilink")、[イーンソリューションズ](https://ja.wikipedia.org/wiki/イーンソリューションズ "wikilink")、[菱和ライフクリエイト](https://ja.wikipedia.org/wiki/菱和ライフクリエイト "wikilink")、[ビッグショット](../Page/ビッグショット_\(広告代理店\).md "wikilink")）
 
 ## テーマソング・挿入歌
 
@@ -122,7 +122,7 @@
       - [HYDE](https://ja.wikipedia.org/wiki/HYDE "wikilink")「MASQUERADE」
       - [TOWA TEI](https://ja.wikipedia.org/wiki/テイトウワ "wikilink")「ORIGINAL HUMAN」
       - [ACIDMAN](../Page/ACIDMAN.md "wikilink")「[水写](../Page/水写.md "wikilink")」
-      - SS:ST（[Shiro SAGISU](https://ja.wikipedia.org/wiki/鷺巣詩郎 "wikilink") & [Satoshi TOMIIE](https://ja.wikipedia.org/wiki/富家哲 "wikilink")）「Pluriel」
+      - SS:ST（[Shiro SAGISU](../Page/鷺巣詩郎.md "wikilink") & [Satoshi TOMIIE](https://ja.wikipedia.org/wiki/富家哲 "wikilink")）「Pluriel」
       - [鬼束ちひろ](https://ja.wikipedia.org/wiki/鬼束ちひろ "wikilink")「BORDERLINE」
       - [THE BACK HORN](../Page/THE_BACK_HORN.md "wikilink")「レクイエム」
       - [GLAY](../Page/GLAY.md "wikilink")「無限のdéjà vuから〜Peaceful Session〜」
@@ -141,7 +141,7 @@
 
 ## 海外展開
 
-北米では[ドリームワークス](https://ja.wikipedia.org/wiki/ドリームワークス "wikilink")が[2004年](../Page/2004年.md "wikilink")11月に配給権を獲得していたが[2007年](../Page/2007年.md "wikilink")[10月16日](../Page/10月16日.md "wikilink")にDVDとしてリリースした。[アジア](https://ja.wikipedia.org/wiki/アジア "wikilink")、[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")各国でも公開されVHS、DVDが発売されている。また、国内に先行して[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")にイタリアで、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")にドイツで[Blu-ray Discがそれぞれ発売されている](../Page/Blu-ray_Disc.md "wikilink")。
+北米では[ドリームワークス](../Page/ドリームワークス.md "wikilink")が[2004年](../Page/2004年.md "wikilink")11月に配給権を獲得していたが[2007年](../Page/2007年.md "wikilink")[10月16日](../Page/10月16日.md "wikilink")にDVDとしてリリースした。[アジア](../Page/アジア.md "wikilink")、[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")各国でも公開されVHS、DVDが発売されている。また、国内に先行して[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")にイタリアで、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")にドイツで[Blu-ray Discがそれぞれ発売されている](../Page/Blu-ray_Disc.md "wikilink")。
 
 ## 評価
 
@@ -149,7 +149,7 @@
 
 DVD発売時のamazonでの評価を見ると、多い順に☆5☆4☆1と元々興味のある人対象とは言え賛否両論という結果になった。低評価はやはり「原作と違う」が多く他には「画面が暗い」「テーマが良くない」等があった。高評価では映像・演技・音楽の他に「テーマが良かった」「余韻が良かった」等があった。
 
-一方で製作費6億円に対し、興行収入約15億3000万円と商業的には成功しており\[14\]。紀里谷は、2009年の『[SPA\!](https://ja.wikipedia.org/wiki/SPA! "wikilink")』5/5・12合併号のインタビューで「出資者に出資額を130%にして返したんです。なのに世の中的には『コケた』ってことに。」と語った。
+一方で製作費6億円に対し、興行収入約15億3000万円と商業的には成功しており\[14\]。紀里谷は、2009年の『[SPA\!](../Page/SPA!.md "wikilink")』5/5・12合併号のインタビューで「出資者に出資額を130%にして返したんです。なのに世の中的には『コケた』ってことに。」と語った。
 
 ## 受賞
 

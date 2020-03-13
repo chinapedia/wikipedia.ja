@@ -7,7 +7,7 @@
 
 ## 概要
 
-電気機器製造会社の[TDK](../Page/TDK.md "wikilink")が、[秋田県](../Page/秋田県.md "wikilink")[仁賀保町](../Page/仁賀保町.md "wikilink")で活動する[TDK硬式野球部](https://ja.wikipedia.org/wiki/TDK硬式野球部 "wikilink")に続く第2のチームとして、に[長野県](../Page/長野県.md "wikilink")[佐久市](../Page/佐久市.md "wikilink")の千曲川工場を本拠地とし『**TDK千曲川硬式野球部**』として創部。
+電気機器製造会社の[TDK](../Page/TDK.md "wikilink")が、[秋田県](../Page/秋田県.md "wikilink")[仁賀保町](../Page/仁賀保町.md "wikilink")で活動する[TDK硬式野球部](../Page/TDK硬式野球部.md "wikilink")に続く第2のチームとして、に[長野県](../Page/長野県.md "wikilink")[佐久市](../Page/佐久市.md "wikilink")の千曲川工場を本拠地とし『**TDK千曲川硬式野球部**』として創部。
 
 に[日本選手権に初出場を果たすと](https://ja.wikipedia.org/wiki/第26回社会人野球日本選手権大会 "wikilink")、[21世紀](../Page/21世紀.md "wikilink")に入ってからは全国大会の出場回数が増え、には[都市対抗野球に初出場した](../Page/第76回都市対抗野球大会.md "wikilink")。さらに、の[都市対抗野球では本社チームとダブル出場を果たした](https://ja.wikipedia.org/wiki/第79回都市対抗野球大会 "wikilink")。
 
@@ -17,8 +17,8 @@
 
   - [1982年](../Page/1982年.md "wikilink") - 『**TDK千曲川**』として創部。
   - [1999年](../Page/1999年.md "wikilink") - [日本選手権に初出場](https://ja.wikipedia.org/wiki/第26回社会人野球日本選手権大会 "wikilink")（初戦敗退）。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") - [都市対抗野球に初出場](https://ja.wikipedia.org/wiki/第79回都市対抗野球大会 "wikilink")（初戦敗退）。
-  - [2009年](../Page/2009年.md "wikilink") - 解散。[TDKと統合](https://ja.wikipedia.org/wiki/TDK硬式野球部 "wikilink")。
+  - [2005年](../Page/2005年.md "wikilink") - [都市対抗野球に初出場](https://ja.wikipedia.org/wiki/第79回都市対抗野球大会 "wikilink")（初戦敗退）。
+  - [2009年](../Page/2009年.md "wikilink") - 解散。[TDKと統合](../Page/TDK硬式野球部.md "wikilink")。
 
 ## 主要大会の出場歴・最高成績
 
@@ -28,7 +28,7 @@
 ## 主な出身プロ野球選手
 
   - [山本淳](../Page/山本淳.md "wikilink")（[投手](../Page/投手.md "wikilink")） - 大学生・社会人ドラフト3位で[西武ライオンズに入団](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")
-  - [大城祐二](../Page/大城祐二.md "wikilink")（[内野手](../Page/内野手.md "wikilink")） - 2006年大学生・社会人ドラフト5位で[阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")に入団
+  - [大城祐二](../Page/大城祐二.md "wikilink")（[内野手](../Page/内野手.md "wikilink")） - 2006年大学生・社会人ドラフト5位で[阪神タイガース](../Page/阪神タイガース.md "wikilink")に入団
 
 ## 関連項目
 

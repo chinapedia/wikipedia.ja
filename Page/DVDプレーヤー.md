@@ -15,13 +15,13 @@
 
 DVDプレーヤー以外に[2000年](../Page/2000年.md "wikilink")にDVD-Video再生対応の[ゲーム](../Page/ゲーム.md "wikilink")機「[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")」（当初の標準価格は39800円）が発売された。以後日本で発売された[ゲーム](../Page/ゲーム.md "wikilink")機では[Q](https://ja.wikipedia.org/wiki/ニンテンドーゲームキューブ#互換機「Q」 "wikilink")（[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")の派生機種）、[Xbox](../Page/Xbox_\(ゲーム機\).md "wikilink")、[Xbox 360](../Page/Xbox_360.md "wikilink")、[Xbox One](https://ja.wikipedia.org/wiki/Xbox_One "wikilink")、[PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、[PlayStation 4がDVD](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")-Video再生に対応している。
 
-日本国内では[2003年](../Page/2003年.md "wikilink")頃から[DVDレコーダー](../Page/DVDレコーダー.md "wikilink")の本格的な普及が始まったため、据え置き型のDVDプレーヤーの市場は[コモディティ化](../Page/コモディティ化.md "wikilink")して安価なプレーヤーが出回るなど安定普及期を過ぎつつある。ただし、[欧米](../Page/欧米.md "wikilink")を含む[海外](../Page/海外.md "wikilink")では現在でもレコーダーよりも需要が高い。DVDプレーヤーの生産台数は[中国が世界最多である](../Page/中華人民共和国.md "wikilink")（[2002年](../Page/2002年.md "wikilink")において3000万台、全世界でシェア70%）。日本市場向けとして開発される製品には[フジエアー](../Page/フジエアー.md "wikilink")の例のように[誤植](https://ja.wikipedia.org/wiki/誤植 "wikilink")が目に付くことがある。なお、中国国内のメーカーは[MPEG-2](../Page/MPEG-2.md "wikilink")のライセンス使用料とDVD特許料として1台あたり約2000円程度のコストが掛かっている。そのため回避策として[EVD](../Page/EVD.md "wikilink")という独自の光ディスク規格を開発した。現在、EVD規格は中国国内でのみ採用されている。
+日本国内では[2003年](../Page/2003年.md "wikilink")頃から[DVDレコーダー](../Page/DVDレコーダー.md "wikilink")の本格的な普及が始まったため、据え置き型のDVDプレーヤーの市場は[コモディティ化](../Page/コモディティ化.md "wikilink")して安価なプレーヤーが出回るなど安定普及期を過ぎつつある。ただし、[欧米](../Page/欧米.md "wikilink")を含む[海外](../Page/海外.md "wikilink")では現在でもレコーダーよりも需要が高い。DVDプレーヤーの生産台数は[中国が世界最多である](../Page/中華人民共和国.md "wikilink")（[2002年](../Page/2002年.md "wikilink")において3000万台、全世界でシェア70%）。日本市場向けとして開発される製品には[フジエアー](../Page/フジエアー.md "wikilink")の例のように[誤植](../Page/誤植.md "wikilink")が目に付くことがある。なお、中国国内のメーカーは[MPEG-2](../Page/MPEG-2.md "wikilink")のライセンス使用料とDVD特許料として1台あたり約2000円程度のコストが掛かっている。そのため回避策として[EVD](../Page/EVD.md "wikilink")という独自の光ディスク規格を開発した。現在、EVD規格は中国国内でのみ採用されている。
 
 [DVD-Video](../Page/DVD-Video.md "wikilink")フォーマットに対応することが必須であり、パソコンで作成したDVD-Video準拠のディスクやDVDレコーダーでDVD-Videoモードで録画したディスクを通常再生可能である。[DVD-VR](../Page/DVD-VR.md "wikilink")（VRモード）再生に対応したプレーヤーもあるが特殊である。
 
 書き換え可能な[DVD-RAM](../Page/DVD-RAM.md "wikilink")の再生が可能なプレーヤーは同規格の先頭に立つ[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")が製造するにとどまり各メーカーとも対応に消極的である。これにはDVD-RAMにパナソニックの特許が数多く使われているという事情がある。
 
-視聴しようとするDVDメディアの再生のためには使用する機器の仕様との対応を詳細に確認する必要がありDVDプレーヤーの選択には相応の知識が要求される場合がある。レンタルDVDを観る用途以外無いという場合などは特に問題はないが、海外製のDVDなど規格が対応しない場合は視聴（再生）ができない。DVD-R/DVD-RW/DVD-RAMといった各種のDVDメディアが存在するのに加えて、各メディアに複数の記録モードがある。[デジタル放送](https://ja.wikipedia.org/wiki/デジタル放送 "wikilink")の[コピー制御](https://ja.wikipedia.org/wiki/コピー制御 "wikilink")のために[CPRM](https://ja.wikipedia.org/wiki/CPRM "wikilink")メディアがある。8cmメディアではトレイを含めて機器が対応していなければならない。非対応のメディアを非対応機器に使用した場合、誤動作や最悪の場合には機器の故障の原因となることがある。
+視聴しようとするDVDメディアの再生のためには使用する機器の仕様との対応を詳細に確認する必要がありDVDプレーヤーの選択には相応の知識が要求される場合がある。レンタルDVDを観る用途以外無いという場合などは特に問題はないが、海外製のDVDなど規格が対応しない場合は視聴（再生）ができない。DVD-R/DVD-RW/DVD-RAMといった各種のDVDメディアが存在するのに加えて、各メディアに複数の記録モードがある。[デジタル放送](../Page/デジタル放送.md "wikilink")の[コピー制御](https://ja.wikipedia.org/wiki/コピー制御 "wikilink")のために[CPRM](../Page/CPRM.md "wikilink")メディアがある。8cmメディアではトレイを含めて機器が対応していなければならない。非対応のメディアを非対応機器に使用した場合、誤動作や最悪の場合には機器の故障の原因となることがある。
 
 プレーヤー、PC用ドライブを含むDVD機器には固有の[リージョンコード](../Page/リージョンコード.md "wikilink")が設定されており機器とディスクのリージョンが一致しないと再生できない（リージョンフリーのディスクを除く）。中国製などの一部のプレーヤーは固有のリージョンを持たず、どの地域のソフトも再生可能な場合がある。ヨーロッパの[PAL](../Page/PAL.md "wikilink")規格を[NTSC](../Page/NTSC.md "wikilink")規格に変換して再生できる機器も存在する。
 
@@ -38,7 +38,7 @@ BDプレーヤーの普及に伴い、DVD専用機の生産は縮小している
   - ピーク値10Mbps・平均8Mbpsの連続的な[MPEG-2](../Page/MPEG-2.md "wikilink")[ビデオ](../Page/映像信号.md "wikilink")[ストリーム](https://ja.wikipedia.org/wiki/ストリーム "wikilink")を[デコード](https://ja.wikipedia.org/wiki/デコード "wikilink")して、映像信号をアナログビデオ出力（[NTSC](../Page/NTSC.md "wikilink")、または[PAL](../Page/PAL.md "wikilink")や[SECAM](../Page/SECAM.md "wikilink")）する。
   - [PCM](https://ja.wikipedia.org/wiki/PCM "wikilink")または[AC-3のフォーマットの](../Page/ドルビーデジタル.md "wikilink")[音声](https://ja.wikipedia.org/wiki/音声 "wikilink")をデコードして、[ステレオ](../Page/ステレオ.md "wikilink")音声出力する。
   - [マルチ音声](https://ja.wikipedia.org/wiki/DVD-Video#音声 "wikilink")、[マルチアングル](https://ja.wikipedia.org/wiki/DVD-Video#マルチアングル "wikilink")、[字幕表示への対応](../Page/日本語字幕.md "wikilink")。
-  - 通常[リモコン](https://ja.wikipedia.org/wiki/リモコン "wikilink")が同梱される。
+  - 通常[リモコン](../Page/リモコン.md "wikilink")が同梱される。
 
 また、オプションとして以下の機能がある（必須条件ではなくあくまで機器設計としてのオプション扱いであるため搭載されていない機種もある）。
 
@@ -54,12 +54,12 @@ BDプレーヤーの普及に伴い、DVD専用機の生産は縮小している
   - マルチチャンネルのドルビーデジタル・dtsのデコードおよび[サラウンド](../Page/サラウンド.md "wikilink")音声出力
   - ステレオ出力による擬似サラウンド
   - 再生時に[台詞](../Page/台詞.md "wikilink")等で音量が小さい箇所を聞き取りやすくする、[ダイナミックレンジ](../Page/ダイナミックレンジ.md "wikilink")・コンプレッション (DRC)
-  - [DVD-VR](../Page/DVD-VR.md "wikilink")形式の再生。[CPRM](https://ja.wikipedia.org/wiki/CPRM "wikilink")に対応していれば録画したデジタル放送が再生可能
+  - [DVD-VR](../Page/DVD-VR.md "wikilink")形式の再生。[CPRM](../Page/CPRM.md "wikilink")に対応していれば録画したデジタル放送が再生可能
   - [DVD-Audio](../Page/DVD-Audio.md "wikilink")、[SACDの再生](https://ja.wikipedia.org/wiki/スーパーオーディオCD "wikilink")（⇒[ユニバーサルプレーヤー](../Page/ユニバーサルプレーヤー.md "wikilink")）
   - [ビデオCD](../Page/ビデオCD.md "wikilink")の再生
   - [ISO 9660フォーマット](../Page/ISO_9660.md "wikilink")（一般的なデータDVD-ROM・CD-ROM形式）のディスクの読み込み
   - [MP3](../Page/MP3.md "wikilink")等の音声、また[JPEG](../Page/JPEG.md "wikilink")・[TIFF等の静止画像のデコード](../Page/Tagged_Image_File_Format.md "wikilink")
-  - [DivX](https://ja.wikipedia.org/wiki/DivX "wikilink")、[WMV等多数のフォーマットへの対応](https://ja.wikipedia.org/wiki/Windows_Media_Video "wikilink")
+  - [DivX](https://ja.wikipedia.org/wiki/DivX "wikilink")、[WMV等多数のフォーマットへの対応](../Page/Windows_Media_Video.md "wikilink")
   - [ファイルとして記録されたMPEG](../Page/ファイル_\(コンピュータ\).md "wikilink")（俗称：生ペグ）の再生
   - [HDMIを搭載](https://ja.wikipedia.org/wiki/High-Definition_Multimedia_Interface "wikilink")。ハイビジョン解像度に[アップコンバート](../Page/映像のコンバート.md "wikilink")
   - HDMI搭載プレーヤーのほとんどはD3 (1080i/1125i) ・D4 (720p/750p) まで対応。一部の機種はD5 (1080p/1125p) にも対応

@@ -11,7 +11,7 @@
 
 以前は、JABA高山市長旗争奪飛騨高山大会と呼ばれていたが、第27回大会（2012年）から現名称へ変更された。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")からは、[東海地区大学野球連盟](https://ja.wikipedia.org/wiki/東海地区大学野球連盟 "wikilink")の春季リーグ優勝チームが招待されており、[2012年](../Page/2012年.md "wikilink")から都市対抗野球が7月中開催となったことを受け、同連盟の各県優勝チーム計3校が出場した。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")からは、[東海地区大学野球連盟](../Page/東海地区大学野球連盟.md "wikilink")の春季リーグ優勝チームが招待されており、[2012年](../Page/2012年.md "wikilink")から都市対抗野球が7月中開催となったことを受け、同連盟の各県優勝チーム計3校が出場した。
 
 ## 歴代優勝チーム等
 
@@ -51,7 +51,7 @@
 <td><p>4</p></td>
 <td><p>1989</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヤマハ硬式野球部" title="wikilink">ヤマハ</a></p></td>
+<td><p><a href="../Page/ヤマハ硬式野球部.md" title="wikilink">ヤマハ</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -128,7 +128,7 @@
 <td><p>15</p></td>
 <td><p>2000</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東邦ガス硬式野球部" title="wikilink">東邦ガス</a></p></td>
+<td><p><a href="../Page/東邦ガス硬式野球部.md" title="wikilink">東邦ガス</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -171,14 +171,14 @@
 <td><p>2006</p></td>
 <td><p>8</p></td>
 <td><p><a href="../Page/東芝硬式野球部.md" title="wikilink">東芝</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/JFE東日本硬式野球部" title="wikilink">JFE東日本</a></p></td>
+<td><p><a href="../Page/JFE東日本硬式野球部.md" title="wikilink">JFE東日本</a></p></td>
 </tr>
 <tr class="even">
 <td><p>22</p></td>
 <td><p>2007</p></td>
 <td><p>8</p></td>
 <td><p><a href="../Page/SUBARU硬式野球部.md" title="wikilink">富士重工業</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/JR東日本硬式野球部" title="wikilink">JR東日本</a></p></td>
+<td><p><a href="../Page/JR東日本硬式野球部.md" title="wikilink">JR東日本</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>23</p></td>
@@ -227,7 +227,7 @@
 <td><p>29</p></td>
 <td><p>2014</p></td>
 <td><p>8</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東海理化硬式野球部" title="wikilink">東海理化</a></p></td>
+<td><p><a href="../Page/東海理化硬式野球部.md" title="wikilink">東海理化</a></p></td>
 <td><p><a href="../Page/伏木海陸運送硬式野球部.md" title="wikilink">伏木海陸運送</a></p></td>
 </tr>
 <tr class="even">
@@ -262,7 +262,7 @@
 <td><p>34</p></td>
 <td><p>2019</p></td>
 <td><p>8</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/三菱重工名古屋硬式野球部" title="wikilink">三菱重工名古屋</a></p></td>
+<td><p><a href="../Page/三菱重工名古屋硬式野球部.md" title="wikilink">三菱重工名古屋</a></p></td>
 <td><p>三菱自動車岡崎</p></td>
 </tr>
 </tbody>

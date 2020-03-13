@@ -1,7 +1,7 @@
 > この記事は[Sd Kfz 232](https://ja.wikipedia.org/wiki/Sd_Kfz_232)から翻訳されています。
 
 
-Sd Kfz 232 (8-Rad)は、1936～43年9月までにおよそ150輌が生産（正確な数値は不明だが、偵察[小隊](../Page/小隊.md "wikilink")の編成から推測）された8輪重装甲無線車である。ドイツ語では Schwerer Panzerfunkwagen Sd.Kfz.232 (8-Rad) と表記される。当初はSd Kfz 234と命名されていたが、暫定的な[6輪重装甲車](https://ja.wikipedia.org/wiki/装輪装甲車 "wikilink")（[Sd Kfz 232 (6-Rad)](../Page/Sd_Kfz_232_\(6-Rad\).md "wikilink")）の制式番号を受け継ぐ形で変更された。後に[Sd Kfz 234の番号は](https://ja.wikipedia.org/wiki/Sd_Kfz_234 "wikilink")、新型の8輪重装甲車シリーズに与えられている。
+Sd Kfz 232 (8-Rad)は、1936～43年9月までにおよそ150輌が生産（正確な数値は不明だが、偵察[小隊](../Page/小隊.md "wikilink")の編成から推測）された8輪重装甲無線車である。ドイツ語では Schwerer Panzerfunkwagen Sd.Kfz.232 (8-Rad) と表記される。当初はSd Kfz 234と命名されていたが、暫定的な[6輪重装甲車](https://ja.wikipedia.org/wiki/装輪装甲車 "wikilink")（[Sd Kfz 232 (6-Rad)](../Page/Sd_Kfz_232_\(6-Rad\).md "wikilink")）の制式番号を受け継ぐ形で変更された。後に[Sd Kfz 234の番号は](../Page/Sd_Kfz_234.md "wikilink")、新型の8輪重装甲車シリーズに与えられている。
 
 ## 概要
 

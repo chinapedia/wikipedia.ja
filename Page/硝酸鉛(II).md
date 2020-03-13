@@ -1,11 +1,11 @@
 > この記事は[\(II\)](https://ja.wikipedia.org/wiki/\(II\))から翻訳されています。
 
 
-[LeadNitrateCrystalStructure.png](https://ja.wikipedia.org/wiki/File:LeadNitrateCrystalStructure.png "fig:LeadNitrateCrystalStructure.png") **硝酸鉛(II)** （しょうさんなまり に、lead(II) nitrate）とは[鉛](https://ja.wikipedia.org/wiki/鉛 "wikilink")の[硝酸塩](https://ja.wikipedia.org/wiki/硝酸塩 "wikilink")である。化学式は**Pb(NO<sub>3</sub>)<sub>2</sub>**、 [分子量](../Page/分子量.md "wikilink") 331.2、[CAS登録番号](../Page/CAS登録番号.md "wikilink") 10099-74-8、[PRTR法](https://ja.wikipedia.org/wiki/PRTR法 "wikilink")の規制対象物質である。
+[LeadNitrateCrystalStructure.png](https://ja.wikipedia.org/wiki/File:LeadNitrateCrystalStructure.png "fig:LeadNitrateCrystalStructure.png") **硝酸鉛(II)** （しょうさんなまり に、lead(II) nitrate）とは[鉛](https://ja.wikipedia.org/wiki/鉛 "wikilink")の[硝酸塩](../Page/硝酸塩.md "wikilink")である。化学式は**Pb(NO<sub>3</sub>)<sub>2</sub>**、 [分子量](../Page/分子量.md "wikilink") 331.2、[CAS登録番号](../Page/CAS登録番号.md "wikilink") 10099-74-8、[PRTR法](https://ja.wikipedia.org/wiki/PRTR法 "wikilink")の規制対象物質である。
 
 [15世紀](../Page/15世紀.md "wikilink")には[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[錬金術師](https://ja.wikipedia.org/wiki/錬金術師 "wikilink")[アンドレウス・リバヴィウス](https://ja.wikipedia.org/wiki/アンドレウス・リバヴィウス "wikilink")による記述が見られ、"plumb dulcis" と名づけられていた。初めて一般に販売されたのは[1943年](../Page/1943年.md "wikilink")の[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")においてであった。
 
-鉛の塩は一般的に水に溶けにくいが、硝酸鉛(II) は[酢酸鉛(II)](../Page/酢酸鉛\(II\).md "wikilink") と同様に水溶性が高く、無電解めっき液の安定剤として使用される。またフェリシアン化物を検出する[純度試験](https://ja.wikipedia.org/wiki/純度試験 "wikilink")の際に硝酸鉛溶液が[試薬](https://ja.wikipedia.org/wiki/試薬 "wikilink")の一部として用いられる。[黄鉛](../Page/黄鉛.md "wikilink")の原料の一つでもある。
+鉛の塩は一般的に水に溶けにくいが、硝酸鉛(II) は[酢酸鉛(II)](../Page/酢酸鉛\(II\).md "wikilink") と同様に水溶性が高く、無電解めっき液の安定剤として使用される。またフェリシアン化物を検出する[純度試験](https://ja.wikipedia.org/wiki/純度試験 "wikilink")の際に硝酸鉛溶液が[試薬](../Page/試薬.md "wikilink")の一部として用いられる。[黄鉛](../Page/黄鉛.md "wikilink")の原料の一つでもある。
 
 ## 性質
 
@@ -40,6 +40,6 @@ Pb(NO3)2(aq)\\ + 2KI(aq) -\> PbI2(s)\\ + 2KNO3(aq) </ce>
 
 ## 関連項目
 
-  - [硝酸塩](https://ja.wikipedia.org/wiki/硝酸塩 "wikilink")
+  - [硝酸塩](../Page/硝酸塩.md "wikilink")
 
 [Category:鉛の化合物](https://ja.wikipedia.org/wiki/Category:鉛の化合物 "wikilink") [Category:硝酸塩](https://ja.wikipedia.org/wiki/Category:硝酸塩 "wikilink") [Category:SVHC](https://ja.wikipedia.org/wiki/Category:SVHC "wikilink")

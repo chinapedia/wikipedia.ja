@@ -213,7 +213,7 @@
 <tr class="odd">
 <td><p>1974年（第18回）</p></td>
 <td></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/JR東日本硬式野球部" title="wikilink">国鉄東京</a></strong></p></td>
+<td><p><strong><a href="../Page/JR東日本硬式野球部.md" title="wikilink">国鉄東京</a></strong></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -325,7 +325,7 @@
 <tr class="odd">
 <td><p>1988年（第32回）</p></td>
 <td></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ヤマハ硬式野球部" title="wikilink">ヤマハ</a></strong></p></td>
+<td><p><strong><a href="../Page/ヤマハ硬式野球部.md" title="wikilink">ヤマハ</a></strong></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -389,7 +389,7 @@
 <tr class="odd">
 <td><p>1996年（第40回）</p></td>
 <td></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/鷺宮製作所硬式野球部" title="wikilink">鷺宮製作所</a></strong></p></td>
+<td><p><strong><a href="../Page/鷺宮製作所硬式野球部.md" title="wikilink">鷺宮製作所</a></strong></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -461,7 +461,7 @@
 <tr class="even">
 <td><p>2005年（第49回）</p></td>
 <td><p>10</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/東邦ガス硬式野球部" title="wikilink">東邦ガス</a></strong></p></td>
+<td><p><strong><a href="../Page/東邦ガス硬式野球部.md" title="wikilink">東邦ガス</a></strong></p></td>
 <td><p><strong>6</strong> - 3</p></td>
 <td><p>一光</p></td>
 <td></td>
@@ -493,7 +493,7 @@
 <tr class="even">
 <td><p>2009年（第53回）</p></td>
 <td><p>12</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/三菱重工名古屋硬式野球部" title="wikilink">三菱重工名古屋</a></strong></p></td>
+<td><p><strong><a href="../Page/三菱重工名古屋硬式野球部.md" title="wikilink">三菱重工名古屋</a></strong></p></td>
 <td><p><strong>3</strong> - 1</p></td>
 <td><p>東海理化</p></td>
 <td></td>
@@ -501,7 +501,7 @@
 <tr class="odd">
 <td><p>2010年（第54回）</p></td>
 <td><p>10</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/東海理化硬式野球部" title="wikilink">東海理化</a></strong></p></td>
+<td><p><strong><a href="../Page/東海理化硬式野球部.md" title="wikilink">東海理化</a></strong></p></td>
 <td><p><strong>3</strong> - 1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/シリウス_(野球チーム)" title="wikilink">シリウス</a></p></td>
 <td></td>
@@ -600,5 +600,5 @@
 
 [Category:日本の社会人野球大会](https://ja.wikipedia.org/wiki/Category:日本の社会人野球大会 "wikilink") [Category:北信越地方の社会人野球](https://ja.wikipedia.org/wiki/Category:北信越地方の社会人野球 "wikilink") [Category:新潟市のスポーツ](https://ja.wikipedia.org/wiki/Category:新潟市のスポーツ "wikilink") [Category:1952年開始のスポーツイベント](https://ja.wikipedia.org/wiki/Category:1952年開始のスポーツイベント "wikilink")
 
-1.  [信越硬式野球クラブ](../Page/信越硬式野球クラブ.md "wikilink")、[東海理化](https://ja.wikipedia.org/wiki/東海理化硬式野球部 "wikilink")、[バイタルネット](../Page/バイタルネット硬式野球部.md "wikilink")、[読売ジャイアンツファームの](https://ja.wikipedia.org/wiki/読売ジャイアンツ_\(ファーム\) "wikilink")4チームが参加して総当たりリーグ戦がチャリティ大会として開催され、東海理化が優勝した。
+1.  [信越硬式野球クラブ](../Page/信越硬式野球クラブ.md "wikilink")、[東海理化](../Page/東海理化硬式野球部.md "wikilink")、[バイタルネット](../Page/バイタルネット硬式野球部.md "wikilink")、[読売ジャイアンツファームの](https://ja.wikipedia.org/wiki/読売ジャイアンツ_\(ファーム\) "wikilink")4チームが参加して総当たりリーグ戦がチャリティ大会として開催され、東海理化が優勝した。
 2.  [日本プロ野球](../Page/日本プロ野球.md "wikilink")・[イースタン・リーグ](../Page/イースタン・リーグ.md "wikilink")7球団の[育成選手を主体に編成した連合チーム](../Page/育成選手制度_\(日本プロ野球\).md "wikilink")。

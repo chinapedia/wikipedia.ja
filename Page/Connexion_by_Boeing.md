@@ -33,19 +33,19 @@
 
 **JAL（[日本航空インターナショナル](https://ja.wikipedia.org/wiki/日本航空インターナショナル "wikilink")）**
 
-  - [成田](https://ja.wikipedia.org/wiki/成田国際空港 "wikilink")⇔[ロンドン](../Page/ロンドン.md "wikilink")
+  - [成田](../Page/成田国際空港.md "wikilink")⇔[ロンドン](../Page/ロンドン.md "wikilink")
   - 成田⇔[ニューヨーク](../Page/ニューヨーク.md "wikilink")（[JFK](../Page/ジョン・F・ケネディ国際空港.md "wikilink")）
   - 成田⇔[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")
 
 **ANA（[全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")）** サービス名：[ANA@Air](http://www.ana.co.jp/int_svc/promotion/cbb/index.html)
 
-  - [成田](https://ja.wikipedia.org/wiki/成田国際空港 "wikilink")⇔[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")（一部の便でのサービス）
+  - [成田](../Page/成田国際空港.md "wikilink")⇔[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")（一部の便でのサービス）
   - 成田⇔[ニューヨーク](../Page/ニューヨーク.md "wikilink")
   - 成田⇔[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")
 
 **Lufthansa（[ルフトハンザドイツ航空](../Page/ルフトハンザドイツ航空.md "wikilink")）**
 
-  - [フランクフルト](../Page/フランクフルト・アム・マイン.md "wikilink")⇔[サンパウロ](../Page/サンパウロ.md "wikilink")⇔[サンティアゴ](https://ja.wikipedia.org/wiki/サンティアゴ_\(チリ\) "wikilink")（[チリ](../Page/チリ.md "wikilink")）
+  - [フランクフルト](../Page/フランクフルト・アム・マイン.md "wikilink")⇔[サンパウロ](../Page/サンパウロ.md "wikilink")⇔[サンティアゴ](../Page/サンティアゴ_\(チリ\).md "wikilink")（[チリ](../Page/チリ.md "wikilink")）
   - フランクフルト⇔[ソウル特別市](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")
   - フランクフルト⇔ニューヨーク（JFK）
   - フランクフルト⇔[大阪](https://ja.wikipedia.org/wiki/関西国際空港 "wikilink")
@@ -54,14 +54,14 @@
   - フランクフルト⇔[ワシントンD.C.](../Page/ワシントンD.C..md "wikilink")
   - フランクフルト⇔[リヤド](../Page/リヤド.md "wikilink")⇔[アブダビ](../Page/アブダビ.md "wikilink")
   - フランクフルト⇔[ワルシャワ](../Page/ワルシャワ.md "wikilink")
-  - フランクフルト⇔[ポート・ハーコート](https://ja.wikipedia.org/wiki/ポート・ハーコート "wikilink")⇔[アブジャ](https://ja.wikipedia.org/wiki/アブジャ "wikilink")
+  - フランクフルト⇔[ポート・ハーコート](https://ja.wikipedia.org/wiki/ポート・ハーコート "wikilink")⇔[アブジャ](../Page/アブジャ.md "wikilink")
   - フランクフルト⇔[名古屋](../Page/中部国際空港.md "wikilink")
-  - フランクフルト⇔[ラゴス](../Page/ラゴス.md "wikilink")⇔[アクラ](https://ja.wikipedia.org/wiki/アクラ "wikilink")
+  - フランクフルト⇔[ラゴス](../Page/ラゴス.md "wikilink")⇔[アクラ](../Page/アクラ.md "wikilink")
   - フランクフルト⇔[クウェート](../Page/クウェート.md "wikilink")⇔[ダンマーム](../Page/ダンマーム.md "wikilink")
-  - フランクフルト⇔[カイロ](../Page/カイロ.md "wikilink")⇔[サナア](https://ja.wikipedia.org/wiki/サナア "wikilink")
+  - フランクフルト⇔[カイロ](../Page/カイロ.md "wikilink")⇔[サナア](../Page/サナア.md "wikilink")
   - フランクフルト⇔カイロ⇔[ハルツーム](../Page/ハルツーム.md "wikilink")
   - フランクフルト⇔[広州](../Page/広州市.md "wikilink")⇔[マニラ](../Page/マニラ.md "wikilink")
-  - [ミュンヘン](../Page/ミュンヘン.md "wikilink")⇔[デリー](https://ja.wikipedia.org/wiki/デリー "wikilink")
+  - [ミュンヘン](../Page/ミュンヘン.md "wikilink")⇔[デリー](../Page/デリー.md "wikilink")
   - ミュンヘン⇔ニューヨーク（JFK）
   - ミュンヘン⇔[バンコク](../Page/バンコク.md "wikilink")⇔[クアラルンプール](../Page/クアラルンプール.md "wikilink")
   - ミュンヘン⇔バンコク⇔[ホーチミン市](../Page/ホーチミン市.md "wikilink")（[サイゴン](https://ja.wikipedia.org/wiki/サイゴン "wikilink")）
@@ -69,7 +69,7 @@
   - ミュンヘン⇔[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")
   - ミュンヘン⇔[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")
   - ミュンヘン⇔[シカゴ](../Page/シカゴ.md "wikilink")
-  - ミュンヘン⇔[シャーロット](https://ja.wikipedia.org/wiki/シャーロット_\(ノースカロライナ州\) "wikilink")
+  - ミュンヘン⇔[シャーロット](../Page/シャーロット_\(ノースカロライナ州\).md "wikilink")
   - ミュンヘン⇔[テヘラン](../Page/テヘラン.md "wikilink")
   - ミュンヘン⇔[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")
   - ミュンヘン⇔成田

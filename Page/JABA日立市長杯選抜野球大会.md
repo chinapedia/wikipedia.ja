@@ -42,7 +42,7 @@
 </tr>
 <tr class="odd">
 <td><p>1979年（第3回）</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/東京ガス硬式野球部" title="wikilink">東京ガス</a></strong></p></td>
+<td><p><strong><a href="../Page/東京ガス硬式野球部.md" title="wikilink">東京ガス</a></strong></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -84,7 +84,7 @@
 </tr>
 <tr class="odd">
 <td><p>1985年（第9回）</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ヤマハ硬式野球部" title="wikilink">日本楽器</a></strong></p></td>
+<td><p><strong><a href="../Page/ヤマハ硬式野球部.md" title="wikilink">日本楽器</a></strong></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -119,14 +119,14 @@
 </tr>
 <tr class="even">
 <td><p>1990年（第14回）</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ヤマハ硬式野球部" title="wikilink">ヤマハ</a></strong></p></td>
+<td><p><strong><a href="../Page/ヤマハ硬式野球部.md" title="wikilink">ヤマハ</a></strong></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1991年（第15回）</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/三菱日立パワーシステムズ硬式野球部" title="wikilink">三菱重工横浜</a></strong></p></td>
+<td><p><strong><a href="../Page/三菱日立パワーシステムズ硬式野球部.md" title="wikilink">三菱重工横浜</a></strong></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -259,7 +259,7 @@
 </tr>
 <tr class="even">
 <td><p>2010年（<a href="https://ja.wikipedia.org/wiki/第37回社会人野球日本選手権大会予選#日本選手権対象大会" title="wikilink">第34回</a>）</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/JFE東日本硬式野球部" title="wikilink">JFE東日本</a></strong></p></td>
+<td><p><strong><a href="../Page/JFE東日本硬式野球部.md" title="wikilink">JFE東日本</a></strong></p></td>
 <td><p><strong>5</strong>-1</p></td>
 <td><p>三菱重工神戸</p></td>
 <td><p>同年から優勝チームに日本選手権への出場権が与えられる。</p></td>
@@ -280,14 +280,14 @@
 </tr>
 <tr class="odd">
 <td><p>2013年（<a href="https://ja.wikipedia.org/wiki/第39回社会人野球日本選手権大会予選#日本選手権対象大会" title="wikilink">第36回</a>）</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/三菱重工神戸・高砂硬式野球部" title="wikilink">三菱重工神戸</a></strong></p></td>
+<td><p><strong><a href="../Page/三菱重工神戸・高砂硬式野球部.md" title="wikilink">三菱重工神戸</a></strong></p></td>
 <td><p><strong>3</strong>-0</p></td>
 <td><p>日立製作所</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2014年（<a href="https://ja.wikipedia.org/wiki/第40回社会人野球日本選手権大会予選#日本選手権対象大会" title="wikilink">第37回</a>）</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/JR東日本硬式野球部" title="wikilink">JR東日本</a></strong></p></td>
+<td><p><strong><a href="../Page/JR東日本硬式野球部.md" title="wikilink">JR東日本</a></strong></p></td>
 <td><p><strong>9</strong>-0</p></td>
 <td><p>日立製作所</p></td>
 <td><p>決勝は7回コールド</p></td>
@@ -304,7 +304,7 @@
 <td><p><strong>日立製作所</strong></p></td>
 <td><p><strong>4</strong>-3</p></td>
 <td><p>富士重工業</p></td>
-<td><p>開催期間中の<a href="https://ja.wikipedia.org/wiki/4月16日" title="wikilink">4月16日</a>に発生した<a href="https://ja.wikipedia.org/wiki/熊本地震_(2016年)" title="wikilink">熊本地震の影響で</a><br />
+<td><p>開催期間中の<a href="../Page/4月16日.md" title="wikilink">4月16日</a>に発生した<a href="https://ja.wikipedia.org/wiki/熊本地震_(2016年)" title="wikilink">熊本地震の影響で</a><br />
 <a href="../Page/Honda熊本硬式野球部.md" title="wikilink">Honda熊本が予選リーグを途中棄権した</a>。</p></td>
 </tr>
 <tr class="odd">
@@ -316,16 +316,16 @@
 </tr>
 <tr class="even">
 <td><p>2018年（<a href="https://ja.wikipedia.org/wiki/第44回社会人野球日本選手権大会予選#日本選手権対象大会" title="wikilink">第41回</a>）</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/JR東海硬式野球部" title="wikilink">JR東海</a></strong></p></td>
+<td><p><strong><a href="../Page/JR東海硬式野球部.md" title="wikilink">JR東海</a></strong></p></td>
 <td><p><strong>11</strong>-6</p></td>
 <td><p>日立製作所</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2019年（<a href="https://ja.wikipedia.org/wiki/第45回社会人野球日本選手権大会予選#日本選手権対象大会" title="wikilink">第42回</a>）</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/鷺宮製作所硬式野球部" title="wikilink">鷺宮製作所</a></strong></p></td>
+<td><p><strong><a href="../Page/鷺宮製作所硬式野球部.md" title="wikilink">鷺宮製作所</a></strong></p></td>
 <td><p><strong>2</strong>-0</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/三菱重工名古屋硬式野球部" title="wikilink">三菱重工名古屋</a></p></td>
+<td><p><a href="../Page/三菱重工名古屋硬式野球部.md" title="wikilink">三菱重工名古屋</a></p></td>
 <td></td>
 </tr>
 </tbody>

@@ -29,13 +29,13 @@
 
 ## 発言
 
-  - 「今から1世紀か2世紀の間に・・・[レーニン](https://ja.wikipedia.org/wiki/レーニン "wikilink")、[ニュートン](https://ja.wikipedia.org/wiki/アイザック・ニュートン "wikilink")、[ダ・ヴィンチ](../Page/レオナルド・ダ・ヴィンチ.md "wikilink")、[パスツール](https://ja.wikipedia.org/wiki/パスツール "wikilink")、[ベートーヴェン](../Page/ルートヴィヒ・ヴァン・ベートーヴェン.md "wikilink")、[オマル・ハイアーム](../Page/ウマル・ハイヤーム.md "wikilink")、[プースキン](https://ja.wikipedia.org/wiki/アレクサンドル・プーシキン "wikilink")、[孫文](../Page/孫文.md "wikilink")、[マルクス](https://ja.wikipedia.org/wiki/カール・マルクス "wikilink")・・・さらにはそういった人物の才能のすべてをあわせもつ者が、社会の大多数を占めるようになるかもしれない」(『夜の外へー生物学者の見た未来』)
+  - 「今から1世紀か2世紀の間に・・・[レーニン](https://ja.wikipedia.org/wiki/レーニン "wikilink")、[ニュートン](https://ja.wikipedia.org/wiki/アイザック・ニュートン "wikilink")、[ダ・ヴィンチ](../Page/レオナルド・ダ・ヴィンチ.md "wikilink")、[パスツール](https://ja.wikipedia.org/wiki/パスツール "wikilink")、[ベートーヴェン](../Page/ルートヴィヒ・ヴァン・ベートーヴェン.md "wikilink")、[オマル・ハイアーム](../Page/ウマル・ハイヤーム.md "wikilink")、[プースキン](../Page/アレクサンドル・プーシキン.md "wikilink")、[孫文](../Page/孫文.md "wikilink")、[マルクス](https://ja.wikipedia.org/wiki/カール・マルクス "wikilink")・・・さらにはそういった人物の才能のすべてをあわせもつ者が、社会の大多数を占めるようになるかもしれない」(『夜の外へー生物学者の見た未来』)
 
 ## 他
 
   - レニングラードに移住した際、同行させた秘書のレジーナは、のちに[ボビー・フィッシャー](../Page/ボビー・フィッシャー.md "wikilink")（チェス世界王者）の母となる。
   - [ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[政治家](../Page/政治家.md "wikilink")[ヘルマン・ミュラー](../Page/ヘルマン・ミュラー.md "wikilink")、[スイス](../Page/スイス.md "wikilink")の[化学者](https://ja.wikipedia.org/wiki/化学者 "wikilink")（[DDT](../Page/DDT.md "wikilink")開発者）[パウル（・ヘルマン）・ミュラー](https://ja.wikipedia.org/wiki/パウル・ミュラー "wikilink")（[Paul Hermann Müller](https://ja.wikipedia.org/wiki/:de:Paul_Hermann_Müller "wikilink")）とは別人である。
-  - マラーのX線による人為突然変異を知った昆虫学者の[エドワード・ニップリング](https://ja.wikipedia.org/wiki/エドワード・ニップリング "wikilink")（[Edward F. Knipling](https://ja.wikipedia.org/wiki/:w:Edward_F._Knipling "wikilink")）は、X線により害虫を不妊化させ、野外に放すことで根絶させる[不妊虫放飼](https://ja.wikipedia.org/wiki/不妊虫放飼 "wikilink")法を開発した。
+  - マラーのX線による人為突然変異を知った昆虫学者の[エドワード・ニップリング](https://ja.wikipedia.org/wiki/エドワード・ニップリング "wikilink")（[Edward F. Knipling](https://ja.wikipedia.org/wiki/:w:Edward_F._Knipling "wikilink")）は、X線により害虫を不妊化させ、野外に放すことで根絶させる[不妊虫放飼](../Page/不妊虫放飼.md "wikilink")法を開発した。
 
 ## 脚注
 

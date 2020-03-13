@@ -5,9 +5,9 @@
 
 ## 概要
 
-[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に[中国出身の何国源](../Page/中華人民共和国.md "wikilink")（ホー・クォックユェン、Ho, Kwok Yuen）らによって設立され\[2\]、[ビデオカード](../Page/ビデオカード.md "wikilink")の**[Radeon](https://ja.wikipedia.org/wiki/AMD_Radeon "wikilink")**シリーズを開発していることで知られる。設立当時は経営状態を左右してしまうようなリスクの大きな高性能な製品の開発には消極的で、低価格ではあるものの堅実な製品「Mach」シリーズを開発、半導体単体での販売はせずに半製品にまで仕立ててアセンブリメーカーに対して販売していた。
+[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に[中国出身の何国源](../Page/中華人民共和国.md "wikilink")（ホー・クォックユェン、Ho, Kwok Yuen）らによって設立され\[2\]、[ビデオカード](../Page/ビデオカード.md "wikilink")の**[Radeon](../Page/AMD_Radeon.md "wikilink")**シリーズを開発していることで知られる。設立当時は経営状態を左右してしまうようなリスクの大きな高性能な製品の開発には消極的で、低価格ではあるものの堅実な製品「Mach」シリーズを開発、半導体単体での販売はせずに半製品にまで仕立ててアセンブリメーカーに対して販売していた。
 
-[1990年代](../Page/1990年代.md "wikilink")中期にはビデオ市場に多数のメーカーが参入し、老舗のATIも数あるメーカーの中の一つとして認識されていた。90年代後半にはうなぎ登りになる開発費に見合う販売が出来ない[シーラス・ロジック](https://ja.wikipedia.org/wiki/シーラス・ロジック "wikilink")や[3dfx](../Page/3dfx.md "wikilink")など競合メーカーが次々撤退していく中、[Rageシリーズで着実な販売をし](../Page/ATI_Rage.md "wikilink")、それに続くRadeonシリーズのヒットにより、[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")、[NVIDIA](https://ja.wikipedia.org/wiki/NVIDIA "wikilink")に続くビデオチップメーカーの巨頭となる。
+[1990年代](../Page/1990年代.md "wikilink")中期にはビデオ市場に多数のメーカーが参入し、老舗のATIも数あるメーカーの中の一つとして認識されていた。90年代後半にはうなぎ登りになる開発費に見合う販売が出来ない[シーラス・ロジック](https://ja.wikipedia.org/wiki/シーラス・ロジック "wikilink")や[3dfx](../Page/3dfx.md "wikilink")など競合メーカーが次々撤退していく中、[Rageシリーズで着実な販売をし](../Page/ATI_Rage.md "wikilink")、それに続くRadeonシリーズのヒットにより、[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")、[NVIDIA](../Page/NVIDIA.md "wikilink")に続くビデオチップメーカーの巨頭となる。
 
 [ゲーム機](../Page/ゲーム機.md "wikilink")である[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")のビデオチップを開発した[ArtX](https://ja.wikipedia.org/wiki/ArtX "wikilink")を買収している。
 
@@ -23,9 +23,9 @@
 
 ドライバの更新頻度はNVIDIAより遅いと言われている\[6\]。一方で画質や発色等がNVIDIA製よりも良いと言われることも多く、また動画再生支援技術の点では昔から力を入れている事もあり、NVIDIAよりも強いとされている。他にも安定性より先進性などを重視した作りになっている。GPU製造プロセスにおいて業界初の55nm、40nmプロセスを導入、最新メモリ規格である「GDDR4」や「[GDDR5](https://ja.wikipedia.org/wiki/GDDR5 "wikilink")」を搭載するグラフィックボードを世界で初めてリリースしたのもATIである。
 
-コストパフォーマンスの高さから[自作パソコン](https://ja.wikipedia.org/wiki/自作パソコン "wikilink")ユーザーから支持を受け、販売実績を伸ばしている。[画像処理](https://ja.wikipedia.org/wiki/画像処理 "wikilink")に高い水準を求める[グラフィックデザイナー](../Page/グラフィックデザイナー.md "wikilink")、HTPC(ホームシアターPC)環境などを構築するユーザーにも根強い人気がある。
+コストパフォーマンスの高さから[自作パソコン](../Page/自作パソコン.md "wikilink")ユーザーから支持を受け、販売実績を伸ばしている。[画像処理](../Page/画像処理.md "wikilink")に高い水準を求める[グラフィックデザイナー](../Page/グラフィックデザイナー.md "wikilink")、HTPC(ホームシアターPC)環境などを構築するユーザーにも根強い人気がある。
 
-伝統的に大手PCベンダーへの大量供給に強く、[デル](../Page/デル.md "wikilink")、[ヒューレット・パッカード](../Page/ヒューレット・パッカード.md "wikilink")、[エイサー](../Page/エイサー_\(企業\).md "wikilink")、[レノボ](https://ja.wikipedia.org/wiki/レノボ "wikilink")、[NEC](../Page/日本電気.md "wikilink")、[ソニー](../Page/ソニー.md "wikilink")、[富士通](../Page/富士通.md "wikilink")、[エプソンダイレクト](https://ja.wikipedia.org/wiki/エプソンダイレクト "wikilink")製PCにも搭載されている。 特にBTO、CTO販売を中心とするデル、ヒューレット・パッカード、エプソンダイレクトのデスクトップパソコン、ノートパソコンでは各ラインナップで採用されており、標準搭載されているかカスタマイズによってRadeonを選択できる。 [Macintosh](../Page/Macintosh.md "wikilink")では全ての機種にATIのビデオチップが搭載されていたが、2001年以降はNVIDIA製品も採用しているほか、[Intel Macではチップセットの内蔵グラフィックスエンジンを採用している機種もある](../Page/Intel_Mac.md "wikilink")。AMDとの合併後はAMDプロセッサ搭載パソコンのチップセット内蔵グラフィックスとして、Radeon 4000シリーズなどが用いられている。 他、ノートパソコンのディスクリートグラフィックとして搭載されるケースが多く、[2009年](../Page/2009年.md "wikilink")第2四半期時点の[ノートPC](https://ja.wikipedia.org/wiki/ノートPC "wikilink")向け単体[GPU](https://ja.wikipedia.org/wiki/GPU "wikilink")製品の出荷数のシェアはNVIDIAを上回るとされる\[7\]。
+伝統的に大手PCベンダーへの大量供給に強く、[デル](../Page/デル.md "wikilink")、[ヒューレット・パッカード](../Page/ヒューレット・パッカード.md "wikilink")、[エイサー](../Page/エイサー_\(企業\).md "wikilink")、[レノボ](../Page/レノボ.md "wikilink")、[NEC](../Page/日本電気.md "wikilink")、[ソニー](../Page/ソニー.md "wikilink")、[富士通](../Page/富士通.md "wikilink")、[エプソンダイレクト](../Page/エプソンダイレクト.md "wikilink")製PCにも搭載されている。 特にBTO、CTO販売を中心とするデル、ヒューレット・パッカード、エプソンダイレクトのデスクトップパソコン、ノートパソコンでは各ラインナップで採用されており、標準搭載されているかカスタマイズによってRadeonを選択できる。 [Macintosh](../Page/Macintosh.md "wikilink")では全ての機種にATIのビデオチップが搭載されていたが、2001年以降はNVIDIA製品も採用しているほか、[Intel Macではチップセットの内蔵グラフィックスエンジンを採用している機種もある](../Page/Intel_Mac.md "wikilink")。AMDとの合併後はAMDプロセッサ搭載パソコンのチップセット内蔵グラフィックスとして、Radeon 4000シリーズなどが用いられている。 他、ノートパソコンのディスクリートグラフィックとして搭載されるケースが多く、[2009年](../Page/2009年.md "wikilink")第2四半期時点の[ノートPC](https://ja.wikipedia.org/wiki/ノートPC "wikilink")向け単体[GPU](https://ja.wikipedia.org/wiki/GPU "wikilink")製品の出荷数のシェアはNVIDIAを上回るとされる\[7\]。
 
 マイクロソフトは[Xbox 360のGPU](../Page/Xbox_360.md "wikilink")([Xenos](https://ja.wikipedia.org/wiki/Xbox_360#GPU "wikilink"))にATIの製品を採用した。また、[任天堂](../Page/任天堂.md "wikilink")も[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")にATI開発の[システムLSI](../Page/システムLSI.md "wikilink")を使用している。
 

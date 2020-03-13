@@ -36,7 +36,7 @@
 <tr class="even">
 <td><p>1989年（第2回）</p></td>
 <td></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/水沢駒形野球倶楽部" title="wikilink">水沢駒形野球倶楽部</a></strong></p></td>
+<td><p><strong><a href="../Page/水沢駒形野球倶楽部.md" title="wikilink">水沢駒形野球倶楽部</a></strong></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -140,7 +140,7 @@
 <tr class="odd">
 <td><p>2002年（第15回）</p></td>
 <td></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/東京好球倶楽部" title="wikilink">東京好球倶楽部</a></strong></p></td>
+<td><p><strong><a href="../Page/東京好球倶楽部.md" title="wikilink">東京好球倶楽部</a></strong></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -150,13 +150,13 @@
 <td><p>16</p></td>
 <td><p><strong>大富士BASEBALL CREW</strong></p></td>
 <td><p><strong>9</strong> - 5</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東金球友倶楽部" title="wikilink">東金球友倶楽部</a></p></td>
+<td><p><a href="../Page/東金球友倶楽部.md" title="wikilink">東金球友倶楽部</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2004年（第17回）</p></td>
 <td><p>16</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/全浦和野球団" title="wikilink">全浦和野球団</a></strong></p></td>
+<td><p><strong><a href="../Page/全浦和野球団.md" title="wikilink">全浦和野球団</a></strong></p></td>
 <td><p><strong>3</strong> - 2</p></td>
 <td><p>オール高崎野球倶楽部</p></td>
 <td><p>決勝戦は延長10回。</p></td>
@@ -164,7 +164,7 @@
 <tr class="even">
 <td><p>2005年（第18回）</p></td>
 <td><p>16</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/西多摩倶楽部" title="wikilink">西多摩倶楽部</a></strong></p></td>
+<td><p><strong><a href="../Page/西多摩倶楽部.md" title="wikilink">西多摩倶楽部</a></strong></p></td>
 <td><p><strong>2</strong> - 1</p></td>
 <td><p>オール高崎野球倶楽部</p></td>
 <td><p>決勝戦は延長10回。</p></td>
@@ -185,7 +185,7 @@
 <td><p>16</p></td>
 <td><p><strong>オール日立ドリームズ</strong></p></td>
 <td><p><strong>4</strong> - 0</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/WIEN_BASEBALL_CLUB" title="wikilink">WIEN BASEBALL CLUB</a></p></td>
+<td><p><a href="../Page/WIEN_BASEBALL_CLUB.md" title="wikilink">WIEN BASEBALL CLUB</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -233,7 +233,7 @@
 <td><p>16</p></td>
 <td><p><strong><a href="../Page/YBC柏.md" title="wikilink">YBCフェニーズ</a></strong></p></td>
 <td><p><strong>9</strong> - 3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/三菱製紙八戸クラブ" title="wikilink">三菱製紙八戸クラブ</a></p></td>
+<td><p><a href="../Page/三菱製紙八戸クラブ.md" title="wikilink">三菱製紙八戸クラブ</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -263,7 +263,7 @@
 <tr class="even">
 <td><p>2017年（第29回）</p></td>
 <td><p>16</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/WEEDしらおい" title="wikilink">WEEDしらおい</a></strong></p></td>
+<td><p><strong><a href="../Page/WEEDしらおい.md" title="wikilink">WEEDしらおい</a></strong></p></td>
 <td><p><strong>11</strong> - 1</p></td>
 <td><p>警視庁野球部</p></td>
 <td><p>決勝戦は7回コールド。</p></td>
@@ -271,7 +271,7 @@
 <tr class="odd">
 <td><p>2018年（第30回）</p></td>
 <td><p>16</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/東北マークス" title="wikilink">東北マークス</a></strong></p></td>
+<td><p><strong><a href="../Page/東北マークス.md" title="wikilink">東北マークス</a></strong></p></td>
 <td><p><strong>8</strong> - 4</p></td>
 <td><p>水沢駒形野球倶楽部</p></td>
 <td></td>

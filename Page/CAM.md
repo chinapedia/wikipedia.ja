@@ -1,7 +1,7 @@
 > この記事は[CAM](https://ja.wikipedia.org/wiki/CAM)から翻訳されています。
 
 
-**CAM**（キャム）とは、**コンピュータ支援製造** () の略語。製品の製造を行うために、[CAD](../Page/CAD.md "wikilink")で作成された形状データを入力データとして、加工用の[NCプログラム作成などの生産準備全般を](https://ja.wikipedia.org/wiki/NC加工 "wikilink")[コンピュータ](../Page/コンピュータ.md "wikilink")上で行う為のシステムであり、出力されたデータは、[CNC](https://ja.wikipedia.org/wiki/CNC "wikilink")化された[工作機械](../Page/工作機械.md "wikilink")に送られて実際の加工が行われる。
+**CAM**（キャム）とは、**コンピュータ支援製造** () の略語。製品の製造を行うために、[CAD](../Page/CAD.md "wikilink")で作成された形状データを入力データとして、加工用の[NCプログラム作成などの生産準備全般を](../Page/NC加工.md "wikilink")[コンピュータ](../Page/コンピュータ.md "wikilink")上で行う為のシステムであり、出力されたデータは、[CNC](https://ja.wikipedia.org/wiki/CNC "wikilink")化された[工作機械](../Page/工作機械.md "wikilink")に送られて実際の加工が行われる。
 
 狭義では、**CAD/CAM**の設計分野CADとの対比で製造分野の事をさすが、製造分野に最適化されている**CAD/CAM**システムや、テキストベースの**自動プログラミング装置**など、NCプログラムを出力するシステムをすべて**CAM**と呼ぶ事もある。
 

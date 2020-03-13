@@ -1,7 +1,7 @@
 > この記事は[SUN](https://ja.wikipedia.org/wiki/SUN)から翻訳されています。
 
 
-『**スーパーSunサンまる**』（スーパーサンサンまる）は、[2003年](../Page/2003年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")まで[秋田テレビ](https://ja.wikipedia.org/wiki/秋田テレビ "wikilink")で放送されていたローカル[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。
+『**スーパーSunサンまる**』（スーパーサンサンまる）は、[2003年](../Page/2003年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[2005年](../Page/2005年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")まで[秋田テレビ](https://ja.wikipedia.org/wiki/秋田テレビ "wikilink")で放送されていたローカル[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。
 
 それまで同局で放送されていた『**午後は気ままに金曜日**』のリニューアル版としてスタートしたが、放送開始100回目の2005年3月25日、[春の高校バレー中継放送のために](../Page/全国高等学校バレーボール選抜優勝大会.md "wikilink")30分の短縮版で放送を終了した。後継番組は『[やばせ本町どまん中\!](../Page/やばせ本町どまん中!.md "wikilink")〜笑顔でいこうよ〜』。
 

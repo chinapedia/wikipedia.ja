@@ -52,7 +52,7 @@
 
 ## 他の分野への応用
 
-\-環は[数理物理における](../Page/数理物理学.md "wikilink")[力学系](https://ja.wikipedia.org/wiki/力学系 "wikilink")、代数的観点からの[場の量子論](../Page/場の量子論.md "wikilink")、[量子統計力学](https://ja.wikipedia.org/wiki/量子統計力学 "wikilink")、[量子情報](https://ja.wikipedia.org/wiki/量子情報 "wikilink")理論等に応用される。
+\-環は[数理物理における](../Page/数理物理学.md "wikilink")[力学系](../Page/力学系.md "wikilink")、代数的観点からの[場の量子論](../Page/場の量子論.md "wikilink")、[量子統計力学](https://ja.wikipedia.org/wiki/量子統計力学 "wikilink")、[量子情報](https://ja.wikipedia.org/wiki/量子情報 "wikilink")理論等に応用される。
 
 ## 注釈
 

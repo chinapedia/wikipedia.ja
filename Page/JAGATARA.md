@@ -1,7 +1,7 @@
 > この記事は[JAGATARA](https://ja.wikipedia.org/wiki/JAGATARA)から翻訳されています。
 
 
-**JAGATARA**（じゃがたら）は、[江戸アケミ](../Page/江戸アケミ.md "wikilink")を中心とする日本の[ファンク](https://ja.wikipedia.org/wiki/ファンク "wikilink")・[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。
+**JAGATARA**（じゃがたら）は、[江戸アケミ](../Page/江戸アケミ.md "wikilink")を中心とする日本の[ファンク](../Page/ファンク.md "wikilink")・[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。
 
 [1979年](../Page/1979年.md "wikilink")3月活動開始。[1982年](../Page/1982年.md "wikilink")にアルバム『南蛮渡来』を発売。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")から[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")にかけては江戸の精神的不調により活動休止。[1989年](../Page/1989年.md "wikilink")にはアルバム『それから』で[BMGビクターよりメジャーデビュー](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[1月27日](../Page/1月27日.md "wikilink")江戸の入浴中の事故死により、解散した。
 
@@ -9,15 +9,15 @@
 
 ## 来歴
 
-[1979年](../Page/1979年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")、上馬ガソリンアレイにて初ライブを行う。この時の名称は「**エド&じゃがたら**」で、後に「**エド&じゃがたらお春**」「**財団呆人じゃがたらお春**」「**財団法人じゃがたら**」などと名称はライブを行うごとに徐々に変化。[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")頃から江戸が自分の額をナイフで切りつけて流血する、ニワトリやシマヘビを生きたまま食いちぎるなどの過激なパフォーマンスを[吉祥寺マイナー](https://ja.wikipedia.org/wiki/吉祥寺マイナー "wikilink")や[自販機雑誌](../Page/自販機本.md "wikilink")『[HEAVEN](https://ja.wikipedia.org/wiki/HEAVEN_\(雑誌\) "wikilink")』主催の「[天国注射の夜](https://ja.wikipedia.org/wiki/天国注射の夜 "wikilink")」などで行うようになり、それがエログロ的な関心を集め『[週刊プレイボーイ](https://ja.wikipedia.org/wiki/週刊プレイボーイ "wikilink")』などの一般誌にも取り上げられた。[ザ・スターリン](https://ja.wikipedia.org/wiki/ザ・スターリン "wikilink")の[遠藤ミチロウ](../Page/遠藤ミチロウ.md "wikilink")はこの影響を受け、過激なパフォーマンスを始めたと述べている\[1\]。
+[1979年](../Page/1979年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")、上馬ガソリンアレイにて初ライブを行う。この時の名称は「**エド&じゃがたら**」で、後に「**エド&じゃがたらお春**」「**財団呆人じゃがたらお春**」「**財団法人じゃがたら**」などと名称はライブを行うごとに徐々に変化。[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")頃から江戸が自分の額をナイフで切りつけて流血する、ニワトリやシマヘビを生きたまま食いちぎるなどの過激なパフォーマンスを[吉祥寺マイナー](https://ja.wikipedia.org/wiki/吉祥寺マイナー "wikilink")や[自販機雑誌](../Page/自販機本.md "wikilink")『[HEAVEN](https://ja.wikipedia.org/wiki/HEAVEN_\(雑誌\) "wikilink")』主催の「[天国注射の夜](https://ja.wikipedia.org/wiki/天国注射の夜 "wikilink")」などで行うようになり、それがエログロ的な関心を集め『[週刊プレイボーイ](../Page/週刊プレイボーイ.md "wikilink")』などの一般誌にも取り上げられた。[ザ・スターリン](../Page/ザ・スターリン.md "wikilink")の[遠藤ミチロウ](../Page/遠藤ミチロウ.md "wikilink")はこの影響を受け、過激なパフォーマンスを始めたと述べている\[1\]。
 
-[1981年](../Page/1981年.md "wikilink")、自らのレーベル・アグリーオーファンレコードより、1st.シングル『LAST TANGO IN JUKU』をリリース。初の関西ツアーを行う。パフォーマンス目当ての客でどこでも大入りになるが、江戸は音楽がまともに聞かれない状況に嫌気がさし、このツアー以降、音楽だけで勝負する決意をする。9月にギターにOTOが参加し[ファンク](https://ja.wikipedia.org/wiki/ファンク "wikilink")や[アフロビート](../Page/アフロビート.md "wikilink")色を強め、バンド名を「**暗黒大陸じゃがたら**」に改称する。
+[1981年](../Page/1981年.md "wikilink")、自らのレーベル・アグリーオーファンレコードより、1st.シングル『LAST TANGO IN JUKU』をリリース。初の関西ツアーを行う。パフォーマンス目当ての客でどこでも大入りになるが、江戸は音楽がまともに聞かれない状況に嫌気がさし、このツアー以降、音楽だけで勝負する決意をする。9月にギターにOTOが参加し[ファンク](../Page/ファンク.md "wikilink")や[アフロビート](../Page/アフロビート.md "wikilink")色を強め、バンド名を「**暗黒大陸じゃがたら**」に改称する。
 
 [1982年](../Page/1982年.md "wikilink")、1stアルバム『南蛮渡来』を発表。[中村とうよう](https://ja.wikipedia.org/wiki/中村とうよう "wikilink")や[渋谷陽一](../Page/渋谷陽一.md "wikilink")らに絶賛され、初期の過激なパンクロックとこれ以降のファンク・アフロ・レゲエなどの要素が混淆した独特の音楽性は、プレスにおいても純粋に音楽的な評価を受けた。10月「ヤングTOUCH\!」（テレビ東京）に出演、生放送ライブ中のスタジオに突然[G.I.S.M.](../Page/G.I.S.M..md "wikilink")の横山SAKEVIらが乱入、江戸と乱闘になる。同月「渋谷陽一の[サウンドストリート](https://ja.wikipedia.org/wiki/サウンドストリート "wikilink")」（NHK-FM）に出演。多数のライブに出演し、以前のエログロイメージを吹っ切るかのように音楽中心の活動を展開した。
 
 [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")、「**じゃがたら**」へバンド名を改称。駒場のマンションの屋上に専用の「じゃがたらスタジオ」を作る。[町田町蔵](https://ja.wikipedia.org/wiki/町田町蔵 "wikilink")らをゲストに迎え、そのスタジオでレコーディングした8インチEP『家族百景』をリリース。[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")で行われた雑誌『[HEAVEN](https://ja.wikipedia.org/wiki/HEAVEN_\(雑誌\) "wikilink")』主催の伝説的音楽イベント「[天国注射の昼](https://ja.wikipedia.org/wiki/天国注射の昼 "wikilink")」に出演するなど精力的な活動を繰り広げるが、11月の関西ツアーの途中から江戸が[精神疾患](https://ja.wikipedia.org/wiki/精神疾患 "wikilink")を患い、ライブをすっぽかす、ライブ中に急に歌わなくなる、ナベ以外のメンバーとは一切会話をしなくなる等の奇行を繰り返し、翌年から入院する為休養期間に入る。なお、江戸の休養中、バンドは解体の危機に瀕するもOTOを中心に「**じゃがたら2世**」として活動を続行し、江戸の復帰を待ち続けた。
 
-故郷の[高知県](../Page/高知県.md "wikilink")中村市（現[四万十市](https://ja.wikipedia.org/wiki/四万十市 "wikilink")）で静養に努めていた江戸は映画監督・[山本政志](../Page/山本政志.md "wikilink")の尽力もあり、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に日比谷野外音楽堂で行われたイベント「アース・ビート伝説'85」で復帰。そして、江戸の発病前後のライブの模様がアルバム『君と踊りあかそう日の出を見るまで』として発表される。
+故郷の[高知県](../Page/高知県.md "wikilink")中村市（現[四万十市](../Page/四万十市.md "wikilink")）で静養に努めていた江戸は映画監督・[山本政志](../Page/山本政志.md "wikilink")の尽力もあり、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に日比谷野外音楽堂で行われたイベント「アース・ビート伝説'85」で復帰。そして、江戸の発病前後のライブの模様がアルバム『君と踊りあかそう日の出を見るまで』として発表される。
 
 [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")から江戸が東京で暮らす準備ができ、本格的に活動再開。9月、[MUTE BEAT](https://ja.wikipedia.org/wiki/MUTE_BEAT "wikilink")、[TOMATOS](https://ja.wikipedia.org/wiki/TOMATOS "wikilink")、[S-KEN](https://ja.wikipedia.org/wiki/S-KEN "wikilink")と共に、シリーズ・イベント「東京ソイソース」の第1回を開催（1988年まで計5回開催、第1回のみ渋谷ライブイン、2回目以降は[インクスティック](https://ja.wikipedia.org/wiki/インクスティック "wikilink")芝浦ファクトリー）。東京ソイソースでは、ライブとライブの間にDJが入るという初めての試みをし、[いとうせいこう](../Page/いとうせいこう.md "wikilink")&[タイニー・パンクス](https://ja.wikipedia.org/wiki/タイニー・パンクス "wikilink")、[近田春夫](../Page/近田春夫.md "wikilink")、[ランキン・タクシー](../Page/ランキン・タクシー.md "wikilink")、[ECDなども出演した](../Page/ECD_\(ミュージシャン\).md "wikilink")。11月の六本木インクスティックでのライブでは以前のイメージとは結びつきそうになかった全員赤の揃いのジャケット姿で登場。12月「ライブ・ジャック」（フジテレビ）に出演。なお、1986年頃からライブや作品で「**JAGATARA**」とバンド名をクレジットするようになる。
 
@@ -27,7 +27,7 @@
 
 さらにアフリカなどのミュージシャンとのコラボレーション・アルバム『おあそび』をレコーディング中（江戸の死後リリース）の翌[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[1月27日](../Page/1月27日.md "wikilink")、江戸が入浴中に溺死するという事件が発生。中心人物の欠落によってバンドは解散した。なお江戸は死去直前にバンド脱退を申し出ていた。\[3\]
 
-その後、[1992年](../Page/1992年.md "wikilink")[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")にはナベが急性[肺炎](https://ja.wikipedia.org/wiki/肺炎 "wikilink")で、[1992年](../Page/1992年.md "wikilink")[12月9日](../Page/12月9日.md "wikilink")には篠田が[心筋梗塞](../Page/心筋梗塞.md "wikilink")で相次いで世を去った。
+その後、[1992年](../Page/1992年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")にはナベが急性[肺炎](https://ja.wikipedia.org/wiki/肺炎 "wikilink")で、[1992年](../Page/1992年.md "wikilink")[12月9日](../Page/12月9日.md "wikilink")には篠田が[心筋梗塞](../Page/心筋梗塞.md "wikilink")で相次いで世を去った。
 
 なお、1990年（日比谷野外音楽堂）、[1991年](../Page/1991年.md "wikilink")（[法政大学学生会館](https://ja.wikipedia.org/wiki/法政大学学生会館 "wikilink")）、[1993年](../Page/1993年.md "wikilink")（[渋谷ON AIR](../Page/Shibuya_O-EAST.md "wikilink")）、[2000年](../Page/2000年.md "wikilink")（[下北沢CLUB QUE](../Page/CLUB_Que.md "wikilink")）、[2003年](../Page/2003年.md "wikilink")（[新宿ロフト](https://ja.wikipedia.org/wiki/新宿ロフト "wikilink")）、[2004年](../Page/2004年.md "wikilink")（新宿ロフト、[下北沢SHELTER](https://ja.wikipedia.org/wiki/下北沢SHELTER "wikilink")、[CLUB CITTA'](../Page/CLUB_CITTA'.md "wikilink")）と「JAGATARAなきJAGATARA」、「JAGATARA残党組」、「JAGATARA族」等の名義で残存メンバーの一部が参加する追悼ライブ、[2012年](../Page/2012年.md "wikilink")と[2015年](../Page/2015年.md "wikilink")（六本木新世界）には一部メンバーと親交の深いミュージシャンでじゃがたらの楽曲を演奏するライブが開催された。
 
@@ -47,10 +47,10 @@
         加入前は後に[AUTO-MOD](../Page/AUTO-MOD.md "wikilink")を結成するジュネのMARIA023に在籍。またJAGATARAと並行して[ビブラストーン](../Page/ビブラストーン.md "wikilink")で活動。1991年に[あがた森魚](../Page/あがた森魚.md "wikilink")の[雷蔵](https://ja.wikipedia.org/wiki/雷蔵 "wikilink")へ参加。1994年に南流石らとTANGOSを結成。2004年に元[ZELDAのサヨコらと](../Page/ZELDA_\(バンド\).md "wikilink")[サヨコオトナラ](https://ja.wikipedia.org/wiki/サヨコオトナラ "wikilink")を結成。
   - **[篠田昌已](../Page/篠田昌已.md "wikilink")**（[サックス](../Page/サクソフォーン.md "wikilink")）（1983年〜）　
       -
-        加入前は[生活向上委員会](https://ja.wikipedia.org/wiki/梅津和時 "wikilink")、PUNGOなどに在籍。またJAGATARAと並行して[チンドン楽団](../Page/チンドン屋.md "wikilink")、[オルケスタ・デル・ビエント](https://ja.wikipedia.org/wiki/オルケスタ・デル・ビエント "wikilink")、コンポステラなどでも活動。
+        加入前は[生活向上委員会](../Page/梅津和時.md "wikilink")、PUNGOなどに在籍。またJAGATARAと並行して[チンドン楽団](../Page/チンドン屋.md "wikilink")、[オルケスタ・デル・ビエント](https://ja.wikipedia.org/wiki/オルケスタ・デル・ビエント "wikilink")、コンポステラなどでも活動。
   - **中村ていゆう**（中村貞祐）（[ドラムス](../Page/ドラムセット.md "wikilink")）（1983年〜）　
       -
-        加入前はMARIA023、AUTO-MOD、[ザ・スターリン](https://ja.wikipedia.org/wiki/ザ・スターリン "wikilink")、火の宮などに在籍。解散後は[KUSU KUSUのマネジメントなどを行った](../Page/KUSU_KUSU.md "wikilink")。
+        加入前はMARIA023、AUTO-MOD、[ザ・スターリン](../Page/ザ・スターリン.md "wikilink")、火の宮などに在籍。解散後は[KUSU KUSUのマネジメントなどを行った](../Page/KUSU_KUSU.md "wikilink")。
   - **吉田哲治**（[トランペット](../Page/トランペット.md "wikilink")）（1981〜1989年）
       -
         加入前は生活向上委員会などに在籍。脱退後は自らのバンドFIVESなどで活動。
@@ -241,7 +241,7 @@ B10T-46 (CT)</p></td>
 <td><p>1989年12月16日にCD発売 (B25D-13021)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/RCAレコード" title="wikilink">RCAレコード</a> (BMGビクター)</p></td>
+<td><p><a href="../Page/RCAレコード.md" title="wikilink">RCAレコード</a> (BMGビクター)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -402,7 +402,7 @@ A面がJAGATARA、B面が吉川洋一郎、Hamza El Din。<br />
         1989年8月12日「横浜寿町フリーコンサート」を収録。
   - **「この〜！！（もうがまんできない）」** DVD（2005）　
       -
-        1989年8月12日「横浜寿町フリーコンサート」、1987年10月4日「東京ソイソースVol.3」、1988年9月17日インクスティック芝浦ファクトリーでのライブ、死の直前の1990年1月24日に行われた[鮎川誠](https://ja.wikipedia.org/wiki/鮎川誠 "wikilink")との対談（CATV「ROCK THE ROCK」）を収録。
+        1989年8月12日「横浜寿町フリーコンサート」、1987年10月4日「東京ソイソースVol.3」、1988年9月17日インクスティック芝浦ファクトリーでのライブ、死の直前の1990年1月24日に行われた[鮎川誠](../Page/鮎川誠.md "wikilink")との対談（CATV「ROCK THE ROCK」）を収録。
 
 ## 書籍
 
@@ -431,7 +431,7 @@ A面がJAGATARA、B面が吉川洋一郎、Hamza El Din。<br />
   - [松永孝義](https://ja.wikipedia.org/wiki/松永孝義 "wikilink")（[MUTE BEAT](https://ja.wikipedia.org/wiki/MUTE_BEAT "wikilink")）（ベース）
   - [近田春夫](../Page/近田春夫.md "wikilink")（[ビブラストーン](../Page/ビブラストーン.md "wikilink")）（コーラス）
   - [ECD](../Page/ECD_\(ミュージシャン\).md "wikilink")（コーラス）
-  - [梅津和時](https://ja.wikipedia.org/wiki/梅津和時 "wikilink")（サックス）
+  - [梅津和時](../Page/梅津和時.md "wikilink")（サックス）
   - [ジョン・ゾーン](../Page/ジョン・ゾーン.md "wikilink")（サックス）
   - [ハムザ・エル・ディン](https://ja.wikipedia.org/wiki/ハムザ・エル・ディン "wikilink")（[タール](https://ja.wikipedia.org/wiki/タール_\(弦楽器\) "wikilink")）
   - [関島岳郎](../Page/関島岳郎.md "wikilink")（コンポステラ/ストラーダ/[オルケスタ・デル・ビエント](https://ja.wikipedia.org/wiki/オルケスタ・デル・ビエント "wikilink")/[DCPRG](https://ja.wikipedia.org/wiki/DCPRG "wikilink")）（[テューバ](../Page/チューバ.md "wikilink")）

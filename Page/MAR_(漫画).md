@@ -7,7 +7,7 @@
 
 [2003年](../Page/2003年.md "wikilink")から[2006年](../Page/2006年.md "wikilink")まで『[週刊少年サンデー](https://ja.wikipedia.org/wiki/週刊少年サンデー "wikilink")』（[小学館](../Page/小学館.md "wikilink")）で連載されたバトルファンタジー漫画。タイトルは、[ドイツ語](../Page/ドイツ語.md "wikilink")の**Märchen**（[メルヘン](../Page/メルヘン.md "wikilink")）にちなむ。しかし、北米での公式な読み方は「マール」。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")4月に『**MÄR-メルヘヴン-**』のタイトルで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列にてアニメ化、その後[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")から[テレビゲーム](https://ja.wikipedia.org/wiki/テレビゲーム "wikilink")・[トレーディングカードゲーム](../Page/トレーディングカードゲーム.md "wikilink")化された。
+[2005年](../Page/2005年.md "wikilink")4月に『**MÄR-メルヘヴン-**』のタイトルで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列にてアニメ化、その後[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")から[テレビゲーム](https://ja.wikipedia.org/wiki/テレビゲーム "wikilink")・[トレーディングカードゲーム](../Page/トレーディングカードゲーム.md "wikilink")化された。
 
 本作品の重要なアイテムである**[ÄRM](../Page/ARM_\(架空の武器\).md "wikilink")**は、安西の趣味であるシルバーアクセサリーを基に考案された。ちなみに原作・アニメ内では指輪やブレスレット、ネックレスなどの種類があるが、実際に商品化された際には指輪に統一されている。
 
@@ -185,7 +185,7 @@
     作詞・作曲・歌 - [小松未歩](../Page/小松未歩.md "wikilink") / 編曲 - [小林哲](../Page/小林哲.md "wikilink")
 
   - 「[不機嫌になる私](../Page/不機嫌になる私.md "wikilink")」（第14話〜第26話）
-    作詞・作曲 - 小松未歩 / 編曲 - MissTy / 歌 - [岩田さゆり](https://ja.wikipedia.org/wiki/岩田さゆり "wikilink")
+    作詞・作曲 - 小松未歩 / 編曲 - MissTy / 歌 - [岩田さゆり](../Page/岩田さゆり.md "wikilink")
 
   - 「[毎日アドベンチャー](../Page/毎日アドベンチャー.md "wikilink")」（第27話〜第39話）
     作詞・歌 - [スパークリング☆ポイント](../Page/スパークリング☆ポイント.md "wikilink") / 作曲 - [三好誠](../Page/三好誠.md "wikilink") / 編曲 - [大賀好修](../Page/大賀好修.md "wikilink")
@@ -254,7 +254,7 @@
 <td></td>
 <td><p><a href="../Page/神戸一彦.md" title="wikilink">神戸一彦</a></p></td>
 <td><p>千葉大輔<br />
-<a href="https://ja.wikipedia.org/wiki/うえだひでひと" title="wikilink">うえだひでひと</a></p></td>
+<a href="../Page/うえだひでひと.md" title="wikilink">うえだひでひと</a></p></td>
 <td><p>千葉大輔</p></td>
 <td><p>岡辰也</p></td>
 </tr>
@@ -535,7 +535,7 @@
 <tr class="even">
 <td><p>34</p></td>
 <td><p>アクアとアッコちゃんとナナシ流!</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/高橋ナツコ" title="wikilink">高橋ナツコ</a></p></td>
+<td><p><a href="../Page/高橋ナツコ.md" title="wikilink">高橋ナツコ</a></p></td>
 <td><p>奥脇雅晴</p></td>
 <td><p>菅井嘉浩</p></td>
 <td><p>植田理恵</p></td>
@@ -1330,7 +1330,7 @@ EDのスタッフロール終了後から次回予告の間にあたるパタパ
     2006年[3月30日](../Page/3月30日.md "wikilink") 発売
   - メルヘヴン ÄRM FIGHT DREAM
     [プレイステーション2用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")
-    [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink") 発売
+    [2005年](../Page/2005年.md "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink") 発売
   - メルヘヴン KNOCKIN'ON HEAVEN'S DOOR
     [ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")用ソフト
     2005年[6月30日](../Page/6月30日.md "wikilink") 発売

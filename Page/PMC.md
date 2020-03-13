@@ -5,7 +5,7 @@
 
 ## 一般名称
 
-  - [民間軍事会社](https://ja.wikipedia.org/wiki/民間軍事会社 "wikilink") ()
+  - [民間軍事会社](../Page/民間軍事会社.md "wikilink") ()
   - [プログラマブル金属化セル](https://ja.wikipedia.org/wiki/プログラマブル金属化セル "wikilink") () - メモリ技術。
   - [薬物動態修飾化学療法](https://ja.wikipedia.org/wiki/薬物動態修飾化学療法 "wikilink") () - 大腸癌の化学療法。
   - 極中間圏雲(polar mesospheric clouds) - [夜光雲](../Page/夜光雲.md "wikilink") の別称。
@@ -23,7 +23,7 @@
   - 企業
       - [パナソニック モバイルコミュニケーションズ](../Page/パナソニック_モバイルコミュニケーションズ.md "wikilink") () - 日本の携帯電話メーカー。
       - [パウエル自動車](https://ja.wikipedia.org/wiki/パウエル自動車 "wikilink") () - アメリカのオートバイメーカー。
-      - [平和自動車](https://ja.wikipedia.org/wiki/平和自動車 "wikilink") () - 北朝鮮の自動車メーカー。
+      - [平和自動車](../Page/平和自動車.md "wikilink") () - 北朝鮮の自動車メーカー。
       - [パシフィックマネジメント](https://ja.wikipedia.org/wiki/パシフィックマネジメント "wikilink") - 日本の不動産投資ファンド。現 [パシフィックホールディングス](https://ja.wikipedia.org/wiki/パシフィックホールディングス "wikilink")。
       - [PMC-Sierra](https://ja.wikipedia.org/wiki/PMC-Sierra "wikilink") - アメリカのファブレス半導体メーカー。
   - その他の施設・機関

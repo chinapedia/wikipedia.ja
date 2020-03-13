@@ -5,7 +5,7 @@
 
 ## 内容
 
-[NHK教育テレビジョン](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")（以下、Eテレ）と同様に[教育番組](../Page/教育番組.md "wikilink")、特に[語学番組や学生向け講座番組を多く放送している](https://ja.wikipedia.org/wiki/各国語学講座 "wikilink")。公称は**「ラジオ第2」**または**「R2」**。(NHKアナウンサーはラジオ第2で統一している)。
+[NHK教育テレビジョン](../Page/NHK教育テレビジョン.md "wikilink")（以下、Eテレ）と同様に[教育番組](../Page/教育番組.md "wikilink")、特に[語学番組や学生向け講座番組を多く放送している](https://ja.wikipedia.org/wiki/各国語学講座 "wikilink")。公称は**「ラジオ第2」**または**「R2」**。(NHKアナウンサーはラジオ第2で統一している)。
 
 ## 概要
 
@@ -15,7 +15,7 @@ NHKのラジオ放送は[1925年](../Page/1925年.md "wikilink")3月に開始さ
 
 教育テレビが全国に普及するのと相まって次第に教育テレビのラジオ版という性格付けがなされ現在に至っている。
 
-なお、1980年代前半位までは「ラジオ農業学校」（農業経営や栽培技術などを単発で紹介する情報番組）、「漁村の皆さんへ」（漁村からのお便りや各地の水産市場情報、船舶の海上試験の模様を紹介するという週7日×[再放送](https://ja.wikipedia.org/wiki/再放送 "wikilink")の情報番組）など、戦前からの流れをくむ産業支援番組もあった。
+なお、1980年代前半位までは「ラジオ農業学校」（農業経営や栽培技術などを単発で紹介する情報番組）、「漁村の皆さんへ」（漁村からのお便りや各地の水産市場情報、船舶の海上試験の模様を紹介するという週7日×[再放送](../Page/再放送.md "wikilink")の情報番組）など、戦前からの流れをくむ産業支援番組もあった。
 
 ## 放送形態
 
@@ -131,7 +131,7 @@ NHKのラジオ放送は[1925年](../Page/1925年.md "wikilink")3月に開始さ
 
 ## ネットワーク
 
-[総務省](../Page/総務省.md "wikilink")[告示](../Page/告示.md "wikilink")[基幹放送普及計画](https://ja.wikipedia.org/wiki/基幹放送普及計画 "wikilink")に、中波放送は「協会の放送については、総合放送及び教育放送各1系統の放送（中略）が全国各地域においてあまねく受信できること。」と規定されており、この「教育放送」がラジオ第2で[全国放送](../Page/全国放送.md "wikilink")を基本とする。 このため告示[基幹放送用周波数使用計画](https://ja.wikipedia.org/wiki/基幹放送用周波数使用計画 "wikilink")に[親局](https://ja.wikipedia.org/wiki/親局 "wikilink")たる東京以外は全部[中継局](../Page/中継局.md "wikilink")と位置づけられているが、非常時等に備え自局放送できる仕組みを残してある。 但し、その場合でも[広域放送](../Page/広域放送.md "wikilink")を基本とするため、ラジオ第1以上に整理・統廃合が行われている。
+[総務省](../Page/総務省.md "wikilink")[告示](../Page/告示.md "wikilink")[基幹放送普及計画](https://ja.wikipedia.org/wiki/基幹放送普及計画 "wikilink")に、中波放送は「協会の放送については、総合放送及び教育放送各1系統の放送（中略）が全国各地域においてあまねく受信できること。」と規定されており、この「教育放送」がラジオ第2で[全国放送](../Page/全国放送.md "wikilink")を基本とする。 このため告示[基幹放送用周波数使用計画](https://ja.wikipedia.org/wiki/基幹放送用周波数使用計画 "wikilink")に[親局](../Page/親局.md "wikilink")たる東京以外は全部[中継局](../Page/中継局.md "wikilink")と位置づけられているが、非常時等に備え自局放送できる仕組みを残してある。 但し、その場合でも[広域放送](../Page/広域放送.md "wikilink")を基本とするため、ラジオ第1以上に整理・統廃合が行われている。
 
   - **太字**は[拠点局](../Page/基幹局.md "wikilink")。
 
@@ -526,7 +526,7 @@ NHKのラジオ放送は[1925年](../Page/1925年.md "wikilink")3月に開始さ
   -
 
       -
-        [FMで再放送があるが](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink")、ラジオ第2では[モノラル](https://ja.wikipedia.org/wiki/モノラル "wikilink")音声となる。
+        [FMで再放送があるが](../Page/NHK-FM放送.md "wikilink")、ラジオ第2では[モノラル](https://ja.wikipedia.org/wiki/モノラル "wikilink")音声となる。
 
     ※[夏休み](../Page/夏休み.md "wikilink")、[冬休み](../Page/冬休み.md "wikilink")（除・[12月31日](../Page/12月31日.md "wikilink")から翌年[1月3日](../Page/1月3日.md "wikilink")）、[春休み](../Page/春休み.md "wikilink")期間中は「（休みのシーズン名）ラジオクラブ」と題した集中再放送にあてている。
 
@@ -558,7 +558,7 @@ NHKのラジオ放送は[1925年](../Page/1925年.md "wikilink")3月に開始さ
 
 <!-- end list -->
 
-  - 現在、英語（[アメリカ英語](https://ja.wikipedia.org/wiki/アメリカ英語 "wikilink")）、ハングル・中国語・[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")・[ドイツ語](../Page/ドイツ語.md "wikilink")・[イタリア語](../Page/イタリア語.md "wikilink")・[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")・[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink")・[アラビア語](../Page/アラビア語.md "wikilink")・ポルトガル語（[ブラジル語](../Page/ブラジルポルトガル語.md "wikilink")）・[日本語](../Page/日本語.md "wikilink")の11言語の講座がある。
+  - 現在、英語（[アメリカ英語](../Page/アメリカ英語.md "wikilink")）、ハングル・中国語・[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")・[ドイツ語](../Page/ドイツ語.md "wikilink")・[イタリア語](../Page/イタリア語.md "wikilink")・[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")・[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink")・[アラビア語](../Page/アラビア語.md "wikilink")・ポルトガル語（[ブラジル語](../Page/ブラジルポルトガル語.md "wikilink")）・[日本語](../Page/日本語.md "wikilink")の11言語の講座がある。
 
 <!-- end list -->
 
@@ -599,7 +599,7 @@ NHKのラジオ放送は[1925年](../Page/1925年.md "wikilink")3月に開始さ
   -
 
       -
-        「上方演芸会」は[ラジオ第1の再放送](https://ja.wikipedia.org/wiki/NHKラジオ第1放送 "wikilink")、「浪曲十八番」はFM放送の再放送。
+        「上方演芸会」は[ラジオ第1の再放送](../Page/NHKラジオ第1放送.md "wikilink")、「浪曲十八番」はFM放送の再放送。
 
 <!-- end list -->
 
@@ -652,7 +652,7 @@ NHKのラジオ放送は[1925年](../Page/1925年.md "wikilink")3月に開始さ
 <!-- end list -->
 
   - [音の風景](../Page/音の風景.md "wikilink")（月曜 - 土曜 23:50 - 、土曜・日曜 12:55 - 、土曜 14:25 - 21:55 - 、日曜 16:25 - 、各5分間）
-  - [みんなのうた](https://ja.wikipedia.org/wiki/みんなのうた "wikilink")（月曜 - 土曜 8:35 - 8:40・16:25 - 16:30・23:55 - 24:00、日曜 9:00 - 9:05）
+  - [みんなのうた](../Page/みんなのうた.md "wikilink")（月曜 - 土曜 8:35 - 8:40・16:25 - 16:30・23:55 - 24:00、日曜 9:00 - 9:05）
 
 <!-- end list -->
 
@@ -720,7 +720,7 @@ NHKのラジオ放送は[1925年](../Page/1925年.md "wikilink")3月に開始さ
 
 実際例として、以下のようなケースがある。
 
-  - [昭和天皇](https://ja.wikipedia.org/wiki/昭和天皇 "wikilink")が[崩御](../Page/崩御.md "wikilink")した[1989年](../Page/1989年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink")の放送では、7:55から崩御の特別ニュースを数分間放送した以外は通常編成を放送したが、君が代の[演奏](../Page/演奏.md "wikilink")は中止されている。[1月8日](../Page/1月8日.md "wikilink")、並びに[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")の[大喪の礼](https://ja.wikipedia.org/wiki/大喪の礼 "wikilink")が行われた時は終日通常番組を放送したが、国歌の放送の省略は同様であった。
+  - [昭和天皇](../Page/昭和天皇.md "wikilink")が[崩御](../Page/崩御.md "wikilink")した[1989年](../Page/1989年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink")の放送では、7:55から崩御の特別ニュースを数分間放送した以外は通常編成を放送したが、君が代の[演奏](../Page/演奏.md "wikilink")は中止されている。[1月8日](../Page/1月8日.md "wikilink")、並びに[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")の[大喪の礼](https://ja.wikipedia.org/wiki/大喪の礼 "wikilink")が行われた時は終日通常番組を放送したが、国歌の放送の省略は同様であった。
   - 2006年11月19日は深夜2:00近くまで放送時間を延長。2007年1月15日は深夜2:30まで放送時間を延長した。
   - [東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")において、2011年3月11日の発生時から3月13日午前8時まで津波警報や生活情報（外国語）をほぼ終日放送したため、第2放送の番組が過半数休止となったが、13日午前8時からほぼ通常編成となった。Eテレは13日以後も引き続き震災被災者の安否情報や生活情報を断続的に続けたが、[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")からは聴取者保護の観点から児童向け番組の一部を再開し、[3月19日](../Page/3月19日.md "wikilink")から定時番組の編成に戻している。
   - 2012年12月12日の北朝鮮のミサイル発射のニュースでは9:58から62分間、ラジオ第1、FM、NHKワールド・ラジオ日本（日本語放送）と同時に緊急ニュースの同時放送が行われた\[31\]\[32\]。
@@ -728,8 +728,8 @@ NHKのラジオ放送は[1925年](../Page/1925年.md "wikilink")3月に開始さ
 ## 関連項目
 
   - [NHKラジオ番組一覧](https://ja.wikipedia.org/wiki/NHKラジオ番組一覧 "wikilink")
-  - [NHKラジオ第1放送](https://ja.wikipedia.org/wiki/NHKラジオ第1放送 "wikilink")
-  - [NHK-FM放送](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink")
+  - [NHKラジオ第1放送](../Page/NHKラジオ第1放送.md "wikilink")
+  - [NHK-FM放送](../Page/NHK-FM放送.md "wikilink")
 
 ## 脚注
 
@@ -742,11 +742,11 @@ NHKのラジオ放送は[1925年](../Page/1925年.md "wikilink")3月に開始さ
 [Category:NHKのラジオ放送](https://ja.wikipedia.org/wiki/Category:NHKのラジオ放送 "wikilink") [Category:日本のAMラジオ局](https://ja.wikipedia.org/wiki/Category:日本のAMラジオ局 "wikilink")
 
 1.  その関係で、16時の｢気象通報｣は、ラジオ第1で放送
-2.  同年10月より[NHK高校講座](../Page/NHK高校講座.md "wikilink")ライブラリー（[Eテレも同](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")）の放送を始める。
-3.  [2007年](../Page/2007年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")・[3日は](../Page/4月3日.md "wikilink")5:40開始で、6時開始は[4日からだった](../Page/4月4日.md "wikilink")。[6日](../Page/4月6日.md "wikilink")・[7日は](../Page/4月7日.md "wikilink")25:40、[8日は](https://ja.wikipedia.org/wiki/4月8日 "wikilink")25:20まで放送していた。
+2.  同年10月より[NHK高校講座](../Page/NHK高校講座.md "wikilink")ライブラリー（[Eテレも同](../Page/NHK教育テレビジョン.md "wikilink")）の放送を始める。
+3.  [2007年](../Page/2007年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")・[3日は](../Page/4月3日.md "wikilink")5:40開始で、6時開始は[4日からだった](../Page/4月4日.md "wikilink")。[6日](../Page/4月6日.md "wikilink")・[7日は](../Page/4月7日.md "wikilink")25:40、[8日は](../Page/4月8日.md "wikilink")25:20まで放送していた。
 4.  2016年9月は特別シリーズ「[ボキャブライダー](https://ja.wikipedia.org/wiki/ボキャブライダー "wikilink")」（英語講座）を放送するため、月-金曜日の放送は表記時間から5分延長(9月5-23日が23:45、26-30日が24:45）
 5.  高校講座アンコールの放送が20分繰り上がるため（原則23:40-24:40、水曜と木曜のみ24:20まで）。2013年10月の改編から日曜日の高校講座アンコールの放送が休止となり、その分水曜・木曜深夜も3本分放送となり、日曜以外は24:40までの放送に統一された（メンテナンス実施日は従来通りで、日曜日はメンテナンスの有無に関係なく、上表記載の時間で放送終了となる）2017年度からは、ハングル・中国語・ポルトガル語のそれぞれのニュース枠が、18時台からハングルと中国語が13時台に、ポルトガル語は23時台にそれぞれ移設放送することになり、高校講座のアンコールは2009年以来24時以後に放送されることになった（日曜は従来通り「高校講座」は休止となるが「[ラジオ仕事学のすすめ](https://ja.wikipedia.org/wiki/ラジオ仕事学のすすめ "wikilink")」の当該週の再放送が23:50-24:20に2本分まとめて放送される。）
-6.  開始時期の出典・[NHKウイークリーステラ](https://ja.wikipedia.org/wiki/NHKウイークリーステラ "wikilink")（2010年8月20・27日合併号）ラジオ第2放送番組表それ以外の休止時期の出典・NHK高校講座・[ライブラリー放送日程](http://www.nhk.or.jp/kokokoza/library/index.html)
+6.  開始時期の出典・[NHKウイークリーステラ](../Page/NHKウイークリーステラ.md "wikilink")（2010年8月20・27日合併号）ラジオ第2放送番組表それ以外の休止時期の出典・NHK高校講座・[ライブラリー放送日程](http://www.nhk.or.jp/kokokoza/library/index.html)
 7.  NHKが24時間放送を行う理由は自然災害や有事発生時の速報義務があるためでもある。ラジオ放送の休止が各局任意となった2000年7月以後もラジオ第2が終夜放送しなくてもラジオ第1とFM放送で充てられるために終夜放送を実施していない。
 8.  放送終了時は[コールサインの呼び出しIDのみ放送し](https://ja.wikipedia.org/wiki/識別信号 "wikilink")、[ISは流れなかった](https://ja.wikipedia.org/wiki/インターバルシグナル "wikilink")。
 9.  出典:1953年10月7日から12日の東奥日報朝刊ラジオ欄
@@ -770,6 +770,6 @@ NHKのラジオ放送は[1925年](../Page/1925年.md "wikilink")3月に開始さ
 27. [2019年度 radiko経由のNHKラジオの配信について](http://www.nhk.or.jp/pr/keiei/otherpress/pdf/20190322.pdf) NHK広報局 2019年3月22日
 28. [2019年4月以降のNHKラジオ配信について](http://radiko.jp/#!/info/2377) radiko 2019年3月22日
 29. 2014年3月30日までは、9:10 - 9:30及び22:00 - 22:20の放送もあった。
-30. 1963年から[NHKラジオ第1放送](https://ja.wikipedia.org/wiki/NHKラジオ第1放送 "wikilink")へ移動
+30. 1963年から[NHKラジオ第1放送](../Page/NHKラジオ第1放送.md "wikilink")へ移動
 31. ラジオセンターのニューススタジオからの放送とテレビ放送音源の二次使用。第一報はテレビ・ラジオ別々で伝えられた。
 32. テレビの放送では正午のニュース担当アナウンサーだった[高瀬耕造](../Page/高瀬耕造.md "wikilink")から第一報が伝えられたが、ラジオの放送では当日夜勤明けのラジオニュース担当アナウンサーだった[竹林宏](../Page/竹林宏.md "wikilink")から第一報が伝えられた。

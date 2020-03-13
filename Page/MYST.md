@@ -13,7 +13,7 @@
 
 シリーズ第1作で、後に多くの続編が製作された。最初は1993年に[Macintosh](../Page/Macintosh.md "wikilink")向けゲームとして[HyperCard](../Page/HyperCard.md "wikilink")で製作され、その後[Windowsなどに移植された](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。プリレンダリングされた3D画像を[スライドショー](../Page/スライドショー.md "wikilink")式に表示することで、当時のPCの性能で美しい三次元空間を演出することに成功していた。また止め絵を表示するだけでなく、ギミックのある箇所は[QuickTime](../Page/QuickTime.md "wikilink")によって動画を表示することで、リアルさを増していた。加えて、ゲームのコンセプトも斬新であり、日本も含め世界中で大ヒットを記録した。
 
-日本ではMac版、Windows版の他、1994年家庭用ゲーム機[セガサターン](../Page/セガサターン.md "wikilink")用ソフトとして[サン電子](../Page/サン電子.md "wikilink")から発売される。また、1995年には[3DO](../Page/3DO.md "wikilink")版、[PlayStation版も発売された](../Page/PlayStation_\(ゲーム機\).md "wikilink")。2006年には[PlayStation Portable版が](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")、2009年5月には[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink") / [iPod touch版](https://ja.wikipedia.org/wiki/iPod_touch "wikilink")（英語版）が、同年9月にその日本語版が発売された。また、PlayStation版は[2012年](../Page/2012年.md "wikilink")[2月8日](../Page/2月8日.md "wikilink")に[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")にて配信開始。
+日本ではMac版、Windows版の他、1994年家庭用ゲーム機[セガサターン](../Page/セガサターン.md "wikilink")用ソフトとして[サン電子](../Page/サン電子.md "wikilink")から発売される。また、1995年には[3DO](../Page/3DO.md "wikilink")版、[PlayStation版も発売された](../Page/PlayStation_\(ゲーム機\).md "wikilink")。2006年には[PlayStation Portable版が](../Page/PlayStation_Portable.md "wikilink")、2009年5月には[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink") / [iPod touch版](https://ja.wikipedia.org/wiki/iPod_touch "wikilink")（英語版）が、同年9月にその日本語版が発売された。また、PlayStation版は[2012年](../Page/2012年.md "wikilink")[2月8日](../Page/2月8日.md "wikilink")に[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")にて配信開始。
 
 セガサターン版では、最初の「ミスト島・発電室」に入ると動作が停止し、画面いっぱいにプログラム文が表示されるという不具合があった。これは初期に出荷された機種のみに発生する。
 
@@ -45,7 +45,7 @@
 
 2001年に発売された3作目。前作に引き続き、WindowsおよびMacに対応している。360度のプリレンダされた画像をマウスの操作で見渡すことができる新システムの採用で、前作にも増して映像・演出が発展した。また、比較的低スペックなPCでも快適に動作するように設計されている。後にMicrosoft社の[Xboxや](../Page/Xbox_\(ゲーム機\).md "wikilink")[PlayStation 2にも移植された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。ゲームソフト初の5.1chサラウンドシステムの導入により、「Xboxユーザーはいままで体験したことのない音と映像の世界を手にした」と評された。
 
-なお、本作品の製作はPresto Studios（[:en:Presto Studios](https://ja.wikipedia.org/wiki/:en:Presto_Studios "wikilink")）である。また、『ロード・オブ・ザ・リング/二つの塔』で**蛇の舌グリマ**役を演じた[ブラッド・ドゥーリフ](https://ja.wikipedia.org/wiki/ブラッド・ドゥーリフ "wikilink")が出演している。
+なお、本作品の製作はPresto Studios（[:en:Presto Studios](https://ja.wikipedia.org/wiki/:en:Presto_Studios "wikilink")）である。また、『ロード・オブ・ザ・リング/二つの塔』で**蛇の舌グリマ**役を演じた[ブラッド・ドゥーリフ](../Page/ブラッド・ドゥーリフ.md "wikilink")が出演している。
 
 ### 『MYST IV REVELATION』
 
@@ -77,7 +77,7 @@
 
 ## 影響
 
-「[ドラゴンクエストシリーズ](../Page/ドラゴンクエストシリーズ.md "wikilink")」の制作者の[堀井雄二](../Page/堀井雄二.md "wikilink")、[山名学](https://ja.wikipedia.org/wiki/山名学 "wikilink")が本作に熱中したため、[PlayStation](https://ja.wikipedia.org/wiki/PlayStation "wikilink")ソフト『[ドラゴンクエストVII エデンの戦士たち](https://ja.wikipedia.org/wiki/ドラゴンクエストVII_エデンの戦士たち "wikilink")』の冒頭は戦闘が無く、謎解きがメインとなった。
+「[ドラゴンクエストシリーズ](../Page/ドラゴンクエストシリーズ.md "wikilink")」の制作者の[堀井雄二](../Page/堀井雄二.md "wikilink")、[山名学](../Page/山名学.md "wikilink")が本作に熱中したため、[PlayStation](https://ja.wikipedia.org/wiki/PlayStation "wikilink")ソフト『[ドラゴンクエストVII エデンの戦士たち](https://ja.wikipedia.org/wiki/ドラゴンクエストVII_エデンの戦士たち "wikilink")』の冒頭は戦闘が無く、謎解きがメインとなった。
 
 ## 外部リンク
 

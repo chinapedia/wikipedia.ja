@@ -1,7 +1,7 @@
 > この記事は[ZIG ZAG](https://ja.wikipedia.org/wiki/ZIG_ZAG)から翻訳されています。
 
 
-『**地球ZIG ZAG**』（ちきゅうジグザグ）は、[1989年](../Page/1989年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[1994年](../Page/1994年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで、[TBS系列で放送されていた](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[旅](https://ja.wikipedia.org/wiki/旅 "wikilink")・[紀行](../Page/紀行.md "wikilink")・ヒューマンドキュメンタリー番組である。[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")、[テレビマンユニオン](https://ja.wikipedia.org/wiki/テレビマンユニオン "wikilink")の共同制作。放送時間は、毎週[日曜](../Page/日曜日.md "wikilink")11:00 - 11:30（[JST](../Page/日本標準時.md "wikilink")）。
+『**地球ZIG ZAG**』（ちきゅうジグザグ）は、[1989年](../Page/1989年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[1994年](../Page/1994年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで、[TBS系列で放送されていた](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[旅](https://ja.wikipedia.org/wiki/旅 "wikilink")・[紀行](../Page/紀行.md "wikilink")・ヒューマンドキュメンタリー番組である。[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")、[テレビマンユニオン](../Page/テレビマンユニオン.md "wikilink")の共同制作。放送時間は、毎週[日曜](../Page/日曜日.md "wikilink")11:00 - 11:30（[JST](../Page/日本標準時.md "wikilink")）。
 
 ## 概要
 
@@ -13,12 +13,12 @@
 
 ## 歴代司会者
 
-| 期間                           | 隊長                                                      | 副隊長                                                   |
-| ---------------------------- | ------------------------------------------------------- | ----------------------------------------------------- |
-| 1989.10.01 - 1991.03.31      | [鴻上尚史](../Page/鴻上尚史.md "wikilink")                      | [相原勇](../Page/相原勇.md "wikilink")                      |
-| 1991.04.14 - 1992.03.29      | [つみきみほ](https://ja.wikipedia.org/wiki/つみきみほ "wikilink") |                                                       |
-| 1992.04.05 - 1993.03.28      | [高嶋政伸](../Page/高嶋政伸.md "wikilink")                      | [越智静香](../Page/越智静香.md "wikilink")                    |
-| 1993.04.04 - 1994.03.27\[1\] | [吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")   | [高橋リナ](https://ja.wikipedia.org/wiki/高橋リナ "wikilink") |
+| 期間                           | 隊長                                                    | 副隊長                                                   |
+| ---------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
+| 1989.10.01 - 1991.03.31      | [鴻上尚史](../Page/鴻上尚史.md "wikilink")                    | [相原勇](../Page/相原勇.md "wikilink")                      |
+| 1991.04.14 - 1992.03.29      | [つみきみほ](../Page/つみきみほ.md "wikilink")                  |                                                       |
+| 1992.04.05 - 1993.03.28      | [高嶋政伸](../Page/高嶋政伸.md "wikilink")                    | [越智静香](../Page/越智静香.md "wikilink")                    |
+| 1993.04.04 - 1994.03.27\[1\] | [吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink") | [高橋リナ](https://ja.wikipedia.org/wiki/高橋リナ "wikilink") |
 
 ## 隊員
 
@@ -171,7 +171,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/東海3県" title="wikilink">中京広域圏</a></p></td>
+<td><p><a href="../Page/東海3県.md" title="wikilink">中京広域圏</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/CBCテレビ" title="wikilink">中部日本放送</a>（CBC）</p></td>
 <td><p>現・CBCテレビ</p></td>
 <td></td>
@@ -228,7 +228,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/RKB毎日放送" title="wikilink">RKB毎日放送</a>（RKB）</p></td>
 <td></td>
 <td></td>
@@ -277,7 +277,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/沖縄県.md" title="wikilink">沖縄県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/琉球放送" title="wikilink">琉球放送</a>（RBC）</p></td>
+<td><p><a href="../Page/琉球放送.md" title="wikilink">琉球放送</a>（RBC）</p></td>
 <td></td>
 <td></td>
 <td></td>

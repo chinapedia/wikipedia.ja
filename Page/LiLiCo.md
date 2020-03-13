@@ -1,7 +1,7 @@
 > この記事は[LiLiCo](https://ja.wikipedia.org/wiki/LiLiCo)から翻訳されています。
 
 
-**LiLiCo**（リリコ、[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[タレント](../Page/タレント.md "wikilink")、[歌手](../Page/歌手.md "wikilink")、[映画](../Page/映画.md "wikilink")[コメンテーター](../Page/コメンテーター.md "wikilink")、[プロレスラー](../Page/プロレスラー.md "wikilink")である。所属[事務所はプランチャイム](../Page/芸能事務所.md "wikilink")。旧芸名はLILIKO（リリコ）。[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")の[ストックホルム](../Page/ストックホルム.md "wikilink")出身。夫は歌謡グループ[純烈](https://ja.wikipedia.org/wiki/純烈 "wikilink")のメンバーで俳優の[小田井涼平](../Page/小田井涼平.md "wikilink")\[1\]。
+**LiLiCo**（リリコ、[1970年](../Page/1970年.md "wikilink")[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[タレント](../Page/タレント.md "wikilink")、[歌手](../Page/歌手.md "wikilink")、[映画](../Page/映画.md "wikilink")[コメンテーター](../Page/コメンテーター.md "wikilink")、[プロレスラー](../Page/プロレスラー.md "wikilink")である。所属[事務所はプランチャイム](../Page/芸能事務所.md "wikilink")。旧芸名はLILIKO（リリコ）。[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")の[ストックホルム](../Page/ストックホルム.md "wikilink")出身。夫は歌謡グループ[純烈](https://ja.wikipedia.org/wiki/純烈 "wikilink")のメンバーで俳優の[小田井涼平](../Page/小田井涼平.md "wikilink")\[1\]。
 
 ## 来歴
 
@@ -11,7 +11,7 @@
 
 21歳でマネージャーともう一人の歌手と独立。しかし後にその歌手は失踪、事務所は[差し押さえ](https://ja.wikipedia.org/wiki/差し押さえ "wikilink")にあい、26歳までの5年間、マネージャーと二人で[車](https://ja.wikipedia.org/wiki/車 "wikilink")での[ホームレス](../Page/ホームレス.md "wikilink")生活をしながら、[スナックや](../Page/スナックバー_\(飲食店\).md "wikilink")[健康ランド](../Page/健康ランド.md "wikilink")などを回り歌手として営業活動をしていた。[1992年](../Page/1992年.md "wikilink")、映画の主題歌で歌手デビュー。また、[ヌード](../Page/ヌード.md "wikilink")シーンも含む[Vシネマ](https://ja.wikipedia.org/wiki/Vシネマ "wikilink")や『[ロバの耳そうじ](../Page/ロバの耳そうじ.md "wikilink")』などにセクシー路線で出演。
 
-28歳でマネージャーのもとを離れ独立、[中川翔子](../Page/中川翔子.md "wikilink")の母親が経営する[ショーパブで働きつつ](https://ja.wikipedia.org/wiki/パブ "wikilink")[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の販売系列である『[ネッツトヨタ](../Page/ネッツ店.md "wikilink")』などの[CMナレーターをしていた](../Page/コマーシャルメッセージ.md "wikilink")。
+28歳でマネージャーのもとを離れ独立、[中川翔子](../Page/中川翔子.md "wikilink")の母親が経営する[ショーパブで働きつつ](../Page/パブ.md "wikilink")[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の販売系列である『[ネッツトヨタ](../Page/ネッツ店.md "wikilink")』などの[CMナレーターをしていた](../Page/コマーシャルメッセージ.md "wikilink")。
 
 ある雑誌のインタビューで「好きな映画を3本教えてください」と言われ、映画を3本挙げる。[2001年](../Page/2001年.md "wikilink")にその記事を見た[TBS](../Page/TBSテレビ.md "wikilink")『[王様のブランチ](https://ja.wikipedia.org/wiki/王様のブランチ "wikilink")』のプロデューサーに「オーディションを受けないか」と誘われて合格。その10日後から『王様のブランチ』に映画コメンテーターとしてレギュラー出演。
 
@@ -27,7 +27,7 @@
 
 2015年6月28日、DDT後楽園大会に来場しプロレスラーデビューを直訴\[6\]。
 
-2015年8月23日、『[両国ピーターパン2015〜DDTより愛をこめて〜](https://ja.wikipedia.org/wiki/両国ピーターパン2015〜DDTより愛をこめて〜 "wikilink")』でプロレスデビュー。第2試合「時間差タッグバトルロイヤル」に出場、[宮武俊](https://ja.wikipedia.org/wiki/宮武俊 "wikilink")とタッグを組み、勝ち残っていた[アジャ・コング](https://ja.wikipedia.org/wiki/アジャ・コング "wikilink")＆[大石真翔](../Page/大石真翔.md "wikilink")組と対戦したが、宮武がアジャに敗北\[7\]。
+2015年8月23日、『[両国ピーターパン2015〜DDTより愛をこめて〜](https://ja.wikipedia.org/wiki/両国ピーターパン2015〜DDTより愛をこめて〜 "wikilink")』でプロレスデビュー。第2試合「時間差タッグバトルロイヤル」に出場、[宮武俊](https://ja.wikipedia.org/wiki/宮武俊 "wikilink")とタッグを組み、勝ち残っていた[アジャ・コング](../Page/アジャ・コング.md "wikilink")＆[大石真翔](../Page/大石真翔.md "wikilink")組と対戦したが、宮武がアジャに敗北\[7\]。
 
 2016年1月3日、DDT後楽園大会にて、アイアンマン王座を保持していた[赤井沙希](../Page/赤井沙希.md "wikilink")を奇襲し同王座を獲得。
 
@@ -60,7 +60,7 @@
 
 ### 入場曲
 
-  - The Final Countdown / [EUROPE](https://ja.wikipedia.org/wiki/ヨーロッパ_\(バンド\) "wikilink")
+  - The Final Countdown / [EUROPE](../Page/ヨーロッパ_\(バンド\).md "wikilink")
 
 ## エピソード
 
@@ -73,7 +73,7 @@
   - さまざまな番組でのエンドロールで出るプロデューサーの元に直接出向き、「ぜひこの番組に出してください\!」と直談判していた。特に『[関口宏の東京フレンドパークII](../Page/関口宏の東京フレンドパークII.md "wikilink")』には15年前から「出してください」と言っていたものの、「まだダメ」と断られていたという。その後、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[6月7日](../Page/6月7日.md "wikilink")放送分で初登場。[谷原章介](../Page/谷原章介.md "wikilink")、[優香](../Page/優香.md "wikilink")、[はしのえみ](../Page/はしのえみ.md "wikilink")と共に「王様のブランチチーム」で出演を果たした\[17\]。夢は『[情熱大陸](../Page/情熱大陸.md "wikilink")』に出演する事で、過去に情熱大陸の制作会社に自ら出向いてプレゼンした事がある。
   - 2012年に、全く売れていない時代から憧れていた『[笑っていいとも](https://ja.wikipedia.org/wiki/笑っていいとも "wikilink")』のテレフォンゲストとして登場。「日本語がわからない時代から、タモリさんが面白い人だとわかった」などと涙ながらに登場の感激を語っている。
   - 弟は6か国語を話せる経営学博士で、スウェーデンの大学で准教授をしている\[18\]。
-  - 売れない当時はメイク道具も無く、マジックペンなどでメイク用品を代用していた。その為、女性とは思われずに[ニューハーフ](https://ja.wikipedia.org/wiki/ニューハーフ "wikilink")と間違われた事もあった。
+  - 売れない当時はメイク道具も無く、マジックペンなどでメイク用品を代用していた。その為、女性とは思われずに[ニューハーフ](../Page/ニューハーフ.md "wikilink")と間違われた事もあった。
   - ハイテンションでポジティブで豪快ながらもちゃんとポイントを押さえた発言をしている。時々、急に乙女ぶったりすると周囲から「らしくない」「可愛くない」と言われて「なんでだよ！」と突っ込む事が多い。
 
 ## 主な出演作品
@@ -107,7 +107,7 @@
 
 #### 海外アニメ
 
-  - [幸福路のチー](https://ja.wikipedia.org/wiki/幸福路のチー "wikilink")（チーの祖母\[20\]）
+  - [幸福路のチー](../Page/幸福路のチー.md "wikilink")（チーの祖母\[20\]）
   - [サウスパーク](../Page/サウスパーク.md "wikilink")（エリック・カートマン）※[WOWOW](../Page/WOWOW.md "wikilink")版及び[Netflix](../Page/Netflix.md "wikilink")版
   - [サミーとシェリー 七つの海の大冒険](https://ja.wikipedia.org/wiki/サミーとシェリー_七つの海の大冒険 "wikilink")（ベラ\[21\]）
   - [ファインディング・ニモ](../Page/ファインディング・ニモ.md "wikilink")（大口魚の母）
@@ -131,7 +131,7 @@
   - [女のハローワーク](https://ja.wikipedia.org/wiki/女のハローワーク "wikilink")（LaLa TV、MC）
   - [水曜プレミアシネマ](https://ja.wikipedia.org/wiki/水曜プレミアシネマ "wikilink")（TBS、ナビゲーター）
   - [ノンストップ\!](https://ja.wikipedia.org/wiki/ノンストップ! "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、月曜日レギュラー）
-  - [NHK高校講座](../Page/NHK高校講座.md "wikilink") コミュニケーション英語I（[NHKEテレ](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")、2013年4月15日 - 2017年2月27日、MC）
+  - [NHK高校講座](../Page/NHK高校講座.md "wikilink") コミュニケーション英語I（[NHKEテレ](../Page/NHK教育テレビジョン.md "wikilink")、2013年4月15日 - 2017年2月27日、MC）
   - [大天才てれびくん](https://ja.wikipedia.org/wiki/大天才てれびくん "wikilink")（NHKEテレ）
   - [地球アゴラ](https://ja.wikipedia.org/wiki/地球アゴラ "wikilink")（[NHK BS1](../Page/NHK_BS1.md "wikilink")、2014年4月6日 - 、MC）
   - [伝えてピカッチ](https://ja.wikipedia.org/wiki/伝えてピカッチ "wikilink")（NHK）- 不定期出演
@@ -187,7 +187,7 @@
 
 ### ラジオ番組
 
-  - [よんぱち 48hours 〜WEEKEND MEISTER〜](https://ja.wikipedia.org/wiki/よんぱち_48hours_〜WEEKEND_MEISTER〜 "wikilink")（[TOKYO FM](../Page/エフエム東京.md "wikilink")、「CINEMA KINEMA」コーナー月一出演）
+  - [よんぱち 48hours 〜WEEKEND MEISTER〜](../Page/よんぱち_48hours_〜WEEKEND_MEISTER〜.md "wikilink")（[TOKYO FM](../Page/エフエム東京.md "wikilink")、「CINEMA KINEMA」コーナー月一出演）
   - Cinema Wonderland（TOKYO FM）
   - [GROOVE LINE Z](https://ja.wikipedia.org/wiki/GROOVE_LINE_Z "wikilink") （[J-WAVE](../Page/J-WAVE.md "wikilink")、不定期出演）
   - [BAY SIDE FREEWAY](../Page/BAY_SIDE_FREEWAY.md "wikilink")（[ベイエフエム](../Page/ベイエフエム.md "wikilink")）

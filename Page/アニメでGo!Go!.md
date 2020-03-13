@@ -1,7 +1,7 @@
 > この記事は[Go!Go!](https://ja.wikipedia.org/wiki/Go!Go!)から翻訳されています。
 
 
-**アニメでGo\!Go\!**（アニメでゴーゴー）は、[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")（MBC）制作のローカル[ラジオ番組](../Page/ラジオ番組.md "wikilink")（[アニラジ](../Page/アニラジ.md "wikilink")）。毎週火曜日24:30〜25:00に放送されていた。パーソナリティーは同局の[采野吉洋](https://ja.wikipedia.org/wiki/采野吉洋 "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")。
+**アニメでGo\!Go\!**（アニメでゴーゴー）は、[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")（MBC）制作のローカル[ラジオ番組](../Page/ラジオ番組.md "wikilink")（[アニラジ](../Page/アニラジ.md "wikilink")）。毎週火曜日24:30〜25:00に放送されていた。パーソナリティーは同局の[采野吉洋](../Page/采野吉洋.md "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")。
 
 ## 概要
 
@@ -13,7 +13,7 @@
 
 2015年9月からは[Music Express金曜日のコーナーとして復活](https://ja.wikipedia.org/wiki/Music_Express "wikilink")。パーソナリティーは2015年9月に采野吉洋から「2代目アニメキング」の称号を正式に授与された[ZIKU](https://ja.wikipedia.org/wiki/ZIKU "wikilink")。毎週一つのアニメを取り上げ、好きなシーンやキャラクター、アニメに対する考察などをZIKUとリスナーが語り合う内容。
 
-なお、[アニメ雑誌](../Page/アニメ雑誌.md "wikilink")の老舗「[アニメージュ](https://ja.wikipedia.org/wiki/アニメージュ "wikilink")」では、同じくローカルのアニメ番組として最古参の『[ウキウキ放送局](https://ja.wikipedia.org/wiki/ウキウキ放送局 "wikilink")』（[山口県](../Page/山口県.md "wikilink")・[FM山口](https://ja.wikipedia.org/wiki/エフエム山口 "wikilink")）などとともに、番組情報を掲載していた。
+なお、[アニメ雑誌](../Page/アニメ雑誌.md "wikilink")の老舗「[アニメージュ](../Page/アニメージュ.md "wikilink")」では、同じくローカルのアニメ番組として最古参の『[ウキウキ放送局](../Page/ウキウキ放送局.md "wikilink")』（[山口県](../Page/山口県.md "wikilink")・[FM山口](https://ja.wikipedia.org/wiki/エフエム山口 "wikilink")）などとともに、番組情報を掲載していた。
 
 ## 放送内容
 
@@ -56,7 +56,7 @@
 
 ## 休止中の代替番組
 
-当番組は2006年5月〜12月まで休止となっていた。その理由は采野アナの病気療養によるものである（この件は土曜の[城山スズメ](https://ja.wikipedia.org/wiki/城山スズメ "wikilink")で発表された）。その間は下記の番組が代替番組として放送されていた。采野アナ復帰後は当番組は毎週火曜のみの放送に縮小された。
+当番組は2006年5月〜12月まで休止となっていた。その理由は采野アナの病気療養によるものである（この件は土曜の[城山スズメ](../Page/城山スズメ.md "wikilink")で発表された）。その間は下記の番組が代替番組として放送されていた。采野アナ復帰後は当番組は毎週火曜のみの放送に縮小された。
 
   - 月曜日 [アニメストリート](../Page/アニメストリート.md "wikilink")
   - 火曜日 [水谷優子のアニメ探偵団2\!](https://ja.wikipedia.org/wiki/水谷優子のアニメ探偵団2! "wikilink")

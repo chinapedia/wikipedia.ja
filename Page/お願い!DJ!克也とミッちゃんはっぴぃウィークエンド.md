@@ -28,7 +28,7 @@
 
 ## サウンドハイウェイ・ベストヒットセレクションの中継
 
-  - [増山さやか](https://ja.wikipedia.org/wiki/増山さやか "wikilink")
+  - [増山さやか](../Page/増山さやか.md "wikilink")
   - [増田みのり](../Page/増田みのり.md "wikilink")
 
 ## タイムテーブル
@@ -36,11 +36,11 @@
   - 7:00　オープニング
   - 7:05　オープニングサタデー
   - 7:05　[交通情報](../Page/交通情報.md "wikilink")
-  - 7:18　[かけまくリクエスト](https://ja.wikipedia.org/wiki/お早うネットワーク "wikilink")
+  - 7:18　[かけまくリクエスト](../Page/お早うネットワーク.md "wikilink")
   - 7:31　天気予報　　
   - 7:32　交通情報
-  - 7:35　[日産モーニングリクエスト](https://ja.wikipedia.org/wiki/NISSANビジネスサポートトピックス "wikilink")
-  - 7:54　[飛び出せ街かど天気予報](https://ja.wikipedia.org/wiki/TOYOTA_飛び出せ街かど天気予報 "wikilink")
+  - 7:35　[日産モーニングリクエスト](../Page/NISSANビジネスサポートトピックス.md "wikilink")
+  - 7:54　[飛び出せ街かど天気予報](../Page/TOYOTA_飛び出せ街かど天気予報.md "wikilink")
   - 7:57　交通情報
 
 <!-- end list -->

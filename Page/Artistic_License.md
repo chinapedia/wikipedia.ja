@@ -1,7 +1,7 @@
 > この記事は[Artistic License](https://ja.wikipedia.org/wiki/Artistic_License)から翻訳されています。
 
 
-**Artistic License**（アーティスティック・ライセンス）は、Perlの開発者である[ラリー・ウォール](https://ja.wikipedia.org/wiki/ラリー・ウォール "wikilink")が作成した[オープンソース](../Page/オープンソース.md "wikilink")のライセンスの一種である。主に[Perl](../Page/Perl.md "wikilink")や[Parrot](../Page/Parrot.md "wikilink")で採用されている。
+**Artistic License**（アーティスティック・ライセンス）は、Perlの開発者である[ラリー・ウォール](../Page/ラリー・ウォール.md "wikilink")が作成した[オープンソース](../Page/オープンソース.md "wikilink")のライセンスの一種である。主に[Perl](../Page/Perl.md "wikilink")や[Parrot](../Page/Parrot.md "wikilink")で採用されている。
 
 [GNU General Public License](../Page/GNU_General_Public_License.md "wikilink") (GPL) に近いライセンスであるが、ユーザが修正して再配布する場合に原版と同名を名乗ることを禁止している点が異なる。Artistic Licenseというネーミングは文学の "Poetic License"（詩的許容。"[Artistic license](https://ja.wikipedia.org/wiki/:en:Artistic_license "wikilink")"というそのものの英語句もあり）を捩っている。
 

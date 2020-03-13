@@ -28,7 +28,7 @@
   - [加山雄三](https://ja.wikipedia.org/wiki/加山雄三 "wikilink") - お父さん役で出演。
   - [萬田久子](../Page/萬田久子.md "wikilink") - お母さん役で出演。
   - [ベッキー](../Page/ベッキー.md "wikilink") - 長女役で出演。
-  - [佐津川愛美](https://ja.wikipedia.org/wiki/佐津川愛美 "wikilink") - 次女役で出演。
+  - [佐津川愛美](../Page/佐津川愛美.md "wikilink") - 次女役で出演。
   - [西野亮廣](../Page/西野亮廣.md "wikilink")（[キングコング](https://ja.wikipedia.org/wiki/キングコング_\(お笑い\) "wikilink")） - 長男役で出演。
   - [梶原雄太](../Page/梶原雄太.md "wikilink")（キングコング） - 次男役で出演。
 
@@ -58,7 +58,7 @@
   - おみやげクイズ
     一般家族から加山家へのおみやげを賭けたパーソナルクイズ。加山家が正解した場合にはおみやげを獲得する。第4回放送ではこのクイズにポイントが懸かっていたが、その後の放送ではおみやげだけとなっている。
   - ファミリーファイト
-    家族全員参加による[早押しクイズ](https://ja.wikipedia.org/wiki/早押しクイズ "wikilink")。時々解答者が指名されることがあった。5問先取で勝ち。
+    家族全員参加による[早押しクイズ](../Page/早押しクイズ.md "wikilink")。時々解答者が指名されることがあった。5問先取で勝ち。
   - ファイナルステージ
     9種類用意されたクイズからルーレットで選び出されたクイズを使って最終決戦を行う。12月1日放送分（第5回）で使用されたクイズは以下の通り。
       - 家族のホンネ100\!
@@ -68,14 +68,14 @@
 
 ## パパキャッチャー
 
-前期（第1回 - 第3回）には3組の中から総合得点が高かった家族が、後期（第4回 - 第7回）には勝利した家族が挑戦。天井から吊り下げられたお父さん（大きなスポンジ製の手袋と靴を着用）を、[UFOキャッチャー](https://ja.wikipedia.org/wiki/UFOキャッチャー "wikilink")の要領で家族がコントロールして賞品の入ってるカプセルを取る。賞品のカプセルには音楽ギフト券、最新電化製品のほか、[トヨタ・プリウス](https://ja.wikipedia.org/wiki/トヨタ・プリウス "wikilink")（を貰える権利）、[近畿日本ツーリスト](https://ja.wikipedia.org/wiki/近畿日本ツーリスト "wikilink")協賛の[ハワイ旅行](../Page/ハワイ州.md "wikilink")（を貰える権利）、賞金100万円などが入っていた。特に狙ってくる確率が高いプリウス、ハワイ旅行、100万円などは掴みにくい特大のカプセルに入れられていた。
+前期（第1回 - 第3回）には3組の中から総合得点が高かった家族が、後期（第4回 - 第7回）には勝利した家族が挑戦。天井から吊り下げられたお父さん（大きなスポンジ製の手袋と靴を着用）を、[UFOキャッチャー](../Page/UFOキャッチャー.md "wikilink")の要領で家族がコントロールして賞品の入ってるカプセルを取る。賞品のカプセルには音楽ギフト券、最新電化製品のほか、[トヨタ・プリウス](https://ja.wikipedia.org/wiki/トヨタ・プリウス "wikilink")（を貰える権利）、[近畿日本ツーリスト](https://ja.wikipedia.org/wiki/近畿日本ツーリスト "wikilink")協賛の[ハワイ旅行](../Page/ハワイ州.md "wikilink")（を貰える権利）、賞金100万円などが入っていた。特に狙ってくる確率が高いプリウス、ハワイ旅行、100万円などは掴みにくい特大のカプセルに入れられていた。
 
 前期にはチャンスが2回あり、1回目に失敗した場合のみ2回目に挑戦することができた。しかし、後期に入るとチャンスが1回だけに減らされた。「加山家」が勝利してパパキャッチャーに挑戦した場合、獲得した賞品は視聴者プレゼントとなる。
 
 ## スタッフ
 
-  - 構成：[都築浩](https://ja.wikipedia.org/wiki/都築浩 "wikilink")、[村上卓史](../Page/村上卓史.md "wikilink")、[たむらようこ](../Page/たむらようこ.md "wikilink")、稲原誠、松井尚、[木崎徹](https://ja.wikipedia.org/wiki/木崎徹 "wikilink")
-  - クイズ制作：[矢野了平](https://ja.wikipedia.org/wiki/矢野了平 "wikilink")、田中利明、[藤本裕](https://ja.wikipedia.org/wiki/藤本裕_\(放送作家\) "wikilink")
+  - 構成：[都築浩](../Page/都築浩.md "wikilink")、[村上卓史](../Page/村上卓史.md "wikilink")、[たむらようこ](../Page/たむらようこ.md "wikilink")、稲原誠、松井尚、[木崎徹](https://ja.wikipedia.org/wiki/木崎徹 "wikilink")
+  - クイズ制作：[矢野了平](../Page/矢野了平.md "wikilink")、田中利明、[藤本裕](https://ja.wikipedia.org/wiki/藤本裕_\(放送作家\) "wikilink")
   - スタジオ技術
       - TP：深谷高史
       - TD：小川利行
@@ -87,7 +87,7 @@
   - TK：浜川久美
   - 編集：波江野剛
   - MA：坂井真一
-  - 協力：[ニユーテレス](../Page/ニユーテレス.md "wikilink")、[FLT](https://ja.wikipedia.org/wiki/フジライティング・アンド・テクノロジイ "wikilink")、[サウンズアート](https://ja.wikipedia.org/wiki/サウンズアート "wikilink")、[オムニバス・ジャパン](../Page/オムニバス・ジャパン.md "wikilink")、[砧スタジオ](../Page/東京メディアシティ.md "wikilink")
+  - 協力：[ニユーテレス](../Page/ニユーテレス.md "wikilink")、[FLT](../Page/フジライティング・アンド・テクノロジイ.md "wikilink")、[サウンズアート](../Page/サウンズアート.md "wikilink")、[オムニバス・ジャパン](../Page/オムニバス・ジャパン.md "wikilink")、[砧スタジオ](../Page/東京メディアシティ.md "wikilink")
   - 美術
       - 美術プロデュース：杉川廣明
       - デザイン：[きくちまさと](../Page/きくちまさと.md "wikilink")
@@ -115,8 +115,8 @@
   - ディレクター：長尾政彦（毎日放送）、袰川斉、卯目速人、平野隼人、金原伸介、谷口欽也、牧田潤也、野溝友也、山崎敦基、斎藤充崇、高城秀彦、逸見忠利
   - 総合演出：[北野弘](https://ja.wikipedia.org/wiki/北野弘 "wikilink")（毎日放送）
   - プロデューサー：徳山竜一（東北新社）、松葉直彦（テレビマンユニオン）、春名康好（ザ・ワークス）
-  - チーフプロデューサー：[中野伸二](https://ja.wikipedia.org/wiki/中野伸二 "wikilink")（毎日放送）
-  - 制作協力：[東北新社](https://ja.wikipedia.org/wiki/東北新社 "wikilink")、[テレビマンユニオン](https://ja.wikipedia.org/wiki/テレビマンユニオン "wikilink")、[THE WORKS](https://ja.wikipedia.org/wiki/ザ・ワークス_\(テレビ制作会社\) "wikilink")
+  - チーフプロデューサー：[中野伸二](../Page/中野伸二.md "wikilink")（毎日放送）
+  - 制作協力：[東北新社](https://ja.wikipedia.org/wiki/東北新社 "wikilink")、[テレビマンユニオン](../Page/テレビマンユニオン.md "wikilink")、[THE WORKS](../Page/ザ・ワークス_\(テレビ制作会社\).md "wikilink")
   - 製作著作：毎日放送
 
 ## 外部リンク

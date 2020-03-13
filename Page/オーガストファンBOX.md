@@ -5,7 +5,7 @@
 
 ## 概要
 
-同ブランドがこれまでにリリースした「[バイナリィ・ポット](../Page/バイナリィ・ポット.md "wikilink")」「[Princess Holiday 〜転がるりんご亭千夜一夜〜](../Page/Princess_Holiday_〜転がるりんご亭千夜一夜〜.md "wikilink")」「[月は東に日は西に 〜Operation Sanctuary〜](https://ja.wikipedia.org/wiki/月は東に日は西に_〜Operation_Sanctuary〜 "wikilink")」のすべてのキャラクターが登場・共演し、10本以上の短編シナリオや同ブランドのこれまでのゲーム（コンシューマ移植版含む）に関する情報を掲載したデータベースなどのコンテンツが収録されているほか、上記3作品の体験版が収録されている。
+同ブランドがこれまでにリリースした「[バイナリィ・ポット](../Page/バイナリィ・ポット.md "wikilink")」「[Princess Holiday 〜転がるりんご亭千夜一夜〜](../Page/Princess_Holiday_〜転がるりんご亭千夜一夜〜.md "wikilink")」「[月は東に日は西に 〜Operation Sanctuary〜](../Page/月は東に日は西に_〜Operation_Sanctuary〜.md "wikilink")」のすべてのキャラクターが登場・共演し、10本以上の短編シナリオや同ブランドのこれまでのゲーム（コンシューマ移植版含む）に関する情報を掲載したデータベースなどのコンテンツが収録されているほか、上記3作品の体験版が収録されている。
 
 また、プリホリ以来続くマニュアルブックレットのおまけコンテンツも健在で、こちらにはグッズなどに使われた画像やコンシューマ追加ヒロインのラフデザイン、[コミケ](https://ja.wikipedia.org/wiki/コミケ "wikilink")で配布された印刷物などのイラストが収録されている。
 
@@ -35,7 +35,7 @@
   - [オーガスト](../Page/オーガスト_\(ブランド\).md "wikilink")
   - [バイナリィ・ポット](../Page/バイナリィ・ポット.md "wikilink")
   - [Princess Holiday 〜転がるりんご亭千夜一夜〜](../Page/Princess_Holiday_〜転がるりんご亭千夜一夜〜.md "wikilink")
-  - [月は東に日は西に 〜Operation Sanctuary〜](https://ja.wikipedia.org/wiki/月は東に日は西に_〜Operation_Sanctuary〜 "wikilink")
+  - [月は東に日は西に 〜Operation Sanctuary〜](../Page/月は東に日は西に_〜Operation_Sanctuary〜.md "wikilink")
 
 ## 外部リンク
 

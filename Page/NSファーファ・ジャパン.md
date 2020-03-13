@@ -1,7 +1,7 @@
 > この記事は[NS](https://ja.wikipedia.org/wiki/NS)から翻訳されています。
 
 
-**NSファーファ・ジャパン株式会社**（エヌ・エス・ファーファ・ジャパン-、英称：NS FaFa Japan Co., Ltd.）は、[東京都](../Page/東京都.md "wikilink")[墨田区](../Page/墨田区.md "wikilink")に本社を置く[洗剤](https://ja.wikipedia.org/wiki/洗剤 "wikilink")、[石鹸](../Page/石鹸.md "wikilink")の製造販売をおこなう企業である。
+**NSファーファ・ジャパン株式会社**（エヌ・エス・ファーファ・ジャパン-、英称：NS FaFa Japan Co., Ltd.）は、[東京都](../Page/東京都.md "wikilink")[墨田区](../Page/墨田区.md "wikilink")に本社を置く[洗剤](../Page/洗剤.md "wikilink")、[石鹸](../Page/石鹸.md "wikilink")の製造販売をおこなう企業である。
 
 本社名の「NS」は、旧社名である**ニッサン石鹸** (***N**issan **S**oap*) から由来しており、そこに主力ブランドである「**[ファーファ](../Page/ファーファ.md "wikilink")**」を冠している。
 
@@ -11,7 +11,7 @@
 
 東京に本社を置き（営業本部・支店併設）\[1\]、現在は大阪に支社、[兵庫県](../Page/兵庫県.md "wikilink")[加東市](../Page/加東市.md "wikilink")と[茨城県](../Page/茨城県.md "wikilink")[神栖市](https://ja.wikipedia.org/wiki/神栖市 "wikilink")にそれぞれ工場を持つ\[2\]。[2012年](../Page/2012年.md "wikilink")（[平成](../Page/平成.md "wikilink")24年）まで同社は旧日産コンツェルン系企業が再結集した[日産・日立グループ](https://ja.wikipedia.org/wiki/日産コンツェルン#日産・日立（春光）グループ "wikilink")（春光グループ）の日立グループに属する[日油](../Page/日油.md "wikilink")（旧・日本油脂）のグループ会社の一社であった。
 
-[2006年](../Page/2006年.md "wikilink")（平成18年）[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")に[ユニリーバ](https://ja.wikipedia.org/wiki/ユニリーバ "wikilink")が事業撤退を表明した柔軟剤「[ファーファ](../Page/ファーファ.md "wikilink")」ブランドを譲受した。なお、マスコットキャラクターの[テディベア](../Page/テディベア.md "wikilink")「[スナッグル](https://ja.wikipedia.org/wiki/スナッグル "wikilink")」に対するライセンス料は同社が支払っている。
+[2006年](../Page/2006年.md "wikilink")（平成18年）[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")に[ユニリーバ](../Page/ユニリーバ.md "wikilink")が事業撤退を表明した柔軟剤「[ファーファ](../Page/ファーファ.md "wikilink")」ブランドを譲受した。なお、マスコットキャラクターの[テディベア](../Page/テディベア.md "wikilink")「[スナッグル](https://ja.wikipedia.org/wiki/スナッグル "wikilink")」に対するライセンス料は同社が支払っている。
 
 ## 会社の歴史
 
@@ -31,7 +31,7 @@
 
 [2011年](../Page/2011年.md "wikilink")（平成23年）[9月1日](../Page/9月1日.md "wikilink")付で、社名をこれまでの「ニッサン石鹸」から、「ファーファ」ブランドを冠した「**NSファーファ・ジャパン株式会社**」に変更した\[5\]。
 
-[2012年](../Page/2012年.md "wikilink")（平成24年）[1月19日](../Page/1月19日.md "wikilink")、[エステー](https://ja.wikipedia.org/wiki/エステー "wikilink")、[フマキラー](https://ja.wikipedia.org/wiki/フマキラー "wikilink")との3社間で資本業務提携を行うことで合意した\[6\]。
+[2012年](../Page/2012年.md "wikilink")（平成24年）[1月19日](../Page/1月19日.md "wikilink")、[エステー](../Page/エステー.md "wikilink")、[フマキラー](../Page/フマキラー.md "wikilink")との3社間で資本業務提携を行うことで合意した\[6\]。
 
 [2012年](../Page/2012年.md "wikilink")（平成24年）[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")、[東大阪市](../Page/東大阪市.md "wikilink")の大阪支社を売却した。それに伴い、大阪支社に拠点のあった、西日本営業部門は[吹田市](../Page/吹田市.md "wikilink")へ、研究開発部門は各工場へと移転した。
 
@@ -90,7 +90,7 @@
 ## 広告活動
 
 [ニッサン石鹸](https://ja.wikipedia.org/wiki/ニッサン石鹸 "wikilink")時代は「UVカット洗剤」や前述自社のTVCMが中心だったが、現在は広告活動を休止している（[2014年](../Page/2014年.md "wikilink")春にテレビ局と時期を限定して「デオテクト」のTVCMを行なった）。
-なお[2000年](../Page/2000年.md "wikilink")代末期まで放送していた「[ファーファ](../Page/ファーファ.md "wikilink")」のTVCMは同社のものではなく、「[ユニリーバ](https://ja.wikipedia.org/wiki/ユニリーバ "wikilink")」のものである。
+なお[2000年](../Page/2000年.md "wikilink")代末期まで放送していた「[ファーファ](../Page/ファーファ.md "wikilink")」のTVCMは同社のものではなく、「[ユニリーバ](../Page/ユニリーバ.md "wikilink")」のものである。
 
   - 提供番組（いずれも過去）
     ※は現在も番組自体継続中。
@@ -100,12 +100,12 @@
   - [パネルクイズ アタック25](https://ja.wikipedia.org/wiki/パネルクイズ_アタック25 "wikilink")（[朝日放送制作](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")、[テレビ朝日系](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")）※
   - [土曜ワイド劇場](../Page/土曜ワイド劇場.md "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")系）※
   - [スーパーモーニング](../Page/スーパーモーニング.md "wikilink")（テレビ朝日系）
-  - [情報ライブ ミヤネ屋](https://ja.wikipedia.org/wiki/情報ライブ_ミヤネ屋 "wikilink")（[読売テレビ制作](../Page/讀賣テレビ放送.md "wikilink")、[日本テレビ系](../Page/日本テレビネットワーク協議会.md "wikilink")）※\[7\]
+  - [情報ライブ ミヤネ屋](../Page/情報ライブ_ミヤネ屋.md "wikilink")（[読売テレビ制作](../Page/讀賣テレビ放送.md "wikilink")、[日本テレビ系](../Page/日本テレビネットワーク協議会.md "wikilink")）※\[7\]
 
 ## その他
 
-  - 昭和30年代を舞台とした映画『[ALWAYS 三丁目の夕日](../Page/ALWAYS_三丁目の夕日.md "wikilink")』シリーズでは、劇中にて「茶川商店」\[8\]の向かいの荒物屋の店先にニッサン石鹸の[幟](https://ja.wikipedia.org/wiki/幟 "wikilink")が立っているのが確認できる。
-  - [2011年](../Page/2011年.md "wikilink")[6月](../Page/6月.md "wikilink")には、[三洋電機](../Page/三洋電機.md "wikilink")\[9\]の[充電式電池](https://ja.wikipedia.org/wiki/充電式電池 "wikilink")[eneloop](https://ja.wikipedia.org/wiki/eneloop "wikilink")のマスコットキャラクター「エネルーピー」とファーファによる[節電](../Page/節電.md "wikilink")をテーマにした[コラボレーション](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")企画が行われた\[10\]。また[11月14日](../Page/11月14日.md "wikilink")からは、ファーファとエネルーピー、[JR西日本の](https://ja.wikipedia.org/wiki/西日本旅客鉄道 "wikilink")[イコちゃんのコラボによる企画](../Page/カモノハシのイコちゃん.md "wikilink")「あったかさみっと」も行われている\[11\]。
+  - 昭和30年代を舞台とした映画『[ALWAYS 三丁目の夕日](../Page/ALWAYS_三丁目の夕日.md "wikilink")』シリーズでは、劇中にて「茶川商店」\[8\]の向かいの荒物屋の店先にニッサン石鹸の[幟](../Page/幟.md "wikilink")が立っているのが確認できる。
+  - [2011年](../Page/2011年.md "wikilink")[6月](../Page/6月.md "wikilink")には、[三洋電機](../Page/三洋電機.md "wikilink")\[9\]の[充電式電池](https://ja.wikipedia.org/wiki/充電式電池 "wikilink")[eneloop](https://ja.wikipedia.org/wiki/eneloop "wikilink")のマスコットキャラクター「エネルーピー」とファーファによる[節電](../Page/節電.md "wikilink")をテーマにした[コラボレーション](../Page/コラボレーション.md "wikilink")企画が行われた\[10\]。また[11月14日](../Page/11月14日.md "wikilink")からは、ファーファとエネルーピー、[JR西日本の](../Page/西日本旅客鉄道.md "wikilink")[イコちゃんのコラボによる企画](../Page/カモノハシのイコちゃん.md "wikilink")「あったかさみっと」も行われている\[11\]。
   - [2012年](../Page/2012年.md "wikilink")には、「ファーファトリップ」のキャンペーンとして[ソムリエ](../Page/ソムリエ.md "wikilink")「[田崎真也](../Page/田崎真也.md "wikilink")」を招いて、「**[ファーファ](../Page/ファーファ.md "wikilink")と[田崎真也](../Page/田崎真也.md "wikilink")と一緒に『ファーファトリップ』の香りを楽しむParty**」を開催している。また、同時に踊り手の「めろちん」や[ファーファ](../Page/ファーファ.md "wikilink")の[パロディ](../Page/パロディ.md "wikilink")動画を投稿していた「桃箱」と共に動画でのキャンペーンも行なっている。
 
 ## 脚注

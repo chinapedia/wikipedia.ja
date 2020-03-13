@@ -41,8 +41,8 @@
   - [2006年](../Page/2006年.md "wikilink")[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink")は、前番組（[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")）『[純情きらり](../Page/純情きらり.md "wikilink")』の放送順延に伴い、15分繰り下げて放送した。
   - [NHKワールドTV](../Page/NHKワールドTV.md "wikilink")では、2006年[10月7日](../Page/10月7日.md "wikilink")から英語放送強化による番組改編で9:10 - 9:40（[JST](../Page/日本標準時.md "wikilink")）の[時差放送に変更されたが](../Page/遅れネット.md "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月29日](../Page/3月29日.md "wikilink")を以って放送打ち切りとなった。
   - NHKワールド・プレミアムはその後も総合テレビと同時放送された。2008年10月からはNHKワールド・プレミアムの一部ノンスクランブル放送開始によりその対象番組に加えられた。
-  - [2010 FIFAワールドカップ期間中](https://ja.wikipedia.org/wiki/2010_FIFAワールドカップ "wikilink")（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[6月19日](../Page/6月19日.md "wikilink")、[26日](../Page/6月26日.md "wikilink")、[7月3日](../Page/7月3日.md "wikilink")及び[10日](../Page/7月10日.md "wikilink")）は、NHKワールド・プレミアムのみ10:05 - 10:35（JST）の時差放送となった。これは、放送権の都合によりワールドカップ関連の内容を流すことができないため、その部分をカットする編集作業を行う必要があったからである。『[J-MELO](https://ja.wikipedia.org/wiki/J-MELO "wikilink")』との時間枠交換であった。
-  - 当初2011年3月26日放送終了の予定だったが、3月11日に発生した[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")（[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")）に伴う[報道特別番組](https://ja.wikipedia.org/wiki/報道特別番組 "wikilink")と『週刊ニュース深読み』を繰り上げ放送したため3月5日が実質的な最終回となった。
+  - [2010 FIFAワールドカップ期間中](https://ja.wikipedia.org/wiki/2010_FIFAワールドカップ "wikilink")（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[6月19日](../Page/6月19日.md "wikilink")、[26日](../Page/6月26日.md "wikilink")、[7月3日](../Page/7月3日.md "wikilink")及び[10日](../Page/7月10日.md "wikilink")）は、NHKワールド・プレミアムのみ10:05 - 10:35（JST）の時差放送となった。これは、放送権の都合によりワールドカップ関連の内容を流すことができないため、その部分をカットする編集作業を行う必要があったからである。『[J-MELO](../Page/J-MELO.md "wikilink")』との時間枠交換であった。
+  - 当初2011年3月26日放送終了の予定だったが、3月11日に発生した[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")（[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")）に伴う[報道特別番組](../Page/報道特別番組.md "wikilink")と『週刊ニュース深読み』を繰り上げ放送したため3月5日が実質的な最終回となった。
 
 ## 出演者
 
@@ -51,20 +51,20 @@
 | 1999.4.3 | 2000.3.25 | [川端義明](../Page/川端義明.md "wikilink")                            |
 | 2000.4.1 | 2001.3.31 | [宮本愛子](https://ja.wikipedia.org/wiki/宮本愛子_\(NHK\) "wikilink") |
 | 2001.4.7 | 2003.3.29 | [住吉美紀](../Page/住吉美紀.md "wikilink")                            |
-| 2003.4.5 | 2003.5.31 | [村上由利子](https://ja.wikipedia.org/wiki/村上由利子 "wikilink")       |
+| 2003.4.5 | 2003.5.31 | [村上由利子](../Page/村上由利子.md "wikilink")                          |
 | 2003.6.7 | 2004.3.27 | [小見誠広](../Page/小見誠広.md "wikilink")\[3\]                       |
-| 2004.4.3 | 2005.3.26 | [伊藤博英](https://ja.wikipedia.org/wiki/伊藤博英 "wikilink")         |
+| 2004.4.3 | 2005.3.26 | [伊藤博英](../Page/伊藤博英.md "wikilink")                            |
 | 2005.4.2 | 2006.4.1  | [鹿島綾乃](../Page/鹿島綾乃.md "wikilink")                            |
-| 2006.4.8 | 2007.3.31 | [畠山智之](https://ja.wikipedia.org/wiki/畠山智之 "wikilink")         |
+| 2006.4.8 | 2007.3.31 | [畠山智之](../Page/畠山智之.md "wikilink")                            |
 | 2007.4.7 | 2009.3.28 | [南利幸](../Page/南利幸.md "wikilink")\[4\]                         |
 | 2009.4.4 | 2011.3.5  | [古野晶子](../Page/古野晶子.md "wikilink")                            |
 |          |           |                                                               |
 
 ## その他
 
-  - 2000年12月から2004年3月までは、[BSハイビジョンでも](../Page/NHKデジタル衛星ハイビジョン.md "wikilink")[サイマル放送](https://ja.wikipedia.org/wiki/サイマル放送 "wikilink")された。
+  - 2000年12月から2004年3月までは、[BSハイビジョンでも](../Page/NHKデジタル衛星ハイビジョン.md "wikilink")[サイマル放送](../Page/サイマル放送.md "wikilink")された。
   - NHKワールドTV、NHKワールド・プレミアムの海外向け国際放送では、毎年春と秋に発生する太陽雑音による受信障害の説明が発生時期前後に放送されるが、その受信障害のイメージ映像として、開始初年度の当番組の放送映像が、2007年秋の発生時期まで使われた。当然ながら日本国内向けの放送では流れないが、自然現象であるため予め断りを入れなければならない重要なお知らせである。受信障害のイメージ映像はその後、総合テレビの関東甲信越地方の気象情報の放送映像が使われ、はワールドTV、プレミアムとも『[NHK NEWSLINE](https://ja.wikipedia.org/wiki/NEWSLINE "wikilink")』の放送映像を使用する。
-  - 過去にもこの番組と同趣旨の企画として、日曜日（当初夜22時→その後午前中）に『ニュースウィークリー』という番組を放送したことがあった\[5\]。こちらは司会者はアナウンサー1名だけ（過去に[加賀美幸子](../Page/加賀美幸子.md "wikilink")、[名取将](https://ja.wikipedia.org/wiki/名取将 "wikilink")ら）で、その週の注目すべきニュースを映像とナレーションで振り返るシンプルなものであった。
+  - 過去にもこの番組と同趣旨の企画として、日曜日（当初夜22時→その後午前中）に『ニュースウィークリー』という番組を放送したことがあった\[5\]。こちらは司会者はアナウンサー1名だけ（過去に[加賀美幸子](../Page/加賀美幸子.md "wikilink")、[名取将](../Page/名取将.md "wikilink")ら）で、その週の注目すべきニュースを映像とナレーションで振り返るシンプルなものであった。
   - [NTSC](../Page/NTSC.md "wikilink")（日本国内向けアナログ放送、NHKワールド・プレミアム）では、開始以来長らく他の[NHKニュース](../Page/NHKニュース.md "wikilink")各番組と同様、16:9画像をサイドカットし4:3アップコンバートして放送した。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[7月10日](../Page/7月10日.md "wikilink")の放送からはアナログ放送、NHKワールド・プレミアムとも[16:9レターボックス化された](../Page/レターボックス_\(映像技術\).md "wikilink")。
 
 ## 脚注

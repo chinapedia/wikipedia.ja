@@ -1,7 +1,7 @@
 > この記事は[EPO](https://ja.wikipedia.org/wiki/EPO)から翻訳されています。
 
 
-**EPO**（エポ、本名：**宮川 榮子**（みやがわ えいこ）、旧名および出生名：**佐藤 永子**、[1960年](../Page/1960年.md "wikilink")[5月12日](../Page/5月12日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")、[セラピスト](../Page/心理療法.md "wikilink")。[東京都](../Page/東京都.md "wikilink")出身。代表曲として「[う、ふ、ふ、ふ、](https://ja.wikipedia.org/wiki/う、ふ、ふ、ふ、 "wikilink")」があり、提供曲としては[高見知佳](https://ja.wikipedia.org/wiki/高見知佳 "wikilink")「[くちびるヌード](https://ja.wikipedia.org/wiki/くちびるヌード "wikilink")」、[香坂みゆき](https://ja.wikipedia.org/wiki/香坂みゆき "wikilink")「[ニュアンスしましょ](https://ja.wikipedia.org/wiki/ニュアンスしましょ "wikilink")」が知られている。デビュー当時から昭和歌謡とも洋楽とも言い切れない音楽性で活動しており、[J-POP](../Page/J-POP.md "wikilink")黎明期\[1\]を創った1人であると見做されている。
+**EPO**（エポ、本名：**宮川 榮子**（みやがわ えいこ）、旧名および出生名：**佐藤 永子**、[1960年](../Page/1960年.md "wikilink")[5月12日](../Page/5月12日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")、[セラピスト](../Page/心理療法.md "wikilink")。[東京都](../Page/東京都.md "wikilink")出身。代表曲として「[う、ふ、ふ、ふ、](https://ja.wikipedia.org/wiki/う、ふ、ふ、ふ、 "wikilink")」があり、提供曲としては[高見知佳](../Page/高見知佳.md "wikilink")「[くちびるヌード](https://ja.wikipedia.org/wiki/くちびるヌード "wikilink")」、[香坂みゆき](../Page/香坂みゆき.md "wikilink")「[ニュアンスしましょ](https://ja.wikipedia.org/wiki/ニュアンスしましょ "wikilink")」が知られている。デビュー当時から昭和歌謡とも洋楽とも言い切れない音楽性で活動しており、[J-POP](../Page/J-POP.md "wikilink")黎明期\[1\]を創った1人であると見做されている。
 
 ## 来歴
 
@@ -15,15 +15,15 @@
 
   - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")
 
-[東京都立松原高等学校](../Page/東京都立松原高等学校.md "wikilink")卒業。音楽関係者として、高校の先輩に[清水信之](../Page/清水信之.md "wikilink")、後輩に[佐橋佳幸](../Page/佐橋佳幸.md "wikilink")と[渡辺美里](../Page/渡辺美里.md "wikilink")がいる。この高校生時代、『Laugh』というバンドを組んでピアノとコーラスを担当、Laughは出場した[ニッポン放送](../Page/ニッポン放送.md "wikilink")のコンテスト番組『[ライオン](../Page/ライオン_\(企業\).md "wikilink") フォーク・ビレッジ』で優勝し、これをきっかけに多くの音楽業界関係者に会い、そのうちに私もこの世界で仕事をしたいと思うようになる\[3\]。高校卒業時には東京女子体育大学への[推薦入学](https://ja.wikipedia.org/wiki/推薦入学 "wikilink")が既に決まっており、そのまま順当に行っていれば[体育](../Page/体育.md "wikilink")の先生になっていたはずという\[4\]。
+[東京都立松原高等学校](../Page/東京都立松原高等学校.md "wikilink")卒業。音楽関係者として、高校の先輩に[清水信之](../Page/清水信之.md "wikilink")、後輩に[佐橋佳幸](../Page/佐橋佳幸.md "wikilink")と[渡辺美里](../Page/渡辺美里.md "wikilink")がいる。この高校生時代、『Laugh』というバンドを組んでピアノとコーラスを担当、Laughは出場した[ニッポン放送](../Page/ニッポン放送.md "wikilink")のコンテスト番組『[ライオン](../Page/ライオン_\(企業\).md "wikilink") フォーク・ビレッジ』で優勝し、これをきっかけに多くの音楽業界関係者に会い、そのうちに私もこの世界で仕事をしたいと思うようになる\[3\]。高校卒業時には東京女子体育大学への[推薦入学](../Page/推薦入学.md "wikilink")が既に決まっており、そのまま順当に行っていれば[体育](../Page/体育.md "wikilink")の先生になっていたはずという\[4\]。
 
   - [1979年](../Page/1979年.md "wikilink")
 
-[東京女子体育大学](https://ja.wikipedia.org/wiki/東京女子体育大学 "wikilink")入学。当時は方向性がまだ決まっていなかったということから、昼は大学、夜はスタジオでのアルバイトという生活を3年ほど続けていた\[5\]。大学在学中からセッション[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")として活躍。その頃に[竹内まりや](https://ja.wikipedia.org/wiki/竹内まりや "wikilink")の[シングル](../Page/シングル.md "wikilink")「[SEPTEMBER](https://ja.wikipedia.org/wiki/SEPTEMBER_\(竹内まりやの曲\) "wikilink")」の[コーラス](https://ja.wikipedia.org/wiki/コーラス "wikilink")&コーラス[アレンジを担当し](../Page/編曲.md "wikilink")、[大滝詠一](https://ja.wikipedia.org/wiki/大滝詠一 "wikilink")作曲の[サントリー](../Page/サントリー.md "wikilink")レモンの[コマーシャルソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")として作られた「大きいのが好き」のボーカルを担当。同曲のコーラスは[シャネルズ](https://ja.wikipedia.org/wiki/シャネルズ "wikilink")（後のラッツ&スター）で、後に『[NIAGARA CM SPECIAL](https://ja.wikipedia.org/wiki/NIAGARA_CM_SPECIAL "wikilink")』に収録された後、「大瀧詠一 Song Book 1 大瀧詠一 作品集 Vol.1」にEPO WITH シャネルズのアーティスト名で収録される。なお、コマーシャルソングは未使用だった。
+[東京女子体育大学](../Page/東京女子体育大学.md "wikilink")入学。当時は方向性がまだ決まっていなかったということから、昼は大学、夜はスタジオでのアルバイトという生活を3年ほど続けていた\[5\]。大学在学中からセッション[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")として活躍。その頃に[竹内まりや](https://ja.wikipedia.org/wiki/竹内まりや "wikilink")の[シングル](../Page/シングル.md "wikilink")「[SEPTEMBER](https://ja.wikipedia.org/wiki/SEPTEMBER_\(竹内まりやの曲\) "wikilink")」の[コーラス](https://ja.wikipedia.org/wiki/コーラス "wikilink")&コーラス[アレンジを担当し](../Page/編曲.md "wikilink")、[大滝詠一](https://ja.wikipedia.org/wiki/大滝詠一 "wikilink")作曲の[サントリー](../Page/サントリー.md "wikilink")レモンの[コマーシャルソング](../Page/コマーシャルソング.md "wikilink")として作られた「大きいのが好き」のボーカルを担当。同曲のコーラスは[シャネルズ](https://ja.wikipedia.org/wiki/シャネルズ "wikilink")（後のラッツ&スター）で、後に『[NIAGARA CM SPECIAL](https://ja.wikipedia.org/wiki/NIAGARA_CM_SPECIAL "wikilink")』に収録された後、「大瀧詠一 Song Book 1 大瀧詠一 作品集 Vol.1」にEPO WITH シャネルズのアーティスト名で収録される。なお、コマーシャルソングは未使用だった。
 
   - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")
 
-3月21日、[シュガー・ベイブ](../Page/シュガー・ベイブ.md "wikilink")のカバー曲『DOWN TOWN』（作詞：[伊藤銀次](../Page/伊藤銀次.md "wikilink")、作曲：[山下達郎](../Page/山下達郎.md "wikilink")、編曲：[林哲司](../Page/林哲司.md "wikilink")・[清水信之](../Page/清水信之.md "wikilink")）でデビュー。EPO自身がシュガー・ベイブのファンだったことから、当時同じレコード会社所属だった山下達郎に直接依頼してカバーが実現した\[6\]。[1980年代](../Page/1980年代.md "wikilink")半ば頃には「RCA三人娘」の一角として、竹内まりや、[大貫妙子](../Page/大貫妙子.md "wikilink")と並び称された。竹内の独身最後のアルバム「portrait」にもバックグラウンドボイスとして参加している。デビュー以来現在まで、オリジナル作品だけでなく[テレビコマーシャル](https://ja.wikipedia.org/wiki/テレビコマーシャル "wikilink")や番組の主題歌なども提供し、多くのヒット曲がある。過去には雑誌のグラビアに水着で登場した経験もあったり\[7\]、体育大学に在籍したこともあって[レコード会社](https://ja.wikipedia.org/wiki/レコード会社 "wikilink")対抗運動会で当時の所属レコード会社、[RVC代表として活躍したこともあった](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。当時の自分について「私も[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")の枠組に入れられていたみたい」と話していたことがある\[8\]。
+3月21日、[シュガー・ベイブ](../Page/シュガー・ベイブ.md "wikilink")のカバー曲『DOWN TOWN』（作詞：[伊藤銀次](../Page/伊藤銀次.md "wikilink")、作曲：[山下達郎](../Page/山下達郎.md "wikilink")、編曲：[林哲司](../Page/林哲司.md "wikilink")・[清水信之](../Page/清水信之.md "wikilink")）でデビュー。EPO自身がシュガー・ベイブのファンだったことから、当時同じレコード会社所属だった山下達郎に直接依頼してカバーが実現した\[6\]。[1980年代](../Page/1980年代.md "wikilink")半ば頃には「RCA三人娘」の一角として、竹内まりや、[大貫妙子](../Page/大貫妙子.md "wikilink")と並び称された。竹内の独身最後のアルバム「portrait」にもバックグラウンドボイスとして参加している。デビュー以来現在まで、オリジナル作品だけでなく[テレビコマーシャル](https://ja.wikipedia.org/wiki/テレビコマーシャル "wikilink")や番組の主題歌なども提供し、多くのヒット曲がある。過去には雑誌のグラビアに水着で登場した経験もあったり\[7\]、体育大学に在籍したこともあって[レコード会社](../Page/レコード会社.md "wikilink")対抗運動会で当時の所属レコード会社、[RVC代表として活躍したこともあった](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。当時の自分について「私も[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")の枠組に入れられていたみたい」と話していたことがある\[8\]。
 
 [フジテレビ系の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[オレたちひょうきん族](../Page/オレたちひょうきん族.md "wikilink")』のエンディングテーマにデビューシングル『DOWN TOWN』が採り上げられた縁から、同番組の[タケちゃんマン](https://ja.wikipedia.org/wiki/タケちゃんマン "wikilink")のテーマ曲「THE TAKECHANマン（タケちゃんマンの歌）」の作曲（**佐藤エポ子**名義）と番組の[アイキャッチ](https://ja.wikipedia.org/wiki/アイキャッチ "wikilink")を手掛けた。番組に出演したこともあったが、当時はこの番組に出演することが精神的にも苦痛だったことを後に明かしている。そのため、同番組の「ひょうきんベストテン」では笑顔ではなく淡々と歌っていた。
 
@@ -41,15 +41,15 @@
 
   - [1984年](../Page/1984年.md "wikilink")
 
-2月には、[高見知佳](https://ja.wikipedia.org/wiki/高見知佳 "wikilink")に提供した「[くちびるヌード](https://ja.wikipedia.org/wiki/くちびるヌード "wikilink")」も、資生堂春のコマーシャルソングに使用される。後にEPOもアルバムで「くちびるヌード・咲かせます」として[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")した。ほか同年8月にも、[香坂みゆき](https://ja.wikipedia.org/wiki/香坂みゆき "wikilink")に作曲として提供した（作詞は大貫妙子）「[ニュアンスしましょ](https://ja.wikipedia.org/wiki/ニュアンスしましょ "wikilink")」が、資生堂秋のCMソングに採用された。
+2月には、[高見知佳](../Page/高見知佳.md "wikilink")に提供した「[くちびるヌード](https://ja.wikipedia.org/wiki/くちびるヌード "wikilink")」も、資生堂春のコマーシャルソングに使用される。後にEPOもアルバムで「くちびるヌード・咲かせます」として[セルフカバー](../Page/セルフカバー.md "wikilink")した。ほか同年8月にも、[香坂みゆき](../Page/香坂みゆき.md "wikilink")に作曲として提供した（作詞は大貫妙子）「[ニュアンスしましょ](https://ja.wikipedia.org/wiki/ニュアンスしましょ "wikilink")」が、資生堂秋のCMソングに採用された。
 
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")
 
-8月、[NHKの](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")『[みんなのうた](https://ja.wikipedia.org/wiki/みんなのうた "wikilink")』で、「[バナナ村に雨が降る](https://ja.wikipedia.org/wiki/バナナ村に雨が降る "wikilink")」の歌唱が翌月にかけて放映される。作詞は[銀色夏生](../Page/銀色夏生.md "wikilink")、作・編曲は[乾裕樹](../Page/乾裕樹.md "wikilink")からの提供曲であった。また、[1993年](../Page/1993年.md "wikilink")には、同番組で自作曲の「[琥珀の魔法](https://ja.wikipedia.org/wiki/琥珀の魔法 "wikilink")」を歌唱している。
+8月、[NHKの](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[音楽番組](../Page/音楽番組.md "wikilink")『[みんなのうた](../Page/みんなのうた.md "wikilink")』で、「[バナナ村に雨が降る](https://ja.wikipedia.org/wiki/バナナ村に雨が降る "wikilink")」の歌唱が翌月にかけて放映される。作詞は[銀色夏生](../Page/銀色夏生.md "wikilink")、作・編曲は[乾裕樹](../Page/乾裕樹.md "wikilink")からの提供曲であった。また、[1993年](../Page/1993年.md "wikilink")には、同番組で自作曲の「[琥珀の魔法](https://ja.wikipedia.org/wiki/琥珀の魔法 "wikilink")」を歌唱している。
 
   - [1990年代](../Page/1990年代.md "wikilink")
 
-一時[ヴァージン・レコード](https://ja.wikipedia.org/wiki/ヴァージン・レコード "wikilink")と契約して[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")に住み、アルバム『FIRE & SNOW』、シングル2作品をリリースし、その後帰国。[ショーロ・クラブと出会い](../Page/Choro_Club.md "wikilink")、彼らの持つ[ブラジル音楽](../Page/ブラジル音楽.md "wikilink")のエッセンスも吸収するとともに、[コマーシャリズムと距離を置いた](https://ja.wikipedia.org/wiki/商業主義 "wikilink")、よりオリジナリティにあふれた作品を送り出している。
+一時[ヴァージン・レコード](../Page/ヴァージン・レコード.md "wikilink")と契約して[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")に住み、アルバム『FIRE & SNOW』、シングル2作品をリリースし、その後帰国。[ショーロ・クラブと出会い](../Page/Choro_Club.md "wikilink")、彼らの持つ[ブラジル音楽](../Page/ブラジル音楽.md "wikilink")のエッセンスも吸収するとともに、[コマーシャリズムと距離を置いた](https://ja.wikipedia.org/wiki/商業主義 "wikilink")、よりオリジナリティにあふれた作品を送り出している。
 
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")
 
@@ -70,7 +70,7 @@
 ## 人物
 
   - 3歳で[ピアノ](../Page/ピアノ.md "wikilink")を習い始める。[クラシック音楽](../Page/クラシック音楽.md "wikilink")や、[CMソング](https://ja.wikipedia.org/wiki/CMソング "wikilink")などテレビから流れる音楽を聴いて育った\[11\]。その後[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")は[カーペンターズ](https://ja.wikipedia.org/wiki/カーペンターズ "wikilink")、[ザ・ビーチ・ボーイズ](../Page/ザ・ビーチ・ボーイズ.md "wikilink")に傾倒。[A\&Mレコード](../Page/A&Mレコード.md "wikilink")系のアーティストの音楽を「きれいなメロディ」として「このような音楽を作る作家が好き」と話していたことがある\[12\]。
-  - シンガーソングライターに憧れるようになったきっかけとなった歌手として、[小坂明子](https://ja.wikipedia.org/wiki/小坂明子 "wikilink")や[やまがたすみこ](https://ja.wikipedia.org/wiki/やまがたすみこ "wikilink")を挙げている\[13\]。
+  - シンガーソングライターに憧れるようになったきっかけとなった歌手として、[小坂明子](../Page/小坂明子.md "wikilink")や[やまがたすみこ](../Page/やまがたすみこ.md "wikilink")を挙げている\[13\]。
   - [芸名](../Page/芸名.md "wikilink")の**EPO**は、子供時代のあだ名\[14\]に由来する。
   - [1990年代](../Page/1990年代.md "wikilink")以降、[セラピストの資格を持つ](../Page/心理療法.md "wikilink")。音楽をベースにした、障害者・老人・子供向けの[ワークショップ](../Page/ワークショップ.md "wikilink")の開催や心理カウンセリングを行うなど、音楽の世界にとどまらない多様な活動を積極的に行っている。
   - 現在、[沖縄県](../Page/沖縄県.md "wikilink")[宜野湾市](../Page/宜野湾市.md "wikilink")に居住している。
@@ -119,7 +119,7 @@
 | 36 | [1999年](../Page/1999年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink")                      | [Memories](https://ja.wikipedia.org/wiki/Memories_\(EPOの曲\) "wikilink")／幸せ者勝ち                                   |
 | 37 | 1999年[12月1日](../Page/12月1日.md "wikilink")                                                     | [12月のエイプリル・フール](https://ja.wikipedia.org/wiki/12月のエイプリル・フール "wikilink")／Desperado／Wedding Card                  |
 | 38 | [2002年](../Page/2002年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")                      | [さとうきび畑](../Page/さとうきび畑.md "wikilink")／音楽のような風                                                                  |
-| 39 | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[1月19日](../Page/1月19日.md "wikilink")   | [楽しいこと考えよう](https://ja.wikipedia.org/wiki/楽しいこと考えよう "wikilink")／Friends／(Instrumental Version)                  |
+| 39 | [2005年](../Page/2005年.md "wikilink")[1月19日](../Page/1月19日.md "wikilink")                      | [楽しいこと考えよう](https://ja.wikipedia.org/wiki/楽しいこと考えよう "wikilink")／Friends／(Instrumental Version)                  |
 | 40 | [2006年](../Page/2006年.md "wikilink")[7月22日](../Page/7月22日.md "wikilink")                      | [we can](https://ja.wikipedia.org/wiki/we_can "wikilink")／(Instrumental Version)                                |
 | 41 | [2007年](../Page/2007年.md "wikilink")[8月24日](../Page/8月24日.md "wikilink")                      | [風と海と空と](https://ja.wikipedia.org/wiki/風と海と空と "wikilink")／(Instrumental Version)                                |
 | 42 | [2012年](../Page/2012年.md "wikilink")[4月18日](../Page/4月18日.md "wikilink")                      | [スマイル プレイヤーズ](https://ja.wikipedia.org/wiki/スマイル_プレイヤーズ "wikilink")                                             |
@@ -161,22 +161,22 @@
 
 ### その他のアルバム
 
-|      | 発売日                                                                                                            | タイトル                                                                                                                                  |
-| ---- | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| RCA  | [1984年](../Page/1984年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")                                       | [THE BEST STATION JOEPO 1980-1984](https://ja.wikipedia.org/wiki/THE_BEST_STATION_JOEPO_1980-1984 "wikilink")（含未発表曲）                  |
-| MIDI | [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[12月5日](../Page/12月5日.md "wikilink")                    | [The very best of EPO](https://ja.wikipedia.org/wiki/The_very_best_of_EPO "wikilink")                                                 |
-| MIDI | [1989年](../Page/1989年.md "wikilink")[12月10日](../Page/12月10日.md "wikilink")                                     | [THE BALLADS](https://ja.wikipedia.org/wiki/THE_BALLADS "wikilink")（含新録曲）                                                             |
-| MIDI | [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[11月21日](../Page/11月21日.md "wikilink")                  | [CM TRACKS](https://ja.wikipedia.org/wiki/CM_TRACKS "wikilink")（含アルバム未収録曲・未発表曲）                                                       |
-| MIDI | [1991年](../Page/1991年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink")                                       | [SINGLE TRACKS](https://ja.wikipedia.org/wiki/SINGLE_TRACKS "wikilink")（含アルバム未収録曲）                                                    |
-| MIDI | [1992年](../Page/1992年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")                                     | [THE BEST 1980-1990](https://ja.wikipedia.org/wiki/THE_BEST_1980-1990 "wikilink")                                                     |
-| EMI  | [1994年](../Page/1994年.md "wikilink")[12月7日](../Page/12月7日.md "wikilink")                                       | [KAWI 〜唄の谷〜](https://ja.wikipedia.org/wiki/KAWI_〜唄の谷〜 "wikilink")                                                                     |
-| BMG  | [1999年](../Page/1999年.md "wikilink")[6月23日](../Page/6月23日.md "wikilink")                                       | [epocha 1980-1986](https://ja.wikipedia.org/wiki/epocha_1980-1986 "wikilink")（含未発表曲）                                                  |
-| MIDI | [1999年](../Page/1999年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")                                       | [TRAVESSIA EPO'S BEST 1980-1999](https://ja.wikipedia.org/wiki/TRAVESSIA_EPO'S_BEST_1980-1999 "wikilink")                             |
-| BMG  | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink") | [ゴールデン☆ベスト EPO](https://ja.wikipedia.org/wiki/ゴールデン☆ベスト_EPO "wikilink")                                                               |
-| EMI  | [2011年](../Page/2011年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")                    | [ゴールデン☆ベスト EPO](https://ja.wikipedia.org/wiki/ゴールデン☆ベスト_EPO "wikilink")                                                               |
-| SONY | [2011年](../Page/2011年.md "wikilink")[12月7日](../Page/12月7日.md "wikilink")                                       | [GOLDEN☆BEST The Best 80's Director's Edition](https://ja.wikipedia.org/wiki/GOLDEN☆BEST_The_Best_80's_Director's_Edition "wikilink") |
+|      | 発売日                                                                                           | タイトル                                                                                                                                  |
+| ---- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| RCA  | [1984年](../Page/1984年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")                      | [THE BEST STATION JOEPO 1980-1984](https://ja.wikipedia.org/wiki/THE_BEST_STATION_JOEPO_1980-1984 "wikilink")（含未発表曲）                  |
+| MIDI | [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[12月5日](../Page/12月5日.md "wikilink")   | [The very best of EPO](https://ja.wikipedia.org/wiki/The_very_best_of_EPO "wikilink")                                                 |
+| MIDI | [1989年](../Page/1989年.md "wikilink")[12月10日](../Page/12月10日.md "wikilink")                    | [THE BALLADS](https://ja.wikipedia.org/wiki/THE_BALLADS "wikilink")（含新録曲）                                                             |
+| MIDI | [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[11月21日](../Page/11月21日.md "wikilink") | [CM TRACKS](https://ja.wikipedia.org/wiki/CM_TRACKS "wikilink")（含アルバム未収録曲・未発表曲）                                                       |
+| MIDI | [1991年](../Page/1991年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink")                      | [SINGLE TRACKS](https://ja.wikipedia.org/wiki/SINGLE_TRACKS "wikilink")（含アルバム未収録曲）                                                    |
+| MIDI | [1992年](../Page/1992年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")                    | [THE BEST 1980-1990](https://ja.wikipedia.org/wiki/THE_BEST_1980-1990 "wikilink")                                                     |
+| EMI  | [1994年](../Page/1994年.md "wikilink")[12月7日](../Page/12月7日.md "wikilink")                      | [KAWI 〜唄の谷〜](https://ja.wikipedia.org/wiki/KAWI_〜唄の谷〜 "wikilink")                                                                     |
+| BMG  | [1999年](../Page/1999年.md "wikilink")[6月23日](../Page/6月23日.md "wikilink")                      | [epocha 1980-1986](https://ja.wikipedia.org/wiki/epocha_1980-1986 "wikilink")（含未発表曲）                                                  |
+| MIDI | [1999年](../Page/1999年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")                      | [TRAVESSIA EPO'S BEST 1980-1999](https://ja.wikipedia.org/wiki/TRAVESSIA_EPO'S_BEST_1980-1999 "wikilink")                             |
+| BMG  | [2005年](../Page/2005年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")   | [ゴールデン☆ベスト EPO](https://ja.wikipedia.org/wiki/ゴールデン☆ベスト_EPO "wikilink")                                                               |
+| EMI  | [2011年](../Page/2011年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")   | [ゴールデン☆ベスト EPO](https://ja.wikipedia.org/wiki/ゴールデン☆ベスト_EPO "wikilink")                                                               |
+| SONY | [2011年](../Page/2011年.md "wikilink")[12月7日](../Page/12月7日.md "wikilink")                      | [GOLDEN☆BEST The Best 80's Director's Edition](https://ja.wikipedia.org/wiki/GOLDEN☆BEST_The_Best_80's_Director's_Edition "wikilink") |
 
-### [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink") [みんなのうた](https://ja.wikipedia.org/wiki/みんなのうた "wikilink")
+### [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink") [みんなのうた](../Page/みんなのうた.md "wikilink")
 
 |   | 放送日                                                                                                                      | タイトル                                                            |
 | - | ------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------- |
@@ -200,9 +200,9 @@
   - 『涙のクラウン』（フジテレビ「オレたちひょうきん族」エンディング）
   - 『音楽のような風』　（1985.08.05）　（[日本ビクター](../Page/日本ビクター.md "wikilink")ビデオテープDYNAREC CMソング）CMに本人も出演
   - 『渚のモニュメント』　（1986.03.21）　（'86 ビクタービデオテープ CMソング ）
-  - 『ステキなジェニー』　（[タカラ](../Page/タカラ_\(玩具メーカー\).md "wikilink")・[ジェニー](https://ja.wikipedia.org/wiki/ジェニー "wikilink")・イメージソング）
+  - 『ステキなジェニー』　（[タカラ](../Page/タカラ_\(玩具メーカー\).md "wikilink")・[ジェニー](../Page/ジェニー.md "wikilink")・イメージソング）
   - 『太陽にPUMP\! PUMP\!』　（1986.06.21）　（[日本コカ・コーラ](../Page/日本コカ・コーラ.md "wikilink")コカ・コーラ・キャンペーンソング）
-  - 『Middle Twenties』　（[日産自動車ラングレー](https://ja.wikipedia.org/wiki/日産・ラングレー "wikilink")・イメージソング）
+  - 『Middle Twenties』　（[日産自動車ラングレー](../Page/日産・ラングレー.md "wikilink")・イメージソング）
   - 『恋のアンビバレンツ』　（[JT日本たばこ](https://ja.wikipedia.org/wiki/日本たばこ産業 "wikilink") 企業CFソング）
   - 『TRY TO CALL』　（KDD（現[KDDI](../Page/KDDI.md "wikilink")） キャンペーンソング）
   - 『夢見ちゃいなタウン』　（1987.09.24）　（[伊勢丹](../Page/伊勢丹.md "wikilink") シンデレラシティ'87秋のキャンペーンソング）
@@ -213,9 +213,9 @@
   - 「人間なんて」（1990）（とらばーゆ'90イメージソング）
   - 『百年の孤独』　（1992.05.20）　（日本テレビ「[ワンダーゾーン](../Page/ワンダーゾーン.md "wikilink")」エンディングテーマ）
   - 『ある朝、風に吹かれて』　（1992.11.11） （フジテレビ系ドラマ、木曜劇場「[わがままな女たち](https://ja.wikipedia.org/wiki/わがままな女たち "wikilink")」の主題歌）
-  - 『きっと -光のありか-』　（1993.10.20）　（[TBC](https://ja.wikipedia.org/wiki/TBCグループ "wikilink") CM ソング）
+  - 『きっと -光のありか-』　（1993.10.20）　（[TBC](../Page/TBCグループ.md "wikilink") CM ソング）
   - 『遠い窓 近い窓』　（朝日新聞 CM ソング）
-  - 『星の舟歌』　（1995.09.06）　（[和歌山県](../Page/和歌山県.md "wikilink")[美里町](https://ja.wikipedia.org/wiki/美里町_\(和歌山県\) "wikilink")（現・[紀美野町](../Page/紀美野町.md "wikilink")）が舞台）
+  - 『星の舟歌』　（1995.09.06）　（[和歌山県](../Page/和歌山県.md "wikilink")[美里町](../Page/美里町_\(和歌山県\).md "wikilink")（現・[紀美野町](../Page/紀美野町.md "wikilink")）が舞台）
   - 『希望のバスに乗って』　（1996.07.19）　（[さくらんぼテレビジョン](../Page/さくらんぼテレビジョン.md "wikilink")　オープニング使用曲）
   - 「冬は新潟」（ゆきふるさと）（1996）（JR東日本）作・編曲：井上鑑
   - 「台紙」（1997）（P\&Gアリエール）作・編曲：EPO
@@ -234,10 +234,10 @@
   - 『[セクシー・バス・ストップ](https://ja.wikipedia.org/wiki/セクシー・バス・ストップ "wikilink")』（[浅野ゆう子](../Page/浅野ゆう子.md "wikilink")のカバー）
   - 『[横顔](https://ja.wikipedia.org/wiki/ミニヨン_\(大貫妙子のアルバム\) "wikilink")』（[大貫妙子](../Page/大貫妙子.md "wikilink")のカバー）
   - 『[12月の雨](../Page/12月の雨.md "wikilink")』（[荒井由実のカバー](../Page/松任谷由実.md "wikilink")）
-  - 『[Tibetan Dance](https://ja.wikipedia.org/wiki/音楽図鑑 "wikilink")』（[坂本龍一](../Page/坂本龍一.md "wikilink")のカバー。作詞は本人）
+  - 『[Tibetan Dance](../Page/音楽図鑑.md "wikilink")』（[坂本龍一](../Page/坂本龍一.md "wikilink")のカバー。作詞は本人）
   - 『[いとしのエリー](../Page/いとしのエリー.md "wikilink")』　（1987.12）　（[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")のカバー）
   - 『[LOVIN' YOU](https://ja.wikipedia.org/wiki/:en:Lovin'_You "wikilink")』（[ミニー・リパートン](../Page/ミニー・リパートン.md "wikilink")のカバー）
-  - 『[さとうきび畑](../Page/さとうきび畑.md "wikilink")』（[ちあきなおみ](https://ja.wikipedia.org/wiki/ちあきなおみ "wikilink")、[森山良子](../Page/森山良子.md "wikilink")のカバー。作詞・作曲：[寺島尚彦](../Page/寺島尚彦.md "wikilink")）
+  - 『[さとうきび畑](../Page/さとうきび畑.md "wikilink")』（[ちあきなおみ](../Page/ちあきなおみ.md "wikilink")、[森山良子](../Page/森山良子.md "wikilink")のカバー。作詞・作曲：[寺島尚彦](../Page/寺島尚彦.md "wikilink")）
   - 『[蘇州夜曲](https://ja.wikipedia.org/wiki/蘇州夜曲 "wikilink")』（作詞：[西條八十](../Page/西條八十.md "wikilink") 、作曲：[服部良一](../Page/服部良一.md "wikilink") ）
   - 『[竹田の子守唄](../Page/竹田の子守唄.md "wikilink")』（[京都府](../Page/京都府.md "wikilink")[京都市](../Page/京都市.md "wikilink")[伏見区](../Page/伏見区.md "wikilink")竹田の伝承[民謡](../Page/民謡.md "wikilink")）
   - 『[Bye-bye Baby](../Page/バイ・バイ・ベイビー.md "wikilink")』（[ベイ・シティ・ローラーズ](../Page/ベイ・シティ・ローラーズ.md "wikilink")のカバー）
@@ -271,7 +271,7 @@
       - 魔法の杖
   - [中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")
       - [マグネティック・ラヴ](../Page/D404ME.md "wikilink")
-  - [服部克久](https://ja.wikipedia.org/wiki/服部克久 "wikilink")
+  - [服部克久](../Page/服部克久.md "wikilink")
       - そして唄は行く
   - [林哲司](../Page/林哲司.md "wikilink")
       - SHADOW TALK
@@ -287,7 +287,7 @@
 
   - [上田浩恵](../Page/上田浩恵.md "wikilink")
       - [JEWELRY](https://ja.wikipedia.org/wiki/blew "wikilink")
-  - [香坂みゆき](https://ja.wikipedia.org/wiki/香坂みゆき "wikilink")
+  - [香坂みゆき](../Page/香坂みゆき.md "wikilink")
       - [ニュアンスしましょ](https://ja.wikipedia.org/wiki/ニュアンスしましょ "wikilink")
   - [鈴木聖美](../Page/鈴木聖美.md "wikilink")
       - HALF MOON
@@ -314,7 +314,7 @@
   - [キララとウララ](../Page/キララとウララ.md "wikilink")
       - 恋のアドリヴ
       - 夢不思議いかが
-  - [工藤夕貴](https://ja.wikipedia.org/wiki/工藤夕貴 "wikilink")
+  - [工藤夕貴](../Page/工藤夕貴.md "wikilink")
       - TOUCH ME SUMMER
   - [小泉今日子](https://ja.wikipedia.org/wiki/小泉今日子 "wikilink")
       - [美しきグロテスク](https://ja.wikipedia.org/wiki/Liar_\(アルバム\) "wikilink")
@@ -326,11 +326,11 @@
       - いつから泣けなくなったんだろう
   - [サンディ・ラム](https://ja.wikipedia.org/wiki/林憶蓮 "wikilink")
       - I'll Never Forget You
-  - [島田奈美](https://ja.wikipedia.org/wiki/島田奈央子 "wikilink")
+  - [島田奈美](../Page/島田奈央子.md "wikilink")
       - 内気なキューピッド
-  - [鈴木蘭々](https://ja.wikipedia.org/wiki/鈴木蘭々 "wikilink")
+  - [鈴木蘭々](../Page/鈴木蘭々.md "wikilink")
       - キミとボク
-  - [高見知佳](https://ja.wikipedia.org/wiki/高見知佳 "wikilink")
+  - [高見知佳](../Page/高見知佳.md "wikilink")
       - [くちびるヌード](https://ja.wikipedia.org/wiki/くちびるヌード "wikilink")
       - あてのない待ちぼうけ
       - 上海エトランゼ
@@ -347,17 +347,17 @@
   - 中森明菜
       - [ロンリージャーニー](../Page/ミ・アモーレ.md "wikilink")
       - [ロマンティックな夜だわ](../Page/BITTER_AND_SWEET_\(中森明菜のアルバム\).md "wikilink")
-  - [中山美穂](https://ja.wikipedia.org/wiki/中山美穂 "wikilink")
+  - [中山美穂](../Page/中山美穂.md "wikilink")
       - [悲しみのライダー](https://ja.wikipedia.org/wiki/ONE_AND_ONLY_\(アルバム\) "wikilink")
-  - [ハイ・ファイ・セット](https://ja.wikipedia.org/wiki/ハイ・ファイ・セット "wikilink")
+  - [ハイ・ファイ・セット](../Page/ハイ・ファイ・セット.md "wikilink")
       - ななつちがい
   - [堀江美都子](../Page/堀江美都子.md "wikilink")
       - 風のそらみみ
-  - [牧野由依](https://ja.wikipedia.org/wiki/牧野由依 "wikilink")
+  - [牧野由依](../Page/牧野由依.md "wikilink")
       - [お願いジュンブライト](https://ja.wikipedia.org/wiki/お願いジュンブライト "wikilink")
-  - [松本典子](https://ja.wikipedia.org/wiki/松本典子 "wikilink")
+  - [松本典子](../Page/松本典子.md "wikilink")
       - 春色のエアメール
-  - [三田寛子](https://ja.wikipedia.org/wiki/三田寛子 "wikilink")
+  - [三田寛子](../Page/三田寛子.md "wikilink")
       - あまいあまいラヴレター
   - モモクロビック
       - 月影の秘密
@@ -381,16 +381,16 @@
 ## 関連人物・グループなど
 
   - [安部恭弘](../Page/安部恭弘.md "wikilink") - 互いのオリジナルアルバムや第三者のアルバムでバックボーカルとしてたびたび共演している。
-  - [大江千里](https://ja.wikipedia.org/wiki/大江千里_\(アーティスト\) "wikilink") - アルバムのコーラスで参加している。
+  - [大江千里](../Page/大江千里_\(アーティスト\).md "wikilink") - アルバムのコーラスで参加している。
   - [門倉聡](../Page/門倉聡.md "wikilink") - 音楽プロデューサー。1990年代中頃のEPOの作品の編曲等を手掛ける。
   - [サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink") - 産休中の[原由子](../Page/原由子.md "wikilink")の代役ボーカルとしてコンサートツアーに起用された。
-  - [坂本サトル](https://ja.wikipedia.org/wiki/坂本サトル "wikilink") - 「矛盾の中で生きてる」をカヴァー。2マンライブを開催したこともある。
+  - [坂本サトル](../Page/坂本サトル.md "wikilink") - 「矛盾の中で生きてる」をカヴァー。2マンライブを開催したこともある。
   - [清水信之](../Page/清水信之.md "wikilink") - 初期の作品のプロデュース、アレンジ。[同じ高校の先輩](../Page/東京都立松原高等学校.md "wikilink")。
   - [ショーロ・クラブ](../Page/Choro_Club.md "wikilink")
   - [村松邦男](../Page/村松邦男.md "wikilink") - 山下達郎らと共に[シュガー・ベイブ](../Page/シュガー・ベイブ.md "wikilink")を結成したギタリスト。
   - [遊佐未森](../Page/遊佐未森.md "wikilink") - 楽曲にEPOの影響を受けたと言われている。
   - [渡辺亮](../Page/渡辺亮_\(パーカッショニスト\).md "wikilink") -パーカッショニスト。EPOとの数多くのセッション等をこなす。
-  - [MUSIC FOR ATOM AGE♪](https://ja.wikipedia.org/wiki/MUSIC_FOR_ATOM_AGE♪ "wikilink") - [樋口康雄](https://ja.wikipedia.org/wiki/樋口康雄 "wikilink")による[鉄腕アトム](../Page/鉄腕アトム.md "wikilink")の[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")に参加。
+  - [MUSIC FOR ATOM AGE♪](https://ja.wikipedia.org/wiki/MUSIC_FOR_ATOM_AGE♪ "wikilink") - [樋口康雄](../Page/樋口康雄.md "wikilink")による[鉄腕アトム](../Page/鉄腕アトム.md "wikilink")の[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")に参加。
   - [ガールポップ](https://ja.wikipedia.org/wiki/ガールポップ "wikilink")
 
 ## 外部リンク

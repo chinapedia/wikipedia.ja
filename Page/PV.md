@@ -11,13 +11,13 @@
 
 ### 映像
 
-  - プロモーションビデオ - 直接的な意味は「販売促進用ビデオ」（）であるが、英語の[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")という意味で使われる。
-  - [パブリックビューイング](https://ja.wikipedia.org/wiki/パブリックビューイング "wikilink")（） - 街角などで映像を上映すること。 [街頭テレビ](../Page/街頭テレビ.md "wikilink")など。
+  - プロモーションビデオ - 直接的な意味は「販売促進用ビデオ」（）であるが、英語の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")という意味で使われる。
+  - [パブリックビューイング](../Page/パブリックビューイング.md "wikilink")（） - 街角などで映像を上映すること。 [街頭テレビ](../Page/街頭テレビ.md "wikilink")など。
 
 ### 計測
 
   - [ページビュー](https://ja.wikipedia.org/wiki/ページビュー "wikilink")（） - [WWWページのアクセス数計測方法の一つ](../Page/World_Wide_Web.md "wikilink")
-  - [現在価値](https://ja.wikipedia.org/wiki/現在価値 "wikilink")（）
+  - [現在価値](../Page/現在価値.md "wikilink")（）
   - プリントボリューム(print volume) - 一定期間における、コピー、ファクス受信、パソコンからのプリントの総枚数　
   - [プレイビュー](https://ja.wikipedia.org/wiki/プレイビュー "wikilink")（） - [動画配信の再生数](../Page/動画共有サービス.md "wikilink")
   - [ポテンシャル渦度](https://ja.wikipedia.org/wiki/ポテンシャル渦度 "wikilink")（）
@@ -37,7 +37,7 @@
 ## 輸送機器
 
   - ロッキード PV [ヴェンチュラ](../Page/PV-1_\(航空機\).md "wikilink") / [ハープーン](../Page/PV-2_\(航空機\).md "wikilink") - アメリカ海軍の双発哨戒機
-  - [ぱしふぃっくびいなす](../Page/ぱしふぃっくびいなす.md "wikilink")（） - 日本籍の[クルーズ客船](https://ja.wikipedia.org/wiki/クルーズ客船 "wikilink")
+  - [ぱしふぃっくびいなす](../Page/ぱしふぃっくびいなす.md "wikilink")（） - 日本籍の[クルーズ客船](../Page/クルーズ客船.md "wikilink")
 
 ## 地域
 

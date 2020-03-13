@@ -1,15 +1,15 @@
 > この記事は[ZIP HOT 100](https://ja.wikipedia.org/wiki/ZIP_HOT_100)から翻訳されています。
 
 
-『**ATEAM ZIP HOT 100**』（エイチーム・ジップ・ホット・ワンハンドレッド）は、[ZIP-FM](../Page/ZIP-FM.md "wikilink")で毎週日曜午後に[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")されている[カウントダウン番組](../Page/カウントダウン番組.md "wikilink")。また[JFL各局で制作されている](../Page/JAPAN_FM_LEAGUE.md "wikilink")「[HOT 100](../Page/HOT_100.md "wikilink")」の1つで、[企画ネット番組](https://ja.wikipedia.org/wiki/企画ネット番組 "wikilink")でもある。
+『**ATEAM ZIP HOT 100**』（エイチーム・ジップ・ホット・ワンハンドレッド）は、[ZIP-FM](../Page/ZIP-FM.md "wikilink")で毎週日曜午後に[生放送](../Page/生放送.md "wikilink")されている[カウントダウン番組](../Page/カウントダウン番組.md "wikilink")。また[JFL各局で制作されている](../Page/JAPAN_FM_LEAGUE.md "wikilink")「[HOT 100](../Page/HOT_100.md "wikilink")」の1つで、[企画ネット番組](../Page/企画ネット番組.md "wikilink")でもある。
 
 ## 概要
 
 開局3日後の[1993年](../Page/1993年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")から続く看板番組であり、同局全番組でのエアープレイ・リクエストデータ・東海地方主要CDショップのセールスチャートを集計。同局のオフィシャルチャートとして、毎週100曲のオリジナルランキングを決定していく。
 
-不定期ではあるが、「STUDIO [LACHIC](https://ja.wikipedia.org/wiki/ラシック "wikilink")」などで公開生放送を年に数回実施している。
+不定期ではあるが、「STUDIO [LACHIC](../Page/ラシック.md "wikilink")」などで公開生放送を年に数回実施している。
 
-番組[スポンサー](https://ja.wikipedia.org/wiki/スポンサー "wikilink")には[J-WAVE](../Page/J-WAVE.md "wikilink")などと異なり[SAPPORO BEERは付いていないが](../Page/サッポロビール.md "wikilink")、これまで地元の有力企業が多数連ねていた。2009年春の番組改編で、新たに[マクドナルドが筆頭スポンサーになり](../Page/日本マクドナルド.md "wikilink")、タイトルも『**McDonald's ZIP HOT 100**』に変更された。
+番組[スポンサー](../Page/スポンサー.md "wikilink")には[J-WAVE](../Page/J-WAVE.md "wikilink")などと異なり[SAPPORO BEERは付いていないが](../Page/サッポロビール.md "wikilink")、これまで地元の有力企業が多数連ねていた。2009年春の番組改編で、新たに[マクドナルドが筆頭スポンサーになり](../Page/日本マクドナルド.md "wikilink")、タイトルも『**McDonald's ZIP HOT 100**』に変更された。
 
 2014年10月からはマクドナルドに代わって、地元のIT企業の[エイチーム](https://ja.wikipedia.org/wiki/エイチーム "wikilink")が筆頭スポンサーとなったため、タイトルも『**ATEAM ZIP HOT 100**』に変更された。
 
@@ -25,7 +25,7 @@
 ## ナビゲーターの変遷
 
   - [1993年](../Page/1993年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - [1994年](../Page/1994年.md "wikilink")[9月](../Page/9月.md "wikilink") / [ケン・カワシマ](https://ja.wikipedia.org/wiki/ケン・カワシマ "wikilink")
-  - 1994年10月 - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink") / [小林克也](../Page/小林克也.md "wikilink")
+  - 1994年10月 - [2006年](../Page/2006年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink") / [小林克也](../Page/小林克也.md "wikilink")
   - 2006年[4月2日](../Page/4月2日.md "wikilink") - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[8月22日](../Page/8月22日.md "wikilink")、[2011年](../Page/2011年.md "wikilink")[1月2日](../Page/1月2日.md "wikilink") - / [鉄平](../Page/鉄平_\(タレント\).md "wikilink")
       - 2010年[8月29日](../Page/8月29日.md "wikilink") - 2010年[12月26日](../Page/12月26日.md "wikilink") / [デイル](https://ja.wikipedia.org/wiki/DALE "wikilink")
 
@@ -33,7 +33,7 @@
 
 この一件に責任を感じた小林は『新しいナビゲーターが見つかる間まで』の期間限定で同番組のナビゲーターになった。ところが、このナビゲーター変更は小林の予想以上の好反響で、局側の意向もあり、10年以上に渡り継続することとなった。
 
-しかし、小林自身が毎週東京と名古屋を行き来しながらそれぞれ長時間に渡る番組を収録することに体力の限界を感じ始め、局に降板を打診。局側も了承し、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")放送をもって降板した。翌週からは[MTVジャパン](https://ja.wikipedia.org/wiki/MTVジャパン "wikilink")で活躍し、同局の新ナビゲーターにもなる鉄平が抜擢された。\[1\]
+しかし、小林自身が毎週東京と名古屋を行き来しながらそれぞれ長時間に渡る番組を収録することに体力の限界を感じ始め、局に降板を打診。局側も了承し、[2006年](../Page/2006年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")放送をもって降板した。翌週からは[MTVジャパン](../Page/MTVジャパン.md "wikilink")で活躍し、同局の新ナビゲーターにもなる鉄平が抜擢された。\[1\]
 
 小林時代の数多くの人気コーナー（涙のリクエスト、THE 生年月日、ショートコント〔コバえもん、小林家三平といったキャラを生み出した〕、ミッキーのクイズ、言論の自由など）は終了。特別コーナーとしてはクイズのみが残され、新コーナー追加、及び各曲を流す時間を伸ばしたり、トークやレター紹介を増やした形式になった。現在ではコーナーの多くが鉄平の趣味を反映したものとなっている。
 
@@ -178,19 +178,19 @@
 <tr class="even">
 <td><p>1999</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/リヴィン・ラ・ヴィダ・ロカ" title="wikilink">LIVIN'LA VIDA LOCA</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/リッキー・マーティン" title="wikilink">RICKY MARTIN</a></p></td>
+<td><p><a href="../Page/リッキー・マーティン.md" title="wikilink">RICKY MARTIN</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2000</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/イッツ・マイ・ライフ" title="wikilink">IT'S MY LIFE</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ボン・ジョヴィ" title="wikilink">BON JOVI</a></p></td>
+<td><p><a href="../Page/ボン・ジョヴィ.md" title="wikilink">BON JOVI</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2001</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:All_for_You_(Janet_Jackson_song)" title="wikilink">ALL FOR YOU</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジャネット・ジャクソン" title="wikilink">JANET JACKSON</a></p></td>
+<td><p><a href="../Page/ジャネット・ジャクソン.md" title="wikilink">JANET JACKSON</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -232,7 +232,7 @@
 <tr class="odd">
 <td><p>2008</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/美しき生命_(曲)" title="wikilink">VIVA LA VIDA</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/コールドプレイ" title="wikilink">COLDPLAY</a></p></td>
+<td><p><a href="../Page/コールドプレイ.md" title="wikilink">COLDPLAY</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -348,13 +348,13 @@
 </tr>
 <tr class="even">
 <td><p>BABY</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジャスティン・ビーバー" title="wikilink">JUSTIN BIEBER</a> FEAT.<a href="https://ja.wikipedia.org/wiki/リュダクリス" title="wikilink">LUDACRIS</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ジャスティン・ビーバー" title="wikilink">JUSTIN BIEBER</a> FEAT.<a href="../Page/リュダクリス.md" title="wikilink">LUDACRIS</a></p></td>
 <td><p>2010年4月11日-5月23日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/カリフォルニア・ガールズ_(ケイティ・ペリーの曲)" title="wikilink">CALIFORNIA GURLS</a></p></td>
-<td><p><a href="../Page/ケイティ・ペリー.md" title="wikilink">KATY PERRY</a> FEAT.<a href="https://ja.wikipedia.org/wiki/スヌープ・ドッグ" title="wikilink">SNOOP DOG</a></p></td>
+<td><p><a href="../Page/ケイティ・ペリー.md" title="wikilink">KATY PERRY</a> FEAT.<a href="../Page/スヌープ・ドッグ.md" title="wikilink">SNOOP DOG</a></p></td>
 <td><p>2010年7月11日-8月22日</p></td>
 <td></td>
 </tr>
@@ -471,8 +471,8 @@
 
 ## JFL各局の「HOT 100」
 
-  - [SAISON CARD TOKIO HOT 100](https://ja.wikipedia.org/wiki/TOKIO_HOT_100 "wikilink")（[J-WAVE](../Page/J-WAVE.md "wikilink")）
-  - [DOCOMO OSAKAN HOT 100](https://ja.wikipedia.org/wiki/OSAKAN_HOT_100 "wikilink")（[FM802](../Page/FM802.md "wikilink")）
+  - [SAISON CARD TOKIO HOT 100](../Page/TOKIO_HOT_100.md "wikilink")（[J-WAVE](../Page/J-WAVE.md "wikilink")）
+  - [DOCOMO OSAKAN HOT 100](../Page/OSAKAN_HOT_100.md "wikilink")（[FM802](../Page/FM802.md "wikilink")）
   - [SAPPORO HOT 100](../Page/SAPPORO_HOT_100.md "wikilink")（[FM NORTH WAVE](../Page/エフエム・ノースウェーブ.md "wikilink")）
 
 **放送が終了した番組**

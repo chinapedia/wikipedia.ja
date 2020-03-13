@@ -28,7 +28,7 @@
 <td><p><small></p>
 <ul>
 <li><a href="../Page/1982年.md" title="wikilink">1982年</a><a href="../Page/3月27日.md" title="wikilink">3月27日</a>生、B型。</li>
-<li><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a>出身。</small></li>
+<li><a href="../Page/東京都.md" title="wikilink">東京都</a>出身。</small></li>
 <li>BLue-B(TATSUYA) → S.R.O.D(TEPPO→TATSUYA) → <a href="https://ja.wikipedia.org/wiki/純烈" title="wikilink">純烈</a>（林田達也）</li>
 <li>2016年末を以って芸能界を引退。</li>
 </ul></td>
@@ -36,13 +36,13 @@
 <tr class="even">
 <td><p><strong>NOBUKI</strong><br />
 <small>（のぶき）</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ベース_(弦楽器)" title="wikilink">ベース</a></p></td>
+<td><p><a href="../Page/ベース_(弦楽器).md" title="wikilink">ベース</a></p></td>
 <td><p>作詞<br />
 作曲</p></td>
 <td><p><small></p>
 <ul>
 <li><a href="https://ja.wikipedia.org/wiki/1978年" title="wikilink">1978年</a><a href="../Page/3月30日.md" title="wikilink">3月30日</a>生、AB型。</li>
-<li><a href="https://ja.wikipedia.org/wiki/埼玉県" title="wikilink">埼玉県</a>出身。</small></li>
+<li><a href="../Page/埼玉県.md" title="wikilink">埼玉県</a>出身。</small></li>
 <li>BLue-B → 615 → イッパイアッテナ、myuuRy</li>
 </ul></td>
 </tr>
@@ -55,7 +55,7 @@
 <td><p><small></p>
 <ul>
 <li><a href="../Page/1981年.md" title="wikilink">1981年</a><a href="../Page/3月24日.md" title="wikilink">3月24日</a>生、AB型。</li>
-<li><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a>出身。</small></li>
+<li><a href="../Page/福岡県.md" title="wikilink">福岡県</a>出身。</small></li>
 <li>BLue-B（綾） → NEW SODMY（AYA） → GI-NA（AYA） → GLAMOROUS HONEY（K.）、AN-16（AYA）</li>
 </ul></td>
 </tr>
@@ -179,7 +179,7 @@
 
 <!-- end list -->
 
-1.  Just Now （作詞・作曲:TOMO/編曲:KENICHI NEMOTO、[HAJIME OKANO](https://ja.wikipedia.org/wiki/岡野ハジメ "wikilink")）
+1.  Just Now （作詞・作曲:TOMO/編曲:KENICHI NEMOTO、[HAJIME OKANO](../Page/岡野ハジメ.md "wikilink")）
 2.  Slowly but Surely 〜流れの中で〜 （作詞:NOBUKI/作曲:TOMO/編曲:KENICHI NEMOTO、HAJIME OKANO）
 3.  僕のそばに… （作詞:TATSUYA/作曲:TOMO/編曲:KENICHI NEMOTO、HAJIME OKANO）
 4.  shy （作詞作曲:YUKI/編曲:KENICHI NEMOTO、HAJIME OKANO）
@@ -245,7 +245,7 @@
 ### ラジオ
 
   - BLue-BのMANIA MANIA（1999年7月6日 - 2000年9月26日、[東北放送](../Page/東北放送.md "wikilink") 他）
-  - BLue-Bの[LIPS PARTY 21.jp](https://ja.wikipedia.org/wiki/LIPS_PARTY_21.jp "wikilink")（1999年10月 - 12月、[文化放送](../Page/文化放送.md "wikilink")）
+  - BLue-Bの[LIPS PARTY 21.jp](../Page/LIPS_PARTY_21.jp.md "wikilink")（1999年10月 - 12月、[文化放送](../Page/文化放送.md "wikilink")）
   - BLue-B TATSUYAのMidnight Prayer（2000年4月 - 9月、文化放送）
   - BLue-BのB.Bフェティッシュ（2000年1月2日 - 3月26日、[TOKYO FM](../Page/エフエム東京.md "wikilink")）
   - SATURDAY AIR DRIVE（[CROSS FM](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")） ※SOUND BRAKER内のコーナー“FUTURE BREKER”

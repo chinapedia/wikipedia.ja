@@ -1,11 +1,11 @@
 > この記事は[ALL SINGLES BEST \(\)](https://ja.wikipedia.org/wiki/ALL_SINGLES_BEST_\(\))から翻訳されています。
 
 
-『**ALL SINGLES BEST**』（オール・シングルス・ベスト）は、[フォークデュオ](https://ja.wikipedia.org/wiki/フォークデュオ "wikilink")の[コブクロ](https://ja.wikipedia.org/wiki/コブクロ "wikilink")初の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。
+『**ALL SINGLES BEST**』（オール・シングルス・ベスト）は、[フォークデュオ](../Page/フォークデュオ.md "wikilink")の[コブクロ](https://ja.wikipedia.org/wiki/コブクロ "wikilink")初の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。
 
 ## 概要
 
-  - 2001年のメジャーデビュー曲「YELL〜エール〜」から2005年の「ここにしか咲かない花」「桜」、そして2006年9月時点の最新シングル「君という名の翼」まで収録のコブクロ初のシングルコレクションである。リリース前のテレビCMで女優の[菅野美穂](https://ja.wikipedia.org/wiki/菅野美穂 "wikilink")を起用し話題となった。2006年9月までに発売された全シングルのA面曲を収録しているが、[トコブクロ](https://ja.wikipedia.org/wiki/トコブクロ "wikilink")のシングル「毎朝、ボクの横にいて。」はシングルバージョンではなく、カップリングに収録されているコブクロバージョンとなっている。初回限定盤にはロングインタビューなどを収録したDVDが付属。
+  - 2001年のメジャーデビュー曲「YELL〜エール〜」から2005年の「ここにしか咲かない花」「桜」、そして2006年9月時点の最新シングル「君という名の翼」まで収録のコブクロ初のシングルコレクションである。リリース前のテレビCMで女優の[菅野美穂](https://ja.wikipedia.org/wiki/菅野美穂 "wikilink")を起用し話題となった。2006年9月までに発売された全シングルのA面曲を収録しているが、[トコブクロ](../Page/トコブクロ.md "wikilink")のシングル「毎朝、ボクの横にいて。」はシングルバージョンではなく、カップリングに収録されているコブクロバージョンとなっている。初回限定盤にはロングインタビューなどを収録したDVDが付属。
   - なお、CDレーベル面のデザインは敢えて対になるようにデザインされており、ジャケットの左側に移っている足跡がDISC1に、右側に移っている足跡がDISC2にそれぞれ刻印されている。初回付属のDVDには、両方の足跡が刻印されている。また、歌詞カードには、1曲1曲に本人たちによるセルフライナーノーツが記載されている。曲順は「曲が生まれた順」で、現在から過去へと遡る構成となっている。
   - 2017年9月時点で[TSUTAYA](https://ja.wikipedia.org/wiki/TSUTAYA "wikilink")において累計466万回以上がレンタルされ、同時点でTSUTAYAにおけるベスト盤のレンタル回数では歴代1位である\[1\]。
 
@@ -24,17 +24,17 @@
 
 ### DISC1
 
-1.  **[君という名の翼](https://ja.wikipedia.org/wiki/君という名の翼 "wikilink")**(5:02)
-      - 作詞・作曲:[小渕健太郎](https://ja.wikipedia.org/wiki/小渕健太郎 "wikilink")
+1.  **[君という名の翼](../Page/君という名の翼.md "wikilink")**(5:02)
+      - 作詞・作曲:[小渕健太郎](../Page/小渕健太郎.md "wikilink")
     <!-- end list -->
       -
         13thシングル。アルバム初収録。
-2.  **[あなたへと続く道](https://ja.wikipedia.org/wiki/君という名の翼 "wikilink")**(5:45)
+2.  **[あなたへと続く道](../Page/君という名の翼.md "wikilink")**(5:45)
       - 作詞・作曲:小渕健太郎
     <!-- end list -->
       -
         13thシングル「君という名の翼」のカップリング。アルバム初収録。
-3.  **[ここにしか咲かない花](https://ja.wikipedia.org/wiki/ここにしか咲かない花 "wikilink")**(6:10)
+3.  **[ここにしか咲かない花](../Page/ここにしか咲かない花.md "wikilink")**(6:10)
       - 作詞・作曲:小渕健太郎
     <!-- end list -->
       -
@@ -43,7 +43,7 @@
       - 作詞・作曲:[所ジョージ](https://ja.wikipedia.org/wiki/所ジョージ "wikilink")
     <!-- end list -->
       -
-        [所ジョージ](https://ja.wikipedia.org/wiki/所ジョージ "wikilink")との企画ユニット[トコブクロ](https://ja.wikipedia.org/wiki/トコブクロ "wikilink")としてリリースしたシングルのコブクロバージョン。4thアルバム『[MUSIC MAN SHIP](https://ja.wikipedia.org/wiki/MUSIC_MAN_SHIP "wikilink")』にも収録されている。作詞作曲した所ジョージ曰く「コブクロのほうが（製作者の自分より）いいじゃん！」
+        [所ジョージ](https://ja.wikipedia.org/wiki/所ジョージ "wikilink")との企画ユニット[トコブクロ](../Page/トコブクロ.md "wikilink")としてリリースしたシングルのコブクロバージョン。4thアルバム『[MUSIC MAN SHIP](../Page/MUSIC_MAN_SHIP.md "wikilink")』にも収録されている。作詞作曲した所ジョージ曰く「コブクロのほうが（製作者の自分より）いいじゃん！」
 5.  **[Million Films](https://ja.wikipedia.org/wiki/永遠にともに/Million_Films "wikilink")**(5:20)
       - 作詞・作曲:小渕健太郎
     <!-- end list -->
@@ -59,12 +59,12 @@
     <!-- end list -->
       -
         8thシングル
-8.  **[宝島](https://ja.wikipedia.org/wiki/宝島_\(コブクロの曲\) "wikilink")**(4:18)
+8.  **[宝島](../Page/宝島_\(コブクロの曲\).md "wikilink")**(4:18)
       - 作詞・作曲:小渕健太郎
     <!-- end list -->
       -
         7thシングル
-9.  **[雪の降らない街](https://ja.wikipedia.org/wiki/雪の降らない街 "wikilink")**(5:17)
+9.  **[雪の降らない街](../Page/雪の降らない街.md "wikilink")**(5:17)
       - 作詞・作曲:小渕健太郎
     <!-- end list -->
       -
@@ -77,7 +77,7 @@
 
 ### DISC2
 
-1.  **[風](https://ja.wikipedia.org/wiki/風_\(コブクロの曲\) "wikilink")**(4:36)
+1.  **[風](../Page/風_\(コブクロの曲\).md "wikilink")**(4:36)
       - 作詞・作曲:小渕健太郎
     <!-- end list -->
       -
@@ -106,12 +106,12 @@
       - 作詞・作曲:小渕健太郎
     <!-- end list -->
       -
-        2ndシングル「[轍 -わだち-](https://ja.wikipedia.org/wiki/轍-わだち- "wikilink")」の新録。これで3度目の録り直しである。 シングルバージョンと比べ、後奏部分や2番の最初のイントネーションなどが違う。
+        2ndシングル「[轍 -わだち-](../Page/轍-わだち-.md "wikilink")」の新録。これで3度目の録り直しである。 シングルバージョンと比べ、後奏部分や2番の最初のイントネーションなどが違う。
 7.  **[DOOR](../Page/DOOR_\(コブクロの曲\).md "wikilink") 〜 The knock again 〜**(5:23)
-      - 作詞・作曲:[黒田俊介](https://ja.wikipedia.org/wiki/黒田俊介 "wikilink")
+      - 作詞・作曲:[黒田俊介](../Page/黒田俊介.md "wikilink")
     <!-- end list -->
       -
-        9thシングルの新録。前出の「轍 - Street stroke -」と同じく、3度目の録り直しで、4thアルバム『[MUSIC MAN SHIP](https://ja.wikipedia.org/wiki/MUSIC_MAN_SHIP "wikilink")』のバージョンとは、イントロのドラム部分や最後の部分などが違っている。
+        9thシングルの新録。前出の「轍 - Street stroke -」と同じく、3度目の録り直しで、4thアルバム『[MUSIC MAN SHIP](../Page/MUSIC_MAN_SHIP.md "wikilink")』のバージョンとは、イントロのドラム部分や最後の部分などが違っている。
 8.  **[太陽](https://ja.wikipedia.org/wiki/願いの詩/太陽 "wikilink")**(5:15)
       - 作詞・作曲:小渕健太郎
     <!-- end list -->

@@ -5,13 +5,13 @@
 
 ## 来歴
 
-[2004年](../Page/2004年.md "wikilink")9月4日のCROSS SECTIONで石山絵里相手にデビュー。デビュー直後の9月20日には[全日本アマチュア修斗選手権](https://ja.wikipedia.org/wiki/全日本アマチュア修斗選手権 "wikilink")の女子フライ級（-52kg）で優勝\[1\]。以後、[G-SHOOTO](https://ja.wikipedia.org/wiki/修斗 "wikilink")、club[DEEP](../Page/DEEP_\(格闘技団体\).md "wikilink") 富山 -野蛮人祭り-を中心に活動。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")4月22日には[スマックガール](https://ja.wikipedia.org/wiki/スマックガール "wikilink")に初参戦を果たした。「超新星」「スーパーノヴァ」の異名をとる。
+[2004年](../Page/2004年.md "wikilink")9月4日のCROSS SECTIONで石山絵里相手にデビュー。デビュー直後の9月20日には[全日本アマチュア修斗選手権](https://ja.wikipedia.org/wiki/全日本アマチュア修斗選手権 "wikilink")の女子フライ級（-52kg）で優勝\[1\]。以後、[G-SHOOTO](../Page/修斗.md "wikilink")、club[DEEP](../Page/DEEP_\(格闘技団体\).md "wikilink") 富山 -野蛮人祭り-を中心に活動。[2006年](../Page/2006年.md "wikilink")4月22日には[スマックガール](../Page/スマックガール.md "wikilink")に初参戦を果たした。「超新星」「スーパーノヴァ」の異名をとる。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")7月21日の[MARSでは](../Page/MARS_\(格闘技イベント\).md "wikilink")[カリーナ・ダム](https://ja.wikipedia.org/wiki/カリーナ・ダム "wikilink")に反則行為であるグローブを掴まれながら[腕ひしぎ十字固めを極められ不可解な敗戦を喫したが](https://ja.wikipedia.org/wiki/腕挫十字固 "wikilink")\[2\]、1か月後の8月26日に[両国国技館](../Page/両国国技館.md "wikilink")で行われた再戦では雪辱を果たした。
+[2006年](../Page/2006年.md "wikilink")7月21日の[MARSでは](../Page/MARS_\(格闘技イベント\).md "wikilink")[カリーナ・ダム](https://ja.wikipedia.org/wiki/カリーナ・ダム "wikilink")に反則行為であるグローブを掴まれながら[腕ひしぎ十字固めを極められ不可解な敗戦を喫したが](../Page/腕挫十字固.md "wikilink")\[2\]、1か月後の8月26日に[両国国技館](../Page/両国国技館.md "wikilink")で行われた再戦では雪辱を果たした。
 
-柔術では[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")11月の全日本[ブラジリアン柔術](../Page/ブラジリアン柔術.md "wikilink")オープントーナメントの女子青帯アブソリュート級で優勝。2006年6月4日のプロ柔術では[茂木康子](https://ja.wikipedia.org/wiki/茂木康子 "wikilink")から一本勝ちを収め、その実績が認められ紫帯に昇格。10月29日のブラジリアン柔術アジア大会では女子紫帯プルーマ級に出場、決勝で再び茂木を下しアジア王者となった。
+柔術では[2005年](../Page/2005年.md "wikilink")11月の全日本[ブラジリアン柔術](../Page/ブラジリアン柔術.md "wikilink")オープントーナメントの女子青帯アブソリュート級で優勝。2006年6月4日のプロ柔術では[茂木康子](../Page/茂木康子.md "wikilink")から一本勝ちを収め、その実績が認められ紫帯に昇格。10月29日のブラジリアン柔術アジア大会では女子紫帯プルーマ級に出場、決勝で再び茂木を下しアジア王者となった。
 
-[2007年](../Page/2007年.md "wikilink")2月4日の[J-NETWORK](../Page/J-NETWORK.md "wikilink")主催「女祭り」にてキックデビュー戦を行い、[大浜芳美](https://ja.wikipedia.org/wiki/大浜芳美 "wikilink")に開始22秒でKO勝ちしたが、3月31日の2戦目では田中佑季に判定負けを喫した。その後総合に戻り、5月13日に[ハム・ソヒ](../Page/ハム・ソヒ.md "wikilink")に、6月16日にここまで2戦2敗だった[瀧本美咲](https://ja.wikipedia.org/wiki/瀧本美咲 "wikilink")にいずれも一本勝ち。8月5日のDEEP[後楽園ホール](https://ja.wikipedia.org/wiki/後楽園ホール "wikilink")大会では[渡辺久江](../Page/渡辺久江.md "wikilink")を2-0の判定で下し、第2代DEEP女子ライト級（-48kg）王者となった。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")8月17日には実に4度目の対戦となった瀧本相手に、壮絶な打撃戦の末、左ミドルキックでKO勝ちし同王座の初防衛に成功。
+[2007年](../Page/2007年.md "wikilink")2月4日の[J-NETWORK](../Page/J-NETWORK.md "wikilink")主催「女祭り」にてキックデビュー戦を行い、[大浜芳美](../Page/大浜芳美.md "wikilink")に開始22秒でKO勝ちしたが、3月31日の2戦目では田中佑季に判定負けを喫した。その後総合に戻り、5月13日に[ハム・ソヒ](../Page/ハム・ソヒ.md "wikilink")に、6月16日にここまで2戦2敗だった[瀧本美咲](https://ja.wikipedia.org/wiki/瀧本美咲 "wikilink")にいずれも一本勝ち。8月5日のDEEP[後楽園ホール](../Page/後楽園ホール.md "wikilink")大会では[渡辺久江](../Page/渡辺久江.md "wikilink")を2-0の判定で下し、第2代DEEP女子ライト級（-48kg）王者となった。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")8月17日には実に4度目の対戦となった瀧本相手に、壮絶な打撃戦の末、左ミドルキックでKO勝ちし同王座の初防衛に成功。
 
 [2009年](../Page/2009年.md "wikilink")6月28日、DEEP TOYAMA IMPACTで行われたDEEP女子ライト級（-48kg）タイトルマッチで2年9か月ぶりに[リサ・ワード](https://ja.wikipedia.org/wiki/リサ・ワード "wikilink")と再戦し、腕ひしぎ十字固めで前回の雪辱を果たし、2度目の王座防衛に成功。
 
@@ -34,7 +34,7 @@
 
 ## 関連項目
 
-  - [女子総合格闘家一覧](https://ja.wikipedia.org/wiki/女子総合格闘家一覧 "wikilink")
+  - [女子総合格闘家一覧](../Page/女子総合格闘家一覧.md "wikilink")
   - [DEEP王者一覧](https://ja.wikipedia.org/wiki/DEEP王者一覧 "wikilink")
 
 ## 外部リンク

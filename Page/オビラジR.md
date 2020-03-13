@@ -1,15 +1,15 @@
 > この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
 
 
-『**オビラジⓇ**』（オビラジアール）は、[TBSで](../Page/TBSテレビ.md "wikilink")[月曜日](../Page/月曜日.md "wikilink")から[木曜日](https://ja.wikipedia.org/wiki/木曜日 "wikilink")に放送されていた[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。[2006年](../Page/2006年のテレビ_\(日本\).md "wikilink")[10月2日](../Page/10月2日.md "wikilink")から[2009年](https://ja.wikipedia.org/wiki/2009年のテレビ_\(日本\) "wikilink")[3月19日](../Page/3月19日.md "wikilink")まで放送されていた。
+『**オビラジⓇ**』（オビラジアール）は、[TBSで](../Page/TBSテレビ.md "wikilink")[月曜日](../Page/月曜日.md "wikilink")から[木曜日](../Page/木曜日.md "wikilink")に放送されていた[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。[2006年](../Page/2006年のテレビ_\(日本\).md "wikilink")[10月2日](../Page/10月2日.md "wikilink")から[2009年](https://ja.wikipedia.org/wiki/2009年のテレビ_\(日本\) "wikilink")[3月19日](../Page/3月19日.md "wikilink")まで放送されていた。
 
 ## 概要
 
-  - 番組名は**[帯番組](https://ja.wikipedia.org/wiki/帯番組 "wikilink")**を意味する「オビ」と、初の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")となる司会者の**[オリエンタルラジオ](https://ja.wikipedia.org/wiki/オリエンタルラジオ "wikilink")**（「オリラジ」）の[かばん語](https://ja.wikipedia.org/wiki/かばん語 "wikilink")となっている。
-  - 曜日毎の情報コーナーは[ソーシャル・ネットワーキング・サービス](https://ja.wikipedia.org/wiki/ソーシャル・ネットワーキング・サービス "wikilink")の最高峰「**プレミアムSNS**」と連動。[番組宣伝](https://ja.wikipedia.org/wiki/番組宣伝 "wikilink")も行うゲストも1週につき1組に出演（2008年4月現在は火曜日がゲスト出演ゾーン）。
-  - TBSでは「[Pooh\!](https://ja.wikipedia.org/wiki/Pooh! "wikilink")」終了以来2年ぶりの深夜の帯情報番組となるのだが、テコ入れを繰り返していくうちに情報番組色が希薄化し、普通のバラエティ番組になっていった。生放送ではなく、基本的に木曜日収録の[撮って出し](https://ja.wikipedia.org/wiki/撮って出し "wikilink")方式の収録番組となっている\[1\]。[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作・[字幕放送実施番組](https://ja.wikipedia.org/wiki/文字多重放送#字幕放送 "wikilink")。以前は木曜日放送分は当日夜に収録の為、字幕放送は行われなかったが、2007年2月頃から字幕放送が行われていた。
+  - 番組名は**[帯番組](https://ja.wikipedia.org/wiki/帯番組 "wikilink")**を意味する「オビ」と、初の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")となる司会者の**[オリエンタルラジオ](../Page/オリエンタルラジオ.md "wikilink")**（「オリラジ」）の[かばん語](../Page/かばん語.md "wikilink")となっている。
+  - 曜日毎の情報コーナーは[ソーシャル・ネットワーキング・サービス](../Page/ソーシャル・ネットワーキング・サービス.md "wikilink")の最高峰「**プレミアムSNS**」と連動。[番組宣伝](../Page/番組宣伝.md "wikilink")も行うゲストも1週につき1組に出演（2008年4月現在は火曜日がゲスト出演ゾーン）。
+  - TBSでは「[Pooh\!](../Page/Pooh!.md "wikilink")」終了以来2年ぶりの深夜の帯情報番組となるのだが、テコ入れを繰り返していくうちに情報番組色が希薄化し、普通のバラエティ番組になっていった。生放送ではなく、基本的に木曜日収録の[撮って出し](../Page/撮って出し.md "wikilink")方式の収録番組となっている\[1\]。[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作・[字幕放送実施番組](https://ja.wikipedia.org/wiki/文字多重放送#字幕放送 "wikilink")。以前は木曜日放送分は当日夜に収録の為、字幕放送は行われなかったが、2007年2月頃から字幕放送が行われていた。
   - 番組のネット局は年月を追うごとに減少傾向にあり、最末期のネット局は[山陽放送のみであった](https://ja.wikipedia.org/wiki/山陽放送テレビ "wikilink")。番組開始当初[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")（『[ワンダフル](../Page/ワンダフル_\(テレビ番組\).md "wikilink")』や『Pooh\!』は非ネット）でも時差ネットされていたが、自社番組編成の都合により度々放送時間が変更されるなど編成上の支障になるためか、わずか1年で打ち切られた。また、『ワンダフル』や『Pooh\!』をネットしていた[東北放送](../Page/東北放送.md "wikilink")、[中部日本放送](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")、[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")では番組の2年半の間一貫して放送しなかった。[参照](https://ja.wikipedia.org/wiki/#放送時間とネット局 "wikilink")
-  - 番組開始初期は名前などのテロップはパソコンをイメージした下のアイコン（左から起動、出演者、ゲスト、アンケート、コダワリオビガール、ランキング、企画、ログアウト、CM）をクリックすることで表示される。下のアイコンが無い時は、上に[テキストボックス](../Page/テキストボックス.md "wikilink")でインフォメーションが表示されている。ちなみに、どちらも頭にリボンをつけ番組用に服装が（[ピンク](https://ja.wikipedia.org/wiki/ピンク "wikilink")色に）変わった[BooBo](../Page/BooBo.md "wikilink")（[SNSサイトの**はるBoo**〔井田晴香〕のデザイン](https://ja.wikipedia.org/wiki/#過去のスタッフ "wikilink")）が出し入れする。
+  - 番組開始初期は名前などのテロップはパソコンをイメージした下のアイコン（左から起動、出演者、ゲスト、アンケート、コダワリオビガール、ランキング、企画、ログアウト、CM）をクリックすることで表示される。下のアイコンが無い時は、上に[テキストボックス](../Page/テキストボックス.md "wikilink")でインフォメーションが表示されている。ちなみに、どちらも頭にリボンをつけ番組用に服装が（[ピンク](../Page/ピンク.md "wikilink")色に）変わった[BooBo](../Page/BooBo.md "wikilink")（[SNSサイトの**はるBoo**〔井田晴香〕のデザイン](https://ja.wikipedia.org/wiki/#過去のスタッフ "wikilink")）が出し入れする。
   - 右上のテロップは、2006年10月2日～[5日までは白アイコンにピンクの文字だったが](../Page/10月5日.md "wikilink")、あまりに小さすぎて見辛かったため僅か1週間で大きめのアイコンに[10月9日](../Page/10月9日.md "wikilink")から変更した（[2007年](../Page/2007年.md "wikilink")[1月8日](../Page/1月8日.md "wikilink")に再度デザインを変更）。
   - 2007年から春や秋の改編期に特別番組を組んで1〜2週間休止する。
   - 2008年7月23日（日付上は24日）放送分は24:26に発生した[岩手県と青森県で震度6強の地震に関するニュースを伝えるため途中で終了した](../Page/岩手県沿岸北部地震.md "wikilink")。
@@ -19,15 +19,15 @@
 
 ### MC
 
-  - [オリエンタルラジオ](https://ja.wikipedia.org/wiki/オリエンタルラジオ "wikilink")（[中田敦彦](../Page/中田敦彦.md "wikilink")、[藤森慎吾](../Page/藤森慎吾.md "wikilink")）
+  - [オリエンタルラジオ](../Page/オリエンタルラジオ.md "wikilink")（[中田敦彦](../Page/中田敦彦.md "wikilink")、[藤森慎吾](../Page/藤森慎吾.md "wikilink")）
 
 <!-- end list -->
 
   -
     冠番組。[\#概要](https://ja.wikipedia.org/wiki/#概要 "wikilink")も参照。
-    番組開始当初 - [ヨシモトファンダンゴTV](../Page/ヨシモトファンダンゴTV.md "wikilink")の「[ヨシモト∞](https://ja.wikipedia.org/wiki/ヨシモト∞ "wikilink")」1部司会と「夜」（実際には夜と深夜）の同日帯番組司会となる。水曜日は「[森田一義アワー 笑っていいとも\!](https://ja.wikipedia.org/wiki/森田一義アワー_笑っていいとも! "wikilink")」や「[オリキュン](https://ja.wikipedia.org/wiki/オリキュン "wikilink")」（いずれも[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）にも出演し、昼・夕方・夜の水曜日4番組をはしごしていた。水曜日は2007年4月から6月の間にヨシモト∞水曜日担当ではなくなった為に夕方がなくなり、昼夜の3番組をはしご出演に変更。
+    番組開始当初 - [ヨシモトファンダンゴTV](../Page/ヨシモトファンダンゴTV.md "wikilink")の「[ヨシモト∞](https://ja.wikipedia.org/wiki/ヨシモト∞ "wikilink")」1部司会と「夜」（実際には夜と深夜）の同日帯番組司会となる。水曜日は「[森田一義アワー 笑っていいとも\!](https://ja.wikipedia.org/wiki/森田一義アワー_笑っていいとも! "wikilink")」や「[オリキュン](../Page/オリキュン.md "wikilink")」（いずれも[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）にも出演し、昼・夕方・夜の水曜日4番組をはしごしていた。水曜日は2007年4月から6月の間にヨシモト∞水曜日担当ではなくなった為に夕方がなくなり、昼夜の3番組をはしご出演に変更。
     2007年10月当時 - 水曜日は「森田一義アワー 笑っていいとも\!」や「[ジャンプ\!○○中](../Page/ジャンプ!○○中.md "wikilink")」（いずれもフジテレビ）に出演し、昼夜3番組（夕方の「ヨシモト∞」2部司会も増えて4番組の可能性あり）をはしご。
-    2008年4月当時 - 火曜日から木曜日までは、[MUSIC ON\! TVの](https://ja.wikipedia.org/wiki/MUSIC_ON!_TV "wikilink")「エムエム」司会との同日帯番組司会となり、木曜日は[全国一斉\!日本人テスト](https://ja.wikipedia.org/wiki/全国一斉!日本人テスト "wikilink")（フジテレビ）との夜間3番組はしご出演となった。
+    2008年4月当時 - 火曜日から木曜日までは、[MUSIC ON\! TVの](../Page/MUSIC_ON!_TV.md "wikilink")「エムエム」司会との同日帯番組司会となり、木曜日は[全国一斉\!日本人テスト](https://ja.wikipedia.org/wiki/全国一斉!日本人テスト "wikilink")（フジテレビ）との夜間3番組はしご出演となった。
     2008年10月当時 - 2008年4月と基本的に同じだが、水曜日は[クギづけ 投稿動画ハイスクール](https://ja.wikipedia.org/wiki/クギづけ_投稿動画ハイスクール "wikilink")(日テレ)と夜間3番組はしご出演。
 
 ### アシスタント
@@ -55,7 +55,7 @@
 
 | 放送期間                                                                                                                                    | 担当曜日         |
 | --------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| 放送開始 - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月23日](../Page/11月23日.md "wikilink")                                    | 月 - 木曜日通しの出演 |
+| 放送開始 - [2006年](../Page/2006年.md "wikilink")[11月23日](../Page/11月23日.md "wikilink")                                                       | 月 - 木曜日通しの出演 |
 | 2006年[11月27日](../Page/11月27日.md "wikilink") - [12月21日](../Page/12月21日.md "wikilink")                                                    | 火 - 木曜日      |
 | [2007年](../Page/2007年.md "wikilink")[1月8日](../Page/1月8日.md "wikilink") - [9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")        | 月 - 水曜日      |
 | 2007年[10月8日](../Page/10月8日.md "wikilink") - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月20日](../Page/3月20日.md "wikilink") | 月・火・木曜日      |
@@ -63,7 +63,7 @@
 
 ### レギュラーメンバー（2009年3月時点）
 
-  - [ケンドーコバヤシ](https://ja.wikipedia.org/wiki/ケンドーコバヤシ "wikilink")（火曜日に出演）
+  - [ケンドーコバヤシ](../Page/ケンドーコバヤシ.md "wikilink")（火曜日に出演）
   - [ハリセンボン](https://ja.wikipedia.org/wiki/ハリセンボン_\(お笑いコンビ\) "wikilink")（月曜日に出演）
 
 <!-- end list -->
@@ -76,8 +76,8 @@
   - 番組末期まで出演していた[元オビプレス記者ことオビ](https://ja.wikipedia.org/wiki/#2007年10月8日_-_2008年3月20日 "wikilink")+プラスレポーター（2007年10月8日 - 2008年8月28日:木曜日）輪番制
       - [蓮見孝之](../Page/蓮見孝之.md "wikilink")（TBSアナウンサー、2008年9月4日 - :木曜日。木曜日以外も不定期出演＆VTR出演）オビ記者No.006
       - [新井麻希](https://ja.wikipedia.org/wiki/新井麻希 "wikilink")（TBSアナウンサー、2008年9月4日 - :木曜日。不定期水曜日〔2008年11月12日〕。2008年11月17日の様に月曜日に出演する事も）オビ記者No.004
-      - [金成公信](https://ja.wikipedia.org/wiki/金成公信 "wikilink")（お笑いコンビ[ハローバイバイ](https://ja.wikipedia.org/wiki/ハローバイバイ "wikilink")、2008年9月4日 - :木曜日。木曜日以外も不定期出演＆VTR出演）オビ記者No.021
-  - [はるな愛](https://ja.wikipedia.org/wiki/はるな愛 "wikilink")（2008年8月4日月曜ゲスト、2008年9月4日 - :水曜日）
+      - [金成公信](../Page/金成公信.md "wikilink")（お笑いコンビ[ハローバイバイ](../Page/ハローバイバイ.md "wikilink")、2008年9月4日 - :木曜日。木曜日以外も不定期出演＆VTR出演）オビ記者No.021
+  - [はるな愛](../Page/はるな愛.md "wikilink")（2008年8月4日月曜ゲスト、2008年9月4日 - :水曜日）
 
 <!-- end list -->
 
@@ -92,7 +92,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>放送開始 - <a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/12月20日.md" title="wikilink">12月20日</a></p></td>
+<td><p>放送開始 - <a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/12月20日.md" title="wikilink">12月20日</a></p></td>
 <td><p>4回目の放送にゲスト出演し、<br />
 まもなくレギュラー入りして水曜日担当</p></td>
 </tr>
@@ -150,13 +150,13 @@
 
 #### 歴代のレギュラーメンバー
 
-  - [パンツェッタ・ジローラモ](https://ja.wikipedia.org/wiki/パンツェッタ・ジローラモ "wikilink")（2008年6月11日水曜ゲスト、2008年6月16日:月曜日→2008年7月2日 - 8月27日:水曜日）
+  - [パンツェッタ・ジローラモ](../Page/パンツェッタ・ジローラモ.md "wikilink")（2008年6月11日水曜ゲスト、2008年6月16日:月曜日→2008年7月2日 - 8月27日:水曜日）
   - [ビューティーこくぶ](https://ja.wikipedia.org/wiki/ビューティーこくぶ "wikilink")（2008年9月・10月に「オビ得」コーナーに出演）
   - [元オビプレス記者たち](https://ja.wikipedia.org/wiki/#2007年10月8日_-_2008年3月20日 "wikilink")（2007年10月8日 - 2008年8月28日:木曜日）輪番制で出演。後述。
 
 ### オビガールG
 
-前々番組の『[ワンダフル](../Page/ワンダフル_\(テレビ番組\).md "wikilink")』の[ワンギャル](https://ja.wikipedia.org/wiki/ワンギャル "wikilink")にあたる、多種多様な職業の100名の素人女性（主に[女子大生](https://ja.wikipedia.org/wiki/女子大生 "wikilink")、個性的・魅力的な女性たち）が登場する。各曜日のコーナーに情報提供、番組内でプレゼン。放送前は*オビギャル*となっていた。
+前々番組の『[ワンダフル](../Page/ワンダフル_\(テレビ番組\).md "wikilink")』の[ワンギャル](https://ja.wikipedia.org/wiki/ワンギャル "wikilink")にあたる、多種多様な職業の100名の素人女性（主に[女子大生](../Page/女子大生.md "wikilink")、個性的・魅力的な女性たち）が登場する。各曜日のコーナーに情報提供、番組内でプレゼン。放送前は*オビギャル*となっていた。
 
 さすがに[TBS Dスタジオには](https://ja.wikipedia.org/wiki/TBSテレビ#スタジオ "wikilink")100名も入れないので、選抜された20名+観覧席のオビガールが[SNSサイトの人気による入れ替え制で参加している](https://ja.wikipedia.org/wiki/#外部リンク "wikilink")。スタジオ出演の場合は名札を付けていた。
 
@@ -181,7 +181,7 @@
   - [瀬長奈津実](../Page/瀬長奈津実.md "wikilink")
   - [高見こころ](../Page/高見こころ.md "wikilink")
   - [宮内かれん](https://ja.wikipedia.org/wiki/宮内かれん "wikilink")
-  - [本橋優華](https://ja.wikipedia.org/wiki/本橋優華 "wikilink")（[恋のから騒ぎ](https://ja.wikipedia.org/wiki/恋のから騒ぎ "wikilink")11期生、現在は芸能プロダクション[アヴィラ所属グラビアアイドル](https://ja.wikipedia.org/wiki/アヴィラ_\(芸能プロダクション\) "wikilink")）
+  - [本橋優華](../Page/本橋優華.md "wikilink")（[恋のから騒ぎ](https://ja.wikipedia.org/wiki/恋のから騒ぎ "wikilink")11期生、現在は芸能プロダクション[アヴィラ所属グラビアアイドル](https://ja.wikipedia.org/wiki/アヴィラ_\(芸能プロダクション\) "wikilink")）
       -
         本橋はいったんオビガールから退いたものの、事務所移籍を経て、番組最後の3ヵ月間再び出演した
   - [雪谷和美](https://ja.wikipedia.org/wiki/雪谷和美 "wikilink")
@@ -195,19 +195,19 @@
 
   - [伊藤友里](../Page/伊藤友里.md "wikilink")◇
   - [猪熊真理子](https://ja.wikipedia.org/wiki/猪熊真理子 "wikilink")（2005年[ワールド・ミス・ユニバーシティー・コンテスト](https://ja.wikipedia.org/wiki/ワールド・ミス・ユニバーシティー・コンテスト "wikilink")ファイナリスト）
-  - [大友さゆり](https://ja.wikipedia.org/wiki/大友さゆり "wikilink")
-  - [衣笠築美](https://ja.wikipedia.org/wiki/衣笠築美 "wikilink")（[横浜ベイスターズ](../Page/横浜DeNAベイスターズ.md "wikilink")・オフィシャル・[チアリーダー](https://ja.wikipedia.org/wiki/チアリーダー "wikilink")『[diana](https://ja.wikipedia.org/wiki/diana "wikilink")』2006年度メンバー。2008年から[讀賣テレビ制作局AP](../Page/讀賣テレビ放送.md "wikilink")）◇
-  - [木村佳那子](https://ja.wikipedia.org/wiki/木村佳那子 "wikilink")（[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")『[みんなが出るテレビ](https://ja.wikipedia.org/wiki/みんなが出るテレビ "wikilink")』元女子大生[レポーター](https://ja.wikipedia.org/wiki/レポーター "wikilink")、元[静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")「[soleいいね\!](https://ja.wikipedia.org/wiki/soleいいね! "wikilink")」レポーター。2010年4月から[テレビ熊本](../Page/テレビ熊本.md "wikilink")アナウンサー。11年10月より[千葉テレビ](https://ja.wikipedia.org/wiki/千葉テレビ "wikilink")アナウンサー）
+  - [大友さゆり](../Page/大友さゆり.md "wikilink")
+  - [衣笠築美](../Page/衣笠築美.md "wikilink")（[横浜ベイスターズ](../Page/横浜DeNAベイスターズ.md "wikilink")・オフィシャル・[チアリーダー](https://ja.wikipedia.org/wiki/チアリーダー "wikilink")『[diana](https://ja.wikipedia.org/wiki/diana "wikilink")』2006年度メンバー。2008年から[讀賣テレビ制作局AP](../Page/讀賣テレビ放送.md "wikilink")）◇
+  - [木村佳那子](https://ja.wikipedia.org/wiki/木村佳那子 "wikilink")（[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")『[みんなが出るテレビ](../Page/みんなが出るテレビ.md "wikilink")』元女子大生[レポーター](https://ja.wikipedia.org/wiki/レポーター "wikilink")、元[静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")「[soleいいね\!](https://ja.wikipedia.org/wiki/soleいいね! "wikilink")」レポーター。2010年4月から[テレビ熊本](../Page/テレビ熊本.md "wikilink")アナウンサー。11年10月より[千葉テレビ](https://ja.wikipedia.org/wiki/千葉テレビ "wikilink")アナウンサー）
   - [木村美紀](https://ja.wikipedia.org/wiki/木村美紀 "wikilink")
-  - [京本有加](https://ja.wikipedia.org/wiki/京本有加 "wikilink")
+  - [京本有加](../Page/京本有加.md "wikilink")
   - [近藤しづか](../Page/近藤しづか.md "wikilink")（2006年ワールド・ミス・ユニバーシティー・コンテスト日本大会でグランプリ受賞、現在は雑誌『[Cancam](https://ja.wikipedia.org/wiki/Cancam "wikilink")』専属モデル）
-  - [月本えり](https://ja.wikipedia.org/wiki/月本えり "wikilink")
+  - [月本えり](../Page/月本えり.md "wikilink")
   - [関谷名加](../Page/関谷名加.md "wikilink")（現在は[テレビ山口](../Page/テレビ山口.md "wikilink")アナウンサー、出演当時は内定状態の女子大生）
   - [関真由美](https://ja.wikipedia.org/wiki/関真由美 "wikilink")（現在は[松竹芸能](../Page/松竹芸能.md "wikilink")所属、出演当時は女子大生。大学卒業後に[山口朝日放送](../Page/山口朝日放送.md "wikilink")アナウンサー）
   - [竹盛あり](https://ja.wikipedia.org/wiki/竹盛あり "wikilink")
   - [中山真見](../Page/中山真見.md "wikilink")（[恋のから騒ぎ](https://ja.wikipedia.org/wiki/恋のから騒ぎ "wikilink")12期生）
   - [野口菜菜](https://ja.wikipedia.org/wiki/野口菜菜 "wikilink")（横浜ベイスターズ・オフィシャル・チアリーダー『diana』2006年度メンバー）◇
-  - [八田牧子](https://ja.wikipedia.org/wiki/八田牧子 "wikilink")（テレビ神奈川『みんなが出るテレビ』元女子大生レポーター。2008年3月に[FC東京](https://ja.wikipedia.org/wiki/FC東京 "wikilink")の[徳永悠平](https://ja.wikipedia.org/wiki/徳永悠平 "wikilink")選手と入籍）
+  - [八田牧子](../Page/八田牧子.md "wikilink")（テレビ神奈川『みんなが出るテレビ』元女子大生レポーター。2008年3月に[FC東京](https://ja.wikipedia.org/wiki/FC東京 "wikilink")の[徳永悠平](../Page/徳永悠平.md "wikilink")選手と入籍）
   - [平松美奈](https://ja.wikipedia.org/wiki/平松美奈 "wikilink")
   - [松木里菜](../Page/松木里菜.md "wikilink")
   - [真鍋杏奈](https://ja.wikipedia.org/wiki/真鍋杏奈 "wikilink")（横浜ベイスターズ・オフィシャル・チアリーダー『diana』2007年度メンバー）
@@ -224,7 +224,7 @@
 
 また「オビラジⓇANKING」「こだわりオビガール」も、当初は毎日放送されていたのが徐々に放送曜日が少なくなり、「オビラジⓇANKING」は不定期放送に、「こだわりオビガール」は11月で事実上打ち切りとなった。
 
-その結果、[テレビ朝日](../Page/テレビ朝日.md "wikilink")の[ネオネオバラエティ](https://ja.wikipedia.org/wiki/ネオネオバラエティ "wikilink")などの前に苦戦が続いた。
+その結果、[テレビ朝日](../Page/テレビ朝日.md "wikilink")の[ネオネオバラエティ](../Page/ネオネオバラエティ.md "wikilink")などの前に苦戦が続いた。
 
 ### 2007年1月 - 最終回
 
@@ -290,10 +290,10 @@
 
 <!-- end list -->
 
-  - 2008年4月7日〜6月9日 - オリエンタルラジオ、ハリセンボンの4人が自らロケに行き、話題のスポットを紹介。2008年6月23日、藤森提案の「カレーに合う具材を探そう\!」でロケ復活、2008年7月7日は[ガレッジセール](../Page/ガレッジセール.md "wikilink")を迎え「視聴者の疑問に答える30分」、2008年8月4日[はるな愛](https://ja.wikipedia.org/wiki/はるな愛 "wikilink")と[富士急ハイランド](https://ja.wikipedia.org/wiki/富士急ハイランド "wikilink")の絶叫マシーンに乗ろう\!、2008年9月22日「最強ダレ決定戦\!タレ-1グランプリ」　と単発企画が続く。
+  - 2008年4月7日〜6月9日 - オリエンタルラジオ、ハリセンボンの4人が自らロケに行き、話題のスポットを紹介。2008年6月23日、藤森提案の「カレーに合う具材を探そう\!」でロケ復活、2008年7月7日は[ガレッジセール](../Page/ガレッジセール.md "wikilink")を迎え「視聴者の疑問に答える30分」、2008年8月4日[はるな愛](../Page/はるな愛.md "wikilink")と[富士急ハイランド](https://ja.wikipedia.org/wiki/富士急ハイランド "wikilink")の絶叫マシーンに乗ろう\!、2008年9月22日「最強ダレ決定戦\!タレ-1グランプリ」　と単発企画が続く。
       - 家捜しクイズ - ハゲ・デブチーム（中田敦彦、近藤春菜）、ガリメガネチーム（箕輪はるか、藤森慎吾）の2チームが、助っ人美女の家を探す。助っ人美女の家を発見したらその助っ人美女の家でクイズの問題を考える。進行役は最初の2回は出水アナだったが、コーナー進行役をオビガールGが代行する様になった。
-  - ゲストトーク - 2008年6月11日（水曜日）に復活、2008年6月16日に月曜移行。ゲスト（最初の2回は[パンツェッタ・ジローラモ](https://ja.wikipedia.org/wiki/パンツェッタ・ジローラモ "wikilink")「大人のワンランクアップしたスーツの着こなし方」）が極めた一品をVTRを交え、オリラジ・出水アナにその一品の極め方を伝授。
-  - オビ検定 - 2008年8月12日、グルメリポート検定in築地（講師検定員:[彦摩呂](https://ja.wikipedia.org/wiki/彦摩呂 "wikilink")）で開始。とある職業にオリエンタルラジオやハリセンボンが挑戦し、検定員講師役が判定。2008年9月16日の声優検定には講師検定員で、ナレーター[渡辺美佐が顔出し出演した](https://ja.wikipedia.org/wiki/渡辺美佐_\(声優\) "wikilink")。
+  - ゲストトーク - 2008年6月11日（水曜日）に復活、2008年6月16日に月曜移行。ゲスト（最初の2回は[パンツェッタ・ジローラモ](../Page/パンツェッタ・ジローラモ.md "wikilink")「大人のワンランクアップしたスーツの着こなし方」）が極めた一品をVTRを交え、オリラジ・出水アナにその一品の極め方を伝授。
+  - オビ検定 - 2008年8月12日、グルメリポート検定in築地（講師検定員:[彦摩呂](../Page/彦摩呂.md "wikilink")）で開始。とある職業にオリエンタルラジオやハリセンボンが挑戦し、検定員講師役が判定。2008年9月16日の声優検定には講師検定員で、ナレーター[渡辺美佐が顔出し出演した](../Page/渡辺美佐_\(声優\).md "wikilink")。
 
 <!-- end list -->
 
@@ -301,7 +301,7 @@
 
 <!-- end list -->
 
-  - 魁\!ケンコバ塾 - 2008年4月15日開始(2008年6月4日は「Club GOLD」との曜日交換で水曜日に放送)。天の声[ケンドーコバヤシ](https://ja.wikipedia.org/wiki/ケンドーコバヤシ "wikilink")塾長のナビゲートでおすすめ穴場スポットを紹介。MC3人は[ジャージ](https://ja.wikipedia.org/wiki/ジャージ "wikilink")姿(オリラジは青ジャージ、出水アナは赤ジャージ着用)で、VTRから出された世界で最も難しい2択クイズ「2択BOMB\!」に答え、MC3人が10問連続正解で世界一周旅行獲得（未だ獲得権なし）。風船が両端に用意され3問不正解でアウト。9問目以降はケンドーコバヤシ塾長自ら考案クイズが出題。
+  - 魁\!ケンコバ塾 - 2008年4月15日開始(2008年6月4日は「Club GOLD」との曜日交換で水曜日に放送)。天の声[ケンドーコバヤシ](../Page/ケンドーコバヤシ.md "wikilink")塾長のナビゲートでおすすめ穴場スポットを紹介。MC3人は[ジャージ](https://ja.wikipedia.org/wiki/ジャージ "wikilink")姿(オリラジは青ジャージ、出水アナは赤ジャージ着用)で、VTRから出された世界で最も難しい2択クイズ「2択BOMB\!」に答え、MC3人が10問連続正解で世界一周旅行獲得（未だ獲得権なし）。風船が両端に用意され3問不正解でアウト。9問目以降はケンドーコバヤシ塾長自ら考案クイズが出題。
       - 2008年4月29日は、3部制授業だった。いずれの問題にもオリラジと出水アナが答える。2008年5月から3時間目はオビガールG1名もしくは日本美女名鑑の女性ゲスト1名が助っ人に加わる。
         1.  1時間目：『美女の時間』日本美女名鑑
         2.  2時間目：『顔の時間』ホメ顔MAXクイズ
@@ -329,8 +329,8 @@
 <!-- end list -->
 
   - オビプレス - プチプレスとの2部構成。2008年8月28日終了。
-  - オビラジⓇゲストイメージ調査 - 2008年4月17日放送で実施。ゲストの[ROOKIES](https://ja.wikipedia.org/wiki/ROOKIES "wikilink")出演メンバー（[中尾明慶](https://ja.wikipedia.org/wiki/中尾明慶 "wikilink")ら5名）のイメージを街頭調査。以降もゲストが来れば不定期実施。
-  - 考える脳 - 2008年5月28日放送、2008年6月5日で実施。まずオープニングで出水アナがパビリオン説明。CGキャラクター“ナカちゃん”（声：[渡辺美佐](https://ja.wikipedia.org/wiki/渡辺美佐_\(声優\) "wikilink")）のナビゲートで、VTRに出てくる見えそうで見えないものを当てる、読解力を試すクイズコーナー。オリラジ、ゲストの頭上にそれぞれの顔が[ふきだし](../Page/ふきだし.md "wikilink")風に写し出されていた。
+  - オビラジⓇゲストイメージ調査 - 2008年4月17日放送で実施。ゲストの[ROOKIES](../Page/ROOKIES.md "wikilink")出演メンバー（[中尾明慶](../Page/中尾明慶.md "wikilink")ら5名）のイメージを街頭調査。以降もゲストが来れば不定期実施。
+  - 考える脳 - 2008年5月28日放送、2008年6月5日で実施。まずオープニングで出水アナがパビリオン説明。CGキャラクター“ナカちゃん”（声：[渡辺美佐](../Page/渡辺美佐_\(声優\).md "wikilink")）のナビゲートで、VTRに出てくる見えそうで見えないものを当てる、読解力を試すクイズコーナー。オリラジ、ゲストの頭上にそれぞれの顔が[ふきだし](../Page/ふきだし.md "wikilink")風に写し出されていた。
   - 特別企画[魔王スタートスペシャル](../Page/魔王_\(2008年のテレビドラマ\).md "wikilink") - 蓮見アナ、箕輪はるかが司会の料亭ロケクイズ。正解したら料理を食べられた。「魔王」出演者チーム（大野智、小林涼子、生田斗真、脇知弘）、近藤春菜、オリラジが回答。2008年6月下旬放送。
 
 ### 2007年10月8日 - 2008年3月20日
@@ -354,7 +354,7 @@
 
 <!-- end list -->
 
-  - デミちゃんの楽屋聞いちゃった\! - 出水アナのプライベートを[ケンドーコバヤシ](https://ja.wikipedia.org/wiki/ケンドーコバヤシ "wikilink")が暴露。2007年10月9日開始（但しオープニングトークの一部としてそれ以前にも展開されており、好評のためコーナーに発展したものといえる）。
+  - デミちゃんの楽屋聞いちゃった\! - 出水アナのプライベートを[ケンドーコバヤシ](../Page/ケンドーコバヤシ.md "wikilink")が暴露。2007年10月9日開始（但しオープニングトークの一部としてそれ以前にも展開されており、好評のためコーナーに発展したものといえる）。
       - 2007年11月27日は水曜日と内容が入れ替わった。
   - こうやってマネーゲット
 
@@ -373,13 +373,13 @@
 
 <!-- end list -->
 
-  - オビプレス - クチコミ情報をオビ記者（レポーター）が紹介ロケVTRと、スタジオに数名のオビ記者（[高野貴裕](https://ja.wikipedia.org/wiki/高野貴裕 "wikilink")、[伊藤隆佑](../Page/伊藤隆佑.md "wikilink")、[新井麻希](https://ja.wikipedia.org/wiki/新井麻希 "wikilink")、[蓮見孝之](../Page/蓮見孝之.md "wikilink")、[ハローバイバイ](https://ja.wikipedia.org/wiki/ハローバイバイ "wikilink")[金成公信](https://ja.wikipedia.org/wiki/金成公信 "wikilink")・[関暁夫](https://ja.wikipedia.org/wiki/関暁夫 "wikilink")、[カラテカ](../Page/カラテカ_\(お笑いコンビ\).md "wikilink")[入江慎也](../Page/入江慎也.md "wikilink")、2007年11月22日加入の[あびる優](../Page/あびる優.md "wikilink")らのうち3～5名）がクチコミ情報をフリップでプレゼンする「*プチプレス*」と2部構成に。
+  - オビプレス - クチコミ情報をオビ記者（レポーター）が紹介ロケVTRと、スタジオに数名のオビ記者（[高野貴裕](../Page/高野貴裕.md "wikilink")、[伊藤隆佑](../Page/伊藤隆佑.md "wikilink")、[新井麻希](https://ja.wikipedia.org/wiki/新井麻希 "wikilink")、[蓮見孝之](../Page/蓮見孝之.md "wikilink")、[ハローバイバイ](../Page/ハローバイバイ.md "wikilink")[金成公信](../Page/金成公信.md "wikilink")・[関暁夫](../Page/関暁夫.md "wikilink")、[カラテカ](../Page/カラテカ_\(お笑いコンビ\).md "wikilink")[入江慎也](../Page/入江慎也.md "wikilink")、2007年11月22日加入の[あびる優](../Page/あびる優.md "wikilink")らのうち3～5名）がクチコミ情報をフリップでプレゼンする「*プチプレス*」と2部構成に。
   - あつプレ人類[分類学](../Page/分類学.md "wikilink") - 2007年11月1日放送から[心理テスト](https://ja.wikipedia.org/wiki/心理テスト "wikilink")を実施。オビガールG4名（稀にゲストも）らを診断結果によって中田がツッコミ。番組初期にあった掛け軸教訓格言も中田直筆の字で復活。
-  - [三木聡](https://ja.wikipedia.org/wiki/三木聡 "wikilink")監督と中田の[転々](https://ja.wikipedia.org/wiki/転々 "wikilink")東京散歩 - 2007年11月22日、12月6日の前後編に分けて放送。ロケトーク。
+  - [三木聡](../Page/三木聡.md "wikilink")監督と中田の[転々](https://ja.wikipedia.org/wiki/転々 "wikilink")東京散歩 - 2007年11月22日、12月6日の前後編に分けて放送。ロケトーク。
 
 ### 2007年6月16日 - 9月27日
 
-  - オビ得 - 「オビガールGのちょっと得するプレゼントコーナー」の略。[オビガールG](https://ja.wikipedia.org/wiki/#オビガールG "wikilink")2名（日替わり）が漫才の様な掛け合いでプレゼント紹介を行う1分程度のミニコーナー。2007年6月5日開始当初は月曜・火曜日だけだったが、2007年8月以降は月曜から木曜まで毎日登場になった。[L字型画面](https://ja.wikipedia.org/wiki/L字型画面 "wikilink")で下部にスタッフロール、右下にエンディングテーマが同時に流れていた。
+  - オビ得 - 「オビガールGのちょっと得するプレゼントコーナー」の略。[オビガールG](https://ja.wikipedia.org/wiki/#オビガールG "wikilink")2名（日替わり）が漫才の様な掛け合いでプレゼント紹介を行う1分程度のミニコーナー。2007年6月5日開始当初は月曜・火曜日だけだったが、2007年8月以降は月曜から木曜まで毎日登場になった。[L字型画面](../Page/L字型画面.md "wikilink")で下部にスタッフロール、右下にエンディングテーマが同時に流れていた。
 
 <!-- end list -->
 
@@ -387,7 +387,7 @@
 
 <!-- end list -->
 
-  - 日本美女名鑑 - 女性が推薦女性を紹介。紹介された女性はSNSに登録される。第1回の紹介者は[月本えり](https://ja.wikipedia.org/wiki/月本えり "wikilink")。
+  - 日本美女名鑑 - 女性が推薦女性を紹介。紹介された女性はSNSに登録される。第1回の紹介者は[月本えり](../Page/月本えり.md "wikilink")。
   - ホメ顔MAXクイズ - 道行く女性にインタビューし、自分の顔がどんな有名人に似てるかゲストが当てる。
   - オビ読 - 2007年8月以降は不定期に放送される。
 
@@ -398,7 +398,7 @@
 <!-- end list -->
 
   - オビデミー賞 - [ロッテ](../Page/ロッテ.md "wikilink")がスポンサー。写メールや動画で送られた作品をケンドーコバヤシらが審査。
-  - オビアジ - 目指せ\!\!新発売（後述）の派生版。オリエンタルラジオが新規商品を開発。オールロケで、[高野貴裕](https://ja.wikipedia.org/wiki/高野貴裕 "wikilink")アナウンサーが同行。
+  - オビアジ - 目指せ\!\!新発売（後述）の派生版。オリエンタルラジオが新規商品を開発。オールロケで、[高野貴裕](../Page/高野貴裕.md "wikilink")アナウンサーが同行。
   - これやってマネーゲット - クイズコーナー。大金を手にした人々が登場、何を使って大金を手にしたか当てる。2007年8月14日の[花田勝](https://ja.wikipedia.org/wiki/花田勝 "wikilink")特集時に開始。回答者3人（オリエンタルラジオ、ケンドーコバヤシ）のうち1人が正解が置いてあるQボックス（衝立があって、他の2人は正解が見えない）の前に立ち、正解発表。不正解&ボケ回答の場合は即時電流が流れる。
 
 <!-- end list -->
@@ -416,7 +416,7 @@
 
 <!-- end list -->
 
-  - [1×1](https://ja.wikipedia.org/wiki/1×1 "wikilink") - オリエンタルラジオとゲストがトーク。
+  - [1×1](../Page/1×1.md "wikilink") - オリエンタルラジオとゲストがトーク。
 
 ### 2007年4月 - 6月12日
 
@@ -462,7 +462,7 @@
 
 <!-- end list -->
 
-  - [1×1](https://ja.wikipedia.org/wiki/1×1 "wikilink")(オリエンタルラジオとゲストのみの対談)
+  - [1×1](../Page/1×1.md "wikilink")(オリエンタルラジオとゲストのみの対談)
 
 ### 2007年1月 - 3月
 
@@ -549,11 +549,11 @@
 <!-- end list -->
 
   -
-    オビガールの中から1人がフリップでプレゼン紹介。中田曰く「どの出演者よりも予算を掛けた」と言う人形「ビッグハット」\[2\]で[腹話術](https://ja.wikipedia.org/wiki/腹話術 "wikilink")を使う中田との掛け合いが見所。
+    オビガールの中から1人がフリップでプレゼン紹介。中田曰く「どの出演者よりも予算を掛けた」と言う人形「ビッグハット」\[2\]で[腹話術](../Page/腹話術.md "wikilink")を使う中田との掛け合いが見所。
 
     但しこのコーナーは番組の最後に設定されている為、進行具合によっては時間が短くなったり、コーナー自体が割愛される事もある。それもあって[10月16日](../Page/10月16日.md "wikilink")以降は、原則月曜日と火曜日のみの放送になり、同年11月27日以降は殆ど行われていない。
 
-    なおこのコーナーで、オビガールGの[月本えり](https://ja.wikipedia.org/wiki/月本えり "wikilink")がプレゼンした「ミラーボールをデザインしたネックレス」が、「[SAMANTHA SILVA](../Page/サマンサタバサ.md "wikilink")」ブランドにより商品化され、全国のSAMANTHA SILVAショップと[TBS ishop](http://ishop.tbs.co.jp/)で販売されている。
+    なおこのコーナーで、オビガールGの[月本えり](../Page/月本えり.md "wikilink")がプレゼンした「ミラーボールをデザインしたネックレス」が、「[SAMANTHA SILVA](../Page/サマンサタバサ.md "wikilink")」ブランドにより商品化され、全国のSAMANTHA SILVAショップと[TBS ishop](http://ishop.tbs.co.jp/)で販売されている。
 
   - 月曜日
 
@@ -582,8 +582,8 @@
   - 11月20日 - ケンドーコバヤシの進行で、放送当時[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")（大阪）所属の若手芸人の特集。
   - 11月27日 - 『中田と藤森 強いのはどっちだ\!\!』と題してオリラジが様々な題目で対決を行う。
   - [12月4日](../Page/12月4日.md "wikilink") - オリラジの2人が美容師に挑戦する。
-  - [12月11日](../Page/12月11日.md "wikilink") - 『人はカニ鍋の前で黙らずに番組を進行できるのか\!?』と題し、オリラジの2人がカニ鍋を食べながらスタジオのパネルを基にトークを進行させる（←「[ライオンのごきげんよう](https://ja.wikipedia.org/wiki/ライオンのごきげんよう "wikilink")」を意識してるとか）。
-  - [12月18日](../Page/12月18日.md "wikilink") - 『ベビースター完全制覇』と題し、[ベビースターラーメン](https://ja.wikipedia.org/wiki/ベビースターラーメン "wikilink")の特集を行う。
+  - [12月11日](../Page/12月11日.md "wikilink") - 『人はカニ鍋の前で黙らずに番組を進行できるのか\!?』と題し、オリラジの2人がカニ鍋を食べながらスタジオのパネルを基にトークを進行させる（←「[ライオンのごきげんよう](../Page/ライオンのごきげんよう.md "wikilink")」を意識してるとか）。
+  - [12月18日](../Page/12月18日.md "wikilink") - 『ベビースター完全制覇』と題し、[ベビースターラーメン](../Page/ベビースターラーメン.md "wikilink")の特集を行う。
 
 <!-- end list -->
 
@@ -626,12 +626,12 @@
 
 ## 放送時間とネット局（2009年3月時点）
 
-| 放送対象地域                                                         | 放送局                                                           | 放送日時                                                    | 備考                                           |
-| -------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------- | -------------------------------------------- |
-| [関東広域圏](../Page/広域放送.md "wikilink")                            | [東京放送](../Page/TBSテレビ.md "wikilink")（TBS）                     | 月曜 - 木曜 24時29分 - 24時59分                                 | 現・[TBSテレビ](../Page/TBSテレビ.md "wikilink")、制作局 |
-| [岡山県・香川県](https://ja.wikipedia.org/wiki/岡山県・香川県の放送 "wikilink") | [山陽放送](https://ja.wikipedia.org/wiki/山陽放送テレビ "wikilink")（RSK） | [同時ネット](https://ja.wikipedia.org/wiki/同時ネット "wikilink") |                                              |
+| 放送対象地域                                      | 放送局                                                           | 放送日時                                                    | 備考                                           |
+| ------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------- | -------------------------------------------- |
+| [関東広域圏](../Page/広域放送.md "wikilink")         | [東京放送](../Page/TBSテレビ.md "wikilink")（TBS）                     | 月曜 - 木曜 24時29分 - 24時59分                                 | 現・[TBSテレビ](../Page/TBSテレビ.md "wikilink")、制作局 |
+| [岡山県・香川県](../Page/岡山県・香川県の放送.md "wikilink") | [山陽放送](https://ja.wikipedia.org/wiki/山陽放送テレビ "wikilink")（RSK） | [同時ネット](https://ja.wikipedia.org/wiki/同時ネット "wikilink") |                                              |
 
-※山陽放送は、[再放送](https://ja.wikipedia.org/wiki/再放送 "wikilink")の[ドラマを集中放送する場合または](../Page/テレビドラマ.md "wikilink")、[バレーボール](../Page/バレーボール.md "wikilink")[プレミアリーグの](../Page/プレミアリーグ_\(バレーボール\).md "wikilink")[岡山シーガルズ](https://ja.wikipedia.org/wiki/岡山シーガルズ "wikilink")戦の試合中継など、ローカル[特番が不定期に編成された場合は休止になる](https://ja.wikipedia.org/wiki/特別番組 "wikilink")。
+※山陽放送は、[再放送](../Page/再放送.md "wikilink")の[ドラマを集中放送する場合または](../Page/テレビドラマ.md "wikilink")、[バレーボール](../Page/バレーボール.md "wikilink")[プレミアリーグの](../Page/プレミアリーグ_\(バレーボール\).md "wikilink")[岡山シーガルズ](https://ja.wikipedia.org/wiki/岡山シーガルズ "wikilink")戦の試合中継など、ローカル[特番が不定期に編成された場合は休止になる](../Page/特別番組.md "wikilink")。
 
 ### 過去のネット局
 
@@ -677,7 +677,7 @@
 <td><p>同時ネット</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/山形県" title="wikilink">山形県</a></p></td>
+<td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
 <td><p><a href="../Page/テレビユー山形.md" title="wikilink">テレビユー山形</a>（TUY）</p></td>
 <td><p>2008年<a href="../Page/3月20日.md" title="wikilink">3月20日</a></p></td>
 <td></td>
@@ -718,8 +718,8 @@
 
 ## 2009年3月時点でのスタッフ
 
-  - ナレーター：[坂口哲夫](https://ja.wikipedia.org/wiki/坂口哲夫 "wikilink")、[渡辺美佐](https://ja.wikipedia.org/wiki/渡辺美佐_\(声優\) "wikilink")（2007年10月以降）、[橋詰知久](https://ja.wikipedia.org/wiki/橋詰知久 "wikilink")（2008年9月以降）
-  - 構成:[酒井健作](../Page/酒井健作.md "wikilink")、[松本真一](https://ja.wikipedia.org/wiki/松本真一_\(放送作家\) "wikilink")、[大井洋一](https://ja.wikipedia.org/wiki/大井洋一 "wikilink")、[柳しゅうへい](https://ja.wikipedia.org/wiki/柳しゅうへい "wikilink")、[鈴木功治](https://ja.wikipedia.org/wiki/鈴木功治 "wikilink")、[小泉泰成](https://ja.wikipedia.org/wiki/小泉泰成 "wikilink")　[堀江B面](https://ja.wikipedia.org/wiki/堀江B面 "wikilink")、[長谷川大雲](https://ja.wikipedia.org/wiki/長谷川大雲 "wikilink")　
+  - ナレーター：[坂口哲夫](../Page/坂口哲夫.md "wikilink")、[渡辺美佐](../Page/渡辺美佐_\(声優\).md "wikilink")（2007年10月以降）、[橋詰知久](https://ja.wikipedia.org/wiki/橋詰知久 "wikilink")（2008年9月以降）
+  - 構成:[酒井健作](../Page/酒井健作.md "wikilink")、[松本真一](../Page/松本真一_\(放送作家\).md "wikilink")、[大井洋一](https://ja.wikipedia.org/wiki/大井洋一 "wikilink")、[柳しゅうへい](https://ja.wikipedia.org/wiki/柳しゅうへい "wikilink")、[鈴木功治](https://ja.wikipedia.org/wiki/鈴木功治 "wikilink")、[小泉泰成](https://ja.wikipedia.org/wiki/小泉泰成 "wikilink")　[堀江B面](https://ja.wikipedia.org/wiki/堀江B面 "wikilink")、[長谷川大雲](https://ja.wikipedia.org/wiki/長谷川大雲 "wikilink")　
       - （木曜日）[田中到](https://ja.wikipedia.org/wiki/田中到 "wikilink")、[安部裕之](https://ja.wikipedia.org/wiki/安部裕之_\(放送作家\) "wikilink")
   - TP（テクニカルプロデューサー）:中澤健
   - TM（テクニカルマネージャー）・SW（スイッチャー）:平舘敏弘
@@ -756,14 +756,14 @@
   - プロデューサー:[海本泰](https://ja.wikipedia.org/wiki/海本泰 "wikilink")（制作5部）/ [山地孝英](https://ja.wikipedia.org/wiki/山地孝英 "wikilink")（G-yama、月曜日、火曜日）、[辻村たろう](https://ja.wikipedia.org/wiki/辻村たろう "wikilink")（NET WEB、木曜日）、座間隆司（avex\&EAST、水曜日）
   - チーフプロデューサー:[合田隆信](https://ja.wikipedia.org/wiki/合田隆信 "wikilink")（制作センターバラエティ制作部）
   - 協力:[ProCam](../Page/プロカム.md "wikilink")
-  - 制作協力:[G-yama](https://ja.wikipedia.org/wiki/ジーヤマ "wikilink")（月）・（火）、[NET WEB](https://ja.wikipedia.org/wiki/ネットウエブ "wikilink")（木）、[avex\&EAST](https://ja.wikipedia.org/wiki/エイベックス&イースト "wikilink")（水、[エイベックスと](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")[イーストの合弁会社](https://ja.wikipedia.org/wiki/イースト_\(テレビ制作会社\) "wikilink")）
+  - 制作協力:[G-yama](../Page/ジーヤマ.md "wikilink")（月）・（火）、[NET WEB](../Page/ネットウエブ.md "wikilink")（木）、[avex\&EAST](https://ja.wikipedia.org/wiki/エイベックス&イースト "wikilink")（水、[エイベックスと](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")[イーストの合弁会社](https://ja.wikipedia.org/wiki/イースト_\(テレビ制作会社\) "wikilink")）
   - 制作:[TBSテレビ](../Page/TBSテレビ.md "wikilink")
   - 製作著作:TBS
 
 ### 過去のスタッフ
 
-  - チーフプロデューサー:[戸髙正啓](https://ja.wikipedia.org/wiki/戸高正啓 "wikilink")（制作センターバラエティ制作部【旧制作3部】）→[吉田裕二](../Page/吉田裕二.md "wikilink")（制作センターバラエティ制作部）
-  - プロデューサー：[櫟本憲勝](https://ja.wikipedia.org/wiki/櫟本憲勝 "wikilink")（制作センターバラエティ制作部）
+  - チーフプロデューサー:[戸髙正啓](../Page/戸高正啓.md "wikilink")（制作センターバラエティ制作部【旧制作3部】）→[吉田裕二](../Page/吉田裕二.md "wikilink")（制作センターバラエティ制作部）
+  - プロデューサー：[櫟本憲勝](../Page/櫟本憲勝.md "wikilink")（制作センターバラエティ制作部）
   - 総合演出:[渡辺信也](https://ja.wikipedia.org/wiki/渡辺信也 "wikilink")
 
 ## エンディングテーマ（主題歌）
@@ -783,7 +783,7 @@
   - [Foxxi misQ](https://ja.wikipedia.org/wiki/Foxxi_misQ "wikilink")「[A-L-I-V-E](../Page/A-L-I-V-E.md "wikilink")」（2007年2月1日 - 2月28日）
   - [UME。](https://ja.wikipedia.org/wiki/UME。 "wikilink")「レッツゴーコン大作戦」(2007年2月19日 - 2007年5月)
   - ミドリ「ドーピング☆ノイズノイズキッス」（2007年4月、月曜日担当のUME。と交代制）
-  - [CLIFF EDGE](../Page/CLIFF_EDGE.md "wikilink")「BIRTH 〜You're the only one Pt.2〜 feat. [MAY'S](https://ja.wikipedia.org/wiki/MAY'S "wikilink")」(2007年6月1日 - 2007年7月31日)
+  - [CLIFF EDGE](../Page/CLIFF_EDGE.md "wikilink")「BIRTH 〜You're the only one Pt.2〜 feat. [MAY'S](../Page/MAY'S.md "wikilink")」(2007年6月1日 - 2007年7月31日)
   - [山田タマル](https://ja.wikipedia.org/wiki/山田タマル "wikilink")「[Love you ROSE](https://ja.wikipedia.org/wiki/Love_you_ROSE "wikilink")」(2007年9月3日 - 9月27日)
   - [ウラニーノ](../Page/ウラニーノ.md "wikilink")「斉藤くんの場合」(2007年10月8日 - 10月31日)
   - [Kimeru](../Page/Kimeru.md "wikilink")「Junk beat」（2007年11月1日 - 11月28日）
@@ -796,7 +796,7 @@
   - [TUFF SESSION](../Page/TUFF_SESSION.md "wikilink")「あなたが傍に」（2008年7月）
   - [YGA](../Page/よしもとグラビアエージェンシー.md "wikilink")「小さなハッピーあげましょ」（2008年8月）
   - [空中分解](https://ja.wikipedia.org/wiki/空中分解 "wikilink")「MANIAC★☆」（2008年9月）
-  - [板尾創路](https://ja.wikipedia.org/wiki/板尾創路 "wikilink")「塩渡し爺」（2008年10月）
+  - [板尾創路](../Page/板尾創路.md "wikilink")「塩渡し爺」（2008年10月）
   - YGA「BIN-KAN。VANILLA\!」（2008年11月）
   - [sg WANNA BE+](https://ja.wikipedia.org/wiki/sg_WANNA_BE+ "wikilink")「虹色」 (2009年3月)
 
@@ -804,7 +804,7 @@
 
 [目指せ\!新発売\!\!の派生品](https://ja.wikipedia.org/wiki/#2007年1月から3月まで "wikilink")。
 
-  - [ランチパック](https://ja.wikipedia.org/wiki/ランチパック "wikilink")（山崎製パンとの[コラボレーションにより新商品を開発](../Page/協働.md "wikilink")）
+  - [ランチパック](../Page/ランチパック.md "wikilink")（山崎製パンとの[コラボレーションにより新商品を開発](../Page/協働.md "wikilink")）
   - 夢ガム中（[ロッテ](../Page/ロッテ.md "wikilink")とのコラボレーション商品で開発）
   - ホワイトカレーとあったかパン（[ロッテリア](../Page/ロッテリア.md "wikilink")とのコラボレーションメニュー）
   - みたらじ味（[築地銀だこ](../Page/築地銀だこ.md "wikilink")とのコラボレーションメニュー）

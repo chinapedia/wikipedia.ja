@@ -1,9 +1,9 @@
 > この記事は[ BEST \'81](https://ja.wikipedia.org/wiki/_BEST_\'81)から翻訳されています。
 
 
-『**スペクトラム BEST '81**』（スペクトラム ベスト エイティワン）は、[1981年](../Page/1981年.md "wikilink")に発売された[スペクトラムの](../Page/スペクトラム_\(日本のバンド\).md "wikilink")[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。
+『**スペクトラム BEST '81**』（スペクトラム ベスト エイティワン）は、[1981年](../Page/1981年.md "wikilink")に発売された[スペクトラムの](../Page/スペクトラム_\(日本のバンド\).md "wikilink")[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。
 
-[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")、『[スペクトラム伝説](https://ja.wikipedia.org/wiki/スペクトラム伝説 "wikilink")』に改題され、再発された。
+[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")、『[スペクトラム伝説](../Page/スペクトラム伝説.md "wikilink")』に改題され、再発された。
 
 ## 収録曲
 

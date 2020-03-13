@@ -1,9 +1,9 @@
 > この記事は[FROGMAN](https://ja.wikipedia.org/wiki/FROGMAN)から翻訳されています。
 
 
-**FROGMAN**（フロッグマン、蛙男、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[4月9日](../Page/4月9日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性](../Page/男性.md "wikilink")[企業家](https://ja.wikipedia.org/wiki/企業家 "wikilink")、[CGクリエイター](../Page/コンピュータグラフィックス.md "wikilink")、[映画監督](../Page/映画監督.md "wikilink")、[声優](../Page/声優.md "wikilink")。本名：**小野 亮**（おの りょう）。[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[板橋区](https://ja.wikipedia.org/wiki/板橋区 "wikilink")出身で、長く[島根県](../Page/島根県.md "wikilink")に在住していた（後述）。[ディー・エル・イー](../Page/ディー・エル・イー.md "wikilink")所属、[蛙男商会](https://ja.wikipedia.org/wiki/蛙男商会 "wikilink")（かえるおとこしょうかい）代表。
+**FROGMAN**（フロッグマン、蛙男、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[4月9日](../Page/4月9日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性](../Page/男性.md "wikilink")[企業家](https://ja.wikipedia.org/wiki/企業家 "wikilink")、[CGクリエイター](../Page/コンピュータグラフィックス.md "wikilink")、[映画監督](../Page/映画監督.md "wikilink")、[声優](../Page/声優.md "wikilink")。本名：**小野 亮**（おの りょう）。[東京都](../Page/東京都.md "wikilink")[板橋区](https://ja.wikipedia.org/wiki/板橋区 "wikilink")出身で、長く[島根県](../Page/島根県.md "wikilink")に在住していた（後述）。[ディー・エル・イー](../Page/ディー・エル・イー.md "wikilink")所属、[蛙男商会](https://ja.wikipedia.org/wiki/蛙男商会 "wikilink")（かえるおとこしょうかい）代表。
 
-名前は幼少期に愛聴していた「[スネークマンショー](https://ja.wikipedia.org/wiki/スネークマンショー "wikilink")」に由来。イメージキャラクターは全身が黄色い蛙。
+名前は幼少期に愛聴していた「[スネークマンショー](../Page/スネークマンショー.md "wikilink")」に由来。イメージキャラクターは全身が黄色い蛙。
 
 ## 略歴
 
@@ -11,7 +11,7 @@
 
 映画監督を夢見て[東京都立清瀬高等学校](../Page/東京都立清瀬高等学校.md "wikilink")卒業後、[読売映画社](https://ja.wikipedia.org/wiki/読売映画社 "wikilink")に撮影部として契約入社。その後、[フリーランス](../Page/フリーランス.md "wikilink")の制作部として活動を始める。『[北の国から](../Page/北の国から.md "wikilink")98時代』などのテレビドラマや、[錦織良成](https://ja.wikipedia.org/wiki/錦織良成 "wikilink")監督作品『[守ってあげたい\!](../Page/守ってあげたい!.md "wikilink")』といった映画の撮影に参加。その後、映画「[白い船](https://ja.wikipedia.org/wiki/白い船 "wikilink")」（これも錦織が監督を手掛けた作品である）の撮影先である[島根県](../Page/島根県.md "wikilink")[平田市](../Page/平田市.md "wikilink")（現[出雲市](../Page/出雲市.md "wikilink")平田地区）で知り合った松江出身の女性と結婚したことを機に一旦映像業界を離れ\[1\]、島根に移り住む。 当時借りていた平屋は家賃3万円だった。
 
-「地方発の映像配信」をコンセプトにウェブサイトを立ち上げ、創作活動を行うも注目されなかったが、[青池良輔](https://ja.wikipedia.org/wiki/青池良輔 "wikilink")の『[CATMAN](../Page/CATMAN.md "wikilink")』に触発されて、[2002年](../Page/2002年.md "wikilink")頃にツールを[Adobe Flashに移行し](../Page/Adobe_Flash.md "wikilink")、「練習がてら」に作った『[菅井君と家族石](../Page/菅井君と家族石.md "wikilink")』が大きな注目を浴びる。以降は積極的なセールス展開を続け、「蛙男商会」の設立に至る。[2003年](../Page/2003年.md "wikilink")には[錦織良成](https://ja.wikipedia.org/wiki/錦織良成 "wikilink")が塾長を務める「[しまね映画塾](https://ja.wikipedia.org/wiki/しまね映画塾 "wikilink")」には「小野リョウ」名義で映像制作講座講師として、[2004年](../Page/2004年.md "wikilink")にもスタッフとして参加している。
+「地方発の映像配信」をコンセプトにウェブサイトを立ち上げ、創作活動を行うも注目されなかったが、[青池良輔](../Page/青池良輔.md "wikilink")の『[CATMAN](../Page/CATMAN.md "wikilink")』に触発されて、[2002年](../Page/2002年.md "wikilink")頃にツールを[Adobe Flashに移行し](../Page/Adobe_Flash.md "wikilink")、「練習がてら」に作った『[菅井君と家族石](../Page/菅井君と家族石.md "wikilink")』が大きな注目を浴びる。以降は積極的なセールス展開を続け、「蛙男商会」の設立に至る。[2003年](../Page/2003年.md "wikilink")には[錦織良成](https://ja.wikipedia.org/wiki/錦織良成 "wikilink")が塾長を務める「[しまね映画塾](https://ja.wikipedia.org/wiki/しまね映画塾 "wikilink")」には「小野リョウ」名義で映像制作講座講師として、[2004年](../Page/2004年.md "wikilink")にもスタッフとして参加している。
 
 その後、『[秘密結社鷹の爪](../Page/秘密結社鷹の爪.md "wikilink")』のブレイクで多忙となり、現在は再び東京に居を移し、暇が出来れば島根に出向くという生活を送る\[2\]。
 
@@ -54,11 +54,11 @@
       - 棟方
   - [週刊シマコー](https://ja.wikipedia.org/wiki/週刊シマコー "wikilink")
       - 島耕作
-  - [ルパンしゃんしぇい](https://ja.wikipedia.org/wiki/ルパン三世 "wikilink")
-      - [ルパン三世](https://ja.wikipedia.org/wiki/ルパン三世_\(架空の人物\) "wikilink")
-      - [次元大介](https://ja.wikipedia.org/wiki/次元大介 "wikilink")
-      - [石川五ェ門](https://ja.wikipedia.org/wiki/石川五ェ門_\(ルパン三世\) "wikilink")
-      - [銭形警部](https://ja.wikipedia.org/wiki/銭形幸一 "wikilink")
+  - [ルパンしゃんしぇい](../Page/ルパン三世.md "wikilink")
+      - [ルパン三世](../Page/ルパン三世_\(架空の人物\).md "wikilink")
+      - [次元大介](../Page/次元大介.md "wikilink")
+      - [石川五ェ門](../Page/石川五ェ門_\(ルパン三世\).md "wikilink")
+      - [銭形警部](../Page/銭形幸一.md "wikilink")
   - [天才バカヴォン〜蘇るフランダースの犬〜](https://ja.wikipedia.org/wiki/天才バカヴォン〜蘇るフランダースの犬〜 "wikilink")
       - [バカボンのパパ](../Page/バカボンのパパ.md "wikilink")
       - 神田輝夫
@@ -92,7 +92,7 @@
       - レオナルド博士
       - 顔ダニのダニー
       - バカボンのパパ
-  - [NISSAN あ、安部礼司〜BEYOND THE AVERAGE](https://ja.wikipedia.org/wiki/NISSAN_あ、安部礼司〜BEYOND_THE_AVERAGE "wikilink")
+  - [NISSAN あ、安部礼司〜BEYOND THE AVERAGE](../Page/NISSAN_あ、安部礼司〜BEYOND_THE_AVERAGE.md "wikilink")
       - 本人役
       - 総統
       - 吉田君
@@ -133,7 +133,7 @@
 
 1.  『[秘密結社 鷹の爪](https://ja.wikipedia.org/wiki/秘密結社_鷹の爪 "wikilink") THE MOVIE 〜総統は二度死ぬ〜』の特典映像では「映画業界に捨てられた」と語っている
 2.  [FROGMAN(小野亮)｜観光・コラム・裏情報・イベント情報満載の島根を応援する島根県公認コミュニティ［リメンバーしまね］](http://www.re-member.jp/?m=talentview&p=1249)
-3.  声優を起用する場合もある。その場合[上野アサ](https://ja.wikipedia.org/wiki/亜沙 "wikilink")（亜沙、小室亜沙）、[相沢舞](https://ja.wikipedia.org/wiki/相沢舞 "wikilink")、[坂本頼光](../Page/坂本頼光.md "wikilink")の起用が多い。
+3.  声優を起用する場合もある。その場合[上野アサ](https://ja.wikipedia.org/wiki/亜沙 "wikilink")（亜沙、小室亜沙）、[相沢舞](../Page/相沢舞.md "wikilink")、[坂本頼光](../Page/坂本頼光.md "wikilink")の起用が多い。
 4.
 5.
 6.

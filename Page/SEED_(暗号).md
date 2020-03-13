@@ -11,7 +11,7 @@ SEEDは、[Feistel構造](../Page/Feistel構造.md "wikilink")を採用したブ
 
 一方、欧州の暗号評価プロジェクト[NESSIE](../Page/NESSIE.md "wikilink")からはソフトウェアでの実装にて[Camellia](../Page/Camellia.md "wikilink")よりも高速に動くプラットホームがあるという評価もされている\[2\]。
 
-SEEDは韓国情報通信標準規格 (KICS)、[S/MIME](https://ja.wikipedia.org/wiki/S/MIME "wikilink") (RFC 4010)、[TLS/SSL](../Page/Transport_Layer_Security.md "wikilink") (RFC 4162)、[IPsec](https://ja.wikipedia.org/wiki/IPsec "wikilink") (RFC 4196)、[ISO/IEC 18033](https://ja.wikipedia.org/wiki/ISO/IEC_18033 "wikilink") ([ISO/IEC 18033-3:2010](http://www.iso.org/iso/home/store/catalogue_ics/catalogue_detail_ics.htm?csnumber=54531)) の標準暗号として採用されている。
+SEEDは韓国情報通信標準規格 (KICS)、[S/MIME](https://ja.wikipedia.org/wiki/S/MIME "wikilink") (RFC 4010)、[TLS/SSL](../Page/Transport_Layer_Security.md "wikilink") (RFC 4162)、[IPsec](../Page/IPsec.md "wikilink") (RFC 4196)、[ISO/IEC 18033](https://ja.wikipedia.org/wiki/ISO/IEC_18033 "wikilink") ([ISO/IEC 18033-3:2010](http://www.iso.org/iso/home/store/catalogue_ics/catalogue_detail_ics.htm?csnumber=54531)) の標準暗号として採用されている。
 
 なお、SEEDは韓国国内では広く使われているが、それ以外の国では滅多に使われない。SEEDが韓国国内でしか使われないのは、40ビット SSLの安全性が危惧されていたおりに、128ビットSSLの仕様決定を待たずにKISAがSEEDを標準と定めたからである。しかし、この標準化は韓国国内で用いられるウェブブラウザにしか影響が無く、主要なSSLライブラリやウェブブラウザはSEEDをサポートしていない。このため、韓国国内のユーザーはInternet Explorer上でActiveXコンポーネントを使うことでしか安全にウェブサイトにアクセスすることができない\[3\]。
 
@@ -23,7 +23,7 @@ SEEDは韓国情報通信標準規格 (KICS)、[S/MIME](https://ja.wikipedia.org
 
 ## 関連項目
 
-  - [ブロック暗号](https://ja.wikipedia.org/wiki/ブロック暗号 "wikilink")
+  - [ブロック暗号](../Page/ブロック暗号.md "wikilink")
   - [共通鍵暗号](../Page/共通鍵暗号.md "wikilink")
   - [暗号理論](../Page/暗号理論.md "wikilink")
 

@@ -1,17 +1,17 @@
 > この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
 
 
-『**CRぱちんこ水戸黄門**』（CRぱちんこみとこうもん）は、『[水戸黄門](../Page/水戸黄門.md "wikilink")』をモチーフとした[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")台。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に[京楽産業.](../Page/京楽産業..md "wikilink")からリリースされた。
+『**CRぱちんこ水戸黄門**』（CRぱちんこみとこうもん）は、『[水戸黄門](../Page/水戸黄門.md "wikilink")』をモチーフとした[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")台。[2005年](../Page/2005年.md "wikilink")に[京楽産業.](../Page/京楽産業..md "wikilink")からリリースされた。
 
-兄弟機種として、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に[羽根モノ](https://ja.wikipedia.org/wiki/羽根モノ "wikilink")版『[CRA羽根ぱちんこ水戸黄門](https://ja.wikipedia.org/wiki/CRA羽根ぱちんこ水戸黄門 "wikilink")』が発売された。また、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")には『[CRぱちんこ爽快水戸黄門2](https://ja.wikipedia.org/wiki/CRぱちんこ爽快水戸黄門2 "wikilink")』、[2017年](../Page/2017年.md "wikilink")には『[CRぱちんこ水戸黄門III](https://ja.wikipedia.org/wiki/CRぱちんこ水戸黄門III "wikilink")』が発売された。
+兄弟機種として、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に[羽根モノ](../Page/羽根モノ.md "wikilink")版『[CRA羽根ぱちんこ水戸黄門](https://ja.wikipedia.org/wiki/CRA羽根ぱちんこ水戸黄門 "wikilink")』が発売された。また、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")には『[CRぱちんこ爽快水戸黄門2](https://ja.wikipedia.org/wiki/CRぱちんこ爽快水戸黄門2 "wikilink")』、[2017年](../Page/2017年.md "wikilink")には『[CRぱちんこ水戸黄門III](https://ja.wikipedia.org/wiki/CRぱちんこ水戸黄門III "wikilink")』が発売された。
 
 ## 概要
 
-「低確率」「当たれば爆裂」という[ギャンブル](https://ja.wikipedia.org/wiki/ギャンブル "wikilink")要素の非常に強かった『[CRぱちんこウルトラセブン](../Page/CRぱちんこウルトラセブン.md "wikilink")』の後継機。通常大当たり確率が1/397、[確率変動](https://ja.wikipedia.org/wiki/確率変動 "wikilink")継続率が67%と、ウルトラセブンに比べてややマイルドな性能となっている。
+「低確率」「当たれば爆裂」という[ギャンブル](https://ja.wikipedia.org/wiki/ギャンブル "wikilink")要素の非常に強かった『[CRぱちんこウルトラセブン](../Page/CRぱちんこウルトラセブン.md "wikilink")』の後継機。通常大当たり確率が1/397、[確率変動](../Page/確率変動.md "wikilink")継続率が67%と、ウルトラセブンに比べてややマイルドな性能となっている。
 
 [小説](../Page/小説.md "wikilink")・[テレビドラマ](../Page/テレビドラマ.md "wikilink")・[映画](../Page/映画.md "wikilink")などで著名な水戸黄門をテーマに、誰もが知っている魅力を素直に演出要素にしたゲーム性の高さが出ている。また、ゲーム中には[東野英治郎](../Page/東野英治郎.md "wikilink")主演当時のテレビドラマ版の実写映像が使用されている。セブンに引き続いて2005年夏期のヒット作となった。
 
-なお、東野の[水戸光圀時代の](../Page/徳川光圀.md "wikilink")[佐々木助三郎](https://ja.wikipedia.org/wiki/佐々木助三郎 "wikilink")（通称：助さん）役は[杉良太郎](https://ja.wikipedia.org/wiki/杉良太郎 "wikilink")と[里見浩太朗](https://ja.wikipedia.org/wiki/里見浩太朗 "wikilink")、[渥美格之進](https://ja.wikipedia.org/wiki/渥美格之進 "wikilink")（通称：格さん）役は[横内正](https://ja.wikipedia.org/wiki/横内正 "wikilink")と[大和田伸也](https://ja.wikipedia.org/wiki/大和田伸也 "wikilink")であり、パチンコで共演している助さんの[あおい輝彦](https://ja.wikipedia.org/wiki/あおい輝彦 "wikilink")と格さんの[伊吹吾郎](https://ja.wikipedia.org/wiki/伊吹吾郎 "wikilink")との共演は実際にはない。
+なお、東野の[水戸光圀時代の](../Page/徳川光圀.md "wikilink")[佐々木助三郎](../Page/佐々木助三郎.md "wikilink")（通称：助さん）役は[杉良太郎](../Page/杉良太郎.md "wikilink")と[里見浩太朗](../Page/里見浩太朗.md "wikilink")、[渥美格之進](../Page/渥美格之進.md "wikilink")（通称：格さん）役は[横内正](../Page/横内正.md "wikilink")と[大和田伸也](../Page/大和田伸也.md "wikilink")であり、パチンコで共演している助さんの[あおい輝彦](https://ja.wikipedia.org/wiki/あおい輝彦 "wikilink")と格さんの[伊吹吾郎](../Page/伊吹吾郎.md "wikilink")との共演は実際にはない。
 
 ## 主な予告
 

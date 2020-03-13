@@ -19,11 +19,11 @@
 
 子会社の**KTFテクノロジーズ**（KTFT、ブランド名 : Ever）を通じ、自社向け端末の開発の他、海外への端末輸出も行っている。デジタル移動体放送 (DMB) のサービスも[SKテレコム](../Page/SKテレコム.md "wikilink")に続き行っていた。
 
-また[2004年](../Page/2004年.md "wikilink")には[コスダック](https://ja.wikipedia.org/wiki/KOSDAQ "wikilink")（店頭市場）から[韓国証券取引所](https://ja.wikipedia.org/wiki/韓国証券取引所 "wikilink")（現・[韓国取引所](https://ja.wikipedia.org/wiki/韓国取引所 "wikilink")）へ株式を上場していた（証券コード : 32390）。また[韓国バスケットボールリーグ](https://ja.wikipedia.org/wiki/韓国バスケットボールリーグ "wikilink") (KBL) に**[釜山KTFマジックウィンズ](https://ja.wikipedia.org/wiki/釜山KTFマジックウィンズ "wikilink")**を新規に参入させ、2000年からは[eスポーツ](https://ja.wikipedia.org/wiki/eスポーツ "wikilink")の名門ゲームチームである **KTF Magicns**（現在は****に名称変更）のスポンサーも務めていた。
+また[2004年](../Page/2004年.md "wikilink")には[コスダック](https://ja.wikipedia.org/wiki/KOSDAQ "wikilink")（店頭市場）から[韓国証券取引所](https://ja.wikipedia.org/wiki/韓国証券取引所 "wikilink")（現・[韓国取引所](https://ja.wikipedia.org/wiki/韓国取引所 "wikilink")）へ株式を上場していた（証券コード : 32390）。また[韓国バスケットボールリーグ](../Page/韓国バスケットボールリーグ.md "wikilink") (KBL) に**[釜山KTFマジックウィンズ](https://ja.wikipedia.org/wiki/釜山KTFマジックウィンズ "wikilink")**を新規に参入させ、2000年からは[eスポーツ](https://ja.wikipedia.org/wiki/eスポーツ "wikilink")の名門ゲームチームである **KTF Magicns**（現在は****に名称変更）のスポンサーも務めていた。
 
 ## NTTドコモとの提携
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")末、第3世代サービス強化のため、KTは持株分を[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")に売却して資本提携を行なった。NTTドコモはHSDPA端末である[A2502 HIGH-SPEED](../Page/A2502_HIGH-SPEED.md "wikilink")、LG電子製FOMA[L706ie](../Page/L706ie.md "wikilink")、[Android](../Page/Android.md "wikilink")携帯電話を共同調達する。2008年3月、KTF、NTTドコモを含む[アジア](https://ja.wikipedia.org/wiki/アジア "wikilink")携帯7事業者で形成する[コネクサス・モバイル・アライアンス](https://ja.wikipedia.org/wiki/コネクサス・モバイル・アライアンス "wikilink")は、データー通信の格安[国際ローミング](https://ja.wikipedia.org/wiki/国際ローミング "wikilink")プランを発表した。
+[2005年](../Page/2005年.md "wikilink")末、第3世代サービス強化のため、KTは持株分を[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")に売却して資本提携を行なった。NTTドコモはHSDPA端末である[A2502 HIGH-SPEED](../Page/A2502_HIGH-SPEED.md "wikilink")、LG電子製FOMA[L706ie](../Page/L706ie.md "wikilink")、[Android](../Page/Android.md "wikilink")携帯電話を共同調達する。2008年3月、KTF、NTTドコモを含む[アジア](../Page/アジア.md "wikilink")携帯7事業者で形成する[コネクサス・モバイル・アライアンス](https://ja.wikipedia.org/wiki/コネクサス・モバイル・アライアンス "wikilink")は、データー通信の格安[国際ローミング](https://ja.wikipedia.org/wiki/国際ローミング "wikilink")プランを発表した。
 
 ### 海外プラスナンバー
 

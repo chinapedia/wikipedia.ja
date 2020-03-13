@@ -42,9 +42,9 @@
 
 :\* 杉本美弥子 - [乙葉](../Page/乙葉.md "wikilink")
 
-:\* 山元町子 - [根岸季衣](https://ja.wikipedia.org/wiki/根岸季衣 "wikilink")
+:\* 山元町子 - [根岸季衣](../Page/根岸季衣.md "wikilink")
 
-:\* 河野昇一 - [田口浩正](https://ja.wikipedia.org/wiki/田口浩正 "wikilink")
+:\* 河野昇一 - [田口浩正](../Page/田口浩正.md "wikilink")
 
 :\* 藤本進吾 - [蒲生純一](../Page/蒲生純一.md "wikilink")
 
@@ -86,11 +86,11 @@
 
 :\* 雨宮由紀夫 - [上山竜司](https://ja.wikipedia.org/wiki/上山竜司 "wikilink")
 
-:\* SM嬢 - [須之内美帆子](https://ja.wikipedia.org/wiki/須之内美帆子 "wikilink")
+:\* SM嬢 - [須之内美帆子](../Page/須之内美帆子.md "wikilink")
 
 :\*クレル - エバノフ廉
 
-:\* 岩瀬庄一 - [峰岸徹](https://ja.wikipedia.org/wiki/峰岸徹 "wikilink")
+:\* 岩瀬庄一 - [峰岸徹](../Page/峰岸徹.md "wikilink")
 
 :\* 山川健策 - [嶋田久作](../Page/嶋田久作.md "wikilink")
 
@@ -128,11 +128,11 @@
 
 :\* 野上愛子 - [石川梨華](https://ja.wikipedia.org/wiki/石川梨華 "wikilink")
 
-:\* 白井透 - [和泉元彌](https://ja.wikipedia.org/wiki/和泉元彌 "wikilink")
+:\* 白井透 - [和泉元彌](../Page/和泉元彌.md "wikilink")
 
 :\* 野上美禰子 - [佐藤仁美](https://ja.wikipedia.org/wiki/佐藤仁美 "wikilink")（友情出演）
 
-:\* 綿貫 - [松重豊](https://ja.wikipedia.org/wiki/松重豊 "wikilink")
+:\* 綿貫 - [松重豊](../Page/松重豊.md "wikilink")
 
 :\* 野上佐代子 - [清水めぐみ](https://ja.wikipedia.org/wiki/清水めぐみ_\(女優\) "wikilink")
 
@@ -144,9 +144,9 @@
 
 :\* 大河原由美子 - [葉月里緒奈](https://ja.wikipedia.org/wiki/葉月里緒奈 "wikilink")
 
-:\* 庄司秘書 - [小橋賢児](https://ja.wikipedia.org/wiki/小橋賢児 "wikilink")
+:\* 庄司秘書 - [小橋賢児](../Page/小橋賢児.md "wikilink")
 
-:\* 姫田吾郎 - [津田寛治](https://ja.wikipedia.org/wiki/津田寛治 "wikilink")
+:\* 姫田吾郎 - [津田寛治](../Page/津田寛治.md "wikilink")
 
 :\* 大河原義明 - [布施明](https://ja.wikipedia.org/wiki/布施明 "wikilink")
 
@@ -154,17 +154,17 @@
 
   - 第9話 「怪人二十面相（前編）」
 
-:\* 澤村鈴子 - [藤谷美和子](https://ja.wikipedia.org/wiki/藤谷美和子 "wikilink")
+:\* 澤村鈴子 - [藤谷美和子](../Page/藤谷美和子.md "wikilink")
 
 :\* 重松優子 - [網浜直子](https://ja.wikipedia.org/wiki/網浜直子 "wikilink")
 
 :\* 滝口美咲 - [藤崎奈々子](https://ja.wikipedia.org/wiki/藤崎奈々子 "wikilink")
 
-:\* 森島 - [大倉孝二](https://ja.wikipedia.org/wiki/大倉孝二 "wikilink")
+:\* 森島 - [大倉孝二](../Page/大倉孝二.md "wikilink")
 
 :\* [木村祐一](../Page/木村祐一.md "wikilink")
 
-:\*戸田幸一 - [梅垣義明](https://ja.wikipedia.org/wiki/梅垣義明 "wikilink")
+:\*戸田幸一 - [梅垣義明](../Page/梅垣義明.md "wikilink")
 
   -
 

@@ -1,9 +1,9 @@
 > この記事は[SHIHO \(\)](https://ja.wikipedia.org/wiki/SHIHO_\(\))から翻訳されています。
 
 
-**SHIHO**（しほ、[1976年](../Page/1976年.md "wikilink")[6月6日](../Page/6月6日.md "wikilink") - ）は日本の女性[ファッションモデル](https://ja.wikipedia.org/wiki/ファッションモデル "wikilink")。[滋賀県](../Page/滋賀県.md "wikilink")[草津市](../Page/草津市.md "wikilink")出身。サトルジャパン、[スターダストプロモーション](../Page/スターダストプロモーション.md "wikilink")を経てshiho\&styleに所属。
+**SHIHO**（しほ、[1976年](../Page/1976年.md "wikilink")[6月6日](../Page/6月6日.md "wikilink") - ）は日本の女性[ファッションモデル](../Page/ファッションモデル.md "wikilink")。[滋賀県](../Page/滋賀県.md "wikilink")[草津市](../Page/草津市.md "wikilink")出身。サトルジャパン、[スターダストプロモーション](../Page/スターダストプロモーション.md "wikilink")を経てshiho\&styleに所属。
 
-現在、韓国では**矢野志保** () 名義で活動中。在日コリアンで格闘家の[秋山成勲](https://ja.wikipedia.org/wiki/秋山成勲 "wikilink")は夫である。
+現在、韓国では**矢野志保** () 名義で活動中。在日コリアンで格闘家の[秋山成勲](../Page/秋山成勲.md "wikilink")は夫である。
 
 ## 略歴
 
@@ -17,12 +17,12 @@
   - [2003年](../Page/2003年.md "wikilink")
       - 9月に女性誌『[an・an](https://ja.wikipedia.org/wiki/an・an "wikilink")』の1391号で[セミヌード](../Page/セミヌード.md "wikilink")を披露。
       - 10月から[TOKYO FMの週末枠で](../Page/エフエム東京.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")『[SHIHOのNISSANナチュラル・パレット](../Page/SHIHOのNISSANナチュラル・パレット.md "wikilink")』を始める。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
       - adidas と日本人モデルとして初のアンバサダー契約を結ぶ。また[サッポロビール](../Page/サッポロビール.md "wikilink")「[ドラフトワン](https://ja.wikipedia.org/wiki/サッポロ_ドラフトワン "wikilink")」花王「ビオレ」、ヤマト運輸、ワコールのCMに採用され、映画『[ヘイフラワーとキルトシュー](https://ja.wikipedia.org/wiki/ヘイフラワーとキルトシュー "wikilink")』の翻訳監修を務めた。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")
       - NHK「トップランナー」で箭内道彦とともに司会に抜擢される。
   - [2009年](../Page/2009年.md "wikilink")
-      - [総合格闘家](https://ja.wikipedia.org/wiki/総合格闘家 "wikilink")の[秋山成勲](https://ja.wikipedia.org/wiki/秋山成勲 "wikilink")と入籍。「一緒にいて安心でき、いつでもどんな時も私が私らしくいられる人です。」と語った。
+      - [総合格闘家](https://ja.wikipedia.org/wiki/総合格闘家 "wikilink")の[秋山成勲](../Page/秋山成勲.md "wikilink")と入籍。「一緒にいて安心でき、いつでもどんな時も私が私らしくいられる人です。」と語った。
   - [2011年](../Page/2011年.md "wikilink")
       - 10月24日に女児を出産して2ヶ月後に体重を10キログラムの減量に成功し、その際に用いた[エクササイズを著した](../Page/フィジカルトレーニング.md "wikilink")『トリニティスリム“全身やせ”ストレッチ』は発売約2ヶ月で12万部を売り上げた。
   - [2014年](../Page/2014年.md "wikilink")

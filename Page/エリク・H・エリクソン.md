@@ -1,7 +1,7 @@
 > この記事は[H](https://ja.wikipedia.org/wiki/H)から翻訳されています。
 
 
-**エリク・ホーンブルガー・エリクソン**（, [1902年](../Page/1902年.md "wikilink")[6月15日](../Page/6月15日.md "wikilink") - [1994年](../Page/1994年.md "wikilink")[5月12日](../Page/5月12日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[発達心理学](../Page/発達心理学.md "wikilink")者で、[精神分析家](https://ja.wikipedia.org/wiki/精神分析家 "wikilink")\[1\]。「[アイデンティティ](../Page/自己同一性.md "wikilink")」の概念、[エリクソンの心理社会的発達理論を提唱し](../Page/発達課題.md "wikilink")、米国で最も影響力のあった精神分析家の一人とされる\[2\]。
+**エリク・ホーンブルガー・エリクソン**（, [1902年](../Page/1902年.md "wikilink")[6月15日](../Page/6月15日.md "wikilink") - [1994年](../Page/1994年.md "wikilink")[5月12日](../Page/5月12日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[発達心理学](../Page/発達心理学.md "wikilink")者で、[精神分析家](../Page/精神分析家.md "wikilink")\[1\]。「[アイデンティティ](../Page/自己同一性.md "wikilink")」の概念、[エリクソンの心理社会的発達理論を提唱し](../Page/発達課題.md "wikilink")、米国で最も影響力のあった精神分析家の一人とされる\[2\]。
 
 ## 経歴
 
@@ -11,7 +11,7 @@
 
 エリクソンはその[北欧](../Page/北欧.md "wikilink")系の風貌からユダヤ系社会やユダヤ教の教会で（逆）差別を受け、またドイツ人コミュニティからは[ユダヤ人](https://ja.wikipedia.org/wiki/ユダヤ人 "wikilink")であるという理由で差別を受け、二重の差別を受けて育った。実父の出自や所在が分からない状態で育った事も加え、彼の出自や生育歴がその後の理論・思想形成に大きな影響を及ぼしている。
 
-カールスルーエの[ギムナジウム](https://ja.wikipedia.org/wiki/ギムナジウム "wikilink")[ビスマルク校を卒業後は](https://ja.wikipedia.org/wiki/:de:Bismarck-Gymnasium_Karlsruhe "wikilink")、芸術学院に進学するものの卒業はせず、その後各地を転々とし放浪生活を送った。エリクソン自身は画家を目指していたと語り、自身の特徴的な文章が画家を目指していたことと関係があると述べている。
+カールスルーエの[ギムナジウム](../Page/ギムナジウム.md "wikilink")[ビスマルク校を卒業後は](https://ja.wikipedia.org/wiki/:de:Bismarck-Gymnasium_Karlsruhe "wikilink")、芸術学院に進学するものの卒業はせず、その後各地を転々とし放浪生活を送った。エリクソン自身は画家を目指していたと語り、自身の特徴的な文章が画家を目指していたことと関係があると述べている。
 
 ### ウィーン時代
 
@@ -72,7 +72,7 @@
 <td><p>家族</p></td>
 <td><p>動き、移動し、行為を行ってよいか?</p></td>
 <td><p>探検、道具の使用、芸術表現</p></td>
-<td><p>変換症、<a href="https://ja.wikipedia.org/wiki/恐怖症" title="wikilink">恐怖症</a>、<a href="../Page/心身症.md" title="wikilink">心身症</a>、制止</p></td>
+<td><p>変換症、<a href="../Page/恐怖症.md" title="wikilink">恐怖症</a>、<a href="../Page/心身症.md" title="wikilink">心身症</a>、制止</p></td>
 </tr>
 <tr class="even">
 <td><p>| 5歳-</p></td>
@@ -93,7 +93,7 @@
 <td><p>仲間、ロールモデル</p></td>
 <td><p>私は誰か? 誰でいられるか?</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/社会的関係" title="wikilink">社会的関係</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/非行" title="wikilink">非行</a>、<a href="../Page/性同一性障害.md" title="wikilink">性同一性障害</a>、境界性<a href="../Page/精神病.md" title="wikilink">精神病</a>性病態</p></td>
+<td><p><a href="../Page/非行.md" title="wikilink">非行</a>、<a href="../Page/性同一性障害.md" title="wikilink">性同一性障害</a>、境界性<a href="../Page/精神病.md" title="wikilink">精神病</a>性病態</p></td>
 </tr>
 <tr class="even">
 <td><p>| 20–39 歳</p></td>
@@ -103,7 +103,7 @@
 <td><p>友だち、パートナー</p></td>
 <td><p>愛することが出来るか?</p></td>
 <td><p>恋愛関係</p></td>
-<td><p><a href="../Page/スキゾイドパーソナリティ障害.md" title="wikilink">スキゾイドパーソナリティ障害</a>、<a href="https://ja.wikipedia.org/wiki/引きこもり" title="wikilink">引きこもり</a></p></td>
+<td><p><a href="../Page/スキゾイドパーソナリティ障害.md" title="wikilink">スキゾイドパーソナリティ障害</a>、<a href="../Page/引きこもり.md" title="wikilink">引きこもり</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>| 40–64 歳</p></td>

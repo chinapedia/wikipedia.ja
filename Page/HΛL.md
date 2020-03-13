@@ -56,7 +56,7 @@
 
 ## 経歴
 
-  - 1996年、佐藤あつしと梅崎俊春によってHΛLを結成。派手なデジタル[ビートや](https://ja.wikipedia.org/wiki/ビート_\(音楽\) "wikilink")[エレキギター](https://ja.wikipedia.org/wiki/エレキギター "wikilink")を使ったエッジの効いたサウンドを主軸にした音楽を武器に活動を開始。
+  - 1996年、佐藤あつしと梅崎俊春によってHΛLを結成。派手なデジタル[ビートや](../Page/ビート_\(音楽\).md "wikilink")[エレキギター](https://ja.wikipedia.org/wiki/エレキギター "wikilink")を使ったエッジの効いたサウンドを主軸にした音楽を武器に活動を開始。
   - 1999年から[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")を中心に、[エイベックスに所属するアーティストの楽曲に多く携わるようになる](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。（佐藤がHΛL在籍時にエイベックスからリリースされた楽曲の基本アレンジは全て彼が行っていた。）
   - 2000年、オーディションで選ばれた女性ボーカリスト**[HΛLNA](https://ja.wikipedia.org/wiki/HΛLNA "wikilink")**を加入させ、HΛL名義で[avex traxからデビューする](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
   - 2002年、浜崎あゆみの「[Free & Easy](https://ja.wikipedia.org/wiki/Free_&_Easy "wikilink")」で[第44回日本レコード大賞](https://ja.wikipedia.org/wiki/第44回日本レコード大賞 "wikilink")の編曲賞を獲得した。
@@ -100,7 +100,7 @@
 
 ## 主な提供楽曲
 
-  - [朝日奈夕子](https://ja.wikipedia.org/wiki/朝日奈夕子 "wikilink")（[鉄炮塚葉子](https://ja.wikipedia.org/wiki/鉄炮塚葉子 "wikilink")）
+  - [朝日奈夕子](https://ja.wikipedia.org/wiki/朝日奈夕子 "wikilink")（[鉄炮塚葉子](../Page/鉄炮塚葉子.md "wikilink")）
       - 愛につかまらないで（作曲）\[2\]
   - [伊藤由奈](https://ja.wikipedia.org/wiki/伊藤由奈 "wikilink")
       - ENDLESS STORY（編曲）
@@ -118,7 +118,7 @@
       - 季節の旅人（編曲）
   - 川村知砂
       - Snow\&Loving Paradise（作曲）
-  - [King\&President](https://ja.wikipedia.org/wiki/King&President "wikilink")
+  - [King\&President](../Page/King&President.md "wikilink")
       - 社長やっちゃったよ（作曲・編曲）
       - 論拠を示せ（作曲・編曲）
   - [キンヤ](https://ja.wikipedia.org/wiki/キンヤ "wikilink")
@@ -130,7 +130,7 @@
       - フラワー（作詞・作曲）（作曲：音妃と共作）
   - ケリー・チャン
       - Transformation（編曲）
-  - [後藤沙緒里](https://ja.wikipedia.org/wiki/後藤沙緒里 "wikilink")
+  - [後藤沙緒里](../Page/後藤沙緒里.md "wikilink")
       - 君のカケラ（作曲・編曲）
       - キミといる今（作曲・編曲）
       - 1st degree（作曲・編曲）
@@ -240,7 +240,7 @@
       - わかってないね（編曲）
   - Little Voice
       - Count down（編曲）
-  - [BOYSTYLE](https://ja.wikipedia.org/wiki/BOYSTYLE "wikilink")
+  - [BOYSTYLE](../Page/BOYSTYLE.md "wikilink")
       - Promise you（編曲）
       - MIRAI（作曲・編曲）
       - 花咲く丘へ（作曲・編曲）
@@ -262,7 +262,7 @@
       - Sunday Sunshine（編曲）
       - Rainbow Shower（編曲）
       - Neverending Story（編曲）
-  - [Lia](https://ja.wikipedia.org/wiki/Lia "wikilink")
+  - [Lia](../Page/Lia.md "wikilink")
       - 明日に向かって Get Dream\!（作詞・作曲・編曲）
       - Pride -try to fight\!-（作曲・編曲）
   - [Ruppina](https://ja.wikipedia.org/wiki/Ruppina "wikilink")

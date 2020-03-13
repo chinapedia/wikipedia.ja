@@ -8,14 +8,14 @@
   - [フォーカルプレーンシャッター](../Page/フォーカルプレーンシャッター.md "wikilink") (Forcal Plain shutter)
   - [フランス領ポリネシア](../Page/フランス領ポリネシア.md "wikilink") (French Polynesia)
   - [一人称](../Page/人称.md "wikilink") (First Person)
-  - [Microsoft FrontPage](https://ja.wikipedia.org/wiki/Microsoft_FrontPage "wikilink")
+  - [Microsoft FrontPage](../Page/Microsoft_FrontPage.md "wikilink")
   - [浮動小数点数](../Page/浮動小数点数.md "wikilink") (Floating Point)
   - [ザ・フェデラリスト](../Page/ザ・フェデラリスト.md "wikilink") (The Federalist Papers)
   - [万年筆](../Page/万年筆.md "wikilink") (Fountain Pen)
-  - [NHK福島放送局](../Page/NHK福島放送局.md "wikilink")の[ラジオ第1放送](https://ja.wikipedia.org/wiki/NHKラジオ第1放送 "wikilink")・[総合テレビ](../Page/NHK総合テレビジョン.md "wikilink")・[FM放送の](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink")[コールサイン](https://ja.wikipedia.org/wiki/コールサイン "wikilink") （JO**FP**/-DTV/-FM）
+  - [NHK福島放送局](../Page/NHK福島放送局.md "wikilink")の[ラジオ第1放送](../Page/NHKラジオ第1放送.md "wikilink")・[総合テレビ](../Page/NHK総合テレビジョン.md "wikilink")・[FM放送の](../Page/NHK-FM放送.md "wikilink")[コールサイン](https://ja.wikipedia.org/wiki/コールサイン "wikilink") （JO**FP**/-DTV/-FM）
   - [フライト・プラン](../Page/フライト・プラン.md "wikilink") (Flight-Plan) - [岐阜県](../Page/岐阜県.md "wikilink")[岐阜市](../Page/岐阜市.md "wikilink")に本社を置いていたゲーム開発会社
-  - [前頭極](https://ja.wikipedia.org/wiki/前頭極 "wikilink") (Frontal Pole) - [大脳](https://ja.wikipedia.org/wiki/大脳 "wikilink")の一部
-  - [フードプロセッサー](https://ja.wikipedia.org/wiki/フードプロセッサー "wikilink") (Food Processor) - 調理器具
+  - [前頭極](https://ja.wikipedia.org/wiki/前頭極 "wikilink") (Frontal Pole) - [大脳](../Page/大脳.md "wikilink")の一部
+  - [フードプロセッサー](../Page/フードプロセッサー.md "wikilink") (Food Processor) - 調理器具
   - [FPコーポレーション](https://ja.wikipedia.org/wiki/FPコーポレーション "wikilink") - [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")に本社を置く住宅メーカー。「FPの家」で知られる。[ニチハ](../Page/ニチハ.md "wikilink")グループ。
   - [核分裂生成物](https://ja.wikipedia.org/wiki/核分裂生成物 "wikilink") (Fission Products)
   - [フィーチャー・フォン](https://ja.wikipedia.org/wiki/フィーチャー・フォン "wikilink")（Feature Phone） - [スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")（Smart Phone）の前に普及した[携帯電話](../Page/携帯電話.md "wikilink")
@@ -28,7 +28,7 @@
 
 ## 関連項目
 
-  - [PF](https://ja.wikipedia.org/wiki/PF "wikilink")
+  - [PF](../Page/PF.md "wikilink")
 
   - [ラテン文字のアルファベット二文字組み合わせの一覧](../Page/ラテン文字のアルファベット二文字組み合わせの一覧.md "wikilink")
 

@@ -19,7 +19,7 @@
   - [ハリバートンの](https://ja.wikipedia.org/wiki/ハリバートン_\(企業\) "wikilink")[ティッカーシンボル](../Page/ティッカーシンボル.md "wikilink")。
   - [ハワイアン航空](../Page/ハワイアン航空.md "wikilink")の[ICAO](../Page/国際民間航空機関.md "wikilink")[航空会社コード](../Page/航空会社コード.md "wikilink")。
   - [ヒンドスタン航空機](https://ja.wikipedia.org/wiki/ヒンドスタン航空機 "wikilink")（[Hindustan Aeronautics Limited](https://ja.wikipedia.org/wiki/:en:Hindustan_Aeronautics_Limited "wikilink")） - [インド](../Page/インド.md "wikilink")の航空機メーカー。
-  - [HAL (専門学校)](../Page/HAL_\(専門学校\).md "wikilink") - 日本の[専門学校](../Page/専門学校.md "wikilink")。旧校名は「コンピュータ総合学園HAL」で、[学校法人日本教育財団](https://ja.wikipedia.org/wiki/学校法人日本教育財団 "wikilink")が運営。
+  - [HAL (専門学校)](../Page/HAL_\(専門学校\).md "wikilink") - 日本の[専門学校](../Page/専門学校.md "wikilink")。旧校名は「コンピュータ総合学園HAL」で、[学校法人日本教育財団](../Page/学校法人日本教育財団.md "wikilink")が運営。
   - [HAL研究所](https://ja.wikipedia.org/wiki/HAL研究所 "wikilink") - 日本の[ゲームソフト](../Page/ゲームソフト.md "wikilink")開発会社。
   - HAL INDUSTRY（[ハル・インダストリ](https://ja.wikipedia.org/wiki/ハル・インダストリ "wikilink")）- 日本の消臭研究会社。
   - [HALコンピュータシステム](https://ja.wikipedia.org/wiki/HALコンピュータシステム "wikilink") - コンピュータ製造会社。
@@ -28,7 +28,7 @@
 
 ## 人物・グループ
 
-  - [駒澤晴信](https://ja.wikipedia.org/wiki/駒澤晴信 "wikilink") - 日本の俳優。モデルとしての活動時の名義が「HAL」
+  - [駒澤晴信](../Page/駒澤晴信.md "wikilink") - 日本の俳優。モデルとしての活動時の名義が「HAL」
   - [hàl](https://ja.wikipedia.org/wiki/hal "wikilink") - 日本の歌手。
   - [HAL (ミュージシャン)](https://ja.wikipedia.org/wiki/HAL_\(ミュージシャン\) "wikilink") - 日本のギタリスト。
   - [HΛL](../Page/HΛL.md "wikilink") - 日本の[音楽グループ](https://ja.wikipedia.org/wiki/音楽グループ "wikilink")。

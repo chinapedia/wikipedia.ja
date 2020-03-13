@@ -1,7 +1,7 @@
 > この記事は[CFP](https://ja.wikipedia.org/wiki/CFP)から翻訳されています。
 
 
-**オリンピアコスCFP**（**Olympiacos Sindesmos Filathlon Pireos** (, Olympic Club of Fans of Piraeus)）は、[ギリシャ](../Page/ギリシャ.md "wikilink")・[ピレウス](https://ja.wikipedia.org/wiki/ピレウス "wikilink")に本拠地を置く総合スポーツクラブ。
+**オリンピアコスCFP**（**Olympiacos Sindesmos Filathlon Pireos** (, Olympic Club of Fans of Piraeus)）は、[ギリシャ](../Page/ギリシャ.md "wikilink")・[ピレウス](../Page/ピレウス.md "wikilink")に本拠地を置く総合スポーツクラブ。
 
 ## 概略
 
@@ -45,11 +45,11 @@
 
 ### アリーナ
 
-オリンピアコスBCのホームアリーナは、[アテネ](../Page/アテネ.md "wikilink")・[ピレウス](https://ja.wikipedia.org/wiki/ピレウス "wikilink")にあるピース&フレンドシップ・スタジアム（）である。通称SEF（）。オリンピアコスFCのホームスタジアムである[カライスカキス・スタジアムの反対側にある](https://ja.wikipedia.org/wiki/スタディオ・ヨルギオス・カライスカキス "wikilink")。1985年に完成し、オリンピアコスBCは1991年からホームアリーナとして利用している。ヨーロッパでは最も大きなアリーナの一つで、座席は14,095席あった。しかし、近年オリンピアコスマッチの為に12,171 席まで減らされた。[2004年アテネオリンピックのバレーボール会場](../Page/2004年アテネオリンピックのバレーボール競技.md "wikilink")、[1987年ユーロバスケット](https://ja.wikipedia.org/wiki/1987年バスケットボール男子欧州選手権 "wikilink")、[1998年バスケットボール世界選手権](../Page/1998年バスケットボール世界選手権.md "wikilink")のメインアリーナとして利用された。[2004年アテネオリンピック](../Page/2004年アテネオリンピック.md "wikilink")の為に一度改築されている。
+オリンピアコスBCのホームアリーナは、[アテネ](../Page/アテネ.md "wikilink")・[ピレウス](../Page/ピレウス.md "wikilink")にあるピース&フレンドシップ・スタジアム（）である。通称SEF（）。オリンピアコスFCのホームスタジアムである[カライスカキス・スタジアムの反対側にある](https://ja.wikipedia.org/wiki/スタディオ・ヨルギオス・カライスカキス "wikilink")。1985年に完成し、オリンピアコスBCは1991年からホームアリーナとして利用している。ヨーロッパでは最も大きなアリーナの一つで、座席は14,095席あった。しかし、近年オリンピアコスマッチの為に12,171 席まで減らされた。[2004年アテネオリンピックのバレーボール会場](../Page/2004年アテネオリンピックのバレーボール競技.md "wikilink")、[1987年ユーロバスケット](https://ja.wikipedia.org/wiki/1987年バスケットボール男子欧州選手権 "wikilink")、[1998年バスケットボール世界選手権](../Page/1998年バスケットボール世界選手権.md "wikilink")のメインアリーナとして利用された。[2004年アテネオリンピック](../Page/2004年アテネオリンピック.md "wikilink")の為に一度改築されている。
 
 ### 歴代所属選手
 
-  - [ポイントガード](https://ja.wikipedia.org/wiki/ポイントガード "wikilink")
+  - [ポイントガード](../Page/ポイントガード.md "wikilink")
 
 <!-- end list -->
 

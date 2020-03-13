@@ -7,7 +7,7 @@
 
 [社交ダンス](../Page/社交ダンス.md "wikilink")教室を舞台とした[ハートフルコメディ](https://ja.wikipedia.org/wiki/喜劇#ハートフルコメディ "wikilink")。[日本アカデミー賞](../Page/日本アカデミー賞.md "wikilink")独占を始めとする、数々の映画賞に輝いた。配給収入は16億円で、1996年の[日本映画](../Page/日本映画.md "wikilink")第2位を記録\[1\]。
 
-また、[世界](../Page/世界.md "wikilink")においても19ヵ国で公開され高い評価を得ており、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")においては200万人を動員し、当時の[アニメ](../Page/アニメ.md "wikilink")を除く米国での日本映画の興行収入記録を作った。興行収入は約950万[米ドル](../Page/アメリカ合衆国ドル.md "wikilink")\[2\]。[2004年](../Page/2004年.md "wikilink")には[ピーター・チェルソム](https://ja.wikipedia.org/wiki/ピーター・チェルソム "wikilink")監督、[リチャード・ギア](../Page/リチャード・ギア.md "wikilink")主演によるリメイク『[Shall We Dance?](https://ja.wikipedia.org/wiki/Shall_We_Dance? "wikilink")』が公開された。
+また、[世界](../Page/世界.md "wikilink")においても19ヵ国で公開され高い評価を得ており、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")においては200万人を動員し、当時の[アニメ](../Page/アニメ.md "wikilink")を除く米国での日本映画の興行収入記録を作った。興行収入は約950万[米ドル](../Page/アメリカ合衆国ドル.md "wikilink")\[2\]。[2004年](../Page/2004年.md "wikilink")には[ピーター・チェルソム](https://ja.wikipedia.org/wiki/ピーター・チェルソム "wikilink")監督、[リチャード・ギア](../Page/リチャード・ギア.md "wikilink")主演によるリメイク『[Shall We Dance?](../Page/Shall_We_Dance?.md "wikilink")』が公開された。
 
 [ビリー・ワイルダー](../Page/ビリー・ワイルダー.md "wikilink")が周防作品にコメントを残している。
 
@@ -15,7 +15,7 @@
 
 本作の人気を受け、かつて日本では「時代遅れ」「何か怪しげ」と思われがちであった社交ダンスが見直され、一部に社交ダンスブームを巻き起こしたと言われている。また、“Shall we ダンス?”は社交ダンスの代名詞ともなり、テレビ番組ではこの語句を冠した様々な社交ダンス企画・番組が派生。最近では本作品名に近いタイトルの社交ダンス番組も登場した（[“シャル・ウィ・ダンス?”を参照](../Page/シャル・ウィ・ダンス?_\(テレビ番組\).md "wikilink")）。
 
-この映画のヒットを受けて、[風俗営業等の規制及び業務の適正化等に関する法律](../Page/風俗営業等の規制及び業務の適正化等に関する法律.md "wikilink")の[ダンス](https://ja.wikipedia.org/wiki/ダンス "wikilink")規制見直しがなされた（劇中で22時にダンス教室が閉まるのは、当時の風営法による営業時間規制の為である）。
+この映画のヒットを受けて、[風俗営業等の規制及び業務の適正化等に関する法律](../Page/風俗営業等の規制及び業務の適正化等に関する法律.md "wikilink")の[ダンス](../Page/ダンス.md "wikilink")規制見直しがなされた（劇中で22時にダンス教室が閉まるのは、当時の風営法による営業時間規制の為である）。
 
 この映画の撮影終了直後の1996年3月9日に、周防監督と岸川舞役の草刈民代が[結婚](../Page/結婚.md "wikilink")した。
 
@@ -46,13 +46,13 @@
   - [役所広司](../Page/役所広司.md "wikilink")（杉山正平）
   - [草刈民代](../Page/草刈民代.md "wikilink")（岸川舞）
   - [竹中直人](../Page/竹中直人.md "wikilink")（青木富夫：杉山の会社の同僚、ドニー・バーンズ([en](https://ja.wikipedia.org/wiki/:en:Donnie_Burns "wikilink"))にあこがれている）
-  - [渡辺えり](../Page/渡辺えり.md "wikilink")子（高橋豊子：オバサンダンサー、[シングルマザー](https://ja.wikipedia.org/wiki/シングルマザー "wikilink")。大会出場の際、正平に亡夫の[タキシード](https://ja.wikipedia.org/wiki/タキシード "wikilink")を貸す。）
+  - [渡辺えり](../Page/渡辺えり.md "wikilink")子（高橋豊子：オバサンダンサー、[シングルマザー](https://ja.wikipedia.org/wiki/シングルマザー "wikilink")。大会出場の際、正平に亡夫の[タキシード](../Page/タキシード.md "wikilink")を貸す。）
   - [柄本明](../Page/柄本明.md "wikilink")（三輪徹：三輪探偵事務所所長、昌子の依頼を受ける）
   - [原日出子](../Page/原日出子.md "wikilink")（杉山昌子：正平の妻）
   - [仲村綾乃](https://ja.wikipedia.org/wiki/仲村綾乃 "wikilink")（杉山千景：正平・昌子の中学生の娘）
-  - [森山周一郎](https://ja.wikipedia.org/wiki/森山周一郎 "wikilink")（岸川良：舞の父親、岸川ダンス教室の経営者にして元全日本チャンピオン）
+  - [森山周一郎](../Page/森山周一郎.md "wikilink")（岸川良：舞の父親、岸川ダンス教室の経営者にして元全日本チャンピオン）
   - [徳井優](../Page/徳井優.md "wikilink")（服部藤吉：正平と同じグループレッスン受講者、妻に誘われダンスを始める。小柄で講釈好き）
-  - [田口浩正](https://ja.wikipedia.org/wiki/田口浩正 "wikilink")（田中正浩：正平と同じグループレッスン受講者、医者に運動を薦められた）
+  - [田口浩正](../Page/田口浩正.md "wikilink")（田中正浩：正平と同じグループレッスン受講者、医者に運動を薦められた）
   - [草村礼子](../Page/草村礼子.md "wikilink")（田村たま子：ダンス教師「たま子先生」、『[王様と私](https://ja.wikipedia.org/wiki/王様と私 "wikilink")』を見たことをきっかけにダンスを始めたベテラン。グループレッスン担当）
   - [池村太郎](https://ja.wikipedia.org/wiki/池村太郎 "wikilink")（川合豊：ダンス教師、豊子の個人レッスンを担当）
   - [松阪隆子](https://ja.wikipedia.org/wiki/松阪隆子 "wikilink")（服部房子：服部の妻、服部のダンスパートナー）
@@ -77,7 +77,7 @@
   - [石井トミコ](../Page/石井トミコ.md "wikilink")（原口春子：ダンスサークルで正平にダンスの相手を申し出る女性）
   - [川村真樹](../Page/川村真樹_\(女優\).md "wikilink")（三好栄子：ダンスサークルで田口にダンスの相手を申し出る女性）
   - [野間洋子](https://ja.wikipedia.org/wiki/野間洋子 "wikilink")（間宮文子：ダンスサークルで服部と踊った女性）
-  - [香川京子](https://ja.wikipedia.org/wiki/香川京子 "wikilink")（岸川恵子：舞の母親、2年前に他界）
+  - [香川京子](../Page/香川京子.md "wikilink")（岸川恵子：舞の母親、2年前に他界）
   - [上田耕一](../Page/上田耕一.md "wikilink")（熊田寅吉：舞の生徒、豊子曰く舞目当て）
   - [代田勝久](https://ja.wikipedia.org/wiki/代田勝久 "wikilink")（坂本忠：舞の生徒）
   - [篠田薫](../Page/篠田薫.md "wikilink")（斎藤慎二：たま子の生徒）
@@ -114,7 +114,7 @@
   - [徳間康快](../Page/徳間康快.md "wikilink")（製作総指揮）
   - 加藤博之、[漆戸靖治](https://ja.wikipedia.org/wiki/漆戸靖治 "wikilink")、大野茂、五十嵐一弘（製作者）
   - [池田哲也](https://ja.wikipedia.org/wiki/池田哲也 "wikilink")（チーフプロデューサー）
-  - [桝井省志](https://ja.wikipedia.org/wiki/桝井省志 "wikilink") [小形雄二](https://ja.wikipedia.org/wiki/小形雄二 "wikilink") （プロデューサー）
+  - [桝井省志](../Page/桝井省志.md "wikilink") [小形雄二](https://ja.wikipedia.org/wiki/小形雄二 "wikilink") （プロデューサー）
   - [栢野直樹](https://ja.wikipedia.org/wiki/栢野直樹 "wikilink") （撮影）
   - [菊池純一](https://ja.wikipedia.org/wiki/菊池純一_\(編集技師\) "wikilink") （編集）
   - [周防義和](../Page/周防義和.md "wikilink") （音楽）
@@ -137,7 +137,7 @@
       - [大阪市](../Page/大阪市.md "wikilink")[北区](../Page/北区_\(大阪市\).md "wikilink")[梅田](../Page/梅田.md "wikilink")のダンスホール「ワールド」。本作撮影時、日本に残っていた数少ないダンスホールの一つであったが、[2001年](../Page/2001年.md "wikilink")1月31日に閉館。
       - [東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[有楽町](../Page/有楽町.md "wikilink")のダンスホール「東宝ダンスホール」。[2019年](../Page/2019年.md "wikilink")11月末日をもって閉館。
   - [ブラックプール](../Page/ブラックプール.md "wikilink")のホール
-      - [イングランド](../Page/イングランド.md "wikilink")の[ブラックプールタワー](https://ja.wikipedia.org/wiki/ブラックプールタワー "wikilink")にあるボールルーム。[ブラックプールダンスフェスティバル](https://ja.wikipedia.org/wiki/ブラックプールダンスフェスティバル "wikilink")の会場となるウィンターガーデンのボールルームではない。ドレスコードに従い、スタッフは[タキシード](https://ja.wikipedia.org/wiki/タキシード "wikilink")着用で撮影に臨んだ。
+      - [イングランド](../Page/イングランド.md "wikilink")の[ブラックプールタワー](https://ja.wikipedia.org/wiki/ブラックプールタワー "wikilink")にあるボールルーム。[ブラックプールダンスフェスティバル](https://ja.wikipedia.org/wiki/ブラックプールダンスフェスティバル "wikilink")の会場となるウィンターガーデンのボールルームではない。ドレスコードに従い、スタッフは[タキシード](../Page/タキシード.md "wikilink")着用で撮影に臨んだ。
 
 ## ダンス振付の著作権をめぐる訴訟
 
@@ -150,13 +150,13 @@
 
 ## 舞台
 
-2013年に[宝塚歌劇団](../Page/宝塚歌劇団.md "wikilink")[雪組によって初めてミュージカル化された](https://ja.wikipedia.org/wiki/雪組_\(宝塚歌劇\) "wikilink")。脚本・演出は[小柳奈穂子](https://ja.wikipedia.org/wiki/小柳奈穂子 "wikilink")。
+2013年に[宝塚歌劇団](../Page/宝塚歌劇団.md "wikilink")[雪組によって初めてミュージカル化された](../Page/雪組_\(宝塚歌劇\).md "wikilink")。脚本・演出は[小柳奈穂子](../Page/小柳奈穂子.md "wikilink")。
 
 ## 関連項目
 
   - [社交ダンス](../Page/社交ダンス.md "wikilink")
   - [競技ダンス](../Page/競技ダンス.md "wikilink")
-      - [ダンス](https://ja.wikipedia.org/wiki/ダンス "wikilink")
+      - [ダンス](../Page/ダンス.md "wikilink")
   - [風俗営業等の規制及び業務の適正化等に関する法律](../Page/風俗営業等の規制及び業務の適正化等に関する法律.md "wikilink")
   - [日本映画](../Page/日本映画.md "wikilink")
   - [日本の映画作品一覧](../Page/日本の映画作品一覧.md "wikilink")

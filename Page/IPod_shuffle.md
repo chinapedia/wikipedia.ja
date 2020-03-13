@@ -5,7 +5,7 @@
 
 ## 概要
 
-"すべて、偶然に任せよう。（Enjoy uncertainty.）" "Life is random."というキャッチフレーズと共に[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[1月11日](../Page/1月11日.md "wikilink")のMacworld Conference & Expoで発表された。[ストレージ](https://ja.wikipedia.org/wiki/ストレージ "wikilink")として[ハードディスクドライブ](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")ではなく[フラッシュメモリ](../Page/フラッシュメモリ.md "wikilink")が採用された最初のiPodである。
+"すべて、偶然に任せよう。（Enjoy uncertainty.）" "Life is random."というキャッチフレーズと共に[2005年](../Page/2005年.md "wikilink")[1月11日](../Page/1月11日.md "wikilink")のMacworld Conference & Expoで発表された。[ストレージ](https://ja.wikipedia.org/wiki/ストレージ "wikilink")として[ハードディスクドライブ](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")ではなく[フラッシュメモリ](../Page/フラッシュメモリ.md "wikilink")が採用された最初のiPodである。
 
 **転送された曲をシャッフルして聴く**というコンセプトを前面に押し出している。また、通常の音楽プレイヤーのようにプレイリスト順に再生することも可能。情報表示用の画面が無いため「プレイヤー上で曲を細かく選んで聴く」というような使い方には向かない反面、本体が小型で駆動部の無いフラッシュメモリを採用しているため、ジョギングなどの運動をする際に利用するのに向いている。
 
@@ -351,7 +351,7 @@
 
 日本では前年のiPod mini同様に2005年度[グッドデザイン賞](https://ja.wikipedia.org/wiki/グッドデザイン賞 "wikilink")ベスト15に選出され、金賞を受賞した。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[6月28日](../Page/6月28日.md "wikilink")、1GBモデルが14,980円に値下げされた後、[2006年](../Page/2006年.md "wikilink")[2月7日](../Page/2月7日.md "wikilink")に[iPod nanoの](https://ja.wikipedia.org/wiki/iPod_nano "wikilink")1GBモデルが発売された事に伴って1GBモデルは再値下げされて11,900円に、512MBモデルは7,900円に値下げされた。
+[2005年](../Page/2005年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink")、1GBモデルが14,980円に値下げされた後、[2006年](../Page/2006年.md "wikilink")[2月7日](../Page/2月7日.md "wikilink")に[iPod nanoの](https://ja.wikipedia.org/wiki/iPod_nano "wikilink")1GBモデルが発売された事に伴って1GBモデルは再値下げされて11,900円に、512MBモデルは7,900円に値下げされた。
 
 ### 第2世代
 
@@ -387,7 +387,7 @@
 
 第2世代まで好評だった「ボタン操作」、第3世代で好評だった「VoiceOver+プレイリスト対応」をミックスする事がコンセプトとされた。
 
-1枚のアルミニウムから削りだして製造された筺体になり、本体のボタンが復活している。これにより前世代と比べ若干サイズが大きくなったものの、市販の[ヘッドホン](https://ja.wikipedia.org/wiki/ヘッドフォン "wikilink")、イヤホンを使用することが再び可能になった。また、別売イヤホン（Apple Earphones with Remote）を使用してリモコン操作もできる。再生時間も15時間となり、歴代のiPod shuffleシリーズで最長。
+1枚のアルミニウムから削りだして製造された筺体になり、本体のボタンが復活している。これにより前世代と比べ若干サイズが大きくなったものの、市販の[ヘッドホン](../Page/ヘッドフォン.md "wikilink")、イヤホンを使用することが再び可能になった。また、別売イヤホン（Apple Earphones with Remote）を使用してリモコン操作もできる。再生時間も15時間となり、歴代のiPod shuffleシリーズで最長。
 
 プレイリストの切り替えや「VoiceOver」は第3世代から引き続き対応している他、新たにiPod shuffleとしては初めて「Genius」にも対応。カラーバリエーションは光沢のあるシルバー・ブルー・グリーン・オレンジ・ピンクの5色。
 

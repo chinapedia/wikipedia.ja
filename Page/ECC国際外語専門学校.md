@@ -11,7 +11,7 @@
 
   - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink") ECC高等英語専門学院として開校
   - [1984年](../Page/1984年.md "wikilink") 現校名となり専修学校となる
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") 現在地に移転
+  - [2005年](../Page/2005年.md "wikilink") 現在地に移転
 
 ## 学科
 
@@ -31,7 +31,7 @@
 
 ## 関連項目
 
-  - [ECCコンピュータ専門学校](https://ja.wikipedia.org/wiki/ECCコンピュータ専門学校 "wikilink")
+  - [ECCコンピュータ専門学校](../Page/ECCコンピュータ専門学校.md "wikilink")
   - [ECCアーティスト専門学校](https://ja.wikipedia.org/wiki/ECCアーティスト専門学校 "wikilink")
 
 ## 外部リンク

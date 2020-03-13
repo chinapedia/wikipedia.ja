@@ -52,7 +52,7 @@ while (1) {
 }
 ```
 
-このコードの`break;`は内側のループのみから抜け出す。外側のwhileループは[無限ループ](https://ja.wikipedia.org/wiki/無限ループ "wikilink")になる。
+このコードの`break;`は内側のループのみから抜け出す。外側のwhileループは[無限ループ](../Page/無限ループ.md "wikilink")になる。
 
 次に、多重ループからの抜け出しについて論じる。
 
@@ -84,7 +84,7 @@ while (1) {
 }
 ```
 
-ほかにも、[関数をそのまま脱出して呼び出し元に制御を返してよいということが前提にあるのであれば](https://ja.wikipedia.org/wiki/サブルーチン "wikilink")、多重ループを脱出するのに[return文](https://ja.wikipedia.org/wiki/return文 "wikilink")を使うこともできる。
+ほかにも、[関数をそのまま脱出して呼び出し元に制御を返してよいということが前提にあるのであれば](../Page/サブルーチン.md "wikilink")、多重ループを脱出するのに[return文](https://ja.wikipedia.org/wiki/return文 "wikilink")を使うこともできる。
 
 ``` c
 while (1) {

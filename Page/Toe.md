@@ -5,9 +5,9 @@
 
 ## 概要
 
-山嵜廣和、美濃隆章、山根さとし、柏倉隆史の4人からなる[インストゥルメンタルを中心としたバンド](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")\[3\]\[4\]。2000年の結成から今日に至るまで日本のポストロックシーンを牽引してきたのみならず、数々の欧米ツアーを成功をさせるなど国内外で活躍している\[5\]。メジャーレコード会社とは契約せず、自主レーベルMachu Picchu Industrias（マチュピチュ・インダストリアス）を立ち上げて音源を発表している\[6\]。海外では[Topshelf Records](https://ja.wikipedia.org/wiki/:en:Topshelf_Records "wikilink")（トップシェルフレコーズ）などからCDやレコードをリリースしている\[7\]。
+山嵜廣和、美濃隆章、山根さとし、柏倉隆史の4人からなる[インストゥルメンタルを中心としたバンド](../Page/器楽曲.md "wikilink")\[3\]\[4\]。2000年の結成から今日に至るまで日本のポストロックシーンを牽引してきたのみならず、数々の欧米ツアーを成功をさせるなど国内外で活躍している\[5\]。メジャーレコード会社とは契約せず、自主レーベルMachu Picchu Industrias（マチュピチュ・インダストリアス）を立ち上げて音源を発表している\[6\]。海外では[Topshelf Records](https://ja.wikipedia.org/wiki/:en:Topshelf_Records "wikilink")（トップシェルフレコーズ）などからCDやレコードをリリースしている\[7\]。
 
-音楽と仕事を両立させるというスタイルで知られ、メンバー全員がバンド活動とは別にそれぞれ本業を持っている\[8\]\[9\]。ギタリストの山㟢廣和は[インテリアデザイナー](https://ja.wikipedia.org/wiki/インテリアデザイナー "wikilink")、ベーシストの山根敏史は[ファッションデザイナー](../Page/ファッションデザイナー.md "wikilink")、ギタリストの美濃隆章は[レコーディングエンジニア](https://ja.wikipedia.org/wiki/レコーディングエンジニア "wikilink")、ドラマーの柏倉隆史は[セッションミュージシャン](https://ja.wikipedia.org/wiki/セッションミュージシャン "wikilink")としての顔を持ち、それぞれtoeにとどまらず幅広く活動している\[10\]。
+音楽と仕事を両立させるというスタイルで知られ、メンバー全員がバンド活動とは別にそれぞれ本業を持っている\[8\]\[9\]。ギタリストの山㟢廣和は[インテリアデザイナー](../Page/インテリアデザイナー.md "wikilink")、ベーシストの山根敏史は[ファッションデザイナー](../Page/ファッションデザイナー.md "wikilink")、ギタリストの美濃隆章は[レコーディングエンジニア](https://ja.wikipedia.org/wiki/レコーディングエンジニア "wikilink")、ドラマーの柏倉隆史は[セッションミュージシャン](https://ja.wikipedia.org/wiki/セッションミュージシャン "wikilink")としての顔を持ち、それぞれtoeにとどまらず幅広く活動している\[10\]。
 
 楽曲はインストが多いが、ギターの山㟢廣和がボーカルをとる曲や、[CHARA](https://ja.wikipedia.org/wiki/CHARA "wikilink")、[木村カエラ](https://ja.wikipedia.org/wiki/木村カエラ "wikilink")、[原田郁子](../Page/原田郁子.md "wikilink")（[クラムボン](https://ja.wikipedia.org/wiki/クラムボン "wikilink")）、[土岐麻子](https://ja.wikipedia.org/wiki/土岐麻子 "wikilink")、オオスミ（[SHAKKAZOMBIE](../Page/SHAKKAZOMBIE.md "wikilink")）などゲストボーカルを迎えた曲もある\[11\]\[12\]。
 
@@ -17,21 +17,21 @@
       - [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")出身\[13\]。
       - [Dove](https://ja.wikipedia.org/wiki/Dove_\(バンド\) "wikilink")（[Smelling Cuntsから改名](https://ja.wikipedia.org/wiki/Smelling_Cunts "wikilink")）の元メンバー。
       - 企画バンドMONTEROZA 4950のメンバー。
-      - 内装インテリア・店舗設計デザイン株式会社Metronome Inc. 代表。内装デザイナーとして[中目黒](https://ja.wikipedia.org/wiki/中目黒 "wikilink")の[セレクトショップ](https://ja.wikipedia.org/wiki/セレクトショップ "wikilink")「Vendor」や[学芸大学駅](https://ja.wikipedia.org/wiki/学芸大学駅 "wikilink")の[レコード](../Page/レコード.md "wikilink")[ショップ](https://ja.wikipedia.org/wiki/ショップ "wikilink")「Jazzy Sport」、[ホテル](../Page/ホテル.md "wikilink")「Anteroom KYOTO」の[ファサード](https://ja.wikipedia.org/wiki/ファサード "wikilink")/共用部分などを手がけている\[14\]。
-      - 音楽制作者として[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[ドラマ](../Page/ドラマ.md "wikilink")「[ライフ](https://ja.wikipedia.org/wiki/ライフ_\(テレビドラマ\) "wikilink")」の[劇伴](https://ja.wikipedia.org/wiki/劇伴 "wikilink")や[ユニクロ](../Page/ユニクロ.md "wikilink")のwebCM「UNIQLO INNOVATION PROJECT Web」テーマソングのプロデュースなどを手掛ける。
+      - 内装インテリア・店舗設計デザイン株式会社Metronome Inc. 代表。内装デザイナーとして[中目黒](../Page/中目黒.md "wikilink")の[セレクトショップ](../Page/セレクトショップ.md "wikilink")「Vendor」や[学芸大学駅](https://ja.wikipedia.org/wiki/学芸大学駅 "wikilink")の[レコード](../Page/レコード.md "wikilink")[ショップ](https://ja.wikipedia.org/wiki/ショップ "wikilink")「Jazzy Sport」、[ホテル](../Page/ホテル.md "wikilink")「Anteroom KYOTO」の[ファサード](../Page/ファサード.md "wikilink")/共用部分などを手がけている\[14\]。
+      - 音楽制作者として[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[ドラマ](../Page/ドラマ.md "wikilink")「[ライフ](https://ja.wikipedia.org/wiki/ライフ_\(テレビドラマ\) "wikilink")」の[劇伴](../Page/劇伴.md "wikilink")や[ユニクロ](../Page/ユニクロ.md "wikilink")のwebCM「UNIQLO INNOVATION PROJECT Web」テーマソングのプロデュースなどを手掛ける。
   - **美濃 隆章**（みの たかあき、Mino Takaaki） - ギター担当
       - 神奈川県横浜市出身\[15\]。[音楽学校メーザー・ハウス](https://ja.wikipedia.org/wiki/音楽学校メーザー・ハウス "wikilink")ギター科卒業\[16\]。
       - [popcatcher](https://ja.wikipedia.org/wiki/popcatcher "wikilink")、[REACHの元メンバー](https://ja.wikipedia.org/wiki/REACH_\(バンド\) "wikilink")。
       - レコーディング・エンジニアとして、[miaou](https://ja.wikipedia.org/wiki/miaou "wikilink")、[SOUR](https://ja.wikipedia.org/wiki/SOUR "wikilink")、[bonobos](https://ja.wikipedia.org/wiki/bonobos "wikilink")、[sgt.](https://ja.wikipedia.org/wiki/sgt. "wikilink")、[ゲスの極み乙女。](https://ja.wikipedia.org/wiki/ゲスの極み乙女。 "wikilink")などを手掛ける\[17\]。
-  - **山根 敏史**（やまね さとし、Yamane Satoshi） - [ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - **山根 敏史**（やまね さとし、Yamane Satoshi） - [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")
       - [モード学園ファッションデザイン学科卒業](https://ja.wikipedia.org/wiki/学校法人モード学園 "wikilink")\[18\]。
       - [fragment](https://ja.wikipedia.org/wiki/fragment "wikilink")、Doveの元メンバー。
       - ファッションデザイナーとして[バッグ](https://ja.wikipedia.org/wiki/バッグ "wikilink")[ブランド](../Page/ブランド.md "wikilink")のF/CE.®（エフ シーイー）と[アパレル](https://ja.wikipedia.org/wiki/アパレル "wikilink")ブランドのso far（ソーファー）の2ブランドを展開する\[19\]。1997年からメンズビギで[デザイナー](../Page/デザイナー.md "wikilink")としてのキャリアを積み、2004年から[クロックス](../Page/クロックス.md "wikilink")日本支社の立ち上げに参画\[20\]\[21\]。2010年に独立し、自身の会社オープン・ユアアイズ（株）を設立\[22\]\[23\]。
   - **柏倉 隆史**（かしくら たかし、Kashikura Takashi） - [ドラムス担当](../Page/ドラムセット.md "wikilink")
-      - 神奈川県[川崎市](../Page/川崎市.md "wikilink")出身\[24\]。[旧県立川崎南高校卒業](https://ja.wikipedia.org/wiki/神奈川県立川崎高等学校 "wikilink")。
-      - [DAMAGE](https://ja.wikipedia.org/wiki/DAMAGE_\(バンド\) "wikilink")、REACHの元ドラマー\[25\]\[26\]。また[SUEMITSU & THE SUEMITHのオリジナルメンバーとしてドラム](https://ja.wikipedia.org/wiki/SUEMITSU_&_THE_SUEMITH "wikilink")・[シンバル](../Page/シンバル.md "wikilink")・[タンバリン](https://ja.wikipedia.org/wiki/タンバリン "wikilink")を担当していた\[27\]。
+      - 神奈川県[川崎市](../Page/川崎市.md "wikilink")出身\[24\]。[旧県立川崎南高校卒業](../Page/神奈川県立川崎高等学校.md "wikilink")。
+      - [DAMAGE](https://ja.wikipedia.org/wiki/DAMAGE_\(バンド\) "wikilink")、REACHの元ドラマー\[25\]\[26\]。また[SUEMITSU & THE SUEMITHのオリジナルメンバーとしてドラム](https://ja.wikipedia.org/wiki/SUEMITSU_&_THE_SUEMITH "wikilink")・[シンバル](../Page/シンバル.md "wikilink")・[タンバリン](../Page/タンバリン.md "wikilink")を担当していた\[27\]。
       - toeと並行して、[the HIATUSのメンバーとしても活動する](https://ja.wikipedia.org/wiki/the_HIATUS "wikilink")\[28\]。
-      - サポートドラマーとして、[木村カエラ](https://ja.wikipedia.org/wiki/木村カエラ "wikilink")、[ACO](../Page/ACO.md "wikilink")、SUEMITSU & THE SUEMITH、[コトリンゴ](https://ja.wikipedia.org/wiki/コトリンゴ "wikilink")、[黒木渚](https://ja.wikipedia.org/wiki/黒木渚 "wikilink")、[ももいろクローバーZ](https://ja.wikipedia.org/wiki/ももいろクローバーZ "wikilink")といったミュージシャンのレコーディング、ライブに参加している\[29\]\[30\]。
+      - サポートドラマーとして、[木村カエラ](https://ja.wikipedia.org/wiki/木村カエラ "wikilink")、[ACO](../Page/ACO.md "wikilink")、SUEMITSU & THE SUEMITH、[コトリンゴ](../Page/コトリンゴ.md "wikilink")、[黒木渚](https://ja.wikipedia.org/wiki/黒木渚 "wikilink")、[ももいろクローバーZ](https://ja.wikipedia.org/wiki/ももいろクローバーZ "wikilink")といったミュージシャンのレコーディング、ライブに参加している\[29\]\[30\]。
 
 ## ディスコグラフィー
 
@@ -51,7 +51,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/8月31日.md" title="wikilink">8月31日</a><br />
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/8月31日.md" title="wikilink">8月31日</a><br />
 <a href="../Page/2012年.md" title="wikilink">2012年</a><a href="../Page/6月20日.md" title="wikilink">6月20日</a>(再発)</p></td>
 <td><p><strong>the book about my idle plot on a vague anxiety</strong></p></td>
 <td><p>DDCT-3006<br />
@@ -163,7 +163,7 @@ XQIF-1005(再発)</p></td>
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a><a href="../Page/2月26日.md" title="wikilink">2月26日</a><br />
-<a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/8月30日.md" title="wikilink">8月30日</a><br />
+<a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/8月30日.md" title="wikilink">8月30日</a><br />
 <a href="../Page/2012年.md" title="wikilink">2012年</a><a href="../Page/6月20日.md" title="wikilink">6月20日</a></p></td>
 <td><p><strong>songs, ideas we forgot</strong></p></td>
 <td><p>CATUNE-02<br />
@@ -189,7 +189,7 @@ XQIF-1004</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/12月6日.md" title="wikilink">12月6日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/12月6日.md" title="wikilink">12月6日</a></p></td>
 <td><p><strong>new sentimentality e.p.</strong></p></td>
 <td><p>DDCM-7001</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -385,7 +385,7 @@ XQIF-1004</p></td>
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/7月26日.md" title="wikilink">7月26日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/7月26日.md" title="wikilink">7月26日</a></p></td>
 <td><p><strong>RGBDVD</strong></p></td>
 <td><p>DDBZ-1019</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -563,7 +563,7 @@ XQIF-1004</p></td>
 <td><p>NOON RECORDS</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/2月23日" title="wikilink">2月23日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/2月23日" title="wikilink">2月23日</a></p></td>
 <td><p><strong>ROCK MOTOWN</strong></p></td>
 <td><p>AVCW-12422</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -633,10 +633,10 @@ XQIF-1004</p></td>
 <li><strong>8.6 / toe + <a href="https://ja.wikipedia.org/wiki/土岐麻子" title="wikilink">土岐麻子</a></strong></li>
 <li>WALK / <a href="https://ja.wikipedia.org/wiki/Ken_Yokoyama" title="wikilink">Ken Yokoyama</a></li>
 <li>SHARE THE JOY OF OUR TOUR / <a href="https://ja.wikipedia.org/wiki/WATER_CLOSET" title="wikilink">WATER CLOSET</a></li>
-<li>SUN MYSELF / <a href="https://ja.wikipedia.org/wiki/BRAHMAN" title="wikilink">BRAHMAN</a></li>
+<li>SUN MYSELF / <a href="../Page/BRAHMAN.md" title="wikilink">BRAHMAN</a></li>
 <li>A SINGLE WORD / <a href="https://ja.wikipedia.org/wiki/FINE_LINES" title="wikilink">FINE LINES</a></li>
-<li>欠けボタンの浜 / <a href="https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
-<li>BY CHANCE / <a href="https://ja.wikipedia.org/wiki/BEAT_CRUSADERS" title="wikilink">BEAT CRUSADERS</a></li>
+<li>欠けボタンの浜 / <a href="../Page/ASIAN_KUNG-FU_GENERATION.md" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
+<li>BY CHANCE / <a href="../Page/BEAT_CRUSADERS.md" title="wikilink">BEAT CRUSADERS</a></li>
 <li>STILL IN THE SAME PLACE? / WOWW (<a href="https://ja.wikipedia.org/wiki/TAKAYOSHI_SIRAKAWA" title="wikilink">TAKAYOSHI SIRAKAWA</a>)</li>
 <li>THE SUN AND THE MOON / <a href="../Page/OVERGROUND_ACOUSTIC_UNDERGROUND.md" title="wikilink">OVERGROUND ACOUSTIC UNDERGROUND</a></li>
 <li>後に跡 / <a href="../Page/YOUR_SONG_IS_GOOD.md" title="wikilink">YOUR SONG IS GOOD</a></li>
@@ -658,7 +658,7 @@ XQIF-1004</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="https://ja.wikipedia.org/wiki/7月23日" title="wikilink">7月23日</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/7月23日.md" title="wikilink">7月23日</a></p></td>
 <td><p><strong>極東最前線2</strong></p></td>
 <td><p>VPCC-84440</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -670,7 +670,7 @@ XQIF-1004</p></td>
 <ol>
 <li>WESTERN DEVELOPMENT / <a href="https://ja.wikipedia.org/wiki/PANICSMILE" title="wikilink">PANICSMILE</a></li>
 <li><strong>ラストナイト / toe</strong></li>
-<li>タコ物語（LIVE）/ <a href="https://ja.wikipedia.org/wiki/ゆらゆら帝国" title="wikilink">ゆらゆら帝国</a></li>
+<li>タコ物語（LIVE）/ <a href="../Page/ゆらゆら帝国.md" title="wikilink">ゆらゆら帝国</a></li>
 <li>あなたと歩くの / <a href="../Page/二階堂和美.md" title="wikilink">二階堂和美</a></li>
 <li>Micro Guitar Music / <a href="../Page/トクマルシューゴ.md" title="wikilink">トクマルシューゴ</a></li>
 <li>東京 / <a href="https://ja.wikipedia.org/wiki/eastern_youth" title="wikilink">eastern youth</a></li>
@@ -681,16 +681,16 @@ XQIF-1004</p></td>
 <li>七七日 / <a href="../Page/SAKEROCK.md" title="wikilink">SAKEROCK</a></li>
 <li>遠足 / <a href="https://ja.wikipedia.org/wiki/TEASI" title="wikilink">TEASI</a></li>
 <li>wrong again / <a href="../Page/54-71.md" title="wikilink">54-71</a></li>
-<li>Evil Birds / <a href="https://ja.wikipedia.org/wiki/少年ナイフ" title="wikilink">少年ナイフ</a></li>
+<li>Evil Birds / <a href="../Page/少年ナイフ.md" title="wikilink">少年ナイフ</a></li>
 </ol>
 <p>DISC2</p>
 <ol>
 <li>You Will Regret / <a href="https://ja.wikipedia.org/wiki/DEERHOOF" title="wikilink">DEERHOOF</a></li>
-<li>Amayadori / <a href="https://ja.wikipedia.org/wiki/ZAZEN_BOYS" title="wikilink">ZAZEN BOYS</a></li>
+<li>Amayadori / <a href="../Page/ZAZEN_BOYS.md" title="wikilink">ZAZEN BOYS</a></li>
 <li>Decade / <a href="https://ja.wikipedia.org/wiki/fOUL" title="wikilink">fOUL</a></li>
 <li>MeatBalls / <a href="https://ja.wikipedia.org/wiki/TUCKER" title="wikilink">TUCKER</a></li>
 <li>All I know / <a href="https://ja.wikipedia.org/wiki/Cursive" title="wikilink">Cursive</a></li>
-<li>何もない世界 / <a href="https://ja.wikipedia.org/wiki/THE_BACK_HORN" title="wikilink">THE BACK HORN</a></li>
+<li>何もない世界 / <a href="../Page/THE_BACK_HORN.md" title="wikilink">THE BACK HORN</a></li>
 <li>東京～イースタン小谷.Ver.～ / <a href="../Page/小谷美紗子.md" title="wikilink">小谷美紗子</a></li>
 <li>of daybreak / <a href="https://ja.wikipedia.org/wiki/miscorner/c+llooqtortion" title="wikilink">miscorner/c+llooqtortion</a></li>
 <li>夜を歩く / <a href="https://ja.wikipedia.org/wiki/手水" title="wikilink">手水</a></li>
@@ -741,9 +741,9 @@ XQIF-1004</p></td>
 <li>MURKY WATERS / <a href="../Page/くるり.md" title="wikilink">くるり</a></li>
 <li>MUDDY SKY / <a href="https://ja.wikipedia.org/wiki/UA_(歌手)" title="wikilink">UA</a></li>
 <li>FOR EASE / <a href="../Page/トクマルシューゴ.md" title="wikilink">トクマルシューゴ</a></li>
-<li><strong>HE PASSED DEEPLY / toe feat. <a href="https://ja.wikipedia.org/wiki/コトリンゴ" title="wikilink">コトリンゴ</a></strong></li>
+<li><strong>HE PASSED DEEPLY / toe feat. <a href="../Page/コトリンゴ.md" title="wikilink">コトリンゴ</a></strong></li>
 <li>WALKING ROUND IN CIRCLES / <a href="../Page/ハナレグミ.md" title="wikilink">ハナレグミ</a></li>
-<li>HOUSE OF PIANO / <a href="https://ja.wikipedia.org/wiki/向井秀徳" title="wikilink">向井秀徳</a></li>
+<li>HOUSE OF PIANO / <a href="../Page/向井秀徳.md" title="wikilink">向井秀徳</a></li>
 <li>NEED YOUR LOVE / <a href="../Page/HIFANA.md" title="wikilink">HIFANA</a> &amp; <a href="https://ja.wikipedia.org/wiki/鎮座DOPENESS" title="wikilink">鎮座DOPENESS</a></li>
 <li>FOUR IN THE MORNING / <a href="https://ja.wikipedia.org/wiki/clammbon" title="wikilink">clammbon</a>
 </div>
@@ -802,7 +802,7 @@ AVCD-38837</p></td>
 <td><p>オリコン最高7位</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2014年.md" title="wikilink">2014年</a><a href="https://ja.wikipedia.org/wiki/7月23日" title="wikilink">7月23日</a></p></td>
+<td><p><a href="../Page/2014年.md" title="wikilink">2014年</a><a href="../Page/7月23日.md" title="wikilink">7月23日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/北嶋徹" title="wikilink">TK from 凛として時雨</a>『<a href="https://ja.wikipedia.org/wiki/unravel" title="wikilink">unravel</a>』</strong></p></td>
 <td><p>AICL-2704<br />
 AICL-2706<br />
@@ -820,7 +820,7 @@ AICL-2717</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2015年.md" title="wikilink">2015年</a><a href="../Page/8月26日.md" title="wikilink">8月26日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/メロキュア" title="wikilink">メロキュア</a>『<a href="https://ja.wikipedia.org/wiki/メロディック・スーパー・ハード・キュア" title="wikilink">メロディック・スーパー・ハード・キュア</a>』</strong></p></td>
+<td><p><strong><a href="../Page/メロキュア.md" title="wikilink">メロキュア</a>『<a href="https://ja.wikipedia.org/wiki/メロディック・スーパー・ハード・キュア" title="wikilink">メロディック・スーパー・ハード・キュア</a>』</strong></p></td>
 <td><p>COCX-39137</p></td>
 <td><p>「1st Priority [メロキュア meets 末光篤 a.k.a. SUEMITSU &amp; THE SUEMITH]」に柏倉隆史がドラムとして参加</p></td>
 <td><p>オリコン最高34位</p></td>
@@ -862,13 +862,13 @@ AICL-2717</p></td>
   - 2006年12月31日 - [COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 06/07
   - 2007年07月29日 - [FUJI ROCK FESTIVAL](https://ja.wikipedia.org/wiki/FUJI_ROCK_FESTIVAL "wikilink") '07
   - 2008年04月27日 - [ARABAKI ROCK FEST.](../Page/ARABAKI_ROCK_FEST..md "wikilink")08
-  - 2008年05月05日 - [ROVO](https://ja.wikipedia.org/wiki/ROVO "wikilink") presents MDT Festival 2008
+  - 2008年05月05日 - [ROVO](../Page/ROVO.md "wikilink") presents MDT Festival 2008
   - 2009年06月20日 - enemies with toe
   - 2009年08月14日 - [RISING SUN ROCK FESTIVAL](https://ja.wikipedia.org/wiki/RISING_SUN_ROCK_FESTIVAL "wikilink") 2009 in EZO
   - 2010年04月02日 - [THE ALBUM LEAF](https://ja.wikipedia.org/wiki/アルバム・リーフ "wikilink") JAPAN TOUR 2010
   - 2010年07月30日 - FUJI ROCK FESTIVAL '10
   - 2010年11月02日 - New Audiogram ver.4 -1102east-
-  - 2010年12月26日 - [BRAHMAN](https://ja.wikipedia.org/wiki/BRAHMAN "wikilink") presents tantrism vol.7
+  - 2010年12月26日 - [BRAHMAN](../Page/BRAHMAN.md "wikilink") presents tantrism vol.7
   - 2011年08月13日 - [SUMMER SONIC](https://ja.wikipedia.org/wiki/SUMMER_SONIC "wikilink") 2011
   - 2011年12月22日 - [木村カエラ](https://ja.wikipedia.org/wiki/木村カエラ "wikilink") presents オンナク祭オトコク祭
   - 2012年02月26日 - DEVILOCK NIGHT THE FINAL

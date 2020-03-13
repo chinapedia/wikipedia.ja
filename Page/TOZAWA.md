@@ -5,9 +5,9 @@
 
 ## 人物
 
-「[アニメーションダンス](https://ja.wikipedia.org/wiki/アニメーションダンス "wikilink")」という分野で名を馳せ、プロダンサーとして確固たる実力を示している。 そのダンスは独自の世界観を作り上げるため、周りからは「TOZAWAワールド」と呼称されている。 [NTV系列で放送されていた](../Page/日本テレビ放送網.md "wikilink")『[少年チャンプル](https://ja.wikipedia.org/wiki/少年チャンプル "wikilink")』により、その存在が広く知れ渡ることになる。 その番組内で、「[カリスマ](../Page/カリスマ.md "wikilink")[アニメーション](https://ja.wikipedia.org/wiki/アニメーションダンス "wikilink")[ダンサー](https://ja.wikipedia.org/wiki/ダンサー "wikilink")」と命名される。
+「[アニメーションダンス](https://ja.wikipedia.org/wiki/アニメーションダンス "wikilink")」という分野で名を馳せ、プロダンサーとして確固たる実力を示している。 そのダンスは独自の世界観を作り上げるため、周りからは「TOZAWAワールド」と呼称されている。 [NTV系列で放送されていた](../Page/日本テレビ放送網.md "wikilink")『[少年チャンプル](../Page/少年チャンプル.md "wikilink")』により、その存在が広く知れ渡ることになる。 その番組内で、「[カリスマ](../Page/カリスマ.md "wikilink")[アニメーション](https://ja.wikipedia.org/wiki/アニメーションダンス "wikilink")[ダンサー](https://ja.wikipedia.org/wiki/ダンサー "wikilink")」と命名される。
 
-[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")番組「BEATOPIA（ビートピア）」のプロダンサー限定ソロバトルを優勝するなど、多数のダンス大会を優勝した経歴を持つ。アニメーションダンス以外にも[ポッピング](https://ja.wikipedia.org/wiki/ポップ_\(ダンス\) "wikilink")（[ストリートダンス](https://ja.wikipedia.org/wiki/ストリートダンス "wikilink")の一種）、[ヒップホップダンスも得意としている](https://ja.wikipedia.org/wiki/ヒップホップ_\(ダンス\) "wikilink")。[Gackt](https://ja.wikipedia.org/wiki/Gackt "wikilink")の全国ツアーの振り付け・バックダンサー・海外ツアーダンサー等を務めている。JORストリートダンススクールではTOZAWA自身が講師をしている。
+[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")番組「BEATOPIA（ビートピア）」のプロダンサー限定ソロバトルを優勝するなど、多数のダンス大会を優勝した経歴を持つ。アニメーションダンス以外にも[ポッピング](../Page/ポップ_\(ダンス\).md "wikilink")（[ストリートダンス](../Page/ストリートダンス.md "wikilink")の一種）、[ヒップホップダンスも得意としている](../Page/ヒップホップ_\(ダンス\).md "wikilink")。[Gackt](https://ja.wikipedia.org/wiki/Gackt "wikilink")の全国ツアーの振り付け・バックダンサー・海外ツアーダンサー等を務めている。JORストリートダンススクールではTOZAWA自身が講師をしている。
 
 座右の銘は、「If you put your mind to it, you could accomplish anything\! 」。
 
@@ -73,7 +73,7 @@
 
 ## 関連項目
 
-  - [少年チャンプル](https://ja.wikipedia.org/wiki/少年チャンプル "wikilink")
+  - [少年チャンプル](../Page/少年チャンプル.md "wikilink")
   - [スーパーチャンプル](../Page/スーパーチャンプル.md "wikilink")
   - [GACKT](https://ja.wikipedia.org/wiki/GACKT "wikilink")
   - [ひとりでできるもん](../Page/ひとりでできるもん.md "wikilink")

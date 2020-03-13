@@ -7,7 +7,7 @@
 
 ## 会社概要
 
-[1965年](../Page/1965年.md "wikilink")に、[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[代々木](https://ja.wikipedia.org/wiki/代々木 "wikilink")で音楽教室として創業、[1984年](../Page/1984年.md "wikilink")に会社設立。以前は代々木駅前に事務所を構えていた。その後、[代々木駅](https://ja.wikipedia.org/wiki/代々木駅 "wikilink")と[原宿駅](https://ja.wikipedia.org/wiki/原宿駅 "wikilink")の中間、[明治通り沿いに事務所を移転](../Page/明治通り_\(東京都\).md "wikilink")。[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")内（代々木、原宿、渋谷）および[世田谷区](https://ja.wikipedia.org/wiki/世田谷区 "wikilink")内に寮を完備。2014年7月に、渋谷区神宮前に音楽スタジオとして移転。
+[1965年](../Page/1965年.md "wikilink")に、[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[代々木](../Page/代々木.md "wikilink")で音楽教室として創業、[1984年](../Page/1984年.md "wikilink")に会社設立。以前は代々木駅前に事務所を構えていた。その後、[代々木駅](https://ja.wikipedia.org/wiki/代々木駅 "wikilink")と[原宿駅](https://ja.wikipedia.org/wiki/原宿駅 "wikilink")の中間、[明治通り沿いに事務所を移転](../Page/明治通り_\(東京都\).md "wikilink")。[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")内（代々木、原宿、渋谷）および[世田谷区](../Page/世田谷区.md "wikilink")内に寮を完備。2014年7月に、渋谷区神宮前に音楽スタジオとして移転。
 
 以前は芸能事業を積極的に行っており、芸能界におけるニッチ市場の開拓\[1\]に力を入れていた。また、創業当時より長年にわたり音楽教育および[鍵盤楽器](../Page/鍵盤楽器.md "wikilink")の研究開発を行っており、独自のメソッドを提唱。これまでに電子楽器を含め数種類の[鍵盤を開発](../Page/鍵盤_\(楽器\).md "wikilink")・製造している。これらのメソッドや楽器を使ったアーティスト育成やプロモーションにも力を注いでいる。
 

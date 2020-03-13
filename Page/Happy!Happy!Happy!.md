@@ -1,7 +1,7 @@
 > この記事は[Happy!Happy!Happy!](https://ja.wikipedia.org/wiki/Happy!Happy!Happy!)から翻訳されています。
 
 
-『**Happy\!Happy\!Happy\!**』（ハッピー\! ハッピー\! ハッピー\!）は、[國府田マリ子](../Page/國府田マリ子.md "wikilink")の3枚目の[アルバム](../Page/アルバム.md "wikilink")及びそれに収録されている楽曲。[1996年](../Page/1996年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")、[KONAMIより発売](https://ja.wikipedia.org/wiki/コナミレーベル "wikilink")。
+『**Happy\!Happy\!Happy\!**』（ハッピー\! ハッピー\! ハッピー\!）は、[國府田マリ子](../Page/國府田マリ子.md "wikilink")の3枚目の[アルバム](../Page/アルバム.md "wikilink")及びそれに収録されている楽曲。[1996年](../Page/1996年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")、[KONAMIより発売](../Page/コナミレーベル.md "wikilink")。
 
 ## 解説
 

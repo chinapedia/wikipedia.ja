@@ -3,7 +3,7 @@
 
 『**CODED ARMS ASSAULT**』（コーデッドアームズアサルト）は、[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")が開発する[プレイステーション3用](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")[FPSである](../Page/ファーストパーソン・シューティングゲーム.md "wikilink")。\[1\]
 
-[PSP](https://ja.wikipedia.org/wiki/PSP "wikilink")で人気作であった[CODED ARMSシリーズのコンソール機向けタイトルであり](../Page/CODED_ARMS.md "wikilink")、完全新作となっている。
+[PSP](../Page/PSP.md "wikilink")で人気作であった[CODED ARMSシリーズのコンソール機向けタイトルであり](../Page/CODED_ARMS.md "wikilink")、完全新作となっている。
 
 本作では国産メーカーの大型タイトルとしては初めて[Epic Games社の](../Page/Epic_Games.md "wikilink")[Unreal Engine 3を採用](https://ja.wikipedia.org/wiki/Unreal_Engine_3 "wikilink")、PSP版と異なりキャンペーンモードでのストーリーと国産メーカーならではの演出に重点を置いた、海外進出も視野に入れた本格的FPSを目指していた。初出のE3 2006ではキャンペーンモードならびにマルチモードの実機映像を発表し"E3で最も期待されるFPSタイトル"にも選出され\[2\]、TGS2006では日本語によるストーリートレーラーが公開された。\[3\]
 
@@ -25,7 +25,7 @@
 
 ＜東京ゲームショウ時＞
 
-[ネットワーク](https://ja.wikipedia.org/wiki/コンピュータネットワーク "wikilink")[空間](../Page/空間.md "wikilink")に、巨大な[仮想社会](https://ja.wikipedia.org/wiki/仮想社会 "wikilink")が繁栄する未来。[ハッカー](../Page/ハッカー.md "wikilink")達は自らの[脳](../Page/脳.md "wikilink")を[コンピュータ](../Page/コンピュータ.md "wikilink")に直結させネットワーク上に[トリップ](https://ja.wikipedia.org/wiki/トリップ "wikilink")する。今回のターゲットは日本[企業](../Page/企業.md "wikilink")「葦原（あしはら）」の極秘[データ](../Page/データ.md "wikilink")。[システム](../Page/システム.md "wikilink")を構成するデータは巨大な[街](../Page/街.md "wikilink")と化し、[電脳](https://ja.wikipedia.org/wiki/電脳 "wikilink")[迷宮](../Page/迷宮.md "wikilink")を作り出す。
+[ネットワーク](../Page/コンピュータネットワーク.md "wikilink")[空間](../Page/空間.md "wikilink")に、巨大な[仮想社会](https://ja.wikipedia.org/wiki/仮想社会 "wikilink")が繁栄する未来。[ハッカー](../Page/ハッカー.md "wikilink")達は自らの[脳](../Page/脳.md "wikilink")を[コンピュータ](../Page/コンピュータ.md "wikilink")に直結させネットワーク上に[トリップ](https://ja.wikipedia.org/wiki/トリップ "wikilink")する。今回のターゲットは日本[企業](../Page/企業.md "wikilink")「葦原（あしはら）」の極秘[データ](../Page/データ.md "wikilink")。[システム](../Page/システム.md "wikilink")を構成するデータは巨大な[街](../Page/街.md "wikilink")と化し、[電脳](https://ja.wikipedia.org/wiki/電脳 "wikilink")[迷宮](../Page/迷宮.md "wikilink")を作り出す。
 
 システムを[防御](https://ja.wikipedia.org/wiki/防御 "wikilink")する[セキュリティプログラム](https://ja.wikipedia.org/wiki/セキュリティプログラム "wikilink")は電脳の[軍隊](../Page/軍隊.md "wikilink")と化し、ハッカーとの攻防を繰り広げる。[ハッキング](../Page/ハッキング.md "wikilink")という名の[戦闘](../Page/戦闘.md "wikilink")が今始まる……。
 

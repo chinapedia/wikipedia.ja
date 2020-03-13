@@ -51,7 +51,7 @@
 
 2000年 N.U.結成、ストリートライブ開始。
 
-2002年 [FM横浜](https://ja.wikipedia.org/wiki/横浜エフエム放送 "wikilink")「[YOKOHAMA MUSIC AWARD](../Page/YOKOHAMA_MUSIC_AWARD.md "wikilink")」の第8期グランプリを受賞。
+2002年 [FM横浜](../Page/横浜エフエム放送.md "wikilink")「[YOKOHAMA MUSIC AWARD](../Page/YOKOHAMA_MUSIC_AWARD.md "wikilink")」の第8期グランプリを受賞。
 
 2003年3月「[かながわドームシアター](https://ja.wikipedia.org/wiki/かながわドームシアター "wikilink")1000人ライブ」を成功させる。
 
@@ -63,7 +63,7 @@
 
 2005年4月 ストリートライブ休止。 最後のストリートライブに遠方からも大勢のファンが集まった(約700人)。ファンでイセザキモールの路が塞がってしまったため苦情が入り、予定より早めの終演となった。以降は公約通り不定期でストリートライブが行われている。
 
-2006年2月 [みなとみらい線開通](https://ja.wikipedia.org/wiki/横浜高速鉄道みなとみらい線 "wikilink")2周年記念イベントの1つとして[馬車道駅](https://ja.wikipedia.org/wiki/馬車道駅 "wikilink")で[ジェリービーンズコンサートを行い](https://ja.wikipedia.org/wiki/横浜信用金庫 "wikilink")、馬車道駅の一日駅長を務めた。みなとみらい線開業後、最初の一日駅長である。\[1\]
+2006年2月 [みなとみらい線開通](https://ja.wikipedia.org/wiki/横浜高速鉄道みなとみらい線 "wikilink")2周年記念イベントの1つとして[馬車道駅](https://ja.wikipedia.org/wiki/馬車道駅 "wikilink")で[ジェリービーンズコンサートを行い](../Page/横浜信用金庫.md "wikilink")、馬車道駅の一日駅長を務めた。みなとみらい線開業後、最初の一日駅長である。\[1\]
 
 2006年6月28日 [シングル](../Page/シングル.md "wikilink")「さよならHappy End」を全国発売。
 
@@ -156,7 +156,7 @@
 
 <!-- end list -->
 
-  - プレゼント！　[2003年](../Page/2003年.md "wikilink")12月発売（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月18日](../Page/11月18日.md "wikilink")に再発売）
+  - プレゼント！　[2003年](../Page/2003年.md "wikilink")12月発売（[2005年](../Page/2005年.md "wikilink")[11月18日](../Page/11月18日.md "wikilink")に再発売）
 
 <!-- end list -->
 
@@ -215,7 +215,7 @@
 
 <!-- end list -->
 
-  - さよならHappy End　[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[6月28日](../Page/6月28日.md "wikilink")発売
+  - さよならHappy End　[2006年](../Page/2006年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink")発売
 
 <!-- end list -->
 
@@ -741,7 +741,7 @@
 
 ### 過去
 
-  - N.U.のHANASHI GUY\!\!（[FMヨコハマ](https://ja.wikipedia.org/wiki/横浜エフエム放送 "wikilink")）
+  - N.U.のHANASHI GUY\!\!（[FMヨコハマ](../Page/横浜エフエム放送.md "wikilink")）
 
 <!-- end list -->
 

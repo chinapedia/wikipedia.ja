@@ -7,7 +7,7 @@
 
 「call」は、オリジナルアルバムには未収録で、ベスト・アルバム『[IT'S ALL RIGHT OFF COURSE SELECTION III 1984-1987](https://ja.wikipedia.org/wiki/IT'S_ALL_RIGHT_\(オフコースのアルバム\) "wikilink")』\[1\]に収録された。ベスト・アルバム『[Off Course GREATEST HITS](https://ja.wikipedia.org/wiki/Off_Course_GREATEST_HITS "wikilink")』\[2\]収録の同曲はエンディングのフェイドアウトまでの時間が長い。また、この曲は[ランディ・グッドラムによる英語詞に置き換えられて](https://ja.wikipedia.org/wiki/:en:Randy_Goodrum "wikilink")「SECOND CHANCE」と改作され、アルバム『[Back Streets of Tokyo](https://ja.wikipedia.org/wiki/Back_Streets_of_Tokyo "wikilink")』\[3\]に収録された。1984年の秋、次のアルバム制作が予定されていたが、「シングルを2枚作ってコンサートをしよう」というメンバーの意向により、この時点でのアルバム制作はキャンセルされた。このシングルはその2枚のうちの1枚目。
 
-カップリング曲として収録された「2度目の夏」は、[秋元康](../Page/秋元康.md "wikilink")による最初のオフコースへの詞提供作品。そのきっかけについて秋元は「そもそもの出会いはね、[稲垣潤一](https://ja.wikipedia.org/wiki/稲垣潤一 "wikilink")のスタジオで。オフコースのメンバーもレコーディングに協力していたでしょ。松尾さんが曲を書いていたりと」「稲垣潤一のスタジオをやっていた頃から、いつかオフコースにも詞を書いてくれ、っていわれたりしていて、『2度目の夏』と『[LAST NIGHT](https://ja.wikipedia.org/wiki/たそがれ "wikilink")』のころから、書き出したんです」と、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")秋のファンクラブ会報用のインタビューで答えている。
+カップリング曲として収録された「2度目の夏」は、[秋元康](../Page/秋元康.md "wikilink")による最初のオフコースへの詞提供作品。そのきっかけについて秋元は「そもそもの出会いはね、[稲垣潤一](../Page/稲垣潤一.md "wikilink")のスタジオで。オフコースのメンバーもレコーディングに協力していたでしょ。松尾さんが曲を書いていたりと」「稲垣潤一のスタジオをやっていた頃から、いつかオフコースにも詞を書いてくれ、っていわれたりしていて、『2度目の夏』と『[LAST NIGHT](../Page/たそがれ.md "wikilink")』のころから、書き出したんです」と、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")秋のファンクラブ会報用のインタビューで答えている。
 
 アナログ盤の[EPレコードの初回盤には](https://ja.wikipedia.org/wiki/レコード#レコードの諸形態 "wikilink")、表に1985年のコンサートツアー・スケジュール、裏に同ツアー初日の[4月26日](../Page/4月26日.md "wikilink")、[千葉県文化会館](../Page/千葉県文化会館.md "wikilink")でのオープニング・ナンバー曲名当てクイズについて記述されている別紙が添付されていた\[4\]。
 

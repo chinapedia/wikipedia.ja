@@ -1,9 +1,9 @@
 > この記事は[Single Best \(day after tomorrow\)](https://ja.wikipedia.org/wiki/Single_Best_\(day_after_tomorrow\))から翻訳されています。
 
 
-『**single Best**』（シングル ベスト）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の音楽ユニット[day after tomorrowの](https://ja.wikipedia.org/wiki/day_after_tomorrow "wikilink")[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。
+『**single Best**』（シングル ベスト）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の音楽ユニット[day after tomorrowの](https://ja.wikipedia.org/wiki/day_after_tomorrow "wikilink")[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[8月17日](../Page/8月17日.md "wikilink")に発売された。
+[2005年](../Page/2005年.md "wikilink")[8月17日](../Page/8月17日.md "wikilink")に発売された。
 
 ## 解説
 
@@ -13,10 +13,10 @@
 
 1.  **[faraway](https://ja.wikipedia.org/wiki/faraway_\(day_after_tomorrowの曲\) "wikilink")**
       -
-        （作詞：[misono](https://ja.wikipedia.org/wiki/misono "wikilink") / 作曲：[北野正人](https://ja.wikipedia.org/wiki/北野正人 "wikilink") / 編曲：[石塚知生](../Page/石塚知生.md "wikilink")、[五十嵐充](../Page/五十嵐充.md "wikilink")）
+        （作詞：[misono](https://ja.wikipedia.org/wiki/misono "wikilink") / 作曲：[北野正人](../Page/北野正人.md "wikilink") / 編曲：[石塚知生](../Page/石塚知生.md "wikilink")、[五十嵐充](../Page/五十嵐充.md "wikilink")）
         1stシングル。1stミニアルバム『[day after tomorrow](https://ja.wikipedia.org/wiki/day_after_tomorrow_\(アルバム\) "wikilink")』からのリカットシングルである。
         デビュー当時は無名同様であったが、タイアップ効果もあって、一躍話題となった。
-2.  **[My faith](https://ja.wikipedia.org/wiki/My_faith_\(曲\) "wikilink")**
+2.  **[My faith](../Page/My_faith_\(曲\).md "wikilink")**
       -
         （作詞：misono / 作曲：[鈴木大輔](https://ja.wikipedia.org/wiki/鈴木大輔_\(ミュージシャン\) "wikilink") / 編曲：五十嵐充、[day after tomorrow](https://ja.wikipedia.org/wiki/day_after_tomorrow "wikilink")）
         2ndシングル。2ndミニアルバム『[day after tomorrow II](https://ja.wikipedia.org/wiki/day_after_tomorrow_II "wikilink")』からのリカットシングルである。
@@ -28,11 +28,11 @@
       -
         （作詞：misono / 作曲：鈴木大輔 / 編曲：石塚知生、五十嵐充、day after tomorrow）
         4thシングル。1stフルアルバム『[elements](https://ja.wikipedia.org/wiki/elements_\(day_after_tomorrowのアルバム\) "wikilink")』からのリカットシングルである。
-5.  **[CURRENT](https://ja.wikipedia.org/wiki/DAY_STAR "wikilink")**
+5.  **[CURRENT](../Page/DAY_STAR.md "wikilink")**
       -
         （作詞：misono / 作曲：北野正人 / 編曲：五十嵐充、day after tomorrow）
         5thシングル「DAY STAR」の1曲目。
-6.  **[Smartly](https://ja.wikipedia.org/wiki/DAY_STAR "wikilink")**
+6.  **[Smartly](../Page/DAY_STAR.md "wikilink")**
       -
         （作詞：misono / 作曲：鈴木大輔 / 編曲：石塚知生、day after tomorrow）
         5thシングル「DAY STAR」の3曲目。このアルバムと、さらに同時発売された『[complete Best](https://ja.wikipedia.org/wiki/complete_Best "wikilink")』によってアルバム初収録となった。
@@ -47,7 +47,7 @@
 9.  **[Dear Friends](https://ja.wikipedia.org/wiki/Dear_Friends/It's_My_Way "wikilink")**
       -
         （作詞：[Yoshi](../Page/Yoshi.md "wikilink")、misono / 作曲：鈴木大輔 / 編曲：五十嵐充、day after tomorrow）
-        7thシングル「Dear Friends／It's My Way」の1曲目。作詞には小説『[Deep Love](https://ja.wikipedia.org/wiki/Deep_Love "wikilink")』や『恋バナ』で知られる作家[Yoshi](../Page/Yoshi.md "wikilink")も参加している。余談だが、misonoの姉である[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")は『恋バナ』のイメージソング「[flower](https://ja.wikipedia.org/wiki/flower_\(倖田來未の曲\) "wikilink")」を歌っているが、その際の作詞もYoshiが担当した。
+        7thシングル「Dear Friends／It's My Way」の1曲目。作詞には小説『[Deep Love](../Page/Deep_Love.md "wikilink")』や『恋バナ』で知られる作家[Yoshi](../Page/Yoshi.md "wikilink")も参加している。余談だが、misonoの姉である[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")は『恋バナ』のイメージソング「[flower](https://ja.wikipedia.org/wiki/flower_\(倖田來未の曲\) "wikilink")」を歌っているが、その際の作詞もYoshiが担当した。
 10. **[螢火](https://ja.wikipedia.org/wiki/螢火/Show_Time "wikilink")**
       -
         （作詞：五十嵐充 / 作曲：鈴木大輔 / 編曲：五十嵐充、day after tomorrow）
@@ -56,7 +56,7 @@
       -
         （作詞：五十嵐充 / 作曲：鈴木大輔 / 編曲：五十嵐充、day after tomorrow）
         9thシングル。売上は「moon gate」に次ぐ枚数で約10万枚である。
-12. **[君と逢えた奇蹟](https://ja.wikipedia.org/wiki/君と逢えた奇蹟 "wikilink")**
+12. **[君と逢えた奇蹟](../Page/君と逢えた奇蹟.md "wikilink")**
       -
         （作詞：五十嵐充 / 作曲：鈴木大輔 / 編曲：五十嵐充、day after tomorrow）
         10thシングル。この作品から11thシングル「ユリノハナ」、3rdフルアルバム『[day alone](https://ja.wikipedia.org/wiki/day_alone "wikilink")』と3作連続でオリジナル映画『[day alone 〜マノーラと姫ちゃん〜](https://ja.wikipedia.org/wiki/day_alone_〜マノーラと姫ちゃん〜 "wikilink")』が収録された[DVD](../Page/DVD.md "wikilink")が付属された。

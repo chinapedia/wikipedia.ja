@@ -1,17 +1,17 @@
 > この記事は[CODED ARMS](https://ja.wikipedia.org/wiki/CODED_ARMS)から翻訳されています。
 
 
-『**CODED ARMS**』（コーデッドアームズ）は、2005年7月に[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")が発売した[PlayStation Portable用の](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")[FPSである](../Page/ファーストパーソン・シューティングゲーム.md "wikilink")。
+『**CODED ARMS**』（コーデッドアームズ）は、2005年7月に[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")が発売した[PlayStation Portable用の](../Page/PlayStation_Portable.md "wikilink")[FPSである](../Page/ファーストパーソン・シューティングゲーム.md "wikilink")。
 
 ## 概要
 
 [ランダムマップ生成を取り入れたゲーム展開は毎回新しいマップで遊べる](../Page/不思議のダンジョン.md "wikilink")。[ローグライクゲーム](../Page/ローグライクゲーム.md "wikilink")をFPSにしたもの。武器を成長させるシステムもあるため[RPGとしての赴きもある](../Page/コンピュータRPG.md "wikilink")。
 
-[PSP初](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")、かつ純日本産のFPSである。
+[PSP初](../Page/PlayStation_Portable.md "wikilink")、かつ純日本産のFPSである。
 
 ## ストーリー
 
-[20世紀](../Page/20世紀.md "wikilink")末に起こった[ネットワーク化の波が社会の隅々にまで行き渡り](https://ja.wikipedia.org/wiki/コンピュータネットワーク "wikilink")、もはやネットワークを介さずに社会生活を送る事が事実上不可能となった時代。
+[20世紀](../Page/20世紀.md "wikilink")末に起こった[ネットワーク化の波が社会の隅々にまで行き渡り](../Page/コンピュータネットワーク.md "wikilink")、もはやネットワークを介さずに社会生活を送る事が事実上不可能となった時代。
 
 同様に急激な進化を遂げた医療テクノロジーは、デジタルデバイスを接続した脳とネットワークとの直結を可能にしていた。
 
@@ -23,13 +23,13 @@
 
 曰く、「異星人との戦争がリアルに再現された、極上のシューティングゲーム\!\!」
 
-しかし爆発的なアクセス増加に歩調を合わせるように、電脳廃人（スリーパー）の数も急増していく。[ユーザー](https://ja.wikipedia.org/wiki/ユーザー "wikilink")の全[人格](../Page/人格.md "wikilink")を[プログラム](../Page/プログラム.md "wikilink")化し、[バックアップ](../Page/バックアップ.md "wikilink")なしで[システム](../Page/システム.md "wikilink")にジャックインさせるという、狂気じみた[アーキテクチャ](https://ja.wikipedia.org/wiki/アーキテクチャ "wikilink")。「A.I.D.A.」の致命的欠陥とは、シミュレーション動作中に死亡した場合、人格を復帰できないという恐るべきものだったのだ。
+しかし爆発的なアクセス増加に歩調を合わせるように、電脳廃人（スリーパー）の数も急増していく。[ユーザー](https://ja.wikipedia.org/wiki/ユーザー "wikilink")の全[人格](../Page/人格.md "wikilink")を[プログラム](../Page/プログラム.md "wikilink")化し、[バックアップ](../Page/バックアップ.md "wikilink")なしで[システム](../Page/システム.md "wikilink")にジャックインさせるという、狂気じみた[アーキテクチャ](../Page/アーキテクチャ.md "wikilink")。「A.I.D.A.」の致命的欠陥とは、シミュレーション動作中に死亡した場合、人格を復帰できないという恐るべきものだったのだ。
 
 暴走したシステム内部では、[イレギュラー](https://ja.wikipedia.org/wiki/イレギュラー "wikilink")な攻性プログラム「[バグ](../Page/バグ.md "wikilink")」やセキュリティプログラム「ボット」が増殖し、プレーヤーの帰還率は40%を切るようになっていた。
 
 事態を重く見た関係機関が、システムの破壊・消去を試みたが、ネットワーク上のあらゆる場所に入り込んだプログラムは、もはや手出しのできる状態ではなかった。抜本的な解決策を失った彼らは、「A.I.D.A.」にアクセスさえしなければ危険性はないと表明し、これを法的に禁止する事で、事態は一応の決着をみた。
 
-しかしその後も、「A.I.D.A.」に埋もれているレアデータへの所有欲はとどまる事を知らず、いつしかスリルと莫大な[ウェブマネー](https://ja.wikipedia.org/wiki/ウェブマネー "wikilink")を引き換えに、データの[サルベージ](https://ja.wikipedia.org/wiki/サルベージ "wikilink")を請け負う職業が生まれる。様々な強化プログラムで武装し、大金と自らの人格を賭けて「A.I.D.A.」に挑む筋金入りのハッカーたち。
+しかしその後も、「A.I.D.A.」に埋もれているレアデータへの所有欲はとどまる事を知らず、いつしかスリルと莫大な[ウェブマネー](../Page/ウェブマネー.md "wikilink")を引き換えに、データの[サルベージ](https://ja.wikipedia.org/wiki/サルベージ "wikilink")を請け負う職業が生まれる。様々な強化プログラムで武装し、大金と自らの人格を賭けて「A.I.D.A.」に挑む筋金入りのハッカーたち。
 
 彼らは、蔑みと密かな羨望を込めて「コーデッド」と呼ばれた……。
 

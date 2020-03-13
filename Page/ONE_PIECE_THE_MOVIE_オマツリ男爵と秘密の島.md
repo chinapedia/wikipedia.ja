@@ -1,13 +1,13 @@
 > この記事は[ONE PIECE THE MOVIE ](https://ja.wikipedia.org/wiki/ONE_PIECE_THE_MOVIE_)から翻訳されています。
 
 
-『**ONE PIECE THE MOVIE オマツリ男爵と秘密の島**』（ワンピース ザ ムービー オマツリだんしゃくとひみつのしま）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月5日](../Page/3月5日.md "wikilink")に公開された日本の[アニメーション映画](../Page/アニメーション映画.md "wikilink")。漫画『[ONE PIECE](../Page/ONE_PIECE.md "wikilink")』を原作とした[テレビアニメの劇場版第](https://ja.wikipedia.org/wiki/ONE_PIECE_\(アニメ\) "wikilink")6作目。
+『**ONE PIECE THE MOVIE オマツリ男爵と秘密の島**』（ワンピース ザ ムービー オマツリだんしゃくとひみつのしま）は、[2005年](../Page/2005年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")に公開された日本の[アニメーション映画](../Page/アニメーション映画.md "wikilink")。漫画『[ONE PIECE](../Page/ONE_PIECE.md "wikilink")』を原作とした[テレビアニメの劇場版第](../Page/ONE_PIECE_\(アニメ\).md "wikilink")6作目。
 
 ## 概要
 
-[細田守](https://ja.wikipedia.org/wiki/細田守 "wikilink")の長編アニメーション映画初監督作品。
+[細田守](../Page/細田守.md "wikilink")の長編アニメーション映画初監督作品。
 
-細田によれば、『[ハウルの動く城](https://ja.wikipedia.org/wiki/ハウルの動く城 "wikilink")』制作時のスタッフ召集の失敗と、その失敗によって絶望しているところへ新たな仲間が集まってきてくれた経験を、この作品の基にしているのだという\[1\]。
+細田によれば、『[ハウルの動く城](../Page/ハウルの動く城.md "wikilink")』制作時のスタッフ召集の失敗と、その失敗によって絶望しているところへ新たな仲間が集まってきてくれた経験を、この作品の基にしているのだという\[1\]。
 
 ## ストーリー
 
@@ -17,20 +17,20 @@
 
 ### 麦わらの一味
 
-  - [モンキー・D・ルフィ](https://ja.wikipedia.org/wiki/モンキー・D・ルフィ "wikilink")
+  - [モンキー・D・ルフィ](../Page/モンキー・D・ルフィ.md "wikilink")
     声 - [田中真弓](../Page/田中真弓.md "wikilink")
-  - [ロロノア・ゾロ](https://ja.wikipedia.org/wiki/ロロノア・ゾロ "wikilink")
-    声 - [中井和哉](https://ja.wikipedia.org/wiki/中井和哉 "wikilink")
-  - [ナミ](https://ja.wikipedia.org/wiki/ナミ_\(ONE_PIECE\) "wikilink")
-    声 - [岡村明美](https://ja.wikipedia.org/wiki/岡村明美 "wikilink")
-  - [ウソップ](https://ja.wikipedia.org/wiki/ウソップ "wikilink")
+  - [ロロノア・ゾロ](../Page/ロロノア・ゾロ.md "wikilink")
+    声 - [中井和哉](../Page/中井和哉.md "wikilink")
+  - [ナミ](../Page/ナミ_\(ONE_PIECE\).md "wikilink")
+    声 - [岡村明美](../Page/岡村明美.md "wikilink")
+  - [ウソップ](../Page/ウソップ.md "wikilink")
     声 - [山口勝平](../Page/山口勝平.md "wikilink")
   - [サンジ](../Page/サンジ.md "wikilink")
     声 - [平田広明](../Page/平田広明.md "wikilink")
   - [トニートニー・チョッパー](https://ja.wikipedia.org/wiki/トニートニー・チョッパー "wikilink")
     声 - [大谷育江](../Page/大谷育江.md "wikilink")
-  - [ニコ・ロビン](https://ja.wikipedia.org/wiki/ニコ・ロビン "wikilink")
-    声 - [山口由里子](https://ja.wikipedia.org/wiki/山口由里子 "wikilink")
+  - [ニコ・ロビン](../Page/ニコ・ロビン.md "wikilink")
+    声 - [山口由里子](../Page/山口由里子.md "wikilink")
 
 ### オリジナルキャラクター
 
@@ -45,7 +45,7 @@
     元はレッドアローズ海賊団の船長。かつて、ゴールド・ロジャーに会った直後、嵐で全ての仲間を失ってしまう。オマツリ島に漂着し悲しみのどん底にいた時リリー・カーネーションに出会い、島に来た人間を生贄にする事で仲間を復活させられることを知る。リリーの力でムチゴロウたちを復活させ、彼らの命を繋ぐため、より強い者を生贄にささげるべく、島をオマツリ島と称し、強い海賊を島におびき寄せるようになる。
     オマツリ島に訪れたルフィたちに試練を与え、島の秘密を調べるチョッパーとロビンを襲撃する。その後、チョッパーたちがいなくなったことに怒りを露にしたルフィを追い込み、ルフィ以外をリリーに取り込む。再び立ち向かってきたルフィを返り討ちにし、一度は失意のどん底に叩き落す。ブリーフの援護を受けたルフィの一撃をくらうと、リリーの真の姿を露にさせ、ルフィに無数の矢を浴びせる。しかし、お茶の間パパにリリーを射抜かれ、ルフィの渾身の一撃をくらい敗北した。その後の消息は不明。
   - リリー・カーネーション
-    声 - [渡辺美佐](https://ja.wikipedia.org/wiki/渡辺美佐_\(声優\) "wikilink")
+    声 - [渡辺美佐](../Page/渡辺美佐_\(声優\).md "wikilink")
     オマツリ男爵の肩にいる、人語を喋る小さな花。オマツリ島の固有種で、人間を生贄にする事で死者を復活させる事が出来る「死と再生の花」。リリーの力で甦った人間の頭には双葉がついている。リリーが長い間生贄を食べていないと甦らせた人間は体調不良に陥る。
     普段は可愛らしい姿をしているが、真の姿はとても醜悪。男爵の肩に乗っているのが本体で、島の頂上にある巨大な管のような器官で生贄を食べる。この器官が大ダメージを受けると、数え切れないほどの無数の矢に分裂する（この矢は全て男爵が意のままに操れる）。お茶の間パパが放った矢をくらい消滅した。
   - ムチゴロウ
@@ -53,11 +53,11 @@
     オマツリ男爵の部下。第1の試練「金魚すくい」に登場。
     純粋な性格で、ウソップの嘘に簡単に引っかかった。超巨大金魚「ロザリオちゃん」をすくうことに成功したが、ロビンとチョッパーの連係プレイに阻まれ敗北した。ロビンをもてなした際、ロビンの尋問でリリー・カーネーションの存在を漏らしてしまった。さらに晩餐会では、ナミに自分の素性を喋ってしまった。
   - ケロジイ、ケロショット、ケロデーク、ケロコ
-    声 - [青野武](../Page/青野武.md "wikilink")、[佐藤正治](https://ja.wikipedia.org/wiki/佐藤正治_\(声優\) "wikilink")、[八奈見乗児](../Page/八奈見乗児.md "wikilink")、[山本圭子](https://ja.wikipedia.org/wiki/山本圭子 "wikilink")
+    声 - [青野武](../Page/青野武.md "wikilink")、[佐藤正治](../Page/佐藤正治_\(声優\).md "wikilink")、[八奈見乗児](../Page/八奈見乗児.md "wikilink")、[山本圭子](../Page/山本圭子.md "wikilink")
     オマツリ男爵の部下。第2の試練「輪投げ」に登場。
     ケロジイはリーダー的存在、ケロショットは攻撃の要、ケロデークは修理が得意、ケロコは最年少で紅一点。ケロショットとケロデークはゾロ・サンジと対戦し、二人に何度も船を壊され、そのたびに修理し改良するも敗北。ケロジイとケロコはナミ・ウソップと対戦し、ケロコは敗れるもナミとウソップを退ける。残ったケロジイは喧嘩するゾロとサンジを翻弄するも、ウソップの奇襲をくらい敗北した。
   - DJガッパ
-    声 - [池松壮亮](https://ja.wikipedia.org/wiki/池松壮亮 "wikilink")
+    声 - [池松壮亮](../Page/池松壮亮.md "wikilink")
     オマツリ男爵の部下。第3の試練「射的」に登場。
     話すとき語尾に「プ」をつける。頭の皿が爆弾になっており、それを投げて戦う。試練の前にウソップに接触し、帽子を奪った。試練ではゾロたちを襲うが、ゾロの攻撃を受けても一切血が出ないことに疑問を覚えていた。
   - コテツ
@@ -76,13 +76,13 @@
     お茶の間海賊団船長。
     家族は全員お茶の間海賊団船員。妻はオマツリ男爵の手にかかり死去している。とても頼りない性格だが、子ども達を喜ばせるために一生懸命。チョッパーとオマツリ男爵の手配書を調べていた際、オマツリ男爵の襲撃を受ける。チョッパーがリリーに捕まった際、救出を試みる娘たちに協力を懇願されるもこれを拒否。それでも、クライマックスではデイジーたちの想いに報いるため、弓矢でリリーを射抜く活躍を見せた。
   - ローザ
-    声 - [大本眞基子](https://ja.wikipedia.org/wiki/大本眞基子 "wikilink")
+    声 - [大本眞基子](../Page/大本眞基子.md "wikilink")
     お茶の間パパの長女。あまり父親を信用していない。
   - リック
     声 - [阪口大助](../Page/阪口大助.md "wikilink")
     お茶の間パパの長男。メガネをかけた少年。
   - デイジー
-    声 - [永井杏](https://ja.wikipedia.org/wiki/永井杏 "wikilink")
+    声 - [永井杏](../Page/永井杏.md "wikilink")
     お茶の間パパの次女。
     ローザと違い、父親を慕っている。母親譲りの優れた聴覚を持っており、耳がとてもいい。ルフィの助けを求めるチョッパーたちの声をルフィに届けた。
 
@@ -92,22 +92,22 @@
 
 ## スタッフ
 
-  - 製作 - 岡田裕介、[高橋浩](https://ja.wikipedia.org/wiki/高橋浩 "wikilink")、[山路則隆](https://ja.wikipedia.org/wiki/山路則隆 "wikilink")、関一由、竹内淳
+  - 製作 - 岡田裕介、[高橋浩](../Page/高橋浩.md "wikilink")、[山路則隆](https://ja.wikipedia.org/wiki/山路則隆 "wikilink")、関一由、竹内淳
   - 原作 - [尾田栄一郎](../Page/尾田栄一郎.md "wikilink")
   - 企画 - [梅澤淳稔](../Page/梅澤淳稔.md "wikilink")、清水慎治
-  - 脚本 - [伊藤正宏](https://ja.wikipedia.org/wiki/伊藤正宏 "wikilink")
+  - 脚本 - [伊藤正宏](../Page/伊藤正宏.md "wikilink")
   - 音楽 - [田中公平](../Page/田中公平.md "wikilink")
   - 製作担当 - 椎葉一夫
   - 編集 - 後藤正浩
   - 録音 - 市川修
-  - 効果 - [新井秀徳](https://ja.wikipedia.org/wiki/フィズサウンドクリエイション "wikilink")
+  - 効果 - [新井秀徳](../Page/フィズサウンドクリエイション.md "wikilink")
   - 撮影監督 - 白鳥友和
   - CG監督 - 西川和宏、新井啓介
   - CG合成監督 - 加藤律昭
-  - 美術監督 - [串田達也](../Page/串田達也.md "wikilink")・[加藤浩](https://ja.wikipedia.org/wiki/加藤浩 "wikilink")（加藤は美監補佐として参加）
+  - 美術監督 - [串田達也](../Page/串田達也.md "wikilink")・[加藤浩](../Page/加藤浩.md "wikilink")（加藤は美監補佐として参加）
   - 色彩設計 - 塚田劭
-  - 作画監督・キャラクターデザイン - [すしお](https://ja.wikipedia.org/wiki/すしお "wikilink")、[山下高明](../Page/山下高明.md "wikilink")、[久保田誓](https://ja.wikipedia.org/wiki/久保田誓 "wikilink")
-  - 監督 - [細田守](https://ja.wikipedia.org/wiki/細田守 "wikilink")
+  - 作画監督・キャラクターデザイン - [すしお](../Page/すしお.md "wikilink")、[山下高明](../Page/山下高明.md "wikilink")、[久保田誓](../Page/久保田誓.md "wikilink")
+  - 監督 - [細田守](../Page/細田守.md "wikilink")
 
 ### 原画
 
@@ -119,14 +119,14 @@
     小倉寛之 小松田大全 苫政三 [高橋英樹](https://ja.wikipedia.org/wiki/高橋英樹_\(アニメーター\) "wikilink") 三浦春樹
     [馬越嘉彦](../Page/馬越嘉彦.md "wikilink") 奥田佳子 馬場充子 駒井一也 [吉田徹](../Page/吉田徹.md "wikilink")
     杉浦幸次 [橋本敬史](../Page/橋本敬史.md "wikilink") [福田道生](../Page/福田道生.md "wikilink") [芳垣祐介](https://ja.wikipedia.org/wiki/芳垣祐介 "wikilink") 新井浩一
-    [伊藤嘉之](https://ja.wikipedia.org/wiki/伊藤嘉之 "wikilink") [中鶴勝祥](../Page/中鶴勝祥.md "wikilink") 崔ふみひで [白石亜由美](https://ja.wikipedia.org/wiki/劇団イヌカレー "wikilink") [松本憲生](../Page/松本憲生.md "wikilink")
+    [伊藤嘉之](../Page/伊藤嘉之.md "wikilink") [中鶴勝祥](../Page/中鶴勝祥.md "wikilink") 崔ふみひで [白石亜由美](https://ja.wikipedia.org/wiki/劇団イヌカレー "wikilink") [松本憲生](../Page/松本憲生.md "wikilink")
     加藤裕美 桑原幹根 [森久司](../Page/森久司.md "wikilink") 楠三十郎 [入好さとる](../Page/入好さとる.md "wikilink")
     [今石洋之](../Page/今石洋之.md "wikilink") 黒柳賢治 ROSETTE.K 鈴木勤 [渡部圭祐](https://ja.wikipedia.org/wiki/渡部圭祐 "wikilink")
     佐藤裕子 ミサワユキヒロ 一ノ関敦 [吉成曜](../Page/吉成曜.md "wikilink") 浅野恭司
     矢崎良美 佐藤陽子 [平川哲生](https://ja.wikipedia.org/wiki/平川哲生 "wikilink") 寺尾洋之 猿渡聖加
     鈴木奈都子 小松こずえ 青山充 袴田祐二 大内智美
     [竹田欣弘](../Page/竹田欣弘.md "wikilink") 島貫正弘 [青山浩行](https://ja.wikipedia.org/wiki/青山浩行 "wikilink") 福島伸一郎 中島由喜
-    宮下雄次 真中孝之 森知鶴 [本田雄](https://ja.wikipedia.org/wiki/本田雄 "wikilink")（ノンクレ）
+    宮下雄次 真中孝之 森知鶴 [本田雄](../Page/本田雄.md "wikilink")（ノンクレ）
 
 ## 主題歌
 

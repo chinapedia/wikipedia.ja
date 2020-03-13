@@ -5,7 +5,7 @@
 
 ## 解説
 
-本作も前作に続き、ミニアルバムである。収録曲「[My faith](https://ja.wikipedia.org/wiki/My_faith_\(曲\) "wikilink")」、「[futurity](https://ja.wikipedia.org/wiki/futurity "wikilink")」はシングルとしてもリリースされた。「Special Thanks」のmisonoの部分には、[EARTH](https://ja.wikipedia.org/wiki/EARTH_\(歌手グループ\) "wikilink")・[松室麻衣](../Page/松室麻衣.md "wikilink")（元[dream](https://ja.wikipedia.org/wiki/Dream_\(歌手グループ\) "wikilink")）・[D・A・Iと記載されている](https://ja.wikipedia.org/wiki/長尾大 "wikilink")。
+本作も前作に続き、ミニアルバムである。収録曲「[My faith](../Page/My_faith_\(曲\).md "wikilink")」、「[futurity](https://ja.wikipedia.org/wiki/futurity "wikilink")」はシングルとしてもリリースされた。「Special Thanks」のmisonoの部分には、[EARTH](../Page/EARTH_\(歌手グループ\).md "wikilink")・[松室麻衣](../Page/松室麻衣.md "wikilink")（元[dream](https://ja.wikipedia.org/wiki/Dream_\(歌手グループ\) "wikilink")）・[D・A・Iと記載されている](../Page/長尾大.md "wikilink")。
 
 ## 収録曲
 
@@ -16,12 +16,12 @@
         3rdシングルとしてリカットされた。
 2.  **rosy girl** (4:05)
       -
-        （作詞：misono / 作曲：[北野正人](https://ja.wikipedia.org/wiki/北野正人 "wikilink") / 編曲：五十嵐充、day after tomorrow）
+        （作詞：misono / 作曲：[北野正人](../Page/北野正人.md "wikilink") / 編曲：五十嵐充、day after tomorrow）
         [日本テレビ](../Page/日本テレビ放送網.md "wikilink")『S.O.S』イメージソング
-3.  **[My faith](https://ja.wikipedia.org/wiki/My_faith_\(曲\) "wikilink")** (5:11)
+3.  **[My faith](../Page/My_faith_\(曲\).md "wikilink")** (5:11)
       -
         （作詞：misono / 作曲：鈴木大輔 / 編曲：五十嵐充、day after tomorrow）
-        [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[月9ドラマ](../Page/フジテレビ月曜9時枠の連続ドラマ.md "wikilink")『[ホーム&アウェイ](https://ja.wikipedia.org/wiki/ホーム&アウェイ_\(テレビドラマ\) "wikilink")』主題歌
+        [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[月9ドラマ](../Page/フジテレビ月曜9時枠の連続ドラマ.md "wikilink")『[ホーム&アウェイ](../Page/ホーム&アウェイ_\(テレビドラマ\).md "wikilink")』主題歌
         2ndシングルとしてリカットされた。
 4.  **Hello, everybody\!** (3:49)
       -
@@ -34,6 +34,6 @@
 6.  **after all...** (4:51)
       -
         （作詞：misono / 作曲：五十嵐充 / 編曲：五十嵐充、day after tomorrow）
-        フジテレビ『[B.C.ビューティー・コロシアム](https://ja.wikipedia.org/wiki/B.C.ビューティー・コロシアム "wikilink")』2002年10月から2003年3月までのテーマソング
+        フジテレビ『[B.C.ビューティー・コロシアム](../Page/B.C.ビューティー・コロシアム.md "wikilink")』2002年10月から2003年3月までのテーマソング
 
 [Category:Day_after_tomorrowのアルバム](https://ja.wikipedia.org/wiki/Category:Day_after_tomorrowのアルバム "wikilink") [Category:2002年のミニ・アルバム](https://ja.wikipedia.org/wiki/Category:2002年のミニ・アルバム "wikilink") [Category:松浦勝人がプロデュースしたアルバム](https://ja.wikipedia.org/wiki/Category:松浦勝人がプロデュースしたアルバム "wikilink")

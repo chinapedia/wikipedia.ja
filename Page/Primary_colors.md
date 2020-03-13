@@ -5,7 +5,7 @@
 
 ## 解説
 
-タイトルは「色の三原色」の意味。[北野正人](https://ja.wikipedia.org/wiki/北野正人 "wikilink")曰く「三色あれば何色でもできる」＝「三人揃うことで何でも挑戦できる」ということ。また、メンバーを三色のどの色に例えるかという問いに「misono＝赤、北野正人＝緑、鈴木大輔＝青ではないか」とも語っていた。メンバーいわく「季節を感じられるものも多く、一年中楽しめる作品」に仕上がっている。
+タイトルは「色の三原色」の意味。[北野正人](../Page/北野正人.md "wikilink")曰く「三色あれば何色でもできる」＝「三人揃うことで何でも挑戦できる」ということ。また、メンバーを三色のどの色に例えるかという問いに「misono＝赤、北野正人＝緑、鈴木大輔＝青ではないか」とも語っていた。メンバーいわく「季節を感じられるものも多く、一年中楽しめる作品」に仕上がっている。
 
 本作に先行して、「[螢火／Show Time](https://ja.wikipedia.org/wiki/螢火/Show_Time "wikilink")」がシングルとしてリリースされた。misonoの実姉である[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")も、同日にアルバム『[feel my mind](https://ja.wikipedia.org/wiki/feel_my_mind "wikilink")』をリリースしている。
 
@@ -24,7 +24,7 @@
         6thシングル「moon gate」の1曲目。
 2.  **タイムマシーンで連れ出して** (4:16)
       -
-        （作詞・作曲：[北野正人](https://ja.wikipedia.org/wiki/北野正人 "wikilink") / 編曲：[石塚知生](../Page/石塚知生.md "wikilink")、五十嵐充、day after tomorrow）
+        （作詞・作曲：[北野正人](../Page/北野正人.md "wikilink") / 編曲：[石塚知生](../Page/石塚知生.md "wikilink")、五十嵐充、day after tomorrow）
 3.  **フィットネス** (3:47)
       -
         （作詞：day after tomorrow、五十嵐充 / 作曲：鈴木大輔 / 編曲：石塚知生、五十嵐充、day after tomorrow）

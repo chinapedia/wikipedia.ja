@@ -1,13 +1,13 @@
 > この記事は[RCA](https://ja.wikipedia.org/wiki/RCA)から翻訳されています。
 
 
-**RCAドーム**（*RCA Dome*）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[インディアナ州](../Page/インディアナ州.md "wikilink")[インディアナポリス](https://ja.wikipedia.org/wiki/インディアナポリス "wikilink")にあった多目的[ドームである](../Page/ドーム球場.md "wikilink")。
+**RCAドーム**（*RCA Dome*）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[インディアナ州](../Page/インディアナ州.md "wikilink")[インディアナポリス](../Page/インディアナポリス.md "wikilink")にあった多目的[ドームである](../Page/ドーム球場.md "wikilink")。
 
-[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に[NFL](../Page/NFL.md "wikilink")[インディアナポリス・コルツ](https://ja.wikipedia.org/wiki/インディアナポリス・コルツ "wikilink")の本拠地として建設された。当初は**フージャー・ドーム**（*Hoosier Dome*）という名称であったが、[1994年](../Page/1994年.md "wikilink")に[RCA](https://ja.wikipedia.org/wiki/RCA "wikilink")が[命名権](https://ja.wikipedia.org/wiki/命名権 "wikilink")を10年1000万ドルで買い取り、RCAドームと改名された。
+[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に[NFL](../Page/NFL.md "wikilink")[インディアナポリス・コルツ](../Page/インディアナポリス・コルツ.md "wikilink")の本拠地として建設された。当初は**フージャー・ドーム**（*Hoosier Dome*）という名称であったが、[1994年](../Page/1994年.md "wikilink")に[RCA](../Page/RCA.md "wikilink")が[命名権](https://ja.wikipedia.org/wiki/命名権 "wikilink")を10年1000万ドルで買い取り、RCAドームと改名された。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")には[ルーカス・オイル・スタジアム](../Page/ルーカス・オイル・スタジアム.md "wikilink")がRCAドームの南側に完成し、インディアナポリス・コルツの新本拠地となる。それに伴い、RCAドームは12月20日午前9時36分に[爆破解体](../Page/爆破解体.md "wikilink")され\[1\]、現在隣接しているコンベンションホールが拡張された。
 
-1985年には[NBAオールスターゲーム](../Page/NBAオールスターゲーム.md "wikilink")が、1992年には[レッスルマニアVIII](https://ja.wikipedia.org/wiki/レッスルマニアVIII "wikilink")が、1991年、1997年、2000年、2006年には[NCAA男子バスケットボールトーナメント](../Page/NCAA男子バスケットボールトーナメント.md "wikilink")のファイナル4が、2002年には[バスケットボール世界選手権が開催された](https://ja.wikipedia.org/wiki/2002年バスケットボール世界選手権 "wikilink")。
+1985年には[NBAオールスターゲーム](../Page/NBAオールスターゲーム.md "wikilink")が、1992年には[レッスルマニアVIII](https://ja.wikipedia.org/wiki/レッスルマニアVIII "wikilink")が、1991年、1997年、2000年、2006年には[NCAA男子バスケットボールトーナメント](../Page/NCAA男子バスケットボールトーナメント.md "wikilink")のファイナル4が、2002年には[バスケットボール世界選手権が開催された](../Page/2002年バスケットボール世界選手権.md "wikilink")。
 
 ## 脚注
 

@@ -26,9 +26,9 @@
 ## 参加ミュージシャン
 
   - misono:[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
-  - [北野正人](https://ja.wikipedia.org/wiki/北野正人 "wikilink"):[ギター](../Page/ギター.md "wikilink")
+  - [北野正人](../Page/北野正人.md "wikilink"):[ギター](../Page/ギター.md "wikilink")
   - 鈴木大輔:[キーボード](../Page/キーボード_\(楽器\).md "wikilink")
-  - 五十嵐充:[プログラミング](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")、オペレーション、キーボード
+  - 五十嵐充:[プログラミング](../Page/ミュージックシーケンサー.md "wikilink")、オペレーション、キーボード
   - 加藤薫:[エレクトリックギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")
   - 石塚知生:プログラミング、キーボード
 

@@ -11,7 +11,7 @@
 ## 収録曲
 
 1.  **CURRENT**
-      - 作詞：[misono](https://ja.wikipedia.org/wiki/misono "wikilink") / 作曲：[北野正人](https://ja.wikipedia.org/wiki/北野正人 "wikilink") / 編曲：[五十嵐充](../Page/五十嵐充.md "wikilink")、day after tomorrow
+      - 作詞：[misono](https://ja.wikipedia.org/wiki/misono "wikilink") / 作曲：[北野正人](../Page/北野正人.md "wikilink") / 編曲：[五十嵐充](../Page/五十嵐充.md "wikilink")、day after tomorrow
     <!-- end list -->
       -
         [森永製菓](https://ja.wikipedia.org/wiki/森永製菓 "wikilink")「[ICE BOX](https://ja.wikipedia.org/wiki/ICE_BOX "wikilink")」 TV-CFソング
@@ -54,7 +54,7 @@
   - misono：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
   - 北野正人：[ギター](../Page/ギター.md "wikilink")
   - 鈴木大輔：[キーボード](../Page/キーボード_\(楽器\).md "wikilink")
-  - 五十嵐充：[プログラミング](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")、オペレーション、キーボード
+  - 五十嵐充：[プログラミング](../Page/ミュージックシーケンサー.md "wikilink")、オペレーション、キーボード
   - 加藤薫：[エレクトリックギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")、[アコースティックギター](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink")
   - [石塚知生](../Page/石塚知生.md "wikilink")：プログラミング、キーボード（Smartly）
 

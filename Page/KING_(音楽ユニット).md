@@ -1,7 +1,7 @@
 > この記事は[KING \(\)](https://ja.wikipedia.org/wiki/KING_\(\))から翻訳されています。
 
 
-**KING**（キング）は、2003年から2004年まで活動した[女性アイドルグループ](https://ja.wikipedia.org/wiki/ダンス "wikilink")。[クィーンズアベニューアルファ](https://ja.wikipedia.org/wiki/クィーンズアベニューアルファ "wikilink")所属。代表曲「**WE ARE THE KING**」。
+**KING**（キング）は、2003年から2004年まで活動した[女性アイドルグループ](../Page/ダンス.md "wikilink")。[クィーンズアベニューアルファ](https://ja.wikipedia.org/wiki/クィーンズアベニューアルファ "wikilink")所属。代表曲「**WE ARE THE KING**」。
 
 ## メンバー
 
@@ -10,7 +10,7 @@
   - MARIYA
     [伊澤麻璃也](https://ja.wikipedia.org/wiki/伊澤麻璃也 "wikilink")。1988年3月2日生まれ。
   - AYANO
-    [郡司あやの](https://ja.wikipedia.org/wiki/郡司あやの "wikilink")。1988年5月24日生まれ。
+    [郡司あやの](../Page/郡司あやの.md "wikilink")。1988年5月24日生まれ。
   - SAYA
     [山丸佐夜](https://ja.wikipedia.org/wiki/山丸佐夜 "wikilink")。1988年7月23日生まれ。
 
@@ -48,10 +48,10 @@
     1.  READY FOR THE TIME\[4:21\]
           -
             作詞：TYRANT・KING／作曲・編曲：Silas Lee
-            [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ「[冒険遊記プラスターワールド](https://ja.wikipedia.org/wiki/冒険遊記プラスターワールド "wikilink")」OP
+            [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ「[冒険遊記プラスターワールド](../Page/冒険遊記プラスターワールド.md "wikilink")」OP
     2.  REVOLUTION\[3:31\]
           -
-            作詞：堂安ゆうすけ／作曲：[渡辺未来](https://ja.wikipedia.org/wiki/渡辺未来 "wikilink")／編曲：棚橋UNA信仁
+            作詞：堂安ゆうすけ／作曲：[渡辺未来](../Page/渡辺未来.md "wikilink")／編曲：棚橋UNA信仁
     3.  READY FOR THE TIME (PLUST ON MIX)\[4:22\]
     4.  READY FOR THE TIME (INSTRUMENTAL)\[4:21\]
     5.  REVOLUTION (INSTRUMENTAL)\[3:28\]
@@ -105,7 +105,7 @@
 
 ### CM
 
-  - [エースコック](https://ja.wikipedia.org/wiki/エースコック "wikilink") / スーパーカップ
+  - [エースコック](../Page/エースコック.md "wikilink") / スーパーカップ
   - [ピザーラ](../Page/ピザーラ.md "wikilink")
 
 ## 外部リンク

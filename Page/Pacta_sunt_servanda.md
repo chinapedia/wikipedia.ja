@@ -1,7 +1,7 @@
 > この記事は[Pacta sunt servanda](https://ja.wikipedia.org/wiki/Pacta_sunt_servanda)から翻訳されています。
 
 
-（パクタ・スント・セルウァンダ\[1\]）は、「[合意](../Page/合意.md "wikilink")は拘束する」「合意は守られなければならない」などと日本語訳される[ラテン語](../Page/ラテン語.md "wikilink")起源の成句である。主に[国際法](../Page/国際法.md "wikilink")および[契約法](https://ja.wikipedia.org/wiki/契約法 "wikilink")で用いられる。
+（パクタ・スント・セルウァンダ\[1\]）は、「[合意](../Page/合意.md "wikilink")は拘束する」「合意は守られなければならない」などと日本語訳される[ラテン語](../Page/ラテン語.md "wikilink")起源の成句である。主に[国際法](../Page/国際法.md "wikilink")および[契約法](../Page/契約法.md "wikilink")で用いられる。
 
 国際法上、この「『合意は拘束する』の原則」に対する唯一の制限は、[強行規範](../Page/強行規範.md "wikilink")（[:en:jus cogens](https://ja.wikipedia.org/wiki/:en:jus_cogens "wikilink")）であるとされる。
 
@@ -9,7 +9,7 @@
 
 ## 条約などでの用法
 
-「[条約法に関するウィーン条約](https://ja.wikipedia.org/wiki/条約法に関するウィーン条約 "wikilink")（[:en:Vienna Convention on the Law of Treaties](https://ja.wikipedia.org/wiki/:en:Vienna_Convention_on_the_Law_of_Treaties "wikilink")）」の前文の一部を引用すると、
+「[条約法に関するウィーン条約](../Page/条約法に関するウィーン条約.md "wikilink")（[:en:Vienna Convention on the Law of Treaties](https://ja.wikipedia.org/wiki/:en:Vienna_Convention_on_the_Law_of_Treaties "wikilink")）」の前文の一部を引用すると、
 
   -
     （英）...

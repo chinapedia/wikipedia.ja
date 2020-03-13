@@ -7,7 +7,7 @@
 
 2005年春にday after tomorrowの活動休止が発表されるとともに、本作のリリースが発表された。[2002年](../Page/2002年.md "wikilink")[8月7日](../Page/8月7日.md "wikilink")リリースの1stミニアルバム『[day after tomorrow](https://ja.wikipedia.org/wiki/day_after_tomorrow_\(アルバム\) "wikilink")』から2005年3月リリースの『[day alone](https://ja.wikipedia.org/wiki/day_alone "wikilink")』までの51作品のオリジナル音源と未発表曲「Pride」を加えた全52曲が収録されている。
 
-完全限定生産で5000組がリリースされたが、すぐに完売した。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月20日](../Page/9月20日.md "wikilink")、ファン投票によるベストアルバムの発売を記念して、廉価盤として限定3000組を再リリース。販売から10日でほぼ完売した。2005年のリリース時はBOX仕様であったが、2006年の再リリースではスリーブ仕様へ変更されている。
+完全限定生産で5000組がリリースされたが、すぐに完売した。[2006年](../Page/2006年.md "wikilink")[9月20日](../Page/9月20日.md "wikilink")、ファン投票によるベストアルバムの発売を記念して、廉価盤として限定3000組を再リリース。販売から10日でほぼ完売した。2005年のリリース時はBOX仕様であったが、2006年の再リリースではスリーブ仕様へ変更されている。
 
 day after tomorrowは『[single Best](https://ja.wikipedia.org/wiki/single_Best_\(day_after_tomorrowのアルバム\) "wikilink")』と本作をリリースした2005年8月17日をもって活動を休止した。
 
@@ -50,10 +50,10 @@ day after tomorrowは『[single Best](https://ja.wikipedia.org/wiki/single_Best_
 11. [faraway](https://ja.wikipedia.org/wiki/faraway_\(day_after_tomorrowの曲\) "wikilink")
       -
         1stシングル
-12. [My faith](https://ja.wikipedia.org/wiki/My_faith_\(曲\) "wikilink")
+12. [My faith](../Page/My_faith_\(曲\).md "wikilink")
       -
         2ndシングル
-13. [Smartly](https://ja.wikipedia.org/wiki/DAY_STAR "wikilink") (Extra Tracks) 　
+13. [Smartly](../Page/DAY_STAR.md "wikilink") (Extra Tracks) 　
       -
         5thシングル「DAY STAR」の3曲目。トリプルA面シングルとしてリリースされ、「CURRENT」、「イタズラなKISS」は2ndフルアルバム『primary colors』（本作のディスク3）に収録されたが、この楽曲のみオリジナルアルバムには収録されず、シングルのみの収録となっていた。このアルバムと、さらに同時発売された『[single Best](https://ja.wikipedia.org/wiki/single_Best_\(day_after_tomorrowのアルバム\) "wikilink")』によってアルバム初収録となった。
 14. [ネバーランド](https://ja.wikipedia.org/wiki/moon_gate "wikilink") (Extra Tracks) 　
@@ -93,10 +93,10 @@ day after tomorrowは『[single Best](https://ja.wikipedia.org/wiki/single_Best_
 4.  [Show Time](https://ja.wikipedia.org/wiki/螢火/Show_Time "wikilink")
       -
         8thシングル「螢火／Show Time」の2曲目。
-5.  [イタズラなKISS](https://ja.wikipedia.org/wiki/DAY_STAR "wikilink")
+5.  [イタズラなKISS](../Page/DAY_STAR.md "wikilink")
       -
         5thシングル「DAY STAR」の2曲目。
-6.  [CURRENT](https://ja.wikipedia.org/wiki/DAY_STAR "wikilink")
+6.  [CURRENT](../Page/DAY_STAR.md "wikilink")
       -
         5thシングル「DAY STAR」の1曲目。
 7.  [少女のままでいたあの頃](https://ja.wikipedia.org/wiki/primary_colors "wikilink")
@@ -117,11 +117,11 @@ day after tomorrowは『[single Best](https://ja.wikipedia.org/wiki/single_Best_
 
 ### CD-4
 
-1.  [君と逢えた奇蹟](https://ja.wikipedia.org/wiki/君と逢えた奇蹟 "wikilink")
+1.  [君と逢えた奇蹟](../Page/君と逢えた奇蹟.md "wikilink")
       -
         10thシングル
 2.  [God bless me\!](https://ja.wikipedia.org/wiki/day_alone "wikilink")
-3.  [せつなさはこの胸の中に](https://ja.wikipedia.org/wiki/君と逢えた奇蹟 "wikilink")
+3.  [せつなさはこの胸の中に](../Page/君と逢えた奇蹟.md "wikilink")
       -
         10thシングル「君と逢えた奇蹟」の3曲目。
 4.  [七つ星を数えたら](https://ja.wikipedia.org/wiki/day_alone "wikilink")
@@ -130,7 +130,7 @@ day after tomorrowは『[single Best](https://ja.wikipedia.org/wiki/single_Best_
         9thシングル。
 6.  [Where so ever](https://ja.wikipedia.org/wiki/day_alone "wikilink")
 7.  [honestly](https://ja.wikipedia.org/wiki/day_alone "wikilink")
-8.  [追伸](https://ja.wikipedia.org/wiki/君と逢えた奇蹟 "wikilink")
+8.  [追伸](../Page/君と逢えた奇蹟.md "wikilink")
       -
         10thシングル「君と逢えた奇蹟」の2曲目。
 9.  [ユリノハナ](../Page/ユリノハナ.md "wikilink")

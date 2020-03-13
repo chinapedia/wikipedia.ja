@@ -3,7 +3,7 @@
 
 **底ぬけAIR-LINE**（そこぬけエアライン）は、かつて[ホリプロコム](../Page/ホリプロコム.md "wikilink")で活動していた[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")。当初はトリオであり、M2カンパニーに所属していた。メンバー全員、[日本映画学校](https://ja.wikipedia.org/wiki/日本映画学校 "wikilink")中退。
 
-[2003年](../Page/2003年.md "wikilink")[9月](../Page/9月.md "wikilink")よりお笑いでの活動を休止し、その後メンバー2人を含むテクノユニット[NO BOTTOM\!](../Page/ノーボトム.md "wikilink")（現:NBR (**NEW BUSHIDOU RAVERS**)）を結成。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月11日](../Page/10月11日.md "wikilink")に本格的な活動をすべく所属事務所を離れたが、同年6月に小島がメンバーを脱退しており、2人としての実質的な解散時期は[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[6月](../Page/6月.md "wikilink")である。
+[2003年](../Page/2003年.md "wikilink")[9月](../Page/9月.md "wikilink")よりお笑いでの活動を休止し、その後メンバー2人を含むテクノユニット[NO BOTTOM\!](../Page/ノーボトム.md "wikilink")（現:NBR (**NEW BUSHIDOU RAVERS**)）を結成。[2005年](../Page/2005年.md "wikilink")[10月11日](../Page/10月11日.md "wikilink")に本格的な活動をすべく所属事務所を離れたが、同年6月に小島がメンバーを脱退しており、2人としての実質的な解散時期は[2005年](../Page/2005年.md "wikilink")[6月](../Page/6月.md "wikilink")である。
 
 ## メンバー
 
@@ -18,7 +18,7 @@
   - **小島 忍**（こじま しのぶ、 - ）
       -
         [ツッコミ](https://ja.wikipedia.org/wiki/ツッコミ "wikilink")担当、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[江南市](../Page/江南市.md "wikilink")出身、血液型A型、[名城大学附属高等学校](../Page/名城大学附属高等学校.md "wikilink")卒業。愛称は「ねこ小島」。未婚。
-        特技は器械体操。古坂ともにNO BOTTOM\!を結成、**忍丸**の名で活動。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[6月](../Page/6月.md "wikilink")脱退。
+        特技は器械体操。古坂ともにNO BOTTOM\!を結成、**忍丸**の名で活動。[2005年](../Page/2005年.md "wikilink")[6月](../Page/6月.md "wikilink")脱退。
         現在は3DCG及びコンピューターソフトウェアの制作を手掛ける[株式会社アニマ](http://www.studioanima.co.jp/)にて[プロデューサー](../Page/プロデューサー.md "wikilink")やディレクターとして活動中。2007年発売の[PlayStation 2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[のだめカンタービレ](https://ja.wikipedia.org/wiki/のだめカンタービレ#ゲーム "wikilink")』などの開発にも携わっていた。
 
 ### 旧メンバー
@@ -34,9 +34,9 @@
   - 「[ボキャブラ天国](https://ja.wikipedia.org/wiki/ボキャブラ天国 "wikilink")」シリーズには「タモリのsuperボキャブラ天国」内の「ヒットパレード」の頃から参加していた。元器械体操部である小島の特性を活かし大きなアクションを伴うネタを披露。その後、「家族そろってボキャブラ天国」まで参加した。キング（優勝）経験は無く、最高位は3位。キャッチフレーズは「きりもみ空中3回転」。村島の脱退後は「2回転」に変更された。
   - 第1回[爆笑オンエアバトル チャンピオン大会で](https://ja.wikipedia.org/wiki/爆笑オンエアバトル_チャンピオン大会 "wikilink")「テクノ体操」というネタを披露。結果は165KBという出場者10組の中で9位という散々な結果だったが、特別審査員として参加していた[立川談志](../Page/立川談志.md "wikilink")から「元気があって面白かったよ」と評価され「審査員特別賞」を贈られる。その収録後に古坂と小島は談志から食事に誘われた事を明かしている。
   - [2003年](../Page/2003年.md "wikilink")9月からお笑い活動を休止し、テクノグループ「[ノーボトム](../Page/ノーボトム.md "wikilink")\!」の活動に専念した。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[6月](../Page/6月.md "wikilink")、小島がゲーム開発プロデューサーへの転向に伴いノーボトム\!を脱退。6月17日に行われた最後のライブには村島も客として参加し、小島自身も「ノーボトム\!から依頼があれば引き受ける」と言った発言をしていることから、3人は現在も交流を持っていると思われる。
+  - [2005年](../Page/2005年.md "wikilink")[6月](../Page/6月.md "wikilink")、小島がゲーム開発プロデューサーへの転向に伴いノーボトム\!を脱退。6月17日に行われた最後のライブには村島も客として参加し、小島自身も「ノーボトム\!から依頼があれば引き受ける」と言った発言をしていることから、3人は現在も交流を持っていると思われる。
     小島は、2017年10月8日（関東地区放送日）の「[ウチくる\!?](../Page/ウチくる!?.md "wikilink")」にメインゲストの古坂の元相方として出演して、解散の真相を語った。
-  - その後、ノーボトム\!として音楽性を追求するため[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月11日](../Page/10月11日.md "wikilink")に所属事務所の[ホリプロコム](../Page/ホリプロコム.md "wikilink")（M2カンパニーの後身）を退社した。
+  - その後、ノーボトム\!として音楽性を追求するため[2005年](../Page/2005年.md "wikilink")[10月11日](../Page/10月11日.md "wikilink")に所属事務所の[ホリプロコム](../Page/ホリプロコム.md "wikilink")（M2カンパニーの後身）を退社した。
 
 ## 解散後
 

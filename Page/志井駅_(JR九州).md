@@ -3,7 +3,7 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:JR_Shii_Station_platform.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:JR_Shii_Station_plaza.jpg "wikilink")
 
-**志井駅**（しいえき）は、[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")[北九州市](https://ja.wikipedia.org/wiki/北九州市 "wikilink")[小倉南区](../Page/小倉南区.md "wikilink")大字志井にある、[九州旅客鉄道](../Page/九州旅客鉄道.md "wikilink")（JR九州）[日田彦山線](https://ja.wikipedia.org/wiki/日田彦山線 "wikilink")の[駅である](../Page/鉄道駅.md "wikilink")\[1\]。駅番号は**JI07**。
+**志井駅**（しいえき）は、[福岡県](../Page/福岡県.md "wikilink")[北九州市](https://ja.wikipedia.org/wiki/北九州市 "wikilink")[小倉南区](../Page/小倉南区.md "wikilink")大字志井にある、[九州旅客鉄道](../Page/九州旅客鉄道.md "wikilink")（JR九州）[日田彦山線](https://ja.wikipedia.org/wiki/日田彦山線 "wikilink")の[駅である](../Page/鉄道駅.md "wikilink")\[1\]。駅番号は**JI07**。
 
 ## 歴史
 
@@ -11,7 +11,7 @@
   - [1942年](../Page/1942年.md "wikilink")（昭和17年）[6月10日](../Page/6月10日.md "wikilink") - 廃止\[3\]。
   - [1943年](../Page/1943年.md "wikilink")（昭和18年）[2月25日](../Page/2月25日.md "wikilink") - 廃止時の位置より400m田川後藤寺寄りに再開業\[4\]。
   - 1943年（昭和18年）[5月1日](../Page/5月1日.md "wikilink") - [戦時買収により小倉鉄道が国有化](../Page/戦時買収私鉄.md "wikilink")\[5\]。
-  - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）[4月1日](../Page/4月1日.md "wikilink") - [国鉄分割民営化](https://ja.wikipedia.org/wiki/国鉄分割民営化 "wikilink")により九州旅客鉄道が継承\[6\]。
+  - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）[4月1日](../Page/4月1日.md "wikilink") - [国鉄分割民営化](../Page/国鉄分割民営化.md "wikilink")により九州旅客鉄道が継承\[6\]。
   - [2014年](../Page/2014年.md "wikilink")（[平成](../Page/平成.md "wikilink")26年） - 駅舎が取り壊され、待合室が作られる\[7\]。
   - [2017年](../Page/2017年.md "wikilink")（平成29年）3月4日 - 上り快速が石原町より各駅停車に変更となり当駅に停車開始。
 
@@ -37,7 +37,7 @@
 <td><p>1</p></td>
 <td><p>日田彦山線</p></td>
 <td><p>下り</p></td>
-<td><p><a href="../Page/田川後藤寺駅.md" title="wikilink">田川後藤寺</a>・<a href="https://ja.wikipedia.org/wiki/添田駅" title="wikilink">添田方面</a></p></td>
+<td><p><a href="../Page/田川後藤寺駅.md" title="wikilink">田川後藤寺</a>・<a href="../Page/添田駅.md" title="wikilink">添田方面</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
@@ -79,7 +79,7 @@
 
 小倉南区志井一丁目に所在する[北九州高速鉄道](../Page/北九州高速鉄道.md "wikilink")（北九州モノレール）[小倉線の](https://ja.wikipedia.org/wiki/北九州高速鉄道小倉線 "wikilink")[志井駅へは](https://ja.wikipedia.org/wiki/志井駅_\(北九州高速鉄道\) "wikilink")、直線距離で2km以上の距離がある。モノレールへの[徒歩連絡](https://ja.wikipedia.org/wiki/徒歩連絡 "wikilink")は隣の[志井公園駅](https://ja.wikipedia.org/wiki/志井公園駅 "wikilink")とモノレール[企救丘駅](https://ja.wikipedia.org/wiki/企救丘駅 "wikilink")が約200mと近い（制度上の[乗換駅](../Page/乗換駅.md "wikilink")ではない）。
 
-  - [西鉄バス北九州](https://ja.wikipedia.org/wiki/西鉄バス北九州 "wikilink")[中谷自動車営業所志井車庫](https://ja.wikipedia.org/wiki/西鉄バス北九州中谷自動車営業所 "wikilink")
+  - [西鉄バス北九州](../Page/西鉄バス北九州.md "wikilink")[中谷自動車営業所志井車庫](https://ja.wikipedia.org/wiki/西鉄バス北九州中谷自動車営業所 "wikilink")
   - [セブンイレブン](https://ja.wikipedia.org/wiki/セブンイレブン "wikilink")小倉志井店
   - 志井の森公園
 
@@ -100,7 +100,7 @@
         快速（上りのみ運転）・普通
 
           -
-            [志井公園駅](https://ja.wikipedia.org/wiki/志井公園駅 "wikilink") (JI06) - **志井駅 (JI07)** - [石原町駅](https://ja.wikipedia.org/wiki/石原町駅 "wikilink") (JI08)
+            [志井公園駅](https://ja.wikipedia.org/wiki/志井公園駅 "wikilink") (JI06) - **志井駅 (JI07)** - [石原町駅](../Page/石原町駅.md "wikilink") (JI08)
 
 ## 脚注
 

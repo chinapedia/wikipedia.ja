@@ -1,7 +1,7 @@
 > この記事は[BINGO PARADE](https://ja.wikipedia.org/wiki/BINGO_PARADE)から翻訳されています。
 
 
-**BINGO PARADE**（**ビンゴパレード**）は、セガ（後の[セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")）の[メダルゲーム](../Page/メダルゲーム.md "wikilink")であり、[ビンゴ](../Page/ビンゴ.md "wikilink")ゲームとして[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に発売された。
+**BINGO PARADE**（**ビンゴパレード**）は、セガ（後の[セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")）の[メダルゲーム](../Page/メダルゲーム.md "wikilink")であり、[ビンゴ](../Page/ビンゴ.md "wikilink")ゲームとして[2005年](../Page/2005年.md "wikilink")に発売された。
 
 ## 筐体構造
 

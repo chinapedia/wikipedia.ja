@@ -9,7 +9,7 @@
 
 結成当初は[下北沢](../Page/下北沢.md "wikilink")を中心にライヴ活動を行っていた真っ当なロックバンドだったが、なぜかポップス・ダンス系の色濃い時代の[avex traxにスカウトされ](https://ja.wikipedia.org/wiki/avex_trax "wikilink")、avex初のロックバンドとなる。[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")のサポートメンバーだった[浦清英](../Page/浦清英.md "wikilink")プロデュースの下、1996年にシングル「[Brandnew Gear](https://ja.wikipedia.org/wiki/Brandnew_Gear "wikilink")」でデビュー。同年秋に秋山が加入。
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に発売された5枚目のシングル「[ESCAPE](../Page/ESCAPE_\(MOON_CHILDの曲\).md "wikilink")」（テレビドラマ「[FiVE](../Page/FiVE.md "wikilink")」主題歌）が大ヒットし、[オリコンシングルチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位を獲得し、一躍人気バンドとなる。**ポストMr.Chlidren**として注目が集まるが、[1999年](../Page/1999年.md "wikilink")に解散した。解散後は佐々木と渡辺が後継バンド「[SCRIPT](https://ja.wikipedia.org/wiki/SCRIPT "wikilink")」を結成。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に発売された5枚目のシングル「[ESCAPE](../Page/ESCAPE_\(MOON_CHILDの曲\).md "wikilink")」（テレビドラマ「[FiVE](../Page/FiVE.md "wikilink")」主題歌）が大ヒットし、[オリコンシングルチャート](../Page/オリコンチャート.md "wikilink")1位を獲得し、一躍人気バンドとなる。**ポストMr.Chlidren**として注目が集まるが、[1999年](../Page/1999年.md "wikilink")に解散した。解散後は佐々木と渡辺が後継バンド「[SCRIPT](../Page/SCRIPT.md "wikilink")」を結成。
 
 [2013年](../Page/2013年.md "wikilink")に佐々木、渡邊、樫山で再結成を発表。[1月14日](../Page/1月14日.md "wikilink")、[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")にて再結成ライブを行った。\[3\]前売は発売日で完売となる。
 
@@ -37,7 +37,7 @@
 <td><p><br />
 <a href="../Page/岩手県.md" title="wikilink">岩手県</a><a href="https://ja.wikipedia.org/wiki/盛岡市" title="wikilink">盛岡市</a>出身</p></td>
 <td><p>ほとんどの楽曲の作詞・作曲を担当。<br />
-<a href="https://ja.wikipedia.org/wiki/SCRIPT" title="wikilink">SCRIPT</a>、<a href="../Page/Ricken&#39;s.md" title="wikilink">Ricken's</a>を経て、現在は<strong>ササキオサム</strong>としてソロ、作詞家、作曲家として活動中。</p></td>
+<a href="../Page/SCRIPT.md" title="wikilink">SCRIPT</a>、<a href="../Page/Ricken&#39;s.md" title="wikilink">Ricken's</a>を経て、現在は<strong>ササキオサム</strong>としてソロ、作詞家、作曲家として活動中。</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>渡邊崇尉</strong><br />
@@ -52,7 +52,7 @@
 <small>（かしやま けい）</small></p></td>
 <td><p><a href="../Page/ドラムセット.md" title="wikilink">ドラム</a></p></td>
 <td><p><br />
-<a href="../Page/和歌山県.md" title="wikilink">和歌山県</a><a href="https://ja.wikipedia.org/wiki/上富田町" title="wikilink">上富田町</a>出身</p></td>
+<a href="../Page/和歌山県.md" title="wikilink">和歌山県</a><a href="../Page/上富田町.md" title="wikilink">上富田町</a>出身</p></td>
 <td><p>バンドのリーダー。ヴィジュアル系バンドのプロデュースやドラムチューナーを務める。ドラマーとしては<a href="../Page/FRESH_CREAM.md" title="wikilink">FRESH CREAM</a>・<a href="../Page/Salty-Sugar.md" title="wikilink">Salty-Sugar</a>・DIA LOGUE・<a href="https://ja.wikipedia.org/wiki/†яi¢к" title="wikilink">†яi¢к</a>で活動していた。<br />
 現在は<a href="../Page/DIR_EN_GREY.md" title="wikilink">DIR EN GREYのギタリスト</a>、<a href="../Page/Die_(ミュージシャン).md" title="wikilink">Dieが率いるDECAYSで活動中</a>。</p></td>
 </tr>
@@ -157,12 +157,12 @@
 
 ## 関連項目
 
-  - [SCRIPT](https://ja.wikipedia.org/wiki/SCRIPT "wikilink")
+  - [SCRIPT](../Page/SCRIPT.md "wikilink")
   - [Ricken's](../Page/Ricken's.md "wikilink")
   - [浦清英](../Page/浦清英.md "wikilink"):デビュー時から「MY LITTLE RED BOOK」までの編曲・プロデュースを担当。
   - [今井裕](https://ja.wikipedia.org/wiki/今井裕_\(ミュージシャン\) "wikilink"):「微熱」「ESCAPE」の編曲・プロデュースを担当。
   - [明石昌夫](../Page/明石昌夫.md "wikilink"):「requiem for the man of nomad」シングル版の編曲・プロデュースを担当。
-  - [井上鑑](https://ja.wikipedia.org/wiki/井上鑑 "wikilink"):「POP AND DECADENCE」の編曲・プロデュースを担当。
+  - [井上鑑](../Page/井上鑑.md "wikilink"):「POP AND DECADENCE」の編曲・プロデュースを担当。
   - [河野圭](https://ja.wikipedia.org/wiki/河野圭 "wikilink"): サポートキーボーディスト。
 
 ## 外部リンク

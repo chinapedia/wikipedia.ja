@@ -19,7 +19,7 @@
   - [2000年](../Page/2000年.md "wikilink") インディーズ活動を経て「[トーキングヘッズ](https://ja.wikipedia.org/wiki/トーキングヘッズ_\(SCRIPTの曲\) "wikilink")」で[キティMMEよりメジャーデビュー](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
   - [2003年](../Page/2003年.md "wikilink") 再びインディーズに活動の場を移す。同年、3枚のアルバムをリリース。
   - [2004年](../Page/2004年.md "wikilink") 佐々木は元[The Kaleidoscopeの石田匠と](../Page/The_Kaleidoscope.md "wikilink")[Ricken's](../Page/Ricken's.md "wikilink")を結成。2007年2月に活動休止。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") 佐々木が「ササキオサム」名義で[AAAのデビュー曲](https://ja.wikipedia.org/wiki/AAA_\(音楽グループ\) "wikilink")「BLOOD on FIRE」に作詞提供。その他の楽曲提供は後述参照。
+  - [2005年](../Page/2005年.md "wikilink") 佐々木が「ササキオサム」名義で[AAAのデビュー曲](../Page/AAA_\(音楽グループ\).md "wikilink")「BLOOD on FIRE」に作詞提供。その他の楽曲提供は後述参照。
   - [2012年](../Page/2012年.md "wikilink") 活動休止。
 
 ## ディスコグラフィ
@@ -33,7 +33,7 @@
         [TBS系](../Page/TBSテレビ.md "wikilink")「[王様のブランチ](https://ja.wikipedia.org/wiki/王様のブランチ "wikilink")」エンディングテーマ
 2.  [Stripe Blue](https://ja.wikipedia.org/wiki/Stripe_Blue "wikilink") (2001年5月30日)キティMME
       -
-        TBS系「[ここがヘンだよ日本人](https://ja.wikipedia.org/wiki/ここがヘンだよ日本人 "wikilink")」エンディングテーマ
+        TBS系「[ここがヘンだよ日本人](../Page/ここがヘンだよ日本人.md "wikilink")」エンディングテーマ
 3.  [Inspiration](https://ja.wikipedia.org/wiki/Inspiration "wikilink") (2001年9月27日)キティMME
       -
         TBS系「COUNT DOWN TV」オープニングテーマ

@@ -9,7 +9,7 @@
 
 ## 略歴
 
-全約1600店舗の美容室の推薦を受けた顧客リストからの3200名が参加した「'99プリンセス・オーディション」でグランプリを受賞し、**渡辺みづき**名義で[1999年](../Page/1999年.md "wikilink")[6月18日](../Page/6月18日.md "wikilink")にシングル『I WILL』で[MCAビクターよりデビュー](https://ja.wikipedia.org/wiki/MCAレコード "wikilink")。
+全約1600店舗の美容室の推薦を受けた顧客リストからの3200名が参加した「'99プリンセス・オーディション」でグランプリを受賞し、**渡辺みづき**名義で[1999年](../Page/1999年.md "wikilink")[6月18日](../Page/6月18日.md "wikilink")にシングル『I WILL』で[MCAビクターよりデビュー](../Page/MCAレコード.md "wikilink")。
 
 [2002年](../Page/2002年.md "wikilink")までの活動後、[2003年](../Page/2003年.md "wikilink")に**Miz**に改名。garpのアルバム等にボーカリストとして参加し、楽曲「Say It's Forever」を発表する（後にMizとしてのアルバムで発表される）。
 
@@ -19,7 +19,7 @@
 
 [2007年](../Page/2007年.md "wikilink")[6月4日](../Page/6月4日.md "wikilink")、[ユニバーサルミュージックへの移籍を機に](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")**Mizrock**へと改名したことを明らかにする。同年[7月25日](../Page/7月25日.md "wikilink")にミニアルバム『Good bye, yesterday』をリリース。
 
-[2009年](../Page/2009年.md "wikilink")[9月8日](https://ja.wikipedia.org/wiki/9月8日 "wikilink")に自身のブログでアーティスト名を**Miz**に戻したことを発表する。同時に[9月9日](../Page/9月9日.md "wikilink")、新事務所マンモスプロより**Miz**所属決定の発表がされた。
+[2009年](../Page/2009年.md "wikilink")[9月8日](../Page/9月8日.md "wikilink")に自身のブログでアーティスト名を**Miz**に戻したことを発表する。同時に[9月9日](../Page/9月9日.md "wikilink")、新事務所マンモスプロより**Miz**所属決定の発表がされた。
 
 [2011年](../Page/2011年.md "wikilink")[8月21日](../Page/8月21日.md "wikilink")、[東京ヴェルディ](https://ja.wikipedia.org/wiki/東京ヴェルディ "wikilink") オフィシャルソング「WINNING WINDS」（作詞・作曲：[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")）をお披露目・初歌唱。
 
@@ -116,7 +116,7 @@
 </tr>
 <tr class="even">
 <td><p>3rd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/8月3日.md" title="wikilink">8月3日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/8月3日.md" title="wikilink">8月3日</a></p></td>
 <td><p><strong>In The Sky</strong></p></td>
 <td><p>VIZL-144:初回限定盤<br />
 VICL-35861:通常盤</p></td>
@@ -127,7 +127,7 @@ VICL-35861:通常盤</p></td>
 <li>In The Sky (MUSIC TRACK)</li>
 </ol></td>
 <td><p>初回盤DVD付<br />
-<a href="../Page/スクウェア・エニックス.md" title="wikilink">スクウェア・エニックス</a><a href="https://ja.wikipedia.org/wiki/PlayStation_2" title="wikilink">プレイステーション2用ゲームソフト</a>『<a href="https://ja.wikipedia.org/wiki/グランディア" title="wikilink">グランディア</a>III』テーマソング</p></td>
+<a href="../Page/スクウェア・エニックス.md" title="wikilink">スクウェア・エニックス</a><a href="https://ja.wikipedia.org/wiki/PlayStation_2" title="wikilink">プレイステーション2用ゲームソフト</a>『<a href="../Page/グランディア.md" title="wikilink">グランディア</a>III』テーマソング</p></td>
 </tr>
 <tr class="odd">
 <td><p>4th</p></td>
@@ -141,7 +141,7 @@ VICL-35861:通常盤</p></td>
 <li>Welcome to our party (music track)</li>
 </ol>
 <p>(エンハンスド)デスクトップ壁紙カレンダー</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/CD_EXTRA" title="wikilink">CD-EXTRA仕様</a><br />
+<td><p><a href="../Page/CD_EXTRA.md" title="wikilink">CD-EXTRA仕様</a><br />
 オリコン最高64位</p></td>
 </tr>
 <tr class="even">
@@ -194,7 +194,7 @@ VICL-35861:通常盤</p></td>
 <li>Waiting (Japanese/English Version)</li>
 <li>Got It</li>
 </ol></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/CD_EXTRA" title="wikilink">CD-EXTRA仕様</a></p></td>
+<td><p><a href="../Page/CD_EXTRA.md" title="wikilink">CD-EXTRA仕様</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Mizrock</p></td>
@@ -477,7 +477,7 @@ Good bye, yesterday：<a href="https://ja.wikipedia.org/wiki/CBCテレビ" title
   - 『[RENT](../Page/レント_\(ミュージカル\).md "wikilink")』モーリン役（2010年）
   - 『[I GOT MERMAN](https://ja.wikipedia.org/wiki/I_GOT_MERMAN "wikilink")』ニューキャスト（2012年）
   - SHOW-ismⅣ『TATOO14』Candy役（2012年）
-  - ミュージカル『DNA-SHARAKU』おかめ 役（2016年1月、[新国立劇場](https://ja.wikipedia.org/wiki/新国立劇場 "wikilink")中劇場）
+  - ミュージカル『DNA-SHARAKU』おかめ 役（2016年1月、[新国立劇場](../Page/新国立劇場.md "wikilink")中劇場）
 
 ## 主なライブ
 

@@ -1,15 +1,15 @@
 > この記事は[UG](https://ja.wikipedia.org/wiki/UG)から翻訳されています。
 
 
-『**UG☆アルティメットガール**』（アルティメットガール）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")1月から3月にかけて『[A15](../Page/A15.md "wikilink")』枠内で放送された[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")（[UHFアニメ](../Page/UHFアニメ.md "wikilink")）である。
+『**UG☆アルティメットガール**』（アルティメットガール）は、[2005年](../Page/2005年.md "wikilink")1月から3月にかけて『[A15](../Page/A15.md "wikilink")』枠内で放送された[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")（[UHFアニメ](../Page/UHFアニメ.md "wikilink")）である。
 
 ## 概要
 
-音読時には単に「アルティメットガール」と読む場合が多い。「[月刊電撃コミックガオ\!](https://ja.wikipedia.org/wiki/月刊電撃コミックガオ! "wikilink")」にて[濱元隆輔](../Page/濱元隆輔.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")版が連載された。
+音読時には単に「アルティメットガール」と読む場合が多い。「[月刊電撃コミックガオ\!](../Page/月刊電撃コミックガオ!.md "wikilink")」にて[濱元隆輔](../Page/濱元隆輔.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")版が連載された。
 
 普通の[女子高生](../Page/女子高生.md "wikilink")3人が[巨大ヒロインに](../Page/巨大娘.md "wikilink")[変身して](../Page/変身_\(ヒーロー\).md "wikilink")[怪獣](../Page/怪獣.md "wikilink")と闘うという設定。[m.o.e.](https://ja.wikipedia.org/wiki/m.o.e. "wikilink")の[UHFアニメ](../Page/UHFアニメ.md "wikilink")らしく、[お色気](https://ja.wikipedia.org/wiki/お色気 "wikilink")要素が多い（それでも[変身3部作](../Page/変身3部作.md "wikilink")に見られたような過激な描写はあまりなかった）。
 
-『[A15](../Page/A15.md "wikilink")』が放送されていた[tvkや](../Page/テレビ神奈川.md "wikilink")[サンテレビ関連のネタもある](../Page/サンテレビジョン.md "wikilink")。監督の[ムトウユージ](https://ja.wikipedia.org/wiki/ムトウユージ "wikilink")が後年に自身の[Twitter](../Page/Twitter.md "wikilink")で明かしたところによれば、第7話の制作に際してはサンテレビの地元である[神戸](../Page/神戸.md "wikilink")での[ロケを行い](https://ja.wikipedia.org/wiki/ロケーション撮影 "wikilink")、同局内の[喫茶店](../Page/喫茶店.md "wikilink")などを訪れて[神戸港](../Page/神戸港.md "wikilink")の風景を撮影したという\[1\]。
+『[A15](../Page/A15.md "wikilink")』が放送されていた[tvkや](../Page/テレビ神奈川.md "wikilink")[サンテレビ関連のネタもある](../Page/サンテレビジョン.md "wikilink")。監督の[ムトウユージ](../Page/ムトウユージ.md "wikilink")が後年に自身の[Twitter](../Page/Twitter.md "wikilink")で明かしたところによれば、第7話の制作に際してはサンテレビの地元である[神戸](../Page/神戸.md "wikilink")での[ロケを行い](https://ja.wikipedia.org/wiki/ロケーション撮影 "wikilink")、同局内の[喫茶店](../Page/喫茶店.md "wikilink")などを訪れて[神戸港](../Page/神戸港.md "wikilink")の風景を撮影したという\[1\]。
 
 ## あらすじ
 
@@ -23,8 +23,8 @@
     [声](../Page/声優.md "wikilink") - [福圓美里](../Page/福圓美里.md "wikilink")
     [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[7月3日](../Page/7月3日.md "wikilink")生まれ\[2\]。
     住所 [杉並区](https://ja.wikipedia.org/wiki/杉並区 "wikilink")阿佐谷 / 身長 156cm / バストサイズ Bカップ(小説版ではAカップ) / 血液型 A / 変身時の身長 31.2m / 変身時の体重 1万7000トン
-    東京・中野坂上にある二子山学園高校2年生M78組出席番号7番。アルティメットガールの一人で「アルティメットガール・[貧乳](https://ja.wikipedia.org/wiki/貧乳 "wikilink")」と呼ばれる。引っ込み思案で恥ずかしがり。諸星真に恋心をよせているが、思いを伝えられずにいる。コードネームこそ「貧乳」だが、実際には[乳揺れ](../Page/乳揺れ.md "wikilink")するなどそれほど貧乳というわけでもない。「アルティメットガール・巨乳と比較したら小さい」程度とあまりに酷いネーミングを付けられ、本人もこのことを気にしている。髪の色は変身前が茶色で、変身後が白。
-    [ムトウユージ](https://ja.wikipedia.org/wiki/ムトウユージ "wikilink")が監督を務めている『[クレヨンしんちゃん](https://ja.wikipedia.org/wiki/クレヨンしんちゃん_\(アニメ\) "wikilink")』にて春野白絹というパロディキャラクターの名前でゲスト出演して、声優も同じ福圓美里である。
+    東京・中野坂上にある二子山学園高校2年生M78組出席番号7番。アルティメットガールの一人で「アルティメットガール・[貧乳](../Page/貧乳.md "wikilink")」と呼ばれる。引っ込み思案で恥ずかしがり。諸星真に恋心をよせているが、思いを伝えられずにいる。コードネームこそ「貧乳」だが、実際には[乳揺れ](../Page/乳揺れ.md "wikilink")するなどそれほど貧乳というわけでもない。「アルティメットガール・巨乳と比較したら小さい」程度とあまりに酷いネーミングを付けられ、本人もこのことを気にしている。髪の色は変身前が茶色で、変身後が白。
+    [ムトウユージ](../Page/ムトウユージ.md "wikilink")が監督を務めている『[クレヨンしんちゃん](https://ja.wikipedia.org/wiki/クレヨンしんちゃん_\(アニメ\) "wikilink")』にて春野白絹というパロディキャラクターの名前でゲスト出演して、声優も同じ福圓美里である。
   - 鳳ヴィヴィアン（おおとり ヴィヴィアン）
     声 - [生天目仁美](../Page/生天目仁美.md "wikilink")
     [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")生まれ\[3\]。
@@ -34,7 +34,7 @@
     声 - [徳永愛](../Page/徳永愛.md "wikilink")
     [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[4月23日](../Page/4月23日.md "wikilink")生まれ\[4\]。
     住所 [杉並区](https://ja.wikipedia.org/wiki/杉並区 "wikilink")南荻窪 / 身長 147cm / バストサイズ Aカップ / 血液型 AB / 変身時の身長 29.4m / 変身時の体重 1万5000トン
-    二子山学園高校2年生で白絹のクラスメイト。アルティメットガールの一人で白絹以上に貧乳なのに「アルティメットガール・[ロリ](https://ja.wikipedia.org/wiki/ロリ "wikilink")」と呼ばれる。[オタク](https://ja.wikipedia.org/wiki/オタク "wikilink")系の[メガネっ子](https://ja.wikipedia.org/wiki/メガネっ子 "wikilink")で[ボク少女](../Page/ボク少女.md "wikilink")。[コスプレ](../Page/コスプレ.md "wikilink")も得意。語尾は「〜っす」。親は資産家。3人の変身後の姿を「アルティメットガール」と名付けたのはつぼみである。変身するとメガネが外れる。普段からイベント会場でコスプレをしているせいか、羞恥心が全くと言っていいほど無い。3人の中ではやる気は一番あるが、アルティメットガールたちは[羞恥心](https://ja.wikipedia.org/wiki/羞恥心 "wikilink")がパワーの源になるため、戦闘力は最弱である（そのため、頭脳戦に出る場合がある）。髪の色は変身前が黒で、変身後が水色。[ドラマCD](https://ja.wikipedia.org/wiki/ドラマCD "wikilink")では高校生になっても兄の真と一緒にお[風呂](../Page/風呂.md "wikilink")に入っていると判明。
+    二子山学園高校2年生で白絹のクラスメイト。アルティメットガールの一人で白絹以上に貧乳なのに「アルティメットガール・[ロリ](https://ja.wikipedia.org/wiki/ロリ "wikilink")」と呼ばれる。[オタク](https://ja.wikipedia.org/wiki/オタク "wikilink")系の[メガネっ子](https://ja.wikipedia.org/wiki/メガネっ子 "wikilink")で[ボク少女](../Page/ボク少女.md "wikilink")。[コスプレ](../Page/コスプレ.md "wikilink")も得意。語尾は「〜っす」。親は資産家。3人の変身後の姿を「アルティメットガール」と名付けたのはつぼみである。変身するとメガネが外れる。普段からイベント会場でコスプレをしているせいか、羞恥心が全くと言っていいほど無い。3人の中ではやる気は一番あるが、アルティメットガールたちは[羞恥心](../Page/羞恥心.md "wikilink")がパワーの源になるため、戦闘力は最弱である（そのため、頭脳戦に出る場合がある）。髪の色は変身前が黒で、変身後が水色。[ドラマCD](../Page/ドラマCD.md "wikilink")では高校生になっても兄の真と一緒にお[風呂](../Page/風呂.md "wikilink")に入っていると判明。
   - UFOマン
     声 - [古谷徹](../Page/古谷徹.md "wikilink")
     謎の巨大ヒーローとして怪獣と戦っていたが、不幸な事故の結果、白絹・ヴィヴィアン・つぼみに自分の魂と身体の一部を分け与えたために小型化してしまった。ヒーローらしからぬエロい性格。普段は白絹の部屋にいて、机の引き出しを寝床にしている。小説版では地球の衛星軌道上に基地があるが、小型後はそこへ飛んでいくことができなくなった。3人の変身後の衣装は3分経過でエネルギーが尽きて少しずつ消失する仕組みで、変身中に彼が体調を崩すとエネルギー切れが早まる。なお、白絹・ヴィヴィアン・つぼみが変身するときにはUFOマンも変身後の姿の一部となるため、同時には1人しか変身することができない（漫画版最終回では例外として3人同時に変身。ただしごく短時間で、衣装も簡略化）。宇宙警察らしい。
@@ -73,10 +73,10 @@
     声 - [西村朋紘](../Page/西村朋紘.md "wikilink")
     メトロノームの怪獣。顔は[うす怪獣モチロンに酷似](https://ja.wikipedia.org/wiki/ウルトラマンの登場怪獣#うす怪獣_モチロン "wikilink")。名前はグスタフ・マーラー。タクトを武器にするほか、催眠音波を流す。コアは振り子の重り。
   - 仏像怪獣 大仁王（だいにおう）
-    声 - [楠見尚己](https://ja.wikipedia.org/wiki/楠見尚己 "wikilink")
+    声 - [楠見尚己](../Page/楠見尚己.md "wikilink")
     仏像の怪獣。[大魔神](../Page/大魔神.md "wikilink")のように手をかざすと変身する。コアは額。
   - 同人誌怪獣 ムシューセー
-    声 - [平川大輔](https://ja.wikipedia.org/wiki/平川大輔 "wikilink")
+    声 - [平川大輔](../Page/平川大輔.md "wikilink")
     同人誌の怪獣。頭が[ギャオス](../Page/ギャオス.md "wikilink")に酷似している。
   - アルティメットボーイ
     ウルトラセブンの酷似。コアは胸部にある[カメラ](../Page/カメラ.md "wikilink")（カラータイマーにも見える）。真がコアに取り込まれている。
@@ -142,7 +142,7 @@ UFOマンが戦った怪獣。
 ## 用語
 
   - [m.o.e.](https://ja.wikipedia.org/wiki/m.o.e. "wikilink")（えむおーいー）
-    **michaiyan otome energy （見ちゃいやん 乙女 エナジー）**の略。アルティメットガールに変身した三人が活動する際のエネルギー源。要するに[羞恥心](https://ja.wikipedia.org/wiki/羞恥心 "wikilink")。
+    **michaiyan otome energy （見ちゃいやん 乙女 エナジー）**の略。アルティメットガールに変身した三人が活動する際のエネルギー源。要するに[羞恥心](../Page/羞恥心.md "wikilink")。
     m.o.e.パワーが一番強いのは白絹。ヴィヴィアンは「白絹に見られる」といった条件がないと発生しない。つぼみはコスプレ慣れしているせいか**羞恥心が全くなく**、m.o.e.パワーがほとんどない。
   - 裏m.o.e.（うらえむおーいー）
     **mitekure oreno energy (見てくれ 俺の エナジー)**の略。m.o.e.と同じく人間から発生する。自己顕示欲や、**ある物に対する熱い想い**が発生源。
@@ -157,7 +157,7 @@ UFOマンが戦った怪獣。
   - 原作 - [m.o.e.](https://ja.wikipedia.org/wiki/m.o.e. "wikilink")、[スタジオマトリックス](../Page/スタジオマトリックス.md "wikilink")
   - 企画 - 久米憲司、白井勝也
   - 原案 - ゆーじと愉快な仲間たち
-  - 監督 - [ムトウユージ](https://ja.wikipedia.org/wiki/ムトウユージ "wikilink")
+  - 監督 - [ムトウユージ](../Page/ムトウユージ.md "wikilink")
   - シリーズ構成 - [西園悟](../Page/西園悟.md "wikilink")
   - キャラクターデザイン - [守岡英行](../Page/守岡英行.md "wikilink")
   - 色彩設計 - 田中直人
@@ -200,7 +200,7 @@ UFOマンが戦った怪獣。
 <td><p>『<a href="../Page/ウルトラマン.md" title="wikilink">ウルトラマン</a>』第1話<br />
 「ウルトラ作戦第一号」</p></td>
 <td><p><a href="../Page/西園悟.md" title="wikilink">西園悟</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ムトウユージ" title="wikilink">ムトウユージ</a></p></td>
+<td><p><a href="../Page/ムトウユージ.md" title="wikilink">ムトウユージ</a></p></td>
 <td><p><a href="../Page/守岡英行.md" title="wikilink">守岡英行</a></p></td>
 <td></td>
 </tr>
@@ -319,13 +319,13 @@ UFOマンが戦った怪獣。
 
 ## 放送局
 
-| 放送地域                                                  | 放送局                                                       | 放送期間                                                                                                              | 放送日時             | 放送系列                                      | 備考 |
-| ----------------------------------------------------- | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ---------------- | ----------------------------------------- | -- |
-| [千葉県](../Page/千葉県.md "wikilink")                      | [ちばテレビ](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink") | 2005年[1月9日](../Page/1月9日.md "wikilink") - [3月27日](../Page/3月27日.md "wikilink")                                    | 日曜 24:00 - 24:30 | [独立UHF局](../Page/全国独立放送協議会.md "wikilink") |    |
-| [埼玉県](../Page/埼玉県.md "wikilink")                      | [テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")   | 日曜 25:05 - 25:35                                                                                                  |                  |                                           |    |
-| [兵庫県](../Page/兵庫県.md "wikilink")                      | [サンテレビ](../Page/サンテレビジョン.md "wikilink")                   | 2005年[1月10日](../Page/1月10日.md "wikilink") - [3月28日](../Page/3月28日.md "wikilink")                                  | 月曜 24:00 - 24:30 |                                           |    |
-| [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink") | [tvk](../Page/テレビ神奈川.md "wikilink")                       | 月曜 24:35 - 25:05                                                                                                  |                  |                                           |    |
-| [東京都](../Page/東京都.md "wikilink")                      | [TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")         | [2007年](../Page/2007年.md "wikilink")[12月7日](../Page/12月7日.md "wikilink") - [12月28日](../Page/12月28日.md "wikilink") | 金曜 25:30 - 26:00 | \[7\]                                     |    |
+| 放送地域                                                  | 放送局                                                     | 放送期間                                                                                                              | 放送日時             | 放送系列                                      | 備考 |
+| ----------------------------------------------------- | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ---------------- | ----------------------------------------- | -- |
+| [千葉県](../Page/千葉県.md "wikilink")                      | [ちばテレビ](../Page/千葉テレビ放送.md "wikilink")                  | 2005年[1月9日](../Page/1月9日.md "wikilink") - [3月27日](../Page/3月27日.md "wikilink")                                    | 日曜 24:00 - 24:30 | [独立UHF局](../Page/全国独立放送協議会.md "wikilink") |    |
+| [埼玉県](../Page/埼玉県.md "wikilink")                      | [テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink") | 日曜 25:05 - 25:35                                                                                                  |                  |                                           |    |
+| [兵庫県](../Page/兵庫県.md "wikilink")                      | [サンテレビ](../Page/サンテレビジョン.md "wikilink")                 | 2005年[1月10日](../Page/1月10日.md "wikilink") - [3月28日](../Page/3月28日.md "wikilink")                                  | 月曜 24:00 - 24:30 |                                           |    |
+| [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink") | [tvk](../Page/テレビ神奈川.md "wikilink")                     | 月曜 24:35 - 25:05                                                                                                  |                  |                                           |    |
+| [東京都](../Page/東京都.md "wikilink")                      | [TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")       | [2007年](../Page/2007年.md "wikilink")[12月7日](../Page/12月7日.md "wikilink") - [12月28日](../Page/12月28日.md "wikilink") | 金曜 25:30 - 26:00 | \[7\]                                     |    |
 
 ## 関連書籍
 
@@ -343,7 +343,7 @@ UFOマンが戦った怪獣。
 
   - あるてぃめっとれいでぃお
     アニメ公式サイトで2005年1月から4月まで配信されていた[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。司会は[福圓美里](../Page/福圓美里.md "wikilink")、[生天目仁美](../Page/生天目仁美.md "wikilink")、[徳永愛](../Page/徳永愛.md "wikilink")。全12回。
-    番外編がサントラCDに収録されている。こちらの出演は[福圓美里](../Page/福圓美里.md "wikilink")、[古谷徹](../Page/古谷徹.md "wikilink")、[ムトウユージ](https://ja.wikipedia.org/wiki/ムトウユージ "wikilink")監督。
+    番外編がサントラCDに収録されている。こちらの出演は[福圓美里](../Page/福圓美里.md "wikilink")、[古谷徹](../Page/古谷徹.md "wikilink")、[ムトウユージ](../Page/ムトウユージ.md "wikilink")監督。
 
 ## 関連項目
 

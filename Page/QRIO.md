@@ -3,7 +3,7 @@
 
 [thumbにて](https://ja.wikipedia.org/wiki/ファイル:Sony_Qrio_Robot.jpg "wikilink")\]\] **QRIO**、**Qrio**（キュリオ）は、[ソニー](../Page/ソニー.md "wikilink")がかつて開発していた二足歩行ロボット、または、ソニーの100%子会社。
 
-1.  QRIO (Quest for Curiosity) : ソニーがかつて開発していた[二足歩行](../Page/二足歩行ロボット.md "wikilink")[ヒューマノイド](https://ja.wikipedia.org/wiki/ヒューマノイド "wikilink")[ロボット](../Page/ロボット.md "wikilink")である。
+1.  QRIO (Quest for Curiosity) : ソニーがかつて開発していた[二足歩行](../Page/二足歩行ロボット.md "wikilink")[ヒューマノイド](../Page/ヒューマノイド.md "wikilink")[ロボット](../Page/ロボット.md "wikilink")である。
 2.  Qrio株式会社（[英](../Page/英語.md "wikilink"): Qrio, Inc.）: スマートホーム事業会社。ハードウェア製品として、Qrio Smart Lock（キュリオスマートロック）やQrio Smart Tag（キュリオスマートタグ）などの開発・販売を行っている。
 
 以降、本項において特記のない場合は、1. の二足歩行ロボットを指すものとする。
@@ -61,7 +61,7 @@
       - [3月24日](../Page/3月24日.md "wikilink") - SDR-4X II が発表される 。
       - [9月4日](../Page/9月4日.md "wikilink") - これまで *SDR* (Sony Dream Robot) と呼ばれていたロボット群に *QRIO* という名称が与えられ、以後はQRIOと呼ばれることになった。以後も、サブタイトル的にSony Dream Robotという言葉は使われた。
       - [10月1日](../Page/10月1日.md "wikilink") - [JR東海の](../Page/東海旅客鉄道.md "wikilink")[新幹線](../Page/新幹線.md "wikilink")[品川駅](https://ja.wikipedia.org/wiki/品川駅 "wikilink")開業[イベント](../Page/イベント.md "wikilink")の一環として、**二足歩行ロボットとしては初めて[乗客として](https://ja.wikipedia.org/wiki/旅客 "wikilink")**品川駅の[ホームから新幹線に乗り込み](../Page/プラットホーム.md "wikilink")、[静岡駅](../Page/静岡駅.md "wikilink")まで「[旅行](../Page/旅行.md "wikilink")」した。
-      - [12月31日](../Page/12月31日.md "wikilink") - [第54回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第54回NHK紅白歌合戦 "wikilink")に扇子を持った4台のQRIOが出演。赤組を[舞](https://ja.wikipedia.org/wiki/舞 "wikilink")で応援するとともに、[松浦亜弥](../Page/松浦亜弥.md "wikilink")の曲（[ね〜え?](../Page/ね〜え?.md "wikilink")）を紹介した 。
+      - [12月31日](../Page/12月31日.md "wikilink") - [第54回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第54回NHK紅白歌合戦 "wikilink")に扇子を持った4台のQRIOが出演。赤組を[舞](../Page/舞.md "wikilink")で応援するとともに、[松浦亜弥](../Page/松浦亜弥.md "wikilink")の曲（[ね〜え?](../Page/ね〜え?.md "wikilink")）を紹介した 。
 
 <!-- end list -->
 
@@ -72,7 +72,7 @@
 
 <!-- end list -->
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
       - 3月24日 - [2005年日本国際博覧会](../Page/2005年日本国際博覧会.md "wikilink")（愛・地球博）の開幕式に登場。[ASIMO](../Page/ASIMO.md "wikilink")と競演し、握手を交わした\[1\]。
       - 11月、アメリカ合衆国のミュージシャン・[ベックの楽曲](../Page/ベック_\(歌手\).md "wikilink")「Hell Yes」のプロモーションビデオに出演。プログラマーたちは、QRIO に振り付けをプログラムするにあたって3週間を費やしたという\[2\]。
 
@@ -80,7 +80,7 @@
 
   - [2006年](../Page/2006年.md "wikilink")
       - [1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink") - ソニーは「特定ビジネス分野の収益性改善プラン」の一環として、**[AIBO](../Page/AIBO.md "wikilink") とともに QRIO の新規開発、生産を中止**することを発表した。開発者の土井は、2004年の経営会議で、ネット事業に執着する[出井伸之](../Page/出井伸之.md "wikilink")会長からQRIOの商品化中止を命じられていた\[3\]\[4\]。
-      - 3月26日 - [長崎市科学館](https://ja.wikipedia.org/wiki/長崎市科学館 "wikilink")にて技術デモンストレーション。
+      - 3月26日 - [長崎市科学館](../Page/長崎市科学館.md "wikilink")にて技術デモンストレーション。
 
 <!-- end list -->
 

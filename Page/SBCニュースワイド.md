@@ -39,7 +39,7 @@
 
 [地上アナログ放送では](../Page/NTSC.md "wikilink")2010年7月5日から[レターボックス形式で放送されていた](../Page/レターボックス_\(映像技術\).md "wikilink")。
 
-テーマソングは2011年5月までは[DEPAPEPE](https://ja.wikipedia.org/wiki/DEPAPEPE "wikilink")の "FAKE" で、同年6月から2016年9月30日まではドラマ『[トップキャスター](../Page/トップキャスター.md "wikilink")』の "Light Steps" が使われていた。
+テーマソングは2011年5月までは[DEPAPEPE](../Page/DEPAPEPE.md "wikilink")の "FAKE" で、同年6月から2016年9月30日まではドラマ『[トップキャスター](../Page/トップキャスター.md "wikilink")』の "Light Steps" が使われていた。
 
 ## 放送時間の変遷（平日のみ）
 
@@ -120,7 +120,7 @@
   - [堀内由香](https://ja.wikipedia.org/wiki/堀内由香 "wikilink")
   - 小林万利子（1989年10月 - 1991年3月）
   - [竹節まゆみ](https://ja.wikipedia.org/wiki/竹節まゆみ "wikilink")
-  - [中澤佳子](https://ja.wikipedia.org/wiki/中澤佳子 "wikilink")
+  - [中澤佳子](../Page/中澤佳子.md "wikilink")
   - [久保田祥江](../Page/久保田祥江.md "wikilink")
 
 <!-- end list -->
@@ -162,7 +162,7 @@
   - [テレポート](https://ja.wikipedia.org/wiki/テレポート "wikilink") - 『ニュースワイド』同様に、TBSを中心にローカルニュースのタイトルで多く使用された。現存するのは[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")（BSSテレビ）の『[テレポート山陰](../Page/テレポート山陰.md "wikilink")』と[福島テレビ](../Page/福島テレビ.md "wikilink")（FTV・福テレ）の『[FTVテレポートプラス](https://ja.wikipedia.org/wiki/FTVテレポートプラス "wikilink")』の2番組のみ。
   - [RCCニュース6](../Page/RCCニュース6.md "wikilink") - [中国放送](../Page/中国放送.md "wikilink")（RCCテレビ）で1976年3月から1990年3月まで放送されたローカルニュース番組のタイトル。2009年春改編で19年ぶりに復活した。
   - [信濃毎日新聞](../Page/信濃毎日新聞.md "wikilink") - 制作協力。
-  - [信毎ニュース](https://ja.wikipedia.org/wiki/信毎ニュース "wikilink") - 信越放送の[スポットニュース](https://ja.wikipedia.org/wiki/スポットニュース "wikilink")番組。
+  - [信毎ニュース](../Page/信毎ニュース.md "wikilink") - 信越放送の[スポットニュース](../Page/スポットニュース.md "wikilink")番組。
   - [JNN発 列島ニュース](https://ja.wikipedia.org/wiki/JNN発_列島ニュース "wikilink") - [TBSニュースバード](https://ja.wikipedia.org/wiki/TBSニュースバード "wikilink")で放送される番組で、本番組の一部が放送される。
 
 ## 脚注

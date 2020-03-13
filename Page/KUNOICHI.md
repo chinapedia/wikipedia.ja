@@ -25,7 +25,7 @@
 
   - **[初田啓介](../Page/初田啓介.md "wikilink")**（第1-6回、第8回メイン）
   - [有馬隼人](../Page/有馬隼人.md "wikilink")（第3回サブ）
-  - [小笠原亘](https://ja.wikipedia.org/wiki/小笠原亘 "wikilink")（第4回、第6-7回サブ）
+  - [小笠原亘](../Page/小笠原亘.md "wikilink")（第4回、第6-7回サブ）
   - **[駒田健吾](../Page/駒田健吾.md "wikilink")**（第5-6回、第9回サブ、第10回メイン、第11回サブ）
   - **[梅田淳](../Page/梅田淳.md "wikilink")**（第7回メイン）
   - [佐藤文康](../Page/佐藤文康.md "wikilink")（第8回サブ）
@@ -49,8 +49,8 @@
       - [平山あや](https://ja.wikipedia.org/wiki/平山あや "wikilink")
       - [賀集利樹](../Page/賀集利樹.md "wikilink")
       - [永井大](../Page/永井大.md "wikilink")
-      - [ゴリ](https://ja.wikipedia.org/wiki/ゴリ_\(お笑い芸人\) "wikilink")（[ガレッジセール](../Page/ガレッジセール.md "wikilink")）
-      - [川田広樹](https://ja.wikipedia.org/wiki/川田広樹 "wikilink")（ガレッジセール）
+      - [ゴリ](../Page/ゴリ_\(お笑い芸人\).md "wikilink")（[ガレッジセール](../Page/ガレッジセール.md "wikilink")）
+      - [川田広樹](../Page/川田広樹.md "wikilink")（ガレッジセール）
 
 ### 解説者
 
@@ -1200,7 +1200,7 @@ BLACKステージは、クリフハンガーがSASUKEでも登場したプラネ
 
 <!-- end list -->
 
-  - **廣田麻里衣**（出場1回 [トランポリン](https://ja.wikipedia.org/wiki/トランポリン "wikilink")少女）
+  - **廣田麻里衣**（出場1回 [トランポリン](../Page/トランポリン.md "wikilink")少女）
 
 <!-- end list -->
 
@@ -1425,7 +1425,7 @@ BLACKステージは、クリフハンガーがSASUKEでも登場したプラネ
 
 <!-- end list -->
 
-  - **[片岡安祐美](https://ja.wikipedia.org/wiki/片岡安祐美 "wikilink")**（出場3回　[茨城ゴールデンゴールズ](../Page/茨城ゴールデンゴールズ.md "wikilink")選手兼任監督）
+  - **[片岡安祐美](../Page/片岡安祐美.md "wikilink")**（出場3回　[茨城ゴールデンゴールズ](../Page/茨城ゴールデンゴールズ.md "wikilink")選手兼任監督）
 
 <!-- end list -->
 
@@ -1686,7 +1686,7 @@ BLACKステージは、クリフハンガーがSASUKEでも登場したプラネ
 
 <!-- end list -->
 
-  - ◎**秋山玲奈**（出場2回　[シルク・ドゥ・ソレイユ](https://ja.wikipedia.org/wiki/シルク・ドゥ・ソレイユ "wikilink")養成校(国立[モントリオール](../Page/モントリオール.md "wikilink")サーカス学校)→高校生サーカスパフォーマー）
+  - ◎**秋山玲奈**（出場2回　[シルク・ドゥ・ソレイユ](../Page/シルク・ドゥ・ソレイユ.md "wikilink")養成校(国立[モントリオール](../Page/モントリオール.md "wikilink")サーカス学校)→高校生サーカスパフォーマー）
 
 <!-- end list -->
 
@@ -1758,7 +1758,7 @@ BLACKステージは、クリフハンガーがSASUKEでも登場したプラネ
 
 <!-- end list -->
 
-  - **[宮下瞳](https://ja.wikipedia.org/wiki/宮下瞳 "wikilink")**（出場1回　[競馬](../Page/競馬.md "wikilink")界の女王）
+  - **[宮下瞳](../Page/宮下瞳.md "wikilink")**（出場1回　[競馬](../Page/競馬.md "wikilink")界の女王）
 
 <!-- end list -->
 
@@ -2189,7 +2189,7 @@ BLACKステージは、クリフハンガーがSASUKEでも登場したプラネ
   - 音声：岡邊竜海
   - 照明：中川清志
   - ENG：松永拓也
-  - 技術協力：[東通](https://ja.wikipedia.org/wiki/東通 "wikilink")、[エヌ・エス・ティー](https://ja.wikipedia.org/wiki/エヌ・エス・ティー "wikilink")、[TAMCO](https://ja.wikipedia.org/wiki/TAMCO "wikilink")、[ティ・エル・シー](https://ja.wikipedia.org/wiki/ティ・エル・シー "wikilink")
+  - 技術協力：[東通](https://ja.wikipedia.org/wiki/東通 "wikilink")、[エヌ・エス・ティー](../Page/エヌ・エス・ティー.md "wikilink")、[TAMCO](https://ja.wikipedia.org/wiki/TAMCO "wikilink")、[ティ・エル・シー](../Page/ティ・エル・シー.md "wikilink")
   - 美術：澁谷政史、小美野淳一
   - デザイン：金子靖明、太田卓志
   - 美術制作：杉山智之、若松真夢、保田大介

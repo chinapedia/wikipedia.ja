@@ -72,7 +72,7 @@ SQLiteの[ODBC](../Page/Open_Database_Connectivity.md "wikilink")[ドライバ�
 
 ## 関連項目
 
-  - [Apache Derby](https://ja.wikipedia.org/wiki/Apache_Derby "wikilink")
+  - [Apache Derby](../Page/Apache_Derby.md "wikilink")
   - [H2 Database](../Page/H2_Database.md "wikilink")
 
 ## 外部リンク

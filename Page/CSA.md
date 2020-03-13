@@ -46,7 +46,7 @@
       - [カナダ規格協会](https://ja.wikipedia.org/wiki/カナダ規格協会 "wikilink") ()
       - [カナダ宇宙庁](../Page/カナダ宇宙庁.md "wikilink") ()
       - [カナダ証券管理局](https://ja.wikipedia.org/wiki/カナダ証券管理局 "wikilink")（)
-  - [コンパイルサポートアソシエーション](https://ja.wikipedia.org/wiki/コンパイルサポートアソシエーション "wikilink") ()
+  - [コンパイルサポートアソシエーション](../Page/コンパイルサポートアソシエーション.md "wikilink") ()
   - [コンテンツ・ソフト協同組合](../Page/コンテンツ・ソフト協同組合.md "wikilink") ()
   - [視聴覚最高評議会](https://ja.wikipedia.org/wiki/視聴覚最高評議会 "wikilink") () - フランスの官庁
   - [コンピュータ将棋協会](https://ja.wikipedia.org/wiki/コンピュータ将棋協会 "wikilink") ()

@@ -17,7 +17,7 @@
 
 退役後もPTSD（[心的外傷後ストレス障害](https://ja.wikipedia.org/wiki/心的外傷後ストレス障害 "wikilink")）とみられる戦闘経験の悪夢と闘っていた。かつて赴任した沖縄に4年ほど滞在し、いくつかのパブを経営するが、売却して[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")に移住する\[8\]。
 
-彼の映画デビューは除隊後、復員軍人奨学金 ([G.I. Bill](https://ja.wikipedia.org/wiki/:en:G.I._Bill "wikilink")) を得て[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")ので犯罪学と[演劇](../Page/演劇.md "wikilink")を学んでいたときである。彼は映画『[地獄の黙示録](../Page/地獄の黙示録.md "wikilink")』にヘリコプターパイロット役として出演し、また[フランシス・コッポラ監督のテクニカルアドバイザーとして参加した](../Page/フランシス・フォード・コッポラ.md "wikilink")。そしていくつかの映画で脇役を務めた後の[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")、[スタンリー・キューブリック](../Page/スタンリー・キューブリック.md "wikilink")監督の映画『[フルメタル・ジャケット](../Page/フルメタル・ジャケット.md "wikilink")』で教練指導官の[ハートマン軍曹](https://ja.wikipedia.org/wiki/ハートマン軍曹 "wikilink")役で出演。当初、彼はテクニカルアドバイザーとして参加していたが、演技指導で彼の罵詈雑言の迫力を見たキューブリック監督により、ハートマン軍曹役そのものが与えられた。軍曹の台詞の一部は彼が手がけ、また一部の演技は彼の[アドリブ](https://ja.wikipedia.org/wiki/アドリブ "wikilink")である。キューブリック監督は彼を「これまで仕事をしてきた中で最高の俳優の一人で、1シーン撮るのにたった2、3回のテイクで十分\[9\]だった」と評している。この映画出演がきっかけになり、キューブリック監督とは友人となった。キューブリック監督は死の直前に彼との会話で自身の遺作『[アイズ ワイド シャット](https://ja.wikipedia.org/wiki/アイズ_ワイド_シャット "wikilink")』を駄作と告白していたと彼は語っている\[10\]。フルメタル・ジャケットにおける彼の演技は批評家たちの激賞を受け、[ゴールデングローブ賞](../Page/ゴールデングローブ賞.md "wikilink")の最優秀助演男優賞にノミネートされた。
+彼の映画デビューは除隊後、復員軍人奨学金 ([G.I. Bill](https://ja.wikipedia.org/wiki/:en:G.I._Bill "wikilink")) を得て[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")ので犯罪学と[演劇](../Page/演劇.md "wikilink")を学んでいたときである。彼は映画『[地獄の黙示録](../Page/地獄の黙示録.md "wikilink")』にヘリコプターパイロット役として出演し、また[フランシス・コッポラ監督のテクニカルアドバイザーとして参加した](../Page/フランシス・フォード・コッポラ.md "wikilink")。そしていくつかの映画で脇役を務めた後の[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")、[スタンリー・キューブリック](../Page/スタンリー・キューブリック.md "wikilink")監督の映画『[フルメタル・ジャケット](../Page/フルメタル・ジャケット.md "wikilink")』で教練指導官の[ハートマン軍曹](https://ja.wikipedia.org/wiki/ハートマン軍曹 "wikilink")役で出演。当初、彼はテクニカルアドバイザーとして参加していたが、演技指導で彼の罵詈雑言の迫力を見たキューブリック監督により、ハートマン軍曹役そのものが与えられた。軍曹の台詞の一部は彼が手がけ、また一部の演技は彼の[アドリブ](https://ja.wikipedia.org/wiki/アドリブ "wikilink")である。キューブリック監督は彼を「これまで仕事をしてきた中で最高の俳優の一人で、1シーン撮るのにたった2、3回のテイクで十分\[9\]だった」と評している。この映画出演がきっかけになり、キューブリック監督とは友人となった。キューブリック監督は死の直前に彼との会話で自身の遺作『[アイズ ワイド シャット](../Page/アイズ_ワイド_シャット.md "wikilink")』を駄作と告白していたと彼は語っている\[10\]。フルメタル・ジャケットにおける彼の演技は批評家たちの激賞を受け、[ゴールデングローブ賞](../Page/ゴールデングローブ賞.md "wikilink")の最優秀助演男優賞にノミネートされた。
 
 その後も、約60本の映画に出演し、またアニメやゲームソフトの声優、テレビ番組の司会などとして活躍していた。
 
@@ -172,7 +172,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/裸の銃を持つ男" title="wikilink">裸の銃を持つ男 33 1/3 最後の侮辱</a><br />
+<td><p><a href="../Page/裸の銃を持つ男.md" title="wikilink">裸の銃を持つ男 33 1/3 最後の侮辱</a><br />
 <em>The Naked Gun 33 1/3: The Final Insult</em></p></td>
 <td><p>看守</p></td>
 <td></td>
@@ -347,7 +347,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/テキサス・チェーンソー" title="wikilink">テキサス・チェーンソー</a><br />
+<td><p><a href="../Page/テキサス・チェーンソー.md" title="wikilink">テキサス・チェーンソー</a><br />
 <em>The Texas Chainsaw Massacre</em></p></td>
 <td><p>ホイト保安官</p></td>
 <td></td>

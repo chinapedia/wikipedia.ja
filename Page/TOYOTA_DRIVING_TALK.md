@@ -32,10 +32,10 @@
   - [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink") 11:10 - 11:15（『[ほのぼのワイド 中村こずえのsmile for You](../Page/ほのぼのワイド_中村こずえのsmile_for_You.md "wikilink")』(月 - 木)・『ラジオWEST〜寺田繭子のわくわく金曜日』(金)内）
   - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink") 11:15 - 11:20
   - [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink") 9:55 - 10:00（『[今日も“シャキ”っと](../Page/今日も“シャキ”っと.md "wikilink")』内）
-  - [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink") 10:55 - 11:00（『[げんき一番](https://ja.wikipedia.org/wiki/げんき一番 "wikilink")』内）
+  - [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink") 10:55 - 11:00（『[げんき一番](../Page/げんき一番.md "wikilink")』内）
   - [岐阜放送](../Page/岐阜放送ラジオ.md "wikilink") 11:40 - 11:45（『[ビビっとワイド今小町](https://ja.wikipedia.org/wiki/ビビっとワイド今小町 "wikilink")』内）
   - [KBS京都](../Page/京都放送.md "wikilink") 10時台（『[ただ今勤務中\!森谷威夫のお世話になります\!](https://ja.wikipedia.org/wiki/ただ今勤務中!森谷威夫のお世話になります! "wikilink")』内）
-  - [ラジオ関西](../Page/ラジオ関西.md "wikilink") 10:32 - 10:37（『[HARBOR CAFE](https://ja.wikipedia.org/wiki/HARBOR_CAFE "wikilink")』(月 - 木)・『[ばんばひろふみ\!ラジオ・DE・しょー\!](https://ja.wikipedia.org/wiki/ばんばひろふみ!ラジオ・DE・しょー! "wikilink")』(金)内）
+  - [ラジオ関西](../Page/ラジオ関西.md "wikilink") 10:32 - 10:37（『[HARBOR CAFE](https://ja.wikipedia.org/wiki/HARBOR_CAFE "wikilink")』(月 - 木)・『[ばんばひろふみ\!ラジオ・DE・しょー\!](../Page/ばんばひろふみ!ラジオ・DE・しょー!.md "wikilink")』(金)内）
   - [和歌山放送](https://ja.wikipedia.org/wiki/和歌山放送 "wikilink") 11:50 - 11:55
   - [山陽放送](https://ja.wikipedia.org/wiki/山陽放送ラジオ "wikilink") 10:40 - 10:45
   - [山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink") 12:40 - 12:45

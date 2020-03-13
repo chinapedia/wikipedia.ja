@@ -30,11 +30,11 @@ TBWAJAPAN時代には、「Disruption」という理念を貫き、[ドイツ](h
   - [アディダス](../Page/アディダス.md "wikilink")
   - [ハーゲンダッツ](../Page/ハーゲンダッツ.md "wikilink")
   - [アメリカンホーム保険会社](../Page/アメリカンホーム保険会社.md "wikilink")
-  - [ユナイテッドアローズ](https://ja.wikipedia.org/wiki/ユナイテッドアローズ "wikilink")
+  - [ユナイテッドアローズ](../Page/ユナイテッドアローズ.md "wikilink")
   - [ミシュラン](../Page/ミシュラン.md "wikilink")
   - [FRISK](../Page/FRISK.md "wikilink")
   - [ハインツ](../Page/ハインツ.md "wikilink")
-  - [クラシエフーズ](https://ja.wikipedia.org/wiki/クラシエフーズ "wikilink")
+  - [クラシエフーズ](../Page/クラシエフーズ.md "wikilink")
 
 ## 博報堂とG1ワールドワイド
 
@@ -46,7 +46,7 @@ TBWAJAPAN時代には、「Disruption」という理念を貫き、[ドイツ](h
   - [TBWACHIATDAY](https://ja.wikipedia.org/wiki/TBWA/CHIAT/DAY "wikilink")
       - [ジェイ・シャイアット](https://ja.wikipedia.org/wiki/:en:Jay_Chiat "wikilink")
   - [博報堂](https://ja.wikipedia.org/wiki/博報堂 "wikilink")
-  - [I\&S BBDO](https://ja.wikipedia.org/wiki/I&S_BBDO "wikilink")（オムニコムグループ）
+  - [I\&S BBDO](../Page/I&S_BBDO.md "wikilink")（オムニコムグループ）
   - [DDB](https://ja.wikipedia.org/wiki/DDB "wikilink")（オムニコムグループ）
 
 ## 外部リンク

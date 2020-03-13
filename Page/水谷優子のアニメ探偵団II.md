@@ -8,7 +8,7 @@
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")秋のナイターオフシーズンの深夜（地方局によっては日中に放送される場合もある）に「水谷優子のアニメ探偵団」としてスタート、その半年後にタイトルを「水谷優子のアニメ探偵団II」に改題。製作が[綜合放送](../Page/綜合放送.md "wikilink")で委託されている番組としては珍しい[アニラジ](../Page/アニラジ.md "wikilink")で900回を超える長寿番組であった。スポンサーが無く、地方局のみの放送ながらも、都市部のラジオ番組と比べて制約にしばられない番組づくりが行われた。
   - アニメ探偵団（無印）開始当初は昔の[アニメソング](https://ja.wikipedia.org/wiki/アニメソング "wikilink")を主に流していたが、その後はトーク・コーナー・リクエストが中心となり、数ヶ月に1回は特定のアニメソングを特集して集中的に放送した。またスポンサーがないため、レコード会社に制約はなく、オンエアされるアニメソングは広範囲に及ぶ。
   - オープニングテーマは「II」にリニューアル直後は「YASU-けくナイ\!」、1992年6月以降は「100万倍の勇気」の[インストゥルメンタル](https://ja.wikipedia.org/wiki/インストゥルメンタル "wikilink")バージョン。
-  - 年に1回[高知県](../Page/高知県.md "wikilink")で行われる[まんが甲子園](https://ja.wikipedia.org/wiki/まんが甲子園 "wikilink")に水谷が毎年恒例で登場するようになってからは公開録音も行った。
+  - 年に1回[高知県](../Page/高知県.md "wikilink")で行われる[まんが甲子園](../Page/まんが甲子園.md "wikilink")に水谷が毎年恒例で登場するようになってからは公開録音も行った。
   - 2009年4月以降、番組宛の投稿は郵送に加えて電子メールでの応募も出来るようになった。
   - 2009年10月4日の[秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")・[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")での放送をもって、19年の歴史に幕を閉じた（無印（Ⅰ）から通算の放送回数は９９１回）。同改編以降は高知放送のみ後継番組「[アニメ探偵団3](https://ja.wikipedia.org/wiki/アニメ探偵団3 "wikilink")」が放送されることになったが、水谷は出演していない。
 
@@ -130,7 +130,7 @@
   - [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")（[2000年](../Page/2000年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")放送分で打ち切り。日曜23:00 - 23:30に放送されていた）
   - [山形放送](../Page/山形放送.md "wikilink")（[2003年](../Page/2003年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink")放送分で打ち切り。月曜21:05 - 21:30に放送されていた）
   - [茨城放送](../Page/茨城放送.md "wikilink")（2000年[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - [2004年](../Page/2004年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")、25分版）
-  - [IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月2日](../Page/10月2日.md "wikilink")放送分で打ち切り。日曜24:30 - 25:00に放送されていた）
+  - [IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")（[2005年](../Page/2005年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")放送分で打ち切り。日曜24:30 - 25:00に放送されていた）
   - [中国放送](../Page/中国放送.md "wikilink")（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink") - [2007年](../Page/2007年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")、（無印の）開始当初は日曜18:30 - 19:00、IIにリニューアルした1991年4月 - 9月は日曜16 - 17時台、1991年10月 - 1992年3月は土曜21:30 - 21:50、1992年4月から数年間は水曜23:00 - 23:30と変遷を重ね、以降は日曜25:30 - 25:45に放送されていた\[2\]）。
   - [南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")（[2009年](../Page/2009年.md "wikilink")3月で打ち切り。火曜24:30 - 25:00に放送されていた）
   - [西日本放送](../Page/西日本放送.md "wikilink")（2009年[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")で打ち切り。2008年9月までは日曜9:30 - 10:00、翌10月からは土曜17:00 - 17:15に放送されていた）

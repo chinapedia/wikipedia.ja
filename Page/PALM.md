@@ -1,7 +1,7 @@
 > この記事は[PALM](https://ja.wikipedia.org/wiki/PALM)から翻訳されています。
 
 
-『**PALM**』（パーム）は[獸木野生](../Page/獸木野生.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。主に『[ウィングス](https://ja.wikipedia.org/wiki/ウィングス_\(雑誌\) "wikilink")』（[新書館](https://ja.wikipedia.org/wiki/新書館 "wikilink")）にて連載。
+『**PALM**』（パーム）は[獸木野生](../Page/獸木野生.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。主に『[ウィングス](../Page/ウィングス_\(雑誌\).md "wikilink")』（[新書館](../Page/新書館.md "wikilink")）にて連載。
 
 [ペンネーム](../Page/ペンネーム.md "wikilink")に関しては、連載開始時には「**伸たまき**」名義を使用していたが、2000年以降は「**獸木野生**」名義を使用している\[1\]。
 

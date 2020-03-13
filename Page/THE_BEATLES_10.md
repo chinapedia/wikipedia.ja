@@ -93,7 +93,7 @@
 
 ## 内容
 
-[ザ・ビートルズ](https://ja.wikipedia.org/wiki/ザ・ビートルズ "wikilink")が1962年のレコードデビューから事実上解散した1970年までに発売した公式発表曲213曲と解散後発売のオリジナル・ソング\[3\]23曲をネット投票などを受けトップテン形式にして発表する。アメリカにて「性的な曲である」として暫く放送禁止になっている「[ハッピネス・イズ・ア・ウォーム・ガン](https://ja.wikipedia.org/wiki/ハッピネス・イズ・ア・ウォーム・ガン "wikilink")」がトップテンの1位にランクされフルに流したことがあった。
+[ザ・ビートルズ](https://ja.wikipedia.org/wiki/ザ・ビートルズ "wikilink")が1962年のレコードデビューから事実上解散した1970年までに発売した公式発表曲213曲と解散後発売のオリジナル・ソング\[3\]23曲をネット投票などを受けトップテン形式にして発表する。アメリカにて「性的な曲である」として暫く放送禁止になっている「[ハッピネス・イズ・ア・ウォーム・ガン](../Page/ハッピネス・イズ・ア・ウォーム・ガン.md "wikilink")」がトップテンの1位にランクされフルに流したことがあった。
 
 ## コーナー
 
@@ -145,13 +145,13 @@
 
 ## 過去のゲスト
 
-  - [王様](https://ja.wikipedia.org/wiki/王様 "wikilink")
+  - [王様](../Page/王様.md "wikilink")
   - [石崎光](https://ja.wikipedia.org/wiki/石崎光 "wikilink")
-  - [カーネーション](https://ja.wikipedia.org/wiki/カーネーション_\(バンド\) "wikilink")
+  - [カーネーション](../Page/カーネーション_\(バンド\).md "wikilink")
   - [加山雄三](https://ja.wikipedia.org/wiki/加山雄三 "wikilink")
   - [川瀬康雄](https://ja.wikipedia.org/wiki/川瀬康雄 "wikilink")
   - [倉本美津留](../Page/倉本美津留.md "wikilink")
-  - [サンボマスター](https://ja.wikipedia.org/wiki/サンボマスター "wikilink")
+  - [サンボマスター](../Page/サンボマスター.md "wikilink")
   - [清水仁](../Page/清水仁.md "wikilink")
   - [The Silver Beats](https://ja.wikipedia.org/wiki/The_Silver_Beats "wikilink")
   - [杉真理](../Page/杉真理.md "wikilink")

@@ -5,7 +5,7 @@
 
 本作はPlayStation2用ソフトとして[2003年](../Page/2003年.md "wikilink")[2月13日](../Page/2月13日.md "wikilink")に発売されたのち、同年の[11月28日](../Page/11月28日.md "wikilink")に[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")版が発売された。
 
-本作は、据え置き機では『[ドラゴンボール FINAL BOUT](https://ja.wikipedia.org/wiki/ドラゴンボール_FINAL_BOUT "wikilink")』以来から約6年振りの発売となった『[ドラゴンボール](https://ja.wikipedia.org/wiki/ドラゴンボール "wikilink")』のゲーム作品。オープニングムービーはアニメ版『[ドラゴンボールZ](https://ja.wikipedia.org/wiki/ドラゴンボールZ "wikilink")』の初代オープニングをフルポリゴンで再現したものとなっている。
+本作は、据え置き機では『[ドラゴンボール FINAL BOUT](../Page/ドラゴンボール_FINAL_BOUT.md "wikilink")』以来から約6年振りの発売となった『[ドラゴンボール](https://ja.wikipedia.org/wiki/ドラゴンボール "wikilink")』のゲーム作品。オープニングムービーはアニメ版『[ドラゴンボールZ](https://ja.wikipedia.org/wiki/ドラゴンボールZ "wikilink")』の初代オープニングをフルポリゴンで再現したものとなっている。
 
 ## 開発
 
@@ -39,7 +39,7 @@
 
 ### e.s.sシステム
 
-本作におけるスキルとはそれぞれのキャラクターが持つ能力を表し、変身や必殺技といった「能力系」、 連続攻撃や投げ技のスキルといった「体術系」、 [仙豆](https://ja.wikipedia.org/wiki/仙豆 "wikilink")などの補助アイテムである「補助系」の三種類に分かれる。スキルはホイポイカプセルの中に入っており、「ストーリーモード」や「スキル編集」モード内にある「スキルショップ」で購入することにより増える。使用可能な各キャラクターのカスタムトレーにスキルを装備することによりそのスキルが使用可能になり、究極技や能力が上昇する。
+本作におけるスキルとはそれぞれのキャラクターが持つ能力を表し、変身や必殺技といった「能力系」、 連続攻撃や投げ技のスキルといった「体術系」、 [仙豆](../Page/仙豆.md "wikilink")などの補助アイテムである「補助系」の三種類に分かれる。スキルはホイポイカプセルの中に入っており、「ストーリーモード」や「スキル編集」モード内にある「スキルショップ」で購入することにより増える。使用可能な各キャラクターのカスタムトレーにスキルを装備することによりそのスキルが使用可能になり、究極技や能力が上昇する。
 
 ## ゲーム内容
 
@@ -47,16 +47,16 @@
 
 ## 登場キャラクター
 
-  - [孫悟空](https://ja.wikipedia.org/wiki/孫悟空_\(ドラゴンボール\) "wikilink")（声優：[野沢雅子](../Page/野沢雅子.md "wikilink")）
-  - [孫悟飯](https://ja.wikipedia.org/wiki/孫悟飯 "wikilink")（幼年期）（声優：野沢雅子）
+  - [孫悟空](../Page/孫悟空_\(ドラゴンボール\).md "wikilink")（声優：[野沢雅子](../Page/野沢雅子.md "wikilink")）
+  - [孫悟飯](../Page/孫悟飯.md "wikilink")（幼年期）（声優：野沢雅子）
   - 孫悟飯（少年期）（声優：野沢雅子）
   - [ピッコロ](https://ja.wikipedia.org/wiki/ピッコロ_\(ドラゴンボール\)#ピッコロ（マジュニア） "wikilink")（声優：[古川登志夫](../Page/古川登志夫.md "wikilink")）
-  - [クリリン](https://ja.wikipedia.org/wiki/クリリン "wikilink")（声優：[田中真弓](../Page/田中真弓.md "wikilink")）
+  - [クリリン](../Page/クリリン.md "wikilink")（声優：[田中真弓](../Page/田中真弓.md "wikilink")）
   - [ヤムチャ](../Page/ヤムチャ.md "wikilink")（声優：[古谷徹](../Page/古谷徹.md "wikilink")）
   - [天津飯](../Page/天津飯_\(ドラゴンボール\).md "wikilink")（声優：[鈴置洋孝](https://ja.wikipedia.org/wiki/鈴置洋孝 "wikilink")）
-  - [ベジータ](https://ja.wikipedia.org/wiki/ベジータ "wikilink")（声優：[堀川りょう](../Page/堀川りょう.md "wikilink")）
+  - [ベジータ](../Page/ベジータ.md "wikilink")（声優：[堀川りょう](../Page/堀川りょう.md "wikilink")）
   - [ナッパ](https://ja.wikipedia.org/wiki/ナッパ "wikilink")（声優：[飯塚昭三](../Page/飯塚昭三.md "wikilink")）
-  - [ラディッツ](https://ja.wikipedia.org/wiki/ラディッツ "wikilink")（声優：[千葉繁](https://ja.wikipedia.org/wiki/千葉繁 "wikilink")）
+  - [ラディッツ](../Page/ラディッツ.md "wikilink")（声優：[千葉繁](../Page/千葉繁.md "wikilink")）
   - [フリーザ](https://ja.wikipedia.org/wiki/フリーザ "wikilink")（声優：[中尾隆聖](../Page/中尾隆聖.md "wikilink")）
   - [ギニュー](https://ja.wikipedia.org/wiki/ギニュー特戦隊#ギニュー "wikilink")（声優：[堀秀行](../Page/堀秀行.md "wikilink")）
   - [リクーム](https://ja.wikipedia.org/wiki/ギニュー特戦隊#リクーム "wikilink")（声優：[内海賢二](../Page/内海賢二.md "wikilink")）
@@ -88,7 +88,7 @@
   - 神さま（声：[青野武](../Page/青野武.md "wikilink")）
   - [ミスター・ポポ](https://ja.wikipedia.org/wiki/ミスター・ポポ "wikilink")（声：[西尾徳](../Page/西尾徳.md "wikilink")）
   - [界王](../Page/界王.md "wikilink")（声：[八奈見乗児](../Page/八奈見乗児.md "wikilink")）
-  - [ブルマ](https://ja.wikipedia.org/wiki/ブルマ_\(ドラゴンボール\) "wikilink")（声：[鶴ひろみ](../Page/鶴ひろみ.md "wikilink")）
+  - [ブルマ](../Page/ブルマ_\(ドラゴンボール\).md "wikilink")（声：[鶴ひろみ](../Page/鶴ひろみ.md "wikilink")）
   - [チチ](../Page/チチ_\(ドラゴンボール\).md "wikilink")（声：[荘真由美](../Page/荘真由美.md "wikilink")）
   - [プーアル](../Page/プーアル.md "wikilink")（声：[渡辺菜生子](../Page/渡辺菜生子.md "wikilink")）
   - [キュイ](https://ja.wikipedia.org/wiki/フリーザ一味#キュイ "wikilink")（声：[戸谷公次](../Page/戸谷公次.md "wikilink")）
@@ -101,7 +101,7 @@
 
 ## 主題歌
 
-  - 「[CHA-LA HEAD-CHA-LA](https://ja.wikipedia.org/wiki/CHA-LA_HEAD-CHA-LA "wikilink")」（作詞: [森雪之丞](../Page/森雪之丞.md "wikilink")、作曲: [清岡千穂](../Page/清岡千穂.md "wikilink")、編曲: [山本健司](../Page/山本健司.md "wikilink")、歌: [影山ヒロノブ](https://ja.wikipedia.org/wiki/影山ヒロノブ "wikilink")）
+  - 「[CHA-LA HEAD-CHA-LA](../Page/CHA-LA_HEAD-CHA-LA.md "wikilink")」（作詞: [森雪之丞](../Page/森雪之丞.md "wikilink")、作曲: [清岡千穂](../Page/清岡千穂.md "wikilink")、編曲: [山本健司](../Page/山本健司.md "wikilink")、歌: [影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink")）
 
 <!-- end list -->
 

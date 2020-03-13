@@ -76,7 +76,7 @@
 
 ### オープニングテーマ
 
-  - ONE TWO （BUS STOP、『[Dancemania X6](https://ja.wikipedia.org/wiki/ダンスマニア "wikilink")』収録曲 / 2005年4月2日 - 2006年3月25日）
+  - ONE TWO （BUS STOP、『[Dancemania X6](../Page/ダンスマニア.md "wikilink")』収録曲 / 2005年4月2日 - 2006年3月25日）
   - DOODAH\! (K.O.G. Re-edit) （CARTOONS、『[DANCEMANiAX 2nd MIX](../Page/ダンスマニアックス.md "wikilink")』収録曲 / 2006年4月1日 - 2006年9月23日）
 
 ### エンディングテーマ

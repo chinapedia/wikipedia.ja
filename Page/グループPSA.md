@@ -1,13 +1,13 @@
 > この記事は[PSA](https://ja.wikipedia.org/wiki/PSA)から翻訳されています。
 
 
-**グループPSA**（*Groupe PSA*、旧社名**PSA・プジョーシトロエン**、*PSA Peugeot Citroën*）は、[プジョー](../Page/プジョー.md "wikilink")、[シトロエン](https://ja.wikipedia.org/wiki/シトロエン "wikilink")、[DS](https://ja.wikipedia.org/wiki/DSオートモビルズ "wikilink")、[オペル](../Page/オペル.md "wikilink")、[ボクスホール](https://ja.wikipedia.org/wiki/ボクスホール "wikilink")ブランドで自動車の製造・販売を行っている[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[多国籍企業](../Page/多国籍企業.md "wikilink")。社名の**PSA**は「プジョー株式会社（Peugeot Société Anonyme）」の頭文字である。
+**グループPSA**（*Groupe PSA*、旧社名**PSA・プジョーシトロエン**、*PSA Peugeot Citroën*）は、[プジョー](../Page/プジョー.md "wikilink")、[シトロエン](https://ja.wikipedia.org/wiki/シトロエン "wikilink")、[DS](https://ja.wikipedia.org/wiki/DSオートモビルズ "wikilink")、[オペル](../Page/オペル.md "wikilink")、[ボクスホール](../Page/ボクスホール.md "wikilink")ブランドで自動車の製造・販売を行っている[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[多国籍企業](../Page/多国籍企業.md "wikilink")。社名の**PSA**は「プジョー株式会社（Peugeot Société Anonyme）」の頭文字である。
 
 ## 概要
 
-[Citroen_LN_front.JPG](https://ja.wikipedia.org/wiki/File:Citroen_LN_front.JPG "fig:Citroen_LN_front.JPG")\]\] [2007-2009_Peugeot_207_(A7)_XE_5-door_hatchback_(2018-11-13)_01.jpg](https://ja.wikipedia.org/wiki/File:2007-2009_Peugeot_207_\(A7\)_XE_5-door_hatchback_\(2018-11-13\)_01.jpg "fig:2007-2009_Peugeot_207_(A7)_XE_5-door_hatchback_(2018-11-13)_01.jpg")\]\] 1976年、経営難に陥っていたシトロエンをプジョーが傘下に収めたことで誕生。一つのグループの下に共存することにより工業的、財政的、テクノロジーなどにおいて相乗効果を生み出し成功し、現在EUの自動車メーカーグループ中第2位を占めている。[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")や[アジア](https://ja.wikipedia.org/wiki/アジア "wikilink")、[オセアニア](../Page/オセアニア.md "wikilink")、[アフリカ](../Page/アフリカ.md "wikilink")、[中南米](https://ja.wikipedia.org/wiki/中南米 "wikilink")（含[メキシコ](../Page/メキシコ.md "wikilink")）に輸出もしくは現地生産しているが、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")及び[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")市場はシトロエンが[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に、プジョーは[1991年](../Page/1991年.md "wikilink")に撤退した。
+[Citroen_LN_front.JPG](https://ja.wikipedia.org/wiki/File:Citroen_LN_front.JPG "fig:Citroen_LN_front.JPG")\]\] [2007-2009_Peugeot_207_(A7)_XE_5-door_hatchback_(2018-11-13)_01.jpg](https://ja.wikipedia.org/wiki/File:2007-2009_Peugeot_207_\(A7\)_XE_5-door_hatchback_\(2018-11-13\)_01.jpg "fig:2007-2009_Peugeot_207_(A7)_XE_5-door_hatchback_(2018-11-13)_01.jpg")\]\] 1976年、経営難に陥っていたシトロエンをプジョーが傘下に収めたことで誕生。一つのグループの下に共存することにより工業的、財政的、テクノロジーなどにおいて相乗効果を生み出し成功し、現在EUの自動車メーカーグループ中第2位を占めている。[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")や[アジア](../Page/アジア.md "wikilink")、[オセアニア](../Page/オセアニア.md "wikilink")、[アフリカ](../Page/アフリカ.md "wikilink")、[中南米](https://ja.wikipedia.org/wiki/中南米 "wikilink")（含[メキシコ](../Page/メキシコ.md "wikilink")）に輸出もしくは現地生産しているが、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")及び[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")市場はシトロエンが[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に、プジョーは[1991年](../Page/1991年.md "wikilink")に撤退した。
 
-モータースポーツでは[世界ラリー選手権](../Page/世界ラリー選手権.md "wikilink") (WRC)へも両社がそれぞれ参加していたが、プジョーは[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")限りでWRCから撤退を表明した。シトロエンは[2006年](../Page/2006年.md "wikilink")に一時的に活動停止したが、翌[2007年](../Page/2007年.md "wikilink")より復帰した。2008年の販売台数は295万2,000台・世界市場でのシェアは5%。西欧市場では207万9,000台・シェア13.8%で[VW](https://ja.wikipedia.org/wiki/VW "wikilink")に次ぐ規模であり、そのうちプジョーは108万4,000台、シトロエンは99万4,000台であった\[1\]。
+モータースポーツでは[世界ラリー選手権](../Page/世界ラリー選手権.md "wikilink") (WRC)へも両社がそれぞれ参加していたが、プジョーは[2005年](../Page/2005年.md "wikilink")限りでWRCから撤退を表明した。シトロエンは[2006年](../Page/2006年.md "wikilink")に一時的に活動停止したが、翌[2007年](../Page/2007年.md "wikilink")より復帰した。2008年の販売台数は295万2,000台・世界市場でのシェアは5%。西欧市場では207万9,000台・シェア13.8%で[VW](https://ja.wikipedia.org/wiki/VW "wikilink")に次ぐ規模であり、そのうちプジョーは108万4,000台、シトロエンは99万4,000台であった\[1\]。
 
 2005年から[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")と提携して、合弁会社[トヨタ・プジョー・シトロエン・オートモービル](https://ja.wikipedia.org/wiki/トヨタ・プジョー・シトロエン・オートモービル "wikilink")を設立。小型車の兄弟車を共同開発・生産した。2012年には小型商用車の分野でも提携を始めている。
 
@@ -15,7 +15,7 @@
 
 2012年3月1日、プジョー・シトロエンが10億ユーロの増資を行い、[GMが約](../Page/ゼネラルモーターズ.md "wikilink")7%の資本を引き受けることで合意した。この資本提携で、5年以内に年約20億ドルもの相乗効果を見込んでいる。2016年頃には、同じ車体を採用した新型車の開発を予定している。
 
-2013年11月、同年8月まで[ルノー](../Page/ルノー.md "wikilink")の[COOを務めていたカルロス](https://ja.wikipedia.org/wiki/最高執行責任者 "wikilink")・タバレスが2014年から[CEOに就任することが発表される](../Page/最高経営責任者.md "wikilink")\[3\]。
+2013年11月、同年8月まで[ルノー](../Page/ルノー.md "wikilink")の[COOを務めていたカルロス](../Page/最高執行責任者.md "wikilink")・タバレスが2014年から[CEOに就任することが発表される](../Page/最高経営責任者.md "wikilink")\[3\]。
 
 2014年3月26日、[中国の](../Page/中華人民共和国.md "wikilink")[東風汽車](https://ja.wikipedia.org/wiki/東風汽車 "wikilink")と資本提携を締結し、プジョー創業家の持株比率は東風やフランス政府と同じ13.68%になった\[4\]\[5\]。
 
@@ -23,7 +23,7 @@
 
 2016年4月5日、PSA・プジョー・シトロエンからグループPSAに社名変更した\[6\]。
 
-2017年8月、[ゼネラルモーターズ](../Page/ゼネラルモーターズ.md "wikilink") (GM) からの独[オペル](../Page/オペル.md "wikilink")およびその英国子会社である[ボクスホール](https://ja.wikipedia.org/wiki/ボクスホール "wikilink")の買収を完了し、これによりPSAのヨーロッパでのシェアは16%に上昇して[フォルクスワーゲングループ](../Page/フォルクスワーゲングループ.md "wikilink")に次いで2位となった\[7\]。
+2017年8月、[ゼネラルモーターズ](../Page/ゼネラルモーターズ.md "wikilink") (GM) からの独[オペル](../Page/オペル.md "wikilink")およびその英国子会社である[ボクスホール](../Page/ボクスホール.md "wikilink")の買収を完了し、これによりPSAのヨーロッパでのシェアは16%に上昇して[フォルクスワーゲングループ](../Page/フォルクスワーゲングループ.md "wikilink")に次いで2位となった\[7\]。
 
 2019年10月、[フィアット・クライスラー・オートモービルズ](https://ja.wikipedia.org/wiki/フィアット・クライスラー・オートモービルズ "wikilink")（FCA）と経営統合することを発表し、双方の創業家と東風とフランス政府は7年間出資することで合意した\[8\]。
 

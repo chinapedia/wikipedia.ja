@@ -23,7 +23,7 @@
 <!-- end list -->
 
 1.  [DEEP'S IS DEAD](https://ja.wikipedia.org/wiki/DEEP'S_IS_DEAD "wikilink") (1992年12月23日　BMCR-9016)
-2.  [ロマンティストは殺される](https://ja.wikipedia.org/wiki/ロマンティストは殺される "wikilink") (1993年7月21日　BMCR-6005)
+2.  [ロマンティストは殺される](../Page/ロマンティストは殺される.md "wikilink") (1993年7月21日　BMCR-6005)
 
 ## 関連項目
 

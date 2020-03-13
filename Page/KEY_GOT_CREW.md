@@ -1,7 +1,7 @@
 > この記事は[KEY GOT CREW](https://ja.wikipedia.org/wiki/KEY_GOT_CREW)から翻訳されています。
 
 
-**KEY GOT CREW**（キー・ガット・クルー）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミクスチャー](https://ja.wikipedia.org/wiki/ミクスチャー "wikilink")[ヒップホップ](../Page/ヒップホップ.md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。2000年結成。2004年[フォーライフミュージックエンタテイメント](https://ja.wikipedia.org/wiki/フォーライフミュージックエンタテイメント "wikilink")よりデビュー。
+**KEY GOT CREW**（キー・ガット・クルー）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミクスチャー](https://ja.wikipedia.org/wiki/ミクスチャー "wikilink")[ヒップホップ](../Page/ヒップホップ.md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。2000年結成。2004年[フォーライフミュージックエンタテイメント](../Page/フォーライフミュージックエンタテイメント.md "wikilink")よりデビュー。
 
 ## メンバー
 
@@ -35,7 +35,7 @@
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p>2003年12月1日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Choo_Choo_TRAIN" title="wikilink">Choo Choo TRAIN</a>～今夜はPartyだがないや!～</strong></p></td>
+<td><p><strong><a href="../Page/Choo_Choo_TRAIN.md" title="wikilink">Choo Choo TRAIN</a>～今夜はPartyだがないや!～</strong></p></td>
 <td><p>APKG-0003</p></td>
 <td><ol>
 <li>Choo Choo TRAIN～今夜はPartyだがないや!～</li>
@@ -241,7 +241,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/中野裕之.md" title="wikilink">中野裕之</a></p></td>
-<td><p>「夏恋想(かれんそう)」(出演:<a href="https://ja.wikipedia.org/wiki/小栗旬" title="wikilink">小栗旬</a>・<a href="https://ja.wikipedia.org/wiki/黒宮ニイナ" title="wikilink">黒宮ニイナ</a>)</p></td>
+<td><p>「夏恋想(かれんそう)」(出演:<a href="../Page/小栗旬.md" title="wikilink">小栗旬</a>・<a href="https://ja.wikipedia.org/wiki/黒宮ニイナ" title="wikilink">黒宮ニイナ</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/原田浩一" title="wikilink">原田浩一</a></p></td>
@@ -257,7 +257,7 @@
 ## 関連項目
 
   - [ミューパライチ押しナンバー](../Page/ミューパライチ押しナンバー.md "wikilink")
-  - [鳥取県出身の人物一覧](https://ja.wikipedia.org/wiki/鳥取県出身の人物一覧 "wikilink")
+  - [鳥取県出身の人物一覧](../Page/鳥取県出身の人物一覧.md "wikilink")
   - [百田留衣](https://ja.wikipedia.org/wiki/百田留衣 "wikilink")
 
 ## 外部リンク

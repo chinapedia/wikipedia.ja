@@ -156,11 +156,11 @@
 
   - [イヴィツァ・バノヴィッチ](https://ja.wikipedia.org/wiki/イヴィツァ・バノヴィッチ "wikilink")
 
-  - [ゴラン・ユーリッチ](https://ja.wikipedia.org/wiki/ゴラン・ユーリッチ "wikilink")
+  - [ゴラン・ユーリッチ](../Page/ゴラン・ユーリッチ.md "wikilink")
 
   - [ヨシュコ・ポポヴィッチ](https://ja.wikipedia.org/wiki/ヨシュコ・ポポヴィッチ "wikilink")
 
-  - [ロベルト・プロシネチキ](https://ja.wikipedia.org/wiki/ロベルト・プロシネチキ "wikilink")
+  - [ロベルト・プロシネチキ](../Page/ロベルト・プロシネチキ.md "wikilink")
 
   - [イヴィツァ・オリッチ](../Page/イヴィツァ・オリッチ.md "wikilink")
 

@@ -1,7 +1,7 @@
 > この記事は[FK](https://ja.wikipedia.org/wiki/FK)から翻訳されています。
 
 
-**FKブドゥチノスト・ポドゴリツァ**（[キリル文字](../Page/キリル文字.md "wikilink")表記: , [ラテン文字](../Page/ラテン文字.md "wikilink")表記: ）は、[モンテネグロ](https://ja.wikipedia.org/wiki/モンテネグロ "wikilink")・[ポドゴリツァ](https://ja.wikipedia.org/wiki/ポドゴリツァ "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。
+**FKブドゥチノスト・ポドゴリツァ**（[キリル文字](../Page/キリル文字.md "wikilink")表記: , [ラテン文字](../Page/ラテン文字.md "wikilink")表記: ）は、[モンテネグロ](../Page/モンテネグロ.md "wikilink")・[ポドゴリツァ](../Page/ポドゴリツァ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。
 
 ## 概要
 
@@ -102,7 +102,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/バイエル・レバークーゼン" title="wikilink">バイエル・レバークーゼン</a></p></td>
+<td><p><a href="../Page/バイエル・レバークーゼン.md" title="wikilink">バイエル・レバークーゼン</a></p></td>
 <td><p>style="background-color:#CFF" align="center" </p></td>
 <td><p>0-3</p></td>
 <td></td>
@@ -133,7 +133,7 @@
 </tr>
 <tr class="odd">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デポルティーボ・ラ・コルーニャ" title="wikilink">デポルティーボ</a></p></td>
+<td><p><a href="../Page/デポルティーボ・ラ・コルーニャ.md" title="wikilink">デポルティーボ</a></p></td>
 <td><p>2-1</p></td>
 <td><p>0-3</p></td>
 <td><p>'''2-4</p></td>
@@ -335,7 +335,7 @@
 
   - [デヤン・サビチェヴィッチ](https://ja.wikipedia.org/wiki/デヤン・サビチェヴィッチ "wikilink") 1982-1988
 
-  - [ジェリコ・ペトロヴィッチ](https://ja.wikipedia.org/wiki/ゼリコ・ペトロビッチ "wikilink") 1986-1987
+  - [ジェリコ・ペトロヴィッチ](../Page/ゼリコ・ペトロビッチ.md "wikilink") 1986-1987
 
   - [ミオドラグ・ボージョヴィッチ](../Page/ミオドラグ・ボージョヴィッチ.md "wikilink") 1986-1992
 

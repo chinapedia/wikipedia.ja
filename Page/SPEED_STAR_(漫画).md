@@ -1,7 +1,7 @@
 > この記事は[SPEED STAR \(\)](https://ja.wikipedia.org/wiki/SPEED_STAR_\(\))から翻訳されています。
 
 
-『**SPEED STAR**』（スピードスター）は、『[ヤングキング](https://ja.wikipedia.org/wiki/ヤングキング "wikilink")』で[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")から[2007年](../Page/2007年.md "wikilink")に連載された[飯星シンヤ](https://ja.wikipedia.org/wiki/飯星シンヤ "wikilink")の[オートレース](https://ja.wikipedia.org/wiki/オートレース "wikilink")漫画。
+『**SPEED STAR**』（スピードスター）は、『[ヤングキング](../Page/ヤングキング.md "wikilink")』で[2005年](../Page/2005年.md "wikilink")から[2007年](../Page/2007年.md "wikilink")に連載された[飯星シンヤ](https://ja.wikipedia.org/wiki/飯星シンヤ "wikilink")の[オートレース](../Page/オートレース.md "wikilink")漫画。
 
 ## ストーリー
 
@@ -12,7 +12,7 @@
 ## 登場人物
 
   - 相沢竜也
-    [川口オートレース場](https://ja.wikipedia.org/wiki/川口オートレース場 "wikilink")所属。
+    [川口オートレース場](../Page/川口オートレース場.md "wikilink")所属。
     レーサーになることを夢見る高校生。家庭の事情で、レーサーになることをあきらめていた。
     ある日義父の重さんにオートレースを見せてもらい、昔、父の神崎が有名なオートレーサーだったことを知らされる。
     62歳の現役で父のライバルだった男がトップレーサーと聞かされ、その男を倒すことを目標にオートレーサーになることを決意する。
@@ -24,7 +24,7 @@
     62歳にして現役のオートレース界を代表するS級レーサー。
     竜也の実父・神崎とは王座を競い合うライバルだったが、神崎がレース中に事故で亡くなり、彼の分まで王者として走り続けている。
   - 日野
-    [飯塚オートレース場](https://ja.wikipedia.org/wiki/飯塚オートレース場 "wikilink")所属。竜也と同期。
+    [飯塚オートレース場](../Page/飯塚オートレース場.md "wikilink")所属。竜也と同期。
   - 河田
     飯塚オートレース場所属。竜也と同期。
   - 小宮

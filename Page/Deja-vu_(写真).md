@@ -1,7 +1,7 @@
 > この記事は[Deja-vu \(\)](https://ja.wikipedia.org/wiki/Deja-vu_\(\))から翻訳されています。
 
 
-『**deja-vu**』（デジャ＝ヴュ）は、[フォト・プラネット社](https://ja.wikipedia.org/wiki/フォト・プラネット社 "wikilink")が刊行、[河出書房新社](https://ja.wikipedia.org/wiki/河出書房新社 "wikilink")が発売していた、写真に関する季刊雑誌。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に\[1\]、[写真評論家](https://ja.wikipedia.org/wiki/写真評論家 "wikilink")の[飯沢耕太郎](https://ja.wikipedia.org/wiki/飯沢耕太郎 "wikilink")が創刊した\[2\]。
+『**deja-vu**』（デジャ＝ヴュ）は、[フォト・プラネット社](https://ja.wikipedia.org/wiki/フォト・プラネット社 "wikilink")が刊行、[河出書房新社](../Page/河出書房新社.md "wikilink")が発売していた、写真に関する季刊雑誌。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に\[1\]、[写真評論家](../Page/写真評論家.md "wikilink")の[飯沢耕太郎](../Page/飯沢耕太郎.md "wikilink")が創刊した\[2\]。
 
 ## deja-vuでの特集
 
@@ -34,9 +34,9 @@
   - 人物
       - [白岡順](https://ja.wikipedia.org/wiki/白岡順 "wikilink")
       - [古屋誠一](https://ja.wikipedia.org/wiki/古屋誠一 "wikilink")
-      - [ヴィム・ヴェンダース](https://ja.wikipedia.org/wiki/ヴィム・ヴェンダース "wikilink")
+      - [ヴィム・ヴェンダース](../Page/ヴィム・ヴェンダース.md "wikilink")
       - [藤原新也](../Page/藤原新也.md "wikilink")
-      - [サム・シェパード](https://ja.wikipedia.org/wiki/サム・シェパード "wikilink")
+      - [サム・シェパード](../Page/サム・シェパード.md "wikilink")
 
 ### No.4 「[荒木経惟](../Page/荒木経惟.md "wikilink")」
 
@@ -48,7 +48,7 @@
 ### No.5 「南へ」
 
   - 人物
-      - [港千尋](https://ja.wikipedia.org/wiki/港千尋 "wikilink")
+      - [港千尋](../Page/港千尋.md "wikilink")
       - [宮本隆司](../Page/宮本隆司.md "wikilink")
       - [横山良一](https://ja.wikipedia.org/wiki/横山良一 "wikilink")
 
@@ -69,7 +69,7 @@
       - [山本糾](https://ja.wikipedia.org/wiki/山本糾 "wikilink")
       - [エメット・ゴーウィン](https://ja.wikipedia.org/wiki/エメット・ゴーウィン "wikilink")
 
-### No.8 「[牛腸茂雄](https://ja.wikipedia.org/wiki/牛腸茂雄 "wikilink")」
+### No.8 「[牛腸茂雄](../Page/牛腸茂雄.md "wikilink")」
 
   - 関連項目
       - [コンポラ写真](../Page/コンポラ写真.md "wikilink")
@@ -87,7 +87,7 @@
       - [ロバート・メイプルソープ](../Page/ロバート・メイプルソープ.md "wikilink")
       - [沢渡朔](../Page/沢渡朔.md "wikilink")
   - 関連項目
-      - [少女愛](https://ja.wikipedia.org/wiki/少女愛 "wikilink")
+      - [少女愛](../Page/少女愛.md "wikilink")
       - [少女アリス](https://ja.wikipedia.org/wiki/少女アリス "wikilink")
 
 ### No.11 「[猪瀬光](https://ja.wikipedia.org/wiki/猪瀬光 "wikilink")」
@@ -109,8 +109,8 @@
 
   - 人物
       - [中平卓馬](../Page/中平卓馬.md "wikilink")
-      - [多木浩二](https://ja.wikipedia.org/wiki/多木浩二 "wikilink")
-      - [高梨豊](https://ja.wikipedia.org/wiki/高梨豊 "wikilink")
+      - [多木浩二](../Page/多木浩二.md "wikilink")
+      - [高梨豊](../Page/高梨豊.md "wikilink")
       - [森山大道](../Page/森山大道.md "wikilink")
 
 ## 出典

@@ -1,13 +1,13 @@
 > この記事は[Keyco](https://ja.wikipedia.org/wiki/Keyco)から翻訳されています。
 
 
-**Keyco**（キイコ、[1974年](../Page/1974年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink") - ）は[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")である。
+**Keyco**（キイコ、[1974年](../Page/1974年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink") - ）は[東京都](../Page/東京都.md "wikilink")出身の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")である。
 
 ## 概要
 
 。
 
-[2000年](../Page/2000年.md "wikilink")に[東芝EMIよりメジャーデビュー](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")。[2002年](../Page/2002年.md "wikilink")に結婚・出産。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に[LIBRO](../Page/LIBRO.md "wikilink")と[Fuuri](../Page/Fuuri.md "wikilink")というユニットを組んでいる。
+[2000年](../Page/2000年.md "wikilink")に[東芝EMIよりメジャーデビュー](../Page/EMIミュージック・ジャパン.md "wikilink")。[2002年](../Page/2002年.md "wikilink")に結婚・出産。[2006年](../Page/2006年.md "wikilink")に[LIBRO](../Page/LIBRO.md "wikilink")と[Fuuri](../Page/Fuuri.md "wikilink")というユニットを組んでいる。
 
 ## ディスコグラフィー
 
@@ -26,7 +26,7 @@
           -
             作詞：Keyco／作曲・編曲：Keyco・WHOOP CHOONS
         <!-- end list -->
-          - ANB系「[トゥナイト2](https://ja.wikipedia.org/wiki/トゥナイト2 "wikilink")」エンディングテーマ
+          - ANB系「[トゥナイト2](../Page/トゥナイト2.md "wikilink")」エンディングテーマ
     2.  流転 ～Dejavu～ (Reincarnated soldier Remix)\[4:51\]
           -
             作詞：Keyco／作曲：Keyco・DJ TONK／編曲：DJ TONK
@@ -49,7 +49,7 @@
 4.  ハルニレ（2002年2月6日）オリコン99位
     1.  ハルニレ\[5:28\]
           -
-            作詞：Keyco／作曲：[YASUYUKI HORIGOME](https://ja.wikipedia.org/wiki/堀込泰行 "wikilink")
+            作詞：Keyco／作曲：[YASUYUKI HORIGOME](../Page/堀込泰行.md "wikilink")
         <!-- end list -->
           - ANB系「[ビートたけしのTVタックル](../Page/ビートたけしのTVタックル.md "wikilink")」エンディングテーマ
     2.  FAMILY “dub mix"\[5:26\]
@@ -236,7 +236,7 @@
     5.  流転 ～ Dejavu (speedmeter. evening pleasure mix)\[4:23\]
     6.  FAMILY (FIRST LIGHT MIX)\[5:33\]
     7.  パンゲア (DJ YAS IS KEMURI PRODUCTIONS RMX)\[6:43\]
-    8.  P-Train ([SUPER BUTTER DOG](https://ja.wikipedia.org/wiki/SUPER_BUTTER_DOG "wikilink") NU-SOUL MIX)\[6:57\]
+    8.  P-Train ([SUPER BUTTER DOG](../Page/SUPER_BUTTER_DOG.md "wikilink") NU-SOUL MIX)\[6:57\]
     9.  ハルニレ (R.D.R. MIX)\[5:58\]
     10. (エンハンスド)1.Keyco オリジナル・スクリーンセーバー 2.Keyco Home Page LINK 3.Keyco LIVEダイジェスト映像
 3.  RAINBOW VILLAGE（2004年9月29日）オリコン162位。コラボレーションアルバム
@@ -303,7 +303,7 @@
 1.  [S.P.C.](https://ja.wikipedia.org/wiki/S.P.C. "wikilink")「Skill Plus Creativity」（2001年8月1日）
       -
         「Mirage Pt.2 Party Night Remix / S.P.C Feat. Keyco」
-2.  [SAKURA](https://ja.wikipedia.org/wiki/SAKURA_\(歌手\) "wikilink")「pua nani」（2003年6月25日）
+2.  [SAKURA](../Page/SAKURA_\(歌手\).md "wikilink")「pua nani」（2003年6月25日）
       -
         「Paradise feat.Keyco」
 3.  [IQ](https://ja.wikipedia.org/wiki/IQ "wikilink")「サンセットビーチ feat.Keyco」 （2003年7月16日）
@@ -315,7 +315,7 @@
 7.  [H-MAN](../Page/H-MAN.md "wikilink")「レゲエ馬鹿三昧」（2005年5月25日）
       -
         「青空 feat.Keyco」
-8.  [LITTLE](https://ja.wikipedia.org/wiki/LITTLE "wikilink")「[LIFE](../Page/LIFE_\(LITTLEのアルバム\).md "wikilink")」（2005年6月22日）
+8.  [LITTLE](../Page/LITTLE.md "wikilink")「[LIFE](../Page/LIFE_\(LITTLEのアルバム\).md "wikilink")」（2005年6月22日）
       -
         「踊らソカ feat.Keyco,CORN HEAD」
 9.  [TWIGY](../Page/TWIGY.md "wikilink")「TWIG」（2006年5月10日）
@@ -340,11 +340,11 @@
   - [LIBRO](../Page/LIBRO.md "wikilink")
   - [saigenji](https://ja.wikipedia.org/wiki/saigenji "wikilink")
   - [浅田祐介](../Page/浅田祐介.md "wikilink")
-  - [キリンジ](https://ja.wikipedia.org/wiki/キリンジ "wikilink")
+  - [キリンジ](../Page/キリンジ.md "wikilink")
   - [藤本和則](../Page/藤本和則.md "wikilink")
   - [CROSS FM](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")
   - [やじうまワイド](../Page/やじうまワイド.md "wikilink")
-  - [ライジング・サン・ロックフェスティバル](https://ja.wikipedia.org/wiki/ライジング・サン・ロックフェスティバル "wikilink")
+  - [ライジング・サン・ロックフェスティバル](../Page/ライジング・サン・ロックフェスティバル.md "wikilink")
 
 ## 外部リンク
 

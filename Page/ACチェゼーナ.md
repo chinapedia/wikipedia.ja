@@ -116,7 +116,7 @@
 
 ## 歴代監督
 
-  - 1989-1990  [マルチェロ・リッピ](https://ja.wikipedia.org/wiki/マルチェロ・リッピ "wikilink")
+  - 1989-1990  [マルチェロ・リッピ](../Page/マルチェロ・リッピ.md "wikilink")
   - 1990-1991  マルチェロ・リッピ →  [:it:Giampiero Ceccarelli](https://ja.wikipedia.org/wiki/:it:Giampiero_Ceccarelli "wikilink") →  Alberto Batistoni
   - 1991-1992  [アティーリオ・ペロッティ](https://ja.wikipedia.org/wiki/アティーリオ・ペロッティ "wikilink")
   - 1992-1993  Gaetano Salvemini →  [アゼリオ・ビチーニ](../Page/アゼリオ・ビチーニ.md "wikilink")
@@ -187,13 +187,13 @@
 
   - [パウロ・シーラス](https://ja.wikipedia.org/wiki/パウロ・シーラス "wikilink") 1990-1991
 
-  - [マッシモ・アンブロジーニ](https://ja.wikipedia.org/wiki/マッシモ・アンブロジーニ "wikilink") 1994-1995
+  - [マッシモ・アンブロジーニ](../Page/マッシモ・アンブロジーニ.md "wikilink") 1994-1995
 
   - [ミルコ・ヴァルディフィオーリ](https://ja.wikipedia.org/wiki/ミルコ・ヴァルディフィオーリ "wikilink") 2004-2008
 
   - [エセキエル・スケロット](https://ja.wikipedia.org/wiki/エセキエル・スケロット "wikilink") 2008-2010
 
-  - [スティーヴン・アッピアー](https://ja.wikipedia.org/wiki/スティーヴン・アッピアー "wikilink") 2010-2011
+  - [スティーヴン・アッピアー](../Page/スティーヴン・アッピアー.md "wikilink") 2010-2011
 
   - [ルイス・ヒメネス](../Page/ルイス・ヒメネス_\(サッカー選手\).md "wikilink") 2010-2011
 
@@ -215,7 +215,7 @@
 
   - [イゴール・ブダン](../Page/イゴール・ブダン.md "wikilink") 2010-2011
 
-  - [アドリアン・ムトゥ](https://ja.wikipedia.org/wiki/アドリアン・ムトゥ "wikilink") 2011-2012
+  - [アドリアン・ムトゥ](../Page/アドリアン・ムトゥ.md "wikilink") 2011-2012
 
   - [ホルヘ・マルティネス](https://ja.wikipedia.org/wiki/ホルヘ・マルティネス_\(サッカー選手\) "wikilink") 2011-2012
 

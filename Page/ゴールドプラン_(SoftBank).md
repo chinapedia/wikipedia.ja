@@ -1,17 +1,17 @@
 > この記事は[ \(SoftBank\)](https://ja.wikipedia.org/wiki/_\(SoftBank\))から翻訳されています。
 
 
-**ゴールドプラン**とは、[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")が提供する[携帯電話](../Page/携帯電話.md "wikilink")の料金プランで、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月26日](../Page/10月26日.md "wikilink")より提供開始。[2015年](../Page/2015年.md "wikilink")[8月31日](../Page/8月31日.md "wikilink")に受付を終了した。
+**ゴールドプラン**とは、[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")が提供する[携帯電話](../Page/携帯電話.md "wikilink")の料金プランで、[2006年](../Page/2006年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink")より提供開始。[2015年](../Page/2015年.md "wikilink")[8月31日](../Page/8月31日.md "wikilink")に受付を終了した。
 
 ## 概要
 
-日本の携帯電話業界初の同一ブランド携帯間の[音声通話定額プランである](https://ja.wikipedia.org/wiki/音声通話定額制 "wikilink")。ただし、時間帯制限があり、通話トラフィックの集中する21時～1時は、月200分までのソフトバンク携帯への通話が無料となる。携帯電話[番号ポータビリティ](https://ja.wikipedia.org/wiki/番号ポータビリティ "wikilink")の導入前日の[10月23日](../Page/10月23日.md "wikilink")に[オレンジ/ブループラン](https://ja.wikipedia.org/wiki/オレンジ/ブループラン "wikilink")と共に発表された。
+日本の携帯電話業界初の同一ブランド携帯間の[音声通話定額プランである](../Page/音声通話定額制.md "wikilink")。ただし、時間帯制限があり、通話トラフィックの集中する21時～1時は、月200分までのソフトバンク携帯への通話が無料となる。携帯電話[番号ポータビリティ](https://ja.wikipedia.org/wiki/番号ポータビリティ "wikilink")の導入前日の[10月23日](../Page/10月23日.md "wikilink")に[オレンジ/ブループラン](https://ja.wikipedia.org/wiki/オレンジ/ブループラン "wikilink")と共に発表された。
 
-当初、ゴールドプランを利用するためには[SoftBank 3G機種であり](https://ja.wikipedia.org/wiki/SoftBank_3G "wikilink")、かつ[新スーパーボーナスへの加入が必須であったが](../Page/スーパーボーナス.md "wikilink")、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月21日](../Page/12月21日.md "wikilink")より、これらの条件は撤廃され、料金プラン変更のみで利用可能となった。
+当初、ゴールドプランを利用するためには[SoftBank 3G機種であり](../Page/SoftBank_3G.md "wikilink")、かつ[新スーパーボーナスへの加入が必須であったが](../Page/スーパーボーナス.md "wikilink")、[2006年](../Page/2006年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")より、これらの条件は撤廃され、料金プラン変更のみで利用可能となった。
 
 また、[ホワイトプラン](../Page/ホワイトプラン.md "wikilink")(月額934円)(税抜)は、21時～1時までのソフトバンク携帯同士の月200分無料通話が付いていない以外は、ゴールドプランと同じ内容である。たいていのケースにおいて、[ホワイトプラン](../Page/ホワイトプラン.md "wikilink")の方が安くなる。
 
-[2007年](../Page/2007年.md "wikilink")[1月15日](../Page/1月15日.md "wikilink")までのキャンペーン期間中に加入すると基本料がずっと70%引きなどになる「[予想外割](https://ja.wikipedia.org/wiki/予想外割 "wikilink")」が利用可能であった。
+[2007年](../Page/2007年.md "wikilink")[1月15日](../Page/1月15日.md "wikilink")までのキャンペーン期間中に加入すると基本料がずっと70%引きなどになる「[予想外割](../Page/予想外割.md "wikilink")」が利用可能であった。
 
 [2015年](../Page/2015年.md "wikilink")[8月31日](../Page/8月31日.md "wikilink")をもって、新規申込みを終了した\[1\]。
 
@@ -53,11 +53,11 @@
 
 ## 国内メール料
 
-| 通信先      | [SoftBank 3G](https://ja.wikipedia.org/wiki/SoftBank_3G "wikilink") | [SoftBank 6-2](../Page/SoftBank_6-2.md "wikilink") |
-| -------- | ------------------------------------------------------------------- | -------------------------------------------------- |
-| SMS      | MMS                                                                 | スカイメール                                             |
-| ソフトバンク携帯 | 無料                                                                  | 無料                                                 |
-| ソフトバンク以外 |                                                                     | 3.15～210円/通                                        |
+| 通信先      | [SoftBank 3G](../Page/SoftBank_3G.md "wikilink") | [SoftBank 6-2](../Page/SoftBank_6-2.md "wikilink") |
+| -------- | ------------------------------------------------ | -------------------------------------------------- |
+| SMS      | MMS                                              | スカイメール                                             |
+| ソフトバンク携帯 | 無料                                               | 無料                                                 |
+| ソフトバンク以外 |                                                  | 3.15～210円/通                                        |
 
 無料メールの対象は、当初はSMSと発表されたが、翌[10月24日](../Page/10月24日.md "wikilink")に[S\!メール](../Page/S!メール.md "wikilink")（MMS）、[10月26日](../Page/10月26日.md "wikilink")にソフトバンク（ボーダフォン）アドレス**の間での**Eメール送受信も加えられた。
 
@@ -87,9 +87,9 @@
   - [スマ放題](https://ja.wikipedia.org/wiki/スマ放題 "wikilink")
   - [ホワイトプラン](../Page/ホワイトプラン.md "wikilink")
   - [オレンジ/ブループラン](https://ja.wikipedia.org/wiki/オレンジ/ブループラン "wikilink")
-  - [予想外割](https://ja.wikipedia.org/wiki/予想外割 "wikilink")
+  - [予想外割](../Page/予想外割.md "wikilink")
   - [年間割引サービス](../Page/年間割引サービス.md "wikilink")
-  - [パケットし放題](https://ja.wikipedia.org/wiki/パケットし放題 "wikilink")
+  - [パケットし放題](../Page/パケットし放題.md "wikilink")
   - [ハッピーパケット](../Page/ハッピーパケット.md "wikilink")
 
 ## 外部リンク
@@ -101,4 +101,4 @@
 [Category:携帯電話_(ソフトバンク)](https://ja.wikipedia.org/wiki/Category:携帯電話_\(ソフトバンク\) "wikilink")
 
 1.  [一部料金プランの受付終了について](http://www.softbank.jp/mobile/info/personal/news/price_plan/20150529a/) ソフトバンクモバイル、2015年5月29日（2015年6月20日閲覧）。
-2.  [毎日新聞](https://ja.wikipedia.org/wiki/毎日新聞 "wikilink") [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月24日](../Page/12月24日.md "wikilink")東京朝刊
+2.  [毎日新聞](https://ja.wikipedia.org/wiki/毎日新聞 "wikilink") [2006年](../Page/2006年.md "wikilink")[12月24日](../Page/12月24日.md "wikilink")東京朝刊

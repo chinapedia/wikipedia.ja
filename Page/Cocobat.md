@@ -5,9 +5,9 @@
 
 ## 経歴
 
-1991年、Take-Shit（[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")）を中心に結成。結成時のメンバーは他にRyuji（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")）、SUZUKI SHINICHI（[ギター](../Page/ギター.md "wikilink")）、Matsuzaki（[ドラム](../Page/ドラムセット.md "wikilink")）の4名。当初はライヴとコンピレーション・アルバムへの参加を中心に活動。
+1991年、Take-Shit（[ベース](../Page/ベース_\(弦楽器\).md "wikilink")）を中心に結成。結成時のメンバーは他にRyuji（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")）、SUZUKI SHINICHI（[ギター](../Page/ギター.md "wikilink")）、Matsuzaki（[ドラム](../Page/ドラムセット.md "wikilink")）の4名。当初はライヴとコンピレーション・アルバムへの参加を中心に活動。
 
-1992年、1stアルバム『COCOBAT CRUNCH』をインディーズ・レーベルSTINKYよりリリース（のちに[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より再リリース）。[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の音楽誌“KERRANG\!”にて「[PANTERAへの日本からの返答](https://ja.wikipedia.org/wiki/パンテラ "wikilink")」と絶賛される。海外バンドが多数出演する、国内最大級のヘヴィメタル・フェスティバル[BEAST FEAST](https://ja.wikipedia.org/wiki/BEAST_FEAST "wikilink")、[LOUD PARKなどに出演しながらも](https://ja.wikipedia.org/wiki/LOUD_PARK "wikilink")、結成時からのライヴハウスでのライヴ活動を現在もかかさず行っている。バンド名の由来は、[プロレスラー](../Page/プロレスラー.md "wikilink")、[ボボ・ブラジル](../Page/ボボ・ブラジル.md "wikilink")の得意技、ココナッツ・ヘッドバットから。
+1992年、1stアルバム『COCOBAT CRUNCH』をインディーズ・レーベルSTINKYよりリリース（のちに[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より再リリース）。[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の音楽誌“KERRANG\!”にて「[PANTERAへの日本からの返答](../Page/パンテラ.md "wikilink")」と絶賛される。海外バンドが多数出演する、国内最大級のヘヴィメタル・フェスティバル[BEAST FEAST](../Page/BEAST_FEAST.md "wikilink")、[LOUD PARKなどに出演しながらも](../Page/LOUD_PARK.md "wikilink")、結成時からのライヴハウスでのライヴ活動を現在もかかさず行っている。バンド名の由来は、[プロレスラー](../Page/プロレスラー.md "wikilink")、[ボボ・ブラジル](../Page/ボボ・ブラジル.md "wikilink")の得意技、ココナッツ・ヘッドバットから。
 
 ## メンバー
 

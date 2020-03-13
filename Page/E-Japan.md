@@ -75,7 +75,7 @@ IT基本法は、[高度情報通信ネットワーク社会形成基本法](htt
 
   - 2002年[6月18日](../Page/6月18日.md "wikilink") - e-Japan戦略に基づき、「e-Japan重点計画2002」をIT戦略本部が策定。
   - [2003年](../Page/2003年.md "wikilink")
-      - 7月 - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")度を目標とした「e-Japan戦略」を発展させ、以降もIT国家戦略を継続的に推進することを目的とした「**e-Japan戦略II**」をIT戦略本部が策定。
+      - 7月 - [2005年](../Page/2005年.md "wikilink")度を目標とした「e-Japan戦略」を発展させ、以降もIT国家戦略を継続的に推進することを目的とした「**e-Japan戦略II**」をIT戦略本部が策定。
       - [8月8日](../Page/8月8日.md "wikilink") - e-Japan戦略IIに基づき、「e-Japan重点計画2003」を IT戦略本部が策定。
   - [2004年](../Page/2004年.md "wikilink")
       - 2月 - 「e-Japan戦略II加速化パッケージ」をIT戦略本部が策定。

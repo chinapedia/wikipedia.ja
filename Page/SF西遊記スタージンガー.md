@@ -5,7 +5,7 @@
 
 ## 概要
 
-『[西遊記](../Page/西遊記.md "wikilink")』を基にした[石川英輔](https://ja.wikipedia.org/wiki/石川英輔 "wikilink")による小説『**SF西遊記**』を原案とする[SFアニメ](https://ja.wikipedia.org/wiki/SFアニメ "wikilink")。[孫悟空](../Page/孫悟空.md "wikilink")の緊箍児の輪といった、原典に基づくギミックも細部に取り入れられている。[富田祐弘](https://ja.wikipedia.org/wiki/富田祐弘 "wikilink")のアニメ脚本家としてのデビュー作でもある。
+『[西遊記](../Page/西遊記.md "wikilink")』を基にした[石川英輔](../Page/石川英輔.md "wikilink")による小説『**SF西遊記**』を原案とする[SFアニメ](https://ja.wikipedia.org/wiki/SFアニメ "wikilink")。[孫悟空](../Page/孫悟空.md "wikilink")の緊箍児の輪といった、原典に基づくギミックも細部に取り入れられている。[富田祐弘](../Page/富田祐弘.md "wikilink")のアニメ脚本家としてのデビュー作でもある。
 
 本作は、[1970年代](../Page/1970年代.md "wikilink")後半の『[宇宙戦艦ヤマト](https://ja.wikipedia.org/wiki/宇宙戦艦ヤマト "wikilink")』に始まる松本零士ブームの最中に製作された。前番組『[惑星ロボ ダンガードA](../Page/惑星ロボ_ダンガードA.md "wikilink")』から引き続き松本がアニメ用の設定を描き下ろしたが、[コミカライズに関しては松本自身は行なわず](https://ja.wikipedia.org/wiki/漫画 "wikilink")、[桜多吾作](../Page/桜多吾作.md "wikilink")が『[テレビランド](../Page/テレビランド.md "wikilink")』で、[池原しげと](../Page/池原しげと.md "wikilink")が『[冒険王](../Page/冒険王_\(漫画雑誌\).md "wikilink")』で漫画版の連載を担当した。また、それまでフジテレビの[日曜19:00枠では](https://ja.wikipedia.org/wiki/フジテレビ系列日曜夜7時台枠のアニメ "wikilink")『[マジンガーZ](../Page/マジンガーZ.md "wikilink")』→『[グレートマジンガー](../Page/グレートマジンガー.md "wikilink")』→『[UFOロボ グレンダイザー](../Page/UFOロボ_グレンダイザー.md "wikilink")』→『惑星ロボ ダンガードA』と巨大[ロボットアニメ](../Page/ロボットアニメ.md "wikilink")が続いていたが、本作で等身大のヒーローが活躍する路線へと転換された。とはいえ、原典の孫悟空が巨大化できるという設定があるからなのか、『SF西遊記スタージンガーII』への改題とともに主人公クーゴが巨大化して戦う設定が追加された。
 
@@ -88,10 +88,10 @@
 
   - 企画 - 春日東、[別所孝治](../Page/別所孝治.md "wikilink")、勝田稔男
   - 原作 - [松本零士](../Page/松本零士.md "wikilink")
-  - 監修 - [石川英輔](https://ja.wikipedia.org/wiki/石川英輔 "wikilink")
+  - 監修 - [石川英輔](../Page/石川英輔.md "wikilink")
   - 構成 - [田村多津夫](../Page/田村多津夫.md "wikilink")
   - 音楽 - [菊池俊輔](../Page/菊池俊輔.md "wikilink")
-  - キャラクターデザイン - [須田正己](https://ja.wikipedia.org/wiki/須田正己 "wikilink")
+  - キャラクターデザイン - [須田正己](../Page/須田正己.md "wikilink")
   - 美術デザイナー - 伊藤岩光
   - チーフディレクター - [芹川有吾](../Page/芹川有吾.md "wikilink")
   - 製作担当 - 吉岡修、佐々木章 → 佐伯雅久
@@ -105,7 +105,7 @@
 
 :; 「スタージンガーの歌」
 
-:: 作詞 - [伊藤アキラ](../Page/伊藤アキラ.md "wikilink") / 作曲 - [菊池俊輔](../Page/菊池俊輔.md "wikilink") / 編曲 - [青木望](../Page/青木望.md "wikilink") / 歌 - [ささきいさお](../Page/ささきいさお.md "wikilink")、[こおろぎ'73](https://ja.wikipedia.org/wiki/こおろぎ'73 "wikilink")
+:: 作詞 - [伊藤アキラ](../Page/伊藤アキラ.md "wikilink") / 作曲 - [菊池俊輔](../Page/菊池俊輔.md "wikilink") / 編曲 - [青木望](../Page/青木望.md "wikilink") / 歌 - [ささきいさお](../Page/ささきいさお.md "wikilink")、[こおろぎ'73](../Page/こおろぎ'73.md "wikilink")
 
 :; 「宇宙の戦士スタージンガー」
 
@@ -161,7 +161,7 @@
 
 :; 「ペコポコポン」
 
-:: 作詞 - 伊藤アキラ / 作曲・編曲 - 菊池俊輔 / 歌 - [さとまさのり](https://ja.wikipedia.org/wiki/こおろぎ'73 "wikilink")、矢萩知佳、こおろぎ'73、コロムビアゆりかご会
+:: 作詞 - 伊藤アキラ / 作曲・編曲 - 菊池俊輔 / 歌 - [さとまさのり](../Page/こおろぎ'73.md "wikilink")、矢萩知佳、こおろぎ'73、コロムビアゆりかご会
 
 :; 「ぼくらのスタージンガー」
 
@@ -212,7 +212,7 @@
 <td><p>飛べ!オーロラ姫</p></td>
 <td><p><a href="../Page/田村多津夫.md" title="wikilink">田村多津夫</a></p></td>
 <td><p><a href="../Page/芹川有吾.md" title="wikilink">芹川有吾</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/須田正己" title="wikilink">須田正己</a></p></td>
+<td><p><a href="../Page/須田正己.md" title="wikilink">須田正己</a></p></td>
 <td><p>伊藤岩光</p></td>
 </tr>
 <tr class="odd">
@@ -239,7 +239,7 @@
 <td><p>4月23日</p></td>
 <td><p>夢を求める冒険野郎</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/富田祐弘" title="wikilink">富田祐弘</a></p></td>
+<td><p><a href="../Page/富田祐弘.md" title="wikilink">富田祐弘</a></p></td>
 <td><p>大谷恒清</p></td>
 <td><p>衣政吉</p></td>
 </tr>

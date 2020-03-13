@@ -9,7 +9,7 @@
   - [ACT (芸能プロダクション)](https://ja.wikipedia.org/wiki/ACT_\(芸能プロダクション\) "wikilink") - 日本の[芸能事務所](../Page/芸能事務所.md "wikilink")。
   - ACT - [沢田研二](../Page/沢田研二.md "wikilink")の[音楽劇](https://ja.wikipedia.org/wiki/音楽劇 "wikilink")。
   - [いすゞ自動車](../Page/いすゞ自動車.md "wikilink")の[フィンガーシフト](../Page/フィンガーシフト.md "wikilink")。（*A*ir *C*ontrol *T*ransmission）
-  - [旭川ケーブルテレビ](https://ja.wikipedia.org/wiki/旭川ケーブルテレビ "wikilink")（''Asahikawa *C*able *T*elevision）
+  - [旭川ケーブルテレビ](../Page/旭川ケーブルテレビ.md "wikilink")（''Asahikawa *C*able *T*elevision）
   - [青森ケーブルテレビ](../Page/青森ケーブルテレビ.md "wikilink")（*A*omori *C*able *T*elevision）
   - [淡路五色ケーブルテレビ](../Page/淡路五色ケーブルテレビ.md "wikilink")（*A*waji-Goshiki *C*able *T*elevision）
   - 自動車の[ナンバープレートで](https://ja.wikipedia.org/wiki/日本のナンバープレート "wikilink")、[国際ナンバー](../Page/国際ナンバー.md "wikilink")につけられる地名のひとつ。日本の地名の「豊橋」にあたる。

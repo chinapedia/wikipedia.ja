@@ -35,7 +35,7 @@ S.H.Eでは、ボーカルとしては中音を、キャラクターとしては
 
 ### ヒビ
 
-[田馥甄](../Page/田馥甄.md "wikilink") (ヒビ Hebe): [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")[新竹県](https://ja.wikipedia.org/wiki/新竹県 "wikilink")出身。[身長](../Page/身長.md "wikilink")162cm、[体重](../Page/体重.md "wikilink")43kg。
+[田馥甄](../Page/田馥甄.md "wikilink") (ヒビ Hebe): [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")[新竹県](../Page/新竹県.md "wikilink")出身。[身長](../Page/身長.md "wikilink")162cm、[体重](../Page/体重.md "wikilink")43kg。
 
 S.H.Eでは、ボーカルとしては高音から中音を、キャラクターとしては「快活ながらミステリアスな一面のある妹」役を担当。華やかで音量豊富な高中音ボーカルが特長で、歌い方もきわめてメロディック。アドリブ気味のソロパートは、ほとんどHebeが担当。
 
@@ -53,7 +53,7 @@ S.H.Eでは、ボーカルとしては高音から中音を、キャラクター
 
 ### エラ
 
-[陳嘉樺](../Page/陳嘉樺.md "wikilink") (エラ Ella): [1981年](../Page/1981年.md "wikilink")[6月18日](../Page/6月18日.md "wikilink")[屏東県](https://ja.wikipedia.org/wiki/屏東県 "wikilink")出身。[身長](../Page/身長.md "wikilink")163cm、[体重](../Page/体重.md "wikilink")48kg。
+[陳嘉樺](../Page/陳嘉樺.md "wikilink") (エラ Ella): [1981年](../Page/1981年.md "wikilink")[6月18日](../Page/6月18日.md "wikilink")[屏東県](../Page/屏東県.md "wikilink")出身。[身長](../Page/身長.md "wikilink")163cm、[体重](../Page/体重.md "wikilink")48kg。
 
 S.H.Eでは、ボーカルとしては低音を、キャラクターとしては「力強く中性的なお姉さん」役。しっかりした中低音ボーカルが特長で、ハーモニーでは常にベースの音を歌っている。また、ラップ部分を担当している。
 
@@ -194,7 +194,7 @@ S.H.Eでは、ボーカルとしては低音を、キャラクターとしては
 
 <!-- end list -->
 
-  - **[不想長大](https://ja.wikipedia.org/wiki/不想長大 "wikilink")** ([2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月25日](../Page/11月25日.md "wikilink")発行)
+  - **[不想長大](https://ja.wikipedia.org/wiki/不想長大 "wikilink")** ([2005年](../Page/2005年.md "wikilink")[11月25日](../Page/11月25日.md "wikilink")発行)
 
 <!-- end list -->
 
@@ -384,63 +384,63 @@ S.H.Eでは、ボーカルとしては低音を、キャラクターとしては
 ## コンサート
 
   - 2004年9月4日　[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")・[台北](https://ja.wikipedia.org/wiki/台北 "wikilink")：[台北市立体育場](https://ja.wikipedia.org/wiki/台北陸上競技場 "wikilink")
-  - 2004年10月30日　[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")・[上海](https://ja.wikipedia.org/wiki/上海 "wikilink")：[上海虹口足球場](../Page/上海虹口足球場.md "wikilink")
+  - 2004年10月30日　[中国](../Page/中国.md "wikilink")・[上海](https://ja.wikipedia.org/wiki/上海 "wikilink")：[上海虹口足球場](../Page/上海虹口足球場.md "wikilink")
   - 2004年11月6日　[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")・[クアラルンプール](../Page/クアラルンプール.md "wikilink")：[ブキット・ジャリル国立競技場](../Page/ブキット・ジャリル国立競技場.md "wikilink")
   - 2004年12月25日　[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[ラスベガス](../Page/ラスベガス.md "wikilink")：[MGMグランド・ガーデン・アリーナ](https://ja.wikipedia.org/wiki/MGMグランド・ガーデン・アリーナ "wikilink")
   - 2005年1月8日　[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")・[シンガポール・インドア・スタジアム](https://ja.wikipedia.org/wiki/シンガポール・インドア・スタジアム "wikilink")
-  - 2005年1月15日　[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")・[広州](https://ja.wikipedia.org/wiki/広州 "wikilink")：[天河体育中心体育場](https://ja.wikipedia.org/wiki/天河体育中心体育場 "wikilink")
-  - 2005年9月23日　[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")・[北京](https://ja.wikipedia.org/wiki/北京 "wikilink")：[北京工人体育場](../Page/北京工人体育場.md "wikilink")
-  - 2005年9月25日　[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")・[西安](https://ja.wikipedia.org/wiki/西安 "wikilink")：[陝西省体育場](https://ja.wikipedia.org/wiki/陝西省体育場 "wikilink")
-  - 2005年11月12日　[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")・[南京](https://ja.wikipedia.org/wiki/南京 "wikilink")：[南京奥林匹克体育中心](https://ja.wikipedia.org/wiki/南京奥林匹克体育中心 "wikilink")
+  - 2005年1月15日　[中国](../Page/中国.md "wikilink")・[広州](https://ja.wikipedia.org/wiki/広州 "wikilink")：[天河体育中心体育場](https://ja.wikipedia.org/wiki/天河体育中心体育場 "wikilink")
+  - 2005年9月23日　[中国](../Page/中国.md "wikilink")・[北京](https://ja.wikipedia.org/wiki/北京 "wikilink")：[北京工人体育場](../Page/北京工人体育場.md "wikilink")
+  - 2005年9月25日　[中国](../Page/中国.md "wikilink")・[西安](https://ja.wikipedia.org/wiki/西安 "wikilink")：[陝西省体育場](https://ja.wikipedia.org/wiki/陝西省体育場 "wikilink")
+  - 2005年11月12日　[中国](../Page/中国.md "wikilink")・[南京](https://ja.wikipedia.org/wiki/南京 "wikilink")：[南京奥林匹克体育中心](https://ja.wikipedia.org/wiki/南京奥林匹克体育中心 "wikilink")
   - 2006年1月7日　[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")・[ゲンティンハイランド](../Page/ゲンティンハイランド.md "wikilink")：アリーナ・オブ・スターズ
 
 <!-- end list -->
 
-  - 2006年7月8日　[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")・[上海](https://ja.wikipedia.org/wiki/上海 "wikilink")：[上海体育場](../Page/上海体育場.md "wikilink")
+  - 2006年7月8日　[中国](../Page/中国.md "wikilink")・[上海](https://ja.wikipedia.org/wiki/上海 "wikilink")：[上海体育場](../Page/上海体育場.md "wikilink")
   - 2006年7月13日　[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")・[香港コロシアム](../Page/香港コロシアム.md "wikilink")
-  - 2006年10月14日　[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")・[瀋陽](https://ja.wikipedia.org/wiki/瀋陽 "wikilink")：[瀋陽五里河体育場](https://ja.wikipedia.org/wiki/瀋陽五里河体育場 "wikilink")
-  - 2006年10月21日　[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")・[武漢](https://ja.wikipedia.org/wiki/武漢 "wikilink")：[武漢体育中心](https://ja.wikipedia.org/wiki/武漢体育中心 "wikilink")
-  - 2006年11月11日　[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")・[深セン](https://ja.wikipedia.org/wiki/深セン "wikilink")：[深セン体育場](https://ja.wikipedia.org/wiki/深セン体育場 "wikilink")
+  - 2006年10月14日　[中国](../Page/中国.md "wikilink")・[瀋陽](https://ja.wikipedia.org/wiki/瀋陽 "wikilink")：[瀋陽五里河体育場](https://ja.wikipedia.org/wiki/瀋陽五里河体育場 "wikilink")
+  - 2006年10月21日　[中国](../Page/中国.md "wikilink")・[武漢](https://ja.wikipedia.org/wiki/武漢 "wikilink")：[武漢体育中心](https://ja.wikipedia.org/wiki/武漢体育中心 "wikilink")
+  - 2006年11月11日　[中国](../Page/中国.md "wikilink")・[深セン](https://ja.wikipedia.org/wiki/深セン "wikilink")：[深セン体育場](https://ja.wikipedia.org/wiki/深セン体育場 "wikilink")
   - 2006年12月16日　[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")・[台北](https://ja.wikipedia.org/wiki/台北 "wikilink")：[台北アリーナ](../Page/台北アリーナ.md "wikilink")
-  - 2007年9月1日　[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")・[北京](https://ja.wikipedia.org/wiki/北京 "wikilink")：[国家オリンピックスポーツセンター](https://ja.wikipedia.org/wiki/国家オリンピックスポーツセンター "wikilink")
-  - 2007年10月13日　[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")・[長沙](https://ja.wikipedia.org/wiki/長沙 "wikilink")：[賀竜体育中心](https://ja.wikipedia.org/wiki/賀竜体育中心 "wikilink")
+  - 2007年9月1日　[中国](../Page/中国.md "wikilink")・[北京](https://ja.wikipedia.org/wiki/北京 "wikilink")：[国家オリンピックスポーツセンター](https://ja.wikipedia.org/wiki/国家オリンピックスポーツセンター "wikilink")
+  - 2007年10月13日　[中国](../Page/中国.md "wikilink")・[長沙](https://ja.wikipedia.org/wiki/長沙 "wikilink")：[賀竜体育中心](https://ja.wikipedia.org/wiki/賀竜体育中心 "wikilink")
   - 2007年1月27日　[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")・[シンガポール・インドア・スタジアム](https://ja.wikipedia.org/wiki/シンガポール・インドア・スタジアム "wikilink")
   - 2007年12月1日　[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")・[クアラルンプール](../Page/クアラルンプール.md "wikilink")：[ムルデカ・スタジアム](https://ja.wikipedia.org/wiki/ムルデカ・スタジアム "wikilink")
 
 <!-- end list -->
 
   - 2009年10月16日,17日　[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")・[香港コロシアム](../Page/香港コロシアム.md "wikilink")
-  - 2009年10月31日　[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")・[上海](https://ja.wikipedia.org/wiki/上海 "wikilink")：[上海体育場](../Page/上海体育場.md "wikilink")
+  - 2009年10月31日　[中国](../Page/中国.md "wikilink")・[上海](https://ja.wikipedia.org/wiki/上海 "wikilink")：[上海体育場](../Page/上海体育場.md "wikilink")
   - 2010年3月6日　[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")・[クアラルンプール](../Page/クアラルンプール.md "wikilink")：[ブキット・ジャリル国立競技場](../Page/ブキット・ジャリル国立競技場.md "wikilink")
-  - 2010年4月4日　[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")・[洛陽市](../Page/洛陽市.md "wikilink")：洛陽新区体育場
+  - 2010年4月4日　[中国](../Page/中国.md "wikilink")・[洛陽市](../Page/洛陽市.md "wikilink")：洛陽新区体育場
   - 2010年4月17日　[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")・[シンガポール・インドア・スタジアム](https://ja.wikipedia.org/wiki/シンガポール・インドア・スタジアム "wikilink")
   - 2010年5月29日　[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")・[台北](https://ja.wikipedia.org/wiki/台北 "wikilink")：[台北アリーナ](../Page/台北アリーナ.md "wikilink")
-  - 2010年6月26日　[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")・[北京](https://ja.wikipedia.org/wiki/北京 "wikilink")：[北京首都体育館](https://ja.wikipedia.org/wiki/首都体育館 "wikilink")
-  - 2010年7月17日　[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")・[マカオ](../Page/マカオ.md "wikilink")：[コタイ・アリーナ](https://ja.wikipedia.org/wiki/コタイ・アリーナ "wikilink")
-  - 2010年8月1日　[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")・[フフホト市](../Page/フフホト市.md "wikilink")：フフホト体育場
-  - 2010年8月14日　[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")・[成都](https://ja.wikipedia.org/wiki/成都 "wikilink")：[成都市体育中心](https://ja.wikipedia.org/wiki/成都市体育中心 "wikilink")
+  - 2010年6月26日　[中国](../Page/中国.md "wikilink")・[北京](https://ja.wikipedia.org/wiki/北京 "wikilink")：[北京首都体育館](https://ja.wikipedia.org/wiki/首都体育館 "wikilink")
+  - 2010年7月17日　[中国](../Page/中国.md "wikilink")・[マカオ](../Page/マカオ.md "wikilink")：[コタイ・アリーナ](https://ja.wikipedia.org/wiki/コタイ・アリーナ "wikilink")
+  - 2010年8月1日　[中国](../Page/中国.md "wikilink")・[フフホト市](../Page/フフホト市.md "wikilink")：フフホト体育場
+  - 2010年8月14日　[中国](../Page/中国.md "wikilink")・[成都](https://ja.wikipedia.org/wiki/成都 "wikilink")：[成都市体育中心](https://ja.wikipedia.org/wiki/成都市体育中心 "wikilink")
   - 2010年9月17日　[オーストラリア](../Page/オーストラリア.md "wikilink")・[シドニー](../Page/シドニー.md "wikilink")：[シドニー・エンターテイメント・センター](https://ja.wikipedia.org/wiki/シドニー・エンターテイメント・センター "wikilink")
 
 <!-- end list -->
 
   - 2013年6月22日,23日　[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")・[台北](https://ja.wikipedia.org/wiki/台北 "wikilink")：[台北アリーナ](../Page/台北アリーナ.md "wikilink")
-  - 2013年6月29日　[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")・[マカオ](../Page/マカオ.md "wikilink")：[コタイ・アリーナ](https://ja.wikipedia.org/wiki/コタイ・アリーナ "wikilink")
-  - 2013年7月13日　[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")・[上海](https://ja.wikipedia.org/wiki/上海 "wikilink")：[上海万博文化センター](https://ja.wikipedia.org/wiki/上海万博文化センター "wikilink")
+  - 2013年6月29日　[中国](../Page/中国.md "wikilink")・[マカオ](../Page/マカオ.md "wikilink")：[コタイ・アリーナ](https://ja.wikipedia.org/wiki/コタイ・アリーナ "wikilink")
+  - 2013年7月13日　[中国](../Page/中国.md "wikilink")・[上海](https://ja.wikipedia.org/wiki/上海 "wikilink")：[上海万博文化センター](https://ja.wikipedia.org/wiki/上海万博文化センター "wikilink")
   - 2013年7月20日　[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")・[クアラルンプール](../Page/クアラルンプール.md "wikilink")：[プトラ・インドア・スタジアム](https://ja.wikipedia.org/wiki/プトラ・インドア・スタジアム "wikilink")
-  - 2013年8月10日　[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")・[広州](https://ja.wikipedia.org/wiki/広州 "wikilink")：広州体育館
-  - 2013年8月31日　[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")・[成都](https://ja.wikipedia.org/wiki/成都 "wikilink")：四川省体育館
-  - 2013年9月7日　[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")・[南京](https://ja.wikipedia.org/wiki/南京 "wikilink")：[南京奥林匹克体育中心](https://ja.wikipedia.org/wiki/南京奥林匹克体育中心 "wikilink")
-  - 2013年9月13日　[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")・[北京](https://ja.wikipedia.org/wiki/北京 "wikilink")：[北京首都体育館](https://ja.wikipedia.org/wiki/首都体育館 "wikilink")
+  - 2013年8月10日　[中国](../Page/中国.md "wikilink")・[広州](https://ja.wikipedia.org/wiki/広州 "wikilink")：広州体育館
+  - 2013年8月31日　[中国](../Page/中国.md "wikilink")・[成都](https://ja.wikipedia.org/wiki/成都 "wikilink")：四川省体育館
+  - 2013年9月7日　[中国](../Page/中国.md "wikilink")・[南京](https://ja.wikipedia.org/wiki/南京 "wikilink")：[南京奥林匹克体育中心](https://ja.wikipedia.org/wiki/南京奥林匹克体育中心 "wikilink")
+  - 2013年9月13日　[中国](../Page/中国.md "wikilink")・[北京](https://ja.wikipedia.org/wiki/北京 "wikilink")：[北京首都体育館](https://ja.wikipedia.org/wiki/首都体育館 "wikilink")
   - 2013年10月12日,13日,14日　[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")・[香港コロシアム](../Page/香港コロシアム.md "wikilink")
-  - 2013年10月20日　[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")・[天津](https://ja.wikipedia.org/wiki/天津 "wikilink")：天津体育中心
+  - 2013年10月20日　[中国](../Page/中国.md "wikilink")・[天津](https://ja.wikipedia.org/wiki/天津 "wikilink")：天津体育中心
   - 2013年10月26日　[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")・[シンガポール・インドア・スタジアム](https://ja.wikipedia.org/wiki/シンガポール・インドア・スタジアム "wikilink")
-  - 2014年5月17日　[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")・[深セン](https://ja.wikipedia.org/wiki/深セン "wikilink")：[深セン湾体育中心](https://ja.wikipedia.org/wiki/深セン湾体育中心 "wikilink")
-  - 2014年5月31日　[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")・[武漢](https://ja.wikipedia.org/wiki/武漢 "wikilink")：[武漢体育中心](https://ja.wikipedia.org/wiki/武漢体育中心 "wikilink")
-  - 2014年7月12日　[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")・[上海](https://ja.wikipedia.org/wiki/上海 "wikilink")：[上海万博文化センター](https://ja.wikipedia.org/wiki/上海万博文化センター "wikilink")
+  - 2014年5月17日　[中国](../Page/中国.md "wikilink")・[深セン](https://ja.wikipedia.org/wiki/深セン "wikilink")：[深セン湾体育中心](https://ja.wikipedia.org/wiki/深セン湾体育中心 "wikilink")
+  - 2014年5月31日　[中国](../Page/中国.md "wikilink")・[武漢](https://ja.wikipedia.org/wiki/武漢 "wikilink")：[武漢体育中心](https://ja.wikipedia.org/wiki/武漢体育中心 "wikilink")
+  - 2014年7月12日　[中国](../Page/中国.md "wikilink")・[上海](https://ja.wikipedia.org/wiki/上海 "wikilink")：[上海万博文化センター](https://ja.wikipedia.org/wiki/上海万博文化センター "wikilink")
   - 2014年7月19日　[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")・[高雄](https://ja.wikipedia.org/wiki/高雄 "wikilink")：[高雄アリーナ](https://ja.wikipedia.org/wiki/高雄アリーナ "wikilink")
-  - 2014年8月2日　[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")・[北京](https://ja.wikipedia.org/wiki/北京 "wikilink")：[マスタカードセンター](https://ja.wikipedia.org/wiki/五か松体育館 "wikilink")
+  - 2014年8月2日　[中国](../Page/中国.md "wikilink")・[北京](https://ja.wikipedia.org/wiki/北京 "wikilink")：[マスタカードセンター](https://ja.wikipedia.org/wiki/五か松体育館 "wikilink")
   - 2014年8月9日,10日　[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")・[台北](https://ja.wikipedia.org/wiki/台北 "wikilink")：[台北アリーナ](../Page/台北アリーナ.md "wikilink")
-  - 2014年8月23日 [中国](https://ja.wikipedia.org/wiki/中国 "wikilink")・[広州](https://ja.wikipedia.org/wiki/広州 "wikilink")：[広州国際体育演芸中心](https://ja.wikipedia.org/wiki/広州国際体育演芸中心 "wikilink")
+  - 2014年8月23日 [中国](../Page/中国.md "wikilink")・[広州](https://ja.wikipedia.org/wiki/広州 "wikilink")：[広州国際体育演芸中心](https://ja.wikipedia.org/wiki/広州国際体育演芸中心 "wikilink")
 
 ## 脚注
 

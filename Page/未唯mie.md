@@ -15,9 +15,9 @@
 
 1998年からは[アニメタル](../Page/アニメタル.md "wikilink")ファミリーの**[アニメタルレディー](https://ja.wikipedia.org/wiki/アニメタルレディー "wikilink")**としても活動。そのきっかけでアニメタルのプロデューサーであった[佃淳三](https://ja.wikipedia.org/wiki/佃淳三 "wikilink")と結婚したが、2004年に離婚。
 
-近年はホール公演やディナーショーばかりではなく、小規模客席数の[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")などでも多く公演を行っている。
+近年はホール公演やディナーショーばかりではなく、小規模客席数の[ライブハウス](../Page/ライブハウス.md "wikilink")などでも多く公演を行っている。
 
-2017年12月30日、TBS系「[第59回日本レコード大賞](https://ja.wikipedia.org/wiki/第59回日本レコード大賞 "wikilink")」（[新国立劇場](https://ja.wikipedia.org/wiki/新国立劇場 "wikilink")）において、「没後10年・作詞家デビュー50年・特別賞」を受賞した恩師・[阿久悠](../Page/阿久悠.md "wikilink")の功績を讃え、レコ大の舞台には39年ぶり・直近のコンサートツアーからは6年ぶりにピンク・レディーとしてステージに立ち、同じく恩師である[都倉俊一](../Page/都倉俊一.md "wikilink")の指揮によるオーケストラにて「ぺッパー警部」「ウォンテッド」「UFO」の3曲を「レコ大SPメドレー」として披露。
+2017年12月30日、TBS系「[第59回日本レコード大賞](https://ja.wikipedia.org/wiki/第59回日本レコード大賞 "wikilink")」（[新国立劇場](../Page/新国立劇場.md "wikilink")）において、「没後10年・作詞家デビュー50年・特別賞」を受賞した恩師・[阿久悠](../Page/阿久悠.md "wikilink")の功績を讃え、レコ大の舞台には39年ぶり・直近のコンサートツアーからは6年ぶりにピンク・レディーとしてステージに立ち、同じく恩師である[都倉俊一](../Page/都倉俊一.md "wikilink")の指揮によるオーケストラにて「ぺッパー警部」「ウォンテッド」「UFO」の3曲を「レコ大SPメドレー」として披露。
 
 翌年の2018年12月30日の「[第60回日本レコード大賞](https://ja.wikipedia.org/wiki/第60回日本レコード大賞 "wikilink")」にも、「UFO」での1978年レコ大受賞当時の司会者・[高橋圭三](../Page/高橋圭三.md "wikilink")への追悼で再びステージに立った。2017年よりも2曲多い「UFO」「S・O・S」「渚のシンドバッド」「サウスポー」の4曲ノンストップメドレーを披露した。
 
@@ -74,7 +74,7 @@ MIE 名義</p></td>
 作曲：HARRY<br />
 編曲：<a href="../Page/川村栄二.md" title="wikilink">川村栄二</a></p></td>
 <td><p>カム・バック<br />
-作詞：<a href="https://ja.wikipedia.org/wiki/篠塚満由美" title="wikilink">篠塚満由美</a><br />
+作詞：<a href="../Page/篠塚満由美.md" title="wikilink">篠塚満由美</a><br />
 作曲：HARRY<br />
 編曲：川村栄二</p></td>
 </tr>
@@ -96,7 +96,7 @@ MIE 名義</p></td>
 <td><p><strong>シャンプー</strong><br />
 作詞：<a href="../Page/三浦徳子.md" title="wikilink">三浦徳子</a><br />
 作曲：玉置浩二<br />
-編曲：<a href="https://ja.wikipedia.org/wiki/大村憲司" title="wikilink">大村憲司</a></p></td>
+編曲：<a href="../Page/大村憲司.md" title="wikilink">大村憲司</a></p></td>
 <td><p>HEART IN HIGH<br />
 作詞：<a href="../Page/森浩美.md" title="wikilink">森浩美</a><br />
 作曲：玉置浩二<br />
@@ -328,7 +328,7 @@ Remixed By Dub Master X for D.M.X International</p></td>
 <td><p><a href="../Page/2001年.md" title="wikilink">2001年</a><a href="../Page/11月29日.md" title="wikilink">11月29日</a></p></td>
 <td><p><strong>NOBODY KNOWS BUT HEAVEN</strong><br />
 作詞：<a href="../Page/二井原実.md" title="wikilink">二井原実</a><br />
-作曲：<a href="https://ja.wikipedia.org/wiki/ファンキー末吉" title="wikilink">ファンキー末吉</a><br />
+作曲：<a href="../Page/ファンキー末吉.md" title="wikilink">ファンキー末吉</a><br />
 編曲：未唯 with X.Y.Z.→A</p></td>
 <td><p>NOBODY KNOWS BUT HEAVEN (インストゥルメンタル)</p></td>
 <td><p><a href="../Page/キングレコード.md" title="wikilink">キングレコード</a></p></td>
@@ -791,7 +791,7 @@ MIE 名義</p></td>
 
   - [茜さんのお弁当](../Page/茜さんのお弁当.md "wikilink")（1981年10月21日〜12月30日、[TBS](../Page/TBSテレビ.md "wikilink")）
   - [火曜サスペンス劇場](../Page/火曜サスペンス劇場.md "wikilink") [松本清張の花氷](https://ja.wikipedia.org/wiki/花氷_\(松本清張\)#テレビドラマ "wikilink")（1982年3月30日、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
-  - [ザ・サスペンス](https://ja.wikipedia.org/wiki/ザ・サスペンス "wikilink") 暗渠の連鎖（1982年12月4日、TBS）
+  - [ザ・サスペンス](../Page/ザ・サスペンス.md "wikilink") 暗渠の連鎖（1982年12月4日、TBS）
   - [時代劇スペシャル](../Page/時代劇スペシャル_\(フジテレビ\).md "wikilink") 浪人八景・雪太郎風流剣（1982年12月17日、フジテレビ）
   - [土曜ワイド劇場](../Page/土曜ワイド劇場.md "wikilink") ハイミス探偵日記 空中サーカス殺人事件（1983年8月20日、テレビ朝日）
   - [銀河テレビ小説](../Page/銀河テレビ小説.md "wikilink") 明日はどっちだ（1983年8月22日〜9月9日、NHK）
@@ -799,7 +799,7 @@ MIE 名義</p></td>
   - [流れ星佐吉](https://ja.wikipedia.org/wiki/流れ星佐吉 "wikilink") 第9話「大揺れの女心」（1984年5月29日、[関西テレビ](../Page/関西テレビ放送.md "wikilink")）
   - 土曜ワイド劇場 [探偵・神津恭介の殺人推理](../Page/探偵・神津恭介の殺人推理.md "wikilink") 影なき女（1985年2月2日、テレビ朝日）
   - [月曜ドラマランド](../Page/月曜ドラマランド.md "wikilink") 少年隊 ショー・アップ・ハイスクール（1985年3月4日、フジテレビ）
-  - [影の軍団IV](https://ja.wikipedia.org/wiki/服部半蔵_影の軍団 "wikilink")（1985年4月2日〜10月1日、関西テレビ）
+  - [影の軍団IV](../Page/服部半蔵_影の軍団.md "wikilink")（1985年4月2日〜10月1日、関西テレビ）
   - [特命刑事ザ・コップ](../Page/特命刑事ザ・コップ.md "wikilink")（1985年4月19日〜7月19日、テレビ朝日） - 乃木 マリア役
   - 水曜ドラマスペシャル 水曜日の恋人たち 同棲の傾向と対策（1985年11月6日、TBS）
   - [セーラー服通り](../Page/セーラー服通り.md "wikilink")（1986年1月10日〜3月28日、TBS）
@@ -814,7 +814,7 @@ MIE 名義</p></td>
   - 水曜ドラマスペシャル 水曜日の恋人たち 見合いの傾向と対策（1986年11月26日、TBS）
   - 土曜ワイド劇場 [東京－清里ペンション村連続殺人](../Page/弁護士・今田一平.md "wikilink")（1987年5月16日、テレビ朝日）
   - [恋に恋して恋きぶん](https://ja.wikipedia.org/wiki/恋に恋して恋きぶん "wikilink")（1987年7月14日〜9月22日、TBS）
-  - [水戸黄門](../Page/水戸黄門_\(パナソニック_ドラマシアター\).md "wikilink") 第17部 第1〜9話（1987年8月24日〜、TBS・[C.A.L](https://ja.wikipedia.org/wiki/C.A.L "wikilink")） - くれないお蓮役
+  - [水戸黄門](../Page/水戸黄門_\(パナソニック_ドラマシアター\).md "wikilink") 第17部 第1〜9話（1987年8月24日〜、TBS・[C.A.L](../Page/C.A.L.md "wikilink")） - くれないお蓮役
   - 土曜ワイド劇場 整形復顔 女流デザイナー殺人事件（1988年5月28日、テレビ朝日）
   - [土曜スーパースペシャル](../Page/土曜スーパースペシャル.md "wikilink") キャッツ・アイ ミッドナイトは恋のアバンチュール（1988年7月23日、日本テレビ）
   - [土曜ドラマスペシャル](https://ja.wikipedia.org/wiki/土曜ドラマスペシャル "wikilink") マンション管理人の災難（1988年9月24日、TBS）
@@ -822,7 +822,7 @@ MIE 名義</p></td>
   - 新春特別ドラマ企画 風に恋して（1989年1月2日、テレビ朝日）
   - [ゴリラ・警視庁捜査第8班](../Page/ゴリラ・警視庁捜査第8班.md "wikilink") 第33話（1989年、テレビ朝日）
   - [火曜スーパーワイド](../Page/火曜スーパーワイド.md "wikilink") 三本足の名盲導犬サーブ・愛の物語（1989年7月4日、テレビ朝日）
-  - [ドラマチック22](https://ja.wikipedia.org/wiki/ドラマチック22 "wikilink") 田舎のポリス物語（1989年12月9日、TBS）
+  - [ドラマチック22](../Page/ドラマチック22.md "wikilink") 田舎のポリス物語（1989年12月9日、TBS）
   - [木曜ゴールデンドラマ](../Page/木曜ゴールデンドラマ.md "wikilink") 風の棲む家（1989年12月21日、日本テレビ）
   - 迎春ドラマスペシャル 夫婦善哉（1990年1月1日、フジテレビ）
   - [夏色のアルバム](../Page/夏色のアルバム.md "wikilink")（1990年7月23日〜8月31日、TBS）
@@ -876,7 +876,7 @@ MIE 名義</p></td>
   - [めちゃ×2イケてるッ\!](../Page/めちゃ×2イケてるッ!.md "wikilink") めちゃステップス（フジテレビ）
   - [とんねるずの生でダラダラいかせて\!\!](../Page/とんねるずの生でダラダラいかせて!!.md "wikilink") アクターズスクール編（日本テレビ）
   - [THE夜もヒッパレ](../Page/THE夜もヒッパレ.md "wikilink")（日本テレビ）不定期
-  - [クイズ赤恥青恥](https://ja.wikipedia.org/wiki/クイズ赤恥青恥 "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
+  - [クイズ赤恥青恥](../Page/クイズ赤恥青恥.md "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
   - [バイキング](https://ja.wikipedia.org/wiki/バイキング_\(テレビ番組\)#コーナー・企画 "wikilink") (フジテレビ)
       - 「坂上忍と未唯mieの時短\!簡単\!節約\!晩ごはん Presented by ライオン」 - 2016年12月5日から不定期\[5\]
   - [プレバト\!\!](https://ja.wikipedia.org/wiki/プレバト!! "wikilink")（[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")）不定期
@@ -912,7 +912,7 @@ MIE 名義</p></td>
   - ナイン（1983年）
   - [スウィート・チャリティー](../Page/スイート・チャリティー.md "wikilink")（1983年） - チャリティ 役 **＊主演**
   - 時代はサーカスの象にのって'84（1984年） **＊主演**
-  - [お熱いのがお好き](https://ja.wikipedia.org/wiki/お熱いのがお好き "wikilink")（1986年） **＊主演**
+  - [お熱いのがお好き](../Page/お熱いのがお好き.md "wikilink")（1986年） **＊主演**
   - [フットルース](https://ja.wikipedia.org/wiki/フットルース_\(1984年の映画\)#ミュージカル "wikilink")（2001年）
   - あらん はらん しらん（2009年）
 

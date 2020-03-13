@@ -1,7 +1,7 @@
 > この記事は[ThinkCentre](https://ja.wikipedia.org/wiki/ThinkCentre)から翻訳されています。
 
 
-**ThinkCentre**（シンクセンター）は、[IBM](../Page/IBM.md "wikilink")が2003年から発売したビジネス向けの[デスクトップPCのシリーズである](../Page/デスクトップパソコン.md "wikilink")。前身は[NetVista](https://ja.wikipedia.org/wiki/NetVista "wikilink")。2005年からは[レノボ](https://ja.wikipedia.org/wiki/レノボ "wikilink")がブランド・製造・販売を継承した。
+**ThinkCentre**（シンクセンター）は、[IBM](../Page/IBM.md "wikilink")が2003年から発売したビジネス向けの[デスクトップPCのシリーズである](../Page/デスクトップパソコン.md "wikilink")。前身は[NetVista](https://ja.wikipedia.org/wiki/NetVista "wikilink")。2005年からは[レノボ](../Page/レノボ.md "wikilink")がブランド・製造・販売を継承した。
 
 ## 名称
 

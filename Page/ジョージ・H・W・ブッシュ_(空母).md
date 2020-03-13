@@ -13,21 +13,21 @@
 
 ## 艦歴
 
-[GW,_GHW_and_Jeb_Bush_after_christening_carrier_vessel.jpg](https://ja.wikipedia.org/wiki/File:GW,_GHW_and_Jeb_Bush_after_christening_carrier_vessel.jpg "fig:GW,_GHW_and_Jeb_Bush_after_christening_carrier_vessel.jpg") 建造は、[ノースロップ・グラマン](../Page/ノースロップ・グラマン.md "wikilink")社の[ニューポート・ニューズ造船所](https://ja.wikipedia.org/wiki/ニューポート・ニューズ造船所 "wikilink")で2001年に始まった。2002年12月に艦名は第41代大統領にちなんで命名されることが発表された。2006年10月7日に命名式が行われ、式典には[ブッシュ元大統領本人が出席した](../Page/ジョージ・H・W・ブッシュ.md "wikilink")。
+[GW,_GHW_and_Jeb_Bush_after_christening_carrier_vessel.jpg](https://ja.wikipedia.org/wiki/File:GW,_GHW_and_Jeb_Bush_after_christening_carrier_vessel.jpg "fig:GW,_GHW_and_Jeb_Bush_after_christening_carrier_vessel.jpg") 建造は、[ノースロップ・グラマン](../Page/ノースロップ・グラマン.md "wikilink")社の[ニューポート・ニューズ造船所](../Page/ニューポート・ニューズ造船所.md "wikilink")で2001年に始まった。2002年12月に艦名は第41代大統領にちなんで命名されることが発表された。2006年10月7日に命名式が行われ、式典には[ブッシュ元大統領本人が出席した](../Page/ジョージ・H・W・ブッシュ.md "wikilink")。
 
 2008年4月には整調巡航に出航した。
 
 2009年1月10日に、[ノーフォーク海軍基地](https://ja.wikipedia.org/wiki/ノーフォーク海軍基地 "wikilink")で就役。その式典にはブッシュ父子が出席。初の、存命中の人間による、自身の名が名付けられた空母への乗船がなされた。
 
-一部で、退役する「[キティホーク](https://ja.wikipedia.org/wiki/キティホーク_\(空母\) "wikilink")」（USS Kitty Hawk, CVA-63）の後継として[横須賀基地への配備案が報道されたが](https://ja.wikipedia.org/wiki/横須賀海軍施設 "wikilink")、「[ジョージ・ワシントン](https://ja.wikipedia.org/wiki/ジョージ・ワシントン_\(空母\) "wikilink")」（USS George Washington, CVN-73）が配備された。
+一部で、退役する「[キティホーク](../Page/キティホーク_\(空母\).md "wikilink")」（USS Kitty Hawk, CVA-63）の後継として[横須賀基地への配備案が報道されたが](../Page/横須賀海軍施設.md "wikilink")、「[ジョージ・ワシントン](../Page/ジョージ・ワシントン_\(空母\).md "wikilink")」（USS George Washington, CVN-73）が配備された。
 
 2011年5月11日に母港のノーフォークを出港し、初めての作戦航海を7ヶ月間、[大西洋](../Page/大西洋.md "wikilink")・[地中海](../Page/地中海.md "wikilink")および[中東](../Page/中東.md "wikilink")地域を航行し、2011年12月10日に帰港した。
 
 帰港後は出港しても[X-47の試験運用などの短期航海が多かったが](../Page/X-47_\(航空機\).md "wikilink")、2014年2月15日に母港ノーフォークを出港し、地中海および中東に向かった。3月[クリミア危機に対応するため](https://ja.wikipedia.org/wiki/2014年クリミア危機 "wikilink")[トルコ](../Page/トルコ.md "wikilink")へ、6月には[ISIL](https://ja.wikipedia.org/wiki/ISIL "wikilink")対処のため中東へ移動、8月8日ISILへの空爆を開始した。11月2日、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[マルセイユ](../Page/マルセイユ.md "wikilink")へ休養のため寄港後、11月15日9ヶ月間の航海を終えノーフォークに帰港した。
 
-2016年7月23日、2015年6月より実施していた定期修理を終え試験航海の為[ノーフォーク海軍基地](https://ja.wikipedia.org/wiki/ノーフォーク海軍基地 "wikilink")を出港した。当初の計画では６ヶ月で修理を終えるはずであったが、予算不足からくる艦艇修理施設の人材や技量の不足等の理由により13ヶ月を要した。本来であれば[ペルシャ湾で作戦中の](https://ja.wikipedia.org/wiki/ペルシア湾 "wikilink")[ドワイト・D・アイゼンハワーと交代する為](../Page/ドワイト・D・アイゼンハワー_\(空母\).md "wikilink")2016年内には出港しなければならないが、準備訓練期間を短縮したとしても2017年初頭にずれ込む見通し。
+2016年7月23日、2015年6月より実施していた定期修理を終え試験航海の為[ノーフォーク海軍基地](https://ja.wikipedia.org/wiki/ノーフォーク海軍基地 "wikilink")を出港した。当初の計画では６ヶ月で修理を終えるはずであったが、予算不足からくる艦艇修理施設の人材や技量の不足等の理由により13ヶ月を要した。本来であれば[ペルシャ湾で作戦中の](../Page/ペルシア湾.md "wikilink")[ドワイト・D・アイゼンハワーと交代する為](../Page/ドワイト・D・アイゼンハワー_\(空母\).md "wikilink")2016年内には出港しなければならないが、準備訓練期間を短縮したとしても2017年初頭にずれ込む見通し。
 
-2017年1月21日、3度目の海外展開のため母港の[ノーフォーク海軍基地](https://ja.wikipedia.org/wiki/ノーフォーク海軍基地 "wikilink")を出港した。任地は過去2度の航海と同じく第6艦隊担当海域の地中海、[第5艦隊担当海域のインド洋とペルシャ湾](https://ja.wikipedia.org/wiki/第5艦隊_\(アメリカ軍\) "wikilink")。本航海中の6月18日、ブッシュ所属の[F/A-18Eがシリア空軍の](https://ja.wikipedia.org/wiki/F/A-18E/F_\(航空機\) "wikilink")[Su-22を撃墜した](https://ja.wikipedia.org/wiki/Su-17_\(航空機\) "wikilink")\[1\]。有志連合軍の警告にも関わらずシリア防衛隊を攻撃してきたため、交戦規定に基づき撃墜したもの。海軍機としては湾岸戦争以来実に26年ぶりの空対空戦果で、アメリカ軍としても18年ぶりであった。
+2017年1月21日、3度目の海外展開のため母港の[ノーフォーク海軍基地](https://ja.wikipedia.org/wiki/ノーフォーク海軍基地 "wikilink")を出港した。任地は過去2度の航海と同じく第6艦隊担当海域の地中海、[第5艦隊担当海域のインド洋とペルシャ湾](../Page/第5艦隊_\(アメリカ軍\).md "wikilink")。本航海中の6月18日、ブッシュ所属の[F/A-18Eがシリア空軍の](https://ja.wikipedia.org/wiki/F/A-18E/F_\(航空機\) "wikilink")[Su-22を撃墜した](../Page/Su-17_\(航空機\).md "wikilink")\[1\]。有志連合軍の警告にも関わらずシリア防衛隊を攻撃してきたため、交戦規定に基づき撃墜したもの。海軍機としては湾岸戦争以来実に26年ぶりの空対空戦果で、アメリカ軍としても18年ぶりであった。
 
 2017年6月12日 空母[艦載機](https://ja.wikipedia.org/wiki/艦載機 "wikilink")としては初の無人機となる[空中給油機](../Page/空中給油機.md "wikilink")の搭載空母として、ジョージ・H・W・ブッシュとドワイト・Ｄ・アイゼンハワーの2隻を選定し、最初の空母としてブッシュに約30億円かけて運用に必要な無人機管制装置やデータリンク装置を搭載すると報じられた。2019年の時点では海軍での同機運用は2024年を予定している。
 
@@ -42,13 +42,13 @@
   - 「[カール・ヴィンソン](../Page/カール・ヴィンソン_\(空母\).md "wikilink")」（USS Carl Vinson, CVN-70）
   - 「[ロナルド・レーガン](../Page/ロナルド・レーガン_\(空母\).md "wikilink")」（USS Ronald Reagan, CVN-76）
   - 「**ジョージ・H・W・ブッシュ**」（USS George H. W. Bush, CVN-77）
-  - 「[アーレイ・バーク](https://ja.wikipedia.org/wiki/アーレイ・バーク_\(ミサイル駆逐艦\) "wikilink")」（USS Arleigh Burke, DDG-51）
+  - 「[アーレイ・バーク](../Page/アーレイ・バーク_\(ミサイル駆逐艦\).md "wikilink")」（USS Arleigh Burke, DDG-51）
   - 「[ニッツェ](../Page/ニッツェ_\(ミサイル駆逐艦\).md "wikilink")」（USS Nitze, DDG-94）
-  - 「[ジミー・カーター](https://ja.wikipedia.org/wiki/ジミー・カーター_\(原子力潜水艦\) "wikilink")」（USS Jimmy Carter, SSN-23）
+  - 「[ジミー・カーター](../Page/ジミー・カーター_\(原子力潜水艦\).md "wikilink")」（USS Jimmy Carter, SSN-23）
   - 「[ハイマン・G・リッコーヴァー](../Page/ハイマン・G・リッコーヴァー_\(原子力潜水艦\).md "wikilink")」（USS Hyman G. Rickover, SSN-709）
   - 「[ボブ・ホープ](../Page/ボブ・ホープ_\(車両貨物輸送艦\).md "wikilink")」（USNS Bob Hope, T-AKR-300）
 
-1980年3月15日に進水したCVN-70に[カール・ヴィンソン](https://ja.wikipedia.org/wiki/カール・ヴィンソン "wikilink")元[下院議員](../Page/アメリカ合衆国下院.md "wikilink")・元下院海軍委員会委員長の名前をつけたケースでは、就役以前の1981年6月に高齢のため死亡しており、CVN-76に[ロナルド・レーガン](../Page/ロナルド・レーガン.md "wikilink")元大統領の名前を付けたケースでは[アルツハイマー病のために進水式や就役式には出席できない状態であった](https://ja.wikipedia.org/wiki/アルツハイマー型認知症 "wikilink")。
+1980年3月15日に進水したCVN-70に[カール・ヴィンソン](../Page/カール・ヴィンソン.md "wikilink")元[下院議員](../Page/アメリカ合衆国下院.md "wikilink")・元下院海軍委員会委員長の名前をつけたケースでは、就役以前の1981年6月に高齢のため死亡しており、CVN-76に[ロナルド・レーガン](../Page/ロナルド・レーガン.md "wikilink")元大統領の名前を付けたケースでは[アルツハイマー病のために進水式や就役式には出席できない状態であった](https://ja.wikipedia.org/wiki/アルツハイマー型認知症 "wikilink")。
 
 ## 第8空母航空団
 
@@ -61,10 +61,10 @@
 | 第87戦闘攻撃飛行隊 ([VFA-87](https://ja.wikipedia.org/wiki/第87戦闘攻撃飛行隊_\(アメリカ海軍\) "wikilink"))              | 『ゴールデン・ウォリアーズ *Golden Warriors*』 | [F/A-18E Block2](https://ja.wikipedia.org/wiki/F/A-18E/F_\(航空機\) "wikilink") |
 | 第37戦闘攻撃飛行隊 ([VFA-37](https://ja.wikipedia.org/wiki/第37戦闘攻撃飛行隊_\(アメリカ海軍\) "wikilink"))              | 『ブルズ *Bulls*』                    | [F/A-18C(N)](https://ja.wikipedia.org/wiki/F/A-18_\(航空機\) "wikilink")        |
 | 第131電子攻撃飛行隊 ([VAQ-131](https://ja.wikipedia.org/wiki/第131電子攻撃飛行隊_\(アメリカ海軍\) "wikilink"))           | 『ランサーズ *Lancers*』                | [EA-18G](https://ja.wikipedia.org/wiki/EA-18G_\(航空機\) "wikilink")            |
-| 第124早期警戒飛行隊 ([VAW-124](https://ja.wikipedia.org/wiki/第124早期警戒飛行隊_\(アメリカ海軍\) "wikilink"))           | 『ベア・エーセス *Bear Aces*』            | [E-2C](https://ja.wikipedia.org/wiki/E-2_\(航空機\) "wikilink")                 |
+| 第124早期警戒飛行隊 ([VAW-124](https://ja.wikipedia.org/wiki/第124早期警戒飛行隊_\(アメリカ海軍\) "wikilink"))           | 『ベア・エーセス *Bear Aces*』            | [E-2C](../Page/E-2_\(航空機\).md "wikilink")                                    |
 | 第9ヘリコプター海上作戦飛行隊 ([HSC-9](https://ja.wikipedia.org/wiki/第9海上戦闘ヘリコプター飛行隊_\(アメリカ海軍\) "wikilink"))     | 『トライデンツ *Tridents*』              | MH-60S                                                                       |
 | 第70ヘリコプター海洋攻撃飛行隊 ([HSM-70](https://ja.wikipedia.org/wiki/第70海兵攻撃ヘリコプター飛行隊_\(アメリカ海兵隊\) "wikilink")) | 『スパルタンズ *Spartans*』              | MH-60R                                                                       |
-| 第40艦隊後方支援飛行隊 ([VRC-40](https://ja.wikipedia.org/wiki/第40艦隊後方支援飛行隊_\(アメリカ海軍\) "wikilink"))          | 『ローハイズ *Rawhides*』               | [C-2A](https://ja.wikipedia.org/wiki/C-2_\(航空機・アメリカ\) "wikilink")            |
+| 第40艦隊後方支援飛行隊 ([VRC-40](https://ja.wikipedia.org/wiki/第40艦隊後方支援飛行隊_\(アメリカ海軍\) "wikilink"))          | 『ローハイズ *Rawhides*』               | [C-2A](../Page/C-2_\(航空機・アメリカ\).md "wikilink")                               |
 |                                                                                                    |                                  |                                                                              |
 
 p
@@ -72,7 +72,7 @@ p
 ## 関連項目
 
   - [アメリカ海軍艦艇一覧](https://ja.wikipedia.org/wiki/アメリカ海軍艦艇一覧 "wikilink")
-  - [アメリカ海軍航空母艦一覧](https://ja.wikipedia.org/wiki/アメリカ海軍航空母艦一覧 "wikilink")
+  - [アメリカ海軍航空母艦一覧](../Page/アメリカ海軍航空母艦一覧.md "wikilink")
 
 ## 脚注
 

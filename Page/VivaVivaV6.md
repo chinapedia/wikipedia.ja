@@ -15,7 +15,7 @@
 
 ### 第2期
 
-『[ジャンクバトル](https://ja.wikipedia.org/wiki/#ジャンクバトル "wikilink")』[2001年](../Page/2001年.md "wikilink")10月 - [2002年](../Page/2002年.md "wikilink")9月。V6のメンバーが毎回2対2でコンビを組み、毎回テーマに沿った料理を作り一般の人に販売しどちらが勝つか競う戦いだった。2対2で競うため、毎回戦わない2人の出演はなかった。この1年間で、2度チームの編成が行われた。また現在のナレーターの[木村匡也](https://ja.wikipedia.org/wiki/木村匡也 "wikilink")はジャンクバトルから番組を担当している。
+『[ジャンクバトル](https://ja.wikipedia.org/wiki/#ジャンクバトル "wikilink")』[2001年](../Page/2001年.md "wikilink")10月 - [2002年](../Page/2002年.md "wikilink")9月。V6のメンバーが毎回2対2でコンビを組み、毎回テーマに沿った料理を作り一般の人に販売しどちらが勝つか競う戦いだった。2対2で競うため、毎回戦わない2人の出演はなかった。この1年間で、2度チームの編成が行われた。また現在のナレーターの[木村匡也](../Page/木村匡也.md "wikilink")はジャンクバトルから番組を担当している。
 
 ### 第3期
 
@@ -29,11 +29,11 @@
 
 『東京Vシュラン2 ランキング予想バトル』[2004年](../Page/2004年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink") - 最終回。[井ノ原快彦](../Page/井ノ原快彦.md "wikilink")が総合司会となりゲスト2組にそれぞれV6メンバー1人がつく。事前に特定の人（OL、[フードコーディネーター](https://ja.wikipedia.org/wiki/フードコーディネーター "wikilink")など）へある料理・地域のおいしい店をリサーチしランキングを作成。そのベスト3の店に行き、実際に食べてランキングを予想する。（4位、5位は移動中のVTRで紹介。）各チームランキング予想を発表し、的中数の多いチームの勝利。（同点の場合は上位を当てたチームの勝利。両チームとも全て外せば両者罰ゲーム。）また、両チーム同じ予想の場合は総合司会の井ノ原との対決となり、全的中なら井ノ原が、1軒でも外せば両チーム罰ゲームを受ける。負けたチームには地獄の罰ゲーム（と言っても大抵は店の中の掃除と食器洗いなどが殆ど）が執行される。
 
-このコーナーが始まってから[岡田准一](https://ja.wikipedia.org/wiki/岡田准一 "wikilink")は2度しか勝っていないこと（初対決から**15連敗**、さらにその後**22連敗**）から**「死神岡田」**の異名を取ることとなる。また、[石塚英彦](../Page/石塚英彦.md "wikilink")と[森公美子](https://ja.wikipedia.org/wiki/森公美子 "wikilink")（両者とも出演時は[ゴジラ](../Page/ゴジラ.md "wikilink")と[キングキドラ](https://ja.wikipedia.org/wiki/キングキドラ "wikilink")にたとえられる。）が出演する肉特集の時によく呼ばれ、2人の食べるペースについていけずボロボロになることが多い。
+このコーナーが始まってから[岡田准一](../Page/岡田准一.md "wikilink")は2度しか勝っていないこと（初対決から**15連敗**、さらにその後**22連敗**）から**「死神岡田」**の異名を取ることとなる。また、[石塚英彦](../Page/石塚英彦.md "wikilink")と[森公美子](../Page/森公美子.md "wikilink")（両者とも出演時は[ゴジラ](../Page/ゴジラ.md "wikilink")と[キングキドラ](https://ja.wikipedia.org/wiki/キングキドラ "wikilink")にたとえられる。）が出演する肉特集の時によく呼ばれ、2人の食べるペースについていけずボロボロになることが多い。
 
 #### やらせ報道について
 
-[2006年](../Page/2006年.md "wikilink")[10月8日](../Page/10月8日.md "wikilink")付の[東京スポーツ](../Page/東京スポーツ.md "wikilink")は、VivaVivaV6で[やらせ](https://ja.wikipedia.org/wiki/やらせ "wikilink")が行われたと1面で報じた。その内容は、前述の罰ゲームで[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[鎌倉市](../Page/鎌倉市.md "wikilink")腰越海岸のゴミの清掃を行うことが決定したが、ボランティアが既に清掃を終えていてゴミがなかったため、番組スタッフがゴミをばらまいた、というものであった。そしてフジテレビはこの事実を認め、このシーンの放送自粛を決定した。
+[2006年](../Page/2006年.md "wikilink")[10月8日](../Page/10月8日.md "wikilink")付の[東京スポーツ](../Page/東京スポーツ.md "wikilink")は、VivaVivaV6で[やらせ](../Page/やらせ.md "wikilink")が行われたと1面で報じた。その内容は、前述の罰ゲームで[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[鎌倉市](../Page/鎌倉市.md "wikilink")腰越海岸のゴミの清掃を行うことが決定したが、ボランティアが既に清掃を終えていてゴミがなかったため、番組スタッフがゴミをばらまいた、というものであった。そしてフジテレビはこの事実を認め、このシーンの放送自粛を決定した。
 
 その後、他のマスコミ各社もこの問題について報道した。それらによると、フジテレビは謝罪をした上で「いったん拾ったゴミを収録ポイントに置き直した」、「やらせではなく演出が過剰になったということです」と主張している。
 
@@ -41,13 +41,13 @@
 
 前身番組の『[V6の素](../Page/V6の素.md "wikilink")』『[マッハブイロク](../Page/マッハブイロク.md "wikilink")』『[お笑いV6病棟\!](../Page/お笑いV6病棟!.md "wikilink")』から長らく木曜日に放送されていたが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")の番組改編で、放送曜日が同年[10月10日](../Page/10月10日.md "wikilink")から『[メントレG](../Page/メントレG.md "wikilink")』や『[スリルな夜](../Page/スリルな夜.md "wikilink")』などを放送していた枠の[金曜日](../Page/金曜日.md "wikilink")の23:00 - 23:30（JST）に移動された。空いた木曜23時枠には同年[10月9日](../Page/10月9日.md "wikilink")からV6の先輩グループ・[TOKIO](../Page/TOKIO.md "wikilink")が出演する『[5LDK](https://ja.wikipedia.org/wiki/5LDK "wikilink")』が開始された。
 
-移行してからは[提供クレジット](https://ja.wikipedia.org/wiki/提供クレジット "wikilink")(番組が木曜夜11時での時代とこ2008年9月までの金曜夜11時の番組での形態と異なる)の形態も変わり、前クレでは右下表示、後クレは全面表示となっている。
+移行してからは[提供クレジット](../Page/提供クレジット.md "wikilink")(番組が木曜夜11時での時代とこ2008年9月までの金曜夜11時の番組での形態と異なる)の形態も変わり、前クレでは右下表示、後クレは全面表示となっている。
 
 放送枠移転のため、金曜日にTBS系で10月からスタートした新番組『[新知識階級 クマグス](https://ja.wikipedia.org/wiki/新知識階級_クマグス "wikilink")』により、V6の番組が2度放送されることになった。
 
 視聴率は移動前よりはやや下がったものの10%前後で安定していたが、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月19日](../Page/3月19日.md "wikilink")を以って終了した。番組開始から9年、前身番組の『V6の素』を含め10年半の歴史に幕を下ろした。また、V6のフジテレビのレギュラー番組も同時に廃止となる。
 
-後番組の『[恋するTV すごキュン](https://ja.wikipedia.org/wiki/恋するTV_すごキュン "wikilink")』には、[三宅健](https://ja.wikipedia.org/wiki/三宅健 "wikilink")のみが続投し、お笑いコンビの[はんにゃ](https://ja.wikipedia.org/wiki/はんにゃ "wikilink")と共に司会を務めた。
+後番組の『[恋するTV すごキュン](https://ja.wikipedia.org/wiki/恋するTV_すごキュン "wikilink")』には、[三宅健](../Page/三宅健.md "wikilink")のみが続投し、お笑いコンビの[はんにゃ](https://ja.wikipedia.org/wiki/はんにゃ "wikilink")と共に司会を務めた。
 
 ## 放送リスト
 
@@ -968,7 +968,7 @@ TEAM長岡</p></td>
 
 ### マギスキーのマジック
 
-  - 過去2回行われた。司会は井ノ原。マギスキー（[マギー司郎](https://ja.wikipedia.org/wiki/マギー司郎 "wikilink")）の行うマジックを見て、そのトリックを見破ると言うもの。
+  - 過去2回行われた。司会は井ノ原。マギスキー（[マギー司郎](../Page/マギー司郎.md "wikilink")）の行うマジックを見て、そのトリックを見破ると言うもの。
   - 見破った人から抜けていき、最後に残った人が罰ゲームとして客席からのブーイングを受ける。2回とも森田が最後まで残った。
 
 ### 目分量アワー
@@ -1000,7 +1000,7 @@ TEAM長岡</p></td>
   - 最初、企画を決める段階から放送された。俳優を勧められたときは「俺は俳優なんだよ！」と言ったりした。
   - 最初は板割りと瓦割りをしたが、板割りでは板を持つ人と井ノ原が板を割るタイミングが合わず、2枚の板をつなげただけなのがばれてしまったり、瓦割りではハンマーで瓦を割るシーン（ハンマーが映ったことに気づき、リプレイではモザイク処理されていた）が合成されていた。
   - 山での修行のはずが刑事ドラマ（「今夜が山ですね」の山で、「山違いだった」とテロップが出た）だったり、[富士急ハイランド](https://ja.wikipedia.org/wiki/富士急ハイランド "wikilink")のFUJIYAMAに乗った。
-  - 最後は牛に戦いを挑むはずが、子牛の登場でできなくなり、牛への手紙（[おしゃれカンケイ](https://ja.wikipedia.org/wiki/おしゃれカンケイ "wikilink")の16小説のラブソングのパロディーで、16小説のイノソングと言っていた）を朗読した。
+  - 最後は牛に戦いを挑むはずが、子牛の登場でできなくなり、牛への手紙（[おしゃれカンケイ](../Page/おしゃれカンケイ.md "wikilink")の16小説のラブソングのパロディーで、16小説のイノソングと言っていた）を朗読した。
 
 ### おいしいものがっつり食べちゃおうツアー
 
@@ -1019,7 +1019,7 @@ TEAM長岡</p></td>
   - 最終的に、売上金が多かったチームが勝ち。
       - 一度だけ引き分けがあったが、これは売上金が同額だったためではない。[海の家](../Page/海の家.md "wikilink")を舞台にした[かき氷](../Page/かき氷.md "wikilink")対決だったが、途中で豪雨になり、商売続行が不可能になったため引き分けの措置が取られたものである。
   - 売上金は[J-FRIENDS](https://ja.wikipedia.org/wiki/J-FRIENDS "wikilink")のチャリティーとして寄付される。またJ-FREINDSのカウントダウンライブの時にはTOKIOやKinKi Kidsのメンバーを加えて編成したチームで、「年越しラーメン対決」も行った。
-  - 改編期には登場した料理を視聴者のランキングにより発表、上位6品をゲストが試食し、一番味のよかったものを決める「ジャンクアワード」が行われる。ちなみに最下位（視聴者のイメージが最も悪いもの）は7位までを発表した後、試食の前に発表。ゲストは第1回は[秋野暢子](https://ja.wikipedia.org/wiki/秋野暢子 "wikilink")、第2回は[久本雅美](../Page/久本雅美.md "wikilink")。またジャンクアワード第1回の前に途中で登場した料理が本当にうまいのかを[千秋と](https://ja.wikipedia.org/wiki/千秋_\(タレント\) "wikilink")[菊川怜](https://ja.wikipedia.org/wiki/菊川怜 "wikilink")が判定した。
+  - 改編期には登場した料理を視聴者のランキングにより発表、上位6品をゲストが試食し、一番味のよかったものを決める「ジャンクアワード」が行われる。ちなみに最下位（視聴者のイメージが最も悪いもの）は7位までを発表した後、試食の前に発表。ゲストは第1回は[秋野暢子](../Page/秋野暢子.md "wikilink")、第2回は[久本雅美](../Page/久本雅美.md "wikilink")。またジャンクアワード第1回の前に途中で登場した料理が本当にうまいのかを[千秋と](../Page/千秋_\(タレント\).md "wikilink")[菊川怜](https://ja.wikipedia.org/wiki/菊川怜 "wikilink")が判定した。
   - 終盤には最終兵器として巨大化したものを投入することが多かった。
 
 ### 登場した料理
@@ -1090,9 +1090,9 @@ TEAM長岡</p></td>
   - [哀川翔](../Page/哀川翔.md "wikilink")
   - [青島幸男](../Page/青島幸男.md "wikilink")
   - [曙太郎](../Page/曙太郎.md "wikilink")
-  - [東幹久](https://ja.wikipedia.org/wiki/東幹久 "wikilink")
-  - [有吉弘行](https://ja.wikipedia.org/wiki/有吉弘行 "wikilink")
-  - [生田斗真](https://ja.wikipedia.org/wiki/生田斗真 "wikilink")
+  - [東幹久](../Page/東幹久.md "wikilink")
+  - [有吉弘行](../Page/有吉弘行.md "wikilink")
+  - [生田斗真](../Page/生田斗真.md "wikilink")
   - [石井一久](../Page/石井一久.md "wikilink")
   - [石塚英彦](../Page/石塚英彦.md "wikilink")
   - [井筒和幸](https://ja.wikipedia.org/wiki/井筒和幸 "wikilink")
@@ -1107,12 +1107,12 @@ TEAM長岡</p></td>
 
 <!-- end list -->
 
-  - [角田信朗](https://ja.wikipedia.org/wiki/角田信朗 "wikilink")
+  - [角田信朗](../Page/角田信朗.md "wikilink")
   - [掛布雅之](../Page/掛布雅之.md "wikilink")
   - [勝俣州和](../Page/勝俣州和.md "wikilink")
   - [KABA.ちゃん](../Page/KABA.ちゃん.md "wikilink")
   - [假屋崎省吾](../Page/假屋崎省吾.md "wikilink")
-  - [ケンドーコバヤシ](https://ja.wikipedia.org/wiki/ケンドーコバヤシ "wikilink")
+  - [ケンドーコバヤシ](../Page/ケンドーコバヤシ.md "wikilink")
   - [小錦八十吉](../Page/小錦八十吉_\(6代\).md "wikilink")
 
 <!-- end list -->
@@ -1122,10 +1122,10 @@ TEAM長岡</p></td>
 <!-- end list -->
 
   - [さまぁ〜ず](../Page/さまぁ〜ず.md "wikilink")
-  - [錣山](https://ja.wikipedia.org/wiki/寺尾常史 "wikilink")
+  - [錣山](../Page/寺尾常史.md "wikilink")
   - [志村けん](../Page/志村けん.md "wikilink")
   - [笑福亭鶴瓶](../Page/笑福亭鶴瓶.md "wikilink")
-  - [セイン・カミュ](https://ja.wikipedia.org/wiki/セイン・カミュ "wikilink")
+  - [セイン・カミュ](../Page/セイン・カミュ.md "wikilink")
 
 <!-- end list -->
 
@@ -1136,7 +1136,7 @@ TEAM長岡</p></td>
   - [高田純次](../Page/高田純次.md "wikilink")
   - [高田延彦](../Page/高田延彦.md "wikilink")
   - [蝶野正洋](../Page/蝶野正洋.md "wikilink")
-  - [千代大海龍二](https://ja.wikipedia.org/wiki/千代大海龍二 "wikilink")
+  - [千代大海龍二](../Page/千代大海龍二.md "wikilink")
   - [TIM](../Page/TIM_\(お笑いコンビ\).md "wikilink")
   - [堂本光一](../Page/堂本光一.md "wikilink")
   - [ドランクドラゴン](../Page/ドランクドラゴン.md "wikilink")
@@ -1158,7 +1158,7 @@ TEAM長岡</p></td>
 
 <!-- end list -->
 
-  - [畑山隆則](https://ja.wikipedia.org/wiki/畑山隆則 "wikilink")
+  - [畑山隆則](../Page/畑山隆則.md "wikilink")
   - [花田勝](https://ja.wikipedia.org/wiki/花田勝 "wikilink")
   - [はなわ](https://ja.wikipedia.org/wiki/はなわ "wikilink")
   - [ピーター](https://ja.wikipedia.org/wiki/ピーター_\(俳優\) "wikilink")
@@ -1176,7 +1176,7 @@ TEAM長岡</p></td>
   - [ますだおかだ](../Page/ますだおかだ.md "wikilink")
   - [宮本亜門](https://ja.wikipedia.org/wiki/宮本亜門 "wikilink")
   - [武蔵](../Page/武蔵_\(格闘家\).md "wikilink")
-  - [武蔵丸光洋](https://ja.wikipedia.org/wiki/武蔵丸光洋 "wikilink")
+  - [武蔵丸光洋](../Page/武蔵丸光洋.md "wikilink")
   - [武藤敬司](https://ja.wikipedia.org/wiki/武藤敬司 "wikilink")
   - [恵俊彰](../Page/恵俊彰.md "wikilink")
 
@@ -1225,10 +1225,10 @@ TEAM長岡</p></td>
 
 <!-- end list -->
 
-  - [櫻井淳子](https://ja.wikipedia.org/wiki/櫻井淳子 "wikilink")
+  - [櫻井淳子](../Page/櫻井淳子.md "wikilink")
   - [篠原ともえ](../Page/篠原ともえ.md "wikilink")
   - [篠原涼子](https://ja.wikipedia.org/wiki/篠原涼子 "wikilink")
-  - [島崎和歌子](https://ja.wikipedia.org/wiki/島崎和歌子 "wikilink")
+  - [島崎和歌子](../Page/島崎和歌子.md "wikilink")
   - [白石美帆](https://ja.wikipedia.org/wiki/白石美帆 "wikilink")
   - [杉田かおる](../Page/杉田かおる.md "wikilink")
 
@@ -1239,7 +1239,7 @@ TEAM長岡</p></td>
 <!-- end list -->
 
   - [高島彩](../Page/高島彩.md "wikilink")
-  - [千秋](https://ja.wikipedia.org/wiki/千秋_\(タレント\) "wikilink")
+  - [千秋](../Page/千秋_\(タレント\).md "wikilink")
 
 <!-- end list -->
 
@@ -1278,8 +1278,8 @@ TEAM長岡</p></td>
 
 ## スタッフ
 
-  - ナレーター：[木村匡也](https://ja.wikipedia.org/wiki/木村匡也 "wikilink")、[中村仁美](https://ja.wikipedia.org/wiki/中村仁美 "wikilink")（フジテレビアナウンサー、『特攻野郎 デリー&バリー』コーナーのみ）
-  - 構成：[伊藤正宏](../Page/伊藤正宏.md "wikilink")、小川浩之、[大賀広道](https://ja.wikipedia.org/wiki/大賀広道 "wikilink")、松本えり子、本松エリ、工藤ひろこ／[安達元一](https://ja.wikipedia.org/wiki/安達元一 "wikilink")
+  - ナレーター：[木村匡也](../Page/木村匡也.md "wikilink")、[中村仁美](https://ja.wikipedia.org/wiki/中村仁美 "wikilink")（フジテレビアナウンサー、『特攻野郎 デリー&バリー』コーナーのみ）
+  - 構成：[伊藤正宏](../Page/伊藤正宏.md "wikilink")、小川浩之、[大賀広道](https://ja.wikipedia.org/wiki/大賀広道 "wikilink")、松本えり子、本松エリ、工藤ひろこ／[安達元一](../Page/安達元一.md "wikilink")
   - プレーン：浮ヶ谷高伸
   - TD（テクニカルディレクター）：清水伸恭
   - CAM（カメラマン）：大山浩文、畠中宏
@@ -1310,23 +1310,23 @@ TEAM長岡</p></td>
   - ディレクター：長沼昭悟、亀田剛、石川のりひさ、大谷卓、太田実、柳瀬由紀子
   - AP：増谷秀行
   - 総合演出：[田中経一](https://ja.wikipedia.org/wiki/田中経一 "wikilink")
-  - プロデューサー：[坪井貴史](https://ja.wikipedia.org/wiki/坪井貴史 "wikilink")
-  - プロデューサー・演出：[板谷栄司](https://ja.wikipedia.org/wiki/板谷栄司 "wikilink")
+  - プロデューサー：[坪井貴史](../Page/坪井貴史.md "wikilink")
+  - プロデューサー・演出：[板谷栄司](../Page/板谷栄司.md "wikilink")
   - 協力：[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")
-  - 技術協力：[八峯テレビ](https://ja.wikipedia.org/wiki/八峯テレビ "wikilink")、[ビジュアルコミュニケーションズ](../Page/ビジュアルコミュニケーションズ.md "wikilink")、[CCファクトリー（旧TDKビデオセンター）](https://ja.wikipedia.org/wiki/クリエイティヴ・コア#CCファクトリー（旧TDKビデオセンター） "wikilink")
+  - 技術協力：[八峯テレビ](../Page/八峯テレビ.md "wikilink")、[ビジュアルコミュニケーションズ](../Page/ビジュアルコミュニケーションズ.md "wikilink")、[CCファクトリー（旧TDKビデオセンター）](https://ja.wikipedia.org/wiki/クリエイティヴ・コア#CCファクトリー（旧TDKビデオセンター） "wikilink")
   - 制作協力：三慶サービス、カーメルサービス、スプリングファーム
   - 制作：フジテレビバラエティ制作センター
   - 制作著作：[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")
 
 ### 過去のスタッフ
 
-  - プロデューサー：[松村匠](https://ja.wikipedia.org/wiki/松村匠 "wikilink")
+  - プロデューサー：[松村匠](../Page/松村匠.md "wikilink")
   - ディレクター：稲村健
   - 編成：熊谷剛
   - 広報：田中奈美
   - AP：岡本計
   - デスク：三木真奈美
-  - TD（テクニカルディレクター）：[関克哉](https://ja.wikipedia.org/wiki/関克哉 "wikilink")
+  - TD（テクニカルディレクター）：[関克哉](../Page/関克哉.md "wikilink")
   - AUD（オーディオ音声）：谷川宏輝、元山拓巳、朝川大輔
   - VE（ビデオエンジニア）：大高浩
   - VTR編集：加藤佳一、横川靖、林宏、石井謙作
@@ -1341,7 +1341,7 @@ TEAM長岡</p></td>
   - 特殊効果：中山信男
   - 衣裳：星野恵美
   - CG：持田学
-  - 技術協力：[ザ・チューブ](../Page/ザ・チューブ.md "wikilink")、[IMAGICA](https://ja.wikipedia.org/wiki/IMAGICA "wikilink")、[4-Legs](https://ja.wikipedia.org/wiki/4-Legs "wikilink")
+  - 技術協力：[ザ・チューブ](../Page/ザ・チューブ.md "wikilink")、[IMAGICA](https://ja.wikipedia.org/wiki/IMAGICA "wikilink")、[4-Legs](../Page/4-Legs.md "wikilink")
 
 ## テーマソング
 

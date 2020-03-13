@@ -1,7 +1,7 @@
 > この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
 
 
-**NHK青森放送局**（エヌエイチケイあおもりほうそうきょく）は、[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](https://ja.wikipedia.org/wiki/日本放送協会放送局の一覧 "wikilink")。テレビとラジオで県域放送を行っている。
+**NHK青森放送局**（エヌエイチケイあおもりほうそうきょく）は、[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。テレビとラジオで県域放送を行っている。
 
 ## 放送局データ
 
@@ -9,8 +9,8 @@
       - 三沢支局（[三沢市](../Page/三沢市.md "wikilink")） - 取材対象地域は上十三地区。
       - むつ支局（[むつ市](../Page/むつ市.md "wikilink")） - 取材対象地域は下北地区。
       - 五所川原支局（[五所川原市](../Page/五所川原市.md "wikilink")） - 取材対象地域は西北五地域。
-  - [弘前支局](https://ja.wikipedia.org/wiki/NHK弘前支局 "wikilink")（[弘前市](../Page/弘前市.md "wikilink")）
-  - [八戸支局](https://ja.wikipedia.org/wiki/NHK八戸支局 "wikilink")（[八戸市](https://ja.wikipedia.org/wiki/八戸市 "wikilink")）
+  - [弘前支局](../Page/NHK弘前支局.md "wikilink")（[弘前市](../Page/弘前市.md "wikilink")）
+  - [八戸支局](../Page/NHK八戸支局.md "wikilink")（[八戸市](https://ja.wikipedia.org/wiki/八戸市 "wikilink")）
 
 ## 局舎所在地の歴史
 
@@ -30,11 +30,11 @@
   - [八戸](https://ja.wikipedia.org/wiki/八戸市 "wikilink") 9ch 映像周波数199.24MHz出力500W（実効輻射電力5.6kW） 音声周波数203.74MHz出力125W（実効輻射電力1.4kW）（[天魔平](../Page/八戸テレビ・FM中継局.md "wikilink")）・区域内世帯数約12万世帯
   - [五所川原](../Page/五所川原市.md "wikilink") 46ch 映像周波数669.24MHz出力2kW（実効輻射電力51kW） 音声周波数673.74MHz出力500W（実効輻射電力13kW）（[中洲川山](../Page/五所川原テレビ中継局.md "wikilink")）・区域内世帯数約5万世帯
   - [上北烏帽子](https://ja.wikipedia.org/wiki/野辺地町 "wikilink") 51ch 映像周波数699.26MHz出力100W（実効輻射電力5.4kW） 音声周波数703.76MHz出力25W（実効輻射電力1.35kW）（[烏帽子岳](../Page/烏帽子岳_\(青森県\).md "wikilink")）
-  - [むつ](../Page/むつ市.md "wikilink") 4ch（[垂直偏波](https://ja.wikipedia.org/wiki/垂直偏波 "wikilink")） 映像周波数171.26MHz出力100W（実効輻射電力500W） 音声周波数175.76MHz出力25W（実効輻射電力125W）（[釜臥山](https://ja.wikipedia.org/wiki/釜臥山 "wikilink")）
-  - [深浦](https://ja.wikipedia.org/wiki/深浦町 "wikilink") 4ch 映像周波数171.26MHz出力10W 音声周波数175.76MHz出力2.5W（[八森山](../Page/八森山_\(青森県\).md "wikilink")）
+  - [むつ](../Page/むつ市.md "wikilink") 4ch（[垂直偏波](https://ja.wikipedia.org/wiki/垂直偏波 "wikilink")） 映像周波数171.26MHz出力100W（実効輻射電力500W） 音声周波数175.76MHz出力25W（実効輻射電力125W）（[釜臥山](../Page/釜臥山.md "wikilink")）
+  - [深浦](../Page/深浦町.md "wikilink") 4ch 映像周波数171.26MHz出力10W 音声周波数175.76MHz出力2.5W（[八森山](../Page/八森山_\(青森県\).md "wikilink")）
   - [南鰺ヶ沢](https://ja.wikipedia.org/wiki/鰺ヶ沢町 "wikilink") 8ch 映像周波数193.26MHz出力10W 音声周波数197.76MHz出力2.5W（[八景森](../Page/NHK南鰺ヶ沢中継局.md "wikilink")）
-  - [大鰐](https://ja.wikipedia.org/wiki/大鰐町 "wikilink") 9ch 映像周波数199.24MHz出力10W 音声周波数203.74MHz出力2.5W（[手代森](../Page/大鰐テレビ中継局.md "wikilink")）
-  - [小泊](https://ja.wikipedia.org/wiki/中泊町 "wikilink") 9ch 映像周波数199.25MHz出力100mW 音声周波数203.75MHz出力25mW（[三角山](../Page/小泊テレビ中継局.md "wikilink")）
+  - [大鰐](../Page/大鰐町.md "wikilink") 9ch 映像周波数199.24MHz出力10W 音声周波数203.74MHz出力2.5W（[手代森](../Page/大鰐テレビ中継局.md "wikilink")）
+  - [小泊](../Page/中泊町.md "wikilink") 9ch 映像周波数199.25MHz出力100mW 音声周波数203.75MHz出力25mW（[三角山](../Page/小泊テレビ中継局.md "wikilink")）
       - 他中継局あり
 
 ### アナログ教育テレビ JOTC-TV
@@ -62,7 +62,7 @@
   - [十和田](https://ja.wikipedia.org/wiki/十和田市 "wikilink") 1161kHz 100W（東十六番町、[青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")と共用）
   - 深浦 1584kHz 100W（蕨野）
   - 野辺地 846kHz 100W（野辺地蟹田）
-  - [田子](https://ja.wikipedia.org/wiki/田子町 "wikilink") 1026kHz 100W（[塚の上ミ](https://ja.wikipedia.org/wiki/田子テレビ中継局#AMラジオ放送 "wikilink")）
+  - [田子](../Page/田子町.md "wikilink") 1026kHz 100W（[塚の上ミ](https://ja.wikipedia.org/wiki/田子テレビ中継局#AMラジオ放送 "wikilink")）
 
 ### ラジオ第2放送 JOTC
 
@@ -92,7 +92,7 @@
   - 青森放送テレビがリモコンキーIDにアナログ親局と同じ「1」を使用しているため、総合テレビはアナログ親局と同じ「3」を使用している。
       - 送信柱 22.1mトラス型鉄塔+アンテナ取り付け部20m（NHK、RAB、[ATV](../Page/青森テレビ.md "wikilink")、[ABAと共同](../Page/青森朝日放送.md "wikilink")）（施工[電気興業](../Page/電気興業.md "wikilink")）
       - 送信空中線 4L4段4面、上下2式（上部RAB、ATV、ABA、下部NHK）
-      - 放送機形式（DG、DEそれぞれ） DTU-50/1R0S([NEC](../Page/日本電気.md "wikilink"))2台形式（1号機、2号機）、PA部（電力増幅部）は300Wユニットを並列合成、自動補償機能、空冷式、上部にあるディスプレイで[OFDM信号品質や作動状況をチェック可能](https://ja.wikipedia.org/wiki/直交周波数分割多重方式 "wikilink")、白をベースに青のデザインが印象的。
+      - 放送機形式（DG、DEそれぞれ） DTU-50/1R0S([NEC](../Page/日本電気.md "wikilink"))2台形式（1号機、2号機）、PA部（電力増幅部）は300Wユニットを並列合成、自動補償機能、空冷式、上部にあるディスプレイで[OFDM信号品質や作動状況をチェック可能](../Page/直交周波数分割多重方式.md "wikilink")、白をベースに青のデザインが印象的。
       - STL 送受信機は[東芝](../Page/東芝.md "wikilink")製、64[QAM変調のTS伝送方式](https://ja.wikipedia.org/wiki/直角位相振幅変調 "wikilink")、レドーム付き2mパラボラアンテナ、出力2W。
       - 送信局舎 鉄筋コンクリート3階建て21m×14m（NHK、RAB、ATV、ABA共同）、屋上にSTL用9m鉄塔架台と送信柱が建つ。
 
@@ -195,7 +195,7 @@
 <tr class="odd">
 <td><p>2009年<a href="../Page/6月15日.md" title="wikilink">6月15日</a>と<a href="https://ja.wikipedia.org/wiki/6月16日" title="wikilink">16日</a><br />
 11:05 - 11:30</p></td>
-<td><p><strong>むつ市で行われた<a href="https://ja.wikipedia.org/wiki/NHKのど自慢" title="wikilink">NHKのど自慢</a>の予選</strong></p></td>
+<td><p><strong>むつ市で行われた<a href="../Page/NHKのど自慢.md" title="wikilink">NHKのど自慢</a>の予選</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/情報パレット" title="wikilink">情報パレット</a></p></td>
 <td><p>無し</p></td>
 </tr>
@@ -232,8 +232,8 @@
 <td><p><a href="../Page/2011年.md" title="wikilink">2011年</a><a href="../Page/1月31日.md" title="wikilink">1月31日</a>-<a href="../Page/2月3日.md" title="wikilink">2月3日</a><br />
 19:30-19:58</p></td>
 <td><p>クローズアップ現代</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/生中継_ふるさと一番!" title="wikilink">生中継 ふるさと一番!</a>（<a href="https://ja.wikipedia.org/wiki/再放送" title="wikilink">再放送</a>）</strong></p></td>
-<td><p>当日昼に行われた<a href="https://ja.wikipedia.org/wiki/生放送" title="wikilink">生放送</a>の<a href="https://ja.wikipedia.org/wiki/再放送" title="wikilink">再放送</a>。なお、1月31日と2月2日は19:32[12]開始。余った数分は、番組案内「Watch!BS」などを放送。</p></td>
+<td><p><strong><a href="../Page/生中継_ふるさと一番!.md" title="wikilink">生中継 ふるさと一番!</a>（<a href="../Page/再放送.md" title="wikilink">再放送</a>）</strong></p></td>
+<td><p>当日昼に行われた<a href="../Page/生放送.md" title="wikilink">生放送</a>の<a href="../Page/再放送.md" title="wikilink">再放送</a>。なお、1月31日と2月2日は19:32[12]開始。余った数分は、番組案内「Watch!BS」などを放送。</p></td>
 </tr>
 <tr class="odd">
 <td><p>2011年<a href="../Page/8月6日.md" title="wikilink">8月6日</a><br />
@@ -256,7 +256,7 @@
 
 ##### その他
 
-  - 2007年[3月4日](../Page/3月4日.md "wikilink")まで[ワンセグ](https://ja.wikipedia.org/wiki/ワンセグ "wikilink")放送は地元配信ではなく、東北地区拠点局の[NHK仙台放送局](../Page/NHK仙台放送局.md "wikilink")のものを配信していた。このため、同日まで青森県内で宮城ローカルの放送および仙台局の[コールサインを視聴することができた](https://ja.wikipedia.org/wiki/識別信号 "wikilink")。
+  - 2007年[3月4日](../Page/3月4日.md "wikilink")まで[ワンセグ](../Page/ワンセグ.md "wikilink")放送は地元配信ではなく、東北地区拠点局の[NHK仙台放送局](../Page/NHK仙台放送局.md "wikilink")のものを配信していた。このため、同日まで青森県内で宮城ローカルの放送および仙台局の[コールサインを視聴することができた](https://ja.wikipedia.org/wiki/識別信号 "wikilink")。
   - [2016年](../Page/2016年.md "wikilink")の[大型連休より](https://ja.wikipedia.org/wiki/ゴールデンウィーク "wikilink")、祝日のローカルニュース枠・天気はすべて[仙台からの東北ブロックニュースに統一され](../Page/NHK仙台放送局.md "wikilink")、青森からの祝日ニュース枠と気象情報枠はテレビ・ラジオすべてで全廃した。
   - 2018年度からは、平日7時45分枠を除き、午前の青森ローカル枠も廃止され、仙台局発での東北地方の天気予報やニュース枠に置き換えられた。
       - 但し、重大な気象事案及び重大な災害が発生、又はその恐れがある時 は、青森からのローカルニュースに差し替えられる場合がある。
@@ -269,8 +269,8 @@
   - [八戸市](https://ja.wikipedia.org/wiki/八戸市 "wikilink")（八戸支局屋上※・[八戸駅](../Page/八戸駅.md "wikilink")（[ユートリー駐車場屋上](../Page/八戸地域地場産業振興センター.md "wikilink")）・[八戸港](../Page/八戸港.md "wikilink")（八戸水産会館屋上））
   - [三沢市](../Page/三沢市.md "wikilink")
   - [むつ市](../Page/むつ市.md "wikilink")（むつ支局入居ビル屋上）
-  - [深浦町](https://ja.wikipedia.org/wiki/深浦町 "wikilink")（深浦町役場屋上）
-  - [東通村](https://ja.wikipedia.org/wiki/東通村 "wikilink")（白糠漁港）
+  - [深浦町](../Page/深浦町.md "wikilink")（深浦町役場屋上）
+  - [東通村](../Page/東通村.md "wikilink")（白糠漁港）
   - [鰺ヶ沢町](https://ja.wikipedia.org/wiki/鰺ヶ沢町 "wikilink")（[青森スプリング・スキーリゾート](https://ja.wikipedia.org/wiki/青森スプリング・スキーリゾート "wikilink")、[2007年](../Page/2007年.md "wikilink")[12月7日](../Page/12月7日.md "wikilink")設置）
   - このほかに期間限定カメラも設置されている。
   - ※印のカメラは、HD化されたカメラ。
@@ -348,13 +348,13 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/北向敏幸" title="wikilink">北向敏幸</a>*</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK帯広放送局" title="wikilink">帯広</a></p></td>
+<td><p><a href="../Page/NHK帯広放送局.md" title="wikilink">帯広</a></p></td>
 <td><p>放送部副部長<br />
 青森県のニュース</p></td>
 <td><p>青森県出身</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/高市佳明" title="wikilink">高市佳明</a>*</p></td>
+<td><p><a href="../Page/高市佳明.md" title="wikilink">高市佳明</a>*</p></td>
 <td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
 <td><p><a href="../Page/あっぷるワイド.md" title="wikilink">あっぷるワイド</a><br />
 （キャスター）</p></td>
@@ -368,12 +368,12 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/本田俊介.md" title="wikilink">本田俊介</a>*</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK福島放送局" title="wikilink">福島</a></p></td>
+<td><p><a href="../Page/NHK福島放送局.md" title="wikilink">福島</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/土田翼" title="wikilink">土田翼</a></p></td>
+<td><p><a href="../Page/土田翼.md" title="wikilink">土田翼</a></p></td>
 <td><p><strong>初任地</strong></p></td>
 <td><p>あっぷるワイド<br />
 （リポーター）<br />
@@ -469,11 +469,11 @@
 6.  [（地デジ中継局）免許情報（青森県）](http://www.soumu.go.jp/soutsu/tohoku/digital/aomorilicense.html) - 総務省東北総合通信局
 7.  メインチャンネル（&アナログ）では[天地人が再放送されたため](https://ja.wikipedia.org/wiki/天地人_\(NHK大河ドラマ\) "wikilink")。
 8.  2011年7月24日12時まではアナログとのサイマル
-9.  「生中継 青森ねぶた祭」は[翌7日の](../Page/8月7日.md "wikilink")13:00 - 15:00にはメインチャンネル（&アナログ）も含めて[再放送](https://ja.wikipedia.org/wiki/再放送 "wikilink")扱いで放送し、『[スタジオパークからこんにちは](../Page/スタジオパークからこんにちは.md "wikilink")』は休止された。なお、2009年[8月19日](../Page/8月19日.md "wikilink")18:00 - 20:00には[BShiでも](https://ja.wikipedia.org/wiki/NHKデジタル衛星ハイビジョン "wikilink")「日本の祭2009 青森ねぶた祭」として全国放送された。
+9.  「生中継 青森ねぶた祭」は[翌7日の](../Page/8月7日.md "wikilink")13:00 - 15:00にはメインチャンネル（&アナログ）も含めて[再放送](../Page/再放送.md "wikilink")扱いで放送し、『[スタジオパークからこんにちは](../Page/スタジオパークからこんにちは.md "wikilink")』は休止された。なお、2009年[8月19日](../Page/8月19日.md "wikilink")18:00 - 20:00には[BShiでも](../Page/NHKデジタル衛星ハイビジョン.md "wikilink")「日本の祭2009 青森ねぶた祭」として全国放送された。
 10. 2010年のみEPG上は18:59から
 11. 2010年はBShiでも同時放送。なお、[8日](../Page/8月8日.md "wikilink")（7日深夜）0:50 - 2:50にメインチャンネル（&アナログ）でも**再放送**扱いで放送。
 12. 霧島連山「新燃岳」噴火関連で「NHKニュース7」が延長したため。
 13. 「日本の祭り2011 青森ねぶた祭り」は、[BSプレミアムとサイマル放送](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")（NHK青森放送局ホームページ及びあっぷるワイドから）。
-14. 18時のNHKニュース・[あっぷるワイド](../Page/あっぷるワイド.md "wikilink")・NHKニュース7・クローズアップ現代・番組スポット・19時58分の[気象情報](../Page/気象情報_\(NHK\).md "wikilink")・[NHK歌謡コンサート](https://ja.wikipedia.org/wiki/NHK歌謡コンサート "wikilink")「あふれる愛歌に込めて」・NHKニュースあおもり845
+14. 18時のNHKニュース・[あっぷるワイド](../Page/あっぷるワイド.md "wikilink")・NHKニュース7・クローズアップ現代・番組スポット・19時58分の[気象情報](../Page/気象情報_\(NHK\).md "wikilink")・[NHK歌謡コンサート](../Page/NHK歌謡コンサート.md "wikilink")「あふれる愛歌に込めて」・NHKニュースあおもり845
 15. BS1と同時放送。
 16. 番組進行上の終了時間は、7:59.30。

@@ -82,6 +82,6 @@ NESAバスメモリ・SCSIボード・LANボードなどが存在した。H98用
   - [PC-H98シリーズ](../Page/PC-H98シリーズ.md "wikilink")
   - [Cバス](../Page/Cバス.md "wikilink")
   - [98ローカルバス](../Page/98ローカルバス.md "wikilink")
-  - [APバス](https://ja.wikipedia.org/wiki/APバス "wikilink")
+  - [APバス](../Page/APバス.md "wikilink")
 
 [Category:コンピュータバス規格](https://ja.wikipedia.org/wiki/Category:コンピュータバス規格 "wikilink") [Category:日本電気のパーソナルコンピュータ](https://ja.wikipedia.org/wiki/Category:日本電気のパーソナルコンピュータ "wikilink")

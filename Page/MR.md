@@ -6,12 +6,12 @@
 ## 総記
 
   - [モーリタニア](../Page/モーリタニア.md "wikilink")の[国名コード](../Page/国名コード.md "wikilink")および[ccTLD](../Page/トップレベルドメイン.md "wikilink")
-  - [マラッタ語の](https://ja.wikipedia.org/wiki/マラーティー語 "wikilink")[ISO 639-1言語コード](https://ja.wikipedia.org/wiki/ISO_639 "wikilink")
+  - [マラッタ語の](../Page/マラーティー語.md "wikilink")[ISO 639-1言語コード](../Page/ISO_639.md "wikilink")
 
 ## 医学
 
   - [医薬情報担当者](../Page/医薬情報担当者.md "wikilink") (Medical Representatives) の略。
-  - [メチルレッド](https://ja.wikipedia.org/wiki/メチルレッド "wikilink") - Methyl Red ([酸塩基指示薬](../Page/酸塩基指示薬.md "wikilink"))
+  - [メチルレッド](../Page/メチルレッド.md "wikilink") - Methyl Red ([酸塩基指示薬](../Page/酸塩基指示薬.md "wikilink"))
   - [僧帽弁逆流症](../Page/僧帽弁閉鎖不全.md "wikilink") (Mitral Regurgitation) の略。
   - [精神発達遅滞](https://ja.wikipedia.org/wiki/精神発達遅滞 "wikilink")（精神遅滞）(Mental Retardation) の略。
   - [麻疹](../Page/麻疹.md "wikilink") (Measles) ・[風疹](../Page/風疹.md "wikilink") (Rubella) をまとめたもの。[MRワクチン](https://ja.wikipedia.org/wiki/MRワクチン "wikilink")も参照のこと。
@@ -22,7 +22,7 @@
   - [自動車](../Page/自動車.md "wikilink")の[駆動方式](https://ja.wikipedia.org/wiki/駆動方式 "wikilink")の一種。[ミッドシップエンジン・リアドライブ](https://ja.wikipedia.org/wiki/後輪駆動#ミッドシップエンジン・リアドライブ方式 "wikilink")。[ミッドシップ](../Page/ミッドシップ.md "wikilink")も参照のこと。
   - [トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[MR-Sのフランスでの名称](../Page/トヨタ・MR-S.md "wikilink")。[1](http://www.toyota.fr/showroom/mr2/index.html)
       - 尚、MR2・MR-S共に"MR"はMidship Runaboutの略称であり、同車が採用している上記の駆動方式のみを意味するものではない。
-  - [スズキ・MRワゴン](https://ja.wikipedia.org/wiki/スズキ・MRワゴン "wikilink")
+  - [スズキ・MRワゴン](../Page/スズキ・MRワゴン.md "wikilink")
       - 当初は上記の駆動方式の意味だったが、FFになった市販車では「Magical Relax」の略とされている。
   - [Mitsubishi](https://ja.wikipedia.org/wiki/三菱自動車 "wikilink") Racingの略で、一部の車種名に用いられている。
   - かつての[三菱ふそうの大型バスの型式](../Page/三菱ふそうトラック・バス.md "wikilink")。[三菱ふそう・エアロスター\#MRシリーズ](https://ja.wikipedia.org/wiki/三菱ふそう・エアロスター#MRシリーズ "wikilink")を参照。

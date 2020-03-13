@@ -9,7 +9,7 @@
 
 ## ソフトウェア特許
 
-[MPEG-4](../Page/MPEG-4.md "wikilink")[特許のライセンスを得ておらず](https://ja.wikipedia.org/wiki/ソフトウェア特許 "wikilink")、開発プロジェクトでは[ソースコード](../Page/ソースコード.md "wikilink")のみの配布とすることでライセンス問題を回避している。但し、日本においては、特許法第68条により、“業として”バイナリの配布・利用を行わない限り(つまり個人の私的利用などでは)特許権侵害には当たらない。
+[MPEG-4](../Page/MPEG-4.md "wikilink")[特許のライセンスを得ておらず](../Page/ソフトウェア特許.md "wikilink")、開発プロジェクトでは[ソースコード](../Page/ソースコード.md "wikilink")のみの配布とすることでライセンス問題を回避している。但し、日本においては、特許法第68条により、“業として”バイナリの配布・利用を行わない限り(つまり個人の私的利用などでは)特許権侵害には当たらない。
 
 ## その他
 
@@ -21,7 +21,7 @@
 
 <!-- end list -->
 
-  - [家電ではDivXビデオ対応の](../Page/家庭用電気機械器具.md "wikilink")[DVDプレーヤー](https://ja.wikipedia.org/wiki/DVDプレーヤー "wikilink")や[ゲーム機](../Page/ゲーム機.md "wikilink")などで再生可能。
+  - [家電ではDivXビデオ対応の](../Page/家庭用電気機械器具.md "wikilink")[DVDプレーヤー](../Page/DVDプレーヤー.md "wikilink")や[ゲーム機](../Page/ゲーム機.md "wikilink")などで再生可能。
 
 <!-- end list -->
 
@@ -38,7 +38,7 @@
 
 従来のビデオコーデック同様に[DirectShow](https://ja.wikipedia.org/wiki/DirectShow "wikilink")を利用した[コンテナ形式](../Page/コンテナフォーマット.md "wikilink")([AVI](../Page/Audio_Video_Interleave.md "wikilink")、[MKV等](../Page/Matroska.md "wikilink"))に格納することが可能で、映像のMPEG-4、音声のMP3、コンテナのAVIという組み合わせで使われることが多かった。
 
-ただし、AVIでは[Bフレーム](https://ja.wikipedia.org/wiki/フレーム間予測 "wikilink")（前後参照フレーム）を扱うことが出来ない仕様となっているので、[GOPをパック処理するなどの工夫が必要となる](https://ja.wikipedia.org/wiki/Group_Of_Pictures "wikilink")。また、一部デコーダーでは先読みするなどで対応している例があるが、MKVなどでデコードするよりも負荷がかかる傾向がある。
+ただし、AVIでは[Bフレーム](../Page/フレーム間予測.md "wikilink")（前後参照フレーム）を扱うことが出来ない仕様となっているので、[GOPをパック処理するなどの工夫が必要となる](https://ja.wikipedia.org/wiki/Group_Of_Pictures "wikilink")。また、一部デコーダーでは先読みするなどで対応している例があるが、MKVなどでデコードするよりも負荷がかかる傾向がある。
 
   - (Xvid+MP3).avi
   - (Xvid+AAC).mkv

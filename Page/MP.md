@@ -8,7 +8,7 @@
   - メガ[ピクセル](../Page/ピクセル.md "wikilink") () - 100万[ピクセル](../Page/ピクセル.md "wikilink")。特に、[デジタルカメラ](../Page/デジタルカメラ.md "wikilink")などが100万ピクセル以上の画素数をもつこと。
   - [憲兵](../Page/憲兵.md "wikilink")・軍警察 ()。日本では特に自衛隊[警務科](../Page/警務科.md "wikilink")。
   - [短機関銃](../Page/短機関銃.md "wikilink")を意味するドイツ語の""の略称。
-  - [マルチプロセッシング](https://ja.wikipedia.org/wiki/マルチプロセッシング "wikilink") () - コンピュータが複数の[CPUで処理を行なうこと](https://ja.wikipedia.org/wiki/中央処理装置 "wikilink")。
+  - [マルチプロセッシング](../Page/マルチプロセッシング.md "wikilink") () - コンピュータが複数の[CPUで処理を行なうこと](https://ja.wikipedia.org/wiki/中央処理装置 "wikilink")。
   - [マジックポイント](../Page/マジックポイント.md "wikilink") () - [ロールプレイングゲーム](../Page/ロールプレイングゲーム.md "wikilink")の魔力値。同種のものに『[ドラゴンクエスト](../Page/ドラゴンクエストシリーズ.md "wikilink")』の「マジックパワー  」など。
   - [国会議員](../Page/国会議員.md "wikilink") )。イギリスではしばしば[下院議員](https://ja.wikipedia.org/wiki/庶民院_\(イギリス\) "wikilink")。
   - [騎馬警察](https://ja.wikipedia.org/wiki/騎馬警察 "wikilink") ()
@@ -43,7 +43,7 @@
 <!-- end list -->
 
   - スポーツチーム
-      - [マンダリンパイレーツ](https://ja.wikipedia.org/wiki/愛媛マンダリンパイレーツ "wikilink") () - 愛媛の野球チーム。
+      - [マンダリンパイレーツ](../Page/愛媛マンダリンパイレーツ.md "wikilink") () - 愛媛の野球チーム。
       - [ミッケリン・パロイリャート](../Page/ミッケリン・パロイリャート.md "wikilink") () - フィンランドのサッカークラブ。
 
 <!-- end list -->
@@ -55,15 +55,15 @@
 <!-- end list -->
 
   - フィクション
-      - [マテリアル・パズル](../Page/マテリアル・パズル.md "wikilink") () - [土塚理弘](https://ja.wikipedia.org/wiki/土塚理弘 "wikilink")の漫画。
+      - [マテリアル・パズル](../Page/マテリアル・パズル.md "wikilink") () - [土塚理弘](../Page/土塚理弘.md "wikilink")の漫画。
       - [マリオパーティ](../Page/マリオパーティシリーズ.md "wikilink") () - コンピュータゲーム。
       - [マッチポイント](../Page/マッチポイント_\(映画\).md "wikilink") () - イギリス映画。
 
 <!-- end list -->
 
   - ラジオ番組
-      - [ABCミュージックパラダイス](../Page/ABCミュージックパラダイス.md "wikilink") ()（[朝日放送](https://ja.wikipedia.org/wiki/朝日放送ラジオ "wikilink")(ABC)）
-      - M☆P（Midnight Party） - 『[シンデレラドリーム ミッドナイト☆パーティー](https://ja.wikipedia.org/wiki/シンデレラドリーム_ミッドナイト☆パーティー "wikilink")』（[TBSラジオ](../Page/TBSラジオ.md "wikilink")）の略称。
+      - [ABCミュージックパラダイス](../Page/ABCミュージックパラダイス.md "wikilink") ()（[朝日放送](../Page/朝日放送ラジオ.md "wikilink")(ABC)）
+      - M☆P（Midnight Party） - 『[シンデレラドリーム ミッドナイト☆パーティー](../Page/シンデレラドリーム_ミッドナイト☆パーティー.md "wikilink")』（[TBSラジオ](../Page/TBSラジオ.md "wikilink")）の略称。
 
 <!-- end list -->
 
@@ -77,7 +77,7 @@
 
 ## mp
 
-  - [メゾピアノ](https://ja.wikipedia.org/wiki/強弱法 "wikilink") ()
+  - [メゾピアノ](../Page/強弱法.md "wikilink") ()
   - [融点](../Page/融点.md "wikilink") ()
   - [.mp](https://ja.wikipedia.org/wiki/.mp "wikilink") - 北マリアナ諸島の[国別ドメイン](https://ja.wikipedia.org/wiki/国別ドメイン "wikilink")
 

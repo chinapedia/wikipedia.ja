@@ -1,31 +1,31 @@
 > この記事は[INORAN](https://ja.wikipedia.org/wiki/INORAN)から翻訳されています。
 
 
-**INORAN**（イノラン、[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[9月29日](../Page/9月29日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")。[LUNA SEAのギタリスト](../Page/LUNA_SEA.md "wikilink")。本名は**井上 清信**（いのうえ きよのぶ）。 2012年に結成した**Muddy Apes**についても本項にて扱う。 愛称は「イノ」。
+**INORAN**（イノラン、[1970年](../Page/1970年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")。[LUNA SEAのギタリスト](../Page/LUNA_SEA.md "wikilink")。本名は**井上 清信**（いのうえ きよのぶ）。 2012年に結成した**Muddy Apes**についても本項にて扱う。 愛称は「イノ」。
 
 ## 略歴
 
   - [1991年](../Page/1991年.md "wikilink")、[LUNA SEAの](../Page/LUNA_SEA.md "wikilink")[ギタリスト](../Page/ギタリスト.md "wikilink")として[インディーズ](../Page/インディーズ.md "wikilink")デビュー。
   - [1992年](../Page/1992年.md "wikilink")、LUNA SEA [メジャーデビュー](https://ja.wikipedia.org/wiki/メジャーレーベル "wikilink")。
-  - [1993年](../Page/1993年.md "wikilink")、[Jと](https://ja.wikipedia.org/wiki/J_\(ミュージシャン\) "wikilink")[X JAPANの](../Page/X_JAPAN.md "wikilink")[hide](https://ja.wikipedia.org/wiki/hide "wikilink")とMxAxSxSを結成する。
+  - [1993年](../Page/1993年.md "wikilink")、[Jと](../Page/J_\(ミュージシャン\).md "wikilink")[X JAPANの](../Page/X_JAPAN.md "wikilink")[hide](https://ja.wikipedia.org/wiki/hide "wikilink")とMxAxSxSを結成する。
   - [1996年](../Page/1996年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")、LUNA SEA活動休止。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、ソロデビュー。
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、LUNA SEA活動再開。
   - [2000年](../Page/2000年.md "wikilink")、LUNA SEA終幕。
   - [2001年](../Page/2001年.md "wikilink")、シングル、アルバム、DVD、リミックスアルバムを立て続けてにリリース。
-  - [2002年](../Page/2002年.md "wikilink")、[KEN LLOYDと](https://ja.wikipedia.org/wiki/ケン・ロイド "wikilink")[FAKE?](https://ja.wikipedia.org/wiki/FAKE? "wikilink")を結成。ソロと並行して活動する。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、[RYUICHI](https://ja.wikipedia.org/wiki/河村隆一 "wikilink")、H.Hayama（[葉山拓亮](https://ja.wikipedia.org/wiki/葉山拓亮 "wikilink")）と[Tourbillonを結成する](https://ja.wikipedia.org/wiki/Tourbillon_\(バンド\) "wikilink")。
-  - 2005年[10月31日](../Page/10月31日.md "wikilink")をもって[FAKE?](https://ja.wikipedia.org/wiki/FAKE? "wikilink")を脱退。
+  - [2002年](../Page/2002年.md "wikilink")、[KEN LLOYDと](https://ja.wikipedia.org/wiki/ケン・ロイド "wikilink")[FAKE?](../Page/FAKE?.md "wikilink")を結成。ソロと並行して活動する。
+  - [2005年](../Page/2005年.md "wikilink")、[RYUICHI](../Page/河村隆一.md "wikilink")、H.Hayama（[葉山拓亮](../Page/葉山拓亮.md "wikilink")）と[Tourbillonを結成する](../Page/Tourbillon_\(バンド\).md "wikilink")。
+  - 2005年[10月31日](../Page/10月31日.md "wikilink")をもって[FAKE?](../Page/FAKE?.md "wikilink")を脱退。
   - [2009年](../Page/2009年.md "wikilink")、香港のバンドEVERの楽曲「必經之路」にゲストとして、編曲・レコーディングを参加しており、該当楽曲のMVにもINORANの姿が披露されている。その後、お互いのライヴイベントの出演もしていた。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")、LUNA SEA活動再開。
-  - [2012年](../Page/2012年.md "wikilink")、[フィーダーの](https://ja.wikipedia.org/wiki/フィーダー_\(バンド\) "wikilink")[タカ・ヒロセ](https://ja.wikipedia.org/wiki/タカ・ヒロセ "wikilink")、[8otto](../Page/8otto.md "wikilink")の[MAESON](https://ja.wikipedia.org/wiki/MAESON "wikilink")、フィーダーのサポートギタリストとしても活躍するとともに[Muddy Apesを結成し](https://ja.wikipedia.org/wiki/Muddy_Apes "wikilink")、[9月5日](../Page/9月5日.md "wikilink")に1stアルバム『Crush It』をリリース。アルバムの発売に伴いライヴも行われている。
+  - [2012年](../Page/2012年.md "wikilink")、[フィーダーの](../Page/フィーダー_\(バンド\).md "wikilink")[タカ・ヒロセ](https://ja.wikipedia.org/wiki/タカ・ヒロセ "wikilink")、[8otto](../Page/8otto.md "wikilink")の[MAESON](https://ja.wikipedia.org/wiki/MAESON "wikilink")、フィーダーのサポートギタリストとしても活躍するとともに[Muddy Apesを結成し](https://ja.wikipedia.org/wiki/Muddy_Apes "wikilink")、[9月5日](../Page/9月5日.md "wikilink")に1stアルバム『Crush It』をリリース。アルバムの発売に伴いライヴも行われている。
     [5月](https://ja.wikipedia.org/wiki/5月 "wikilink")、[清春](../Page/清春.md "wikilink")の楽曲「The Sun」のMusic Videoに架空のバンドメンバー役として参加（楽曲へは参加していない）。また、[12月26日](../Page/12月26日.md "wikilink")に発売された[OLDCODEX](https://ja.wikipedia.org/wiki/OLDCODEX "wikilink")の2ndアルバム『CONTRAST SILVER』のリード曲「HEAVEN」にサウンドプロデューサーとして参加しており、該当楽曲の作曲・編曲・レコーディング・ミュージッククリップ出演もしている。
 
 ## 概要
 
-  - [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[秦野市](../Page/秦野市.md "wikilink")出身。[神奈川県立大秦野高等学校](https://ja.wikipedia.org/wiki/神奈川県立大秦野高等学校 "wikilink")出身。身長170cm。[左利き](../Page/左利き.md "wikilink")。自らのファンクラブ「NO NAME?（ノー・ネーム）」を持つ。
+  - [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[秦野市](../Page/秦野市.md "wikilink")出身。[神奈川県立大秦野高等学校](../Page/神奈川県立大秦野高等学校.md "wikilink")出身。身長170cm。[左利き](../Page/左利き.md "wikilink")。自らのファンクラブ「NO NAME?（ノー・ネーム）」を持つ。
   - 「**INORAN**」の芸名の由来は、最初のあだ名だった「**井上ちゃん**」が変化していったものと思われ、本人も「**気が付いたら（いつの間にか）そう呼ばれていた**」とのこと。
-  - 中学時代に[Jと出会い](https://ja.wikipedia.org/wiki/J_\(ミュージシャン\) "wikilink")、LUNA SEAの原型となる「LUNACY」を高校1年生の頃に学祭バンドとして結成し、活動をスタートさせた。当時はコピー中心で、高2辺りからオリジナルを演り始めた。LUNA SEAのメンバーの[SUGIZO](https://ja.wikipedia.org/wiki/SUGIZO "wikilink")も同じ中学校に通っていたが、学年が異なっており（SUGIZOが1歳年長）、また、[マンモス校](../Page/マンモス校.md "wikilink")だったために気付かなかったという。（SUGIZOはINORANのことを知っていた）。
+  - 中学時代に[Jと出会い](../Page/J_\(ミュージシャン\).md "wikilink")、LUNA SEAの原型となる「LUNACY」を高校1年生の頃に学祭バンドとして結成し、活動をスタートさせた。当時はコピー中心で、高2辺りからオリジナルを演り始めた。LUNA SEAのメンバーの[SUGIZO](../Page/SUGIZO.md "wikilink")も同じ中学校に通っていたが、学年が異なっており（SUGIZOが1歳年長）、また、[マンモス校](../Page/マンモス校.md "wikilink")だったために気付かなかったという。（SUGIZOはINORANのことを知っていた）。
   - INORAN本人曰く、中学3年生の時にギターを一番最初にINORANに教えたのはJ。その時に教わった曲はマイケル・ジャクソンの「ビートイット」とアクションの「アメリカンキッス」。それから色々と洋楽を耳コピするようになり、よくコピーしていたのはデフレパード、モトリークルー、WASPなどで、Jの影響で日本のインディーズ物のムルバスやサヴラベルズ等々。土台はハードロックだが、チェッカーズなどジャンルに捉われずに、いい物はいいという感じで演っていたのがLUANCY。幅広く色々と演っていた。SUGIZOは当時のINORANについて、「この男は中3の時から長髪でした。俺の頭はチリチリでした」と語っている。\[1\]
   - LUNACYでオリジナルを演るようになった頃に「運命的」に昔のD'ERLANGERを聴き、「そこからパーッと一直線で、そっちの方へと走っていった」\[2\]。その流れで憧れだったギタリストは[D'ERLANGER](../Page/D'ERLANGER.md "wikilink")の[瀧川一郎](../Page/瀧川一郎.md "wikilink")で、デビュー後には交流も生まれた。ちなみに、2008年D'ERLANGER主催のイヴェントABSTINENCE'S DOOR \#002、2015年LUNA SEAの主催ロックフェス[LUNATIC FEST.にて](https://ja.wikipedia.org/wiki/LUNATIC_FEST. "wikilink")、それぞれゲストギタリストとしてD'ERLANGERとの共演を果たした。
   - LUNA SEA時代はギターソロなどはSUGIZOが担当し、本人は「ベーシックな部分をしっかり出す」ということを意識しており、「サイドギターって意識はある」と言っていた。しかし、INORANがずっとリズムを刻むということもなく、お互いにリードにもサイドにもなる\[3\]。また、作曲も手がけ、シングルの[カップリングの曲にINORAN原曲のものが多い](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")。
@@ -33,10 +33,10 @@
   - LUNACY時代の楽曲「もう死んだ振りさせない」ではSUGIZOではなくINORANが唯一ギターソロを披露しているが、公式に音源化はされていない。
   - 近年のソロ活動では、ギターソロを披露することも少しずつ増えている。例として、海外イベントにて「[I for You](../Page/I_for_You.md "wikilink")」をカバーした時に、イントロとソロパートを弾いていることを、動画サイトで確認できる。また、Muddy Apesのレコーディングにソロを弾いている動画も確認できる。
   - 車は[フェラーリ](../Page/フェラーリ.md "wikilink")（色は黒）を好み、[F1好きでもある](../Page/フォーミュラ1.md "wikilink")。1998年日本GPのスペシャルゲストとして招かれたことがあり、観戦のために海外まで足を伸ばすことも多い。また[F1](../Page/F1.md "wikilink")解説者の[片山右京](../Page/片山右京.md "wikilink")と仲が良い。
-  - [サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")ファンでもあり元日本代表選手の[田中隼磨](../Page/田中隼磨.md "wikilink")、[中田浩二らの選手とも交流がある](https://ja.wikipedia.org/wiki/中田浩二_\(サッカー選手\) "wikilink")。
-  - 元[JUDY AND MARYの](../Page/JUDY_AND_MARY.md "wikilink")[TAKUYA](https://ja.wikipedia.org/wiki/TAKUYA "wikilink")や[西川貴教](../Page/西川貴教.md "wikilink")と仲が良い。
+  - [サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")ファンでもあり元日本代表選手の[田中隼磨](../Page/田中隼磨.md "wikilink")、[中田浩二らの選手とも交流がある](../Page/中田浩二_\(サッカー選手\).md "wikilink")。
+  - 元[JUDY AND MARYの](../Page/JUDY_AND_MARY.md "wikilink")[TAKUYA](../Page/TAKUYA.md "wikilink")や[西川貴教](../Page/西川貴教.md "wikilink")と仲が良い。
   - ヘビースモーカーである。
-  - LUNA SEA結成初期から[ESPのエンドーサーであったが](../Page/イーエスピー.md "wikilink")2009年頃に契約を解消して、自身のシグネイチャー・モデルである[レスポール](https://ja.wikipedia.org/wiki/レスポール "wikilink")タイプのギターを持つことが無くなり、その後は[ギブソン・レスポール](../Page/ギブソン・レスポール.md "wikilink")、[フェンダー・ストラトキャスター](../Page/フェンダー・ストラトキャスター.md "wikilink")、[フェンダー・ジャズマスター](https://ja.wikipedia.org/wiki/フェンダー・ジャズマスター "wikilink")等を使うようになる。2010年12月にフェンダー社とのエンドースメント契約を結び、本人所有の59年製のジャズマスターを元にしたモデルをベースにした、INORANシグネイチャー・モデルが制作され、現在はこちらをメイン・ギターとして使用している。
+  - LUNA SEA結成初期から[ESPのエンドーサーであったが](../Page/イーエスピー.md "wikilink")2009年頃に契約を解消して、自身のシグネイチャー・モデルである[レスポール](https://ja.wikipedia.org/wiki/レスポール "wikilink")タイプのギターを持つことが無くなり、その後は[ギブソン・レスポール](../Page/ギブソン・レスポール.md "wikilink")、[フェンダー・ストラトキャスター](../Page/フェンダー・ストラトキャスター.md "wikilink")、[フェンダー・ジャズマスター](../Page/フェンダー・ジャズマスター.md "wikilink")等を使うようになる。2010年12月にフェンダー社とのエンドースメント契約を結び、本人所有の59年製のジャズマスターを元にしたモデルをベースにした、INORANシグネイチャー・モデルが制作され、現在はこちらをメイン・ギターとして使用している。
   - 2019年のLUNA SEA武道館公演にて「FACE TO FACE」でパーカッションプレイを披露。
 
 ## ディスコグラフィ
@@ -127,7 +127,7 @@
 </div>
 </div></li>
 </ol></td>
-<td><p>会場のみ＆数量限定発売。<a href="https://ja.wikipedia.org/wiki/Roen" title="wikilink">Roen</a>との全面<a href="https://ja.wikipedia.org/wiki/コラボレーション" title="wikilink">コラボレーション</a>。）</p></td>
+<td><p>会場のみ＆数量限定発売。<a href="https://ja.wikipedia.org/wiki/Roen" title="wikilink">Roen</a>との全面<a href="../Page/コラボレーション.md" title="wikilink">コラボレーション</a>。）</p></td>
 </tr>
 <tr class="odd">
 <td><p>5th</p></td>
@@ -679,7 +679,7 @@ WPBL-90002:DVD</p></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/4月26日.md" title="wikilink">4月26日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/4月26日.md" title="wikilink">4月26日</a></p></td>
 <td><p><strong>INORAN LIVE "ANOTHER ROOM"</strong></p></td>
 <td><p>BFBA-13:DVD</p></td>
 <td></td>
@@ -824,16 +824,16 @@ KICS-1770</p></td>
 
 ### 所属レーベルの変遷
 
-  - TMC（販売元：[テイチク](https://ja.wikipedia.org/wiki/テイチクエンタテインメント "wikilink")）\<TMDL, TMCN\>
+  - TMC（販売元：[テイチク](../Page/テイチクエンタテインメント.md "wikilink")）\<TMDL, TMCN\>
   - [イーストウエスト・ジャパン](https://ja.wikipedia.org/wiki/イーストウエスト・ジャパン "wikilink")（現・ワーナーミュージック・ジャパン）\<AMCM, DDDW, AMVM, AMBM\>
-  - [ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")\<WPVL, WPBL\>
-  - [ベルウッド・レコード](https://ja.wikipedia.org/wiki/ベルウッド・レコード "wikilink")\<BZCS, BFBA, BZBM\>
+  - [ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")\<WPVL, WPBL\>
+  - [ベルウッド・レコード](../Page/ベルウッド・レコード.md "wikilink")\<BZCS, BFBA, BZBM\>
   - [キングレコード](../Page/キングレコード.md "wikilink")\<KICS, KIZC, KIBM\>
 
 ### 書籍
 
   - Monophonic（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")、[フールズメイト](https://ja.wikipedia.org/wiki/フールズメイト "wikilink")、ISBN 978-4938716523、絶版）
-  - INORAN (GUITAR MAGAZINE SPECIAL ARTIST SERIES)（ムック）（[2015年](../Page/2015年.md "wikilink")[3月13日](../Page/3月13日.md "wikilink")、[リットーミュージック](https://ja.wikipedia.org/wiki/リットーミュージック "wikilink")、ISBN 978-4845625659）
+  - INORAN (GUITAR MAGAZINE SPECIAL ARTIST SERIES)（ムック）（[2015年](../Page/2015年.md "wikilink")[3月13日](../Page/3月13日.md "wikilink")、[リットーミュージック](../Page/リットーミュージック.md "wikilink")、ISBN 978-4845625659）
 
 ## ミュージックビデオ
 
@@ -867,7 +867,7 @@ KICS-1770</p></td>
         [2004年](../Page/2004年.md "wikilink")10月12日、13日、14日 LIQUIDROOM ebisu
   - A RUN-DOWN
       -
-        [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")4月26日、27日 Shibuya O-EAST / 4月29日 LIQUIDROOM ebisu
+        [2005年](../Page/2005年.md "wikilink")4月26日、27日 Shibuya O-EAST / 4月29日 LIQUIDROOM ebisu
   - TOUR 2006 photograph
       -
         [2006年](../Page/2006年.md "wikilink")9月26日、27日 Shibuya O-East / 9月29日 大阪BIG CAT / 10月1日 名古屋BOTTOM LINE / 10月13日 Shibuya O-East
@@ -940,7 +940,7 @@ KICS-1770</p></td>
   - TOUR 2016 –BEAUTIFUL NOW again-
       -
         [2016年](../Page/2016年.md "wikilink") 4月5日 渋谷CLUB QUATTRO / 4月7日 京都 磔磔 / 4月9日 大阪BIGCAT / 4月10日(日) 静岡 LiveHouse浜松窓枠 / 4月13日 名古屋E.L.L. / 4月15日 金沢AZ / 4月16日 長野CLUB JUNK BOX / 4月21日 仙台darwin / 4月24日 LIQUIDROOM ebisu
-  - [SUGIZO](https://ja.wikipedia.org/wiki/SUGIZO "wikilink") vs INORAN PRESENTS BEST BOUT〜L2/5〜
+  - [SUGIZO](../Page/SUGIZO.md "wikilink") vs INORAN PRESENTS BEST BOUT〜L2/5〜
       -
         2016年 6月9日 赤坂BLITZ
   - ASIA TOUR 2016
@@ -952,7 +952,7 @@ KICS-1770</p></td>
   - NO NAME? MEMBERS’ LIMITED LIVE -Solo 20th Anniversary Special-
       -
         [2017年](../Page/2017年.md "wikilink") 5月3日 恵比寿LIQUIDROOM<sup>\*</sup>
-  - [SUGIZO](https://ja.wikipedia.org/wiki/SUGIZO "wikilink") vs INORAN PRESENTS BEST BOUT 2017〜L2/5〜
+  - [SUGIZO](../Page/SUGIZO.md "wikilink") vs INORAN PRESENTS BEST BOUT 2017〜L2/5〜
       -
         2017年 6月9日 なんばHatch / 6月11日 Zepp Tokyo / 6月17日 Music Zone @E-Max (香港) / 6月18日 Music Zone @E-Max (香港) / 6月24日 Zepp@BIGBOX Singapore (シンガポール)
   - SOLO 20TH ANNIVERSARY TOUR 2017 - INTENSE / MELLOW -
@@ -970,7 +970,7 @@ KICS-1770</p></td>
   - 2019 NEW YEAR PREMIUM ACOUSTIC LIVE
       -
         [2019年](../Page/2019年.md "wikilink") 1月20日 Billboard Live TOKYO / 2月1日 Billboard Live OSAKA
-        スペシャルゲスト - [葉山拓亮](https://ja.wikipedia.org/wiki/葉山拓亮 "wikilink")
+        スペシャルゲスト - [葉山拓亮](../Page/葉山拓亮.md "wikilink")
   - TOUR 2019「COWBOY PUNI-SHIT」
       -
         2019年 8月21日 新宿BLAZE<sup>\*</sup> / 8月24日 神戸VARIT.<sup>\*</sup> / 8月25日 LIVE ROXY静岡 / 8月31日 金沢AZ / 9月1日 長野CLUB JUNK BOX / 9月13日 広島SECOND CRUTCH / 9月14日 岡山CRAZYMAMA KINGDOM / 9月16日 福岡DRUM Be-1 / 9月20日 仙台darwin / 9月22日 名古屋ElectricLadyLand / 9月23日 OSAKA MUSE / 9月29日 TSUTAYA O-EAST (B-DAY LIVE CODE929/2019)
@@ -997,7 +997,7 @@ KICS-1770</p></td>
 ### 2012年〜現在のサポートメンバー
 
   - [Yukio Murata](https://ja.wikipedia.org/wiki/村田有希生 "wikilink") ([my way my love](../Page/MY_WAY_MY_LOVE.md "wikilink")) (Gt)
-  - [u:zo](https://ja.wikipedia.org/wiki/RIZE#元メンバー "wikilink")（[YELLOW FRIED CHICKENz](https://ja.wikipedia.org/wiki/YELLOW_FRIED_CHICKENz "wikilink")、元[RIZE](https://ja.wikipedia.org/wiki/RIZE "wikilink")） (Ba)
+  - [u:zo](https://ja.wikipedia.org/wiki/RIZE#元メンバー "wikilink")（[YELLOW FRIED CHICKENz](https://ja.wikipedia.org/wiki/YELLOW_FRIED_CHICKENz "wikilink")、元[RIZE](../Page/RIZE.md "wikilink")） (Ba)
   - [RYO YAMAGATA](https://ja.wikipedia.org/wiki/RYO_YAMAGATA "wikilink")\[6\]（Dr）
 
 ### 過去のサポートメンバー
@@ -1012,24 +1012,24 @@ KICS-1770</p></td>
   - TOSHIHIRO NARA（[奈良敏博](https://ja.wikipedia.org/wiki/サンハウス#旧メンバー "wikilink")）（Ba）
   - FIRE (Ba)
   - [チロリン](https://ja.wikipedia.org/wiki/チロリン "wikilink") (Ba)
-  - MINATO（[湊雅史](https://ja.wikipedia.org/wiki/湊雅史 "wikilink")）（Dr）
+  - MINATO（[湊雅史](../Page/湊雅史.md "wikilink")）（Dr）
   - EBY（Dr）
   - KAORU（カオル、[野口薫](../Page/野口薫.md "wikilink")）（Dr）
-  - [沼澤尚](https://ja.wikipedia.org/wiki/沼澤尚 "wikilink")（Dr）
+  - [沼澤尚](../Page/沼澤尚.md "wikilink")（Dr）
   - JUN TANAKA（Dr）
   - KEN SHIBUYA（[渋谷憲](https://ja.wikipedia.org/wiki/渋谷憲 "wikilink")）（Dr）
   - DJ BASS（[DJ](../Page/ディスクジョッキー.md "wikilink")）
-  - d-kiku（[菊地大輔](https://ja.wikipedia.org/wiki/菊地大輔 "wikilink")）（Key, [マニピュレーター](https://ja.wikipedia.org/wiki/マニピュレーター "wikilink")）
+  - d-kiku（[菊地大輔](https://ja.wikipedia.org/wiki/菊地大輔 "wikilink")）（Key, [マニピュレーター](../Page/マニピュレーター.md "wikilink")）
 
 ### ゲストミュージシャン
 
-  - [SUGIZO](https://ja.wikipedia.org/wiki/SUGIZO "wikilink")：胡弓
-  - [真矢](https://ja.wikipedia.org/wiki/真矢_\(ドラマー\) "wikilink")：ドラム
-  - [葉山拓亮](https://ja.wikipedia.org/wiki/葉山拓亮 "wikilink")：ピアノ、キーボード
+  - [SUGIZO](../Page/SUGIZO.md "wikilink")：胡弓
+  - [真矢](../Page/真矢_\(ドラマー\).md "wikilink")：ドラム
+  - [葉山拓亮](../Page/葉山拓亮.md "wikilink")：ピアノ、キーボード
   - [笹川美和](https://ja.wikipedia.org/wiki/笹川美和 "wikilink")：ボーカル
   - [SARAH](https://ja.wikipedia.org/wiki/SARAH（歌手） "wikilink")：ボーカル
   - [NAI-WEN YANG](https://ja.wikipedia.org/wiki/NAI-WEN_YANG "wikilink")：ボーカル
-  - [河村隆一](https://ja.wikipedia.org/wiki/河村隆一 "wikilink")：ボーカル
+  - [河村隆一](../Page/河村隆一.md "wikilink")：ボーカル
   - [OLIVIA](https://ja.wikipedia.org/wiki/OLIVIA_\(日本の歌手\) "wikilink")：ボーカル
   - [西川貴教](../Page/西川貴教.md "wikilink")：ボーカル
   - [雅-MIYAVI-](https://ja.wikipedia.org/wiki/雅-MIYAVI- "wikilink")：ギター
@@ -1042,7 +1042,7 @@ KICS-1770</p></td>
 
   - INORAN - ギター（LUNA SEA）
 
-  - [タカ・ヒロセ](https://ja.wikipedia.org/wiki/タカ・ヒロセ "wikilink") - ベース（[フィーダー](https://ja.wikipedia.org/wiki/フィーダー_\(バンド\) "wikilink")）
+  - [タカ・ヒロセ](https://ja.wikipedia.org/wiki/タカ・ヒロセ "wikilink") - ベース（[フィーダー](../Page/フィーダー_\(バンド\).md "wikilink")）
 
   - MAESON - ボーカル（[8otto](../Page/8otto.md "wikilink")）
 
@@ -1077,16 +1077,16 @@ KICS-1770</p></td>
 ## 関連項目
 
   - [LUNA SEA](../Page/LUNA_SEA.md "wikilink")
-      - [RYUICHI](https://ja.wikipedia.org/wiki/河村隆一 "wikilink")
-      - [SUGIZO](https://ja.wikipedia.org/wiki/SUGIZO "wikilink")
-      - [J](https://ja.wikipedia.org/wiki/J_\(ミュージシャン\) "wikilink")
-      - [真矢](https://ja.wikipedia.org/wiki/真矢_\(ドラマー\) "wikilink")
+      - [RYUICHI](../Page/河村隆一.md "wikilink")
+      - [SUGIZO](../Page/SUGIZO.md "wikilink")
+      - [J](../Page/J_\(ミュージシャン\).md "wikilink")
+      - [真矢](../Page/真矢_\(ドラマー\).md "wikilink")
   - [hide](https://ja.wikipedia.org/wiki/hide "wikilink")
-  - [Tourbillon](https://ja.wikipedia.org/wiki/Tourbillon_\(バンド\) "wikilink")
+  - [Tourbillon](../Page/Tourbillon_\(バンド\).md "wikilink")
   - [西川貴教](../Page/西川貴教.md "wikilink") ([T.M.Revolution](../Page/T.M.Revolution.md "wikilink"))
   - [清春](../Page/清春.md "wikilink")
-  - [葉山拓亮](https://ja.wikipedia.org/wiki/葉山拓亮 "wikilink")
-  - [FAKE?](https://ja.wikipedia.org/wiki/FAKE? "wikilink")
+  - [葉山拓亮](../Page/葉山拓亮.md "wikilink")
+  - [FAKE?](../Page/FAKE?.md "wikilink")
   - [KEN LLOYD](https://ja.wikipedia.org/wiki/KEN_LLOYD "wikilink")
 
 ## 外部リンク

@@ -11,7 +11,7 @@
 
 IBMは1996年3月にチボリシステムズ社を買収して、IBMソフトウェア事業部に統合した。チボリシステムズ社の製品は、IBMの従来からのシステム管理製品である[NetView](https://ja.wikipedia.org/wiki/NetView "wikilink")、[SystemView](https://ja.wikipedia.org/wiki/SystemView "wikilink")、ADSMなどと統合され、「Tivoli Software」ブランドとなった。
 
-IBMは更に、[2004年](../Page/2004年.md "wikilink")4月には監視ソフトウェアの[OMEGAMONシリーズを持つ](https://ja.wikipedia.org/wiki/:en:IBM_OMEGAMON "wikilink")[Candle Corporation社](https://ja.wikipedia.org/wiki/Candle_Corporation "wikilink")\[1\]、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")12月には大規模監視ソフトウェアの[NetCool](https://ja.wikipedia.org/wiki/NetCool "wikilink")シリーズを持つ[Micromuse](https://ja.wikipedia.org/wiki/Micromuse "wikilink")社\[2\]、2006年10月には資産管理ソフトウェアの[Maximo](https://ja.wikipedia.org/wiki/Maximo "wikilink")シリーズを持つ[MRO Software社を買収](https://ja.wikipedia.org/wiki/MRO_Software "wikilink")\[3\]し、それぞれTivoliブランドに追加・統合した。
+IBMは更に、[2004年](../Page/2004年.md "wikilink")4月には監視ソフトウェアの[OMEGAMONシリーズを持つ](https://ja.wikipedia.org/wiki/:en:IBM_OMEGAMON "wikilink")[Candle Corporation社](https://ja.wikipedia.org/wiki/Candle_Corporation "wikilink")\[1\]、[2005年](../Page/2005年.md "wikilink")12月には大規模監視ソフトウェアの[NetCool](https://ja.wikipedia.org/wiki/NetCool "wikilink")シリーズを持つ[Micromuse](https://ja.wikipedia.org/wiki/Micromuse "wikilink")社\[2\]、2006年10月には資産管理ソフトウェアの[Maximo](https://ja.wikipedia.org/wiki/Maximo "wikilink")シリーズを持つ[MRO Software社を買収](https://ja.wikipedia.org/wiki/MRO_Software "wikilink")\[3\]し、それぞれTivoliブランドに追加・統合した。
 
 ## 製品
 

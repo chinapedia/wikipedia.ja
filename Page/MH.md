@@ -15,7 +15,7 @@
       - [MH符号](https://ja.wikipedia.org/wiki/MH符号 "wikilink")（）
       - [マンホール](../Page/マンホール.md "wikilink") ()
       - [悪性高熱症](../Page/悪性高熱症.md "wikilink") ()
-      - [メンタルヘルス](https://ja.wikipedia.org/wiki/メンタルヘルス "wikilink") ()
+      - [メンタルヘルス](../Page/メンタルヘルス.md "wikilink") ()
       - [ミュージックホーン](https://ja.wikipedia.org/wiki/ミュージックホーン "wikilink") () - 自動車用クラクションの種類
       - [モンスターハウス](https://ja.wikipedia.org/wiki/モンスターハウス_\(ゲーム\) "wikilink") () - [ロールプレイングゲーム](../Page/ロールプレイングゲーム.md "wikilink")の用語。
       - ミッテンゼー・ホイヘンス () - [接眼レンズの種類](https://ja.wikipedia.org/wiki/アイピース "wikilink")。
@@ -31,7 +31,7 @@
       - [マレーシア航空](https://ja.wikipedia.org/wiki/マレーシア航空 "wikilink") () の[IATA](../Page/国際航空運送協会.md "wikilink")[航空会社コード](../Page/航空会社コード.md "wikilink")。
       - [ミートホープ](https://ja.wikipedia.org/wiki/ミートホープ "wikilink") () - 日本の食肉加工会社。
       - [MHグループ](../Page/エム・エイチ・グループ.md "wikilink") - 日本の美容院持ち株会社。[モッズヘアー](https://ja.wikipedia.org/wiki/モッズヘアー "wikilink") () の日本展開で知られる。
-      - [HM企画](https://ja.wikipedia.org/wiki/星野真里 "wikilink") - 日本の芸能事務所。
+      - [HM企画](../Page/星野真里.md "wikilink") - 日本の芸能事務所。
   - 地名
       - [マーシャル諸島](https://ja.wikipedia.org/wiki/マーシャル諸島 "wikilink") () の[ISO国名コード](https://ja.wikipedia.org/wiki/ISO国名コード "wikilink")。
       - [モントセラト](../Page/モントセラト.md "wikilink") () の [FIPS 10-4](https://ja.wikipedia.org/wiki/:en:List_of_FIPS_country_codes "wikilink") [国名コード](../Page/国名コード.md "wikilink")。
@@ -40,7 +40,7 @@
   - 製品・サービス
       - \- パブリックドメインの[メールクライアント](https://ja.wikipedia.org/wiki/メールクライアント "wikilink")。
 
-      - [メディテレーニアンハーバー](https://ja.wikipedia.org/wiki/メディテレーニアンハーバー "wikilink") () - [東京ディズニーシー](../Page/東京ディズニーシー.md "wikilink")のテーマポート（地区）。
+      - [メディテレーニアンハーバー](../Page/メディテレーニアンハーバー.md "wikilink") () - [東京ディズニーシー](../Page/東京ディズニーシー.md "wikilink")のテーマポート（地区）。
 
       - [日野・MH](../Page/日野・MH.md "wikilink") - [日野自動車](../Page/日野自動車.md "wikilink")の梯子消防車。
   - その他
@@ -52,9 +52,9 @@
 
 ## mH
 
-  - [ミリヘンリー](https://ja.wikipedia.org/wiki/ミリヘンリー "wikilink") () - [インダクタンス](../Page/インダクタンス.md "wikilink")の単位。1/1000[ヘンリー](https://ja.wikipedia.org/wiki/ヘンリー "wikilink")。
+  - [ミリヘンリー](https://ja.wikipedia.org/wiki/ミリヘンリー "wikilink") () - [インダクタンス](../Page/インダクタンス.md "wikilink")の単位。1/1000[ヘンリー](../Page/ヘンリー.md "wikilink")。
 
 ## mh
 
   - [.mh](https://ja.wikipedia.org/wiki/.mh "wikilink") - マーシャル諸島の[国別トップレベルドメイン](https://ja.wikipedia.org/wiki/国別トップレベルドメイン "wikilink")。
-  - [マーシャル語](https://ja.wikipedia.org/wiki/マーシャル語 "wikilink") () の [ISO 639-1言語コード](https://ja.wikipedia.org/wiki/ISO_639 "wikilink")。
+  - [マーシャル語](https://ja.wikipedia.org/wiki/マーシャル語 "wikilink") () の [ISO 639-1言語コード](../Page/ISO_639.md "wikilink")。

@@ -7,9 +7,9 @@
 
 この番組は[山口県](../Page/山口県.md "wikilink")内において、唯一ローカル情報を伝える早朝番組である。さらに、他局が番組タイトルを変えつつ放送する中で唯一変えていない番組でもあり、[NNN系列の早朝番組としても最古参となる](../Page/日本ニュースネットワーク.md "wikilink")\[1\]。同時に[朝のローカル情報番組の中では](https://ja.wikipedia.org/wiki/朝の情報番組#ローカル番組 "wikilink")[朝日放送テレビ](../Page/朝日放送テレビ.md "wikilink")の『[おはよう朝日です](../Page/おはよう朝日です.md "wikilink")（おはよう朝日土曜日です）』に次いで2番目の長さである。
 
-[どさんこワイド\!\!朝\!](https://ja.wikipedia.org/wiki/どさんこワイド!!朝! "wikilink")（[札幌テレビ](https://ja.wikipedia.org/wiki/札幌テレビ放送 "wikilink")）、[朝生ワイド す・またん\!](https://ja.wikipedia.org/wiki/朝生ワイド_す・またん! "wikilink")（[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")）、[バリはやッ\!ZIP\!](https://ja.wikipedia.org/wiki/バリはやッ!ZIP! "wikilink")（[福岡放送](../Page/福岡放送.md "wikilink")）とともに『[Oha\!4 NEWS LIVE](../Page/Oha!4_NEWS_LIVE.md "wikilink")』（[日テレNEWS24](https://ja.wikipedia.org/wiki/日テレNEWS24 "wikilink")制作）第2部および『[ZIP\!](https://ja.wikipedia.org/wiki/ZIP! "wikilink")』5:50 - 6:30枠の時間帯を差し替えている数少ない局であり、基幹局以外では唯一である。ただし、番組の中で『Oha\!4 NEWS LIVE』（第2部）の一部コーナーとNNN協定により『ZIP\!』の『[NNNニュースZIP\!](https://ja.wikipedia.org/wiki/NNNニュースZIP! "wikilink")』を同時ネットするほか、札幌テレビ・読売テレビ・福岡放送とは異なり『[ZIP\!](https://ja.wikipedia.org/wiki/ZIP! "wikilink")』の6:30以降の部分はほぼフルネットとなっている（6:56の『ZIP\! WEATHER・関東』を長年続く『**JAの天気予報**』に差し替えるのみ）。
+[どさんこワイド\!\!朝\!](https://ja.wikipedia.org/wiki/どさんこワイド!!朝! "wikilink")（[札幌テレビ](../Page/札幌テレビ放送.md "wikilink")）、[朝生ワイド す・またん\!](https://ja.wikipedia.org/wiki/朝生ワイド_す・またん! "wikilink")（[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")）、[バリはやッ\!ZIP\!](https://ja.wikipedia.org/wiki/バリはやッ!ZIP! "wikilink")（[福岡放送](../Page/福岡放送.md "wikilink")）とともに『[Oha\!4 NEWS LIVE](../Page/Oha!4_NEWS_LIVE.md "wikilink")』（[日テレNEWS24](https://ja.wikipedia.org/wiki/日テレNEWS24 "wikilink")制作）第2部および『[ZIP\!](https://ja.wikipedia.org/wiki/ZIP! "wikilink")』5:50 - 6:30枠の時間帯を差し替えている数少ない局であり、基幹局以外では唯一である。ただし、番組の中で『Oha\!4 NEWS LIVE』（第2部）の一部コーナーとNNN協定により『ZIP\!』の『[NNNニュースZIP\!](https://ja.wikipedia.org/wiki/NNNニュースZIP! "wikilink")』を同時ネットするほか、札幌テレビ・読売テレビ・福岡放送とは異なり『[ZIP\!](https://ja.wikipedia.org/wiki/ZIP! "wikilink")』の6:30以降の部分はほぼフルネットとなっている（6:56の『ZIP\! WEATHER・関東』を長年続く『**JAの天気予報**』に差し替えるのみ）。
 
-一時期、5:25 - 5:55の枠にて[テレビ山口](../Page/テレビ山口.md "wikilink")で同じ山口ローカルの情報番組『[ぐちモニ](https://ja.wikipedia.org/wiki/ぐちモニ "wikilink")』を放送していた時期もある（2005.3 - 2005.9）。
+一時期、5:25 - 5:55の枠にて[テレビ山口](../Page/テレビ山口.md "wikilink")で同じ山口ローカルの情報番組『[ぐちモニ](../Page/ぐちモニ.md "wikilink")』を放送していた時期もある（2005.3 - 2005.9）。
 
 番組のテーマソングやジングルは開始時からほぼ変わらず使用されている（作曲は周南市在住の中越和明 。「ほぼ」というのはメロディは変わらないものの、中越によってアレンジが加えられているためで現在のものは3代目）。CMアイキャッチは女声で「♪さ〜わ〜や〜か、モ〜ニ〜ング」と歌うもの。
 
@@ -28,22 +28,22 @@
 
 ## 歴史
 
-  - [1992年](../Page/1992年.md "wikilink")3月30日：ネットしていた『[ルンルンあさ6生情報](https://ja.wikipedia.org/wiki/ルンルンあさ6生情報 "wikilink")』の放送終了に伴い放送開始。
-      - 当時の放送枠は6:00 - 7:00（ただし年末年始は休止となり、年末は『[ジパングあさ6](https://ja.wikipedia.org/wiki/ジパングあさ6 "wikilink")』を臨時フルネット）
+  - [1992年](../Page/1992年.md "wikilink")3月30日：ネットしていた『[ルンルンあさ6生情報](../Page/ルンルンあさ6生情報.md "wikilink")』の放送終了に伴い放送開始。
+      - 当時の放送枠は6:00 - 7:00（ただし年末年始は休止となり、年末は『[ジパングあさ6](../Page/ジパングあさ6.md "wikilink")』を臨時フルネット）
       - 初代キャスターは[向田好美](https://ja.wikipedia.org/wiki/向田好美 "wikilink")、[國本泰功](../Page/國本泰功.md "wikilink")。
       - 6:15頃 - 6:35頃に『ジパング』の以下のコーナーを内包。ニュースジパングとここがポイント\!の間に挟まれた関東ローカル枠は山口発の県内天気予報に差し替え。
     <!-- end list -->
       -
-        ▽6:15 全国ニュース枠である『[NNNニュースジパング](https://ja.wikipedia.org/wiki/NNNニュースジパング "wikilink")』
+        ▽6:15 全国ニュース枠である『[NNNニュースジパング](../Page/NNNニュースジパング.md "wikilink")』
         ▽6:25 「ここがポイント\!」
         ▽6:31 「スポーツジパング・スポーツ631」
   - [1994年](../Page/1994年.md "wikilink")4月4日：『[いきいきやまぐち455](https://ja.wikipedia.org/wiki/いきいきやまぐち455 "wikilink")』開始に伴い向田が降板、水田薫に交代。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")3月31日：キャスターが[山本博子](https://ja.wikipedia.org/wiki/山本博子 "wikilink")と[倉重悟](https://ja.wikipedia.org/wiki/倉重悟 "wikilink")になる。番組開始時刻も1分前倒しの**5:59開始**になる。
   - [2001年](../Page/2001年.md "wikilink")4月2日：女性キャスターが[竹島知江](../Page/竹島知江.md "wikilink")になる。
   - [2001年](../Page/2001年.md "wikilink")10月1日：『ジパングあさ6』、『[ズームイン\!\!朝\!](../Page/ズームイン!!朝!.md "wikilink")』終了、『[ズームイン\!\!SUPER](https://ja.wikipedia.org/wiki/ズームイン!!SUPER "wikilink")』と早朝ニュース『[ニュース朝いち430](../Page/ニュース朝いち430.md "wikilink")』\[3\]開始に伴い、番組開始時刻を29分繰り上げ、日本テレビにおける『ズームイン\!\!SUPER』（第1部）開始時刻と同時刻の**5:30開始**になる。
-      - 『ジパングあさ6』での内包枠の後継ぎとして、5:31頃 - 5:46頃まで『ズームイン\!\!SUPER』（第1部）の「SUPERフラッシュ」「新聞ナナメ読み」「スポーツヘッドライン」と、6:00 - 6:08の全国ニュース枠である『[NNNニュースSUPER](https://ja.wikipedia.org/wiki/NNNニュースSUPER "wikilink")』を内包する形に変更。
+      - 『ジパングあさ6』での内包枠の後継ぎとして、5:31頃 - 5:46頃まで『ズームイン\!\!SUPER』（第1部）の「SUPERフラッシュ」「新聞ナナメ読み」「スポーツヘッドライン」と、6:00 - 6:08の全国ニュース枠である『[NNNニュースSUPER](../Page/NNNニュースSUPER.md "wikilink")』を内包する形に変更。
   - [2004年](../Page/2004年.md "wikilink")3月29日：キャスターが竹島と[石川正史](../Page/石川正史.md "wikilink")になる。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")：新キャラクター“さわ吉”誕生。
+  - [2005年](../Page/2005年.md "wikilink")：新キャラクター“さわ吉”誕生。
   - [2006年](../Page/2006年.md "wikilink")4月3日：春の改編で早朝ニュース『ニュース朝いち430』が『[Oha\!4 NEWS LIVE](../Page/Oha!4_NEWS_LIVE.md "wikilink")』\[4\]になることに伴い、さらに10分繰り上がって、日本テレビにおける『ズームイン\!\!SUPER』（第1部）開始時刻と同時刻の**5:20開始**になる。
       - 男性キャスターが竹重雅則（月曜・火曜）、高橋良（水曜・木曜・金曜）になる。スタジオのHD化に伴いステレオ放送開始
   - [2007年](../Page/2007年.md "wikilink")4月2日：番組15周年を迎えた。メインキャスター竹島知江の結婚に伴い、キャスター陣総入れ替え。メインキャスターには7年半ぶりにアナウンサーとして、またこの番組に復帰となる[國本泰功](../Page/國本泰功.md "wikilink")。また[香取由有子](https://ja.wikipedia.org/wiki/香取由有子 "wikilink")（月曜・火曜）、[塚田文](../Page/塚田文.md "wikilink")（水曜 - 金曜）も登板。
@@ -123,7 +123,7 @@
 </tr>
 <tr class="odd">
 <td><p>5:32頃</p></td>
-<td><p>今日の<a href="https://ja.wikipedia.org/wiki/熱血テレビ" title="wikilink">熱血テレビ</a>、<a href="https://ja.wikipedia.org/wiki/KRYニュースライブ" title="wikilink">KRYニュースライブ</a>特集予告</p></td>
+<td><p>今日の<a href="../Page/熱血テレビ.md" title="wikilink">熱血テレビ</a>、<a href="https://ja.wikipedia.org/wiki/KRYニュースライブ" title="wikilink">KRYニュースライブ</a>特集予告</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -219,10 +219,10 @@
 
 ## 関連項目
 
-  - [NNNニュースSUPER](https://ja.wikipedia.org/wiki/NNNニュースSUPER "wikilink")→[NNN NEWS ZIP\!](https://ja.wikipedia.org/wiki/NNNニュースZIP! "wikilink")（1コーナーとして内包）
-  - [どさんこワイド\!\!朝\!](https://ja.wikipedia.org/wiki/どさんこワイド!!朝! "wikilink")（[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")の[札幌テレビが放送している北海道向けの朝の情報番組](https://ja.wikipedia.org/wiki/札幌テレビ放送 "wikilink")）
+  - [NNNニュースSUPER](../Page/NNNニュースSUPER.md "wikilink")→[NNN NEWS ZIP\!](https://ja.wikipedia.org/wiki/NNNニュースZIP! "wikilink")（1コーナーとして内包）
+  - [どさんこワイド\!\!朝\!](https://ja.wikipedia.org/wiki/どさんこワイド!!朝! "wikilink")（[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")の[札幌テレビが放送している北海道向けの朝の情報番組](../Page/札幌テレビ放送.md "wikilink")）
   - [朝生ワイド す・またん\!](https://ja.wikipedia.org/wiki/朝生ワイド_す・またん! "wikilink")（[大阪府](../Page/大阪府.md "wikilink")の[ytvが放送している近畿向けの朝の情報番組](../Page/讀賣テレビ放送.md "wikilink")）
-  - [バリはやッ\!ZIP\!](https://ja.wikipedia.org/wiki/バリはやッ!ZIP! "wikilink")（[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")の[福岡放送](../Page/福岡放送.md "wikilink")が放送している福岡・佐賀向けの朝の情報番組）
+  - [バリはやッ\!ZIP\!](https://ja.wikipedia.org/wiki/バリはやッ!ZIP! "wikilink")（[福岡県](../Page/福岡県.md "wikilink")の[福岡放送](../Page/福岡放送.md "wikilink")が放送している福岡・佐賀向けの朝の情報番組）
   - [おはZIP\!](https://ja.wikipedia.org/wiki/おはZIP! "wikilink")（[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")の[中京テレビが放送していた東海向けの朝の情報番組](../Page/中京テレビ放送.md "wikilink")）
   - [おはようとくしま プラス](https://ja.wikipedia.org/wiki/おはようとくしま_プラス "wikilink")（[徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")の[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")が「ズームイン\!\!」第2部を全面差し替えして放送していた徳島向けの朝の情報番組）
 

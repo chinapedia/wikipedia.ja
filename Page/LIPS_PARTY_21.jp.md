@@ -5,9 +5,9 @@
 
 ## 概要
 
-放送期間は、[1999年](../Page/1999年.md "wikilink")10月〜[2003年](../Page/2003年.md "wikilink")7月3日。放送時間は、月〜木曜の24:00 - 25:30。番組の前身である『[Come on FUNKY Lips\!](https://ja.wikipedia.org/wiki/Come_on_FUNKY_Lips! "wikilink")』をリニューアルしたものである。2003年7月に、『[SUPER STAR QR](https://ja.wikipedia.org/wiki/SUPER_STAR_QR "wikilink")』と統合し、『[レコメン\!](../Page/レコメン!.md "wikilink")』に枠を引き継ぐため、7月3日をもって1994年4月から放送された、前身の『Come on FUNKY Lips\!』時代と合わせた「LIPS」シリーズは9年3か月の放送に幕を閉じた。
+放送期間は、[1999年](../Page/1999年.md "wikilink")10月〜[2003年](../Page/2003年.md "wikilink")7月3日。放送時間は、月〜木曜の24:00 - 25:30。番組の前身である『[Come on FUNKY Lips\!](../Page/Come_on_FUNKY_Lips!.md "wikilink")』をリニューアルしたものである。2003年7月に、『[SUPER STAR QR](https://ja.wikipedia.org/wiki/SUPER_STAR_QR "wikilink")』と統合し、『[レコメン\!](../Page/レコメン!.md "wikilink")』に枠を引き継ぐため、7月3日をもって1994年4月から放送された、前身の『Come on FUNKY Lips\!』時代と合わせた「LIPS」シリーズは9年3か月の放送に幕を閉じた。
 
-金曜日は、当初『Come on FUNKY Lips\!』時代から引き続き、文化放送は[アニラジ](../Page/アニラジ.md "wikilink")、ネット局は『[MEGA MAX](https://ja.wikipedia.org/wiki/MEGA_MAX "wikilink")』を放送していたが、後者の番組終了に従い[2001年](../Page/2001年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[嵐の](../Page/嵐_\(グループ\).md "wikilink")[相葉雅紀](https://ja.wikipedia.org/wiki/相葉雅紀 "wikilink")がパーソナリティを務めた『**嵐・相葉雅紀のLIPSアラシリミックス**』（現在の『**[嵐・相葉雅紀のレコメン\!アラシリミックス](https://ja.wikipedia.org/wiki/嵐・相葉雅紀のレコメン!アラシリミックス "wikilink")**』）が放送されていた。（放送時間は、文化放送が24:00 - 24:30、ネット局は24:00 - 25:00。）
+金曜日は、当初『Come on FUNKY Lips\!』時代から引き続き、文化放送は[アニラジ](../Page/アニラジ.md "wikilink")、ネット局は『[MEGA MAX](https://ja.wikipedia.org/wiki/MEGA_MAX "wikilink")』を放送していたが、後者の番組終了に従い[2001年](../Page/2001年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[嵐の](../Page/嵐_\(グループ\).md "wikilink")[相葉雅紀](https://ja.wikipedia.org/wiki/相葉雅紀 "wikilink")がパーソナリティを務めた『**嵐・相葉雅紀のLIPSアラシリミックス**』（現在の『**[嵐・相葉雅紀のレコメン\!アラシリミックス](../Page/嵐・相葉雅紀のレコメン!アラシリミックス.md "wikilink")**』）が放送されていた。（放送時間は、文化放送が24:00 - 24:30、ネット局は24:00 - 25:00。）
 
 ## パーソナリティ
 
@@ -37,7 +37,7 @@
 <td><p>1999.12</p></td>
 <td><p>2000.09</p></td>
 <td><p><a href="../Page/松岡充.md" title="wikilink">松岡充</a><br />
-(<a href="https://ja.wikipedia.org/wiki/SOPHIA" title="wikilink">SOPHIA</a>)</p></td>
+(<a href="../Page/SOPHIA.md" title="wikilink">SOPHIA</a>)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -47,7 +47,7 @@
 <td><p>2001.06</p></td>
 <td><p><a href="../Page/LISA_(歌手).md" title="wikilink">m-flo Lisa</a></p></td>
 <td><p>サムシング・エルス</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョビジョバ" title="wikilink">ジョビジョバ</a></p></td>
+<td><p><a href="../Page/ジョビジョバ.md" title="wikilink">ジョビジョバ</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -70,7 +70,7 @@
 <tr class="even">
 <td><p>2002.01</p></td>
 <td><p>2002.03</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/KICK_THE_CAN_CREW" title="wikilink">KICK THE CAN CREW</a></p></td>
+<td><p><a href="../Page/KICK_THE_CAN_CREW.md" title="wikilink">KICK THE CAN CREW</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -89,7 +89,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/奥村政佳" title="wikilink">奥村政佳</a><br />
 (<a href="../Page/RAG_FAIR.md" title="wikilink">RAG FAIR</a>)<br />
 北剛彦<br />
-(<a href="https://ja.wikipedia.org/wiki/INSPi" title="wikilink">INSPi</a>)</p></td>
+(<a href="../Page/INSPi.md" title="wikilink">INSPi</a>)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/MILKRUN" title="wikilink">MILKRUN</a></p></td>
 <td></td>
 <td></td>
@@ -108,26 +108,26 @@
   - [NONA REEVES](../Page/ノーナ・リーヴス.md "wikilink")◆ （1999年4月 - 2000年9月）
   - [サムシング・エルス](../Page/Something_ELse.md "wikilink")（2000年10月 - 2001年9月、水曜から移動）
   - [華原朋美](../Page/華原朋美.md "wikilink") （2001年10月 - 同年12月）
-  - [KICK THE CAN CREW](https://ja.wikipedia.org/wiki/KICK_THE_CAN_CREW "wikilink") （2002年1月 - 同年3月）
+  - [KICK THE CAN CREW](../Page/KICK_THE_CAN_CREW.md "wikilink") （2002年1月 - 同年3月）
   - [キンモクセイ](../Page/キンモクセイ_\(バンド\).md "wikilink") （2002年4月 - 2003年7月）
 
 **水曜**
 
   - サムシング・エルス（1999年10月 - 2000年9月 →火曜へ移動）
-  - [ジョビジョバ](https://ja.wikipedia.org/wiki/ジョビジョバ "wikilink")（2000年10月 - 2002年9月）
-  - [奥村政佳](https://ja.wikipedia.org/wiki/奥村政佳 "wikilink")([RAG FAIR](../Page/RAG_FAIR.md "wikilink"))、北剛彦([INSPi](https://ja.wikipedia.org/wiki/INSPi "wikilink"))（2002年10月 - 2003年7月）
+  - [ジョビジョバ](../Page/ジョビジョバ.md "wikilink")（2000年10月 - 2002年9月）
+  - [奥村政佳](https://ja.wikipedia.org/wiki/奥村政佳 "wikilink")([RAG FAIR](../Page/RAG_FAIR.md "wikilink"))、北剛彦([INSPi](../Page/INSPi.md "wikilink"))（2002年10月 - 2003年7月）
 
 **木曜**
 
   - [BLue-B](../Page/BLue-B.md "wikilink")（1999年10月 - 同年12月、以降は松岡充の代役として2000年9月まで何度か出演）
-  - [松岡充](../Page/松岡充.md "wikilink") ([SOPHIA](https://ja.wikipedia.org/wiki/SOPHIA "wikilink"))▲（1999年12月半ば - 2002年9月）
+  - [松岡充](../Page/松岡充.md "wikilink") ([SOPHIA](../Page/SOPHIA.md "wikilink"))▲（1999年12月半ば - 2002年9月）
   - [MILKRUN](https://ja.wikipedia.org/wiki/MILKRUN "wikilink")（2002年10月 - 2003年7月）
 
 **金曜**
 
   - [相葉雅紀](https://ja.wikipedia.org/wiki/相葉雅紀 "wikilink")（[嵐](../Page/嵐_\(グループ\).md "wikilink")）
       -
-        ◆ - NONA REEVESは、前番組『[Come on FUNKY Lips\!](https://ja.wikipedia.org/wiki/Come_on_FUNKY_Lips! "wikilink")』からの続投。
+        ◆ - NONA REEVESは、前番組『[Come on FUNKY Lips\!](../Page/Come_on_FUNKY_Lips!.md "wikilink")』からの続投。
         ▲ - 松岡充は、『Come on FUNKY Lips\!』終了時の1999年9月まで同じ木曜パーソナリティを務めている（初めから続投が決まっていたが、SOPHIAの活動に専念するため1999年9月 - 12月まで約2ヶ月半の休養をとる）。
 
 ## オープニングテーマ曲
@@ -171,7 +171,7 @@
 
 ### 24:00 - 24:30
 
-  - [ラジオ大阪](../Page/大阪放送.md "wikilink")（2003年3月打ち切り。以降、同局はCMのみ同時ネットしていたが、2009年より[ABCラジオが](https://ja.wikipedia.org/wiki/朝日放送ラジオ "wikilink")『レコメン\!』のネットを開始したため終了）
+  - [ラジオ大阪](../Page/大阪放送.md "wikilink")（2003年3月打ち切り。以降、同局はCMのみ同時ネットしていたが、2009年より[ABCラジオが](../Page/朝日放送ラジオ.md "wikilink")『レコメン\!』のネットを開始したため終了）
   - [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")
   - [南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")
 

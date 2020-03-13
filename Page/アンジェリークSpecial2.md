@@ -28,8 +28,8 @@
 
 ### 女王候補
 
-  - アンジェリーク・コレット （[声](../Page/声優.md "wikilink"):[浅田葉子](https://ja.wikipedia.org/wiki/浅田葉子 "wikilink")）※ドラマCDのみ
-  - レイチェル・ハート （声:[長沢美樹](https://ja.wikipedia.org/wiki/長沢美樹 "wikilink")）
+  - アンジェリーク・コレット （[声](../Page/声優.md "wikilink"):[浅田葉子](../Page/浅田葉子.md "wikilink")）※ドラマCDのみ
+  - レイチェル・ハート （声:[長沢美樹](../Page/長沢美樹.md "wikilink")）
 
 ### 守護聖
 
@@ -37,9 +37,9 @@
 
   - 光の守護聖ジュリアス （声：[速水奨](../Page/速水奨.md "wikilink")）
   - 闇の守護聖クラヴィス （声：[塩沢兼人](../Page/塩沢兼人.md "wikilink")）
-  - 風の守護聖ランディ （声：[林延年](https://ja.wikipedia.org/wiki/神奈延年 "wikilink")）
-  - 水の守護聖リュミエール （声：[飛田展男](https://ja.wikipedia.org/wiki/飛田展男 "wikilink")）
-  - 炎の守護聖オスカー （声：[堀内賢雄](https://ja.wikipedia.org/wiki/堀内賢雄 "wikilink")）
+  - 風の守護聖ランディ （声：[林延年](../Page/神奈延年.md "wikilink")）
+  - 水の守護聖リュミエール （声：[飛田展男](../Page/飛田展男.md "wikilink")）
+  - 炎の守護聖オスカー （声：[堀内賢雄](../Page/堀内賢雄.md "wikilink")）
   - 緑の守護聖マルセル （声：[結城比呂](../Page/優希比呂.md "wikilink")）
   - 鋼の守護聖ゼフェル （声：[岩田光央](../Page/岩田光央.md "wikilink")）
   - 夢の守護聖オリヴィエ （声：[子安武人](../Page/子安武人.md "wikilink")）
@@ -49,13 +49,13 @@
 
 ### 教官
 
-  - 精神の教官ヴィクトール （声:[立木文彦](https://ja.wikipedia.org/wiki/立木文彦 "wikilink")）
+  - 精神の教官ヴィクトール （声:[立木文彦](../Page/立木文彦.md "wikilink")）
   - 感性の教官セイラン （声:[岩永哲哉](../Page/岩永哲哉.md "wikilink")）
-  - 品位の教官ティムカ （声:[私市淳](https://ja.wikipedia.org/wiki/私市淳 "wikilink")）
+  - 品位の教官ティムカ （声:[私市淳](../Page/私市淳.md "wikilink")）
 
 ### 協力者
 
-  - 王立研究員エルンスト （声:[森川智之](https://ja.wikipedia.org/wiki/森川智之 "wikilink")）
+  - 王立研究員エルンスト （声:[森川智之](../Page/森川智之.md "wikilink")）
   - 占い師メル （声:[冬馬由美](../Page/冬馬由美.md "wikilink")）
   - 謎の商人 （声:[真殿光昭](../Page/真殿光昭.md "wikilink")）
 

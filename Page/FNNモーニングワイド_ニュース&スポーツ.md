@@ -14,10 +14,10 @@
 | 1984年4月  | 1984年9月 | [堺正幸](../Page/堺正幸.md "wikilink")                                    | [海野まり子](https://ja.wikipedia.org/wiki/海野まり子 "wikilink") | [牧原俊幸](../Page/牧原俊幸.md "wikilink")                      |                                    |                                  |                                        |
 | 1984年10月 | 1985年3月 | [吉崎典子](../Page/吉崎典子.md "wikilink")                                  |                                                         |                                                         |                                    |                                  |                                        |
 | 1985年4月  | 1985年9月 | [川端健嗣](../Page/川端健嗣.md "wikilink")<sup>4</sup>                      | [土井尚子](../Page/坂野尚子.md "wikilink")                      |                                                         |                                    |                                  |                                        |
-| 1985年10月 | 1986年3月 | [永麻理](https://ja.wikipedia.org/wiki/永麻理 "wikilink")                 |                                                         |                                                         |                                    |                                  |                                        |
+| 1985年10月 | 1986年3月 | [永麻理](../Page/永麻理.md "wikilink")                                    |                                                         |                                                         |                                    |                                  |                                        |
 |          |         |                                                                     |                                                         |                                                         |                                    |                                  |                                        |
 
-  - <sup>1</sup> 『[FNNテレビ朝刊](https://ja.wikipedia.org/wiki/FNNテレビ朝刊 "wikilink")』から続投。
+  - <sup>1</sup> 『[FNNテレビ朝刊](../Page/FNNテレビ朝刊.md "wikilink")』から続投。
   - <sup>2</sup> 『[FNNニュースレポート5:30](../Page/FNNニュースレポート5:30.md "wikilink")』と兼務（増田は1982年4月から1983年3月まで、永島は1983年4月から1984年3月まで）。
   - <sup>3</sup> 『[FNNニュースレポート23:30](../Page/FNNニュースレポート23:30.md "wikilink")』と兼務（増田は1982年4月から1983年3月まで、永島は1983年4月から1984年3月まで）。
   - <sup>4</sup> 『[FNNモーニングコール](../Page/FNNモーニングコール.md "wikilink")』も続投。
@@ -30,7 +30,7 @@
 
 ### オープニング
 
-  - 1982年4月 - 1984年3月：テーマソングをBGM、[お天気カメラ](https://ja.wikipedia.org/wiki/お天気カメラ "wikilink")による首都圏の映像を写しつつ、まず「FNNモーニングワイド」のアニメ風テロップを出し、次に画面左下に「ニュース」、次いで右下に「スポーツ」と小出しした後、「ニュース&スポーツ」のサブタイトルを出した。
+  - 1982年4月 - 1984年3月：テーマソングをBGM、[お天気カメラ](../Page/お天気カメラ.md "wikilink")による首都圏の映像を写しつつ、まず「FNNモーニングワイド」のアニメ風テロップを出し、次に画面左下に「ニュース」、次いで右下に「スポーツ」と小出しした後、「ニュース&スポーツ」のサブタイトルを出した。
   - 1984年4月 - 1986年3月：不明（CGによるアニメ風テロップ テーマソングは変わらず バックは引き続きお天気カメラによる首都圏の映像）
 
 ### ジングル
@@ -123,7 +123,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/石川県" title="wikilink">石川県</a></p></td>
 <td><p><a href="../Page/石川テレビ放送.md" title="wikilink">石川テレビ</a> (ITC)</p></td>
 <td><p>1983年4月から。当初は6:54開始。1984年4月から6:30開始。<br />
-1983年3月まで前番組『<a href="https://ja.wikipedia.org/wiki/FNNテレビ朝刊" title="wikilink">FNNテレビ朝刊</a>』のタイトルを継続。<br />
+1983年3月まで前番組『<a href="../Page/FNNテレビ朝刊.md" title="wikilink">FNNテレビ朝刊</a>』のタイトルを継続。<br />
 <a href="../Page/北陸中日新聞.md" title="wikilink">北陸中日新聞</a>提供のため独自のオープニングを使用</p></td>
 <td></td>
 </tr>
@@ -134,7 +134,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/東海3県" title="wikilink">中京広域圏</a></p></td>
+<td><p><a href="../Page/東海3県.md" title="wikilink">中京広域圏</a></p></td>
 <td><p><a href="../Page/東海テレビ放送.md" title="wikilink">東海テレビ</a> (THK)</p></td>
 <td><p>『<a href="https://ja.wikipedia.org/wiki/FNNモーニングワイド630" title="wikilink">FNNモーニングワイド630</a>』に改題</p></td>
 <td></td>
@@ -142,7 +142,7 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/近畿地方" title="wikilink">近畿広域圏</a></p></td>
 <td><p><a href="../Page/関西テレビ放送.md" title="wikilink">関西テレビ</a> (KTV)</p></td>
-<td><p>『<a href="https://ja.wikipedia.org/wiki/ザ・モーニング630" title="wikilink">ザ・モーニング630</a>』に内包</p></td>
+<td><p>『<a href="../Page/ザ・モーニング630.md" title="wikilink">ザ・モーニング630</a>』に内包</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -170,7 +170,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/テレビ西日本.md" title="wikilink">テレビ西日本</a> (TNC)</p></td>
 <td><p>『<a href="https://ja.wikipedia.org/wiki/TNCモーニングワイド" title="wikilink">TNCモーニングワイド</a>』に改題</p></td>
 <td></td>

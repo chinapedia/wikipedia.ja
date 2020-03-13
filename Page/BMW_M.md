@@ -3,7 +3,7 @@
 
 [サムネイル](https://ja.wikipedia.org/wiki/ファイル:BMW_M6_GT3_IAA_2015.jpg "wikilink") [サムネイル](https://ja.wikipedia.org/wiki/ファイル:BMW_M5_Motor_IMG_0365.jpg "wikilink") [サムネイル](https://ja.wikipedia.org/wiki/ファイル:Paris_Motor_Show_2012_\(8065349922\).jpg "wikilink")
 
-**BMW M GmbH**（ビーエムダブリュー・エム）は[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[自動車](../Page/自動車.md "wikilink")メーカー・[BMW](../Page/BMW.md "wikilink")の[研究開発](https://ja.wikipedia.org/wiki/研究開発 "wikilink")などを担当するグループ会社である。
+**BMW M GmbH**（ビーエムダブリュー・エム）は[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[自動車](../Page/自動車.md "wikilink")メーカー・[BMW](../Page/BMW.md "wikilink")の[研究開発](../Page/研究開発.md "wikilink")などを担当するグループ会社である。
 
 前身はBMWモータースポーツ社で、主に[モータースポーツ](https://ja.wikipedia.org/wiki/モータースポーツ "wikilink")関連の研究開発、モータースポーツ用車両の生産を行っていたが、現在は高性能スポーツモデルであるMモデルの開発、モータースポーツ用パーツの研究開発、特別注文モデルの生産、限定モデルの企画、顧客向けトレーニングスクールの運用等を主な業務としている。
 
@@ -20,7 +20,7 @@
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink") - 初代M3（E30）、初代M5（E28）発表。
   - [1993年](../Page/1993年.md "wikilink") - BMW M社に改称。
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink") - Mクーペ/Mロードスター（E36/E37/E38）発表。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") - 初代M6（E63）発表。
+  - [2005年](../Page/2005年.md "wikilink") - 初代M6（E63）発表。
   - [2006年](../Page/2006年.md "wikilink") - Z4 Mロードスター/Mクーペ（E85/E86）発表。
   - [2009年](../Page/2009年.md "wikilink") - 初代X5 M（E70）、初代X6 M（E71）発表。
   - [2014年](../Page/2014年.md "wikilink") - 初代M4（F82）発表。

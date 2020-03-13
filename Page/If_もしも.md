@@ -1,13 +1,13 @@
 > この記事は[If ](https://ja.wikipedia.org/wiki/If_)から翻訳されています。
 
 
-『**if もしも**』（イフ もしも）は、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列](../Page/フジネットワーク.md "wikilink")（フジテレビ・[共同テレビ](../Page/共同テレビジョン.md "wikilink")・[日活撮影所](../Page/日活撮影所.md "wikilink")）製作で、[1993年](../Page/1993年.md "wikilink")[4月22日](../Page/4月22日.md "wikilink")から同年[9月16日](../Page/9月16日.md "wikilink")まで、毎週[木曜日](https://ja.wikipedia.org/wiki/木曜日 "wikilink") 20:00 - 20:54（[JST](../Page/日本標準時.md "wikilink")）に半年間放送されていた[オムニバス](../Page/オムニバス.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")。**『[世にも奇妙な物語](https://ja.wikipedia.org/wiki/世にも奇妙な物語 "wikilink")』**同様に[タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")がストーリーテラーを担当し、[ステレオ放送](../Page/ステレオ放送.md "wikilink")、[文字多重放送](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")が実施されていた。
+『**if もしも**』（イフ もしも）は、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列](../Page/フジネットワーク.md "wikilink")（フジテレビ・[共同テレビ](../Page/共同テレビジョン.md "wikilink")・[日活撮影所](../Page/日活撮影所.md "wikilink")）製作で、[1993年](../Page/1993年.md "wikilink")[4月22日](../Page/4月22日.md "wikilink")から同年[9月16日](../Page/9月16日.md "wikilink")まで、毎週[木曜日](../Page/木曜日.md "wikilink") 20:00 - 20:54（[JST](../Page/日本標準時.md "wikilink")）に半年間放送されていた[オムニバス](../Page/オムニバス.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")。**『[世にも奇妙な物語](https://ja.wikipedia.org/wiki/世にも奇妙な物語 "wikilink")』**同様に[タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")がストーリーテラーを担当し、[ステレオ放送](../Page/ステレオ放送.md "wikilink")、[文字多重放送](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")が実施されていた。
 
 ## 概要
 
 同局の[オムニバス](../Page/オムニバス.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")『世にも奇妙な物語』のレギュラー放送終了を受けて制作された、[オムニバス](../Page/オムニバス.md "wikilink")[ドラマ](../Page/ドラマ.md "wikilink")。一話ごとに分岐点が存在し、そこから枝分かれした2通りのストーリーをそれぞれ描くという異色作。
 
-『[奇妙な出来事](https://ja.wikipedia.org/wiki/奇妙な出来事 "wikilink")』の後番組として考えられていた企画が基となっているため、事実上『奇妙-』シリーズから[スピンオフ](../Page/スピンオフ.md "wikilink")されたものである。
+『[奇妙な出来事](../Page/奇妙な出来事.md "wikilink")』の後番組として考えられていた企画が基となっているため、事実上『奇妙-』シリーズから[スピンオフ](../Page/スピンオフ.md "wikilink")されたものである。
 
 ストーリーテラーには『世にも奇妙な物語』に続いてタモリが起用され、スタッフの大半も引き続き関わっている。同番組に見られたような過激な演出は抑えられ、作風はライトである。
 
@@ -29,32 +29,32 @@
 
 1.  結婚するなら金持ちの女かなじみの女か（1993年4月22日）：制作・共同テレビ
       -
-        脚本：[戸田山雅司](../Page/戸田山雅司.md "wikilink")、演出：[星護](https://ja.wikipedia.org/wiki/星護 "wikilink")
+        脚本：[戸田山雅司](../Page/戸田山雅司.md "wikilink")、演出：[星護](../Page/星護.md "wikilink")
         出演：[保阪尚輝](https://ja.wikipedia.org/wiki/保阪尚輝 "wikilink")、[白島靖代](../Page/白島靖代.md "wikilink")、[鶴田真由](../Page/鶴田真由.md "wikilink")、[豊原功輔](https://ja.wikipedia.org/wiki/豊原功輔 "wikilink")
 2.  彼女がすわるのは左のイスか右のイスか（1993年5月6日）：制作・にっかつ撮影所
       -
-        脚本：[武上純希](https://ja.wikipedia.org/wiki/武上純希 "wikilink")、監督：[田中経一](https://ja.wikipedia.org/wiki/田中経一 "wikilink")
-        出演：[斉藤由貴](https://ja.wikipedia.org/wiki/斉藤由貴 "wikilink")、[峰岸徹](https://ja.wikipedia.org/wiki/峰岸徹 "wikilink")、[西村和彦](https://ja.wikipedia.org/wiki/西村和彦 "wikilink")、[生田智子](https://ja.wikipedia.org/wiki/生田智子 "wikilink")、[大方斐紗子](../Page/大方斐紗子.md "wikilink")、[仲谷昇](../Page/仲谷昇.md "wikilink")、[牧原俊幸](../Page/牧原俊幸.md "wikilink")
+        脚本：[武上純希](../Page/武上純希.md "wikilink")、監督：[田中経一](https://ja.wikipedia.org/wiki/田中経一 "wikilink")
+        出演：[斉藤由貴](https://ja.wikipedia.org/wiki/斉藤由貴 "wikilink")、[峰岸徹](../Page/峰岸徹.md "wikilink")、[西村和彦](../Page/西村和彦.md "wikilink")、[生田智子](../Page/生田智子.md "wikilink")、[大方斐紗子](../Page/大方斐紗子.md "wikilink")、[仲谷昇](../Page/仲谷昇.md "wikilink")、[牧原俊幸](../Page/牧原俊幸.md "wikilink")
 3.  あるフェミニスト課長の秘書選び 美人かブスか（1993年5月13日）：制作・共同テレビ
       -
-        脚本：[蒔田光治](https://ja.wikipedia.org/wiki/蒔田光治 "wikilink")、演出：[落合正幸](https://ja.wikipedia.org/wiki/落合正幸 "wikilink")
-        出演：[草刈正雄](../Page/草刈正雄.md "wikilink")、[武田久美子](https://ja.wikipedia.org/wiki/武田久美子 "wikilink")、[山下容莉枝](https://ja.wikipedia.org/wiki/山下容莉枝 "wikilink")
+        脚本：[蒔田光治](../Page/蒔田光治.md "wikilink")、演出：[落合正幸](../Page/落合正幸.md "wikilink")
+        出演：[草刈正雄](../Page/草刈正雄.md "wikilink")、[武田久美子](../Page/武田久美子.md "wikilink")、[山下容莉枝](../Page/山下容莉枝.md "wikilink")
 4.  イジメっ子と親友・どちらの同窓会に行くべきか（1993年5月20日）：制作・にっかつ撮影所
       -
         脚本：[野依美幸](../Page/野依美幸.md "wikilink")、監督：[堤ユキヒコ](../Page/堤幸彦.md "wikilink")
-        出演：[細川俊之](https://ja.wikipedia.org/wiki/細川俊之 "wikilink")、[渡辺哲](https://ja.wikipedia.org/wiki/渡辺哲 "wikilink")、[矢崎滋](../Page/矢崎滋.md "wikilink")、[松金よね子](../Page/松金よね子.md "wikilink")、青木秋美（現[遠野なぎこ](https://ja.wikipedia.org/wiki/遠野なぎこ "wikilink")）、[山崎一](https://ja.wikipedia.org/wiki/山崎一 "wikilink")、[三宅弘城](../Page/三宅弘城.md "wikilink")
+        出演：[細川俊之](../Page/細川俊之.md "wikilink")、[渡辺哲](../Page/渡辺哲.md "wikilink")、[矢崎滋](../Page/矢崎滋.md "wikilink")、[松金よね子](../Page/松金よね子.md "wikilink")、青木秋美（現[遠野なぎこ](https://ja.wikipedia.org/wiki/遠野なぎこ "wikilink")）、[山崎一](../Page/山崎一.md "wikilink")、[三宅弘城](../Page/三宅弘城.md "wikilink")
 5.  セールスマンの大災難 不幸を呼ぶのは右手か左手か（1993年5月27日）：制作・共同テレビ
       -
         脚本：[戸田山雅司](../Page/戸田山雅司.md "wikilink")、演出：[土方政人](../Page/土方政人.md "wikilink")
-        出演：[薬丸裕英](../Page/薬丸裕英.md "wikilink")、[石田太郎](https://ja.wikipedia.org/wiki/石田太郎 "wikilink")、[白竜](../Page/白竜_\(俳優\).md "wikilink")、[仲本工事](../Page/仲本工事.md "wikilink")
+        出演：[薬丸裕英](../Page/薬丸裕英.md "wikilink")、[石田太郎](../Page/石田太郎.md "wikilink")、[白竜](../Page/白竜_\(俳優\).md "wikilink")、[仲本工事](../Page/仲本工事.md "wikilink")
 6.  噂好きの団地・引越のあいさつは安物か高級品か（1993年6月10日）：制作・にっかつ撮影所
       -
         脚本：蒔田光治、監督：[金澤克次](../Page/金澤克次.md "wikilink")
-        出演：[国生さゆり](../Page/国生さゆり.md "wikilink")、[宮川一朗太](https://ja.wikipedia.org/wiki/宮川一朗太 "wikilink")
+        出演：[国生さゆり](../Page/国生さゆり.md "wikilink")、[宮川一朗太](../Page/宮川一朗太.md "wikilink")
 7.  完全犯罪 双子の美人姉妹 生き残ったのは姉か妹か（1993年6月17日）：制作・共同テレビ
       -
-        脚本：[中村功一](https://ja.wikipedia.org/wiki/飯田譲治 "wikilink")、演出：星護
-        出演：[高樹沙耶](https://ja.wikipedia.org/wiki/益戸育江 "wikilink")、[寺脇康文](https://ja.wikipedia.org/wiki/寺脇康文 "wikilink")、[長門裕之](../Page/長門裕之.md "wikilink")、[天現寺竜](../Page/天現寺竜.md "wikilink")
+        脚本：[中村功一](../Page/飯田譲治.md "wikilink")、演出：星護
+        出演：[高樹沙耶](https://ja.wikipedia.org/wiki/益戸育江 "wikilink")、[寺脇康文](../Page/寺脇康文.md "wikilink")、[長門裕之](../Page/長門裕之.md "wikilink")、[天現寺竜](../Page/天現寺竜.md "wikilink")
 8.  この夏、あなたにピッタリの髪型は？ロングかショートか（1993年7月1日）：制作・にっかつ撮影所
       -
         脚本：野依美幸、監督：田中経一
@@ -66,39 +66,39 @@
 10. 結婚して子どもを生みますか？就職して出世をめざしますか？（1993年7月15日）：制作・にっかつ撮影所
       -
         脚本：[藤井裕理子](https://ja.wikipedia.org/wiki/藤井裕理子 "wikilink")、監督：金澤克次
-        出演：[斉藤慶子](https://ja.wikipedia.org/wiki/斉藤慶子 "wikilink")、[鶴見辰吾](https://ja.wikipedia.org/wiki/鶴見辰吾 "wikilink")、[ベンガル](../Page/ベンガル_\(俳優\).md "wikilink")、[あめくみちこ](../Page/あめくみちこ.md "wikilink")
+        出演：[斉藤慶子](../Page/斉藤慶子.md "wikilink")、[鶴見辰吾](../Page/鶴見辰吾.md "wikilink")、[ベンガル](../Page/ベンガル_\(俳優\).md "wikilink")、[あめくみちこ](../Page/あめくみちこ.md "wikilink")
 11. 神がくれる幸運、分割でもらうか、一括でもらうか（1993年7月22日）：制作・共同テレビ
       -
         脚本：戸田山雅司、演出：土方政人
-        出演：[渡辺徹](https://ja.wikipedia.org/wiki/渡辺徹_\(俳優\) "wikilink")、[岡田眞澄](../Page/岡田眞澄.md "wikilink")、[今井雅之](https://ja.wikipedia.org/wiki/今井雅之 "wikilink")
+        出演：[渡辺徹](https://ja.wikipedia.org/wiki/渡辺徹_\(俳優\) "wikilink")、[岡田眞澄](../Page/岡田眞澄.md "wikilink")、[今井雅之](../Page/今井雅之.md "wikilink")
 12. 緊急事態！飛行機で行くか？新幹線で行くか？（1993年8月5日）：制作・にっかつ撮影所
       -
-        脚本：[武上純希](https://ja.wikipedia.org/wiki/武上純希 "wikilink")、監督：[辻野正人](../Page/辻野正人.md "wikilink")
-        出演：[神田正輝](../Page/神田正輝.md "wikilink")、[相楽晴子](https://ja.wikipedia.org/wiki/相楽晴子 "wikilink")、[上田耕一](../Page/上田耕一.md "wikilink")、[田口浩正](https://ja.wikipedia.org/wiki/田口浩正 "wikilink")、[高橋里華](https://ja.wikipedia.org/wiki/高橋里華 "wikilink")
+        脚本：[武上純希](../Page/武上純希.md "wikilink")、監督：[辻野正人](../Page/辻野正人.md "wikilink")
+        出演：[神田正輝](../Page/神田正輝.md "wikilink")、[相楽晴子](../Page/相楽晴子.md "wikilink")、[上田耕一](../Page/上田耕一.md "wikilink")、[田口浩正](../Page/田口浩正.md "wikilink")、[高橋里華](../Page/高橋里華.md "wikilink")
 13. 花を愛するか、宝石に生きるか（1993年8月12日）：制作・共同テレビ
       -
-        脚本：[君塚良一](https://ja.wikipedia.org/wiki/君塚良一 "wikilink")、演出：落合正幸
-        出演：[佐野史郎](../Page/佐野史郎.md "wikilink")、[増田恵子](../Page/増田恵子.md "wikilink")、[小野寺昭](https://ja.wikipedia.org/wiki/小野寺昭 "wikilink")、[森口瑤子](https://ja.wikipedia.org/wiki/森口瑤子 "wikilink")
+        脚本：[君塚良一](../Page/君塚良一.md "wikilink")、演出：落合正幸
+        出演：[佐野史郎](../Page/佐野史郎.md "wikilink")、[増田恵子](../Page/増田恵子.md "wikilink")、[小野寺昭](../Page/小野寺昭.md "wikilink")、[森口瑤子](../Page/森口瑤子.md "wikilink")
 14. 両親が離婚したらパパをとるか？ママをとるか？（1993年8月19日）：制作・にっかつ撮影所
       -
         脚本：藤井裕理子、監督：金澤克次
         出演：[井上孝幸](https://ja.wikipedia.org/wiki/井上孝幸 "wikilink")、[山下真司](../Page/山下真司.md "wikilink")、[石野真子](../Page/石野真子.md "wikilink")
 15. 誘拐するなら男の子か女の子か（1993年8月26日放送予定、未放送）：制作・共同テレビ
       -
-        脚本：[楠本浩美](https://ja.wikipedia.org/wiki/楠本ひろみ "wikilink")、演出：[本広克行](https://ja.wikipedia.org/wiki/本広克行 "wikilink")
-        出演：[渡辺裕之](https://ja.wikipedia.org/wiki/渡辺裕之 "wikilink")、[勝俣州和](../Page/勝俣州和.md "wikilink")、[今村雅美](https://ja.wikipedia.org/wiki/今村雅美 "wikilink")、[小野みゆき](https://ja.wikipedia.org/wiki/小野みゆき "wikilink")
+        脚本：[楠本浩美](https://ja.wikipedia.org/wiki/楠本ひろみ "wikilink")、演出：[本広克行](../Page/本広克行.md "wikilink")
+        出演：[渡辺裕之](../Page/渡辺裕之.md "wikilink")、[勝俣州和](../Page/勝俣州和.md "wikilink")、[今村雅美](../Page/今村雅美.md "wikilink")、[小野みゆき](../Page/小野みゆき.md "wikilink")
 16. [打ち上げ花火、下から見るか? 横から見るか?](../Page/打ち上げ花火、下から見るか?_横から見るか?.md "wikilink")（1993年8月26日）：制作・共同テレビ
       -
         脚本・演出：[岩井俊二](../Page/岩井俊二.md "wikilink")
-        出演：[山崎裕太](https://ja.wikipedia.org/wiki/山崎裕太 "wikilink")、[奥菜恵](https://ja.wikipedia.org/wiki/奥菜恵 "wikilink")、[反田孝幸](../Page/反田孝幸.md "wikilink")、[麻木久仁子](https://ja.wikipedia.org/wiki/麻木久仁子 "wikilink")、[蛭子能収](../Page/蛭子能収.md "wikilink")、[ランディ・ヘブンス](https://ja.wikipedia.org/wiki/ランディ・ヘブンス "wikilink")、[小橋賢児](https://ja.wikipedia.org/wiki/小橋賢児 "wikilink")、[桜木研仁](https://ja.wikipedia.org/wiki/桜木研仁 "wikilink")、[山崎一](https://ja.wikipedia.org/wiki/山崎一 "wikilink")、[深浦加奈子](https://ja.wikipedia.org/wiki/深浦加奈子 "wikilink")、[田口トモロヲ](../Page/田口トモロヲ.md "wikilink")、[石井苗子](https://ja.wikipedia.org/wiki/石井苗子 "wikilink")、[酒井敏也](https://ja.wikipedia.org/wiki/酒井敏也 "wikilink")、[中島陽子](../Page/中島陽子.md "wikilink")
+        出演：[山崎裕太](../Page/山崎裕太.md "wikilink")、[奥菜恵](https://ja.wikipedia.org/wiki/奥菜恵 "wikilink")、[反田孝幸](../Page/反田孝幸.md "wikilink")、[麻木久仁子](https://ja.wikipedia.org/wiki/麻木久仁子 "wikilink")、[蛭子能収](../Page/蛭子能収.md "wikilink")、[ランディ・ヘブンス](https://ja.wikipedia.org/wiki/ランディ・ヘブンス "wikilink")、[小橋賢児](../Page/小橋賢児.md "wikilink")、[桜木研仁](https://ja.wikipedia.org/wiki/桜木研仁 "wikilink")、[山崎一](../Page/山崎一.md "wikilink")、[深浦加奈子](https://ja.wikipedia.org/wiki/深浦加奈子 "wikilink")、[田口トモロヲ](../Page/田口トモロヲ.md "wikilink")、[石井苗子](../Page/石井苗子.md "wikilink")、[酒井敏也](../Page/酒井敏也.md "wikilink")、[中島陽子](../Page/中島陽子.md "wikilink")
 17. 人生ゲーム 残された2通の遺言状（1993年9月2日）：制作・共同テレビ
       -
         脚本：[中谷まゆみ](../Page/中谷まゆみ.md "wikilink")、演出：土方政人
-        出演：[大原麗子](https://ja.wikipedia.org/wiki/大原麗子 "wikilink")、[長谷川初範](https://ja.wikipedia.org/wiki/長谷川初範 "wikilink")、[三橋達也](../Page/三橋達也.md "wikilink")、[真実一路](../Page/真実一路_\(俳優\).md "wikilink")
+        出演：[大原麗子](https://ja.wikipedia.org/wiki/大原麗子 "wikilink")、[長谷川初範](../Page/長谷川初範.md "wikilink")、[三橋達也](../Page/三橋達也.md "wikilink")、[真実一路](../Page/真実一路_\(俳優\).md "wikilink")
 18. もう一度生まれ変わるとすれば25歳か18歳か（1993年9月16日）：制作・にっかつ撮影所
       -
         脚本：武上純希、監督：辻野正人
-        出演：[黒木瞳](../Page/黒木瞳.md "wikilink")、[三浦浩一](../Page/三浦浩一.md "wikilink")、[羽場裕一](../Page/羽場裕一.md "wikilink")、[深浦加奈子](https://ja.wikipedia.org/wiki/深浦加奈子 "wikilink")、[斉藤暁](https://ja.wikipedia.org/wiki/斉藤暁 "wikilink")
+        出演：[黒木瞳](../Page/黒木瞳.md "wikilink")、[三浦浩一](../Page/三浦浩一.md "wikilink")、[羽場裕一](../Page/羽場裕一.md "wikilink")、[深浦加奈子](https://ja.wikipedia.org/wiki/深浦加奈子 "wikilink")、[斉藤暁](../Page/斉藤暁.md "wikilink")
 
 ## スタッフ
 
@@ -129,7 +129,7 @@
   - 広報：上野陽一
   - 美術協力：EPOS
   - アクション：宮辺勝彦（拳優会）
-  - 協力：[バスク](https://ja.wikipedia.org/wiki/バスク_\(テレビ技術会社\) "wikilink")、[フジアール](../Page/フジアール.md "wikilink")、[ジャンプ](../Page/ジャンプ.md "wikilink")
+  - 協力：[バスク](../Page/バスク_\(テレビ技術会社\).md "wikilink")、[フジアール](../Page/フジアール.md "wikilink")、[ジャンプ](../Page/ジャンプ.md "wikilink")
   - 制作担当：服部一貴
   - 制作主任：遠藤聖一、真野清文
   - 制作進行：横沢淳
@@ -157,8 +157,8 @@
   - 衣裳：宮越久美子（東京衣裳）
   - メイク：轟和美（ヒーローズ）
   - スチール：目黒祐司
-  - 音楽：[武内享](https://ja.wikipedia.org/wiki/武内享 "wikilink")
-  - 選曲：[志田博英](https://ja.wikipedia.org/wiki/志田博英 "wikilink")
+  - 音楽：[武内享](../Page/武内享.md "wikilink")
+  - 選曲：[志田博英](../Page/志田博英.md "wikilink")
   - 効果：小川広美
   - MA：増田仁
   - VTR編集：吉永貴
@@ -183,14 +183,14 @@
 ## 備考
 
   - [岩井俊二](../Page/岩井俊二.md "wikilink")が[監督](../Page/監督.md "wikilink")した「[打ち上げ花火、下から見るか? 横から見るか?](../Page/打ち上げ花火、下から見るか?_横から見るか?.md "wikilink")」は、[テレビドラマ](../Page/テレビドラマ.md "wikilink")としては珍しく[日本映画監督協会新人賞](../Page/日本映画監督協会新人賞.md "wikilink")を獲得し、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")にはタモリの登場シーンをカットするなどの再構成を経て劇場公開された。また、この回は、「誘拐するなら男の子か女の子か」の放送が[甲府信金OL誘拐殺人事件](../Page/甲府信金OL誘拐殺人事件.md "wikilink")の影響から中止となったこと（その後も放送されることはなく、[お蔵入り](../Page/お蔵入り.md "wikilink")となった\[1\]）に伴い、当初の放送予定より1週間繰り上げて放送された。
-  - [再放送](https://ja.wikipedia.org/wiki/再放送 "wikilink")の際には、『世にも奇妙な物語』と同様に一部のエピソードのみの放送となっている。
+  - [再放送](../Page/再放送.md "wikilink")の際には、『世にも奇妙な物語』と同様に一部のエピソードのみの放送となっている。
 
 ## ネット局と放送時間
 
   - [高知県](../Page/高知県.md "wikilink")
       - [テレビ高知](../Page/テレビ高知.md "wikilink")で[土曜日](../Page/土曜日.md "wikilink")[深夜](../Page/深夜.md "wikilink")に遅れネットされた（本放送当時、[高知さんさんテレビ](../Page/高知さんさんテレビ.md "wikilink")が開局していなかったため）。
   - [青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")
-      - [青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")が[平日](https://ja.wikipedia.org/wiki/平日 "wikilink")夕方に放送していた。
+      - [青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")が[平日](../Page/平日.md "wikilink")夕方に放送していた。
   - [山形県](../Page/山形県.md "wikilink")
       - [山形テレビ](../Page/山形テレビ.md "wikilink")の[テレビ朝日](../Page/テレビ朝日.md "wikilink")[系列](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")[ネットチェンジ後のため](https://ja.wikipedia.org/wiki/ネットチェンジ#山形県の事例 "wikilink")、不明。
   - [大分県](../Page/大分県.md "wikilink")
@@ -200,7 +200,7 @@
 
 ### 書籍
 
-  - if もしも サウンドラビリンス - [サウンドトラック](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")ならびに[サウンドドラマ](https://ja.wikipedia.org/wiki/サウンドドラマ "wikilink")を収録。
+  - if もしも サウンドラビリンス - [サウンドトラック](../Page/サウンドトラック.md "wikilink")ならびに[サウンドドラマ](https://ja.wikipedia.org/wiki/サウンドドラマ "wikilink")を収録。
   - if もしも（コミック版） ISBN 978-4-8470-3090-1
       - 運命の分岐点
       - 赤い靴
@@ -223,8 +223,8 @@
 ## 関連項目
 
   - [世にも奇妙な物語](https://ja.wikipedia.org/wiki/世にも奇妙な物語 "wikilink")
-  - [奇妙な出来事](https://ja.wikipedia.org/wiki/奇妙な出来事 "wikilink")
-  - [もしも体感バラエティ if](https://ja.wikipedia.org/wiki/もしも体感バラエティ_if "wikilink")
+  - [奇妙な出来事](../Page/奇妙な出来事.md "wikilink")
+  - [もしも体感バラエティ if](../Page/もしも体感バラエティ_if.md "wikilink")
   - [打ち上げ花火、下から見るか? 横から見るか?](../Page/打ち上げ花火、下から見るか?_横から見るか?.md "wikilink")
   - [リセット (漫画)](https://ja.wikipedia.org/wiki/リセット_\(漫画\) "wikilink")
   - [素敵な選TAXI](https://ja.wikipedia.org/wiki/素敵な選TAXI "wikilink")

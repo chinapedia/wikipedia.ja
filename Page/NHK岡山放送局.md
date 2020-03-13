@@ -1,7 +1,7 @@
 > この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
 
 
-**NHK岡山放送局**（エヌエイチケイおかやまほうそうきょく）は、[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局である](https://ja.wikipedia.org/wiki/日本放送協会放送局の一覧 "wikilink")。岡山・[香川両県の民放テレビ局が両県を併せた地域を放送対象地域にしていることから](../Page/香川県.md "wikilink")、岡山県のみをエリアとする唯一のテレビ局でもある。
+**NHK岡山放送局**（エヌエイチケイおかやまほうそうきょく）は、[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局である](../Page/日本放送協会放送局の一覧.md "wikilink")。岡山・[香川両県の民放テレビ局が両県を併せた地域を放送対象地域にしていることから](../Page/香川県.md "wikilink")、岡山県のみをエリアとする唯一のテレビ局でもある。
 
 ## 放送局・支局所在地
 
@@ -24,30 +24,30 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:NHK_Okayama_1st_building.jpg "wikilink")
 
-  - [1931年](../Page/1931年.md "wikilink")（昭和6年）[2月1日](../Page/2月1日.md "wikilink") - 岡山放送局開局、[ラジオ第1放送開始](https://ja.wikipedia.org/wiki/NHKラジオ第1放送 "wikilink")（**JOKK**）。全国で10番目の開局であった。局舎（初代）・送信所は[岡山市](../Page/岡山市.md "wikilink")網浜町字赤坂ノ上\[1\]に置かれた\[2\]。
-  - [1934年](../Page/1934年.md "wikilink")（昭和9年）[9月21日](../Page/9月21日.md "wikilink") - [室戸台風](https://ja.wikipedia.org/wiki/室戸台風 "wikilink")のため放送局への送電が途絶え、約29時間にわたって停波。これを教訓に敷地内に自家発電設備が配備される。
+  - [1931年](../Page/1931年.md "wikilink")（昭和6年）[2月1日](../Page/2月1日.md "wikilink") - 岡山放送局開局、[ラジオ第1放送開始](../Page/NHKラジオ第1放送.md "wikilink")（**JOKK**）。全国で10番目の開局であった。局舎（初代）・送信所は[岡山市](../Page/岡山市.md "wikilink")網浜町字赤坂ノ上\[1\]に置かれた\[2\]。
+  - [1934年](../Page/1934年.md "wikilink")（昭和9年）[9月21日](../Page/9月21日.md "wikilink") - [室戸台風](../Page/室戸台風.md "wikilink")のため放送局への送電が途絶え、約29時間にわたって停波。これを教訓に敷地内に自家発電設備が配備される。
   - [1945年](../Page/1945年.md "wikilink")（昭和20年）
       - [6月29日](../Page/6月29日.md "wikilink") - [岡山空襲で一部電力系統が破損したが](https://ja.wikipedia.org/wiki/岡山大空襲 "wikilink")、放送は自家発電設備を使って継続。
       - [8月6日](../Page/8月6日.md "wikilink") - 広島市郊外の[広島中央放送局原放送所から伝えられた](../Page/NHK祇園ラジオ放送所.md "wikilink")[広島への原子爆弾投下第一報を](https://ja.wikipedia.org/wiki/広島市への原子爆弾投下#NHK原放送所 "wikilink")、[広島中央放送局に代わって東京へ伝達](../Page/NHK広島放送局.md "wikilink")。
-  - [1946年](../Page/1946年.md "wikilink")（昭和21年）[9月1日](../Page/9月1日.md "wikilink") - [ラジオ第2放送開始](https://ja.wikipedia.org/wiki/NHKラジオ第2放送 "wikilink")（**JOKB**）。
+  - [1946年](../Page/1946年.md "wikilink")（昭和21年）[9月1日](../Page/9月1日.md "wikilink") - [ラジオ第2放送開始](../Page/NHKラジオ第2放送.md "wikilink")（**JOKB**）。
   - [1950年](../Page/1950年.md "wikilink")（昭和25年）[6月1日](../Page/6月1日.md "wikilink") - [放送法](../Page/放送法.md "wikilink")施行に伴い社団法人日本放送協会が解散、[特殊法人](../Page/特殊法人.md "wikilink")としての**日本放送協会**が一切の権利義務を継承。
-  - [1957年](../Page/1957年.md "wikilink")（昭和32年）[12月23日](../Page/12月23日.md "wikilink") - [テレビジョン放送](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")（現・総合テレビ）放送開始（**JOKK-TV**）当初は局舎内にテレビ関係の設備を設置するスペースがなかったため、金甲山テレビ送信所内に仮設のテレビスタジオとテレビマスターが設置された\[3\]。
+  - [1957年](../Page/1957年.md "wikilink")（昭和32年）[12月23日](../Page/12月23日.md "wikilink") - [テレビジョン放送](../Page/NHK総合テレビジョン.md "wikilink")（現・総合テレビ）放送開始（**JOKK-TV**）当初は局舎内にテレビ関係の設備を設置するスペースがなかったため、金甲山テレビ送信所内に仮設のテレビスタジオとテレビマスターが設置された\[3\]。
   - [1958年](../Page/1958年.md "wikilink")（昭和33年）[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - [ローカルニュース開始](../Page/ニュース.md "wikilink")。
   - [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")（昭和36年） - 局舎及びテレビマスターを岡山市（現・北区）丸の内（[山陽放送](https://ja.wikipedia.org/wiki/山陽放送 "wikilink")本社ビルの隣）の旧NHK岡山放送会館（2代目局舎）へ、初代局舎敷地内にあった岡山局（ラジオ）を[児島郡](../Page/児島郡.md "wikilink")藤田村字錦\[4\]の錦ラジオ放送所へそれぞれ移転。
-  - [1963年](../Page/1963年.md "wikilink")（昭和38年）6月29日 - [教育テレビ放送開始](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")（**JOKB-TV**）。
+  - [1963年](../Page/1963年.md "wikilink")（昭和38年）6月29日 - [教育テレビ放送開始](../Page/NHK教育テレビジョン.md "wikilink")（**JOKB-TV**）。
   - [1964年](../Page/1964年.md "wikilink")（昭和39年）
-      - [4月1日](../Page/4月1日.md "wikilink") - [FM放送開始](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink")（**JOKK-FM**）。
+      - [4月1日](../Page/4月1日.md "wikilink") - [FM放送開始](../Page/NHK-FM放送.md "wikilink")（**JOKK-FM**）。
       - [10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - カラー放送開始。
   - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")（昭和58年）[6月](../Page/6月.md "wikilink") - 総合テレビジョン[音声多重放送](../Page/音声多重放送.md "wikilink")開始。
   - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）[11月](../Page/11月.md "wikilink") - 総合テレビジョン[文字多重放送](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")開始。
   - [1991年](../Page/1991年.md "wikilink")（[平成](../Page/平成.md "wikilink")3年）[3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - 教育テレビジョン音声多重放送開始。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）
+  - [2005年](../Page/2005年.md "wikilink")（平成17年）
       - [8月27日](../Page/8月27日.md "wikilink") - 岡山市（現・北区）駅元町の[リットシティビル](../Page/リットシティビル.md "wikilink")\[5\]南棟（低層棟）1〜3階へ放送会館を移転（3代目局舎）。リットシティビルの放送会館部分のフロアはNHKが区分所有（移転契約時に岡山市から買取）。新放送会館からの放送は[8月22日](../Page/8月22日.md "wikilink")から開始。同時にアナログ・地上デジタル対応統合送出マスター運用開始\[6\]。
       - [8月30日](../Page/8月30日.md "wikilink") - 北房AMラジオ放送局開局。
   - [2006年](../Page/2006年.md "wikilink")（平成18年）
-      - [10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink") - [地上デジタル放送の](../Page/地上デジタルテレビ放送.md "wikilink")[試験放送](https://ja.wikipedia.org/wiki/試験放送 "wikilink")開始。
+      - [10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink") - [地上デジタル放送の](../Page/地上デジタルテレビ放送.md "wikilink")[試験放送](../Page/試験放送.md "wikilink")開始。
       - [12月1日](../Page/12月1日.md "wikilink") - 地上デジタル放送開始（デジタル総合TV：**JOKK-DTV**、デジタル教育TV：**JOKB-DTV**）送信所は[金甲山](../Page/金甲山.md "wikilink")に設置。デジタル送信機は水冷方式。（[東芝](../Page/東芝.md "wikilink")製）金甲山送信所には[高松放送局](https://ja.wikipedia.org/wiki/NHK高松放送局 "wikilink")[北讃岐中継局](../Page/北讃岐中継局.md "wikilink")が設置され、高松放送局の地上デジタル放送が始まる同日から香川県向けに放送を開始した。
-  - [2007年](../Page/2007年.md "wikilink")（平成19年）[7月1日](../Page/7月1日.md "wikilink") - 岡山放送局独自の[ワンセグ](https://ja.wikipedia.org/wiki/ワンセグ "wikilink")放送開始\[7\]。
+  - [2007年](../Page/2007年.md "wikilink")（平成19年）[7月1日](../Page/7月1日.md "wikilink") - 岡山放送局独自の[ワンセグ](../Page/ワンセグ.md "wikilink")放送開始\[7\]。
   - [2011年](../Page/2011年.md "wikilink")（平成23年）
       - [2月1日](../Page/2月1日.md "wikilink") - 開局80周年。開局80周年記念キャッチコピー**「まいにち、びっくり箱」**が2010年9月から2011年2月まで使用。
       - [7月24日](../Page/7月24日.md "wikilink") - アナログ放送終了。
@@ -67,7 +67,7 @@
 以下の地上アナログ放送は2011年7月24日に運用終了・停波。
 
   - 総合テレビジョン 5ch（JOKK-TV、10kW）※総合親局5chは本局が唯一。
-  - 教育テレビジョン 3ch（JOKB-TV、10kW）※教育親局3chは[放送センター](../Page/NHK放送センター.md "wikilink")、[甲府放送局](https://ja.wikipedia.org/wiki/NHK甲府放送局 "wikilink")、[福井放送局と同じ](https://ja.wikipedia.org/wiki/NHK福井放送局 "wikilink")。
+  - 教育テレビジョン 3ch（JOKB-TV、10kW）※教育親局3chは[放送センター](../Page/NHK放送センター.md "wikilink")、[甲府放送局](../Page/NHK甲府放送局.md "wikilink")、[福井放送局と同じ](../Page/NHK福井放送局.md "wikilink")。
 
 <!-- end list -->
 
@@ -200,7 +200,7 @@ FMの中継局を設置している局、アナログ[UHFテレビ出力](../Pag
 <td><p>0.3W</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/美咲町" title="wikilink">柵原</a></p></td>
+<td><p><a href="../Page/美咲町.md" title="wikilink">柵原</a></p></td>
 <td><p>1ch</p></td>
 <td><p>0.1W</p></td>
 <td><p>4ch</p></td>
@@ -290,7 +290,7 @@ FMの中継局を設置している局、アナログ[UHFテレビ出力](../Pag
 <td><p>0.3W</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/美作市" title="wikilink">大原</a></p></td>
+<td><p><a href="../Page/美作市.md" title="wikilink">大原</a></p></td>
 <td><p>1ch</p></td>
 <td><p>1W</p></td>
 <td><p>4ch</p></td>
@@ -299,7 +299,7 @@ FMの中継局を設置している局、アナログ[UHFテレビ出力](../Pag
 <td><p>0.3W</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/真庭市" title="wikilink">湯原</a></p></td>
+<td><p><a href="../Page/真庭市.md" title="wikilink">湯原</a></p></td>
 <td><p>55ch</p></td>
 <td><p>3W</p></td>
 <td><p>53ch</p></td>
@@ -389,7 +389,7 @@ FMの中継局を設置している局、アナログ[UHFテレビ出力](../Pag
 <td><p>1W</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/玉島地域" title="wikilink">玉島</a></p></td>
+<td><p><a href="../Page/玉島地域.md" title="wikilink">玉島</a></p></td>
 <td><p>37ch</p></td>
 <td><p>3W</p></td>
 <td><p>39ch</p></td>
@@ -398,7 +398,7 @@ FMの中継局を設置している局、アナログ[UHFテレビ出力](../Pag
 <td><p>0.3W</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/和気町" title="wikilink">備前佐伯</a></p></td>
+<td><p><a href="../Page/和気町.md" title="wikilink">備前佐伯</a></p></td>
 <td><p>56ch</p></td>
 <td><p>3W</p></td>
 <td><p>54ch</p></td>
@@ -416,7 +416,7 @@ FMの中継局を設置している局、アナログ[UHFテレビ出力](../Pag
 <td><p>1W</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/瀬戸内市" title="wikilink">長船</a></p></td>
+<td><p><a href="../Page/瀬戸内市.md" title="wikilink">長船</a></p></td>
 <td><p>61ch</p></td>
 <td><p>3W</p></td>
 <td><p>59ch</p></td>
@@ -443,7 +443,7 @@ FMの中継局を設置している局、アナログ[UHFテレビ出力](../Pag
 <td><p>0.1W</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/瀬戸内市" title="wikilink">牛窓</a></p></td>
+<td><p><a href="../Page/瀬戸内市.md" title="wikilink">牛窓</a></p></td>
 <td><p>59ch</p></td>
 <td><p>1W</p></td>
 <td><p>51ch</p></td>
@@ -461,7 +461,7 @@ FMの中継局を設置している局、アナログ[UHFテレビ出力](../Pag
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/和気町" title="wikilink">備前塩田</a></p></td>
+<td><p><a href="../Page/和気町.md" title="wikilink">備前塩田</a></p></td>
 <td><p>55ch</p></td>
 <td><p>0.1W</p></td>
 <td><p>51ch</p></td>
@@ -470,7 +470,7 @@ FMの中継局を設置している局、アナログ[UHFテレビ出力](../Pag
 <td><p>0.01W</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/瀬戸内市" title="wikilink">虫明</a></p></td>
+<td><p><a href="../Page/瀬戸内市.md" title="wikilink">虫明</a></p></td>
 <td><p>49ch</p></td>
 <td><p>1W</p></td>
 <td><p>51ch</p></td>
@@ -530,7 +530,7 @@ FMの中継局を設置している局、アナログ[UHFテレビ出力](../Pag
 
   - 岡山ニュースワイド→岡山モーニングワイド
   - くらしの情報おかやま→こんにちは岡山→ひるまえおかやま→おかやまひだまりカフェ
-  - 6:40ニュース岡山→おかやま630→[イブニングネットワークおかやま](../Page/イブニングネットワーク_\(NHK総合\).md "wikilink")→フレッシュおかやま630→おかやまToday630→[きびきびワイド](https://ja.wikipedia.org/wiki/きびきびワイド "wikilink")→[ニュースコア6岡山](../Page/ニュースコア6岡山.md "wikilink")
+  - 6:40ニュース岡山→おかやま630→[イブニングネットワークおかやま](../Page/イブニングネットワーク_\(NHK総合\).md "wikilink")→フレッシュおかやま630→おかやまToday630→[きびきびワイド](../Page/きびきびワイド.md "wikilink")→[ニュースコア6岡山](../Page/ニュースコア6岡山.md "wikilink")
 
 ### ラジオ第1放送
 
@@ -573,7 +573,7 @@ FMの中継局を設置している局、アナログ[UHFテレビ出力](../Pag
 </tr>
 <tr class="odd">
 <td><p>永松隆太朗*</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK青森放送局" title="wikilink">青森</a></p></td>
+<td><p><a href="../Page/NHK青森放送局.md" title="wikilink">青森</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

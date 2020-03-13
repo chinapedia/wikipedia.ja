@@ -13,7 +13,7 @@
 
 デジタルカメラを使わず、フィルムカメラで撮った写真を[スキャナなどで読み込んで発表する方法もある](../Page/イメージスキャナ.md "wikilink")。
 
-[トーマス・ルフ](https://ja.wikipedia.org/wiki/トーマス・ルフ "wikilink")の「ヌードシリーズ」のように[アダルトサイト](https://ja.wikipedia.org/wiki/アダルトサイト "wikilink")の画像を[画像処理](https://ja.wikipedia.org/wiki/画像処理 "wikilink")したものなど、元来の撮影行為の意味を越えて、web上の画像を自身の作品として扱う表現手段などもある。
+[トーマス・ルフ](https://ja.wikipedia.org/wiki/トーマス・ルフ "wikilink")の「ヌードシリーズ」のように[アダルトサイト](../Page/アダルトサイト.md "wikilink")の画像を[画像処理](../Page/画像処理.md "wikilink")したものなど、元来の撮影行為の意味を越えて、web上の画像を自身の作品として扱う表現手段などもある。
 
 一方で[小林のりお](../Page/小林のりお.md "wikilink")は「なぜヤフオク図鑑か」というシリーズで、商品の写真を撮り、その画像を[Yahoo\! オークションに掲載することで](https://ja.wikipedia.org/wiki/Yahoo!_オークション "wikilink")、その場をWeb写真展の空間にした。（→ 『[なぜ、植物図鑑か](../Page/なぜ、植物図鑑か.md "wikilink")』）
 
@@ -24,12 +24,12 @@
 
 ## 関連書籍
 
-  - 「デジグラフィ デジタルは写真を殺すのか？」（[飯沢耕太郎](https://ja.wikipedia.org/wiki/飯沢耕太郎 "wikilink")、[中央公論社](https://ja.wikipedia.org/wiki/中央公論社 "wikilink")、2004年）ISBN 4120034887
+  - 「デジグラフィ デジタルは写真を殺すのか？」（[飯沢耕太郎](../Page/飯沢耕太郎.md "wikilink")、[中央公論社](https://ja.wikipedia.org/wiki/中央公論社 "wikilink")、2004年）ISBN 4120034887
   - 「photonwork」([武蔵野美術大学](../Page/武蔵野美術大学.md "wikilink")映像学科写真表現コースの写真研究誌、第2号にて上記の小林のりお「なぜヤフオク図鑑か」が掲載されており右記アドレスよりpdf版がダウンロード可能（2007年3月16日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）)
 
 ## 関連項目
 
-  - [ガーリーフォト](https://ja.wikipedia.org/wiki/ガーリーフォト "wikilink")
+  - [ガーリーフォト](../Page/ガーリーフォト.md "wikilink")
   - [Flickr](../Page/Flickr.md "wikilink")
   - [Instagram](https://ja.wikipedia.org/wiki/Instagram "wikilink")
 

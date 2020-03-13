@@ -7,20 +7,20 @@
 
 ## メンバー
 
-  - **[吉井和哉](https://ja.wikipedia.org/wiki/吉井和哉 "wikilink")**（よしい かずや、[1966年](../Page/1966年.md "wikilink")[10月8日](../Page/10月8日.md "wikilink") - ）
-      - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・ギター担当。愛称・ロビン（LOVIN）。[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[北区出身](https://ja.wikipedia.org/wiki/北区_\(東京都\) "wikilink")。静岡県育ち。[静岡市立安東中学校](../Page/静岡市立安東中学校.md "wikilink")卒業。ほとんどの楽曲の作詞作曲を行っている。解散後はYOSHII LOVINSONとしてソロ活動を行い、2006年からは再び吉井和哉名義に戻して活動している。ジャパニーズメタルバンドのアーグ・ポリスでベースを担当していた\[5\]。
+  - **[吉井和哉](../Page/吉井和哉.md "wikilink")**（よしい かずや、[1966年](../Page/1966年.md "wikilink")[10月8日](../Page/10月8日.md "wikilink") - ）
+      - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・ギター担当。愛称・ロビン（LOVIN）。[東京都](../Page/東京都.md "wikilink")[北区出身](https://ja.wikipedia.org/wiki/北区_\(東京都\) "wikilink")。静岡県育ち。[静岡市立安東中学校](../Page/静岡市立安東中学校.md "wikilink")卒業。ほとんどの楽曲の作詞作曲を行っている。解散後はYOSHII LOVINSONとしてソロ活動を行い、2006年からは再び吉井和哉名義に戻して活動している。ジャパニーズメタルバンドのアーグ・ポリスでベースを担当していた\[5\]。
   - **[菊地英昭](../Page/菊地英昭.md "wikilink")**（きくち ひであき、[1964年](../Page/1964年.md "wikilink")[12月7日](../Page/12月7日.md "wikilink") - ）
       - [ギター](../Page/ギター.md "wikilink")担当。愛称・エマ（EMMA）。東京都[八王子市](https://ja.wikipedia.org/wiki/八王子市 "wikilink")出身、[日本大学文理学部応用地学科卒業](https://ja.wikipedia.org/wiki/日本大学文理学部・大学院文学研究科及び総合基礎科学研究科 "wikilink")。一部の楽曲では作曲も行っている。現在はソロプロジェクト「[brainchild's](https://ja.wikipedia.org/wiki/brainchild's "wikilink")」の他、様々なアーティストのサポートメンバーとして活動している。
   - **[廣瀬洋一](../Page/廣瀬洋一.md "wikilink")**（ひろせ よういち、[1963年](../Page/1963年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink") - ）
-      - [ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。愛称・ヒーセ（HEESEY）。東京都[足立区](../Page/足立区.md "wikilink")出身、[日本大学経済学部中退](https://ja.wikipedia.org/wiki/日本大学経済学部・大学院経済学研究科 "wikilink")。一部の楽曲では作曲も行っている。2008年からはTYOのベースとして活動している。ジャパニーズメタルバンドMURBASでも活躍\[6\]。
+      - [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。愛称・ヒーセ（HEESEY）。東京都[足立区](../Page/足立区.md "wikilink")出身、[日本大学経済学部中退](https://ja.wikipedia.org/wiki/日本大学経済学部・大学院経済学研究科 "wikilink")。一部の楽曲では作曲も行っている。2008年からはTYOのベースとして活動している。ジャパニーズメタルバンドMURBASでも活躍\[6\]。
   - **[菊地英二](../Page/菊地英二.md "wikilink")**（きくち えいじ、[1967年](../Page/1967年.md "wikilink")[6月6日](../Page/6月6日.md "wikilink") - ）
-      - [ドラム担当](../Page/ドラムセット.md "wikilink")。愛称・アニー（ANNIE）。東京都八王子市出身、[桐朋高校](https://ja.wikipedia.org/wiki/桐朋高校 "wikilink")、[中央大学](https://ja.wikipedia.org/wiki/中央大学 "wikilink")[理工学部](../Page/理工学部.md "wikilink")精密機械工学科卒業。菊地英昭の実弟。2008年からはアニー名義でBIG BITESのドラムとして活動している。
+      - [ドラム担当](../Page/ドラムセット.md "wikilink")。愛称・アニー（ANNIE）。東京都八王子市出身、[桐朋高校](https://ja.wikipedia.org/wiki/桐朋高校 "wikilink")、[中央大学](../Page/中央大学.md "wikilink")[理工学部](../Page/理工学部.md "wikilink")精密機械工学科卒業。菊地英昭の実弟。2008年からはアニー名義でBIG BITESのドラムとして活動している。
 
 ### サポートメンバー
 
-  - **[三国義貴](../Page/三国義貴.md "wikilink")**（みくに よしたか、[1955年](../Page/1955年.md "wikilink")[7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink") - ）
-      - [キーボード担当](../Page/キーボード_\(楽器\).md "wikilink")。[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")出身、[北海道札幌西高等学校](https://ja.wikipedia.org/wiki/北海道札幌西高等学校 "wikilink")卒業。4thアルバム『[smile](https://ja.wikipedia.org/wiki/smile_\(THE_YELLOW_MONKEYのアルバム\) "wikilink")』から制作・ライブ演奏のサポートメンバーとして活動していた。
-  - **鶴谷崇**（つるたに たかし、[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[11月17日](../Page/11月17日.md "wikilink") - ）
+  - **[三国義貴](../Page/三国義貴.md "wikilink")**（みくに よしたか、[1955年](../Page/1955年.md "wikilink")[7月23日](../Page/7月23日.md "wikilink") - ）
+      - [キーボード担当](../Page/キーボード_\(楽器\).md "wikilink")。[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")出身、[北海道札幌西高等学校](../Page/北海道札幌西高等学校.md "wikilink")卒業。4thアルバム『[smile](https://ja.wikipedia.org/wiki/smile_\(THE_YELLOW_MONKEYのアルバム\) "wikilink")』から制作・ライブ演奏のサポートメンバーとして活動していた。
+  - **鶴谷崇**（つるたに たかし、[1970年](../Page/1970年.md "wikilink")[11月17日](../Page/11月17日.md "wikilink") - ）
       - 兵庫県神戸市出身、[ノース・テキサス大学](https://ja.wikipedia.org/wiki/ノース・テキサス大学 "wikilink")の音楽学部ジャズ科卒業。
       - 1999年に[Mary-go roundとしてデビュー](../Page/Mary-go_round.md "wikilink")。2002年より活動休止。
       - 2006年からは吉井のソロ活動にサポートキーボーディストとして参加。2016年からTHE YELLOW MONKEYのサポートメンバーとして活動開始。
@@ -53,7 +53,7 @@
 
 1988年に結成。当初は元SHOCKの松尾賢一がボーカル、元URGH POLICEの吉井がベースを担当していたが、以前から親交のあった元MURBASの[廣瀬洋一](../Page/廣瀬洋一.md "wikilink")をメンバーに誘い、吉井はギターに転向した。さらに「KILLER MAY」のドラムとして1986年にメジャーデビューしていた[菊地英二](../Page/菊地英二.md "wikilink")が同バンドの解散後に加入する。後に松尾が吉井との「音楽的な意見の食い違い」を理由に脱退したため吉井がボーカルに転向し、「KILLER MAY」のギターとして活動していた英二の実兄・[英昭が加入](../Page/菊地英昭.md "wikilink")。1989年12月28日に現メンバーで初めてのライブを行う。
 
-当時は[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")のライブハウス「[渋谷La.mama](https://ja.wikipedia.org/wiki/渋谷La.mama "wikilink")」を拠点に精力的なライブ活動を行っていた。バンド初期は[デヴィッド・ボウイ](https://ja.wikipedia.org/wiki/デヴィッド・ボウイ "wikilink")、[ミック・ロンソン](../Page/ミック・ロンソン.md "wikilink")、[T.Rexなどを彷彿とさせる](https://ja.wikipedia.org/wiki/T・レックス "wikilink")[グラムロック](../Page/グラムロック.md "wikilink")色が強く、メンバーが奇抜な衣装に派手な化粧をしたりするなど後の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")のようなルックスをしており、ヴィジュアル系を取り扱う雑誌やライブイベントにも参加していた。
+当時は[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")のライブハウス「[渋谷La.mama](https://ja.wikipedia.org/wiki/渋谷La.mama "wikilink")」を拠点に精力的なライブ活動を行っていた。バンド初期は[デヴィッド・ボウイ](https://ja.wikipedia.org/wiki/デヴィッド・ボウイ "wikilink")、[ミック・ロンソン](../Page/ミック・ロンソン.md "wikilink")、[T.Rexなどを彷彿とさせる](../Page/T・レックス.md "wikilink")[グラムロック](../Page/グラムロック.md "wikilink")色が強く、メンバーが奇抜な衣装に派手な化粧をしたりするなど後の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")のようなルックスをしており、ヴィジュアル系を取り扱う雑誌やライブイベントにも参加していた。
 
 当初の観客動員は好調であったが、ダークな楽曲が中心だったこともあり徐々に動員数は減少。しかし、グラムロックイベントにて「SLEEPLESS IMAGINATION」（『[Bunched Birth](https://ja.wikipedia.org/wiki/Bunched_Birth "wikilink")』収録曲）を初披露して以降、動員数は増加した\[17\]。ベースの廣瀬は「ダーク色もありつつ、デヴィッド・ボウイのような煌びやかさをミックスしたグラムロックを鳴らし始めたからこそ、動員数が増えたのかもしれない」としている\[18\]。また、吉井がライブで女装をし、[オカマ](https://ja.wikipedia.org/wiki/オカマ "wikilink")キャラを演じることにより当初苦手だったMCが「面白い」と評判になったことも動員数増加の後押しとなった\[19\]。当時の観客層は9割女性だったという\[20\]。
 
@@ -69,7 +69,7 @@
 
 デビュー以降思うようなセールスを残せなかったことで、メンバーはスタッフとミーティングを重ねた。ディレクターである宗清との「10万枚で終わるか、オリコン1位を目指すのか」という話し合いに、メンバーは「オリコン1位を目指す」という答えを出し、これを機にしてチャート向けな楽曲作りに路線変更する\[27\]。1995年1月にリリースされた5thシングル「[Love Communication](https://ja.wikipedia.org/wiki/Love_Communication "wikilink")」はヒット曲を意識して作られ、目論見通り自身初のオリコンシングルチャートTOP30入りを果たし、スマッシュヒットを記録。同年2月にリリースされた4thアルバム『[smile](https://ja.wikipedia.org/wiki/smile_\(THE_YELLOW_MONKEYのアルバム\) "wikilink")』はオリコンアルバムチャート初登場4位を記録し、大幅に売上はアップした。
 
-このアルバムを引っさげ、同年4月に初の日本武道館公演を実施し、即日完売するなど順調に人気を上げていく。同年7月にリリースされた7thシングル「[追憶のマーメイド](../Page/追憶のマーメイド.md "wikilink")」がシングル初のTOP20入り、同年9月にリリースされた8thシングル「[太陽が燃えている](../Page/太陽が燃えている.md "wikilink")」がシングル初のTOP10入り、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")でレコーディングされた5thアルバム『[FOUR SEASONS](https://ja.wikipedia.org/wiki/FOUR_SEASONS "wikilink")』が念願のオリコン初登場1位を記録するなど、バンドの人気を確実なものとする。帰国後まもなく始まったツアー「TOUR '95 FOR SEASON」ではトータルで9万人を動員した。
+このアルバムを引っさげ、同年4月に初の日本武道館公演を実施し、即日完売するなど順調に人気を上げていく。同年7月にリリースされた7thシングル「[追憶のマーメイド](../Page/追憶のマーメイド.md "wikilink")」がシングル初のTOP20入り、同年9月にリリースされた8thシングル「[太陽が燃えている](../Page/太陽が燃えている.md "wikilink")」がシングル初のTOP10入り、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")でレコーディングされた5thアルバム『[FOUR SEASONS](../Page/FOUR_SEASONS.md "wikilink")』が念願のオリコン初登場1位を記録するなど、バンドの人気を確実なものとする。帰国後まもなく始まったツアー「TOUR '95 FOR SEASON」ではトータルで9万人を動員した。
 
 1996年2月にリリースされた9thシングル「[JAM/Tactics](https://ja.wikipedia.org/wiki/JAM/Tactics "wikilink")」が累計80万枚（公称。オリコンでは約60万枚）、同年7月にリリースされた10thシングル「[SPARK](../Page/SPARK_\(THE_YELLOW_MONKEYの曲\).md "wikilink")」が累計55万枚を超えるヒットを記録する。
 
@@ -77,7 +77,7 @@
 
   - レコード会社移籍後
 
-「SPARK」リリースの直後、1996年7月に日本コロムビアを離れて[ファンハウス](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")（現・[アリオラジャパン](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink")）に移籍。吉井は移籍に関し「『ちょっと違うレーベルでやってみたいね』っていうことだった」「色々折り合いがつかない部分が出てきた」ためと後年に振り返っている\[28\]。同年の12月には日本コロムビアから非公認[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『[TRIAD YEARS actI〜THE VERY BEST OF THE YELLOW MONKEY](https://ja.wikipedia.org/wiki/TRIAD_YEARS_THE_VERY_BEST_OF_THE_YELLOW_MONKEY "wikilink")』が発売され、バンド唯一の[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を記録した。
+「SPARK」リリースの直後、1996年7月に日本コロムビアを離れて[ファンハウス](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")（現・[アリオラジャパン](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink")）に移籍。吉井は移籍に関し「『ちょっと違うレーベルでやってみたいね』っていうことだった」「色々折り合いがつかない部分が出てきた」ためと後年に振り返っている\[28\]。同年の12月には日本コロムビアから非公認[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[TRIAD YEARS actI〜THE VERY BEST OF THE YELLOW MONKEY](https://ja.wikipedia.org/wiki/TRIAD_YEARS_THE_VERY_BEST_OF_THE_YELLOW_MONKEY "wikilink")』が発売され、バンド唯一の[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を記録した。
 
 ファンハウス移籍後は独自のロックを追求。吉井は6thアルバム『[SICKS](../Page/SICKS.md "wikilink")』の制作にあたり、「1日3曲録音をノルマ」とする。作成した300曲を80曲に絞り、さらに厳選したものを収録曲とした。吉井は当時の状況を振り返り「自分の中で、音楽がものすごく噴出してるのがわかった」と語っている\[29\]。『SICKS』は吉井自らが最高傑作と自負する作品となり、オリコン初登場1位、オリジナルアルバムでは自身最高の売上を記録した。
 
@@ -101,7 +101,7 @@
 
   - 外部プロデューサー導入
 
-「PUNCH DRUNKARD TOUR」終了後、吉井は休養期間にシングル候補曲を10曲制作した。さらにバンドサウンドを見直すためのミーティングが行われ、シングル作品に[朝本浩文](https://ja.wikipedia.org/wiki/朝本浩文 "wikilink")、[森俊之](https://ja.wikipedia.org/wiki/森俊之 "wikilink")、[笹路正徳](https://ja.wikipedia.org/wiki/笹路正徳 "wikilink")などの外部プロデューサーを導入する「コラボレーションシリーズ」を行う。吉井は「とにかくバンドを続けていくため、2000年はシングルを多くリリースする」という方針に決定。その理由として、「長期間休んだ後に良いものを作れる自信がなかった。バンドの色々なことを一つずつ直していきたかったから」と語っている\[36\]。
+「PUNCH DRUNKARD TOUR」終了後、吉井は休養期間にシングル候補曲を10曲制作した。さらにバンドサウンドを見直すためのミーティングが行われ、シングル作品に[朝本浩文](../Page/朝本浩文.md "wikilink")、[森俊之](https://ja.wikipedia.org/wiki/森俊之 "wikilink")、[笹路正徳](../Page/笹路正徳.md "wikilink")などの外部プロデューサーを導入する「コラボレーションシリーズ」を行う。吉井は「とにかくバンドを続けていくため、2000年はシングルを多くリリースする」という方針に決定。その理由として、「長期間休んだ後に良いものを作れる自信がなかった。バンドの色々なことを一つずつ直していきたかったから」と語っている\[36\]。
 
 後に吉井は「自分の楽曲を他人に委ねることは、よく考えれば、もう終わったってこと」\[37\]とし、この時期の活動へ否定的なスタンスに立っているが、反面「このまま手癖で続けるわけにもいかず、30代、40代とバンドを続けていくために必要なことだったのも事実」ともした\[38\]。また、招聘したプロデューサー陣は「このままがいい」などとし、バンド・吉井の狙いとは裏腹にサウンド面へ変化をもたらすディレクションはあまり受けることはなかったという\[39\]。
 
@@ -115,7 +115,7 @@
 
 2000年7月にリリースされた22ndシングル「[パール](https://ja.wikipedia.org/wiki/パール_\(THE_YELLOW_MONKEYの曲\) "wikilink")」、同年7月にリリースされた8thアルバム『8』は吉井のセルフプロデュース作品となった。『8』のアルバムツアーは行われず、バンドは初となる国内ロックフェスに参加。しかし、そこでの吉井はノーメイクでジャージ姿という格好で出演。「はたから見ても異常、イエローモンキーを引き受けていない」状態であった\[43\]。
 
-同年12月30日、『[CDTV年越しプレミアライブ](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")』に緊急生出演。吉井が「ツアーが終わったら、俺たちプー太郎になっちゃうけど…」とコメントした後、23rdシングル「[BRILLIANT WORLD](https://ja.wikipedia.org/wiki/BRILLIANT_WORLD "wikilink")」を披露し番組のトリを飾る。これが活動休止前の実質THE YELLOW MONKEYとしての最後のTV出演となった。
+同年12月30日、『[CDTV年越しプレミアライブ](../Page/COUNT_DOWN_TV.md "wikilink")』に緊急生出演。吉井が「ツアーが終わったら、俺たちプー太郎になっちゃうけど…」とコメントした後、23rdシングル「[BRILLIANT WORLD](https://ja.wikipedia.org/wiki/BRILLIANT_WORLD "wikilink")」を披露し番組のトリを飾る。これが活動休止前の実質THE YELLOW MONKEYとしての最後のTV出演となった。
 
 2001年1月8日に初の[東京ドーム](../Page/東京ドーム.md "wikilink")公演となる「メカラ ウロコ・8」を行う（詳細は後述）。吉井は「最後の東京ドームのライブは死んでた。（中略）なんの気持ちの昂りもなかった」「とにかくこれをやったら終われる。やっと休める」といった気持ちを持っていたという\[44\]。初の大舞台にも関わらずメンバーはステージ裏で円陣を組んだり会話をしたりすることもなく淡々としており、「振り返ると、それだけモンスターバンドだったんだなあと。（中略）もう本能でやれる」と胸懐した\[45\]。
 
@@ -131,9 +131,9 @@
 
   - 解散期間中の活動
 
-バンド解散後、各メンバーはソロミュージシャンとしての活動を継続。特にフロントマンの吉井は大規模なツアーを行うなど精力的に活動する。THE YELLOW MONKEYとしても、解散後にもかかわらず公式ウェブサイトが開設された。吉井はソロ活動で2007年に「"JAM" 以来」の「空気感が出せた」シングル「[バッカ](https://ja.wikipedia.org/wiki/バッカ "wikilink")」をリリースし、この[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")の中では「JAM」の映像が使用されている。解散中も様々なミュージシャンがTHE YELLOW MONKEYの各曲をカバーし、披露した。バンドへの[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")『[THIS IS FOR YOU〜THE YELLOW MONKEY TRIBUTE ALBUM](https://ja.wikipedia.org/wiki/THIS_IS_FOR_YOU〜THE_YELLOW_MONKEY_TRIBUTE_ALBUM "wikilink")』はファンハウスを引き継いだレコード会社[アリオラジャパン](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink")から2009年にリリースされた。2013年に吉井が「来年から、普通じゃない野良犬に戻ります」を宣言しファン投票ベストアルバム『[イエモン-FAN'S BEST SELECTION-](https://ja.wikipedia.org/wiki/イエモン-FAN'S_BEST_SELECTION- "wikilink")』（コロムビア）の発売・アルバムリマスター盤の発売・過去のライブDVDのリリースなどが行われた。
+バンド解散後、各メンバーはソロミュージシャンとしての活動を継続。特にフロントマンの吉井は大規模なツアーを行うなど精力的に活動する。THE YELLOW MONKEYとしても、解散後にもかかわらず公式ウェブサイトが開設された。吉井はソロ活動で2007年に「"JAM" 以来」の「空気感が出せた」シングル「[バッカ](https://ja.wikipedia.org/wiki/バッカ "wikilink")」をリリースし、この[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")の中では「JAM」の映像が使用されている。解散中も様々なミュージシャンがTHE YELLOW MONKEYの各曲をカバーし、披露した。バンドへの[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")『[THIS IS FOR YOU〜THE YELLOW MONKEY TRIBUTE ALBUM](https://ja.wikipedia.org/wiki/THIS_IS_FOR_YOU〜THE_YELLOW_MONKEY_TRIBUTE_ALBUM "wikilink")』はファンハウスを引き継いだレコード会社[アリオラジャパン](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink")から2009年にリリースされた。2013年に吉井が「来年から、普通じゃない野良犬に戻ります」を宣言しファン投票ベストアルバム『[イエモン-FAN'S BEST SELECTION-](https://ja.wikipedia.org/wiki/イエモン-FAN'S_BEST_SELECTION- "wikilink")』（コロムビア）の発売・アルバムリマスター盤の発売・過去のライブDVDのリリースなどが行われた。
 
-解散からの年月は色々なわだかまりを消し去り、吉井はファンが待っていることも分かっていた\[49\]。吉井は[ロンドン](../Page/ロンドン.md "wikilink")の[ハイド・パークで](../Page/ハイド・パーク_\(ロンドン\).md "wikilink")2013年7月6日と7月13日に開催された[ローリング・ストーンズ](../Page/ローリング・ストーンズ.md "wikilink")の歴史的ライブを観た。バンドが宝であると改めて思った\[50\]。吉井は、もう一回バンドをやってほしいと、かつてのメンバーにロンドンからメールを送信した\[51\]。その頃の吉井は「憧れのレーベル」\[52\]であった[EMIからソロの諸作品をリリースしていたが](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")、2014年11月18日に古巣コロムビアへの移籍を発表した\[53\]。それとともにレアコレクションの発売が敢行された。
+解散からの年月は色々なわだかまりを消し去り、吉井はファンが待っていることも分かっていた\[49\]。吉井は[ロンドン](../Page/ロンドン.md "wikilink")の[ハイド・パークで](../Page/ハイド・パーク_\(ロンドン\).md "wikilink")2013年7月6日と7月13日に開催された[ローリング・ストーンズ](../Page/ローリング・ストーンズ.md "wikilink")の歴史的ライブを観た。バンドが宝であると改めて思った\[50\]。吉井は、もう一回バンドをやってほしいと、かつてのメンバーにロンドンからメールを送信した\[51\]。その頃の吉井は「憧れのレーベル」\[52\]であった[EMIからソロの諸作品をリリースしていたが](../Page/EMIミュージック・ジャパン.md "wikilink")、2014年11月18日に古巣コロムビアへの移籍を発表した\[53\]。それとともにレアコレクションの発売が敢行された。
 
   - 再集結の新年
 
@@ -145,7 +145,7 @@
 
 ツアー初日の5月11日は、解散前最後の楽曲にして唯一シングル曲においてコンサート未披露状態にあった「プライマル。」の初演を1曲目としてスタートし（この曲は多数のテレビ、ラジオ、インターネットライブ放送局が生中継した）、さらに「楽園」「BURN」などのファンハウス時代のヒット作を中心に、2月にWeb公開した15年ぶりの最新曲「[ALRIGHT](https://ja.wikipedia.org/wiki/砂の塔_\(THE_YELLOW_MONKEYの曲\) "wikilink")」も含めた集大成公演であった。ツアー後半ではコアファン向けに『SICKS』の曲目を中心に一部セットリストを入れ替えている。
 
-吉井は「15年の間様々な事がありました。具体的には[おそ松くん](https://ja.wikipedia.org/wiki/おそ松くん "wikilink")が[おそ松さん](https://ja.wikipedia.org/wiki/おそ松さん "wikilink")に変わりました」などと笑いを取る一方で「今日だけは素直に言わせて下さい。ただいま\!」と復活の喜びをMCに込め、さらに「今後も継続して活動したいと思いますよ」「このTHE YELLOW MONKEYは生涯解散することはありません」とバンド活動の永続を宣言し、この発言の真意を8月に出演したNHK『[SONGS](../Page/SONGS_\(テレビ番組\).md "wikilink")』においても語っている。
+吉井は「15年の間様々な事がありました。具体的には[おそ松くん](../Page/おそ松くん.md "wikilink")が[おそ松さん](https://ja.wikipedia.org/wiki/おそ松さん "wikilink")に変わりました」などと笑いを取る一方で「今日だけは素直に言わせて下さい。ただいま\!」と復活の喜びをMCに込め、さらに「今後も継続して活動したいと思いますよ」「このTHE YELLOW MONKEYは生涯解散することはありません」とバンド活動の永続を宣言し、この発言の真意を8月に出演したNHK『[SONGS](../Page/SONGS_\(テレビ番組\).md "wikilink")』においても語っている。
 
 ## メカラ ウロコ
 
@@ -220,11 +220,11 @@
 
 ## フジロックフェスティバル
 
-1997年7月26日、[天神山スキー場](https://ja.wikipedia.org/wiki/ふじてんスノーリゾート "wikilink")（[山梨県](../Page/山梨県.md "wikilink")）で開催された第1回目の「フジロックフェスティバル」1日目に参加。[レイジ・アゲインスト・ザ・マシーン](https://ja.wikipedia.org/wiki/レイジ・アゲインスト・ザ・マシーン "wikilink")（以下RATM）とヘッドライナーの[レッド・ホット・チリ・ペッパーズ](https://ja.wikipedia.org/wiki/レッド・ホット・チリ・ペッパーズ "wikilink")（以下RHCP）に挟まれ、トリ前での登場というタイムテーブルであった。
+1997年7月26日、[天神山スキー場](https://ja.wikipedia.org/wiki/ふじてんスノーリゾート "wikilink")（[山梨県](../Page/山梨県.md "wikilink")）で開催された第1回目の「フジロックフェスティバル」1日目に参加。[レイジ・アゲインスト・ザ・マシーン](../Page/レイジ・アゲインスト・ザ・マシーン.md "wikilink")（以下RATM）とヘッドライナーの[レッド・ホット・チリ・ペッパーズ](../Page/レッド・ホット・チリ・ペッパーズ.md "wikilink")（以下RHCP）に挟まれ、トリ前での登場というタイムテーブルであった。
 
-この音楽フェスティバルに大勢のファンが駆け付け、朝一番から何百人とステージ最前列に並んだ\[60\]（このフェスでは、後々まで語り継がれるいわゆる「イエモン地蔵」と呼ばれる現象も発生した\[61\]）。最前列のため雨中に傘やレインコートも無く、上に[ノースリーブ](https://ja.wikipedia.org/wiki/ノースリーブ "wikilink")・下にスカート・足元にハイヒールかサンダルという格好の女性らの姿がそこにあり\[62\]、台風直撃も影響して気温の低下もみられた\[63\]。主催の[SMASH代表](https://ja.wikipedia.org/wiki/SMASH_\(企業\) "wikilink")・[日高正博](https://ja.wikipedia.org/wiki/日高正博 "wikilink")はその光景を見て心配になり、（18時開演予定の）出番まで最前列を一度離れるよう女の子たちに声をかけた\[64\]ところ「こんなに近くで会えるチャンスはない」「離れたら同じ場所にまた戻って来られるようにしてもらえるのか」など、日高に食い下がる事態も起こった\[65\]。
+この音楽フェスティバルに大勢のファンが駆け付け、朝一番から何百人とステージ最前列に並んだ\[60\]（このフェスでは、後々まで語り継がれるいわゆる「イエモン地蔵」と呼ばれる現象も発生した\[61\]）。最前列のため雨中に傘やレインコートも無く、上に[ノースリーブ](../Page/ノースリーブ.md "wikilink")・下にスカート・足元にハイヒールかサンダルという格好の女性らの姿がそこにあり\[62\]、台風直撃も影響して気温の低下もみられた\[63\]。主催の[SMASH代表](https://ja.wikipedia.org/wiki/SMASH_\(企業\) "wikilink")・[日高正博](https://ja.wikipedia.org/wiki/日高正博 "wikilink")はその光景を見て心配になり、（18時開演予定の）出番まで最前列を一度離れるよう女の子たちに声をかけた\[64\]ところ「こんなに近くで会えるチャンスはない」「離れたら同じ場所にまた戻って来られるようにしてもらえるのか」など、日高に食い下がる事態も起こった\[65\]。
 
-[フー・ファイターズ](https://ja.wikipedia.org/wiki/フー・ファイターズ "wikilink")（以下FF）の演目が始まる頃、大雨の会場は[モッシュ](../Page/モッシュ.md "wikilink")や[クラウド・サーフィング](https://ja.wikipedia.org/wiki/クラウド・サーフィング "wikilink")で大盛り上がりになり、既に会場の前方は泥だらけであった\[66\]。最前列に残っていたファンの女性らは「モッシュに押し潰され、泣きながら、ステージも観ないで、唯々最前列にしがみついてTHE YELLOW MONKEYの出番を待っていた\[67\]」という。日高はそれらに困ってもいたが、運営責任者としてはこれ以上は危険であり気が気ではなく、ファンのために出番を早めてFFの次（RATMの前）へ振り替えることを提案\[68\]し、THE YELLOW MONKEYサイドが承諾\[69\]。しかし、RATMサイドは「自分たちは変更に異論はないが、フェスティバルの流れでいえばフー・ファイターズの後にTHE YELLOW MONKEYが演奏するより、RATMとRHCPの間に（メロウでスローな）THE YELLOW MONKEYが演奏する従来通りの順番のほうが観客全体を落ち着かせ、危険な状態を回避できるのではないか」とアドバイスを送る\[70\]。フェス全体としてはRATM・RHCPが続くほうがより危険であるというこのアドバイスにより、順番変更は実現しなかったが\[71\]、日高は[トム・モレロ](https://ja.wikipedia.org/wiki/トム・モレロ "wikilink")と打ち合わせて、ステージ袖に立つ日高とステージ上のトムで時々アイコンタクトをして、日高とトムの判断次第で演奏ストップにしようと決めた\[72\]。RATMの演奏から15分ほど経過すると、観客はモッシュのマナーが出来ていて、モッシュが潰れたらお互い助け合う様子を見た日高はステージ袖から立ち去った\[73\]。RATMの演奏は続き、観客は泥まみれになって熱狂した\[74\]。およそ1時間遅れのスケジュールで行われたRATMの演奏後、30分の休憩を挟み、THE YELLOW MONKEYが登場した。
+[フー・ファイターズ](../Page/フー・ファイターズ.md "wikilink")（以下FF）の演目が始まる頃、大雨の会場は[モッシュ](../Page/モッシュ.md "wikilink")や[クラウド・サーフィング](https://ja.wikipedia.org/wiki/クラウド・サーフィング "wikilink")で大盛り上がりになり、既に会場の前方は泥だらけであった\[66\]。最前列に残っていたファンの女性らは「モッシュに押し潰され、泣きながら、ステージも観ないで、唯々最前列にしがみついてTHE YELLOW MONKEYの出番を待っていた\[67\]」という。日高はそれらに困ってもいたが、運営責任者としてはこれ以上は危険であり気が気ではなく、ファンのために出番を早めてFFの次（RATMの前）へ振り替えることを提案\[68\]し、THE YELLOW MONKEYサイドが承諾\[69\]。しかし、RATMサイドは「自分たちは変更に異論はないが、フェスティバルの流れでいえばフー・ファイターズの後にTHE YELLOW MONKEYが演奏するより、RATMとRHCPの間に（メロウでスローな）THE YELLOW MONKEYが演奏する従来通りの順番のほうが観客全体を落ち着かせ、危険な状態を回避できるのではないか」とアドバイスを送る\[70\]。フェス全体としてはRATM・RHCPが続くほうがより危険であるというこのアドバイスにより、順番変更は実現しなかったが\[71\]、日高は[トム・モレロ](https://ja.wikipedia.org/wiki/トム・モレロ "wikilink")と打ち合わせて、ステージ袖に立つ日高とステージ上のトムで時々アイコンタクトをして、日高とトムの判断次第で演奏ストップにしようと決めた\[72\]。RATMの演奏から15分ほど経過すると、観客はモッシュのマナーが出来ていて、モッシュが潰れたらお互い助け合う様子を見た日高はステージ袖から立ち去った\[73\]。RATMの演奏は続き、観客は泥まみれになって熱狂した\[74\]。およそ1時間遅れのスケジュールで行われたRATMの演奏後、30分の休憩を挟み、THE YELLOW MONKEYが登場した。
 
 当日のセットリストは以下の通り。
 
@@ -241,13 +241,13 @@
 
 これらのヒット曲を控えたセットリスト（10曲中7曲がアルバム収録曲）と、台風に伴う豪雨に見舞われた天候もあり観客の反応は芳しくなく、楽屋では他のメンバーが盛り上がる中、吉井は1人憔悴した面持ちで静かに座っていた\[75\]\[76\]。後に吉井は自らの自伝で「『洋楽ファンに叩きつけてやる\!』って。叩きつけたはいいけども……なんだかわけのわかんないことになっちゃって」「変な話、あのフジロックの挫折感で、解散しちゃったようなもんだから。解散の理由の何%かは」\[77\]などと回想し、本人にとって厳しい経験となった。セットリストに関しても、吉井は「『過去の楽曲で一番ロック的なものを用意してあげなきゃ』って思って、裏目に出たんですね」\[78\]と反省の弁を述べた。
 
-また、THE YELLOW MONKEY出演を日高に推した[渋谷陽一](https://ja.wikipedia.org/wiki/渋谷陽一 "wikilink")は\[79\]、この当時に『ROCKIN'ON JAPAN』の邦楽アーティストの人気投票でTHE YELLOW MONKEYが1位に選出されたことを踏まえ「洋楽のユーザーにとって一番人気のあるバンドであり、それがウケなかったのはプレゼンテーションを間違えたということ」と評価。失敗の要因は「吉井くんの気負いと自意識だったのではないか」と分析している\[80\]。
+また、THE YELLOW MONKEY出演を日高に推した[渋谷陽一](../Page/渋谷陽一.md "wikilink")は\[79\]、この当時に『ROCKIN'ON JAPAN』の邦楽アーティストの人気投票でTHE YELLOW MONKEYが1位に選出されたことを踏まえ「洋楽のユーザーにとって一番人気のあるバンドであり、それがウケなかったのはプレゼンテーションを間違えたということ」と評価。失敗の要因は「吉井くんの気負いと自意識だったのではないか」と分析している\[80\]。
 
 一方、ギターの菊地は「そこまで失敗感はない」とし、「RHCPやFFがノリノリで聴いてくれたこともあり、非常に嬉しかった」と対照的な意見を述べている\[81\]。
 
 ## PV
 
-「Love Communication」、「JAM」の[プロモーションビデオは吉井自らの監督で撮影された](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。次のシングル「SPARK」以降は「パール」と「プライマル。」を除く13曲のシングルで[高橋栄樹](https://ja.wikipedia.org/wiki/高橋栄樹 "wikilink")が監督を務めた。高橋は、時間的な余裕と自由な表現を許容され、プロモーションビデオだけでなく映像作品『BLUE FILM』、ライブビデオ『RED TAPE』などを製作し、吉井から「イエローモンキーの第5のメンバー」と言わしめた。
+「Love Communication」、「JAM」の[プロモーションビデオは吉井自らの監督で撮影された](../Page/ミュージック・ビデオ.md "wikilink")。次のシングル「SPARK」以降は「パール」と「プライマル。」を除く13曲のシングルで[高橋栄樹](https://ja.wikipedia.org/wiki/高橋栄樹 "wikilink")が監督を務めた。高橋は、時間的な余裕と自由な表現を許容され、プロモーションビデオだけでなく映像作品『BLUE FILM』、ライブビデオ『RED TAPE』などを製作し、吉井から「イエローモンキーの第5のメンバー」と言わしめた。
 
 高橋は「LOVE LOVE SHOW」「BURN」を監督した1997年に「[SPACE SHOWER Music Video Awards](https://ja.wikipedia.org/wiki/SPACE_SHOWER_Music_Video_Awards "wikilink")」ベストディレクター賞を受賞している。
 
@@ -278,7 +278,7 @@
 <!-- end list -->
 
   -
-    [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")の音楽番組『[JAPAN COUNTDOWN](https://ja.wikipedia.org/wiki/JAPAN_COUNTDOWN "wikilink")』（2000年7月22日放送）にて「直球勝負ならイエローモンキーには勝てない」と語った。このほか雑誌『[BRIDGE](../Page/ロッキング・オン.md "wikilink")』2001年8月号において吉井との「バンドとソロ」をテーマにした対談も行い「ドラムとギターの関係が良好」ということを一目で見抜いた（実際には血の繋がった兄弟同士である）。2016年には、自身の番組『[桑田佳祐のやさしい夜遊び](../Page/桑田佳祐のやさしい夜遊び.md "wikilink")』において毎年行う邦楽シングルベスト発表企画において復活シングル『砂の塔』を5位に付けて高く評価していた。
+    [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")の音楽番組『[JAPAN COUNTDOWN](../Page/JAPAN_COUNTDOWN.md "wikilink")』（2000年7月22日放送）にて「直球勝負ならイエローモンキーには勝てない」と語った。このほか雑誌『[BRIDGE](../Page/ロッキング・オン.md "wikilink")』2001年8月号において吉井との「バンドとソロ」をテーマにした対談も行い「ドラムとギターの関係が良好」ということを一目で見抜いた（実際には血の繋がった兄弟同士である）。2016年には、自身の番組『[桑田佳祐のやさしい夜遊び](../Page/桑田佳祐のやさしい夜遊び.md "wikilink")』において毎年行う邦楽シングルベスト発表企画において復活シングル『砂の塔』を5位に付けて高く評価していた。
 
 <!-- end list -->
 
@@ -291,7 +291,7 @@
 
 <!-- end list -->
 
-  - [KISS](https://ja.wikipedia.org/wiki/キッス "wikilink")
+  - [KISS](../Page/キッス.md "wikilink")
 
 <!-- end list -->
 
@@ -328,7 +328,7 @@
 
 <!-- end list -->
 
-  - [藤巻亮太](https://ja.wikipedia.org/wiki/藤巻亮太 "wikilink")（[レミオロメン](https://ja.wikipedia.org/wiki/レミオロメン "wikilink")）
+  - [藤巻亮太](../Page/藤巻亮太.md "wikilink")（[レミオロメン](../Page/レミオロメン.md "wikilink")）
 
 <!-- end list -->
 
@@ -337,7 +337,7 @@
 
 <!-- end list -->
 
-  - [9mm Parabellum Bullet](https://ja.wikipedia.org/wiki/9mm_Parabellum_Bullet "wikilink")
+  - [9mm Parabellum Bullet](../Page/9mm_Parabellum_Bullet.md "wikilink")
 
 <!-- end list -->
 
@@ -346,7 +346,7 @@
 
 <!-- end list -->
 
-  - [THE BACK HORN](https://ja.wikipedia.org/wiki/THE_BACK_HORN "wikilink")
+  - [THE BACK HORN](../Page/THE_BACK_HORN.md "wikilink")
 
 <!-- end list -->
 
@@ -355,7 +355,7 @@
 
 <!-- end list -->
 
-  - [DAIGO](https://ja.wikipedia.org/wiki/DAIGO "wikilink")（[BREAKERZ](https://ja.wikipedia.org/wiki/BREAKERZ "wikilink")）
+  - [DAIGO](../Page/DAIGO.md "wikilink")（[BREAKERZ](https://ja.wikipedia.org/wiki/BREAKERZ "wikilink")）
 
 <!-- end list -->
 
@@ -373,7 +373,7 @@
 
 <!-- end list -->
 
-  - 吉田佳史（[TRICERATOPS](https://ja.wikipedia.org/wiki/TRICERATOPS "wikilink")）
+  - 吉田佳史（[TRICERATOPS](../Page/TRICERATOPS.md "wikilink")）
 
 <!-- end list -->
 
@@ -396,12 +396,12 @@
 
 **1988年**
 
-  - 1988年結成。当初は吉井が[ベースを担当していたが](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、廣瀬洋一の加入により[ギター](../Page/ギター.md "wikilink")に転向。
+  - 1988年結成。当初は吉井が[ベースを担当していたが](../Page/ベース_\(弦楽器\).md "wikilink")、廣瀬洋一の加入により[ギター](../Page/ギター.md "wikilink")に転向。
 
 **1989年**
 
   - 前ヴォーカルの脱退により、吉井が[ヴォーカリスト](https://ja.wikipedia.org/wiki/ヴォーカリスト "wikilink")に転向。菊地英二の実兄である菊地英昭が加入。
-  - 12月28日、上記4人のメンバーによる初の[ライヴ](https://ja.wikipedia.org/wiki/演奏会 "wikilink")。
+  - 12月28日、上記4人のメンバーによる初の[ライヴ](../Page/演奏会.md "wikilink")。
 
 ### 1990年代
 
@@ -441,21 +441,21 @@
   - 4月11日、初の[日本武道館](../Page/日本武道館.md "wikilink")公演を実施。
   - 7月21日、7thシングル「[追憶のマーメイド](../Page/追憶のマーメイド.md "wikilink")」、ライブビデオ『Cherry Blossom Revolution-Live at BUDOKAN-』リリース。
   - 9月30日、8thシングル「[太陽が燃えている](../Page/太陽が燃えている.md "wikilink")」リリース。初のオリコンシングルチャートTOP10入りを果たす。
-  - 11月1日、5thアルバム『[FOUR SEASONS](https://ja.wikipedia.org/wiki/FOUR_SEASONS "wikilink")』リリース。バンド初のオリコン初登場1位を記録。
+  - 11月1日、5thアルバム『[FOUR SEASONS](../Page/FOUR_SEASONS.md "wikilink")』リリース。バンド初のオリコン初登場1位を記録。
   - 12月、「TOUR'95 FOR SEASON」を実施。
 
 **1996年**
 
   - 1月12日、「TOUR'96 FOR SEASON」追加公演をスタート。
   - 2月29日、9thシングル「[JAM/Tactics](https://ja.wikipedia.org/wiki/JAM/Tactics "wikilink")」リリース。累計80万枚を超えるヒットとなる。
-  - 3月30日、[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")『CLIPS Video Collection 1992〜1996』リリース。
+  - 3月30日、[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")『CLIPS Video Collection 1992〜1996』リリース。
   - 5月、全国43公演を回るツアー「FOR SEASON-野生の証明」を実施。
   - 7月10日、10thシングル「[SPARK](../Page/SPARK_\(THE_YELLOW_MONKEYの曲\).md "wikilink")」リリース。
   - 8月31日、[モット・ザ・フープル](../Page/モット・ザ・フープル.md "wikilink")の[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")『[MOTH POET HOTEL](https://ja.wikipedia.org/wiki/MOTH_POET_HOTEL "wikilink")』リリース。英語カバー曲「[すべての若き野郎ども](https://ja.wikipedia.org/wiki/すべての若き野郎ども "wikilink")」（アルバム参加アーティスト共同カバー）、日本語カバー曲「[ホナルーチ・ブギ](https://ja.wikipedia.org/wiki/ホナルーチ・ブギ "wikilink")」（THE YELLOW MONKEY単独カバー）収録。
   - 10月21日、ライブビデオ『TRUE MIND TOUR'95-'96 FOR SEASON:in motion』リリース。
   - ツアー終了後、所属レコード会社を[ファンハウス](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")（現・[アリオラジャパン](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink")）に移籍。
   - 11月25日、11thシングル「[楽園](../Page/楽園_\(THE_YELLOW_MONKEYの曲\).md "wikilink")」リリース。
-  - 12月7日、[日本コロムビア](../Page/日本コロムビア.md "wikilink")より非公認[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『[TRIAD YEARS actI〜THE VERY BEST OF THE YELLOW MONKEY](https://ja.wikipedia.org/wiki/TRIAD_YEARS_actI〜THE_VERY_BEST_OF_THE_YELLOW_MONKEY "wikilink")』リリース。バンド唯一の[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")となる。
+  - 12月7日、[日本コロムビア](../Page/日本コロムビア.md "wikilink")より非公認[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[TRIAD YEARS actI〜THE VERY BEST OF THE YELLOW MONKEY](https://ja.wikipedia.org/wiki/TRIAD_YEARS_actI〜THE_VERY_BEST_OF_THE_YELLOW_MONKEY "wikilink")』リリース。バンド唯一の[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")となる。
   - 12月21日、インディーズ盤『[Bunched Birth](https://ja.wikipedia.org/wiki/Bunched_Birth "wikilink")』を再発。
   - 12月28日、バンドの誕生日であるこの日に武道館で「メカラ ウロコ・7」を実施。過去の曲を中心に演奏された。
 
@@ -510,7 +510,7 @@
   - 11月1日、23rdシングル「[BRILLIANT WORLD](https://ja.wikipedia.org/wiki/BRILLIANT_WORLD "wikilink")」リリース。
   - 11月15日、1月4日の[大阪ドーム](../Page/大阪ドーム.md "wikilink")、1月8日の[東京ドーム](../Page/東京ドーム.md "wikilink")の公演「メカラ ウロコ・8」終了後、バンドを活動休止することを各[マスコミに発表](../Page/マスメディア.md "wikilink")。
   - 12月9日、ライブビデオ、[DVD](../Page/DVD.md "wikilink")『[SPRING TOUR](https://ja.wikipedia.org/wiki/SPRING_TOUR "wikilink")』リリース。これまでのビデオ作品も全DVD化された。
-  - 12月30日、『[CDTV年越しプレミアライブ](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")』に緊急生出演。
+  - 12月30日、『[CDTV年越しプレミアライブ](../Page/COUNT_DOWN_TV.md "wikilink")』に緊急生出演。
 
 **2001年**
 
@@ -523,7 +523,7 @@
 **2004年**
 
   - 7月7日、解散。
-  - 12月8日、初のメンバー監修で製作されたベストアルバム『[MOTHER OF ALL THE BEST](../Page/MOTHER_OF_ALL_THE_BEST.md "wikilink")』、[PV](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink") BOX『THE YELLOW MONKEY CLIP BOX』、LIVE BOX『THE YELLOW MONKEY LIVE BOX』リリース。
+  - 12月8日、初のメンバー監修で製作されたベストアルバム『[MOTHER OF ALL THE BEST](../Page/MOTHER_OF_ALL_THE_BEST.md "wikilink")』、[PV](../Page/ミュージック・ビデオ.md "wikilink") BOX『THE YELLOW MONKEY CLIP BOX』、LIVE BOX『THE YELLOW MONKEY LIVE BOX』リリース。
   - 12月26日、東京ドームで開催された「THE EXHIBTION AND VIDEO FESTIVAL OF THE YELLOW MONKEY メカラ ウロコ・15」の最終日にメンバーが再集結。「JAM」を演奏した。
   - 12月26日、ライブDVD『[THE YELLOW MONKEY LIVE AT TOKYO DOME](https://ja.wikipedia.org/wiki/THE_YELLOW_MONKEY_LIVE_AT_TOKYO_DOME "wikilink")』リリース。
 
@@ -543,7 +543,7 @@
 **2010年**
 
   - 1月22日、結成20周年記念企画第3弾として、6thアルバム『SICKS』の完全版である『[COMPLETE SICKS](https://ja.wikipedia.org/wiki/SICKS#COMPLETE_SICKS "wikilink")』のリリースが決定。『SICKS』のデジタルリマスタリング・[Blu-spec CD盤](https://ja.wikipedia.org/wiki/Blu-spec_CD "wikilink")、デモ音源を収録したCD、レコーディング風景など秘蔵映像を収録した豪華3枚組仕様での発売となる。
-  - 7月、結成20周年記念企画の一環で、[ユニクロ](../Page/ユニクロ.md "wikilink")との[コラボレーション](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")[Tシャツ](../Page/Tシャツ.md "wikilink")を発売。
+  - 7月、結成20周年記念企画の一環で、[ユニクロ](../Page/ユニクロ.md "wikilink")との[コラボレーション](../Page/コラボレーション.md "wikilink")[Tシャツ](../Page/Tシャツ.md "wikilink")を発売。
 
 **2012年**
 
@@ -554,7 +554,7 @@
   - 6月20日、バンドの全アルバムとミュージック・ビデオの一斉配信が開始。
   - 9月12日、[ニコニコ動画](../Page/ニコニコ動画.md "wikilink")内で「THE YELLOW MONKEYチャンネル」がオープン。
   - 10月10日、デビューシングル「Romantist Taste」を新たにリミックスした「[Romantist Taste 2012](https://ja.wikipedia.org/wiki/Romantist_Taste_2012 "wikilink")」を初回生産限定シングルとしてリリース\[96\]。
-  - 10月21日、1996年に発売されたライブ作品『TRUE MIND TOUR'95-'96 FOR SEASON:in motion』の完全版となる5枚組作品『TRUE MIND “NAKED”』が、オリジナル作品の発売日と同じこの日に発売\[97\]。同作品には、オリジナル作品に収録されていた[日本武道館](../Page/日本武道館.md "wikilink")公演と[NHKホール](https://ja.wikipedia.org/wiki/NHKホール "wikilink")公演がほぼ完全な形でDVD化される他、ツアーオフショットやメンバーのインタビューもロングバージョンとして収録されることが決定している。
+  - 10月21日、1996年に発売されたライブ作品『TRUE MIND TOUR'95-'96 FOR SEASON:in motion』の完全版となる5枚組作品『TRUE MIND “NAKED”』が、オリジナル作品の発売日と同じこの日に発売\[97\]。同作品には、オリジナル作品に収録されていた[日本武道館](../Page/日本武道館.md "wikilink")公演と[NHKホール](../Page/NHKホール.md "wikilink")公演がほぼ完全な形でDVD化される他、ツアーオフショットやメンバーのインタビューもロングバージョンとして収録されることが決定している。
   - 11月23日、[タワーレコード渋谷店の](https://ja.wikipedia.org/wiki/タワーレコード#タワーレコード_\(日本\) "wikilink")8Fにオープンした「SpaceHACHIKAI」にて、TOWER RECORDS SHIBUYA×THE YELLOW MONKEYのコラボ企画「タワモン」が開催（〜12月16日）。
   - 12月3日、1997年に発売されたライブ作品『RED TAPE』の完全盤DVD『RED TAPE "NAKED"』が発売\[98\]\[99\]。
 
@@ -575,18 +575,18 @@
   - 5月11日より、再結成後初となる16年ぶりの全国ツアー「THE YELLOW MONKEY SUPER JAPAN TOUR 2016」を開催（全国12会場で24公演）。初日となる5月11日に国立代々木第一体育館で行われた公演では、**「1曲目のみを複数メディアが生配信」**という異例の形がとられた。その一曲目は解散前最後のシングルであり、シングル曲で唯一コンサート未演奏状態であった「プライマル。」であり、ファンを大いに沸かせた。
   - 7月2日、7月2日の日本テレビ系音楽番組『[THE MUSIC DAY](https://ja.wikipedia.org/wiki/THE_MUSIC_DAY "wikilink")』に出演。テレビ出演は、活動休止直前の2000年に放送されたTBS系『CDTV年越しプレミアライブ』以降15年半ぶりとなった。
   - 8月6日、8月7日、8月13日、8月14日の四日間にわたり、国内ロックフェス「[ROCK IN JAPAN FES](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink")」に16年ぶりに出演。
-  - 8月20日より開催される「[SUMMER SONIC 2016](https://ja.wikipedia.org/wiki/サマーソニック "wikilink")」にTHE YELLOW MONKEYとして初の出演。
-  - 10月3日、[MTV Video Music Awards Japan 2016](https://ja.wikipedia.org/wiki/MTV_Video_Music_Awards_Japan "wikilink")「Inspiration Award Japan」受賞。
+  - 8月20日より開催される「[SUMMER SONIC 2016](../Page/サマーソニック.md "wikilink")」にTHE YELLOW MONKEYとして初の出演。
+  - 10月3日、[MTV Video Music Awards Japan 2016](../Page/MTV_Video_Music_Awards_Japan.md "wikilink")「Inspiration Award Japan」受賞。
   - 10月19日、[TBS系ドラマ](../Page/TBSテレビ.md "wikilink")『[砂の塔〜知りすぎた隣人](https://ja.wikipedia.org/wiki/砂の塔〜知りすぎた隣人 "wikilink")』の主題歌として書き下ろした新曲「[砂の塔](https://ja.wikipedia.org/wiki/砂の塔_\(THE_YELLOW_MONKEYの曲\) "wikilink")」を、「プライマル。」以来15年9カ月ぶりのシングルとしてリリース。同日には約15年半ぶりに再集結した全国ツアー「THE YELLOW MONKEY SUPER JAPAN TOUR 2016」のさいたまスーパーアリーナの模様を収録したLIVE DVD/Blu-rayが発売された。
   - 11月12日より、全国16公演となるホールツアー「THE YELLOW MONKEY SUPER JAPAN TOUR 2016 -SUBJECTIVE LATE SHOW-」開催。
-  - 11月16日、第49回[日本有線大賞](https://ja.wikipedia.org/wiki/日本有線大賞 "wikilink")・特別賞を受賞\[100\]。
+  - 11月16日、第49回[日本有線大賞](../Page/日本有線大賞.md "wikilink")・特別賞を受賞\[100\]。
   - 12月28日、日本武道館にて「THE YELLOW MONKEY SUPER メカラ・ウロコ 27」開催。
   - 12月30日、[第58回日本レコード大賞](https://ja.wikipedia.org/wiki/第58回日本レコード大賞 "wikilink")「特別賞」受賞。
   - 12月31日、「[第67回紅白歌合戦](https://ja.wikipedia.org/wiki/第67回NHK紅白歌合戦 "wikilink")」（NHK総合）に初出場した\[101\]。曲目は「JAM」。
 
 **2017年**
 
-  - 3月7日、[SPACE SHOWER MUSIC AWARDS 2017](https://ja.wikipedia.org/wiki/SPACE_SHOWER_MUSIC_AWARDS "wikilink")「BEST RESPECT ARTIST」受賞。
+  - 3月7日、[SPACE SHOWER MUSIC AWARDS 2017](../Page/SPACE_SHOWER_MUSIC_AWARDS.md "wikilink")「BEST RESPECT ARTIST」受賞。
   - 3月17日0時、メジャーデビュー25周年を記念して2013年にファンによるリクエスト投票としてリリースされた企画ベストアルバム『イエモン-FAN'S BEST SELECTION-』の収録曲の中から新録されたセルフカバー企画ベストアルバム『[THE YELLOW MONKEY IS HERE. NEW BEST](https://ja.wikipedia.org/wiki/THE_YELLOW_MONKEY_IS_HERE._NEW_BEST "wikilink")』が5月21日に発売する事と12月に約17年振りとなる解散後初の東京ドーム2daysライブを開催される事、2017年第一弾となる新曲「[ロザーナ](https://ja.wikipedia.org/wiki/THE_YELLOW_MONKEY_IS_HERE._NEW_BEST#早期購入特典「2017_LIMITED_SPECIAL_SINGLE_CD」 "wikilink")」が解禁されるなどの2017年の活動が発表された\[102\]。
   - 8月9日、16年ぶりの全国ツアーでの彼らに密着したドキュメンタリー映画『[オトトキ](https://ja.wikipedia.org/wiki/オトトキ "wikilink")』は、公開予定日（11月11日）もサイトリニューアルも、さらにツイッター、フェイスブック、インスタグラム開設、これら全てをこの日にプレゼンテーションした。
   - 9月13日、3か月連続配信リリースの第1弾として、デヴィッド・ボウイの楽曲「[ジギー・スターダスト](https://ja.wikipedia.org/wiki/ジギー・スターダスト_\(曲\) "wikilink")」のカバーを[Amazon](../Page/Amazon.co.jp.md "wikilink")（日本）限定で配信開始。同日、Amazon（日本）限定で同カバーのアナログ盤（7インチ・ピクチャー・ディスク仕様）の受注受付を開始。
@@ -621,7 +621,7 @@
 <th><p>リリース日</p></th>
 <th><p>タイトル</p></th>
 <th><p>規格</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>収録アルバム (オリジナル)</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -689,7 +689,7 @@
 <td><p><a href="../Page/追憶のマーメイド.md" title="wikilink">追憶のマーメイド</a></p></td>
 <td><p>8cmCD</p></td>
 <td><p>CODA-715</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FOUR_SEASONS" title="wikilink">FOUR SEASONS</a></p></td>
+<td><p><a href="../Page/FOUR_SEASONS.md" title="wikilink">FOUR SEASONS</a></p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -707,7 +707,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/JAM/Tactics" title="wikilink">JAM/Tactics</a></p></td>
 <td><p>8cmCD</p></td>
 <td><p>CODA-834</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FOUR_SEASONS" title="wikilink">FOUR SEASONS</a> (「Tactics」のみ)</p></td>
+<td><p><a href="../Page/FOUR_SEASONS.md" title="wikilink">FOUR SEASONS</a> (「Tactics」のみ)</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -947,7 +947,7 @@
 <th><p>リリース日</p></th>
 <th><p>タイトル</p></th>
 <th><p>規格</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>収録アルバム (オリジナル)</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -1116,7 +1116,7 @@
 <tr class="even">
 <td><p>5th</p></td>
 <td><p>1995年11月1日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FOUR_SEASONS" title="wikilink">FOUR SEASONS</a></p></td>
+<td><p><a href="../Page/FOUR_SEASONS.md" title="wikilink">FOUR SEASONS</a></p></td>
 <td><p>CD</p></td>
 <td><p>COCA-12994</p></td>
 </tr>
@@ -1314,8 +1314,8 @@ CD+DVD+PHOTOの<a href="https://ja.wikipedia.org/wiki/紙の寸法#A列" title="
 | リリース日       | タイトル                                                                                                                  | 規格 | 規格品番       | 備考                                                                                                                                                                                                                                                                                                                                                       |
 | ----------- | --------------------------------------------------------------------------------------------------------------------- | -- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1996年8月31日  | [MOTH POET HOTEL〜A TRIBUTE TO MOTT THE HOOPLE](https://ja.wikipedia.org/wiki/MOTH_POET_HOTEL "wikilink")              | CD | COCA-13627 | TRIADよりリリース。3曲目に吉井の日本語詞による[モット・ザ・フープル](../Page/モット・ザ・フープル.md "wikilink")「[ホナルーチ・ブギ](https://ja.wikipedia.org/wiki/ホナルーチ・ブギ "wikilink")」のカバーを収録。吉井はMoth Poet All Stars（モス・ポエト・オールスターズ）として1曲目「[すべての若き野郎ども](https://ja.wikipedia.org/wiki/すべての若き野郎ども "wikilink")」（英語詞）メドレーに参加。                                                                              |
-| 1997年11月21日 | T・レックス・トリビュート・アルバム〜ブギー・ウィズ・ザ・ウイザード                                                                                    | CD | TECW-30613 | 2曲目に吉井の日本語詞による[T・レックス](https://ja.wikipedia.org/wiki/T・レックス "wikilink")「[ティル・ドーン](https://ja.wikipedia.org/wiki/:en:Light_of_Love "wikilink")」のカバーを収録。吉井は[Bolan](../Page/マーク・ボラン.md "wikilink")'s children（ボランズ・チルドレン）として最終曲「T・レックス・トリビュート・メドレー」の「[20センチュリー・ボーイ](https://ja.wikipedia.org/wiki/20センチュリー・ボーイ "wikilink")」（英語詞）に参加。                        |
-| 1998年2月25日  | 地獄の賞賛〜KISS トリビュート・イン・ジャパン                                                                                             | CD | PHCL-5085  | 1曲目に[KISS](https://ja.wikipedia.org/wiki/キッス "wikilink")「[Shout It Out Loud](https://ja.wikipedia.org/wiki/:en:Shout_It_Out_Loud_\(Kiss_song\) "wikilink")」（狂気の叫び）のカバーを収録。英語詞。                                                                                                                                                                           |
+| 1997年11月21日 | T・レックス・トリビュート・アルバム〜ブギー・ウィズ・ザ・ウイザード                                                                                    | CD | TECW-30613 | 2曲目に吉井の日本語詞による[T・レックス](../Page/T・レックス.md "wikilink")「[ティル・ドーン](https://ja.wikipedia.org/wiki/:en:Light_of_Love "wikilink")」のカバーを収録。吉井は[Bolan](../Page/マーク・ボラン.md "wikilink")'s children（ボランズ・チルドレン）として最終曲「T・レックス・トリビュート・メドレー」の「[20センチュリー・ボーイ](https://ja.wikipedia.org/wiki/20センチュリー・ボーイ "wikilink")」（英語詞）に参加。                                           |
+| 1998年2月25日  | 地獄の賞賛〜KISS トリビュート・イン・ジャパン                                                                                             | CD | PHCL-5085  | 1曲目に[KISS](../Page/キッス.md "wikilink")「[Shout It Out Loud](https://ja.wikipedia.org/wiki/:en:Shout_It_Out_Loud_\(Kiss_song\) "wikilink")」（狂気の叫び）のカバーを収録。英語詞。                                                                                                                                                                                              |
 | 2017年9月13日  | T. Rex Tribute 〜Sitting Next To You〜 presented by [Rama Amoeba](https://ja.wikipedia.org/wiki/Rama_Amoeba "wikilink") | CD | VICL-64822 | [マーク・ボラン](../Page/マーク・ボラン.md "wikilink")生誕70年/没後40年記念アルバム。3曲目「[Light Of Love](https://ja.wikipedia.org/wiki/:en:Light_of_Love_\(T._Rex_song\) "wikilink")」（マーク・ボラン作曲）、11曲目「[The Prettiest Star](https://ja.wikipedia.org/wiki/:en:The_Prettiest_Star "wikilink")」（デヴィッド・ボウイ作曲）、12曲目「Sitting Next To You」（ボラン&ボウイ作曲）のカバーにTHE YELLOW MONKEYメンバーが参加\[105\]。 |
 
 ### ビデオ・DVD
@@ -1360,7 +1360,7 @@ CD+DVD+PHOTOの<a href="https://ja.wikipedia.org/wiki/紙の寸法#A列" title="
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ミュージック・ビデオ" title="wikilink">ミュージック・ビデオ</a></p></td>
+<td><p><a href="../Page/ミュージック・ビデオ.md" title="wikilink">ミュージック・ビデオ</a></p></td>
 <td><p>1996年3月30日</p></td>
 <td><p>CLIPS Video Collection 1992〜1996</p></td>
 <td><p>VHS</p></td>
@@ -1690,7 +1690,7 @@ CD+DVD+PHOTOの<a href="https://ja.wikipedia.org/wiki/紙の寸法#A列" title="
 |                                                             | リリース日      | タイトル                                                                                                                          | 規格品番       | 備考                                                                                                                                                                                                                                                     |
 | ----------------------------------------------------------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [プレイステーション用ソフト](../Page/PlayStation_\(ゲーム機\).md "wikilink") | 1999年7月1日  | [PERFECT PERFORMER -THE YELLOW MONKEY-](https://ja.wikipedia.org/wiki/PERFECT_PERFORMER_-THE_YELLOW_MONKEY- "wikilink")       | SLPS-02135 | [ファンハウス](https://ja.wikipedia.org/wiki/ファンハウス "wikilink")から発売された。THE YELLOW MONKEYの曲を使用した[音ゲー](https://ja.wikipedia.org/wiki/音ゲー "wikilink")。 収録曲: 「楽園」、「TVのシンガー」、「紫の空」、「LOVE LOVE SHOW」（Album Version）、「BURN」、「MY WINDING ROAD」、「NEW YORK CITY LOSER」 |
-| プレイステーション用ソフト                                               | 2000年4月14日 | [THE YELLOW MONKEY trancemission VJ Remix](https://ja.wikipedia.org/wiki/THE_YELLOW_MONKEY_trancemission_VJ_Remix "wikilink") | SLPM-86473 | ハンズオン・エンタテインメントから発売された。映画『trancemission』主題歌「SO YOUNG」のPVを[VJとして編集体験ができるゲーム](https://ja.wikipedia.org/wiki/ビデオジョッキー "wikilink")。その他、同映画の解説やPV8曲を収録。                                                                                                     |
+| プレイステーション用ソフト                                               | 2000年4月14日 | [THE YELLOW MONKEY trancemission VJ Remix](https://ja.wikipedia.org/wiki/THE_YELLOW_MONKEY_trancemission_VJ_Remix "wikilink") | SLPM-86473 | ハンズオン・エンタテインメントから発売された。映画『trancemission』主題歌「SO YOUNG」のPVを[VJとして編集体験ができるゲーム](../Page/ビデオジョッキー.md "wikilink")。その他、同映画の解説やPV8曲を収録。                                                                                                                        |
 |                                                             |            |                                                                                                                               |            |                                                                                                                                                                                                                                                        |
 
 ### 未発表曲
@@ -1740,7 +1740,7 @@ CD+DVD+PHOTOの<a href="https://ja.wikipedia.org/wiki/紙の寸法#A列" title="
 7月24日 WOODY STREET<br />
 7月25日 DRUM Be-1<br />
 7月27日 Electric Lady Land<br />
-7月30日 <a href="https://ja.wikipedia.org/wiki/Shibuya_O-EAST" title="wikilink">ON AIR</a></p>
+7月30日 <a href="../Page/Shibuya_O-EAST.md" title="wikilink">ON AIR</a></p>
 </div>
 </div></td>
 <td></td>
@@ -1759,7 +1759,7 @@ CD+DVD+PHOTOの<a href="https://ja.wikipedia.org/wiki/紙の寸法#A列" title="
 9月24日 CLUB GIO Ichikawa<br />
 9月28日 CLUB 24 YOKOHAMA<br />
 10月24日 <a href="../Page/日清パワーステーション.md" title="wikilink">日清パワーステーション</a><br />
-10月31日 <a href="https://ja.wikipedia.org/wiki/明治学院大学" title="wikilink">明治学院大学</a><br />
+10月31日 <a href="../Page/明治学院大学.md" title="wikilink">明治学院大学</a><br />
 11月3日 <a href="../Page/名城大学.md" title="wikilink">名城大学</a><br />
 11月4日 KYOTO MUSE</p>
 </div>
@@ -1854,7 +1854,7 @@ CD+DVD+PHOTOの<a href="https://ja.wikipedia.org/wiki/紙の寸法#A列" title="
 <div class="NavContent" style="text-align:left;">
 <p>11月20日 難波W'OH0L<br />
 11月21日 名古屋CLUB QUATRO<br />
-11月24日 <a href="https://ja.wikipedia.org/wiki/中野サンプラザ" title="wikilink">中野サンプラザ</a></p>
+11月24日 <a href="../Page/中野サンプラザ.md" title="wikilink">中野サンプラザ</a></p>
 </div>
 </div></td>
 <td></td>
@@ -1891,7 +1891,7 @@ CD+DVD+PHOTOの<a href="https://ja.wikipedia.org/wiki/紙の寸法#A列" title="
 <p>7月17日 <a href="../Page/日比谷野外音楽堂.md" title="wikilink">日比谷野外音楽堂</a><br />
 7月21日 <a href="../Page/オリックス劇場.md" title="wikilink">大阪厚生年金会館</a><br />
 7月22日 CLUB DIAMOND HALL<br />
-7月30日 <a href="https://ja.wikipedia.org/wiki/渋谷公会堂" title="wikilink">渋谷公会堂</a></p>
+7月30日 <a href="../Page/渋谷公会堂.md" title="wikilink">渋谷公会堂</a></p>
 </div>
 </div></td>
 <td></td>
@@ -1909,9 +1909,9 @@ CD+DVD+PHOTOの<a href="https://ja.wikipedia.org/wiki/紙の寸法#A列" title="
 11月15日 <a href="https://ja.wikipedia.org/wiki/仙台市民会館" title="wikilink">仙台市民会館</a><br />
 12月11日 PANNY LANE 24<br />
 12月13日 青森ラビナホール<br />
-12月15日 <a href="https://ja.wikipedia.org/wiki/宇都宮市文化会館" title="wikilink">宇都宮市文化会館</a><br />
+12月15日 <a href="../Page/宇都宮市文化会館.md" title="wikilink">宇都宮市文化会館</a><br />
 12月17日 渋谷公会堂<br />
-12月23日 <a href="https://ja.wikipedia.org/wiki/サンケイホール" title="wikilink">サンケイホール</a><br />
+12月23日 <a href="../Page/サンケイホール.md" title="wikilink">サンケイホール</a><br />
 12月24日 <a href="https://ja.wikipedia.org/wiki/愛知県勤労会館" title="wikilink">愛知県勤労会館</a><br />
 12月26日 中野サンプラザ<br />
 12月27日 中野サンプラザ</p>
@@ -1964,20 +1964,20 @@ CD+DVD+PHOTOの<a href="https://ja.wikipedia.org/wiki/紙の寸法#A列" title="
 <div class="NavContent" style="text-align:left;">
 <p>11月24日 結城市民文化センター アクロス<br />
 11月28日 <a href="https://ja.wikipedia.org/wiki/新潟テルサ" title="wikilink">新潟テルサ</a><br />
-11月30日 <a href="https://ja.wikipedia.org/wiki/金沢市文化ホール" title="wikilink">金沢市文化ホール</a><br />
+11月30日 <a href="../Page/金沢市文化ホール.md" title="wikilink">金沢市文化ホール</a><br />
 12月2日 秋田県児童会館<br />
 12月4日 仙台市民会館<br />
-12月5日 <a href="https://ja.wikipedia.org/wiki/郡山市民文化センター" title="wikilink">郡山市民文化センター</a><br />
+12月5日 <a href="../Page/郡山市民文化センター.md" title="wikilink">郡山市民文化センター</a><br />
 12月6日 岩手教育会館<br />
 12月8日 <a href="../Page/福岡市民会館.md" title="wikilink">福岡市民会館</a><br />
-12月11日 <a href="https://ja.wikipedia.org/wiki/長崎市公会堂" title="wikilink">長崎市公会堂</a><br />
+12月11日 <a href="../Page/長崎市公会堂.md" title="wikilink">長崎市公会堂</a><br />
 12月12日 <a href="../Page/熊本県立劇場.md" title="wikilink">熊本県立劇場</a><br />
 12月14日 <a href="../Page/アステールプラザ.md" title="wikilink">アステールプラザ</a><br />
 12月15日 <a href="../Page/愛媛県県民文化会館.md" title="wikilink">愛媛県県民文化会館</a><br />
 12月17日 <a href="../Page/大阪城ホール.md" title="wikilink">大阪城ホール</a><br />
 12月20日 <a href="../Page/札幌市民ホール.md" title="wikilink">札幌市民会館</a><br />
-12月23日 <a href="https://ja.wikipedia.org/wiki/名古屋市民会館" title="wikilink">名古屋市民会館</a><br />
-12月24日 <a href="https://ja.wikipedia.org/wiki/長野県県民文化会館" title="wikilink">長野県県民文化会館</a><br />
+12月23日 <a href="../Page/名古屋市民会館.md" title="wikilink">名古屋市民会館</a><br />
+12月24日 <a href="../Page/長野県県民文化会館.md" title="wikilink">長野県県民文化会館</a><br />
 12月28日 日本武道館<br />
 12月29日 日本武道館</p>
 </div>
@@ -2000,7 +2000,7 @@ CD+DVD+PHOTOの<a href="https://ja.wikipedia.org/wiki/紙の寸法#A列" title="
 1月20日 名古屋市民会館<br />
 1月22日 仙台市民会館<br />
 1月25日 <a href="../Page/岡山市民会館.md" title="wikilink">岡山市民会館</a><br />
-1月28日 <a href="https://ja.wikipedia.org/wiki/神戸国際会館" title="wikilink">神戸国際会館 ハーバーランドプラザ</a></p>
+1月28日 <a href="../Page/神戸国際会館.md" title="wikilink">神戸国際会館 ハーバーランドプラザ</a></p>
 </div>
 </div></td>
 <td></td>
@@ -2026,19 +2026,19 @@ CD+DVD+PHOTOの<a href="https://ja.wikipedia.org/wiki/紙の寸法#A列" title="
 6月3日 守山市民ホール<br />
 6月4日 <a href="https://ja.wikipedia.org/wiki/京都会館" title="wikilink">京都会館</a><br />
 6月6日 <a href="../Page/群馬県民会館.md" title="wikilink">群馬県民会館</a><br />
-6月7日 <a href="https://ja.wikipedia.org/wiki/新潟県民会館" title="wikilink">新潟県民会館</a><br />
+6月7日 <a href="../Page/新潟県民会館.md" title="wikilink">新潟県民会館</a><br />
 6月9日 <a href="../Page/北陸電力会館_本多の森ホール.md" title="wikilink">石川厚生年金会館</a><br />
 6月11日 宇都宮市文化会館<br />
 6月12日 郡山市民文化センター<br />
 6月15日 <a href="../Page/福岡サンパレス.md" title="wikilink">福岡サンパレス</a><br />
 6月18日 <a href="../Page/山形県県民会館.md" title="wikilink">山形県県民会館</a><br />
-6月19日 <a href="https://ja.wikipedia.org/wiki/秋田県民会館" title="wikilink">秋田県民会館</a><br />
+6月19日 <a href="../Page/秋田県民会館.md" title="wikilink">秋田県民会館</a><br />
 6月21日 <a href="../Page/岩手県民会館.md" title="wikilink">岩手県民会館</a><br />
 6月23日 <a href="https://ja.wikipedia.org/wiki/旭川市民文化会館" title="wikilink">旭川市民文化会館</a><br />
 6月24日 <a href="../Page/さっぽろ芸術文化の館.md" title="wikilink">北海道厚生年金会館</a><br />
 6月26日 <a href="../Page/仙台サンプラザ.md" title="wikilink">仙台サンプラザ</a><br />
-6月28日 <a href="https://ja.wikipedia.org/wiki/青森市文化会館" title="wikilink">青森市文化会館</a><br />
-7月1日 <a href="https://ja.wikipedia.org/wiki/北とぴあ" title="wikilink">北とぴあ</a><br />
+6月28日 <a href="../Page/青森市文化会館.md" title="wikilink">青森市文化会館</a><br />
+7月1日 <a href="../Page/北とぴあ.md" title="wikilink">北とぴあ</a><br />
 7月2日 <a href="../Page/大宮ソニックシティ.md" title="wikilink">大宮ソニックシティ</a><br />
 7月4日 <a href="https://ja.wikipedia.org/wiki/高松市民会館" title="wikilink">高松市民会館</a><br />
 7月5日 <a href="../Page/松山市民会館.md" title="wikilink">松山市民会館</a><br />
@@ -2047,9 +2047,9 @@ CD+DVD+PHOTOの<a href="https://ja.wikipedia.org/wiki/紙の寸法#A列" title="
 7月10日 <a href="../Page/広島県立文化芸術ホール.md" title="wikilink">広島郵便貯金ホール</a><br />
 7月11日 岡山市民会館<br />
 7月13日 <a href="../Page/八王子市民会館.md" title="wikilink">八王子市民会館</a><br />
-7月17日 <a href="https://ja.wikipedia.org/wiki/名古屋国際会議場" title="wikilink">名古屋国際会議場 センチュリーホール</a><br />
+7月17日 <a href="../Page/名古屋国際会議場.md" title="wikilink">名古屋国際会議場 センチュリーホール</a><br />
 7月18日 名古屋国際会議場 センチュリーホール<br />
-7月20日 <a href="https://ja.wikipedia.org/wiki/NHKホール" title="wikilink">NHKホール</a><br />
+7月20日 <a href="../Page/NHKホール.md" title="wikilink">NHKホール</a><br />
 7月21日 NHKホール<br />
 7月24日 大阪厚生年金会館<br />
 7月25日 大阪厚生年金会館<br />
@@ -2075,15 +2075,15 @@ CD+DVD+PHOTOの<a href="https://ja.wikipedia.org/wiki/紙の寸法#A列" title="
 <p>2月21日 <a href="https://ja.wikipedia.org/wiki/松本市総合体育館" title="wikilink">松本市総合体育館</a><br />
 2月27日 日本武道館<br />
 2月28日 日本武道館<br />
-3月11日 <a href="https://ja.wikipedia.org/wiki/広島サンプラザ" title="wikilink">広島サンプラザ</a><br />
+3月11日 <a href="../Page/広島サンプラザ.md" title="wikilink">広島サンプラザ</a><br />
 3月14日 <a href="../Page/高松市総合体育館.md" title="wikilink">高松市総合体育館</a><br />
-3月19日 <a href="https://ja.wikipedia.org/wiki/仙台市体育館" title="wikilink">仙台市体育館</a><br />
+3月19日 <a href="../Page/仙台市体育館.md" title="wikilink">仙台市体育館</a><br />
 3月20日 仙台市体育館<br />
 3月25日 <a href="../Page/新潟市産業振興センター.md" title="wikilink">新潟市産業振興センター</a><br />
-3月29日 <a href="https://ja.wikipedia.org/wiki/福岡国際センター" title="wikilink">福岡国際センター</a><br />
+3月29日 <a href="../Page/福岡国際センター.md" title="wikilink">福岡国際センター</a><br />
 3月30日 福岡国際センター<br />
 4月2日 <a href="../Page/鹿児島アリーナ.md" title="wikilink">鹿児島アリーナ</a><br />
-4月10日 <a href="https://ja.wikipedia.org/wiki/北海道立産業共進会場" title="wikilink">北海道立産業共進会場</a><br />
+4月10日 <a href="../Page/北海道立産業共進会場.md" title="wikilink">北海道立産業共進会場</a><br />
 4月16日 <a href="https://ja.wikipedia.org/wiki/盛岡市総合アリーナ" title="wikilink">盛岡市アイスアリーナ</a><br />
 4月19日 <a href="../Page/浜松アリーナ.md" title="wikilink">浜松アリーナ</a><br />
 5月2日 <a href="../Page/名古屋市総合体育館.md" title="wikilink">名古屋市総合体育館 レインボーホール</a><br />
@@ -2149,7 +2149,7 @@ CD+DVD+PHOTOの<a href="https://ja.wikipedia.org/wiki/紙の寸法#A列" title="
 5月8日 新潟県民会館<br />
 5月9日 新潟県民会館<br />
 5月11日 石川厚生年金会館<br />
-5月12日 <a href="https://ja.wikipedia.org/wiki/フェニックス・プラザ" title="wikilink">フェニックス・プラザ</a><br />
+5月12日 <a href="../Page/フェニックス・プラザ.md" title="wikilink">フェニックス・プラザ</a><br />
 5月14日 <a href="../Page/千葉県文化会館.md" title="wikilink">千葉県文化会館</a><br />
 5月15日 <a href="../Page/茨城県立県民文化センター.md" title="wikilink">茨城県立県民文化センター</a><br />
 5月18日 群馬県民会館<br />
@@ -2162,7 +2162,7 @@ CD+DVD+PHOTOの<a href="https://ja.wikipedia.org/wiki/紙の寸法#A列" title="
 6月7日 長崎市公会堂<br />
 6月9日 熊本市民会館<br />
 6月10日 宮崎市民文化ホール<br />
-6月11日 <a href="https://ja.wikipedia.org/wiki/佐賀市文化会館" title="wikilink">佐賀市文化会館</a><br />
+6月11日 <a href="../Page/佐賀市文化会館.md" title="wikilink">佐賀市文化会館</a><br />
 6月13日 鹿児島市民文化ホール<br />
 6月14日 鹿児島市民文化ホール<br />
 6月17日 <a href="../Page/沖縄コンベンションセンター.md" title="wikilink">沖縄コンベンションセンター 劇場</a><br />
@@ -2200,7 +2200,7 @@ CD+DVD+PHOTOの<a href="https://ja.wikipedia.org/wiki/紙の寸法#A列" title="
 10月6日 岡山市民会館<br />
 10月23日 浜松アリーナ<br />
 10月24日 浜松アリーナ<br />
-10月29日 <a href="https://ja.wikipedia.org/wiki/真駒内屋内競技場" title="wikilink">真駒内屋内競技場</a><br />
+10月29日 <a href="../Page/真駒内屋内競技場.md" title="wikilink">真駒内屋内競技場</a><br />
 10月30日 真駒内屋内競技場<br />
 11月3日 <a href="https://ja.wikipedia.org/wiki/岩手産業文化センター" title="wikilink">岩手産業文化センター</a><br />
 11月4日 岩手産業文化センター<br />
@@ -2208,7 +2208,7 @@ CD+DVD+PHOTOの<a href="https://ja.wikipedia.org/wiki/紙の寸法#A列" title="
 11月8日 山形市総合スポーツセンター<br />
 11月12日 <a href="../Page/石川県産業展示館.md" title="wikilink">石川県産業展示館 4号館</a><br />
 11月13日 石川県産業展示館 4号館<br />
-11月20日 <a href="https://ja.wikipedia.org/wiki/長野市若里多目的スポーツアリーナ" title="wikilink">長野市若里多目的スポーツアリーナ</a><br />
+11月20日 <a href="../Page/長野市若里多目的スポーツアリーナ.md" title="wikilink">長野市若里多目的スポーツアリーナ</a><br />
 11月21日 長野市若里多目的スポーツアリーナ<br />
 11月24日 新潟市産業振興センター<br />
 11月25日 新潟市産業振興センター<br />
@@ -2222,7 +2222,7 @@ CD+DVD+PHOTOの<a href="https://ja.wikipedia.org/wiki/紙の寸法#A列" title="
 1月20日 名古屋市総合体育館 レインボーホール<br />
 1月21日 名古屋市総合体育館 レインボーホール<br />
 1月23日 名古屋市総合体育館 レインボーホール<br />
-1月29日 <a href="https://ja.wikipedia.org/wiki/マリンメッセ福岡" title="wikilink">マリンメッセ福岡</a><br />
+1月29日 <a href="../Page/マリンメッセ福岡.md" title="wikilink">マリンメッセ福岡</a><br />
 1月30日 マリンメッセ福岡<br />
 2月2日 大阪城ホール<br />
 2月3日 大阪城ホール<br />
@@ -2323,7 +2323,7 @@ THE EXHIBITION AND VIDEO FESTIVAL OF THE YELLOW MONKEY<br />
 <p>全20公演</p>
 </div>
 <div class="NavContent" style="text-align:left;">
-<p>5月11日 <a href="https://ja.wikipedia.org/wiki/国立代々木競技場" title="wikilink">国立代々木競技場 第一体育館</a><br />
+<p>5月11日 <a href="../Page/国立代々木競技場.md" title="wikilink">国立代々木競技場 第一体育館</a><br />
 5月12日 国立代々木競技場 第一体育館<br />
 5月28日 長野市若里多目的スポーツアリーナ<br />
 5月29日 長野市若里多目的スポーツアリーナ<br />
@@ -2339,9 +2339,9 @@ THE EXHIBITION AND VIDEO FESTIVAL OF THE YELLOW MONKEY<br />
 7月10日 さいたまスーパーアリーナ<br />
 7月16日 マリンメッセ福岡<br />
 7月17日 マリンメッセ福岡<br />
-7月26日 <a href="https://ja.wikipedia.org/wiki/ワールド記念ホール" title="wikilink">ワールド記念ホール</a><br />
+7月26日 <a href="../Page/ワールド記念ホール.md" title="wikilink">ワールド記念ホール</a><br />
 7月27日 ワールド記念ホール<br />
-9月10日 <a href="https://ja.wikipedia.org/wiki/真駒内屋内競技場" title="wikilink">真駒内セキスイハイムアイスアリーナ</a><br />
+9月10日 <a href="../Page/真駒内屋内競技場.md" title="wikilink">真駒内セキスイハイムアイスアリーナ</a><br />
 9月11日 真駒内セキスイハイムアイスアリーナ</p>
 </div>
 </div></td>
@@ -2394,16 +2394,16 @@ THE EXHIBITION AND VIDEO FESTIVAL OF THE YELLOW MONKEY<br />
 11月19日 <a href="../Page/山梨県立県民文化ホール.md" title="wikilink">コラニー文化ホール</a><br />
 11月21日 <a href="../Page/群馬県民会館.md" title="wikilink">ベイシア文化ホール</a><br />
 11月24日 岩手県民会館<br />
-11月25日 <a href="https://ja.wikipedia.org/wiki/青森市文化会館" title="wikilink">リンクステーションホール青森</a><br />
+11月25日 <a href="../Page/青森市文化会館.md" title="wikilink">リンクステーションホール青森</a><br />
 11月28日 <a href="https://ja.wikipedia.org/wiki/京都会館" title="wikilink">ロームシアター京都</a><br />
 11月30日 <a href="../Page/北陸電力会館_本多の森ホール.md" title="wikilink">北陸電力会館 本多の森ホール</a><br />
 12月2日 新潟県民会館<br />
 12月7日 オーバード・ホール<br />
-12月9日 <a href="https://ja.wikipedia.org/wiki/長崎ブリックホール" title="wikilink">長崎ブリックホール</a><br />
+12月9日 <a href="../Page/長崎ブリックホール.md" title="wikilink">長崎ブリックホール</a><br />
 12月10日 <a href="../Page/大分県立総合文化センター.md" title="wikilink">iichikoグランシアタ</a><br />
 12月12日 鹿児島市民文化ホール<br />
 12月14日 <a href="../Page/愛媛県県民文化会館.md" title="wikilink">ひめぎんホール</a><br />
-12月18日 <a href="https://ja.wikipedia.org/wiki/倉敷市民会館" title="wikilink">倉敷市民会館</a></p>
+12月18日 <a href="../Page/倉敷市民会館.md" title="wikilink">倉敷市民会館</a></p>
 </div>
 </div></td>
 <td></td>
@@ -2465,9 +2465,9 @@ THE EXHIBITION AND VIDEO FESTIVAL OF THE YELLOW MONKEY<br />
 <div class="NavContent" style="text-align:left;">
 <p>4月27日 <a href="https://ja.wikipedia.org/wiki/静岡県小笠山総合運動公園アリーナ" title="wikilink">静岡県小笠山総合運動公園アリーナ</a><br />
 4月28日 静岡県小笠山総合運動公園アリーナ<br />
-5月11日 <a href="https://ja.wikipedia.org/wiki/北海道立総合体育センター" title="wikilink">北海道立総合体育センター</a> 北海きたえーる<br />
+5月11日 <a href="../Page/北海道立総合体育センター.md" title="wikilink">北海道立総合体育センター</a> 北海きたえーる<br />
 5月12日 北海道立総合体育センター 北海きたえーる<br />
-5月25日 <a href="https://ja.wikipedia.org/wiki/福井県産業振興施設" title="wikilink">福井県産業振興施設</a><br />
+5月25日 <a href="../Page/福井県産業振興施設.md" title="wikilink">福井県産業振興施設</a><br />
 6月7日 大阪城ホール<br />
 6月8日 大阪城ホール<br />
 6月11日 横浜アリーナ<br />
@@ -2567,7 +2567,7 @@ THE EXHIBITION AND VIDEO FESTIVAL OF THE YELLOW MONKEY<br />
 <tr class="even">
 <td><p>2004年12月15日</p></td>
 <td><p><strong>15YEARS</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ぴあ" title="wikilink">ぴあ</a></p></td>
+<td><p><a href="../Page/ぴあ.md" title="wikilink">ぴあ</a></p></td>
 <td></td>
 <td><p>写真やインタビューを収録。</p></td>
 </tr>
@@ -2607,67 +2607,67 @@ THE EXHIBITION AND VIDEO FESTIVAL OF THE YELLOW MONKEY<br />
 
 ## タイアップ一覧
 
-| 起用年                                                                                                                      | タイトル                                                                                                                                                                        | 収録                                                                                                                                       | タイアップ                                                                                                                                               |
-| ------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1994年                                                                                                                    | [熱帯夜](https://ja.wikipedia.org/wiki/熱帯夜_\(THE_YELLOW_MONKEYの曲\) "wikilink")                                                                                                 | 4thシングル                                                                                                                                  | [TBS系](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")「[所さんのワーワーブーブー](https://ja.wikipedia.org/wiki/所さんのワーワーブーブー "wikilink")」エンディングテーマ |
-| 1995年                                                                                                                    | [Love Communication](https://ja.wikipedia.org/wiki/Love_Communication "wikilink")                                                                                           | 5thシングル                                                                                                                                  | [テレビ朝日系](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")「mew」オープニングテーマ                                                            |
-| [嘆くなり我が夜のFantasy](https://ja.wikipedia.org/wiki/嘆くなり我が夜のFantasy "wikilink")                                              | 6thシングル                                                                                                                                                                     | TBS系「[たけし・所のドラキュラが狙ってる](https://ja.wikipedia.org/wiki/たけし・所のドラキュラが狙ってる "wikilink")」エンディングテーマ                                             |                                                                                                                                                     |
-| [追憶のマーメイド](../Page/追憶のマーメイド.md "wikilink")                                                                               | 7thシングル                                                                                                                                                                     | テレビ朝日系「[はなきんデータランド](../Page/はなきんデータランド.md "wikilink")」エンディングテーマ                                                                          |                                                                                                                                                     |
-| [太陽が燃えている](../Page/太陽が燃えている.md "wikilink")                                                                               | 8thシングル                                                                                                                                                                     | テレビ朝日系「\[\[Jリーグ_A_GOGO                                                                                                                 | |Jリーグ A GOGO                                                                                                                                        |
-| 1996年                                                                                                                    | [JAM](https://ja.wikipedia.org/wiki/JAM/Tactics "wikilink")                                                                                                                 | 9thシングル両A面                                                                                                                               | [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")「[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")」エンディングテーマ                          |
-| [Tactics](https://ja.wikipedia.org/wiki/JAM/Tactics "wikilink")                                                          | [フジテレビ系](../Page/フジネットワーク.md "wikilink")[アニメ](../Page/アニメ.md "wikilink")「[るろうに剣心 -明治剣客浪漫譚-](https://ja.wikipedia.org/wiki/るろうに剣心_-明治剣客浪漫譚-_\(アニメ\) "wikilink")」1stエンディングテーマ |                                                                                                                                          |                                                                                                                                                     |
-| [SPARK](../Page/SPARK_\(THE_YELLOW_MONKEYの曲\).md "wikilink")                                                             | 10thシングル                                                                                                                                                                    | TBS系「[COUNT DOWN TV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")」7月度エンディングテーマ                                                |                                                                                                                                                     |
-| [楽園](../Page/楽園_\(THE_YELLOW_MONKEYの曲\).md "wikilink")                                                                   | 11thシングル                                                                                                                                                                    | フジテレビ系[ドラマ](../Page/ドラマ.md "wikilink")「[新・木曜の怪談](https://ja.wikipedia.org/wiki/木曜の怪談 "wikilink")」主題歌                                     |                                                                                                                                                     |
-| 1997年                                                                                                                    | [BURN](../Page/BURN_\(THE_YELLOW_MONKEYの曲\).md "wikilink")                                                                                                                  | 13thシングル                                                                                                                                 | TBS系ドラマ「[職員室](../Page/職員室.md "wikilink")」主題歌                                                                                                        |
-| 1998年                                                                                                                    | [球根](../Page/球根_\(曲\).md "wikilink")                                                                                                                                        | 14thシングル                                                                                                                                 | NHK「ポップジャム」エンディングテーマ                                                                                                                                |
-| [O.K.](https://ja.wikipedia.org/wiki/MY_WINDING_ROAD "wikilink")                                                         | 17thシングル C/W                                                                                                                                                                | [WOWOW](../Page/WOWOW.md "wikilink")「[WOWOWスーパーサッカー](https://ja.wikipedia.org/wiki/WOWOWスーパーサッカー "wikilink")」エンディングテーマ                   |                                                                                                                                                     |
-| 1999年                                                                                                                    | [SO YOUNG](https://ja.wikipedia.org/wiki/SO_YOUNG "wikilink")                                                                                                               | 18thシングル                                                                                                                                 | テレビ朝日系「[ニュースステーション](../Page/ニュースステーション.md "wikilink")」3月度ウェザーテーマ                                                                                    |
-| 映画「[trancemission](https://ja.wikipedia.org/wiki/trancemission_\(1999年の映画\) "wikilink")」主題歌                              |                                                                                                                                                                             |                                                                                                                                          |                                                                                                                                                     |
-| [バラ色の日々](https://ja.wikipedia.org/wiki/バラ色の日々_\(THE_YELLOW_MONKEYの曲\) "wikilink")                                        | 19thシングル                                                                                                                                                                    | NHK「ポップジャム」エンディングテーマ                                                                                                                     |                                                                                                                                                     |
-| 2000年                                                                                                                    | [聖なる海とサンシャイン](https://ja.wikipedia.org/wiki/聖なる海とサンシャイン "wikilink")                                                                                                         | 20thシングル                                                                                                                                 | テレビ朝日系「[おネプ\!](../Page/おネプ!.md "wikilink")」エンディングテーマ                                                                                                |
-| 映画「現実の続き 夢の終わり」主題歌                                                                                                       |                                                                                                                                                                             |                                                                                                                                          |                                                                                                                                                     |
-| [SHOCK HEARTS](https://ja.wikipedia.org/wiki/SHOCK_HEARTS "wikilink")                                                    | 21stシングル                                                                                                                                                                    | [大鵬薬品工業](../Page/大鵬薬品工業.md "wikilink")「チオビタドリンク」CMソング                                                                                    |                                                                                                                                                     |
-| [パール](https://ja.wikipedia.org/wiki/パール_\(THE_YELLOW_MONKEYの曲\) "wikilink")                                              | 22ndシングル                                                                                                                                                                    | [NTV系](../Page/日本テレビネットワーク協議会.md "wikilink")「[劇空間プロ野球](https://ja.wikipedia.org/wiki/Dramatic_Game_1844 "wikilink")」8・9月度イメージソング         |                                                                                                                                                     |
-| [BRILLIANT WORLD](https://ja.wikipedia.org/wiki/BRILLIANT_WORLD "wikilink")                                              | 23rdシングル                                                                                                                                                                    | TBS系「[世界ウルルン滞在記](../Page/世界ウルルン滞在記.md "wikilink")」エンディングテーマ                                                                              |                                                                                                                                                     |
-| 2001年                                                                                                                    | [GIRLIE (Original Mix)](https://ja.wikipedia.org/wiki/BRILLIANT_WORLD "wikilink")                                                                                           | 23rdシングル C/W                                                                                                                             | 映画「[弟切草](https://ja.wikipedia.org/wiki/弟切草_\(ゲーム\) "wikilink")」主題歌                                                                                  |
-| 2009年                                                                                                                    | SPARK                                                                                                                                                                       | 10thシングル                                                                                                                                 | [パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")「CR忍術決戦 月影」使用曲                                                                                 |
-| 楽園                                                                                                                       | 11thシングル                                                                                                                                                                    |                                                                                                                                          |                                                                                                                                                     |
-| BURN                                                                                                                     | 13thシングル                                                                                                                                                                    |                                                                                                                                          |                                                                                                                                                     |
-| 2012年                                                                                                                    | [Romantist Taste](https://ja.wikipedia.org/wiki/Romantist_Taste "wikilink") (LIVE音源)                                                                                        | 1stシングル                                                                                                                                  | テレビ朝日系「[musicる TV](https://ja.wikipedia.org/wiki/musicる_TV "wikilink")」10月度オープニングテーマ                                                                |
-| 2013年                                                                                                                    | 太陽が燃えている                                                                                                                                                                    | 8thシングル                                                                                                                                  | テレビ朝日系「[ゴーちゃん。GIRL'S TV](https://ja.wikipedia.org/wiki/ゴーちゃん。GIRL'S_TV "wikilink")」エンディングテーマ                                                        |
-| SPARK                                                                                                                    | 10thシングル                                                                                                                                                                    | TBS系「エン活\!」エンディングテーマ                                                                                                                     |                                                                                                                                                     |
-| 楽園                                                                                                                       | 11thシングル                                                                                                                                                                    | フジテレビ系「[たけしのコマ大数学科](../Page/たけしのコマ大数学科.md "wikilink")」7〜9月度エンディングテーマ                                                                     |                                                                                                                                                     |
-| パール                                                                                                                      | 22ndシングル                                                                                                                                                                    | 日本テレビ系「[ミュージックドラゴン](https://ja.wikipedia.org/wiki/ミュージックドラゴン "wikilink")」POWER PLAY                                                      |                                                                                                                                                     |
-| 2016年                                                                                                                    | [砂の塔](https://ja.wikipedia.org/wiki/砂の塔_\(THE_YELLOW_MONKEYの曲\) "wikilink")                                                                                                 | 25thシングル                                                                                                                                 | TBS系ドラマ「[砂の塔〜知りすぎた隣人](https://ja.wikipedia.org/wiki/砂の塔〜知りすぎた隣人 "wikilink")」主題歌                                                                     |
-| 2017年                                                                                                                    | [ALRIGHT](https://ja.wikipedia.org/wiki/砂の塔_\(THE_YELLOW_MONKEYの曲\) "wikilink")                                                                                             | 25thシングル C/W                                                                                                                             | インベスターズクラウド「[TATERU](https://ja.wikipedia.org/wiki/TATERU "wikilink")」CMソング第1弾 1月6日TV放映開始\[106\]                                                    |
-| SPARK ([2017 新録版](https://ja.wikipedia.org/wiki/THE_YELLOW_MONKEY_IS_HERE._NEW_BEST "wikilink"))                         | 10thシングル                                                                                                                                                                    | TBS系「イベントGO\!」5月度オープニングテーマ                                                                                                               |                                                                                                                                                     |
-| インベスターズクラウド「TATERU」CMソング第2弾 8月4日TV放映開始                                                                                   |                                                                                                                                                                             |                                                                                                                                          |                                                                                                                                                     |
-| 楽園 (2017 新録版)                                                                                                            | 11thシングル                                                                                                                                                                    | フジテレビ系「魔女に言われたい夜〜正直過ぎる品定め〜」5月度エンディングテーマ                                                                                                  |                                                                                                                                                     |
-| パール (2017 新録版)                                                                                                           | 22ndシングル                                                                                                                                                                    | 日本テレビ系「[バズリズム](https://ja.wikipedia.org/wiki/バズリズム "wikilink")」POWER PLAY                                                                |                                                                                                                                                     |
-| 太陽が燃えている (2017 新録版)                                                                                                      | 8thシングル                                                                                                                                                                     | テレビ朝日系「musicる TV」6月度オープニングテーマ                                                                                                            |                                                                                                                                                     |
-| バラ色の日々 (2017 新録版)                                                                                                        | 19thシングル                                                                                                                                                                    | [NHK-FM](https://ja.wikipedia.org/wiki/NHK-FM "wikilink")「[ミュージックライン](https://ja.wikipedia.org/wiki/ミュージックライン "wikilink")」6・7月度オープニングテーマ |                                                                                                                                                     |
-| [Stars](https://ja.wikipedia.org/wiki/Stars_\(THE_YELLOW_MONKEYの曲\) "wikilink")                                          | 配信限定シングル                                                                                                                                                                    | [石川テレビ](https://ja.wikipedia.org/wiki/石川テレビ "wikilink")「[N-18 凸](https://ja.wikipedia.org/wiki/N-18_凸 "wikilink")」11月度エンディングテーマ          |                                                                                                                                                     |
-| [くまもと県民テレビ](../Page/熊本県民テレビ.md "wikilink")「[テレビタミン](https://ja.wikipedia.org/wiki/テレビタミン "wikilink")」11月度エンディングテーマ       |                                                                                                                                                                             |                                                                                                                                          |                                                                                                                                                     |
-| くまもと県民テレビ「ROCKET COMPLEX」11月度エンディングテーマ                                                                                   |                                                                                                                                                                             |                                                                                                                                          |                                                                                                                                                     |
-| [Horizon](https://ja.wikipedia.org/wiki/Horizon_\(THE_YELLOW_MONKEYの曲\) "wikilink")                                      | 配信限定シングル                                                                                                                                                                    | 映画「オトトキ」主題歌                                                                                                                              |                                                                                                                                                     |
-| 2018年                                                                                                                    | Stars                                                                                                                                                                       | 配信限定シングル                                                                                                                                 | インベスターズクラウド「TATERU」CMソング第3弾 2月16日TV放映開始                                                                                                             |
-| [天道虫](https://ja.wikipedia.org/wiki/天道虫_\(THE_YELLOW_MONKEYの曲\) "wikilink")                                              | 配信限定シングル                                                                                                                                                                    | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系ドラマ「[天 天和通りの快男児](https://ja.wikipedia.org/wiki/天_天和通りの快男児#テレビドラマ "wikilink")」主題歌 |                                                                                                                                                     |
-| Horizon                                                                                                                  | 配信限定シングル                                                                                                                                                                    | [『FINAL FANTASY XV』 2 Year Anniversary 記念映像](https://www.youtube.com/watch?v=oz-xen_sci8)                                                |                                                                                                                                                     |
-| 2019年                                                                                                                    | [I don't know](https://ja.wikipedia.org/wiki/I_don't_know_\(THE_YELLOW_MONKEYの曲\) "wikilink")                                                                               | 配信限定シングル                                                                                                                                 | テレビ朝日系ドラマ「[刑事ゼロ](https://ja.wikipedia.org/wiki/刑事ゼロ "wikilink")」主題歌                                                                                 |
-| 天道虫                                                                                                                      | 配信限定シングル                                                                                                                                                                    | [サッポロビール](../Page/サッポロビール.md "wikilink")「サッポロ 本格辛口」TVCM曲                                                                                 |                                                                                                                                                     |
-| [ミヤギテレビ](../Page/宮城テレビ放送.md "wikilink")「[ちょっとブレイクタイム](https://ja.wikipedia.org/wiki/ちょっとブレイクタイム "wikilink")」5月度エンディングテーマ |                                                                                                                                                                             |                                                                                                                                          |                                                                                                                                                     |
-| [Changes Far Away](https://ja.wikipedia.org/wiki/9999_\(アルバム\) "wikilink")                                               | 9thアルバム                                                                                                                                                                     | TBS系「[news23](https://ja.wikipedia.org/wiki/NEWS23 "wikilink")」エンディングテーマ                                                                 |                                                                                                                                                     |
-| [DANDAN](https://ja.wikipedia.org/wiki/DANDAN "wikilink")                                                                | 配信限定シングル                                                                                                                                                                    | AVIOT「TE-D01d mk2」ウェブCM                                                                                                                  |                                                                                                                                                     |
-| バラ色の日々                                                                                                                   | 19thシングル                                                                                                                                                                    | テレビ東京系ドラマ「[天 赤木しげる葬式編](https://ja.wikipedia.org/wiki/天_天和通りの快男児#テレビドラマ "wikilink")」主題歌                                                   |                                                                                                                                                     |
+| 起用年                                                                                                                | タイトル                                                                                                                                                                        | 収録                                                                                                                                       | タイアップ                                                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1994年                                                                                                              | [熱帯夜](https://ja.wikipedia.org/wiki/熱帯夜_\(THE_YELLOW_MONKEYの曲\) "wikilink")                                                                                                 | 4thシングル                                                                                                                                  | [TBS系](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")「[所さんのワーワーブーブー](https://ja.wikipedia.org/wiki/所さんのワーワーブーブー "wikilink")」エンディングテーマ |
+| 1995年                                                                                                              | [Love Communication](https://ja.wikipedia.org/wiki/Love_Communication "wikilink")                                                                                           | 5thシングル                                                                                                                                  | [テレビ朝日系](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")「mew」オープニングテーマ                                                            |
+| [嘆くなり我が夜のFantasy](https://ja.wikipedia.org/wiki/嘆くなり我が夜のFantasy "wikilink")                                        | 6thシングル                                                                                                                                                                     | TBS系「[たけし・所のドラキュラが狙ってる](../Page/たけし・所のドラキュラが狙ってる.md "wikilink")」エンディングテーマ                                                                |                                                                                                                                                     |
+| [追憶のマーメイド](../Page/追憶のマーメイド.md "wikilink")                                                                         | 7thシングル                                                                                                                                                                     | テレビ朝日系「[はなきんデータランド](../Page/はなきんデータランド.md "wikilink")」エンディングテーマ                                                                          |                                                                                                                                                     |
+| [太陽が燃えている](../Page/太陽が燃えている.md "wikilink")                                                                         | 8thシングル                                                                                                                                                                     | テレビ朝日系「\[\[Jリーグ_A_GOGO                                                                                                                 | |Jリーグ A GOGO                                                                                                                                        |
+| 1996年                                                                                                              | [JAM](https://ja.wikipedia.org/wiki/JAM/Tactics "wikilink")                                                                                                                 | 9thシングル両A面                                                                                                                               | [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")「[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")」エンディングテーマ                          |
+| [Tactics](https://ja.wikipedia.org/wiki/JAM/Tactics "wikilink")                                                    | [フジテレビ系](../Page/フジネットワーク.md "wikilink")[アニメ](../Page/アニメ.md "wikilink")「[るろうに剣心 -明治剣客浪漫譚-](https://ja.wikipedia.org/wiki/るろうに剣心_-明治剣客浪漫譚-_\(アニメ\) "wikilink")」1stエンディングテーマ |                                                                                                                                          |                                                                                                                                                     |
+| [SPARK](../Page/SPARK_\(THE_YELLOW_MONKEYの曲\).md "wikilink")                                                       | 10thシングル                                                                                                                                                                    | TBS系「[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")」7月度エンディングテーマ                                                                   |                                                                                                                                                     |
+| [楽園](../Page/楽園_\(THE_YELLOW_MONKEYの曲\).md "wikilink")                                                             | 11thシングル                                                                                                                                                                    | フジテレビ系[ドラマ](../Page/ドラマ.md "wikilink")「[新・木曜の怪談](../Page/木曜の怪談.md "wikilink")」主題歌                                                        |                                                                                                                                                     |
+| 1997年                                                                                                              | [BURN](../Page/BURN_\(THE_YELLOW_MONKEYの曲\).md "wikilink")                                                                                                                  | 13thシングル                                                                                                                                 | TBS系ドラマ「[職員室](../Page/職員室.md "wikilink")」主題歌                                                                                                        |
+| 1998年                                                                                                              | [球根](../Page/球根_\(曲\).md "wikilink")                                                                                                                                        | 14thシングル                                                                                                                                 | NHK「ポップジャム」エンディングテーマ                                                                                                                                |
+| [O.K.](https://ja.wikipedia.org/wiki/MY_WINDING_ROAD "wikilink")                                                   | 17thシングル C/W                                                                                                                                                                | [WOWOW](../Page/WOWOW.md "wikilink")「[WOWOWスーパーサッカー](https://ja.wikipedia.org/wiki/WOWOWスーパーサッカー "wikilink")」エンディングテーマ                   |                                                                                                                                                     |
+| 1999年                                                                                                              | [SO YOUNG](https://ja.wikipedia.org/wiki/SO_YOUNG "wikilink")                                                                                                               | 18thシングル                                                                                                                                 | テレビ朝日系「[ニュースステーション](../Page/ニュースステーション.md "wikilink")」3月度ウェザーテーマ                                                                                    |
+| 映画「[trancemission](https://ja.wikipedia.org/wiki/trancemission_\(1999年の映画\) "wikilink")」主題歌                        |                                                                                                                                                                             |                                                                                                                                          |                                                                                                                                                     |
+| [バラ色の日々](https://ja.wikipedia.org/wiki/バラ色の日々_\(THE_YELLOW_MONKEYの曲\) "wikilink")                                  | 19thシングル                                                                                                                                                                    | NHK「ポップジャム」エンディングテーマ                                                                                                                     |                                                                                                                                                     |
+| 2000年                                                                                                              | [聖なる海とサンシャイン](https://ja.wikipedia.org/wiki/聖なる海とサンシャイン "wikilink")                                                                                                         | 20thシングル                                                                                                                                 | テレビ朝日系「[おネプ\!](../Page/おネプ!.md "wikilink")」エンディングテーマ                                                                                                |
+| 映画「現実の続き 夢の終わり」主題歌                                                                                                 |                                                                                                                                                                             |                                                                                                                                          |                                                                                                                                                     |
+| [SHOCK HEARTS](https://ja.wikipedia.org/wiki/SHOCK_HEARTS "wikilink")                                              | 21stシングル                                                                                                                                                                    | [大鵬薬品工業](../Page/大鵬薬品工業.md "wikilink")「チオビタドリンク」CMソング                                                                                    |                                                                                                                                                     |
+| [パール](https://ja.wikipedia.org/wiki/パール_\(THE_YELLOW_MONKEYの曲\) "wikilink")                                        | 22ndシングル                                                                                                                                                                    | [NTV系](../Page/日本テレビネットワーク協議会.md "wikilink")「[劇空間プロ野球](https://ja.wikipedia.org/wiki/Dramatic_Game_1844 "wikilink")」8・9月度イメージソング         |                                                                                                                                                     |
+| [BRILLIANT WORLD](https://ja.wikipedia.org/wiki/BRILLIANT_WORLD "wikilink")                                        | 23rdシングル                                                                                                                                                                    | TBS系「[世界ウルルン滞在記](../Page/世界ウルルン滞在記.md "wikilink")」エンディングテーマ                                                                              |                                                                                                                                                     |
+| 2001年                                                                                                              | [GIRLIE (Original Mix)](https://ja.wikipedia.org/wiki/BRILLIANT_WORLD "wikilink")                                                                                           | 23rdシングル C/W                                                                                                                             | 映画「[弟切草](../Page/弟切草_\(ゲーム\).md "wikilink")」主題歌                                                                                                     |
+| 2009年                                                                                                              | SPARK                                                                                                                                                                       | 10thシングル                                                                                                                                 | [パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")「CR忍術決戦 月影」使用曲                                                                                 |
+| 楽園                                                                                                                 | 11thシングル                                                                                                                                                                    |                                                                                                                                          |                                                                                                                                                     |
+| BURN                                                                                                               | 13thシングル                                                                                                                                                                    |                                                                                                                                          |                                                                                                                                                     |
+| 2012年                                                                                                              | [Romantist Taste](https://ja.wikipedia.org/wiki/Romantist_Taste "wikilink") (LIVE音源)                                                                                        | 1stシングル                                                                                                                                  | テレビ朝日系「[musicる TV](https://ja.wikipedia.org/wiki/musicる_TV "wikilink")」10月度オープニングテーマ                                                                |
+| 2013年                                                                                                              | 太陽が燃えている                                                                                                                                                                    | 8thシングル                                                                                                                                  | テレビ朝日系「[ゴーちゃん。GIRL'S TV](https://ja.wikipedia.org/wiki/ゴーちゃん。GIRL'S_TV "wikilink")」エンディングテーマ                                                        |
+| SPARK                                                                                                              | 10thシングル                                                                                                                                                                    | TBS系「エン活\!」エンディングテーマ                                                                                                                     |                                                                                                                                                     |
+| 楽園                                                                                                                 | 11thシングル                                                                                                                                                                    | フジテレビ系「[たけしのコマ大数学科](../Page/たけしのコマ大数学科.md "wikilink")」7〜9月度エンディングテーマ                                                                     |                                                                                                                                                     |
+| パール                                                                                                                | 22ndシングル                                                                                                                                                                    | 日本テレビ系「[ミュージックドラゴン](https://ja.wikipedia.org/wiki/ミュージックドラゴン "wikilink")」POWER PLAY                                                      |                                                                                                                                                     |
+| 2016年                                                                                                              | [砂の塔](https://ja.wikipedia.org/wiki/砂の塔_\(THE_YELLOW_MONKEYの曲\) "wikilink")                                                                                                 | 25thシングル                                                                                                                                 | TBS系ドラマ「[砂の塔〜知りすぎた隣人](https://ja.wikipedia.org/wiki/砂の塔〜知りすぎた隣人 "wikilink")」主題歌                                                                     |
+| 2017年                                                                                                              | [ALRIGHT](https://ja.wikipedia.org/wiki/砂の塔_\(THE_YELLOW_MONKEYの曲\) "wikilink")                                                                                             | 25thシングル C/W                                                                                                                             | インベスターズクラウド「[TATERU](https://ja.wikipedia.org/wiki/TATERU "wikilink")」CMソング第1弾 1月6日TV放映開始\[106\]                                                    |
+| SPARK ([2017 新録版](https://ja.wikipedia.org/wiki/THE_YELLOW_MONKEY_IS_HERE._NEW_BEST "wikilink"))                   | 10thシングル                                                                                                                                                                    | TBS系「イベントGO\!」5月度オープニングテーマ                                                                                                               |                                                                                                                                                     |
+| インベスターズクラウド「TATERU」CMソング第2弾 8月4日TV放映開始                                                                             |                                                                                                                                                                             |                                                                                                                                          |                                                                                                                                                     |
+| 楽園 (2017 新録版)                                                                                                      | 11thシングル                                                                                                                                                                    | フジテレビ系「魔女に言われたい夜〜正直過ぎる品定め〜」5月度エンディングテーマ                                                                                                  |                                                                                                                                                     |
+| パール (2017 新録版)                                                                                                     | 22ndシングル                                                                                                                                                                    | 日本テレビ系「[バズリズム](https://ja.wikipedia.org/wiki/バズリズム "wikilink")」POWER PLAY                                                                |                                                                                                                                                     |
+| 太陽が燃えている (2017 新録版)                                                                                                | 8thシングル                                                                                                                                                                     | テレビ朝日系「musicる TV」6月度オープニングテーマ                                                                                                            |                                                                                                                                                     |
+| バラ色の日々 (2017 新録版)                                                                                                  | 19thシングル                                                                                                                                                                    | [NHK-FM](https://ja.wikipedia.org/wiki/NHK-FM "wikilink")「[ミュージックライン](https://ja.wikipedia.org/wiki/ミュージックライン "wikilink")」6・7月度オープニングテーマ |                                                                                                                                                     |
+| [Stars](https://ja.wikipedia.org/wiki/Stars_\(THE_YELLOW_MONKEYの曲\) "wikilink")                                    | 配信限定シングル                                                                                                                                                                    | [石川テレビ](https://ja.wikipedia.org/wiki/石川テレビ "wikilink")「[N-18 凸](https://ja.wikipedia.org/wiki/N-18_凸 "wikilink")」11月度エンディングテーマ          |                                                                                                                                                     |
+| [くまもと県民テレビ](../Page/熊本県民テレビ.md "wikilink")「[テレビタミン](https://ja.wikipedia.org/wiki/テレビタミン "wikilink")」11月度エンディングテーマ |                                                                                                                                                                             |                                                                                                                                          |                                                                                                                                                     |
+| くまもと県民テレビ「ROCKET COMPLEX」11月度エンディングテーマ                                                                             |                                                                                                                                                                             |                                                                                                                                          |                                                                                                                                                     |
+| [Horizon](https://ja.wikipedia.org/wiki/Horizon_\(THE_YELLOW_MONKEYの曲\) "wikilink")                                | 配信限定シングル                                                                                                                                                                    | 映画「オトトキ」主題歌                                                                                                                              |                                                                                                                                                     |
+| 2018年                                                                                                              | Stars                                                                                                                                                                       | 配信限定シングル                                                                                                                                 | インベスターズクラウド「TATERU」CMソング第3弾 2月16日TV放映開始                                                                                                             |
+| [天道虫](https://ja.wikipedia.org/wiki/天道虫_\(THE_YELLOW_MONKEYの曲\) "wikilink")                                        | 配信限定シングル                                                                                                                                                                    | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系ドラマ「[天 天和通りの快男児](https://ja.wikipedia.org/wiki/天_天和通りの快男児#テレビドラマ "wikilink")」主題歌 |                                                                                                                                                     |
+| Horizon                                                                                                            | 配信限定シングル                                                                                                                                                                    | [『FINAL FANTASY XV』 2 Year Anniversary 記念映像](https://www.youtube.com/watch?v=oz-xen_sci8)                                                |                                                                                                                                                     |
+| 2019年                                                                                                              | [I don't know](https://ja.wikipedia.org/wiki/I_don't_know_\(THE_YELLOW_MONKEYの曲\) "wikilink")                                                                               | 配信限定シングル                                                                                                                                 | テレビ朝日系ドラマ「[刑事ゼロ](https://ja.wikipedia.org/wiki/刑事ゼロ "wikilink")」主題歌                                                                                 |
+| 天道虫                                                                                                                | 配信限定シングル                                                                                                                                                                    | [サッポロビール](../Page/サッポロビール.md "wikilink")「サッポロ 本格辛口」TVCM曲                                                                                 |                                                                                                                                                     |
+| [ミヤギテレビ](../Page/宮城テレビ放送.md "wikilink")「[ちょっとブレイクタイム](../Page/ちょっとブレイクタイム.md "wikilink")」5月度エンディングテーマ              |                                                                                                                                                                             |                                                                                                                                          |                                                                                                                                                     |
+| [Changes Far Away](https://ja.wikipedia.org/wiki/9999_\(アルバム\) "wikilink")                                         | 9thアルバム                                                                                                                                                                     | TBS系「[news23](https://ja.wikipedia.org/wiki/NEWS23 "wikilink")」エンディングテーマ                                                                 |                                                                                                                                                     |
+| [DANDAN](https://ja.wikipedia.org/wiki/DANDAN "wikilink")                                                          | 配信限定シングル                                                                                                                                                                    | AVIOT「TE-D01d mk2」ウェブCM                                                                                                                  |                                                                                                                                                     |
+| バラ色の日々                                                                                                             | 19thシングル                                                                                                                                                                    | テレビ東京系ドラマ「[天 赤木しげる葬式編](https://ja.wikipedia.org/wiki/天_天和通りの快男児#テレビドラマ "wikilink")」主題歌                                                   |                                                                                                                                                     |
 
 ## CD解説
 
   - [レディオヘッド](https://ja.wikipedia.org/wiki/レディオヘッド "wikilink")『[OK コンピューター(日本盤)](../Page/OK_コンピューター.md "wikilink")』（1997年5月21日）
-      - 日本盤に付属の、対訳の載ったブックレットに、[吉井和哉](https://ja.wikipedia.org/wiki/吉井和哉 "wikilink")・[菊地英昭](../Page/菊地英昭.md "wikilink")が解説に参加している。
-  - [あがた森魚](https://ja.wikipedia.org/wiki/あがた森魚 "wikilink")『[20世紀漂流記](https://ja.wikipedia.org/wiki/20世紀漂流記 "wikilink")』（2001年5月23日）
+      - 日本盤に付属の、対訳の載ったブックレットに、[吉井和哉](../Page/吉井和哉.md "wikilink")・[菊地英昭](../Page/菊地英昭.md "wikilink")が解説に参加している。
+  - [あがた森魚](../Page/あがた森魚.md "wikilink")『[20世紀漂流記](https://ja.wikipedia.org/wiki/20世紀漂流記 "wikilink")』（2001年5月23日）
       - 解説には、音楽的影響などあがた森魚の作品に対する思いが書かれている。
   - [デヴィッド・ボウイ](https://ja.wikipedia.org/wiki/デヴィッド・ボウイ "wikilink")『best of bowie』（2002年10月30日）
-      - ブックレットに、吉井が[山崎洋一郎](https://ja.wikipedia.org/wiki/山崎洋一郎 "wikilink")との対談という形式で参加している。THE YELLOW MONKEY活動休止後かつ吉井がYOSHII LOVINSONとしてソロ活動を開始・バンドを解散する以前の時期であり、吉井和哉の名を使っている。
+      - ブックレットに、吉井が[山崎洋一郎](../Page/山崎洋一郎.md "wikilink")との対談という形式で参加している。THE YELLOW MONKEY活動休止後かつ吉井がYOSHII LOVINSONとしてソロ活動を開始・バンドを解散する以前の時期であり、吉井和哉の名を使っている。
 
 ## 脚注
 

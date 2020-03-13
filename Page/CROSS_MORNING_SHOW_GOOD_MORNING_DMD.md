@@ -1,7 +1,7 @@
 > この記事は[CROSS MORNING SHOW GOOD MORNING DMD](https://ja.wikipedia.org/wiki/CROSS_MORNING_SHOW_GOOD_MORNING_DMD)から翻訳されています。
 
 
-『**CROSS MORNING SHOW GOOD MORNING DMD**』（クロス・モーニング・ショー・グッド・モーニング・ディーエムディー）は、[CROSS FMで放送されていた](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。愛称は**DMD**（後述）。放送期間は[2003年](../Page/2003年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")-[2004年](../Page/2004年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")。放送時間は毎週月-金曜日7:00-12:00。北九州本社第1スタジオから[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")された。
+『**CROSS MORNING SHOW GOOD MORNING DMD**』（クロス・モーニング・ショー・グッド・モーニング・ディーエムディー）は、[CROSS FMで放送されていた](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。愛称は**DMD**（後述）。放送期間は[2003年](../Page/2003年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")-[2004年](../Page/2004年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")。放送時間は毎週月-金曜日7:00-12:00。北九州本社第1スタジオから[生放送](../Page/生放送.md "wikilink")された。
 
 ## 概要
 

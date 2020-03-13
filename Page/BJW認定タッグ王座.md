@@ -1,7 +1,7 @@
 > この記事は[BJW](https://ja.wikipedia.org/wiki/BJW)から翻訳されています。
 
 
-**BJW認定タッグ王座**は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレス](../Page/プロレス.md "wikilink")団体である[大日本プロレス](https://ja.wikipedia.org/wiki/大日本プロレス "wikilink")が管理する王座。
+**BJW認定タッグ王座**は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレス](../Page/プロレス.md "wikilink")団体である[大日本プロレス](../Page/大日本プロレス.md "wikilink")が管理する王座。
 
 タイトルマッチは、基本的に通常ルールで行われるが、 [ハードコアマッチや](https://ja.wikipedia.org/wiki/ハードコア・レスリング "wikilink")[デスマッチ](../Page/デスマッチ.md "wikilink")で行われる場合もある。
 
@@ -21,23 +21,23 @@
 <tbody>
 <tr class="odd">
 <td><p>初代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/木村健悟" title="wikilink">木村健吾</a>&amp;<a href="../Page/石川孝志.md" title="wikilink">石川孝志</a></p></td>
+<td><p><a href="../Page/木村健悟.md" title="wikilink">木村健吾</a>&amp;<a href="../Page/石川孝志.md" title="wikilink">石川孝志</a></p></td>
 <td><p>1</p></td>
 <td><p>0</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1997年" title="wikilink">1997年</a><a href="../Page/6月3日.md" title="wikilink">6月3日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/後楽園ホール" title="wikilink">後楽園ホール</a></p></td>
+<td><p><a href="../Page/後楽園ホール.md" title="wikilink">後楽園ホール</a></p></td>
 </tr>
 <tr class="even">
 <td><p>第2代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/TAJIRI" title="wikilink">田尻義博</a>&amp;<a href="../Page/山川竜司.md" title="wikilink">山川竜司</a></p></td>
+<td><p><a href="../Page/TAJIRI.md" title="wikilink">田尻義博</a>&amp;<a href="../Page/山川竜司.md" title="wikilink">山川竜司</a></p></td>
 <td><p>1</p></td>
 <td><p>3</p></td>
-<td><p>1997年<a href="https://ja.wikipedia.org/wiki/7月23日" title="wikilink">7月23日</a></p></td>
+<td><p>1997年<a href="../Page/7月23日.md" title="wikilink">7月23日</a></p></td>
 <td><p>後楽園ホール</p></td>
 </tr>
 <tr class="odd">
 <td><p>第3代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/邪道_(プロレスラー)" title="wikilink">邪道</a>&amp;<a href="https://ja.wikipedia.org/wiki/外道_(プロレスラー)" title="wikilink">外道</a></p></td>
+<td><p><a href="../Page/邪道_(プロレスラー).md" title="wikilink">邪道</a>&amp;<a href="../Page/外道_(プロレスラー).md" title="wikilink">外道</a></p></td>
 <td><p>1</p></td>
 <td><p>0</p></td>
 <td><p>1997年<a href="../Page/12月22日.md" title="wikilink">12月22日</a></p></td>
@@ -98,7 +98,7 @@
 <td><p>1</p></td>
 <td><p>0</p></td>
 <td><p><a href="../Page/2000年.md" title="wikilink">2000年</a><a href="../Page/1月7日.md" title="wikilink">1月7日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大阪府立体育会館" title="wikilink">大阪府立体育会館</a>第2競技場</p></td>
+<td><p><a href="../Page/大阪府立体育会館.md" title="wikilink">大阪府立体育会館</a>第2競技場</p></td>
 </tr>
 <tr class="odd">
 <td><p>第11代</p></td>
@@ -106,7 +106,7 @@
 <td><p>1</p></td>
 <td><p>0</p></td>
 <td><p>2000年<a href="https://ja.wikipedia.org/wiki/6月2日" title="wikilink">6月2日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/長岡市厚生会館" title="wikilink">長岡市厚生会館</a></p></td>
+<td><p><a href="../Page/長岡市厚生会館.md" title="wikilink">長岡市厚生会館</a></p></td>
 </tr>
 <tr class="even">
 <td><p>第12代</p></td>
@@ -134,7 +134,7 @@
 </tr>
 <tr class="odd">
 <td><p>第15代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/MEN&#39;Sテイオー" title="wikilink">MEN'Sテイオー</a>&amp;<a href="../Page/関本大介.md" title="wikilink">関本大介</a><br />
+<td><p><a href="../Page/MEN&#39;Sテイオー.md" title="wikilink">MEN'Sテイオー</a>&amp;<a href="../Page/関本大介.md" title="wikilink">関本大介</a><br />
 （メンズ・クラブ）</p></td>
 <td><p>1</p></td>
 <td><p>9</p></td>
@@ -152,7 +152,7 @@
 </tr>
 <tr class="odd">
 <td><p>第17代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/伊東竜二" title="wikilink">伊東竜二</a>&amp;<a href="../Page/BADBOY非道.md" title="wikilink">BADBOY非道</a></p></td>
+<td><p><a href="../Page/伊東竜二.md" title="wikilink">伊東竜二</a>&amp;<a href="../Page/BADBOY非道.md" title="wikilink">BADBOY非道</a></p></td>
 <td><p>1</p></td>
 <td><p>0</p></td>
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a><a href="https://ja.wikipedia.org/wiki/12月19日" title="wikilink">12月19日</a></p></td>
@@ -177,7 +177,7 @@
 </tr>
 <tr class="even">
 <td><p>第20代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/佐々木貴" title="wikilink">佐々木貴</a>&amp;<a href="../Page/GENTARO.md" title="wikilink">GENTARO</a><br />
+<td><p><a href="../Page/佐々木貴.md" title="wikilink">佐々木貴</a>&amp;<a href="../Page/GENTARO.md" title="wikilink">GENTARO</a><br />
 （アカレンジャーズ）</p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
@@ -189,8 +189,8 @@
 <td><p>アブドーラ小林&amp;関本大介</p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/10月14日.md" title="wikilink">10月14日</a></p></td>
-<td><p>後楽園ホール、<a href="https://ja.wikipedia.org/wiki/葛西純" title="wikilink">葛西純</a>&amp;"黒天使"沼澤邪鬼</p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/10月14日.md" title="wikilink">10月14日</a></p></td>
+<td><p>後楽園ホール、<a href="../Page/葛西純.md" title="wikilink">葛西純</a>&amp;"黒天使"沼澤邪鬼</p></td>
 </tr>
 <tr class="even">
 <td><p>第22代</p></td>
@@ -198,7 +198,7 @@
 （チームあんこ型）</p></td>
 <td><p>1</p></td>
 <td><p>4</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/1月27日.md" title="wikilink">1月27日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/1月27日.md" title="wikilink">1月27日</a></p></td>
 <td><p>川崎市体育館</p></td>
 </tr>
 <tr class="odd">
@@ -206,7 +206,7 @@
 <td><p>関本大介&amp;<a href="../Page/佐々木義人.md" title="wikilink">佐々木義人</a></p></td>
 <td><p>1</p></td>
 <td><p>6</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/12月3日.md" title="wikilink">12月3日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/12月3日.md" title="wikilink">12月3日</a></p></td>
 <td><p>横浜文化体育館</p></td>
 </tr>
 <tr class="even">

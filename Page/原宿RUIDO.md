@@ -1,11 +1,11 @@
 > この記事は[RUIDO](https://ja.wikipedia.org/wiki/RUIDO)から翻訳されています。
 
 
-**原宿RUIDO**（はらじゅくルイード）は、かつて[原宿](../Page/原宿.md "wikilink")・[竹下通り](../Page/竹下通り.md "wikilink")脇にあった[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")である。
+**原宿RUIDO**（はらじゅくルイード）は、かつて[原宿](../Page/原宿.md "wikilink")・[竹下通り](../Page/竹下通り.md "wikilink")脇にあった[ライブハウス](../Page/ライブハウス.md "wikilink")である。
 
 ## 概要
 
-「[イカ天](https://ja.wikipedia.org/wiki/三宅裕司のいかすバンド天国 "wikilink")」や「[ホコ天](https://ja.wikipedia.org/wiki/歩行者天国 "wikilink")」の追い風を受け、[バンドブーム](../Page/バンドブーム.md "wikilink")の象徴として音楽シーンを牽引してきたライブハウス。
+「[イカ天](../Page/三宅裕司のいかすバンド天国.md "wikilink")」や「[ホコ天](../Page/歩行者天国.md "wikilink")」の追い風を受け、[バンドブーム](../Page/バンドブーム.md "wikilink")の象徴として音楽シーンを牽引してきたライブハウス。
 
 RUIDOのステージに立つには、競争率の高い厳しいオーディションがあった。そして、音楽で身を立てようとする者にとってRUIDOでライブを行う事が1つのステイタスでもあった。
 
@@ -22,7 +22,7 @@ ruidoとはスペイン語で「騒音、物音」(英noise）を意味する。
   - [1989年](../Page/1989年.md "wikilink")12月に**原宿RUIDO**がオープン（15年続いた新宿からの移転）。
   - [2007年](../Page/2007年.md "wikilink")3月11日をもって原宿より撤退。約17年続いた原宿から発祥の地・新宿へ移転し、**[新宿RUIDO K4](https://ja.wikipedia.org/wiki/新宿RUIDO_K4 "wikilink")（しんじゅくルイードケーフォー）**となる。
 
-その後、RUIDOは新宿だけでなく、[渋谷](../Page/渋谷.md "wikilink")・[池袋](https://ja.wikipedia.org/wiki/池袋 "wikilink")、さらには大阪の[心斎橋](https://ja.wikipedia.org/wiki/心斎橋 "wikilink")まで展開する様になった。
+その後、RUIDOは新宿だけでなく、[渋谷](../Page/渋谷.md "wikilink")・[池袋](../Page/池袋.md "wikilink")、さらには大阪の[心斎橋](../Page/心斎橋.md "wikilink")まで展開する様になった。
 
 現在でも4つのライブハウスで[ロック](../Page/ロック_\(音楽\).md "wikilink")・[ポップス系を中心に](../Page/ポップ・ミュージック.md "wikilink")[インディーズ](../Page/インディーズ.md "wikilink")、メジャーを問わず様々なバンドが出演している。
 
@@ -31,7 +31,7 @@ ruidoとはスペイン語で「騒音、物音」(英noise）を意味する。
   - 渋谷RUIDO K2（しぶやルイードケーツー） - 2003年10月オープン
   - 池袋RUIDO K3（いけぶくろルイードケースリー） - 2009年9月に江古田RUIDO KEI-3（2005年12月オープン）より移転リニューアル
   - 新宿RUIDO K4
-  - OSAKA RUIDO（おおさかルイード） - 2008年8月に心斎橋RUIDO（2007年8月オープン、2008年5月に同じビルにあった[JOYSOUND](https://ja.wikipedia.org/wiki/JOYSOUND "wikilink")の閉店に伴い閉店）より移転リニューアル
+  - OSAKA RUIDO（おおさかルイード） - 2008年8月に心斎橋RUIDO（2007年8月オープン、2008年5月に同じビルにあった[JOYSOUND](../Page/JOYSOUND.md "wikilink")の閉店に伴い閉店）より移転リニューアル
   - SHIBUYA REX（しぶやレックス） - 2011年10月29日オープン
   - 新宿ReNY（しんじゅくレニー） - 2014年夏オープン
   - 青山RizM（あおやまリズム） - 2016年12月25日オープン
@@ -41,13 +41,13 @@ ruidoとはスペイン語で「騒音、物音」(英noise）を意味する。
 
 ## 施設概要
 
-外見からはライブハウスとは思えないような綺麗で独特な作り。もともとは[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に建てられた[ファッションビル](https://ja.wikipedia.org/wiki/ファッションビル "wikilink")「原宿アイドルワンダーランド」だった。コンセプトは「[不思議の国のアリス](https://ja.wikipedia.org/wiki/不思議の国のアリス "wikilink")」であり、女性向けの複数の[タレントショップ](../Page/タレントショップ.md "wikilink")が入居していた。その後のブーム終焉や[バブル崩壊](../Page/バブル崩壊.md "wikilink")により撤退が続出し多数の空き店舗が出たが、RUIDOのみ営業が続けられていた。
+外見からはライブハウスとは思えないような綺麗で独特な作り。もともとは[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に建てられた[ファッションビル](https://ja.wikipedia.org/wiki/ファッションビル "wikilink")「原宿アイドルワンダーランド」だった。コンセプトは「[不思議の国のアリス](../Page/不思議の国のアリス.md "wikilink")」であり、女性向けの複数の[タレントショップ](../Page/タレントショップ.md "wikilink")が入居していた。その後のブーム終焉や[バブル崩壊](../Page/バブル崩壊.md "wikilink")により撤退が続出し多数の空き店舗が出たが、RUIDOのみ営業が続けられていた。
 
 ホール自体はステージが少し低いため（約30cm）、客席との距離感がとても近く感じられる。また、壁面は本ホールでライブを行った著名人のサインや壁画で埋め尽くされているが、基本的に会場が暗いため、判別はかなり難しい。
 
   - 客席数：100席。オールスタンディング時には約300人収容。
-  - [ロッカー](https://ja.wikipedia.org/wiki/ロッカー "wikilink")有り
-  - 所在地：[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[神宮前](../Page/神宮前_\(渋谷区\).md "wikilink")1-15-2 アイドルワンダーランドB2
+  - [ロッカー](../Page/ロッカー.md "wikilink")有り
+  - 所在地：[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[神宮前](../Page/神宮前_\(渋谷区\).md "wikilink")1-15-2 アイドルワンダーランドB2
   - 最寄り駅：JR山手線[原宿駅](https://ja.wikipedia.org/wiki/原宿駅 "wikilink")、東京メトロ千代田線[明治神宮前駅](https://ja.wikipedia.org/wiki/明治神宮前駅 "wikilink")
 
 閉鎖後建物は解体され、同住所に2011年4月「[ニコニコ本社](https://ja.wikipedia.org/wiki/ニコニコ動画#ニコニコ本社 "wikilink")」がグランドオープンした。

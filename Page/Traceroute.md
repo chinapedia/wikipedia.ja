@@ -7,7 +7,7 @@
 
 ## 原理
 
-tracerouteは[TTLを](https://ja.wikipedia.org/wiki/Time_to_live "wikilink")1ずつ増やしながら[パケット](../Page/パケット.md "wikilink")を送信することで、経路情報を取得する。 TTLとはパケットの生存期間を表し、ルータを1つ経由することに1ずつ減算される。 ルータはTTLが2以上のパケットが届いた場合、TTLの値を1だけ小さくし次のルータへ転送する。 TTLが1のパケットが届いた場合、届いたパケットを破棄し[ICMP](../Page/Internet_Control_Message_Protocol.md "wikilink") time exceededパケットを送信者に返す。
+tracerouteは[TTLを](../Page/Time_to_live.md "wikilink")1ずつ増やしながら[パケット](../Page/パケット.md "wikilink")を送信することで、経路情報を取得する。 TTLとはパケットの生存期間を表し、ルータを1つ経由することに1ずつ減算される。 ルータはTTLが2以上のパケットが届いた場合、TTLの値を1だけ小さくし次のルータへ転送する。 TTLが1のパケットが届いた場合、届いたパケットを破棄し[ICMP](../Page/Internet_Control_Message_Protocol.md "wikilink") time exceededパケットを送信者に返す。
 
 tracerouteはまず、TTLを1にセットしたパケットを送信する。最初のルータに届いた時点でTTLがゼロになり、ICMP time exceededメッセージが戻ってくる。このメッセージの送信元アドレスを見れば、最初のルータの[IPアドレス](../Page/IPアドレス.md "wikilink")がわかる。次にTTLを2にセットして送信すると、今度は2番目のルータからICMP time exceededが戻ってくる。以降、TTLを3、4･･･と増やしていく事で、順にルータのIPアドレスを得る事ができる。
 
@@ -43,7 +43,7 @@ UDPを使用するtracerouteは、ポート番号が定まらないため[パケ
 
 ## IPのレコード・ルートとの違い
 
-tracerouteと似た目的のものに、pingプログラムのレコード・ルートオプションがある。これはtracerouteとは原理がまったく異なり、[IPパケットのオプションであるレコード](https://ja.wikipedia.org/wiki/IPv4 "wikilink")・ルート機能を活用したものである。パケットがルータを通過する際に、ルータ自身がパケットに自分のアドレスを書き込んでいく事で実現されている。
+tracerouteと似た目的のものに、pingプログラムのレコード・ルートオプションがある。これはtracerouteとは原理がまったく異なり、[IPパケットのオプションであるレコード](../Page/IPv4.md "wikilink")・ルート機能を活用したものである。パケットがルータを通過する際に、ルータ自身がパケットに自分のアドレスを書き込んでいく事で実現されている。
 
 レコード・ルートにはいくつか欠点があり、それがtraceroute開発の動機となったといわれる。
 

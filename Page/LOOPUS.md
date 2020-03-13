@@ -5,12 +5,12 @@
 
 ## 経歴
 
-  - [1993年](../Page/1993年.md "wikilink")[12月6日](../Page/12月6日.md "wikilink")、[岡野ハジメ](../Page/岡野ハジメ.md "wikilink")宅で、[宙也](https://ja.wikipedia.org/wiki/宙也 "wikilink")と[斉藤律](https://ja.wikipedia.org/wiki/斉藤律 "wikilink")で宙也ソロプロジェクト開始。
-  - [1994年](../Page/1994年.md "wikilink")年明けに[澄田健](https://ja.wikipedia.org/wiki/澄田健 "wikilink")が参加し、[10月20日](../Page/10月20日.md "wikilink")[新宿LOFTで初ステージ](https://ja.wikipedia.org/wiki/ロフト_\(ライブハウス\) "wikilink")。
+  - [1993年](../Page/1993年.md "wikilink")[12月6日](../Page/12月6日.md "wikilink")、[岡野ハジメ](../Page/岡野ハジメ.md "wikilink")宅で、[宙也](../Page/宙也.md "wikilink")と[斉藤律](../Page/斉藤律.md "wikilink")で宙也ソロプロジェクト開始。
+  - [1994年](../Page/1994年.md "wikilink")年明けに[澄田健](https://ja.wikipedia.org/wiki/澄田健 "wikilink")が参加し、[10月20日](../Page/10月20日.md "wikilink")[新宿LOFTで初ステージ](../Page/ロフト_\(ライブハウス\).md "wikilink")。
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")にバンド名を宙也＆Zero dbとし、CLUB AQUARIUSをスタート。
-  - 堀江毅、[三賀勝稔](https://ja.wikipedia.org/wiki/三賀勝稔 "wikilink")が参加し、[1996年](../Page/1996年.md "wikilink")にchuya＠transsonic（宙也・アット・トランソニック）とバンド名を替え、ミニアルバム「zero db」をリリース。10月にバンド名をLoopusとし、[10月5日](../Page/10月5日.md "wikilink")シングル「SOULMATE」（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")「横浜ベイビー」オープニングテーマ）でTRICLE（株式会社トライクル）よりメジャーデビュー。[10月21日](../Page/10月21日.md "wikilink")アルバム「infinity」がリリースされ、その中の「fantasia」が[日産](https://ja.wikipedia.org/wiki/日産 "wikilink")[レグラスのＣＭソングに起用される](https://ja.wikipedia.org/wiki/日産・テラノ "wikilink")。
+  - 堀江毅、[三賀勝稔](https://ja.wikipedia.org/wiki/三賀勝稔 "wikilink")が参加し、[1996年](../Page/1996年.md "wikilink")にchuya＠transsonic（宙也・アット・トランソニック）とバンド名を替え、ミニアルバム「zero db」をリリース。10月にバンド名をLoopusとし、[10月5日](../Page/10月5日.md "wikilink")シングル「SOULMATE」（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")「横浜ベイビー」オープニングテーマ）でTRICLE（株式会社トライクル）よりメジャーデビュー。[10月21日](../Page/10月21日.md "wikilink")アルバム「infinity」がリリースされ、その中の「fantasia」が[日産](https://ja.wikipedia.org/wiki/日産 "wikilink")[レグラスのＣＭソングに起用される](../Page/日産・テラノ.md "wikilink")。
   - DRIVE TO 2000\[1\]、365:a tribute to THE STALIN\[2\]などに参加し、２作目のアルバムとして「uterus」をリリース。
-  - [2002年](../Page/2002年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink")をもって、澄田健が[VooDoo Hawaiiansの活動に専念するため脱退](https://ja.wikipedia.org/wiki/VooDoo_Hawaiians "wikilink")。[4月1日](../Page/4月1日.md "wikilink")よりLOOPUSと名称変更し、[5月23日](../Page/5月23日.md "wikilink")に[D.I.E.](../Page/D.I.E..md "wikilink")が加入。
+  - [2002年](../Page/2002年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink")をもって、澄田健が[VooDoo Hawaiiansの活動に専念するため脱退](../Page/VooDoo_Hawaiians.md "wikilink")。[4月1日](../Page/4月1日.md "wikilink")よりLOOPUSと名称変更し、[5月23日](../Page/5月23日.md "wikilink")に[D.I.E.](../Page/D.I.E..md "wikilink")が加入。
   - 2002年[12月18日](../Page/12月18日.md "wikilink")にMUSICMINEより３作目のアルバムとして「be」をリリース。[2004年](../Page/2004年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")D.I.E.が脱退。
   - 2004年[11月17日](../Page/11月17日.md "wikilink")にTARGET ENTERTAINMENTより４作目のアルバムとして「FOUR」をリリース。
   - C.A.A.C.、さらにはC\&Nのマネージメントによりマイペースに活動中\[3\]\[4\]。
@@ -19,24 +19,24 @@
 
 ### 現在のメンバー
 
-  - Vo. [宙也](https://ja.wikipedia.org/wiki/宙也 "wikilink") : ex.[ALLERGY](https://ja.wikipedia.org/wiki/ALLERGY "wikilink")。　[De-LAX](../Page/De-LAX.md "wikilink")、PARALLEL PARADOX、宙也†幸也でも活動している。
-  - Gt. [斉藤律](https://ja.wikipedia.org/wiki/斉藤律 "wikilink") : ex.[スターリン](https://ja.wikipedia.org/wiki/ザ・スターリン "wikilink")。　T4R、[Minimum Rockets](https://ja.wikipedia.org/wiki/Minimum_Rockets "wikilink")、bulbでも活動している。
+  - Vo. [宙也](../Page/宙也.md "wikilink") : ex.[ALLERGY](../Page/ALLERGY.md "wikilink")。　[De-LAX](../Page/De-LAX.md "wikilink")、PARALLEL PARADOX、宙也†幸也でも活動している。
+  - Gt. [斉藤律](../Page/斉藤律.md "wikilink") : ex.[スターリン](../Page/ザ・スターリン.md "wikilink")。　T4R、[Minimum Rockets](https://ja.wikipedia.org/wiki/Minimum_Rockets "wikilink")、bulbでも活動している。
   - Dr. 堀江毅 : ex.[COME ON BABY](../Page/COME_ON_BABY.md "wikilink")。　T4R、[Minimum Rockets](https://ja.wikipedia.org/wiki/Minimum_Rockets "wikilink")、bulbでも活動している。
   - B. [三賀勝稔](https://ja.wikipedia.org/wiki/三賀勝稔 "wikilink") : ex.DANGER。　PARALLEL PARADOXでも活動している。
 
 ### 過去に在籍したメンバー
 
-  - Gt.[澄田健](https://ja.wikipedia.org/wiki/澄田健 "wikilink")　：　1994年～2002年3月。2011年10月、2012年2月にゲスト参加。[中山加奈子](../Page/中山加奈子.md "wikilink")（ex.[プリンセス・プリンセス](https://ja.wikipedia.org/wiki/プリンセス・プリンセス "wikilink")）と[VooDoo Hawaiiansで活動中](https://ja.wikipedia.org/wiki/VooDoo_Hawaiians "wikilink")。
+  - Gt.[澄田健](https://ja.wikipedia.org/wiki/澄田健 "wikilink")　：　1994年～2002年3月。2011年10月、2012年2月にゲスト参加。[中山加奈子](../Page/中山加奈子.md "wikilink")（ex.[プリンセス・プリンセス](https://ja.wikipedia.org/wiki/プリンセス・プリンセス "wikilink")）と[VooDoo Hawaiiansで活動中](../Page/VooDoo_Hawaiians.md "wikilink")。
   - Key. [D.I.E.](../Page/D.I.E..md "wikilink")（ex [hide with Spread Beaver](https://ja.wikipedia.org/wiki/hide#ツアーメンバー "wikilink")） ： 2002年5月～2004年4月。2006年10月、2010年8月にゲスト参加。
 
 ### 過去に参加したメンバー
 
-  - Dr. [MAD大内](../Page/大内貴雅.md "wikilink")（ex [ANTHEM](https://ja.wikipedia.org/wiki/ANTHEM "wikilink")）　：　1995年に数回参加。1999年～2000年に数回ゲスト参加。
+  - Dr. [MAD大内](../Page/大内貴雅.md "wikilink")（ex [ANTHEM](../Page/ANTHEM.md "wikilink")）　：　1995年に数回参加。1999年～2000年に数回ゲスト参加。
   - B. 坂本ミツワ（ex.東京ブラボー） ： 1994年10月20日新宿ロフトでの初ライヴに参加。
-  - Dr. MAYUMI（ex [DER ZIBET](https://ja.wikipedia.org/wiki/DER_ZIBET "wikilink")）　：1994年10月20日新宿ロフトでの初ライヴに参加。
+  - Dr. MAYUMI（ex [DER ZIBET](../Page/DER_ZIBET.md "wikilink")）　：1994年10月20日新宿ロフトでの初ライヴに参加。
   - B. [CHIROLYN](../Page/CHIROLYN.md "wikilink")　：　1995年に数回参加。
-  - B. 安達親夫（ex [スターリン](https://ja.wikipedia.org/wiki/ザ・スターリン "wikilink")）　：　1995年に2回参加。
-  - vln．勝井祐二（[ROVO](https://ja.wikipedia.org/wiki/ROVO "wikilink")） ： 365 A TRIBUTE TO THE STALIN収録の「Fish Inn」でゲスト参加。
+  - B. 安達親夫（ex [スターリン](../Page/ザ・スターリン.md "wikilink")）　：　1995年に2回参加。
+  - vln．勝井祐二（[ROVO](../Page/ROVO.md "wikilink")） ： 365 A TRIBUTE TO THE STALIN収録の「Fish Inn」でゲスト参加。
   - Cho.エミ・エレオノーラ（DEMI SEMI QUAVER）：2010年9月他数回参加。
   - Gt.Yukino（[AUTO-MOD](../Page/AUTO-MOD.md "wikilink")）：数回参加
   - Gt.K.A.T.（ex [Septaluck](https://ja.wikipedia.org/wiki/Septaluck "wikilink")）：数回参加
@@ -600,7 +600,7 @@
 </div>
 </div></li>
 </ol></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ルパン三世" title="wikilink">ルパン三世</a>のトリビュートアルバム。</p></td>
+<td><p><a href="../Page/ルパン三世.md" title="wikilink">ルパン三世</a>のトリビュートアルバム。</p></td>
 </tr>
 <tr class="even">
 <td><p>2004年6月30日</p></td>
@@ -617,7 +617,7 @@
 </div>
 </div></li>
 </ol></td>
-<td><p>LOOPUS、穣児・安高（<a href="../Page/クラッシュ・イン・アントワープ.md" title="wikilink">クラッシュ・イン・アントワープ</a>）、<a href="https://ja.wikipedia.org/wiki/近藤金吾" title="wikilink">近藤金吾</a>（<a href="https://ja.wikipedia.org/wiki/TIMESLIP-RENDEZVOUS" title="wikilink">TIMESLIP-RENDEZVOUS</a>）の３組による合作シングル。</p></td>
+<td><p>LOOPUS、穣児・安高（<a href="../Page/クラッシュ・イン・アントワープ.md" title="wikilink">クラッシュ・イン・アントワープ</a>）、<a href="../Page/近藤金吾.md" title="wikilink">近藤金吾</a>（<a href="https://ja.wikipedia.org/wiki/TIMESLIP-RENDEZVOUS" title="wikilink">TIMESLIP-RENDEZVOUS</a>）の３組による合作シングル。</p></td>
 </tr>
 <tr class="odd">
 <td><p>2007年6月16日</p></td>
@@ -852,7 +852,7 @@
 <tr class="even">
 <td><p>8</p></td>
 <td><p>1995年3月3日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/梅田バナナホール" title="wikilink">梅田バナナホール</a></p></td>
+<td><p><a href="../Page/梅田バナナホール.md" title="wikilink">梅田バナナホール</a></p></td>
 <td><p>「晴者」発売記念ライブ</p></td>
 <td><p>レコ発ツアー</p></td>
 <td><p>柴山俊之+LA.SCOUMOUNE、伊藤秀孝with月光、舞士</p></td>
@@ -873,7 +873,7 @@
 <td><p>川崎クラブチッタ</p></td>
 <td><p>CLUB AQUARIUS VOL.3</p></td>
 <td><p>主催イベント</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/及川光博" title="wikilink">及川光博</a>、DEMI SEMI QUAVER、テリーT</p></td>
+<td><p><a href="../Page/及川光博.md" title="wikilink">及川光博</a>、DEMI SEMI QUAVER、テリーT</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -998,7 +998,7 @@
 <tr class="odd">
 <td><p>25</p></td>
 <td><p>1996年11月9日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/仙台MACANA" title="wikilink">仙台MACANA</a></p></td>
+<td><p><a href="../Page/仙台MACANA.md" title="wikilink">仙台MACANA</a></p></td>
 <td><p>Loopus debut live "infinity"</p></td>
 <td><p>レコ発ツアー</p></td>
 <td></td>
@@ -1061,7 +1061,7 @@
 <tr class="even">
 <td><p>32</p></td>
 <td><p>1997年2月21日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Shibuya_O-EAST" title="wikilink">渋谷ON AIR EAST</a></p></td>
+<td><p><a href="../Page/Shibuya_O-EAST.md" title="wikilink">渋谷ON AIR EAST</a></p></td>
 <td></td>
 <td><p>イベント</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/水江慎一郎" title="wikilink">ACROSS THE UNIVERSE</a>、<a href="../Page/THE_SLUT_BANKS.md" title="wikilink">THE SLUT BANKS</a> 、BAMBINO</p></td>
@@ -1097,7 +1097,7 @@
 <tr class="even">
 <td><p>36</p></td>
 <td><p>1997年7月18日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/池袋" title="wikilink">池袋</a><a href="../Page/サンシャイン劇場.md" title="wikilink">サンシャイン劇場</a></p></td>
+<td><p><a href="../Page/池袋.md" title="wikilink">池袋</a><a href="../Page/サンシャイン劇場.md" title="wikilink">サンシャイン劇場</a></p></td>
 <td><p>10DAYS 阪神復興支援コンサート</p></td>
 <td><p>イベント</p></td>
 <td></td>
@@ -1316,16 +1316,16 @@
 <td><p>渋谷ON AIR WEST</p></td>
 <td><p>JUST A BEAT SHOW</p></td>
 <td><p>イベント</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/TIMESLIP" title="wikilink">TimeSlip-Rendezvous</a>、<a href="../Page/In_the_Soup.md" title="wikilink">In the Soup</a>、<a href="https://ja.wikipedia.org/wiki/THE_JUMPS" title="wikilink">THE JUMPS</a>、<a href="https://ja.wikipedia.org/wiki/久保田光太郎" title="wikilink">SUPER TRAPP</a></p></td>
+<td><p><a href="../Page/TIMESLIP.md" title="wikilink">TimeSlip-Rendezvous</a>、<a href="../Page/In_the_Soup.md" title="wikilink">In the Soup</a>、<a href="https://ja.wikipedia.org/wiki/THE_JUMPS" title="wikilink">THE JUMPS</a>、<a href="https://ja.wikipedia.org/wiki/久保田光太郎" title="wikilink">SUPER TRAPP</a></p></td>
 <td><p>MAD大内ゲスト参加</p></td>
 </tr>
 <tr class="odd">
 <td><p>61</p></td>
 <td><p>1999年10月26日</p></td>
 <td><p>新宿LOFT</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/DRIVE_TO_2000" title="wikilink">DRIVE TO 2000</a></p></td>
+<td><p><a href="../Page/DRIVE_TO_2000.md" title="wikilink">DRIVE TO 2000</a></p></td>
 <td><p>イベント</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/有近真澄" title="wikilink">TV JESUS</a>、<a href="../Page/ECD_(ミュージシャン).md" title="wikilink">ECD</a>、面影ラッキーホール、<a href="../Page/松蔭浩之.md" title="wikilink">ゴージャラスwith</a><a href="https://ja.wikipedia.org/wiki/明和電機" title="wikilink">明和電機</a>、ファンシネBAND、<a href="https://ja.wikipedia.org/wiki/松江潤" title="wikilink">SPOOZYS</a>、<a href="https://ja.wikipedia.org/wiki/S-KEN" title="wikilink">S-KEN BOM BOMS</a>＆HOT</p></td>
+<td><p><a href="../Page/有近真澄.md" title="wikilink">TV JESUS</a>、<a href="../Page/ECD_(ミュージシャン).md" title="wikilink">ECD</a>、面影ラッキーホール、<a href="../Page/松蔭浩之.md" title="wikilink">ゴージャラスwith</a><a href="../Page/明和電機.md" title="wikilink">明和電機</a>、ファンシネBAND、<a href="https://ja.wikipedia.org/wiki/松江潤" title="wikilink">SPOOZYS</a>、<a href="https://ja.wikipedia.org/wiki/S-KEN" title="wikilink">S-KEN BOM BOMS</a>＆HOT</p></td>
 <td><p>MAD大内ゲスト参加</p></td>
 </tr>
 <tr class="even">
@@ -1425,7 +1425,7 @@
 <td><p>下北沢CLUB251</p></td>
 <td><p>2000 251 ALL STAR SPECIAL</p></td>
 <td><p>カウントダウンイベント</p></td>
-<td><p>宙ブラリ、band on the coove、PELICAN KING、モノマニア、GOOD LOVIN'TIME、APOLLO13、<a href="../Page/人時.md" title="wikilink">HITOKI-PIRANHAHEADS</a>、<a href="https://ja.wikipedia.org/wiki/VooDoo_Hawaiians" title="wikilink">VooDoo Hawaiians</a>、ISSUE、maxis kansasity、STEREO SUN</p></td>
+<td><p>宙ブラリ、band on the coove、PELICAN KING、モノマニア、GOOD LOVIN'TIME、APOLLO13、<a href="../Page/人時.md" title="wikilink">HITOKI-PIRANHAHEADS</a>、<a href="../Page/VooDoo_Hawaiians.md" title="wikilink">VooDoo Hawaiians</a>、ISSUE、maxis kansasity、STEREO SUN</p></td>
 <td><p>カウントダウナー</p></td>
 </tr>
 <tr class="odd">
@@ -1452,7 +1452,7 @@
 <td><p>渋谷ON AIR EAST</p></td>
 <td><p>ザ・スターリンに捧ぐ</p></td>
 <td><p>レコ発イベント</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ザ・スターリン" title="wikilink">ザ・スターリン</a>、<a href="../Page/COBRA_(バンド).md" title="wikilink">COBRA</a>、<a href="https://ja.wikipedia.org/wiki/大槻ケンヂ" title="wikilink">大槻ケンヂ</a>と電車、BUKK</p></td>
+<td><p><a href="../Page/ザ・スターリン.md" title="wikilink">ザ・スターリン</a>、<a href="../Page/COBRA_(バンド).md" title="wikilink">COBRA</a>、<a href="https://ja.wikipedia.org/wiki/大槻ケンヂ" title="wikilink">大槻ケンヂ</a>と電車、BUKK</p></td>
 <td><p>DVDとしてリリース</p></td>
 </tr>
 <tr class="even">
@@ -1497,7 +1497,7 @@
 <td><p>下北沢CLUB Que</p></td>
 <td><p>RETURN TO NATURAL</p></td>
 <td><p>イベント</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/TIMESLIP" title="wikilink">TIMESLIP</a>-RENDEZVOUS</p></td>
+<td><p><a href="../Page/TIMESLIP.md" title="wikilink">TIMESLIP</a>-RENDEZVOUS</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1624,7 +1624,7 @@
 <td><p>新宿LOFT</p></td>
 <td><p>loft&amp;disk garage presents Smile&amp;Walking</p></td>
 <td><p>イベント</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/TIMESLIP" title="wikilink">TIMESLIP</a>-RENDEZVOUS、PUSH、ファンタ・ゼロ・コースター</p></td>
+<td><p><a href="../Page/TIMESLIP.md" title="wikilink">TIMESLIP</a>-RENDEZVOUS、PUSH、ファンタ・ゼロ・コースター</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1687,7 +1687,7 @@
 <td><p>高田馬場AREA</p></td>
 <td><p>AREA 6th ANNIVERSARY</p></td>
 <td><p>イベント</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/TIMESLIP" title="wikilink">TIMESLIP</a>-RENDEZVOUS</p></td>
+<td><p><a href="../Page/TIMESLIP.md" title="wikilink">TIMESLIP</a>-RENDEZVOUS</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1768,7 +1768,7 @@
 <td><p>高田馬場AREA</p></td>
 <td><p>Evil God's Cabaret</p></td>
 <td><p>主催イベント</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/近藤金吾" title="wikilink">近藤金吾</a>、MAnKInD</p></td>
+<td><p><a href="../Page/近藤金吾.md" title="wikilink">近藤金吾</a>、MAnKInD</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1786,7 +1786,7 @@
 <td><p>下北沢CLUB Que</p></td>
 <td><p>NAKED COLLECTION 1</p></td>
 <td><p>アコースティックイベント</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/近藤金吾" title="wikilink">近藤金吾</a>、<a href="../Page/クラッシュ・イン・アントワープ.md" title="wikilink">穣児・安高</a></p></td>
+<td><p><a href="../Page/近藤金吾.md" title="wikilink">近藤金吾</a>、<a href="../Page/クラッシュ・イン・アントワープ.md" title="wikilink">穣児・安高</a></p></td>
 <td><p>空景素描～アメ・ノチ・ハレ～リリース</p></td>
 </tr>
 <tr class="odd">
@@ -1795,7 +1795,7 @@
 <td><p>新宿LOFT</p></td>
 <td><p>LOFT POWER PUSH !</p></td>
 <td><p>イベント</p></td>
-<td><p><a href="../Page/藤崎賢一.md" title="wikilink">6(featuring KENICHI FUJISAKI)</a>、<a href="https://ja.wikipedia.org/wiki/THE_HATE_HONEY" title="wikilink">THE HATE HONEY</a>、<a href="https://ja.wikipedia.org/wiki/JILS" title="wikilink">JILS</a></p></td>
+<td><p><a href="../Page/藤崎賢一.md" title="wikilink">6(featuring KENICHI FUJISAKI)</a>、<a href="https://ja.wikipedia.org/wiki/THE_HATE_HONEY" title="wikilink">THE HATE HONEY</a>、<a href="../Page/JILS.md" title="wikilink">JILS</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1840,7 +1840,7 @@
 <td><p>高田馬場AREA</p></td>
 <td><p>Stand 4 Future</p></td>
 <td><p>イベント</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ASAKI#AGE_of_PUNK" title="wikilink">AGE of PUNK</a>、<a href="https://ja.wikipedia.org/wiki/TIMESLIP" title="wikilink">TIMESLIP</a>-RENDEZVOUS</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ASAKI#AGE_of_PUNK" title="wikilink">AGE of PUNK</a>、<a href="../Page/TIMESLIP.md" title="wikilink">TIMESLIP</a>-RENDEZVOUS</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1858,7 +1858,7 @@
 <td><p>初台The DOORS</p></td>
 <td><p>Real Rock Star Night vol.2</p></td>
 <td><p>イベント</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/HEATH" title="wikilink">HEATH</a>、FATBUG、Diddie Wa Dibby、SPRRAY</p></td>
+<td><p><a href="../Page/HEATH.md" title="wikilink">HEATH</a>、FATBUG、Diddie Wa Dibby、SPRRAY</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2057,7 +2057,7 @@ Fascinate Love、Jerk'N'Spark、Stay、３枚同時リリース</p></td>
 <td><p>下北沢CLUB Que</p></td>
 <td><p>club Queen and king 13th joker</p></td>
 <td><p>イベント</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/TIMESLIP" title="wikilink">TIMESLIP</a>-RENDEZVOUS、aeronauts</p></td>
+<td><p><a href="../Page/TIMESLIP.md" title="wikilink">TIMESLIP</a>-RENDEZVOUS、aeronauts</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2093,7 +2093,7 @@ Fascinate Love、Jerk'N'Spark、Stay、３枚同時リリース</p></td>
 <td><p>初台The DOORS</p></td>
 <td><p>DER ZIBET 復活祭第2弾 × SIDEWALK ARTIST ROOM 7th FESTIVAL コラボイベント</p></td>
 <td><p>イベント</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/DER_ZIBET" title="wikilink">DER ZIBET</a>、<a href="https://ja.wikipedia.org/wiki/ASAKI#AGE_of_PUNK" title="wikilink">AGE of PUNK</a></p></td>
+<td><p><a href="../Page/DER_ZIBET.md" title="wikilink">DER ZIBET</a>、<a href="https://ja.wikipedia.org/wiki/ASAKI#AGE_of_PUNK" title="wikilink">AGE of PUNK</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2165,7 +2165,7 @@ Fascinate Love、Jerk'N'Spark、Stay、３枚同時リリース</p></td>
 <td><p>新宿MARZ</p></td>
 <td><p>FREAKS OF THE LEGEND vol.4</p></td>
 <td><p>イベント</p></td>
-<td><p><a href="../Page/AUTO-MOD.md" title="wikilink">AUTO-MOD</a>、<a href="https://ja.wikipedia.org/wiki/DER_ZIBET" title="wikilink">DER ZIBET</a></p></td>
+<td><p><a href="../Page/AUTO-MOD.md" title="wikilink">AUTO-MOD</a>、<a href="../Page/DER_ZIBET.md" title="wikilink">DER ZIBET</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2216,7 +2216,7 @@ Fascinate Love、Jerk'N'Spark、Stay、３枚同時リリース</p></td>
 <tr class="even">
 <td><p>157</p></td>
 <td><p>2010年8月21日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/吉祥寺CLUB_SEATA" title="wikilink">吉祥寺CLUB SEATA</a></p></td>
+<td><p><a href="../Page/吉祥寺CLUB_SEATA.md" title="wikilink">吉祥寺CLUB SEATA</a></p></td>
 <td><p>SIDEWALK 9th FES &amp; C.A.A.C. 15th Anniversary FUTURE CLASSICS EXPO 2010 ALL CATS</p></td>
 <td><p>共催イベント</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ASAKI#AGE_of_PUNK" title="wikilink">AGE of PUNK</a>、<a href="../Page/AUTO-MOD.md" title="wikilink">AUTO-MOD</a>、<a href="../Page/藤崎賢一.md" title="wikilink">KENICHI FUJISAKI</a>、<a href="https://ja.wikipedia.org/wiki/MOTO-PSYCHO_R&amp;R_SERVICE" title="wikilink">MOTO-PSYCHO R&amp;R SERVICE</a></p></td>
@@ -2228,7 +2228,7 @@ Fascinate Love、Jerk'N'Spark、Stay、３枚同時リリース</p></td>
 <td><p>吉祥寺CLUB SEATA</p></td>
 <td><p>SIDEWALK 9th FES &amp; C.A.A.C. 15th Anniversary FUTURE CLASSICS EXPO 2010 ALL CATS</p></td>
 <td><p>共催イベント</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ASAKI#AGE_of_PUNK" title="wikilink">AGE of PUNK</a>、<a href="https://ja.wikipedia.org/wiki/DER_ZIBET" title="wikilink">DER ZIBET</a>、test-No.</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ASAKI#AGE_of_PUNK" title="wikilink">AGE of PUNK</a>、<a href="../Page/DER_ZIBET.md" title="wikilink">DER ZIBET</a>、test-No.</p></td>
 <td><p>エミ・エレオノーラゲスト参加</p></td>
 </tr>
 <tr class="even">
@@ -2264,7 +2264,7 @@ Fascinate Love、Jerk'N'Spark、Stay、３枚同時リリース</p></td>
 <td><p>新宿LOFT</p></td>
 <td><p>宙也 生誕50年～新宿ロフト・デビュー30周年記念祝祭</p></td>
 <td><p>共催イベント</p></td>
-<td><p><a href="../Page/De-LAX.md" title="wikilink">De+LAX</a>、<a href="https://ja.wikipedia.org/wiki/宙也#宙也†幸也" title="wikilink">宙也†幸也</a>、<a href="https://ja.wikipedia.org/wiki/ALLERGY" title="wikilink">{新訳}アレルギー</a></p></td>
+<td><p><a href="../Page/De-LAX.md" title="wikilink">De+LAX</a>、<a href="https://ja.wikipedia.org/wiki/宙也#宙也†幸也" title="wikilink">宙也†幸也</a>、<a href="../Page/ALLERGY.md" title="wikilink">{新訳}アレルギー</a></p></td>
 <td><p>澄田健ゲスト参加</p></td>
 </tr>
 <tr class="even">
@@ -2282,7 +2282,7 @@ Fascinate Love、Jerk'N'Spark、Stay、３枚同時リリース</p></td>
 <td><p><a href="../Page/CLUB_CITTA&#39;.md" title="wikilink">CLUB CITTA'</a></p></td>
 <td><p>Yagami Toll 50th Birthday Live「IT'S A NOW!」</p></td>
 <td><p>イベント</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/BUCK-TICK" title="wikilink">BUCK-TICK</a>、<a href="../Page/AUTO-MOD.md" title="wikilink">AUTO-MOD</a>、<a href="https://ja.wikipedia.org/wiki/DER_ZIBET" title="wikilink">DER ZIBET</a>、<a href="../Page/ヤガミトール.md" title="wikilink">Yagami Toll &amp; New Blue Sky</a></p></td>
+<td><p><a href="../Page/BUCK-TICK.md" title="wikilink">BUCK-TICK</a>、<a href="../Page/AUTO-MOD.md" title="wikilink">AUTO-MOD</a>、<a href="../Page/DER_ZIBET.md" title="wikilink">DER ZIBET</a>、<a href="../Page/ヤガミトール.md" title="wikilink">Yagami Toll &amp; New Blue Sky</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2291,7 +2291,7 @@ Fascinate Love、Jerk'N'Spark、Stay、３枚同時リリース</p></td>
 <td><p>新宿MARZ</p></td>
 <td><p>FREAKS OF THE LEGEND vol.5</p></td>
 <td><p>イベント</p></td>
-<td><p><a href="../Page/AUTO-MOD.md" title="wikilink">AUTO-MOD</a>、<a href="https://ja.wikipedia.org/wiki/DER_ZIBET" title="wikilink">DER ZIBET</a>、<a href="../Page/藤崎賢一.md" title="wikilink">LIZARD'S TAIL</a></p></td>
+<td><p><a href="../Page/AUTO-MOD.md" title="wikilink">AUTO-MOD</a>、<a href="../Page/DER_ZIBET.md" title="wikilink">DER ZIBET</a>、<a href="../Page/藤崎賢一.md" title="wikilink">LIZARD'S TAIL</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2336,7 +2336,7 @@ Fascinate Love、Jerk'N'Spark、Stay、３枚同時リリース</p></td>
 <td><p>高円寺HIGH</p></td>
 <td><p>FREAKS OF THE LEGEND vol.6</p></td>
 <td><p>イベント</p></td>
-<td><p><a href="../Page/AUTO-MOD.md" title="wikilink">AUTO-MOD</a>、<a href="https://ja.wikipedia.org/wiki/DER_ZIBET" title="wikilink">DER ZIBET</a></p></td>
+<td><p><a href="../Page/AUTO-MOD.md" title="wikilink">AUTO-MOD</a>、<a href="../Page/DER_ZIBET.md" title="wikilink">DER ZIBET</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2381,7 +2381,7 @@ Fascinate Love、Jerk'N'Spark、Stay、３枚同時リリース</p></td>
 <td><p>下北沢CLUB Que</p></td>
 <td><p>SHIMOKITA NO WAVE</p></td>
 <td><p>イベント</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/dip_(バンド)" title="wikilink">dip</a>、dummy-xD、DJ：<a href="https://ja.wikipedia.org/wiki/木下理樹" title="wikilink">木下理樹</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/dip_(バンド)" title="wikilink">dip</a>、dummy-xD、DJ：<a href="../Page/木下理樹.md" title="wikilink">木下理樹</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2453,7 +2453,7 @@ Fascinate Love、Jerk'N'Spark、Stay、３枚同時リリース</p></td>
 <td><p>新宿LOFT[10]</p></td>
 <td><p>宙也 生誕55年～新宿ロフト・デビュー35周年記念祝祭</p></td>
 <td><p>共催イベント</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ALLERGY" title="wikilink">ALLERGY</a>、<a href="https://ja.wikipedia.org/wiki/宙也#宙也†幸也" title="wikilink">宙也†幸也</a>、<a href="../Page/遠藤ミチロウ.md" title="wikilink">遠藤ミチロウ</a>、BAKI、<a href="../Page/本田毅.md" title="wikilink">本田毅</a>、ヤマジカズヒデ、ISSAY、<a href="https://ja.wikipedia.org/wiki/綾小路翔" title="wikilink">綾小路翔</a>、KAZI、SEXY ROSE HARRY、ササキヒデアキ[11]</p></td>
+<td><p><a href="../Page/ALLERGY.md" title="wikilink">ALLERGY</a>、<a href="https://ja.wikipedia.org/wiki/宙也#宙也†幸也" title="wikilink">宙也†幸也</a>、<a href="../Page/遠藤ミチロウ.md" title="wikilink">遠藤ミチロウ</a>、BAKI、<a href="../Page/本田毅.md" title="wikilink">本田毅</a>、ヤマジカズヒデ、ISSAY、<a href="https://ja.wikipedia.org/wiki/綾小路翔" title="wikilink">綾小路翔</a>、KAZI、SEXY ROSE HARRY、ササキヒデアキ[11]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2489,7 +2489,7 @@ Fascinate Love、Jerk'N'Spark、Stay、３枚同時リリース</p></td>
 <td><p>高円寺HIGH</p></td>
 <td><p>Der Zibet presents　LIVE MANIA act.4</p></td>
 <td><p>イベント</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/DER_ZIBET" title="wikilink">DER ZIBET</a>、<a href="../Page/AUTO-MOD.md" title="wikilink">AUTO-MOD</a></p></td>
+<td><p><a href="../Page/DER_ZIBET.md" title="wikilink">DER ZIBET</a>、<a href="../Page/AUTO-MOD.md" title="wikilink">AUTO-MOD</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2507,7 +2507,7 @@ Fascinate Love、Jerk'N'Spark、Stay、３枚同時リリース</p></td>
 <td><p>高円寺HIGH</p></td>
 <td><p>double bir.2018</p></td>
 <td><p>イベント</p></td>
-<td><p>minimum（<a href="https://ja.wikipedia.org/wiki/斉藤律" title="wikilink">律</a>＋TAKE)、<a href="https://ja.wikipedia.org/wiki/斉藤律#bulb" title="wikilink">bulb</a>、<a href="https://ja.wikipedia.org/wiki/成田忍" title="wikilink">成田忍</a>、VJ：FUMI</p></td>
+<td><p>minimum（<a href="../Page/斉藤律.md" title="wikilink">律</a>＋TAKE)、<a href="https://ja.wikipedia.org/wiki/斉藤律#bulb" title="wikilink">bulb</a>、<a href="https://ja.wikipedia.org/wiki/成田忍" title="wikilink">成田忍</a>、VJ：FUMI</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2543,7 +2543,7 @@ Fascinate Love、Jerk'N'Spark、Stay、３枚同時リリース</p></td>
 <td><p>高円寺HIGH</p></td>
 <td><p>邪神の狂宴～Better An Old Demon Than A New God</p></td>
 <td><p>主催イベント</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/DER_ZIBET" title="wikilink">DER ZIBET</a>、<a href="../Page/AUTO-MOD.md" title="wikilink">AUTO-MOD</a></p></td>
+<td><p><a href="../Page/DER_ZIBET.md" title="wikilink">DER ZIBET</a>、<a href="../Page/AUTO-MOD.md" title="wikilink">AUTO-MOD</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

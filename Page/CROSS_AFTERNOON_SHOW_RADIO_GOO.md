@@ -1,15 +1,15 @@
 > この記事は[CROSS AFTERNOON SHOW RADIO GOO](https://ja.wikipedia.org/wiki/CROSS_AFTERNOON_SHOW_RADIO_GOO)から翻訳されています。
 
 
-**CROSS AFTERNOON SHOW RADIO GOO**（クロス・アフタヌーン・ショー・レディオ・グー）は、[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")に本社を持つ[CROSS FMで放送されていた](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。放送時間は毎週月～金曜日12:00～18:00。北九州本社スタジオからの[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")であった。
+**CROSS AFTERNOON SHOW RADIO GOO**（クロス・アフタヌーン・ショー・レディオ・グー）は、[福岡県](../Page/福岡県.md "wikilink")に本社を持つ[CROSS FMで放送されていた](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。放送時間は毎週月～金曜日12:00～18:00。北九州本社スタジオからの[生放送](../Page/生放送.md "wikilink")であった。
 
 ## ナビゲーター
 
-  - 月曜日\>\>\>[永松ケンシ](https://ja.wikipedia.org/wiki/永松ケンシ "wikilink")（同局での最後の番組となった）
+  - 月曜日\>\>\>[永松ケンシ](../Page/永松ケンシ.md "wikilink")（同局での最後の番組となった）
   - 火曜日\>\>\>[信川竜太](../Page/信川竜太.md "wikilink")
   - 水曜日\>\>\>[立山律子](../Page/立山律子.md "wikilink")
   - 木曜日\>\>\>[立山律子](../Page/立山律子.md "wikilink")
-  - 金曜日\>\>\>[永松ケンシ](https://ja.wikipedia.org/wiki/永松ケンシ "wikilink")＆ [ViVi](../Page/ViVi_\(ディスクジョッキー\).md "wikilink")（両人とも同局での最後の番組となった）
+  - 金曜日\>\>\>[永松ケンシ](../Page/永松ケンシ.md "wikilink")＆ [ViVi](../Page/ViVi_\(ディスクジョッキー\).md "wikilink")（両人とも同局での最後の番組となった）
 
 ## 概要
 
@@ -82,7 +82,7 @@
 
 <!-- end list -->
 
-  - [明日への伝言板](https://ja.wikipedia.org/wiki/明日への伝言板 "wikilink") （17:55頃）
+  - [明日への伝言板](../Page/明日への伝言板.md "wikilink") （17:55頃）
 
 <!-- end list -->
 

@@ -1,11 +1,11 @@
 > この記事は[HeartLand STUDIO](https://ja.wikipedia.org/wiki/HeartLand_STUDIO)から翻訳されています。
 
 
-**HeartLand STUDIO**（ハートランドスタジオ）は、[名古屋市](../Page/名古屋市.md "wikilink")[中区の](../Page/中区_\(名古屋市\).md "wikilink")[伏見にあった](../Page/伏見_\(名古屋市\).md "wikilink")[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")。
+**HeartLand STUDIO**（ハートランドスタジオ）は、[名古屋市](../Page/名古屋市.md "wikilink")[中区の](../Page/中区_\(名古屋市\).md "wikilink")[伏見にあった](../Page/伏見_\(名古屋市\).md "wikilink")[ライブハウス](../Page/ライブハウス.md "wikilink")。
 
 ## 概要
 
-[Unryu-FLEX-WEST-entrance.JPG](https://ja.wikipedia.org/wiki/File:Unryu-FLEX-WEST-entrance.JPG "fig:Unryu-FLEX-WEST-entrance.JPG") [Unryu-FLEX-board.JPG](https://ja.wikipedia.org/wiki/File:Unryu-FLEX-board.JPG "fig:Unryu-FLEX-board.JPG") 名古屋では老舗的存在のライブハウスで、1983年（[昭和](../Page/昭和.md "wikilink")58年）に閉館した[ヘラルドグループ](../Page/ヘラルドグループ.md "wikilink")の映画館「ミリオン座」跡地にて開業\[1\]。東海地方でコンサートの企画・運営・制作などを行なっている[サンデーフォーク](https://ja.wikipedia.org/wiki/サンデーフォーク "wikilink")プロモーションによる運営で\[2\]、[1984年](../Page/1984年.md "wikilink")（昭和59年）3月31日のこけら落としには[白井貴子のライブが行なわれた](../Page/白井貴子_\(歌手\).md "wikilink")\[3\]。
+[Unryu-FLEX-WEST-entrance.JPG](https://ja.wikipedia.org/wiki/File:Unryu-FLEX-WEST-entrance.JPG "fig:Unryu-FLEX-WEST-entrance.JPG") [Unryu-FLEX-board.JPG](https://ja.wikipedia.org/wiki/File:Unryu-FLEX-board.JPG "fig:Unryu-FLEX-board.JPG") 名古屋では老舗的存在のライブハウスで、1983年（[昭和](../Page/昭和.md "wikilink")58年）に閉館した[ヘラルドグループ](../Page/ヘラルドグループ.md "wikilink")の映画館「ミリオン座」跡地にて開業\[1\]。東海地方でコンサートの企画・運営・制作などを行なっている[サンデーフォーク](../Page/サンデーフォーク.md "wikilink")プロモーションによる運営で\[2\]、[1984年](../Page/1984年.md "wikilink")（昭和59年）3月31日のこけら落としには[白井貴子のライブが行なわれた](../Page/白井貴子_\(歌手\).md "wikilink")\[3\]。
 
 オープン以来[インディーズ](../Page/インディーズ.md "wikilink")、メジャーを問わずあらゆるジャンルの音楽シーンを支えてきた。。
 

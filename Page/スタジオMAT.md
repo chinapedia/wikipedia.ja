@@ -5,52 +5,52 @@
 
 ## 概要
 
-[アニメアール](../Page/アニメアール.md "wikilink")出身の[アニメーター](https://ja.wikipedia.org/wiki/アニメーター "wikilink")、松坂定俊が1997年に設立した作画専門のスタジオである。MATとは「Matsuzaka Animation Team」の略称である。主に『[ポケットモンスター](https://ja.wikipedia.org/wiki/ポケットモンスター_\(アニメ\) "wikilink")』等のアニメ作品の作画作業を中心に活動をしている。
+[アニメアール](../Page/アニメアール.md "wikilink")出身の[アニメーター](../Page/アニメーター.md "wikilink")、松坂定俊が1997年に設立した作画専門のスタジオである。MATとは「Matsuzaka Animation Team」の略称である。主に『[ポケットモンスター](../Page/ポケットモンスター_\(アニメ\).md "wikilink")』等のアニメ作品の作画作業を中心に活動をしている。
 
-多くの作品の場合、「**スタジオMAT**」「**StudioMAT**」「**St.MAT**」「**MAT**」と[クレジットされる](https://ja.wikipedia.org/wiki/クレジットタイトル "wikilink")。
+多くの作品の場合、「**スタジオMAT**」「**StudioMAT**」「**St.MAT**」「**MAT**」と[クレジットされる](../Page/クレジットタイトル.md "wikilink")。
 
 ## 主な作品履歴
 
 ### テレビアニメ
 
   - [名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink") （1996年-）
-  - [ポケットモンスターシリーズ](https://ja.wikipedia.org/wiki/ポケットモンスター_\(アニメ\) "wikilink")
+  - [ポケットモンスターシリーズ](../Page/ポケットモンスター_\(アニメ\).md "wikilink")
       - [ポケットモンスター](../Page/ポケットモンスター_\(1997-2002年のアニメ\).md "wikilink") （1997年-2002年）
       - [ポケットモンスタークリスタル ライコウ雷の伝説](../Page/ポケットモンスタークリスタル_ライコウ雷の伝説.md "wikilink") （2001年）
-      - [ポケットモンスター アドバンスジェネレーション](https://ja.wikipedia.org/wiki/ポケットモンスター_アドバンスジェネレーション "wikilink") （2002年-2006年）
+      - [ポケットモンスター アドバンスジェネレーション](../Page/ポケットモンスター_アドバンスジェネレーション.md "wikilink") （2002年-2006年）
       - [ポケットモンスター ダイヤモンド&パール](../Page/ポケットモンスター_ダイヤモンド&パール.md "wikilink") （2006年-）
-  - [快傑蒸気探偵団 TV ANIMATION SERIES](https://ja.wikipedia.org/wiki/快傑蒸気探偵団 "wikilink") （1998年-1999年）
+  - [快傑蒸気探偵団 TV ANIMATION SERIES](../Page/快傑蒸気探偵団.md "wikilink") （1998年-1999年）
   - [鋼鉄天使くるみ](../Page/鋼鉄天使くるみ.md "wikilink") （1999年）
-  - [地球防衛企業ダイ・ガード](https://ja.wikipedia.org/wiki/地球防衛企業ダイ・ガード "wikilink") （1999年-2000年）
+  - [地球防衛企業ダイ・ガード](../Page/地球防衛企業ダイ・ガード.md "wikilink") （1999年-2000年）
   - [メダロット](../Page/メダロット_\(アニメ\).md "wikilink") （1999年-2000年）
   - [GTO](../Page/GTO_\(漫画\).md "wikilink") （1999年-2000年）
-  - [コレクター・ユイ](https://ja.wikipedia.org/wiki/コレクター・ユイ "wikilink") （第1期：1999年・第2期：2000年）
+  - [コレクター・ユイ](../Page/コレクター・ユイ.md "wikilink") （第1期：1999年・第2期：2000年）
   - [HUNTER×HUNTER](https://ja.wikipedia.org/wiki/HUNTER×HUNTER_\(1999年のアニメ\) "wikilink") （1999年-2001年）
   - [とっとこハム太郎](../Page/とっとこハム太郎_\(アニメ\).md "wikilink") （2000年-2006年）
   - [ラブひな](../Page/ラブひな.md "wikilink") （2000年）
-  - [星界の戦旗](https://ja.wikipedia.org/wiki/星界の戦旗 "wikilink") （2000年）
+  - [星界の戦旗](../Page/星界の戦旗.md "wikilink") （2000年）
   - [犬夜叉](https://ja.wikipedia.org/wiki/犬夜叉 "wikilink") （2000年-2004年）
   - [アルジェントソーマ](https://ja.wikipedia.org/wiki/アルジェントソーマ "wikilink") （2000年-2001年）
   - [真・女神転生デビチル](https://ja.wikipedia.org/wiki/真・女神転生デビルチルドレン#真・女神転生デビチル "wikilink") （2000-2001年）
   - [学校の怪談](../Page/学校の怪談_\(テレビアニメ\).md "wikilink") （2000年-2001年）
   - [テイルズ オブ エターニア THE ANIMATION](../Page/テイルズ_オブ_エターニア_THE_ANIMATION.md "wikilink") （2001年）
-  - [The Soul Taker 〜魂狩〜](https://ja.wikipedia.org/wiki/The_Soul_Taker_〜魂狩〜 "wikilink") （2001年）
+  - [The Soul Taker 〜魂狩〜](../Page/The_Soul_Taker_〜魂狩〜.md "wikilink") （2001年）
   - [フィギュア17 つばさ&ヒカル](../Page/フィギュア17_つばさ&ヒカル.md "wikilink") （2001年-2002年）
   - [テニスの王子様](../Page/テニスの王子様.md "wikilink") （2001年-2005年）
-  - [朝霧の巫女](https://ja.wikipedia.org/wiki/朝霧の巫女 "wikilink") （2002年）
+  - [朝霧の巫女](../Page/朝霧の巫女.md "wikilink") （2002年）
   - [NARUTO -ナルト-](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_\(アニメ\) "wikilink") （2002年-）
   - [探偵学園Q](../Page/探偵学園Q.md "wikilink") （2003年-2004年）
   - [リングにかけろ1](https://ja.wikipedia.org/wiki/リングにかけろ#アニメ "wikilink") （2004年）
   - [くじびきアンバランス](../Page/くじびきアンバランス.md "wikilink") （2004年）
   - [BLEACH](https://ja.wikipedia.org/wiki/BLEACH_\(アニメ\) "wikilink") （2004年）
   - [ケロロ軍曹](../Page/ケロロ軍曹_\(アニメ\).md "wikilink") （2004年-）
-  - [強殖装甲ガイバー](https://ja.wikipedia.org/wiki/強殖装甲ガイバー "wikilink") （2005年-2006年）
+  - [強殖装甲ガイバー](../Page/強殖装甲ガイバー.md "wikilink") （2005年-2006年）
   - [ハチミツとクローバー](../Page/ハチミツとクローバー.md "wikilink") （第1期：2005年・第2期：2006年）
   - [ツバサ・クロニクル](../Page/ツバサ-RESERVoir_CHRoNiCLE-.md "wikilink") （第1期：2005年・第2期：2006年）
-  - [NANA](https://ja.wikipedia.org/wiki/NANA "wikilink") （2006年-2007年）
+  - [NANA](../Page/NANA.md "wikilink") （2006年-2007年）
   - [貧乏姉妹物語](../Page/貧乏姉妹物語.md "wikilink") （2006年）
   - [ぷるるんっ\!しずくちゃん](../Page/ぷるるんっ!しずくちゃん.md "wikilink") （2006年-2007年）
-  - [D.Gray-man](https://ja.wikipedia.org/wiki/D.Gray-man "wikilink") （2006年-）
+  - [D.Gray-man](../Page/D.Gray-man.md "wikilink") （2006年-）
   - [家庭教師ヒットマンREBORN\!](https://ja.wikipedia.org/wiki/家庭教師ヒットマンREBORN! "wikilink") （2006年-）
   - [デルトラクエスト](../Page/デルトラ・クエスト.md "wikilink") （2007年-2008年）
   - [xxxHOLiC◆継](../Page/XXXHOLiC.md "wikilink") （2008年）
@@ -86,7 +86,7 @@
       - [水の都の護神 ラティアスとラティオス](../Page/劇場版ポケットモンスター_水の都の護神_ラティアスとラティオス.md "wikilink") （2002年）
       - [七夜の願い星 ジラーチ](../Page/劇場版ポケットモンスター_アドバンスジェネレーション_七夜の願い星_ジラーチ.md "wikilink") （2003年）
       - [裂空の訪問者 デオキシス](https://ja.wikipedia.org/wiki/劇場版ポケットモンスター_アドバンスジェネレーション_裂空の訪問者_デオキシス "wikilink") （2004年）
-      - [ミュウと波導の勇者ルカリオ](https://ja.wikipedia.org/wiki/劇場版ポケットモンスター_アドバンスジェネレーション_ミュウと波導の勇者_ルカリオ "wikilink") （2005年）
+      - [ミュウと波導の勇者ルカリオ](../Page/劇場版ポケットモンスター_アドバンスジェネレーション_ミュウと波導の勇者_ルカリオ.md "wikilink") （2005年）
       - [ポケモンレンジャーと蒼海の王子 マナフィ](../Page/劇場版ポケットモンスター_アドバンスジェネレーション_ポケモンレンジャーと蒼海の王子_マナフィ.md "wikilink") （2006年）
       - [ディアルガVSパルキアVSダークライ](../Page/劇場版ポケットモンスター_ダイヤモンド&パール_ディアルガVSパルキアVSダークライ.md "wikilink") （2007年）
       - [ギラティナと氷空の花束 シェイミ](https://ja.wikipedia.org/wiki/劇場版ポケットモンスター_ダイヤモンド&パール_ギラティナと氷空の花束_シェイミ "wikilink") （2008年）
@@ -94,9 +94,9 @@
   - [サクラ大戦 活動写真](../Page/サクラ大戦_活動写真.md "wikilink") （2001年）
   - [劇場版AIR](../Page/AIR_\(ゲーム\).md "wikilink") （2005年）
   - [映画ドラえもんシリーズ](https://ja.wikipedia.org/wiki/ドラえもん映画作品 "wikilink")
-      - [ドラえもん のび太の恐竜2006](https://ja.wikipedia.org/wiki/ドラえもん_のび太の恐竜2006 "wikilink") （2006年）
+      - [ドラえもん のび太の恐竜2006](../Page/ドラえもん_のび太の恐竜2006.md "wikilink") （2006年）
       - [ドラえもん のび太と緑の巨人伝](../Page/ドラえもん_のび太と緑の巨人伝.md "wikilink") （2008年）
-  - [ブレイブ ストーリー](https://ja.wikipedia.org/wiki/ブレイブ・ストーリー "wikilink") （2006年）
+  - [ブレイブ ストーリー](../Page/ブレイブ・ストーリー.md "wikilink") （2006年）
   - [ジョバンニの島](https://ja.wikipedia.org/wiki/ジョバンニの島 "wikilink") （2014年）
 
 ### その他
@@ -113,12 +113,12 @@
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [アートランド](https://ja.wikipedia.org/wiki/アートランド "wikilink")
-  - [オー・エル・エム](https://ja.wikipedia.org/wiki/オー・エル・エム "wikilink")
+  - [アートランド](../Page/アートランド.md "wikilink")
+  - [オー・エル・エム](../Page/オー・エル・エム.md "wikilink")
   - [カオスプロジェクト](../Page/カオスプロジェクト.md "wikilink")
-  - [サンライズ](https://ja.wikipedia.org/wiki/サンライズ_\(アニメ制作会社\) "wikilink")
+  - [サンライズ](../Page/サンライズ_\(アニメ制作会社\).md "wikilink")
   - [J.C.STAFF](../Page/ジェー・シー・スタッフ.md "wikilink")
-  - [XEBEC](https://ja.wikipedia.org/wiki/ジーベック_\(アニメ制作会社\) "wikilink")
+  - [XEBEC](../Page/ジーベック_\(アニメ制作会社\).md "wikilink")
 
 </div>
 
@@ -126,9 +126,9 @@
 
   - [ぴえろ](../Page/ぴえろ.md "wikilink")
   - [竜の子プロダクション](https://ja.wikipedia.org/wiki/竜の子プロダクション "wikilink")
-  - [トムス・エンタテインメント](https://ja.wikipedia.org/wiki/トムス・エンタテインメント "wikilink")
-  - [日本アニメーション](https://ja.wikipedia.org/wiki/日本アニメーション "wikilink")
-  - [ビィートレイン](https://ja.wikipedia.org/wiki/ビィートレイン "wikilink")
+  - [トムス・エンタテインメント](../Page/トムス・エンタテインメント.md "wikilink")
+  - [日本アニメーション](../Page/日本アニメーション.md "wikilink")
+  - [ビィートレイン](../Page/ビィートレイン.md "wikilink")
   - [Production I.G](../Page/プロダクション・アイジー.md "wikilink")
 
 </div>

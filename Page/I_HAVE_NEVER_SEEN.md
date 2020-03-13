@@ -7,9 +7,9 @@
 
 紅組トリを務めた[第48回NHK紅白歌合戦](../Page/第48回NHK紅白歌合戦.md "wikilink")を最後に産休から復帰後“ママ”となって約1年ぶりに[avex traxよりリリースされた](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
-テレビでは[第49回NHK紅白歌合戦](../Page/第49回NHK紅白歌合戦.md "wikilink")で復帰し、2年連続で「[CAN YOU CELEBRATE?](https://ja.wikipedia.org/wiki/CAN_YOU_CELEBRATE? "wikilink")」を涙ながらに熱唱した\[1\]。この曲の[プロモーションでは年始から出演し](../Page/宣伝.md "wikilink")、久々にダンスパフォーマンスも披露した。
+テレビでは[第49回NHK紅白歌合戦](../Page/第49回NHK紅白歌合戦.md "wikilink")で復帰し、2年連続で「[CAN YOU CELEBRATE?](../Page/CAN_YOU_CELEBRATE?.md "wikilink")」を涙ながらに熱唱した\[1\]。この曲の[プロモーションでは年始から出演し](../Page/宣伝.md "wikilink")、久々にダンスパフォーマンスも披露した。
 
-[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")[連続ドラマ](https://ja.wikipedia.org/wiki/連続ドラマ "wikilink")「[夜逃げ屋本舗](https://ja.wikipedia.org/wiki/夜逃げ屋本舗 "wikilink")」（[1999年](../Page/1999年.md "wikilink")[1月13日](../Page/1月13日.md "wikilink")〜[3月17日](../Page/3月17日.md "wikilink")・全10回）の主題歌に起用された。
+[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")[連続ドラマ](https://ja.wikipedia.org/wiki/連続ドラマ "wikilink")「[夜逃げ屋本舗](../Page/夜逃げ屋本舗.md "wikilink")」（[1999年](../Page/1999年.md "wikilink")[1月13日](../Page/1月13日.md "wikilink")〜[3月17日](../Page/3月17日.md "wikilink")・全10回）の主題歌に起用された。
 
 1998年9月に小室に楽曲制作のオーダーが入り、当初は派手で華やかな曲を思い浮かべていたが、『プライベートの妻・母としての安室』と『シンガーとしての安室』の両方の立場を考慮しなければならず、『失恋』等の悲しいテーマは真っ先にオミットし、『母親としての大きな愛情』を表現することを期待されていたため、小室曰く「針の穴を通す」程の難産であり、その後3ヶ月間構想に悩み、一度は逃げようと思いつつも\[2\]、サウンドを日本向けに寄らないように、ハワイで2週間かけて制作した。12月の締切日の朝のフライト直前までスタジオで作業していたため、詞は成田へ向かう飛行機の中で書くことになった。小室は「タイトルは『普通の人が経験したことの無いことを経験した』という意味を含めた」「旅の感じが出ています」と語っている\[3\]。
 

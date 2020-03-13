@@ -1,7 +1,7 @@
 > この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
 
 
-[A-Sign.jpg](https://ja.wikipedia.org/wiki/File:A-Sign.jpg "fig:A-Sign.jpg") **Aサイン**（）は、[本土復帰](../Page/本土復帰.md "wikilink")前の[沖縄において](../Page/琉球政府.md "wikilink")[米軍公認の](../Page/アメリカ軍.md "wikilink")[飲食店](https://ja.wikipedia.org/wiki/飲食店 "wikilink")・[風俗店](../Page/風俗店.md "wikilink")に与えられた営業許可証\[1\]。
+[A-Sign.jpg](https://ja.wikipedia.org/wiki/File:A-Sign.jpg "fig:A-Sign.jpg") **Aサイン**（）は、[本土復帰](../Page/本土復帰.md "wikilink")前の[沖縄において](../Page/琉球政府.md "wikilink")[米軍公認の](../Page/アメリカ軍.md "wikilink")[飲食店](../Page/飲食店.md "wikilink")・[風俗店](../Page/風俗店.md "wikilink")に与えられた営業許可証\[1\]。
 
 [1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")に制度が発足し、米軍風紀取締委員会による衛生基準に合格した業者に与えられた。Aサインの「**A**」は「**Approved**（許可済）」の頭文字で、公認の店舗は許可証か「**A**」の表示を店頭に掲げて営業した。この制度の目的は沖縄の風俗・飲食店が米軍要員及びその家族の健康と福祉に脅威を与えないために、一定の衛生及び建築の基準に適合基準を設けることにあった\[2\]。米軍の懸念は主に島内飲食店の衛生水準及び風俗店を介した[性病](https://ja.wikipedia.org/wiki/性病 "wikilink")感染にあった\[3\]。
 
@@ -9,7 +9,7 @@
 
 [1967年](../Page/1967年.md "wikilink")に米軍四軍合同の[軍医](https://ja.wikipedia.org/wiki/軍医 "wikilink")で組織された[琉球米軍合同医療委員会](https://ja.wikipedia.org/wiki/琉球米軍合同医療委員会 "wikilink")は主に性病感染防止の観点からAサイン制度が有効に機能していないと指摘し、その廃止を勧告している\[5\]。この勧告を受けて在琉米軍は勧告を支持するが、琉球政府の厚生局と公安局は廃止に強く反対した\[6\]。
 
-[沖縄返還](https://ja.wikipedia.org/wiki/沖縄返還 "wikilink")直前の[1972年](../Page/1972年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink")に廃止された。現在でも当時の許可証を店内に掲示して記念としている飲食店がある。
+[沖縄返還](../Page/沖縄返還.md "wikilink")直前の[1972年](../Page/1972年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink")に廃止された。現在でも当時の許可証を店内に掲示して記念としている飲食店がある。
 
 ## 業種の区別
 

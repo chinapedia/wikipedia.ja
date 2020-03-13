@@ -7,10 +7,10 @@
 
 ## 所属
 
-  - [全日本女子プロレス](https://ja.wikipedia.org/wiki/全日本女子プロレス "wikilink")（1986年 - 1991年）
-  - [ユニバーサル・プロレスリング](https://ja.wikipedia.org/wiki/ユニバーサル・プロレスリング "wikilink")（1991年 - 1993年）
+  - [全日本女子プロレス](../Page/全日本女子プロレス.md "wikilink")（1986年 - 1991年）
+  - [ユニバーサル・プロレスリング](../Page/ユニバーサル・プロレスリング.md "wikilink")（1991年 - 1993年）
   - フリーランス（1993年 - 1994年）
-  - [GAEA JAPAN](https://ja.wikipedia.org/wiki/GAEA_JAPAN "wikilink")（1994年 - 2005年）
+  - [GAEA JAPAN](../Page/GAEA_JAPAN.md "wikilink")（1994年 - 2005年）
   - フリーランス（2005年 - 2014年）
   - [Marvelous](https://ja.wikipedia.org/wiki/マーベラス_\(プロレス\) "wikilink")（2015年 - ）
 
@@ -20,8 +20,8 @@
 
 <!-- end list -->
 
-  - [全日本女子プロレス](https://ja.wikipedia.org/wiki/全日本女子プロレス "wikilink")のオーディションに合格。同期に[アジャ・コング](https://ja.wikipedia.org/wiki/アジャ・コング "wikilink")・[バイソン木村](https://ja.wikipedia.org/wiki/バイソン木村 "wikilink")・[工藤めぐみ](../Page/工藤めぐみ.md "wikilink")・[コンバット豊田](https://ja.wikipedia.org/wiki/コンバット豊田 "wikilink")・[Cooga](https://ja.wikipedia.org/wiki/Cooga "wikilink")らがいる。
-  - [8月8日](../Page/8月8日.md "wikilink")、東京・東村山スポーツセンターにおいて、対工藤めぐみ戦でデビュー。その後、同期の[高橋美華](https://ja.wikipedia.org/wiki/高橋美華 "wikilink")とタッグチーム『ハニーウイングス』を結成し、アイドルタッグとして活動をするが、中堅レスラーとしてそれ程目立った活躍は無かった。
+  - [全日本女子プロレス](../Page/全日本女子プロレス.md "wikilink")のオーディションに合格。同期に[アジャ・コング](../Page/アジャ・コング.md "wikilink")・[バイソン木村](../Page/バイソン木村.md "wikilink")・[工藤めぐみ](../Page/工藤めぐみ.md "wikilink")・[コンバット豊田](https://ja.wikipedia.org/wiki/コンバット豊田 "wikilink")・[Cooga](../Page/Cooga.md "wikilink")らがいる。
+  - [8月8日](../Page/8月8日.md "wikilink")、東京・東村山スポーツセンターにおいて、対工藤めぐみ戦でデビュー。その後、同期の[高橋美華](../Page/高橋美華.md "wikilink")とタッグチーム『ハニーウイングス』を結成し、アイドルタッグとして活動をするが、中堅レスラーとしてそれ程目立った活躍は無かった。
 
 <!-- end list -->
 
@@ -29,7 +29,7 @@
 
 <!-- end list -->
 
-  - [ユニバーサル・プロレスリング](https://ja.wikipedia.org/wiki/ユニバーサル・プロレスリング "wikilink")が旗揚げした際、全女がリングを貸した縁で同団体のリングに上がり、注目されるようになる。
+  - [ユニバーサル・プロレスリング](../Page/ユニバーサル・プロレスリング.md "wikilink")が旗揚げした際、全女がリングを貸した縁で同団体のリングに上がり、注目されるようになる。
 
 <!-- end list -->
 
@@ -37,7 +37,7 @@
 
 <!-- end list -->
 
-  - [ルチャリブレ](https://ja.wikipedia.org/wiki/ルチャリブレ "wikilink")がやりたいと言う理由から、全女を退団しユニバーサルに移籍。『日本人女性初のルチャドーラ』として活動し、TV女子王座に就くなどしていた。後にユニバーサルの経営難から退団。
+  - [ルチャリブレ](../Page/ルチャリブレ.md "wikilink")がやりたいと言う理由から、全女を退団しユニバーサルに移籍。『日本人女性初のルチャドーラ』として活動し、TV女子王座に就くなどしていた。後にユニバーサルの経営難から退団。
 
 <!-- end list -->
 
@@ -45,7 +45,7 @@
 
 <!-- end list -->
 
-  - 同郷の先輩である[長与千種](../Page/長与千種.md "wikilink")が設立した[GAEA JAPANに参加](https://ja.wikipedia.org/wiki/GAEA_JAPAN "wikilink")。
+  - 同郷の先輩である[長与千種](../Page/長与千種.md "wikilink")が設立した[GAEA JAPANに参加](../Page/GAEA_JAPAN.md "wikilink")。
 
 <!-- end list -->
 
@@ -53,7 +53,7 @@
 
 <!-- end list -->
 
-  - ファイトスタイルが似ている[JWP女子プロレス](https://ja.wikipedia.org/wiki/JWP女子プロレス "wikilink")の[福岡晶](https://ja.wikipedia.org/wiki/福岡晶 "wikilink")と、当時としては珍しい団体の枠を超えたタッグチームを結成。12月には、第7代JWP認定タッグチャンピオンとなった。
+  - ファイトスタイルが似ている[JWP女子プロレス](../Page/JWP女子プロレス.md "wikilink")の[福岡晶](../Page/福岡晶.md "wikilink")と、当時としては珍しい団体の枠を超えたタッグチームを結成。12月には、第7代JWP認定タッグチャンピオンとなった。
 
 <!-- end list -->
 
@@ -61,7 +61,7 @@
 
 <!-- end list -->
 
-  - [GAEA JAPANに参戦していた](https://ja.wikipedia.org/wiki/GAEA_JAPAN "wikilink")[ライオネス飛鳥](../Page/ライオネス飛鳥.md "wikilink")、[アジャ・コング](https://ja.wikipedia.org/wiki/アジャ・コング "wikilink")、[加藤園子](../Page/加藤園子.md "wikilink")とのDorA（デッド・オア・アライブ）結成を機に、ルチャ仕込みの空中殺法に加えて、机の切れ端などを凶器として使うハードコアな戦闘スタイルに路線変更。これが吉と出て、翌年以降大ブレイク。
+  - [GAEA JAPANに参戦していた](../Page/GAEA_JAPAN.md "wikilink")[ライオネス飛鳥](../Page/ライオネス飛鳥.md "wikilink")、[アジャ・コング](../Page/アジャ・コング.md "wikilink")、[加藤園子](../Page/加藤園子.md "wikilink")とのDorA（デッド・オア・アライブ）結成を機に、ルチャ仕込みの空中殺法に加えて、机の切れ端などを凶器として使うハードコアな戦闘スタイルに路線変更。これが吉と出て、翌年以降大ブレイク。
 
 <!-- end list -->
 
@@ -69,7 +69,7 @@
 
 <!-- end list -->
 
-  - 2月のGAEA JAPAN[後楽園ホール](https://ja.wikipedia.org/wiki/後楽園ホール "wikilink")大会にて、同期のアジャ・コングの持つ念願の[AAAWシングル王座](https://ja.wikipedia.org/wiki/AAAWシングル王座 "wikilink")のベルトに挑戦し、アジャの素手による裏拳にて惜しくも敗れるが、両者大流血の死闘を繰り広げる。
+  - 2月のGAEA JAPAN[後楽園ホール](../Page/後楽園ホール.md "wikilink")大会にて、同期のアジャ・コングの持つ念願の[AAAWシングル王座](https://ja.wikipedia.org/wiki/AAAWシングル王座 "wikilink")のベルトに挑戦し、アジャの素手による裏拳にて惜しくも敗れるが、両者大流血の死闘を繰り広げる。
   - 5月のGAEA JAPAN有明コロシアム大会にて、長年敵対してきた[尾崎魔弓](../Page/尾崎魔弓.md "wikilink")とフリーウエポンマッチで対戦し、試合後両者が歩み寄り、後の[D-FIX](https://ja.wikipedia.org/wiki/D-FIX "wikilink")を結成に繋がっていく。
 
 <!-- end list -->
@@ -87,7 +87,7 @@
 
 <!-- end list -->
 
-  - 2月のGAEA JAPAN[梅田ステラホール大会にて](https://ja.wikipedia.org/wiki/梅田スカイビル "wikilink")、インフェルナルKAORUを久々に復活させる。
+  - 2月のGAEA JAPAN[梅田ステラホール大会にて](../Page/梅田スカイビル.md "wikilink")、インフェルナルKAORUを久々に復活させる。
   - 4月のGAEA JAPAN[横浜文化体育館](../Page/横浜文化体育館.md "wikilink")大会にて尾崎魔弓と組み、シュガー佐藤、永島千佳世の持つ[AAAWタッグ王座](https://ja.wikipedia.org/wiki/AAAWタッグ王座 "wikilink")に挑戦し、KAORUがシュガーからエクスカリバーでピンフォール勝ちを収め、第7代AAAWタッグ王者になる。
 
 <!-- end list -->
@@ -110,7 +110,7 @@
 
 <!-- end list -->
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
 
 <!-- end list -->
 
@@ -118,11 +118,11 @@
 
 <!-- end list -->
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")
+  - [2006年](../Page/2006年.md "wikilink")
 
 <!-- end list -->
 
-  - 4月の[長与千種](../Page/長与千種.md "wikilink")プロデュース興行Marvelous Night Miracle Game KAORU復帰戦にて、[大日本プロレス](https://ja.wikipedia.org/wiki/大日本プロレス "wikilink")の[関本大介](../Page/関本大介.md "wikilink")、[アブドーラ小林](../Page/アブドーラ小林.md "wikilink")と組み、KAORUの復帰戦のために一夜限りの復帰をした長与千種、大日本プロレスの[伊東竜二](https://ja.wikipedia.org/wiki/伊東竜二 "wikilink")、[佐々木貴](https://ja.wikipedia.org/wiki/佐々木貴 "wikilink")組を相手にハードコアマッチで復帰戦を行い、長与千種からエクスカリバーでピンフォール勝ちを収めた。以降は[尾崎魔弓](../Page/尾崎魔弓.md "wikilink")が主宰する『[OZアカデミー](../Page/OZアカデミー.md "wikilink")』を中心に活動している。
+  - 4月の[長与千種](../Page/長与千種.md "wikilink")プロデュース興行Marvelous Night Miracle Game KAORU復帰戦にて、[大日本プロレス](../Page/大日本プロレス.md "wikilink")の[関本大介](../Page/関本大介.md "wikilink")、[アブドーラ小林](../Page/アブドーラ小林.md "wikilink")と組み、KAORUの復帰戦のために一夜限りの復帰をした長与千種、大日本プロレスの[伊東竜二](../Page/伊東竜二.md "wikilink")、[佐々木貴](../Page/佐々木貴.md "wikilink")組を相手にハードコアマッチで復帰戦を行い、長与千種からエクスカリバーでピンフォール勝ちを収めた。以降は[尾崎魔弓](../Page/尾崎魔弓.md "wikilink")が主宰する『[OZアカデミー](../Page/OZアカデミー.md "wikilink")』を中心に活動している。
 
 <!-- end list -->
 
@@ -141,7 +141,7 @@
 
   - 3月頃よりOZアカデミーにて[尾崎軍の一員として](https://ja.wikipedia.org/wiki/OZアカデミー#正危軍 "wikilink")、活動している。
   - 8月のOZアカデミー後楽園大会で尾崎軍およびD-FIXとして、遺恨のあったダイナマイト・関西、[カルロス天野](../Page/カルロス天野.md "wikilink")組と[OZアカデミー認定タッグ王座](https://ja.wikipedia.org/wiki/OZアカデミー認定タッグ王座 "wikilink")を賭けて、カベジェラ・コントラ・カベジェラ3本勝負でKAORU、尾崎が立て続けにダイマナイト・関西からピンフォール勝ちを収め、ダイナマイト・関西を坊主にすると共に、第2代OZアカデミー認定タッグ王者となった。
-  - 12月[デビル雅美](../Page/デビル雅美.md "wikilink")引退興行にて、スーパーヒール・デビル雅美、[ダンプ松本](https://ja.wikipedia.org/wiki/ダンプ松本 "wikilink")とタッグを組み、[堀田祐美子](../Page/堀田祐美子.md "wikilink")、[里村明衣子](../Page/里村明衣子.md "wikilink")と久々に復帰した[長与千種](../Page/長与千種.md "wikilink")と6人タッグマッチで対戦し、デビルが長与から勝利を収めた。
+  - 12月[デビル雅美](../Page/デビル雅美.md "wikilink")引退興行にて、スーパーヒール・デビル雅美、[ダンプ松本](../Page/ダンプ松本.md "wikilink")とタッグを組み、[堀田祐美子](../Page/堀田祐美子.md "wikilink")、[里村明衣子](../Page/里村明衣子.md "wikilink")と久々に復帰した[長与千種](../Page/長与千種.md "wikilink")と6人タッグマッチで対戦し、デビルが長与から勝利を収めた。
 
 <!-- end list -->
 
@@ -170,7 +170,7 @@
 
 <!-- end list -->
 
-  - 4月10日、新宿FACEでのOZアカデミー認定無差別級選手権試合（3WAY戦）で右脚の[かかと](../Page/かかと.md "wikilink")を骨折。[手術](https://ja.wikipedia.org/wiki/手術 "wikilink")を受け長期欠場となる。後日、[術後感染で](../Page/感染症.md "wikilink")[骨髄炎](../Page/骨髄炎.md "wikilink")を発症した事を明らかにする。当初この大会において同年限りでの引退を発表する予定だった\[1\]。
+  - 4月10日、新宿FACEでのOZアカデミー認定無差別級選手権試合（3WAY戦）で右脚の[かかと](../Page/かかと.md "wikilink")を骨折。[手術](../Page/手術.md "wikilink")を受け長期欠場となる。後日、[術後感染で](../Page/感染症.md "wikilink")[骨髄炎](../Page/骨髄炎.md "wikilink")を発症した事を明らかにする。当初この大会において同年限りでの引退を発表する予定だった\[1\]。
 
 <!-- end list -->
 
@@ -187,7 +187,7 @@
 <!-- end list -->
 
   - 1月3日、「That's 女子プロレス」の対戦カードが発表され、KAORUは第一試合とメインイベントの2試合に出場が決定\[3\]。
-  - 3月20日、「That's 女子プロレス」第一試合で、ダンプ松本、[世IV虎](https://ja.wikipedia.org/wiki/世IV虎 "wikilink")と組み、長与、[花月](https://ja.wikipedia.org/wiki/石野由加莉 "wikilink")、[彩羽匠](https://ja.wikipedia.org/wiki/彩羽匠 "wikilink")と対戦した後、メインで[井上貴子](../Page/井上貴子_\(プロレスラー\).md "wikilink")、[浜田文子](https://ja.wikipedia.org/wiki/浜田文子 "wikilink")と組み、[神取忍](https://ja.wikipedia.org/wiki/神取忍 "wikilink")、[里村明衣子](../Page/里村明衣子.md "wikilink")、一日限定復帰の植松寿絵と対戦し、ムーンサルトプレスを植松に決めて勝利。
+  - 3月20日、「That's 女子プロレス」第一試合で、ダンプ松本、[世IV虎](https://ja.wikipedia.org/wiki/世IV虎 "wikilink")と組み、長与、[花月](https://ja.wikipedia.org/wiki/石野由加莉 "wikilink")、[彩羽匠](https://ja.wikipedia.org/wiki/彩羽匠 "wikilink")と対戦した後、メインで[井上貴子](../Page/井上貴子_\(プロレスラー\).md "wikilink")、[浜田文子](../Page/浜田文子.md "wikilink")と組み、[神取忍](../Page/神取忍.md "wikilink")、[里村明衣子](../Page/里村明衣子.md "wikilink")、一日限定復帰の植松寿絵と対戦し、ムーンサルトプレスを植松に決めて勝利。
   - 4月6日、プロレスリングWAVEに参戦。[桜花由美](../Page/桜花由美.md "wikilink")と組み、渋谷シュウ、[木村響子](../Page/木村響子.md "wikilink")と対戦。垂直落下ブレーンバスター、天板攻撃、ムーンサルトプレスを繰り出して勝利。
   - 4月25日、[WNC後楽園大会で](https://ja.wikipedia.org/wiki/Wrestling_New_Classic "wikilink")[クレイジー・マリーと組み](https://ja.wikipedia.org/wiki/クレイジー・マリー・ドブソン "wikilink")、朱里&木村響子と対戦、マリーが朱里のラ・マヒストラルに敗れる。
   - 4月29日、[ワールド女子プロレス・ディアナ](https://ja.wikipedia.org/wiki/ワールド女子プロレス・ディアナ "wikilink")[川崎市体育館](../Page/川崎市体育館.md "wikilink")大会で、全試合終了後に突然乱入し、[井上京子が率いるディアナ正規軍と](../Page/井上京子_\(プロレスラー\).md "wikilink")[堀田祐美子](../Page/堀田祐美子.md "wikilink")率いる暴走軍と乱闘を繰り広げ、[下田美馬](../Page/下田美馬.md "wikilink")と[井上貴子を引き連れ退場した](../Page/井上貴子_\(プロレスラー\).md "wikilink")。
@@ -212,10 +212,10 @@
   - [ハードコアセントーン](../Page/セントーン.md "wikilink")
     相手を机の上に寝かせた状態でのセントーン。コーナー上から場外の相手に仕掛ける場合もある。
 
-  - [ムーンサルトプレス](https://ja.wikipedia.org/wiki/ムーンサルトプレス "wikilink")
+  - [ムーンサルトプレス](../Page/ムーンサルトプレス.md "wikilink")
     他の選手のムーンサルトプレスよりも滞空時間が長く、女子プロレス随一の華麗さを誇る。
 
-  - [ハードコアムーンサルト](https://ja.wikipedia.org/wiki/ムーンサルトプレス "wikilink")
+  - [ハードコアムーンサルト](../Page/ムーンサルトプレス.md "wikilink")
     机の破片を胸に抱いた状態で繰り出すムーンサルト。使用する机の破片はハードコア・セントーンで真っ二つに折れた机の破片である場合が多い。
 
   - [ヴァルキリースプラッシュ](https://ja.wikipedia.org/wiki/ムーンサルトプレス#ヴァルキリー・スプラッシュ "wikilink")
@@ -227,19 +227,19 @@
   - [619](https://ja.wikipedia.org/wiki/レイ・ミステリオ・ジュニア#得意技 "wikilink")
     [WWE](../Page/WWE.md "wikilink")のレスラー、[レイ・ミステリオの得意技](../Page/レイ・ミステリオ・ジュニア.md "wikilink")。D-FIX結成後から多用するようになる。
 
-  - [毒霧](https://ja.wikipedia.org/wiki/毒霧 "wikilink")
+  - [毒霧](../Page/毒霧.md "wikilink")
 
 ## タイトル歴
 
-  - [全日本女子プロレス](https://ja.wikipedia.org/wiki/全日本女子プロレス "wikilink")
+  - [全日本女子プロレス](../Page/全日本女子プロレス.md "wikilink")
 
 <!-- end list -->
 
-  - 第6代、第9代[全日本タッグ王座](https://ja.wikipedia.org/wiki/全日本タッグ王座 "wikilink")（パートナーは[高橋美華](https://ja.wikipedia.org/wiki/高橋美華 "wikilink")×2）
+  - 第6代、第9代[全日本タッグ王座](https://ja.wikipedia.org/wiki/全日本タッグ王座 "wikilink")（パートナーは[高橋美華](../Page/高橋美華.md "wikilink")×2）
 
 <!-- end list -->
 
-  - [ユニバーサル・プロレスリング](https://ja.wikipedia.org/wiki/ユニバーサル・プロレスリング "wikilink")
+  - [ユニバーサル・プロレスリング](../Page/ユニバーサル・プロレスリング.md "wikilink")
 
 <!-- end list -->
 
@@ -247,15 +247,15 @@
 
 <!-- end list -->
 
-  - [JWP女子プロレス](https://ja.wikipedia.org/wiki/JWP女子プロレス "wikilink")
+  - [JWP女子プロレス](../Page/JWP女子プロレス.md "wikilink")
 
 <!-- end list -->
 
-  - 第7代[JWP認定タッグ王座](../Page/JWP認定タッグ王座.md "wikilink")（パートナーは[福岡晶](https://ja.wikipedia.org/wiki/福岡晶 "wikilink")）
+  - 第7代[JWP認定タッグ王座](../Page/JWP認定タッグ王座.md "wikilink")（パートナーは[福岡晶](../Page/福岡晶.md "wikilink")）
 
 <!-- end list -->
 
-  - [GAEA JAPAN](https://ja.wikipedia.org/wiki/GAEA_JAPAN "wikilink")
+  - [GAEA JAPAN](../Page/GAEA_JAPAN.md "wikilink")
 
 <!-- end list -->
 
@@ -298,7 +298,7 @@
 
   - 初代 : FREE YOUR MIND（[DOUBLE](https://ja.wikipedia.org/wiki/DOUBLE_\(歌手\) "wikilink")）
   - 2代目 : If You Were a Woman（[ボニー・タイラー](../Page/ボニー・タイラー.md "wikilink")）
-  - 3代目 : My Kinda Girl（[ベイビーフェイス](https://ja.wikipedia.org/wiki/ベイビーフェイス_\(ミュージシャン\) "wikilink")）
+  - 3代目 : My Kinda Girl（[ベイビーフェイス](../Page/ベイビーフェイス_\(ミュージシャン\).md "wikilink")）
   - 4代目 : 黄金魂（[湘南乃風](../Page/湘南乃風.md "wikilink")）
   - 5代目 : Kingston（[ショーン・キングストン](https://ja.wikipedia.org/wiki/ショーン・キングストン "wikilink")）
 

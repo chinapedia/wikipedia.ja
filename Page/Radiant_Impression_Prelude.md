@@ -9,7 +9,7 @@
 
 彼が中心となり、パリオ、[癸乙夜](https://ja.wikipedia.org/wiki/癸乙夜 "wikilink")と共に映像制作ブランド「[Mju:z](../Page/Mju:z.md "wikilink")」を新たに立ち上げ活動の場を移したため、ブランドとしては活動を停止している。
 
-ブランド名は[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")の『[RADIANT SILVERGUN](https://ja.wikipedia.org/wiki/レイディアントシルバーガン "wikilink")』に由来する。
+ブランド名は[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")の『[RADIANT SILVERGUN](../Page/レイディアントシルバーガン.md "wikilink")』に由来する。
 
 ## コンシューマー作品一覧
 
@@ -34,7 +34,7 @@
   - CDアルバム「[WinterMIX2](https://ja.wikipedia.org/wiki/WinterMIX2 "wikilink")」 デモ
   - CDアルバム「[WinterMIX3](https://ja.wikipedia.org/wiki/WinterMIX3 "wikilink")」 デモ
   - CDアルバム「[SummerMIX3](https://ja.wikipedia.org/wiki/SummerMIX3 "wikilink")」 デモ
-  - パチスロ「[快盗天使ツインエンジェル](https://ja.wikipedia.org/wiki/快盗天使ツインエンジェル "wikilink")」 大当たり時ムービー
+  - パチスロ「[快盗天使ツインエンジェル](../Page/快盗天使ツインエンジェル.md "wikilink")」 大当たり時ムービー
 
 ## アダルトゲーム作品一覧
 
@@ -49,18 +49,18 @@
   - [女将・美紗緒 「叔母さん、今夜も牝になるのね…」](https://ja.wikipedia.org/wiki/女将・美紗緒_「叔母さん、今夜も牝になるのね…」 "wikilink") デモ
   - [こいちゅ\! 〜恋に恋するかたおもい〜](https://ja.wikipedia.org/wiki/こいちゅ!_〜恋に恋するかたおもい〜 "wikilink") OP
   - [この青空に約束を―](../Page/この青空に約束を―.md "wikilink") OP
-  - [こんな娘がいたら僕はもう…\!\!](https://ja.wikipedia.org/wiki/こんな娘がいたら僕はもう…!! "wikilink") OP
+  - [こんな娘がいたら僕はもう…\!\!](../Page/こんな娘がいたら僕はもう…!!.md "wikilink") OP
   - [Chanter -キミの歌がとどいたら-](https://ja.wikipedia.org/wiki/Chanter_-キミの歌がとどいたら- "wikilink") 夏コミ用デモ
   - [終末少女幻想アリスマチック](../Page/終末少女幻想アリスマチック.md "wikilink") OP・CM
   - [聖騎士産卵記](https://ja.wikipedia.org/wiki/聖騎士産卵記 "wikilink") デモ
   - [雪影 -setsuei-](https://ja.wikipedia.org/wiki/雪影_-setsuei- "wikilink") OP
-  - [その横顔を見つめてしまう〜A Profile 完全版〜](https://ja.wikipedia.org/wiki/その横顔を見つめてしまう〜A_Profile_完全版〜 "wikilink")
+  - [その横顔を見つめてしまう〜A Profile 完全版〜](../Page/その横顔を見つめてしまう〜A_Profile_完全版〜.md "wikilink")
   - [ちょこっと☆ばんぱいあ\!](https://ja.wikipedia.org/wiki/ちょこっと☆ばんぱいあ! "wikilink") OP
   - [はぴくり -HAPPY CHRISTMAS-](https://ja.wikipedia.org/wiki/はぴくり_-HAPPY_CHRISTMAS- "wikilink") OP
   - [BALDR BULLET EQUILIBRIUM](https://ja.wikipedia.org/wiki/BALDR_BULLET "wikilink") OP
   - [プリンセスうぃっちぃず EXCELLENT](https://ja.wikipedia.org/wiki/プリンセスうぃっちぃず_EXCELLENT "wikilink") OP
   - [マスカレード 学園SO/DO/MU](https://ja.wikipedia.org/wiki/マスカレード_学園SO/DO/MU "wikilink") OP
-  - [メンアットワーク！4](https://ja.wikipedia.org/wiki/メンアットワーク! "wikilink") OP・デモ
+  - [メンアットワーク！4](../Page/メンアットワーク!.md "wikilink") OP・デモ
   - [連鎖病棟](https://ja.wikipedia.org/wiki/連鎖病棟 "wikilink") OP
   - [LOST CHILD](../Page/LOST_CHILD.md "wikilink") [C64用デモ](../Page/コミックマーケット.md "wikilink")
   - [ゆ・め・く・み\! 〜訳あり物件、妖精つき〜](https://ja.wikipedia.org/wiki/ゆ・め・く・み!_〜訳あり物件、妖精つき〜 "wikilink") OP
@@ -77,7 +77,7 @@
   - [その横顔を見つめてしまう〜A Profile 完全版〜A Profile](https://ja.wikipedia.org/wiki/その横顔を見つめてしまう〜A_Profile_完全版〜A_Profile "wikilink") OP
   - [魂響〜たまゆら〜](../Page/魂響〜たまゆら〜.md "wikilink")OP
   - [DUEL SAVIOR](https://ja.wikipedia.org/wiki/DUEL_SAVIOR#DUEL_SAVIOR_JUSTICE "wikilink") OP
-  - [智代アフター 〜It's a Wonderful Life〜](https://ja.wikipedia.org/wiki/智代アフター_〜It's_a_Wonderful_Life〜 "wikilink") OP
+  - [智代アフター 〜It's a Wonderful Life〜](../Page/智代アフター_〜It's_a_Wonderful_Life〜.md "wikilink") OP
   - [Nursery Rhyme -ナーサリィ☆ライム-](../Page/Nursery_Rhyme_-ナーサリィ☆ライム-.md "wikilink") OP
   - [ないしょのティンティンたいむ](https://ja.wikipedia.org/wiki/ないしょのティンティンたいむ "wikilink") OP
   - [薺ヶ好 〜なずなと若葉の物語〜](https://ja.wikipedia.org/wiki/薺ヶ好_〜なずなと若葉の物語〜 "wikilink") デモ
@@ -96,13 +96,13 @@
   - [あねいも 〜アイとHのステップアップ〜](https://ja.wikipedia.org/wiki/あねいも_〜アイとHのステップアップ〜 "wikilink") OP
   - [ABANDONER](https://ja.wikipedia.org/wiki/ABANDONER "wikilink") OP
   - [IZUMO2](../Page/IZUMO_\(ゲーム\).md "wikilink") OP
-  - [オーガストファンBOX](https://ja.wikipedia.org/wiki/オーガストファンBOX "wikilink") OP
+  - [オーガストファンBOX](../Page/オーガストファンBOX.md "wikilink") OP
   - [奥さまは巫女?R](https://ja.wikipedia.org/wiki/奥さまは巫女?R "wikilink") OP
   - [風の継承者](https://ja.wikipedia.org/wiki/風の継承者 "wikilink") OP
   - [カラフルハート 〜12コのきゅるるん♪〜](../Page/カラフルハート_〜12コのきゅるるん♪〜.md "wikilink") OP
   - [こんねこ](../Page/こんねこ.md "wikilink") OP
   - [3-days Marriage 〜光源氏の恋人〜](https://ja.wikipedia.org/wiki/3-days_Marriage_〜光源氏の恋人〜 "wikilink") OP
-  - [DUEL SAVIOR](https://ja.wikipedia.org/wiki/DUEL_SAVIOR "wikilink") OP
+  - [DUEL SAVIOR](../Page/DUEL_SAVIOR.md "wikilink") OP
   - [24時、君のハートは盗まれる 〜怪盗ジェイド〜](https://ja.wikipedia.org/wiki/24時、君のハートは盗まれる_〜怪盗ジェイド〜 "wikilink") OP
   - [はめ☆ドリ](https://ja.wikipedia.org/wiki/はめ☆ドリ "wikilink") OP
   - [美喰 -びしょく-](https://ja.wikipedia.org/wiki/美喰_-びしょく- "wikilink") OP
@@ -123,9 +123,9 @@
   - [汚された夏 〜10本の手で嬲られた少女〜](https://ja.wikipedia.org/wiki/汚された夏_〜10本の手で嬲られた少女〜 "wikilink") OP
   - [黒の図書館](https://ja.wikipedia.org/wiki/黒の図書館 "wikilink") OP
   - [GONNA BE??](https://ja.wikipedia.org/wiki/GONNA_BE?? "wikilink") 体験版用CM
-  - [3LDK♥](https://ja.wikipedia.org/wiki/3LDK_\(ゲーム\) "wikilink") OP
+  - [3LDK♥](../Page/3LDK_\(ゲーム\).md "wikilink") OP
   - [ショコラ 〜maid cafe "curio"〜](../Page/ショコラ_〜maid_cafe_"curio"〜.md "wikilink") OP・CM
-  - [月は東に日は西に 〜Operation Sanctuary〜](https://ja.wikipedia.org/wiki/月は東に日は西に_〜Operation_Sanctuary〜 "wikilink") OP
+  - [月は東に日は西に 〜Operation Sanctuary〜](../Page/月は東に日は西に_〜Operation_Sanctuary〜.md "wikilink") OP
   - [ドーターメーカー](../Page/ドーターメーカー.md "wikilink") OP
   - [ぱすてるキッチン〜ブルーベルへようこそっ〜](https://ja.wikipedia.org/wiki/ぱすてるキッチン〜ブルーベルへようこそっ〜 "wikilink") OP
   - [パティシエなにゃんこ](../Page/パティシエなにゃんこ.md "wikilink") OP
@@ -160,7 +160,7 @@
 
 ### 発売中止
 
-  - [つ・ぼ・み](https://ja.wikipedia.org/wiki/つ・ぼ・み "wikilink") CM （ただし、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に当初のブランドとは別のブランドで発売された。）
+  - [つ・ぼ・み](https://ja.wikipedia.org/wiki/つ・ぼ・み "wikilink") CM （ただし、[2006年](../Page/2006年.md "wikilink")に当初のブランドとは別のブランドで発売された。）
 
 ## 関連項目
 

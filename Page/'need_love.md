@@ -1,7 +1,7 @@
 > この記事は[\'need love](https://ja.wikipedia.org/wiki/\'need_love)から翻訳されています。
 
 
-**'need love**（ニード・ラブ）は、[DEEN](https://ja.wikipedia.org/wiki/DEEN "wikilink")の通算5作目のアルバム。
+**'need love**（ニード・ラブ）は、[DEEN](../Page/DEEN.md "wikilink")の通算5作目のアルバム。
 
 ## 解説
 

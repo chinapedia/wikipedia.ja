@@ -13,7 +13,7 @@
 
 ## 登場人物
 
-  - [ドラえもん](https://ja.wikipedia.org/wiki/ドラえもん_\(キャラクター\) "wikilink")（声：[大山のぶ代](../Page/大山のぶ代.md "wikilink")）
+  - [ドラえもん](../Page/ドラえもん_\(キャラクター\).md "wikilink")（声：[大山のぶ代](../Page/大山のぶ代.md "wikilink")）
     HPは8。スピードは普通。ジャンプ力は普通。泳ぐスピードが速い。
   - [のび太](../Page/野比のび太.md "wikilink")（声：[小原乃梨子](../Page/小原乃梨子.md "wikilink")）
     HPは6。スピードは普通。ジャンプ力は普通。

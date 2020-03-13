@@ -1,7 +1,7 @@
 > この記事は[Mermaid](https://ja.wikipedia.org/wiki/Mermaid)から翻訳されています。
 
 
-「**〜Mermaid〜**」（マーメイド）は、[島谷ひとみ](https://ja.wikipedia.org/wiki/島谷ひとみ "wikilink")の18枚目のシングル。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[6月15日](../Page/6月15日.md "wikilink")に[avex traxよりリリースされた](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+「**〜Mermaid〜**」（マーメイド）は、[島谷ひとみ](https://ja.wikipedia.org/wiki/島谷ひとみ "wikilink")の18枚目のシングル。[2005年](../Page/2005年.md "wikilink")[6月15日](../Page/6月15日.md "wikilink")に[avex traxよりリリースされた](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 解説
 
@@ -14,7 +14,7 @@
 1.  **〜Mermaid〜**
       -
         作詞:[六ツ見純代](https://ja.wikipedia.org/wiki/六ツ見純代 "wikilink")/作曲･編曲:[中野雄太](../Page/中野雄太.md "wikilink")
-        [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[@サプリッ\!](https://ja.wikipedia.org/wiki/@サプリッ! "wikilink")』エンディングテーマ
+        [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[@サプリッ\!](../Page/@サプリッ!.md "wikilink")』エンディングテーマ
 2.  **風の降る空**　
       -
         作詞:[陽花](https://ja.wikipedia.org/wiki/坂本麗衣 "wikilink")/作曲･編曲:中野雄太

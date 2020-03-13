@@ -1,11 +1,11 @@
 > この記事は[ \(HIGH and MIGHTY COLOR\)](https://ja.wikipedia.org/wiki/_\(HIGH_and_MIGHTY_COLOR\))から翻訳されています。
 
 
-「**一輪の花**」（いちりんのはな）は、[HIGH and MIGHTY COLORの楽曲で](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")、6枚目の[シングル](../Page/シングル.md "wikilink")。 [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[1月11日](../Page/1月11日.md "wikilink")に[エスエムイーレコーズ](https://ja.wikipedia.org/wiki/エスエムイーレコーズ "wikilink")から発売された。
+「**一輪の花**」（いちりんのはな）は、[HIGH and MIGHTY COLORの楽曲で](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")、6枚目の[シングル](../Page/シングル.md "wikilink")。 [2006年](../Page/2006年.md "wikilink")[1月11日](../Page/1月11日.md "wikilink")に[エスエムイーレコーズ](../Page/エスエムイーレコーズ.md "wikilink")から発売された。
 
 ## 解説
 
-「[PRIDE](../Page/PRIDE_\(HIGH_and_MIGHTY_COLORの曲\).md "wikilink")」より1年ぶりに、[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")のトップ10にランクインしたシングル。
+「[PRIDE](../Page/PRIDE_\(HIGH_and_MIGHTY_COLORの曲\).md "wikilink")」より1年ぶりに、[オリコンチャート](../Page/オリコンチャート.md "wikilink")のトップ10にランクインしたシングル。
 
 このシングルのジャケットには、タイアップ先のBLEACHに似たロゴで「HANDMC ハイカラ」と書かれている。また、**HANDMC**は**H**IGH **AND** **M**IGHTY **C**OLORの略である。「HANDMC」の略称は、「handmc.jp」として、公式サイトのURLにも用いられている。
 
@@ -18,7 +18,7 @@
 （全作詞・作曲・編曲：HIGH and MIGHTY COLOR）
 
 1.  **一輪の花** \[3:40\]
-      - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『[BLEACH](https://ja.wikipedia.org/wiki/BLEACH_\(アニメ\) "wikilink")』オープニングテーマ（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")〜[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月28日](../Page/3月28日.md "wikilink")放送分）
+      - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『[BLEACH](https://ja.wikipedia.org/wiki/BLEACH_\(アニメ\) "wikilink")』オープニングテーマ（[2005年](../Page/2005年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")〜[2006年](../Page/2006年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")放送分）
       - [PS2専用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[BLEACH 〜放たれし野望〜](../Page/BLEACH_〜放たれし野望〜.md "wikilink")』主題歌。
       - [ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")専用ゲームソフト『[BLEACH 蒼天に駆ける運命](https://ja.wikipedia.org/wiki/BLEACH_DS "wikilink")』主題歌。
     <!-- end list -->
@@ -35,11 +35,11 @@
 
 ## 収録アルバム
 
-| 曲名                                                                                  | 収録アルバム                                                                                                           | 発売日                                                                                       | 備考                                                                 |
-| ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| 一輪の花                                                                                | 『**[傲音プログレッシヴ](../Page/傲音プログレッシヴ.md "wikilink")**』                                                               | [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月5日](../Page/4月5日.md "wikilink") | 2nd[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink") |
-| 『**[10 COLOR SINGLES](https://ja.wikipedia.org/wiki/10_COLOR_SINGLES "wikilink")**』 | [2007年](../Page/2007年.md "wikilink")[12月26日](../Page/12月26日.md "wikilink")                                       | 1st[ベストアルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")                           |                                                                    |
-| 『**[BEEEEEEST](https://ja.wikipedia.org/wiki/BEEEEEEST "wikilink")**』               | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink") | 2ndベストアルバム                                                                                |                                                                    |
+| 曲名                                                                                  | 収録アルバム                                                                                                           | 発売日                                                                    | 備考                                              |
+| ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ----------------------------------------------- |
+| 一輪の花                                                                                | 『**[傲音プログレッシヴ](../Page/傲音プログレッシヴ.md "wikilink")**』                                                               | [2006年](../Page/2006年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink") | 2nd[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink") |
+| 『**[10 COLOR SINGLES](https://ja.wikipedia.org/wiki/10_COLOR_SINGLES "wikilink")**』 | [2007年](../Page/2007年.md "wikilink")[12月26日](../Page/12月26日.md "wikilink")                                       | 1st[ベストアルバム](../Page/ベスト・アルバム.md "wikilink")                           |                                                 |
+| 『**[BEEEEEEST](https://ja.wikipedia.org/wiki/BEEEEEEST "wikilink")**』               | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink") | 2ndベストアルバム                                                             |                                                 |
 
 1.  Warped Reflection
       -

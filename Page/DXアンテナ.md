@@ -5,7 +5,7 @@
 
 ## 概要
 
-[マスプロ電工](https://ja.wikipedia.org/wiki/マスプロ電工 "wikilink")・[日本アンテナ](https://ja.wikipedia.org/wiki/日本アンテナ "wikilink")・サン電子・[HYSエンジニアリングサービス](../Page/HYSエンジニアリングサービス.md "wikilink")などと共に日本のテレビアンテナメーカーの一つである。日本国内におけるテレビアンテナのシェアは業界2位。また、かつては船井電機の製品（液晶テレビ、DVDレコーダーなど）を「DX BROADTEC」ブランドで販売していた。
+[マスプロ電工](../Page/マスプロ電工.md "wikilink")・[日本アンテナ](../Page/日本アンテナ.md "wikilink")・サン電子・[HYSエンジニアリングサービス](../Page/HYSエンジニアリングサービス.md "wikilink")などと共に日本のテレビアンテナメーカーの一つである。日本国内におけるテレビアンテナのシェアは業界2位。また、かつては船井電機の製品（液晶テレビ、DVDレコーダーなど）を「DX BROADTEC」ブランドで販売していた。
 
 社名の「DX」は[アマチュア無線](https://ja.wikipedia.org/wiki/アマチュア無線 "wikilink")で遠距離通信を意味する略符号で、「遠距離から来る微弱な電波を、強力にキャッチする優れたアンテナを作っていく会社」との意味を込めている\[1\]。
 
@@ -15,7 +15,7 @@
 
 [1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")8月1日に創業（有限会社関西テレビジョン研究所\[2\]）し、[1956年](../Page/1956年.md "wikilink")9月1日に会社を設立した。
 
-[1966年](../Page/1966年.md "wikilink")1月に現社名になり、[2001年](../Page/2001年.md "wikilink")に[船井電機](https://ja.wikipedia.org/wiki/船井電機 "wikilink")の子会社となったが、[2016年](../Page/2016年.md "wikilink")11月に船井と[エレコム](../Page/エレコム.md "wikilink")との間で株式の譲渡に関する合意が締結され、翌[2017年](../Page/2017年.md "wikilink")3月よりエレコムの子会社となった。
+[1966年](../Page/1966年.md "wikilink")1月に現社名になり、[2001年](../Page/2001年.md "wikilink")に[船井電機](../Page/船井電機.md "wikilink")の子会社となったが、[2016年](../Page/2016年.md "wikilink")11月に船井と[エレコム](../Page/エレコム.md "wikilink")との間で株式の譲渡に関する合意が締結され、翌[2017年](../Page/2017年.md "wikilink")3月よりエレコムの子会社となった。
 
 本社所在地は[2019年](../Page/2019年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")に[神戸市](../Page/神戸市.md "wikilink")[兵庫区](../Page/兵庫区.md "wikilink")浜崎通2番15号から神戸市[西区室谷一丁目](../Page/西区_\(神戸市\).md "wikilink")2番2号に移転した\[3\]。
 
@@ -31,7 +31,7 @@
 ## 関連項目
 
   - [デジタルチューナー](https://ja.wikipedia.org/wiki/デジタルチューナー "wikilink")
-  - [セットトップボックス](https://ja.wikipedia.org/wiki/セットトップボックス "wikilink")
+  - [セットトップボックス](../Page/セットトップボックス.md "wikilink")
   - [ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")
   - [真正ボクシングジム](https://ja.wikipedia.org/wiki/真正ボクシングジム "wikilink")
 

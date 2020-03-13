@@ -1,7 +1,7 @@
 > この記事は[Idol Park](https://ja.wikipedia.org/wiki/Idol_Park)から翻訳されています。
 
 
-**あきと由佳のIdol Park**（あきとゆかのあいどるぱーく）は、[2004年](../Page/2004年.md "wikilink")[7月17日](../Page/7月17日.md "wikilink")から[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月19日](../Page/7月19日.md "wikilink")まで[エンタ\!371で放送されていた](../Page/エンタ!959.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。「Idol Park」の前番組である。
+**あきと由佳のIdol Park**（あきとゆかのあいどるぱーく）は、[2004年](../Page/2004年.md "wikilink")[7月17日](../Page/7月17日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[7月19日](../Page/7月19日.md "wikilink")まで[エンタ\!371で放送されていた](../Page/エンタ!959.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。「Idol Park」の前番組である。
 
 ## 出演者
 
@@ -18,8 +18,8 @@
 
 <!-- end list -->
 
-  - [白鳥百合子](https://ja.wikipedia.org/wiki/白鳥百合子 "wikilink")
-  - [玲奈](https://ja.wikipedia.org/wiki/玲奈 "wikilink")
+  - [白鳥百合子](../Page/白鳥百合子.md "wikilink")
+  - [玲奈](../Page/玲奈.md "wikilink")
 
 <!-- end list -->
 
@@ -28,10 +28,10 @@
 <!-- end list -->
 
 1.  [花井美里](https://ja.wikipedia.org/wiki/花井美里 "wikilink")（2004年7月17日）
-2.  [川村ゆきえ](https://ja.wikipedia.org/wiki/川村ゆきえ "wikilink")（2004年8月2日）
+2.  [川村ゆきえ](../Page/川村ゆきえ.md "wikilink")（2004年8月2日）
 3.  [小明](../Page/小明.md "wikilink")（2004年9月1日）
 4.  [大久保麻梨子](https://ja.wikipedia.org/wiki/大久保麻理子 "wikilink")（2004年9月16日）
-5.  [松本まりか](https://ja.wikipedia.org/wiki/松本まりか "wikilink")（2004年10月4日）
+5.  [松本まりか](../Page/松本まりか.md "wikilink")（2004年10月4日）
 6.  [山崎真実](https://ja.wikipedia.org/wiki/山崎真実 "wikilink")（2004年10月10日）
 7.  [二宮優](https://ja.wikipedia.org/wiki/二宮優 "wikilink")（2004年11月3日）
 8.  [水谷さくら](../Page/水谷さくら.md "wikilink")（2004年11月17日）
@@ -46,16 +46,16 @@
 17. [伊藤かな](../Page/伊藤かな.md "wikilink")（2005年8月17日）
 18. [愛川ゆず季](https://ja.wikipedia.org/wiki/愛川ゆず季 "wikilink")（2005年9月21日）
 19. [鈴木あきえ](../Page/鈴木あきえ.md "wikilink")（2005年10月19日）
-20. [神楽坂恵](https://ja.wikipedia.org/wiki/神楽坂恵 "wikilink")（2005年11月16日）
+20. [神楽坂恵](../Page/神楽坂恵.md "wikilink")（2005年11月16日）
 21. [二宮歩美](../Page/二宮歩美.md "wikilink")（2005年12月21日）
 22. [後藤ゆきこ](../Page/後藤ゆきこ.md "wikilink")、[佐野夏芽](../Page/NATSUME.md "wikilink")（2時間SP：2006年1月1日）
-23. [石井めぐる](https://ja.wikipedia.org/wiki/石井めぐる "wikilink")（2006年2月22日）
-24. [島本里沙](https://ja.wikipedia.org/wiki/島本里沙 "wikilink")（2006年3月4日）
+23. [石井めぐる](../Page/石井めぐる.md "wikilink")（2006年2月22日）
+24. [島本里沙](../Page/島本里沙.md "wikilink")（2006年3月4日）
 25. [鈴木繭菓](../Page/鈴木繭菓.md "wikilink")（2006年4月19日）
 26. [石坂ちなみ](../Page/石坂ちなみ.md "wikilink")（2006年5月17日）
 27. [立花彩野](../Page/立花彩野.md "wikilink")（2006年6月21日）
 28. [相澤仁美](https://ja.wikipedia.org/wiki/相澤仁美 "wikilink")（2006年7月19日）
-29. [小林恵美](https://ja.wikipedia.org/wiki/小林恵美 "wikilink")（2006年8月2日）
+29. [小林恵美](../Page/小林恵美.md "wikilink")（2006年8月2日）
 30. [百瀬実咲](../Page/百香.md "wikilink")（2006年9月20日）
 31. [原幹恵](https://ja.wikipedia.org/wiki/原幹恵 "wikilink")（2006年10月18日）
 32. [松山まみ](../Page/松山まみ.md "wikilink")（2006年11月22日）

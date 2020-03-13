@@ -1,13 +1,13 @@
 > この記事は[Ready Go! \(WaT\)](https://ja.wikipedia.org/wiki/Ready_Go!_\(WaT\))から翻訳されています。
 
 
-「**Ready Go\!**」（レディー・ゴー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽デュオ](https://ja.wikipedia.org/wiki/二人組#音楽 "wikilink")・[WaT](https://ja.wikipedia.org/wiki/WaT "wikilink")のメジャー4作目（通算5作目）の[シングル](../Page/シングル.md "wikilink")。
+「**Ready Go\!**」（レディー・ゴー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽デュオ](https://ja.wikipedia.org/wiki/二人組#音楽 "wikilink")・[WaT](../Page/WaT.md "wikilink")のメジャー4作目（通算5作目）の[シングル](../Page/シングル.md "wikilink")。
 
 ## 概要
 
-「2006[世界バレー](https://ja.wikipedia.org/wiki/世界バレー "wikilink")」のオフィシャルテーマソング。[WaT×ハロー\!プロジェクト](../Page/WaT×ハロー!プロジェクト.md "wikilink")の[WaT](https://ja.wikipedia.org/wiki/WaT "wikilink")版。WaTとして大会のオフィシャルサポーターを務め、試合前のパフォーマンスでも「振りつき」で披露した。
+「2006[世界バレー](https://ja.wikipedia.org/wiki/世界バレー "wikilink")」のオフィシャルテーマソング。[WaT×ハロー\!プロジェクト](../Page/WaT×ハロー!プロジェクト.md "wikilink")の[WaT](../Page/WaT.md "wikilink")版。WaTとして大会のオフィシャルサポーターを務め、試合前のパフォーマンスでも「振りつき」で披露した。
 
-自身初の[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")初登場1位を獲得した。
+自身初の[オリコンチャート](../Page/オリコンチャート.md "wikilink")初登場1位を獲得した。
 
 2007年にはポップヒットマーチとして[運動会](../Page/運動会.md "wikilink")バージョンが収録されている。
 
@@ -30,10 +30,10 @@
 
 ## 参加ミュージシャン
 
-  - **[WaT](https://ja.wikipedia.org/wiki/WaT "wikilink")**：[Chorus](../Page/コーラス_\(ポピュラー音楽\).md "wikilink") (\#1,2)
-      - [ウエンツ瑛士](https://ja.wikipedia.org/wiki/ウエンツ瑛士 "wikilink")：[Vocal](https://ja.wikipedia.org/wiki/ボーカル "wikilink") (\#1,2)
-      - [小池徹平](https://ja.wikipedia.org/wiki/小池徹平 "wikilink")：Vocal (\#1,2)
-  - [華原大輔](https://ja.wikipedia.org/wiki/華原大輔 "wikilink")：[Bass](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink") & [Programming](../Page/デスクトップミュージック.md "wikilink") (\#1,3)
+  - **[WaT](../Page/WaT.md "wikilink")**：[Chorus](../Page/コーラス_\(ポピュラー音楽\).md "wikilink") (\#1,2)
+      - [ウエンツ瑛士](../Page/ウエンツ瑛士.md "wikilink")：[Vocal](https://ja.wikipedia.org/wiki/ボーカル "wikilink") (\#1,2)
+      - [小池徹平](../Page/小池徹平.md "wikilink")：Vocal (\#1,2)
+  - [華原大輔](https://ja.wikipedia.org/wiki/華原大輔 "wikilink")：[Bass](../Page/ベース_\(弦楽器\).md "wikilink") & [Programming](../Page/デスクトップミュージック.md "wikilink") (\#1,3)
   - [田代衛](https://ja.wikipedia.org/wiki/田代衛 "wikilink")：[Electric Guitar](../Page/エレクトリック・ギター.md "wikilink") & [Acoustic Guitar](../Page/アコースティック・ギター.md "wikilink") (\#1,3)
   - [鈴木正則](https://ja.wikipedia.org/wiki/鈴木正則 "wikilink")：[Trumpet](../Page/トランペット.md "wikilink") (\#1,3)
   - [佐野聡](https://ja.wikipedia.org/wiki/佐野聡 "wikilink")：[Trombone](../Page/トロンボーン.md "wikilink") (\#1,3)
@@ -42,7 +42,7 @@
 
 ## タイアップ
 
-  - [TBS系列](../Page/TBS系列.md "wikilink")『[2006年バレーボール男子世界選手権](https://ja.wikipedia.org/wiki/2006年バレーボール男子世界選手権 "wikilink")』[テーマソング](https://ja.wikipedia.org/wiki/主題歌 "wikilink") (\#1)
+  - [TBS系列](../Page/TBS系列.md "wikilink")『[2006年バレーボール男子世界選手権](https://ja.wikipedia.org/wiki/2006年バレーボール男子世界選手権 "wikilink")』[テーマソング](../Page/主題歌.md "wikilink") (\#1)
 
 ## 収録アルバム
 

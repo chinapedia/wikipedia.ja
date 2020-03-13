@@ -1,13 +1,13 @@
 > この記事は[ROSSO E AZZURRO](https://ja.wikipedia.org/wiki/ROSSO_E_AZZURRO)から翻訳されています。
 
 
-『**ROSSO E AZZURRO**』（ロッソ・エ・アズーロ）は、[堂本剛](../Page/堂本剛.md "wikilink")の1枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。[2002年](../Page/2002年.md "wikilink")[8月7日](../Page/8月7日.md "wikilink")に[ジャニーズ・エンタテイメント](https://ja.wikipedia.org/wiki/ジャニーズ・エンタテイメント "wikilink")から発売された。 __TOC__
+『**ROSSO E AZZURRO**』（ロッソ・エ・アズーロ）は、[堂本剛](../Page/堂本剛.md "wikilink")の1枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[8月7日](../Page/8月7日.md "wikilink")に[ジャニーズ・エンタテイメント](../Page/ジャニーズ・エンタテイメント.md "wikilink")から発売された。 __TOC__
 
 ## 解説
 
 これまで[KinKi Kids名義での音楽活動内で](../Page/KinKi_Kids.md "wikilink")、自作曲が製作されてきたが、その中で生まれた音楽に向き合う姿勢や、世界観を形にしたアルバムが本作である。本作は初回盤のボーナストラックを除き、全曲自身で作詞・作曲を担当している。
 
-タイトルの『ROSSO E AZZURRO』は、[イタリア語](../Page/イタリア語.md "wikilink")で“[赤](../Page/赤.md "wikilink")と[青](../Page/青.md "wikilink")”の意。タイトル通り、ジャケットのタイトル表記は『ROSSO』を赤、『AZZURRO』を青で表記している。先行シングルとなった「[街／溺愛ロジック](https://ja.wikipedia.org/wiki/街/溺愛ロジック "wikilink")」から続き、[オリコンアルバムチャートで初登場](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位を記録した。
+タイトルの『ROSSO E AZZURRO』は、[イタリア語](../Page/イタリア語.md "wikilink")で“[赤](../Page/赤.md "wikilink")と[青](../Page/青.md "wikilink")”の意。タイトル通り、ジャケットのタイトル表記は『ROSSO』を赤、『AZZURRO』を青で表記している。先行シングルとなった「[街／溺愛ロジック](https://ja.wikipedia.org/wiki/街/溺愛ロジック "wikilink")」から続き、[オリコンアルバムチャートで初登場](../Page/オリコンチャート.md "wikilink")1位を記録した。
 
 初回盤は本人直筆イラストのペットフィルムを[CDジャケットサイズで封入](../Page/コンパクトディスク.md "wikilink")。また、ボーナストラックとして[前年のKinKi](../Page/2001年.md "wikilink") Kids13枚目のシングル「[Hey\! みんな元気かい?](../Page/Hey!_みんな元気かい?.md "wikilink")」を追加収録している。こちらはもちろん剛のソロバージョンによる別テイクである。通常盤はジャケット違いだが、ボーナストラックを除いた以外、内容に相違はない。
 
@@ -20,7 +20,7 @@
 ## 収録曲
 
 1.  **さよならアンジェリーナ**
-    (作詞・作曲:[堂本剛](../Page/堂本剛.md "wikilink")　編曲:[Kohei Dojima](https://ja.wikipedia.org/wiki/堂島孝平 "wikilink")×GO-GO KING RECORDERS)
+    (作詞・作曲:[堂本剛](../Page/堂本剛.md "wikilink")　編曲:[Kohei Dojima](../Page/堂島孝平.md "wikilink")×GO-GO KING RECORDERS)
 2.  **Purity**
     (作詞・作曲:堂本剛　編曲:知野芳彦)
 3.  **GIRASOLE**
@@ -42,7 +42,7 @@
 8.  **Panic Disorder**
     (作詞・作曲:堂本剛　編曲:知野芳彦)
       -
-        連載していた[Myojo](https://ja.wikipedia.org/wiki/Myojo "wikilink")のコラム内でも告白している、自分の発症した[パニック障害](../Page/パニック障害.md "wikilink")(PD)について歌った曲。タイトルもそのまま、パニック障害の英名である。
+        連載していた[Myojo](../Page/Myojo.md "wikilink")のコラム内でも告白している、自分の発症した[パニック障害](../Page/パニック障害.md "wikilink")(PD)について歌った曲。タイトルもそのまま、パニック障害の英名である。
 9.  **[溺愛ロジック (New Mix)](https://ja.wikipedia.org/wiki/街/溺愛ロジック "wikilink")**
     (作詞・作曲:堂本剛　編曲:[白井良明](https://ja.wikipedia.org/wiki/白井良明 "wikilink"))
       -

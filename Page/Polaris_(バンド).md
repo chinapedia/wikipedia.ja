@@ -3,7 +3,7 @@
 
 **Polaris**（ポラリス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ポップ・バンドである](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")。
 
-ベトナム人アイドル「[POLARIS★ポラリス](https://ja.wikipedia.org/wiki/POLARIS★ポラリス "wikilink")」はこちら参照。
+ベトナム人アイドル「[POLARIS★ポラリス](../Page/POLARIS★ポラリス.md "wikilink")」はこちら参照。
 
 ## 概要
 
@@ -11,7 +11,7 @@
 
 [2001年](../Page/2001年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に[坂田学](https://ja.wikipedia.org/wiki/坂田学 "wikilink")が加入。[フィッシュマンズ](../Page/フィッシュマンズ.md "wikilink")風のヴォーカルと浮遊感の漂うサウンドや、10分近くの長さの曲はダブポップと呼ばれる。
 
-[9月](../Page/9月.md "wikilink")。[Nathalie Wiseと共にレーベルFamily](https://ja.wikipedia.org/wiki/Nathalie_Wise "wikilink") Songを設立。
+[9月](../Page/9月.md "wikilink")。[Nathalie Wiseと共にレーベルFamily](../Page/Nathalie_Wise.md "wikilink") Songを設立。
 
 [11月](../Page/11月.md "wikilink")に『Polaris』でデビュー。外資系CDショップでトップ5に、[J-WAVE](../Page/J-WAVE.md "wikilink")の「TOKIO HOT 100」では20位圏内にチャートインする。
 
@@ -33,7 +33,7 @@
       - [クラムボン](https://ja.wikipedia.org/wiki/クラムボン "wikilink")の[原田郁子](../Page/原田郁子.md "wikilink")、[ハナレグミ](../Page/ハナレグミ.md "wikilink")の[永積タカシ](https://ja.wikipedia.org/wiki/永積タカシ "wikilink")とともに[ohana](https://ja.wikipedia.org/wiki/ohana "wikilink")を結成。
       - ソロユニット[SPENCER](https://ja.wikipedia.org/wiki/SPENCER "wikilink")（スペンサァ）としても活動中。
   - 柏原譲（[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[12月20日](../Page/12月20日.md "wikilink") - ）- [ベース](../Page/エレクトリックベース.md "wikilink")
-      - [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身。
+      - [東京都](../Page/東京都.md "wikilink")出身。
       - [フィッシュマンズ](../Page/フィッシュマンズ.md "wikilink")のメンバー。
       - [作曲家](../Page/作曲家.md "wikilink")の[丸山康太郎](https://ja.wikipedia.org/wiki/丸山康太郎 "wikilink")とともに[OTOUTA](https://ja.wikipedia.org/wiki/OTOUTA "wikilink")を結成。
       - 茂木欣一（[東京スカパラダイスオーケストラ](../Page/東京スカパラダイスオーケストラ.md "wikilink")／[フィッシュマンズ](../Page/フィッシュマンズ.md "wikilink")）、加藤隆志（[東京スカパラダイスオーケストラ](../Page/東京スカパラダイスオーケストラ.md "wikilink")）とともに[So many tearsとしても活動中](https://ja.wikipedia.org/wiki/So_many_tears "wikilink")。
@@ -41,9 +41,9 @@
 ### 元メンバー
 
   - 坂田学（[1973年](../Page/1973年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink") - ）- [ドラム](../Page/ドラムセット.md "wikilink")
-      - [埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")出身。
+      - [埼玉県](../Page/埼玉県.md "wikilink")出身。
       - 父はサックス奏者の[坂田明](../Page/坂田明.md "wikilink")。
-      - [2001年](../Page/2001年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に加入し、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")に脱退。
+      - [2001年](../Page/2001年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に加入し、[2005年](../Page/2005年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")に脱退。
 
 ## ディスコグラフィー
 
@@ -87,7 +87,7 @@
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/5月11日.md" title="wikilink">5月11日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/5月11日.md" title="wikilink">5月11日</a></p></td>
 <td><p><strong>『月の恋人』</strong></p></td>
 <td><p>MTCA-5016</p></td>
 <td><ol>
@@ -174,7 +174,7 @@
 </tr>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/2月8日.md" title="wikilink">2月8日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/2月8日.md" title="wikilink">2月8日</a></p></td>
 <td><p><strong>『風を想う (Live at 代官山 UNIT 2005/12/29)』</strong></p></td>
 <td><p>MTCA-9003</p></td>
 <td><ol>
@@ -258,7 +258,7 @@ XQJX-1015:期間限定価格盤SHM-CD</p></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/8月3日.md" title="wikilink">8月3日</a><br />
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/8月3日.md" title="wikilink">8月3日</a><br />
 2009年3月25日<br />
 2011年6月8日</p></td>
 <td><p><strong>『Union』</strong></p></td>
@@ -282,7 +282,7 @@ XQJX-1016:期間限定価格盤SHM-CD</p></td>
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/10月4日" title="wikilink">10月4日</a><br />
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/10月4日" title="wikilink">10月4日</a><br />
 2009年3月25日<br />
 2011年6月8日</p></td>
 <td><p><strong>『空間』</strong></p></td>
@@ -436,7 +436,7 @@ MTCA-5013:通常盤</p></td>
 </tr>
 <tr class="even">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/3月15日.md" title="wikilink">3月15日</a><br />
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/3月15日.md" title="wikilink">3月15日</a><br />
 2009年3月25日<br />
 2011年6月8日</p></td>
 <td><p><strong>『音色』</strong></p></td>
@@ -501,7 +501,7 @@ XQJX-1017:期間限定価格盤SHM-CD</p></td>
 </tr>
 <tr class="even">
 <td><p>3rd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/5月" title="wikilink">5月</a><br />
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/5月" title="wikilink">5月</a><br />
 2009年3月25日<br />
 2011年6月8日</p></td>
 <td><p><strong>『Polaris presents continuity #5 &amp; #6』</strong></p></td>
@@ -609,7 +609,7 @@ XQJX-1019:期間限定価格盤SHM-CD</p></td>
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/1月13日.md" title="wikilink">1月13日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/1月13日.md" title="wikilink">1月13日</a></p></td>
 <td><p><strong>『Live at 日比谷野外音楽堂 2004/09/25』</strong></p></td>
 <td><p>MTBA-5001<br />
 MTBA-5002</p></td>
@@ -634,7 +634,7 @@ MTBA-5002</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a><a href="https://ja.wikipedia.org/wiki/9月8日" title="wikilink">9月8日</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a><a href="../Page/9月8日.md" title="wikilink">9月8日</a></p></td>
 <td><p><strong>『Live at 日比谷野外音楽堂 2004/9/25 〜Special Edition〜』</strong></p></td>
 <td><p>MTBA-3002</p></td>
 <td><p>DISC1 / ライブDVD</p>
@@ -700,7 +700,7 @@ MTBA-5002</p></td>
 <td><p><strong>『Disney Age @ D_100 Café』</strong></p></td>
 <td><p>AVCW-12242</p></td>
 <td><p>7曲目「When She Loved Me」、8曲目「Chim Chim Cher-ee」、11曲目「When She Loved Me (Reprise)」で参加。<br />
-<a href="https://ja.wikipedia.org/wiki/Nathalie_Wise" title="wikilink">Nathalie Wiseとの</a>「The Family Song Recordings」の名義。</p></td>
+<a href="../Page/Nathalie_Wise.md" title="wikilink">Nathalie Wiseとの</a>「The Family Song Recordings」の名義。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a><a href="../Page/3月12日.md" title="wikilink">3月12日</a></p></td>
@@ -770,9 +770,9 @@ MTBA-5002</p></td>
       - ゲスト：[tica](https://ja.wikipedia.org/wiki/tica "wikilink")、[原田郁子](../Page/原田郁子.md "wikilink")
 4.  **「Polaris presents continuity \#4」**（[2003年](../Page/2003年.md "wikilink")[12月23日](../Page/12月23日.md "wikilink")）
       - ゲスト：[湯川潮音](https://ja.wikipedia.org/wiki/湯川潮音 "wikilink")、[高木正勝](../Page/高木正勝.md "wikilink")
-5.  **「Polaris presents continuity \#5」**（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")）
+5.  **「Polaris presents continuity \#5」**（[2005年](../Page/2005年.md "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")）
       - ゲスト：[bloodthirsty butchers](https://ja.wikipedia.org/wiki/bloodthirsty_butchers "wikilink")
-6.  **「Polaris presents continuity \#6」**（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月17日](../Page/3月17日.md "wikilink")）
+6.  **「Polaris presents continuity \#6」**（[2005年](../Page/2005年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink")）
       - ゲスト：[The miceteeth](https://ja.wikipedia.org/wiki/The_miceteeth "wikilink")
 7.  **「Polaris presents continuity \#7」**（[2014年](../Page/2014年.md "wikilink")[6月26日](../Page/6月26日.md "wikilink")）
       - ゲスト：[So many tears](https://ja.wikipedia.org/wiki/So_many_tears "wikilink")

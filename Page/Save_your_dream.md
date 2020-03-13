@@ -1,14 +1,14 @@
 > この記事は[Save your dream](https://ja.wikipedia.org/wiki/Save_your_dream)から翻訳されています。
 
 
-「**save your dream**」（セイヴ・ユア・ドリーム）は、[華原朋美](../Page/華原朋美.md "wikilink")の5枚目の[シングル](../Page/シングル.md "wikilink")。[1996年](../Page/1996年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")に[ORUMOK RECORDSから発売された](https://ja.wikipedia.org/wiki/ORUMOK_RECORDS "wikilink")。
+「**save your dream**」（セイヴ・ユア・ドリーム）は、[華原朋美](../Page/華原朋美.md "wikilink")の5枚目の[シングル](../Page/シングル.md "wikilink")。[1996年](../Page/1996年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")に[ORUMOK RECORDSから発売された](../Page/ORUMOK_RECORDS.md "wikilink")。
 
 ## 解説
 
-  - 自身が出演した[LOTTE](../Page/ロッテ.md "wikilink")[チョコレート](https://ja.wikipedia.org/wiki/チョコレート "wikilink")「紗々」の[CFイメージソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。シングルでは初となった1位を獲得した。[日本レコード協会](../Page/日本レコード協会.md "wikilink")の集計では[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")に認定されている。
+  - 自身が出演した[LOTTE](../Page/ロッテ.md "wikilink")[チョコレート](https://ja.wikipedia.org/wiki/チョコレート "wikilink")「紗々」の[CFイメージソング](../Page/コマーシャルソング.md "wikilink")。シングルでは初となった1位を獲得した。[日本レコード協会](../Page/日本レコード協会.md "wikilink")の集計では[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")に認定されている。
   - この曲を歌っていた当時の華原は極端に痩せていて、体重30kg台であったと語っている。当時、自身が愛用していた“[ホアキン・ベラオ](https://ja.wikipedia.org/wiki/ホアキン・ベラオ "wikilink")”（[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")のブランド）のアクセサリーが華原効果で人気に火が点いた。
   - 1996年8月にレコーディングされた。「[summer visit](../Page/LOVE_BRACE.md "wikilink")」に近い感じの楽しい雰囲気を意識した\[1\]。
-  - [PVとメイキングが収められたシングル](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")・ビデオは、[1996年](../Page/1996年.md "wikilink")[10月23日](../Page/10月23日.md "wikilink")に発売された。
+  - [PVとメイキングが収められたシングル](../Page/ミュージック・ビデオ.md "wikilink")・ビデオは、[1996年](../Page/1996年.md "wikilink")[10月23日](../Page/10月23日.md "wikilink")に発売された。
   - \[Original Mix\]を除いた、\[Deep Dark Mix\]と\[Lotte Remix\]の2ヴァージョンを収録した12インチの[アナログ盤](https://ja.wikipedia.org/wiki/アナログ盤 "wikilink")（非売品）が存在するが、万単位の高プレミアが付いている。華原の楽曲のなかでも、特にキーが高い楽曲である。
 
 ## 収録曲
@@ -20,7 +20,7 @@
 <!-- end list -->
 
   -
-    [Composed](../Page/作曲.md "wikilink"), [Written](https://ja.wikipedia.org/wiki/作詞 "wikilink") & [Arranged](../Page/編曲.md "wikilink") by [Tetsuya Komuro](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
+    [Composed](../Page/作曲.md "wikilink"), [Written](../Page/作詞.md "wikilink") & [Arranged](../Page/編曲.md "wikilink") by [Tetsuya Komuro](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
     Mixed by Keith "KC" Cohen (\#1)
     [Remixed](../Page/リミックス.md "wikilink") by [Gary Wright](https://ja.wikipedia.org/wiki/ゲイリー・ライト "wikilink") (\#2 / \#3)
     Performed by Tomomi Kahala
@@ -40,7 +40,7 @@
 
 <!-- end list -->
 
-  - [ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")
+  - [ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")
 
 <!-- end list -->
 
@@ -80,7 +80,7 @@
 
 <!-- end list -->
 
-  - [PV集](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")
+  - [PV集](../Page/ミュージック・ビデオ.md "wikilink")
 
 <!-- end list -->
 

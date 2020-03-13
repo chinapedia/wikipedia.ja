@@ -1,12 +1,12 @@
 > この記事は[DISCO TWINS \(\)](https://ja.wikipedia.org/wiki/DISCO_TWINS_\(\))から翻訳されています。
 
 
-**DISCO TWINS**（ディスコ・ツインズ）は[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")の[KAGAMI](../Page/KAGAMI.md "wikilink")と[DJ TASAKAの二人による](https://ja.wikipedia.org/wiki/DJ_TASAKA "wikilink")[音楽ユニット](../Page/音楽ユニット.md "wikilink")である。2000年の[電気グルーヴ](../Page/電気グルーヴ.md "wikilink")のツアーのサポートをきっかけに結成。2003年[キューンレコードよりデビュー](https://ja.wikipedia.org/wiki/キューンミュージック "wikilink")。2006年には[吉川晃司](https://ja.wikipedia.org/wiki/吉川晃司 "wikilink")を加えた「**DISCO K2 TWINS**」として活動。
+**DISCO TWINS**（ディスコ・ツインズ）は[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")の[KAGAMI](../Page/KAGAMI.md "wikilink")と[DJ TASAKAの二人による](../Page/DJ_TASAKA.md "wikilink")[音楽ユニット](../Page/音楽ユニット.md "wikilink")である。2000年の[電気グルーヴ](../Page/電気グルーヴ.md "wikilink")のツアーのサポートをきっかけに結成。2003年[キューンレコードよりデビュー](../Page/キューンミュージック.md "wikilink")。2006年には[吉川晃司](../Page/吉川晃司.md "wikilink")を加えた「**DISCO K2 TWINS**」として活動。
 
 ## メンバー
 
   - [KAGAMI](../Page/KAGAMI.md "wikilink")
-  - [DJ TASAKA](https://ja.wikipedia.org/wiki/DJ_TASAKA "wikilink")
+  - [DJ TASAKA](../Page/DJ_TASAKA.md "wikilink")
 
 ## ディスコグラフィー
 
@@ -22,19 +22,19 @@
 
 <!-- end list -->
 
-1.  Juicy Jungle feat.[吉川晃司](https://ja.wikipedia.org/wiki/吉川晃司 "wikilink")
-      - この曲は[PVが作成され](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、[SPACE SHOWER Music Video Awards](https://ja.wikipedia.org/wiki/SPACE_SHOWER_Music_Video_Awards "wikilink") 07でBEST IMPACT VIDEO賞を受賞。授賞式ではスペシャルゲストの吉川晃司と共にライブパフォーマンスを行った。
+1.  Juicy Jungle feat.[吉川晃司](../Page/吉川晃司.md "wikilink")
+      - この曲は[PVが作成され](../Page/ミュージック・ビデオ.md "wikilink")、[SPACE SHOWER Music Video Awards](https://ja.wikipedia.org/wiki/SPACE_SHOWER_Music_Video_Awards "wikilink") 07でBEST IMPACT VIDEO賞を受賞。授賞式ではスペシャルゲストの吉川晃司と共にライブパフォーマンスを行った。
 2.  スーパーゾッキー2300 feat.セイジ([ギターウルフ](../Page/ギターウルフ.md "wikilink"))
 3.  ADABANA feat.KAORI
 4.  Thunder Storm feat.吉川晃司
 5.  ∞あわせKAGAMIの現実∞
 6.  Bite Me Dracula feat.KAORI
-7.  DISCO TWINS'INFERNO feat.宇多丸([RHYMESTER](https://ja.wikipedia.org/wiki/RHYMESTER "wikilink"))
+7.  DISCO TWINS'INFERNO feat.宇多丸([RHYMESTER](../Page/RHYMESTER.md "wikilink"))
 8.  SUNSET/SUNRISE feat.オオヤユウスケ([Polaris](../Page/Polaris_\(バンド\).md "wikilink")/[ohana](https://ja.wikipedia.org/wiki/ohana "wikilink"))
 
 ## 関連項目
 
-  - [七尾旅人](https://ja.wikipedia.org/wiki/七尾旅人 "wikilink")…「∞あわせKAGAMIの現実∞」「SUNSET/SUNRISE feat.オオヤユウスケ」の作詞
+  - [七尾旅人](../Page/七尾旅人.md "wikilink")…「∞あわせKAGAMIの現実∞」「SUNSET/SUNRISE feat.オオヤユウスケ」の作詞
   - [いしわたり淳治](../Page/いしわたり淳治.md "wikilink")… 「ADABANA feat.KAORI」の作詞
 
 ## 外部リンク

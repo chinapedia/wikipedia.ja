@@ -7,7 +7,7 @@
 
 [伊秩弘将](https://ja.wikipedia.org/wiki/伊秩弘将 "wikilink")が曲作りから宣伝まで総合プロデュースするプロジェクトとして発足し、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")にCDデビュー。メンバーは、ボーカルのJunko（[大塚純子](../Page/大塚純子.md "wikilink")）のみだが、実質的にはJunko、伊秩、アレンジャーの[田辺恵二](https://ja.wikipedia.org/wiki/田辺恵二 "wikilink")の3人を中心としたプロジェクトだった。[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")のようなダンス音楽ではない、爽やかなポップスを目指した。
 
-CM曲やテレビ番組タイアップを多く手がけ、一時はコンスタントに新曲発表を重ねたが、Junkoの実業家男性との結婚を機に解散。Junkoは引退（Junkoと関西でレギュラーのラジオ番組をやっていた[吉本新喜劇](https://ja.wikipedia.org/wiki/吉本新喜劇 "wikilink")の[石田靖](https://ja.wikipedia.org/wiki/石田靖 "wikilink")が、ラジオ番組「恋商店」でJunkoを匂わせる形で発言）。
+CM曲やテレビ番組タイアップを多く手がけ、一時はコンスタントに新曲発表を重ねたが、Junkoの実業家男性との結婚を機に解散。Junkoは引退（Junkoと関西でレギュラーのラジオ番組をやっていた[吉本新喜劇](../Page/吉本新喜劇.md "wikilink")の[石田靖](../Page/石田靖.md "wikilink")が、ラジオ番組「恋商店」でJunkoを匂わせる形で発言）。
 
 ## ディスコグラフィ
 
@@ -36,8 +36,8 @@ CM曲やテレビ番組タイアップを多く手がけ、一時はコンスタ
 <li>Future's Memories(インストゥルメンタル)</li>
 <li>Bye Bye Blue(インストゥルメンタル)</li>
 </ol></td>
-<td><p>※<a href="https://ja.wikipedia.org/wiki/All-nippon_News_Network" title="wikilink">テレビ朝日系</a><a href="../Page/ウイークエンドドラマ.md" title="wikilink">ウイークエンドドラマ</a>「<a href="../Page/いとしの未来ちゃん.md" title="wikilink">いとしの未来ちゃん</a>」<a href="https://ja.wikipedia.org/wiki/主題歌" title="wikilink">主題歌</a><br />
-<a href="../Page/花王.md" title="wikilink">花王</a>「<a href="../Page/ロリエ.md" title="wikilink">ロリエ</a>」<a href="https://ja.wikipedia.org/wiki/コマーシャルソング" title="wikilink">CMソング</a><br />
+<td><p>※<a href="https://ja.wikipedia.org/wiki/All-nippon_News_Network" title="wikilink">テレビ朝日系</a><a href="../Page/ウイークエンドドラマ.md" title="wikilink">ウイークエンドドラマ</a>「<a href="../Page/いとしの未来ちゃん.md" title="wikilink">いとしの未来ちゃん</a>」<a href="../Page/主題歌.md" title="wikilink">主題歌</a><br />
+<a href="../Page/花王.md" title="wikilink">花王</a>「<a href="../Page/ロリエ.md" title="wikilink">ロリエ</a>」<a href="../Page/コマーシャルソング.md" title="wikilink">CMソング</a><br />
 ジャケットデザインが<a href="../Page/ピエト・モンドリアン.md" title="wikilink">ピエト・モンドリアン</a>の作品「赤・青・黄のコンポジション」を模したデザインとなっている。<br />
 オリコン最高30位、登場回数7回</p></td>
 </tr>
@@ -76,7 +76,7 @@ CM曲やテレビ番組タイアップを多く手がけ、一時はコンスタ
 <li>BELIEVE(ENGLISH)※</li>
 <li>BELIEVE(インストゥルメンタル)</li>
 </ol></td>
-<td><p>※<a href="../Page/フジネットワーク.md" title="wikilink">フジテレビ系</a><a href="../Page/テレビドラマ.md" title="wikilink">テレビドラマ</a>「<a href="../Page/恋はあせらず_(テレビドラマ).md" title="wikilink">恋はあせらず</a>」<a href="https://ja.wikipedia.org/wiki/サウンドトラック" title="wikilink">挿入歌</a>[1]。<br />
+<td><p>※<a href="../Page/フジネットワーク.md" title="wikilink">フジテレビ系</a><a href="../Page/テレビドラマ.md" title="wikilink">テレビドラマ</a>「<a href="../Page/恋はあせらず_(テレビドラマ).md" title="wikilink">恋はあせらず</a>」<a href="../Page/サウンドトラック.md" title="wikilink">挿入歌</a>[1]。<br />
 <a href="../Page/2001年.md" title="wikilink">2001年</a>に「<a href="https://ja.wikipedia.org/wiki/愛してる_(高橋克典_with_仲間由紀恵の曲)" title="wikilink">愛してる (高橋克典 with 仲間由紀恵の曲)</a>」としてカバーされた[2]。<br />
 オリコン最高29位、登場回数8回</p></td>
 </tr>
@@ -90,7 +90,7 @@ CM曲やテレビ番組タイアップを多く手がけ、一時はコンスタ
 <li>タイムマシーンはもうなくても</li>
 <li>Sweet Sweet Memories(インストゥルメンタル)</li>
 </ol></td>
-<td><p>2曲とも、<a href="../Page/フジネットワーク.md" title="wikilink">フジテレビ系</a><a href="../Page/テレビドラマ.md" title="wikilink">テレビドラマ</a>「<a href="../Page/恋はあせらず_(テレビドラマ).md" title="wikilink">恋はあせらず</a>」<a href="https://ja.wikipedia.org/wiki/サウンドトラック" title="wikilink">挿入歌</a>[3]。<br />
+<td><p>2曲とも、<a href="../Page/フジネットワーク.md" title="wikilink">フジテレビ系</a><a href="../Page/テレビドラマ.md" title="wikilink">テレビドラマ</a>「<a href="../Page/恋はあせらず_(テレビドラマ).md" title="wikilink">恋はあせらず</a>」<a href="../Page/サウンドトラック.md" title="wikilink">挿入歌</a>[3]。<br />
 ※花王「ロリエ」CMソング<br />
 オリコン最高34位、登場回数3回</p></td>
 </tr>
@@ -132,7 +132,7 @@ CM曲やテレビ番組タイアップを多く手がけ、一時はコンスタ
 <li>エンドレスサマー(Sunset Breezeヴァージョン)</li>
 <li>エンドレスサマー(インストゥルメンタル)</li>
 </ol></td>
-<td><p>TBS系<a href="https://ja.wikipedia.org/wiki/月曜ドラマスペシャル" title="wikilink">月曜ドラマスペシャル</a>「同窓会へようこそ〜遅すぎた夏の帰郷〜」主題歌<br />
+<td><p>TBS系<a href="../Page/月曜ドラマスペシャル.md" title="wikilink">月曜ドラマスペシャル</a>「同窓会へようこそ〜遅すぎた夏の帰郷〜」主題歌<br />
 オリコン最高44位、登場回数3回</p></td>
 </tr>
 <tr class="odd">
@@ -147,7 +147,7 @@ CM曲やテレビ番組タイアップを多く手がけ、一時はコンスタ
 <li>BE WITH YOUR LOVE(インストゥルメンタル)</li>
 <li>サヨナラが消せない恋(インストゥルメンタル)</li>
 </ol></td>
-<td><p>フジテレビ系テレビドラマ「<a href="https://ja.wikipedia.org/wiki/賭事女王" title="wikilink">賭事女王 GANBLE♥QUEEN</a>」主題歌<br />
+<td><p>フジテレビ系テレビドラマ「<a href="../Page/賭事女王.md" title="wikilink">賭事女王 GANBLE♥QUEEN</a>」主題歌<br />
 オリコン最高40位</p></td>
 </tr>
 <tr class="even">

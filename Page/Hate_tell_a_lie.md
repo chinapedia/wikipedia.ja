@@ -1,17 +1,17 @@
 > この記事は[Hate tell a lie](https://ja.wikipedia.org/wiki/Hate_tell_a_lie)から翻訳されています。
 
 
-「**Hate tell a lie**」（ヘイト・テル・ア・ライ）は、[華原朋美](../Page/華原朋美.md "wikilink")の6枚目の[シングル](../Page/シングル.md "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月23日](../Page/4月23日.md "wikilink")に[ORUMOK RECORDSから発売された](https://ja.wikipedia.org/wiki/ORUMOK_RECORDS "wikilink")。
+「**Hate tell a lie**」（ヘイト・テル・ア・ライ）は、[華原朋美](../Page/華原朋美.md "wikilink")の6枚目の[シングル](../Page/シングル.md "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月23日](../Page/4月23日.md "wikilink")に[ORUMOK RECORDSから発売された](../Page/ORUMOK_RECORDS.md "wikilink")。
 
 ## 解説
 
   - 「[save your dream](https://ja.wikipedia.org/wiki/save_your_dream "wikilink")」以来、約半年ぶりのシングル。
   - タイトルを直訳すると「嘘をつくのが嫌い」。日頃の鬱憤との葛藤を抜けて、出会えた恋人（あなた）には正直な態度で尽くしていきたい、という内容が歌詞に込められている。
-  - 自身がイメージキャラクターに起用され出演した[カネボウ化粧品](https://ja.wikipedia.org/wiki/カネボウ化粧品 "wikilink")・REVUEブランド「 Bronzelove（ブロンズラヴ）」[TV-CFソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。CMやポスターでは、黒く日焼けした「黒朋ちゃん」と白肌の「白朋ちゃん」という対照的な二人の華原が共演する演出がなされている。[キャッチフレーズ](https://ja.wikipedia.org/wiki/キャッチフレーズ "wikilink")は「*ナツ、ハダ、ヒカル*。」
-      - このポスターは、この曲の[PVで登場する電車内の中吊りにも登場している](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。また初回プレスには[プリクラ](https://ja.wikipedia.org/wiki/プリクラ "wikilink")風シールの購入特典があった。
-  - [アラニス・モリセット](https://ja.wikipedia.org/wiki/アラニス・モリセット "wikilink")の作品を小室・華原がすごく気に入り、作中での[ハーモニカ](https://ja.wikipedia.org/wiki/ハーモニカ "wikilink")が印象的だったので、小室に勧められ小さいハーモニカ（ブルースハープ）を渡された。レコーディングでは華原は「小学生が吹く」様な気持ちで演奏した\[1\]。
-  - PVは[下町](../Page/下町.md "wikilink")の[月島](../Page/月島.md "wikilink")や[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[調布市](../Page/調布市.md "wikilink")にある[NTT東日本研修センタ宿泊棟構内](../Page/東日本電信電話.md "wikilink")、[都電荒川線](https://ja.wikipedia.org/wiki/都電荒川線 "wikilink")を借り切って撮影された。
-  - 初登場から3週連続で[オリコンシングルチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位を獲得した。「[I BELIEVE](../Page/I_BELIEVE_\(華原朋美の曲\).md "wikilink")」・「[I'm proud](../Page/I'm_proud.md "wikilink")」に続き、華原朋美3作目の[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を達成した。現在のところ、[小室作品の中では最後のミリオン](https://ja.wikipedia.org/wiki/小室哲哉提供楽曲一覧 "wikilink")・シングルとなっている。華原のシングルでは「I'm proud」に次ぐヒット作である。
+  - 自身がイメージキャラクターに起用され出演した[カネボウ化粧品](../Page/カネボウ化粧品.md "wikilink")・REVUEブランド「 Bronzelove（ブロンズラヴ）」[TV-CFソング](../Page/コマーシャルソング.md "wikilink")。CMやポスターでは、黒く日焼けした「黒朋ちゃん」と白肌の「白朋ちゃん」という対照的な二人の華原が共演する演出がなされている。[キャッチフレーズ](https://ja.wikipedia.org/wiki/キャッチフレーズ "wikilink")は「*ナツ、ハダ、ヒカル*。」
+      - このポスターは、この曲の[PVで登場する電車内の中吊りにも登場している](../Page/ミュージック・ビデオ.md "wikilink")。また初回プレスには[プリクラ](https://ja.wikipedia.org/wiki/プリクラ "wikilink")風シールの購入特典があった。
+  - [アラニス・モリセット](../Page/アラニス・モリセット.md "wikilink")の作品を小室・華原がすごく気に入り、作中での[ハーモニカ](../Page/ハーモニカ.md "wikilink")が印象的だったので、小室に勧められ小さいハーモニカ（ブルースハープ）を渡された。レコーディングでは華原は「小学生が吹く」様な気持ちで演奏した\[1\]。
+  - PVは[下町](../Page/下町.md "wikilink")の[月島](../Page/月島.md "wikilink")や[東京都](../Page/東京都.md "wikilink")[調布市](../Page/調布市.md "wikilink")にある[NTT東日本研修センタ宿泊棟構内](../Page/東日本電信電話.md "wikilink")、[都電荒川線](https://ja.wikipedia.org/wiki/都電荒川線 "wikilink")を借り切って撮影された。
+  - 初登場から3週連続で[オリコンシングルチャート](../Page/オリコンチャート.md "wikilink")1位を獲得した。「[I BELIEVE](../Page/I_BELIEVE_\(華原朋美の曲\).md "wikilink")」・「[I'm proud](../Page/I'm_proud.md "wikilink")」に続き、華原朋美3作目の[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を達成した。現在のところ、[小室作品の中では最後のミリオン](https://ja.wikipedia.org/wiki/小室哲哉提供楽曲一覧 "wikilink")・シングルとなっている。華原のシングルでは「I'm proud」に次ぐヒット作である。
   - 本作で、『[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")』（[第48回](../Page/第48回NHK紅白歌合戦.md "wikilink")）に2年連続出場となった。第2部のトップバッターを務め、急遽小室がギターで参加した。
   - 本作のタイトルである「hate tell a lie」は、hate（嫌う）のあとに原形の動詞 tell が続いているので英語としては誤りである。正しくは「hate telling a lie」または「hate to tell a lie」である。
 
@@ -24,9 +24,9 @@
 <!-- end list -->
 
   -
-    [Composed](../Page/作曲.md "wikilink"), [Written](https://ja.wikipedia.org/wiki/作詞 "wikilink") & [Arranged](../Page/編曲.md "wikilink") by [TETSUYA KOMURO](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
+    [Composed](../Page/作曲.md "wikilink"), [Written](../Page/作詞.md "wikilink") & [Arranged](../Page/編曲.md "wikilink") by [TETSUYA KOMURO](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
     Mixed by Keith "KC" Cohen
-    Song & [Harmonica](https://ja.wikipedia.org/wiki/ハーモニカ "wikilink") Play by Tomomi Kahala
+    Song & [Harmonica](../Page/ハーモニカ.md "wikilink") Play by Tomomi Kahala
 
 ## 収録アルバム・PV集
 
@@ -43,7 +43,7 @@
 
 <!-- end list -->
 
-  - [ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")
+  - [ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")
 
 <!-- end list -->
 
@@ -83,7 +83,7 @@
 
 <!-- end list -->
 
-  - [PV集](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")
+  - [PV集](../Page/ミュージック・ビデオ.md "wikilink")
 
 <!-- end list -->
 

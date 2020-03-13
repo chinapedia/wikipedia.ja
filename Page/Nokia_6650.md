@@ -1,9 +1,9 @@
 > この記事は[Nokia 6650](https://ja.wikipedia.org/wiki/Nokia_6650)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Nokia6650_unlocked.jpg "wikilink") **Nokia 6650**は[ノキア](https://ja.wikipedia.org/wiki/ノキア "wikilink")が開発し、2003年に発売した[W-CDMA](../Page/W-CDMA.md "wikilink")/[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")方式の[携帯電話](../Page/携帯電話.md "wikilink")端末である。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Nokia6650_unlocked.jpg "wikilink") **Nokia 6650**は[ノキア](../Page/ノキア.md "wikilink")が開発し、2003年に発売した[W-CDMA](../Page/W-CDMA.md "wikilink")/[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")方式の[携帯電話](../Page/携帯電話.md "wikilink")端末である。
 
-日本では、ノキア・ジャパンから**Nokia 6650**として2003年6月に、J-フォン（ボーダフォン日本法人、現[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")）から[W-CDMA](../Page/W-CDMA.md "wikilink")通信方式のボーダフォングローバルスタンダード（現[SoftBank 3G](https://ja.wikipedia.org/wiki/SoftBank_3G "wikilink")）サービスを利用可能な機種として、2003年8月より**V-NM701**として発売された。
+日本では、ノキア・ジャパンから**Nokia 6650**として2003年6月に、J-フォン（ボーダフォン日本法人、現[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")）から[W-CDMA](../Page/W-CDMA.md "wikilink")通信方式のボーダフォングローバルスタンダード（現[SoftBank 3G](../Page/SoftBank_3G.md "wikilink")）サービスを利用可能な機種として、2003年8月より**V-NM701**として発売された。
 
 ## スペック
 
@@ -16,14 +16,14 @@
   - 内蔵メモリ：7MB
   - メッセージング：[SMS](https://ja.wikipedia.org/wiki/ショートメッセージサービス "wikilink")/[MMS](../Page/マルチメディアメッセージングサービス.md "wikilink")
   - 内蔵ブラウザ：[WAP](../Page/Wireless_Application_Protocol.md "wikilink") 2.0/[XHTML](../Page/Extensible_HyperText_Markup_Language.md "wikilink")
-  - 外部インターフェイス：[IrDA](../Page/IrDA.md "wikilink")・[Bluetooth](https://ja.wikipedia.org/wiki/Bluetooth "wikilink")・[USBケーブル接続](../Page/ユニバーサル・シリアル・バス.md "wikilink")
+  - 外部インターフェイス：[IrDA](../Page/IrDA.md "wikilink")・[Bluetooth](../Page/Bluetooth.md "wikilink")・[USBケーブル接続](../Page/ユニバーサル・シリアル・バス.md "wikilink")
   - 対応言語：英語
   - [Java](../Page/Javaプラットフォーム.md "wikilink")：[Java ME](../Page/Java_Platform,_Micro_Edition.md "wikilink") MIDP 1.0 / CLDC 1.0
-  - メインカメラ：32万画素[CMOSカメラ](https://ja.wikipedia.org/wiki/CMOSイメージセンサ "wikilink")
+  - メインカメラ：32万画素[CMOSカメラ](../Page/CMOSイメージセンサ.md "wikilink")
 
 ## 特徴
 
-[ノキア](https://ja.wikipedia.org/wiki/ノキア "wikilink")初の[W-CDMA](../Page/W-CDMA.md "wikilink")をサポートした携帯電話であり、[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")(900/1800)及び[W-CDMA](../Page/W-CDMA.md "wikilink")通信方式に対応する。[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")1900に対応していないため、北米では利用できない。ノキア・ジャパンから販売されているが、日本語表示をサポートしていないため、メニューなどの表記は英語であり、[SMS](https://ja.wikipedia.org/wiki/SMS "wikilink")で日本語を利用できない。
+[ノキア](../Page/ノキア.md "wikilink")初の[W-CDMA](../Page/W-CDMA.md "wikilink")をサポートした携帯電話であり、[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")(900/1800)及び[W-CDMA](../Page/W-CDMA.md "wikilink")通信方式に対応する。[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")1900に対応していないため、北米では利用できない。ノキア・ジャパンから販売されているが、日本語表示をサポートしていないため、メニューなどの表記は英語であり、[SMS](https://ja.wikipedia.org/wiki/SMS "wikilink")で日本語を利用できない。
 
 Series 40 Developer Platform 1.0を採用しているため、J2MEアプリケーションを動作させることができる。
 

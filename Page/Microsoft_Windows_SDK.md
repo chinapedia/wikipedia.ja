@@ -1,7 +1,7 @@
 > この記事は[Microsoft Windows SDK](https://ja.wikipedia.org/wiki/Microsoft_Windows_SDK)から翻訳されています。
 
 
-**Microsoft Windows SDK**（**マイクロソフト ウィンドウズ エスディーケー**）とは、[Microsoft Windowsで動作する](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[アプリケーションソフトウェア](../Page/アプリケーションソフトウェア.md "wikilink")を作成するために[マイクロソフト](../Page/マイクロソフト.md "wikilink")が無料で公開している[ソフトウェア開発キット](../Page/ソフトウェア開発キット.md "wikilink") (SDK) である。[Windows APIを利用するために必要な](https://ja.wikipedia.org/wiki/Windows_API "wikilink")[ヘッダファイル](../Page/ヘッダファイル.md "wikilink")、[ライブラリ](../Page/ライブラリ.md "wikilink")、[ツール](https://ja.wikipedia.org/wiki/ツールソフトウェア "wikilink")、サンプルを含んでいる。
+**Microsoft Windows SDK**（**マイクロソフト ウィンドウズ エスディーケー**）とは、[Microsoft Windowsで動作する](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[アプリケーションソフトウェア](../Page/アプリケーションソフトウェア.md "wikilink")を作成するために[マイクロソフト](../Page/マイクロソフト.md "wikilink")が無料で公開している[ソフトウェア開発キット](../Page/ソフトウェア開発キット.md "wikilink") (SDK) である。[Windows APIを利用するために必要な](../Page/Windows_API.md "wikilink")[ヘッダファイル](../Page/ヘッダファイル.md "wikilink")、[ライブラリ](../Page/ライブラリ.md "wikilink")、[ツール](https://ja.wikipedia.org/wiki/ツールソフトウェア "wikilink")、サンプルを含んでいる。
 
 [Windows Vistaリリース前はMicrosoft](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink") Platform SDKという名称であったが、Platform SDKと[.NET Framework](https://ja.wikipedia.org/wiki/.NET_Framework "wikilink") SDKを統合し、Windows SDKとなった。
 
@@ -13,13 +13,13 @@
 
 ## 64ビット対応
 
-バージョン7.1までのPlatform/Windows SDKには、[x64](https://ja.wikipedia.org/wiki/x64 "wikilink")と[IA-64](https://ja.wikipedia.org/wiki/IA-64 "wikilink")コードを出力するVisual C++コンパイラがそれぞれ含まれている。コマンドプロンプトから使用するほか、[Visual C++ 2010](https://ja.wikipedia.org/wiki/Microsoft_Visual_C++ "wikilink") Express Editionと併せて用いることも可能である。
+バージョン7.1までのPlatform/Windows SDKには、[x64](https://ja.wikipedia.org/wiki/x64 "wikilink")と[IA-64](../Page/IA-64.md "wikilink")コードを出力するVisual C++コンパイラがそれぞれ含まれている。コマンドプロンプトから使用するほか、[Visual C++ 2010](../Page/Microsoft_Visual_C++.md "wikilink") Express Editionと併せて用いることも可能である。
 
-[Visual C++ 2005が公開されるまで](https://ja.wikipedia.org/wiki/Microsoft_Visual_C++ "wikilink")、Platform SDKが64ビット用Visual C++コンパイラを入手する唯一の手段であった。また、標準ライブラリの[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")版も付属し、Visual C++ 6付属ライブラリの[IA-64](https://ja.wikipedia.org/wiki/IA-64 "wikilink")版は2003年2月に公開された版から、[x64](https://ja.wikipedia.org/wiki/x64 "wikilink")版は[Windows Server 2003に対応したPlatform](../Page/Microsoft_Windows_Server_2003.md "wikilink") SDKの版から付属している。なお、両者共にマイクロソフトへ連絡するとVisual C++ .NET 2003付属ライブラリの64ビット版を取り寄せることができる。
+[Visual C++ 2005が公開されるまで](../Page/Microsoft_Visual_C++.md "wikilink")、Platform SDKが64ビット用Visual C++コンパイラを入手する唯一の手段であった。また、標準ライブラリの[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")版も付属し、Visual C++ 6付属ライブラリの[IA-64](../Page/IA-64.md "wikilink")版は2003年2月に公開された版から、[x64](https://ja.wikipedia.org/wiki/x64 "wikilink")版は[Windows Server 2003に対応したPlatform](../Page/Microsoft_Windows_Server_2003.md "wikilink") SDKの版から付属している。なお、両者共にマイクロソフトへ連絡するとVisual C++ .NET 2003付属ライブラリの64ビット版を取り寄せることができる。
 
 ## DirectX SDKとの関連
 
-[Windows 7](../Page/Microsoft_Windows_7.md "wikilink") までは、Windows用マルチメディアAPIセットである[DirectXの開発キット](https://ja.wikipedia.org/wiki/Microsoft_DirectX "wikilink")「**DirectX SDK**」は、Windows SDKとは別に提供されていたが、一部のヘッダやインポートライブラリ（[Direct3D](https://ja.wikipedia.org/wiki/Direct3D "wikilink")、[Direct2D](https://ja.wikipedia.org/wiki/Direct2D "wikilink")、[DirectInput](../Page/DirectInput.md "wikilink")、[XInputなど](https://ja.wikipedia.org/wiki/DirectInput#XInput "wikilink")）はWindows SDKにも含まれるため、DirectX SDKなしでも一応DirectX APIを利用した開発は可能となっていた。ただし、ファイルのバージョンが最新のDirectX SDKに含まれるものと比べて古く（例えばWindows SDK 7.1のD3DCommon.hはDirectX SDK June 2010のそれよりも古く、定義されていないシンボルが多数ある）、また「D3DX（Direct3D 拡張ライブラリ）」のようなユーティリティライブラリ、および開発用の各種ツール類（スタンドアロンの[HLSL](https://ja.wikipedia.org/wiki/HLSL "wikilink")コンパイラやテクスチャ編集ツールなど）は含まれていなかった。
+[Windows 7](../Page/Microsoft_Windows_7.md "wikilink") までは、Windows用マルチメディアAPIセットである[DirectXの開発キット](https://ja.wikipedia.org/wiki/Microsoft_DirectX "wikilink")「**DirectX SDK**」は、Windows SDKとは別に提供されていたが、一部のヘッダやインポートライブラリ（[Direct3D](../Page/Direct3D.md "wikilink")、[Direct2D](https://ja.wikipedia.org/wiki/Direct2D "wikilink")、[DirectInput](../Page/DirectInput.md "wikilink")、[XInputなど](https://ja.wikipedia.org/wiki/DirectInput#XInput "wikilink")）はWindows SDKにも含まれるため、DirectX SDKなしでも一応DirectX APIを利用した開発は可能となっていた。ただし、ファイルのバージョンが最新のDirectX SDKに含まれるものと比べて古く（例えばWindows SDK 7.1のD3DCommon.hはDirectX SDK June 2010のそれよりも古く、定義されていないシンボルが多数ある）、また「D3DX（Direct3D 拡張ライブラリ）」のようなユーティリティライブラリ、および開発用の各種ツール類（スタンドアロンの[HLSL](https://ja.wikipedia.org/wiki/HLSL "wikilink")コンパイラやテクスチャ編集ツールなど）は含まれていなかった。
 
 2005年4月、[DirectShow](https://ja.wikipedia.org/wiki/DirectShow "wikilink")がDirectX SDKからPlatform SDKへ移管された。そのときからDirectShowのサンプルもPlatform SDK（Windows SDK）に収録されているが、これをビルドするには依然としてDirectX SDKが必要である。
 
@@ -34,7 +34,7 @@
 
 ## 関連項目
 
-  - [Windows API](https://ja.wikipedia.org/wiki/Windows_API "wikilink")
+  - [Windows API](../Page/Windows_API.md "wikilink")
   - [ソフトウェア開発キット](../Page/ソフトウェア開発キット.md "wikilink") (SDK)
   - [Windows Driver Kit](../Page/Windows_Driver_Kit.md "wikilink")
 

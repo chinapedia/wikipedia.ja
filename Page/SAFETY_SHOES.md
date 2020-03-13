@@ -16,7 +16,7 @@
 ## メンバー
 
   - **桜井敏郎**（さくらい としお、[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink") - ）
-      - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")、[キーボード担当](../Page/キーボード_\(楽器\).md "wikilink")。兵庫県加古川市出身。[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")、[作曲](../Page/作曲.md "wikilink")を行う。[レコーディング・ミキシングエンジニアでもある](../Page/レコーディング・エンジニア.md "wikilink")。
+      - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")、[キーボード担当](../Page/キーボード_\(楽器\).md "wikilink")。兵庫県加古川市出身。[作詞](../Page/作詞.md "wikilink")、[作曲](../Page/作曲.md "wikilink")を行う。[レコーディング・ミキシングエンジニアでもある](../Page/レコーディング・エンジニア.md "wikilink")。
   - **西村悟志**（にしむら さとし、[3月4日](../Page/3月4日.md "wikilink") - ）
       - [ドラムス](../Page/ドラムセット.md "wikilink")、[コーラス担当](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。富山県富山市出身。[ミューズ音楽院](https://ja.wikipedia.org/wiki/ミューズ音楽院 "wikilink")のドラム講師でもある。
 
@@ -34,7 +34,7 @@
 ### アルバム
 
 1.  Good Morning（2004年7月25日、SMSS-001）
-      - [タワーレコード](../Page/タワーレコード.md "wikilink")インディーズチャート1位、[新星堂](https://ja.wikipedia.org/wiki/新星堂 "wikilink")インディーズチャート9位記録。
+      - [タワーレコード](../Page/タワーレコード.md "wikilink")インディーズチャート1位、[新星堂](../Page/新星堂.md "wikilink")インディーズチャート9位記録。
 2.  REGENERATE（2005年3月6日、MUSE-0102）
       - 「風の丘に寝転んで」：[Inter FM](https://ja.wikipedia.org/wiki/エフエムインターウェーブ "wikilink")『Early Bird』2005年5月度テーマソング
 3.  Big Smile（2006年7月14日、SMSS-002）
@@ -46,7 +46,7 @@
 
 ## バンド名の由来
 
-結成当時、桜井が[Dr.Martensのブーツを履いていたことから](../Page/ドクターマーチン.md "wikilink")、桜井の幼馴染である[Handsome JETが命名](https://ja.wikipedia.org/wiki/Handsome_JET_Project "wikilink")。メンバーチェンジなどでこれまで何度かバンド名の変更を検討するも、「昔からJETの口癖は『死んだら、みんな自分のことなんか忘れる』だった。名前を変えない限り、あいつのことを忘れることはないから」（桜井）という理由で今も使い続けている。
+結成当時、桜井が[Dr.Martensのブーツを履いていたことから](../Page/ドクターマーチン.md "wikilink")、桜井の幼馴染である[Handsome JETが命名](../Page/Handsome_JET_Project.md "wikilink")。メンバーチェンジなどでこれまで何度かバンド名の変更を検討するも、「昔からJETの口癖は『死んだら、みんな自分のことなんか忘れる』だった。名前を変えない限り、あいつのことを忘れることはないから」（桜井）という理由で今も使い続けている。
 
 ## 出演
 

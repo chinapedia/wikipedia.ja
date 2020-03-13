@@ -1,11 +1,11 @@
 > この記事は[ALL THE BEST](https://ja.wikipedia.org/wiki/ALL_THE_BEST)から翻訳されています。
 
 
-『**ALL THE BEST**』（オール・ザ・ベスト）は、[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")発売。
+『**ALL THE BEST**』（オール・ザ・ベスト）は、[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")発売。
 
 ## 概要
 
-デビューから5周年を迎え、これまでに発表した楽曲（リミックス含む）も100曲を超えた記念となる初のベストアルバム。 A面、ダブルA面、トリプルA面全てのシングルタイトル曲（DISC2の8曲目までは発売順に収録）を収録したシングルコレクション的作品だが、[Crystal Kayとのコラボレーション楽曲](https://ja.wikipedia.org/wiki/Crystal_Kay "wikilink")「Two As One」、[松尾潔](https://ja.wikipedia.org/wiki/松尾潔 "wikilink")を再びプロデューサーに迎えての新曲「Top of the World」も収録している。なお、「Top of the World」は[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月6日](../Page/12月6日.md "wikilink")にリカットシングルとしてもリリース。
+デビューから5周年を迎え、これまでに発表した楽曲（リミックス含む）も100曲を超えた記念となる初のベストアルバム。 A面、ダブルA面、トリプルA面全てのシングルタイトル曲（DISC2の8曲目までは発売順に収録）を収録したシングルコレクション的作品だが、[Crystal Kayとのコラボレーション楽曲](https://ja.wikipedia.org/wiki/Crystal_Kay "wikilink")「Two As One」、[松尾潔](https://ja.wikipedia.org/wiki/松尾潔 "wikilink")を再びプロデューサーに迎えての新曲「Top of the World」も収録している。なお、「Top of the World」は[2006年](../Page/2006年.md "wikilink")[12月6日](../Page/12月6日.md "wikilink")にリカットシングルとしてもリリース。
 
 初回盤はライブツアー「CHEMISTRY 2006 TOUR fo(u)r」の[さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")公演の模様、[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")男子ボーカリスト[オーディション](../Page/オーディション.md "wikilink")のダイジェスト映像を収録した[DVD](../Page/DVD.md "wikilink")付きの3枚組。DVDの単体発売は予定されていないが、同内容を収録した[Blu-ray Discが同時発売](../Page/Blu-ray_Disc.md "wikilink")。
 
@@ -15,7 +15,7 @@
 
 ### Disc 1：2001-2003
 
-1.  **[PIECES OF A DREAM](https://ja.wikipedia.org/wiki/PIECES_OF_A_DREAM "wikilink")**
+1.  **[PIECES OF A DREAM](../Page/PIECES_OF_A_DREAM.md "wikilink")**
       -
         1stシングル。
 2.  **[Point of No Return](https://ja.wikipedia.org/wiki/Point_of_No_Return/君をさがしてた_〜The_Wedding_Song〜 "wikilink")**
@@ -39,7 +39,7 @@
 8.  **[MOVE ON](https://ja.wikipedia.org/wiki/It_Takes_Two "wikilink")**
       -
         6thシングルの3曲目。
-9.  **[My Gift to You](https://ja.wikipedia.org/wiki/My_Gift_to_You "wikilink") / CHEMISTRY meets [S.O.S.](../Page/Skoop_On_Somebody.md "wikilink")**
+9.  **[My Gift to You](../Page/My_Gift_to_You.md "wikilink") / CHEMISTRY meets [S.O.S.](../Page/Skoop_On_Somebody.md "wikilink")**
       -
         7thシングル。
 10. **[アシタヘカエル](https://ja.wikipedia.org/wiki/アシタヘカエル/Us "wikilink")**
@@ -60,7 +60,7 @@
 
 ### Disc 2：2004-2006
 
-1.  **[So in Vain](https://ja.wikipedia.org/wiki/So_in_Vain "wikilink")**
+1.  **[So in Vain](../Page/So_in_Vain.md "wikilink")**
       -
         10thシングル。
 2.  **[mirage in blue](https://ja.wikipedia.org/wiki/mirage_in_blue/いとしい人\(Single_Ver.\) "wikilink")**
@@ -69,16 +69,16 @@
 3.  **[いとしい人 (Single Ver.)](https://ja.wikipedia.org/wiki/mirage_in_blue/いとしい人\(Single_Ver.\) "wikilink")**
       -
         11thシングルの2曲目。
-4.  **[Long Long Way](https://ja.wikipedia.org/wiki/Long_Long_Way "wikilink")**
+4.  **[Long Long Way](../Page/Long_Long_Way.md "wikilink")**
       -
         12thシングル。
-5.  **[白の吐息](https://ja.wikipedia.org/wiki/白の吐息 "wikilink")**
+5.  **[白の吐息](../Page/白の吐息.md "wikilink")**
       -
         13thシングル。
 6.  **[キミがいる](../Page/キミがいる_\(CHEMISTRYの曲\).md "wikilink")**
       -
         14thシングル。
-7.  **[Wings of Words](https://ja.wikipedia.org/wiki/Wings_of_Words "wikilink")**
+7.  **[Wings of Words](../Page/Wings_of_Words.md "wikilink")**
       -
         15thシングル。
 8.  **[almost in love](https://ja.wikipedia.org/wiki/almost_in_love "wikilink")**
@@ -86,7 +86,7 @@
         16thシングル。
 9.  **[Two As One](../Page/Two_As_One.md "wikilink") / CHEMISTRY × Crystal Kay**
       -
-        [Crystal KayとCHEMISTRYの](https://ja.wikipedia.org/wiki/Crystal_Kay "wikilink")[コラボレーション](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")シングル。
+        [Crystal KayとCHEMISTRYの](https://ja.wikipedia.org/wiki/Crystal_Kay "wikilink")[コラボレーション](../Page/コラボレーション.md "wikilink")シングル。
 10. **[約束の場所](../Page/約束の場所_\(CHEMISTRYの曲\).md "wikilink")**
       -
         17thシングル。

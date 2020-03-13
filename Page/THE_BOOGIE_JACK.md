@@ -5,7 +5,7 @@
 
 ## 略歴
 
-2000年4月に[中京大学](https://ja.wikipedia.org/wiki/中京大学 "wikilink")で結成され、名古屋を拠点として活動を開始し、ボーカルのヒライシュンタを中心として同じクラブに通う徳田・青山・前任ギタリストの4人組として結成。同年9月にギターの野津を加え現在の編成となる。
+2000年4月に[中京大学](../Page/中京大学.md "wikilink")で結成され、名古屋を拠点として活動を開始し、ボーカルのヒライシュンタを中心として同じクラブに通う徳田・青山・前任ギタリストの4人組として結成。同年9月にギターの野津を加え現在の編成となる。
 
 2002年にミニアルバム『ナミダ流星群』でインディーズデビューし、2004年に[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")より発売したシングル「[プラネットホーム](https://ja.wikipedia.org/wiki/プラネットホーム "wikilink")」でメジャーデビューを果たした。
 
@@ -48,7 +48,7 @@
 <td><p><strong>Yoppe</strong><br />
 （ヨッペ）</p></td>
 <td><p><a href="../Page/9月22日.md" title="wikilink">9月22日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ベース_(弦楽器)" title="wikilink">ベース</a></p></td>
+<td><p><a href="../Page/ベース_(弦楽器).md" title="wikilink">ベース</a></p></td>
 <td><ul>
 <li><a href="../Page/2017年.md" title="wikilink">2017年</a><a href="../Page/8月.md" title="wikilink">8月</a>に加入。</li>
 </ul></td>
@@ -100,9 +100,9 @@
 ### シングル
 
 1.  [街灯エレジー](https://ja.wikipedia.org/wiki/街灯エレジー "wikilink")（2003年6月6日）
-2.  [プラネットホーム](https://ja.wikipedia.org/wiki/プラネットホーム "wikilink")（2004年5月12日）[TBS](../Page/TBSテレビ.md "wikilink")「[COUNT DOWN TV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")」2004年5月エンディングテーマ
+2.  [プラネットホーム](https://ja.wikipedia.org/wiki/プラネットホーム "wikilink")（2004年5月12日）[TBS](../Page/TBSテレビ.md "wikilink")「[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")」2004年5月エンディングテーマ
 3.  [君へカケル](https://ja.wikipedia.org/wiki/君へカケル "wikilink")（2004年10月20日）
-4.  [生きてこそ](https://ja.wikipedia.org/wiki/生きてこそ_\(THE_BOOGIE_JACKの曲\) "wikilink")（2005年5月18日）[日本テレビ](../Page/日本テレビ放送網.md "wikilink")「[音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")2005年5月度エンディングテーマ
+4.  [生きてこそ](https://ja.wikipedia.org/wiki/生きてこそ_\(THE_BOOGIE_JACKの曲\) "wikilink")（2005年5月18日）[日本テレビ](../Page/日本テレビ放送網.md "wikilink")「[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")2005年5月度エンディングテーマ
 5.  [オーイェイ](https://ja.wikipedia.org/wiki/オーイェイ "wikilink")（2005年10月19日）日本テレビ系「[TVおじゃマンボウ](../Page/TVおじゃマンボウ.md "wikilink")」9・10月エンディングテーマ
 6.  [よろしく](https://ja.wikipedia.org/wiki/よろしく "wikilink")（2006年8月18日）
 
@@ -137,9 +137,9 @@
 
 ## 関連項目
 
-  - [東海ラジオミッドナイトスペシャル](https://ja.wikipedia.org/wiki/東海ラジオミッドナイトスペシャル "wikilink")
-  - [Monthly A Music](https://ja.wikipedia.org/wiki/Monthly_A_Music "wikilink")
-  - [MUSIC9](https://ja.wikipedia.org/wiki/MUSIC9 "wikilink")
+  - [東海ラジオミッドナイトスペシャル](../Page/東海ラジオミッドナイトスペシャル.md "wikilink")
+  - [Monthly A Music](../Page/Monthly_A_Music.md "wikilink")
+  - [MUSIC9](../Page/MUSIC9.md "wikilink")
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ポニーキャニオンのアーティスト](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアーティスト "wikilink") [Category:名古屋市出身の人物](https://ja.wikipedia.org/wiki/Category:名古屋市出身の人物 "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink") [Category:2000年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2000年に結成した音楽グループ "wikilink")
 

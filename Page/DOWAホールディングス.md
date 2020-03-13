@@ -1,7 +1,7 @@
 > この記事は[DOWA](https://ja.wikipedia.org/wiki/DOWA)から翻訳されています。
 
 
-**DOWAホールディングス株式会社**（どうわホールディングス、[英社名](../Page/英語.md "wikilink")：*DOWA Holdings Co., Ltd.*）は、[非鉄金属](https://ja.wikipedia.org/wiki/非鉄金属 "wikilink")の[製錬](https://ja.wikipedia.org/wiki/製錬 "wikilink")、[加工](../Page/金属加工.md "wikilink")、[環境](../Page/環境.md "wikilink")・[リサイクル](../Page/リサイクル.md "wikilink")を主たる業務とする\[1\][DOWAグループの](https://ja.wikipedia.org/wiki/#DOWAグループ "wikilink")[持株会社](../Page/持株会社.md "wikilink")\[2\]。旧社名**同和鉱業**。かつては「**藤田組**（ふじたぐみ）」と呼ばれて[藤田財閥](../Page/藤田財閥.md "wikilink")の中核企業であった。なお、かつて同じく「藤田組」と称していた[準大手](https://ja.wikipedia.org/wiki/準大手 "wikilink")[ゼネコン](../Page/ゼネコン.md "wikilink")の[フジタ](../Page/フジタ.md "wikilink")とは資本関係はない。
+**DOWAホールディングス株式会社**（どうわホールディングス、[英社名](../Page/英語.md "wikilink")：*DOWA Holdings Co., Ltd.*）は、[非鉄金属](../Page/非鉄金属.md "wikilink")の[製錬](../Page/製錬.md "wikilink")、[加工](../Page/金属加工.md "wikilink")、[環境](../Page/環境.md "wikilink")・[リサイクル](../Page/リサイクル.md "wikilink")を主たる業務とする\[1\][DOWAグループの](https://ja.wikipedia.org/wiki/#DOWAグループ "wikilink")[持株会社](../Page/持株会社.md "wikilink")\[2\]。旧社名**同和鉱業**。かつては「**藤田組**（ふじたぐみ）」と呼ばれて[藤田財閥](../Page/藤田財閥.md "wikilink")の中核企業であった。なお、かつて同じく「藤田組」と称していた[準大手](https://ja.wikipedia.org/wiki/準大手 "wikilink")[ゼネコン](../Page/ゼネコン.md "wikilink")の[フジタ](../Page/フジタ.md "wikilink")とは資本関係はない。
 
 ## 沿革
 
@@ -10,9 +10,9 @@
   - [1880年](../Page/1880年.md "wikilink")（明治13年） - [愛媛県](../Page/愛媛県.md "wikilink")の[市ノ川鉱山](https://ja.wikipedia.org/wiki/市ノ川鉱山 "wikilink")の経営に関与して鉱業に進出。
   - [1881年](../Page/1881年.md "wikilink")（明治14年） - **藤田組**に社名変更。
   - [1884年](../Page/1884年.md "wikilink")（明治17年）9月 - 政府から[小坂鉱山](../Page/小坂鉱山.md "wikilink")の払い下げを受ける。
-  - [1887年](../Page/1887年.md "wikilink")（明治20年） - [大倉組](https://ja.wikipedia.org/wiki/大倉組 "wikilink")の[大倉喜八郎](https://ja.wikipedia.org/wiki/大倉喜八郎 "wikilink")と組んで[土木事業](https://ja.wikipedia.org/wiki/土木事業 "wikilink")進出。
-  - [1893年](../Page/1893年.md "wikilink")（明治26年）12月 - 合名会社に改組。同時に軍需・土木事業を大倉組に譲渡（土木事業は現在の[大成建設](https://ja.wikipedia.org/wiki/大成建設 "wikilink")のルーツとなる）。
-  - [1899年](../Page/1899年.md "wikilink")（明治32年）5月 - [本山彦一](https://ja.wikipedia.org/wiki/本山彦一 "wikilink")の元で[児島湾](https://ja.wikipedia.org/wiki/児島湾 "wikilink")[干拓](../Page/干拓.md "wikilink")事業を開始（6年後に完成）、また同じ頃、[久原房之助](https://ja.wikipedia.org/wiki/久原房之助 "wikilink")（創業に関与した伝三郎の次兄の息子）が鉱山事業の立て直しに成功する。
+  - [1887年](../Page/1887年.md "wikilink")（明治20年） - [大倉組](https://ja.wikipedia.org/wiki/大倉組 "wikilink")の[大倉喜八郎](../Page/大倉喜八郎.md "wikilink")と組んで[土木事業](https://ja.wikipedia.org/wiki/土木事業 "wikilink")進出。
+  - [1893年](../Page/1893年.md "wikilink")（明治26年）12月 - 合名会社に改組。同時に軍需・土木事業を大倉組に譲渡（土木事業は現在の[大成建設](../Page/大成建設.md "wikilink")のルーツとなる）。
+  - [1899年](../Page/1899年.md "wikilink")（明治32年）5月 - [本山彦一](https://ja.wikipedia.org/wiki/本山彦一 "wikilink")の元で[児島湾](../Page/児島湾.md "wikilink")[干拓](../Page/干拓.md "wikilink")事業を開始（6年後に完成）、また同じ頃、[久原房之助](../Page/久原房之助.md "wikilink")（創業に関与した伝三郎の次兄の息子）が鉱山事業の立て直しに成功する。
   - [1905年](../Page/1905年.md "wikilink")（明治38年） - 共同経営者として名を連ねていた伝三郎の長兄の息子達が独立（次兄の子である久原房之助はその2年前に独立）したため、伝三郎の単独経営となる。
   - [1911年](../Page/1911年.md "wikilink")（明治44年） - [大阪亜鉛鉱業](https://ja.wikipedia.org/wiki/大阪亜鉛鉱業 "wikilink")を設立。
   - [1915年](../Page/1915年.md "wikilink")（[大正](../Page/大正.md "wikilink")4年）4月 - [花岡鉱山](../Page/花岡鉱山.md "wikilink")を買収。
@@ -26,7 +26,7 @@
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（[平成](../Page/平成.md "wikilink")2年）1月 - 同和興産株式会社を合併。
   - [1991年](../Page/1991年.md "wikilink")（平成3年）4月 - 東京熱処理工業株式会社を合併、サーモテック事業本部を設置。
   - [2000年](../Page/2000年.md "wikilink")（平成12年）4月 - [社内カンパニー](../Page/社内カンパニー.md "wikilink")制を導入。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）10月 - **DOWAホールディングス株式会社**に社名変更、[持株会社](../Page/持株会社.md "wikilink")制に移行。事業会社[DOWAメタルマイン](../Page/DOWAメタルマイン.md "wikilink")、[DOWAエコシステム](../Page/DOWAエコシステム.md "wikilink")、[DOWAエレクトロニクス](https://ja.wikipedia.org/wiki/DOWAエレクトロニクス "wikilink")、[DOWAメタルテック](https://ja.wikipedia.org/wiki/DOWAメタルテック "wikilink")、[DOWAサーモテック](https://ja.wikipedia.org/wiki/DOWAサーモテック "wikilink")を設立。
+  - [2006年](../Page/2006年.md "wikilink")（平成18年）10月 - **DOWAホールディングス株式会社**に社名変更、[持株会社](../Page/持株会社.md "wikilink")制に移行。事業会社[DOWAメタルマイン](../Page/DOWAメタルマイン.md "wikilink")、[DOWAエコシステム](../Page/DOWAエコシステム.md "wikilink")、[DOWAエレクトロニクス](https://ja.wikipedia.org/wiki/DOWAエレクトロニクス "wikilink")、[DOWAメタルテック](https://ja.wikipedia.org/wiki/DOWAメタルテック "wikilink")、[DOWAサーモテック](https://ja.wikipedia.org/wiki/DOWAサーモテック "wikilink")を設立。
 
 なお、藤田興業㈱から観光部門が分離・独立して設立された会社が藤田観光㈱であることから、DOWAは現在でも藤田観光の株式のうち31.8%を保有している。
 
@@ -34,7 +34,7 @@
 
 ### 事業会社
 
-  - [DOWAメタルマイン](../Page/DOWAメタルマイン.md "wikilink")株式会社（[製錬](https://ja.wikipedia.org/wiki/製錬 "wikilink")事業）
+  - [DOWAメタルマイン](../Page/DOWAメタルマイン.md "wikilink")株式会社（[製錬](../Page/製錬.md "wikilink")事業）
   - [DOWAエコシステム](../Page/DOWAエコシステム.md "wikilink")株式会社（[環境](../Page/環境.md "wikilink")・[リサイクル](../Page/リサイクル.md "wikilink")事業）
   - [DOWAエレクトロニクス](https://ja.wikipedia.org/wiki/DOWAエレクトロニクス "wikilink")株式会社（[電子](https://ja.wikipedia.org/wiki/電子 "wikilink")材料事業）
   - [DOWAメタルテック](https://ja.wikipedia.org/wiki/DOWAメタルテック "wikilink")株式会社（[金属加工](../Page/金属加工.md "wikilink")事業）

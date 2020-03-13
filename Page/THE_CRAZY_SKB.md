@@ -9,7 +9,7 @@
 
 ## ミュージシャンとしての活動
 
-[1982年](../Page/1982年.md "wikilink")の中学時代に最初のバンド、[恐悪狂人団](../Page/恐悪狂人団.md "wikilink")を結成する。当初はベース担当だった。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")、[殺害塩化ビニール](../Page/殺害塩化ビニール.md "wikilink")の前身となるインディーズレーベル「人つ目レーベル」を設立し、社長に就任する。[1994年](../Page/1994年.md "wikilink")、メジャーデビュー寸前に解散したバンド[ハイテクノロジー・スーサイド](https://ja.wikipedia.org/wiki/ハイテクノロジー・スーサイド "wikilink")の主要メンバーで[QP-CRAZY](../Page/QP-CRAZY.md "wikilink")を結成する。[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")で[爆竹](../Page/爆竹.md "wikilink")を炸裂させる、客席に向けて火を放つ、ステージ上で爆竹ボードの上に背中から受け身を取るなどの過激なパフォーマンスを行う。
+[1982年](../Page/1982年.md "wikilink")の中学時代に最初のバンド、[恐悪狂人団](../Page/恐悪狂人団.md "wikilink")を結成する。当初はベース担当だった。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")、[殺害塩化ビニール](../Page/殺害塩化ビニール.md "wikilink")の前身となるインディーズレーベル「人つ目レーベル」を設立し、社長に就任する。[1994年](../Page/1994年.md "wikilink")、メジャーデビュー寸前に解散したバンド[ハイテクノロジー・スーサイド](https://ja.wikipedia.org/wiki/ハイテクノロジー・スーサイド "wikilink")の主要メンバーで[QP-CRAZY](../Page/QP-CRAZY.md "wikilink")を結成する。[ライブハウス](../Page/ライブハウス.md "wikilink")で[爆竹](../Page/爆竹.md "wikilink")を炸裂させる、客席に向けて火を放つ、ステージ上で爆竹ボードの上に背中から受け身を取るなどの過激なパフォーマンスを行う。
 
 ### 主な参加バンド
 
@@ -21,7 +21,7 @@
   - [QP-CRAZY](../Page/QP-CRAZY.md "wikilink")
   - [猛毒](../Page/猛毒.md "wikilink")
   - [怪奇\!\!動物アジテーター](https://ja.wikipedia.org/wiki/怪奇!!動物アジテーター "wikilink")
-      - [d.p.s](https://ja.wikipedia.org/wiki/d.p.s "wikilink")のKENZIと結成した自称「宇宙最凶天才的奇才ユニット」。それぞれ**“[SHEIK](../Page/ザ・シーク.md "wikilink") the CRAZY-SKB”**、**“[BUTCHER](https://ja.wikipedia.org/wiki/アブドーラ・ザ・ブッチャー "wikilink") the CRAZY DANGER KENZI”**と名乗る。
+      - [d.p.s](https://ja.wikipedia.org/wiki/d.p.s "wikilink")のKENZIと結成した自称「宇宙最凶天才的奇才ユニット」。それぞれ**“[SHEIK](../Page/ザ・シーク.md "wikilink") the CRAZY-SKB”**、**“[BUTCHER](../Page/アブドーラ・ザ・ブッチャー.md "wikilink") the CRAZY DANGER KENZI”**と名乗る。
   - 4DIENCE MURDER
       - ギター担当。前身バンド“HEAD WASHER”のボーカル以外のメンバーで結成された。パフォーマンスなどのビジュアル面ではなく純粋に音楽面のみで暴力性を表現する。
   - 殺(KILL)
@@ -35,7 +35,7 @@
 
 元来[プロレス](../Page/プロレス.md "wikilink")ファンであり、特に[ザ・シーク](../Page/ザ・シーク.md "wikilink")のファンだったという。自身のライブで度々プロレスラーとの共演を行っていたが、[2003年](../Page/2003年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")、旧友である[怨霊と共にプロレス団体](../Page/怨霊_\(プロレスラー\).md "wikilink")「[暗黒プロレス組織666（トリプルシックス）](../Page/666_\(プロレス\).md "wikilink")」を旗揚げした。同日の対怪人ひとごろし戦でレスラーデビュー（パートナーは[サバイバル飛田](../Page/サバイバル飛田.md "wikilink")）する。
 
-爆竹や凶器を用いたファイトを主体としており、試合を重ねていくに連れて腕十字を決めるなど、少しずつプロレス技も増やしている。試合中、観客は携帯電話を含めた全ての写真・動画の撮影が禁止される。[サムライTVで試合は放送されるが](https://ja.wikipedia.org/wiki/FIGHTING_TV_サムライ "wikilink")、SKBの攻撃は「なんらかの理由で映像が乱れている」というテロップと共にモザイク処理が施される。過去には[週刊ゴング](../Page/週刊ゴング.md "wikilink")のカメラマンのカメラを燃やしたこともあり、このような派手なファイトスタイルが原因で、[バトルスフィア東京](https://ja.wikipedia.org/wiki/バトルスフィア東京 "wikilink")・[ディファ有明](../Page/ディファ有明.md "wikilink")などから出入り禁止処分を受けた。666が本拠地にしている[新木場1stRING](../Page/新木場1stRING.md "wikilink")は、サムライTVのカメラが壊れ、大事な部分が放送できないという。
+爆竹や凶器を用いたファイトを主体としており、試合を重ねていくに連れて腕十字を決めるなど、少しずつプロレス技も増やしている。試合中、観客は携帯電話を含めた全ての写真・動画の撮影が禁止される。[サムライTVで試合は放送されるが](../Page/FIGHTING_TV_サムライ.md "wikilink")、SKBの攻撃は「なんらかの理由で映像が乱れている」というテロップと共にモザイク処理が施される。過去には[週刊ゴング](../Page/週刊ゴング.md "wikilink")のカメラマンのカメラを燃やしたこともあり、このような派手なファイトスタイルが原因で、[バトルスフィア東京](https://ja.wikipedia.org/wiki/バトルスフィア東京 "wikilink")・[ディファ有明](../Page/ディファ有明.md "wikilink")などから出入り禁止処分を受けた。666が本拠地にしている[新木場1stRING](../Page/新木場1stRING.md "wikilink")は、サムライTVのカメラが壊れ、大事な部分が放送できないという。
 
 ### 得意技
 
@@ -43,7 +43,7 @@
   - 爆竹ポア
       - [爆竹](../Page/爆竹.md "wikilink")を巻いたコートを着用して火を着け、相手に突進（ラリアット、ダイビング・ボディプレス、セントーン・ボム）する技。
   - 窒息シャラポア
-      - [たらい](https://ja.wikipedia.org/wiki/たらい "wikilink")の中に[ドライアイス](../Page/ドライアイス.md "wikilink")とお茶やジュースを入れ、そこにザ・クレイジーSKBが二種類の[洗剤](https://ja.wikipedia.org/wiki/洗剤 "wikilink")を入れてその中に相手の顔を押し付けようとする技。その後たらいの中身を相手にぶちまける。
+      - [たらい](../Page/たらい.md "wikilink")の中に[ドライアイス](../Page/ドライアイス.md "wikilink")とお茶やジュースを入れ、そこにザ・クレイジーSKBが二種類の[洗剤](../Page/洗剤.md "wikilink")を入れてその中に相手の顔を押し付けようとする技。その後たらいの中身を相手にぶちまける。
 
 ### タイトル歴
 

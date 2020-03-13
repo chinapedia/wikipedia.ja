@@ -1,7 +1,7 @@
 > この記事は[LAREINE](https://ja.wikipedia.org/wiki/LAREINE)から翻訳されています。
 
 
-**LAREINE**（ラレーヌ）は、日本の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")ロックバンド。1999年、シングル「fiançailles 〜フィアンサーユ〜」で[SME Recordsからメジャーデビューを果たした](https://ja.wikipedia.org/wiki/エスエムイーレコーズ "wikilink")。
+**LAREINE**（ラレーヌ）は、日本の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")ロックバンド。1999年、シングル「fiançailles 〜フィアンサーユ〜」で[SME Recordsからメジャーデビューを果たした](../Page/エスエムイーレコーズ.md "wikilink")。
 
 メジャーからアルバムを1枚発表後、ヴォーカルのKAMIJOが自らの主宰するレーベルを設立、活動の場をインディーズに戻した。しばらくの活動休止時期を挟みながらも、KAMIJO自身の語る「究極の期待通り」という言葉に相応しい、徹底したスタイルを貫いていたが、2006年10月31日、結成から10年以上にわたる活動に幕を降ろした。
 
@@ -13,7 +13,7 @@
 
 ## 来歴
 
-1994年11月、[MALICE MIZERのスタッフとして知りあったKAMIJO](https://ja.wikipedia.org/wiki/MALICE_MIZER "wikilink")（当時SHOKI）とMAYUを中心に**LALIENE**が結成される。
+1994年11月、[MALICE MIZERのスタッフとして知りあったKAMIJO](../Page/MALICE_MIZER.md "wikilink")（当時SHOKI）とMAYUを中心に**LALIENE**が結成される。
 
 ・LALIENE結成時メンバー SHOKI(Vo.)/MAYU(Gt.)/SAKUREU(Gt.)/鏡花(Dr.)
 
@@ -23,16 +23,16 @@
   - 1997年4月28日 - AKIRA脱退。
   - 1998年8月1日 - 全国ワンマンツアー「TOUR "Freur" 1998 〜白鳥と追想〜」を札幌より開始。
   - 1998年9月27日 - [日本青年館](../Page/日本青年館.md "wikilink")でツアーファイナル「TOUR "Freur" 1998 〜湖底に眠る永遠の花園〜」を行う。
-  - 1999年3月26日 - ツアー"Métamorphose"のファイナルとして[渋谷公会堂](https://ja.wikipedia.org/wiki/渋谷公会堂 "wikilink")でワンマンライブを開催。
-  - 1999年5月26日 - シングル『fiançailles 〜フィアンサーユ〜』で[SME Recordsよりメジャーデビュー](https://ja.wikipedia.org/wiki/エスエムイーレコーズ "wikilink")。
+  - 1999年3月26日 - ツアー"Métamorphose"のファイナルとして[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")でワンマンライブを開催。
+  - 1999年5月26日 - シングル『fiançailles 〜フィアンサーユ〜』で[SME Recordsよりメジャーデビュー](../Page/エスエムイーレコーズ.md "wikilink")。
   - 1999年7月18日 - 全国ワンマンツアー「TOUR "Le vent express" 1999」を徳島より開始。
-  - 1999年8月22日 - [中野サンプラザ](https://ja.wikipedia.org/wiki/中野サンプラザ "wikilink")でツアーファイナル「TOUR "Le vent express" destination」を行う（2DAYS）。
+  - 1999年8月22日 - [中野サンプラザ](../Page/中野サンプラザ.md "wikilink")でツアーファイナル「TOUR "Le vent express" destination」を行う（2DAYS）。
   - 2000年8月6日 - [赤坂ブリッツ](https://ja.wikipedia.org/wiki/赤坂ブリッツ "wikilink")。このライブを最後にKAMIJO以外のメンバーが脱退。
   - 2000年 - KAMIJO主宰のレーベル・[APPLAUSE RECORDSが設立される](https://ja.wikipedia.org/wiki/APPLAUSE_RECORDS "wikilink")。
   - 2001年1月5日 - スタジオミュージシャンを迎えてライブを行う。
   - 2001年3月26日 - 活動休止。KAMIJOはMAYUとNEW SODMYを結成。
 
-2002年10月30,31日に行われたAPPLAUSE RECORDSの主催する恒例の[ハロウィン](https://ja.wikipedia.org/wiki/ハロウィン "wikilink")ライブイベント「HALLOWEEN PARTY "怪夜に集え、美しき羊達"」にて、突如KAMIJO、MAYU、EMIRU、MACHIの4人がステージに現れLAREINEの楽曲を演奏する。その後、LAREINE名義でMAYU、EMIRU、MACHIをゲストプレイヤーとして迎えたアルバム『ETUDE』とその先行シングル『蝶の花 / レッスン』を11,12月に発売。活動休止からちょうど2年目に当たる2003年3月26日に渋谷AXにて復活ライブを行い活動を再開することを発表した。
+2002年10月30,31日に行われたAPPLAUSE RECORDSの主催する恒例の[ハロウィン](../Page/ハロウィン.md "wikilink")ライブイベント「HALLOWEEN PARTY "怪夜に集え、美しき羊達"」にて、突如KAMIJO、MAYU、EMIRU、MACHIの4人がステージに現れLAREINEの楽曲を演奏する。その後、LAREINE名義でMAYU、EMIRU、MACHIをゲストプレイヤーとして迎えたアルバム『ETUDE』とその先行シングル『蝶の花 / レッスン』を11,12月に発売。活動休止からちょうど2年目に当たる2003年3月26日に渋谷AXにて復活ライブを行い活動を再開することを発表した。
 
 2003年年明けより「IMAGE CONCERT TOUR 再会のエチュード」と題し各地で2000年の赤坂ブリッツのライブビデオ上映と復活会見を行い、2003年3月26日、3度目のレコーディングとなったシングル『再会の花』とインディーズ期の音源を集めた2枚のベストアルバム「Reine de fleur」を発売すると共に、[渋谷AX](https://ja.wikipedia.org/wiki/渋谷AX "wikilink")にて「再会の花」と題された復活ワンマンライブを決行する。ステージにはKAMIJOの他、ベースにEMIRU、ドラムに[RIBBON](https://ja.wikipedia.org/wiki/RIBBON "wikilink")で活動を共にしていたKAZUMI、ギターにNEW SODMYのサポートをしていたMOTOKIが立った。 ※MACHIをなぜ再結成のメンバーにしなかったかは、当時MACHIがプロジェクトとして活動していた「Chantons L'amour」をしていたため、KAMIJOが「彼は自分の道を見つけたから」という理由で強くは誘わなかったという。 このことは後の雑誌で明らかにしている。
 
@@ -40,7 +40,7 @@
 
   - 2006年3月 - KAZUMI脱退。
   - 2006年10月1日 - MAYUが7月に失踪し活動が不可能になったことを理由に、無期活動休止を発表。
-  - 2006年10月31日 - [KISAKI](https://ja.wikipedia.org/wiki/KISAKI "wikilink")とKAMIJO共同主催のハロウィンイベントへの出演を最後に、活動を停止した。
+  - 2006年10月31日 - [KISAKI](../Page/KISAKI.md "wikilink")とKAMIJO共同主催のハロウィンイベントへの出演を最後に、活動を停止した。
   - 2007年2月 - KAMIJOとEMIRUの2人で都内にて展示会を開催。
   - 2015年12月28日 - KAMIJOのソロツアーファイナル「KAMIJO World Tour 2015 -20th ANNIVERSARY BEST- JAPAN FINAL」にて、KAMIJO、EMIRU、MAYU、MACHIの4人で一夜限りの再結集を果たした。
 
@@ -237,8 +237,8 @@ LAREINEのファンクラブ。
 
   - [Versailles (バンド)](../Page/Versailles_\(バンド\).md "wikilink")
   - [APPLAUSE RECORDS](https://ja.wikipedia.org/wiki/APPLAUSE_RECORDS "wikilink")
-  - [KISAKI](https://ja.wikipedia.org/wiki/KISAKI "wikilink")
-  - [MALICE MIZER](https://ja.wikipedia.org/wiki/MALICE_MIZER "wikilink")
+  - [KISAKI](../Page/KISAKI.md "wikilink")
+  - [MALICE MIZER](../Page/MALICE_MIZER.md "wikilink")
 
 ## 脚注
 

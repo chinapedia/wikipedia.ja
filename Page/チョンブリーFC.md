@@ -1,13 +1,13 @@
 > この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
 
 
-**チョンブリー・フットボール・クラブ**（, ）は、[タイ中部](../Page/タイ王国.md "wikilink")、[チョンブリー県](https://ja.wikipedia.org/wiki/チョンブリー県 "wikilink")の県都チョンブリーをホームタウンとする、タイプロサッカーリーグ（[タイ・リーグ1](https://ja.wikipedia.org/wiki/タイ・リーグ1 "wikilink")）に加盟するプロサッカークラブ。
+**チョンブリー・フットボール・クラブ**（, ）は、[タイ中部](../Page/タイ王国.md "wikilink")、[チョンブリー県](../Page/チョンブリー県.md "wikilink")の県都チョンブリーをホームタウンとする、タイプロサッカーリーグ（[タイ・リーグ1](https://ja.wikipedia.org/wiki/タイ・リーグ1 "wikilink")）に加盟するプロサッカークラブ。
 
 ## 歴史
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に[プロフェッショナルリーグを制し](../Page/プロヴィンシャル・リーグ.md "wikilink")、翌年から同リーグと合併した[タイ・プレミアリーグへ参加した](https://ja.wikipedia.org/wiki/タイ・リーグ1 "wikilink")。[2007年](../Page/2007年.md "wikilink")度のタイ・プレミアリーグを制し、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")度の[AFCチャンピオンズリーグに出場した](../Page/AFCチャンピオンズリーグ2008.md "wikilink")。ACLでは[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ガンバ大阪](../Page/ガンバ大阪.md "wikilink")や[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")の[全南ドラゴンズ](https://ja.wikipedia.org/wiki/全南ドラゴンズ "wikilink")と引き分け、[オーストラリア](../Page/オーストラリア.md "wikilink")の[メルボルン・ビクトリーFC](../Page/メルボルン・ビクトリーFC.md "wikilink")に勝利するなど旋風を巻き起こしたが終盤失速し、結局グループリーグ4位に終わった。
+[2005年](../Page/2005年.md "wikilink")に[プロフェッショナルリーグを制し](../Page/プロヴィンシャル・リーグ.md "wikilink")、翌年から同リーグと合併した[タイ・プレミアリーグへ参加した](https://ja.wikipedia.org/wiki/タイ・リーグ1 "wikilink")。[2007年](../Page/2007年.md "wikilink")度のタイ・プレミアリーグを制し、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")度の[AFCチャンピオンズリーグに出場した](../Page/AFCチャンピオンズリーグ2008.md "wikilink")。ACLでは[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ガンバ大阪](../Page/ガンバ大阪.md "wikilink")や[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")の[全南ドラゴンズ](../Page/全南ドラゴンズ.md "wikilink")と引き分け、[オーストラリア](../Page/オーストラリア.md "wikilink")の[メルボルン・ビクトリーFC](../Page/メルボルン・ビクトリーFC.md "wikilink")に勝利するなど旋風を巻き起こしたが終盤失速し、結局グループリーグ4位に終わった。
 
-[2007年](../Page/2007年.md "wikilink")11月に[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")・[マンチェスター・シティと契約して話題となったタイの](https://ja.wikipedia.org/wiki/マンチェスター・シティFC "wikilink")3選手のうち、2人（[スリー・スカ](https://ja.wikipedia.org/wiki/スリー・スカ "wikilink")、[キャップラウット・サイワエワ](https://ja.wikipedia.org/wiki/キャップラウット・サイワエワ "wikilink")）がこのクラブ出身。また[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に[JFLの](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")[ガイナーレ鳥取](../Page/ガイナーレ鳥取.md "wikilink")に期限付き移籍した[アドゥール・ラッソ](https://ja.wikipedia.org/wiki/アドゥール・ラッソ "wikilink")も在籍している。
+[2007年](../Page/2007年.md "wikilink")11月に[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")・[マンチェスター・シティと契約して話題となったタイの](../Page/マンチェスター・シティFC.md "wikilink")3選手のうち、2人（[スリー・スカ](https://ja.wikipedia.org/wiki/スリー・スカ "wikilink")、[キャップラウット・サイワエワ](https://ja.wikipedia.org/wiki/キャップラウット・サイワエワ "wikilink")）がこのクラブ出身。また[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に[JFLの](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")[ガイナーレ鳥取](../Page/ガイナーレ鳥取.md "wikilink")に期限付き移籍した[アドゥール・ラッソ](https://ja.wikipedia.org/wiki/アドゥール・ラッソ "wikilink")も在籍している。
 
 選手および指導者として長く[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で過ごした経験のある[ヴィタヤ・ラオハクル](../Page/ヴィタヤ・ラオハクル.md "wikilink")が2011年から2013年まで監督を、2014年からは[テクニカルディレクターを務めており](../Page/テクニカルディレクター_\(スポーツ\).md "wikilink")、日本人の選手やスタッフを加入させてクラブの日本化に強い影響を与えた。
 
@@ -93,7 +93,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/全南ドラゴンズ" title="wikilink">全南ドラゴンズ</a></p></td>
+<td><p><a href="../Page/全南ドラゴンズ.md" title="wikilink">全南ドラゴンズ</a></p></td>
 <td><p>2-2</p></td>
 <td><p>0-1</p></td>
 <td></td>
@@ -103,7 +103,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/AFCカップ2009" title="wikilink">2009</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/AFCカップ" title="wikilink">AFCカップ</a></p></td>
+<td><p><a href="../Page/AFCカップ.md" title="wikilink">AFCカップ</a></p></td>
 <td><p>グループG</p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/イースタンAA" title="wikilink">イースタン</a></p></td>
@@ -153,7 +153,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/AFCカップ2011" title="wikilink">2011</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/AFCカップ" title="wikilink">AFCカップ</a></p></td>
+<td><p><a href="../Page/AFCカップ.md" title="wikilink">AFCカップ</a></p></td>
 <td><p>グループH</p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/イースト・ベンガルFC" title="wikilink">イースト・ベンガル</a></p></td>
@@ -206,14 +206,14 @@
 <td><p><a href="../Page/AFCチャンピオンズリーグ.md" title="wikilink">AFCチャンピオンズリーグ</a></p></td>
 <td><p>プレーオフ</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/浦項スティーラース" title="wikilink">浦項スティーラース</a></p></td>
+<td><p><a href="../Page/浦項スティーラース.md" title="wikilink">浦項スティーラース</a></p></td>
 <td></td>
 <td><p>0-2</p></td>
 <td><p>0-2</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/AFCカップ2012" title="wikilink">2012</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/AFCカップ" title="wikilink">AFCカップ</a></p></td>
+<td><p><a href="../Page/AFCカップ.md" title="wikilink">AFCカップ</a></p></td>
 <td><p>グループG</p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ヤンゴン・ユナイテッドFC" title="wikilink">ヤンゴン・ユナイテッド</a></p></td>
@@ -350,7 +350,7 @@
 
   - [中野遼太郎](https://ja.wikipedia.org/wiki/中野遼太郎 "wikilink") 2017-
 
-**[FW](https://ja.wikipedia.org/wiki/フォワード_\(サッカー\) "wikilink")**
+**[FW](../Page/フォワード_\(サッカー\).md "wikilink")**
 
 ## スタジアム
 

@@ -29,17 +29,17 @@
         21stシングル。[フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")・[できちゃった結婚主題歌](../Page/できちゃった結婚_\(テレビドラマ\).md "wikilink")
 5.  **Primary**
       -
-        作曲：[Dai Nagao](https://ja.wikipedia.org/wiki/長尾大 "wikilink") / 編曲：[tasuku](https://ja.wikipedia.org/wiki/tasuku "wikilink")
+        作曲：[Dai Nagao](../Page/長尾大.md "wikilink") / 編曲：[tasuku](https://ja.wikipedia.org/wiki/tasuku "wikilink")
 6.  **Hi Hi Hi**
       -
         作曲：Zentaro Watanabe
 7.  **[OPEN MIND](https://ja.wikipedia.org/wiki/IS_IT_YOU? "wikilink")**
       -
         作曲：Shintaro Hagiwara
-        21stシングルc/w。hitomi本人が出演した[日本ゼネラルモーターズ](../Page/日本ゼネラルモーターズ.md "wikilink")・[OPEL](https://ja.wikipedia.org/wiki/オペル "wikilink")「[VITA](../Page/オペル・コルサ.md "wikilink")」CMイメージソング
+        21stシングルc/w。hitomi本人が出演した[日本ゼネラルモーターズ](../Page/日本ゼネラルモーターズ.md "wikilink")・[OPEL](../Page/オペル.md "wikilink")「[VITA](../Page/オペル・コルサ.md "wikilink")」CMイメージソング
 8.  **[I am](https://ja.wikipedia.org/wiki/I_am/innocence "wikilink")**
       -
-        作曲：[Masato Kitano](https://ja.wikipedia.org/wiki/北野正人 "wikilink")
+        作曲：[Masato Kitano](../Page/北野正人.md "wikilink")
         22nd両A面シングル。[よみうりテレビ](../Page/讀賣テレビ放送.md "wikilink")・[日本テレビ系アニメ](../Page/日本テレビ放送網.md "wikilink")・[犬夜叉](https://ja.wikipedia.org/wiki/犬夜叉 "wikilink")OP
 9.  **プラスティックタイムマシーン**
       -
@@ -73,9 +73,9 @@
   - [CUNE](https://ja.wikipedia.org/wiki/cune "wikilink")
   - [犬夜叉](https://ja.wikipedia.org/wiki/犬夜叉 "wikilink")
   - [できちゃった結婚](../Page/できちゃった結婚_\(テレビドラマ\).md "wikilink")
-  - [長尾大](https://ja.wikipedia.org/wiki/長尾大 "wikilink")
-  - [北野正人](https://ja.wikipedia.org/wiki/北野正人 "wikilink")
+  - [長尾大](../Page/長尾大.md "wikilink")
+  - [北野正人](../Page/北野正人.md "wikilink")
   - [本間昭光](../Page/本間昭光.md "wikilink")
-  - [2002年の音楽](https://ja.wikipedia.org/wiki/2002年の音楽 "wikilink")
+  - [2002年の音楽](../Page/2002年の音楽.md "wikilink")
 
 [Category:Hitomiのアルバム](https://ja.wikipedia.org/wiki/Category:Hitomiのアルバム "wikilink") [Category:2002年のアルバム](https://ja.wikipedia.org/wiki/Category:2002年のアルバム "wikilink") [Category:オリコン月間アルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間アルバムチャート1位獲得作品 "wikilink") [Category:2002年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2002年のオリコンアルバムチャート1位獲得作品 "wikilink")

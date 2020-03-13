@@ -1,7 +1,7 @@
 > この記事は[Pure \(PAMELAH\)](https://ja.wikipedia.org/wiki/Pure_\(PAMELAH\))から翻訳されています。
 
 
-『**Pure**』（ピュア）は、[PAMELAH](https://ja.wikipedia.org/wiki/PAMELAH "wikilink")の2枚目の[アルバム](../Page/アルバム.md "wikilink")。
+『**Pure**』（ピュア）は、[PAMELAH](../Page/PAMELAH.md "wikilink")の2枚目の[アルバム](../Page/アルバム.md "wikilink")。
 
 ## 概要
 
@@ -11,7 +11,7 @@
 
 1.  **BABY BABY**
       -
-        ビデオクリップが制作されており、「[NO.](https://ja.wikipedia.org/wiki/NO. "wikilink")」や「[CD NEWS](https://ja.wikipedia.org/wiki/CD_NEWS "wikilink")」などでアルバム収録曲の紹介映像として放送されている。『[HIT COLLECTION -CONFIDENCE-](../Page/HIT_COLLECTION_-CONFIDENCE-.md "wikilink")』に収録された際にも同じ映像が使用された。
+        ビデオクリップが制作されており、「[NO.](../Page/NO..md "wikilink")」や「[CD NEWS](https://ja.wikipedia.org/wiki/CD_NEWS "wikilink")」などでアルバム収録曲の紹介映像として放送されている。『[HIT COLLECTION -CONFIDENCE-](../Page/HIT_COLLECTION_-CONFIDENCE-.md "wikilink")』に収録された際にも同じ映像が使用された。
 2.  **忘却の彼方**
 3.  **あなたが離れない**
 4.  **[BLIND LOVE](../Page/BLIND_LOVE.md "wikilink")**
@@ -23,7 +23,7 @@
 10. **君の腕の中で**
 11. **純情**
       -
-        ビデオクリップが制作されており、ヘリからの空撮などが行われた。「[NO.](https://ja.wikipedia.org/wiki/NO. "wikilink")」や「[CD NEWS](https://ja.wikipedia.org/wiki/CD_NEWS "wikilink")」などで放送されている。
+        ビデオクリップが制作されており、ヘリからの空撮などが行われた。「[NO.](../Page/NO..md "wikilink")」や「[CD NEWS](https://ja.wikipedia.org/wiki/CD_NEWS "wikilink")」などで放送されている。
 
 <!-- end list -->
 

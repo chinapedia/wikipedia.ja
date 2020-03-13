@@ -1,17 +1,17 @@
 > この記事は[The ultimate collection](https://ja.wikipedia.org/wiki/The_ultimate_collection)から翻訳されています。
 
 
-『**the ultimate collection**』（ジ・アルティメット・コレクション）は、[鬼束ちひろ](https://ja.wikipedia.org/wiki/鬼束ちひろ "wikilink")の1枚目の[ベストアルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。[2004年](../Page/2004年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")に発売された。
+『**the ultimate collection**』（ジ・アルティメット・コレクション）は、[鬼束ちひろ](https://ja.wikipedia.org/wiki/鬼束ちひろ "wikilink")の1枚目の[ベストアルバム](../Page/ベスト・アルバム.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")に発売された。
 
 ## 解説
 
-[PVを全曲収録したDVD](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")『[the complete clips](https://ja.wikipedia.org/wiki/the_complete_clips "wikilink")』との同時発売となる。初回プレス盤のみスリーブケース仕様となっている。ジャケットやブックレット内の写真は、同年3月にリリース予定で発売中止となったオリジナルアルバムのためにあらかじめ撮られていたものを使用している。
+[PVを全曲収録したDVD](../Page/ミュージック・ビデオ.md "wikilink")『[the complete clips](https://ja.wikipedia.org/wiki/the_complete_clips "wikilink")』との同時発売となる。初回プレス盤のみスリーブケース仕様となっている。ジャケットやブックレット内の写真は、同年3月にリリース予定で発売中止となったオリジナルアルバムのためにあらかじめ撮られていたものを使用している。
 
-既に所属を離れた[東芝EMIからリリースされた初のベストアルバム](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")。選曲は音楽プロデュースを手掛けた羽毛田丈史により、鬼束本人は一切作品に関与していない（現公式サイトのディスコグラフィーにおいても作品名が記載されておらず、非公式扱いとなっている）。なお、今作の再収録に当たり、世界的なエンジニアである[テッド・ジェンセン](https://ja.wikipedia.org/wiki/テッド・ジェンセン "wikilink")による、全曲24ビットデジタルリマスタリングが施されている。
+既に所属を離れた[東芝EMIからリリースされた初のベストアルバム](../Page/EMIミュージック・ジャパン.md "wikilink")。選曲は音楽プロデュースを手掛けた羽毛田丈史により、鬼束本人は一切作品に関与していない（現公式サイトのディスコグラフィーにおいても作品名が記載されておらず、非公式扱いとなっている）。なお、今作の再収録に当たり、世界的なエンジニアである[テッド・ジェンセン](https://ja.wikipedia.org/wiki/テッド・ジェンセン "wikilink")による、全曲24ビットデジタルリマスタリングが施されている。
 
 ## 収録曲
 
-  - 全作詞・作曲:[鬼束ちひろ](https://ja.wikipedia.org/wiki/鬼束ちひろ "wikilink")、編曲:[羽毛田丈史](https://ja.wikipedia.org/wiki/羽毛田丈史 "wikilink")（特記以外）
+  - 全作詞・作曲:[鬼束ちひろ](https://ja.wikipedia.org/wiki/鬼束ちひろ "wikilink")、編曲:[羽毛田丈史](../Page/羽毛田丈史.md "wikilink")（特記以外）
 
 <!-- end list -->
 
@@ -65,7 +65,7 @@
 
 ## 関連項目
 
-  - [羽毛田丈史](https://ja.wikipedia.org/wiki/羽毛田丈史 "wikilink")
-  - [EMIミュージック・ジャパン](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")
+  - [羽毛田丈史](../Page/羽毛田丈史.md "wikilink")
+  - [EMIミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink")
 
 [Category:2004年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:2004年のベスト・アルバム "wikilink") [Category:Virgin_Musicのアルバム](https://ja.wikipedia.org/wiki/Category:Virgin_Musicのアルバム "wikilink") [Category:鬼束ちひろのベスト・アルバム](https://ja.wikipedia.org/wiki/Category:鬼束ちひろのベスト・アルバム "wikilink")

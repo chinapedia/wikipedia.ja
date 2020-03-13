@@ -27,7 +27,7 @@
 
   - CPU
 
-[フリースケール社製i](https://ja.wikipedia.org/wiki/フリースケール・セミコンダクタ "wikilink").MX（[ARM9コア](https://ja.wikipedia.org/wiki/ARMアーキテクチャ "wikilink")）/CPUコア部266MHz駆動
+[フリースケール社製i](../Page/フリースケール・セミコンダクタ.md "wikilink").MX（[ARM9コア](../Page/ARMアーキテクチャ.md "wikilink")）/CPUコア部266MHz駆動
 
   - ディスプレイ
 
@@ -63,7 +63,7 @@
 
   - CPU
 
-[フリースケール社製i](https://ja.wikipedia.org/wiki/フリースケール・セミコンダクタ "wikilink").MX（[ARM11コア](https://ja.wikipedia.org/wiki/ARMアーキテクチャ "wikilink")）/CPUコア部532MHz駆動
+[フリースケール社製i](../Page/フリースケール・セミコンダクタ.md "wikilink").MX（[ARM11コア](../Page/ARMアーキテクチャ.md "wikilink")）/CPUコア部532MHz駆動
 
   - ディスプレイ
 
@@ -84,9 +84,9 @@
   - 無線LAN
     標準でIEEE 802.11bに対応した無線LANチップを搭載しており、無線LANに接続できる環境ならどこでも[インターネット](../Page/インターネット.md "wikilink")にアクセスすることが可能である。アドホックモードもあり、myloが再生している音楽を通信によって、他のmyloで共有することができる。
   - Webブラウズ機能
-    [Opera](https://ja.wikipedia.org/wiki/Opera "wikilink")が[プリインストール](../Page/プリインストール.md "wikilink")されており、無線LANのある環境であればそのままウェブブラウジングができる。その他、[Skype](https://ja.wikipedia.org/wiki/Skype "wikilink")や[Google Talkもプリインストールされており](https://ja.wikipedia.org/wiki/Google_Talk "wikilink")、これらを利用してのチャットも可能である。なお、北米版ではYahoo\! Messengerがインストールされていたが、米Yahoo\!とYahoo\!JAPANとはライセンス形態を異にしているため日本版ではインストールされていない。また、[Flashの再生は不可](../Page/Adobe_Flash.md "wikilink")。
+    [Opera](https://ja.wikipedia.org/wiki/Opera "wikilink")が[プリインストール](../Page/プリインストール.md "wikilink")されており、無線LANのある環境であればそのままウェブブラウジングができる。その他、[Skype](../Page/Skype.md "wikilink")や[Google Talkもプリインストールされており](https://ja.wikipedia.org/wiki/Google_Talk "wikilink")、これらを利用してのチャットも可能である。なお、北米版ではYahoo\! Messengerがインストールされていたが、米Yahoo\!とYahoo\!JAPANとはライセンス形態を異にしているため日本版ではインストールされていない。また、[Flashの再生は不可](../Page/Adobe_Flash.md "wikilink")。
   - 音楽再生
-    音楽配信サイトからダウンロードした音楽ファイルや、[メモリースティック](../Page/メモリースティック.md "wikilink")デュオ、内蔵フラッシュメモリに取り込んだ音楽ファイルを再生できる。再生できる形式は[MP3](../Page/MP3.md "wikilink")と[ATRAC](https://ja.wikipedia.org/wiki/ATRAC "wikilink")（[OpenMG](https://ja.wikipedia.org/wiki/OpenMG "wikilink")対応）、[WMA](https://ja.wikipedia.org/wiki/Windows_Media_Audio "wikilink")（[Windows Media DRM対応](https://ja.wikipedia.org/wiki/Windows_Media_DRM "wikilink")）である。イヤホンのほか、本体に装備しているスピーカーでの視聴も可能。また、日本版では再生した音楽の履歴を[Playlog](../Page/Playlog.md "wikilink")にアップロードできる機能を搭載している。mylo本体に無線LAN機能、ウェブブラウジング機能を搭載していることから、mylo単体でPlaylogにログイン可能。なお、myloでPlaylogにアクセスするとmylo専用の低解像度のページが表示される。
+    音楽配信サイトからダウンロードした音楽ファイルや、[メモリースティック](../Page/メモリースティック.md "wikilink")デュオ、内蔵フラッシュメモリに取り込んだ音楽ファイルを再生できる。再生できる形式は[MP3](../Page/MP3.md "wikilink")と[ATRAC](../Page/ATRAC.md "wikilink")（[OpenMG](https://ja.wikipedia.org/wiki/OpenMG "wikilink")対応）、[WMA](../Page/Windows_Media_Audio.md "wikilink")（[Windows Media DRM対応](https://ja.wikipedia.org/wiki/Windows_Media_DRM "wikilink")）である。イヤホンのほか、本体に装備しているスピーカーでの視聴も可能。また、日本版では再生した音楽の履歴を[Playlog](../Page/Playlog.md "wikilink")にアップロードできる機能を搭載している。mylo本体に無線LAN機能、ウェブブラウジング機能を搭載していることから、mylo単体でPlaylogにログイン可能。なお、myloでPlaylogにアクセスするとmylo専用の低解像度のページが表示される。
     メインCPUとは別途に再生用のチップを搭載しているため、音楽を再生しつつWebブラウズなどの動作を行うことも可能。
   - 動画再生
     [MPEG-4](../Page/MPEG-4.md "wikilink")フォーマット（いわゆるメモリースティックフォーマット）の動画を再生できる。
@@ -124,13 +124,13 @@ MPEG-4 AVC(H.264)の再生が可能となっている。
 ## 関連項目
 
   - [ソニー](../Page/ソニー.md "wikilink")
-  - [PlayStation Portable](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")
+  - [PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")
   - [CLIE](../Page/CLIE.md "wikilink")
   - [Opera](https://ja.wikipedia.org/wiki/Opera "wikilink")
   - [Playlog](../Page/Playlog.md "wikilink")
   - [Xperia](https://ja.wikipedia.org/wiki/Xperia "wikilink") - myloの後継にあたる[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")
   - [Walkman](https://ja.wikipedia.org/wiki/Walkman "wikilink")
-  - [ソニーモバイルコミュニケーションズ](https://ja.wikipedia.org/wiki/ソニーモバイルコミュニケーションズ "wikilink")
+  - [ソニーモバイルコミュニケーションズ](../Page/ソニーモバイルコミュニケーションズ.md "wikilink")
 
 ## 外部リンク
 

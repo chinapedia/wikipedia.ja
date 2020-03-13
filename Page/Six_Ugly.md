@@ -1,7 +1,7 @@
 > この記事は[Six Ugly](https://ja.wikipedia.org/wiki/Six_Ugly)から翻訳されています。
 
 
-『**six Ugly**』（シックス・アグリー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のバンド[Dir en greyの](https://ja.wikipedia.org/wiki/DIR_EN_GREY "wikilink")[メジャーミニアルバム](https://ja.wikipedia.org/wiki/メジャーレーベル "wikilink")。シングル「[Child prey](../Page/Child_prey.md "wikilink")」と二枚同時発売。
+『**six Ugly**』（シックス・アグリー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のバンド[Dir en greyの](../Page/DIR_EN_GREY.md "wikilink")[メジャーミニアルバム](https://ja.wikipedia.org/wiki/メジャーレーベル "wikilink")。シングル「[Child prey](../Page/Child_prey.md "wikilink")」と二枚同時発売。
 
 ## 概要
 
@@ -19,7 +19,7 @@
 2.  **Ugly**
     (作詞:京 作曲:Shinya 編曲:Dir en grey)
       -
-        デモ音源の段階から[不思議](https://ja.wikipedia.org/wiki/不思議 "wikilink")な[雰囲気](https://ja.wikipedia.org/wiki/雰囲気 "wikilink")であったという曲。「不思議な雰囲気はそのままに、ガンガンに乗れる曲」というアレンジを心がけたとのこと。\[4\]、手がけた[Shinya](https://ja.wikipedia.org/wiki/Shinya "wikilink")曰く、前作『鬼葬』の曲選の際にバンドの変化に乗り遅れて曲が採用されなかったことから、とにかくその方向性に持っていこうと作ってきたと語っている。
+        デモ音源の段階から[不思議](https://ja.wikipedia.org/wiki/不思議 "wikilink")な[雰囲気](https://ja.wikipedia.org/wiki/雰囲気 "wikilink")であったという曲。「不思議な雰囲気はそのままに、ガンガンに乗れる曲」というアレンジを心がけたとのこと。\[4\]、手がけた[Shinya](../Page/Shinya.md "wikilink")曰く、前作『鬼葬』の曲選の際にバンドの変化に乗り遅れて曲が採用されなかったことから、とにかくその方向性に持っていこうと作ってきたと語っている。
 3.  **HADES**
     (作詞・作曲:京 編曲:Dir en grey)
       -

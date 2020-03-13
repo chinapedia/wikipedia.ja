@@ -1,19 +1,19 @@
 > この記事は[SunMin](https://ja.wikipedia.org/wiki/SunMin)から翻訳されています。
 
 
-**SunMin**（ソンミン、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[6月4日](../Page/6月4日.md "wikilink") - ）は、[大韓民国](../Page/大韓民国.md "wikilink")[大邱広域市](../Page/大邱広域市.md "wikilink")出身の[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")。[身長](https://ja.wikipedia.org/wiki/身長 "wikilink")163[cm](../Page/センチメートル.md "wikilink")。
+**SunMin**（ソンミン、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[6月4日](../Page/6月4日.md "wikilink") - ）は、[大韓民国](../Page/大韓民国.md "wikilink")[大邱広域市](../Page/大邱広域市.md "wikilink")出身の[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")。[身長](../Page/身長.md "wikilink")163[cm](../Page/センチメートル.md "wikilink")。
 
-憧れであったという[久保田利伸](https://ja.wikipedia.org/wiki/久保田利伸 "wikilink")との[コラボレートにより](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")、**SunMin thanX Kubota**名義で[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月5日](../Page/7月5日.md "wikilink")に[シングル](../Page/シングル.md "wikilink")『Keep Holding U』でデビュー。同年12月には『恋の奇跡』でソロデビュー。
+憧れであったという[久保田利伸](../Page/久保田利伸.md "wikilink")との[コラボレートにより](../Page/コラボレーション.md "wikilink")、**SunMin thanX Kubota**名義で[2006年](../Page/2006年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink")に[シングル](../Page/シングル.md "wikilink")『Keep Holding U』でデビュー。同年12月には『恋の奇跡』でソロデビュー。
 
 ## 人物
 
   - [趣味](https://ja.wikipedia.org/wiki/趣味 "wikilink")は[音楽鑑賞](https://ja.wikipedia.org/wiki/音楽鑑賞 "wikilink")。主に海外のアーティスト達の曲を、歌詞の意味をよく考えながら聴いている。
-  - 好きなアーティストに[クリスティーナ・アギレラ](https://ja.wikipedia.org/wiki/クリスティーナ・アギレラ "wikilink")、[アリシア・キーズ](https://ja.wikipedia.org/wiki/アリシア・キーズ "wikilink")、[ビヨンセ](https://ja.wikipedia.org/wiki/ビヨンセ "wikilink")、火曜飛(ファヨビ)、[久保田利伸](https://ja.wikipedia.org/wiki/久保田利伸 "wikilink")、[Crystal Kayなどを挙げている](https://ja.wikipedia.org/wiki/Crystal_Kay "wikilink")。
+  - 好きなアーティストに[クリスティーナ・アギレラ](../Page/クリスティーナ・アギレラ.md "wikilink")、[アリシア・キーズ](../Page/アリシア・キーズ.md "wikilink")、[ビヨンセ](../Page/ビヨンセ.md "wikilink")、火曜飛(ファヨビ)、[久保田利伸](../Page/久保田利伸.md "wikilink")、[Crystal Kayなどを挙げている](https://ja.wikipedia.org/wiki/Crystal_Kay "wikilink")。
   - 相談を受けることを得意としている。恋愛相談から、普段困っている事まで、誰の相談でも受けている。
   - 運動は苦手。
   - 長所はポジティブ思考。
   - 短所はいろいろと考えちゃうところ。
-  - 好きな食べ物は[お寿司](https://ja.wikipedia.org/wiki/寿司 "wikilink")、[タバスコ](../Page/タバスコ.md "wikilink")、[チョコレート](https://ja.wikipedia.org/wiki/チョコレート "wikilink")。
+  - 好きな食べ物は[お寿司](../Page/寿司.md "wikilink")、[タバスコ](../Page/タバスコ.md "wikilink")、[チョコレート](https://ja.wikipedia.org/wiki/チョコレート "wikilink")。
   - 好きなファッションアイテムは[ブーツ](https://ja.wikipedia.org/wiki/ブーツ "wikilink")。
   - 好きな異性のタイプはカリスマ性のある人。
 
@@ -26,7 +26,7 @@
 <!-- end list -->
 
 1.  **Keep Holding U**（2006年7月5日、[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")）
-      - [映画](../Page/日本映画.md "wikilink")『[日本沈没](https://ja.wikipedia.org/wiki/日本沈没#映画（リメイク） "wikilink")』[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")（2006年7月15日公開、東宝配給）
+      - [映画](../Page/日本映画.md "wikilink")『[日本沈没](https://ja.wikipedia.org/wiki/日本沈没#映画（リメイク） "wikilink")』[主題歌](../Page/主題歌.md "wikilink")（2006年7月15日公開、東宝配給）
 
 <!-- end list -->
 
@@ -38,7 +38,7 @@
       - [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[奇跡体験\!アンビリバボー](../Page/奇跡体験!アンビリバボー.md "wikilink")』[エンディングテーマ](https://ja.wikipedia.org/wiki/主題歌#エンディングテーマ "wikilink")
 2.  **Love You.**／**The Rose**（2007年2月28日、ビクターエンタテインメント）
       - Love You. - フジテレビ系『[金曜プレステージ](../Page/金曜プレステージ.md "wikilink")』[オープニングテーマ](https://ja.wikipedia.org/wiki/主題歌#オープニングテーマ "wikilink")
-      - [The Rose](https://ja.wikipedia.org/wiki/ローズ_\(ベット・ミドラーの曲\) "wikilink") - [東海テレビ](../Page/東海テレビ放送.md "wikilink")・フジテレビ系[昼ドラマ](https://ja.wikipedia.org/wiki/昼ドラマ "wikilink")『[母親失格](../Page/母親失格.md "wikilink")』[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")（[ベット・ミドラー](https://ja.wikipedia.org/wiki/ベット・ミドラー "wikilink")の曲[カバー](https://ja.wikipedia.org/wiki/カバー#カバー（楽曲） "wikilink")）
+      - [The Rose](https://ja.wikipedia.org/wiki/ローズ_\(ベット・ミドラーの曲\) "wikilink") - [東海テレビ](../Page/東海テレビ放送.md "wikilink")・フジテレビ系[昼ドラマ](https://ja.wikipedia.org/wiki/昼ドラマ "wikilink")『[母親失格](../Page/母親失格.md "wikilink")』[主題歌](../Page/主題歌.md "wikilink")（[ベット・ミドラー](https://ja.wikipedia.org/wiki/ベット・ミドラー "wikilink")の曲[カバー](https://ja.wikipedia.org/wiki/カバー#カバー（楽曲） "wikilink")）
 3.  **Starting Story**（2007年8月22日、ビクターエンタテインメント）
       - 　Starting Story
       - 　やさしく歌って　（原題　Killing Me Softly With His Song）

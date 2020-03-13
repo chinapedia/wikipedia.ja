@@ -1,11 +1,11 @@
 > この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
 
 
-'''新地理B '''（しんちりビー）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")の[FIFAワールドカップ](https://ja.wikipedia.org/wiki/FIFAワールドカップ "wikilink")開催時には[スカイパーフェクTV\!にて出場](../Page/スカパー!プレミアムサービス.md "wikilink")32カ国の紹介を紹介した番組。[2002年](../Page/2002年.md "wikilink")、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")にも同様の形式で復活している。
+'''新地理B '''（しんちりビー）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")の[FIFAワールドカップ](../Page/FIFAワールドカップ.md "wikilink")開催時には[スカイパーフェクTV\!にて出場](../Page/スカパー!プレミアムサービス.md "wikilink")32カ国の紹介を紹介した番組。[2002年](../Page/2002年.md "wikilink")、[2006年](../Page/2006年.md "wikilink")にも同様の形式で復活している。
 
 ## 概要
 
-ワールドカップ出場国をテーマにして取り上げ、その国についてのさまざまなデータを紹介する。[フジテレビ系列で](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、[1991年](../Page/1991年.md "wikilink")に放送されていた[JOCX-TV2](https://ja.wikipedia.org/wiki/JOCX-TV2 "wikilink")情報番組の[地理B](../Page/地理B.md "wikilink")がこの番組名の由来になっている。
+ワールドカップ出場国をテーマにして取り上げ、その国についてのさまざまなデータを紹介する。[フジテレビ系列で](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、[1991年](../Page/1991年.md "wikilink")に放送されていた[JOCX-TV2](../Page/JOCX-TV2.md "wikilink")情報番組の[地理B](../Page/地理B.md "wikilink")がこの番組名の由来になっている。
 
 ## 紹介国
 

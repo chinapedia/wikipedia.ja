@@ -1,7 +1,7 @@
 > この記事は[Withering to death.](https://ja.wikipedia.org/wiki/Withering_to_death.)から翻訳されています。
 
 
-『**Withering to death.**』（ウィザリング・トゥ・デス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のバンド[Dir en greyの](https://ja.wikipedia.org/wiki/DIR_EN_GREY "wikilink")[メジャー](https://ja.wikipedia.org/wiki/メジャーレーベル "wikilink")5作目の[アルバム](../Page/アルバム.md "wikilink")。
+『**Withering to death.**』（ウィザリング・トゥ・デス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のバンド[Dir en greyの](../Page/DIR_EN_GREY.md "wikilink")[メジャー](https://ja.wikipedia.org/wiki/メジャーレーベル "wikilink")5作目の[アルバム](../Page/アルバム.md "wikilink")。
 
 ## 概要
 
@@ -13,16 +13,16 @@
   - このアルバム制作期間中にはライブ日程が組み込まれ、[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")が終了していないにも関わらず、敢えて数曲披露するといった実験的なことも行なわれていた。中には歌詞やメロディー、曲のタイトルさえも確定していないまま披露した曲も存在する。この試みは功を奏したようで、タイトルは変わらないが、フレーズなどが変化したり、アルバムのバランス的な面で最終レコーディングでは煮詰めることができて良かったと語っている。このあたりの経緯は、このライブツアーに密着したドキュメント本『[THE MANIPULATED LIFE](https://ja.wikipedia.org/wiki/THE_MANIPULATED_LIFE "wikilink")』などで知ることが出来る。
   - このアルバムが発売される前には、京の詩集『前略、お元気ですか。最果ての地より名も無き君に愛をこめて...』が発売されている。ほぼ同時進行で進めていたこの詩集の中には、今作に収録された楽曲の詞に近似したものもある。詩集を作っていったことも今作においては作用した場面があったと語っている。\[5\]
   - ボーカルのクレジットはVoiceに変更された。
-  - 薫とDieによれば、これまでの自分達のギターの役割分担が曲によっては自然と逆転しているものもあると語っており、\[6\]また[Shinya](https://ja.wikipedia.org/wiki/Shinya "wikilink")は前述のライブツアーの中で、課題であった「出音を大きくする為の方法」として、力を入れるのではなく、[重力](../Page/重力.md "wikilink")を利用して叩くというドラミングのこれまでのスタイルを覆すような考え方に出会うことで、スタイルの転換期ともいえる最初の作品にもなっているとのこと。\[7\]
-  - 翌[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[5月16日](../Page/5月16日.md "wikilink")には全米で発売され、バンドの海外進出への一歩となった。米国版のみ[DVD付の](../Page/DVD-Video.md "wikilink")2枚組仕様。米国版のDVDの内容は、「Merciless Cult」、「THE FINAL」、「Machiavellism」、「朔-saku-」（無修正）のPVと、過去のライブ映像のダイジェスト版（主にTOUR04 THE CODE OF VULGAR\[ism\]のもの。およそ10分）である。
-  - このアルバムを引っ下げて、約一年半にわたるツアー「It withers and withers」が行なわれた。[ホール](../Page/ホール.md "wikilink")ツアーとスタンディングの[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")ツアー、初の[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")公演も敢行している。その後の「TOUR06 INWARD SCREAM」では後の『[THE MARROW OF A BONE](../Page/THE_MARROW_OF_A_BONE.md "wikilink")』の楽曲も組み込まれ、最終的には[アメリカでの初のヘッドラインツアー](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")「TOUR07 INWARD SCREAM」へと展開された。このアメリカツアーの模様は、音楽番組『[音遊人](https://ja.wikipedia.org/wiki/音遊人 "wikilink")』で放送されている。
+  - 薫とDieによれば、これまでの自分達のギターの役割分担が曲によっては自然と逆転しているものもあると語っており、\[6\]また[Shinya](../Page/Shinya.md "wikilink")は前述のライブツアーの中で、課題であった「出音を大きくする為の方法」として、力を入れるのではなく、[重力](../Page/重力.md "wikilink")を利用して叩くというドラミングのこれまでのスタイルを覆すような考え方に出会うことで、スタイルの転換期ともいえる最初の作品にもなっているとのこと。\[7\]
+  - 翌[2006年](../Page/2006年.md "wikilink")[5月16日](../Page/5月16日.md "wikilink")には全米で発売され、バンドの海外進出への一歩となった。米国版のみ[DVD付の](../Page/DVD-Video.md "wikilink")2枚組仕様。米国版のDVDの内容は、「Merciless Cult」、「THE FINAL」、「Machiavellism」、「朔-saku-」（無修正）のPVと、過去のライブ映像のダイジェスト版（主にTOUR04 THE CODE OF VULGAR\[ism\]のもの。およそ10分）である。
+  - このアルバムを引っ下げて、約一年半にわたるツアー「It withers and withers」が行なわれた。[ホール](../Page/ホール.md "wikilink")ツアーとスタンディングの[ライブハウス](../Page/ライブハウス.md "wikilink")ツアー、初の[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")公演も敢行している。その後の「TOUR06 INWARD SCREAM」では後の『[THE MARROW OF A BONE](../Page/THE_MARROW_OF_A_BONE.md "wikilink")』の楽曲も組み込まれ、最終的には[アメリカでの初のヘッドラインツアー](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")「TOUR07 INWARD SCREAM」へと展開された。このアメリカツアーの模様は、音楽番組『[音遊人](https://ja.wikipedia.org/wiki/音遊人 "wikilink")』で放送されている。
 
 ## 収録曲
 
 (シングル曲は全てAlbum Mix）
 
 1.  **Merciless Cult**
-    (作詞:京　作曲・編曲:[Dir en grey](https://ja.wikipedia.org/wiki/DIR_EN_GREY "wikilink"))
+    (作詞:京　作曲・編曲:[Dir en grey](../Page/DIR_EN_GREY.md "wikilink"))
       -
         当初はオープニングに相応しい曲が見つからず、別の曲から始めるという案もあったが、この曲を1曲目に相応しいように、ということで改めてアレンジした結果この完成形になった。薫曰く「これでこのアルバムはもらったようなもんだ」と確信したらしい。\[8\]
 2.  **C**
@@ -42,7 +42,7 @@
 6.  **Jesus Christ R'n R**
     (作詞:京　作曲・編曲:Dir en grey)
       -
-        「朔-saku-」発売後に行われたツアー「TOUR04 KEEN UNDER THE SUN」でいち早く披露されていた曲のひとつ。[ファンク](https://ja.wikipedia.org/wiki/ファンク "wikilink")のような序盤から曲構成が様々に変化していく。ツアーを経て曲の[フレーズ](https://ja.wikipedia.org/wiki/フレーズ "wikilink")や雰囲気も変化していき現在の形になった。前述の京の詩集には、この歌詞の原型らしきものが存在する。
+        「朔-saku-」発売後に行われたツアー「TOUR04 KEEN UNDER THE SUN」でいち早く披露されていた曲のひとつ。[ファンク](../Page/ファンク.md "wikilink")のような序盤から曲構成が様々に変化していく。ツアーを経て曲の[フレーズ](https://ja.wikipedia.org/wiki/フレーズ "wikilink")や雰囲気も変化していき現在の形になった。前述の京の詩集には、この歌詞の原型らしきものが存在する。
 7.  **GARBAGE**
     (作詞:京　作曲・編曲:Dir en grey)
       -
@@ -72,7 +72,7 @@
 14. **鼓動**
     (作詞:京　作曲・編曲:Dir en grey)
       -
-        [打ち込み](https://ja.wikipedia.org/wiki/打ち込み "wikilink")の[シンセサイザー](../Page/シンセサイザー.md "wikilink")から始まるナンバー。「THE MANIPULATED LIFE」初日一曲目に演奏された曲でもある。[PVが](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")「朔-saku-」と連動しており、朔のPVの後日談であることがほのめかされている。
+        [打ち込み](https://ja.wikipedia.org/wiki/打ち込み "wikilink")の[シンセサイザー](../Page/シンセサイザー.md "wikilink")から始まるナンバー。「THE MANIPULATED LIFE」初日一曲目に演奏された曲でもある。[PVが](../Page/ミュージック・ビデオ.md "wikilink")「朔-saku-」と連動しており、朔のPVの後日談であることがほのめかされている。
 
 ## 参考文献・出典
 

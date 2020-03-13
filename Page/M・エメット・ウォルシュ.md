@@ -252,7 +252,7 @@
 <td><p>テレビ映画</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/赤ちゃん泥棒" title="wikilink">赤ちゃん泥棒</a><br />
+<td><p><a href="../Page/赤ちゃん泥棒.md" title="wikilink">赤ちゃん泥棒</a><br />
 <em>Raising Arizona</em></p></td>
 <td><p>マシン・ショップのおしゃべりな男</p></td>
 <td></td>
@@ -448,7 +448,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ベスト・フレンズ・ウェディング" title="wikilink">ベスト・フレンズ・ウェディング</a><br />
+<td><p><a href="../Page/ベスト・フレンズ・ウェディング.md" title="wikilink">ベスト・フレンズ・ウェディング</a><br />
 <em>My Best Friend's Wedding</em></p></td>
 <td><p>ジョー・オニール</p></td>
 <td></td>
@@ -463,7 +463,7 @@
 </tr>
 <tr class="even">
 <td><p>1999</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ワイルド・ワイルド・ウエスト" title="wikilink">ワイルド・ワイルド・ウエスト</a><br />
+<td><p><a href="../Page/ワイルド・ワイルド・ウエスト.md" title="wikilink">ワイルド・ワイルド・ウエスト</a><br />
 <em>Wild Wild West</em></p></td>
 <td><p>コールマン</p></td>
 <td></td>
@@ -562,7 +562,7 @@
 </tr>
 <tr class="even">
 <td><p>1999</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/X-ファイル" title="wikilink">X-ファイル</a><br />
+<td><p><a href="../Page/X-ファイル.md" title="wikilink">X-ファイル</a><br />
 <em>X File</em></p></td>
 <td><p>アーサー・デイルズ</p></td>
 <td><p>1エピソード</p></td>
@@ -576,7 +576,7 @@
 </tr>
 <tr class="even">
 <td><p>2001</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/そりゃないぜ!?_フレイジャー" title="wikilink">そりゃないぜ!? フレイジャー</a><br />
+<td><p><a href="../Page/そりゃないぜ!?_フレイジャー.md" title="wikilink">そりゃないぜ!? フレイジャー</a><br />
 <em>Frasier</em></p></td>
 <td><p>リッチ・ケックナー</p></td>
 <td><p>1エピソード</p></td>

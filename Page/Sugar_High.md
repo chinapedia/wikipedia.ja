@@ -5,19 +5,19 @@
 
 ## 解説
 
-前作『[This Armor](../Page/This_Armor.md "wikilink")』からわずか9か月という短いスパンで[リリースされた](https://ja.wikipedia.org/wiki/発売 "wikilink")。この間、[シングル](../Page/シングル.md "wikilink")は1枚もリリースされていないため、収録曲全て新曲で構成されている。なお、[2004年](../Page/2004年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink")に発売予定とされていた4thアルバムが発売中止になり、『[シングルBOX](../Page/シングルBOX.md "wikilink")』に発売が差し替えられたことから、[東芝EMI在籍中のオリジナルアルバムはこの作品が最後になる](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")。
+前作『[This Armor](../Page/This_Armor.md "wikilink")』からわずか9か月という短いスパンで[リリースされた](https://ja.wikipedia.org/wiki/発売 "wikilink")。この間、[シングル](../Page/シングル.md "wikilink")は1枚もリリースされていないため、収録曲全て新曲で構成されている。なお、[2004年](../Page/2004年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink")に発売予定とされていた4thアルバムが発売中止になり、『[シングルBOX](../Page/シングルBOX.md "wikilink")』に発売が差し替えられたことから、[東芝EMI在籍中のオリジナルアルバムはこの作品が最後になる](../Page/EMIミュージック・ジャパン.md "wikilink")。
 
 タイトルは映画『[エンパイアレコード](https://ja.wikipedia.org/wiki/w:Empire_Records "wikilink")』の、少女が歌う歌の歌詞より採られた。作品のテーマとして本人曰く「低温感が続くアルバム」としており、本作全編を通して前作『This Armor』のようなバラエティの豊かさは影を潜め、ほとんどの楽曲が[バラード](../Page/バラード.md "wikilink")で占められている。
 
-初回限定生産盤のみ、[CD-EXTRA仕様でオリジナル](https://ja.wikipedia.org/wiki/CD_EXTRA "wikilink")[スクリーンセーバー](https://ja.wikipedia.org/wiki/スクリーンセーバー "wikilink")が収録されているほか、楽曲「Castle・imitation」を収録したボーナス[8センチCD](https://ja.wikipedia.org/wiki/8センチCD "wikilink")が付属する仕様となっている。ちなみに「Castle・imitation」のオリジナルバージョンはこのボーナス8センチCDと[ベストアルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『[SINGLES 2000-2003](https://ja.wikipedia.org/wiki/SINGLES_2000-2003 "wikilink")』にのみ収録されている。また、初回限定生産盤の[CDケースには](../Page/コンパクトディスク.md "wikilink")[ステッカーが貼り付けられている](https://ja.wikipedia.org/wiki/シール "wikilink")。
+初回限定生産盤のみ、[CD-EXTRA仕様でオリジナル](../Page/CD_EXTRA.md "wikilink")[スクリーンセーバー](../Page/スクリーンセーバー.md "wikilink")が収録されているほか、楽曲「Castle・imitation」を収録したボーナス[8センチCD](https://ja.wikipedia.org/wiki/8センチCD "wikilink")が付属する仕様となっている。ちなみに「Castle・imitation」のオリジナルバージョンはこのボーナス8センチCDと[ベストアルバム](../Page/ベスト・アルバム.md "wikilink")『[SINGLES 2000-2003](../Page/SINGLES_2000-2003.md "wikilink")』にのみ収録されている。また、初回限定生産盤の[CDケースには](../Page/コンパクトディスク.md "wikilink")[ステッカーが貼り付けられている](../Page/シール.md "wikilink")。
 
 ## 収録曲
 
-全作詞・作曲：[鬼束ちひろ](https://ja.wikipedia.org/wiki/鬼束ちひろ "wikilink")、全編曲：[羽毛田丈史](https://ja.wikipedia.org/wiki/羽毛田丈史 "wikilink")
+全作詞・作曲：[鬼束ちひろ](https://ja.wikipedia.org/wiki/鬼束ちひろ "wikilink")、全編曲：[羽毛田丈史](../Page/羽毛田丈史.md "wikilink")
 
 ### CD
 
-収録曲は初回限定生産盤・通常盤共に同一である。初回限生産盤のみ、[CD-EXTRA仕様でオリジナルスクリーンセーバー](https://ja.wikipedia.org/wiki/CD_EXTRA "wikilink")「CHIHIRO Special Screen Saver」が収録されている。
+収録曲は初回限定生産盤・通常盤共に同一である。初回限生産盤のみ、[CD-EXTRA仕様でオリジナルスクリーンセーバー](../Page/CD_EXTRA.md "wikilink")「CHIHIRO Special Screen Saver」が収録されている。
 
 1.  **NOT YOUR GOD**
 2.  **声**
@@ -28,16 +28,16 @@
         後に10thシングル「[私とワルツを](../Page/私とワルツを.md "wikilink")」の[カップリング曲として](https://ja.wikipedia.org/wiki/A面/B面 "wikilink")[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")。
 4.  **Tiger in my Love**
       -
-        [KENWOOD](https://ja.wikipedia.org/wiki/ケンウッド "wikilink") 企業[CMソング](https://ja.wikipedia.org/wiki/コマーシャル・メッセージ "wikilink")
+        [KENWOOD](../Page/ケンウッド.md "wikilink") 企業[CMソング](https://ja.wikipedia.org/wiki/コマーシャル・メッセージ "wikilink")
 5.  **Castle・imitation (album version)**
 6.  **漂流の羽根**
       -
-        [NHK総合月曜ドラマシリーズ](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")『[結婚泥棒](https://ja.wikipedia.org/wiki/結婚泥棒 "wikilink")』主題歌
+        [NHK総合月曜ドラマシリーズ](../Page/NHK総合テレビジョン.md "wikilink")『[結婚泥棒](https://ja.wikipedia.org/wiki/結婚泥棒 "wikilink")』主題歌
 7.  **砂の盾**
 8.  **King of Solitude**
 9.  **BORDERLINE**
       -
-        [松竹](../Page/松竹.md "wikilink")配給映画『[CASSHERN](https://ja.wikipedia.org/wiki/CASSHERN "wikilink")』挿入歌
+        [松竹](../Page/松竹.md "wikilink")配給映画『[CASSHERN](../Page/CASSHERN.md "wikilink")』挿入歌
 
 ### ボーナス8センチCD
 
@@ -45,7 +45,7 @@
 
 1.  **Castle・imitation**
       -
-        [プレイステーション2用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[ブレス オブ ファイアV ドラゴンクォーター](../Page/ブレス_オブ_ファイアV_ドラゴンクォーター.md "wikilink")』（[カプコン](../Page/カプコン.md "wikilink")）[テーマソング](https://ja.wikipedia.org/wiki/主題歌 "wikilink")
+        [プレイステーション2用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[ブレス オブ ファイアV ドラゴンクォーター](../Page/ブレス_オブ_ファイアV_ドラゴンクォーター.md "wikilink")』（[カプコン](../Page/カプコン.md "wikilink")）[テーマソング](../Page/主題歌.md "wikilink")
 2.  Castle・imitation (inst.)
 
 ## 楽曲解説
@@ -62,7 +62,7 @@
 
 <!-- end list -->
 
-  - アルバムリリース後に[タイアップ](https://ja.wikipedia.org/wiki/タイアップ "wikilink")が急遽決定し、[2003年](../Page/2003年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink")放送の[テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』でもこの曲が披露された。
+  - アルバムリリース後に[タイアップ](../Page/タイアップ.md "wikilink")が急遽決定し、[2003年](../Page/2003年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink")放送の[テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』でもこの曲が披露された。
 
 <!-- end list -->
 
@@ -78,7 +78,7 @@
 
 <!-- end list -->
 
-  - 初回限定生産盤のボーナス8センチCD収録曲のアレンジ。テーマは本人曰く「時計の秒針の音。古い時計、だが針はしっかり動いているイメージ」。ライブDVD『CHIHIRO ONITSUKA ULTIMATE CRASH '02 LIVE AT BUDOKAN』の[エンドロールにもこの曲が使用されている](https://ja.wikipedia.org/wiki/クレジットタイトル "wikilink")。
+  - 初回限定生産盤のボーナス8センチCD収録曲のアレンジ。テーマは本人曰く「時計の秒針の音。古い時計、だが針はしっかり動いているイメージ」。ライブDVD『CHIHIRO ONITSUKA ULTIMATE CRASH '02 LIVE AT BUDOKAN』の[エンドロールにもこの曲が使用されている](../Page/クレジットタイトル.md "wikilink")。
 
 <!-- end list -->
 
@@ -102,7 +102,7 @@
 
 <!-- end list -->
 
-  - 初の[クリスマスソングであるが](https://ja.wikipedia.org/wiki/クリスマスの音楽一覧 "wikilink")、本人は[クリスマス](https://ja.wikipedia.org/wiki/クリスマス "wikilink")だからと意図して書いたわけではなく、「クリスマス間近の夜10時頃のニューヨークの街を、親が子供と手を繋いで帰っていく」というシーンをイメージしたら偶然出来上がってしまったという。[プロモーションビデオはアニメーションを使用し](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、作品の中でも異色なものに仕上がっている。ちなみに「Tiger in my Love」がタイアップになった[KENWOODのプロモーション用企業DVDには](https://ja.wikipedia.org/wiki/ケンウッド "wikilink")、タイアップになったわけでもないのになぜかプロモーションビデオが収録されている。
+  - 初の[クリスマスソングであるが](../Page/クリスマスの音楽一覧.md "wikilink")、本人は[クリスマス](../Page/クリスマス.md "wikilink")だからと意図して書いたわけではなく、「クリスマス間近の夜10時頃のニューヨークの街を、親が子供と手を繋いで帰っていく」というシーンをイメージしたら偶然出来上がってしまったという。[プロモーションビデオはアニメーションを使用し](../Page/ミュージック・ビデオ.md "wikilink")、作品の中でも異色なものに仕上がっている。ちなみに「Tiger in my Love」がタイアップになった[KENWOODのプロモーション用企業DVDには](../Page/ケンウッド.md "wikilink")、タイアップになったわけでもないのになぜかプロモーションビデオが収録されている。
 
 <!-- end list -->
 
@@ -110,7 +110,7 @@
 
 <!-- end list -->
 
-  - [ベーゼンドルファー](https://ja.wikipedia.org/wiki/ベーゼンドルファー "wikilink")のグランドピアノを使用し、羽毛田丈史の提案したアルバムの[コンセプト](https://ja.wikipedia.org/wiki/コンセプト "wikilink")である[クラシックな雰囲気に拘り抜いた楽曲に仕上がっている](../Page/クラシック音楽.md "wikilink")。鬼束ちひろ曰く「マニアックメジャーな感じ」。アウトロのアグレッシブな[ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")と自身のフェイクが「口喧嘩っぽい」「狂気な感じ」ともコメントしている。
+  - [ベーゼンドルファー](../Page/ベーゼンドルファー.md "wikilink")のグランドピアノを使用し、羽毛田丈史の提案したアルバムの[コンセプト](https://ja.wikipedia.org/wiki/コンセプト "wikilink")である[クラシックな雰囲気に拘り抜いた楽曲に仕上がっている](../Page/クラシック音楽.md "wikilink")。鬼束ちひろ曰く「マニアックメジャーな感じ」。アウトロのアグレッシブな[ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")と自身のフェイクが「口喧嘩っぽい」「狂気な感じ」ともコメントしている。
 
 <!-- end list -->
 
@@ -118,10 +118,10 @@
 
 <!-- end list -->
 
-  - 長らくこの初回限定生産盤のボーナス8センチCDのみでしか聴けなかったが、2ndベストアルバム『[SINGLES 2000-2003](https://ja.wikipedia.org/wiki/SINGLES_2000-2003 "wikilink")』に再収録されたことで、改めてオリジナルバージョンの存在が広く知れ渡ることとなった。このオリジナルバージョンは[バンドサウンド](https://ja.wikipedia.org/wiki/バンドサウンド "wikilink")を基調にしており、ストリングスを基調としたアルバムのものとのアレンジが異なり、ゲームバージョンとも尺の長さのほかにアレンジが異なる部分がある。
+  - 長らくこの初回限定生産盤のボーナス8センチCDのみでしか聴けなかったが、2ndベストアルバム『[SINGLES 2000-2003](../Page/SINGLES_2000-2003.md "wikilink")』に再収録されたことで、改めてオリジナルバージョンの存在が広く知れ渡ることとなった。このオリジナルバージョンは[バンドサウンド](https://ja.wikipedia.org/wiki/バンドサウンド "wikilink")を基調にしており、ストリングスを基調としたアルバムのものとのアレンジが異なり、ゲームバージョンとも尺の長さのほかにアレンジが異なる部分がある。
 
 ## 関連項目
 
-  - [羽毛田丈史](https://ja.wikipedia.org/wiki/羽毛田丈史 "wikilink")
+  - [羽毛田丈史](../Page/羽毛田丈史.md "wikilink")
 
 [Category:2002年のアルバム](https://ja.wikipedia.org/wiki/Category:2002年のアルバム "wikilink") [Category:鬼束ちひろのアルバム](https://ja.wikipedia.org/wiki/Category:鬼束ちひろのアルバム "wikilink") [Category:Virgin_Musicのアルバム](https://ja.wikipedia.org/wiki/Category:Virgin_Musicのアルバム "wikilink") [Category:新造人間キャシャーン](https://ja.wikipedia.org/wiki/Category:新造人間キャシャーン "wikilink")

@@ -5,9 +5,9 @@
 
 ## 来歴
 
-[柔術](../Page/柔術.md "wikilink")、[キックボクシング](../Page/キックボクシング.md "wikilink")、[日本拳法](https://ja.wikipedia.org/wiki/日本拳法 "wikilink")の格闘技経験を持つ\[1\]。
+[柔術](../Page/柔術.md "wikilink")、[キックボクシング](../Page/キックボクシング.md "wikilink")、[日本拳法](../Page/日本拳法.md "wikilink")の格闘技経験を持つ\[1\]。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")2月12日、[DEEPライト級王者決定戦で](../Page/DEEP_\(格闘技団体\).md "wikilink")[三島☆ド根性ノ助](../Page/三島☆ド根性ノ助.md "wikilink")と対戦し、0-3の判定負けを喫し王座獲得に失敗した。
+[2005年](../Page/2005年.md "wikilink")2月12日、[DEEPライト級王者決定戦で](../Page/DEEP_\(格闘技団体\).md "wikilink")[三島☆ド根性ノ助](../Page/三島☆ド根性ノ助.md "wikilink")と対戦し、0-3の判定負けを喫し王座獲得に失敗した。
 
 2005年5月22日、[PRIDE初参戦となった](../Page/PRIDE_\(格闘技イベント\).md "wikilink")[PRIDE 武士道 -其の七-で](https://ja.wikipedia.org/wiki/PRIDE_武士道_-其の七- "wikilink")[ジェンス・パルヴァー](../Page/ジェンス・パルヴァー.md "wikilink")と対戦し、左フックでKO負け。
 
@@ -36,7 +36,7 @@
 
 ## 関連項目
 
-  - [男子総合格闘家一覧](https://ja.wikipedia.org/wiki/男子総合格闘家一覧 "wikilink")
+  - [男子総合格闘家一覧](../Page/男子総合格闘家一覧.md "wikilink")
   - [ブラジリアン柔術家一覧](https://ja.wikipedia.org/wiki/ブラジリアン柔術家一覧 "wikilink")
   - [PRIDE選手一覧](../Page/PRIDE選手一覧.md "wikilink")
 

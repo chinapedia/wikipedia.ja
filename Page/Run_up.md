@@ -14,7 +14,7 @@
 1.  **Run up**
       - 作詞：愛内里菜　作曲：[大野愛果](../Page/大野愛果.md "wikilink")　編曲：三輪緑
 2.  **Rainbow**
-      - 作詞：愛内里菜　作曲：[川島だりあ](https://ja.wikipedia.org/wiki/川島だりあ "wikilink")　編曲：[尾城九龍](../Page/尾城九龍.md "wikilink")
+      - 作詞：愛内里菜　作曲：[川島だりあ](../Page/川島だりあ.md "wikilink")　編曲：[尾城九龍](../Page/尾城九龍.md "wikilink")
 3.  **Run up -GLOBAL TRANCE Mix-**
       - Remixed by dutokunaga
 4.  **be happy. -Grandale Euro Mix-**
@@ -26,13 +26,13 @@
 
 ## タイアップ
 
-  - [TBS系](../Page/TBSテレビ.md "wikilink")『[ここがヘンだよ日本人](https://ja.wikipedia.org/wiki/ここがヘンだよ日本人 "wikilink")』エンディングテーマ（\#1）
+  - [TBS系](../Page/TBSテレビ.md "wikilink")『[ここがヘンだよ日本人](../Page/ここがヘンだよ日本人.md "wikilink")』エンディングテーマ（\#1）
 
 ## 収録アルバム
 
   - [GIZA studio Masterpiece BLEND 2001](https://ja.wikipedia.org/wiki/GIZA_studio_Masterpiece_BLEND_2001 "wikilink")（\#1）
   - [POWER OF WORDS](../Page/POWER_OF_WORDS.md "wikilink")（\#1）
-  - [Single Collection](https://ja.wikipedia.org/wiki/Single_Collection_\(愛内里菜のアルバム\) "wikilink")（\#1）
+  - [Single Collection](../Page/Single_Collection_\(愛内里菜のアルバム\).md "wikilink")（\#1）
   - [ALL SINGLES BEST 〜THANX 10th ANNIVERSARY〜](https://ja.wikipedia.org/wiki/ALL_SINGLES_BEST_〜THANX_10th_ANNIVERSARY〜 "wikilink")（\#1）
   - [COLORS](https://ja.wikipedia.org/wiki/COLORS_\(愛内里菜のアルバム\) "wikilink")（\#2）
 

@@ -1,7 +1,7 @@
 > この記事は[RANGEMAN](https://ja.wikipedia.org/wiki/RANGEMAN)から翻訳されています。
 
 
-『**RANGEMAN**』（レンジマン）は、[2006年](../Page/2006年.md "wikilink")27号から[2007年](../Page/2007年.md "wikilink")39号まで『[週刊少年サンデー](https://ja.wikipedia.org/wiki/週刊少年サンデー "wikilink")』で連載されていた漫画。作者は[モリタイシ](https://ja.wikipedia.org/wiki/モリタイシ "wikilink")。ヒーロー戦隊を扱った作品ではあるが、前作「[いでじゅう\!](https://ja.wikipedia.org/wiki/いでじゅう! "wikilink")」と同じく登場人物の日常を多く描いており、話が進むにつれてヒーロー色よりもギャグや恋愛要素が強くなっている。単行本は全6巻。
+『**RANGEMAN**』（レンジマン）は、[2006年](../Page/2006年.md "wikilink")27号から[2007年](../Page/2007年.md "wikilink")39号まで『[週刊少年サンデー](https://ja.wikipedia.org/wiki/週刊少年サンデー "wikilink")』で連載されていた漫画。作者は[モリタイシ](../Page/モリタイシ.md "wikilink")。ヒーロー戦隊を扱った作品ではあるが、前作「[いでじゅう\!](../Page/いでじゅう!.md "wikilink")」と同じく登場人物の日常を多く描いており、話が進むにつれてヒーロー色よりもギャグや恋愛要素が強くなっている。単行本は全6巻。
 
 ## あらすじ
 

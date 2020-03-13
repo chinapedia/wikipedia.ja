@@ -26,7 +26,7 @@
     理容師の祖父に「人気者になれる髪型にしてやる」と言われ、刈り上げた後頭部に校章をあしらわれたことがある。
   - 篠宮バーノンJr.（しのみや バーノン ジュニア）
     インターナショナル・スクールから「ミケとバスケがしたい」がために転入してきた。志誠高校バスケットボール部に所属。ミゲールより1つ年長で2年生。仲間からは、もっぱら「[JR](../Page/ジュニア.md "wikilink")」の愛称で呼ばれる。[ラップ](../Page/ラップ.md "wikilink")と[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")が好き。拒絶されることに弱い。
-    縞柄の服を好んで着ていたところ、西門に「[ワオキツネザル](https://ja.wikipedia.org/wiki/ワオキツネザル "wikilink")」と言われたことがある。
+    縞柄の服を好んで着ていたところ、西門に「[ワオキツネザル](../Page/ワオキツネザル.md "wikilink")」と言われたことがある。
   - 大沢夏生（おおさわ なつみ）
     志誠高校バスケットボール部に所属。昆虫の採集・飼育、天文学、古代史、写真等々と幅広い趣味を持ち、人呼んで「趣味のデパート・大沢夏生」。
   - アリーシャ（宗藤亜梨沙〈むねとう ありさ〉）
@@ -67,4 +67,4 @@
 
 [Category:漫画作品_な](https://ja.wikipedia.org/wiki/Category:漫画作品_な "wikilink") [Category:成田美名子](https://ja.wikipedia.org/wiki/Category:成田美名子 "wikilink") [Category:バスケットボール漫画](https://ja.wikipedia.org/wiki/Category:バスケットボール漫画 "wikilink") [Category:弓道漫画](https://ja.wikipedia.org/wiki/Category:弓道漫画 "wikilink") [Category:高等学校を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:高等学校を舞台とした漫画作品 "wikilink") [Category:LaLa](https://ja.wikipedia.org/wiki/Category:LaLa "wikilink")
 
-1.  兄･憲人はスピンオフ作品『[花よりも花の如く](../Page/花よりも花の如く.md "wikilink")』の主人公で、本作の時点では[能楽師](https://ja.wikipedia.org/wiki/能楽師 "wikilink")見習い。
+1.  兄･憲人はスピンオフ作品『[花よりも花の如く](../Page/花よりも花の如く.md "wikilink")』の主人公で、本作の時点では[能楽師](../Page/能楽師.md "wikilink")見習い。

@@ -3,9 +3,9 @@
 
 『**X MULTIPLY**』（エックスマルチプライ）は、[1989年](../Page/1989年.md "wikilink")に[アイレムから稼働された](https://ja.wikipedia.org/wiki/アイレムソフトウェアエンジニアリング "wikilink")[アーケード用](../Page/アーケードゲーム.md "wikilink")[横スクロールシューティングゲームである](../Page/シューティングゲーム.md "wikilink")。タイトル画面では「**X∞**」とも表記されている。
 
-同社のヒット作である『[R-TYPE](https://ja.wikipedia.org/wiki/R-TYPE "wikilink")』（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")）及び『[R-TYPE II](../Page/R-TYPE_II.md "wikilink")』（[1989年](../Page/1989年.md "wikilink")）の実質的続編として製作されたと言われる。『R-TYPE』の[フォースに代わるバリエーションとして自機から](https://ja.wikipedia.org/wiki/R-TYPE#フォース "wikilink")2本の[触手](https://ja.wikipedia.org/wiki/触手 "wikilink")を生やし、それを自機の移動によって操ると言うアイデアが盛り込まれている。
+同社のヒット作である『[R-TYPE](https://ja.wikipedia.org/wiki/R-TYPE "wikilink")』（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")）及び『[R-TYPE II](../Page/R-TYPE_II.md "wikilink")』（[1989年](../Page/1989年.md "wikilink")）の実質的続編として製作されたと言われる。『R-TYPE』の[フォースに代わるバリエーションとして自機から](https://ja.wikipedia.org/wiki/R-TYPE#フォース "wikilink")2本の[触手](../Page/触手.md "wikilink")を生やし、それを自機の移動によって操ると言うアイデアが盛り込まれている。
 
-後に[PlayStationおよび](../Page/PlayStation_\(ゲーム機\).md "wikilink")[セガサターン](../Page/セガサターン.md "wikilink")用ソフトとして発売された『アーケードギアーズ イメージファイト & Xマルチプライ』（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")）に同社の『[イメージファイト](https://ja.wikipedia.org/wiki/イメージファイト "wikilink")』（1988年）とのカップリングで収録された。
+後に[PlayStationおよび](../Page/PlayStation_\(ゲーム機\).md "wikilink")[セガサターン](../Page/セガサターン.md "wikilink")用ソフトとして発売された『アーケードギアーズ イメージファイト & Xマルチプライ』（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")）に同社の『[イメージファイト](../Page/イメージファイト.md "wikilink")』（1988年）とのカップリングで収録された。
 
 ## 概要
 
@@ -70,8 +70,8 @@
 
   - 人体内部をモデルにした、『R-TYPE』以上にグロテスクなステージの中を進んでいく。敵もほぼ全てが生物的なデザインを持つ。
   - ステージ2は『R-TYPE』に登場する巨大戦艦と同様、複数のエイリアンが融合した合体エイリアンの全身を時計回りに一周しながら撃破する構成になっている。
-  - 各ステージのボスの名称には[クトゥルフ神話](https://ja.wikipedia.org/wiki/クトゥルフ神話 "wikilink")に由来するものが散見される（ステージ1「[HOSTUR](https://ja.wikipedia.org/wiki/ハスター "wikilink")」・ステージ5「[HIDRA](https://ja.wikipedia.org/wiki/ヒュドラ_\(クトゥルフ神話\) "wikilink")」・ステージ7「[BYKHEE](https://ja.wikipedia.org/wiki/バイアクヘー "wikilink")」）。
-  - 最終ステージは、[子宮](../Page/子宮.md "wikilink")内部でエイリアンの遺伝子により[受精](https://ja.wikipedia.org/wiki/受精 "wikilink")した[卵子](https://ja.wikipedia.org/wiki/卵子 "wikilink")を防護する女王エイリアン・BYKHEEとの対決。BYKHEEを撃破した後、[受精卵](../Page/受精卵.md "wikilink")から4体のBYKHEE HEADが孵化する。
+  - 各ステージのボスの名称には[クトゥルフ神話](https://ja.wikipedia.org/wiki/クトゥルフ神話 "wikilink")に由来するものが散見される（ステージ1「[HOSTUR](../Page/ハスター.md "wikilink")」・ステージ5「[HIDRA](https://ja.wikipedia.org/wiki/ヒュドラ_\(クトゥルフ神話\) "wikilink")」・ステージ7「[BYKHEE](https://ja.wikipedia.org/wiki/バイアクヘー "wikilink")」）。
+  - 最終ステージは、[子宮](../Page/子宮.md "wikilink")内部でエイリアンの遺伝子により[受精](../Page/受精.md "wikilink")した[卵子](https://ja.wikipedia.org/wiki/卵子 "wikilink")を防護する女王エイリアン・BYKHEEとの対決。BYKHEEを撃破した後、[受精卵](../Page/受精卵.md "wikilink")から4体のBYKHEE HEADが孵化する。
 
 ## 音楽
 
@@ -108,7 +108,7 @@
 <td><p><a href="../Page/CD-ROM.md" title="wikilink">CD-ROM</a></p></td>
 <td><p>SLPS-01267</p></td>
 <td><p>-</p></td>
-<td><p>『<a href="https://ja.wikipedia.org/wiki/イメージファイト" title="wikilink">イメージファイト</a>』とのカップリング</p></td>
+<td><p>『<a href="../Page/イメージファイト.md" title="wikilink">イメージファイト</a>』とのカップリング</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>

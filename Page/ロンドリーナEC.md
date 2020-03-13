@@ -54,7 +54,7 @@
 
   - [エウベル](../Page/ジオバネ・エウベル・ジ・ソウザ.md "wikilink") 1989-1991
 
-  - [シルビーニョ](https://ja.wikipedia.org/wiki/シルビオ・ホセ・カヌート "wikilink") 1995
+  - [シルビーニョ](../Page/シルビオ・ホセ・カヌート.md "wikilink") 1995
 
   - [フラビオ](../Page/フラビオ・エリアス・コルデイロ.md "wikilink") 1998
 

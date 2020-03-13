@@ -1,23 +1,23 @@
 > この記事は[Cobaltore](https://ja.wikipedia.org/wiki/Cobaltore)から翻訳されています。
 
 
-**Cobaltore女川**（Cobaltoreおながわ、、コバルトーレ女川）は、[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[牡鹿郡](https://ja.wikipedia.org/wiki/牡鹿郡 "wikilink")[女川町](https://ja.wikipedia.org/wiki/女川町 "wikilink")をホームタウンとする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。[Jリーグ加盟を目指すクラブ](https://ja.wikipedia.org/wiki/Jリーグ加盟を目指すクラブ "wikilink")の1つである。呼称は**コバルトーレ女川**である。
+**Cobaltore女川**（Cobaltoreおながわ、、コバルトーレ女川）は、[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[牡鹿郡](https://ja.wikipedia.org/wiki/牡鹿郡 "wikilink")[女川町](https://ja.wikipedia.org/wiki/女川町 "wikilink")をホームタウンとする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。[Jリーグ加盟を目指すクラブ](../Page/Jリーグ加盟を目指すクラブ.md "wikilink")の1つである。呼称は**コバルトーレ女川**である。
 
 ## 概要
 
 2006年4月、スポーツを通じた町作りを目指す「女川スポーツコミュニティー構想」に基づいて創設された。クラブ名の**Cobaltore**（コバルトーレ）は、「女川の青い海」（「コバルトブルー」）と、[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")で森を意味する「フォーレ」より取られた造語である\[1\]。
 
-ホームスタジアムは[女川町総合運動公園](../Page/女川町総合運動公園.md "wikilink")陸上競技場であったが、2012年以降[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")に伴う災害公営住宅建設予定地に充当されたことから、2014年からは同じ女川町総合運動公園の町民第2多目的運動場（同年人工芝に改修\[2\]）を使用している。なお、2018年のJFLでは第2運動場が人工芝でありJFLでは使用できないため、[石巻フットボール場](../Page/石巻フットボール場.md "wikilink")、[みやぎ生協めぐみ野サッカー場の](https://ja.wikipedia.org/wiki/宮城県サッカー場 "wikilink")2か所をメインとして、[ひとめぼれスタジアム宮城](../Page/宮城スタジアム.md "wikilink")、[角田市陸上競技場](https://ja.wikipedia.org/wiki/角田市陸上競技場 "wikilink")を使用した。
+ホームスタジアムは[女川町総合運動公園](../Page/女川町総合運動公園.md "wikilink")陸上競技場であったが、2012年以降[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")に伴う災害公営住宅建設予定地に充当されたことから、2014年からは同じ女川町総合運動公園の町民第2多目的運動場（同年人工芝に改修\[2\]）を使用している。なお、2018年のJFLでは第2運動場が人工芝でありJFLでは使用できないため、[石巻フットボール場](../Page/石巻フットボール場.md "wikilink")、[みやぎ生協めぐみ野サッカー場の](../Page/宮城県サッカー場.md "wikilink")2か所をメインとして、[ひとめぼれスタジアム宮城](../Page/宮城スタジアム.md "wikilink")、[角田市陸上競技場](https://ja.wikipedia.org/wiki/角田市陸上競技場 "wikilink")を使用した。
 
 女川町では将来のJ3昇格を念頭に置いた天然芝の球技専用スタジアム建設の計画があり、上記の女川町総合運動公園に近い清水地区の住宅地跡に5000人（うち座席1000人、残りは芝生席）程度収容規模のスタンドを設置したスタジアムで、2020年春に完成する予定である\[3\]。
 
 ## 歴史
 
-[2006年](../Page/2006年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に創設され、初代監督に元日本代表主将の[藤島信雄](../Page/藤島信雄.md "wikilink")が就任。[2007年](../Page/2007年.md "wikilink")に[宮城県社会人サッカーリーグ](https://ja.wikipedia.org/wiki/宮城県社会人サッカーリーグ "wikilink")へ、2008年に[東北社会人サッカーリーグ](https://ja.wikipedia.org/wiki/東北社会人サッカーリーグ "wikilink")2部南へ昇格。[2009年](../Page/2009年.md "wikilink")は東北リーグ2部南で初優勝し、2部リーグ優勝決定戦でも総合優勝して、2010年より東北1部に昇格したが最下位となり1年で降格。
+[2006年](../Page/2006年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に創設され、初代監督に元日本代表主将の[藤島信雄](../Page/藤島信雄.md "wikilink")が就任。[2007年](../Page/2007年.md "wikilink")に[宮城県社会人サッカーリーグ](https://ja.wikipedia.org/wiki/宮城県社会人サッカーリーグ "wikilink")へ、2008年に[東北社会人サッカーリーグ](../Page/東北社会人サッカーリーグ.md "wikilink")2部南へ昇格。[2009年](../Page/2009年.md "wikilink")は東北リーグ2部南で初優勝し、2部リーグ優勝決定戦でも総合優勝して、2010年より東北1部に昇格したが最下位となり1年で降格。
 
 [2011年](../Page/2011年.md "wikilink")[3月11日](../Page/3月11日.md "wikilink")に発生した[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")により女川町は大きな被害に遭った。選手全員の無事は確認されたが\[4\]、クラブハウスと選手寮として使用していた建物が損壊し、チームは活動を1年間休止し地域貢献活動に取り組んだ\[5\]\[6\]。
 
-[2012年](../Page/2012年.md "wikilink")[東北社会人サッカーリーグ](https://ja.wikipedia.org/wiki/東北社会人サッカーリーグ "wikilink")2部南に復帰して2位の成績。東北2部北2位の[ヴァンラーレ八戸](../Page/ヴァンラーレ八戸.md "wikilink")との昇格戦に敗れたが、東北1部1位の[福島ユナイテッドFC](../Page/福島ユナイテッドFC.md "wikilink")が[日本フットボールリーグ](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")（JFL）に昇格した為、東北1部に昇格した。
+[2012年](../Page/2012年.md "wikilink")[東北社会人サッカーリーグ](../Page/東北社会人サッカーリーグ.md "wikilink")2部南に復帰して2位の成績。東北2部北2位の[ヴァンラーレ八戸](../Page/ヴァンラーレ八戸.md "wikilink")との昇格戦に敗れたが、東北1部1位の[福島ユナイテッドFC](../Page/福島ユナイテッドFC.md "wikilink")が[日本フットボールリーグ](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")（JFL）に昇格した為、東北1部に昇格した。
 
 [2016年](../Page/2016年.md "wikilink")は東北リーグ1部で初優勝。[全国地域サッカーチャンピオンズリーグ2016](https://ja.wikipedia.org/wiki/全国地域サッカーチャンピオンズリーグ2016 "wikilink")に初出場したがグループリーグで敗退。2017年も東北リーグ1部で2年連続優勝。[全国地域サッカーチャンピオンズリーグ2017](https://ja.wikipedia.org/wiki/全国地域サッカーチャンピオンズリーグ2017 "wikilink")はグループCで2位。ワイルドカード（各組2位の最上位成績）で決勝リーグに進み、3戦全勝（内、PK勝ち2試合）で優勝した\[7\]。12月6日の[日本フットボールリーグ](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")（JFL）理事会で[2018年度からのJFL入会が承認された](https://ja.wikipedia.org/wiki/第20回日本フットボールリーグ "wikilink")\[8\]。
 
@@ -60,30 +60,30 @@
 
 ## チーム成績・歴代監督
 
-|                                                                                            |                                                                |        |    |    |    |   |    |     |    |                                                       |                                                                |                                    |
-| ------------------------------------------------------------------------------------------ | -------------------------------------------------------------- | ------ | -- | -- | -- | - | -- | --- | -- | ----------------------------------------------------- | -------------------------------------------------------------- | ---------------------------------- |
-| 年度                                                                                         | 所属                                                             | 順位     | 勝点 | 試合 | 勝  | 分 | 敗  | 得点  | 失点 | 差                                                     | [{{font](../Page/天皇杯_JFA_全日本サッカー選手権大会.md "wikilink")           | 監督                                 |
-| 2006                                                                                       | 石巻市                                                            | **優勝** | 54 | 18 | 18 | 0 | 0  | 127 | 4  | 123                                                   | [県予選敗退](https://ja.wikipedia.org/wiki/宮城県サッカー選手権大会 "wikilink") | [藤島信雄](../Page/藤島信雄.md "wikilink") |
-| 2007                                                                                       | [宮城県](https://ja.wikipedia.org/wiki/宮城県社会人サッカーリーグ "wikilink")  | **優勝** | 32 | 14 | 10 | 2 | 2  | 49  | 17 | 32                                                    |                                                                |                                    |
-| [2008](https://ja.wikipedia.org/wiki/2008年の地域リーグ_\(サッカー\)#東北 "wikilink")                   | [東北](https://ja.wikipedia.org/wiki/東北社会人サッカーリーグ "wikilink")2部南 | 2位     | 33 | 14 | 11 | 0 | 3  | 53  | 9  | 44                                                    |                                                                |                                    |
-| [2009](https://ja.wikipedia.org/wiki/2009年の地域リーグ#東北 "wikilink")                            | **優勝**                                                         | 37     | 14 | 12 | 1  | 1 | 30 | 7   | 23 | [中島礼司](https://ja.wikipedia.org/wiki/中島礼司 "wikilink") |                                                                |                                    |
-| [2010](https://ja.wikipedia.org/wiki/2010年の地域リーグ_\(サッカー\)#東北 "wikilink")                   | 東北1部                                                           | 8位     | 8  | 14 | 1  | 5 | 8  | 13  | 29 | \-16                                                  |                                                                |                                    |
-| 2011年は[東北地方太平洋沖地震により活動休止](https://ja.wikipedia.org/wiki/東日本大震災によるスポーツへの影響#サッカー "wikilink") | [阿部裕二](https://ja.wikipedia.org/wiki/阿部裕二 "wikilink")          |        |    |    |    |   |    |     |    |                                                       |                                                                |                                    |
-| [2012](https://ja.wikipedia.org/wiki/2012年の地域リーグ_\(サッカー\)#東北 "wikilink")                   | 東北2部南                                                          | 2位     | 35 | 14 | 11 | 2 | 1  | 48  | 11 | 37                                                    | 県予選敗退                                                          |                                    |
-| [2013](https://ja.wikipedia.org/wiki/2013年の地域リーグ_\(サッカー\)#東北 "wikilink")                   | 東北1部                                                           | 4位     | 32 | 18 | 10 | 2 | 6  | 42  | 29 | 13                                                    |                                                                |                                    |
-| [2014](https://ja.wikipedia.org/wiki/2014年の地域リーグ_\(サッカー\)#東北 "wikilink")                   | 2位                                                             | 47     | 18 | 15 | 2  | 1 | 59 | 8   | 51 |                                                       |                                                                |                                    |
-| [2015](https://ja.wikipedia.org/wiki/2015年の地域リーグ_\(サッカー\)#東北 "wikilink")                   | 3位                                                             | 44     | 18 | 14 | 2  | 2 | 62 | 12  | 50 |                                                       |                                                                |                                    |
-| [2016](https://ja.wikipedia.org/wiki/2016年の地域リーグ_\(サッカー\)#東北 "wikilink")                   | **優勝**                                                         | 43     | 18 | 13 | 4  | 1 | 66 | 9   | 57 |                                                       |                                                                |                                    |
-| [2017](https://ja.wikipedia.org/wiki/2017年の地域リーグ_\(サッカー\)#東北 "wikilink")                   | **優勝**                                                         | 49     | 18 | 16 | 1  | 1 | 73 | 10  | 63 |                                                       |                                                                |                                    |
-| [2018](https://ja.wikipedia.org/wiki/第20回日本フットボールリーグ "wikilink")                           | [JFL](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")    | 16位    | 17 | 30 | 4  | 5 | 21 | 18  | 65 | \-47                                                  | [村田達哉](https://ja.wikipedia.org/wiki/村田達哉 "wikilink")          |                                    |
-| [2019](https://ja.wikipedia.org/wiki/2019年の地域リーグ_\(サッカー\)#東北 "wikilink")                   | 東北1部                                                           | 3位     | 40 | 18 | 12 | 4 | 2  | 52  | 15 | 37                                                    | [阿部裕二](https://ja.wikipedia.org/wiki/阿部裕二 "wikilink")          |                                    |
-|                                                                                            |                                                                |        |    |    |    |   |    |     |    |                                                       |                                                                |                                    |
+|                                                                                            |                                                               |        |    |    |    |   |    |     |    |                                                       |                                                                |                                    |
+| ------------------------------------------------------------------------------------------ | ------------------------------------------------------------- | ------ | -- | -- | -- | - | -- | --- | -- | ----------------------------------------------------- | -------------------------------------------------------------- | ---------------------------------- |
+| 年度                                                                                         | 所属                                                            | 順位     | 勝点 | 試合 | 勝  | 分 | 敗  | 得点  | 失点 | 差                                                     | [{{font](../Page/天皇杯_JFA_全日本サッカー選手権大会.md "wikilink")           | 監督                                 |
+| 2006                                                                                       | 石巻市                                                           | **優勝** | 54 | 18 | 18 | 0 | 0  | 127 | 4  | 123                                                   | [県予選敗退](https://ja.wikipedia.org/wiki/宮城県サッカー選手権大会 "wikilink") | [藤島信雄](../Page/藤島信雄.md "wikilink") |
+| 2007                                                                                       | [宮城県](https://ja.wikipedia.org/wiki/宮城県社会人サッカーリーグ "wikilink") | **優勝** | 32 | 14 | 10 | 2 | 2  | 49  | 17 | 32                                                    |                                                                |                                    |
+| [2008](https://ja.wikipedia.org/wiki/2008年の地域リーグ_\(サッカー\)#東北 "wikilink")                   | [東北](../Page/東北社会人サッカーリーグ.md "wikilink")2部南                   | 2位     | 33 | 14 | 11 | 0 | 3  | 53  | 9  | 44                                                    |                                                                |                                    |
+| [2009](https://ja.wikipedia.org/wiki/2009年の地域リーグ#東北 "wikilink")                            | **優勝**                                                        | 37     | 14 | 12 | 1  | 1 | 30 | 7   | 23 | [中島礼司](https://ja.wikipedia.org/wiki/中島礼司 "wikilink") |                                                                |                                    |
+| [2010](https://ja.wikipedia.org/wiki/2010年の地域リーグ_\(サッカー\)#東北 "wikilink")                   | 東北1部                                                          | 8位     | 8  | 14 | 1  | 5 | 8  | 13  | 29 | \-16                                                  |                                                                |                                    |
+| 2011年は[東北地方太平洋沖地震により活動休止](https://ja.wikipedia.org/wiki/東日本大震災によるスポーツへの影響#サッカー "wikilink") | [阿部裕二](https://ja.wikipedia.org/wiki/阿部裕二 "wikilink")         |        |    |    |    |   |    |     |    |                                                       |                                                                |                                    |
+| [2012](https://ja.wikipedia.org/wiki/2012年の地域リーグ_\(サッカー\)#東北 "wikilink")                   | 東北2部南                                                         | 2位     | 35 | 14 | 11 | 2 | 1  | 48  | 11 | 37                                                    | 県予選敗退                                                          |                                    |
+| [2013](https://ja.wikipedia.org/wiki/2013年の地域リーグ_\(サッカー\)#東北 "wikilink")                   | 東北1部                                                          | 4位     | 32 | 18 | 10 | 2 | 6  | 42  | 29 | 13                                                    |                                                                |                                    |
+| [2014](https://ja.wikipedia.org/wiki/2014年の地域リーグ_\(サッカー\)#東北 "wikilink")                   | 2位                                                            | 47     | 18 | 15 | 2  | 1 | 59 | 8   | 51 |                                                       |                                                                |                                    |
+| [2015](https://ja.wikipedia.org/wiki/2015年の地域リーグ_\(サッカー\)#東北 "wikilink")                   | 3位                                                            | 44     | 18 | 14 | 2  | 2 | 62 | 12  | 50 |                                                       |                                                                |                                    |
+| [2016](https://ja.wikipedia.org/wiki/2016年の地域リーグ_\(サッカー\)#東北 "wikilink")                   | **優勝**                                                        | 43     | 18 | 13 | 4  | 1 | 66 | 9   | 57 |                                                       |                                                                |                                    |
+| [2017](https://ja.wikipedia.org/wiki/2017年の地域リーグ_\(サッカー\)#東北 "wikilink")                   | **優勝**                                                        | 49     | 18 | 16 | 1  | 1 | 73 | 10  | 63 |                                                       |                                                                |                                    |
+| [2018](https://ja.wikipedia.org/wiki/第20回日本フットボールリーグ "wikilink")                           | [JFL](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")   | 16位    | 17 | 30 | 4  | 5 | 21 | 18  | 65 | \-47                                                  | [村田達哉](../Page/村田達哉.md "wikilink")                             |                                    |
+| [2019](https://ja.wikipedia.org/wiki/2019年の地域リーグ_\(サッカー\)#東北 "wikilink")                   | 東北1部                                                          | 3位     | 40 | 18 | 12 | 4 | 2  | 52  | 15 | 37                                                    | [阿部裕二](https://ja.wikipedia.org/wiki/阿部裕二 "wikilink")          |                                    |
+|                                                                                            |                                                               |        |    |    |    |   |    |     |    |                                                       |                                                                |                                    |
 
 ## タイトル
 
   - **[全国地域サッカーチャンピオンズリーグ](../Page/全国地域サッカーチャンピオンズリーグ.md "wikilink")**
       - 1回：[2017](https://ja.wikipedia.org/wiki/全国地域サッカーチャンピオンズリーグ2017 "wikilink")
-  - **[東北社会人サッカーリーグ](https://ja.wikipedia.org/wiki/東北社会人サッカーリーグ "wikilink")1部**
+  - **[東北社会人サッカーリーグ](../Page/東北社会人サッカーリーグ.md "wikilink")1部**
       - 2回：2016, 2017
   - **東北社会人サッカーリーグ2部南**
       - 1回：2009
@@ -227,7 +227,7 @@
 <td><p><strong>6</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/山内晴貴" title="wikilink">山内晴貴</a></p></td>
 <td><p>歳</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/JAPANサッカーカレッジ" title="wikilink">JAPANサッカーカレッジ</a></p></td>
+<td><p><a href="../Page/JAPANサッカーカレッジ.md" title="wikilink">JAPANサッカーカレッジ</a></p></td>
 <td><p>新加入</p></td>
 <td></td>
 </tr>
@@ -404,7 +404,7 @@
 
   - [阿部裕二](https://ja.wikipedia.org/wiki/阿部裕二 "wikilink")（2011-2017）
 
-  - [村田達哉](https://ja.wikipedia.org/wiki/村田達哉 "wikilink")（2018）
+  - [村田達哉](../Page/村田達哉.md "wikilink")（2018）
 
   - [阿部裕二](https://ja.wikipedia.org/wiki/阿部裕二 "wikilink")（2019-）
 
@@ -430,7 +430,7 @@
 |      |                                                       |                                                         |                                                                    |                                                       |                                                       |    |                                                       |                                                       |                                                       |
 | ---- | ----------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------------ | ----------------------------------------------------- | ----------------------------------------------------- | -- | ----------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
 | |11  | 12                                                    | 13                                                      | 14                                                                 | 15                                                    | 16                                                    | 17 | 18                                                    | 19                                                    | 20                                                    |
-| 2019 | [鳥山祥之](https://ja.wikipedia.org/wiki/鳥山祥之 "wikilink") | サポーターナンバー                                               | \-                                                                 | [吉田圭](https://ja.wikipedia.org/wiki/吉田圭 "wikilink")   | [南口駿](https://ja.wikipedia.org/wiki/南口駿 "wikilink")   | \- | [畑中秀斗](https://ja.wikipedia.org/wiki/畑中秀斗 "wikilink") | [森蔭冬威](https://ja.wikipedia.org/wiki/森蔭冬威 "wikilink") | [中村彦聖](https://ja.wikipedia.org/wiki/中村彦聖 "wikilink") |
+| 2019 | [鳥山祥之](https://ja.wikipedia.org/wiki/鳥山祥之 "wikilink") | サポーターナンバー                                               | \-                                                                 | [吉田圭](../Page/吉田圭.md "wikilink")                      | [南口駿](https://ja.wikipedia.org/wiki/南口駿 "wikilink")   | \- | [畑中秀斗](https://ja.wikipedia.org/wiki/畑中秀斗 "wikilink") | [森蔭冬威](https://ja.wikipedia.org/wiki/森蔭冬威 "wikilink") | [中村彦聖](https://ja.wikipedia.org/wiki/中村彦聖 "wikilink") |
 | 2018 | [成田星矢](https://ja.wikipedia.org/wiki/成田星矢 "wikilink") | [鵜飼亮多](https://ja.wikipedia.org/wiki/鵜飼亮多 "wikilink")   | [佐々木将人](https://ja.wikipedia.org/wiki/佐々木将人_\(サッカー選手\) "wikilink") | [土遠修平](https://ja.wikipedia.org/wiki/土遠修平 "wikilink") | [佐藤明生](https://ja.wikipedia.org/wiki/佐藤明生 "wikilink") |    |                                                       |                                                       |                                                       |
 | 2017 | [熊谷紋司](https://ja.wikipedia.org/wiki/熊谷紋司 "wikilink") | [青柳健汰](https://ja.wikipedia.org/wiki/青柳健汰 "wikilink")   | [阿部航太](https://ja.wikipedia.org/wiki/阿部航太 "wikilink")              | \-                                                    |                                                       |    |                                                       |                                                       |                                                       |
 | 2016 | [平野正頼](https://ja.wikipedia.org/wiki/平野正頼 "wikilink") | [金田理央](https://ja.wikipedia.org/wiki/金田理央 "wikilink")   |                                                                    |                                                       |                                                       |    |                                                       |                                                       |                                                       |
@@ -551,7 +551,7 @@ HOUSE</p></td>
 ### ユニフォームサプライヤー
 
   - 2006年 [hummel](../Page/ヒュンメル.md "wikilink")
-  - 2007年 - [Mizuno](https://ja.wikipedia.org/wiki/ミズノ "wikilink")
+  - 2007年 - [Mizuno](../Page/ミズノ.md "wikilink")
 
 ### 歴代ユニフォームスポンサー年表
 
@@ -580,7 +580,7 @@ HOUSE</p></td>
 </tr>
 <tr class="odd">
 <td><p>2007</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ミズノ" title="wikilink">Mizuno</a></p></td>
+<td><p><a href="../Page/ミズノ.md" title="wikilink">Mizuno</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -739,7 +739,7 @@ Japón-Hasekura</a></p></td>
 ## 関連項目
 
   - [Cobaltore女川の選手一覧](https://ja.wikipedia.org/wiki/Cobaltore女川の選手一覧 "wikilink")
-  - [Jリーグ加盟を目指すクラブ](https://ja.wikipedia.org/wiki/Jリーグ加盟を目指すクラブ "wikilink")
+  - [Jリーグ加盟を目指すクラブ](../Page/Jリーグ加盟を目指すクラブ.md "wikilink")
 
 ## 外部リンク
 

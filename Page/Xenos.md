@@ -31,7 +31,7 @@
 
 ## テレビドラマ
 
-[2007年](../Page/2007年.md "wikilink")[1月12日](../Page/1月12日.md "wikilink")から[3月30日](../Page/3月30日.md "wikilink")まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系で『Xenos 見知らぬ人』として[テレビドラマ](../Page/テレビドラマ.md "wikilink")化（「[スポパラ](https://ja.wikipedia.org/wiki/バラエティ7 "wikilink")」・「[ドラマ24](../Page/ドラマ24.md "wikilink")」枠）された。尚、[テレビ大阪](../Page/テレビ大阪.md "wikilink")は[1月18日](../Page/1月18日.md "wikilink")から[4月5日](../Page/4月5日.md "wikilink")まで、さらにその他系列外の地方局においても遅れネット等で放送され、あわせて、絶版に等しかった単行本が重版され再び店頭に並ぶなどドラマ化によって人気が再燃した（各局の放送状況については[ドラマ24](../Page/ドラマ24.md "wikilink")を参照のこと）。
+[2007年](../Page/2007年.md "wikilink")[1月12日](../Page/1月12日.md "wikilink")から[3月30日](../Page/3月30日.md "wikilink")まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系で『Xenos 見知らぬ人』として[テレビドラマ](../Page/テレビドラマ.md "wikilink")化（「[スポパラ](../Page/バラエティ7.md "wikilink")」・「[ドラマ24](../Page/ドラマ24.md "wikilink")」枠）された。尚、[テレビ大阪](../Page/テレビ大阪.md "wikilink")は[1月18日](../Page/1月18日.md "wikilink")から[4月5日](../Page/4月5日.md "wikilink")まで、さらにその他系列外の地方局においても遅れネット等で放送され、あわせて、絶版に等しかった単行本が重版され再び店頭に並ぶなどドラマ化によって人気が再燃した（各局の放送状況については[ドラマ24](../Page/ドラマ24.md "wikilink")を参照のこと）。
 
 ### ストーリー
 
@@ -39,13 +39,13 @@
 
 ### メイン・キャスト
 
-  - 石橋直人：[海東健](https://ja.wikipedia.org/wiki/海東健 "wikilink")
+  - 石橋直人：[海東健](../Page/海東健.md "wikilink")
   - 早妃（直人の妻）：[一戸奈美](../Page/一戸奈美.md "wikilink")
   - 波多野ミナ（直人の職場のアシスタント）：[堀田ゆい夏](../Page/堀田ゆい夏.md "wikilink")
   - 山崎周平（直人の友人）：[小林且弥](../Page/小林且弥.md "wikilink")
   - 青木俊彦（直人の隣人）：[金井勇太](../Page/金井勇太.md "wikilink")
   - 佐野良美（放火事件の被害者）：[橘実里](../Page/橘実里.md "wikilink")
-  - 吉野真理子（探偵）：[後藤理沙](https://ja.wikipedia.org/wiki/後藤理沙 "wikilink")
+  - 吉野真理子（探偵）：[後藤理沙](../Page/後藤理沙.md "wikilink")
   - 小倉綾子（直人と早妃の結婚の証人）：[佐野夏芽](https://ja.wikipedia.org/wiki/佐野夏芽 "wikilink")
   - 轟（渋谷中央署桜ヶ丘交番勤務の警官）：[丸山智己](../Page/丸山智己.md "wikilink")
   - 青沼（婦人警官）：浦中杏奈
@@ -60,8 +60,8 @@
   - 森下良一（直人の少年時代の仲間）：松下卓也
   - 吉沢克則（直人の少年時代の仲間）：[山岸拓生](https://ja.wikipedia.org/wiki/山岸拓生 "wikilink")
   - 鈴木雄二（直人が勤める出版社の編集長）：[モロ師岡](../Page/モロ師岡.md "wikilink")
-  - 瀬戸美紗子（奥田の秘書）：[柏木貴代](https://ja.wikipedia.org/wiki/柏木貴代 "wikilink")
-  - 奥田秀一郎（公社党の国会議員）：[西岡徳馬](https://ja.wikipedia.org/wiki/西岡徳馬 "wikilink")
+  - 瀬戸美紗子（奥田の秘書）：[柏木貴代](../Page/柏木貴代.md "wikilink")
+  - 奥田秀一郎（公社党の国会議員）：[西岡徳馬](../Page/西岡徳馬.md "wikilink")
 
 ### ゲスト・キャスト
 
@@ -105,7 +105,7 @@
 
 ### 主題歌
 
-  - [ナナムジカ](../Page/ナナムジカ.md "wikilink")「[心音](https://ja.wikipedia.org/wiki/心音 "wikilink")」（[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")）
+  - [ナナムジカ](../Page/ナナムジカ.md "wikilink")「[心音](https://ja.wikipedia.org/wiki/心音 "wikilink")」（[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")）
 
 ### オープニングテーマ
 

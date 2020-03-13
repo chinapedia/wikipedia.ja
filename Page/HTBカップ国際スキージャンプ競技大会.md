@@ -1,7 +1,7 @@
 > この記事は[HTB](https://ja.wikipedia.org/wiki/HTB)から翻訳されています。
 
 
-**[HTBカップ国際スキージャンプ競技大会](../Page/北海道テレビ放送.md "wikilink")**は[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")[大倉山ジャンプ競技場](https://ja.wikipedia.org/wiki/大倉山ジャンプ競技場 "wikilink")で開催される[スキージャンプ](../Page/スキージャンプ.md "wikilink")の大会。 2000年以降は[FISコンチネンタルカップを兼ねている](../Page/スキージャンプ・コンチネンタルカップ.md "wikilink")。
+**[HTBカップ国際スキージャンプ競技大会](../Page/北海道テレビ放送.md "wikilink")**は[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")[大倉山ジャンプ競技場](../Page/大倉山ジャンプ競技場.md "wikilink")で開催される[スキージャンプ](../Page/スキージャンプ.md "wikilink")の大会。 2000年以降は[FISコンチネンタルカップを兼ねている](../Page/スキージャンプ・コンチネンタルカップ.md "wikilink")。
 
 コンチネンタルカップには国別の出場枠があるため出場枠から漏れた日本人選手はコンチネンタルカップの順位には反映されないため、HTBカップの順位とコンチネンタルカップの順位は異なることになる。
 
@@ -108,7 +108,7 @@
 <td><p>1982 1 30</p></td>
 <td><p>大倉山シャンツェ</p></td>
 <td><p><a href="../Page/秋元正博.md" title="wikilink">秋元正博</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/地崎工業" title="wikilink">地崎工業</a></p></td>
+<td><p><a href="../Page/地崎工業.md" title="wikilink">地崎工業</a></p></td>
 <td><p>229.4</p></td>
 <td><p>97.0</p></td>
 <td><p>109.0</p></td>
@@ -168,7 +168,7 @@
 <td><p>1988 1 30</p></td>
 <td><p>大倉山シャンツェ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/清水貞雄" title="wikilink">清水貞雄</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デサント" title="wikilink">デサント</a></p></td>
+<td><p><a href="../Page/デサント.md" title="wikilink">デサント</a></p></td>
 <td><p>210.1</p></td>
 <td><p>111.0</p></td>
 <td><p>110.5</p></td>
@@ -268,7 +268,7 @@
 <td><p>1998 1 17</p></td>
 <td><p>大倉山シャンツェ</p></td>
 <td><p><a href="../Page/宮平秀治.md" title="wikilink">宮平秀治</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ミズノ" title="wikilink">ミズノ</a></p></td>
+<td><p><a href="../Page/ミズノ.md" title="wikilink">ミズノ</a></p></td>
 <td><p>221.7</p></td>
 <td><p>106.5</p></td>
 <td><p>127.5</p></td>
@@ -308,7 +308,7 @@
 <td><p>2002 1 12</p></td>
 <td><p>大倉山シャンツェ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ヤンネ・ハッポネン" title="wikilink">ヤンネ・ハッポネン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フィンランド" title="wikilink">フィンランド</a></p></td>
+<td><p><a href="../Page/フィンランド.md" title="wikilink">フィンランド</a></p></td>
 <td><p>248.2</p></td>
 <td><p>128.0</p></td>
 <td><p>121.0</p></td>
@@ -337,7 +337,7 @@
 <td><p>32</p></td>
 <td><p>2005 1 15</p></td>
 <td><p>大倉山シャンツェ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/一戸剛" title="wikilink">一戸剛</a></p></td>
+<td><p><a href="../Page/一戸剛.md" title="wikilink">一戸剛</a></p></td>
 <td><p>アインズ</p></td>
 <td><p>279.5</p></td>
 <td><p>133.0</p></td>
@@ -512,7 +512,7 @@
 
 ## 備考
 
-  - 2000年以降、同じく大倉山ジャンプ競技場で行われるFISコンチネンタルカップに指定されている[STVカップ国際スキージャンプ競技大会](https://ja.wikipedia.org/wiki/STVカップ国際スキージャンプ競技大会 "wikilink")と2日連続で開催されており、多くの有力外国人選手があわせて出場する。また、年によっては[札幌オリンピック記念国際スキージャンプ競技大会](https://ja.wikipedia.org/wiki/札幌オリンピック記念国際スキージャンプ競技大会 "wikilink")、[HBCカップジャンプ競技会](../Page/HBCカップジャンプ競技会.md "wikilink")、[NHK杯ジャンプ大会](../Page/NHK杯ジャンプ大会.md "wikilink")と組み合わさって3日連続、4日連続で開催されることもある。
+  - 2000年以降、同じく大倉山ジャンプ競技場で行われるFISコンチネンタルカップに指定されている[STVカップ国際スキージャンプ競技大会](../Page/STVカップ国際スキージャンプ競技大会.md "wikilink")と2日連続で開催されており、多くの有力外国人選手があわせて出場する。また、年によっては[札幌オリンピック記念国際スキージャンプ競技大会](../Page/札幌オリンピック記念国際スキージャンプ競技大会.md "wikilink")、[HBCカップジャンプ競技会](../Page/HBCカップジャンプ競技会.md "wikilink")、[NHK杯ジャンプ大会](../Page/NHK杯ジャンプ大会.md "wikilink")と組み合わさって3日連続、4日連続で開催されることもある。
   - 2012年の第39回大会では1本目で81番スタートの[竹内択](https://ja.wikipedia.org/wiki/竹内択 "wikilink")が145.5mと従来のバッケンレコード(145.0m)を更新した直後、82番スタートの[伊東大貴](../Page/伊東大貴.md "wikilink")が146.0mを飛びさらに更新した。また伊東の301.3点は日本国内で史上初の300点越えである。
   - 2017年の第44回大会の優勝者・クレメンス・アイグナーの2本目の飛距離(140.0m)は、大倉山シャンツェの新プロフィール（K=123m、HS=137m)におけるバッケンレコードとなった。
 

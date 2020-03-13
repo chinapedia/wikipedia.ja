@@ -3,25 +3,25 @@
 
 『**殴者 NAGURIMONO**』（なぐりもの）は、[2005年に公開された](../Page/2005年の映画.md "wikilink")[日本映画](../Page/日本映画.md "wikilink")。
 
-総合格闘技イベント[PRIDEを主催していた](../Page/PRIDE_\(格闘技イベント\).md "wikilink")[ドリームステージエンターテインメント](https://ja.wikipedia.org/wiki/ドリームステージエンターテインメント "wikilink")が映画事業に参入し製作した異色[時代劇](../Page/時代劇.md "wikilink")映画。
+総合格闘技イベント[PRIDEを主催していた](../Page/PRIDE_\(格闘技イベント\).md "wikilink")[ドリームステージエンターテインメント](../Page/ドリームステージエンターテインメント.md "wikilink")が映画事業に参入し製作した異色[時代劇](../Page/時代劇.md "wikilink")映画。
 
-監督は[Dragon Ash](https://ja.wikipedia.org/wiki/Dragon_Ash "wikilink")、[KREVA](https://ja.wikipedia.org/wiki/KREVA "wikilink")などの[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")を数多く手掛けている映像クリエイターの[須永秀明](../Page/須永秀明.md "wikilink")。格闘家の[桜庭和志](../Page/桜庭和志.md "wikilink")、[高山善廣](../Page/高山善廣.md "wikilink")、[ヴァンダレイ・シウバ](https://ja.wikipedia.org/wiki/ヴァンダレイ・シウバ "wikilink")らが出演し格闘シーンを演じている。
+監督は[Dragon Ash](../Page/Dragon_Ash.md "wikilink")、[KREVA](../Page/KREVA.md "wikilink")などの[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")を数多く手掛けている映像クリエイターの[須永秀明](../Page/須永秀明.md "wikilink")。格闘家の[桜庭和志](../Page/桜庭和志.md "wikilink")、[高山善廣](../Page/高山善廣.md "wikilink")、[ヴァンダレイ・シウバ](../Page/ヴァンダレイ・シウバ.md "wikilink")らが出演し格闘シーンを演じている。
 
 ## 出演
 
   - 暗雷…[玉木宏](https://ja.wikipedia.org/wiki/玉木宏 "wikilink")
   - 遊女…[水川あさみ](https://ja.wikipedia.org/wiki/水川あさみ "wikilink")
-  - ピストル愛次郎…[陣内孝則](https://ja.wikipedia.org/wiki/陣内孝則 "wikilink")
+  - ピストル愛次郎…[陣内孝則](../Page/陣内孝則.md "wikilink")
   - 虎走六…[虎牙光揮](../Page/虎牙光揮.md "wikilink")
-  - 皮舌雨舌…[篠井英介](https://ja.wikipedia.org/wiki/篠井英介 "wikilink")
+  - 皮舌雨舌…[篠井英介](../Page/篠井英介.md "wikilink")
   - [クリスチャン・ストームズ](https://ja.wikipedia.org/wiki/クリスチャン・ストームズ "wikilink")
-  - [山田明郷](https://ja.wikipedia.org/wiki/山田明郷 "wikilink")
+  - [山田明郷](../Page/山田明郷.md "wikilink")
   - [マギー](../Page/マギー_\(俳優\).md "wikilink")
-  - [田中要次](https://ja.wikipedia.org/wiki/田中要次 "wikilink")
+  - [田中要次](../Page/田中要次.md "wikilink")
   - [片山敬太郎](../Page/片山敬太郎.md "wikilink")
   - 銀閣…[桜庭和志](../Page/桜庭和志.md "wikilink")
   - 鉄風…[高山善廣](../Page/高山善廣.md "wikilink")
-  - モルテ…[ヴァンダレイ・シウバ](https://ja.wikipedia.org/wiki/ヴァンダレイ・シウバ "wikilink")
+  - モルテ…[ヴァンダレイ・シウバ](../Page/ヴァンダレイ・シウバ.md "wikilink")
   - ドン・ディガ…[クイントン・"ランペイジ"・ジャクソン](../Page/クイントン・ジャクソン.md "wikilink")
   - [ドン・フライ](../Page/ドン・フライ.md "wikilink")
   - [アレクサンダー大塚](../Page/アレクサンダー大塚.md "wikilink")
@@ -34,7 +34,7 @@
 ## スタッフ
 
   - 監督：[須永秀明](../Page/須永秀明.md "wikilink")
-  - 製作総指揮：[榊原信行](https://ja.wikipedia.org/wiki/榊原信行 "wikilink")、[葵てるよし](../Page/葵てるよし.md "wikilink")
+  - 製作総指揮：[榊原信行](../Page/榊原信行.md "wikilink")、[葵てるよし](../Page/葵てるよし.md "wikilink")
   - 脚本：[伴一彦](../Page/伴一彦.md "wikilink")
   - 音楽：[會田茂一](../Page/會田茂一.md "wikilink")
   - プロデューサー：[森谷雄](../Page/森谷雄.md "wikilink")、[マツムラケンゾウ](https://ja.wikipedia.org/wiki/マツムラケンゾウ "wikilink")

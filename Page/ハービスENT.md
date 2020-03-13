@@ -5,17 +5,17 @@
 
 ## 構成
 
-ハービスENTの断面図はL字型になっており、L字の底層部分のB2-7階が商業施設『ハービスPLAZA ENT』で、[グッチ](https://ja.wikipedia.org/wiki/グッチ "wikilink")、[オメガ](https://ja.wikipedia.org/wiki/オメガ "wikilink")、[ティファニー](../Page/ティファニー.md "wikilink")、[スワロフスキー](https://ja.wikipedia.org/wiki/スワロフスキー "wikilink")などの高級ブランド店などが入居している。同B2階には[ビルボードライブ大阪が](https://ja.wikipedia.org/wiki/阪神コンテンツリンク#ビルボードライブ "wikilink")、同8-12階は[大阪四季劇場](../Page/大阪四季劇場.md "wikilink")が入居している。
+ハービスENTの断面図はL字型になっており、L字の底層部分のB2-7階が商業施設『ハービスPLAZA ENT』で、[グッチ](../Page/グッチ.md "wikilink")、[オメガ](https://ja.wikipedia.org/wiki/オメガ "wikilink")、[ティファニー](../Page/ティファニー.md "wikilink")、[スワロフスキー](https://ja.wikipedia.org/wiki/スワロフスキー "wikilink")などの高級ブランド店などが入居している。同B2階には[ビルボードライブ大阪が](https://ja.wikipedia.org/wiki/阪神コンテンツリンク#ビルボードライブ "wikilink")、同8-12階は[大阪四季劇場](../Page/大阪四季劇場.md "wikilink")が入居している。
 
-L字の縦のラインに当たる部分は、8-27階が『ハービスENTオフィスタワー』になっており、賃貸オフィスが入っている。頂部には[ヘリポート](../Page/ヘリポート.md "wikilink")がある。また、1階には[阪神バス](https://ja.wikipedia.org/wiki/阪神バス "wikilink")系の[高速バス](../Page/高速バス.md "wikilink")ターミナルである[ハービスOSAKAバスターミナルがある](https://ja.wikipedia.org/wiki/大阪駅周辺バスのりば#ハービスOSAKAバスターミナル "wikilink")。
+L字の縦のラインに当たる部分は、8-27階が『ハービスENTオフィスタワー』になっており、賃貸オフィスが入っている。頂部には[ヘリポート](../Page/ヘリポート.md "wikilink")がある。また、1階には[阪神バス](../Page/阪神バス.md "wikilink")系の[高速バス](../Page/高速バス.md "wikilink")ターミナルである[ハービスOSAKAバスターミナルがある](https://ja.wikipedia.org/wiki/大阪駅周辺バスのりば#ハービスOSAKAバスターミナル "wikilink")。
 
 ## 周辺
 
   - [ハービスOSAKA](../Page/ハービスOSAKA.md "wikilink")（ハービス大阪、梅田阪神第1ビルディング）
       - 阪神西梅田開発の第1期事業。ハービスENTの西隣に建設された地上40階、地下5階、高さ190mの複合高層ビル。ハービスOSAKAオフィスタワー（高層棟）、ホテル「[ザ・リッツ・カールトン大阪](../Page/ザ・リッツ・カールトン大阪.md "wikilink")」、ハービスPLAZA（商業施設）などで構成される。
-  - [ヒルトンプラザ ウエスト](https://ja.wikipedia.org/wiki/ヒルトンプラザ大阪 "wikilink")
+  - [ヒルトンプラザ ウエスト](../Page/ヒルトンプラザ大阪.md "wikilink")
   - [ブリーゼタワー](https://ja.wikipedia.org/wiki/ブリーゼタワー "wikilink")
-  - [オオサカガーデンシティ](https://ja.wikipedia.org/wiki/オオサカガーデンシティ "wikilink")
+  - [オオサカガーデンシティ](../Page/オオサカガーデンシティ.md "wikilink")
 
 ## 交通
 

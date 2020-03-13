@@ -68,13 +68,13 @@
 
   - [アジウソン](../Page/アジウソン・ディアス・バティスタ.md "wikilink") 2004
 
-  - [カルロス・アウベルト](https://ja.wikipedia.org/wiki/カルロス・アウベルト "wikilink") 2004, 2005
+  - [カルロス・アウベルト](../Page/カルロス・アウベルト.md "wikilink") 2004, 2005
 
   - [マルセロ・シャムスカ](../Page/マルセロ・シャムスカ.md "wikilink") 2017-
 
 ## 歴代所属選手
 
-  - [ドゥトラ](https://ja.wikipedia.org/wiki/アントニオ・モンテイロ・ドゥトラ "wikilink") 1994
+  - [ドゥトラ](../Page/アントニオ・モンテイロ・ドゥトラ.md "wikilink") 1994
 
   - [マギヌン](../Page/マギヌン・ラファエル・ファリアス・タバレス.md "wikilink") 2002-2003
 

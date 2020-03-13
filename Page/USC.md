@@ -23,9 +23,9 @@
       - [アメリカ合衆国大統領顧問団](https://ja.wikipedia.org/wiki/アメリカ合衆国大統領顧問団 "wikilink") (*United States Cabinet*)
       - [合衆国法典](../Page/合衆国法典.md "wikilink") (*Code of Laws of the United States of America, United States Code, U.S. Code, U.S.C.*)
       - [アメリカ合衆国議会](https://ja.wikipedia.org/wiki/アメリカ合衆国議会 "wikilink") (*United States Congress*)
-      - [アメリカ合衆国憲法](https://ja.wikipedia.org/wiki/アメリカ合衆国憲法 "wikilink") (*Constitution of the United States, United States Constitution*)
+      - [アメリカ合衆国憲法](../Page/アメリカ合衆国憲法.md "wikilink") (*Constitution of the United States, United States Constitution*)
       - Utility Stores Corporation
-      - [内之浦宇宙空間観測所](https://ja.wikipedia.org/wiki/内之浦宇宙空間観測所 "wikilink") (*Uchinoura Space Center*)
-      - [ユニバーサル造船](https://ja.wikipedia.org/wiki/ユニバーサル造船 "wikilink") (*Universal Shipbuilding Corporation*) - 日本の造船会社。
+      - [内之浦宇宙空間観測所](../Page/内之浦宇宙空間観測所.md "wikilink") (*Uchinoura Space Center*)
+      - [ユニバーサル造船](../Page/ユニバーサル造船.md "wikilink") (*Universal Shipbuilding Corporation*) - 日本の造船会社。
       - [超々臨界圧石炭火力発電](https://ja.wikipedia.org/wiki/火力発電#ボイラー "wikilink") (*Ultra Super Critical*)或いは高効率微粉炭火力発電―[臨界点](../Page/臨界点.md "wikilink")、[超臨界流体\#用途](https://ja.wikipedia.org/wiki/超臨界流体#用途 "wikilink")も参照のこと
       - [ユナイテッド・スポーティング](https://ja.wikipedia.org/wiki/ユナイテッド・スポーティング "wikilink") - アメリカ合衆国銃器卸売大手。2019年6月10日、破産申請。

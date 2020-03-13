@@ -30,16 +30,16 @@
 
   - 2013年3月1日 21:00 - 21:30
       -
-        「Jリーグ開幕直前 [生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")スペシャル Ole Ole Jubilo VS ISSO\! S-PULSE」
+        「Jリーグ開幕直前 [生放送](../Page/生放送.md "wikilink")スペシャル Ole Ole Jubilo VS ISSO\! S-PULSE」
         ※ 「[K-MIX Rainbow Fly-Day](https://ja.wikipedia.org/wiki/K-MIX_Rainbow_Fly-Day "wikilink") ～Jリーグ開幕直前Special～」の[スピンオフ番組として](https://ja.wikipedia.org/wiki/スピンオフ#スピンオフ（作品制作） "wikilink")、[ISSO\! S-PULSEとの合体放送](../Page/ISSO!S-PULSE.md "wikilink")。
 
 ## ポッドキャスト
 
-放送終了後、[ポッドキャスト](https://ja.wikipedia.org/wiki/ポッドキャスト "wikilink")\[6\]配信。
+放送終了後、[ポッドキャスト](../Page/ポッドキャスト.md "wikilink")\[6\]配信。
 
   - 過去
 
-[インターネット放送](https://ja.wikipedia.org/wiki/インターネット放送 "wikilink")もあり、最新版は月曜日の21:30 - 次週月曜日の20:30までの間の毎時30分からのセミライブで、直近1か月分並びに過去の放送で[再放送](https://ja.wikipedia.org/wiki/再放送 "wikilink")の要望があった番組についてはオンデマンドで聴くことが出来た。
+[インターネット放送](../Page/インターネット放送.md "wikilink")もあり、最新版は月曜日の21:30 - 次週月曜日の20:30までの間の毎時30分からのセミライブで、直近1か月分並びに過去の放送で[再放送](../Page/再放送.md "wikilink")の要望があった番組についてはオンデマンドで聴くことが出来た。
 
 静岡県に限り、[パソコン](https://ja.wikipedia.org/wiki/パソコン "wikilink")や[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")からオンタイムで聞くことが可能だった。
 

@@ -60,11 +60,11 @@
 
   - [ザ\!世界仰天ニュース](../Page/ザ!世界仰天ニュース.md "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink") / [NNS系列全国ネット](../Page/日本テレビネットワーク協議会.md "wikilink")、[厨子王](https://ja.wikipedia.org/wiki/厨子王_\(テレビ制作会社\) "wikilink")　2001年4月 - 2012年9月）
   - [笑いの金メダル](../Page/笑いの金メダル.md "wikilink")（[ABCテレビ](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink") / [ANN系列全国ネット](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")、社員　2004年4月 - 2007年6月）
-  - [億万のココロ・愛しのマネー$伝説](https://ja.wikipedia.org/wiki/億万のココロ・愛しのマネー$伝説 "wikilink")（日本テレビ / NNS系列全国ネット、厨子王　2004年10月 - 2005年3月）
-  - [世界\!超マネー研究所](https://ja.wikipedia.org/wiki/世界!超マネー研究所 "wikilink")（日本テレビ / NNS系列全国ネット、厨子王　2005年4月 - 9月）
-  - [娘DOKYU\!](https://ja.wikipedia.org/wiki/娘DOKYU! "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink") / [TXN](https://ja.wikipedia.org/wiki/TXN "wikilink")系列ほか一部ネット、[テレビ東京ミュージック](https://ja.wikipedia.org/wiki/テレビ東京ミュージック "wikilink")　2005年10月 - 2006年9月）
+  - [億万のココロ・愛しのマネー$伝説](../Page/億万のココロ・愛しのマネー$伝説.md "wikilink")（日本テレビ / NNS系列全国ネット、厨子王　2004年10月 - 2005年3月）
+  - [世界\!超マネー研究所](../Page/世界!超マネー研究所.md "wikilink")（日本テレビ / NNS系列全国ネット、厨子王　2005年4月 - 9月）
+  - [娘DOKYU\!](../Page/娘DOKYU!.md "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink") / [TXN](https://ja.wikipedia.org/wiki/TXN "wikilink")系列ほか一部ネット、[テレビ東京ミュージック](../Page/テレビ東京ミュージック.md "wikilink")　2005年10月 - 2006年9月）
   - [ぶっコギ\!](../Page/ぶっコギ!.md "wikilink")（日本テレビ / NNS系列関東ローカル　2006年10月 - 2007年9月）
-  - [モテケン](../Page/モテケン.md "wikilink")（テレビ東京 / TXN系列ほか一部ネット、[テレビマンユニオン](https://ja.wikipedia.org/wiki/テレビマンユニオン "wikilink")　2007年4月 - 2008年3月）
+  - [モテケン](../Page/モテケン.md "wikilink")（テレビ東京 / TXN系列ほか一部ネット、[テレビマンユニオン](../Page/テレビマンユニオン.md "wikilink")　2007年4月 - 2008年3月）
   - [どハッスル\!\!](https://ja.wikipedia.org/wiki/どハッスル!! "wikilink")（テレビ東京 / TXN系列ほか一部ネット、ブロンコス　2007年10月 - 2008年3月）
   - [お茶の間の真実〜もしかして私だけ\!?〜](../Page/お茶の間の真実〜もしかして私だけ!?〜.md "wikilink")（テレビ東京 / TXN系列全国ネット、厨子王　2007年10月 - 2008年8月）
   - [ベリキュー\!](https://ja.wikipedia.org/wiki/ベリキュー! "wikilink")（テレビ東京 / TXN系列ほか一部ネット、テレビ東京ミュージック、アクロ　2008年3月 - 10月）

@@ -7,7 +7,7 @@
 
 AV監督と呼ばれる人の中には、他業種の映像業界（[テレビ](../Page/テレビ.md "wikilink")や[映画](../Page/映画.md "wikilink")、[ピンク映画](../Page/ピンク映画.md "wikilink")、[Vシネマ](https://ja.wikipedia.org/wiki/Vシネマ "wikilink")等）で並行して監督をしている人も数多くいる｡ 一般に他業種での監督名を本名で、AVでの監督名を芸名のように変えることやクレジットを隠すことが多い。また、AV業界に元々いながら、監督名を本名以外にする人も多く、結果として変わった名前の監督がAV業界には多い。[SODクリエイト](../Page/SODクリエイト.md "wikilink")社員監督は原則本名名義。
 
-名づけ方の特徴としては“[カンパニー松尾](../Page/カンパニー松尾.md "wikilink")”“[バクシーシ山下](https://ja.wikipedia.org/wiki/バクシーシ山下 "wikilink")”のように横文字+苗字と言ったリング・ネーム方式や、“芥川漱石”のように全くの創作的名前であったり、“WATARUX”のような記号的なものまである。
+名づけ方の特徴としては“[カンパニー松尾](../Page/カンパニー松尾.md "wikilink")”“[バクシーシ山下](../Page/バクシーシ山下.md "wikilink")”のように横文字+苗字と言ったリング・ネーム方式や、“芥川漱石”のように全くの創作的名前であったり、“WATARUX”のような記号的なものまである。
 
 アダルト・ビデオという[エロ](https://ja.wikipedia.org/wiki/エロ "wikilink")が映像化されていれば、第一義が満たされる映像の性質上、
 
@@ -23,7 +23,7 @@ AV監督と呼ばれる人の中には、他業種の映像業界（[テレビ](
 ## AV監督一覧
 
   - [相川和義](../Page/相川和義.md "wikilink")
-  - [安達かおる](https://ja.wikipedia.org/wiki/安達かおる "wikilink")
+  - [安達かおる](../Page/安達かおる.md "wikilink")
   - [天野大吉](../Page/天野大吉.md "wikilink")
   - [嵐山みちる](https://ja.wikipedia.org/wiki/嵐山みちる "wikilink")
   - [井口昇](../Page/井口昇.md "wikilink")
@@ -33,7 +33,7 @@ AV監督と呼ばれる人の中には、他業種の映像業界（[テレビ](
   - [岩井志麻子](../Page/岩井志麻子.md "wikilink")
   - [江川達也](../Page/江川達也.md "wikilink")
   - [岡山パセリ♪](https://ja.wikipedia.org/wiki/岡山パセリ♪ "wikilink")
-  - [甲斐正明](https://ja.wikipedia.org/wiki/甲斐正明 "wikilink")
+  - [甲斐正明](../Page/甲斐正明.md "wikilink")
   - [カジー風間](https://ja.wikipedia.org/wiki/カジー風間 "wikilink")
   - [加藤鷹](../Page/加藤鷹.md "wikilink")
   - [川崎軍二](https://ja.wikipedia.org/wiki/川崎軍二 "wikilink")
@@ -57,9 +57,9 @@ AV監督と呼ばれる人の中には、他業種の映像業界（[テレビ](
   - [タイガー小堺](https://ja.wikipedia.org/wiki/タイガー小堺 "wikilink")
   - [さいゆ〜き](https://ja.wikipedia.org/wiki/さいゆ〜き "wikilink")
   - [桜井ちんたろう](https://ja.wikipedia.org/wiki/桜井ちんたろう "wikilink")
-  - [ささきうずまき](https://ja.wikipedia.org/wiki/ささきうずまき "wikilink")
+  - [ささきうずまき](../Page/ささきうずまき.md "wikilink")
   - [三代目葵マリー](https://ja.wikipedia.org/wiki/三代目葵マリー "wikilink")
-  - [志摩紫光](https://ja.wikipedia.org/wiki/志摩紫光 "wikilink")
+  - [志摩紫光](../Page/志摩紫光.md "wikilink")
   - [島袋浩](../Page/島袋浩.md "wikilink")
   - [清水大敬](../Page/清水大敬.md "wikilink")
   - [菅原千恵](https://ja.wikipedia.org/wiki/菅原千恵 "wikilink")
@@ -76,11 +76,11 @@ AV監督と呼ばれる人の中には、他業種の映像業界（[テレビ](
   - [高橋孝英](../Page/高橋孝英.md "wikilink")
   - [滝口シルヴィア](https://ja.wikipedia.org/wiki/滝口シルヴィア "wikilink")
   - [沢庵](https://ja.wikipedia.org/wiki/沢庵_\(AV監督\) "wikilink")
-  - [竹本シンゴ](https://ja.wikipedia.org/wiki/竹本シンゴ "wikilink")
+  - [竹本シンゴ](../Page/竹本シンゴ.md "wikilink")
   - [田村総一朗](https://ja.wikipedia.org/wiki/田村総一朗 "wikilink")
   - [溜池ゴロー](../Page/溜池ゴロー.md "wikilink")
   - [月下秀之](https://ja.wikipedia.org/wiki/月下秀之 "wikilink")
-  - [辻丸耕平](https://ja.wikipedia.org/wiki/辻丸耕平 "wikilink")
+  - [辻丸耕平](../Page/辻丸耕平.md "wikilink")
   - [東郷健](../Page/東郷健.md "wikilink")
   - [TOHJIRO](https://ja.wikipedia.org/wiki/TOHJIRO "wikilink")
   - [とっちん](https://ja.wikipedia.org/wiki/とっちん "wikilink")
@@ -117,13 +117,13 @@ AV監督と呼ばれる人の中には、他業種の映像業界（[テレビ](
   - [宮本小次郎](../Page/宮本小次郎.md "wikilink")
   - [ミュウ](../Page/ミュウ_\(AV女優\).md "wikilink")
   - [ラッシャーみよし](../Page/ラッシャーみよし.md "wikilink")
-  - [チョコボール向井](https://ja.wikipedia.org/wiki/チョコボール向井 "wikilink")
-  - [村西とおる](https://ja.wikipedia.org/wiki/村西とおる "wikilink")
+  - [チョコボール向井](../Page/チョコボール向井.md "wikilink")
+  - [村西とおる](../Page/村西とおる.md "wikilink")
   - [望月六郎](../Page/望月六郎_\(映画監督\).md "wikilink")
   - [紋℃](https://ja.wikipedia.org/wiki/紋℃ "wikilink")
   - [安田理央](https://ja.wikipedia.org/wiki/安田理央 "wikilink")
   - [梁井一](https://ja.wikipedia.org/wiki/梁井一 "wikilink")
-  - [バクシーシ山下](https://ja.wikipedia.org/wiki/バクシーシ山下 "wikilink")
+  - [バクシーシ山下](../Page/バクシーシ山下.md "wikilink")
   - [山田風゜助](https://ja.wikipedia.org/wiki/山田風゜助 "wikilink")
   - [山本竜二](../Page/山本竜二.md "wikilink")
   - [山本わかめ](https://ja.wikipedia.org/wiki/山本わかめ "wikilink")

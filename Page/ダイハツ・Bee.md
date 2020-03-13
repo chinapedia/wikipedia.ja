@@ -1,7 +1,7 @@
 > この記事は[Bee](https://ja.wikipedia.org/wiki/Bee)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Daihatsu_Bee_\(1951\)004.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Daihatsu_Bee_\(1951\)002.JPG "wikilink") [Davis_Divan,_NATMUS,_May_2011.jpg](https://ja.wikipedia.org/wiki/File:Davis_Divan,_NATMUS,_May_2011.jpg "fig:Davis_Divan,_NATMUS,_May_2011.jpg") **Bee**（ビー）は、[ダイハツ工業](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")が[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に発売した[三輪自動車](https://ja.wikipedia.org/wiki/三輪自動車 "wikilink")。三輪の2ドア[ノッチバック](../Page/ノッチバック.md "wikilink")[セダン](../Page/セダン.md "wikilink")型[乗用車](../Page/乗用車.md "wikilink")（フロント1輪、リア2輪）。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Daihatsu_Bee_\(1951\)004.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Daihatsu_Bee_\(1951\)002.JPG "wikilink") [Davis_Divan,_NATMUS,_May_2011.jpg](https://ja.wikipedia.org/wiki/File:Davis_Divan,_NATMUS,_May_2011.jpg "fig:Davis_Divan,_NATMUS,_May_2011.jpg") **Bee**（ビー）は、[ダイハツ工業](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")が[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に発売した[三輪自動車](../Page/三輪自動車.md "wikilink")。三輪の2ドア[ノッチバック](../Page/ノッチバック.md "wikilink")[セダン](../Page/セダン.md "wikilink")型[乗用車](../Page/乗用車.md "wikilink")（フロント1輪、リア2輪）。
 
 完成車の分野では[オート三輪](../Page/オート三輪.md "wikilink")トラックメーカーとしての活動が長かったダイハツにとって、三輪式ながら創立以来初めての本格的市販型乗用車であり、[貨物自動車](../Page/貨物自動車.md "wikilink")としての[オート三輪](../Page/オート三輪.md "wikilink")とは一線を画した低床式の乗用車専用設計シャーシとして、[リアエンジン](https://ja.wikipedia.org/wiki/リアエンジン "wikilink")の[RR方式と](https://ja.wikipedia.org/wiki/後輪駆動#リアエンジン・リアドライブ方式 "wikilink")、後輪の[独立懸架](../Page/独立懸架.md "wikilink")機構を採用した先進的構造が特徴である。
 
@@ -21,7 +21,7 @@
 
 これに対し、ダイハツ・Beeは完全な専用シャーシを開発したものであり、動力性能（デイヴィスは社外製のハーキュレス47PSないしコンチネンタル63PSを搭載）とスタイリング仕上げ以外の面では、デイヴィスを凌駕する内容であった。
 
-1950年代初頭の（駆動輪の）後輪独立懸架は、世界的に見てもまだ[スイングアクスル](https://ja.wikipedia.org/wiki/スイングアクスル "wikilink")方式が技術的主流であったが、Beeではコイルスプリングと組み合わせたダブル・ウィッシュボーン式を採用する先進的なレイアウトを用いた。これはトヨタ自動車が1947年に開発した[トヨペット・SA型](https://ja.wikipedia.org/wiki/トヨペット・SA型小型乗用車 "wikilink")（後輪にスイングアクスル式独立懸架を採用）に次ぐ、日本車でも早い本格的な後輪独立懸架である。
+1950年代初頭の（駆動輪の）後輪独立懸架は、世界的に見てもまだ[スイングアクスル](https://ja.wikipedia.org/wiki/スイングアクスル "wikilink")方式が技術的主流であったが、Beeではコイルスプリングと組み合わせたダブル・ウィッシュボーン式を採用する先進的なレイアウトを用いた。これはトヨタ自動車が1947年に開発した[トヨペット・SA型](../Page/トヨペット・SA型小型乗用車.md "wikilink")（後輪にスイングアクスル式独立懸架を採用）に次ぐ、日本車でも早い本格的な後輪独立懸架である。
 
 なお、同時期のオート三輪と同様に、フロント1輪にはブレーキがなかった。後輪ブレーキは一般的な油圧ドラム式である。
 
@@ -33,7 +33,7 @@ Bee用に開発された2HA型エンジンは[強制空冷](https://ja.wikipedia
 
 Beeのエンジン仕様については記録上、混乱が付きまとう。当時ダイハツから発行されたカタログには、排気量540ccで出力13.5PS、最高速度70km/hと記載されていた一方、ダイハツ工業の社史では804cc・18PSが搭載されて公称最大78km/hであったことが記録されている。自動車雑誌等における回顧記事でも、Beeのエンジンについては530/540cc説と804cc説がばらばらに併存しており、並行生産されたのか、いずれかの時点で排気量変更が為されたのは明確にされていない。
 
-実用面から見ると、全長4m、自重1トン近い4座乗用車のエンジンに、540ccは1951年時点でも非力に過ぎる（750cc級の戦前型エンジンをベースにした終戦直後の小型4輪車のうち、ダットサンは860cc、[オオタは](https://ja.wikipedia.org/wiki/オオタ自動車工業 "wikilink")760ccと903ccに排気量を拡大して性能を確保していた）。当時の軽自動車規格にも収まらないクラスでFA型の732ccから排気量縮小するメリットはなく、またダットサンに近いクラスまで排気量を上げても当時の小型タクシー規格には収まることから、主力は804ccだったのではないかと見られる。現存車はダイハツ保管車が804cc、埼玉県の個人所有車が540cc（雑誌記事中では530ccとも表記）とされ、博物館保有車については不明である。
+実用面から見ると、全長4m、自重1トン近い4座乗用車のエンジンに、540ccは1951年時点でも非力に過ぎる（750cc級の戦前型エンジンをベースにした終戦直後の小型4輪車のうち、ダットサンは860cc、[オオタは](../Page/オオタ自動車工業.md "wikilink")760ccと903ccに排気量を拡大して性能を確保していた）。当時の軽自動車規格にも収まらないクラスでFA型の732ccから排気量縮小するメリットはなく、またダットサンに近いクラスまで排気量を上げても当時の小型タクシー規格には収まることから、主力は804ccだったのではないかと見られる。現存車はダイハツ保管車が804cc、埼玉県の個人所有車が540cc（雑誌記事中では530ccとも表記）とされ、博物館保有車については不明である。
 
 キャブレターはイギリスのアマル社タイプで、[三国商工がライセンス生産し](../Page/ミクニ.md "wikilink")、当時のオート三輪に多用されていたものと同様なタイプを、左右シリンダーに1基ずつ装備したツインキャブレターとした。燃料タンクは、フロントノーズの前輪直後、スカットル部分の高い位置に装備されている。 [thumb](https://ja.wikipedia.org/wiki/ファイル:Daihatsu_Bee_\(1951\)005.JPG "wikilink")
 

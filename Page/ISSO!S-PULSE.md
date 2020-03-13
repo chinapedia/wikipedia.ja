@@ -7,7 +7,7 @@
 
 番組開始当初は、[競艇](../Page/競艇.md "wikilink")の[テレビ中継](https://ja.wikipedia.org/wiki/テレビ中継 "wikilink")[リポーター](../Page/リポーター.md "wikilink")などで知られた車田由美、[スポーツライター](https://ja.wikipedia.org/wiki/スポーツライター "wikilink")の白瀬まゆ美が[パーソナリティを担当](../Page/ラジオパーソナリティ.md "wikilink")。 2012年4月以降、スナオマサカズ（[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")）が担当。
 
-清水エスパルスの試合[ハイライト](https://ja.wikipedia.org/wiki/ハイライト "wikilink")、選手の試合後のコメント、シーズンオフにはそのシーズンを振り返っての[インタビュー](../Page/インタビュー.md "wikilink")、また[リスナー](https://ja.wikipedia.org/wiki/リスナー "wikilink")に対する月間賞のプレゼントで構成されている。
+清水エスパルスの試合[ハイライト](https://ja.wikipedia.org/wiki/ハイライト "wikilink")、選手の試合後のコメント、シーズンオフにはそのシーズンを振り返っての[インタビュー](../Page/インタビュー.md "wikilink")、また[リスナー](../Page/リスナー.md "wikilink")に対する月間賞のプレゼントで構成されている。
 
 ## パーソナリティ
 
@@ -40,16 +40,16 @@
 
   - 2013年3月1日 21:00 - 21:30
       -
-        「[Jリーグ開幕直前](../Page/日本プロサッカーリーグ.md "wikilink") [生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")スペシャル Ole Ole Jubilo VS ISSO\! S-PULSE」
-        ※ 「[K-MIX Rainbow Fly-Day](https://ja.wikipedia.org/wiki/K-MIX_Rainbow_Fly-Day "wikilink") ～Jリーグ開幕直前Special～」の[スピンオフ番組として](https://ja.wikipedia.org/wiki/スピンオフ#スピンオフ（作品制作） "wikilink")、[Ole Ole Jubiloとの合体放送](https://ja.wikipedia.org/wiki/Ole_Ole_Jubilo "wikilink")。
+        「[Jリーグ開幕直前](../Page/日本プロサッカーリーグ.md "wikilink") [生放送](../Page/生放送.md "wikilink")スペシャル Ole Ole Jubilo VS ISSO\! S-PULSE」
+        ※ 「[K-MIX Rainbow Fly-Day](https://ja.wikipedia.org/wiki/K-MIX_Rainbow_Fly-Day "wikilink") ～Jリーグ開幕直前Special～」の[スピンオフ番組として](https://ja.wikipedia.org/wiki/スピンオフ#スピンオフ（作品制作） "wikilink")、[Ole Ole Jubiloとの合体放送](../Page/Ole_Ole_Jubilo.md "wikilink")。
 
 ## ポッドキャスト
 
-放送終了後、[ポッドキャスト](https://ja.wikipedia.org/wiki/ポッドキャスト "wikilink")\[8\]配信。
+放送終了後、[ポッドキャスト](../Page/ポッドキャスト.md "wikilink")\[8\]配信。
 
   - 過去
 
-[インターネット放送](https://ja.wikipedia.org/wiki/インターネット放送 "wikilink")が実施されており、過去1か月分の放送がオンデマンドで、また最新版は当日22:00 - 次週火曜日の21:00までの毎時00分から、セミライブで聴くことが出来た。
+[インターネット放送](../Page/インターネット放送.md "wikilink")が実施されており、過去1か月分の放送がオンデマンドで、また最新版は当日22:00 - 次週火曜日の21:00までの毎時00分から、セミライブで聴くことが出来た。
 
 ## 脚注
 

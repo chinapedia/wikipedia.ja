@@ -1,7 +1,7 @@
 > この記事は[10min.](https://ja.wikipedia.org/wiki/10min.)から翻訳されています。
 
 
-**10min.ボックス**（テンミニッツ・ボックス）は、1997年4月8日より[NHK教育→NHK Eテレで放送されている中学](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")・高校生向けの教養[ミニ番組](https://ja.wikipedia.org/wiki/ミニ番組 "wikilink")。[理科](../Page/理科.md "wikilink")、[社会科](https://ja.wikipedia.org/wiki/社会科 "wikilink")、[国語](../Page/国語.md "wikilink")、[総合学習](https://ja.wikipedia.org/wiki/総合学習 "wikilink")などと系統が分かれており、教科別に各単元のポイントをコンパクトにまとめた番組である。
+**10min.ボックス**（テンミニッツ・ボックス）は、1997年4月8日より[NHK教育→NHK Eテレで放送されている中学](../Page/NHK教育テレビジョン.md "wikilink")・高校生向けの教養[ミニ番組](../Page/ミニ番組.md "wikilink")。[理科](../Page/理科.md "wikilink")、[社会科](https://ja.wikipedia.org/wiki/社会科 "wikilink")、[国語](../Page/国語.md "wikilink")、[総合学習](https://ja.wikipedia.org/wiki/総合学習 "wikilink")などと系統が分かれており、教科別に各単元のポイントをコンパクトにまとめた番組である。
 
 それぞれ学校の授業で活用することができる映像教材を[学校放送](../Page/学校放送.md "wikilink")番組からセレクションし、それを内容別に全20回シリーズとして放送している。そのため、小学校向けの学校放送番組と比較して、映像にナレーション等を加えるだけの簡素な内容となっていた。
 
@@ -132,7 +132,7 @@
   - [アクティブ10](https://ja.wikipedia.org/wiki/アクティブ10 "wikilink")
   - [学校デジタルライブラリー](https://ja.wikipedia.org/wiki/学校デジタルライブラリー "wikilink")
   - [NHK高校講座](../Page/NHK高校講座.md "wikilink")
-  - [NHK教育テレビ番組一覧](https://ja.wikipedia.org/wiki/NHK教育テレビ番組一覧 "wikilink")
+  - [NHK教育テレビ番組一覧](../Page/NHK教育テレビ番組一覧.md "wikilink")
 
 ## 外部リンク
 

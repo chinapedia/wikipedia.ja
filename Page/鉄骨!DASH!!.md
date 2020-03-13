@@ -1,7 +1,7 @@
 > この記事は[!DASH!!](https://ja.wikipedia.org/wiki/!DASH!!)から翻訳されています。
 
 
-『**鉄骨\!DASH\!\!**』（てっこつダッシュ）とは[木更津ケーブルテレビ（現・ジェイコム千葉）でかつて放送されていた](https://ja.wikipedia.org/wiki/ジェイコム千葉 "wikilink")[テレビ番組](../Page/テレビ番組.md "wikilink")である。『[ザ\!鉄腕\!DASH\!\!](https://ja.wikipedia.org/wiki/ザ!鉄腕!DASH!! "wikilink")』（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）の[パロディ](https://ja.wikipedia.org/wiki/パロディ "wikilink")的番組。
+『**鉄骨\!DASH\!\!**』（てっこつダッシュ）とは[木更津ケーブルテレビ（現・ジェイコム千葉）でかつて放送されていた](../Page/ジェイコム千葉.md "wikilink")[テレビ番組](../Page/テレビ番組.md "wikilink")である。『[ザ\!鉄腕\!DASH\!\!](../Page/ザ!鉄腕!DASH!!.md "wikilink")』（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）の[パロディ](../Page/パロディ.md "wikilink")的番組。
 
 [1999年](../Page/1999年.md "wikilink")当時、木更津ケーブルテレビの31チャンネル（現在は廃止されている）で日曜日17:30から放送されていた。
 
@@ -9,7 +9,7 @@
 
 メイン出演者は、さまざまな企画に挑戦する通称「鉄骨5人衆」。彼らは**TOKIQ**（トキキュー）と呼ばれ、[TOKIO](../Page/TOKIO.md "wikilink")のメンバーに顔がそっくりではあるが[長瀬似が](../Page/長瀬智也.md "wikilink")[ミャンマー](../Page/ミャンマー.md "wikilink")人だったり、[国分太一](../Page/国分太一.md "wikilink")似が女性だったり、[松岡昌宏](../Page/松岡昌宏.md "wikilink")似が子供で3人もいたりとどれもバラエティに富んでいた。出演時には本名とTOKIOメンバーの姓をかけ合せた名前になっていた（例：長瀬の場合「長瀬ココ」、国分の場合「国分恵」。両者とも名前は本名と同じ）。ただし松岡・山口の場合は1号･2号･3号であった。
 
-内容は本家『ザ\!鉄腕\!DASH\!\!』とほぼ同じだが規模が小さく、ロケ地はほぼ[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")内で完結していた。
+内容は本家『ザ\!鉄腕\!DASH\!\!』とほぼ同じだが規模が小さく、ロケ地はほぼ[千葉県](../Page/千葉県.md "wikilink")内で完結していた。
 
 スタジオでの進行役はフリーアナウンサーの[今泉清保](../Page/今泉清保.md "wikilink")（元・[福岡放送](../Page/福岡放送.md "wikilink")アナウンサー）が務め、番組内では[福澤朗](../Page/福澤朗.md "wikilink")アナ（当時日本テレビアナウンサー）の“**ジャストミート\!\!**”をもじって“**ジャストフィット今泉**”と名乗っていた。他に「ミス木更津」との肩書が付いた女性がおり、番組中は一言も声を発しなかったが、本家放送中のときに[木更津との中継で声を出した](https://ja.wikipedia.org/wiki/木更津市 "wikilink")\[1\]。
 
@@ -35,8 +35,8 @@ TOKIQの名は本家の方で[1998年](https://ja.wikipedia.org/wiki/1998年 "wi
 
 ## 関連項目
 
-  - [ジェイコム千葉](https://ja.wikipedia.org/wiki/ジェイコム千葉 "wikilink")
-  - [ザ\!鉄腕\!DASH\!\!](https://ja.wikipedia.org/wiki/ザ!鉄腕!DASH!! "wikilink")
+  - [ジェイコム千葉](../Page/ジェイコム千葉.md "wikilink")
+  - [ザ\!鉄腕\!DASH\!\!](../Page/ザ!鉄腕!DASH!!.md "wikilink")
 
 ## 外部リンク
 

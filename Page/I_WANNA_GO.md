@@ -8,8 +8,8 @@
   - 2枚目のアルバム『[storytelling](https://ja.wikipedia.org/wiki/storytelling "wikilink")』からのシングルカットで、アルバム収録の「I wanna go」のヴォーカルメロディーと融合し、完成された状態で \[Single Mix\] としてアレンジ発表された。タイトル表記は全大文字に改められた。
   - 小室と華原の「普段離れている二人がどこかに行ってゆっくりしたい」という心境がそのまま詞になった\[1\]。
   - [三貴](../Page/三貴.md "wikilink")「銀座ジュエリーマキ エステートツインジュエリー」のTV-CFイメージソングに使用された。
-  - [オリコンウィークリーチャート初登場](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")20位と、デビューからの連続TOP10入りの記録も途切れ、シングルカットが続くことによりセールスも大幅にダウンした。
-  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月27日](../Page/3月27日.md "wikilink")に出演した『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』では、「I WANNA GO」「[YOU DON'T GIVE UP](https://ja.wikipedia.org/wiki/YOU_DON'T_GIVE_UP "wikilink")」のメドレーを歌い、視聴者の小室との共演がまた見たいとのリクエストに応えて小室がピアノ&コーラスで参加した。テレビで「I WANNA GO」が歌われたのはこの時のみである。
+  - [オリコンウィークリーチャート初登場](../Page/オリコンチャート.md "wikilink")20位と、デビューからの連続TOP10入りの記録も途切れ、シングルカットが続くことによりセールスも大幅にダウンした。
+  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月27日](../Page/3月27日.md "wikilink")に出演した『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』では、「I WANNA GO」「[YOU DON'T GIVE UP](../Page/YOU_DON'T_GIVE_UP.md "wikilink")」のメドレーを歌い、視聴者の小室との共演がまた見たいとのリクエストに応えて小室がピアノ&コーラスで参加した。テレビで「I WANNA GO」が歌われたのはこの時のみである。
 
 ## 収録曲
 
@@ -72,7 +72,7 @@
 
 <!-- end list -->
 
-  - [PV集](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")
+  - [PV集](../Page/ミュージック・ビデオ.md "wikilink")
 
 <!-- end list -->
 

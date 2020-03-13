@@ -1,19 +1,19 @@
 > この記事は[TOKYO](https://ja.wikipedia.org/wiki/TOKYO)から翻訳されています。
 
 
-**TOKYOベストヒット**（とうきょう - ）は、[1984年](../Page/1984年.md "wikilink")[2月10日](../Page/2月10日.md "wikilink")から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで、[ニッポン放送](../Page/ニッポン放送.md "wikilink")で[金曜日](../Page/金曜日.md "wikilink")の夜の時間帯で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。メインパーソナリティは開始から[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[10月3日](../Page/10月3日.md "wikilink")まで[伊藤政則](https://ja.wikipedia.org/wiki/伊藤政則 "wikilink")、1986年[10月10日](../Page/10月10日.md "wikilink")から最終回まで[関根勤](../Page/関根勤.md "wikilink")がそれぞれ担当した。
+**TOKYOベストヒット**（とうきょう - ）は、[1984年](../Page/1984年.md "wikilink")[2月10日](../Page/2月10日.md "wikilink")から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで、[ニッポン放送](../Page/ニッポン放送.md "wikilink")で[金曜日](../Page/金曜日.md "wikilink")の夜の時間帯で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。メインパーソナリティは開始から[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[10月3日](../Page/10月3日.md "wikilink")まで[伊藤政則](../Page/伊藤政則.md "wikilink")、1986年[10月10日](../Page/10月10日.md "wikilink")から最終回まで[関根勤](../Page/関根勤.md "wikilink")がそれぞれ担当した。
 
-放送時間は[1989年](../Page/1989年.md "wikilink")3月まで22:00〜25:00、1989年4月からは22:30〜25:00（「[GENJI](https://ja.wikipedia.org/wiki/光GENJI "wikilink") GENKI爆発」が22:00〜22:30に放送されていたため）。
+放送時間は[1989年](../Page/1989年.md "wikilink")3月まで22:00〜25:00、1989年4月からは22:30〜25:00（「[GENJI](../Page/光GENJI.md "wikilink") GENKI爆発」が22:00〜22:30に放送されていたため）。
 
 ## 概要
 
-「[ヤングパラダイス](https://ja.wikipedia.org/wiki/ヤングパラダイス "wikilink")」のパーソナリティが[アラジンの](https://ja.wikipedia.org/wiki/アラジン_\(バンド\) "wikilink")[高原兄](https://ja.wikipedia.org/wiki/高原兄 "wikilink")から[三宅裕司](../Page/三宅裕司.md "wikilink")に交替したのと同時期の[1984年](../Page/1984年.md "wikilink")[2月10日](../Page/2月10日.md "wikilink")に放送開始。[おニャン子クラブ](../Page/おニャン子クラブ.md "wikilink")がレギュラーに入っていた時は「**withおニャン子クラブ**」、[うしろ髪ひかれ隊](https://ja.wikipedia.org/wiki/うしろ髪ひかれ隊 "wikilink")がレギュラーの時も同様に「**withうしろ髪ひかれ隊**」が本番組のタイトルの後ろに付いていた。
+「[ヤングパラダイス](../Page/ヤングパラダイス.md "wikilink")」のパーソナリティが[アラジンの](../Page/アラジン_\(バンド\).md "wikilink")[高原兄](../Page/高原兄.md "wikilink")から[三宅裕司](../Page/三宅裕司.md "wikilink")に交替したのと同時期の[1984年](../Page/1984年.md "wikilink")[2月10日](../Page/2月10日.md "wikilink")に放送開始。[おニャン子クラブ](../Page/おニャン子クラブ.md "wikilink")がレギュラーに入っていた時は「**withおニャン子クラブ**」、[うしろ髪ひかれ隊](../Page/うしろ髪ひかれ隊.md "wikilink")がレギュラーの時も同様に「**withうしろ髪ひかれ隊**」が本番組のタイトルの後ろに付いていた。
 
-初代メインパーソナリティの[伊藤政則](https://ja.wikipedia.org/wiki/伊藤政則 "wikilink")は、[1975年](../Page/1975年.md "wikilink")に[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")の木曜2部→水曜2部において「カッコマン」という名前で出演していたが、本番組ではその当時同様のノリのトークを展開させていた。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[2月22日](../Page/2月22日.md "wikilink")には、[マラソン](../Page/マラソン.md "wikilink")の距離と時間を同じくした「**42.195時間マラソンDJ**」に挑戦、銀河スタジオ特設ブースから463曲をかけ、摂ったのは栄養剤だけながらも無事に完走している。
+初代メインパーソナリティの[伊藤政則](../Page/伊藤政則.md "wikilink")は、[1975年](../Page/1975年.md "wikilink")に[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")の木曜2部→水曜2部において「カッコマン」という名前で出演していたが、本番組ではその当時同様のノリのトークを展開させていた。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[2月22日](../Page/2月22日.md "wikilink")には、[マラソン](../Page/マラソン.md "wikilink")の距離と時間を同じくした「**42.195時間マラソンDJ**」に挑戦、銀河スタジオ特設ブースから463曲をかけ、摂ったのは栄養剤だけながらも無事に完走している。
 
-当初から[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")がゲストに入ることが多かったが、初期の頃は[音楽評論家](https://ja.wikipedia.org/wiki/音楽評論家 "wikilink")・伊藤らしく、「[LPベスト](https://ja.wikipedia.org/wiki/レコード#レコードの諸形態 "wikilink")10」などの音楽コーナーや、コンサート・ライヴレポートのコーナーも存在した。2代目メインパーソナリティ・[関根勤](../Page/関根勤.md "wikilink")に替わってからはほぼバラエティ一色になっている。その一方で[1989年](../Page/1989年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")放送（[4月1日](../Page/4月1日.md "wikilink")をまたぐ放送）では[消費税](../Page/消費税.md "wikilink")導入の瞬間をリポートするなど、時折社会派な企画も行ったことがあった。
+当初から[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")がゲストに入ることが多かったが、初期の頃は[音楽評論家](../Page/音楽評論家.md "wikilink")・伊藤らしく、「[LPベスト](https://ja.wikipedia.org/wiki/レコード#レコードの諸形態 "wikilink")10」などの音楽コーナーや、コンサート・ライヴレポートのコーナーも存在した。2代目メインパーソナリティ・[関根勤](../Page/関根勤.md "wikilink")に替わってからはほぼバラエティ一色になっている。その一方で[1989年](../Page/1989年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")放送（[4月1日](../Page/4月1日.md "wikilink")をまたぐ放送）では[消費税](../Page/消費税.md "wikilink")導入の瞬間をリポートするなど、時折社会派な企画も行ったことがあった。
 
-なお、「ヤングパラダイス」には4〜5本の内包番組が存在していたのに対し、本番組には内包番組は無かった（ヤングパラダイス内の内包番組をネットしている各局には、金曜日放送分をいわゆる[裏送り](https://ja.wikipedia.org/wiki/裏送り "wikilink")という形でネットしていた）。
+なお、「ヤングパラダイス」には4〜5本の内包番組が存在していたのに対し、本番組には内包番組は無かった（ヤングパラダイス内の内包番組をネットしている各局には、金曜日放送分をいわゆる[裏送り](../Page/裏送り.md "wikilink")という形でネットしていた）。
 
 番組終了は[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")。「ヤングパラダイス」が終了したのと同時期であった。
 
@@ -21,7 +21,7 @@
 
 ### メインパーソナリティ
 
-  - [伊藤政則](https://ja.wikipedia.org/wiki/伊藤政則 "wikilink")（1984年2月10日〜[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[10月3日](../Page/10月3日.md "wikilink")）
+  - [伊藤政則](../Page/伊藤政則.md "wikilink")（1984年2月10日〜[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[10月3日](../Page/10月3日.md "wikilink")）
   - [関根勤](../Page/関根勤.md "wikilink")（1986年[10月10日](../Page/10月10日.md "wikilink")〜1990年3月30日）
 
 ### 共演者
@@ -29,21 +29,21 @@
   - [コント赤信号](../Page/コント赤信号.md "wikilink")（1984年2月10日〜同年[10月26日](../Page/10月26日.md "wikilink")）
   - [水島かおり](../Page/水島かおり.md "wikilink")（1984年2月10日〜[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[4月5日](../Page/4月5日.md "wikilink")）
   - [おニャン子クラブ](../Page/おニャン子クラブ.md "wikilink")（1985年[9月6日](../Page/9月6日.md "wikilink")〜[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[6月26日](../Page/6月26日.md "wikilink")）
-      - [内海和子](https://ja.wikipedia.org/wiki/内海和子 "wikilink")（1985年9月6日〜1986年10月3日）
-      - [名越美香](https://ja.wikipedia.org/wiki/名越美香 "wikilink")（1985年9月6日〜1986年10月3日）
-      - [立見里歌](https://ja.wikipedia.org/wiki/立見里歌 "wikilink")（1985年9月6日〜1986年10月3日）
-      - [永田ルリ子](https://ja.wikipedia.org/wiki/永田ルリ子 "wikilink")（1986年10月10日〜1987年6月26日）
+      - [内海和子](../Page/内海和子.md "wikilink")（1985年9月6日〜1986年10月3日）
+      - [名越美香](../Page/名越美香.md "wikilink")（1985年9月6日〜1986年10月3日）
+      - [立見里歌](../Page/立見里歌.md "wikilink")（1985年9月6日〜1986年10月3日）
+      - [永田ルリ子](../Page/永田ルリ子.md "wikilink")（1986年10月10日〜1987年6月26日）
       - [城之内早苗](../Page/城之内早苗.md "wikilink")（1986年10月10日〜1987年6月26日）
       - [白石麻子](../Page/白石麻子.md "wikilink")（1986年10月10日〜1987年6月26日）
-  - [うしろ髪ひかれ隊](https://ja.wikipedia.org/wiki/うしろ髪ひかれ隊 "wikilink")（1987年[7月3日](../Page/7月3日.md "wikilink")〜[1988年](../Page/1988年.md "wikilink")3月、※生稲のみ[1989年](../Page/1989年.md "wikilink")3月まで出演）
+  - [うしろ髪ひかれ隊](../Page/うしろ髪ひかれ隊.md "wikilink")（1987年[7月3日](../Page/7月3日.md "wikilink")〜[1988年](../Page/1988年.md "wikilink")3月、※生稲のみ[1989年](../Page/1989年.md "wikilink")3月まで出演）
       - [生稲晃子](../Page/生稲晃子.md "wikilink")
       - [工藤静香](../Page/工藤静香.md "wikilink")
       - [斉藤満喜子](https://ja.wikipedia.org/wiki/斉藤満喜子 "wikilink")
   - [田中律子](https://ja.wikipedia.org/wiki/田中律子 "wikilink")（[1988年](../Page/1988年.md "wikilink")4月〜1989年3月）
-  - [仲村知夏](https://ja.wikipedia.org/wiki/仲村知夏 "wikilink")（1988年4月〜1989年3月）
+  - [仲村知夏](../Page/仲村知夏.md "wikilink")（1988年4月〜1989年3月）
   - [森高千里](../Page/森高千里.md "wikilink")（[1989年](../Page/1989年.md "wikilink")4月〜同年9月）
   - [星野由妃](../Page/星野由妃.md "wikilink")（[1989年](../Page/1989年.md "wikilink")4月〜[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")3月）
-  - [千葉美加](https://ja.wikipedia.org/wiki/千葉美加 "wikilink")（1989年10月〜1990年3月）
+  - [千葉美加](../Page/千葉美加.md "wikilink")（1989年10月〜1990年3月）
 
 ## 主なコーナー
 
@@ -80,8 +80,8 @@
   - 人の好みもそれぞれ
   - 夢の関根企画
   - 組織でドン
-  - [久保田利伸](https://ja.wikipedia.org/wiki/久保田利伸 "wikilink")私設応援団
-  - [カズー](https://ja.wikipedia.org/wiki/カズー "wikilink")伝言 俺なら当てる\!
+  - [久保田利伸](../Page/久保田利伸.md "wikilink")私設応援団
+  - [カズー](../Page/カズー.md "wikilink")伝言 俺なら当てる\!
   - 今週の宿題
   - 今週の笑った怒った
   - おニャン子通信

@@ -1,11 +1,11 @@
 > この記事は[Mozilla Sunbird](https://ja.wikipedia.org/wiki/Mozilla_Sunbird)から翻訳されています。
 
 
-**Mozilla Sunbird**（モジラ サンバード）は、[Mozilla Foundationが](../Page/Mozilla_Foundation.md "wikilink")[オープンソース](../Page/オープンソース.md "wikilink")で開発を進めていた[スケジュール管理ソフトである](../Page/Personal_Information_Manager.md "wikilink")。Mozillaの[拡張機能である](../Page/拡張機能_\(Mozilla\).md "wikilink")[Mozilla Calendarをベースにした単体で動作可能なソフトであり](https://ja.wikipedia.org/wiki/Mozilla_Calendar "wikilink")、Mozilla Calendarプロジェクトの一環として開発が進められていた。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")に初のリリースである 0.2 がリリースされた。後に、[Thunderbirdの拡張機能として動作し同等の機能を提供する](../Page/Mozilla_Thunderbird.md "wikilink")[Lightningの開発が開始され](../Page/Lightning_\(ソフトウェア\).md "wikilink")、1.0 Beta 1まではほぼ並行してリリースされた。その後、開発リソースをLightningへ集中させるため、Sunbirdの開発は打ち切られた\[1\]。
+**Mozilla Sunbird**（モジラ サンバード）は、[Mozilla Foundationが](../Page/Mozilla_Foundation.md "wikilink")[オープンソース](../Page/オープンソース.md "wikilink")で開発を進めていた[スケジュール管理ソフトである](../Page/Personal_Information_Manager.md "wikilink")。Mozillaの[拡張機能である](../Page/拡張機能_\(Mozilla\).md "wikilink")[Mozilla Calendarをベースにした単体で動作可能なソフトであり](https://ja.wikipedia.org/wiki/Mozilla_Calendar "wikilink")、Mozilla Calendarプロジェクトの一環として開発が進められていた。[2005年](../Page/2005年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")に初のリリースである 0.2 がリリースされた。後に、[Thunderbirdの拡張機能として動作し同等の機能を提供する](../Page/Mozilla_Thunderbird.md "wikilink")[Lightningの開発が開始され](../Page/Lightning_\(ソフトウェア\).md "wikilink")、1.0 Beta 1まではほぼ並行してリリースされた。その後、開発リソースをLightningへ集中させるため、Sunbirdの開発は打ち切られた\[1\]。
 
 ## 特徴
 
-[Firefoxや](../Page/Mozilla_Firefox.md "wikilink")[Thunderbirdなどと同じく](../Page/Mozilla_Thunderbird.md "wikilink")[XUL](https://ja.wikipedia.org/wiki/XUL "wikilink")で記述されており[クロスプラットフォーム](../Page/クロスプラットフォーム.md "wikilink")であり、[Microsoft Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Mac OS X](https://ja.wikipedia.org/wiki/macOS "wikilink")、[Linux](../Page/Linux.md "wikilink")用のビルドが公開されている。
+[Firefoxや](../Page/Mozilla_Firefox.md "wikilink")[Thunderbirdなどと同じく](../Page/Mozilla_Thunderbird.md "wikilink")[XUL](../Page/XUL.md "wikilink")で記述されており[クロスプラットフォーム](../Page/クロスプラットフォーム.md "wikilink")であり、[Microsoft Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Mac OS X](https://ja.wikipedia.org/wiki/macOS "wikilink")、[Linux](../Page/Linux.md "wikilink")用のビルドが公開されている。
 
 [iCal](https://ja.wikipedia.org/wiki/iCal "wikilink")形式、[CSV形式のファイルのインポート](../Page/Comma-Separated_Values.md "wikilink")、エクスポートが可能である。[WebDAV](../Page/WebDAV.md "wikilink")、[CalDAV](https://ja.wikipedia.org/wiki/CalDAV "wikilink")に対応しており、ローカルだけでなくネットワーク上のカレンダーを読み書きすることもできる。
 
@@ -17,16 +17,16 @@
 
 ## バージョンの変遷
 
-| バージョン | リリース日                                                         | [Gecko](../Page/Gecko.md "wikilink") のバージョン |
-| ----- | ------------------------------------------------------------- | ------------------------------------------- |
-| 0.2   | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")2月4日   | 1.8                                         |
-| 0.3   | [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")10月11日 | 1.9                                         |
-| 0.3.1 | [2007年](../Page/2007年.md "wikilink")2月19日                     |                                             |
-| 0.5   | 2007年6月27日                                                    | 1.8.1                                       |
-| 0.7   | 2007年10月25日                                                   |                                             |
-| 0.8   | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")4月4日   |                                             |
-| 0.9   | 2008年9月23日                                                    |                                             |
-| 1.0b1 | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")3月30日  | 1.9.1                                       |
+| バージョン | リリース日                                                        | [Gecko](../Page/Gecko.md "wikilink") のバージョン |
+| ----- | ------------------------------------------------------------ | ------------------------------------------- |
+| 0.2   | [2005年](../Page/2005年.md "wikilink")2月4日                     | 1.8                                         |
+| 0.3   | [2006年](../Page/2006年.md "wikilink")10月11日                   | 1.9                                         |
+| 0.3.1 | [2007年](../Page/2007年.md "wikilink")2月19日                    |                                             |
+| 0.5   | 2007年6月27日                                                   | 1.8.1                                       |
+| 0.7   | 2007年10月25日                                                  |                                             |
+| 0.8   | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")4月4日  |                                             |
+| 0.9   | 2008年9月23日                                                   |                                             |
+| 1.0b1 | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")3月30日 | 1.9.1                                       |
 
 ## 関連項目
 
@@ -37,7 +37,7 @@
   - [SeaMonkey](../Page/SeaMonkey.md "wikilink") - Mozillaの後継
   - [Mozilla Firefox](../Page/Mozilla_Firefox.md "wikilink") - SunBirdと同じように独立したタイプのWebブラウザ
   - [Mozilla Thunderbird](../Page/Mozilla_Thunderbird.md "wikilink") - Mozillaのメール機能を独立させたクライアント
-  - [Nvu](https://ja.wikipedia.org/wiki/Nvu "wikilink") - MozillaのHTMLエディタ機能を独立させたソフトウェア
+  - [Nvu](../Page/Nvu.md "wikilink") - MozillaのHTMLエディタ機能を独立させたソフトウェア
 
 ## 参考文献
 

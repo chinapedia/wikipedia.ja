@@ -1,7 +1,7 @@
 > この記事は[Q-ZAR](https://ja.wikipedia.org/wiki/Q-ZAR)から翻訳されています。
 
 
-**Q-ZAR**（キューザー）は、遊戯用の[光線銃](https://ja.wikipedia.org/wiki/光線銃 "wikilink")で撃ち合い点数を競う室内[競技](https://ja.wikipedia.org/wiki/競技 "wikilink")・[ゲーム](../Page/ゲーム.md "wikilink")である。
+**Q-ZAR**（キューザー）は、遊戯用の[光線銃](../Page/光線銃.md "wikilink")で撃ち合い点数を競う室内[競技](../Page/競技.md "wikilink")・[ゲーム](../Page/ゲーム.md "wikilink")である。
 
 ## ゲームの流れ
 
@@ -95,7 +95,7 @@ Q-ZARは赤外線による通信により全てが構成されている。例え
 日本ではザップクリエイト（現アムリード）が総代理店となって各地に展開していた。
 
   - ドクタージーカンズ（東京都渋谷区）
-  - [ナムコ・ワンダーエッグ](https://ja.wikipedia.org/wiki/ナムコ・ワンダーエッグ "wikilink")たまご帝国（東京都世田谷区） - 20人vs20人の対戦が可能な日本最大のアリーナ。
+  - [ナムコ・ワンダーエッグ](../Page/ナムコ・ワンダーエッグ.md "wikilink")たまご帝国（東京都世田谷区） - 20人vs20人の対戦が可能な日本最大のアリーナ。
   - [新宿ジョイポリス](../Page/新宿ジョイポリス.md "wikilink")（東京都新宿区）
   - 西荻窪アミュージアム（東京都杉並区）
   - [イオン秋田ショッピングセンター](../Page/イオンモール秋田.md "wikilink")（秋田県秋田市）
@@ -112,7 +112,7 @@ Q-ZARは赤外線による通信により全てが構成されている。例え
   - [レーザータグ](https://ja.wikipedia.org/wiki/レーザータグ "wikilink")
   - [レーザー交戦装置](https://ja.wikipedia.org/wiki/レーザー交戦装置 "wikilink")
   - [デジタル射撃](https://ja.wikipedia.org/wiki/デジタル射撃 "wikilink")
-  - [赤い光弾ジリオン](https://ja.wikipedia.org/wiki/赤い光弾ジリオン "wikilink")
+  - [赤い光弾ジリオン](../Page/赤い光弾ジリオン.md "wikilink")
   - [サバイバーショット](../Page/サバイバーショット.md "wikilink")
   - [ペイントボール](../Page/ペイントボール.md "wikilink")
   - [ZERO LATENCY VR](https://ja.wikipedia.org/wiki/ZERO_LATENCY_VR "wikilink")

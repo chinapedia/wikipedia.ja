@@ -1,7 +1,7 @@
 > この記事は[HI-D](https://ja.wikipedia.org/wiki/HI-D)から翻訳されています。
 
 
-**HI-D**（ハイ・ディー、本名：**平野英雄**（ひらの ひでお）、[8月8日](../Page/8月8日.md "wikilink")生）は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[西東京市](../Page/西東京市.md "wikilink")出身の[R\&B](../Page/リズム・アンド・ブルース.md "wikilink")[シンガー](../Page/歌手.md "wikilink")、[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")。
+**HI-D**（ハイ・ディー、本名：**平野英雄**（ひらの ひでお）、[8月8日](../Page/8月8日.md "wikilink")生）は、[東京都](../Page/東京都.md "wikilink")[西東京市](../Page/西東京市.md "wikilink")出身の[R\&B](../Page/リズム・アンド・ブルース.md "wikilink")[シンガー](../Page/歌手.md "wikilink")、[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")。
 
 ## 人物
 
@@ -30,7 +30,7 @@
 
 ### シングル
 
-  - Girlfriends feat.[ZEEBRA](https://ja.wikipedia.org/wiki/Zeebra "wikilink")（2003年7月2日）
+  - Girlfriends feat.[ZEEBRA](../Page/Zeebra.md "wikilink")（2003年7月2日）
   - 君がいるから（2003年10月22日）
   - GET BACK IN LOVE/夢のキオク（2004年7月14日）
 
@@ -49,8 +49,8 @@
 
   - [TOMORO](https://ja.wikipedia.org/wiki/TOMORO "wikilink")「PARTY MAKER feat. HI-D」
   - [AQUARIUS](../Page/AQUARIUS_\(音楽ユニット\).md "wikilink")「メグミノ雨 feat. SUIKEN, HI-D」
-  - ["E"qual](https://ja.wikipedia.org/wiki/"E"qual "wikilink")「Let's go feat. HI-D」「WOW Oh feat. HI-D」
-  - [DS455](https://ja.wikipedia.org/wiki/DS455 "wikilink")「PARTY'S OVER HERE feat. HI-D」
+  - ["E"qual](../Page/"E"qual.md "wikilink")「Let's go feat. HI-D」「WOW Oh feat. HI-D」
+  - [DS455](../Page/DS455.md "wikilink")「PARTY'S OVER HERE feat. HI-D」
   - [AK-69 a.k.a. Kalassy Nikoff](https://ja.wikipedia.org/wiki/AK-69 "wikilink")「Homie... feat. HI-D」「CUT SOLO feat. HI-D」
   - [DJ PMX](https://ja.wikipedia.org/wiki/DJ_PMX "wikilink") 「Miss Luxury feat.MACCHO, GIPPER,KOZ, HI-D, Foxxi misQ」「Bad Moon feat.YOUNG DAIS, SIMON, TWO-J, HI-D」
   - [餓鬼レンジャー](https://ja.wikipedia.org/wiki/餓鬼レンジャー "wikilink")「Up in the sky feat. HI-D」
@@ -69,7 +69,7 @@
   - [Q](https://ja.wikipedia.org/wiki/Q_\(ラッパー\) "wikilink")「GET BU$￥ feat. HI-D」「Techniqes Party feat. HI-D」
   - [DJ YAS](https://ja.wikipedia.org/wiki/DJ_YAS "wikilink")「最後の手紙 〜LAST LETTER feat. ALLIGATOR (SENGO) & HI-D」「Angler fish feat. DELI & HI-D」
   - [Sowelu](https://ja.wikipedia.org/wiki/Sowelu "wikilink")「Uh feat. HI-D and JUN 4 SHOT from FIRE BALL」
-  - [三浦大知](https://ja.wikipedia.org/wiki/三浦大知 "wikilink")「Be Shinning」
+  - [三浦大知](../Page/三浦大知.md "wikilink")「Be Shinning」
   - [BOY-KEN](https://ja.wikipedia.org/wiki/BOY-KEN "wikilink")「DEM A MONSTER feat. DELI & HI-D」
   - [DJ BEAT](https://ja.wikipedia.org/wiki/DJ_BEAT "wikilink")「M.U.P」
   - [山口リサ](https://ja.wikipedia.org/wiki/山口リサ "wikilink")「アイノアト feat. HI-D」「ペアリング〜chapter 3〜」「ペアリング 〜chapter Final〜 feat. HI-D」「Heart Beat feat. HI-D, CIMBA, 大地」

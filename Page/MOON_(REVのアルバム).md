@@ -1,11 +1,11 @@
 > この記事は[MOON \(REV\)](https://ja.wikipedia.org/wiki/MOON_\(REV\))から翻訳されています。
 
 
-**MOON**（ムーン）は[REVの](https://ja.wikipedia.org/wiki/出口雅之 "wikilink")2作目のアルバム。
+**MOON**（ムーン）は[REVの](../Page/出口雅之.md "wikilink")2作目のアルバム。
 
 ## 内容
 
-「君と秋風」「にじんだ瞳」は[出口雅之](https://ja.wikipedia.org/wiki/出口雅之 "wikilink")が単独で編曲を手がけた作品。「Freedom」は、ユーロビート風に、「もう傷ついてもいい」「幾千もの情熱」はホーンにおける、オーケストラヒットを使用した楽曲になっている。
+「君と秋風」「にじんだ瞳」は[出口雅之](../Page/出口雅之.md "wikilink")が単独で編曲を手がけた作品。「Freedom」は、ユーロビート風に、「もう傷ついてもいい」「幾千もの情熱」はホーンにおける、オーケストラヒットを使用した楽曲になっている。
 
 ## 収録曲
 

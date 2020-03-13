@@ -1,18 +1,18 @@
 > この記事は[ \(NHK\)](https://ja.wikipedia.org/wiki/_\(NHK\))から翻訳されています。
 
 
-『**宮本武蔵**』（みやもとむさし）は、[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[総合テレビの](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")「[新大型時代劇](https://ja.wikipedia.org/wiki/大河ドラマ#新大型時代劇 "wikilink")」で1984年4月4日から1985年3月13日まで放映された[テレビドラマ](../Page/テレビドラマ.md "wikilink")。「新大型時代劇」の第1作。全45話。
+『**宮本武蔵**』（みやもとむさし）は、[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[総合テレビの](../Page/NHK総合テレビジョン.md "wikilink")「[新大型時代劇](https://ja.wikipedia.org/wiki/大河ドラマ#新大型時代劇 "wikilink")」で1984年4月4日から1985年3月13日まで放映された[テレビドラマ](../Page/テレビドラマ.md "wikilink")。「新大型時代劇」の第1作。全45話。
 
 ## 概要
 
 [吉川英治](../Page/吉川英治.md "wikilink")の小説『[宮本武蔵](../Page/宮本武蔵_\(小説\).md "wikilink")』を原作とし、剣豪[宮本武蔵](../Page/宮本武蔵.md "wikilink")の青年時代から巌流島の決闘までを描いている。原作にほぼ忠実に添い、それまで映画・テレビドラマ等で映像化されなかったエピソードなども多く拾い上げられている。
 
-脚本担当の杉山義法は「タケゾウがムサシになるまでを青春編としてジックリ描きたかった」との理由から、原作の「地の巻」部分を意図的に膨らませた。また、1971年の大河ドラマ『[春の坂道](https://ja.wikipedia.org/wiki/春の坂道 "wikilink")』（原作：[山岡荘八](../Page/山岡荘八.md "wikilink")）の脚本を担当したこともあって[柳生宗矩](https://ja.wikipedia.org/wiki/柳生宗矩 "wikilink")に対する思い入れがあり、本作でも宗矩を原作以上に頻繁に、かつ重要な役どころで登場させている（当時『春の坂道』の映像が全く失われていた、とされていたことも影響している）。劇中に「大和の蛙」などの『春の坂道』の作品世界を彷彿させる言葉が登場するのはそのためである\[1\]。
+脚本担当の杉山義法は「タケゾウがムサシになるまでを青春編としてジックリ描きたかった」との理由から、原作の「地の巻」部分を意図的に膨らませた。また、1971年の大河ドラマ『[春の坂道](../Page/春の坂道.md "wikilink")』（原作：[山岡荘八](../Page/山岡荘八.md "wikilink")）の脚本を担当したこともあって[柳生宗矩](../Page/柳生宗矩.md "wikilink")に対する思い入れがあり、本作でも宗矩を原作以上に頻繁に、かつ重要な役どころで登場させている（当時『春の坂道』の映像が全く失われていた、とされていたことも影響している）。劇中に「大和の蛙」などの『春の坂道』の作品世界を彷彿させる言葉が登場するのはそのためである\[1\]。
 
 ## エピソード
 
   - この作品の挿入歌として、役所広司が歌う「独行道<small>（どくぎょうどう）</small>」（杉山義法作曲、三枝成章作曲）が使われた。歌はおおむね好評で、レコード化の話もあったが、原作者・吉川英治の遺族から「原作のイメージと合わない。使うのを止めて欲しい。レコード化も止めて欲しい」というクレームが上がったため、以後使うことは見送られた\[2\]。総集編では別のBGMに差し替えられている。この「独行道」は、第20回、第21回の挿入歌として流されている（第20回では、海岸を歩く武蔵を背景に、歌詞が字幕で流されている）。
-  - プロデューサーの[澁谷康生](https://ja.wikipedia.org/wiki/澁谷康生 "wikilink")は、佐々木小次郎の配役に頭を悩ませていたが、澁谷が担当していた当時制作中の[大河ドラマ](../Page/大河ドラマ.md "wikilink")『[徳川家康](https://ja.wikipedia.org/wiki/徳川家康_\(NHK大河ドラマ\) "wikilink")』の出演者の[滝田栄](https://ja.wikipedia.org/wiki/滝田栄 "wikilink")、[長門裕之](../Page/長門裕之.md "wikilink")らと食事に出かけた時、長門が連れてきた中康次に一目惚れし、小次郎役に彼を抜擢した。当時の中は全くの無名に近い俳優であり、このキャスティングは大冒険で、澁谷と旧知と間柄であった中のマネージャーはこのオファーに足がふるえたという\[3\]。
+  - プロデューサーの[澁谷康生](https://ja.wikipedia.org/wiki/澁谷康生 "wikilink")は、佐々木小次郎の配役に頭を悩ませていたが、澁谷が担当していた当時制作中の[大河ドラマ](../Page/大河ドラマ.md "wikilink")『[徳川家康](../Page/徳川家康_\(NHK大河ドラマ\).md "wikilink")』の出演者の[滝田栄](../Page/滝田栄.md "wikilink")、[長門裕之](../Page/長門裕之.md "wikilink")らと食事に出かけた時、長門が連れてきた中康次に一目惚れし、小次郎役に彼を抜擢した。当時の中は全くの無名に近い俳優であり、このキャスティングは大冒険で、澁谷と旧知と間柄であった中のマネージャーはこのオファーに足がふるえたという\[3\]。
   - 前述の通り、澁谷が大河ドラマ『徳川家康』の担当をしていたため、同作との共通の出演者がかなり多い（役所広司、奥田瑛二、池上季実子、津川雅彦、石坂浩二、宅間伸、鈴木光枝ほか多数）。
 
 ## キャスト
@@ -20,14 +20,14 @@
 ### 武蔵をめぐる人々
 
   - [弁之助→宮本武蔵](../Page/宮本武蔵.md "wikilink")：[多賀基史](https://ja.wikipedia.org/wiki/多賀基史 "wikilink")→[斎藤優一](https://ja.wikipedia.org/wiki/斎藤優一 "wikilink")→[役所広司](../Page/役所広司.md "wikilink")
-  - お通：[古手川祐子](https://ja.wikipedia.org/wiki/古手川祐子 "wikilink")
-  - 本位田又八：[奥田瑛二](https://ja.wikipedia.org/wiki/奥田瑛二 "wikilink")
-  - [沢庵宗彭](https://ja.wikipedia.org/wiki/沢庵宗彭 "wikilink")：[津川雅彦](../Page/津川雅彦.md "wikilink")
+  - お通：[古手川祐子](../Page/古手川祐子.md "wikilink")
+  - 本位田又八：[奥田瑛二](../Page/奥田瑛二.md "wikilink")
+  - [沢庵宗彭](../Page/沢庵宗彭.md "wikilink")：[津川雅彦](../Page/津川雅彦.md "wikilink")
   - 朱実：[池上季実子](https://ja.wikipedia.org/wiki/池上季実子 "wikilink")
   - お甲：[草笛光子](../Page/草笛光子.md "wikilink")
   - お杉：[鈴木光枝](../Page/鈴木光枝.md "wikilink")
   - 淵川権六（お杉の弟）：[今福将雄](../Page/今福将雄.md "wikilink")
-  - [平田無二斎](https://ja.wikipedia.org/wiki/新免無二斎 "wikilink")（武蔵の父）：[丹波哲郎](https://ja.wikipedia.org/wiki/丹波哲郎 "wikilink")
+  - [平田無二斎](https://ja.wikipedia.org/wiki/新免無二斎 "wikilink")（武蔵の父）：[丹波哲郎](../Page/丹波哲郎.md "wikilink")
   - お吟（武蔵の姉）：[青木ゆかり](https://ja.wikipedia.org/wiki/青木ゆかり "wikilink")→[新井春美](../Page/新井晴み.md "wikilink")
   - およし（武蔵の母）：[岩本多代](../Page/岩本多代.md "wikilink")
   - [池田輝政](../Page/池田輝政.md "wikilink")：[伊藤孝雄](../Page/伊藤孝雄.md "wikilink")
@@ -35,21 +35,21 @@
   - 青木城太郎（丹左衛門の子、武蔵の弟子）：[加瀬悦孝](https://ja.wikipedia.org/wiki/加瀬悦孝 "wikilink")→[早川勝也](https://ja.wikipedia.org/wiki/早川勝也 "wikilink")
   - [三澤伊織](../Page/宮本伊織.md "wikilink")（お通の弟、後に武蔵の養子）：[上林昇](https://ja.wikipedia.org/wiki/上林昇 "wikilink")
   - [吉野太夫](../Page/吉野太夫.md "wikilink")：[高橋恵子](https://ja.wikipedia.org/wiki/高橋恵子 "wikilink")
-  - [長岡佐渡](../Page/松井興長.md "wikilink")（細川家家臣）：[田村高廣](https://ja.wikipedia.org/wiki/田村高廣 "wikilink")
+  - [長岡佐渡](../Page/松井興長.md "wikilink")（細川家家臣）：[田村高廣](../Page/田村高廣.md "wikilink")
   - [本阿弥光悦](../Page/本阿弥光悦.md "wikilink")：[石坂浩二](../Page/石坂浩二.md "wikilink")
 
 ### 小次郎をめぐる人々
 
-  - [佐々木小次郎](https://ja.wikipedia.org/wiki/佐々木小次郎 "wikilink")：[中康次](../Page/中康次.md "wikilink")
+  - [佐々木小次郎](../Page/佐々木小次郎.md "wikilink")：[中康次](../Page/中康次.md "wikilink")
   - さわ（小次郎の伯母）：[南田洋子](../Page/南田洋子.md "wikilink")
-  - お光（小次郎の恋人、小幡勘兵衛の娘）：[小林麻美](https://ja.wikipedia.org/wiki/小林麻美 "wikilink")
+  - お光（小次郎の恋人、小幡勘兵衛の娘）：[小林麻美](../Page/小林麻美.md "wikilink")
   - 諏訪源左衛門：[高松英郎](../Page/高松英郎.md "wikilink")
   - 岩間角兵衛（細川家家臣）：[橋本功](../Page/橋本功.md "wikilink")
   - 草薙天鬼（佐々木小次郎と同門の兄弟子）：[清水紘治](../Page/清水紘治.md "wikilink")
-  - 小六（小次郎の従者）：[川島一平](https://ja.wikipedia.org/wiki/川島一平 "wikilink")
-  - [小幡勘兵衛](https://ja.wikipedia.org/wiki/小幡景憲 "wikilink")：[梅野泰靖](../Page/梅野泰靖.md "wikilink")
+  - 小六（小次郎の従者）：[川島一平](../Page/川島一平.md "wikilink")
+  - [小幡勘兵衛](../Page/小幡景憲.md "wikilink")：[梅野泰靖](../Page/梅野泰靖.md "wikilink")
   - 小幡余五郎：[香川耕二](https://ja.wikipedia.org/wiki/香川耕二 "wikilink")
-  - [北条新蔵](../Page/北条氏長.md "wikilink")：[森田順平](https://ja.wikipedia.org/wiki/森田順平 "wikilink")
+  - [北条新蔵](../Page/北条氏長.md "wikilink")：[森田順平](../Page/森田順平.md "wikilink")
   - 半瓦の弥次兵衛：[辻萬長](../Page/辻萬長.md "wikilink")
   - 菰の十郎：[河原さぶ](../Page/河原さぶ.md "wikilink")
   - おふう：[美池真理子](https://ja.wikipedia.org/wiki/美池真理子 "wikilink")
@@ -57,25 +57,25 @@
 
 ### 柳生一門
 
-  - [柳生石舟斎](https://ja.wikipedia.org/wiki/柳生宗厳 "wikilink")：[西村晃](../Page/西村晃.md "wikilink")
-  - [柳生宗矩](https://ja.wikipedia.org/wiki/柳生宗矩 "wikilink")：[竹脇無我](../Page/竹脇無我.md "wikilink")
-  - [柳生兵庫助](https://ja.wikipedia.org/wiki/柳生利厳 "wikilink")：[宅麻伸](../Page/宅麻伸.md "wikilink")
+  - [柳生石舟斎](../Page/柳生宗厳.md "wikilink")：[西村晃](../Page/西村晃.md "wikilink")
+  - [柳生宗矩](../Page/柳生宗矩.md "wikilink")：[竹脇無我](../Page/竹脇無我.md "wikilink")
+  - [柳生兵庫助](../Page/柳生利厳.md "wikilink")：[宅麻伸](../Page/宅麻伸.md "wikilink")
   - [庄田喜左衛門](https://ja.wikipedia.org/wiki/庄田喜左衛門 "wikilink")：[鈴木智](https://ja.wikipedia.org/wiki/鈴木智 "wikilink")
   - [木村助九郎](../Page/木村友重.md "wikilink")：[久富惟晴](../Page/久富惟晴.md "wikilink")
   - 出淵孫兵衛：[大塚周夫](../Page/大塚周夫.md "wikilink")
   - 村田与三：[小林尚臣](https://ja.wikipedia.org/wiki/小林尚臣 "wikilink")
-  - 弥五郎：[篠井英介](https://ja.wikipedia.org/wiki/篠井英介 "wikilink")
+  - 弥五郎：[篠井英介](../Page/篠井英介.md "wikilink")
 
 ### 吉岡一門
 
-  - [吉岡清十郎](https://ja.wikipedia.org/wiki/吉岡直綱 "wikilink")→蓮庵：[藤堂新二](../Page/藤堂新二.md "wikilink")
+  - [吉岡清十郎](../Page/吉岡直綱.md "wikilink")→蓮庵：[藤堂新二](../Page/藤堂新二.md "wikilink")
   - [吉岡伝七郎](https://ja.wikipedia.org/wiki/吉岡直重 "wikilink")：[氏家修](https://ja.wikipedia.org/wiki/氏家修 "wikilink")
   - 壬生源左衛門（清十郎の叔父）：[瑳川哲朗](../Page/瑳川哲朗.md "wikilink")
   - 壬生源次郎（源左衛門の子）：[中村仁](https://ja.wikipedia.org/wiki/中村仁_\(俳優\) "wikilink")
   - [祇園藤次](https://ja.wikipedia.org/wiki/祇園藤次 "wikilink")：[河原崎建三](../Page/河原崎建三.md "wikilink")
   - 植田良平：[久遠利三](https://ja.wikipedia.org/wiki/久遠利三 "wikilink")
   - 小橋蔵人：[三田康二](https://ja.wikipedia.org/wiki/三田康二 "wikilink")
-  - 御池十郎左衛門：[唐沢民賢](https://ja.wikipedia.org/wiki/唐沢民賢 "wikilink")
+  - 御池十郎左衛門：[唐沢民賢](../Page/唐沢民賢.md "wikilink")
   - 南保余一兵衛：[高月忠](https://ja.wikipedia.org/wiki/高月忠 "wikilink")
   - 大田黒兵助：[真木仁](https://ja.wikipedia.org/wiki/真木仁 "wikilink")
   - 高田軍平：[岡田直樹](../Page/岡田直樹.md "wikilink")
@@ -86,13 +86,13 @@
   - 日観：[小澤栄太郎](https://ja.wikipedia.org/wiki/小澤栄太郎 "wikilink")
   - 阿厳：[岡田正典](https://ja.wikipedia.org/wiki/岡田正典 "wikilink")
   - 阿修羅：[大川ひろし](https://ja.wikipedia.org/wiki/大川ひろし "wikilink")
-  - 阿含：[渡辺哲](https://ja.wikipedia.org/wiki/渡辺哲 "wikilink")
+  - 阿含：[渡辺哲](../Page/渡辺哲.md "wikilink")
 
 ### 武蔵の対決者とその家族・主従
 
   - [夢想権之助](https://ja.wikipedia.org/wiki/山本勝吉 "wikilink")：[三浦浩一](../Page/三浦浩一.md "wikilink")
   - おりん（権之助の母）：[宝生あやこ](../Page/宝生あやこ.md "wikilink")
-  - [有馬喜兵衛](https://ja.wikipedia.org/wiki/有馬喜兵衛 "wikilink")：[平泉成](https://ja.wikipedia.org/wiki/平泉成 "wikilink")
+  - [有馬喜兵衛](https://ja.wikipedia.org/wiki/有馬喜兵衛 "wikilink")：[平泉成](../Page/平泉成.md "wikilink")
   - [辻風典馬](https://ja.wikipedia.org/wiki/辻風典馬 "wikilink")：[八名信夫](../Page/八名信夫.md "wikilink")
   - [宍戸梅軒](https://ja.wikipedia.org/wiki/宍戸梅軒 "wikilink")：[黒沢年男](../Page/黒沢年雄.md "wikilink")
   - お七（梅軒の妻）：[浅茅陽子](../Page/浅茅陽子.md "wikilink")
@@ -101,23 +101,23 @@
 
   - 妙秀尼（本阿弥光悦の母）：[萬代峰子](https://ja.wikipedia.org/wiki/萬代峰子 "wikilink")
   - [愚堂東寔](https://ja.wikipedia.org/wiki/愚堂東寔 "wikilink")：[内藤武敏](../Page/内藤武敏.md "wikilink")
-  - [平尾与右衛門](https://ja.wikipedia.org/wiki/平尾与右衛門 "wikilink")（お吟の夫）：[河原崎長一郎](https://ja.wikipedia.org/wiki/河原崎長一郎 "wikilink")
+  - [平尾与右衛門](https://ja.wikipedia.org/wiki/平尾与右衛門 "wikilink")（お吟の夫）：[河原崎長一郎](../Page/河原崎長一郎.md "wikilink")
   - およしの二度目の夫：[鶴田忍](../Page/鶴田忍_\(俳優\).md "wikilink")
   - おまき（武蔵の叔母）：[和田幾子](https://ja.wikipedia.org/wiki/和田幾子 "wikilink")
   - [本位田外記之助](https://ja.wikipedia.org/wiki/本位田外記之助 "wikilink")：[川口明芳](https://ja.wikipedia.org/wiki/川口明芳 "wikilink")
   - 桃（又八と朱実の娘）：[安藤桃子](https://ja.wikipedia.org/wiki/安藤桃子 "wikilink")
   - 浄真：[早崎文司](../Page/早崎文司.md "wikilink")
   - 明珍：[田辺和生](https://ja.wikipedia.org/wiki/田辺和生 "wikilink")
-  - [酒井忠利](https://ja.wikipedia.org/wiki/酒井忠利 "wikilink")（江戸幕府老中）：[戸浦六宏](https://ja.wikipedia.org/wiki/戸浦六宏 "wikilink")
-  - [細川忠利](https://ja.wikipedia.org/wiki/細川忠利 "wikilink")：[矢島健一](../Page/矢島健一.md "wikilink")
+  - [酒井忠利](../Page/酒井忠利.md "wikilink")（江戸幕府老中）：[戸浦六宏](../Page/戸浦六宏.md "wikilink")
+  - [細川忠利](../Page/細川忠利.md "wikilink")：[矢島健一](../Page/矢島健一.md "wikilink")
   - 縫殿之助：[榎本章](https://ja.wikipedia.org/wiki/榎本章 "wikilink")
   - 内海孫兵衛：[久米明](../Page/久米明.md "wikilink")
-  - 安積八弥太：[金内吉男](https://ja.wikipedia.org/wiki/金内吉男 "wikilink")
+  - 安積八弥太：[金内吉男](../Page/金内吉男.md "wikilink")
   - 香山半太夫：[小鹿番](../Page/小鹿番.md "wikilink")
   - 井戸亀右衛門：[伊吹聡太朗](https://ja.wikipedia.org/wiki/伊吹聰太朗 "wikilink")
   - 船曳杢右衛門：[長沢大](https://ja.wikipedia.org/wiki/長沢大 "wikilink")
   - 木南加賀四郎：[伊達正三郎](../Page/伊達正三郎.md "wikilink")
-  - 花田橋の袂の茶店の主人･藤吉：[金井大](https://ja.wikipedia.org/wiki/金井大 "wikilink")
+  - 花田橋の袂の茶店の主人･藤吉：[金井大](../Page/金井大.md "wikilink")
   - 吾助：[松村彦次郎](../Page/松村彦次郎.md "wikilink")
   - 茶売り善兵衛：[西山嘉孝](https://ja.wikipedia.org/wiki/西山嘉孝 "wikilink")
   - 赤壁八十馬：[汐路章](../Page/汐路章.md "wikilink")
@@ -147,12 +147,12 @@
   - [烏丸光広](../Page/烏丸光広.md "wikilink")：[中島久之](../Page/中島久之.md "wikilink")
   - 灰屋紹由：[伊藤正博](https://ja.wikipedia.org/wiki/伊藤正博 "wikilink")
   - 松雄要人：[宗近晴見](https://ja.wikipedia.org/wiki/宗近晴見 "wikilink")
-  - 玉照：[中田譲治](https://ja.wikipedia.org/wiki/中田譲治 "wikilink")
+  - 玉照：[中田譲治](../Page/中田譲治.md "wikilink")
   - 井戸屋助左衛門：[藤岡重慶](../Page/藤岡重慶.md "wikilink")
-  - 奈良井屋大蔵：[待田京介](https://ja.wikipedia.org/wiki/待田京介 "wikilink")
-  - 熊五郎：[丹古母鬼馬二](https://ja.wikipedia.org/wiki/丹古母鬼馬二 "wikilink")
+  - 奈良井屋大蔵：[待田京介](../Page/待田京介.md "wikilink")
+  - 熊五郎：[丹古母鬼馬二](../Page/丹古母鬼馬二.md "wikilink")
   - 松下舞之助：[関根孝彦](https://ja.wikipedia.org/wiki/関根孝彦 "wikilink")
-  - 佐藤源三：[堀勝之祐](https://ja.wikipedia.org/wiki/堀勝之祐 "wikilink")
+  - 佐藤源三：[堀勝之祐](../Page/堀勝之祐.md "wikilink")
   - 三浦辰之助：[高野浩和](../Page/高野浩和.md "wikilink")
   - 船頭の佐助：[二見忠男](../Page/二見忠男.md "wikilink")
   - おちか：[稲田幸枝](https://ja.wikipedia.org/wiki/稲田幸枝 "wikilink")
@@ -171,7 +171,7 @@
   - 源八：[前沢迪雄](https://ja.wikipedia.org/wiki/前沢迪雄 "wikilink")
   - おるい：[津田千桂子](https://ja.wikipedia.org/wiki/津田千桂子 "wikilink")
   - かかしの兵六：[葛原光生](https://ja.wikipedia.org/wiki/葛原光生 "wikilink")
-  - うわばみの長太：[長江英和](https://ja.wikipedia.org/wiki/長江英和 "wikilink")
+  - うわばみの長太：[長江英和](../Page/長江英和.md "wikilink")
   - なまずの甚兵衛：[田辺修治](https://ja.wikipedia.org/wiki/田辺修治 "wikilink")
   - 暗闇の金蔵：[矢部忠政](https://ja.wikipedia.org/wiki/矢部忠政 "wikilink")
   - 杉蔵：[伊藤裕平](https://ja.wikipedia.org/wiki/伊藤裕平 "wikilink")
@@ -179,7 +179,7 @@
   - 新吉：[吉田英樹](https://ja.wikipedia.org/wiki/吉田英樹 "wikilink")
   - 与作：[水島涼太](https://ja.wikipedia.org/wiki/水島涼太 "wikilink")
   - おかね：[浦谷ひづる](https://ja.wikipedia.org/wiki/浦谷ひづる "wikilink")
-  - 千代蔵：[石井愃一](https://ja.wikipedia.org/wiki/石井愃一 "wikilink")
+  - 千代蔵：[石井愃一](../Page/石井愃一.md "wikilink")
   - おいち：[川田てるみ](https://ja.wikipedia.org/wiki/川田てるみ "wikilink")
   - 彦兵衛：[里木左甫良](https://ja.wikipedia.org/wiki/里木佐甫良 "wikilink")
   - 太兵衛：[野口貴史](https://ja.wikipedia.org/wiki/野口貴史 "wikilink")
@@ -194,7 +194,7 @@
   - 井戸屋の子分：[鮎田昭夫](https://ja.wikipedia.org/wiki/鮎田昭夫 "wikilink")
   - 井戸屋の子分：[麻生亮](https://ja.wikipedia.org/wiki/麻生亮 "wikilink")
   - 平助：[根岸一正](https://ja.wikipedia.org/wiki/根岸一正 "wikilink")
-  - 藤吉：[金井大](https://ja.wikipedia.org/wiki/金井大 "wikilink")
+  - 藤吉：[金井大](../Page/金井大.md "wikilink")
   - 佐藤三太夫：[伊沢一郎](../Page/伊沢一郎.md "wikilink")
   - 厨子野耕介：[長谷川弘](../Page/長谷川弘.md "wikilink")
   - 珠水：[川島千恵](https://ja.wikipedia.org/wiki/川島千恵 "wikilink")
@@ -206,7 +206,7 @@
 ## スタッフ
 
   - 原作：[吉川英治](../Page/吉川英治.md "wikilink")『[宮本武蔵](../Page/宮本武蔵_\(小説\).md "wikilink")』
-  - 脚本：[杉山義法](https://ja.wikipedia.org/wiki/杉山義法 "wikilink")
+  - 脚本：[杉山義法](../Page/杉山義法.md "wikilink")
   - 音楽：[三枝成章](../Page/三枝成彰.md "wikilink")
   - 演奏：[アンサンブルスカイ](https://ja.wikipedia.org/wiki/アンサンブルスカイ "wikilink")
   - 考証：[白井孝昌](https://ja.wikipedia.org/wiki/白井孝昌 "wikilink")
@@ -318,7 +318,7 @@
 
 ## 関連作品
 
-  - 吹奏楽曲『Overture "FIVE RINGS"』 - 本作のオープニングテーマ等を、三枝成彰が吹奏楽曲に再構成したもの。1985年の第33回[全日本吹奏楽コンクール](https://ja.wikipedia.org/wiki/全日本吹奏楽コンクール "wikilink")の課題曲の委嘱を受けて作曲された。
+  - 吹奏楽曲『Overture "FIVE RINGS"』 - 本作のオープニングテーマ等を、三枝成彰が吹奏楽曲に再構成したもの。1985年の第33回[全日本吹奏楽コンクール](../Page/全日本吹奏楽コンクール.md "wikilink")の課題曲の委嘱を受けて作曲された。
 
 ## 脚注
 

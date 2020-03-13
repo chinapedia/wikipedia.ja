@@ -5,7 +5,7 @@
 
 ## 概要
 
-『[加トちゃんケンちゃんごきげんテレビ](../Page/加トちゃんケンちゃんごきげんテレビ.md "wikilink")』から引き続き[加藤茶](../Page/加藤茶.md "wikilink")と[志村けん](../Page/志村けん.md "wikilink")がメインを務めていた。番組では「**バスターズガール**」役の[SUPER MONKEY'Sやその他の女性レギュラーとともに](https://ja.wikipedia.org/wiki/SUPER_MONKEY'S "wikilink")[ドッジボール](../Page/ドッジボール.md "wikilink")ゲームなどに挑戦していた。SUPER MONKEY'Sにとっては、これがテレビ初出演の全国ネット番組となった。
+『[加トちゃんケンちゃんごきげんテレビ](../Page/加トちゃんケンちゃんごきげんテレビ.md "wikilink")』から引き続き[加藤茶](../Page/加藤茶.md "wikilink")と[志村けん](../Page/志村けん.md "wikilink")がメインを務めていた。番組では「**バスターズガール**」役の[SUPER MONKEY'Sやその他の女性レギュラーとともに](../Page/SUPER_MONKEY'S.md "wikilink")[ドッジボール](../Page/ドッジボール.md "wikilink")ゲームなどに挑戦していた。SUPER MONKEY'Sにとっては、これがテレビ初出演の全国ネット番組となった。
 
 しかし、当時のTBS社長・[磯崎洋三](../Page/磯崎洋三.md "wikilink")がTBS大改革のいわゆる「鶴の一声」を上げたことにより、番組はわずか半年間で終了。この番組の最終回をもって、『[8時だョ\!全員集合](../Page/8時だョ!全員集合.md "wikilink")』の放送開始以来土曜20:00枠で**通算22年5か月**\[1\]続いた[ザ・ドリフターズ](../Page/ザ・ドリフターズ.md "wikilink")のメンバーが登場するという長きに渡ったTBSバラエティ番組シリーズは名実共に幕を下ろす結果となった。
 
@@ -22,15 +22,15 @@
 
   - [加藤茶](../Page/加藤茶.md "wikilink")（[ザ・ドリフターズ](../Page/ザ・ドリフターズ.md "wikilink")）
   - [志村けん](../Page/志村けん.md "wikilink")（ザ・ドリフターズ）
-  - [渡辺美奈代](https://ja.wikipedia.org/wiki/渡辺美奈代 "wikilink")
+  - [渡辺美奈代](../Page/渡辺美奈代.md "wikilink")
   - [立花理佐](../Page/立花理佐.md "wikilink")\[2\]
   - [生稲晃子](../Page/生稲晃子.md "wikilink")\[3\]
-  - [島崎和歌子](https://ja.wikipedia.org/wiki/島崎和歌子 "wikilink")\[4\]
+  - [島崎和歌子](../Page/島崎和歌子.md "wikilink")\[4\]
   - [中村綾](../Page/中村綾.md "wikilink")
   - [井上晴美](https://ja.wikipedia.org/wiki/井上晴美 "wikilink")
   - [羽田恵理香](https://ja.wikipedia.org/wiki/羽田恵理香 "wikilink")([CoCo](https://ja.wikipedia.org/wiki/CoCo "wikilink"))
   - [大野幹代](https://ja.wikipedia.org/wiki/大野幹代 "wikilink")(CoCo)
-  - [宮前真樹](https://ja.wikipedia.org/wiki/宮前真樹 "wikilink")(CoCo)
+  - [宮前真樹](../Page/宮前真樹.md "wikilink")(CoCo)
 
 ### コントのみ
 
@@ -39,7 +39,7 @@
 
 ### バスターズガール
 
-  - [SUPER MONKEY'S](https://ja.wikipedia.org/wiki/SUPER_MONKEY'S "wikilink")（スーパー・モンキーズ）は、過去に存在した日本の女性ダンスアイドルグループであり、安室奈美恵とMAXの源流のグループである。
+  - [SUPER MONKEY'S](../Page/SUPER_MONKEY'S.md "wikilink")（スーパー・モンキーズ）は、過去に存在した日本の女性ダンスアイドルグループであり、安室奈美恵とMAXの源流のグループである。
 
 ## スタッフ
 
@@ -47,8 +47,8 @@
   - 音楽：[たかしまあきひこ](../Page/たかしまあきひこ.md "wikilink")
   - 振付：[西条満](https://ja.wikipedia.org/wiki/西条満_\(振付師\) "wikilink")
   - 演奏：[岡本章生](https://ja.wikipedia.org/wiki/岡本章生 "wikilink")とゲイスターズ
-  - ナレーション：[伊津野亮](https://ja.wikipedia.org/wiki/伊津野亮 "wikilink")、[小林豊](https://ja.wikipedia.org/wiki/小林豊_\(アナウンサー\) "wikilink")
-  - キャラクター：[松下進](https://ja.wikipedia.org/wiki/松下進 "wikilink")
+  - ナレーション：[伊津野亮](../Page/伊津野亮.md "wikilink")、[小林豊](../Page/小林豊_\(アナウンサー\).md "wikilink")
+  - キャラクター：[松下進](../Page/松下進.md "wikilink")
   - TD：青木葉吉樹
   - VE：豊中俊榮
   - カメラ：井原公二、白井昭至、川井由紀男、坂口司
@@ -76,9 +76,9 @@
   - 番宣：広瀬隆一
   - 編成：浅井敬
   - スタイリスト：うすいゆうこ、きつかわかずさ
-  - エンディングテーマ：[爆風スランプ](https://ja.wikipedia.org/wiki/爆風スランプ "wikilink")「[友情≧愛](https://ja.wikipedia.org/wiki/友情≧愛 "wikilink")」
+  - エンディングテーマ：[爆風スランプ](../Page/爆風スランプ.md "wikilink")「[友情≧愛](https://ja.wikipedia.org/wiki/友情≧愛 "wikilink")」
   - 協力：[日本ドッジボール協会](https://ja.wikipedia.org/wiki/日本ドッジボール協会 "wikilink")
-  - 技術協力：[TBSビジョン](https://ja.wikipedia.org/wiki/TBSビジョン "wikilink")、[エヌ・エス・ティー](https://ja.wikipedia.org/wiki/エヌ・エス・ティー "wikilink")
+  - 技術協力：[TBSビジョン](../Page/TBSビジョン.md "wikilink")、[エヌ・エス・ティー](../Page/エヌ・エス・ティー.md "wikilink")
   - 制作協力：トリム
   - ビデオコーナースタッフ：高城郁子、白石美奈恵、大山小百合
   - これが青春ディレクター：江本稔、鈴木伸二
@@ -91,7 +91,7 @@
 
 ## ネット局
 
-『加トちゃんケンちゃんごきげんテレビ』時代と同様に、TBS系列27局で放送。最後までTBS土曜20時台のドリフの番組が放送されなかったのは、[秋田県](../Page/秋田県.md "wikilink")・[福井県](../Page/福井県.md "wikilink")・[徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")・[愛媛県](../Page/愛媛県.md "wikilink")・[佐賀県](../Page/佐賀県.md "wikilink")の5県だった。なお、番組終了直後の1992年10月1日に開局した伊予テレビ（現・[あいテレビ](../Page/あいテレビ.md "wikilink")）は、開局前の[サービス放送](https://ja.wikipedia.org/wiki/サービス放送 "wikilink")で最終回のみを放送したことがある。
+『加トちゃんケンちゃんごきげんテレビ』時代と同様に、TBS系列27局で放送。最後までTBS土曜20時台のドリフの番組が放送されなかったのは、[秋田県](../Page/秋田県.md "wikilink")・[福井県](../Page/福井県.md "wikilink")・[徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")・[愛媛県](../Page/愛媛県.md "wikilink")・[佐賀県](../Page/佐賀県.md "wikilink")の5県だった。なお、番組終了直後の1992年10月1日に開局した伊予テレビ（現・[あいテレビ](../Page/あいテレビ.md "wikilink")）は、開局前の[サービス放送](../Page/サービス放送.md "wikilink")で最終回のみを放送したことがある。
 
 ## ビデオ
 

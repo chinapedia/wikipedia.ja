@@ -1,13 +1,13 @@
 > この記事は[Apache Commons](https://ja.wikipedia.org/wiki/Apache_Commons)から翻訳されています。
 
 
-**Apache Commons**（アパッチ コモンズ）は、[Apacheソフトウェア財団](https://ja.wikipedia.org/wiki/Apacheソフトウェア財団 "wikilink")の傘下にある再利用可能なJavaコンポーネントをまとめたApacheのトッププロジェクト。Commonsの目的は再利用可能な[オープンソース](../Page/オープンソース.md "wikilink")[Java](https://ja.wikipedia.org/wiki/Java "wikilink")ソフトウェアを提供することである。Commonsは三つの部分、proper（プロパー）, sandbox（サンドボックス）, dormant（活動休止）から構成されている。
+**Apache Commons**（アパッチ コモンズ）は、[Apacheソフトウェア財団](../Page/Apacheソフトウェア財団.md "wikilink")の傘下にある再利用可能なJavaコンポーネントをまとめたApacheのトッププロジェクト。Commonsの目的は再利用可能な[オープンソース](../Page/オープンソース.md "wikilink")[Java](https://ja.wikipedia.org/wiki/Java "wikilink")ソフトウェアを提供することである。Commonsは三つの部分、proper（プロパー）, sandbox（サンドボックス）, dormant（活動休止）から構成されている。
 
 Commonsには[java.lang](https://ja.wikipedia.org/wiki/java.lang "wikilink")パッケージの機能を拡張するLang、Javaの[コレクションフレームワーク](https://ja.wikipedia.org/wiki/コレクションフレームワーク "wikilink")を拡張するクラス群を集めたCollectionsなどがある。
 
 ## Commons Proper
 
-The Commons Properは役立つ[Javaコンポーネントを開発維持すること専用に作られている](../Page/Javaプラットフォーム.md "wikilink")。Common Properは[コラボレーション](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")と[シェアリング](https://ja.wikipedia.org/wiki/シェアリング "wikilink")の役割を持っているが、Jakartaコミュニティの至る所からの[ディベロッパー](https://ja.wikipedia.org/wiki/ディベロッパー "wikilink")がJakartaプロジェクトとJakartaユーザによってシェアされるためにプロジェクトで共に活動できる。
+The Commons Properは役立つ[Javaコンポーネントを開発維持すること専用に作られている](../Page/Javaプラットフォーム.md "wikilink")。Common Properは[コラボレーション](../Page/コラボレーション.md "wikilink")と[シェアリング](https://ja.wikipedia.org/wiki/シェアリング "wikilink")の役割を持っているが、Jakartaコミュニティの至る所からの[ディベロッパー](https://ja.wikipedia.org/wiki/ディベロッパー "wikilink")がJakartaプロジェクトとJakartaユーザによってシェアされるためにプロジェクトで共に活動できる。
 
 Commonディベロッパーはコンポーネントが他の[ソフトウェアライブラリに最小限に依存することを保証するよう努力する](../Page/ライブラリ.md "wikilink")。それで、これらのコンポーネントは容易に[デプロイ（配備）できる](../Page/ソフトウェアデプロイメント.md "wikilink")。加えて、Commonsコンポーネントは可能な限り[インタフェースを保つ](../Page/インタフェース_\(情報技術\).md "wikilink")。それで、(他のJakartaサブプロジェクトを含む)Jakartaユーザはこれらのコンポーネントを、将来変更される心配無く実装することができる。
 

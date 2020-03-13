@@ -7,7 +7,7 @@
 
 ラインナップの中には[KIDなど他社が発売した作品の廉価版も存在するが](../Page/KID_\(ゲームブランド\).md "wikilink")、こういった作品ではオリジナルとの間にセーブデータの互換性がない物もある。
 
-廉価版である際は、オリジナル版が発売された後に販促物や派生物（店頭特典[テレカ](../Page/テレホンカード.md "wikilink")、[ゲーム雑誌](https://ja.wikipedia.org/wiki/ゲーム雑誌 "wikilink")、[ライトノベル](../Page/ライトノベル.md "wikilink")など）で使用されたイラストが、特典画像としてゲームクリア後のおまけモードで参照できるようになる場合がある（SuperLiteシリーズについてそのような施策が行われる場合は、公式サイトならびにパッケージにその存在が明記される）。
+廉価版である際は、オリジナル版が発売された後に販促物や派生物（店頭特典[テレカ](../Page/テレホンカード.md "wikilink")、[ゲーム雑誌](../Page/ゲーム雑誌.md "wikilink")、[ライトノベル](../Page/ライトノベル.md "wikilink")など）で使用されたイラストが、特典画像としてゲームクリア後のおまけモードで参照できるようになる場合がある（SuperLiteシリーズについてそのような施策が行われる場合は、公式サイトならびにパッケージにその存在が明記される）。
 
 ## 作品リスト
 
@@ -34,7 +34,7 @@
   - [UNO](../Page/UNO_\(ゲーム\).md "wikilink")
   - スーパーカジノスペシャル
   - F-1 GRAND PRIX チーム運営シミュレーション
-  - [数独](https://ja.wikipedia.org/wiki/数独 "wikilink")2
+  - [数独](../Page/数独.md "wikilink")2
   - スタースイープ
   - [タワードリーム2](https://ja.wikipedia.org/wiki/タワードリーム2 "wikilink")
   - ザ・ゲームメーカー
@@ -44,7 +44,7 @@
   - Castrol HONDA VTR
   - [リングオブサイアス](https://ja.wikipedia.org/wiki/リングオブサイアス "wikilink")
   - ディープフリーズ
-  - [THE TETRIS](https://ja.wikipedia.org/wiki/テトリス "wikilink")
+  - [THE TETRIS](../Page/テトリス.md "wikilink")
   - [Memories Off](../Page/Memories_Off.md "wikilink")
   - フィッシング倶楽部 ボートの釣り
   - フィッシング倶楽部 浜の釣り
@@ -64,7 +64,7 @@
   - クロスワード3
   - ナンクロ4
   - 数独5
-  - [スリザーリンク](https://ja.wikipedia.org/wiki/スリザーリンク "wikilink")
+  - [スリザーリンク](../Page/スリザーリンク.md "wikilink")
   - 改訂版 [マーク矢崎](https://ja.wikipedia.org/wiki/マーク矢崎 "wikilink")の四柱推命
   - 改訂版 [マーク矢崎](https://ja.wikipedia.org/wiki/マーク矢崎 "wikilink")の西洋占星術
   - 〜麻雀戦術〜 安藤 満プロの亜空間殺法
@@ -95,7 +95,7 @@
   - ファーランドストーリー 四つの封印
   - [カルネージハート](../Page/カルネージハート.md "wikilink")
   - [A列車で行こう4 エボリューショングローバル](../Page/A列車で行こうシリーズ.md "wikilink")
-  - [ザ・ファミレス](https://ja.wikipedia.org/wiki/ザ・ファミレス "wikilink")
+  - [ザ・ファミレス](../Page/ザ・ファミレス.md "wikilink")
   - A5 A列車で行こう5
   - ネオアトラス
   - 大阪湾岸バトル
@@ -136,31 +136,31 @@
   - [将棋](../Page/将棋.md "wikilink")
   - [囲碁](../Page/囲碁.md "wikilink")
   - [オセロ](../Page/オセロ_\(遊戯\).md "wikilink")
-  - [東京バス案内](https://ja.wikipedia.org/wiki/東京バス案内 "wikilink") 今日からキミも運転手
+  - [東京バス案内](../Page/東京バス案内.md "wikilink") 今日からキミも運転手
   - [此花 届かないレクイエム](../Page/此花.md "wikilink")2
   - [おえかきパズル](../Page/お絵かきロジック.md "wikilink")
-  - [サイヴァリア](https://ja.wikipedia.org/wiki/サイヴァリア "wikilink") ミディアムユニット
+  - [サイヴァリア](../Page/サイヴァリア.md "wikilink") ミディアムユニット
   - [ナンクロ](../Page/ナンバークロスワードパズル.md "wikilink")
-  - [サイヴァリア](https://ja.wikipedia.org/wiki/サイヴァリア "wikilink") リビジョン
+  - [サイヴァリア](../Page/サイヴァリア.md "wikilink") リビジョン
   - ビッグバス バス釣り完全攻略
-  - [数独](https://ja.wikipedia.org/wiki/数独 "wikilink")
-  - [テトリス](https://ja.wikipedia.org/wiki/テトリス "wikilink") 〜KIWAMEMICHI〜
+  - [数独](../Page/数独.md "wikilink")
+  - [テトリス](../Page/テトリス.md "wikilink") 〜KIWAMEMICHI〜
   - [クロスワード](../Page/クロスワードパズル.md "wikilink")
-  - [ZOOO](https://ja.wikipedia.org/wiki/ZOO_KEEPER_\(ゲーム\) "wikilink")
+  - [ZOOO](../Page/ZOO_KEEPER_\(ゲーム\).md "wikilink")
   - [UNO](../Page/UNO_\(ゲーム\).md "wikilink")
   - 箱庭鉄道 ～ブルートレイン・特急編～
   - わくわくバレー2
   - [花札](../Page/花札.md "wikilink")
-  - [想い出にかわる君 〜Memories Off〜](https://ja.wikipedia.org/wiki/想い出にかわる君_〜Memories_Off〜 "wikilink")
+  - [想い出にかわる君 〜Memories Off〜](../Page/想い出にかわる君_〜Memories_Off〜.md "wikilink")
   - [此花 〜3つの事件簿〜](../Page/此花.md "wikilink")パック
-  - [Memories Off Duet](https://ja.wikipedia.org/wiki/Memories_Off_Duet "wikilink")
+  - [Memories Off Duet](../Page/Memories_Off_Duet.md "wikilink")
   - [Never7 -the end of infinity-](https://ja.wikipedia.org/wiki/infinity_\(ゲーム\)#Never7_-the_end_of_infinity- "wikilink")
   - [Ever17 -the out of infinity- Premium Edition](../Page/Ever17_-the_out_of_infinity-.md "wikilink")
   - 平成博徒伝
   - めざせ\![チェス](../Page/チェス.md "wikilink")チャンピオン
   - めざせ\!スーパーハスラー
   - めざせ\!スーパーボウラー
-  - [メモオフみっくす](https://ja.wikipedia.org/wiki/メモオフみっくす "wikilink")
+  - [メモオフみっくす](../Page/メモオフみっくす.md "wikilink")
   - [吉野家](../Page/吉野家.md "wikilink")
   - [Remember11 -the age of infinity-](../Page/Remember11_-the_age_of_infinity-.md "wikilink")
   - [藍より青し](../Page/藍より青し.md "wikilink")
@@ -168,10 +168,10 @@
   - [アカイイト](../Page/アカイイト.md "wikilink")
   - [Monochrome](../Page/Monochrome.md "wikilink")
   - ようこそ ひつじ村
-  - [Memories Off After Rain](https://ja.wikipedia.org/wiki/Memories_Off_After_Rain "wikilink") Vol.1 折鶴
-  - [Memories Off After Rain](https://ja.wikipedia.org/wiki/Memories_Off_After_Rain "wikilink") Vol.2 想演
+  - [Memories Off After Rain](../Page/Memories_Off_After_Rain.md "wikilink") Vol.1 折鶴
+  - [Memories Off After Rain](../Page/Memories_Off_After_Rain.md "wikilink") Vol.2 想演
   - [此花 〜闇を祓う祈り〜](../Page/此花.md "wikilink")4
-  - [Memories Off After Rain](https://ja.wikipedia.org/wiki/Memories_Off_After_Rain "wikilink") Vol.3 卒業
+  - [Memories Off After Rain](../Page/Memories_Off_After_Rain.md "wikilink") Vol.3 卒業
   - [東京バス案内2](https://ja.wikipedia.org/wiki/東京バス案内2 "wikilink")
   - [Memories Off \#5 とぎれたフィルム](../Page/Memories_Off_5_とぎれたフィルム.md "wikilink")
   - [Memories Off 〜それから again〜](../Page/Memories_Off_〜それから_again〜.md "wikilink")

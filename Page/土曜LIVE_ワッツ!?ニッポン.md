@@ -7,7 +7,7 @@
 
 当初この番組は『**ワッツ\!?ニッポン**』のタイトルで、[コンプレックス枠](../Page/コンプレックス_\(番組形式\).md "wikilink")『[土曜LIVE](https://ja.wikipedia.org/wiki/土曜LIVE "wikilink")』の第1部としてスタートした（『ワッツ\!?ニッポン』と『[ベスト百貨](https://ja.wikipedia.org/wiki/ベスト百貨 "wikilink")』の二部構成）。2002年9月の『ベスト百貨』の終了で『**土曜LIVE ワッツ\!?ニッポン**』として独立番組となる。タイトルの『土曜LIVE』はこの名残りである。
 
-2005年秋には『[F2スマイル](https://ja.wikipedia.org/wiki/F2スマイル "wikilink")』、『[情報ライブ EZ\!TV](https://ja.wikipedia.org/wiki/情報ライブ_EZ!TV "wikilink")』と共に番組打ち切り\[1\]が報じられていたが、結局、前出2番組とは異なり番組続行となった\[2\]。
+2005年秋には『[F2スマイル](../Page/F2スマイル.md "wikilink")』、『[情報ライブ EZ\!TV](../Page/情報ライブ_EZ!TV.md "wikilink")』と共に番組打ち切り\[1\]が報じられていたが、結局、前出2番組とは異なり番組続行となった\[2\]。
 
 ## 出演者
 
@@ -39,7 +39,7 @@
 
   - [野島卓](../Page/野島卓.md "wikilink")
   - [渡辺和洋](../Page/渡辺和洋.md "wikilink")
-  - [森下知哉](https://ja.wikipedia.org/wiki/森下知哉 "wikilink")
+  - [森下知哉](../Page/森下知哉.md "wikilink")
   - [藤村さおり](../Page/藤村さおり.md "wikilink")
   - [小泉陽一](https://ja.wikipedia.org/wiki/小泉陽一 "wikilink")
   - [森本さやか](../Page/森本さやか_\(アナウンサー\).md "wikilink")
@@ -93,7 +93,7 @@
 
 [Category:フジテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビのニュース・報道番組の歴史 "wikilink") [Category:フジテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:フジテレビの情報・ワイドショー番組 "wikilink") [Category:2002年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2002年のテレビ番組_\(日本\) "wikilink")
 
-1.  フジテレビと[ライブドア](../Page/ライブドア.md "wikilink")による[ニッポン放送株買収騒動に起因する制作費削減のためではないかといわれている](https://ja.wikipedia.org/wiki/ニッポン放送の経営権問題 "wikilink")。
-2.  『EZ\!TV』も『[週刊人物ライブ スタ☆メン](https://ja.wikipedia.org/wiki/スタ☆メン "wikilink")』となり前番組の内容を踏襲しているので、ライブドア説報道は虚偽であった可能性が高い。なお“制作費削減による報道・情報番組打ち切り”は2008年夏に後述『ハッケン\!\!』や、『スタ☆メン』の後継番組『[新報道プレミアA](../Page/新報道プレミアA.md "wikilink")』で起きている。
+1.  フジテレビと[ライブドア](../Page/ライブドア.md "wikilink")による[ニッポン放送株買収騒動に起因する制作費削減のためではないかといわれている](../Page/ニッポン放送の経営権問題.md "wikilink")。
+2.  『EZ\!TV』も『[週刊人物ライブ スタ☆メン](../Page/スタ☆メン.md "wikilink")』となり前番組の内容を踏襲しているので、ライブドア説報道は虚偽であった可能性が高い。なお“制作費削減による報道・情報番組打ち切り”は2008年夏に後述『ハッケン\!\!』や、『スタ☆メン』の後継番組『[新報道プレミアA](../Page/新報道プレミアA.md "wikilink")』で起きている。
 3.  2002年10月から暫くの間は11:30にネットを飛び降りていた（11:30 - 11:45に『[坂田信弘のゴルフ開眼塾](https://ja.wikipedia.org/wiki/坂田信弘のゴルフ開眼塾 "wikilink")』を放送していたため）。
 4.  2002年6月までネットしていた。同年7月より『[ももち報道K宣言\!](https://ja.wikipedia.org/wiki/土曜NEWSファイル_CUBE "wikilink")』の開始により打ち切り。

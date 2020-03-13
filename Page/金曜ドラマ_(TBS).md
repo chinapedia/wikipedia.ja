@@ -3,7 +3,7 @@
 
 『**金曜ドラマ**』（きんようドラマ）は、[1972年](../Page/1972年.md "wikilink")から[TBSテレビ](../Page/TBSテレビ.md "wikilink")[系列で](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")、毎週[金曜日](../Page/金曜日.md "wikilink")に放送されている[テレビドラマ](../Page/テレビドラマ.md "wikilink")枠。通称「**金ドラ**」。[ステレオ放送](../Page/ステレオ放送.md "wikilink")、[字幕放送](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")、[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作、[番組連動データ放送を実施している](../Page/データ放送.md "wikilink")。
 
-[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")10月から[1989年](../Page/1989年.md "wikilink")9月まで、この枠を[ニュース番組](../Page/報道番組.md "wikilink")（[JNNニュース22プライムタイム](../Page/JNNニュース22プライムタイム.md "wikilink")→[ニュースデスク'88→ニュースデスク'89](https://ja.wikipedia.org/wiki/JNNニュースデスク'88・'89 "wikilink")）に充てていたため番組を2年間休止となる。その分水曜21時台に本枠の枠移動して『[水曜ドラマ](../Page/水曜ドラマ_\(TBS\).md "wikilink")』を放送したが、翌10月から放送が再開されている。
+[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")10月から[1989年](../Page/1989年.md "wikilink")9月まで、この枠を[ニュース番組](../Page/報道番組.md "wikilink")（[JNNニュース22プライムタイム](../Page/JNNニュース22プライムタイム.md "wikilink")→[ニュースデスク'88→ニュースデスク'89](../Page/JNNニュースデスク'88・'89.md "wikilink")）に充てていたため番組を2年間休止となる。その分水曜21時台に本枠の枠移動して『[水曜ドラマ](../Page/水曜ドラマ_\(TBS\).md "wikilink")』を放送したが、翌10月から放送が再開されている。
 
 ## 基幹時刻
 
@@ -13,9 +13,9 @@
 
 ## 概要
 
-現在存在しているTBSテレビの[ドラマ枠では](../Page/テレビドラマ.md "wikilink")、『[日曜劇場](https://ja.wikipedia.org/wiki/日曜劇場 "wikilink")』に次いで放送期間が長い。[大人](../Page/大人.md "wikilink")（特にF1、F2層（20 - 49歳の[女性](../Page/女性.md "wikilink")、→[視聴者](https://ja.wikipedia.org/wiki/視聴者 "wikilink")））向けの作品が中心だったが、[1990年代](../Page/1990年代.md "wikilink")以降は[若者向けや若者を主人公にした作品も登場する](https://ja.wikipedia.org/wiki/青年 "wikilink")。
+現在存在しているTBSテレビの[ドラマ枠では](../Page/テレビドラマ.md "wikilink")、『[日曜劇場](https://ja.wikipedia.org/wiki/日曜劇場 "wikilink")』に次いで放送期間が長い。[大人](../Page/大人.md "wikilink")（特にF1、F2層（20 - 49歳の[女性](../Page/女性.md "wikilink")、→[視聴者](../Page/視聴者.md "wikilink")））向けの作品が中心だったが、[1990年代](../Page/1990年代.md "wikilink")以降は[若者向けや若者を主人公にした作品も登場する](../Page/青年.md "wikilink")。
 
-[1962年](../Page/1962年.md "wikilink")から[2001年](../Page/2001年.md "wikilink")まで中断期間があるものの[金曜21時台にもドラマが放送されていた](../Page/TBS金曜9時枠の連続ドラマ.md "wikilink")。[1972年](../Page/1972年.md "wikilink")10月から[1982年](../Page/1982年.md "wikilink")9月までは8時台に[金曜20時枠ドラマ](../Page/TBS金曜8時枠の連続ドラマ.md "wikilink")、金曜9時枠ドラマがあったため、金曜日は3時間テレビドラマ（1時間枠×3）を放映していた。（なお、最盛期には火曜日から金曜日まで3時間テレビドラマ（1時間枠×3）を放映していた。）さらに、30分枠のテレビドラマも加えると19時台前半に『[ウルトラマンタロウ](../Page/ウルトラマンタロウ.md "wikilink")』、後半に『[走れ\!ケー100](https://ja.wikipedia.org/wiki/走れ!ケー100 "wikilink")』を放送していた時期は4時間テレビドラマを放送して\[1\]、水曜日と木曜日にも4時間テレビドラマを放送していた時期がある。
+[1962年](../Page/1962年.md "wikilink")から[2001年](../Page/2001年.md "wikilink")まで中断期間があるものの[金曜21時台にもドラマが放送されていた](../Page/TBS金曜9時枠の連続ドラマ.md "wikilink")。[1972年](../Page/1972年.md "wikilink")10月から[1982年](../Page/1982年.md "wikilink")9月までは8時台に[金曜20時枠ドラマ](../Page/TBS金曜8時枠の連続ドラマ.md "wikilink")、金曜9時枠ドラマがあったため、金曜日は3時間テレビドラマ（1時間枠×3）を放映していた。（なお、最盛期には火曜日から金曜日まで3時間テレビドラマ（1時間枠×3）を放映していた。）さらに、30分枠のテレビドラマも加えると19時台前半に『[ウルトラマンタロウ](../Page/ウルトラマンタロウ.md "wikilink")』、後半に『[走れ\!ケー100](../Page/走れ!ケー100.md "wikilink")』を放送していた時期は4時間テレビドラマを放送して\[1\]、水曜日と木曜日にも4時間テレビドラマを放送していた時期がある。
 
 1989年の再開後は3か月交替で年間4本のドラマが放送されている。例外として、2004年に放送された『3年B組金八先生』第7シリーズは2005年3月までの半年間、2006年10月から11月の『セーラー服と機関銃』が2か月間（全7回）、2006年12月の『笑える恋はしたくない』が1か月間（全3回）の編成を取った。
 
@@ -25,7 +25,7 @@
 
 放送された作品は現代劇だが、[2012年](../Page/2012年.md "wikilink")10月からの『[大奥〜誕生［有功・家光篇］](https://ja.wikipedia.org/wiki/大奥〜誕生［有功・家光篇］ "wikilink")』では初めて[時代劇](../Page/時代劇.md "wikilink")の作品が登場した。\[2\]\[3\]
 
-2004年春に[水曜22時枠ドラマが廃枠になり](../Page/TBS水曜10時枠の連続ドラマ.md "wikilink")、2008年春に[木曜22時枠ドラマが廃枠になると](https://ja.wikipedia.org/wiki/TBS木曜10時枠の連続ドラマ "wikilink")、当枠はTBSテレビ唯一の22時枠ドラマとなったが、2014年春の改編で、かつて『[刑事コジャック](../Page/刑事コジャック.md "wikilink")』『[刑事スタスキー&ハッチ](https://ja.wikipedia.org/wiki/スタスキー&ハッチ "wikilink")』などの[海外ドラマを編成していた火曜](https://ja.wikipedia.org/wiki/TBS火曜10時枠の連続ドラマ "wikilink")22時枠に、国産1時間ドラマ『[火曜ドラマ](https://ja.wikipedia.org/wiki/火曜ドラマ_\(TBS\) "wikilink")』を設置、6年ぶりに22時枠ドラマが2体制になった。
+2004年春に[水曜22時枠ドラマが廃枠になり](../Page/TBS水曜10時枠の連続ドラマ.md "wikilink")、2008年春に[木曜22時枠ドラマが廃枠になると](../Page/TBS木曜10時枠の連続ドラマ.md "wikilink")、当枠はTBSテレビ唯一の22時枠ドラマとなったが、2014年春の改編で、かつて『[刑事コジャック](../Page/刑事コジャック.md "wikilink")』『[刑事スタスキー&ハッチ](https://ja.wikipedia.org/wiki/スタスキー&ハッチ "wikilink")』などの[海外ドラマを編成していた火曜](https://ja.wikipedia.org/wiki/TBS火曜10時枠の連続ドラマ "wikilink")22時枠に、国産1時間ドラマ『[火曜ドラマ](https://ja.wikipedia.org/wiki/火曜ドラマ_\(TBS\) "wikilink")』を設置、6年ぶりに22時枠ドラマが2体制になった。
 
 また2018年春の改編で、月 - 木の22時台番組（『火曜ドラマ』を含む）が22:00 - 23:07に拡大（13分延長）されたが、当枠は引き続き22:00 - 22:54枠での放送となった（2019年4月29日より22:57までに縮小）。TBSテレビの22時番組で23:00を超えないのは当枠と日曜の『[林先生が驚く初耳学\!](https://ja.wikipedia.org/wiki/林先生が驚く初耳学! "wikilink")』（[毎日放送制作](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")）の2番組\[4\]だけで、「平日」と「TBS制作」は当枠が唯一となる。
 
@@ -70,8 +70,8 @@
 
   - [とべない鳩のように](https://ja.wikipedia.org/wiki/とべない鳩のように "wikilink")
   - [光る崖](https://ja.wikipedia.org/wiki/光る崖 "wikilink")（主演：田宮二郎、[吉永小百合](../Page/吉永小百合.md "wikilink")）
-  - [岸辺のアルバム](https://ja.wikipedia.org/wiki/岸辺のアルバム "wikilink")（主演：[八千草薫](https://ja.wikipedia.org/wiki/八千草薫 "wikilink")）
-  - [あにき](https://ja.wikipedia.org/wiki/あにき "wikilink")（主演：[高倉健](https://ja.wikipedia.org/wiki/高倉健 "wikilink")）
+  - [岸辺のアルバム](../Page/岸辺のアルバム.md "wikilink")（主演：[八千草薫](../Page/八千草薫.md "wikilink")）
+  - [あにき](https://ja.wikipedia.org/wiki/あにき "wikilink")（主演：[高倉健](../Page/高倉健.md "wikilink")）
 
 ### 1978年
 
@@ -97,9 +97,9 @@
 ### 1981年
 
   - [もういちど春](https://ja.wikipedia.org/wiki/もういちど春 "wikilink")
-  - [父母の誤算](https://ja.wikipedia.org/wiki/父母の誤算 "wikilink")（主演：[露口茂](https://ja.wikipedia.org/wiki/露口茂 "wikilink")）
+  - [父母の誤算](https://ja.wikipedia.org/wiki/父母の誤算 "wikilink")（主演：[露口茂](../Page/露口茂.md "wikilink")）
   - [土曜日曜月曜](https://ja.wikipedia.org/wiki/土曜日曜月曜 "wikilink")
-  - [想い出づくり。](../Page/想い出づくり。.md "wikilink")（9月18日 - 12月25日、主演：[古手川祐子](https://ja.wikipedia.org/wiki/古手川祐子 "wikilink")、[森昌子](../Page/森昌子.md "wikilink")）
+  - [想い出づくり。](../Page/想い出づくり。.md "wikilink")（9月18日 - 12月25日、主演：[古手川祐子](../Page/古手川祐子.md "wikilink")、[森昌子](../Page/森昌子.md "wikilink")）
 
 ### 1982年
 
@@ -111,34 +111,34 @@
 
 ### 1983年
 
-  - [金曜日の妻たちへ](https://ja.wikipedia.org/wiki/金曜日の妻たちへ "wikilink")（2月11日 - 5月13日、主演：[古谷一行](https://ja.wikipedia.org/wiki/古谷一行 "wikilink")、[いしだあゆみ](../Page/いしだあゆみ.md "wikilink")）
-  - [ふぞろいの林檎たち](../Page/ふぞろいの林檎たち.md "wikilink")（5月27日 - 7月29日、主演：[中井貴一](https://ja.wikipedia.org/wiki/中井貴一 "wikilink")）
-  - [夏に恋する女たち](../Page/夏に恋する女たち.md "wikilink")（8月5日 - 9月30日、主演：[田村正和](../Page/田村正和.md "wikilink")、[名取裕子](https://ja.wikipedia.org/wiki/名取裕子 "wikilink")、[原田芳雄](../Page/原田芳雄.md "wikilink")）
+  - [金曜日の妻たちへ](../Page/金曜日の妻たちへ.md "wikilink")（2月11日 - 5月13日、主演：[古谷一行](../Page/古谷一行.md "wikilink")、[いしだあゆみ](../Page/いしだあゆみ.md "wikilink")）
+  - [ふぞろいの林檎たち](../Page/ふぞろいの林檎たち.md "wikilink")（5月27日 - 7月29日、主演：[中井貴一](../Page/中井貴一.md "wikilink")）
+  - [夏に恋する女たち](../Page/夏に恋する女たち.md "wikilink")（8月5日 - 9月30日、主演：[田村正和](../Page/田村正和.md "wikilink")、[名取裕子](../Page/名取裕子.md "wikilink")、[原田芳雄](../Page/原田芳雄.md "wikilink")）
   - [もういちど結婚](https://ja.wikipedia.org/wiki/もういちど結婚 "wikilink")（10月7日 - 12月30日、主演：藤竜也）
 
 ### 1984年
 
   - [無邪気な関係](../Page/無邪気な関係.md "wikilink")（1月6日 - 3月30日）
-  - [くれない族の反乱](https://ja.wikipedia.org/wiki/くれない族の反乱 "wikilink")（4月6日 - 6月1日、主演：[大原麗子](https://ja.wikipedia.org/wiki/大原麗子 "wikilink")、田村正和、[神田正輝](../Page/神田正輝.md "wikilink")、[賀来千香子](https://ja.wikipedia.org/wiki/賀来千香子 "wikilink")）
+  - [くれない族の反乱](https://ja.wikipedia.org/wiki/くれない族の反乱 "wikilink")（4月6日 - 6月1日、主演：[大原麗子](https://ja.wikipedia.org/wiki/大原麗子 "wikilink")、田村正和、[神田正輝](../Page/神田正輝.md "wikilink")、[賀来千香子](../Page/賀来千香子.md "wikilink")）
   - [危険なふたり](https://ja.wikipedia.org/wiki/危険なふたり_\(テレビドラマ\) "wikilink")
   - [女のたたかい](https://ja.wikipedia.org/wiki/女のたたかい "wikilink")
   - [夜色の女たち](https://ja.wikipedia.org/wiki/夜色の女たち "wikilink")
-  - [金曜日の妻たちへ 男たちよ、元気かい?](https://ja.wikipedia.org/wiki/金曜日の妻たちへ "wikilink")II（7月6日 - 10月5日、主演：[高橋惠子](../Page/高橋惠子.md "wikilink")、[伊武雅刀](../Page/伊武雅刀.md "wikilink")、[田中好子](../Page/田中好子.md "wikilink")、[竜雷太](https://ja.wikipedia.org/wiki/竜雷太 "wikilink")）
-  - [大家族](../Page/大家族_\(テレビドラマ\).md "wikilink")（10月12日 - 翌年1月4日、主演：[沢村貞子](../Page/沢村貞子.md "wikilink")、[藤岡琢也](https://ja.wikipedia.org/wiki/藤岡琢也 "wikilink")）
+  - [金曜日の妻たちへ 男たちよ、元気かい?](../Page/金曜日の妻たちへ.md "wikilink")II（7月6日 - 10月5日、主演：[高橋惠子](../Page/高橋惠子.md "wikilink")、[伊武雅刀](../Page/伊武雅刀.md "wikilink")、[田中好子](../Page/田中好子.md "wikilink")、[竜雷太](../Page/竜雷太.md "wikilink")）
+  - [大家族](../Page/大家族_\(テレビドラマ\).md "wikilink")（10月12日 - 翌年1月4日、主演：[沢村貞子](../Page/沢村貞子.md "wikilink")、[藤岡琢也](../Page/藤岡琢也.md "wikilink")）
 
 ### 1985年
 
   - [許せない結婚](https://ja.wikipedia.org/wiki/許せない結婚 "wikilink")
   - [ふぞろいの林檎たち](../Page/ふぞろいの林檎たち.md "wikilink")II（3月15日 - 6月7日、主演：中井貴一）
   - [夫婦生活](https://ja.wikipedia.org/wiki/夫婦生活_\(テレビドラマ\) "wikilink")（6月21日 - 8月23日、主演：[桃井かおり](../Page/桃井かおり.md "wikilink")、[名高達男](../Page/名高達男.md "wikilink")）
-  - [金曜日の妻たちへ 恋におちて](https://ja.wikipedia.org/wiki/金曜日の妻たちへ "wikilink")III（8月30日 - 12月6日、主演：古谷一行、いしだあゆみ、[篠ひろ子](../Page/篠ひろ子.md "wikilink")）
-  - [華やかな誤算](https://ja.wikipedia.org/wiki/華やかな誤算 "wikilink")（12月13日 - 翌年2月28日、主演：[杉浦直樹](https://ja.wikipedia.org/wiki/杉浦直樹 "wikilink")、[古尾谷雅人](../Page/古尾谷雅人.md "wikilink")）
+  - [金曜日の妻たちへ 恋におちて](../Page/金曜日の妻たちへ.md "wikilink")III（8月30日 - 12月6日、主演：古谷一行、いしだあゆみ、[篠ひろ子](../Page/篠ひろ子.md "wikilink")）
+  - [華やかな誤算](https://ja.wikipedia.org/wiki/華やかな誤算 "wikilink")（12月13日 - 翌年2月28日、主演：[杉浦直樹](../Page/杉浦直樹.md "wikilink")、[古尾谷雅人](../Page/古尾谷雅人.md "wikilink")）
 
 ### 1986年
 
   - [となりの女](https://ja.wikipedia.org/wiki/となりの女 "wikilink")（3月7日 - 5月30日、主演：大原麗子）
   - [深夜にようこそ](https://ja.wikipedia.org/wiki/深夜にようこそ "wikilink")（6月13日 - 7月4日、主演：[千葉真一](https://ja.wikipedia.org/wiki/千葉真一 "wikilink")）
-  - [女ともだち](https://ja.wikipedia.org/wiki/女ともだち_\(柴門ふみの漫画\) "wikilink")（7月11日 - 9月26日、主演：[古手川祐子](https://ja.wikipedia.org/wiki/古手川祐子 "wikilink")）
+  - [女ともだち](https://ja.wikipedia.org/wiki/女ともだち_\(柴門ふみの漫画\) "wikilink")（7月11日 - 9月26日、主演：[古手川祐子](../Page/古手川祐子.md "wikilink")）
   - [金曜日には花を買って](../Page/金曜日には花を買って.md "wikilink")（10月10日 - 翌年1月23日、主演：篠ひろ子）
 
 ### 1987年
@@ -157,71 +157,71 @@
 
 ### 1990年
 
-  - [想い出にかわるまで](https://ja.wikipedia.org/wiki/想い出にかわるまで "wikilink")（1月12日 - 3月30日、主演：[今井美樹](../Page/今井美樹.md "wikilink")）
-  - [誘惑](../Page/誘惑_\(1990年のテレビドラマ\).md "wikilink")（4月13日 - 6月29日、原作：[連城三紀彦](https://ja.wikipedia.org/wiki/連城三紀彦 "wikilink")、主演：篠ひろ子 共演：[紺野美沙子](../Page/紺野美沙子.md "wikilink")、[吉田栄作](../Page/吉田栄作.md "wikilink")、[西尾麻里](../Page/西尾まり.md "wikilink")、[長山洋子](../Page/長山洋子.md "wikilink")、[宇都宮隆](https://ja.wikipedia.org/wiki/宇都宮隆 "wikilink")、[林隆三](../Page/林隆三.md "wikilink")）
-  - [都会の森](../Page/都会の森.md "wikilink")（7月6日 - 9月14日、主演：[高嶋政伸](https://ja.wikipedia.org/wiki/高嶋政伸 "wikilink")）製作：木下プロダクション
+  - [想い出にかわるまで](../Page/想い出にかわるまで.md "wikilink")（1月12日 - 3月30日、主演：[今井美樹](../Page/今井美樹.md "wikilink")）
+  - [誘惑](../Page/誘惑_\(1990年のテレビドラマ\).md "wikilink")（4月13日 - 6月29日、原作：[連城三紀彦](../Page/連城三紀彦.md "wikilink")、主演：篠ひろ子 共演：[紺野美沙子](../Page/紺野美沙子.md "wikilink")、[吉田栄作](../Page/吉田栄作.md "wikilink")、[西尾麻里](../Page/西尾まり.md "wikilink")、[長山洋子](../Page/長山洋子.md "wikilink")、[宇都宮隆](https://ja.wikipedia.org/wiki/宇都宮隆 "wikilink")、[林隆三](../Page/林隆三.md "wikilink")）
+  - [都会の森](../Page/都会の森.md "wikilink")（7月6日 - 9月14日、主演：[高嶋政伸](../Page/高嶋政伸.md "wikilink")）製作：木下プロダクション
   - [男について](../Page/男について.md "wikilink")（10月12日 - 12月21日、主演：[浅野ゆう子](../Page/浅野ゆう子.md "wikilink")）製作：木下プロダクション
 
 ### 1991年
 
-  - [ふぞろいの林檎たち](../Page/ふぞろいの林檎たち.md "wikilink")III（1月11日 - 3月22日、主演：[中井貴一](https://ja.wikipedia.org/wiki/中井貴一 "wikilink")）
-  - [それでも家を買いました](../Page/それでも家を買いました.md "wikilink")（4月19日 - 6月28日、原作：[矢崎葉子](https://ja.wikipedia.org/wiki/矢崎葉子 "wikilink")、主演：[三上博史](https://ja.wikipedia.org/wiki/三上博史 "wikilink") 共演：[田中美佐子](https://ja.wikipedia.org/wiki/田中美佐子 "wikilink")）製作：木下プロダクション
+  - [ふぞろいの林檎たち](../Page/ふぞろいの林檎たち.md "wikilink")III（1月11日 - 3月22日、主演：[中井貴一](../Page/中井貴一.md "wikilink")）
+  - [それでも家を買いました](../Page/それでも家を買いました.md "wikilink")（4月19日 - 6月28日、原作：[矢崎葉子](https://ja.wikipedia.org/wiki/矢崎葉子 "wikilink")、主演：[三上博史](../Page/三上博史.md "wikilink") 共演：[田中美佐子](../Page/田中美佐子.md "wikilink")）製作：木下プロダクション
   - [結婚したい男たち](https://ja.wikipedia.org/wiki/結婚したい男たち "wikilink")（7月5日 - 9月20日、主演：[片岡鶴太郎](../Page/片岡鶴太郎.md "wikilink")）
-  - [あしたがあるから](https://ja.wikipedia.org/wiki/あしたがあるから "wikilink")（10月18日 - 12月20日、主演：今井美樹 共演：[仙道敦子](https://ja.wikipedia.org/wiki/仙道敦子 "wikilink")、[石橋凌](https://ja.wikipedia.org/wiki/石橋凌 "wikilink")、[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")）
+  - [あしたがあるから](../Page/あしたがあるから.md "wikilink")（10月18日 - 12月20日、主演：今井美樹 共演：[仙道敦子](../Page/仙道敦子.md "wikilink")、[石橋凌](../Page/石橋凌.md "wikilink")、[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")）
 
 ### 1992年
 
   - [おとなの選択](../Page/おとなの選択.md "wikilink")（1月10日 - 3月20日、主演：[松田聖子](../Page/松田聖子.md "wikilink")）製作：木下プロダクション
-  - [愛はどうだ](https://ja.wikipedia.org/wiki/愛はどうだ "wikilink")（4月17日 - 6月26日、主演：[緒形拳](https://ja.wikipedia.org/wiki/緒形拳 "wikilink")）
-  - [ずっとあなたが好きだった](https://ja.wikipedia.org/wiki/ずっとあなたが好きだった "wikilink")（7月3日 - 9月25日、主演：[賀来千香子](https://ja.wikipedia.org/wiki/賀来千香子 "wikilink")）
-  - [十年愛](../Page/十年愛.md "wikilink")（10月16日 - 12月25日、主演：[田中美佐子](https://ja.wikipedia.org/wiki/田中美佐子 "wikilink")、[浜田雅功](../Page/浜田雅功.md "wikilink")）
+  - [愛はどうだ](../Page/愛はどうだ.md "wikilink")（4月17日 - 6月26日、主演：[緒形拳](../Page/緒形拳.md "wikilink")）
+  - [ずっとあなたが好きだった](../Page/ずっとあなたが好きだった.md "wikilink")（7月3日 - 9月25日、主演：[賀来千香子](../Page/賀来千香子.md "wikilink")）
+  - [十年愛](../Page/十年愛.md "wikilink")（10月16日 - 12月25日、主演：[田中美佐子](../Page/田中美佐子.md "wikilink")、[浜田雅功](../Page/浜田雅功.md "wikilink")）
 
 ### 1993年
 
-  - [高校教師](https://ja.wikipedia.org/wiki/高校教師_\(1993年のテレビドラマ\) "wikilink")（1月8日 - 3月19日、主演：[真田広之](../Page/真田広之.md "wikilink")、[桜井幸子](../Page/桜井幸子.md "wikilink")）
-  - [わたしってブスだったの?](../Page/わたしってブスだったの?.md "wikilink")（4月16日 - 7月2日、原作：[大石静](https://ja.wikipedia.org/wiki/大石静 "wikilink")、主演：松田聖子）製作：木下プロダクション
-  - [誰にも言えない](https://ja.wikipedia.org/wiki/誰にも言えない "wikilink")（7月9日 - 9月24日、主演：賀来千香子）
+  - [高校教師](../Page/高校教師_\(1993年のテレビドラマ\).md "wikilink")（1月8日 - 3月19日、主演：[真田広之](../Page/真田広之.md "wikilink")、[桜井幸子](../Page/桜井幸子.md "wikilink")）
+  - [わたしってブスだったの?](../Page/わたしってブスだったの?.md "wikilink")（4月16日 - 7月2日、原作：[大石静](../Page/大石静.md "wikilink")、主演：松田聖子）製作：木下プロダクション
+  - [誰にも言えない](../Page/誰にも言えない.md "wikilink")（7月9日 - 9月24日、主演：賀来千香子）
   - [徹底的に愛は…](../Page/徹底的に愛は….md "wikilink")（10月15日 - 12月24日、主演：仙道敦子、吉田栄作）
 
 ### 1994年
 
   - [いつも心に太陽を](../Page/いつも心に太陽を_\(テレビドラマ\).md "wikilink")（1月7日 - 3月18日、主演：[西田敏行](../Page/西田敏行.md "wikilink")）
   - [適齢期](../Page/適齢期.md "wikilink")（4月15日 - 7月1日、主演：三上博史）製作：木下プロダクション
-  - [人間・失格〜たとえばぼくが死んだら](https://ja.wikipedia.org/wiki/人間・失格〜たとえばぼくが死んだら "wikilink")（7月8日 - 9月23日、主演：[赤井英和](https://ja.wikipedia.org/wiki/赤井英和 "wikilink")）
+  - [人間・失格〜たとえばぼくが死んだら](../Page/人間・失格〜たとえばぼくが死んだら.md "wikilink")（7月8日 - 9月23日、主演：[赤井英和](https://ja.wikipedia.org/wiki/赤井英和 "wikilink")）
   - [僕が彼女に、借金をした理由。](../Page/僕が彼女に、借金をした理由。.md "wikilink")（10月14日 - 12月23日、主演：真田広之 共演：[小泉今日子](https://ja.wikipedia.org/wiki/小泉今日子 "wikilink")）
 
 ### 1995年
 
   - [揺れる想い](../Page/揺れる想い_\(テレビドラマ\).md "wikilink")（1月13日 - 3月24日、主演：[南野陽子](https://ja.wikipedia.org/wiki/南野陽子 "wikilink")）
   - [ジューン・ブライド](../Page/ジューン・ブライド_\(テレビドラマ\).md "wikilink")（4月14日 - 6月30日、主演：[財前直見](../Page/財前直見.md "wikilink")）
-  - [愛していると言ってくれ](https://ja.wikipedia.org/wiki/愛していると言ってくれ "wikilink")（7月7日 - 9月22日、主演：[豊川悦司](../Page/豊川悦司.md "wikilink")、[常盤貴子](https://ja.wikipedia.org/wiki/常盤貴子 "wikilink")）
-  - [未成年](https://ja.wikipedia.org/wiki/未成年_\(テレビドラマ\) "wikilink")（10月13日 - 12月22日、主演：[いしだ壱成](../Page/いしだ壱成.md "wikilink")）
+  - [愛していると言ってくれ](../Page/愛していると言ってくれ.md "wikilink")（7月7日 - 9月22日、主演：[豊川悦司](../Page/豊川悦司.md "wikilink")、[常盤貴子](https://ja.wikipedia.org/wiki/常盤貴子 "wikilink")）
+  - [未成年](../Page/未成年_\(テレビドラマ\).md "wikilink")（10月13日 - 12月22日、主演：[いしだ壱成](../Page/いしだ壱成.md "wikilink")）
 
 ### 1996年
 
-  - [愛とは決して後悔しないこと](../Page/愛とは決して後悔しないこと.md "wikilink")（1月12日 - 3月22日、主演：[緒形直人](https://ja.wikipedia.org/wiki/緒形直人 "wikilink")）製作：木下プロダクション
+  - [愛とは決して後悔しないこと](../Page/愛とは決して後悔しないこと.md "wikilink")（1月12日 - 3月22日、主演：[緒形直人](../Page/緒形直人.md "wikilink")）製作：木下プロダクション
   - [君と出逢ってから](../Page/君と出逢ってから.md "wikilink")（4月12日 - 7月5日、主演：[本木雅弘](../Page/本木雅弘.md "wikilink")）
   - [硝子のかけらたち](../Page/硝子のかけらたち.md "wikilink")（7月12日 - 9月20日、主演：[藤井フミヤ](../Page/藤井フミヤ.md "wikilink") 共演：[松雪泰子](https://ja.wikipedia.org/wiki/松雪泰子 "wikilink")）
-  - [協奏曲](../Page/協奏曲_\(テレビドラマ\).md "wikilink")（10月11日 - 12月13日、主演：田村正和 共演：[木村拓哉](https://ja.wikipedia.org/wiki/木村拓哉 "wikilink")、[宮沢りえ](https://ja.wikipedia.org/wiki/宮沢りえ "wikilink")）
+  - [協奏曲](../Page/協奏曲_\(テレビドラマ\).md "wikilink")（10月11日 - 12月13日、主演：田村正和 共演：[木村拓哉](../Page/木村拓哉.md "wikilink")、[宮沢りえ](https://ja.wikipedia.org/wiki/宮沢りえ "wikilink")）
 
 ### 1997年
 
-  - [君が人生の時](../Page/君が人生の時.md "wikilink")（1月17日 - 3月21日、主演：[高嶋政伸](https://ja.wikipedia.org/wiki/高嶋政伸 "wikilink")）製作：木下プロダクション
+  - [君が人生の時](../Page/君が人生の時.md "wikilink")（1月17日 - 3月21日、主演：[高嶋政伸](../Page/高嶋政伸.md "wikilink")）製作：木下プロダクション
   - [ふぞろいの林檎たち](../Page/ふぞろいの林檎たち.md "wikilink")IV（4月11日 - 7月4日、主演：中井貴一）
-  - [最後の恋](https://ja.wikipedia.org/wiki/最後の恋 "wikilink")（7月11日 - 9月19日、主演：[中居正広](../Page/中居正広.md "wikilink")、常盤貴子）
-  - [青い鳥](https://ja.wikipedia.org/wiki/青い鳥_\(テレビドラマ\) "wikilink")（10月10日 - 12月19日、主演：豊川悦司）
+  - [最後の恋](../Page/最後の恋.md "wikilink")（7月11日 - 9月19日、主演：[中居正広](../Page/中居正広.md "wikilink")、常盤貴子）
+  - [青い鳥](../Page/青い鳥_\(テレビドラマ\).md "wikilink")（10月10日 - 12月19日、主演：豊川悦司）
 
 ### 1998年
 
   - [聖者の行進](../Page/聖者の行進_\(テレビドラマ\).md "wikilink")（1月9日 - 3月27日、主演：いしだ壱成）
   - [めぐり逢い](../Page/めぐり逢い_\(1998年のテレビドラマ\).md "wikilink")（4月10日 - 6月26日、主演：常盤貴子、[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")）
-  - [ランデヴー](../Page/ランデヴー_\(テレビドラマ\).md "wikilink")（7月3日 - 9月11日、主演：[田中美佐子](https://ja.wikipedia.org/wiki/田中美佐子 "wikilink") 共演：[桃井かおり](../Page/桃井かおり.md "wikilink")）
+  - [ランデヴー](../Page/ランデヴー_\(テレビドラマ\).md "wikilink")（7月3日 - 9月11日、主演：[田中美佐子](../Page/田中美佐子.md "wikilink") 共演：[桃井かおり](../Page/桃井かおり.md "wikilink")）
   - [あきまへんで\!](../Page/あきまへんで!.md "wikilink")（10月9日 - 12月18日、主演：[中村玉緒](../Page/中村玉緒.md "wikilink")）
 
 ### 1999年
 
   - [ケイゾク](../Page/ケイゾク.md "wikilink")（1月8日 - 3月19日、主演：[中谷美紀](https://ja.wikipedia.org/wiki/中谷美紀 "wikilink") 共演：[渡部篤郎](../Page/渡部篤郎.md "wikilink")）
-  - [週末婚](../Page/週末婚.md "wikilink")（4月9日 - 7月2日、主演：[永作博美](https://ja.wikipedia.org/wiki/永作博美 "wikilink")）製作：[テレパック](https://ja.wikipedia.org/wiki/テレパック "wikilink")
+  - [週末婚](../Page/週末婚.md "wikilink")（4月9日 - 7月2日、主演：[永作博美](https://ja.wikipedia.org/wiki/永作博美 "wikilink")）製作：[テレパック](../Page/テレパック.md "wikilink")
   - [独身生活](../Page/独身生活.md "wikilink")（7月9日 - 9月17日、主演：[江角マキコ](https://ja.wikipedia.org/wiki/江角マキコ "wikilink")）
   - [美しい人](../Page/美しい人_\(テレビドラマ\).md "wikilink")（10月15日 - 12月17日、主演：田村正和 共演：常盤貴子）
 
@@ -234,24 +234,24 @@
 
 ### 2001年
 
-  - [ストロベリー・オンザ・ショートケーキ](https://ja.wikipedia.org/wiki/ストロベリー・オンザ・ショートケーキ "wikilink")（1月12日 - 3月16日、主演：[滝沢秀明](https://ja.wikipedia.org/wiki/滝沢秀明 "wikilink") 共演：[深田恭子](https://ja.wikipedia.org/wiki/深田恭子 "wikilink")）
+  - [ストロベリー・オンザ・ショートケーキ](../Page/ストロベリー・オンザ・ショートケーキ.md "wikilink")（1月12日 - 3月16日、主演：[滝沢秀明](https://ja.wikipedia.org/wiki/滝沢秀明 "wikilink") 共演：[深田恭子](https://ja.wikipedia.org/wiki/深田恭子 "wikilink")）
   - [昔の男](../Page/昔の男.md "wikilink")（4月13日 - 6月29日、主演：藤原紀香、[大沢たかお](../Page/大沢たかお.md "wikilink")）製作：テレパック。\[6\]
-  - [世界で一番熱い夏](../Page/世界で一番熱い夏.md "wikilink")（7月6日 - 9月14日、主演：[岸谷五朗](https://ja.wikipedia.org/wiki/岸谷五朗 "wikilink")）
+  - [世界で一番熱い夏](../Page/世界で一番熱い夏.md "wikilink")（7月6日 - 9月14日、主演：[岸谷五朗](../Page/岸谷五朗.md "wikilink")）
   - [恋を何年休んでますか](../Page/恋を何年休んでますか.md "wikilink")（10月19日 - 12月21日、主演：小泉今日子 共演：[飯島直子](https://ja.wikipedia.org/wiki/飯島直子 "wikilink")、[黒木瞳](../Page/黒木瞳.md "wikilink")）
 
 ### 2002年
 
-  - [木更津キャッツアイ](../Page/木更津キャッツアイ.md "wikilink")（1月18日 - 3月15日、主演：[岡田准一](https://ja.wikipedia.org/wiki/岡田准一 "wikilink")）
+  - [木更津キャッツアイ](../Page/木更津キャッツアイ.md "wikilink")（1月18日 - 3月15日、主演：[岡田准一](../Page/岡田准一.md "wikilink")）
   - [夢のカリフォルニア](https://ja.wikipedia.org/wiki/夢のカリフォルニア "wikilink")（4月12日 - 6月28日、主演：[堂本剛](../Page/堂本剛.md "wikilink")）
-  - [愛なんていらねえよ、夏](https://ja.wikipedia.org/wiki/愛なんていらねえよ、夏 "wikilink")（7月12日 - 9月13日、主演：[渡部篤郎](../Page/渡部篤郎.md "wikilink") 共演：[広末涼子](https://ja.wikipedia.org/wiki/広末涼子 "wikilink")）
+  - [愛なんていらねえよ、夏](../Page/愛なんていらねえよ、夏.md "wikilink")（7月12日 - 9月13日、主演：[渡部篤郎](../Page/渡部篤郎.md "wikilink") 共演：[広末涼子](https://ja.wikipedia.org/wiki/広末涼子 "wikilink")）
   - [ママの遺伝子](../Page/ママの遺伝子.md "wikilink")（10月11日 - 12月13日、主演：[薬師丸ひろ子](../Page/薬師丸ひろ子.md "wikilink")）
 
 ### 2003年
 
   - [高校教師](https://ja.wikipedia.org/wiki/高校教師_\(2003年のテレビドラマ\) "wikilink")（1月10日 - 3月21日、主演：[藤木直人](https://ja.wikipedia.org/wiki/藤木直人 "wikilink")、[上戸彩](https://ja.wikipedia.org/wiki/上戸彩 "wikilink")）
-  - [ブラックジャックによろしく](../Page/ブラックジャックによろしく.md "wikilink")（4月11日 - 6月20日、原作：[佐藤秀峰](https://ja.wikipedia.org/wiki/佐藤秀峰 "wikilink") 主演：[妻夫木聡](../Page/妻夫木聡.md "wikilink")）
-  - [Stand Up\!\!](../Page/Stand_Up!!_\(テレビドラマ\).md "wikilink")（7月4日 - 9月12日、主演：[二宮和也](https://ja.wikipedia.org/wiki/二宮和也 "wikilink") 共演：[山下智久](https://ja.wikipedia.org/wiki/山下智久 "wikilink")、[鈴木杏](https://ja.wikipedia.org/wiki/鈴木杏 "wikilink")）
-  - [ヤンキー母校に帰る](https://ja.wikipedia.org/wiki/ヤンキー母校に帰る "wikilink")（10月10日 - 12月12日、主演：竹野内豊）
+  - [ブラックジャックによろしく](../Page/ブラックジャックによろしく.md "wikilink")（4月11日 - 6月20日、原作：[佐藤秀峰](../Page/佐藤秀峰.md "wikilink") 主演：[妻夫木聡](../Page/妻夫木聡.md "wikilink")）
+  - [Stand Up\!\!](../Page/Stand_Up!!_\(テレビドラマ\).md "wikilink")（7月4日 - 9月12日、主演：[二宮和也](../Page/二宮和也.md "wikilink") 共演：[山下智久](https://ja.wikipedia.org/wiki/山下智久 "wikilink")、[鈴木杏](https://ja.wikipedia.org/wiki/鈴木杏 "wikilink")）
+  - [ヤンキー母校に帰る](../Page/ヤンキー母校に帰る.md "wikilink")（10月10日 - 12月12日、主演：竹野内豊）
 
 ### 2004年
 
@@ -262,13 +262,13 @@
 
 ### 2005年
 
-  - [タイガー&ドラゴン](https://ja.wikipedia.org/wiki/タイガー&ドラゴン_\(テレビドラマ\) "wikilink")（4月15日 - 6月24日、主演：[長瀬智也](../Page/長瀬智也.md "wikilink")、岡田准一）
-  - [ドラゴン桜](../Page/ドラゴン桜_\(テレビドラマ\).md "wikilink")（7月8日 - 9月16日、原作：[三田紀房](https://ja.wikipedia.org/wiki/三田紀房 "wikilink") 主演：[阿部寛](../Page/阿部寛.md "wikilink") 共演：[長谷川京子](https://ja.wikipedia.org/wiki/長谷川京子 "wikilink")、山下智久、[長澤まさみ](https://ja.wikipedia.org/wiki/長澤まさみ "wikilink")、[新垣結衣](https://ja.wikipedia.org/wiki/新垣結衣 "wikilink")）製作：[MMJ](https://ja.wikipedia.org/wiki/メディアミックス・ジャパン "wikilink")
-  - [花より男子](https://ja.wikipedia.org/wiki/花より男子#日本版 "wikilink")（10月21日 - 12月16日、原作：[神尾葉子](https://ja.wikipedia.org/wiki/神尾葉子 "wikilink") 主演：[井上真央](https://ja.wikipedia.org/wiki/井上真央 "wikilink") 共演：松本潤）
+  - [タイガー&ドラゴン](../Page/タイガー&ドラゴン_\(テレビドラマ\).md "wikilink")（4月15日 - 6月24日、主演：[長瀬智也](../Page/長瀬智也.md "wikilink")、岡田准一）
+  - [ドラゴン桜](../Page/ドラゴン桜_\(テレビドラマ\).md "wikilink")（7月8日 - 9月16日、原作：[三田紀房](../Page/三田紀房.md "wikilink") 主演：[阿部寛](../Page/阿部寛.md "wikilink") 共演：[長谷川京子](https://ja.wikipedia.org/wiki/長谷川京子 "wikilink")、山下智久、[長澤まさみ](https://ja.wikipedia.org/wiki/長澤まさみ "wikilink")、[新垣結衣](https://ja.wikipedia.org/wiki/新垣結衣 "wikilink")）製作：[MMJ](../Page/メディアミックス・ジャパン.md "wikilink")
+  - [花より男子](https://ja.wikipedia.org/wiki/花より男子#日本版 "wikilink")（10月21日 - 12月16日、原作：[神尾葉子](../Page/神尾葉子.md "wikilink") 主演：[井上真央](https://ja.wikipedia.org/wiki/井上真央 "wikilink") 共演：松本潤）
 
 ### 2006年
 
-  - [夜王](https://ja.wikipedia.org/wiki/夜王#夜王_〜YAOH〜 "wikilink")（1月13日-3月24日、原作：[倉科遼](https://ja.wikipedia.org/wiki/倉科遼 "wikilink")・[井上紀良](../Page/井上紀良.md "wikilink") 主演：[松岡昌宏](../Page/松岡昌宏.md "wikilink")）製作：ドリマックス・テレビジョン
+  - [夜王](https://ja.wikipedia.org/wiki/夜王#夜王_〜YAOH〜 "wikilink")（1月13日-3月24日、原作：[倉科遼](../Page/倉科遼.md "wikilink")・[井上紀良](../Page/井上紀良.md "wikilink") 主演：[松岡昌宏](../Page/松岡昌宏.md "wikilink")）製作：ドリマックス・テレビジョン
   - [クロサギ](../Page/クロサギ_\(テレビドラマ\).md "wikilink")（4月14日 - 6月23日、原作：[夏原武](../Page/夏原武.md "wikilink")・[黒丸](https://ja.wikipedia.org/wiki/黒丸_\(漫画家\) "wikilink") 主演：[山下智久](https://ja.wikipedia.org/wiki/山下智久 "wikilink")）
   - [タイヨウのうた](../Page/タイヨウのうた.md "wikilink")（7月14日 - 9月15日、主演：山田孝之 共演：[沢尻エリカ](https://ja.wikipedia.org/wiki/沢尻エリカ "wikilink")）
   - [セーラー服と機関銃](../Page/セーラー服と機関銃.md "wikilink")（10月13日 - 11月24日、原作：[赤川次郎](../Page/赤川次郎.md "wikilink") 主演：[長澤まさみ](https://ja.wikipedia.org/wiki/長澤まさみ "wikilink")）
@@ -277,7 +277,7 @@
 ### 2007年
 
   - [花より男子2（リターンズ）](https://ja.wikipedia.org/wiki/花より男子#日本版 "wikilink")（1月5日 - 3月16日、原作：神尾葉子 主演：井上真央 共演：松本潤）
-  - [特急田中3号](../Page/特急田中3号.md "wikilink")（4月13日 - 6月22日、主演：[田中聖](https://ja.wikipedia.org/wiki/田中聖 "wikilink")）
+  - [特急田中3号](../Page/特急田中3号.md "wikilink")（4月13日 - 6月22日、主演：[田中聖](../Page/田中聖.md "wikilink")）
   - [山田太郎ものがたり](https://ja.wikipedia.org/wiki/山田太郎ものがたり#テレビドラマ_日本版 "wikilink")（7月6日 - 9月14日、原作：[森永あい](../Page/森永あい.md "wikilink") 主演：二宮和也、[櫻井翔](https://ja.wikipedia.org/wiki/櫻井翔 "wikilink")）
   - [歌姫](https://ja.wikipedia.org/wiki/歌姫_\(劇作品\)#テレビドラマ "wikilink")（10月12日 - 12月21日、主演：長瀬智也）
 
@@ -285,7 +285,7 @@
 
   - [エジソンの母](https://ja.wikipedia.org/wiki/エジソンの母 "wikilink")（1月11日 - 3月14日、主演：[伊東美咲](https://ja.wikipedia.org/wiki/伊東美咲 "wikilink")）製作：ドリマックス・テレビジョン
   - [Around40〜注文の多いオンナたち〜](https://ja.wikipedia.org/wiki/Around40〜注文の多いオンナたち〜 "wikilink")（4月11日 - 6月20日、主演：[天海祐希](https://ja.wikipedia.org/wiki/天海祐希 "wikilink")）
-  - [魔王](../Page/魔王_\(2008年のテレビドラマ\).md "wikilink")（7月4日 - 9月12日、主演：[大野智](https://ja.wikipedia.org/wiki/大野智 "wikilink")、[生田斗真](https://ja.wikipedia.org/wiki/生田斗真 "wikilink")）
+  - [魔王](../Page/魔王_\(2008年のテレビドラマ\).md "wikilink")（7月4日 - 9月12日、主演：[大野智](https://ja.wikipedia.org/wiki/大野智 "wikilink")、[生田斗真](../Page/生田斗真.md "wikilink")）
   - [流星の絆](https://ja.wikipedia.org/wiki/流星の絆 "wikilink")（10月17日 - 12月19日、原作：[東野圭吾](https://ja.wikipedia.org/wiki/東野圭吾 "wikilink") 主演：二宮和也）
 
 ### 2009年
@@ -306,7 +306,7 @@
 
   - [LADY〜最後の犯罪プロファイル〜](https://ja.wikipedia.org/wiki/LADY〜最後の犯罪プロファイル〜 "wikilink")（1月7日 - 3月25日、主演：[北川景子](https://ja.wikipedia.org/wiki/北川景子 "wikilink")）
   - [生まれる。](https://ja.wikipedia.org/wiki/生まれる。 "wikilink")（4月22日 - 6月24日、主演：[堀北真希](https://ja.wikipedia.org/wiki/堀北真希 "wikilink")）
-  - [美男ですね](https://ja.wikipedia.org/wiki/美男ですね "wikilink")（7月15日 - 9月23日、主演：[瀧本美織](https://ja.wikipedia.org/wiki/瀧本美織 "wikilink") 共演：[玉森裕太](https://ja.wikipedia.org/wiki/玉森裕太 "wikilink")、[藤ヶ谷太輔](../Page/藤ヶ谷太輔.md "wikilink")、[八乙女光](https://ja.wikipedia.org/wiki/八乙女光 "wikilink")）
+  - [美男ですね](https://ja.wikipedia.org/wiki/美男ですね "wikilink")（7月15日 - 9月23日、主演：[瀧本美織](https://ja.wikipedia.org/wiki/瀧本美織 "wikilink") 共演：[玉森裕太](../Page/玉森裕太.md "wikilink")、[藤ヶ谷太輔](../Page/藤ヶ谷太輔.md "wikilink")、[八乙女光](../Page/八乙女光.md "wikilink")）
   - [専業主婦探偵〜私はシャドウ](https://ja.wikipedia.org/wiki/私はシャドウ "wikilink")（10月21日 - 12月16日、原作：[粕谷紀子](https://ja.wikipedia.org/wiki/粕谷紀子 "wikilink") 主演：[深田恭子](https://ja.wikipedia.org/wiki/深田恭子 "wikilink")）
 
 ### 2012年
@@ -327,28 +327,28 @@
 
   - [夜のせんせい](https://ja.wikipedia.org/wiki/夜のせんせい "wikilink")（1月17日 - 3月21日、主演：観月ありさ）
   - [アリスの棘](https://ja.wikipedia.org/wiki/アリスの棘 "wikilink")（4月11日 - 6月13日、主演：[上野樹里](https://ja.wikipedia.org/wiki/上野樹里 "wikilink")）
-  - [家族狩り](https://ja.wikipedia.org/wiki/家族狩り_\(テレビドラマ\) "wikilink")（7月4日 - 9月5日、原作：[天童荒太](https://ja.wikipedia.org/wiki/天童荒太 "wikilink") 主演：松雪泰子）
+  - [家族狩り](https://ja.wikipedia.org/wiki/家族狩り_\(テレビドラマ\) "wikilink")（7月4日 - 9月5日、原作：[天童荒太](../Page/天童荒太.md "wikilink") 主演：松雪泰子）
   - [Nのために](https://ja.wikipedia.org/wiki/Nのために "wikilink")（10月17日 - 12月19日、原作：湊かなえ 主演：榮倉奈々）製作：ドリマックス・テレビジョン
 
 ### 2015年
 
-  - [ウロボロス〜この愛こそ、正義。](https://ja.wikipedia.org/wiki/ウロボロス_-警察ヲ裁クハ我ニアリ-#テレビドラマ "wikilink")（1月16日 - 3月20日、原作：[神崎裕也](https://ja.wikipedia.org/wiki/神崎裕也 "wikilink") 主演：生田斗真 共演：[小栗旬](https://ja.wikipedia.org/wiki/小栗旬 "wikilink")）
+  - [ウロボロス〜この愛こそ、正義。](https://ja.wikipedia.org/wiki/ウロボロス_-警察ヲ裁クハ我ニアリ-#テレビドラマ "wikilink")（1月16日 - 3月20日、原作：[神崎裕也](https://ja.wikipedia.org/wiki/神崎裕也 "wikilink") 主演：生田斗真 共演：[小栗旬](../Page/小栗旬.md "wikilink")）
   - [アルジャーノンに花束を](https://ja.wikipedia.org/wiki/アルジャーノンに花束を#2015年版 "wikilink")（4月17日 - 6月12日、原作：[ダニエル・キイス](../Page/ダニエル・キイス.md "wikilink") 主演：山下智久）製作：ドリマックス・テレビジョン
   - [表参道高校合唱部\!](https://ja.wikipedia.org/wiki/表参道高校合唱部! "wikilink")（7月17日 - 9月25日、主演：[芳根京子](https://ja.wikipedia.org/wiki/芳根京子 "wikilink")）
   - [コウノドリ](https://ja.wikipedia.org/wiki/コウノドリ#テレビドラマ "wikilink") 第1シリーズ（10月16日 - 12月18日、原作：[鈴ノ木ユウ](https://ja.wikipedia.org/wiki/鈴ノ木ユウ "wikilink") 主演：[綾野剛](../Page/綾野剛.md "wikilink")）
 
 ### 2016年
 
-  - [わたしを離さないで](https://ja.wikipedia.org/wiki/わたしを離さないで "wikilink")（1月15日 - 3月18日、原作：[カズオ・イシグロ](https://ja.wikipedia.org/wiki/カズオ・イシグロ "wikilink") 主演：綾瀬はるか）
+  - [わたしを離さないで](https://ja.wikipedia.org/wiki/わたしを離さないで "wikilink")（1月15日 - 3月18日、原作：[カズオ・イシグロ](../Page/カズオ・イシグロ.md "wikilink") 主演：綾瀬はるか）
   - [私 結婚できないんじゃなくて、しないんです](https://ja.wikipedia.org/wiki/私_結婚できないんじゃなくて、しないんです "wikilink")（4月15日 - 6月17日、原案：[水野敬也](../Page/水野敬也.md "wikilink") 主演：[中谷美紀](https://ja.wikipedia.org/wiki/中谷美紀 "wikilink")）製作：ドリマックス・テレビジョン
   - [神の舌を持つ男](https://ja.wikipedia.org/wiki/神の舌を持つ男 "wikilink")（7月8日 - 9月9日 、主演：[向井理](../Page/向井理.md "wikilink")）
   - [砂の塔〜知りすぎた隣人](https://ja.wikipedia.org/wiki/砂の塔〜知りすぎた隣人 "wikilink")（10月14日 - 12月16日 、主演：[菅野美穂](https://ja.wikipedia.org/wiki/菅野美穂 "wikilink")）\[7\]製作：ドリマックス・テレビジョン
 
 ### 2017年
 
-  - [下剋上受験](https://ja.wikipedia.org/wiki/下剋上受験 "wikilink")（1月13日 - 3月17日、原作：桜井信一 主演：[阿部サダヲ](../Page/阿部サダヲ.md "wikilink")）製作：[大映テレビ](https://ja.wikipedia.org/wiki/大映テレビ "wikilink")
+  - [下剋上受験](https://ja.wikipedia.org/wiki/下剋上受験 "wikilink")（1月13日 - 3月17日、原作：桜井信一 主演：[阿部サダヲ](../Page/阿部サダヲ.md "wikilink")）製作：[大映テレビ](../Page/大映テレビ.md "wikilink")
   - [リバース](https://ja.wikipedia.org/wiki/リバース_\(湊かなえの小説\) "wikilink")（4月14日 - 6月16日、原作：湊かなえ 主演：[藤原竜也](../Page/藤原竜也.md "wikilink")）製作：ドリマックス・テレビジョン
-  - [ハロー張りネズミ](https://ja.wikipedia.org/wiki/ハロー張りネズミ "wikilink")（7月14日 - 9月15日、原作：[弘兼憲史](../Page/弘兼憲史.md "wikilink") 主演：[瑛太](https://ja.wikipedia.org/wiki/瑛太 "wikilink")）製作：[オフィスクレッシェンド](https://ja.wikipedia.org/wiki/オフィスクレッシェンド "wikilink")
+  - [ハロー張りネズミ](https://ja.wikipedia.org/wiki/ハロー張りネズミ "wikilink")（7月14日 - 9月15日、原作：[弘兼憲史](../Page/弘兼憲史.md "wikilink") 主演：[瑛太](https://ja.wikipedia.org/wiki/瑛太 "wikilink")）製作：[オフィスクレッシェンド](../Page/オフィスクレッシェンド.md "wikilink")
   - [コウノドリ](https://ja.wikipedia.org/wiki/コウノドリ#テレビドラマ "wikilink") 第2シリーズ（10月13日 - 12月22日、原作：鈴ノ木ユウ 主演：綾野剛）
 
 ### 2018年
@@ -367,8 +367,8 @@
 
 ### 2020年
 
-  - [病室で念仏を唱えないでください](https://ja.wikipedia.org/wiki/病室で念仏を唱えないでください "wikilink")（1月17日 - 、原作：[こやす珠世](https://ja.wikipedia.org/wiki/こやす珠世 "wikilink")、主演：[伊藤英明](../Page/伊藤英明.md "wikilink")）
-  - [MIU404](https://ja.wikipedia.org/wiki/MIU404 "wikilink")（4月 -（予定）、主演：綾野剛、[星野源](../Page/星野源.md "wikilink")）製作：[TBSスパークル](https://ja.wikipedia.org/wiki/TBSスパークル "wikilink")
+  - [病室で念仏を唱えないでください](https://ja.wikipedia.org/wiki/病室で念仏を唱えないでください "wikilink")（1月17日 - 、原作：[こやす珠世](../Page/こやす珠世.md "wikilink")、主演：[伊藤英明](../Page/伊藤英明.md "wikilink")）
+  - [MIU404](../Page/MIU404.md "wikilink")（4月 -（予定）、主演：綾野剛、[星野源](../Page/星野源.md "wikilink")）製作：[TBSスパークル](https://ja.wikipedia.org/wiki/TBSスパークル "wikilink")
 
 ## 備考
 
@@ -409,13 +409,13 @@
 | [山口県](../Page/山口県.md "wikilink")                                  | [テレビ山口](../Page/テレビ山口.md "wikilink")（tys）                             |                                                 |                   |            |         |
 | [愛媛県](../Page/愛媛県.md "wikilink")                                  | [あいテレビ](../Page/あいテレビ.md "wikilink")（itv）                             |                                                 |                   |            |         |
 | [高知県](../Page/高知県.md "wikilink")                                  | [テレビ高知](../Page/テレビ高知.md "wikilink")（KUTV）                            |                                                 |                   |            |         |
-| [福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")               | [RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")（RKB）      |                                                 |                   |            |         |
+| [福岡県](../Page/福岡県.md "wikilink")                                  | [RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")（RKB）      |                                                 |                   |            |         |
 | [長崎県](../Page/長崎県.md "wikilink")                                  | [長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")（NBC）            |                                                 |                   |            |         |
 | [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")               | [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")（RKK）            |                                                 |                   |            |         |
 | [大分県](../Page/大分県.md "wikilink")                                  | [大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")（OBS）            |                                                 |                   |            |         |
 | [宮崎県](../Page/宮崎県.md "wikilink")                                  | [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")（mrt）            |                                                 |                   |            |         |
 | [鹿児島県](../Page/鹿児島県.md "wikilink")                                | [南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")（MBC）          |                                                 |                   |            |         |
-| [沖縄県](../Page/沖縄県.md "wikilink")                                  | [琉球放送](https://ja.wikipedia.org/wiki/琉球放送 "wikilink")（RBC）            |                                                 |                   |            |         |
+| [沖縄県](../Page/沖縄県.md "wikilink")                                  | [琉球放送](../Page/琉球放送.md "wikilink")（RBC）                               |                                                 |                   |            |         |
 
   - インターネット配信
 
@@ -523,7 +523,7 @@
 <td><p>福島県</p></td>
 <td><p><a href="../Page/福島テレビ.md" title="wikilink">福島テレビ</a></p></td>
 <td><p>フジテレビ系列</p></td>
-<td><p>『<a href="https://ja.wikipedia.org/wiki/金曜日の妻たちへ" title="wikilink">金曜日の妻たちへ</a>』第7回まで同時ネット[14]。<br />
+<td><p>『<a href="../Page/金曜日の妻たちへ.md" title="wikilink">金曜日の妻たちへ</a>』第7回まで同時ネット[14]。<br />
 第8回から時差ネット化され、同作品最終回をもって打ち切り[15]。<br />
 1983年3月まではTBS系列とのクロスネット局</p></td>
 </tr>
@@ -560,15 +560,15 @@
           - 『硝子のかけらたち』、『協奏曲』、『青い鳥』、『めぐり逢い』、『あきまへんで\!』、『週末婚』、『独身生活』、『美しい人』、『金曜日の恋人たちへ』、『真夏のメリークリスマス』、『恋を何年休んでますか』、『ママの遺伝子』、『ブラックジャックによろしく』、『世界の中心で、愛をさけぶ』、『3年B組金八先生（第7シリーズ）』、『ドラゴン桜』、『花より男子』、『夜王』、『クロサギ』、『花より男子2（リターンズ）』、『Around40〜注文の多いオンナたち〜』
       - NGN（[Nippon Golden Network](https://ja.wikipedia.org/wiki/Nippon_Golden_Network "wikilink")、ハワイ州、すべて英語字幕付き）
           - 『世界の中心で、愛をさけぶ』、『エジソンの母』
-      - [テレビジャパン](https://ja.wikipedia.org/wiki/テレビジャパン "wikilink")（[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")、[プエルトリコ](../Page/プエルトリコ.md "wikilink")）※日本語のみ
+      - [テレビジャパン](../Page/テレビジャパン.md "wikilink")（[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")、[プエルトリコ](../Page/プエルトリコ.md "wikilink")）※日本語のみ
           - 『世界の中心で、愛をさけぶ』、『ドラゴン桜』、『クロサギ』、『タイヨウのうた』、『山田太郎ものがたり』、『Around40〜注文の多いオンナたち〜』、『流星の絆』（2009年10月10日 - ）
 
 ### ネット局に関する備考
 
   - [テレビ高知](../Page/テレビ高知.md "wikilink")では、系列局でありながら一時期この番組をネットしていなかった。しかし、1996年春の改編で同局ゴールデン帯の独自差し替え枠の番組割り当て見直しが行われ、その結果本枠はTBS同時ネットに転換し、以降は同時ネットが行われる様になった。
-  - 外部のプロダクションが制作した作品の場合、制作局TBSの権利失効後、以前の作品をTBS系列以外の[ローカル局](https://ja.wikipedia.org/wiki/ローカル局 "wikilink")において再放送されたことがある。
-  - 過去に制作された作品の一部は、TBSのCS放送・[TBSチャンネル](https://ja.wikipedia.org/wiki/TBSチャンネル "wikilink")で再放送されたことがある。また、TBSの権利が失効した作品は[ファミリー劇場](../Page/ファミリー劇場.md "wikilink")や[チャンネルNECO](https://ja.wikipedia.org/wiki/チャンネルNECO "wikilink")などのテレビドラマ専門のCS放送でも再放送されたこともある。
-  - 山陽放送、[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")、[大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")、[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")、[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")、[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")、[琉球放送](https://ja.wikipedia.org/wiki/琉球放送 "wikilink")の[地上デジタル放送において](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")、『セーラー服と機関銃』の最終回のみの[サービス放送](https://ja.wikipedia.org/wiki/サービス放送 "wikilink")を行っていた。
+  - 外部のプロダクションが制作した作品の場合、制作局TBSの権利失効後、以前の作品をTBS系列以外の[ローカル局](../Page/ローカル局.md "wikilink")において再放送されたことがある。
+  - 過去に制作された作品の一部は、TBSのCS放送・[TBSチャンネル](../Page/TBSチャンネル.md "wikilink")で再放送されたことがある。また、TBSの権利が失効した作品は[ファミリー劇場](../Page/ファミリー劇場.md "wikilink")や[チャンネルNECO](../Page/チャンネルNECO.md "wikilink")などのテレビドラマ専門のCS放送でも再放送されたこともある。
+  - 山陽放送、[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")、[大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")、[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")、[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")、[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")、[琉球放送](../Page/琉球放送.md "wikilink")の[地上デジタル放送において](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")、『セーラー服と機関銃』の最終回のみの[サービス放送](../Page/サービス放送.md "wikilink")を行っていた。
   - [秋田テレビ](https://ja.wikipedia.org/wiki/秋田テレビ "wikilink")は2007年で放送打ち切り。それ以降『歌姫』と『エジソンの母』はそれぞれABS秋田放送が放送権を持つ。理由は本来放送される「TBS系木曜21時枠」が『[3年B組金八先生](https://ja.wikipedia.org/wiki/3年B組金八先生 "wikilink")』」であるため（同番組はAKTが放映権を持つが、2007年10月 - 2008年3月の第8シリーズについては放送されなかった）。それ以降、秋田県での放送は1年間放送無く、2009年4月から1年遅れで[ABS秋田放送が](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")『Around40〜注文の多いオンナたち〜』と放送したが、同年12月に『流星の絆』を放送したのを最後にしばらく打ち切りが続いていたが、『夜行観覧車』で3年4か月振りの放送再開（同県では2013年4月放送開始）となった。以降は、不定期で平日の夕方\[16\]に遅れて放送されている。
 
 ## 脚注
@@ -590,7 +590,7 @@
 3.  民放での連続時代劇としても2012年3月で終了した『[逃亡者 おりん2](https://ja.wikipedia.org/wiki/逃亡者_おりん#逃亡者_おりん2 "wikilink")』（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系）以来半年ぶりとなる。
 4.  土曜日の『[新・情報7days ニュースキャスター](https://ja.wikipedia.org/wiki/情報7days_ニュースキャスター "wikilink")』は22:00 - 23:24枠。
 5.  2000年4月-2004年9月はTBSエンタテインメント名義、2004年10月-2009年3月はTBSテレビ名義。この時期、[TBS本体が](../Page/東京放送ホールディングス.md "wikilink")「制作・著作」でクレジットされていたので二重表示された。
-6.  当作品から「[愛なんていらねえよ、夏](https://ja.wikipedia.org/wiki/愛なんていらねえよ、夏 "wikilink")」、「[Stand Up\!\!](../Page/Stand_Up!!_\(テレビドラマ\).md "wikilink")」を除き、HD（[高精細度テレビジョン放送](https://ja.wikipedia.org/wiki/高精細度テレビジョン放送 "wikilink")）制作
+6.  当作品から「[愛なんていらねえよ、夏](../Page/愛なんていらねえよ、夏.md "wikilink")」、「[Stand Up\!\!](../Page/Stand_Up!!_\(テレビドラマ\).md "wikilink")」を除き、HD（[高精細度テレビジョン放送](https://ja.wikipedia.org/wiki/高精細度テレビジョン放送 "wikilink")）制作
 7.
 8.  2009年3月20日（2008年度最終放送日）までの放送局は認定放送持株会社移行並びに分社化前のため、旧法人の東京放送（現・[東京放送ホールディングス](../Page/東京放送ホールディングス.md "wikilink")）。実制作は旧TBSエンタテインメントも含む。
 9.  2014年3月21日（2013年度最終放送日）までは認定放送持株会社移行並びに分社化前のため、旧法人の[中部日本放送](../Page/中部日本放送.md "wikilink")。
@@ -599,5 +599,5 @@
 12. かつては約4か月遅れで、毎週土曜日の13:30から放送されていた。
 13. 『3年B組金八先生』を除く。『[朝ドラ\!](https://ja.wikipedia.org/wiki/朝ドラ! "wikilink")』扱いで放送。地域により、毎日放送か山陽放送で視聴されるケースあり。
 14. 当該枠は、フジテレビ『[金曜劇場](../Page/金曜劇場_\(フジテレビ\).md "wikilink")』の同時ネット枠となる。
-15. 土曜16時に時差ネット。『金曜日の妻たちへ』打ち切り後は、『[2年B組仙八先生](https://ja.wikipedia.org/wiki/2年B組仙八先生 "wikilink")』の遅れネットとなった。
+15. 土曜16時に時差ネット。『金曜日の妻たちへ』打ち切り後は、『[2年B組仙八先生](../Page/2年B組仙八先生.md "wikilink")』の遅れネットとなった。
 16. 主に月曜 - 水曜。

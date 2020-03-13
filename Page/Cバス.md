@@ -3,7 +3,7 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:c_bus.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:PC-9801DX_expansion_slot.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:NEC_PC-9801-26K_sound_board.jpg "wikilink")）\]\] **Cバス**は[日本電気](../Page/日本電気.md "wikilink")の[PC-9800シリーズ](../Page/PC-9800シリーズ.md "wikilink")に搭載されていた[拡張スロット](https://ja.wikipedia.org/wiki/拡張スロット "wikilink")の名称である。
 
-この名称は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に[NESAを搭載した](https://ja.wikipedia.org/wiki/New_Extend_Standard_Architecture "wikilink")[PC-H98シリーズが発売された際に](https://ja.wikipedia.org/wiki/PC-9800シリーズ#PC-H98シリーズ "wikilink")32ビット[バスの](../Page/バス_\(コンピュータ\).md "wikilink")[NESAバスをEバス](https://ja.wikipedia.org/wiki/New_Extend_Standard_Architecture "wikilink")(Extension Bus)、16ビットの従来互換バスをCバス(Compatible Bus)と呼称したことからこれ以降使われるようになった[レトロニム](../Page/レトロニム.md "wikilink")であり、それ以前は単に「汎用拡張スロット」または、98バス等と呼ばれていた。
+この名称は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に[NESAを搭載した](../Page/New_Extend_Standard_Architecture.md "wikilink")[PC-H98シリーズが発売された際に](https://ja.wikipedia.org/wiki/PC-9800シリーズ#PC-H98シリーズ "wikilink")32ビット[バスの](../Page/バス_\(コンピュータ\).md "wikilink")[NESAバスをEバス](../Page/New_Extend_Standard_Architecture.md "wikilink")(Extension Bus)、16ビットの従来互換バスをCバス(Compatible Bus)と呼称したことからこれ以降使われるようになった[レトロニム](../Page/レトロニム.md "wikilink")であり、それ以前は単に「汎用拡張スロット」または、98バス等と呼ばれていた。
 
 98シリーズ以外にもCバスの採用機種があった。[PC-88VAシリーズ](https://ja.wikipedia.org/wiki/PC-8800シリーズ "wikilink")、[文豪](../Page/文豪.md "wikilink")シリーズの一部機種、シャープ [MZ-2861](../Page/MZ-2861.md "wikilink")など。
 
@@ -12,12 +12,12 @@
   - [Intel 8086のCPUバスに準拠](../Page/Intel_8086.md "wikilink")。
       - ただし、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")発売のPC-98XA以降の機種では、[Intel 80286に対応し](../Page/Intel_80286.md "wikilink")、アドレス線が20bitから24bitに拡大されている。
   - 5MHz、8MHz もしくは 10MHzで駆動され、10Mbytes/secの理論最大転送帯域を有する。
-  - 1スロット当り、+5V 0.8A、+12V 0.06A、-12V 0.07A（[EPSON98互換機はそれぞれ](https://ja.wikipedia.org/wiki/EPSON_PCシリーズ "wikilink")1A、0.125A、0.075A）の電源容量が保証され、他のスロットを使用しない前提でn倍の電力を消費することも許されている。
-  - [拡張カード](https://ja.wikipedia.org/wiki/拡張カード "wikilink")は奥行き17cm、幅15cmの長方形で、部品実装面の厚さは2.5cmまでが許容されている。
+  - 1スロット当り、+5V 0.8A、+12V 0.06A、-12V 0.07A（[EPSON98互換機はそれぞれ](../Page/EPSON_PCシリーズ.md "wikilink")1A、0.125A、0.075A）の電源容量が保証され、他のスロットを使用しない前提でn倍の電力を消費することも許されている。
+  - [拡張カード](../Page/拡張カード.md "wikilink")は奥行き17cm、幅15cmの長方形で、部品実装面の厚さは2.5cmまでが許容されている。
   - 100本（片面あたり50本ずつ）の端子を持ち、アドレスバス、データバスの数本おきに1つGNDを配置、クロックや12V等のノイズが発生しやすい端子は端にまとめるなど、電気的によく考えられた構造になっている。
   - 筐体を開けずに抜き差しできるように[エッジ・コネクタ](https://ja.wikipedia.org/wiki/エッジ・コネクタ "wikilink")には引き抜き用のレバーが装着されている。
 
-Cバスは、[サウンドカード](../Page/サウンドカード.md "wikilink")、[ビデオカード](../Page/ビデオカード.md "wikilink")、拡張メモリ、[TVチューナー](../Page/TVチューナー.md "wikilink")カード、[ビデオキャプチャカード](../Page/キャプチャ_\(録画ソフト\).md "wikilink")、[LANカード](../Page/Local_Area_Network.md "wikilink")、[MIDI](../Page/MIDI.md "wikilink")カード、MIDIインターフェースカード、[SCSIカード](../Page/Small_Computer_System_Interface.md "wikilink")、自作基板向けブランクボード、計測器用独自通信拡張カード、[NC加工](https://ja.wikipedia.org/wiki/NC加工 "wikilink")機制御用通信カードなどがあったが、いずれも転送速度の遅さ、さらに98自体の終焉により1990年代後半には減少し消滅した。電力供給には余裕があることから、小型[DOS/V](https://ja.wikipedia.org/wiki/DOS/V "wikilink")マザーボードなどをはじめ各種専用計算機などをCバスボードに実装した例は多い。
+Cバスは、[サウンドカード](../Page/サウンドカード.md "wikilink")、[ビデオカード](../Page/ビデオカード.md "wikilink")、拡張メモリ、[TVチューナー](../Page/TVチューナー.md "wikilink")カード、[ビデオキャプチャカード](../Page/キャプチャ_\(録画ソフト\).md "wikilink")、[LANカード](../Page/Local_Area_Network.md "wikilink")、[MIDI](../Page/MIDI.md "wikilink")カード、MIDIインターフェースカード、[SCSIカード](../Page/Small_Computer_System_Interface.md "wikilink")、自作基板向けブランクボード、計測器用独自通信拡張カード、[NC加工](../Page/NC加工.md "wikilink")機制御用通信カードなどがあったが、いずれも転送速度の遅さ、さらに98自体の終焉により1990年代後半には減少し消滅した。電力供給には余裕があることから、小型[DOS/V](https://ja.wikipedia.org/wiki/DOS/V "wikilink")マザーボードなどをはじめ各種専用計算機などをCバスボードに実装した例は多い。
 
 16bitバスであり、PC-9800シリーズで動作させた[Microsoft Windows NT](../Page/Microsoft_Windows_NT.md "wikilink")（[Windows 2000含む](../Page/Microsoft_Windows_2000.md "wikilink")）からは「[ISAバス](../Page/Industry_Standard_Architecture.md "wikilink")」と表示される場合もある。
 
@@ -92,7 +92,7 @@ PC-98 拡張スロット（Cバス） ピン配列
 
 ## 他の類似の拡張バス
 
-  - 98NOTE用110ピン拡張バス - Cバスと増設用FDDの信号線が出力されている。[EPSONの98互換機の](https://ja.wikipedia.org/wiki/EPSON_PCシリーズ "wikilink")[ノートタイプパソコンでも後期のもので採用されている](../Page/ノートパソコン.md "wikilink")（前期のものはEPSON独自のバス）。9821NOTEでは198ピンとなっているがオプションで110ピンに変換可能。
+  - 98NOTE用110ピン拡張バス - Cバスと増設用FDDの信号線が出力されている。[EPSONの98互換機の](../Page/EPSON_PCシリーズ.md "wikilink")[ノートタイプパソコンでも後期のもので採用されている](../Page/ノートパソコン.md "wikilink")（前期のものはEPSON独自のバス）。9821NOTEでは198ピンとなっているがオプションで110ピンに変換可能。
   - Lスロット - EPSON互換機のブック・ノートタイプパソコンに搭載された小型の拡張スロット。
 
 [PCカード](../Page/PCカード.md "wikilink")スロットや[PCIスロットをCバスに変換するアダプタもサードパーティーから発売されていた](../Page/Peripheral_Component_Interconnect.md "wikilink")。
@@ -104,8 +104,8 @@ PC-98 拡張スロット（Cバス） ピン配列
 
 ## 関連項目
 
-  - [98ローカルバス](https://ja.wikipedia.org/wiki/98ローカルバス "wikilink") - PC-9821シリーズ(98MATE A)に搭載された32ビットバス。
-  - [New Extend Standard Architecture](https://ja.wikipedia.org/wiki/New_Extend_Standard_Architecture "wikilink") (NESA) - PC-H98シリーズに搭載された32ビットバス。
+  - [98ローカルバス](../Page/98ローカルバス.md "wikilink") - PC-9821シリーズ(98MATE A)に搭載された32ビットバス。
+  - [New Extend Standard Architecture](../Page/New_Extend_Standard_Architecture.md "wikilink") (NESA) - PC-H98シリーズに搭載された32ビットバス。
   - [Peripheral Component Interconnect](../Page/Peripheral_Component_Interconnect.md "wikilink") (PCI) - 9821シリーズ後期モデルに搭載された32ビットバス。
   - [Industry Standard Architecture](../Page/Industry_Standard_Architecture.md "wikilink") (ISA) - IBM PC/ATに搭載された8ビットまたは16ビットバス。
 

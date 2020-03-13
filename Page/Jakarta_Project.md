@@ -1,7 +1,7 @@
 > この記事は[Jakarta Project](https://ja.wikipedia.org/wiki/Jakarta_Project)から翻訳されています。
 
 
-**Apache Jakarta Project**（アパッチ・ジャカルタ・プロジェクト）は、[Apacheソフトウェア財団](https://ja.wikipedia.org/wiki/Apacheソフトウェア財団 "wikilink")で運営されていた[オープンソース](../Page/オープンソース.md "wikilink")[ソフトウェア](../Page/ソフトウェア.md "wikilink")開発プロジェクトの1つ。[プログラミング言語](../Page/プログラミング言語.md "wikilink")[Java](https://ja.wikipedia.org/wiki/Java "wikilink")向けの[ライブラリ](../Page/ライブラリ.md "wikilink")、[フレームワーク](https://ja.wikipedia.org/wiki/フレームワーク "wikilink")等を開発していた。[2011年](../Page/2011年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink")に全てのサブプロジェクトが卒業し、[2011年](../Page/2011年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")に廃止された。
+**Apache Jakarta Project**（アパッチ・ジャカルタ・プロジェクト）は、[Apacheソフトウェア財団](../Page/Apacheソフトウェア財団.md "wikilink")で運営されていた[オープンソース](../Page/オープンソース.md "wikilink")[ソフトウェア](../Page/ソフトウェア.md "wikilink")開発プロジェクトの1つ。[プログラミング言語](../Page/プログラミング言語.md "wikilink")[Java](https://ja.wikipedia.org/wiki/Java "wikilink")向けの[ライブラリ](../Page/ライブラリ.md "wikilink")、[フレームワーク](https://ja.wikipedia.org/wiki/フレームワーク "wikilink")等を開発していた。[2011年](../Page/2011年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink")に全てのサブプロジェクトが卒業し、[2011年](../Page/2011年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")に廃止された。
 
 [サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")が [Java Servlet](../Page/Java_Servlet.md "wikilink") / [JavaServer Pages](../Page/JavaServer_Pages.md "wikilink") (JSP) の[リファレンス実装](../Page/リファレンス実装.md "wikilink")である JSWDK（JavaServer Web Development Kit）をApacheソフトウェア財団に寄付したのをきっかけに発足。そして、このJSWDKをベースに [Apache Tomcat](https://ja.wikipedia.org/wiki/Apache_Tomcat "wikilink") の最初のバージョンが開発された\[1\]。
 
@@ -19,7 +19,7 @@ Jakartaの名称はJakartaと非常にかかわりの深いプログラミング
   - [Forrest](https://ja.wikipedia.org/wiki/Apache_Forrest "wikilink")
   - [Gump](https://ja.wikipedia.org/wiki/Apache_Gump "wikilink")
   - [HiveMind](https://ja.wikipedia.org/wiki/HiveMind "wikilink")
-  - [James](https://ja.wikipedia.org/wiki/Apache_James "wikilink")
+  - [James](../Page/Apache_James.md "wikilink")
   - [JMeter](../Page/JMeter.md "wikilink")
   - [Lucene](https://ja.wikipedia.org/wiki/Lucene "wikilink")
   - [Maven](../Page/Apache_Maven.md "wikilink")
@@ -56,4 +56,4 @@ Jakartaの名称はJakartaと非常にかかわりの深いプログラミング
 
 [Category:Java](https://ja.wikipedia.org/wiki/Category:Java "wikilink") [Category:Apacheソフトウェア財団](https://ja.wikipedia.org/wiki/Category:Apacheソフトウェア財団 "wikilink")
 
-1.  [Apache Tomcat 5.5.12-alphaのリリース・メモ](http://jakarta.apache.org/site/news/news-2005-q3.html#20050923.1) によると、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月23日](../Page/9月23日.md "wikilink")に[Apache Tomcat](https://ja.wikipedia.org/wiki/Apache_Tomcat "wikilink") はApacheソフトウェア財団のトップレベルプロジェクトに昇格した。
+1.  [Apache Tomcat 5.5.12-alphaのリリース・メモ](http://jakarta.apache.org/site/news/news-2005-q3.html#20050923.1) によると、[2005年](../Page/2005年.md "wikilink")[9月23日](../Page/9月23日.md "wikilink")に[Apache Tomcat](https://ja.wikipedia.org/wiki/Apache_Tomcat "wikilink") はApacheソフトウェア財団のトップレベルプロジェクトに昇格した。

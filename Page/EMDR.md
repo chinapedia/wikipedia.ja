@@ -5,7 +5,7 @@
 
 ## 医療適応
 
-PTSDを始めとして、[パニック障害](../Page/パニック障害.md "wikilink")、[恐怖症](https://ja.wikipedia.org/wiki/恐怖症 "wikilink")、[強迫性障害](../Page/強迫性障害.md "wikilink")などへの適用も報告されている心理療法である\[3\]。
+PTSDを始めとして、[パニック障害](../Page/パニック障害.md "wikilink")、[恐怖症](../Page/恐怖症.md "wikilink")、[強迫性障害](../Page/強迫性障害.md "wikilink")などへの適用も報告されている心理療法である\[3\]。
 
 開発の初期の1989年にも、EMD (Eye Movement Desensitization) の[ランダム化比較試験](https://ja.wikipedia.org/wiki/ランダム化比較試験 "wikilink")による有効性の報告\[4\]が行われEMDRとなり\[5\]、その後もいくつものEMDRの有効性についての研究が繰り返し行われてきた。国際トラウマティック・ストレス学会は、[2000年](../Page/2000年.md "wikilink")にEMDRを有効なトラウマ治療法として認定した。
 

@@ -1,19 +1,19 @@
 > この記事は[ \(Hmong\)](https://ja.wikipedia.org/wiki/_\(Hmong\))から翻訳されています。
 
 
-**モン族** ([RPA](https://ja.wikipedia.org/wiki/RPA表記 "wikilink"): *Hmoob/Moob*, ) とは[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")の[雲貴高原](https://ja.wikipedia.org/wiki/雲貴高原 "wikilink")、[ベトナム](https://ja.wikipedia.org/wiki/ベトナム "wikilink")、[ラオス](../Page/ラオス.md "wikilink")、[タイの](../Page/タイ王国.md "wikilink")[山岳地帯にすむ](../Page/山地.md "wikilink")[民族集団](https://ja.wikipedia.org/wiki/民族集団 "wikilink")。[ミャオ族](https://ja.wikipedia.org/wiki/ミャオ族 "wikilink")の下位グループである。
+**モン族** ([RPA](https://ja.wikipedia.org/wiki/RPA表記 "wikilink"): *Hmoob/Moob*, ) とは[中国](../Page/中国.md "wikilink")の[雲貴高原](https://ja.wikipedia.org/wiki/雲貴高原 "wikilink")、[ベトナム](https://ja.wikipedia.org/wiki/ベトナム "wikilink")、[ラオス](../Page/ラオス.md "wikilink")、[タイの](../Page/タイ王国.md "wikilink")[山岳地帯にすむ](../Page/山地.md "wikilink")[民族集団](https://ja.wikipedia.org/wiki/民族集団 "wikilink")。[ミャオ族](../Page/ミャオ族.md "wikilink")の下位グループである。
 
 ## 概要
 
 モン族の「モン」は自称であり、[モン語で](../Page/ミャオ語.md "wikilink")「（自由な）人」・「我々」・「自由」といった意味がある。「白モン」「花モン」など[民族衣装の色調に基づいて類別された呼称は他の民族が付けた他称であり](../Page/民族服.md "wikilink")、タイでの呼称「メオ(Meo)」はモン族からは蔑称として捉えられている。
 
-[アニミズム](https://ja.wikipedia.org/wiki/アニミズム "wikilink")・[シャーマニズム](../Page/シャーマニズム.md "wikilink")を信仰し、[クロスステッチ](https://ja.wikipedia.org/wiki/クロスステッチ "wikilink")を多用した民族衣装が著名である。モン族全体で[漢族](https://ja.wikipedia.org/wiki/漢族 "wikilink")に似た30ほどの[姓](../Page/姓.md "wikilink")があり、1つの村は1から10種類の姓の[父系出自集団によって構成される](https://ja.wikipedia.org/wiki/父系制 "wikilink")。家族形態は[核家族](../Page/核家族.md "wikilink")または既婚の息子家族が同居する拡大家族であり、[一夫多妻](https://ja.wikipedia.org/wiki/一夫多妻 "wikilink")婚や[レビラト婚](../Page/レビラト婚.md "wikilink")も存在する。
+[アニミズム](../Page/アニミズム.md "wikilink")・[シャーマニズム](../Page/シャーマニズム.md "wikilink")を信仰し、[クロスステッチ](https://ja.wikipedia.org/wiki/クロスステッチ "wikilink")を多用した民族衣装が著名である。モン族全体で[漢族](https://ja.wikipedia.org/wiki/漢族 "wikilink")に似た30ほどの[姓](../Page/姓.md "wikilink")があり、1つの村は1から10種類の姓の[父系出自集団によって構成される](https://ja.wikipedia.org/wiki/父系制 "wikilink")。家族形態は[核家族](../Page/核家族.md "wikilink")または既婚の息子家族が同居する拡大家族であり、[一夫多妻](https://ja.wikipedia.org/wiki/一夫多妻 "wikilink")婚や[レビラト婚](../Page/レビラト婚.md "wikilink")も存在する。
 
 モン族の本来の生業は移動開拓する[焼畑農業](../Page/焼畑農業.md "wikilink")であり、海抜千数百メートル程度の山地を開墾し、地力が衰えると放棄し移動した。主な作物は[陸稲](../Page/陸稲.md "wikilink")や[トウモロコシ](../Page/トウモロコシ.md "wikilink")だが、かつては[アヘンケシの栽培で有名となった](../Page/ケシ.md "wikilink")。 近年は、芥子栽培の禁止と焼畑の耕作制限によって常畑農耕による定住生活に切り替わりつつある。
 
 ## 歴史
 
-モン族はミャオ族と同様に[三苗に民族的起源があり](https://ja.wikipedia.org/wiki/三苗人 "wikilink")、古代には[洞庭湖](https://ja.wikipedia.org/wiki/洞庭湖 "wikilink")付近から[揚子江](https://ja.wikipedia.org/wiki/揚子江 "wikilink")下流域にかけて居住していたと考えられる。[18世紀](../Page/18世紀.md "wikilink")初頭から、漢族に押し出される形で徐々に南や南西方向へ移動を始めた。
+モン族はミャオ族と同様に[三苗に民族的起源があり](https://ja.wikipedia.org/wiki/三苗人 "wikilink")、古代には[洞庭湖](../Page/洞庭湖.md "wikilink")付近から[揚子江](https://ja.wikipedia.org/wiki/揚子江 "wikilink")下流域にかけて居住していたと考えられる。[18世紀](../Page/18世紀.md "wikilink")初頭から、漢族に押し出される形で徐々に南や南西方向へ移動を始めた。
 
 [第一次世界大戦](../Page/第一次世界大戦.md "wikilink")期の[1918年](../Page/1918年.md "wikilink")から[1921年](../Page/1921年.md "wikilink")にかけて、[インドシナ](https://ja.wikipedia.org/wiki/インドシナ "wikilink")北部で[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")や[タイ族](../Page/タイ族.md "wikilink")領主からの収奪に反抗し、モンの独立を究極の目標としたを起こしている。
 
@@ -37,7 +37,7 @@
 <!-- end list -->
 
   - ドラマ
-      - [グレイズ・アナトミー](https://ja.wikipedia.org/wiki/グレイズ・アナトミー_恋の解剖学 "wikilink") （Season 2, 第5話 [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") 米）
+      - [グレイズ・アナトミー](https://ja.wikipedia.org/wiki/グレイズ・アナトミー_恋の解剖学 "wikilink") （Season 2, 第5話 [2005年](../Page/2005年.md "wikilink") 米）
 
 ## 脚注
 

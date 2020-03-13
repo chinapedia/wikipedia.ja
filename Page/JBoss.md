@@ -17,9 +17,9 @@ JBossは、Marc Fleuryらによって、[1999年](../Page/1999年.md "wikilink")
 
 オープンソースであるにもかかわらず商用サポートを受けることが出来ることと併せて、動作が他の[Java EEアプリケーションサーバに比べて軽快であることから](../Page/Java_Platform,_Enterprise_Edition.md "wikilink")
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")2月には　レッドハットから　JBoss Enterprise SOA Platform として史上初のオープンソースによる本格的[SOA製品群が提供され始めた](https://ja.wikipedia.org/wiki/サービス指向アーキテクチャ "wikilink")。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")2月には　レッドハットから　JBoss Enterprise SOA Platform として史上初のオープンソースによる本格的[SOA製品群が提供され始めた](../Page/サービス指向アーキテクチャ.md "wikilink")。
 
-[2013年](../Page/2013年.md "wikilink")4月、レッドハットはJBoss Application Serverの名称を、WildFlyに改名することを発表した。この変更は、オープンソース版のアプリケーションサーバであるJBoss Application Serverが商用版のJBoss Enterprise Application Platformと似過ぎていることから、別物であることを明確に示すためであるとしている。WildFlyの名称はコミュニティにおける公開投票で決定された。同社はこれを[Fedora](../Page/Fedora.md "wikilink")と[Red Hat Enterprise Linuxの関係に似たものだとしている](https://ja.wikipedia.org/wiki/Red_Hat_Enterprise_Linux "wikilink")。\[3\]\[4\]
+[2013年](../Page/2013年.md "wikilink")4月、レッドハットはJBoss Application Serverの名称を、WildFlyに改名することを発表した。この変更は、オープンソース版のアプリケーションサーバであるJBoss Application Serverが商用版のJBoss Enterprise Application Platformと似過ぎていることから、別物であることを明確に示すためであるとしている。WildFlyの名称はコミュニティにおける公開投票で決定された。同社はこれを[Fedora](../Page/Fedora.md "wikilink")と[Red Hat Enterprise Linuxの関係に似たものだとしている](../Page/Red_Hat_Enterprise_Linux.md "wikilink")。\[3\]\[4\]
 
 ## プロジェクト
 

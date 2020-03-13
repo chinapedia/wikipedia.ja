@@ -1,7 +1,7 @@
 > この記事は[BINGO PARTY](https://ja.wikipedia.org/wiki/BINGO_PARTY)から翻訳されています。
 
 
-**BINGO PARTY**（**ビンゴパーティー**）は、セガ（後の[セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")）の[メダルゲーム](../Page/メダルゲーム.md "wikilink")で、[ビンゴ](https://ja.wikipedia.org/wiki/ビンゴ "wikilink")ゲームとして[1992年](../Page/1992年.md "wikilink")に発売された。
+**BINGO PARTY**（**ビンゴパーティー**）は、セガ（後の[セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")）の[メダルゲーム](../Page/メダルゲーム.md "wikilink")で、[ビンゴ](../Page/ビンゴ.md "wikilink")ゲームとして[1992年](../Page/1992年.md "wikilink")に発売された。
 
 ## 概要
 
@@ -40,6 +40,6 @@ BETTIMEが終了するとフィーチャーとしてEXTRASPOT(最高2個)とBING
 ## 関連記事
 
   - [BINGO PARTY MULTICARD](https://ja.wikipedia.org/wiki/BINGO_PARTY_MULTICARD "wikilink")
-  - [BINGO PARTY PHOENIX](https://ja.wikipedia.org/wiki/BINGO_PARTY_PHOENIX "wikilink")
+  - [BINGO PARTY PHOENIX](../Page/BINGO_PARTY_PHOENIX.md "wikilink")
 
 [Category:セガのメダルゲーム](https://ja.wikipedia.org/wiki/Category:セガのメダルゲーム "wikilink") [Category:1992年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1992年のコンピュータゲーム "wikilink")

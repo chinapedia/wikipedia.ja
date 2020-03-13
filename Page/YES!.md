@@ -3,7 +3,7 @@
 
 [thumb](https://ja.wikipedia.org/wiki/画像:Yes!_Roadster,.jpg "wikilink") **YES\!**（*Young Engineers Sportscar* 、**イエス**）は[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[ザクセン州](../Page/ザクセン州.md "wikilink")[グローセンハイン](https://ja.wikipedia.org/wiki/グローセンハイン "wikilink")（[ドレスデン](../Page/ドレスデン.md "wikilink")郊外）にある1999年創設の[ベンチャー企業](https://ja.wikipedia.org/wiki/ベンチャー企業 "wikilink")、フンケ&ヴィル（*Funke & Will AG* ）が製造する小型[スポーツカー](../Page/スポーツカー.md "wikilink")である。本国では2001年に発売された。
 
-YES\!ロードスターのエンジンは286馬力にチューンされた[フォルクスワーゲン](https://ja.wikipedia.org/wiki/フォルクスワーゲン "wikilink")製の1.8リッターエンジンで、また[ロータス・エリーゼ](https://ja.wikipedia.org/wiki/ロータス・エリーゼ "wikilink")などと同様にアルミフレームを採用したため車両重量は830kgと軽量であり、最高速度は264km/h、停車から100km/hまでわずか4.1秒である。
+YES\!ロードスターのエンジンは286馬力にチューンされた[フォルクスワーゲン](https://ja.wikipedia.org/wiki/フォルクスワーゲン "wikilink")製の1.8リッターエンジンで、また[ロータス・エリーゼ](../Page/ロータス・エリーゼ.md "wikilink")などと同様にアルミフレームを採用したため車両重量は830kgと軽量であり、最高速度は264km/h、停車から100km/hまでわずか4.1秒である。
 
 2006年には3.2リッター255馬力エンジンを搭載した「YES\! ロードスター3.2」とターボを装着し355馬力エンジンを搭載した「YES\! ロードスター3.2ターボ」を[ライプツィヒ](https://ja.wikipedia.org/wiki/ライプツィヒ "wikilink")・モーターショーで初披露した。「3.2ターボ」は停車から100km/hまで3.9秒である。
 

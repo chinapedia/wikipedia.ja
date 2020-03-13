@@ -44,7 +44,7 @@
 
 <!-- end list -->
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
 
 <!-- end list -->
 
@@ -55,7 +55,7 @@
     7月27日には10枚目のシングル「Shake Your Rump」を発売する。
     11月2日に11枚目のシングルでPaniCrew初の両A面シングルとなる「ヒトヒラノ雪/ With」を発売（「ヒトヒラノ雪」は作詞・作曲をメンバーの植木が、「With」は作詞を植木と佐々木が担当している）。「ヒトヒラノ雪」はテレビ朝日系で放送中の「[ビートたけしのTVタックル](../Page/ビートたけしのTVタックル.md "wikilink")」のエンディングテーマに、「With」が[サトウ製薬](../Page/佐藤製薬.md "wikilink")「ストナ」のCMソングに起用される。
     12月7日に2年8ヶ月ぶりとなる3rdアルバム「POPPERS'TRIBE」・「SWEAT\&TEARS」〜「ヒトヒラノ雪」までの活動をダイジェストで収めたDVD「POPPERS'TRIBE DA MOVIE」が同時発売された。
-    12月16日より[2006年](../Page/2006年.md "wikilink")1月15日まで「フィジカルシアター ØEN I ØST（ウーエン・イ・ウースト）」に出演。[TEAM-NACSの](../Page/TEAM_NACS.md "wikilink")[安田顕](../Page/安田顕.md "wikilink")、[音尾琢真](../Page/音尾琢真.md "wikilink")、[森弘一郎](https://ja.wikipedia.org/wiki/森弘一郎 "wikilink")、[クレメンス・テリング](https://ja.wikipedia.org/wiki/クレメンス・テリング "wikilink")らと共演。（12月16日 - 23日は本公演に先駆けて行われたトライアル公演、1月3日 - 15日は本公演）
+    12月16日より[2006年](../Page/2006年.md "wikilink")1月15日まで「フィジカルシアター ØEN I ØST（ウーエン・イ・ウースト）」に出演。[TEAM-NACSの](../Page/TEAM_NACS.md "wikilink")[安田顕](../Page/安田顕.md "wikilink")、[音尾琢真](../Page/音尾琢真.md "wikilink")、[森弘一郎](../Page/森弘一郎.md "wikilink")、[クレメンス・テリング](https://ja.wikipedia.org/wiki/クレメンス・テリング "wikilink")らと共演。（12月16日 - 23日は本公演に先駆けて行われたトライアル公演、1月3日 - 15日は本公演）
 
 <!-- end list -->
 
@@ -77,7 +77,7 @@
 <!-- end list -->
 
   -
-    堀内が、4月15日に元女子プロレスラー[納見佳容](https://ja.wikipedia.org/wiki/納見佳容 "wikilink")と入籍したことを公式サイトで発表。
+    堀内が、4月15日に元女子プロレスラー[納見佳容](../Page/納見佳容.md "wikilink")と入籍したことを公式サイトで発表。
 
 <!-- end list -->
 
@@ -140,7 +140,7 @@
   - 佐々木 洋平（ささき ようへい、 - ）A型、[大阪府](../Page/大阪府.md "wikilink")出身
   - 山本 崇史（やまもと たかし、 - ）B型、[大阪府](../Page/大阪府.md "wikilink")出身
   - 水野 哲也（みずの てつや、 - ）A型、[大阪府](../Page/大阪府.md "wikilink")出身
-  - [植木 豪](../Page/植木豪.md "wikilink")（うえき ごう、 - ）A型、[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")出身
+  - [植木 豪](../Page/植木豪.md "wikilink")（うえき ごう、 - ）A型、[福岡県](../Page/福岡県.md "wikilink")出身
 
 
 \== ディスコグラフィ ==
@@ -218,7 +218,7 @@
 <td><p>COCA-15415</p></td>
 <td><ol>
 <li>LOVEfilia【作詞：<a href="../Page/売野雅勇.md" title="wikilink">売野雅勇</a>　作曲・編曲：本間昭光】</li>
-<li>SPIN &amp; LOCK～What's Up Boys &amp; Girls ?～【作詞・作曲：<a href="https://ja.wikipedia.org/wiki/井手コウジ" title="wikilink">井手コウジ</a>】</li>
+<li>SPIN &amp; LOCK～What's Up Boys &amp; Girls ?～【作詞・作曲：<a href="../Page/井手コウジ.md" title="wikilink">井手コウジ</a>】</li>
 <li>Beats P.C～irritate～【作曲・編曲：G.M-KAZ/PaniCrew】</li>
 <li>LOVEfilia(instrumental)</li>
 </ol></td>
@@ -449,7 +449,7 @@ COCP-32143<br />
 CORR-10417:オンデマンドCD</p></td>
 <td><ol>
 <li>LILY【作詞作曲:井手コウジ/編曲:井手コウジ,<a href="../Page/永井誠一郎.md" title="wikilink">永井誠一郎</a>】</li>
-<li>ココロランニング ～僕達がキスをする理由～【作詞:<a href="../Page/浜崎貴司.md" title="wikilink">浜崎貴司</a>,PaniCrew/作曲:本間昭光/編曲:<a href="https://ja.wikipedia.org/wiki/CHOKKAKU" title="wikilink">CHOKKAKU</a>】</li>
+<li>ココロランニング ～僕達がキスをする理由～【作詞:<a href="../Page/浜崎貴司.md" title="wikilink">浜崎貴司</a>,PaniCrew/作曲:本間昭光/編曲:<a href="../Page/CHOKKAKU.md" title="wikilink">CHOKKAKU</a>】</li>
 <li>Wild Flower ～花のしらべ～【作詞作曲編曲:シライシ紗トリ】</li>
 <li>Attitude【作詞作曲PaniCrew:/編曲:<a href="https://ja.wikipedia.org/wiki/h-wonder" title="wikilink">h-wonder</a>】</li>
 <li>Friendship【作詞作曲:井手コウジ/編曲:井手コウジ,米光亮】</li>
@@ -763,7 +763,7 @@ COCP-32675:通常盤</p></td>
   - デビュー記念イベント（club Asia/2001年1月6日）
   - PaniCrew Presents X'mas Party 2002 feat. HEADS & Buzy〜Lets\! Get Noisy\!（3ヶ所3公演/2002年12月25日 - 27日）
 
-　 彼らが企画し、同じ事務所のHEADS、[Buzy](https://ja.wikipedia.org/wiki/Buzy "wikilink")と共演したクリスマスのイベント
+　 彼らが企画し、同じ事務所のHEADS、[Buzy](../Page/Buzy.md "wikilink")と共演したクリスマスのイベント
 
   - 舞台「JOKER」（3ヶ所22公演/2003年8月7日 - 30日）
   - PaniCrew Live House Circuit「真心BEST ALBUM TOUR」（7ヶ所8公演/2004年3月19日 - 30日）
@@ -833,8 +833,8 @@ COCP-32675:通常盤</p></td>
 <!-- end list -->
 
   - [新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")、[DRAGON GATE一部選手にアクロバット指導も行う](https://ja.wikipedia.org/wiki/DRAGON_GATE "wikilink")。
-  - 山本は[ヨガを極め始めており](https://ja.wikipedia.org/wiki/ヨーガ "wikilink")「[片岡鶴太郎](../Page/片岡鶴太郎.md "wikilink")さんの気持ちがわかる」と話す程である。
-  - 笠原は[バイク](https://ja.wikipedia.org/wiki/バイク "wikilink")好きが高じ、バイク[YouTuber](https://ja.wikipedia.org/wiki/YouTuber "wikilink")として「[走れ\!かっさんチャンネル](https://www.youtube.com/user/mdfdancestudio/featured)」を開設し、[レストア](https://ja.wikipedia.org/wiki/レストア "wikilink")動画やバイクで各地を巡る動画を公開している。
+  - 山本は[ヨガを極め始めており](../Page/ヨーガ.md "wikilink")「[片岡鶴太郎](../Page/片岡鶴太郎.md "wikilink")さんの気持ちがわかる」と話す程である。
+  - 笠原は[バイク](https://ja.wikipedia.org/wiki/バイク "wikilink")好きが高じ、バイク[YouTuber](https://ja.wikipedia.org/wiki/YouTuber "wikilink")として「[走れ\!かっさんチャンネル](https://www.youtube.com/user/mdfdancestudio/featured)」を開設し、[レストア](../Page/レストア.md "wikilink")動画やバイクで各地を巡る動画を公開している。
   - 佐々木はアイドル事務所「[株式会社グッドチョイスエンターテイメント](https://gceinc.net/)」を経営している。
   - 中野は舞台演出を多く手掛けている。Twitterでポエムの様なツイートを多数つぶやく為、ポエムツイートを減らすようにメンバーに注意されたことがある。
 
@@ -863,7 +863,7 @@ COCP-32675:通常盤</p></td>
   - [よ〜いどん！](https://www.ktv.jp/yo-idon/)「隣の人間国宝さん」（2016年2月17日、2月21日）[関西テレビ](../Page/関西テレビ放送.md "wikilink") - KASSANのみ
   - [西川きよしのおしゃべりあるき目です](https://ja.wikipedia.org/wiki/西川きよしのおしゃべりあるき目です "wikilink")（2016年3月29日）[ABC朝日放送](https://ja.wikipedia.org/wiki/ABC朝日放送 "wikilink") - KASSANのみ
   - [おはスタ](../Page/おはスタ.md "wikilink")（2015年2月23日、2016年5月27日、2016年6月3日）[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink") - 植木・佐々木のみ
-  - [地球ゴージャスプロデュース公演](https://www.chikyu-gorgeous.jp/) Vol.8「HUMANITY THE MUSICAL ～モモタロウと愉快な仲間たち～」（2018年8月31日、2019年2月11日※再放送）[TBSチャンネル](https://ja.wikipedia.org/wiki/TBSチャンネル "wikilink")1 - 植木のみ
+  - [地球ゴージャスプロデュース公演](https://www.chikyu-gorgeous.jp/) Vol.8「HUMANITY THE MUSICAL ～モモタロウと愉快な仲間たち～」（2018年8月31日、2019年2月11日※再放送）[TBSチャンネル](../Page/TBSチャンネル.md "wikilink")1 - 植木のみ
   - [天才！てれびくん](https://ja.wikipedia.org/wiki/天才てれびくん "wikilink")（2019年5月）- KASSANのみ
   - [投稿！30秒ダンス動画選手権](https://www.fujitv.co.jp/b_hp/30seconds/index.html)　～THE CIRCUS！の魅力を知ろう～（2019年08月10日）[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink") - 植木のみ
 

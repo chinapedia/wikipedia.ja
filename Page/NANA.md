@@ -37,7 +37,7 @@
 
 ### 外国語版
 
-ファンブック「NANA7.8（ナナてんハチ）」などによると[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")、[ドイツ語](../Page/ドイツ語.md "wikilink")、[イタリア語](../Page/イタリア語.md "wikilink")、[タイ語](../Page/タイ語.md "wikilink")、[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")（[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")）、[韓国語](../Page/朝鮮語.md "wikilink")（[韓国](../Page/大韓民国.md "wikilink")）での発行が確認されている。さらに[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")から[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")で連載が開始されたため[英語](../Page/英語.md "wikilink")でも発行されるようになった。
+ファンブック「NANA7.8（ナナてんハチ）」などによると[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")、[ドイツ語](../Page/ドイツ語.md "wikilink")、[イタリア語](../Page/イタリア語.md "wikilink")、[タイ語](../Page/タイ語.md "wikilink")、[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")（[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")）、[韓国語](../Page/朝鮮語.md "wikilink")（[韓国](../Page/大韓民国.md "wikilink")）での発行が確認されている。さらに[2005年](../Page/2005年.md "wikilink")から[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")で連載が開始されたため[英語](../Page/英語.md "wikilink")でも発行されるようになった。
 
 翻訳に関してそれぞれの国にあわせた改修や解説ページなどがある。またほとんどの版は日本と同じく右綴じで、現地の他の図書では裏となる側から読むことを説明する注意書きが見られるが、韓国版は「反転印刷」による左綴じであり、楽器の演奏や腕の[タトゥーが原版とは逆になっている](https://ja.wikipedia.org/wiki/入れ墨 "wikilink")。
 
@@ -86,14 +86,14 @@
 
   -
 
-    2005年3月16日、[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")（現・EMIミュージック・ジャパン）よりトリビュートアルバム『[LOVE for NANA 〜Only 1 Tribute〜](../Page/LOVE_for_NANA_〜Only_1_Tribute〜.md "wikilink")』が発売。参加アーティストは、[布袋寅泰](../Page/布袋寅泰.md "wikilink")・[高見沢俊彦](../Page/高見沢俊彦.md "wikilink")・[TETSU69](https://ja.wikipedia.org/wiki/Tetsu "wikilink")・[abingdon boys school](https://ja.wikipedia.org/wiki/アビングドンボーイズスクール "wikilink")・[木村カエラ](https://ja.wikipedia.org/wiki/木村カエラ "wikilink")・[Do As Infinity](../Page/Do_As_Infinity.md "wikilink")・[ZONE](https://ja.wikipedia.org/wiki/ZONE_\(バンド\) "wikilink")・[大塚愛](https://ja.wikipedia.org/wiki/大塚愛 "wikilink")など。ジャケットはゴールドとシルバーが販売されているが収録内容は同じである。
+    2005年3月16日、[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")（現・EMIミュージック・ジャパン）よりトリビュートアルバム『[LOVE for NANA 〜Only 1 Tribute〜](../Page/LOVE_for_NANA_〜Only_1_Tribute〜.md "wikilink")』が発売。参加アーティストは、[布袋寅泰](../Page/布袋寅泰.md "wikilink")・[高見沢俊彦](../Page/高見沢俊彦.md "wikilink")・[TETSU69](https://ja.wikipedia.org/wiki/Tetsu "wikilink")・[abingdon boys school](https://ja.wikipedia.org/wiki/アビングドンボーイズスクール "wikilink")・[木村カエラ](https://ja.wikipedia.org/wiki/木村カエラ "wikilink")・[Do As Infinity](../Page/Do_As_Infinity.md "wikilink")・[ZONE](../Page/ZONE_\(バンド\).md "wikilink")・[大塚愛](https://ja.wikipedia.org/wiki/大塚愛 "wikilink")など。ジャケットはゴールドとシルバーが販売されているが収録内容は同じである。
 
-    [オリコン週間ランキングで](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")、初登場2位を獲得した。
+    [オリコン週間ランキングで](../Page/オリコンチャート.md "wikilink")、初登場2位を獲得した。
 
 ## ゲーム
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月17日](../Page/3月17日.md "wikilink")、[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")から[PlayStation 2用シミュレーションゲームとして発売](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink") （[CERO](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink") 全年齢対象）
-  - [2006年](../Page/2006年.md "wikilink")[7月6日](../Page/7月6日.md "wikilink")[PlayStation Portable用ガールズライフボードゲーム](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")『NANA すべては大魔王のお導き\!?』が発売（CERO 全年齢対象）
+  - [2005年](../Page/2005年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink")、[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")から[PlayStation 2用シミュレーションゲームとして発売](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink") （[CERO](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink") 全年齢対象）
+  - [2006年](../Page/2006年.md "wikilink")[7月6日](../Page/7月6日.md "wikilink")[PlayStation Portable用ガールズライフボードゲーム](../Page/PlayStation_Portable.md "wikilink")『NANA すべては大魔王のお導き\!?』が発売（CERO 全年齢対象）
   - [2007年](../Page/2007年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用業界系スペシャリストシミュレーション『NANA ライブスタッフ大募集\!〜初心者歓迎〜』が発売（CERO 全年齢対象）
 
 ### 担当声優
@@ -104,14 +104,14 @@
   - 小松奈々：[宍戸留美](../Page/宍戸留美.md "wikilink")
   - 本城蓮：[櫻井孝宏](../Page/櫻井孝宏.md "wikilink")
   - 高木泰士：[津田健次郎](../Page/津田健次郎.md "wikilink")
-  - 寺島伸夫：[植木誠](https://ja.wikipedia.org/wiki/植木誠 "wikilink")
+  - 寺島伸夫：[植木誠](../Page/植木誠.md "wikilink")
   - 岡崎真一：[木村良平](../Page/木村良平.md "wikilink")
   - 芹澤レイラ：[myco](https://ja.wikipedia.org/wiki/myco "wikilink")
   - 一ノ瀬巧：[子安武人](../Page/子安武人.md "wikilink")
   - 藤枝直樹：[斎藤恭央](../Page/桜塚やっくん.md "wikilink")
   - 上原美里：[田村ゆかり](https://ja.wikipedia.org/wiki/田村ゆかり "wikilink")
   - 早乙女淳子：[渕崎ゆり子](../Page/渕崎ゆり子.md "wikilink")
-  - 遠藤章司：[前田剛](https://ja.wikipedia.org/wiki/前田剛 "wikilink")
+  - 遠藤章司：[前田剛](../Page/前田剛.md "wikilink")
   - 高倉京助：[うえだゆうじ](../Page/うえだゆうじ.md "wikilink")
   - 川村幸子：[鈴木真仁](../Page/鈴木真仁.md "wikilink")
 
@@ -123,7 +123,7 @@
 
 2005年[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink")公開。[興行通信社](https://ja.wikipedia.org/wiki/興行通信社 "wikilink")調べによる映画ランキングで初登場1位。最終的な観客動員数は日本だけでも300万人を超え、社会現象を起こす大ヒットとなった（興行収入40.3億円）。結果的に、2005年度の[邦画](../Page/日本映画.md "wikilink")4位という記録的ヒットになった。香港では[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")に公開し、映画ランキング初登場1位。台湾で[11月4日](../Page/11月4日.md "wikilink")に公開し、13日間で興行収入1000万台湾ドルを超えた。また[2006年](../Page/2006年.md "wikilink")[12月11日](../Page/12月11日.md "wikilink")に[TBS系で地上初放送され](../Page/TBSテレビ.md "wikilink")（視聴率は13.1%）、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月9日](../Page/6月9日.md "wikilink")には同局で[秋葉原通り魔事件](https://ja.wikipedia.org/wiki/秋葉原通り魔事件 "wikilink")の影響で『[月曜ゴールデン](../Page/月曜ゴールデン.md "wikilink")』枠が急遽、代替放送された（代替放送の視聴率は9.3%）。TBSではかつてこの時間帯が『[月曜ロードショー](../Page/月曜ロードショー.md "wikilink")』であった。
 
-ナナ役の[中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")とハチ役の[宮崎あおい](https://ja.wikipedia.org/wiki/宮崎あおい "wikilink")が主演。レイラ役の[伊藤由奈](https://ja.wikipedia.org/wiki/伊藤由奈 "wikilink")もこれをきっかけにブレイクした。中島美嘉が歌った主題歌「[GLAMOROUS SKY](../Page/GLAMOROUS_SKY.md "wikilink")」は原作者の矢沢あいが作詞、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の[hyde](https://ja.wikipedia.org/wiki/hyde "wikilink")がメンバー初の楽曲提供による作曲・プロデュースが話題になり、[オリコンウィークリーチャートで](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")2週連続1位を記録、2005年度年間ランキングでもトップ10入りする大ヒットとなった。伊藤由奈が歌った挿入歌「ENDLESS STORY」も初登場2位で、長期にわたってロングヒットして話題になった。2人は年末の歌番組に相次いで出演し、共に『[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")』へも出場した。
+ナナ役の[中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")とハチ役の[宮崎あおい](https://ja.wikipedia.org/wiki/宮崎あおい "wikilink")が主演。レイラ役の[伊藤由奈](https://ja.wikipedia.org/wiki/伊藤由奈 "wikilink")もこれをきっかけにブレイクした。中島美嘉が歌った主題歌「[GLAMOROUS SKY](../Page/GLAMOROUS_SKY.md "wikilink")」は原作者の矢沢あいが作詞、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の[hyde](https://ja.wikipedia.org/wiki/hyde "wikilink")がメンバー初の楽曲提供による作曲・プロデュースが話題になり、[オリコンウィークリーチャートで](../Page/オリコンチャート.md "wikilink")2週連続1位を記録、2005年度年間ランキングでもトップ10入りする大ヒットとなった。伊藤由奈が歌った挿入歌「ENDLESS STORY」も初登場2位で、長期にわたってロングヒットして話題になった。2人は年末の歌番組に相次いで出演し、共に『[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")』へも出場した。
 
 #### キャスト
 
@@ -135,10 +135,10 @@
   - 岡崎真一（シン:BLACK STONES）：[松山ケンイチ](https://ja.wikipedia.org/wiki/松山ケンイチ "wikilink")
   - 一ノ瀬巧（タクミ:TRAPNEST）：[玉山鉄二](../Page/玉山鉄二.md "wikilink")
   - 芹澤レイラ（レイラ:TRAPNEST）：[伊藤由奈](https://ja.wikipedia.org/wiki/伊藤由奈 "wikilink")
-  - 藤枝直樹（ナオキ:TRAPNEST）：[水谷百輔](https://ja.wikipedia.org/wiki/水谷百輔 "wikilink")
+  - 藤枝直樹（ナオキ:TRAPNEST）：[水谷百輔](../Page/水谷百輔.md "wikilink")
   - 遠藤章司：[平岡祐太](../Page/平岡祐太.md "wikilink")
   - 川村幸子：[サエコ](../Page/紗栄子.md "wikilink")
-  - 早乙女淳子：[能世あんな](https://ja.wikipedia.org/wiki/能世あんな "wikilink")
+  - 早乙女淳子：[能世あんな](../Page/能世あんな.md "wikilink")
   - 高倉京助：[高山猛久](../Page/高山猛久.md "wikilink")
   - 佐藤公一：[虎牙光揮](../Page/虎牙光揮.md "wikilink")
   - 小松奈津子（奈々の母）：[宮崎美子](../Page/宮崎美子.md "wikilink")
@@ -172,12 +172,12 @@
   - 第48回[ブルーリボン賞](../Page/ブルーリボン賞_\(映画\).md "wikilink")
       - 最優秀作品賞ノミネート
       - 主演女優賞ノミネート：中島美嘉、宮崎あおい
-  - 2005年度[オリコン発表](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")\!ベストムービーランキング
+  - 2005年度[オリコン発表](../Page/オリコンチャート.md "wikilink")\!ベストムービーランキング
       - 作品部門・第2位
       - 主演女優部門・第1位：中島美嘉
   - 第27回[ヨコハマ映画祭](../Page/ヨコハマ映画祭.md "wikilink")
       - 作品賞・第6位
-  - 第60回[毎日映画コンクール](https://ja.wikipedia.org/wiki/毎日映画コンクール "wikilink")
+  - 第60回[毎日映画コンクール](../Page/毎日映画コンクール.md "wikilink")
       - ファン賞・第3位
   - [第47回日本レコード大賞](https://ja.wikipedia.org/wiki/第47回日本レコード大賞 "wikilink")
       - 特別賞：中島美嘉、伊藤由奈
@@ -218,13 +218,13 @@
   - 大崎ナナ：[中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")
   - 小松奈々（ハチ）：[市川由衣](https://ja.wikipedia.org/wiki/市川由衣 "wikilink")
   - 寺島伸夫（ノブ）：[成宮寛貴](../Page/成宮寛貴.md "wikilink")
-  - 岡崎真一（シン）：[本郷奏多](https://ja.wikipedia.org/wiki/本郷奏多 "wikilink")
+  - 岡崎真一（シン）：[本郷奏多](../Page/本郷奏多.md "wikilink")
   - 高木泰士（ヤス）：[丸山智己](../Page/丸山智己.md "wikilink")
   - 芹澤レイラ（レイラ）：[伊藤由奈](https://ja.wikipedia.org/wiki/伊藤由奈 "wikilink")
-  - 本城蓮（レン）：[姜暢雄](https://ja.wikipedia.org/wiki/姜暢雄 "wikilink")
+  - 本城蓮（レン）：[姜暢雄](../Page/姜暢雄.md "wikilink")
   - 一ノ瀬巧（タクミ）：[玉山鉄二](../Page/玉山鉄二.md "wikilink")
-  - 藤枝直樹（ナオキ）：[水谷百輔](https://ja.wikipedia.org/wiki/水谷百輔 "wikilink")
-  - 早乙女淳子：[能世あんな](https://ja.wikipedia.org/wiki/能世あんな "wikilink")
+  - 藤枝直樹（ナオキ）：[水谷百輔](../Page/水谷百輔.md "wikilink")
+  - 早乙女淳子：[能世あんな](../Page/能世あんな.md "wikilink")
   - 高倉京助：[高山猛久](../Page/高山猛久.md "wikilink")
   - 川野高文：[田辺誠一](../Page/田辺誠一.md "wikilink")
   - 坂上：[宍戸留美](../Page/宍戸留美.md "wikilink")
@@ -269,15 +269,15 @@
 
 ## テレビアニメ
 
-[2006年](../Page/2006年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")に「animo」（アニモ）枠として開始、2007年3月まで4クール放映された。放送では「ファーストシーズン 最終回」とされた\[3\]。ファーストシーズンにおいては原作では、11巻までの内容。アニメーション制作は[マッドハウス](https://ja.wikipedia.org/wiki/マッドハウス "wikilink")。
+[2006年](../Page/2006年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")に「animo」（アニモ）枠として開始、2007年3月まで4クール放映された。放送では「ファーストシーズン 最終回」とされた\[3\]。ファーストシーズンにおいては原作では、11巻までの内容。アニメーション制作は[マッドハウス](../Page/マッドハウス.md "wikilink")。
 
-[NNN加盟局で毎週水曜日](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")23時25分から\[4\]、NNN系列外では2006年6月8日より[琉球放送](https://ja.wikipedia.org/wiki/琉球放送 "wikilink")（[TBS系](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")）で毎週木曜日(金曜日)1時55分から、[日テレプラス](https://ja.wikipedia.org/wiki/日テレプラス "wikilink")&サイエンス（現・日テレプラス）でも2006年10月より放映開始、[日本テレビ関連以外では](../Page/日本テレビ放送網.md "wikilink")[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")から[アニマックス](../Page/アニマックス.md "wikilink")で再放送されている。2018年10月15日から2019年2月13日まで、[BS日テレでも毎週月](../Page/BS日本.md "wikilink")・火・水曜日23時30分に放送された。\[5\]。
+[NNN加盟局で毎週水曜日](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")23時25分から\[4\]、NNN系列外では2006年6月8日より[琉球放送](../Page/琉球放送.md "wikilink")（[TBS系](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")）で毎週木曜日(金曜日)1時55分から、[日テレプラス](https://ja.wikipedia.org/wiki/日テレプラス "wikilink")&サイエンス（現・日テレプラス）でも2006年10月より放映開始、[日本テレビ関連以外では](../Page/日本テレビ放送網.md "wikilink")[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")から[アニマックス](../Page/アニマックス.md "wikilink")で再放送されている。2018年10月15日から2019年2月13日まで、[BS日テレでも毎週月](../Page/BS日本.md "wikilink")・火・水曜日23時30分に放送された。\[5\]。
 
 開始当初は23時台での放送（23時25分 - 23時55分）と、「4大民放ネットワークで放送される[全日](../Page/全日.md "wikilink")帯放送の[深夜テレビアニメ](../Page/深夜アニメ.md "wikilink")」という極めて珍しい試みのものであったが、結局10月以降は事実上24時台に移行した（『[NNNきょうの出来事](https://ja.wikipedia.org/wiki/NNNきょうの出来事 "wikilink")』が放送終了し、『[NEWS ZERO](https://ja.wikipedia.org/wiki/NEWS_ZERO "wikilink")』放送開始で、このアニメの放送枠である「animo」枠が入っている『[バリューナイト](https://ja.wikipedia.org/wiki/プラチナイト "wikilink")』が30分繰り下げられたため）。1、2話の内容が派手に書き換えられたことを知った矢沢が激怒、放送が危ぶまれたことがあると報道された\[6\]。
 
-2006年7月7日に77日間限定税込定価707円でDVDの第1巻が発売された。本編は16:9のワイドサイズで製作されているが、[地上デジタル放送の場合上下左右に黒帯の付いた](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")[額縁放送](https://ja.wikipedia.org/wiki/額縁放送 "wikilink")で放送されている。
+2006年7月7日に77日間限定税込定価707円でDVDの第1巻が発売された。本編は16:9のワイドサイズで製作されているが、[地上デジタル放送の場合上下左右に黒帯の付いた](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")[額縁放送](../Page/額縁放送.md "wikilink")で放送されている。
 
-セリフを当てる声優と歌を担当する歌手とに分けたキャストは、同じくマッドハウスが制作した『[BECK](https://ja.wikipedia.org/wiki/BECK_\(漫画\) "wikilink")』（監督:[小林治](https://ja.wikipedia.org/wiki/小林治_\(イラストレーター\) "wikilink")）と同様、大きな特徴のひとつである。2007年3月30日に、東京都渋谷区のライブハウス[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")で、アニメ版でナナの歌唱を担当した土屋アンナとレイラの歌唱を担当したOLIVIAが、それぞれの役名+バンドでジョイントライブを行った。ちなみに原作漫画・映画版ともに2組がジョイントライブを行うシーンはない。
+セリフを当てる声優と歌を担当する歌手とに分けたキャストは、同じくマッドハウスが制作した『[BECK](https://ja.wikipedia.org/wiki/BECK_\(漫画\) "wikilink")』（監督:[小林治](../Page/小林治_\(イラストレーター\).md "wikilink")）と同様、大きな特徴のひとつである。2007年3月30日に、東京都渋谷区のライブハウス[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")で、アニメ版でナナの歌唱を担当した土屋アンナとレイラの歌唱を担当したOLIVIAが、それぞれの役名+バンドでジョイントライブを行った。ちなみに原作漫画・映画版ともに2組がジョイントライブを行うシーンはない。
 
 15話では[著作権](../Page/著作権.md "wikilink")・[商標](../Page/商標.md "wikilink")の関係上、原作では「[ディズニーランド](../Page/ディズニーランド.md "wikilink")」の部分がアニメ版では「遊園地」に差し替えられている（原作での[ミニーマウス](../Page/ミニーマウス.md "wikilink")の[カチューシャの部分も別のものに差し替えられている](https://ja.wikipedia.org/wiki/ヘアバンド "wikilink")）。また、28話では、原作では「[スカパー](../Page/スカパー!プレミアムサービス.md "wikilink")」と言っている箇所が「衛星」になっている。
 
@@ -298,9 +298,9 @@
   - 高倉京助：[諏訪部順一](../Page/諏訪部順一.md "wikilink")
   - 早乙女淳子：[本田貴子](../Page/本田貴子.md "wikilink")
   - 遠藤章司：[高橋広樹](../Page/高橋広樹.md "wikilink")
-  - 川村幸子：[小島めぐみ](https://ja.wikipedia.org/wiki/小島めぐみ "wikilink")
+  - 川村幸子：[小島めぐみ](../Page/小島めぐみ.md "wikilink")
   - 上原美里：[かないみか](../Page/かないみか.md "wikilink")
-  - 藤枝直樹：[勝杏里](https://ja.wikipedia.org/wiki/勝杏里 "wikilink")
+  - 藤枝直樹：[勝杏里](../Page/勝杏里.md "wikilink")
   - 諸星銀平：[立木文彦](../Page/立木文彦.md "wikilink")
   - 香坂百合：[すほうれいこ](../Page/すほうれいこ.md "wikilink")
   - 篠田美雨：[千葉紗子](../Page/千葉紗子.md "wikilink")
@@ -394,9 +394,9 @@
 ### スタッフ（テレビアニメ）
 
   - 原作 - 矢沢あい
-  - 監督 - [浅香守生](https://ja.wikipedia.org/wiki/浅香守生 "wikilink")
+  - 監督 - [浅香守生](../Page/浅香守生.md "wikilink")
   - 監督助手 - [いしづかあつこ](../Page/いしづかあつこ.md "wikilink")
-  - シリーズ構成 - [金春智子](https://ja.wikipedia.org/wiki/金春智子 "wikilink")
+  - シリーズ構成 - [金春智子](../Page/金春智子.md "wikilink")
   - キャラクターデザイン・総作画監督 - [濱田邦彦](../Page/濱田邦彦.md "wikilink")
   - 服装デザイン - 北尾勝、今野亜希子（第7話から）
   - 小物デザイン - 村田睦明、今野亜希子（第6話まで）
@@ -408,8 +408,8 @@
   - 音楽プロデューサー - 千石一成、[浅田秀之](https://ja.wikipedia.org/wiki/浅田秀之 "wikilink")
   - アニメーションプロデューサー - [吉本聡](https://ja.wikipedia.org/wiki/吉本聡 "wikilink")、中本健二
   - プロデューサー - [中谷敏夫](https://ja.wikipedia.org/wiki/中谷敏夫 "wikilink")、田村学、[丸山正雄](../Page/丸山正雄.md "wikilink")
-  - アニメーション制作 - [マッドハウス](https://ja.wikipedia.org/wiki/マッドハウス "wikilink")
-  - 製作著作 - NANA製作委員会（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")、[バップ](../Page/バップ.md "wikilink")、[集英社](../Page/集英社.md "wikilink")、[マッドハウス](https://ja.wikipedia.org/wiki/マッドハウス "wikilink")）
+  - アニメーション制作 - [マッドハウス](../Page/マッドハウス.md "wikilink")
+  - 製作著作 - NANA製作委員会（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")、[バップ](../Page/バップ.md "wikilink")、[集英社](../Page/集英社.md "wikilink")、[マッドハウス](../Page/マッドハウス.md "wikilink")）
 
 ### 各話リスト
 
@@ -428,8 +428,8 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>序章・奈々とナナ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/金春智子" title="wikilink">金春智子</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/浅香守生" title="wikilink">浅香守生</a></p></td>
+<td><p><a href="../Page/金春智子.md" title="wikilink">金春智子</a></p></td>
+<td><p><a href="../Page/浅香守生.md" title="wikilink">浅香守生</a></p></td>
 <td><p>浅香守生<br />
 <a href="https://ja.wikipedia.org/wiki/中村亮介_(アニメ演出家)" title="wikilink">中村亮介</a></p></td>
 <td><p><a href="../Page/濱田邦彦.md" title="wikilink">濱田邦彦</a></p></td>

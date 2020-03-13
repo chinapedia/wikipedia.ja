@@ -1,7 +1,7 @@
 > この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
 
 
-**ニューカッスル・ユナイテッド・フットボール・クラブ**（Newcastle United Football Club、<small>[イギリス英語](https://ja.wikipedia.org/wiki/イギリス英語 "wikilink")発音:</small> ）は、[イングランド](../Page/イングランド.md "wikilink")北東部・[タイン・アンド・ウィア州](https://ja.wikipedia.org/wiki/タインアンドウィア州 "wikilink")[ニューカッスル・アポン・タイン](https://ja.wikipedia.org/wiki/ニューカッスル・アポン・タイン "wikilink")をホームタウンとする、イングランドプロサッカーリーグ（[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")）に加盟するプロサッカークラブ。クラブカラーは[白](../Page/白.md "wikilink")と[黒](https://ja.wikipedia.org/wiki/黒 "wikilink")。愛称は**マグパイズ**（Magpies、[カササギ](../Page/カササギ.md "wikilink")の意）。
+**ニューカッスル・ユナイテッド・フットボール・クラブ**（Newcastle United Football Club、<small>[イギリス英語](../Page/イギリス英語.md "wikilink")発音:</small> ）は、[イングランド](../Page/イングランド.md "wikilink")北東部・[タイン・アンド・ウィア州](https://ja.wikipedia.org/wiki/タインアンドウィア州 "wikilink")[ニューカッスル・アポン・タイン](../Page/ニューカッスル・アポン・タイン.md "wikilink")をホームタウンとする、イングランドプロサッカーリーグ（[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")）に加盟するプロサッカークラブ。クラブカラーは[白](../Page/白.md "wikilink")と[黒](https://ja.wikipedia.org/wiki/黒 "wikilink")。愛称は**マグパイズ**（Magpies、[カササギ](../Page/カササギ.md "wikilink")の意）。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 このチームの[サポーターは](https://ja.wikipedia.org/wiki/サポーター_\(サッカー\) "wikilink") “Toon Army”（toonはtownの意）と呼ばれ、伝統的に攻撃的なフットボールを愛することで知られる。この呼称はニューカッスルに住む人々の間で話される方言（ジョーディー弁）が town（タウン）を ”トゥーン” と発音することに由来する。クラブのレジェンドである[アラン・シアラー](../Page/アラン・シアラー.md "wikilink")はプレミアリーグの歴代最多得点記録を有しているが\[1\]、彼も根っからのジョーディーである。
 
-昔からのライバルは、[サンダーランドと](https://ja.wikipedia.org/wiki/サンダーランドAFC "wikilink")[ミドルスブラ](https://ja.wikipedia.org/wiki/ミドルスブラFC "wikilink")。特に同じ[タイン・アンド・ウィア](../Page/タイン・アンド・ウィア.md "wikilink")州に本拠を置くサンダーランドとのダービーは「[タイン・ウェア・ダービー](../Page/タイン・ウェア・ダービー.md "wikilink")」として知られ、毎回乱闘寸前の激しい試合が行われる。ホームスタジアムは[セント・ジェームズ・パーク](../Page/セント・ジェームズ・パーク_\(ニューカッスル・アポン・タイン\).md "wikilink")（収容人数52,405人）。スタジアムは街の中心部、[ニューカッスル大学に隣接した小高い丘の上にあり](../Page/ニューカッスル大学_\(イングランド\).md "wikilink")、街のどこからでも見ることができる。現在のスポンサーは[オンラインカジノ](https://ja.wikipedia.org/wiki/オンラインカジノ "wikilink")業者の[Fun88](https://ja.wikipedia.org/wiki/Fun88 "wikilink")。
+昔からのライバルは、[サンダーランドと](../Page/サンダーランドAFC.md "wikilink")[ミドルスブラ](https://ja.wikipedia.org/wiki/ミドルスブラFC "wikilink")。特に同じ[タイン・アンド・ウィア](../Page/タイン・アンド・ウィア.md "wikilink")州に本拠を置くサンダーランドとのダービーは「[タイン・ウェア・ダービー](../Page/タイン・ウェア・ダービー.md "wikilink")」として知られ、毎回乱闘寸前の激しい試合が行われる。ホームスタジアムは[セント・ジェームズ・パーク](../Page/セント・ジェームズ・パーク_\(ニューカッスル・アポン・タイン\).md "wikilink")（収容人数52,405人）。スタジアムは街の中心部、[ニューカッスル大学に隣接した小高い丘の上にあり](../Page/ニューカッスル大学_\(イングランド\).md "wikilink")、街のどこからでも見ることができる。現在のスポンサーは[オンラインカジノ](https://ja.wikipedia.org/wiki/オンラインカジノ "wikilink")業者の[Fun88](https://ja.wikipedia.org/wiki/Fun88 "wikilink")。
 
 ## 歴史
 
@@ -21,13 +21,13 @@
 
 1988-89シーズンにディビジョン2（当時の2部）に降格したことで、1992年の[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")創設メンバー入りを逃す。1992-93シーズンの[ディビジョン1](https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ "wikilink")（2部）で優勝を果たして、1年遅れでプレミアリーグに参戦した。その後は[ケヴィン・キーガン](https://ja.wikipedia.org/wiki/ケヴィン・キーガン "wikilink")監督のもとで1995-96、1996-97シーズンと2シーズン続けて2位に入るなど、1997年までは好成績を残したが、1997-98シーズンから4シーズン連続して二桁順位が続き、ほぼ1シーズンごとに監督が交代する悪循環に陥った\[2\]。
 
-2000年代前半は中位のやや上くらいが定位置となり、2003-04シーズンは5位で、2005-06シーズンは序盤低迷するも、[グレアム・スーネス](https://ja.wikipedia.org/wiki/グレアム・スーネス "wikilink")監督更迭後に連勝街道を驀進し7位でシーズンを終えた。また[FAカップ](../Page/FAカップ.md "wikilink")ではベスト4の常連であった。2006年の[アラン・シアラー](../Page/アラン・シアラー.md "wikilink")引退後、[マイケル・オーウェン](../Page/マイケル・オーウェン.md "wikilink")を中心として攻撃陣を構築を試みたものの、2006-07シーズン以降は積極的な補強の甲斐なく残留争いに終始する。2008-09シーズンは18位に終わり、[チャンピオンシップ](https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ "wikilink")（2部）降格が決定した。2009-10シーズンは[チャンピオンシップで優勝を果たし](https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ "wikilink")、わずか1年でプレミアリーグ復帰を果たした。
+2000年代前半は中位のやや上くらいが定位置となり、2003-04シーズンは5位で、2005-06シーズンは序盤低迷するも、[グレアム・スーネス](../Page/グレアム・スーネス.md "wikilink")監督更迭後に連勝街道を驀進し7位でシーズンを終えた。また[FAカップ](../Page/FAカップ.md "wikilink")ではベスト4の常連であった。2006年の[アラン・シアラー](../Page/アラン・シアラー.md "wikilink")引退後、[マイケル・オーウェン](../Page/マイケル・オーウェン.md "wikilink")を中心として攻撃陣を構築を試みたものの、2006-07シーズン以降は積極的な補強の甲斐なく残留争いに終始する。2008-09シーズンは18位に終わり、[チャンピオンシップ](https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ "wikilink")（2部）降格が決定した。2009-10シーズンは[チャンピオンシップで優勝を果たし](https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ "wikilink")、わずか1年でプレミアリーグ復帰を果たした。
 
 2011-12シーズンは夏の移籍市場において[デンバ・バ](https://ja.wikipedia.org/wiki/デンバ・バ "wikilink")、[ヨアン・キャバイェ](https://ja.wikipedia.org/wiki/ヨアン・キャバイェ "wikilink")、[ガブリエル・オベルタン](https://ja.wikipedia.org/wiki/ガブリエル・オベルタン "wikilink")、[ダヴィデ・サントン](https://ja.wikipedia.org/wiki/ダヴィデ・サントン "wikilink")らを獲得した。冬の移籍市場では[パピス・シセ](https://ja.wikipedia.org/wiki/パピス・シセ "wikilink")を獲得した。リーグ戦では好調を維持し5位でシーズンを終え、[UEFAヨーロッパリーグ](../Page/UEFAヨーロッパリーグ.md "wikilink")出場権を獲得した。
 
 2012-13シーズンの夏の移籍市場では、ロマン・アマルフィターノ、[フルノン・アニータ](https://ja.wikipedia.org/wiki/フルノン・アニータ "wikilink")らを獲得。冬の移籍市場では[マテュー・ドゥビュシー](https://ja.wikipedia.org/wiki/マテュー・ドゥビュシー "wikilink")、[マプ・ヤンガ＝ムビワ](https://ja.wikipedia.org/wiki/マプ・ヤンガ＝ムビワ "wikilink")、[ムサ・シソコ](https://ja.wikipedia.org/wiki/ムサ・シソコ "wikilink")などフランス人プレーヤーを多く獲得した。ヨーロッパリーグではベスト8まで進んだが、リーグ戦では16位に終わった。
 
-2013-14シーズンは[ロイク・レミー](https://ja.wikipedia.org/wiki/ロイク・レミー "wikilink")を獲得し、リーグ戦では10位に終わった。2014-15シーズンは[シーム・デ・ヨング](https://ja.wikipedia.org/wiki/シーム・デ・ヨング "wikilink")、[レミ・カベッラ](https://ja.wikipedia.org/wiki/レミ・カベッラ "wikilink")、[エマニュエル・リヴィエール](https://ja.wikipedia.org/wiki/エマニュエル・リヴィエール "wikilink")らを獲得したが、開幕から7試合勝ちがなく、パーデューは12月に[クリスタル・パレスの監督に就任した](https://ja.wikipedia.org/wiki/クリスタル・パレスFC "wikilink")\[3\]。2015年1月26日、パーデューのアシスタントコーチだった[ジョン・カーヴァーが後任に就いたものの](https://ja.wikipedia.org/wiki/ジョン・カーヴァー_\(サッカー選手\) "wikilink")15位に終わった。2015年6月9日、カーヴァーを解任し、翌日に[スティーブ・マクラーレン](../Page/スティーブ・マクラーレン.md "wikilink")が就任した\[4\]。
+2013-14シーズンは[ロイク・レミー](https://ja.wikipedia.org/wiki/ロイク・レミー "wikilink")を獲得し、リーグ戦では10位に終わった。2014-15シーズンは[シーム・デ・ヨング](https://ja.wikipedia.org/wiki/シーム・デ・ヨング "wikilink")、[レミ・カベッラ](https://ja.wikipedia.org/wiki/レミ・カベッラ "wikilink")、[エマニュエル・リヴィエール](https://ja.wikipedia.org/wiki/エマニュエル・リヴィエール "wikilink")らを獲得したが、開幕から7試合勝ちがなく、パーデューは12月に[クリスタル・パレスの監督に就任した](../Page/クリスタル・パレスFC.md "wikilink")\[3\]。2015年1月26日、パーデューのアシスタントコーチだった[ジョン・カーヴァーが後任に就いたものの](https://ja.wikipedia.org/wiki/ジョン・カーヴァー_\(サッカー選手\) "wikilink")15位に終わった。2015年6月9日、カーヴァーを解任し、翌日に[スティーブ・マクラーレン](../Page/スティーブ・マクラーレン.md "wikilink")が就任した\[4\]。
 
 2015-16シーズンは[ジョルジニオ・ワイナルドゥム](https://ja.wikipedia.org/wiki/ジョルジニオ・ワイナルドゥム "wikilink")、[アレクサンダル・ミトロヴィッチ](https://ja.wikipedia.org/wiki/アレクサンダル・ミトロヴィッチ "wikilink")、[フロリアン・トヴァン](https://ja.wikipedia.org/wiki/フロリアン・トヴァン "wikilink")を獲得するなど積極的に動いた。さらに冬には[アンドロス・タウンゼント](https://ja.wikipedia.org/wiki/アンドロス・タウンゼント "wikilink")と[ジョンジョ・シェルヴェイ](https://ja.wikipedia.org/wiki/ジョンジョ・シェルヴェイ "wikilink")という実力者2人を獲得した。しかし、28試合で6勝しかできず、2016年3月11日にマクラーレンを解任\[5\]し、スペイン人の[ラファエル・ベニテス](../Page/ラファエル・ベニテス.md "wikilink")が3年契約で監督に就任した\[6\]が、結果としてシーズンは19位に終わり、翌シーズンのチャンピオンシップ（2部）降格が決定した\[7\]。
 
@@ -673,7 +673,7 @@
 
 ## 映画
 
-2006年に公開された映画『[GOAL\!](../Page/GOAL!.md "wikilink")』では、主人公のサンティアゴがニューカッスル・ユナイテッドに入団した。GOAL\!は[FIFA](https://ja.wikipedia.org/wiki/FIFA "wikilink")が史上初めて公認した映画で、[ベッカム](../Page/デビッド・ベッカム.md "wikilink")、[ジダン](../Page/ジネディーヌ・ジダン.md "wikilink")、[中田英寿](../Page/中田英寿.md "wikilink")、[ラウール等のスター選手が出演していることで話題となった](../Page/ラウル・ゴンサレス.md "wikilink")。この映画は3部作で2作目は[レアル・マドリード](https://ja.wikipedia.org/wiki/レアル・マドリード "wikilink")が舞台。3作目は[ワールドカップが舞台である](https://ja.wikipedia.org/wiki/FIFAワールドカップ "wikilink")。
+2006年に公開された映画『[GOAL\!](../Page/GOAL!.md "wikilink")』では、主人公のサンティアゴがニューカッスル・ユナイテッドに入団した。GOAL\!は[FIFA](https://ja.wikipedia.org/wiki/FIFA "wikilink")が史上初めて公認した映画で、[ベッカム](../Page/デビッド・ベッカム.md "wikilink")、[ジダン](../Page/ジネディーヌ・ジダン.md "wikilink")、[中田英寿](../Page/中田英寿.md "wikilink")、[ラウール等のスター選手が出演していることで話題となった](../Page/ラウル・ゴンサレス.md "wikilink")。この映画は3部作で2作目は[レアル・マドリード](https://ja.wikipedia.org/wiki/レアル・マドリード "wikilink")が舞台。3作目は[ワールドカップが舞台である](../Page/FIFAワールドカップ.md "wikilink")。
 
 ## 脚注
 

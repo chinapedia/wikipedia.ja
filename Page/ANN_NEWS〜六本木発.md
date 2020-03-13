@@ -7,7 +7,7 @@
 
 [2003年](../Page/2003年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")スタート。タイトル通り[六本木](../Page/六本木.md "wikilink")の[テレビ朝日](../Page/テレビ朝日.md "wikilink")内にあるスタジオ（[BS朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")「[News Access](../Page/News_Access.md "wikilink")」と同じ）から放送している。
 
-放送時間は、月曜〜金曜の11時、12時、13時、14時、17時、18時からの6回。14時のみ[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")4月からスタート（2005年5月頃から14時は、13時の再放送）。
+放送時間は、月曜〜金曜の11時、12時、13時、14時、17時、18時からの6回。14時のみ[2005年](../Page/2005年.md "wikilink")4月からスタート（2005年5月頃から14時は、13時の再放送）。
 
 13時のニュースは、冒頭のオープニング、及びタイトルを除き、[BS朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")「[お昼のNews Access](../Page/News_Access.md "wikilink")」と同じ内容を放送していた（これは、使用されるスタジオが同じだったためである）。
 その為項目テロップは、13時、14時だけ「お昼のNews Access」のテロップだった(それ以外の時間は通常の「ANNニュース」のテロップ)。

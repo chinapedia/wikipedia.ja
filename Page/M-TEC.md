@@ -15,8 +15,8 @@
 
 ### 無限
 
-  - [1973年](../Page/1973年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")48年） [本田宗一郎](../Page/本田宗一郎.md "wikilink")の長男である[本田博俊](../Page/本田博俊.md "wikilink")がのち本田技研工業社長となる[川本信彦](https://ja.wikipedia.org/wiki/川本信彦 "wikilink")らと創設。ホンダ[2輪](../Page/オートバイ.md "wikilink")・[4輪車のチューニングパーツの開発と販売を行っていた](../Page/自動車.md "wikilink")。[1970年代](../Page/1970年代.md "wikilink")から[1980年代](../Page/1980年代.md "wikilink")には2輪[モトクロス](https://ja.wikipedia.org/wiki/モトクロス "wikilink")などでも高い実績を残している。
-  - [1992年](../Page/1992年.md "wikilink")（[平成](../Page/平成.md "wikilink")4年） 前年まで[ホンダが開発していた](../Page/ホンダF1.md "wikilink")[F1用](../Page/フォーミュラ1.md "wikilink")3.5 L・[V10エンジンの開発を引き継ぐかたちでF](https://ja.wikipedia.org/wiki/V型10気筒 "wikilink")1参戦を開始。供給先は[フットワーク・グランプリ](https://ja.wikipedia.org/wiki/アロウズ#フットワーク時代 "wikilink")。
+  - [1973年](../Page/1973年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")48年） [本田宗一郎](../Page/本田宗一郎.md "wikilink")の長男である[本田博俊](../Page/本田博俊.md "wikilink")がのち本田技研工業社長となる[川本信彦](../Page/川本信彦.md "wikilink")らと創設。ホンダ[2輪](../Page/オートバイ.md "wikilink")・[4輪車のチューニングパーツの開発と販売を行っていた](../Page/自動車.md "wikilink")。[1970年代](../Page/1970年代.md "wikilink")から[1980年代](../Page/1980年代.md "wikilink")には2輪[モトクロス](../Page/モトクロス.md "wikilink")などでも高い実績を残している。
+  - [1992年](../Page/1992年.md "wikilink")（[平成](../Page/平成.md "wikilink")4年） 前年まで[ホンダが開発していた](../Page/ホンダF1.md "wikilink")[F1用](../Page/フォーミュラ1.md "wikilink")3.5 L・[V10エンジンの開発を引き継ぐかたちでF](../Page/V型10気筒.md "wikilink")1参戦を開始。供給先は[フットワーク・グランプリ](https://ja.wikipedia.org/wiki/アロウズ#フットワーク時代 "wikilink")。
   - [1994年](../Page/1994年.md "wikilink")（平成6年） エンジン供給先を[チーム・ロータス](../Page/チーム・ロータス.md "wikilink")へ変更。
   - [1996年](../Page/1996年.md "wikilink")（平成8年） F1[モナコGPにおいて](../Page/モナコグランプリ.md "wikilink")、無限エンジン(MF301HA)が[オリビエ・パニス](../Page/オリビエ・パニス.md "wikilink")のドライブする[リジェ](../Page/リジェ.md "wikilink")により初勝利を挙げる。
   - [2000年](../Page/2000年.md "wikilink")（平成12年） ホンダのF1復帰に伴い、[ジョーダン・グランプリ](../Page/ジョーダン・グランプリ.md "wikilink")へのエンジン供給を最後にF1参戦を終了。
@@ -35,17 +35,17 @@
 
   - レース用エンジンの開発・製造及び供給
 
-:\* [MF308](../Page/無限・MF308.md "wikilink")（3,000 cc [V8](../Page/V型8気筒.md "wikilink") [F3000](../Page/フォーミュラ3000.md "wikilink")/[FN用](../Page/フォーミュラ・ニッポン.md "wikilink")）([1988年](../Page/1988年.md "wikilink") - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink"))
+:\* [MF308](../Page/無限・MF308.md "wikilink")（3,000 cc [V8](../Page/V型8気筒.md "wikilink") [F3000](../Page/フォーミュラ3000.md "wikilink")/[FN用](../Page/フォーミュラ・ニッポン.md "wikilink")）([1988年](../Page/1988年.md "wikilink") - [2005年](../Page/2005年.md "wikilink"))
 
 :\* [HF386E](https://ja.wikipedia.org/wiki/ホンダ・HF386E "wikilink")（3,000 cc V8 FN用）([2006年](../Page/2006年.md "wikilink") - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink"))
 
 :\* [HR09E](https://ja.wikipedia.org/wiki/ホンダ・HR09E "wikilink")/HR10E/HR10EG（3,400 cc V8 FN/[SUPER GT用](https://ja.wikipedia.org/wiki/SUPER_GT "wikilink")）([2009年](../Page/2009年.md "wikilink") - )
 
-:\* [MF204-MF204D](https://ja.wikipedia.org/wiki/無限・MF204 "wikilink")（2,000 cc [直4](https://ja.wikipedia.org/wiki/直列4気筒 "wikilink") [F3用](https://ja.wikipedia.org/wiki/フォーミュラ3 "wikilink")）([1988年](../Page/1988年.md "wikilink") - [2007年](../Page/2007年.md "wikilink")、[2013年](../Page/2013年.md "wikilink") - )
+:\* [MF204-MF204D](https://ja.wikipedia.org/wiki/無限・MF204 "wikilink")（2,000 cc [直4](../Page/直列4気筒.md "wikilink") [F3用](https://ja.wikipedia.org/wiki/フォーミュラ3 "wikilink")）([1988年](../Page/1988年.md "wikilink") - [2007年](../Page/2007年.md "wikilink")、[2013年](../Page/2013年.md "wikilink") - )
 
-:\* MF408S/MF458S（4,000 cc/4,500 cc V8 [スポーツプロト](https://ja.wikipedia.org/wiki/プロトタイプレーシングカー "wikilink")/[スポーツカー](https://ja.wikipedia.org/wiki/全日本スポーツカー耐久選手権 "wikilink")/SUPER GT用）
+:\* MF408S/MF458S（4,000 cc/4,500 cc V8 [スポーツプロト](https://ja.wikipedia.org/wiki/プロトタイプレーシングカー "wikilink")/[スポーツカー](../Page/全日本スポーツカー耐久選手権.md "wikilink")/SUPER GT用）
 
-:\* [C32B改](../Page/ホンダ・C型エンジン.md "wikilink")（3,500 cc/3,400 cc [V6](https://ja.wikipedia.org/wiki/V型6気筒 "wikilink") [JGTC](https://ja.wikipedia.org/wiki/全日本GT選手権 "wikilink")/SUPER GT用）([1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") - [2003年](../Page/2003年.md "wikilink")、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") - [2009年](../Page/2009年.md "wikilink"))
+:\* [C32B改](../Page/ホンダ・C型エンジン.md "wikilink")（3,500 cc/3,400 cc [V6](../Page/V型6気筒.md "wikilink") [JGTC](https://ja.wikipedia.org/wiki/全日本GT選手権 "wikilink")/SUPER GT用）([1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") - [2003年](../Page/2003年.md "wikilink")、[2005年](../Page/2005年.md "wikilink") - [2009年](../Page/2009年.md "wikilink"))
 
 :\* C30A改（3,000 cc V6 [T/C](../Page/ターボチャージャー.md "wikilink") SUPER GT用）([2004年](../Page/2004年.md "wikilink"))
 
@@ -67,23 +67,23 @@
 
 ### 無限
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Mugen-MOTUL-CIVIC-Si-racecar..JPG "wikilink") [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（昭和60年）から[1993年](../Page/1993年.md "wikilink")（平成5年）まで[全日本ツーリングカー選手権](https://ja.wikipedia.org/wiki/全日本ツーリングカー選手権_\(1985年-1993年\) "wikilink") (JTC) に[シビックで参戦し](../Page/ホンダ・シビック.md "wikilink")、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）、[1988年](../Page/1988年.md "wikilink")（昭和63年）、および[1991年](../Page/1991年.md "wikilink")（平成3年）から[1993年](../Page/1993年.md "wikilink")（平成5年）にかけてディビジョン1/クラス3のシリーズチャンピオンを獲得した。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Mugen-MOTUL-CIVIC-Si-racecar..JPG "wikilink") [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（昭和60年）から[1993年](../Page/1993年.md "wikilink")（平成5年）まで[全日本ツーリングカー選手権](../Page/全日本ツーリングカー選手権_\(1985年-1993年\).md "wikilink") (JTC) に[シビックで参戦し](../Page/ホンダ・シビック.md "wikilink")、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）、[1988年](../Page/1988年.md "wikilink")（昭和63年）、および[1991年](../Page/1991年.md "wikilink")（平成3年）から[1993年](../Page/1993年.md "wikilink")（平成5年）にかけてディビジョン1/クラス3のシリーズチャンピオンを獲得した。
 
 [1994年](../Page/1994年.md "wikilink")（平成6年）、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（平成7年）の[全日本ツーリングカー選手権](../Page/全日本ツーリングカー選手権_\(1994年-1998年\).md "wikilink") (JTCC) に[シビックフェリオ](../Page/ホンダ・シビックフェリオ.md "wikilink")、[1996年](../Page/1996年.md "wikilink")（平成8年）、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）に[アコードで参戦し](../Page/ホンダ・アコード.md "wikilink")、1997年（平成9年）にはシリーズチャンピオンを獲得した。
 
 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（平成10年）から[2003年](../Page/2003年.md "wikilink")（平成15年）まで[全日本GT選手権](https://ja.wikipedia.org/wiki/全日本GT選手権 "wikilink") ([SUPER GT](https://ja.wikipedia.org/wiki/SUPER_GT "wikilink")) のGT500クラスに[NSXで参戦し](../Page/ホンダ・NSX.md "wikilink")、[2000年](../Page/2000年.md "wikilink")（平成12年）にはドライバー/チーム、[2002年](../Page/2002年.md "wikilink")（平成14年）にはチーム/チューナー部門でシリーズチャンピオンを獲得した。
 
-2輪では、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")（昭和55年）の[モトクロス世界選手権](https://ja.wikipedia.org/wiki/モトクロス世界選手権 "wikilink")アメリカGPの125ccクラスにおいて、[ジョニー・オマラ](https://ja.wikipedia.org/wiki/ジョニー・オマラ "wikilink")のライディングで優勝を飾っている。また、[1976年](../Page/1976年.md "wikilink")（昭和51年）から[1992年](../Page/1992年.md "wikilink")（平成4年）までの16年間、[全日本モトクロス選手権](https://ja.wikipedia.org/wiki/全日本モトクロス選手権 "wikilink")に無限オリジナル[モトクロッサー](../Page/モトクロッサー.md "wikilink")・MEシリーズで参戦した。
+2輪では、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")（昭和55年）の[モトクロス世界選手権](../Page/モトクロス世界選手権.md "wikilink")アメリカGPの125ccクラスにおいて、[ジョニー・オマラ](https://ja.wikipedia.org/wiki/ジョニー・オマラ "wikilink")のライディングで優勝を飾っている。また、[1976年](../Page/1976年.md "wikilink")（昭和51年）から[1992年](../Page/1992年.md "wikilink")（平成4年）までの16年間、[全日本モトクロス選手権](../Page/全日本モトクロス選手権.md "wikilink")に無限オリジナル[モトクロッサー](../Page/モトクロッサー.md "wikilink")・MEシリーズで参戦した。
 
 ### M-TEC
 
-[2004年](../Page/2004年.md "wikilink")（平成16年）は、前年のGT500に出走していたNSXに若干の変更（タイヤを[ブリヂストン](../Page/ブリヂストン.md "wikilink")から[ダンロップ](https://ja.wikipedia.org/wiki/ダンロップ "wikilink")に変更するなど）を加え、GT300クラスに参戦した。開幕戦から常に上位争いに加わり、シリーズチャンピオンを獲得した（優勝は最終戦の1回）。シーズン当初は「ちょんまげ」（ルーフの上に設置される[エアインテーク](../Page/エアインテーク.md "wikilink")の通称。メーカーオプション）を封印していたが、同年最終戦以降に使用を再開。
+[2004年](../Page/2004年.md "wikilink")（平成16年）は、前年のGT500に出走していたNSXに若干の変更（タイヤを[ブリヂストン](../Page/ブリヂストン.md "wikilink")から[ダンロップ](../Page/ダンロップ.md "wikilink")に変更するなど）を加え、GT300クラスに参戦した。開幕戦から常に上位争いに加わり、シリーズチャンピオンを獲得した（優勝は最終戦の1回）。シーズン当初は「ちょんまげ」（ルーフの上に設置される[エアインテーク](../Page/エアインテーク.md "wikilink")の通称。メーカーオプション）を封印していたが、同年最終戦以降に使用を再開。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成１7年）も常に上位の成績を上げ、シーズンランキング2位となる。 [Yuhki_Nakayama_2014_Super_GT_Suzuka_Q1.jpg](https://ja.wikipedia.org/wiki/File:Yuhki_Nakayama_2014_Super_GT_Suzuka_Q1.jpg "fig:Yuhki_Nakayama_2014_Super_GT_Suzuka_Q1.jpg")\]\] 翌[2006年](../Page/2006年.md "wikilink")（平成8年）より独自チームでの参戦はいったんなくなったが、[2012年](../Page/2012年.md "wikilink")（平成24年）に第4戦（スポーツランドSUGO）より[CR-Zで参戦することが決まり](../Page/ホンダ・CR-Z.md "wikilink")、7月4日に[ツインリンクもてぎ](../Page/ツインリンクもてぎ.md "wikilink")での[シェイクダウンと合わせて正式な体制が発表された](https://ja.wikipedia.org/wiki/シェイクダウン_\(モータースポーツ\) "wikilink")。[2013年](../Page/2013年.md "wikilink")（平成25年）には[アジアン・ル・マン・シリーズ](https://ja.wikipedia.org/wiki/アジアン・ル・マン・シリーズ "wikilink")（AsLMS）第5戦([富士](https://ja.wikipedia.org/wiki/富士スピードウェイ "wikilink"))で優勝したほか全戦で入賞した結果、ドライバー/チームのシリーズチャンピオンを獲得した。
+[2005年](../Page/2005年.md "wikilink")（平成１7年）も常に上位の成績を上げ、シーズンランキング2位となる。 [Yuhki_Nakayama_2014_Super_GT_Suzuka_Q1.jpg](https://ja.wikipedia.org/wiki/File:Yuhki_Nakayama_2014_Super_GT_Suzuka_Q1.jpg "fig:Yuhki_Nakayama_2014_Super_GT_Suzuka_Q1.jpg")\]\] 翌[2006年](../Page/2006年.md "wikilink")（平成8年）より独自チームでの参戦はいったんなくなったが、[2012年](../Page/2012年.md "wikilink")（平成24年）に第4戦（スポーツランドSUGO）より[CR-Zで参戦することが決まり](../Page/ホンダ・CR-Z.md "wikilink")、7月4日に[ツインリンクもてぎ](../Page/ツインリンクもてぎ.md "wikilink")での[シェイクダウンと合わせて正式な体制が発表された](https://ja.wikipedia.org/wiki/シェイクダウン_\(モータースポーツ\) "wikilink")。[2013年](../Page/2013年.md "wikilink")（平成25年）には[アジアン・ル・マン・シリーズ](https://ja.wikipedia.org/wiki/アジアン・ル・マン・シリーズ "wikilink")（AsLMS）第5戦([富士](https://ja.wikipedia.org/wiki/富士スピードウェイ "wikilink"))で優勝したほか全戦で入賞した結果、ドライバー/チームのシリーズチャンピオンを獲得した。
 
 2005年（平成17年）からは、メンテナンスガレージ及び実質レース運営として[チーム国光](../Page/チーム国光.md "wikilink")の100号車を請け負った。
 
-2006年（平成18年）より始まった[全日本スポーツカー耐久選手権](https://ja.wikipedia.org/wiki/全日本スポーツカー耐久選手権 "wikilink") (JLMC) へ第2戦より参戦した。マシンはクラージュ・C70で、エンジンはMF458S ([V8](../Page/V型8気筒.md "wikilink") 4,500 cc [NA](../Page/自然吸気.md "wikilink"))、タイヤは[ミシュラン](../Page/ミシュラン.md "wikilink")を使用。しかし、[2007年](../Page/2007年.md "wikilink")（平成19年）シーズンをもってJLMCが消滅したため参戦を終了した。
+2006年（平成18年）より始まった[全日本スポーツカー耐久選手権](../Page/全日本スポーツカー耐久選手権.md "wikilink") (JLMC) へ第2戦より参戦した。マシンはクラージュ・C70で、エンジンはMF458S ([V8](../Page/V型8気筒.md "wikilink") 4,500 cc [NA](../Page/自然吸気.md "wikilink"))、タイヤは[ミシュラン](../Page/ミシュラン.md "wikilink")を使用。しかし、[2007年](../Page/2007年.md "wikilink")（平成19年）シーズンをもってJLMCが消滅したため参戦を終了した。
 
 エンジン・マニュファクチャラーとしては、SUPER GT（GT500のNSX及びGT300の[Vemac・RD408R](../Page/VEMAC.md "wikilink")）や[フォーミュラ・ニッポン](../Page/フォーミュラ・ニッポン.md "wikilink")や[F3等でエンジン供給を行っている](https://ja.wikipedia.org/wiki/フォーミュラ3 "wikilink")。2008年（平成10年）からは[世界ツーリングカー選手権](../Page/世界ツーリングカー選手権.md "wikilink") (WTCC) に参戦する[ホンダ・アコードユーロR](../Page/ホンダ・アコードユーロR.md "wikilink")にもエンジン供給を開始した。
 
@@ -97,13 +97,13 @@
 
 ## F1への挑戦
 
-[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）から[1988年](../Page/1988年.md "wikilink")（昭和63年）にかけて、無限単独でF1用[V8エンジンの製作に入り](../Page/V型8気筒.md "wikilink")、[ティレル・018](https://ja.wikipedia.org/wiki/ティレル・018 "wikilink")や[全日本F3000で使用された](https://ja.wikipedia.org/wiki/全日本F3000選手権 "wikilink")[レイナード](../Page/レイナード.md "wikilink")89D改を使用してのテスト走行を行った\[2\]。しかし、これと前後して後述する無限ホンダ[V10エンジン計画が動き出したため](https://ja.wikipedia.org/wiki/V型10気筒 "wikilink")、結局このときに製作されたV8エンジンは実戦デビューすることはなかった。
+[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）から[1988年](../Page/1988年.md "wikilink")（昭和63年）にかけて、無限単独でF1用[V8エンジンの製作に入り](../Page/V型8気筒.md "wikilink")、[ティレル・018](https://ja.wikipedia.org/wiki/ティレル・018 "wikilink")や[全日本F3000で使用された](https://ja.wikipedia.org/wiki/全日本F3000選手権 "wikilink")[レイナード](../Page/レイナード.md "wikilink")89D改を使用してのテスト走行を行った\[2\]。しかし、これと前後して後述する無限ホンダ[V10エンジン計画が動き出したため](../Page/V型10気筒.md "wikilink")、結局このときに製作されたV8エンジンは実戦デビューすることはなかった。
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Footwork_FA13_Festival_Italia_2018_Brands_Hatch_\(44299951301\).jpg "wikilink") 無限-ホンダ\]\] からまで、ホンダが前年に[ティレル](../Page/ティレル.md "wikilink")へ供給したV10エンジン「RA101E」の開発を無限が引継ぎ、「MF351H」と改称したエンジンを[フットワークへ供給することを発表した](https://ja.wikipedia.org/wiki/アロウズ "wikilink")。エンジンのブランド名は「無限-ホンダ("MUGEN-HONDA")」。ホンダは1992年限りでF1から撤退したが、その後も完全ではないものの、技術供与やエンジニアの派遣を行なっていた。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Footwork_FA13_Festival_Italia_2018_Brands_Hatch_\(44299951301\).jpg "wikilink") 無限-ホンダ\]\] からまで、ホンダが前年に[ティレル](../Page/ティレル.md "wikilink")へ供給したV10エンジン「RA101E」の開発を無限が引継ぎ、「MF351H」と改称したエンジンを[フットワークへ供給することを発表した](../Page/アロウズ.md "wikilink")。エンジンのブランド名は「無限-ホンダ("MUGEN-HONDA")」。ホンダは1992年限りでF1から撤退したが、その後も完全ではないものの、技術供与やエンジニアの派遣を行なっていた。
 
 [Alessandro_Zanardi_-_Lotus_109_at_the_1994_British_Grand_Prix_(32500452896).jpg](https://ja.wikipedia.org/wiki/File:Alessandro_Zanardi_-_Lotus_109_at_the_1994_British_Grand_Prix_\(32500452896\).jpg "fig:Alessandro_Zanardi_-_Lotus_109_at_the_1994_British_Grand_Prix_(32500452896).jpg") 無限-ホンダ\]\] は[ロータスへ供給を行った](../Page/チーム・ロータス.md "wikilink")。新設計V10エンジンの「MF351HD」を投入した第12戦[イタリアGPで](https://ja.wikipedia.org/wiki/1994年イタリアグランプリ "wikilink")[ジョニー・ハーバート](../Page/ジョニー・ハーバート.md "wikilink")が、予選4位を得る速さを発揮するが、決勝ではスタート直後に[ジョーダンの](../Page/ジョーダン・グランプリ.md "wikilink")[エディ・アーバイン](../Page/エディ・アーバイン.md "wikilink")に追突されてスピン。赤旗再スタートとなったが、新エンジンがレースカーに搭載された1基しかなく、旧型エンジン (MF351HC) を積んだ[Tカー](https://ja.wikipedia.org/wiki/Tカー "wikilink")（スペアカー）でのピットスタートとなってしまった。結局、この年1度も入賞することはできず、資金難に苦しんだチームはこの年をもって撤退した。
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Ligier_JS43.jpg "wikilink") 無限-ホンダ\]\] 排気量が3,000 ccに縮小されたには、[リジェ](../Page/リジェ.md "wikilink")に新エンジン「MF301H」を供給。の[モナコGPでは](https://ja.wikipedia.org/wiki/1996年モナコグランプリ "wikilink")、荒れたウェットレースを[オリビエ・パニス](../Page/オリビエ・パニス.md "wikilink")が制し、無限-ホンダに初勝利をもたらした。しかし、翌にリジェを買収した[プロストはオールフレンチチームを目指していたため](https://ja.wikipedia.org/wiki/プロスト・グランプリ "wikilink")、当時[プジョー](../Page/プジョー.md "wikilink")エンジンを使用していたジョーダンと交渉の末、エンジンをスワップする形となった。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Ligier_JS43.jpg "wikilink") 無限-ホンダ\]\] 排気量が3,000 ccに縮小されたには、[リジェ](../Page/リジェ.md "wikilink")に新エンジン「MF301H」を供給。の[モナコGPでは](https://ja.wikipedia.org/wiki/1996年モナコグランプリ "wikilink")、荒れたウェットレースを[オリビエ・パニス](../Page/オリビエ・パニス.md "wikilink")が制し、無限-ホンダに初勝利をもたらした。しかし、翌にリジェを買収した[プロストはオールフレンチチームを目指していたため](../Page/プロスト・グランプリ.md "wikilink")、当時[プジョー](../Page/プジョー.md "wikilink")エンジンを使用していたジョーダンと交渉の末、エンジンをスワップする形となった。
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Jordan_198_front-left_Donington_Grand_Prix_Collection.jpg "wikilink") 無限-ホンダ\]\] からジョーダンにエンジンを供給することになり、同年の[ベルギーGPで](https://ja.wikipedia.org/wiki/1998年ベルギーグランプリ "wikilink")、元ワールドチャンピオンの[デイモン・ヒル](https://ja.wikipedia.org/wiki/デイモン・ヒル "wikilink")が勝利し、このシーズンでチームはコンストラクターズランキングで4位となった。翌は[ハインツ＝ハラルド・フレンツェン](../Page/ハインツ＝ハラルド・フレンツェン.md "wikilink")が2勝を挙げ、終盤までドライバーズチャンピオン争いに絡む活躍を見せ、コンストラクターズランキングで3位にまで躍進した。
 
@@ -126,7 +126,7 @@
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アロウズ" title="wikilink">フットワーク</a>-無限ホンダ</p></td>
+<td><p><a href="../Page/アロウズ.md" title="wikilink">フットワーク</a>-無限ホンダ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/フットワーク・FA13" title="wikilink">フットワーク・FA13</a></p></td>
 <td><p>MF351H</p></td>
 <td><p>16</p></td>
@@ -135,7 +135,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アロウズ" title="wikilink">フットワーク</a>-無限ホンダ</p></td>
+<td><p><a href="../Page/アロウズ.md" title="wikilink">フットワーク</a>-無限ホンダ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/フットワーク・FA13" title="wikilink">フットワーク・FA13</a>B<br />
 <a href="https://ja.wikipedia.org/wiki/フットワーク・FA14" title="wikilink">フットワーク・FA14</a></p></td>
 <td><p>MF351HB</p></td>
@@ -173,7 +173,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プロスト・グランプリ" title="wikilink">プロスト</a>-無限ホンダ</p></td>
+<td><p><a href="../Page/プロスト・グランプリ.md" title="wikilink">プロスト</a>-無限ホンダ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/プロスト・JS45" title="wikilink">プロスト・JS45</a></p></td>
 <td><p>MF301HA / MF301HB</p></td>
 <td><p>17</p></td>

@@ -49,7 +49,7 @@
           - 音量設定 5ビット[対数](../Page/対数.md "wikilink")変換方式
           - メイン音量制御レジスタ内蔵
           - 1周期32アドレス[波形メモリ方式](../Page/波形メモリ音源.md "wikilink")
-          - [LFO内蔵](https://ja.wikipedia.org/wiki/LFO_\(電子楽器\) "wikilink")
+          - [LFO内蔵](../Page/LFO_\(電子楽器\).md "wikilink")
           - 製造プロセス CMOS
           - 電源電圧 +5V
           - 80ピンQFP

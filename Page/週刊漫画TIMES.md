@@ -7,11 +7,11 @@
 
 日本初の[週刊](https://ja.wikipedia.org/wiki/週刊 "wikilink")漫画雑誌として[1956年](../Page/1956年.md "wikilink")[11月](../Page/11月.md "wikilink")創刊\[1\]。毎週[金曜日](../Page/金曜日.md "wikilink")に発売。通称『週漫（しゅうまん）』。キャッチコピーは「**一週間をユカイに生きる\!**」\[2\]。
 
-『[週刊漫画ゴラク](../Page/週刊漫画ゴラク.md "wikilink")』（[日本文芸社](../Page/日本文芸社.md "wikilink")）・『[漫画サンデー](../Page/漫画サンデー.md "wikilink")』（[実業之日本社](https://ja.wikipedia.org/wiki/実業之日本社 "wikilink")、[2013年](../Page/2013年.md "wikilink")休刊）とともに、中壮年世代向けの漫画誌として名高い。3誌ともに、かつては大人漫画（[ナンセンス漫画](https://ja.wikipedia.org/wiki/ナンセンス漫画 "wikilink")）を中心とした構成であったが、大人漫画の退潮により[ストーリー漫画](../Page/ストーリー漫画.md "wikilink")の雑誌となっている。
+『[週刊漫画ゴラク](../Page/週刊漫画ゴラク.md "wikilink")』（[日本文芸社](../Page/日本文芸社.md "wikilink")）・『[漫画サンデー](../Page/漫画サンデー.md "wikilink")』（[実業之日本社](../Page/実業之日本社.md "wikilink")、[2013年](../Page/2013年.md "wikilink")休刊）とともに、中壮年世代向けの漫画誌として名高い。3誌ともに、かつては大人漫画（[ナンセンス漫画](https://ja.wikipedia.org/wiki/ナンセンス漫画 "wikilink")）を中心とした構成であったが、大人漫画の退潮により[ストーリー漫画](../Page/ストーリー漫画.md "wikilink")の雑誌となっている。
 
 創刊当初は[官能小説](../Page/官能小説.md "wikilink")や軽い性描写を含んだ[ポルノ漫画が中心であり](https://ja.wikipedia.org/wiki/成人漫画 "wikilink")、『ゴラク』『マンサン』で連載されている[やくざ](https://ja.wikipedia.org/wiki/やくざ "wikilink")もの漫画は2000年代以降ほぼ皆無である。2000年代以降、『[モーニング](https://ja.wikipedia.org/wiki/モーニング_\(漫画雑誌\) "wikilink")』や『[ビッグコミック](../Page/ビッグコミック.md "wikilink")』などヤング向け青年漫画雑誌と同じく、特定の職業を題材に恋愛や社会問題を絡めた職業もの・社会派作品が多くなった一方で、[陸乃家鴨](../Page/厦門潤.md "wikilink")・[真鍋譲治](../Page/真鍋譲治.md "wikilink")など18禁漫画家として活動する作家の一般作品の連載も多い。連載作品のうち毎号掲載なのは四分の一程度でその他は不定期連載となっており、雑誌の巻末には4号後までの掲載スケジュールが載せられている。2012年からは公式サイト上でも同様の内容を掲載している\[3\]。
 
-過去には[植田まさし](../Page/植田まさし.md "wikilink")や[鈴木義司](../Page/鈴木義司.md "wikilink")、[小島功](../Page/小島功.md "wikilink")、[東海林さだお](../Page/東海林さだお.md "wikilink")、[コジロー](../Page/コジロー.md "wikilink")、[田中しょう](../Page/田中しょう.md "wikilink")らによるナンセンス漫画・[4コマ漫画](../Page/4コマ漫画.md "wikilink")も数多く掲載されていたが、ナンセンス漫画は[針すなお](https://ja.wikipedia.org/wiki/針すなお "wikilink")の「ウイークエンド笑」が2016年に終了したのを最後に掲載されていない。なお植田と東海林は当誌で漫画家デビューを果たした。
+過去には[植田まさし](../Page/植田まさし.md "wikilink")や[鈴木義司](../Page/鈴木義司.md "wikilink")、[小島功](../Page/小島功.md "wikilink")、[東海林さだお](../Page/東海林さだお.md "wikilink")、[コジロー](../Page/コジロー.md "wikilink")、[田中しょう](../Page/田中しょう.md "wikilink")らによるナンセンス漫画・[4コマ漫画](../Page/4コマ漫画.md "wikilink")も数多く掲載されていたが、ナンセンス漫画は[針すなお](../Page/針すなお.md "wikilink")の「ウイークエンド笑」が2016年に終了したのを最後に掲載されていない。なお植田と東海林は当誌で漫画家デビューを果たした。
 
 派生誌として『週漫スペシャル』や『別冊週漫スペシャル』などがあり\[4\]、いずれもお色気路線に特化した漫画誌であったが休刊している。また、4コマ専門誌『[まんがタイム](../Page/まんがタイム.md "wikilink")』は本誌の増刊として刊行が開始された\[5\]。
 
@@ -23,7 +23,7 @@
 
 創刊時から長らく、写真風のリアルなタッチで描かれた女性の一枚絵が表紙を飾っていた。
 
-表紙イラストは[イラストレーター](../Page/イラストレーター.md "wikilink")の[塚本馨三](https://ja.wikipedia.org/wiki/塚本馨三 "wikilink")（つかもと けいぞう）が[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")から担当。[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")4月11日号から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")7月18日号までの38年5ヶ月の期間を対象として「一雑誌のイラスト制作者として世界一長いキャリア」の名目で[ギネス・ワールド・レコーズ](https://ja.wikipedia.org/wiki/ギネス・ワールド・レコーズ "wikilink")に認定されている\[7\]。
+表紙イラストは[イラストレーター](../Page/イラストレーター.md "wikilink")の[塚本馨三](https://ja.wikipedia.org/wiki/塚本馨三 "wikilink")（つかもと けいぞう）が[1970年](../Page/1970年.md "wikilink")から担当。[1970年](../Page/1970年.md "wikilink")4月11日号から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")7月18日号までの38年5ヶ月の期間を対象として「一雑誌のイラスト制作者として世界一長いキャリア」の名目で[ギネス・ワールド・レコーズ](https://ja.wikipedia.org/wiki/ギネス・ワールド・レコーズ "wikilink")に認定されている\[7\]。
 
 その後も休むことなく担当していたが、2010年ごろから掲載作品のカラーイラストを塚本のイラストに端に添える形となり、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")10月29日号からは逆に掲載作品のカラーイラストがメインとなった。そして、2011年5月6日号をもって塚本は表紙担当を降板\[8\]。連続掲載記録は41年で終了となり、表紙は掲載作品のカラーイラストのみとなった。
 
@@ -61,7 +61,7 @@
   - 神客万来\!（[ねむようこ](https://ja.wikipedia.org/wiki/ねむようこ "wikilink")）
   - [つぐなう肌](https://ja.wikipedia.org/wiki/つぐなう肌 "wikilink")（[優斗](https://ja.wikipedia.org/wiki/優斗 "wikilink")、原作：[村生ミオ](../Page/村生ミオ.md "wikilink")、既刊1巻\[19\]）
   - つつみさんの罪なスイーツ（[山本喜子](https://ja.wikipedia.org/wiki/山本喜子 "wikilink")）
-  - [妻、小学生になる。](https://ja.wikipedia.org/wiki/妻、小学生になる。 "wikilink")（[村田椰融](https://ja.wikipedia.org/wiki/村田椰融 "wikilink")、既刊3巻\[20\]）
+  - [妻、小学生になる。](../Page/妻、小学生になる。.md "wikilink")（[村田椰融](https://ja.wikipedia.org/wiki/村田椰融 "wikilink")、既刊3巻\[20\]）
   - [ねこだまり](https://ja.wikipedia.org/wiki/ねこだまり "wikilink")（[郷本](https://ja.wikipedia.org/wiki/郷本 "wikilink")、既刊2巻\[21\]）
   - [ねこまた。](https://ja.wikipedia.org/wiki/ねこまた。 "wikilink")（[琥狗ハヤテ](https://ja.wikipedia.org/wiki/琥狗ハヤテ "wikilink")、既刊5巻\[22\]）
   - [のうぎょうカレッジ](https://ja.wikipedia.org/wiki/のうぎょうカレッジ "wikilink")（[風町ふく](https://ja.wikipedia.org/wiki/風町ふく "wikilink")、既刊2巻\[23\]）
@@ -92,7 +92,7 @@
   - アヒルのお風呂（[ふうたまろ](https://ja.wikipedia.org/wiki/ふうたまろ "wikilink")、全1巻\[33\]）
   - [一緒に暮らすための約束をいくつか](https://ja.wikipedia.org/wiki/一緒に暮らすための約束をいくつか "wikilink")（[陸乃家鴨](../Page/厦門潤.md "wikilink")、全2巻\[34\]）
   - インモラル 性犯罪捜査班（[坂辺周一](https://ja.wikipedia.org/wiki/坂辺周一 "wikilink")、全3巻）
-  - ウイークエンド笑（[針すなお](https://ja.wikipedia.org/wiki/針すなお "wikilink")）
+  - ウイークエンド笑（[針すなお](../Page/針すなお.md "wikilink")）
   - 永遠のみずき（[雅亜公](../Page/雅亜公.md "wikilink")）
   - 縁切湯屋物語（[いけだまや](https://ja.wikipedia.org/wiki/いけだまや "wikilink")）
   - **オーダーメイド**（[髙橋一仁](https://ja.wikipedia.org/wiki/髙橋一仁 "wikilink")、全4巻\[35\]・コミックFUZでは金曜枠）
@@ -142,7 +142,7 @@
   - 終末家族計画（[ふうたまろ](https://ja.wikipedia.org/wiki/ふうたまろ "wikilink")、全1巻\[62\]
   - [靴理人](https://ja.wikipedia.org/wiki/靴理人 "wikilink")（シューリニン）（[尾々根正](https://ja.wikipedia.org/wiki/尾々根正 "wikilink")、企画協力：[大鳥居明楽](https://ja.wikipedia.org/wiki/大鳥居明楽 "wikilink")、全3巻\[63\]）
   - 昭和情話（[黒鉄ヒロシ](../Page/黒鉄ヒロシ.md "wikilink")）
-  - [女帝](../Page/女帝_SUPER_QUEEN.md "wikilink")（原作：[倉科遼](https://ja.wikipedia.org/wiki/倉科遼 "wikilink")、作画：[和気一作](https://ja.wikipedia.org/wiki/和気一作 "wikilink")、全24巻\[64\]）
+  - [女帝](../Page/女帝_SUPER_QUEEN.md "wikilink")（原作：[倉科遼](../Page/倉科遼.md "wikilink")、作画：[和気一作](https://ja.wikipedia.org/wiki/和気一作 "wikilink")、全24巻\[64\]）
   - 新女喰い（原作：広山義慶、作画：みね武）
   - 新・濡れないイチゴ〜裏バイトの女〜（坂辺周一）
   - 新漫画文学全集（[東海林さだお](../Page/東海林さだお.md "wikilink")）
@@ -150,7 +150,7 @@
   - 戦国ケンタウロス（[荒木俊明](https://ja.wikipedia.org/wiki/荒木俊明 "wikilink")、全1巻\[66\]\[67\]）
   - 戦国サバイバル応仁の乱 いくさ餓鬼（脚本：[沖吾郎](../Page/さいとう・たかを.md "wikilink")、作画：[石川フミヤス](https://ja.wikipedia.org/wiki/石川フミヤス "wikilink")、全2巻\[68\]）
   - [続 黒い太陽 女王蘭](../Page/黒い太陽.md "wikilink")（原作：[新堂冬樹](../Page/新堂冬樹.md "wikilink")、作画：[笠原倫](https://ja.wikipedia.org/wiki/笠原倫 "wikilink")）
-  - **[それでも僕らはヤってない](https://ja.wikipedia.org/wiki/それでも僕らはヤってない "wikilink")**（[村山渉](../Page/村山渉.md "wikilink")、全11巻\[69\]・コミックFUZでは火曜枠）
+  - **[それでも僕らはヤってない](../Page/それでも僕らはヤってない.md "wikilink")**（[村山渉](../Page/村山渉.md "wikilink")、全11巻\[69\]・コミックFUZでは火曜枠）
 
 ### た行
 
@@ -184,7 +184,7 @@
   - 七日同棲（[坂部周一](https://ja.wikipedia.org/wiki/坂部周一 "wikilink")、全1巻）
   - **[肉極道](https://ja.wikipedia.org/wiki/肉極道 "wikilink")**（[森尾正博](https://ja.wikipedia.org/wiki/森尾正博 "wikilink")、原作：[佐々木善章](https://ja.wikipedia.org/wiki/佐々木善章 "wikilink")、全5巻\[86\]・コミックFUZでは月曜枠）
   - 日曜日は、ネコごはん（[山本喜子](https://ja.wikipedia.org/wiki/山本喜子 "wikilink")、全2巻\[87\]）
-  - ネオン蝶（原作：[倉科遼](https://ja.wikipedia.org/wiki/倉科遼 "wikilink")、作画：[東克美](https://ja.wikipedia.org/wiki/東克美 "wikilink")、全10巻\[88\]）
+  - ネオン蝶（原作：[倉科遼](../Page/倉科遼.md "wikilink")、作画：[東克美](https://ja.wikipedia.org/wiki/東克美 "wikilink")、全10巻\[88\]）
   - [ねるじょし](https://ja.wikipedia.org/wiki/ねるじょし "wikilink")（[酉川宇宙](https://ja.wikipedia.org/wiki/酉川宇宙 "wikilink")、全3巻\[89\]）
 
 ### は行
@@ -265,7 +265,7 @@
 <!-- end list -->
 
   -
-    選者：[はらたいら](https://ja.wikipedia.org/wiki/はらたいら "wikilink")。1コマ漫画の空白の吹き出し部分に読者投稿によって[台詞](../Page/台詞.md "wikilink")を付けるというもので、優秀な投稿者には賞金がもらえるという企画であった。なお、1コマ漫画の作者は毎回変わっていた。このような企画は、まんがタイムに掲載されていた「アドリブ大賞」（植田まさしの漫画の空白吹き出し部分に読者投稿による台詞を付けるもの）にも生かされた。
+    選者：[はらたいら](../Page/はらたいら.md "wikilink")。1コマ漫画の空白の吹き出し部分に読者投稿によって[台詞](../Page/台詞.md "wikilink")を付けるというもので、優秀な投稿者には賞金がもらえるという企画であった。なお、1コマ漫画の作者は毎回変わっていた。このような企画は、まんがタイムに掲載されていた「アドリブ大賞」（植田まさしの漫画の空白吹き出し部分に読者投稿による台詞を付けるもの）にも生かされた。
 
 <!-- end list -->
 
@@ -292,7 +292,7 @@
 | [2000年](../Page/2000年.md "wikilink")（平成12年）                    | 46万部 | 2001年版 出版指標年報                        |
 | [2003年](../Page/2003年.md "wikilink")（平成15年）                    | 35万部 | 2004年版 出版指標年報 ISBN 4-9901618-1-5     |
 | [2004年](../Page/2004年.md "wikilink")（平成16年）                    | 32万部 | 2005年版 出版指標年報 ISBN 4-9901618-2-3     |
-| [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年） | 32万部 | 2006年版 出版指標年報 ISBN 4-9901618-3-1     |
+| [2005年](../Page/2005年.md "wikilink")（平成17年）                    | 32万部 | 2006年版 出版指標年報 ISBN 4-9901618-3-1     |
 | [2006年](../Page/2006年.md "wikilink")（平成18年）                    | 30万部 | 2007年版 出版指標年報 ISBN 978-4-9901618-4-2 |
 | [2007年](../Page/2007年.md "wikilink")（平成19年）                    | 28万部 | 2008年版 出版指標年報 ISBN 978-4-9901618-5-9 |
 | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年） | 24万部 | 2009年版 出版指標年報 ISBN 978-4-9901618-6-6 |

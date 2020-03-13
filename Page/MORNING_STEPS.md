@@ -1,7 +1,7 @@
 > この記事は[MORNING STEPS](https://ja.wikipedia.org/wiki/MORNING_STEPS)から翻訳されています。
 
 
-**MORNING STEPS**（モーニングステップス）は、[FMヨコハマにて毎週月曜日から木曜日の](https://ja.wikipedia.org/wiki/横浜エフエム放送 "wikilink")6:00 - 9:00に放送されていたニュース・スポーツを中心とした朝のラジオ番組。姉妹番組として金曜日に放送される『[MORNING STEPS FRIDAY](https://ja.wikipedia.org/wiki/MORNING_STEPS_FRIDAY "wikilink")』があった。
+**MORNING STEPS**（モーニングステップス）は、[FMヨコハマにて毎週月曜日から木曜日の](../Page/横浜エフエム放送.md "wikilink")6:00 - 9:00に放送されていたニュース・スポーツを中心とした朝のラジオ番組。姉妹番組として金曜日に放送される『[MORNING STEPS FRIDAY](../Page/MORNING_STEPS_FRIDAY.md "wikilink")』があった。
 
 ## 概要
 
@@ -93,7 +93,7 @@
 
 ## コーナー
 
-  - [RADIO SHOPPING](https://ja.wikipedia.org/wiki/ラジオショッピング "wikilink") （6:30 - ）\[1\]
+  - [RADIO SHOPPING](../Page/ラジオショッピング.md "wikilink") （6:30 - ）\[1\]
   - 大野智のARASHI DISCOVERY （6:45頃 - ）\[2\]
   - SPORTS LINE （7:17 - ）\[3\]
   - DRIVER'S MORNING Q （7:30 - ）（提供：神奈川県自動車整備振興会）\[4\]
@@ -127,7 +127,7 @@
   - シュテルンあざみ野 books A to Z（出演：[北村浩子](../Page/北村浩子.md "wikilink")）\[15\]
   - [ドーター・コパ](https://ja.wikipedia.org/wiki/ドーター・コパ "wikilink")とお出かけ～美穂のイージー風水～\[16\]
       - ドーター・コパのイージー風水～風水的人生相談\[17\]
-  - YOKOHAMA HISTORY（出演：[中田宏](../Page/中田宏.md "wikilink")（当時[横浜市長](https://ja.wikipedia.org/wiki/横浜市長 "wikilink")）\[18\]　2006年4月 - 同年9月の期間は[義家弘介](https://ja.wikipedia.org/wiki/義家弘介 "wikilink")が出演\[19\]）
+  - YOKOHAMA HISTORY（出演：[中田宏](../Page/中田宏.md "wikilink")（当時[横浜市長](https://ja.wikipedia.org/wiki/横浜市長 "wikilink")）\[18\]　2006年4月 - 同年9月の期間は[義家弘介](../Page/義家弘介.md "wikilink")が出演\[19\]）
   - YOKOHAMA KEY PERSON（出演：中田宏（当時横浜市長））\[20\]。
   - スポーツマニア\[21\]
   - KANAGAWA MORNING WINDS（提供：[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")）\[22\]
@@ -147,7 +147,7 @@
 
 ## 関連項目
 
-  - [MORNING STEPS FRIDAY](https://ja.wikipedia.org/wiki/MORNING_STEPS_FRIDAY "wikilink")
+  - [MORNING STEPS FRIDAY](../Page/MORNING_STEPS_FRIDAY.md "wikilink")
 
 ## 外部リンク
 

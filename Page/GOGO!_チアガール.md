@@ -9,7 +9,7 @@
 
 ## エピソード
 
-  - それまで[スポ根](https://ja.wikipedia.org/wiki/スポ根 "wikilink")ものドラマに添えられていたぐらいの[チアガール（チアリーダー）にスポットを当てた作品である](https://ja.wikipedia.org/wiki/チアリーダー "wikilink")。ドラマの中の華麗なチアリーディングの演舞は、吹き替えなしで出演者自らが演じていた。そのため、女子高生の役柄と同年代を演じていた彼女らは、ドラマ撮影期間中は学校からの宿題とドラマの台詞覚え、そして演舞の練習に忙殺されていたという。
+  - それまで[スポ根](../Page/スポ根.md "wikilink")ものドラマに添えられていたぐらいの[チアガール（チアリーダー）にスポットを当てた作品である](https://ja.wikipedia.org/wiki/チアリーダー "wikilink")。ドラマの中の華麗なチアリーディングの演舞は、吹き替えなしで出演者自らが演じていた。そのため、女子高生の役柄と同年代を演じていた彼女らは、ドラマ撮影期間中は学校からの宿題とドラマの台詞覚え、そして演舞の練習に忙殺されていたという。
   - 当時、[松田聖子](../Page/松田聖子.md "wikilink")と女性アイドル人気を二分していた三原順子を主演に据えたが、その三原は番組放映期間中に出演者のひとりで、[ケンちゃん役で有名な](../Page/ケンちゃんシリーズ.md "wikilink")[宮脇康之と恋人宣言をしてしまう](../Page/宮脇健.md "wikilink")。この事により、三原のアイドルとしての人気はガタ落ちになり、宮脇も芸能界から干されていく羽目となってしまう。
   - 当時、出演していた[甲斐智枝美](../Page/甲斐智枝美.md "wikilink")と[日高のり子](../Page/日高のり子.md "wikilink")は、容姿が似ていたことから『[明星](../Page/Myojo.md "wikilink")』などで紹介されたことがある\[2\]。
 
@@ -33,7 +33,7 @@
   - 西尾夏江：[田口トモ子](https://ja.wikipedia.org/wiki/田口トモ子 "wikilink")
   - 川辺熊夫：[宮脇康之](https://ja.wikipedia.org/wiki/宮脇康之 "wikilink")
   - 山下虎吉：[伍代参平](../Page/伍代参平.md "wikilink")
-  - 星野誠：[鶴見辰吾](https://ja.wikipedia.org/wiki/鶴見辰吾 "wikilink")
+  - 星野誠：[鶴見辰吾](../Page/鶴見辰吾.md "wikilink")
   - 島田健二：[岡本富士太](../Page/岡本富士太.md "wikilink")
   - 横山大造（校長）：[穂積隆信](../Page/穂積隆信.md "wikilink")
   - 村木ふみ：[真屋順子](../Page/真屋順子.md "wikilink")
@@ -45,7 +45,7 @@
 ## スタッフ
 
   - プロデューサー：黒田正司、新江幸生（東宝）、鈴野尚志、土井利泰（TBS）
-  - 作：田口耕三（担当回･･･\#1、\#2、\#4、\#5、\#13、\#14、\#16、\#18 など）、加瀬高之（担当回･･･\#3、\#6、\#15、\#18 など）、[首藤剛志](https://ja.wikipedia.org/wiki/首藤剛志 "wikilink")（担当回･･･\#12、\#18 など）、ほか
+  - 作：田口耕三（担当回･･･\#1、\#2、\#4、\#5、\#13、\#14、\#16、\#18 など）、加瀬高之（担当回･･･\#3、\#6、\#15、\#18 など）、[首藤剛志](../Page/首藤剛志.md "wikilink")（担当回･･･\#12、\#18 など）、ほか
   - 音楽：青山八郎
   - 監督：[松森健](https://ja.wikipedia.org/wiki/松森健 "wikilink")（担当回･･･\#1、\#2、\#3、\#16、\#17、\#18 など）、[竹林進](https://ja.wikipedia.org/wiki/竹林進 "wikilink")（担当回･･･\#4、\#5、\#6、\#13、\#14、\#15 など）、日高武治（担当回･･･\#12 など）、[石田勝心](https://ja.wikipedia.org/wiki/石田勝心 "wikilink")（担当回･･･\#19 など）、ほか
   - 製作：東宝株式会社・TBS
@@ -104,7 +104,7 @@
 
 ## ユニフォーム
 
-[Cowboys_cheerleaders_Kuwait.jpg](https://ja.wikipedia.org/wiki/File:Cowboys_cheerleaders_Kuwait.jpg "fig:Cowboys_cheerleaders_Kuwait.jpg")の応援団カウガールズのユニフォーム\]\] チアガール達が着るユニフォームは、[アメリカンフットボール](../Page/アメリカンフットボール.md "wikilink")のプロリーグ[NFL](../Page/NFL.md "wikilink")に所属するNFC東地区のチーム、[ダラス・カウボーイズ](../Page/ダラス・カウボーイズ.md "wikilink")のチアリーダーのユニフォームのデザインを借用して、ブルーのへそ出し[ブラウス](../Page/ブラウス.md "wikilink")に白い[ホットパンツ](https://ja.wikipedia.org/wiki/ホットパンツ "wikilink")、白い[ブーツ](https://ja.wikipedia.org/wiki/ブーツ "wikilink")とかなりセクシーなものだった。
+[Cowboys_cheerleaders_Kuwait.jpg](https://ja.wikipedia.org/wiki/File:Cowboys_cheerleaders_Kuwait.jpg "fig:Cowboys_cheerleaders_Kuwait.jpg")の応援団カウガールズのユニフォーム\]\] チアガール達が着るユニフォームは、[アメリカンフットボール](../Page/アメリカンフットボール.md "wikilink")のプロリーグ[NFL](../Page/NFL.md "wikilink")に所属するNFC東地区のチーム、[ダラス・カウボーイズ](../Page/ダラス・カウボーイズ.md "wikilink")のチアリーダーのユニフォームのデザインを借用して、ブルーのへそ出し[ブラウス](../Page/ブラウス.md "wikilink")に白い[ホットパンツ](../Page/ホットパンツ.md "wikilink")、白い[ブーツ](https://ja.wikipedia.org/wiki/ブーツ "wikilink")とかなりセクシーなものだった。
 
   - [ダラス・カウボーイズ チアリーダー公式サイト](http://www.dallascowboys.com/cheerleaders/home.cfm)
   - [チアガールのユニフォーム着用の写真が載る、ドラマ主題歌「Let's Go\! 青春」のジャケット](http://www.otokichi.com/upload_img/tmp_01/tmp_09/tmp_07/WQKeqpbz.JPG)

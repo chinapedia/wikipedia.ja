@@ -27,9 +27,9 @@
 
 [Taça_Latina_SL_Benfica_HLA.jpg](https://ja.wikipedia.org/wiki/File:Taça_Latina_SL_Benfica_HLA.jpg "fig:Taça_Latina_SL_Benfica_HLA.jpg")\]\]
 
-1950年、[エスタディオ・ナシオナルで](https://ja.wikipedia.org/wiki/エスタディオ・ナシオナル_\(リスボン\) "wikilink")[FCジロンダン・ボルドー](https://ja.wikipedia.org/wiki/FCジロンダン・ボルドー "wikilink")（フランス）を下して[ラテン・カップ](../Page/ラテン・カップ.md "wikilink")を制した。ラテン・カップはスペイン、フランス、イタリア、ポルトガルの各国優勝クラブが争った大会であり、当時のヨーロッパでもっとも権威ある国際カップ戦だった。1954年には[ブラジル人](https://ja.wikipedia.org/wiki/ブラジル人 "wikilink")の[オットー・グロリア](https://ja.wikipedia.org/wiki/オットー・グロリア "wikilink")監督が就任し、それまでの[WMフォーメーション](../Page/WMフォーメーション.md "wikilink")に代わる[4-2-4](../Page/4-2-4.md "wikilink")フォーメーションを採用したほか、サッカーがプロスポーツであるという意識をポルトガルにもたらした\[13\]。1950年代には強豪クラブがこぞって大規模なスタジアムを建設しており、ベンフィカも1952年に[エスタディオ・ダ・ルス](https://ja.wikipedia.org/wiki/エスタディオ・ダ・ルス_\(1954年\) "wikilink")（2003年に完成した同名のスタジアムとは異なる）をオープンさせた\[14\]\[15\]。当初40,000人収容だったスタジアムはクラブの発展とともに増築され、1980年代にはヨーロッパ最大・世界第3位の135,000人収容まで拡張されている。1950年代後半には、ストライカーの[ジョゼ・アグアス](https://ja.wikipedia.org/wiki/ジョゼ・アグアス "wikilink")などポルトガル人選手の他に、キーパーの[アルベルト・ダ・コスタ・ペレイラ](https://ja.wikipedia.org/wiki/アルベルト・ダ・コスタ・ペレイラ "wikilink")や[マリオ・コルナ](../Page/マリオ・コルナ.md "wikilink")などモザンビーク出身選手も在籍していた。1950年代にはプリメイラ・ジヴィゾンで3回優勝し、タッサ・デ・ポルトガルで6回優勝した。
+1950年、[エスタディオ・ナシオナルで](https://ja.wikipedia.org/wiki/エスタディオ・ナシオナル_\(リスボン\) "wikilink")[FCジロンダン・ボルドー](../Page/FCジロンダン・ボルドー.md "wikilink")（フランス）を下して[ラテン・カップ](../Page/ラテン・カップ.md "wikilink")を制した。ラテン・カップはスペイン、フランス、イタリア、ポルトガルの各国優勝クラブが争った大会であり、当時のヨーロッパでもっとも権威ある国際カップ戦だった。1954年には[ブラジル人](https://ja.wikipedia.org/wiki/ブラジル人 "wikilink")の[オットー・グロリア](https://ja.wikipedia.org/wiki/オットー・グロリア "wikilink")監督が就任し、それまでの[WMフォーメーション](../Page/WMフォーメーション.md "wikilink")に代わる[4-2-4](../Page/4-2-4.md "wikilink")フォーメーションを採用したほか、サッカーがプロスポーツであるという意識をポルトガルにもたらした\[13\]。1950年代には強豪クラブがこぞって大規模なスタジアムを建設しており、ベンフィカも1952年に[エスタディオ・ダ・ルス](https://ja.wikipedia.org/wiki/エスタディオ・ダ・ルス_\(1954年\) "wikilink")（2003年に完成した同名のスタジアムとは異なる）をオープンさせた\[14\]\[15\]。当初40,000人収容だったスタジアムはクラブの発展とともに増築され、1980年代にはヨーロッパ最大・世界第3位の135,000人収容まで拡張されている。1950年代後半には、ストライカーの[ジョゼ・アグアス](https://ja.wikipedia.org/wiki/ジョゼ・アグアス "wikilink")などポルトガル人選手の他に、キーパーの[アルベルト・ダ・コスタ・ペレイラ](https://ja.wikipedia.org/wiki/アルベルト・ダ・コスタ・ペレイラ "wikilink")や[マリオ・コルナ](../Page/マリオ・コルナ.md "wikilink")などモザンビーク出身選手も在籍していた。1950年代にはプリメイラ・ジヴィゾンで3回優勝し、タッサ・デ・ポルトガルで6回優勝した。
 
-[UEFAチャンピオンズカップでは第](../Page/UEFAチャンピオンズリーグ.md "wikilink")1回大会の1955-56シーズンから1959-60シーズンまで[レアル・マドリード](https://ja.wikipedia.org/wiki/レアル・マドリード "wikilink")（スペイン）が5連覇していたが、レアル・マドリードの6連覇を阻んだのはベンフィカだった。1959年にはハンガリー人の[ベーラ・グットマン](https://ja.wikipedia.org/wiki/ベーラ・グットマン "wikilink")監督が就任し、1960-61シーズンの同大会では1回戦で[ウーイペシュト・ドージャFC](https://ja.wikipedia.org/wiki/ウーイペシュトFC "wikilink")（ハンガリー）、準々決勝で[オーフスGF](../Page/オーフスGF.md "wikilink")（デンマーク）、準決勝で[SKラピード・ウィーン](https://ja.wikipedia.org/wiki/SKラピード・ウィーン "wikilink")（オーストリア）を破って決勝に進出。スイスの[ベルン](../Page/ベルン.md "wikilink")で行なわれた決勝はスペイン王者の[FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")（スペイン）との対戦となり、2-2の同点から相手キーパーの[アントニ・ラマレッツ](../Page/アントニ・ラマレッツ.md "wikilink")がオウンゴールを記録してベンフィカの初優勝が決まった\[16\]。1961年夏にはモザンビーク出身の[エウゼビオ](../Page/エウゼビオ.md "wikilink")が本格的にチームに加わり\[17\]、黒豹と呼ばれたエウゼビオ、コルナ、[ジョゼ・アウグスト・トーレス](https://ja.wikipedia.org/wiki/ジョゼ・アウグスト・トーレス "wikilink")などで構成される攻撃陣は抜群の破壊力を誇った。1961年9月には[インターコンチネンタルカップで](../Page/インターコンチネンタルカップ_\(サッカー\).md "wikilink")[ナシオナル・モンテビデオ](../Page/ナシオナル・モンテビデオ.md "wikilink")（ウルグアイ）と対戦したが、プレーオフの末に敗れた。1961-62シーズンのUEFAチャンピオンズカップでは1回戦で[FKアウストリア・ウィーン](../Page/FKアウストリア・ウィーン.md "wikilink")（オーストリア）、準々決勝で[1.FCニュルンベルク](https://ja.wikipedia.org/wiki/1.FCニュルンベルク "wikilink")（ドイツ）、準決勝で[トッテナム・ホットスパーFC](../Page/トッテナム・ホットスパーFC.md "wikilink")（イングランド）を破り、2シーズン連続で決勝に進出。オランダの[アムステルダム](https://ja.wikipedia.org/wiki/アムステルダム "wikilink")で行なわれた決勝では、[アルフレッド・ディ・ステファノ](../Page/アルフレッド・ディ・ステファノ.md "wikilink")や[フェレンツ・プスカシュ](../Page/フェレンツ・プスカシュ.md "wikilink")、[ルイス・デル・ソル](../Page/ルイス・デル・ソル.md "wikilink")などを擁したレアル・マドリードと対戦。プシュカーシュが前半だけでハットトリックを達成し、2点差を付けられたベンフィカは劣勢だったが、4点に絡んだエウゼビオの活躍で5-3と逆転し、大会2連覇を果たした\[18\]。1962年のインターコンチネンタルカップでは[ペレ](../Page/ペレ.md "wikilink")を擁する[サントスFC](../Page/サントスFC.md "wikilink")（ブラジル）と対戦したが、ホーム&アウェーともに敗れて優勝を逃した。この時代のポルトガルリーグでは植民地出身選手が何人もプレーしていたが、植民地以外の外国人選手の登録は認められていなかった\[19\]。
+[UEFAチャンピオンズカップでは第](../Page/UEFAチャンピオンズリーグ.md "wikilink")1回大会の1955-56シーズンから1959-60シーズンまで[レアル・マドリード](https://ja.wikipedia.org/wiki/レアル・マドリード "wikilink")（スペイン）が5連覇していたが、レアル・マドリードの6連覇を阻んだのはベンフィカだった。1959年にはハンガリー人の[ベーラ・グットマン](https://ja.wikipedia.org/wiki/ベーラ・グットマン "wikilink")監督が就任し、1960-61シーズンの同大会では1回戦で[ウーイペシュト・ドージャFC](https://ja.wikipedia.org/wiki/ウーイペシュトFC "wikilink")（ハンガリー）、準々決勝で[オーフスGF](../Page/オーフスGF.md "wikilink")（デンマーク）、準決勝で[SKラピード・ウィーン](../Page/SKラピード・ウィーン.md "wikilink")（オーストリア）を破って決勝に進出。スイスの[ベルン](../Page/ベルン.md "wikilink")で行なわれた決勝はスペイン王者の[FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")（スペイン）との対戦となり、2-2の同点から相手キーパーの[アントニ・ラマレッツ](../Page/アントニ・ラマレッツ.md "wikilink")がオウンゴールを記録してベンフィカの初優勝が決まった\[16\]。1961年夏にはモザンビーク出身の[エウゼビオ](../Page/エウゼビオ.md "wikilink")が本格的にチームに加わり\[17\]、黒豹と呼ばれたエウゼビオ、コルナ、[ジョゼ・アウグスト・トーレス](https://ja.wikipedia.org/wiki/ジョゼ・アウグスト・トーレス "wikilink")などで構成される攻撃陣は抜群の破壊力を誇った。1961年9月には[インターコンチネンタルカップで](../Page/インターコンチネンタルカップ_\(サッカー\).md "wikilink")[ナシオナル・モンテビデオ](../Page/ナシオナル・モンテビデオ.md "wikilink")（ウルグアイ）と対戦したが、プレーオフの末に敗れた。1961-62シーズンのUEFAチャンピオンズカップでは1回戦で[FKアウストリア・ウィーン](../Page/FKアウストリア・ウィーン.md "wikilink")（オーストリア）、準々決勝で[1.FCニュルンベルク](../Page/1.FCニュルンベルク.md "wikilink")（ドイツ）、準決勝で[トッテナム・ホットスパーFC](../Page/トッテナム・ホットスパーFC.md "wikilink")（イングランド）を破り、2シーズン連続で決勝に進出。オランダの[アムステルダム](https://ja.wikipedia.org/wiki/アムステルダム "wikilink")で行なわれた決勝では、[アルフレッド・ディ・ステファノ](../Page/アルフレッド・ディ・ステファノ.md "wikilink")や[フェレンツ・プスカシュ](../Page/フェレンツ・プスカシュ.md "wikilink")、[ルイス・デル・ソル](../Page/ルイス・デル・ソル.md "wikilink")などを擁したレアル・マドリードと対戦。プシュカーシュが前半だけでハットトリックを達成し、2点差を付けられたベンフィカは劣勢だったが、4点に絡んだエウゼビオの活躍で5-3と逆転し、大会2連覇を果たした\[18\]。1962年のインターコンチネンタルカップでは[ペレ](../Page/ペレ.md "wikilink")を擁する[サントスFC](../Page/サントスFC.md "wikilink")（ブラジル）と対戦したが、ホーム&アウェーともに敗れて優勝を逃した。この時代のポルトガルリーグでは植民地出身選手が何人もプレーしていたが、植民地以外の外国人選手の登録は認められていなかった\[19\]。
 
 1962-63シーズン、1964-65シーズン、1967-68シーズンにもUEFAチャンピオンズカップの決勝に進出したが、それぞれ[ACミラン](https://ja.wikipedia.org/wiki/ACミラン "wikilink")（イタリア）\[20\]、[インテル](https://ja.wikipedia.org/wiki/インテルナツィオナーレ・ミラノ "wikilink")（イタリア）\[21\]、[マンチェスター・ユナイテッドFC](../Page/マンチェスター・ユナイテッドFC.md "wikilink")（イングランド）\[22\]に敗れて準優勝に終わっている。1960年代にはプリメイラ・ジヴィゾンで8回（1959-60、60-61、62-63、63-64、64-65、66-67、67-68、68-69）優勝し、タッサ・デ・ポルトガルで3回（1960-61、63-64、68-69）優勝し、UEFAチャンピオンズカップで2回（1960-61、61-62）優勝した。1965年にはエウゼビオが[バロンドール](../Page/バロンドール.md "wikilink")を獲得し、1968年には[フランス・フットボール](https://ja.wikipedia.org/wiki/フランス・フットボール "wikilink")誌によってヨーロッパ最高のクラブに選出された。
 
@@ -39,7 +39,7 @@
 
 1970年代には欧州カップ戦での存在感がやや薄れたが、ポルトガル国内では主役の座を維持し、プリメイラ・ジヴィゾンで6回（1970-71、71-72、72-73、74-75、75-76、76-77）優勝し、タッサ・デ・ポルトガルで2回（1969-70、71-72）優勝した。1970年から1974年まではイングランド人の[ジミー・ヘイガン](https://ja.wikipedia.org/wiki/ジミー・ヘイガン "wikilink")監督に率いられ、ヘイガン監督指揮下で4個のタイトルを獲得した。1971-72シーズンのUEFAチャンピオンズリーグでは準決勝に進出してヨーロッパ中から注目を浴びたが、[AFCアヤックス](../Page/アヤックス・アムステルダム.md "wikilink")（オランダ）に2試合合計0-1のスコアで敗れた。1972-73シーズンのリーグ戦は30戦無敗（28勝2分）で、シーズンを無敗で終えたポルトガル初のクラブとなった\[23\]。このシーズンには23試合連続勝利の記録も樹立した。すでに選手経歴の晩年を迎えていたエウゼビオが40得点を挙げ、リーグ得点王に輝くとともに[ヨーロッパ・ゴールデンシュー](../Page/ヨーロッパ・ゴールデンシュー.md "wikilink")（ヨーロッパ全体の得点王）にも輝いた。チーム全体では101得点を挙げたが、1シーズンで100得点を超えたのはクラブ史上2度目のことだった。1975年、33歳のエウゼビオはモザンビーク独立と時を同じくしてポルトガルを離れ、アメリカのクラブに移籍した\[24\]。
 
-1970年代後半から1980年代初頭にかけてのベンフィカは問題を抱えたが、1982年から1984年に指揮を執ったスウェーデン人の[スヴェン・ゴラン・エリクソン](https://ja.wikipedia.org/wiki/スヴェン・ゴラン・エリクソン "wikilink")監督の下で持ち直した。エリクソンが初めて海外のクラブの指揮を執ったのがベンフィカであり、就任時にはまだ34歳だった\[25\]。就任初年度となる1982-83シーズンには国内2冠を達成し、1982-83シーズンのUEFAカップでは決勝で[RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト "wikilink")（ベルギー）に敗れたものの準優勝した\[26\]。この時期にはルスの増築工事が完成して3階席がオープンし、最大で120,000人（固定座席に限らなければ135,000人）を収容するルスはヨーロッパ最大のスタジアムとなった。1986-87シーズンには9度目のダブル（2冠）を達成したが、これが今日に至るまでの最後のダブルである。1988年から1994年には、再びUEFAチャンピオンズカップで優勝するために巨額の投資が行なわれた。1987-88シーズンと1989-90シーズンには決勝に進出したが、それぞれ[PSVアイントホーフェン](https://ja.wikipedia.org/wiki/PSVアイントホーフェン "wikilink")（オランダ）\[27\]とミランに敗れ\[28\]\[29\]、欧州カップ戦の決勝では6連敗となった。この時期にはプリメイラ・ジヴィゾンで3回（1988-89、90-91、93-94）優勝し、タッサ・デ・ポルトガルで1回（1992-93）優勝した。
+1970年代後半から1980年代初頭にかけてのベンフィカは問題を抱えたが、1982年から1984年に指揮を執ったスウェーデン人の[スヴェン・ゴラン・エリクソン](../Page/スヴェン・ゴラン・エリクソン.md "wikilink")監督の下で持ち直した。エリクソンが初めて海外のクラブの指揮を執ったのがベンフィカであり、就任時にはまだ34歳だった\[25\]。就任初年度となる1982-83シーズンには国内2冠を達成し、1982-83シーズンのUEFAカップでは決勝で[RSCアンデルレヒト](../Page/RSCアンデルレヒト.md "wikilink")（ベルギー）に敗れたものの準優勝した\[26\]。この時期にはルスの増築工事が完成して3階席がオープンし、最大で120,000人（固定座席に限らなければ135,000人）を収容するルスはヨーロッパ最大のスタジアムとなった。1986-87シーズンには9度目のダブル（2冠）を達成したが、これが今日に至るまでの最後のダブルである。1988年から1994年には、再びUEFAチャンピオンズカップで優勝するために巨額の投資が行なわれた。1987-88シーズンと1989-90シーズンには決勝に進出したが、それぞれ[PSVアイントホーフェン](../Page/PSVアイントホーフェン.md "wikilink")（オランダ）\[27\]とミランに敗れ\[28\]\[29\]、欧州カップ戦の決勝では6連敗となった。この時期にはプリメイラ・ジヴィゾンで3回（1988-89、90-91、93-94）優勝し、タッサ・デ・ポルトガルで1回（1992-93）優勝した。
 
 ### 暗黒期 (1994年 - 2003年)
 
@@ -49,9 +49,9 @@
 
 [Benfica_Campeão_2005_2.jpg](https://ja.wikipedia.org/wiki/File:Benfica_Campeão_2005_2.jpg "fig:Benfica_Campeão_2005_2.jpg") [BenficaCampeão2009-10.jpg](https://ja.wikipedia.org/wiki/File:BenficaCampeão2009-10.jpg "fig:BenficaCampeão2009-10.jpg")
 
-2003年10月には新[エスタディオ・ダ・ルス](../Page/エスタディオ・ダ・ルス.md "wikilink")に移転。同時期に[ルイス・フィリペ・ヴィエイラ](https://ja.wikipedia.org/wiki/ルイス・フィリペ・ヴィエイラ "wikilink")が新会長に就任し、[ホセ・アントニオ・カマーチョ](../Page/ホセ・アントニオ・カマーチョ.md "wikilink")監督に率いられた2003-04シーズンには、タッサ・デ・ポルトガル決勝で[ジョゼ・モウリーニョ](../Page/ジョゼ・モウリーニョ.md "wikilink")監督率いるポルトを破り、実に8年ぶりとなるトロフィーを獲得した。2004年には[ジョバンニ・トラパットーニ](https://ja.wikipedia.org/wiki/ジョバンニ・トラパットーニ "wikilink")監督が就任し、[スーペルタッサ・カンディド・デ・オリベイラ](../Page/スーペルタッサ・カンディド・デ・オリベイラ.md "wikilink")で4回目の優勝を飾って幸先よいスタートを切ると、2004-05シーズンのリーグ戦では11年ぶりに優勝した。しかし、同シーズンに[エスタディオ・D. アフォンソ・エンリケスで行なわれた](https://ja.wikipedia.org/wiki/エスタディオ・D._アフォンソ・エンリケス "wikilink")[ヴィトーリア・ギマランイス戦では](../Page/ヴィトーリアSC.md "wikilink")、[ハンガリー代表フォワードの](../Page/サッカーハンガリー代表.md "wikilink")[フェヘール・ミクローシュ](../Page/フェヘール・ミクローシュ.md "wikilink")が試合中に倒れ、病院で死亡が確認された\[36\]。ルスには多くの人々が弔問に訪れ、ハンガリーで行なわれた埋葬にはヴィエイラ会長やキャプテンの[ヌーノ・ゴメス](../Page/ヌーノ・ゴメス.md "wikilink")が参列した。フェヘールが背負っていた背番号29はクラブの永久欠番となったが、ポルトガルのクラブで永久欠番を持つのはベンフィカのみである\[37\]。タッサ・デ・ポルトガルでは2シーズン連続で決勝に進出したが、[ヴィトーリア・セトゥーバルに敗れて](https://ja.wikipedia.org/wiki/ヴィトーリアFC_\(ポルトガル\) "wikilink")2連覇を逃した。なお、同大会決勝にはポルトガル[大統領が列席することが慣例となっているが](../Page/ポルトガルの大統領.md "wikilink")、[ジョルジェ・サンパイオ](../Page/ジョルジェ・サンパイオ.md "wikilink")大統領（1996年-2006年に在職）は熱心なスポルティングファンであり、準決勝でベンフィカがスポルティングを下したことで決勝の列席を拒んだ\[38\]。2005-06シーズンの[UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")・グループリーグではマンチェスター・U、[ビジャレアルCF](../Page/ビジャレアルCF.md "wikilink")（スペイン）、[LOSCリール・メトロポール](https://ja.wikipedia.org/wiki/LOSCリール・メトロポール "wikilink")（フランス）と同組となった。グループ突破のかかったマンチェスター・U戦に2-1で勝利し、ビジャレアルに次ぐグループ2位で決勝トーナメント進出を決めた。決勝トーナメント1回戦では前回大会王者の[リヴァプールFC](../Page/リヴァプールFC.md "wikilink")（イングランド）と顔を合わせたが、2試合合計3-0で準々決勝進出を決めた。準々決勝ではバルセロナと対戦し、結果的に優勝するクラブに2試合合計0-2で敗れた。
+2003年10月には新[エスタディオ・ダ・ルス](../Page/エスタディオ・ダ・ルス.md "wikilink")に移転。同時期に[ルイス・フィリペ・ヴィエイラ](https://ja.wikipedia.org/wiki/ルイス・フィリペ・ヴィエイラ "wikilink")が新会長に就任し、[ホセ・アントニオ・カマーチョ](../Page/ホセ・アントニオ・カマーチョ.md "wikilink")監督に率いられた2003-04シーズンには、タッサ・デ・ポルトガル決勝で[ジョゼ・モウリーニョ](../Page/ジョゼ・モウリーニョ.md "wikilink")監督率いるポルトを破り、実に8年ぶりとなるトロフィーを獲得した。2004年には[ジョバンニ・トラパットーニ](../Page/ジョバンニ・トラパットーニ.md "wikilink")監督が就任し、[スーペルタッサ・カンディド・デ・オリベイラ](../Page/スーペルタッサ・カンディド・デ・オリベイラ.md "wikilink")で4回目の優勝を飾って幸先よいスタートを切ると、2004-05シーズンのリーグ戦では11年ぶりに優勝した。しかし、同シーズンに[エスタディオ・D. アフォンソ・エンリケスで行なわれた](https://ja.wikipedia.org/wiki/エスタディオ・D._アフォンソ・エンリケス "wikilink")[ヴィトーリア・ギマランイス戦では](../Page/ヴィトーリアSC.md "wikilink")、[ハンガリー代表フォワードの](../Page/サッカーハンガリー代表.md "wikilink")[フェヘール・ミクローシュ](../Page/フェヘール・ミクローシュ.md "wikilink")が試合中に倒れ、病院で死亡が確認された\[36\]。ルスには多くの人々が弔問に訪れ、ハンガリーで行なわれた埋葬にはヴィエイラ会長やキャプテンの[ヌーノ・ゴメス](../Page/ヌーノ・ゴメス.md "wikilink")が参列した。フェヘールが背負っていた背番号29はクラブの永久欠番となったが、ポルトガルのクラブで永久欠番を持つのはベンフィカのみである\[37\]。タッサ・デ・ポルトガルでは2シーズン連続で決勝に進出したが、[ヴィトーリア・セトゥーバルに敗れて](https://ja.wikipedia.org/wiki/ヴィトーリアFC_\(ポルトガル\) "wikilink")2連覇を逃した。なお、同大会決勝にはポルトガル[大統領が列席することが慣例となっているが](../Page/ポルトガルの大統領.md "wikilink")、[ジョルジェ・サンパイオ](../Page/ジョルジェ・サンパイオ.md "wikilink")大統領（1996年-2006年に在職）は熱心なスポルティングファンであり、準決勝でベンフィカがスポルティングを下したことで決勝の列席を拒んだ\[38\]。2005-06シーズンの[UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")・グループリーグではマンチェスター・U、[ビジャレアルCF](../Page/ビジャレアルCF.md "wikilink")（スペイン）、[LOSCリール・メトロポール](../Page/LOSCリール・メトロポール.md "wikilink")（フランス）と同組となった。グループ突破のかかったマンチェスター・U戦に2-1で勝利し、ビジャレアルに次ぐグループ2位で決勝トーナメント進出を決めた。決勝トーナメント1回戦では前回大会王者の[リヴァプールFC](../Page/リヴァプールFC.md "wikilink")（イングランド）と顔を合わせたが、2試合合計3-0で準々決勝進出を決めた。準々決勝ではバルセロナと対戦し、結果的に優勝するクラブに2試合合計0-2で敗れた。
 
-2006-07シーズンのUEFAチャンピオンズリーグでは再びマンチェスター・Uと同組となり、またもやグループ突破をかけてマンチェスター・Uと対戦したが、今度は1-3で敗れてグループリーグ敗退となった。2007-08シーズン開幕戦後には[フェルナンド・サントス監督が解任され](https://ja.wikipedia.org/wiki/フェルナンド・サントス_\(ポルトガルのサッカー選手\) "wikilink")、カマーチョ監督がクラブと2年契約を結んでベンフィカに復帰した\[39\]。2007-08シーズンのUEFAチャンピオンズリーグ予選3回戦では、前年度のグループリーグでも対戦していた[FCコペンハーゲン](../Page/FCコペンハーゲン.md "wikilink")（デンマーク）と顔を合わせ、ホーム&アウェーの2試合ともに勝利して本選グループリーグ出場を決めた。グループリーグではミラン、[FCシャフタール・ドネツク](../Page/FCシャフタール・ドネツク.md "wikilink")（ウクライナ）、[セルティックFC](../Page/セルティックFC.md "wikilink")（スコットランド）と対戦したが、3位でグループリーグ敗退となり、UEFAカップに回った。UEFAカップではラウンド16で[ヘタフェCF](https://ja.wikipedia.org/wiki/ヘタフェCF "wikilink")（スペイン）に敗れ、カマーチョ監督はその数日後に辞任した。リーグ戦では[SCブラガ](../Page/SCブラガ.md "wikilink")の後塵を拝し、トップ3でのフィニッシュを逃した。
+2006-07シーズンのUEFAチャンピオンズリーグでは再びマンチェスター・Uと同組となり、またもやグループ突破をかけてマンチェスター・Uと対戦したが、今度は1-3で敗れてグループリーグ敗退となった。2007-08シーズン開幕戦後には[フェルナンド・サントス監督が解任され](https://ja.wikipedia.org/wiki/フェルナンド・サントス_\(ポルトガルのサッカー選手\) "wikilink")、カマーチョ監督がクラブと2年契約を結んでベンフィカに復帰した\[39\]。2007-08シーズンのUEFAチャンピオンズリーグ予選3回戦では、前年度のグループリーグでも対戦していた[FCコペンハーゲン](../Page/FCコペンハーゲン.md "wikilink")（デンマーク）と顔を合わせ、ホーム&アウェーの2試合ともに勝利して本選グループリーグ出場を決めた。グループリーグではミラン、[FCシャフタール・ドネツク](../Page/FCシャフタール・ドネツク.md "wikilink")（ウクライナ）、[セルティックFC](../Page/セルティックFC.md "wikilink")（スコットランド）と対戦したが、3位でグループリーグ敗退となり、UEFAカップに回った。UEFAカップではラウンド16で[ヘタフェCF](../Page/ヘタフェCF.md "wikilink")（スペイン）に敗れ、カマーチョ監督はその数日後に辞任した。リーグ戦では[SCブラガ](../Page/SCブラガ.md "wikilink")の後塵を拝し、トップ3でのフィニッシュを逃した。
 
 2007-08シーズン終了後にはレジェンドの[マヌエル・ルイ・コスタ](../Page/マヌエル・ルイ・コスタ.md "wikilink")が現役引退し、そのままスポーツディレクターに就任\[40\]。手始めに元[バレンシアCF](../Page/バレンシアCF.md "wikilink")監督の[キケ・サンチェス・フローレス](../Page/キケ・サンチェス・フローレス.md "wikilink")を監督に招聘すると、[ホセ・アントニオ・レジェス](../Page/ホセ・アントニオ・レジェス.md "wikilink")や[パブロ・アイマール](../Page/パブロ・アイマール.md "wikilink")などの実力者獲得に尽力した\[41\]。2008-09シーズンの[タッサ・ダ・リーガ](../Page/タッサ・ダ・リーガ.md "wikilink")では決勝でスポルティングを破り、同大会初優勝を飾った。同シーズンのリーグ戦では3位となり、[UEFAヨーロッパリーグ](../Page/UEFAヨーロッパリーグ.md "wikilink")出場権を獲得した。2009年6月8日、監督・クラブ双方合意の上で契約を解除し、キケ・フローレス監督が退任。6月17日、元[SCブラガ](../Page/SCブラガ.md "wikilink")監督の[ジョルジェ・ジェズス](https://ja.wikipedia.org/wiki/ジョルジェ・ジェズス "wikilink")が監督に就任した。2009年夏には過去最大級の投資を行ない、[ハビエル・サビオラ](../Page/ハビエル・サビオラ.md "wikilink")、[ハビ・ガルシア](../Page/フランシスコ・ハビエル・ガルシア.md "wikilink")、[ラミレスなどを獲得](https://ja.wikipedia.org/wiki/ラミレス・サントス・ド・ナシメント "wikilink")\[42\]。[パブロ・アイマール](../Page/パブロ・アイマール.md "wikilink")や[アンヘル・ディ・マリア](https://ja.wikipedia.org/wiki/アンヘル・ディ・マリア "wikilink")など既存戦力も合わさって豪華メンバーとなった。2009-10シーズンは過去最高となる1試合平均50,033人の観客を集め\[43\]、勝利したポルト戦ではシーズン最高の58,659人を集めた。2010年3月21日、タッサ・デ・ポルトガル決勝ではポルトに3-0で快勝し、同大会2連覇を達成した。同シーズンのUEFAヨーロッパリーグ準々決勝ではリヴァプールと対戦。ルスで行なわれたファーストレグには2-1で勝利したが、[アンフィールド](../Page/アンフィールド.md "wikilink")で行なわれたセカンドレグに1-4で敗れ、2試合合計3-5で敗退が決まった\[44\]。リーグ戦のホームゲームでは圧倒的な成績（14勝1分）を残し、リーグ最多得点・最少失点で32回目のリーグ優勝を決めた。UEFAチャンピオンズリーグ・グループリーグの出場権を獲得し\[45\]、26得点を挙げた[パラグアイ代表の](../Page/サッカーパラグアイ代表.md "wikilink")[オスカル・カルドソ](../Page/オスカル・カルドソ.md "wikilink")が得点王に輝いた\[46\]。
 
@@ -67,7 +67,7 @@
 
 ベンフィカはカテドラル（大聖堂）の愛称を持つ[エスタディオ・ダ・ルス](../Page/エスタディオ・ダ・ルス.md "wikilink")（『光のスタジアム』という意味）をホームスタジアムとしており、試合開始前にはクラブのシンボルである鷲が止まり木に飛来するパフォーマンスが行なわれる\[62\]。ルスは公式にはエスタディオ・ド・スポルト・リジュボア・イ・ベンフィカという名称である。1954年に建設された初代ルスは135,000人を収容し、ヨーロッパ最大のスタジアムだった。2003年に完成した2代目ルスは65,647人を収容し\[63\]、ウルグアイの[ナシオナル・モンテビデオ](../Page/ナシオナル・モンテビデオ.md "wikilink")を招いて落成記念親善試合が行われた\[64\]。ルスは様々な機能を持つ複合施設であり、ふたつの体育館、スイミングプールなども備えている\[65\]。フットサルチーム、バスケットボールチーム、自転車競技チーム、ラグビーチーム、ハンドボールチームなどがこれらの施設を使用している\[66\]。
 
-1966-67シーズンの[UEFAチャンピオンズカップ決勝はルスで開催され](../Page/UEFAチャンピオンズリーグ.md "wikilink")、[セルティックFC](../Page/セルティックFC.md "wikilink")（スコットランド）が[インテル](https://ja.wikipedia.org/wiki/インテルナツィオナーレ・ミラノ "wikilink")（イタリア）を破って優勝した\[67\]。ポルトガルで開催された[UEFA EURO 2004の際にはルスも開催地のひとつとなり](../Page/UEFA_EURO_2004.md "wikilink")、[ポルトガル代表対](https://ja.wikipedia.org/wiki/サッカーポルトガル代表 "wikilink")[ギリシャ代表の決勝戦などが行なわれた](../Page/サッカーギリシャ代表.md "wikilink")。ポルトガル代表はルスでの対戦成績が良いため、2004年以降は主要大会予選の強豪国との対戦がルスで行なわれることが多い\[68\]。2012年3月20日、2013-14シーズンの[UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")決勝がルスで開催されることが決定した\[69\]\[70\]。
+1966-67シーズンの[UEFAチャンピオンズカップ決勝はルスで開催され](../Page/UEFAチャンピオンズリーグ.md "wikilink")、[セルティックFC](../Page/セルティックFC.md "wikilink")（スコットランド）が[インテル](https://ja.wikipedia.org/wiki/インテルナツィオナーレ・ミラノ "wikilink")（イタリア）を破って優勝した\[67\]。ポルトガルで開催された[UEFA EURO 2004の際にはルスも開催地のひとつとなり](../Page/UEFA_EURO_2004.md "wikilink")、[ポルトガル代表対](../Page/サッカーポルトガル代表.md "wikilink")[ギリシャ代表の決勝戦などが行なわれた](../Page/サッカーギリシャ代表.md "wikilink")。ポルトガル代表はルスでの対戦成績が良いため、2004年以降は主要大会予選の強豪国との対戦がルスで行なわれることが多い\[68\]。2012年3月20日、2013-14シーズンの[UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")決勝がルスで開催されることが決定した\[69\]\[70\]。
 
 ## ライバルとサポーター
 
@@ -410,7 +410,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ピエール・ファン・ホーイドンク" title="wikilink">ピエール・ファン・ホーイドンク</a></p></td>
+<td><p><a href="../Page/ピエール・ファン・ホーイドンク.md" title="wikilink">ピエール・ファン・ホーイドンク</a></p></td>
 <td><p>2000-2001</p></td>
 <td><p>33</p></td>
 <td><p>0.7</p></td>
@@ -596,7 +596,7 @@
 <tr class="odd">
 <td><p>11</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ラミレス・サントス・ド・ナシメント" title="wikilink">ラミレス</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クルゼイロEC" title="wikilink">クルゼイロEC</a></p></td>
+<td><p><a href="../Page/クルゼイロEC.md" title="wikilink">クルゼイロEC</a></p></td>
 <td><p>750万</p></td>
 <td><p>2009年</p></td>
 </tr>
@@ -689,7 +689,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/フランシスコ・ハビエル・ガルシア.md" title="wikilink">ハビ・ガルシア</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マンチェスター・シティFC" title="wikilink">マンチェスター・シティFC</a></p></td>
+<td><p><a href="../Page/マンチェスター・シティFC.md" title="wikilink">マンチェスター・シティFC</a></p></td>
 <td><p>2000万</p></td>
 <td><p>2012年</p></td>
 <td></td>
@@ -1328,7 +1328,7 @@ UEFAチャンピオンズカップ時代も含む
 </tr>
 <tr class="odd">
 <td><p>準決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SKラピード・ウィーン" title="wikilink">SKラピード・ウィーン</a></p></td>
+<td><p><a href="../Page/SKラピード・ウィーン.md" title="wikilink">SKラピード・ウィーン</a></p></td>
 <td><p>3-0 (H)<br />
 1-1 (A)</p></td>
 <td></td>
@@ -1348,7 +1348,7 @@ UEFAチャンピオンズカップ時代も含む
 </tr>
 <tr class="even">
 <td><p>準々決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1.FCニュルンベルク" title="wikilink">1.FCニュルンベルク</a></p></td>
+<td><p><a href="../Page/1.FCニュルンベルク.md" title="wikilink">1.FCニュルンベルク</a></p></td>
 <td><p>1-3 (A)<br />
 6-0 (H)</p></td>
 <td></td>
@@ -1590,7 +1590,7 @@ UEFAチャンピオンズカップ時代も含む
 <tr class="odd">
 <td><p>1975-76</p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フェネルバフチェSK" title="wikilink">フェネルバフチェSK</a></p></td>
+<td><p><a href="../Page/フェネルバフチェSK.md" title="wikilink">フェネルバフチェSK</a></p></td>
 <td><p>7-0 (H)<br />
 0-1 (A)</p></td>
 </tr>
@@ -1693,7 +1693,7 @@ UEFAチャンピオンズカップ時代も含む
 <tr class="odd">
 <td><p>1984-85</p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レッドスター・ベオグラード" title="wikilink">レッドスター・ベオグラード</a></p></td>
+<td><p><a href="../Page/レッドスター・ベオグラード.md" title="wikilink">レッドスター・ベオグラード</a></p></td>
 <td><p>2-3 (A)<br />
 2-0 (H)</p></td>
 </tr>
@@ -1719,7 +1719,7 @@ UEFAチャンピオンズカップ時代も含む
 </tr>
 <tr class="odd">
 <td><p>準々決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RSCアンデルレヒト" title="wikilink">RSCアンデルレヒト</a></p></td>
+<td><p><a href="../Page/RSCアンデルレヒト.md" title="wikilink">RSCアンデルレヒト</a></p></td>
 <td><p>2-0 (H)<br />
 0-1 (A)</p></td>
 <td></td>
@@ -1733,7 +1733,7 @@ UEFAチャンピオンズカップ時代も含む
 </tr>
 <tr class="odd">
 <td><p>決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PSVアイントホーフェン" title="wikilink">PSV</a></p></td>
+<td><p><a href="../Page/PSVアイントホーフェン.md" title="wikilink">PSV</a></p></td>
 <td><p>0-0 (N)[105]</p></td>
 <td></td>
 </tr>
@@ -1787,7 +1787,7 @@ UEFAチャンピオンズカップ時代も含む
 </tr>
 <tr class="odd">
 <td><p>グループB</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCディナモ・キエフ" title="wikilink">FCディナモ・キエフ</a></p></td>
+<td><p><a href="../Page/FCディナモ・キエフ.md" title="wikilink">FCディナモ・キエフ</a></p></td>
 <td><p>0-1 (A)<br />
 5-0 (H)</p></td>
 <td></td>
@@ -1800,7 +1800,7 @@ UEFAチャンピオンズカップ時代も含む
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ACスパルタ・プラハ" title="wikilink">ACスパルタ・プラハ</a></p></td>
+<td><p><a href="../Page/ACスパルタ・プラハ.md" title="wikilink">ACスパルタ・プラハ</a></p></td>
 <td><p>1-1 (H)<br />
 1-1 (A)</p></td>
 <td></td>
@@ -1814,7 +1814,7 @@ UEFAチャンピオンズカップ時代も含む
 2-1 (H)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/RSCアンデルレヒト" title="wikilink">RSCアンデルレヒト</a></p></td>
+<td><p><a href="../Page/RSCアンデルレヒト.md" title="wikilink">RSCアンデルレヒト</a></p></td>
 <td><p>3-1 (H)<br />
 1-1 (A)</p></td>
 <td></td>
@@ -1843,13 +1843,13 @@ UEFAチャンピオンズカップ時代も含む
 </tr>
 <tr class="odd">
 <td><p>グループF</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1.FCカイザースラウテルン" title="wikilink">1.FCカイザースラウテルン</a></p></td>
+<td><p><a href="../Page/1.FCカイザースラウテルン.md" title="wikilink">1.FCカイザースラウテルン</a></p></td>
 <td><p>0-1 (A)<br />
 2-1 (H)</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/PSVアイントホーフェン" title="wikilink">PSV</a></p></td>
+<td><p><a href="../Page/PSVアイントホーフェン.md" title="wikilink">PSV</a></p></td>
 <td><p>2-1 (H)<br />
 2-2 (A)</p></td>
 <td></td>
@@ -1872,14 +1872,14 @@ UEFAチャンピオンズカップ時代も含む
 <tr class="odd">
 <td><p>2004-05</p></td>
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RSCアンデルレヒト" title="wikilink">RSCアンデルレヒト</a></p></td>
+<td><p><a href="../Page/RSCアンデルレヒト.md" title="wikilink">RSCアンデルレヒト</a></p></td>
 <td><p>1-0 (H)<br />
 0-3 (A)</p></td>
 </tr>
 <tr class="even">
 <td><p>2005-06</p></td>
 <td><p>グループD</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/LOSCリール・メトロポール" title="wikilink">LOSCリール・メトロポール</a></p></td>
+<td><p><a href="../Page/LOSCリール・メトロポール.md" title="wikilink">LOSCリール・メトロポール</a></p></td>
 <td><p>1-0 (H)<br />
 0-0 (A)</p></td>
 </tr>
@@ -2061,7 +2061,7 @@ UEFAチャンピオンズカップ時代も含む
 <tr class="even">
 <td><p>2013-14</p></td>
 <td><p>グループC</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RSCアンデルレヒト" title="wikilink">RSCアンデルレヒト</a></p></td>
+<td><p><a href="../Page/RSCアンデルレヒト.md" title="wikilink">RSCアンデルレヒト</a></p></td>
 <td><p>2-0 (H)<br />
 3-2 (A)</p></td>
 </tr>
@@ -2126,7 +2126,7 @@ UEFAチャンピオンズカップ時代も含む
 </tr>
 <tr class="odd">
 <td><p>準々決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PSVアイントホーフェン" title="wikilink">PSV</a></p></td>
+<td><p><a href="../Page/PSVアイントホーフェン.md" title="wikilink">PSV</a></p></td>
 <td><p>0-0 (A)<br />
 1-2 (H)[114]</p></td>
 <td></td>
@@ -2214,7 +2214,7 @@ UEFAチャンピオンズカップ時代も含む
 </tr>
 <tr class="even">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCジロンダン・ボルドー" title="wikilink">FCジロンダン・ボルドー</a></p></td>
+<td><p><a href="../Page/FCジロンダン・ボルドー.md" title="wikilink">FCジロンダン・ボルドー</a></p></td>
 <td><p>1-1 (H)<br />
 0-1 (A)</p></td>
 <td></td>
@@ -2256,7 +2256,7 @@ UEFAチャンピオンズカップ時代も含む
 </tr>
 <tr class="even">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCロコモティフ・モスクワ" title="wikilink">FCロコモティフ・モスクワ</a></p></td>
+<td><p><a href="../Page/FCロコモティフ・モスクワ.md" title="wikilink">FCロコモティフ・モスクワ</a></p></td>
 <td><p>1-0 (H)<br />
 3-2 (A)</p></td>
 <td></td>
@@ -2315,13 +2315,13 @@ UEFAチャンピオンズカップ時代も含む
 <tr class="even">
 <td><p>1978-79</p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCナント" title="wikilink">FCナント</a></p></td>
+<td><p><a href="../Page/FCナント.md" title="wikilink">FCナント</a></p></td>
 <td><p>2-0 (A)<br />
 0-0 (H)</p></td>
 </tr>
 <tr class="odd">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ボルシア・メンヒェングラートバッハ" title="wikilink">ボルシア・メンヒェングラートバッハ</a></p></td>
+<td><p><a href="../Page/ボルシア・メンヒェングラートバッハ.md" title="wikilink">ボルシア・メンヒェングラートバッハ</a></p></td>
 <td><p>0-0 (H)<br />
 0-2 (A)</p></td>
 <td></td>
@@ -2370,7 +2370,7 @@ UEFAチャンピオンズカップ時代も含む
 </tr>
 <tr class="even">
 <td><p>決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RSCアンデルレヒト" title="wikilink">RSCアンデルレヒト</a></p></td>
+<td><p><a href="../Page/RSCアンデルレヒト.md" title="wikilink">RSCアンデルレヒト</a></p></td>
 <td><p>0-1 (A)<br />
 1-1 (H)</p></td>
 <td></td>
@@ -2412,7 +2412,7 @@ UEFAチャンピオンズカップ時代も含む
 </tr>
 <tr class="even">
 <td><p>3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCディナモ・モスクワ" title="wikilink">FCディナモ・モスクワ</a></p></td>
+<td><p><a href="../Page/FCディナモ・モスクワ.md" title="wikilink">FCディナモ・モスクワ</a></p></td>
 <td><p>2-2 (A)<br />
 2-0 (H)</p></td>
 <td></td>
@@ -2468,7 +2468,7 @@ UEFAチャンピオンズカップ時代も含む
 </tr>
 <tr class="even">
 <td><p>3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/セルタ・デ・ビーゴ" title="wikilink">セルタ・デ・ビーゴ</a></p></td>
+<td><p><a href="../Page/セルタ・デ・ビーゴ.md" title="wikilink">セルタ・デ・ビーゴ</a></p></td>
 <td><p>0-7 (A)<br />
 1-1 (H)</p></td>
 <td></td>
@@ -2496,7 +2496,7 @@ UEFAチャンピオンズカップ時代も含む
 </tr>
 <tr class="even">
 <td><p>3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ローゼンボリBK" title="wikilink">ローゼンボリBK</a></p></td>
+<td><p><a href="../Page/ローゼンボリBK.md" title="wikilink">ローゼンボリBK</a></p></td>
 <td><p>1-0 (H)<br />
 1-2 (A)[126]</p></td>
 <td></td>
@@ -2560,7 +2560,7 @@ UEFAチャンピオンズカップ時代も含む
 </tr>
 <tr class="even">
 <td><p>ラウンド32</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PFC_CSKAモスクワ" title="wikilink">PFC CSKAモスクワ</a></p></td>
+<td><p><a href="../Page/PFC_CSKAモスクワ.md" title="wikilink">PFC CSKAモスクワ</a></p></td>
 <td><p>0-2 (A)<br />
 1-1 (H)</p></td>
 <td></td>
@@ -2581,7 +2581,7 @@ UEFAチャンピオンズカップ時代も含む
 </tr>
 <tr class="odd">
 <td><p>準々決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RCDエスパニョール" title="wikilink">RCDエスパニョール</a></p></td>
+<td><p><a href="../Page/RCDエスパニョール.md" title="wikilink">RCDエスパニョール</a></p></td>
 <td><p>2-3 (A)<br />
 0-0 (H)</p></td>
 <td></td>
@@ -2589,13 +2589,13 @@ UEFAチャンピオンズカップ時代も含む
 <tr class="even">
 <td><p>2007-08</p></td>
 <td><p>ラウンド32</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1.FCニュルンベルク" title="wikilink">1.FCニュルンベルク</a></p></td>
+<td><p><a href="../Page/1.FCニュルンベルク.md" title="wikilink">1.FCニュルンベルク</a></p></td>
 <td><p>1-0 (H)<br />
 2-2 (A)</p></td>
 </tr>
 <tr class="odd">
 <td><p>ラウンド16</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヘタフェCF" title="wikilink">ヘタフェCF</a></p></td>
+<td><p><a href="../Page/ヘタフェCF.md" title="wikilink">ヘタフェCF</a></p></td>
 <td><p>1-2 (H)[127]<br />
 0-1 (A)</p></td>
 <td></td>
@@ -2653,7 +2653,7 @@ UEFAチャンピオンズカップ時代も含む
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/エヴァートンFC" title="wikilink">エヴァートンFC</a></p></td>
+<td><p><a href="../Page/エヴァートンFC.md" title="wikilink">エヴァートンFC</a></p></td>
 <td><p>5-0 (H)<br />
 2-0 (A)</p></td>
 <td></td>
@@ -2696,7 +2696,7 @@ UEFAチャンピオンズカップ時代も含む
 </tr>
 <tr class="even">
 <td><p>準々決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PSVアイントホーフェン" title="wikilink">PSV</a></p></td>
+<td><p><a href="../Page/PSVアイントホーフェン.md" title="wikilink">PSV</a></p></td>
 <td><p>4-1 (H)<br />
 2-2 (A)</p></td>
 <td></td>
@@ -2717,7 +2717,7 @@ UEFAチャンピオンズカップ時代も含む
 </tr>
 <tr class="odd">
 <td><p>ラウンド16</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCジロンダン・ボルドー" title="wikilink">FCジロンダン・ボルドー</a></p></td>
+<td><p><a href="../Page/FCジロンダン・ボルドー.md" title="wikilink">FCジロンダン・ボルドー</a></p></td>
 <td><p>1-0 (H)<br />
 3-2 (A)</p></td>
 <td></td>
@@ -2771,7 +2771,7 @@ UEFAチャンピオンズカップ時代も含む
 <td><p><a href="../Page/UEFAチャンピオンズリーグ.md" title="wikilink">UEFAチャンピオンズカップ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/インテルナツィオナーレ・ミラノ" title="wikilink">インテル</a></p></td>
 <td><p>0-1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スタディオ・ジュゼッペ・メアッツァ" title="wikilink">サン・シーロ</a></p></td>
+<td><p><a href="../Page/スタディオ・ジュゼッペ・メアッツァ.md" title="wikilink">サン・シーロ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1967-68</p></td>
@@ -2783,14 +2783,14 @@ UEFAチャンピオンズカップ時代も含む
 <tr class="even">
 <td><p>1982-83</p></td>
 <td><p><a href="../Page/UEFAヨーロッパリーグ.md" title="wikilink">UEFAカップ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RSCアンデルレヒト" title="wikilink">RSCアンデルレヒト</a></p></td>
+<td><p><a href="../Page/RSCアンデルレヒト.md" title="wikilink">RSCアンデルレヒト</a></p></td>
 <td><p>1-2</p></td>
 <td><p>2レグ制</p></td>
 </tr>
 <tr class="odd">
 <td><p>1987-88</p></td>
 <td><p><a href="../Page/UEFAチャンピオンズリーグ.md" title="wikilink">UEFAチャンピオンズカップ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PSVアイントホーフェン" title="wikilink">PSV</a></p></td>
+<td><p><a href="../Page/PSVアイントホーフェン.md" title="wikilink">PSV</a></p></td>
 <td><p>0-0 (延長) (PK 5-6)</p></td>
 <td><p><a href="../Page/メルセデス・ベンツ・アレーナ.md" title="wikilink">ネッカーシュタディオン</a></p></td>
 </tr>
@@ -2841,7 +2841,7 @@ UEFAチャンピオンズカップ時代も含む
 <tr class="odd">
 <td><p>1960-61</p></td>
 <td><p><a href="../Page/UEFAチャンピオンズリーグ.md" title="wikilink">UEFAチャンピオンズカップ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SKラピード・ウィーン" title="wikilink">SKラピード・ウィーン</a></p></td>
+<td><p><a href="../Page/SKラピード・ウィーン.md" title="wikilink">SKラピード・ウィーン</a></p></td>
 <td><p>4-1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/FCバルセロナ" title="wikilink">FCバルセロナ</a><br />
  <a href="../Page/ハンブルガーSV.md" title="wikilink">ハンブルガーSV</a></p></td>
@@ -2883,7 +2883,7 @@ UEFAチャンピオンズカップ時代も含む
 <td><p><a href="../Page/UEFAヨーロッパリーグ.md" title="wikilink">UEFAカップ</a></p></td>
 <td><p><a href="../Page/FCウニヴェルシタテア・クラヨーヴァ.md" title="wikilink">FCウニヴェルシタテア・クラヨーヴァ</a></p></td>
 <td><p>1-1 [131]</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RSCアンデルレヒト" title="wikilink">RSCアンデルレヒト</a><br />
+<td><p><a href="../Page/RSCアンデルレヒト.md" title="wikilink">RSCアンデルレヒト</a><br />
  <a href="https://ja.wikipedia.org/wiki/ボヘミアンズ1905" title="wikilink">ボヘミアンズ・プラハ</a></p></td>
 </tr>
 <tr class="odd">
@@ -2891,7 +2891,7 @@ UEFAチャンピオンズカップ時代も含む
 <td><p><a href="../Page/UEFAチャンピオンズリーグ.md" title="wikilink">UEFAチャンピオンズカップ</a></p></td>
 <td><p><a href="../Page/FCステアウア・ブカレスト.md" title="wikilink">FCステアウア・ブカレスト</a></p></td>
 <td><p>2-0</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PSVアイントホーフェン" title="wikilink">PSV</a><br />
+<td><p><a href="../Page/PSVアイントホーフェン.md" title="wikilink">PSV</a><br />
  <a href="https://ja.wikipedia.org/wiki/レアル・マドリード" title="wikilink">レアル・マドリード</a></p></td>
 </tr>
 <tr class="even">
@@ -2905,7 +2905,7 @@ UEFAチャンピオンズカップ時代も含む
 <tr class="odd">
 <td><p>2012-13</p></td>
 <td><p><a href="../Page/UEFAヨーロッパリーグ.md" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フェネルバフチェSK" title="wikilink">フェネルバフチェSK</a></p></td>
+<td><p><a href="../Page/フェネルバフチェSK.md" title="wikilink">フェネルバフチェSK</a></p></td>
 <td><p>3-2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/チェルシーFC" title="wikilink">チェルシーFC</a><br />
  <a href="../Page/FCバーゼル.md" title="wikilink">FCバーゼル</a></p></td>
@@ -3800,7 +3800,7 @@ UEFAチャンピオンズカップ時代も含む
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/スヴェン・ゴラン・エリクソン" title="wikilink">スヴェン・ゴラン・エリクソン</a></p></td>
+<td><p><a href="../Page/スヴェン・ゴラン・エリクソン.md" title="wikilink">スヴェン・ゴラン・エリクソン</a></p></td>
 <td><p>1982年7月1日</p></td>
 <td><p>1984年6月30日 </p></td>
 <td><p><span style="display:none;">9998</span><small> 2 <a href="https://ja.wikipedia.org/wiki/プリメイラ・リーガ" title="wikilink">プリメイラ・ジヴィゾン</a><br />
@@ -3873,7 +3873,7 @@ UEFAチャンピオンズカップ時代も含む
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/スヴェン・ゴラン・エリクソン" title="wikilink">スヴェン・ゴラン・エリクソン</a></p></td>
+<td><p><a href="../Page/スヴェン・ゴラン・エリクソン.md" title="wikilink">スヴェン・ゴラン・エリクソン</a></p></td>
 <td><p>1989年7月1日</p></td>
 <td><p>1992年6月30日 </p></td>
 <td><p><span style="display:none;">9998</span><small> 1 <a href="https://ja.wikipedia.org/wiki/プリメイラ・リーガ" title="wikilink">プリメイラ・ジヴィゾン</a><br />
@@ -4001,7 +4001,7 @@ UEFAチャンピオンズカップ時代も含む
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/グレアム・スーネス" title="wikilink">グレアム・スーネス</a></p></td>
+<td><p><a href="../Page/グレアム・スーネス.md" title="wikilink">グレアム・スーネス</a></p></td>
 <td><p>1997年11月2日</p></td>
 <td><p>1999年5月2日 </p></td>
 <td></td>
@@ -4113,7 +4113,7 @@ UEFAチャンピオンズカップ時代も含む
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョバンニ・トラパットーニ" title="wikilink">ジョバンニ・トラパットーニ</a></p></td>
+<td><p><a href="../Page/ジョバンニ・トラパットーニ.md" title="wikilink">ジョバンニ・トラパットーニ</a></p></td>
 <td><p>2004年7月1日</p></td>
 <td><p>2005年5月30日 </p></td>
 <td><p><span style="display:none;">9998</span><small> 1 <a href="https://ja.wikipedia.org/wiki/プリメイラ・リーガ" title="wikilink">プリメイラ・リーガ</a></small></p></td>
@@ -4127,7 +4127,7 @@ UEFAチャンピオンズカップ時代も含む
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ロナルド・クーマン" title="wikilink">ロナルド・クーマン</a></p></td>
+<td><p><a href="../Page/ロナルド・クーマン.md" title="wikilink">ロナルド・クーマン</a></p></td>
 <td><p>2005年7月1日</p></td>
 <td><p>2006年5月30日 </p></td>
 <td><p><span style="display:none;">9998</span><small> 1 <a href="../Page/スーペルタッサ・カンディド・デ・オリベイラ.md" title="wikilink">スーペルタッサ</a></small></p></td>
@@ -4605,7 +4605,7 @@ UEFAチャンピオンズカップ時代も含む
 
 ## その他のスポーツ
 
-クラブは最初にサッカークラブとして活動を始めたが、[フットサル](https://ja.wikipedia.org/wiki/フットサル "wikilink")、[ローラーホッケー](https://ja.wikipedia.org/wiki/ローラーホッケー "wikilink")、[バスケットボール](../Page/バスケットボール.md "wikilink")、[ハンドボール](../Page/ハンドボール.md "wikilink")、[バレーボール](../Page/バレーボール.md "wikilink")、[体操](../Page/体操.md "wikilink")、[アーチェリー](../Page/アーチェリー.md "wikilink")、[ビーチサッカー](https://ja.wikipedia.org/wiki/ビーチサッカー "wikilink")、[ビリヤード](../Page/ビリヤード.md "wikilink")、[カヌー](../Page/カヌー.md "wikilink")、[自転車競技](../Page/自転車競技.md "wikilink")、[ゴルフ](../Page/ゴルフ.md "wikilink")、[カート](https://ja.wikipedia.org/wiki/レーシングカート "wikilink")、[柔道](../Page/柔道.md "wikilink")、[ペイントボール](../Page/ペイントボール.md "wikilink")、[ラグビー](../Page/ラグビー.md "wikilink")、[スポーツフィッシング](https://ja.wikipedia.org/wiki/釣り "wikilink")、[水泳](../Page/水泳.md "wikilink")、[卓球](../Page/卓球.md "wikilink")、[トライアスロン](../Page/トライアスロン.md "wikilink")の競技チームも持っている。
+クラブは最初にサッカークラブとして活動を始めたが、[フットサル](https://ja.wikipedia.org/wiki/フットサル "wikilink")、[ローラーホッケー](../Page/ローラーホッケー.md "wikilink")、[バスケットボール](../Page/バスケットボール.md "wikilink")、[ハンドボール](../Page/ハンドボール.md "wikilink")、[バレーボール](../Page/バレーボール.md "wikilink")、[体操](../Page/体操.md "wikilink")、[アーチェリー](../Page/アーチェリー.md "wikilink")、[ビーチサッカー](../Page/ビーチサッカー.md "wikilink")、[ビリヤード](../Page/ビリヤード.md "wikilink")、[カヌー](../Page/カヌー.md "wikilink")、[自転車競技](../Page/自転車競技.md "wikilink")、[ゴルフ](../Page/ゴルフ.md "wikilink")、[カート](../Page/レーシングカート.md "wikilink")、[柔道](../Page/柔道.md "wikilink")、[ペイントボール](../Page/ペイントボール.md "wikilink")、[ラグビー](../Page/ラグビー.md "wikilink")、[スポーツフィッシング](../Page/釣り.md "wikilink")、[水泳](../Page/水泳.md "wikilink")、[卓球](../Page/卓球.md "wikilink")、[トライアスロン](../Page/トライアスロン.md "wikilink")の競技チームも持っている。
 
 2001年に設立されたフットサルチームもポルトガル屈指の強豪であり、リーガ・ポルトゥゲーザ（国内リーグ）で6回、タッサ・デ・ポルトガル（国内カップ）で5回、スーペルタッサ・デ・ポルトガル（国内スーパーカップ）で6回優勝している。リーガ・ポルトゥゲーザでは参戦初年度の2001-02シーズンから2011-12シーズンまで必ず1位か2位となっている。[UEFAフットサルカップ](../Page/UEFAフットサルカップ.md "wikilink")では2003-04シーズンに準優勝し、2009-10シーズンに優勝した。ヨーロピアン・フットサル・カップウィナーズカップでは2006-07シーズンに準優勝した。インターコンチネンタル・フットサルカップでは2007年に4位となり、2011年に3位となった。日本人選手では[逸見勝利ラファエル](https://ja.wikipedia.org/wiki/逸見勝利ラファエル "wikilink")が2013年シーズンより所属している。
 

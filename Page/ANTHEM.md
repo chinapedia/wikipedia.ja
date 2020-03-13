@@ -36,7 +36,7 @@
 
 第三期（1985年～1987年）
 
-  - [坂本英三](https://ja.wikipedia.org/wiki/坂本英三 "wikilink")：ボーカル、作詞
+  - [坂本英三](../Page/坂本英三.md "wikilink")：ボーカル、作詞
   - 福田洋也：ギター、作曲
   - 柴田直人：ベース、作詞、作曲
   - 大内“MAD”貴雅、ドラム
@@ -51,7 +51,7 @@
 第五期（1990年）
 
   - 森川之雄：ボーカル
-  - [中間英明](https://ja.wikipedia.org/wiki/中間英明 "wikilink")：ギター、作曲
+  - [中間英明](../Page/中間英明.md "wikilink")：ギター、作曲
   - 柴田直人：ベース、作詞、作曲
   - 大内“MAD”貴雅、ドラム
 
@@ -64,7 +64,7 @@
 
 第七期（2000年）
 
-  - [グラハム・ボネット](https://ja.wikipedia.org/wiki/グラハム・ボネット "wikilink")：ボーカル
+  - [グラハム・ボネット](../Page/グラハム・ボネット.md "wikilink")：ボーカル
   - 清水昭男：ギター
   - 柴田直人：ベース、作詞、作曲
   - 大内“MAD”貴雅、ドラム
@@ -200,7 +200,7 @@ LineData =
 
 [1989年](../Page/1989年.md "wikilink")5月、5thアルバム「HUNTING TIME」をリリース。この頃からリーダー柴田と福田洋也との間に軋轢が発生。
 
-[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")2月、次回作のアルバムのレコーディング終了後、浜松でのライヴを最後に福田が脱退。「即戦力となるギタリストが必要」と判断したバンドは3月には元[ハリー・スキュアリー](https://ja.wikipedia.org/wiki/ハリー・スキュアリー "wikilink")のギタリスト[中間英明](https://ja.wikipedia.org/wiki/中間英明 "wikilink")を加入させ、6thアルバム「NO SMOKE WITHOUT FIRE」をリリース。4月には韓国公演を行った。
+[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")2月、次回作のアルバムのレコーディング終了後、浜松でのライヴを最後に福田が脱退。「即戦力となるギタリストが必要」と判断したバンドは3月には元[ハリー・スキュアリー](https://ja.wikipedia.org/wiki/ハリー・スキュアリー "wikilink")のギタリスト[中間英明](../Page/中間英明.md "wikilink")を加入させ、6thアルバム「NO SMOKE WITHOUT FIRE」をリリース。4月には韓国公演を行った。
 
 [1991年](../Page/1991年.md "wikilink")初頭、中間がバイク事故を起こしたため活動停止。しかし、中間とバンドメンバーとの活動方針に対する意見の相違が原因で脱退をしてしまう。中間は脱退理由について「海外へのアプローチではなく日本向けのハードロックを日本語でレコーディングする」事への違和感を理由に脱退したと述べていたが\[3\]、柴田は2017年のBURRN\! JAPANのインタビューでWikipediaの当項目に「海外へのアプローチをするという約束で加入させた中間が、バンドの活動領域が日本に留まっていることに耐えかね、脱退を申し入れた」と書かれていた件に触れ「そうした認識は全くない」とし、「彼にあったのだとすると、それが彼の真実であるんでしょうけど僕は全く違う（苦笑）。僕は海外に行かないと言ったことはないですね。海外レコーディングが中止になったのは僕のせいではなく[湾岸戦争](../Page/湾岸戦争.md "wikilink")のせいですから」と、中間の考えとは違う理由を述べている\[4\]。 同年8月、森川の知り合いを通じてオーディションに参加した当時20歳の清水昭男が加入。数ヶ月後、レコーディングの為に渡英。
 
@@ -216,7 +216,7 @@ LineData =
 
   - 福田洋也
 
-トニー前田とフィンガーというバンドを結成するも長くは続かず活動休止。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、元[HOUND DOGの](../Page/HOUND_DOG.md "wikilink")[鮫島秀樹](https://ja.wikipedia.org/wiki/鮫島秀樹 "wikilink")などを迎え入れ、ビクターレコードから「演歌メタル」をリリースする。現在は音楽を引退して[写真家](../Page/写真家.md "wikilink")として活動している。
+トニー前田とフィンガーというバンドを結成するも長くは続かず活動休止。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、元[HOUND DOGの](../Page/HOUND_DOG.md "wikilink")[鮫島秀樹](../Page/鮫島秀樹.md "wikilink")などを迎え入れ、ビクターレコードから「演歌メタル」をリリースする。現在は音楽を引退して[写真家](../Page/写真家.md "wikilink")として活動している。
 
   - 中間英明
 
@@ -242,7 +242,7 @@ LineData =
 
 長年[CLUB CITTA'を聖地としており](../Page/CLUB_CITTA'.md "wikilink")、ツアーを行う際に東京近辺の公演は毎回CLUB CITTA'で行っていた。 2019年、公式ホームページ上でこの聖地CLUB CITTA'から離れることを表明した。
 
-[1999年](../Page/1999年.md "wikilink")、[グラハム・ボネット](https://ja.wikipedia.org/wiki/グラハム・ボネット "wikilink")をゲストに迎え入れる。元々このプロジェクトはアンセムそのものの再結成は視野に入っておらず、柴田とグラハムの単発プロジェクト扱いであった。(当時柴田はラウドネス在籍中)
+[1999年](../Page/1999年.md "wikilink")、[グラハム・ボネット](../Page/グラハム・ボネット.md "wikilink")をゲストに迎え入れる。元々このプロジェクトはアンセムそのものの再結成は視野に入っておらず、柴田とグラハムの単発プロジェクト扱いであった。(当時柴田はラウドネス在籍中)
 
 [2000年](../Page/2000年.md "wikilink")、アンセムの楽曲を全英語詞で再録したアルバム「HEAVY METAL ANTHEM」を発表。ギターは清水昭男、ドラムは大内貴雄。本作及びライヴの評判が良く、さらに柴田が在籍していたラウドネスがデビュー当時の編成に戻ることが決まったため、本間と共に脱退。結果的にANTHEM再結成への準備が整った。坂本も[アニメタル](../Page/アニメタル.md "wikilink")を前年に活動休止しており、加入に障害が無かった。
 
@@ -256,7 +256,7 @@ LineData =
 
 [2004年](../Page/2004年.md "wikilink")7月、10thアルバム「[ETERNAL WARRIOR](https://ja.wikipedia.org/wiki/ETERNAL_WARRIOR "wikilink")」をリリース。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、本間が膝の手術をするアクシデントもあったが、7月にはデビュー20周年を機に歴代メンバーを集結させてライヴツアーを行った。\<\!--\>関東公演には関係断絶状態とされていた中間英明がスペシャルゲストとして登場した。\<--\>同年11月には20周年ツアーを収めたDVD「ANTHEM 20th Anniversary Tour 2005」をリリース。
+[2005年](../Page/2005年.md "wikilink")、本間が膝の手術をするアクシデントもあったが、7月にはデビュー20周年を機に歴代メンバーを集結させてライヴツアーを行った。\<\!--\>関東公演には関係断絶状態とされていた中間英明がスペシャルゲストとして登場した。\<--\>同年11月には20周年ツアーを収めたDVD「ANTHEM 20th Anniversary Tour 2005」をリリース。
 
 [2006年](../Page/2006年.md "wikilink")7月、アルバムリリース前にショートツアーを実施。その後8月に11thアルバム「[IMMORTAL](https://ja.wikipedia.org/wiki/IMMORTAL_\(ANTHEMのアルバム\) "wikilink")」をリリース。同年11月にツアー開始。
 
@@ -268,7 +268,7 @@ LineData =
 
 [2014年](../Page/2014年.md "wikilink")2月、それぞれの音楽性を追求するため、再結成当初からのボーカルである坂本英三が脱退。後任として1988年から1992年の解散まで在籍していた森川之雄が再加入する。同時にサポートメンバーであった元夜叉のドラマーの田丸勇が正式メンバーとなることをHP上で発表した。
 
-[2018年](../Page/2018年.md "wikilink")、サイドプロジェクトとしてANHTEMの楽曲以外のカヴァーを専門に演奏するバンド「THE MAN」を結成。元[Gargoyle](../Page/Gargoyle.md "wikilink")のKENTAROをゲストに迎えたツインリード編成。バンド名はANTHEMの[アナグラム](../Page/アナグラム.md "wikilink")。柴田、清水、田丸に[GALNERYUS](../Page/GALNERYUS.md "wikilink")の[小野正利](https://ja.wikipedia.org/wiki/小野正利 "wikilink")とYUHKI、[島紀史](../Page/島紀史.md "wikilink")の3人のゲストを擁したラインナップでも活動する。
+[2018年](../Page/2018年.md "wikilink")、サイドプロジェクトとしてANHTEMの楽曲以外のカヴァーを専門に演奏するバンド「THE MAN」を結成。元[Gargoyle](../Page/Gargoyle.md "wikilink")のKENTAROをゲストに迎えたツインリード編成。バンド名はANTHEMの[アナグラム](../Page/アナグラム.md "wikilink")。柴田、清水、田丸に[GALNERYUS](../Page/GALNERYUS.md "wikilink")の[小野正利](../Page/小野正利.md "wikilink")とYUHKI、[島紀史](../Page/島紀史.md "wikilink")の3人のゲストを擁したラインナップでも活動する。
 
 ## 影響
 
@@ -476,7 +476,7 @@ LineData =
 
 <!-- end list -->
 
-  - [OFFICIAL BOOTLEG](https://ja.wikipedia.org/wiki/OFFICIAL_BOOTLEG "wikilink")　[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（5000枚限定版）
+  - [OFFICIAL BOOTLEG](https://ja.wikipedia.org/wiki/OFFICIAL_BOOTLEG "wikilink")　[2005年](../Page/2005年.md "wikilink")（5000枚限定版）
 
 <!-- end list -->
 
@@ -629,7 +629,7 @@ ANTHEM以外では<a href="../Page/LOUDNESS.md" title="wikilink">LOUDNESS</a>、
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/柴田直人_生誕60周年記念_METAL_MAN_RISING" title="wikilink">柴田直人 生誕60周年記念 METAL MAN RISING</a></strong></p></td>
-<td><p>柴田直人の生誕60周年を記念したライブを収めた作品。現アンセムメンバーに加え、アンセムの歴代ヴォーカリスト、柴田がANTHEM以前に参加していたBLACK HOLEの元メンバー、LOUDNESSの<a href="https://ja.wikipedia.org/wiki/高崎晃" title="wikilink">高崎晃</a>が参加した。</p></td>
+<td><p>柴田直人の生誕60周年を記念したライブを収めた作品。現アンセムメンバーに加え、アンセムの歴代ヴォーカリスト、柴田がANTHEM以前に参加していたBLACK HOLEの元メンバー、LOUDNESSの<a href="../Page/高崎晃.md" title="wikilink">高崎晃</a>が参加した。</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -649,7 +649,7 @@ ANTHEM以外では<a href="../Page/SABBRABELLS.md" title="wikilink">SABBRABELLS<
 
 ### 書籍
 
-  - ANTHEM BIBLE（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、[ドレミ楽譜出版社](../Page/ドレミ楽譜出版社.md "wikilink")）
+  - ANTHEM BIBLE（[2005年](../Page/2005年.md "wikilink")、[ドレミ楽譜出版社](../Page/ドレミ楽譜出版社.md "wikilink")）
 
 ## 参考文献
 

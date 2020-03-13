@@ -49,7 +49,7 @@
   - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")4月 - [1972年](../Page/1972年.md "wikilink")9月　平日10:00 - 10:05
   - 1972年10月 - [1977年](../Page/1977年.md "wikilink")3月　平日9:55 - 10:00
 
-『[モーニングジャンボ](https://ja.wikipedia.org/wiki/モーニングジャンボ "wikilink")』→『[モーニングジャンボ奥さま8時半です](https://ja.wikipedia.org/wiki/モーニングジャンボ奥さま8時半です "wikilink")』の後に放送された。のちに[ワイドショー](../Page/ワイドショー.md "wikilink")枠に内包され、その後2014年3月まで放送された『[はなまるニュース](../Page/はなまるマーケット.md "wikilink")』の前身であった（2009年3月30日以降は[JNN排他協定](https://ja.wikipedia.org/wiki/JNN排他協定 "wikilink")適用番組）。
+『[モーニングジャンボ](https://ja.wikipedia.org/wiki/モーニングジャンボ "wikilink")』→『[モーニングジャンボ奥さま8時半です](../Page/モーニングジャンボ奥さま8時半です.md "wikilink")』の後に放送された。のちに[ワイドショー](../Page/ワイドショー.md "wikilink")枠に内包され、その後2014年3月まで放送された『[はなまるニュース](../Page/はなまるマーケット.md "wikilink")』の前身であった（2009年3月30日以降は[JNN排他協定](https://ja.wikipedia.org/wiki/JNN排他協定 "wikilink")適用番組）。
 
   - 午後
 
@@ -58,12 +58,12 @@
   - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")10月 - [1975年](../Page/1975年.md "wikilink")3月　平日（第1期）14:50 - 15:00
   - 1975年4月 - 1977年3月　平日（第1期）14:55 - 15:00
   - [1984年](../Page/1984年.md "wikilink")4月 - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")9月　週末13:54 - 14:00
-  - 1986年10月 - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")3月　土曜時間不定（6分間）、日曜13:54 - 14:00
+  - 1986年10月 - [2005年](../Page/2005年.md "wikilink")3月　土曜時間不定（6分間）、日曜13:54 - 14:00
   - 2005年[3月28日](../Page/3月28日.md "wikilink") - 2009年3月29日　平日（第2期）15:56 - 15:58、土曜時間不定（6分間）、日曜13:54 - 14:00
   - 2010年3月29日 - 2012年9月29日　平日15:50 - 15:55（通信販売番組「買っトク\!」とコンプレックス枠にて放送され、TBS NEWS開始は15:53.30から）
   - 2012年10月1日 - 2013年9月27日　平日14:50 - 14:55（通信販売番組『[コレ 買いダネ\!\!](https://ja.wikipedia.org/wiki/コレ_買いダネ!! "wikilink")（←[買っトク\!](https://ja.wikipedia.org/wiki/買っトク! "wikilink")）』と[コンプレックス枠](https://ja.wikipedia.org/wiki/コンプレックス枠 "wikilink")にて放送され、ニュースの開始は14:53.30から）
 
-平日午後は、1970年代後半は14時台のドラマ再放送枠の後に放送されていたものの、一時廃枠。1984年4月に全曜日の午後に[スポットニュース](https://ja.wikipedia.org/wiki/スポットニュース "wikilink")が放送されることになり、平日は14時台のドラマ再放送枠の前に『[2時のニュース](../Page/2時のニュース.md "wikilink")』が、土曜日は『[12時のスペシャル](https://ja.wikipedia.org/wiki/12時のスペシャル "wikilink")』（2時間ドラマ再放送枠）の後、日曜日は13時台のバラエティ番組（『[噂の\!東京マガジン](../Page/噂の!東京マガジン.md "wikilink")』の前身）の後に『TBS NEWS』が編成された。土曜日は1986年10月から14時台のスポーツ中継の後に移動し、放送時間が不定となった。
+平日午後は、1970年代後半は14時台のドラマ再放送枠の後に放送されていたものの、一時廃枠。1984年4月に全曜日の午後に[スポットニュース](../Page/スポットニュース.md "wikilink")が放送されることになり、平日は14時台のドラマ再放送枠の前に『[2時のニュース](../Page/2時のニュース.md "wikilink")』が、土曜日は『[12時のスペシャル](https://ja.wikipedia.org/wiki/12時のスペシャル "wikilink")』（2時間ドラマ再放送枠）の後、日曜日は13時台のバラエティ番組（『[噂の\!東京マガジン](../Page/噂の!東京マガジン.md "wikilink")』の前身）の後に『TBS NEWS』が編成された。土曜日は1986年10月から14時台のスポーツ中継の後に移動し、放送時間が不定となった。
 
 2005年3月28日からは、これまで[午後のワイドショー枠に内包されていたニュースコーナーが](https://ja.wikipedia.org/wiki/TBSテレビ系列平日午後のワイドショー枠 "wikilink")、『[ジャスト](https://ja.wikipedia.org/wiki/ジャスト_\(情報番組\) "wikilink")』が終了してワイドショー枠が一時消滅したのを機に独立した。『[2時ピタッ\!](../Page/2時ピタッ!.md "wikilink")』、『[2時っチャオ\!](../Page/2時っチャオ!.md "wikilink")』にもニュースコーナーは存在したが、本番組もそのまま継続した。
 
@@ -78,7 +78,7 @@
   - [1962年](../Page/1962年.md "wikilink")10月 - 1975年9月　平日・土曜18:50 - 18:55
   - 1975年10月 - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")3月　土曜18:50 - 18:55
 
-1975年10月の『[テレポートTBS6](https://ja.wikipedia.org/wiki/テレポートTBS6 "wikilink")』開始まで、『[JNNニュースコープ](https://ja.wikipedia.org/wiki/JNNニュースコープ "wikilink")』に続く平日夕方のローカルニュースとして放送された。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")に『テレポートTBS6』と『JNNニュースコープ』が『[JNNニュースの森](../Page/JNNニュースの森.md "wikilink")』に統合された後も、土曜夕方の放送のみ統合されず、1995年3月まで続けられた。日曜日の放送はなかった 。[東京電力](https://ja.wikipedia.org/wiki/東京電力 "wikilink")の[単独提供で](../Page/一社提供.md "wikilink")、『テレポートTBS6』終了後も、筆頭スポンサーを担当した。
+1975年10月の『[テレポートTBS6](../Page/テレポートTBS6.md "wikilink")』開始まで、『[JNNニュースコープ](https://ja.wikipedia.org/wiki/JNNニュースコープ "wikilink")』に続く平日夕方のローカルニュースとして放送された。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")に『テレポートTBS6』と『JNNニュースコープ』が『[JNNニュースの森](../Page/JNNニュースの森.md "wikilink")』に統合された後も、土曜夕方の放送のみ統合されず、1995年3月まで続けられた。日曜日の放送はなかった 。[東京電力](https://ja.wikipedia.org/wiki/東京電力 "wikilink")の[単独提供で](../Page/一社提供.md "wikilink")、『テレポートTBS6』終了後も、筆頭スポンサーを担当した。
 
   - 夜
 
@@ -99,9 +99,9 @@
 <!-- end list -->
 
   - TBSアナウンサー、報道記者がシフト勤務で担当した。
-  - ただし、土曜日夕方の放送は1987年10月から1995年3月の放送終了までの7年半にわたって[鈴木史朗](../Page/鈴木史朗.md "wikilink")が固定で担当した（鈴木の不在時や、鈴木が同時期に担当していた『[JNNスポーツ&ニュース](../Page/JNNスポーツ&ニュース.md "wikilink")』が特別編成等で放送時間が遅くなる場合は、[浦口直樹](https://ja.wikipedia.org/wiki/浦口直樹 "wikilink")が代行）。
+  - ただし、土曜日夕方の放送は1987年10月から1995年3月の放送終了までの7年半にわたって[鈴木史朗](../Page/鈴木史朗.md "wikilink")が固定で担当した（鈴木の不在時や、鈴木が同時期に担当していた『[JNNスポーツ&ニュース](../Page/JNNスポーツ&ニュース.md "wikilink")』が特別編成等で放送時間が遅くなる場合は、[浦口直樹](../Page/浦口直樹.md "wikilink")が代行）。
   - 週末午後の放送は、90年代前半にバラエティ番組から報道番組への転身を図っていた[長峰由紀](../Page/長峰由紀.md "wikilink")が固定で起用されていた時期もあった。
-  - 2006年10月 - 2008年9月の週末午後の放送は[伊藤隆太](../Page/伊藤隆太.md "wikilink")が担当した（昼の『JNN NEWS』、『[JNNイブニング・ニュース](https://ja.wikipedia.org/wiki/JNNイブニング・ニュース "wikilink")』、2008年4月以降の土曜日は『[報道特集NEXT](https://ja.wikipedia.org/wiki/報道特集_\(TBS\) "wikilink")』と兼務。長峰の場合もあり）。
+  - 2006年10月 - 2008年9月の週末午後の放送は[伊藤隆太](../Page/伊藤隆太.md "wikilink")が担当した（昼の『JNN NEWS』、『[JNNイブニング・ニュース](../Page/JNNイブニング・ニュース.md "wikilink")』、2008年4月以降の土曜日は『[報道特集NEXT](https://ja.wikipedia.org/wiki/報道特集_\(TBS\) "wikilink")』と兼務。長峰の場合もあり）。
 
 <!-- end list -->
 
@@ -125,7 +125,7 @@
 <td><p>2010.4</p></td>
 <td><p>2010.8</p></td>
 <td><p><a href="../Page/升田尚宏.md" title="wikilink">升田尚宏</a><sup>1・2</sup></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小川知子_(アナウンサー)" title="wikilink">小川知子</a><sup>3</sup></p></td>
+<td><p><a href="../Page/小川知子_(アナウンサー).md" title="wikilink">小川知子</a><sup>3</sup></p></td>
 <td><p><a href="../Page/秋沢淳子.md" title="wikilink">秋沢淳子</a><sup>1・4</sup></p></td>
 <td><p><a href="../Page/向井政生.md" title="wikilink">向井政生</a><sup>1・5・6</sup></p></td>
 <td><p>小川知子<sup>3・7</sup></p></td>
@@ -357,7 +357,7 @@
     *伊集院光とらじおと* / *有馬隼人とらじおと山瀬まみと*、*ジェーン・スー 生活は踊る*、*たまむすび*、*ACTION*、*ネットワークトゥディ*
       -
         月曜日：[伊藤隆太](../Page/伊藤隆太.md "wikilink")●
-        火曜日：[豊田綾乃](../Page/豊田綾乃.md "wikilink")●（『たまむすび』まで）、[外山惠理](https://ja.wikipedia.org/wiki/外山惠理 "wikilink")●（『ACTION』・『ネットワークトゥディ』・隔週）/[長岡杏子](https://ja.wikipedia.org/wiki/長岡杏子 "wikilink")●（『ACTION』・『ネットワークトゥディ』・隔週）
+        火曜日：[豊田綾乃](../Page/豊田綾乃.md "wikilink")●（『たまむすび』まで）、[外山惠理](../Page/外山惠理.md "wikilink")●（『ACTION』・『ネットワークトゥディ』・隔週）/[長岡杏子](https://ja.wikipedia.org/wiki/長岡杏子 "wikilink")●（『ACTION』・『ネットワークトゥディ』・隔週）
         水曜日：[中村尚登](../Page/中村尚登.md "wikilink")
         木曜日：[長峰由紀](../Page/長峰由紀.md "wikilink")●（『たまむすび』まで）、[水野真裕美](../Page/水野真裕美.md "wikilink")●（『ACTION』・『ネットワークトゥディ』・隔週） / [向井政生](../Page/向井政生.md "wikilink")●（『ACTION』・『ネットワークトゥディ』・隔週）
         金曜日：[柴田秀一](../Page/柴田秀一.md "wikilink")

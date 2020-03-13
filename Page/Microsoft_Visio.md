@@ -9,7 +9,7 @@ Visioに用意されている図形の部品はビジネス文書やプレゼン
 
 ## 歴史
 
-米ライトハウスデザイン（[:en:Lighthouse Design](https://ja.wikipedia.org/wiki/:en:Lighthouse_Design "wikilink")）が開発した[NEXTSTEP](https://ja.wikipedia.org/wiki/NEXTSTEP "wikilink")用ソフトウェア「Diagram\!」を、1992年にShapeware Corporation（のちの、[米アルダスの創業者達によって設立された](../Page/アルダス.md "wikilink")）がWindows用に複製・開発したソフトウェアである。日本国内向けとしては[アスキーが販売していたが](../Page/アスキー_\(企業\).md "wikilink")、バージョン5および2000はビジオジャパンから発売された。2000年1月7日にマイクロソフトがVisio Corporationを買収したため、2002以降はMicrosoft Officeシリーズのソフトウェアとして位置づけられた。
+米ライトハウスデザイン（[:en:Lighthouse Design](https://ja.wikipedia.org/wiki/:en:Lighthouse_Design "wikilink")）が開発した[NEXTSTEP](../Page/NEXTSTEP.md "wikilink")用ソフトウェア「Diagram\!」を、1992年にShapeware Corporation（のちの、[米アルダスの創業者達によって設立された](../Page/アルダス.md "wikilink")）がWindows用に複製・開発したソフトウェアである。日本国内向けとしては[アスキーが販売していたが](../Page/アスキー_\(企業\).md "wikilink")、バージョン5および2000はビジオジャパンから発売された。2000年1月7日にマイクロソフトがVisio Corporationを買収したため、2002以降はMicrosoft Officeシリーズのソフトウェアとして位置づけられた。
 
 マイクロソフトに買収されたあとには、Visio 2000 SR1、Visio 2002、Visio 2003、Visio 2007、Visio 2010、Visio 2013、Visio 2016のバージョンがリリースされている。
 
@@ -50,7 +50,7 @@ Visioに用意されている図形の部品はビジネス文書やプレゼン
   - [OpenOffice.org Draw](../Page/OpenOffice.org_Draw.md "wikilink")（[オフィススイート](../Page/オフィススイート.md "wikilink")[OpenOffice.org](../Page/OpenOffice.org.md "wikilink")の作図ソフト　開発終了）
       - [Apache OpenOffice](https://ja.wikipedia.org/wiki/Apache_OpenOffice "wikilink") Draw（OpenOffice.org Drawの後継）
       - [LibreOffice](https://ja.wikipedia.org/wiki/LibreOffice "wikilink") Draw（OpenOffice.org Drawの後継）
-  - [花子](https://ja.wikipedia.org/wiki/花子_\(グラフィックソフト\) "wikilink")（統合グラフィックソフト　Windows用）
+  - [花子](../Page/花子_\(グラフィックソフト\).md "wikilink")（統合グラフィックソフト　Windows用）
   - [LucidChart](http://www.lucidchart.com/pages/ja)（Webブラウザー上で編集を行うサービス | 日本語）
   - [Gliffy](http://www.gliffy.com/)（Webブラウザー上で編集を行うサービス | 英語）
   - [yEd](http://www.yworks.com/en/products_yed_about.html)

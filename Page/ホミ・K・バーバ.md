@@ -14,7 +14,7 @@
 <!-- end list -->
 
   -
-    [本橋哲也](https://ja.wikipedia.org/wiki/本橋哲也 "wikilink")・[正木恒夫](https://ja.wikipedia.org/wiki/正木恒夫 "wikilink")・[外岡尚美](https://ja.wikipedia.org/wiki/外岡尚美 "wikilink")・[阪元留美](https://ja.wikipedia.org/wiki/阪元留美 "wikilink")訳『文化の場所――ポストコロニアリズムの位相』（[法政大学出版局](../Page/法政大学出版局.md "wikilink"), 2005年）
+    [本橋哲也](../Page/本橋哲也.md "wikilink")・[正木恒夫](https://ja.wikipedia.org/wiki/正木恒夫 "wikilink")・[外岡尚美](https://ja.wikipedia.org/wiki/外岡尚美 "wikilink")・[阪元留美](https://ja.wikipedia.org/wiki/阪元留美 "wikilink")訳『文化の場所――ポストコロニアリズムの位相』（[法政大学出版局](../Page/法政大学出版局.md "wikilink"), 2005年）
 
 ### 共著
 

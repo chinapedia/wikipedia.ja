@@ -36,7 +36,7 @@ WANDS時代は[織田哲郎](../Page/織田哲郎.md "wikilink")や[栗林誠一
 <th><p>タイトル<br />
 c/w</p></th>
 <th><p>楽曲制作</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/オリコンチャート" title="wikilink">オリコンチャート</a><br />
+<th><p><a href="../Page/オリコンチャート.md" title="wikilink">オリコンチャート</a><br />
 最高順位</p></th>
 </tr>
 </thead>

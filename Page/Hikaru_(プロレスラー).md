@@ -12,15 +12,15 @@
 
 ## 経歴・戦歴
 
-[豊田真奈美](https://ja.wikipedia.org/wiki/豊田真奈美 "wikilink")に憧れプロレスラーを志し、[1999年](../Page/1999年.md "wikilink")2月に[全日本女子プロレス](../Page/全日本女子プロレス.md "wikilink")（全女）に入団。7月11日の[フジテレビお台場特設会場における](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[藤井巳幸](../Page/藤井巳幸.md "wikilink")戦でデビューするが、試合中の怪我がもとで[2000年](../Page/2000年.md "wikilink")5月に退団。[2002年](../Page/2002年.md "wikilink")8月、[TBSの](../Page/TBSテレビ.md "wikilink")[2003年](../Page/2003年.md "wikilink")新春特別番組『さんま・玉緒のお年玉 あんたの夢かなえたろかスペシャル』での街頭インタビューで「あなたの夢はなんですか？」と聞かれ、「もう一度プロレスラーになることです」と答えたことをきっかけに全女に再入団。同年秋にプロテストに合格し、12月に再デビューを果たした。奇跡の復活の道のりは上記の番組で放送され、反響を呼んだ。
+[豊田真奈美](../Page/豊田真奈美.md "wikilink")に憧れプロレスラーを志し、[1999年](../Page/1999年.md "wikilink")2月に[全日本女子プロレス](../Page/全日本女子プロレス.md "wikilink")（全女）に入団。7月11日の[フジテレビお台場特設会場における](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[藤井巳幸](../Page/藤井巳幸.md "wikilink")戦でデビューするが、試合中の怪我がもとで[2000年](../Page/2000年.md "wikilink")5月に退団。[2002年](../Page/2002年.md "wikilink")8月、[TBSの](../Page/TBSテレビ.md "wikilink")[2003年](../Page/2003年.md "wikilink")新春特別番組『さんま・玉緒のお年玉 あんたの夢かなえたろかスペシャル』での街頭インタビューで「あなたの夢はなんですか？」と聞かれ、「もう一度プロレスラーになることです」と答えたことをきっかけに全女に再入団。同年秋にプロテストに合格し、12月に再デビューを果たした。奇跡の復活の道のりは上記の番組で放送され、反響を呼んだ。
 
 再デビュー直後の[2003年](../Page/2003年.md "wikilink")1月、リングネームを「Hikaru」に改名。[2004年](../Page/2004年.md "wikilink")11月、[西尾美香](../Page/西尾美香.md "wikilink")を破り、全女の二大シングル王座の一つである[オールパシフィック王座](../Page/オールパシフィック王座.md "wikilink")を奪取した。同年12月より、「[PRIDE](../Page/PRIDE_\(格闘技イベント\).md "wikilink")」で知られる[ドリームステージエンターテインメント](../Page/ドリームステージエンターテインメント.md "wikilink")が主催するプロレスイベント「[ハッスル](https://ja.wikipedia.org/wiki/ハッスル_\(プロレス\) "wikilink")」に野球選手キャラクターの「ハッスルなでしこHikaru」として参戦している。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")2月、[ライオネス飛鳥](../Page/ライオネス飛鳥.md "wikilink")とのオールパシフィック王座防衛戦中に左足首を骨折。さらに療養欠場中の4月17日に全女が解散する不運に見舞われるが、6月に先輩の[高橋奈苗](https://ja.wikipedia.org/wiki/高橋奈苗 "wikilink")とマネジメント事務所「フラッシュ7」を設立し、9月10日には豊田真奈美戦で復帰し、フラッシュ7に[前村早紀](../Page/前村早紀.md "wikilink")が合流しドリームキャッチャーを結成した（その後ドリームキャッチャーは[プロレスリングSUNとして団体化](../Page/CHICK_FIGHTS_SUN.md "wikilink")）。
+[2005年](../Page/2005年.md "wikilink")2月、[ライオネス飛鳥](../Page/ライオネス飛鳥.md "wikilink")とのオールパシフィック王座防衛戦中に左足首を骨折。さらに療養欠場中の4月17日に全女が解散する不運に見舞われるが、6月に先輩の[高橋奈苗](https://ja.wikipedia.org/wiki/高橋奈苗 "wikilink")とマネジメント事務所「フラッシュ7」を設立し、9月10日には豊田真奈美戦で復帰し、フラッシュ7に[前村早紀](../Page/前村早紀.md "wikilink")が合流しドリームキャッチャーを結成した（その後ドリームキャッチャーは[プロレスリングSUNとして団体化](../Page/CHICK_FIGHTS_SUN.md "wikilink")）。
 
 [2006年](../Page/2006年.md "wikilink")4月2日、女帝興行で[闘獣牙Leonを破り](../Page/Leon_\(プロレスラー\).md "wikilink")、第2代[NSG王座](https://ja.wikipedia.org/wiki/NSG王座 "wikilink")、[2007年](../Page/2007年.md "wikilink")1月14日、髪の毛を賭けた試合で[ウェズナー・ビュージック](https://ja.wikipedia.org/wiki/ウェズナー・ビュージック "wikilink")を破り、EWA世界女子王座を獲得。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")12月、[ZERO1](https://ja.wikipedia.org/wiki/ZERO1 "wikilink")-MAX新宿大会にて、2009年4月に同じく[CHICK FIGHTS SUN所属の](../Page/CHICK_FIGHTS_SUN.md "wikilink")[前村さきとともに引退することを発表](../Page/前村早紀.md "wikilink")。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")12月、[ZERO1](../Page/ZERO1.md "wikilink")-MAX新宿大会にて、2009年4月に同じく[CHICK FIGHTS SUN所属の](../Page/CHICK_FIGHTS_SUN.md "wikilink")[前村さきとともに引退することを発表](../Page/前村早紀.md "wikilink")。
 
 [2009年](../Page/2009年.md "wikilink")1月1日の後楽園ホール大会において、リング上で[新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")（当時）の[金本浩二](../Page/金本浩二.md "wikilink")との結婚を発表し\[1\]、1月13日に入籍した\[2\]。
 
@@ -95,7 +95,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>○<strong><a href="https://ja.wikipedia.org/wiki/豊田真奈美" title="wikilink">豊田真奈美</a></strong><br />
+<td><p>○<strong><a href="../Page/豊田真奈美.md" title="wikilink">豊田真奈美</a></strong><br />
 <strong><a href="https://ja.wikipedia.org/wiki/ヘイリー・ヘイトレッド" title="wikilink">ヘイリー・ヘイトレッド</a></strong></p></td>
 <td><p>13分12秒<br />
 ジャパニーズオーシャンクインビーボム→体固め</p></td>
@@ -114,7 +114,7 @@
 <td><p>13分11秒<br />
 回転エビ固め</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ジェイミー・ドーンシー" title="wikilink">ジェイミー・D</a></strong>×</p></td>
-<td><p>○<strong><a href="https://ja.wikipedia.org/wiki/ダンプ松本" title="wikilink">ダンプ松本</a></strong></p></td>
+<td><p>○<strong><a href="../Page/ダンプ松本.md" title="wikilink">ダンプ松本</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p>第4試合 Believe The Road 60分1本勝負</p></td>
@@ -127,7 +127,7 @@
 <strong><a href="https://ja.wikipedia.org/wiki/Sareee" title="wikilink">Sareee</a></strong></p></td>
 <td><p>15分12秒<br />
 肩車式バックドロップ→体固め</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/アジャ・コング" title="wikilink">アジャ・コング</a></strong><br />
+<td><p><strong><a href="../Page/アジャ・コング.md" title="wikilink">アジャ・コング</a></strong><br />
 <strong><a href="https://ja.wikipedia.org/wiki/ベッツィー・ルース" title="wikilink">アンドレアル・マザー</a></strong>×</p></td>
 <td><p><strong>○<a href="../Page/伊藤薫_(プロレスラー).md" title="wikilink">ZAP I</a></strong><br />
 <strong><a href="../Page/渡辺智子.md" title="wikilink">ZAP T</a></strong></p></td>

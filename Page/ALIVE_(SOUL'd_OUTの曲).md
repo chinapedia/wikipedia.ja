@@ -21,7 +21,7 @@
 
   - [ALIVE](../Page/ALIVE_\(SOUL'd_OUTのアルバム\).md "wikilink")（\#1、\#2　\#2は別バージョン)
   - [Remixies\&Outside](../Page/Remixies&Outside.md "wikilink")（\#1)
-  - [Single Collection](https://ja.wikipedia.org/wiki/Single_Collection_\(SOUL'd_OUTのアルバム\) "wikilink")（\#1)
+  - [Single Collection](../Page/Single_Collection_\(SOUL'd_OUTのアルバム\).md "wikilink")（\#1)
   - [Flip Side Collection](../Page/Flip_Side_Collection.md "wikilink")（\#2)
 
 ## タイアップ

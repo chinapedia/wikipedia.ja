@@ -5,7 +5,7 @@
 
 ## 概要
 
-以前は**NEXUS**（ネクサス）の名称で、中学生・高校生を対象に大学受験指導を行っていた。[渋谷](../Page/渋谷.md "wikilink")（現・渋谷本部、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")桜丘町）の1校舎のみで指定校制でなくして[東大](https://ja.wikipedia.org/wiki/東京大学 "wikilink")（2006年71名）等の難関大学に多数合格者を出している実績があり、特に英語の評価が高いといわれていた。
+以前は**NEXUS**（ネクサス）の名称で、中学生・高校生を対象に大学受験指導を行っていた。[渋谷](../Page/渋谷.md "wikilink")（現・渋谷本部、[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")桜丘町）の1校舎のみで指定校制でなくして[東大](https://ja.wikipedia.org/wiki/東京大学 "wikilink")（2006年71名）等の難関大学に多数合格者を出している実績があり、特に英語の評価が高いといわれていた。
 
 その後、横浜校開校は断念したものの、比較的渋谷に近い[たまプラーザ](https://ja.wikipedia.org/wiki/たまプラーザ "wikilink")に、SAPIX中学部と校舎を共用する形で新校を開校した。
 
@@ -27,7 +27,7 @@ SAPIXとの中高一貫を前面に打ち出し、人材や資料を一本化す
 
   - 北海道：札幌南高前校☆
   - 宮城県：仙台広瀬通校☆
-  - 東京都：[東大館](https://ja.wikipedia.org/wiki/東京大学 "wikilink")・東京校（医学館）・吉祥寺校・成城校★・渋谷校・[自由が丘](https://ja.wikipedia.org/wiki/自由が丘 "wikilink")校★（YGC併設）・代々木キャンパス(YGC)
+  - 東京都：[東大館](https://ja.wikipedia.org/wiki/東京大学 "wikilink")・東京校（医学館）・吉祥寺校・成城校★・渋谷校・[自由が丘](../Page/自由が丘.md "wikilink")校★（YGC併設）・代々木キャンパス(YGC)
   - 埼玉県：大宮校
   - 神奈川県：横浜校☆・大船校・[たまプラーザ](https://ja.wikipedia.org/wiki/たまプラーザ "wikilink")校★
   - 千葉県：西船校

@@ -5,7 +5,7 @@
 
 [2004年](../Page/2004年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")にWATER MUSICよりリリースされた。
 
-同年に急逝した日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[The Water Of Lifeのトリビュートアルバム](https://ja.wikipedia.org/wiki/The_Water_Of_Life "wikilink")。[HAPPY DRUG STOREや竹田司](https://ja.wikipedia.org/wiki/HAPPY_DRUG_STORE "wikilink")、YOSHI+KENといった生前清水と交流の深かったミュージシャンが参加している。品番はWMCD-0410。
+同年に急逝した日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[The Water Of Lifeのトリビュートアルバム](../Page/The_Water_Of_Life.md "wikilink")。[HAPPY DRUG STOREや竹田司](../Page/HAPPY_DRUG_STORE.md "wikilink")、YOSHI+KENといった生前清水と交流の深かったミュージシャンが参加している。品番はWMCD-0410。
 
 ## 解説
 
@@ -37,7 +37,7 @@ The Water Of Lifeが生前に発表した楽曲、発表できなかった楽曲
         [2002年](../Page/2002年.md "wikilink")に製作された楽曲。WOLらしい言葉遊びが上手く使用された楽曲となっている。
 7.  **わたしはワタシ**：[Yurica](https://ja.wikipedia.org/wiki/Yurica "wikilink")
       -
-        [輝け\!ソングラ天国](https://ja.wikipedia.org/wiki/輝け!ソングラ天国 "wikilink")の中で製作した楽曲のひとつで、テーマは「[ニューハーフ](https://ja.wikipedia.org/wiki/ニューハーフ "wikilink")」。賞を逃したが、この作品に自信を持って臨んでいた清水は珍しく悔しがっていたという。
+        [輝け\!ソングラ天国](https://ja.wikipedia.org/wiki/輝け!ソングラ天国 "wikilink")の中で製作した楽曲のひとつで、テーマは「[ニューハーフ](../Page/ニューハーフ.md "wikilink")」。賞を逃したが、この作品に自信を持って臨んでいた清水は珍しく悔しがっていたという。
 8.  **＠**：[だいじゅ](https://ja.wikipedia.org/wiki/だいじゅ "wikilink")
       -
         LONG LONG ROADの3トラック目に収録されていた楽曲。ネットがらみのCMも狙えそうだといわれる楽曲。
@@ -53,7 +53,7 @@ The Water Of Lifeが生前に発表した楽曲、発表できなかった楽曲
 12. **この河をはさんで**：[川久保秀一](https://ja.wikipedia.org/wiki/川久保秀一 "wikilink")
       -
         このアルバムでは最も古い[1992年](../Page/1992年.md "wikilink")の作品で、大学サークル時代に書かれた楽曲。ソニーのオーディション時に歌った楽曲でもあるが、リリースには至らなかった。
-13. **イカスゼ群馬**：[HAPPY DRUG STORE](https://ja.wikipedia.org/wiki/HAPPY_DRUG_STORE "wikilink")
+13. **イカスゼ群馬**：[HAPPY DRUG STORE](../Page/HAPPY_DRUG_STORE.md "wikilink")
       -
         WOLが最後に在籍するバンドとなったHAPPY DRUG STOREによるカヴァーの楽曲。第三の故郷と呼んでいた群馬へ送ったThe WATER of Life in TAKASAKI ACOUSTIC HISTORYに収録されている「ダルマソナタ」の続編。
 14. **太陽の子供たちへ**：the water of life

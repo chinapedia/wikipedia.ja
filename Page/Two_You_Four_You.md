@@ -1,7 +1,7 @@
 > この記事は[Two You Four You](https://ja.wikipedia.org/wiki/Two_You_Four_You)から翻訳されています。
 
 
-『**Two You Four You**』（トゥー・ユー・フォー・ユー）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月15日](../Page/11月15日.md "wikilink")に[avex traxよりリリースされた](https://ja.wikipedia.org/wiki/avex_trax "wikilink")[タッキー&翼](../Page/タッキー&翼.md "wikilink")の3枚目の[アルバム](../Page/アルバム.md "wikilink")。
+『**Two You Four You**』（トゥー・ユー・フォー・ユー）は、[2006年](../Page/2006年.md "wikilink")[11月15日](../Page/11月15日.md "wikilink")に[avex traxよりリリースされた](https://ja.wikipedia.org/wiki/avex_trax "wikilink")[タッキー&翼](../Page/タッキー&翼.md "wikilink")の3枚目の[アルバム](../Page/アルバム.md "wikilink")。
 
 ## 解説
 
@@ -14,7 +14,7 @@
       - 作詞・作曲:[清水昭男](../Page/清水昭男.md "wikilink")
       - 実は、ゴキブリをモデルにした曲らしい
 2.  [Venus](../Page/Venus_\(タッキー&翼の曲\).md "wikilink")
-      - 作詞・作曲:[羽場仁志](https://ja.wikipedia.org/wiki/羽場仁志 "wikilink") 編曲:[CHOKKAKU](https://ja.wikipedia.org/wiki/CHOKKAKU "wikilink")
+      - 作詞・作曲:[羽場仁志](https://ja.wikipedia.org/wiki/羽場仁志 "wikilink") 編曲:[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")
       - 6thシングル。
 3.  [Ho\! サマー 〜Album Ver.〜](../Page/Ho!_サマー.md "wikilink")
       - 作詞・作曲:羽場仁志
@@ -27,7 +27,7 @@
       - 歌:[滝沢秀明](https://ja.wikipedia.org/wiki/滝沢秀明 "wikilink")
 6.  Slave Of LOVE
       - 作詞：Kenn Kato 作曲・編曲：Face 2 fAKE
-      - 歌:[今井翼](https://ja.wikipedia.org/wiki/今井翼 "wikilink")
+      - 歌:[今井翼](../Page/今井翼.md "wikilink")
 7.  Mermaid
       - 作詞：井手コウジ 作曲：佐久間誠
 8.  [仮面](https://ja.wikipedia.org/wiki/仮面/未来航海 "wikilink")
@@ -53,7 +53,7 @@
 ### ボーナストラック(通常盤)
 
 1.  カッコつかないTonight
-      - 作詞・作曲：羽場仁志、[CHOKKAKU](https://ja.wikipedia.org/wiki/CHOKKAKU "wikilink")
+      - 作詞・作曲：羽場仁志、[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")
 
 ### 特典CD(初回盤)
 

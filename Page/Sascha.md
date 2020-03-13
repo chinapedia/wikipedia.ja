@@ -1,23 +1,23 @@
 > この記事は[Sascha](https://ja.wikipedia.org/wiki/Sascha)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Sascha-summersonic-august16-2015.jpg "wikilink") **サッシャ**（Sascha [1976年](../Page/1976年.md "wikilink")[9月22日](../Page/9月22日.md "wikilink") - ）は、[ラジオDJ](../Page/ディスクジョッキー.md "wikilink")、[ナレーター](https://ja.wikipedia.org/wiki/ナレーター "wikilink")。[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[ヘッセン州](https://ja.wikipedia.org/wiki/ヘッセン州 "wikilink")生まれ。本名は**Sascha Boeckle** （ザッシャ・ベックレ）、血液型は[B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Sascha-summersonic-august16-2015.jpg "wikilink") **サッシャ**（Sascha [1976年](../Page/1976年.md "wikilink")[9月22日](../Page/9月22日.md "wikilink") - ）は、[ラジオDJ](../Page/ディスクジョッキー.md "wikilink")、[ナレーター](https://ja.wikipedia.org/wiki/ナレーター "wikilink")。[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[ヘッセン州](../Page/ヘッセン州.md "wikilink")生まれ。本名は**Sascha Boeckle** （ザッシャ・ベックレ）、血液型は[B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
 
 ## 来歴・人物
 
-[ドイツ人](https://ja.wikipedia.org/wiki/ドイツ人 "wikilink")の父親と日本人の母親の間に生まれ、ドイツで過ごす少年時代は流行していた『[スター・ウォーズ](https://ja.wikipedia.org/wiki/スター・ウォーズ "wikilink")』やBMXにハマり、テレビは国営放送よりバラエティ豊かだった米軍放送で『[マッハGoGoGo](https://ja.wikipedia.org/wiki/マッハGoGoGo "wikilink")』『[宇宙戦艦ヤマト](https://ja.wikipedia.org/wiki/宇宙戦艦ヤマト "wikilink")』の英語版を見て育つ\[1\]。小学4年の10歳で日本に移住\[2\]。東京都府中市立府中第三小学校卒業。小さい頃にドイツの[フランクフルト空港](https://ja.wikipedia.org/wiki/フランクフルト空港 "wikilink")で英語で鑑賞できる映画館で映画の予告編ナレーションを格好いいと思ったことや中学になってラジオでよく洋楽を聞くようになり、DJに憧れる\[3\]。高校卒業後の第一志望はドイツの大学へ行くことだったが日本は小中高12年なのに対してドイツは13年の義務教育で日本の高校を出ただけでは入学する資格がなく、ドイツの大学へ入るためにもドイツ語能力を向上させようと[獨協大学](https://ja.wikipedia.org/wiki/獨協大学 "wikilink")外国語学部ドイツ語学科に進学\[4\]、声の仕事がしたくラジオを聴くのが好きで大学2年生で本格的にDJを目指そうとするもどうすればなれるかわからず、各放送局にDJになりたいとEメールを送るもほとんど返事は来なかった\[5\]\[6\]\[7\]。難しい世界だなと打ちひしがれていた大学3年時の1月、[VIBEを見ていると募集告知が流れてそれに応募](https://ja.wikipedia.org/wiki/MTVジャパン "wikilink")\[8\]、面接を受けるが連絡がなかなか来ず8か月経った頃、大学4年生になりドイツ行きのため願書を出そうとしていたところに合格の連絡が来る\[9\]。
+[ドイツ人](../Page/ドイツ人.md "wikilink")の父親と日本人の母親の間に生まれ、ドイツで過ごす少年時代は流行していた『[スター・ウォーズ](https://ja.wikipedia.org/wiki/スター・ウォーズ "wikilink")』やBMXにハマり、テレビは国営放送よりバラエティ豊かだった米軍放送で『[マッハGoGoGo](../Page/マッハGoGoGo.md "wikilink")』『[宇宙戦艦ヤマト](https://ja.wikipedia.org/wiki/宇宙戦艦ヤマト "wikilink")』の英語版を見て育つ\[1\]。小学4年の10歳で日本に移住\[2\]。東京都府中市立府中第三小学校卒業。小さい頃にドイツの[フランクフルト空港](../Page/フランクフルト空港.md "wikilink")で英語で鑑賞できる映画館で映画の予告編ナレーションを格好いいと思ったことや中学になってラジオでよく洋楽を聞くようになり、DJに憧れる\[3\]。高校卒業後の第一志望はドイツの大学へ行くことだったが日本は小中高12年なのに対してドイツは13年の義務教育で日本の高校を出ただけでは入学する資格がなく、ドイツの大学へ入るためにもドイツ語能力を向上させようと[獨協大学](https://ja.wikipedia.org/wiki/獨協大学 "wikilink")外国語学部ドイツ語学科に進学\[4\]、声の仕事がしたくラジオを聴くのが好きで大学2年生で本格的にDJを目指そうとするもどうすればなれるかわからず、各放送局にDJになりたいとEメールを送るもほとんど返事は来なかった\[5\]\[6\]\[7\]。難しい世界だなと打ちひしがれていた大学3年時の1月、[VIBEを見ていると募集告知が流れてそれに応募](../Page/MTVジャパン.md "wikilink")\[8\]、面接を受けるが連絡がなかなか来ず8か月経った頃、大学4年生になりドイツ行きのため願書を出そうとしていたところに合格の連絡が来る\[9\]。
 
-1999年に音楽専門チャンネル[VIBEのVJとしてデビュー](https://ja.wikipedia.org/wiki/MTVジャパン "wikilink")、だが2年でVIBEは閉局、自分の番組も終わることになり遂にドイツへ行くのかと考えているとそのことを取材で知り合ったラジオ制作者に話すともったいないとその伝で[FM802](../Page/FM802.md "wikilink")のオーディションを受ける\[10\]。だが不合格で今度こそドイツ留学かと思ったが面接を受けさせてもらった人の紹介で[WOWOW](../Page/WOWOW.md "wikilink")の番組に出演、その最中に[J-WAVE](../Page/J-WAVE.md "wikilink")の番組で代わりのDJが必要だからやらないかと誘われて\[11\]、2001年にJ-WAVEナビゲーター、[FM FUJIDJでラジオDJのキャリアをスタートさせた](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")。
+1999年に音楽専門チャンネル[VIBEのVJとしてデビュー](../Page/MTVジャパン.md "wikilink")、だが2年でVIBEは閉局、自分の番組も終わることになり遂にドイツへ行くのかと考えているとそのことを取材で知り合ったラジオ制作者に話すともったいないとその伝で[FM802](../Page/FM802.md "wikilink")のオーディションを受ける\[10\]。だが不合格で今度こそドイツ留学かと思ったが面接を受けさせてもらった人の紹介で[WOWOW](../Page/WOWOW.md "wikilink")の番組に出演、その最中に[J-WAVE](../Page/J-WAVE.md "wikilink")の番組で代わりのDJが必要だからやらないかと誘われて\[11\]、2001年にJ-WAVEナビゲーター、[FM FUJIDJでラジオDJのキャリアをスタートさせた](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")。
 
 2010年5月8日に放送された[DJ TAROとの](../Page/DJ_TARO.md "wikilink")[Ustream](https://ja.wikipedia.org/wiki/Ustream "wikilink")での番組「BEST HIT UST」にゲスト出演した[向谷実](../Page/向谷実.md "wikilink")と[中西圭三](https://ja.wikipedia.org/wiki/中西圭三 "wikilink")のプロジェクト、「向谷倶楽部」のレコーディングとライブにゲスト参加。個人的に鉄道の趣味もあり、向谷の鉄道企画に参加したり、自身のラジオ番組のゲストのピンチヒッターとして向谷が電話出演したりと交流がある。
 
-2012年[ツール･ド･フランス第](https://ja.wikipedia.org/wiki/ツール・ド・フランス2012 "wikilink")4ステージで[新城幸也](https://ja.wikipedia.org/wiki/新城幸也 "wikilink")が敢闘賞を獲得し、日本人で初めて表彰台に上がった際も実況を担当した。
+2012年[ツール･ド･フランス第](https://ja.wikipedia.org/wiki/ツール・ド・フランス2012 "wikilink")4ステージで[新城幸也](../Page/新城幸也.md "wikilink")が敢闘賞を獲得し、日本人で初めて表彰台に上がった際も実況を担当した。
 
 2017年9月、友人の[有村昆](../Page/有村昆.md "wikilink")、[福永活也](https://ja.wikipedia.org/wiki/福永活也 "wikilink")らと共に、株式会社キングダムエンターテインメントを設立し、VR人狼渋谷を運営している。
 
 自転車も好きで、[J SPORTSの](../Page/J_SPORTS.md "wikilink")[サイクルロードレース中継の実況も担当している](../Page/ロードレース_\(自転車競技\).md "wikilink")。他には自動車レースの[FIA 世界耐久選手権](https://ja.wikipedia.org/wiki/FIA_世界耐久選手権 "wikilink")、[SUPER GTの実況も担当している](https://ja.wikipedia.org/wiki/SUPER_GT "wikilink")。
 
-[日本語](../Page/日本語.md "wikilink")、[英語](../Page/英語.md "wikilink")、[ドイツ語](../Page/ドイツ語.md "wikilink")の[トライリンガルであり](../Page/多言語.md "wikilink")、[NHK教育](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")『[ドイツ語会話](../Page/ドイツ語会話.md "wikilink")』に出演していた事もある。実況を務めるスポーツ中継では、現地映像による選手インタビューの翻訳等も行っている。TV出演としては、来日後、小学生時代に[テレビ朝日](../Page/テレビ朝日.md "wikilink")系で放送されていた『[パオパオチャンネル](../Page/パオパオチャンネル.md "wikilink")』に素人参加者として2回ほど出演していた。
+[日本語](../Page/日本語.md "wikilink")、[英語](../Page/英語.md "wikilink")、[ドイツ語](../Page/ドイツ語.md "wikilink")の[トライリンガルであり](../Page/多言語.md "wikilink")、[NHK教育](../Page/NHK教育テレビジョン.md "wikilink")『[ドイツ語会話](../Page/ドイツ語会話.md "wikilink")』に出演していた事もある。実況を務めるスポーツ中継では、現地映像による選手インタビューの翻訳等も行っている。TV出演としては、来日後、小学生時代に[テレビ朝日](../Page/テレビ朝日.md "wikilink")系で放送されていた『[パオパオチャンネル](../Page/パオパオチャンネル.md "wikilink")』に素人参加者として2回ほど出演していた。
 
 安定感のあるナビゲートに定評があり、ラジオのみならずナレーション、イベントMC、スポーツ実況等幅広く活躍中である。
 
@@ -25,15 +25,15 @@
 
 ### テレビ番組
 
-  - NEXTウイークリー（[NHK](https://ja.wikipedia.org/wiki/NHK_BS1 "wikilink") イベント[BS1](https://ja.wikipedia.org/wiki/NHK_BS1 "wikilink")）
-  - [テレビでドイツ語](https://ja.wikipedia.org/wiki/テレビでドイツ語 "wikilink")（[NHK教育](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")） - ナレーション
+  - NEXTウイークリー（[NHK](../Page/NHK_BS1.md "wikilink") イベント[BS1](../Page/NHK_BS1.md "wikilink")）
+  - [テレビでドイツ語](https://ja.wikipedia.org/wiki/テレビでドイツ語 "wikilink")（[NHK教育](../Page/NHK教育テレビジョン.md "wikilink")） - ナレーション
   - [J SPORTS cycle road race](https://ja.wikipedia.org/wiki/J_SPORTS_cycle_road_race "wikilink")（[J SPORTS](../Page/J_SPORTS.md "wikilink")） - 実況ナビゲーター
   - [SUPER GT](https://ja.wikipedia.org/wiki/SUPER_GT "wikilink")（J SPORTS）　- 実況
   - [スーパーフォーミュラ](https://ja.wikipedia.org/wiki/スーパーフォーミュラ "wikilink")（J SPORTS）　- 実況（ - 2016年）
   - [FIA 世界耐久選手権](https://ja.wikipedia.org/wiki/FIA_世界耐久選手権 "wikilink")（J SPORTS）- 実況
   - [ル・マン24時間レース](../Page/ル・マン24時間レース.md "wikilink")（J SPORTS）- 実況
   - ライブソニック（[テレビ朝日](../Page/テレビ朝日.md "wikilink")） - MC
-  - [金曜ロードSHOW\!](https://ja.wikipedia.org/wiki/金曜ロードSHOW! "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")、2013年4月12日 - ） - 映画マイスター
+  - [金曜ロードSHOW\!](../Page/金曜ロードSHOW!.md "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")、2013年4月12日 - ） - 映画マイスター
   - [ネプ&イモトの世界番付](https://ja.wikipedia.org/wiki/ネプ&イモトの世界番付 "wikilink")（日本テレビ） - G20
   - [第64回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第64回NHK紅白歌合戦 "wikilink")（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")） - [Linked Horizon](https://ja.wikipedia.org/wiki/Linked_Horizon "wikilink")「[紅蓮の弓矢](https://ja.wikipedia.org/wiki/自由への進撃 "wikilink")」のドイツ語ナレーションを担当
   - [F3](https://ja.wikipedia.org/wiki/フォーミュラ3 "wikilink") 世界一決定戦 〜[マカオGP](../Page/マカオグランプリ.md "wikilink")～ ([BSフジ](../Page/BSフジ.md "wikilink")) - 実況（2016 - ）
@@ -53,7 +53,7 @@
 
 ### インターネット番組
 
-  - ちきゅうTV（[JAMSTEC](https://ja.wikipedia.org/wiki/海洋研究開発機構 "wikilink"), [IODP](https://ja.wikipedia.org/wiki/IODP "wikilink")） - ナビゲーター
+  - ちきゅうTV（[JAMSTEC](../Page/海洋研究開発機構.md "wikilink"), [IODP](https://ja.wikipedia.org/wiki/IODP "wikilink")） - ナビゲーター
   - [DAZN](https://ja.wikipedia.org/wiki/DAZN "wikilink") [F1中継](../Page/フォーミュラ1.md "wikilink") - 実況
   - [スポナビライブ](https://ja.wikipedia.org/wiki/スポナビライブ "wikilink")ニュース - アンカー
   - B.WEEK\!\!（[スポナビライブ](https://ja.wikipedia.org/wiki/スポナビライブ "wikilink")） - MC
@@ -77,7 +77,7 @@
 ### 舞台・ライブ
 
   - Sound Horizon 7th Story Concert 「Märchen」 〜キミが今笑っている、眩いその時代に…〜（2010年、3会場全8公演）
-  - Sound Horizon 第一次領土復興遠征（2011年7月 - 9月、[ALSOKホール](../Page/広島県立文化芸術ホール.md "wikilink")・[愛知県芸術劇場](../Page/愛知県芸術劇場.md "wikilink")・[神戸国際会館](https://ja.wikipedia.org/wiki/神戸国際会館 "wikilink")・[大阪城ホール](../Page/大阪城ホール.md "wikilink")、[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")）
+  - Sound Horizon 第一次領土復興遠征（2011年7月 - 9月、[ALSOKホール](../Page/広島県立文化芸術ホール.md "wikilink")・[愛知県芸術劇場](../Page/愛知県芸術劇場.md "wikilink")・[神戸国際会館](../Page/神戸国際会館.md "wikilink")・[大阪城ホール](../Page/大阪城ホール.md "wikilink")、[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")）
   - Sound Horizon Revo's Halloween Party（2013年10月26日、[さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")）
   - Sound Horizon 9th Story Concert 「Nein」 〜西洋骨董屋根裏堂へようこそ〜（2015年4月 - 5月、3会場全11公演）
 

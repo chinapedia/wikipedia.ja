@@ -1,16 +1,16 @@
 > この記事は[-WINGS](https://ja.wikipedia.org/wiki/-WINGS)から翻訳されています。
 
 
-『**日-WINGS**』（ひ-ウィングス）は、[1999年](../Page/1999年.md "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")に発表された[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")の26作目の[オリジナルアルバムである](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。
+『**日-WINGS**』（ひ-ウィングス）は、[1999年](../Page/1999年.md "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")に発表された[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")の26作目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。
 
 ## 解説
 
-  - 『[月-WINGS](https://ja.wikipedia.org/wiki/月-WINGS "wikilink")』と同時発売された。この両アルバムが[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")からの最後のタイトルとなった。
+  - 『[月-WINGS](../Page/月-WINGS.md "wikilink")』と同時発売された。この両アルバムが[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")からの最後のタイトルとなった。
   - 全曲書下ろしとなった[夜会](https://ja.wikipedia.org/wiki/夜会 "wikilink")Vol.7「2/2」、Vol.8「問う女」、Vol.9「2/2（再演）」Vol.10「海嘯」の中で歌われた楽曲の中からセレクトし、アルバム収録に当たり歌い直され、収録されている。
 
 ## 収録曲
 
-  - 全作詞／作曲：[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")、編曲：[瀬尾一三](https://ja.wikipedia.org/wiki/瀬尾一三 "wikilink")（特記以外）
+  - 全作詞／作曲：[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")、編曲：[瀬尾一三](../Page/瀬尾一三.md "wikilink")（特記以外）
 
 <!-- end list -->
 
@@ -46,10 +46,10 @@
 
   - Drums：[Kenny Aronoff](https://ja.wikipedia.org/wiki/:en:Kenny_Aronoff "wikilink")
   - Bass：Bob Glaub
-  - Synth.Bass：[中西康晴](https://ja.wikipedia.org/wiki/中西康晴 "wikilink")
+  - Synth.Bass：[中西康晴](../Page/中西康晴.md "wikilink")
   - E.Guitar：Micheal Thompson
   - E. & A.Piano, Synth.Indian Pipe & Strings Pad：Jon Gilutin
-  - Keyboards：中西康晴・[瀬尾一三](https://ja.wikipedia.org/wiki/瀬尾一三 "wikilink")
+  - Keyboards：中西康晴・[瀬尾一三](../Page/瀬尾一三.md "wikilink")
   - Loop Drums & Programming：浦田恵司・田久保誓一
   - Cymbals：[山木秀夫](../Page/山木秀夫.md "wikilink")
   - Back up Vocals：杉本和世・久保田陽子・宮下文一・前田克美

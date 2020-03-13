@@ -5,7 +5,7 @@
 
 ## 概要
 
-[ロシア](../Page/ロシア.md "wikilink")の[サンクトペテルブルク](../Page/サンクトペテルブルク.md "wikilink")にロシア支社を持ち、この支社が開発チームの核となってKetsujinのコアチームは[マイクロソフト](../Page/マイクロソフト.md "wikilink")、ドイツ・テレコム、タイム・ワーナー・ケーブル、ブリティッシュ・テレコム、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")、[サムスングループ](https://ja.wikipedia.org/wiki/サムスングループ "wikilink")、[AOL](https://ja.wikipedia.org/wiki/AOL "wikilink")、[ベルテルスマン](https://ja.wikipedia.org/wiki/ベルテルスマン "wikilink")、ソニー・ネットワークス、[ソニーオンラインエンタテインメント](https://ja.wikipedia.org/wiki/ソニーオンラインエンタテインメント "wikilink")、ソニー・ピクチャー・デジタル、(m)フォーマ、エアーボーン、[ドワンゴ](https://ja.wikipedia.org/wiki/ドワンゴ "wikilink")、ジャムダット、エレクトリック・アーツ、Ifone、他多数のタイトルと共に10年以上に渡って技術を提供している。
+[ロシア](../Page/ロシア.md "wikilink")の[サンクトペテルブルク](../Page/サンクトペテルブルク.md "wikilink")にロシア支社を持ち、この支社が開発チームの核となってKetsujinのコアチームは[マイクロソフト](../Page/マイクロソフト.md "wikilink")、ドイツ・テレコム、タイム・ワーナー・ケーブル、ブリティッシュ・テレコム、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")、[サムスングループ](../Page/サムスングループ.md "wikilink")、[AOL](../Page/AOL.md "wikilink")、[ベルテルスマン](../Page/ベルテルスマン.md "wikilink")、ソニー・ネットワークス、[ソニーオンラインエンタテインメント](https://ja.wikipedia.org/wiki/ソニーオンラインエンタテインメント "wikilink")、ソニー・ピクチャー・デジタル、(m)フォーマ、エアーボーン、[ドワンゴ](../Page/ドワンゴ.md "wikilink")、ジャムダット、エレクトリック・アーツ、Ifone、他多数のタイトルと共に10年以上に渡って技術を提供している。
 
 また、[最高技術責任者](../Page/最高技術責任者.md "wikilink")であるマーク・ルッツはスピーチ圧縮とネットワークコミュニケーション技術の分野で18の特許を取得している。
 

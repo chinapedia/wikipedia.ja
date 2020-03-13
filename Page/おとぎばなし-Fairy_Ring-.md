@@ -1,7 +1,7 @@
 > この記事は[-Fairy Ring-](https://ja.wikipedia.org/wiki/-Fairy_Ring-)から翻訳されています。
 
 
-『**おとぎばなし-Fairy Ring-**』（おとぎばなし フェアリー・リング）は、[2002年](../Page/2002年.md "wikilink")[10月23日](../Page/10月23日.md "wikilink")に発表された[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")の30作目の[オリジナルアルバムである](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。5作目の[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")アルバムでもある。
+『**おとぎばなし-Fairy Ring-**』（おとぎばなし フェアリー・リング）は、[2002年](../Page/2002年.md "wikilink")[10月23日](../Page/10月23日.md "wikilink")に発表された[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")の30作目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。5作目の[セルフカバー](../Page/セルフカバー.md "wikilink")アルバムでもある。
 
 ## 解説
 
@@ -11,7 +11,7 @@
 
 ## 収録曲
 
-  - 作詞・作曲：[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")（特記以外）、編曲：[瀬尾一三](https://ja.wikipedia.org/wiki/瀬尾一三 "wikilink")（特記以外）
+  - 作詞・作曲：[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")（特記以外）、編曲：[瀬尾一三](../Page/瀬尾一三.md "wikilink")（特記以外）
 
 <!-- end list -->
 
@@ -26,17 +26,17 @@
 5.  **匂いガラス〜安寿子の靴** （作詞：[唐十郎](../Page/唐十郎.md "wikilink")）
       - [NHKで](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[1984年](../Page/1984年.md "wikilink")に放送された「安寿子の靴」と[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に放送された「匂いガラス」の主題歌を[メドレー](../Page/メドレー.md "wikilink")形式で収録したもの。[1993年](../Page/1993年.md "wikilink")にリリースされたアルバム『[時代-Time goes around-](../Page/時代-Time_goes_around-.md "wikilink")』に「雨月の使者」が収録されているが、これらは全て作詞はドラマの構成を手掛けた唐が担当し、曲と歌を中島が担当している。
 6.  **[あの人に似ている](https://ja.wikipedia.org/wiki/あの人に似ている "wikilink")** （作詞・作曲・唄：[さだまさし](../Page/さだまさし.md "wikilink")・中島みゆき）
-      - [1994年](../Page/1994年.md "wikilink")に[高倉健](https://ja.wikipedia.org/wiki/高倉健 "wikilink")&[裕木奈江](https://ja.wikipedia.org/wiki/裕木奈江 "wikilink")に提供した楽曲のセルフカヴァー、詞・曲共にさだとの共作。このアルバムでは高倉（男性）のパートをさだが、裕木（女性）のパートを中島が歌いデュエットした形となっている。この曲は男の歌（さだ）・女の歌（中島）がそれぞれ同じコード進行の別メロディーで進行し、サビで一緒になるという複雑な構成になっている。これは、当初さだ・中島で作詞・作曲のどちらかをそれぞれ分担するというオファーになっていたものを、互いに才能を認め合っているさだが「せっかく中島みゆきとやるのだから」と中島に提案し、あえて複雑な構成にしたものである\[1\]。また、この二人でのセルフ・カヴァーは中島の要請によるものである。なお、さだのアルバム『[古くさい恋の唄ばかり](../Page/古くさい恋の唄ばかり.md "wikilink")』（[1996年](../Page/1996年.md "wikilink")）には、さだが自分のパートのみをセルフ・カヴァーしたバージョンが存在する。
+      - [1994年](../Page/1994年.md "wikilink")に[高倉健](../Page/高倉健.md "wikilink")&[裕木奈江](https://ja.wikipedia.org/wiki/裕木奈江 "wikilink")に提供した楽曲のセルフカヴァー、詞・曲共にさだとの共作。このアルバムでは高倉（男性）のパートをさだが、裕木（女性）のパートを中島が歌いデュエットした形となっている。この曲は男の歌（さだ）・女の歌（中島）がそれぞれ同じコード進行の別メロディーで進行し、サビで一緒になるという複雑な構成になっている。これは、当初さだ・中島で作詞・作曲のどちらかをそれぞれ分担するというオファーになっていたものを、互いに才能を認め合っているさだが「せっかく中島みゆきとやるのだから」と中島に提案し、あえて複雑な構成にしたものである\[1\]。また、この二人でのセルフ・カヴァーは中島の要請によるものである。なお、さだのアルバム『[古くさい恋の唄ばかり](../Page/古くさい恋の唄ばかり.md "wikilink")』（[1996年](../Page/1996年.md "wikilink")）には、さだが自分のパートのみをセルフ・カヴァーしたバージョンが存在する。
 7.  **[みにくいあひるの子](https://ja.wikipedia.org/wiki/みにくいあひるの子_\(研ナオコの曲\) "wikilink")**
       - オリジナルは[研ナオコ](../Page/研ナオコ.md "wikilink")が[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")に発表したシングル、B面の「こぬか雨」も中島が楽曲を提供している。
 8.  **愛される花 愛されぬ花**
-      - オリジナルは[三田寛子](https://ja.wikipedia.org/wiki/三田寛子 "wikilink")が[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に発表したシングル「少年たちのように」のカップリングに収録されていた。
-9.  **裸爪(はだし)のライオン**（作曲：[後藤次利](https://ja.wikipedia.org/wiki/後藤次利 "wikilink")）
+      - オリジナルは[三田寛子](../Page/三田寛子.md "wikilink")が[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に発表したシングル「少年たちのように」のカップリングに収録されていた。
+9.  **裸爪(はだし)のライオン**（作曲：[後藤次利](../Page/後藤次利.md "wikilink")）
       - オリジナルは[工藤静香](../Page/工藤静香.md "wikilink")が[1988年](../Page/1988年.md "wikilink")に発表したミニアルバム「[静香](../Page/静香_\(アルバム\).md "wikilink")」に収録されていた。
 10. **紫の桜**
       - 夜会Vol.10「海嘯」でフィナーレで歌われていた曲。紫の桜とは別名「ハワイ桜」とも呼ばれる[ジャカランダ](https://ja.wikipedia.org/wiki/ジャカランダ "wikilink")のこと。
 11. **海よ**
-      - 初期に発表した自身の楽曲を歌い直したものでオリジナルは[1976年](../Page/1976年.md "wikilink")にリリースされた中島初となるアルバム「[私の声が聞こえますか](../Page/私の声が聞こえますか.md "wikilink")」に収録されていた。後奏に流れる波音の[SEは](https://ja.wikipedia.org/wiki/効果音 "wikilink")[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の[写真家](../Page/写真家.md "wikilink")、[録音技師](https://ja.wikipedia.org/wiki/録音技師 "wikilink")の[ダン・ギブソンが録音したものを使用している](https://ja.wikipedia.org/wiki/:en:Dan_Gibson "wikilink")。
+      - 初期に発表した自身の楽曲を歌い直したものでオリジナルは[1976年](../Page/1976年.md "wikilink")にリリースされた中島初となるアルバム「[私の声が聞こえますか](../Page/私の声が聞こえますか.md "wikilink")」に収録されていた。後奏に流れる波音の[SEは](../Page/効果音.md "wikilink")[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の[写真家](../Page/写真家.md "wikilink")、[録音技師](https://ja.wikipedia.org/wiki/録音技師 "wikilink")の[ダン・ギブソンが録音したものを使用している](https://ja.wikipedia.org/wiki/:en:Dan_Gibson "wikilink")。
 
 ## 演奏者
 
@@ -89,7 +89,7 @@
 
 **雪・月・花**
 
-  - Drums：[Vinnie Colaiuta](https://ja.wikipedia.org/wiki/ヴィニー・カリウタ "wikilink")
+  - Drums：[Vinnie Colaiuta](../Page/ヴィニー・カリウタ.md "wikilink")
   - E.Bass：[Neil Stubenhaus](../Page/ニール・スチューベンハウス.md "wikilink")
   - Keyboards：Jon Gilutin
   - E.Guitar：[Michael Thompson](https://ja.wikipedia.org/wiki/:en:Michael_Thompson_\(guitarist\) "wikilink")
@@ -119,7 +119,7 @@
   - E.Guitar：古川昌義
   - Keyboards：エルトン永田
   - Synth Programming：浦田恵司・杉本洋祐
-  - Glass SE：[瀬尾一三](https://ja.wikipedia.org/wiki/瀬尾一三 "wikilink")
+  - Glass SE：[瀬尾一三](../Page/瀬尾一三.md "wikilink")
   - Engineer：加藤謙吾
   - Assistant：工藤千明 at Epicurus Studios
   - Mix：Joe Chiccarelli
@@ -135,7 +135,7 @@
   - Engineer：加藤謙吾
   - Assistant：工藤千明 at Epicurus Studios
   - Conductor Contractor：Suzie Katayama
-  - Violin：[Sid Page](https://ja.wikipedia.org/wiki/:en:Sid_Page "wikilink")([Concert Master](https://ja.wikipedia.org/wiki/コンサートマスター "wikilink")), Darius Campo, [Joel Derouin](https://ja.wikipedia.org/wiki/:en:Joel_Derouin "wikilink"), Bruce Dukov, Amen Garabedian, Beri Garabedian, Sara Parkins, Michelle Richards, [Miwako Watanabe](https://ja.wikipedia.org/wiki/渡辺實和子 "wikilink"), John Wittenberg
+  - Violin：[Sid Page](https://ja.wikipedia.org/wiki/:en:Sid_Page "wikilink")([Concert Master](../Page/コンサートマスター.md "wikilink")), Darius Campo, [Joel Derouin](https://ja.wikipedia.org/wiki/:en:Joel_Derouin "wikilink"), Bruce Dukov, Amen Garabedian, Beri Garabedian, Sara Parkins, Michelle Richards, [Miwako Watanabe](https://ja.wikipedia.org/wiki/渡辺實和子 "wikilink"), John Wittenberg
   - Engineer：Brian Scheuble
   - Assistant：Christine Sirois at O'Henry Sound Studios
   - Mix：Joe Chiccarelli
@@ -208,7 +208,7 @@
   - Assistant：Alan Sanderson at Cello Studios
   - Keyboards：瀬尾一三
   - Synth Programming：浦田恵司・杉本洋祐
-  - Back up Vocals：杉本和世・[財団ヤマハの人々](https://ja.wikipedia.org/wiki/ヤマハ音楽振興会 "wikilink")
+  - Back up Vocals：杉本和世・[財団ヤマハの人々](../Page/ヤマハ音楽振興会.md "wikilink")
   - Engineer：加藤謙吾
   - Assistant：工藤千明 at Epicurus Studios
   - E.Guitars：Michael Thompson
@@ -227,7 +227,7 @@
   - Cello：Dan Smith, Stefanie Fife
   - Engineer：Brian Scheuble
   - Assistant：Alan Sanderson at Cello Studios
-  - Harp：[朝川朋之](https://ja.wikipedia.org/wiki/朝川朋之 "wikilink")
+  - Harp：[朝川朋之](../Page/朝川朋之.md "wikilink")
   - Keyboards：齋藤有太
   - Synth Programming：浦田恵司, 杉本洋祐
   - Engineer：加藤謙吾

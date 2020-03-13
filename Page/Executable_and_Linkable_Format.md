@@ -3,7 +3,7 @@
 
 (ELF) とは、コンパイラが生成する[オブジェクト](../Page/オブジェクトファイル.md "wikilink")、および、ライブラリとリンクされた[実行ファイル](../Page/実行ファイル.md "wikilink")の[ファイルフォーマット](../Page/ファイルフォーマット.md "wikilink")である。[a.outフォーマット](https://ja.wikipedia.org/wiki/a.outフォーマット "wikilink")、[COFFの後継として広く採用されている](https://ja.wikipedia.org/wiki/Common_Object_File_Format "wikilink")。セクション数の制限が緩く、メモリ上で連続していないファイルや、ロードされる場所と実行される場所が違う箇所を含む場合にも対応が可能な柔軟な設計となっている。
 
-[System V](https://ja.wikipedia.org/wiki/UNIX_System_V "wikilink") が採用し、[GNUツールチェーン](https://ja.wikipedia.org/wiki/GNUツールチェーン "wikilink")がサポートしている。今では[BSD](../Page/BSD.md "wikilink")派生OSや[Linux](../Page/Linux.md "wikilink")をはじめとするフリーなOSにおける実行ファイルフォーマットや、ゲーム機等を含む組み込み機器開発にも数多く使われている。
+[System V](../Page/UNIX_System_V.md "wikilink") が採用し、[GNUツールチェーン](https://ja.wikipedia.org/wiki/GNUツールチェーン "wikilink")がサポートしている。今では[BSD](../Page/BSD.md "wikilink")派生OSや[Linux](../Page/Linux.md "wikilink")をはじめとするフリーなOSにおける実行ファイルフォーマットや、ゲーム機等を含む組み込み機器開発にも数多く使われている。
 
 ## ヘッダ
 

@@ -1,7 +1,7 @@
 > この記事は[!!VS!](https://ja.wikipedia.org/wiki/!!VS!)から翻訳されています。
 
 
-『**絶対に訴えてやるぞ\!\!芸能人VS弁護士軍団･大爆笑\!法律バトル**』（ぜったいにうったえてやるぞ げいのうじんブイエスべんごしぐんだん だいばくしょう ほうりつバトル）は、[日本テレビ系列で](../Page/日本テレビ放送網.md "wikilink")[2000年](../Page/2000年.md "wikilink")[12月9日](../Page/12月9日.md "wikilink")から[2001年](../Page/2001年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink")にかけて[スーパースペシャル](https://ja.wikipedia.org/wiki/スーパースペシャル "wikilink")枠と日曜特番にて放送されていた特番である。
+『**絶対に訴えてやるぞ\!\!芸能人VS弁護士軍団･大爆笑\!法律バトル**』（ぜったいにうったえてやるぞ げいのうじんブイエスべんごしぐんだん だいばくしょう ほうりつバトル）は、[日本テレビ系列で](../Page/日本テレビ放送網.md "wikilink")[2000年](../Page/2000年.md "wikilink")[12月9日](../Page/12月9日.md "wikilink")から[2001年](../Page/2001年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink")にかけて[スーパースペシャル](../Page/スーパースペシャル.md "wikilink")枠と日曜特番にて放送されていた特番である。
 
 ## 概要
 
@@ -14,7 +14,7 @@
 <!-- end list -->
 
   - 所長：[島田紳助](../Page/島田紳助.md "wikilink")
-  - 秘書：[松本志のぶ](https://ja.wikipedia.org/wiki/松本志のぶ "wikilink")（当時：日本テレビ[アナウンサー](../Page/日本のアナウンサー.md "wikilink")）
+  - 秘書：[松本志のぶ](../Page/松本志のぶ.md "wikilink")（当時：日本テレビ[アナウンサー](../Page/日本のアナウンサー.md "wikilink")）
 
 <!-- end list -->
 
@@ -22,10 +22,10 @@
 
 <!-- end list -->
 
-  - [北村晴男](https://ja.wikipedia.org/wiki/北村晴男 "wikilink")
-  - [住田裕子](https://ja.wikipedia.org/wiki/住田裕子 "wikilink")
+  - [北村晴男](../Page/北村晴男.md "wikilink")
+  - [住田裕子](../Page/住田裕子.md "wikilink")
   - [久保田紀昭](../Page/久保田紀昭.md "wikilink")
-  - [丸山和也](https://ja.wikipedia.org/wiki/丸山和也 "wikilink")
+  - [丸山和也](../Page/丸山和也.md "wikilink")
 
 ## スタッフ
 
@@ -58,7 +58,7 @@
 
 ### 過去のスタッフ
 
-  - 企画：日本テレビ次世代バラエティプロジェクト/岡田謙吾、[小澤太郎](https://ja.wikipedia.org/wiki/小澤太郎_\(テレビプロデューサー\) "wikilink")、[三枝孝臣](https://ja.wikipedia.org/wiki/三枝孝臣 "wikilink")、髙橋利之、松岡至、[毛利忍](https://ja.wikipedia.org/wiki/毛利忍 "wikilink")、金田有浩、[瓜生健](https://ja.wikipedia.org/wiki/瓜生健 "wikilink")、[福士睦](../Page/福士睦.md "wikilink")、鬼丸尚、栗原甚、[高谷和男](https://ja.wikipedia.org/wiki/高谷和男 "wikilink")（メンバー表記は第1回）
+  - 企画：日本テレビ次世代バラエティプロジェクト/岡田謙吾、[小澤太郎](https://ja.wikipedia.org/wiki/小澤太郎_\(テレビプロデューサー\) "wikilink")、[三枝孝臣](../Page/三枝孝臣.md "wikilink")、髙橋利之、松岡至、[毛利忍](https://ja.wikipedia.org/wiki/毛利忍 "wikilink")、金田有浩、[瓜生健](../Page/瓜生健.md "wikilink")、[福士睦](../Page/福士睦.md "wikilink")、鬼丸尚、栗原甚、[高谷和男](https://ja.wikipedia.org/wiki/高谷和男 "wikilink")（メンバー表記は第1回）
   - 構成：中丸智司（第1,2回）
   - SW：中川昭生（第1回）
   - カメラ：榎本丈之（第1回）、渡辺滋雄（第2回）

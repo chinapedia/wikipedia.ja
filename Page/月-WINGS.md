@@ -1,7 +1,7 @@
 > この記事は[-WINGS](https://ja.wikipedia.org/wiki/-WINGS)から翻訳されています。
 
 
-『**月-WINGS**』（つき-ウィングス）は、[1999年](../Page/1999年.md "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")に発表された[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")の27作目の[オリジナルアルバムである](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。
+『**月-WINGS**』（つき-ウィングス）は、[1999年](../Page/1999年.md "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")に発表された[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")の27作目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。
 
 ## 解説
 
@@ -10,7 +10,7 @@
 
 ## 収録曲
 
-  - 全作詞/作曲 : [中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")、編曲 : [瀬尾一三](https://ja.wikipedia.org/wiki/瀬尾一三 "wikilink")（特記以外）
+  - 全作詞/作曲 : [中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")、編曲 : [瀬尾一三](../Page/瀬尾一三.md "wikilink")（特記以外）
 
 <!-- end list -->
 
@@ -36,7 +36,7 @@
   - Bass：Neil Stubenhaus
   - E.Guitar：Micheal Thompson
   - A.Piano：Jon Gilutin
-  - Keyboards：[中西康晴](https://ja.wikipedia.org/wiki/中西康晴 "wikilink")・エルトン永田・[瀬尾一三](https://ja.wikipedia.org/wiki/瀬尾一三 "wikilink")
+  - Keyboards：[中西康晴](../Page/中西康晴.md "wikilink")・エルトン永田・[瀬尾一三](../Page/瀬尾一三.md "wikilink")
   - Loop Drums & Programming：浦田恵司・田久保誓一・小笠原学
   - Back up Vocals：Julia Waters, Maxine Waters, Oren Waters
 

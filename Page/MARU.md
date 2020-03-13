@@ -1,13 +1,13 @@
 > この記事は[MARU](https://ja.wikipedia.org/wiki/MARU)から翻訳されています。
 
 
-**MARU**（マル、[1981年](../Page/1981年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元女子[プロレスラー](../Page/プロレスラー.md "wikilink")。本名：**丸山 美和**（まるやま みわ）。身長160cm。体重55kg。[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")[鴻巣市](../Page/鴻巣市.md "wikilink")出身。現在はI\&Iファクトリー所属の[女優で演劇集団](../Page/俳優.md "wikilink")「水色革命」主宰。夫はI\&Iファクトリー代表で元「戸野廣浩司記念劇場」館長の[平山陽](../Page/平山陽.md "wikilink")\[1\]。
+**MARU**（マル、[1981年](../Page/1981年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元女子[プロレスラー](../Page/プロレスラー.md "wikilink")。本名：**丸山 美和**（まるやま みわ）。身長160cm。体重55kg。[埼玉県](../Page/埼玉県.md "wikilink")[鴻巣市](../Page/鴻巣市.md "wikilink")出身。現在はI\&Iファクトリー所属の[女優で演劇集団](../Page/俳優.md "wikilink")「水色革命」主宰。夫はI\&Iファクトリー代表で元「戸野廣浩司記念劇場」館長の[平山陽](../Page/平山陽.md "wikilink")\[1\]。
 
 ## 経歴
 
 1996年、映画会社[パル企画](https://ja.wikipedia.org/wiki/パル企画 "wikilink")内にある[テロワール](https://ja.wikipedia.org/wiki/テロワール_\(芸能事務所\) "wikilink")（プロダクション）に所属、多数の舞台とVシネマに出演。
 
-[2000年](../Page/2000年.md "wikilink")6月、[アストレス](https://ja.wikipedia.org/wiki/アストレス "wikilink")のオーディションを受けるも落選、そのまま[吉本女子プロレスJd'に入門](../Page/JDスター女子プロレス.md "wikilink")。同年[12月29日](../Page/12月29日.md "wikilink")、東京・[後楽園ホール](https://ja.wikipedia.org/wiki/後楽園ホール "wikilink")において、アストレス1期生の[大森彩乃](https://ja.wikipedia.org/wiki/大森彩乃 "wikilink")戦でデビュー。
+[2000年](../Page/2000年.md "wikilink")6月、[アストレス](https://ja.wikipedia.org/wiki/アストレス "wikilink")のオーディションを受けるも落選、そのまま[吉本女子プロレスJd'に入門](../Page/JDスター女子プロレス.md "wikilink")。同年[12月29日](../Page/12月29日.md "wikilink")、東京・[後楽園ホール](../Page/後楽園ホール.md "wikilink")において、アストレス1期生の[大森彩乃](https://ja.wikipedia.org/wiki/大森彩乃 "wikilink")戦でデビュー。
 
 2003年11月、[斎藤啓子](https://ja.wikipedia.org/wiki/斎藤啓子 "wikilink")とタッグチーム「チームOK」を結成し、師匠である[ジャガー横田](https://ja.wikipedia.org/wiki/ジャガー横田 "wikilink")、[ライオネス飛鳥](../Page/ライオネス飛鳥.md "wikilink")組と対戦。
 
@@ -17,7 +17,7 @@
 
 引退後、海外留学しながらTRAPPERに参加。
 
-2007年4月に正式に劇団TRAPPERに加入（所属はI\&Iファクトリー）。11月には[真夏竜](https://ja.wikipedia.org/wiki/真夏竜 "wikilink")主宰の真夏座に初登場。以降レギュラーメンバーになる。
+2007年4月に正式に劇団TRAPPERに加入（所属はI\&Iファクトリー）。11月には[真夏竜](../Page/真夏竜.md "wikilink")主宰の真夏座に初登場。以降レギュラーメンバーになる。
 
 2008年7月6日に劇団TRAPPERがI\&Iファクトリーから脱退し、I\&Iファクトリーに残留したMARUは斎藤と共に真夏座に正式加入。10月には斎藤と再出発イベントで二人芝居を発表。9月には斎藤との二人芝居で初の脚本に挑戦。
 
@@ -36,7 +36,7 @@
 
 ## タイトル歴
 
-  - TWF世界タッグ（第18代、パートナーは[藪下めぐみ](https://ja.wikipedia.org/wiki/藪下めぐみ "wikilink")）
+  - TWF世界タッグ（第18代、パートナーは[藪下めぐみ](../Page/藪下めぐみ.md "wikilink")）
   - Jd'ジュニア（第7代、第8代）
 
 ## 入場テーマ曲

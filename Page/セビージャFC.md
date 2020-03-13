@@ -1,7 +1,7 @@
 > この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
 
 
-**セビージャ・フトボル・クルブ**（）\[1\]は、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[アンダルシア州](../Page/アンダルシア州.md "wikilink")[セビリア](https://ja.wikipedia.org/wiki/セビリア "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。セビリアFCとも表記される。2019-20シーズンは[ラ・リーガ1部に所属している](https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン "wikilink")。
+**セビージャ・フトボル・クルブ**（）\[1\]は、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[アンダルシア州](../Page/アンダルシア州.md "wikilink")[セビリア](../Page/セビリア.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。セビリアFCとも表記される。2019-20シーズンは[ラ・リーガ1部に所属している](../Page/プリメーラ・ディビシオン.md "wikilink")。
 
 1890年10月14日に設立された。[リーガ・エスパニョーラ](../Page/リーガ・エスパニョーラ.md "wikilink")で優勝1度、[コパ・デル・レイ](../Page/コパ・デル・レイ.md "wikilink")で優勝5度、[スーペルコパ・デ・エスパーニャ](../Page/スーペルコパ・デ・エスパーニャ.md "wikilink")で優勝1度、[UEFAヨーロッパリーグ](../Page/UEFAヨーロッパリーグ.md "wikilink")で優勝5度を数える。セビージャFCのサポーターはセビジスタと呼ばれ、富裕層を中心にファンが多いとされる。同じセビリアを本拠地とし、労働者階級に強い支持基盤を持つ[レアル・ベティス](../Page/レアル・ベティス.md "wikilink")との対戦はセビリア・ダービーと呼ばれ、スペインで最も熱いダービーと言われている\[2\]。
 
@@ -9,7 +9,7 @@
 
 ### 20世紀前半
 
-1890年、セビージャ市の統治者はセビージャFCの設立を発表し、初代会長にはD・ホセ・ルイス・ガジェゴスが就任した。1908年には[レクレアティーボ・ウェルバ](../Page/レクレアティーボ・ウェルバ.md "wikilink")との間でスペイン初の公式戦が行われた。1914年にはコパ・デ・セビージャで優勝した。1935年の[コパ・デル・レイ](../Page/コパ・デル・レイ.md "wikilink")（当時はコパ・デル・プレジデンテと呼ばれていた）では決勝で[CEサバデル](../Page/CEサバデル.md "wikilink")を3-0で破って優勝した。[スペイン内戦](../Page/スペイン内戦.md "wikilink")後の1938-39シーズンには、決勝で[ラシン・フェロル](../Page/ラシン・フェロル.md "wikilink")を6-2で破って2度目のコパ・デル・レイ（当時はコパ・デル・ヘネラリシモと呼ばれていた）制覇を果たした。スペイン内戦後初のリーグ戦となった1939-40シーズンにはかなりリーグ優勝に近づき、[FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")に11-1で、[バレンシアCF](../Page/バレンシアCF.md "wikilink")に10-3で、[エルクレスCF](../Page/エルクレスCF.md "wikilink")に8-3で勝利するなど驚くべき勝利をいくつも挙げたが、エルクレスCFとのシーズン最終戦は3-3の引き分けに終わり、[アトレティコ・アビアシオンに優勝をさらわれた](https://ja.wikipedia.org/wiki/アトレティコ・マドリード "wikilink")。1942-43シーズンには再びリーグ2位となり、1943-44シーズンには3位となった。1945-46シーズンには初の[プリメーラ・ディビシオン](https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン "wikilink")（1部）優勝を果たした。1947-48シーズンのコパ・デル・レイ決勝では[セルタ・デ・ビーゴ](https://ja.wikipedia.org/wiki/セルタ・デ・ビーゴ "wikilink")を4-1で破って3度目の優勝を遂げた。
+1890年、セビージャ市の統治者はセビージャFCの設立を発表し、初代会長にはD・ホセ・ルイス・ガジェゴスが就任した。1908年には[レクレアティーボ・ウェルバ](../Page/レクレアティーボ・ウェルバ.md "wikilink")との間でスペイン初の公式戦が行われた。1914年にはコパ・デ・セビージャで優勝した。1935年の[コパ・デル・レイ](../Page/コパ・デル・レイ.md "wikilink")（当時はコパ・デル・プレジデンテと呼ばれていた）では決勝で[CEサバデル](../Page/CEサバデル.md "wikilink")を3-0で破って優勝した。[スペイン内戦](../Page/スペイン内戦.md "wikilink")後の1938-39シーズンには、決勝で[ラシン・フェロル](../Page/ラシン・フェロル.md "wikilink")を6-2で破って2度目のコパ・デル・レイ（当時はコパ・デル・ヘネラリシモと呼ばれていた）制覇を果たした。スペイン内戦後初のリーグ戦となった1939-40シーズンにはかなりリーグ優勝に近づき、[FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")に11-1で、[バレンシアCF](../Page/バレンシアCF.md "wikilink")に10-3で、[エルクレスCF](../Page/エルクレスCF.md "wikilink")に8-3で勝利するなど驚くべき勝利をいくつも挙げたが、エルクレスCFとのシーズン最終戦は3-3の引き分けに終わり、[アトレティコ・アビアシオンに優勝をさらわれた](https://ja.wikipedia.org/wiki/アトレティコ・マドリード "wikilink")。1942-43シーズンには再びリーグ2位となり、1943-44シーズンには3位となった。1945-46シーズンには初の[プリメーラ・ディビシオン](../Page/プリメーラ・ディビシオン.md "wikilink")（1部）優勝を果たした。1947-48シーズンのコパ・デル・レイ決勝では[セルタ・デ・ビーゴ](../Page/セルタ・デ・ビーゴ.md "wikilink")を4-1で破って3度目の優勝を遂げた。
 
 ### 20世紀後半
 
@@ -25,11 +25,11 @@
 
 #### 2005-06シーズン
 
-2005年夏にはカパロス監督が退任して[ファンデ・ラモス](../Page/ファンデ・ラモス.md "wikilink")監督が就任し、[バレンシアCF](../Page/バレンシアCF.md "wikilink")からGK[アンドレス・パロップ](../Page/アンドレス・パロップ.md "wikilink")を、[AFCアヤックスからDF](../Page/アヤックス・アムステルダム.md "wikilink")[ジュリアン・エスキュデ](../Page/ジュリアン・エスキュデ.md "wikilink")を、[FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")からFW[ハビエル・サビオラ](../Page/ハビエル・サビオラ.md "wikilink")を、[FCポルト](https://ja.wikipedia.org/wiki/FCポルト "wikilink")からFW[ルイス・ファビアーノ](../Page/ルイス・ファビアーノ.md "wikilink")を、[トッテナム・ホットスパーFC](../Page/トッテナム・ホットスパーFC.md "wikilink")からFW[フレデリック・カヌーテ](../Page/フレデリック・カヌーテ.md "wikilink")を獲得するなど大量補強を行った。UEFAカップでは1回戦、グループリーグと順調に勝ち上がり、ラウンド32ではロシアの[FCロコモティフ・モスクワ](https://ja.wikipedia.org/wiki/FCロコモティフ・モスクワ "wikilink")を倒してラウンド16に進出した\[10\]。[LOSCリール・メトロポール](https://ja.wikipedia.org/wiki/LOSCリール・メトロポール "wikilink")と対戦したラウンド16ではファーストレグを0-1で落としたが\[11\]、クラブの欧州カップ戦50試合目となったセカンドレグは2-0で勝利し、準々決勝に進出した\[12\]。準々決勝ではロシアの[FCゼニト・サンクトペテルブルク](../Page/FCゼニト・サンクトペテルブルク.md "wikilink")と対戦し、2試合合計5-2で勝ちぬけた\[13\]。準決勝の[シャルケ04](../Page/シャルケ04.md "wikilink")戦は2試合180分を終えて0-0であったが、延長戦でDF[アントニオ・プエルタ](../Page/アントニオ・プエルタ.md "wikilink")が決勝点を決めた。この得点はファンの間で「生き返った得点」(el gol que nos cambió la vida) と呼ばれ、セビージャFCは欧州カップ戦で初めて決勝に進出した\[14\]。[アイントホーフェン](../Page/アイントホーフェン.md "wikilink")で行われた決勝ではイングランドの[ミドルズブラFC](https://ja.wikipedia.org/wiki/ミドルズブラFC "wikilink")を4-0で下し、58年ぶりにタイトルを獲得するとともに、アンダルシアのクラブで初めて欧州カップ戦を制した。4点差は歴代のUEFAカップ決勝で最大の得点差だった。L・ファビアーノが1得点、MF[エンツォ・マレスカ](../Page/エンツォ・マレスカ.md "wikilink")が2得点、カヌーテが1得点を決めた\[15\]。特にホームでは無類の強さを誇り、2006年12月14日に[AZアルクマール](https://ja.wikipedia.org/wiki/AZアルクマール "wikilink")に敗れるまで欧州カップ戦では27戦無敗を続けた。2005-06シーズンはリーグ戦で5位となり、再びUEFAカップ1回戦の出場権を獲得した。
+2005年夏にはカパロス監督が退任して[ファンデ・ラモス](../Page/ファンデ・ラモス.md "wikilink")監督が就任し、[バレンシアCF](../Page/バレンシアCF.md "wikilink")からGK[アンドレス・パロップ](../Page/アンドレス・パロップ.md "wikilink")を、[AFCアヤックスからDF](../Page/アヤックス・アムステルダム.md "wikilink")[ジュリアン・エスキュデ](../Page/ジュリアン・エスキュデ.md "wikilink")を、[FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")からFW[ハビエル・サビオラ](../Page/ハビエル・サビオラ.md "wikilink")を、[FCポルト](../Page/FCポルト.md "wikilink")からFW[ルイス・ファビアーノ](../Page/ルイス・ファビアーノ.md "wikilink")を、[トッテナム・ホットスパーFC](../Page/トッテナム・ホットスパーFC.md "wikilink")からFW[フレデリック・カヌーテ](../Page/フレデリック・カヌーテ.md "wikilink")を獲得するなど大量補強を行った。UEFAカップでは1回戦、グループリーグと順調に勝ち上がり、ラウンド32ではロシアの[FCロコモティフ・モスクワ](../Page/FCロコモティフ・モスクワ.md "wikilink")を倒してラウンド16に進出した\[10\]。[LOSCリール・メトロポール](../Page/LOSCリール・メトロポール.md "wikilink")と対戦したラウンド16ではファーストレグを0-1で落としたが\[11\]、クラブの欧州カップ戦50試合目となったセカンドレグは2-0で勝利し、準々決勝に進出した\[12\]。準々決勝ではロシアの[FCゼニト・サンクトペテルブルク](../Page/FCゼニト・サンクトペテルブルク.md "wikilink")と対戦し、2試合合計5-2で勝ちぬけた\[13\]。準決勝の[シャルケ04](../Page/シャルケ04.md "wikilink")戦は2試合180分を終えて0-0であったが、延長戦でDF[アントニオ・プエルタ](../Page/アントニオ・プエルタ.md "wikilink")が決勝点を決めた。この得点はファンの間で「生き返った得点」(el gol que nos cambió la vida) と呼ばれ、セビージャFCは欧州カップ戦で初めて決勝に進出した\[14\]。[アイントホーフェン](../Page/アイントホーフェン.md "wikilink")で行われた決勝ではイングランドの[ミドルズブラFC](../Page/ミドルズブラFC.md "wikilink")を4-0で下し、58年ぶりにタイトルを獲得するとともに、アンダルシアのクラブで初めて欧州カップ戦を制した。4点差は歴代のUEFAカップ決勝で最大の得点差だった。L・ファビアーノが1得点、MF[エンツォ・マレスカ](../Page/エンツォ・マレスカ.md "wikilink")が2得点、カヌーテが1得点を決めた\[15\]。特にホームでは無類の強さを誇り、2006年12月14日に[AZアルクマール](../Page/AZアルクマール.md "wikilink")に敗れるまで欧州カップ戦では27戦無敗を続けた。2005-06シーズンはリーグ戦で5位となり、再びUEFAカップ1回戦の出場権を獲得した。
 
 #### 2006-07シーズン
 
-UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカップ.md "wikilink")の出場権を得て、2006年8月には[UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")王者の[FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")と対戦した。[スタッド・ルイ・ドゥ](https://ja.wikipedia.org/wiki/スタッド・ルイ・ドゥ "wikilink")で行われた試合はMF[レナトが序盤に先制し](https://ja.wikipedia.org/wiki/レナト・ヂルネイ・フロレンシオ "wikilink")、後半にはカヌーテとマレスカ (PK) が追加点を決めて3-0で快勝した\[16\]。2006-07シーズンのUEFAカップでは1回戦でギリシャの[アトロミトスFC](https://ja.wikipedia.org/wiki/アトロミトスFC "wikilink")を倒し、グループリーグでは5クラブ中2位で決勝トーナメント進出を決めた。決勝トーナメントではルーマニアの[FCステアウア・ブカレスト](../Page/FCステアウア・ブカレスト.md "wikilink")、ウクライナの[FCシャフタール・ドネツク](../Page/FCシャフタール・ドネツク.md "wikilink")、イングランドのトッテナム・ホットスパーFC、スペインの[CAオサスナ](https://ja.wikipedia.org/wiki/CAオサスナ "wikilink")を下し、2シーズン連続で決勝に進出した。FCシャフタール・ドネツク戦は絶体絶命であったが、セカンドレグの試合終了間際にゴールキーパーのパロップがヘディングシュートを決め、2試合合計で5-4と上回って勝ち抜けを決めている\[17\]。[グラスゴー](../Page/グラスゴー.md "wikilink")で行われた決勝ではスペインの[RCDエスパニョール](https://ja.wikipedia.org/wiki/RCDエスパニョール "wikilink")と対戦し、PK戦の末に勝利して大会2連覇を果たした\[18\]。2連覇を果たしたのはレアル・マドリード（1984-85シーズンと1985-86シーズンに優勝）以来2クラブ目であった。同シーズンのコパ・デル・レイでも決勝に進出し、[エスタディオ・サンティアゴ・ベルナベウ](../Page/エスタディオ・サンティアゴ・ベルナベウ.md "wikilink")で行われた決勝の[ヘタフェCF](https://ja.wikipedia.org/wiki/ヘタフェCF "wikilink")戦 (1-0) ではカヌーテが決勝点を決めて4度目のタイトルを獲得した。リーグ戦ではレアル・マドリードやFCバルセロナと最終節まで優勝争いを繰り広げ、最終的には3位に終わったものの、UEFAチャンピオンズリーグ出場権を獲得した。
+UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカップ.md "wikilink")の出場権を得て、2006年8月には[UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")王者の[FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")と対戦した。[スタッド・ルイ・ドゥ](../Page/スタッド・ルイ・ドゥ.md "wikilink")で行われた試合はMF[レナトが序盤に先制し](https://ja.wikipedia.org/wiki/レナト・ヂルネイ・フロレンシオ "wikilink")、後半にはカヌーテとマレスカ (PK) が追加点を決めて3-0で快勝した\[16\]。2006-07シーズンのUEFAカップでは1回戦でギリシャの[アトロミトスFC](https://ja.wikipedia.org/wiki/アトロミトスFC "wikilink")を倒し、グループリーグでは5クラブ中2位で決勝トーナメント進出を決めた。決勝トーナメントではルーマニアの[FCステアウア・ブカレスト](../Page/FCステアウア・ブカレスト.md "wikilink")、ウクライナの[FCシャフタール・ドネツク](../Page/FCシャフタール・ドネツク.md "wikilink")、イングランドのトッテナム・ホットスパーFC、スペインの[CAオサスナ](../Page/CAオサスナ.md "wikilink")を下し、2シーズン連続で決勝に進出した。FCシャフタール・ドネツク戦は絶体絶命であったが、セカンドレグの試合終了間際にゴールキーパーのパロップがヘディングシュートを決め、2試合合計で5-4と上回って勝ち抜けを決めている\[17\]。[グラスゴー](../Page/グラスゴー.md "wikilink")で行われた決勝ではスペインの[RCDエスパニョール](../Page/RCDエスパニョール.md "wikilink")と対戦し、PK戦の末に勝利して大会2連覇を果たした\[18\]。2連覇を果たしたのはレアル・マドリード（1984-85シーズンと1985-86シーズンに優勝）以来2クラブ目であった。同シーズンのコパ・デル・レイでも決勝に進出し、[エスタディオ・サンティアゴ・ベルナベウ](../Page/エスタディオ・サンティアゴ・ベルナベウ.md "wikilink")で行われた決勝の[ヘタフェCF](../Page/ヘタフェCF.md "wikilink")戦 (1-0) ではカヌーテが決勝点を決めて4度目のタイトルを獲得した。リーグ戦ではレアル・マドリードやFCバルセロナと最終節まで優勝争いを繰り広げ、最終的には3位に終わったものの、UEFAチャンピオンズリーグ出場権を獲得した。
 
 #### 2007-08シーズン
 
@@ -39,7 +39,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 
 #### 2009-10シーズン
 
-2009-10シーズンのコパ・デル・レイではラウンド16でFCバルセロナ（2-2、アウェイゴールの差で勝利）、準々決勝で[デポルティーボ・ラ・コルーニャ](../Page/デポルティーボ・ラ・コルーニャ.md "wikilink")(3-1)、準決勝でヘタフェCF (2-1) を破って決勝に進出した。[アトレティコ・マドリード](https://ja.wikipedia.org/wiki/アトレティコ・マドリード "wikilink")との対戦となった決勝はMF[ディエゴ・カペル](https://ja.wikipedia.org/wiki/ディエゴ・カペル "wikilink")とMF[ヘスス・ナバス](../Page/ヘスス・ナバス.md "wikilink")の得点で2-0で勝利し、3シーズンぶり5度目の優勝を飾った。[ジョゼップ・グアルディオラ](https://ja.wikipedia.org/wiki/ジョゼップ・グアルディオラ "wikilink")監督率いるFCバルセロナは2008-09シーズンにコパ・デル・レイ、リーガ・エスパニョーラ、UEFAチャンピオンズリーグの3冠を達成し、2009-10シーズンにはスーペルコパ・デ・エスパーニャ、FIFAクラブワールドカップの2冠を達成しており、グアルディオラ就任後初めてタイトルを獲得できなかったのがセビージャFCに敗れたコパ・デル・レイであった。
+2009-10シーズンのコパ・デル・レイではラウンド16でFCバルセロナ（2-2、アウェイゴールの差で勝利）、準々決勝で[デポルティーボ・ラ・コルーニャ](../Page/デポルティーボ・ラ・コルーニャ.md "wikilink")(3-1)、準決勝でヘタフェCF (2-1) を破って決勝に進出した。[アトレティコ・マドリード](https://ja.wikipedia.org/wiki/アトレティコ・マドリード "wikilink")との対戦となった決勝はMF[ディエゴ・カペル](https://ja.wikipedia.org/wiki/ディエゴ・カペル "wikilink")とMF[ヘスス・ナバス](../Page/ヘスス・ナバス.md "wikilink")の得点で2-0で勝利し、3シーズンぶり5度目の優勝を飾った。[ジョゼップ・グアルディオラ](../Page/ジョゼップ・グアルディオラ.md "wikilink")監督率いるFCバルセロナは2008-09シーズンにコパ・デル・レイ、リーガ・エスパニョーラ、UEFAチャンピオンズリーグの3冠を達成し、2009-10シーズンにはスーペルコパ・デ・エスパーニャ、FIFAクラブワールドカップの2冠を達成しており、グアルディオラ就任後初めてタイトルを獲得できなかったのがセビージャFCに敗れたコパ・デル・レイであった。
 
 #### 2010-11シーズン
 
@@ -47,7 +47,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 
 #### 2013-14シーズン
 
-2013年夏には[ステファーヌ・エムビア](https://ja.wikipedia.org/wiki/ステファーヌ・エムビア "wikilink")や[マルコ・マリン](https://ja.wikipedia.org/wiki/マルコ・マリン "wikilink")などをレンタルで獲得した。[UEFAヨーロッパリーグでは](https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2013-14 "wikilink")、予選3回戦から決勝まで勝ち上がった。その決勝では、[SLベンフィカ](https://ja.wikipedia.org/wiki/SLベンフィカ "wikilink")をPK戦で破り、7年ぶりの欧州タイトルを獲得した。
+2013年夏には[ステファーヌ・エムビア](https://ja.wikipedia.org/wiki/ステファーヌ・エムビア "wikilink")や[マルコ・マリン](https://ja.wikipedia.org/wiki/マルコ・マリン "wikilink")などをレンタルで獲得した。[UEFAヨーロッパリーグでは](https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2013-14 "wikilink")、予選3回戦から決勝まで勝ち上がった。その決勝では、[SLベンフィカ](../Page/SLベンフィカ.md "wikilink")をPK戦で破り、7年ぶりの欧州タイトルを獲得した。
 
 #### 2014-15シーズン
 
@@ -97,7 +97,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 
 過去のダービーでは様々な事件が起こっている。2002年10月6日にエスタディオ・ラモン・サンチェス・ピスフアンで行われたダービーでは、警備員と口論となったセビージャFCのサポーターが他のサポーターに借りた松葉杖で警備員に殴りかかった。さらにセビージャFCのサポーターがベティスのゴールキーパーの[トニ・プラッツ](https://ja.wikipedia.org/wiki/トニ・プラッツ "wikilink")を襲撃しようとしたために試合は中断された\[31\]。
 
-2007年2月28日に[エスタディオ・マヌエル・ルイス・デ・ロペーラ](https://ja.wikipedia.org/wiki/エスタディオ・マヌエル・ルイス・デ・ロペーラ "wikilink")で行われた[コパ・デル・レイ](../Page/コパ・デル・レイ.md "wikilink")準々決勝は、ベティスのサポーターがふさわしくない振る舞いをしたとして中断延期された。60分にベティスのサポーターがセビージャFCの[ファンデ・ラモス](../Page/ファンデ・ラモス.md "wikilink")監督に中身の入ったペットボトルを投げつけ、それが直撃してファンデ・ラモス監督は倒れた\[32\]\[33\]。監督はすぐに救急車で病院に運ばれて一晩入院したが、大事には至らずに済んだ\[34\]。恥じるべきサポーターの行いに対する処置として、スペインサッカー協会はベティスに対してホーム戦3試合を本拠地以外で行うように命じた。セビージャFCは自動的に勝ちぬけとなり、マドリードで行われた決勝で[ヘタフェCF](https://ja.wikipedia.org/wiki/ヘタフェCF "wikilink")を1-0で下して優勝した。
+2007年2月28日に[エスタディオ・マヌエル・ルイス・デ・ロペーラ](https://ja.wikipedia.org/wiki/エスタディオ・マヌエル・ルイス・デ・ロペーラ "wikilink")で行われた[コパ・デル・レイ](../Page/コパ・デル・レイ.md "wikilink")準々決勝は、ベティスのサポーターがふさわしくない振る舞いをしたとして中断延期された。60分にベティスのサポーターがセビージャFCの[ファンデ・ラモス](../Page/ファンデ・ラモス.md "wikilink")監督に中身の入ったペットボトルを投げつけ、それが直撃してファンデ・ラモス監督は倒れた\[32\]\[33\]。監督はすぐに救急車で病院に運ばれて一晩入院したが、大事には至らずに済んだ\[34\]。恥じるべきサポーターの行いに対する処置として、スペインサッカー協会はベティスに対してホーム戦3試合を本拠地以外で行うように命じた。セビージャFCは自動的に勝ちぬけとなり、マドリードで行われた決勝で[ヘタフェCF](../Page/ヘタフェCF.md "wikilink")を1-0で下して優勝した。
 
 2008-09シーズン、ベティスは13年ぶりにアウェーでセビージャFCを下したが\[35\]、そのシーズンのセビージャFCはリーグ戦で3位に躍進して[UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")出場権を獲得し、ベティスは18位で[セグンダ・ディビシオン](../Page/セグンダ・ディビシオン.md "wikilink")（2部）降格となったが、2011-12シーズンに、ベティスは1部に復帰している。
 
@@ -124,7 +124,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 <td><center>
 <p><span style="color:white;"><strong>1-2</strong> </span></p></td>
 <td><p>レアル・ベティス</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>?</p></td>
 <td><p>?</p></td>
 </tr>
@@ -134,7 +134,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 <td><center>
 <p><span style="color:white;"><strong>0-1</strong> </span></p></td>
 <td><p>セビージャFC</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>-</p></td>
 <td><p>?</p></td>
 <td></td>
@@ -146,7 +146,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 <td><center>
 <p><span style="color:white;"><strong>0-3</strong> </span></p></td>
 <td><p>セビージャFC</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>-</p></td>
 <td><p>?</p></td>
 </tr>
@@ -156,7 +156,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 <td><center>
 <p><span style="color:white;"><strong>3-2</strong> </span></p></td>
 <td><p>レアル・ベティス</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>?</p></td>
 <td><p>?</p></td>
 <td></td>
@@ -168,7 +168,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 <td><center>
 <p><span style="color:white;"><strong>0-1</strong> </span></p></td>
 <td><p>レアル・ベティス</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>-</p></td>
 <td><p>?</p></td>
 </tr>
@@ -178,7 +178,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 <td><center>
 <p><span style="color:white;"><strong>2-1</strong> </span></p></td>
 <td><p>セビージャFC</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>?</p></td>
 <td><p>?</p></td>
 <td></td>
@@ -190,7 +190,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 <td><center>
 <p><span style="color:white;"><strong>1-1</strong> </span></p></td>
 <td><p>セビージャFC</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>?</p></td>
 <td><p>?</p></td>
 </tr>
@@ -200,7 +200,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 <td><center>
 <p><span style="color:white;"><strong>1-0</strong> </span></p></td>
 <td><p>レアル・ベティス</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>?</p></td>
 <td><p>-</p></td>
 <td></td>
@@ -212,7 +212,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 <td><center>
 <p><span style="color:white;"><strong>0-3</strong> </span></p></td>
 <td><p>レアル・ベティス</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>-</p></td>
 <td><p>?</p></td>
 </tr>
@@ -222,7 +222,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 <td><center>
 <p><span style="color:white;"><strong>3-3</strong> </span></p></td>
 <td><p>セビージャFC</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>?</p></td>
 <td><p>?</p></td>
 <td></td>
@@ -234,7 +234,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 <td><center>
 <p><span style="color:white;"><strong>3-0</strong> </span></p></td>
 <td><p>レアル・ベティス</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>?</p></td>
 <td><p>-</p></td>
 </tr>
@@ -244,7 +244,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 <td><center>
 <p><span style="color:white;"><strong>1-1</strong> </span></p></td>
 <td><p>セビージャFC</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>?</p></td>
 <td><p>?</p></td>
 <td></td>
@@ -278,7 +278,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 <td><center>
 <p><span style="color:white;"><strong>0-0</strong> </span></p></td>
 <td><p>レアル・ベティス</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
@@ -288,7 +288,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 <td><center>
 <p><span style="color:white;"><strong>0-0</strong> </span></p></td>
 <td><p>セビージャFC</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td></td>
@@ -300,7 +300,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 <td><center>
 <p><span style="color:white;"><strong>1-1</strong> </span></p></td>
 <td><p>レアル・ベティス</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>?</p></td>
 <td><p>?</p></td>
 </tr>
@@ -310,7 +310,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 <td><center>
 <p><span style="color:white;"><strong>0-1</strong> </span></p></td>
 <td><p>セビージャFC</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>-</p></td>
 <td><p>?</p></td>
 <td></td>
@@ -322,7 +322,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 <td><center>
 <p><span style="color:white;"><strong>2-2</strong> </span></p></td>
 <td><p>レアル・ベティス</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>?</p></td>
 <td><p>?</p></td>
 </tr>
@@ -332,7 +332,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 <td><center>
 <p><span style="color:white;"><strong>1-1</strong> </span></p></td>
 <td><p>セビージャFC</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>?</p></td>
 <td><p>-</p></td>
 <td></td>
@@ -344,7 +344,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 <td><center>
 <p><span style="color:white;"><strong>2-1</strong> </span></p></td>
 <td><p>レアル・ベティス</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>?</p></td>
 <td><p>?</p></td>
 </tr>
@@ -354,7 +354,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 <td><center>
 <p><span style="color:white;"><strong>1-0</strong> </span></p></td>
 <td><p>セビージャFC</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>?</p></td>
 <td><p>-</p></td>
 <td></td>
@@ -366,7 +366,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 <td><center>
 <p><span style="color:white;"><strong>1-0</strong> </span></p></td>
 <td><p>レアル・ベティス</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p><small> <a href="../Page/エンツォ・マレスカ.md" title="wikilink">マレスカ</a> 50' (PK)</p></td>
 <td><p>-</p></td>
 </tr>
@@ -376,7 +376,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 <td><center>
 <p><span style="color:white;"><strong>2-1</strong> </span></p></td>
 <td><p>セビージャFC</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p><small> <a href="https://ja.wikipedia.org/wiki/ロベルト・デ・ピーニョ・デ・ソウザ" title="wikilink">ロベルト</a> 15' (PK), <a href="https://ja.wikipedia.org/wiki/フェルナンド・バレラ" title="wikilink">バレラ</a> 44'</p></td>
 <td><p><small> <a href="../Page/ハビエル・サビオラ.md" title="wikilink">サビオラ</a> 29'</p></td>
 <td></td>
@@ -388,7 +388,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 <td><center>
 <p><span style="color:white;"><strong>3-2</strong> </span></p></td>
 <td><p>レアル・ベティス</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p><small> <a href="../Page/フレデリック・カヌーテ.md" title="wikilink">カヌーテ</a> 26', 59',<br />
 <a href="https://ja.wikipedia.org/wiki/レナト・ヂルネイ・フロレンシオ" title="wikilink">レナト</a> 85'</p></td>
 <td><p><small> <a href="../Page/ラファエル・ソビス.md" title="wikilink">ソビス</a> 40', 52'</p></td>
@@ -410,7 +410,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 <td><center>
 <p><span style="color:white;"><strong>0-0</strong> </span></p></td>
 <td><p>セビージャFC</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td></td>
@@ -433,7 +433,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 <td><center>
 <p><span style="color:white;"><strong>3-0</strong> </span></p></td>
 <td><p>レアル・ベティス</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p><small> <a href="../Page/ルイス・ファビアーノ.md" title="wikilink">L・ファビアーノ</a> 26', 42',<br />
 <a href="../Page/ダニエウ・アウヴェス.md" title="wikilink">D・アウヴェス</a> 63'</p></td>
 <td><p>-</p></td>
@@ -444,7 +444,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 <td><center>
 <p><span style="color:white;"><strong>0-2</strong> </span></p></td>
 <td><p>セビージャFC</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>-</p></td>
 <td><p><small> <a href="../Page/ルイス・ファビアーノ.md" title="wikilink">L・ファビアーノ</a> 32',<br />
 <a href="https://ja.wikipedia.org/wiki/フェデリコ・ファシオ" title="wikilink">ファシオ</a> 51'</p></td>
@@ -457,7 +457,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 <td><center>
 <p><span style="color:white;"><strong>0-0</strong> </span></p></td>
 <td><p>セビージャFC</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
@@ -467,7 +467,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 <td><center>
 <p><span style="color:white;"><strong>1-2</strong> </span></p></td>
 <td><p>レアル・ベティス</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p><small> <a href="../Page/フレデリック・カヌーテ.md" title="wikilink">カヌーテ</a> 90'</p></td>
 <td><p><small> <a href="../Page/セルヒオ・ガルシア_(サッカー選手).md" title="wikilink">S・ガルシア</a> 70',<br />
 <a href="../Page/リカルド・オリヴェイラ.md" title="wikilink">R・オリヴェイラ</a> 83'</p></td>
@@ -480,7 +480,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 <td><center>
 <p><span style="color:white;"><strong>1-1</strong> </span></p></td>
 <td><p>セビージャFC</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p><small><a href="https://ja.wikipedia.org/wiki/ベニャ・エチェバリア" title="wikilink">ベニャ</a> 26'</p></td>
 <td><p><small><a href="https://ja.wikipedia.org/wiki/アルバロ・ネグレド" title="wikilink">ネグレド</a> 41'</p></td>
 </tr>
@@ -490,7 +490,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 <td><center>
 <p><span style="color:white;"><strong>1-2</strong> </span></p></td>
 <td><p>レアル・ベティス</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p><small><a href="https://ja.wikipedia.org/wiki/アルバロ・ネグレド" title="wikilink">ネグレド</a> 5'</p></td>
 <td><p><small><a href="https://ja.wikipedia.org/wiki/ベニャ・エチェバリア" title="wikilink">ベニャ</a> 44', 92'</p></td>
 <td></td>
@@ -502,7 +502,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 <td><center>
 <p><span style="color:white;"><strong>5-1</strong> </span></p></td>
 <td><p>レアル・ベティス</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p><small><a href="../Page/ホセ・アントニオ・レジェス.md" title="wikilink">レジェス</a> 1', 32', <a href="https://ja.wikipedia.org/wiki/フェデリコ・ファシオ" title="wikilink">ファシオ</a> 4', 41',<br />
 <a href="https://ja.wikipedia.org/wiki/イヴァン・ラキティッチ" title="wikilink">ラキティッチ</a> 91'</p></td>
 <td><p><small><a href="https://ja.wikipedia.org/wiki/ルベン・カストロ" title="wikilink">カストロ</a> 66'</p></td>
@@ -513,7 +513,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 <td><center>
 <p><span style="color:white;"><strong>3-3</strong> </span></p></td>
 <td><p>セビージャFC</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p><small><a href="https://ja.wikipedia.org/wiki/ドルラン・パボン" title="wikilink">パボン</a> 42', <a href="https://ja.wikipedia.org/wiki/ルベン・カストロ" title="wikilink">カストロ</a> 53',<br />
 <a href="https://ja.wikipedia.org/wiki/ノサ・イギエボー" title="wikilink">イギエボー</a> 88'</p></td>
 <td><p><small><a href="https://ja.wikipedia.org/wiki/イヴァン・ラキティッチ" title="wikilink">ラキティッチ</a> 7', 18',<br />
@@ -527,7 +527,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 <td><center>
 <p><span style="color:white;"><strong>4-0</strong> </span></p></td>
 <td><p>レアル・ベティス</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p><small><a href="https://ja.wikipedia.org/wiki/カルロス・バッカ" title="wikilink">バッカ</a> 3', <a href="https://ja.wikipedia.org/wiki/ステファーヌ・エムビア" title="wikilink">エムビア</a> 44',<br />
 <a href="https://ja.wikipedia.org/wiki/ビトーロ・マチン・ペレス" title="wikilink">ビトーロ</a> 59', <a href="https://ja.wikipedia.org/wiki/ビセンテ・イボーラ" title="wikilink">イボーラ</a> 88'</p></td>
 <td><p>-</p></td>
@@ -560,7 +560,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 <td><center>
 <p><span style="color:white;"><strong>0-2</strong> </span></p></td>
 <td><p>セビージャFC</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>-</p></td>
 <td><p><small><a href="https://ja.wikipedia.org/wiki/ケヴィン・ガメイロ" title="wikilink">ガメイロ</a> 30' (PK) , 82'</p></td>
 <td></td>
@@ -572,14 +572,14 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 
   - 2013-14シーズン終了時点
 
-| 大会                                                                    | レアル・ベティス勝利 | 引き分け | セビージャFC勝利 |
-| --------------------------------------------------------------------- | ---------- | ---- | --------- |
-| [プリメーラ・ディビシオン](https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン "wikilink") | 29         | 20   | 41        |
-| [セグンダ・ディビシオン](../Page/セグンダ・ディビシオン.md "wikilink")                      | 4          | 4    | 6         |
-| [コパ・デル・レイ](../Page/コパ・デル・レイ.md "wikilink")                            | 4          | 5    | 7         |
-| [ヨーロッパリーグ](../Page/UEFAヨーロッパリーグ.md "wikilink")                        | 1          | 0    | 1         |
-| 通算                                                                    | 38         | 29   | **55**    |
-|                                                                       |            |      |           |
+| 大会                                                 | レアル・ベティス勝利 | 引き分け | セビージャFC勝利 |
+| -------------------------------------------------- | ---------- | ---- | --------- |
+| [プリメーラ・ディビシオン](../Page/プリメーラ・ディビシオン.md "wikilink") | 29         | 20   | 41        |
+| [セグンダ・ディビシオン](../Page/セグンダ・ディビシオン.md "wikilink")   | 4          | 4    | 6         |
+| [コパ・デル・レイ](../Page/コパ・デル・レイ.md "wikilink")         | 4          | 5    | 7         |
+| [ヨーロッパリーグ](../Page/UEFAヨーロッパリーグ.md "wikilink")     | 1          | 0    | 1         |
+| 通算                                                 | 38         | 29   | **55**    |
+|                                                    |            |      |           |
 
 ## タイトル
 
@@ -587,7 +587,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 
 リーガ・エスパニョーラが初開催される前にアンダルシア州選手権で17度優勝し、セビージャ市選手権で2度優勝している。
 
-  - **[プリメーラ・ディビシオン](https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン "wikilink") : 1回**
+  - **[プリメーラ・ディビシオン](../Page/プリメーラ・ディビシオン.md "wikilink") : 1回**
       - 1945-46
 
 <!-- end list -->
@@ -622,7 +622,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
   -
     {|class="wikitable"
 
-|-bgcolor="\#efefef" \!シーズン \!ディビジョン \!順位 \!試 \!勝 \!引 \!敗 \!得 \!失 \!点 \![国王杯](../Page/コパ・デル・レイ.md "wikilink") \!colspan=2|欧州カップ戦 \!備考 |- |1996-97 |[プリメーラ](https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン "wikilink") |align=right bgcolor="\#FFCCCC"| **20** |align=right|42||align=right|12||align=right|7||align=right|23 |align=right|50||align=right|69||align=right|**43** ||3回戦敗退 |||| |bgcolor="\#FFCCCC"|降格 |- |1997-98 | rowspan="2" |[セグンダ](../Page/セグンダ・ディビシオン.md "wikilink") |align=right |**7** |align=right|38||align=right|12||align=right|17||align=right|9 |align=right|44||align=right|31||align=right|**53** ||1回戦敗退 ||||| |- |1998-99 |align=right bgcolor="DDFFDD"|**4** |align=right|38||align=right|16||align=right|13||align=right|9 |align=right|49||align=right|38||align=right|**61** |ベスト32 |||| |bgcolor="\#DDFFDD"|昇格 |- |1999-00 |プリメーラ |align=right bgcolor="\#FFCCCC"| **20** |align=right|38||align=right|5||align=right|13||align=right|20 |align=right|42||align=right|67||align=right|**28** | |||| |bgcolor="\#FFCCCC"|降格 |- |2000-01 |セグンダ |align=right bgcolor="DDFFDD"| **1** |align=right|38||align=right|14||align=right|8||align=right|16 |align=right|46||align=right|44||align=right|**50** ||ベスト64 |||| |bgcolor="\#DDFFDD"|昇格 |- |2001-02 | rowspan="23" |プリメーラ |align=right |**8** |align=right|38||align=right|14||align=right|11||align=right|13 |align=right|51||align=right|40||align=right|**53** ||ベスト64 ||||| |- |2002-03 |align=right |**10** |align=right|38||align=right|13||align=right|11||align=right|14 |align=right|38||align=right|39||align=right|**50** ||準々決勝敗退 ||||| |- |2003-04 |align=right |**6** |align=right|38||align=right|15||align=right|10||align=right|13 |align=right|56||align=right|45||align=right|**55** ||準決勝敗退 ||||| |- |2004-05 |align=right |**6** |align=right|38||align=right|17||align=right|9||align=right|12 |align=right|44||align=right|41||align=right|**60** ||準々決勝敗退 ||[UC](https://ja.wikipedia.org/wiki/UEFAカップ_2004-05 "wikilink")|||ベスト16 | |- |2005-06 |align=right |**5** |align=right|38||align=right|20||align=right|8||align=right|10 |align=right|54||align=right|39||align=right|**68** ||ベスト16 |bgcolor=gold| [UC](https://ja.wikipedia.org/wiki/UEFAカップ_2005-06 "wikilink")||bgcolor=gold| 優勝 | |- | rowspan="2" |2006-07 | rowspan="2" align="right" bgcolor=\#cc9966 |**3** | rowspan="2" align="right" |38|| rowspan="2" align="right" |21|| rowspan="2" align="right" |8|| rowspan="2" align="right" |9 | rowspan="2" align="right" |64|| rowspan="2" align="right" |35|| rowspan="2" align="right" |**71** | rowspan="2" bgcolor="gold" |優勝 |bgcolor=gold| [UC](https://ja.wikipedia.org/wiki/UEFAカップ_2006-07 "wikilink")
+|-bgcolor="\#efefef" \!シーズン \!ディビジョン \!順位 \!試 \!勝 \!引 \!敗 \!得 \!失 \!点 \![国王杯](../Page/コパ・デル・レイ.md "wikilink") \!colspan=2|欧州カップ戦 \!備考 |- |1996-97 |[プリメーラ](../Page/プリメーラ・ディビシオン.md "wikilink") |align=right bgcolor="\#FFCCCC"| **20** |align=right|42||align=right|12||align=right|7||align=right|23 |align=right|50||align=right|69||align=right|**43** ||3回戦敗退 |||| |bgcolor="\#FFCCCC"|降格 |- |1997-98 | rowspan="2" |[セグンダ](../Page/セグンダ・ディビシオン.md "wikilink") |align=right |**7** |align=right|38||align=right|12||align=right|17||align=right|9 |align=right|44||align=right|31||align=right|**53** ||1回戦敗退 ||||| |- |1998-99 |align=right bgcolor="DDFFDD"|**4** |align=right|38||align=right|16||align=right|13||align=right|9 |align=right|49||align=right|38||align=right|**61** |ベスト32 |||| |bgcolor="\#DDFFDD"|昇格 |- |1999-00 |プリメーラ |align=right bgcolor="\#FFCCCC"| **20** |align=right|38||align=right|5||align=right|13||align=right|20 |align=right|42||align=right|67||align=right|**28** | |||| |bgcolor="\#FFCCCC"|降格 |- |2000-01 |セグンダ |align=right bgcolor="DDFFDD"| **1** |align=right|38||align=right|14||align=right|8||align=right|16 |align=right|46||align=right|44||align=right|**50** ||ベスト64 |||| |bgcolor="\#DDFFDD"|昇格 |- |2001-02 | rowspan="23" |プリメーラ |align=right |**8** |align=right|38||align=right|14||align=right|11||align=right|13 |align=right|51||align=right|40||align=right|**53** ||ベスト64 ||||| |- |2002-03 |align=right |**10** |align=right|38||align=right|13||align=right|11||align=right|14 |align=right|38||align=right|39||align=right|**50** ||準々決勝敗退 ||||| |- |2003-04 |align=right |**6** |align=right|38||align=right|15||align=right|10||align=right|13 |align=right|56||align=right|45||align=right|**55** ||準決勝敗退 ||||| |- |2004-05 |align=right |**6** |align=right|38||align=right|17||align=right|9||align=right|12 |align=right|44||align=right|41||align=right|**60** ||準々決勝敗退 ||[UC](https://ja.wikipedia.org/wiki/UEFAカップ_2004-05 "wikilink")|||ベスト16 | |- |2005-06 |align=right |**5** |align=right|38||align=right|20||align=right|8||align=right|10 |align=right|54||align=right|39||align=right|**68** ||ベスト16 |bgcolor=gold| [UC](https://ja.wikipedia.org/wiki/UEFAカップ_2005-06 "wikilink")||bgcolor=gold| 優勝 | |- | rowspan="2" |2006-07 | rowspan="2" align="right" bgcolor=\#cc9966 |**3** | rowspan="2" align="right" |38|| rowspan="2" align="right" |21|| rowspan="2" align="right" |8|| rowspan="2" align="right" |9 | rowspan="2" align="right" |64|| rowspan="2" align="right" |35|| rowspan="2" align="right" |**71** | rowspan="2" bgcolor="gold" |優勝 |bgcolor=gold| [UC](https://ja.wikipedia.org/wiki/UEFAカップ_2006-07 "wikilink")
 || bgcolor="gold" | 優勝 | |- |bgcolor=gold| [USC](../Page/UEFAスーパーカップ.md "wikilink")
 || bgcolor="gold" | 優勝 | |- |rowspan="2"|2007-08 |rowspan="2" align=right |**5** |rowspan="2" align=right|38||rowspan="2" align=right|20||rowspan="2" align=right|4||rowspan="2" align=right|14 |rowspan="2" align=right|75||rowspan="2" align=right|49||rowspan="2" align=right|**64** |rowspan="2"|ベスト16 ||[CL](../Page/UEFAチャンピオンズリーグ.md "wikilink")|||ベスト16 |rowspan="2" bgcolor=gold| [SCE優勝](../Page/スーペルコパ・デ・エスパーニャ.md "wikilink") |- |bgcolor=silver|[USC](../Page/UEFAスーパーカップ.md "wikilink")||bgcolor=silver|準優勝 |- |2008-09 |align=right bgcolor=\#cc9966|**3** |align=right|38||align=right|21||align=right|7||align=right|10 |align=right|54||align=right|39||align=right|**70** ||準決勝敗退 ||[UC](https://ja.wikipedia.org/wiki/UEFAカップ_2008-09 "wikilink")|||グループステージ敗退 | |- |2009-10 |align=right |**4** |align=right|38||align=right|19||align=right|6||align=right|13 |align=right|65||align=right|49||align=right|**63** |bgcolor=gold|優勝 ||[CL](../Page/UEFAチャンピオンズリーグ.md "wikilink")|||ベスト16 | |- | rowspan="2" |2010-11 | rowspan="2" align="right" |**5** | rowspan="2" align="right" |38|| rowspan="2" align="right" |17|| rowspan="2" align="right" |7|| rowspan="2" align="right" |14 | rowspan="2" align="right" |62|| rowspan="2" align="right" |61|| rowspan="2" align="right" |**58** | rowspan="2" |準決勝敗退 ||[CL](../Page/UEFAチャンピオンズリーグ.md "wikilink")|||プレーオフ敗退 | rowspan="2" bgcolor="silver" | [SCE準優勝](../Page/スーペルコパ・デ・エスパーニャ.md "wikilink") |- |[EL](../Page/UEFAヨーロッパリーグ.md "wikilink") |ベスト32 |- |2011-12 | align="right" |**9** | align="right" |38|| align="right" |13|| align="right" |11|| align="right" |14 | align="right" |48|| align="right" |47|| align="right" |**50** ||ベスト16 ||[EL](../Page/UEFAヨーロッパリーグ.md "wikilink")|||プレーオフ敗退 | |- |2012-13 | align="right" |**9** | align="right" |38|| align="right" |14|| align="right" |8|| align="right" |16 | align="right" |58|| align="right" |54|| align="right" |**50** ||準決勝敗退 ||||| |- |2013-14 | align="right" |**5** | align="right" |38|| align="right" |18|| align="right" |9|| align="right" |11 | align="right" |69|| align="right" |52|| align="right" |**63** ||ベスト16 | bgcolor="gold" |[EL](https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2013-14 "wikilink")|| bgcolor="gold" |優勝 | |- |2014-15 | align="right" |**5** | align="right" |38|| align="right" |23|| align="right" |7|| align="right" |8 | align="right" |71|| align="right" |45|| align="right" |**76** ||準々決勝敗退 | bgcolor="gold" |[EL](https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2014-15 "wikilink")|| bgcolor="gold" |優勝 | |- | rowspan="2" |2015-16 | rowspan="2" align="right" |**7** | rowspan="2" align="right" |38|| rowspan="2" align="right" |14|| rowspan="2" align="right" |10|| rowspan="2" align="right" |14 | rowspan="2" align="right" |51|| rowspan="2" align="right" |50|| rowspan="2" align="right" |**52** | rowspan="2" bgcolor="silver" | 準優勝 |[CL](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2015-16 "wikilink")||グループステージ敗退 | rowspan="2" | |- |bgcolor=gold|[EL](https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2015-16 "wikilink")||bgcolor=gold|優勝 |- |2016-17 |align=right |**4 |align=right|38||align=right|21||align=right|9||align=right|8 |align=right|69||align=right|49||align=right|**72 ||ベスト16 ||[CL](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2016-17 "wikilink") |ベスト16 | |- |2017-18 |align=right |**7 |align=right|38||align=right|17||align=right|7||align=right|14 |align=right|49||align=right|58||align=right|**58 |bgcolor="silver" | 準優勝 |[CL](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2017-18 "wikilink") |ベスト16 | |- |2018-19 |align=right |**6 |align=right|38||align=right|17||align=right|8||align=right|13 |align=right|62||align=right|47||align=right|**59 |準々決勝敗退 |[EL](https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2018-19 "wikilink") |ベスト16 | |- |2019-20 |align=right |*' |align=right|38||align=right|　||align=right|　||align=right| |align=right|　||align=right|　||align=right|*' |ベスト16 |[EL](https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2019-20 "wikilink") |*ラウンド16* | |}
 
@@ -733,7 +733,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 <td><p><a href="https://ja.wikipedia.org/wiki/AEKアテネFC" title="wikilink">AEKアテネFC</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/LOSCリール・メトロポール" title="wikilink">LOSCリール・メトロポール</a></p></td>
+<td><p><a href="../Page/LOSCリール・メトロポール.md" title="wikilink">LOSCリール・メトロポール</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ラウンド32</p></td>
@@ -755,7 +755,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 <td><p><a href="../Page/ヴィトーリアSC.md" title="wikilink">ヴィトーリアSC</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ボルトン・ワンダラーズFC" title="wikilink">ボルトン・ワンダラーズFC</a></p></td>
+<td><p><a href="../Page/ボルトン・ワンダラーズFC.md" title="wikilink">ボルトン・ワンダラーズFC</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>ラウンド32</p></td>
@@ -786,7 +786,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 <td><p><a href="../Page/グラスホッパー・クラブ・チューリッヒ.md" title="wikilink">グラスホッパー・クラブ・チューリッヒ</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/AZアルクマール" title="wikilink">AZアルクマール</a></p></td>
+<td><p><a href="../Page/AZアルクマール.md" title="wikilink">AZアルクマール</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>ラウンド32</p></td>
@@ -836,7 +836,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 <td><p><a href="https://ja.wikipedia.org/wiki/GDエストリル・プライア" title="wikilink">GDエストリル・プライア</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/SCフライブルク" title="wikilink">SCフライブルク</a></p></td>
+<td><p><a href="../Page/SCフライブルク.md" title="wikilink">SCフライブルク</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>ラウンド32</p></td>
@@ -1041,7 +1041,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 
   - [マヌエル・ヒメネス](https://ja.wikipedia.org/wiki/マヌエル・ヒメネス "wikilink") 1983-1997
 
-  - [ゼリコ・ペトロビッチ](https://ja.wikipedia.org/wiki/ゼリコ・ペトロビッチ "wikilink") 1991-1992
+  - [ゼリコ・ペトロビッチ](../Page/ゼリコ・ペトロビッチ.md "wikilink") 1991-1992
 
   - [フアン・ベラスコ](../Page/フアン・ベラスコ.md "wikilink") 1997-1999
 
@@ -1105,7 +1105,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 
   - [ヴァシリス・ツァルタス](https://ja.wikipedia.org/wiki/ヴァシリス・ツァルタス "wikilink") 1996-2000
 
-  - [ジュリオ・バチスタ](https://ja.wikipedia.org/wiki/ジュリオ・セーザル・クレメンテ・バチスタ "wikilink") 2003-2005
+  - [ジュリオ・バチスタ](../Page/ジュリオ・セーザル・クレメンテ・バチスタ.md "wikilink") 2003-2005
 
   - [レナト](../Page/レナト・ジルネイ・フロレンシオ・サントス.md "wikilink") 2004-2011
 
@@ -1151,11 +1151,11 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 
   - [アントン・ポルスター](../Page/アントン・ポルスター.md "wikilink") 1988-1991
 
-  - [イバン・サモラーノ](https://ja.wikipedia.org/wiki/イバン・サモラーノ "wikilink") 1991-1992
+  - [イバン・サモラーノ](../Page/イバン・サモラーノ.md "wikilink") 1991-1992
 
   - [ダヴォール・シューケル](../Page/ダヴォール・シューケル.md "wikilink") 1991-1996
 
-  - [ベベット](https://ja.wikipedia.org/wiki/ジョゼ・ロベルト・ガマ・デ・オリベイラ "wikilink") 1996-1997
+  - [ベベット](../Page/ジョゼ・ロベルト・ガマ・デ・オリベイラ.md "wikilink") 1996-1997
 
   - [ホセ・マリ](https://ja.wikipedia.org/wiki/ホセ・マリア・ロメロ・ポジョン "wikilink") 1996-1997
 

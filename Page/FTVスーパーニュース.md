@@ -124,7 +124,7 @@
 <tr class="even">
 <td><p>2003.3.31</p></td>
 <td><p>2004.3.27</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/高橋雄一_(福島テレビ)" title="wikilink">高橋雄一</a></p></td>
+<td><p><a href="../Page/高橋雄一_(福島テレビ).md" title="wikilink">高橋雄一</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2004.3.29</p></td>
@@ -139,7 +139,7 @@
 <tr class="odd">
 <td><p>2006.4.1</p></td>
 <td><p>2007.3.31</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山元香里" title="wikilink">山元香里</a></p></td>
+<td><p><a href="../Page/山元香里.md" title="wikilink">山元香里</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2007.4.2</p></td>
@@ -289,15 +289,15 @@
       - 高橋雄一
       - 北上明子
       - [長久保智子](../Page/長久保智子.md "wikilink")
-      - [田井麗花](https://ja.wikipedia.org/wiki/田井れい花 "wikilink")
+      - [田井麗花](../Page/田井れい花.md "wikilink")
       - 伊藤里奈
       - 若槻麻美
       - [岩田雅人](../Page/岩田雅人.md "wikilink")
-      - [海附雅美](https://ja.wikipedia.org/wiki/海附雅美 "wikilink")
+      - [海附雅美](../Page/海附雅美.md "wikilink")
       - 向井佐都子
       - 荒井律
       - 千田淳一
-      - [上山美紀](https://ja.wikipedia.org/wiki/上山美紀 "wikilink")
+      - [上山美紀](../Page/上山美紀.md "wikilink")
       - 山元香里
       - 坂部友宏
       - 堤友香
@@ -354,7 +354,7 @@
   - 2008年12月27日 16:00 - 17:25 「2008 FTVスーパーニュース特報」
       - 17時台のローカル枠打ち切りに伴い日曜夕方に放送。ただし、録画での放送となった。
   - 2009年8月31日 16:53 - 19:30
-      - 前日の8月30日に行われた[衆議院選挙について](https://ja.wikipedia.org/wiki/第45回衆議院議員総選挙 "wikilink")、[片山虎之助](https://ja.wikipedia.org/wiki/片山虎之助 "wikilink")元参院議員のほか[太田和美衆院議員ら県選出議員をスタジオに招き](https://ja.wikipedia.org/wiki/太田和美_\(政治家\) "wikilink")、東京からは[玄葉光一郎](https://ja.wikipedia.org/wiki/玄葉光一郎 "wikilink")衆院議員が中継で出演し、19時30分まで延長して放送された。
+      - 前日の8月30日に行われた[衆議院選挙について](https://ja.wikipedia.org/wiki/第45回衆議院議員総選挙 "wikilink")、[片山虎之助](../Page/片山虎之助.md "wikilink")元参院議員のほか[太田和美衆院議員ら県選出議員をスタジオに招き](https://ja.wikipedia.org/wiki/太田和美_\(政治家\) "wikilink")、東京からは[玄葉光一郎](../Page/玄葉光一郎.md "wikilink")衆院議員が中継で出演し、19時30分まで延長して放送された。
   - 2009年12月28日 16:00 - 19:00 「FTVスーパーニュース特報」
       - 2年ぶりの生放送。
 
@@ -378,7 +378,7 @@
 <!-- end list -->
 
   -
-    2013年度での特集コーナー（「Voice 福島の声」）では、[TBS](../Page/TBSテレビ.md "wikilink")「[イブニング・ファイブ](https://ja.wikipedia.org/wiki/イブニング・ファイブ "wikilink")」で使用されていた『Something In The Wind』を使用している。余談ではあるが、TBSとは1983年3月まで加盟していた[Japan News Network](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")（JNN）のキー局であった（「Voice」というタイトルも、かつてのJNN準キー局である[毎日放送の](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")[夕方ニュースにて使用](../Page/VOICE_\(ニュース番組\).md "wikilink")）。
+    2013年度での特集コーナー（「Voice 福島の声」）では、[TBS](../Page/TBSテレビ.md "wikilink")「[イブニング・ファイブ](../Page/イブニング・ファイブ.md "wikilink")」で使用されていた『Something In The Wind』を使用している。余談ではあるが、TBSとは1983年3月まで加盟していた[Japan News Network](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")（JNN）のキー局であった（「Voice」というタイトルも、かつてのJNN準キー局である[毎日放送の](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")[夕方ニュースにて使用](../Page/VOICE_\(ニュース番組\).md "wikilink")）。
 
 <!-- end list -->
 

@@ -5,7 +5,7 @@
 
 ## 概要
 
-[2003年](../Page/2003年.md "wikilink")[6月](../Page/6月.md "wikilink")に[IEEE 802.3afとして標準化された](https://ja.wikipedia.org/wiki/IEEE_802.3af "wikilink")。主に電力供給の困難な場所に設置された、[Webカメラ](https://ja.wikipedia.org/wiki/Webカメラ "wikilink")、[スイッチングハブ](../Page/スイッチングハブ.md "wikilink")、[無線LAN](../Page/無線LAN.md "wikilink")[アクセスポイント](../Page/アクセスポイント_\(無線LAN\).md "wikilink")、[IP電話機](https://ja.wikipedia.org/wiki/IP電話機 "wikilink")などで利用される。
+[2003年](../Page/2003年.md "wikilink")[6月](../Page/6月.md "wikilink")に[IEEE 802.3afとして標準化された](https://ja.wikipedia.org/wiki/IEEE_802.3af "wikilink")。主に電力供給の困難な場所に設置された、[Webカメラ](../Page/Webカメラ.md "wikilink")、[スイッチングハブ](../Page/スイッチングハブ.md "wikilink")、[無線LAN](../Page/無線LAN.md "wikilink")[アクセスポイント](../Page/アクセスポイント_\(無線LAN\).md "wikilink")、[IP電話機](https://ja.wikipedia.org/wiki/IP電話機 "wikilink")などで利用される。
 
 給電側機器を「**PSE**」（Power sourcing equipment）、受電側機器を**PD**（Powered device）と呼ぶ。
 

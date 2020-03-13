@@ -20,7 +20,7 @@ VNCには以下の二つの異なるケースが存在する。
 
 ### 狭義のVNC状態
 
-自然界では、前述のように培養可能な微生物と培養不能な微生物が混じった状態で存在している。培養不能なものは培養不能であるが故に厳密に同定することはできないが、その中には培養方法が確立されていないもの（培養不能菌）以外にも、すでに培養方法が確立されているはずの菌種が混じっていることが判明している。これらの菌は、本来ならば増殖が可能であるはずの培地や培養条件にそのまま接種しても分裂・増殖しないが、栄養状態によっては細胞が大きく成長したり、[リボソーム](../Page/リボソーム.md "wikilink")や酵素などが正常に機能すること、[核酸](../Page/核酸.md "wikilink")などの存在から、死んではいないことが証明されており、この状態が狭義にVNCと呼ばれる。この状態は、[コレラ菌](https://ja.wikipedia.org/wiki/コレラ菌 "wikilink")や大腸菌、[赤痢菌](https://ja.wikipedia.org/wiki/赤痢菌 "wikilink")などで見つかっているが、それ以外のほとんどの菌についても同様な状態になりうると考えられている。
+自然界では、前述のように培養可能な微生物と培養不能な微生物が混じった状態で存在している。培養不能なものは培養不能であるが故に厳密に同定することはできないが、その中には培養方法が確立されていないもの（培養不能菌）以外にも、すでに培養方法が確立されているはずの菌種が混じっていることが判明している。これらの菌は、本来ならば増殖が可能であるはずの培地や培養条件にそのまま接種しても分裂・増殖しないが、栄養状態によっては細胞が大きく成長したり、[リボソーム](../Page/リボソーム.md "wikilink")や酵素などが正常に機能すること、[核酸](../Page/核酸.md "wikilink")などの存在から、死んではいないことが証明されており、この状態が狭義にVNCと呼ばれる。この状態は、[コレラ菌](https://ja.wikipedia.org/wiki/コレラ菌 "wikilink")や大腸菌、[赤痢菌](../Page/赤痢菌.md "wikilink")などで見つかっているが、それ以外のほとんどの菌についても同様な状態になりうると考えられている。
 
 VNC状態が、どのような意味を持つかについては以下の二つの仮説がある。
 
@@ -48,7 +48,7 @@ VNC状態になると知られている種:\[1\]
 
   - *[E.M.S](https://ja.wikipedia.org/wiki/w:E.M.S "wikilink")*
   - *[Aeromonas salmonicida](https://ja.wikipedia.org/wiki/w:Aeromonas_salmonicida "wikilink")*
-  - *[Agrobacterium tumefaciens](https://ja.wikipedia.org/wiki/w:Agrobacterium_tumefaciens "wikilink")*（[アグロバクテリウム](https://ja.wikipedia.org/wiki/アグロバクテリウム "wikilink")）
+  - *[Agrobacterium tumefaciens](https://ja.wikipedia.org/wiki/w:Agrobacterium_tumefaciens "wikilink")*（[アグロバクテリウム](../Page/アグロバクテリウム.md "wikilink")）
   - *[Burkholderia cepacia](https://ja.wikipedia.org/wiki/w:Burkholderia_cepacia "wikilink")*
   - *[Burkholderia pseudomallei](https://ja.wikipedia.org/wiki/w:Burkholderia_pseudomallei "wikilink")*
   - *[Campylobacter coli](https://ja.wikipedia.org/wiki/w:Campylobacter_coli "wikilink")*
@@ -60,10 +60,10 @@ VNC状態になると知られている種:\[1\]
   - *[Enterococcus faecalis](https://ja.wikipedia.org/wiki/w:Enterococcus_faecalis "wikilink")*
   - *[Enterococcus hirae](https://ja.wikipedia.org/wiki/w:Enterococcus_hirae "wikilink")*
   - *[Enterococcus faecium](https://ja.wikipedia.org/wiki/w:Enterococcus_faecium "wikilink")*
-  - *[Erwinia amylovora](https://ja.wikipedia.org/wiki/w:Erwinia_amylovora "wikilink")*（[火傷病](https://ja.wikipedia.org/wiki/火傷病 "wikilink")菌）
+  - *[Erwinia amylovora](https://ja.wikipedia.org/wiki/w:Erwinia_amylovora "wikilink")*（[火傷病](../Page/火傷病.md "wikilink")菌）
   - *[Escherichia coli](https://ja.wikipedia.org/wiki/w:Escherichia_coli "wikilink")*（[大腸菌](../Page/大腸菌.md "wikilink")） ([EHEC](https://ja.wikipedia.org/wiki/w:Escherichia_coli_O157:H7 "wikilink")（[病原性大腸菌](https://ja.wikipedia.org/wiki/病原性大腸菌 "wikilink")）を含む。)
   - *[Francisella tularensis](https://ja.wikipedia.org/wiki/w:Francisella_tularensis "wikilink")*
-  - *[Helicobacter pylori](https://ja.wikipedia.org/wiki/w:Helicobacter_pylori "wikilink")*（[ヘリコバクター・ピロリ](https://ja.wikipedia.org/wiki/ヘリコバクター・ピロリ "wikilink")）
+  - *[Helicobacter pylori](https://ja.wikipedia.org/wiki/w:Helicobacter_pylori "wikilink")*（[ヘリコバクター・ピロリ](../Page/ヘリコバクター・ピロリ.md "wikilink")）
   - *[Klebsiella aerogenes](https://ja.wikipedia.org/wiki/w:Klebsiella_aerogenes "wikilink")*
   - *[Klebsiella pneumoniae](https://ja.wikipedia.org/wiki/w:Klebsiella_pneumoniae "wikilink")*（[クレブシエラ・ニューモニエ](../Page/クレブシエラ・ニューモニエ.md "wikilink")）
   - *[Klebsiella planticola](https://ja.wikipedia.org/wiki/w:Klebsiella_planticola "wikilink")*

@@ -3,11 +3,11 @@
 
 **iPhoto**（アイフォト）は、[アップルが開発](../Page/アップル_\(企業\).md "wikilink")・販売する[写真管理ソフトウェアである](../Page/グラフィックソフトウェア.md "wikilink")。同社の統合ソフトウェア製品「[iLife](https://ja.wikipedia.org/wiki/iLife "wikilink")」の構成[ソフトウェア](../Page/ソフトウェア.md "wikilink")の一つ。
 
-主に[デジタルカメラ](../Page/デジタルカメラ.md "wikilink")で撮影した[デジタル写真](../Page/デジタル写真.md "wikilink")を管理、閲覧したり、[インターネット](../Page/インターネット.md "wikilink")上に公開したり、[壁紙](https://ja.wikipedia.org/wiki/壁紙 "wikilink")にしたり、補正、ネット経由でフォトアルバムの作成を頼んだりすることが出来る。動作環境は[OS X](https://ja.wikipedia.org/wiki/macOS "wikilink")、[iOSのみで](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")、[Windows版は開発されていない](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
+主に[デジタルカメラ](../Page/デジタルカメラ.md "wikilink")で撮影した[デジタル写真](../Page/デジタル写真.md "wikilink")を管理、閲覧したり、[インターネット](../Page/インターネット.md "wikilink")上に公開したり、[壁紙](../Page/壁紙.md "wikilink")にしたり、補正、ネット経由でフォトアルバムの作成を頼んだりすることが出来る。動作環境は[OS X](https://ja.wikipedia.org/wiki/macOS "wikilink")、[iOSのみで](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")、[Windows版は開発されていない](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
 
 ## 概要
 
-基本的な機能は、デジタルカメラから取り込んだ写真等の画像を全て「ライブラリ」（もしくは任意に指定したフォルダ）に集約し、そこから各「アルバム」へ振り分けて整理するものである。各画像にはタグやマイレート、コメントを付けることができ、その写真に関わるあらゆる情報を元に「スマートアルバム」を作成して整理することもできる。[Mac OS X v10.4以降であれば](../Page/Mac_OS_X_v10.4.md "wikilink")、iPhotoで付けたタグやマイレート、コメントは[Spotlight](https://ja.wikipedia.org/wiki/Spotlight "wikilink")での検索対象となる。これによりiPhotoを起動せずとも高速に画像を検索することが可能になっている。
+基本的な機能は、デジタルカメラから取り込んだ写真等の画像を全て「ライブラリ」（もしくは任意に指定したフォルダ）に集約し、そこから各「アルバム」へ振り分けて整理するものである。各画像にはタグやマイレート、コメントを付けることができ、その写真に関わるあらゆる情報を元に「スマートアルバム」を作成して整理することもできる。[Mac OS X v10.4以降であれば](../Page/Mac_OS_X_v10.4.md "wikilink")、iPhotoで付けたタグやマイレート、コメントは[Spotlight](../Page/Spotlight.md "wikilink")での検索対象となる。これによりiPhotoを起動せずとも高速に画像を検索することが可能になっている。
 
 また、旧バージョンのiPhoto 2はアップルから無償で配布されており誰でも利用することができる。以降のバージョンは製品版のiLifeに含まれるか、もしくは一部のMacハードウェアにプリインストールされ販売されている。
 

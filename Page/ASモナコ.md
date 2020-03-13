@@ -25,23 +25,23 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 
 ### 1980年代 - 1990年代
 
-1979年から1983年までの[ジェラール・バニド](https://ja.wikipedia.org/wiki/ジェラール・バニド "wikilink")の監督時代には、1979-80シーズンに17年ぶりのクープ・ドゥ・フランス優勝、1981-82シーズンに4度目のリーグ優勝を果たした。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[1月25日](../Page/1月25日.md "wikilink")、現在の[スタッド・ルイ・ドゥ](https://ja.wikipedia.org/wiki/スタッド・ルイ・ドゥ "wikilink")が開場した\[23\]。
+1979年から1983年までの[ジェラール・バニド](https://ja.wikipedia.org/wiki/ジェラール・バニド "wikilink")の監督時代には、1979-80シーズンに17年ぶりのクープ・ドゥ・フランス優勝、1981-82シーズンに4度目のリーグ優勝を果たした。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[1月25日](../Page/1月25日.md "wikilink")、現在の[スタッド・ルイ・ドゥ](../Page/スタッド・ルイ・ドゥ.md "wikilink")が開場した\[23\]。
 
 [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")から7シーズンのあいだチームの指揮を執った[アーセン・ベンゲル](../Page/アーセン・ベンゲル.md "wikilink")の時代には、[グレン・ホドル](../Page/グレン・ホドル.md "wikilink")と[マーク・ヘイトリー](https://ja.wikipedia.org/wiki/マーク・ヘイトリー "wikilink")の[イングランド代表コンビを中心に](../Page/サッカーイングランド代表.md "wikilink")、堅守速攻の近代的なサッカーで毎年優勝争いを繰り広げた。ベンゲルの下では国内（1987-88シーズンにリーグ優勝、1990-91シーズンにカップ優勝）だけにとどまらず、欧州の舞台でも成功を収め、[1991-1992シーズンに](https://ja.wikipedia.org/wiki/UEFAカップウィナーズカップ_1991-92 "wikilink")[UEFAカップウィナーズカップ](../Page/UEFAカップウィナーズカップ.md "wikilink")で準優勝（[ヴェルダー・ブレーメン](../Page/ヴェルダー・ブレーメン.md "wikilink")が2-0で勝利）、[1993-94シーズンに](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_1993-94 "wikilink")[UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")の準決勝に進出（優勝する[ACミラン](https://ja.wikipedia.org/wiki/ACミラン "wikilink")に敗退）した。\[24\]また若い世代の選手のスカウト・育成にも力を入れ、この頃に見出された選手に[リリアン・テュラム](../Page/リリアン・テュラム.md "wikilink")らがいた。
 
-その後ベンゲルの後を継いだ[ジャン・ティガナ](https://ja.wikipedia.org/wiki/ジャン・ティガナ "wikilink")、そしてモナコの生え抜き選手だった[クロード・ピュエル](../Page/クロード・ピュエル.md "wikilink")の時代も好調を維持した。ティガナ時代の1996-97シーズンは9シーズンぶりのリーグ優勝を果たし、[UEFAカップ](https://ja.wikipedia.org/wiki/UEFAカップ "wikilink")では準決勝でイタリアの[インテルに敗れた](https://ja.wikipedia.org/wiki/インテルナツィオナーレ・ミラノ "wikilink")\[25\]。[1997-98シーズンのチャンピオンズリーグでは準決勝で](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_1997-98 "wikilink")[ユヴェントスFC](../Page/ユヴェントスFC.md "wikilink")に敗れた。この時代の主要な選手には[ファビアン・バルテス](https://ja.wikipedia.org/wiki/ファビアン・バルテス "wikilink")、[エマニュエル・プティ](../Page/エマニュエル・プティ.md "wikilink")、[ティエリ・アンリ](../Page/ティエリ・アンリ.md "wikilink")、[ソニー・アンデルソンらがいた](../Page/アンデルソン・ダ・シウバ.md "wikilink")\[26\]。ピュエル時代の1999-2000シーズンには7つ目のリーグタイトルを獲得した。
+その後ベンゲルの後を継いだ[ジャン・ティガナ](../Page/ジャン・ティガナ.md "wikilink")、そしてモナコの生え抜き選手だった[クロード・ピュエル](../Page/クロード・ピュエル.md "wikilink")の時代も好調を維持した。ティガナ時代の1996-97シーズンは9シーズンぶりのリーグ優勝を果たし、[UEFAカップ](https://ja.wikipedia.org/wiki/UEFAカップ "wikilink")では準決勝でイタリアの[インテルに敗れた](https://ja.wikipedia.org/wiki/インテルナツィオナーレ・ミラノ "wikilink")\[25\]。[1997-98シーズンのチャンピオンズリーグでは準決勝で](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_1997-98 "wikilink")[ユヴェントスFC](../Page/ユヴェントスFC.md "wikilink")に敗れた。この時代の主要な選手には[ファビアン・バルテス](https://ja.wikipedia.org/wiki/ファビアン・バルテス "wikilink")、[エマニュエル・プティ](../Page/エマニュエル・プティ.md "wikilink")、[ティエリ・アンリ](../Page/ティエリ・アンリ.md "wikilink")、[ソニー・アンデルソンらがいた](../Page/アンデルソン・ダ・シウバ.md "wikilink")\[26\]。ピュエル時代の1999-2000シーズンには7つ目のリーグタイトルを獲得した。
 
 ### 2000年代前半
 
-[220px決勝](https://ja.wikipedia.org/wiki/ファイル:AS_Monaco_vs_Porto_2004-05-26.svg "wikilink")、[FCポルト](https://ja.wikipedia.org/wiki/FCポルト "wikilink")戦のスターティングメンバー\]\] しかし[1990年代](../Page/1990年代.md "wikilink")末頃、それまでの放漫経営がたたって巨額の負債を抱え込み、好成績を収めながら2003-04シーズン開始直前には2部への強制降格を言い渡されるほど厳しい経営状況に追い込まれる（この時は各方面からの援助もあり、降格措置は免れた）。長年にわたってクラブの会長職にあったジャン＝ルイ・カンポラは2003年6月に辞任した\[27\]。しかしこの2003-04シーズンは[ディディエ・デシャン](../Page/ディディエ・デシャン.md "wikilink")の下、[レアル・マドリード](https://ja.wikipedia.org/wiki/レアル・マドリード "wikilink")、[チェルシーFC](https://ja.wikipedia.org/wiki/チェルシーFC "wikilink")を破って[UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")決勝まで進出し、初のCLのタイトルを手にしかけるが、[FCポルト](https://ja.wikipedia.org/wiki/FCポルト "wikilink")に3-0で敗れて準優勝に終わった\[28\]。当時の主なメンバーは、[パトリス・エヴラ](../Page/パトリス・エヴラ.md "wikilink")、[リュドヴィク・ジュリ](../Page/リュドヴィク・ジュリ.md "wikilink")、[ジェローム・ロタン](../Page/ジェローム・ロタン.md "wikilink")、[フェルナンド・モリエンテス](https://ja.wikipedia.org/wiki/フェルナンド・モリエンテス "wikilink")、[ダド・プルショ](../Page/ダド・プルショ.md "wikilink")などがいた\[29\]。
+[220px決勝](https://ja.wikipedia.org/wiki/ファイル:AS_Monaco_vs_Porto_2004-05-26.svg "wikilink")、[FCポルト](../Page/FCポルト.md "wikilink")戦のスターティングメンバー\]\] しかし[1990年代](../Page/1990年代.md "wikilink")末頃、それまでの放漫経営がたたって巨額の負債を抱え込み、好成績を収めながら2003-04シーズン開始直前には2部への強制降格を言い渡されるほど厳しい経営状況に追い込まれる（この時は各方面からの援助もあり、降格措置は免れた）。長年にわたってクラブの会長職にあったジャン＝ルイ・カンポラは2003年6月に辞任した\[27\]。しかしこの2003-04シーズンは[ディディエ・デシャン](../Page/ディディエ・デシャン.md "wikilink")の下、[レアル・マドリード](https://ja.wikipedia.org/wiki/レアル・マドリード "wikilink")、[チェルシーFC](https://ja.wikipedia.org/wiki/チェルシーFC "wikilink")を破って[UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")決勝まで進出し、初のCLのタイトルを手にしかけるが、[FCポルト](../Page/FCポルト.md "wikilink")に3-0で敗れて準優勝に終わった\[28\]。当時の主なメンバーは、[パトリス・エヴラ](../Page/パトリス・エヴラ.md "wikilink")、[リュドヴィク・ジュリ](../Page/リュドヴィク・ジュリ.md "wikilink")、[ジェローム・ロタン](../Page/ジェローム・ロタン.md "wikilink")、[フェルナンド・モリエンテス](../Page/フェルナンド・モリエンテス.md "wikilink")、[ダド・プルショ](../Page/ダド・プルショ.md "wikilink")などがいた\[29\]。
 
 2003-04シーズン終了後、チームを支え続けてきたジュリら主力選手が他クラブへ次々に移籍。その代替要員として獲得した新戦力がなかなか戦術に馴染まず、徐々にチームパフォーマンスは低下した。
 
 ### 2000年代後半
 
-2005-06シーズンはチャンピオンズリーグ本戦出場権を賭けた試合で[レアル・ベティス](../Page/レアル・ベティス.md "wikilink")に苦杯を喫し、その後も上向かないチーム状態の責任を取る形でデシャン監督がシーズン途中に辞任した。後任の[フランチェスコ・グイドリン](https://ja.wikipedia.org/wiki/フランチェスコ・グイドリン "wikilink")も結果を残せず、僅か8ヶ月の在任に終わる。2006-07シーズンからは[スタッド・レンヌ](https://ja.wikipedia.org/wiki/スタッド・レンヌ "wikilink")の監督を務めていた[ルーマニア](../Page/ルーマニア.md "wikilink")人、[ラースロー・ベレニ](https://ja.wikipedia.org/wiki/ラースロー・ベレニ "wikilink")を招聘。全ポジションの積極的な補強も行ったが、10節を終えてわずか2勝と振るわずに在任5ヶ月で解任された。同年10月からはアシスタントコーチの[ローラン・バニド](https://ja.wikipedia.org/wiki/ローラン・バニド "wikilink")が暫定的に指揮を執り、一時は最下位に沈んだクラブを9位にまで押し上げたものの、フロントとの不和もあってかシーズン終了後に解任された。
+2005-06シーズンはチャンピオンズリーグ本戦出場権を賭けた試合で[レアル・ベティス](../Page/レアル・ベティス.md "wikilink")に苦杯を喫し、その後も上向かないチーム状態の責任を取る形でデシャン監督がシーズン途中に辞任した。後任の[フランチェスコ・グイドリン](https://ja.wikipedia.org/wiki/フランチェスコ・グイドリン "wikilink")も結果を残せず、僅か8ヶ月の在任に終わる。2006-07シーズンからは[スタッド・レンヌ](../Page/スタッド・レンヌ.md "wikilink")の監督を務めていた[ルーマニア](../Page/ルーマニア.md "wikilink")人、[ラースロー・ベレニ](https://ja.wikipedia.org/wiki/ラースロー・ベレニ "wikilink")を招聘。全ポジションの積極的な補強も行ったが、10節を終えてわずか2勝と振るわずに在任5ヶ月で解任された。同年10月からはアシスタントコーチの[ローラン・バニド](https://ja.wikipedia.org/wiki/ローラン・バニド "wikilink")が暫定的に指揮を執り、一時は最下位に沈んだクラブを9位にまで押し上げたものの、フロントとの不和もあってかシーズン終了後に解任された。
 
-2007-08シーズンは[FCジロンダン・ボルドー](https://ja.wikipedia.org/wiki/FCジロンダン・ボルドー "wikilink")で堅守速攻のサッカーを展開して好成績を収めた[リカルド・ゴメスが監督の座に就き](../Page/リカルド・ゴメス・ライムンド.md "wikilink")、不振からの脱却を目指したが、またしても低迷。ミシェル・パストール会長とジェラルト・ブリアンティ副会長が成績不振の責任を取って辞任するまでに至った。
+2007-08シーズンは[FCジロンダン・ボルドー](../Page/FCジロンダン・ボルドー.md "wikilink")で堅守速攻のサッカーを展開して好成績を収めた[リカルド・ゴメスが監督の座に就き](../Page/リカルド・ゴメス・ライムンド.md "wikilink")、不振からの脱却を目指したが、またしても低迷。ミシェル・パストール会長とジェラルト・ブリアンティ副会長が成績不振の責任を取って辞任するまでに至った。
 
 2009-10シーズンからは前レンヌ監督の[ギー・ラコンブ](https://ja.wikipedia.org/wiki/ギー・ラコンブ "wikilink")が監督に就任。捲土重来を期するも、中位を彷徨うシーズンがまたしても再現された。2010-11シーズンもラコンブが引き続いて指揮を執るが、前シーズン活躍を見せた[ネネを放出したことにより攻撃力が低下](https://ja.wikipedia.org/wiki/アンデルソン・ルイス・デ・カルヴァーリョ "wikilink")。守備ユニットの構築にも誤算が相次ぎ、勝ちきれないゲームを積み重ねた結果、降格圏にまで落ち込んでしまう。フロントはウィンターブレイク中の[フランスカップで](../Page/クープ・ドゥ・フランス.md "wikilink")5部リーグのチームに敗北を喫した責任を取らせる形でラコンブ監督を解任し、前回の緊急登板でチームを上昇気流に乗せたローラン・バニドを4年ぶりに招聘。レアル・マドリードで出番を失っていた[マアマドゥ・ディアッラ](../Page/マアマドゥ・ディアッラ.md "wikilink")を始めとして大量補強に踏み切るも、低迷からは抜け出せず18位に終わり[リーグ・ドゥ](../Page/リーグ・ドゥ.md "wikilink")降格となった。
 
@@ -59,7 +59,7 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 
 2017-18シーズン、昨年までの主力であった[ナビル・ディラル](https://ja.wikipedia.org/wiki/ナビル・ディラル "wikilink")、[ベルナルド・シウバ](https://ja.wikipedia.org/wiki/ベルナルド・シウバ "wikilink")、[バンジャマン・メンディ](https://ja.wikipedia.org/wiki/バンジャマン・メンディ "wikilink")、[ティエムエ・バカヨコ](https://ja.wikipedia.org/wiki/ティエムエ・バカヨコ "wikilink")、[ヴァレール・ジェルマン](https://ja.wikipedia.org/wiki/ヴァレール・ジェルマン "wikilink")、[キリアン・エムバペ](https://ja.wikipedia.org/wiki/キリアン・エムバペ "wikilink")が退団。一方で[ユーリ・ティーレマンス](https://ja.wikipedia.org/wiki/ユーリ・ティーレマンス "wikilink")、[ディエゴ・ベナリオ](https://ja.wikipedia.org/wiki/ディエゴ・ベナリオ "wikilink")、[ラシド・ゲザル](https://ja.wikipedia.org/wiki/ラシド・ゲザル "wikilink")、[ステファン・ヨヴェティッチ](https://ja.wikipedia.org/wiki/ステファン・ヨヴェティッチ "wikilink")、[ケイタ・バルデ・ディアオ](https://ja.wikipedia.org/wiki/ケイタ・バルデ・ディアオ "wikilink")らを獲得した。
 
-2018-19シーズン、夏の移籍期間では[ロシアW杯で活躍した](../Page/2018_FIFAワールドカップ.md "wikilink")[アレクサンドル・ゴロビン](https://ja.wikipedia.org/wiki/アレクサンドル・ゴロビン "wikilink")を[CSKAモスクワから](https://ja.wikipedia.org/wiki/PFC_CSKAモスクワ "wikilink")、そのほかにも、[ウィレム・ジュベル](https://ja.wikipedia.org/wiki/ウィレム・ジュベル "wikilink")、[ベンヤミン・ヘンリヒス](https://ja.wikipedia.org/wiki/ベンヤミン・ヘンリヒス "wikilink")、[ジャン＝ユード・アフル](https://ja.wikipedia.org/wiki/ジャン＝ユード・アフル "wikilink")、[ベルギー代表](../Page/サッカーベルギー代表.md "wikilink")[MF](../Page/ミッドフィールダー.md "wikilink")[ナセル・シャドリ](https://ja.wikipedia.org/wiki/ナセル・シャドリ "wikilink")らを獲得。リーグ戦では、初戦の[FCナント](https://ja.wikipedia.org/wiki/FCナント "wikilink")戦では勝利を収めるも、その後は14節まで勝ち星なしという結果になり、この時点でリーグ順位は19位と降格圏内だった。10月には近年の躍進の立役者である[レオナルド・ジャルデム監督を解任](https://ja.wikipedia.org/wiki/レオナルド・ジャルディム "wikilink")。後任には監督未経験の元[フランス代表](../Page/サッカーフランス代表.md "wikilink")[ティエリ・アンリ](../Page/ティエリ・アンリ.md "wikilink")が就任した。冬の移籍市場ではリザーブチームから[ブノワ・バディアシル](https://ja.wikipedia.org/wiki/ブノワ・バディアシル "wikilink")を昇格させ、[レスターから](../Page/レスター・シティFC.md "wikilink")[アドリエン・シウバ](https://ja.wikipedia.org/wiki/アドリエン・シウバ "wikilink")をレンタルで獲得、他にも、[セスク・ファブレガス](https://ja.wikipedia.org/wiki/セスク・ファブレガス "wikilink")、[カルロス・ヴィニシウス](https://ja.wikipedia.org/wiki/カルロス・ヴィニシウス・ダ・ポーズ・アウヴェス・モライス "wikilink")、[ジェルソン・マルティンス](https://ja.wikipedia.org/wiki/ジェルソン・マルティンス "wikilink")らを獲得したが、チームの調子は全く変わらず、アンリ体制は三か月で収束した。また、その後、再度ジャルデム監督が就任し、なんとか降格を免れた。
+2018-19シーズン、夏の移籍期間では[ロシアW杯で活躍した](../Page/2018_FIFAワールドカップ.md "wikilink")[アレクサンドル・ゴロビン](https://ja.wikipedia.org/wiki/アレクサンドル・ゴロビン "wikilink")を[CSKAモスクワから](../Page/PFC_CSKAモスクワ.md "wikilink")、そのほかにも、[ウィレム・ジュベル](https://ja.wikipedia.org/wiki/ウィレム・ジュベル "wikilink")、[ベンヤミン・ヘンリヒス](https://ja.wikipedia.org/wiki/ベンヤミン・ヘンリヒス "wikilink")、[ジャン＝ユード・アフル](https://ja.wikipedia.org/wiki/ジャン＝ユード・アフル "wikilink")、[ベルギー代表](../Page/サッカーベルギー代表.md "wikilink")[MF](../Page/ミッドフィールダー.md "wikilink")[ナセル・シャドリ](https://ja.wikipedia.org/wiki/ナセル・シャドリ "wikilink")らを獲得。リーグ戦では、初戦の[FCナント](../Page/FCナント.md "wikilink")戦では勝利を収めるも、その後は14節まで勝ち星なしという結果になり、この時点でリーグ順位は19位と降格圏内だった。10月には近年の躍進の立役者である[レオナルド・ジャルデム監督を解任](https://ja.wikipedia.org/wiki/レオナルド・ジャルディム "wikilink")。後任には監督未経験の元[フランス代表](../Page/サッカーフランス代表.md "wikilink")[ティエリ・アンリ](../Page/ティエリ・アンリ.md "wikilink")が就任した。冬の移籍市場ではリザーブチームから[ブノワ・バディアシル](https://ja.wikipedia.org/wiki/ブノワ・バディアシル "wikilink")を昇格させ、[レスターから](../Page/レスター・シティFC.md "wikilink")[アドリエン・シウバ](https://ja.wikipedia.org/wiki/アドリエン・シウバ "wikilink")をレンタルで獲得、他にも、[セスク・ファブレガス](https://ja.wikipedia.org/wiki/セスク・ファブレガス "wikilink")、[カルロス・ヴィニシウス](https://ja.wikipedia.org/wiki/カルロス・ヴィニシウス・ダ・ポーズ・アウヴェス・モライス "wikilink")、[ジェルソン・マルティンス](https://ja.wikipedia.org/wiki/ジェルソン・マルティンス "wikilink")らを獲得したが、チームの調子は全く変わらず、アンリ体制は三か月で収束した。また、その後、再度ジャルデム監督が就任し、なんとか降格を免れた。
 
 ## ライバル関係
 
@@ -453,7 +453,7 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <td><p>1974-75</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップウィナーズカップ_1974-75" title="wikilink">UEFAカップウィナーズカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アイントラハト・フランクフルト" title="wikilink">アイントラハト・フランクフルト</a></p></td>
+<td><p><a href="../Page/アイントラハト・フランクフルト.md" title="wikilink">アイントラハト・フランクフルト</a></p></td>
 <td><p>2–2</p></td>
 <td><p>0–3</p></td>
 <td><p>'''2–5</p></td>
@@ -562,7 +562,7 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 </tr>
 <tr class="odd">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クラブ・ブルッヘ" title="wikilink">クラブ・ブルッヘ</a></p></td>
+<td><p><a href="../Page/クラブ・ブルッヘ.md" title="wikilink">クラブ・ブルッヘ</a></p></td>
 <td><p>6–1</p></td>
 <td><p>0–1</p></td>
 <td><p>'''6–2</p></td>
@@ -602,7 +602,7 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 </tr>
 <tr class="odd">
 <td><p>準々決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レアル・バリャドリード" title="wikilink">レアル・バリャドリード</a></p></td>
+<td><p><a href="../Page/レアル・バリャドリード.md" title="wikilink">レアル・バリャドリード</a></p></td>
 <td><p>0–0</p></td>
 <td><p>0–0</p></td>
 <td><p>'''0–0<br />
@@ -803,7 +803,7 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 </tr>
 <tr class="odd">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ボルシア・メンヒェングラートバッハ" title="wikilink">ボルシアMG</a></p></td>
+<td><p><a href="../Page/ボルシア・メンヒェングラートバッハ.md" title="wikilink">ボルシアMG</a></p></td>
 <td><p>0–1</p></td>
 <td><p>4–2</p></td>
 <td><p>'''4–3</p></td>
@@ -845,7 +845,7 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <td><p>1997-98</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_1997-98" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>グループF</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スポルティング・クルーベ・デ・ポルトゥガル" title="wikilink">スポルティングCP</a></p></td>
+<td><p><a href="../Page/スポルティング・クルーベ・デ・ポルトゥガル.md" title="wikilink">スポルティングCP</a></p></td>
 <td><p>3–2</p></td>
 <td><p>0–3</p></td>
 <td><p>'''1位</p></td>
@@ -995,7 +995,7 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <td><p>2003-04</p></td>
 <td><p><a href="../Page/UEFAチャンピオンズリーグ_2003-04.md" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>グループC</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PSVアイントホーフェン" title="wikilink">PSV</a></p></td>
+<td><p><a href="../Page/PSVアイントホーフェン.md" title="wikilink">PSV</a></p></td>
 <td><p>1–1</p></td>
 <td><p>2–1</p></td>
 <td><p>'''1位</p></td>
@@ -1023,7 +1023,7 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 </tr>
 <tr class="odd">
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCロコモティフ・モスクワ" title="wikilink">ロコモティフ・モスクワ</a></p></td>
+<td><p><a href="../Page/FCロコモティフ・モスクワ.md" title="wikilink">ロコモティフ・モスクワ</a></p></td>
 <td><p>1–0</p></td>
 <td><p>1–2</p></td>
 <td><p>'''2–2 (a)</p></td>
@@ -1053,7 +1053,7 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 </tr>
 <tr class="even">
 <td><p>決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCポルト" title="wikilink">ポルト</a></p></td>
+<td><p><a href="../Page/FCポルト.md" title="wikilink">ポルト</a></p></td>
 <td><p>'''0–3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
@@ -1103,7 +1103,7 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 </tr>
 <tr class="odd">
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PSVアイントホーフェン" title="wikilink">PSV</a></p></td>
+<td><p><a href="../Page/PSVアイントホーフェン.md" title="wikilink">PSV</a></p></td>
 <td><p>0–2</p></td>
 <td><p>0–1</p></td>
 <td><p>'''0–3</p></td>
@@ -1202,7 +1202,7 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/SLベンフィカ" title="wikilink">ベンフィカ</a></p></td>
+<td><p><a href="../Page/SLベンフィカ.md" title="wikilink">ベンフィカ</a></p></td>
 <td><p>0–0</p></td>
 <td><p>0–1</p></td>
 <td></td>
@@ -1262,7 +1262,7 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/RSCアンデルレヒト" title="wikilink">アンデルレヒト</a></p></td>
+<td><p><a href="../Page/RSCアンデルレヒト.md" title="wikilink">アンデルレヒト</a></p></td>
 <td><p>0–2</p></td>
 <td><p>1–1</p></td>
 <td></td>
@@ -1285,7 +1285,7 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <td><p>2016-17</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2016-17" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フェネルバフチェSK" title="wikilink">フェネルバフチェ</a></p></td>
+<td><p><a href="../Page/フェネルバフチェSK.md" title="wikilink">フェネルバフチェ</a></p></td>
 <td><p>3–1</p></td>
 <td><p>1–2</p></td>
 <td><p>'''4–3</p></td>
@@ -1303,7 +1303,7 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 </tr>
 <tr class="odd">
 <td><p>グループE</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PFC_CSKAモスクワ" title="wikilink">CSKAモスクワ</a></p></td>
+<td><p><a href="../Page/PFC_CSKAモスクワ.md" title="wikilink">CSKAモスクワ</a></p></td>
 <td><p>3–0</p></td>
 <td><p>1–1</p></td>
 <td><p>'''1位</p></td>
@@ -1333,7 +1333,7 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 </tr>
 <tr class="even">
 <td><p>ラウンド16</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マンチェスター・シティFC" title="wikilink">マンチェスター・シティ</a></p></td>
+<td><p><a href="../Page/マンチェスター・シティFC.md" title="wikilink">マンチェスター・シティ</a></p></td>
 <td><p>3–1</p></td>
 <td><p>3–5</p></td>
 <td><p>'''6–6 (a)</p></td>
@@ -1372,7 +1372,7 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/FCポルト" title="wikilink">ポルト</a></p></td>
+<td><p><a href="../Page/FCポルト.md" title="wikilink">ポルト</a></p></td>
 <td><p>0–3</p></td>
 <td><p>2–5</p></td>
 <td></td>
@@ -1382,7 +1382,7 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ベシクタシュJK" title="wikilink">ベシクタシュ</a></p></td>
+<td><p><a href="../Page/ベシクタシュJK.md" title="wikilink">ベシクタシュ</a></p></td>
 <td><p>1–2</p></td>
 <td><p>1–1</p></td>
 <td></td>
@@ -1412,7 +1412,7 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/クラブ・ブルッヘ" title="wikilink">クラブ・ブルッヘ</a></p></td>
+<td><p><a href="../Page/クラブ・ブルッヘ.md" title="wikilink">クラブ・ブルッヘ</a></p></td>
 <td><p>0–4</p></td>
 <td><p>1–1</p></td>
 <td></td>
@@ -1586,7 +1586,7 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ジャン・ティガナ" title="wikilink">ジャン・ティガナ</a></p></td>
+<td><p><a href="../Page/ジャン・ティガナ.md" title="wikilink">ジャン・ティガナ</a></p></td>
 <td><p>1995-1999</p></td>
 <td><p>1997リーグ、1997スーパーカップ</p></td>
 </tr>
@@ -1702,7 +1702,7 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 
   - [ウィリー・サニョル](../Page/ウィリー・サニョル.md "wikilink")
 
-  - [ヨン・アルネ・リーセ](https://ja.wikipedia.org/wiki/ヨン・アルネ・リーセ "wikilink")
+  - [ヨン・アルネ・リーセ](../Page/ヨン・アルネ・リーセ.md "wikilink")
 
   - [パブロ・コントレラス](https://ja.wikipedia.org/wiki/パブロ・コントレラス "wikilink")
 
@@ -1722,7 +1722,7 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 
   - [ワラシ](https://ja.wikipedia.org/wiki/ワラシ・フォルトゥナ・ドス・サントス "wikilink")
 
-  - [リカルド・カルヴァーリョ](https://ja.wikipedia.org/wiki/リカルド・カルヴァーリョ "wikilink")
+  - [リカルド・カルヴァーリョ](../Page/リカルド・カルヴァーリョ.md "wikilink")
 
   - [マルセル・ティセラン](https://ja.wikipedia.org/wiki/マルセル・ティセラン "wikilink")
 
@@ -1738,7 +1738,7 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 
   - [フランク・ソゼー](https://ja.wikipedia.org/wiki/フランク・ソゼー "wikilink")
 
-  - [ユーリ・ジョルカエフ](https://ja.wikipedia.org/wiki/ユーリ・ジョルカエフ "wikilink")
+  - [ユーリ・ジョルカエフ](../Page/ユーリ・ジョルカエフ.md "wikilink")
 
   - [エンツォ・シーフォ](../Page/エンツォ・シーフォ.md "wikilink")
 
@@ -1746,7 +1746,7 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 
   - [ヤロスラフ・プラシル](../Page/ヤロスラフ・プラシル.md "wikilink")
 
-  - [ヴラディミル・ユーゴヴィッチ](https://ja.wikipedia.org/wiki/ヴラディミル・ユーゴヴィッチ "wikilink")
+  - [ヴラディミル・ユーゴヴィッチ](../Page/ヴラディミル・ユーゴヴィッチ.md "wikilink")
 
   - [ディエゴ・ペレス](../Page/ディエゴ・ペレス.md "wikilink")
 
@@ -1782,7 +1782,7 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 
   - [ジョージ・ウェア](../Page/ジョージ・ウェア.md "wikilink")
 
-  - [ラモン・ディアス](https://ja.wikipedia.org/wiki/ラモン・ディアス "wikilink")
+  - [ラモン・ディアス](../Page/ラモン・ディアス.md "wikilink")
 
   - [ユルゲン・クリンスマン](../Page/ユルゲン・クリンスマン.md "wikilink")
 
@@ -1798,29 +1798,29 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 
   - [スレイマン・カマラ](https://ja.wikipedia.org/wiki/スレイマン・カマラ "wikilink")
 
-  - [オリバー・ビアホフ](https://ja.wikipedia.org/wiki/オリバー・ビアホフ "wikilink")
+  - [オリバー・ビアホフ](../Page/オリバー・ビアホフ.md "wikilink")
 
-  - [フェルナンド・モリエンテス](https://ja.wikipedia.org/wiki/フェルナンド・モリエンテス "wikilink")
+  - [フェルナンド・モリエンテス](../Page/フェルナンド・モリエンテス.md "wikilink")
 
   - [エマヌエル・アデバヨール](https://ja.wikipedia.org/wiki/エマヌエル・アデバヨール "wikilink")
 
   - [ハビエル・サビオラ](../Page/ハビエル・サビオラ.md "wikilink")
 
-  - [モハメド・カロン](https://ja.wikipedia.org/wiki/モハメド・カロン "wikilink")
+  - [モハメド・カロン](../Page/モハメド・カロン.md "wikilink")
 
   - [ハビエル・チェバントン](https://ja.wikipedia.org/wiki/ハビエル・チェバントン "wikilink")
 
   - [クリスティアン・ヴィエリ](../Page/クリスティアン・ヴィエリ.md "wikilink")
 
-  - [ヤン・コレル](https://ja.wikipedia.org/wiki/ヤン・コレル "wikilink")
+  - [ヤン・コレル](../Page/ヤン・コレル.md "wikilink")
 
   - [朴主永](../Page/朴主永.md "wikilink")
 
-  - [エイドゥル・グジョンセン](https://ja.wikipedia.org/wiki/エイドゥル・グジョンセン "wikilink")
+  - [エイドゥル・グジョンセン](../Page/エイドゥル・グジョンセン.md "wikilink")
 
   - [ラダメル・ファルカオ](https://ja.wikipedia.org/wiki/ラダメル・ファルカオ "wikilink")
 
-  - [ディミタール・ベルバトフ](https://ja.wikipedia.org/wiki/ディミタール・ベルバトフ "wikilink")
+  - [ディミタール・ベルバトフ](../Page/ディミタール・ベルバトフ.md "wikilink")
 
   - [エドガル・サリ](https://ja.wikipedia.org/wiki/エドガル・サリ "wikilink")
 
@@ -1950,7 +1950,7 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <td><p>1961-1967</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ユーリ・ジョルカエフ" title="wikilink">ユーリ・ジョルカエフ</a></p></td>
+<td><p><a href="../Page/ユーリ・ジョルカエフ.md" title="wikilink">ユーリ・ジョルカエフ</a></p></td>
 <td><p>68</p></td>
 <td><p>1990-1995</p></td>
 </tr>

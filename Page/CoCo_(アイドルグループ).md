@@ -1,11 +1,11 @@
 > この記事は[CoCo \(\)](https://ja.wikipedia.org/wiki/CoCo_\(\))から翻訳されています。
 
 
-**CoCo**（ココ）は、[1989年](../Page/1989年.md "wikilink")、[フジテレビのテレビ番組](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[パラダイスGoGo\!\!](https://ja.wikipedia.org/wiki/パラダイスGoGo!! "wikilink")』内の[乙女塾](https://ja.wikipedia.org/wiki/乙女塾 "wikilink")から誕生した、[女性アイドルグループ](https://ja.wikipedia.org/wiki/女性アイドルグループ "wikilink")である。当初メンバーは5人だったが、[1992年](../Page/1992年.md "wikilink")に[瀬能あづさ](https://ja.wikipedia.org/wiki/瀬能あづさ "wikilink")が脱退\[1\]し、その後は4人で活動を続け、[1994年](../Page/1994年.md "wikilink")に解散。
+**CoCo**（ココ）は、[1989年](../Page/1989年.md "wikilink")、[フジテレビのテレビ番組](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[パラダイスGoGo\!\!](../Page/パラダイスGoGo!!.md "wikilink")』内の[乙女塾](../Page/乙女塾.md "wikilink")から誕生した、[女性アイドルグループ](https://ja.wikipedia.org/wiki/女性アイドルグループ "wikilink")である。当初メンバーは5人だったが、[1992年](../Page/1992年.md "wikilink")に[瀬能あづさ](https://ja.wikipedia.org/wiki/瀬能あづさ "wikilink")が脱退\[1\]し、その後は4人で活動を続け、[1994年](../Page/1994年.md "wikilink")に解散。
 
 ## メンバー
 
-  - [宮前真樹](https://ja.wikipedia.org/wiki/宮前真樹 "wikilink")（みやまえ まき）-乙女塾1期メンバー
+  - [宮前真樹](../Page/宮前真樹.md "wikilink")（みやまえ まき）-乙女塾1期メンバー
   - [羽田惠理香](https://ja.wikipedia.org/wiki/羽田惠理香 "wikilink")（はねだ えりか）-乙女塾1期メンバー
   - [大野幹代](https://ja.wikipedia.org/wiki/大野幹代 "wikilink")（おおの みきよ）-乙女塾1期メンバー
   - [三浦理恵子](https://ja.wikipedia.org/wiki/三浦理恵子 "wikilink")（みうら りえこ）-乙女塾2期メンバー
@@ -15,7 +15,7 @@
 
 1989年9月に「[EQUALロマンス](../Page/EQUALロマンス.md "wikilink")」でデビュー\[2\]して以降、「[横浜Boy Style](../Page/横浜Boy_Style.md "wikilink")」まで、11曲連続ベスト10入り、3枚目のシングル「[夏の友達](https://ja.wikipedia.org/wiki/夏の友達/思い出がいっぱい "wikilink")」から「Newsな未来」まで、4曲連続ベスト3入りを果たしている。 乙女塾全体としてのレギュラー番組である『パラダイスGoGo\!\!』と『[週刊スタミナ天国](../Page/週刊スタミナ天国.md "wikilink")』を除くと、テレビレギュラー番組を持たなかった。
 
-中心メンバーだった瀬能あづさがソロ活動専念を理由に、[1992年](../Page/1992年.md "wikilink")5月17日の[日本武道館](../Page/日本武道館.md "wikilink")公演を最後に脱退\[3\]。その際、新メンバー補充の計画もあり、[ファンクラブ](../Page/ファンクラブ.md "wikilink")の会員に対し応募要項、応募用紙が送付されたりしたものの結局メンバー補充は白紙となり\[4\]、その後[1994年](../Page/1994年.md "wikilink")9月30日に解散するまで4人での活動を継続した。なお、三浦理恵子は解散後から現在も[プロダクション尾木](https://ja.wikipedia.org/wiki/プロダクション尾木 "wikilink")に所属しており、残り3人はそれから数年後、事務所を移籍した\[5\]。
+中心メンバーだった瀬能あづさがソロ活動専念を理由に、[1992年](../Page/1992年.md "wikilink")5月17日の[日本武道館](../Page/日本武道館.md "wikilink")公演を最後に脱退\[3\]。その際、新メンバー補充の計画もあり、[ファンクラブ](../Page/ファンクラブ.md "wikilink")の会員に対し応募要項、応募用紙が送付されたりしたものの結局メンバー補充は白紙となり\[4\]、その後[1994年](../Page/1994年.md "wikilink")9月30日に解散するまで4人での活動を継続した。なお、三浦理恵子は解散後から現在も[プロダクション尾木](../Page/プロダクション尾木.md "wikilink")に所属しており、残り3人はそれから数年後、事務所を移籍した\[5\]。
 
 ## エピソード
 
@@ -73,7 +73,7 @@
 <td><p>4位</p></td>
 <td><p>作詞: 及川眠子<br />
 作曲: <a href="https://ja.wikipedia.org/wiki/岩田雅之" title="wikilink">岩田雅之</a><br />
-編曲: <a href="https://ja.wikipedia.org/wiki/有賀啓雄" title="wikilink">有賀啓雄</a></p></td>
+編曲: <a href="../Page/有賀啓雄.md" title="wikilink">有賀啓雄</a></p></td>
 <td><p>自己最大セールス作品<br />
 <a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ系</a>『<a href="../Page/歌のトップテン.md" title="wikilink">歌のトップテン</a>』にもランクイン<br />
 <a href="../Page/2011年.md" title="wikilink">2011年</a>に<a href="../Page/中川翔子.md" title="wikilink">中川翔子</a>がカヴァー</p></td>
@@ -380,7 +380,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/モダンどうよう" title="wikilink">モダンどうよう</a>（featuring CoCo）</p></td>
 <td><p>1993年8月20日</p></td>
 <td><p>46位</p></td>
-<td><p>フジテレビ『<a href="https://ja.wikipedia.org/wiki/ウゴウゴルーガ" title="wikilink">ウゴウゴルーガ</a>』より</p></td>
+<td><p>フジテレビ『<a href="../Page/ウゴウゴルーガ.md" title="wikilink">ウゴウゴルーガ</a>』より</p></td>
 </tr>
 <tr class="odd">
 <td><p>6th</p></td>
@@ -461,7 +461,7 @@
 
 ### その他
 
-シングル化やアルバム収録はされていないが、コンサートでたびたび歌われた曲が2曲が存在する。2曲とも[谷山浩子](../Page/谷山浩子.md "wikilink")の、[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[みんなのうた](https://ja.wikipedia.org/wiki/みんなのうた "wikilink")』で使用された楽曲である。
+シングル化やアルバム収録はされていないが、コンサートでたびたび歌われた曲が2曲が存在する。2曲とも[谷山浩子](../Page/谷山浩子.md "wikilink")の、[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[みんなのうた](../Page/みんなのうた.md "wikilink")』で使用された楽曲である。
 
   - 恋するニワトリ（原曲は谷山浩子のアルバム『[空飛ぶ日曜日](../Page/空飛ぶ日曜日.md "wikilink")』に収録）
   - [しっぽのきもち](../Page/しっぽのきもち.md "wikilink")（原曲は谷山浩子のアルバム『しっぽのきもち』に収録）
@@ -470,21 +470,21 @@
 
 ### テレビ
 
-  - [パラダイスGoGo\!\!](https://ja.wikipedia.org/wiki/パラダイスGoGo!! "wikilink")（フジテレビ） 1989年4月 - 1990年3月
+  - [パラダイスGoGo\!\!](../Page/パラダイスGoGo!!.md "wikilink")（フジテレビ） 1989年4月 - 1990年3月
   - [週刊スタミナ天国](../Page/週刊スタミナ天国.md "wikilink")（フジテレビ） 1990年4月 -
   - [アイドルオンステージ](../Page/アイドルオンステージ.md "wikilink")（第1期）（NHK） 1993年10月 - 1994年9月
   - 乙女塾専科（フジテレビ） 1990年7月 - 1991年3月
   - THE HOP（フジテレビ） 1991年4月 - 1992年3月
   - [オールスター感謝祭 超豪華\!クイズ決定版この春お待たせ特大号](https://ja.wikipedia.org/wiki/オールスター感謝祭 "wikilink")'93（TBS） 1993年4月3日
   - [オールスター感謝祭 超豪華\!クイズ決定版この秋お待たせ特大号](https://ja.wikipedia.org/wiki/オールスター感謝祭 "wikilink")'93（TBS） 1993年10月9日
-  - [突然バラエティー速報\!\!COUNT DOWN100](https://ja.wikipedia.org/wiki/突然バラエティー速報!!COUNT_DOWN100 "wikilink")（TBS） 1992年10月 - 12月
+  - [突然バラエティー速報\!\!COUNT DOWN100](../Page/突然バラエティー速報!!COUNT_DOWN100.md "wikilink")（TBS） 1992年10月 - 12月
 
 ### ラジオ
 
   - [CoCoのドリームパレット](https://ja.wikipedia.org/wiki/CoCoのドリームパレット "wikilink")（[文化放送](../Page/文化放送.md "wikilink")）
   - [CoCo5カラットのロマンス](../Page/CoCo5カラットのロマンス.md "wikilink")（文化放送）
   - [CoCo Stay with Dream](https://ja.wikipedia.org/wiki/CoCo_Stay_with_Dream "wikilink")（文化放送）
-  - [斉藤一美のとんカツワイド](https://ja.wikipedia.org/wiki/斉藤一美のとんカツワイド "wikilink")（文化放送）
+  - [斉藤一美のとんカツワイド](../Page/斉藤一美のとんカツワイド.md "wikilink")（文化放送）
   - [CoCo恋は大騒ぎ](../Page/CoCo恋は大騒ぎ.md "wikilink")（[ニッポン放送](../Page/ニッポン放送.md "wikilink")）
   - [ピンクワンダーランドCoCo一番](https://ja.wikipedia.org/wiki/ピンクワンダーランドCoCo一番 "wikilink")（ニッポン放送）
   - CoCoの[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")（ニッポン放送）
@@ -514,7 +514,7 @@
 <tr class="even">
 <td><p>1990年3月21日<br />
 -4月7日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中野サンプラザ" title="wikilink">中野サンプラザ</a><br />
+<td><p><a href="../Page/中野サンプラザ.md" title="wikilink">中野サンプラザ</a><br />
 他関東6ヶ所7公演</p></td>
 <td><p>追加公演<br />
 渋谷公会堂の公演とは別構成</p></td>
@@ -584,7 +584,7 @@
 春はCoCoから</p></td>
 <td><p>1993年1月7日<br />
 -1月24日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/府中の森芸術劇場" title="wikilink">府中の森芸術劇場</a><br />
+<td><p><a href="../Page/府中の森芸術劇場.md" title="wikilink">府中の森芸術劇場</a><br />
 他全国5ヶ所6公演</p></td>
 <td></td>
 </tr>
@@ -640,7 +640,7 @@ CoCo was CoCo made</p></td>
   - [ribbon (アイドルグループ)](https://ja.wikipedia.org/wiki/ribbon_\(アイドルグループ\) "wikilink")
   - [DoCo](../Page/DoCo.md "wikilink")
   - [伊集院光](../Page/伊集院光.md "wikilink")
-  - [斉藤一美](https://ja.wikipedia.org/wiki/斉藤一美 "wikilink")
+  - [斉藤一美](../Page/斉藤一美.md "wikilink")
 
 [Category:CoCo](https://ja.wikipedia.org/wiki/Category:CoCo "wikilink") [Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:横浜DeNAベイスターズ関連人物](https://ja.wikipedia.org/wiki/Category:横浜DeNAベイスターズ関連人物 "wikilink") [Category:乙女塾](https://ja.wikipedia.org/wiki/Category:乙女塾 "wikilink") [Category:フジテレビの番組発のグループ](https://ja.wikipedia.org/wiki/Category:フジテレビの番組発のグループ "wikilink") [Category:過去のプロダクション尾木所属者](https://ja.wikipedia.org/wiki/Category:過去のプロダクション尾木所属者 "wikilink") [Category:1994年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1994年に解散した音楽グループ "wikilink")
 

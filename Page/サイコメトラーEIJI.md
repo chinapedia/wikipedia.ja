@@ -1,7 +1,7 @@
 > この記事は[EIJI](https://ja.wikipedia.org/wiki/EIJI)から翻訳されています。
 
 
-『**サイコメトラーEIJI**』（サイコメトラーエイジ）は、原作：安童夕馬（[樹林伸](https://ja.wikipedia.org/wiki/樹林伸 "wikilink")）、作画：[朝基まさし](../Page/朝基まさし.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。『[週刊少年マガジン](https://ja.wikipedia.org/wiki/週刊少年マガジン "wikilink")』（[講談社](../Page/講談社.md "wikilink")）にて、[1996年](../Page/1996年.md "wikilink")から[2000年](../Page/2000年.md "wikilink")まで連載され、1997年と1999年にテレビドラマ化もされた。単行本は全25巻。話数の単位は「CASE-」、番外編は「BREAK-」。本項では続編の『**サイコメトラー**』（2011年-2014年）についても取り扱う。
+『**サイコメトラーEIJI**』（サイコメトラーエイジ）は、原作：安童夕馬（[樹林伸](../Page/樹林伸.md "wikilink")）、作画：[朝基まさし](../Page/朝基まさし.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。『[週刊少年マガジン](https://ja.wikipedia.org/wiki/週刊少年マガジン "wikilink")』（[講談社](../Page/講談社.md "wikilink")）にて、[1996年](../Page/1996年.md "wikilink")から[2000年](../Page/2000年.md "wikilink")まで連載され、1997年と1999年にテレビドラマ化もされた。単行本は全25巻。話数の単位は「CASE-」、番外編は「BREAK-」。本項では続編の『**サイコメトラー**』（2011年-2014年）についても取り扱う。
 
 ## 概要
 
@@ -15,7 +15,7 @@
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")10月、安童のTwitter\[1\]にて近々続編を執筆することが示唆され、翌年[2011年](../Page/2011年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")発売の『[週刊ヤングマガジン](https://ja.wikipedia.org/wiki/週刊ヤングマガジン "wikilink")』21・22合併号より約10年振りの続編の連載が始まった。続編は『サイコメトラー』とタイトルを一新したほか、掲載誌も少年誌から青年誌に連載の場所を移しての再開となった。
 
-[2001年](../Page/2001年.md "wikilink")から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に『週刊少年マガジン』に連載された『[クニミツの政](https://ja.wikipedia.org/wiki/クニミツの政 "wikilink")』は本作の[スピンオフ](../Page/スピンオフ.md "wikilink")であり、『サイコメトラーEIJI』に登場した武藤国光が主人公を務めている。また、2014年からウェブコミック『[マンガボックス](https://ja.wikipedia.org/wiki/マンガボックス "wikilink")』での連載を経て、『ヤングマガジン』で2016年まで連載された『[でぶせん](https://ja.wikipedia.org/wiki/でぶせん "wikilink")』は、番外編「群青の服を着た男」に登場した福島満が主人公を務めている。
+[2001年](../Page/2001年.md "wikilink")から[2005年](../Page/2005年.md "wikilink")に『週刊少年マガジン』に連載された『[クニミツの政](../Page/クニミツの政.md "wikilink")』は本作の[スピンオフ](../Page/スピンオフ.md "wikilink")であり、『サイコメトラーEIJI』に登場した武藤国光が主人公を務めている。また、2014年からウェブコミック『[マンガボックス](https://ja.wikipedia.org/wiki/マンガボックス "wikilink")』での連載を経て、『ヤングマガジン』で2016年まで連載された『[でぶせん](https://ja.wikipedia.org/wiki/でぶせん "wikilink")』は、番外編「群青の服を着た男」に登場した福島満が主人公を務めている。
 
 ## 登場人物
 
@@ -192,7 +192,7 @@
     「CASE8：屍の街」の主犯。
     →[\#レギュラーの犯罪者](https://ja.wikipedia.org/wiki/#レギュラーの犯罪者 "wikilink")
   - 安岡 辰巳（やすおか たつみ）
-    「CASE8：屍の街」の犯人の一人。3年前、トオルと幾島によって渋谷から追い出されたイカれた不良。痩けた頬に赤い長髪が特徴で、[葉巻の](../Page/葉巻きたばこ.md "wikilink")[ハバナ](https://ja.wikipedia.org/wiki/ハバナ "wikilink")を好み、よく吸っている。目的のためであれば卑怯なことなどまったく気にせず、トオルからは「狂犬」と評される。「CASE8」におけるコカイン市場を巡る陰謀の首謀者と思われていたが、実は黒幕である幾島の共犯者であった（正確には安岡も幾島によってコカイン中毒にされており、彼の言いなりであった）。
+    「CASE8：屍の街」の犯人の一人。3年前、トオルと幾島によって渋谷から追い出されたイカれた不良。痩けた頬に赤い長髪が特徴で、[葉巻の](../Page/葉巻きたばこ.md "wikilink")[ハバナ](../Page/ハバナ.md "wikilink")を好み、よく吸っている。目的のためであれば卑怯なことなどまったく気にせず、トオルからは「狂犬」と評される。「CASE8」におけるコカイン市場を巡る陰謀の首謀者と思われていたが、実は黒幕である幾島の共犯者であった（正確には安岡も幾島によってコカイン中毒にされており、彼の言いなりであった）。
     3年前はトオルを、本編では映児を唐突にナイフで刺し、機先を制するなど、とにかく手口が汚い。自らが、コカイン市場の商売敵である渋谷でのドラッグのディーラーグループ「69」の仲間であるように見せかけて「リーグ」に潰させ、コカイン市場の独占を図る。編の終盤では、アジトに乗り込んできた映児を部下達と共に返り討ちにしようとするがまったく敵わず、ほとんど殺されかけた状態で警察に捕まる（赤樹の霊が映児を止めたために、トドメが刺されなかった）。
     「BREAK52：復讐の下手投げ」で再登場し、少年院を脱獄して映児とトオルに復讐しようとする。実は中学時代は相撲部で、全国大会で準優勝したほどの力量であったが、それを読み取った映児らが、相撲で決着をつけようとしたため、呆然としてしまい、そのまま再逮捕された。
   - 青木 義男（あおき よしお） / 殺人シェフ
@@ -256,7 +256,7 @@
   - 武藤 国光（むとう くにみつ）
     「CASE13：サイレント・ボマー」の前日談から登場する同編の主要人物。映児の旧友。同編の出来事で政治家を志すようになり、スピンオフ『クニミツの政』で主人公を務める。
     映児が隅田町の下町にいた頃の同い年の友人。典型的な不良少年で、紅く染めた髪に剃り込みを入れた切れ長の目の青年。頭より先に体が動くタイプで章吉並に頭が悪い。「CASE13」にて幼馴染の能条が犯人と知ると、これ以上罪を重ねることを防ぐため、映児と奔走する。最終的には国会議事堂を占拠し、能条を説得して彼を投降させる。
-    この一件で政治家を志すようになり、トオルの父が大物政治家の牧原と知ると、強引に牧原に弟子入りする（「BREAK52：国光の野望～昇竜編～」）。その後、掌編において主人公を務め、『[クニミツの政](https://ja.wikipedia.org/wiki/クニミツの政 "wikilink")』に繋がっている。
+    この一件で政治家を志すようになり、トオルの父が大物政治家の牧原と知ると、強引に牧原に弟子入りする（「BREAK52：国光の野望～昇竜編～」）。その後、掌編において主人公を務め、『[クニミツの政](../Page/クニミツの政.md "wikilink")』に繋がっている。
     ドラマ版では登場せず、田宮章吉が役を兼ねている。
 
 ### ドラマのオリジナル人物
@@ -278,11 +278,11 @@
 
 <!-- end list -->
 
-  - 原作：[安童夕馬](https://ja.wikipedia.org/wiki/樹林伸 "wikilink")、作画：[朝基まさし](../Page/朝基まさし.md "wikilink")『サイコメトラーEIJI』講談社〈[少年マガジンコミックス](https://ja.wikipedia.org/wiki/週刊少年マガジン#講談社コミックスマガジン "wikilink")〉全25巻
+  - 原作：[安童夕馬](../Page/樹林伸.md "wikilink")、作画：[朝基まさし](../Page/朝基まさし.md "wikilink")『サイコメトラーEIJI』講談社〈[少年マガジンコミックス](https://ja.wikipedia.org/wiki/週刊少年マガジン#講談社コミックスマガジン "wikilink")〉全25巻
 
 <!-- end list -->
 
-  - 原作：[安童夕馬](https://ja.wikipedia.org/wiki/樹林伸 "wikilink")、作画：[朝基まさし](../Page/朝基まさし.md "wikilink")『サイコメトラー』講談社〈[ヤンマガKC](https://ja.wikipedia.org/wiki/ヤンマガKC "wikilink")〉既刊15巻
+  - 原作：[安童夕馬](../Page/樹林伸.md "wikilink")、作画：[朝基まさし](../Page/朝基まさし.md "wikilink")『サイコメトラー』講談社〈[ヤンマガKC](https://ja.wikipedia.org/wiki/ヤンマガKC "wikilink")〉既刊15巻
 
 <!-- end list -->
 
@@ -290,7 +290,7 @@
 
 <!-- end list -->
 
-  - 原作：[安童夕馬](https://ja.wikipedia.org/wiki/樹林伸 "wikilink")、作画：[朝基まさし](../Page/朝基まさし.md "wikilink")『サイコメトラーEIJI』講談社〈[講談社漫画文庫](https://ja.wikipedia.org/wiki/講談社漫画文庫 "wikilink")〉全12巻
+  - 原作：[安童夕馬](../Page/樹林伸.md "wikilink")、作画：[朝基まさし](../Page/朝基まさし.md "wikilink")『サイコメトラーEIJI』講談社〈[講談社漫画文庫](https://ja.wikipedia.org/wiki/講談社漫画文庫 "wikilink")〉全12巻
       - 少年マガジンコミックス版単行本を再編集した文庫版。[A6判](https://ja.wikipedia.org/wiki/判型#A判 "wikilink")。
 
 <!-- end list -->
@@ -299,7 +299,7 @@
 
 <!-- end list -->
 
-  - 原作：[安童夕馬](https://ja.wikipedia.org/wiki/樹林伸 "wikilink")、作画：[朝基まさし](../Page/朝基まさし.md "wikilink")『サイコメトラーEIJI』講談社〈[講談社プラチナコミックス](https://ja.wikipedia.org/wiki/コンビニコミック#講談社 "wikilink")〉全18巻
+  - 原作：[安童夕馬](../Page/樹林伸.md "wikilink")、作画：[朝基まさし](../Page/朝基まさし.md "wikilink")『サイコメトラーEIJI』講談社〈[講談社プラチナコミックス](https://ja.wikipedia.org/wiki/コンビニコミック#講談社 "wikilink")〉全18巻
       - 少年マガジンコミックス版単行本をエピソード毎に再編集した[廉価版](../Page/コンビニコミック.md "wikilink")。第6弾までは「ベストセレクション」と明記。[B6判](https://ja.wikipedia.org/wiki/判型#B判 "wikilink")。
 
 <div class="NavFrame">
@@ -335,7 +335,7 @@
 
 </div>
 
-  - 原作：[安童夕馬](https://ja.wikipedia.org/wiki/樹林伸 "wikilink")、作画：[朝基まさし](../Page/朝基まさし.md "wikilink")『サイコメトラーEIJI』講談社〈[講談社プラチナコミックス](https://ja.wikipedia.org/wiki/コンビニコミック#講談社 "wikilink")〉全13巻
+  - 原作：[安童夕馬](../Page/樹林伸.md "wikilink")、作画：[朝基まさし](../Page/朝基まさし.md "wikilink")『サイコメトラーEIJI』講談社〈[講談社プラチナコミックス](https://ja.wikipedia.org/wiki/コンビニコミック#講談社 "wikilink")〉全13巻
       - 講談社漫画文庫版をエピソード毎に再編集した廉価版。B6判。
 
 <div class="NavFrame">
@@ -368,7 +368,7 @@
 
 ## テレビドラマ
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")と[1999年](../Page/1999年.md "wikilink")の二度、[日本テレビ系列局の](../Page/日本テレビ放送網.md "wikilink")[土曜ドラマ](https://ja.wikipedia.org/wiki/土曜ドラマ_\(日本テレビ\) "wikilink")（土曜グランド劇場）枠にて[テレビドラマ](../Page/テレビドラマ.md "wikilink")化され、いずれも[TOKIO](../Page/TOKIO.md "wikilink")の[松岡昌宏](../Page/松岡昌宏.md "wikilink")が主演を務めた。第1期と第2期ではいわば[パラレルワールド](../Page/パラレルワールド.md "wikilink")的な世界観であり\[4\]、サイコメトリーの方法や黒幕の設定、一部キャストなどが変更されている。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")と[1999年](../Page/1999年.md "wikilink")の二度、[日本テレビ系列局の](../Page/日本テレビ放送網.md "wikilink")[土曜ドラマ](../Page/土曜ドラマ_\(日本テレビ\).md "wikilink")（土曜グランド劇場）枠にて[テレビドラマ](../Page/テレビドラマ.md "wikilink")化され、いずれも[TOKIO](../Page/TOKIO.md "wikilink")の[松岡昌宏](../Page/松岡昌宏.md "wikilink")が主演を務めた。第1期と第2期ではいわば[パラレルワールド](../Page/パラレルワールド.md "wikilink")的な世界観であり\[4\]、サイコメトリーの方法や黒幕の設定、一部キャストなどが変更されている。
 
 この番組を縁に[田辺誠一](../Page/田辺誠一.md "wikilink")と[大塚寧々](https://ja.wikipedia.org/wiki/大塚寧々 "wikilink")が結婚している。1997年版では、刑事役で[阿部サダヲ](../Page/阿部サダヲ.md "wikilink")を確認できる。
 
@@ -377,18 +377,18 @@
 ### シリーズ作品
 
   - 『サイコメトラーEIJI』（第1期）
-    1997年[1月11日](../Page/1月11日.md "wikilink")から[3月15日](../Page/3月15日.md "wikilink")まで毎週土曜日21:00 - 21:54に、「[土曜グランド劇場](https://ja.wikipedia.org/wiki/土曜ドラマ_\(日本テレビ\) "wikilink")」枠で放送された。全10回、平均視聴率17.1%。当時のラテ欄には、『**サイコメトラー映児**』と表記されていた\[5\]。CASE 3「ボクを殺さないで」の回はドラマオリジナルストーリーであるが、現在は欠番扱いとされている（小学生による小学生集団殺戮という内容のため）。1997年4月25日に全6巻で[VHS](../Page/VHS.md "wikilink")化されているが、[DVD](../Page/DVD.md "wikilink")化はされていない。
+    1997年[1月11日](../Page/1月11日.md "wikilink")から[3月15日](../Page/3月15日.md "wikilink")まで毎週土曜日21:00 - 21:54に、「[土曜グランド劇場](../Page/土曜ドラマ_\(日本テレビ\).md "wikilink")」枠で放送された。全10回、平均視聴率17.1%。当時のラテ欄には、『**サイコメトラー映児**』と表記されていた\[5\]。CASE 3「ボクを殺さないで」の回はドラマオリジナルストーリーであるが、現在は欠番扱いとされている（小学生による小学生集団殺戮という内容のため）。1997年4月25日に全6巻で[VHS](../Page/VHS.md "wikilink")化されているが、[DVD](../Page/DVD.md "wikilink")化はされていない。
 
 <!-- end list -->
 
   - 『サイコメトラーEIJI2』（第2期）
-    1999年[10月16日](../Page/10月16日.md "wikilink")から[12月18日](../Page/12月18日.md "wikilink")まで毎週土曜日21:00 - 21:54に、「[土曜ドラマ](https://ja.wikipedia.org/wiki/土曜ドラマ_\(日本テレビ\) "wikilink")」枠で放送された。全10回、平均視聴率15.4%。当時のラテ欄には、『**サイコメトラー2**』と表記されていた。
+    1999年[10月16日](../Page/10月16日.md "wikilink")から[12月18日](../Page/12月18日.md "wikilink")まで毎週土曜日21:00 - 21:54に、「[土曜ドラマ](../Page/土曜ドラマ_\(日本テレビ\).md "wikilink")」枠で放送された。全10回、平均視聴率15.4%。当時のラテ欄には、『**サイコメトラー2**』と表記されていた。
     2000年5月24日に全4巻でVHS化されているが、DVD化はされていない。
 
 <!-- end list -->
 
   - 『サイコメトラーEIJI SP』（2時間スペシャル）
-    [2000年](../Page/2000年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink")に2時間スペシャル版放送。21:00からの放送予定であったが、前番組枠で生中継されていた[プロ野球](../Page/プロ野球.md "wikilink")「[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")対[中日ドラゴンズ](https://ja.wikipedia.org/wiki/中日ドラゴンズ "wikilink")」戦で、ジャイアンツの[セントラル・リーグ](https://ja.wikipedia.org/wiki/セントラル・リーグ "wikilink")優勝が決まったために中継が延長された影響で、2時間繰り下げて23:00から放送された。平均視聴率16.3%。
+    [2000年](../Page/2000年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink")に2時間スペシャル版放送。21:00からの放送予定であったが、前番組枠で生中継されていた[プロ野球](../Page/プロ野球.md "wikilink")「[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")対[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")」戦で、ジャイアンツの[セントラル・リーグ](https://ja.wikipedia.org/wiki/セントラル・リーグ "wikilink")優勝が決まったために中継が延長された影響で、2時間繰り下げて23:00から放送された。平均視聴率16.3%。
     VHS、DVD化はされていない。
 
 ### キャスト
@@ -399,10 +399,10 @@
   - 志摩亮子 - [大塚寧々](https://ja.wikipedia.org/wiki/大塚寧々 "wikilink")（第1期） → [工藤静香](../Page/工藤静香.md "wikilink")（第2期）
   - 田宮章吉 - [井ノ原快彦](../Page/井ノ原快彦.md "wikilink")（[V6](../Page/V6_\(グループ\).md "wikilink")）
   - 葛西裕介 - [小原裕貴](../Page/小原裕貴_\(1980年生のタレント\).md "wikilink")
-  - 明日真恵美 - [松本恵](../Page/松本莉緒.md "wikilink")（第1期） → [後藤理沙](https://ja.wikipedia.org/wiki/後藤理沙 "wikilink")（第2期） → [酒井彩名](../Page/酒井彩名.md "wikilink")（SP）
+  - 明日真恵美 - [松本恵](../Page/松本莉緒.md "wikilink")（第1期） → [後藤理沙](../Page/後藤理沙.md "wikilink")（第2期） → [酒井彩名](../Page/酒井彩名.md "wikilink")（SP）
   - 沢木晃（アップル） - [田辺誠一](../Page/田辺誠一.md "wikilink")
   - パイ刑事 - [市川勉](https://ja.wikipedia.org/wiki/市川勉 "wikilink")
-  - 羽根山末吉 - [永澤俊矢](https://ja.wikipedia.org/wiki/永澤俊矢 "wikilink")（第1期） → [加藤茶](../Page/加藤茶.md "wikilink")（第2期）
+  - 羽根山末吉 - [永澤俊矢](../Page/永澤俊矢.md "wikilink")（第1期） → [加藤茶](../Page/加藤茶.md "wikilink")（第2期）
 
 #### 第2期からのキャラクター
 
@@ -416,7 +416,7 @@
 <!-- end list -->
 
   - 城北レーベル
-      - [山崎裕太](https://ja.wikipedia.org/wiki/山崎裕太 "wikilink")
+      - [山崎裕太](../Page/山崎裕太.md "wikilink")
       - [鮫島巧](../Page/鮫島巧.md "wikilink")
       - [逆瀬川了](https://ja.wikipedia.org/wiki/逆瀬川了 "wikilink")
       - [忍成修吾](../Page/忍成修吾.md "wikilink")
@@ -439,7 +439,7 @@
 
   - CASE 1：殺人鬼メビウス
 
-:\* 遠藤菊男（教師） - [田口浩正](https://ja.wikipedia.org/wiki/田口浩正 "wikilink")
+:\* 遠藤菊男（教師） - [田口浩正](../Page/田口浩正.md "wikilink")
 
 :\* 三ノ輪浩市 - [長江英和](../Page/長江英和.md "wikilink")
 
@@ -471,7 +471,7 @@
 
   - CASE 3：ボクを殺さないで
 
-:\* 大平瑞樹 / 加藤和樹 - [伊藤隆大](https://ja.wikipedia.org/wiki/伊藤隆大 "wikilink")（一人二役）
+:\* 大平瑞樹 / 加藤和樹 - [伊藤隆大](../Page/伊藤隆大.md "wikilink")（一人二役）
 
 :\* 加藤佳奈子 - [大場久美子](../Page/大場久美子.md "wikilink")
 
@@ -493,7 +493,7 @@
 
 :\* 犬塚竹男 - [田口トモロヲ](../Page/田口トモロヲ.md "wikilink")
 
-:\* 荒井弓子 - [汀夏子](https://ja.wikipedia.org/wiki/汀夏子 "wikilink")
+:\* 荒井弓子 - [汀夏子](../Page/汀夏子.md "wikilink")
 
 :\* 看守 - [渡部哲](https://ja.wikipedia.org/wiki/渡部哲 "wikilink")
 
@@ -505,7 +505,7 @@
 
 :\* アキラ - [田鍋謙一郎](../Page/田鍋謙一郎.md "wikilink")
 
-:\* 日比野一馬 - [小橋賢児](https://ja.wikipedia.org/wiki/小橋賢児 "wikilink")
+:\* 日比野一馬 - [小橋賢児](../Page/小橋賢児.md "wikilink")
 
 :\* 橋慶太郎 - [山田吾一](../Page/山田吾一.md "wikilink")
 
@@ -561,7 +561,7 @@
 
   - CASE 4：テロリストの挽歌
 
-:\* 加藤舞 - [邑野未亜](https://ja.wikipedia.org/wiki/邑野みあ "wikilink")（幼少期：[宮崎のえる](https://ja.wikipedia.org/wiki/廠のえる "wikilink")）
+:\* 加藤舞 - [邑野未亜](../Page/邑野みあ.md "wikilink")（幼少期：[宮崎のえる](https://ja.wikipedia.org/wiki/廠のえる "wikilink")）
 
 :\* 二階堂博士 - [内田滋啓](https://ja.wikipedia.org/wiki/内田滋啓 "wikilink")
 
@@ -603,9 +603,9 @@
 
 :\* 食品会社代表 - [伊武雅刀](../Page/伊武雅刀.md "wikilink")
 
-:\* クリーニング屋（川辺） - [なすび](https://ja.wikipedia.org/wiki/なすび_\(タレント\) "wikilink")
+:\* クリーニング屋（川辺） - [なすび](../Page/なすび_\(タレント\).md "wikilink")
 
-:\* その他 - [古尾谷雅人](../Page/古尾谷雅人.md "wikilink")、[せんだみつお](https://ja.wikipedia.org/wiki/せんだみつお "wikilink")
+:\* その他 - [古尾谷雅人](../Page/古尾谷雅人.md "wikilink")、[せんだみつお](../Page/せんだみつお.md "wikilink")
 
 ### スタッフ
 
@@ -613,18 +613,18 @@
 
   - 脚本 - [小原信治](../Page/小原信治.md "wikilink")、[田子明弘](https://ja.wikipedia.org/wiki/田子明弘 "wikilink")、[大石哲也](../Page/大石哲也.md "wikilink")（1、SP）、[坂東賢治](https://ja.wikipedia.org/wiki/坂東賢治 "wikilink")（2）
   - 音楽 - [寺田創一](https://ja.wikipedia.org/wiki/寺田創一 "wikilink")（1）、[DJ KRUSH](../Page/DJ_KRUSH.md "wikilink")（1）、[仲西匡](../Page/仲西匡.md "wikilink")（2）
-      - ギター - [吉川忠英](../Page/吉川忠英.md "wikilink")（1）、ストリングスアレンジ：[沢田完](https://ja.wikipedia.org/wiki/沢田完 "wikilink")（2）
+      - ギター - [吉川忠英](../Page/吉川忠英.md "wikilink")（1）、ストリングスアレンジ：[沢田完](../Page/沢田完.md "wikilink")（2）
           - 寺田創一、DJ KRUSH、吉川忠英の第1シリーズの音楽は、第2シリーズでも引き続き使用されているが、第2シリーズで3人のクレジットはなく、毎回、仲西匡のみクレジットされた。
   - 演出 - [堤幸彦](../Page/堤幸彦.md "wikilink")（1）、[佐藤東弥](../Page/佐藤東弥.md "wikilink")（1）、[大谷太郎](https://ja.wikipedia.org/wiki/大谷太郎 "wikilink")（1）、[猪股隆一](https://ja.wikipedia.org/wiki/猪股隆一 "wikilink")（2）、[五木田亮一](https://ja.wikipedia.org/wiki/五木田亮一 "wikilink")（2）、[大根仁](../Page/大根仁.md "wikilink")（2）、[都築淳一](../Page/都築淳一.md "wikilink")（SP）
   - 主題歌
       - 第1期 - [TOKIO](../Page/TOKIO.md "wikilink")「[フラれて元気](https://ja.wikipedia.org/wiki/フラれて元気 "wikilink")」
       - 第2期 - TOKIO「[愛の嵐](https://ja.wikipedia.org/wiki/愛の嵐_\(TOKIOの曲\) "wikilink")」
-  - 企画協力 - [樹林伸](https://ja.wikipedia.org/wiki/樹林伸 "wikilink")、[菅原章](https://ja.wikipedia.org/wiki/菅原章 "wikilink")
+  - 企画協力 - [樹林伸](../Page/樹林伸.md "wikilink")、[菅原章](https://ja.wikipedia.org/wiki/菅原章 "wikilink")
   - 音楽プロデュース - [志田博英](../Page/志田博英.md "wikilink")、[松根文](https://ja.wikipedia.org/wiki/松根文 "wikilink")
   - アクションディレクター - [多賀谷渉](https://ja.wikipedia.org/wiki/多賀谷渉 "wikilink")
   - 美術 - 大竹潤一郎、 [高野雅裕](https://ja.wikipedia.org/wiki/高野雅裕 "wikilink")
-  - チーフプロデューサー - [小杉善信](https://ja.wikipedia.org/wiki/小杉善信 "wikilink")（1）、[佐藤敦](../Page/佐藤敦_\(プロデューサー\).md "wikilink")（2）
-  - プロデューサー - [櫨山裕子](https://ja.wikipedia.org/wiki/櫨山裕子 "wikilink")、[蒔田光治](https://ja.wikipedia.org/wiki/蒔田光治 "wikilink")（1）、[伊藤響](https://ja.wikipedia.org/wiki/伊藤響 "wikilink")（2）、[内山雅博](https://ja.wikipedia.org/wiki/内山雅博 "wikilink")（2）、鈴木聡（SP）、中川順平（SP）
+  - チーフプロデューサー - [小杉善信](../Page/小杉善信.md "wikilink")（1）、[佐藤敦](../Page/佐藤敦_\(プロデューサー\).md "wikilink")（2）
+  - プロデューサー - [櫨山裕子](https://ja.wikipedia.org/wiki/櫨山裕子 "wikilink")、[蒔田光治](../Page/蒔田光治.md "wikilink")（1）、[伊藤響](https://ja.wikipedia.org/wiki/伊藤響 "wikilink")（2）、[内山雅博](https://ja.wikipedia.org/wiki/内山雅博 "wikilink")（2）、鈴木聡（SP）、中川順平（SP）
   - 制作協力 - [オフィスクレッシェンド](../Page/オフィスクレッシェンド.md "wikilink")、[ケイファクトリー](../Page/ケイファクトリー.md "wikilink")
 
 ### 受賞歴
@@ -902,7 +902,7 @@
   - 荒木和也（声 - [鈴木英一郎](../Page/鈴木英一郎.md "wikilink")）
   - 石黒綾香（声 - [杉本ゆう](../Page/杉本ゆう.md "wikilink")）
   - 羽根山（警部）（声 - [壌晴彦](https://ja.wikipedia.org/wiki/壌晴彦 "wikilink")）
-  - 赤坂（刑事）（声 - [堀川仁](https://ja.wikipedia.org/wiki/堀川仁 "wikilink")）
+  - 赤坂（刑事）（声 - [堀川仁](../Page/堀川仁.md "wikilink")）
   - 石黒健次郎（声 - [千葉進歩](../Page/千葉進歩.md "wikilink")）
   - ドクロピアス（声 - [八戸優](https://ja.wikipedia.org/wiki/八戸優 "wikilink")）
   - ジャック（声 - [松尾貴司](https://ja.wikipedia.org/wiki/松尾貴司 "wikilink")）
@@ -921,7 +921,7 @@
   - 明日真映児 - [小澤雄太](https://ja.wikipedia.org/wiki/小澤雄太 "wikilink")（[劇団EXILE](https://ja.wikipedia.org/wiki/劇団EXILE "wikilink")）
   - 志摩亮子 - [岩佐真悠子](https://ja.wikipedia.org/wiki/岩佐真悠子 "wikilink")
   - 沢木晃 - [天野浩成](../Page/天野浩成.md "wikilink")
-  - 江川透流 - [鮎川太陽](https://ja.wikipedia.org/wiki/鮎川太陽 "wikilink")
+  - 江川透流 - [鮎川太陽](../Page/鮎川太陽.md "wikilink")
   - 明日真恵美 - [佐野ひなこ](https://ja.wikipedia.org/wiki/佐野ひなこ "wikilink")
   - 夏目比美子 - [中島愛里](../Page/中島愛里.md "wikilink")
   - 布袋結次 - [塚本拓弥](https://ja.wikipedia.org/wiki/塚本拓弥 "wikilink")

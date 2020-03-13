@@ -5,7 +5,7 @@
 
 ## 概要
 
-広く使われている[MP3](../Page/MP3.md "wikilink")などのフォーマットは[特許](https://ja.wikipedia.org/wiki/特許 "wikilink")の制限を受けるため、それらの代替として誰でも自由につかえる圧縮音声フォーマットを提供することを目指して作られた。仕様は[パブリックドメイン](../Page/パブリックドメイン.md "wikilink")、核となる[エンコード](../Page/エンコード.md "wikilink")・デコードの[リファレンスコードは修正版](../Page/リファレンス実装.md "wikilink")[BSDライセンス](https://ja.wikipedia.org/wiki/BSD_License "wikilink")、[フロントエンド](../Page/フロントエンド.md "wikilink")ツール類は[GPLで提供されている](../Page/GNU_General_Public_License.md "wikilink")。また、[特許](https://ja.wikipedia.org/wiki/特許 "wikilink")使用料も不要。
+広く使われている[MP3](../Page/MP3.md "wikilink")などのフォーマットは[特許](../Page/特許.md "wikilink")の制限を受けるため、それらの代替として誰でも自由につかえる圧縮音声フォーマットを提供することを目指して作られた。仕様は[パブリックドメイン](../Page/パブリックドメイン.md "wikilink")、核となる[エンコード](../Page/エンコード.md "wikilink")・デコードの[リファレンスコードは修正版](../Page/リファレンス実装.md "wikilink")[BSDライセンス](https://ja.wikipedia.org/wiki/BSD_License "wikilink")、[フロントエンド](../Page/フロントエンド.md "wikilink")ツール類は[GPLで提供されている](../Page/GNU_General_Public_License.md "wikilink")。また、[特許](../Page/特許.md "wikilink")使用料も不要。
 
 Vorbisは主に[Ogg](../Page/Ogg.md "wikilink")コンテナフォーマットに格納され、Ogg Vorbisと呼称される。単に[Ogg](../Page/Ogg.md "wikilink")といった場合は、他に[FLAC](../Page/FLAC.md "wikilink")を格納したOgg FLAC、[Speex](../Page/Speex.md "wikilink")を格納したOgg Speex、動画コーデックの[Theora](../Page/Theora.md "wikilink")を格納したOgg Theoraなどがある。 また、VorbisはOgg用に開発されたコーデックなので当初はOggのみにしか格納できなかったが、後に[Matroska](../Page/Matroska.md "wikilink")が対応した。Matroskaに格納したVorbisはMatroska Vorbisであって、Ogg Vorbisではない。
 
@@ -19,7 +19,7 @@ Vorbisは主に[Ogg](../Page/Ogg.md "wikilink")コンテナフォーマットに
 
   - [VBR](../Page/可変ビットレート.md "wikilink")、[ABR](https://ja.wikipedia.org/wiki/可変ビットレート#平均ビットレート（ABR） "wikilink")、[CBRをサポート](https://ja.wikipedia.org/wiki/固定ビットレート "wikilink")（[CBRは](https://ja.wikipedia.org/wiki/固定ビットレート "wikilink")[MP3](../Page/MP3.md "wikilink")のようなフレーム単位の方式ではない）
   - [オープンソース](../Page/オープンソース.md "wikilink")
-  - [パテントフリー](https://ja.wikipedia.org/wiki/特許 "wikilink")
+  - [パテントフリー](../Page/特許.md "wikilink")
   - 拡張性が高い
   - [MP3](../Page/MP3.md "wikilink")などより音質が良いとされる
   - ギャップレスデコードに標準で対応
@@ -37,7 +37,7 @@ Vorbisは主に[Ogg](../Page/Ogg.md "wikilink")コンテナフォーマットに
     チェックサム : 対応（デフォルトで有効）
     コピーガード : 未対応
     タグ情報 : Vorbis Comment ([UTF-8](../Page/UTF-8.md "wikilink"))（一般的なID3タグには未対応）
-    コンテナ対応 : [Matroska](../Page/Matroska.md "wikilink") ([WebM](https://ja.wikipedia.org/wiki/WebM "wikilink")), [MOV](../Page/QuickTime.md "wikilink"), [MP4](../Page/MP4.md "wikilink"), [Ogg](../Page/Ogg.md "wikilink"), [OGM](../Page/Ogg_Media.md "wikilink") （[AVI](../Page/Audio_Video_Interleave.md "wikilink"), [WAV](https://ja.wikipedia.org/wiki/WAV "wikilink")は互換性に難有り）
+    コンテナ対応 : [Matroska](../Page/Matroska.md "wikilink") ([WebM](https://ja.wikipedia.org/wiki/WebM "wikilink")), [MOV](../Page/QuickTime.md "wikilink"), [MP4](../Page/MP4.md "wikilink"), [Ogg](../Page/Ogg.md "wikilink"), [OGM](../Page/Ogg_Media.md "wikilink") （[AVI](../Page/Audio_Video_Interleave.md "wikilink"), [WAV](../Page/WAV.md "wikilink")は互換性に難有り）
     ギャップレスデコード : 対応（プレイヤー側の対応が必要）
     ギャップレス再生 : 対応（プレイヤー側の対応が必要）
 
@@ -74,7 +74,7 @@ Vorbisは主に[Ogg](../Page/Ogg.md "wikilink")コンテナフォーマットに
 
 ### リスニングテスト
 
-  - 2005年7月の比較 - AAC vs MP3 vs Vorbis vs WMA の 80 kbpsでの比較。Vorbis aoTuV beta 4がクラシックやさまざまな音楽で最も良いエンコーダという結果となった。また128 kbpsでの [LAME](https://ja.wikipedia.org/wiki/LAME "wikilink") [ABR](https://ja.wikipedia.org/wiki/可変ビットレート#平均ビットレート（ABR） "wikilink") MP3 と同じ品質という結果になった\[6\]。
+  - 2005年7月の比較 - AAC vs MP3 vs Vorbis vs WMA の 80 kbpsでの比較。Vorbis aoTuV beta 4がクラシックやさまざまな音楽で最も良いエンコーダという結果となった。また128 kbpsでの [LAME](../Page/LAME.md "wikilink") [ABR](https://ja.wikipedia.org/wiki/可変ビットレート#平均ビットレート（ABR） "wikilink") MP3 と同じ品質という結果になった\[6\]。
   - 2005年8月の比較 - AAC vs MP3 vs Vorbis vs WMA の 96 kbpsでの比較。クラシック音楽においてVorbis aoTuV beta 4とAACが並んで最も良いエンコーダという結果となった。またaoTuV beta 4は ポップミュージックにおいて128 kbpsのLAMEよりも良い結果であった\[7\]。
   - 2005年8月の比較 - [オーディオマニア](https://ja.wikipedia.org/wiki/オーディオマニア "wikilink")による MPC vs Vorbis vs MP3 vs AAC の 180 kbpsでの比較。リスニングテストでクラシック音楽においてVorbis aoTuV beta 4がMPCと並んで最も良いエンコーダという結果になった。LAMEが続いて2位となった\[8\]。
   - 2011年4月の比較 - Hydrogenaudioによる Vorbis vs HE-AAC vs [Opus](https://ja.wikipedia.org/wiki/Opus_\(音声圧縮\) "wikilink") の 64 kbpsでの比較。 VorbisはローアンカーのLC-AACとNero HE-AACとの中間ほどの結果となり、Vorbisと同じ開発元の[Xiph.org](https://ja.wikipedia.org/wiki/Xiph.org "wikilink")による[Opus](https://ja.wikipedia.org/wiki/Opus_\(音声圧縮\) "wikilink") が最良という結果となった\[9\]。

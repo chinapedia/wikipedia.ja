@@ -1,7 +1,7 @@
 > この記事は[JOJO](https://ja.wikipedia.org/wiki/JOJO)から翻訳されています。
 
 
-**JOJO広重**（ジョジョ ひろしげ、[1959年](../Page/1959年.md "wikilink")（昭和34年）[9月9日](../Page/9月9日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ノイズ](../Page/ノイズミュージック.md "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")\[1\]、[ギタリスト](../Page/ギタリスト.md "wikilink")、[歌手](../Page/歌手.md "wikilink")、[音楽評論家](https://ja.wikipedia.org/wiki/音楽評論家 "wikilink")、[スポーツカード](../Page/スポーツカード.md "wikilink")収集家、[実業家](../Page/実業家.md "wikilink")、[占い師](https://ja.wikipedia.org/wiki/占い師 "wikilink")。本名、**廣重 嘉之**（ひろしげ よしゆき）。
+**JOJO広重**（ジョジョ ひろしげ、[1959年](../Page/1959年.md "wikilink")（昭和34年）[9月9日](../Page/9月9日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ノイズ](../Page/ノイズミュージック.md "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")\[1\]、[ギタリスト](../Page/ギタリスト.md "wikilink")、[歌手](../Page/歌手.md "wikilink")、[音楽評論家](../Page/音楽評論家.md "wikilink")、[スポーツカード](../Page/スポーツカード.md "wikilink")収集家、[実業家](../Page/実業家.md "wikilink")、[占い師](https://ja.wikipedia.org/wiki/占い師 "wikilink")。本名、**廣重 嘉之**（ひろしげ よしゆき）。
 
 ## 出自
 
@@ -9,7 +9,7 @@
 
 ## 経歴
 
-[1974年](../Page/1974年.md "wikilink")頃から[京都](https://ja.wikipedia.org/wiki/京都 "wikilink")で自宅録音を開始。当初はカセットやオープンリールテープデッキでの多重録音作品の制作が多かったという。[1977年](../Page/1977年.md "wikilink")に[即興演奏](../Page/即興演奏.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[SLOTH](https://ja.wikipedia.org/wiki/SLOTH "wikilink")を結成。[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")に[アバンギャルド](../Page/アバンギャルド.md "wikilink")・[パンク・ロック](../Page/パンク・ロック.md "wikilink")バンド、[ULTRA BIDEを結成](https://ja.wikipedia.org/wiki/ULTRA_BIDE "wikilink")。[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")した。
+[1974年](../Page/1974年.md "wikilink")頃から[京都](https://ja.wikipedia.org/wiki/京都 "wikilink")で自宅録音を開始。当初はカセットやオープンリールテープデッキでの多重録音作品の制作が多かったという。[1977年](../Page/1977年.md "wikilink")に[即興演奏](../Page/即興演奏.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[SLOTH](https://ja.wikipedia.org/wiki/SLOTH "wikilink")を結成。[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")に[アバンギャルド](../Page/アバンギャルド.md "wikilink")・[パンク・ロック](../Page/パンク・ロック.md "wikilink")バンド、[ULTRA BIDEを結成](https://ja.wikipedia.org/wiki/ULTRA_BIDE "wikilink")。[ライブハウス](../Page/ライブハウス.md "wikilink")[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")した。
 
 [1979年](../Page/1979年.md "wikilink")に[ノイズバンド](../Page/ノイズミュージック.md "wikilink")、[非常階段を結成](../Page/非常階段_\(バンド\).md "wikilink")\[4\]。ロックの可能性の大部分が試行され尽くした当時、「だれもやっていない、なんだかわからないもの」を求め、ノイズ演奏に行き着いたという\[5\]。
 
@@ -17,7 +17,7 @@
 
 [1994年](../Page/1994年.md "wikilink")、[スラップ・ハッピー・ハンフリー](https://ja.wikipedia.org/wiki/スラップ・ハッピー・ハンフリー "wikilink")（JOJO広重、MINEKO、藤原弘昭）のアルバム『スラップ・ハッピー・ハンフリー』をリリースする\[8\]。
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、自らの歌とノイズというスタイルで、JOJO広重としての初のアルバム『君が死ねって言えば死ぬから』を発表。[2002年](../Page/2002年.md "wikilink")以降は単独での活動と並行して、[ベースと](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")[ドラムスを加えたバンド形式で演奏することが多くなる](../Page/ドラムセット.md "wikilink")。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、自らの歌とノイズというスタイルで、JOJO広重としての初のアルバム『君が死ねって言えば死ぬから』を発表。[2002年](../Page/2002年.md "wikilink")以降は単独での活動と並行して、[ベースと](../Page/ベース_\(弦楽器\).md "wikilink")[ドラムスを加えたバンド形式で演奏することが多くなる](../Page/ドラムセット.md "wikilink")。
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")、JOJO広重のエッセイや非常階段のメンバーの自伝などを収録した書籍『非常階段 A Story of the King of Noise』が刊行される\[9\]。非常階段がステージ上での放尿や嘔吐などのパフォーマンスで知られる事に関して、広重自身は「ノイズをアートにしたくない。偉くなりたくなかった。僕らは、昔のプロレスでいう反則レスラー。この本は、30年間アホでしたという記録です。」と語っている\[10\]。
 

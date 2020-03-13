@@ -409,7 +409,7 @@
 **36年前**
 
   - ゼファー（当時38歳）、海軍本部大将に昇進\[278\]。同年結婚し、翌年に息子を儲ける\[279\]。（『ONE PIECE FILM Z』）
-  - [スモーカー](https://ja.wikipedia.org/wiki/海軍_\(ONE_PIECE\)#スモーカー "wikilink")\[280\]、カティ・フラム（[フランキー](https://ja.wikipedia.org/wiki/フランキー_\(ONE_PIECE\) "wikilink")）、[クマドリ](https://ja.wikipedia.org/wiki/サイファーポール#クマドリ "wikilink")\[281\]、[デマロ・ブラック](https://ja.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#デマロ・ブラック "wikilink")\[282\]、[ネズミ](https://ja.wikipedia.org/wiki/海軍_\(ONE_PIECE\)#ネズミ "wikilink")\[283\]、[カタリーナ・デボン](https://ja.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#カタリーナ・デボン "wikilink")\[284\]、[シャーロット・ハイファット](https://ja.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#シャーロット・ハイファット "wikilink")\[285\]、[シャーロット・タブレット](https://ja.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#シャーロット・タブレット "wikilink")\[286\]、[ケリー・ファンク](https://ja.wikipedia.org/wiki/ONE_PIECEの登場人物一覧#ケリー・ファンク "wikilink")\[287\]、[ビクトリア・シンドリー](https://ja.wikipedia.org/wiki/スリラーバーク#ビクトリア・シンドリー "wikilink")\[288\]、[アブサロム](https://ja.wikipedia.org/wiki/スリラーバーク#アブサロム "wikilink")\[289\]、[ヴィト](https://ja.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#ヴィト "wikilink")\[290\]誕生。
+  - [スモーカー](https://ja.wikipedia.org/wiki/海軍_\(ONE_PIECE\)#スモーカー "wikilink")\[280\]、カティ・フラム（[フランキー](../Page/フランキー_\(ONE_PIECE\).md "wikilink")）、[クマドリ](https://ja.wikipedia.org/wiki/サイファーポール#クマドリ "wikilink")\[281\]、[デマロ・ブラック](https://ja.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#デマロ・ブラック "wikilink")\[282\]、[ネズミ](https://ja.wikipedia.org/wiki/海軍_\(ONE_PIECE\)#ネズミ "wikilink")\[283\]、[カタリーナ・デボン](https://ja.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#カタリーナ・デボン "wikilink")\[284\]、[シャーロット・ハイファット](https://ja.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#シャーロット・ハイファット "wikilink")\[285\]、[シャーロット・タブレット](https://ja.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#シャーロット・タブレット "wikilink")\[286\]、[ケリー・ファンク](https://ja.wikipedia.org/wiki/ONE_PIECEの登場人物一覧#ケリー・ファンク "wikilink")\[287\]、[ビクトリア・シンドリー](https://ja.wikipedia.org/wiki/スリラーバーク#ビクトリア・シンドリー "wikilink")\[288\]、[アブサロム](https://ja.wikipedia.org/wiki/スリラーバーク#アブサロム "wikilink")\[289\]、[ヴィト](https://ja.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#ヴィト "wikilink")\[290\]誕生。
 
 **36年前 - 32年前**
 
@@ -450,7 +450,7 @@
   - スワロー島・プレジャータウンが[アルトゥール・バッカ率いる海賊団の襲撃を受ける](https://ja.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#アルトゥール・バッカ "wikilink")\[353\]。（『ONE PIECE novel LAW』）
   - バレット（当時15歳）がロジャー海賊団に加入する\[354\]。（『ONE PIECE STAMPEDE』）
   - おでん（当時29歳）、トキ（当時26歳）、イヌアラシとネコマムシ（共に当時10歳）、イゾウが白ひげ海賊団に加わる\[355\]。
-  - [ニコ・ロビン](https://ja.wikipedia.org/wiki/ニコ・ロビン "wikilink")、[ロブ・ルッチ](https://ja.wikipedia.org/wiki/サイファーポール#ロブ・ルッチ "wikilink")\[356\]、[ホーディ・ジョーンズ](https://ja.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#ホーディ・ジョーンズ "wikilink")、[モネ](https://ja.wikipedia.org/wiki/王下七武海#モネ "wikilink")\[357\]、[バッファロー](https://ja.wikipedia.org/wiki/王下七武海#バッファロー "wikilink")\[358\]、[マウンブルテン（ニセそげキング）](https://ja.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#マウンブルテン "wikilink")\[359\]、[クロマーリモ](https://ja.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#クロマーリモ "wikilink")\[360\]、[ボア・サンダーソニア](https://ja.wikipedia.org/wiki/王下七武海#ボア・サンダーソニア "wikilink")\[361\]、[ベーブ（Mr.4）](https://ja.wikipedia.org/wiki/バロックワークス#Mr.4 "wikilink")\[362\]、[シャーロット・スナック](https://ja.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#シャーロット・スナック "wikilink")\[363\]、[シャーロット・ババロア](https://ja.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#シャーロット・ババロア "wikilink")\[364\]、[ドスン](https://ja.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#ドスン "wikilink")\[365\]、[ゼオ](https://ja.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#ゼオ "wikilink")\[366\]、[ダルマ](https://ja.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#ダルマ "wikilink")\[367\]、[イカロス・ムッヒ](https://ja.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#イカロス・ムッヒ "wikilink")\[368\]、[ジョバンニ](https://ja.wikipedia.org/wiki/ONE_PIECEの登場人物一覧#ジョバンニ "wikilink")\[369\]誕生。
+  - [ニコ・ロビン](../Page/ニコ・ロビン.md "wikilink")、[ロブ・ルッチ](https://ja.wikipedia.org/wiki/サイファーポール#ロブ・ルッチ "wikilink")\[356\]、[ホーディ・ジョーンズ](https://ja.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#ホーディ・ジョーンズ "wikilink")、[モネ](https://ja.wikipedia.org/wiki/王下七武海#モネ "wikilink")\[357\]、[バッファロー](https://ja.wikipedia.org/wiki/王下七武海#バッファロー "wikilink")\[358\]、[マウンブルテン（ニセそげキング）](https://ja.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#マウンブルテン "wikilink")\[359\]、[クロマーリモ](https://ja.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#クロマーリモ "wikilink")\[360\]、[ボア・サンダーソニア](https://ja.wikipedia.org/wiki/王下七武海#ボア・サンダーソニア "wikilink")\[361\]、[ベーブ（Mr.4）](https://ja.wikipedia.org/wiki/バロックワークス#Mr.4 "wikilink")\[362\]、[シャーロット・スナック](https://ja.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#シャーロット・スナック "wikilink")\[363\]、[シャーロット・ババロア](https://ja.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#シャーロット・ババロア "wikilink")\[364\]、[ドスン](https://ja.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#ドスン "wikilink")\[365\]、[ゼオ](https://ja.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#ゼオ "wikilink")\[366\]、[ダルマ](https://ja.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#ダルマ "wikilink")\[367\]、[イカロス・ムッヒ](https://ja.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#イカロス・ムッヒ "wikilink")\[368\]、[ジョバンニ](https://ja.wikipedia.org/wiki/ONE_PIECEの登場人物一覧#ジョバンニ "wikilink")\[369\]誕生。
 
 **29年前**
 
@@ -539,7 +539,7 @@
 
 **21年前**
 
-  - [ロロノア・ゾロ](https://ja.wikipedia.org/wiki/ロロノア・ゾロ "wikilink")\[508\]、[サンジ](../Page/サンジ.md "wikilink")\[509\]、[ヴィンスモーク・イチジ](https://ja.wikipedia.org/wiki/ONE_PIECEの登場人物一覧#ヴィンスモーク・イチジ "wikilink")\[510\]、[ヴィンスモーク・ニジ](https://ja.wikipedia.org/wiki/ONE_PIECEの登場人物一覧#ヴィンスモーク・ニジ "wikilink")\[511\]、[ヴィンスモーク・ヨンジ](https://ja.wikipedia.org/wiki/ONE_PIECEの登場人物一覧#ヴィンスモーク・ヨンジ "wikilink")\[512\]、[シャーロット・パンナ](https://ja.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#シャーロット・パンナ "wikilink")\[513\]、[コニス](https://ja.wikipedia.org/wiki/空島_\(ONE_PIECE\)#コニス "wikilink")\[514\]、[モズ](https://ja.wikipedia.org/wiki/ウォーターセブン#キウイ&モズ "wikilink")\[515\]誕生。
+  - [ロロノア・ゾロ](../Page/ロロノア・ゾロ.md "wikilink")\[508\]、[サンジ](../Page/サンジ.md "wikilink")\[509\]、[ヴィンスモーク・イチジ](https://ja.wikipedia.org/wiki/ONE_PIECEの登場人物一覧#ヴィンスモーク・イチジ "wikilink")\[510\]、[ヴィンスモーク・ニジ](https://ja.wikipedia.org/wiki/ONE_PIECEの登場人物一覧#ヴィンスモーク・ニジ "wikilink")\[511\]、[ヴィンスモーク・ヨンジ](https://ja.wikipedia.org/wiki/ONE_PIECEの登場人物一覧#ヴィンスモーク・ヨンジ "wikilink")\[512\]、[シャーロット・パンナ](https://ja.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#シャーロット・パンナ "wikilink")\[513\]、[コニス](https://ja.wikipedia.org/wiki/空島_\(ONE_PIECE\)#コニス "wikilink")\[514\]、[モズ](https://ja.wikipedia.org/wiki/ウォーターセブン#キウイ&モズ "wikilink")\[515\]誕生。
 
 **20年以上前**
 
@@ -555,14 +555,14 @@
       - お庭番衆がオロチに仕えるようになる\[523\]。しのぶがお庭番衆から離反する\[524\]。
       - 日和（当時6歳）と河松が逃亡生活を始める\[525\]。
       - [霜月康イエら各郷の大名と民がオロチへの従属を拒み反乱を起こすが](https://ja.wikipedia.org/wiki/ONE_PIECEの登場人物一覧#トの康 "wikilink")、カイドウに敗れる\[526\]。
-  - [ナミ](https://ja.wikipedia.org/wiki/ナミ_\(ONE_PIECE\) "wikilink")\[527\]、[ステリー](https://ja.wikipedia.org/wiki/ONE_PIECEの登場人物一覧#ステリー "wikilink")、[キュイーン](https://ja.wikipedia.org/wiki/王下七武海#キュイーン "wikilink")、[マンボシ](https://ja.wikipedia.org/wiki/ONE_PIECEの登場人物一覧#マンボシ "wikilink")\[528\]、[シャーロット・マスカルポーネ](https://ja.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#シャーロット・マスカルポーネ "wikilink")\[529\]、[シャーロット・ジョスカルポーネ](https://ja.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#シャーロット・ジョスカルポーネ "wikilink")\[530\]誕生。
+  - [ナミ](../Page/ナミ_\(ONE_PIECE\).md "wikilink")\[527\]、[ステリー](https://ja.wikipedia.org/wiki/ONE_PIECEの登場人物一覧#ステリー "wikilink")、[キュイーン](https://ja.wikipedia.org/wiki/王下七武海#キュイーン "wikilink")、[マンボシ](https://ja.wikipedia.org/wiki/ONE_PIECEの登場人物一覧#マンボシ "wikilink")\[528\]、[シャーロット・マスカルポーネ](https://ja.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#シャーロット・マスカルポーネ "wikilink")\[529\]、[シャーロット・ジョスカルポーネ](https://ja.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#シャーロット・ジョスカルポーネ "wikilink")\[530\]誕生。
 
 **19年前**
 
   - ベルメール（当時21歳）、ココヤシ村に帰還。ナミ（当時1歳）、ノジコ（当時3歳）を養女とする\[531\]。
   - ボア・ハンコック（当時12歳）、ボア・サンダーソニア（当時11歳）、ボア・マリーゴールド（当時9歳）が誘拐され、世界貴族の奴隷となる\[532\]。
   - キュロス（当時25歳）、リク王軍隊長に就任し、王女スカーレット（当時16歳）とヴィオラ（当時10歳）の護衛を任される\[533\]。後にキュロスとスカーレットが恋仲になる\[534\]。
-  - [モンキー・D・ルフィ](https://ja.wikipedia.org/wiki/モンキー・D・ルフィ "wikilink")\[535\]、[ウソップ](../Page/ウソップ.md "wikilink")\[536\]、[カリーナ](https://ja.wikipedia.org/wiki/ONE_PIECE_FILM_GOLD#カリーナ "wikilink")\[537\]、[カヤ](https://ja.wikipedia.org/wiki/ONE_PIECEの登場人物一覧#カヤ "wikilink")\[538\]、[シャーロット・ユーエン](https://ja.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#シャーロット・ユーエン "wikilink")\[539\]誕生。
+  - [モンキー・D・ルフィ](../Page/モンキー・D・ルフィ.md "wikilink")\[535\]、[ウソップ](../Page/ウソップ.md "wikilink")\[536\]、[カリーナ](https://ja.wikipedia.org/wiki/ONE_PIECE_FILM_GOLD#カリーナ "wikilink")\[537\]、[カヤ](https://ja.wikipedia.org/wiki/ONE_PIECEの登場人物一覧#カヤ "wikilink")\[538\]、[シャーロット・ユーエン](https://ja.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#シャーロット・ユーエン "wikilink")\[539\]誕生。
 
 **19年前 - 16年前**
 
@@ -659,7 +659,7 @@
   - ホッカー、番犬シュシュと共にオレンジの町にてペットフード店を開業。
   - ゼフ率いるクック海賊団が「偉大なる航路」へ入る\[627\]\[628\]。
   - モンブラン・クリケット（当時31歳）、ジャヤ島に到着。自ら船長を務める海賊団を抜け、黄金郷の探索を開始\[629\]。
-  - トンジット（当時51歳）、世界一長い[竹馬](https://ja.wikipedia.org/wiki/竹馬 "wikilink")に挑戦。降りられなくなる\[630\]。
+  - トンジット（当時51歳）、世界一長い[竹馬](../Page/竹馬.md "wikilink")に挑戦。降りられなくなる\[630\]。
   - ビクトリア・シンドリー、舞台から転落し死亡（24歳没）\[631\]。
   - ホグバック（当時35歳）、モリアと出会いシンドリー復活の引き換えにモリアの仲間になる\[632\]。
       - [マルガリータ](https://ja.wikipedia.org/wiki/スリラーバーク#マルガリータ "wikilink")、ゲッコー・モリアに影を奪われる\[633\]。
@@ -755,7 +755,7 @@
 
 **5年前**
 
-  - クロ（当時30歳）、自分の偽者を海軍に捕らえさせ、「世間的に」処刑される\[714\]。そしてカヤ（当時14歳）の屋敷で[執事](https://ja.wikipedia.org/wiki/執事 "wikilink")として雇われる\[715\]。クロ（偽者）逮捕の手柄を立てたモーガン（当時39歳）が少佐に昇進する\[716\]。
+  - クロ（当時30歳）、自分の偽者を海軍に捕らえさせ、「世間的に」処刑される\[714\]。そしてカヤ（当時14歳）の屋敷で[執事](../Page/執事.md "wikilink")として雇われる\[715\]。クロ（偽者）逮捕の手柄を立てたモーガン（当時39歳）が少佐に昇進する\[716\]。
   - アラバスタで首都アルバーナを除く全ての町に雨が降らなくなる\[717\]。
   - エース（当時17歳）、コルボ山を出発\[718\]。
       - 無人島シクシスでエースと[マスクド・デュースが出会い](https://ja.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#マスクド・デュース "wikilink")、エースが「メラメラの実」の能力者となる。その後島から脱出し、スペード海賊団を立ち上げる。（『ONE PIECE novel A』\[719\]）

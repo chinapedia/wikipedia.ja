@@ -13,7 +13,7 @@
   - [95Reader](https://ja.wikipedia.org/wiki/95Reader "wikilink")との組み合わせより、テキスト読み上げに対応している。
   - [エディタとして](../Page/テキストエディタ.md "wikilink")[EditX](https://ja.wikipedia.org/wiki/EditX "wikilink")が組み込まれているが、95Readerと組み合わせて使用すると不具合が生じるため、EditXなし版も用意されている。
   - バージョン2.50より、迷惑メールフィルタ機能が搭載された。
-  - 開発者のポリシーにより、メール[パスワード](https://ja.wikipedia.org/wiki/パスワード "wikilink")の設定登録が出来ないため、立ち上げの度に入力する必要がある。
+  - 開発者のポリシーにより、メール[パスワード](../Page/パスワード.md "wikilink")の設定登録が出来ないため、立ち上げの度に入力する必要がある。
   - [シェアウェア](../Page/シェアウェア.md "wikilink")であり、試用期間は1ヶ月。ライセンス料は3,000円（税込）で、サイトライセンスや学生割引がある。
   - [12月24日](../Page/12月24日.md "wikilink")と[12月25日](../Page/12月25日.md "wikilink")の2日間のみ、[サンタクロース](../Page/サンタクロース.md "wikilink")に扮した郵便配達人のキャラクタアイコンとなる。
   - [2009年](../Page/2009年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")をもって販売を終了し、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")3月31日にはサポートを終了することが発表された。\[1\]

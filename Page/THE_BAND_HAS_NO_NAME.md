@@ -22,14 +22,14 @@
   - 橘あつや（ギター）[SPARKS GO GO](../Page/SPARKS_GO_GO.md "wikilink")
   - 八熊慎一（ベース/ボーカル）SPARKS GO GO
   - たちばな哲也（ドラム）SPARKS GO GO
-  - 松浦善博（ギター）[世良公則&ツイスト](https://ja.wikipedia.org/wiki/世良公則&ツイスト "wikilink")（2005年-）
+  - 松浦善博（ギター）[世良公則&ツイスト](../Page/世良公則&ツイスト.md "wikilink")（2005年-）
 
 ## ディスコグラフィー
 
 ### ミニアルバム
 
-  - **[THE BAND HAS NO NAME](https://ja.wikipedia.org/wiki/THE_BAND_HAS_NO_NAME_\(アルバム\) "wikilink")**（1990年1月21日）[EPIC/SONY RECORDS](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")。2005年7月20日に再発
-  - **[II](https://ja.wikipedia.org/wiki/II_\(アルバム\) "wikilink")**（2005年7月20日）[SME Records](https://ja.wikipedia.org/wiki/エスエムイーレコーズ "wikilink")
+  - **[THE BAND HAS NO NAME](https://ja.wikipedia.org/wiki/THE_BAND_HAS_NO_NAME_\(アルバム\) "wikilink")**（1990年1月21日）[EPIC/SONY RECORDS](../Page/エピックレコードジャパン.md "wikilink")。2005年7月20日に再発
+  - **[II](https://ja.wikipedia.org/wiki/II_\(アルバム\) "wikilink")**（2005年7月20日）[SME Records](../Page/エスエムイーレコーズ.md "wikilink")
 
 ### その他
 

@@ -1,7 +1,7 @@
 > この記事は[Eternity \(\)](https://ja.wikipedia.org/wiki/Eternity_\(\))から翻訳されています。
 
 
-**Eternity**（エタニティ）は、[JFN系で](../Page/全国FM放送協議会.md "wikilink")[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から2009年10月末まで放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")（[ミニ番組](https://ja.wikipedia.org/wiki/ミニ番組 "wikilink")）。放送時間は月 - 木（2009年6月までは金曜日まで放送）14:55 - 15:00。ただし、[FM秋田と](../Page/エフエム秋田.md "wikilink")[FMぐんまは](../Page/エフエム群馬.md "wikilink")13:55 - 14:00の先行ネット。
+**Eternity**（エタニティ）は、[JFN系で](../Page/全国FM放送協議会.md "wikilink")[2006年](../Page/2006年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から2009年10月末まで放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")（[ミニ番組](../Page/ミニ番組.md "wikilink")）。放送時間は月 - 木（2009年6月までは金曜日まで放送）14:55 - 15:00。ただし、[FM秋田と](../Page/エフエム秋田.md "wikilink")[FMぐんまは](../Page/エフエム群馬.md "wikilink")13:55 - 14:00の先行ネット。
 
 ## 概要
 

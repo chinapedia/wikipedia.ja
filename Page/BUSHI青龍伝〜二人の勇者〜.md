@@ -1,7 +1,7 @@
 > この記事は[BUSHI](https://ja.wikipedia.org/wiki/BUSHI)から翻訳されています。
 
 
-『**BUSHI青龍伝〜二人の勇者〜**』（ぶしせいりゅうでん ふたりのゆうしゃ）は、[T\&E SOFTが](https://ja.wikipedia.org/wiki/T&E_SOFT "wikilink")[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用ソフトとして発売した[ゲームソフト](../Page/ゲームソフト.md "wikilink")である。開発は[ポケットモンスターを手がけた](../Page/ポケットモンスター_\(ゲーム\).md "wikilink")[ゲームフリーク](https://ja.wikipedia.org/wiki/ゲームフリーク "wikilink")である。
+『**BUSHI青龍伝〜二人の勇者〜**』（ぶしせいりゅうでん ふたりのゆうしゃ）は、[T\&E SOFTが](../Page/T&E_SOFT.md "wikilink")[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用ソフトとして発売した[ゲームソフト](../Page/ゲームソフト.md "wikilink")である。開発は[ポケットモンスターを手がけた](../Page/ポケットモンスター_\(ゲーム\).md "wikilink")[ゲームフリーク](../Page/ゲームフリーク.md "wikilink")である。
 
 ジャンルは[アクションロールプレイングゲーム](../Page/アクションロールプレイングゲーム.md "wikilink")と[ローグライクゲーム](../Page/ローグライクゲーム.md "wikilink")を融合した「**リレイティブタイムアクションロールプレイングゲーム**」という独自の物になっている。
 

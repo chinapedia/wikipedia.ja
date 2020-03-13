@@ -5,9 +5,9 @@
 
 ## 概要
 
-[1976年](../Page/1976年.md "wikilink")に第1回開催。1976年から[1984年](../Page/1984年.md "wikilink")シーズンまでは1部・2部制リーグにより運営され、2部リーグは北島地区と南島地区の2区分に分かれていた。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")シーズンまでは3部制リーグとして運営された。
+[1976年](../Page/1976年.md "wikilink")に第1回開催。1976年から[1984年](../Page/1984年.md "wikilink")シーズンまでは1部・2部制リーグにより運営され、2部リーグは北島地区と南島地区の2区分に分かれていた。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")から[2005年](../Page/2005年.md "wikilink")シーズンまでは3部制リーグとして運営された。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")シーズンからは[ニュージーランド航空](https://ja.wikipedia.org/wiki/ニュージーランド航空 "wikilink")がメインスポンサーとなり「**Air New Zealand Cup**」（エアニュージーランドカップ（ANC））と改称して行われた。2006年シーズンからは全国を26の地区（州）に分け、エアニュージーランドカップ出場14チームと、ハートランド・チャンピオンシップ出場12チームに分かれ、リーグチャンピオンを決定する。
+[2006年](../Page/2006年.md "wikilink")シーズンからは[ニュージーランド航空](../Page/ニュージーランド航空.md "wikilink")がメインスポンサーとなり「**Air New Zealand Cup**」（エアニュージーランドカップ（ANC））と改称して行われた。2006年シーズンからは全国を26の地区（州）に分け、エアニュージーランドカップ出場14チームと、ハートランド・チャンピオンシップ出場12チームに分かれ、リーグチャンピオンを決定する。
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")3月、ニュージーランド航空が[ラグビーニュージーランド代表](https://ja.wikipedia.org/wiki/ラグビーニュージーランド代表 "wikilink")（オールブラックス）を支援するためスポンサーから撤退、新にニュージーランド最大の建材供給組合 ITM (Independent Timber Merchants)がメインスポンサーに就任（2012年シーズンまで）。カップ名も「**ITMカップ**」に改称された。そのため「NPC」、「エア・ニュージーランドカップ」、「ITMカップ」は全て同じリーグ戦の名称である。
 
@@ -15,7 +15,7 @@
 
 ニュージーランドラグビーにおいては[オールブラックス](https://ja.wikipedia.org/wiki/オールブラックス "wikilink")を頂点として、[スーパーラグビー](../Page/スーパーラグビー.md "wikilink")に次ぐ第3のカテゴリーとなっている。
 
-日本人では[坂田好弘](../Page/坂田好弘.md "wikilink")がカンタベリー、[大久保直弥](../Page/大久保直弥.md "wikilink")がサウスランド、[四宮洋平](../Page/四宮洋平.md "wikilink")がノースランド、[木曽一](https://ja.wikipedia.org/wiki/木曽一 "wikilink")がノース・ハーバー、[田中史朗](https://ja.wikipedia.org/wiki/田中史朗 "wikilink")と[堀江翔太](https://ja.wikipedia.org/wiki/堀江翔太 "wikilink")がオタゴ、[茂野海人](https://ja.wikipedia.org/wiki/茂野海人 "wikilink")がオークランドでプレーしていた。
+日本人では[坂田好弘](../Page/坂田好弘.md "wikilink")がカンタベリー、[大久保直弥](../Page/大久保直弥.md "wikilink")がサウスランド、[四宮洋平](../Page/四宮洋平.md "wikilink")がノースランド、[木曽一](../Page/木曽一.md "wikilink")がノース・ハーバー、[田中史朗](https://ja.wikipedia.org/wiki/田中史朗 "wikilink")と[堀江翔太](https://ja.wikipedia.org/wiki/堀江翔太 "wikilink")がオタゴ、[茂野海人](https://ja.wikipedia.org/wiki/茂野海人 "wikilink")がオークランドでプレーしていた。
 
 各州代表チームで活躍を見せると、1カテゴリ上のスーパーラグビーに選抜され契約を結ぶ。ニュージーランド州代表選手権は、比較的若い選手が多く所属するリーグである。
 

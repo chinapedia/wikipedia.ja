@@ -5,23 +5,23 @@
 
 一般利用者向けには大別して、[ソフトウェア音源の](../Page/ソフトウェア・シンセサイザー.md "wikilink")**AU Instrument**と、ソフトウェア[エフェクター](../Page/エフェクター.md "wikilink")の**AU Effect**がある。類似のプラグイン規格として[スタインバーグ](https://ja.wikipedia.org/wiki/スタインバーグ "wikilink")が提唱する[VST](https://ja.wikipedia.org/wiki/Virtual_Studio_Technology "wikilink")、[Pro Toolsで使用される](../Page/Pro_Tools.md "wikilink")[AAX](https://ja.wikipedia.org/wiki/AAX "wikilink")、[RTAS](https://ja.wikipedia.org/wiki/RTAS "wikilink")、Windows向けの[DXi](https://ja.wikipedia.org/wiki/DXi "wikilink")などがある。
 
-AUは、[GarageBand](../Page/GarageBand.md "wikilink")、[Soundtrack Pro](https://ja.wikipedia.org/wiki/Soundtrack_Pro "wikilink")、[Logic Express](../Page/Logic_Express.md "wikilink")、[Logic Pro](../Page/Logic_Pro.md "wikilink")、[Final Cut Pro](https://ja.wikipedia.org/wiki/Final_Cut_Pro "wikilink")、[AU Lab等の](https://ja.wikipedia.org/wiki/AU_Lab "wikilink")[アップル製](../Page/アップル_\(企業\).md "wikilink")[アプリケーションが対応済みで](../Page/アプリケーションソフトウェア.md "wikilink")、多くのソフトウェアメーカーでもプラグインやアプリケーションの対応が進んでいる。
+AUは、[GarageBand](../Page/GarageBand.md "wikilink")、[Soundtrack Pro](https://ja.wikipedia.org/wiki/Soundtrack_Pro "wikilink")、[Logic Express](../Page/Logic_Express.md "wikilink")、[Logic Pro](../Page/Logic_Pro.md "wikilink")、[Final Cut Pro](../Page/Final_Cut_Pro.md "wikilink")、[AU Lab等の](https://ja.wikipedia.org/wiki/AU_Lab "wikilink")[アップル製](../Page/アップル_\(企業\).md "wikilink")[アプリケーションが対応済みで](../Page/アプリケーションソフトウェア.md "wikilink")、多くのソフトウェアメーカーでもプラグインやアプリケーションの対応が進んでいる。
 
 ## Mac OS X v10.5に標準搭載されたAudio Unit
 
 ### インストゥルメント
 
   - DLSMusicDevice
-    内蔵の[GS音源](https://ja.wikipedia.org/wiki/GSフォーマット "wikilink")（[ローランド](../Page/ローランド.md "wikilink")提供）、または外部の[Downloadable Sounds](https://ja.wikipedia.org/wiki/Downloadable_Sounds "wikilink") (DLS) または[SoundFont](../Page/SoundFont.md "wikilink")を用いて楽器音を鳴らす。ロムプラー ([:en:Rompler](https://ja.wikipedia.org/wiki/:en:Rompler "wikilink"))、プレイバック[サンプラー](../Page/サンプラー.md "wikilink")の一種。
+    内蔵の[GS音源](../Page/GSフォーマット.md "wikilink")（[ローランド](../Page/ローランド.md "wikilink")提供）、または外部の[Downloadable Sounds](https://ja.wikipedia.org/wiki/Downloadable_Sounds "wikilink") (DLS) または[SoundFont](../Page/SoundFont.md "wikilink")を用いて楽器音を鳴らす。ロムプラー ([:en:Rompler](https://ja.wikipedia.org/wiki/:en:Rompler "wikilink"))、プレイバック[サンプラー](../Page/サンプラー.md "wikilink")の一種。
 
 ### ジェネレーター
 
   - AUAudioFilePlayer
     [音声ファイルを読み込み再生](../Page/音声ファイルフォーマット.md "wikilink")・出力する。
   - AUNetReceive
-    [ネットワーク経由で音声を受信し再生](https://ja.wikipedia.org/wiki/コンピュータネットワーク "wikilink")・出力する。
+    [ネットワーク経由で音声を受信し再生](../Page/コンピュータネットワーク.md "wikilink")・出力する。
   - AUScheduledSoundPlayer
-    [メモリー](../Page/記憶装置.md "wikilink")[バッファ](https://ja.wikipedia.org/wiki/バッファ "wikilink")ー上の音声を再生・出力する
+    [メモリー](../Page/記憶装置.md "wikilink")[バッファ](../Page/バッファ.md "wikilink")ー上の音声を再生・出力する
 
 ### エフェクター
 
@@ -71,7 +71,7 @@ AUは、[GarageBand](../Page/GarageBand.md "wikilink")、[Soundtrack Pro](https:
   - AUPitch
     [ピッチシフター](https://ja.wikipedia.org/wiki/ピッチシフター_\(音響機器\) "wikilink")。
   - AURogerBeep
-    無音状態になった事を検出した時に[スタンバイ・ピー](https://ja.wikipedia.org/wiki/トランシーバー_\(無線機\) "wikilink")（ロジャービープ）を発生する。
+    無音状態になった事を検出した時に[スタンバイ・ピー](../Page/トランシーバー_\(無線機\).md "wikilink")（ロジャービープ）を発生する。
 
 ### ミキサー
 
@@ -117,7 +117,7 @@ AUは、[GarageBand](../Page/GarageBand.md "wikilink")、[Soundtrack Pro](https:
   - GenericOutput
     音声出力デバイスの基礎。
   - SystemOutputUnit
-    システム[警告音](https://ja.wikipedia.org/wiki/警告音 "wikilink")、ユーザインターフェイス[効果音](https://ja.wikipedia.org/wiki/効果音 "wikilink")の音声出力デバイス。
+    システム[警告音](https://ja.wikipedia.org/wiki/警告音 "wikilink")、ユーザインターフェイス[効果音](../Page/効果音.md "wikilink")の音声出力デバイス。
 
 ## 外部リンク
 

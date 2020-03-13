@@ -1,19 +1,19 @@
 > この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
 
 
-**今帰仁テレビ・FM中継局**（なきじん-ちゅうけいきょく）は[沖縄県](../Page/沖縄県.md "wikilink")[国頭郡](../Page/国頭郡.md "wikilink")[今帰仁村](../Page/今帰仁村.md "wikilink")字謝名と[本部町](../Page/本部町.md "wikilink")字伊豆味にまたがる乙羽岳にある[テレビジョン放送](../Page/テレビジョン放送.md "wikilink")と[FM](../Page/超短波.md "wikilink")[ラジオ放送](https://ja.wikipedia.org/wiki/ラジオ放送 "wikilink")の中継局である。[沖縄本島](../Page/沖縄本島.md "wikilink")北部一円をカバーしており、テレビはアナログ放送の頃からすべて[UHFチャンネルで放送している](../Page/極超短波.md "wikilink")。また沖縄本島北部の基幹局としての役割もあり、名護市以北のテレビ中継局（一部）や地理的関係で直接電波の届かない東海岸地域（名護市[久志地域の一部](../Page/久志村.md "wikilink")、[東村](https://ja.wikipedia.org/wiki/東村 "wikilink")、[国頭村](https://ja.wikipedia.org/wiki/国頭村 "wikilink")東部）の[共同受信施設](https://ja.wikipedia.org/wiki/共同受信施設 "wikilink")にも電波を送信している。また[奄美群島](../Page/奄美群島.md "wikilink")の一部地域（[沖永良部島](https://ja.wikipedia.org/wiki/沖永良部島 "wikilink")の[知名町](https://ja.wikipedia.org/wiki/知名町 "wikilink")など）でも受信可能のようで\[1\]、奄美地方で発刊されている[南海日日新聞](https://ja.wikipedia.org/wiki/南海日日新聞 "wikilink")・[奄美新聞](https://ja.wikipedia.org/wiki/奄美新聞 "wikilink")のテレビ欄では、沖縄の放送局の番組を当中継局の物理チャンネル表示とともに掲載している\[2\]\[3\]。
+**今帰仁テレビ・FM中継局**（なきじん-ちゅうけいきょく）は[沖縄県](../Page/沖縄県.md "wikilink")[国頭郡](../Page/国頭郡.md "wikilink")[今帰仁村](../Page/今帰仁村.md "wikilink")字謝名と[本部町](../Page/本部町.md "wikilink")字伊豆味にまたがる乙羽岳にある[テレビジョン放送](../Page/テレビジョン放送.md "wikilink")と[FM](../Page/超短波.md "wikilink")[ラジオ放送](https://ja.wikipedia.org/wiki/ラジオ放送 "wikilink")の中継局である。[沖縄本島](../Page/沖縄本島.md "wikilink")北部一円をカバーしており、テレビはアナログ放送の頃からすべて[UHFチャンネルで放送している](../Page/極超短波.md "wikilink")。また沖縄本島北部の基幹局としての役割もあり、名護市以北のテレビ中継局（一部）や地理的関係で直接電波の届かない東海岸地域（名護市[久志地域の一部](../Page/久志村.md "wikilink")、[東村](../Page/東村.md "wikilink")、[国頭村](../Page/国頭村.md "wikilink")東部）の[共同受信施設](https://ja.wikipedia.org/wiki/共同受信施設 "wikilink")にも電波を送信している。また[奄美群島](../Page/奄美群島.md "wikilink")の一部地域（[沖永良部島](https://ja.wikipedia.org/wiki/沖永良部島 "wikilink")の[知名町](../Page/知名町.md "wikilink")など）でも受信可能のようで\[1\]、奄美地方で発刊されている[南海日日新聞](../Page/南海日日新聞.md "wikilink")・[奄美新聞](../Page/奄美新聞.md "wikilink")のテレビ欄では、沖縄の放送局の番組を当中継局の物理チャンネル表示とともに掲載している\[2\]\[3\]。
 
 当中継局近くの[名護市](../Page/名護市.md "wikilink")呉我（[羽地地域](../Page/羽地村.md "wikilink")）にある**呉我**（ごが）**テレビ中継局**、同市[屋我地島](../Page/屋我地島.md "wikilink")の運天原にある**運天原**（うんてんばる）**テレビ中継局**についてもあわせて詳述する。
 
-なお、[AMラジオは隣接する名護市に](../Page/中波.md "wikilink")[名護ラジオ中継局](../Page/名護ラジオ中継局.md "wikilink")として、[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[沖縄放送局は](../Page/NHK沖縄放送局.md "wikilink")[屋我地島](../Page/屋我地島.md "wikilink")に、民放は多野岳にそれぞれ設置しており、当中継局からも見える位置にある（NHKは[第1のみ](https://ja.wikipedia.org/wiki/NHKラジオ第1放送 "wikilink")、民放はFMによる中継局）。
+なお、[AMラジオは隣接する名護市に](../Page/中波.md "wikilink")[名護ラジオ中継局](../Page/名護ラジオ中継局.md "wikilink")として、[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[沖縄放送局は](../Page/NHK沖縄放送局.md "wikilink")[屋我地島](../Page/屋我地島.md "wikilink")に、民放は多野岳にそれぞれ設置しており、当中継局からも見える位置にある（NHKは[第1のみ](../Page/NHKラジオ第1放送.md "wikilink")、民放はFMによる中継局）。
 
 ## 概要
 
-[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")に[NHK沖縄放送局](../Page/NHK沖縄放送局.md "wikilink")の前身である[沖縄放送協会](../Page/沖縄放送協会.md "wikilink")（OHK）が那覇本局から遠く、地理的に受信が難しい[沖縄本島](../Page/沖縄本島.md "wikilink")北部地域をカバーするために中継局を設置。最初はNHKのみだったが、[1980年代](../Page/1980年代.md "wikilink")になってようやく民放も設置するようになった。またテレビだけでなく、[1974年](../Page/1974年.md "wikilink")にはNHK、[1984年](../Page/1984年.md "wikilink")には[FM沖縄とFMラジオ放送の中継局も設置された](../Page/エフエム沖縄.md "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に沖縄県内でも開始された地上デジタル放送については[2007年](../Page/2007年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")に中継局を設置。
+[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")に[NHK沖縄放送局](../Page/NHK沖縄放送局.md "wikilink")の前身である[沖縄放送協会](../Page/沖縄放送協会.md "wikilink")（OHK）が那覇本局から遠く、地理的に受信が難しい[沖縄本島](../Page/沖縄本島.md "wikilink")北部地域をカバーするために中継局を設置。最初はNHKのみだったが、[1980年代](../Page/1980年代.md "wikilink")になってようやく民放も設置するようになった。またテレビだけでなく、[1974年](../Page/1974年.md "wikilink")にはNHK、[1984年](../Page/1984年.md "wikilink")には[FM沖縄とFMラジオ放送の中継局も設置された](../Page/エフエム沖縄.md "wikilink")。[2006年](../Page/2006年.md "wikilink")に沖縄県内でも開始された地上デジタル放送については[2007年](../Page/2007年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")に中継局を設置。
 
 今帰仁村字謝名にメイン鉄塔、本部町字伊豆味にサブ鉄塔がそれぞれ立っているが、距離が近いため遠くからでは隣り合わせに並んでいるように見える。
 
-沖縄本島北部地域（名護市以北）の基幹局であるため、近くの[呉我テレビ中継局や](https://ja.wikipedia.org/wiki/今帰仁テレビ・FM中継局#呉我テレビ中継局 "wikilink")[運天原中継局](https://ja.wikipedia.org/wiki/今帰仁テレビ・FM中継局#運天原テレビ中継局 "wikilink")（いずれも名護市）をはじめ、[東江テレビ中継局](../Page/東江テレビ中継局.md "wikilink")（名護市）、[辺土名テレビ中継局](../Page/辺土名テレビ中継局.md "wikilink")（国頭村）、[伊是名島](https://ja.wikipedia.org/wiki/伊是名島 "wikilink")の[伊是名テレビ中継局](../Page/伊是名テレビ中継局.md "wikilink")（[伊是名東](https://ja.wikipedia.org/wiki/伊是名テレビ中継局#伊是名東テレビ中継局 "wikilink")・[伊是名西](https://ja.wikipedia.org/wiki/伊是名テレビ中継局#伊是名西テレビ中継局 "wikilink")）は当中継局から電波が送られている。
+沖縄本島北部地域（名護市以北）の基幹局であるため、近くの[呉我テレビ中継局や](https://ja.wikipedia.org/wiki/今帰仁テレビ・FM中継局#呉我テレビ中継局 "wikilink")[運天原中継局](https://ja.wikipedia.org/wiki/今帰仁テレビ・FM中継局#運天原テレビ中継局 "wikilink")（いずれも名護市）をはじめ、[東江テレビ中継局](../Page/東江テレビ中継局.md "wikilink")（名護市）、[辺土名テレビ中継局](../Page/辺土名テレビ中継局.md "wikilink")（国頭村）、[伊是名島](../Page/伊是名島.md "wikilink")の[伊是名テレビ中継局](../Page/伊是名テレビ中継局.md "wikilink")（[伊是名東](https://ja.wikipedia.org/wiki/伊是名テレビ中継局#伊是名東テレビ中継局 "wikilink")・[伊是名西](https://ja.wikipedia.org/wiki/伊是名テレビ中継局#伊是名西テレビ中継局 "wikilink")）は当中継局から電波が送られている。
 
 ## 鉄塔
 
@@ -32,16 +32,16 @@
   - 所在地：本部町字伊豆味
   - 所有者：琉球放送
   - 使用放送局
-      - [琉球放送](https://ja.wikipedia.org/wiki/琉球放送 "wikilink")（RBC・テレビ）
+      - [琉球放送](../Page/琉球放送.md "wikilink")（RBC・テレビ）
       - [FM沖縄](../Page/エフエム沖縄.md "wikilink")
       - [琉球朝日放送](../Page/琉球朝日放送.md "wikilink")（QAB）
 
 ## 沿革
 
   - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[12月1日](../Page/12月1日.md "wikilink") [沖縄放送協会](../Page/沖縄放送協会.md "wikilink")（OHK、現在の[NHK沖縄放送局](../Page/NHK沖縄放送局.md "wikilink")）が沖縄初のUHFテレビ中継局として設置（38ch）
-  - [1972年](../Page/1972年.md "wikilink")[5月15日](../Page/5月15日.md "wikilink") 沖縄の本土復帰と同時にOHKがNHK沖縄放送局となり、チャンネルはそのまま[NHK総合のチャンネルとなる](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")。また同時に[NHK教育の開始に伴い](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")、教育の中継局も設置される（40ch）
-  - [1974年](../Page/1974年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink") [NHK-FM放送](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink")の放送開始に伴い、中継局を親局・久米島中継局と同時に設置（84.8MHz）
-  - [1981年](../Page/1981年.md "wikilink")3月 [琉球放送](https://ja.wikipedia.org/wiki/琉球放送 "wikilink")（RBC）・[沖縄テレビ放送](../Page/沖縄テレビ放送.md "wikilink")（OTV）がテレビ中継局を設置（RBC34ch、OTV32ch）
+  - [1972年](../Page/1972年.md "wikilink")[5月15日](../Page/5月15日.md "wikilink") 沖縄の本土復帰と同時にOHKがNHK沖縄放送局となり、チャンネルはそのまま[NHK総合のチャンネルとなる](../Page/NHK総合テレビジョン.md "wikilink")。また同時に[NHK教育の開始に伴い](../Page/NHK教育テレビジョン.md "wikilink")、教育の中継局も設置される（40ch）
+  - [1974年](../Page/1974年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink") [NHK-FM放送](../Page/NHK-FM放送.md "wikilink")の放送開始に伴い、中継局を親局・久米島中継局と同時に設置（84.8MHz）
+  - [1981年](../Page/1981年.md "wikilink")3月 [琉球放送](../Page/琉球放送.md "wikilink")（RBC）・[沖縄テレビ放送](../Page/沖縄テレビ放送.md "wikilink")（OTV）がテレビ中継局を設置（RBC34ch、OTV32ch）
   - [1984年](../Page/1984年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink") [FM沖縄が開局と同時に中継局設置](../Page/エフエム沖縄.md "wikilink")（83.7MHz）
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[10月1日](../Page/10月1日.md "wikilink") [琉球朝日放送](../Page/琉球朝日放送.md "wikilink")（QAB）が開局と同時に設置（42ch）
   - [1999年](../Page/1999年.md "wikilink") 沖縄地上デジタル放送研究開発支援センターが放送実験用として中継局設置（～2004年）
@@ -51,9 +51,9 @@
 
 ## 主な放送エリア
 
-  - 沖縄本島北部の大半及び周辺離島（[伊平屋島](https://ja.wikipedia.org/wiki/伊平屋島 "wikilink")・[伊是名島](https://ja.wikipedia.org/wiki/伊是名島 "wikilink")・[伊江島](../Page/伊江村.md "wikilink")）のほか、[鹿児島県](../Page/鹿児島県.md "wikilink")[沖永良部島](https://ja.wikipedia.org/wiki/沖永良部島 "wikilink")・[与論島](https://ja.wikipedia.org/wiki/与論島 "wikilink")でも受信可能（この場合、地上デジタル放送は各局の3桁チャンネル番号に枝番が付く）。
+  - 沖縄本島北部の大半及び周辺離島（[伊平屋島](../Page/伊平屋島.md "wikilink")・[伊是名島](../Page/伊是名島.md "wikilink")・[伊江島](../Page/伊江村.md "wikilink")）のほか、[鹿児島県](../Page/鹿児島県.md "wikilink")[沖永良部島](https://ja.wikipedia.org/wiki/沖永良部島 "wikilink")・[与論島](../Page/与論島.md "wikilink")でも受信可能（この場合、地上デジタル放送は各局の3桁チャンネル番号に枝番が付く）。
   - 北部東海岸（名護市久志地域の一部・東村・国頭村東部）やでは共同受信施設経由での受信となる。
-  - 出力が高いため、本島中南部でも受信できるところがある。[うるま市](../Page/うるま市.md "wikilink")勝連平敷屋、[南城市](https://ja.wikipedia.org/wiki/南城市 "wikilink")知念知名の一部・知念吉富では当中継局を受信しており、前述のラジオダクト混信による難視聴が発生していた\[4\]。
+  - 出力が高いため、本島中南部でも受信できるところがある。[うるま市](../Page/うるま市.md "wikilink")勝連平敷屋、[南城市](../Page/南城市.md "wikilink")知念知名の一部・知念吉富では当中継局を受信しており、前述のラジオダクト混信による難視聴が発生していた\[4\]。
 
 ## 今帰仁中継局
 
@@ -64,9 +64,9 @@
 <tr class="header">
 <th><p><a href="../Page/リモコンキーID.md" title="wikilink">ID</a></p></th>
 <th><p><a href="../Page/日本のテレビジョン放送局.md" title="wikilink">放送局名</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/チャンネル_(テレビ放送)" title="wikilink">物理<br />
+<th><p><a href="../Page/チャンネル_(テレビ放送).md" title="wikilink">物理<br />
 チャンネル</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/空中線電力" title="wikilink">空中線<br />
+<th><p><a href="../Page/空中線電力.md" title="wikilink">空中線<br />
 電力</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/実効放射電力" title="wikilink">ERP</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/放送#放送対象地域" title="wikilink">放送対象地域</a></p></th>
@@ -79,7 +79,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHK</a><br />
-<a href="../Page/NHK沖縄放送局.md" title="wikilink">沖縄</a><a href="https://ja.wikipedia.org/wiki/NHK総合テレビジョン" title="wikilink">総合</a></p></td>
+<a href="../Page/NHK沖縄放送局.md" title="wikilink">沖縄</a><a href="../Page/NHK総合テレビジョン.md" title="wikilink">総合</a></p></td>
 <td><p>38</p></td>
 <td><p>30W</p></td>
 <td><p>220W</p></td>
@@ -90,7 +90,7 @@
 <tr class="even">
 <td><p>2</p></td>
 <td><p>NHK<br />
-沖縄<a href="https://ja.wikipedia.org/wiki/NHK教育テレビジョン" title="wikilink">教育</a></p></td>
+沖縄<a href="../Page/NHK教育テレビジョン.md" title="wikilink">教育</a></p></td>
 <td><p>40</p></td>
 <td><p>全国</p></td>
 <td></td>
@@ -101,7 +101,7 @@
 <tr class="odd">
 <td><p>3</p></td>
 <td><p>RBC<br />
-<a href="https://ja.wikipedia.org/wiki/琉球放送" title="wikilink">琉球放送</a></p></td>
+<a href="../Page/琉球放送.md" title="wikilink">琉球放送</a></p></td>
 <td><p>34</p></td>
 <td><p>290W</p></td>
 <td><p>沖縄県</p></td>
@@ -134,7 +134,7 @@
 </tbody>
 </table>
 
-  - [2007年](../Page/2007年.md "wikilink")[10月31日](../Page/10月31日.md "wikilink")に[予備免許](https://ja.wikipedia.org/wiki/予備免許 "wikilink")が交付、[11月](../Page/11月.md "wikilink")中に[試験放送](https://ja.wikipedia.org/wiki/試験放送 "wikilink")が実施され、[11月30日](../Page/11月30日.md "wikilink")に本免許が交付され、[12月1日](../Page/12月1日.md "wikilink")から本放送開始。
+  - [2007年](../Page/2007年.md "wikilink")[10月31日](../Page/10月31日.md "wikilink")に[予備免許](../Page/予備免許.md "wikilink")が交付、[11月](../Page/11月.md "wikilink")中に[試験放送](../Page/試験放送.md "wikilink")が実施され、[11月30日](../Page/11月30日.md "wikilink")に本免許が交付され、[12月1日](../Page/12月1日.md "wikilink")から本放送開始。
   - NHK・OTVは今帰仁村側のメイン鉄塔、RBC・QABは本部町側のサブ鉄塔からそれぞれ送信。
   - 2014年10月27日より、気候変動による[徳之島中継局](../Page/徳之島中継局.md "wikilink")からの[ラジオダクト](https://ja.wikipedia.org/wiki/ラジオダクト "wikilink")混信による難視聴発生が懸念されているため、物理チャンネルを全局アナログテレビ時代のチャンネルに変更。変更前は親局と同じだった（NHK総合17ch、NHK教育13ch、RBC14ch、OTV15ch、QAB16ch）。
 
@@ -229,7 +229,7 @@
 <tr class="header">
 <th><p><a href="../Page/周波数.md" title="wikilink">周波数</a><br />
 （<a href="https://ja.wikipedia.org/wiki/メガヘルツ" title="wikilink">MHz</a>）</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/日本のラジオ放送局" title="wikilink">放送局名</a></p></th>
+<th><p><a href="../Page/日本のラジオ放送局.md" title="wikilink">放送局名</a></p></th>
 <th><p>空中線<br />
 電力</p></th>
 <th><p>ERP</p></th>
@@ -252,7 +252,7 @@
 <tr class="even">
 <td><p>84.8</p></td>
 <td><p>NHK<br />
-沖縄<a href="https://ja.wikipedia.org/wiki/NHK-FM放送" title="wikilink">FM</a></p></td>
+沖縄<a href="../Page/NHK-FM放送.md" title="wikilink">FM</a></p></td>
 <td><p><a href="../Page/1974年.md" title="wikilink">1974年</a></p></td>
 <td></td>
 <td></td>
@@ -266,7 +266,7 @@
 
 ## 呉我テレビ中継局
 
-地形的にテレビの受信状態がよくない名護市呉我地区をカバーするため、[2000年](../Page/2000年.md "wikilink")に[沖縄米軍基地所在市町村に関する懇談会](https://ja.wikipedia.org/wiki/沖縄米軍基地所在市町村に関する懇談会 "wikilink")（[島田懇談会](https://ja.wikipedia.org/wiki/島田晴雄 "wikilink")）による関連事業（北部地域難視聴解消事業）の一環として同市字呉我（公民館裏山）に設置された。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[12月24日](../Page/12月24日.md "wikilink")に地上デジタル放送が開始された。放送エリアは名護市呉我とその周辺。今帰仁中継局経由の中継局であるため、エリア内でも同中継局から直接受信するところも少なくない。
+地形的にテレビの受信状態がよくない名護市呉我地区をカバーするため、[2000年](../Page/2000年.md "wikilink")に[沖縄米軍基地所在市町村に関する懇談会](https://ja.wikipedia.org/wiki/沖縄米軍基地所在市町村に関する懇談会 "wikilink")（[島田懇談会](../Page/島田晴雄.md "wikilink")）による関連事業（北部地域難視聴解消事業）の一環として同市字呉我（公民館裏山）に設置された。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[12月24日](../Page/12月24日.md "wikilink")に地上デジタル放送が開始された。放送エリアは名護市呉我とその周辺。今帰仁中継局経由の中継局であるため、エリア内でも同中継局から直接受信するところも少なくない。
 
 ### 地上デジタルテレビ放送
 
@@ -352,7 +352,7 @@
 </tbody>
 </table>
 
-  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[11月5日](../Page/11月5日.md "wikilink")に[予備免許](https://ja.wikipedia.org/wiki/予備免許 "wikilink")交付、[12月21日](../Page/12月21日.md "wikilink")に本免許交付。
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[11月5日](../Page/11月5日.md "wikilink")に[予備免許](../Page/予備免許.md "wikilink")交付、[12月21日](../Page/12月21日.md "wikilink")に本免許交付。
   - 放送エリアは、名護市呉我地区と仲尾地区の各一部。この中継局の開局により、[2011年](../Page/2011年.md "wikilink")[7月22日](../Page/7月22日.md "wikilink")に開局した[大東諸島](../Page/大東諸島.md "wikilink")地区を除いて沖縄県内でのデジタル中継局の整備が完了した。
   - [呉我･数久田の両デジタル中継局に予備免許交付](http://www.soumu.go.jp/soutsu/okinawa/hodo/2010/10_11_05-01.html) - 総務省沖縄総合事務所ホームページ
 
@@ -428,13 +428,13 @@
 </tbody>
 </table>
 
-  - [2000年](../Page/2000年.md "wikilink")[2月9日](../Page/2月9日.md "wikilink")に[予備免許](https://ja.wikipedia.org/wiki/予備免許 "wikilink")交付、[3月27日](../Page/3月27日.md "wikilink")に本免許交付、同日から本放送開始で、2011年7月24日を以って廃局。
+  - [2000年](../Page/2000年.md "wikilink")[2月9日](../Page/2月9日.md "wikilink")に[予備免許](../Page/予備免許.md "wikilink")交付、[3月27日](../Page/3月27日.md "wikilink")に本免許交付、同日から本放送開始で、2011年7月24日を以って廃局。
 
 ## 運天原テレビ中継局
 
 地形的にテレビの受信状態がよくない名護市[屋我地島](../Page/屋我地島.md "wikilink")北西部・運天原地区の一部をカバーするため、呉我テレビ中継局とおなじく2000年に沖縄米軍基地所在市町村に関する懇談会（島田懇談会）による関連事業（北部地域難視聴解消事業）の一環として同市字運天原（公民館近く）に設置された。2010年[9月30日](../Page/9月30日.md "wikilink")に地上デジタル放送が開始された。放送エリアは名護市運天原の一部。呉我テレビ中継局と同じく今帰仁中継局経由の中継局であるため、エリア内でも同中継局から直接受信するところも少なくない。
 
-近くの済井出には[NHKの](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[名護ラジオ中継局](../Page/名護ラジオ中継局.md "wikilink")（[沖縄](../Page/NHK沖縄放送局.md "wikilink")[第1のみ](https://ja.wikipedia.org/wiki/NHKラジオ第1放送 "wikilink")）がある。
+近くの済井出には[NHKの](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[名護ラジオ中継局](../Page/名護ラジオ中継局.md "wikilink")（[沖縄](../Page/NHK沖縄放送局.md "wikilink")[第1のみ](../Page/NHKラジオ第1放送.md "wikilink")）がある。
 
 ### 地上デジタルテレビ放送
 
@@ -520,7 +520,7 @@
 </tbody>
 </table>
 
-  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[9月14日](../Page/9月14日.md "wikilink")に[予備免許](https://ja.wikipedia.org/wiki/予備免許 "wikilink")が交付、[9月](../Page/9月.md "wikilink")中旬から[試験放送](https://ja.wikipedia.org/wiki/試験放送 "wikilink")開始、[9月29日](../Page/9月29日.md "wikilink")に本免許が交付、[9月30日](../Page/9月30日.md "wikilink")から本放送開始。
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[9月14日](../Page/9月14日.md "wikilink")に[予備免許](../Page/予備免許.md "wikilink")が交付、[9月](../Page/9月.md "wikilink")中旬から[試験放送](../Page/試験放送.md "wikilink")開始、[9月29日](../Page/9月29日.md "wikilink")に本免許が交付、[9月30日](../Page/9月30日.md "wikilink")から本放送開始。
   - 放送エリアは、名護市運天原地区と[国頭郡](../Page/国頭郡.md "wikilink")[今帰仁村](../Page/今帰仁村.md "wikilink")運天地区の各一部地域。
 
 ### 地上アナログテレビ放送
@@ -595,7 +595,7 @@
 </tbody>
 </table>
 
-  - [2000年](../Page/2000年.md "wikilink")[2月9日](../Page/2月9日.md "wikilink")に[予備免許](https://ja.wikipedia.org/wiki/予備免許 "wikilink")交付、[3月27日](../Page/3月27日.md "wikilink")に本免許交付、同日から本放送開始で、2011年7月24日を以って廃局。
+  - [2000年](../Page/2000年.md "wikilink")[2月9日](../Page/2月9日.md "wikilink")に[予備免許](../Page/予備免許.md "wikilink")交付、[3月27日](../Page/3月27日.md "wikilink")に本免許交付、同日から本放送開始で、2011年7月24日を以って廃局。
 
 ## 脚注
 
@@ -619,7 +619,7 @@
   - [本部中継局](../Page/本部中継局.md "wikilink")
   - [辺土名テレビ中継局](../Page/辺土名テレビ中継局.md "wikilink")
   - [伊是名テレビ中継局](../Page/伊是名テレビ中継局.md "wikilink")
-  - [国頭ラジオ中継局](https://ja.wikipedia.org/wiki/国頭ラジオ中継局 "wikilink")
+  - [国頭ラジオ中継局](../Page/国頭ラジオ中継局.md "wikilink")
   - [沖縄石川テレビ中継局](../Page/沖縄石川テレビ中継局.md "wikilink")
 
 [Category:今帰仁村](https://ja.wikipedia.org/wiki/Category:今帰仁村 "wikilink") [Category:名護市の建築物](https://ja.wikipedia.org/wiki/Category:名護市の建築物 "wikilink") [Category:本部町](https://ja.wikipedia.org/wiki/Category:本部町 "wikilink") [Category:本島地方の放送送信所](https://ja.wikipedia.org/wiki/Category:本島地方の放送送信所 "wikilink") [Category:NHK沖縄](https://ja.wikipedia.org/wiki/Category:NHK沖縄 "wikilink") [Category:琉球放送](https://ja.wikipedia.org/wiki/Category:琉球放送 "wikilink") [Category:琉球朝日放送](https://ja.wikipedia.org/wiki/Category:琉球朝日放送 "wikilink") [Category:沖縄テレビ放送](https://ja.wikipedia.org/wiki/Category:沖縄テレビ放送 "wikilink") [Category:エフエム沖縄](https://ja.wikipedia.org/wiki/Category:エフエム沖縄 "wikilink")

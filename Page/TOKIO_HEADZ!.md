@@ -7,7 +7,7 @@
 
   - 「〜になる」「〜を探せ」「〜を作ろう」「〜を救おう」などをテーマにメンバーがレポートに出かけ、体験やチャレンジしていく。
   - 当初はメンバーの夢や興味の対象にしていたが、徐々に面白い[素人](https://ja.wikipedia.org/wiki/素人 "wikilink")（非芸能人）をメインに据えていく形にシフトしていき、「格闘家」「家庭訪問」などのシリーズ企画も生まれる。
-  - 深夜という事でかなり過激な内容もあり、[城島茂](../Page/城島茂.md "wikilink")が[長瀬智也](../Page/長瀬智也.md "wikilink")を起こすシーンで全裸になり[モザイクをかけられる事もあった](https://ja.wikipedia.org/wiki/モザイク処理 "wikilink")。
+  - 深夜という事でかなり過激な内容もあり、[城島茂](../Page/城島茂.md "wikilink")が[長瀬智也](../Page/長瀬智也.md "wikilink")を起こすシーンで全裸になり[モザイクをかけられる事もあった](../Page/モザイク処理.md "wikilink")。
 
 ## 出演
 
@@ -16,7 +16,7 @@
 ## 主なキャラクター
 
   - [カゼッタF](https://ja.wikipedia.org/wiki/カゼッタ岡 "wikilink")（自称宇宙人）
-  - [零士](https://ja.wikipedia.org/wiki/零士 "wikilink")（カリスマ[ホスト](https://ja.wikipedia.org/wiki/ホストクラブ "wikilink")）
+  - [零士](https://ja.wikipedia.org/wiki/零士 "wikilink")（カリスマ[ホスト](../Page/ホストクラブ.md "wikilink")）
   - [龍飛雲](https://ja.wikipedia.org/wiki/龍飛雲 "wikilink")（武道家）
   - [竹田恒泰](../Page/竹田恒泰.md "wikilink")（実業家）
 

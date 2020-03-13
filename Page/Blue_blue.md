@@ -1,7 +1,7 @@
 > この記事は[Blue blue](https://ja.wikipedia.org/wiki/Blue_blue)から翻訳されています。
 
 
-「**blue blue**」（ブルー・ブルー）は、[コブクロ](https://ja.wikipedia.org/wiki/コブクロ "wikilink")8枚目の[シングル](../Page/シングル.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[8月27日](../Page/8月27日.md "wikilink")発売。発売元は[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")。
+「**blue blue**」（ブルー・ブルー）は、[コブクロ](https://ja.wikipedia.org/wiki/コブクロ "wikilink")8枚目の[シングル](../Page/シングル.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[8月27日](../Page/8月27日.md "wikilink")発売。発売元は[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")。
 
 ## 解説
 
@@ -15,7 +15,7 @@
 
 ## 収録曲
 
-全曲作詞・作曲：[小渕健太郎](https://ja.wikipedia.org/wiki/小渕健太郎 "wikilink")、編曲：[笹路正徳](https://ja.wikipedia.org/wiki/笹路正徳 "wikilink")
+全曲作詞・作曲：[小渕健太郎](../Page/小渕健太郎.md "wikilink")、編曲：[笹路正徳](../Page/笹路正徳.md "wikilink")
 
 1.  **blue blue**
       - ベストアルバム『[ALL SINGLES BEST](https://ja.wikipedia.org/wiki/ALL_SINGLES_BEST "wikilink")』に収録されている。

@@ -5,13 +5,13 @@
 
 ## 概要
 
-タイトルは、監督の[真下耕一](../Page/真下耕一.md "wikilink")が[英語](../Page/英語.md "wikilink")の「**MAD**」と「re**LAX**ed」を組み合わせた造語である\[1\]。人間が心に抱える二面性を表現しており、「引き裂かれた人間性」がテーマとなっている\[2\]。脚本は、[黒田洋介](../Page/黒田洋介.md "wikilink")が[シリーズ構成](https://ja.wikipedia.org/wiki/シリーズ構成 "wikilink")を経て全話を担当している。
+タイトルは、監督の[真下耕一](../Page/真下耕一.md "wikilink")が[英語](../Page/英語.md "wikilink")の「**MAD**」と「re**LAX**ed」を組み合わせた造語である\[1\]。人間が心に抱える二面性を表現しており、「引き裂かれた人間性」がテーマとなっている\[2\]。脚本は、[黒田洋介](../Page/黒田洋介.md "wikilink")が[シリーズ構成](../Page/シリーズ構成.md "wikilink")を経て全話を担当している。
 
 [2001年](../Page/2001年.md "wikilink")放送の『[ノワール](../Page/ノワール_\(アニメ\).md "wikilink")』、[2007年](../Page/2007年.md "wikilink")放送の『[エル・カザド](../Page/エル・カザド.md "wikilink")』は、本作と併せて「[美少女](../Page/美少女.md "wikilink")[ガンアクション](https://ja.wikipedia.org/wiki/ガンアクション "wikilink")三部作」と称されている\[3\]。その第2作目に当たる本作は、三部作の中で最もシリアスかつ激しいガンアクションが展開され、主人公のマドラックスが踊るように立ち回る作品となっている。また、物語も難解であるが、その分だけ張られた伏線の数も最多となっている。オープニングテーマ「瞳の欠片」の歌詞も伏線となっており、どう解釈するかは視聴者によるところが多い。
 
 なお、三部作の中で唯一、[テレビ大阪](../Page/テレビ大阪.md "wikilink")でも放送された。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[5月21日](../Page/5月21日.md "wikilink")発売の[ムック本](https://ja.wikipedia.org/wiki/ムック_\(出版\) "wikilink")『MADLAX the Bible』以降は目立った動きが無かったが、[2011年](../Page/2011年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")には[スピンオフ](../Page/スピンオフ.md "wikilink")小説『旅する少女と灼熱の国』が[HJ文庫](../Page/HJ文庫.md "wikilink")より発売された（詳細は[\#関連書籍](https://ja.wikipedia.org/wiki/#関連書籍 "wikilink")を参照）。
+[2005年](../Page/2005年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink")発売の[ムック本](../Page/ムック_\(出版\).md "wikilink")『MADLAX the Bible』以降は目立った動きが無かったが、[2011年](../Page/2011年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")には[スピンオフ](../Page/スピンオフ.md "wikilink")小説『旅する少女と灼熱の国』が[HJ文庫](../Page/HJ文庫.md "wikilink")より発売された（詳細は[\#関連書籍](https://ja.wikipedia.org/wiki/#関連書籍 "wikilink")を参照）。
 
 [2018年](../Page/2018年.md "wikilink")現在は、[バンダイチャンネル](../Page/バンダイチャンネル.md "wikilink")で全話の[ネット配信](../Page/ネット配信.md "wikilink")が行われている（第1話のみ無料、第2話以降は有料）\[4\]。
 
@@ -20,9 +20,9 @@
     「nowhere」の作詞・作曲・編曲を担当した[梶浦由記](https://ja.wikipedia.org/wiki/梶浦由記 "wikilink")はこのフレーズについて、『MADLAX the Bible』で「造語ですので、聞こえたままの響きが正解だと思っていただければ」と語っている\[5\]が、該当部分の歌詞は公表されておらず、不明となっていた。しかし、梶浦は2011年に[ラジオ番組](../Page/ラジオ番組.md "wikilink")へ出演した際、このフレーズが実は「ヤッラーヒ」であったことを告白している（詳細は[梶浦由記\#音楽性](https://ja.wikipedia.org/wiki/梶浦由記#音楽性 "wikilink")を参照）。
     一方、上記の第1話を中心に寄せられたファンの反響を受ける形で制作者側も「ヤンマーニ」を使用していたため、結果的には公認フレーズとなった（DVD Vol.3 の解説絵、DVD Vol.8 の解説文、『MADLAX the Bible』のサブタイトル、[DAMにおける](../Page/DAM_\(カラオケ\).md "wikilink")「nowhere」などで使用されている）。
     なお、黒田はアニメ雑誌「[月刊ニュータイプ](../Page/月刊ニュータイプ.md "wikilink")」2006年1月号で、「初めに断っておきますが、文章の出だしに『ヤンマーニ』と書きましたが、本当は『ヤンマーイ』と歌っているそうです。ビクターエンタテインメントさんから聞いた情報ですので間違いないと思われます」と語っている\[6\]が、梶浦は後日の自身のブログで、「とりあえず何と言っているかはご想像にお任せ致したく思っているのですが、『ヤンマーイ』で無い事だけは保証します」と否定していた\[7\]。
-    [2019年](../Page/2019年.md "wikilink")2月に開催された[犬フェス\!](https://ja.wikipedia.org/wiki/犬フェス! "wikilink")で[FictionJunction YUUKAが](https://ja.wikipedia.org/wiki/FictionJunction_YUUKA "wikilink")「nowhere」を披露した際、コーラスとしてこのフレーズを歌った[貝田由里子](https://ja.wikipedia.org/wiki/貝田由里子 "wikilink")と[織田かおり](../Page/織田かおり.md "wikilink")は、ツイッターで「ヤンラーイ」と表記している\[8\]。
+    [2019年](../Page/2019年.md "wikilink")2月に開催された[犬フェス\!](https://ja.wikipedia.org/wiki/犬フェス! "wikilink")で[FictionJunction YUUKAが](../Page/FictionJunction_YUUKA.md "wikilink")「nowhere」を披露した際、コーラスとしてこのフレーズを歌った[貝田由里子](https://ja.wikipedia.org/wiki/貝田由里子 "wikilink")と[織田かおり](../Page/織田かおり.md "wikilink")は、ツイッターで「ヤンラーイ」と表記している\[8\]。
   - 他作品とのリンク
-    作中で使用されている[通貨](../Page/通貨.md "wikilink")単位は[2003年](../Page/2003年.md "wikilink")放送の『[ガングレイヴ](../Page/ガングレイヴ.md "wikilink")』と同じ「ユール」（[ユーロ](../Page/ユーロ.md "wikilink")のもじり）であるほか、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")放送の『[極上生徒会](../Page/極上生徒会.md "wikilink")』には本作に登場する先進国の名を冠した「ナフレス[諜報機関](https://ja.wikipedia.org/wiki/諜報機関 "wikilink")」の[工作員](https://ja.wikipedia.org/wiki/工作員 "wikilink")が登場するなど、黒田が脚本を担当した他作品とのリンクが見られる。
+    作中で使用されている[通貨](../Page/通貨.md "wikilink")単位は[2003年](../Page/2003年.md "wikilink")放送の『[ガングレイヴ](../Page/ガングレイヴ.md "wikilink")』と同じ「ユール」（[ユーロ](../Page/ユーロ.md "wikilink")のもじり）であるほか、[2005年](../Page/2005年.md "wikilink")放送の『[極上生徒会](../Page/極上生徒会.md "wikilink")』には本作に登場する先進国の名を冠した「ナフレス[諜報機関](https://ja.wikipedia.org/wiki/諜報機関 "wikilink")」の[工作員](https://ja.wikipedia.org/wiki/工作員 "wikilink")が登場するなど、黒田が脚本を担当した他作品とのリンクが見られる。
 
 ## ストーリー
 
@@ -135,7 +135,7 @@
   - 音楽 - [梶浦由記](https://ja.wikipedia.org/wiki/梶浦由記 "wikilink")
   - 音響監督 - [なかのとおる](../Page/なかのとおる.md "wikilink")
   - プロデューサー - 北山茂、浜元達哉
-  - アニメーション制作 - [ビィートレイン](https://ja.wikipedia.org/wiki/ビィートレイン "wikilink")
+  - アニメーション制作 - [ビィートレイン](../Page/ビィートレイン.md "wikilink")
   - 製作 - [ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")
 
 ## 主題歌
@@ -147,7 +147,7 @@
   -
 
       -
-        作詞・作曲・編曲 - [梶浦由記](https://ja.wikipedia.org/wiki/梶浦由記 "wikilink") / 歌 - [FictionJunction YUUKA](https://ja.wikipedia.org/wiki/FictionJunction_YUUKA "wikilink")
+        作詞・作曲・編曲 - [梶浦由記](https://ja.wikipedia.org/wiki/梶浦由記 "wikilink") / 歌 - [FictionJunction YUUKA](../Page/FictionJunction_YUUKA.md "wikilink")
 
   - エンディングテーマ
 
@@ -201,7 +201,7 @@
 <td><p>紅月 -crimson-</p></td>
 <td><p><a href="../Page/澤井幸次.md" title="wikilink">澤井幸次</a></p></td>
 <td><p>黒川智之</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/なかじまちゅうじ" title="wikilink">なかじまちゅうじ</a></p></td>
+<td><p><a href="../Page/なかじまちゅうじ.md" title="wikilink">なかじまちゅうじ</a></p></td>
 <td><p>4月12日</p></td>
 </tr>
 <tr class="odd">
@@ -405,12 +405,12 @@
 
 ## 放送局
 
-| 放送対象地域                              | 放送局                                                     | 放送期間                                                                                                                                      | 放送日時                 | 放送系列                                                | 備考     |
-| ----------------------------------- | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | --------------------------------------------------- | ------ |
-| [関東広域圏](../Page/広域放送.md "wikilink") | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink") | [2004年](../Page/2004年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink") - [9月28日](../Page/9月28日.md "wikilink")                             | 火曜 1:30 - 2:00（月曜深夜） | [TXN](https://ja.wikipedia.org/wiki/TXN "wikilink") | \-     |
-| [大阪府](../Page/大阪府.md "wikilink")    | [テレビ大阪](../Page/テレビ大阪.md "wikilink")                    | 2004年[4月7日](../Page/4月7日.md "wikilink") - [9月29日](../Page/9月29日.md "wikilink")                                                            | 水曜 1:30 - 2:00（火曜深夜） |                                                     |        |
-| [日本全国](../Page/全国放送.md "wikilink")  | [AT-X](../Page/アニメシアターX.md "wikilink")                  | 2004年[12月25日](../Page/12月25日.md "wikilink") - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月19日](../Page/3月19日.md "wikilink") | 土曜 11:00 - 12:00     | [CS放送](../Page/日本における衛星放送.md "wikilink")            | 2話連続放送 |
-|                                     |                                                         |                                                                                                                                           |                      |                                                     |        |
+| 放送対象地域                              | 放送局                                                     | 放送期間                                                                                                                   | 放送日時                 | 放送系列                                                | 備考     |
+| ----------------------------------- | ------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | -------------------- | --------------------------------------------------- | ------ |
+| [関東広域圏](../Page/広域放送.md "wikilink") | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink") | [2004年](../Page/2004年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink") - [9月28日](../Page/9月28日.md "wikilink")          | 火曜 1:30 - 2:00（月曜深夜） | [TXN](https://ja.wikipedia.org/wiki/TXN "wikilink") | \-     |
+| [大阪府](../Page/大阪府.md "wikilink")    | [テレビ大阪](../Page/テレビ大阪.md "wikilink")                    | 2004年[4月7日](../Page/4月7日.md "wikilink") - [9月29日](../Page/9月29日.md "wikilink")                                         | 水曜 1:30 - 2:00（火曜深夜） |                                                     |        |
+| [日本全国](../Page/全国放送.md "wikilink")  | [AT-X](../Page/アニメシアターX.md "wikilink")                  | 2004年[12月25日](../Page/12月25日.md "wikilink") - [2005年](../Page/2005年.md "wikilink")[3月19日](../Page/3月19日.md "wikilink") | 土曜 11:00 - 12:00     | [CS放送](../Page/日本における衛星放送.md "wikilink")            | 2話連続放送 |
+|                                     |                                                         |                                                                                                                        |                      |                                                     |        |
 
 ## 映像ソフト
 

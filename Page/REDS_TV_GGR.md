@@ -13,9 +13,9 @@
 
 [2009年](../Page/2009年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")には公式ホームページの全面リニューアルが行われた。
 
-[2011年](../Page/2011年.md "wikilink")[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")から放送時間が金曜23:30～24:00に移動する（再放送は今までどおり）。
+[2011年](../Page/2011年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")から放送時間が金曜23:30～24:00に移動する（再放送は今までどおり）。
 
-同じテレ玉で放送される『[Ole\! アルディージャ](https://ja.wikipedia.org/wiki/Ole!_アルディージャ "wikilink")』（[大宮アルディージャ](https://ja.wikipedia.org/wiki/大宮アルディージャ "wikilink")の応援番組）とはライバル関係にあるため、主に[さいたまダービー](../Page/さいたまダービー.md "wikilink")の際などを中心に両番組の対決が企画され、負けた方の番組に罰ゲームが課される\[1\]。
+同じテレ玉で放送される『[Ole\! アルディージャ](../Page/Ole!_アルディージャ.md "wikilink")』（[大宮アルディージャ](https://ja.wikipedia.org/wiki/大宮アルディージャ "wikilink")の応援番組）とはライバル関係にあるため、主に[さいたまダービー](../Page/さいたまダービー.md "wikilink")の際などを中心に両番組の対決が企画され、負けた方の番組に罰ゲームが課される\[1\]。
 
 2016年6月10日放送分にゲスト出演したEDテーマ担当アーティスト[BIGMAMA](https://ja.wikipedia.org/wiki/BIGMAMA "wikilink")のドラムス担当の**リアド偉武**は、第10代アシスタント・[リアド慈英蘭](https://ja.wikipedia.org/wiki/リアド慈英蘭 "wikilink")の弟であった。リアド家は当日をもって姉弟同番組に出演した。
 
@@ -247,7 +247,7 @@
 [Category:テレビ埼玉の番組](https://ja.wikipedia.org/wiki/Category:テレビ埼玉の番組 "wikilink") [Category:関東・甲信越地方のテレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビのスポーツ番組 "wikilink") [Category:ローカルテレビ局のサッカー番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局のサッカー番組 "wikilink") [Category:浦和レッドダイヤモンズ](https://ja.wikipedia.org/wiki/Category:浦和レッドダイヤモンズ "wikilink") [Category:テレビ番組のシリーズ](https://ja.wikipedia.org/wiki/Category:テレビ番組のシリーズ "wikilink")
 
 1.  [J1：第24節 浦和 vs 大宮](http://www.jsgoal.jp/photo/_prog/detail.php?c=00101090&search%5bfilename1%5d=20120100010220120901) - J's GOAL・2012年9月1日
-2.  2006年2月24日、および10月20日は[福永泰](https://ja.wikipedia.org/wiki/福永泰 "wikilink")（元浦和レッズMF）が代理司会
+2.  2006年2月24日、および10月20日は[福永泰](../Page/福永泰.md "wikilink")（元浦和レッズMF）が代理司会
 3.  以前は技術
 4.  以前はディレクター
 5.  技術兼任

@@ -12,7 +12,7 @@
 
   - [糸井重里](../Page/糸井重里.md "wikilink")（2003年10月 - 2004年3月、「GOODS JOCKEY\!」コーナー担当）
   - [大月勇](../Page/大月勇.md "wikilink")（当時[毎日放送](../Page/毎日放送.md "wikilink")アナウンサー／2003年10月 - 2004年3月、友近と共演）
-  - [青島健太](https://ja.wikipedia.org/wiki/青島健太 "wikilink")
+  - [青島健太](../Page/青島健太.md "wikilink")
   - [斎藤哲也](../Page/斎藤哲也.md "wikilink")（[TBS](../Page/東京放送ホールディングス.md "wikilink")〈現：[TBSテレビ](../Page/TBSテレビ.md "wikilink")〉[アナウンサー](https://ja.wikipedia.org/wiki/TBSテレビのアナウンサー一覧 "wikilink")／月曜日「Go-tch」コーナー担当）
 
 ## 放送時間
@@ -30,13 +30,13 @@ TBSラジオでの放送時間
 
 番組開始からの半年間は金曜日20時台に限り、「mix west」と題して[友近](../Page/友近.md "wikilink")の司会で[大阪](../Page/大阪府.md "wikilink")・[毎日放送](../Page/毎日放送.md "wikilink")（[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")）発の全国放送を実施したが、2004年度は全曜日・全時間ともTBSラジオからの放送となった。
 
-しかし、前番組の「e-NITE」と比較すると[ニュース](../Page/ニュース.md "wikilink")が毎時入ることで番組全体がせわしなくなり、パーソナリティの喋りが暗くなることは否めなかった。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月25日](../Page/9月25日.md "wikilink")限りで終了した。最終回は[青島健太](https://ja.wikipedia.org/wiki/青島健太 "wikilink")、友近と思い出話を語った。後番組は「[ブジオ\!](https://ja.wikipedia.org/wiki/ブジオ! "wikilink")」。
+しかし、前番組の「e-NITE」と比較すると[ニュース](../Page/ニュース.md "wikilink")が毎時入ることで番組全体がせわしなくなり、パーソナリティの喋りが暗くなることは否めなかった。[2005年](../Page/2005年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")限りで終了した。最終回は[青島健太](../Page/青島健太.md "wikilink")、友近と思い出話を語った。後番組は「[ブジオ\!](../Page/ブジオ!.md "wikilink")」。
 
 ## 放送局別編成
 
 2004年10月 - 2005年3月の放送実績
 
-  - TBSラジオは全曜日、[RBCは火](https://ja.wikipedia.org/wiki/琉球放送 "wikilink")-金曜日、19:00-21:00
+  - TBSラジオは全曜日、[RBCは火](../Page/琉球放送.md "wikilink")-金曜日、19:00-21:00
   - 以下の局は20時から
       - [HBC](../Page/HBCラジオ.md "wikilink")、[TBC](../Page/東北放送.md "wikilink")、[BSN](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")、[YBS](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")、[KNB](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")、[FBC](https://ja.wikipedia.org/wiki/福井放送 "wikilink")、
         [CBC](../Page/CBCラジオ.md "wikilink")、[WBS](https://ja.wikipedia.org/wiki/和歌山放送 "wikilink")、[BSS](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")、[RCC](../Page/中国放送.md "wikilink")、[KRY](https://ja.wikipedia.org/wiki/山口放送 "wikilink")、[JRT](https://ja.wikipedia.org/wiki/四国放送 "wikilink")、

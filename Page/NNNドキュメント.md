@@ -1,13 +1,13 @@
 > この記事は[NNN](https://ja.wikipedia.org/wiki/NNN)から翻訳されています。
 
 
-**NNNドキュメント**（エヌエヌエヌドキュメント）は、[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")から放送を開始した[NNN系列の](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")[深夜番組](../Page/深夜番組.md "wikilink")である。放送時の番組タイトルでは「NNNドキュメント'○○」（○○は西暦の下2桁）と表記される。
+**NNNドキュメント**（エヌエヌエヌドキュメント）は、[1970年](../Page/1970年.md "wikilink")から放送を開始した[NNN系列の](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")[深夜番組](../Page/深夜番組.md "wikilink")である。放送時の番組タイトルでは「NNNドキュメント'○○」（○○は西暦の下2桁）と表記される。
 
 ## 概要
 
-[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[1月4日](../Page/1月4日.md "wikilink")、放送開始。現在放送中の日本テレビの番組では『[キユーピー3分クッキング（NTVバージョン）](https://ja.wikipedia.org/wiki/キユーピー3分クッキング#NTVバージョン "wikilink")』、『[笑点](https://ja.wikipedia.org/wiki/笑点 "wikilink")』に次いで歴代第3位の[長寿番組である](https://ja.wikipedia.org/wiki/長寿番組の一覧 "wikilink")\[1\]。当初は「番組リーダー」という進行役を置き、[山口崇](https://ja.wikipedia.org/wiki/山口崇 "wikilink")（1970年）、[寺田農](https://ja.wikipedia.org/wiki/寺田農 "wikilink")（[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")・[1972年](../Page/1972年.md "wikilink")）がそれぞれ担当していた。[1973年](../Page/1973年.md "wikilink")に進行役は廃止している\[2\]。
+[1970年](../Page/1970年.md "wikilink")[1月4日](../Page/1月4日.md "wikilink")、放送開始。現在放送中の日本テレビの番組では『[キユーピー3分クッキング（NTVバージョン）](https://ja.wikipedia.org/wiki/キユーピー3分クッキング#NTVバージョン "wikilink")』、『[笑点](https://ja.wikipedia.org/wiki/笑点 "wikilink")』に次いで歴代第3位の[長寿番組である](../Page/長寿番組の一覧.md "wikilink")\[1\]。当初は「番組リーダー」という進行役を置き、[山口崇](../Page/山口崇.md "wikilink")（1970年）、[寺田農](../Page/寺田農.md "wikilink")（[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")・[1972年](../Page/1972年.md "wikilink")）がそれぞれ担当していた。[1973年](../Page/1973年.md "wikilink")に進行役は廃止している\[2\]。
 
-年々放送時間が後ろにずれていき、通常編成時には日曜23時台開始だったものが、1990年4月から月曜0時台（日曜24時台）開始となり、放送時間が繰り下がる傾向はあるものの、放送開始当初から日曜版の[夜ニュース](https://ja.wikipedia.org/wiki/日本テレビ系列深夜ニュース枠 "wikilink")（[NNNきょうの出来事](https://ja.wikipedia.org/wiki/NNNきょうの出来事 "wikilink")→[NNNニュース](https://ja.wikipedia.org/wiki/NNNニュース "wikilink")→[Going\!Sports\&News](https://ja.wikipedia.org/wiki/Going!Sports&News "wikilink")）の次の枠で放送されている。
+年々放送時間が後ろにずれていき、通常編成時には日曜23時台開始だったものが、1990年4月から月曜0時台（日曜24時台）開始となり、放送時間が繰り下がる傾向はあるものの、放送開始当初から日曜版の[夜ニュース](https://ja.wikipedia.org/wiki/日本テレビ系列深夜ニュース枠 "wikilink")（[NNNきょうの出来事](https://ja.wikipedia.org/wiki/NNNきょうの出来事 "wikilink")→[NNNニュース](../Page/NNNニュース.md "wikilink")→[Going\!Sports\&News](https://ja.wikipedia.org/wiki/Going!Sports&News "wikilink")）の次の枠で放送されている。
 
 本番組のネット局は当初[読売テレビのみだったが](../Page/讀賣テレビ放送.md "wikilink")\[3\]、徐々にネット局が増え現在ではNNN加盟30局のうち[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")を除く29局に加え、NNNに加盟していない[沖縄テレビを含む全](../Page/沖縄テレビ放送.md "wikilink")30局で放送されている。番組当初は番組タイトルに「NNN」は入っていなかったが\[4\]、[1974年](../Page/1974年.md "wikilink")4月よりNNNネットワークの共同制作番組となったのを機にタイトルに「NNN」が入るようになった\[5\]。ただし、沖縄テレビはNNN非加盟を考慮し「NNN」のクレジットは外されており、CM終了後の画面で、NNNクレジットが見えないように独自で隠している。[スポンサー](../Page/スポンサー.md "wikilink")については、各局個別である。
 
@@ -15,9 +15,9 @@
 
 放送テーマは[平和](../Page/平和.md "wikilink")・[福祉](../Page/福祉.md "wikilink")・[環境](../Page/環境.md "wikilink")・[教育](../Page/教育.md "wikilink")・[雇用](../Page/雇用.md "wikilink")など。7・8月には[広島テレビ制作の](../Page/広島テレビ放送.md "wikilink")[原爆症](../Page/原爆症.md "wikilink")問題など、[太平洋戦争](https://ja.wikipedia.org/wiki/太平洋戦争 "wikilink")を扱った企画が放送される傾向にある。2011年3月の[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")や[福島第一原子力発電所事故](https://ja.wikipedia.org/wiki/福島第一原子力発電所事故 "wikilink")以後、これらの話題を取り上げる場合は「3・11大震災シリーズ」のサブタイトルが付くようになった（ただし付かない場合もある）。ローカルなテーマでも全国ネットで放送されることもあり、競争率は高く、年間50本程度放送する枠に対し、数百本という企画がNNN各社から日本テレビに上がってくるため、別名「甲子園」とも呼ばれている\[7\]。なお、内容の一部を再編集したものが[夕方のニュース番組などでも特集されることがある](../Page/日本テレビ系列夕方ニュース枠.md "wikilink")。
 
-[ギャラクシー賞](../Page/ギャラクシー賞.md "wikilink")、[文化庁芸術祭大賞](../Page/芸術祭_\(文化庁\).md "wikilink")、[日本民間放送連盟賞](https://ja.wikipedia.org/wiki/日本民間放送連盟賞 "wikilink")最優秀賞、[放送文化基金](https://ja.wikipedia.org/wiki/放送文化基金 "wikilink")賞などを受賞している他、[エミー賞](https://ja.wikipedia.org/wiki/エミー賞 "wikilink")国際賞を日本の番組で初受賞している（1975年6月29日放送、日本テレビ制作『明日をつかめ\!貴くん〜4745日の記録』）。
+[ギャラクシー賞](../Page/ギャラクシー賞.md "wikilink")、[文化庁芸術祭大賞](../Page/芸術祭_\(文化庁\).md "wikilink")、[日本民間放送連盟賞](https://ja.wikipedia.org/wiki/日本民間放送連盟賞 "wikilink")最優秀賞、[放送文化基金](https://ja.wikipedia.org/wiki/放送文化基金 "wikilink")賞などを受賞している他、[エミー賞](../Page/エミー賞.md "wikilink")国際賞を日本の番組で初受賞している（1975年6月29日放送、日本テレビ制作『明日をつかめ\!貴くん〜4745日の記録』）。
 
-[ナレーションは基本的に](https://ja.wikipedia.org/wiki/ナレーター "wikilink")[声優](../Page/声優.md "wikilink")や[タレント](../Page/タレント.md "wikilink")が行っているが、制作局のアナウンサーや解説委員もナレーションを務めることがある（特に読売テレビ・[札幌テレビ制作分にこの傾向があり](https://ja.wikipedia.org/wiki/札幌テレビ放送 "wikilink")、日本テレビや[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")でも稀にある）。また取り上げた題材が個人に関わる場合、ごく稀に本人自身が担当する場合もある。
+[ナレーションは基本的に](https://ja.wikipedia.org/wiki/ナレーター "wikilink")[声優](../Page/声優.md "wikilink")や[タレント](../Page/タレント.md "wikilink")が行っているが、制作局のアナウンサーや解説委員もナレーションを務めることがある（特に読売テレビ・[札幌テレビ制作分にこの傾向があり](../Page/札幌テレビ放送.md "wikilink")、日本テレビや[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")でも稀にある）。また取り上げた題材が個人に関わる場合、ごく稀に本人自身が担当する場合もある。
 
 1990年3月以前は日曜日の23時55分からの放送であったが、同年4月からは日曜の内に放送開始とはならず、月曜0時開始となった。前述の通り、[バラエティ](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")・[スポーツニュース](https://ja.wikipedia.org/wiki/スポーツニュース "wikilink")番組枠の増大などもあり、現在は月曜0時55分（日曜日深夜）からの放送\[8\]となっている。放送時間帯の件についてはNNNのキー局である、日本テレビ側でも[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")1月の定例[記者会見](https://ja.wikipedia.org/wiki/プレスリリース#記者会見 "wikilink")（[1月25日](../Page/1月25日.md "wikilink")）の中で、番組40周年を取り上げた際に、放送曜日と時間帯の変更も示唆していたが\[9\]、現時点で枠移動されることなく、従前通りの時間帯での放送を継続している。
 
@@ -59,7 +59,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/札幌テレビ放送" title="wikilink">札幌テレビ</a>（STV）</p></td>
+<td><p><a href="../Page/札幌テレビ放送.md" title="wikilink">札幌テレビ</a>（STV）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -175,7 +175,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/東海3県" title="wikilink">中京広域圏</a></p></td>
+<td><p><a href="../Page/東海3県.md" title="wikilink">中京広域圏</a></p></td>
 <td><p><a href="../Page/中京テレビ放送.md" title="wikilink">中京テレビ</a>（CTV）</p></td>
 <td><p>日本テレビ系列</p></td>
 <td><p>1973年4月1日開始。<br />
@@ -251,7 +251,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/福岡放送.md" title="wikilink">福岡放送</a>（FBS）</p></td>
 <td><p><a href="../Page/佐賀県.md" title="wikilink">佐賀県</a>も取材対象。<br />
 1990年10月7日から1991年3月31日まで<br />
@@ -381,12 +381,12 @@
 ## 関連項目
 
   - [目撃\!日本列島→目撃\!にっぽん](https://ja.wikipedia.org/wiki/目撃!にっぽん "wikilink")（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")）
-  - [テレメンタリー](https://ja.wikipedia.org/wiki/テレメンタリー "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")、[ANN](../Page/オールニッポン・ニュースネットワーク.md "wikilink")）
+  - [テレメンタリー](../Page/テレメンタリー.md "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")、[ANN](../Page/オールニッポン・ニュースネットワーク.md "wikilink")）
   - [報道の魂 ザ・フォーカス](https://ja.wikipedia.org/wiki/報道の魂 "wikilink")・JNNルポルタージュ→JNNドキュメンタリー（[TBSテレビ](../Page/TBSテレビ.md "wikilink")、[JNN](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")）
   - [映像](https://ja.wikipedia.org/wiki/映像_\(テレビ番組\) "wikilink")（[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")）
   - [窓をあけて九州 窓をあけて九州](../Page/窓をあけて九州.md "wikilink")→新・[世界一の九州が始まる\!](https://ja.wikipedia.org/wiki/世界一の九州が始まる! "wikilink")（[e-JNN](https://ja.wikipedia.org/wiki/e-JNN "wikilink")）
   - [FNSドキュメンタリー大賞](../Page/FNSドキュメンタリー大賞.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、[FNN](../Page/フジニュースネットワーク.md "wikilink")・[FNS](../Page/フジネットワーク.md "wikilink")）
-  - [ザ・ノンフィクション](https://ja.wikipedia.org/wiki/ザ・ノンフィクション "wikilink")（フジテレビ）
+  - [ザ・ノンフィクション](../Page/ザ・ノンフィクション.md "wikilink")（フジテレビ）
   - [ザ・ドキュメント](../Page/ザ・ドキュメント.md "wikilink")（[関西テレビ](../Page/関西テレビ放送.md "wikilink")）
   - [日本のチカラ](https://ja.wikipedia.org/wiki/日本のチカラ "wikilink")（[民間放送教育協会](../Page/民間放送教育協会.md "wikilink")）
   - [アフリカン・シンフォニー](https://ja.wikipedia.org/wiki/アフリカン・シンフォニー "wikilink")（番組テーマ曲として使用歴あり）

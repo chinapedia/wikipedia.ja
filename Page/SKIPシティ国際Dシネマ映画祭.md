@@ -1,13 +1,13 @@
 > この記事は[SKIPD](https://ja.wikipedia.org/wiki/SKIPD)から翻訳されています。
 
 
-**SKIPシティ国際Dシネマ映画祭**（スキップシティこくさいディーシネマえいがさい、英称 SKIP CITY INTERNATIONAL D-Cinema FESTIVAL、略称 SKIP CITY IDCF）は、[川口市](https://ja.wikipedia.org/wiki/川口市 "wikilink")の[SKIPシティ](https://ja.wikipedia.org/wiki/SKIPシティ "wikilink")で行われる[映画祭](../Page/映画祭.md "wikilink")である。
+**SKIPシティ国際Dシネマ映画祭**（スキップシティこくさいディーシネマえいがさい、英称 SKIP CITY INTERNATIONAL D-Cinema FESTIVAL、略称 SKIP CITY IDCF）は、[川口市](https://ja.wikipedia.org/wiki/川口市 "wikilink")の[SKIPシティ](../Page/SKIPシティ.md "wikilink")で行われる[映画祭](../Page/映画祭.md "wikilink")である。
 
 次世代映像産業の発展と集積、映像クリエーターの発掘と育成を目指し、2003年2月にSKIPシティが創設されたされた。その事業目的に沿って[2004年](../Page/2004年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に第1回の映画祭が開催され、第2回以降は毎年[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")に開催されている。ただし、[2011年](../Page/2011年.md "wikilink")は [東日本大震災による電力危機](https://ja.wikipedia.org/wiki/東日本大震災による電力危機 "wikilink")などを考慮して10月に開催時期が変更された。
 
-「Dシネマ」とは[デジタルシネマ](https://ja.wikipedia.org/wiki/デジタルシネマ "wikilink")のことをいう。本映画祭では、[デジタルで撮影](../Page/デジタル式映画撮影.md "wikilink")・[編集され](../Page/映像編集.md "wikilink")、デジタルで上映可能な作品を国内外より広く公募し、長編部門（国際コンペティション）・短編部門（国内コンペティション）においてノミネート作品を上映している。出品される作品はすべてデジタルシネマであり、[4Kデジタルシネマ](https://ja.wikipedia.org/wiki/4Kデジタルシネマ "wikilink")[プロジェクタ](../Page/プロジェクタ.md "wikilink")ーによる上映を行う。
+「Dシネマ」とは[デジタルシネマ](../Page/デジタルシネマ.md "wikilink")のことをいう。本映画祭では、[デジタルで撮影](../Page/デジタル式映画撮影.md "wikilink")・[編集され](../Page/映像編集.md "wikilink")、デジタルで上映可能な作品を国内外より広く公募し、長編部門（国際コンペティション）・短編部門（国内コンペティション）においてノミネート作品を上映している。出品される作品はすべてデジタルシネマであり、[4Kデジタルシネマ](https://ja.wikipedia.org/wiki/4Kデジタルシネマ "wikilink")[プロジェクタ](../Page/プロジェクタ.md "wikilink")ーによる上映を行う。
 
-2010年から[樽](https://ja.wikipedia.org/wiki/樽 "wikilink")の形をした[マスコット](https://ja.wikipedia.org/wiki/マスコット "wikilink")キャラクター「デジたるくん」が登場している。
+2010年から[樽](../Page/樽.md "wikilink")の形をした[マスコット](../Page/マスコット.md "wikilink")キャラクター「デジたるくん」が登場している。
 
 ## プログラム
 
@@ -241,7 +241,7 @@
 
 :\*奨励賞
 
-:\*\*『家族デッキ』（監督：[村田朋泰](https://ja.wikipedia.org/wiki/村田朋泰 "wikilink")）
+:\*\*『家族デッキ』（監督：[村田朋泰](../Page/村田朋泰.md "wikilink")）
 
 :\*\*『ゴリラの嘘』（監督：[草刈勲](https://ja.wikipedia.org/wiki/草刈勲 "wikilink")）
 
@@ -259,7 +259,7 @@
 
 :\*審査員特別賞 - [『シンプル・シモン』](http://simon-movie.jp/)（監督：[アンドレアス・エーマン](https://ja.wikipedia.org/wiki/アンドレアス・エーマン "wikilink")）
 
-:\*SKIPシティアワード - 『DON'T STOP\!』（監督：[小橋賢児](https://ja.wikipedia.org/wiki/小橋賢児 "wikilink")）
+:\*SKIPシティアワード - 『DON'T STOP\!』（監督：[小橋賢児](../Page/小橋賢児.md "wikilink")）
 
   -
 
@@ -501,7 +501,7 @@
 
   - 国内コンペティション部門
 
-:\*優秀作品賞（長編部門） - 壷井濯「[サクリファイス](https://ja.wikipedia.org/wiki/サクリファイス_\(2020年の映画\) "wikilink")」
+:\*優秀作品賞（長編部門） - 壷井濯「[サクリファイス](../Page/サクリファイス_\(2020年の映画\).md "wikilink")」
 
 :\*優秀作品賞（短編部門） - 宇津野達哉「遠い光」
 

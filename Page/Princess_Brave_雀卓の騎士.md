@@ -41,7 +41,7 @@
 
   - 本城理人 （ほんじょう あやひと） -声優：[杏露花梨](https://ja.wikipedia.org/wiki/杏露花梨 "wikilink")
     主人公。黒理人に呪いをかけられ犬にされてしまう。
-  - 嘉島聖 （かしま きよみ） -声優：[田中美智](https://ja.wikipedia.org/wiki/田中美智 "wikilink")
+  - 嘉島聖 （かしま きよみ） -声優：[田中美智](../Page/田中美智.md "wikilink")
     昔は幼なじみということもあり優勢であったが、最近は押され気味。
   - 姫史愛生 （きし あいみ） - 声優：[佐々木あかり](https://ja.wikipedia.org/wiki/佐々木あかり "wikilink")
     葛城佳央 （かつらぎ かお） - 声優：[涼森ちさと](../Page/涼森ちさと.md "wikilink")

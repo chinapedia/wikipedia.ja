@@ -8,13 +8,13 @@
   - Red Pointの略称。クライミングの完登基準のひとつで、2回目以後のトライで完登すること。
   - [ポーランド共和国](https://ja.wikipedia.org/wiki/ポーランド共和国 "wikilink") ()
   - [ラヂオプレス](../Page/ラヂオプレス.md "wikilink") () - 日本の通信社
-  - [容認発音](../Page/容認発音.md "wikilink") () - [イギリス英語](https://ja.wikipedia.org/wiki/イギリス英語 "wikilink")の標準語
+  - [容認発音](../Page/容認発音.md "wikilink") () - [イギリス英語](../Page/イギリス英語.md "wikilink")の標準語
   - [赤紫](https://ja.wikipedia.org/wiki/赤紫 "wikilink") ()
-  - [ラピッドプロトタイピング](https://ja.wikipedia.org/wiki/ラピッドプロトタイピング "wikilink") ()
+  - [ラピッドプロトタイピング](../Page/ラピッドプロトタイピング.md "wikilink") ()
   - [RP (計算複雑性理論)](../Page/RP_\(計算複雑性理論\).md "wikilink")
   - [日産ディーゼル・スペースランナーRP](../Page/日産ディーゼル・スペースランナーRP.md "wikilink") - [UDトラックス](https://ja.wikipedia.org/wiki/UDトラックス "wikilink")（旧:日産ディーゼル）のバス車両
-  - [役割演技](https://ja.wikipedia.org/wiki/役割演技 "wikilink") ()
-  - [NHK和歌山放送局](../Page/NHK和歌山放送局.md "wikilink")の[総合テレビ](../Page/NHK総合テレビジョン.md "wikilink")・[FM放送の](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink")[コールサイン](https://ja.wikipedia.org/wiki/コールサイン "wikilink") (JORP-DTV/-FM)
+  - [役割演技](../Page/役割演技.md "wikilink") ()
+  - [NHK和歌山放送局](../Page/NHK和歌山放送局.md "wikilink")の[総合テレビ](../Page/NHK総合テレビジョン.md "wikilink")・[FM放送の](../Page/NHK-FM放送.md "wikilink")[コールサイン](https://ja.wikipedia.org/wiki/コールサイン "wikilink") (JORP-DTV/-FM)
   - [ラインラント＝プファルツ州](../Page/ラインラント＝プファルツ州.md "wikilink") () の[ドイツ州コード](https://ja.wikipedia.org/wiki/ISO_3166-2:DE "wikilink")
   - [網膜色素変性症](../Page/網膜色素変性症.md "wikilink") ()
   - [シャトーカ航空](https://ja.wikipedia.org/wiki/シャトーカ航空 "wikilink") () の[IATA航空会社コード](https://ja.wikipedia.org/wiki/IATA航空会社コード "wikilink")

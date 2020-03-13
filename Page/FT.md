@@ -7,17 +7,17 @@
 
   - [フーリエ変換](../Page/フーリエ変換.md "wikilink") () - 周波数解析法
   - [フォールトトレランス](https://ja.wikipedia.org/wiki/フォールトトレランス "wikilink") () - 信頼性設計技術
-  - [フィッシャー・トロプシュ法](../Page/フィッシャー・トロプシュ法.md "wikilink") () - FT合成・FT反応・FT合成反応。[合成ガス](https://ja.wikipedia.org/wiki/合成ガス "wikilink")から[アルカン](https://ja.wikipedia.org/wiki/アルカン "wikilink")を合成する反応。
+  - [フィッシャー・トロプシュ法](../Page/フィッシャー・トロプシュ法.md "wikilink") () - FT合成・FT反応・FT合成反応。[合成ガス](../Page/合成ガス.md "wikilink")から[アルカン](https://ja.wikipedia.org/wiki/アルカン "wikilink")を合成する反応。
   - [ファンタジー](../Page/ファンタジー.md "wikilink") ()
   - [フリータイム](../Page/フリータイム.md "wikilink") () - 貿易用語
   - [フィッショントラック法](../Page/フィッショントラック法.md "wikilink") () - 放射性年代測定法
   - 商品名・作品名・社名等
       - [フィナンシャル・タイムズ](../Page/フィナンシャル・タイムズ.md "wikilink") () - イギリスの日刊紙
       - [フォレックス・トレード](https://ja.wikipedia.org/wiki/フォレックス・トレード "wikilink") () - 日本のFX会社
-      - [フォーミュラ・トヨタ](https://ja.wikipedia.org/wiki/フォーミュラ・トヨタ "wikilink") () - トヨタ自動車が主催する自動車レース
+      - [フォーミュラ・トヨタ](../Page/フォーミュラ・トヨタ.md "wikilink") () - トヨタ自動車が主催する自動車レース
       - [フォーバルテレコム](../Page/フォーバルテレコム.md "wikilink") () - 日本の通信会社。IP電話「[FTフォン](https://ja.wikipedia.org/wiki/FTフォン "wikilink")」を運営。
       - [FT (店舗ブランド)](https://ja.wikipedia.org/wiki/FT_\(店舗ブランド\) "wikilink") - [イオンリテール](https://ja.wikipedia.org/wiki/イオンリテール "wikilink")が運営する商業施設。
-      - [FAIRY TAIL](../Page/FAIRY_TAIL.md "wikilink") - [真島ヒロ](https://ja.wikipedia.org/wiki/真島ヒロ "wikilink")の漫画
+      - [FAIRY TAIL](../Page/FAIRY_TAIL.md "wikilink") - [真島ヒロ](../Page/真島ヒロ.md "wikilink")の漫画
   - マーケティング用語で、12歳～19歳の女性
   - [フィールドテスト](https://ja.wikipedia.org/wiki/フィールドテスト "wikilink")、現地試験 ()
   - [機能試験](https://ja.wikipedia.org/wiki/機能試験 "wikilink") ()
@@ -36,7 +36,7 @@
 ## ft
 
   - [フィート](../Page/フィート.md "wikilink") () - 長さの単位
-  - [フィーチャリング](https://ja.wikipedia.org/wiki/フィーチャリング "wikilink") ()
+  - [フィーチャリング](../Page/フィーチャリング.md "wikilink") ()
 
 ## F/T
 

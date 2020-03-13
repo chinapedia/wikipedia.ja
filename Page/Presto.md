@@ -11,7 +11,7 @@ Prestoエンジンはバージョン4〜6で使用されていた[Elektra](https
 
 その後のリリースで[ECMAScript](../Page/ECMAScript.md "wikilink") ([JavaScript](../Page/JavaScript.md "wikilink")) エンジンの処理速度向上のためたびたびバグフィックスと最適化が行われた。
 
-[2013年](../Page/2013年.md "wikilink")[2月12日](../Page/2月12日.md "wikilink")にオペラ・ソフトウェアはPrestoエンジンの開発を終了すると発表した\[1\]。Opera 14 は [WebKit](https://ja.wikipedia.org/wiki/WebKit "wikilink")、Opera 15以降は [Google](../Page/Google.md "wikilink") が主体となって開発を進めている [Blink](https://ja.wikipedia.org/wiki/Blink_\(レンダリングエンジン\) "wikilink") に切り替え、開発支援に携わっていくとした。
+[2013年](../Page/2013年.md "wikilink")[2月12日](../Page/2月12日.md "wikilink")にオペラ・ソフトウェアはPrestoエンジンの開発を終了すると発表した\[1\]。Opera 14 は [WebKit](../Page/WebKit.md "wikilink")、Opera 15以降は [Google](../Page/Google.md "wikilink") が主体となって開発を進めている [Blink](https://ja.wikipedia.org/wiki/Blink_\(レンダリングエンジン\) "wikilink") に切り替え、開発支援に携わっていくとした。
 
 ## バージョン
 
@@ -225,7 +225,7 @@ Mobile</a></p></th>
 
 ### Webオーサリングツール
 
-  - [Macromedia Dreamweaver MX](https://ja.wikipedia.org/wiki/Adobe_Dreamweaver "wikilink")
+  - [Macromedia Dreamweaver MX](../Page/Adobe_Dreamweaver.md "wikilink")
   - [Adobe Creative Suite 2](https://ja.wikipedia.org/wiki/Adobe_Creative_Suite#Creative_Suite_2 "wikilink")
 
 ## 参照

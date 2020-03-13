@@ -14,7 +14,7 @@ song+nation featuring globe名義で同年[3月6日](https://ja.wikipedia.org/wi
 1.  **Many Classic Moments (Original Mix)**
       -
         作詞：[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")・[MARC](../Page/マーク・パンサー.md "wikilink") / 作曲・編曲：小室哲哉
-        [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系「[倫敦音楽館 Lon-mu](https://ja.wikipedia.org/wiki/倫敦音楽館_Lon-mu "wikilink")」オープニング曲
+        [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系「[倫敦音楽館 Lon-mu](../Page/倫敦音楽館_Lon-mu.md "wikilink")」オープニング曲
 2.  **Many Classic Moments (Breakdown Mix)**
 3.  **Many Classic Moments (Instrumental)**
 

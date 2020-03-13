@@ -5,9 +5,9 @@
 
 ## 概要
 
-[フロントミッションシリーズ](../Page/フロントミッションシリーズ.md "wikilink")初の[PlayStation用ソフト](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")。前作がドット絵による2Dだったのに対し、本作ではマップ、ヴァンツァー、戦闘シーンなどがフルポリゴンによる3Dとなっている。正史のフロントミッションシリーズでは2作目となる（『[FRONT MISSION SERIES GUN HAZARD](https://ja.wikipedia.org/wiki/FRONT_MISSION_SERIES_GUN_HAZARD "wikilink")』を含めると3作目）。キャラクターデザインは[末弥純](../Page/末弥純.md "wikilink")が担当。
+[フロントミッションシリーズ](../Page/フロントミッションシリーズ.md "wikilink")初の[PlayStation用ソフト](../Page/PlayStation_\(ゲーム機\).md "wikilink")。前作がドット絵による2Dだったのに対し、本作ではマップ、ヴァンツァー、戦闘シーンなどがフルポリゴンによる3Dとなっている。正史のフロントミッションシリーズでは2作目となる（『[FRONT MISSION SERIES GUN HAZARD](../Page/FRONT_MISSION_SERIES_GUN_HAZARD.md "wikilink")』を含めると3作目）。キャラクターデザインは[末弥純](../Page/末弥純.md "wikilink")が担当。
 
-その後、[2003年](../Page/2003年.md "wikilink")に『[フロントミッション ヒストリー](https://ja.wikipedia.org/wiki/フロントミッション_ヒストリー "wikilink")』が発売、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に廉価版「[アルティメットヒッツ](https://ja.wikipedia.org/wiki/アルティメットヒッツ "wikilink")」として再発売された。これらは通常版とは異なり「簡略戦闘モード」が追加されたバージョンとなっている。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")には、[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")として配信が開始。内容は前述の2作品とほぼ同じバージョンだが、[PlayStation 3ではHDDに](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、[PlayStation Portableではメモリースティックにインストールして読み込む形式になったため](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")、本作の問題点であったCD-ROMからのロード時間（[\#長い読み込み時間](https://ja.wikipedia.org/wiki/#長い読み込み時間 "wikilink")を参照）は無くなり快適にプレイ出来るようになった。
+その後、[2003年](../Page/2003年.md "wikilink")に『[フロントミッション ヒストリー](../Page/フロントミッション_ヒストリー.md "wikilink")』が発売、[2006年](../Page/2006年.md "wikilink")に廉価版「[アルティメットヒッツ](../Page/アルティメットヒッツ.md "wikilink")」として再発売された。これらは通常版とは異なり「簡略戦闘モード」が追加されたバージョンとなっている。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")には、[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")として配信が開始。内容は前述の2作品とほぼ同じバージョンだが、[PlayStation 3ではHDDに](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、[PlayStation Portableではメモリースティックにインストールして読み込む形式になったため](../Page/PlayStation_Portable.md "wikilink")、本作の問題点であったCD-ROMからのロード時間（[\#長い読み込み時間](https://ja.wikipedia.org/wiki/#長い読み込み時間 "wikilink")を参照）は無くなり快適にプレイ出来るようになった。
 
 キャッチコピーは「**最前線、ふたたび炎上す。**」。
 
@@ -31,7 +31,7 @@
 
 読み込み時間と合わせてゲーム進行のストレスとなったのが、ミサイルやロケットなどの肩に装備して使う遠距離攻撃装備の低い命中精度である。前作では主力火器として多用された遠距離攻撃装備だったが、今作では個よりも集団による戦闘を意識したことで全体的に難易度が引き上げられ、その一環として遠距離攻撃の弱体化が図られた。 例えば、今作から追加された機動力(Mobile）による命中補正の恩恵を遠距離攻撃だけ受けられないことでミスする機会が増え、経験値が入りにくくなっている。しかし、実際には遠距離武器の中では一番命中精度が高いミサイルですら一発も当たらないまま使い切ってしまうこともざらにあり、遠距離攻撃能力の育成や遠距離系スキルの入手をより困難なものにしてしまった。
 
-結果的に遠距離能力を育てたいプレイヤーはセーブ＆ロードを繰り返す度に長い読み込み時間に耐えなければならなくなり、「2のミサイルはお飾り」とファンの不評を買った。後に出た『[FRONT MISSION ALTERNATIVE](https://ja.wikipedia.org/wiki/FRONT_MISSION_ALTERNATIVE "wikilink")』や『FRONT MISSION3』ではこの点は改善されている。
+結果的に遠距離能力を育てたいプレイヤーはセーブ＆ロードを繰り返す度に長い読み込み時間に耐えなければならなくなり、「2のミサイルはお飾り」とファンの不評を買った。後に出た『[FRONT MISSION ALTERNATIVE](../Page/FRONT_MISSION_ALTERNATIVE.md "wikilink")』や『FRONT MISSION3』ではこの点は改善されている。
 
 ## ゲームの特徴・システム
 
@@ -62,7 +62,7 @@
   - 武器の種類・特性
     前述の対空専用武器である対空ミサイル・対空ロケット、格闘武器のナックル、肩に装備するタイプのマシンガンやキャノン砲、武器を内蔵したボディパーツ、遠距離兵器（ミサイルランチャー等）を内蔵した腕パーツが登場。
     格闘武器の攻撃力・命中率は、腕パーツに備えている格闘機構ハードブロウの攻撃力・命中率に上乗せされるようになった。
-    前作では単発武器（50×1のように、一つのパーツに一回で大ダメージを与える）として登場した[ショットガン](https://ja.wikipedia.org/wiki/ショットガン "wikilink")と[火炎放射器](https://ja.wikipedia.org/wiki/火炎放射器 "wikilink")は、本作から連発武器（10×5のように、小ダメージを複数回与える。一回で複数のパーツにダメージを与えることも可能）として扱われるようになった。
+    前作では単発武器（50×1のように、一つのパーツに一回で大ダメージを与える）として登場した[ショットガン](https://ja.wikipedia.org/wiki/ショットガン "wikilink")と[火炎放射器](../Page/火炎放射器.md "wikilink")は、本作から連発武器（10×5のように、小ダメージを複数回与える。一回で複数のパーツにダメージを与えることも可能）として扱われるようになった。
   - ステータス異常
     本作から、以下のステータス異常が登場した。
       - 混乱
@@ -85,13 +85,13 @@
 ## その他
 
   - 隠し要素のひとつ「[嫌なヴァンツァー](https://ja.wikipedia.org/wiki/シュネッケ#嫌なヴァンツァー "wikilink")」と対空ミサイル「おたけさん」は「フロントミッションシリーズ」のファンでもある[吉田戦車](https://ja.wikipedia.org/wiki/吉田戦車 "wikilink")が自身の4コママンガ「ゴッドボンボン」に描いたものが元になっている。なお、嫌なヴァンツァーは、『[ファミ通](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』連載の吉田の4コママンガ「俺ボンボン」にも登場している。
-  - 『[FRONT MISSION ALTERNATIVE](https://ja.wikipedia.org/wiki/FRONT_MISSION_ALTERNATIVE "wikilink")』同様、本作のアロルデシュの軍事蜂起描写に対し、[バングラデシュ](../Page/バングラデシュ.md "wikilink")から抗議が行われた逸話が残されている。
+  - 『[FRONT MISSION ALTERNATIVE](../Page/FRONT_MISSION_ALTERNATIVE.md "wikilink")』同様、本作のアロルデシュの軍事蜂起描写に対し、[バングラデシュ](../Page/バングラデシュ.md "wikilink")から抗議が行われた逸話が残されている。
 
 ## 関連項目
 
   - [末弥純](../Page/末弥純.md "wikilink")
   - [吉田戦車](https://ja.wikipedia.org/wiki/吉田戦車 "wikilink")
-  - [アルティメットヒッツ](https://ja.wikipedia.org/wiki/アルティメットヒッツ "wikilink")
+  - [アルティメットヒッツ](../Page/アルティメットヒッツ.md "wikilink")
 
 ## 外部リンク
 

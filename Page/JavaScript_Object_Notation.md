@@ -1,15 +1,15 @@
 > この記事は[JavaScript Object Notation](https://ja.wikipedia.org/wiki/JavaScript_Object_Notation)から翻訳されています。
 
 
-**JavaScript Object Notation**（**JSON**、ジェイソン）は軽量な[データ記述言語](https://ja.wikipedia.org/wiki/データ記述言語 "wikilink")の1つである。構文は[JavaScript](../Page/JavaScript.md "wikilink")におけるオブジェクトの表記法をベースとしているが、JSONはJavaScript専用のデータ形式では決してなく、様々なソフトウェアやプログラミング言語間におけるデータの受け渡しに使えるよう設計されている。
+**JavaScript Object Notation**（**JSON**、ジェイソン）は軽量な[データ記述言語](../Page/データ記述言語.md "wikilink")の1つである。構文は[JavaScript](../Page/JavaScript.md "wikilink")におけるオブジェクトの表記法をベースとしているが、JSONはJavaScript専用のデータ形式では決してなく、様々なソフトウェアやプログラミング言語間におけるデータの受け渡しに使えるよう設計されている。
 
 ## 特徴
 
-JSONは[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")などでよく使われているECMA-262, revision 3準拠のJavaScript\[1\] ([ECMAScript](../Page/ECMAScript.md "wikilink")) をベースとしている。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")にRFC 4627で仕様が規定され、その後、何度か改定され、[2017年](../Page/2017年.md "wikilink")[12月14日](../Page/12月14日.md "wikilink")\[2\]にIETF STD 90およびRFC 8259およびECMA-404 2nd editionが発表された。[MIMEタイプは](https://ja.wikipedia.org/wiki/メディアタイプ "wikilink") `application/json`、[拡張子](../Page/拡張子.md "wikilink")はjsonとされた。
+JSONは[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")などでよく使われているECMA-262, revision 3準拠のJavaScript\[1\] ([ECMAScript](../Page/ECMAScript.md "wikilink")) をベースとしている。[2006年](../Page/2006年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")にRFC 4627で仕様が規定され、その後、何度か改定され、[2017年](../Page/2017年.md "wikilink")[12月14日](../Page/12月14日.md "wikilink")\[2\]にIETF STD 90およびRFC 8259およびECMA-404 2nd editionが発表された。[MIMEタイプは](https://ja.wikipedia.org/wiki/メディアタイプ "wikilink") `application/json`、[拡張子](../Page/拡張子.md "wikilink")はjsonとされた。
 
 IETFおよびECMAの仕様の改定の歴史
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink") - RFC 4627
+  - [2006年](../Page/2006年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink") - RFC 4627
   - [2013年](../Page/2013年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - RFC 7158
   - [2013年](../Page/2013年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - [ECMA-404 1st edition](http://www.ecma-international.org/publications/standards/Ecma-404-arch.htm)
   - [2014年](../Page/2014年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - RFC 7159
@@ -19,7 +19,7 @@ JSONはJavaScriptにおけるオブジェクト表記法のサブセットであ
 
 JSONは単純であるので、特に[Ajax](https://ja.wikipedia.org/wiki/Ajax "wikilink")の分野で利用が広がりつつある。JavaScriptでJSONをパースして読み込むには、文字列をJavaScriptのコードとして解釈させる [`eval`](https://ja.wikipedia.org/wiki/eval "wikilink") 関数を作用させるだけでよい（ただし、セキュリティ上の問題があるうえ、U+2028 LINE SEPARATOR と U+2029 PARAGRAPH SEPARATOR の扱いがJavaScriptと互換性が無いため、JSON専用のパース関数の `JSON.parse()` を利用するべきである）。このように、広く普及しているウェブブラウザ搭載言語であるJavaScriptで簡単に読み込めるため、Ajaxの開発者達から注目を浴びることになった。
 
-JavaScript言語以外でも、ほとんどの言語においてJSONは単純な処理で書き出しや読み込みができる。また、実装されたプログラミング言語数は[YAML](../Page/YAML.md "wikilink")より多いと言われる。そのため、JSONは異なる[プログラミング言語](../Page/プログラミング言語.md "wikilink")の間でのデータの受渡しには能率的である。[ウェブアプリケーション](https://ja.wikipedia.org/wiki/ウェブアプリケーション "wikilink")の場合において、ウェブ[クライアントでのJavaScriptとのデータの受渡しなどはその最たる活用例と言える](../Page/クライアント_\(コンピュータ\).md "wikilink")。[プロセス間通信](../Page/プロセス間通信.md "wikilink")、マシン間通信においても、[疎結合にするため](https://ja.wikipedia.org/wiki/結合度 "wikilink")、JSONで情報を受け渡しすることもある。
+JavaScript言語以外でも、ほとんどの言語においてJSONは単純な処理で書き出しや読み込みができる。また、実装されたプログラミング言語数は[YAML](../Page/YAML.md "wikilink")より多いと言われる。そのため、JSONは異なる[プログラミング言語](../Page/プログラミング言語.md "wikilink")の間でのデータの受渡しには能率的である。[ウェブアプリケーション](https://ja.wikipedia.org/wiki/ウェブアプリケーション "wikilink")の場合において、ウェブ[クライアントでのJavaScriptとのデータの受渡しなどはその最たる活用例と言える](../Page/クライアント_\(コンピュータ\).md "wikilink")。[プロセス間通信](../Page/プロセス間通信.md "wikilink")、マシン間通信においても、[疎結合にするため](../Page/結合度.md "wikilink")、JSONで情報を受け渡しすることもある。
 
 ### JSONの発見
 
@@ -27,7 +27,7 @@ JavaScript言語以外でも、ほとんどの言語においてJSONは単純な
 
 ## 表記方法
 
-JSONで表現する[データ型](https://ja.wikipedia.org/wiki/データ型 "wikilink")は以下の通りで、これらを組み合わせてデータを記述する。`true`, `false`, `null` などは全て小文字でなくてはならない。
+JSONで表現する[データ型](../Page/データ型.md "wikilink")は以下の通りで、これらを組み合わせてデータを記述する。`true`, `false`, `null` などは全て小文字でなくてはならない。
 
   - 数値（[整数](../Page/整数.md "wikilink")、[浮動小数点数](../Page/浮動小数点数.md "wikilink")）
   - 文字列（バックスラッシュによるエスケープシーケンス記法を含む、ダブルクォーテーションでくくった文字列）
@@ -68,7 +68,7 @@ RFC 8259より、閉じられたエコシステムで利用する場合を除き
 
 ## AjaxにおけるJSONの利用
 
-[Ajax](https://ja.wikipedia.org/wiki/Ajax "wikilink")において[XMLHttpRequest](https://ja.wikipedia.org/wiki/XMLHttpRequest "wikilink")で非同期にJSONでのデータを受け取る例を示す：
+[Ajax](https://ja.wikipedia.org/wiki/Ajax "wikilink")において[XMLHttpRequest](../Page/XMLHttpRequest.md "wikilink")で非同期にJSONでのデータを受け取る例を示す：
 
 ### 古典的な例
 
@@ -107,7 +107,7 @@ http_request.addEventListener ( "load", function ( ev ) {
 http_request.send(null);
 ```
 
-ここでいずれも、`http_request` は[XMLHttpRequest](https://ja.wikipedia.org/wiki/XMLHttpRequest "wikilink")オブジェクトであり、それを `url` にアクセスして返ってきたJSONで記述されたデータを `the_object` に格納される。いま、XMLHttpRequestを用いて実装をしたが、iframeなどの他の実装方法もある。また、[JavaScript](../Page/JavaScript.md "wikilink")[ライブラリ](../Page/ライブラリ.md "wikilink")の[prototype.js](https://ja.wikipedia.org/wiki/prototype.js "wikilink")では[HTTPの](../Page/Hypertext_Transfer_Protocol.md "wikilink") `X-JSON` ヘッダを利用して簡単にJSONデータの受渡しができる。
+ここでいずれも、`http_request` は[XMLHttpRequest](../Page/XMLHttpRequest.md "wikilink")オブジェクトであり、それを `url` にアクセスして返ってきたJSONで記述されたデータを `the_object` に格納される。いま、XMLHttpRequestを用いて実装をしたが、iframeなどの他の実装方法もある。また、[JavaScript](../Page/JavaScript.md "wikilink")[ライブラリ](../Page/ライブラリ.md "wikilink")の[prototype.js](https://ja.wikipedia.org/wiki/prototype.js "wikilink")では[HTTPの](../Page/Hypertext_Transfer_Protocol.md "wikilink") `X-JSON` ヘッダを利用して簡単にJSONデータの受渡しができる。
 
 ## 他のデータ記述法との関係
 
@@ -122,7 +122,7 @@ http_request.send(null);
 
 ## 実装
 
-JSONは多くの[プログラミング言語](../Page/プログラミング言語.md "wikilink")で利用可能である。例えば、[ActionScript](https://ja.wikipedia.org/wiki/ActionScript "wikilink"), [C](../Page/C言語.md "wikilink"), [C++](../Page/C++.md "wikilink"), [C\#](../Page/C_Sharp.md "wikilink"), [ColdFusion](../Page/ColdFusion.md "wikilink"), [Common Lisp](https://ja.wikipedia.org/wiki/Common_Lisp "wikilink"), [Curl](../Page/Curl_\(プログラミング言語\).md "wikilink"), [D言語](../Page/D言語.md "wikilink"), [Delphi](../Page/Delphi.md "wikilink"), [E](https://ja.wikipedia.org/wiki/E言語 "wikilink"), [Erlang](https://ja.wikipedia.org/wiki/Erlang "wikilink"), [Groovy](https://ja.wikipedia.org/wiki/Groovy "wikilink"), [Haskell](../Page/Haskell.md "wikilink"), [Java](https://ja.wikipedia.org/wiki/Java "wikilink"), [JavaScript](../Page/JavaScript.md "wikilink") ([ECMAScript](../Page/ECMAScript.md "wikilink")), [Lisp](https://ja.wikipedia.org/wiki/LISP "wikilink"), [Lua](../Page/Lua.md "wikilink"), [ML](https://ja.wikipedia.org/wiki/プログラミング言語ML "wikilink"), [Objective-C](../Page/Objective-C.md "wikilink"), [Objective CAML](../Page/OCaml.md "wikilink"), [Perl](../Page/Perl.md "wikilink"), [PHP](../Page/PHP_\(プログラミング言語\).md "wikilink"), [Python](../Page/Python.md "wikilink"), [R](https://ja.wikipedia.org/wiki/R言語 "wikilink"), [Rebol](https://ja.wikipedia.org/wiki/Rebol "wikilink"), [Ruby](../Page/Ruby.md "wikilink"), [Scala](../Page/Scala.md "wikilink"), [Squeak](../Page/Squeak.md "wikilink")など。
+JSONは多くの[プログラミング言語](../Page/プログラミング言語.md "wikilink")で利用可能である。例えば、[ActionScript](../Page/ActionScript.md "wikilink"), [C](../Page/C言語.md "wikilink"), [C++](../Page/C++.md "wikilink"), [C\#](../Page/C_Sharp.md "wikilink"), [ColdFusion](../Page/ColdFusion.md "wikilink"), [Common Lisp](../Page/Common_Lisp.md "wikilink"), [Curl](../Page/Curl_\(プログラミング言語\).md "wikilink"), [D言語](../Page/D言語.md "wikilink"), [Delphi](../Page/Delphi.md "wikilink"), [E](https://ja.wikipedia.org/wiki/E言語 "wikilink"), [Erlang](../Page/Erlang.md "wikilink"), [Groovy](../Page/Groovy.md "wikilink"), [Haskell](../Page/Haskell.md "wikilink"), [Java](https://ja.wikipedia.org/wiki/Java "wikilink"), [JavaScript](../Page/JavaScript.md "wikilink") ([ECMAScript](../Page/ECMAScript.md "wikilink")), [Lisp](https://ja.wikipedia.org/wiki/LISP "wikilink"), [Lua](../Page/Lua.md "wikilink"), [ML](https://ja.wikipedia.org/wiki/プログラミング言語ML "wikilink"), [Objective-C](../Page/Objective-C.md "wikilink"), [Objective CAML](../Page/OCaml.md "wikilink"), [Perl](../Page/Perl.md "wikilink"), [PHP](../Page/PHP_\(プログラミング言語\).md "wikilink"), [Python](../Page/Python.md "wikilink"), [R](../Page/R言語.md "wikilink"), [Rebol](https://ja.wikipedia.org/wiki/Rebol "wikilink"), [Ruby](../Page/Ruby.md "wikilink"), [Scala](../Page/Scala.md "wikilink"), [Squeak](../Page/Squeak.md "wikilink")など。
 
 ## 出典
 

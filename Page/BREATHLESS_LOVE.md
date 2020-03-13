@@ -5,7 +5,7 @@
 
 ## 概要
 
-  - [1988年](../Page/1988年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink")発売の[アルバム](../Page/アルバム.md "wikilink")『[FATHER'S SON](https://ja.wikipedia.org/wiki/FATHER'S_SON "wikilink")』からの[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")作品。
+  - [1988年](../Page/1988年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink")発売の[アルバム](../Page/アルバム.md "wikilink")『[FATHER'S SON](../Page/FATHER'S_SON.md "wikilink")』からの[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")作品。
 
 <!-- end list -->
 
@@ -17,7 +17,7 @@
 
 <!-- end list -->
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月24日](../Page/3月24日.md "wikilink")に、マキシシングルとして復刻された。
+  - [2005年](../Page/2005年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")に、マキシシングルとして復刻された。
 
 ## 収録曲
 
@@ -27,7 +27,7 @@
 
 1.  **BREATHLESS LOVE**
       -
-        編曲：[梁邦彦](https://ja.wikipedia.org/wiki/梁邦彦 "wikilink")
+        編曲：[梁邦彦](../Page/梁邦彦.md "wikilink")
 2.  **BLOOD LINE (Single Version)**
       -
         編曲：[町支寛二](../Page/町支寛二.md "wikilink")
@@ -37,7 +37,7 @@
 **BREATHLESS LOVE**
 
   - Written by [浜田省吾](https://ja.wikipedia.org/wiki/浜田省吾 "wikilink")
-  - Arranged by [梁邦彦](https://ja.wikipedia.org/wiki/梁邦彦 "wikilink")
+  - Arranged by [梁邦彦](../Page/梁邦彦.md "wikilink")
   - Chorus Arranged by [町支寛二](../Page/町支寛二.md "wikilink")
   - Drums：高橋伸之
   - Electric Bass：江澤宏明
@@ -45,7 +45,7 @@
   - Flat Mandolin & Acoustic Guitar：[笛吹利明](https://ja.wikipedia.org/wiki/笛吹利明 "wikilink")
   - Flute：[古村敏比古](../Page/古村敏比古.md "wikilink")
   - Accordion：風間文彦
-  - Percussion：[ペッカー](https://ja.wikipedia.org/wiki/橋田正人 "wikilink")
+  - Percussion：[ペッカー](../Page/橋田正人.md "wikilink")
   - Chorus：町支寛二
 
 **BLOOD LINE (Single Version)**

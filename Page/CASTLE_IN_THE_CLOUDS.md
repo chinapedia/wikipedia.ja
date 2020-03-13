@@ -5,15 +5,15 @@
 
 ## 内容
 
-[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")の[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")所属により、吉本のレコード会社[R\&C JAPANに移籍](https://ja.wikipedia.org/wiki/R&C_JAPAN "wikilink")。再びメジャーレーベルにてリリース。[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")にてベストテン内にランクインした。
+[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")の[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")所属により、吉本のレコード会社[R\&C JAPANに移籍](https://ja.wikipedia.org/wiki/R&C_JAPAN "wikilink")。再びメジャーレーベルにてリリース。[オリコンチャート](../Page/オリコンチャート.md "wikilink")にてベストテン内にランクインした。
 
-表題曲「CASTLE IN THE CLOUDS」は[日本テレビ開局](../Page/日本テレビ放送網.md "wikilink")50周年・吉本興業創業90周年プロジェクト「[Laugh\&Peace](https://ja.wikipedia.org/wiki/Laugh&Peace "wikilink") 笑いはニッポンを救う。」キャンペーンソング。同局のテレビ番組『[進ぬ\!電波少年](../Page/進ぬ!電波少年.md "wikilink")』に出演していた[お笑い芸人](https://ja.wikipedia.org/wiki/お笑い芸人 "wikilink")である[矢部太郎](../Page/矢部太郎.md "wikilink")の応援歌として作られたが、曲を聴いた日本テレビの[土屋敏男](https://ja.wikipedia.org/wiki/土屋敏男 "wikilink")編成部長から「詞が大げさ過ぎる」と指摘されたため加筆修正された。なお、修正前のバージョン「(YABE VERSION)」が蔵出し音源集『[キヲクトキロク 〜 Major Turn-Round](../Page/キヲクトキロク_〜_Major_Turn-Round.md "wikilink")』に収録されている。
+表題曲「CASTLE IN THE CLOUDS」は[日本テレビ開局](../Page/日本テレビ放送網.md "wikilink")50周年・吉本興業創業90周年プロジェクト「[Laugh\&Peace](../Page/Laugh&Peace.md "wikilink") 笑いはニッポンを救う。」キャンペーンソング。同局のテレビ番組『[進ぬ\!電波少年](../Page/進ぬ!電波少年.md "wikilink")』に出演していた[お笑い芸人](https://ja.wikipedia.org/wiki/お笑い芸人 "wikilink")である[矢部太郎](../Page/矢部太郎.md "wikilink")の応援歌として作られたが、曲を聴いた日本テレビの[土屋敏男](../Page/土屋敏男.md "wikilink")編成部長から「詞が大げさ過ぎる」と指摘されたため加筆修正された。なお、修正前のバージョン「(YABE VERSION)」が蔵出し音源集『[キヲクトキロク 〜 Major Turn-Round](../Page/キヲクトキロク_〜_Major_Turn-Round.md "wikilink")』に収録されている。
 
 土屋による事前のテーマのプレゼンが丁寧に行われたこともあり、ピアノの前に座ったら15分で軸となるメロディが完成した\[2\]。
 
-「[Happiness×3 Loneliness×3](../Page/Happiness×3_Loneliness×3.md "wikilink")」の[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")である「80's」に引き続き、「80年代テイスト」がテーマになっており、[アレンジャーに](../Page/編曲家.md "wikilink")[吉田建](https://ja.wikipedia.org/wiki/吉田建 "wikilink")を起用している。久々に生音のドラム・ベース・ギター・キーボードを軸にしたレコーディングが行われた\[3\]。
+「[Happiness×3 Loneliness×3](../Page/Happiness×3_Loneliness×3.md "wikilink")」の[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")である「80's」に引き続き、「80年代テイスト」がテーマになっており、[アレンジャーに](../Page/編曲家.md "wikilink")[吉田建](../Page/吉田建.md "wikilink")を起用している。久々に生音のドラム・ベース・ギター・キーボードを軸にしたレコーディングが行われた\[3\]。
 
-この曲の[MVには](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、吉本興業所属のお笑いグループである[森三中](../Page/森三中.md "wikilink")がTM NETWORKの3人に扮して登場していた。演出では、小室に扮する[大島美幸](https://ja.wikipedia.org/wiki/大島美幸 "wikilink")が[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")在住、宇都宮に扮する[村上知子](https://ja.wikipedia.org/wiki/村上知子 "wikilink")が[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")・[ロンドン](../Page/ロンドン.md "wikilink")在住、木根に扮する[黒沢かずこ](https://ja.wikipedia.org/wiki/黒沢かずこ "wikilink")が[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")・[祖師ヶ谷大蔵在住であり](../Page/祖師谷.md "wikilink")、離れ離れの3人が“TM再始動”の[メールで再集結するという内容となっている](../Page/電子メール.md "wikilink")。
+この曲の[MVには](../Page/ミュージック・ビデオ.md "wikilink")、吉本興業所属のお笑いグループである[森三中](../Page/森三中.md "wikilink")がTM NETWORKの3人に扮して登場していた。演出では、小室に扮する[大島美幸](https://ja.wikipedia.org/wiki/大島美幸 "wikilink")が[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")在住、宇都宮に扮する[村上知子](https://ja.wikipedia.org/wiki/村上知子 "wikilink")が[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")・[ロンドン](../Page/ロンドン.md "wikilink")在住、木根に扮する[黒沢かずこ](../Page/黒沢かずこ.md "wikilink")が[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")・[祖師ヶ谷大蔵在住であり](../Page/祖師谷.md "wikilink")、離れ離れの3人が“TM再始動”の[メールで再集結するという内容となっている](../Page/電子メール.md "wikilink")。
 
 カップリング曲の「君がいる朝」は、[木根尚登](https://ja.wikipedia.org/wiki/木根尚登 "wikilink")[作曲](../Page/作曲.md "wikilink")の[バラード](../Page/バラード.md "wikilink")。[コーラスに](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")[小室みつ子](../Page/小室みつ子.md "wikilink")が参加している。
 
@@ -22,7 +22,7 @@
 ## 収録曲
 
 1.  **CASTLE IN THE CLOUDS**
-      - 作詞：[小室みつ子](../Page/小室みつ子.md "wikilink")／作曲：[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")／編曲：小室哲哉、[吉田建](https://ja.wikipedia.org/wiki/吉田建 "wikilink")
+      - 作詞：[小室みつ子](../Page/小室みつ子.md "wikilink")／作曲：[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")／編曲：小室哲哉、[吉田建](../Page/吉田建.md "wikilink")
 2.  **君がいる朝**
       - 作詞：小室みつ子／作曲：[木根尚登](https://ja.wikipedia.org/wiki/木根尚登 "wikilink")／編曲：木根尚登、吉田建
 3.  **CASTLE IN THE CLOUDS(TK PIANO VERSION)**
@@ -42,7 +42,7 @@
 **君がいる朝**
 
   - NETWORK<sup>TM</sup> -Easy Listening- (ALBUM MIX)
-  - [Gift from Fanks T](https://ja.wikipedia.org/wiki/Gift_from_Fanks_T "wikilink")
+  - [Gift from Fanks T](../Page/Gift_from_Fanks_T.md "wikilink")
 
 ## 参加ミュージシャン
 

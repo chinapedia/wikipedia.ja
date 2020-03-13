@@ -1,14 +1,14 @@
 > この記事は[FLAT5th](https://ja.wikipedia.org/wiki/FLAT5th)から翻訳されています。
 
 
-**FLAT5th**（ふらっとふぃふす）は、2006年結成の[岡本弥紀](../Page/岡本弥紀.md "wikilink")とRicoからなる日本の音楽制作ユニット。 [AAAや](https://ja.wikipedia.org/wiki/AAA_\(音楽グループ\) "wikilink")[伊藤由奈](https://ja.wikipedia.org/wiki/伊藤由奈 "wikilink")、[柴咲コウ](https://ja.wikipedia.org/wiki/柴咲コウ "wikilink") 等のメジャーアーティストの作詞、作曲等を手がける。 2012年、Ricoはソロ活動に専念するためFLAT5thを脱退。
+**FLAT5th**（ふらっとふぃふす）は、2006年結成の[岡本弥紀](../Page/岡本弥紀.md "wikilink")とRicoからなる日本の音楽制作ユニット。 [AAAや](../Page/AAA_\(音楽グループ\).md "wikilink")[伊藤由奈](https://ja.wikipedia.org/wiki/伊藤由奈 "wikilink")、[柴咲コウ](https://ja.wikipedia.org/wiki/柴咲コウ "wikilink") 等のメジャーアーティストの作詞、作曲等を手がける。 2012年、Ricoはソロ活動に専念するためFLAT5thを脱退。
 
 ## メンバー
 
   - [岡本弥紀](../Page/岡本弥紀.md "wikilink") / FLAT5th 岡本弥紀
-      - [作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")、[作曲](../Page/作曲.md "wikilink")・[アレンジ](../Page/編曲.md "wikilink") などを担当。
+      - [作詞](../Page/作詞.md "wikilink")、[作曲](../Page/作曲.md "wikilink")・[アレンジ](../Page/編曲.md "wikilink") などを担当。
   - Rico / FLAT5th Rico
-      - [作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・[作曲](../Page/作曲.md "wikilink")・コーラス・コーラスアレンジなどを担当。
+      - [作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")・コーラス・コーラスアレンジなどを担当。
           - ボーカリストとしても多数の作品に参加。
 
 ## 概要
@@ -25,7 +25,7 @@
 
 #### アーティスト
 
-  - [AAA](https://ja.wikipedia.org/wiki/AAA_\(音楽グループ\) "wikilink")
+  - [AAA](../Page/AAA_\(音楽グループ\).md "wikilink")
       - 「[MIRAGE](../Page/MIRAGE_\(AAAの曲\).md "wikilink")」
           - 作詞：FLAT5th Rico
 
@@ -61,7 +61,7 @@
 
 <!-- end list -->
 
-  - [キグルミ](https://ja.wikipedia.org/wiki/キグルミ "wikilink")
+  - [キグルミ](../Page/キグルミ.md "wikilink")
       - 「ぽ、ぽろぽろり」
           - 作詞：FLAT5th Rico　
 
@@ -108,14 +108,14 @@
 
 #### アニメ・ゲーム・舞台
 
-  - 『[機動戦士ガンダムUC](https://ja.wikipedia.org/wiki/機動戦士ガンダムUC "wikilink")』
+  - 『[機動戦士ガンダムUC](../Page/機動戦士ガンダムUC.md "wikilink")』
       - 主題歌「B-Bird」 歌：[earthmind](https://ja.wikipedia.org/wiki/earthmind "wikilink")
           - 作詞、コーラス：FLAT5th Rico
 
 <!-- end list -->
 
   - 『[ネギま\!?](../Page/ネギま!?.md "wikilink")夏』
-      - OP「らぶ☆センセイション」 歌：[佐藤利奈](https://ja.wikipedia.org/wiki/佐藤利奈 "wikilink")、[神田朱未](https://ja.wikipedia.org/wiki/神田朱未 "wikilink")、[野中藍](../Page/野中藍.md "wikilink")
+      - OP「らぶ☆センセイション」 歌：[佐藤利奈](../Page/佐藤利奈.md "wikilink")、[神田朱未](../Page/神田朱未.md "wikilink")、[野中藍](../Page/野中藍.md "wikilink")
           - 作詞：FLAT5th Rico
       - ED「マジカルハピネス」 歌：[能登麻美子](https://ja.wikipedia.org/wiki/能登麻美子 "wikilink")
           - 作詞、コーラス：FLAT5th Rico
@@ -128,14 +128,14 @@
 
 <!-- end list -->
 
-  - 『[陸上防衛隊まおちゃん](https://ja.wikipedia.org/wiki/陸上防衛隊まおちゃん "wikilink")』
+  - 『[陸上防衛隊まおちゃん](../Page/陸上防衛隊まおちゃん.md "wikilink")』
       - 「ハートは無敵☆〜宇宙のマーチ〜」 歌：[こやまきみこ](../Page/こやまきみこ.md "wikilink")
           - 作詞：FLAT5th Rico
 
 <!-- end list -->
 
-  - 『[金色のコルダ](https://ja.wikipedia.org/wiki/金色のコルダ "wikilink")２』
-      - 「mermaid」 歌：加地葵/ [宮野真守](https://ja.wikipedia.org/wiki/宮野真守 "wikilink")
+  - 『[金色のコルダ](../Page/金色のコルダ.md "wikilink")２』
+      - 「mermaid」 歌：加地葵/ [宮野真守](../Page/宮野真守.md "wikilink")
           - 作曲：FLAT5th 岡本弥紀
 
 <!-- end list -->

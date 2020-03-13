@@ -19,7 +19,7 @@
 
 番組開始当時の文化放送は、『DONDON』に続けて、『[吉田照美のやる気MANMAN\!](../Page/吉田照美のやる気MANMAN!.md "wikilink")』（13:00 - 15:00）、『[いう気リンリン 那智チャコワイド](https://ja.wikipedia.org/wiki/いう気リンリン_那智チャコワイド "wikilink")』（15:00 - 17:00）を放送していた。つまり、当時の文化放送は11:00 - 17:00まで、「**○○気**」、および「DONDON」「MANMAN」「リンリン」という**繰り返し語**をタイトルに付けた、3つのワイド番組を連ねていたことになる。ちなみに『やるMAN』は『DONDON』よりも1年先に放送を開始している。
 
-なお、「繰り返し語」「気が付く」については、以上の3番組のほかに『[えのきどいちろう意気揚々](https://ja.wikipedia.org/wiki/えのきどいちろう意気揚々 "wikilink")』『[野村邦丸の気分はZUNZUN\!](https://ja.wikipedia.org/wiki/野村邦丸の気分はZUNZUN! "wikilink")』（『[那智](../Page/野沢那智.md "wikilink")[チャコワイド](../Page/白石冬美.md "wikilink")』の二代後の番組）があり、『DONDON』『やるMAN』を含めた繰り返し語、「気」付き4番組が、平日8:30 - 17:50に並ぶ時期（1999年4月 - 2000年3月）も存在した。
+なお、「繰り返し語」「気が付く」については、以上の3番組のほかに『[えのきどいちろう意気揚々](https://ja.wikipedia.org/wiki/えのきどいちろう意気揚々 "wikilink")』『[野村邦丸の気分はZUNZUN\!](../Page/野村邦丸の気分はZUNZUN!.md "wikilink")』（『[那智](../Page/野沢那智.md "wikilink")[チャコワイド](../Page/白石冬美.md "wikilink")』の二代後の番組）があり、『DONDON』『やるMAN』を含めた繰り返し語、「気」付き4番組が、平日8:30 - 17:50に並ぶ時期（1999年4月 - 2000年3月）も存在した。
 
 ## パーソナリティ
 
@@ -37,11 +37,11 @@
 
 他の番組で「[コメンテーター](../Page/コメンテーター.md "wikilink")」と称される出演者を、このように呼んでいた。
 
-  - 月曜日 - [早坂茂三](../Page/早坂茂三.md "wikilink")（評論家）→[胡桃沢耕史](../Page/胡桃沢耕史.md "wikilink")（作家）→[デーブ・スペクター](https://ja.wikipedia.org/wiki/デーブ・スペクター "wikilink")→[立川談四楼](https://ja.wikipedia.org/wiki/立川談四楼 "wikilink")→[木村晋介](../Page/木村晋介.md "wikilink")（弁護士）→[三本和彦](../Page/三本和彦.md "wikilink")→[田中康夫](../Page/田中康夫.md "wikilink")（のちの[長野県](../Page/長野県.md "wikilink")知事）→[酒井ゆきえ](../Page/酒井ゆきえ.md "wikilink")
-  - 火曜日 - [木村晋介](../Page/木村晋介.md "wikilink")→[堀紘一](../Page/堀紘一.md "wikilink")→[ケント・ギルバート](https://ja.wikipedia.org/wiki/ケント・ギルバート "wikilink")→[鳥越俊太郎](https://ja.wikipedia.org/wiki/鳥越俊太郎 "wikilink")→[辛淑玉](../Page/辛淑玉.md "wikilink")
+  - 月曜日 - [早坂茂三](../Page/早坂茂三.md "wikilink")（評論家）→[胡桃沢耕史](../Page/胡桃沢耕史.md "wikilink")（作家）→[デーブ・スペクター](../Page/デーブ・スペクター.md "wikilink")→[立川談四楼](../Page/立川談四楼.md "wikilink")→[木村晋介](../Page/木村晋介.md "wikilink")（弁護士）→[三本和彦](../Page/三本和彦.md "wikilink")→[田中康夫](../Page/田中康夫.md "wikilink")（のちの[長野県](../Page/長野県.md "wikilink")知事）→[酒井ゆきえ](../Page/酒井ゆきえ.md "wikilink")
+  - 火曜日 - [木村晋介](../Page/木村晋介.md "wikilink")→[堀紘一](../Page/堀紘一.md "wikilink")→[ケント・ギルバート](../Page/ケント・ギルバート.md "wikilink")→[鳥越俊太郎](../Page/鳥越俊太郎.md "wikilink")→[辛淑玉](../Page/辛淑玉.md "wikilink")
   - 水曜日 - [深野義和](https://ja.wikipedia.org/wiki/深野義和 "wikilink")→胡桃沢耕史→[井崎脩五郎](../Page/井崎脩五郎.md "wikilink")（競馬評論家）
   - 木曜日 - 堀紘一→桂三枝（現・[六代目桂文枝](../Page/桂文枝_\(6代目\).md "wikilink")）→[辻元清美](../Page/辻元清美.md "wikilink")（放送当時は、ピースボートジャパン代表）→[遠藤誠](../Page/遠藤誠_\(弁護士\).md "wikilink")（弁護士）→[山内美郷](https://ja.wikipedia.org/wiki/山内美郷 "wikilink")（女優・エッセイスト）
-  - 金曜日 - [永倉万治](https://ja.wikipedia.org/wiki/永倉万治 "wikilink")（作家）→[デーブ・スペクター](https://ja.wikipedia.org/wiki/デーブ・スペクター "wikilink")→[石井苗子](https://ja.wikipedia.org/wiki/石井苗子 "wikilink")→[若林正人](../Page/若林正人.md "wikilink")（タレント、[ニュースステーション](../Page/ニュースステーション.md "wikilink")夜桜中継にも出演）
+  - 金曜日 - [永倉万治](../Page/永倉万治.md "wikilink")（作家）→[デーブ・スペクター](../Page/デーブ・スペクター.md "wikilink")→[石井苗子](../Page/石井苗子.md "wikilink")→[若林正人](../Page/若林正人.md "wikilink")（タレント、[ニュースステーション](../Page/ニュースステーション.md "wikilink")夜桜中継にも出演）
 
 ## 探検隊員
 
@@ -53,11 +53,11 @@
   - シャンソン飯塚（[飯塚治](../Page/飯塚治.md "wikilink")）
   - すらっと純子（[鈴木純子](../Page/鈴木純子.md "wikilink")）
   - マドンナ永野（[永野景子](../Page/永野景子.md "wikilink")〔現在は、報道部記者）
-  - エンジェル藤木（[藤木千穂](https://ja.wikipedia.org/wiki/藤木千穂 "wikilink")〔現在は、編成局編成部）
+  - エンジェル藤木（[藤木千穂](../Page/藤木千穂.md "wikilink")〔現在は、編成局編成部）
   - マリリン真紀（[石川真紀](../Page/石川真紀.md "wikilink")）
   - 松島一直線（[松島茂](../Page/松島茂.md "wikilink")〔アナウンサーとして在職中の2020年2月に逝去〕\[3\]）
   - ニュースキャスター上野（[上野智広](https://ja.wikipedia.org/wiki/上野智広 "wikilink")〔現在はフリーアナウンサー〕）
-  - ジェット北川（[北川義隆](https://ja.wikipedia.org/wiki/北川義隆 "wikilink")〔現在は[スポーツ](../Page/スポーツ.md "wikilink")[ジャーナリスト](../Page/ジャーナリスト.md "wikilink")、[スポーツライター](https://ja.wikipedia.org/wiki/スポーツライター "wikilink")〕）
+  - ジェット北川（[北川義隆](../Page/北川義隆.md "wikilink")〔現在は[スポーツ](../Page/スポーツ.md "wikilink")[ジャーナリスト](../Page/ジャーナリスト.md "wikilink")、[スポーツライター](https://ja.wikipedia.org/wiki/スポーツライター "wikilink")〕）
   - オリーブ伝井（=つたい）（[傳井靖](https://ja.wikipedia.org/wiki/傳井靖 "wikilink")。[記者](../Page/記者.md "wikilink")として、[NHKに移籍](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")）
   - デイリー山崎（本名未詳）
 
@@ -73,8 +73,8 @@
 
   - サイレンつきキーホルダー（前出）は音の出るボタンが小さく、複数並んでいたので、ボタンを押し間違えて最初に違う音（機関銃の連射など）を出してしまう隊員もいた。
   - [オウム真理教](https://ja.wikipedia.org/wiki/オウム真理教 "wikilink")が問題になる前から独自の調査を定期的に行なっていたため、教祖の[麻原彰晃](https://ja.wikipedia.org/wiki/麻原彰晃 "wikilink")逮捕後、当時、番組に関わっていたスタッフや記者らがたびたび法廷に呼ばれて、参考人証言を行ったことがあった。
-  - 1993年12月15日、[日野OL不倫放火殺人事件](https://ja.wikipedia.org/wiki/日野OL不倫放火殺人事件 "wikilink")をいち早く事件として取り上げたが、この時は「火災現場周辺の違法駐車のため消防車が近づけずに延焼が広がり、焼死者を出したこと」がテーマだった。事件の概要が明らかになったのは犯人が逮捕されてからである。
-  - 番組10周年を記念して後述の番組本を発刊する際、パーソナリティの梶原の後輩である[吉田照美](https://ja.wikipedia.org/wiki/吉田照美 "wikilink")、[小俣雅子](https://ja.wikipedia.org/wiki/小俣雅子 "wikilink")がパーソナリティを務める『吉田照美のやる気MANMAN\!』にゲスト出演（途中から伊藤もトークに参加）し、梶原は「最近、[TBSのアクセス](../Page/TBSラジオ.md "wikilink")（『[BATTLE TALK RADIO アクセス](../Page/BATTLE_TALK_RADIO_アクセス.md "wikilink")』）っていう夜の番組で、本気でDONDONと似たような企画やってるね」と発言し、『アクセス』をライバル視するまではいかないものの、気にしていたことを明かしていた。ただし、『アクセス』のメインはバトルトークにあり、当番組は広く深い調査を主旨とする番組なので、硬派の番組同士という点以外の接点はない。なお、当番組はこの2年後に終了したが、『アクセス』は出演者の交代を重ねながら[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")まで継続した。
+  - 1993年12月15日、[日野OL不倫放火殺人事件](../Page/日野OL不倫放火殺人事件.md "wikilink")をいち早く事件として取り上げたが、この時は「火災現場周辺の違法駐車のため消防車が近づけずに延焼が広がり、焼死者を出したこと」がテーマだった。事件の概要が明らかになったのは犯人が逮捕されてからである。
+  - 番組10周年を記念して後述の番組本を発刊する際、パーソナリティの梶原の後輩である[吉田照美](../Page/吉田照美.md "wikilink")、[小俣雅子](../Page/小俣雅子.md "wikilink")がパーソナリティを務める『吉田照美のやる気MANMAN\!』にゲスト出演（途中から伊藤もトークに参加）し、梶原は「最近、[TBSのアクセス](../Page/TBSラジオ.md "wikilink")（『[BATTLE TALK RADIO アクセス](../Page/BATTLE_TALK_RADIO_アクセス.md "wikilink")』）っていう夜の番組で、本気でDONDONと似たような企画やってるね」と発言し、『アクセス』をライバル視するまではいかないものの、気にしていたことを明かしていた。ただし、『アクセス』のメインはバトルトークにあり、当番組は広く深い調査を主旨とする番組なので、硬派の番組同士という点以外の接点はない。なお、当番組はこの2年後に終了したが、『アクセス』は出演者の交代を重ねながら[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")まで継続した。
 
 ## 番組終了後の動き
 
@@ -82,17 +82,17 @@
 
 後枠は編成を刷新して『[陳平&寺ちゃんのハッピートゥモロー](../Page/ハッピートゥモロー.md "wikilink")』となり、放送時間も10:00 - 13:00の3時間となった。
 
-後に、[寺島尚正](https://ja.wikipedia.org/wiki/寺島尚正 "wikilink")が『[寺ちゃんの飛び出せ\!ハッピータウン](https://ja.wikipedia.org/wiki/寺ちゃんの飛び出せ!ハッピータウン "wikilink")』で、同番組に内包する形で独立。それに伴い、[野末陳平](https://ja.wikipedia.org/wiki/野末陳平 "wikilink")の相手役が寺島から、[藤木千穂](https://ja.wikipedia.org/wiki/藤木千穂 "wikilink")に変更となった。
+後に、[寺島尚正](../Page/寺島尚正.md "wikilink")が『[寺ちゃんの飛び出せ\!ハッピータウン](https://ja.wikipedia.org/wiki/寺ちゃんの飛び出せ!ハッピータウン "wikilink")』で、同番組に内包する形で独立。それに伴い、[野末陳平](../Page/野末陳平.md "wikilink")の相手役が寺島から、[藤木千穂](../Page/藤木千穂.md "wikilink")に変更となった。
 
 一方、梶原は朝ワイド『[チャレンジ\!梶原放送局](https://ja.wikipedia.org/wiki/チャレンジ!梶原放送局 "wikilink")』に移ったが、TBSラジオ・ニッポン放送の同時刻朝ワイドに苦戦して、短命に終わる。
 
 番組終了後、インターネットで、本番組と同じ趣旨の企画が続行されたが、こちらは間もなく終了した。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月9日](../Page/11月9日.md "wikilink")の『[くにまるワイド ごぜんさま〜](https://ja.wikipedia.org/wiki/くにまるワイド_ごぜんさま〜 "wikilink")』で、木曜レギュラーコメンティストの[重松清](https://ja.wikipedia.org/wiki/重松清 "wikilink")が急遽欠席したため、「プチ」本気でDONDONを放送し、リスナーからの素朴な疑問がメール、FAXで次々と寄せられ、おおむね好評だった。また、番組内で、当時の探検隊呼び出し音が復活した。
+[2006年](../Page/2006年.md "wikilink")[11月9日](../Page/11月9日.md "wikilink")の『[くにまるワイド ごぜんさま〜](../Page/くにまるワイド_ごぜんさま〜.md "wikilink")』で、木曜レギュラーコメンティストの[重松清](../Page/重松清.md "wikilink")が急遽欠席したため、「プチ」本気でDONDONを放送し、リスナーからの素朴な疑問がメール、FAXで次々と寄せられ、おおむね好評だった。また、番組内で、当時の探検隊呼び出し音が復活した。
 
 これを受けて、同番組では[2007年](../Page/2007年.md "wikilink")[2月19日](../Page/2月19日.md "wikilink")から[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")までの1週間、期間限定ではあるが、「野村邦丸の何気にDONDON」という形で復活。ゲスト コメンティストには梶原を出演させるという念の入れ様だった。
 
-なお、『ごぜんさま〜』ではこの後、2007年4月、6月のスペシャルウィークでも「野村邦丸の○○でDONDON」と（○○にはテーマが入る）称して、特集を組んでいる。 最近では『[竹内靖夫の電リク・ハローパーティー](https://ja.wikipedia.org/wiki/竹内靖夫の電リク・ハローパーティー "wikilink")』で、パーソナリティの[竹内靖夫](https://ja.wikipedia.org/wiki/竹内靖夫 "wikilink")アナと[石川真紀](../Page/石川真紀.md "wikilink")アナが「是非、復活して欲しい番組だ」と発言しており、文化放送内部では未だに根強い人気があるようだ。
+なお、『ごぜんさま〜』ではこの後、2007年4月、6月のスペシャルウィークでも「野村邦丸の○○でDONDON」と（○○にはテーマが入る）称して、特集を組んでいる。 最近では『[竹内靖夫の電リク・ハローパーティー](../Page/竹内靖夫の電リク・ハローパーティー.md "wikilink")』で、パーソナリティの[竹内靖夫](../Page/竹内靖夫.md "wikilink")アナと[石川真紀](../Page/石川真紀.md "wikilink")アナが「是非、復活して欲しい番組だ」と発言しており、文化放送内部では未だに根強い人気があるようだ。
 
 本番組との関連性はないものの、2009年の[A\&Gの番組において](../Page/文化放送A&Gゾーン.md "wikilink")、[桃井はるこ](../Page/桃井はるこ.md "wikilink")が「繰り返し語」をヒントに、[レギュラー番組のタイトルに用いていた](https://ja.wikipedia.org/wiki/桃井はるこのはいはいラジオラジオ "wikilink")。
 
@@ -100,7 +100,7 @@
 
 ## 特別編成
 
-毎年9月1日の[防災の日](https://ja.wikipedia.org/wiki/防災の日 "wikilink")は全国38局ネットで、「防災の日スペシャル」を放送していた（この番組終了後の「防災の日スペシャル」は文化放送の平日帯ワイド番組を担当しているアナウンサーが引き続き担当していたが、2004年以降は[太田英明](https://ja.wikipedia.org/wiki/太田英明 "wikilink")が毎年担当している）。また、「防災の日スペシャル」以外にも不定期で、全国ネットの単発番組。もしくは『[キユーピー・メロディホリデー](https://ja.wikipedia.org/wiki/キユーピー・メロディホリデー "wikilink")』のため、放送が休止となっていた。
+毎年9月1日の[防災の日](../Page/防災の日.md "wikilink")は全国38局ネットで、「防災の日スペシャル」を放送していた（この番組終了後の「防災の日スペシャル」は文化放送の平日帯ワイド番組を担当しているアナウンサーが引き続き担当していたが、2004年以降は[太田英明](../Page/太田英明.md "wikilink")が毎年担当している）。また、「防災の日スペシャル」以外にも不定期で、全国ネットの単発番組。もしくは『[キユーピー・メロディホリデー](../Page/キユーピー・メロディホリデー.md "wikilink")』のため、放送が休止となっていた。
 
 サッカー日本代表の試合の中継の影響で、12時からの放送開始となった時はテーマを、サッカー関連にしたことがあった。
 
@@ -109,9 +109,9 @@
 ## 主なタイムテーブル
 
   - 11:00 - オープニング→今日のコメンテーター紹介
-  - 11:05 - NEWSING DONDON（[東京ワンタン本舗](https://ja.wikipedia.org/wiki/東京ワンタン本舗 "wikilink")他）
+  - 11:05 - NEWSING DONDON（[東京ワンタン本舗](../Page/東京ワンタン本舗.md "wikilink")他）
   - 11:20 - [東急ストア](../Page/東急ストア.md "wikilink") ママ大学 DONDONリクエスト（東急ストア加盟協賛各社）
-  - 11:35 - ニュースの疑問に体当たり　本気でアタック\!\!（[PT](https://ja.wikipedia.org/wiki/パーティシペーション "wikilink")）
+  - 11:35 - ニュースの疑問に体当たり　本気でアタック\!\!（[PT](../Page/パーティシペーション.md "wikilink")）
   - 11:45 - DONDON追跡隊
   - 11:55 - 交通情報
   - 12:00 - ブレイクタイム（BGMをバックに出演者がフリートークをする。時報からNEWS NOWまでのつなぎといえよう）

@@ -1,7 +1,7 @@
 > この記事は[Ho! ](https://ja.wikipedia.org/wiki/Ho!_)から翻訳されています。
 
 
-「**Ho\! サマー**」（ホ\! サマー）は、[タッキー&翼](../Page/タッキー&翼.md "wikilink")の7枚目の[シングル](../Page/シングル.md "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[8月9日](../Page/8月9日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+「**Ho\! サマー**」（ホ\! サマー）は、[タッキー&翼](../Page/タッキー&翼.md "wikilink")の7枚目の[シングル](../Page/シングル.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[8月9日](../Page/8月9日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 
@@ -12,9 +12,9 @@
 
 ### 通常盤
 
-1.  **Ho\! サマー**（作詞・作曲：[羽場仁志](https://ja.wikipedia.org/wiki/羽場仁志 "wikilink")、編曲：[CHOKKAKU](https://ja.wikipedia.org/wiki/CHOKKAKU "wikilink")）
+1.  **Ho\! サマー**（作詞・作曲：[羽場仁志](https://ja.wikipedia.org/wiki/羽場仁志 "wikilink")、編曲：[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")）
       -
-        『[がきんちょ〜リターン・キッズ〜](../Page/がきんちょ〜リターン・キッズ〜.md "wikilink")』主題歌（オープニングテーマ）、『[ズバリ言うわよ\!](https://ja.wikipedia.org/wiki/ズバリ言うわよ! "wikilink")』エンディングテーマ。いずれもTBS系列で放送されていたテレビ番組。[東京ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")夏のキャンペーンソング。『[Two You Four You](https://ja.wikipedia.org/wiki/Two_You_Four_You "wikilink")』では「album ver.」で収録された。
+        『[がきんちょ〜リターン・キッズ〜](../Page/がきんちょ〜リターン・キッズ〜.md "wikilink")』主題歌（オープニングテーマ）、『[ズバリ言うわよ\!](../Page/ズバリ言うわよ!.md "wikilink")』エンディングテーマ。いずれもTBS系列で放送されていたテレビ番組。[東京ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")夏のキャンペーンソング。『[Two You Four You](../Page/Two_You_Four_You.md "wikilink")』では「album ver.」で収録された。
 2.  **Taste me**（作詞・作曲・編曲：[宮崎歩](../Page/宮崎歩.md "wikilink")）
       -
         滝沢ソロ曲。

@@ -1,12 +1,12 @@
 > この記事は[WIN\'S](https://ja.wikipedia.org/wiki/WIN\'S)から翻訳されています。
 
 
-『**ごごはWIN'S**』（ごごはウィンズ）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")～[2007年](../Page/2007年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで[秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")ラジオで放送されていた昼の[ワイド番組](https://ja.wikipedia.org/wiki/ワイド番組 "wikilink")。
+『**ごごはWIN'S**』（ごごはウィンズ）は、[2006年](../Page/2006年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")～[2007年](../Page/2007年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで[秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")ラジオで放送されていた昼の[ワイド番組](../Page/ワイド番組.md "wikilink")。
 
 ## 概要
 
   - 放送時間は毎週月曜～金曜12:20～15:25。
-  - 前番組『[元気満タン秋田だwin](https://ja.wikipedia.org/wiki/元気満タン秋田だwin "wikilink")』『[元気満タン秋田だwin2](https://ja.wikipedia.org/wiki/元気満タン秋田だwin2 "wikilink")』に引き続き、[松井梨絵子](https://ja.wikipedia.org/wiki/松井梨絵子 "wikilink")（秋田放送アナウンサー）と[高橋美樹](https://ja.wikipedia.org/wiki/高橋美樹 "wikilink")（秋田放送アナウンサー）がパーソナリティを担当。中継リポーター陣は入れ替えが行われたが、引き続き出演していた者も多かった。
+  - 前番組『[元気満タン秋田だwin](https://ja.wikipedia.org/wiki/元気満タン秋田だwin "wikilink")』『[元気満タン秋田だwin2](../Page/元気満タン秋田だwin2.md "wikilink")』に引き続き、[松井梨絵子](../Page/松井梨絵子.md "wikilink")（秋田放送アナウンサー）と[高橋美樹](../Page/高橋美樹.md "wikilink")（秋田放送アナウンサー）がパーソナリティを担当。中継リポーター陣は入れ替えが行われたが、引き続き出演していた者も多かった。
   - 前番組同様、中継車「ラジPAL」による街頭中継が行われていた。この特徴は、後継番組の『[ごくじょうラジオ](../Page/ごくじょうラジオ.md "wikilink")』にも受け継がれている。
   - 月曜は「リクエストマンディ」、火曜は「かいけつ火曜日」、水曜は「1万円ゲット水曜日～クイズ」、木曜は「ファミリーな木曜日」、金曜は「ハッピーな金曜日」と、曜日ごとにサブタイトルが付けられていた。
 
@@ -15,9 +15,9 @@
 ### パーソナリティ
 
   - 月曜・火曜・水曜
-      - [松井梨絵子](https://ja.wikipedia.org/wiki/松井梨絵子 "wikilink")
+      - [松井梨絵子](../Page/松井梨絵子.md "wikilink")
   - 木曜・金曜
-      - [高橋美樹](https://ja.wikipedia.org/wiki/高橋美樹 "wikilink")
+      - [高橋美樹](../Page/高橋美樹.md "wikilink")
 
 ### 中継リポーター
 
@@ -26,11 +26,11 @@
   - 火曜
       - [工藤東子](https://ja.wikipedia.org/wiki/工藤東子 "wikilink")
   - 水曜
-      - [宇奈月満](https://ja.wikipedia.org/wiki/宇奈月満 "wikilink")
+      - [宇奈月満](../Page/宇奈月満.md "wikilink")
   - 木曜
-      - [松浦大悟](https://ja.wikipedia.org/wiki/松浦大悟 "wikilink")→[井関裕貴](https://ja.wikipedia.org/wiki/井関裕貴 "wikilink")
+      - [松浦大悟](../Page/松浦大悟.md "wikilink")→[井関裕貴](../Page/井関裕貴.md "wikilink")
   - 金曜
-      - [まるさん](https://ja.wikipedia.org/wiki/まるさん "wikilink")→[工藤牧子](https://ja.wikipedia.org/wiki/工藤牧子 "wikilink")
+      - [まるさん](../Page/まるさん.md "wikilink")→[工藤牧子](https://ja.wikipedia.org/wiki/工藤牧子 "wikilink")
 
 ## タイムテーブル
 
@@ -73,7 +73,7 @@
   - 14:35
       - 交通情報（提供：[トヨタカローラ秋田](../Page/トヨタグループ.md "wikilink")）
   - 14:40
-      - [日本列島ほっと通信](https://ja.wikipedia.org/wiki/日本列島ほっと通信 "wikilink")
+      - [日本列島ほっと通信](../Page/日本列島ほっと通信.md "wikilink")
   - 14:50
       - さきがけニュース
   - 15:00

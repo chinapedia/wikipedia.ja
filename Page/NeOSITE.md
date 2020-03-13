@@ -1,15 +1,15 @@
 > この記事は[NeOSITE](https://ja.wikipedia.org/wiki/NeOSITE)から翻訳されています。
 
 
-**NeOSITE**（**ネオサイト**）および**NeOSITE DISCS**（**ネオサイトディスクス**）は、かつて存在した[キューンミュージック](https://ja.wikipedia.org/wiki/キューンミュージック "wikilink")内にあるレーベルである。
+**NeOSITE**（**ネオサイト**）および**NeOSITE DISCS**（**ネオサイトディスクス**）は、かつて存在した[キューンミュージック](../Page/キューンミュージック.md "wikilink")内にあるレーベルである。
 
 ## 概要
 
 [1996年](../Page/1996年.md "wikilink")設立。
 
-かつては[エピックレコードジャパン](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")傘下レーベルであったが、[ソニー・ミュージックアソシエイテッドレコーズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックアソシエイテッドレコーズ "wikilink")を経てキューンレコード（2012年4月1日にキューンミュージックに社名変更）傘下のレーベルになった。
+かつては[エピックレコードジャパン](../Page/エピックレコードジャパン.md "wikilink")傘下レーベルであったが、[ソニー・ミュージックアソシエイテッドレコーズ](../Page/ソニー・ミュージックアソシエイテッドレコーズ.md "wikilink")を経てキューンレコード（2012年4月1日にキューンミュージックに社名変更）傘下のレーベルになった。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に10周年を迎え、その記念に所属アーティストが一堂に会して、シングル『[I Say Yeah\!](https://ja.wikipedia.org/wiki/I_Say_Yeah! "wikilink")』を[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")にリリースした。
+[2006年](../Page/2006年.md "wikilink")に10周年を迎え、その記念に所属アーティストが一堂に会して、シングル『[I Say Yeah\!](https://ja.wikipedia.org/wiki/I_Say_Yeah! "wikilink")』を[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")にリリースした。
 
 2014年9月RHYMESTER『[The R〜The Best of RHYMESTER 2009-2014〜](https://ja.wikipedia.org/wiki/The_R〜The_Best_of_RHYMESTER_2009-2014〜 "wikilink")』を最後に消滅。
 
@@ -24,9 +24,9 @@
   - [heaco](https://ja.wikipedia.org/wiki/heaco "wikilink") (1998年〜2000年)
   - [ハイテクキネマ](https://ja.wikipedia.org/wiki/ハイテクキネマ "wikilink") (1998年)
   - [Seigen Ono](https://ja.wikipedia.org/wiki/小野誠彦 "wikilink") (1998年)
-  - [Wondermints](https://ja.wikipedia.org/wiki/ワンダーミンツ "wikilink") (1998年〜1999年)
-  - [PUSHIM](https://ja.wikipedia.org/wiki/PUSHIM "wikilink") (1999年〜2010年)([徳間ジャパンコミュニケーションズ](https://ja.wikipedia.org/wiki/徳間ジャパンコミュニケーションズ "wikilink")に移籍)
-  - [RHYMESTER](https://ja.wikipedia.org/wiki/RHYMESTER "wikilink") (2001年〜2014年) (⇒[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")に移籍)
+  - [Wondermints](../Page/ワンダーミンツ.md "wikilink") (1998年〜1999年)
+  - [PUSHIM](https://ja.wikipedia.org/wiki/PUSHIM "wikilink") (1999年〜2010年)([徳間ジャパンコミュニケーションズ](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")に移籍)
+  - [RHYMESTER](../Page/RHYMESTER.md "wikilink") (2001年〜2014年) (⇒[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")に移籍)
       - [マボロシ](../Page/マボロシ.md "wikilink") (2004年〜2007年)
       - [breakthrough](https://ja.wikipedia.org/wiki/breakthrough_\(アーティスト\) "wikilink") (2005年)
   - [JUICE](https://ja.wikipedia.org/wiki/JUICE "wikilink") (2003年〜2004年)
@@ -34,8 +34,8 @@
   - [HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink") (2004年〜2014年)
   - [D.L.](../Page/DEV_LARGE.md "wikilink") (2005年〜2006年)（NeOSITEで数枚のシングル、アルバムをリリース。）
   - [May J.](https://ja.wikipedia.org/wiki/May_J. "wikilink") (2006年〜2008年)（⇒[rhythm zone](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")）
-  - [ILLMATIC BUDDHA MC's](https://ja.wikipedia.org/wiki/ILLMATIC_BUDDHA_MC's "wikilink")／[スチャダラパー](https://ja.wikipedia.org/wiki/スチャダラパー "wikilink") (2006年)
-  - [KEN-U](https://ja.wikipedia.org/wiki/KEN-U "wikilink") (2007年)
+  - [ILLMATIC BUDDHA MC's](https://ja.wikipedia.org/wiki/ILLMATIC_BUDDHA_MC's "wikilink")／[スチャダラパー](../Page/スチャダラパー.md "wikilink") (2006年)
+  - [KEN-U](../Page/KEN-U.md "wikilink") (2007年)
   - [TARO SOUL](https://ja.wikipedia.org/wiki/TARO_SOUL "wikilink") (2008年〜2010年)
 
 ### neosite plus

@@ -48,7 +48,7 @@
 
 :\* [星野めぐみ](https://ja.wikipedia.org/wiki/星野めぐみ_\(ナレーター\) "wikilink")（2003年10月〜2006年9月18日）
 
-:\* [西原久美子](https://ja.wikipedia.org/wiki/西原久美子 "wikilink")（2006年10月30日〜2008年3月17日）
+:\* [西原久美子](../Page/西原久美子.md "wikilink")（2006年10月30日〜2008年3月17日）
 
 ※ 2003年9月以前については不明
 
@@ -208,7 +208,7 @@
 
 ### スタッフ
 
-  - 構成：[有田真平](https://ja.wikipedia.org/wiki/有田真平 "wikilink")
+  - 構成：[有田真平](../Page/有田真平.md "wikilink")
   - 演出：谷中憲
   - 音声：鈴木岳登（フジテレビ）
   - 音響効果：舟生孝太郎（[タルス](https://ja.wikipedia.org/wiki/タルス "wikilink")）
@@ -231,7 +231,7 @@
 
 ## 初期（番組スタート〜2003年9月）
 
-番組スタート当初は、新人の女優やアイドルを紹介する「フレッシュタレント」のコーナー（[宮崎あおい](https://ja.wikipedia.org/wiki/宮崎あおい "wikilink")、[平井理央](../Page/平井理央.md "wikilink")などが出演）とビデオ・DVD紹介のコーナーが柱であった。番組からは、タレント紹介コーナーをまとめた「フレッシュタレント名鑑」、番組で人気のあったタレント（[上戸彩](https://ja.wikipedia.org/wiki/上戸彩 "wikilink")、[加藤夏希](https://ja.wikipedia.org/wiki/加藤夏希 "wikilink")、[長澤まさみ](https://ja.wikipedia.org/wiki/長澤まさみ "wikilink")、[松本まりか](https://ja.wikipedia.org/wiki/松本まりか "wikilink")ら）のイメージビデオ『THE COMPLETE』が発売されている。2002年には、[木村忠寛](../Page/木村忠寛.md "wikilink")監修のもと[フジテレビビジュアルクイーン](https://ja.wikipedia.org/wiki/フジテレビビジュアルクイーン "wikilink")（[市川由衣](https://ja.wikipedia.org/wiki/市川由衣 "wikilink")、[香里奈](https://ja.wikipedia.org/wiki/香里奈 "wikilink")、[沢尻エリカ](https://ja.wikipedia.org/wiki/沢尻エリカ "wikilink")ら）主演によるミニドラマ『[フォーチュンの扉](https://ja.wikipedia.org/wiki/フォーチュンの扉 "wikilink")』も製作されている。
+番組スタート当初は、新人の女優やアイドルを紹介する「フレッシュタレント」のコーナー（[宮崎あおい](https://ja.wikipedia.org/wiki/宮崎あおい "wikilink")、[平井理央](../Page/平井理央.md "wikilink")などが出演）とビデオ・DVD紹介のコーナーが柱であった。番組からは、タレント紹介コーナーをまとめた「フレッシュタレント名鑑」、番組で人気のあったタレント（[上戸彩](https://ja.wikipedia.org/wiki/上戸彩 "wikilink")、[加藤夏希](https://ja.wikipedia.org/wiki/加藤夏希 "wikilink")、[長澤まさみ](https://ja.wikipedia.org/wiki/長澤まさみ "wikilink")、[松本まりか](../Page/松本まりか.md "wikilink")ら）のイメージビデオ『THE COMPLETE』が発売されている。2002年には、[木村忠寛](../Page/木村忠寛.md "wikilink")監修のもと[フジテレビビジュアルクイーン](../Page/フジテレビビジュアルクイーン.md "wikilink")（[市川由衣](https://ja.wikipedia.org/wiki/市川由衣 "wikilink")、[香里奈](https://ja.wikipedia.org/wiki/香里奈 "wikilink")、[沢尻エリカ](https://ja.wikipedia.org/wiki/沢尻エリカ "wikilink")ら）主演によるミニドラマ『[フォーチュンの扉](https://ja.wikipedia.org/wiki/フォーチュンの扉 "wikilink")』も製作されている。
 
 ## 過去のゲスト出演者
 
@@ -239,7 +239,7 @@
   - [林絵梨子](https://ja.wikipedia.org/wiki/林絵梨子 "wikilink")
   - [下村真理](../Page/MARI_\(グラビアアイドル\).md "wikilink")
   - [南田裕介](../Page/南田裕介.md "wikilink")（当時、パーソナリティーだった[ユンソナ](../Page/ユンソナ.md "wikilink")の担当マネージャー）
-  - [小出由華](https://ja.wikipedia.org/wiki/小出由華 "wikilink")
+  - [小出由華](../Page/小出由華.md "wikilink")
 
 ## 備考・システム
 
@@ -248,10 +248,10 @@
 
 ## 番組制作
 
-  - 美術協力：[ディノス](https://ja.wikipedia.org/wiki/ディノス "wikilink")
-  - 技術協力：[アンサーズ](https://ja.wikipedia.org/wiki/アンサーズ "wikilink")
+  - 美術協力：[ディノス](../Page/ディノス.md "wikilink")
+  - 技術協力：[アンサーズ](../Page/アンサーズ.md "wikilink")
   - 協力：[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")
-  - 制作協力：[G-yama](https://ja.wikipedia.org/wiki/ジーヤマ "wikilink")
+  - 制作協力：[G-yama](../Page/ジーヤマ.md "wikilink")
   - 制作・著作：[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")
 
 ## 外部リンク

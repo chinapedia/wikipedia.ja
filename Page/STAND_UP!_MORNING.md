@@ -1,15 +1,15 @@
 > この記事は[STAND UP! MORNING](https://ja.wikipedia.org/wiki/STAND_UP!_MORNING)から翻訳されています。
 
 
-**STAND UP\! MORNING**（スタンド・アップ・モーニング、通称：**スタモニ**）は、[エフエム福岡](../Page/エフエム福岡.md "wikilink")で[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2013年](../Page/2013年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで放送された[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
+**STAND UP\! MORNING**（スタンド・アップ・モーニング、通称：**スタモニ**）は、[エフエム福岡](../Page/エフエム福岡.md "wikilink")で[2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2013年](../Page/2013年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで放送された[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
 
-7年放送されてきた『[椎葉ユウmorninGroovy](https://ja.wikipedia.org/wiki/椎葉ユウmorninGroovy "wikilink")』の後継ぎ番組。
+7年放送されてきた『[椎葉ユウmorninGroovy](../Page/椎葉ユウmorninGroovy.md "wikilink")』の後継ぎ番組。
 
 2009年10月からは土曜日まで放送されるようになり、全国でも珍しく月〜土の帯番組となった。
 それにより、月〜木は「**STAND UP\! MORNING ― スタモニ ―**」として、金・土は「**STAND UP\! MORNING ― スタモニ・ウィークエンドエディション ―**」として、放送されていた。
 
 2013年3月21日のエンディングにて、月末での番組終了が発表された。
-この改編をもって、土曜日の生放送は2019年4月の[Weekend more radio\!\!〜7サタ〜の開始まで消滅した](https://ja.wikipedia.org/wiki/Weekend_more_radio!! "wikilink")。また、平日に関しては6時台は昼番組を再編集した番組となったため、実質の後継ぎは7:30スタートに繰り上がった『[MORNING JAM](https://ja.wikipedia.org/wiki/モーニングジャム "wikilink")』である。
+この改編をもって、土曜日の生放送は2019年4月の[Weekend more radio\!\!〜7サタ〜の開始まで消滅した](https://ja.wikipedia.org/wiki/Weekend_more_radio!! "wikilink")。また、平日に関しては6時台は昼番組を再編集した番組となったため、実質の後継ぎは7:30スタートに繰り上がった『[MORNING JAM](../Page/モーニングジャム.md "wikilink")』である。
 
 ## 放送時間
 
@@ -45,12 +45,12 @@
   - 6:45 TRAFFIC REPORT
   - 6:50 クイズ朝一番搾りヌーボー（ZAKU ZAKU TODAY で紹介された話題をもとにクイズを出題）
   - 7:00〜7:30はTOKYO FMから「クロノス」をネットしている。
-      - 7:00 [WAKE UP NEWS](https://ja.wikipedia.org/wiki/WAKE_UP_NEWS "wikilink")
-      - 7:10 [リポビタンD TREND EYES](https://ja.wikipedia.org/wiki/リポビタンD_TREND_EYES "wikilink") （[大正製薬](https://ja.wikipedia.org/wiki/大正製薬 "wikilink")）
+      - 7:00 [WAKE UP NEWS](../Page/WAKE_UP_NEWS.md "wikilink")
+      - 7:10 [リポビタンD TREND EYES](https://ja.wikipedia.org/wiki/リポビタンD_TREND_EYES "wikilink") （[大正製薬](../Page/大正製薬.md "wikilink")）
       - 7:20 [追跡\!](https://ja.wikipedia.org/wiki/追跡! "wikilink")
   - 7:30 7時台オープニング&クイズ朝一番搾りヌーボーの答え合わせ
   - 7:32 BBIQスタモニビジネススクール
-  - 7:40 サトリズム(月曜〜木曜)・チズルート(金曜)（[福岡トヨペット](https://ja.wikipedia.org/wiki/トヨペット店 "wikilink")）
+  - 7:40 サトリズム(月曜〜木曜)・チズルート(金曜)（[福岡トヨペット](../Page/トヨペット店.md "wikilink")）
   - 7:46 TRAFFIC REPORT
   - 7:48 [FDA福岡空港フライトインフォメーション](../Page/フジドリームエアラインズ.md "wikilink")
   - 7:51 今朝のさとり画伯のおさらい&リスナーからのメッセージ（今日のニュース）紹介
@@ -64,7 +64,7 @@
 
   - 7:10 ZAKU ZAKU TODAY
   - 7:30 Today's Rport
-  - 7:37 ギンギラギンに[ギラヴァン通](https://ja.wikipedia.org/wiki/ギラヴァンツ北九州 "wikilink")
+  - 7:37 ギンギラギンに[ギラヴァン通](../Page/ギラヴァンツ北九州.md "wikilink")
   - 7:43 Highway Information
   - 7:50 今朝の労働 Show
   - 8:00 婚活部
@@ -73,9 +73,9 @@
 
 ## 備考
 
-  - 「クイズ朝一番搾りヌーボー」は三択や四択問題であるが、ネタ的要素が強く、答えは1番で固定されている。2番は[ジュディ・オング](https://ja.wikipedia.org/wiki/ジュディ・オング "wikilink")のヒット曲「魅せられて」を入れたネタ、3番は[平野レミ](https://ja.wikipedia.org/wiki/平野レミ "wikilink")の「[レミパン](https://ja.wikipedia.org/wiki/レミパン "wikilink")」を入れたネタ、4番は西川自身のプライベートなネタが入っている。
+  - 「クイズ朝一番搾りヌーボー」は三択や四択問題であるが、ネタ的要素が強く、答えは1番で固定されている。2番は[ジュディ・オング](https://ja.wikipedia.org/wiki/ジュディ・オング "wikilink")のヒット曲「魅せられて」を入れたネタ、3番は[平野レミ](../Page/平野レミ.md "wikilink")の「[レミパン](https://ja.wikipedia.org/wiki/レミパン "wikilink")」を入れたネタ、4番は西川自身のプライベートなネタが入っている。
   - 月曜〜金曜の「FDA福岡空港フライトインフォメーション」の後に曲がかかるが、月曜は[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の曲が流れる。
-  - 土曜の「ギンギラギンにギラヴァン通」は、香月の出身地である北九州市をホームタウンを置く[ギラヴァンツ北九州](https://ja.wikipedia.org/wiki/ギラヴァンツ北九州 "wikilink")を応援するコーナーであるが、福岡市に本社を置くラジオ局では唯一のギラヴァンツ応援コーナーである（サッカーであれば、他局でも存在する）。タイトル名から、タイトルコールの曲は[近藤真彦](https://ja.wikipedia.org/wiki/近藤真彦 "wikilink")の「ギンギラギンにさりげなく」のサビの部分である。コーナー自体は当番組終了後に西川がパーソナリティに就任した[Hyper Night Program GOW\!\!火曜日のコーナーとして存続している](https://ja.wikipedia.org/wiki/Hyper_Night_Program_GOW!! "wikilink")。
+  - 土曜の「ギンギラギンにギラヴァン通」は、香月の出身地である北九州市をホームタウンを置く[ギラヴァンツ北九州](../Page/ギラヴァンツ北九州.md "wikilink")を応援するコーナーであるが、福岡市に本社を置くラジオ局では唯一のギラヴァンツ応援コーナーである（サッカーであれば、他局でも存在する）。タイトル名から、タイトルコールの曲は[近藤真彦](../Page/近藤真彦.md "wikilink")の「ギンギラギンにさりげなく」のサビの部分である。コーナー自体は当番組終了後に西川がパーソナリティに就任した[Hyper Night Program GOW\!\!火曜日のコーナーとして存続している](https://ja.wikipedia.org/wiki/Hyper_Night_Program_GOW!! "wikilink")。
 
 ## 番組の評判
 

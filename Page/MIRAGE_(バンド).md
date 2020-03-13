@@ -1,7 +1,7 @@
 > この記事は[MIRAGE \(\)](https://ja.wikipedia.org/wiki/MIRAGE_\(\))から翻訳されています。
 
 
-**MIRAGE**（ミラージュ、1997年 - 2000年）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")ロックバンド。[Matina](https://ja.wikipedia.org/wiki/Matina "wikilink")所属。[La:Sadie's解散後](https://ja.wikipedia.org/wiki/La;Sadie's "wikilink")、[KISAKI](https://ja.wikipedia.org/wiki/KISAKI "wikilink")によって結成された。
+**MIRAGE**（ミラージュ、1997年 - 2000年）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")ロックバンド。[Matina](../Page/Matina.md "wikilink")所属。[La:Sadie's解散後](../Page/La;Sadie's.md "wikilink")、[KISAKI](../Page/KISAKI.md "wikilink")によって結成された。
 
 ## 特徴
 
@@ -12,7 +12,7 @@
 ## バンドの歴史
 
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")
-      - [1月16日](https://ja.wikipedia.org/wiki/1月16日 "wikilink")：[KISAKI](https://ja.wikipedia.org/wiki/KISAKI "wikilink")（ex.La:Sadie's）を中心に結成。
+      - [1月16日](https://ja.wikipedia.org/wiki/1月16日 "wikilink")：[KISAKI](../Page/KISAKI.md "wikilink")（ex.La:Sadie's）を中心に結成。
       - [1月28日](../Page/1月28日.md "wikilink")：シークレット初ライブを心斎橋MUSE HALLにて開催。
       - [3月12日](../Page/3月12日.md "wikilink")：大阪MUSE HALLを皮切りに結成記念全国ツアー「反射拒絶の憂鬱」を開催。（全会場DEMO TAPE「百花繚乱」無料配布）
       - [4月4日](../Page/4月4日.md "wikilink")：1st DEMO TAPE「en:Rouge」発売。（5000本完売）
@@ -29,7 +29,7 @@
       - [8月31日](../Page/8月31日.md "wikilink")：梅田amHALLにてTOUR FINAL主催イベント「solitude xxx」2DAYSを開催。（600名SOLD OUT）
       - [9月22日](../Page/9月22日.md "wikilink")：梅田amHALLにて初のワンマンライブ「～ASLEEP...眠れない夜...～」を開催。（600名SOLD OUT）
       - [10月11日](../Page/10月11日.md "wikilink")：KISAKIプロデュースオムニバスアルバム「NEW AGE CULTURE～第一楽章～」に1曲参加。
-      - [10月25日](../Page/10月25日.md "wikilink")：[イーストウエスト・ジャパンよりメジャーMINI](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink") ALBUM「Arcadia」発売。（10000枚以上販売）/発売記念東.名.阪ワンマンライブ,11.14 名古屋MUSIC FARM,11.23 西九条BRAND NEW,11.26 目黒鹿鳴館
+      - [10月25日](../Page/10月25日.md "wikilink")：[イーストウエスト・ジャパンよりメジャーMINI](../Page/ワーナーミュージック・ジャパン.md "wikilink") ALBUM「Arcadia」発売。（10000枚以上販売）/発売記念東.名.阪ワンマンライブ,11.14 名古屋MUSIC FARM,11.23 西九条BRAND NEW,11.26 目黒鹿鳴館
       - [11月1日](../Page/11月1日.md "wikilink")：KISAKI主催による新レーベル「Matina」設立。
       - [12月1日](../Page/12月1日.md "wikilink")：4th MAXI-SINGLE「流星」発売。（限定5000枚完売/Ree-RAPES-プロデュース）
       - [12月16日](../Page/12月16日.md "wikilink")：MIRAGE,Ove,ZENITH 3バンドオムニバスCD「SUPER InD's vol:1」に一曲参加。
@@ -70,9 +70,9 @@
 
 ### MINI ALBUM
 
-|     |                                                                                               |                                                                                    |
-| --- | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| 1st | [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[10月25日](../Page/10月25日.md "wikilink") | Arcadia（[イーストウエスト・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")） |
+|     |                                                                                               |                                                                 |
+| --- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| 1st | [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[10月25日](../Page/10月25日.md "wikilink") | Arcadia（[イーストウエスト・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")） |
 
 ### Video
 
@@ -104,9 +104,9 @@
 
 ### MINI ALBUM
 
-|     |                                                                                               |                                                                                        |
-| --- | --------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| 2nd | [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[12月23日](../Page/12月23日.md "wikilink") | Risk en Eve（[イーストウエスト・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")） |
+|     |                                                                                               |                                                                     |
+| --- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| 2nd | [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[12月23日](../Page/12月23日.md "wikilink") | Risk en Eve（[イーストウエスト・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")） |
 
 ### VIDEO
 
@@ -122,6 +122,6 @@
 
 ## 関連項目
 
-  - [Syndrome](https://ja.wikipedia.org/wiki/Syndrome "wikilink")
+  - [Syndrome](../Page/Syndrome.md "wikilink")
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ヴィジュアル系](https://ja.wikipedia.org/wiki/Category:ヴィジュアル系 "wikilink") [Category:1997年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1997年に結成した音楽グループ "wikilink") [Category:2000年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2000年に解散した音楽グループ "wikilink") [Category:ワーナーミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのアーティスト "wikilink") [Category:大阪市出身の人物](https://ja.wikipedia.org/wiki/Category:大阪市出身の人物 "wikilink")

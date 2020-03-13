@@ -5,9 +5,9 @@
 
 ## 解説
 
-デビュー時からの[サクソフォーン](../Page/サクソフォーン.md "wikilink")奏者・[伊東たけし](https://ja.wikipedia.org/wiki/伊東たけし "wikilink")の脱退後、[本田雅人](https://ja.wikipedia.org/wiki/本田雅人 "wikilink")が加入して最初にリリースされ、[ジャズ](../Page/ジャズ.md "wikilink")・[ファンク](https://ja.wikipedia.org/wiki/ファンク "wikilink")色の強い音楽を得意としていた本田のプレイと楽曲が前面に出ているアルバムである。本田の作曲した3曲はどれもスクェアに新しい息吹を吹き込み\[1\]、特にアルバムの1曲目の「MEGALITH」はそれまでのスクェアのイメージを覆したというべき曲で\[2\]、ファンを大きく驚かせ\[3\]、伊東の脱退でスクェアはどうなるんだというファンの不安を吹き飛ばすことにも成功した（**MEGALITHショック**）。「インストゥルメンタル・ポップス」とでもいうべきスクェアの音楽に1960年代・1970年代[フュージョンのようなテイストを加え既に確立したスクェアのスタイルをも堅持した難曲であり](../Page/フュージョン_\(音楽\).md "wikilink")、同時に本田雅人の代名詞的な楽曲でもある。
+デビュー時からの[サクソフォーン](../Page/サクソフォーン.md "wikilink")奏者・[伊東たけし](../Page/伊東たけし.md "wikilink")の脱退後、[本田雅人](../Page/本田雅人.md "wikilink")が加入して最初にリリースされ、[ジャズ](../Page/ジャズ.md "wikilink")・[ファンク](../Page/ファンク.md "wikilink")色の強い音楽を得意としていた本田のプレイと楽曲が前面に出ているアルバムである。本田の作曲した3曲はどれもスクェアに新しい息吹を吹き込み\[1\]、特にアルバムの1曲目の「MEGALITH」はそれまでのスクェアのイメージを覆したというべき曲で\[2\]、ファンを大きく驚かせ\[3\]、伊東の脱退でスクェアはどうなるんだというファンの不安を吹き飛ばすことにも成功した（**MEGALITHショック**）。「インストゥルメンタル・ポップス」とでもいうべきスクェアの音楽に1960年代・1970年代[フュージョンのようなテイストを加え既に確立したスクェアのスタイルをも堅持した難曲であり](../Page/フュージョン_\(音楽\).md "wikilink")、同時に本田雅人の代名詞的な楽曲でもある。
 
-また、他の楽曲も生ストリングスを導入したボサノバ・スタイルやビッグバンドスタイルなどフロントに本田を想定したつくりになっており、『[NATURAL](https://ja.wikipedia.org/wiki/NATURAL_\(T-SQUAREのアルバム\) "wikilink")』のスタイルは伊東のソロアルバムに継承された形となっている。楽曲において[ソプラノ・サックスもこのアルバムから使われるようになり](../Page/サクソフォーン.md "wikilink")、そのため[EWI](https://ja.wikipedia.org/wiki/EWI "wikilink")を使用する楽曲は相対的に少なくなっている。\[4\]
+また、他の楽曲も生ストリングスを導入したボサノバ・スタイルやビッグバンドスタイルなどフロントに本田を想定したつくりになっており、『[NATURAL](../Page/NATURAL_\(T-SQUAREのアルバム\).md "wikilink")』のスタイルは伊東のソロアルバムに継承された形となっている。楽曲において[ソプラノ・サックスもこのアルバムから使われるようになり](../Page/サクソフォーン.md "wikilink")、そのため[EWI](https://ja.wikipedia.org/wiki/EWI "wikilink")を使用する楽曲は相対的に少なくなっている。\[4\]
 
 ちなみに、「MEGALITH」や「LITTLE LEAGUE STAR」など、アルバムのうちの数曲は、アルバム発売の1カ月前の2月25日に行われた伊東、本田の歓送迎ライブ「FAREWELL & WELCOME」にて、アルバム発売に先立ち披露されている。
 
@@ -16,13 +16,13 @@
 ## 収録曲
 
 1.  **MEGALITH** - 本田雅人作曲
-2.  **ガーティの夢** - [安藤まさひろ作曲](https://ja.wikipedia.org/wiki/安藤正容 "wikilink")
+2.  **ガーティの夢** - [安藤まさひろ作曲](../Page/安藤正容.md "wikilink")
 3.  **真夏のためいき** - 安藤まさひろ作曲
 4.  **LITTLE LEAGUE STAR** - 本田雅人作曲
 5.  **YOUR RESTLESS EYES** - 安藤まさひろ作曲
-6.  **MIDNIGHT CIRCLE** - [和泉宏隆](https://ja.wikipedia.org/wiki/和泉宏隆 "wikilink")作曲
+6.  **MIDNIGHT CIRCLE** - [和泉宏隆](../Page/和泉宏隆.md "wikilink")作曲
 7.  **THE SUMMER OF '68** - 和泉宏隆作曲
-8.  **NAB THAT CHAP\!\!** - [須藤満](https://ja.wikipedia.org/wiki/須藤満 "wikilink")作曲
+8.  **NAB THAT CHAP\!\!** - [須藤満](../Page/須藤満.md "wikilink")作曲
 9.  **ROMANTIC CITY** - 安藤まさひろ作曲
 10. **WHEN I THINK OF YOU** - 本田雅人作曲
 
@@ -31,7 +31,7 @@
   - T-SQUARE
       - 安藤まさひろ - ACOUSTIC AND ELECTRIC GUITARS AND PROGRAMMING
       - 和泉宏隆 - ACOUSTIC AND MIDI PIANO, SYNTHESIZERS AND PROGRAMMING
-      - [則竹裕之](https://ja.wikipedia.org/wiki/則竹裕之 "wikilink") - DRUMS AND PERCUSSION
+      - [則竹裕之](../Page/則竹裕之.md "wikilink") - DRUMS AND PERCUSSION
       - 須藤満 - BASSES
       - 本田雅人 - SAXOPHONES, EWI AND PROGRAMMING
   - ADDITIONAL MUSICIANS

@@ -6,7 +6,7 @@
 ## 概要
 
   - 1996年、四国にて結成\[1\]。
-  - 1998年、[ダイナマイト・トミー](https://ja.wikipedia.org/wiki/ダイナマイト・トミー "wikilink")のプロデュースによるアルバム『inspire』にて[メジャー・デビュー](https://ja.wikipedia.org/wiki/メジャー・デビュー "wikilink")\[2\]。
+  - 1998年、[ダイナマイト・トミー](../Page/ダイナマイト・トミー.md "wikilink")のプロデュースによるアルバム『inspire』にて[メジャー・デビュー](https://ja.wikipedia.org/wiki/メジャー・デビュー "wikilink")\[2\]。
   - 2003年に無期限活動休止したが、2回の限定復活ライブの後、2012年に解散することが発表された\[3\]。
   - 初期は刹那的で狂気的な世界観を表現していた一方、2001年に自主レーベルを設立して発売した4thアルバム『CLIMAX』以降は、普遍的なロックサウンドを追求したと評される\[4\]。
   - 1998年末期から2000年頃のヴィジュアル系ブーム衰退期に活躍したバンドのひとつに挙られ、極めて厳しい時代を生きなければならなかったが、次世代のネオ・ヴィジュアル系へとシーンを橋渡しする役割を果たしたとされる\[5\]。
@@ -79,15 +79,15 @@
 
   - 1999年5月1日 [渋谷ON AIR WESTにてワンマンライブ](https://ja.wikipedia.org/wiki/渋谷ON_AIR_WEST "wikilink")。
 
-  - 1999年10月6日 [渋谷公会堂](https://ja.wikipedia.org/wiki/渋谷公会堂 "wikilink")にてワンマンライブ。
+  - 1999年10月6日 [渋谷公会堂](../Page/渋谷公会堂.md "wikilink")にてワンマンライブ。
 
   - 2001年11月29日 [渋谷ON AIR EASTにてワンマンライブ](https://ja.wikipedia.org/wiki/渋谷ON_AIR_EAST "wikilink")。
 
   - 2003年8月29日 高田馬場CLUB PHASEにおけるワンマンライブをもって活動休止。
 
-  - 2010年7月3日 [Shibuya O-EASTにて](https://ja.wikipedia.org/wiki/Shibuya_O-EAST "wikilink")[Kaya主催](../Page/Kaya_\(歌手\).md "wikilink")｢ソドムの晩餐―第一夜―｣に出演、限定復活ライブ。
+  - 2010年7月3日 [Shibuya O-EASTにて](../Page/Shibuya_O-EAST.md "wikilink")[Kaya主催](../Page/Kaya_\(歌手\).md "wikilink")｢ソドムの晩餐―第一夜―｣に出演、限定復活ライブ。
 
-  - 2011年11月27日 [赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")にて[UNDER CODE PRODUCTION主催](https://ja.wikipedia.org/wiki/KISAKI "wikilink")「輪廻転生〜A RETURN of "VISUAL MONSTER"〜」に出演、限定復活ライブ。
+  - 2011年11月27日 [赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")にて[UNDER CODE PRODUCTION主催](../Page/KISAKI.md "wikilink")「輪廻転生〜A RETURN of "VISUAL MONSTER"〜」に出演、限定復活ライブ。
 
   - 2012年2月16日 2012年4月5日、6日の渋谷REXワンマンライブをもって解散すると発表\[8\]。
 
@@ -171,7 +171,7 @@
 <td></td>
 <td><p><strong>BEST</strong></p></td>
 <td><p>店頭限定盤SLiT-006<br />
-<a href="https://ja.wikipedia.org/wiki/SHOXX" title="wikilink">SHOXX</a>限定盤SLiT-006B</p></td>
+<a href="../Page/SHOXX.md" title="wikilink">SHOXX</a>限定盤SLiT-006B</p></td>
 <td><p>SLiT</p></td>
 <td></td>
 </tr>

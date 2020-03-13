@@ -5,14 +5,14 @@
 
 [2011年](../Page/2011年.md "wikilink")（[平成](../Page/平成.md "wikilink")23年）[3月31日](../Page/3月31日.md "wikilink")までは、以下の3波体勢で放送されていた。
 
-  - [NHK衛星第1テレビジョン](https://ja.wikipedia.org/wiki/NHK_BS1 "wikilink")（旧BS1） - デジタル101ch／アナログBS-7ch。
-  - [NHK衛星第2テレビジョン](https://ja.wikipedia.org/wiki/NHK衛星第2テレビジョン "wikilink")（BS2） - デジタル102ch／アナログBS-11ch。
-  - [NHKデジタル衛星ハイビジョン](https://ja.wikipedia.org/wiki/NHKデジタル衛星ハイビジョン "wikilink")（BShi） - デジタル103・104・105ch。旧NHK-BSの代表サービス。
+  - [NHK衛星第1テレビジョン](../Page/NHK_BS1.md "wikilink")（旧BS1） - デジタル101ch／アナログBS-7ch。
+  - [NHK衛星第2テレビジョン](../Page/NHK衛星第2テレビジョン.md "wikilink")（BS2） - デジタル102ch／アナログBS-11ch。
+  - [NHKデジタル衛星ハイビジョン](../Page/NHKデジタル衛星ハイビジョン.md "wikilink")（BShi） - デジタル103・104・105ch。旧NHK-BSの代表サービス。
       - データ放送 - デジタル700・701・707・708ch。
 
 2011年（平成23年）[4月1日](../Page/4月1日.md "wikilink")から[2018年](../Page/2018年.md "wikilink")（平成30年）[11月30日](../Page/11月30日.md "wikilink")までは以下の2波体勢で放送されていた。
 
-  - [NHK BS1](https://ja.wikipedia.org/wiki/NHK_BS1 "wikilink")（新BS1） - 「NHK衛星第1」の名称変更。デジタル101・102ch／アナログBS-7ch。新NHK-BSの代表サービス。
+  - [NHK BS1](../Page/NHK_BS1.md "wikilink")（新BS1） - 「NHK衛星第1」の名称変更。デジタル101・102ch／アナログBS-7ch。新NHK-BSの代表サービス。
   - [NHK BSプレミアム](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")（BSP） - 「NHK衛星第2」及び「NHKデジタル衛星ハイビジョン」を統合しリニューアル。デジタル103・104ch／アナログBS-11ch。
       - データ放送 - デジタル700・701・707ch。
 

@@ -8,7 +8,7 @@
   - [1996年](../Page/1996年.md "wikilink")[11月27日](../Page/11月27日.md "wikilink")に[avex traxよりリリースされた](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
   - 自身が出演した日立マクセル（現・[マクセル](https://ja.wikipedia.org/wiki/マクセル "wikilink")）「[UD2](https://ja.wikipedia.org/wiki/マクセルホールディングス#主な製品 "wikilink")」のCFイメージソング。
   - お馴染みの元[dos](https://ja.wikipedia.org/wiki/dos_\(音楽ユニット\) "wikilink")・[KABAによる振付](../Page/KABA.ちゃん.md "wikilink")。[タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")が、振付含めお気に入りの曲として挙げていた。
-  - 同時期に、第25回“[ベストドレッサー賞](https://ja.wikipedia.org/wiki/ベストドレッサー賞 "wikilink")”を受賞（女性部門）。
+  - 同時期に、第25回“[ベストドレッサー賞](../Page/ベストドレッサー賞.md "wikilink")”を受賞（女性部門）。
   - 翌年[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")には、前半の全国ツアータイトルにもなった“Namie Amuro tour 1997 a walk in the park”を開催し、12万人を動員した。
   - 累計出荷枚数は110万枚\[1\]。
   - [松尾潔](https://ja.wikipedia.org/wiki/松尾潔 "wikilink")は「日本の[歌謡曲](../Page/歌謡曲.md "wikilink")の伝統と[R\&Bのエッセンスが最も有機的に結合した例の一つ](../Page/リズム・アンド・ブルース.md "wikilink")」と評している\[2\]。
@@ -35,7 +35,7 @@
 
 <!-- end list -->
 
-  - オリジナル『**[Concentration 20](https://ja.wikipedia.org/wiki/Concentration_20 "wikilink")**』(remix)
+  - オリジナル『**[Concentration 20](../Page/Concentration_20.md "wikilink")**』(remix)
   - ベスト『**[181920](https://ja.wikipedia.org/wiki/181920 "wikilink")**』（『**181920 & films**』も同様）
   - ライヴ『**[namie amuro 5 Major Domes Tour 2012 〜20th Anniversary Best〜](https://ja.wikipedia.org/wiki/namie_amuro_5_Major_Domes_Tour_2012_〜20th_Anniversary_Best〜 "wikilink")**』（レンタル限定・豪華盤）
   - ベスト『**[Finally](https://ja.wikipedia.org/wiki/Finally_\(安室奈美恵のアルバム\) "wikilink")**』（Disc-1）

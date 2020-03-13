@@ -1,9 +1,9 @@
 > この記事は[ \(PR\)](https://ja.wikipedia.org/wiki/_\(PR\))から翻訳されています。
 
 
-株式会社**フルハウス**は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[北青山](https://ja.wikipedia.org/wiki/北青山 "wikilink")に本社を置く、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[PR会社](../Page/パブリック・リレーションズ.md "wikilink")。
+株式会社**フルハウス**は、[東京都](../Page/東京都.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[北青山](../Page/北青山.md "wikilink")に本社を置く、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[PR会社](../Page/パブリック・リレーションズ.md "wikilink")。
 
-[日本パブリックリレーションズ協会](https://ja.wikipedia.org/wiki/日本パブリックリレーションズ協会 "wikilink")に所属している。[ハウフルス](https://ja.wikipedia.org/wiki/ハウフルス "wikilink")は関連会社。
+[日本パブリックリレーションズ協会](https://ja.wikipedia.org/wiki/日本パブリックリレーションズ協会 "wikilink")に所属している。[ハウフルス](../Page/ハウフルス.md "wikilink")は関連会社。
 
 ## 沿革
 
@@ -47,7 +47,7 @@ PR業務が主体だが、かつては映像制作部門も持ち、テレビ番
   - 株式会社環境美装
   - 株式会社エフロード
   - 株式会社エフキッズ
-  - 株式会社[ハウフルス](https://ja.wikipedia.org/wiki/ハウフルス "wikilink")
+  - 株式会社[ハウフルス](../Page/ハウフルス.md "wikilink")
   - 株式会社オンライン
 
 ## 外部リンク

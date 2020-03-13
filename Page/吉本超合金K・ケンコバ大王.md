@@ -5,7 +5,7 @@
 
 ## 概要
 
-毎回[ケンドーコバヤシ](https://ja.wikipedia.org/wiki/ケンドーコバヤシ "wikilink")がロケを敢行し、2003年3月に番組が終了するまでの合計[視聴率](../Page/視聴率.md "wikilink")を100%にすることを目指していた[深夜番組](../Page/深夜番組.md "wikilink")である。ケンドーコバヤシ初の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")でもあった。
+毎回[ケンドーコバヤシ](../Page/ケンドーコバヤシ.md "wikilink")がロケを敢行し、2003年3月に番組が終了するまでの合計[視聴率](../Page/視聴率.md "wikilink")を100%にすることを目指していた[深夜番組](../Page/深夜番組.md "wikilink")である。ケンドーコバヤシ初の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")でもあった。
 
 オープニングでは毎回通算視聴率が発表されていたが、結果的には全23回の放送で合計50%弱と目標値の半分にも届かない数字に終わった。ただし、1回あたり平均4.76%というノルマは放送曜日や時間帯を考えるとかなり高い目標値であった。
 
@@ -15,38 +15,38 @@
 
 ### レギュラー
 
-  - [ケンドーコバヤシ](https://ja.wikipedia.org/wiki/ケンドーコバヤシ "wikilink")
+  - [ケンドーコバヤシ](../Page/ケンドーコバヤシ.md "wikilink")
   - [千原こずえ](https://ja.wikipedia.org/wiki/千原こずえ "wikilink")
 
 ### ゲスト
 
-  - [ハリガネロック](https://ja.wikipedia.org/wiki/ハリガネロック "wikilink")
+  - [ハリガネロック](../Page/ハリガネロック.md "wikilink")
   - [陣内智則](../Page/陣内智則.md "wikilink")
-  - [たむらけんじ](https://ja.wikipedia.org/wiki/たむらけんじ "wikilink")
+  - [たむらけんじ](../Page/たむらけんじ.md "wikilink")
   - [田村裕](https://ja.wikipedia.org/wiki/田村裕 "wikilink")（[麒麟](../Page/麒麟_\(お笑いコンビ\).md "wikilink")）
   - 木村卓寛（[天津](https://ja.wikipedia.org/wiki/天津_\(お笑い\) "wikilink")）
   - [チュートリアル](../Page/チュートリアル_\(お笑いコンビ\).md "wikilink")
   - [笑い飯](../Page/笑い飯.md "wikilink")
   - [土肥ポン太](../Page/土肥ポン太.md "wikilink")
-  - [浅越ゴエ](../Page/浅越ゴエ.md "wikilink")（[ザ・プラン9](https://ja.wikipedia.org/wiki/ザ・プラン9 "wikilink")）
+  - [浅越ゴエ](../Page/浅越ゴエ.md "wikilink")（[ザ・プラン9](../Page/ザ・プラン9.md "wikilink")）
   - ほか
 
 ## スタッフ
 
-  - 作家 - [かわら長介](https://ja.wikipedia.org/wiki/かわら長介 "wikilink")
+  - 作家 - [かわら長介](../Page/かわら長介.md "wikilink")
   - カメラ - 細川貴史
   - 編集 - 牧原保
   - 音効 - 衛藤恒明
-  - オープニングCG - [原田専門家](https://ja.wikipedia.org/wiki/原田専門家 "wikilink")
+  - オープニングCG - [原田専門家](../Page/原田専門家.md "wikilink")
   - アシスタントディレクター - 安達澄子
   - ディレクター - 坂本丈一
   - プロデューサー - 徳岡敦朗（TVO）、大木里織（吉本興業）
-  - 制作協力 - [アイ・ティ・エス](https://ja.wikipedia.org/wiki/アイ・ティ・エス "wikilink") / [Trash](https://ja.wikipedia.org/wiki/トラッシュ_\(映像プロダクション\) "wikilink")、[アンカー](https://ja.wikipedia.org/wiki/アンカー_\(ポストプロダクション\) "wikilink")、[戯音工房](https://ja.wikipedia.org/wiki/戯音工房 "wikilink")
+  - 制作協力 - [アイ・ティ・エス](../Page/アイ・ティ・エス.md "wikilink") / [Trash](https://ja.wikipedia.org/wiki/トラッシュ_\(映像プロダクション\) "wikilink")、[アンカー](https://ja.wikipedia.org/wiki/アンカー_\(ポストプロダクション\) "wikilink")、[戯音工房](../Page/戯音工房.md "wikilink")
   - 製作 - テレビ大阪、吉本興業
 
 ## オープニングテーマ
 
-  - ロメオ（[BLANKEY JET CITY](https://ja.wikipedia.org/wiki/BLANKEY_JET_CITY "wikilink")）
+  - ロメオ（[BLANKEY JET CITY](../Page/BLANKEY_JET_CITY.md "wikilink")）
 
 ## 放送局
 
@@ -104,10 +104,10 @@
 
 ## 関連項目
 
-  - [吉本超合金](https://ja.wikipedia.org/wiki/吉本超合金 "wikilink") - 吉本超合金シリーズの礎となった番組で、[FUJIWARA](../Page/FUJIWARA.md "wikilink")と[2丁拳銃](../Page/2丁拳銃.md "wikilink")がメインを務めていた。
-  - [吉本超合金F](https://ja.wikipedia.org/wiki/吉本超合金F "wikilink") - 吉本超合金シリーズの2作目に当たる番組で、FUJIWARAの2人がメインを務めていた。
+  - [吉本超合金](../Page/吉本超合金.md "wikilink") - 吉本超合金シリーズの礎となった番組で、[FUJIWARA](../Page/FUJIWARA.md "wikilink")と[2丁拳銃](../Page/2丁拳銃.md "wikilink")がメインを務めていた。
+  - [吉本超合金F](../Page/吉本超合金F.md "wikilink") - 吉本超合金シリーズの2作目に当たる番組で、FUJIWARAの2人がメインを務めていた。
   - [吉本超合金A](https://ja.wikipedia.org/wiki/吉本超合金A "wikilink") - 吉本超合金シリーズの3作目にあたる番組で、[アキナの](https://ja.wikipedia.org/wiki/アキナ_\(お笑いコンビ\) "wikilink")2人がメインを務めている。
-  - [大阪フジワラリゾート](../Page/大阪フジワラリゾート.md "wikilink") - 本番組の終了後に日曜25:05枠でスタートした番組。超合金シリーズではないが、FUJIWARA、[千鳥](https://ja.wikipedia.org/wiki/千鳥_\(お笑いコンビ\) "wikilink")、[サバンナがメインを務めていた](https://ja.wikipedia.org/wiki/サバンナ_\(お笑いコンビ\) "wikilink")。
+  - [大阪フジワラリゾート](../Page/大阪フジワラリゾート.md "wikilink") - 本番組の終了後に日曜25:05枠でスタートした番組。超合金シリーズではないが、FUJIWARA、[千鳥](../Page/千鳥_\(お笑いコンビ\).md "wikilink")、[サバンナがメインを務めていた](../Page/サバンナ_\(お笑いコンビ\).md "wikilink")。
 
 ## 脚注
 

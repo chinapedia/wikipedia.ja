@@ -29,7 +29,7 @@
 <td><p><small></p>
 <ul>
 <li>6月7日生、O型。</li>
-<li><a href="https://ja.wikipedia.org/wiki/京都府" title="wikilink">京都府</a>出身。</li>
+<li><a href="../Page/京都府.md" title="wikilink">京都府</a>出身。</li>
 <li>身長160.2㎝。</li>
 <li>中学時代より音楽に触れ始め、元はギタリストでもあったが、ボーカルへと移った。</li>
 <li>活動休止後<a href="https://ja.wikipedia.org/wiki/The_THIRTEEN" title="wikilink">The THIRTEENを結成する</a>。 </small></li>
@@ -44,7 +44,7 @@
 <ul>
 <li>4月2日生、AB型。</li>
 <li><a href="../Page/滋賀県.md" title="wikilink">滋賀県</a>出身。</li>
-<li>ギタリストとして<a href="../Page/LUNA_SEA.md" title="wikilink">LUNA SEAの</a><a href="https://ja.wikipedia.org/wiki/SUGIZO" title="wikilink">SUGIZO</a>と<a href="https://ja.wikipedia.org/wiki/INORAN" title="wikilink">INORAN</a>、<a href="https://ja.wikipedia.org/wiki/PIERROT" title="wikilink">PIERROT</a>の<a href="../Page/Aiji.md" title="wikilink">アイジと</a><a href="../Page/潤.md" title="wikilink">潤</a>、<a href="../Page/Laputa.md" title="wikilink">Laputa</a>の<a href="https://ja.wikipedia.org/wiki/Kouichi" title="wikilink">Kouichi</a>へのリスペクトを表明している[2]。</li>
+<li>ギタリストとして<a href="../Page/LUNA_SEA.md" title="wikilink">LUNA SEAの</a><a href="../Page/SUGIZO.md" title="wikilink">SUGIZO</a>と<a href="../Page/INORAN.md" title="wikilink">INORAN</a>、<a href="https://ja.wikipedia.org/wiki/PIERROT" title="wikilink">PIERROT</a>の<a href="../Page/Aiji.md" title="wikilink">アイジと</a><a href="../Page/潤.md" title="wikilink">潤</a>、<a href="../Page/Laputa.md" title="wikilink">Laputa</a>の<a href="../Page/Kouichi.md" title="wikilink">Kouichi</a>へのリスペクトを表明している[2]。</li>
 <li>2010年同じ滋賀県出身の<a href="../Page/T.M.Revolution.md" title="wikilink">T.M.Revolution</a>のサポートメンバーを務める。</li>
 <li><a href="https://ja.wikipedia.org/wiki/REIGN" title="wikilink">REIGN</a>郁磨（Vo.）の動画コンテンツ「悪魔的教育講座」の宇宙編・特別篇に出演している。</small></li>
 <li><small>楽曲メインコンポーザー</small></li>
@@ -61,7 +61,7 @@
 <li>1984年1月8日生、B型。</li>
 <li>滋賀県出身。</li>
 <li>2009年よりムックの逹瑯と共にカラスというセッションに参加し、2009年12月27日には日本武道館にてLIVEを行う。</li>
-<li><a href="https://ja.wikipedia.org/wiki/ナイトメア_(バンド)" title="wikilink">ナイトメアの</a><a href="../Page/柩_(ミュージシャン).md" title="wikilink">柩によるプロジェクト</a><a href="https://ja.wikipedia.org/wiki/GREMLINS" title="wikilink">GREMLINS</a>にてギターを担当している。</li>
+<li><a href="../Page/ナイトメア_(バンド).md" title="wikilink">ナイトメアの</a><a href="../Page/柩_(ミュージシャン).md" title="wikilink">柩によるプロジェクト</a><a href="https://ja.wikipedia.org/wiki/GREMLINS" title="wikilink">GREMLINS</a>にてギターを担当している。</li>
 <li>かつてはVo.真緒と住んでいた経歴がある。</li>
 <li>活動休止後The THIRTEENを結成する。</li>
 </ul>
@@ -70,7 +70,7 @@
 <tr class="even">
 <td><p><em>' 亜季</em>'<br />
 <small>（あき）</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ベース_(弦楽器)" title="wikilink">Ba.</a></p></td>
+<td><p><a href="../Page/ベース_(弦楽器).md" title="wikilink">Ba.</a></p></td>
 <td></td>
 <td><p><small></p>
 <ul>
@@ -115,7 +115,7 @@
 <li>B型</li>
 <li>大阪府出身。</li>
 <li>2006年1月に家庭の事情で脱退する。</li>
-<li>1999年〜2001年まで、<a href="https://ja.wikipedia.org/wiki/DAS:VASSER" title="wikilink">DAS:VASSER</a>のローディをしていた。</small></li>
+<li>1999年〜2001年まで、<a href="../Page/DAS:VASSER.md" title="wikilink">DAS:VASSER</a>のローディをしていた。</small></li>
 </ul></td>
 </tr>
 </tbody>
@@ -139,7 +139,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/7月27日.md" title="wikilink">7月27日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/7月27日.md" title="wikilink">7月27日</a></p></td>
 <td><p>''' 黒衣の下の欲望と、苦悩の果てに視た百景の百合達 '''</p></td>
 <td><p>MRS-0001</p></td>
 <td><p>1.淡き群青<br />
@@ -161,7 +161,7 @@
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/8月2日.md" title="wikilink">8月2日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/8月2日.md" title="wikilink">8月2日</a></p></td>
 <td><p>''' GRUDGE OF SORROW '''</p></td>
 <td><p>MRS-0006</p></td>
 <td><p>1.GRUDGE OF SORROW<br />
@@ -199,7 +199,7 @@ PV監修に「<a href="../Page/スクリーミング・マッド・ジョージ.
 </tr>
 <tr class="even">
 <td><p>6</p></td>
-<td><p>2008年<a href="https://ja.wikipedia.org/wiki/7月23日" title="wikilink">7月23日</a></p></td>
+<td><p>2008年<a href="../Page/7月23日.md" title="wikilink">7月23日</a></p></td>
 <td><p>''' Grieving the dead soul '''</p></td>
 <td><p>MRS-0018<br />
 MRS-0019</p></td>

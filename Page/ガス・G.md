@@ -7,11 +7,11 @@
 
 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、[パワーメタル](../Page/パワーメタル.md "wikilink")・バンド「[ファイアーウインド](../Page/ファイアーウインド.md "wikilink")」を結成し、活動を始める\[1\]。
 
-その後[2001年](../Page/2001年.md "wikilink")、ドイツの[メロディックスピードメタル](https://ja.wikipedia.org/wiki/メロディックスピードメタル "wikilink")バンド、[ミスティック・プロフェシー](https://ja.wikipedia.org/wiki/ミスティック・プロフェシー "wikilink")のメンバーとしてメジャーシーンに登場する。他に、[ナイトレイジ](https://ja.wikipedia.org/wiki/ナイトレイジ "wikilink")や[ドリーム・イーヴル](../Page/ドリーム・イーヴル.md "wikilink")のメンバーも掛け持ちし、「世界一多忙なギタリスト」と呼ばれていた。現在はファイアーウインドの活動に専念するため、他のバンドから全て脱退している。
+その後[2001年](../Page/2001年.md "wikilink")、ドイツの[メロディックスピードメタル](../Page/メロディックスピードメタル.md "wikilink")バンド、[ミスティック・プロフェシー](https://ja.wikipedia.org/wiki/ミスティック・プロフェシー "wikilink")のメンバーとしてメジャーシーンに登場する。他に、[ナイトレイジ](https://ja.wikipedia.org/wiki/ナイトレイジ "wikilink")や[ドリーム・イーヴル](../Page/ドリーム・イーヴル.md "wikilink")のメンバーも掛け持ちし、「世界一多忙なギタリスト」と呼ばれていた。現在はファイアーウインドの活動に専念するため、他のバンドから全て脱退している。
 
-また、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")には[クリストファー・アモット](../Page/クリストファー・アモット.md "wikilink")が脱退した[アーチ・エネミー](https://ja.wikipedia.org/wiki/アーチ・エネミー "wikilink")にサポート・ギタリストとしてツアーに参加した。また、同時期に作られたアーチ・エネミーの6thアルバム、『DOOMSDAY MACHINE』にも参加している。
+また、[2005年](../Page/2005年.md "wikilink")には[クリストファー・アモット](../Page/クリストファー・アモット.md "wikilink")が脱退した[アーチ・エネミー](../Page/アーチ・エネミー.md "wikilink")にサポート・ギタリストとしてツアーに参加した。また、同時期に作られたアーチ・エネミーの6thアルバム、『DOOMSDAY MACHINE』にも参加している。
 
-[2009年](../Page/2009年.md "wikilink")夏から[オジー・オズボーン](https://ja.wikipedia.org/wiki/オジー・オズボーン "wikilink")のツアーに参加。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")6月発売のアルバム『[SCREAM](https://ja.wikipedia.org/wiki/スクリーム_\(オジー・オズボーンのアルバム\) "wikilink")』にも参加\[2\]。
+[2009年](../Page/2009年.md "wikilink")夏から[オジー・オズボーン](../Page/オジー・オズボーン.md "wikilink")のツアーに参加。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")6月発売のアルバム『[SCREAM](https://ja.wikipedia.org/wiki/スクリーム_\(オジー・オズボーンのアルバム\) "wikilink")』にも参加\[2\]。
 
 [2014年](../Page/2014年.md "wikilink")、初のソロアルバム『[I Am the Fire](https://ja.wikipedia.org/wiki/アイ・アム・ザ・ファイア "wikilink")』をリリース\[3\]。
 
@@ -21,7 +21,7 @@
 
 ## 使用機材
 
-[ESPとエンドーズ契約をしていた](../Page/イーエスピー.md "wikilink")。[2016年](../Page/2016年.md "wikilink")に新たに[Jacksonとエンドースメント契約を締結している](../Page/ジャクソン_\(楽器メーカー\).md "wikilink")。また[Seymour Duncanから自身のアーティストモデルであるピックアップが発売されている](https://ja.wikipedia.org/wiki/セイモア・ダンカン "wikilink")。
+[ESPとエンドーズ契約をしていた](../Page/イーエスピー.md "wikilink")。[2016年](../Page/2016年.md "wikilink")に新たに[Jacksonとエンドースメント契約を締結している](../Page/ジャクソン_\(楽器メーカー\).md "wikilink")。また[Seymour Duncanから自身のアーティストモデルであるピックアップが発売されている](../Page/セイモア・ダンカン.md "wikilink")。
 
 ## ディスコグラフィ
 

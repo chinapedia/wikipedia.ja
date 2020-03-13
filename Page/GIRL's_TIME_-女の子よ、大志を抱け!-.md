@@ -1,7 +1,7 @@
 > この記事は[GIRL\'s TIME -!-](https://ja.wikipedia.org/wiki/GIRL\'s_TIME_-!-)から翻訳されています。
 
 
-『**GIRL's TIME -女の子よ、大志を抱け\!-**』とは、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[パルコ劇場](https://ja.wikipedia.org/wiki/パルコ劇場 "wikilink")及び[1996年](../Page/1996年.md "wikilink")[シアター・ドラマシティ](https://ja.wikipedia.org/wiki/シアター・ドラマシティ "wikilink")で初演された、[宮本亜門](https://ja.wikipedia.org/wiki/宮本亜門 "wikilink")総合[演出](../Page/演出.md "wikilink")の舞台作品。[脚本](../Page/脚本.md "wikilink")・[大石静](https://ja.wikipedia.org/wiki/大石静 "wikilink")、音楽監督・[広瀬香美](https://ja.wikipedia.org/wiki/広瀬香美 "wikilink")。
+『**GIRL's TIME -女の子よ、大志を抱け\!-**』とは、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[パルコ劇場](https://ja.wikipedia.org/wiki/パルコ劇場 "wikilink")及び[1996年](../Page/1996年.md "wikilink")[シアター・ドラマシティ](https://ja.wikipedia.org/wiki/シアター・ドラマシティ "wikilink")で初演された、[宮本亜門](https://ja.wikipedia.org/wiki/宮本亜門 "wikilink")総合[演出](../Page/演出.md "wikilink")の舞台作品。[脚本](../Page/脚本.md "wikilink")・[大石静](../Page/大石静.md "wikilink")、音楽監督・[広瀬香美](https://ja.wikipedia.org/wiki/広瀬香美 "wikilink")。
 
 ## 概要
 
@@ -25,7 +25,7 @@
 
 | 初演                                                      | 再演                                                          |
 | ------------------------------------------------------- | ----------------------------------------------------------- |
-| [生田智子](https://ja.wikipedia.org/wiki/生田智子 "wikilink")   | 生田智子                                                        |
+| [生田智子](../Page/生田智子.md "wikilink")                      | 生田智子                                                        |
 | [大島蓉子](../Page/大島蓉子.md "wikilink")                      | [入絵加奈子](../Page/入絵加奈子.md "wikilink")                        |
 | [岡千絵](https://ja.wikipedia.org/wiki/岡千絵 "wikilink")     | 大島蓉子                                                        |
 | [佐々木陽子](https://ja.wikipedia.org/wiki/佐々木陽子 "wikilink") | [岡千絵](https://ja.wikipedia.org/wiki/岡千絵 "wikilink")         |

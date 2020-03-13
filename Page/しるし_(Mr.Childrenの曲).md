@@ -1,11 +1,11 @@
 > この記事は[ \(Mr.Children\)](https://ja.wikipedia.org/wiki/_\(Mr.Children\))から翻訳されています。
 
 
-「**しるし**」は、[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の29枚目の[シングル](../Page/シングル.md "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月15日](../Page/11月15日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より発売。
+「**しるし**」は、[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の29枚目の[シングル](../Page/シングル.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[11月15日](../Page/11月15日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より発売。
 
 ## 概要
 
-前作から約4ヶ月ぶりの発売。15thシングル「[終わりなき旅](../Page/終わりなき旅.md "wikilink")」以来14作ぶりに桜井がジャケットを飾った（アルバムを含めると9thアルバム『[Q](../Page/Q_\(アルバム\).md "wikilink")』以来）。ジャケットの桜井は[胎児](https://ja.wikipedia.org/wiki/胎児 "wikilink")をイメージしており、主題歌である[日本テレビ系ドラマ](../Page/日本テレビ放送網.md "wikilink")『[14才の母](https://ja.wikipedia.org/wiki/14才の母 "wikilink")』でも[番組宣伝](https://ja.wikipedia.org/wiki/番組宣伝 "wikilink")や、オープニングなどでこの胎児のイメージが使われていた。アートディレクターは[丹下紘希](https://ja.wikipedia.org/wiki/丹下紘希 "wikilink")。
+前作から約4ヶ月ぶりの発売。15thシングル「[終わりなき旅](../Page/終わりなき旅.md "wikilink")」以来14作ぶりに桜井がジャケットを飾った（アルバムを含めると9thアルバム『[Q](../Page/Q_\(アルバム\).md "wikilink")』以来）。ジャケットの桜井は[胎児](../Page/胎児.md "wikilink")をイメージしており、主題歌である[日本テレビ系ドラマ](../Page/日本テレビ放送網.md "wikilink")『[14才の母](../Page/14才の母.md "wikilink")』でも[番組宣伝](../Page/番組宣伝.md "wikilink")や、オープニングなどでこの胎児のイメージが使われていた。アートディレクターは[丹下紘希](../Page/丹下紘希.md "wikilink")。
 
 ## チャート成績
 
@@ -13,9 +13,9 @@
 
 前作までとは異なり、本作の発売時はテレビ番組への出演が非常に多く、特に[テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』には[スーパーライブも含めると](../Page/ミュージックステーションスーパーライブ.md "wikilink")3度も出演した。
 
-発売日と集計期間の関係上、オリコンでの2006年度の年間チャート（2005年12月5日付 - 06年12月18日付）では7位（2007年度は31位）となり、2006年1月から12月までで集計された『[COUNT DOWN TV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")』（年越しプレミアライブ 2008 - 2009での再発表時）や『ミュージックステーション』での2006年度の年間ランキングでは2位となった。
+発売日と集計期間の関係上、オリコンでの2006年度の年間チャート（2005年12月5日付 - 06年12月18日付）では7位（2007年度は31位）となり、2006年1月から12月までで集計された『[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")』（年越しプレミアライブ 2008 - 2009での再発表時）や『ミュージックステーション』での2006年度の年間ランキングでは2位となった。
 
-2007年1月15日付のオリコンチャートで7週ぶりに1位を獲得。シングルの1位返り咲きは、5thシングル「innocent world」と、6thシングル「[Tomorrow never knows](../Page/Tomorrow_never_knows_\(Mr.Childrenの曲\).md "wikilink")」に続いて3作目で、松田聖子、[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")に並び、シングル返り咲き1位作品数の歴代1位タイ記録となった。4週以上空いての返り咲き1位は、2006年1月16日付に[修二と彰](https://ja.wikipedia.org/wiki/修二と彰 "wikilink")が「[青春アミーゴ](../Page/青春アミーゴ.md "wikilink")」で達成して以来1年ぶり。また、25thシングル「[掌/くるみ](https://ja.wikipedia.org/wiki/掌/くるみ "wikilink")」以来となる10週連続トップ10入りを記録した。
+2007年1月15日付のオリコンチャートで7週ぶりに1位を獲得。シングルの1位返り咲きは、5thシングル「innocent world」と、6thシングル「[Tomorrow never knows](../Page/Tomorrow_never_knows_\(Mr.Childrenの曲\).md "wikilink")」に続いて3作目で、松田聖子、[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")に並び、シングル返り咲き1位作品数の歴代1位タイ記録となった。4週以上空いての返り咲き1位は、2006年1月16日付に[修二と彰](../Page/修二と彰.md "wikilink")が「[青春アミーゴ](../Page/青春アミーゴ.md "wikilink")」で達成して以来1年ぶり。また、25thシングル「[掌/くるみ](https://ja.wikipedia.org/wiki/掌/くるみ "wikilink")」以来となる10週連続トップ10入りを記録した。
 
 ## 収録曲
 
@@ -24,17 +24,17 @@
       - [調](https://ja.wikipedia.org/wiki/調 "wikilink")：[変ニ長調](https://ja.wikipedia.org/wiki/変ニ長調 "wikilink")
     <!-- end list -->
       -
-        [日本テレビ系ドラマ](../Page/日本テレビ放送網.md "wikilink")『[14才の母](https://ja.wikipedia.org/wiki/14才の母 "wikilink")』主題歌。
+        [日本テレビ系ドラマ](../Page/日本テレビ放送網.md "wikilink")『[14才の母](../Page/14才の母.md "wikilink")』主題歌。
         桜井はこの曲について「両極の物語の中心にある『愛』とかいうもの、それを実感してもらえたらと願っています。最高のラブソングができました」とコメントしている。
         歌詞について桜井は、恋愛中の男女のこととも別れてしまったカップルのことともどちらにも解釈できるものにしたと語っている。
-        [ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")には桜井のみ出演している\[1\]。監督は丹下紘希。[CMでは桜井のみのバージョンとメンバー全員が出演しているバージョンが存在する](../Page/コマーシャルメッセージ.md "wikilink")。ちなみにこのPVは「[SPACE SHOWER Music Video Awards 07](https://ja.wikipedia.org/wiki/SPACE_SHOWER_Music_Video_Awards "wikilink")」で「BEST VIDEO OF THE YEAR」と「BEST GROUP VIDEO」の2つの賞を受賞した。この2つの賞の受賞は「SPACE SHOWER Music Video Awards 04」での「くるみ」以来。ミュージック・ビデオは[2012年](../Page/2012年.md "wikilink")[5月10日](../Page/5月10日.md "wikilink")発売の『[Mr.Children 2005-2010 ＜macro＞](https://ja.wikipedia.org/wiki/Mr.Children_2005-2010_＜macro＞ "wikilink")』の初回限定盤、[2018年](../Page/2018年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")発売の『[Mr.Children DOME & STADIUM TOUR 2017 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_DOME_&_STADIUM_TOUR_2017_Thanksgiving_25 "wikilink")』に収録されている。
+        [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")には桜井のみ出演している\[1\]。監督は丹下紘希。[CMでは桜井のみのバージョンとメンバー全員が出演しているバージョンが存在する](../Page/コマーシャルメッセージ.md "wikilink")。ちなみにこのPVは「[SPACE SHOWER Music Video Awards 07](https://ja.wikipedia.org/wiki/SPACE_SHOWER_Music_Video_Awards "wikilink")」で「BEST VIDEO OF THE YEAR」と「BEST GROUP VIDEO」の2つの賞を受賞した。この2つの賞の受賞は「SPACE SHOWER Music Video Awards 04」での「くるみ」以来。ミュージック・ビデオは[2012年](../Page/2012年.md "wikilink")[5月10日](../Page/5月10日.md "wikilink")発売の『[Mr.Children 2005-2010 ＜macro＞](https://ja.wikipedia.org/wiki/Mr.Children_2005-2010_＜macro＞ "wikilink")』の初回限定盤、[2018年](../Page/2018年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")発売の『[Mr.Children DOME & STADIUM TOUR 2017 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_DOME_&_STADIUM_TOUR_2017_Thanksgiving_25 "wikilink")』に収録されている。
 2.  **ひびき**
       - 作詞・作曲:桜井和寿　編曲:小林武史 & Mr.Children
     <!-- end list -->
       -
         桜井によると自転車に乗っているとき、頭に浮かんだらしい。
         タイトル候補に「クラッカー」や「響き」があったが、最終的に[鈴木英哉](../Page/鈴木英哉.md "wikilink")の一言で「ひびき」に決定した。
-        後にカップリング集アルバム『[B-SIDE](../Page/B-SIDE.md "wikilink")』のプロモーション用に[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")が作られ、ミュージック・ビデオには2ndアルバム『[Kind of Love](../Page/Kind_of_Love.md "wikilink")』、3rdアルバム『[Versus](../Page/Versus_\(アルバム\).md "wikilink")』が登場している。監督は[窪田崇](../Page/窪田崇.md "wikilink")。2014年に開催されたファンクラブ限定ツアー「Mr.Children FATHER\&MOTHER 21周年ファンクラブツアー」の直前に行われた「会員が最もライブで聴きたい曲」では12位に選ばれた\[2\]。
+        後にカップリング集アルバム『[B-SIDE](../Page/B-SIDE.md "wikilink")』のプロモーション用に[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")が作られ、ミュージック・ビデオには2ndアルバム『[Kind of Love](../Page/Kind_of_Love.md "wikilink")』、3rdアルバム『[Versus](../Page/Versus_\(アルバム\).md "wikilink")』が登場している。監督は[窪田崇](../Page/窪田崇.md "wikilink")。2014年に開催されたファンクラブ限定ツアー「Mr.Children FATHER\&MOTHER 21周年ファンクラブツアー」の直前に行われた「会員が最もライブで聴きたい曲」では12位に選ばれた\[2\]。
         制作時に桜井がコーラスを入れたくなって歌っていたところ、小林から「初期のミスチルっぽいね」と言われた\[3\]。
 3.  **くるみ - for the Film - 幸福な食卓**
       - 作詞・作曲:桜井和寿　編曲:小林武史 & Mr.Children
@@ -58,7 +58,7 @@
 <!-- end list -->
 
   - [HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")（2006年11月6日、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
-  - [音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")（2006年11月10日、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
+  - [音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")（2006年11月10日、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
   - [魁\!音楽番付](../Page/魁!音楽番付.md "wikilink")（2006年11月15日、フジテレビ）
 
 <!-- end list -->
@@ -69,7 +69,7 @@
 <!-- end list -->
 
   - ミュージックステーション（2006年11月17日、テレビ朝日）
-  - [COUNT DOWN TV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")（2006年11月18日、[TBS](../Page/TBSテレビ.md "wikilink")）
+  - [COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")（2006年11月18日、[TBS](../Page/TBSテレビ.md "wikilink")）
   - [うたばん](../Page/うたばん.md "wikilink")（2006年11月23日、TBS）
   - [1億3000万人が選ぶ\! ベストアーティスト06](https://ja.wikipedia.org/wiki/1億3000万人が選ぶ!ベストアーティスト "wikilink")（2006年11月29日、日本テレビ）
 
@@ -96,7 +96,7 @@
 <!-- end list -->
 
   -
-    「[フェイク](https://ja.wikipedia.org/wiki/フェイク_\(Mr.Childrenの曲\) "wikilink")」「[彩り](https://ja.wikipedia.org/wiki/HOME_\(Mr.Childrenのアルバム\)#収録曲 "wikilink")」と、シングルでは最大のヒットとなった「[Tomorrow never knows](../Page/Tomorrow_never_knows_\(Mr.Childrenの曲\).md "wikilink")」と共に披露された。
+    「[フェイク](../Page/フェイク_\(Mr.Childrenの曲\).md "wikilink")」「[彩り](https://ja.wikipedia.org/wiki/HOME_\(Mr.Childrenのアルバム\)#収録曲 "wikilink")」と、シングルでは最大のヒットとなった「[Tomorrow never knows](../Page/Tomorrow_never_knows_\(Mr.Childrenの曲\).md "wikilink")」と共に披露された。
 
 <!-- end list -->
 
@@ -105,7 +105,7 @@
 <!-- end list -->
 
   -
-    桜井が[作詞家](../Page/作詞家.md "wikilink")の[阿木燿子](https://ja.wikipedia.org/wiki/阿木燿子 "wikilink")と対談した。「彩り」とテレビでは久々となる「[Mirror](https://ja.wikipedia.org/wiki/深海_\(アルバム\)#収録曲 "wikilink")」と共に披露された。
+    桜井が[作詞家](../Page/作詞家.md "wikilink")の[阿木燿子](../Page/阿木燿子.md "wikilink")と対談した。「彩り」とテレビでは久々となる「[Mirror](https://ja.wikipedia.org/wiki/深海_\(アルバム\)#収録曲 "wikilink")」と共に披露された。
 
 <!-- end list -->
 
@@ -118,7 +118,7 @@
 
 ## カバー
 
-  - [上野優華](https://ja.wikipedia.org/wiki/上野優華 "wikilink")（2017年9月1日、配信シングル『しるし（カバー）』）※週間[USEN](https://ja.wikipedia.org/wiki/USEN "wikilink") HIT J-POPランキング（2017年9月8日〜2017年9月14日　※2017年9月20日集計）で1位を獲得する\[4\]
+  - [上野優華](https://ja.wikipedia.org/wiki/上野優華 "wikilink")（2017年9月1日、配信シングル『しるし（カバー）』）※週間[USEN](../Page/USEN.md "wikilink") HIT J-POPランキング（2017年9月8日〜2017年9月14日　※2017年9月20日集計）で1位を獲得する\[4\]
 
 ## 注釈
 

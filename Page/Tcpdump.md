@@ -3,7 +3,7 @@
 
 **tcpdump**とは、[コマンドライン上で利用する一般的な計算機ネットワーク調査ツールである](../Page/コマンドラインインタプリタ.md "wikilink")。 tcpdumpにより、利用者はコマンドを実行した計算機がつながっているネットワーク上を流れる[TCP/IPなどのパケットを横取って](../Page/インターネット・プロトコル・スイート.md "wikilink")、表示させることが出来る。 このプログラムは開発当時にローレンス・バークリー研究所ネットワーク研究グループに所属していた[バン・ジェイコブソン](https://ja.wikipedia.org/wiki/バン・ジェイコブソン "wikilink")、Craig Leres、Steven McCanneによって書かれた。
 
-tcpdumpはほとんどの[Unix系](../Page/Unix系.md "wikilink")[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")上で動作する。 たとえば、[BSD系Unix](../Page/BSDの子孫.md "wikilink")、[Solaris](../Page/Solaris.md "wikilink")、[Linux](../Page/Linux.md "wikilink")、[HP-UX](../Page/HP-UX.md "wikilink")、[AIX](https://ja.wikipedia.org/wiki/AIX "wikilink")、[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")などで動作する。 これらのシステムでは、tcpdumpは[pcap](https://ja.wikipedia.org/wiki/pcap "wikilink")ライブラリ上に構築されている。
+tcpdumpはほとんどの[Unix系](../Page/Unix系.md "wikilink")[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")上で動作する。 たとえば、[BSD系Unix](../Page/BSDの子孫.md "wikilink")、[Solaris](../Page/Solaris.md "wikilink")、[Linux](../Page/Linux.md "wikilink")、[HP-UX](../Page/HP-UX.md "wikilink")、[AIX](../Page/AIX.md "wikilink")、[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")などで動作する。 これらのシステムでは、tcpdumpは[pcap](https://ja.wikipedia.org/wiki/pcap "wikilink")ライブラリ上に構築されている。
 
 [Windowsにも](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、WinDumpというソフトウェアがある。 これは、tcpdumpをWindows上で動くようにしたものである。
 

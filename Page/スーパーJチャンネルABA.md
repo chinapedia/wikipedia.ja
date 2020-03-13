@@ -7,7 +7,7 @@
 
 他局のローカルニュース番組と比べ、ニュース以外のコーナーも多く、[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")としての顔も併せ持つ。特に[ANN東北](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")6局共同制作のコーナー（東北湯けむり紀行・東北なべめぐり）や、県内のラーメン店を紹介するコーナーなどを設けている（[テレビ朝日](../Page/テレビ朝日.md "wikilink")発「[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")」の特集コーナー「暮らしの達人（ナレーターが[八戸市](https://ja.wikipedia.org/wiki/八戸市 "wikilink")出身の[十日市秀悦](../Page/十日市秀悦.md "wikilink")）」〔関東ローカルで放送されたもの〕を放送した時もある）。
 
-[2000年](../Page/2000年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")から[2003年](../Page/2003年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで、枠内[コンプレックスとして](../Page/コンプレックス_\(番組形式\).md "wikilink")『[アルベナ情報局](https://ja.wikipedia.org/wiki/アルベナ情報局 "wikilink")』を17:40 - 17:54に編成していた。その後同番組は毎週金曜日の情報番組『[シューマッツ](https://ja.wikipedia.org/wiki/シューマッツ "wikilink")』に発展。[2003年](../Page/2003年.md "wikilink")3月31日から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")3月まで17:00 - 19:00に放送していたが、17:54からの全国ニュースを除いてほとんどローカルニュースの時間を設けていなかった。2005年4月1日から[2006年](../Page/2006年.md "wikilink")3月31日まで金曜日は『**スーパーJチャンネルaba Friday**』（略称「**JF**」）として、週末情報を中心に放送していた。
+[2000年](../Page/2000年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")から[2003年](../Page/2003年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで、枠内[コンプレックスとして](../Page/コンプレックス_\(番組形式\).md "wikilink")『[アルベナ情報局](https://ja.wikipedia.org/wiki/アルベナ情報局 "wikilink")』を17:40 - 17:54に編成していた。その後同番組は毎週金曜日の情報番組『[シューマッツ](https://ja.wikipedia.org/wiki/シューマッツ "wikilink")』に発展。[2003年](../Page/2003年.md "wikilink")3月31日から[2005年](../Page/2005年.md "wikilink")3月まで17:00 - 19:00に放送していたが、17:54からの全国ニュースを除いてほとんどローカルニュースの時間を設けていなかった。2005年4月1日から[2006年](../Page/2006年.md "wikilink")3月31日まで金曜日は『**スーパーJチャンネルaba Friday**』（略称「**JF**」）として、週末情報を中心に放送していた。
 
 2015年春改変で「ATVニュースワイド」（青森テレビ）が終了したため、現在放送中の在青テレビ局の夕方ローカルニュース番組としては、「RABニュースレーダー」（青森放送・1970年開始）に次いで、放送期間が2番目に長くなった。
 
@@ -82,11 +82,11 @@
   - [坂口千夏](../Page/坂口千夏.md "wikilink")
   - [泉山まどか](https://ja.wikipedia.org/wiki/泉山まどか "wikilink")（記者、旧姓：桜田）
   - [木村慎吾](../Page/木村慎吾.md "wikilink")（ラーメン企画などを担当）
-  - [佐々木正洋](https://ja.wikipedia.org/wiki/佐々木正洋_\(1974年生\) "wikilink")
+  - [佐々木正洋](../Page/佐々木正洋_\(1974年生\).md "wikilink")
   - [下田武史](../Page/下田武史.md "wikilink")
   - [竹中知華](https://ja.wikipedia.org/wiki/竹中知華 "wikilink")
   - [千田哲史](https://ja.wikipedia.org/wiki/千田哲史 "wikilink")（記者）
-  - [畑山隆則](https://ja.wikipedia.org/wiki/畑山隆則 "wikilink")（元[プロボクサー](../Page/プロボクサー.md "wikilink") スポーツキャスターとして登場）
+  - [畑山隆則](../Page/畑山隆則.md "wikilink")（元[プロボクサー](../Page/プロボクサー.md "wikilink") スポーツキャスターとして登場）
   - [波多野里奈](../Page/波多野里奈.md "wikilink")
   - [藤田亜希子](https://ja.wikipedia.org/wiki/藤田亜希子 "wikilink")
   - [藤元由紀](https://ja.wikipedia.org/wiki/藤元由紀 "wikilink")（天気予報担当）

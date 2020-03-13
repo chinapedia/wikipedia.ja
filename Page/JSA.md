@@ -3,7 +3,7 @@
 
 **JSA**
 
-  - の[IATAコード](https://ja.wikipedia.org/wiki/IATAコード "wikilink")
+  - の[IATAコード](../Page/IATAコード.md "wikilink")
 
   - [日本規格協会](../Page/日本規格協会.md "wikilink") (Japanese Standards Association)の略。
 

@@ -45,13 +45,13 @@
 <td><p>イ・スヒョク<br />
 （韓国軍兵長）</p></td>
 <td><p><a href="../Page/イ・ビョンホン.md" title="wikilink">イ・ビョンホン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/横堀悦夫" title="wikilink">横堀悦夫</a></p></td>
+<td><p><a href="../Page/横堀悦夫.md" title="wikilink">横堀悦夫</a></p></td>
 </tr>
 <tr class="even">
 <td><p>オ・ギョンピル<br />
 （朝鮮人民軍中士）</p></td>
 <td><p><a href="../Page/ソン・ガンホ.md" title="wikilink">ソン・ガンホ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山路和弘" title="wikilink">山路和弘</a></p></td>
+<td><p><a href="../Page/山路和弘.md" title="wikilink">山路和弘</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>ナム・ソンシク<br />
@@ -62,7 +62,7 @@
 <tr class="even">
 <td><p>チョン・ウジン<br />
 （朝鮮人民軍兵士）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シン・ハギュン" title="wikilink">シン・ハギュン</a></p></td>
+<td><p><a href="../Page/シン・ハギュン.md" title="wikilink">シン・ハギュン</a></p></td>
 <td><p><a href="../Page/猪野学.md" title="wikilink">猪野学</a></p></td>
 </tr>
 <tr class="odd">
@@ -110,7 +110,7 @@
 
 ## エピソード
 
-朝鮮人民軍兵士に韓国軍兵士が[チョコパイ](../Page/チョコパイ.md "wikilink")を渡すという有名なシーンは、当初、監督のパク・チャヌクの好きな[マットンサン](https://ja.wikipedia.org/wiki/マットンサン "wikilink")（[:ko:맛동산](https://ja.wikipedia.org/wiki/:ko:맛동산 "wikilink")、[かりんとう](https://ja.wikipedia.org/wiki/かりんとう "wikilink")に似た揚げ[菓子](../Page/菓子.md "wikilink")）を使おうとしていた。しかしながら北朝鮮の生活風習を担当していた[脱北者](../Page/脱北者.md "wikilink")のチョン・ソンサンが北朝鮮でのチョコパイの人気を知っていたため強く反対し、替えさせた経緯がある\[1\]。
+朝鮮人民軍兵士に韓国軍兵士が[チョコパイ](../Page/チョコパイ.md "wikilink")を渡すという有名なシーンは、当初、監督のパク・チャヌクの好きな[マットンサン](https://ja.wikipedia.org/wiki/マットンサン "wikilink")（[:ko:맛동산](https://ja.wikipedia.org/wiki/:ko:맛동산 "wikilink")、[かりんとう](../Page/かりんとう.md "wikilink")に似た揚げ[菓子](../Page/菓子.md "wikilink")）を使おうとしていた。しかしながら北朝鮮の生活風習を担当していた[脱北者](../Page/脱北者.md "wikilink")のチョン・ソンサンが北朝鮮でのチョコパイの人気を知っていたため強く反対し、替えさせた経緯がある\[1\]。
 
 ## 備考
 

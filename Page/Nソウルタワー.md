@@ -1,9 +1,9 @@
 > この記事は[N](https://ja.wikipedia.org/wiki/N)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/画像:Korea-Seoul-Namsan_Cable_Car-02.jpg "wikilink")\]\] **Nソウルタワー**は、[大韓民国](../Page/大韓民国.md "wikilink")[ソウル特別市](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")[龍山区の](../Page/龍山区_\(ソウル特別市\).md "wikilink")[南山](https://ja.wikipedia.org/wiki/南山 "wikilink")公園内、頂上付近にある[塔](../Page/塔.md "wikilink")である。旧名は「南山タワー」。タワーの高さは236.7mである。南山の高さは243ｍなので、海抜からの高さは479.7mとなる。ソウル市内の各所から見ることができ、夜にはライトアップされた姿が浮かび上がる。テレビ・FMラジオ送信などを目的とした総合電波塔として建設されたが、展望台から市内を一望できるため観光地としても人気がある。アクセスは南山の麓と山頂を結ぶ[ロープウェイである](../Page/索道.md "wikilink")[南山ケーブルカー](https://ja.wikipedia.org/wiki/南山ケーブルカー "wikilink")を用いる。
+[thumb](https://ja.wikipedia.org/wiki/画像:Korea-Seoul-Namsan_Cable_Car-02.jpg "wikilink")\]\] **Nソウルタワー**は、[大韓民国](../Page/大韓民国.md "wikilink")[ソウル特別市](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")[龍山区の](../Page/龍山区_\(ソウル特別市\).md "wikilink")[南山](../Page/南山.md "wikilink")公園内、頂上付近にある[塔](../Page/塔.md "wikilink")である。旧名は「南山タワー」。タワーの高さは236.7mである。南山の高さは243ｍなので、海抜からの高さは479.7mとなる。ソウル市内の各所から見ることができ、夜にはライトアップされた姿が浮かび上がる。テレビ・FMラジオ送信などを目的とした総合電波塔として建設されたが、展望台から市内を一望できるため観光地としても人気がある。アクセスは南山の麓と山頂を結ぶ[ロープウェイである](../Page/索道.md "wikilink")[南山ケーブルカー](https://ja.wikipedia.org/wiki/南山ケーブルカー "wikilink")を用いる。
 
-ニュース専門テレビ局[YTN](https://ja.wikipedia.org/wiki/YTN "wikilink")が所有し、正式名称は「YTNソウルタワー」であるが、通常は「Nソウルタワー」と称している。「南山タワー」ともしばしば呼ばれるが、これは公式の名称ではない。
+ニュース専門テレビ局[YTN](../Page/YTN.md "wikilink")が所有し、正式名称は「YTNソウルタワー」であるが、通常は「Nソウルタワー」と称している。「南山タワー」ともしばしば呼ばれるが、これは公式の名称ではない。
 
 ## 所在地
 
@@ -17,13 +17,13 @@
 ## 沿革
 
   - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink") - 完成。
-  - [1972年](../Page/1972年.md "wikilink") - [KBS](../Page/韓国放送公社.md "wikilink")、MBC[文化放送](https://ja.wikipedia.org/wiki/韓国文化放送 "wikilink")、TBC[東洋放送](https://ja.wikipedia.org/wiki/東洋放送 "wikilink")のテレビ電波の送信を開始。
+  - [1972年](../Page/1972年.md "wikilink") - [KBS](../Page/韓国放送公社.md "wikilink")、MBC[文化放送](https://ja.wikipedia.org/wiki/韓国文化放送 "wikilink")、TBC[東洋放送](../Page/東洋放送.md "wikilink")のテレビ電波の送信を開始。
   - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink") - 開館（一般公開）。
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink") - 来館1000万人突破。
   - [1991年](../Page/1991年.md "wikilink") - [SBSテレビの送信を開始](https://ja.wikipedia.org/wiki/ソウル放送 "wikilink")。
-  - [2000年](../Page/2000年.md "wikilink") - 所有権が[YTN](https://ja.wikipedia.org/wiki/YTN "wikilink")に移転。
+  - [2000年](../Page/2000年.md "wikilink") - 所有権が[YTN](../Page/YTN.md "wikilink")に移転。
   - [2001年](../Page/2001年.md "wikilink") - 来館2000万人突破。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") - 全面改修し、「Nソウルタワー」として開館。
+  - [2005年](../Page/2005年.md "wikilink") - 全面改修し、「Nソウルタワー」として開館。
 
 ## 施設
 
@@ -50,14 +50,14 @@
 
 デジタル放送では、親局を冠岳山に移したため、中継局となっている。しかし出力は送信周波数が高いこともありNソウルタワー局の方が大きい。物理チャンネル番号は日本のチャンネル番号+1となっており、日本の13chが韓国の14chに相当する。
 
-| リモコンキーID | 放送局名                                                              | 施設名称          | 物理チャンネル | 空中線電力 | 放送対象地域 |
-| -------- | ----------------------------------------------------------------- | ------------- | ------- | ----- | ------ |
-| 6-1      | [SBS](../Page/SBS_\(韓国\).md "wikilink")                           | SBS南山DTV中継局   | K-44    | 5kW   | 首都圈    |
-| 7-1      | [KBSソウル第２テレビ](../Page/韓国放送公社.md "wikilink")                       | KBS南山第2DTV中継局 | K-45    |       |        |
-| 9-1      | [KBSソウル第１テレビ](../Page/韓国放送公社.md "wikilink")                       | KBS南山第1DTV中継局 | K-22    |       |        |
-| 10-1     | EBS[敎育放送第](https://ja.wikipedia.org/wiki/韓国教育放送公社 "wikilink")１テレビ | EBS南山DTV中継局   | K-46    |       |        |
-| 10-2     | EBS[敎育放送第](https://ja.wikipedia.org/wiki/韓国教育放送公社 "wikilink")２テレビ |               |         |       |        |
-| 11-1     | MBC[文化放送](../Page/文化放送_\(韓国\).md "wikilink")                      | MBC南山DTV中継局   | K-50    |       |        |
+| リモコンキーID | 放送局名                                           | 施設名称          | 物理チャンネル | 空中線電力 | 放送対象地域 |
+| -------- | ---------------------------------------------- | ------------- | ------- | ----- | ------ |
+| 6-1      | [SBS](../Page/SBS_\(韓国\).md "wikilink")        | SBS南山DTV中継局   | K-44    | 5kW   | 首都圈    |
+| 7-1      | [KBSソウル第２テレビ](../Page/韓国放送公社.md "wikilink")    | KBS南山第2DTV中継局 | K-45    |       |        |
+| 9-1      | [KBSソウル第１テレビ](../Page/韓国放送公社.md "wikilink")    | KBS南山第1DTV中継局 | K-22    |       |        |
+| 10-1     | EBS[敎育放送第](../Page/韓国教育放送公社.md "wikilink")１テレビ | EBS南山DTV中継局   | K-46    |       |        |
+| 10-2     | EBS[敎育放送第](../Page/韓国教育放送公社.md "wikilink")２テレビ |               |         |       |        |
+| 11-1     | MBC[文化放送](../Page/文化放送_\(韓国\).md "wikilink")   | MBC南山DTV中継局   | K-50    |       |        |
 
 ### 地上アナログテレビジョン放送送信設備
 
@@ -105,7 +105,7 @@
 </tr>
 <tr class="odd">
 <td><p>K-13</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/韓国教育放送公社" title="wikilink">EBS敎育放送</a></p></td>
+<td><p><a href="../Page/韓国教育放送公社.md" title="wikilink">EBS敎育放送</a></p></td>
 <td><p>HLQL-TV</p></td>
 <td><p>映像10kW<br />
 音声?kW</p></td>
@@ -118,11 +118,11 @@
 
 ### FMラジオ放送送信設備
 
-| 周波数      | 放送局名                                                      | 呼出符号    | 空中線電力 | 放送対象地域 |
-| -------- | --------------------------------------------------------- | ------- | ----- | ------ |
-| 96.7MHz  | 国軍放送                                                      | HLSF-FM | 2kW   | 首都圈    |
-| 99.1MHz  | [国楽FM放送](https://ja.wikipedia.org/wiki/国楽FM放送 "wikilink") | HLQA-FM | 5kW   |        |
-| 101.3MHz | [tbs eFM](https://ja.wikipedia.org/wiki/交通放送 "wikilink")  | HLSW-FM | 1kW   |        |
+| 周波数      | 放送局名                                   | 呼出符号    | 空中線電力 | 放送対象地域 |
+| -------- | -------------------------------------- | ------- | ----- | ------ |
+| 96.7MHz  | 国軍放送                                   | HLSF-FM | 2kW   | 首都圈    |
+| 99.1MHz  | [国楽FM放送](../Page/国楽FM放送.md "wikilink") | HLQA-FM | 5kW   |        |
+| 101.3MHz | [tbs eFM](../Page/交通放送.md "wikilink")  | HLSW-FM | 1kW   |        |
 
 ### 地上波DMB放送送信設備
 
@@ -284,10 +284,10 @@
   - [CJグループ](../Page/CJグループ.md "wikilink")
       -
         2005年より傘下のCJ Foodvilleが改補修契約を請け負っている。
-  - [ソウルシティツアーバス](https://ja.wikipedia.org/wiki/ソウルシティツアーバス "wikilink")
-  - [YTN](https://ja.wikipedia.org/wiki/YTN "wikilink")
-  - [釜山タワー](https://ja.wikipedia.org/wiki/釜山タワー "wikilink")（[釜山広域市](../Page/釜山広域市.md "wikilink")）
-  - [東京スカイツリー](https://ja.wikipedia.org/wiki/東京スカイツリー "wikilink")
+  - [ソウルシティツアーバス](../Page/ソウルシティツアーバス.md "wikilink")
+  - [YTN](../Page/YTN.md "wikilink")
+  - [釜山タワー](../Page/釜山タワー.md "wikilink")（[釜山広域市](../Page/釜山広域市.md "wikilink")）
+  - [東京スカイツリー](../Page/東京スカイツリー.md "wikilink")
       -
         こちらも[東武鉄道](../Page/東武鉄道.md "wikilink")グループが所有して在東京の放送事業者に送信設備の場所を貸すという形式が類似する。
 

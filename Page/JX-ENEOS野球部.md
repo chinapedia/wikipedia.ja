@@ -9,9 +9,9 @@
 
 ## 概要
 
-、[横浜金港クラブ](https://ja.wikipedia.org/wiki/横浜金港クラブ "wikilink")のエースであった[日本石油社員の吉村英次郎が尽力し](https://ja.wikipedia.org/wiki/新日本石油 "wikilink")『**日本石油硬式野球部**』として創部\[1\]。一時期、提携先であった「[カルテックス](https://ja.wikipedia.org/wiki/カルテックス "wikilink")（CALTEX）」をユニフォームにロゴとして使用し、「日石カルテックス」と呼ばれた時期もあるが、同一チームである。
+、[横浜金港クラブ](../Page/横浜金港クラブ.md "wikilink")のエースであった[日本石油社員の吉村英次郎が尽力し](https://ja.wikipedia.org/wiki/新日本石油 "wikilink")『**日本石油硬式野球部**』として創部\[1\]。一時期、提携先であった「[カルテックス](https://ja.wikipedia.org/wiki/カルテックス "wikilink")（CALTEX）」をユニフォームにロゴとして使用し、「日石カルテックス」と呼ばれた時期もあるが、同一チームである。
 
-同じく神奈川県に本拠地を置く、[川崎市](../Page/川崎市.md "wikilink")の[日本鋼管](https://ja.wikipedia.org/wiki/日本鋼管野球部 "wikilink")、[三菱自動車川崎](https://ja.wikipedia.org/wiki/三菱ふそう川崎硬式野球部 "wikilink")、[東芝](../Page/東芝硬式野球部.md "wikilink")、[横須賀市](../Page/横須賀市.md "wikilink")の[日産自動車](https://ja.wikipedia.org/wiki/日産自動車硬式野球部 "wikilink")、[藤沢市](../Page/藤沢市.md "wikilink")の[いすゞ自動車らとしのぎを削りながら実力を伸ばし](https://ja.wikipedia.org/wiki/いすゞ自動車硬式野球部 "wikilink")、早々と全国大会の常連となっていった。
+同じく神奈川県に本拠地を置く、[川崎市](../Page/川崎市.md "wikilink")の[日本鋼管](https://ja.wikipedia.org/wiki/日本鋼管野球部 "wikilink")、[三菱自動車川崎](../Page/三菱ふそう川崎硬式野球部.md "wikilink")、[東芝](../Page/東芝硬式野球部.md "wikilink")、[横須賀市](../Page/横須賀市.md "wikilink")の[日産自動車](../Page/日産自動車硬式野球部.md "wikilink")、[藤沢市](../Page/藤沢市.md "wikilink")の[いすゞ自動車らとしのぎを削りながら実力を伸ばし](https://ja.wikipedia.org/wiki/いすゞ自動車硬式野球部 "wikilink")、早々と全国大会の常連となっていった。
 
 の[都市対抗野球で初出場を果たし](../Page/第22回都市対抗野球大会.md "wikilink")、4度目の出場となったの[都市対抗野球で初優勝を達成した](../Page/第27回都市対抗野球大会.md "wikilink")。の[都市対抗野球と](../Page/第32回都市対抗野球大会.md "wikilink")の[都市対抗野球では](../Page/第33回都市対抗野球大会.md "wikilink")、大会史上5チーム目となる2連覇を達成している。
 
@@ -23,7 +23,7 @@
 
 、サービスステーションのブランド名を冠してチーム名を『**新日本石油ENEOS硬式野球部**』に改称した\[2\]。
 
-[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、新日本石油と[新日鉱ホールディングス](https://ja.wikipedia.org/wiki/新日鉱ホールディングス "wikilink")との経営統合により共同持株会社の[JXホールディングスが発足し傘下に入る](https://ja.wikipedia.org/wiki/JXTGホールディングス "wikilink")。さらに、同年[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")にはグループ内の再編により新日本石油が[新日本石油精製](../Page/新日本石油精製.md "wikilink")と[ジャパンエナジー](../Page/ジャパンエナジー.md "wikilink")の吸収合併し[JX日鉱日石エネルギーに社名変更した](https://ja.wikipedia.org/wiki/JXTGエネルギー "wikilink")。これに伴い、同チーム名も7月1日より『**JX-ENEOS野球部**』に改称した\[3\]\[4\]。同時にジャパンエナジー（旧共同石油）女子バスケットボール部もJXサンフラワーズ（現・[JX-ENEOSサンフラワーズ](https://ja.wikipedia.org/wiki/JX-ENEOSサンフラワーズ "wikilink")）に改称している\[5\]。
+[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、新日本石油と[新日鉱ホールディングス](../Page/新日鉱ホールディングス.md "wikilink")との経営統合により共同持株会社の[JXホールディングスが発足し傘下に入る](https://ja.wikipedia.org/wiki/JXTGホールディングス "wikilink")。さらに、同年[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")にはグループ内の再編により新日本石油が[新日本石油精製](../Page/新日本石油精製.md "wikilink")と[ジャパンエナジー](../Page/ジャパンエナジー.md "wikilink")の吸収合併し[JX日鉱日石エネルギーに社名変更した](https://ja.wikipedia.org/wiki/JXTGエネルギー "wikilink")。これに伴い、同チーム名も7月1日より『**JX-ENEOS野球部**』に改称した\[3\]\[4\]。同時にジャパンエナジー（旧共同石油）女子バスケットボール部もJXサンフラワーズ（現・[JX-ENEOSサンフラワーズ](../Page/JX-ENEOSサンフラワーズ.md "wikilink")）に改称している\[5\]。
 
 、同年の[都市対抗野球と](https://ja.wikipedia.org/wiki/第83回都市対抗野球大会 "wikilink")[日本選手権を制し](https://ja.wikipedia.org/wiki/第38回社会人野球日本選手権大会 "wikilink")、史上2チーム目となる同一年2大大会制覇を達成した\[6\]。また、チームとして[社会人ベストナイン](../Page/社会人ベストナイン.md "wikilink")特別賞を受賞した。
 
@@ -87,23 +87,23 @@
 
 ## 主要大会の出場歴・最高成績
 
-  - [全日本アマチュア野球王座決定戦](https://ja.wikipedia.org/wiki/全日本アマチュア野球王座決定戦 "wikilink")：出場1回、優勝1回（1991年）
+  - [全日本アマチュア野球王座決定戦](../Page/全日本アマチュア野球王座決定戦.md "wikilink")：出場1回、優勝1回（1991年）
   - [都市対抗野球大会](../Page/都市対抗野球大会.md "wikilink")：出場49回、優勝11回（1956、1958、1961、1962、1967、1986、1993、1995、2008、2012、2013年）
   - [社会人野球日本選手権大会](../Page/社会人野球日本選手権大会.md "wikilink")：出場21回、優勝2回（1991、2012年）
   - [日本産業対抗野球大会](../Page/日本産業対抗野球大会.md "wikilink")：優勝2回（1965、1972年）
-  - [JABA北海道大会](https://ja.wikipedia.org/wiki/JABA北海道大会 "wikilink")：優勝2回（1993、2019年）
-  - [JABA東北大会](https://ja.wikipedia.org/wiki/JABA東北大会 "wikilink")：優勝3回（2010、2013、2015年）
-  - [JABA東京スポニチ大会](https://ja.wikipedia.org/wiki/JABA東京スポニチ大会 "wikilink")：優勝11回（1961、1962、1966、1982、1988、1991、1994、1995、2008、2009、2011年）
-  - [JABA静岡大会](https://ja.wikipedia.org/wiki/JABA静岡大会 "wikilink")：優勝1回（1956年）
-  - [JABA長野県知事旗争奪野球大会](https://ja.wikipedia.org/wiki/JABA長野県知事旗争奪野球大会 "wikilink")：優勝1回（2007年）
-  - [JABAベーブルース杯争奪大会](https://ja.wikipedia.org/wiki/JABAベーブルース杯争奪大会 "wikilink")：優勝3回（1955、1956、1964年）
-  - [JABA京都大会](https://ja.wikipedia.org/wiki/JABA京都大会 "wikilink")：優勝3回（1964、1966、1968年）
-  - [JABA岡山大会](https://ja.wikipedia.org/wiki/JABA岡山大会 "wikilink")：優勝8回（1966、1967、1968、1992、1995、1996、1997、2009年）
-  - [JABA四国大会](https://ja.wikipedia.org/wiki/JABA四国大会 "wikilink")：優勝1回（2012年）
-  - [JABA九州大会](https://ja.wikipedia.org/wiki/JABA九州大会 "wikilink")：優勝1回（2003年）
-  - [JABA徳山(スポニチ)大会](https://ja.wikipedia.org/wiki/JABA徳山\(スポニチ\)大会 "wikilink")：優勝1回（1980年）
-  - [JABA新潟大会](https://ja.wikipedia.org/wiki/JABA新潟大会 "wikilink")：優勝1回（1956年）
-  - [JABA高山市長旗・飛騨市長杯争奪高山大会](https://ja.wikipedia.org/wiki/JABA高山市長旗・飛騨市長杯争奪高山大会 "wikilink")：優勝1回（2009年）
+  - [JABA北海道大会](../Page/JABA北海道大会.md "wikilink")：優勝2回（1993、2019年）
+  - [JABA東北大会](../Page/JABA東北大会.md "wikilink")：優勝3回（2010、2013、2015年）
+  - [JABA東京スポニチ大会](../Page/JABA東京スポニチ大会.md "wikilink")：優勝11回（1961、1962、1966、1982、1988、1991、1994、1995、2008、2009、2011年）
+  - [JABA静岡大会](../Page/JABA静岡大会.md "wikilink")：優勝1回（1956年）
+  - [JABA長野県知事旗争奪野球大会](../Page/JABA長野県知事旗争奪野球大会.md "wikilink")：優勝1回（2007年）
+  - [JABAベーブルース杯争奪大会](../Page/JABAベーブルース杯争奪大会.md "wikilink")：優勝3回（1955、1956、1964年）
+  - [JABA京都大会](../Page/JABA京都大会.md "wikilink")：優勝3回（1964、1966、1968年）
+  - [JABA岡山大会](../Page/JABA岡山大会.md "wikilink")：優勝8回（1966、1967、1968、1992、1995、1996、1997、2009年）
+  - [JABA四国大会](../Page/JABA四国大会.md "wikilink")：優勝1回（2012年）
+  - [JABA九州大会](../Page/JABA九州大会.md "wikilink")：優勝1回（2003年）
+  - [JABA徳山(スポニチ)大会](../Page/JABA徳山\(スポニチ\)大会.md "wikilink")：優勝1回（1980年）
+  - [JABA新潟大会](../Page/JABA新潟大会.md "wikilink")：優勝1回（1956年）
+  - [JABA高山市長旗・飛騨市長杯争奪高山大会](../Page/JABA高山市長旗・飛騨市長杯争奪高山大会.md "wikilink")：優勝1回（2009年）
 
 ## 主な出身プロ野球選手
 
@@ -111,32 +111,32 @@
 
 <!-- end list -->
 
-  - [花井悠](https://ja.wikipedia.org/wiki/花井悠 "wikilink")（[投手](../Page/投手.md "wikilink")） - 1957年に[西鉄ライオンズに入団](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")
+  - [花井悠](../Page/花井悠.md "wikilink")（[投手](../Page/投手.md "wikilink")） - 1957年に[西鉄ライオンズに入団](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")
   - [藤田元司](../Page/藤田元司.md "wikilink")（投手） - 1957年に[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")に入団
   - [佐々木吉郎](../Page/佐々木吉郎.md "wikilink")（投手） - 1962年に[大洋ホエールズに入団](../Page/横浜DeNAベイスターズ.md "wikilink")
   - [平松政次](../Page/平松政次.md "wikilink")（投手） - 第2次ドラフト2位で大洋ホエールズに入団
   - [植原修平](https://ja.wikipedia.org/wiki/植原修平 "wikilink")（[外野手](../Page/外野手.md "wikilink")） - ドラフト7位で[ヤクルトアトムズに入団](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")
   - [奥江英幸](../Page/奥江英幸.md "wikilink")（投手） - ドラフト2位で大洋ホエールズに入団
   - [河村健一郎](../Page/河村健一郎.md "wikilink")（[捕手](../Page/捕手.md "wikilink")） - 1971年[ドラフト外で](../Page/ドラフト外入団.md "wikilink")[阪急ブレーブスに入団](../Page/オリックス・バファローズ.md "wikilink")
-  - [五月女豊](../Page/五月女豊.md "wikilink")（投手） - ドラフト1位で[阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")に入団
-  - [片貝義明](https://ja.wikipedia.org/wiki/片貝義明 "wikilink")（捕手） - 1972年ドラフト2位で[中日ドラゴンズ](https://ja.wikipedia.org/wiki/中日ドラゴンズ "wikilink")に入団
-  - [根本隆](https://ja.wikipedia.org/wiki/根本隆 "wikilink")（投手） - ドラフト1位で大洋ホエールズに入団
+  - [五月女豊](../Page/五月女豊.md "wikilink")（投手） - ドラフト1位で[阪神タイガース](../Page/阪神タイガース.md "wikilink")に入団
+  - [片貝義明](https://ja.wikipedia.org/wiki/片貝義明 "wikilink")（捕手） - 1972年ドラフト2位で[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")に入団
+  - [根本隆](../Page/根本隆.md "wikilink")（投手） - ドラフト1位で大洋ホエールズに入団
   - [町田公雄](../Page/町田公雄.md "wikilink")（[内野手](../Page/内野手.md "wikilink")） - ドラフト5位で阪神タイガースに入団
   - [土居正史](../Page/土居正史.md "wikilink")（投手） - ドラフト2位で[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")に入団
-  - [荒井幸雄](https://ja.wikipedia.org/wiki/荒井幸雄 "wikilink")（外野手） - ドラフト2位で[ヤクルトスワローズに入団](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")
-  - [高橋一彦](https://ja.wikipedia.org/wiki/高橋一彦 "wikilink")（投手） - 1985年ドラフト2位で[横浜大洋ホエールズに入団](../Page/横浜DeNAベイスターズ.md "wikilink")
+  - [荒井幸雄](../Page/荒井幸雄.md "wikilink")（外野手） - ドラフト2位で[ヤクルトスワローズに入団](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")
+  - [高橋一彦](../Page/高橋一彦.md "wikilink")（投手） - 1985年ドラフト2位で[横浜大洋ホエールズに入団](../Page/横浜DeNAベイスターズ.md "wikilink")
   - [若井基安](../Page/若井基安.md "wikilink")（内野手） - ドラフト2位で[南海ホークスに入団](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")
   - [鈴木慶裕](../Page/鈴木慶裕.md "wikilink")（外野手） - ドラフト2位で[日本ハムファイターズに入団](../Page/北海道日本ハムファイターズ.md "wikilink")
   - [石田文樹](../Page/石田文樹.md "wikilink")（投手） - 1988年ドラフト5位で横浜大洋ホエールズに入団
   - [金沢健一](https://ja.wikipedia.org/wiki/金沢健一 "wikilink")（投手） - ドラフト2位で[福岡ダイエーホークスに入団](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")
   - [秋村謙宏](../Page/秋村謙宏.md "wikilink")（投手） - 1989年ドラフト外で広島東洋カープに入団
   - [五十嵐章人](../Page/五十嵐章人.md "wikilink")（外野手） - ドラフト3位で[ロッテオリオンズに入団](../Page/千葉ロッテマリーンズ.md "wikilink")
-  - [久慈照嘉](https://ja.wikipedia.org/wiki/久慈照嘉 "wikilink")（内野手） - ドラフト2位で阪神タイガースに入団
+  - [久慈照嘉](../Page/久慈照嘉.md "wikilink")（内野手） - ドラフト2位で阪神タイガースに入団
   - [小桧山雅仁](../Page/小桧山雅仁.md "wikilink")（投手） - ドラフト1位で[横浜ベイスターズに入団](../Page/横浜DeNAベイスターズ.md "wikilink")
   - [鈴木健](../Page/鈴木健_\(投手\).md "wikilink")（投手） - 1992年ドラフト3位で広島東洋カープに入団
-  - [川村丈夫](https://ja.wikipedia.org/wiki/川村丈夫 "wikilink")（投手） - ドラフト1位で横浜ベイスターズに入団
+  - [川村丈夫](../Page/川村丈夫.md "wikilink")（投手） - ドラフト1位で横浜ベイスターズに入団
   - [小野仁](../Page/小野仁.md "wikilink")（投手） - 1996年ドラフト2位で読売ジャイアンツに入団
-  - [高橋憲幸](https://ja.wikipedia.org/wiki/高橋憲幸 "wikilink")（投手） - 1996年ドラフト5位で日本ハムファイターズに入団
+  - [高橋憲幸](../Page/高橋憲幸.md "wikilink")（投手） - 1996年ドラフト5位で日本ハムファイターズに入団
   - [大久保秀昭](../Page/大久保秀昭.md "wikilink")（捕手） - 1996年ドラフト6位で[近鉄バファローズに入団](../Page/大阪近鉄バファローズ.md "wikilink")
 
 <!-- end list -->
@@ -145,7 +145,7 @@
 
 <!-- end list -->
 
-  - [手嶌智](https://ja.wikipedia.org/wiki/手嶌智 "wikilink")（投手） - ドラフト自由獲得枠で[千葉ロッテマリーンズ](../Page/千葉ロッテマリーンズ.md "wikilink")に入団
+  - [手嶌智](../Page/手嶌智.md "wikilink")（投手） - ドラフト自由獲得枠で[千葉ロッテマリーンズ](../Page/千葉ロッテマリーンズ.md "wikilink")に入団
 
 <!-- end list -->
 
@@ -155,7 +155,7 @@
 
   - [栂野雅史](../Page/栂野雅史.md "wikilink")（投手） - 大学生・社会人ドラフト3位で読売ジャイアンツに入団
   - [岩崎達郎](../Page/岩崎達郎.md "wikilink")（内野手） - 大学生・社会人ドラフト5位で中日ドラゴンズに入団
-  - [柳川洋平](https://ja.wikipedia.org/wiki/柳川洋平 "wikilink")（投手） - 退団後、[西多摩倶楽部](https://ja.wikipedia.org/wiki/西多摩倶楽部 "wikilink")、[BCリーグの](../Page/ベースボール・チャレンジ・リーグ.md "wikilink")[福井ミラクルエレファンツ](https://ja.wikipedia.org/wiki/福井ミラクルエレファンツ "wikilink")を経て、育成選手ドラフト3位で[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")に入団
+  - [柳川洋平](https://ja.wikipedia.org/wiki/柳川洋平 "wikilink")（投手） - 退団後、[西多摩倶楽部](../Page/西多摩倶楽部.md "wikilink")、[BCリーグの](../Page/ベースボール・チャレンジ・リーグ.md "wikilink")[福井ミラクルエレファンツ](https://ja.wikipedia.org/wiki/福井ミラクルエレファンツ "wikilink")を経て、育成選手ドラフト3位で[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")に入団
   - [田澤純一](../Page/田澤純一.md "wikilink")（投手） - 2008年にアマチュア・フリーエージェントで[ボストン・レッドソックス](../Page/ボストン・レッドソックス.md "wikilink")と契約　※日本球界およびマイナー契約を経ずに直接メジャー入りした初の選手
 
 <!-- end list -->
@@ -175,13 +175,13 @@
   - [塩見泰隆](https://ja.wikipedia.org/wiki/塩見泰隆 "wikilink")（外野手） - 2017年ドラフト4位で[東京ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")に入団
   - [若林晃弘](https://ja.wikipedia.org/wiki/若林晃弘 "wikilink")（内野手） - 2017年ドラフト6位で[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")に入団
   - [左澤優](https://ja.wikipedia.org/wiki/左澤優 "wikilink")（投手） - ドラフト6位で[オリックス・バファローズ](../Page/オリックス・バファローズ.md "wikilink")に入団
-  - [鈴木健矢](https://ja.wikipedia.org/wiki/鈴木健矢 "wikilink")（投手） - ドラフト4位で北海道日本ハムファイターズ指名
+  - [鈴木健矢](../Page/鈴木健矢.md "wikilink")（投手） - ドラフト4位で北海道日本ハムファイターズ指名
 
 ## 元プロ野球選手の競技者登録
 
   - [青山誠](https://ja.wikipedia.org/wiki/青山誠 "wikilink")（元：[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")） - 外野手（2019年～）
   - [大久保秀昭](../Page/大久保秀昭.md "wikilink")（元：[大阪近鉄バファローズ](../Page/大阪近鉄バファローズ.md "wikilink")） - 監督（2006年～2014年、2020年～）
-  - [高橋憲幸](https://ja.wikipedia.org/wiki/高橋憲幸 "wikilink")（元：[北海道日本ハムファイターズ](../Page/北海道日本ハムファイターズ.md "wikilink")） - コーチ→退団
+  - [高橋憲幸](../Page/高橋憲幸.md "wikilink")（元：[北海道日本ハムファイターズ](../Page/北海道日本ハムファイターズ.md "wikilink")） - コーチ→退団
   - [谷口邦幸](../Page/谷口邦幸.md "wikilink")（元：[横浜ベイスターズ](../Page/横浜DeNAベイスターズ.md "wikilink")） - 投手（2006年～2008年）→退団
   - [園部聡](https://ja.wikipedia.org/wiki/園部聡 "wikilink")（元：[オリックス・バファローズ](../Page/オリックス・バファローズ.md "wikilink")） - 内野手（2019年～）
   - [東泉東二](https://ja.wikipedia.org/wiki/東泉東二 "wikilink")（元：[東急フライヤーズ](../Page/北海道日本ハムファイターズ.md "wikilink")） - 投手→退団
@@ -198,7 +198,7 @@
   - [徳永耕治](https://ja.wikipedia.org/wiki/徳永耕治 "wikilink")（内野手） - 選手として在籍。バルセロナオリンピック日本代表。
   - [野島正弘](../Page/野島正弘.md "wikilink")（内野手） - 選手として在籍。アトランタオリンピック日本代表。
   - [増永祐一](https://ja.wikipedia.org/wiki/増永祐一 "wikilink")（投手） - 選手として在籍。[ヤクルトスワローズからの](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")ドラフト4位指名を拒否し入団。
-  - [宮澤健太郎](https://ja.wikipedia.org/wiki/宮澤健太郎 "wikilink")（内野手） - 選手として在籍。社会人野球において[都市対抗野球](../Page/都市対抗野球大会.md "wikilink")、[日本選手権](../Page/社会人野球日本選手権大会.md "wikilink")、[JABA東京スポニチ大会](https://ja.wikipedia.org/wiki/JABA東京スポニチ大会 "wikilink")の3大大会で首位打者を獲得した唯一の選手。
+  - [宮澤健太郎](https://ja.wikipedia.org/wiki/宮澤健太郎 "wikilink")（内野手） - 選手として在籍。社会人野球において[都市対抗野球](../Page/都市対抗野球大会.md "wikilink")、[日本選手権](../Page/社会人野球日本選手権大会.md "wikilink")、[JABA東京スポニチ大会](../Page/JABA東京スポニチ大会.md "wikilink")の3大大会で首位打者を獲得した唯一の選手。
   - [谷田成吾](https://ja.wikipedia.org/wiki/谷田成吾 "wikilink")（外野手） - 選手として2年間在籍するも、NPBのドラフト指名を受けられずに退職。
   - [若林重喜](https://ja.wikipedia.org/wiki/若林重喜 "wikilink")（内野手） - 選手・コーチ・監督として在籍。バルセロナオリンピック日本代表。
 

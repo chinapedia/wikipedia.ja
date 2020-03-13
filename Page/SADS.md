@@ -13,7 +13,7 @@
 
   - Guitar: **[K-A-Z](https://ja.wikipedia.org/wiki/K-A-Z "wikilink")** (2010 - 2018)
       -
-        [栄喜](../Page/栄喜.md "wikilink") ([SIAM SHADE](https://ja.wikipedia.org/wiki/SIAM_SHADE "wikilink")) とのユニット[DETROX](../Page/DETROX.md "wikilink")としても活動していた。
+        [栄喜](../Page/栄喜.md "wikilink") ([SIAM SHADE](../Page/SIAM_SHADE.md "wikilink")) とのユニット[DETROX](../Page/DETROX.md "wikilink")としても活動していた。
 
 <!-- end list -->
 
@@ -31,7 +31,7 @@
 
   - Guitar: **[坂下たけとも](../Page/坂下たけとも.md "wikilink")** (1999 - 2003)
       -
-        2004年10月、FULLFACE退社に伴い脱退。その後は[The DUST'N'BONEZ](https://ja.wikipedia.org/wiki/The_DUST'N'BONEZ "wikilink")、[BAD SiX BABiES](https://ja.wikipedia.org/wiki/BAD_SiX_BABiES "wikilink")、[THE SLUT BANKSにて活動](../Page/THE_SLUT_BANKS.md "wikilink")。
+        2004年10月、FULLFACE退社に伴い脱退。その後は[The DUST'N'BONEZ](../Page/The_DUST'N'BONEZ.md "wikilink")、[BAD SiX BABiES](https://ja.wikipedia.org/wiki/BAD_SiX_BABiES "wikilink")、[THE SLUT BANKSにて活動](../Page/THE_SLUT_BANKS.md "wikilink")。
   - Bass: **田沼徹浩** (1999)
       -
         ロンドンツアー後、体力的問題により脱退。
@@ -46,7 +46,7 @@
         2001年3月、音楽性の違いにより脱退。現在[THE STREET BEATSのメンバーとして活動](../Page/THE_STREET_BEATS.md "wikilink")。
   - Drums: **[満園英二](https://ja.wikipedia.org/wiki/満園英二 "wikilink")** (2001 - 2003)
       -
-        2003年8月、病状回復の目処が立たないため、脱退。ex.Wild Flag、[BOW WOW](https://ja.wikipedia.org/wiki/BOW_WOW "wikilink")、[THE SLUT BANKS](../Page/THE_SLUT_BANKS.md "wikilink")。脱退後は[The DUST'N'BONEZ](https://ja.wikipedia.org/wiki/The_DUST'N'BONEZ "wikilink")、[森重樹一](../Page/森重樹一.md "wikilink")のサポートなどで活動。
+        2003年8月、病状回復の目処が立たないため、脱退。ex.Wild Flag、[BOW WOW](https://ja.wikipedia.org/wiki/BOW_WOW "wikilink")、[THE SLUT BANKS](../Page/THE_SLUT_BANKS.md "wikilink")。脱退後は[The DUST'N'BONEZ](../Page/The_DUST'N'BONEZ.md "wikilink")、[森重樹一](../Page/森重樹一.md "wikilink")のサポートなどで活動。
 
 #### サポートメンバー
 
@@ -239,7 +239,7 @@ The reproduction 7th anniversary『FALLING』THE LIVE</p></td>
 
 [1999年](../Page/1999年.md "wikilink")1月29日に[黒夢](../Page/黒夢.md "wikilink")が無期限活動停止。黒夢のボーカルであった[清春](../Page/清春.md "wikilink")が黒夢活動停止後すぐさま始動させたのがこのSADSである。バンド名は「[加虐嗜好](../Page/サディズム.md "wikilink")」を意味する *sadism* より。また清春が敬愛する日本のパンクロックバンド[THE MODSの響きにあやかったものでもある](../Page/THE_MODS.md "wikilink")。ボーカルの森山達也にもバンド名について事前交渉し、快諾を得ている。その年の7月にシングル「[TOKYO](../Page/TOKYO_\(SADSの曲\).md "wikilink")」でデビュー、オリコン初登場2位を記録する。[2000年](../Page/2000年.md "wikilink")、ドラマ『[池袋ウエストゲートパーク](../Page/池袋ウエストゲートパーク_\(テレビドラマ\).md "wikilink")』の主題歌だった4thシングル「[忘却の空](../Page/忘却の空.md "wikilink")」がロングヒットを記録。同年6月に発表したセカンドアルバム『[BABYLON](../Page/BABYLON_\(SADSのアルバム\).md "wikilink")』でオリコン初登場1位を獲得し人気の高さをみせつけた。[2001年](../Page/2001年.md "wikilink")にレコード会社を[東芝EMIから](../Page/EMIミュージック・ジャパン.md "wikilink")[BMGファンハウス](https://ja.wikipedia.org/wiki/BMGファンハウス "wikilink")に移籍、[2002年](../Page/2002年.md "wikilink")はインディーズでの活動を経て[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック "wikilink")と契約。
 
-[2003年](../Page/2003年.md "wikilink")に[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『[GREATEST HITS 〜BEST OF 5 YEARS〜](https://ja.wikipedia.org/wiki/GREATEST_HITS_〜BEST_OF_5_YEARS〜 "wikilink")』を発売した後は満園英二脱退のためSADSのドラム探しをしながらソロ活動をしてSADSを再開させるつもりが、[2004年](../Page/2004年.md "wikilink")にギターの坂下たけとものFULLFACE退社に伴う事実上の脱退により無期限の活動休止となる。
+[2003年](../Page/2003年.md "wikilink")に[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[GREATEST HITS 〜BEST OF 5 YEARS〜](https://ja.wikipedia.org/wiki/GREATEST_HITS_〜BEST_OF_5_YEARS〜 "wikilink")』を発売した後は満園英二脱退のためSADSのドラム探しをしながらソロ活動をしてSADSを再開させるつもりが、[2004年](../Page/2004年.md "wikilink")にギターの坂下たけとものFULLFACE退社に伴う事実上の脱退により無期限の活動休止となる。
 
 その後SADSの未発表曲音源がアレンジされたものや一部分を使われた曲などが清春のソロ作品として発表される。また清春の著書・雑誌のインタビューで既に過去のものとして扱われている現状を見る限り、バンドは事実上解散したものと思われていた。
 
@@ -251,7 +251,7 @@ The reproduction 7th anniversary『FALLING』THE LIVE</p></td>
 
   - [1999年](../Page/1999年.md "wikilink") デビュー～ファーストツアー
 
-黒夢の無期限活動停止から数ヵ月後、SADSが始動する。結成メンバーは[清春](../Page/清春.md "wikilink")、[坂下たけとも](../Page/坂下たけとも.md "wikilink")、田沼徹浩、牟田昌広の4人。始動するや否や、いきなり[UK](https://ja.wikipedia.org/wiki/UK "wikilink")ツアー (全4公演) を敢行する。日本での正式なデビュー前であり異例のことであった。このUKツアーを期に、[ベースの田沼徹浩が脱退する](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。理由は｢体力上の問題｣とされている\[3\]。
+黒夢の無期限活動停止から数ヵ月後、SADSが始動する。結成メンバーは[清春](../Page/清春.md "wikilink")、[坂下たけとも](../Page/坂下たけとも.md "wikilink")、田沼徹浩、牟田昌広の4人。始動するや否や、いきなり[UK](https://ja.wikipedia.org/wiki/UK "wikilink")ツアー (全4公演) を敢行する。日本での正式なデビュー前であり異例のことであった。このUKツアーを期に、[ベースの田沼徹浩が脱退する](../Page/ベース_\(弦楽器\).md "wikilink")。理由は｢体力上の問題｣とされている\[3\]。
 
 全公演終了後帰国し、「DEMONSTRATION CLUB GIG」 (全国6会場6公演) を敢行する。日本国内ではSADSの初のお披露目となる。ちなみに1本目の最後では清春本人が客席に[ダイブ](https://ja.wikipedia.org/wiki/ダイブ "wikilink")を行った。
 
@@ -285,7 +285,7 @@ The reproduction 7th anniversary『FALLING』THE LIVE</p></td>
 
 2002年は、風雲急を告げる事態で幕を開ける。前年に契約を交わした[BMG JAPANとの契約を解消した](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。このため、4thアルバム『[“ ”(untitled)](https://ja.wikipedia.org/wiki/“_”\(untitled\) "wikilink")』はライブ会場限定販売と[FC通信販売のみという](../Page/ファンクラブ.md "wikilink")、実質[インディーズ](../Page/インディーズ.md "wikilink")バンドとしての活動を余儀なくされる。清春は、同アルバムを正規の流通網で販売しようと試みたが、同年のロングツアーに忙殺されてそれが出来なかったと後のインタビューで語っている。
 
-2002年のツアー「TOUR GOOD-BYE 2002\!\! "BEAUTIFUL DAYS" FOR HEAVY PETTIING & FOR ENTERTAINMENT」は、2002年4月からの12月まで[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")131公演 (HEAVY PETTIING) と翌年1月2月のホール10公演 (ENTERTAINMENT) まで続く、全141公演 (沖縄を除く46都道府県) という過去に例がないほどのロングツアーが組まれた。同ツアーの目的は、「ライブの本数をこなしながらバンドとしての音を固めていく」 (清春談)、「3人がSADSに居ることが相応しいかどうかが問われる」 (坂下談) と、それぞれ目的があった。
+2002年のツアー「TOUR GOOD-BYE 2002\!\! "BEAUTIFUL DAYS" FOR HEAVY PETTIING & FOR ENTERTAINMENT」は、2002年4月からの12月まで[ライブハウス](../Page/ライブハウス.md "wikilink")131公演 (HEAVY PETTIING) と翌年1月2月のホール10公演 (ENTERTAINMENT) まで続く、全141公演 (沖縄を除く46都道府県) という過去に例がないほどのロングツアーが組まれた。同ツアーの目的は、「ライブの本数をこなしながらバンドとしての音を固めていく」 (清春談)、「3人がSADSに居ることが相応しいかどうかが問われる」 (坂下談) と、それぞれ目的があった。
 
 快調に進むかに思われたが、ツアー序盤から早くもメンバーの技術的な問題が表面化する。小林勝は「バンドの問題点について敢えて何も言わなかったが、それは失敗だった」と悔いていた。注目すべき点は、この年から清春が[アコースティックギター](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink")を本格的に始めた事である。「Everything」や「Masquerade」、「憂鬱という名の夢」といった曲などでギターを弾きながら歌い始めている。バンド内の問題やライブの[マンネリ](https://ja.wikipedia.org/wiki/マンネリ "wikilink")化に対し、日々ギターに触れることでそれを忘れることが出来、清春にとって癒しになっていたとDVD『131days』内のインタビューで語った。
 
@@ -301,7 +301,7 @@ The reproduction 7th anniversary『FALLING』THE LIVE</p></td>
 
 リリースを終え、SADSはツアーの準備段階へ突入する。ツアーに向けて作成された新曲は実に30曲近くに上ったという。これは、[リリース](https://ja.wikipedia.org/wiki/発売 "wikilink")→ツアーという一般的な流れではなく、順序を逆転させることでツアーの成果を[フィードバック](../Page/フィードバック.md "wikilink")したアルバムの制作を意図していた。ツアーでは全曲を新曲で行おうかと考えていたが、「それだと『ショー』ではなく、『実験』になってしまう (笑)」 (清春) という理由から断念している。
 
-「TOUR 2003『13』-Thirteen-」 (全国8会場13公演) では、満園に代わり昨年もサポートとして参加した[舛岡圭司](https://ja.wikipedia.org/wiki/舛岡圭司 "wikilink")が再び加わる。同ツアーはこれまでに比べ公演数が異常に少ないほか、アルバム・ツアータイトルが意味する[13階段](https://ja.wikipedia.org/wiki/13階段 "wikilink")の不吉さに加え、メジャーデビューから5年目で無期限の活動停止を迎えた[黒夢](../Page/黒夢.md "wikilink")と同じ年月を迎えたことで、様々な憶測を呼ぶ。ツアーに先駆けて「REPLAY」と題して行われたライブでは、これまでの4年間を振り返るかのような[セットリスト](https://ja.wikipedia.org/wiki/セットリスト "wikilink")が組まれたライブであった。
+「TOUR 2003『13』-Thirteen-」 (全国8会場13公演) では、満園に代わり昨年もサポートとして参加した[舛岡圭司](https://ja.wikipedia.org/wiki/舛岡圭司 "wikilink")が再び加わる。同ツアーはこれまでに比べ公演数が異常に少ないほか、アルバム・ツアータイトルが意味する[13階段](../Page/13階段.md "wikilink")の不吉さに加え、メジャーデビューから5年目で無期限の活動停止を迎えた[黒夢](../Page/黒夢.md "wikilink")と同じ年月を迎えたことで、様々な憶測を呼ぶ。ツアーに先駆けて「REPLAY」と題して行われたライブでは、これまでの4年間を振り返るかのような[セットリスト](https://ja.wikipedia.org/wiki/セットリスト "wikilink")が組まれたライブであった。
 
 ツアーでは清春が予告していたように[ライブで披露された曲の半数以上は](../Page/演奏会.md "wikilink")[下記の未発表曲であり](https://ja.wikipedia.org/wiki/#未発表曲 "wikilink")、特に本編では序盤から中盤までの3分の2以上は新曲で占められていた。新曲では清春が[エレキギター](https://ja.wikipedia.org/wiki/エレキギター "wikilink")を弾きながら歌う曲が多く含まれていた。また、同ツアーの[アンコール](../Page/アンコール.md "wikilink")では、黒夢時代の代表曲であった｢[少年](../Page/少年_\(黒夢の曲\).md "wikilink")｣、｢[Like @ Angel](../Page/Like_@_Angel.md "wikilink")｣、｢[MARIA](../Page/MARIA_\(黒夢の曲\).md "wikilink")｣が披露される。これは、黒夢を支えてくれた[マネージャー](../Page/マネージャー.md "wikilink")が急逝したのを受けて、弔いとして故人が好きだった曲を演奏したためである。特に｢Like @ Angel｣の間奏では、清春が「聞こえてる？ 歌ってるよ」と語る場面が確認され、彼に宛てたものということを裏付けている。
 
@@ -317,9 +317,9 @@ The reproduction 7th anniversary『FALLING』THE LIVE</p></td>
 
 インタビューで清春は「SADSは実質、僕＋サポートメンバーだった。でもツアーを重ねる毎に彼らは何か勘違いしていってしまった。最後にはもうどうにもならなかった」という言葉を残している一方で、坂下は「SADSは清春君のバンド」と自身はサポートメンバーだったということを語っている。
 
-直接的な原因は、2002年に行われたロングツアーで背負った負債である。借金を含めた[マネジメント](https://ja.wikipedia.org/wiki/マネジメント "wikilink")の問題は全て清春自身が処理を行っていた。「責任を果たさないのに、あれこれ言う」(清春) との一言が、清春と他のメンバーとの意識の差を如実に物語っている。なお、この借金はツアー公演に関するものと思われていたが、その後の清春のインタビューによると、「ツアー中の移動は新幹線なら全部グリーン車、飛行機は[ビジネスクラス](https://ja.wikipedia.org/wiki/ビジネスクラス "wikilink")」といった贅沢を尽くした事も含まれていたことが判明している。
+直接的な原因は、2002年に行われたロングツアーで背負った負債である。借金を含めた[マネジメント](https://ja.wikipedia.org/wiki/マネジメント "wikilink")の問題は全て清春自身が処理を行っていた。「責任を果たさないのに、あれこれ言う」(清春) との一言が、清春と他のメンバーとの意識の差を如実に物語っている。なお、この借金はツアー公演に関するものと思われていたが、その後の清春のインタビューによると、「ツアー中の移動は新幹線なら全部グリーン車、飛行機は[ビジネスクラス](../Page/ビジネスクラス.md "wikilink")」といった贅沢を尽くした事も含まれていたことが判明している。
 
-SADSの活動停止後、[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")のボーカル[森重樹一](../Page/森重樹一.md "wikilink")は｢[The DUST'N'BONEZ](https://ja.wikipedia.org/wiki/The_DUST'N'BONEZ "wikilink")｣結成のため清春に対し、「(坂下を) 借りてもいい?」と連絡をし、清春もそれを快諾する。しかし、実際にドラムに脱退した満園が居ることを後から知り、坂下はThe DUST'N'BONEZに加入するとともにSADSを脱退。そして、The DUST'N'BONEZとしてのインタビューで坂下の脱退が坂下の口から正式に告げられた。発表が遅れた理由としてSADS側の方で都合のいい時期に発表すると思っていたと語っている。
+SADSの活動停止後、[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")のボーカル[森重樹一](../Page/森重樹一.md "wikilink")は｢[The DUST'N'BONEZ](../Page/The_DUST'N'BONEZ.md "wikilink")｣結成のため清春に対し、「(坂下を) 借りてもいい?」と連絡をし、清春もそれを快諾する。しかし、実際にドラムに脱退した満園が居ることを後から知り、坂下はThe DUST'N'BONEZに加入するとともにSADSを脱退。そして、The DUST'N'BONEZとしてのインタビューで坂下の脱退が坂下の口から正式に告げられた。発表が遅れた理由としてSADS側の方で都合のいい時期に発表すると思っていたと語っている。
 
 このように解散の引き金は幾つかあったにせよ、清春自身はバンド結成後のファーストツアー後から一貫してSADSに対する虚無感を抱いていたことを『清春35X』をはじめとしたインタビュー内で語っている。
 
@@ -327,15 +327,15 @@ SADSの活動停止後、[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")
 
   - 2010年 復活
 
-2010年1月29日に、清春のブログでSADSの活動が再開されることが発表され、新たに公式ホームページとMySpaceが公開された。2009年の黒夢のラストライブでサポートを務めた[K-A-Z](https://ja.wikipedia.org/wiki/K-A-Z "wikilink") ([ギター](../Page/ギター.md "wikilink"))、[GO](https://ja.wikipedia.org/wiki/GO_\(SUNSOWL\) "wikilink") ([ドラムス](../Page/ドラムセット.md "wikilink")) と、清春のサポートメンバーであったクボタケイスケ ([ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")) が新たに加入した。
+2010年1月29日に、清春のブログでSADSの活動が再開されることが発表され、新たに公式ホームページとMySpaceが公開された。2009年の黒夢のラストライブでサポートを務めた[K-A-Z](https://ja.wikipedia.org/wiki/K-A-Z "wikilink") ([ギター](../Page/ギター.md "wikilink"))、[GO](https://ja.wikipedia.org/wiki/GO_\(SUNSOWL\) "wikilink") ([ドラムス](../Page/ドラムセット.md "wikilink")) と、清春のサポートメンバーであったクボタケイスケ ([ベース](../Page/ベース_\(弦楽器\).md "wikilink")) が新たに加入した。
 
 5月1日に日本武道館でライブを行うこと、約7年ぶりとなるアルバムが[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")に発売されること、[2月9日](../Page/2月9日.md "wikilink")にファンクラブ「VIP」がオープンすることが発表された。更に、[9月19日](../Page/9月19日.md "wikilink")に[イナズマロックフェス](https://ja.wikipedia.org/wiki/イナズマロックフェス "wikilink")に参加することとなった。
 
-6月30日に配信シングル「[GOTHIC CIRCUS](https://ja.wikipedia.org/wiki/GOTHIC_CIRCUS "wikilink")」だけを配信する予定が、手違いにより『[THE 7 DEADLY SINS](https://ja.wikipedia.org/wiki/THE_7_DEADLY_SINS "wikilink")』収録曲を全曲を配信してしまう、[着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")での配信のはずが[着うた](../Page/着うた.md "wikilink")のみの配信になるという事件が起こった。7月3日現在この件に関しレーベル側からの正式なコメントはない。清春自身もツイッターでこの件に対し「レーベルからの正式なコメントを僕もまだ見てない。事務所やってる僕がミュージシャンだから甘くみてるのかな」とコメントしている。
+6月30日に配信シングル「[GOTHIC CIRCUS](https://ja.wikipedia.org/wiki/GOTHIC_CIRCUS "wikilink")」だけを配信する予定が、手違いにより『[THE 7 DEADLY SINS](https://ja.wikipedia.org/wiki/THE_7_DEADLY_SINS "wikilink")』収録曲を全曲を配信してしまう、[着うたフル](../Page/着うたフル.md "wikilink")での配信のはずが[着うた](../Page/着うた.md "wikilink")のみの配信になるという事件が起こった。7月3日現在この件に関しレーベル側からの正式なコメントはない。清春自身もツイッターでこの件に対し「レーベルからの正式なコメントを僕もまだ見てない。事務所やってる僕がミュージシャンだから甘くみてるのかな」とコメントしている。
 
 7月3日の深夜に[ツイッター](https://ja.wikipedia.org/wiki/ツイッター "wikilink")で[avexの](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")[松浦勝人](https://ja.wikipedia.org/wiki/松浦勝人 "wikilink")代表取締役社長が「待望のアルバムを楽しみにして頂いていた皆様にとても残念な思いをさせてしまった事。清春さんとメンバーが魂を込めた作品をアーティストの意図しない形で全曲を世の中に出してしまった事。それがうちの社員の手によってなされてしまった事実を深く受け止め反省しております。申し訳ありませんでした」と謝罪した。
 
-その後avexの清春オフィシャルHPにGOTHIC CIRCUSの配信に対するお詫びと「GOTHIC CIRCUS」『THE 7 DEADLY SINS』の楽曲配信が[着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")で7月7日から配信されるということが発表された。
+その後avexの清春オフィシャルHPにGOTHIC CIRCUSの配信に対するお詫びと「GOTHIC CIRCUS」『THE 7 DEADLY SINS』の楽曲配信が[着うたフル](../Page/着うたフル.md "wikilink")で7月7日から配信されるということが発表された。
 
   - 2018年 再度の活動休止
 
@@ -343,9 +343,9 @@ SADSの活動停止後、[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")
 
 ## 曲調
 
-1stアルバム『SAD BLOOD ROCK'N'ROLL』では[ザ・ストリート・スライダーズ](https://ja.wikipedia.org/wiki/ザ・ストリート・スライダーズ "wikilink")や[バックヤード・ベイビーズ](https://ja.wikipedia.org/wiki/バックヤード・ベイビーズ "wikilink")を意識したシンプルな3ピースロックンロール系サウンド、2ndアルバム『BABYLON』では[シャッフル](https://ja.wikipedia.org/wiki/シャッフル "wikilink")や[ジャズ](../Page/ジャズ.md "wikilink")などの要素も取り入れ、ディレイ等音響効果も積極的に使用し清春が元々持っている妖艶で怠惰的なイメージを強く全面に打ち出した物になり、3rdアルバム『THE ROSE GOD GAVE ME』ではグルーヴ感を重視しドラムとベースは一緒に録音し、ギターやベースの[チューニング](https://ja.wikipedia.org/wiki/チューニング "wikilink")を落とし、意図的に音を割れさせ、より一層ハードでヘヴィなサウンドになっている。
+1stアルバム『SAD BLOOD ROCK'N'ROLL』では[ザ・ストリート・スライダーズ](https://ja.wikipedia.org/wiki/ザ・ストリート・スライダーズ "wikilink")や[バックヤード・ベイビーズ](https://ja.wikipedia.org/wiki/バックヤード・ベイビーズ "wikilink")を意識したシンプルな3ピースロックンロール系サウンド、2ndアルバム『BABYLON』では[シャッフル](../Page/シャッフル.md "wikilink")や[ジャズ](../Page/ジャズ.md "wikilink")などの要素も取り入れ、ディレイ等音響効果も積極的に使用し清春が元々持っている妖艶で怠惰的なイメージを強く全面に打ち出した物になり、3rdアルバム『THE ROSE GOD GAVE ME』ではグルーヴ感を重視しドラムとベースは一緒に録音し、ギターやベースの[チューニング](https://ja.wikipedia.org/wiki/チューニング "wikilink")を落とし、意図的に音を割れさせ、より一層ハードでヘヴィなサウンドになっている。
 
-このようにアルバムごとにその色を変えていく様は黒夢時代から続いている現象であった。一方、SADSになってからは社会を[風刺](https://ja.wikipedia.org/wiki/風刺 "wikilink")するような歌詞はあまり書かなくなり、黒夢の後期では拒んでいた[化粧](../Page/化粧.md "wikilink")や派手な[ファッション](../Page/ファッション.md "wikilink")も取り入れるようになった。さらに後期黒夢で散々拒んでいたテレビ出演もSADSになってからは何度かしている。ちなみに清春が[タトゥーを入れ始めたのもこの頃である](https://ja.wikipedia.org/wiki/入れ墨 "wikilink")。
+このようにアルバムごとにその色を変えていく様は黒夢時代から続いている現象であった。一方、SADSになってからは社会を[風刺](../Page/風刺.md "wikilink")するような歌詞はあまり書かなくなり、黒夢の後期では拒んでいた[化粧](../Page/化粧.md "wikilink")や派手な[ファッション](../Page/ファッション.md "wikilink")も取り入れるようになった。さらに後期黒夢で散々拒んでいたテレビ出演もSADSになってからは何度かしている。ちなみに清春が[タトゥーを入れ始めたのもこの頃である](https://ja.wikipedia.org/wiki/入れ墨 "wikilink")。
 
 ## ディスコグラフィ
 
@@ -397,7 +397,7 @@ SADSの活動停止後、[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")
 <td><p><a href="https://ja.wikipedia.org/wiki/13_(SADSのアルバム)" title="wikilink">13</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a><a href="https://ja.wikipedia.org/wiki/7月23日" title="wikilink">7月23日</a> <a href="../Page/7月27日.md" title="wikilink">7月27日</a> <a href="../Page/7月28日.md" title="wikilink">7月28日</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a><a href="../Page/7月23日.md" title="wikilink">7月23日</a> <a href="../Page/7月27日.md" title="wikilink">7月27日</a> <a href="../Page/7月28日.md" title="wikilink">7月28日</a></p></td>
 <td><p><strong>L/C</strong></p></td>
 <td><p>TOUR 2010 『VENOM』にて配布</p></td>
 <td><p>LIAR<br />
@@ -497,7 +497,7 @@ CRACKER'S BABY</p></td>
 </tr>
 <tr class="odd">
 <td><p>ボックスセット</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/9月28日.md" title="wikilink">9月28日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/9月28日.md" title="wikilink">9月28日</a></p></td>
 <td><p><strong>Sads Rare BOX 「リクープ」</strong></p></td>
 <td><p>3CD+3DVD</p></td>
 <td><p>LTBA-50015</p></td>
@@ -798,7 +798,7 @@ FALLING THE LIVE[6]</p></td>
 <tbody>
 <tr class="odd">
 <td><p>2000年<a href="../Page/6月22日.md" title="wikilink">6月22日</a></p></td>
-<td><p>'''<a href="https://ja.wikipedia.org/wiki/ハノイ・ロックス" title="wikilink">HANOI ROCKS</a> TRIBUTE<br />
+<td><p>'''<a href="../Page/ハノイ・ロックス.md" title="wikilink">HANOI ROCKS</a> TRIBUTE<br />
 ～BLOODY KNUCKLESS &amp; LIPSTICK～ '''</p></td>
 <td><p>M-1 TRAGEDY で参加。</p></td>
 <td><p>CD</p></td>
@@ -850,12 +850,12 @@ M-3 欲望 にカレーパンクとして清春参加。</p></td>
 
 #### バンドスコア
 
-| 発売日         | タイトル                      | 出版社                                                               | ISBNコード        |
-| ----------- | ------------------------- | ----------------------------------------------------------------- | -------------- |
-| 1999年12月1日  | **SAD BLOOD ROCK'N ROLL** | [リットーミュージック](https://ja.wikipedia.org/wiki/リットーミュージック "wikilink") | 978-4845604494 |
-| 2000年6月29日  | **BABYLON**               | 978-4845605132                                                    |                |
-| 2001年11月15日 | **THE ROSE GOD GAVE ME**  | 978-4845607198                                                    |                |
-| 2003年7月3日   | **13+Masquerade**         | 978-4845609444                                                    |                |
+| 発売日         | タイトル                      | 出版社                                            | ISBNコード        |
+| ----------- | ------------------------- | ---------------------------------------------- | -------------- |
+| 1999年12月1日  | **SAD BLOOD ROCK'N ROLL** | [リットーミュージック](../Page/リットーミュージック.md "wikilink") | 978-4845604494 |
+| 2000年6月29日  | **BABYLON**               | 978-4845605132                                 |                |
+| 2001年11月15日 | **THE ROSE GOD GAVE ME**  | 978-4845607198                                 |                |
+| 2003年7月3日   | **13+Masquerade**         | 978-4845609444                                 |                |
 
 ### 未CD化曲
 
@@ -916,7 +916,7 @@ M-3 欲望 にカレーパンクとして清春参加。</p></td>
 </div>
 <div class="NavContent" style="text-align:center;">
 <p>7月24日 <a href="../Page/赤坂BLITZ.md" title="wikilink">赤坂BLITZ</a> ※シークレット出演、出順トップ<br />
-(with <a href="https://ja.wikipedia.org/wiki/エレファントカシマシ" title="wikilink">エレファントカシマシ</a>/<a href="https://ja.wikipedia.org/wiki/GRAPEVINE" title="wikilink">GRAPEVINE</a>/<a href="https://ja.wikipedia.org/wiki/the_brilliant_green" title="wikilink">the brilliant green</a>)</p>
+(with <a href="https://ja.wikipedia.org/wiki/エレファントカシマシ" title="wikilink">エレファントカシマシ</a>/<a href="../Page/GRAPEVINE.md" title="wikilink">GRAPEVINE</a>/<a href="https://ja.wikipedia.org/wiki/the_brilliant_green" title="wikilink">the brilliant green</a>)</p>
 </div>
 </div></td>
 <td></td>
@@ -973,7 +973,7 @@ BEAT EXTENSION</p></td>
 <p>全1公演</p>
 </div>
 <div class="NavContent" style="text-align:center;">
-<p>8月18日 <a href="https://ja.wikipedia.org/wiki/愛知県体育館" title="wikilink">愛知県体育館</a> ※出順トリ<br />
+<p>8月18日 <a href="../Page/愛知県体育館.md" title="wikilink">愛知県体育館</a> ※出順トリ<br />
 (with <a href="../Page/CASCADE.md" title="wikilink">CASCADE</a>/THE SALINGER/<a href="../Page/SEX_MACHINEGUNS.md" title="wikilink">SEX MACHINEGUNS</a>/<a href="https://ja.wikipedia.org/wiki/Hysteric_Blue" title="wikilink">Hysteric Blue</a>)</p>
 </div>
 </div></td>
@@ -1045,7 +1045,7 @@ BEAT EXTENSION</p></td>
 11月3日 <a href="../Page/宇都宮市文化会館.md" title="wikilink">宇都宮市文化会館</a><br />
 11月5日 <a href="../Page/茨城県立県民文化センター.md" title="wikilink">茨城県文化センター</a><br />
 11月6日 <a href="../Page/岐阜市民会館.md" title="wikilink">岐阜市民会館</a><br />
-11月8日 <a href="https://ja.wikipedia.org/wiki/神戸国際会館" title="wikilink">神戸こくさいホール</a><br />
+11月8日 <a href="../Page/神戸国際会館.md" title="wikilink">神戸こくさいホール</a><br />
 11月10日 <a href="../Page/名古屋国際会議場.md" title="wikilink">名古屋センチュリーホール</a><br />
 11月12,13日 <a href="https://ja.wikipedia.org/wiki/大阪厚生年金会館" title="wikilink">大阪厚生年金会館</a><br />
 11月15日 <a href="../Page/福岡サンパレス.md" title="wikilink">福岡サンパレス</a><br />
@@ -1067,7 +1067,7 @@ BEAT EXTENSION</p></td>
 12月12日 <a href="https://ja.wikipedia.org/wiki/長野県民文化会館" title="wikilink">長野県民文化会館</a><br />
 12月14日 <a href="../Page/新潟県民会館.md" title="wikilink">新潟県民会館</a><br />
 12月15日 <a href="https://ja.wikipedia.org/wiki/石川厚生年金会館" title="wikilink">石川厚生年金会館</a><br />
-12月17日 <a href="https://ja.wikipedia.org/wiki/アクトシティ浜松" title="wikilink">アクトシティ浜松</a><br />
+12月17日 <a href="../Page/アクトシティ浜松.md" title="wikilink">アクトシティ浜松</a><br />
 12月19日 名古屋センチュリーホール ※追加公演</p>
 </div>
 </div></td>
@@ -1364,7 +1364,7 @@ Conclusion of my BABYLON<br />
 </div>
 <div class="NavContent" style="text-align:center;">
 <p>9月2日 <a href="https://ja.wikipedia.org/wiki/パシフィコ横浜" title="wikilink">パシフィコ横浜</a><br />
-※出順6番目(with <a href="../Page/奥田民生.md" title="wikilink">奥田民生</a>/<a href="../Page/ギターウルフ.md" title="wikilink">ギターウルフ</a>/<a href="https://ja.wikipedia.org/wiki/THE_COLLECTORS" title="wikilink">THE COLLECTORS</a>/<a href="https://ja.wikipedia.org/wiki/少年ナイフ" title="wikilink">少年ナイフ</a>/<a href="../Page/ズボンズ.md" title="wikilink">ズボンズ</a>/<a href="../Page/THE_NEATBEATS.md" title="wikilink">THE NEATBEATS</a>/<a href="https://ja.wikipedia.org/wiki/↑THE_HIGH-LOWS↓" title="wikilink">↑THE HIGH-LOWS↓</a>/SECRET GUEST:<a href="../Page/矢沢永吉.md" title="wikilink">矢沢永吉</a>)</p>
+※出順6番目(with <a href="../Page/奥田民生.md" title="wikilink">奥田民生</a>/<a href="../Page/ギターウルフ.md" title="wikilink">ギターウルフ</a>/<a href="https://ja.wikipedia.org/wiki/THE_COLLECTORS" title="wikilink">THE COLLECTORS</a>/<a href="../Page/少年ナイフ.md" title="wikilink">少年ナイフ</a>/<a href="../Page/ズボンズ.md" title="wikilink">ズボンズ</a>/<a href="../Page/THE_NEATBEATS.md" title="wikilink">THE NEATBEATS</a>/<a href="https://ja.wikipedia.org/wiki/↑THE_HIGH-LOWS↓" title="wikilink">↑THE HIGH-LOWS↓</a>/SECRET GUEST:<a href="../Page/矢沢永吉.md" title="wikilink">矢沢永吉</a>)</p>
 </div>
 </div></td>
 <td></td>
@@ -1542,7 +1542,7 @@ FOR HEAVY PETTIING＆FOR ENTERTAINMENT</p></td>
 10月16日 前橋club FLEEZ ※9月22日の振替公演<br />
 10月18日、19日 町田PLAY HOUSE<br />
 10月22日、23日 京都Muse Hall ※8月6日、7日の振替公演<br />
-10月26日、27日 <a href="https://ja.wikipedia.org/wiki/SHIBUYA-AX" title="wikilink">SHIBUYA-AX</a><br />
+10月26日、27日 <a href="../Page/SHIBUYA-AX.md" title="wikilink">SHIBUYA-AX</a><br />
 10月29日 下北沢CLUB251<br />
 11月2日、11月3日 高知CARAVAN SARY<br />
 11月6日 広島CLUB QUATTRO<br />
@@ -1589,7 +1589,7 @@ FOR HEAVY PETTIING＆FOR ENTERTAINMENT</p></td>
 </tr>
 <tr class="even">
 <td><p>2マン</p></td>
-<td><p><small>～<a href="https://ja.wikipedia.org/wiki/スペースシャワーTV" title="wikilink">スペースシャワーTV</a> ｢巌流｣ Presents～</small><br />
+<td><p><small>～<a href="../Page/スペースシャワーTV.md" title="wikilink">スペースシャワーTV</a> ｢巌流｣ Presents～</small><br />
 “巌流島の戦い”</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
@@ -1778,7 +1778,7 @@ VENOM[10]</p></td>
 </div>
 <div class="NavContent" style="text-align:center;">
 <p>8月21日 <a href="../Page/幕張メッセ.md" title="wikilink">幕張メッセ</a>展示場4-6番ホール<br />
-(with <a href="https://ja.wikipedia.org/wiki/acid_android" title="wikilink">acid android</a>/<a href="https://ja.wikipedia.org/wiki/Alice_Nine" title="wikilink">Alice Nine</a>/<a href="../Page/LM.C.md" title="wikilink">LM.C</a>/<a href="https://ja.wikipedia.org/wiki/カラス_(バンド)" title="wikilink">カラス</a>/<a href="https://ja.wikipedia.org/wiki/河村隆一" title="wikilink">河村隆一</a>/<a href="https://ja.wikipedia.org/wiki/KYO_(ミュージシャン)" title="wikilink">kyo</a>/<a href="https://ja.wikipedia.org/wiki/girugamesh" title="wikilink">ギルガメッシュ</a>/<a href="../Page/Ken.md" title="wikilink">Ken</a>/<a href="../Page/シド_(バンド).md" title="wikilink">シド</a>/ゾロ/<a href="https://ja.wikipedia.org/wiki/DEAD_END" title="wikilink">DEAD END</a>/<a href="https://ja.wikipedia.org/wiki/tetsuya" title="wikilink">tetsuya</a>/VAMPS/ベッキー♪＃/MARVERICK DC SUPER ALL STARS/<a href="../Page/MUCC.md" title="wikilink">ムック</a>/<a href="../Page/LOUDNESS.md" title="wikilink">LOUDNESS</a>/<a href="https://ja.wikipedia.org/wiki/凛として時雨" title="wikilink">凛として時雨</a>/<a href="../Page/44MAGNUM.md" title="wikilink">44MAGNUM</a>)</p>
+(with <a href="https://ja.wikipedia.org/wiki/acid_android" title="wikilink">acid android</a>/<a href="https://ja.wikipedia.org/wiki/Alice_Nine" title="wikilink">Alice Nine</a>/<a href="../Page/LM.C.md" title="wikilink">LM.C</a>/<a href="https://ja.wikipedia.org/wiki/カラス_(バンド)" title="wikilink">カラス</a>/<a href="../Page/河村隆一.md" title="wikilink">河村隆一</a>/<a href="https://ja.wikipedia.org/wiki/KYO_(ミュージシャン)" title="wikilink">kyo</a>/<a href="https://ja.wikipedia.org/wiki/girugamesh" title="wikilink">ギルガメッシュ</a>/<a href="../Page/Ken.md" title="wikilink">Ken</a>/<a href="../Page/シド_(バンド).md" title="wikilink">シド</a>/ゾロ/<a href="https://ja.wikipedia.org/wiki/DEAD_END" title="wikilink">DEAD END</a>/<a href="https://ja.wikipedia.org/wiki/tetsuya" title="wikilink">tetsuya</a>/VAMPS/ベッキー♪＃/MARVERICK DC SUPER ALL STARS/<a href="../Page/MUCC.md" title="wikilink">ムック</a>/<a href="../Page/LOUDNESS.md" title="wikilink">LOUDNESS</a>/<a href="https://ja.wikipedia.org/wiki/凛として時雨" title="wikilink">凛として時雨</a>/<a href="../Page/44MAGNUM.md" title="wikilink">44MAGNUM</a>)</p>
 </div>
 </div></td>
 <td></td>
@@ -2254,7 +2254,7 @@ O.A <a href="https://ja.wikipedia.org/wiki/HEAD_PHONES_PRESIDENT" title="wikilin
 VAMPARK FEST<br />
 (VAMPS, <a href="https://ja.wikipedia.org/wiki/ASH_DA_HERO" title="wikilink">ASH DA HERO</a>, <a href="https://ja.wikipedia.org/wiki/OKAMOTO&#39;S" title="wikilink">OKAMOTO'S</a>, sads, DIR EN GREY, <a href="https://ja.wikipedia.org/wiki/MY_FIRST_STORY" title="wikilink">MY FIRST STORY</a>)<br />
 氣志團万博<br />
-(<a href="https://ja.wikipedia.org/wiki/岡崎体育" title="wikilink">岡崎体育</a>、氣志團、<a href="https://ja.wikipedia.org/wiki/グループ魂" title="wikilink">グループ魂</a>、<a href="https://ja.wikipedia.org/wiki/SPYAIR" title="wikilink">SPYAIR</a>、Ｊ王蜂(<a href="https://ja.wikipedia.org/wiki/J_(ミュージシャン)" title="wikilink">J</a>×<a href="../Page/女王蜂.md" title="wikilink">女王蜂</a>)、<a href="https://ja.wikipedia.org/wiki/モーニング娘。OG" title="wikilink">モーニング娘。OG</a>)</p>
+(<a href="https://ja.wikipedia.org/wiki/岡崎体育" title="wikilink">岡崎体育</a>、氣志團、<a href="../Page/グループ魂.md" title="wikilink">グループ魂</a>、<a href="https://ja.wikipedia.org/wiki/SPYAIR" title="wikilink">SPYAIR</a>、Ｊ王蜂(<a href="../Page/J_(ミュージシャン).md" title="wikilink">J</a>×<a href="../Page/女王蜂.md" title="wikilink">女王蜂</a>)、<a href="https://ja.wikipedia.org/wiki/モーニング娘。OG" title="wikilink">モーニング娘。OG</a>)</p>
 </div>
 </div></td>
 </tr>

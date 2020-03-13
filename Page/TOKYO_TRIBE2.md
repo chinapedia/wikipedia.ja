@@ -7,11 +7,11 @@
 
 ## 概要
 
-漫画『[TOKYO TRIBE](../Page/TOKYO_TRIBE.md "wikilink")』の続編。[ファッション誌](../Page/ファッション雑誌.md "wikilink")『[boon](https://ja.wikipedia.org/wiki/Boon_\(雑誌\) "wikilink")』（[祥伝社](../Page/祥伝社.md "wikilink")）に於いて、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")まで連載された。単行本は全12巻。
+漫画『[TOKYO TRIBE](../Page/TOKYO_TRIBE.md "wikilink")』の続編。[ファッション誌](../Page/ファッション雑誌.md "wikilink")『[boon](https://ja.wikipedia.org/wiki/Boon_\(雑誌\) "wikilink")』（[祥伝社](../Page/祥伝社.md "wikilink")）に於いて、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")から[2005年](../Page/2005年.md "wikilink")まで連載された。単行本は全12巻。
 
 前作と同じく架空の町、“トーキョー”に生きる若者達の日常を描いている。暴力、犯罪、殺人、セックス、そして愛と友情を、実に過激に、過剰に描写している。現代社会に巣食う退廃した若者達の暗黒面が曝されている。また、[ヒップホップ](../Page/ヒップホップ.md "wikilink")や[R\&Bなどの音楽の小ネタが作品中に散りばめられている](../Page/リズム・アンド・ブルース.md "wikilink")。
 
-架空の町とされているが実際の町並みが描写されていることが多い。テラが襲われた[吉祥寺](../Page/吉祥寺.md "wikilink")、ガリレオとの戦いの[高井戸](../Page/高井戸.md "wikilink")の[杉並清掃工場](https://ja.wikipedia.org/wiki/杉並清掃工場 "wikilink")、ムサシノの溜り場ペニーズは[杉並区](https://ja.wikipedia.org/wiki/杉並区 "wikilink")宮前の[ロイヤルホスト](https://ja.wikipedia.org/wiki/ロイヤルホスト "wikilink")（現在は閉店）など。
+架空の町とされているが実際の町並みが描写されていることが多い。テラが襲われた[吉祥寺](../Page/吉祥寺.md "wikilink")、ガリレオとの戦いの[高井戸](../Page/高井戸.md "wikilink")の[杉並清掃工場](https://ja.wikipedia.org/wiki/杉並清掃工場 "wikilink")、ムサシノの溜り場ペニーズは[杉並区](https://ja.wikipedia.org/wiki/杉並区 "wikilink")宮前の[ロイヤルホスト](../Page/ロイヤルホスト.md "wikilink")（現在は閉店）など。
 
 ## あらすじ
 
@@ -32,7 +32,7 @@
     ブラックミュージックを愛する友情に厚い少年。19歳。天才的なDJテクニックを持っているが、厳格な父との関係に悩み、かつての親友だったメラとの関係にも複雑な思いを抱いている。抗争が激化していく中、リーダーであるテラさんを失ったムサシノSARUのリーダーとして仲間を守るために成長していく。戦いの際には金属バットを手にしているが、必要の都度購入している。
   - ハシーム
     声 - [肥後誠](../Page/肥後マコト.md "wikilink") / 演 - 石井勇気（[パンダユナイテッド](https://ja.wikipedia.org/wiki/パンダユナイテッド "wikilink")）
-    本名「橋村忠男」。海の親友であり、彼と同様にムサシノSARUのメンバー。自称写真家志望で 櫛の刺さった[アフロヘアー](https://ja.wikipedia.org/wiki/アフロヘアー "wikilink")がトレードマーク。スケベでお調子者だが、海の危機に際しては勇気をふるって敵に立ち向かう一面も見せる。後輩にあたる書記長とは何かと凸凹コンビぶりを見せる。
+    本名「橋村忠男」。海の親友であり、彼と同様にムサシノSARUのメンバー。自称写真家志望で 櫛の刺さった[アフロヘアー](../Page/アフロヘアー.md "wikilink")がトレードマーク。スケベでお調子者だが、海の危機に際しては勇気をふるって敵に立ち向かう一面も見せる。後輩にあたる書記長とは何かと凸凹コンビぶりを見せる。
   - 書記長
     声 - [水島大宙](https://ja.wikipedia.org/wiki/水島大宙 "wikilink")
     本名「田宮肇」。メモ帳（アニメでは[PDA](../Page/携帯情報端末.md "wikilink")）を片手にメモを取る姿からハシームが[ブレジネフ書記長にちなんで命名した](../Page/レオニード・ブレジネフ.md "wikilink")。後にスカンクと通じてSARUの内情を報告していたことが判るが、友情を信じた海たちは何も咎めず、彼もまた友情を選ぶ。
@@ -97,14 +97,14 @@
 
   - チカチーロ
     声 - [山口祥行](../Page/山口祥行.md "wikilink")
-    シヴヤSARUに憧れ、その伝説を引き継ぐべく「シヴヤWARU（ワル）」を結成した。彼とメンバーはSARUパーカーを模した「WARU」の字が入ったパーカーの下に武士のような[髷を結った少々奇妙な出で立ちである](../Page/銀杏髷.md "wikilink")。名前の由来は[アンドレイ・チカチーロ](https://ja.wikipedia.org/wiki/アンドレイ・チカチーロ "wikilink")から。
+    シヴヤSARUに憧れ、その伝説を引き継ぐべく「シヴヤWARU（ワル）」を結成した。彼とメンバーはSARUパーカーを模した「WARU」の字が入ったパーカーの下に武士のような[髷を結った少々奇妙な出で立ちである](../Page/銀杏髷.md "wikilink")。名前の由来は[アンドレイ・チカチーロ](../Page/アンドレイ・チカチーロ.md "wikilink")から。
   - コレッズ
     声 - [中野裕斗](../Page/中野裕斗.md "wikilink")
 
 ### 仏波一家
 
   - ビッグ・仏波（ブッバ）
-    声 - [郷里大輔](../Page/郷里大輔.md "wikilink") / 演 - [竹内力](https://ja.wikipedia.org/wiki/竹内力 "wikilink")（ブッバ名義）
+    声 - [郷里大輔](../Page/郷里大輔.md "wikilink") / 演 - [竹内力](../Page/竹内力.md "wikilink")（ブッバ名義）
     ブクロWU-RONZの後ろ盾としてブクロを影で牛耳る巨漢の大物ヤクザ。強欲かつ残忍な性格であり、時折非合法な方法で連れてきた人間を手下に惨殺させて楽しんでいる。メラが仇と狙う人物。シローとイットクという側近がいる。ホテトル嬢として働かせていたスンミが実はウォンコンを牛耳る大司祭の娘だと知るや、精神を崩壊、一時は幼児退行にも似た状態になる。
     終盤スンミを手に入れたことで漸く落ち着きを取り戻すも、直後乗り込んできたメラに『両親と同じ状態で』惨殺された。
     名前の由来は[ノトーリアス・B.I.G.](../Page/ノトーリアス・B.I.G..md "wikilink")の曲名・愛称から。
@@ -119,7 +119,7 @@
     アニメではブッバ邸での戦いの後、記憶を失ったと思われる状態でムサシノクニに現れた。
   - ジャダキンス
     声 - [松山タカシ](../Page/松山鷹志.md "wikilink") / 演 - [ベルナール・アッカ](../Page/ベルナール・アッカ.md "wikilink")
-    拳法着と黒いマントに身を包んだ、ウォンコンからの殺し屋。ガリレオとの力比べにも顔色一つ変えず義手を捻り潰すほどの人間離れした戦闘力を持つが、ウォンコンの言葉しか話せないので亀吉という通訳を帯同している（アニメ版では亀吉は登場せず、[PSPのような携帯端末](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")（声 - [AKIKO](../Page/AKIKO_\(声優\).md "wikilink")））を使う。劇中の描写から、生身の人間ではないと推測される。
+    拳法着と黒いマントに身を包んだ、ウォンコンからの殺し屋。ガリレオとの力比べにも顔色一つ変えず義手を捻り潰すほどの人間離れした戦闘力を持つが、ウォンコンの言葉しか話せないので亀吉という通訳を帯同している（アニメ版では亀吉は登場せず、[PSPのような携帯端末](../Page/PlayStation_Portable.md "wikilink")（声 - [AKIKO](../Page/AKIKO_\(声優\).md "wikilink")））を使う。劇中の描写から、生身の人間ではないと推測される。
     名前は米国のラッパー[ジェイダキス](../Page/ジェイダキス.md "wikilink")の名を作者が読み間違えていたことが由来である。
   - 亀吉
     演 - [丞威](https://ja.wikipedia.org/wiki/ジョーイ・ティー "wikilink")
@@ -155,13 +155,13 @@
     声 - 松山タカシ
     マチダを拠点とするトライブ「マチダTHUG（サグ）」リーダーで、豪勢な毛皮に身を包んだスキンヘッドの巨漢。両目尻にある涙のタトゥーは、殺した相手の数と言われている。共闘を決めた後は海やスリーピーと共にブッバのアジトに乗り込んだ。容貌がラッパーの[ベイビーそのままである](https://ja.wikipedia.org/wiki/バードマン_\(ラッパー\) "wikilink")。
   - 大司祭
-    声 - [柴田秀勝](../Page/柴田秀勝.md "wikilink") / 演 - [でんでん](https://ja.wikipedia.org/wiki/でんでん "wikilink")
+    声 - [柴田秀勝](../Page/柴田秀勝.md "wikilink") / 演 - [でんでん](../Page/でんでん.md "wikilink")
     ウォンコンの支配者。行方の分からない孫娘を探すため、日本にジャダキンス達を送り込んだ。
   - アポジ
     声 - 菊池正美
     街で新聞を売っている老人。
   - ファルコン城ヶ崎
-    声 - [安元洋貴](https://ja.wikipedia.org/wiki/安元洋貴 "wikilink")
+    声 - [安元洋貴](../Page/安元洋貴.md "wikilink")
   - 店員
     声 - AKIKO
   - キャンディ
@@ -173,7 +173,7 @@
   - ケイ
     声 - [水沢史絵](../Page/水沢史絵.md "wikilink")
   - グルメ
-    声 - [中村悠一](https://ja.wikipedia.org/wiki/中村悠一 "wikilink")
+    声 - [中村悠一](../Page/中村悠一.md "wikilink")
   - ペニーズ店長
     声 - 稲田徹
 
@@ -219,7 +219,7 @@
   - エグゼクティブプロデューサー - 村田太一、豊島雅郎、峯崎順朗、峯岸卓生、丸田順悟
   - プロデューサー - 上舞祐司、佐藤至信、磯田敦仁、北浦宏之、大野実、小岐須泰世、二方由紀子、原史倫
   - アニメーションプロデューサー - 諸澤昌男
-  - アニメーション制作 - [マッドハウス](https://ja.wikipedia.org/wiki/マッドハウス "wikilink")
+  - アニメーション制作 - [マッドハウス](../Page/マッドハウス.md "wikilink")
   - 製作 - 「TOKYO TRIBE2」フィルムパートナーズ
 
 ### 主題歌
@@ -377,9 +377,9 @@ Kim,Gi-du</p></td>
   - KESHA - [中川翔子](../Page/中川翔子.md "wikilink")
   - テラ - [佐藤隆太](../Page/佐藤隆太.md "wikilink")
   - MC・SHOW - [染谷将太](https://ja.wikipedia.org/wiki/染谷将太 "wikilink")
-  - 大司祭 - [でんでん](https://ja.wikipedia.org/wiki/でんでん "wikilink")
+  - 大司祭 - [でんでん](../Page/でんでん.md "wikilink")
   - ンコイ - [窪塚洋介](../Page/窪塚洋介.md "wikilink")
-  - ブッバ - [竹内力](https://ja.wikipedia.org/wiki/竹内力 "wikilink")
+  - ブッバ - [竹内力](../Page/竹内力.md "wikilink")
 
 #### その他
 
@@ -405,9 +405,9 @@ Kim,Gi-du</p></td>
 
 ## 関連項目
 
-  - [不良行為少年](https://ja.wikipedia.org/wiki/不良行為少年 "wikilink")（不良少年）
+  - [不良行為少年](../Page/不良行為少年.md "wikilink")（不良少年）
   - [ヤンキー](../Page/ヤンキー_\(不良少年\).md "wikilink")
-  - [チーマー](https://ja.wikipedia.org/wiki/チーマー "wikilink")
+  - [チーマー](../Page/チーマー.md "wikilink")
   - [少年犯罪](../Page/少年犯罪.md "wikilink")
   - [ギャング](../Page/ギャング.md "wikilink")
 
@@ -426,5 +426,5 @@ Kim,Gi-du</p></td>
 5.
 6.
 7.
-8.  「[キネマ旬報](https://ja.wikipedia.org/wiki/キネマ旬報 "wikilink")」2015年3月下旬号 102頁
+8.  「[キネマ旬報](../Page/キネマ旬報.md "wikilink")」2015年3月下旬号 102頁
 9.

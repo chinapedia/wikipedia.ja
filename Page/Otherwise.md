@@ -1,9 +1,9 @@
 > この記事は[Otherwise](https://ja.wikipedia.org/wiki/Otherwise)から翻訳されています。
 
 
-**otherwise**（アザーワイズ）は、かつて存在した大阪の[ソフトウェア](../Page/ソフトウェア.md "wikilink")[会社](../Page/会社.md "wikilink")アーヴォリオ・ソフトウェア（aypio）の[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ブランドである\[1\]。代表及びメインライターは[元長柾木](https://ja.wikipedia.org/wiki/元長柾木 "wikilink")。株式会社[ビジュアルアーツ](../Page/ビジュアルアーツ.md "wikilink")傘下のブランドの1つで、姉妹ブランドに「[13cm](../Page/13cm.md "wikilink")」などがある。 元長の活躍の場を与えるために設立された経緯があり、otherwiseというブランド名は13cmの代表であるUYE\!が口を出すなという意味で名付けた\[2\]。
+**otherwise**（アザーワイズ）は、かつて存在した大阪の[ソフトウェア](../Page/ソフトウェア.md "wikilink")[会社](../Page/会社.md "wikilink")アーヴォリオ・ソフトウェア（aypio）の[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ブランドである\[1\]。代表及びメインライターは[元長柾木](../Page/元長柾木.md "wikilink")。株式会社[ビジュアルアーツ](../Page/ビジュアルアーツ.md "wikilink")傘下のブランドの1つで、姉妹ブランドに「[13cm](../Page/13cm.md "wikilink")」などがある。 元長の活躍の場を与えるために設立された経緯があり、otherwiseというブランド名は13cmの代表であるUYE\!が口を出すなという意味で名付けた\[2\]。
 
-ブランドは既に解散しているが、『未来にキスを -Standard Edition -』（廉価版）が[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月15日](../Page/7月15日.md "wikilink")に13cmから発売された。
+ブランドは既に解散しているが、『未来にキスを -Standard Edition -』（廉価版）が[2005年](../Page/2005年.md "wikilink")[7月15日](../Page/7月15日.md "wikilink")に13cmから発売された。
 
 ## 作品一覧
 

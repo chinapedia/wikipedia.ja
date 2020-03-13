@@ -1,11 +1,11 @@
 > この記事は[TEENS\' MUSIC WAVE](https://ja.wikipedia.org/wiki/TEENS\'_MUSIC_WAVE)から翻訳されています。
 
 
-『**TEENS' MUSIC WAVE**』（ティーンズ ミュージック ウェイヴ）は、[ニッポン放送](../Page/ニッポン放送.md "wikilink")など日本各地のラジオ局で[2000年](../Page/2000年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで放送されていた[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")である。略称「**TMW**」。
+『**TEENS' MUSIC WAVE**』（ティーンズ ミュージック ウェイヴ）は、[ニッポン放送](../Page/ニッポン放送.md "wikilink")など日本各地のラジオ局で[2000年](../Page/2000年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで放送されていた[音楽番組](../Page/音楽番組.md "wikilink")である。略称「**TMW**」。
 
 ## 概要
 
-前身の『[ぽっぷん王国ミュージックスタジアム](../Page/ぽっぷん王国ミュージックスタジアム.md "wikilink")』と同様に、主に10代の歌手とミュージシャンを彼らの曲とともに紹介していた。また、彼らをゲストに迎えることもあった。放送内容がネット局ごとに異なる[企画ネット番組](https://ja.wikipedia.org/wiki/企画ネット番組 "wikilink")であり、各局の[アナウンサー](../Page/日本のアナウンサー.md "wikilink")1人もしくは2人が[パーソナリティを務めていた](../Page/ラジオパーソナリティ.md "wikilink")。番組の核となる部分に関しては、ニッポン放送アナウンサーの[吉田尚記](../Page/吉田尚記.md "wikilink")がパーソナリティを務めていた\[1\]。
+前身の『[ぽっぷん王国ミュージックスタジアム](../Page/ぽっぷん王国ミュージックスタジアム.md "wikilink")』と同様に、主に10代の歌手とミュージシャンを彼らの曲とともに紹介していた。また、彼らをゲストに迎えることもあった。放送内容がネット局ごとに異なる[企画ネット番組](../Page/企画ネット番組.md "wikilink")であり、各局の[アナウンサー](../Page/日本のアナウンサー.md "wikilink")1人もしくは2人が[パーソナリティを務めていた](../Page/ラジオパーソナリティ.md "wikilink")。番組の核となる部分に関しては、ニッポン放送アナウンサーの[吉田尚記](../Page/吉田尚記.md "wikilink")がパーソナリティを務めていた\[1\]。
 
 前番組までは週5日間の帯で放送されていたが、本番組で週に1回の放送となった。また、当初は[日総工産](../Page/日総工産.md "wikilink")の一社提供で放送されていたが、後に[ヤマハ](../Page/ヤマハ.md "wikilink")と[ロッテ](../Page/ロッテ.md "wikilink")の複数社提供へ移行した。なおヤマハは、番組の終了後も後継番組『[YAMAHA ミュージックスター](https://ja.wikipedia.org/wiki/YAMAHA_ミュージックスター "wikilink")』のスポンサーを務めていた。
 
@@ -15,7 +15,7 @@
 | --------------------------------------------------- | ----------------------------------------------------------- | --------------------------------------------------------------------- | --------------------- | -------- |
 | [関東広域圏](../Page/広域放送.md "wikilink")                 | [ニッポン放送](../Page/ニッポン放送.md "wikilink")                      | [NRN系列](../Page/全国ラジオネットワーク.md "wikilink")                            | 土曜 0:40 - 1:00 （金曜深夜） |          |
 | [中京広域圏](../Page/広域放送.md "wikilink")                 | [中部日本放送](../Page/CBCラジオ.md "wikilink")                      | [JRN系列](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink") | 土曜 0:30 - 0:50 （金曜深夜） | 現・CBCラジオ |
-| [福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink") | [RKB毎日放送](../Page/RKBラジオ.md "wikilink")                     | 金曜 23:40 - 翌0:00                                                      |                       |          |
+| [福岡県](../Page/福岡県.md "wikilink")                    | [RKB毎日放送](../Page/RKBラジオ.md "wikilink")                     | 金曜 23:40 - 翌0:00                                                      |                       |          |
 | [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink") | [北海道放送](../Page/HBCラジオ.md "wikilink")                       | JRN・NRN系列                                                             | 土曜 0:40 - 1:00 （金曜深夜） |          |
 | [岩手県](../Page/岩手県.md "wikilink")                    | [IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink") | 日曜 23:10 - 23:30                                                      |                       |          |
 | [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink") | [東北放送](../Page/東北放送.md "wikilink")                          | 土曜 23:00 - 23:20                                                      |                       |          |

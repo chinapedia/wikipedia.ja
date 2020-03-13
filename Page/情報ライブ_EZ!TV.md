@@ -1,7 +1,7 @@
 > この記事は[ EZ!TV](https://ja.wikipedia.org/wiki/_EZ!TV)から翻訳されています。
 
 
-『**EZ\!TV**』（イージー・ティーヴィー）は、[フジテレビ系列で](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")2001年4月1日から2005年9月18日まで、毎週[日曜日](../Page/日曜日.md "wikilink")22:00 - 23:15（[JST](../Page/日本標準時.md "wikilink")）に[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")された[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。フジテレビと[関西テレビの共同制作](../Page/関西テレビ放送.md "wikilink")。[デジタルハイビジョン](https://ja.wikipedia.org/wiki/デジタルハイビジョン "wikilink")（[デジタル放送のみ](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")）・[ステレオ放送](../Page/ステレオ放送.md "wikilink")。2004年10月以降は『情報ライブEZ\!TV』（じょうほうらいぶ イージー・ティーヴィー）として放送した。
+『**EZ\!TV**』（イージー・ティーヴィー）は、[フジテレビ系列で](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")2001年4月1日から2005年9月18日まで、毎週[日曜日](../Page/日曜日.md "wikilink")22:00 - 23:15（[JST](../Page/日本標準時.md "wikilink")）に[生放送](../Page/生放送.md "wikilink")された[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。フジテレビと[関西テレビの共同制作](../Page/関西テレビ放送.md "wikilink")。[デジタルハイビジョン](https://ja.wikipedia.org/wiki/デジタルハイビジョン "wikilink")（[デジタル放送のみ](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")）・[ステレオ放送](../Page/ステレオ放送.md "wikilink")。2004年10月以降は『情報ライブEZ\!TV』（じょうほうらいぶ イージー・ティーヴィー）として放送した。
 
 ## 概要
 
@@ -9,17 +9,17 @@
 
 「世の中の政治、経済、事件、エンタテイメント、社会現象などのニュースを独自の視点で、わかりやすく（EZ\!【EASY】に）リアルタイムで」をモットーに、日曜夜という週末最後の落ち着いた時間に情報を発信する番組であった。
 
-2001年4月1日に、『**EZ\!TV**』として放送開始。主な番組内容および出演者は、前番組の『[スーパーナイト](https://ja.wikipedia.org/wiki/スーパーナイト "wikilink")』の流れを汲む。基本的な放送時間は、開始当初、『スーパーナイト』60分、『[ニュースJAPAN WEEKEND](../Page/ニュースJAPAN_WEEKEND.md "wikilink")』15分、『[プロ野球ニュース](../Page/プロ野球ニュース.md "wikilink")』60分の3枠を統合したため、135分と非常に長かった。「**FNN EZ\!TV NEWS**」（23:30頃 - 23:40頃）と、『[感動ファクトリー すぽると\!](../Page/すぽると!.md "wikilink")』の日曜版として「**EZ\!すぽると\!**」（23:40頃 - 翌0:10頃）を放送。F1・格闘技・欧州サッカーの放送が優先されたため放送時間の変更や放送休止が多かった。
+2001年4月1日に、『**EZ\!TV**』として放送開始。主な番組内容および出演者は、前番組の『[スーパーナイト](../Page/スーパーナイト.md "wikilink")』の流れを汲む。基本的な放送時間は、開始当初、『スーパーナイト』60分、『[ニュースJAPAN WEEKEND](../Page/ニュースJAPAN_WEEKEND.md "wikilink")』15分、『[プロ野球ニュース](../Page/プロ野球ニュース.md "wikilink")』60分の3枠を統合したため、135分と非常に長かった。「**FNN EZ\!TV NEWS**」（23:30頃 - 23:40頃）と、『[感動ファクトリー すぽると\!](../Page/すぽると!.md "wikilink")』の日曜版として「**EZ\!すぽると\!**」（23:40頃 - 翌0:10頃）を放送。F1・格闘技・欧州サッカーの放送が優先されたため放送時間の変更や放送休止が多かった。
 
 2003年4月の番組改編で放送時間23:45までとなり、60分短縮。23:45 - 23:55に『[FNNニュース](https://ja.wikipedia.org/wiki/FNNニュース "wikilink")』、23:55 - 翌0:15に『すぽると\!』（『[PERFECT SPORT](../Page/PERFECT_SPORT.md "wikilink")』に内包）が放送されることとなった。
 
-2004年3月に[埼玉県](../Page/埼玉県.md "wikilink")[秩父市立影森中学校](https://ja.wikipedia.org/wiki/秩父市立影森中学校 "wikilink")の教員によって作られた[合唱曲](https://ja.wikipedia.org/wiki/合唱曲 "wikilink")（[卒業ソング](https://ja.wikipedia.org/wiki/卒業ソング "wikilink")）「[旅立ちの日に](https://ja.wikipedia.org/wiki/旅立ちの日に "wikilink")」を番組内で取り上げ、大きな反響を呼んだ。その後、視聴者からの「もう一度見たい」などのリクエストにより[DVD](../Page/DVD.md "wikilink")ブック化されている\[2\]。
+2004年3月に[埼玉県](../Page/埼玉県.md "wikilink")[秩父市立影森中学校](https://ja.wikipedia.org/wiki/秩父市立影森中学校 "wikilink")の教員によって作られた[合唱曲](https://ja.wikipedia.org/wiki/合唱曲 "wikilink")（[卒業ソング](https://ja.wikipedia.org/wiki/卒業ソング "wikilink")）「[旅立ちの日に](../Page/旅立ちの日に.md "wikilink")」を番組内で取り上げ、大きな反響を呼んだ。その後、視聴者からの「もう一度見たい」などのリクエストにより[DVD](../Page/DVD.md "wikilink")ブック化されている\[2\]。
 
-2004年[10月3日](../Page/10月3日.md "wikilink")からは『[新堂本兄弟](../Page/堂本兄弟.md "wikilink")』と放送枠を入れ替えた。またこれを機に番組の表題を変更、『**情報ライブ**』の冠を付けた。リニューアルに伴い、オープニングの番組ヘッドライン内に流れる[CGはCG専門学校](../Page/コンピュータグラフィックス.md "wikilink")[デジタルハリウッド](https://ja.wikipedia.org/wiki/デジタルハリウッド "wikilink")に在籍をしている学生たちと共同で製作された\[3\]。
+2004年[10月3日](../Page/10月3日.md "wikilink")からは『[新堂本兄弟](../Page/堂本兄弟.md "wikilink")』と放送枠を入れ替えた。またこれを機に番組の表題を変更、『**情報ライブ**』の冠を付けた。リニューアルに伴い、オープニングの番組ヘッドライン内に流れる[CGはCG専門学校](../Page/コンピュータグラフィックス.md "wikilink")[デジタルハリウッド](../Page/デジタルハリウッド.md "wikilink")に在籍をしている学生たちと共同で製作された\[3\]。
 
 放送開始当初から、番組の前半部筆頭は関西テレビ製作枠から15年以上[スポンサー](../Page/スポンサー.md "wikilink")である[KINCHO](../Page/大日本除虫菊.md "wikilink")\[4\]があったが、途中でスポンサーを降りている（後継は[TOYOTA](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")）。以降、関西テレビは時間帯問わずKINCHOを[スポット枠で](../Page/スポットCM.md "wikilink")[テレビCM](https://ja.wikipedia.org/wiki/テレビCM "wikilink")を流すようにしている。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月18日](../Page/9月18日.md "wikilink")の放送をもって終了。同年[10月2日](../Page/10月2日.md "wikilink")から後番組として生放送の情報番組『**[週刊人物ライブ スタ☆メン](https://ja.wikipedia.org/wiki/スタ☆メン "wikilink")**』がスタート。『スタ☆メン』の司会は、[阿川佐和子](../Page/阿川佐和子.md "wikilink")と[爆笑問題](../Page/爆笑問題.md "wikilink")が担当した。
+[2005年](../Page/2005年.md "wikilink")[9月18日](../Page/9月18日.md "wikilink")の放送をもって終了。同年[10月2日](../Page/10月2日.md "wikilink")から後番組として生放送の情報番組『**[週刊人物ライブ スタ☆メン](../Page/スタ☆メン.md "wikilink")**』がスタート。『スタ☆メン』の司会は、[阿川佐和子](../Page/阿川佐和子.md "wikilink")と[爆笑問題](../Page/爆笑問題.md "wikilink")が担当した。
 
 ## 出演者
 
@@ -36,7 +36,7 @@
 
 <!-- end list -->
 
-  - [伊藤洋一](https://ja.wikipedia.org/wiki/伊藤洋一 "wikilink")（[住信基礎研究所](https://ja.wikipedia.org/wiki/住信基礎研究所 "wikilink")主席研究員・[エコノミスト](../Page/エコノミスト.md "wikilink")）※『[スーパーナイト](https://ja.wikipedia.org/wiki/スーパーナイト "wikilink")』から引き続き出演。
+  - [伊藤洋一](../Page/伊藤洋一.md "wikilink")（[住信基礎研究所](https://ja.wikipedia.org/wiki/住信基礎研究所 "wikilink")主席研究員・[エコノミスト](../Page/エコノミスト.md "wikilink")）※『[スーパーナイト](../Page/スーパーナイト.md "wikilink")』から引き続き出演。
       - 『情報ライブ EZ\!TV』になってからは伊藤以外のコメンテーターが出演することもあった。
 
 <!-- end list -->
@@ -88,7 +88,7 @@
 <!-- end list -->
 
   - [森功至](../Page/森功至.md "wikilink")
-  - [生野文治](https://ja.wikipedia.org/wiki/生野文治 "wikilink")
+  - [生野文治](../Page/生野文治.md "wikilink")
   - [あおい洋一郎](../Page/あおい洋一郎.md "wikilink")
   - [柳沢三千代](../Page/柳沢三千代.md "wikilink")
   - [神谷浩史](../Page/神谷浩史.md "wikilink")

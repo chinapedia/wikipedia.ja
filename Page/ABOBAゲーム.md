@@ -14,9 +14,9 @@
 ## 出演者
 
   - 司会：[みのもんた](../Page/みのもんた.md "wikilink")
-  - A型チーム解答者：[苅谷俊介](../Page/苅谷俊介.md "wikilink")、[北原佐和子](https://ja.wikipedia.org/wiki/北原佐和子 "wikilink")、[江木俊夫](../Page/江木俊夫.md "wikilink")、[清水由貴子](../Page/清水由貴子.md "wikilink")、[ロミ山田](../Page/ロミ山田.md "wikilink")、[野々村真](https://ja.wikipedia.org/wiki/野々村真 "wikilink")、[柳沢純子](https://ja.wikipedia.org/wiki/柳沢純子 "wikilink")、三遊亭楽太郎（後の[六代目三遊亭円楽](https://ja.wikipedia.org/wiki/三遊亭円楽_\(6代目\) "wikilink")）
+  - A型チーム解答者：[苅谷俊介](../Page/苅谷俊介.md "wikilink")、[北原佐和子](https://ja.wikipedia.org/wiki/北原佐和子 "wikilink")、[江木俊夫](../Page/江木俊夫.md "wikilink")、[清水由貴子](../Page/清水由貴子.md "wikilink")、[ロミ山田](../Page/ロミ山田.md "wikilink")、[野々村真](../Page/野々村真.md "wikilink")、[柳沢純子](https://ja.wikipedia.org/wiki/柳沢純子 "wikilink")、三遊亭楽太郎（後の[六代目三遊亭円楽](https://ja.wikipedia.org/wiki/三遊亭円楽_\(6代目\) "wikilink")）
   - B型チーム解答者：
-  - O型チーム解答者：[橘家圓蔵](../Page/橘家圓蔵_\(8代目\).md "wikilink")、[白石まるみ](https://ja.wikipedia.org/wiki/白石まるみ "wikilink")、[神保美喜](../Page/神保美喜.md "wikilink")、レツゴーじゅん（[レツゴー三匹](https://ja.wikipedia.org/wiki/レツゴー三匹 "wikilink")）
+  - O型チーム解答者：[橘家圓蔵](../Page/橘家圓蔵_\(8代目\).md "wikilink")、[白石まるみ](../Page/白石まるみ.md "wikilink")、[神保美喜](../Page/神保美喜.md "wikilink")、レツゴーじゅん（[レツゴー三匹](../Page/レツゴー三匹.md "wikilink")）
   - AB型チーム解答者：[稲川淳二](../Page/稲川淳二.md "wikilink")、[小田かおる](https://ja.wikipedia.org/wiki/小田かおる "wikilink")、[川島なお美](../Page/川島なお美.md "wikilink")、[すどうかづみ](../Page/すどうかづみ.md "wikilink")
 
 ## コーナー
@@ -26,7 +26,7 @@
   - スター追跡クイズ
     血液型からタレントの行動を当てるクイズ。記述問題で、正解者1人につき2点獲得。2択問題や、3択問題の場合もあった。
   - ABOBAコントクイズ
-    血液型別に行動を当てるクイズ。出演者は[ダウンタウン](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink")、[ハイヒール](https://ja.wikipedia.org/wiki/ハイヒール_\(お笑い\) "wikilink")、[桂小枝](https://ja.wikipedia.org/wiki/桂小枝 "wikilink")。司会者席に近い方から出題される。3択問題で、正解者につき2点獲得。
+    血液型別に行動を当てるクイズ。出演者は[ダウンタウン](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink")、[ハイヒール](../Page/ハイヒール_\(お笑い\).md "wikilink")、[桂小枝](../Page/桂小枝.md "wikilink")。司会者席に近い方から出題される。3択問題で、正解者につき2点獲得。
   - 4ヒントゲーム
     体の一部、近親者や子供の頃の写真などからタレントを当てるクイズ。早押しで答える。1枚目を開く前にみのが正解の人物の血液型と星座をヒントとして伝える｡1枚目で当てると4点で、2枚目以降は1点ずつ減る。4枚目は、本人の写真を使用していた（連続写真が徐々に枚数が少なくなる、白黒逆転が徐々に反転される、バラバラに編集されたものが徐々に戻る、白黒逆転＋バラバラ等）。解答権は1人1回、不正解でその問題の解答権を失い、問題終了まで席を立つ｡
     後に「1ヒントゲーム」となり、正解で2点獲得。
@@ -42,7 +42,7 @@
   - イラスト：河村立司
   - 美術：高岡慎治、野村仁
   - コンピューターソフト：池田裕司
-  - 取材協力：オムニビジョン、[各務プロダクション](https://ja.wikipedia.org/wiki/カガミ_\(テレビ制作会社\) "wikilink")
+  - 取材協力：オムニビジョン、[各務プロダクション](../Page/カガミ_\(テレビ制作会社\).md "wikilink")
   - 制作：高田佳一
   - プロデューサー：森茂
   - ディレクター：[沖中進](https://ja.wikipedia.org/wiki/沖中進 "wikilink")
@@ -159,7 +159,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/九州朝日放送" title="wikilink">九州朝日放送</a></p></td>
 <td></td>
 <td></td>

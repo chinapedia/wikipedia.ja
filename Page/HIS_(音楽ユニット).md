@@ -5,7 +5,7 @@
 
 ## 概要
 
-[東芝EMIの創立](../Page/EMIミュージック・ジャパン.md "wikilink")30周年記念イベント「**ロックの生まれた日**」（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")）で忌野と坂本が[三宅伸治](../Page/三宅伸治.md "wikilink")と3人で**SMI**を名乗り、[小林和生](https://ja.wikipedia.org/wiki/小林和生 "wikilink")がウッドベース、[ケニー・モズレー](https://ja.wikipedia.org/wiki/ケニー・モズレー "wikilink")がパーカッションとして参加し共演した。その後、細野晴臣をプロデューサー兼メンバーとして迎えてHISが誕生した。HISという名称は各人の頭文字を取ったものである。また、衣装は主に[学生服](https://ja.wikipedia.org/wiki/学生服 "wikilink")、[セーラー服](../Page/セーラー服.md "wikilink")を着用した。
+[東芝EMIの創立](../Page/EMIミュージック・ジャパン.md "wikilink")30周年記念イベント「**ロックの生まれた日**」（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")）で忌野と坂本が[三宅伸治](../Page/三宅伸治.md "wikilink")と3人で**SMI**を名乗り、[小林和生](https://ja.wikipedia.org/wiki/小林和生 "wikilink")がウッドベース、[ケニー・モズレー](https://ja.wikipedia.org/wiki/ケニー・モズレー "wikilink")がパーカッションとして参加し共演した。その後、細野晴臣をプロデューサー兼メンバーとして迎えてHISが誕生した。HISという名称は各人の頭文字を取ったものである。また、衣装は主に[学生服](../Page/学生服.md "wikilink")、[セーラー服](../Page/セーラー服.md "wikilink")を着用した。
 
 [1991年](../Page/1991年.md "wikilink")、アルバム『**日本の人**』発表。「**ロックが生まれた日**」では演奏した7曲全てがカバー曲だったが、アルバムではカバー曲を14曲中5曲にとどめ、あとはオリジナル曲となった。
 
@@ -15,7 +15,7 @@
 
 なお、忌野と細野は、1990年2月の[ローリング・ストーンズ](../Page/ローリング・ストーンズ.md "wikilink")日本公演の楽屋で出会うまでほとんど会ったことがなかったという。
 
-アルバム1枚を発表した後は表立った活動は行われていなかったが、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")には14年ぶりに3人が曲を製作、坂本名義にてシングル『**Oh, My Love ～ラジオから愛のうた～**』としてリリースされた。翌[2006年](../Page/2006年.md "wikilink")2月の忌野のライブ「**新ナニワ・サリバン・ショー**」、および同年3月16日に[NHK総合で放映された](../Page/NHK総合テレビジョン.md "wikilink")「**[音楽・夢くらぶ](https://ja.wikipedia.org/wiki/音楽・夢くらぶ "wikilink")**」にHIS名義で出演し、演奏を行っている。
+アルバム1枚を発表した後は表立った活動は行われていなかったが、[2005年](../Page/2005年.md "wikilink")には14年ぶりに3人が曲を製作、坂本名義にてシングル『**Oh, My Love ～ラジオから愛のうた～**』としてリリースされた。翌[2006年](../Page/2006年.md "wikilink")2月の忌野のライブ「**新ナニワ・サリバン・ショー**」、および同年3月16日に[NHK総合で放映された](../Page/NHK総合テレビジョン.md "wikilink")「**[音楽・夢くらぶ](../Page/音楽・夢くらぶ.md "wikilink")**」にHIS名義で出演し、演奏を行っている。
 
 ## ディスコグラフィ
 
@@ -32,7 +32,7 @@
 <!-- end list -->
 
   -
-    『日本の人』からの先行シングル。[パルコ](https://ja.wikipedia.org/wiki/パルコ "wikilink")のCMソング（自らも出演）に使われた。
+    『日本の人』からの先行シングル。[パルコ](../Page/パルコ.md "wikilink")のCMソング（自らも出演）に使われた。
 
 <!-- end list -->
 
@@ -50,6 +50,6 @@
 <!-- end list -->
 
   -
-    [NHKラジオ第1放送](https://ja.wikipedia.org/wiki/NHKラジオ第1放送 "wikilink")「[旅するラジオ こんにちは\!80ちゃんです](https://ja.wikipedia.org/wiki/こんにちは!80ちゃんです "wikilink")」テーマ曲。カップリング曲の「幸せハッピー」ともども作詞・忌野、作曲・細野だが、坂本冬美名義。この2曲は2016年12月に再々発売された『日本の人』SHM-CD版にボーナストラックとして収録されている。
+    [NHKラジオ第1放送](../Page/NHKラジオ第1放送.md "wikilink")「[旅するラジオ こんにちは\!80ちゃんです](https://ja.wikipedia.org/wiki/こんにちは!80ちゃんです "wikilink")」テーマ曲。カップリング曲の「幸せハッピー」ともども作詞・忌野、作曲・細野だが、坂本冬美名義。この2曲は2016年12月に再々発売された『日本の人』SHM-CD版にボーナストラックとして収録されている。
 
 [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:EMIミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのアーティスト "wikilink") [Category:細野晴臣](https://ja.wikipedia.org/wiki/Category:細野晴臣 "wikilink") [Category:忌野清志郎](https://ja.wikipedia.org/wiki/Category:忌野清志郎 "wikilink")

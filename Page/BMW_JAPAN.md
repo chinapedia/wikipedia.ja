@@ -3,13 +3,13 @@
 
 **BMWジャパン**（ビーエムダブリュージャパン）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の自動車会社・[BMW](../Page/BMW.md "wikilink")の[日本法人](../Page/法人.md "wikilink")、**ビー・エム・ダブリュー株式会社**の[通称](../Page/通称.md "wikilink")である。
 
-ドイツBMW社の[完全子会社](https://ja.wikipedia.org/wiki/完全子会社 "wikilink")として[1981年](../Page/1981年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")56年）に設立され、日本におけるBMWの[輸入](https://ja.wikipedia.org/wiki/輸入 "wikilink")・[販売](../Page/販売.md "wikilink")などを行っている。
+ドイツBMW社の[完全子会社](https://ja.wikipedia.org/wiki/完全子会社 "wikilink")として[1981年](../Page/1981年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")56年）に設立され、日本におけるBMWの[輸入](../Page/輸入.md "wikilink")・[販売](../Page/販売.md "wikilink")などを行っている。
 
 最近ではiシリーズなどの電気自動車開発、販売なども行なっている。
 
 ## 概要
 
-事業内容は、[自動車](../Page/自動車.md "wikilink")（BMW、[ミニ](../Page/ミニ_\(BMW\).md "wikilink")、[ロールス・ロイス](../Page/ロールス・ロイス.md "wikilink")）、[オートバイ](../Page/オートバイ.md "wikilink")の[輸入](https://ja.wikipedia.org/wiki/輸入 "wikilink")[販売](../Page/販売.md "wikilink")など。特殊な自動車[ローン](https://ja.wikipedia.org/wiki/ローン "wikilink")や、[中古車](https://ja.wikipedia.org/wiki/中古車 "wikilink")販売における「認定中古車制度」など、ユニークな販売手法でも知られる。従来、日本での[輸入車](../Page/輸入車.md "wikilink")販売は、日本の正規輸入代理店を介して行われていたが、BMWジャパンの成功によって、本国自動車メーカーが日本法人を設立して直接輸入・販売を独占・管理する手法が他の外国自動車メーカーにも広まった。
+事業内容は、[自動車](../Page/自動車.md "wikilink")（BMW、[ミニ](../Page/ミニ_\(BMW\).md "wikilink")、[ロールス・ロイス](../Page/ロールス・ロイス.md "wikilink")）、[オートバイ](../Page/オートバイ.md "wikilink")の[輸入](../Page/輸入.md "wikilink")[販売](../Page/販売.md "wikilink")など。特殊な自動車[ローン](https://ja.wikipedia.org/wiki/ローン "wikilink")や、[中古車](../Page/中古車.md "wikilink")販売における「認定中古車制度」など、ユニークな販売手法でも知られる。従来、日本での[輸入車](../Page/輸入車.md "wikilink")販売は、日本の正規輸入代理店を介して行われていたが、BMWジャパンの成功によって、本国自動車メーカーが日本法人を設立して直接輸入・販売を独占・管理する手法が他の外国自動車メーカーにも広まった。
 
 ## 沿革
 
@@ -48,7 +48,7 @@
 
 :\* 〒108-0075 東京都[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[高輪](../Page/港南_\(東京都港区\).md "wikilink") 2-15-17; 役員
 
-:\* 代表取締役社長 阿部　昇　100%出資子会社。[1989年](../Page/1989年.md "wikilink")（昭和64年）[1月4日](../Page/1月4日.md "wikilink")設立。世界でも最大規模のBMWディーラーのひとつ。歴代の社長として初代　富沢尚夫、[種子島経](../Page/種子島経.md "wikilink")、松山豊治（Honda Cars Philippines,Inc.を設立。初代社長）や、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[ダイエー](../Page/ダイエー.md "wikilink")の会長兼[CEOをつとめ](../Page/最高経営責任者.md "wikilink")、現在は[横浜市長](https://ja.wikipedia.org/wiki/横浜市長 "wikilink")である[林文子](../Page/林文子.md "wikilink")がいる。
+:\* 代表取締役社長 阿部　昇　100%出資子会社。[1989年](../Page/1989年.md "wikilink")（昭和64年）[1月4日](../Page/1月4日.md "wikilink")設立。世界でも最大規模のBMWディーラーのひとつ。歴代の社長として初代　富沢尚夫、[種子島経](../Page/種子島経.md "wikilink")、松山豊治（Honda Cars Philippines,Inc.を設立。初代社長）や、[2005年](../Page/2005年.md "wikilink")（平成17年）[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[ダイエー](../Page/ダイエー.md "wikilink")の会長兼[CEOをつとめ](../Page/最高経営責任者.md "wikilink")、現在は[横浜市長](https://ja.wikipedia.org/wiki/横浜市長 "wikilink")である[林文子](../Page/林文子.md "wikilink")がいる。
 
 ## ローバーの輸入販売
 
@@ -77,9 +77,9 @@
   - [ニコル・カーズ](https://ja.wikipedia.org/wiki/ニコル・カーズ "wikilink")…[アルピナ](../Page/アルピナ.md "wikilink")日本総輸入元
   - モトーレン群馬…群馬県の中古車ディーラー「東部オート」が運営
   - モトーレン・アイ&エフ（Mito BMW・Fukushima BMW、茨城・福島）…石油製品販売の「セキショウグループ」が運営
-  - [オートバックス・ディーラーグループ・ホールディングス](https://ja.wikipedia.org/wiki/オートバックス・ディーラーグループ・ホールディングス "wikilink")（[オートバックスセブン](https://ja.wikipedia.org/wiki/オートバックスセブン "wikilink")の自動車ディーラー部門の[中間持株会社](https://ja.wikipedia.org/wiki/中間持株会社 "wikilink")）
+  - [オートバックス・ディーラーグループ・ホールディングス](https://ja.wikipedia.org/wiki/オートバックス・ディーラーグループ・ホールディングス "wikilink")（[オートバックスセブン](../Page/オートバックスセブン.md "wikilink")の自動車ディーラー部門の[中間持株会社](https://ja.wikipedia.org/wiki/中間持株会社 "wikilink")）
       - モトーレン栃木…群馬と同じく東部オートが運営していたが、[2016年](../Page/2016年.md "wikilink")12月オートバックスセブンへ売却。
-      - アウトプラッツ（Ikebukuro BMW・Nerima BMW・Ogikubo BMW [豊島区](https://ja.wikipedia.org/wiki/豊島区 "wikilink")[池袋](https://ja.wikipedia.org/wiki/池袋 "wikilink")・[練馬区](https://ja.wikipedia.org/wiki/練馬区 "wikilink")・[杉並区](https://ja.wikipedia.org/wiki/杉並区 "wikilink")[荻窪](https://ja.wikipedia.org/wiki/荻窪 "wikilink")）…[2015年](../Page/2015年.md "wikilink")4月にオートバックスセブンが買収。2017年11月、株式会社東立が運営していた「Nerima BMW」を引き継ぐ。2018年8月、BMW東京が運営していた「Ogikibo BMW」の運営を引き継ぐ。
+      - アウトプラッツ（Ikebukuro BMW・Nerima BMW・Ogikubo BMW [豊島区](https://ja.wikipedia.org/wiki/豊島区 "wikilink")[池袋](../Page/池袋.md "wikilink")・[練馬区](https://ja.wikipedia.org/wiki/練馬区 "wikilink")・[杉並区](https://ja.wikipedia.org/wiki/杉並区 "wikilink")[荻窪](https://ja.wikipedia.org/wiki/荻窪 "wikilink")）…[2015年](../Page/2015年.md "wikilink")4月にオートバックスセブンが買収。2017年11月、株式会社東立が運営していた「Nerima BMW」を引き継ぐ。2018年8月、BMW東京が運営していた「Ogikibo BMW」の運営を引き継ぐ。
   - 村内外車センター（Murauchi BMW、[多摩地区](https://ja.wikipedia.org/wiki/多摩地区 "wikilink")）…家具販売の[村内ファニチャーアクセス](../Page/村内ファニチャーアクセス.md "wikilink")の関連会社。元は並行輸入車ディーラーであった。
   - [セントラル自動車技研](https://ja.wikipedia.org/wiki/セントラル自動車技研 "wikilink")(埼玉)
   - 和幸モトーレン([埼玉スバル自動車](https://ja.wikipedia.org/wiki/埼玉スバル自動車 "wikilink")・ファルコングループ)
@@ -88,8 +88,8 @@
   - モトーレン東洋（Shonan BMW、神奈川県中央エリア）…独立資本だったが、[2002年](../Page/2002年.md "wikilink")、石油製品販売の[サンオータス](https://ja.wikipedia.org/wiki/サンオータス "wikilink")が買収しグループ会社となる。[2007年](../Page/2007年.md "wikilink")、神奈川県南部の正規ディーラー「メトロポリタンモーターズ」もグループ入りする。
   - ウエインズインポートカーズ([横浜トヨペット](https://ja.wikipedia.org/wiki/横浜トヨペット "wikilink")グループ、[みなとみらい](../Page/みなとみらい.md "wikilink"))
   - エルベオート（大阪府・南部）…2009 日本最優秀ディーラー賞受賞
-      - 株式会社タナカユキ（大阪府・南部）…社名の由来は創業者の名前「田中幸男」から。消費不況で販売不振に陥ったことから、[2017年](../Page/2017年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")付けで、エルベオート100%出資の新法人「株式会社タナカユキ」に事業譲渡。旧法人は[2018年](../Page/2018年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")に、[大阪地方裁判所](https://ja.wikipedia.org/wiki/大阪地方裁判所 "wikilink")へ[特別清算](https://ja.wikipedia.org/wiki/特別清算 "wikilink")を申請して開始命令を受けた。
-  - [IDOM](https://ja.wikipedia.org/wiki/IDOM "wikilink")（旧名：ガリバーインターナショナル）
+      - 株式会社タナカユキ（大阪府・南部）…社名の由来は創業者の名前「田中幸男」から。消費不況で販売不振に陥ったことから、[2017年](../Page/2017年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")付けで、エルベオート100%出資の新法人「株式会社タナカユキ」に事業譲渡。旧法人は[2018年](../Page/2018年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")に、[大阪地方裁判所](../Page/大阪地方裁判所.md "wikilink")へ[特別清算](https://ja.wikipedia.org/wiki/特別清算 "wikilink")を申請して開始命令を受けた。
+  - [IDOM](../Page/IDOM.md "wikilink")（旧名：ガリバーインターナショナル）
       - モトーレングローバル（Asahikawa BMW、[旭川市](../Page/旭川市.md "wikilink")）旭川市の[アウディ](https://ja.wikipedia.org/wiki/アウディ "wikilink")・[フォルクスワーゲン](https://ja.wikipedia.org/wiki/フォルクスワーゲン "wikilink")ディーラー「光洋自動車」より買収し設立。本社は東京都のガリバーの本社ビルにある。
       - モトーレングランツ（千葉[東葛地域](../Page/東葛地域.md "wikilink")） - 旧Nakamitsu BMW（ナカミツモータース）
   - [阿部商会](https://ja.wikipedia.org/wiki/阿部商会 "wikilink") (阿部モータース・AbeBMW)…旧[トライアンフ・モーター・カンパニー](../Page/トライアンフ・モーター・カンパニー.md "wikilink")日本総輸入元
@@ -125,12 +125,12 @@
   - アルスターオート（愛媛）
   - 株式会社外車センター（高知）
   - ウィルプラスモトーレン（北九州・小倉）…[ウイルプラスホールディングス](https://ja.wikipedia.org/wiki/ウイルプラスホールディングス "wikilink")が運営。
-  - モトーレン佐賀…[祐徳自動車](https://ja.wikipedia.org/wiki/祐徳自動車 "wikilink")グループ。
+  - モトーレン佐賀…[祐徳自動車](../Page/祐徳自動車.md "wikilink")グループ。
   - エム・ケイ・モータース（大分）
   - マツフジモータース（諫早市・佐世保市）…松藤商事グループ
   - モトーレンフロイデ（熊本）…ドゥ.ヨネザワ企業グループ（[ヨネザワ](../Page/ヨネザワ.md "wikilink")）。同グループ内に映画製作会社「[フレッシュハーツ](../Page/フレッシュハーツ.md "wikilink")」がある。2011年、旧正規ディーラー「マスダ自動車」からの事業譲受により営業開始。
   - モトーレン沖縄…[琉球日産グループ](https://ja.wikipedia.org/wiki/琉球日産グループ "wikilink")。
-  - [新出光](https://ja.wikipedia.org/wiki/新出光 "wikilink")（イデックスオートジャパン　宮崎・鹿児島）…2019年6月より宮崎市で「Idex BMW宮崎中央店」を開店。
+  - [新出光](../Page/新出光.md "wikilink")（イデックスオートジャパン　宮崎・鹿児島）…2019年6月より宮崎市で「Idex BMW宮崎中央店」を開店。
 
 ### かつての正規ディーラー
 
@@ -139,14 +139,14 @@
   - [ファーストオート](https://ja.wikipedia.org/wiki/ファーストオート "wikilink")（Miyagi BMW）（仙台）…店舗はモトーレン仙台が譲受。
   - 丸善自動車（群馬）…2003年、東部オート（モトーレン群馬）が事業譲受。
   - トーコーモータース（栃木）…別資本「モトーレンTOKO」に移管後、東部オート（モトーレン群馬）が事業譲受。
-  - 八洲商事（茨城）…[茨城観光自動車](https://ja.wikipedia.org/wiki/茨城観光自動車 "wikilink")の関連会社。店舗はモトーレンつくばが譲受。
+  - 八洲商事（茨城）…[茨城観光自動車](../Page/茨城観光自動車.md "wikilink")の関連会社。店舗はモトーレンつくばが譲受。
   - 松澤自動車販売（[熊谷市](https://ja.wikipedia.org/wiki/熊谷市 "wikilink")）…店舗はセントラル自動車技研が譲受。
   - ニューモトハシ（[板橋区](https://ja.wikipedia.org/wiki/板橋区 "wikilink")）…店舗はセントラル自動車技研が譲受。
   - [日産プリンス東京販売](../Page/日産プリンス東京販売.md "wikilink")（プリンツモトーレン、[上用賀](../Page/上用賀.md "wikilink")）…BMW東京が譲受後、ヤナセに再売却。
   - [東邦モーターズ](https://ja.wikipedia.org/wiki/東邦モーターズ "wikilink")（東京）…一部店舗は、BMW東京が譲受。
   - 石山自動車（[日本橋浜町](../Page/日本橋浜町.md "wikilink")）
   - 株式会社東立 （Nerima BMW・東京)…[2017年](../Page/2017年.md "wikilink")9月にディーラー権解除。店舗はアウトプラッツ（オートバックス・ディーラーグループ・ホールディングス）に移管。
-  - ナカミツモータース（Nakamitsu BMW、千葉）…[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に近鉄百貨店子会社の「モトーレン千葉」を経営統合。首都圏で唯一の全県運営会社だったが、[2013年](../Page/2013年.md "wikilink")10月に千葉エリア（千葉中央、千葉北、幕張）の店舗をクインオート（Ibaraki BMW）へ売却。[2015年](../Page/2015年.md "wikilink")1月、親会社のナカミツインターナショナルとともにガリバーインターナショナルに買収され子会社となる。
+  - ナカミツモータース（Nakamitsu BMW、千葉）…[2005年](../Page/2005年.md "wikilink")に近鉄百貨店子会社の「モトーレン千葉」を経営統合。首都圏で唯一の全県運営会社だったが、[2013年](../Page/2013年.md "wikilink")10月に千葉エリア（千葉中央、千葉北、幕張）の店舗をクインオート（Ibaraki BMW）へ売却。[2015年](../Page/2015年.md "wikilink")1月、親会社のナカミツインターナショナルとともにガリバーインターナショナルに買収され子会社となる。
   - モトーレン横須賀（旧アウレア）…[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")6月にてTomei-Yokohama BMWへ譲渡。
   - 猪之原自動車（Shizuoka-Higashi BMW、[沼津市](../Page/沼津市.md "wikilink")）
   - 三盛自動車販売(Sansei BMW、静岡県中部・東部)…販売の落ち込みにより2016年4月にVTホールディングスへ事業譲渡。同年7月31日で解散・消滅した\[4\]。
@@ -155,7 +155,7 @@
   - モトーレンニューカン（大阪）…BMW大阪の発足に伴い事業譲渡。関西ヂーゼルグループ（モトーレン神戸）。
   - ニュー兵庫自動車（神戸）…モトーレン神戸へ事業譲渡。
   - [三好モーター商会](https://ja.wikipedia.org/wiki/三好モーター商会 "wikilink")（岡山）
-  - [第一交通産業](https://ja.wikipedia.org/wiki/第一交通産業 "wikilink")（北九州・小倉）…ディーラー事業をウイルプラスホールディングスへ譲渡。
+  - [第一交通産業](../Page/第一交通産業.md "wikilink")（北九州・小倉）…ディーラー事業をウイルプラスホールディングスへ譲渡。
   - アインスエーオート株式会社（大阪）････中古車ディーラー「[ハナテン](../Page/ハナテン.md "wikilink")」の経営者一族が運営。2000年～2005年まで全国優秀代理店賞を5年連続で獲るなど販売成績は芳しかったが、同一商圏内にBMW大阪（直営）が出店、これを機に販売が落ち込み、2009年10月　Hanshin BMWへ事業譲渡。
   - マスダ自動車（熊本）…2011年、[ヨネザワ](../Page/ヨネザワ.md "wikilink")（モトーレンフロイデ）へ事業譲渡。
   - 新和自動車（宮崎）…2005年、ハニ・バイエルンへ事業譲渡

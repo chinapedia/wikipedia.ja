@@ -1,7 +1,7 @@
 > この記事は[RosettaNet](https://ja.wikipedia.org/wiki/RosettaNet)から翻訳されています。
 
 
-**RosettaNet**（ロゼッタネット）は、[電子商取引](../Page/電子商取引.md "wikilink")の[標準化団体](https://ja.wikipedia.org/wiki/標準化団体 "wikilink")。
+**RosettaNet**（ロゼッタネット）は、[電子商取引](../Page/電子商取引.md "wikilink")の[標準化団体](../Page/標準化団体.md "wikilink")。
 
 メッセージフォーマットに[XMLを採用](../Page/Extensible_Markup_Language.md "wikilink")、メッセージの送受信に[HTTPベースの独自](../Page/Hypertext_Transfer_Protocol.md "wikilink")[プロトコル](../Page/プロトコル.md "wikilink")RNIF () を使う。
 

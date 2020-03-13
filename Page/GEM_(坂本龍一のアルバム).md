@@ -5,40 +5,40 @@
 
 ## 解説
 
-坂本のベストアルバム『[US](https://ja.wikipedia.org/wiki/US_\(坂本龍一のアルバム\) "wikilink")』『[UF](https://ja.wikipedia.org/wiki/UF_\(坂本龍一のアルバム\) "wikilink")』『[CM/TV](https://ja.wikipedia.org/wiki/CM/TV "wikilink")』（いずれも初回盤）の中にある応募券3枚を送るともれなくプレゼントされた。企画当初は5曲の予定だったが最終的には20曲を収録。
+坂本のベストアルバム『[US](../Page/US_\(坂本龍一のアルバム\).md "wikilink")』『[UF](../Page/UF_\(坂本龍一のアルバム\).md "wikilink")』『[CM/TV](https://ja.wikipedia.org/wiki/CM/TV "wikilink")』（いずれも初回盤）の中にある応募券3枚を送るともれなくプレゼントされた。企画当初は5曲の予定だったが最終的には20曲を収録。
 
 ## 収録曲
 
 1.  **コロボックル**
-      - 作詞：[及川恒平](https://ja.wikipedia.org/wiki/及川恒平 "wikilink")／作曲・編曲：坂本龍一
+      - 作詞：[及川恒平](../Page/及川恒平.md "wikilink")／作曲・編曲：坂本龍一
     <!-- end list -->
       -
-        [及川恒平](https://ja.wikipedia.org/wiki/及川恒平 "wikilink")のアルバム『海や山の神様たち - ここでも今でもない話 -』に収録。[1975年](../Page/1975年.md "wikilink")の作品。
+        [及川恒平](../Page/及川恒平.md "wikilink")のアルバム『海や山の神様たち - ここでも今でもない話 -』に収録。[1975年](../Page/1975年.md "wikilink")の作品。
 2.  **川原の飛行場**
       - 作詞・作曲：[りりィ](https://ja.wikipedia.org/wiki/りりィ "wikilink")／編曲：坂本龍一
     <!-- end list -->
       -
         [りりィ](https://ja.wikipedia.org/wiki/りりィ "wikilink")のアルバム『AUROILA - SO LONG -』に収録。[1976年](../Page/1976年.md "wikilink")の作品。
 3.  **歌いましょうひとりで**
-      - 作詞：[富岡多恵子](https://ja.wikipedia.org/wiki/富岡多恵子 "wikilink")／作曲・編曲：坂本龍一
+      - 作詞：[富岡多恵子](../Page/富岡多恵子.md "wikilink")／作曲・編曲：坂本龍一
     <!-- end list -->
       -
-        [富岡多恵子](https://ja.wikipedia.org/wiki/富岡多恵子 "wikilink")のアルバム『物語のようにふるさとは遠い』に収録。[1977年](../Page/1977年.md "wikilink")の作品。
+        [富岡多恵子](../Page/富岡多恵子.md "wikilink")のアルバム『物語のようにふるさとは遠い』に収録。[1977年](../Page/1977年.md "wikilink")の作品。
 4.  **春風の郵便屋さん**
-      - 作詞：[荒木とよひさ](https://ja.wikipedia.org/wiki/荒木とよひさ "wikilink")／作曲：[三木たかし](../Page/三木たかし.md "wikilink")／編曲：坂本龍一
+      - 作詞：[荒木とよひさ](../Page/荒木とよひさ.md "wikilink")／作曲：[三木たかし](../Page/三木たかし.md "wikilink")／編曲：坂本龍一
     <!-- end list -->
       -
-        [わらべ](https://ja.wikipedia.org/wiki/わらべ "wikilink")のシングル『めだかの兄妹（きょうだい）』のB面。A面の「めだかの兄妹」も坂本が編曲。[1982年](../Page/1982年.md "wikilink")の作品。
+        [わらべ](../Page/わらべ.md "wikilink")のシングル『めだかの兄妹（きょうだい）』のB面。A面の「めだかの兄妹」も坂本が編曲。[1982年](../Page/1982年.md "wikilink")の作品。
 5.  **恋はルンルン**
-      - 作詞：[仲畑貴志](https://ja.wikipedia.org/wiki/仲畑貴志 "wikilink")／作曲・編曲：坂本龍一
+      - 作詞：[仲畑貴志](../Page/仲畑貴志.md "wikilink")／作曲・編曲：坂本龍一
     <!-- end list -->
       -
-        [伊藤つかさ](https://ja.wikipedia.org/wiki/伊藤つかさ "wikilink")のアルバム『さよなら こんにちは』に収録。[1982年](../Page/1982年.md "wikilink")の作品。
+        [伊藤つかさ](../Page/伊藤つかさ.md "wikilink")のアルバム『さよなら こんにちは』に収録。[1982年](../Page/1982年.md "wikilink")の作品。
 6.  **くちびるNetwork**
       - 作詞：[松田聖子](../Page/松田聖子.md "wikilink")／作曲：坂本龍一／編曲：[かしぶち哲郎](../Page/かしぶち哲郎.md "wikilink")
     <!-- end list -->
       -
-        [岡田有希子](../Page/岡田有希子.md "wikilink")のアルバム『ヴィーナス誕生』に収録。シングルカットされた「[くちびるNetwork](../Page/くちびるNetwork.md "wikilink")」はCMのキャンペーンに使われ、[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位を獲得。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")の作品。
+        [岡田有希子](../Page/岡田有希子.md "wikilink")のアルバム『ヴィーナス誕生』に収録。シングルカットされた「[くちびるNetwork](../Page/くちびるNetwork.md "wikilink")」はCMのキャンペーンに使われ、[オリコンチャート](../Page/オリコンチャート.md "wikilink")1位を獲得。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")の作品。
 7.  **Some Small Hope**
       - 作曲：坂本龍一、バージニア・アストレイ
     <!-- end list -->
@@ -58,7 +58,7 @@
       - 作曲：坂本龍一
     <!-- end list -->
       -
-        [マウリッツ・エッシャー](../Page/マウリッツ・エッシャー.md "wikilink")の[だまし絵を](https://ja.wikipedia.org/wiki/トロンプ・ルイユ "wikilink")[ナムジュン・パイク](https://ja.wikipedia.org/wiki/ナムジュン・パイク "wikilink")が[コンピュータグラフィックス](../Page/コンピュータグラフィックス.md "wikilink")で映像化した『インフィニットエッシャーワークスオブ M.C.エッシャー』に収録。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")の作品。
+        [マウリッツ・エッシャー](../Page/マウリッツ・エッシャー.md "wikilink")の[だまし絵を](../Page/トロンプ・ルイユ.md "wikilink")[ナムジュン・パイク](https://ja.wikipedia.org/wiki/ナムジュン・パイク "wikilink")が[コンピュータグラフィックス](../Page/コンピュータグラフィックス.md "wikilink")で映像化した『インフィニットエッシャーワークスオブ M.C.エッシャー』に収録。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")の作品。
 11. **M2**
       - 作曲：坂本龍一
     <!-- end list -->
@@ -73,7 +73,7 @@
       - 作曲：坂本龍一
     <!-- end list -->
       -
-        [バルセロナ・オリンピック](https://ja.wikipedia.org/wiki/バルセロナ・オリンピック "wikilink")後の[パラリンピック](https://ja.wikipedia.org/wiki/パラリンピック "wikilink")で使われた曲。[1992年](../Page/1992年.md "wikilink")の作品。
+        [バルセロナ・オリンピック](https://ja.wikipedia.org/wiki/バルセロナ・オリンピック "wikilink")後の[パラリンピック](../Page/パラリンピック.md "wikilink")で使われた曲。[1992年](../Page/1992年.md "wikilink")の作品。
 14. **Haiku FM**
       - 作曲：坂本龍一
     <!-- end list -->
@@ -108,12 +108,12 @@
       - 作曲：坂本龍一
     <!-- end list -->
       -
-        [2002年](../Page/2002年.md "wikilink")の作品。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に行われたソロツアーの演奏前に流れていた。
+        [2002年](../Page/2002年.md "wikilink")の作品。[2005年](../Page/2005年.md "wikilink")に行われたソロツアーの演奏前に流れていた。
 
 ## 関連項目
 
-  - [US (坂本龍一のアルバム)](https://ja.wikipedia.org/wiki/US_\(坂本龍一のアルバム\) "wikilink")
-  - [UF (坂本龍一のアルバム)](https://ja.wikipedia.org/wiki/UF_\(坂本龍一のアルバム\) "wikilink")
+  - [US (坂本龍一のアルバム)](../Page/US_\(坂本龍一のアルバム\).md "wikilink")
+  - [UF (坂本龍一のアルバム)](../Page/UF_\(坂本龍一のアルバム\).md "wikilink")
   - [CM/TV](https://ja.wikipedia.org/wiki/CM/TV "wikilink")
 
 [Category:坂本龍一のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:坂本龍一のベスト・アルバム "wikilink") [Category:2002年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:2002年のベスト・アルバム "wikilink")

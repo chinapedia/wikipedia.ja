@@ -3,13 +3,13 @@
 
 **Mutt**（マット）は[テキストベースの](https://ja.wikipedia.org/wiki/テキストユーザインタフェース "wikilink")[UNIX](../Page/UNIX.md "wikilink")向け[電子メールクライアント](../Page/電子メールクライアント.md "wikilink")である。マイケル・エルキンスが[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に作成し、[GNU GPLライセンスで公開した](../Page/GNU_General_Public_License.md "wikilink")。始めはメーラ[elmと似たインタフェースであったが](https://ja.wikipedia.org/wiki/Elm_\(電子メールクライアント\) "wikilink")、その後の開発の方向性により、現在では[slrn](https://ja.wikipedia.org/wiki/slrn "wikilink")に良く似たものになっている。
 
-Muttは大半のメールファイル形式に対応しており、特に[mbox](https://ja.wikipedia.org/wiki/mbox "wikilink")と[Maildir](https://ja.wikipedia.org/wiki/Maildir "wikilink")との親和性が高い。また、[POP3](../Page/Post_Office_Protocol.md "wikilink")・[IMAP](../Page/Internet_Message_Access_Protocol.md "wikilink")・[NNTPなど各種の受信](../Page/Network_News_Transfer_Protocol.md "wikilink")・配送プロトコルにも対応している。[MIME対応もあり](https://ja.wikipedia.org/wiki/Multipurpose_Internet_Mail_Extensions "wikilink")、特に[PGP](../Page/Pretty_Good_Privacy.md "wikilink")/[GPGや](https://ja.wikipedia.org/wiki/GNU_Privacy_Guard "wikilink")[S/MIME](https://ja.wikipedia.org/wiki/S/MIME "wikilink")へは完全対応している。
+Muttは大半のメールファイル形式に対応しており、特に[mbox](https://ja.wikipedia.org/wiki/mbox "wikilink")と[Maildir](https://ja.wikipedia.org/wiki/Maildir "wikilink")との親和性が高い。また、[POP3](../Page/Post_Office_Protocol.md "wikilink")・[IMAP](../Page/Internet_Message_Access_Protocol.md "wikilink")・[NNTPなど各種の受信](../Page/Network_News_Transfer_Protocol.md "wikilink")・配送プロトコルにも対応している。[MIME対応もあり](../Page/Multipurpose_Internet_Mail_Extensions.md "wikilink")、特に[PGP](../Page/Pretty_Good_Privacy.md "wikilink")/[GPGや](../Page/GNU_Privacy_Guard.md "wikilink")[S/MIME](https://ja.wikipedia.org/wiki/S/MIME "wikilink")へは完全対応している。
 
 Muttは基本的にメール・ユーザ・エージェント (MUA) であり、1.5.14 までメール送信の機能を持っていなかったが、Brendan Cully が主導する 1.5.15 以降では SMTP 機能が追加された。
 
-設定可能な項目が多いことでも知られる。数百の設定用の指定項目やコマンドがあり、色付けの設定、レイアウト指定から始まり、[キーバインド](https://ja.wikipedia.org/wiki/キーバインド "wikilink")の変更や、複雑な動作を行うキーボード[マクロの作成など多岐に渡る](https://ja.wikipedia.org/wiki/マクロ_\(コンピュータ用語\) "wikilink")。また、標準装備されていない機能を実現するための[パッチ](../Page/パッチ.md "wikilink")や拡張が多く存在する。例えば、NNTP対応やサイドバー機能などがある。
+設定可能な項目が多いことでも知られる。数百の設定用の指定項目やコマンドがあり、色付けの設定、レイアウト指定から始まり、[キーバインド](https://ja.wikipedia.org/wiki/キーバインド "wikilink")の変更や、複雑な動作を行うキーボード[マクロの作成など多岐に渡る](../Page/マクロ_\(コンピュータ用語\).md "wikilink")。また、標準装備されていない機能を実現するための[パッチ](../Page/パッチ.md "wikilink")や拡張が多く存在する。例えば、NNTP対応やサイドバー機能などがある。
 
-Muttは[キーボードのみで操作できる](https://ja.wikipedia.org/wiki/キーボード_\(コンピュータ\) "wikilink")。また、[メーリングリスト](../Page/メーリングリスト.md "wikilink")等での長い議論の流れを追うための[スレッド](../Page/スレッド.md "wikilink")表示機能もある。メッセージの作成にはデフォルトでは外部の[テキストエディタ](../Page/テキストエディタ.md "wikilink")を使う。これは[pine](https://ja.wikipedia.org/wiki/pine "wikilink")のような内部エディタ（pineの場合は[pico](https://ja.wikipedia.org/wiki/pico "wikilink")）を起動するタイプのメーラと異なる。
+Muttは[キーボードのみで操作できる](../Page/キーボード_\(コンピュータ\).md "wikilink")。また、[メーリングリスト](../Page/メーリングリスト.md "wikilink")等での長い議論の流れを追うための[スレッド](../Page/スレッド.md "wikilink")表示機能もある。メッセージの作成にはデフォルトでは外部の[テキストエディタ](../Page/テキストエディタ.md "wikilink")を使う。これは[pine](https://ja.wikipedia.org/wiki/pine "wikilink")のような内部エディタ（pineの場合は[pico](https://ja.wikipedia.org/wiki/pico "wikilink")）を起動するタイプのメーラと異なる。
 
 ## 日本語対応
 

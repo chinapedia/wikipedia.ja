@@ -1,15 +1,15 @@
 > この記事は[WANTED!](https://ja.wikipedia.org/wiki/WANTED!)から翻訳されています。
 
 
-**[WANTED\!](https://ja.wikipedia.org/wiki/WANTED! "wikilink")**　は[TOKYO FMをキー局にJFN系列で](../Page/エフエム東京.md "wikilink")2005年4月4日から2007年3月30日まで放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")であり、[バナナマン](https://ja.wikipedia.org/wiki/バナナマン "wikilink")は火曜日を担当していた。
+**[WANTED\!](../Page/WANTED!.md "wikilink")**　は[TOKYO FMをキー局にJFN系列で](../Page/エフエム東京.md "wikilink")2005年4月4日から2007年3月30日まで放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")であり、[バナナマン](../Page/バナナマン.md "wikilink")は火曜日を担当していた。
 
 ## 概要
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")にそれまで放送されていた「[BPR5000](https://ja.wikipedia.org/wiki/BPR5000 "wikilink")」（月曜日〜水曜日）と「[しんドル](../Page/しんドル.md "wikilink")」（木曜日）の後番組としてスタートした。
+  - [2005年](../Page/2005年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")にそれまで放送されていた「[BPR5000](../Page/BPR5000.md "wikilink")」（月曜日〜水曜日）と「[しんドル](../Page/しんドル.md "wikilink")」（木曜日）の後番組としてスタートした。
 
 <!-- end list -->
 
-  - 基本的に生放送であるが、スケジュールの都合で収録の週もある。過去には、正月明けや、日村の「[ダイナマイト関西](https://ja.wikipedia.org/wiki/ダイナマイト関西_\(お笑いイベント\) "wikilink")」出場と重なった時や、ライブの稽古の為、などで収録になっている。
+  - 基本的に生放送であるが、スケジュールの都合で収録の週もある。過去には、正月明けや、日村の「[ダイナマイト関西](../Page/ダイナマイト関西_\(お笑いイベント\).md "wikilink")」出場と重なった時や、ライブの稽古の為、などで収録になっている。
 
 ## 放送時間
 
@@ -18,7 +18,7 @@
 ## 番組の特徴
 
   - 番組冒頭はハイテンションで「こんばんは！」や「どーも！」など、何事か叫びながら始まるのが恒例になっているが、時々設楽がローテンションで始める場合もある。その時は日村が「暗い！」と突っ込む。
-  - 設楽が「WANTED火曜日担当、バナナマンの[設楽統](../Page/設楽統.md "wikilink")です！」と自己紹介し、そのあと、日村をブサイクな言い回しで紹介する。それを受けて、日村が「どうも　[日村勇紀](https://ja.wikipedia.org/wiki/日村勇紀 "wikilink")でーす！」と言ったあと、設楽に抗議する。
+  - 設楽が「WANTED火曜日担当、バナナマンの[設楽統](../Page/設楽統.md "wikilink")です！」と自己紹介し、そのあと、日村をブサイクな言い回しで紹介する。それを受けて、日村が「どうも　[日村勇紀](../Page/日村勇紀.md "wikilink")でーす！」と言ったあと、設楽に抗議する。
 
 放送初期の自己紹介では
 
@@ -44,7 +44,7 @@
 
 <!-- end list -->
 
-  - 番組内で[ドッキリ](https://ja.wikipedia.org/wiki/ドッキリ "wikilink")や罰ゲームを受けるのは基本的に日村である。
+  - 番組内で[ドッキリ](../Page/ドッキリ.md "wikilink")や罰ゲームを受けるのは基本的に日村である。
 
 <!-- end list -->
 
@@ -103,7 +103,7 @@
 <!-- end list -->
 
   - 火曜・俳句の会
-    いい[俳句](https://ja.wikipedia.org/wiki/俳句 "wikilink")ができたけど発表する場がない」そんな時ここに送ってきてほしい、というコーナー。季語や形式にこだわらない俳句でよい。
+    いい[俳句](../Page/俳句.md "wikilink")ができたけど発表する場がない」そんな時ここに送ってきてほしい、というコーナー。季語や形式にこだわらない俳句でよい。
     冒頭で、設楽の「火曜、俳句の会！」というどなりの後で、水の流れる音をながすのが恒例であったが、なぜか徐々にながす時間が長くなった。そのため時間の無駄だという日村の抗議により、ながす音を替えたのだが結局、時間を無駄にしていることに変りなく、日村の「この時間でメールもっと読めるじゃん！！」という抗議は続いている。
 
 <!-- end list -->
@@ -132,7 +132,7 @@
 
 **第一回の放送で「日村と設楽、男としてどっちがスゲェのグランプリ」を開催**
 
-  - 携帯電話のメモリー番号からランダムに5人に[ワン切り](../Page/ワン切り.md "wikilink")で電話をかけ、30分以内で何人返信してくるか競う。設楽はまだそれほど親しくない[堂島孝平](https://ja.wikipedia.org/wiki/堂島孝平 "wikilink")に掛け、返信がきたが、[長州小力](https://ja.wikipedia.org/wiki/長州小力 "wikilink")、[椎名林檎](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink")からは返事が来ず。日村は[武双山](https://ja.wikipedia.org/wiki/武双山 "wikilink")、[山崎静代](../Page/山崎静代.md "wikilink")などに電話を掛けたが、母親の君香だけが返信して来るという悲しい結果になった。また[ビーム](https://ja.wikipedia.org/wiki/ビーム "wikilink")の吉野にバナナマンが同時に電話したが、日村が先に掛けたにもかかわらず、設楽に返信がきたため、日村はショックを受ける。結果は設楽が3－1で勝利。
+  - 携帯電話のメモリー番号からランダムに5人に[ワン切り](../Page/ワン切り.md "wikilink")で電話をかけ、30分以内で何人返信してくるか競う。設楽はまだそれほど親しくない[堂島孝平](../Page/堂島孝平.md "wikilink")に掛け、返信がきたが、[長州小力](../Page/長州小力.md "wikilink")、[椎名林檎](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink")からは返事が来ず。日村は[武双山](https://ja.wikipedia.org/wiki/武双山 "wikilink")、[山崎静代](../Page/山崎静代.md "wikilink")などに電話を掛けたが、母親の君香だけが返信して来るという悲しい結果になった。また[ビーム](https://ja.wikipedia.org/wiki/ビーム "wikilink")の吉野にバナナマンが同時に電話したが、日村が先に掛けたにもかかわらず、設楽に返信がきたため、日村はショックを受ける。結果は設楽が3－1で勝利。
 
 <!-- end list -->
 
@@ -148,7 +148,7 @@
 
 **競馬のゴッド**
 
-  - 2005年4月19日（第三回）の放送で番組プロデューサー若杉から[WANTED\!](https://ja.wikipedia.org/wiki/WANTED! "wikilink")月曜〜木曜のノベルティグッズ資金10万円を託されたことを報告するバナナマン。この10万円を競馬の「春の[天皇賞](https://ja.wikipedia.org/wiki/天皇賞 "wikilink")」に賭けて増やそうという話になり、「競馬のゴッド」と言われている設楽に予想をすべて任せることにした。
+  - 2005年4月19日（第三回）の放送で番組プロデューサー若杉から[WANTED\!](../Page/WANTED!.md "wikilink")月曜〜木曜のノベルティグッズ資金10万円を託されたことを報告するバナナマン。この10万円を競馬の「春の[天皇賞](https://ja.wikipedia.org/wiki/天皇賞 "wikilink")」に賭けて増やそうという話になり、「競馬のゴッド」と言われている設楽に予想をすべて任せることにした。
 
 <!-- end list -->
 
@@ -214,7 +214,7 @@
 
 ## 番組内で生まれたオリジナルキャラクター
 
-  - O.M.セツラク:2006年4月19日の放送（日村勇紀は今日の放送のおかしい所を何ヶ所当てられるか大会）のオープニングナンバーで「西日本で爆発的な人気を誇るアーティスト」として紹介された。「[愛は勝つ](https://ja.wikipedia.org/wiki/愛は勝つ "wikilink") 2006」を歌っている。正体は設楽なのだが、歌を聴いても日村は気付かなかった。
+  - O.M.セツラク:2006年4月19日の放送（日村勇紀は今日の放送のおかしい所を何ヶ所当てられるか大会）のオープニングナンバーで「西日本で爆発的な人気を誇るアーティスト」として紹介された。「[愛は勝つ](../Page/愛は勝つ.md "wikilink") 2006」を歌っている。正体は設楽なのだが、歌を聴いても日村は気付かなかった。
 
 <!-- end list -->
 
@@ -260,15 +260,15 @@ See you fuckin' again\!
 
 <!-- end list -->
 
-  - 小阪 てめえがゾンビやれ:[TBSのテレビドラマ](../Page/TBSテレビ.md "wikilink")[アキハバラ@DEEP](../Page/アキハバラ@DEEP.md "wikilink")の監督[大根仁](https://ja.wikipedia.org/wiki/大根仁 "wikilink")がアキラ役[小阪由佳](https://ja.wikipedia.org/wiki/小阪由佳 "wikilink")に対して言ったもの。ゾンビと戦うシーンでの小阪のセリフが何を言っているのか聞き取りづらいためNGを連発。業を煮やした大根が「小阪 てめえがゾンビやれ、このやろう」「何言ってるか分かんねぇから、おまえゾンビやれ。ゾンビだったらアーでいいよ」と言った。ゾンビ役をしていた日村が[30minutes](https://ja.wikipedia.org/wiki/30minutes "wikilink")の時とは大違いの「鬼・大根」ぶりに驚き、番組でこの話を紹介した。
+  - 小阪 てめえがゾンビやれ:[TBSのテレビドラマ](../Page/TBSテレビ.md "wikilink")[アキハバラ@DEEP](../Page/アキハバラ@DEEP.md "wikilink")の監督[大根仁](../Page/大根仁.md "wikilink")がアキラ役[小阪由佳](https://ja.wikipedia.org/wiki/小阪由佳 "wikilink")に対して言ったもの。ゾンビと戦うシーンでの小阪のセリフが何を言っているのか聞き取りづらいためNGを連発。業を煮やした大根が「小阪 てめえがゾンビやれ、このやろう」「何言ってるか分かんねぇから、おまえゾンビやれ。ゾンビだったらアーでいいよ」と言った。ゾンビ役をしていた日村が[30minutes](https://ja.wikipedia.org/wiki/30minutes "wikilink")の時とは大違いの「鬼・大根」ぶりに驚き、番組でこの話を紹介した。
 
 <!-- end list -->
 
-  - エレーバー:[象を英語で何と言う](../Page/ゾウ.md "wikilink")？と聞かれて[小阪由佳](https://ja.wikipedia.org/wiki/小阪由佳 "wikilink")がこう答えた。靴は？の質問には「[スニーカー](https://ja.wikipedia.org/wiki/スニーカー "wikilink")」。迷回答の小阪に 「お前 スニーカー（と答えるような頭）でよく高校行けたな」と日村が言うと、小阪は「違いますよ！高校には[ローファー](https://ja.wikipedia.org/wiki/ローファー "wikilink")履いて行ってたんですよ」と答えた。ほかにも[世界三大美女](https://ja.wikipedia.org/wiki/世界三大美女 "wikilink")は？に「クリスタルカイザー」 「ようきひこ」　[世界三大珍味](https://ja.wikipedia.org/wiki/世界三大珍味 "wikilink")は？に「[イクラ](../Page/イクラ.md "wikilink")」と答えるなどバカっぷりを披露した。
+  - エレーバー:[象を英語で何と言う](../Page/ゾウ.md "wikilink")？と聞かれて[小阪由佳](https://ja.wikipedia.org/wiki/小阪由佳 "wikilink")がこう答えた。靴は？の質問には「[スニーカー](https://ja.wikipedia.org/wiki/スニーカー "wikilink")」。迷回答の小阪に 「お前 スニーカー（と答えるような頭）でよく高校行けたな」と日村が言うと、小阪は「違いますよ！高校には[ローファー](../Page/ローファー.md "wikilink")履いて行ってたんですよ」と答えた。ほかにも[世界三大美女](https://ja.wikipedia.org/wiki/世界三大美女 "wikilink")は？に「クリスタルカイザー」 「ようきひこ」　[世界三大珍味](https://ja.wikipedia.org/wiki/世界三大珍味 "wikilink")は？に「[イクラ](../Page/イクラ.md "wikilink")」と答えるなどバカっぷりを披露した。
 
 <!-- end list -->
 
-  - 俺のこと好きなの？:[クイズプレゼンバラエティー Qさま\!\!の解散ドッキリで設楽が日村に聞いた言葉](https://ja.wikipedia.org/wiki/クイズプレゼンバラエティー_Qさま!! "wikilink")。解散を切り出されて動揺する日村に、設楽が「俺のこと好きなの？」と聞くと日村は「それは…好きでしょ」と答えた。
+  - 俺のこと好きなの？:[クイズプレゼンバラエティー Qさま\!\!の解散ドッキリで設楽が日村に聞いた言葉](../Page/クイズプレゼンバラエティー_Qさま!!.md "wikilink")。解散を切り出されて動揺する日村に、設楽が「俺のこと好きなの？」と聞くと日村は「それは…好きでしょ」と答えた。
 
 <!-- end list -->
 
@@ -280,7 +280,7 @@ See you fuckin' again\!
 
 <!-- end list -->
 
-  - ぞうげって何？:[日本テレビのドッキリ番組で](../Page/日本テレビ放送網.md "wikilink")[カンボジア](../Page/カンボジア.md "wikilink")へ行ってきたバナナマン。リスナーへのお土産に日村が買った「象牙」という安く白い[箸](../Page/箸.md "wikilink")を見て「それ[象牙](https://ja.wikipedia.org/wiki/象牙 "wikilink")じゃないと思う」と設楽がつっこむと、「ぞうげって何？象の毛なの？」と日村。象牙が何かも、高価なものとも知らなかった。
+  - ぞうげって何？:[日本テレビのドッキリ番組で](../Page/日本テレビ放送網.md "wikilink")[カンボジア](../Page/カンボジア.md "wikilink")へ行ってきたバナナマン。リスナーへのお土産に日村が買った「象牙」という安く白い[箸](../Page/箸.md "wikilink")を見て「それ[象牙](../Page/象牙.md "wikilink")じゃないと思う」と設楽がつっこむと、「ぞうげって何？象の毛なの？」と日村。象牙が何かも、高価なものとも知らなかった。
 
 ## スタッフ
 
@@ -292,11 +292,11 @@ See you fuckin' again\!
 
 ## 主なゲスト
 
-  - [ダブルブッキング](https://ja.wikipedia.org/wiki/ダブルブッキング_\(お笑いコンビ\) "wikilink")
-  - [魚でF](https://ja.wikipedia.org/wiki/魚でF "wikilink")及川裕也
+  - [ダブルブッキング](../Page/ダブルブッキング_\(お笑いコンビ\).md "wikilink")
+  - [魚でF](../Page/魚でF.md "wikilink")及川裕也
   - [ビーム](https://ja.wikipedia.org/wiki/ビーム "wikilink")
   - マイク・ハル・エル・じゅんこ
-  - [大根仁](https://ja.wikipedia.org/wiki/大根仁 "wikilink")
+  - [大根仁](../Page/大根仁.md "wikilink")
   - 岡宗秀吾（オカルトさん）
   - [井戸田潤](https://ja.wikipedia.org/wiki/井戸田潤 "wikilink")
   - [星野源](../Page/星野源.md "wikilink")
@@ -320,7 +320,7 @@ See you fuckin' again\!
 
 ## 関連項目
 
-  - [JUNK2](https://ja.wikipedia.org/wiki/JUNK2 "wikilink")
+  - [JUNK2](../Page/JUNK2.md "wikilink")
 
 ## 外部リンク
 

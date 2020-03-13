@@ -5,9 +5,9 @@
 
 ## 人物
 
-[シンセサイザー](../Page/シンセサイザー.md "wikilink")や[コンピュータ](../Page/コンピュータ.md "wikilink")による打ち込みを主な手法とする。[谷山浩子](../Page/谷山浩子.md "wikilink")の音楽プロデューサーとして知られる他、[アニメ音楽](https://ja.wikipedia.org/wiki/アニメソング "wikilink")、イメージアルバム、[ドラマCD](https://ja.wikipedia.org/wiki/ドラマCD "wikilink")などを手がける。
+[シンセサイザー](../Page/シンセサイザー.md "wikilink")や[コンピュータ](../Page/コンピュータ.md "wikilink")による打ち込みを主な手法とする。[谷山浩子](../Page/谷山浩子.md "wikilink")の音楽プロデューサーとして知られる他、[アニメ音楽](https://ja.wikipedia.org/wiki/アニメソング "wikilink")、イメージアルバム、[ドラマCD](../Page/ドラマCD.md "wikilink")などを手がける。
 
-アニメ音楽では『[ルパン三世](https://ja.wikipedia.org/wiki/ルパン三世 "wikilink")』、『[キャッツ♥アイ](../Page/キャッツ・アイ.md "wikilink")』、『[ラーゼフォン](https://ja.wikipedia.org/wiki/ラーゼフォン "wikilink")』などで参加した。また、少数ながら[NHK教育の](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")『[みんなのうた](https://ja.wikipedia.org/wiki/みんなのうた "wikilink")』、『[おかあさんといっしょ](../Page/おかあさんといっしょ.md "wikilink")』、『[いないいないばあっ\!](https://ja.wikipedia.org/wiki/いないいないばあっ! "wikilink")』の曲でも編曲を行っている。
+アニメ音楽では『[ルパン三世](../Page/ルパン三世.md "wikilink")』、『[キャッツ♥アイ](../Page/キャッツ・アイ.md "wikilink")』、『[ラーゼフォン](../Page/ラーゼフォン.md "wikilink")』などで参加した。また、少数ながら[NHK教育の](../Page/NHK教育テレビジョン.md "wikilink")『[みんなのうた](../Page/みんなのうた.md "wikilink")』、『[おかあさんといっしょ](../Page/おかあさんといっしょ.md "wikilink")』、『[いないいないばあっ\!](../Page/いないいないばあっ!.md "wikilink")』の曲でも編曲を行っている。
 
 AQというのは本名の「明」を「AQUIRAX」と綴るところから。
 

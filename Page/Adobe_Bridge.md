@@ -1,12 +1,12 @@
 > この記事は[Adobe Bridge](https://ja.wikipedia.org/wiki/Adobe_Bridge)から翻訳されています。
 
 
-**Adobe Bridge** （アドビ・ブリッジ）は、[Adobe Creative Suite](../Page/Adobe_Creative_Suite.md "wikilink") のコントロールセンターとして全アプリケーションをナビゲートし、連動させるための[ソフトウェア](../Page/ソフトウェア.md "wikilink")である。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")に[Adobe Creative Suite](../Page/Adobe_Creative_Suite.md "wikilink") 2 (CS2) の一部として発売された。Creative Suite のいずれのコンポーネントからでもダイレクトにアクセスでき、各コンポーネント内でフローティングパレットとして表示することも、独立したアプリケーションとして使用することもできる。
+**Adobe Bridge** （アドビ・ブリッジ）は、[Adobe Creative Suite](../Page/Adobe_Creative_Suite.md "wikilink") のコントロールセンターとして全アプリケーションをナビゲートし、連動させるための[ソフトウェア](../Page/ソフトウェア.md "wikilink")である。[2005年](../Page/2005年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")に[Adobe Creative Suite](../Page/Adobe_Creative_Suite.md "wikilink") 2 (CS2) の一部として発売された。Creative Suite のいずれのコンポーネントからでもダイレクトにアクセスでき、各コンポーネント内でフローティングパレットとして表示することも、独立したアプリケーションとして使用することもできる。
 
 ## 機能・特徴
 
   - [RAWファイルの全面サポート](../Page/RAW画像.md "wikilink")
-  - 複数のファイルに対して、一括してファイル名を変更し、ファイルフォーマットを変換する、[Photoshop](https://ja.wikipedia.org/wiki/Photoshop "wikilink")アクションを適用するといった[バッチ処理](https://ja.wikipedia.org/wiki/バッチ処理 "wikilink")
+  - 複数のファイルに対して、一括してファイル名を変更し、ファイルフォーマットを変換する、[Photoshop](https://ja.wikipedia.org/wiki/Photoshop "wikilink")アクションを適用するといった[バッチ処理](../Page/バッチ処理.md "wikilink")
   - フィルムストリップやリストによる表示方法
   - ファイルのレーティングやラベルカラーを設定
   - [カラーマネジメント](https://ja.wikipedia.org/wiki/カラーマネジメント "wikilink")の一元化

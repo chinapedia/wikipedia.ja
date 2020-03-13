@@ -16,7 +16,7 @@
 ## メンバー
 
   - [MAYU](../Page/鈴木繭菓.md "wikilink")（マユ、[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink")、[O型](https://ja.wikipedia.org/wiki/ABO式血液型#O型の亜種 "wikilink")・[静岡県](../Page/静岡県.md "wikilink")出身）[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")。
-  - RINA（リナ、[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")、[A型](https://ja.wikipedia.org/wiki/ABO式血液型#A型の亜種 "wikilink")・[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")出身）[ギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")。
+  - RINA（リナ、[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")、[A型](https://ja.wikipedia.org/wiki/ABO式血液型#A型の亜種 "wikilink")・[千葉県](../Page/千葉県.md "wikilink")出身）[ギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")。
   - NANA-A（ナナエ、[7月11日](../Page/7月11日.md "wikilink")、O型・[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身）[ドラム](../Page/ドラムセット.md "wikilink")。
 
 **旧メンバー**
@@ -47,7 +47,7 @@
 
 ## 関連項目
 
-  - [登龍門F](https://ja.wikipedia.org/wiki/登龍門F "wikilink")（過去数回出演）
+  - [登龍門F](../Page/登龍門F.md "wikilink")（過去数回出演）
   - [VJパロパロ](https://ja.wikipedia.org/wiki/VJパロパロ "wikilink")
 
 ## 外部リンク

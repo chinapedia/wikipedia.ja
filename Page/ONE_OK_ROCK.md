@@ -3,7 +3,7 @@
 
 [ONE_OK_ROCK_logo.svg](https://ja.wikipedia.org/wiki/File:ONE_OK_ROCK_logo.svg "fig:ONE_OK_ROCK_logo.svg")
 
-**ONE OK ROCK**（ワンオクロック）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。所属[事務所は](../Page/芸能事務所.md "wikilink")[アミューズ](https://ja.wikipedia.org/wiki/アミューズ "wikilink")。所属[レーベルは日本国内では](https://ja.wikipedia.org/wiki/レコード会社 "wikilink")[A-Sketch](https://ja.wikipedia.org/wiki/A-Sketch "wikilink")、国外では [フュエルド・バイ・ラーメン](../Page/フュエルド・バイ・ラーメン.md "wikilink")。
+**ONE OK ROCK**（ワンオクロック）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。所属[事務所は](../Page/芸能事務所.md "wikilink")[アミューズ](https://ja.wikipedia.org/wiki/アミューズ "wikilink")。所属[レーベルは日本国内では](../Page/レコード会社.md "wikilink")[A-Sketch](https://ja.wikipedia.org/wiki/A-Sketch "wikilink")、国外では [フュエルド・バイ・ラーメン](../Page/フュエルド・バイ・ラーメン.md "wikilink")。
 
 ## バンド名の由来
 
@@ -13,7 +13,7 @@
 
 ### Taka
 
-**Taka**（タカ、本名：**森内貴寛** (もりうち たかひろ)、[1988年](../Page/1988年.md "wikilink")[4月17日](../Page/4月17日.md "wikilink") - ）[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身。[Vocal](https://ja.wikipedia.org/wiki/ヴォーカリスト "wikilink")。
+**Taka**（タカ、本名：**森内貴寛** (もりうち たかひろ)、[1988年](../Page/1988年.md "wikilink")[4月17日](../Page/4月17日.md "wikilink") - ）[東京都](../Page/東京都.md "wikilink")出身。[Vocal](https://ja.wikipedia.org/wiki/ヴォーカリスト "wikilink")。
 
 ### Toru
 
@@ -25,8 +25,8 @@
 
   - 両親と6歳年上の兄との4人家族。小学校3年時に習い始めたダンス教室（Caless Vocal & Dance School）で1学年下のRyotaと出会う。2年後、ToruとRyotaを含む男子4人が選抜され、[HEADS](https://ja.wikipedia.org/wiki/HEADS "wikilink")というキッズストリートダンスチームが作られ、週末ごとに新幹線で上京し、歩行者天国などでパフォーマンスを行うようになる。
   - 所属事務所はアミューズで、小6の夏にはCDデビューも果たし、メディアにも登場していたが、事務所の勧めで中3で上京してまもなく、レコード会社に契約を打ち切られてしまう。
-  - そんな時にマネージャーからロックを聴かされ、[RIZE](https://ja.wikipedia.org/wiki/RIZE "wikilink")のライブなどに頻繁に出向くようになり、2005年（高2）の4月、Ryotaをベースに、同級生のYouをドラムに、上級生のAlexをリードギターに、自らはサイドギターとヴォーカルを担当しバンドを結成。同時期、友人を介してTakaのライブを見に行き、その声と歌唱力に圧倒されその場でメインヴォーカルに勧誘。強引に了解を取り付け、5人編成となって本格的にバンド活動を開始する。
-  - 小学生のときに[Dragon Ashのライブを見る機会があり](https://ja.wikipedia.org/wiki/Dragon_Ash "wikilink")、[Kjに](https://ja.wikipedia.org/wiki/降谷建志 "wikilink")「俺も大人になったらバンドやる」と話している\[2\]。後年、ONE OK ROCKのToruとして再会し、その時の小学生だと知ったKjを驚かせた。
+  - そんな時にマネージャーからロックを聴かされ、[RIZE](../Page/RIZE.md "wikilink")のライブなどに頻繁に出向くようになり、2005年（高2）の4月、Ryotaをベースに、同級生のYouをドラムに、上級生のAlexをリードギターに、自らはサイドギターとヴォーカルを担当しバンドを結成。同時期、友人を介してTakaのライブを見に行き、その声と歌唱力に圧倒されその場でメインヴォーカルに勧誘。強引に了解を取り付け、5人編成となって本格的にバンド活動を開始する。
+  - 小学生のときに[Dragon Ashのライブを見る機会があり](../Page/Dragon_Ash.md "wikilink")、[Kjに](../Page/降谷建志.md "wikilink")「俺も大人になったらバンドやる」と話している\[2\]。後年、ONE OK ROCKのToruとして再会し、その時の小学生だと知ったKjを驚かせた。
   - バンド結成当時は、Takaとともにライブハウスに売り込みに行っても以前の経歴による偏見などから断られることも多かった\[3\]が、バンドを急成長させるためできる限りライブの予定を入れ（結成から1年半の間に40本弱\[4\]）、前日にはメンバー一人一人に長文の熱いメールを送っていた。
   - [アヴリル・ラヴィーン](../Page/アヴリル・ラヴィーン.md "wikilink")の大ファンで、アヴリル来日時にバンドでの対談が実現した。
   - 公式サイトでダイアリーが連載されていた当時、Tomoyaに「兄さん」と書かれたことがあり、以降ファンの間での通称のひとつとなった。またTakaからは「Toruさん」と、さん付けで呼ばれることが多い。
@@ -42,10 +42,10 @@
   - [PRS](../Page/ポール・リード・スミス.md "wikilink") McCarty Limited Edition
   - [PRS](../Page/ポール・リード・スミス.md "wikilink") Silver Sky
   - [PRS](../Page/ポール・リード・スミス.md "wikilink") S2 Custom24 Egypitan Gold
-  - [Gibson](https://ja.wikipedia.org/wiki/ギブソン_\(楽器メーカー\) "wikilink") Les Paul
-  - [Gibson](https://ja.wikipedia.org/wiki/ギブソン_\(楽器メーカー\) "wikilink") Les Paul Custom
-  - [Fender](https://ja.wikipedia.org/wiki/フェンダー_\(楽器メーカー\) "wikilink") [Stratocaster](../Page/フェンダー・ストラトキャスター.md "wikilink")
-  - [Fender](https://ja.wikipedia.org/wiki/フェンダー_\(楽器メーカー\) "wikilink") [Jazzmaster](https://ja.wikipedia.org/wiki/JAZZ_MASTER "wikilink")
+  - [Gibson](../Page/ギブソン_\(楽器メーカー\).md "wikilink") Les Paul
+  - [Gibson](../Page/ギブソン_\(楽器メーカー\).md "wikilink") Les Paul Custom
+  - [Fender](../Page/フェンダー_\(楽器メーカー\).md "wikilink") [Stratocaster](../Page/フェンダー・ストラトキャスター.md "wikilink")
+  - [Fender](../Page/フェンダー_\(楽器メーカー\).md "wikilink") [Jazzmaster](../Page/JAZZ_MASTER.md "wikilink")
 
 ### Ryota
 
@@ -62,7 +62,7 @@
   - 小6でCDデビューし、中2の時メンバー全員で上京しアミューズの寮に入るが、まもなく[HEADS](https://ja.wikipedia.org/wiki/HEADS "wikilink")は活動休止に入り、その後解散。１年後、新たに6人のダンスチームに再編成されて、RyotaもToruもそこに組み込まれてしまう。
   - しかしすでにバンドに気持ちが移っていたToruから、グッド・シャーロットやバステッドなどを勧められ、バンドに誘われ、ベースを渡される。
   - バンドには全く関心がなかったが、ここまでずっと一緒にやってきたToruが言うならやってみようと、Toruと一緒にいたい一心から一大決心。Toruと費用を出し合い録音機材を購入し、木村和夫に師事しベースの練習をはじめた。
-  - バンド結成当初はメンバー中最年少だったために自分の気持ちを抑え込みがちで、ベースを続ける意味もわからなくなり行き詰まったが、Toruに[レッド・ホット・チリ・ペッパーズ](https://ja.wikipedia.org/wiki/レッド・ホット・チリ・ペッパーズ "wikilink")を教えられ、[フリーのベーススタイルに開眼して](../Page/フリー_\(ミュージシャン\).md "wikilink")、ベースが好きになった。またTakaはじめメンバーに励まされ、Tomoyaの加入でバンドにも馴染んで、バンドのムードメーカー的存在に。
+  - バンド結成当初はメンバー中最年少だったために自分の気持ちを抑え込みがちで、ベースを続ける意味もわからなくなり行き詰まったが、Toruに[レッド・ホット・チリ・ペッパーズ](../Page/レッド・ホット・チリ・ペッパーズ.md "wikilink")を教えられ、[フリーのベーススタイルに開眼して](../Page/フリー_\(ミュージシャン\).md "wikilink")、ベースが好きになった。またTakaはじめメンバーに励まされ、Tomoyaの加入でバンドにも馴染んで、バンドのムードメーカー的存在に。
   - [GLAY](../Page/GLAY.md "wikilink")の[JIRO](../Page/JIRO.md "wikilink")に憧れていて、立っているだけでカッコいい、存在感のあるベーシストを目指している。
   - Takaのことは苗字からとって「森ちゃん」と、Tomoyaのことは「ともくん」と呼んでいる。
   - メンバーの中で一番運動神経が良く、バック転やバック宙など、アクロバットができる。
@@ -90,7 +90,7 @@
 
 ### 旧メンバー
 
-  - **[You](https://ja.wikipedia.org/wiki/小柳友 "wikilink")**（ユウ）（2006年7月1日脱退） - [Drums](../Page/ドラマー.md "wikilink")。現在は本名の[小柳友](https://ja.wikipedia.org/wiki/小柳友 "wikilink")名義で俳優として活動。著名な家族 として[Bro.TOM](https://ja.wikipedia.org/wiki/Bro.TOM "wikilink")（ブラザー・トム)（父）、[小柳心](https://ja.wikipedia.org/wiki/小柳心 "wikilink")（兄）がいる。
+  - **[You](../Page/小柳友.md "wikilink")**（ユウ）（2006年7月1日脱退） - [Drums](../Page/ドラマー.md "wikilink")。現在は本名の[小柳友](../Page/小柳友.md "wikilink")名義で俳優として活動。著名な家族 として[Bro.TOM](../Page/Bro.TOM.md "wikilink")（ブラザー・トム)（父）、[小柳心](https://ja.wikipedia.org/wiki/小柳心 "wikilink")（兄）がいる。
   - **[Alex](../Page/ALEX_\(ファッションモデル\).md "wikilink")**（アレク）（2009年5月13日脱退） - [Guitar](../Page/ギタリスト.md "wikilink")。現在はファッションモデルとして活動。主にリードギターを担当していた。
 
 ## 来歴
@@ -214,7 +214,7 @@
 <!-- end list -->
 
   - 2月11日 - 全曲US録音の7thアルバム『**[35xxxv](https://ja.wikipedia.org/wiki/35xxxv "wikilink")**』リリース。オリコン週間チャートでCDとしては初の1位を、World Music Awardsで初登場4位を記録した。
-  - 7月8日 - アメリカの[ワーナー・ブラザース・レコード](https://ja.wikipedia.org/wiki/ワーナー・ブラザース・レコード "wikilink")と契約。
+  - 7月8日 - アメリカの[ワーナー・ブラザース・レコード](../Page/ワーナー・ブラザース・レコード.md "wikilink")と契約。
   - 9月25日 -「**35xxxv Deluxe Edition**」を北米でリリース。
   - 10月23日 - アルバム『**[Nicheシンドローム](https://ja.wikipedia.org/wiki/Nicheシンドローム "wikilink")**』が、200週目のチャートインを達成。
 
@@ -229,7 +229,7 @@
   - 7月6日 - Takaが[Aimer](https://ja.wikipedia.org/wiki/Aimer "wikilink")のシングル「**[insane dream](https://ja.wikipedia.org/wiki/insane_dream/us "wikilink")**」で楽曲提供の他、初の外部プロデュース。\[24\]
   - 9月10日・11日 - 静岡にて、2日間で11万人規模となる野外ライブ 「**ONE OK ROCK 2016 SPECIAL LIVE IN NAGISAEN**」を開催\[25\]。
   - 9月10日 - 昨年契約したワーナー・ブラザース・レコードからその傘下の[フュエルド・バイ・ラーメン](../Page/フュエルド・バイ・ラーメン.md "wikilink")に移籍、9月16日に新曲「**Taking Off**」を世界同時デジタルリリース\[26\]。
-  - 9月22日 - [Sum 41のNewシングル](https://ja.wikipedia.org/wiki/Sum_41 "wikilink") のjapanese ver.「**War**」にTakaがゲスト参加\[27\]。
+  - 9月22日 - [Sum 41のNewシングル](../Page/Sum_41.md "wikilink") のjapanese ver.「**War**」にTakaがゲスト参加\[27\]。
   - 11月13日 - NHKが、ONE OK ROCKと1,000人の18歳世代（17 〜19歳）が一緒にひとつのステージを作り上げる「18祭（フェス）」を開催。反響が大きかったことから、翌年以降も影響力のあるアーティストを擁して継続される企画となった。
 
 [ONE_OK_ROCK_w_Polsce.jpg](https://ja.wikipedia.org/wiki/File:ONE_OK_ROCK_w_Polsce.jpg "fig:ONE_OK_ROCK_w_Polsce.jpg")
@@ -265,7 +265,7 @@
 
 <!-- end list -->
 
-  - ８月 - バンド結成のきっかけである[RIZE](https://ja.wikipedia.org/wiki/RIZE "wikilink")と並び、ONE OK ROCKおよびTakaに多大な影響を及ぼしたとされる\[38\][ELLEGARDEN](https://ja.wikipedia.org/wiki/ELLEGARDEN "wikilink")の、１０年振りの活動再開に深く関わったとして\[39\]、３箇所で行われた全復活ライブにゲストアクトとして参加した\[40\]
+  - ８月 - バンド結成のきっかけである[RIZE](../Page/RIZE.md "wikilink")と並び、ONE OK ROCKおよびTakaに多大な影響を及ぼしたとされる\[38\][ELLEGARDEN](../Page/ELLEGARDEN.md "wikilink")の、１０年振りの活動再開に深く関わったとして\[39\]、３箇所で行われた全復活ライブにゲストアクトとして参加した\[40\]
   - 18日-大阪で行われたサマーソニックに参加し、[マイク・シノダ](../Page/マイク・シノダ.md "wikilink")と共演し、”one way ticket”を披露した。
   - 10月20日・21日-さいたまスーパーアリーナ、および、10月30日・31日-大阪城ホールにて初の試みとなる『ONE OK ROCK with Orchestra Japan Tour 2018』を開催。
   - AWAで2018年今年最も聴かれたアーティスト1位に ONE OK ROCK、最も再生された楽曲の 3位に「Wherever you are」が選ばれた[1](http://www.musicman-net.com/business/81778)。
@@ -429,7 +429,7 @@
 <td><p>5</p></td>
 <td><p>2018年2月16日</p></td>
 <td><p><strong>Change</strong></p></td>
-<td><p>Honda企業広告「Go, Vantage Point.」第2弾CM「<a href="https://ja.wikipedia.org/wiki/HondaJet" title="wikilink">HondaJet</a>」タイアップ曲<ref></p>
+<td><p>Honda企業広告「Go, Vantage Point.」第2弾CM「<a href="../Page/HondaJet.md" title="wikilink">HondaJet</a>」タイアップ曲<ref></p>
 <p><code>{{Cite web</code></p></td>
 <td><p>url= <a href="https://www.honda.co.jp/movie/201802/gvp01/index.html">https://www.honda.co.jp/movie/201802/gvp01/index.html</a></p></td>
 <td><p>title= 企業　「GVP　HondaJet」　60秒 (2018年2月)</p></td>
@@ -587,7 +587,7 @@
 <tr class="even">
 <td><p>2</p></td>
 <td><p>2006年12月16日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Keep_it_real" title="wikilink">Keep it real</a></p></td>
+<td><p><a href="../Page/Keep_it_real.md" title="wikilink">Keep it real</a></p></td>
 <td><p>AZCL-10006</p></td>
 <td><ol>
 <li>Keep it real</li>
@@ -611,7 +611,7 @@
 
 #### 北米盤・アルバム
 
-レーベルは[ワーナー・ブラザース・レコード](https://ja.wikipedia.org/wiki/ワーナー・ブラザース・レコード "wikilink")2枚目から[フュエルド・バイ・ラーメン](../Page/フュエルド・バイ・ラーメン.md "wikilink")
+レーベルは[ワーナー・ブラザース・レコード](../Page/ワーナー・ブラザース・レコード.md "wikilink")2枚目から[フュエルド・バイ・ラーメン](../Page/フュエルド・バイ・ラーメン.md "wikilink")
 
 | 枚 | 発売日        | タイトル                                                                                                    | 最高位 日本 | 最高位 北米 |
 | - | ---------- | ------------------------------------------------------------------------------------------------------- | ------ | ------ |
@@ -789,7 +789,7 @@
 ### 発売中止になったCD
 
   - 「**[Around ザ world 少年](https://ja.wikipedia.org/wiki/Around_ザ_world_少年 "wikilink")**」
-    Alexの不祥事を受け、発売中止。連続ドラマ「[ゴッドハンド輝](https://ja.wikipedia.org/wiki/ゴッドハンド輝 "wikilink")」(TBS)の主題歌に起用される予定だったが、別の曲に差し替えられる。現在まで音源化されていない。
+    Alexの不祥事を受け、発売中止。連続ドラマ「[ゴッドハンド輝](../Page/ゴッドハンド輝.md "wikilink")」(TBS)の主題歌に起用される予定だったが、別の曲に差し替えられる。現在まで音源化されていない。
   - 「**『』**」
     「ONE OK ROCK 2009“Emotion Effect”TOUR」会場限定CDに収録されていたタイトルのつけられていない未発表ライブ音源。曲のタイトルは、CD購入者から候補を募り、決める予定だった\[42\]。ツアー中止を受け、販売中止。それに伴い、タイトル募集も打ち切られた。活動再開後、5枚目アルバム「**[残響リファレンス](https://ja.wikipedia.org/wiki/残響リファレンス "wikilink")**」に、スタジオレコーディングされた「**『』**」が「**キミシダイ列車**」として収録された。
 
@@ -803,7 +803,7 @@
 | 2012   | 4月4日                                                                                    | **[NEVERMIND TRIBUTE](https://ja.wikipedia.org/wiki/NEVERMIND_TRIBUTE "wikilink")** | [ニルヴァーナのトリビュートアルバム](../Page/ニルヴァーナ_\(アメリカ合衆国のバンド\).md "wikilink")                                                                         | ONE OK ROCKとして「**Smells Like Teen Spirit**」をカバー。                               |
 | 5月23日  | **ROCK ON ROCK**                                                                        | 全28アーティストの楽曲を収録                                                                     | ONE OK ROCKは「**[アンサイズニア](https://ja.wikipedia.org/wiki/アンサイズニア "wikilink")**」で参加。                                                         |                                                                                |
 | 6月6日   | **[戦いは終わらない](https://ja.wikipedia.org/wiki/戦いは終わらない "wikilink")**                       | [阿部真央](https://ja.wikipedia.org/wiki/阿部真央 "wikilink")                               | 「**How are you?**」「**for you**」の2曲にドラマーとしてTomoyaが参加。                                                                                      |                                                                                |
-| 2013   | 3月20日                                                                                   | **Summer Paradise (Feat. Taka From ONE OK ROCK)**                                   | [シンプル・プラン](https://ja.wikipedia.org/wiki/シンプル・プラン_\(バンド\) "wikilink")                                                                     | ボーカルとしてTakaが参加（シングル）。                                                          |
+| 2013   | 3月20日                                                                                   | **Summer Paradise (Feat. Taka From ONE OK ROCK)**                                   | [シンプル・プラン](../Page/シンプル・プラン_\(バンド\).md "wikilink")                                                                                        | ボーカルとしてTakaが参加（シングル）。                                                          |
 | 3月27日  | **Get Your Heart On\! (Japan Tour Edition)**                                            | シンプル・プラン                                                                            | 「**Summer Paradise**」にボーカルとしてTakaが参加（アルバム）。                                                                                               |                                                                                |
 | 11月13日 | **[gene](https://ja.wikipedia.org/wiki/gene_\(Pay_money_To_my_Painのアルバム\) "wikilink")** | [Pay money To my Pain](../Page/Pay_money_To_my_Pain.md "wikilink")                  | [Kの遺作](https://ja.wikipedia.org/wiki/Pay_money_To_my_Pain#メンバー "wikilink")「**Voice**」にボーカルとしてTakaが参加、作詞も手がけた。                             |                                                                                |
 | 2014   | 8月20日                                                                                   | **First words**                                                                     | GROWN KIDS                                                                                                                                | 「**Bottle Rocket**」にボーカルとしてTakaが参加。                                            |
@@ -865,7 +865,7 @@
 
 **2012年**
 
-  - [MTV Video Music Awards Japan](https://ja.wikipedia.org/wiki/MTV_Video_Music_Awards_Japan "wikilink")2012・最優秀ロックビデオ賞「アンサイズニア」
+  - [MTV Video Music Awards Japan](../Page/MTV_Video_Music_Awards_Japan.md "wikilink")2012・最優秀ロックビデオ賞「アンサイズニア」
 
 **2013年**
 
@@ -878,7 +878,7 @@
 
 **2016年**
 
-  - [SPACE SHOWER](https://ja.wikipedia.org/wiki/スペースシャワーTV "wikilink") MUSIC AWARDS・BEST ACTIVE OVERSEAS（もっとも海外で活躍したアーティストに授与される賞）\[45\]
+  - [SPACE SHOWER](../Page/スペースシャワーTV.md "wikilink") MUSIC AWARDS・BEST ACTIVE OVERSEAS（もっとも海外で活躍したアーティストに授与される賞）\[45\]
   - MTVヨーロッパ・ミュージック・アワード ベストジャパンアクト受賞\[46\]
   - [クラシックロックアワード](https://ja.wikipedia.org/wiki/クラシック・ロック・ロール・オブ・オナーズ賞 "wikilink") 2016にてEASTERN BREAKTHROUGH BAND(アジアを代表し、将来クラシック・ロックになりうるバンドに贈られる賞)を受賞\[47\]
 
@@ -888,8 +888,8 @@
 
 **2018年**
 
-  - [SPACE SHOWER](https://ja.wikipedia.org/wiki/スペースシャワーTV "wikilink") MUSIC AWARDS・BEST GROUP ARTIST（最も活躍したグループアーティストに授与される賞）および
-  - [SPACE SHOWER](https://ja.wikipedia.org/wiki/スペースシャワーTV "wikilink") MUSIC AWARDS・BEST ACTIVE OVERSEAS（最も海外で活躍したアーティストに授与される賞）の二冠を受賞
+  - [SPACE SHOWER](../Page/スペースシャワーTV.md "wikilink") MUSIC AWARDS・BEST GROUP ARTIST（最も活躍したグループアーティストに授与される賞）および
+  - [SPACE SHOWER](../Page/スペースシャワーTV.md "wikilink") MUSIC AWARDS・BEST ACTIVE OVERSEAS（最も海外で活躍したアーティストに授与される賞）の二冠を受賞
   - 第４回ブライダルミュージックアワードで 「Wherever you are」がミュージック賞受賞[3](https://isum.or.jp/bma/result/2017/?from=bma_news)
   - 「ROCK SOUND AWARDS」2018でBest Live Performance (最も優れたライブパフォーマンス）受賞[4](http://www.rocksound.tv/news/read/introducing-your-2018-rock-sound-awards-winners)
 
@@ -1466,7 +1466,7 @@
 
 <div class="NavContent" style="text-align: left;font-size:small;">
 
-  - 12.24 - MTV Boo Xmas 09（[RIZE](https://ja.wikipedia.org/wiki/RIZE "wikilink")/[SiM](https://ja.wikipedia.org/wiki/SiM "wikilink")/[UZUMAKI](https://ja.wikipedia.org/wiki/UZUMAKI "wikilink")/[DOPING PANDA](../Page/DOPING_PANDA.md "wikilink")）
+  - 12.24 - MTV Boo Xmas 09（[RIZE](../Page/RIZE.md "wikilink")/[SiM](https://ja.wikipedia.org/wiki/SiM "wikilink")/[UZUMAKI](https://ja.wikipedia.org/wiki/UZUMAKI "wikilink")/[DOPING PANDA](../Page/DOPING_PANDA.md "wikilink")）
 
 </div>
 
@@ -1880,7 +1880,7 @@
   - 07.10 Holmdel, NJ / PNC Bank Arts Center
   - 07.12 Toronto, ON / Molson Canadian Amphitheatre
   - 07.13 Montreal, QC / Bell Centre
-  - 07.15 New York, NY / [マディソン・スクエア・ガーデン](https://ja.wikipedia.org/wiki/マディソン・スクエア・ガーデン "wikilink")
+  - 07.15 New York, NY / [マディソン・スクエア・ガーデン](../Page/マディソン・スクエア・ガーデン.md "wikilink")
   - 07.16 Camden, NJ / Susquehanna Bank Center
   - 07.18 Charlotte, NC / PNC Music Pavilion Charlotte
   - 07.20 Jacksonville, FL / Jacksonville Veterans Memorial Arena
@@ -1947,7 +1947,7 @@
 
   - [NEWS](https://ja.wikipedia.org/wiki/NEWS_\(グループ\) "wikilink") - ボーカルのTakaが以前所属していたアイドルグループ。
   - [HEADS](https://ja.wikipedia.org/wiki/HEADS "wikilink") - メンバーのToruとRyotaが以前所属していたアイドルダンスユニット。
-  - [MY FIRST STORY](https://ja.wikipedia.org/wiki/MY_FIRST_STORY "wikilink") - Takaの弟、[森内寛樹](https://ja.wikipedia.org/wiki/森内寛樹 "wikilink")がボーカルを務めるロックバンド。
+  - [MY FIRST STORY](https://ja.wikipedia.org/wiki/MY_FIRST_STORY "wikilink") - Takaの弟、[森内寛樹](../Page/森内寛樹.md "wikilink")がボーカルを務めるロックバンド。
 
 ## 外部リンク
 
@@ -2031,7 +2031,7 @@
 66. [SWITZERLAND, Zurich](https://ja.wikipedia.org/wiki/SWITZERLAND,_Zurich "wikilink"), [CZECH REPUBLIC, Prague](https://ja.wikipedia.org/wiki/CZECH_REPUBLIC,_Prague "wikilink"), [POLAND, Warsaw](https://ja.wikipedia.org/wiki/POLAND,_Warsaw "wikilink"), [FINLAND, Helsinki](https://ja.wikipedia.org/wiki/FINLAND,_Helsinki "wikilink"), [SWEDEN, Stockholm](https://ja.wikipedia.org/wiki/SWEDEN,_Stockholm "wikilink"), [NORWAY, Oslo](https://ja.wikipedia.org/wiki/NORWAY,_Oslo "wikilink"), [DENMARK, Copenhagen](https://ja.wikipedia.org/wiki/DENMARK,_Copenhagen "wikilink"), [U.K, Glasgow](https://ja.wikipedia.org/wiki/U.K,_Glasgow "wikilink"), [U.K, Manchester](https://ja.wikipedia.org/wiki/U.K,_Manchester "wikilink"), [U.K, London](https://ja.wikipedia.org/wiki/U.K,_London "wikilink"), [GERMANY, Cologne](https://ja.wikipedia.org/wiki/GERMANY,_Cologne "wikilink"), [GERMANY, Munich](https://ja.wikipedia.org/wiki/GERMANY,_Munich "wikilink"), [AUSTRIA, Vienna](https://ja.wikipedia.org/wiki/AUSTRIA,_Vienna "wikilink"), [GERMANY, Berlin](https://ja.wikipedia.org/wiki/GERMANY,_Berlin "wikilink"), [HOLLAND, Amsterdam](https://ja.wikipedia.org/wiki/HOLLAND,_Amsterdam "wikilink"), [FRANCE, Paris](https://ja.wikipedia.org/wiki/FRANCE,_Paris "wikilink")
 67. [BANGKOK, THAILAND](https://ja.wikipedia.org/wiki/BANGKOK,_THAILAND "wikilink")、[SINGAPORE](https://ja.wikipedia.org/wiki/SINGAPORE "wikilink")、[SHANGHAI](https://ja.wikipedia.org/wiki/SHANGHAI "wikilink")、[TAIPEI, TAIWAN](https://ja.wikipedia.org/wiki/TAIPEI,_TAIWAN "wikilink")、[MANILA, PHILIPPINES](https://ja.wikipedia.org/wiki/MANILA,_PHILIPPINES "wikilink")、[HONG KONG](https://ja.wikipedia.org/wiki/HONG_KONG "wikilink")、[SEOUL, KOREA](https://ja.wikipedia.org/wiki/SEOUL,_KOREA "wikilink")
 68. U.K, London – Heaven、GERMANY, Cologne – Luxor、GERMANY, Hamburg – headCRASH、NETHERLANDS, Utrecht – TivoliVrendenburg Pandora、FRANCE, Paris – Bataclan
-69. 「[原田真二](https://ja.wikipedia.org/wiki/原田真二 "wikilink")プロデュース」のアーティストを発掘するとして始まったオーディションの第3弾。
+69. 「[原田真二](../Page/原田真二.md "wikilink")プロデュース」のアーティストを発掘するとして始まったオーディションの第3弾。
 70. <http://natalie.mu/music/news/2926>
 71. [Yellowcard](https://ja.wikipedia.org/wiki/Yellowcard "wikilink")、[Tonight Alive](https://ja.wikipedia.org/wiki/Tonight_Alive "wikilink")、（東京のみ）との対バン形式のイベントツアー。
 72. [All Time Low](https://ja.wikipedia.org/wiki/All_Time_Low "wikilink")、、（東京のみ）との対バン形式のイベントツアー。

@@ -1,7 +1,7 @@
 > この記事は[FMY-TV](https://ja.wikipedia.org/wiki/FMY-TV)から翻訳されています。
 
 
-『**Media Mixture Prpgram FMY-TV**』（メディア・ミクスチャー・プログラム・エフエムワイ・ティーヴィー）は、[エフエム山口](https://ja.wikipedia.org/wiki/エフエム山口 "wikilink") (FMY) と[テレビ山口](../Page/テレビ山口.md "wikilink") (tys)、[山口ケーブルビジョン](../Page/山口ケーブルビジョン.md "wikilink") (C-able) の3局共同制作の[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")放送開始、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")放送終了。
+『**Media Mixture Prpgram FMY-TV**』（メディア・ミクスチャー・プログラム・エフエムワイ・ティーヴィー）は、[エフエム山口](https://ja.wikipedia.org/wiki/エフエム山口 "wikilink") (FMY) と[テレビ山口](../Page/テレビ山口.md "wikilink") (tys)、[山口ケーブルビジョン](../Page/山口ケーブルビジョン.md "wikilink") (C-able) の3局共同制作の[音楽番組](../Page/音楽番組.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")放送開始、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")放送終了。
 
 最新の音楽情報や、エフエム山口の裏側を見せていく番組構成となっていた。テレビのみで放送され（FMYでは放送されていない）、FMYが番組の企画・構成を、tysとC-ableが実質的な番組製作を担当していた。相互に密接な関係にある3局である（tysとC-ableは同じ山口トヨタ自動車傘下、FMYと他の2局は業務提携関係）が、3局合同のレギュラープログラムはこの番組が初である。
 
@@ -32,7 +32,7 @@
 
 ## その他
 
-FMYは2005年10月に[CIを行っているが](https://ja.wikipedia.org/wiki/コーポレートアイデンティティ "wikilink")、CI後のFMYの[ロゴタイプ](../Page/ロゴタイプ.md "wikilink")は、この番組で開始当初から使用されているロゴタイプと同じものが用いられている。見方を変えれば、FMYのCIの先行テスト的要素があったとも考えられる。
+FMYは2005年10月に[CIを行っているが](../Page/コーポレートアイデンティティ.md "wikilink")、CI後のFMYの[ロゴタイプ](../Page/ロゴタイプ.md "wikilink")は、この番組で開始当初から使用されているロゴタイプと同じものが用いられている。見方を変えれば、FMYのCIの先行テスト的要素があったとも考えられる。
 
 ## 外部リンク
 

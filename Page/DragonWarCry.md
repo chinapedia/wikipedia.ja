@@ -3,13 +3,13 @@
 
 『**DragonWarCry**』（ドラゴンウォークライ）は、[パソコンを使用した無料](../Page/パーソナルコンピュータ.md "wikilink")[オンライン](../Page/オンラインゲーム.md "wikilink")[RPGである](../Page/ロールプレイングゲーム.md "wikilink")。公式な略称は**DWC**。[ダウンロード](https://ja.wikipedia.org/wiki/ダウンロード "wikilink")や[クライアントのインストールがいらない](../Page/クライアント_\(コンピュータ\).md "wikilink")[ブラウザゲーム](../Page/ブラウザゲーム.md "wikilink")である。プレイヤーは架空の大陸、カルマートを訪れた冒険者の一人となり、世界を揺るがす異変の謎を解き明かす。
 
-[2004年](../Page/2004年.md "wikilink")12月にベータ版が公開され、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")5月より正式に運営がスタートした。2006年現在は改訂版であるDragonWarCry Rev.2がリリースされていたが、2008年9月より公開が休止されている。
+[2004年](../Page/2004年.md "wikilink")12月にベータ版が公開され、[2005年](../Page/2005年.md "wikilink")5月より正式に運営がスタートした。2006年現在は改訂版であるDragonWarCry Rev.2がリリースされていたが、2008年9月より公開が休止されている。
 
-ゲーム部分には[FLASH](../Page/Adobe_Flash.md "wikilink")、掲示板やユーザーのアカウント管理などには[XOOPS](https://ja.wikipedia.org/wiki/XOOPS "wikilink")のモジュールが使われている。制作は大羽アキラで、個人の出資により運営されている。FinalOrbについてはAtomShockWaveで有料公開されたのち、現在はDWC公式より無料にてプレイ可能。しかしこちらは開発が終了している。
+ゲーム部分には[FLASH](../Page/Adobe_Flash.md "wikilink")、掲示板やユーザーのアカウント管理などには[XOOPS](../Page/XOOPS.md "wikilink")のモジュールが使われている。制作は大羽アキラで、個人の出資により運営されている。FinalOrbについてはAtomShockWaveで有料公開されたのち、現在はDWC公式より無料にてプレイ可能。しかしこちらは開発が終了している。
 
 ## プレイヤーキャラクター
 
-  - [ウォリアー](https://ja.wikipedia.org/wiki/ウォリアー "wikilink")
+  - [ウォリアー](../Page/ウォリアー.md "wikilink")
     力自慢の屈強な戦士。鍛冶合成をする事ができる。
   - ドラグーン
     [竜](../Page/竜.md "wikilink")とともに生きる戦士。ゲーム中、ある条件を満たす事で飛竜の育成をする事ができる。

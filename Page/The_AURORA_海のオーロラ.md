@@ -5,7 +5,7 @@
 
 ## あらすじ
 
-2033年。[南鳥島](../Page/南鳥島.md "wikilink")沖の[海底](../Page/海底.md "wikilink")4,200mで、新しいエネルギー資源の[掘削](https://ja.wikipedia.org/wiki/掘削 "wikilink")作業が行われていた。ところが、その基地に銃を携えた女性生物学者の王春露と少年・野良が潜入し、計画を中止させようとした。春露によると、このまま掘削を続ければ[マントル](../Page/マントル.md "wikilink")に閉じ込められた太古の[バクテリア](https://ja.wikipedia.org/wiki/バクテリア "wikilink")が蘇り、[生態系](https://ja.wikipedia.org/wiki/生態系 "wikilink")を崩すと言うのだ。しかし、富と名声に目のくらんだエンクリスが掘削を続行。バクテリアを蘇らせてしまう。マントルから流出する原始バクテリア、それはまるで[オーロラ](../Page/オーロラ.md "wikilink")のように美しかったが、その裏には[金属](../Page/金属.md "wikilink")を溶解させるという恐ろしい力を持っていた。しかも、更にそれは海上の[支援船](https://ja.wikipedia.org/wiki/支援船 "wikilink")“**はるやま**”や救助にやってきた[潜水艦](../Page/潜水艦.md "wikilink")を次々に破壊。掘削チームは逃げ道を失い、海底に閉じ込められてしまう。この事態に、チームのメンバーであるヒロシは、実は原始バクテリア研究の第一人者で“**科学者の独裁者**”の異名を持つ王玉竜のクローンだった春露と協力し、バクテリアの浮上を防ぐべく[液体窒素でそれを休眠させる作戦を決行する](../Page/窒素.md "wikilink")。多くの犠牲者が出る中、バクテリアの休眠に成功するヒロシと春露と野良。その後、3人は海中ロボットで無事海上へ帰還を果たす。
+2033年。[南鳥島](../Page/南鳥島.md "wikilink")沖の[海底](../Page/海底.md "wikilink")4,200mで、新しいエネルギー資源の[掘削](../Page/掘削.md "wikilink")作業が行われていた。ところが、その基地に銃を携えた女性生物学者の王春露と少年・野良が潜入し、計画を中止させようとした。春露によると、このまま掘削を続ければ[マントル](../Page/マントル.md "wikilink")に閉じ込められた太古の[バクテリア](https://ja.wikipedia.org/wiki/バクテリア "wikilink")が蘇り、[生態系](https://ja.wikipedia.org/wiki/生態系 "wikilink")を崩すと言うのだ。しかし、富と名声に目のくらんだエンクリスが掘削を続行。バクテリアを蘇らせてしまう。マントルから流出する原始バクテリア、それはまるで[オーロラ](../Page/オーロラ.md "wikilink")のように美しかったが、その裏には[金属](../Page/金属.md "wikilink")を溶解させるという恐ろしい力を持っていた。しかも、更にそれは海上の[支援船](https://ja.wikipedia.org/wiki/支援船 "wikilink")“**はるやま**”や救助にやってきた[潜水艦](../Page/潜水艦.md "wikilink")を次々に破壊。掘削チームは逃げ道を失い、海底に閉じ込められてしまう。この事態に、チームのメンバーであるヒロシは、実は原始バクテリア研究の第一人者で“**科学者の独裁者**”の異名を持つ王玉竜のクローンだった春露と協力し、バクテリアの浮上を防ぐべく[液体窒素でそれを休眠させる作戦を決行する](../Page/窒素.md "wikilink")。多くの犠牲者が出る中、バクテリアの休眠に成功するヒロシと春露と野良。その後、3人は海中ロボットで無事海上へ帰還を果たす。
 
 ## 登場人物
 
@@ -15,15 +15,15 @@
   - 野良 - [林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")
   - トウル・エンリケス - [古川登志夫](../Page/古川登志夫.md "wikilink")
   - 大口ワタル - [川端竜太](../Page/川端竜太.md "wikilink")
-  - ジャック・モラール - [千葉繁](https://ja.wikipedia.org/wiki/千葉繁 "wikilink")
+  - ジャック・モラール - [千葉繁](../Page/千葉繁.md "wikilink")
   - 渡部マコト - [田中秀幸](../Page/田中秀幸_\(声優\).md "wikilink")
   - 王玉竜 - [神谷明](../Page/神谷明.md "wikilink")
   - 五島ハツヒコ - [土師孝也](../Page/土師孝也.md "wikilink")
-  - 岩国トシノリ - [牛山茂](https://ja.wikipedia.org/wiki/牛山茂 "wikilink")
-  - 上田ヒトシ - [巻島直樹](https://ja.wikipedia.org/wiki/巻島直樹 "wikilink")
-  - 原田マサト - [安井邦彦](https://ja.wikipedia.org/wiki/安井邦彦 "wikilink")
-  - 山口ノリマサ - [坪井智浩](https://ja.wikipedia.org/wiki/坪井智浩 "wikilink")
-  - 末松タカシ - [岩崎ひろし](https://ja.wikipedia.org/wiki/岩崎ひろし "wikilink")
+  - 岩国トシノリ - [牛山茂](../Page/牛山茂.md "wikilink")
+  - 上田ヒトシ - [巻島直樹](../Page/巻島直樹.md "wikilink")
+  - 原田マサト - [安井邦彦](../Page/安井邦彦.md "wikilink")
+  - 山口ノリマサ - [坪井智浩](../Page/坪井智浩.md "wikilink")
+  - 末松タカシ - [岩崎ひろし](../Page/岩崎ひろし.md "wikilink")
 
 ## メカニック
 
@@ -37,7 +37,7 @@
   - 製作 - [平林邦介](https://ja.wikipedia.org/wiki/平林邦介 "wikilink")
   - プロデューサー - [前田伸一郎](https://ja.wikipedia.org/wiki/前田伸一郎 "wikilink")
   - 脚本 - [しまだみちる](https://ja.wikipedia.org/wiki/しまだみちる "wikilink")
-  - 音楽 - [天野正道](https://ja.wikipedia.org/wiki/天野正道 "wikilink")
+  - 音楽 - [天野正道](../Page/天野正道.md "wikilink")
   - 主題歌 - [S.E.S](../Page/S.E.S..md "wikilink")
   - 録音 - [小林克良](../Page/小林克良.md "wikilink")
 

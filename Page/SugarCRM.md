@@ -50,7 +50,7 @@ SugarForgeにて、Sugar Community Edition 5.0系の[Japanese Langage Pack](http
 ## 外部リンク
 
   - [公式サイト](http://www.sugarcrm.com)
-  - [Sugarforge](http://www.sugarforge.org/) — プラグイン・[サードパーティー](https://ja.wikipedia.org/wiki/サードパーティー "wikilink")プロジェクト
+  - [Sugarforge](http://www.sugarforge.org/) — プラグイン・[サードパーティー](../Page/サードパーティー.md "wikilink")プロジェクト
   - [日本語言語パック](http://www.sugarforge.org/frs/?group_id=581)
   - [SUGAR WIKI](http://www.sugarcrm.com/wiki/) - SugarCRMが提供する総合的なWiki
   - [経済産業省アイディアボックス](https://ja.wikipedia.org/wiki/経済産業省アイディアボックス "wikilink") - 行政に対する意見投稿や、賛成反対意見を投票したりできる行政サービス。SugarCRMをカスタマイズして作られている。

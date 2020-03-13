@@ -1,14 +1,14 @@
 > この記事は[DAIPRO-X](https://ja.wikipedia.org/wiki/DAIPRO-X)から翻訳されています。
 
 
-**DAIPRO-X（ダイプロ・エックス）** はかつて存在した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[レコード会社](https://ja.wikipedia.org/wiki/レコード会社 "wikilink")。[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")に存在した、[代官山プロダクション](https://ja.wikipedia.org/wiki/代官山プロダクション "wikilink")によって設立された。正式社名は**株式会社ダイプロ・エックス**。
+**DAIPRO-X（ダイプロ・エックス）** はかつて存在した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[レコード会社](../Page/レコード会社.md "wikilink")。[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")に存在した、[代官山プロダクション](../Page/代官山プロダクション.md "wikilink")によって設立された。正式社名は**株式会社ダイプロ・エックス**。
 
 ## 概要・来歴
 
   - 元[スペクトラムのリーダーである](../Page/スペクトラム_\(日本のバンド\).md "wikilink")[新田一郎により設立](../Page/新田一郎_\(ミュージシャン\).md "wikilink")。
-  - 社名発表は、当時放送されていたFM系ラジオ番組[爆裂スーパーファンタジー](https://ja.wikipedia.org/wiki/爆裂スーパーファンタジー "wikilink")内で行われた。
+  - 社名発表は、当時放送されていたFM系ラジオ番組[爆裂スーパーファンタジー](../Page/爆裂スーパーファンタジー.md "wikilink")内で行われた。
   - パーソナリティだった嘉門達夫は「藤山レコードにしたい」と語っていた（同じく爆裂スーパーファンタジー内で）。
-  - ビクターエンタテインメント（現：[JVCケンウッド・ビクターエンタテインメント](https://ja.wikipedia.org/wiki/JVCケンウッド・ビクターエンタテインメント "wikilink")）と提携していた。
+  - ビクターエンタテインメント（現：[JVCケンウッド・ビクターエンタテインメント](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")）と提携していた。
   - 親会社ともども2009年10月14日破産手続開始決定。2010年7月23日付で費用不足のため破産廃止となり、完全消滅した。
 
 ## レーベル
@@ -41,16 +41,16 @@
   - [月光エデン](../Page/月光エデン.md "wikilink") (2007年)
   - [KOH](https://ja.wikipedia.org/wiki/KOH "wikilink") (1998年〜1999年)
   - [古賀美智子](https://ja.wikipedia.org/wiki/古賀美智子 "wikilink") (1998年,2006年)
-  - [KONTA](https://ja.wikipedia.org/wiki/KONTA "wikilink") (1997年〜1998年)
+  - [KONTA](../Page/KONTA.md "wikilink") (1997年〜1998年)
   - [さくらと一郎](../Page/さくらと一郎.md "wikilink") (2006年)
   - [ササキ・トオル](https://ja.wikipedia.org/wiki/ササキ・トオル "wikilink") (2001年)
   - [JEIMS](https://ja.wikipedia.org/wiki/JEIMS "wikilink") (2007年)
   - [SHINOZAKI](https://ja.wikipedia.org/wiki/SHINOZAKI "wikilink") (2001年〜2002年)
   - [シラカワ夜フネ](https://ja.wikipedia.org/wiki/シラカワ夜フネ "wikilink") (2004年)
   - [伸太郎](https://ja.wikipedia.org/wiki/伸太郎 "wikilink") (2005年)
-  - [菅原洋一](https://ja.wikipedia.org/wiki/菅原洋一 "wikilink") (2007年)
+  - [菅原洋一](../Page/菅原洋一.md "wikilink") (2007年)
   - [鈴木彩子](https://ja.wikipedia.org/wiki/SAICO "wikilink") (1997年〜2000年)
-  - [スティーヴン・セガール](https://ja.wikipedia.org/wiki/スティーヴン・セガール "wikilink") (2007年)
+  - [スティーヴン・セガール](../Page/スティーヴン・セガール.md "wikilink") (2007年)
   - [SPACEALLSTARS](https://ja.wikipedia.org/wiki/SPACEALLSTARS "wikilink")（[むじんくん](https://ja.wikipedia.org/wiki/むじんくん "wikilink")の[宇宙人](../Page/チャント星人.md "wikilink")） (1997年〜1998年)
   - [スペクトラム](../Page/スペクトラム_\(日本のバンド\).md "wikilink") (2004年)
   - [SLAP STICKS](https://ja.wikipedia.org/wiki/SLAP_STICKS "wikilink") (1998年)
@@ -72,8 +72,8 @@
   - [ファミリーギャング](../Page/ファミリーギャング.md "wikilink") (2006年〜2007年)
   - [Foolyous](https://ja.wikipedia.org/wiki/Foolyous "wikilink") (1997年〜1999年)
   - [福原久美](https://ja.wikipedia.org/wiki/福原久美 "wikilink") (2008年)
-  - [ブリーフ&トランクス](https://ja.wikipedia.org/wiki/ブリーフ&トランクス "wikilink") (1998年〜2006年)
-  - [プロペラ](https://ja.wikipedia.org/wiki/プロペラ_\(バンド\) "wikilink") (2000年)
+  - [ブリーフ&トランクス](../Page/ブリーフ&トランクス.md "wikilink") (1998年〜2006年)
+  - [プロペラ](../Page/プロペラ_\(バンド\).md "wikilink") (2000年)
   - [BOCCA](https://ja.wikipedia.org/wiki/BOCCA "wikilink") (1998年)
   - [マリ&ライダーキャットJun](https://ja.wikipedia.org/wiki/マリ&ライダーキャットJun "wikilink") (2008年)
   - [マリー・オリギン](https://ja.wikipedia.org/wiki/マリー・オリギン "wikilink") (2001年)

@@ -10,8 +10,8 @@
   - 2005年10月12日に発表された[iMac G5 (iSight)](https://ja.wikipedia.org/wiki/IMac#iMac_G5_.28iSight.29 "wikilink")\[1\]の付属品として発表される。
   - 登場時以来iMacやMac mini, MacBookなどの本体に付属していたが、2009年現在は別売りとなっている。
   - 2009年10月21日にプラスティック製からアルミニウム製にモデルチェンジした\[2\]。
-  - Macでは、[Front Rowにより](https://ja.wikipedia.org/wiki/Front_Row "wikilink")[iPod](https://ja.wikipedia.org/wiki/iPod "wikilink")に似た感覚でDVDの視聴、音楽の再生、ビデオの視聴、写真の閲覧、また[Keynote](../Page/Keynote.md "wikilink")などの操作が出来る。
-  - Apple Remote対応の[Dock](https://ja.wikipedia.org/wiki/Dock "wikilink")を使うことで[iPod](https://ja.wikipedia.org/wiki/iPod "wikilink")の操作にも利用できる。再生（もう一度押すと停止）・曲送り（長押しで早送り）・曲戻し（長押しで巻き戻し）・音量+・音量-ができるが、ブラウズは不可能。そのため、MENUボタンは操作に割り当てられていない。
+  - Macでは、[Front Rowにより](../Page/Front_Row.md "wikilink")[iPod](https://ja.wikipedia.org/wiki/iPod "wikilink")に似た感覚でDVDの視聴、音楽の再生、ビデオの視聴、写真の閲覧、また[Keynote](../Page/Keynote.md "wikilink")などの操作が出来る。
+  - Apple Remote対応の[Dock](../Page/Dock.md "wikilink")を使うことで[iPod](https://ja.wikipedia.org/wiki/iPod "wikilink")の操作にも利用できる。再生（もう一度押すと停止）・曲送り（長押しで早送り）・曲戻し（長押しで巻き戻し）・音量+・音量-ができるが、ブラウズは不可能。そのため、MENUボタンは操作に割り当てられていない。
   - [iPod Hi-FiでApple](https://ja.wikipedia.org/wiki/iPod_Hi-Fi "wikilink") Remote対応Dockと同様にiPodの操作が可能。ただし、MENUの長押しでiPod・外部入力の切り替えが可能となっている。外部入力時にはApple Remoteから音量+・音量-と、再生・停止ボタンでミュートが可能（もう一度押すと解除）。
 
 ## ペアリング
@@ -24,7 +24,7 @@
 
 [thumbは](https://ja.wikipedia.org/wiki/ファイル:Apple_remote_imac.JPG "wikilink")、本体側面部に[磁石](../Page/磁石.md "wikilink")が内蔵されており、Apple Remoteをくっつける事ができる。\]\]
 
-  - [Apple TV](https://ja.wikipedia.org/wiki/Apple_TV "wikilink")
+  - [Apple TV](../Page/Apple_TV.md "wikilink")
   - [iMac](https://ja.wikipedia.org/wiki/iMac "wikilink")
   - [Mac mini](https://ja.wikipedia.org/wiki/Mac_mini "wikilink")
   - [MacBook](../Page/MacBook.md "wikilink")
@@ -46,7 +46,7 @@
 
 ## 関連項目
 
-  - [Front Row](https://ja.wikipedia.org/wiki/Front_Row "wikilink")
+  - [Front Row](../Page/Front_Row.md "wikilink")
 
 [Category:アップルのハードウェア](https://ja.wikipedia.org/wiki/Category:アップルのハードウェア "wikilink") [Category:2005年のハードウェア](https://ja.wikipedia.org/wiki/Category:2005年のハードウェア "wikilink")
 

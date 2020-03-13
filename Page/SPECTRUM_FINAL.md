@@ -1,7 +1,7 @@
 > この記事は[SPECTRUM FINAL](https://ja.wikipedia.org/wiki/SPECTRUM_FINAL)から翻訳されています。
 
 
-『**スペクトラム6 SPECTRUM FINAL**』（スペクトラムシックス スペクトラム・ファイナル）は、[1981年](../Page/1981年.md "wikilink")[11月5日](../Page/11月5日.md "wikilink")に発売された[スペクトラムの](../Page/スペクトラム_\(日本のバンド\).md "wikilink")[ライブ・アルバム](https://ja.wikipedia.org/wiki/ライブ・アルバム "wikilink")。正式なタイトルは『**スペクトラム6 SPECTRUM FINAL Budoukan Live Sept. 22,1981**』。
+『**スペクトラム6 SPECTRUM FINAL**』（スペクトラムシックス スペクトラム・ファイナル）は、[1981年](../Page/1981年.md "wikilink")[11月5日](../Page/11月5日.md "wikilink")に発売された[スペクトラムの](../Page/スペクトラム_\(日本のバンド\).md "wikilink")[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")。正式なタイトルは『**スペクトラム6 SPECTRUM FINAL Budoukan Live Sept. 22,1981**』。
 
 ## 概要
 

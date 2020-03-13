@@ -1,15 +1,15 @@
 > この記事は[ \(ASIAN KUNG-FU GENERATION\)](https://ja.wikipedia.org/wiki/_\(ASIAN_KUNG-FU_GENERATION\))から翻訳されています。
 
 
-「**サイレン**」は、[2004年](../Page/2004年.md "wikilink")[4月14日](../Page/4月14日.md "wikilink")に発売された[ASIAN KUNG-FU GENERATIONの](https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION "wikilink")3枚目の[シングル](../Page/シングル.md "wikilink")。
+「**サイレン**」は、[2004年](../Page/2004年.md "wikilink")[4月14日](../Page/4月14日.md "wikilink")に発売された[ASIAN KUNG-FU GENERATIONの](../Page/ASIAN_KUNG-FU_GENERATION.md "wikilink")3枚目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 解説
 
-「[君という花](https://ja.wikipedia.org/wiki/君という花 "wikilink")」から約半年ぶりとなるシングル。初回限定盤は歌詞カードなどに和紙を用いたものになっている。
+「[君という花](../Page/君という花.md "wikilink")」から約半年ぶりとなるシングル。初回限定盤は歌詞カードなどに和紙を用いたものになっている。
 
 メインA面の「サイレン」は[男性](../Page/男性.md "wikilink")の視点から、c/wの「サイレン\#」は[女性](../Page/女性.md "wikilink")の視点から曲が描かれている。通称として、それぞれ「サイレン（男サイレン）」と「女サイレン」、「サイレン」と「裏サイレン」などと呼ばれる。「\#」は2曲を区別するため便宜上付けられているものであり\[1\]、パッケージや歌詞カードには2曲とも「サイレン」と表記されている。どちらも伴奏などがほぼ同じだが、メロの乗せ方やイントロなどが違っている。 当初は[CCCDとして発売されたが](../Page/コピーコントロールCD.md "wikilink")、現在そちらは廃盤となっている。
 
-[オリコンシングルチャート初登場](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")2位を記録。自身初のトップ10入りを果たした。
+[オリコンシングルチャート初登場](../Page/オリコンチャート.md "wikilink")2位を記録。自身初のトップ10入りを果たした。
 
 ## 収録曲
 
@@ -25,7 +25,7 @@
 ## 収録アルバム
 
   - [ソルファ](../Page/ソルファ.md "wikilink") (\#1、アルバムバージョン)
-  - [フィードバックファイル](https://ja.wikipedia.org/wiki/フィードバックファイル "wikilink") (\#2)
+  - [フィードバックファイル](../Page/フィードバックファイル.md "wikilink") (\#2)
 
 ## 脚注
 

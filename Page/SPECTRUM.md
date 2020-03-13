@@ -5,7 +5,7 @@
 
 ## 概要
 
-[台風](../Page/台風.md "wikilink")の[SEをバックに](https://ja.wikipedia.org/wiki/効果音 "wikilink")[気象情報](https://ja.wikipedia.org/wiki/気象情報 "wikilink")のアナウンスが挿入され、それが終わると同時に曲がスタート。各曲の間にはほとんど空白がなく、一部の曲はクロスフェードしている。
+[台風](../Page/台風.md "wikilink")の[SEをバックに](../Page/効果音.md "wikilink")[気象情報](https://ja.wikipedia.org/wiki/気象情報 "wikilink")のアナウンスが挿入され、それが終わると同時に曲がスタート。各曲の間にはほとんど空白がなく、一部の曲はクロスフェードしている。
 
 [歌詞](../Page/歌詞.md "wikilink")はすべて[片仮名](../Page/片仮名.md "wikilink")と[英語](../Page/英語.md "wikilink")で書かれている。ジャケット裏面のスタッフクレジットでは作詞者として[宮下康仁](https://ja.wikipedia.org/wiki/宮下康仁 "wikilink")と共にSatokichiの名が表記されているが、曲ごとのクレジットでは宮下のみの名義になっている。
 
@@ -15,10 +15,10 @@
 
 1.  **アクト・ショー (ACT-SHOW)**
       -
-        [新田一郎と](../Page/新田一郎_\(ミュージシャン\).md "wikilink")[西慎嗣](https://ja.wikipedia.org/wiki/西慎嗣 "wikilink")のツイン[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")の曲。曲名は「握手しよう」という歌詞から。[少年隊](https://ja.wikipedia.org/wiki/少年隊 "wikilink")がアルバム『PRISM』（1999年）でカバーしている。
+        [新田一郎と](../Page/新田一郎_\(ミュージシャン\).md "wikilink")[西慎嗣](https://ja.wikipedia.org/wiki/西慎嗣 "wikilink")のツイン[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")の曲。曲名は「握手しよう」という歌詞から。[少年隊](../Page/少年隊.md "wikilink")がアルバム『PRISM』（1999年）でカバーしている。
 2.  **ファースト・ウエイブ (FIRST WAVE)**
       -
-        スペクトラムのアルバムには、必ず[インストゥルメンタルの曲が収録されている](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")。その1曲目となった曲。
+        スペクトラムのアルバムには、必ず[インストゥルメンタルの曲が収録されている](../Page/器楽曲.md "wikilink")。その1曲目となった曲。
 3.  **ノー・タイトル (NO TITLE)**
       -
         「ノー・タイトル（無題）」というタイトルの曲。次の曲への繋ぎのような形になっている。
@@ -28,12 +28,12 @@
 5.  **メモリー (MEMORY)**
 6.  **クエッション'81 & '82 (QUESTION '81 & '82)**
       -
-        タイトルは[シカゴの](../Page/シカゴ_\(バンド\).md "wikilink")「QUESTIONS 67 AND 68」の[パロディ](https://ja.wikipedia.org/wiki/パロディ "wikilink")だが、歌詞の内容も曲調もまったくの別物。間奏に「1920、アミューズ・カンパニー」のメロディが挿入される。
+        タイトルは[シカゴの](../Page/シカゴ_\(バンド\).md "wikilink")「QUESTIONS 67 AND 68」の[パロディ](../Page/パロディ.md "wikilink")だが、歌詞の内容も曲調もまったくの別物。間奏に「1920、アミューズ・カンパニー」のメロディが挿入される。
 7.  **パッシング・ドリーム (PASSING DREAM)**
 8.  **トマト・イッパツ (TOMATO IPPATSU)**
       -
         アルバムと同時発売のファーストシングルで、スペクトラムの代表曲。シングルの名前を決定する際、新田一郎が「トマト（というタイトル）一発でいきましょう」と提案した所、勘違いした担当者が「トマト・イッパツ」というタイトルで発表したという逸話がある。
-        後に[少年隊](https://ja.wikipedia.org/wiki/少年隊 "wikilink")はシングル「[デカメロン伝説](https://ja.wikipedia.org/wiki/デカメロン伝説 "wikilink")」（1986年）のイントロにて、[錦織一清](https://ja.wikipedia.org/wiki/錦織一清 "wikilink")のアイデアでこの曲の歌詞の「ワッチコン」を捻ったフレーズ「ワカチコン」を挟み込んでいる。
+        後に[少年隊](../Page/少年隊.md "wikilink")はシングル「[デカメロン伝説](https://ja.wikipedia.org/wiki/デカメロン伝説 "wikilink")」（1986年）のイントロにて、[錦織一清](../Page/錦織一清.md "wikilink")のアイデアでこの曲の歌詞の「ワッチコン」を捻ったフレーズ「ワカチコン」を挟み込んでいる。
 9.  **ロックン・ロール・サーカス (ROCK'N ROLL CIRCUS)**
 10. **1920、アミューズ・カンパニー〜スマイル・フォー・ミー (1920, AMUSE COMPANY〜SMILE FOR ME)**
 11. **トマト・イッパツ (Single Version)**

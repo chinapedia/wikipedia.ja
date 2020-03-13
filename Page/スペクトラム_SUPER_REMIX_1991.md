@@ -5,7 +5,7 @@
 
 ## 概要
 
-[吉田俊之](https://ja.wikipedia.org/wiki/吉田俊之 "wikilink")を中心とする元メンバー自身の手で、新録音を含むリミックスが施されている。この音源を使用した[プロモーションビデオも制作されており](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、これは[2004年](../Page/2004年.md "wikilink")発売の[DVD](../Page/DVD.md "wikilink")『SPECTRUM LIVE TIME BREAK -SPECTRUM 2004-』に収録された。
+[吉田俊之](https://ja.wikipedia.org/wiki/吉田俊之 "wikilink")を中心とする元メンバー自身の手で、新録音を含むリミックスが施されている。この音源を使用した[プロモーションビデオも制作されており](../Page/ミュージック・ビデオ.md "wikilink")、これは[2004年](../Page/2004年.md "wikilink")発売の[DVD](../Page/DVD.md "wikilink")『SPECTRUM LIVE TIME BREAK -SPECTRUM 2004-』に収録された。
 
 ## 収録曲
 

@@ -5,7 +5,7 @@
 
 ## 概要
 
-[1980年代](../Page/1980年代.md "wikilink")半ばから製造された[水冷](https://ja.wikipedia.org/wiki/水冷エンジン "wikilink")[2ストロークエンジンを搭載するロードスポーツのシリーズ商標で](../Page/2ストローク機関.md "wikilink")[排気量](../Page/排気量.md "wikilink")別に50㏄・125㏄・250㏄・400㏄クラスモデルが製造販売されていたが、[自動車排出ガス規制](../Page/自動車排出ガス規制.md "wikilink")の影響により[1999年](../Page/1999年.md "wikilink")にNS-1を最後に現在すべて終了した。
+[1980年代](../Page/1980年代.md "wikilink")半ばから製造された[水冷](../Page/水冷エンジン.md "wikilink")[2ストロークエンジンを搭載するロードスポーツのシリーズ商標で](../Page/2ストローク機関.md "wikilink")[排気量](../Page/排気量.md "wikilink")別に50㏄・125㏄・250㏄・400㏄クラスモデルが製造販売されていたが、[自動車排出ガス規制](../Page/自動車排出ガス規制.md "wikilink")の影響により[1999年](../Page/1999年.md "wikilink")にNS-1を最後に現在すべて終了した。
 
 ## 排気量別モデル解説
 
@@ -22,11 +22,11 @@
 
 型式名TC01。[イタリア](../Page/イタリア.md "wikilink")現地法人の**ホンダ・イタリア・インダストリアーレ**（*HONDA ITALIA INDUSTRIALE S.P.A.*）が製造し、[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")内のみで販売されていたモデルで、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")7月1日から500台限定で日本国内向け仕様を正規輸入し販売することを同年5月11日に発表\[1\]。
 
-[単気筒エンジン](../Page/単気筒エンジン.md "wikilink")の[シリンダー](https://ja.wikipedia.org/wiki/シリンダー "wikilink")は優れた耐摩耗性をもつジラルドーニ製としたほか、フレームはベルリッキ、[キャブレター](../Page/キャブレター.md "wikilink")はデロルト、[マフラーはソルファー](https://ja.wikipedia.org/wiki/マフラー_\(原動機\) "wikilink")、キャストホイールはグリメカ、[タイヤ](../Page/タイヤ.md "wikilink")は[ピレリ](https://ja.wikipedia.org/wiki/ピレリ "wikilink")、リヤショックアブソーバーはマルゾッキとすべてイタリアメーカーによるものとされた\[2\]。
+[単気筒エンジン](../Page/単気筒エンジン.md "wikilink")の[シリンダー](../Page/シリンダー.md "wikilink")は優れた耐摩耗性をもつジラルドーニ製としたほか、フレームはベルリッキ、[キャブレター](../Page/キャブレター.md "wikilink")はデロルト、[マフラーはソルファー](https://ja.wikipedia.org/wiki/マフラー_\(原動機\) "wikilink")、キャストホイールはグリメカ、[タイヤ](../Page/タイヤ.md "wikilink")は[ピレリ](../Page/ピレリ.md "wikilink")、リヤショックアブソーバーはマルゾッキとすべてイタリアメーカーによるものとされた\[2\]。
 
 ### NS250R/F
 
-[Honda_NS250R.jpg](https://ja.wikipedia.org/wiki/File:Honda_NS250R.jpg "fig:Honda_NS250R.jpg")所蔵車\]\] [1984年](../Page/1984年.md "wikilink")4月25日発表、同年5月25日発売\[3\]。フル[カウル](../Page/カウル.md "wikilink")を装着する[レーサーレプリカタイプとしたのが](https://ja.wikipedia.org/wiki/スーパースポーツ "wikilink")**NS250R**、[ネイキッドとしたのが](../Page/ネイキッド_\(オートバイ\).md "wikilink")**NS250F**で型式名は共にMC11。
+[Honda_NS250R.jpg](https://ja.wikipedia.org/wiki/File:Honda_NS250R.jpg "fig:Honda_NS250R.jpg")所蔵車\]\] [1984年](../Page/1984年.md "wikilink")4月25日発表、同年5月25日発売\[3\]。フル[カウル](../Page/カウル.md "wikilink")を装着する[レーサーレプリカタイプとしたのが](../Page/スーパースポーツ.md "wikilink")**NS250R**、[ネイキッドとしたのが](../Page/ネイキッド_\(オートバイ\).md "wikilink")**NS250F**で型式名は共にMC11。
 
 [HRC製レーシングマシン](../Page/ホンダ・レーシング.md "wikilink")[RS250Rと同時開発され](../Page/ホンダ・RS.md "wikilink")、搭載される排気量248㏄のMC11E型90°バンク[V型2気筒](../Page/V型2気筒.md "wikilink")エンジンは[クランクケース](https://ja.wikipedia.org/wiki/クランクケース "wikilink")ならびに内径x行程が同一であるほか、以下の基本設計を共用する\[4\]。
 
@@ -412,7 +412,7 @@
   - [ホンダ・NS500](../Page/ホンダ・NS500.md "wikilink")
   - [ホンダ・NS50F](../Page/ホンダ・NS50F.md "wikilink")
   - [ホンダ・NS-1](../Page/ホンダ・NS-1.md "wikilink")
-  - [ホンダ・NSR](https://ja.wikipedia.org/wiki/ホンダ・NSR "wikilink")
+  - [ホンダ・NSR](../Page/ホンダ・NSR.md "wikilink")
   - [ホンダ・NSR250R](../Page/ホンダ・NSR250R.md "wikilink")
 
 ## 外部リンク

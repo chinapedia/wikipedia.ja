@@ -7,15 +7,15 @@
 
 ## 概要
 
-[音楽CDから](../Page/CD-DA.md "wikilink")[MP3](../Page/MP3.md "wikilink")などの形式でオーディオトラックを[リッピング](https://ja.wikipedia.org/wiki/リッピング "wikilink")したり、楽曲ファイルを管理・再生するいわゆる[ジュークボックス](../Page/ジュークボックス.md "wikilink")ソフトウェアである。
+[音楽CDから](../Page/CD-DA.md "wikilink")[MP3](../Page/MP3.md "wikilink")などの形式でオーディオトラックを[リッピング](../Page/リッピング.md "wikilink")したり、楽曲ファイルを管理・再生するいわゆる[ジュークボックス](../Page/ジュークボックス.md "wikilink")ソフトウェアである。
 
 最初の製品「MP3 BeatJam」は[1999年](../Page/1999年.md "wikilink")に発売された。[2000年](../Page/2000年.md "wikilink")に次のバージョン「MP3 BeatJam X-TREME」を発売。
 
-その後、[Windows Media Playerや](https://ja.wikipedia.org/wiki/Windows_Media_Player "wikilink")[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")など同種のアプリケーションが無償配布されるようになり、有料アプリケーションとしての地位は急速に薄れた。メーカー製パソコンにプリインストールされる需要もほとんど無くなったものの、最新の[音楽配信](../Page/音楽配信.md "wikilink")に対応するなど開発・販売は継続されているほか、機能限定のLE版が無償配布されていた。また、LE版を除く「BeatJam」を既に利用されているユーザーには「Music@Life」へのメンバー登録を条件に、最新バージョンへのアップデートプログラムを無償提供している。
+その後、[Windows Media Playerや](../Page/Windows_Media_Player.md "wikilink")[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")など同種のアプリケーションが無償配布されるようになり、有料アプリケーションとしての地位は急速に薄れた。メーカー製パソコンにプリインストールされる需要もほとんど無くなったものの、最新の[音楽配信](../Page/音楽配信.md "wikilink")に対応するなど開発・販売は継続されているほか、機能限定のLE版が無償配布されていた。また、LE版を除く「BeatJam」を既に利用されているユーザーには「Music@Life」へのメンバー登録を条件に、最新バージョンへのアップデートプログラムを無償提供している。
 
-対応するデバイスの幅が広く、ファイル形式も多岐（[WAV](https://ja.wikipedia.org/wiki/WAV "wikilink")、[WMA](https://ja.wikipedia.org/wiki/Windows_Media_Audio "wikilink")、[MP3](../Page/MP3.md "wikilink")、[ATRAC](https://ja.wikipedia.org/wiki/ATRAC "wikilink")、[AAC](../Page/AAC.md "wikilink")）にわたっている。AAC以外は相互変換に対応している（AACへの変換のみ非対応。また[iTunes Store等で購入したDRM付きAACの再生も非対応](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")）。
+対応するデバイスの幅が広く、ファイル形式も多岐（[WAV](../Page/WAV.md "wikilink")、[WMA](../Page/Windows_Media_Audio.md "wikilink")、[MP3](../Page/MP3.md "wikilink")、[ATRAC](../Page/ATRAC.md "wikilink")、[AAC](../Page/AAC.md "wikilink")）にわたっている。AAC以外は相互変換に対応している（AACへの変換のみ非対応。また[iTunes Store等で購入したDRM付きAACの再生も非対応](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")）。
 
-[2007年](../Page/2007年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")に「BeatJam 2007 /R.3」を配布し「[mora win](https://ja.wikipedia.org/wiki/mora_win "wikilink")」に対応。このため[OpenMG](https://ja.wikipedia.org/wiki/OpenMG "wikilink")と[Windows Media](https://ja.wikipedia.org/wiki/Windows_Media "wikilink") DRMの双方の[DRMに対応した唯一のジュークボックスソフトになった](https://ja.wikipedia.org/wiki/デジタル著作権管理 "wikilink")。またソニーの[SonicStage](https://ja.wikipedia.org/wiki/SonicStage "wikilink")がバージョン5.xからファイル変換機能を削除したため、他の形式からATRAC・ATRAC Advanced Losslessに変換できるソフトはBeatJam（とDRMなしであれば[Sound it\!Ver](../Page/Sound_it!.md "wikilink").5.0以降）のみである。
+[2007年](../Page/2007年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")に「BeatJam 2007 /R.3」を配布し「[mora win](https://ja.wikipedia.org/wiki/mora_win "wikilink")」に対応。このため[OpenMG](https://ja.wikipedia.org/wiki/OpenMG "wikilink")と[Windows Media](https://ja.wikipedia.org/wiki/Windows_Media "wikilink") DRMの双方の[DRMに対応した唯一のジュークボックスソフトになった](../Page/デジタル著作権管理.md "wikilink")。またソニーの[SonicStage](https://ja.wikipedia.org/wiki/SonicStage "wikilink")がバージョン5.xからファイル変換機能を削除したため、他の形式からATRAC・ATRAC Advanced Losslessに変換できるソフトはBeatJam（とDRMなしであれば[Sound it\!Ver](../Page/Sound_it!.md "wikilink").5.0以降）のみである。
 
 RoomStylePlayerやMiniPlayerなど、プレイヤーもバリエーションがある。RoomStylePlayerでは、全画面表示にて、モーショングラフィックと共に音楽を楽しめ、リモコンでの操作も可能である。また、プレイヤー以外にDLNA関連のユーティリティソフトとしての側面も持っており、Beatjam Network ServerではBeatJamをインストールしているパソコンを[DLNA](https://ja.wikipedia.org/wiki/DLNA "wikilink")のサーバーソフトにできる。ATRACに対応するDLNAサーバーソフトとしては唯一、ソフトが単独で販売されている（もう一つの対応クライアントであるVAIO Mediaは「[VAIO](../Page/VAIO.md "wikilink")」、一部のソニー製オーディオシステムに付属するのみ）。またBeatJam Network PlayerではDLNAクライアントソフトとしてネットワーク上のDLNAサーバーから曲を再生できる。
 

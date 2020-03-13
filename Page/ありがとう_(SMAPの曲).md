@@ -1,7 +1,7 @@
 > この記事は[ \(SMAP\)](https://ja.wikipedia.org/wiki/_\(SMAP\))から翻訳されています。
 
 
-「**ありがとう**」は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の40枚目の[シングル](../Page/シングル.md "wikilink")である。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月11日](../Page/10月11日.md "wikilink")に[ビクターエンタテインメントから](https://ja.wikipedia.org/wiki/JVCケンウッド・ビクターエンタテインメント "wikilink")[発売](https://ja.wikipedia.org/wiki/発売 "wikilink")された。
+「**ありがとう**」は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の40枚目の[シングル](../Page/シングル.md "wikilink")である。[2006年](../Page/2006年.md "wikilink")[10月11日](../Page/10月11日.md "wikilink")に[ビクターエンタテインメントから](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")[発売](https://ja.wikipedia.org/wiki/発売 "wikilink")された。
 
 ## 概要
 
@@ -11,24 +11,24 @@
 
 草彅主演のドラマとの相乗効果からミリオンを予想する記事まであり、前評判は大きいものであった\[1\]\[2\]。『オリコン芸能人事典』の作品紹介では「大切な人たちへのメッセージを歌うハートウォーミングな曲」と評している\[3\]。またオリコンの調査では「父の日に贈りたい曲」として、男女別、世代別、学生と社会人全てのランキングにおいて1位を獲得した\[4\]。
 
-[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")は全体を通してアニメーションで構成されており、1つの物語になっている。内容はSMAPが10匹の[アリ](https://ja.wikipedia.org/wiki/アリ "wikilink")を連れて飛行船に乗り、月へ冒険に行くというもの(アリが10匹(トウ)にかけている)。
+[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")は全体を通してアニメーションで構成されており、1つの物語になっている。内容はSMAPが10匹の[アリ](https://ja.wikipedia.org/wiki/アリ "wikilink")を連れて飛行船に乗り、月へ冒険に行くというもの(アリが10匹(トウ)にかけている)。
 
 ## チャート成績
 
-  - 初動売上で約17.1万枚\[5\]を記録し、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月23日](../Page/10月23日.md "wikilink")付[オリコン週間シングルチャートで初登場首位を獲得した](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")。SMAPにとって同チャートでの1位獲得は「[freebird](https://ja.wikipedia.org/wiki/freebird "wikilink")」から7作連続、通算18作目となった。また、TOP10入りはデビューから40作連続となり、連続TOP10獲得作品数で[B'z](../Page/B'z.md "wikilink")が保持していた39作連続の記録を抜き、単独1位（当時）。通算TOP10獲得作品数が40作に達したのは、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")に次ぐ3組目である。達成に要した期間はデビューから15年1か月で、ZARDの15年3か月を上回り史上最速で達成した（いずれも2016年12月9日現在）。
-  - 累計売上は34.7万枚（[オリコン調べ](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")）。
+  - 初動売上で約17.1万枚\[5\]を記録し、[2006年](../Page/2006年.md "wikilink")[10月23日](../Page/10月23日.md "wikilink")付[オリコン週間シングルチャートで初登場首位を獲得した](../Page/オリコンチャート.md "wikilink")。SMAPにとって同チャートでの1位獲得は「[freebird](https://ja.wikipedia.org/wiki/freebird "wikilink")」から7作連続、通算18作目となった。また、TOP10入りはデビューから40作連続となり、連続TOP10獲得作品数で[B'z](../Page/B'z.md "wikilink")が保持していた39作連続の記録を抜き、単独1位（当時）。通算TOP10獲得作品数が40作に達したのは、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")に次ぐ3組目である。達成に要した期間はデビューから15年1か月で、ZARDの15年3か月を上回り史上最速で達成した（いずれも2016年12月9日現在）。
+  - 累計売上は34.7万枚（[オリコン調べ](../Page/オリコンチャート.md "wikilink")）。
 
 ## 収録曲
 
 1.  **ありがとう**
       -
-        作詞・作曲：[MORISHIN](https://ja.wikipedia.org/wiki/MORISHIN "wikilink")S' / 編曲：REO
+        作詞・作曲：[MORISHIN](../Page/MORISHIN.md "wikilink")S' / 編曲：REO
     <!-- end list -->
       - [草彅剛主演](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink") [関西テレビ](../Page/関西テレビ放送.md "wikilink")・[フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[僕の歩く道](../Page/僕の歩く道.md "wikilink")』主題歌
       - [TBS系](../Page/TBSテレビ.md "wikilink")\[6\]『[リオオリンピック2016](https://ja.wikipedia.org/wiki/リオデジャネイロオリンピック "wikilink")』テーマソング\[7\]
 2.  **show your smile**
       -
-        作詞：大智 / 作曲：大智、[宮崎誠](https://ja.wikipedia.org/wiki/宮崎誠 "wikilink") / 編曲：[森大輔](https://ja.wikipedia.org/wiki/森大輔_\(シンガーソングライター\) "wikilink")
+        作詞：大智 / 作曲：大智、[宮崎誠](https://ja.wikipedia.org/wiki/宮崎誠 "wikilink") / 編曲：[森大輔](../Page/森大輔_\(シンガーソングライター\).md "wikilink")
 3.  ありがとう（back track）
 4.  show your smile（back track）
 
@@ -51,7 +51,7 @@
   - 『[2006 FNS歌謡祭](https://ja.wikipedia.org/wiki/2006_FNS歌謡祭 "wikilink")』（2006年12月6日、フジテレビ）
       -
         番組の大トリで披露。
-  - 『[第57回 NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第57回NHK紅白歌合戦 "wikilink")』（2006年12月31日、[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")）
+  - 『[第57回 NHK紅白歌合戦](../Page/第57回NHK紅白歌合戦.md "wikilink")』（2006年12月31日、[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")）
       -
         曲の中盤で同番組の瞬間最高視聴率48.8%を記録（歌手別では2年連続4度目で最多）。
   - 『[カミスン\!](https://ja.wikipedia.org/wiki/カミスン! "wikilink")』（2011年8月22日、TBS）
@@ -75,7 +75,7 @@
 
 <!-- end list -->
 
-  - [ひばり児童合唱団](https://ja.wikipedia.org/wiki/ひばり児童合唱団 "wikilink")（2009年発売の[コンピレーション・アルバム](https://ja.wikipedia.org/wiki/コンピレーション・アルバム "wikilink")『手紙・まあるいいのち〜卒業&合唱ソングコレクション〜』に収録。
+  - [ひばり児童合唱団](https://ja.wikipedia.org/wiki/ひばり児童合唱団 "wikilink")（2009年発売の[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")『手紙・まあるいいのち〜卒業&合唱ソングコレクション〜』に収録。
 
 ## 購買運動
 

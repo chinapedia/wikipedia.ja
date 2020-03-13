@@ -1,17 +1,17 @@
 > この記事は[JAM Project](https://ja.wikipedia.org/wiki/JAM_Project)から翻訳されています。
 
 
-**JAM Project**（ジャム・プロジェクト）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[アニメソング](https://ja.wikipedia.org/wiki/アニメソング "wikilink")[歌手グループ](../Page/音楽ユニット.md "wikilink")。略称は「JAM（ジャム）」「JAMプロ（ジャムプロ）」など。所属[レコード会社](https://ja.wikipedia.org/wiki/レコード会社 "wikilink")は[バンダイナムコアーツ](https://ja.wikipedia.org/wiki/バンダイナムコアーツ "wikilink")（[ランティス](https://ja.wikipedia.org/wiki/ランティス "wikilink")レーベル）である。数々の[アニメ](../Page/アニメ.md "wikilink")・[ゲーム](../Page/ゲーム.md "wikilink")・[特撮](../Page/特撮.md "wikilink")ソングを担当している。
+**JAM Project**（ジャム・プロジェクト）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[アニメソング](https://ja.wikipedia.org/wiki/アニメソング "wikilink")[歌手グループ](../Page/音楽ユニット.md "wikilink")。略称は「JAM（ジャム）」「JAMプロ（ジャムプロ）」など。所属[レコード会社](../Page/レコード会社.md "wikilink")は[バンダイナムコアーツ](https://ja.wikipedia.org/wiki/バンダイナムコアーツ "wikilink")（[ランティス](../Page/ランティス.md "wikilink")レーベル）である。数々の[アニメ](../Page/アニメ.md "wikilink")・[ゲーム](../Page/ゲーム.md "wikilink")・[特撮](../Page/特撮.md "wikilink")ソングを担当している。
 
 ## 概要
 
-[水木一郎](../Page/水木一郎.md "wikilink")の「21世紀へ古き良き“アニソン魂”を残したい」という呼びかけによって、結成された。この背景には、結成当時のアニメ・ゲーム主題歌等に話題の[アーティストによる](https://ja.wikipedia.org/wiki/芸能人 "wikilink")、およそ作品内容にそぐわない[タイアップ](https://ja.wikipedia.org/wiki/タイアップ "wikilink")曲（アニメ・ゲームソングは全て作品とアーティストによるタイアップである）が起用されるという風潮に疑問を感じた事が挙げられる。
+[水木一郎](../Page/水木一郎.md "wikilink")の「21世紀へ古き良き“アニソン魂”を残したい」という呼びかけによって、結成された。この背景には、結成当時のアニメ・ゲーム主題歌等に話題の[アーティストによる](https://ja.wikipedia.org/wiki/芸能人 "wikilink")、およそ作品内容にそぐわない[タイアップ](../Page/タイアップ.md "wikilink")曲（アニメ・ゲームソングは全て作品とアーティストによるタイアップである）が起用されるという風潮に疑問を感じた事が挙げられる。
 
 正式名称は「（ジャパン・アニメーションソング・メイカーズ・プロジェクト）」である。
 
-初期メンバーに[ANTHEM](https://ja.wikipedia.org/wiki/ANTHEM "wikilink")や[アニメタル](https://ja.wikipedia.org/wiki/アニメタル "wikilink")で活躍していた、[さかもとえいぞうがいた事や](https://ja.wikipedia.org/wiki/坂本英三 "wikilink")、ハード路線で活動していた[レイジー](../Page/レイジー.md "wikilink")の影等の影響が強く、多くの楽曲は[ジャパニーズ・ヘヴィメタルや](https://ja.wikipedia.org/wiki/ジャパニーズ・メタル "wikilink")[ハードロック](../Page/ハードロック.md "wikilink")にかなり近い。ライヴもテンションが高く、ヘヴィメタルのライヴの熱気に近い。バックバンド経験者も[河野陽吾](../Page/河野陽吾.md "wikilink")、[樋口宗孝](https://ja.wikipedia.org/wiki/樋口宗孝 "wikilink")、[そうる透](../Page/そうる透.md "wikilink")、[横関敦](https://ja.wikipedia.org/wiki/横関敦 "wikilink")、[寺沢功一](../Page/寺沢功一.md "wikilink")、[福田洋也](../Page/福田洋也.md "wikilink")、[ヌーノ・ベッテンコート](../Page/ヌーノ・ベッテンコート.md "wikilink")、[高崎晃](https://ja.wikipedia.org/wiki/高崎晃 "wikilink")等、ハードロックやヘヴィメタルに関係する人物が多数存在する。
+初期メンバーに[ANTHEM](../Page/ANTHEM.md "wikilink")や[アニメタル](../Page/アニメタル.md "wikilink")で活躍していた、[さかもとえいぞうがいた事や](../Page/坂本英三.md "wikilink")、ハード路線で活動していた[レイジー](../Page/レイジー.md "wikilink")の影等の影響が強く、多くの楽曲は[ジャパニーズ・ヘヴィメタルや](../Page/ジャパニーズ・メタル.md "wikilink")[ハードロック](../Page/ハードロック.md "wikilink")にかなり近い。ライヴもテンションが高く、ヘヴィメタルのライヴの熱気に近い。バックバンド経験者も[河野陽吾](../Page/河野陽吾.md "wikilink")、[樋口宗孝](../Page/樋口宗孝.md "wikilink")、[そうる透](../Page/そうる透.md "wikilink")、[横関敦](https://ja.wikipedia.org/wiki/横関敦 "wikilink")、[寺沢功一](../Page/寺沢功一.md "wikilink")、[福田洋也](../Page/福田洋也.md "wikilink")、[ヌーノ・ベッテンコート](../Page/ヌーノ・ベッテンコート.md "wikilink")、[高崎晃](../Page/高崎晃.md "wikilink")等、ハードロックやヘヴィメタルに関係する人物が多数存在する。
 
-プロデューサーは[井上俊次](https://ja.wikipedia.org/wiki/井上俊次 "wikilink")（ランティス代表でレイジーの[キーボーディスト](https://ja.wikipedia.org/wiki/キーボーディスト "wikilink")）である。
+プロデューサーは[井上俊次](../Page/井上俊次.md "wikilink")（ランティス代表でレイジーの[キーボーディスト](../Page/キーボーディスト.md "wikilink")）である。
 
 最近では、世界を周るツアーや[アニメタルUSA](https://ja.wikipedia.org/wiki/アニメタルUSA "wikilink")との共同ライブを行う等、日本だけではなく世界でも活躍をしている。
 
@@ -19,11 +19,11 @@
 
 **現在のレギュラーメンバー**
 
-  - [影山ヒロノブ](https://ja.wikipedia.org/wiki/影山ヒロノブ "wikilink")（初期〜）
-  - [遠藤正明](https://ja.wikipedia.org/wiki/遠藤正明 "wikilink")（初期〜）
-  - [きただにひろし](https://ja.wikipedia.org/wiki/きただにひろし "wikilink")（2002年6月加入）
+  - [影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink")（初期〜）
+  - [遠藤正明](../Page/遠藤正明.md "wikilink")（初期〜）
+  - [きただにひろし](../Page/きただにひろし.md "wikilink")（2002年6月加入）
   - [奥井雅美](../Page/奥井雅美.md "wikilink")（2003年3月加入）
-  - [福山芳樹](https://ja.wikipedia.org/wiki/福山芳樹 "wikilink")（2003年3月加入）
+  - [福山芳樹](../Page/福山芳樹.md "wikilink")（2003年3月加入）
 
 **準レギュラーメンバー**
 
@@ -33,13 +33,13 @@
 
   - [水木一郎](../Page/水木一郎.md "wikilink")（初期〜2002年8月「非常勤宣言」）
   - [松本梨香](https://ja.wikipedia.org/wiki/松本梨香 "wikilink")（初期〜2008年4月「活動休止宣言」）
-  - [さかもとえいぞう](https://ja.wikipedia.org/wiki/坂本英三 "wikilink")（初期〜2003年3月「卒業」）
+  - [さかもとえいぞう](../Page/坂本英三.md "wikilink")（初期〜2003年3月「卒業」）
 
 ## 年譜
 
 **2000年**
 
-  - 7月17日 [渋谷Egg-manにて](https://ja.wikipedia.org/wiki/Shibuya_eggman "wikilink")、水木一郎・影山ヒロノブ・松本梨香・さかもとえいぞう・遠藤正明の初期メンバーでJAM Project設立記者会見が行われる。結成当初は『[THE夜もヒッパレ](https://ja.wikipedia.org/wiki/THE夜もヒッパレ "wikilink")』（[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")）にも何度か出演していた。
+  - 7月17日 [渋谷Egg-manにて](../Page/Shibuya_eggman.md "wikilink")、水木一郎・影山ヒロノブ・松本梨香・さかもとえいぞう・遠藤正明の初期メンバーでJAM Project設立記者会見が行われる。結成当初は『[THE夜もヒッパレ](../Page/THE夜もヒッパレ.md "wikilink")』（[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")）にも何度か出演していた。
 
 **2002年**
 
@@ -62,7 +62,7 @@
 
 **2008年**
 
-  - [アニメディア](https://ja.wikipedia.org/wiki/アニメディア "wikilink")の創刊27周年記念企画として、アルバムのレコーディングにコーラスで参加してもらう人を選ぶ「No Borderオーディション」が開催される。
+  - [アニメディア](../Page/アニメディア.md "wikilink")の創刊27周年記念企画として、アルバムのレコーディングにコーラスで参加してもらう人を選ぶ「No Borderオーディション」が開催される。
   - 1月23日 アニメ・ゲーム等のタイアップでは無い初のオリジナルシングル「No Border」が発売される。
   - 2月11日 「JAPAN FLIGHT 2008 No Border 名古屋公演」の帰りの新幹線で、JAM Projectのメンバー・スタッフが、車内でビールを飲んだ後に車内を暴走し大声で騒ぐなどをして乗客に迷惑をかけたとの指摘を受け、公式サイト掲示板にてリーダー影山が謝罪する事件があった。\[1\]
   - 3月2日 「JAPAN FLIGHT 2008 No Border 東京公演」のアンコールの登場の際に福山芳樹が転倒をし右鎖骨を骨折する。以降の公演も怪我をした状態で参加した。
@@ -82,11 +82,11 @@
   - 4月30日 JAM Projectの「Only One」北京語バージョンが中国2010年[上海国際博覧会](https://ja.wikipedia.org/wiki/上海国際博覧会 "wikilink")2009年度ベスト曲に決定する。
   - 6月9日 「[MAXIMIZER 〜Decade of Evolution〜](https://ja.wikipedia.org/wiki/MAXIMIZER_〜Decade_of_Evolution〜 "wikilink")」が発売され、香港・韓国・台湾と海外でも3公演が決定する。
   - 6月26日〜27日 上記MAXIMIZERツアーにて奥井雅美が[急性声帯炎](https://ja.wikipedia.org/wiki/急性声帯炎 "wikilink")を患ったため、ドクターストップにより26日の栃木公演と27日の[仙台公演を欠席した](../Page/仙台市.md "wikilink")\[3\]。その2公演は奥井を除く男性4人で行い、奥井のパートはメンバー全員が分けて担当した。
-  - 9月17日 MAXIMIZERツアー武道館公演一日目にて[水木一郎](../Page/水木一郎.md "wikilink")・[さかもとえいぞう](https://ja.wikipedia.org/wiki/坂本英三 "wikilink")・[ヒカルド・クルーズ](../Page/ヒカルド・クルーズ.md "wikilink")がゲスト出演した。さかもとがJAM Projectのライブツアーに参加するのは「JAM second mission EVOLUTION」以来8年ぶりである。
+  - 9月17日 MAXIMIZERツアー武道館公演一日目にて[水木一郎](../Page/水木一郎.md "wikilink")・[さかもとえいぞう](../Page/坂本英三.md "wikilink")・[ヒカルド・クルーズ](../Page/ヒカルド・クルーズ.md "wikilink")がゲスト出演した。さかもとがJAM Projectのライブツアーに参加するのは「JAM second mission EVOLUTION」以来8年ぶりである。
 
 **2011年**
 
-  - 1月25日・30日 [カタール](https://ja.wikipedia.org/wiki/カタール "wikilink")で開催された[AFCアジアカップ2011](../Page/AFCアジアカップ2011.md "wikilink")準決勝日本対韓国戦（1月25日）及び決勝日本対オーストラリア戦（1月30日）において「VICTORY」が日本代表勝利BGMとして使用された\[4\]\[5\]。この選曲は[アジアサッカー連盟](../Page/アジアサッカー連盟.md "wikilink")の担当者によるものだという\[6\]。この件について1月30日にJAM Projectの公式ページにおいて「とても光栄に思っています」と、JAM Projectから[サッカー日本代表](https://ja.wikipedia.org/wiki/サッカー日本代表 "wikilink")へ祝福のコメントが掲載された\[7\]。
+  - 1月25日・30日 [カタール](../Page/カタール.md "wikilink")で開催された[AFCアジアカップ2011](../Page/AFCアジアカップ2011.md "wikilink")準決勝日本対韓国戦（1月25日）及び決勝日本対オーストラリア戦（1月30日）において「VICTORY」が日本代表勝利BGMとして使用された\[4\]\[5\]。この選曲は[アジアサッカー連盟](../Page/アジアサッカー連盟.md "wikilink")の担当者によるものだという\[6\]。この件について1月30日にJAM Projectの公式ページにおいて「とても光栄に思っています」と、JAM Projectから[サッカー日本代表](../Page/サッカー日本代表.md "wikilink")へ祝福のコメントが掲載された\[7\]。
   - 7月9日より毎週 「週刊 MUSIC PUNCH」内のコーナーで「GO\! GO\! GOING\! Radio」というラジオ番組を行っており、メンバーの遠藤がDJを務めていた。毎週各メンバーがゲストで登場し、雑談を行う番組であった。番組当初はツアー終了で終わる予定だったが、2013年3月まで続くこととなった。2013年1月から番組がリニューアルされ、DJが交代制となった。
   - 10月22日より 「JAM Project LIVE 2011〜2012 GO\! GO\! GOING\!\!〜不滅のZIPANG〜/ARIGATO TOMODACHI」ツアーを開始した。
 
@@ -126,7 +126,7 @@
 
 **2016年**
 
-  - 6月29日に4枚目となるオリジナルアルバム「AREA Z」をリリース。また、このアルバムタイトルを冠したライブツアーが、7月30日の[滋賀県立文化産業交流会館](https://ja.wikipedia.org/wiki/滋賀県立文化産業交流会館 "wikilink")より開始。8年ぶりに[上海](https://ja.wikipedia.org/wiki/上海 "wikilink")での単独コンサートを行った。また、このツアーでは写真撮影が許可された（ただし、[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")及び[携帯電話](../Page/携帯電話.md "wikilink")のみでの撮影とし、MCや[アコースティック](https://ja.wikipedia.org/wiki/アコースティック "wikilink")コーナー、[アンコール](https://ja.wikipedia.org/wiki/アンコール "wikilink")での撮影及びライブ全体を通しての録画・録音は禁止されている）\[11\]。
+  - 6月29日に4枚目となるオリジナルアルバム「AREA Z」をリリース。また、このアルバムタイトルを冠したライブツアーが、7月30日の[滋賀県立文化産業交流会館](https://ja.wikipedia.org/wiki/滋賀県立文化産業交流会館 "wikilink")より開始。8年ぶりに[上海](https://ja.wikipedia.org/wiki/上海 "wikilink")での単独コンサートを行った。また、このツアーでは写真撮影が許可された（ただし、[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")及び[携帯電話](../Page/携帯電話.md "wikilink")のみでの撮影とし、MCや[アコースティック](https://ja.wikipedia.org/wiki/アコースティック "wikilink")コーナー、[アンコール](../Page/アンコール.md "wikilink")での撮影及びライブ全体を通しての録画・録音は禁止されている）\[11\]。
   - 11月23日、スマートフォン向けアプリケーション『JAM Project 「MOTTO \! MOTTO \!\! App」』を配信開始。
 
 **2017年**
@@ -851,19 +851,19 @@ LACM-14855（アニメ盤）</p></td>
 
 | 時期                                           | 楽曲                                                                                                                                                         | タイアップ                                                                                                                                     |
 | -------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 2000年                                        | 疾風になれ                                                                                                                                                      | OVA『[エクスドライバー](https://ja.wikipedia.org/wiki/エクスドライバー "wikilink")』OP主題歌                                                                   |
+| 2000年                                        | 疾風になれ                                                                                                                                                      | OVA『[エクスドライバー](../Page/エクスドライバー.md "wikilink")』OP主題歌                                                                                      |
 | CRAZY REVOLUTION                             | OVA『エクスドライバー』挿入歌                                                                                                                                           |                                                                                                                                           |
 | Danger Zone                                  | 劇場版アニメ『エクスドライバーClip』主題歌                                                                                                                                    |                                                                                                                                           |
-| STORM                                        | OVA『[真ゲッターロボ対ネオゲッターロボ](https://ja.wikipedia.org/wiki/真ゲッターロボ対ネオゲッターロボ "wikilink")』OP主題歌                                                                    |                                                                                                                                           |
+| STORM                                        | OVA『[真ゲッターロボ対ネオゲッターロボ](../Page/真ゲッターロボ対ネオゲッターロボ.md "wikilink")』OP主題歌                                                                                       |                                                                                                                                           |
 | RISING                                       | OVA『真ゲッターロボ対ネオゲッターロボ』ED主題歌                                                                                                                                 |                                                                                                                                           |
-| 2001年                                        | SOULTAKER                                                                                                                                                  | TVアニメ『[The Soul Taker 〜魂狩〜](https://ja.wikipedia.org/wiki/The_Soul_Taker_〜魂狩〜 "wikilink")』OP主題歌                                           |
+| 2001年                                        | SOULTAKER                                                                                                                                                  | TVアニメ『[The Soul Taker 〜魂狩〜](../Page/The_Soul_Taker_〜魂狩〜.md "wikilink")』OP主題歌                                                              |
 | 鋼の救世主                                        | PSゲーム『[スーパーロボット大戦α外伝](../Page/スーパーロボット大戦α外伝.md "wikilink")』OP主題歌                                                                                           |                                                                                                                                           |
 | POWER                                        | PSゲーム『スーパーロボット大戦α外伝』ED主題歌                                                                                                                                  |                                                                                                                                           |
 | FIRE WARS                                    | OVA『[マジンカイザー](../Page/マジンカイザー.md "wikilink")』OP主題歌                                                                                                         |                                                                                                                                           |
 | TORNADO                                      | OVA『マジンカイザー』ED主題歌                                                                                                                                          |                                                                                                                                           |
-| CRUSH GEAR FIGHT                             |                                                                                                                                                            | TVアニメ『[激闘\!クラッシュギアTURBO](https://ja.wikipedia.org/wiki/激闘!クラッシュギアTURBO "wikilink")』OP主題歌                                                  |
+| CRUSH GEAR FIGHT                             |                                                                                                                                                            | TVアニメ『[激闘\!クラッシュギアTURBO](../Page/激闘!クラッシュギアTURBO.md "wikilink")』OP主題歌                                                                     |
 | 愛だよねっ                                        | 〜ギアをつなごう〜                                                                                                                                                  | TVアニメ『激闘\!クラッシュギアTURBO』ED主題歌                                                                                                              |
-| Over the Top\!                               | PS2ゲーム『[機甲武装Gブレイカー 〜レジェンド・オブ・クラウディア〜](https://ja.wikipedia.org/wiki/機甲武装Gブレイカー "wikilink")』OP主題歌                                                           |                                                                                                                                           |
+| Over the Top\!                               | PS2ゲーム『[機甲武装Gブレイカー 〜レジェンド・オブ・クラウディア〜](../Page/機甲武装Gブレイカー.md "wikilink")』OP主題歌                                                                              |                                                                                                                                           |
 | In my Heart                                  | PS2ゲーム『機甲武装Gブレイカー 〜レジェンド・オブ・クラウディア〜』ED主題歌                                                                                                                  |                                                                                                                                           |
 | LADY FIGHTER\!                               | PS2ゲーム『[サンライズ英雄譚2](https://ja.wikipedia.org/wiki/サンライズ英雄譚2 "wikilink")』OP主題歌                                                                               |                                                                                                                                           |
 | 運命の糸                                         | PS2ゲーム『サンライズ英雄譚2』ED主題歌                                                                                                                                     |                                                                                                                                           |
@@ -873,12 +873,12 @@ LACM-14855（アニメ盤）</p></td>
 | DEPARTURE                                    | PS2ゲーム『スーパーロボット大戦IMPACT』ED主題歌                                                                                                                              |                                                                                                                                           |
 | GET UP CRUSH FIGHTER\!                       | 劇場版アニメ『[激闘\!クラッシュギアTURBO 〜カイザーバーンの挑戦\!〜](https://ja.wikipedia.org/wiki/激闘!クラッシュギアTURBO#劇場版 "wikilink")』挿入歌                                                 |                                                                                                                                           |
 | Alright now\! (Movie Remix Version)          | 劇場版アニメ『激闘\!クラッシュギアTORBO 〜カイザバーンの挑戦〜』主題歌                                                                                                                    |                                                                                                                                           |
-| 嘆きのロザリオ                                      | TVアニメ『[超重神グラヴィオン](https://ja.wikipedia.org/wiki/超重神グラヴィオン "wikilink")』OP主題歌                                                                                |                                                                                                                                           |
+| 嘆きのロザリオ                                      | TVアニメ『[超重神グラヴィオン](../Page/超重神グラヴィオン.md "wikilink")』OP主題歌                                                                                                   |                                                                                                                                           |
 | 合神\! ゴッドグラヴィオン                               | TVアニメ『超重神グラヴィオン』挿入歌                                                                                                                                        |                                                                                                                                           |
-| 2003年                                        | Go\! Go\! レスキュー                                                                                                                                            | TVアニメ『[出撃\!マシンロボレスキュー](https://ja.wikipedia.org/wiki/出撃!マシンロボレスキュー "wikilink")』OP主題歌                                                      |
+| 2003年                                        | Go\! Go\! レスキュー                                                                                                                                            | TVアニメ『[出撃\!マシンロボレスキュー](../Page/出撃!マシンロボレスキュー.md "wikilink")』OP主題歌                                                                         |
 | マーチ・オブ・レスキューヒーロー                             | TVアニメ『出撃\!マシンロボレスキュー』ED主題歌                                                                                                                                 |                                                                                                                                           |
 | Little Wing                                  | TVアニメ『[スクラップド・プリンセス](../Page/スクラップド・プリンセス.md "wikilink")』OP主題歌                                                                                             |                                                                                                                                           |
-| In the Chaos                                 | TVアニメ『[ギャラクシーエンジェル](https://ja.wikipedia.org/wiki/ギャラクシーエンジェル_\(アニメ\) "wikilink")（第3期）』グランドED主題歌                                                           |                                                                                                                                           |
+| In the Chaos                                 | TVアニメ『[ギャラクシーエンジェル](../Page/ギャラクシーエンジェル_\(アニメ\).md "wikilink")（第3期）』グランドED主題歌                                                                              |                                                                                                                                           |
 | SKILL                                        | PS2ゲーム『[第2次スーパーロボット大戦α](../Page/第2次スーパーロボット大戦α.md "wikilink")』OP主題歌                                                                                        |                                                                                                                                           |
 | FOREVER & EVER                               | PS2ゲーム『第2次スーパーロボット大戦α』ED主題歌                                                                                                                                |                                                                                                                                           |
 | The Gate of the Hell                         | OVA『[マジンカイザー 〜死闘\!暗黒大将軍〜](https://ja.wikipedia.org/wiki/マジンカイザー_死闘!暗黒大将軍 "wikilink")』OP主題歌                                                                 |                                                                                                                                           |
@@ -890,9 +890,9 @@ LACM-14855（アニメ盤）</p></td>
 | 炎皇合神\! ソルグラヴィオン                              |                                                                                                                                                            | TVアニメ『超重神グラヴィオンツヴァイ』挿入歌                                                                                                                   |
 | VICTORY                                      | PS2ゲーム『[スーパーロボット大戦MX](../Page/スーパーロボット大戦MX.md "wikilink")』OP主題歌                                                                                            |                                                                                                                                           |
 | 約束の地                                         | PS2ゲーム『スーパーロボット大戦MX』ED主題歌                                                                                                                                  |                                                                                                                                           |
-| DRAGON                                       | OVA『[新ゲッターロボ](https://ja.wikipedia.org/wiki/新ゲッターロボ "wikilink")』OP主題歌                                                                                      |                                                                                                                                           |
+| DRAGON                                       | OVA『[新ゲッターロボ](../Page/新ゲッターロボ.md "wikilink")』OP主題歌                                                                                                         |                                                                                                                                           |
 | No Serenity                                  | OVA『新ゲッターロボ』ED主題歌                                                                                                                                          |                                                                                                                                           |
-| VOYAGER                                      | TVアニメ『[パンダーゼット](https://ja.wikipedia.org/wiki/パンダーゼット "wikilink")』OP主題歌                                                                                    |                                                                                                                                           |
+| VOYAGER                                      | TVアニメ『[パンダーゼット](../Page/パンダーゼット.md "wikilink")』OP主題歌                                                                                                       |                                                                                                                                           |
 | VOYAGER (instrumental)                       | TVアニメ『パンダーゼット』ED曲                                                                                                                                          |                                                                                                                                           |
 | 限界バトル                                        | TVアニメ『[遊☆戯☆王デュエルモンスターズGX](../Page/遊☆戯☆王デュエルモンスターズGX.md "wikilink")』ED主題歌                                                                                   |                                                                                                                                           |
 | 2005年                                        | 未来への咆哮                                                                                                                                                     | PCゲーム『[マブラヴ オルタネイティヴ](../Page/マブラヴ_オルタネイティヴ.md "wikilink")』挿入歌                                                                            |
@@ -900,7 +900,7 @@ LACM-14855（アニメ盤）</p></td>
 | 熱風\! 疾風\! サイバスター                             | OVA『スーパーロボット大戦ORIGINAL GENERATION THE ANIMATION』挿入歌                                                                                                        |                                                                                                                                           |
 | GONG                                         | PS2ゲーム『[第3次スーパーロボット大戦α 終焉の銀河へ](../Page/第3次スーパーロボット大戦α_終焉の銀河へ.md "wikilink")』OP主題歌                                                                          |                                                                                                                                           |
 | Brother in Faith                             | PS2ゲーム『第3次スーパーロボット大戦α 終焉の銀河へ』ED主題歌                                                                                                                         |                                                                                                                                           |
-| 2006年                                        | 牙狼 〜SAVIOR IN THE DARK〜                                                                                                                                    | TVドラマ『[牙狼〈GARO〉](https://ja.wikipedia.org/wiki/牙狼-GARO- "wikilink")』OP主題歌                                                                 |
+| 2006年                                        | 牙狼 〜SAVIOR IN THE DARK〜                                                                                                                                    | TVドラマ『[牙狼〈GARO〉](../Page/牙狼-GARO-.md "wikilink")』OP主題歌                                                                                    |
 | エンブレム〜名も無き英雄達へ〜                              | テレビアニメ『[よみがえる空 -RESCUE WINGS-](https://ja.wikipedia.org/wiki/よみがえる空_-RESCUE_WINGS- "wikilink")』エンディングテーマ                                                   |                                                                                                                                           |
 | CLOWN                                        | テレビアニメ『よみがえる空 -RESCUE WINGS-』挿入歌                                                                                                                           |                                                                                                                                           |
 | 青くなれ                                         | テレビアニメ『よみがえる空 -RESCUE WINGS-』挿入歌                                                                                                                           |                                                                                                                                           |
@@ -942,7 +942,7 @@ LACM-14855（アニメ盤）</p></td>
 | NOAH                                         | PSPゲーム『[第2次スーパーロボット大戦Z 破界篇](https://ja.wikipedia.org/wiki/第2次スーパーロボット大戦Z "wikilink")』OP主題歌                                                                 |                                                                                                                                           |
 | 願い                                           | PSPゲーム『第2次スーパーロボット大戦Z 破界篇』ED主題歌                                                                                                                            |                                                                                                                                           |
 | 流星Lovers                                     | TVアニメ『スーパーロボット大戦OG -ジ・インスペクター-』新OP主題歌                                                                                                                      |                                                                                                                                           |
-| 弾劾の剣                                         | パチスロ『[超重神グラヴィオン](https://ja.wikipedia.org/wiki/超重神グラヴィオン "wikilink")』テーマソング                                                                                |                                                                                                                                           |
+| 弾劾の剣                                         | パチスロ『[超重神グラヴィオン](../Page/超重神グラヴィオン.md "wikilink")』テーマソング                                                                                                   |                                                                                                                                           |
 | ヒカリへのカウントダウン                                 | [グッドスマイルカンパニー](../Page/グッドスマイルカンパニー.md "wikilink")『創立10周年記念』ソング・CMソング                                                                                      |                                                                                                                                           |
 | 風を追う兵士の歌                                     | OVA『[戦場のヴァルキュリア3 誰がための銃瘡](https://ja.wikipedia.org/wiki/戦場のヴァルキュリア3#主題歌 "wikilink")』挿入歌                                                                    |                                                                                                                                           |
 | Believe in my existence                      | TVアニメ『カードファイト                                                                                                                                              | ヴァンガード』後期OP主題歌                                                                                                                            |
@@ -1062,7 +1062,7 @@ LACM-14855（アニメ盤）</p></td>
 </div>
 </div></td>
 <td><p>全1公演<br />
-11月24日 <a href="https://ja.wikipedia.org/wiki/Shibuya_O-EAST" title="wikilink">SHIBUYA ON AIR EAST</a></p>
+11月24日 <a href="../Page/Shibuya_O-EAST.md" title="wikilink">SHIBUYA ON AIR EAST</a></p>
 </div>
 </div></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -1081,7 +1081,7 @@ LACM-14855（アニメ盤）</p></td>
 遠藤正明<br />
 きただにひろし</p></td>
 <td><p>全1公演<br />
-8月10日 <a href="https://ja.wikipedia.org/wiki/SHIBUYA-AX" title="wikilink">SHIBUYA-AX</a></p>
+8月10日 <a href="../Page/SHIBUYA-AX.md" title="wikilink">SHIBUYA-AX</a></p>
 </div>
 </div></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -1131,7 +1131,7 @@ Ikuo(Bass)<br />
 </div>
 </div></td>
 <td><p>全1公演<br />
-9月28日 <a href="https://ja.wikipedia.org/wiki/渋谷公会堂" title="wikilink">渋谷公会堂</a></p></td>
+9月28日 <a href="../Page/渋谷公会堂.md" title="wikilink">渋谷公会堂</a></p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
 </div>
@@ -1296,7 +1296,7 @@ Ikuo(Bass)<br />
 <p>Ikuo(Bass)<br />
 <a href="https://ja.wikipedia.org/wiki/MACARONI☆" title="wikilink">MACARONI☆</a>(Guitar)<br />
 TAKEO(Guitar)<br />
-<a href="https://ja.wikipedia.org/wiki/寺田志保" title="wikilink">寺田志保</a>(Keyboards)<br />
+<a href="../Page/寺田志保.md" title="wikilink">寺田志保</a>(Keyboards)<br />
 <a href="https://ja.wikipedia.org/wiki/青山英樹" title="wikilink">青山英樹</a>(Drums)</p>
 </div>
 </div></td>
@@ -1308,7 +1308,7 @@ TAKEO(Guitar)<br />
 <p>2月2日 <a href="../Page/戸田市文化会館.md" title="wikilink">戸田市文化会館</a>（ヒカルド出演）<br />
 2月11日 <a href="https://ja.wikipedia.org/wiki/Zepp_Nagoya" title="wikilink">Zepp Nagoya</a>（ヒカルド出演）<br />
 2月16日、2月17日 NHK大阪ホール（ヒカルド出演）<br />
-3月2日 <a href="https://ja.wikipedia.org/wiki/NHKホール" title="wikilink">東京NHKホール</a>（ヒカルド出演）<br />
+3月2日 <a href="../Page/NHKホール.md" title="wikilink">東京NHKホール</a>（ヒカルド出演）<br />
 3月20日 <a href="https://ja.wikipedia.org/wiki/大阪フェスティバルホール" title="wikilink">大阪フェスティバルホール</a><br />
 4月3日 東京NHKホール</p>
 </div>
@@ -1362,7 +1362,7 @@ Gate of the Future</p></td>
 5月4日 Zepp Sapporo<br />
 5月6日 Zepp Sendai<br />
 5月16日 <a href="https://ja.wikipedia.org/wiki/韓国MELON_AX" title="wikilink">韓国MELON AX</a><br />
-5月23日 <a href="https://ja.wikipedia.org/wiki/新潟県民会館" title="wikilink">新潟県民会館</a>大ホール（ヒカルド出演）<br />
+5月23日 <a href="../Page/新潟県民会館.md" title="wikilink">新潟県民会館</a>大ホール（ヒカルド出演）<br />
 5月30日、5月31日 <a href="../Page/国立台湾大学.md" title="wikilink">台湾大学体育館</a>（ヒカルド出演）<br />
 6月12日 <a href="../Page/日本武道館.md" title="wikilink">日本武道館</a>（ヒカルド出演）</p>
 </div>
@@ -1403,7 +1403,7 @@ TAKEO(Guitar)<br />
 7月4日 <a href="../Page/アステールプラザ.md" title="wikilink">広島アステールプラザ大ホール</a><br />
 7月11日 Zepp Fukuoka<br />
 7月17日、7月18日 NHK大阪ホール<br />
-7月19日 <a href="https://ja.wikipedia.org/wiki/神戸国際会館" title="wikilink">神戸国際会館</a>こくさいホール<br />
+7月19日 <a href="../Page/神戸国際会館.md" title="wikilink">神戸国際会館</a>こくさいホール<br />
 7月24日 新潟県民会館大ホール<br />
 7月25日 <a href="../Page/静岡市民文化会館.md" title="wikilink">静岡市民文化会館</a>中ホール<br />
 8月21日 <a href="https://ja.wikipedia.org/wiki/台北板橋市立体育館" title="wikilink">台北板橋市立体育館</a><br />
@@ -1557,9 +1557,9 @@ THUMB RISE AGAIN<br />
 11月16日 <a href="https://ja.wikipedia.org/wiki/オリンパスホール八王子" title="wikilink">オリンパスホール八王子</a><br />
 11月24日 <a href="../Page/愛知県芸術劇場.md" title="wikilink">愛知県芸術劇場</a>大ホール<br />
 11月30日 <a href="https://ja.wikipedia.org/wiki/Zepp_Fukuoka" title="wikilink">Zepp Fukuoka</a><br />
-12月1日 <a href="https://ja.wikipedia.org/wiki/神戸国際会館" title="wikilink">神戸国際会館</a>こくさいホール<br />
+12月1日 <a href="../Page/神戸国際会館.md" title="wikilink">神戸国際会館</a>こくさいホール<br />
 12月8日 <a href="https://ja.wikipedia.org/wiki/仙台サンプラザホール" title="wikilink">仙台サンプラザホール</a><br />
-12月14日 <a href="https://ja.wikipedia.org/wiki/大阪府立国際会議場" title="wikilink">グランキューブ大阪メインホール</a><br />
+12月14日 <a href="../Page/大阪府立国際会議場.md" title="wikilink">グランキューブ大阪メインホール</a><br />
 12月15日 <a href="https://ja.wikipedia.org/wiki/BLUE_LIVE_HIROSHIMA" title="wikilink">BLUE LIVE HIROSHIMA</a><br />
 12月23日 <a href="https://ja.wikipedia.org/wiki/Zepp_Sapporo" title="wikilink">Zepp Sapporo</a><br />
 12月28日 <a href="https://ja.wikipedia.org/wiki/栃木県総合文化センター" title="wikilink">栃木県総合文化センター</a>メインホール<br />
@@ -1624,9 +1624,9 @@ TAKEO(Guitar)<br />
 9月3日 上海 <a href="https://ja.wikipedia.org/wiki/浅水湾文化芸術中心_Q.HALL" title="wikilink">浅水湾文化芸術中心 Q.HALL</a><br />
 9月10日 <a href="https://ja.wikipedia.org/wiki/ベイシア文化ホール" title="wikilink">ベイシア文化ホール</a> 大ホール<br />
 9月11日 <a href="https://ja.wikipedia.org/wiki/相模女子大学グリーンホール" title="wikilink">相模女子大学グリーンホール</a><br />
-9月21日 <a href="https://ja.wikipedia.org/wiki/府中の森芸術劇場" title="wikilink">府中の森芸術劇場</a> どりーむホール<br />
+9月21日 <a href="../Page/府中の森芸術劇場.md" title="wikilink">府中の森芸術劇場</a> どりーむホール<br />
 9月22日 <a href="https://ja.wikipedia.org/wiki/須坂市文化会館" title="wikilink">須坂市文化会館</a> メセナホール<br />
-10月1日 <a href="https://ja.wikipedia.org/wiki/名古屋市公会堂" title="wikilink">名古屋市公会堂</a><br />
+10月1日 <a href="../Page/名古屋市公会堂.md" title="wikilink">名古屋市公会堂</a><br />
 10月8日 台北 <a href="https://ja.wikipedia.org/wiki/ATT_SHOW_BOX" title="wikilink">ATT SHOW BOX</a><br />
 10月15日 ソウル <a href="https://ja.wikipedia.org/wiki/Yes24_LIVE_HALL" title="wikilink">Yes24 LIVE HALL</a>（AX-KOREA）<br />
 11月6日 香港 <a href="https://ja.wikipedia.org/wiki/MacPherson_Stadium" title="wikilink">MacPherson Stadium</a><br />
@@ -1658,7 +1658,7 @@ TAKEO(Guitar)<br />
 </div>
 <div class="NavContent" style="text-align:center;">
 <p>11月2日 <a href="https://ja.wikipedia.org/wiki/川崎市スポーツ_文化総合センター" title="wikilink">川崎市スポーツ 文化総合センター</a><br />
-11月5日 <a href="https://ja.wikipedia.org/wiki/大阪府立国際会議場" title="wikilink">グランキューブ大阪</a><br />
+11月5日 <a href="../Page/大阪府立国際会議場.md" title="wikilink">グランキューブ大阪</a><br />
 11月23日 <a href="https://ja.wikipedia.org/wiki/トークネットホール仙台" title="wikilink">仙台市民会館</a><br />
 11月25日 <a href="https://ja.wikipedia.org/wiki/Zepp_Sapporo" title="wikilink">Zepp Sapporo</a><br />
 2018年1月6日 <a href="https://ja.wikipedia.org/wiki/岸和田市立浪切ホール" title="wikilink">岸和田市立浪切ホール</a><br />
@@ -1693,8 +1693,8 @@ TAKEO(Guitar)<br />
 <p>全4会場6公演</p>
 </div>
 <div class="NavContent" style="text-align:center;">
-<p>2018年5月11日 <a href="https://ja.wikipedia.org/wiki/中国" title="wikilink">中国</a> <a href="https://ja.wikipedia.org/wiki/広州" title="wikilink">広州</a> <a href="https://ja.wikipedia.org/wiki/蓓蕾劇院" title="wikilink">蓓蕾劇院</a><br />
-5月13日 <a href="https://ja.wikipedia.org/wiki/中国" title="wikilink">中国</a> <a href="https://ja.wikipedia.org/wiki/成都" title="wikilink">成都</a> <a href="https://ja.wikipedia.org/wiki/聚空间" title="wikilink">聚空间</a><br />
+<p>2018年5月11日 <a href="../Page/中国.md" title="wikilink">中国</a> <a href="https://ja.wikipedia.org/wiki/広州" title="wikilink">広州</a> <a href="https://ja.wikipedia.org/wiki/蓓蕾劇院" title="wikilink">蓓蕾劇院</a><br />
+5月13日 <a href="../Page/中国.md" title="wikilink">中国</a> <a href="https://ja.wikipedia.org/wiki/成都" title="wikilink">成都</a> <a href="https://ja.wikipedia.org/wiki/聚空间" title="wikilink">聚空间</a><br />
 5月26日、5月27日 <a href="https://ja.wikipedia.org/wiki/台湾" title="wikilink">台湾</a> <a href="https://ja.wikipedia.org/wiki/Legacy_Taipei" title="wikilink">Legacy Taipei</a><br />
 6月23日、6月24日 <a href="https://ja.wikipedia.org/wiki/韓国" title="wikilink">韓国</a> <a href="https://ja.wikipedia.org/wiki/Universal_Art_Center" title="wikilink">Universal Art Center</a></p>
 </div>
@@ -1736,25 +1736,25 @@ TAKEO(Guitar)<br />
 
   - ランティスPresents JAM Projectの[キャララジオ](../Page/キャララジオ.md "wikilink")（2006年・全4回）
   - ランティスPresents JAM Projectのキャララジオ出張版（2006年）
-  - JAM Project Power of Noborder（2007年 - 2008年、[A\&G 超RADIO SHOW〜アニスパ\!〜内コーナー](https://ja.wikipedia.org/wiki/A&G_超RADIO_SHOW〜アニスパ!〜 "wikilink")）
+  - JAM Project Power of Noborder（2007年 - 2008年、[A\&G 超RADIO SHOW〜アニスパ\!〜内コーナー](../Page/A&G_超RADIO_SHOW〜アニスパ!〜.md "wikilink")）
   - JAM Projectの『GO\! GO\! GOING\! Radio』（2011年 - 2013年、[Date FM他](https://ja.wikipedia.org/wiki/Date_FM "wikilink")『週刊MUSIC PANCH\!』内コーナー・2013年、[超A\&G+](https://ja.wikipedia.org/wiki/超A&G+ "wikilink")）\[19\]
   - bayfm Starting STYLE\!\! 〜Countdown to Lantis matsuri〜（2019年 - 、[bayfm](../Page/ベイエフエム.md "wikilink")）
 
 ### テレビ
 
   - JAM Project Live『震撼〜Return to The Chaos 〜in 渋谷公会堂』([テレビ朝日](../Page/テレビ朝日.md "wikilink")、2003年11月22日放送)
-  - JAM Project Live 2008-No Border- 第一興商スターカラオケversion([第一興商スターカラオケ](https://ja.wikipedia.org/wiki/第一興商スターカラオケ "wikilink")、2008年5月5日放送)
+  - JAM Project Live 2008-No Border- 第一興商スターカラオケversion([第一興商スターカラオケ](../Page/第一興商スターカラオケ.md "wikilink")、2008年5月5日放送)
   - JAM Project Live 2008-No Border- キッズステーションversion([キッズステーション](../Page/キッズステーション.md "wikilink")、2008年5月6日放送)
   - [MUSIC JAPAN 新世紀アニソンSP.2](https://ja.wikipedia.org/wiki/MUSIC_JAPAN_新世紀アニソンSP "wikilink")（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")、2010年1月10日・2月13日・3月8日）出演
   - [MUSIC JAPAN 新世紀アニソンSP.4](https://ja.wikipedia.org/wiki/MUSIC_JAPAN_新世紀アニソンSP "wikilink")（NHK、2011年1月16日・3月6日・6月3日）出演
   - [アニソ〜ンぷらす](https://ja.wikipedia.org/wiki/アニソ〜ンぷらす "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、2010年9月14日）出演
   - [ノンフィクションW](https://ja.wikipedia.org/wiki/ノンフィクションW "wikilink")「No Border ANISON 〜世界に響く、ニッポンの歌〜」([WOWOW](../Page/WOWOW.md "wikilink")、2010年11月29日初回放送)
   - めざましテレビ([フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、2011年11月17日出演)
-  - JAM Project Special〜GO\!GO\!GOING\!\!〜([MUSIC ON\! TV](https://ja.wikipedia.org/wiki/MUSIC_ON!_TV "wikilink")、2011年12月17日初回放送)
-  - JAM Project アコースティックスペシャルroad to 武道館([第一興商スターカラオケ](https://ja.wikipedia.org/wiki/第一興商スターカラオケ "wikilink")、2012年1月2日初回放送)
+  - JAM Project Special〜GO\!GO\!GOING\!\!〜([MUSIC ON\! TV](../Page/MUSIC_ON!_TV.md "wikilink")、2011年12月17日初回放送)
+  - JAM Project アコースティックスペシャルroad to 武道館([第一興商スターカラオケ](../Page/第一興商スターカラオケ.md "wikilink")、2012年1月2日初回放送)
   - JAM Project LIVE GO\!GO\!GOING\!\!〜不滅のZIPANG〜 前編([キッズステーション](../Page/キッズステーション.md "wikilink")、2012年1月10日初回放送)
   - JAM Project LIVE GO\!GO\!GOING\!\!〜不滅のZIPANG〜 後編(キッズステーション、2012年1月17日初回放送)
-  - [J-MELO](https://ja.wikipedia.org/wiki/J-MELO "wikilink")（[NHKワールドTV](https://ja.wikipedia.org/wiki/NHKワールドTV "wikilink")、2012年12月19日ほか）
+  - [J-MELO](../Page/J-MELO.md "wikilink")（[NHKワールドTV](../Page/NHKワールドTV.md "wikilink")、2012年12月19日ほか）
   - ランティス15周年記念特番 〜アニソン業界で走り続ける人たち〜（2014年1月 TOKYO MXほか）
   - TOKYOアニメパーク15th Anniversary Live ランティス祭り（2014年11月3日 [フジテレビNEXT](https://ja.wikipedia.org/wiki/フジテレビNEXT "wikilink")）
   - アニメソング史上最大の祭典〜アニメロサマーライブ2014〜 Vol.1『1st Day 前編』（2014年11月16日 [NHK BSプレミアム](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")）
@@ -1796,7 +1796,7 @@ TAKEO(Guitar)<br />
 11. [JAM Project Tour 2016 「JAM Project LIVE TOUR 2016 〜AREA Z〜」写真撮影初解禁！！！](http://jamjamsite.com/news/6977) JAM Project公式サイト 2016年7月27日
 12. 当初予定の9月27日から延期。
 13. [JAM Projectアルバム『TOKYO DIVE』発売延期のお知らせ](http://jamjamsite.com/news/8127) JAM Project公式サイト 2017年7月21日
-14. [i☆Ris](https://ja.wikipedia.org/wiki/i☆Ris "wikilink")、[井上あずみ](https://ja.wikipedia.org/wiki/井上あずみ "wikilink")、[Wake Up, Girls\!](https://ja.wikipedia.org/wiki/Wake_Up,_Girls!_\(声優ユニット\) "wikilink")、[内田真礼](https://ja.wikipedia.org/wiki/内田真礼 "wikilink")、[串田アキラ](https://ja.wikipedia.org/wiki/串田アキラ "wikilink")、[GRANRODEO](../Page/GRANRODEO.md "wikilink")、[ささきいさお](https://ja.wikipedia.org/wiki/ささきいさお "wikilink")、[下野紘](https://ja.wikipedia.org/wiki/下野紘 "wikilink")、[鈴木このみ](https://ja.wikipedia.org/wiki/鈴木このみ "wikilink")、[鈴村健一](../Page/鈴村健一.md "wikilink")、[竹達彩奈](../Page/竹達彩奈.md "wikilink")、[茅原実里](https://ja.wikipedia.org/wiki/茅原実里 "wikilink")、[TRUE](https://ja.wikipedia.org/wiki/唐沢美帆 "wikilink")、[豊永利行](https://ja.wikipedia.org/wiki/豊永利行 "wikilink")、[中川翔子](../Page/中川翔子.md "wikilink")、[羽多野渉](https://ja.wikipedia.org/wiki/羽多野渉 "wikilink")、[堀江美都子](../Page/堀江美都子.md "wikilink")、[水木一郎](../Page/水木一郎.md "wikilink")、[Minami](https://ja.wikipedia.org/wiki/Minami "wikilink")、[三森すずこ](https://ja.wikipedia.org/wiki/三森すずこ "wikilink")、[May'n](../Page/May'n.md "wikilink")、[米倉千尋](https://ja.wikipedia.org/wiki/米倉千尋 "wikilink")とともに参加。
+14. [i☆Ris](https://ja.wikipedia.org/wiki/i☆Ris "wikilink")、[井上あずみ](../Page/井上あずみ.md "wikilink")、[Wake Up, Girls\!](https://ja.wikipedia.org/wiki/Wake_Up,_Girls!_\(声優ユニット\) "wikilink")、[内田真礼](https://ja.wikipedia.org/wiki/内田真礼 "wikilink")、[串田アキラ](../Page/串田アキラ.md "wikilink")、[GRANRODEO](../Page/GRANRODEO.md "wikilink")、[ささきいさお](../Page/ささきいさお.md "wikilink")、[下野紘](../Page/下野紘.md "wikilink")、[鈴木このみ](https://ja.wikipedia.org/wiki/鈴木このみ "wikilink")、[鈴村健一](../Page/鈴村健一.md "wikilink")、[竹達彩奈](../Page/竹達彩奈.md "wikilink")、[茅原実里](https://ja.wikipedia.org/wiki/茅原実里 "wikilink")、[TRUE](../Page/唐沢美帆.md "wikilink")、[豊永利行](../Page/豊永利行.md "wikilink")、[中川翔子](../Page/中川翔子.md "wikilink")、[羽多野渉](../Page/羽多野渉.md "wikilink")、[堀江美都子](../Page/堀江美都子.md "wikilink")、[水木一郎](../Page/水木一郎.md "wikilink")、[Minami](https://ja.wikipedia.org/wiki/Minami "wikilink")、[三森すずこ](https://ja.wikipedia.org/wiki/三森すずこ "wikilink")、[May'n](../Page/May'n.md "wikilink")、[米倉千尋](https://ja.wikipedia.org/wiki/米倉千尋 "wikilink")とともに参加。
 15. 大阪公演では「Little Wing（アコースティック Ver.）」。
 16. 札幌を除く国内公演を担当。
 17. 海外公演・札幌公演のみ担当。

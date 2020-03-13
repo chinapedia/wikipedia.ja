@@ -13,10 +13,10 @@
 
 1.  **So Into You** -Original Mix-
       - 作詞：倖田來未、作曲：[阿部靖広](https://ja.wikipedia.org/wiki/阿部靖広 "wikilink")、編曲：[h-wonder](https://ja.wikipedia.org/wiki/h-wonder "wikilink")
-      - テレビ東京系「[JAPAN COUNTDOWN](https://ja.wikipedia.org/wiki/JAPAN_COUNTDOWN "wikilink")」オープニングテーマ
-      - TBS系「[ランク王国](https://ja.wikipedia.org/wiki/ランク王国 "wikilink")」オープニングテーマ（2・3月度）
+      - テレビ東京系「[JAPAN COUNTDOWN](../Page/JAPAN_COUNTDOWN.md "wikilink")」オープニングテーマ
+      - TBS系「[ランク王国](../Page/ランク王国.md "wikilink")」オープニングテーマ（2・3月度）
 2.  **COLOR OF SOUL** -Dub’s Guitar of Soul Remix-
-      - 作詞：[渡辺なつみ](../Page/渡辺なつみ_\(作詞家\).md "wikilink")、作曲：[渡辺未来](https://ja.wikipedia.org/wiki/渡辺未来 "wikilink")
+      - 作詞：[渡辺なつみ](../Page/渡辺なつみ_\(作詞家\).md "wikilink")、作曲：[渡辺未来](../Page/渡辺未来.md "wikilink")
 3.  **TAKE BACK** -Blackwatch Remix-
       - 作詞：倖田來未、作曲：[菊池一仁](../Page/菊池一仁.md "wikilink")
 4.  **So Into You** -instrumental-

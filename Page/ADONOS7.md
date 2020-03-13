@@ -25,7 +25,7 @@
 
 ## 関連項目
 
-  - [J6](https://ja.wikipedia.org/wiki/J6 "wikilink") - [中央競馬](https://ja.wikipedia.org/wiki/中央競馬 "wikilink")の騎手によるユニット
+  - [J6](https://ja.wikipedia.org/wiki/J6 "wikilink") - [中央競馬](../Page/中央競馬.md "wikilink")の騎手によるユニット
   - [トーキョーベイパイレーツ](https://ja.wikipedia.org/wiki/トーキョーベイパイレーツ "wikilink") - [競艇選手](https://ja.wikipedia.org/wiki/競艇選手 "wikilink")のユニット
 
 [Category:日本の騎手](https://ja.wikipedia.org/wiki/Category:日本の騎手 "wikilink") [Category:地方競馬全国協会の騎手](https://ja.wikipedia.org/wiki/Category:地方競馬全国協会の騎手 "wikilink") [Category:地方競馬](https://ja.wikipedia.org/wiki/Category:地方競馬 "wikilink") [Category:競馬の名数](https://ja.wikipedia.org/wiki/Category:競馬の名数 "wikilink") [Category:日本の名数7](https://ja.wikipedia.org/wiki/Category:日本の名数7 "wikilink")

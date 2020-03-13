@@ -1,12 +1,12 @@
 > この記事は[SAYONARA \(ORANGE RANGE\)](https://ja.wikipedia.org/wiki/SAYONARA_\(ORANGE_RANGE\))から翻訳されています。
 
 
-「**SAYONARA**」（さよなら）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の [ミクスチャー](https://ja.wikipedia.org/wiki/ミクスチャー・ロック "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[ORANGE RANGEの通算](../Page/ORANGE_RANGE.md "wikilink")15枚目の[シングル](../Page/シングル.md "wikilink")。
+「**SAYONARA**」（さよなら）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の [ミクスチャー](../Page/ミクスチャー・ロック.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[ORANGE RANGEの通算](../Page/ORANGE_RANGE.md "wikilink")15枚目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 解説
 
   - 前作「[UN ROCK STAR](../Page/UN_ROCK_STAR.md "wikilink")」から約2ヶ月ぶりのリリース。
-  - 12枚目のシングル「[キズナ](../Page/キズナ_\(ORANGE_RANGEの曲\).md "wikilink")」以来のドラマ[タイアップ](https://ja.wikipedia.org/wiki/タイアップ "wikilink")曲。
+  - 12枚目のシングル「[キズナ](../Page/キズナ_\(ORANGE_RANGEの曲\).md "wikilink")」以来のドラマ[タイアップ](../Page/タイアップ.md "wikilink")曲。
   - この作品から、ジャケットに「ORANGE RANGE」のロゴが描かれなくなった。
   - 別れ道の右側を見ると、地面のひびがハートの形になっている。また、CDを取った中身の絵を直角に右に傾けると、地面の上にあるひびの形がRになる。
   - YAMATOのクレジットの欄には「ヒッピーHAPPYファルセットVOX」と書かれている。
@@ -28,7 +28,7 @@
         実はタイトルから先につけられた。
         書き下ろしではなく、レコーディングされたものをドラマの担当者が気に入ってのタイアップとなった。また、「[music.jp](https://ja.wikipedia.org/wiki/music.jp "wikilink")」のTVCMで使われていた。
         ライブツアーでは、HIROKIが[アコースティックギター](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink")で演奏することもある。
-        [PVは](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")[ユースケ・サンタマリア](../Page/ユースケ・サンタマリア.md "wikilink")と[羽田実加](../Page/羽田実加.md "wikilink")出演の9分以上に及ぶ大作となっており、メンバーは出演していない。ちなみにこの撮影の際、ユースケはアドリブを連発していた。また、NAOTOが「ドラマのような作品 (PV) に挑戦してみたかった」とインタビューで発言している。
+        [PVは](../Page/ミュージック・ビデオ.md "wikilink")[ユースケ・サンタマリア](../Page/ユースケ・サンタマリア.md "wikilink")と[羽田実加](../Page/羽田実加.md "wikilink")出演の9分以上に及ぶ大作となっており、メンバーは出演していない。ちなみにこの撮影の際、ユースケはアドリブを連発していた。また、NAOTOが「ドラマのような作品 (PV) に挑戦してみたかった」とインタビューで発言している。
 2.  **YARISUGI マンボウ**
       -
         何事もやりすぎてしまう日本人に対してのメッセージが込められている。

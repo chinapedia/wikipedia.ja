@@ -59,7 +59,7 @@
 <!-- end list -->
 
   - SUNSHINE SAKAE presents RADIO SPLASH（[SKE48](https://ja.wikipedia.org/wiki/SKE48 "wikilink")との出演・2011年3月からで石本は卒業）
-  - [モーニング・グルーブ](https://ja.wikipedia.org/wiki/モーニング・グルーブ "wikilink")（月曜-金曜6:00 - 8:55）
+  - [モーニング・グルーブ](../Page/モーニング・グルーブ.md "wikilink")（月曜-金曜6:00 - 8:55）
   - [マジカル・サーフィン](https://ja.wikipedia.org/wiki/マジカル・サーフィン "wikilink")（月曜-木曜18:00 - 21:00）
   - [ラジマルフライデイ](https://ja.wikipedia.org/wiki/ラジマルフライデイ "wikilink")（金曜11:30 - 14:55）2011年4月～2014年3月
   - ラジマル\!\!（月〜木9:00-11:00、金9:00-10:45） 2014年4月～2015年3月

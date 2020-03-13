@@ -1,13 +1,13 @@
 > この記事は[Avex presents ](https://ja.wikipedia.org/wiki/Avex_presents_)から翻訳されています。
 
 
-**avex presents 茅原実里のいけないラジオ**（エイベックスプレゼンツ ちはらみのりのいけないラジオ）は、『[A\&G 超RADIO SHOW〜アニスパ\!〜](https://ja.wikipedia.org/wiki/A&G_超RADIO_SHOW〜アニスパ!〜 "wikilink")』の[内包番組として](https://ja.wikipedia.org/wiki/フロート番組 "wikilink")[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[5月7日](../Page/5月7日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")にかけて放送された[アニラジ](../Page/アニラジ.md "wikilink")番組。
+**avex presents 茅原実里のいけないラジオ**（エイベックスプレゼンツ ちはらみのりのいけないラジオ）は、『[A\&G 超RADIO SHOW〜アニスパ\!〜](../Page/A&G_超RADIO_SHOW〜アニスパ!〜.md "wikilink")』の[内包番組として](../Page/フロート番組.md "wikilink")[2005年](../Page/2005年.md "wikilink")[5月7日](../Page/5月7日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")にかけて放送された[アニラジ](../Page/アニラジ.md "wikilink")番組。
 
-また、この番組が終わって半年後の[10月6日](../Page/10月6日.md "wikilink")から[10月27日](../Page/10月27日.md "wikilink")まで同じくアニスパ内包番組『茅原実里のあなたとContact』も放送されていた（こちらは[Lantis提供](https://ja.wikipedia.org/wiki/ランティス "wikilink")）。
+また、この番組が終わって半年後の[10月6日](../Page/10月6日.md "wikilink")から[10月27日](../Page/10月27日.md "wikilink")まで同じくアニスパ内包番組『茅原実里のあなたとContact』も放送されていた（こちらは[Lantis提供](../Page/ランティス.md "wikilink")）。
 
 ## 放送時間
 
-  - 2005年5月〜[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")9月 毎週[土曜日](../Page/土曜日.md "wikilink") 21:45～21:55
+  - 2005年5月〜[2006年](../Page/2006年.md "wikilink")9月 毎週[土曜日](../Page/土曜日.md "wikilink") 21:45～21:55
   - 2006年10月〜[2007年](../Page/2007年.md "wikilink")3月 毎週土曜日 21:15 - 21:25
 
 箱番組のため時間変更・休止あり
@@ -35,14 +35,14 @@
         「教えて\! 茅原大辞典」のお題が全てことわざのコーナー。リスナーが、あることわざの途中までを教え、その続きと意味を茅原が答える。制限時間は30秒。辞典は引かない。
   - 教えて\! 茅原大辞典
       -
-        一般常識がない茅原がリスナーから出された一般常識について脳内茅原辞典を駆使して全力を尽くして答えるというコーナー。制限時間は30秒。茅原の回答後に[三省堂](https://ja.wikipedia.org/wiki/三省堂 "wikilink")の[国語辞典](../Page/国語辞典.md "wikilink")で答える。
+        一般常識がない茅原がリスナーから出された一般常識について脳内茅原辞典を駆使して全力を尽くして答えるというコーナー。制限時間は30秒。茅原の回答後に[三省堂](../Page/三省堂.md "wikilink")の[国語辞典](../Page/国語辞典.md "wikilink")で答える。
   - 実里が叫ぶ
       -
         リスナーの心の叫びを茅原実里が叫ぶコーナー。コーナーの最後に茅原自身の心の叫びも叫ぶ。
 
 ## ゲスト
 
-  - [アニスパ\!](https://ja.wikipedia.org/wiki/A&G_超RADIO_SHOW〜アニスパ!〜 "wikilink") 第79回 [川澄綾子](../Page/川澄綾子.md "wikilink")
+  - [アニスパ\!](../Page/A&G_超RADIO_SHOW〜アニスパ!〜.md "wikilink") 第79回 [川澄綾子](../Page/川澄綾子.md "wikilink")
 
 ## 関連項目
 

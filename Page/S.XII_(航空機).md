@@ -3,7 +3,7 @@
 
 {{ Infobox 航空機 | 名称=  | 画像= | キャプション= | 用途=[戦闘機](../Page/戦闘機.md "wikilink") | 分類= | 設計者= [スパッド社](../Page/SPAD_\(航空機メーカー\).md "wikilink") | 製造者= スパッド社 | 運用者= | 運用者 more=
 
-  -   - [フランス空軍](https://ja.wikipedia.org/wiki/フランス空軍 "wikilink")
+  -   - [フランス空軍](../Page/フランス空軍.md "wikilink")
 
       - [22x20px](https://ja.wikipedia.org/wiki/ファイル:Naval_Ensign_of_the_United_Kingdom.svg "wikilink") [イギリス海軍](../Page/イギリス海軍.md "wikilink")
 
@@ -11,11 +11,11 @@
 
 ## 概要
 
-S.XIIは、スパッド社の開発した最初の本格的な成功した[軍用機](../Page/軍用機.md "wikilink")であったS.VIIの最後の戦闘機型の派生型機であった。機体には、通常の[ヴィッカース](../Page/ヴィッカース.md "wikilink")[機銃に加えて](../Page/機関銃.md "wikilink")、37 mmの大口径[機関砲](https://ja.wikipedia.org/wiki/機関砲 "wikilink")が[モーターカノン](https://ja.wikipedia.org/wiki/モーターカノン "wikilink")方式で装備されていた。大方の機体は220 [馬力](../Page/馬力.md "wikilink")の[イスパノ・スイザ 8Cb](https://ja.wikipedia.org/wiki/イスパノ・スイザ_8 "wikilink")[エンジン](../Page/エンジン.md "wikilink")を搭載していたが、一部の機体は若干非力なイスパノ･スイザ 8Becを搭載していた。
+S.XIIは、スパッド社の開発した最初の本格的な成功した[軍用機](../Page/軍用機.md "wikilink")であったS.VIIの最後の戦闘機型の派生型機であった。機体には、通常の[ヴィッカース](../Page/ヴィッカース.md "wikilink")[機銃に加えて](../Page/機関銃.md "wikilink")、37 mmの大口径[機関砲](../Page/機関砲.md "wikilink")が[モーターカノン](https://ja.wikipedia.org/wiki/モーターカノン "wikilink")方式で装備されていた。大方の機体は220 [馬力](../Page/馬力.md "wikilink")の[イスパノ・スイザ 8Cb](https://ja.wikipedia.org/wiki/イスパノ・スイザ_8 "wikilink")[エンジン](../Page/エンジン.md "wikilink")を搭載していたが、一部の機体は若干非力なイスパノ･スイザ 8Becを搭載していた。
 
 S.XIIの試作機は、[1917年](../Page/1917年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink")に初飛行に成功した。その後、300 機が製造された。少数が[イギリス海軍](../Page/イギリス海軍.md "wikilink")に納入されたが、これらの機体は[フロートを履いた](https://ja.wikipedia.org/wiki/浮き "wikilink")[水上戦闘機型であった](../Page/水上機.md "wikilink")。
 
-S.VIIの開発作業は戦後も継続され、最終的な発展型は[1923年](../Page/1923年.md "wikilink")に初飛行した[練習機](https://ja.wikipedia.org/wiki/練習機 "wikilink")、[SPAD 62と](https://ja.wikipedia.org/wiki/SPAD_62 "wikilink")[SPAD 72となった](https://ja.wikipedia.org/wiki/SPAD_72 "wikilink")。S.VIIシリーズの運用は、本国フランスでは[1923年](../Page/1923年.md "wikilink")まで続けられた。
+S.VIIの開発作業は戦後も継続され、最終的な発展型は[1923年](../Page/1923年.md "wikilink")に初飛行した[練習機](../Page/練習機.md "wikilink")、[SPAD 62と](https://ja.wikipedia.org/wiki/SPAD_62 "wikilink")[SPAD 72となった](https://ja.wikipedia.org/wiki/SPAD_72 "wikilink")。S.VIIシリーズの運用は、本国フランスでは[1923年](../Page/1923年.md "wikilink")まで続けられた。
 
 ## スペック
 
@@ -37,7 +37,7 @@ S.VIIの開発作業は戦後も継続され、最終的な発展型は[1923年]
 
 ## 運用国
 
-  - [フランス](https://ja.wikipedia.org/wiki/フランス空軍 "wikilink")
+  - [フランス](../Page/フランス空軍.md "wikilink")
 
   - [22x20px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_the_United_Kingdom.svg "wikilink") [イギリス](../Page/イギリス海軍.md "wikilink")
 

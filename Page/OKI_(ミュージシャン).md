@@ -1,15 +1,15 @@
 > この記事は[OKI \(\)](https://ja.wikipedia.org/wiki/OKI_\(\))から翻訳されています。
 
 
-**OKI**（オキ、加納 沖\[1\]、1957年\[2\]－）[樺太](../Page/樺太.md "wikilink")[アイヌ](https://ja.wikipedia.org/wiki/アイヌ "wikilink")の伝統弦楽器[トンコリ](../Page/トンコリ.md "wikilink")奏者\[3\]\[4\]。
+**OKI**（オキ、加納 沖\[1\]、1957年\[2\]－）[樺太](../Page/樺太.md "wikilink")[アイヌ](../Page/アイヌ.md "wikilink")の伝統弦楽器[トンコリ](../Page/トンコリ.md "wikilink")奏者\[3\]\[4\]。
 
 OKI DUB AINU BANDの中心メンバー。トンコリとボーカルを担当。
 
-トンコリやアイヌの伝統歌「ウポポ」による[アイヌ伝統音楽を基調に](../Page/アイヌ音楽.md "wikilink")、[ダブ](https://ja.wikipedia.org/wiki/ダブ "wikilink")、[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")、[ロック](../Page/ロック_\(音楽\).md "wikilink")、[アフロ・ビート](https://ja.wikipedia.org/wiki/アフロ・ビート "wikilink")など世界のルーツ音楽を取り入れた音楽を制作、マレウレウ の[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")。　[チカルスタジオ](http://www.tonkori.com/)所属。
+トンコリやアイヌの伝統歌「ウポポ」による[アイヌ伝統音楽を基調に](../Page/アイヌ音楽.md "wikilink")、[ダブ](../Page/ダブ.md "wikilink")、[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")、[ロック](../Page/ロック_\(音楽\).md "wikilink")、[アフロ・ビート](https://ja.wikipedia.org/wiki/アフロ・ビート "wikilink")など世界のルーツ音楽を取り入れた音楽を制作、マレウレウ の[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")。　[チカルスタジオ](http://www.tonkori.com/)所属。
 
 ## 人物・来歴
 
-[砂澤ビッキ](https://ja.wikipedia.org/wiki/砂澤ビッキ "wikilink")と画家山田美年子（加納美年子）の息子として[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")生まれ、母の再婚により[加納光於](https://ja.wikipedia.org/wiki/加納光於 "wikilink")の養子となる\[5\]。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")育ち、北海道[当麻町](../Page/当麻町.md "wikilink")在住\[6\]。
+[砂澤ビッキ](../Page/砂澤ビッキ.md "wikilink")と画家山田美年子（加納美年子）の息子として[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")生まれ、母の再婚により[加納光於](https://ja.wikipedia.org/wiki/加納光於 "wikilink")の養子となる\[5\]。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")育ち、北海道[当麻町](../Page/当麻町.md "wikilink")在住\[6\]。
 
 [神奈川県立茅ヶ崎高等学校](../Page/神奈川県立茅ヶ崎高等学校.md "wikilink")出身\[7\]、[東京芸術大学](../Page/東京芸術大学.md "wikilink")美術学部工芸科を卒業\[8\]。
 
@@ -25,7 +25,7 @@ OKI DUB AINU BANDの中心メンバー。トンコリとボーカルを担当。
 
 2007年の「ダブ アイヌ バンド ライブ イン ジャパン」を発表。
 
-[安東ウメ子](https://ja.wikipedia.org/wiki/安東ウメ子 "wikilink")の共演、プロデュースを手がける。
+[安東ウメ子](../Page/安東ウメ子.md "wikilink")の共演、プロデュースを手がける。
 
 2006年、「OKI DUB AINU BAND」を発表。
 
@@ -39,7 +39,7 @@ OKI DUB AINU BANDの中心メンバー。トンコリとボーカルを担当。
 
 *CDアルバム・シングル*
 
-  - **HANKAPUY**（feat.[安東ウメ子](https://ja.wikipedia.org/wiki/安東ウメ子 "wikilink")）　1999年
+  - **HANKAPUY**（feat.[安東ウメ子](../Page/安東ウメ子.md "wikilink")）　1999年
   - **KAMUY KOR NUPURPE　**2001年
   - **NO-ONE'S LAND**　2002年
   - **DUB AINU**　2004年
@@ -88,7 +88,7 @@ OKI DUB AINU BANDの中心メンバー。トンコリとボーカルを担当。
 
 1.  [北海道文化賞・北海道文化奨励賞受賞者一覧](http://www.pref.hokkaido.lg.jp/ks/bns/bunkasho/jushoshaichiran2.pdf) [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")
 2.  [北原次郎太](https://ja.wikipedia.org/wiki/北原次郎太 "wikilink")[「トンコリの戦後史2」『千葉大学 ユーラシア言語文化論集』6(2003) 67-94](http://mitizane.ll.chiba-u.jp/metadb/up/AA11256001/KJ00004166055.pdf)
-3.  [写真で深呼吸。仁礼博のだいじな思いで](http://www.1101.com/nirei/47scene68.html) 2012-03-14-WED [ほぼ日刊イトイ新聞](https://ja.wikipedia.org/wiki/ほぼ日刊イトイ新聞 "wikilink")
+3.  [写真で深呼吸。仁礼博のだいじな思いで](http://www.1101.com/nirei/47scene68.html) 2012-03-14-WED [ほぼ日刊イトイ新聞](../Page/ほぼ日刊イトイ新聞.md "wikilink")
 4.  [阿寒湖温泉でＯＫＩさんがトンコリのライブ](http://www.hokkaido-np.co.jp/cont/video/?c=&v=394800762002) （2008/05/14） [北海道新聞](../Page/北海道新聞.md "wikilink")
 5.  <http://koushinminzoku.cocolog-nifty.com/blog/2009/10/post-c4db.html>
 6.  [アイヌ⇔ダブ越境！異彩を放つOKIの新作](http://www.hmv.co.jp/news/article/605230042/) 2006年5月23日 (火) [HMV ONLINE](https://ja.wikipedia.org/wiki/HMV_ONLINE "wikilink")

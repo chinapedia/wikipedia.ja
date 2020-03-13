@@ -1,7 +1,7 @@
 > この記事は[-meter](https://ja.wikipedia.org/wiki/-meter)から翻訳されています。
 
 
-**-meter**は測定器を表す[接辞](https://ja.wikipedia.org/wiki/接辞 "wikilink")。[古典ギリシア語のμέτρον](https://ja.wikipedia.org/wiki/古代ギリシア語 "wikilink")　metronに由来する。[日本語](../Page/日本語.md "wikilink")では「○○計」と呼ばれるものが多い。
+**-meter**は測定器を表す[接辞](../Page/接辞.md "wikilink")。[古典ギリシア語のμέτρον](../Page/古代ギリシア語.md "wikilink")　metronに由来する。[日本語](../Page/日本語.md "wikilink")では「○○計」と呼ばれるものが多い。
 
 ## 一覧
 
@@ -10,7 +10,7 @@
 ### A
 
   - [accelerometer](https://ja.wikipedia.org/wiki/:en:accelerometer "wikilink")：[加速計](https://ja.wikipedia.org/wiki/加速計 "wikilink")
-  - [actinometer](https://ja.wikipedia.org/wiki/:en:actinometer "wikilink")：[化学光量計](https://ja.wikipedia.org/wiki/化学光量計 "wikilink")、[露出計](https://ja.wikipedia.org/wiki/露出計 "wikilink")、[感光計](https://ja.wikipedia.org/wiki/感光計 "wikilink")、[日射計](../Page/日射計.md "wikilink")
+  - [actinometer](https://ja.wikipedia.org/wiki/:en:actinometer "wikilink")：[化学光量計](https://ja.wikipedia.org/wiki/化学光量計 "wikilink")、[露出計](../Page/露出計.md "wikilink")、[感光計](https://ja.wikipedia.org/wiki/感光計 "wikilink")、[日射計](../Page/日射計.md "wikilink")
   - airmeter：微風計
   - [alcoholometer](https://ja.wikipedia.org/wiki/:en:alcoholometer "wikilink")：[アルコール計](https://ja.wikipedia.org/wiki/アルコール計 "wikilink")
   - [altimeter](https://ja.wikipedia.org/wiki/:en:altimeter "wikilink")：[高度計](https://ja.wikipedia.org/wiki/高度計 "wikilink")
@@ -21,7 +21,7 @@
 
 ### B
 
-  - [barometer](https://ja.wikipedia.org/wiki/:en:barometer "wikilink")：[気圧計](https://ja.wikipedia.org/wiki/気圧計 "wikilink")
+  - [barometer](https://ja.wikipedia.org/wiki/:en:barometer "wikilink")：[気圧計](../Page/気圧計.md "wikilink")
   - [bolometer](https://ja.wikipedia.org/wiki/:en:bolometer "wikilink")：電磁計
   - Body Fat meter：[体脂肪計](../Page/体脂肪計.md "wikilink")
   - Body Fat and Water Health Meter：体組成計
@@ -30,7 +30,7 @@
 ### C
 
   - [calorimeter](https://ja.wikipedia.org/wiki/:en:calorimeter "wikilink")：[熱量計](https://ja.wikipedia.org/wiki/熱量計 "wikilink")
-  - [ceilometer](https://ja.wikipedia.org/wiki/:en:ceilometer "wikilink")：[雲高計](https://ja.wikipedia.org/wiki/雲高計 "wikilink")
+  - [ceilometer](https://ja.wikipedia.org/wiki/:en:ceilometer "wikilink")：[雲高計](../Page/雲高計.md "wikilink")
   - [chronometer](https://ja.wikipedia.org/wiki/:en:chronometer "wikilink")：[時計](../Page/時計.md "wikilink")、[クロノメーター](../Page/クロノメーター.md "wikilink")
   - [clinometer](https://ja.wikipedia.org/wiki/:en:clinometer "wikilink")：[傾斜計](https://ja.wikipedia.org/wiki/傾斜計 "wikilink")
   - [colorimeter](https://ja.wikipedia.org/wiki/:en:colorimeter "wikilink")：[比色計](https://ja.wikipedia.org/wiki/比色計 "wikilink")
@@ -58,13 +58,13 @@
 
 ### F
 
-  - flowmeter：[流量](https://ja.wikipedia.org/wiki/流量 "wikilink")計
+  - flowmeter：[流量](../Page/流量.md "wikilink")計
 
 ### G
 
-  - [galvanometer](https://ja.wikipedia.org/wiki/:en:galvanometer "wikilink")：[検流計](https://ja.wikipedia.org/wiki/検流計 "wikilink")
+  - [galvanometer](https://ja.wikipedia.org/wiki/:en:galvanometer "wikilink")：[検流計](../Page/検流計.md "wikilink")
   - gaussmeter：磁界計
-  - [Goniometer](https://ja.wikipedia.org/wiki/:de:Goniometer "wikilink")（独）：[角度計](https://ja.wikipedia.org/wiki/分度器 "wikilink")
+  - [Goniometer](https://ja.wikipedia.org/wiki/:de:Goniometer "wikilink")（独）：[角度計](../Page/分度器.md "wikilink")
   - [Gravimeter](https://ja.wikipedia.org/wiki/:de:Gravimeter "wikilink")（独）：[加速計](https://ja.wikipedia.org/wiki/加速計 "wikilink")
   - [Gyrometer](https://ja.wikipedia.org/wiki/:de:Gyrometer "wikilink")（独）：回転計
 
@@ -121,7 +121,7 @@
   - potentiometer：[電位差計](https://ja.wikipedia.org/wiki/電位差計 "wikilink")
   - potometer：吸水計
   - Powermeter：[パワーメーター](https://ja.wikipedia.org/wiki/パワーメーター "wikilink")
-  - pulseoximeter：[パルスオキシメーター](https://ja.wikipedia.org/wiki/パルスオキシメーター "wikilink")
+  - pulseoximeter：[パルスオキシメーター](../Page/パルスオキシメーター.md "wikilink")
   - [pyknometer](https://ja.wikipedia.org/wiki/:de:pyknometer "wikilink")（独）：濃度計
   - [pyrometer](https://ja.wikipedia.org/wiki/:en:pyrometer "wikilink")：[高温計](https://ja.wikipedia.org/wiki/高温計 "wikilink")
 
@@ -135,10 +135,10 @@
 
   - [saccharometer](https://ja.wikipedia.org/wiki/:en:saccharometer "wikilink")：[糖度計](https://ja.wikipedia.org/wiki/糖度計 "wikilink")
   - [salinometer](https://ja.wikipedia.org/wiki/:en:salinometer "wikilink")：塩分計
-  - [seismometer](https://ja.wikipedia.org/wiki/:en:seismometer "wikilink")：[地震計](https://ja.wikipedia.org/wiki/地震計 "wikilink")
-  - [spectrometer](https://ja.wikipedia.org/wiki/:en:spectrometer "wikilink")：[スペクトル](../Page/スペクトル.md "wikilink")計/[分光器](https://ja.wikipedia.org/wiki/分光器 "wikilink")
+  - [seismometer](https://ja.wikipedia.org/wiki/:en:seismometer "wikilink")：[地震計](../Page/地震計.md "wikilink")
+  - [spectrometer](https://ja.wikipedia.org/wiki/:en:spectrometer "wikilink")：[スペクトル](../Page/スペクトル.md "wikilink")計/[分光器](../Page/分光器.md "wikilink")
   - [speedometer](https://ja.wikipedia.org/wiki/:en:speedometer "wikilink")：[速度計](../Page/速度計.md "wikilink")
-  - [sphygmomanometer](https://ja.wikipedia.org/wiki/:en:sphygmomanometer "wikilink")：[血圧計](https://ja.wikipedia.org/wiki/血圧計 "wikilink")
+  - [sphygmomanometer](https://ja.wikipedia.org/wiki/:en:sphygmomanometer "wikilink")：[血圧計](../Page/血圧計.md "wikilink")
   - [spirometer](https://ja.wikipedia.org/wiki/:en:spirometer "wikilink")：肺活量計/[スパイロメーター](https://ja.wikipedia.org/wiki/スパイロメーター "wikilink")
 
 ### T
@@ -151,7 +151,7 @@
 
 ### V
 
-  - [Variometer](https://ja.wikipedia.org/wiki/:en:Variometer "wikilink")：[昇降計](https://ja.wikipedia.org/wiki/昇降計 "wikilink")
+  - [Variometer](https://ja.wikipedia.org/wiki/:en:Variometer "wikilink")：[昇降計](../Page/昇降計.md "wikilink")
   - Venturimeter：ベンチュリ計
   - [Vibrometer](https://ja.wikipedia.org/wiki/:de:Vibrometer "wikilink")（独）：[振動計](https://ja.wikipedia.org/wiki/振動計 "wikilink")
   - [viscometer](https://ja.wikipedia.org/wiki/:en:viscometer "wikilink")：[粘度計](https://ja.wikipedia.org/wiki/粘度計 "wikilink")
@@ -171,6 +171,6 @@
 ## 関連項目
 
   - [計測機器の一覧](../Page/計測機器の一覧.md "wikilink")
-  - [実験器具の一覧](https://ja.wikipedia.org/wiki/実験器具の一覧 "wikilink")
+  - [実験器具の一覧](../Page/実験器具の一覧.md "wikilink")
 
 [Category:接辞](https://ja.wikipedia.org/wiki/Category:接辞 "wikilink") [Category:ギリシア語の語句](https://ja.wikipedia.org/wiki/Category:ギリシア語の語句 "wikilink") [Category:語句の一覧](https://ja.wikipedia.org/wiki/Category:語句の一覧 "wikilink") [Category:科学関連の一覧](https://ja.wikipedia.org/wiki/Category:科学関連の一覧 "wikilink")

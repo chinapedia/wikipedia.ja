@@ -8,7 +8,7 @@
 ## 2006年（全10タイトル）
 
   - 9月13日 [Vortex](https://ja.wikipedia.org/wiki/ブロックくずし#Vortex "wikilink")（[アップル](../Page/アップル_\(企業\).md "wikilink")）\[1\]
-  - 9月13日 [テトリス](https://ja.wikipedia.org/wiki/テトリス "wikilink")（[エレクトロニック・アーツ](https://ja.wikipedia.org/wiki/エレクトロニック・アーツ "wikilink")）
+  - 9月13日 [テトリス](../Page/テトリス.md "wikilink")（[エレクトロニック・アーツ](../Page/エレクトロニック・アーツ.md "wikilink")）
   - 9月13日 [パックマン](https://ja.wikipedia.org/wiki/パックマン "wikilink")（[Namco Networks America](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")）
   - 9月13日 [Cubis 2](https://ja.wikipedia.org/wiki/Cubis_2 "wikilink")（FreshGames, LLC）
   - 9月13日 [Zuma](../Page/Zuma.md "wikilink")（[PopCap Games](https://ja.wikipedia.org/wiki/PopCap_Games "wikilink")）
@@ -20,13 +20,13 @@
 
 ## 2007年（全12タイトル）
 
-  - 2月28日 [ミズ・パックマン](https://ja.wikipedia.org/wiki/ミズ・パックマン "wikilink")（Namco Networks America）
+  - 2月28日 [ミズ・パックマン](../Page/ミズ・パックマン.md "wikilink")（Namco Networks America）
   - 4月24日 [iPod Quiz](https://ja.wikipedia.org/wiki/iPod_Quiz "wikilink")（アップル）\[3\]
   - 5月22日 [LOST](https://ja.wikipedia.org/wiki/LOST "wikilink")（[ゲームロフト](https://ja.wikipedia.org/wiki/ゲームロフト "wikilink")）\[4\]
-  - 6月6日 [ナンプレ](https://ja.wikipedia.org/wiki/数独 "wikilink")（エレクトロニック・アーツ）
+  - 6月6日 [ナンプレ](../Page/数独.md "wikilink")（エレクトロニック・アーツ）
   - 7月18日 [The Sims Bowling](https://ja.wikipedia.org/wiki/ザ・シムズ2#.E3.81.9D.E3.81.AE.E4.BB.96 "wikilink")、エレクトロニック・アーツ）
   - 8月1日 [The Sims Pool](https://ja.wikipedia.org/wiki/ザ・シムズ2#.E3.81.9D.E3.81.AE.E4.BB.96 "wikilink")（エレクトロニック・アーツ）
-  - 8月8日 [musika](https://ja.wikipedia.org/wiki/musika "wikilink")（[ソニーBMG](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(米国\) "wikilink")）\[5\]
+  - 8月8日 [musika](https://ja.wikipedia.org/wiki/musika "wikilink")（[ソニーBMG](../Page/ソニー・ミュージックエンタテインメント_\(米国\).md "wikilink")）\[5\]
   - 11月6日 [Phase](https://ja.wikipedia.org/wiki/Phase "wikilink")（[MTV Games](../Page/バイアコム.md "wikilink")）
   - 12月4日 [Brain Challenge](https://ja.wikipedia.org/wiki/Brain_Challenge "wikilink")（ゲームロフト）
   - 12月18日 [ソニック・ザ・ヘッジホッグ](../Page/ソニック・ザ・ヘッジホッグ_\(1991年のゲーム\).md "wikilink")（[セガ](https://ja.wikipedia.org/wiki/セガ "wikilink")）
@@ -36,11 +36,11 @@
 ## 2008年（全27タイトル）
 
   - 1月16日 [ブロック ブレーカー デラックス](https://ja.wikipedia.org/wiki/ブロック_ブレーカー_デラックス "wikilink")（ゲームロフト）
-  - 1月23日 [Pole Position: Remix](https://ja.wikipedia.org/wiki/ポールポジション_\(ゲーム\) "wikilink")（Namco Networks America）
+  - 1月23日 [Pole Position: Remix](../Page/ポールポジション_\(ゲーム\).md "wikilink")（Namco Networks America）
   - 2月6日 [Naval Battle](https://ja.wikipedia.org/wiki/Naval_Battle "wikilink")（ゲームロフト）
   - 2月6日 [Chess & Backgammon](https://ja.wikipedia.org/wiki/Chess_&_Backgammon "wikilink")（ゲームロフト）
-  - 2月13日 [Yahtzee](https://ja.wikipedia.org/wiki/ヤッツィー "wikilink")（エレクトロニック・アーツ）
-  - 2月20日 [Pirates of the Caribbean: Aegir's Fire](https://ja.wikipedia.org/wiki/Pirates_of_the_Caribbean:_Aegir's_Fire "wikilink")（[Disney Online Studios](https://ja.wikipedia.org/wiki/ウォルト・ディズニー・カンパニー "wikilink")）
+  - 2月13日 [Yahtzee](../Page/ヤッツィー.md "wikilink")（エレクトロニック・アーツ）
+  - 2月20日 [Pirates of the Caribbean: Aegir's Fire](https://ja.wikipedia.org/wiki/Pirates_of_the_Caribbean:_Aegir's_Fire "wikilink")（[Disney Online Studios](../Page/ウォルト・ディズニー・カンパニー.md "wikilink")）
   - 2月27日 [Bubble Bash](https://ja.wikipedia.org/wiki/Bubble_Bash "wikilink")（ゲームロフト）
   - 6月4日 [モノポリー](https://ja.wikipedia.org/wiki/モノポリー#コンピュータゲーム版 "wikilink")（エレクトロニック・アーツ）
   - 6月11日 [The Sims DJ](https://ja.wikipedia.org/wiki/ザ・シムズ2#.E3.81.9D.E3.81.AE.E4.BB.96 "wikilink")（エレクトロニック・アーツ）
@@ -66,13 +66,13 @@
 ## 2009年（全2タイトル）
 
   - 2月3日 [Cake Mania 3](https://ja.wikipedia.org/wiki/Cake_Mania_3 "wikilink")（Sandlot Games Corporation）
-  - 2月10日 [Scrabble](https://ja.wikipedia.org/wiki/スクラブル "wikilink")（エレクトロニック・アーツ）
+  - 2月10日 [Scrabble](../Page/スクラブル.md "wikilink")（エレクトロニック・アーツ）
 
 ## その他
 
   - 2007年6月27日 [Kaplan SAT Prep 2008](https://ja.wikipedia.org/wiki/Kaplan_SAT_Prep_2008 "wikilink")（[Kaplan](https://ja.wikipedia.org/wiki/:en:Kaplan,_Inc. "wikilink")）
       -
-        [SAT用学習ソフト](https://ja.wikipedia.org/wiki/SAT_\(大学進学適性試験\) "wikilink")。Reading、Writing、Mathの3種。
+        [SAT用学習ソフト](../Page/SAT_\(大学進学適性試験\).md "wikilink")。Reading、Writing、Mathの3種。
 
 ## 脚注
 

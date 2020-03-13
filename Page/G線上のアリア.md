@@ -1,13 +1,13 @@
 > この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
 
 
-「**G線上のアリア**」（ゲーせんじょうのアリア\[1\]、ジーせんじょうのアリア。，）は、[ヨハン・ゼバスティアン・バッハ](../Page/ヨハン・ゼバスティアン・バッハ.md "wikilink")が作曲した『**[管弦楽組曲](https://ja.wikipedia.org/wiki/管弦楽組曲 "wikilink")第3番ニ長調 [BWV](https://ja.wikipedia.org/wiki/BWV "wikilink")1068**』の第2曲「[アリア](https://ja.wikipedia.org/wiki/アリア "wikilink")（[エール](https://ja.wikipedia.org/wiki/エール_\(クラシック音楽\) "wikilink")）」を、[ヴァイオリニスト](../Page/ヴァイオリニスト.md "wikilink")の[アウグスト・ウィルヘルミ](../Page/アウグスト・ウィルヘルミ.md "wikilink")が[ピアノ](../Page/ピアノ.md "wikilink")伴奏付きの[ヴァイオリン](../Page/ヴァイオリン.md "wikilink")独奏のために[編曲](../Page/編曲.md "wikilink")したものの通称。
+「**G線上のアリア**」（ゲーせんじょうのアリア\[1\]、ジーせんじょうのアリア。，）は、[ヨハン・ゼバスティアン・バッハ](../Page/ヨハン・ゼバスティアン・バッハ.md "wikilink")が作曲した『**[管弦楽組曲](../Page/管弦楽組曲.md "wikilink")第3番ニ長調 [BWV](https://ja.wikipedia.org/wiki/BWV "wikilink")1068**』の第2曲「[アリア](../Page/アリア.md "wikilink")（[エール](https://ja.wikipedia.org/wiki/エール_\(クラシック音楽\) "wikilink")）」を、[ヴァイオリニスト](../Page/ヴァイオリニスト.md "wikilink")の[アウグスト・ウィルヘルミ](../Page/アウグスト・ウィルヘルミ.md "wikilink")が[ピアノ](../Page/ピアノ.md "wikilink")伴奏付きの[ヴァイオリン](../Page/ヴァイオリン.md "wikilink")独奏のために[編曲](../Page/編曲.md "wikilink")したものの通称。
 
-この通称は、[ニ長調](https://ja.wikipedia.org/wiki/ニ長調 "wikilink")から[ハ長調](https://ja.wikipedia.org/wiki/ハ長調 "wikilink")に[移調](../Page/移調.md "wikilink")されているため、[ヴァイオリン](../Page/ヴァイオリン.md "wikilink")の4本ある弦のうち最低音の弦、G線のみで演奏できることに由来する。
+この通称は、[ニ長調](../Page/ニ長調.md "wikilink")から[ハ長調](../Page/ハ長調.md "wikilink")に[移調](../Page/移調.md "wikilink")されているため、[ヴァイオリン](../Page/ヴァイオリン.md "wikilink")の4本ある弦のうち最低音の弦、G線のみで演奏できることに由来する。
 
 ## 来歴
 
-オリジナルの管弦楽組曲は、バッハにより彼の[パトロン](https://ja.wikipedia.org/wiki/パトロン "wikilink")であるアンハルト＝ケーテン侯[レオポルトのために](https://ja.wikipedia.org/wiki/レオポルト_\(アンハルト＝ケーテン侯\) "wikilink")[1717年](../Page/1717年.md "wikilink")から[1723年](../Page/1723年.md "wikilink")の間に作曲されたと一般に信じられてきた。しかし、現存最古の楽譜は後年のバッハの[ライプツィヒ](https://ja.wikipedia.org/wiki/ライプツィヒ "wikilink")時代のものであり、現在は、ライプツィヒにおける[コレギウム・ムジクム](https://ja.wikipedia.org/wiki/コレギウム・ムジクム "wikilink")の公演のために書かれたものであろうと考えられている\[2\]。
+オリジナルの管弦楽組曲は、バッハにより彼の[パトロン](../Page/パトロン.md "wikilink")であるアンハルト＝ケーテン侯[レオポルトのために](https://ja.wikipedia.org/wiki/レオポルト_\(アンハルト＝ケーテン侯\) "wikilink")[1717年](../Page/1717年.md "wikilink")から[1723年](../Page/1723年.md "wikilink")の間に作曲されたと一般に信じられてきた。しかし、現存最古の楽譜は後年のバッハの[ライプツィヒ](https://ja.wikipedia.org/wiki/ライプツィヒ "wikilink")時代のものであり、現在は、ライプツィヒにおける[コレギウム・ムジクム](https://ja.wikipedia.org/wiki/コレギウム・ムジクム "wikilink")の公演のために書かれたものであろうと考えられている\[2\]。
 
 曲名は、19世紀のヴァイオリニスト、[アウグスト・ウィルヘルミ](../Page/アウグスト・ウィルヘルミ.md "wikilink")による編曲からきている。ウィルヘルミは編曲後の曲をG線のみで演奏することができた。
 

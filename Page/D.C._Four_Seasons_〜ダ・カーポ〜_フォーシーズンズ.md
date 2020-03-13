@@ -1,7 +1,7 @@
 > この記事は[D.C. Four Seasons  ](https://ja.wikipedia.org/wiki/D.C._Four_Seasons__)から翻訳されています。
 
 
-『**D.C. Four Seasons 〜ダ・カーポ〜 フォーシーズンズ**』は、[CIRCUS原作で](https://ja.wikipedia.org/wiki/CIRCUS_\(ブランド\) "wikilink")[角川書店](../Page/角川書店.md "wikilink")から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月15日](../Page/12月15日.md "wikilink")に発売された[PlayStation 2用ゲーム](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。通称『**D.C.F.S.**』。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月27日](../Page/6月27日.md "wikilink")には原作のCIRCUSからWindows用[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")の移植版『**D.C. After Seasons 〜ダ・カーポ〜 アフターシーズンズ**』が発売された。通称は『**D.C.A.S.**』。
+『**D.C. Four Seasons 〜ダ・カーポ〜 フォーシーズンズ**』は、[CIRCUS原作で](https://ja.wikipedia.org/wiki/CIRCUS_\(ブランド\) "wikilink")[角川書店](../Page/角川書店.md "wikilink")から[2005年](../Page/2005年.md "wikilink")[12月15日](../Page/12月15日.md "wikilink")に発売された[PlayStation 2用ゲーム](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。通称『**D.C.F.S.**』。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月27日](../Page/6月27日.md "wikilink")には原作のCIRCUSからWindows用[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")の移植版『**D.C. After Seasons 〜ダ・カーポ〜 アフターシーズンズ**』が発売された。通称は『**D.C.A.S.**』。
 
 ## 概要
 
@@ -42,19 +42,19 @@ DXパックはゲームディスクがピクチャーレーベルとなってい
   - オープニングテーマ「Hello Future」
     作詞・作曲：rino、編曲：[河合英嗣](https://ja.wikipedia.org/wiki/河合英嗣 "wikilink")、歌：[yozurino\*](https://ja.wikipedia.org/wiki/yozurino* "wikilink") / 同左
   - 「Cherry Blossom」イメージソング「二人だけの音楽会」
-    作詞：[畑亜貴](../Page/畑亜貴.md "wikilink")、作曲・編曲：chokix、歌：[白河ことり](https://ja.wikipedia.org/wiki/白河ことり "wikilink")（[堀江由衣](https://ja.wikipedia.org/wiki/堀江由衣 "wikilink")） / [rino](https://ja.wikipedia.org/wiki/rino "wikilink")
+    作詞：[畑亜貴](../Page/畑亜貴.md "wikilink")、作曲・編曲：chokix、歌：[白河ことり](../Page/白河ことり.md "wikilink")（[堀江由衣](https://ja.wikipedia.org/wiki/堀江由衣 "wikilink")） / [rino](https://ja.wikipedia.org/wiki/rino "wikilink")
   - 「Summer Vacation」イメージソング「Special Day 〜太陽の神様〜」
-    作詞・作曲：yozuca\*、編曲：[前澤寛之](https://ja.wikipedia.org/wiki/前澤寛之 "wikilink")、歌：[朝倉音夢](https://ja.wikipedia.org/wiki/朝倉音夢 "wikilink")（[野川さくら](https://ja.wikipedia.org/wiki/野川さくら "wikilink")） / [yozuca\*](https://ja.wikipedia.org/wiki/yozuca* "wikilink")
+    作詞・作曲：yozuca\*、編曲：[前澤寛之](https://ja.wikipedia.org/wiki/前澤寛之 "wikilink")、歌：[朝倉音夢](../Page/朝倉音夢.md "wikilink")（[野川さくら](../Page/野川さくら.md "wikilink")） / [yozuca\*](https://ja.wikipedia.org/wiki/yozuca* "wikilink")
     『[D.C. Summer Vacation 〜ダ・カーポ サマーバケーション〜](../Page/D.C._Summer_Vacation_〜ダ・カーポ_サマーバケーション〜.md "wikilink")』オープニングテーマのカバー。
   - 「Autumn Color」イメージソング「永遠の願い」
-    作詞・作曲：rino、編曲：[大久保薫](https://ja.wikipedia.org/wiki/大久保薫 "wikilink")、歌：[芳乃さくら](https://ja.wikipedia.org/wiki/芳乃さくら "wikilink")（[田村ゆかり](https://ja.wikipedia.org/wiki/田村ゆかり "wikilink")） / rino
+    作詞・作曲：rino、編曲：[大久保薫](https://ja.wikipedia.org/wiki/大久保薫 "wikilink")、歌：[芳乃さくら](../Page/芳乃さくら.md "wikilink")（[田村ゆかり](https://ja.wikipedia.org/wiki/田村ゆかり "wikilink")） / rino
   - 「White Season」イメージソング「White Season」
-    作詞：[tororo](https://ja.wikipedia.org/wiki/tororo "wikilink")、作曲・編曲：[土屋学](https://ja.wikipedia.org/wiki/土屋学 "wikilink")、歌：[天枷美春](https://ja.wikipedia.org/wiki/天枷美春 "wikilink")（[神田朱未](https://ja.wikipedia.org/wiki/神田朱未 "wikilink")） / rino
+    作詞：[tororo](https://ja.wikipedia.org/wiki/tororo "wikilink")、作曲・編曲：[土屋学](https://ja.wikipedia.org/wiki/土屋学 "wikilink")、歌：[天枷美春](../Page/天枷美春.md "wikilink")（[神田朱未](../Page/神田朱未.md "wikilink")） / rino
   - エンディングテーマ「BELIEVE」
     作詞・作曲：rino、編曲：大久保薫、歌：yozurino\* / 同左
     『[D.C.P.C. 〜ダ・カーポ〜 プラスコミュニケーション](https://ja.wikipedia.org/wiki/D.C.P.C._〜ダ・カーポ〜_プラスコミュニケーション "wikilink")』でも用いられた。
 
-以上の楽曲は『D.C. Four Seasons 〜ダ・カーポ〜 フォーシーズンズ ボーカルミニアルバム』（[ランティス](https://ja.wikipedia.org/wiki/ランティス "wikilink")）に収録。
+以上の楽曲は『D.C. Four Seasons 〜ダ・カーポ〜 フォーシーズンズ ボーカルミニアルバム』（[ランティス](../Page/ランティス.md "wikilink")）に収録。
 
 ## 脚注
 
@@ -66,5 +66,5 @@ DXパックはゲームディスクがピクチャーレーベルとなってい
 
 1.  [電撃G's magazine](../Page/電撃G's_magazine.md "wikilink")（2005年12月号） pp.54-57.
 2.  [PUSH\!\!](../Page/PUSH!!.md "wikilink")（2008年6月号） p.106.
-3.  [TECH GIAN](https://ja.wikipedia.org/wiki/TECH_GIAN "wikilink")（2008年7月号） p.237.
+3.  [TECH GIAN](../Page/TECH_GIAN.md "wikilink")（2008年7月号） p.237.
 4.

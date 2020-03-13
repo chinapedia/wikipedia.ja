@@ -1,13 +1,13 @@
 > この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
 
 
-『**破邪巨星Gダンガイオー**』（はじゃきょせいグレートダンガイオー）は、[2001年](../Page/2001年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")から同年[7月5日](../Page/7月5日.md "wikilink")まで[テレビ朝日](../Page/テレビ朝日.md "wikilink")で全13話が放送された、[AIC製作の](https://ja.wikipedia.org/wiki/アニメインターナショナルカンパニー "wikilink")[ロボットアニメ](../Page/ロボットアニメ.md "wikilink")。
+『**破邪巨星Gダンガイオー**』（はじゃきょせいグレートダンガイオー）は、[2001年](../Page/2001年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")から同年[7月5日](../Page/7月5日.md "wikilink")まで[テレビ朝日](../Page/テレビ朝日.md "wikilink")で全13話が放送された、[AIC製作の](../Page/アニメインターナショナルカンパニー.md "wikilink")[ロボットアニメ](../Page/ロボットアニメ.md "wikilink")。
 
 ## 概要
 
 本作放送当初は、[OVA](../Page/OVA.md "wikilink")『[破邪大星ダンガイオー](../Page/破邪大星ダンガイオー.md "wikilink")』との関連性が不明であったが、終盤において世界観を引き継いだ続編であることが判明する。ストーリーは最終回に登場する謎の新ロボット・Gダンガイオーの正体が明らかにならないまま、未完結状態で最終回を迎えた。
 
-監督である[平野俊貴](https://ja.wikipedia.org/wiki/平野俊貴 "wikilink")はイベントなどで「『ダンガイオー』と名の付く作品は完結しない星の下にある気がする」とコメントしていた\[1\]（前作『破邪大星ダンガイオー』もストーリーは未完）。
+監督である[平野俊貴](../Page/平野俊貴.md "wikilink")はイベントなどで「『ダンガイオー』と名の付く作品は完結しない星の下にある気がする」とコメントしていた\[1\]（前作『破邪大星ダンガイオー』もストーリーは未完）。
 
 ## ストーリー
 
@@ -42,7 +42,7 @@
     声 - [雪野五月](../Page/ゆきのさつき.md "wikilink")
     アヴァルダの広報担当。
   - 珠原鏡子
-    声 - [三浦七緒子](https://ja.wikipedia.org/wiki/三浦七緒子 "wikilink")
+    声 - [三浦七緒子](../Page/三浦七緒子.md "wikilink")
     アヴァルダ司令室のオペレーター。
   - 山形カスミ
     声 - [水野愛日](../Page/水野愛日.md "wikilink")
@@ -57,7 +57,7 @@
     声 - 雪野五月
     サポート用の小型ロボット。どこから送り込まれたのか不明。性格はかなりエロく、司令の命令と偽り、いろいろとやりたい放題する。情報が偽りであると知られた後もアヴァルダ基地に居て、隙を見てはアヴァルダの女性隊員に[セクハラ行為をしていた](https://ja.wikipedia.org/wiki/セクシャルハラスメント "wikilink")。仁美にはよく蹴られたり踏まれたりしている。
   - 火島弾正
-    声 - [加藤精三](https://ja.wikipedia.org/wiki/加藤精三_\(声優\) "wikilink")
+    声 - [加藤精三](../Page/加藤精三_\(声優\).md "wikilink")
     与那嶺と並ぶ弾劾計画の立案者の一人。しかし、彼が主張していた弾劾凰の無人機論は論戦に敗れ、組織を追放される。彼はその後、雪辱のために強力なロボット軍団を作り上げ、エクスタルタロンを組織し世界の浄化に乗り出した。プロトタイプ弾劾凰を作り上げるほどの天才ではあるが、そのヒネた性格ゆえに人には全く好かれなかった。与那嶺や色谷と同じく、宇宙海賊バンカーの驚異を知る者の1人で、すべてが終わった後、バンカーとの決戦を計画していたが、空也達の乗るダンガイオーにより潰された。
   - 天城進 / ダンガイオーUr
     声 - [神谷明](../Page/神谷明.md "wikilink")
@@ -113,24 +113,24 @@
 ## スタッフ
 
   - 企画 - 赤羽根徳則、[三浦亨](https://ja.wikipedia.org/wiki/三浦亨_\(プロデューサー\) "wikilink")、長澤隆之
-  - 原作・監督 - [平野俊貴](https://ja.wikipedia.org/wiki/平野俊貴 "wikilink")
+  - 原作・監督 - [平野俊貴](../Page/平野俊貴.md "wikilink")
   - シリーズ構成 - [植竹須美男](../Page/植竹須美男.md "wikilink")
   - キャラクターデザイン - 山田正樹
   - 総作画監督 - [高岡淳一](../Page/高岡淳一.md "wikilink")、山田正樹
   - メカニックデザイン - 小川浩、[村田護郎](../Page/村田護郎.md "wikilink")
   - メカ設定・美術設定 - [寺岡賢司](../Page/寺岡賢司.md "wikilink")
   - メカ総作画監督 - 鴨川浩、[橋本敬史](../Page/橋本敬史.md "wikilink")、[西井正典](../Page/西井正典.md "wikilink")
-  - 美術監修 - [加藤浩](https://ja.wikipedia.org/wiki/加藤浩 "wikilink")
+  - 美術監修 - [加藤浩](../Page/加藤浩.md "wikilink")
   - 美術監督 - 佐藤勝
   - 美術設定 - 平澤晃弘
   - 色彩設計 - [中山久美子](https://ja.wikipedia.org/wiki/中山久美子 "wikilink")
   - 音響監督 - [亀山俊樹](../Page/亀山俊樹.md "wikilink")
-  - 音楽 - [渡辺俊幸](https://ja.wikipedia.org/wiki/渡辺俊幸 "wikilink")
+  - 音楽 - [渡辺俊幸](../Page/渡辺俊幸.md "wikilink")
   - 音楽プロデューサー - 長澤隆之
   - 制作プロデューサー - 渡辺欽哉、松嵜義之
   - プロデューサー - 浅井祐一、日高功、[井上博明](https://ja.wikipedia.org/wiki/井上博明 "wikilink")、頼経康史
-  - アニメーション制作 - [AIC](https://ja.wikipedia.org/wiki/アニメインターナショナルカンパニー "wikilink")
-  - 製作 - [テレビ朝日](../Page/テレビ朝日.md "wikilink")、[小学館プロダクション](https://ja.wikipedia.org/wiki/小学館集英社プロダクション "wikilink")、AIC、[エイベックス](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")
+  - アニメーション制作 - [AIC](../Page/アニメインターナショナルカンパニー.md "wikilink")
+  - 製作 - [テレビ朝日](../Page/テレビ朝日.md "wikilink")、[小学館プロダクション](../Page/小学館集英社プロダクション.md "wikilink")、AIC、[エイベックス](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")
 
 ## 主題歌
 
@@ -158,7 +158,7 @@
 <td><p>1</p></td>
 <td><p>決戦</p></td>
 <td><p><a href="../Page/植竹須美男.md" title="wikilink">植竹須美男</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/平野俊貴" title="wikilink">平野俊貴</a></p></td>
+<td><p><a href="../Page/平野俊貴.md" title="wikilink">平野俊貴</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/野中卓也" title="wikilink">野中卓也</a></p></td>
 <td><p>山田正樹、<a href="../Page/高岡淳一.md" title="wikilink">高岡淳一</a><br />
 <a href="https://ja.wikipedia.org/wiki/渡辺浩二" title="wikilink">渡辺浩二</a>（メカ）</p></td>

@@ -21,12 +21,12 @@
 *※プラットフォームは『MARVEL VS. CAPCOM 3』『マーベル VS. カプコン:インフィニット』以外はすべて[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")。（）内はタイトル毎の主なシステムや特徴*
 
   - VS.マーヴルの原型となった作品
-      - [エックス・メン チルドレン オブ ジ アトム](../Page/エックス・メン_チルドレン_オブ_ジ_アトム.md "wikilink") （[豪鬼](https://ja.wikipedia.org/wiki/豪鬼 "wikilink")（『[スーパーストリートファイターIIX](../Page/ストリートファイターII.md "wikilink")』）がゲスト出演）
+      - [エックス・メン チルドレン オブ ジ アトム](../Page/エックス・メン_チルドレン_オブ_ジ_アトム.md "wikilink") （[豪鬼](../Page/豪鬼.md "wikilink")（『[スーパーストリートファイターIIX](../Page/ストリートファイターII.md "wikilink")』）がゲスト出演）
       - [マーヴル・スーパーヒーローズ](../Page/マーヴル・スーパーヒーローズ.md "wikilink") （エリアルレイヴ、日本版のみ[アニタ](https://ja.wikipedia.org/wiki/ドノヴァン・バイン#アニタ "wikilink")（『[ヴァンパイア ハンター](../Page/ヴァンパイア_\(ゲーム\).md "wikilink")』）がゲスト出演）
-  - [X-MEN VS. STREET FIGHTER](https://ja.wikipedia.org/wiki/X-MEN_VS._STREET_FIGHTER "wikilink") （タイトルにVS.がついた初の作品、ヴァリアブルアタック、ヴァリアブルカウンター、ヴァリアブルコンビネーション）
+  - [X-MEN VS. STREET FIGHTER](../Page/X-MEN_VS._STREET_FIGHTER.md "wikilink") （タイトルにVS.がついた初の作品、ヴァリアブルアタック、ヴァリアブルカウンター、ヴァリアブルコンビネーション）
   - [マーヴル・スーパーヒーローズ VS. ストリートファイター](../Page/マーヴル・スーパーヒーローズ_VS._ストリートファイター.md "wikilink") （イージーモード、ヴァリアブルアシスト、日本版のみ憲磨呂（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")『[とんねるずの生でダラダラいかせて\!\!](../Page/とんねるずの生でダラダラいかせて!!.md "wikilink")』とのタイアップで木梨憲太郎（[木梨憲武](../Page/木梨憲武.md "wikilink")）がデザイン）がゲスト出演）
   - [MARVEL VS. CAPCOM CLASH OF SUPER HEROES](../Page/MARVEL_VS._CAPCOM_CLASH_OF_SUPER_HEROES.md "wikilink") （ヴァリアブルクロス、スペシャルパートナー）
-  - [MARVEL VS. CAPCOM 2 NEW AGE OF HEROES](https://ja.wikipedia.org/wiki/MARVEL_VS._CAPCOM_2_NEW_AGE_OF_HEROES "wikilink") （それまでの[CPS-2](https://ja.wikipedia.org/wiki/CPS-2 "wikilink")基板から[NAOMI](https://ja.wikipedia.org/wiki/NAOMI "wikilink")基板に移行、[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")との連動、ディレイドハイパーコンボ）
+  - [MARVEL VS. CAPCOM 2 NEW AGE OF HEROES](../Page/MARVEL_VS._CAPCOM_2_NEW_AGE_OF_HEROES.md "wikilink") （それまでの[CPS-2](https://ja.wikipedia.org/wiki/CPS-2 "wikilink")基板から[NAOMI](../Page/NAOMI.md "wikilink")基板に移行、[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")との連動、ディレイドハイパーコンボ）
   - [MARVEL VS. CAPCOM 3 Fate of Two Worlds](https://ja.wikipedia.org/wiki/MARVEL_VS._CAPCOM_3_Fate_of_Two_Worlds "wikilink")
       - ULTIMATE MARVEL VS. CAPCOM 3
   - [マーベル VS. カプコン:インフィニット](https://ja.wikipedia.org/wiki/マーベル_VS._カプコン:インフィニット "wikilink")
@@ -47,21 +47,21 @@
 
 ## ナムコ
 
-  - [NAMCO x CAPCOM](https://ja.wikipedia.org/wiki/NAMCO_x_CAPCOM "wikilink")
+  - [NAMCO x CAPCOM](../Page/NAMCO_x_CAPCOM.md "wikilink")
     [ナムコ](https://ja.wikipedia.org/wiki/ナムコ "wikilink")が発売した、カプコンとナムコのキャラクターがクロスオーバーする作品。ジャンルは[シミュレーションRPG](https://ja.wikipedia.org/wiki/シミュレーションRPG "wikilink")であるが、コンセプトは上記作品と同様である。
   - [ストリートファイター X 鉄拳](https://ja.wikipedia.org/wiki/ストリートファイター_X_鉄拳 "wikilink")
-    [ストリートファイターシリーズ](https://ja.wikipedia.org/wiki/ストリートファイターシリーズ "wikilink")と[鉄拳シリーズ](../Page/鉄拳シリーズ.md "wikilink")のキャラクターが共演する作品。カプコン側の発売となっている。同時にナムコからは「鉄拳 X ストリートファイター」が計画していたが、現段階で未定。2016年に[バンダイナムコエンターテインメント](../Page/バンダイナムコエンターテインメント.md "wikilink")からリリースされた『[鉄拳7 FATED RETRIBUTION](https://ja.wikipedia.org/wiki/鉄拳7 "wikilink")』に[豪鬼](https://ja.wikipedia.org/wiki/豪鬼 "wikilink")が参戦。ゲストキャラクターではなく、『鉄拳』の世界に深く関わる人物として登場している。
+    [ストリートファイターシリーズ](https://ja.wikipedia.org/wiki/ストリートファイターシリーズ "wikilink")と[鉄拳シリーズ](../Page/鉄拳シリーズ.md "wikilink")のキャラクターが共演する作品。カプコン側の発売となっている。同時にナムコからは「鉄拳 X ストリートファイター」が計画していたが、現段階で未定。2016年に[バンダイナムコエンターテインメント](../Page/バンダイナムコエンターテインメント.md "wikilink")からリリースされた『[鉄拳7 FATED RETRIBUTION](https://ja.wikipedia.org/wiki/鉄拳7 "wikilink")』に[豪鬼](../Page/豪鬼.md "wikilink")が参戦。ゲストキャラクターではなく、『鉄拳』の世界に深く関わる人物として登場している。
 
 ## その他
 
   - [対戦 ネットギミック カプコン&彩京オールスターズ](https://ja.wikipedia.org/wiki/ホットギミック_\(ゲーム\)#DC版 "wikilink")
     [彩京](../Page/彩京.md "wikilink")の麻雀ゲーム『[対戦ホットギミック](../Page/ホットギミック_\(ゲーム\).md "wikilink")』をドリームキャスト向けにアレンジしたもの。カプコンと彩京のキャラクターが共演する。カプコンと彩京の共同制作としては『[ガンバード2](https://ja.wikipedia.org/wiki/ガンバード#ガンバード2 "wikilink")』『[ガンスパイク](../Page/ガンスパイク.md "wikilink")』に続く3作目となる。
-    また、カプコンは他社と協力してアーケードタイトルをリリースする「パートナーシッププロジェクト」の一環として、上記以外にも『[ギガウイング](../Page/ギガウイング.md "wikilink")』『[マーズマトリックス](../Page/マーズマトリックス.md "wikilink")』（[タクミ](../Page/タクミコーポレーション.md "wikilink")）、『[グレート魔法大作戦](https://ja.wikipedia.org/wiki/魔法大作戦#グレート魔法大作戦 "wikilink")』（[エイティング](../Page/エイティング.md "wikilink")）、『[プロギアの嵐](https://ja.wikipedia.org/wiki/プロギアの嵐 "wikilink")』（[ケイブ](../Page/ケイブ.md "wikilink")）などを発売した。
+    また、カプコンは他社と協力してアーケードタイトルをリリースする「パートナーシッププロジェクト」の一環として、上記以外にも『[ギガウイング](../Page/ギガウイング.md "wikilink")』『[マーズマトリックス](../Page/マーズマトリックス.md "wikilink")』（[タクミ](../Page/タクミコーポレーション.md "wikilink")）、『[グレート魔法大作戦](https://ja.wikipedia.org/wiki/魔法大作戦#グレート魔法大作戦 "wikilink")』（[エイティング](../Page/エイティング.md "wikilink")）、『[プロギアの嵐](../Page/プロギアの嵐.md "wikilink")』（[ケイブ](../Page/ケイブ.md "wikilink")）などを発売した。
 
 <!-- end list -->
 
   - Sammy vs CAPCOM（仮称）
-    [サミー](https://ja.wikipedia.org/wiki/サミー "wikilink")とのコラボレーションであり、2003年に製作発表されたが発売中止となった\[1\]。
+    [サミー](../Page/サミー.md "wikilink")とのコラボレーションであり、2003年に製作発表されたが発売中止となった\[1\]。
 
 ## 脚注
 

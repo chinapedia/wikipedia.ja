@@ -1,7 +1,7 @@
 > この記事は[Jr.](https://ja.wikipedia.org/wiki/Jr.)から翻訳されています。
 
 
-**ネルソン・ピケJr.**（、 [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[7月25日](../Page/7月25日.md "wikilink") - ）は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")国籍の[レーシングドライバー](https://ja.wikipedia.org/wiki/レーシングドライバー "wikilink")。本名はネルソン・アンジェロ・タムスマ・ピケ・ソウト・マイオール（）。ネルソン・アンジェロ・ピケ（）あるいは、ネルシーニョ・ピケ（）とも呼ばれる。（[GP2](https://ja.wikipedia.org/wiki/GP2 "wikilink")、[A1GP参戦時の登録名は](https://ja.wikipedia.org/wiki/A1グランプリ "wikilink")「」。[F3参戦時は](https://ja.wikipedia.org/wiki/フォーミュラ3 "wikilink")「」。[フォーミュラ1](../Page/フォーミュラ1.md "wikilink")参戦時の登録名は「」）
+**ネルソン・ピケJr.**（、 [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[7月25日](../Page/7月25日.md "wikilink") - ）は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")国籍の[レーシングドライバー](https://ja.wikipedia.org/wiki/レーシングドライバー "wikilink")。本名はネルソン・アンジェロ・タムスマ・ピケ・ソウト・マイオール（）。ネルソン・アンジェロ・ピケ（）あるいは、ネルシーニョ・ピケ（）とも呼ばれる。（[GP2](../Page/GP2.md "wikilink")、[A1GP参戦時の登録名は](../Page/A1グランプリ.md "wikilink")「」。[F3参戦時は](https://ja.wikipedia.org/wiki/フォーミュラ3 "wikilink")「」。[フォーミュラ1](../Page/フォーミュラ1.md "wikilink")参戦時の登録名は「」）
 
 主に「[F1](../Page/フォーミュラ1.md "wikilink")」や「[フォーミュラE](https://ja.wikipedia.org/wiki/フォーミュラE "wikilink")」などで活動した。父は3度の[F1ドライバーズチャンピオンを獲得した](../Page/F1ドライバーズチャンピオンの一覧.md "wikilink")[ネルソン・ピケ](../Page/ネルソン・ピケ.md "wikilink")。
 
@@ -17,17 +17,17 @@
 
 1993年、ブラジルに移り住んですぐに[カートレーシング](https://ja.wikipedia.org/wiki/カートレーシング "wikilink")を始めた。
 
-2001年には父の経営するレーシングチームであるピケ・スポーツより[南米F3に](https://ja.wikipedia.org/wiki/フォーミュラ3 "wikilink")7戦のみ参戦して1勝をあげた。翌2002年には同シリーズ全17戦中16回の[ポールポジション](https://ja.wikipedia.org/wiki/ポールポジション "wikilink")を獲得すると決勝でも13勝をあげてシーズンを席巻し、チャンピオンに輝いた。
+2001年には父の経営するレーシングチームであるピケ・スポーツより[南米F3に](https://ja.wikipedia.org/wiki/フォーミュラ3 "wikilink")7戦のみ参戦して1勝をあげた。翌2002年には同シリーズ全17戦中16回の[ポールポジション](../Page/ポールポジション.md "wikilink")を獲得すると決勝でも13勝をあげてシーズンを席巻し、チャンピオンに輝いた。
 
-2003年よりヨーロッパへ戻ると、父ピケはピケJr.のためにやはりピケ・スポーツの名でチームを設立し、ピケJr.は同チームから[イギリスF3に参戦し](https://ja.wikipedia.org/wiki/イギリス・フォーミュラ3選手権 "wikilink")、6勝をあげてランキング3位。[マールボロ・マスターズにも出場し](../Page/マスターズF3.md "wikilink")、ポールポジションを獲得している。同年には[ケケ・ロズベルグ](https://ja.wikipedia.org/wiki/ケケ・ロズベルグ "wikilink")の息子の[ニコ・ロズベルグ](../Page/ニコ・ロズベルグ.md "wikilink")と共に[ウィリアムズから](https://ja.wikipedia.org/wiki/ウィリアムズF1 "wikilink")[F1のテストドライブも経験した](../Page/フォーミュラ1.md "wikilink")。
+2003年よりヨーロッパへ戻ると、父ピケはピケJr.のためにやはりピケ・スポーツの名でチームを設立し、ピケJr.は同チームから[イギリスF3に参戦し](https://ja.wikipedia.org/wiki/イギリス・フォーミュラ3選手権 "wikilink")、6勝をあげてランキング3位。[マールボロ・マスターズにも出場し](../Page/マスターズF3.md "wikilink")、ポールポジションを獲得している。同年には[ケケ・ロズベルグ](../Page/ケケ・ロズベルグ.md "wikilink")の息子の[ニコ・ロズベルグ](../Page/ニコ・ロズベルグ.md "wikilink")と共に[ウィリアムズから](https://ja.wikipedia.org/wiki/ウィリアムズF1 "wikilink")[F1のテストドライブも経験した](../Page/フォーミュラ1.md "wikilink")。
 
 2004年にも6勝をあげ、イギリスF3では最年少となる19歳2か月でチャンピオンを獲得した。この年もシーズン後にウィリアムズのテストに参加した。
 
-2005年は[GP2](https://ja.wikipedia.org/wiki/GP2 "wikilink")への参戦を開始。ここでも父ピケは既存のレーシングチームであるハイテック(Hitech)チームに参画することでハイテック・ピケ・スポーツとし、ピケJr.は同チームに所属した。[スパ・フランコルシャン](../Page/スパ・フランコルシャン.md "wikilink")のレース1では優勝をあげている。また、F1の[B・A・R](https://ja.wikipedia.org/wiki/B・A・R "wikilink")チームのテストにも参加した。この年は、同じく[ブラジル人](https://ja.wikipedia.org/wiki/ブラジル人 "wikilink")F1チャンピオンを親族に持つ[ブルーノ・セナ](../Page/ブルーノ・セナ.md "wikilink")がイギリスF3への参戦を始めたため、「二世ドライバー」としてブラジルでは併せて注目を集めるようになる。
+2005年は[GP2](../Page/GP2.md "wikilink")への参戦を開始。ここでも父ピケは既存のレーシングチームであるハイテック(Hitech)チームに参画することでハイテック・ピケ・スポーツとし、ピケJr.は同チームに所属した。[スパ・フランコルシャン](../Page/スパ・フランコルシャン.md "wikilink")のレース1では優勝をあげている。また、F1の[B・A・R](../Page/B・A・R.md "wikilink")チームのテストにも参加した。この年は、同じく[ブラジル人](https://ja.wikipedia.org/wiki/ブラジル人 "wikilink")F1チャンピオンを親族に持つ[ブルーノ・セナ](../Page/ブルーノ・セナ.md "wikilink")がイギリスF3への参戦を始めたため、「二世ドライバー」としてブラジルでは併せて注目を集めるようになる。
 
-同じ2005年、9月に初めて開幕した冬季開催の国別対抗の[2005-2006](https://ja.wikipedia.org/wiki/2005年から2006年のA1グランプリ "wikilink")[A1グランプリ](https://ja.wikipedia.org/wiki/A1グランプリ "wikilink")にブラジル代表として参戦。[ブランズ・ハッチ](https://ja.wikipedia.org/wiki/ブランズ・ハッチ "wikilink")で行われた開幕戦でスプリントレース、フィーチャーレースを共に制し、[ファステストラップ](https://ja.wikipedia.org/wiki/ファステストラップ "wikilink")まで刻むという完勝劇を見せた。その後はマシントラブルなど苦難が続き、結局ブラジルチームは総合結果6位で幕を閉じる。（ピケJr.は第8戦以降、参戦していない。最高位1位2回、2位と3位を各1回。）
+同じ2005年、9月に初めて開幕した冬季開催の国別対抗の[2005-2006](https://ja.wikipedia.org/wiki/2005年から2006年のA1グランプリ "wikilink")[A1グランプリ](../Page/A1グランプリ.md "wikilink")にブラジル代表として参戦。[ブランズ・ハッチ](../Page/ブランズ・ハッチ.md "wikilink")で行われた開幕戦でスプリントレース、フィーチャーレースを共に制し、[ファステストラップ](../Page/ファステストラップ.md "wikilink")まで刻むという完勝劇を見せた。その後はマシントラブルなど苦難が続き、結局ブラジルチームは総合結果6位で幕を閉じる。（ピケJr.は第8戦以降、参戦していない。最高位1位2回、2位と3位を各1回。）
 
-2006年は引き続きGP2に参戦し、4勝をあげチャンピオン争いを展開するが、[ルイス・ハミルトン](https://ja.wikipedia.org/wiki/ルイス・ハミルトン "wikilink")に及ばず、ランキング2位で終えた。しかしながら、[ハンガロリンク](https://ja.wikipedia.org/wiki/ハンガロリンク "wikilink")でのレースではポールポジションを獲得すると、レース1を優勝。レース2では[リバースグリッド](../Page/リバースグリッド.md "wikilink")となるため、レース1の勝者が優勝することは困難であるにも拘わらずレース2も優勝し、更に両レースでファステストラップも記録するという完全勝利を飾った。以前に同一ラウンド中の2レースで連勝を達成したドライバーとしては、前年最終戦で達成したロズベルグと、2006年の[ニュルブルクリンク](https://ja.wikipedia.org/wiki/ニュルブルクリンク "wikilink")と[シルバーストン](https://ja.wikipedia.org/wiki/シルバーストン "wikilink")で達成したハミルトンがいるが、いずれもポールポジション\]かいずれかのファステストラップを逃している。
+2006年は引き続きGP2に参戦し、4勝をあげチャンピオン争いを展開するが、[ルイス・ハミルトン](https://ja.wikipedia.org/wiki/ルイス・ハミルトン "wikilink")に及ばず、ランキング2位で終えた。しかしながら、[ハンガロリンク](../Page/ハンガロリンク.md "wikilink")でのレースではポールポジションを獲得すると、レース1を優勝。レース2では[リバースグリッド](../Page/リバースグリッド.md "wikilink")となるため、レース1の勝者が優勝することは困難であるにも拘わらずレース2も優勝し、更に両レースでファステストラップも記録するという完全勝利を飾った。以前に同一ラウンド中の2レースで連勝を達成したドライバーとしては、前年最終戦で達成したロズベルグと、2006年の[ニュルブルクリンク](https://ja.wikipedia.org/wiki/ニュルブルクリンク "wikilink")と[シルバーストン](https://ja.wikipedia.org/wiki/シルバーストン "wikilink")で達成したハミルトンがいるが、いずれもポールポジション\]かいずれかのファステストラップを逃している。
 
 なお、父ピケのチームによるサポートは、元々ピケJr.がF1に参戦するまでの予定であったが、その後もブラジルのピケ・スポーツを含め、GP2などヨーロッパのレースでも参戦を継続しているとともに、GP2に参戦するチームはピケJr.自身がチーム代表を引き継いでいる。
 
@@ -45,13 +45,13 @@
 
 #### クラッシュゲート
 
-[2008_Singapore_Grand_Prix_Renault_Nelson_Piquet_Jr_crash.jpg](https://ja.wikipedia.org/wiki/File:2008_Singapore_Grand_Prix_Renault_Nelson_Piquet_Jr_crash.jpg "fig:2008_Singapore_Grand_Prix_Renault_Nelson_Piquet_Jr_crash.jpg")に撤去されるネルソン・ピケJr.のマシン。（※：写真は[2008年シンガポールGPにて](https://ja.wikipedia.org/wiki/2008年シンガポールグランプリ "wikilink")）\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:Flavio_Briatore_Chinese_GP_2008.jpg "wikilink") この事件が露見する以前に父ピケは息子から真相を聞いており、最終戦[ブラジルGPの時点で](https://ja.wikipedia.org/wiki/2008年ブラジルグランプリ "wikilink")[チャーリー・ホワイティング](https://ja.wikipedia.org/wiki/チャーリー・ホワイティング "wikilink")や[マックス・モズレー](../Page/マックス・モズレー.md "wikilink")ら[国際自動車連盟](https://ja.wikipedia.org/wiki/国際自動車連盟 "wikilink") (FIA) 上層陣に対して相談をしていた。FIA側はピケJr.本人の供述が必要という立場を示したが、ピケはこれを口外することで息子のキャリアが大きく傷つくことを怖れて相談だけに留めた\[3\]。
+[2008_Singapore_Grand_Prix_Renault_Nelson_Piquet_Jr_crash.jpg](https://ja.wikipedia.org/wiki/File:2008_Singapore_Grand_Prix_Renault_Nelson_Piquet_Jr_crash.jpg "fig:2008_Singapore_Grand_Prix_Renault_Nelson_Piquet_Jr_crash.jpg")に撤去されるネルソン・ピケJr.のマシン。（※：写真は[2008年シンガポールGPにて](https://ja.wikipedia.org/wiki/2008年シンガポールグランプリ "wikilink")）\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:Flavio_Briatore_Chinese_GP_2008.jpg "wikilink") この事件が露見する以前に父ピケは息子から真相を聞いており、最終戦[ブラジルGPの時点で](https://ja.wikipedia.org/wiki/2008年ブラジルグランプリ "wikilink")[チャーリー・ホワイティング](https://ja.wikipedia.org/wiki/チャーリー・ホワイティング "wikilink")や[マックス・モズレー](../Page/マックス・モズレー.md "wikilink")ら[国際自動車連盟](../Page/国際自動車連盟.md "wikilink") (FIA) 上層陣に対して相談をしていた。FIA側はピケJr.本人の供述が必要という立場を示したが、ピケはこれを口外することで息子のキャリアが大きく傷つくことを怖れて相談だけに留めた\[3\]。
 
 ピケJr.がルノーを解雇された2009年ハンガリーGP直後から、[2008年シンガポールGPでのクラッシュがチームの指示による意図的なものだったのではないかとの噂が流れ始めた](https://ja.wikipedia.org/wiki/2008年シンガポールグランプリ "wikilink")（これはピケJr.本人がブラジルのテレビ局[ヘジ・グローボ](../Page/ヘジ・グローボ.md "wikilink")の番組に出演した際、「昨年のシンガポールGPでのクラッシュはチームの命令で行った。」と告白した事が発端となっていた）。当初は真相が表沙汰になっていない事と、アロンソと比較して戦績が芳しくない事も相まって、解雇をされた事に対する腹癒せでこのような事を述べていると風評された。やがてFIAが調査を始めるまでに至ったことから、事件の詳細を裏付けられるものをピケJr.本人が握っているものと考えられた\[4\]。
 
 9月4日、FIAは9月21日に開催される世界モータースポーツ評議会の臨時会議にルノー首脳陣を招聘することを表明した\[5\]。これに対しルノーは、評議会の開催までは公式な発言を行わない方針を示していた\[6\]。
 
-9月10日、この事件がピケJr.本人がFIAに対して告発したことによるものであることが判明した。これは、ピケJr.が7月30日に提出した供述書のコピーがメディアに流出したことで明確になったためである\[7\]\[8\]。供述書によると、チームの首脳[フラビオ・ブリアトーレ](https://ja.wikipedia.org/wiki/フラビオ・ブリアトーレ "wikilink")と[パット・シモンズ](../Page/パット・シモンズ.md "wikilink")とピケJr.の3者間で、事前に意図的なクラッシュを実行する周回数や場所を打ち合わせたとされる。ピケJr.の説明によると、ブリアトーレ、シモンズの両名から従うならばF1のシートを保障し、従わない場合はF1のシートを保障しかねると半ば脅迫染みた内容の命令を受けたという\[9\]。供述書の他にも、クラッシュの際のテレメトリーデータ\[10\]や、チーム無線の交信内容\[11\]がメディアへ流出した。
+9月10日、この事件がピケJr.本人がFIAに対して告発したことによるものであることが判明した。これは、ピケJr.が7月30日に提出した供述書のコピーがメディアに流出したことで明確になったためである\[7\]\[8\]。供述書によると、チームの首脳[フラビオ・ブリアトーレ](../Page/フラビオ・ブリアトーレ.md "wikilink")と[パット・シモンズ](../Page/パット・シモンズ.md "wikilink")とピケJr.の3者間で、事前に意図的なクラッシュを実行する周回数や場所を打ち合わせたとされる。ピケJr.の説明によると、ブリアトーレ、シモンズの両名から従うならばF1のシートを保障し、従わない場合はF1のシートを保障しかねると半ば脅迫染みた内容の命令を受けたという\[9\]。供述書の他にも、クラッシュの際のテレメトリーデータ\[10\]や、チーム無線の交信内容\[11\]がメディアへ流出した。
 
 9月11日、ルノーとブリアトーレはピケ親子が誤った主張によってチームを恐喝し、ピケJr.の契約延長を求めたと反論し、2人に対して法的措置を取ることを表明した\[12\]。しかし、この態度は一転し、9月16日にルノーはFIA世界モータースポーツ評議会の臨時会議においてピケ父子の供述に異議を申し立てない方針を表明し、合わせてブリアトーレとシモンズがチームから離脱したことを発表した\[13\]。シモンズや別の匿名証言者は計画の存在を認めたものの、ピケJr.の方からチームに提案してきたと説明した\[14\]\[15\]。また、打ち合わせのタイミングに関して、ピケJr.はレース直前だったと供述したが\[16\]、2名の証言では前日（予選日）と内容が食い違っていた\[17\]\[18\]。
 
@@ -115,12 +115,12 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/2003年のイギリス・フォーミュラ3選手権" title="wikilink">2003年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ピケ・スポーツ" title="wikilink">ピケ・スポーツ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/M-TEC" title="wikilink">無限</a></p></td>
+<td><p><a href="../Page/M-TEC.md" title="wikilink">無限</a></p></td>
 <td><p>C</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ドニントン・パーク" title="wikilink"><span style="color:#fff;">DON<br />
+<td><p><a href="../Page/ドニントン・パーク.md" title="wikilink"><span style="color:#fff;">DON<br />
 1</span></a><br />
 <small>DSQ</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ドニントン・パーク" title="wikilink">DON<br />
+<td><p><a href="../Page/ドニントン・パーク.md" title="wikilink">DON<br />
 2</a><br />
 <small>3</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/スネッタートン・モーター・レーシング・サーキット" title="wikilink">SNE<br />
@@ -141,10 +141,10 @@
 <td><p><strong><em><a href="https://ja.wikipedia.org/wiki/ノックヒル・レーシング・サーキット" title="wikilink">KNO<br />
 2</a></em></strong><br />
 <small>1</small></p></td>
-<td><p><strong><em><a href="https://ja.wikipedia.org/wiki/シルバーストン・サーキット" title="wikilink">SIL<br />
+<td><p><strong><em><a href="../Page/シルバーストン・サーキット.md" title="wikilink">SIL<br />
 1</a></em></strong><br />
 <small>1</small></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/シルバーストン・サーキット" title="wikilink">SIL<br />
+<td><p><strong><a href="../Page/シルバーストン・サーキット.md" title="wikilink">SIL<br />
 2</a></strong><br />
 <small>6</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/カースル・クーム・サーキット" title="wikilink">CAS<br />
@@ -177,16 +177,16 @@
 <td><p><a href="../Page/スパ・フランコルシャン.md" title="wikilink">SPA<br />
 2</a><br />
 <small>7</small></p></td>
-<td><p><em><a href="https://ja.wikipedia.org/wiki/ドニントン・パーク" title="wikilink">DON<br />
+<td><p><em><a href="../Page/ドニントン・パーク.md" title="wikilink">DON<br />
 1</a></em><br />
 <small>1</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ドニントン・パーク" title="wikilink">DON<br />
+<td><p><a href="../Page/ドニントン・パーク.md" title="wikilink">DON<br />
 2</a><br />
 <small>6</small></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ブランズ・ハッチ" title="wikilink">BRH<br />
+<td><p><strong><a href="../Page/ブランズ・ハッチ.md" title="wikilink">BRH<br />
 1</a></strong><br />
 <small>1</small></p></td>
-<td><p><strong><em><a href="https://ja.wikipedia.org/wiki/ブランズ・ハッチ" title="wikilink">BRH<br />
+<td><p><strong><em><a href="../Page/ブランズ・ハッチ.md" title="wikilink">BRH<br />
 2</a></em></strong><br />
 <small>1</small></p></td>
 <td></td>
@@ -196,16 +196,16 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/2004年のイギリス・フォーミュラ3選手権" title="wikilink">2004年</a></p></td>
 <td><p>C</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ドニントン・パーク" title="wikilink">DON<br />
+<td><p><a href="../Page/ドニントン・パーク.md" title="wikilink">DON<br />
 1</a><br />
 <small>2</small></p></td>
-<td><p><em><a href="https://ja.wikipedia.org/wiki/ドニントン・パーク" title="wikilink">DON<br />
+<td><p><em><a href="../Page/ドニントン・パーク.md" title="wikilink">DON<br />
 2</a></em><br />
 <small>2</small></p></td>
-<td><p><em><a href="https://ja.wikipedia.org/wiki/シルバーストン・サーキット" title="wikilink">SIL<br />
+<td><p><em><a href="../Page/シルバーストン・サーキット.md" title="wikilink">SIL<br />
 1</a></em><br />
 <small>3</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シルバーストン・サーキット" title="wikilink">SIL<br />
+<td><p><a href="../Page/シルバーストン・サーキット.md" title="wikilink">SIL<br />
 2</a><br />
 <small>C</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/クロフト・サーキット" title="wikilink">CRO<br />
@@ -235,10 +235,10 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/カースル・クーム・サーキット" title="wikilink">CAS<br />
 2</a><br />
 <small>Ret</small></p></td>
-<td><p><em><a href="https://ja.wikipedia.org/wiki/ドニントン・パーク" title="wikilink">DON<br />
+<td><p><em><a href="../Page/ドニントン・パーク.md" title="wikilink">DON<br />
 1</a></em><br />
 <small>6</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ドニントン・パーク" title="wikilink">DON<br />
+<td><p><a href="../Page/ドニントン・パーク.md" title="wikilink">DON<br />
 2</a><br />
 <small>3</small></p></td>
 <td><p><strong><em><a href="https://ja.wikipedia.org/wiki/オウルトン・パーク" title="wikilink">OUL<br />
@@ -247,10 +247,10 @@
 <td><p><strong><em><a href="https://ja.wikipedia.org/wiki/オウルトン・パーク" title="wikilink">OUL<br />
 2</a></em></strong><br />
 <small>1</small></p></td>
-<td><p><strong><em><a href="https://ja.wikipedia.org/wiki/シルバーストン・サーキット" title="wikilink">SIL<br />
+<td><p><strong><em><a href="../Page/シルバーストン・サーキット.md" title="wikilink">SIL<br />
 1</a></em></strong><br />
 <small>1</small></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/シルバーストン・サーキット" title="wikilink">SIL<br />
+<td><p><strong><a href="../Page/シルバーストン・サーキット.md" title="wikilink">SIL<br />
 2</a></strong><br />
 <small>4</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/スラクトン・サーキット" title="wikilink">THR<br />
@@ -265,10 +265,10 @@
 <td><p><a href="../Page/スパ・フランコルシャン.md" title="wikilink">SPA<br />
 2</a><br />
 <small>4</small></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ブランズ・ハッチ" title="wikilink">BRH<br />
+<td><p><strong><a href="../Page/ブランズ・ハッチ.md" title="wikilink">BRH<br />
 1</a></strong><br />
 <small>2</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブランズ・ハッチ" title="wikilink">BRH<br />
+<td><p><a href="../Page/ブランズ・ハッチ.md" title="wikilink">BRH<br />
 2</a><br />
 <small>1</small></p></td>
 <td><p><strong>1位</strong></p></td>
@@ -279,7 +279,7 @@
 </tbody>
 </table>
 
-  - **太字**は[ポールポジション](https://ja.wikipedia.org/wiki/ポールポジション "wikilink")、*斜字*は[ファステストラップ](https://ja.wikipedia.org/wiki/ファステストラップ "wikilink")。([key](https://ja.wikipedia.org/wiki/:Template:Motorsport_driver_results_legend "wikilink"))
+  - **太字**は[ポールポジション](../Page/ポールポジション.md "wikilink")、*斜字*は[ファステストラップ](../Page/ファステストラップ.md "wikilink")。([key](https://ja.wikipedia.org/wiki/:Template:Motorsport_driver_results_legend "wikilink"))
 
 #### GP2
 
@@ -325,13 +325,13 @@ FEA</a><br />
 <td><p><a href="../Page/イモラ・サーキット.md" title="wikilink">SMR<br />
 SPR</a><br />
 <small>6</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カタロニア・サーキット" title="wikilink">ESP<br />
+<td><p><a href="../Page/カタロニア・サーキット.md" title="wikilink">ESP<br />
 FEA</a><br />
 <small>5</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カタロニア・サーキット" title="wikilink">ESP<br />
+<td><p><a href="../Page/カタロニア・サーキット.md" title="wikilink">ESP<br />
 SPR</a><br />
 <small>2</small></p></td>
-<td><p><em><a href="https://ja.wikipedia.org/wiki/モンテカルロ市街地コース" title="wikilink">MON<br />
+<td><p><em><a href="../Page/モンテカルロ市街地コース.md" title="wikilink">MON<br />
 FEA</a></em><br />
 <small>11</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ニュルブルクリンク" title="wikilink">EUR<br />
@@ -340,10 +340,10 @@ FEA</a><br />
 <td><p><a href="https://ja.wikipedia.org/wiki/ニュルブルクリンク" title="wikilink">EUR<br />
 SPR</a><br />
 <small>3</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マニクール・サーキット" title="wikilink">FRA<br />
+<td><p><a href="../Page/マニクール・サーキット.md" title="wikilink">FRA<br />
 FEA</a><br />
 <small>Ret</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マニクール・サーキット" title="wikilink"><span style="color:#fff;">FRA<br />
+<td><p><a href="../Page/マニクール・サーキット.md" title="wikilink"><span style="color:#fff;">FRA<br />
 FEA</span></a><br />
 <small>DSQ</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/シルバーストーン・サーキット" title="wikilink">GBR<br />
@@ -352,16 +352,16 @@ FEA</a><br />
 <td><p><a href="https://ja.wikipedia.org/wiki/シルバーストーン・サーキット" title="wikilink">GBR<br />
 SPR</a><br />
 <small>Ret</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ホッケンハイムリンク" title="wikilink">GER<br />
+<td><p><a href="../Page/ホッケンハイムリンク.md" title="wikilink">GER<br />
 FEA</a><br />
 <small>3</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ホッケンハイムリンク" title="wikilink">GER<br />
+<td><p><a href="../Page/ホッケンハイムリンク.md" title="wikilink">GER<br />
 SPR</a><br />
 <small>8</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ハンガロリンク" title="wikilink">HUN<br />
+<td><p><a href="../Page/ハンガロリンク.md" title="wikilink">HUN<br />
 FEA</a><br />
 <small>Ret</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ハンガロリンク" title="wikilink">HUN<br />
+<td><p><a href="../Page/ハンガロリンク.md" title="wikilink">HUN<br />
 SPR</a><br />
 <small>10</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/イスタンブール・パーク・サーキット" title="wikilink">TUR<br />
@@ -370,10 +370,10 @@ FEA</a><br />
 <td><p><a href="https://ja.wikipedia.org/wiki/イスタンブール・パーク・サーキット" title="wikilink">TUR<br />
 SPR</a><br />
 <small>6</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/モンツァ・サーキット" title="wikilink">ITA<br />
+<td><p><a href="../Page/モンツァ・サーキット.md" title="wikilink">ITA<br />
 FEA</a><br />
 <small>3</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/モンツァ・サーキット" title="wikilink">ITA<br />
+<td><p><a href="../Page/モンツァ・サーキット.md" title="wikilink">ITA<br />
 SPR</a><br />
 <small>Ret</small></p></td>
 <td><p><a href="../Page/スパ・フランコルシャン.md" title="wikilink">BEL<br />
@@ -382,10 +382,10 @@ FEA</a><br />
 <td><p><a href="../Page/スパ・フランコルシャン.md" title="wikilink">BEL<br />
 SPR</a><br />
 <small>14</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/バーレーン・インターナショナル・サーキット" title="wikilink">BHR<br />
+<td><p><a href="../Page/バーレーン・インターナショナル・サーキット.md" title="wikilink">BHR<br />
 FEA</a><br />
 <small>Ret</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/バーレーン・インターナショナル・サーキット" title="wikilink">BHR<br />
+<td><p><a href="../Page/バーレーン・インターナショナル・サーキット.md" title="wikilink">BHR<br />
 SPR</a><br />
 <small>5</small></p></td>
 <td><p>8位</p></td>
@@ -411,49 +411,49 @@ FEA</a></strong><br />
 <td><p><a href="https://ja.wikipedia.org/wiki/ニュルブルクリンク" title="wikilink">EUR<br />
 SPR</a><br />
 <small>19</small></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/カタロニア・サーキット" title="wikilink">ESP<br />
+<td><p><strong><a href="../Page/カタロニア・サーキット.md" title="wikilink">ESP<br />
 FEA</a></strong><br />
 <small>4</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カタロニア・サーキット" title="wikilink">ESP<br />
+<td><p><a href="../Page/カタロニア・サーキット.md" title="wikilink">ESP<br />
 SPR</a><br />
 <small>2</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/モンテカルロ市街地コース" title="wikilink">MON<br />
+<td><p><a href="../Page/モンテカルロ市街地コース.md" title="wikilink">MON<br />
 FEA</a><br />
 <small>Ret</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シルバーストン・サーキット" title="wikilink">GBR<br />
+<td><p><a href="../Page/シルバーストン・サーキット.md" title="wikilink">GBR<br />
 FEA</a><br />
 <small>4</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シルバーストン・サーキット" title="wikilink">GBR<br />
+<td><p><a href="../Page/シルバーストン・サーキット.md" title="wikilink">GBR<br />
 SPR</a><br />
 <small>5</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マニクール・サーキット" title="wikilink">FRA<br />
+<td><p><a href="../Page/マニクール・サーキット.md" title="wikilink">FRA<br />
 FEA</a><br />
 <small>4</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マニクール・サーキット" title="wikilink">FRA<br />
+<td><p><a href="../Page/マニクール・サーキット.md" title="wikilink">FRA<br />
 SPR</a><br />
 <small>2</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ホッケンハイムリンク" title="wikilink">GER<br />
+<td><p><a href="../Page/ホッケンハイムリンク.md" title="wikilink">GER<br />
 FEA</a><br />
 <small>13</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ホッケンハイムリンク" title="wikilink">GER<br />
+<td><p><a href="../Page/ホッケンハイムリンク.md" title="wikilink">GER<br />
 SPR</a><br />
 <small>DNS</small></p></td>
-<td><p><strong><em><a href="https://ja.wikipedia.org/wiki/ハンガロリンク" title="wikilink">HUN<br />
+<td><p><strong><em><a href="../Page/ハンガロリンク.md" title="wikilink">HUN<br />
 FEA</a></em></strong><br />
 <small>1</small></p></td>
-<td><p><em><a href="https://ja.wikipedia.org/wiki/ハンガロリンク" title="wikilink">HUN<br />
+<td><p><em><a href="../Page/ハンガロリンク.md" title="wikilink">HUN<br />
 SPR</a></em><br />
 <small>1</small></p></td>
-<td><p><strong><em><a href="https://ja.wikipedia.org/wiki/イスタンブール・パーク" title="wikilink">TUR<br />
+<td><p><strong><em><a href="../Page/イスタンブール・パーク.md" title="wikilink">TUR<br />
 FEA</a></em></strong><br />
 <small>1</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/イスタンブール・パーク" title="wikilink">TUR<br />
+<td><p><a href="../Page/イスタンブール・パーク.md" title="wikilink">TUR<br />
 SPR</a><br />
 <small>5</small></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/モンツァ・サーキット" title="wikilink">ITA<br />
+<td><p><strong><a href="../Page/モンツァ・サーキット.md" title="wikilink">ITA<br />
 FEA</a></strong><br />
 <small>2</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/モンツァ・サーキット" title="wikilink">ITA<br />
+<td><p><a href="../Page/モンツァ・サーキット.md" title="wikilink">ITA<br />
 SPR</a><br />
 <small>6</small></p></td>
 <td></td>
@@ -465,7 +465,7 @@ SPR</a><br />
 </tbody>
 </table>
 
-  - **太字**は[ポールポジション](https://ja.wikipedia.org/wiki/ポールポジション "wikilink")、*斜字*は[ファステストラップ](https://ja.wikipedia.org/wiki/ファステストラップ "wikilink")。([key](https://ja.wikipedia.org/wiki/:Template:Motorsport_driver_results_legend "wikilink"))
+  - **太字**は[ポールポジション](../Page/ポールポジション.md "wikilink")、*斜字*は[ファステストラップ](../Page/ファステストラップ.md "wikilink")。([key](https://ja.wikipedia.org/wiki/:Template:Motorsport_driver_results_legend "wikilink"))
 
 #### F1
 
@@ -793,7 +793,7 @@ SPR</a><br />
 </tbody>
 </table>
 
-  - **太字**は[ポールポジション](https://ja.wikipedia.org/wiki/ポールポジション "wikilink")、*斜字*は[ファステストラップ](https://ja.wikipedia.org/wiki/ファステストラップ "wikilink")。([key](https://ja.wikipedia.org/wiki/:Template:Motorsport_driver_results_legend "wikilink"))
+  - **太字**は[ポールポジション](../Page/ポールポジション.md "wikilink")、*斜字*は[ファステストラップ](../Page/ファステストラップ.md "wikilink")。([key](https://ja.wikipedia.org/wiki/:Template:Motorsport_driver_results_legend "wikilink"))
   - <sup>†</sup> : リタイアだが、90%以上の距離を走行したため規定により完走扱い。
   - <sup>\*</sup> : 今シーズンの順位。（現時点）
   - <sup>+</sup> : ファンブースト。
@@ -826,7 +826,7 @@ SPR</a><br />
 <td><p><a href="https://ja.wikipedia.org/wiki/レベリオン・レーシング" title="wikilink">レベリオン・レーシング</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/レベリオン・R-One" title="wikilink">レベリオン・R-One</a></p></td>
 <td><p>LMP1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シルバーストン・サーキット" title="wikilink">SIL</a><br />
+<td><p><a href="../Page/シルバーストン・サーキット.md" title="wikilink">SIL</a><br />
 <small>4</small></p></td>
 <td><p><a href="../Page/スパ・フランコルシャン.md" title="wikilink">SPA</a><br />
 <small>4</small></p></td>
@@ -842,7 +842,7 @@ SPR</a><br />
 <small></small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/上海インターナショナルサーキット" title="wikilink">SHA</a><br />
 <small></small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/バーレーン・インターナショナル・サーキット" title="wikilink">BHR</a><br />
+<td><p><a href="../Page/バーレーン・インターナショナル・サーキット.md" title="wikilink">BHR</a><br />
 <small></small></p></td>
 <td><p>15位</p></td>
 <td><p>25</p></td>
@@ -852,7 +852,7 @@ SPR</a><br />
 <td><p><a href="https://ja.wikipedia.org/wiki/レベリオン・レーシング" title="wikilink">バイヨン・レベリオン</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/オレカ・07" title="wikilink">オレカ・07</a></p></td>
 <td><p>LMP2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シルバーストン・サーキット" title="wikilink">SIL</a><br />
+<td><p><a href="../Page/シルバーストン・サーキット.md" title="wikilink">SIL</a><br />
 <small>9</small></p></td>
 <td><p><a href="../Page/スパ・フランコルシャン.md" title="wikilink">SPA</a><br />
 <small>4</small></p></td>
@@ -868,7 +868,7 @@ SPR</a><br />
 <small>DSQ</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/上海インターナショナルサーキット" title="wikilink">SHA</a><br />
 <small>3</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/バーレーン・インターナショナル・サーキット" title="wikilink">BHR</a><br />
+<td><p><a href="../Page/バーレーン・インターナショナル・サーキット.md" title="wikilink">BHR</a><br />
 <small>3</small></p></td>
 <td><p>12位</p></td>
 <td><p>73</p></td>
@@ -876,7 +876,7 @@ SPR</a><br />
 </tbody>
 </table>
 
-  - **太字**は[ポールポジション](https://ja.wikipedia.org/wiki/ポールポジション "wikilink")、*斜字*は[ファステストラップ](https://ja.wikipedia.org/wiki/ファステストラップ "wikilink")。([key](https://ja.wikipedia.org/wiki/:Template:Motorsport_driver_results_legend "wikilink"))
+  - **太字**は[ポールポジション](../Page/ポールポジション.md "wikilink")、*斜字*は[ファステストラップ](../Page/ファステストラップ.md "wikilink")。([key](https://ja.wikipedia.org/wiki/:Template:Motorsport_driver_results_legend "wikilink"))
 
 ### ル・マン24時間レース
 

@@ -34,7 +34,7 @@
       - ネット学習集中コース- 遠隔や多忙のため東京の本校または各地の協力校へ毎月出向くのが困難な生徒や海外在住者を対象に、ネット学習を主にしつつ、特定の時期に年四日程度集中的にスクーリングを受講するコース。
       - Do itコース - 特別支援を必要とする生徒のためコース。ネット利用の双方向授業実施や教員の自宅訪問による学習面談の制度がある。
       - 登校コース - 2015年度から東京本校で実施。通信レポートを中心とするも週三日程度登校して学校行事を満喫したり、[反転学習で学習理解を深めるコース](https://ja.wikipedia.org/wiki/アクティブ・ラーニング "wikilink")。
-  - 日本放送協会(NHK)の[NHK教育テレビジョン](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")(NHK Eテレ)・[NHKラジオ第2放送](https://ja.wikipedia.org/wiki/NHKラジオ第2放送 "wikilink")を使った[授業](../Page/授業.md "wikilink")（[NHK高校講座](../Page/NHK高校講座.md "wikilink")の視聴）を行う。番組はNHKの[ホームページ](../Page/ホームページ.md "wikilink")で配信されており、放送を視聴し損ねてもレポート提出は可能である。
+  - 日本放送協会(NHK)の[NHK教育テレビジョン](../Page/NHK教育テレビジョン.md "wikilink")(NHK Eテレ)・[NHKラジオ第2放送](../Page/NHKラジオ第2放送.md "wikilink")を使った[授業](../Page/授業.md "wikilink")（[NHK高校講座](../Page/NHK高校講座.md "wikilink")の視聴）を行う。番組はNHKの[ホームページ](../Page/ホームページ.md "wikilink")で配信されており、放送を視聴し損ねてもレポート提出は可能である。
 
 ## 校歌
 
@@ -45,7 +45,7 @@
 次の[教育](../Page/教育.md "wikilink")[組織がある](../Page/組織_\(社会科学\).md "wikilink")。
 
   - 本科
-      - [通信制](https://ja.wikipedia.org/wiki/通信制 "wikilink")[課程](../Page/課程.md "wikilink")・[普通科](https://ja.wikipedia.org/wiki/普通科_\(学校\) "wikilink")・単位制
+      - [通信制](https://ja.wikipedia.org/wiki/通信制 "wikilink")[課程](../Page/課程.md "wikilink")・[普通科](../Page/普通科_\(学校\).md "wikilink")・単位制
           - ネット学習コース（開設された2009年から2016年度までは「eコース」）
           - ネット学習集中コース
           - ネット学習海外コース（開設された2011年から2016年度までは「海外eコース」）
@@ -61,7 +61,7 @@
 
 ### 協力校
 
-全国31ヶ所に[スクーリング](https://ja.wikipedia.org/wiki/スクーリング "wikilink")を行うための協力校があり、東京本校まで通学しなくても全国各地でスクーリング受講ができる。
+全国31ヶ所に[スクーリング](../Page/スクーリング.md "wikilink")を行うための協力校があり、東京本校まで通学しなくても全国各地でスクーリング受講ができる。
 
 かつては協力校が全国の至る所に設けられていた（一時80箇所余り）が、在校生徒数の減少、交通網の発達などにより、近年は集約・広域化の流れが加速している。[長野県](../Page/長野県.md "wikilink")、[山陰地方](../Page/山陰地方.md "wikilink")、[佐賀県](../Page/佐賀県.md "wikilink")など、地元に協力校やスクーリング会場が無い県\[6\]も増えている。
 
@@ -78,7 +78,7 @@
 ## 交通
 
   - [JR](../Page/JR.md "wikilink")[中央線快速](https://ja.wikipedia.org/wiki/中央線快速 "wikilink") [国立駅](https://ja.wikipedia.org/wiki/国立駅 "wikilink")南口から徒歩18分
-      - 国立駅南口から[京王バス](https://ja.wikipedia.org/wiki/京王バス "wikilink")・[立川バス](https://ja.wikipedia.org/wiki/立川バス "wikilink")で[国立高校前バス停下車](https://ja.wikipedia.org/wiki/都立国立高校 "wikilink") 徒歩3分
+      - 国立駅南口から[京王バス](https://ja.wikipedia.org/wiki/京王バス "wikilink")・[立川バス](../Page/立川バス.md "wikilink")で[国立高校前バス停下車](https://ja.wikipedia.org/wiki/都立国立高校 "wikilink") 徒歩3分
   - JR[南武線](https://ja.wikipedia.org/wiki/南武線 "wikilink") [谷保駅](https://ja.wikipedia.org/wiki/谷保駅 "wikilink")北口から徒歩8分
 
 ## 普通科
@@ -94,24 +94,24 @@
 ### 教職員
 
   - [森戸辰男](../Page/森戸辰男.md "wikilink")（初代[校長](../Page/校長.md "wikilink")) - 元・文部大臣、元・広島大学学長
-  - [有光次郎](https://ja.wikipedia.org/wiki/有光次郎 "wikilink")（第2代校長） - 元・文部[事務次官](https://ja.wikipedia.org/wiki/事務次官 "wikilink")、元・[東京家政大学](https://ja.wikipedia.org/wiki/東京家政大学 "wikilink")学長
+  - [有光次郎](https://ja.wikipedia.org/wiki/有光次郎 "wikilink")（第2代校長） - 元・文部[事務次官](../Page/事務次官.md "wikilink")、元・[東京家政大学](../Page/東京家政大学.md "wikilink")学長
   - [三角哲生](https://ja.wikipedia.org/wiki/三角哲生 "wikilink")（第3代校長） - 元・文部事務次官
   - [賀澤恵二](https://ja.wikipedia.org/wiki/賀澤恵二 "wikilink")（第4代校長）、現・[統括校長](https://ja.wikipedia.org/wiki/統括校長 "wikilink")
   - [篠原朋子](https://ja.wikipedia.org/wiki/篠原朋子 "wikilink")（第5代校長）、現・校長
 
 ### 著名な出身者
 
-  - [庵功雄](https://ja.wikipedia.org/wiki/庵功雄 "wikilink")（[言語学者](https://ja.wikipedia.org/wiki/言語学者 "wikilink")、[一橋大学](https://ja.wikipedia.org/wiki/一橋大学 "wikilink")教授）
+  - [庵功雄](https://ja.wikipedia.org/wiki/庵功雄 "wikilink")（[言語学者](https://ja.wikipedia.org/wiki/言語学者 "wikilink")、[一橋大学](../Page/一橋大学.md "wikilink")教授）
   - [杉田かおる](../Page/杉田かおる.md "wikilink")（[女優](https://ja.wikipedia.org/wiki/女優 "wikilink")）
   - [川上麻衣子](../Page/川上麻衣子.md "wikilink")（女優）
   - [安めぐみ](https://ja.wikipedia.org/wiki/安めぐみ "wikilink")（[タレント](../Page/タレント.md "wikilink")）
   - [中田久美](https://ja.wikipedia.org/wiki/中田久美 "wikilink")(スポーツキャスター、元バレーボール選手（現・[火の鳥NIPPON監督兼](https://ja.wikipedia.org/wiki/バレーボール日本女子代表 "wikilink")[久光製薬スプリングス](https://ja.wikipedia.org/wiki/久光製薬スプリングス "wikilink")総監督））
-  - [河村めぐみ](https://ja.wikipedia.org/wiki/河村めぐみ "wikilink")（モデル、元バレーボール選手）
-  - [林家きく姫](https://ja.wikipedia.org/wiki/林家きく姫 "wikilink")（落語家）
-  - [藤田恵美](../Page/藤田恵美.md "wikilink")（歌手）、[Le Couple](https://ja.wikipedia.org/wiki/Le_Couple "wikilink")（ル・クプル）元メンバー
+  - [河村めぐみ](../Page/河村めぐみ.md "wikilink")（モデル、元バレーボール選手）
+  - [林家きく姫](../Page/林家きく姫.md "wikilink")（落語家）
+  - [藤田恵美](../Page/藤田恵美.md "wikilink")（歌手）、[Le Couple](../Page/Le_Couple.md "wikilink")（ル・クプル）元メンバー
   - [城山美佳子](https://ja.wikipedia.org/wiki/城山美佳子 "wikilink")(女優)、[パンプキン (グループ)元メンバー](../Page/パンプキン_\(グループ\).md "wikilink")
   - [mabanua](https://ja.wikipedia.org/wiki/mabanua "wikilink")（音楽[プロデューサー](../Page/プロデューサー.md "wikilink")・[実演家](https://ja.wikipedia.org/wiki/実演家 "wikilink")）
-  - [太閤丸豊](https://ja.wikipedia.org/wiki/太閤丸豊 "wikilink")（元[大相撲](https://ja.wikipedia.org/wiki/大相撲 "wikilink")[三段目](https://ja.wikipedia.org/wiki/三段目 "wikilink")力士）
+  - [太閤丸豊](https://ja.wikipedia.org/wiki/太閤丸豊 "wikilink")（元[大相撲](https://ja.wikipedia.org/wiki/大相撲 "wikilink")[三段目](../Page/三段目.md "wikilink")力士）
   - [加藤千笑](https://ja.wikipedia.org/wiki/加藤千笑 "wikilink")（[囲碁棋士](https://ja.wikipedia.org/wiki/棋士_\(囲碁\) "wikilink")）
   - [石川星太郎](https://ja.wikipedia.org/wiki/石川星太郎 "wikilink")（[指揮者](../Page/指揮者.md "wikilink")）
 
@@ -124,7 +124,7 @@
   - [学校法人NHK学園](../Page/学校法人NHK学園.md "wikilink")
   - [日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")
   - [NHK高校講座](../Page/NHK高校講座.md "wikilink")
-  - [東京都高等学校一覧](https://ja.wikipedia.org/wiki/東京都高等学校一覧 "wikilink")
+  - [東京都高等学校一覧](../Page/東京都高等学校一覧.md "wikilink")
   - [日本の通信制高等学校一覧](https://ja.wikipedia.org/wiki/日本の通信制高等学校一覧 "wikilink")
   - [相撲教習所](../Page/相撲教習所.md "wikilink") （中卒入門者のためのスクーリング会場）
 

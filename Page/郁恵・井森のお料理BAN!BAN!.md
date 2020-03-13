@@ -1,7 +1,7 @@
 > この記事は[BAN!BAN!](https://ja.wikipedia.org/wiki/BAN!BAN!)から翻訳されています。
 
 
-『**郁恵・井森のお料理BAN\!BAN\!**』（いくえ・いもりのおりょうりバン\!バン\!）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[10月2日](../Page/10月2日.md "wikilink")から[2001年](../Page/2001年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[フジテレビ系列で放送された](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、[榊原郁恵](../Page/榊原郁恵.md "wikilink")と[井森美幸](https://ja.wikipedia.org/wiki/井森美幸 "wikilink")による[料理番組](https://ja.wikipedia.org/wiki/料理番組 "wikilink")である。
+『**郁恵・井森のお料理BAN\!BAN\!**』（いくえ・いもりのおりょうりバン\!バン\!）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[10月2日](../Page/10月2日.md "wikilink")から[2001年](../Page/2001年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[フジテレビ系列で放送された](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、[榊原郁恵](../Page/榊原郁恵.md "wikilink")と[井森美幸](https://ja.wikipedia.org/wiki/井森美幸 "wikilink")による[料理番組](../Page/料理番組.md "wikilink")である。
 
 ## 概要
 
@@ -13,11 +13,11 @@
 
 2000年4月には、「夕食ばんざい\!」の後継コーナーとして平日昼前の『[噂のどーなってるの?\!](../Page/どうーなってるの?!.md "wikilink")』に内包され、放送時間は10:55頃 - 11:10頃までと短縮される。
 
-2001年4月からは親番組が『[こたえてちょーだい\!](../Page/こたえてちょーだい!.md "wikilink")』に変更されると同時に、『[郁恵・井森のデリ×デリキッチン\!](https://ja.wikipedia.org/wiki/郁恵・井森のデリ×デリキッチン! "wikilink")』に改題したが、内容は特に変わらず、放送時間もそのままであった。
+2001年4月からは親番組が『[こたえてちょーだい\!](../Page/こたえてちょーだい!.md "wikilink")』に変更されると同時に、『[郁恵・井森のデリ×デリキッチン\!](../Page/郁恵・井森のデリ×デリキッチン!.md "wikilink")』に改題したが、内容は特に変わらず、放送時間もそのままであった。
 
 夕方の独立番組だった頃、毎回タレント1名をゲストに迎えたり、[菊池桃子](../Page/菊池桃子.md "wikilink")がレギュラーに加わっていたことがある。
 
-またこの番組は収録であるが、カットをせずに生放送のような形式（[撮って出し](https://ja.wikipedia.org/wiki/撮って出し "wikilink")）で放送されていた。そのため、ハプニングやNGシーンが毎日のように発生しており、番組改編期の『[NG大賞](https://ja.wikipedia.org/wiki/FNS番組対抗NG大賞 "wikilink")』の常連番組であった。しかし、2000年4月に『噂のどーなってるの?\!』に内包され、放送時間が縮小されると、さすがにカットシーンが出るようになる。後番組の『郁恵・井森のデリ×デリキッチン\!』でも同様の事が言えた。
+またこの番組は収録であるが、カットをせずに生放送のような形式（[撮って出し](../Page/撮って出し.md "wikilink")）で放送されていた。そのため、ハプニングやNGシーンが毎日のように発生しており、番組改編期の『[NG大賞](../Page/FNS番組対抗NG大賞.md "wikilink")』の常連番組であった。しかし、2000年4月に『噂のどーなってるの?\!』に内包され、放送時間が縮小されると、さすがにカットシーンが出るようになる。後番組の『郁恵・井森のデリ×デリキッチン\!』でも同様の事が言えた。
 
 『噂のどーなってるの?\!』内に内包されてからは、レシピが[扶桑社](../Page/扶桑社.md "wikilink")発行の月刊誌『[ESSE](https://ja.wikipedia.org/wiki/ESSE "wikilink")』に掲載されていた。
 
@@ -74,8 +74,8 @@
   - アシスタントプロデューサー : 武田櫻子（日本テレワーク）
   - ディレクター : 河内伸一
   - プロデューサー : 森啓子（日本テレワーク）、西山雅庸（D:COMPLEX）
-  - スタッフ協力 : [D:COMPLEX](https://ja.wikipedia.org/wiki/ディ・コンプレックス "wikilink") ／ [八峯テレビ](https://ja.wikipedia.org/wiki/八峯テレビ "wikilink")
-  - 制作協力 : [日本テレワーク](https://ja.wikipedia.org/wiki/日本テレワーク "wikilink")
+  - スタッフ協力 : [D:COMPLEX](../Page/ディ・コンプレックス.md "wikilink") ／ [八峯テレビ](../Page/八峯テレビ.md "wikilink")
+  - 制作協力 : [日本テレワーク](../Page/日本テレワーク.md "wikilink")
   - 制作著作 : フジテレビ
 
 ### 郁恵・井森のお料理BAN\!BAN\!
@@ -94,8 +94,8 @@
   - アシスタントプロデューサー : 西雅史（D:COMPLEX）
   - ディレクター : [佐々木敦規](../Page/佐々木敦規.md "wikilink")（D:COMPLEX）
   - プロデューサー : 森啓子（日本テレワーク）、西山雅庸（D:COMPLEX）
-  - スタッフ協力 : [D:COMPLEX](https://ja.wikipedia.org/wiki/ディ・コンプレックス "wikilink") ／ [八峯テレビ](https://ja.wikipedia.org/wiki/八峯テレビ "wikilink")、[FLT](https://ja.wikipedia.org/wiki/フジライティング・アンド・テクノロジイ "wikilink")、[フジアール](../Page/フジアール.md "wikilink")
-  - 制作協力 : [日本テレワーク](https://ja.wikipedia.org/wiki/日本テレワーク "wikilink")
+  - スタッフ協力 : [D:COMPLEX](../Page/ディ・コンプレックス.md "wikilink") ／ [八峯テレビ](../Page/八峯テレビ.md "wikilink")、[FLT](../Page/フジライティング・アンド・テクノロジイ.md "wikilink")、[フジアール](../Page/フジアール.md "wikilink")
+  - 制作協力 : [日本テレワーク](../Page/日本テレワーク.md "wikilink")
   - 制作著作 : フジテレビ
 
 ## 外部リンク

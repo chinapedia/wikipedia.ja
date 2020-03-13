@@ -3,21 +3,21 @@
 
 **midnightPumpkin**（ミッドナイトパンプキン）は[名古屋市](../Page/名古屋市.md "wikilink")出身の[スカ](../Page/スカ.md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。略称**ミッパン**。
 
-バンド名の“Pumpkin”とは[童話](../Page/童話.md "wikilink")『[シンデレラ](../Page/シンデレラ.md "wikilink")』に登場する[カボチャ](../Page/カボチャ.md "wikilink")の[馬車](https://ja.wikipedia.org/wiki/馬車 "wikilink")に由来。「シンデレラのような夢の時間をプレゼントしたい」という考えからである。
+バンド名の“Pumpkin”とは[童話](../Page/童話.md "wikilink")『[シンデレラ](../Page/シンデレラ.md "wikilink")』に登場する[カボチャ](../Page/カボチャ.md "wikilink")の[馬車](../Page/馬車.md "wikilink")に由来。「シンデレラのような夢の時間をプレゼントしたい」という考えからである。
 
 ## 来歴
 
-[2002年](../Page/2002年.md "wikilink")結成。同年11月に[東京](../Page/東京.md "wikilink")・[下北沢](../Page/下北沢.md "wikilink")の[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")「ERA」で初ライヴ。[2004年](../Page/2004年.md "wikilink")8月に初の全国ツアー「m\&m TOUR」を10か所で行う。
+[2002年](../Page/2002年.md "wikilink")結成。同年11月に[東京](../Page/東京.md "wikilink")・[下北沢](../Page/下北沢.md "wikilink")の[ライブハウス](../Page/ライブハウス.md "wikilink")「ERA」で初ライヴ。[2004年](../Page/2004年.md "wikilink")8月に初の全国ツアー「m\&m TOUR」を10か所で行う。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、10月から[東海ラジオの](../Page/東海ラジオ放送.md "wikilink")『[東海ラジオミッドナイトスペシャル](https://ja.wikipedia.org/wiki/東海ラジオミッドナイトスペシャル "wikilink")』内の番組『midnightPumpkinのJUICY-GO-RADIO』がスタート（[2007年](../Page/2007年.md "wikilink")[2月13日](../Page/2月13日.md "wikilink")まで）。これと同時期に[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")『[Zipper](../Page/Zipper.md "wikilink")』においてwakanaの連載が始まる。同年[10月26日](../Page/10月26日.md "wikilink")にアルバム『TimeLimit』でインディーズデビュー、同年[11月5日](../Page/11月5日.md "wikilink")に[大阪府](../Page/大阪府.md "wikilink")の[万博記念公園](../Page/万博記念公園.md "wikilink")で行われた「LIVE F.O.B.05」に参加し、初の野外ライヴを経験。翌[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")に「TimeLimit 47min. TOUR 2005-2006(全国47都道府県ツアー)」のファイナルとして、地元・名古屋のアポロシアターで初のワンマンライブを行う。
+[2005年](../Page/2005年.md "wikilink")、10月から[東海ラジオの](../Page/東海ラジオ放送.md "wikilink")『[東海ラジオミッドナイトスペシャル](../Page/東海ラジオミッドナイトスペシャル.md "wikilink")』内の番組『midnightPumpkinのJUICY-GO-RADIO』がスタート（[2007年](../Page/2007年.md "wikilink")[2月13日](../Page/2月13日.md "wikilink")まで）。これと同時期に[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")『[Zipper](../Page/Zipper.md "wikilink")』においてwakanaの連載が始まる。同年[10月26日](../Page/10月26日.md "wikilink")にアルバム『TimeLimit』でインディーズデビュー、同年[11月5日](../Page/11月5日.md "wikilink")に[大阪府](../Page/大阪府.md "wikilink")の[万博記念公園](../Page/万博記念公園.md "wikilink")で行われた「LIVE F.O.B.05」に参加し、初の野外ライヴを経験。翌[2006年](../Page/2006年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")に「TimeLimit 47min. TOUR 2005-2006(全国47都道府県ツアー)」のファイナルとして、地元・名古屋のアポロシアターで初のワンマンライブを行う。
 
-翌[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月5日](../Page/7月5日.md "wikilink")にはシングル『VEGA/CRYBABY』をリリース、この2作品は[オリコンインディーズチャートで連続](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位となる。この間、2005年[10月31日](../Page/10月31日.md "wikilink")から[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")まで、47全都道府県を回るコンサートツアー（146日間、54公演）を行う。
+翌[2006年](../Page/2006年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink")にはシングル『VEGA/CRYBABY』をリリース、この2作品は[オリコンインディーズチャートで連続](../Page/オリコンチャート.md "wikilink")1位となる。この間、2005年[10月31日](../Page/10月31日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")まで、47全都道府県を回るコンサートツアー（146日間、54公演）を行う。
 
 この全国ツアー中の2006年[1月11日](../Page/1月11日.md "wikilink")をもって、[ベーシスト](../Page/ベーシスト.md "wikilink")の**83**（現[CHERRYBLOSSOM](https://ja.wikipedia.org/wiki/CHERRYBLOSSOM "wikilink")）が脱退。同年[8月14日](../Page/8月14日.md "wikilink")で[トロンボーン](../Page/トロンボーン.md "wikilink")担当の**Mipo**も脱退する。
 
 2006年[10月18日](../Page/10月18日.md "wikilink")、シングル『BOYS\&GIRLS』でメジャーデビュー。
 
-[2007年](../Page/2007年.md "wikilink")、“Pumpkin”に掛けた[ハロウィン](https://ja.wikipedia.org/wiki/ハロウィン "wikilink")の日の[10月31日](../Page/10月31日.md "wikilink")に東京の[Shibuya O-Westでワンマンライブを行う](https://ja.wikipedia.org/wiki/Shibuya_O-West "wikilink")。
+[2007年](../Page/2007年.md "wikilink")、“Pumpkin”に掛けた[ハロウィン](../Page/ハロウィン.md "wikilink")の日の[10月31日](../Page/10月31日.md "wikilink")に東京の[Shibuya O-Westでワンマンライブを行う](https://ja.wikipedia.org/wiki/Shibuya_O-West "wikilink")。
 
 2009年、メンバー渾身のミニアルバム「Us and U」を[PCI MUSICよりリリースする](https://ja.wikipedia.org/wiki/PCI_MUSIC "wikilink")。
 
@@ -35,14 +35,14 @@
       -
         血液型：A型
         特技：落書き、人間観察
-        好きなアーティスト、有名人：[THE BEATLES](https://ja.wikipedia.org/wiki/THE_BEATLES "wikilink")、[ジェリーフィッシュ](../Page/ジェリーフィッシュ_\(バンド\).md "wikilink")、[SPIRAL LIFE](https://ja.wikipedia.org/wiki/SPIRAL_LIFE "wikilink")、[手塚治虫](../Page/手塚治虫.md "wikilink")、[丸尾末広](../Page/丸尾末広.md "wikilink")、[大島弓子](../Page/大島弓子.md "wikilink")、[伊藤潤二](../Page/伊藤潤二.md "wikilink")、[古屋兎丸](https://ja.wikipedia.org/wiki/古屋兎丸 "wikilink")、[ティム・バートン](../Page/ティム・バートン.md "wikilink")
-        『[Zipper](../Page/Zipper.md "wikilink")』連載を持っていた他、[MUSIC ON\! TVでレギュラー出演をしていたことがある](https://ja.wikipedia.org/wiki/MUSIC_ON!_TV "wikilink")。
-        midnightPumpkin活動休止後はソロプロジェクト、[ペパーミント](https://ja.wikipedia.org/wiki/ペパーミント "wikilink")として活動している。
+        好きなアーティスト、有名人：[THE BEATLES](https://ja.wikipedia.org/wiki/THE_BEATLES "wikilink")、[ジェリーフィッシュ](../Page/ジェリーフィッシュ_\(バンド\).md "wikilink")、[SPIRAL LIFE](https://ja.wikipedia.org/wiki/SPIRAL_LIFE "wikilink")、[手塚治虫](../Page/手塚治虫.md "wikilink")、[丸尾末広](../Page/丸尾末広.md "wikilink")、[大島弓子](../Page/大島弓子.md "wikilink")、[伊藤潤二](../Page/伊藤潤二.md "wikilink")、[古屋兎丸](../Page/古屋兎丸.md "wikilink")、[ティム・バートン](../Page/ティム・バートン.md "wikilink")
+        『[Zipper](../Page/Zipper.md "wikilink")』連載を持っていた他、[MUSIC ON\! TVでレギュラー出演をしていたことがある](../Page/MUSIC_ON!_TV.md "wikilink")。
+        midnightPumpkin活動休止後はソロプロジェクト、[ペパーミント](../Page/ペパーミント.md "wikilink")として活動している。
   - MAYA（まや、11月5日 生まれ ）ボーカル
       -
         血液型：O型
         特技：車中爆睡？（東京から神戸まで一度も起きずに行った事があるとのこと）
-        好きなアーティスト、有名人：[LOSTPROPHETS](https://ja.wikipedia.org/wiki/LOSTPROPHETS "wikilink")、[The Kooks](https://ja.wikipedia.org/wiki/The_Kooks "wikilink")、[The Strokes](https://ja.wikipedia.org/wiki/The_Strokes "wikilink")、[岡田将生](https://ja.wikipedia.org/wiki/岡田将生 "wikilink")演じる『ハル』、[小栗旬](https://ja.wikipedia.org/wiki/小栗旬 "wikilink")演じる『滝谷源氏』、[渚カヲル](../Page/渚カヲル.md "wikilink")
+        好きなアーティスト、有名人：[LOSTPROPHETS](https://ja.wikipedia.org/wiki/LOSTPROPHETS "wikilink")、[The Kooks](https://ja.wikipedia.org/wiki/The_Kooks "wikilink")、[The Strokes](https://ja.wikipedia.org/wiki/The_Strokes "wikilink")、[岡田将生](https://ja.wikipedia.org/wiki/岡田将生 "wikilink")演じる『ハル』、[小栗旬](../Page/小栗旬.md "wikilink")演じる『滝谷源氏』、[渚カヲル](../Page/渚カヲル.md "wikilink")
         midnightPumpkin活動休止後は、[RAVAR](https://ja.wikipedia.org/wiki/RAVAR "wikilink")というバンドで活動していたが、同バンドは[2014年](../Page/2014年.md "wikilink")解散。
   - SHINYA（しんや、[10月21日](../Page/10月21日.md "wikilink") 生まれ ）ドラム
   - HIROKI（ひろき、[1月13日](../Page/1月13日.md "wikilink") 生まれ ）トランペット
@@ -427,7 +427,7 @@
 <td><p>AUTHENTIC RECORD</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/11月9日.md" title="wikilink">11月9日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/11月9日.md" title="wikilink">11月9日</a></p></td>
 <td><p><strong>STYLE OF Limited VITALIZE〜BEST SELLECTION〜</strong></p></td>
 <td><p>LTDC-088</p></td>
 <td><ol>
@@ -441,22 +441,22 @@
 <li>Tequila / <a href="https://ja.wikipedia.org/wiki/コーガニズムオーケストラ" title="wikilink">コーガニズムオーケストラ</a></li>
 <li>クランチ / <a href="https://ja.wikipedia.org/wiki/bus_tribute" title="wikilink">bus tribute</a></li>
 <li>アオイソラ / <a href="https://ja.wikipedia.org/wiki/NAPSAX" title="wikilink">NAPSAX</a></li>
-<li>Kiss My Baby / <a href="https://ja.wikipedia.org/wiki/ムラマサ☆" title="wikilink">ムラマサ☆</a></li>
+<li>Kiss My Baby / <a href="../Page/ムラマサ☆.md" title="wikilink">ムラマサ☆</a></li>
 </ol>
 <p># ユメノセカイ / [[SQUEEZE</p></td>
 <td><p>|SQUEEZE</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/2月22日.md" title="wikilink">2月22日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/2月22日.md" title="wikilink">2月22日</a></p></td>
 <td><p><strong>STREET ROCK FILE THE BEST 3</strong></p></td>
 <td><p>TKCA-72953</p></td>
 <td><ol>
-<li>花鳥風月 / <a href="https://ja.wikipedia.org/wiki/B-DASH" title="wikilink">B-DASH</a></li>
-<li>Don't Escape From Realit / <a href="https://ja.wikipedia.org/wiki/NICOTINE" title="wikilink">NICOTINE</a></li>
-<li>Over The Space / <a href="https://ja.wikipedia.org/wiki/ムラマサ☆" title="wikilink">ムラマサ☆</a></li>
-<li>アシタハレルヤ / <a href="https://ja.wikipedia.org/wiki/Yum!Yum!ORANGE" title="wikilink">Yum!Yum!ORANGE</a></li>
-<li>生きてこそ / <a href="https://ja.wikipedia.org/wiki/THE_BOOGIE_JACK" title="wikilink">THE BOOGIE JACK</a></li>
-<li>Sing A Well / <a href="https://ja.wikipedia.org/wiki/HIGHWAY61" title="wikilink">HIGHWAY61</a></li>
+<li>花鳥風月 / <a href="../Page/B-DASH.md" title="wikilink">B-DASH</a></li>
+<li>Don't Escape From Realit / <a href="../Page/NICOTINE.md" title="wikilink">NICOTINE</a></li>
+<li>Over The Space / <a href="../Page/ムラマサ☆.md" title="wikilink">ムラマサ☆</a></li>
+<li>アシタハレルヤ / <a href="../Page/Yum!Yum!ORANGE.md" title="wikilink">Yum!Yum!ORANGE</a></li>
+<li>生きてこそ / <a href="../Page/THE_BOOGIE_JACK.md" title="wikilink">THE BOOGIE JACK</a></li>
+<li>Sing A Well / <a href="../Page/HIGHWAY61.md" title="wikilink">HIGHWAY61</a></li>
 <li><strong>Jucy-Go-Round / midnightPumpkin</strong></li>
 <li>弾丸ライナー / <a href="../Page/アカツキ..md" title="wikilink">アカツキ.</a></li>
 <li>Runnin' Bumpy Road / <a href="../Page/SA_(バンド).md" title="wikilink">SA</a></li>
@@ -485,8 +485,8 @@
 <td><p>VICL-62800</p></td>
 <td><ol>
 <li>学園天国 / <a href="https://ja.wikipedia.org/wiki/RUDE_GIRLS" title="wikilink">RUDE GIRLS</a></li>
-<li>キスしてほしい（トゥー・トゥー・トゥー） / <a href="https://ja.wikipedia.org/wiki/中ノ森BAND" title="wikilink">中ノ森BAND</a></li>
-<li>大迷惑 / <a href="https://ja.wikipedia.org/wiki/GELUGUGU" title="wikilink">GELUGUGU</a></li>
+<li>キスしてほしい（トゥー・トゥー・トゥー） / <a href="../Page/中ノ森BAND.md" title="wikilink">中ノ森BAND</a></li>
+<li>大迷惑 / <a href="../Page/GELUGUGU.md" title="wikilink">GELUGUGU</a></li>
 <li>My Revolution / <a href="../Page/少年カミカゼ.md" title="wikilink">少年カミカゼ</a></li>
 <li><strong>15の夜 / midnightPumpkin</strong></li>
 <li>ジーザス！ジーザス！ / <a href="https://ja.wikipedia.org/wiki/CONCONJUMP" title="wikilink">CONCONJUMP</a></li>
@@ -494,7 +494,7 @@
 <li>世界中の誰よりきっと / <a href="https://ja.wikipedia.org/wiki/SKULL_CANDY" title="wikilink">SKULL CANDY</a></li>
 <li>六本木心中 / <a href="https://ja.wikipedia.org/wiki/THE_PINK☆PANDA" title="wikilink">THE PINK☆PANDA</a></li>
 <li>フレンズ / <a href="https://ja.wikipedia.org/wiki/FRESH_CHERRY_SOURCE" title="wikilink">FRESH CHERRY SOURCE</a></li>
-<li>恋のダイヤル6700 / <a href="https://ja.wikipedia.org/wiki/Yum!Yum!ORANGE" title="wikilink">Yum!Yum!ORANGE</a></li>
+<li>恋のダイヤル6700 / <a href="../Page/Yum!Yum!ORANGE.md" title="wikilink">Yum!Yum!ORANGE</a></li>
 </ol></td>
 <td><p>Victor Entertainment</p></td>
 </tr>
@@ -504,12 +504,12 @@
 <td><p>HFR-001</p></td>
 <td><ol>
 <li>Dear pink / <a href="../Page/YVE.md" title="wikilink">YVE</a> feat. <a href="https://ja.wikipedia.org/wiki/SKULL_CANDY" title="wikilink">SKULL CANDY</a></li>
-<li>MONSTER TREE / <a href="https://ja.wikipedia.org/wiki/SHAKALABBITS" title="wikilink">SHAKALABBITS</a></li>
+<li>MONSTER TREE / <a href="../Page/SHAKALABBITS.md" title="wikilink">SHAKALABBITS</a></li>
 </ol>
 <p># Fighting Girls</p></td>
 <td><p>/ <a href="../Page/GOLLBETTY.md" title="wikilink">GOLLBETTY</a></p>
 <ol>
-<li>二月の雪 / <a href="https://ja.wikipedia.org/wiki/ムラマサ☆" title="wikilink">ムラマサ☆</a></li>
+<li>二月の雪 / <a href="../Page/ムラマサ☆.md" title="wikilink">ムラマサ☆</a></li>
 <li>Kiss off / <a href="https://ja.wikipedia.org/wiki/YOPPY_and_the_Attackers" title="wikilink">YOPPY and the Attackers</a></li>
 <li>big fish / <a href="https://ja.wikipedia.org/wiki/SKULL_CANDY" title="wikilink">SKULL CANDY</a></li>
 <li><strong>Stereo Magic Night / midnightPumpkin</strong></li>
@@ -523,12 +523,12 @@
 <td><p><strong>女子うたフル ガールズロック フルスロットル</strong></p></td>
 <td><p>PCCA-03010</p></td>
 <td><ol>
-<li>MONSTER TREE / <a href="https://ja.wikipedia.org/wiki/SHAKALABBITS" title="wikilink">SHAKALABBITS</a></li>
+<li>MONSTER TREE / <a href="../Page/SHAKALABBITS.md" title="wikilink">SHAKALABBITS</a></li>
 <li>DIVE TO WORLD / <a href="https://ja.wikipedia.org/wiki/CHERRYBLOSSOM" title="wikilink">CHERRYBLOSSOM</a></li>
 <li><strong>BOYS &amp; GIRLS / midnightPumpkin</strong></li>
 <li>感電 / <a href="https://ja.wikipedia.org/wiki/フーバーオーバー" title="wikilink">フーバーオーバー</a></li>
-<li>午前五時の汽車に乗り / <a href="https://ja.wikipedia.org/wiki/ムラマサ☆" title="wikilink">ムラマサ☆</a></li>
-<li>Pivot / <a href="https://ja.wikipedia.org/wiki/SHAKALABBITS" title="wikilink">SHAKALABBITS</a></li>
+<li>午前五時の汽車に乗り / <a href="../Page/ムラマサ☆.md" title="wikilink">ムラマサ☆</a></li>
+<li>Pivot / <a href="../Page/SHAKALABBITS.md" title="wikilink">SHAKALABBITS</a></li>
 <li>I say good-bye / ムラマサ☆</li>
 <li><strong>TimeLimit / midnightPumpkin</strong></li>
 <li>信号 / <a href="https://ja.wikipedia.org/wiki/CHERRYBLOSSOM" title="wikilink">CHERRYBLOSSOM</a></li>

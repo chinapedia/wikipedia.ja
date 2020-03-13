@@ -1,11 +1,11 @@
 > この記事は[SATO](https://ja.wikipedia.org/wiki/SATO)から翻訳されています。
 
 
-**SATO**は、[アジア](https://ja.wikipedia.org/wiki/アジア "wikilink")や[サブサハラアフリカ](https://ja.wikipedia.org/wiki/サブサハラアフリカ "wikilink")の[途上国](https://ja.wikipedia.org/wiki/途上国 "wikilink")で普及が進む安価な[プラスチック](https://ja.wikipedia.org/wiki/プラスチック "wikilink")製の簡易式トイレ用[便器](https://ja.wikipedia.org/wiki/便器 "wikilink")。Safe Toiletからの略語。
+**SATO**は、[アジア](../Page/アジア.md "wikilink")や[サブサハラアフリカ](https://ja.wikipedia.org/wiki/サブサハラアフリカ "wikilink")の[途上国](https://ja.wikipedia.org/wiki/途上国 "wikilink")で普及が進む安価な[プラスチック](https://ja.wikipedia.org/wiki/プラスチック "wikilink")製の簡易式トイレ用[便器](../Page/便器.md "wikilink")。Safe Toiletからの略語。
 
 ## 概要
 
-日本の[LIXIL](https://ja.wikipedia.org/wiki/LIXIL "wikilink")のアメリカ法人、アメリカンスタンダード・ブランズが、2010年代に[ビル&メリンダ・ゲイツ財団](../Page/ビル&メリンダ・ゲイツ財団.md "wikilink")が行ったトイレ再発明チャレンジ（Reinvent the Toilet Challenge）助成を受けて制作されたプラスチック製の簡易式トイレ。世界の途上国では、トイレの整備不足から[屋外排泄](https://ja.wikipedia.org/wiki/屋外排泄 "wikilink")を余儀なくされる住民が今なお9億人が存在しており、非衛生的環境から健康を害するケースが後を絶たない。初期のSATOは、プラスチックで成型加工した[和式便器](https://ja.wikipedia.org/wiki/和式便器 "wikilink")然の形状ではあるものの簡易な弁がついており、既存の[汲み取り式トイレ](https://ja.wikipedia.org/wiki/汲み取り式トイレ "wikilink")システムと組み合わせるだけでも臭気の排出や虫の侵入、繁殖を防ぐ機能があり、地域の衛生環境を向上させる効果が期待できる。[2015年](../Page/2015年.md "wikilink")に[アメリカ合衆国商務省](../Page/アメリカ合衆国商務省.md "wikilink")より、「人類のための特許賞」を受賞した\[1\]。
+日本の[LIXIL](https://ja.wikipedia.org/wiki/LIXIL "wikilink")のアメリカ法人、アメリカンスタンダード・ブランズが、2010年代に[ビル&メリンダ・ゲイツ財団](../Page/ビル&メリンダ・ゲイツ財団.md "wikilink")が行ったトイレ再発明チャレンジ（Reinvent the Toilet Challenge）助成を受けて制作されたプラスチック製の簡易式トイレ。世界の途上国では、トイレの整備不足から[屋外排泄](../Page/屋外排泄.md "wikilink")を余儀なくされる住民が今なお9億人が存在しており、非衛生的環境から健康を害するケースが後を絶たない。初期のSATOは、プラスチックで成型加工した[和式便器](https://ja.wikipedia.org/wiki/和式便器 "wikilink")然の形状ではあるものの簡易な弁がついており、既存の[汲み取り式トイレ](https://ja.wikipedia.org/wiki/汲み取り式トイレ "wikilink")システムと組み合わせるだけでも臭気の排出や虫の侵入、繁殖を防ぐ機能があり、地域の衛生環境を向上させる効果が期待できる。[2015年](../Page/2015年.md "wikilink")に[アメリカ合衆国商務省](../Page/アメリカ合衆国商務省.md "wikilink")より、「人類のための特許賞」を受賞した\[1\]。
 
 ## 普及
 

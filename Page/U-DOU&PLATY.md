@@ -108,7 +108,7 @@
     10. Computer
     11. 転職〜マスターから海人へ〜 -SKIT-
     12. 海人
-    13. For di Future feat. [かりゆし58](https://ja.wikipedia.org/wiki/かりゆし58 "wikilink")
+    13. For di Future feat. [かりゆし58](../Page/かりゆし58.md "wikilink")
     14. Happy Birthday
     15. Voice of OKINAWA -RISE UP MIX-
     16. カリー〜乾杯〜 -SKIT-

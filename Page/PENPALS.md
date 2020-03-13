@@ -1,7 +1,7 @@
 > この記事は[PENPALS](https://ja.wikipedia.org/wiki/PENPALS)から翻訳されています。
 
 
-**PENPALS**（ペンパルズ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。[双子](https://ja.wikipedia.org/wiki/双子 "wikilink")の兄弟である上条鉄也・盛也兄弟と当時[大学院生](https://ja.wikipedia.org/wiki/大学院生 "wikilink")だった林により1996年8月結成。1997年[バップ](https://ja.wikipedia.org/wiki/バップ "wikilink")よりメジャーデビュー。その後[R and Cに移籍](https://ja.wikipedia.org/wiki/よしもとアール・アンド・シー "wikilink")。2005年[COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink")05/06をもって解散したが、 2011年2月13日に平井を除くオリジナルメンバーで東京・下北沢SHELTERで約5年2カ月ぶりの復活ライブを行った。
+**PENPALS**（ペンパルズ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。[双子](https://ja.wikipedia.org/wiki/双子 "wikilink")の兄弟である上条鉄也・盛也兄弟と当時[大学院生](https://ja.wikipedia.org/wiki/大学院生 "wikilink")だった林により1996年8月結成。1997年[バップ](../Page/バップ.md "wikilink")よりメジャーデビュー。その後[R and Cに移籍](https://ja.wikipedia.org/wiki/よしもとアール・アンド・シー "wikilink")。2005年[COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink")05/06をもって解散したが、 2011年2月13日に平井を除くオリジナルメンバーで東京・下北沢SHELTERで約5年2カ月ぶりの復活ライブを行った。
 2019年4月オリジナルメンバーの上条欽也、上条盛也、林宗應は、新バンド[AFOK](https://ja.wikipedia.org/wiki/AFOK "wikilink")を結成し、PENPALSの楽曲や新曲を演奏するライブ活動を行なっている。
 
 ## メンバー
@@ -46,7 +46,7 @@
 <li>Nevermind[3:46]（作詞・作曲・編曲：PENPALS）</li>
 <li>super power[4:16]</li>
 </ol></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/池田大輔" title="wikilink">池田大輔</a>入場テーマ曲</p></td>
+<td><p><a href="../Page/池田大輔.md" title="wikilink">池田大輔</a>入場テーマ曲</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
@@ -71,7 +71,7 @@
 <li>IN MY BED (I've been waiting so long)[4:17]（作詞・作曲・編曲：PENPALS）
 <dl>
 <dt></dt>
-<dd>ANB系「<a href="https://ja.wikipedia.org/wiki/ぷらちなロンドンブーツ" title="wikilink">ぷらちなロンドンブーツ</a>」エンディングテーマ
+<dd>ANB系「<a href="../Page/ぷらちなロンドンブーツ.md" title="wikilink">ぷらちなロンドンブーツ</a>」エンディングテーマ
 </dd>
 </dl></li>
 <li>IN THE FOLD[2:55]（作詞・作曲・編曲：PENPALS）</li>
@@ -99,7 +99,7 @@
 <td><ol>
 <li>DAYS GONE BY[2:41]（作詞・作曲・編曲：PENPALS）</li>
 <li>CALIFORNIA[3:13]（作詞・作曲・編曲：PENPALS）</li>
-<li><a href="https://ja.wikipedia.org/wiki/w:en:Crazy_Train" title="wikilink">CRAZY TRAIN</a>[3:51]（作詞・作曲・編曲：<a href="https://ja.wikipedia.org/wiki/オジー・オズボーン" title="wikilink">オジー・オズボーン</a>、<a href="https://ja.wikipedia.org/wiki/ボブ・デイズリー" title="wikilink">ボブ・デイズリー</a>、<a href="https://ja.wikipedia.org/wiki/ランディ・ローズ" title="wikilink">ランディ・ローズ</a>）</li>
+<li><a href="https://ja.wikipedia.org/wiki/w:en:Crazy_Train" title="wikilink">CRAZY TRAIN</a>[3:51]（作詞・作曲・編曲：<a href="../Page/オジー・オズボーン.md" title="wikilink">オジー・オズボーン</a>、<a href="../Page/ボブ・デイズリー.md" title="wikilink">ボブ・デイズリー</a>、<a href="../Page/ランディ・ローズ.md" title="wikilink">ランディ・ローズ</a>）</li>
 </ol></td>
 <td><p>オリコン69位</p></td>
 </tr>
@@ -118,7 +118,7 @@
 <li>DAYS GONE BY (OKINAWA RAGGA STYLE)[4:43]（作詞：林宗應／作曲・編曲：PENPALS）</li>
 <li>MORE FUN?(<a href="https://ja.wikipedia.org/wiki/DJ_FUMIYA" title="wikilink">DJ FUMIYA</a> UP ROCK FUNK MIX)[6:27]</li>
 </ol></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RIP_SLYME" title="wikilink">RIP SLYMEの</a><a href="../Page/SU_(RIP_SLYME).md" title="wikilink">SUが客演</a><br />
+<td><p><a href="../Page/RIP_SLYME.md" title="wikilink">RIP SLYMEの</a><a href="../Page/SU_(RIP_SLYME).md" title="wikilink">SUが客演</a><br />
 オリコン49位</p></td>
 </tr>
 <tr class="odd">
@@ -148,7 +148,7 @@
 <li>あなたがここにいて欲しい[6:00]（作詞・作曲：林宗應／編曲：PENPALS）
 <dl>
 <dt></dt>
-<dd>YTV・NTV系「<a href="https://ja.wikipedia.org/wiki/フジリコ" title="wikilink">フジリコ</a>」エンディングテーマ
+<dd>YTV・NTV系「<a href="../Page/フジリコ.md" title="wikilink">フジリコ</a>」エンディングテーマ
 </dd>
 </dl></li>
 <li>WISH YOU WERE HERE[4:15]（作詞・作曲：林宗應／編曲：PENPALS）</li>
@@ -191,7 +191,7 @@
 <li>DANCE[4:27]（作詞・作曲：Munemasa Hayashi／編曲：PENPALS）
 <dl>
 <dt></dt>
-<dd><a href="https://ja.wikipedia.org/wiki/ミュージックビデオ" title="wikilink">PVに</a><a href="https://ja.wikipedia.org/wiki/六車勇輝" title="wikilink">六車勇輝</a>出演
+<dd><a href="https://ja.wikipedia.org/wiki/ミュージックビデオ" title="wikilink">PVに</a><a href="../Page/六車勇輝.md" title="wikilink">六車勇輝</a>出演
 </dd>
 </dl></li>
 <li>BELIEVE[3:37]（作詞・作曲：Munemasa Hayashi／編曲：PENPALS）
@@ -651,7 +651,7 @@ VPBQ-19004:DVD</p></td>
 | [墳崎貴士](https://ja.wikipedia.org/wiki/墳崎貴士 "wikilink")             | 「LET GO -ALTERNATE VERSION-」                                                                                                                       |
 | [PARTY KING](https://ja.wikipedia.org/wiki/PARTY_KING "wikilink") | 「TOUGH TOUGH TOUGH」                                                                                                                                |
 | [番場秀一](../Page/番場秀一.md "wikilink")                                | 「Life on the way」「ラヴソング」                                                                                                                           |
-| [マサオ](https://ja.wikipedia.org/wiki/マサオ "wikilink")               | 「BELIEVE」「DANCE」(出演:[六車勇輝](https://ja.wikipedia.org/wiki/六車勇輝 "wikilink"))「ROCK YOU BABY」                                                          |
+| [マサオ](https://ja.wikipedia.org/wiki/マサオ "wikilink")               | 「BELIEVE」「DANCE」(出演:[六車勇輝](../Page/六車勇輝.md "wikilink"))「ROCK YOU BABY」                                                                             |
 | 不明                                                                | 「70 times」「AMERICAMAN」「CARS」「I WANNA KNOW」「I'M NOT DOWN」「INSIDE OUT」「LONELY DAYS」「RIGHT NOW」「TELL ME WHY」「\[I've been waiting so long\] IN MY BED」 |
 |                                                                   |                                                                                                                                                    |
 

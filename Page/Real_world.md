@@ -19,7 +19,7 @@
       -
         作詞：[Kenn Kato](https://ja.wikipedia.org/wiki/Kenn_Kato "wikilink") / 作曲：[山口寛雄](https://ja.wikipedia.org/wiki/山口寛雄 "wikilink") / 編曲：[原田憲](../Page/原田憲_\(ミュージシャン\).md "wikilink")
     <!-- end list -->
-      - [日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系[プロ野球中継](https://ja.wikipedia.org/wiki/プロ野球中継 "wikilink")『[1球の緊張感 LIVE 2004](https://ja.wikipedia.org/wiki/Dramatic_Game_1844 "wikilink")』イメージソング
+      - [日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系[プロ野球中継](../Page/プロ野球中継.md "wikilink")『[1球の緊張感 LIVE 2004](https://ja.wikipedia.org/wiki/Dramatic_Game_1844 "wikilink")』イメージソング
 2.  **ありがとう** - [清木場俊介](../Page/清木場俊介.md "wikilink")
       -
         作詞・作曲：清木場俊介 / 編曲：岩戸崇

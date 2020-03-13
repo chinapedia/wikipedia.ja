@@ -1,7 +1,7 @@
 > この記事は[HIRO SAKAI](https://ja.wikipedia.org/wiki/HIRO_SAKAI)から翻訳されています。
 
 
-**HIRO SAKAI**（ヒロ・サカイ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[奇術師](https://ja.wikipedia.org/wiki/マジシャン_\(奇術\) "wikilink")。[1989年](../Page/1989年.md "wikilink")にデビューして以来、[デビッド・カッパーフィールド](https://ja.wikipedia.org/wiki/デビッド・カッパーフィールド "wikilink")のテレビ番組に[マジックのアイディアを提供するなど](https://ja.wikipedia.org/wiki/奇術 "wikilink")、国際的に活躍している。また、[厚川昌男](https://ja.wikipedia.org/wiki/厚川昌男 "wikilink")賞（1989年）、[石田天海賞](https://ja.wikipedia.org/wiki/石田天海賞 "wikilink")（1993年）の両賞を受賞した唯一のマジシャンである。[FISM](https://ja.wikipedia.org/wiki/FISM "wikilink")のコンテストの審査員を務めたこともある。[2000年](../Page/2000年.md "wikilink")には[アメリカのマジック団体F](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink").F.F.F.からDoctor of magic Deplomaの称号を受けている。
+**HIRO SAKAI**（ヒロ・サカイ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[奇術師](https://ja.wikipedia.org/wiki/マジシャン_\(奇術\) "wikilink")。[1989年](../Page/1989年.md "wikilink")にデビューして以来、[デビッド・カッパーフィールド](../Page/デビッド・カッパーフィールド.md "wikilink")のテレビ番組に[マジックのアイディアを提供するなど](../Page/奇術.md "wikilink")、国際的に活躍している。また、[厚川昌男](https://ja.wikipedia.org/wiki/厚川昌男 "wikilink")賞（1989年）、[石田天海賞](https://ja.wikipedia.org/wiki/石田天海賞 "wikilink")（1993年）の両賞を受賞した唯一のマジシャンである。[FISM](../Page/FISM.md "wikilink")のコンテストの審査員を務めたこともある。[2000年](../Page/2000年.md "wikilink")には[アメリカのマジック団体F](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink").F.F.F.からDoctor of magic Deplomaの称号を受けている。
 
 ## 主な活動
 
@@ -9,7 +9,7 @@
 
   - [森田一義アワー 笑っていいとも\!](https://ja.wikipedia.org/wiki/森田一義アワー_笑っていいとも! "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
   - [マジック王国](../Page/マジック王国.md "wikilink") （2001年 [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
-  - [USO\!?ジャパン](https://ja.wikipedia.org/wiki/USO!?ジャパン "wikilink") マジック・バトル （2003年8月 [TBS](../Page/TBSテレビ.md "wikilink")） - 決勝優勝
+  - [USO\!?ジャパン](../Page/USO!?ジャパン.md "wikilink") マジック・バトル （2003年8月 [TBS](../Page/TBSテレビ.md "wikilink")） - 決勝優勝
   - スイスペ あなたは信じられるか\!超マジック\!奇跡の空間 （2004年5月 [テレビ朝日](../Page/テレビ朝日.md "wikilink")）
   - スイスペ あなたは信じられるか\!超マジック\!奇跡の空間2 （2004年9月 テレビ朝日）
   - [ドスペ](https://ja.wikipedia.org/wiki/ドスペ "wikilink") あなたは信じられるか\!超マジック\!奇跡の空間3 （2005年2月 テレビ朝日）
@@ -58,7 +58,7 @@
 
 ## 関連項目
 
-  - [奇術](https://ja.wikipedia.org/wiki/奇術 "wikilink")
+  - [奇術](../Page/奇術.md "wikilink")
   - [ダブル・フェイス](../Page/ダブル・フェイス.md "wikilink")の取材にも協力している。
 
 ## 外部リンク

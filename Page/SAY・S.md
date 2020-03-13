@@ -1,17 +1,17 @@
 > この記事は[SAYS](https://ja.wikipedia.org/wiki/SAYS)から翻訳されています。
 
 
-**SAY・S**（セイズ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")で、[光GENJI](https://ja.wikipedia.org/wiki/光GENJI "wikilink")の派生ユニットである。メンバーは[諸星和己](https://ja.wikipedia.org/wiki/諸星和己 "wikilink")を除く[GENJIのメンバー](https://ja.wikipedia.org/wiki/光GENJI "wikilink")4人によって構成される。
+**SAY・S**（セイズ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")で、[光GENJI](../Page/光GENJI.md "wikilink")の派生ユニットである。メンバーは[諸星和己](../Page/諸星和己.md "wikilink")を除く[GENJIのメンバー](../Page/光GENJI.md "wikilink")4人によって構成される。
 
 ## 概要・来歴・エピソード
 
-  - [光GENJI](https://ja.wikipedia.org/wiki/光GENJI "wikilink")のメンバーを年齢順・誕生日順に並べた際に、若い方から数えた4人で結成されたユニットである。
-  - グループ名の由来は、メンバーそれぞれの苗字のイニシャルから。（S：[佐藤敦啓](https://ja.wikipedia.org/wiki/佐藤アツヒロ "wikilink")、A：[赤坂](https://ja.wikipedia.org/wiki/赤坂晃 "wikilink")、Y：[山本](../Page/山本淳一.md "wikilink")、S：[佐藤寛之](../Page/佐藤寛之.md "wikilink")）。このメンバーの頭文字を使ってグループ名にする方式は[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")において先がけとされ、後に結成された事務所の後輩グループである[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")、[Kis-My-Ft2](https://ja.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")、[NYCにも採用されている](https://ja.wikipedia.org/wiki/NYC_\(アイドルグループ\) "wikilink")。
-  - 母体となるグループから内部ユニットが派生するスタイルは[Kis-My-Ft2](https://ja.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")（[舞祭組](https://ja.wikipedia.org/wiki/舞祭組 "wikilink")）などにも見られる。
+  - [光GENJI](../Page/光GENJI.md "wikilink")のメンバーを年齢順・誕生日順に並べた際に、若い方から数えた4人で結成されたユニットである。
+  - グループ名の由来は、メンバーそれぞれの苗字のイニシャルから。（S：[佐藤敦啓](../Page/佐藤アツヒロ.md "wikilink")、A：[赤坂](https://ja.wikipedia.org/wiki/赤坂晃 "wikilink")、Y：[山本](../Page/山本淳一.md "wikilink")、S：[佐藤寛之](../Page/佐藤寛之.md "wikilink")）。このメンバーの頭文字を使ってグループ名にする方式は[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")において先がけとされ、後に結成された事務所の後輩グループである[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")、[Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")、[NYCにも採用されている](https://ja.wikipedia.org/wiki/NYC_\(アイドルグループ\) "wikilink")。
+  - 母体となるグループから内部ユニットが派生するスタイルは[Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")（[舞祭組](https://ja.wikipedia.org/wiki/舞祭組 "wikilink")）などにも見られる。
   - 光GENJIの時はコンサートでもあまり話す機会のない4人だが、4人だけでの場面では皆の発言回数は多く、主に赤坂が仕切り担当となっていた。
-  - GENJIから[諸星和己](https://ja.wikipedia.org/wiki/諸星和己 "wikilink")を抜いた形のユニットということで、5人から4人になるのはどのような感じかを聞かれた際には、「4人平等なラインに立って何する時にも一緒に出てますから、力強いってのはありますよね」と赤坂が答えている。また山本は「SAY・Sにリーダーは居ない」と発言している。
-  - 他の光GENJIメンバーの中では[大沢樹生](https://ja.wikipedia.org/wiki/大沢樹生 "wikilink")との絡みが多く、楽屋で「ねえ、ご飯食べに行こうよ。僕がおごるよ」と言った大沢に対し赤坂が「よし行こう！大沢君のおごりで！」と返したり、コンサートでは走り出した大沢に4人が笑顔で顔を見合わせ叫びながら便乗する姿が見られた。
-  - 「WE ARE THE CHAMP」でバックコーラスを担当したJ. WorldはSAY･Sの主導で結成したサッカーチームで、メンバーはSMAPの6人・デビュー前の[TOKIO](../Page/TOKIO.md "wikilink")(この当時は[城島茂](../Page/城島茂.md "wikilink")・[山口達也](https://ja.wikipedia.org/wiki/山口達也_\(代表的なトピック\) "wikilink")・[国分太一](../Page/国分太一.md "wikilink")・[松岡昌宏](../Page/松岡昌宏.md "wikilink")・小島啓)の5人・TOKIO加入前の[長瀬智也](../Page/長瀬智也.md "wikilink")・デビュー前の[KinKi Kids](../Page/KinKi_Kids.md "wikilink")([堂本光一](../Page/堂本光一.md "wikilink")・[堂本剛](../Page/堂本剛.md "wikilink"))の2人・後の[V6の](../Page/V6_\(グループ\).md "wikilink")[井ノ原快彦](https://ja.wikipedia.org/wiki/井ノ原快彦 "wikilink")の計15人。
+  - GENJIから[諸星和己](../Page/諸星和己.md "wikilink")を抜いた形のユニットということで、5人から4人になるのはどのような感じかを聞かれた際には、「4人平等なラインに立って何する時にも一緒に出てますから、力強いってのはありますよね」と赤坂が答えている。また山本は「SAY・Sにリーダーは居ない」と発言している。
+  - 他の光GENJIメンバーの中では[大沢樹生](../Page/大沢樹生.md "wikilink")との絡みが多く、楽屋で「ねえ、ご飯食べに行こうよ。僕がおごるよ」と言った大沢に対し赤坂が「よし行こう！大沢君のおごりで！」と返したり、コンサートでは走り出した大沢に4人が笑顔で顔を見合わせ叫びながら便乗する姿が見られた。
+  - 「WE ARE THE CHAMP」でバックコーラスを担当したJ. WorldはSAY･Sの主導で結成したサッカーチームで、メンバーはSMAPの6人・デビュー前の[TOKIO](../Page/TOKIO.md "wikilink")(この当時は[城島茂](../Page/城島茂.md "wikilink")・[山口達也](https://ja.wikipedia.org/wiki/山口達也_\(代表的なトピック\) "wikilink")・[国分太一](../Page/国分太一.md "wikilink")・[松岡昌宏](../Page/松岡昌宏.md "wikilink")・小島啓)の5人・TOKIO加入前の[長瀬智也](../Page/長瀬智也.md "wikilink")・デビュー前の[KinKi Kids](../Page/KinKi_Kids.md "wikilink")([堂本光一](../Page/堂本光一.md "wikilink")・[堂本剛](../Page/堂本剛.md "wikilink"))の2人・後の[V6の](../Page/V6_\(グループ\).md "wikilink")[井ノ原快彦](../Page/井ノ原快彦.md "wikilink")の計15人。
   - その頃ワイルドな一匹狼路線に向かい始めた諸星や大人向けのバラード曲が増えていた光GENJIとは別に、光GENJIが初期に持っていた学生や低年齢層向けの明るいイメージを引き継いだユニットであるとされていた。そのため、[忍たま乱太郎](../Page/忍たま乱太郎.md "wikilink")に関する曲や子供向け番組の曲を歌うことが多かった。しかし、光GENJIのシングル曲のカップリングとして出されている曲に関しては、どちらかというと大人向けの曲も含まれていた。
   - [1994年](../Page/1994年.md "wikilink")、佐藤寛之が光GENJIを脱退したことにより、ユニットは自然消滅となった。
 
@@ -149,6 +149,6 @@
 
 ## 関連項目
 
-  - [光GENJI](https://ja.wikipedia.org/wiki/光GENJI "wikilink")
+  - [光GENJI](../Page/光GENJI.md "wikilink")
 
 [Category:光GENJI](https://ja.wikipedia.org/wiki/Category:光GENJI "wikilink") [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink") [Category:1993年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1993年に結成した音楽グループ "wikilink") [Category:過去のジャニーズ所属者](https://ja.wikipedia.org/wiki/Category:過去のジャニーズ所属者 "wikilink")

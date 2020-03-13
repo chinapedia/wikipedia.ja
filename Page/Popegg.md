@@ -7,9 +7,9 @@
 
 PS2のpopegg対応ソフトからの印刷に対応し、[Windowsや](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Mac OSといった](https://ja.wikipedia.org/wiki/Mac_OS "wikilink") [パソコン](../Page/パーソナルコンピュータ.md "wikilink") には対応してない。プリンター本体は[キヤノン](https://ja.wikipedia.org/wiki/キヤノン "wikilink")の[OEM](../Page/OEM.md "wikilink")生産で、インクカートリッジ等にも互換がある。
 
-過去にも[PlayStation](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink") (PS) 専用プリンターや[セガサターン](../Page/セガサターン.md "wikilink")専用プリンターといった製品が[KOEI等から発売され](../Page/コーエー.md "wikilink")、話題を呼んだが、どれもプリンターに同梱のソフトが対応しているだけに止まり、用途がかなり限定された商品であった。それに対してpopeggはPS2を開発しているソニー自らが発売したプリンターであり、仕様を公開する事で自社以外の様々なソフトウェアベンダーから対応ソフトウェアが発売されたという点で一線を画している。いわばPS2における標準的なプリンター環境を目指して開発、販売された製品である。popeggの発売に合わせてピクチャーパラダイスと呼ばれる[デジタルカメラ](../Page/デジタルカメラ.md "wikilink")との[インタフェースに関する仕様も公開された](../Page/インタフェース_\(情報技術\).md "wikilink")。本体は側面のパネルが着脱出来、外観を変更する事ができたり、カートリッジの動きに合わせて光が左右に移動するなど、遊び心のある設計となっている。
+過去にも[PlayStation](../Page/PlayStation_\(ゲーム機\).md "wikilink") (PS) 専用プリンターや[セガサターン](../Page/セガサターン.md "wikilink")専用プリンターといった製品が[KOEI等から発売され](../Page/コーエー.md "wikilink")、話題を呼んだが、どれもプリンターに同梱のソフトが対応しているだけに止まり、用途がかなり限定された商品であった。それに対してpopeggはPS2を開発しているソニー自らが発売したプリンターであり、仕様を公開する事で自社以外の様々なソフトウェアベンダーから対応ソフトウェアが発売されたという点で一線を画している。いわばPS2における標準的なプリンター環境を目指して開発、販売された製品である。popeggの発売に合わせてピクチャーパラダイスと呼ばれる[デジタルカメラ](../Page/デジタルカメラ.md "wikilink")との[インタフェースに関する仕様も公開された](../Page/インタフェース_\(情報技術\).md "wikilink")。本体は側面のパネルが着脱出来、外観を変更する事ができたり、カートリッジの動きに合わせて光が左右に移動するなど、遊び心のある設計となっている。
 
-発売当初は多数の対応ソフトが出たpopeggであるが、過去に出たゲーム機専用プリンターと同様に普及することはなく、対応ソフトは1年程度で出なくなっている。なお、類似の商品としては2006年末に[エプソンより同社のパソコン向けプリンターである](../Page/セイコーエプソン.md "wikilink")「[カラリオ](https://ja.wikipedia.org/wiki/カラリオ "wikilink")」をPS2と接続してはがきを印刷する『[カラリオはがきプリント](https://ja.wikipedia.org/wiki/カラリオはがきプリント "wikilink")』(ソフトは2000年12月7日に)が発売されている。
+発売当初は多数の対応ソフトが出たpopeggであるが、過去に出たゲーム機専用プリンターと同様に普及することはなく、対応ソフトは1年程度で出なくなっている。なお、類似の商品としては2006年末に[エプソンより同社のパソコン向けプリンターである](../Page/セイコーエプソン.md "wikilink")「[カラリオ](../Page/カラリオ.md "wikilink")」をPS2と接続してはがきを印刷する『[カラリオはがきプリント](https://ja.wikipedia.org/wiki/カラリオはがきプリント "wikilink")』(ソフトは2000年12月7日に)が発売されている。
 
 ## 主な仕様
 
@@ -34,12 +34,12 @@ popeggには、Printfan（プリントファン）と呼ばれるPS2用ソフト
 
   - [アイレム](https://ja.wikipedia.org/wiki/アイレム "wikilink")
       - [激写ボーイ2](https://ja.wikipedia.org/wiki/激写ボーイ2 "wikilink")
-  - [エルゴソフト](https://ja.wikipedia.org/wiki/エルゴソフト "wikilink")
+  - [エルゴソフト](../Page/エルゴソフト.md "wikilink")
       - [EG Browser](https://ja.wikipedia.org/wiki/EGBROWSER "wikilink")
   - [アトラス](../Page/アトラス_\(ゲーム会社\).md "wikilink")
       - [Primal Image FOR PRINTER](https://ja.wikipedia.org/wiki/Primal_Image_FOR_PRINTER "wikilink")
   - [イマジニア](../Page/イマジニア.md "wikilink")
-      - [マイト アンド マジック デイ・オブ・ザ・デストロイヤー](https://ja.wikipedia.org/wiki/マイト・アンド・マジック "wikilink")
+      - [マイト アンド マジック デイ・オブ・ザ・デストロイヤー](../Page/マイト・アンド・マジック.md "wikilink")
   - [アートディンク](../Page/アートディンク.md "wikilink")
       - [BASIC STUDIO](../Page/BASIC_STUDIO.md "wikilink")
       - [A列車で行こう2001](https://ja.wikipedia.org/wiki/A列車で行こう2001 "wikilink")

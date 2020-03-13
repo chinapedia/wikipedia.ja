@@ -1,9 +1,9 @@
 > この記事は[SE](https://ja.wikipedia.org/wiki/SE)から翻訳されています。
 
 
-**S・E・ヒントン**（**スーザン・エロイーズ・ヒントン**、Susan Eloise Hinton, [1948年](../Page/1948年.md "wikilink")[7月22日](../Page/7月22日.md "wikilink") - \[1\]）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の小説家。[オクラホマ州](../Page/オクラホマ州.md "wikilink")[タルサ出身](https://ja.wikipedia.org/wiki/タルサ_\(オクラホマ州\) "wikilink")。
+**S・E・ヒントン**（**スーザン・エロイーズ・ヒントン**、Susan Eloise Hinton, [1948年](../Page/1948年.md "wikilink")[7月22日](../Page/7月22日.md "wikilink") - \[1\]）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の小説家。[オクラホマ州](../Page/オクラホマ州.md "wikilink")[タルサ出身](../Page/タルサ_\(オクラホマ州\).md "wikilink")。
 
-自らの高校時代の体験を元に[タルサ大学](https://ja.wikipedia.org/wiki/タルサ大学 "wikilink")在学中の18歳の時に、生まれ育った町タルサを舞台にした処女作『[アウトサイダー](https://ja.wikipedia.org/wiki/アウトサイダー_\(映画\) "wikilink")』（*The Outsiders*, 1967年）でデビューした。この小説は15歳で書き始め、16歳でほぼ書き上げた。これは全米でベストセラーを記録し、1983年に[フランシス・フォード・コッポラ](https://ja.wikipedia.org/wiki/フランシス・フォード・コッポラ "wikilink")によって映画化された。同年『[ランブルフィッシュ](https://ja.wikipedia.org/wiki/ランブルフィッシュ_\(映画\) "wikilink")』もコッポラにより映画化。いずれの脚本もヒントンが共同執筆した。
+自らの高校時代の体験を元に[タルサ大学](https://ja.wikipedia.org/wiki/タルサ大学 "wikilink")在学中の18歳の時に、生まれ育った町タルサを舞台にした処女作『[アウトサイダー](https://ja.wikipedia.org/wiki/アウトサイダー_\(映画\) "wikilink")』（*The Outsiders*, 1967年）でデビューした。この小説は15歳で書き始め、16歳でほぼ書き上げた。これは全米でベストセラーを記録し、1983年に[フランシス・フォード・コッポラ](../Page/フランシス・フォード・コッポラ.md "wikilink")によって映画化された。同年『[ランブルフィッシュ](https://ja.wikipedia.org/wiki/ランブルフィッシュ_\(映画\) "wikilink")』もコッポラにより映画化。いずれの脚本もヒントンが共同執筆した。
 
 この作品をはじめとする[ヤングアダルト](../Page/ヤングアダルト.md "wikilink")（YA）小説は、新しい時代の青春小説として、幅広い世代から支持された。1988 年、YA文学に最も貢献した作者に与えられるマーガレット・A・エドワーズ賞の第1回受賞者となる。その後もティーンのための小説や絵本を執筆している。
 

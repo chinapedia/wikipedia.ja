@@ -69,11 +69,11 @@
 
 ## 概要
 
-[1999年](../Page/1999年.md "wikilink")に[イトキン](../Page/いときん.md "wikilink")、[TENN](../Page/TENN.md "wikilink")、[KLUTCH](../Page/KLUTCH.md "wikilink")の3人で結成する。当初は[バンドとして活動予定だったが](../Page/バンド_\(音楽\).md "wikilink")、3人がともにボーカルを希望したため、ユニットとして活動を始める。のちに[センコウ](../Page/センコウ.md "wikilink")、[BUCCI](../Page/BUCCI.md "wikilink")、[DJ BOOBYが加入して](../Page/DJ_BOOBY.md "wikilink")6人のユニットになる。[2003年](../Page/2003年.md "wikilink")ごろ、[コシバKEN](../Page/コシバKEN.md "wikilink")が加入して7人のユニットになる。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、イベント「流派NIGHT」の[オーディション](../Page/オーディション.md "wikilink")企画でグランプリを獲得。12月頃から[通天閣](../Page/通天閣.md "wikilink")に近い[大国町で](../Page/浪速区.md "wikilink")、7人が共同生活を始める。
+[1999年](../Page/1999年.md "wikilink")に[イトキン](../Page/いときん.md "wikilink")、[TENN](../Page/TENN.md "wikilink")、[KLUTCH](../Page/KLUTCH.md "wikilink")の3人で結成する。当初は[バンドとして活動予定だったが](../Page/バンド_\(音楽\).md "wikilink")、3人がともにボーカルを希望したため、ユニットとして活動を始める。のちに[センコウ](../Page/センコウ.md "wikilink")、[BUCCI](../Page/BUCCI.md "wikilink")、[DJ BOOBYが加入して](../Page/DJ_BOOBY.md "wikilink")6人のユニットになる。[2003年](../Page/2003年.md "wikilink")ごろ、[コシバKEN](../Page/コシバKEN.md "wikilink")が加入して7人のユニットになる。[2005年](../Page/2005年.md "wikilink")、イベント「流派NIGHT」の[オーディション](../Page/オーディション.md "wikilink")企画でグランプリを獲得。12月頃から[通天閣](../Page/通天閣.md "wikilink")に近い[大国町で](../Page/浪速区.md "wikilink")、7人が共同生活を始める。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")、[ユニバーサルミュージックから](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")[メジャー・デビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。[2007年](../Page/2007年.md "wikilink")に『愛しい人へ』が[デジタル・ダウンロード](https://ja.wikipedia.org/wiki/デジタル・ダウンロード "wikilink")件数100万件を超える。[2007年](../Page/2007年.md "wikilink")10月12日にはDJ BOOBYとKLUTCHの母校である[泉南市立泉南中学校](https://ja.wikipedia.org/wiki/泉南市立泉南中学校 "wikilink")でサプライズライブを行った。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[ヤッターマン](https://ja.wikipedia.org/wiki/ヤッターマン_\(2008年のテレビアニメ\) "wikilink")』の主題歌として『ヤッターマンの歌』を[カバー](../Page/カバー.md "wikilink")。
+[2006年](../Page/2006年.md "wikilink")、[ユニバーサルミュージックから](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")[メジャー・デビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。[2007年](../Page/2007年.md "wikilink")に『愛しい人へ』が[デジタル・ダウンロード](https://ja.wikipedia.org/wiki/デジタル・ダウンロード "wikilink")件数100万件を超える。[2007年](../Page/2007年.md "wikilink")10月12日にはDJ BOOBYとKLUTCHの母校である[泉南市立泉南中学校](../Page/泉南市立泉南中学校.md "wikilink")でサプライズライブを行った。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[ヤッターマン](https://ja.wikipedia.org/wiki/ヤッターマン_\(2008年のテレビアニメ\) "wikilink")』の主題歌として『ヤッターマンの歌』を[カバー](../Page/カバー.md "wikilink")。
 
-[2014年](../Page/2014年.md "wikilink")4月29日、『ET-KING 結成15周年記念全国ツアー 〜おまえとおったらおもろいわ\!〜』の[フェスティバルホール](../Page/フェスティバルホール.md "wikilink")公演を期に、活動を休止\[4\]。[2014年](../Page/2014年.md "wikilink")9月25日、[TENN](../Page/TENN.md "wikilink")が急死する\[5\]。[2015年](../Page/2015年.md "wikilink")7月1日に6人のメンバーで活動再開を発表する。活動休止中に、自分たちの[スタジオ](../Page/スタジオ.md "wikilink")を完成させて[レーベルを設立する](../Page/レコードレーベル.md "wikilink")\[6\]。リーダーのイトキンの芸名を[平仮名](../Page/平仮名.md "wikilink")の**いときん**に改め、プロデューサーの名義を**高平 真作**（たかひら しんさく）に改めた\[7\]。[2017年](../Page/2017年.md "wikilink")8月3日、リーダーのいときんが[肺腺がんと診断され](https://ja.wikipedia.org/wiki/肺癌 "wikilink")、治療に専念\[8\]。ET-KINGの活動については残りの5人で継続することを発表した。[2018年](../Page/2018年.md "wikilink")1月31日、リーダーのいときんが[大阪府](../Page/大阪府.md "wikilink")[和泉市](../Page/和泉市.md "wikilink")内の病院で死去\[9\]。
+[2014年](../Page/2014年.md "wikilink")4月29日、『ET-KING 結成15周年記念全国ツアー 〜おまえとおったらおもろいわ\!〜』の[フェスティバルホール](../Page/フェスティバルホール.md "wikilink")公演を期に、活動を休止\[4\]。[2014年](../Page/2014年.md "wikilink")9月25日、[TENN](../Page/TENN.md "wikilink")が急死する\[5\]。[2015年](../Page/2015年.md "wikilink")7月1日に6人のメンバーで活動再開を発表する。活動休止中に、自分たちの[スタジオ](../Page/スタジオ.md "wikilink")を完成させて[レーベルを設立する](../Page/レコードレーベル.md "wikilink")\[6\]。リーダーのイトキンの芸名を[平仮名](../Page/平仮名.md "wikilink")の**いときん**に改め、プロデューサーの名義を**高平 真作**（たかひら しんさく）に改めた\[7\]。[2017年](../Page/2017年.md "wikilink")8月3日、リーダーのいときんが[肺腺がんと診断され](../Page/肺癌.md "wikilink")、治療に専念\[8\]。ET-KINGの活動については残りの5人で継続することを発表した。[2018年](../Page/2018年.md "wikilink")1月31日、リーダーのいときんが[大阪府](../Page/大阪府.md "wikilink")[和泉市](../Page/和泉市.md "wikilink")内の病院で死去\[9\]。
 
 ## ディスコグラフィー
 
@@ -86,14 +86,14 @@
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
 <th><p>規格</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>順位</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>Indies</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/12月7日.md" title="wikilink">12月7日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/12月7日.md" title="wikilink">12月7日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/纒_(ET-KINGの曲)" title="wikilink">纒</a></p></td>
 <td><p>12cm<a href="../Page/コンパクトディスク.md" title="wikilink">CD</a></p></td>
 <td><p>ETPR-1</p></td>
@@ -101,7 +101,7 @@
 </tr>
 <tr class="even">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/7月12日.md" title="wikilink">7月12日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/7月12日.md" title="wikilink">7月12日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ドーナッツ/夏大盛り" title="wikilink">ドーナッツ/夏大盛り</a></p></td>
 <td><p>12cmCD</p></td>
 <td><p>UPCH-5404</p></td>
@@ -109,7 +109,7 @@
 </tr>
 <tr class="odd">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/9月20日.md" title="wikilink">9月20日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/9月20日.md" title="wikilink">9月20日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Beautiful_Life_(ET-KINGの曲)" title="wikilink">Beautiful Life</a></p></td>
 <td><p>12cmCD</p></td>
 <td><p>UPCH-5425</p></td>
@@ -574,7 +574,7 @@ UPCH-1770（通常盤）</p></td>
 | 5th | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[9月29日](../Page/9月29日.md "wikilink") | 見放題2\! ～ET-KING VIDEO CLIP COLLECTION～                                                                | DVD | UPBH-1274      | 120位 |
 | 6th | [2012年](../Page/2012年.md "wikilink")[1月18日](../Page/1月18日.md "wikilink")                    | YOSHIMOTO WONDER CAMP KANSAI ～Laugh & Peace 2011～ ET-KING presents コント・ミュージカル“ET-KING 歌笑劇～焚火～”in 京橋花月 | DVD | YRBN-80093     | 112位 |
 | 7th | [2012年](../Page/2012年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")                  | ライブシングルコレクション！                                                                                        | DVD | UPBH-1308      | 130位 |
-| 8th | [2014年](../Page/2014年.md "wikilink")[7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink") | ET-KING結成15周年記念全国ツアー ～おまえとおったらおもろいわ\!～                                                                | DVD | POBD-60498     | 51位  |
+| 8th | [2014年](../Page/2014年.md "wikilink")[7月23日](../Page/7月23日.md "wikilink")                    | ET-KING結成15周年記念全国ツアー ～おまえとおったらおもろいわ\!～                                                                | DVD | POBD-60498     | 51位  |
 
 ### 参加作品
 
@@ -591,7 +591,7 @@ UPCH-1770（通常盤）</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/4月19日.md" title="wikilink">4月19日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/4月19日.md" title="wikilink">4月19日</a></p></td>
 <td><p>DANCEHALL PREMIER presents<br />
 REGGAE MILLION III</p></td>
 <td><p>12cmCD</p></td>
@@ -600,7 +600,7 @@ REGGAE MILLION III</p></td>
 <td><p>267位</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/10月18日.md" title="wikilink">10月18日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/10月18日.md" title="wikilink">10月18日</a></p></td>
 <td><p>Candy Flava -winter magic-</p></td>
 <td><p>12cmCD</p></td>
 <td><p>XQBH-1001</p></td>
@@ -618,7 +618,7 @@ REGGAE MILLION III</p></td>
 <tr class="even">
 <td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/10月3日.md" title="wikilink">10月3日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/この歌を・・・・・・・・♪" title="wikilink">この歌を・・・・・・・・♪</a><br />
-（※<a href="https://ja.wikipedia.org/wiki/K_(歌手)" title="wikilink">K</a>×ET-KING名義）</p></td>
+（※<a href="../Page/K_(歌手).md" title="wikilink">K</a>×ET-KING名義）</p></td>
 <td><p>12cmCD</p></td>
 <td><p>SRCL-6641</p></td>
 <td><p>この歌を・・・・・・・・♪</p></td>
@@ -665,7 +665,7 @@ REGGAE MILLION III</p></td>
 <td><p>66位</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="https://ja.wikipedia.org/wiki/7月23日" title="wikilink">7月23日</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/7月23日.md" title="wikilink">7月23日</a></p></td>
 <td><p>SMILE! ごっつ! ひっつ!</p></td>
 <td><p>12cmCD</p></td>
 <td><p>ZZCD-80028</p></td>
@@ -798,17 +798,17 @@ REGGAE MILLION III</p></td>
   - 2007年04月16日・17日・18日・19日・20日・12月27日 - テレビ朝日系「[オンタマ](../Page/オンタマ.md "wikilink")」
   - 2007年05月18日・09月21日 - NHK「[MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink")」
   - 2007年06月01日 - テレビ朝日系「[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")」
-  - 2007年06月08日・09月07日 - 日本テレビ系「[音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")」
+  - 2007年06月08日・09月07日 - 日本テレビ系「[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")」
   - 2007年06月11日 - 日本テレビ系「[MusiG](../Page/MusiG.md "wikilink")」
   - 2007年06月25日・10月22日 - フジテレビ系「[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")」
   - 2007年06月27日 - フジテレビ系「[魁\!音楽番付](../Page/魁!音楽番付.md "wikilink")」
-  - 2007年07月08日 - 日本テレビ系「[Music Lovers](https://ja.wikipedia.org/wiki/Music_Lovers "wikilink")」
-  - 2007年09月22日 - TBS系「[COUNT DOWN TV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")」
+  - 2007年07月08日 - 日本テレビ系「[Music Lovers](../Page/Music_Lovers.md "wikilink")」
+  - 2007年09月22日 - TBS系「[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")」
   - 2007年11月24日 - 「ベストヒットLIVE07」
-  - 2007年11月26日 - 日本テレビ系「[ベストヒット歌謡祭](https://ja.wikipedia.org/wiki/ベストヒット歌謡祭 "wikilink")」
-  - 2007年12月12日 - TBS系「第40回[日本有線大賞](https://ja.wikipedia.org/wiki/日本有線大賞 "wikilink")」
+  - 2007年11月26日 - 日本テレビ系「[ベストヒット歌謡祭](../Page/ベストヒット歌謡祭.md "wikilink")」
+  - 2007年12月12日 - TBS系「第40回[日本有線大賞](../Page/日本有線大賞.md "wikilink")」
   - 2007年12月17日 - 日本テレビ系「[音リコ\!](../Page/音リコ!.md "wikilink")」
-  - 2007年12月29日 - フジテレビ系「[人志松本のすべらない話](https://ja.wikipedia.org/wiki/人志松本のすべらない話 "wikilink")」
+  - 2007年12月29日 - フジテレビ系「[人志松本のすべらない話](../Page/人志松本のすべらない話.md "wikilink")」
 
 ## 主なライブ
 
@@ -819,7 +819,7 @@ REGGAE MILLION III</p></td>
   - 2010年12月14日〜2011年02月04日 - 歌って踊って年末年始\!列島沸騰どんちゃん騒ぎツアー
   - 2011年06月25日〜07月10日 - ET-KING presents 2マン・ライブ・ツアー2011
       -
-        w/[nobodyknows+](https://ja.wikipedia.org/wiki/nobodyknows+ "wikilink") / [SOUL'd OUT](../Page/SOUL'd_OUT.md "wikilink") / [かりゆし58](https://ja.wikipedia.org/wiki/かりゆし58 "wikilink") / [ガガガSP](https://ja.wikipedia.org/wiki/ガガガSP "wikilink")
+        w/[nobodyknows+](https://ja.wikipedia.org/wiki/nobodyknows+ "wikilink") / [SOUL'd OUT](../Page/SOUL'd_OUT.md "wikilink") / [かりゆし58](../Page/かりゆし58.md "wikilink") / [ガガガSP](../Page/ガガガSP.md "wikilink")
   - 2012年03月17日〜05月27日 - わっしょい前線2012 ～そこにお前がおるから歌うねん～
   - 2012年11月03日〜11月30日 - ET-KING"近畿2府5県ツアー2012"
   - 2013年03月27日〜05月31日 - ET-KING 全国ツアー2013 "ど\!まんなか"
@@ -835,7 +835,7 @@ REGGAE MILLION III</p></td>
   - 2007年07月12日・13日 - スペースシャワー列伝 第67巻 ～跳乗音(ライドオン)の宴～
   - 2007年08月19日 - TREASURE05X 2007 ～ZEUS 2007 DO YOU WANT MORE?\!～
   - 2007年10月28日 - MINAMI WHEEL 2007
-  - 2008年02月10日 - [大阪オートメッセ](https://ja.wikipedia.org/wiki/大阪オートメッセ "wikilink")
+  - 2008年02月10日 - [大阪オートメッセ](../Page/大阪オートメッセ.md "wikilink")
   - 2008年08月09日・10日 - [SUMMER SONIC](https://ja.wikipedia.org/wiki/SUMMER_SONIC "wikilink") 2008
   - 2008年10月05日 - [SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink") LIVE TOUR YOUNG FLAG 08
   - 2009年07月25日 - TOKAI SUMMIT'09
@@ -853,9 +853,9 @@ REGGAE MILLION III</p></td>
   - 2011年06月11日 - Sing for EAST
   - 2012年08月05日 - NOBEOKA夏フェス～あなたの街にやってくる\!ワッショイ\!」
   - 2012年09月30日 - KOYABU SONIC 2012
-  - 2012年10月27日 - 第43回[山陽学園大学](https://ja.wikipedia.org/wiki/山陽学園大学 "wikilink")祭2012 ～ET-KING LIVE～
+  - 2012年10月27日 - 第43回[山陽学園大学](../Page/山陽学園大学.md "wikilink")祭2012 ～ET-KING LIVE～
   - 2012年12月24日 - CLUB CITTA' X'mas Siren Night
-  - 2013年06月14日 - [ガガガSP](https://ja.wikipedia.org/wiki/ガガガSP "wikilink") 長田大行進曲行脚 2013 ～若者よ書を読んでから街に出よ\!そしてライブに来い\!～
+  - 2013年06月14日 - [ガガガSP](../Page/ガガガSP.md "wikilink") 長田大行進曲行脚 2013 ～若者よ書を読んでから街に出よ\!そしてライブに来い\!～
   - 2013年08月14日 - みんな集まれ\!2013
   - 2013年08月17日 - CROSS BEAT SUPER LIVE 2013
   - 2013年09月05日 - 漢気フェスティバル'13

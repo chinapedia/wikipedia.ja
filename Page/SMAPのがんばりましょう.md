@@ -1,19 +1,19 @@
 > この記事は[SMAP](https://ja.wikipedia.org/wiki/SMAP)から翻訳されています。
 
 
-『**SMAPのがんばりましょう**』（スマップのがんばりましょう）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[4月10日](../Page/4月10日.md "wikilink")から同年[9月29日](../Page/9月29日.md "wikilink")まで[フジテレビの深夜帯において](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[月曜から](../Page/月曜日.md "wikilink")[金曜日](../Page/金曜日.md "wikilink")まで放送された[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")司会の[10分枠番組](https://ja.wikipedia.org/wiki/ミニ番組 "wikilink")。
+『**SMAPのがんばりましょう**』（スマップのがんばりましょう）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[4月10日](../Page/4月10日.md "wikilink")から同年[9月29日](../Page/9月29日.md "wikilink")まで[フジテレビの深夜帯において](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[月曜から](../Page/月曜日.md "wikilink")[金曜日](../Page/金曜日.md "wikilink")まで放送された[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")司会の[10分枠番組](../Page/ミニ番組.md "wikilink")。
 
 ## 概要
 
-月曜は演芸、[火曜はメンバーの歌とトーク](../Page/火曜日.md "wikilink")、[水曜は](../Page/水曜日.md "wikilink")[ドラマ](../Page/テレビドラマ.md "wikilink")、[木曜はゲスト出演者を迎えての音楽とトーク](https://ja.wikipedia.org/wiki/木曜日 "wikilink")、金曜は新喜劇という日替わりメニューで放送されていた。本番組は当時、[土曜](../Page/土曜日.md "wikilink")23:30に放送されていた『[夢がMORI MORI](../Page/夢がMORI_MORI.md "wikilink")』の兄弟番組と言え、後の『[SMAP×SMAP](https://ja.wikipedia.org/wiki/SMAP×SMAP "wikilink")』の源流になったとも言われる。
+月曜は演芸、[火曜はメンバーの歌とトーク](../Page/火曜日.md "wikilink")、[水曜は](../Page/水曜日.md "wikilink")[ドラマ](../Page/テレビドラマ.md "wikilink")、[木曜はゲスト出演者を迎えての音楽とトーク](../Page/木曜日.md "wikilink")、金曜は新喜劇という日替わりメニューで放送されていた。本番組は当時、[土曜](../Page/土曜日.md "wikilink")23:30に放送されていた『[夢がMORI MORI](../Page/夢がMORI_MORI.md "wikilink")』の兄弟番組と言え、後の『[SMAP×SMAP](https://ja.wikipedia.org/wiki/SMAP×SMAP "wikilink")』の源流になったとも言われる。
 
 遅れネットとして放送された系列局もあり、その際は5回分の放送を一度に放送されるなどの編集措置がなされた。
 
-火・木曜のトークは同じセットを使用。二人掛けのソファに[草彅](https://ja.wikipedia.org/wiki/草彅剛 "wikilink")・[香取](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")、[木村](https://ja.wikipedia.org/wiki/木村拓哉 "wikilink")・[中居](../Page/中居正広.md "wikilink")、[稲垣](../Page/稲垣吾郎.md "wikilink")・[森で座り](../Page/森且行.md "wikilink")、木曜のゲストは中央の木村と中居の間に座るようになっていた。衣装は主にパジャマ。夏場は浴衣であった（ゲストも衣装を合わせて着用）。また、木曜のトークの収録が『[スターどっきり（秘）報告](https://ja.wikipedia.org/wiki/スターどっきり（秘）報告 "wikilink")』のどっきりの舞台に使われたこともある。
+火・木曜のトークは同じセットを使用。二人掛けのソファに[草彅](https://ja.wikipedia.org/wiki/草彅剛 "wikilink")・[香取](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")、[木村](../Page/木村拓哉.md "wikilink")・[中居](../Page/中居正広.md "wikilink")、[稲垣](../Page/稲垣吾郎.md "wikilink")・[森で座り](../Page/森且行.md "wikilink")、木曜のゲストは中央の木村と中居の間に座るようになっていた。衣装は主にパジャマ。夏場は浴衣であった（ゲストも衣装を合わせて着用）。また、木曜のトークの収録が『[スターどっきり（秘）報告](../Page/スターどっきり（秘）報告.md "wikilink")』のどっきりの舞台に使われたこともある。
 
 新喜劇で登場したキャラクター、「[ストロングエース](https://ja.wikipedia.org/wiki/ストロングエース "wikilink")」は『[夢がMORI MORI](../Page/夢がMORI_MORI.md "wikilink")』にも登場したキャラクターである。木村の即興でテーマソングも生まれ、その後SMAPの[コンサート](https://ja.wikipedia.org/wiki/コンサート "wikilink")会場でもその歌はトーク中にメンバーにより数度歌われた。
 
-新喜劇には[小松なっぱ](https://ja.wikipedia.org/wiki/小松なっぱ "wikilink")が、演芸コーナーには[みつまJAPAN'](../Page/みつまJAPAN'.md "wikilink")（[座布団](https://ja.wikipedia.org/wiki/座布団 "wikilink")運び役、当時は「みつまJAPAN」の芸名）が出演している。
+新喜劇には[小松なっぱ](https://ja.wikipedia.org/wiki/小松なっぱ "wikilink")が、演芸コーナーには[みつまJAPAN'](../Page/みつまJAPAN'.md "wikilink")（[座布団](../Page/座布団.md "wikilink")運び役、当時は「みつまJAPAN」の芸名）が出演している。
 
 ## 新喜劇の舞台設定
 
@@ -24,14 +24,14 @@
 
 ## ドラマ
 
-水曜に放送されたドラマ第1弾『Naked Banana』は[橋部敦子](https://ja.wikipedia.org/wiki/橋部敦子 "wikilink")が脚本を担当し、ノベライズ版も出版された。第2弾の『Going Nuts』は[自転車キンクリート](https://ja.wikipedia.org/wiki/自転車キンクリート "wikilink")の[飯島早苗](https://ja.wikipedia.org/wiki/飯島早苗 "wikilink")が脚本を担当した。また、夏に総集編特番、本編終了後も年末に『Going Nuts』の完全版が放送され、1995年の[大晦日](../Page/大晦日.md "wikilink")には本番組のスペシャルという形でフジテレビの年越し番組（総集編とカウントダウンライヴの2部制）をSMAPが担当した。
+水曜に放送されたドラマ第1弾『Naked Banana』は[橋部敦子](../Page/橋部敦子.md "wikilink")が脚本を担当し、ノベライズ版も出版された。第2弾の『Going Nuts』は[自転車キンクリート](https://ja.wikipedia.org/wiki/自転車キンクリート "wikilink")の[飯島早苗](https://ja.wikipedia.org/wiki/飯島早苗 "wikilink")が脚本を担当した。また、夏に総集編特番、本編終了後も年末に『Going Nuts』の完全版が放送され、1995年の[大晦日](../Page/大晦日.md "wikilink")には本番組のスペシャルという形でフジテレビの年越し番組（総集編とカウントダウンライヴの2部制）をSMAPが担当した。
 
 ### 出演者
 
   - 第1弾『Naked Banana』
       - **[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")**
           - [中居正広](../Page/中居正広.md "wikilink")
-          - [木村拓哉](https://ja.wikipedia.org/wiki/木村拓哉 "wikilink")
+          - [木村拓哉](../Page/木村拓哉.md "wikilink")
           - [稲垣吾郎](../Page/稲垣吾郎.md "wikilink")
           - [森且行](../Page/森且行.md "wikilink")（1996年5月にてSMAP脱退）
           - [草彅剛](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")
@@ -58,7 +58,7 @@
 
 ## スタッフ
 
-  - 構成：[鈴木おさむ](../Page/鈴木おさむ.md "wikilink")、[安達元一](https://ja.wikipedia.org/wiki/安達元一 "wikilink")
+  - 構成：[鈴木おさむ](../Page/鈴木おさむ.md "wikilink")、[安達元一](../Page/安達元一.md "wikilink")
   - AP：[黒木彰一](https://ja.wikipedia.org/wiki/黒木彰一 "wikilink")
   - プロデューサー：[荒井昭博](../Page/荒井昭博.md "wikilink")
   - 制作協力：[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")

@@ -16,7 +16,7 @@
 ### レギュラー
 
   - **SMAP**（週替りで2・3人が出演）
-      - [木村拓哉](https://ja.wikipedia.org/wiki/木村拓哉 "wikilink")
+      - [木村拓哉](../Page/木村拓哉.md "wikilink")
       - [稲垣吾郎](../Page/稲垣吾郎.md "wikilink")
       - [森且行](../Page/森且行.md "wikilink")\[1\]
       - [草彅剛](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")
@@ -31,20 +31,20 @@
 
 **1993年4月 - 1994年9月**
 
-  - **[和泉修](https://ja.wikipedia.org/wiki/和泉修 "wikilink")**（[ケツカッチン](../Page/ケツカッチン_\(お笑いコンビ\).md "wikilink")\[2\]）
+  - **[和泉修](../Page/和泉修.md "wikilink")**（[ケツカッチン](../Page/ケツカッチン_\(お笑いコンビ\).md "wikilink")\[2\]）
   - [遙洋子](../Page/遙洋子.md "wikilink")\[3\]
-  - 中田ボタン（[カウス・ボタン](https://ja.wikipedia.org/wiki/中田カウス・ボタン "wikilink")）
+  - 中田ボタン（[カウス・ボタン](../Page/中田カウス・ボタン.md "wikilink")）
 
 **1994年10月 - 1995年9月**
 
-  - **[円広志](https://ja.wikipedia.org/wiki/円広志 "wikilink")**\[4\]
-  - [大竹まこと](https://ja.wikipedia.org/wiki/大竹まこと "wikilink")（[シティボーイズ](../Page/シティボーイズ.md "wikilink")）
+  - **[円広志](../Page/円広志.md "wikilink")**\[4\]
+  - [大竹まこと](../Page/大竹まこと.md "wikilink")（[シティボーイズ](../Page/シティボーイズ.md "wikilink")）
   - [コロッケ](../Page/コロッケ_\(タレント\).md "wikilink")
 
 **1995年10月 - 1996年9月**
 
-  - **[Bro.KORN](https://ja.wikipedia.org/wiki/ブラザー・コーン "wikilink")**（[バブルガム・ブラザーズ](https://ja.wikipedia.org/wiki/バブルガム・ブラザーズ "wikilink")）
-  - [柳沢慎吾](https://ja.wikipedia.org/wiki/柳沢慎吾 "wikilink")
+  - **[Bro.KORN](https://ja.wikipedia.org/wiki/ブラザー・コーン "wikilink")**（[バブルガム・ブラザーズ](../Page/バブルガム・ブラザーズ.md "wikilink")）
+  - [柳沢慎吾](../Page/柳沢慎吾.md "wikilink")
   - [小林克也](../Page/小林克也.md "wikilink")
   - [V6](../Page/V6_\(グループ\).md "wikilink")
       - [坂本昌行](../Page/坂本昌行.md "wikilink")
@@ -69,7 +69,7 @@
 
 ### スマップ新喜劇
 
-初期の[コント](../Page/コント.md "wikilink")コーナー。タイトルは勿論、『[よしもと新喜劇](https://ja.wikipedia.org/wiki/よしもと新喜劇 "wikilink")』のパロディである。
+初期の[コント](../Page/コント.md "wikilink")コーナー。タイトルは勿論、『[よしもと新喜劇](../Page/よしもと新喜劇.md "wikilink")』のパロディである。
 
 ### タイマン\!\!ジャッジ
 
@@ -101,7 +101,7 @@
 ### ゲスト
 
   - [桂ざこば](../Page/桂ざこば_\(2代目\).md "wikilink")
-  - [関口まい](https://ja.wikipedia.org/wiki/関口まい "wikilink")
+  - [関口まい](../Page/関口まい.md "wikilink")
 
 ### 放送されたコーナー
 
@@ -118,14 +118,14 @@
 
 ## 主な放送時間
 
-| 期間                                                        | 放送時間（[JST](../Page/日本標準時.md "wikilink")）                  |
-| --------------------------------------------------------- | --------------------------------------------------------- |
-| [関西ローカル](https://ja.wikipedia.org/wiki/関西ローカル "wikilink") | [関東ローカル](https://ja.wikipedia.org/wiki/関東ローカル "wikilink") |
-| 1993.4                                                    | 1994.9                                                    |
-| 1994.10                                                   | 1995.9                                                    |
-| 1995.10                                                   | 1996.3                                                    |
-| 1996.4                                                    | 1996.9                                                    |
-|                                                           |                                                           |
+| 期間                                     | 放送時間（[JST](../Page/日本標準時.md "wikilink")） |
+| -------------------------------------- | ---------------------------------------- |
+| [関西ローカル](../Page/関西ローカル.md "wikilink") | [関東ローカル](../Page/関東ローカル.md "wikilink")   |
+| 1993.4                                 | 1994.9                                   |
+| 1994.10                                | 1995.9                                   |
+| 1995.10                                | 1996.3                                   |
+| 1996.4                                 | 1996.9                                   |
+|                                        |                                          |
 
 **再放送（関西ローカル）**
 
@@ -214,7 +214,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/東海3県" title="wikilink">中京広域圏</a></p></td>
+<td><p><a href="../Page/東海3県.md" title="wikilink">中京広域圏</a></p></td>
 <td><p><a href="../Page/名古屋テレビ放送.md" title="wikilink">名古屋テレビ</a></p></td>
 <td></td>
 </tr>
@@ -249,7 +249,7 @@
 <td><p>TBS系列</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/九州朝日放送" title="wikilink">九州朝日放送</a></p></td>
 <td><p>テレビ朝日系列</p></td>
 </tr>
@@ -293,7 +293,7 @@
 
 ### 補足
 
-  - 岩手朝日テレビは開局前の[サービス放送](https://ja.wikipedia.org/wiki/サービス放送 "wikilink")にて最終回のみ放送。復活版はテレビ朝日と同時ネット。
+  - 岩手朝日テレビは開局前の[サービス放送](../Page/サービス放送.md "wikilink")にて最終回のみ放送。復活版はテレビ朝日と同時ネット。
   - 愛媛朝日テレビは1995年4月の開局からネット開始。
   - 琉球朝日放送は1996年4月から最後の半年間だけ放送。
 
@@ -306,7 +306,7 @@
 [Category:1993年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1993年のテレビ番組_\(日本\) "wikilink") [Category:朝日放送のバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:朝日放送のバラエティ番組の歴史 "wikilink") [Category:朝日放送テレビの深夜番組](https://ja.wikipedia.org/wiki/Category:朝日放送テレビの深夜番組 "wikilink") [Category:2004年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2004年のテレビ番組_\(日本\) "wikilink") [Category:テレビ朝日の特別番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日の特別番組 "wikilink") [Category:テレビ朝日のバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ朝日のバラエティ番組の歴史 "wikilink") [Category:テレビ朝日の深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ朝日の深夜番組の歴史 "wikilink") [Category:ジャニーズ関連の放送番組](https://ja.wikipedia.org/wiki/Category:ジャニーズ関連の放送番組 "wikilink") [Category:SMAP](https://ja.wikipedia.org/wiki/Category:SMAP "wikilink") [Category:KinKi_Kids](https://ja.wikipedia.org/wiki/Category:KinKi_Kids "wikilink") [Category:円広志](https://ja.wikipedia.org/wiki/Category:円広志 "wikilink")
 
 1.
-2.  出演当時は[圭・修](https://ja.wikipedia.org/wiki/清水圭・和泉修 "wikilink")
+2.  出演当時は[圭・修](../Page/清水圭・和泉修.md "wikilink")
 3.
 4.  降板後もゲストで出演。
 5.  これは前年にABCが阪神戦中継の差し替えを巡ってジャニーズ事務所との関係が悪化し、ABC制作の番組に同事務所のタレントの出演ができなくなったため（現在は和解）。

@@ -105,7 +105,7 @@
 <tr class="odd">
 <td><p>2001.10.6</p></td>
 <td><p>2002.3.30</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/町亞聖" title="wikilink">町亞聖</a><sup>1</sup></p></td>
+<td><p><a href="../Page/町亞聖.md" title="wikilink">町亞聖</a><sup>1</sup></p></td>
 </tr>
 <tr class="even">
 <td><p>2002.4.6</p></td>
@@ -130,7 +130,7 @@
 <tr class="even">
 <td><p>2006.10.7</p></td>
 <td><p>2008.9.27</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/杉上佐智枝" title="wikilink">杉上佐智枝</a><sup>1・2</sup></p></td>
+<td><p><a href="../Page/杉上佐智枝.md" title="wikilink">杉上佐智枝</a><sup>1・2</sup></p></td>
 </tr>
 <tr class="odd">
 <td><p>2008.10.4</p></td>
@@ -185,7 +185,7 @@
 <tr class="odd">
 <td><p><small></p>
 <ul>
-<li><sup>1</sup> 『<a href="https://ja.wikipedia.org/wiki/あさ天サタデー" title="wikilink">あさ天サタデー</a>』を兼務。</li>
+<li><sup>1</sup> 『<a href="../Page/あさ天サタデー.md" title="wikilink">あさ天サタデー</a>』を兼務。</li>
 <li><sup>2</sup> 2007年9月まで週末の『<a href="../Page/NNNニュースダッシュ.md" title="wikilink">NNNニュースD</a>』を兼務。</li>
 </ul></td>
 <td></td>
@@ -200,14 +200,14 @@
 
 ## ネット局
 
-前述のように2009年4月からは『ズームイン\!\!サタデー・第1部』のコーナーとしての放送であるため、NNNを冠するニュースコーナーとしては唯一、マストバイ局において当該パートを放送しない局では本コーナーも非ネットとなっていた。非ネット局存在期の最末期は[札幌テレビ](https://ja.wikipedia.org/wiki/札幌テレビ放送 "wikilink")（STV）の1局のみになっていたが、同局も2018年10月改編にて5:59飛び乗りに変更されて当コーナーの放送を再開した。これにより当該パートの完全非ネット局は無くなった為、2018年10月現在は『ズームイン\!\!サタデー』ネット全局での放送に戻っている。ネット局一覧は「[ズームイン\!\!サタデー\#ネット局](https://ja.wikipedia.org/wiki/ズームイン!!サタデー#ネット局 "wikilink")」を参照。
+前述のように2009年4月からは『ズームイン\!\!サタデー・第1部』のコーナーとしての放送であるため、NNNを冠するニュースコーナーとしては唯一、マストバイ局において当該パートを放送しない局では本コーナーも非ネットとなっていた。非ネット局存在期の最末期は[札幌テレビ](../Page/札幌テレビ放送.md "wikilink")（STV）の1局のみになっていたが、同局も2018年10月改編にて5:59飛び乗りに変更されて当コーナーの放送を再開した。これにより当該パートの完全非ネット局は無くなった為、2018年10月現在は『ズームイン\!\!サタデー』ネット全局での放送に戻っている。ネット局一覧は「[ズームイン\!\!サタデー\#ネット局](https://ja.wikipedia.org/wiki/ズームイン!!サタデー#ネット局 "wikilink")」を参照。
 
 ## 関連項目
 
   - [ズームイン\!\!サタデー](../Page/ズームイン!!サタデー.md "wikilink")
   - [NNN（日本ニュースネットワーク）](../Page/日本ニュースネットワーク.md "wikilink")
   - [報道](../Page/報道.md "wikilink")
-  - [日本テレビ・報道局制作番組の分野別一覧](https://ja.wikipedia.org/wiki/日本テレビ・報道局制作番組の分野別一覧 "wikilink")
+  - [日本テレビ・報道局制作番組の分野別一覧](../Page/日本テレビ・報道局制作番組の分野別一覧.md "wikilink")
 
 ## 脚注
 

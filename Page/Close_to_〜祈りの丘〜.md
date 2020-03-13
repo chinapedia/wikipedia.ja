@@ -5,7 +5,7 @@
 
 ## 概要
 
-[2003年](../Page/2003年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")にシナリオの追加やグラフィックの全面改訂などを行い、タイトルを『**想いのかけら -Close to-**』（おもいのかけら クローストゥ）とした[PlayStation 2版も発売されている](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。なお、PlayStation 2版には本作出演声優によるラジオ風トークCDが特典として同梱されている（初回限定特典ではない）。[2011年](../Page/2011年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")にはKIDの事業を引き継いだ[サイバーフロント](../Page/サイバーフロント.md "wikilink")から[PlayStation Portable版が発売された](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")（内容はPS2版と同じ）。
+[2003年](../Page/2003年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")にシナリオの追加やグラフィックの全面改訂などを行い、タイトルを『**想いのかけら -Close to-**』（おもいのかけら クローストゥ）とした[PlayStation 2版も発売されている](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。なお、PlayStation 2版には本作出演声優によるラジオ風トークCDが特典として同梱されている（初回限定特典ではない）。[2011年](../Page/2011年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")にはKIDの事業を引き継いだ[サイバーフロント](../Page/サイバーフロント.md "wikilink")から[PlayStation Portable版が発売された](../Page/PlayStation_Portable.md "wikilink")（内容はPS2版と同じ）。
 
 [キャラクターデザイン](../Page/キャラクターデザイン.md "wikilink")担当は[ごとP](../Page/ごとP.md "wikilink")。
 
@@ -34,7 +34,7 @@ PS2版では遊那のアクションやCDの内容が新規になっており、
 ## 登場キャラクター
 
   - 穂村元樹 （ほむら もとき）
-    [声](../Page/声優.md "wikilink") : [菅沼久義](https://ja.wikipedia.org/wiki/菅沼久義 "wikilink")（ドラマCD版）
+    [声](../Page/声優.md "wikilink") : [菅沼久義](../Page/菅沼久義.md "wikilink")（ドラマCD版）
     主人公。遊那とのデート中に交通事故に遭い、幽体離脱状態に。
   - 柏木遊那 （かしわぎ ゆうな）
     声 : [麻績村まゆこ](../Page/おみむらまゆこ.md "wikilink")
@@ -69,7 +69,7 @@ PS2版では遊那のアクションやCDの内容が新規になっており、
   - オープニングテーマ:
       - DC : **Close to**
           -
-            作詞、作曲、編曲：[志倉千代丸](https://ja.wikipedia.org/wiki/志倉千代丸 "wikilink") / 歌 : [KAORI](../Page/KAORI..md "wikilink")
+            作詞、作曲、編曲：[志倉千代丸](../Page/志倉千代丸.md "wikilink") / 歌 : [KAORI](../Page/KAORI..md "wikilink")
       - PS2 : **想いのかけら**
           -
             作詞、作曲 : 志倉千代丸、編曲 : [磯江俊道](../Page/磯江俊道.md "wikilink") / 歌 : KAORI

@@ -1,7 +1,7 @@
 > この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
 
 
-**Jユースカップ**（ジェイユースカップ、J Youth Cup）/ **Jリーグユース選手権大会**（ジェイリーグユースせんしゅけんたいかい）は、1993年度から開催されている日本の[第2種年代](../Page/日本サッカー協会チーム登録種別.md "wikilink")（高校生年代）による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")のノックアウト方式トーナメントである。[Jリーグ加盟クラブ](../Page/日本プロサッカーリーグ.md "wikilink")（Jクラブ）および[日本クラブユースサッカー連盟](https://ja.wikipedia.org/wiki/日本クラブユースサッカー連盟 "wikilink")地域代表チームが参加する。[日本クラブユースサッカー選手権 (U-18)大会](https://ja.wikipedia.org/wiki/日本クラブユースサッカー選手権_\(U-18\)大会 "wikilink")（クラ選）と並び、高校生年代のクラブユースチームの日本一を争う大会である。
+**Jユースカップ**（ジェイユースカップ、J Youth Cup）/ **Jリーグユース選手権大会**（ジェイリーグユースせんしゅけんたいかい）は、1993年度から開催されている日本の[第2種年代](../Page/日本サッカー協会チーム登録種別.md "wikilink")（高校生年代）による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")のノックアウト方式トーナメントである。[Jリーグ加盟クラブ](../Page/日本プロサッカーリーグ.md "wikilink")（Jクラブ）および[日本クラブユースサッカー連盟](../Page/日本クラブユースサッカー連盟.md "wikilink")地域代表チームが参加する。[日本クラブユースサッカー選手権 (U-18)大会](../Page/日本クラブユースサッカー選手権_\(U-18\)大会.md "wikilink")（クラ選）と並び、高校生年代のクラブユースチームの日本一を争う大会である。
 
 ## 概要
 
@@ -9,28 +9,28 @@
 
 2012年大会では初めてJリーグ正会員の全40クラブが参加した。それまではJ2の一部クラブ（初期の[準会員](https://ja.wikipedia.org/wiki/Jリーグ準会員制度 "wikilink")・[準加盟だった](../Page/Jリーグ準加盟クラブ.md "wikilink")[JFLのクラブも含む](../Page/ジャパンフットボールリーグ.md "wikilink")）はユースチームの整備が進んでいないなどから参加しないクラブもあった。
 
-2018年大会はJ1所属の18チーム、J2所属の22チーム、J3所属の12チームおよび[日本クラブユース連盟地域代表](https://ja.wikipedia.org/wiki/日本クラブユースサッカー連盟 "wikilink")4チームが参加している\[1\]。
+2018年大会はJ1所属の18チーム、J2所属の22チーム、J3所属の12チームおよび[日本クラブユース連盟地域代表](../Page/日本クラブユースサッカー連盟.md "wikilink")4チームが参加している\[1\]。
 
 ## 主催・後援団体
 
-  - 主催：[日本サッカー協会](../Page/日本サッカー協会.md "wikilink")\[2\]、[日本プロサッカーリーグ](https://ja.wikipedia.org/wiki/日本プロサッカーリーグ_\(法人\) "wikilink")\[3\]、[朝日新聞社](../Page/朝日新聞社.md "wikilink")\[4\]、[日刊スポーツ新聞社](https://ja.wikipedia.org/wiki/日刊スポーツ新聞社 "wikilink")\[5\]
+  - 主催：[日本サッカー協会](../Page/日本サッカー協会.md "wikilink")\[2\]、[日本プロサッカーリーグ](https://ja.wikipedia.org/wiki/日本プロサッカーリーグ_\(法人\) "wikilink")\[3\]、[朝日新聞社](../Page/朝日新聞社.md "wikilink")\[4\]、[日刊スポーツ新聞社](../Page/日刊スポーツ新聞社.md "wikilink")\[5\]
   - 共催：日本クラブユースサッカー連盟\[6\]
   - 協賛：[日本旅行](../Page/日本旅行.md "wikilink")\[7\]
 
 ## 冠スポンサー
 
-| スポンサー                                                       | 大会呼称              | 期間                             |
-| ----------------------------------------------------------- | ----------------- | ------------------------------ |
-| [ハウス食品](../Page/ハウス食品.md "wikilink")                        | Jユース・ハウス食品カップ     | 1993年度-1996年                   |
-| [タイガー魔法瓶](https://ja.wikipedia.org/wiki/タイガー魔法瓶 "wikilink") | Jユース・サハラカップ       | 2005年-2007年                    |
-| [サンスター](../Page/サンスター.md "wikilink")                        | Jユース・サンスタートニックカップ | 2009年                          |
-| なし                                                          | Jユースカップ           | 1997年-2004年、2008年、2010年-2013年※ |
+| スポンサー                                    | 大会呼称              | 期間                             |
+| ---------------------------------------- | ----------------- | ------------------------------ |
+| [ハウス食品](../Page/ハウス食品.md "wikilink")     | Jユース・ハウス食品カップ     | 1993年度-1996年                   |
+| [タイガー魔法瓶](../Page/タイガー魔法瓶.md "wikilink") | Jユース・サハラカップ       | 2005年-2007年                    |
+| [サンスター](../Page/サンスター.md "wikilink")     | Jユース・サンスタートニックカップ | 2009年                          |
+| なし                                       | Jユースカップ           | 1997年-2004年、2008年、2010年-2013年※ |
 
 ※但し、2010年以降は冠が付いていないが[日本旅行](../Page/日本旅行.md "wikilink")が協賛社となっている
 
 ## 開催方式
 
-J1からJ3までの原則全クラブ（不参加のクラブあり）と、[日本クラブユースサッカー連盟](https://ja.wikipedia.org/wiki/日本クラブユースサッカー連盟 "wikilink") (JCY) 地域代表4チームが参加する\[8\]。
+J1からJ3までの原則全クラブ（不参加のクラブあり）と、[日本クラブユースサッカー連盟](../Page/日本クラブユースサッカー連盟.md "wikilink") (JCY) 地域代表4チームが参加する\[8\]。
 
 2014年までは、Jリーグのクラブユースチームとそれ以外のクラブユースチームでそれぞれ予選を行い、決勝トーナメントに進出するチームを決定していた。Jリーグのクラブユースチームについては総当たり方式で決勝トーナメントに進出するチームを決定し、JCY地域代表については決勝トーナメントにシードされていた。
 
@@ -197,7 +197,7 @@ J1からJ3までの原則全クラブ（不参加のクラブあり）と、[日
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
 <td><p><strong><a href="../Page/清水エスパルス.md" title="wikilink">清水エスパルス</a>ユース</strong></p></td>
 <td><p><strong>4 - 1</strong></p></td>
 <td><p><a href="../Page/ヴィッセル神戸.md" title="wikilink">ヴィッセル神戸</a>ユース</p></td>
@@ -267,7 +267,7 @@ J1からJ3までの原則全クラブ（不参加のクラブあり）と、[日
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/名古屋グランパスエイト" title="wikilink">名古屋グランパスU-18</a></strong></p></td>
 <td><p><strong>2 - 1</strong></p></td>
 <td><p><a href="../Page/セレッソ大阪.md" title="wikilink">セレッソ大阪</a>U-18</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/長居球技場" title="wikilink">金鳥スタ</a></p></td>
+<td><p><a href="../Page/長居球技場.md" title="wikilink">金鳥スタ</a></p></td>
 <td><p><a href="../Page/清水エスパルス.md" title="wikilink">清水エスパルス</a>ユース<br />
 <a href="../Page/サンフレッチェ広島F.Cの育成組織.md" title="wikilink">サンフレッチェ広島ユース</a></p></td>
 <td></td>
@@ -493,9 +493,9 @@ J1からJ3までの原則全クラブ（不参加のクラブあり）と、[日
 | 回                                                          | 年度                                                      | 選手                                                               | 所属クラブ          | 得点数 |
 | ---------------------------------------------------------- | ------------------------------------------------------- | ---------------------------------------------------------------- | -------------- | --- |
 | [9](https://ja.wikipedia.org/wiki/2001Jユースカップ "wikilink")  | [2001年](../Page/2001年.md "wikilink")                    | [山岸智](../Page/山岸智.md "wikilink")                                 | ジェフユナイテッド市原ユース | 15  |
-| [11](https://ja.wikipedia.org/wiki/2003Jユースカップ "wikilink") | [2003年](../Page/2003年.md "wikilink")                    | [前田俊介](https://ja.wikipedia.org/wiki/前田俊介 "wikilink")            | サンフレッチェ広島ユース   | 9   |
+| [11](https://ja.wikipedia.org/wiki/2003Jユースカップ "wikilink") | [2003年](../Page/2003年.md "wikilink")                    | [前田俊介](../Page/前田俊介.md "wikilink")                               | サンフレッチェ広島ユース   | 9   |
 | [12](https://ja.wikipedia.org/wiki/2004Jユースカップ "wikilink") | [2004年](../Page/2004年.md "wikilink")                    | [川淵勇祐](../Page/川淵勇祐.md "wikilink")                               | ジェフユナイテッド市原ユース | 13  |
-| [13](https://ja.wikipedia.org/wiki/2005Jユースカップ "wikilink") | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") | [長沢駿](../Page/長沢駿.md "wikilink")                                 | 清水エスパルスユース     | 16  |
+| [13](https://ja.wikipedia.org/wiki/2005Jユースカップ "wikilink") | [2005年](../Page/2005年.md "wikilink")                    | [長沢駿](../Page/長沢駿.md "wikilink")                                 | 清水エスパルスユース     | 16  |
 | [14](https://ja.wikipedia.org/wiki/2006Jユースカップ "wikilink") | [2006年](../Page/2006年.md "wikilink")                    | 田中翔大                                                             | 川崎フロンターレU-18   | 9   |
 | [15](https://ja.wikipedia.org/wiki/2007Jユースカップ "wikilink") | [2007年](../Page/2007年.md "wikilink")                    | [渡部大輔](https://ja.wikipedia.org/wiki/渡部大輔_\(サッカー選手\) "wikilink") | 大宮アルディージャユース   | 13  |
 | [16](https://ja.wikipedia.org/wiki/2008Jユースカップ "wikilink") | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") | [岩渕良太](https://ja.wikipedia.org/wiki/岩渕良太 "wikilink")            | FC東京U-18       | 19  |

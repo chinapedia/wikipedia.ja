@@ -17,7 +17,7 @@
 
 原作漫画『**[攻殻機動隊](../Page/攻殻機動隊.md "wikilink")**』や[押井守](../Page/押井守.md "wikilink")による映画『**[GHOST IN THE SHELL / 攻殻機動隊](https://ja.wikipedia.org/wiki/GHOST_IN_THE_SHELL_/_攻殻機動隊 "wikilink")**』とは、時代設定や主人公[草薙素子](../Page/草薙素子.md "wikilink")を含む登場キャラクターの設定、ストーリーを始め多くの相違点があり、本作は**第三の「攻殻機動隊」**とも言われる。
 
-原作や映画版では「人形遣い」を中心に話が進行するが、本作品では「もし草薙素子が人形遣いと出会わず、[公安9課](../Page/公安9課.md "wikilink")に残っていたら」という前提に立った[パラレルワールド](https://ja.wikipedia.org/wiki/パラレルワールド "wikilink")として物語が展開される。一連のS.A.C.シリーズにおけるストーリーは完全オリジナルだが、原作や映画版に対する[オマージュ](../Page/オマージュ.md "wikilink")が随所に見られる。また「[電脳化](../Page/電脳化.md "wikilink")・[義体化](https://ja.wikipedia.org/wiki/義体化 "wikilink")社会における人間の定義」という原作のテーマよりも、近未来を舞台に現代社会にも通じる[社会問題](../Page/社会問題.md "wikilink")を主題としている。
+原作や映画版では「人形遣い」を中心に話が進行するが、本作品では「もし草薙素子が人形遣いと出会わず、[公安9課](../Page/公安9課.md "wikilink")に残っていたら」という前提に立った[パラレルワールド](../Page/パラレルワールド.md "wikilink")として物語が展開される。一連のS.A.C.シリーズにおけるストーリーは完全オリジナルだが、原作や映画版に対する[オマージュ](../Page/オマージュ.md "wikilink")が随所に見られる。また「[電脳化](../Page/電脳化.md "wikilink")・[義体化](https://ja.wikipedia.org/wiki/義体化 "wikilink")社会における人間の定義」という原作のテーマよりも、近未来を舞台に現代社会にも通じる[社会問題](../Page/社会問題.md "wikilink")を主題としている。
 
 本作品では公安9課自体が主人公といえる観点でストーリーが進んでいく。そのため、劇場版では顔さえ見られなかった課員の活躍も見ることができる。
 
@@ -27,9 +27,9 @@
 
 全米では初回視聴率が全商業ケーブルTVを対象にした個人視聴率、男性視聴率の12歳から17歳、12歳から24歳、12歳から34歳、18歳から24歳の全ての部門でトップであった。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")には「笑い男事件」を描いたエピソードを160分にまとめた『**攻殻機動隊STAND ALONE COMPLEX The Laughing Man**』が制作され、DVDでリリースされた。
+[2005年](../Page/2005年.md "wikilink")には「笑い男事件」を描いたエピソードを160分にまとめた『**攻殻機動隊STAND ALONE COMPLEX The Laughing Man**』が制作され、DVDでリリースされた。
 
-なお、OPを歌っていた[Origa](https://ja.wikipedia.org/wiki/Origa "wikilink")が[2015年](../Page/2015年.md "wikilink")初頭に病死した事に伴い、同年の[テレ玉での再放送ではOPないしは本編Aパート冒頭に彼女の死を悼む弔文が](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")[テロップ](https://ja.wikipedia.org/wiki/テロップ "wikilink")としてオーバーラップされている回がある。
+なお、OPを歌っていた[Origa](../Page/Origa.md "wikilink")が[2015年](../Page/2015年.md "wikilink")初頭に病死した事に伴い、同年の[テレ玉での再放送ではOPないしは本編Aパート冒頭に彼女の死を悼む弔文が](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")[テロップ](https://ja.wikipedia.org/wiki/テロップ "wikilink")としてオーバーラップされている回がある。
 
 ### S.A.C.シリーズ（続編）
 
@@ -106,12 +106,12 @@
 ## スタッフ
 
   - 原作 - [士郎正宗](https://ja.wikipedia.org/wiki/士郎正宗 "wikilink")
-  - 企画 - [石川光久](https://ja.wikipedia.org/wiki/石川光久 "wikilink")、[渡辺繁](https://ja.wikipedia.org/wiki/渡辺繁 "wikilink")
+  - 企画 - [石川光久](../Page/石川光久.md "wikilink")、[渡辺繁](https://ja.wikipedia.org/wiki/渡辺繁 "wikilink")
   - 監督、シリーズ構成 - [神山健治](../Page/神山健治.md "wikilink")
   - キャラクターデザイン - 下村一
   - メカニックデザイン - [寺岡賢司](../Page/寺岡賢司.md "wikilink")、常木志伸
   - 美術監督 - 竹田悠介
-  - 美術設定 - [加藤浩](https://ja.wikipedia.org/wiki/加藤浩 "wikilink")
+  - 美術設定 - [加藤浩](../Page/加藤浩.md "wikilink")
   - 色彩設定 - 片山由美子
   - 特殊効果 - 村上正博
   - 撮影監督 - 田中宏侍
@@ -131,7 +131,7 @@
 ### オープニングテーマ
 
   - 「inner universe」
-    作詞 - Origa、[Shanti Snyder](../Page/シャンティ・スナイダー.md "wikilink") / 作曲・編曲 - [菅野よう子](../Page/菅野よう子.md "wikilink") / 歌 - [Origa](https://ja.wikipedia.org/wiki/Origa "wikilink")
+    作詞 - Origa、[Shanti Snyder](../Page/シャンティ・スナイダー.md "wikilink") / 作曲・編曲 - [菅野よう子](../Page/菅野よう子.md "wikilink") / 歌 - [Origa](../Page/Origa.md "wikilink")
   - 「GET9」
     作詞 - [Tim Jensen](https://ja.wikipedia.org/wiki/ティム・ジェンセン "wikilink") / 作曲・編曲 - 菅野よう子 / 歌 - jillmax
       - 地上波放送時
@@ -156,9 +156,9 @@ SA: Stand Alone（独立）エピソード　 C: Complex（複合）エピソー
 <th><p>タイトル<br />
 <span style="font-size:95%">英題 (<a href="https://ja.wikipedia.org/wiki/:en:List_of_Ghost_in_the_Shell:_Stand_Alone_Complex_episodes" title="wikilink">英語版参照</a>)</span></p></th>
 <th><p><a href="../Page/脚本.md" title="wikilink">脚本</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/絵コンテ" title="wikilink">絵コンテ</a></p></th>
+<th><p><a href="../Page/絵コンテ.md" title="wikilink">絵コンテ</a></p></th>
 <th><p><a href="../Page/演出.md" title="wikilink">演出</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/作画監督" title="wikilink">作画監督</a></p></th>
+<th><p><a href="../Page/作画監督.md" title="wikilink">作画監督</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -168,7 +168,7 @@ SA: Stand Alone（独立）エピソード　 C: Complex（複合）エピソー
 <span style="font-size:95%"><em>SA: Public Security Section 9 – SECTION-9</em></span></p></td>
 <td><p><a href="../Page/神山健治.md" title="wikilink">神山健治</a></p></td>
 <td><p>河野利幸</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/後藤隆幸" title="wikilink">後藤隆幸</a></p></td>
+<td><p><a href="../Page/後藤隆幸.md" title="wikilink">後藤隆幸</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -194,7 +194,7 @@ SA: Stand Alone（独立）エピソード　 C: Complex（複合）エピソー
 <td><p>4</p></td>
 <td><p><strong>視覚素子は笑う <em>INTERCEPTER</em></strong><br />
 <span style="font-size:95%"><em>C: The Visual Device will Laugh – INTERCEPTER</em></span></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/菅正太郎" title="wikilink">菅正太郎</a></p></td>
+<td><p><a href="../Page/菅正太郎.md" title="wikilink">菅正太郎</a></p></td>
 <td><p>神山健治</p></td>
 <td><p>山本秀世</p></td>
 <td><p>山口賢一<br />
@@ -243,7 +243,7 @@ SA: Stand Alone（独立）エピソード　 C: Complex（複合）エピソー
 <td><p>9</p></td>
 <td><p><strong>ネットの闇に棲む男 <em>CHAT! CHAT! CHAT!</em></strong><br />
 <span style="font-size:95%"><em>C: The Man Who Dwells in the Shadows of the Net – CHAT! CHAT! CHAT!</em></span></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/佐藤大" title="wikilink">佐藤大</a></p></td>
+<td><p><a href="../Page/佐藤大.md" title="wikilink">佐藤大</a></p></td>
 <td><p>神山健治</p></td>
 <td><p>橘正紀</p></td>
 <td><p>浅野恭司</p></td>
@@ -472,14 +472,14 @@ SA: Stand Alone（独立）エピソード　 C: Complex（複合）エピソー
 </tr>
 <tr class="even">
 <td><p><a href="../Page/福島中央テレビ.md" title="wikilink">福島中央テレビ</a></p></td>
-<td><p>2004年<a href="../Page/1月30日.md" title="wikilink">1月30日</a> - <a href="https://ja.wikipedia.org/wiki/7月23日" title="wikilink">7月23日</a></p></td>
+<td><p>2004年<a href="../Page/1月30日.md" title="wikilink">1月30日</a> - <a href="../Page/7月23日.md" title="wikilink">7月23日</a></p></td>
 <td><p>金曜 25:28 - 25:58</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/札幌テレビ放送" title="wikilink">札幌テレビ</a></p></td>
-<td><p>2004年<a href="../Page/4月9日.md" title="wikilink">4月9日</a> - <a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/9月24日.md" title="wikilink">9月24日</a></p></td>
+<td><p><a href="../Page/札幌テレビ放送.md" title="wikilink">札幌テレビ</a></p></td>
+<td><p>2004年<a href="../Page/4月9日.md" title="wikilink">4月9日</a> - <a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/9月24日.md" title="wikilink">9月24日</a></p></td>
 <td><p>月曜 25:15 - 25:45</p></td>
 <td></td>
 <td></td>
@@ -515,7 +515,7 @@ SA: Stand Alone（独立）エピソード　 C: Complex（複合）エピソー
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/千葉テレビ放送" title="wikilink">千葉テレビ放送</a>(チバテレ)</p></td>
+<td><p><a href="../Page/千葉テレビ放送.md" title="wikilink">千葉テレビ放送</a>(チバテレ)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -530,7 +530,7 @@ SA: Stand Alone（独立）エピソード　 C: Complex（複合）エピソー
   - [2007年](../Page/2007年.md "wikilink")3月26日 - NHK BS2の特番「『[精霊の守り人](https://ja.wikipedia.org/wiki/守り人シリーズ#テレビアニメ "wikilink")』徹底研究」の中で、第2話が放送された。『精霊の守り人』シリーズは神山監督の「S.A.C」シリーズの次の作品である。
   - [2011年](../Page/2011年.md "wikilink")3月7日〜11日 - [WOWOW](../Page/WOWOW.md "wikilink")で全話放送。
   - [2013年](../Page/2013年.md "wikilink")7月1日〜15日 - [ファミリー劇場](../Page/ファミリー劇場.md "wikilink")HDで全話放送。
-  - [2015年](../Page/2015年.md "wikilink")4月1日より、攻殻機動隊25周年企画として、[首都圏トライアングル](https://ja.wikipedia.org/wiki/首都圏トライアングル "wikilink")各局（[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")、[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")、[千葉テレビ放送](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink")）にて23:00からの同時ネットで放送。
+  - [2015年](../Page/2015年.md "wikilink")4月1日より、攻殻機動隊25周年企画として、[首都圏トライアングル](https://ja.wikipedia.org/wiki/首都圏トライアングル "wikilink")各局（[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")、[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")、[千葉テレビ放送](../Page/千葉テレビ放送.md "wikilink")）にて23:00からの同時ネットで放送。
 
 ## リリース
 
@@ -610,7 +610,7 @@ SA: Stand Alone（独立）エピソード　 C: Complex（複合）エピソー
 
 #### 小説作品
 
-小説版[著作者](https://ja.wikipedia.org/wiki/著作者 "wikilink")の[藤咲淳一](../Page/藤咲淳一.md "wikilink")は、アニメ本編の[脚本](../Page/脚本.md "wikilink")にも参加している。
+小説版[著作者](../Page/著作者.md "wikilink")の[藤咲淳一](../Page/藤咲淳一.md "wikilink")は、アニメ本編の[脚本](../Page/脚本.md "wikilink")にも参加している。
 
   - 攻殻機動隊 STAND ALONE COMPLEX 虚夢回路 - ISBN 4-19-905145-7
   - 攻殻機動隊 STAND ALONE COMPLEX 凍える機械 - 時代設定は[攻殻機動隊 S.A.C. 2nd GIG](../Page/攻殻機動隊_S.A.C._2nd_GIG.md "wikilink")。ISBN 4-19-905147-3
@@ -630,7 +630,7 @@ SA: Stand Alone（独立）エピソード　 C: Complex（複合）エピソー
 4.  2012年3月6日発売 ISBN 978-4-06-376602-8
 5.  2013年3月6日発売 ISBN 978-4-06-376775-9
 
-『攻殻機動隊 STAND ALONE COMPLEX 〜The Laughing Man〜』は、[衣谷遊](../Page/衣谷遊.md "wikilink")によるコミカライズ作品。原作アニメシリーズの「Complex（複合）エピソード」＝「笑い男事件」に準拠したストーリーで構成される。『[マンガボックス](https://ja.wikipedia.org/wiki/マンガボックス "wikilink")』（[DeNA](https://ja.wikipedia.org/wiki/ディー・エヌ・エー "wikilink")）にて第1号（2013年12月4日配信）から2016年第42号まで連載された。
+『攻殻機動隊 STAND ALONE COMPLEX 〜The Laughing Man〜』は、[衣谷遊](../Page/衣谷遊.md "wikilink")によるコミカライズ作品。原作アニメシリーズの「Complex（複合）エピソード」＝「笑い男事件」に準拠したストーリーで構成される。『[マンガボックス](https://ja.wikipedia.org/wiki/マンガボックス "wikilink")』（[DeNA](../Page/ディー・エヌ・エー.md "wikilink")）にて第1号（2013年12月4日配信）から2016年第42号まで連載された。
 
   - 単行本一覧
 
@@ -646,15 +646,15 @@ SA: Stand Alone（独立）エピソード　 C: Complex（複合）エピソー
 ### ゲーム
 
   - 『[攻殻機動隊 STAND ALONE COMPLEX](../Page/攻殻機動隊_STAND_ALONE_COMPLEX_\(ゲーム\).md "wikilink")』（[PS2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、2004年3月発売）
-  - 『[攻殻機動隊 STAND ALONE COMPLEX -狩人の領域-](../Page/攻殻機動隊_STAND_ALONE_COMPLEX_-狩人の領域-.md "wikilink")』（[PSP](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")、2005年9月発売）
+  - 『[攻殻機動隊 STAND ALONE COMPLEX -狩人の領域-](../Page/攻殻機動隊_STAND_ALONE_COMPLEX_-狩人の領域-.md "wikilink")』（[PSP](../Page/PlayStation_Portable.md "wikilink")、2005年9月発売）
   - 『攻殻機動隊 STAND ALONE COMPLEX オンライン』（パソコン用オンラインFPS、2016年11月よりβ版サービス開始）
 
 ### パチンコ・パチスロ
 
   - **パチンコ**：新世紀ぱちんこCR攻殻機動隊 STAND ALONE COMPLEX（2012年9月、オッケー.）（[公式サイト](http://www.ok777.co.jp/lineup/kokaku-s/)）
       -
-        [京楽産業.](../Page/京楽産業..md "wikilink")と[フィールズの合弁ブランド](https://ja.wikipedia.org/wiki/フィールズ_\(企業\) "wikilink")・オッケー.の、約7年ぶりとなる新作機種。
-  - **パチスロ**：パチスロ攻殻機動隊S.A.C.（2013年1月、[サミー](https://ja.wikipedia.org/wiki/サミー "wikilink")）
+        [京楽産業.](../Page/京楽産業..md "wikilink")と[フィールズの合弁ブランド](../Page/フィールズ_\(企業\).md "wikilink")・オッケー.の、約7年ぶりとなる新作機種。
+  - **パチスロ**：パチスロ攻殻機動隊S.A.C.（2013年1月、[サミー](../Page/サミー.md "wikilink")）
 
 ## 脚注
 
@@ -679,8 +679,8 @@ SA: Stand Alone（独立）エピソード　 C: Complex（複合）エピソー
   - [熱光学迷彩](https://ja.wikipedia.org/wiki/光学迷彩 "wikilink")
   - [コンピュータウイルス](https://ja.wikipedia.org/wiki/コンピュータウイルス "wikilink")
   - [薬害](../Page/薬害.md "wikilink")
-  - [丸山ワクチン](https://ja.wikipedia.org/wiki/丸山ワクチン "wikilink")
-  - [劇場型犯罪](https://ja.wikipedia.org/wiki/劇場型犯罪 "wikilink")
+  - [丸山ワクチン](../Page/丸山ワクチン.md "wikilink")
+  - [劇場型犯罪](../Page/劇場型犯罪.md "wikilink")
   - [自己言及のパラドックス](../Page/自己言及のパラドックス.md "wikilink")
   - [日本テレビ系アニメ](../Page/日本テレビ系アニメ.md "wikilink")
   - [深夜アニメ一覧](../Page/深夜アニメ一覧.md "wikilink")

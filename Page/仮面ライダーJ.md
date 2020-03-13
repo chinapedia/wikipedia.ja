@@ -1,19 +1,19 @@
 > この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
 
 
-『**仮面ライダーJ**』（かめんライダージェイ）は、[東映スーパーヒーローフェア](https://ja.wikipedia.org/wiki/東映スーパーヒーローフェア "wikilink")の一作として[1994年](../Page/1994年.md "wikilink")[4月16日](https://ja.wikipedia.org/wiki/4月16日 "wikilink")に公開された劇場映画のタイトル。および、それに登場するヒーローの名称。
+『**仮面ライダーJ**』（かめんライダージェイ）は、[東映スーパーヒーローフェア](../Page/東映スーパーヒーローフェア.md "wikilink")の一作として[1994年](../Page/1994年.md "wikilink")[4月16日](../Page/4月16日.md "wikilink")に公開された劇場映画のタイトル。および、それに登場するヒーローの名称。
 
 同時上映は『[劇場版 忍者戦隊カクレンジャー](https://ja.wikipedia.org/wiki/忍者戦隊カクレンジャー#劇場版 "wikilink")』『[ブルースワット キック・オフ\! ニュー・ヒーロー](https://ja.wikipedia.org/wiki/ブルースワット#劇場版 "wikilink")』。
 
 ## 概要
 
-原作者・[石ノ森章太郎](../Page/石ノ森章太郎.md "wikilink")が制作に関わった仮面ライダーとしてはシリーズ最後の作品\[1\]。前年、[東映スーパーヒーローフェア](https://ja.wikipedia.org/wiki/東映スーパーヒーローフェア "wikilink")のメインプログラムとして公開された『[仮面ライダーZO](../Page/仮面ライダーZO.md "wikilink")』に続き、劇場用オリジナル作品として制作された。全編フィルム撮影及びオールアフレコで制作された最後の作品でもある。
+原作者・[石ノ森章太郎](../Page/石ノ森章太郎.md "wikilink")が制作に関わった仮面ライダーとしてはシリーズ最後の作品\[1\]。前年、[東映スーパーヒーローフェア](../Page/東映スーパーヒーローフェア.md "wikilink")のメインプログラムとして公開された『[仮面ライダーZO](../Page/仮面ライダーZO.md "wikilink")』に続き、劇場用オリジナル作品として制作された。全編フィルム撮影及びオールアフレコで制作された最後の作品でもある。
 
-この作品の一番の特徴としては、「主人公・仮面ライダーJが**巨大化する**」ということが挙げられる\[2\]\[3\]。「仮面ライダーの巨大化」には前例として[1993年](../Page/1993年.md "wikilink")に制作された『[ウルトラマンVS仮面ライダー](https://ja.wikipedia.org/wiki/ウルトラマンVS仮面ライダー "wikilink")』があり、この作品が好評だったことが、仮面ライダーの巨大化の後押しとなった\[4\]。
+この作品の一番の特徴としては、「主人公・仮面ライダーJが**巨大化する**」ということが挙げられる\[2\]\[3\]。「仮面ライダーの巨大化」には前例として[1993年](../Page/1993年.md "wikilink")に制作された『[ウルトラマンVS仮面ライダー](../Page/ウルトラマンVS仮面ライダー.md "wikilink")』があり、この作品が好評だったことが、仮面ライダーの巨大化の後押しとなった\[4\]。
 
 プロデューサーの久保聡によると、当初は石ノ森も仮面ライダーの巨大化案には難色を示しており、そのためにJの巨大化シーンは決定稿ギリギリまで入っていなかった。最終的に「Jの巨大化は地球に未曽有の危機が訪れた時にのみ、大地の精霊たちがJに全ての力を注ぐことで初めて可能となる**奇跡の形態**であり、Jの基本的な能力ではない」という設定を出したことで石ノ森も合意し、現在の形になったという\[5\]。
 
-主人公・瀬川耕司役には『[恐竜戦隊ジュウレンジャー](../Page/恐竜戦隊ジュウレンジャー.md "wikilink")』で主演を務めた[望月祐多](https://ja.wikipedia.org/wiki/望月祐多 "wikilink")が起用された。この他に『[鳥人戦隊ジェットマン](../Page/鳥人戦隊ジェットマン.md "wikilink")』で結城凱 / ブラックコンドルを演じた[若松俊秀](https://ja.wikipedia.org/wiki/若松俊秀 "wikilink")が候補として挙がっていたが、変身前の姿でのアクションも多い関係から当時[JAC所属だった望月が選ばれる形になったという](https://ja.wikipedia.org/wiki/ジャパンアクションエンタープライズ "wikilink")。仮面ライダーJの[スーツアクター](https://ja.wikipedia.org/wiki/スーツアクター "wikilink")は、前作『仮面ライダーZO』に引き続き[岡元次郎](https://ja.wikipedia.org/wiki/岡元次郎 "wikilink")が務めた\[6\]。
+主人公・瀬川耕司役には『[恐竜戦隊ジュウレンジャー](../Page/恐竜戦隊ジュウレンジャー.md "wikilink")』で主演を務めた[望月祐多](../Page/望月祐多.md "wikilink")が起用された。この他に『[鳥人戦隊ジェットマン](../Page/鳥人戦隊ジェットマン.md "wikilink")』で結城凱 / ブラックコンドルを演じた[若松俊秀](../Page/若松俊秀.md "wikilink")が候補として挙がっていたが、変身前の姿でのアクションも多い関係から当時[JAC所属だった望月が選ばれる形になったという](../Page/ジャパンアクションエンタープライズ.md "wikilink")。仮面ライダーJの[スーツアクター](../Page/スーツアクター.md "wikilink")は、前作『仮面ライダーZO』に引き続き[岡元次郎](../Page/岡元次郎.md "wikilink")が務めた\[6\]。
 
 脚本は[上原正三](../Page/上原正三.md "wikilink")が執筆した。上原は『[仮面ライダーBLACK](../Page/仮面ライダーBLACK.md "wikilink")』を中途降板して以降、東映とは疎遠になっていたが、プロデューサーの[吉川進](../Page/吉川進.md "wikilink")より自宅に数年ぶりに電話が掛かってきて、「今度やるライダーの映画を書かないか」と誘われたという。
 
@@ -21,9 +21,9 @@
 
 作風としては、当時ブームであった[エコロジー](../Page/エコロジー.md "wikilink")を反映していることが特徴で、雄大な自然と並行してヒロインの少女・木村加那が公害で死んだ動物の墓を作るシーンや開発作業で切り崩された山林の情景などが挿入され、作品のテーマを端的に表現している。
 
-加那を演じた[野村佑香](https://ja.wikipedia.org/wiki/野村佑香 "wikilink")によれば、撮影は「刺激と興奮が満載」だったとのことで、合成シーンの演技やワイヤーアクションの思い出、特撮セットやスモークなどを後年のBD-BOX発売時のインタビューで挙げている\[8\]。
+加那を演じた[野村佑香](../Page/野村佑香.md "wikilink")によれば、撮影は「刺激と興奮が満載」だったとのことで、合成シーンの演技やワイヤーアクションの思い出、特撮セットやスモークなどを後年のBD-BOX発売時のインタビューで挙げている\[8\]。
 
-なお、前作『仮面ライダーZO』や前々作『[真・仮面ライダー 序章](https://ja.wikipedia.org/wiki/真・仮面ライダー_序章 "wikilink")』と同様、平成に制作された作品であるが、『[仮面ライダークウガ](../Page/仮面ライダークウガ.md "wikilink")』以降のいわゆる「平成仮面ライダーシリーズ」には含まれていない。
+なお、前作『仮面ライダーZO』や前々作『[真・仮面ライダー 序章](../Page/真・仮面ライダー_序章.md "wikilink")』と同様、平成に制作された作品であるが、『[仮面ライダークウガ](../Page/仮面ライダークウガ.md "wikilink")』以降のいわゆる「平成仮面ライダーシリーズ」には含まれていない。
 
 ## あらすじ
 
@@ -57,7 +57,7 @@ Jパワーを全ての力の源とし、Jパワーを導き出す腹部の結晶
 
 予告編ではJを「14人目の改造戦士（かいぞうソルジャー）」と紹介しているが、これはBLACKとRXを同一の存在として数え、[仮面ライダーシンを](https://ja.wikipedia.org/wiki/真・仮面ライダー_序章#仮面ライダーシン "wikilink")「12号」、ZOを「13号」としたものである。後に『ネット版 仮面ライダーディケイド オールライダー超スピンオフ』で設定の整理が行われ、現在ではBLACKが11号、RXが12号、シンが13号、ZOが14号、Jが15号となっている。
 
-撮影用スーツはZOと同様にアクション用は胸部で分割されているが、アップ用は一体成型となっており、スーツアクターを務めた[岡元次郎](https://ja.wikipedia.org/wiki/岡元次郎 "wikilink")はアップ用ではスムーズな動きが難しかったと述べている\[9\]。
+撮影用スーツはZOと同様にアクション用は胸部で分割されているが、アップ用は一体成型となっており、スーツアクターを務めた[岡元次郎](../Page/岡元次郎.md "wikilink")はアップ用ではスムーズな動きが難しかったと述べている\[9\]。
 
 名前の「J」は「ジャンボ（**Jumbo**、巨大）」を意識しているが\[10\]、一般には「『Jumbo』『Japan』『Judge』など、多数の要素を内包している」と説明されており\[11\]、石ノ森は『仮面ライダーJ超全集』（ISBN 4091014437）所収のエッセイ「仮面ライダーJの“J”」で「年々、凶悪・強大になってゆく“悪”＝文明の持つ負の面にジャッジ（審判）を下す者」としている。また、後に上原正三が著した小説版（ISBN 4094401024）においては「[ユピテル](https://ja.wikipedia.org/wiki/ユピテル "wikilink")（**Jupiter**、ジュピターとも）」の頭文字だとされる。
 
@@ -107,7 +107,7 @@ Jパワーを全ての力の源とし、Jパワーを導き出す腹部の結晶
     ジャンボフォーメーションの状態で仮面ライダーフォーゼ ロケットステイツを倒すが、仮面ライダー鎧武 スイカアームズの攻撃に敗れ、ロックシードに変えられた。終盤で復活し、平成ライダーとの最終決戦ではZOと共に[仮面ライダークウガ](../Page/仮面ライダークウガ.md "wikilink")や[仮面ライダーアギト](../Page/仮面ライダーアギト.md "wikilink")と戦った。
   - 映画『[スーパーヒーロー大戦GP 仮面ライダー3号](https://ja.wikipedia.org/wiki/スーパーヒーロー大戦GP_仮面ライダー3号 "wikilink")』
     歴史改変の影響でショッカーライダーとして登場。ジャンボフォーメーションの状態で登場し、[仮面ライダードライブ](https://ja.wikipedia.org/wiki/仮面ライダードライブ "wikilink")を襲撃した。終盤では洗脳が解け、正義のライダーとして[ライダーロボを相手に善戦するが](https://ja.wikipedia.org/wiki/ショッカー首領#ライダーロボ "wikilink")、歴史改変ビームで消されてしまった。
-  - 小説『[S.I.C. HERO SAGA](https://ja.wikipedia.org/wiki/S.I.C._HERO_SAGA "wikilink") MASKED RIDER ZO EDITION -ZO vs J-』
+  - 小説『[S.I.C. HERO SAGA](../Page/S.I.C._HERO_SAGA.md "wikilink") MASKED RIDER ZO EDITION -ZO vs J-』
     本作と『仮面ライダーZO』のクロスオーバー作品。ドラスに吸収されてレッドドラスVer.2となるものの、ZOに救われ、共にドラスとフォッグ・マザーが合体したフォッグ・ドラスと戦う。
 
 ## フォッグ
@@ -144,7 +144,7 @@ Jパワーを全ての力の源とし、Jパワーを導き出す腹部の結晶
     生贄の儀式を取り仕切り、フォッグ・マザー内部でJと激戦を繰り広げるも、Jキックを受けて絶命した。
     デザインイメージは『[仮面ライダー](../Page/仮面ライダー.md "wikilink")』の[地獄大使](../Page/地獄大使.md "wikilink")。
       - その他の登場作品
-    :; 『[人造人間ハカイダー](https://ja.wikipedia.org/wiki/人造人間ハカイダー "wikilink")』
+    :; 『[人造人間ハカイダー](../Page/人造人間ハカイダー.md "wikilink")』
     :: 手配書が登場。
     :; 『[仮面ライダーワールド](../Page/仮面ライダーワールド.md "wikilink")』
     :: シャドームーンの部下として登場。原典では未使用だった剣を使用している。
@@ -212,8 +212,8 @@ Jパワーを全ての力の源とし、Jパワーを導き出す腹部の結晶
 
 ## キャスト
 
-  - 瀬川耕司 / 仮面ライダーJ（声）：[望月祐多](https://ja.wikipedia.org/wiki/望月祐多 "wikilink")
-  - 木村加那：[野村佑香](https://ja.wikipedia.org/wiki/野村佑香 "wikilink")
+  - 瀬川耕司 / 仮面ライダーJ（声）：[望月祐多](../Page/望月祐多.md "wikilink")
+  - 木村加那：[野村佑香](../Page/野村佑香.md "wikilink")
   - ガライ：[神威杏次](../Page/神威杏次.md "wikilink")
   - アギト：[栗原敏](../Page/栗原敏.md "wikilink")
   - ズー：[万里洋子](../Page/万里洋子.md "wikilink")
@@ -227,8 +227,8 @@ Jパワーを全ての力の源とし、Jパワーを導き出す腹部の結晶
 
 ### スーツアクター
 
-  - 仮面ライダーJ\[14\]\[15\]：[岡元次郎](https://ja.wikipedia.org/wiki/岡元次郎 "wikilink")
-  - コブラ男：[日下秀昭](https://ja.wikipedia.org/wiki/日下秀昭 "wikilink")
+  - 仮面ライダーJ\[14\]\[15\]：[岡元次郎](../Page/岡元次郎.md "wikilink")
+  - コブラ男：[日下秀昭](../Page/日下秀昭.md "wikilink")
   - ハチ女：関誉枝恵
   - トカゲ男：鶴山知之
 
@@ -240,16 +240,16 @@ Jパワーを全ての力の源とし、Jパワーを導き出す腹部の結晶
   - プロデューサー：久保聡（[バンダイ ビジュアル](../Page/バンダイビジュアル.md "wikilink")）、[堀長文](../Page/堀長文.md "wikilink")、角田朝雄
   - 脚本：[上原正三](../Page/上原正三.md "wikilink")
   - 音楽：[川村栄二](../Page/川村栄二.md "wikilink")
-  - 特撮監督：[矢島信男](../Page/矢島信男.md "wikilink")、[佛田洋](https://ja.wikipedia.org/wiki/佛田洋 "wikilink")
-  - アクション監督：[金田治](https://ja.wikipedia.org/wiki/金田治 "wikilink")（[ジャパンアクションクラブ](https://ja.wikipedia.org/wiki/ジャパンアクションクラブ "wikilink")）
-  - 撮影：[松村文雄](https://ja.wikipedia.org/wiki/松村文雄 "wikilink")
+  - 特撮監督：[矢島信男](../Page/矢島信男.md "wikilink")、[佛田洋](../Page/佛田洋.md "wikilink")
+  - アクション監督：[金田治](../Page/金田治.md "wikilink")（[ジャパンアクションクラブ](https://ja.wikipedia.org/wiki/ジャパンアクションクラブ "wikilink")）
+  - 撮影：[松村文雄](../Page/松村文雄.md "wikilink")
   - 美術：[高橋昭彦](https://ja.wikipedia.org/wiki/井口昭彦 "wikilink")
   - 照明：才木勝
   - 編集：[菅野順吉](https://ja.wikipedia.org/wiki/菅野順吉 "wikilink")
   - 録音：太田克己
   - 助監督：神園浩司
   - 製作主任：藤沢克則
-  - キャラクターデザイン：[雨宮慶太](https://ja.wikipedia.org/wiki/雨宮慶太 "wikilink")
+  - キャラクターデザイン：[雨宮慶太](../Page/雨宮慶太.md "wikilink")
   - キャラクター造型：[レインボー造型企画](https://ja.wikipedia.org/wiki/レインボー造型企画 "wikilink")、[前沢範](https://ja.wikipedia.org/wiki/前澤範 "wikilink")
   - クリーチャースーパーバイザー：[竹谷隆之](../Page/竹谷隆之.md "wikilink")
   - 特殊技術：[國米修市](../Page/國米修市.md "wikilink")
@@ -272,11 +272,11 @@ Jパワーを全ての力の源とし、Jパワーを導き出す腹部の結晶
   - 演技事務：木村芳子
   - 進行助手：原田良晴、河内隆志、松本佳子
   - 特撮スタッフ
-      - 操演：[鈴木昶](https://ja.wikipedia.org/wiki/鈴木昶 "wikilink")、[尾上克郎](https://ja.wikipedia.org/wiki/尾上克郎 "wikilink")、原口ゆう
+      - 操演：[鈴木昶](https://ja.wikipedia.org/wiki/鈴木昶 "wikilink")、[尾上克郎](../Page/尾上克郎.md "wikilink")、原口ゆう
       - 撮影：高橋政千、中根伸治、武田素央
       - 照明：林方谷、保坂芳美、水野貴
       - 美術：木植健次、横井豊、[寒河江弘](https://ja.wikipedia.org/wiki/寒河江弘 "wikilink")、佐野進
-      - 視覚効果：[日本エフェクトセンター](https://ja.wikipedia.org/wiki/日本エフェクトセンター "wikilink")、[飯塚定雄](https://ja.wikipedia.org/wiki/飯塚定雄 "wikilink")
+      - 視覚効果：[日本エフェクトセンター](../Page/日本エフェクトセンター.md "wikilink")、[飯塚定雄](https://ja.wikipedia.org/wiki/飯塚定雄 "wikilink")
       - アクション監督：[村上潤](../Page/村上潤.md "wikilink")
   - 造型スタッフ
       - クリーチャー造型：高柳祐介、BADGE
@@ -315,27 +315,27 @@ Jパワーを全ての力の源とし、Jパワーを導き出す腹部の結晶
 
   - VHS（セル、レンタル共通）、LD（セルのみ）が映画公開後しばらく後（1994年11月頃）にリリースされている。
   - DVD版は2003年12月21日発売。
-  - [Blu-ray版は](../Page/Blu-ray_Disc.md "wikilink")[2015年](../Page/2015年.md "wikilink")[12月24日](../Page/12月24日.md "wikilink")に、本作を含め実写ライダー3作品を収録したオムニバス盤『仮面ライダー:[真](https://ja.wikipedia.org/wiki/真・仮面ライダー_序章 "wikilink")・[ZO](../Page/仮面ライダーZO.md "wikilink")・J Blu-ray BOX』と題し発売。映像特典としてアニメ『[仮面ライダーSD](https://ja.wikipedia.org/wiki/仮面ライダーSD#OVA "wikilink")』も収録。
+  - [Blu-ray版は](../Page/Blu-ray_Disc.md "wikilink")[2015年](../Page/2015年.md "wikilink")[12月24日](../Page/12月24日.md "wikilink")に、本作を含め実写ライダー3作品を収録したオムニバス盤『仮面ライダー:[真](../Page/真・仮面ライダー_序章.md "wikilink")・[ZO](../Page/仮面ライダーZO.md "wikilink")・J Blu-ray BOX』と題し発売。映像特典としてアニメ『[仮面ライダーSD](https://ja.wikipedia.org/wiki/仮面ライダーSD#OVA "wikilink")』も収録。
 
 ### 漫画
 
   - 『仮面ライダーJ』
-    [小石さとし](https://ja.wikipedia.org/wiki/小石さとし "wikilink")が執筆。[てれびくん](https://ja.wikipedia.org/wiki/てれびくん "wikilink")にて連載された。
+    [小石さとし](https://ja.wikipedia.org/wiki/小石さとし "wikilink")が執筆。[てれびくん](../Page/てれびくん.md "wikilink")にて連載された。
 
 ### 小説
 
   - 『仮面ライダーJ』
     [小学館](../Page/小学館.md "wikilink")[スーパークエスト文庫](../Page/スーパークエスト文庫.md "wikilink")から、脚本を担当した上原正三によるノベライズが1994年5月20日に刊行された。大まかなあらすじは映画を踏襲しているが、耕司の周囲の人間関係や地空人と加那とフォッグ・マザーの因縁、人間になりすまし社会に潜伏して暗躍するフォッグの3幹部など、各設定に大幅な脚色が施されている。
     なお、地空人が耕司をJに改造する際、「歴代の仮面ライダー」の活躍を記録した映像を見せる場面が存在するが、ここでの仮面ライダーが1号からZOまでのライダーと同一であることを示す描写は特にない。
-  - 『[S.I.C. HERO SAGA](https://ja.wikipedia.org/wiki/S.I.C._HERO_SAGA "wikilink") MASKED RIDER ZO EDITION -ZO vs J-』
+  - 『[S.I.C. HERO SAGA](../Page/S.I.C._HERO_SAGA.md "wikilink") MASKED RIDER ZO EDITION -ZO vs J-』
     本作と『[仮面ライダーZO](../Page/仮面ライダーZO.md "wikilink")』のクロスオーバー作品。仮面ライダーZOとドラス、仮面ライダーJとフォッグ・マザーが登場し、共闘する。『ZO』でZOを助けた巨木やミュータントバッタの正体がJを作った地空人の化身であり、彼らがZOをモデルとしてJを作ったという設定となっている。
 
 ### 他映画
 
   - 『[仮面ライダーワールド](../Page/仮面ライダーワールド.md "wikilink")』
     本作と『[仮面ライダーZO](../Page/仮面ライダーZO.md "wikilink")』のクロスオーバー作品。仮面ライダーJが登場。
-  - 『[人造人間ハカイダー](https://ja.wikipedia.org/wiki/人造人間ハカイダー "wikilink")』（1995年4月15日公開）
-    [東映スーパーヒーローフェア](https://ja.wikipedia.org/wiki/東映スーパーヒーローフェア "wikilink")の一環として公開。本作に登場した怪人の手配書が登場。
+  - 『[人造人間ハカイダー](../Page/人造人間ハカイダー.md "wikilink")』（1995年4月15日公開）
+    [東映スーパーヒーローフェア](../Page/東映スーパーヒーローフェア.md "wikilink")の一環として公開。本作に登場した怪人の手配書が登場。
   - 『[劇場版 仮面ライダーディケイド オールライダー対大ショッカー](https://ja.wikipedia.org/wiki/劇場版_仮面ライダーディケイド_オールライダー対大ショッカー "wikilink")』（2009年8月8日公開）
     『[仮面ライダーディケイド](https://ja.wikipedia.org/wiki/仮面ライダーディケイド "wikilink")』の映画作品。仮面ライダーJとコブラ男が登場。
   - 『[仮面ライダー×仮面ライダー W&ディケイド MOVIE大戦2010](https://ja.wikipedia.org/wiki/仮面ライダー×仮面ライダー_W&ディケイド_MOVIE大戦2010 "wikilink")』（2009年12月12日公開）
@@ -367,10 +367,10 @@ Jパワーを全ての力の源とし、Jパワーを導き出す腹部の結晶
 ## 関連項目
 
   - [仮面ライダーシリーズ](https://ja.wikipedia.org/wiki/仮面ライダーシリーズ "wikilink")
-  - [S.I.C.](https://ja.wikipedia.org/wiki/S.I.C. "wikilink")
+  - [S.I.C.](../Page/S.I.C..md "wikilink")
   - [HERO SAGA](https://ja.wikipedia.org/wiki/HERO_SAGA "wikilink")
   - [仮面ライダーZO](../Page/仮面ライダーZO.md "wikilink")
-  - [人造人間ハカイダー](https://ja.wikipedia.org/wiki/人造人間ハカイダー "wikilink")
+  - [人造人間ハカイダー](../Page/人造人間ハカイダー.md "wikilink")
 
 [Category:仮面ライダー映画作品](https://ja.wikipedia.org/wiki/Category:仮面ライダー映画作品 "wikilink") [Category:1990年代の特撮作品](https://ja.wikipedia.org/wiki/Category:1990年代の特撮作品 "wikilink") [Category:1994年の映画](https://ja.wikipedia.org/wiki/Category:1994年の映画 "wikilink") [Category:スーパークエスト文庫](https://ja.wikipedia.org/wiki/Category:スーパークエスト文庫 "wikilink") [Category:巨大変身ヒーロー](https://ja.wikipedia.org/wiki/Category:巨大変身ヒーロー "wikilink") [Category:人間の巨大化・縮小化を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:人間の巨大化・縮小化を題材とした映画作品 "wikilink") [Category:地球外生命体を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:地球外生命体を題材とした映画作品 "wikilink")
 

@@ -15,7 +15,7 @@
 
   - 総面積は面積は82.64[m<sup>2</sup>](../Page/平方メートル.md "wikilink")、天井高は2.38m。付帯設備として、白い[ホリゾント](../Page/ホリゾント.md "wikilink")や各種トレーニング機材、[送風機](../Page/送風機.md "wikilink")（Reel EFX TNC-100J REファンⅡターボ）などを備える\[2\]\[3\]。
   - [モデルや](../Page/モデル_\(職業\).md "wikilink")[ボディービルダー](https://ja.wikipedia.org/wiki/ボディービルダー "wikilink")などから利用が多い撮影スタジオで、[ダンベル](https://ja.wikipedia.org/wiki/ダンベル "wikilink")やパワーラックを備え、フィットネスシーンの撮影として使われる\[4\]\[5\]。
-  - [桂由美](../Page/桂由美.md "wikilink")帯同カメラマンとして[パリ・コレクション](../Page/パリ・コレクション.md "wikilink")等で撮影を手掛けた[只石布久美](https://ja.wikipedia.org/wiki/只石布久美 "wikilink")が専属カメラマンとして所属\[6\]。上記のフィットネスシーンの撮影や[ダイエットコンシェルジュ](../Page/ダイエットコンシェルジュ.md "wikilink")などで使用される写真撮影などを行っている\[7\]。
+  - [桂由美](../Page/桂由美.md "wikilink")帯同カメラマンとして[パリ・コレクション](../Page/パリ・コレクション.md "wikilink")等で撮影を手掛けた[只石布久美](../Page/只石布久美.md "wikilink")が専属カメラマンとして所属\[6\]。上記のフィットネスシーンの撮影や[ダイエットコンシェルジュ](../Page/ダイエットコンシェルジュ.md "wikilink")などで使用される写真撮影などを行っている\[7\]。
 
 ## 脚注
 
@@ -27,7 +27,7 @@
 
   - [株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")[レバレッジ](https://ja.wikipedia.org/wiki/レバレッジ_\(企業\) "wikilink")
   - [只石昌幸](../Page/只石昌幸.md "wikilink")
-  - [只石布久美](https://ja.wikipedia.org/wiki/只石布久美 "wikilink")
+  - [只石布久美](../Page/只石布久美.md "wikilink")
   - [ダイエットコンシェルジュ](../Page/ダイエットコンシェルジュ.md "wikilink")
   - [山本義徳](../Page/山本義徳.md "wikilink") - 山本義徳後継者育成TV撮影で使用。
   - [お願い\!ランキング](https://ja.wikipedia.org/wiki/お願い!ランキング "wikilink") - 2019年7月に撮影で使用。

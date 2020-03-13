@@ -1,7 +1,7 @@
 > この記事は[Riot \(\)](https://ja.wikipedia.org/wiki/Riot_\(\))から翻訳されています。
 
 
-**Riot** (Riot.im) は、[Matrixプロトコルに基づいた](https://ja.wikipedia.org/wiki/Matrix_\(プロトコル\) "wikilink")[フリーかつオープンソースの](https://ja.wikipedia.org/wiki/FLOSS "wikilink")[インスタントメッセンジャー](../Page/インスタントメッセンジャー.md "wikilink")である。[Apache License 2.0の下で配布されている](https://ja.wikipedia.org/wiki/Apache_License_2.0 "wikilink")。RiotはMatrixプロトコルを使用するので、ユーザは接続するサーバを選択することができる\[1\]。
+**Riot** (Riot.im) は、[Matrixプロトコルに基づいた](../Page/Matrix_\(プロトコル\).md "wikilink")[フリーかつオープンソースの](https://ja.wikipedia.org/wiki/FLOSS "wikilink")[インスタントメッセンジャー](../Page/インスタントメッセンジャー.md "wikilink")である。[Apache License 2.0の下で配布されている](https://ja.wikipedia.org/wiki/Apache_License_2.0 "wikilink")。RiotはMatrixプロトコルを使用するので、ユーザは接続するサーバを選択することができる\[1\]。
 
 更に、Riotは[エンドツーエンド暗号化](https://ja.wikipedia.org/wiki/エンドツーエンド暗号化 "wikilink")、グループ、チャンネル及びユーザ間の[ファイル共有](../Page/ファイル共有.md "wikilink")に対応している\[2\]。[ウェブアプリケーション](https://ja.wikipedia.org/wiki/ウェブアプリケーション "wikilink")として全ての主要な[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")でデスクトップアプリとして利用可能であり、[モバイルアプリ](https://ja.wikipedia.org/wiki/モバイルアプリ "wikilink")として[Android](../Page/Android.md "wikilink")及び[iOS利用することができる](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")。開発は主にNew Vectorによって行われており、同社はMatrixプロトコル自体の開発にも関与している\[3\]。
 
@@ -32,7 +32,7 @@ RiotはMatrixの最も成熟したクライアントであるので、新しいM
 ## 関連項目
 
   - [IRC](../Page/Internet_Relay_Chat.md "wikilink")
-  - [Matrix](https://ja.wikipedia.org/wiki/Matrix_\(プロトコル\) "wikilink")
+  - [Matrix](../Page/Matrix_\(プロトコル\).md "wikilink")
   - [RCS](https://ja.wikipedia.org/wiki/Rich_Communication_Services "wikilink")
   - [SIP](../Page/Session_Initiation_Protocol.md "wikilink")
   - [XMPP](https://ja.wikipedia.org/wiki/XMPP "wikilink")

@@ -51,7 +51,7 @@ JAPAN</span><br />
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><span style="display:none"> 宮島優心</span><a href="https://ja.wikipedia.org/wiki/宮島優心" title="wikilink">宮島優心</a><br />
+<td><p><span style="display:none"> 宮島優心</span><a href="../Page/宮島優心.md" title="wikilink">宮島優心</a><br />
 <span style="font-size:80%">（みやじまゆうご）</span></p></td>
 <td><p>名前と同じ</p></td>
 <td><p>非公表</p></td>
@@ -115,7 +115,7 @@ JAPAN</span><br />
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><span style="display:none"> YONGHOON</span><a href="https://ja.wikipedia.org/wiki/チョン・ヨンフン" title="wikilink">YONGHOON</a><br />
+<td><p><span style="display:none"> YONGHOON</span><a href="../Page/チョン・ヨンフン.md" title="wikilink">YONGHOON</a><br />
 <span style="font-size:80%">（よんふん）</span></p></td>
 <td><p>정영훈<br />
 （Jeong Young-Hoon)</p></td>

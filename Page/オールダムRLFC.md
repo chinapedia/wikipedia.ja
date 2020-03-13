@@ -1,7 +1,7 @@
 > この記事は[RLFC](https://ja.wikipedia.org/wiki/RLFC)から翻訳されています。
 
 
-**オールダムRLFC**（Oldham R.L.F.C.）は、[イングランド](../Page/イングランド.md "wikilink")、[グレーター・マンチェスター](../Page/グレーター・マンチェスター.md "wikilink")、[オールダム](../Page/オールダム.md "wikilink")のプロ[ラグビーリーグ](../Page/ラグビーリーグ.md "wikilink")クラブである\[1\]\[2\]。愛称は**ラフィーズ**（Roughyeds）。2019年現在はイギリスラグビーリーグの2部の[チャンピオンシップに参加している](https://ja.wikipedia.org/wiki/RFLチャンピオンシップ "wikilink")。
+**オールダムRLFC**（Oldham R.L.F.C.）は、[イングランド](../Page/イングランド.md "wikilink")、[グレーター・マンチェスター](../Page/グレーター・マンチェスター.md "wikilink")、[オールダム](../Page/オールダム.md "wikilink")のプロ[ラグビーリーグ](../Page/ラグビーリーグ.md "wikilink")クラブである\[1\]\[2\]。愛称は**ラフィーズ**（Roughyeds）。2019年現在はイギリスラグビーリーグの2部の[チャンピオンシップに参加している](../Page/RFLチャンピオンシップ.md "wikilink")。
 
 1876年に**オールダム・フットボール・クラブ**として設立された。1895年に[北部ラグビーフットボール連合を結成した](https://ja.wikipedia.org/wiki/ラグビー・フットボール・リーグ "wikilink")22クラブの1つである。
 

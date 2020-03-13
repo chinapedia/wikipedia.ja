@@ -19,7 +19,7 @@ sash-plus-pathesは、sashで用いることのできるパッチの集合体で
 ## 関連項目
 
   - [BusyBox](https://ja.wikipedia.org/wiki/BusyBox "wikilink")
-  - [Toybox](https://ja.wikipedia.org/wiki/Toybox "wikilink")
+  - [Toybox](../Page/Toybox.md "wikilink")
 
 ## 脚注
 

@@ -117,7 +117,7 @@
 1.  B面集を含めると3枚目
 2.  [KANA-BOON初のベストアルバム発売、ホールツアーも決定](https://natalie.mu/music/news/358920)
 3.  B面集である『[KBB vol.2](https://ja.wikipedia.org/wiki/KBB_vol.2 "wikilink")』からは約1年6ヶ月振り、ミニアルバムである『[ネリネ](https://ja.wikipedia.org/wiki/ネリネ_\(KANA-BOONのアルバム\) "wikilink")』からは約1年3ヶ月振りのリリース
-4.  本作と同日発売の14thシングルの表題曲「[スターマーカー](https://ja.wikipedia.org/wiki/スターマーカー "wikilink")」は未収録。
+4.  本作と同日発売の14thシングルの表題曲「[スターマーカー](../Page/スターマーカー.md "wikilink")」は未収録。
 5.  [KANA-BOON初のベストアルバム詳細公開、初回限定盤にMV全30作品収録](https://natalie.mu/music/news/360488)
 6.  「anger in the mind」「ネリネ」「春を待って」「湯気」のみショートバージョンのMVを収録。
 7.  [ベストアルバム「KANA-BOON THE BEST」の詳細発表！](http://kanaboon.jp/news/detail/1572)

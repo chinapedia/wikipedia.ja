@@ -12,9 +12,9 @@
 
 ## 収録曲
 
-1.  **[会ってすぐ全部](https://ja.wikipedia.org/wiki/会ってすぐ全部 "wikilink")** (2:52)
+1.  **[会ってすぐ全部](../Page/会ってすぐ全部.md "wikilink")** (2:52)
     （[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")/[甲本ヒロト](../Page/甲本ヒロト.md "wikilink")）
-2.  **[怪鳥ディセンバー](https://ja.wikipedia.org/wiki/怪鳥ディセンバー "wikilink")** (3:20)
+2.  **[怪鳥ディセンバー](../Page/怪鳥ディセンバー.md "wikilink")** (3:20)
     （作詞・作曲/[真島昌利](../Page/真島昌利.md "wikilink"))
 3.  **ケセケセ** (3:48)
     （作詞・作曲/甲本ヒロト）

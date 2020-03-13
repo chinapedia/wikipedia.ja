@@ -7,7 +7,7 @@
 
 TM NETWORKデビュー35周年を記念して、ソニーとエイベックスが共同企画したファン投票のリクエストが高かった上位曲を 各々3枚組（35曲+新曲1曲）、計6枚（総合計70曲+新曲2曲）のCDに選曲・構成されたベストアルバム。本項ではソニーがリリースする作品について記述する。
 
-過去に20周年記念時にリリースされた「[Welcome to the FANKS\!](../Page/Welcome_to_the_FANKS!.md "wikilink")」ではSME傘下([EPIC](../Page/エピックレコードジャパン.md "wikilink")・1999年まで)限定であったのに対し、 本作では2000年以降である[Rojam Entertainment及び](../Page/Rojam_Entertainment.md "wikilink")[YOSHIMOTO R and Cとレーベルの垣根を越えたベスト](https://ja.wikipedia.org/wiki/よしもとアール・アンド・シー "wikilink")・アルバムとなっており今回初収録曲も多数あるが、 [エイベックス](https://ja.wikipedia.org/wiki/avex_trax "wikilink")(2012年以降)の楽曲は本作には収録されておらず、そちらに関してはエイベックス側がリリースする「[Gift from Fanks M](https://ja.wikipedia.org/wiki/Gift_from_Fanks_M "wikilink")（以下「M」と表記）」に収録される。
+過去に20周年記念時にリリースされた「[Welcome to the FANKS\!](../Page/Welcome_to_the_FANKS!.md "wikilink")」ではSME傘下([EPIC](../Page/エピックレコードジャパン.md "wikilink")・1999年まで)限定であったのに対し、 本作では2000年以降である[Rojam Entertainment及び](../Page/Rojam_Entertainment.md "wikilink")[YOSHIMOTO R and Cとレーベルの垣根を越えたベスト](https://ja.wikipedia.org/wiki/よしもとアール・アンド・シー "wikilink")・アルバムとなっており今回初収録曲も多数あるが、 [エイベックス](https://ja.wikipedia.org/wiki/avex_trax "wikilink")(2012年以降)の楽曲は本作には収録されておらず、そちらに関してはエイベックス側がリリースする「[Gift from Fanks M](../Page/Gift_from_Fanks_M.md "wikilink")（以下「M」と表記）」に収録される。
 
 「M」と重複曲が一部あるが、バージョン・テイク等で両者差別化が図られており重複しない様になっている。
 

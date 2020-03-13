@@ -6,7 +6,7 @@
 ## 所属タレント
 
   - [天海蓮音](https://ja.wikipedia.org/wiki/天海蓮音 "wikilink")
-  - [綺羅礼](https://ja.wikipedia.org/wiki/綺羅礼 "wikilink")
+  - [綺羅礼](../Page/綺羅礼.md "wikilink")
   - [山本太陽](https://ja.wikipedia.org/wiki/山本太陽 "wikilink")
   - [秋山篤司](https://ja.wikipedia.org/wiki/秋山篤司 "wikilink")
   - [SUK](https://ja.wikipedia.org/wiki/SUK "wikilink")

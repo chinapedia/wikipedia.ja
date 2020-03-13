@@ -183,7 +183,7 @@
 </ul></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/LEGO_BIG_MORL" title="wikilink">LEGO BIG MORL</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/FABLED_NUMBER" title="wikilink">FABLED NUMBER</a></li>
+<li><a href="../Page/FABLED_NUMBER.md" title="wikilink">FABLED NUMBER</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/BURNOUT_SYNDROMES" title="wikilink">BURNOUT SYNDROMES</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/lovefilm" title="wikilink">lovefilm</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Halo_at_四畳半" title="wikilink">Halo at 四畳半</a></li>
@@ -426,12 +426,12 @@
 </ul></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/The_Floor" title="wikilink">The Floor</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/The_Songbards" title="wikilink">The Songbards</a></li>
+<li><a href="../Page/The_Songbards.md" title="wikilink">The Songbards</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ヤングオオハラ" title="wikilink">ヤングオオハラ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/LAMP_IN_TERREN" title="wikilink">LAMP IN TERREN</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Bentham_(バンド)" title="wikilink">Bentham</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/FOMARE" title="wikilink">FOMARE</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/FIVE_NEW_OLD" title="wikilink">FIVE NEW OLD</a></li>
+<li><a href="../Page/FIVE_NEW_OLD.md" title="wikilink">FIVE NEW OLD</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/サイダーガール" title="wikilink">サイダーガール</a></li>
 </ul></td>
 </tr>

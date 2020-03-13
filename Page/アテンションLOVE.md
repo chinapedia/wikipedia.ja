@@ -54,7 +54,7 @@
 <tr class="odd">
 <td><p>イェン・リージェン<br />
 （顏力正）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/邱勝翊" title="wikilink">邱勝翊</a><br />
+<td><p><a href="../Page/邱勝翊.md" title="wikilink">邱勝翊</a><br />
 （プリンス・チウ、<a href="../Page/JPM.md" title="wikilink">JPM</a>）</p></td>
 <td><p>幼い時に交通事故で両親を亡くす。<br />
 荘敬（ジュアンジン）高校から龍華（ロンホア）大学に進学</p></td>
@@ -185,7 +185,7 @@
 <!-- end list -->
 
   -
-    歌 - [邱勝翊](https://ja.wikipedia.org/wiki/邱勝翊 "wikilink")（プリンス・チウ）
+    歌 - [邱勝翊](../Page/邱勝翊.md "wikilink")（プリンス・チウ）
 
 <!-- end list -->
 

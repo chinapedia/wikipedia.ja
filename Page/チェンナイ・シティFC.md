@@ -11,7 +11,7 @@
 
 FCバーゼルは、トップ・チームも含め、選手の交換プログラムもおこなって、チェンナイ・シティFCの技術的向上を支援することになった\[3\]\[4\]。
 
-[2019年](../Page/2019年.md "wikilink")[3月9日](../Page/3月9日.md "wikilink")、チェンナイ・シティFCは、前シーズンの優勝チームである[ミネルヴァ・パンジャブFC](https://ja.wikipedia.org/wiki/ミネルヴァ・パンジャブFC "wikilink")を3対1で下し、[2018–19シーズンのIリーグを制覇した](https://ja.wikipedia.org/wiki/:en:2018–19_I-League "wikilink")。これは、事前の予想を覆し、大きな成功を収めたシーズンの結末であった。[ウルグアイ](https://ja.wikipedia.org/wiki/ウルグアイ "wikilink")出身の[スペイン人](../Page/スペイン人.md "wikilink")であるフォワード[ペドロ・マンジー](https://ja.wikipedia.org/wiki/ペドロ・マンジー "wikilink")は、この試合で2得点を上げ、シーズン通算21得点として、リーグの得点王を分け合った。この優勝は、チェンナイ・シティFCにとって初めての[Iリーグ](../Page/Iリーグ.md "wikilink")のタイトルであり、これによって[AFCチャンピオンズリーグ](../Page/AFCチャンピオンズリーグ.md "wikilink")への道が開かれた。
+[2019年](../Page/2019年.md "wikilink")[3月9日](../Page/3月9日.md "wikilink")、チェンナイ・シティFCは、前シーズンの優勝チームである[ミネルヴァ・パンジャブFC](https://ja.wikipedia.org/wiki/ミネルヴァ・パンジャブFC "wikilink")を3対1で下し、[2018–19シーズンのIリーグを制覇した](https://ja.wikipedia.org/wiki/:en:2018–19_I-League "wikilink")。これは、事前の予想を覆し、大きな成功を収めたシーズンの結末であった。[ウルグアイ](https://ja.wikipedia.org/wiki/ウルグアイ "wikilink")出身の[スペイン人](../Page/スペイン人.md "wikilink")であるフォワード[ペドロ・マンジー](../Page/ペドロ・マンジー.md "wikilink")は、この試合で2得点を上げ、シーズン通算21得点として、リーグの得点王を分け合った。この優勝は、チェンナイ・シティFCにとって初めての[Iリーグ](../Page/Iリーグ.md "wikilink")のタイトルであり、これによって[AFCチャンピオンズリーグ](../Page/AFCチャンピオンズリーグ.md "wikilink")への道が開かれた。
 
 [2019年](../Page/2019年.md "wikilink")3月から4月にかけて開催されたでは、優勝した[FCゴア](https://ja.wikipedia.org/wiki/FCゴア "wikilink")（[インディアン・スーパーリーグ](https://ja.wikipedia.org/wiki/インディアン・スーパーリーグ "wikilink")所属）に準決勝で敗れた。しかし、準々決勝で当たった[インディアン・スーパーリーグ](https://ja.wikipedia.org/wiki/インディアン・スーパーリーグ "wikilink")の優勝チーム[ベンガルールFC](https://ja.wikipedia.org/wiki/ベンガルールFC "wikilink")には、2対1で勝利を収めた。
 

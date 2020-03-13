@@ -1,7 +1,7 @@
 > この記事は[Communication Access Programming Language](https://ja.wikipedia.org/wiki/Communication_Access_Programming_Language)から翻訳されています。
 
 
-**CAPL** (**Communication Access Programming Language**) は[Vectorが開発した独自の](https://ja.wikipedia.org/wiki/ベクター・インフォマティック "wikilink")[プログラミング言語](../Page/プログラミング言語.md "wikilink")である\[1\]。同社の製品の[CANoe](https://ja.wikipedia.org/wiki/CANoe "wikilink")、で使用できる。
+**CAPL** (**Communication Access Programming Language**) は[Vectorが開発した独自の](https://ja.wikipedia.org/wiki/ベクター・インフォマティック "wikilink")[プログラミング言語](../Page/プログラミング言語.md "wikilink")である\[1\]。同社の製品の[CANoe](../Page/CANoe.md "wikilink")、で使用できる。
 
 ## 参考文献
 

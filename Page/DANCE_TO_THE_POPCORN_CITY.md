@@ -5,7 +5,7 @@
 
 ## 解説
 
-『[DANCE TO YOU](https://ja.wikipedia.org/wiki/DANCE_TO_YOU "wikilink")』\[1\]、『[Popcorn Ballads](https://ja.wikipedia.org/wiki/Popcorn_Ballads "wikilink")』\[2\]、そして本作の3か月前にリリースされた[アルバム](../Page/スタジオ・アルバム.md "wikilink")『[the CITY](https://ja.wikipedia.org/wiki/the_CITY "wikilink")』\[3\]の3作品を中心に構成されたサニーデイ・サービス春のワンマンツアーのうち、この作品にはに東京・[渋谷CLUB QUATTROで行われた最終公演と](../Page/CLUB_QUATTRO.md "wikilink")、翌3月27日に東京・[shibuya WWW Xで行われた追加公演の音源からセレクトされた](https://ja.wikipedia.org/wiki/WWW_\(ライブハウス\) "wikilink")11曲を収録。PA卓から直にライン録音し、編集やダビング、ミックスも施していないリアルな音が楽しめる\[4\]。
+『[DANCE TO YOU](https://ja.wikipedia.org/wiki/DANCE_TO_YOU "wikilink")』\[1\]、『[Popcorn Ballads](../Page/Popcorn_Ballads.md "wikilink")』\[2\]、そして本作の3か月前にリリースされた[アルバム](../Page/スタジオ・アルバム.md "wikilink")『[the CITY](https://ja.wikipedia.org/wiki/the_CITY "wikilink")』\[3\]の3作品を中心に構成されたサニーデイ・サービス春のワンマンツアーのうち、この作品にはに東京・[渋谷CLUB QUATTROで行われた最終公演と](../Page/CLUB_QUATTRO.md "wikilink")、翌3月27日に東京・[shibuya WWW Xで行われた追加公演の音源からセレクトされた](https://ja.wikipedia.org/wiki/WWW_\(ライブハウス\) "wikilink")11曲を収録。PA卓から直にライン録音し、編集やダビング、ミックスも施していないリアルな音が楽しめる\[4\]。
 
 『DANCE TO YOU』\[5\]以降のサニーデイの覚醒感がノイズにまみれたサイケデリックなロックンロールとして立ち現れ、生々しい音像はその本能的な身体性をさらに加速させる。[シューゲイザー](../Page/シューゲイザー.md "wikilink")がダンスの快楽と出逢う冒頭「泡アワー」からサニーデイのソウル・ミュージックを集約した甘く熱いエンディング「金星」まで、尋常ではない熱量が全編に漲り、あらゆる感情が昇華されていく。もはやサニーデイ・クラシックとなった「セツナ」も15分を超えるコズミックなロックジャムとして響き渡る\[6\]。
 
@@ -108,7 +108,7 @@
 [Category:サニーデイ・サービスのアルバム](https://ja.wikipedia.org/wiki/Category:サニーデイ・サービスのアルバム "wikilink") [Category:2018年のライブ・アルバム](https://ja.wikipedia.org/wiki/Category:2018年のライブ・アルバム "wikilink")
 
 1.  『[DANCE TO YOU](https://ja.wikipedia.org/wiki/DANCE_TO_YOU "wikilink")』発売 ROSE RECORDS CD:ROSE 198、LP:ROSE 198X、[CASSETTE TAPE](../Page/カセットテープ.md "wikilink"):ROSE 198C
-2.  『[Popcorn Ballads](https://ja.wikipedia.org/wiki/Popcorn_Ballads "wikilink")』発売 ROSE RECORDS CD:ROSE 214、2LP:ROSE 214X
+2.  『[Popcorn Ballads](../Page/Popcorn_Ballads.md "wikilink")』発売 ROSE RECORDS CD:ROSE 214、2LP:ROSE 214X
 3.  『[the CITY](https://ja.wikipedia.org/wiki/the_CITY "wikilink")』発売 2LP:ROSE 218X
 4.
 5.

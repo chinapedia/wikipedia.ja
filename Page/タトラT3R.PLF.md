@@ -9,7 +9,7 @@
 
 前面形状は[インダストリアルデザイナー](../Page/インダストリアルデザイナー.md "wikilink")のが手掛けたT3のオリジナルデザインが引き続き用いられている一方、「VarCB3LF」と呼ばれる車体は中央部が床上高さ350 mmの低床構造になっており、車内全体の36％が低床化されている。また中央部に存在する乗降扉の下には[車椅子](https://ja.wikipedia.org/wiki/車椅子 "wikilink")利用客向けの収納式スロープが搭載されている。低床部分の屋根上に移設された電気機器の種類によって形式が分かれており、[チェコ](../Page/チェコ.md "wikilink")のセゲレツ（Cegelec）が展開するTVプログレス（TV Progress）を用いた車両は「**T3R.PLF**」、同じくチェコの[シュコダ](https://ja.wikipedia.org/wiki/シュコダ "wikilink")製の機器を導入した車両は「**T3R.SLF**」と呼ばれる\[2\]\[3\]\[4\]。
 
-連結器が設置されており[総括制御](../Page/総括制御.md "wikilink")による連結運転が可能だが、車体長が改造前（14.0 m）から15.1 mに延長した事から、停留所の[プラットホーム](../Page/プラットホーム.md "wikilink")の長さの関係上T3R.PLFやT3R.SLF同士による運転は行われず、従来型の高床車体を持つT3の改造車（[T3R.P](https://ja.wikipedia.org/wiki/タトラT3R.P "wikilink")、[T3R.PVなど](https://ja.wikipedia.org/wiki/タトラT3R.PV "wikilink")）が必ず連結されるようになっている。
+連結器が設置されており[総括制御](../Page/総括制御.md "wikilink")による連結運転が可能だが、車体長が改造前（14.0 m）から15.1 mに延長した事から、停留所の[プラットホーム](../Page/プラットホーム.md "wikilink")の長さの関係上T3R.PLFやT3R.SLF同士による運転は行われず、従来型の高床車体を持つT3の改造車（[T3R.P](../Page/タトラT3R.P.md "wikilink")、[T3R.PVなど](../Page/タトラT3R.PV.md "wikilink")）が必ず連結されるようになっている。
 
 <File:Praha> - Inside Tram - Tatra T3R.PLF (7510061250).jpg|車内（T3R.PLF） <File:Plzeň>, Vozovna Slovany, nízkopodlažní T3.JPG|低床部分には折戸式の乗降扉が設けられている <File:Liberec>, Palachova, zastávka Šaldovo náměstí, tramvaj.jpg|片運転台式のため車体後方には運転台がない（T3R.SLF）
 

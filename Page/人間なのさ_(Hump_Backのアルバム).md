@@ -5,7 +5,7 @@
 
 ## 概要
 
-[Hump Backメジャーデビュー後](https://ja.wikipedia.org/wiki/Hump_Back "wikilink")、初となるフルアルバム。メジャーデビュー後、『[拝啓、少年よ](https://ja.wikipedia.org/wiki/拝啓、少年よ "wikilink")』と『[涙のゆくえ](https://ja.wikipedia.org/wiki/涙のゆくえ "wikilink")』の2枚のシングルのリリースを経て、本作の発売となった。本作には両シングルの収録曲の一部が収められている。なお、先行する両シングルが[Vapから発売されているのに対し](../Page/バップ.md "wikilink")、本作はVap内に新たに設立されたレーベル、「林音楽教室」からのリリースとなる\[2\]。
+[Hump Backメジャーデビュー後](https://ja.wikipedia.org/wiki/Hump_Back "wikilink")、初となるフルアルバム。メジャーデビュー後、『[拝啓、少年よ](https://ja.wikipedia.org/wiki/拝啓、少年よ "wikilink")』と『[涙のゆくえ](../Page/涙のゆくえ.md "wikilink")』の2枚のシングルのリリースを経て、本作の発売となった。本作には両シングルの収録曲の一部が収められている。なお、先行する両シングルが[Vapから発売されているのに対し](../Page/バップ.md "wikilink")、本作はVap内に新たに設立されたレーベル、「林音楽教室」からのリリースとなる\[2\]。
 
 また、CDのみの通常盤のほか、DVD付きの初回盤が存在し、初回盤DVDには[2019年](../Page/2019年.md "wikilink")[5月12日](../Page/5月12日.md "wikilink")に[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")で行われたライブ（同年2月から行われた「髪はしばらく切らないツアー」」のツアーセミファイナル\[3\]）の模様が収録されている。
 

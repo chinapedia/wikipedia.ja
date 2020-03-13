@@ -7,7 +7,7 @@
 
 [2019年](../Page/2019年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink")、新人女性声優8人によって結成されたことが発表された。グループ名は「Dialogue(会話、台詞)」という単語から着想を得ており、声優であることの強みを活かした楽曲を世に送り出したいという意味が込められている\[1\]。メンバー全員が次世代声優育成ゲーム「[CUE\!](https://ja.wikipedia.org/wiki/CUE! "wikilink")」にも出演している\[2\]。
 
-同年[10月23日](../Page/10月23日.md "wikilink")、デビューシングル「[はじめてのかくめい！](https://ja.wikipedia.org/wiki/はじめてのかくめい! "wikilink")」が発売された\[3\]。
+同年[10月23日](../Page/10月23日.md "wikilink")、デビューシングル「[はじめてのかくめい！](../Page/はじめてのかくめい!.md "wikilink")」が発売された\[3\]。
 
 [2020年](../Page/2020年.md "wikilink")[1月18日](../Page/1月18日.md "wikilink")、[田淵智也](https://ja.wikipedia.org/wiki/田淵智也 "wikilink")（[UNISON SQUARE GARDEN](https://ja.wikipedia.org/wiki/UNISON_SQUARE_GARDEN "wikilink")）のプロデュースにより「DIALOGUE+JAM」が開催された\[4\]。
 
@@ -132,7 +132,7 @@
 <tr class="even">
 <td><p>1st</p></td>
 <td><p>2019年10月23日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/はじめてのかくめい!" title="wikilink">はじめてのかくめい！</a></strong></p></td>
+<td><p><strong><a href="../Page/はじめてのかくめい!.md" title="wikilink">はじめてのかくめい！</a></strong></p></td>
 <td><p>PCCG-01817</p></td>
 <td><p>PCCG-01818</p></td>
 </tr>
@@ -141,10 +141,10 @@
 
 ### ミニアルバム
 
-|       | 発売日       | タイトル                                                                         | 規格品番       |
-| ----- | --------- | ---------------------------------------------------------------------------- | ---------- |
-| 初回限定盤 | 通常盤       |                                                                              |            |
-| 1st   | 2020年4月8日 | '''[DREAMY-LOGUE](https://ja.wikipedia.org/wiki/DREAMY-LOGUE "wikilink") ''' | PCCG-01882 |
+|       | 発売日       | タイトル                                                      | 規格品番       |
+| ----- | --------- | --------------------------------------------------------- | ---------- |
+| 初回限定盤 | 通常盤       |                                                           |            |
+| 1st   | 2020年4月8日 | '''[DREAMY-LOGUE](../Page/DREAMY-LOGUE.md "wikilink") ''' | PCCG-01882 |
 
 ## ライブ・イベント
 

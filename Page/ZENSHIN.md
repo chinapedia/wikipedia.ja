@@ -11,7 +11,7 @@
 
 ### 代表的な出版物
 
-  - 『奇跡は段ボールの中に』：2019年に、第3回日本ど真ん中書店大賞{{\#tag:ref|[愛知](https://ja.wikipedia.org/wiki/愛知県 "wikilink")、[岐阜](../Page/岐阜県.md "wikilink")、[三重の](https://ja.wikipedia.org/wiki/三重県 "wikilink")[3県の書店員や図書館員約](../Page/東海3県.md "wikilink")350人が一押しの本を投票で選ぶもの\[8\]。|group="注"}}のご当地部門（岐阜）を受賞\[9\]。[柳ケ瀬商店街の非公式キャラクターとして活動した](../Page/柳ヶ瀬_\(岐阜市\).md "wikilink")「[やなな](https://ja.wikipedia.org/wiki/やなな "wikilink")」の軌跡を基に書かれた[小説](../Page/小説.md "wikilink")\[10\]\[11\]。やななの活動に携わった岐阜のまちづくり団体「[ひとひとの会](https://ja.wikipedia.org/wiki/ひとひとの会 "wikilink")」などへ取材を行い、[大垣市](../Page/大垣市.md "wikilink")出身の[かのうゆき](https://ja.wikipedia.org/wiki/かのうゆき "wikilink")が執筆した\[12\]\[13\]。
+  - 『奇跡は段ボールの中に』：2019年に、第3回日本ど真ん中書店大賞{{\#tag:ref|[愛知](https://ja.wikipedia.org/wiki/愛知県 "wikilink")、[岐阜](../Page/岐阜県.md "wikilink")、[三重の](https://ja.wikipedia.org/wiki/三重県 "wikilink")[3県の書店員や図書館員約](../Page/東海3県.md "wikilink")350人が一押しの本を投票で選ぶもの\[8\]。|group="注"}}のご当地部門（岐阜）を受賞\[9\]。[柳ケ瀬商店街の非公式キャラクターとして活動した](../Page/柳ヶ瀬_\(岐阜市\).md "wikilink")「[やなな](https://ja.wikipedia.org/wiki/やなな "wikilink")」の軌跡を基に書かれた[小説](../Page/小説.md "wikilink")\[10\]\[11\]。やななの活動に携わった岐阜のまちづくり団体「[ひとひとの会](../Page/ひとひとの会.md "wikilink")」などへ取材を行い、[大垣市](../Page/大垣市.md "wikilink")出身の[かのうゆき](https://ja.wikipedia.org/wiki/かのうゆき "wikilink")が執筆した\[12\]\[13\]。
   - 『歯医者から嫌われる歯科技工士のホンネ』：[Amazon Kindleでベストセラーとなった](../Page/Amazon_Kindle.md "wikilink")\[14\]{{\#tag:ref|2019年12月31日現在、「歯科技工学」のカテゴリーでランキング1位\[15\]。|group="注"}}。
   - 『ARIGATO』：結婚する二人の出会いや交際について、小説と写真で構成した[オーダーメイド](../Page/オーダーメイド.md "wikilink")の本を作り、披露宴会場で配布する\[16\]\[17\]。
 

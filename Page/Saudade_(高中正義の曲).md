@@ -5,7 +5,7 @@
 
 ## 解説
 
-[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")に[ナラダ・マイケル・ウォルデン](../Page/ナラダ・マイケル・ウォルデン.md "wikilink")を迎えたこのシングルは、[1982年](../Page/1982年.md "wikilink")に発売されたアルバム『[SAUDADE](https://ja.wikipedia.org/wiki/SAUDADE_\(高中正義のアルバム\) "wikilink")』からの[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")である。
+[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")に[ナラダ・マイケル・ウォルデン](../Page/ナラダ・マイケル・ウォルデン.md "wikilink")を迎えたこのシングルは、[1982年](../Page/1982年.md "wikilink")に発売されたアルバム『[SAUDADE](../Page/SAUDADE_\(高中正義のアルバム\).md "wikilink")』からの[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")である。
 
 「Saudade」は、[北大路欣也](../Page/北大路欣也.md "wikilink")が出演した[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")"[ファミリア](https://ja.wikipedia.org/wiki/マツダ・ファミリア#5代目_BD型（1980年_-_1985年） "wikilink")"CMソングに起用された。
 

@@ -166,13 +166,13 @@
 </tr>
 <tr class="even">
 <td><p>2012</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シェフィールド・イーグルズ" title="wikilink">シェフィールド</a></p></td>
+<td><p><a href="../Page/シェフィールド・イーグルズ.md" title="wikilink">シェフィールド</a></p></td>
 <td><p>昇格なし</p></td>
 <td><p>降格なし</p></td>
 </tr>
 <tr class="odd">
 <td><p>2013</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シェフィールド・イーグルズ" title="wikilink">シェフィールド</a></p></td>
+<td><p><a href="../Page/シェフィールド・イーグルズ.md" title="wikilink">シェフィールド</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ヨーク・シティ・ナイツ" title="wikilink">ヨーク・シティ・ナイツ</a><br />
  <a href="https://ja.wikipedia.org/wiki/ハンスレットRLFC" title="wikilink">ハンスレット</a></p></td>
 <td></td>
@@ -198,7 +198,7 @@
 <td><p>2016</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/リー・センチュリオンズ" title="wikilink">リー</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/リー・センチュリオンズ" title="wikilink">リー</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ワーキントン・タウン" title="wikilink">ワーキントン</a><br />
+<td><p><a href="../Page/ワーキントン・タウン.md" title="wikilink">ワーキントン</a><br />
  <a href="https://ja.wikipedia.org/wiki/ホワイトヘイブンRLFC" title="wikilink">ホワイトヘイブン</a></p></td>
 </tr>
 <tr class="odd">
@@ -256,7 +256,7 @@
 </tr>
 <tr class="even">
 <td><p>4</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シェフィールド・イーグルズ" title="wikilink">シェフィールド・イーグルズ</a></p></td>
+<td><p><a href="../Page/シェフィールド・イーグルズ.md" title="wikilink">シェフィールド・イーグルズ</a></p></td>
 <td><p>2</p></td>
 <td><p>2012, 2013</p></td>
 </tr>

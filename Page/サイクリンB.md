@@ -1,7 +1,7 @@
 > この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
 
 
-**サイクリンB**（）は[サイクリン](../Page/サイクリン.md "wikilink")ファミリーのメンバーの[タンパク質](../Page/タンパク質.md "wikilink")で、[有糸分裂](../Page/有糸分裂.md "wikilink")に関与するサイクリンである。サイクリンBの量とサイクリンB/[CDK複合体の活性は](https://ja.wikipedia.org/wiki/サイクリン依存性キナーゼ "wikilink")[細胞周期](../Page/細胞周期.md "wikilink")が有糸分裂に入るまで上昇し\[1\]、その後サイクリンBの分解によって急激に低下する\[2\]。サイクリンB/Cdk複合体は（maturation promoting factor）または有糸分裂/M期促進因子（mitosis/M-phase promoting factor）などと呼ばれ、MPFと略される。
+**サイクリンB**（）は[サイクリン](../Page/サイクリン.md "wikilink")ファミリーのメンバーの[タンパク質](../Page/タンパク質.md "wikilink")で、[有糸分裂](../Page/有糸分裂.md "wikilink")に関与するサイクリンである。サイクリンBの量とサイクリンB/[CDK複合体の活性は](../Page/サイクリン依存性キナーゼ.md "wikilink")[細胞周期](../Page/細胞周期.md "wikilink")が有糸分裂に入るまで上昇し\[1\]、その後サイクリンBの分解によって急激に低下する\[2\]。サイクリンB/Cdk複合体は（maturation promoting factor）または有糸分裂/M期促進因子（mitosis/M-phase promoting factor）などと呼ばれ、MPFと略される。
 
 [Cyclin_Expression.svg](https://ja.wikipedia.org/wiki/File:Cyclin_Expression.svg "fig:Cyclin_Expression.svg")
 
@@ -9,7 +9,7 @@
 
 サイクリンBは細胞周期の[M期](https://ja.wikipedia.org/wiki/M期 "wikilink")の開始と終了に必要とされる。
 
-サイクリンBは[CDK1と複合体を形成する](https://ja.wikipedia.org/wiki/サイクリン依存性キナーゼ1 "wikilink")。[ホスファターゼ](https://ja.wikipedia.org/wiki/プロテインホスファターゼ "wikilink")は[S期](../Page/S期.md "wikilink")の終わりにCDK1の[チロシン](../Page/チロシン.md "wikilink")15番残基を[脱リン酸化](https://ja.wikipedia.org/wiki/脱リン酸化 "wikilink")し、これによってサイクリンB/CDK1複合体は活性化される。活性化に伴って複合体は[核へ移行し](https://ja.wikipedia.org/wiki/細胞核 "wikilink")、そこでM期への進行のトリガーとして機能する\[3\]。しかし[DNAの損傷が検出されている場合には](../Page/デオキシリボ核酸.md "wikilink")、他のタンパク質が活性化されてCDC25Cがリン酸化される。それによってこの過程は阻害され、サイクリンB/CDK1の活性化は起こらない。細胞がM期から出るためにはサイクリンBの分解が必要である\[4\]。
+サイクリンBは[CDK1と複合体を形成する](../Page/サイクリン依存性キナーゼ1.md "wikilink")。[ホスファターゼ](https://ja.wikipedia.org/wiki/プロテインホスファターゼ "wikilink")は[S期](../Page/S期.md "wikilink")の終わりにCDK1の[チロシン](../Page/チロシン.md "wikilink")15番残基を[脱リン酸化](../Page/脱リン酸化.md "wikilink")し、これによってサイクリンB/CDK1複合体は活性化される。活性化に伴って複合体は[核へ移行し](https://ja.wikipedia.org/wiki/細胞核 "wikilink")、そこでM期への進行のトリガーとして機能する\[3\]。しかし[DNAの損傷が検出されている場合には](../Page/デオキシリボ核酸.md "wikilink")、他のタンパク質が活性化されてCDC25Cがリン酸化される。それによってこの過程は阻害され、サイクリンB/CDK1の活性化は起こらない。細胞がM期から出るためにはサイクリンBの分解が必要である\[4\]。
 
 サイクリンB/CDK1複合体は、細胞の成長や有糸分裂の進行を調節する主要なタンパク質・経路と相互作用する。これらの経路間のクロストークは、サイクリンBのレベルと[アポトーシス](../Page/アポトーシス.md "wikilink")の誘導を間接的に関連付けている。サイクリンB/CDK1複合体は、生存シグナル分子である[サバイビン](https://ja.wikipedia.org/wiki/サバイビン "wikilink")の発現に重要な役割を果たす。サバイビンは[紡錘体](https://ja.wikipedia.org/wiki/紡錘体 "wikilink")の適切な形成に必要であり、細胞の生存に強い影響を与える。そのためサイクリンBのレベルが乱れたときには、紡錘体の極の形成が困難になる\[5\]。サバイビンのレベルの低下とそれに関連した有糸分裂の混乱は、を介した経路によってアポトーシスを誘導する。
 

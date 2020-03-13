@@ -27,7 +27,7 @@ Neo-Riemannian理論家はまた、非音調の三項関係を視覚化するた
 
   - [Neo-Riemannian理論](https://ja.wikipedia.org/wiki/:en:Neo-Riemannian_theory "wikilink")
   - [ピッチクラス・セット理論](https://ja.wikipedia.org/wiki/ピッチクラス・セット理論 "wikilink")
-  - [リーマン理論](https://ja.wikipedia.org/wiki/リーマン理論 "wikilink")
+  - [リーマン理論](../Page/リーマン理論.md "wikilink")
   - [変換理論](https://ja.wikipedia.org/wiki/:en:Transformational_theory "wikilink")
   - [チューニング理論](https://ja.wikipedia.org/wiki/:en:Musical_tuning "wikilink")
   - [Traité de l'harmonie réduite à ses principes naturels](https://ja.wikipedia.org/wiki/:en:Traité_de_l'harmonie_réduite_à_ses_principes_naturels "wikilink")

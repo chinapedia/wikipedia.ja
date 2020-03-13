@@ -38,7 +38,7 @@
   - [GKインダストリアルデザイン](https://ja.wikipedia.org/wiki/GKインダストリアルデザイン "wikilink")
   - [GK設計](https://ja.wikipedia.org/wiki/GK設計 "wikilink")
   - [GKグラフィックス](https://ja.wikipedia.org/wiki/GKグラフィックス "wikilink")
-  - [GKダイナミックス](https://ja.wikipedia.org/wiki/GKダイナミックス "wikilink")
+  - [GKダイナミックス](../Page/GKダイナミックス.md "wikilink")
   - [GK京都](../Page/GK京都.md "wikilink")
   - [GKデザイン総研広島](../Page/GKデザイン総研広島.md "wikilink")
   - [GK Design International, Inc.](https://ja.wikipedia.org/wiki/GK_Design_International,_Inc. "wikilink")(LA, Atlanta)

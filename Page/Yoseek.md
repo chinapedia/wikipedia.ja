@@ -1,11 +1,11 @@
 > この記事は[Yoseek](https://ja.wikipedia.org/wiki/Yoseek)から翻訳されています。
 
 
-**Yoseek**（DJ Yoseek）（ヨシーク、ディージェイ・ヨシーク、[1994年](../Page/1994年.md "wikilink")[7月19日](../Page/7月19日.md "wikilink") - ）は、[東京都](../Page/東京都.md "wikilink")[板橋区](https://ja.wikipedia.org/wiki/板橋区 "wikilink")出身の[DJ](../Page/ディスクジョッキー.md "wikilink")、[トラックメーカー](https://ja.wikipedia.org/wiki/トラックメイカー "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")。[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")の[CLUB CAMELOTにレジデントDJとして所属している](https://ja.wikipedia.org/wiki/CLUB_CAMELOT "wikilink")。楽曲制作やリリースについては音楽レーベル「20Music」にて活動中。
+**Yoseek**（DJ Yoseek）（ヨシーク、ディージェイ・ヨシーク、[1994年](../Page/1994年.md "wikilink")[7月19日](../Page/7月19日.md "wikilink") - ）は、[東京都](../Page/東京都.md "wikilink")[板橋区](https://ja.wikipedia.org/wiki/板橋区 "wikilink")出身の[DJ](../Page/ディスクジョッキー.md "wikilink")、[トラックメーカー](https://ja.wikipedia.org/wiki/トラックメイカー "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")。[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")の[CLUB CAMELOTにレジデントDJとして所属している](../Page/CLUB_CAMELOT.md "wikilink")。楽曲制作やリリースについては音楽レーベル「20Music」にて活動中。
 
 ## 概要
 
-2014年より本格的にDJ活動を開始する。 ４つ打ちを軸としたオールミックスのプレイを得意とし、独自のグルーヴでオーディエンスを魅了し続けるDJ。2016年より若くして年間約30万人を収容する東京・渋谷の「[CLUB CAMELOT](https://ja.wikipedia.org/wiki/CLUB_CAMELOT "wikilink")」のレジデントDJに就任。毎週末は約3,000人を前にDJし、多くの人をロックし、CLUB CAMELOTの中心的存在として活躍中。2018年には[Ultra Japan](https://ja.wikipedia.org/wiki/ウルトラ・ジャパン "wikilink")2018にも初出演を果たし、その年の後半にはDJ MAG JAPAN U-29 DJ部門でランキング2位を獲得し、知名度は全国に広がりを見せる。2019年もUltra Korea2019、[Ultra Japan2019に立て続けに出演し](https://ja.wikipedia.org/wiki/ウルトラ・ジャパン "wikilink")、クラブだけではなく音楽フェスティバルへの出演も精力的に行っている。DJだけではなく楽曲制作にも力を尽くしており、2017年7月には初のオリジナル楽曲"Deja vu"をそして2018年4月には2ndシングルの”In The Place”をリリース。2ndシングルの”In The Place”では日本全国でリリースツアーを行い、東京/大阪/名古屋等の都市の主要ナイトクラブにも出演し、東京のみならず各地域での出演も成功を収める。2018年末に制作した"Ignite"では初の海外レーベル「Peak Hour Music」と契約し、世界的に有名なダンスミュージック専門サイト「[Beatport](../Page/Beatport.md "wikilink")」のジャンル別チャートにてランクインを果たす。2019年にはマイアミ出身のアーティスト兼モデルの[Celine Farach（セリーヌ・ファラッチ）](https://www.universal-music.co.jp/celine-farach/)他、立て続けにコラボレーション楽曲を制作。iamSHUMと制作した" I'm So Happy feat.Yoseek\&HarukiD" では、[iTunesダンスチャートにおいて初登場](../Page/ITunes_Store.md "wikilink")1位を獲得する。
+2014年より本格的にDJ活動を開始する。 ４つ打ちを軸としたオールミックスのプレイを得意とし、独自のグルーヴでオーディエンスを魅了し続けるDJ。2016年より若くして年間約30万人を収容する東京・渋谷の「[CLUB CAMELOT](../Page/CLUB_CAMELOT.md "wikilink")」のレジデントDJに就任。毎週末は約3,000人を前にDJし、多くの人をロックし、CLUB CAMELOTの中心的存在として活躍中。2018年には[Ultra Japan](https://ja.wikipedia.org/wiki/ウルトラ・ジャパン "wikilink")2018にも初出演を果たし、その年の後半にはDJ MAG JAPAN U-29 DJ部門でランキング2位を獲得し、知名度は全国に広がりを見せる。2019年もUltra Korea2019、[Ultra Japan2019に立て続けに出演し](https://ja.wikipedia.org/wiki/ウルトラ・ジャパン "wikilink")、クラブだけではなく音楽フェスティバルへの出演も精力的に行っている。DJだけではなく楽曲制作にも力を尽くしており、2017年7月には初のオリジナル楽曲"Deja vu"をそして2018年4月には2ndシングルの”In The Place”をリリース。2ndシングルの”In The Place”では日本全国でリリースツアーを行い、東京/大阪/名古屋等の都市の主要ナイトクラブにも出演し、東京のみならず各地域での出演も成功を収める。2018年末に制作した"Ignite"では初の海外レーベル「Peak Hour Music」と契約し、世界的に有名なダンスミュージック専門サイト「[Beatport](../Page/Beatport.md "wikilink")」のジャンル別チャートにてランクインを果たす。2019年にはマイアミ出身のアーティスト兼モデルの[Celine Farach（セリーヌ・ファラッチ）](https://www.universal-music.co.jp/celine-farach/)他、立て続けにコラボレーション楽曲を制作。iamSHUMと制作した" I'm So Happy feat.Yoseek\&HarukiD" では、[iTunesダンスチャートにおいて初登場](../Page/ITunes_Store.md "wikilink")1位を獲得する。
 
 ## 略歴
 
@@ -15,7 +15,7 @@
 <!-- end list -->
 
   - [2016年](../Page/2016年.md "wikilink")
-      - 4月、東京・渋谷「[CLUB CAMELOT](https://ja.wikipedia.org/wiki/CLUB_CAMELOT "wikilink")」のレジデントDJに就任。
+      - 4月、東京・渋谷「[CLUB CAMELOT](../Page/CLUB_CAMELOT.md "wikilink")」のレジデントDJに就任。
   - [2017年](../Page/2017年.md "wikilink")
       - 7月、1st single"Deja vu"をリリース。
   - [2018年](../Page/2018年.md "wikilink")
@@ -50,7 +50,7 @@
 ## 関連項目
 
   - [エレクトロニック・ダンス・ミュージック](https://ja.wikipedia.org/wiki/エレクトロニック・ダンス・ミュージック "wikilink")
-  - [CLUB CAMELOT](https://ja.wikipedia.org/wiki/CLUB_CAMELOT "wikilink")
+  - [CLUB CAMELOT](../Page/CLUB_CAMELOT.md "wikilink")
 
 ## 出典
 

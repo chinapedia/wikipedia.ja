@@ -5,7 +5,7 @@
 
 ## 関連項目
 
-  - [Apache Mesos](https://ja.wikipedia.org/wiki/Apache_Mesos "wikilink")
+  - [Apache Mesos](../Page/Apache_Mesos.md "wikilink")
 
   -
   - [Kubernetes](https://ja.wikipedia.org/wiki/Kubernetes "wikilink")

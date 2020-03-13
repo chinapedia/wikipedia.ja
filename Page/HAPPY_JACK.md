@@ -739,7 +739,7 @@ HAPPY JACK（ハッピー・ジャック）は、毎年3月に熊本県の複数
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/ココロオークション" title="wikilink">ココロオークション</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ANTENA_(バンド)" title="wikilink">アンテナ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/FIVE_NEW_OLD" title="wikilink">FIVE NEW OLD</a></li>
+<li><a href="../Page/FIVE_NEW_OLD.md" title="wikilink">FIVE NEW OLD</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/CIVILIAN_(バンド)" title="wikilink">CIVILIAN</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/SAKANAMON" title="wikilink">SAKANAMON</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/MOROHA" title="wikilink">MOROHA</a></li>
@@ -796,8 +796,8 @@ HAPPY JACK（ハッピー・ジャック）は、毎年3月に熊本県の複数
 <li><a href="https://ja.wikipedia.org/wiki/FREAK_(歌手)" title="wikilink">FREAK</a></li>
 </ul></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/ハンブレッダーズ" title="wikilink">ハンブレッダーズ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/The_Songbards" title="wikilink">The Songbards</a></li>
+<li><a href="../Page/ハンブレッダーズ.md" title="wikilink">ハンブレッダーズ</a></li>
+<li><a href="../Page/The_Songbards.md" title="wikilink">The Songbards</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/RED_in_BLUE" title="wikilink">RED in BLUE</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ariel_makes_gloomy" title="wikilink">ariel makes gloomy</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ニアフレンズ" title="wikilink">ニアフレンズ</a></li>
@@ -931,10 +931,10 @@ HAPPY JACK 2019 H-FINAL EDITION LIVE CIRCUIT
 </ul></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/THE_FOREVER_YOUNG" title="wikilink">THE FOREVER YOUNG</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ハンブレッダーズ" title="wikilink">ハンブレッダーズ</a></li>
+<li><a href="../Page/ハンブレッダーズ.md" title="wikilink">ハンブレッダーズ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/バレーボウイズ" title="wikilink">バレーボウイズ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ROCKET_K" title="wikilink">ROCKET K</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/The_Songbards" title="wikilink">The Songbards</a></li>
+<li><a href="../Page/The_Songbards.md" title="wikilink">The Songbards</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/そこに鳴る" title="wikilink">そこに鳴る</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/バスクのスポーツ" title="wikilink">バスクのスポーツ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/w.o.d." title="wikilink">w.o.d.</a></li>

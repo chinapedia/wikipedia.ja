@@ -15,7 +15,7 @@
 
 同年後半にはオータムウィンターツアーが開催。
 
-[2020年](../Page/2020年.md "wikilink")[1月15日](../Page/1月15日.md "wikilink")に発売される3rdアルバム「[CEREMONY](https://ja.wikipedia.org/wiki/CEREMONY "wikilink")」の初回生産限定盤にライブ映像([Blu-ray](https://ja.wikipedia.org/wiki/Blu-ray "wikilink"))として収録される。
+[2020年](../Page/2020年.md "wikilink")[1月15日](../Page/1月15日.md "wikilink")に発売される3rdアルバム「[CEREMONY](../Page/CEREMONY.md "wikilink")」の初回生産限定盤にライブ映像([Blu-ray](https://ja.wikipedia.org/wiki/Blu-ray "wikilink"))として収録される。
 
 ## セットリスト
 

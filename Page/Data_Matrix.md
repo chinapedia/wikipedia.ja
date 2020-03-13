@@ -196,7 +196,7 @@ EDIFACTモードでは、1文字あたり6ビットを使用し、4文字を3バ
   - [MaxiCode](https://ja.wikipedia.org/wiki/MaxiCode "wikilink")
   - [Nintendo カードe](../Page/カードe.md "wikilink")
   - [QRコード](../Page/QRコード.md "wikilink")
-  - [Semacode](https://ja.wikipedia.org/wiki/Semacode "wikilink")
+  - [Semacode](../Page/Semacode.md "wikilink")
   - [SPARQCode](https://ja.wikipedia.org/wiki/SPARQCode "wikilink")
   - [Trusted paper key](https://ja.wikipedia.org/wiki/Trusted_paper_key "wikilink")
 

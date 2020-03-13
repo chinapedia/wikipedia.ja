@@ -33,7 +33,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><span style="display:none"> 豆原一成</span><a href="https://ja.wikipedia.org/wiki/豆原一成" title="wikilink">豆原一成</a><br />
+<td><p><span style="display:none"> 豆原一成</span><a href="../Page/豆原一成.md" title="wikilink">豆原一成</a><br />
 （まめはら いっせい）<br />
 </p></td>
 <td><ul>
@@ -46,7 +46,7 @@
 <td><p><span style="display:none">01位</span>1位</p></td>
 </tr>
 <tr class="even">
-<td><p><span style="display:none"> 川尻蓮</span><a href="https://ja.wikipedia.org/wiki/川尻蓮" title="wikilink">川尻蓮</a><br />
+<td><p><span style="display:none"> 川尻蓮</span><a href="../Page/川尻蓮.md" title="wikilink">川尻蓮</a><br />
 （かわしり れん）<br />
 </p></td>
 <td><ul>
@@ -59,7 +59,7 @@
 <td><p><span style="display:none">02位</span>2位</p></td>
 </tr>
 <tr class="odd">
-<td><p><span style="display:none"> 川西拓実</span><a href="https://ja.wikipedia.org/wiki/川西拓実" title="wikilink">川西拓実</a><br />
+<td><p><span style="display:none"> 川西拓実</span><a href="../Page/川西拓実.md" title="wikilink">川西拓実</a><br />
 （かわにし たくみ）<br />
 </p></td>
 <td><ul>
@@ -72,7 +72,7 @@
 <td><p><span style="display:none">03位</span>3位</p></td>
 </tr>
 <tr class="even">
-<td><p><span style="display:none"> 大平祥生</span><a href="https://ja.wikipedia.org/wiki/大平祥生" title="wikilink">大平祥生</a><br />
+<td><p><span style="display:none"> 大平祥生</span><a href="../Page/大平祥生.md" title="wikilink">大平祥生</a><br />
 （おおひら しょうせい）<br />
 </p></td>
 <td><ul>
@@ -93,7 +93,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><span style="display:none"> 鶴房汐恩</span><a href="https://ja.wikipedia.org/wiki/鶴房汐恩" title="wikilink">鶴房汐恩</a><br />
+<td><p><span style="display:none"> 鶴房汐恩</span><a href="../Page/鶴房汐恩.md" title="wikilink">鶴房汐恩</a><br />
 （つるぼう しおん）<br />
 </p></td>
 <td><ul>
@@ -106,7 +106,7 @@
 <td><p><span style="display:none">05位</span>5位</p></td>
 </tr>
 <tr class="odd">
-<td><p><span style="display:none"> 白岩瑠姫</span><a href="https://ja.wikipedia.org/wiki/白岩瑠姫" title="wikilink">白岩瑠姫</a><br />
+<td><p><span style="display:none"> 白岩瑠姫</span><a href="../Page/白岩瑠姫.md" title="wikilink">白岩瑠姫</a><br />
 （しろいわ るき）<br />
 </p></td>
 <td><ul>
@@ -119,7 +119,7 @@
 <td><p><span style="display:none">06位</span>6位</p></td>
 </tr>
 <tr class="even">
-<td><p><span style="display:none"> 佐藤景瑚</span><a href="https://ja.wikipedia.org/wiki/佐藤景瑚" title="wikilink">佐藤景瑚</a><br />
+<td><p><span style="display:none"> 佐藤景瑚</span><a href="../Page/佐藤景瑚.md" title="wikilink">佐藤景瑚</a><br />
 （さとう けいご）<br />
 </p></td>
 <td><ul>
@@ -132,7 +132,7 @@
 <td><p><span style="display:none">07位</span>7位</p></td>
 </tr>
 <tr class="odd">
-<td><p><span style="display:none"> 木全翔也</span><a href="https://ja.wikipedia.org/wiki/木全翔也" title="wikilink">木全翔也</a><br />
+<td><p><span style="display:none"> 木全翔也</span><a href="../Page/木全翔也.md" title="wikilink">木全翔也</a><br />
 （きまた しょうや）<br />
 </p></td>
 <td><ul>
@@ -145,7 +145,7 @@
 <td><p><span style="display:none">08位</span>8位</p></td>
 </tr>
 <tr class="even">
-<td><p><span style="display:none"> 河野純喜</span><a href="https://ja.wikipedia.org/wiki/河野純喜" title="wikilink">河野純喜</a><br />
+<td><p><span style="display:none"> 河野純喜</span><a href="../Page/河野純喜.md" title="wikilink">河野純喜</a><br />
 （こうの じゅんき）<br />
 </p></td>
 <td><ul>
@@ -158,7 +158,7 @@
 <td><p><span style="display:none">09位</span>9位</p></td>
 </tr>
 <tr class="odd">
-<td><p><span style="display:none"> ‪金城碧海‬</span><a href="https://ja.wikipedia.org/wiki/金城碧海" title="wikilink">金城碧海</a><br />
+<td><p><span style="display:none"> ‪金城碧海‬</span><a href="../Page/金城碧海.md" title="wikilink">金城碧海</a><br />
 （きんじょう すかい）<br />
 </p></td>
 <td><ul>
@@ -171,7 +171,7 @@
 <td><p><span style="display:none">10位</span>10位</p></td>
 </tr>
 <tr class="even">
-<td><p><span style="display:none"> 與那城奨</span><a href="https://ja.wikipedia.org/wiki/與那城奨" title="wikilink">與那城奨</a><br />
+<td><p><span style="display:none"> 與那城奨</span><a href="../Page/與那城奨.md" title="wikilink">與那城奨</a><br />
 （よなしろ しょう）<br />
 </p></td>
 <td><ul>

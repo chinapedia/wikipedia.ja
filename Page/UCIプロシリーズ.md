@@ -123,7 +123,7 @@
 <td><p>1.Pro</p></td>
 <td><p>1.1</p></td>
 <td></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ロイヤル・ベルナール・ドローム・クラシック" title="wikilink">ロイヤル・ベルナール・ドローム・クラシック</a></strong></p></td>
+<td><p><strong><a href="../Page/ロイヤル・ベルナール・ドローム・クラシック.md" title="wikilink">ロイヤル・ベルナール・ドローム・クラシック</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p>1.Pro</p></td>
@@ -213,7 +213,7 @@
 <td><p>2.Pro</p></td>
 <td><p>2.1</p></td>
 <td></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ブックル・ドゥ・ラ・マイエンヌ" title="wikilink">ブックル・ドゥ・ラ・マイエンヌ</a></strong></p></td>
+<td><p><strong><a href="../Page/ブックル・ドゥ・ラ・マイエンヌ.md" title="wikilink">ブックル・ドゥ・ラ・マイエンヌ</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p>2.Pro</p></td>
@@ -237,7 +237,7 @@
 <td><p>1.Pro</p></td>
 <td><p>1.1</p></td>
 <td></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ドワルス・ドール・ヘット・ハーヘラント" title="wikilink">ドワルス・ドール・ヘット・ハーヘラント</a></strong></p></td>
+<td><p><strong><a href="../Page/ドワルス・ドール・ヘット・ハーヘラント.md" title="wikilink">ドワルス・ドール・ヘット・ハーヘラント</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p>2.Pro</p></td>

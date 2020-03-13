@@ -7,7 +7,7 @@
 
 [2018年](../Page/2018年.md "wikilink")発売の「[The Moon](https://ja.wikipedia.org/wiki/The_Moon_\(藤原さくらの曲\) "wikilink")」以来の配信限定シングル。
 
-「[Ami](https://ja.wikipedia.org/wiki/Ami_\(藤原さくらの曲\) "wikilink")」との同時リリースで、共に[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系の[ドラマ](../Page/ドラマ.md "wikilink")『100文字アイデアをドラマにした！』の主題歌\[1\]。
+「[Ami](../Page/Ami_\(藤原さくらの曲\).md "wikilink")」との同時リリースで、共に[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系の[ドラマ](../Page/ドラマ.md "wikilink")『100文字アイデアをドラマにした！』の主題歌\[1\]。
 
 ジャケットデザインは[藤田二郎](https://ja.wikipedia.org/wiki/藤田二郎 "wikilink")が担当した。
 

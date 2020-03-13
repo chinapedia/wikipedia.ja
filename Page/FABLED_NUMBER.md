@@ -494,7 +494,7 @@ CRCP-10398:通常盤</p></td>
 <li>8/24 HEAVEN'S ROCK 熊谷 VJ-1 w/a crowd of rebellion, AIR SWELL</li>
 <li>8/25 横浜BAYSIS w/<a href="https://ja.wikipedia.org/wiki/Bentham_(バンド)" title="wikilink">Bentham</a>, <a href="../Page/ミソッカス.md" title="wikilink">ミソッカス</a></li>
 <li>9/02 広島CAVE-BE w/<a href="https://ja.wikipedia.org/wiki/LONGMAN" title="wikilink">LONGMAN</a>, <a href="https://ja.wikipedia.org/wiki/I-RabBits" title="wikilink">I-RabBits</a>, <a href="https://ja.wikipedia.org/wiki/marry-che_LIE" title="wikilink">marry-che LIE</a></li>
-<li>9/03 天神Queblick w/<a href="https://ja.wikipedia.org/wiki/FIVE_NEW_OLD" title="wikilink">FIVE NEW OLD</a>, I-RabBits, <a href="https://ja.wikipedia.org/wiki/PORFIDIO" title="wikilink">PORFIDIO</a></li>
+<li>9/03 天神Queblick w/<a href="../Page/FIVE_NEW_OLD.md" title="wikilink">FIVE NEW OLD</a>, I-RabBits, <a href="https://ja.wikipedia.org/wiki/PORFIDIO" title="wikilink">PORFIDIO</a></li>
 <li>9/10 SoulPower w/ANGRY FROG REBIRTH, OLLiE SiDE UP, <a href="https://ja.wikipedia.org/wiki/午前四時、朝焼けにツキ" title="wikilink">午前四時、朝焼けにツキ</a></li>
 <li>9/29 渋谷CLUB QUATTRO w/<a href="https://ja.wikipedia.org/wiki/256_(バンド)" title="wikilink">256</a>, <a href="https://ja.wikipedia.org/wiki/SHE&#39;S" title="wikilink">SHE'S</a>, POT, <a href="https://ja.wikipedia.org/wiki/モーモールルギャバン" title="wikilink">モーモールルギャバン</a></li>
 <li>9/30 名古屋CLUB QUATTRO w/<a href="https://ja.wikipedia.org/wiki/感覚ピエロ" title="wikilink">感覚ピエロ</a></li>

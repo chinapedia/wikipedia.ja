@@ -1,7 +1,7 @@
 > この記事は[Netlify](https://ja.wikipedia.org/wiki/Netlify)から翻訳されています。
 
 
-**Netlify**は[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")をベースとする[クラウドコンピューティング](https://ja.wikipedia.org/wiki/クラウドコンピューティング "wikilink")の企業である。[静的ウェブサイトのための](https://ja.wikipedia.org/wiki/静的ウェブページ "wikilink")と[サーバーレスの](https://ja.wikipedia.org/wiki/サーバーレス・コンピューティング "wikilink")[バックエンドサービスを提供している](../Page/Platform_as_a_Service.md "wikilink")。
+**Netlify**は[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")をベースとする[クラウドコンピューティング](https://ja.wikipedia.org/wiki/クラウドコンピューティング "wikilink")の企業である。[静的ウェブサイトのための](../Page/静的ウェブページ.md "wikilink")と[サーバーレスの](https://ja.wikipedia.org/wiki/サーバーレス・コンピューティング "wikilink")[バックエンドサービスを提供している](../Page/Platform_as_a_Service.md "wikilink")。
 
 グローバルなを介した[Git](../Page/Git.md "wikilink")からの[継続的デプロイ](https://ja.wikipedia.org/wiki/継続的デプロイ "wikilink")\[1\]\[2\]\[3\]、サーバーレスの[フォームハンドリング](../Page/フォーム_\(ウェブ\).md "wikilink")\[4\]、 functionsのサポート\[5\]、[Let's Encryptとの完全な統合](https://ja.wikipedia.org/wiki/Let's_Encrypt "wikilink")\[6\]を特徴としている。無料プランと有料プランを提供している\[7\]。
 
@@ -23,7 +23,7 @@ Netlifyのユーザーとしては、[Google](../Page/Google.md "wikilink")、[F
 
 ### Netlify CMS
 
-[サムネイル](https://ja.wikipedia.org/wiki/ファイル:Netlify_CMS_dashboard.png "wikilink") [静的ウェブサイトは](https://ja.wikipedia.org/wiki/静的ウェブページ "wikilink")、動的なコンテンツ公開システムである[WordPress](../Page/WordPress.md "wikilink")や[Mediumなどに比べると](https://ja.wikipedia.org/wiki/Medium_\(Webサービス\) "wikilink")、洗練されておらず[ウェブマスター](https://ja.wikipedia.org/wiki/ウェブマスター "wikilink")が扱うのが面倒になる傾向があるため、Netlifyは、こうした制限の一部に対処することを目的としてNetlify CMSという名称の[オープンソースの](../Page/オープンソースソフトウェア.md "wikilink")を開発した\[20\]\[21\]。
+[サムネイル](https://ja.wikipedia.org/wiki/ファイル:Netlify_CMS_dashboard.png "wikilink") [静的ウェブサイトは](../Page/静的ウェブページ.md "wikilink")、動的なコンテンツ公開システムである[WordPress](../Page/WordPress.md "wikilink")や[Mediumなどに比べると](https://ja.wikipedia.org/wiki/Medium_\(Webサービス\) "wikilink")、洗練されておらず[ウェブマスター](https://ja.wikipedia.org/wiki/ウェブマスター "wikilink")が扱うのが面倒になる傾向があるため、Netlifyは、こうした制限の一部に対処することを目的としてNetlify CMSという名称の[オープンソースの](../Page/オープンソースソフトウェア.md "wikilink")を開発した\[20\]\[21\]。
 
 ### JAMstack
 

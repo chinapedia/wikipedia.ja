@@ -17,7 +17,7 @@
 
 ## 収録曲
 
-1.  **[憲兵も王様も居ない城](https://ja.wikipedia.org/wiki/憲兵も王様も居ない城 "wikilink")**
+1.  **[憲兵も王様も居ない城](../Page/憲兵も王様も居ない城.md "wikilink")**
     （作詞・作曲：ASKA）
       -
         配信シングル。
@@ -35,7 +35,7 @@
     （作詞・作曲：ASKA）
 6.  **百花繚乱**
     （作詞・作曲：ASKA）
-7.  **[イイ天気](https://ja.wikipedia.org/wiki/イイ天気 "wikilink")**
+7.  **[イイ天気](../Page/イイ天気.md "wikilink")**
     （作詞・作曲：ASKA）
       -
         配信シングル。
@@ -53,7 +53,7 @@
     （作詞・作曲：ASKA）
 12. **青い海になる**
     （作詞・作曲：ASKA）
-13. **[星は何でも知っている](https://ja.wikipedia.org/wiki/星は何でも知っている_\(ASKAの曲\) "wikilink")**
+13. **[星は何でも知っている](../Page/星は何でも知っている_\(ASKAの曲\).md "wikilink")**
     （作詞・作曲：ASKA）
       -
         配信シングル。

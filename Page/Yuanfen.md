@@ -7,7 +7,7 @@
 
 オリジナルアルバムとしては『[rye](https://ja.wikipedia.org/wiki/rye_\(鹿乃のアルバム\) "wikilink")』から約1年3ヶ月ぶりのリリースとなる。
 
-鹿乃が作詞を担当した9曲に加え、ボーナストラックとしてテレビアニメ「[アズールレーン](https://ja.wikipedia.org/wiki/アズールレーン "wikilink")」のエンディングテーマ「[光の道標](https://ja.wikipedia.org/wiki/光の道標 "wikilink")」が収録され、受注生産盤と初回限定盤と通常版の3種類でのリリースとなる\[2\] 。
+鹿乃が作詞を担当した9曲に加え、ボーナストラックとしてテレビアニメ「[アズールレーン](https://ja.wikipedia.org/wiki/アズールレーン "wikilink")」のエンディングテーマ「[光の道標](../Page/光の道標.md "wikilink")」が収録され、受注生産盤と初回限定盤と通常版の3種類でのリリースとなる\[2\] 。
 
 初回限定盤にはリード曲「午前0時の無力な神様」のMVが収録される。
 
@@ -33,7 +33,7 @@
       - 作詞:鹿乃、作曲:田中秀和 、編曲:[佐高陵平](https://ja.wikipedia.org/wiki/佐高陵平 "wikilink")
 9.  エンディングノート
       - 作詞:鹿乃、作曲:田中秀和 、編曲:[sugarbeans](https://ja.wikipedia.org/wiki/sugarbeans "wikilink")
-10. [光の道標](https://ja.wikipedia.org/wiki/光の道標 "wikilink") (bonus track)
+10. [光の道標](../Page/光の道標.md "wikilink") (bonus track)
       - 作詞:[こだまさおり](https://ja.wikipedia.org/wiki/こだまさおり "wikilink")、作曲:[山田高弘](https://ja.wikipedia.org/wiki/山田高弘 "wikilink") 、編曲:[齋藤真也](../Page/齋藤真也.md "wikilink")
       - TVアニメ「[アズールレーン](https://ja.wikipedia.org/wiki/アズールレーン "wikilink")」EDテーマ
 

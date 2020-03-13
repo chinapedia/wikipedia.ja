@@ -9,7 +9,7 @@
 
 ## 施設紹介
 
-[琵琶湖](../Page/琵琶湖.md "wikilink")へ注ぐ川はたくさんありますが、流れる川はたった一つ。 それは、[瀬田川](https://ja.wikipedia.org/wiki/瀬田川 "wikilink")です。[宇治川](https://ja.wikipedia.org/wiki/宇治川 "wikilink")に名前を変えるあたりが支流の[笠取川](https://ja.wikipedia.org/wiki/笠取川 "wikilink")です。 [笠取川](https://ja.wikipedia.org/wiki/笠取川 "wikilink")を山手に上がると、[50年](../Page/50年.md "wikilink")育った[メタセコイア](../Page/メタセコイア.md "wikilink")の森の影に、茶色のロッジが見えてきます。それが[京都YMCAリトリートセンター](https://ja.wikipedia.org/wiki/京都YMCAリトリートセンター "wikilink")です。四季の移り変わる自然。小動物が施設内のグランドを駆け回ります。 茶畑や暖炉も自慢の一つです。 **施設内紹介**
+[琵琶湖](../Page/琵琶湖.md "wikilink")へ注ぐ川はたくさんありますが、流れる川はたった一つ。 それは、[瀬田川](https://ja.wikipedia.org/wiki/瀬田川 "wikilink")です。[宇治川](https://ja.wikipedia.org/wiki/宇治川 "wikilink")に名前を変えるあたりが支流の[笠取川](https://ja.wikipedia.org/wiki/笠取川 "wikilink")です。 [笠取川](https://ja.wikipedia.org/wiki/笠取川 "wikilink")を山手に上がると、[50年](../Page/50年.md "wikilink")育った[メタセコイア](../Page/メタセコイア.md "wikilink")の森の影に、茶色のロッジが見えてきます。それが[京都YMCAリトリートセンター](../Page/京都YMCAリトリートセンター.md "wikilink")です。四季の移り変わる自然。小動物が施設内のグランドを駆け回ります。 茶畑や暖炉も自慢の一つです。 **施設内紹介**
 
   - ロッジ････････････････････････････････････････････････････40名宿泊可
   - 宿泊棟････････････････････････････････････････････････････2～4名×4室

@@ -116,7 +116,7 @@
   - 制作プロダクション：[AXON](../Page/日テレアックスオン.md "wikilink")\[75\]
   - 企画制作：[日本テレビ](../Page/日本テレビ放送網.md "wikilink")\[76\]
   - 製作著作：「DASADA」製作委員会\[77\]
-  - 主題歌：日向坂46「[青春の馬](https://ja.wikipedia.org/wiki/ソンナコトナイヨ "wikilink")」
+  - 主題歌：日向坂46「[青春の馬](../Page/ソンナコトナイヨ.md "wikilink")」
 
 ## 放送・配信期間
 

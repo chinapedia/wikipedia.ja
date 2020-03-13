@@ -3,7 +3,7 @@
 
 **Yuzu** は、[Nintendo Switch](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink") の [フリーかつオープンソース](https://ja.wikipedia.org/wiki/FLOSS "wikilink") の[エミュレータである](../Page/ゲームエミュレータ.md "wikilink")。Nintendo Switch の発売から10ヶ月後\[1\]の2018年1月14日に開発中であることが発表された\[2\]\[3\]。プログラムソースコードは [C++](../Page/C++.md "wikilink") で書かれている。
 
-Yuzuはニンテンドー3DSのエミュレータの [Citra](https://ja.wikipedia.org/wiki/Citra "wikilink") の開発者によって作成され、両プロジェクト間で重要なコードが共有されている。当初、Yuzu はテストプログラムと[Homebrewゲーム](https://ja.wikipedia.org/wiki/Homebrewゲーム "wikilink") のみに対応していたが、2019年7月時点では、一部のゲームが問題なく動作する\[4\]\[5\]\[6\]\[7\]。Yuzu で動作するゲームの一覧は、公式ウェブサイトに掲載されている\[8\]。
+Yuzuはニンテンドー3DSのエミュレータの [Citra](../Page/Citra.md "wikilink") の開発者によって作成され、両プロジェクト間で重要なコードが共有されている。当初、Yuzu はテストプログラムと[Homebrewゲーム](https://ja.wikipedia.org/wiki/Homebrewゲーム "wikilink") のみに対応していたが、2019年7月時点では、一部のゲームが問題なく動作する\[4\]\[5\]\[6\]\[7\]。Yuzu で動作するゲームの一覧は、公式ウェブサイトに掲載されている\[8\]。
 
 ## 特徴
 

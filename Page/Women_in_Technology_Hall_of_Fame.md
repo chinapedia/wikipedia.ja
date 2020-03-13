@@ -17,7 +17,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1996年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ルース・リーチ・アモネット" title="wikilink">ルース・リーチ・アモネット</a></p></td>
+<td><p><a href="../Page/ルース・リーチ・アモネット.md" title="wikilink">ルース・リーチ・アモネット</a></p></td>
 <td><p>1916-2004[2]</p></td>
 <td><p><a href="../Page/IBM.md" title="wikilink">IBM</a>初の女性<a href="../Page/ヴァイスプレジデント.md" title="wikilink">ヴァイスプレジデント</a>（1943年-1953年）[3]</p></td>
 </tr>

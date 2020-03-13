@@ -84,7 +84,7 @@
 
   - [Minami](https://ja.wikipedia.org/wiki/湖南市#概要 "wikilink")、[ピーナッツくん](https://ja.wikipedia.org/wiki/ピーナッツくん "wikilink")、[甲賀流忍者\!ぽんぽこ](https://ja.wikipedia.org/wiki/甲賀流忍者!ぽんぽこ "wikilink") - 西川貴教の応援\[3\]。
   - 長谷川敬タ、KUROKEN - 高橋洋子のバックダンサー。
-  - [月ノ美兎](https://ja.wikipedia.org/wiki/月ノ美兎 "wikilink")、[白上フブキ](https://ja.wikipedia.org/wiki/白上フブキ "wikilink") - 副音声『バーチャル・ウラトーク』担当。
+  - [月ノ美兎](https://ja.wikipedia.org/wiki/月ノ美兎 "wikilink")、[白上フブキ](../Page/白上フブキ.md "wikilink") - 副音声『バーチャル・ウラトーク』担当。
   - [アメリカザリガニ](../Page/アメリカザリガニ_\(お笑いコンビ\).md "wikilink") - 終了時にバーチャルYouTuber化した状態で出演。
 
 ## スタッフ

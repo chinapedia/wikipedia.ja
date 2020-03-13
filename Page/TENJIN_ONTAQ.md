@@ -292,7 +292,7 @@
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/BACK_LIFT" title="wikilink">BACK LIFT</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/LOCAL_CONNECT" title="wikilink">LOCAL CONNECT</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/FABLED_NUMBER" title="wikilink">FABLED NUMBER</a></li>
+<li><a href="../Page/FABLED_NUMBER.md" title="wikilink">FABLED NUMBER</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/BUZZ_THE_BEARS" title="wikilink">BUZZ THE BEARS</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/MOROHA" title="wikilink">MOROHA</a></li>
 <li><a href="../Page/UNCHAIN.md" title="wikilink">UNCHAIN</a></li>
@@ -329,7 +329,7 @@
 </ul></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/戸渡陽太" title="wikilink">戸渡陽太</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/FIVE_NEW_OLD" title="wikilink">FIVE NEW OLD</a></li>
+<li><a href="../Page/FIVE_NEW_OLD.md" title="wikilink">FIVE NEW OLD</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Handsome_Geek" title="wikilink">Handsome Geek</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/HOTSQUALL" title="wikilink">HOTSQUALL</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/SIX_LOUNGE" title="wikilink">SIX LOUNGE</a></li>
@@ -390,7 +390,7 @@
 （3月11日）</p></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/神はサイコロを振らない_(バンド)" title="wikilink">神はサイコロを振らない</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/FABLED_NUMBER" title="wikilink">FABLED NUMBER</a></li>
+<li><a href="../Page/FABLED_NUMBER.md" title="wikilink">FABLED NUMBER</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ORANGE_POST_REASON" title="wikilink">ORANGE POST REASON</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/おいしくるメロンパン" title="wikilink">おいしくるメロンパン</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/the_twenties" title="wikilink">the twenties</a></li>
@@ -402,7 +402,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/LUCCI" title="wikilink">LUCCI</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/それでも尚、未来に媚びる" title="wikilink">それでも尚、未来に媚びる</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/THE_PINBALLS" title="wikilink">THE PINBALLS</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/FIVE_NEW_OLD" title="wikilink">FIVE NEW OLD</a></li>
+<li><a href="../Page/FIVE_NEW_OLD.md" title="wikilink">FIVE NEW OLD</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/宇宙まお" title="wikilink">宇宙まお</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Shout_it_Out" title="wikilink">Shout it Out</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/the_irony" title="wikilink">the irony</a></li>
@@ -745,9 +745,9 @@
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/挫・人間" title="wikilink">挫・人間</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/あいくれ" title="wikilink">あいくれ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/FABLED_NUMBER" title="wikilink">FABLED NUMBER</a></li>
+<li><a href="../Page/FABLED_NUMBER.md" title="wikilink">FABLED NUMBER</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/TENDOUJI" title="wikilink">TENDOUJI</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ハンブレッダーズ" title="wikilink">ハンブレッダーズ</a></li>
+<li><a href="../Page/ハンブレッダーズ.md" title="wikilink">ハンブレッダーズ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/82回目の終身刑" title="wikilink">82回目の終身刑</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/NUBO" title="wikilink">NUBO</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Track&#39;s" title="wikilink">Track's</a></li>
@@ -767,7 +767,7 @@
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/FERN_PLANET" title="wikilink">FERN PLANET</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/The_Winking_Owl" title="wikilink">The Winking Owl</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/The_Songbards" title="wikilink">The Songbards</a></li>
+<li><a href="../Page/The_Songbards.md" title="wikilink">The Songbards</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/スピラ・スピカ" title="wikilink">スピラ・スピカ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/NoisyCell" title="wikilink">NoisyCell</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ヤングオオハラ" title="wikilink">ヤングオオハラ</a></li>

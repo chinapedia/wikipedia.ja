@@ -1,7 +1,7 @@
 > この記事は[Wpc.](https://ja.wikipedia.org/wiki/Wpc.)から翻訳されています。
 
 
-**Wpc.**（ダブルピーシー）は、[雨傘](https://ja.wikipedia.org/wiki/雨傘 "wikilink")、[日傘](https://ja.wikipedia.org/wiki/日傘 "wikilink")、[レインコート](../Page/レインコート.md "wikilink")などの[レイングッズ](https://ja.wikipedia.org/wiki/レイングッズ "wikilink")[ブランド](../Page/ブランド.md "wikilink")を展開する株式会社[ワールドパーティー](https://ja.wikipedia.org/wiki/ワールドパーティー "wikilink")が、『可能性を創造する』をスローガンに[2004年](../Page/2004年.md "wikilink")に立ち上げたマスターブランド\[1\]\[2\]。
+**Wpc.**（ダブルピーシー）は、[雨傘](https://ja.wikipedia.org/wiki/雨傘 "wikilink")、[日傘](https://ja.wikipedia.org/wiki/日傘 "wikilink")、[レインコート](../Page/レインコート.md "wikilink")などの[レイングッズ](https://ja.wikipedia.org/wiki/レイングッズ "wikilink")[ブランド](../Page/ブランド.md "wikilink")を展開する株式会社[ワールドパーティー](../Page/ワールドパーティー.md "wikilink")が、『可能性を創造する』をスローガンに[2004年](../Page/2004年.md "wikilink")に立ち上げたマスターブランド\[1\]\[2\]。
 
 ## 概要
 

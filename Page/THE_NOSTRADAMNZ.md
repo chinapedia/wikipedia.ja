@@ -11,7 +11,7 @@
 
 **燕瞳　瑶壱楼**(えんどう　よういちろう)　[ギター](../Page/ギター.md "wikilink")/[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")　7月8日生まれ
 
-  - 遠藤洋一郎名義にて、APPLE MEETS BAZOOKA,[Lucid And The Flowers](https://ja.wikipedia.org/wiki/Lucid_And_The_Flowers "wikilink"),norito等でも活動
+  - 遠藤洋一郎名義にて、APPLE MEETS BAZOOKA,[Lucid And The Flowers](../Page/Lucid_And_The_Flowers.md "wikilink"),norito等でも活動
 
 **上邑　隼人**(かみむら　はやと)　[ドラム](../Page/ドラムセット.md "wikilink")/[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")　5月14日生まれ
 

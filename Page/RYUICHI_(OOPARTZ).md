@@ -5,7 +5,7 @@
 
 ## 概要
 
-ストリートダンスチーム「[Mad Skills Styler](https://ja.wikipedia.org/wiki/Mad_Skills_Styler "wikilink")」として、[NTV](https://ja.wikipedia.org/wiki/NTV "wikilink")の[24時間TV](https://ja.wikipedia.org/wiki/24時間TV "wikilink")内の『[ダンス甲子園](https://ja.wikipedia.org/wiki/ダンス甲子園 "wikilink")』で、2年連続優勝などダンスシーンで数々の受賞を残す。 イタリア世界大会ソロバトルで優勝し、ダンサーとしてワールドクラスの実績をもち人気を得ている。その一方、個人の活動として、作詞家として自身のグループの作詞の他、[福山潤](https://ja.wikipedia.org/wiki/福山潤 "wikilink")、[SKE48](https://ja.wikipedia.org/wiki/SKE48 "wikilink") [古畑奈和](https://ja.wikipedia.org/wiki/古畑奈和 "wikilink")など数多くのアーティストにも詞を提供を行っている。また、2018年から2019年にかけては短編映画に出演し活動の幅も広げている。音楽活動は、大ヒットしたRADIO FISH「PERFECT HUMAN」などの楽曲を手掛けたサウンドプロデューサー[JUVENILE](../Page/JUVENILE.md "wikilink")(ジュブナイル)と共にELECTROユニット[OOPARTZ](../Page/OOPARTZ.md "wikilink")(オーパーツ)のボーカルとして活動中。
+ストリートダンスチーム「[Mad Skills Styler](https://ja.wikipedia.org/wiki/Mad_Skills_Styler "wikilink")」として、[NTV](https://ja.wikipedia.org/wiki/NTV "wikilink")の[24時間TV](https://ja.wikipedia.org/wiki/24時間TV "wikilink")内の『[ダンス甲子園](https://ja.wikipedia.org/wiki/ダンス甲子園 "wikilink")』で、2年連続優勝などダンスシーンで数々の受賞を残す。 イタリア世界大会ソロバトルで優勝し、ダンサーとしてワールドクラスの実績をもち人気を得ている。その一方、個人の活動として、作詞家として自身のグループの作詞の他、[福山潤](../Page/福山潤.md "wikilink")、[SKE48](https://ja.wikipedia.org/wiki/SKE48 "wikilink") [古畑奈和](https://ja.wikipedia.org/wiki/古畑奈和 "wikilink")など数多くのアーティストにも詞を提供を行っている。また、2018年から2019年にかけては短編映画に出演し活動の幅も広げている。音楽活動は、大ヒットしたRADIO FISH「PERFECT HUMAN」などの楽曲を手掛けたサウンドプロデューサー[JUVENILE](../Page/JUVENILE.md "wikilink")(ジュブナイル)と共にELECTROユニット[OOPARTZ](../Page/OOPARTZ.md "wikilink")(オーパーツ)のボーカルとして活動中。
 
 ## ダンス経歴
 
@@ -30,7 +30,7 @@
 
 ### 他アーティストへの作詞提供
 
-  - [福山潤](https://ja.wikipedia.org/wiki/福山潤 "wikilink")
+  - [福山潤](../Page/福山潤.md "wikilink")
       - 『ランプジェンカ』（2017年2月15日 Single リリース）
       - 『もしも』（2017年6月21日Alubum リリース）
   - [古畑奈和](https://ja.wikipedia.org/wiki/古畑奈和 "wikilink")

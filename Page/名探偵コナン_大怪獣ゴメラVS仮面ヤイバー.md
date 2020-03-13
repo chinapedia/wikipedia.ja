@@ -95,7 +95,7 @@
 #### その他のキャラクター
 
   - 鑑識
-    声 - [西村俊樹](https://ja.wikipedia.org/wiki/西村俊樹 "wikilink")、[中西正樹](https://ja.wikipedia.org/wiki/中西正樹 "wikilink")、[竹田海渡](https://ja.wikipedia.org/wiki/竹田海渡 "wikilink")、[岩崎諒太](https://ja.wikipedia.org/wiki/岩崎諒太 "wikilink")、[宮崎遊](https://ja.wikipedia.org/wiki/宮崎遊 "wikilink")
+    声 - [西村俊樹](https://ja.wikipedia.org/wiki/西村俊樹 "wikilink")、[中西正樹](../Page/中西正樹.md "wikilink")、[竹田海渡](https://ja.wikipedia.org/wiki/竹田海渡 "wikilink")、[岩崎諒太](https://ja.wikipedia.org/wiki/岩崎諒太 "wikilink")、[宮崎遊](https://ja.wikipedia.org/wiki/宮崎遊 "wikilink")
     [大阪府警の鑑識課員](https://ja.wikipedia.org/wiki/大阪府警察 "wikilink")。
   - スタッフ
     声 - [柚木尚子](https://ja.wikipedia.org/wiki/柚木尚子 "wikilink")
@@ -113,7 +113,7 @@
 
 ## 音楽
 
-  - オープニングテーマ「[真っ赤なLip](https://ja.wikipedia.org/wiki/真っ赤なLip "wikilink")」
+  - オープニングテーマ「[真っ赤なLip](../Page/真っ赤なLip.md "wikilink")」
     歌 - [WANDS](../Page/WANDS.md "wikilink") / 作詞 - 上原大史 / 作曲・編曲 - [大島こうすけ](../Page/大島こうすけ.md "wikilink")
   - エンディングテーマ「[少しづつ 少しづつ](https://ja.wikipedia.org/wiki/少しづつ_少しづつ "wikilink")」
     歌 - [SARD UNDERGROUND](https://ja.wikipedia.org/wiki/SARD_UNDERGROUND "wikilink") / 作詞 - [坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink") / 作曲 - [大野愛果](../Page/大野愛果.md "wikilink") / 編曲 - 鶴澤夢人、[長戸大幸](https://ja.wikipedia.org/wiki/長戸大幸 "wikilink")

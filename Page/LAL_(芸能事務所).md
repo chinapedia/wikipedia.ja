@@ -20,8 +20,8 @@
 
 ### 女性
 
-  - [亀谷理子](https://ja.wikipedia.org/wiki/亀谷理子 "wikilink")
-  - [河村螢](https://ja.wikipedia.org/wiki/河村螢 "wikilink")
+  - [亀谷理子](../Page/亀谷理子.md "wikilink")
+  - [河村螢](../Page/河村螢.md "wikilink")
   - [谷口暢子](https://ja.wikipedia.org/wiki/谷口暢子 "wikilink")
   - [中村百伽](https://ja.wikipedia.org/wiki/中村百伽 "wikilink")
   - [朴璐美](../Page/朴ロ美.md "wikilink")（代表）

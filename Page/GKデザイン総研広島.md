@@ -1,7 +1,7 @@
 > この記事は[GK](https://ja.wikipedia.org/wiki/GK)から翻訳されています。
 
 
-**GKデザイン総研広島**は、[GKデザイングループ](https://ja.wikipedia.org/wiki/GKデザイングループ "wikilink")のグループ会社のひとつであり、広島に拠点を置く総合[デザイン会社](https://ja.wikipedia.org/wiki/デザイン会社 "wikilink")。
+**GKデザイン総研広島**は、[GKデザイングループ](https://ja.wikipedia.org/wiki/GKデザイングループ "wikilink")のグループ会社のひとつであり、広島に拠点を置く総合[デザイン会社](../Page/デザイン会社.md "wikilink")。
 
 ## 概要
 
@@ -53,8 +53,8 @@
   - [GKインダストリアルデザイン](https://ja.wikipedia.org/wiki/GKインダストリアルデザイン "wikilink")
   - [GK設計](https://ja.wikipedia.org/wiki/GK設計 "wikilink")
   - [GKグラフィックス](https://ja.wikipedia.org/wiki/GKグラフィックス "wikilink")
-  - [GKダイナミックス](https://ja.wikipedia.org/wiki/GKダイナミックス "wikilink")
-  - [GKテック](https://ja.wikipedia.org/wiki/GKテック "wikilink")
+  - [GKダイナミックス](../Page/GKダイナミックス.md "wikilink")
+  - [GKテック](../Page/GKテック.md "wikilink")
   - [GK京都](../Page/GK京都.md "wikilink")
   - [GK Design International, Inc.](https://ja.wikipedia.org/wiki/GK_Design_International,_Inc. "wikilink")(LA, Atlanta)
   - [GK Design Europe bv](https://ja.wikipedia.org/wiki/GK_Design_Europe_bv "wikilink")（Amsterdam）

@@ -3,11 +3,11 @@
 
 **サイクリンE**（）は、[サイクリン](../Page/サイクリン.md "wikilink")ファミリーの[タンパク質](../Page/タンパク質.md "wikilink")である。
 
-サイクリンEは[G<sub>1</sub>期に](../Page/G1期.md "wikilink")[CDK2と結合して複合体を形成し](https://ja.wikipedia.org/wiki/サイクリン依存性キナーゼ2 "wikilink")、この複合体は[細胞周期](../Page/細胞周期.md "wikilink")がG<sub>1</sub>期から[DNA複製](https://ja.wikipedia.org/wiki/DNA複製 "wikilink")が開始される[S期](../Page/S期.md "wikilink")へ移行するために必要である。サイクリンE/CDK2複合体は、[サイクリンD](../Page/サイクリンD.md "wikilink")の阻害因子である[p27<sup>Kip1</sup>を](https://ja.wikipedia.org/wiki/CDKN1B "wikilink")[リン酸化](../Page/リン酸化.md "wikilink")することで分解のためのタグをつける。その結果[サイクリンA](../Page/サイクリンA.md "wikilink")の発現が促進され、細胞周期はS期へ進行する。[Cyclin_Expression.svg](https://ja.wikipedia.org/wiki/File:Cyclin_Expression.svg "fig:Cyclin_Expression.svg").\]\]
+サイクリンEは[G<sub>1</sub>期に](../Page/G1期.md "wikilink")[CDK2と結合して複合体を形成し](../Page/サイクリン依存性キナーゼ2.md "wikilink")、この複合体は[細胞周期](../Page/細胞周期.md "wikilink")がG<sub>1</sub>期から[DNA複製](https://ja.wikipedia.org/wiki/DNA複製 "wikilink")が開始される[S期](../Page/S期.md "wikilink")へ移行するために必要である。サイクリンE/CDK2複合体は、[サイクリンD](../Page/サイクリンD.md "wikilink")の阻害因子である[p27<sup>Kip1</sup>を](https://ja.wikipedia.org/wiki/CDKN1B "wikilink")[リン酸化](../Page/リン酸化.md "wikilink")することで分解のためのタグをつける。その結果[サイクリンA](../Page/サイクリンA.md "wikilink")の発現が促進され、細胞周期はS期へ進行する。[Cyclin_Expression.svg](https://ja.wikipedia.org/wiki/File:Cyclin_Expression.svg "fig:Cyclin_Expression.svg").\]\]
 
 ## 機能
 
-全てのサイクリンファミリーのメンバーと同様、サイクリンEは[サイクリン依存性キナーゼ](https://ja.wikipedia.org/wiki/サイクリン依存性キナーゼ "wikilink")（CDK）と複合体を形成する。サイクリンEが結合するのはCDK2で、サイクリンE/CDK2複合体は多数のタンパク質を[リン酸化](../Page/リン酸化.md "wikilink")することで複数の細胞経路を調節する。
+全てのサイクリンファミリーのメンバーと同様、サイクリンEは[サイクリン依存性キナーゼ](../Page/サイクリン依存性キナーゼ.md "wikilink")（CDK）と複合体を形成する。サイクリンEが結合するのはCDK2で、サイクリンE/CDK2複合体は多数のタンパク質を[リン酸化](../Page/リン酸化.md "wikilink")することで複数の細胞経路を調節する。
 
 サイクリンE/CDK2はG<sub>1</sub>期ならびにG<sub>1</sub>/S期の移行に重要な役割を果たす。サイクリンE/CDK2は[Rbタンパク質をリン酸化し](https://ja.wikipedia.org/wiki/Rb遺伝子 "wikilink")、G<sub>1</sub>期の進行を促進する。Rbは[転写因子](../Page/転写因子.md "wikilink")を抑制するが、高リン酸化状態となることでE2Fと相互作用できなくなり、その結果E2FはG<sub>1</sub>期からS期へ細胞を駆動する遺伝子の発現を促進する\[1\]。またサイクリンE/CDK2は、G<sub>1</sub>期とS期にそれぞれp27<sup>Kip1</sup>と[p21<sup>Cip1</sup>をリン酸化する](https://ja.wikipedia.org/wiki/P21 "wikilink")。は細胞周期の進行を阻害する経路の重要な媒介因子であり、サイクリンE/CDK2によってリン酸化される。リン酸化によってSmad3の転写活性は阻害され、細胞周期の進行が促進される\[2\]。ともサイクリンE/CDK2の基質である。これらのタンパク質のリン酸化は細胞周期の進行時に転写活性を促進する\[3\]。またサイクリンE/CDK2はをリン酸化し、[ヒストン](../Page/ヒストン.md "wikilink")遺伝子の転写を促進する\[4\]。
 

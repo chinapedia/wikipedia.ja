@@ -35,7 +35,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/AFC女子クラブ選手権2019" title="wikilink">2019</a></p></td>
+<td><p><a href="../Page/AFC女子クラブ選手権2019.md" title="wikilink">2019</a></p></td>
 <td></td>
 <td></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/日テレ・ベレーザ" title="wikilink">日テレ・ベレーザ</a></strong></p></td>

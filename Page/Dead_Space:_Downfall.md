@@ -25,7 +25,7 @@
 
 ## 続編
 
-[Dead Spaceフランチャイズに基づく](https://ja.wikipedia.org/wiki/Dead_Space_\(シリーズ\) "wikilink")2作目の映画『[Dead Space: Aftermath](https://ja.wikipedia.org/wiki/Dead_Space:_Aftermath "wikilink")』が2011年1月25日に『[Dead Space 2](https://ja.wikipedia.org/wiki/Dead_Space_2 "wikilink")』と同時リリースされた。
+[Dead Spaceフランチャイズに基づく](https://ja.wikipedia.org/wiki/Dead_Space_\(シリーズ\) "wikilink")2作目の映画『[Dead Space: Aftermath](../Page/Dead_Space:_Aftermath.md "wikilink")』が2011年1月25日に『[Dead Space 2](https://ja.wikipedia.org/wiki/Dead_Space_2 "wikilink")』と同時リリースされた。
 
 ## 外部リンク
 

@@ -113,7 +113,7 @@
 
 1.
 2.
-3.  後述のクラウドファンディングのリターンである「STUDIO LIVE メンバー全員 サイン入りフォトブック」には「Just be yourself」と「ねぇ愛してみて」もクレジットされているが、これらはベストアルバム「[わーすたBEST](https://ja.wikipedia.org/wiki/わーすたBEST "wikilink")」のBlu-rayに収録される。
+3.  後述のクラウドファンディングのリターンである「STUDIO LIVE メンバー全員 サイン入りフォトブック」には「Just be yourself」と「ねぇ愛してみて」もクレジットされているが、これらはベストアルバム「[わーすたBEST](../Page/わーすたBEST.md "wikilink")」のBlu-rayに収録される。
 4.
 5.
 6.

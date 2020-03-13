@@ -82,7 +82,7 @@
 
 2017年、Hypixel は*Minecraft China*の発行元である[NetEase](https://ja.wikipedia.org/wiki/NetEase "wikilink")と提携して、Hypixelを[中国](../Page/中国.md "wikilink")で公開した。
 
-2018年4月頃、[Miraiが](https://ja.wikipedia.org/wiki/Mirai_\(マルウェア\) "wikilink")[Hypixel](https://ja.wikipedia.org/wiki/Hypixel "wikilink")サーバーを複数にわたって[DDos攻撃をした](../Page/DoS攻撃.md "wikilink")。その後Hypixelは、[DDoS攻撃の対策としてとして](../Page/DoS攻撃.md "wikilink")[Cloudflare](https://ja.wikipedia.org/wiki/Cloudflare "wikilink")の使用を開始した。
+2018年4月頃、[Miraiが](https://ja.wikipedia.org/wiki/Mirai_\(マルウェア\) "wikilink")[Hypixel](../Page/Hypixel.md "wikilink")サーバーを複数にわたって[DDos攻撃をした](../Page/DoS攻撃.md "wikilink")。その後Hypixelは、[DDoS攻撃の対策としてとして](../Page/DoS攻撃.md "wikilink")[Cloudflare](https://ja.wikipedia.org/wiki/Cloudflare "wikilink")の使用を開始した。
 
 2018年12月13日、Hypixel Studioが[Hytale](https://ja.wikipedia.org/wiki/Hytale "wikilink")を発表した。
 

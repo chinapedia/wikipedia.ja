@@ -1,13 +1,13 @@
 > この記事は[OOPARTZ](https://ja.wikipedia.org/wiki/OOPARTZ)から翻訳されています。
 
 
-**OOPARTZ**（オーパーツ）は[JUVENILE](https://ja.wikipedia.org/wiki/JUVENILE "wikilink")（ジュブナイル）と[RYUICHI](https://ja.wikipedia.org/wiki/RYUICHI_\(OOPARTZ\) "wikilink")（リュウイチ）からなる日本東京を拠点とする[エレクトロ](../Page/エレクトロ.md "wikilink")ユニット。 [ホリプロインターナショナル](https://ja.wikipedia.org/wiki/ホリプロインターナショナル "wikilink")所属
+**OOPARTZ**（オーパーツ）は[JUVENILE](../Page/JUVENILE.md "wikilink")（ジュブナイル）と[RYUICHI](../Page/RYUICHI_\(OOPARTZ\).md "wikilink")（リュウイチ）からなる日本東京を拠点とする[エレクトロ](../Page/エレクトロ.md "wikilink")ユニット。 [ホリプロインターナショナル](https://ja.wikipedia.org/wiki/ホリプロインターナショナル "wikilink")所属
 
 ## 概要
 
-2015年より日本を中心に活動する[エレクトロ](../Page/エレクトロ.md "wikilink")ユニット。 ボーカルの[RYUICHIはストリートダンスチーム](https://ja.wikipedia.org/wiki/RYUICHI_\(OOPARTZ\) "wikilink")「[Mad Skills Styler](https://ja.wikipedia.org/wiki/Mad_Skills_Styler "wikilink")」として、[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")[24時間TV](https://ja.wikipedia.org/wiki/24時間TV "wikilink")内「[ダンス甲子園](https://ja.wikipedia.org/wiki/ダンス甲子園 "wikilink")」での２年連続優勝を始め、ダンスシーンで数々の受賞や実績を残し、イタリアの世界大会ではソロバトルで優勝を果たす等、ワールドクラスの実績をもつダンサーでもあり、声優の[福山潤](https://ja.wikipedia.org/wiki/福山潤 "wikilink")や、[SKE48](https://ja.wikipedia.org/wiki/SKE48 "wikilink")の[古畑奈和](https://ja.wikipedia.org/wiki/古畑奈和 "wikilink")などに楽曲の作詞提供など作詞家としても活動している。
+2015年より日本を中心に活動する[エレクトロ](../Page/エレクトロ.md "wikilink")ユニット。 ボーカルの[RYUICHIはストリートダンスチーム](../Page/RYUICHI_\(OOPARTZ\).md "wikilink")「[Mad Skills Styler](https://ja.wikipedia.org/wiki/Mad_Skills_Styler "wikilink")」として、[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")[24時間TV](https://ja.wikipedia.org/wiki/24時間TV "wikilink")内「[ダンス甲子園](https://ja.wikipedia.org/wiki/ダンス甲子園 "wikilink")」での２年連続優勝を始め、ダンスシーンで数々の受賞や実績を残し、イタリアの世界大会ではソロバトルで優勝を果たす等、ワールドクラスの実績をもつダンサーでもあり、声優の[福山潤](../Page/福山潤.md "wikilink")や、[SKE48](https://ja.wikipedia.org/wiki/SKE48 "wikilink")の[古畑奈和](https://ja.wikipedia.org/wiki/古畑奈和 "wikilink")などに楽曲の作詞提供など作詞家としても活動している。
 
-[サウンドプロデューサー](https://ja.wikipedia.org/wiki/サウンドプロデューサー "wikilink")の[JUVENILE](https://ja.wikipedia.org/wiki/JUVENILE "wikilink")は[RADIO FISH](https://ja.wikipedia.org/wiki/RADIO_FISH "wikilink")「[PERFECT HUMAN](https://ja.wikipedia.org/wiki/PERFECT_HUMAN "wikilink")」の作編曲、10代に人気のアプリ[TikTok](https://ja.wikipedia.org/wiki/TikTok "wikilink") TVCM楽曲、2019年10月23日に日本でアーティストデビューを飾った台湾出身の女優Teresaの「ざくろ」作編曲、など多数楽曲を手がける一方、TALK BOX界No1のプロデューサー“FINGAZZ”来日公演で共演を果たした事で[トークボックス](https://ja.wikipedia.org/wiki/トークボックス "wikilink")プレイヤーの1人としても多方面から注目を集めている。
+[サウンドプロデューサー](https://ja.wikipedia.org/wiki/サウンドプロデューサー "wikilink")の[JUVENILE](../Page/JUVENILE.md "wikilink")は[RADIO FISH](https://ja.wikipedia.org/wiki/RADIO_FISH "wikilink")「[PERFECT HUMAN](https://ja.wikipedia.org/wiki/PERFECT_HUMAN "wikilink")」の作編曲、10代に人気のアプリ[TikTok](https://ja.wikipedia.org/wiki/TikTok "wikilink") TVCM楽曲、2019年10月23日に日本でアーティストデビューを飾った台湾出身の女優Teresaの「ざくろ」作編曲、など多数楽曲を手がける一方、TALK BOX界No1のプロデューサー“FINGAZZ”来日公演で共演を果たした事で[トークボックス](https://ja.wikipedia.org/wiki/トークボックス "wikilink")プレイヤーの1人としても多方面から注目を集めている。
 
 ## ディスコグラフィ
 

@@ -1,7 +1,7 @@
 > この記事は[THE BLACK COMET CLUB BAND](https://ja.wikipedia.org/wiki/THE_BLACK_COMET_CLUB_BAND)から翻訳されています。
 
 
-**THE BLACK COMET CLUB BAND**（ザ ブラック コメット クラブ バンド）は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")。 3ピースロックバンド[nil](https://ja.wikipedia.org/wiki/nil "wikilink")と、ベースレス変則ピアノトリオ[THE JUNEJULYAUGUSTが合体したツインドラム](https://ja.wikipedia.org/wiki/THE_JUNEJULYAUGUST "wikilink")・ロックバンドである。
+**THE BLACK COMET CLUB BAND**（ザ ブラック コメット クラブ バンド）は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")。 3ピースロックバンド[nil](https://ja.wikipedia.org/wiki/nil "wikilink")と、ベースレス変則ピアノトリオ[THE JUNEJULYAUGUSTが合体したツインドラム](../Page/THE_JUNEJULYAUGUST.md "wikilink")・ロックバンドである。
 
 ## 概要
 
@@ -15,11 +15,11 @@
 
 ## メンバー
 
-  - Vocal\&Guitar：[高野哲](https://ja.wikipedia.org/wiki/高野哲 "wikilink")（[MALICE MIZER](../Page/MALICE_MIZER.md "wikilink")→MEGA 8 BALL→nil→[ZIGZO](../Page/ZIGZO.md "wikilink")→[nil](https://ja.wikipedia.org/wiki/nil "wikilink"),[THE JUNEJULYAUGUST](https://ja.wikipedia.org/wiki/THE_JUNEJULYAUGUST "wikilink"),[ZIGZO](../Page/ZIGZO.md "wikilink"),[THE BLACK COMET CLUB BAND](https://ja.wikipedia.org/wiki/THE_BLACK_COMET_CLUB_BAND "wikilink"),[鉄人](https://ja.wikipedia.org/wiki/鉄人_\(アコースティックユニット\) "wikilink"),インディーズ電力）
-  - Bass：[小林勝](https://ja.wikipedia.org/wiki/小林勝 "wikilink")（[SOY SAUCE SONIX](https://ja.wikipedia.org/wiki/SOY_SAUCE_SONIX "wikilink")→[SADS](../Page/SADS.md "wikilink")→[nil](https://ja.wikipedia.org/wiki/nil "wikilink"),[ザ・クロマニヨンズ](../Page/ザ・クロマニヨンズ.md "wikilink"),[THE BLACK COMET CLUB BAND](https://ja.wikipedia.org/wiki/THE_BLACK_COMET_CLUB_BAND "wikilink")）
-  - Piano：[佐藤統](https://ja.wikipedia.org/wiki/佐藤統 "wikilink")（[THE JUNEJULYAUGUST](https://ja.wikipedia.org/wiki/THE_JUNEJULYAUGUST "wikilink"),opening,MAOW,[THE BLACK COMET CLUB BAND](https://ja.wikipedia.org/wiki/THE_BLACK_COMET_CLUB_BAND "wikilink"),[鉄人サポーメンバー](https://ja.wikipedia.org/wiki/鉄人_\(アコースティックユニット\) "wikilink")）
-  - Drums：[風間弘行](https://ja.wikipedia.org/wiki/風間弘行 "wikilink")（[nil](https://ja.wikipedia.org/wiki/nil "wikilink"),[THE BLACK COMET CLUB BAND](https://ja.wikipedia.org/wiki/THE_BLACK_COMET_CLUB_BAND "wikilink")）
-  - Drums：[照井仁](https://ja.wikipedia.org/wiki/照井仁 "wikilink")（ex.PANORAMA AFRO→Roody's,[PULLING TEETH](https://ja.wikipedia.org/wiki/PULLING_TEETH "wikilink"),[THE BLACK COMET CLUB BAND](https://ja.wikipedia.org/wiki/THE_BLACK_COMET_CLUB_BAND "wikilink"),[鉄人](https://ja.wikipedia.org/wiki/鉄人_\(アコースティックユニット\) "wikilink")）
+  - Vocal\&Guitar：[高野哲](https://ja.wikipedia.org/wiki/高野哲 "wikilink")（[MALICE MIZER](../Page/MALICE_MIZER.md "wikilink")→MEGA 8 BALL→nil→[ZIGZO](../Page/ZIGZO.md "wikilink")→[nil](https://ja.wikipedia.org/wiki/nil "wikilink"),[THE JUNEJULYAUGUST](../Page/THE_JUNEJULYAUGUST.md "wikilink"),[ZIGZO](../Page/ZIGZO.md "wikilink"),[THE BLACK COMET CLUB BAND](../Page/THE_BLACK_COMET_CLUB_BAND.md "wikilink"),[鉄人](../Page/鉄人_\(アコースティックユニット\).md "wikilink"),インディーズ電力）
+  - Bass：[小林勝](https://ja.wikipedia.org/wiki/小林勝 "wikilink")（[SOY SAUCE SONIX](https://ja.wikipedia.org/wiki/SOY_SAUCE_SONIX "wikilink")→[SADS](../Page/SADS.md "wikilink")→[nil](https://ja.wikipedia.org/wiki/nil "wikilink"),[ザ・クロマニヨンズ](../Page/ザ・クロマニヨンズ.md "wikilink"),[THE BLACK COMET CLUB BAND](../Page/THE_BLACK_COMET_CLUB_BAND.md "wikilink")）
+  - Piano：[佐藤統](../Page/佐藤統.md "wikilink")（[THE JUNEJULYAUGUST](../Page/THE_JUNEJULYAUGUST.md "wikilink"),opening,MAOW,[THE BLACK COMET CLUB BAND](../Page/THE_BLACK_COMET_CLUB_BAND.md "wikilink"),[鉄人サポーメンバー](../Page/鉄人_\(アコースティックユニット\).md "wikilink")）
+  - Drums：[風間弘行](https://ja.wikipedia.org/wiki/風間弘行 "wikilink")（[nil](https://ja.wikipedia.org/wiki/nil "wikilink"),[THE BLACK COMET CLUB BAND](../Page/THE_BLACK_COMET_CLUB_BAND.md "wikilink")）
+  - Drums：[照井仁](https://ja.wikipedia.org/wiki/照井仁 "wikilink")（ex.PANORAMA AFRO→Roody's,[PULLING TEETH](https://ja.wikipedia.org/wiki/PULLING_TEETH "wikilink"),[THE BLACK COMET CLUB BAND](../Page/THE_BLACK_COMET_CLUB_BAND.md "wikilink"),[鉄人](../Page/鉄人_\(アコースティックユニット\).md "wikilink")）
 
 ### 元メンバー
 
@@ -138,7 +138,7 @@
 ## 関連項目
 
   - [nil](https://ja.wikipedia.org/wiki/nil "wikilink")
-  - [THE JUNEJULYAUGUST](https://ja.wikipedia.org/wiki/THE_JUNEJULYAUGUST "wikilink")
+  - [THE JUNEJULYAUGUST](../Page/THE_JUNEJULYAUGUST.md "wikilink")
   - [ザ・クロマニヨンズ](../Page/ザ・クロマニヨンズ.md "wikilink")
   - [PULLING TEETH](https://ja.wikipedia.org/wiki/PULLING_TEETH "wikilink")
   - [ZIGZO](../Page/ZIGZO.md "wikilink")

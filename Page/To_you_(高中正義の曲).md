@@ -5,7 +5,7 @@
 
 ## 解説
 
-オリジナルアルバム未収録で、[1984年](../Page/1984年.md "wikilink")に発売された[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[TAKANAKA'S COCKTAIL](https://ja.wikipedia.org/wiki/TAKANAKA'S_COCKTAIL "wikilink")』に収録された。
+オリジナルアルバム未収録で、[1984年](../Page/1984年.md "wikilink")に発売された[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[TAKANAKA'S COCKTAIL](../Page/TAKANAKA'S_COCKTAIL.md "wikilink")』に収録された。
 
 「To you」は、前作の「[Saudade](../Page/Saudade_\(高中正義の曲\).md "wikilink")」に引き続き[北大路欣也](../Page/北大路欣也.md "wikilink")が出演した[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")"[ファミリア](https://ja.wikipedia.org/wiki/マツダ・ファミリア#5代目_BD型（1980年_-_1985年） "wikilink")"CMソングに起用された。
 

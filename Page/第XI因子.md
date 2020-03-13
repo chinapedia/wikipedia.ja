@@ -5,7 +5,7 @@
 
 ## 機能
 
-第XI因子は[肝臓](../Page/肝臓.md "wikilink")で産生され、不活性型のホモ二量体体として循環する\[5\]。[血漿](../Page/血漿.md "wikilink")中の半減期は約52時間である。第XI因子は、[第XIIa因子や](https://ja.wikipedia.org/wiki/第XII因子 "wikilink")[トロンビン](../Page/トロンビン.md "wikilink")によって第XIa因子へと活性化され、第XIa因子自身によっても活性化される。第XIIa因子によって活性化されるため、内因系のメンバーである\[6\]。
+第XI因子は[肝臓](../Page/肝臓.md "wikilink")で産生され、不活性型のホモ二量体体として循環する\[5\]。[血漿](../Page/血漿.md "wikilink")中の半減期は約52時間である。第XI因子は、[第XIIa因子や](../Page/第XII因子.md "wikilink")[トロンビン](../Page/トロンビン.md "wikilink")によって第XIa因子へと活性化され、第XIa因子自身によっても活性化される。第XIIa因子によって活性化されるため、内因系のメンバーである\[6\]。
 
 第XIa因子は、[第IX因子](../Page/第IX因子.md "wikilink")の特定の[アルギニン](../Page/アルギニン.md "wikilink")-[アラニン](../Page/アラニン.md "wikilink")、アルギニン-[バリン](../Page/バリン.md "wikilink")間の[ペプチド結合](https://ja.wikipedia.org/wiki/ペプチド結合 "wikilink")を切断し、活性化する。その結果生じた第IXa因子は[第VIIIa因子と複合体を形成し](https://ja.wikipedia.org/wiki/第VIII因子 "wikilink")、[第X因子](https://ja.wikipedia.org/wiki/第X因子 "wikilink")を活性化する。
 

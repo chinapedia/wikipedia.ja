@@ -25,14 +25,14 @@
 
 1.  **doublet**
 2.  **LEO**
-3.  **[レーゾンデートル](https://ja.wikipedia.org/wiki/レーゾンデートル_\(Eveの曲\) "wikilink")**
+3.  **[レーゾンデートル](../Page/レーゾンデートル_\(Eveの曲\).md "wikilink")**
 4.  **虚の記憶**
 5.  **いのちの食べ方**
-6.  **[闇夜](https://ja.wikipedia.org/wiki/闇夜_\(Eveの曲\) "wikilink")**
+6.  **[闇夜](../Page/闇夜_\(Eveの曲\).md "wikilink")**
 7.  **朝が降る**
 8.  **心予報**
     編曲:[TAKU INOUE](https://ja.wikipedia.org/wiki/TAKU_INOUE "wikilink")
-9.  **[白銀](https://ja.wikipedia.org/wiki/白銀_\(Eveの曲\) "wikilink")**
+9.  **[白銀](../Page/白銀_\(Eveの曲\).md "wikilink")**
 10. **バウムクーヘンエンド**
 11. **mellow**
 12. **ognanje**

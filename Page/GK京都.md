@@ -1,7 +1,7 @@
 > この記事は[GK](https://ja.wikipedia.org/wiki/GK)から翻訳されています。
 
 
-**GK京都**（ジイケイ キョウト）は、京都に拠点を置く総合[デザイン会社](https://ja.wikipedia.org/wiki/デザイン会社 "wikilink")。 [榮久庵憲司](../Page/榮久庵憲司.md "wikilink")が創設し、フリーランスのデザイン会社としては世界最大の[GKデザイングループ](https://ja.wikipedia.org/wiki/GKデザイングループ "wikilink")のひとつ。[プロダクトデザイン](https://ja.wikipedia.org/wiki/プロダクトデザイン "wikilink")、[グラフィックデザイン](../Page/グラフィックデザイン.md "wikilink")、[環境デザイン](../Page/環境デザイン.md "wikilink")を領域にし、調査研究からデザインまで行う。
+**GK京都**（ジイケイ キョウト）は、京都に拠点を置く総合[デザイン会社](../Page/デザイン会社.md "wikilink")。 [榮久庵憲司](../Page/榮久庵憲司.md "wikilink")が創設し、フリーランスのデザイン会社としては世界最大の[GKデザイングループ](https://ja.wikipedia.org/wiki/GKデザイングループ "wikilink")のひとつ。[プロダクトデザイン](https://ja.wikipedia.org/wiki/プロダクトデザイン "wikilink")、[グラフィックデザイン](../Page/グラフィックデザイン.md "wikilink")、[環境デザイン](../Page/環境デザイン.md "wikilink")を領域にし、調査研究からデザインまで行う。
 
 ## 概要
 
@@ -68,9 +68,9 @@
   - [GKインダストリアルデザイン](https://ja.wikipedia.org/wiki/GKインダストリアルデザイン "wikilink")
   - [GK設計](https://ja.wikipedia.org/wiki/GK設計 "wikilink")
   - [GKグラフィックス](https://ja.wikipedia.org/wiki/GKグラフィックス "wikilink")
-  - [GKダイナミックス](https://ja.wikipedia.org/wiki/GKダイナミックス "wikilink")
-  - [GKテック](https://ja.wikipedia.org/wiki/GKテック "wikilink")
-  - [GKデザイン総研広島](https://ja.wikipedia.org/wiki/GKデザイン総研広島 "wikilink")
+  - [GKダイナミックス](../Page/GKダイナミックス.md "wikilink")
+  - [GKテック](../Page/GKテック.md "wikilink")
+  - [GKデザイン総研広島](../Page/GKデザイン総研広島.md "wikilink")
   - [GK Design International, Inc.](https://ja.wikipedia.org/wiki/GK_Design_International,_Inc. "wikilink")(LA, Atlanta)
   - [GK Design Europe bv](https://ja.wikipedia.org/wiki/GK_Design_Europe_bv "wikilink")（Amsterdam）
   - [青島海高設計製造有限公司](https://ja.wikipedia.org/wiki/青島海高設計製造有限公司 "wikilink")（QHG）

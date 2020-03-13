@@ -9,9 +9,9 @@
 
 ジャケット写真はピクセルアート界のレジェンド「[eBoy](https://ja.wikipedia.org/wiki/eBoy "wikilink")」が手がけた創造の街「YUZUTOWN」のピクセルアートで、[渋谷](../Page/渋谷.md "wikilink")や[横浜中華街](../Page/横浜中華街.md "wikilink")、[みなとみらい](../Page/みなとみらい.md "wikilink")などの実在する街をモチーフに、ユーモラスなキャラクターや造形物が1コマ単位で設置され、アルバムのコンセプトが凝縮されているものとなっている\[3\]。2019年12月31日には、eBoyが手がけたChip Tune的なインストゥルメンタルサウンドと壮大な世界観のピクセルアートによるティザー映像が公開された。
 
-今作の発売を記念して、3月4日と3月9日にプレミアムライブ「YUZU SPECIAL LIVE YUZUTOWN」が、それぞれ東京と大阪で開催予定だったが\[4\]、[新型コロナウイルス感染症に関して](https://ja.wikipedia.org/wiki/2019新型コロナウイルス "wikilink")2月26日に[日本政府](https://ja.wikipedia.org/wiki/日本政府 "wikilink")から要請された方針に従い、延期となった\[5\]。
+今作の発売を記念して、3月4日と3月9日にプレミアムライブ「YUZU SPECIAL LIVE YUZUTOWN」が、それぞれ東京と大阪で開催予定だったが\[4\]、[新型コロナウイルス感染症に関して](../Page/2019新型コロナウイルス.md "wikilink")2月26日に[日本政府](https://ja.wikipedia.org/wiki/日本政府 "wikilink")から要請された方針に従い、延期となった\[5\]。
 
-発売日の3月4日は、2020年1月からゆず公式YouTubeチャンネルにてアニメーション映像でのライブ配信を行っているゆず似のデュオ「[MIZU](https://ja.wikipedia.org/wiki/ゆず_\(音楽グループ\)#MIZU "wikilink")」の1stミニアルバム『[MIZU](https://ja.wikipedia.org/wiki/MIZU_\(アルバム\) "wikilink")』のリリース日と同日である。
+発売日の3月4日は、2020年1月からゆず公式YouTubeチャンネルにてアニメーション映像でのライブ配信を行っているゆず似のデュオ「[MIZU](https://ja.wikipedia.org/wiki/ゆず_\(音楽グループ\)#MIZU "wikilink")」の1stミニアルバム『[MIZU](../Page/MIZU_\(アルバム\).md "wikilink")』のリリース日と同日である。
 
 ## 収録曲
 

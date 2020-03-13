@@ -63,7 +63,7 @@
 ## 関連項目
 
   - [チチェスター伯爵](https://ja.wikipedia.org/wiki/チチェスター伯爵 "wikilink")
-  - [ニュートン男爵](https://ja.wikipedia.org/wiki/ニュートン男爵 "wikilink")
+  - [ニュートン男爵](../Page/ニュートン男爵.md "wikilink")
 
 [Category:イギリスの男爵位](https://ja.wikipedia.org/wiki/Category:イギリスの男爵位 "wikilink")
 

@@ -5,7 +5,7 @@
 
 ## 生理学
 
-第VII因子の主要な役割は、[組織因子](https://ja.wikipedia.org/wiki/組織因子 "wikilink")（第III因子）とともに凝血過程を開始することである。組織因子は血管外に位置し、通常は血流に曝露していない。血管の損傷に伴って、組織因子は血液とそこを循環する第VII因子へ曝される。第VII因子は組織因子に結合すると、さまざまな[プロテアーゼ](../Page/プロテアーゼ.md "wikilink")によって第VIIa因子へと活性化される。活性化を行うプロテアーゼには[トロンビン](../Page/トロンビン.md "wikilink")（第IIa因子）、[第Xa因子](https://ja.wikipedia.org/wiki/第X因子 "wikilink")、[第IXa因子](../Page/第IX因子.md "wikilink")、[第XIIa因子があり](https://ja.wikipedia.org/wiki/第XII因子 "wikilink")、そして組織因子-第VIIa因子複合体自身によっても活性化される。組織因子-第VIIa因子複合体は、第IX因子と第X因子の活性化型プロテアーゼ（それぞれ第IXa因子と第Xa因子）への転換を触媒する\[1\]。
+第VII因子の主要な役割は、[組織因子](https://ja.wikipedia.org/wiki/組織因子 "wikilink")（第III因子）とともに凝血過程を開始することである。組織因子は血管外に位置し、通常は血流に曝露していない。血管の損傷に伴って、組織因子は血液とそこを循環する第VII因子へ曝される。第VII因子は組織因子に結合すると、さまざまな[プロテアーゼ](../Page/プロテアーゼ.md "wikilink")によって第VIIa因子へと活性化される。活性化を行うプロテアーゼには[トロンビン](../Page/トロンビン.md "wikilink")（第IIa因子）、[第Xa因子](https://ja.wikipedia.org/wiki/第X因子 "wikilink")、[第IXa因子](../Page/第IX因子.md "wikilink")、[第XIIa因子があり](../Page/第XII因子.md "wikilink")、そして組織因子-第VIIa因子複合体自身によっても活性化される。組織因子-第VIIa因子複合体は、第IX因子と第X因子の活性化型プロテアーゼ（それぞれ第IXa因子と第Xa因子）への転換を触媒する\[1\]。
 
 第VII因子の作用は、凝血開始の直後に放出される（TFPI）によって阻害される。
 

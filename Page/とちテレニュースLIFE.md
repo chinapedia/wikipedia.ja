@@ -13,7 +13,7 @@
 
 [2017年](../Page/2017年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")より、『ニュースワイド21』と同様の55分放送に拡大した。
 
-[2019年](../Page/2019年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")をもって放送を終了。[4月1日](../Page/4月1日.md "wikilink")より後継番組『[ナイトニュース9](https://ja.wikipedia.org/wiki/ナイトニュース9 "wikilink")』が開始した。
+[2019年](../Page/2019年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")をもって放送を終了。[4月1日](../Page/4月1日.md "wikilink")より後継番組『[ナイトニュース9](../Page/ナイトニュース9.md "wikilink")』が開始した。
 
 ## 出演者
 

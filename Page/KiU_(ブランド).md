@@ -1,7 +1,7 @@
 > この記事は[KiU \(\)](https://ja.wikipedia.org/wiki/KiU_\(\))から翻訳されています。
 
 
-**KiU**（キウ）は、株式会社[ワールドパーティー](https://ja.wikipedia.org/wiki/ワールドパーティー "wikilink")が展開する、『大人の外遊び』をコンセプトとした[レイングッズ](https://ja.wikipedia.org/wiki/レイングッズ "wikilink")、[アウトドア](../Page/アウトドア.md "wikilink")グッズなどオールウェザー対応のアイテムをそろえる[ブランド](../Page/ブランド.md "wikilink")\[1\]\[2\]。数多くの[野外フェスティバル](https://ja.wikipedia.org/wiki/野外フェスティバル "wikilink")や[ロック](../Page/ロック.md "wikilink")ミュージシャンとの[コラボレーション](../Page/コラボレーション.md "wikilink")企画を行っていることでも知られる\[3\]。
+**KiU**（キウ）は、株式会社[ワールドパーティー](../Page/ワールドパーティー.md "wikilink")が展開する、『大人の外遊び』をコンセプトとした[レイングッズ](https://ja.wikipedia.org/wiki/レイングッズ "wikilink")、[アウトドア](../Page/アウトドア.md "wikilink")グッズなどオールウェザー対応のアイテムをそろえる[ブランド](../Page/ブランド.md "wikilink")\[1\]\[2\]。数多くの[野外フェスティバル](https://ja.wikipedia.org/wiki/野外フェスティバル "wikilink")や[ロック](../Page/ロック.md "wikilink")ミュージシャンとの[コラボレーション](../Page/コラボレーション.md "wikilink")企画を行っていることでも知られる\[3\]。
 
 ## 概要
 

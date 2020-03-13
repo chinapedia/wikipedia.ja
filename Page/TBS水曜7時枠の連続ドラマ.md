@@ -43,7 +43,7 @@
   - [TBS水曜8時枠の連続ドラマ](https://ja.wikipedia.org/wiki/TBS水曜8時枠の連続ドラマ "wikilink")
   - [水曜劇場 (TBS)](../Page/水曜劇場_\(TBS\).md "wikilink")
   - [TBS水曜10時枠の連続ドラマ](../Page/TBS水曜10時枠の連続ドラマ.md "wikilink")
-  - [TBS木曜7時枠の連続ドラマ](https://ja.wikipedia.org/wiki/TBS木曜7時枠の連続ドラマ "wikilink") - バラエティドラマ路線の後継。
+  - [TBS木曜7時枠の連続ドラマ](../Page/TBS木曜7時枠の連続ドラマ.md "wikilink") - バラエティドラマ路線の後継。
   - [TBSテレビ系列水曜夜7時台枠のアニメ](https://ja.wikipedia.org/wiki/TBSテレビ系列水曜夜7時台枠のアニメ "wikilink") - 中断中および後身のアニメ。
   - [ウルトラシリーズ](https://ja.wikipedia.org/wiki/ウルトラシリーズ "wikilink")
 

@@ -19,7 +19,7 @@
 
   - 月～金：[若林芽育](../Page/若林芽育.md "wikilink")
   - 月～水：[中西希](https://ja.wikipedia.org/wiki/中西希_\(1991年生のアナウンサー\) "wikilink")
-  - 水～金：[吉田愛梨](https://ja.wikipedia.org/wiki/吉田愛梨 "wikilink")
+  - 水～金：[吉田愛梨](../Page/吉田愛梨.md "wikilink")
 
 <!-- end list -->
 

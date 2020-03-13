@@ -15,37 +15,37 @@
 
 ## 主要製品
 
-| **アライアンスTW 主要製品**                                                  |
-| ------------------------------------------------------------------ |
-| 形式                                                                 |
-| ****                                                               |
-| **[T3R.PV](https://ja.wikipedia.org/wiki/タトラT3R.PV "wikilink")**   |
-| ****                                                               |
-| ****                                                               |
-| ****                                                               |
-| **[T3R.PLF](https://ja.wikipedia.org/wiki/タトラT3R.PLF "wikilink")** |
-| ****                                                               |
-| ****                                                               |
-| ****                                                               |
-| ****                                                               |
-| ****                                                               |
-| ****                                                               |
-| ****                                                               |
-| ****                                                               |
-| ****                                                               |
-| ****                                                               |
-| **ヴァリオLF3 プラス**                                                    |
-| **ヴァリオLF4**                                                        |
-| **ヴァリオLF4 プラス**                                                    |
-| **[VV60LF](https://ja.wikipedia.org/wiki/VV60LF "wikilink")**      |
-| ****                                                               |
-| ****                                                               |
-| ****                                                               |
-|                                                                    |
+| **アライアンスTW 主要製品**                               |
+| ----------------------------------------------- |
+| 形式                                              |
+| ****                                            |
+| **[T3R.PV](../Page/タトラT3R.PV.md "wikilink")**   |
+| ****                                            |
+| ****                                            |
+| ****                                            |
+| **[T3R.PLF](../Page/タトラT3R.PLF.md "wikilink")** |
+| ****                                            |
+| ****                                            |
+| ****                                            |
+| ****                                            |
+| ****                                            |
+| ****                                            |
+| ****                                            |
+| ****                                            |
+| ****                                            |
+| ****                                            |
+| **ヴァリオLF3 プラス**                                 |
+| **ヴァリオLF4**                                     |
+| **ヴァリオLF4 プラス**                                 |
+| **[VV60LF](../Page/VV60LF.md "wikilink")**      |
+| ****                                            |
+| ****                                            |
+| ****                                            |
+|                                                 |
 
 ## ギャラリー
 
-<File:Brno>, Husovice, Mostecká, BMUE 2004, Tatra T3R.EV č. 1531 a VV60LF č. 1301.jpg|**** <File:Palmovka>, 8156.jpg|**[T3R.PV](https://ja.wikipedia.org/wiki/タトラT3R.PV "wikilink")** <File:Vario> LF v Brně.jpeg|**** <File:TT_Kotlářka_-_Sídliště_Řepy,_Krematorium_Motol,_Tatra_T3R.PLF.jpg>|**[T3R.PLF](https://ja.wikipedia.org/wiki/タトラT3R.PLF "wikilink")** <File:Liberec>, Žitavská, tramvaj 66 na lince 3.jpg|**** <File:Most>, nádraží, tram 314 - Vario LF.jpg|**** <File:Olomouc>, Hlavní nádraží, tramvaj linky 3.jpg|**** <File:Tramvaj> Ostrava.JPG|**** <File:Plzeň>, tramvaj VarioLF2 2 IN (03).jpeg|**** <File:Vario> LF2+ Košice č801.JPG|**** <File:Tram> Vario LF3 Ostrava.jpg|**** <File:Ostrava>, Náměstí Republiky, Vario LF3 2.jpg|**** <File:Vlečňák_č._1303.jpg>|**[VV60LF](https://ja.wikipedia.org/wiki/VV60LF "wikilink")** <File:Czech> Raildays 2015, EVO1 (09).jpg|**** <File:EVO1o> 123 121 V Kotline Olomouc.jpg|**** <File:EVO2> v Plzni 20190910.jpg|****
+<File:Brno>, Husovice, Mostecká, BMUE 2004, Tatra T3R.EV č. 1531 a VV60LF č. 1301.jpg|**** <File:Palmovka>, 8156.jpg|**[T3R.PV](../Page/タトラT3R.PV.md "wikilink")** <File:Vario> LF v Brně.jpeg|**** <File:TT_Kotlářka_-_Sídliště_Řepy,_Krematorium_Motol,_Tatra_T3R.PLF.jpg>|**[T3R.PLF](../Page/タトラT3R.PLF.md "wikilink")** <File:Liberec>, Žitavská, tramvaj 66 na lince 3.jpg|**** <File:Most>, nádraží, tram 314 - Vario LF.jpg|**** <File:Olomouc>, Hlavní nádraží, tramvaj linky 3.jpg|**** <File:Tramvaj> Ostrava.JPG|**** <File:Plzeň>, tramvaj VarioLF2 2 IN (03).jpeg|**** <File:Vario> LF2+ Košice č801.JPG|**** <File:Tram> Vario LF3 Ostrava.jpg|**** <File:Ostrava>, Náměstí Republiky, Vario LF3 2.jpg|**** <File:Vlečňák_č._1303.jpg>|**[VV60LF](../Page/VV60LF.md "wikilink")** <File:Czech> Raildays 2015, EVO1 (09).jpg|**** <File:EVO1o> 123 121 V Kotline Olomouc.jpg|**** <File:EVO2> v Plzni 20190910.jpg|****
 
 ## 関連項目
 

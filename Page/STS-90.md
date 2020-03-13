@@ -10,7 +10,7 @@
   - ミッションスペシャリスト1 - [ダフィド・ウィリアムズ](https://ja.wikipedia.org/wiki/ダフィド・ウィリアムズ "wikilink")（[CSA](../Page/カナダ宇宙庁.md "wikilink")、初）
   - ミッションスペシャリスト2 - [キャサリン・P・ハイヤー](https://ja.wikipedia.org/wiki/キャサリン・P・ハイヤー "wikilink")（初）
   - ミッションスペシャリスト3 - [リチャード・リネハン](https://ja.wikipedia.org/wiki/リチャード・リネハン "wikilink")（2度目）
-  - ペイロードスペシャリスト1 - [ジェイ・バッキー](https://ja.wikipedia.org/wiki/ジェイ・バッキー "wikilink")（唯一）
+  - ペイロードスペシャリスト1 - [ジェイ・バッキー](../Page/ジェイ・バッキー.md "wikilink")（唯一）
   - ペイロードスペシャリスト2 - [ジェームズ・パウェルチェイク](https://ja.wikipedia.org/wiki/ジェームズ・パウェルチェイク "wikilink")（唯一）
 
 ### バックアップ

@@ -1,7 +1,7 @@
 > この記事は[VS](https://ja.wikipedia.org/wiki/VS)から翻訳されています。
 
 
-『**ゴジラVSコング**（原題）』（原題：*Godzilla vs. Kong*）は、[2020年公開予定の](https://ja.wikipedia.org/wiki/2020年の映画 "wikilink")[アメリカ合衆国の](../Page/アメリカ合衆国の映画.md "wikilink")[怪獣映画](../Page/怪獣映画.md "wikilink")。
+『**ゴジラVSコング**（原題）』（原題：*Godzilla vs. Kong*）は、[2020年公開予定の](../Page/2020年の映画.md "wikilink")[アメリカ合衆国の](../Page/アメリカ合衆国の映画.md "wikilink")[怪獣映画](../Page/怪獣映画.md "wikilink")。
 
 [モンスターバース](https://ja.wikipedia.org/wiki/モンスターバース "wikilink")シリーズの第4作目で、[ゴジラと](https://ja.wikipedia.org/wiki/ゴジラ_\(架空の怪獣\) "wikilink")[キングコングの対決を描く](https://ja.wikipedia.org/wiki/キングコング_\(架空の怪獣\) "wikilink")\[1\]\[2\]。ただし、『[キングコング対ゴジラ](../Page/キングコング対ゴジラ.md "wikilink")』のリメイクではない\[3\]。
 
@@ -17,7 +17,7 @@
 
   - [レベッカ・ホール](https://ja.wikipedia.org/wiki/レベッカ・ホール "wikilink")
 
-  - [ブライアン・タイリー・ヘンリー](https://ja.wikipedia.org/wiki/ブライアン・タイリー・ヘンリー "wikilink")
+  - [ブライアン・タイリー・ヘンリー](../Page/ブライアン・タイリー・ヘンリー.md "wikilink")
 
   - [小栗旬](../Page/小栗旬.md "wikilink")：ヒデヒト
 

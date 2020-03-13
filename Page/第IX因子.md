@@ -9,7 +9,7 @@
 
 [Coagulation_full.svg](https://ja.wikipedia.org/wiki/File:Coagulation_full.svg "fig:Coagulation_full.svg")経路|left\]\]
 
-第IX因子は不活性な[酵素前駆体](../Page/酵素前駆体.md "wikilink")として産生される。[シグナルペプチド](../Page/シグナルペプチド.md "wikilink")の除去と[グリコシル化](https://ja.wikipedia.org/wiki/グリコシル化 "wikilink")の後、[第XIa因子](https://ja.wikipedia.org/wiki/第XI因子 "wikilink")（内因系）または[第VIIa因子](https://ja.wikipedia.org/wiki/第VII因子 "wikilink")（外因系）によって切断されて2本鎖が産生される。両者は[ジスルフィド結合](../Page/ジスルフィド結合.md "wikilink")によって連結されている\[3\]\[4\]。[カルシウム](../Page/カルシウム.md "wikilink")イオン、膜の[リン脂質](../Page/リン脂質.md "wikilink")、[第VIII因子](https://ja.wikipedia.org/wiki/第VIII因子 "wikilink")コファクターの存在下で**第IXa因子**へと活性化され、[第X因子](https://ja.wikipedia.org/wiki/第X因子 "wikilink")の[アルギニン](../Page/アルギニン.md "wikilink")-[イソロイシン](https://ja.wikipedia.org/wiki/イソロイシン "wikilink")間の結合を[加水分解](../Page/加水分解.md "wikilink")し第Xa因子を産生する。
+第IX因子は不活性な[酵素前駆体](../Page/酵素前駆体.md "wikilink")として産生される。[シグナルペプチド](../Page/シグナルペプチド.md "wikilink")の除去と[グリコシル化](https://ja.wikipedia.org/wiki/グリコシル化 "wikilink")の後、[第XIa因子](../Page/第XI因子.md "wikilink")（内因系）または[第VIIa因子](../Page/第VII因子.md "wikilink")（外因系）によって切断されて2本鎖が産生される。両者は[ジスルフィド結合](../Page/ジスルフィド結合.md "wikilink")によって連結されている\[3\]\[4\]。[カルシウム](../Page/カルシウム.md "wikilink")イオン、膜の[リン脂質](../Page/リン脂質.md "wikilink")、[第VIII因子](https://ja.wikipedia.org/wiki/第VIII因子 "wikilink")コファクターの存在下で**第IXa因子**へと活性化され、[第X因子](https://ja.wikipedia.org/wiki/第X因子 "wikilink")の[アルギニン](../Page/アルギニン.md "wikilink")-[イソロイシン](https://ja.wikipedia.org/wiki/イソロイシン "wikilink")間の結合を[加水分解](../Page/加水分解.md "wikilink")し第Xa因子を産生する。
 
 第IX因子はによって阻害される\[5\]。
 

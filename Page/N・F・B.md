@@ -48,14 +48,14 @@
   - [春原愛良](https://ja.wikipedia.org/wiki/春原愛良 "wikilink")
   - [若葉竜也](../Page/若葉竜也.md "wikilink")
   - [大鶴佐助](https://ja.wikipedia.org/wiki/大鶴佐助 "wikilink")
-  - [福本雄樹](https://ja.wikipedia.org/wiki/福本雄樹 "wikilink")
+  - [福本雄樹](../Page/福本雄樹.md "wikilink")
   - 町田悠宇（業務提携）
   - 東ヨシアキ（業務提携）
   - 柳鶴マコト（業務提携）
   - ジェフ太郎（業務提携）
   - [スヨン](https://ja.wikipedia.org/wiki/スヨン_\(少女時代\) "wikilink")（日本国内のマネージメント契約）
   - [チャン・ツィイー](../Page/章子怡.md "wikilink")（日本国内のマネージメント契約）
-  - [小林さやか](https://ja.wikipedia.org/wiki/小林さやか_\(N・F・B所属の女優\) "wikilink")
+  - [小林さやか](../Page/小林さやか_\(N・F・B所属の女優\).md "wikilink")
   - [Tomuya](https://ja.wikipedia.org/wiki/Tomuya "wikilink")
   - [蓮沼執太](https://ja.wikipedia.org/wiki/蓮沼執太 "wikilink")
 

@@ -90,7 +90,7 @@
   - [CAD](../Page/CAD.md "wikilink")
   - [3次元コンピュータグラフィックス](../Page/3次元コンピュータグラフィックス.md "wikilink")
   - 株式会社[フォトロン](https://ja.wikipedia.org/wiki/フォトロン "wikilink")
-  - [FASTCAM](https://ja.wikipedia.org/wiki/FASTCAM "wikilink") - フォトロンが開発・販売するハイスピードカメラ
+  - [FASTCAM](../Page/FASTCAM.md "wikilink") - フォトロンが開発・販売するハイスピードカメラ
 
 ## 外部リンク
 

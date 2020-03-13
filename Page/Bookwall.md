@@ -5,7 +5,7 @@
 
 ## 概要
 
-[2009年](../Page/2009年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")、装丁家、[松 昭教により設立](https://ja.wikipedia.org/wiki/松昭教 "wikilink")。 仕事は、[文芸誌](https://ja.wikipedia.org/wiki/文芸誌 "wikilink")、[小説](../Page/小説.md "wikilink")、[ビジネス書](https://ja.wikipedia.org/wiki/ビジネス書 "wikilink")、一般、[実用書](https://ja.wikipedia.org/wiki/実用書 "wikilink")など多岐に渡る。 書店でのインパクト、印象に残りやすいデザインを得意としている。 「ジョバンニ」という[鹿](https://ja.wikipedia.org/wiki/鹿 "wikilink")のイメージ[キャラクター](../Page/キャラクター.md "wikilink")がいる。
+[2009年](../Page/2009年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")、装丁家、[松 昭教により設立](../Page/松昭教.md "wikilink")。 仕事は、[文芸誌](https://ja.wikipedia.org/wiki/文芸誌 "wikilink")、[小説](../Page/小説.md "wikilink")、[ビジネス書](https://ja.wikipedia.org/wiki/ビジネス書 "wikilink")、一般、[実用書](https://ja.wikipedia.org/wiki/実用書 "wikilink")など多岐に渡る。 書店でのインパクト、印象に残りやすいデザインを得意としている。 「ジョバンニ」という[鹿](https://ja.wikipedia.org/wiki/鹿 "wikilink")のイメージ[キャラクター](../Page/キャラクター.md "wikilink")がいる。
 
 ## 主な装幀作品
 

@@ -769,7 +769,7 @@
 
 ### Disc07
 
-#### [fripSide Re:product mixies ver.0.2](https://ja.wikipedia.org/wiki/Re:product_mixes_ver.0.1 "wikilink")
+#### [fripSide Re:product mixies ver.0.2](../Page/Re:product_mixes_ver.0.1.md "wikilink")
 
 1.  **hurting heart (ju-ri-mix)**
       -

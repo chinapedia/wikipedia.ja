@@ -23,7 +23,7 @@
 
 9曲目の「**マーガレット**」は、水樹が「まさにやりたかった」というバラード曲で\[8\]、『NEOGENE CREATION』収録の「**絶対的幸福論**」のアンサーソングとして位置づけられている。2019年3月に開催したライブ『NANA MUSIC LABORATORY 2019 ～ナナラボ～』にて自身の歌声と楽器一つのみでライブを行った経験を活かしたシンプルなアコースティックバラードとなっている\[9\]。
 
-10曲目の「**[METANOIA](https://ja.wikipedia.org/wiki/METANOIA "wikilink") -Aufwachen Form-**」はテレビアニメ『[戦姫絶唱シンフォギアXV](https://ja.wikipedia.org/wiki/戦姫絶唱シンフォギアXV "wikilink")』のオープニングテーマ。本作ではロングイントロバージョンの「Aufwachen Form」（アウフヴァッフェンフォーム）として収録されている。
+10曲目の「**[METANOIA](../Page/METANOIA.md "wikilink") -Aufwachen Form-**」はテレビアニメ『[戦姫絶唱シンフォギアXV](https://ja.wikipedia.org/wiki/戦姫絶唱シンフォギアXV "wikilink")』のオープニングテーマ。本作ではロングイントロバージョンの「Aufwachen Form」（アウフヴァッフェンフォーム）として収録されている。
 
 12曲目の「**NEVER SURRENDER**」は劇場版アニメ『[魔法少女リリカルなのは Detonation](https://ja.wikipedia.org/wiki/魔法少女リリカルなのは_Detonation "wikilink")』主題歌。
 

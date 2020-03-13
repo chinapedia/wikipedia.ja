@@ -180,7 +180,7 @@
 <td><p><a href="../Page/2019年.md" title="wikilink">2019</a></p></td>
 <td><p>2</p></td>
 <td><p>413</p></td>
-<td><p>光益義幸 「<a href="https://ja.wikipedia.org/wiki/父と息子の地下アイドル" title="wikilink">父と息子の地下アイドル</a>」[9]</p></td>
+<td><p>光益義幸 「<a href="../Page/父と息子の地下アイドル.md" title="wikilink">父と息子の地下アイドル</a>」[9]</p></td>
 <td><p>三田俊之 「ヤッホー!」<br />
 藤田委輔 「選択のとき」<br />
 弓削勇 「息を籠める」</p></td>

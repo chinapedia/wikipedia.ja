@@ -1142,7 +1142,7 @@
 <li>THE BOYS &amp; GIRLS</li>
 <li>黒猫チェルシー</li>
 <li>おとぎ話</li>
-<li><a href="https://ja.wikipedia.org/wiki/笑福亭茶光" title="wikilink">笑福亭茶光</a></li>
+<li><a href="../Page/笑福亭茶光.md" title="wikilink">笑福亭茶光</a></li>
 <li><a href="../Page/LUNKHEAD.md" title="wikilink">LUNKHEAD</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/桂竹わ" title="wikilink">桂竹わ</a></li>
 <li>Wienners</li>
@@ -1512,9 +1512,9 @@
 <p>MOSAiC</p>
 <ul>
 <li><a href="https://ja.wikipedia.org/wiki/Drop&#39;s" title="wikilink">Drop's</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ハンブレッダーズ" title="wikilink">ハンブレッダーズ</a></li>
+<li><a href="../Page/ハンブレッダーズ.md" title="wikilink">ハンブレッダーズ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/The_Floor" title="wikilink">The Floor</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/The_Songbards" title="wikilink">The Songbards</a></li>
+<li><a href="../Page/The_Songbards.md" title="wikilink">The Songbards</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/CRAZY_WEST_MOUNTAIN" title="wikilink">CRAZY WEST MOUNTAIN</a></li>
 <li>さしすせそズ</li>
 <li>CAR10</li>

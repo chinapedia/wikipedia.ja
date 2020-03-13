@@ -3,7 +3,7 @@
 
 ` `
 
-**Garena Free Fire**（ガレナ フリーファイア、**Free Fire Battlegrounds**または単に**Free Fire**）は、[Garena](https://ja.wikipedia.org/wiki/Garena "wikilink")が開発・配信する[モバイル用](../Page/携帯電話ゲーム.md "wikilink")[バトルロイヤルゲーム](https://ja.wikipedia.org/wiki/バトルロイヤルゲーム "wikilink")\[1\]。同作は2017年3月23日に[Android](../Page/Android.md "wikilink")と[iOS向けにリリースされた](https://ja.wikipedia.org/wiki/IOS_\(アップル\) "wikilink")。
+**Garena Free Fire**（ガレナ フリーファイア、**Free Fire Battlegrounds**または単に**Free Fire**）は、[Garena](../Page/Garena.md "wikilink")が開発・配信する[モバイル用](../Page/携帯電話ゲーム.md "wikilink")[バトルロイヤルゲーム](https://ja.wikipedia.org/wiki/バトルロイヤルゲーム "wikilink")\[1\]。同作は2017年3月23日に[Android](../Page/Android.md "wikilink")と[iOS向けにリリースされた](https://ja.wikipedia.org/wiki/IOS_\(アップル\) "wikilink")。
 
 2019年5月時点でFree Fireの登録ユーザーは1億人を超えている\[2\]。2019年11月時点で同作は登録ユーザー数が4億5000万人以上となり、世界で10億ドル以上の収益を上げている\[3\]。
 

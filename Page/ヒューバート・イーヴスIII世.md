@@ -26,7 +26,7 @@
 
 ### 参加アルバム
 
-  - [ゲイリー・バーツ](https://ja.wikipedia.org/wiki/ゲイリー・バーツ "wikilink") : *I've Known Rivers and Other Bodies* (1973年、Concord/Universal)
+  - [ゲイリー・バーツ](../Page/ゲイリー・バーツ.md "wikilink") : *I've Known Rivers and Other Bodies* (1973年、Concord/Universal)
   - [カルロス・ガーネット](https://ja.wikipedia.org/wiki/カルロス・ガーネット "wikilink") : 『ジャーニー・トゥ・エンライトゥンメント』 - *Journey to Enlightenment* (1974年、Muse)
   - カルロス・ガーネット : *Let This Melody Ring On* (1975年、Muse)
   - [ルネ・マクリーン](https://ja.wikipedia.org/wiki/ルネ・マクリーン "wikilink") : *Watch Out* (1975年、SteepleChase)

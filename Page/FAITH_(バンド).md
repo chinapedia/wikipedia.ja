@@ -153,7 +153,7 @@
 <del>03/06 TSUTAYA O-Crest (東京都)</del></p>
 </div>
 </div>
-<p>メジャー1stアルバム『Capture it』を引っ提げて敢行するライブハウスツアーで、最終の東京公演のみワンマン形式で開催される予定だったが、<a href="https://ja.wikipedia.org/wiki/2019新型コロナウイルス" title="wikilink">新型コロナウイルスの感染症対策の基本方針に鑑みて</a>、開催済みであった大阪公演以外は中止となった。</p></td>
+<p>メジャー1stアルバム『Capture it』を引っ提げて敢行するライブハウスツアーで、最終の東京公演のみワンマン形式で開催される予定だったが、<a href="../Page/2019新型コロナウイルス.md" title="wikilink">新型コロナウイルスの感染症対策の基本方針に鑑みて</a>、開催済みであった大阪公演以外は中止となった。</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -213,11 +213,11 @@
 
   - 01月20日 - WAFY 1st DEMO 「Countryside」 Release Tour 「Go,Countryside TOUR2019」
   - 01月26日 - [See You Smile](https://ja.wikipedia.org/wiki/See_You_Smile "wikilink") WILD TOUR 2019
-  - 02月02日 - [でらロックフェスティバル](https://ja.wikipedia.org/wiki/でらロックフェスティバル "wikilink") 2019
+  - 02月02日 - [でらロックフェスティバル](../Page/でらロックフェスティバル.md "wikilink") 2019
   - 02月07日 - [SideChest](https://ja.wikipedia.org/wiki/SideChest "wikilink")「Green/再三再四」Release 「風邪引く女ツアー」
   - 02月27日 - [Maki](https://ja.wikipedia.org/wiki/Maki "wikilink") "グッド・バイ" TOUR 2018-2019
   - 03月08日 - [INKYMAP](https://ja.wikipedia.org/wiki/INKYMAP "wikilink") presents 「ROCK STOCK」
-  - 03月17日 - [TENJIN ONTAQ](https://ja.wikipedia.org/wiki/TENJIN_ONTAQ "wikilink") 2019
+  - 03月17日 - [TENJIN ONTAQ](../Page/TENJIN_ONTAQ.md "wikilink") 2019
   - 03月24日 - [SANUKI ROCK COLOSSEUM](https://ja.wikipedia.org/wiki/SANUKI_ROCK_COLOSSEUM "wikilink") 2019 -MONSTER baSH × I RADIO786-
   - 03月30日 - [AIRFLIP](https://ja.wikipedia.org/wiki/AIRFLIP "wikilink")「Friends In My Journey Tour 2019」
   - 04月04日 - - BLACK NIGHT CHAPTER.17 - MACHIDA CLASSIX 1st ANNIVERSARY 3MAN LIVE
@@ -233,12 +233,12 @@
   - 07月05日 - NEXTO中日本の夏 2019 supported by @FM「ROCK YOU\!」
   - 07月13日 - rockin'on presents JAPAN'S NEXT 渋谷JACK 2019 SUMMER
   - 07月20日 - 焼來肉ロックフェス2019 in 南信州・飯田
-  - 08月05日 - [MURO FESTIVAL](https://ja.wikipedia.org/wiki/MURO_FESTIVAL "wikilink") 2019 後夜祭
+  - 08月05日 - [MURO FESTIVAL](../Page/MURO_FESTIVAL.md "wikilink") 2019 後夜祭
   - 08月06日 - "EIGHT SIX live"
   - 08月26日 - [KUZIRA](https://ja.wikipedia.org/wiki/KUZIRA "wikilink") presents Pay The Piper Release Tour
   - 09月07日・8日 - コールスローTOUR 2019 「僕らはみんな生きている」
   - 09月15日 - [BAYCAMP](https://ja.wikipedia.org/wiki/BAYCAMP "wikilink") 2019
-  - 09月16日 - [TOKYO CALLING](https://ja.wikipedia.org/wiki/TOKYO_CALLING "wikilink") 2019
+  - 09月16日 - [TOKYO CALLING](../Page/TOKYO_CALLING.md "wikilink") 2019
   - 09月29日 - [りんご音楽祭](https://ja.wikipedia.org/wiki/りんご音楽祭 "wikilink")2019
   - 10月04日 - 甲府KAZOO HALL & 府中Flight presents"family line 2019"- KAZOO HALL 18th Anniversary\!\! -
   - 10月14日 - SCUMGAMES RAD CREATION Pre. "HEAD ROCK SKATE"
@@ -270,9 +270,9 @@
   - 01月05日 - AIRFLIP「NEO-N Tour 2019-2020」
   - 02月07日 - [WAGAMAMARAKIA](https://ja.wikipedia.org/wiki/WAGAMAMARAKIA "wikilink") 2MAN SHOWS「The Take Back」
   - 02月22日 - [放送芸術学院専門学校](../Page/放送芸術学院専門学校.md "wikilink") \<FM802×FAITH\> HEAVY ROTATION LIVE 2020
-  - 03月14日 - [HAPPY JACK](https://ja.wikipedia.org/wiki/HAPPY_JACK "wikilink") 2020 Show Must Go On
+  - 03月14日 - [HAPPY JACK](../Page/HAPPY_JACK.md "wikilink") 2020 Show Must Go On
   - 03月15日 - TENJIN ONTAQ2020
-  - 03月??日 - [HIROSHIMA MUSIC STADIUM](https://ja.wikipedia.org/wiki/HIROSHIMA_MUSIC_STADIUM "wikilink") -ハルバン'20-
+  - 03月??日 - [HIROSHIMA MUSIC STADIUM](../Page/HIROSHIMA_MUSIC_STADIUM.md "wikilink") -ハルバン'20-
   - 03月22日 - SANUKI ROCK COLOSSEUM 2020 -MONSTER baSH × I RADIO786-
   - 03月25日 - J-WAVE NIHONMONO LOUNGE
   - 04月11日 - FM NORTH WAVE & WESS PRESENTS IMPACT\! XV

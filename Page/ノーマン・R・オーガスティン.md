@@ -48,7 +48,7 @@
   - The [2007 Bower Award for Business Leadership](https://web.archive.org/web/20071012171812/http://fi.edu/winners/2007/augustine_norman.faw?winner_id=4404), from The Franklin Institute.
   - NAA Wright Brothers Memorial Trophy, 2008
   - National Science Board Vannevar Bush Award, 2008
-  - [IRIメダル](https://ja.wikipedia.org/wiki/IRIメダル "wikilink"), 2009
+  - [IRIメダル](../Page/IRIメダル.md "wikilink"), 2009
   - The American Chemical Society Public Service Award, 2009
   - B. Kenneth West Lifetime Achievement Award, 2009
   - NAS Award in Aeronautical Engineering from the National Academy of Sciences, 2010\[13\]

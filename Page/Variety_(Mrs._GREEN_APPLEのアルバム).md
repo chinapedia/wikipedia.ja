@@ -7,7 +7,7 @@
 
 ## 内容
 
-前作『[Progressive](https://ja.wikipedia.org/wiki/Progressive_\(Mrs._GREEN_APPLEのアルバム\) "wikilink")』から約5ヶ月ぶりの[ミニアルバムにして](https://ja.wikipedia.org/wiki/アルバム#アルバムの種類について "wikilink")、[メジャーデビュー作品](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。同年3月に新代田FEVERにて開催された自主企画ライブ『ゼンジン未到とプログレス ～実戦編～』の[アンコール](../Page/アンコール.md "wikilink")で今作の発売とメジャーデビューが発表された\[1\]\[2\]。
+前作『[Progressive](../Page/Progressive_\(Mrs._GREEN_APPLEのアルバム\).md "wikilink")』から約5ヶ月ぶりの[ミニアルバムにして](https://ja.wikipedia.org/wiki/アルバム#アルバムの種類について "wikilink")、[メジャーデビュー作品](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。同年3月に新代田FEVERにて開催された自主企画ライブ『ゼンジン未到とプログレス ～実戦編～』の[アンコール](../Page/アンコール.md "wikilink")で今作の発売とメジャーデビューが発表された\[1\]\[2\]。
 
 今作は大森曰く『Introduction』『Progressive』に続く3部作目で、[娯楽](https://ja.wikipedia.org/wiki/娯楽 "wikilink")をテーマに\[3\]、「喜怒哀楽を表現する中で、傷つくことで人の優しさに気付くことができる」という[コンセプトで制作された](../Page/概念.md "wikilink")\[4\]。
 
@@ -69,7 +69,7 @@
 
         </div>
 
-        『Introduction』での無常観、『[Progressive](https://ja.wikipedia.org/wiki/Progressive_\(Mrs._GREEN_APPLEのアルバム\) "wikilink")』での対人関係、今作での娯楽全て詰め込んだ曲にしようと思い制作された。タイトルは[ジャケットに描かれている宙に浮いてる果物と繋がっていて](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")、人の[道徳](../Page/道徳.md "wikilink")観、自分の[人生観](../Page/人生観.md "wikilink")、人間の脆い部分を表現している。大森曰く「いつ落ちてしまうか分からない危険があるが、絶望があるから幸せがある、寂しい感情があるから楽しい感情がある、そういう思いをこの曲に落とし込んでいる」\[8\]。
+        『Introduction』での無常観、『[Progressive](../Page/Progressive_\(Mrs._GREEN_APPLEのアルバム\).md "wikilink")』での対人関係、今作での娯楽全て詰め込んだ曲にしようと思い制作された。タイトルは[ジャケットに描かれている宙に浮いてる果物と繋がっていて](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")、人の[道徳](../Page/道徳.md "wikilink")観、自分の[人生観](../Page/人生観.md "wikilink")、人間の脆い部分を表現している。大森曰く「いつ落ちてしまうか分からない危険があるが、絶望があるから幸せがある、寂しい感情があるから楽しい感情がある、そういう思いをこの曲に落とし込んでいる」\[8\]。
 
 ## 参加ミュージシャン
 

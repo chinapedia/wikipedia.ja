@@ -5,9 +5,9 @@
 
 ## 概要
 
-細胞のサイズが一定の大きさに達すると、[接合相手が存在しない](../Page/接合_\(生物\).md "wikilink")（[酵母](../Page/酵母.md "wikilink")の場合）、[成長因子](../Page/成長因子.md "wikilink")とが存在する（[多細胞生物](../Page/多細胞生物.md "wikilink")の場合）、または栄養素が存在する（[単細胞生物](../Page/単細胞生物.md "wikilink")の場合）ときには、細胞は細胞周期に進入する。ヒトでは一般的に細胞周期の全ての段階が時系列順に進行し、その各段階は周期的な発現を行う複数の[サイクリン](../Page/サイクリン.md "wikilink")-[サイクリン依存性キナーゼ](https://ja.wikipedia.org/wiki/サイクリン依存性キナーゼ "wikilink")（CDK）複合体によって開始される。サイクリン-CDK複合体の機能は部分的に機能が重複している。CDKはサイクリンと複合体を形成することで活性化される。サイクリンの量は一般的にタンパク質合成と[APC/C依存的経路による分解によって調節されている](https://ja.wikipedia.org/wiki/後期促進複合体 "wikilink")。
+細胞のサイズが一定の大きさに達すると、[接合相手が存在しない](../Page/接合_\(生物\).md "wikilink")（[酵母](../Page/酵母.md "wikilink")の場合）、[成長因子](../Page/成長因子.md "wikilink")とが存在する（[多細胞生物](../Page/多細胞生物.md "wikilink")の場合）、または栄養素が存在する（[単細胞生物](../Page/単細胞生物.md "wikilink")の場合）ときには、細胞は細胞周期に進入する。ヒトでは一般的に細胞周期の全ての段階が時系列順に進行し、その各段階は周期的な発現を行う複数の[サイクリン](../Page/サイクリン.md "wikilink")-[サイクリン依存性キナーゼ](../Page/サイクリン依存性キナーゼ.md "wikilink")（CDK）複合体によって開始される。サイクリン-CDK複合体の機能は部分的に機能が重複している。CDKはサイクリンと複合体を形成することで活性化される。サイクリンの量は一般的にタンパク質合成と[APC/C依存的経路による分解によって調節されている](https://ja.wikipedia.org/wiki/後期促進複合体 "wikilink")。
 
-サイクリンDは、重要な機能を持つ主要なサイクリンの1つである。サイクリンDは4種類のCDK、[CDK2](https://ja.wikipedia.org/wiki/サイクリン依存性キナーゼ2 "wikilink")、[CDK4](https://ja.wikipedia.org/wiki/サイクリン依存性キナーゼ4 "wikilink")、、[CDK6と相互作用する](https://ja.wikipedia.org/wiki/サイクリン依存性キナーゼ6 "wikilink")。増殖している細胞では、サイクリンD-CDK4/6複合体の蓄積が細胞周期の進行に重要な意味を持つ。サイクリンD-CDK4/6複合体は[Rbタンパク質を部分的に](https://ja.wikipedia.org/wiki/Rb遺伝子 "wikilink")[リン酸化](../Page/リン酸化.md "wikilink")して阻害することで、[S期](../Page/S期.md "wikilink")の進行に重要ないくつかの遺伝子（[サイクリンE](https://ja.wikipedia.org/wiki/サイクリンE "wikilink")など）の発現を誘導する。
+サイクリンDは、重要な機能を持つ主要なサイクリンの1つである。サイクリンDは4種類のCDK、[CDK2](../Page/サイクリン依存性キナーゼ2.md "wikilink")、[CDK4](../Page/サイクリン依存性キナーゼ4.md "wikilink")、、[CDK6と相互作用する](../Page/サイクリン依存性キナーゼ6.md "wikilink")。増殖している細胞では、サイクリンD-CDK4/6複合体の蓄積が細胞周期の進行に重要な意味を持つ。サイクリンD-CDK4/6複合体は[Rbタンパク質を部分的に](https://ja.wikipedia.org/wiki/Rb遺伝子 "wikilink")[リン酸化](../Page/リン酸化.md "wikilink")して阻害することで、[S期](../Page/S期.md "wikilink")の進行に重要ないくつかの遺伝子（[サイクリンE](../Page/サイクリンE.md "wikilink")など）の発現を誘導する。
 
 [ショウジョウバエ](../Page/ショウジョウバエ.md "wikilink")や他の多くの生物は1種類のサイクリンDしか持っていない。マウスとヒトでは、3つのサイクリンDタンパク質が同定されている。、、と呼ばれる3つの[ホモログは増殖中の細胞の大部分で発現しているが](../Page/相同.md "wikilink")、それらの相対的発現量は細胞種によって異なる\[2\]。
 
@@ -15,7 +15,7 @@
 
 サイクリンDは、酵母と[ウイルス](../Page/ウイルス.md "wikilink")に存在する[ホモログが最もよく研究されている](../Page/相同.md "wikilink")。
 
-サイクリンDの酵母ホモログは、[G<sub>1</sub>期にCdc](../Page/G1期.md "wikilink")28（[CDK1のホモログ](https://ja.wikipedia.org/wiki/サイクリン依存性キナーゼ1 "wikilink")）と相互作用する。
+サイクリンDの酵母ホモログは、[G<sub>1</sub>期にCdc](../Page/G1期.md "wikilink")28（[CDK1のホモログ](../Page/サイクリン依存性キナーゼ1.md "wikilink")）と相互作用する。
 
 リスザル[ヘルペスウイルス](../Page/ヘルペスウイルス科.md "wikilink")（*Herpesvirus saimiri*）2型やヒトヘルペスウイルス8型（）に存在するサイクリンDホモログは、ウイルスの利益となるように宿主の[代謝](../Page/代謝.md "wikilink")を操作する、新たな機能を獲得している\[3\]。ウイルス性のサイクリンDはヒトのCDK6に結合し、Rbをリン酸化によって阻害し、G<sub>1</sub>期の通過を促進する遺伝子の[転写を誘導する](https://ja.wikipedia.org/wiki/転写_\(生物学\) "wikilink")。ウイルス性サイクリンD-CDK6複合体はRbの他に、サイクリンEと[サイクリンA](../Page/サイクリンA.md "wikilink")に結合するCDKの阻害因子である[p27](https://ja.wikipedia.org/wiki/p27 "wikilink")<sup>Kip</sup>を標的とする。加えて、ヒトの細胞でCDK4を阻害してサイクリンDとの活性型複合体の形成を防ぐp21<sup>CIP1/WAF1</sup>や[p16](https://ja.wikipedia.org/wiki/p16 "wikilink")<sup>INK4a</sup>などのCDK阻害因子に対し、ウイルス性サイクリンD-CDK6複合体は抵抗性を有する\[4\]\[5\]。
 
@@ -75,7 +75,7 @@ p27<sup>Kip-/-</sup>の[ノックアウトマウス](https://ja.wikipedia.org/wi
 
 ## 関連項目
 
-  - [サイクリン依存性キナーゼ](https://ja.wikipedia.org/wiki/サイクリン依存性キナーゼ "wikilink")
+  - [サイクリン依存性キナーゼ](../Page/サイクリン依存性キナーゼ.md "wikilink")
   - [サイクリン](../Page/サイクリン.md "wikilink")
   - [細胞周期](../Page/細胞周期.md "wikilink")
 

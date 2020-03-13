@@ -27,10 +27,10 @@ CD版は蓄光ジャケット仕様\[2\]\[3\]。配信版は[2020年](../Page/20
 3.  **CURE**
 4.  **Great Strange**
 5.  **Interlude**
-6.  **[Keep the Heat and Fire Yourself Up](https://ja.wikipedia.org/wiki/Greedy "wikilink")**
+6.  **[Keep the Heat and Fire Yourself Up](../Page/Greedy.md "wikilink")**
       -
         6thシングル収録曲。
-7.  **[Treasure in Your Hands](https://ja.wikipedia.org/wiki/Greedy "wikilink")**
+7.  **[Treasure in Your Hands](../Page/Greedy.md "wikilink")**
       -
         6thシングル収録曲。
 8.  **Karma**

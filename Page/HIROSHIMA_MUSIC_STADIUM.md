@@ -98,7 +98,7 @@
 <tr class="odd">
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/Shout_it_Out" title="wikilink">Shout it Out</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/FABLED_NUMBER" title="wikilink">FABLED NUMBER</a></li>
+<li><a href="../Page/FABLED_NUMBER.md" title="wikilink">FABLED NUMBER</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/空きっ腹に酒" title="wikilink">空きっ腹に酒</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/パノラマパナマタウン" title="wikilink">パノラマパナマタウン</a></li>
 <li><a href="../Page/モノブライト.md" title="wikilink">モノブライト</a></li>
@@ -270,7 +270,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/THE_BOYS&amp;GIRLS" title="wikilink">THE BOYS&amp;GIRLS</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/MOSHIMO" title="wikilink">MOSHIMO</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/King_Gnu" title="wikilink">King Gnu</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/FIVE_NEW_OLD" title="wikilink">FIVE NEW OLD</a></li>
+<li><a href="../Page/FIVE_NEW_OLD.md" title="wikilink">FIVE NEW OLD</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ドラマストア" title="wikilink">ドラマストア</a></li>
 </ul></td>
 <td><ul>
@@ -386,7 +386,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/アイビーカラー" title="wikilink">アイビーカラー</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/The_3_minutes" title="wikilink">The 3 minutes</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/アメノイロ。" title="wikilink">アメノイロ。</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/The_Songbards" title="wikilink">The Songbards</a></li>
+<li><a href="../Page/The_Songbards.md" title="wikilink">The Songbards</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/NoisyCell" title="wikilink">NoisyCell</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ゆるふわリムーブ" title="wikilink">ゆるふわリムーブ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Mr.ふぉるて" title="wikilink">Mr.ふぉるて</a></li>

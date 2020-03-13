@@ -5,7 +5,7 @@
 
 ## 概要
 
-[1923年](../Page/1923年.md "wikilink")、[イリノイ州](../Page/イリノイ州.md "wikilink")[ロックフォードにおいてErnest](https://ja.wikipedia.org/wiki/ロックフォード_\(イリノイ州\) "wikilink") O. Estwingがハンマーなどの手工具を製造するEstwing Manufacturing Companyを設立した。[2001年](../Page/2001年.md "wikilink")には[ナイロン](https://ja.wikipedia.org/wiki/ナイロン "wikilink")を用いた新しいグリップを開発し、打撃時の衝撃がより伝わりづらいハンマーを製造することに成功した。\[1\]一般的な[ハンマー](https://ja.wikipedia.org/wiki/ハンマー "wikilink")や[斧](../Page/斧.md "wikilink")、[地質調査用のハンマーなどを製造している](https://ja.wikipedia.org/wiki/ハンマー_\(地質調査\) "wikilink")。\[2\]
+[1923年](../Page/1923年.md "wikilink")、[イリノイ州](../Page/イリノイ州.md "wikilink")[ロックフォードにおいてErnest](https://ja.wikipedia.org/wiki/ロックフォード_\(イリノイ州\) "wikilink") O. Estwingがハンマーなどの手工具を製造するEstwing Manufacturing Companyを設立した。[2001年](../Page/2001年.md "wikilink")には[ナイロン](https://ja.wikipedia.org/wiki/ナイロン "wikilink")を用いた新しいグリップを開発し、打撃時の衝撃がより伝わりづらいハンマーを製造することに成功した。\[1\]一般的な[ハンマー](https://ja.wikipedia.org/wiki/ハンマー "wikilink")や[斧](../Page/斧.md "wikilink")、[地質調査用のハンマーなどを製造している](../Page/ハンマー_\(地質調査\).md "wikilink")。\[2\]
 
 ### Estwing Awards
 

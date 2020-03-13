@@ -89,7 +89,7 @@
 </ul></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/ROA_(バンド)" title="wikilink">ROA</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/FIVE_NEW_OLD" title="wikilink">FIVE NEW OLD</a></li>
+<li><a href="../Page/FIVE_NEW_OLD.md" title="wikilink">FIVE NEW OLD</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/鏡トナリ" title="wikilink">鏡トナリ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/SKAPUNK_ZOMBIES" title="wikilink">SKAPUNK ZOMBIES</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/バンドハラスメント" title="wikilink">バンドハラスメント</a></li>
@@ -341,7 +341,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/MAGIC_OF_LiFE" title="wikilink">MAGIC OF LiFE</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ENTH" title="wikilink">ENTH</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/POT_(バンド)" title="wikilink">POT</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/FABLED_NUMBER" title="wikilink">FABLED NUMBER</a></li>
+<li><a href="../Page/FABLED_NUMBER.md" title="wikilink">FABLED NUMBER</a></li>
 </ul></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/KNOCK_OUT_MONKEY" title="wikilink">KNOCK OUT MONKEY</a></li>
@@ -396,7 +396,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/Cloque." title="wikilink">Cloque.</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/DYINGDAY" title="wikilink">DYINGDAY</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/NOVELS" title="wikilink">NOVELS</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/あっこゴリラ" title="wikilink">あっこゴリラ</a></li>
+<li><a href="../Page/あっこゴリラ.md" title="wikilink">あっこゴリラ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/アシュラシンドローム" title="wikilink">アシュラシンドローム</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/THE_STEPHANIES" title="wikilink">THE STEPHANIES</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/馬喰町バンド" title="wikilink">馬喰町バンド</a></li>
@@ -494,8 +494,8 @@
 <li><a href="https://ja.wikipedia.org/wiki/南風とクジラ" title="wikilink">南風とクジラ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/さすらいナンバープレート" title="wikilink">さすらいナンバープレート</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Rude-α" title="wikilink">Rude-α</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/The_Songbards" title="wikilink">The Songbards</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ハンブレッダーズ" title="wikilink">ハンブレッダーズ</a></li>
+<li><a href="../Page/The_Songbards.md" title="wikilink">The Songbards</a></li>
+<li><a href="../Page/ハンブレッダーズ.md" title="wikilink">ハンブレッダーズ</a></li>
 </ul></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/パンのみみ" title="wikilink">パンのみみ</a></li>
@@ -691,7 +691,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/ジョゼ_(バンド)" title="wikilink">ジョゼ</a></li>
 <li><a href="../Page/カフカ_(バンド).md" title="wikilink">カフカ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/超能力戦士ドリアン" title="wikilink">超能力戦士ドリアン</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/河内REDS" title="wikilink">河内REDS</a></li>
+<li><a href="../Page/河内REDS.md" title="wikilink">河内REDS</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Sentimental_boys" title="wikilink">Sentimental boys</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/フィルフリーク" title="wikilink">フィルフリーク</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/the_irony" title="wikilink">the irony</a></li>
@@ -781,7 +781,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/POT_(バンド)" title="wikilink">POT</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Amelie" title="wikilink">Amelie</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/シナリオアート" title="wikilink">シナリオアート</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/FABLED_NUMBER" title="wikilink">FABLED NUMBER</a></li>
+<li><a href="../Page/FABLED_NUMBER.md" title="wikilink">FABLED NUMBER</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/BACK_LIFT" title="wikilink">BACK LIFT</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/マカロニえんぴつ" title="wikilink">マカロニえんぴつ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/魔法少女になり隊" title="wikilink">魔法少女になり隊</a></li>
@@ -805,7 +805,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/Take_Mind&#39;s_Place" title="wikilink">Take Mind's Place</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Paledusk" title="wikilink">Paledusk</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/THE_NUGGETS" title="wikilink">THE NUGGETS</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ナードマグネット" title="wikilink">ナードマグネット</a></li>
+<li><a href="../Page/ナードマグネット.md" title="wikilink">ナードマグネット</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/HOTSQUALL" title="wikilink">HOTSQUALL</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/DYINGDAY" title="wikilink">DYINGDAY</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/SCUMGAMES" title="wikilink">SCUMGAMES</a></li>
@@ -1147,7 +1147,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/リアクション_ザ_ブッタ" title="wikilink">リアクション ザ ブッタ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/alcott" title="wikilink">alcott</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/suga/es" title="wikilink">suga/es</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ナードマグネット" title="wikilink">ナードマグネット</a></li>
+<li><a href="../Page/ナードマグネット.md" title="wikilink">ナードマグネット</a></li>
 </ul></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/ircle" title="wikilink">ircle</a></li>
@@ -1189,7 +1189,7 @@
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/ピアノゾンビ" title="wikilink">ピアノゾンビ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/MINAMI_NiNE" title="wikilink">MINAMI NiNE</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/FABLED_NUMBER" title="wikilink">FABLED NUMBER</a></li>
+<li><a href="../Page/FABLED_NUMBER.md" title="wikilink">FABLED NUMBER</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/嘘とカメレオン" title="wikilink">嘘とカメレオン</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/SECRET_7_LINE" title="wikilink">SECRET 7 LINE</a></li>
 <li><a href="../Page/THE_CHERRY_COKE$.md" title="wikilink">THE CHERRY COKE$</a></li>
@@ -1227,7 +1227,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/MOSHIMO" title="wikilink">MOSHIMO</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/東京カランコロン" title="wikilink">東京カランコロン</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/コレサワ" title="wikilink">コレサワ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/FIVE_NEW_OLD" title="wikilink">FIVE NEW OLD</a></li>
+<li><a href="../Page/FIVE_NEW_OLD.md" title="wikilink">FIVE NEW OLD</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ゆるめるモ!" title="wikilink">ゆるめるモ!</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/日食なつこ" title="wikilink">日食なつこ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/The_Floor" title="wikilink">The Floor</a></li>
@@ -1243,7 +1243,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/秋山黄色" title="wikilink">秋山黄色</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ムノーノ=モーゼス" title="wikilink">ムノーノ=モーゼス</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ステレオガール" title="wikilink">ステレオガール</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/The_Songbards" title="wikilink">The Songbards</a></li>
+<li><a href="../Page/The_Songbards.md" title="wikilink">The Songbards</a></li>
 <li><a href="../Page/落日飛車.md" title="wikilink">落日飛車</a></li>
 </ul></td>
 <td><ul>
@@ -1344,7 +1344,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/RAMMELLS" title="wikilink">RAMMELLS</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/GOODWARP" title="wikilink">GOODWARP</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Mellow_Youth" title="wikilink">Mellow Youth</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/Omoinotake" title="wikilink">Omoinotake</a></li>
+<li><a href="../Page/Omoinotake.md" title="wikilink">Omoinotake</a></li>
 </ul></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/moll" title="wikilink">moll</a></li>
@@ -1379,7 +1379,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/ネクライトーキー" title="wikilink">ネクライトーキー</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/超能力戦士ドリアン" title="wikilink">超能力戦士ドリアン</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/MOSHIMO" title="wikilink">MOSHIMO</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ハンブレッダーズ" title="wikilink">ハンブレッダーズ</a></li>
+<li><a href="../Page/ハンブレッダーズ.md" title="wikilink">ハンブレッダーズ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ビレッジマンズストア" title="wikilink">ビレッジマンズストア</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/バックドロップシンデレラ" title="wikilink">バックドロップシンデレラ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/花団" title="wikilink">花団</a></li>
@@ -1687,7 +1687,7 @@
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/魔法少女になり隊" title="wikilink">魔法少女になり隊</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ゆるめるモ!" title="wikilink">ゆるめるモ!</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/FABLED_NUMBER" title="wikilink">FABLED NUMBER</a></li>
+<li><a href="../Page/FABLED_NUMBER.md" title="wikilink">FABLED NUMBER</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/嘘とカメレオン" title="wikilink">嘘とカメレオン</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/コレサワ" title="wikilink">コレサワ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/SECRET_7_LINE" title="wikilink">SECRET 7 LINE</a></li>

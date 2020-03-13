@@ -10,8 +10,8 @@
 ### 仕様
 
   - プログラムROMとキャラクターROMを[バンク切り換え](../Page/バンク切り換え.md "wikilink")可能
-  - 音声出力：8ビットデジタル出力（[矩形波](https://ja.wikipedia.org/wiki/矩形波 "wikilink") 2ch + [鋸波](../Page/のこぎり波.md "wikilink") 1ch） - ラスター位置を検出して、IRQ[割り込みを発生させる](../Page/割り込み_\(コンピュータ\).md "wikilink")。
-  - [パッケージ](../Page/パッケージ_\(電子部品\).md "wikilink")：48ピン[DIP](https://ja.wikipedia.org/wiki/パッケージ_\(電子部品\)#DIP_\(Dual_Inline_Package\) "wikilink") - パッケージ形状や表面の印刷、文字形状、[ロット管理](https://ja.wikipedia.org/wiki/ロット管理 "wikilink")番号などから[東芝](../Page/東芝.md "wikilink")製と思われる。
+  - 音声出力：8ビットデジタル出力（[矩形波](../Page/矩形波.md "wikilink") 2ch + [鋸波](../Page/のこぎり波.md "wikilink") 1ch） - ラスター位置を検出して、IRQ[割り込みを発生させる](../Page/割り込み_\(コンピュータ\).md "wikilink")。
+  - [パッケージ](../Page/パッケージ_\(電子部品\).md "wikilink")：48ピン[DIP](https://ja.wikipedia.org/wiki/パッケージ_\(電子部品\)#DIP_\(Dual_Inline_Package\) "wikilink") - パッケージ形状や表面の印刷、文字形状、[ロット管理](../Page/ロット管理.md "wikilink")番号などから[東芝](../Page/東芝.md "wikilink")製と思われる。
 
 ### 音源部分
 
@@ -21,7 +21,7 @@
 ### VRC VI搭載ゲーム
 
   - RC845 [悪魔城伝説](../Page/悪魔城伝説.md "wikilink")
-  - RC846 [魍魎戦記MADARA](https://ja.wikipedia.org/wiki/魍魎戦記MADARA "wikilink")
+  - RC846 [魍魎戦記MADARA](../Page/魍魎戦記MADARA.md "wikilink")
   - RC861 [エスパードリーム2 新たなる戦い](https://ja.wikipedia.org/wiki/エスパードリーム2_新たなる戦い "wikilink")
 
 ## VRC VII
@@ -30,7 +30,7 @@ VRC VIIは VRC VIの派生品。基本仕様はVRC VIと同等であるが、音
 
 ### VRC VII搭載ゲーム
 
-  - RC851 [ラグランジュポイント](https://ja.wikipedia.org/wiki/ラグランジュポイント_\(ゲーム\) "wikilink")
+  - RC851 [ラグランジュポイント](../Page/ラグランジュポイント_\(ゲーム\).md "wikilink")
   - RV051 タイニートゥーンアドベンチャー2(日本国内版のみ。バンクコントローラとしての使用であり、拡張音源は未使用)
 
 ## 関連項目

@@ -1,7 +1,7 @@
 > この記事は[SA \(\)](https://ja.wikipedia.org/wiki/SA_\(\))から翻訳されています。
 
 
-『**SA**』（エス・エー）は、[1999年](../Page/1999年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")に発売された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[鈴木あみの](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")1枚目のオリジナル[アルバム](../Page/アルバム.md "wikilink")。[TRUE KiSS DiSCよりリリースされた](https://ja.wikipedia.org/wiki/TRUE_KiSS_DiSC "wikilink")。同年[4月29日](../Page/4月29日.md "wikilink")には[MD版が発売されている](../Page/ミニディスク.md "wikilink")。
+『**SA**』（エス・エー）は、[1999年](../Page/1999年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")に発売された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[鈴木あみの](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")1枚目のオリジナル[アルバム](../Page/アルバム.md "wikilink")。[TRUE KiSS DiSCよりリリースされた](../Page/TRUE_KiSS_DiSC.md "wikilink")。同年[4月29日](../Page/4月29日.md "wikilink")には[MD版が発売されている](../Page/ミニディスク.md "wikilink")。
 
 2013年9月11日に[デジタルリマスタリング](https://ja.wikipedia.org/wiki/デジタルリマスタリング "wikilink")を施した名盤復刻シリーズとして、[ソニー・ミュージックダイレクト](../Page/ソニー・ミュージックダイレクト.md "wikilink")より[Blu-spec CD2で再発売されている](https://ja.wikipedia.org/wiki/ブルースペックCD "wikilink")。
 
@@ -9,8 +9,8 @@
 
   - 鈴木あみの[イニシャル](../Page/イニシャル.md "wikilink")をそのままタイトルに使用。宣伝のキャッチコピーは「**ファースト・アルバムにしてベスト・アルバム**」。
   - コンセプトは「若いスタッフが主導で素材制作を進ませ、シンセサイザーの音色とリズムの跳ね方を今の男性ファンが面白く思える様にする」ことを目指した\[1\]。
-  - CD（オリジナル版）には初回限定盤と通常盤に別れており、初回限定盤にはケースの帯部分に[ビーズ](https://ja.wikipedia.org/wiki/ビーズ "wikilink")が同梱されている。後の共通点では[ジャケットの](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")[ブックレット](https://ja.wikipedia.org/wiki/ブックレット "wikilink")は全ページが[写真集](../Page/写真集.md "wikilink")となっており、[ライナーノーツ](../Page/ライナーノーツ.md "wikilink")は別紙で同封されていた。
-  - デビューアルバムにして[オリコンアルバムチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位を獲得。シングル、アルバム通じて自身初の首位獲得&ミリオン達成。累計出荷枚数は250万枚\[2\]。
+  - CD（オリジナル版）には初回限定盤と通常盤に別れており、初回限定盤にはケースの帯部分に[ビーズ](../Page/ビーズ.md "wikilink")が同梱されている。後の共通点では[ジャケットの](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")[ブックレット](https://ja.wikipedia.org/wiki/ブックレット "wikilink")は全ページが[写真集](../Page/写真集.md "wikilink")となっており、[ライナーノーツ](../Page/ライナーノーツ.md "wikilink")は別紙で同封されていた。
+  - デビューアルバムにして[オリコンアルバムチャート](../Page/オリコンチャート.md "wikilink")1位を獲得。シングル、アルバム通じて自身初の首位獲得&ミリオン達成。累計出荷枚数は250万枚\[2\]。
   - 「[第14回日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink") ポップ・アルバム・オブ・ザ・イヤー」を受賞。
 
 ## 収録曲
@@ -20,7 +20,7 @@ Performed by　**AMI SUZUKI**　Produced by　**TETSUYA KOMURO**　
 
 \#:作詞：[MARC](../Page/マーク・パンサー.md "wikilink")　作曲：[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")　編曲：[久保こーじ](https://ja.wikipedia.org/wiki/久保こーじ "wikilink") ＆ 小室哲哉
 
-\#:5thシングル。[プレイステーション用ソフト](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")「[モンスターファーム2](../Page/モンスターファーム2.md "wikilink")」タイアップ。本作のリード曲。2曲目と繋がっている。
+\#:5thシングル。[プレイステーション用ソフト](../Page/PlayStation_\(ゲーム機\).md "wikilink")「[モンスターファーム2](../Page/モンスターファーム2.md "wikilink")」タイアップ。本作のリード曲。2曲目と繋がっている。
 
 1.  **STORIES BEHIND**
       -
@@ -28,7 +28,7 @@ Performed by　**AMI SUZUKI**　Produced by　**TETSUYA KOMURO**　
 2.  **[alone in my room](https://ja.wikipedia.org/wiki/alone_in_my_room "wikilink")**
       -
         作詞：小室哲哉 ＆ MARC　作曲・編曲：小室哲哉
-        2ndシングル。[グアム](../Page/グアム.md "wikilink")[政府観光局](https://ja.wikipedia.org/wiki/政府観光局 "wikilink")「'98ウィンターキャンペーン」CMソング。
+        2ndシングル。[グアム](../Page/グアム.md "wikilink")[政府観光局](../Page/政府観光局.md "wikilink")「'98ウィンターキャンペーン」CMソング。
 3.  **[white key](https://ja.wikipedia.org/wiki/white_key "wikilink")**
       -
         作詞：MARC ＆ 小室哲哉　 作曲・編曲：久保こーじ ＆ 小室哲哉
@@ -39,7 +39,7 @@ Performed by　**AMI SUZUKI**　Produced by　**TETSUYA KOMURO**　
 5.  **[love the island](https://ja.wikipedia.org/wiki/love_the_island "wikilink")**
       -
         作詞：小室哲哉 ＆ MARC　 作曲・編曲：小室哲哉　ストリングスアレンジ：Randay Waldman
-        1stシングル。[グアム](../Page/グアム.md "wikilink")[政府観光局](https://ja.wikipedia.org/wiki/政府観光局 "wikilink")「グアム大夏祭'98キャンペーン」CMソング。
+        1stシングル。[グアム](../Page/グアム.md "wikilink")[政府観光局](../Page/政府観光局.md "wikilink")「グアム大夏祭'98キャンペーン」CMソング。
 6.  **[Don't leave me behind](https://ja.wikipedia.org/wiki/Don't_leave_me_behind/Silent_Stream "wikilink")**
       -
         作詞：MARC ＆ 鈴木あみ　 作曲：小室哲哉　編曲：久保こーじ ＆ 小室哲哉

@@ -1,15 +1,15 @@
 > この記事は[NISSAN BEYOND THE AVERAGE](https://ja.wikipedia.org/wiki/NISSAN_BEYOND_THE_AVERAGE)から翻訳されています。
 
 
-『**NISSAN あ、安部礼司〜BEYOND THE AVERAGE**』（にっさん あ、あべれいじ ビヨンド・ザ・アベレージ）は、[TOKYO FMで放送されている](../Page/エフエム東京.md "wikilink")[ラジオドラマ](https://ja.wikipedia.org/wiki/ラジオドラマ "wikilink")番組である。
+『**NISSAN あ、安部礼司〜BEYOND THE AVERAGE**』（にっさん あ、あべれいじ ビヨンド・ザ・アベレージ）は、[TOKYO FMで放送されている](../Page/エフエム東京.md "wikilink")[ラジオドラマ](../Page/ラジオドラマ.md "wikilink")番組である。
 
 ## 概要
 
 TOKYO FM制作・[JFN系](../Page/全国FM放送協議会.md "wikilink")38局ネット。放送時間は毎週日曜日：17:00〜17:55。
 
-[日産自動車](../Page/日産自動車.md "wikilink")の一社提供で、同時間枠前番組の『[松任谷由実 For Your Departure](../Page/松任谷由実_For_Your_Departure.md "wikilink")』あるいは実質的な前身である日産一社提供番組の『[SHIHOのNISSANナチュラル・パレット](https://ja.wikipedia.org/wiki/SHIHOのNISSANナチュラル・パレット "wikilink")』のようなトーク&ミュージックの路線とは大きく変わり、30歳代（番組内では「ナイスサーティーズ」と称している）をターゲットにした、1970年代から1990年代のポップス\[1\]（番組的には「**今さらツボな選曲**」や「**今ツボ**」と称している）を交えて展開される[ラジオドラマ](https://ja.wikipedia.org/wiki/ラジオドラマ "wikilink")となっていた。
+[日産自動車](../Page/日産自動車.md "wikilink")の一社提供で、同時間枠前番組の『[松任谷由実 For Your Departure](../Page/松任谷由実_For_Your_Departure.md "wikilink")』あるいは実質的な前身である日産一社提供番組の『[SHIHOのNISSANナチュラル・パレット](../Page/SHIHOのNISSANナチュラル・パレット.md "wikilink")』のようなトーク&ミュージックの路線とは大きく変わり、30歳代（番組内では「ナイスサーティーズ」と称している）をターゲットにした、1970年代から1990年代のポップス\[1\]（番組的には「**今さらツボな選曲**」や「**今ツボ**」と称している）を交えて展開される[ラジオドラマ](../Page/ラジオドラマ.md "wikilink")となっていた。
 
-番組の舞台は、[東京](../Page/東京.md "wikilink")・[神田神保町](https://ja.wikipedia.org/wiki/神田神保町 "wikilink")にある中堅企業「**大日本ジェネラル**」で、ここに勤務する平均的男性社員・安部礼司の会社内外でのストーリーを中心に展開される。
+番組の舞台は、[東京](../Page/東京.md "wikilink")・[神田神保町](../Page/神田神保町.md "wikilink")にある中堅企業「**大日本ジェネラル**」で、ここに勤務する平均的男性社員・安部礼司の会社内外でのストーリーを中心に展開される。
 
 かつて、安部が一週間の出来事を語る内容となっており、番組の最後に安部が自宅で[ブログ](../Page/ブログ.md "wikilink")を更新するシーンで締めるのが通例であった（なお、このブログにて重大発表が行なわれる場合があった）。ブログを締めた後の安部と刈谷の電話シーンや様々なメンバー間へのムチャ振り（特に多いのは姫川とアンジュ）はアドリブ\[2\]。
 
@@ -28,7 +28,7 @@ TOKYO FM制作・[JFN系](../Page/全国FM放送協議会.md "wikilink")38局ネ
 ### レギュラー登場人物
 
   - 安部 礼司（あべ れいじ）：[小林タカ鹿](../Page/小林タカ鹿.md "wikilink")
-    本作の主人公。[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[10月10日](../Page/10月10日.md "wikilink")生まれ、[血液型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")：A型、[静岡県](../Page/静岡県.md "wikilink")[静岡市](../Page/静岡市.md "wikilink")[駿河区](https://ja.wikipedia.org/wiki/駿河区 "wikilink")用宗出身
+    本作の主人公。[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[10月10日](../Page/10月10日.md "wikilink")生まれ、[血液型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")：A型、[静岡県](../Page/静岡県.md "wikilink")[静岡市](../Page/静岡市.md "wikilink")[駿河区](../Page/駿河区.md "wikilink")用宗出身
     名前の由来は[平均](../Page/平均.md "wikilink")・[普通](../Page/普通.md "wikilink")を意味する「アベレージ（average）」の洒落。ごくごく平均的な[サラリーマン](../Page/サラリーマン.md "wikilink")。
     お調子者だが、非常に優柔不断でお人好し。そのために貧乏くじを引かされることが多いものの、そのお人好しが故に周囲の人々から慕われている。一方で自らの信念も強く持ち、その想いや行動が相手を動かし、仕事面で発揮される事もしばしば。好きな女性を追って、その女性が住む街へ行くという、時として驚くような行動力を見せることがある。
     失敗した時などに「あたっ」と言うのが口癖。
@@ -45,11 +45,11 @@ TOKYO FM制作・[JFN系](../Page/全国FM放送協議会.md "wikilink")38局ネ
     [1981年](../Page/1981年.md "wikilink")[8月31日](../Page/8月31日.md "wikilink")生まれ。血液型B型。美人でグラマーなスタイルのキラキラ系OL。自称「神保町の[エビちゃん](https://ja.wikipedia.org/wiki/蛯原友里 "wikilink")」。
     信条は「自分磨き&自分癒し」。
     ハキハキとした物の言い方の姉御肌で、余り弱音や弱い部分を見せない。コンテンツ・ビジネス部解散の後、自ら進んで安部達と行動を共にするなど芯の強い所がある。結婚・出産を経て妻になり母になってからは、以前と比べて幾分落ち着いた雰囲気になり、周りの人への口調も優しい語り口へと変化している。
-    実家は[目白](https://ja.wikipedia.org/wiki/目白 "wikilink")の[資産家](https://ja.wikipedia.org/wiki/資産家 "wikilink")であり、祖父は経済界と繋がりのある大物らしいが、詳細は不明。刈谷の勤めるIT会社の社長である[赤井彗星](../Page/シャア・アズナブル.md "wikilink")（声：[池田秀一](../Page/池田秀一.md "wikilink")）という名の兄がおり、彗星には「[クラハーシア](../Page/セイラ・マス.md "wikilink")」と呼ばれている。母親は[アフリカ](../Page/アフリカ.md "wikilink")で[井戸](../Page/井戸.md "wikilink")を掘る活動を行う[NGOを主宰し自らも現地へ赴くため](../Page/非政府組織.md "wikilink")、日本を離れていることが多い。
-    愛車は[日産・オッティ](../Page/日産・オッティ.md "wikilink")だったが、引越を機に父親に譲った。特技はオッティの[替え歌](https://ja.wikipedia.org/wiki/替え歌 "wikilink")を作ること。
-    愛読雑誌は『[CanCam](https://ja.wikipedia.org/wiki/CanCam "wikilink")』『[AneCan](../Page/AneCan.md "wikilink")』『からだにいいこと』。
-    携帯の着信音は[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")の「[恋のつぼみ](../Page/恋のつぼみ.md "wikilink")」→[Kaoru Amaneの](https://ja.wikipedia.org/wiki/沢尻エリカ "wikilink")「[タイヨウのうた](https://ja.wikipedia.org/wiki/タイヨウのうた_\(曲\) "wikilink")」→[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の「[しるし](https://ja.wikipedia.org/wiki/しるし_\(Mr.Childrenの曲\) "wikilink")」→[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")の「[Baby Don't Cry](../Page/Baby_Don't_Cry_\(安室奈美恵の曲\).md "wikilink")」→[KOH+](../Page/KOH+.md "wikilink")の「[KISSして](../Page/KISSして.md "wikilink")」→[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の「[そのまま](https://ja.wikipedia.org/wiki/そのまま/White_Message "wikilink")」→[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")の「[Prisoner Of Love](https://ja.wikipedia.org/wiki/Prisoner_Of_Love "wikilink")」→[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の「[HANABI](https://ja.wikipedia.org/wiki/HANABI_\(Mr.Childrenの曲\) "wikilink")」→[DREAMS COME TRUE](../Page/DREAMS_COME_TRUE.md "wikilink") feat.[FUZZY CONTROLの](https://ja.wikipedia.org/wiki/FUZZY_CONTROL "wikilink")「[その先へ](https://ja.wikipedia.org/wiki/その先へ "wikilink")」→[aiko](https://ja.wikipedia.org/wiki/aiko "wikilink")の「[戻れない明日](https://ja.wikipedia.org/wiki/戻れない明日 "wikilink")」（全てドラマの主題歌、もしくは挿入歌である）。
-  - 安部 永太（あべ えいた）：[沢口千恵](https://ja.wikipedia.org/wiki/沢口千恵 "wikilink")（乳児期）　[榎本泰貴](https://ja.wikipedia.org/wiki/榎本泰貴 "wikilink")（幼少期）　[宮本奈津美](https://ja.wikipedia.org/wiki/宮本奈津美 "wikilink")（シーズン13～）
+    実家は[目白](../Page/目白.md "wikilink")の[資産家](https://ja.wikipedia.org/wiki/資産家 "wikilink")であり、祖父は経済界と繋がりのある大物らしいが、詳細は不明。刈谷の勤めるIT会社の社長である[赤井彗星](../Page/シャア・アズナブル.md "wikilink")（声：[池田秀一](../Page/池田秀一.md "wikilink")）という名の兄がおり、彗星には「[クラハーシア](../Page/セイラ・マス.md "wikilink")」と呼ばれている。母親は[アフリカ](../Page/アフリカ.md "wikilink")で[井戸](../Page/井戸.md "wikilink")を掘る活動を行う[NGOを主宰し自らも現地へ赴くため](../Page/非政府組織.md "wikilink")、日本を離れていることが多い。
+    愛車は[日産・オッティ](../Page/日産・オッティ.md "wikilink")だったが、引越を機に父親に譲った。特技はオッティの[替え歌](../Page/替え歌.md "wikilink")を作ること。
+    愛読雑誌は『[CanCam](../Page/CanCam.md "wikilink")』『[AneCan](../Page/AneCan.md "wikilink")』『からだにいいこと』。
+    携帯の着信音は[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")の「[恋のつぼみ](../Page/恋のつぼみ.md "wikilink")」→[Kaoru Amaneの](https://ja.wikipedia.org/wiki/沢尻エリカ "wikilink")「[タイヨウのうた](../Page/タイヨウのうた_\(曲\).md "wikilink")」→[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の「[しるし](../Page/しるし_\(Mr.Childrenの曲\).md "wikilink")」→[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")の「[Baby Don't Cry](../Page/Baby_Don't_Cry_\(安室奈美恵の曲\).md "wikilink")」→[KOH+](../Page/KOH+.md "wikilink")の「[KISSして](../Page/KISSして.md "wikilink")」→[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の「[そのまま](https://ja.wikipedia.org/wiki/そのまま/White_Message "wikilink")」→[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")の「[Prisoner Of Love](https://ja.wikipedia.org/wiki/Prisoner_Of_Love "wikilink")」→[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の「[HANABI](https://ja.wikipedia.org/wiki/HANABI_\(Mr.Childrenの曲\) "wikilink")」→[DREAMS COME TRUE](../Page/DREAMS_COME_TRUE.md "wikilink") feat.[FUZZY CONTROLの](../Page/FUZZY_CONTROL.md "wikilink")「[その先へ](https://ja.wikipedia.org/wiki/その先へ "wikilink")」→[aiko](https://ja.wikipedia.org/wiki/aiko "wikilink")の「[戻れない明日](https://ja.wikipedia.org/wiki/戻れない明日 "wikilink")」（全てドラマの主題歌、もしくは挿入歌である）。
+  - 安部 永太（あべ えいた）：[沢口千恵](../Page/沢口千恵.md "wikilink")（乳児期）　[榎本泰貴](https://ja.wikipedia.org/wiki/榎本泰貴 "wikilink")（幼少期）　[宮本奈津美](https://ja.wikipedia.org/wiki/宮本奈津美 "wikilink")（シーズン13～）
     [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[10月10日](../Page/10月10日.md "wikilink")生まれ。
     名前の由来は飛行操縦士を意味する「アビエイター」。安部礼司・優夫妻の長男。
     最初にしゃべった言葉は父・礼司の口癖である「あた」。
@@ -65,7 +65,7 @@ TOKYO FM制作・[JFN系](../Page/全国FM放送協議会.md "wikilink")38局ネ
     優しく非常に人懐っこい性格で、実母からホモ疑惑をかけられる程安部を慕っている。
     安部以上に物知らずだが、[ゲーム](../Page/ゲーム.md "wikilink")や[パソコン](../Page/パーソナルコンピュータ.md "wikilink")、[アニメ](../Page/アニメ.md "wikilink")など、[アキバ系](https://ja.wikipedia.org/wiki/アキバ系 "wikilink")の情報には非常に詳しいが、それが災いして優など会社の同僚から「すね毛の生えた[ピーター・パン](../Page/ピーター・パン.md "wikilink")」などと呼ばれたこともあった。所有しているパソコンは[マックだが](../Page/Macintosh.md "wikilink")、本人曰く「[マカー](https://ja.wikipedia.org/wiki/マカー "wikilink")じゃない」。
     「人を不幸にして、自分だけ幸せになるのは嫌だ」（第92回）という程普段は人柄の良い人物だが、キレたり調子に乗ったりすると人が変わってしまい、口調も乱暴になる。またネット上（特に[facebook](https://ja.wikipedia.org/wiki/facebook "wikilink")）では社内での姿とは全くの別人であり、安部と大場を唖然とさせた。
-    愛車は[日産・ウイングロード](../Page/日産・ウイングロード.md "wikilink")であったが、南総サトミとの結婚を機にたまたま見かけた日産ショールームに展示してあった[日産・ノート](https://ja.wikipedia.org/wiki/日産・ノート "wikilink") e-POWERを気に入り、購入する。
+    愛車は[日産・ウイングロード](../Page/日産・ウイングロード.md "wikilink")であったが、南総サトミとの結婚を機にたまたま見かけた日産ショールームに展示してあった[日産・ノート](../Page/日産・ノート.md "wikilink") e-POWERを気に入り、購入する。
     携帯の着信音は音程が普通の[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")の「[Marionette -マリオネット-](../Page/Marionette_\(BOOWYの曲\).md "wikilink")」。
     2013年12月23日以降、南総サトミと遠距離恋愛をしていたが、2015年10月2日のABE-GIGでプロポーズし無事受け入れられた。
     2017年1月22日に、日産 グローバル本社ギャラリーにおいて開催された「安部礼司フェスティバル2017～飯野とサトミのウェディングパーティー～」にて結婚式、披露宴を開催\[7\]。同年7月にはサトミとの間に第一子、半平太（はんぺいた）が誕生した。
@@ -77,7 +77,7 @@ TOKYO FM制作・[JFN系](../Page/全国FM放送協議会.md "wikilink")38局ネ
     家族は妻・カヨ（声：[野沢雅子](../Page/野沢雅子.md "wikilink")）と息子・まなぶ、娘・ケイコ（声：[伊藤修子](https://ja.wikipedia.org/wiki/伊藤修子 "wikilink")）の4人家族。他に、[タクシー](../Page/タクシー.md "wikilink")運転手の弟がいる。
     趣味は自分の経験を元にした[官能小説](../Page/官能小説.md "wikilink")の執筆。
     携帯の着信音は[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の「[いとしのエリー](../Page/いとしのエリー.md "wikilink")」。愛車は[日産・エルグランド](../Page/日産・エルグランド.md "wikilink")。
-  - 姫川 皐月（ひめかわ さつき）：[平田裕香](https://ja.wikipedia.org/wiki/平田裕香 "wikilink")\[9\]
+  - 姫川 皐月（ひめかわ さつき）：[平田裕香](../Page/平田裕香.md "wikilink")\[9\]
     シーズン4から登場。北海道[夕張市](../Page/夕張市.md "wikilink")出身。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[9月15日](../Page/9月15日.md "wikilink")生まれ。愛称は「姫」または「姫ちゃん」。
     開発本部第2グループ所属で逸田の部下だが、性格や仕事の仕方は逸田と正反対である。
     美少女な容姿と、押しの弱い性格（事ある毎に逸田にイビられている）に加え、たまに意味不明なオトボケな言動もしてしまう。その反面、冷静な分析力と強かな一面も持つ。
@@ -111,7 +111,7 @@ TOKYO FM制作・[JFN系](../Page/全国FM放送協議会.md "wikilink")38局ネ
     なんだかんだ言って、飯野とは気が合う。
     池杉輝義にクリスマスデートを誘われるが、実は池杉は彼女に似ている占い師に惚れているがアタックする勇気がなかったらしいが、つら美は「その人をちゃんと誘うべき」と忠告して、池杉と占い師をくっつける。
     阿部家でデート中、蘭たちに「ツラミ・プリンセス」と自称したので、逆に蘭に憧れられて会いたいといわれてしまい、優に呼び出されて「出張」する羽目になった。
-  - 石波 進（いしなみ すすむ）：[金成公信](https://ja.wikipedia.org/wiki/金成公信 "wikilink")
+  - 石波 進（いしなみ すすむ）：[金成公信](../Page/金成公信.md "wikilink")
     アンジュのことが好きな本屋の店員。
   - 御手洗到来（みたらい とうらい）：[小手伸也](https://ja.wikipedia.org/wiki/小手伸也 "wikilink")
     2019年4月から登場。役者を目指して会社を辞めてキッチンカーによるカレー店「トライ」を開業した、夢追い人である。
@@ -130,7 +130,7 @@ TOKYO FM制作・[JFN系](../Page/全国FM放送協議会.md "wikilink")38局ネ
 現在安部は優と結婚しているが、これまでに安部の周りで何度か登場した女性達が多数存在した。その中でも、主な登場人物を以下記述する。
 
   - 西園寺 玲子（さいおんじ れいこ）：[那須佐代子](https://ja.wikipedia.org/wiki/那須佐代子 "wikilink")
-    [鹿児島県](../Page/鹿児島県.md "wikilink")[枕崎市](https://ja.wikipedia.org/wiki/枕崎市 "wikilink")出身。大日本ジェネラル コンテンツ開発部課長。飯野曰く「叱られたい」と思うファンが多いらしく、飯野もその一人である。最初は安部と反目し合っていたが、徐々に彼の「フツーな部分」に惹かれていった。しかし、本人の希望であるニューヨークへの赴任が決まり、安部の前を去って行った。頑張りすぎる性格で、その辺を安部と大場は心配している。
+    [鹿児島県](../Page/鹿児島県.md "wikilink")[枕崎市](../Page/枕崎市.md "wikilink")出身。大日本ジェネラル コンテンツ開発部課長。飯野曰く「叱られたい」と思うファンが多いらしく、飯野もその一人である。最初は安部と反目し合っていたが、徐々に彼の「フツーな部分」に惹かれていった。しかし、本人の希望であるニューヨークへの赴任が決まり、安部の前を去って行った。頑張りすぎる性格で、その辺を安部と大場は心配している。
     大場部長と一緒に沼津へ行った浮気相手が彼女だと思われる（第5回）。第52回の放送で久しぶりに登場し、大場部長とは大人の会話を交わしていた。
   - 岩月 加奈（いわつき かな）：[小関里恵](../Page/小関里恵.md "wikilink")\[12\]
     [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[石巻市](../Page/石巻市.md "wikilink")出身。出演当時26歳。名前の由来は「曰く付きかな」。初登場時は安部のオフィスの近くにある衣料品店の店長だった。畳屋の軒先で夕立ちの雨宿りをしていた時に、安部と運命的な出会いを果たす。料理が得意で、趣味は読書と旅行。好物は[ホットケーキ](../Page/ホットケーキ.md "wikilink")。好きな場所は[図書館](../Page/図書館.md "wikilink")と鴨のいる公園。落ち着いた雰囲気と癒しの声から“ミラクルボイス”と称えられ、レギュラー陣と比べても非常にファンが多い。が、直ぐに泣いたり、頑固であったりと意外な一面ものぞかせる。心理テストによると、精神年齢は80歳と判定された。
@@ -140,12 +140,12 @@ TOKYO FM制作・[JFN系](../Page/全国FM放送協議会.md "wikilink")38局ネ
     その後も、安部と南野が泊まった沖縄のホテルに幻のような形で登場する（第72回）、東北出張中の安部が、彼女との思い出の地である宮城県石巻市の日和山公園を逡巡しながらも訪れる（第86回）など、他登場人物やナレーターの台詞に上る等、レギュラー（安部礼司の同僚）以外では重要な登場人物の一人となっている。
     [2007年](../Page/2007年.md "wikilink")[12月24日](../Page/12月24日.md "wikilink")「電リク\!今ツボだらけのくりすまスペシャル\!」では、「日産のCM 私がやってもいい加奈」という特別バージョンのCMを1時間置きに放送した。また、スペイン坂スタジオでのシルエット放送時、安部と優が席を外した際、再びラジオネーム「加奈ぽん」として刈谷に電話を掛けてきた。このときスタジオの外から掛けているとの事で、辺りが騒然となった。
     『か、刈谷勇』に出演したことがあるが、以前とキャラが変わりノリの良い性格になっており、刈谷からキジムナーかと疑われたり、刈谷イズムを受け継いでいると言われる。
-    携帯の着信音は[パッヘルベルの](https://ja.wikipedia.org/wiki/ヨハン・パッヘルベル "wikilink")「[カノン](https://ja.wikipedia.org/wiki/カノン_\(パッヘルベル\) "wikilink")」。
+    携帯の着信音は[パッヘルベルの](https://ja.wikipedia.org/wiki/ヨハン・パッヘルベル "wikilink")「[カノン](../Page/カノン_\(パッヘルベル\).md "wikilink")」。
   - 柿村 カテリーナ 和子（かきむら カテリーナ かずこ）：[古海裕子](https://ja.wikipedia.org/wiki/古海裕子 "wikilink")
-    安部と同期入社。安部曰く「[アフリカ](../Page/アフリカ.md "wikilink")の[コンゴ川](../Page/コンゴ川.md "wikilink")流域近くの小さな国出身」。好きな言葉は「やる時はやる」。嫌いな言葉は「やれるのにやらない」。名前の由来は[ハリケーン](../Page/ハリケーン.md "wikilink")の「[カトリーナ](https://ja.wikipedia.org/wiki/ハリケーン・カトリーナ "wikilink")」。
+    安部と同期入社。安部曰く「[アフリカ](../Page/アフリカ.md "wikilink")の[コンゴ川](../Page/コンゴ川.md "wikilink")流域近くの小さな国出身」。好きな言葉は「やる時はやる」。嫌いな言葉は「やれるのにやらない」。名前の由来は[ハリケーン](../Page/ハリケーン.md "wikilink")の「[カトリーナ](../Page/ハリケーン・カトリーナ.md "wikilink")」。
     気が強く、新人研修時代から皆に嫌われていたらしいが、安部だけには何やら違ったらしく、ツンデレの傾向がみられる。
     コンテンツ・ビジネス部へ研修に来たのは、自らの希望。
-    後に、インド支社へ異動することになる（第52回）。インドでは日本人美大生ヤッくんと[できちゃった結婚](https://ja.wikipedia.org/wiki/できちゃった結婚 "wikilink")すると告げ、安部を驚かせている（第89回）。
+    後に、インド支社へ異動することになる（第52回）。インドでは日本人美大生ヤッくんと[できちゃった結婚](../Page/できちゃった結婚.md "wikilink")すると告げ、安部を驚かせている（第89回）。
     安部が優への気持ちで揺れ動いていたとき、自らの結婚までのいきさつを話し、最後には安部の背中を押した。
   - 飯野 カナ（いいの カナ）：[池谷のぶえ](../Page/池谷のぶえ.md "wikilink")
     2006年現在で53歳。飯野平太の母。名前の由来は「いいのかな?」。
@@ -155,12 +155,12 @@ TOKYO FM制作・[JFN系](../Page/全国FM放送協議会.md "wikilink")38局ネ
     自分の息子の恋人、サトミのことを「毒蜘蛛」と言い牽制していたが、婚約を機に認めるようになった。
     矢田三郎とは学生時代からの親友。
     番組内CM「日産連続ラジオCM飯野と母ちゃん」に出演していた。
-  - 南野 凪子（みなみの なぎこ）：[富坂晶](https://ja.wikipedia.org/wiki/富坂晶 "wikilink")
+  - 南野 凪子（みなみの なぎこ）：[富坂晶](../Page/富坂晶.md "wikilink")
     [沖縄県](../Page/沖縄県.md "wikilink")出身のためか[泡盛](https://ja.wikipedia.org/wiki/泡盛 "wikilink")が好き。[フライトアテンダント](https://ja.wikipedia.org/wiki/フライトアテンダント "wikilink")で、安部とは合同コンパで出会う。
     安部の沖縄出張の際、ドライブに付き合ったことがその後のご当地ナビ開発に大きく影響したことなどコンテンツ・ビジネス部復活の影の功労者にもなっている。
     仕事上の行き詰まりがありフライト・アテンダントを辞めて沖縄に戻ることを安部に伝えた。本当は気になる存在だったが、倉橋優の存在を知り最後まで安部に対する気持ちを告白できなかった。
   - 神尾 結衣子（かみお ゆいこ）：[宮内知美](../Page/宮内知美.md "wikilink")
-    神保町にある[美容室](https://ja.wikipedia.org/wiki/美容室 "wikilink")「サロン・ド・ロン」の新人[美容師](https://ja.wikipedia.org/wiki/美容師 "wikilink")。27歳。[岩手県](../Page/岩手県.md "wikilink")[宮古市](https://ja.wikipedia.org/wiki/宮古市 "wikilink")出身。実家はスーパーを経営。
+    神保町にある[美容室](https://ja.wikipedia.org/wiki/美容室 "wikilink")「サロン・ド・ロン」の新人[美容師](../Page/美容師.md "wikilink")。27歳。[岩手県](../Page/岩手県.md "wikilink")[宮古市](https://ja.wikipedia.org/wiki/宮古市 "wikilink")出身。実家はスーパーを経営。
     頑固者の兄がいる。
     名前の由来は、美容師の職業をそのまま表した「髪を結う」から。
     すぐ泣いてしまうが「全てのことに意味はある」と考える、非常に前向きな性格でもある。最初の客が尾藤怜で、最初はかなり怒られていたが、それに耐えて一人前に成長した。
@@ -170,21 +170,21 @@ TOKYO FM制作・[JFN系](../Page/全国FM放送協議会.md "wikilink")38局ネ
     携帯の着信音は宇多田ヒカルの「[Automatic](https://ja.wikipedia.org/wiki/Automatic/time_will_tell "wikilink")」（着うた）。
   - 満里奈（まりな）：[飯塚雅弓](../Page/飯塚雅弓.md "wikilink")
     3年前（放送当時の2010年2月14日から数えると、2007年）、安部と飯野と大場が通っていた定食屋で[アルバイト](../Page/アルバイト.md "wikilink")をしていた女性。
-    3年前の[バレンタインに](https://ja.wikipedia.org/wiki/バレンタインデー "wikilink")、常連客の安部と飯野と大場に義理チョコを贈る。しかし、安部宛てのチョコレートのみに細工をし、自身の[携帯電話](../Page/携帯電話.md "wikilink")の番号と告白の手紙を忍ばせていた。しかし安部は全く気づかず、満里奈からのチョコレートをどうしたかも記憶にない。
+    3年前の[バレンタインに](../Page/バレンタインデー.md "wikilink")、常連客の安部と飯野と大場に義理チョコを贈る。しかし、安部宛てのチョコレートのみに細工をし、自身の[携帯電話](../Page/携帯電話.md "wikilink")の番号と告白の手紙を忍ばせていた。しかし安部は全く気づかず、満里奈からのチョコレートをどうしたかも記憶にない。
     安部が満里奈の経営する喫茶店に立ち寄ったことで偶然満里奈と再会する。そのとき安部が結婚指輪をしていなかった（黒ずんでいたので、優が洗浄に出すと言って預かっていた）ため、満里奈は安部がまだ独身であると誤解し、安部にアプローチする。バレンタインデー当日に安部と神保町の女坂に行き、本命チョコを渡し告白するが、優と鉢合わせしてしまう。
-    ただし、上記の一連のエピソードはすべて[夢オチ](https://ja.wikipedia.org/wiki/夢オチ "wikilink")である。
+    ただし、上記の一連のエピソードはすべて[夢オチ](../Page/夢オチ.md "wikilink")である。
 
 ### ゲスト
 
 番組内に著名人が本人役（もしくは本人を強く示唆させる役）で登場することがある。特記なき人物は本人役として出演。
 
-  - [谷啓](https://ja.wikipedia.org/wiki/谷啓 "wikilink") - 大日本ジェネラルの会長役。
+  - [谷啓](../Page/谷啓.md "wikilink") - 大日本ジェネラルの会長役。
   - [GTP](../Page/GTP_\(音楽グループ\).md "wikilink") - [静岡駅](../Page/静岡駅.md "wikilink")の売り子及び本人役。
-  - [吉田栄作](https://ja.wikipedia.org/wiki/吉田栄作 "wikilink") - 本人役、刈谷の先輩で上司の「星田栄作（ほしだ えいさく）」役、モテキャラに変身した安部として3度登場。
+  - [吉田栄作](../Page/吉田栄作.md "wikilink") - 本人役、刈谷の先輩で上司の「星田栄作（ほしだ えいさく）」役、モテキャラに変身した安部として3度登場。
   - [ルー大柴](../Page/ルー大柴.md "wikilink") - タクシー運転手の「麻生ジロウ（あそう じろう）」役、社員旅行での宿泊先の主人「マイケル近藤（マイケル こんどう）」役、刈谷と星田の上司「犬柴（いぬしば）」役。
   - [森口博子](../Page/森口博子.md "wikilink") - “自称”国際派シンガー「森内博子（もりうち ひろこ）」役。
-  - [日高のり子](https://ja.wikipedia.org/wiki/日高のり子 "wikilink") - 安部と同期の槍杉達也の婚約者「[佐倉 南（さくら みなみ）](../Page/タッチ_\(漫画\).md "wikilink")」役。
-  - [パンツェッタ・ジローラモ](https://ja.wikipedia.org/wiki/パンツェッタ・ジローラモ "wikilink")\[13\]
+  - [日高のり子](../Page/日高のり子.md "wikilink") - 安部と同期の槍杉達也の婚約者「[佐倉 南（さくら みなみ）](../Page/タッチ_\(漫画\).md "wikilink")」役。
+  - [パンツェッタ・ジローラモ](../Page/パンツェッタ・ジローラモ.md "wikilink")\[13\]
   - [国生さゆり](../Page/国生さゆり.md "wikilink") - コンテンツ・ビジネス部OGで安部らの先輩「国生さゆり」役。
   - [平原綾香](https://ja.wikipedia.org/wiki/平原綾香 "wikilink") - 本人役（本番組の後番組『[森永乳業presents 平原綾香のヒーリング・ヴィーナス](../Page/森永乳業presents_平原綾香のヒーリング・ヴィーナス.md "wikilink")』の「スタジオ入りの時間を間違えた」という設定で登場）。
   - [南野陽子](https://ja.wikipedia.org/wiki/南野陽子 "wikilink")
@@ -196,7 +196,7 @@ TOKYO FM制作・[JFN系](../Page/全国FM放送協議会.md "wikilink")38局ネ
   - [大平透](../Page/大平透.md "wikilink") - 管理職のココロのスキマを埋める商品を提供する「[「せぇるすまん」トグロマキゾウ](https://ja.wikipedia.org/wiki/笑ウせぇるすまん "wikilink")」役で登場。
   - [浅野ゆう子](../Page/浅野ゆう子.md "wikilink") - 大日本ジェネラル香港支社長、「浅野裕子（あさの ゆうこ）」役で登場。
   - [布袋寅泰](../Page/布袋寅泰.md "wikilink") - 群馬の高崎営業所からやってきた「ROCK部長」役で登場。
-  - [久保田利伸](https://ja.wikipedia.org/wiki/久保田利伸 "wikilink") - ニューヨーク支社からやってきた「ファンキー部長」こと「クボタ」役で登場。
+  - [久保田利伸](../Page/久保田利伸.md "wikilink") - ニューヨーク支社からやってきた「ファンキー部長」こと「クボタ」役で登場。
   - [菊池桃子](../Page/菊池桃子.md "wikilink") - 安部礼司の高校の先輩、「菊内（きくのうち）桃子」役で登場。
   - [浅香唯](https://ja.wikipedia.org/wiki/浅香唯 "wikilink") - 安部優のママ友「風間々唯」役として登場。
   - [肝付兼太](../Page/肝付兼太.md "wikilink") - 1992年当時の安部礼司に六本木を案内した伝説の遊び人「ケロン・ガマ崎」役、営業社員「[骨川田ツネ夫](../Page/骨川スネ夫.md "wikilink")」で登場。
@@ -208,14 +208,14 @@ TOKYO FM制作・[JFN系](../Page/全国FM放送協議会.md "wikilink")38局ネ
   - [川瀬良子](../Page/川瀬良子.md "wikilink") - 本人役。
   - [国広富之](../Page/国広富之.md "wikilink")、[松崎しげる](https://ja.wikipedia.org/wiki/松崎しげる "wikilink") - 大日本ジェネラル経理部の「[噂の経理トミーとマツ](https://ja.wikipedia.org/wiki/噂の刑事トミーとマツ#放送後のトミーとマツ "wikilink")」として登場。
   - [達増拓也](../Page/達増拓也.md "wikilink") - 本人役。
-  - [山下達郎](../Page/山下達郎.md "wikilink") - 本人役。TOKYO FMのラジオ番組『[山下達郎のサンデー・ソングブック](https://ja.wikipedia.org/wiki/山下達郎のサンデー・ソングブック "wikilink")』に送られてきた刈谷の葉書の字が汚すぎて読めず、ボツにした\[14\]。
+  - [山下達郎](../Page/山下達郎.md "wikilink") - 本人役。TOKYO FMのラジオ番組『[山下達郎のサンデー・ソングブック](../Page/山下達郎のサンデー・ソングブック.md "wikilink")』に送られてきた刈谷の葉書の字が汚すぎて読めず、ボツにした\[14\]。
   - [伊集加代](../Page/伊集加代.md "wikilink") - 懐かしの昭和のスキャットでみんなを幸せにする「スキャットおばさん」として登場。
   - [キンタロー。](https://ja.wikipedia.org/wiki/キンタロー。 "wikilink") - 新入社員「[前田キンタロー。子](https://ja.wikipedia.org/wiki/前田敦子 "wikilink")」役で二回登場。
   - [辛島美登里](https://ja.wikipedia.org/wiki/辛島美登里 "wikilink") - 本人役。あきる野の中学校時代の先輩。
   - [ゴスペラーズ](../Page/ゴスペラーズ.md "wikilink") - 2013年9月22日放送回に大日本ジェネラルの「マンパワートレーニングアンドエモーショナルシンガーソング事業部」の社員5名として出演\[15\]。2017年3月26日放送回にも同役で出演\[16\]。
-  - [吉川晃司](https://ja.wikipedia.org/wiki/吉川晃司 "wikilink") - 大日本ジェネラルの「[モニカ部長](../Page/モニカ_\(曲\).md "wikilink")」ならぬ「モナカ部長」こと「吉川部長」役で登場\[17\]。
-  - [斉藤由貴](https://ja.wikipedia.org/wiki/斉藤由貴 "wikilink") - 安部の元同期社員「[夜宮サキ](https://ja.wikipedia.org/wiki/麻宮サキ "wikilink")」役で登場。
-  - [森友嵐士](https://ja.wikipedia.org/wiki/森友嵐士 "wikilink") - アンジュの兄「大兄ちゃん」役で登場。
+  - [吉川晃司](../Page/吉川晃司.md "wikilink") - 大日本ジェネラルの「[モニカ部長](../Page/モニカ_\(曲\).md "wikilink")」ならぬ「モナカ部長」こと「吉川部長」役で登場\[17\]。
+  - [斉藤由貴](https://ja.wikipedia.org/wiki/斉藤由貴 "wikilink") - 安部の元同期社員「[夜宮サキ](../Page/麻宮サキ.md "wikilink")」役で登場。
+  - [森友嵐士](../Page/森友嵐士.md "wikilink") - アンジュの兄「大兄ちゃん」役で登場。
   - [有森也実](https://ja.wikipedia.org/wiki/有森也実 "wikilink") - ご当地ナビの商標権を取得したグローバル興産側の弁護士「風間アカネ」役で登場。
   - [皆口裕子](../Page/皆口裕子.md "wikilink") - 2008年4月20日放送分でナレーターとして出演。
   - [水樹奈々](../Page/水樹奈々.md "wikilink") - 開発本部をつぶそうとたくらむ「楽園（えでん）奈々」役など多数の役として出演\[18\]\[19\]。
@@ -224,13 +224,13 @@ TOKYO FM制作・[JFN系](../Page/全国FM放送協議会.md "wikilink")38局ネ
   - [FROGMAN](../Page/FROGMAN.md "wikilink") - 本人・総統・吉田君役
   - [高橋みなみ](https://ja.wikipedia.org/wiki/高橋みなみ "wikilink") - 本人役。アンジュが新入社員時代で世話になったという伝説のリーダー社員として登場。TOKYO FMのラジオ番組『[高橋みなみの これから、何する?](https://ja.wikipedia.org/wiki/高橋みなみの_これから、何する? "wikilink")』とのコラボ企画\[22\]。
   - [足立梨花](https://ja.wikipedia.org/wiki/足立梨花 "wikilink") - 永太の通う小学校の教育実習生役として登場\[23\]。
-  - [フジファブリック](https://ja.wikipedia.org/wiki/フジファブリック "wikilink") - 本人役。後述するイベントにも出演。
+  - [フジファブリック](../Page/フジファブリック.md "wikilink") - 本人役。後述するイベントにも出演。
   - [佐野ひなこ](https://ja.wikipedia.org/wiki/佐野ひなこ "wikilink")、[筧美和子](https://ja.wikipedia.org/wiki/筧美和子 "wikilink") - 旅行代理店から出てきたOL「真野 奈々子」「影井ミワ」役として出演\[24\]。
   - [武井壮](https://ja.wikipedia.org/wiki/武井壮 "wikilink") - 新入社員「百獣野 王太郎」として出演。
-  - [さかなクン](https://ja.wikipedia.org/wiki/さかなクン "wikilink") - 魚に詳しいサラリーマン「魚君（うおぎみ）」として出演。
+  - [さかなクン](../Page/さかなクン.md "wikilink") - 魚に詳しいサラリーマン「魚君（うおぎみ）」として出演。
   - [りゅうちぇる](https://ja.wikipedia.org/wiki/りゅうちぇる "wikilink") - 安部と同じ会社の営業課主任「虎舞竜一」を演じた。だが、変化して「ちぇるちぇるランドのりゅうちぇる主任」とキャラクターが変わる。
-  - [アイデンティティ](https://ja.wikipedia.org/wiki/アイデンティティ_\(お笑いコンビ\) "wikilink") - [孫悟空にあこがれる営業部の若手社員](https://ja.wikipedia.org/wiki/孫悟空_\(ドラゴンボール\) "wikilink")「[野沢雅男](../Page/野沢雅子.md "wikilink")」役、および[ナレーション](../Page/八奈見乗児.md "wikilink")。
-  - [山下真司](../Page/山下真司.md "wikilink") - 安部と同じ会社の[泣き虫部長こと](https://ja.wikipedia.org/wiki/スクール☆ウォーズ "wikilink")「滝沢田賢治郎」として出演\[25\]。
+  - [アイデンティティ](https://ja.wikipedia.org/wiki/アイデンティティ_\(お笑いコンビ\) "wikilink") - [孫悟空にあこがれる営業部の若手社員](../Page/孫悟空_\(ドラゴンボール\).md "wikilink")「[野沢雅男](../Page/野沢雅子.md "wikilink")」役、および[ナレーション](../Page/八奈見乗児.md "wikilink")。
+  - [山下真司](../Page/山下真司.md "wikilink") - 安部と同じ会社の[泣き虫部長こと](../Page/スクール☆ウォーズ.md "wikilink")「滝沢田賢治郎」として出演\[25\]。
 
 ### その他の登場人物
 
@@ -244,7 +244,7 @@ TOKYO FM制作・[JFN系](../Page/全国FM放送協議会.md "wikilink")38局ネ
     周囲の者に“テンプルにカチンとくる”行動を取るのが特徴（前述の笑い声も周囲からは「テンプルにカチンとくる笑い声」と称される）。この笑い声は楽しいため笑う時と、安部の「あたっ」同様失敗時に笑う時と2つある。
     しゃべり方にも特徴があり、自分の名前を名乗る時は「きゃーりやいさむ“どエス”\!」と言い、[一人称](../Page/一人称.md "wikilink")でしばしば「ボキ」を使用する。また、安部のことを「安部きゅん」と呼び、大場は「ぶっちょさん」、飯野は「イーノっす君」、逸田は「言ったっしょさん」と呼ぶ。
     家族は妻・いずみと一人娘・のん。妻とはまだ貧しかった学生時代に結婚。娘ののんはもともと理系だったが文系に転向した。
-    愛車は[日産・ラフェスタ](https://ja.wikipedia.org/wiki/日産・ラフェスタ "wikilink")であったが、2015年6月ごろの番組中のCMを聞く限り[日産・エクストレイル](https://ja.wikipedia.org/wiki/日産・エクストレイル "wikilink")へ乗り換えた模様。
+    愛車は[日産・ラフェスタ](../Page/日産・ラフェスタ.md "wikilink")であったが、2015年6月ごろの番組中のCMを聞く限り[日産・エクストレイル](../Page/日産・エクストレイル.md "wikilink")へ乗り換えた模様。
     携帯の着信音は『[スター・ウォーズ](https://ja.wikipedia.org/wiki/スター・ウォーズ "wikilink")』のオープニングテーマ曲→[チェッカーズ](../Page/チェッカーズ.md "wikilink")の「星屑のステージ」（かかってくる人によって着信音を変えており、安部からは[槇原敬之](../Page/槇原敬之.md "wikilink")「The Average Man Keeps Walking.」、妻いずみからの電話は『スター・ウォーズ』のダースベーダーのテーマに設定されている）。※CMでは[森高千里](../Page/森高千里.md "wikilink")「ラララ ドライビング ラララ ラフェスタ」。
     番組の終盤、安部の携帯に電話をかけることが多い。
     刈谷ファンのことを「カリヤー」と呼ぶ（これは番組内で刈谷が実際に使っている）。
@@ -255,7 +255,7 @@ TOKYO FM制作・[JFN系](../Page/全国FM放送協議会.md "wikilink")38局ネ
 
   - 久留間 翼（くるま つばさ）：[桐本琢也](https://ja.wikipedia.org/wiki/桐本琢也 "wikilink")
     1971年生まれ。誕生日が登場時ごとに異なるが、現在は11月23日（いい日産の日）生まれになった模様（大募集\! 安部礼司の友達10.000人キャンペーン公式サイト\[[http://www.tfm.co.jp/abe/ambition/krm48.php\]より](http://www.tfm.co.jp/abe/ambition/krm48.php%5Dより)）
-    名前の由来は日産自動車が提供するカーナビのサービス「[カーウイングス](https://ja.wikipedia.org/wiki/カーウイングス "wikilink")」の直訳から。
+    名前の由来は日産自動車が提供するカーナビのサービス「[カーウイングス](../Page/カーウイングス.md "wikilink")」の直訳から。
     安部と同学年で3人の子持ち。
     悪酔いすると変な関西弁やラムちゃん言葉でしゃべる癖がある。
     登場当初は開発事業本部本部長として[N社カーナビ担当であったが](../Page/日産自動車.md "wikilink")、現在は熱血営業マンとして全国を駆け回っているようだ。
@@ -272,12 +272,12 @@ TOKYO FM制作・[JFN系](../Page/全国FM放送協議会.md "wikilink")38局ネ
     [窓際族](https://ja.wikipedia.org/wiki/窓際族 "wikilink")で、必ず五時半にドロンする（＝帰る）。
     登場のたびに「あ〜、やだやだ。」とよくつぶやくが、これは口癖ではなく、[トレードマーク](https://ja.wikipedia.org/wiki/トレードマーク "wikilink")である。「ヤアダ」（嫌だ）が口癖だという。
     他人の愚痴を聞くのが趣味。誰かの悪口・悪癖など、その手の情報にはかなり精通している様子。
-    嫌味で皮肉屋、陰険で天邪鬼な性格。趣味は[ペタンク](https://ja.wikipedia.org/wiki/ペタンク "wikilink")。
+    嫌味で皮肉屋、陰険で天邪鬼な性格。趣味は[ペタンク](../Page/ペタンク.md "wikilink")。
     [Perfume](https://ja.wikipedia.org/wiki/Perfume "wikilink")の[かしゆかに対抗しているのか](https://ja.wikipedia.org/wiki/樫野有香 "wikilink")、自称「やださぶ」。
     [Twitter](../Page/Twitter.md "wikilink")に社内の愚痴をつぶやくことを趣味にしているらしく、実際にTwitterアカウント\[[http://twitter.com/yadasabu\]が存在する。公開生放送時にはつぶやく様子が見られたが、以降は投稿がなされていない](http://twitter.com/yadasabu%5Dが存在する。公開生放送時にはつぶやく様子が見られたが、以降は投稿がなされていない)。
   - 飯野 サトミ（いいの サトミ）（旧姓南総）：[寺崎裕香](../Page/寺崎裕香.md "wikilink")
     名前の由来は『[南総里見八犬伝](../Page/南総里見八犬伝.md "wikilink")』（⇒南総サトミ派遣伝）から。
-    実家は温泉旅館。気が緩むと[熊本弁](https://ja.wikipedia.org/wiki/熊本弁 "wikilink")が出る。
+    実家は温泉旅館。気が緩むと[熊本弁](../Page/熊本弁.md "wikilink")が出る。
     当初は、あまり仕事が出来ない可愛いだけの派遣社員だと思われたが、実は仕事の出来るスーパー派遣社員であることが判明。
     携帯の着信音は森高千里の「ラララ ドライビング ラララ ラフェスタ」。
     2013年12月24日以降、飯野平太と遠距離恋愛をしていたが、2015年10月2日のABE-GIGでプロポーズされ、受け入れた。飯野の[ガンプラ](../Page/ガンプラ.md "wikilink")愛は理解出来ないが、[新しいガンダムの事に関してはやたら詳しいらしい](https://ja.wikipedia.org/wiki/機動戦士ガンダム_鉄血のオルフェンズ "wikilink")。
@@ -294,12 +294,12 @@ TOKYO FM制作・[JFN系](../Page/全国FM放送協議会.md "wikilink")38局ネ
   - 尾藤 怜（びとう れい）：[山賀教弘](https://ja.wikipedia.org/wiki/山賀教弘 "wikilink")
     シーズン2から登場。
     オールバックで険しい顔つきであり、安部曰く「楽しいことが無いのかなぁ」。体格はなかなかのもので、[ビリーズブートキャンプ](../Page/ビリーズブートキャンプ.md "wikilink")で鍛えたという。
-    優の祖父には世話になっているが、優には「友達いないでしょ?」と言われるほど嫌味な言動が多く嫌われている。刈谷とは違い「友達など[負け犬](https://ja.wikipedia.org/wiki/負け犬 "wikilink")の幻想」と切り捨てる冷酷さを持つ強気な性格。
+    優の祖父には世話になっているが、優には「友達いないでしょ?」と言われるほど嫌味な言動が多く嫌われている。刈谷とは違い「友達など[負け犬](../Page/負け犬.md "wikilink")の幻想」と切り捨てる冷酷さを持つ強気な性格。
     携帯電話の着信音は[トッカータとフーガニ短調](https://ja.wikipedia.org/wiki/トッカータとフーガニ短調 "wikilink")。
     名前の漢字表記は[各回のあらすじ](http://www.tfm.co.jp/abe/outlines/season2.php)参照。
   - 遠藤 仁（えんどう じん）：[安田昌平](../Page/安田昌平.md "wikilink")
     シーズン2から登場。新しく立ち上げたソフトウェア開発部のグループリーダーとして大日本ジェネラルに中途入社。
-    [小栗旬](https://ja.wikipedia.org/wiki/小栗旬 "wikilink")似で社内の多くの女性から「イケメン」と呼ばれ注目される存在となっている。愛称は「エンディ」。
+    [小栗旬](../Page/小栗旬.md "wikilink")似で社内の多くの女性から「イケメン」と呼ばれ注目される存在となっている。愛称は「エンディ」。
     優の元カレ（大学の2年後輩）で、優との復縁を狙っていたが、優の気持ちを知り、彼女の幸せを願い、自ら身を引いた。名前の由来は英語読みでThe ENDから。
   - 西 久美子（にし くみこ）：[仲村萌実](https://ja.wikipedia.org/wiki/仲村萌実 "wikilink")
     シーズン3から登場。研修に来た新入社員。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[6月29日](../Page/6月29日.md "wikilink")生まれ。
@@ -312,11 +312,11 @@ TOKYO FM制作・[JFN系](../Page/全国FM放送協議会.md "wikilink")38局ネ
     シーズン4から登場。開発本部第2グループ（旧コミュニケーションビジネス部）のリーダー。
     勝気な性格。また、細かすぎる性格のため、得意先から面倒くさがられることがある。
     口癖は「私言ったよね? 言ったっしょ?」。
-    自称「[歴女](https://ja.wikipedia.org/wiki/歴女 "wikilink")」で、[真田幸村のファン](https://ja.wikipedia.org/wiki/真田信繁 "wikilink")。
+    自称「[歴女](https://ja.wikipedia.org/wiki/歴女 "wikilink")」で、[真田幸村のファン](../Page/真田信繁.md "wikilink")。
     バブルを引きずっていると評される。
     部署統合による開発本部発足初日、当時は同格であった安部がハンカチを忘れてきた事から、（初対面からいきなり）「ハンカチ無し王子」と蔑称し、すかさず職場内で広めてしまう等、コミュニケーション能力が低いのか高いのかよく判らない面がある。
     愛車は[日産・フェアレディZ](../Page/日産・フェアレディZ.md "wikilink")。
-  - 刈谷 いずみ（かりや いずみ）：（旧姓：森野）[小林さやか](https://ja.wikipedia.org/wiki/小林さやか "wikilink")
+  - 刈谷 いずみ（かりや いずみ）：（旧姓：森野）[小林さやか](../Page/小林さやか.md "wikilink")
     刈谷勇の妻。安部や永太と同じ[10月10日](../Page/10月10日.md "wikilink")生まれ。[岩手県](../Page/岩手県.md "wikilink")出身で、[盛岡市](https://ja.wikipedia.org/wiki/盛岡市 "wikilink")の[福田パン](../Page/福田パン.md "wikilink")が好物。
     刈谷とは大学時代に彼の風貌を馬鹿にした他の学生を平手打ちしたことがきっかけで出逢い、現在の刈谷の性格に影響を与えた。「ぬぁーっはっはっはっはっ\!」という刈谷の笑い声は、学生時代感情の乏しかった刈谷に対するいずみの「笑った方がいい」という言葉が始まりで、彼女も度々同じ笑い方をする。
     仕事ばかりで家族のことを蔑ろにしがちな刈谷に不満を持ち、よく娘と共に家出をする。家庭環境は冷え切っているが、夫への愛が無くなっているわけではなく、刈谷が他人に馬鹿にされた時は「夫を馬鹿にしていいのは自分だけ」と激昂する場面を見せた。
@@ -332,7 +332,7 @@ TOKYO FM制作・[JFN系](../Page/全国FM放送協議会.md "wikilink")38局ネ
     矢田三郎の同期。
     シーズン5をもって沖縄支社へ異動した。
   - 安室礼司（あむろ れいじ）：[古谷徹](../Page/古谷徹.md "wikilink")
-    大日本ジェネラルの新人社員（安部の後輩）。名前の由来は『[機動戦士ガンダム](../Page/機動戦士ガンダム.md "wikilink")』の主人公・[アムロ・レイ](https://ja.wikipedia.org/wiki/アムロ・レイ "wikilink")（演じる古谷はアムロ役の声優である）。
+    大日本ジェネラルの新人社員（安部の後輩）。名前の由来は『[機動戦士ガンダム](../Page/機動戦士ガンダム.md "wikilink")』の主人公・[アムロ・レイ](../Page/アムロ・レイ.md "wikilink")（演じる古谷はアムロ役の声優である）。
     安部と共に忘年会の会場探しに奔走し、その後大阪→札幌→本社→松江→北京へと異動している。
 
 **溜口 雄太（ためぐち ゆうた）：宮本奈津美**
@@ -351,7 +351,7 @@ TOKYO FM制作・[JFN系](../Page/全国FM放送協議会.md "wikilink")38局ネ
 
 ## 大日本ジェネラル
 
-ストーリーの中心になる「大日本ジェネラル」は、某電器メーカー傘下の中堅企業で、社員は約80名在籍。2018年で創業60周年を迎えるという設定。[大阪](../Page/大阪.md "wikilink")、[札幌](https://ja.wikipedia.org/wiki/札幌市 "wikilink")、[松江](../Page/松江市.md "wikilink")、[高崎](../Page/高崎市.md "wikilink")、[沖縄](../Page/沖縄県.md "wikilink")、[ニューヨーク](../Page/ニューヨーク.md "wikilink")、[アラスカ](https://ja.wikipedia.org/wiki/アラスカ "wikilink")、[インド](../Page/インド.md "wikilink")、[北京](https://ja.wikipedia.org/wiki/北京 "wikilink")、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")にも支社があるらしい。また地方に「大日本ジェネラル倉庫」という[子会社](https://ja.wikipedia.org/wiki/子会社 "wikilink")があるらしく、安室礼司が人事異動で大阪から札幌へ異動になった際、安部は「ミス1つで鬼のような人事、結構侮れないぜ、大日本ジェネラル」と心の中で呟いていた点から、人事に関しては結構厳しい様子。
+ストーリーの中心になる「大日本ジェネラル」は、某電器メーカー傘下の中堅企業で、社員は約80名在籍。2018年で創業60周年を迎えるという設定。[大阪](../Page/大阪.md "wikilink")、[札幌](https://ja.wikipedia.org/wiki/札幌市 "wikilink")、[松江](../Page/松江市.md "wikilink")、[高崎](../Page/高崎市.md "wikilink")、[沖縄](../Page/沖縄県.md "wikilink")、[ニューヨーク](../Page/ニューヨーク.md "wikilink")、[アラスカ](https://ja.wikipedia.org/wiki/アラスカ "wikilink")、[インド](../Page/インド.md "wikilink")、[北京](https://ja.wikipedia.org/wiki/北京 "wikilink")、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")にも支社があるらしい。また地方に「大日本ジェネラル倉庫」という[子会社](../Page/子会社.md "wikilink")があるらしく、安室礼司が人事異動で大阪から札幌へ異動になった際、安部は「ミス1つで鬼のような人事、結構侮れないぜ、大日本ジェネラル」と心の中で呟いていた点から、人事に関しては結構厳しい様子。
 
   - 2006年度
     新たなる部署として「**コンテンツ・ビジネス部**」を設立。この目的は[ソフトウェア](../Page/ソフトウェア.md "wikilink")新規参入を計画することによる。部長の大場を筆頭に、安部ら3名が所属。新規部署で、まだ発展途上ということもあり、成果は今一歩といったところである。安部のアイデアで各地域の観光スポットなどを収めた[カーナビソフト](../Page/カーナビゲーション.md "wikilink")「**ご当地NAVI**」を開発し、納品作業完了と相成った。
@@ -388,12 +388,12 @@ TOKYO FM制作・[JFN系](../Page/全国FM放送協議会.md "wikilink")38局ネ
 
 ## テーマソング
 
-  - 「メインテーマ」（映画『[荒野の七人](https://ja.wikipedia.org/wiki/荒野の七人 "wikilink")』より）
-    作曲 [エルマー・バーンスタイン](https://ja.wikipedia.org/wiki/エルマー・バーンスタイン "wikilink")
+  - 「メインテーマ」（映画『[荒野の七人](../Page/荒野の七人.md "wikilink")』より）
+    作曲 [エルマー・バーンスタイン](../Page/エルマー・バーンスタイン.md "wikilink")
   - シーズン3途中〜「The average man keeps walking.」
     作詞・作曲・歌 [槇原敬之](../Page/槇原敬之.md "wikilink")
   - シーズン5〜「春の日 夏の陽 日曜日」
-    作詞・歌 渡辺美里・作曲 [大江千里](https://ja.wikipedia.org/wiki/大江千里_\(アーティスト\) "wikilink")
+    作詞・歌 渡辺美里・作曲 [大江千里](../Page/大江千里_\(アーティスト\).md "wikilink")
   - シーズン10途中～シーズン13途中「日曜日に会おうよ 〜Great Average Days〜」
     作詞：村上大樹・作曲：金子隆博
     歌：TEAM 安部礼司\[33\]
@@ -405,7 +405,7 @@ TOKYO FM制作・[JFN系](../Page/全国FM放送協議会.md "wikilink")38局ネ
 これらの特別番組は原則として**東京ローカル**で放送される。
 
   - 2006年[8月6日](../Page/8月6日.md "wikilink")[日曜日](../Page/日曜日.md "wikilink") 19:00-20:00（JST） サンデースペシャル あ、安部礼司 -BEYOND THE AVERAGE- スペシャルエディション 〜ザ・番外編
-  - 2006年[11月23日](../Page/11月23日.md "wikilink")[木曜日](https://ja.wikipedia.org/wiki/木曜日 "wikilink") 18:00-19:00（JST） ホリデースペシャル あ、安部礼司 -BEYOND THE AVERAGE- 今さらツボなセレクション 冬の陣
+  - 2006年[11月23日](../Page/11月23日.md "wikilink")[木曜日](../Page/木曜日.md "wikilink") 18:00-19:00（JST） ホリデースペシャル あ、安部礼司 -BEYOND THE AVERAGE- 今さらツボなセレクション 冬の陣
   - 2007年[5月27日](../Page/5月27日.md "wikilink")日曜日 19:00-20:00（JST） サンデースペシャル あ、安部礼司 -BEYOND THE AVERAGE- 清く正しくサラリーマン\!
   - 2007年[9月2日](../Page/9月2日.md "wikilink")日曜日 19:00-20:00（JST） サンデースペシャル か、刈谷勇 今さらツボなセレクション 夏の歌を聴かせて\!
       -
@@ -413,7 +413,7 @@ TOKYO FM制作・[JFN系](../Page/全国FM放送協議会.md "wikilink")38局ネ
   - 2008年[8月31日](../Page/8月31日.md "wikilink")日曜日 19:00-20:00（JST） TOKYO FMサンデースペシャル NISSANあ、安部礼司 緊急生放送 お疲れサマーin湘南
   - 2009年[9月23日](../Page/9月23日.md "wikilink")[水曜日](../Page/水曜日.md "wikilink") 11:30-18:55（JST）TOKYO FMホリデースペシャル IMATSUBO X
       -
-        コンピレーション・アルバムCD第2弾となる『IMATSUBO X』発売を記念して80年代J-POPなどを中心に送る特番。パーソナリティは[半田健人](https://ja.wikipedia.org/wiki/半田健人 "wikilink")、進行役にTOKYO FM[古賀涼子アナウンサーで](https://ja.wikipedia.org/wiki/古賀涼子_\(アナウンサー\) "wikilink")、ゲストとして刈谷勇が出演。実際は安部礼司色の弱い内容だが、「IMATSUBO」＝「今ツボ」自体はこの番組から生まれた言葉である。
+        コンピレーション・アルバムCD第2弾となる『IMATSUBO X』発売を記念して80年代J-POPなどを中心に送る特番。パーソナリティは[半田健人](../Page/半田健人.md "wikilink")、進行役にTOKYO FM[古賀涼子アナウンサーで](https://ja.wikipedia.org/wiki/古賀涼子_\(アナウンサー\) "wikilink")、ゲストとして刈谷勇が出演。実際は安部礼司色の弱い内容だが、「IMATSUBO」＝「今ツボ」自体はこの番組から生まれた言葉である。
   - 2015年3月30日〜 2016年3月31日　月 - 木 18:57 - 18:59（「[Skyrocket Company](https://ja.wikipedia.org/wiki/Skyrocket_Company "wikilink")」直後） 平日、安部礼司
       -
         ちょうど仕事を終えたばかりの安部と刈谷が神保町で話し込んでいるさまを描くミニドラマ。
@@ -447,7 +447,7 @@ TOKYO FM制作・[JFN系](../Page/全国FM放送協議会.md "wikilink")38局ネ
 
 ### ウェディングパーティー 〜本気でオンリー優
 
-  - 2009年3月8日に[渋谷CCレモンホールで開催され](https://ja.wikipedia.org/wiki/渋谷公会堂 "wikilink")、その模様は3月15日の放送（第155回）でダイジェストで流された。
+  - 2009年3月8日に[渋谷CCレモンホールで開催され](../Page/渋谷公会堂.md "wikilink")、その模様は3月15日の放送（第155回）でダイジェストで流された。
   - EPO、槇原敬之（ビデオレター出演）、渡辺美里がそれぞれ2曲ずつ歌った。
   - 過去に出演したデーモン小暮閣下、森口博子、石井竜也、ルー大柴、平原綾香からお祝いメッセージが寄せられた。
   - 岩月加奈、飯野カナ、神尾結衣子の3人が「シュガーレス」として登場し、「[ウエディング・ベル](https://ja.wikipedia.org/wiki/ウエディング・ベル "wikilink")」の替え歌を披露した。
@@ -479,7 +479,7 @@ TOKYO FM制作・[JFN系](../Page/全国FM放送協議会.md "wikilink")38局ネ
 タイトルには「刈谷が安部を呼ぶ時の呼び名（**安部きゅん**）」「安部礼司番組開始9年目＝**あべ9**」「リスナーと安部ファミリーで**キュンキュン**したい」の意味合いが込められており、99個の「キュンキュンイベント」や展示が行われた。
 
   - 当日は3回にわたって生ドラマを展開し、17時からは全国ネットによる公開生ラジオドラマを行った。この時間帯は抽選で選ばれたホールエリアでドラマが進行され、その様子がメインステージのスクリーンに映された。
-      - ゲストは[平松愛理](../Page/平松愛理.md "wikilink")、[カズン](https://ja.wikipedia.org/wiki/カズン_\(歌手グループ\) "wikilink")、[寺田恵子](https://ja.wikipedia.org/wiki/寺田恵子 "wikilink") from [SHOW-YA](../Page/SHOW-YA.md "wikilink")、[SUITE VOICE](https://ja.wikipedia.org/wiki/SUITE_VOICE "wikilink")。司会進行はフリーアナウンサーの[加藤裕](https://ja.wikipedia.org/wiki/加藤裕 "wikilink")\[37\]。
+      - ゲストは[平松愛理](../Page/平松愛理.md "wikilink")、[カズン](../Page/カズン_\(歌手グループ\).md "wikilink")、[寺田恵子](https://ja.wikipedia.org/wiki/寺田恵子 "wikilink") from [SHOW-YA](../Page/SHOW-YA.md "wikilink")、[SUITE VOICE](https://ja.wikipedia.org/wiki/SUITE_VOICE "wikilink")。司会進行はフリーアナウンサーの[加藤裕](https://ja.wikipedia.org/wiki/加藤裕 "wikilink")\[37\]。
       - 同時に安部夫妻のあいだに12月7日に誕生した第二子の名前が発表された。
       - 最後にチーム安部礼司とリスナーが"The average man keeps walking."を大合唱する中、刈谷役の杉崎によって総入場者数29,924人で、日産グローバル本社ギャラリー1日当たりの入場者数の最高記録を更新したことが発表された\[38\]。
 
@@ -487,7 +487,7 @@ TOKYO FM制作・[JFN系](../Page/全国FM放送協議会.md "wikilink")38局ネ
 
   - 2015年10月2日に日本武道館にて開催。
   - 番組としては初の有料観覧形式のイベントであった。
-      - ゲストは渡辺美里、[サンプラザ中野くん](https://ja.wikipedia.org/wiki/サンプラザ中野くん "wikilink")、平原綾香、[金子隆博](../Page/金子隆博.md "wikilink") from [米米CLUB](../Page/米米CLUB.md "wikilink")、[緒方恵美](../Page/緒方恵美.md "wikilink")、[千葉雄大](https://ja.wikipedia.org/wiki/千葉雄大 "wikilink")、橋本奈々未（乃木坂46）。
+      - ゲストは渡辺美里、[サンプラザ中野くん](../Page/サンプラザ中野くん.md "wikilink")、平原綾香、[金子隆博](../Page/金子隆博.md "wikilink") from [米米CLUB](../Page/米米CLUB.md "wikilink")、[緒方恵美](../Page/緒方恵美.md "wikilink")、[千葉雄大](https://ja.wikipedia.org/wiki/千葉雄大 "wikilink")、橋本奈々未（乃木坂46）。
 
 ### 安部礼司フェスティバル2017〜飯野とサトミのウェディングパーティー〜
 
@@ -506,25 +506,25 @@ TOKYO FM制作・[JFN系](../Page/全国FM放送協議会.md "wikilink")38局ネ
 ### チーム安部礼司のコラボツアー2018 in 横浜
 
   - 2018年9月2日、日産グローバル本社ギャラリーにて開催。
-      - ゲストは[大澤誉志幸](https://ja.wikipedia.org/wiki/大澤誉志幸 "wikilink")、筧美和子。
+      - ゲストは[大澤誉志幸](../Page/大澤誉志幸.md "wikilink")、筧美和子。
       - 生ラジオドラマがメインホールにて14時と16時の2回（両方とも同一内容）行われ、大澤による弾き語りライブが披露された。
       - 例年のイベントとは異なり、生放送や収録放送は行われなかった。
 
 ### あべ☆EXPO 2019
 
   - 2019年1月27日、日産グローバル本社ギャラリーにて開催。
-      - ゲストは[東雲めぐ](https://ja.wikipedia.org/wiki/東雲めぐ "wikilink")（[Vtuber](https://ja.wikipedia.org/wiki/バーチャルYouTuber "wikilink")）、[NOKKO](https://ja.wikipedia.org/wiki/NOKKO "wikilink")（[レベッカ](https://ja.wikipedia.org/wiki/レベッカ_\(バンド\) "wikilink")）、司会進行は[浜崎美保](https://ja.wikipedia.org/wiki/浜崎美保 "wikilink")。
+      - ゲストは[東雲めぐ](https://ja.wikipedia.org/wiki/東雲めぐ "wikilink")（[Vtuber](https://ja.wikipedia.org/wiki/バーチャルYouTuber "wikilink")）、[NOKKO](../Page/NOKKO.md "wikilink")（[レベッカ](../Page/レベッカ_\(バンド\).md "wikilink")）、司会進行は[浜崎美保](https://ja.wikipedia.org/wiki/浜崎美保 "wikilink")。
       - 『ラジオドラマと未来のテクノロジーの融合』をコンセプトにVRゴーグルでの世界体験、立体音響のラジオドラマ、AIスピーカー「i-Garaxy(イギャラクシー)」との会話体験イベントが行われ、17時から公開生放送、18時からはNOKKOのライブが披露された。
       - [あべ☆EXPO 2019](https://www.tfm.co.jp/abe/expo2019/)
 
 ### チーム安部礼司　秋の神田神保町から生放送やっちゃいまスペシャル！in 共立講堂
 
-  - 2019年10月27日、[共立女子大学](https://ja.wikipedia.org/wiki/共立女子大学 "wikilink")共立講堂にて開催。
+  - 2019年10月27日、[共立女子大学](../Page/共立女子大学.md "wikilink")共立講堂にて開催。
 
 ### 安部礼司フェスティバル2020 安部四輪
 
   - 2020年2月9日、日産グローバル本社ギャラリーにて開催。
-      - ゲストは[クレイジーケンバンド](https://ja.wikipedia.org/wiki/クレイジーケンバンド "wikilink")、飯田里穂、司会進行は[吉田明世](https://ja.wikipedia.org/wiki/吉田明世 "wikilink")\[40\]。
+      - ゲストは[クレイジーケンバンド](../Page/クレイジーケンバンド.md "wikilink")、飯田里穂、司会進行は[吉田明世](https://ja.wikipedia.org/wiki/吉田明世 "wikilink")\[40\]。
       - [安部礼司フェスティバル2020 安部四輪](http://www.tfm.co.jp/abe/fes2020/)
 
 ### 安部ファミリーの地方出張
@@ -551,14 +551,14 @@ TOKYO FM制作・[JFN系](../Page/全国FM放送協議会.md "wikilink")38局ネ
 </tr>
 <tr class="even">
 <td><p>2009年8月14日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/徳島県" title="wikilink">徳島県</a><a href="https://ja.wikipedia.org/wiki/徳島市" title="wikilink">徳島市</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/徳島県" title="wikilink">徳島県</a><a href="../Page/徳島市.md" title="wikilink">徳島市</a></p></td>
 <td><p>徳島<a href="https://ja.wikipedia.org/wiki/クレメントプラザ" title="wikilink">クレメントプラザ</a></p></td>
 <td><p>安部礼司、安部優</p></td>
 <td><p>FM徳島のイベントで収録した。</p></td>
 </tr>
 <tr class="odd">
 <td><p>2010年2月7日</p></td>
-<td><p><a href="../Page/岩手県.md" title="wikilink">岩手県</a><a href="https://ja.wikipedia.org/wiki/八幡平市" title="wikilink">八幡平市</a></p></td>
+<td><p><a href="../Page/岩手県.md" title="wikilink">岩手県</a><a href="../Page/八幡平市.md" title="wikilink">八幡平市</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/安比高原" title="wikilink">安比高原</a></p></td>
 <td><p>安部礼司、刈谷勇</p></td>
 <td><p>FM岩手のイベントで収録した。</p></td>
@@ -572,7 +572,7 @@ TOKYO FM制作・[JFN系](../Page/全国FM放送協議会.md "wikilink")38局ネ
 </tr>
 <tr class="odd">
 <td><p>2010年7月19日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a><a href="https://ja.wikipedia.org/wiki/福岡市" title="wikilink">福岡市</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a><a href="https://ja.wikipedia.org/wiki/福岡市" title="wikilink">福岡市</a></p></td>
 <td><p><a href="../Page/イムズ.md" title="wikilink">天神イムズ</a></p></td>
 <td><p>安部礼司、刈谷勇、<br />
 大場嘉門</p></td>
@@ -587,8 +587,8 @@ TOKYO FM制作・[JFN系](../Page/全国FM放送協議会.md "wikilink")38局ネ
 </tr>
 <tr class="odd">
 <td><p>2011年3月12日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/熊本県" title="wikilink">熊本県</a><a href="https://ja.wikipedia.org/wiki/阿蘇市" title="wikilink">阿蘇市</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/阿蘇町" title="wikilink">はな阿蘇美</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/熊本県" title="wikilink">熊本県</a><a href="../Page/阿蘇市.md" title="wikilink">阿蘇市</a></p></td>
+<td><p><a href="../Page/阿蘇町.md" title="wikilink">はな阿蘇美</a></p></td>
 <td><p>安部礼司、安部優、飯野平太</p></td>
 <td><p>FMK エフエム・クマモトのイベントで収録予定だったが、前日に発生した<a href="https://ja.wikipedia.org/wiki/東北地方太平洋沖地震" title="wikilink">東日本大震災による事態を考慮し休止となる</a>[41]</p></td>
 </tr>
@@ -630,7 +630,7 @@ TOKYO FM制作・[JFN系](../Page/全国FM放送協議会.md "wikilink")38局ネ
 <tr class="odd">
 <td><p>2014年9月15日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/青森県" title="wikilink">青森県</a><a href="https://ja.wikipedia.org/wiki/青森市" title="wikilink">青森市</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/三内丸山遺跡" title="wikilink">三内丸山遺跡</a></p></td>
+<td><p><a href="../Page/三内丸山遺跡.md" title="wikilink">三内丸山遺跡</a></p></td>
 <td><p>安部礼司、安部優、刈谷勇、飯野平太、姫川皐月</p></td>
 <td><p>FM青森のイベントで収録した。</p></td>
 </tr>
@@ -679,7 +679,7 @@ TOKYO FM制作・[JFN系](../Page/全国FM放送協議会.md "wikilink")38局ネ
 <tr class="even">
 <td><p>2016年9月25日</p></td>
 <td><p><a href="../Page/大阪府.md" title="wikilink">大阪府</a><a href="../Page/泉佐野市.md" title="wikilink">泉佐野市</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/りんくうプレミアム・アウトレット" title="wikilink">りんくうプレミアム・アウトレット</a></p></td>
+<td><p><a href="../Page/りんくうプレミアム・アウトレット.md" title="wikilink">りんくうプレミアム・アウトレット</a></p></td>
 <td><p>安部礼司、安部優、刈谷勇、飯野平太、五十嵐明</p></td>
 <td><p>FM OSAKAのイベントで収録した。</p></td>
 </tr>
@@ -693,7 +693,7 @@ TOKYO FM制作・[JFN系](../Page/全国FM放送協議会.md "wikilink")38局ネ
 <tr class="even">
 <td><p>2016年12月18日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/三重県" title="wikilink">三重県</a><a href="../Page/桑名市.md" title="wikilink">桑名市</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/三井アウトレットパーク_ジャズドリーム長島" title="wikilink">三井アウトレットパーク ジャズドリーム長島</a></p></td>
+<td><p><a href="../Page/三井アウトレットパーク_ジャズドリーム長島.md" title="wikilink">三井アウトレットパーク ジャズドリーム長島</a></p></td>
 <td><p>安部礼司、安部優、姫川皐月、鞠谷アンジュ、南総サトミ</p></td>
 <td><p>@FMのイベントで収録した。</p></td>
 </tr>
@@ -706,7 +706,7 @@ TOKYO FM制作・[JFN系](../Page/全国FM放送協議会.md "wikilink")38局ネ
 </tr>
 <tr class="even">
 <td><p>2017年10月28日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山形県" title="wikilink">山形県</a><a href="../Page/山形市.md" title="wikilink">山形市</a></p></td>
+<td><p><a href="../Page/山形県.md" title="wikilink">山形県</a><a href="../Page/山形市.md" title="wikilink">山形市</a></p></td>
 <td><p>蔵王体育館</p></td>
 <td><p>安部礼司、安部優、刈谷勇、大場嘉門</p></td>
 <td><p>Rhythm Stationのイベントで収録した。</p></td>
@@ -749,7 +749,7 @@ TOKYO FM制作・[JFN系](../Page/全国FM放送協議会.md "wikilink")38局ネ
 <tr class="even">
 <td><p>2019年9月23日</p></td>
 <td><p><a href="../Page/宮崎県.md" title="wikilink">宮崎県</a><a href="https://ja.wikipedia.org/wiki/宮崎市" title="wikilink">宮崎市</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/イオンモール宮崎" title="wikilink">イオンモール宮崎</a></p></td>
+<td><p><a href="../Page/イオンモール宮崎.md" title="wikilink">イオンモール宮崎</a></p></td>
 <td><p>安部礼司、安部優、飯野平太、大場嘉門、五十嵐明、<a href="https://ja.wikipedia.org/wiki/奥山真帆" title="wikilink">奥山真帆</a></p></td>
 <td><p>JOY-FMのイベントとして開催。 当初は宮崎ぎょうざ祭り内のイベントで開催される予定だったが、天候不良のためぎょうざ祭りが順延され、番組単独で開催。</p></td>
 </tr>
@@ -759,7 +759,7 @@ TOKYO FM制作・[JFN系](../Page/全国FM放送協議会.md "wikilink")38局ネ
 ## スタッフ
 
   - 脚本：[北阪昌人](http://homepage2.nifty.com/m-kitasaka/)、[村上大樹](../Page/村上大樹.md "wikilink")、[マンボウやしろ](https://ja.wikipedia.org/wiki/マンボウやしろ "wikilink")、[小島万由子](https://ja.wikipedia.org/wiki/小島万由子 "wikilink")、[菊池百恵](https://ja.wikipedia.org/wiki/菊池百恵 "wikilink")
-  - 協力：[クリオネ](https://ja.wikipedia.org/wiki/クリオネ_\(企業\) "wikilink")、[ナイロビ](http://nairobi.sessya.com/index.html)、[ワタナベエンターテインメント](../Page/ワタナベエンターテインメント.md "wikilink")、[青二プロダクション](https://ja.wikipedia.org/wiki/青二プロダクション "wikilink")、[劇団青年座](https://ja.wikipedia.org/wiki/劇団青年座 "wikilink")、[東京俳優生活協同組合](../Page/東京俳優生活協同組合.md "wikilink")
+  - 協力：[クリオネ](https://ja.wikipedia.org/wiki/クリオネ_\(企業\) "wikilink")、[ナイロビ](http://nairobi.sessya.com/index.html)、[ワタナベエンターテインメント](../Page/ワタナベエンターテインメント.md "wikilink")、[青二プロダクション](../Page/青二プロダクション.md "wikilink")、[劇団青年座](../Page/劇団青年座.md "wikilink")、[東京俳優生活協同組合](../Page/東京俳優生活協同組合.md "wikilink")
   - 企画・原案・総合プロデューサー：[堀内貴之](https://ja.wikipedia.org/wiki/堀内貴之 "wikilink")
   - プロデューサー：高橋智彦（TOKYO FM 編成制作局番組制作部）
   - 演出：勝島康一（MEGAHOUSE）、山根一森
@@ -772,7 +772,7 @@ TOKYO FM制作・[JFN系](../Page/全国FM放送協議会.md "wikilink")38局ネ
 
 ## メディアミックス・コラボレーション
 
-番組の人気を反映して、様々な[メディアミックス](../Page/メディアミックス.md "wikilink")あるいは[コラボレーション](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")企画が展開されている。
+番組の人気を反映して、様々な[メディアミックス](../Page/メディアミックス.md "wikilink")あるいは[コラボレーション](../Page/コラボレーション.md "wikilink")企画が展開されている。
 
   - テレビドラマ「アベレイジ」
     この番組を原案にし、さまざまな世の中の「平均」エピソードを短編で綴るオムニバスドラマ。安部礼司役は[劇団ひとり](../Page/劇団ひとり.md "wikilink")で、ほかに[笑福亭鶴瓶](../Page/笑福亭鶴瓶.md "wikilink")らが出演。また[小林高鹿](https://ja.wikipedia.org/wiki/小林高鹿 "wikilink")と[もたい陽子](../Page/もたい陽子.md "wikilink")が声のみで出演した。
@@ -782,7 +782,7 @@ TOKYO FM制作・[JFN系](../Page/全国FM放送協議会.md "wikilink")38局ネ
 <!-- end list -->
 
   -
-    [コミカライズ版が](https://ja.wikipedia.org/wiki/漫画化 "wikilink")[しりあがり寿](../Page/しりあがり寿.md "wikilink")作画で[フリーペーパー](https://ja.wikipedia.org/wiki/フリーペーパー "wikilink")式の[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")『[コミック・ガンボ](../Page/コミック・ガンボ.md "wikilink")』に連載された、全10回。
+    [コミカライズ版が](https://ja.wikipedia.org/wiki/漫画化 "wikilink")[しりあがり寿](../Page/しりあがり寿.md "wikilink")作画で[フリーペーパー](../Page/フリーペーパー.md "wikilink")式の[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")『[コミック・ガンボ](../Page/コミック・ガンボ.md "wikilink")』に連載された、全10回。
 
 <!-- end list -->
 
@@ -819,7 +819,7 @@ TOKYO FM制作・[JFN系](../Page/全国FM放送協議会.md "wikilink")38局ネ
   - 他番組とのコラボレーション
     [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[8月29日](../Page/8月29日.md "wikilink")（[聴取率](../Page/聴取率.md "wikilink")調査週間内）の放送は『あ、安部礼司 featuring AVANTI』と題し、TOKYO FM開局40周年企画の一つとして、土曜に放送している『[サントリー・サタデー・ウェイティング・バー](../Page/サントリー・サタデー・ウェイティング・バー.md "wikilink")』とのコラボレーション企画が放送された\[44\]。
     前日の[8月28日](../Page/8月28日.md "wikilink")放送分の『AVANTI』に安部礼司と同僚の飯野・大場、そして刈谷らが訪問し、翌日の『あ、安部礼司』では、紳士（教授）・スタン・取手の3名を巻き込んだどたばた劇が放送された。予告編として8月22日の『あ、安部礼司』の最後に紳士（教授）が登場したほか、8月23日から26日の[4ROOMS](https://ja.wikipedia.org/wiki/4ROOMS "wikilink")内で、『AVANTI』の常連・取手豪州と『あ、安部礼司』の刈谷勇の2人による“小競り合い”の様子が放送された。
-    [2012年](../Page/2012年.md "wikilink")[9月23日](../Page/9月23日.md "wikilink")放送分では日曜の午後2時から放送している『[山下達郎のサンデー・ソングブック](https://ja.wikipedia.org/wiki/山下達郎のサンデー・ソングブック "wikilink")』とのコラボレーション企画を放送\[45\]。『サンソン』に『あ、安部礼司』の登場人物が葉書を送った設定で、[山下達郎](../Page/山下達郎.md "wikilink")が本人役でゲスト出演した\[46\]。また『[OPUS 〜ALL TIME BEST 1975-2012〜](https://ja.wikipedia.org/wiki/OPUS_〜ALL_TIME_BEST_1975-2012〜 "wikilink")』の宣伝も兼ねており、この日の放送では「[踊ろよ、フィッシュ](https://ja.wikipedia.org/wiki/踊ろよ、フィッシュ "wikilink")」、「悲しみのJODY」、「[あまく危険な香り](https://ja.wikipedia.org/wiki/あまく危険な香り "wikilink")」、「ドーナツ・ソング」、「[愛を描いて -LET'S KISS THE SUN-](https://ja.wikipedia.org/wiki/愛を描いて_-LET'S_KISS_THE_SUN- "wikilink")」、「[ゲット・バック・イン・ラブ](https://ja.wikipedia.org/wiki/GET_BACK_IN_LOVE "wikilink")」「[希望という名の光](https://ja.wikipedia.org/wiki/希望という名の光 "wikilink")」、「[DOWN TOWN](https://ja.wikipedia.org/wiki/DOWN_TOWN "wikilink")」など全編に渡って山下の曲が選曲された。
+    [2012年](../Page/2012年.md "wikilink")[9月23日](../Page/9月23日.md "wikilink")放送分では日曜の午後2時から放送している『[山下達郎のサンデー・ソングブック](../Page/山下達郎のサンデー・ソングブック.md "wikilink")』とのコラボレーション企画を放送\[45\]。『サンソン』に『あ、安部礼司』の登場人物が葉書を送った設定で、[山下達郎](../Page/山下達郎.md "wikilink")が本人役でゲスト出演した\[46\]。また『[OPUS 〜ALL TIME BEST 1975-2012〜](https://ja.wikipedia.org/wiki/OPUS_〜ALL_TIME_BEST_1975-2012〜 "wikilink")』の宣伝も兼ねており、この日の放送では「[踊ろよ、フィッシュ](https://ja.wikipedia.org/wiki/踊ろよ、フィッシュ "wikilink")」、「悲しみのJODY」、「[あまく危険な香り](https://ja.wikipedia.org/wiki/あまく危険な香り "wikilink")」、「ドーナツ・ソング」、「[愛を描いて -LET'S KISS THE SUN-](https://ja.wikipedia.org/wiki/愛を描いて_-LET'S_KISS_THE_SUN- "wikilink")」、「[ゲット・バック・イン・ラブ](https://ja.wikipedia.org/wiki/GET_BACK_IN_LOVE "wikilink")」「[希望という名の光](https://ja.wikipedia.org/wiki/希望という名の光 "wikilink")」、「[DOWN TOWN](../Page/DOWN_TOWN.md "wikilink")」など全編に渡って山下の曲が選曲された。
 
 <!-- end list -->
 
@@ -841,9 +841,9 @@ TOKYO FM制作・[JFN系](../Page/全国FM放送協議会.md "wikilink")38局ネ
 
 ### コンピレーションCD
 
-[コンピレーション・アルバム](https://ja.wikipedia.org/wiki/コンピレーション・アルバム "wikilink")[CD](../Page/コンパクトディスク.md "wikilink")『あ、安部礼司スペシャル〜IMATSUBO HIGH-POSITION』が脚本集と同じ2007年10月10日に発売された。内容は80年代[J-POP](../Page/J-POP.md "wikilink")と安部たちによるショートストーリーがメイン。[USM Japan制作](https://ja.wikipedia.org/wiki/USM_Japan "wikilink")、[ユニバーサルミュージック発売](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")・販売。
+[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")[CD](../Page/コンパクトディスク.md "wikilink")『あ、安部礼司スペシャル〜IMATSUBO HIGH-POSITION』が脚本集と同じ2007年10月10日に発売された。内容は80年代[J-POP](../Page/J-POP.md "wikilink")と安部たちによるショートストーリーがメイン。[USM Japan制作](https://ja.wikipedia.org/wiki/USM_Japan "wikilink")、[ユニバーサルミュージック発売](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")・販売。
 
-  - あ、安部礼司スペシャル〜IMATSUBO HIGH-POSITION（[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")、2007年）
+  - あ、安部礼司スペシャル〜IMATSUBO HIGH-POSITION（[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")、2007年）
   - IMATSUBO X（ユニバーサルミュージック、2009年）
 
 ### シングルCD
@@ -861,12 +861,12 @@ JFN系列全国38局ネット。
 ## 備考
 
   - 第59回までの全選曲のうち、約85%は[J-POP](../Page/J-POP.md "wikilink")、約15%は[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")である。放送開始初期は洋楽が約40%の比率で選曲されていた。放送回によっては洋楽が集中的に選曲されることがある。安室が出演するときには、『ガンダム』の主題歌や関連曲が多く選曲されている。ジングル等で使用された曲は以下のとおり。
-      - [HALCALI](../Page/HALCALI.md "wikilink") - Twinkle Star（原曲である『[荒野の七人](https://ja.wikipedia.org/wiki/荒野の七人 "wikilink")』のテーマの使用頻度が高い）
+      - [HALCALI](../Page/HALCALI.md "wikilink") - Twinkle Star（原曲である『[荒野の七人](../Page/荒野の七人.md "wikilink")』のテーマの使用頻度が高い）
       - [capsule](https://ja.wikipedia.org/wiki/capsule "wikilink") - Lucky Love
       - [capsule](https://ja.wikipedia.org/wiki/capsule "wikilink") - fin.
       - [MEG](https://ja.wikipedia.org/wiki/MEG "wikilink") - LOVE LETTER
       - [MEG](https://ja.wikipedia.org/wiki/MEG "wikilink") - dreamin dreamin
-      - [ケツメイシ](https://ja.wikipedia.org/wiki/ケツメイシ "wikilink") - ケツメンサンバ
+      - [ケツメイシ](../Page/ケツメイシ.md "wikilink") - ケツメンサンバ
       - [MY LITTLE LOVER](https://ja.wikipedia.org/wiki/My_Little_Lover "wikilink") - ALICE
       - [鈴木亜美](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink") - can't stop the DISCO
   - 過去には番組終了後に[ヒッチハイク枠として](https://ja.wikipedia.org/wiki/ヒッチハイク_\(放送\) "wikilink")、番組関連のCM（N-Link、コンピCDなど）が計60秒流れていたが、現在は実施していない。その代わり現在は[バイク王](https://ja.wikipedia.org/wiki/バイク王 "wikilink")のCMがOAされている。過去には[ヨコハマタイヤ](https://ja.wikipedia.org/wiki/ヨコハマタイヤ "wikilink")、[日本通運](https://ja.wikipedia.org/wiki/日本通運 "wikilink")のCMが流れていた。

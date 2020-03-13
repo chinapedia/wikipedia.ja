@@ -47,7 +47,7 @@ Eureka は[カリフォルニア州](../Page/カリフォルニア州.md "wikili
   - [ユリーカ](https://ja.wikipedia.org/wiki/ユリーカ "wikilink")
   - [ヒューリスティクス](../Page/ヒューリスティクス.md "wikilink")
   - [アハ体験](https://ja.wikipedia.org/wiki/アハ体験_\(心理学\) "wikilink")（エウレカ効果）
-  - [ユリイカ (雑誌)](https://ja.wikipedia.org/wiki/ユリイカ_\(雑誌\) "wikilink")
+  - [ユリイカ (雑誌)](../Page/ユリイカ_\(雑誌\).md "wikilink")
 
 [Category:ギリシア語の語句](https://ja.wikipedia.org/wiki/Category:ギリシア語の語句 "wikilink") [Category:アルキメデス](https://ja.wikipedia.org/wiki/Category:アルキメデス "wikilink")
 

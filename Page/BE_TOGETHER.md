@@ -9,11 +9,11 @@
 
 後にシングル『[Get Wild](../Page/Get_Wild.md "wikilink")(再発盤)』のカップリング曲としてシングルカットされている。[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")の4枚目のシングル「[B・BLUE](../Page/B・BLUE.md "wikilink")」に対抗して作ったという。こういう曲がないとBOØWYみたいな勢いのあるバンドに敵わないだろうと[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")は思ったという\[1\]。
 
-間奏のギターソロは、[B'z](../Page/B'z.md "wikilink")の[松本孝弘](../Page/松本孝弘.md "wikilink")が演奏している。このソロの演奏は難しいのではないかと小室はインタビューに答えている\[2\]。ドラムは[レベッカの](https://ja.wikipedia.org/wiki/レベッカ_\(バンド\) "wikilink")[小田原豊](https://ja.wikipedia.org/wiki/小田原豊 "wikilink")が叩いている。[小田原豊](https://ja.wikipedia.org/wiki/小田原豊 "wikilink")のドラムには、海外でパンクシーンから[ポリス的なものが生まれてきたような](https://ja.wikipedia.org/wiki/ポリス_\(バンド\) "wikilink")、スピード感があると[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink") は評している\[3\]。
+間奏のギターソロは、[B'z](../Page/B'z.md "wikilink")の[松本孝弘](../Page/松本孝弘.md "wikilink")が演奏している。このソロの演奏は難しいのではないかと小室はインタビューに答えている\[2\]。ドラムは[レベッカの](../Page/レベッカ_\(バンド\).md "wikilink")[小田原豊](../Page/小田原豊.md "wikilink")が叩いている。[小田原豊](../Page/小田原豊.md "wikilink")のドラムには、海外でパンクシーンから[ポリス的なものが生まれてきたような](../Page/ポリス_\(バンド\).md "wikilink")、スピード感があると[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink") は評している\[3\]。
 
-リプロダクション・アルバム「[DRESS](https://ja.wikipedia.org/wiki/DRESS_\(TM_NETWORKのアルバム\) "wikilink")」ではJonathan Eliasによってリミックスされ、原曲バージョンにはなかった冒頭の台詞が付加されている(その台詞部分は原曲版のボーカルトラックにもあったが、ミックスの段階でカットされたもの)。「[DRESS](https://ja.wikipedia.org/wiki/DRESS_\(TM_NETWORKのアルバム\) "wikilink")」バージョンは[松本孝弘](../Page/松本孝弘.md "wikilink")のギターソロはサックスに置き換えられている。
+リプロダクション・アルバム「[DRESS](../Page/DRESS_\(TM_NETWORKのアルバム\).md "wikilink")」ではJonathan Eliasによってリミックスされ、原曲バージョンにはなかった冒頭の台詞が付加されている(その台詞部分は原曲版のボーカルトラックにもあったが、ミックスの段階でカットされたもの)。「[DRESS](../Page/DRESS_\(TM_NETWORKのアルバム\).md "wikilink")」バージョンは[松本孝弘](../Page/松本孝弘.md "wikilink")のギターソロはサックスに置き換えられている。
 
-ライブ・アルバム「[COLOSSEUM II](https://ja.wikipedia.org/wiki/TMN_COLOSSEUM "wikilink")」ではアルバム1曲目に収録されている。ライブツアー『KISS JAPAN DANCING DYNA-MIX TM NETWORK ARENA TOUR』からの音源である。このバージョンはイントロがサビから始まっている。静かなイントロで始まる原曲バージョン、DRESSバージョンとは対照的である。
+ライブ・アルバム「[COLOSSEUM II](../Page/TMN_COLOSSEUM.md "wikilink")」ではアルバム1曲目に収録されている。ライブツアー『KISS JAPAN DANCING DYNA-MIX TM NETWORK ARENA TOUR』からの音源である。このバージョンはイントロがサビから始まっている。静かなイントロで始まる原曲バージョン、DRESSバージョンとは対照的である。
 
 1994年の[終了ライヴでは](https://ja.wikipedia.org/wiki/TMN_final_live_LAST_GROOVE_\(ビデオ\) "wikilink")5月18日での2曲目で披露され、原曲バージョン基調でDRESSバージョンでの冒頭の台詞が加わったアレンジで披露された。
 
@@ -27,7 +27,7 @@
 
 ### 解説
 
-  - [1999年](../Page/1999年.md "wikilink")（[平成](../Page/平成.md "wikilink")11年）[7月14日](../Page/7月14日.md "wikilink")に[TRUE KiSS DiSCよりリリース](https://ja.wikipedia.org/wiki/TRUE_KiSS_DiSC "wikilink")。自身初の[オリコンシングルチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位を獲得し、自身最高の初動売上枚数を記録。オリコン集計での累計売り上げは80万枚を超え、自身最大のヒット曲である。
+  - [1999年](../Page/1999年.md "wikilink")（[平成](../Page/平成.md "wikilink")11年）[7月14日](../Page/7月14日.md "wikilink")に[TRUE KiSS DiSCよりリリース](../Page/TRUE_KiSS_DiSC.md "wikilink")。自身初の[オリコンシングルチャート](../Page/オリコンチャート.md "wikilink")1位を獲得し、自身最高の初動売上枚数を記録。オリコン集計での累計売り上げは80万枚を超え、自身最大のヒット曲である。
   - [マキシシングル](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")、[アナログの](https://ja.wikipedia.org/wiki/アナログ盤 "wikilink")2形態で発売。アナログには前作「Don't leave me behind」のリミックス曲を2つ収録された。
   - 『[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")』では、[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")の「[ふるさと](../Page/ふるさと_\(モーニング娘。の曲\).md "wikilink")」との同時発売ランキング対決が企画され、結果は「[ふるさと](../Page/ふるさと_\(モーニング娘。の曲\).md "wikilink")」がオリコン初登場5位、「**BE TOGETHER**」がオリコン初登場1位となり勝負に勝った\[4\]。
   - 当時最大のライバルといわれていた[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")のシングル「[Boys & Girls](../Page/Boys_&_Girls_\(浜崎あゆみの曲\).md "wikilink")」と同時発売になり話題に。オリコンシングルチャートでは、このシングルが初登場1位、浜崎のシングルは2位となった。しかし、翌週逆転し2位となった。

@@ -1,14 +1,14 @@
 > この記事は[The ARROWS](https://ja.wikipedia.org/wiki/The_ARROWS)から翻訳されています。
 
 
-**the ARROWS**（ジ・アロウズ）は、[名古屋市](../Page/名古屋市.md "wikilink")出身の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[1999年](../Page/1999年.md "wikilink")に結成、メンバー全員が[愛知県立松蔭高等学校](../Page/愛知県立松蔭高等学校.md "wikilink")の同級生である。ダンスミュージックを取り入れる。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")、[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")よりメジャーデビュー。
+**the ARROWS**（ジ・アロウズ）は、[名古屋市](../Page/名古屋市.md "wikilink")出身の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[1999年](../Page/1999年.md "wikilink")に結成、メンバー全員が[愛知県立松蔭高等学校](../Page/愛知県立松蔭高等学校.md "wikilink")の同級生である。ダンスミュージックを取り入れる。[2006年](../Page/2006年.md "wikilink")、[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")よりメジャーデビュー。
 
 ## メンバー
 
   - **[坂井竜二](https://ja.wikipedia.org/wiki/坂井竜二 "wikilink")**（さかい りゅうじ、[1977年](../Page/1977年.md "wikilink")[8月12日](../Page/8月12日.md "wikilink") - ）ボーカル
   - **山内貴之**（やまうち たかゆき、[1977年](../Page/1977年.md "wikilink")[12月3日](../Page/12月3日.md "wikilink") - ）ギター
   - **坂井“CANDY”昌英**（さかい まさひで、[1977年](../Page/1977年.md "wikilink")[8月18日](../Page/8月18日.md "wikilink") - ）ベース
-  - **鵜飼孝治**（うかい こうじ、[1977年](../Page/1977年.md "wikilink")[10月13日](https://ja.wikipedia.org/wiki/10月13日 "wikilink") - ）ドラムス
+  - **鵜飼孝治**（うかい こうじ、[1977年](../Page/1977年.md "wikilink")[10月13日](../Page/10月13日.md "wikilink") - ）ドラムス
 
 ## 元メンバー
 
@@ -22,7 +22,7 @@
       - [3月28日](../Page/3月28日.md "wikilink") インディーズレーベル・インディーズ・メーカーから[アルバム](../Page/アルバム.md "wikilink")「[東ファウンテン鉄道](https://ja.wikipedia.org/wiki/東ファウンテン鉄道 "wikilink")」でインディーズデビュー。
   - [2004年](../Page/2004年.md "wikilink")
       - [5月28日](../Page/5月28日.md "wikilink") インディーズレーベル・インディーズ・メーカーから初めての[シングル](../Page/シングル.md "wikilink")「[大脱走〜虹色のアーチ〜single version](https://ja.wikipedia.org/wiki/大脱走〜虹色のアーチ〜single_version "wikilink")」をリリース。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")
+  - [2006年](../Page/2006年.md "wikilink")
       - [2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink") [ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")から1枚目（通算4枚目）の[シングル](../Page/シングル.md "wikilink")「[ナイトコール](https://ja.wikipedia.org/wiki/ナイトコール "wikilink")」でメジャーデビュー。
 
 ## ディスコグラフィー
@@ -50,14 +50,14 @@ NMCD-0013</small></p></td>
 </tr>
 <tr class="even">
 <td><p><small>2nd</small></p></td>
-<td><p><small><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/12月7日.md" title="wikilink">12月7日</a><small></p></td>
+<td><p><small><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/12月7日.md" title="wikilink">12月7日</a><small></p></td>
 <td><p><small><strong><a href="https://ja.wikipedia.org/wiki/イエスタデイワンスモアーズ" title="wikilink">イエスタデイワンスモアーズ</a></strong></small></p></td>
 <td><p><small>MSEA-1</small></p></td>
 <td><p><small>圏外</small></p></td>
 </tr>
 <tr class="odd">
 <td><p><small>3rd</small></p></td>
-<td><p><small><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/3月14日" title="wikilink">3月14日</a><small></p></td>
+<td><p><small><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/3月14日" title="wikilink">3月14日</a><small></p></td>
 <td><p><small><strong><a href="https://ja.wikipedia.org/wiki/二人三月" title="wikilink">二人三月</a></strong></small></p></td>
 <td><p><small>MSEA-2</small></p></td>
 <td><p><small>102位</small></p></td>
@@ -320,7 +320,7 @@ MSAR-001</small></p></td>
       - 『精霊剣舞祭（ブレイドダンス）』[精霊使いの剣舞](https://ja.wikipedia.org/wiki/精霊使いの剣舞 "wikilink")ED
       - 『祝祭のエレメンタリア』精霊使いの剣舞イメージソング
   - 龍炎寺タスク（斉藤壮馬）『Buddy Lights』[フューチャーカード バディファイトED](https://ja.wikipedia.org/wiki/フューチャーカード_バディファイト "wikilink")
-  - UNDEAD［朔間零（[増田俊樹](https://ja.wikipedia.org/wiki/増田俊樹 "wikilink")）、乙狩アドニス（[羽多野渉](https://ja.wikipedia.org/wiki/羽多野渉 "wikilink")）、大神晃牙（[小野友樹](../Page/小野友樹.md "wikilink")）、羽風薫（[細貝圭](https://ja.wikipedia.org/wiki/細貝圭 "wikilink")）］
+  - UNDEAD［朔間零（[増田俊樹](https://ja.wikipedia.org/wiki/増田俊樹 "wikilink")）、乙狩アドニス（[羽多野渉](../Page/羽多野渉.md "wikilink")）、大神晃牙（[小野友樹](../Page/小野友樹.md "wikilink")）、羽風薫（[細貝圭](https://ja.wikipedia.org/wiki/細貝圭 "wikilink")）］
       - 『[DESTRUCTION ROAD](https://ja.wikipedia.org/wiki/あんさんぶるスターズ!_ユニットソングCD_2ndシーズン "wikilink")』[あんさんぶるスターズ\!](https://ja.wikipedia.org/wiki/あんさんぶるスターズ! "wikilink")キャラクターソング
       - 『Darkness 4 』あんさんぶるスターズ\!キャラクターソング
   - [中島愛](../Page/中島愛_\(声優\).md "wikilink")『[愛はめぐる](https://ja.wikipedia.org/wiki/ワタシノセカイ "wikilink")』
@@ -360,7 +360,7 @@ MSAR-001</small></p></td>
   - 2008年06月24日 - [Jackson vibe](../Page/Jackson_vibe.md "wikilink") presents \[VIBE\]
   - 2008年08月22日 - TREASURE05X 2008 ～burning diamonds～
   - 2008年10月10日 - BLOG PARTY Vol.3～BLOG PARTY TOUR 2008～
-  - 2009年02月03日 - [ダイノジ](https://ja.wikipedia.org/wiki/ダイノジ "wikilink")ロックフェスティバル DRF4
+  - 2009年02月03日 - [ダイノジ](../Page/ダイノジ.md "wikilink")ロックフェスティバル DRF4
   - 2009年07月03日 - NAGOYA CLUB QUATTRO 20th ANNIVERSARY SPECIAL
   - 2009年12月18日 - HiPPY CHRiSTMAS2009
   - 2012年06月02日 - LONDON CALLING

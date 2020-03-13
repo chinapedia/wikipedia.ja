@@ -7,7 +7,7 @@
 
 1984年3月まで金曜22:00枠で放送されていた『[SEIKOワールドドキュメント](https://ja.wikipedia.org/wiki/SEIKOワールドドキュメント "wikilink")』と同様に、世界各地で[ロケを敢行していた番組](https://ja.wikipedia.org/wiki/ロケーション撮影 "wikilink")。司会の[関口宏](../Page/関口宏.md "wikilink")が毎回2人前後のゲストとともに各国へ向かい、現地で食べ歩きロケをする模様を放送していた。
 
-スポンサーの変更に伴い、番組は3年で同タイトルでの放送を終了。当時平日13:00枠の料理番組『[ごちそうさま](https://ja.wikipedia.org/wiki/ごちそうさま_\(テレビ番組\) "wikilink")』のスポンサーも務めていた[味の素](../Page/味の素.md "wikilink")の一社提供番組『[味の素・世界ごちそうさま\!\!](https://ja.wikipedia.org/wiki/味の素・世界ごちそうさま!! "wikilink")』へとリニューアルした。
+スポンサーの変更に伴い、番組は3年で同タイトルでの放送を終了。当時平日13:00枠の料理番組『[ごちそうさま](../Page/ごちそうさま_\(テレビ番組\).md "wikilink")』のスポンサーも務めていた[味の素](../Page/味の素.md "wikilink")の一社提供番組『[味の素・世界ごちそうさま\!\!](https://ja.wikipedia.org/wiki/味の素・世界ごちそうさま!! "wikilink")』へとリニューアルした。
 
 ## スタッフ
 
@@ -15,13 +15,13 @@
   - 構成：[豊村剛](../Page/豊村剛.md "wikilink")、[田村隆](https://ja.wikipedia.org/wiki/田村隆 "wikilink")、章田宙谷、武豊
   - 協力：[日本航空](../Page/日本航空.md "wikilink")
   - 取材協力：[関口宏事務所](../Page/三桂.md "wikilink")
-  - 技術協力：[八峯テレビ](https://ja.wikipedia.org/wiki/八峯テレビ "wikilink")技術
+  - 技術協力：[八峯テレビ](../Page/八峯テレビ.md "wikilink")技術
   - 音楽：[佐藤允彦](../Page/佐藤允彦.md "wikilink")
   - ディレクター：[伊藤輝夫](../Page/テリー伊藤.md "wikilink")、後藤喜男、大野克己、玉井浩
-  - 演出プロデューサー：[長尾忠彦](https://ja.wikipedia.org/wiki/長尾忠彦 "wikilink")
+  - 演出プロデューサー：[長尾忠彦](../Page/長尾忠彦.md "wikilink")
   - プロデューサー：草野公、辻澄子、[牛丸謙壱](https://ja.wikipedia.org/wiki/牛丸謙壱 "wikilink")
   - 制作：加藤光夫
-  - 制作協力：[IVSテレビ制作](https://ja.wikipedia.org/wiki/IVSテレビ制作 "wikilink")
+  - 制作協力：[IVSテレビ制作](../Page/IVSテレビ制作.md "wikilink")
   - 製作著作：日本テレビ
 
 ## 関連書籍

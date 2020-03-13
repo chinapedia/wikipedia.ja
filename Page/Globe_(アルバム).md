@@ -6,9 +6,9 @@
 [2016年](../Page/2016年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")([ハイレゾ盤](https://ja.wikipedia.org/wiki/ハイレゾリューションオーディオ "wikilink")) | Recorded = tetsuya komuro sequence 1102st, 1103st & 1104st
 [RECORD PLANT STUDIOS S-1, S-4](https://ja.wikipedia.org/wiki/レコード・プラント・スタジオ "wikilink") (L.A.)
 IMAGE RECORDING INC. (L.A.)
-[A\&M RECORDING STUDIOS](https://ja.wikipedia.org/wiki/A&Mレコード "wikilink") (L.A.)
+[A\&M RECORDING STUDIOS](../Page/A&Mレコード.md "wikilink") (L.A.)
 [HITOKUCHIZAKA studio](../Page/一口坂スタジオ.md "wikilink") (KAWAGUCHIKO)
-WOODSTOCK KARUIZAWA RECORDING studio | Genre = [J-POP](../Page/J-POP.md "wikilink") | Length = 57分03秒 | Label = [avex globe](https://ja.wikipedia.org/wiki/avex_globe "wikilink") | Producer = [小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink") | Reviews = | Chart position =\*週間1位（2週連続・3週連続・通算6週、[オリコン](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")）
+WOODSTOCK KARUIZAWA RECORDING studio | Genre = [J-POP](../Page/J-POP.md "wikilink") | Length = 57分03秒 | Label = [avex globe](https://ja.wikipedia.org/wiki/avex_globe "wikilink") | Producer = [小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink") | Reviews = | Chart position =\*週間1位（2週連続・3週連続・通算6週、[オリコン](../Page/オリコンチャート.md "wikilink")）
 
   - 1996年3月・4月度月間1位（オリコン）
   - 1996年度年間1位（オリコン）
@@ -27,11 +27,11 @@ WOODSTOCK KARUIZAWA RECORDING studio | Genre = [J-POP](../Page/J-POP.md "wikilin
 
 ## 背景
 
-デビューシングル「[Feel Like dance](https://ja.wikipedia.org/wiki/Feel_Like_dance "wikilink")」から5thシングル「[FREEDOM](../Page/FREEDOM_\(globeの曲\).md "wikilink")」までの5曲の大ヒットシングルを収録したglobeのデビューアルバム。
+デビューシングル「[Feel Like dance](../Page/Feel_Like_dance.md "wikilink")」から5thシングル「[FREEDOM](../Page/FREEDOM_\(globeの曲\).md "wikilink")」までの5曲の大ヒットシングルを収録したglobeのデビューアルバム。
 
 小室は「**僕の音楽活動の中で得たもの全てを投入しました。最初の0秒から57分03秒までアルバムのどこを切り取って聴いて頂いても、恥ずかしい所はありません**」と断言するほどの自信を見せていた\[2\]。
 
-[オリコンにおいて](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")、初週（集計された日は発売日の3月31日のみ）と2週目でそれぞれ100万枚以上を売り上げ、発売2週目で売上200万枚を突破、5週目には300万枚を突破する。いずれも当時の最速記録である。また、2週目の売上としては歴代最高となる105万枚を記録している。1996年5月、当時オリコンにおけるアルバムの歴代最高売上記録を保持していた[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の4thアルバム『[Atomic Heart](https://ja.wikipedia.org/wiki/Atomic_Heart "wikilink")』の累積売上343万枚を突破して記録を更新する。1996年6月、[日本レコード協会](../Page/日本レコード協会.md "wikilink")から4ミリオンの認定を受けた最初の作品となった\[3\]。1997年2月にはオリコン史上初となるアルバムセールス400万枚を突破した。発売元の[エイベックスによる売上枚数は](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")1997年4月26日までの時点で455万枚\[4\]。
+[オリコンにおいて](../Page/オリコンチャート.md "wikilink")、初週（集計された日は発売日の3月31日のみ）と2週目でそれぞれ100万枚以上を売り上げ、発売2週目で売上200万枚を突破、5週目には300万枚を突破する。いずれも当時の最速記録である。また、2週目の売上としては歴代最高となる105万枚を記録している。1996年5月、当時オリコンにおけるアルバムの歴代最高売上記録を保持していた[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の4thアルバム『[Atomic Heart](../Page/Atomic_Heart.md "wikilink")』の累積売上343万枚を突破して記録を更新する。1996年6月、[日本レコード協会](../Page/日本レコード協会.md "wikilink")から4ミリオンの認定を受けた最初の作品となった\[3\]。1997年2月にはオリコン史上初となるアルバムセールス400万枚を突破した。発売元の[エイベックスによる売上枚数は](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")1997年4月26日までの時点で455万枚\[4\]。
 
 [第38回日本レコード大賞](https://ja.wikipedia.org/wiki/第38回日本レコード大賞 "wikilink")アルバム大賞受賞\[5\]。
 
@@ -71,11 +71,11 @@ WOODSTOCK KARUIZAWA RECORDING studio | Genre = [J-POP](../Page/J-POP.md "wikilin
         タイトルの由来は小室の「最初の1曲目は『globe』の『G』で始めたい」という意向からきた\[21\]。
         レコーディング終了後の打ち上げ終了後に録った\[22\]。
         小室のコーラスだけでも12回重ねていて、低音から高音へと順番で録音した。低音は小室自ら「うがいをしているような声」と称している\[23\]。
-2.  **[Feel Like dance](https://ja.wikipedia.org/wiki/Feel_Like_dance "wikilink")**(5:54)
+2.  **[Feel Like dance](../Page/Feel_Like_dance.md "wikilink")**(5:54)
       -
         作詞:小室哲哉
         1stシングル
-        [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[ドラマ](../Page/テレビドラマ.md "wikilink")『[ひとりにしないで](https://ja.wikipedia.org/wiki/ひとりにしないで "wikilink")』[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")
+        [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[ドラマ](../Page/テレビドラマ.md "wikilink")『[ひとりにしないで](https://ja.wikipedia.org/wiki/ひとりにしないで "wikilink")』[主題歌](../Page/主題歌.md "wikilink")
         シングル盤の時点で、ミキシングを含めて何もかもが満足のいく仕上がりだったため、あえてシングル盤の内容をそのままに収録した\[24\]。
         曲の冒頭に前曲のピアノの音が少し残っている。
 3.  **GONNA BE ALRIGHT**(5:04)
@@ -89,7 +89,7 @@ WOODSTOCK KARUIZAWA RECORDING studio | Genre = [J-POP](../Page/J-POP.md "wikilin
       -
         作詞:小室哲哉　Rap詞:MARC
         4thシングル
-        [JR東日本](../Page/東日本旅客鉄道.md "wikilink")『JR ski ski キャンペーン』[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")
+        [JR東日本](../Page/東日本旅客鉄道.md "wikilink")『JR ski ski キャンペーン』[CMソング](../Page/コマーシャルソング.md "wikilink")
         歌詞カード等に記載は無いもののアルバムヴァージョンであり、公式サイト内の「DISCOGRAPHY」では(ALBUM MIX)と表記されている\[30\]。
         「アルバムの中の1曲に過ぎない」という意向から、シングル盤よりリズムを上げて、頭のサビがカットされた\[31\]。新たにRap詞が間奏に追加されている。
 5.  **Regret of the Day**(5:18)
@@ -97,9 +97,9 @@ WOODSTOCK KARUIZAWA RECORDING studio | Genre = [J-POP](../Page/J-POP.md "wikilin
         作詞:小室哲哉　Rap詞:MARC
         [TOYOTA](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")『[サイノス](../Page/トヨタ・サイノス.md "wikilink")』CMソング（本人出演）CMではアレンジ・歌詞違い、キーが高いバージョンが使われた。
         歌詞のテーマは「皆で集まる機会をどうものにするか」を表現した\[32\]。
-        小室は「もし生音で制作したら、[スプリームス](https://ja.wikipedia.org/wiki/スプリームス "wikilink")の様な[モータウン](../Page/モータウン.md "wikilink")になっていたかもしれない」と語っている\[33\]。
-        KEIKOは[ソウルミュージック](https://ja.wikipedia.org/wiki/ソウルミュージック "wikilink")を意識し、「自分の力強い部分が出せた」とコメントした。周囲からは「[演歌](../Page/演歌.md "wikilink")っぽい」と言われた\[34\]。
-6.  **[Joy to the love](https://ja.wikipedia.org/wiki/Joy_to_the_love_\(globe\) "wikilink")**(4:15)
+        小室は「もし生音で制作したら、[スプリームス](../Page/スプリームス.md "wikilink")の様な[モータウン](../Page/モータウン.md "wikilink")になっていたかもしれない」と語っている\[33\]。
+        KEIKOは[ソウルミュージック](../Page/ソウルミュージック.md "wikilink")を意識し、「自分の力強い部分が出せた」とコメントした。周囲からは「[演歌](../Page/演歌.md "wikilink")っぽい」と言われた\[34\]。
+6.  **[Joy to the love](../Page/Joy_to_the_love_\(globe\).md "wikilink")**(4:15)
       -
         作詞:小室哲哉
         2ndシングル
@@ -109,7 +109,7 @@ WOODSTOCK KARUIZAWA RECORDING studio | Genre = [J-POP](../Page/J-POP.md "wikilin
         作詞:小室哲哉
         3rdシングル
         歌詞カード等に記載は無いもののアルバムヴァージョンであり、では(NEW VERSION)と表記されている。
-        [TDK](https://ja.wikipedia.org/wiki/TDK "wikilink")『ミニディスク』CMソング
+        [TDK](../Page/TDK.md "wikilink")『ミニディスク』CMソング
 8.  **Always Together**(5:15)
       -
         作詞:小室哲哉　Rap詞:MARC
@@ -129,7 +129,7 @@ WOODSTOCK KARUIZAWA RECORDING studio | Genre = [J-POP](../Page/J-POP.md "wikilin
 11. **MUSIC TAKES ME HIGHER**(4:21)
       -
         作詞:小室哲哉　Rap詞:MARC
-        [TDK](https://ja.wikipedia.org/wiki/TDK "wikilink")『AD2』CMソング(本人出演)。
+        [TDK](../Page/TDK.md "wikilink")『AD2』CMソング(本人出演)。
         このアルバムの宣伝CMにはこの曲の短いPVスポットが使われた。
         音色のコンセプトは「GONNA BE ALRIGHT」と同じノウハウを使用した\[39\]。
         アルバム全体のバランスをとる意味で入れた。オルガン・シンセ・ベース・ドラムで構成されている\[40\]。
@@ -147,14 +147,14 @@ WOODSTOCK KARUIZAWA RECORDING studio | Genre = [J-POP](../Page/J-POP.md "wikilin
 
   - いずれも、「[\#globe20th -SPECIAL COVER BEST-](https://ja.wikipedia.org/wiki/Globe20th_-SPECIAL_COVER_BEST- "wikilink")」に収録されている。
 
-| 楽曲                                                                                          | アーティスト                                                         | 備考                                       |
-| ------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ---------------------------------------- |
-| 「**[Feel Like dance](https://ja.wikipedia.org/wiki/Feel_Like_dance "wikilink")**」           | [小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")          | ピアノソロ                                    |
-| 「**[DEPARTURES](../Page/DEPARTURES.md "wikilink")**」                                        | [HYDE](https://ja.wikipedia.org/wiki/Hyde "wikilink")          |                                          |
-| 「**[Joy to the love](https://ja.wikipedia.org/wiki/Joy_to_the_love_\(globe\) "wikilink")**」 | [AAA](https://ja.wikipedia.org/wiki/AAA_\(音楽グループ\) "wikilink") |                                          |
-| 「**[SWEET PAIN](../Page/SWEET_PAIN.md "wikilink")**」                                        | [lol](https://ja.wikipedia.org/wiki/Lol_\(音楽グループ\) "wikilink") |                                          |
-| 「**Precious Memories**」                                                                     | [坂本美雨](https://ja.wikipedia.org/wiki/坂本美雨 "wikilink")          | [徳澤青弦](../Page/徳澤青弦.md "wikilink")プロデュース |
-| 「**[FREEDOM](../Page/FREEDOM_\(globeの曲\).md "wikilink")**」                                  | [Da-iCE](https://ja.wikipedia.org/wiki/Da-iCE "wikilink")      |                                          |
+| 楽曲                                                                       | アーティスト                                                         | 備考                                       |
+| ------------------------------------------------------------------------ | -------------------------------------------------------------- | ---------------------------------------- |
+| 「**[Feel Like dance](../Page/Feel_Like_dance.md "wikilink")**」           | [小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")          | ピアノソロ                                    |
+| 「**[DEPARTURES](../Page/DEPARTURES.md "wikilink")**」                     | [HYDE](https://ja.wikipedia.org/wiki/Hyde "wikilink")          |                                          |
+| 「**[Joy to the love](../Page/Joy_to_the_love_\(globe\).md "wikilink")**」 | [AAA](../Page/AAA_\(音楽グループ\).md "wikilink")                    |                                          |
+| 「**[SWEET PAIN](../Page/SWEET_PAIN.md "wikilink")**」                     | [lol](https://ja.wikipedia.org/wiki/Lol_\(音楽グループ\) "wikilink") |                                          |
+| 「**Precious Memories**」                                                  | [坂本美雨](https://ja.wikipedia.org/wiki/坂本美雨 "wikilink")          | [徳澤青弦](../Page/徳澤青弦.md "wikilink")プロデュース |
+| 「**[FREEDOM](../Page/FREEDOM_\(globeの曲\).md "wikilink")**」               | [Da-iCE](https://ja.wikipedia.org/wiki/Da-iCE "wikilink")      |                                          |
 
 ## 脚注
 
@@ -169,9 +169,9 @@ WOODSTOCK KARUIZAWA RECORDING studio | Genre = [J-POP](../Page/J-POP.md "wikilin
 7.
 8.  [globe 20周年イヤーを記念したハイレゾリリース＆期間限定フラッシュプライス！](http://www.e-onkyo.com/news/577/) e-onkyo music NEWS 2016年12月22日閲覧
 9.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊 『[ギターブック](https://ja.wikipedia.org/wiki/ギターブック "wikilink")』 1996年7月号21Pより。
-10. [ダイヤモンド社](https://ja.wikipedia.org/wiki/ダイヤモンド社 "wikilink")刊『[FM STATION](https://ja.wikipedia.org/wiki/FM_STATION "wikilink")』1996年5月20日号24P-25Pより。
+10. [ダイヤモンド社](../Page/ダイヤモンド社.md "wikilink")刊『[FM STATION](../Page/FM_STATION.md "wikilink")』1996年5月20日号24P-25Pより。
 11. 「[第143回 伊東 宏晃 氏 エイベックス・マネジメント株式会社 代表取締役社長 | Musicman-NET](https://www.musicman-net.com/relay/63294)」より。
-12. [リットーミュージック](https://ja.wikipedia.org/wiki/リットーミュージック "wikilink")刊『[ギター・マガジン](https://ja.wikipedia.org/wiki/ギター・マガジン "wikilink")』2019年11月号123P-124Pより。
+12. [リットーミュージック](../Page/リットーミュージック.md "wikilink")刊『[ギター・マガジン](https://ja.wikipedia.org/wiki/ギター・マガジン "wikilink")』2019年11月号123P-124Pより。
 13.
 14. [講談社](../Page/講談社.md "wikilink")刊『[月刊現代](../Page/月刊現代.md "wikilink")』1997年7月号240Pより。
 15. [小室哲哉に聞く、globe 1stアルバムが当時最速に400万枚を突破した理由 - otoCoto](http://otocoto.jp/interview/tetsuya_komuro/)より。

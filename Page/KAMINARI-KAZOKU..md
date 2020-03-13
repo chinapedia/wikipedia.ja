@@ -1,7 +1,7 @@
 > この記事は[KAMINARI-KAZOKU.](https://ja.wikipedia.org/wiki/KAMINARI-KAZOKU.)から翻訳されています。
 
 
-**KAMINARI-KAZOKU.**（カミナリカゾク）は、[日本のヒップホップ](../Page/日本のヒップホップ.md "wikilink")[ユニット](../Page/音楽ユニット.md "wikilink")。[YOU THE ROCK★主催のイベント](https://ja.wikipedia.org/wiki/YOU_THE_ROCK★ "wikilink")「BLACK MONDAY」の出演者を中心に**雷**（カミナリ）名義で[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に結成し、2003年にKAMINARI-KAZOKU.に改名。1995年に「[証言](https://ja.wikipedia.org/wiki/証言_\(ヒップホップ\) "wikilink")」を発表した**LAMP EYE**は前身グループにあたる\[1\]。漢字表記は、**雷家族**。
+**KAMINARI-KAZOKU.**（カミナリカゾク）は、[日本のヒップホップ](../Page/日本のヒップホップ.md "wikilink")[ユニット](../Page/音楽ユニット.md "wikilink")。[YOU THE ROCK★主催のイベント](https://ja.wikipedia.org/wiki/YOU_THE_ROCK★ "wikilink")「BLACK MONDAY」の出演者を中心に**雷**（カミナリ）名義で[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に結成し、2003年にKAMINARI-KAZOKU.に改名。1995年に「[証言](../Page/証言_\(ヒップホップ\).md "wikilink")」を発表した**LAMP EYE**は前身グループにあたる\[1\]。漢字表記は、**雷家族**。
 
 ## メンバー
 
@@ -40,11 +40,11 @@
   -
 
       -
-        [MICROPHONE PAGERのメンバー](https://ja.wikipedia.org/wiki/MICROPHONE_PAGER "wikilink")。旧表記はTWIGY。
+        [MICROPHONE PAGERのメンバー](../Page/MICROPHONE_PAGER.md "wikilink")。旧表記はTWIGY。
 
 <!-- end list -->
 
-  - [RINO LATINA II](https://ja.wikipedia.org/wiki/RINO_LATINA_II "wikilink")
+  - [RINO LATINA II](../Page/RINO_LATINA_II.md "wikilink")
 
 <!-- end list -->
 
@@ -111,17 +111,17 @@
 
 ### 結成前〜LAMP EYE
 
-1992年より、YOU THE ROCK★プロデュースのフリースタイル道場イベント「BLACK MONDAY」が毎週月曜日に開催される。同イベントには後のKAMINARI-KAZOKU.のメンバーとなるRINO、GAMA、DJ YAS、G.K.MARYAN、TWIGYに加え、[MUMMY-D](https://ja.wikipedia.org/wiki/MUMMY-D "wikilink")、[ラッパ我リヤ](https://ja.wikipedia.org/wiki/ラッパ我リヤ "wikilink")、[BOY-KEN](https://ja.wikipedia.org/wiki/BOY-KEN "wikilink")がほぼレギュラーとして出演。その他、DJ PATRICK、HAB I SCREAM、E.G.G. MAN、SHIKI、[MACKA-CHIN](../Page/MACKA-CHIN.md "wikilink")、YOTTY、DAMAGEなども出演し、稀に[MURO](../Page/MURO.md "wikilink")、[ZEEBRA](https://ja.wikipedia.org/wiki/Zeebra "wikilink")、タイプライター、[Shing02](../Page/Shing02.md "wikilink")なども出演。
+1992年より、YOU THE ROCK★プロデュースのフリースタイル道場イベント「BLACK MONDAY」が毎週月曜日に開催される。同イベントには後のKAMINARI-KAZOKU.のメンバーとなるRINO、GAMA、DJ YAS、G.K.MARYAN、TWIGYに加え、[MUMMY-D](https://ja.wikipedia.org/wiki/MUMMY-D "wikilink")、[ラッパ我リヤ](../Page/ラッパ我リヤ.md "wikilink")、[BOY-KEN](https://ja.wikipedia.org/wiki/BOY-KEN "wikilink")がほぼレギュラーとして出演。その他、DJ PATRICK、HAB I SCREAM、E.G.G. MAN、SHIKI、[MACKA-CHIN](../Page/MACKA-CHIN.md "wikilink")、YOTTY、DAMAGEなども出演し、稀に[MURO](../Page/MURO.md "wikilink")、[ZEEBRA](../Page/Zeebra.md "wikilink")、タイプライター、[Shing02](../Page/Shing02.md "wikilink")なども出演。
 
-1995年にRINO、DJ YAS、GAMAによって結成されたLAMP EYEが「[証言](https://ja.wikipedia.org/wiki/証言_\(ヒップホップ\) "wikilink")」をアナログ盤で発売。同楽曲はYOU THE ROCK★、G.K. MARYAN、ZEEBRA、TWIGY、DEV LARGEがフィーチャリングされており、後に日本語ラップのクラシック曲となる\[7\]。LAMP EYEは1996年7月7日に開催された[ヒップホップ](../Page/ヒップホップ.md "wikilink")イベント「[さんピンCAMP](../Page/さんピンCAMP.md "wikilink")」にも出演し、「証言」を披露した。
+1995年にRINO、DJ YAS、GAMAによって結成されたLAMP EYEが「[証言](../Page/証言_\(ヒップホップ\).md "wikilink")」をアナログ盤で発売。同楽曲はYOU THE ROCK★、G.K. MARYAN、ZEEBRA、TWIGY、DEV LARGEがフィーチャリングされており、後に日本語ラップのクラシック曲となる\[7\]。LAMP EYEは1996年7月7日に開催された[ヒップホップ](../Page/ヒップホップ.md "wikilink")イベント「[さんピンCAMP](../Page/さんピンCAMP.md "wikilink")」にも出演し、「証言」を披露した。
 
 ### 結成の経緯
 
-1997年、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")の[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[浅草橋ヤング洋品店](../Page/浅草橋ヤング洋品店.md "wikilink")』内の企画「浅ヤンラップのど自慢」への出演依頼があり、出演を辞退する考えもあったが、いっそのこと出演して番組をめちゃめちゃにしようと企て、LAMP EYEを原型としたユニット**雷**を結成\[8\]。番組には、YOU THE ROCK★、G.K.MARYAN、TWIGY、RINOの他に、MUMMY-Dや[SOUL SCREAMらが参加](https://ja.wikipedia.org/wiki/SOUL_SCREAM "wikilink")。審査員として出演していた[近田春夫](../Page/近田春夫.md "wikilink")や[高木完](../Page/高木完.md "wikilink")をDISした内容のラップを披露し、優勝。後に高木完は雑誌でこの時のRINOを、「日本人ラッパーで初めてスター性を感じた」と評価した。同年、アナログ版 『カミナリ c/w 夜ジェット』を発売。参加MCは、YOU THE ROCK、G.K.MARYAN、TWIGY、RINO。以降グループとしての活動は休止状態となり、メンバーはソロ活動を中心に活動。
+1997年、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")の[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[浅草橋ヤング洋品店](../Page/浅草橋ヤング洋品店.md "wikilink")』内の企画「浅ヤンラップのど自慢」への出演依頼があり、出演を辞退する考えもあったが、いっそのこと出演して番組をめちゃめちゃにしようと企て、LAMP EYEを原型としたユニット**雷**を結成\[8\]。番組には、YOU THE ROCK★、G.K.MARYAN、TWIGY、RINOの他に、MUMMY-Dや[SOUL SCREAMらが参加](../Page/SOUL_SCREAM.md "wikilink")。審査員として出演していた[近田春夫](../Page/近田春夫.md "wikilink")や[高木完](../Page/高木完.md "wikilink")をDISした内容のラップを披露し、優勝。後に高木完は雑誌でこの時のRINOを、「日本人ラッパーで初めてスター性を感じた」と評価した。同年、アナログ版 『カミナリ c/w 夜ジェット』を発売。参加MCは、YOU THE ROCK、G.K.MARYAN、TWIGY、RINO。以降グループとしての活動は休止状態となり、メンバーはソロ活動を中心に活動。
 
 ### 活動再開〜メンバーの逮捕
 
-2003年、イベントで**KAMINARI-KAZOKU.**名義での活動再開を発表\[9\]。新メンバーとして、D.O、DJ MISSIE、DJ AMEKEN、SHINNOSK8らが加わる。同年、[SHIBUYA-AX](https://ja.wikipedia.org/wiki/SHIBUYA-AX "wikilink")でイベント「雷おこし」を開催。 同年、アナログ12インチで『雷電 c/w ロディオ・ドライヴ』『Death disco c/w イカヅチ』を限定で発売。2004年1月28日、ミニアルバム『大災害』を発売し、同年4月7日には1stフルアルバム『330 More Answer No Question』を発売。
+2003年、イベントで**KAMINARI-KAZOKU.**名義での活動再開を発表\[9\]。新メンバーとして、D.O、DJ MISSIE、DJ AMEKEN、SHINNOSK8らが加わる。同年、[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")でイベント「雷おこし」を開催。 同年、アナログ12インチで『雷電 c/w ロディオ・ドライヴ』『Death disco c/w イカヅチ』を限定で発売。2004年1月28日、ミニアルバム『大災害』を発売し、同年4月7日には1stフルアルバム『330 More Answer No Question』を発売。
 
 2008年と2010年の[B BOY PARKに出演](../Page/B_BOY_PARK.md "wikilink")。2010年10月、渋谷CLUB HARLEMで開催されたMUROのリリースパーティー「reminiscence of 1997」にG.K.MARYAN、RINO LATINA II、YOU THE ROCK★、TWIGY、UZI、DJ YASらが出演。同年11月25日、シングル「[2U](https://ja.wikipedia.org/wiki/2U_\(ヒップホップ\) "wikilink")」を500枚限定でGoro Goro Recordsより発売\[10\]。このシングルは、[大麻取締法違反](https://ja.wikipedia.org/wiki/大麻取締法違反 "wikilink")による逮捕・起訴に伴い音楽活動の引退を表明したYOU THE ROCK★へのメッセージソングとして発表された。参加MCはTWIGY、G.K.MARYAN、SIN、RINO LATINA II、PAT-504、D.O。
 
@@ -165,7 +165,7 @@
 
 ### LAMP EYE名義
 
-  - 「[証言](https://ja.wikipedia.org/wiki/証言_\(ヒップホップ\) "wikilink")」（1995年、1996年11月25日）
+  - 「[証言](../Page/証言_\(ヒップホップ\).md "wikilink")」（1995年、1996年11月25日）
 
 ## 開催イベント
 
@@ -176,7 +176,7 @@
 | 1995年      | **亜熱帯雨林**                              | 西麻布YELLOW                                                           |                                                 |
 | 1996年8月24日 | **鬼だまり**                               | [川崎クラブチッタ](../Page/CLUB_CITTA'.md "wikilink")                       |                                                 |
 | 2003年3月23日 | **Entotsu Sumpler Vol.1 Releaseparty** | [渋谷LIQUIDROOM](https://ja.wikipedia.org/wiki/LIQUIDROOM "wikilink") |                                                 |
-| 2003年      | **雷おこし**                               | [SHIBUYA-AX](https://ja.wikipedia.org/wiki/SHIBUYA-AX "wikilink")   |                                                 |
+| 2003年      | **雷おこし**                               | [SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")                      |                                                 |
 | 2003年      | **ELITISM Party**                      | 渋谷Vuenos                                                            |                                                 |
 | 2003年8月    | **神輿**                                 |                                                                     | D.O、DJ MISSIE、DJ AMEKEN、SHINNOSK8らが新メンバーとして加わる。 |
 

@@ -1,7 +1,7 @@
 > この記事は[DAIGO](https://ja.wikipedia.org/wiki/DAIGO)から翻訳されています。
 
 
-**DAIGO**（ダイゴ、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")、[俳優](../Page/俳優.md "wikilink")、[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[タレント](../Page/タレント.md "wikilink")、[司会者](https://ja.wikipedia.org/wiki/司会者 "wikilink")であり、3人組[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")・[BREAKERZ](https://ja.wikipedia.org/wiki/BREAKERZ "wikilink")の[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")である。[本名](https://ja.wikipedia.org/wiki/本名 "wikilink")は**内藤 大湖**（ないとう だいご）。血液型AB型、身長178cm\[1\]。
+**DAIGO**（ダイゴ、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[4月8日](../Page/4月8日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")、[俳優](../Page/俳優.md "wikilink")、[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[タレント](../Page/タレント.md "wikilink")、[司会者](https://ja.wikipedia.org/wiki/司会者 "wikilink")であり、3人組[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")・[BREAKERZ](https://ja.wikipedia.org/wiki/BREAKERZ "wikilink")の[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")である。[本名](https://ja.wikipedia.org/wiki/本名 "wikilink")は**内藤 大湖**（ないとう だいご）。血液型AB型、身長178cm\[1\]。
 
 [東京都](../Page/東京都.md "wikilink")出身。所属[芸能事務所](../Page/芸能事務所.md "wikilink")はタレントとしては[A-PLUS](../Page/A-PLUS.md "wikilink")、歌手活動では[Being](https://ja.wikipedia.org/wiki/Being "wikilink")に所属。
 
@@ -13,9 +13,9 @@
 
 ### 1978年 - 2001年 （誕生からインディーズバンド時代）
 
-[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")午後1時2分\[3\]、[東京都](../Page/東京都.md "wikilink")[中野区](https://ja.wikipedia.org/wiki/中野区 "wikilink")にて誕生。3歳から小学3年生の夏までを[千葉県](../Page/千葉県.md "wikilink")[市川市](../Page/市川市.md "wikilink")で過ごし、祖父が総理大臣に就任することに伴い再び東京都へ移住\[4\]。[玉川学園中学部・高等部を経て](../Page/学校法人玉川学園.md "wikilink")[玉川大学](../Page/玉川大学.md "wikilink")[文学部](../Page/文学部.md "wikilink")芸術学科（音楽専攻）中退。
+[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[4月8日](../Page/4月8日.md "wikilink")午後1時2分\[3\]、[東京都](../Page/東京都.md "wikilink")[中野区](https://ja.wikipedia.org/wiki/中野区 "wikilink")にて誕生。3歳から小学3年生の夏までを[千葉県](../Page/千葉県.md "wikilink")[市川市](../Page/市川市.md "wikilink")で過ごし、祖父が総理大臣に就任することに伴い再び東京都へ移住\[4\]。[玉川学園中学部・高等部を経て](../Page/学校法人玉川学園.md "wikilink")[玉川大学](../Page/玉川大学.md "wikilink")[文学部](../Page/文学部.md "wikilink")芸術学科（音楽専攻）中退。
 
-中学3年の時、兄の持っていた[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")の[CDをきっかけに音楽に目覚める](../Page/コンパクトディスク.md "wikilink")\[5\]。当初は何故か[クラシック・ギター](../Page/クラシック・ギター.md "wikilink")を習いに行ったが、なにか違うと思いすぐに辞め、独学で[エレキギターを練習した](../Page/エレクトリック・ギター.md "wikilink")\[6\]。友達と行ったカラオケで一番上手かったためヴォーカルを目指すことになった。\[7\]また、現在の所属[レーベル](../Page/レコードレーベル.md "wikilink")・[ビーイング](../Page/ビーイング.md "wikilink")の先輩である[B'z](../Page/B'z.md "wikilink")の大ファンであり、彼らの影響も受けたと自身のブログで語っている\[8\]。高1でコピーバンドを結成。\[9\]高3でボイストレーニングを始める。\[10\]高2でモテることに目覚め、校内自分プロモーションの結果、憧れの先輩ランキング3位になったことも重なり\[11\]、卒業前の学園祭で組んだバンド（JZEIL）が大好評。卒業後も続けることになる。ライブは後輩や友達が来て満員となり、\[12\]すぐに事務所がついたほどだった。\[13\][SIAM SHADEの後輩バンド](https://ja.wikipedia.org/wiki/SIAM_SHADE "wikilink")・JZEIL（ジェイル）の[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")として活動。当時は様々な[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")バンドが活動する中で、金髪と派手な[メイクとセクシーな衣装がトレードマークだった](../Page/化粧.md "wikilink")。各音楽誌からは「何と言ってもカリスマボーカリストであるDAIGOが聴き手を吸い込んでしまうほどの独自の世界観を演出」「ロックシーンを塗り替える」\[14\]という期待を受けプロへの誘いもあったが、結果が出ず[2001年](../Page/2001年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")バンドは解散。\[15\]「（2ndミニアルバムは）カッコ良い曲はカッコ良いんですけど、俺のキャパを超えている曲もあったりして、すごいシャウトする曲とか。（「自分の声質に合わない」\[16\]）それでちょっとずつ、よりヘビーな方に行きたいっていうメンバーとキャッチーなメロディがあるものを歌いたいっていう俺が分かれて来て、“ちょっとここらで1回離れた方がいいんじゃない？”って切りだしたんですよね」\[17\]。デモテープ2本、インディーズCD1枚、ミニアルバム2枚をリリースした。当初のヴィジュアル系ルックスから、1stミニアルバムでグラムに（楽曲は普通のロック）、1stフルアルバムで楽曲は洋楽テイストに変化。パンチの強いヴォーカルや高い張り上げヴォイスは現在の面影がない程であった。年間100本のライブを行い、\[18\]韓国へも行った\[19\]。
+中学3年の時、兄の持っていた[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")の[CDをきっかけに音楽に目覚める](../Page/コンパクトディスク.md "wikilink")\[5\]。当初は何故か[クラシック・ギター](../Page/クラシック・ギター.md "wikilink")を習いに行ったが、なにか違うと思いすぐに辞め、独学で[エレキギターを練習した](../Page/エレクトリック・ギター.md "wikilink")\[6\]。友達と行ったカラオケで一番上手かったためヴォーカルを目指すことになった。\[7\]また、現在の所属[レーベル](../Page/レコードレーベル.md "wikilink")・[ビーイング](../Page/ビーイング.md "wikilink")の先輩である[B'z](../Page/B'z.md "wikilink")の大ファンであり、彼らの影響も受けたと自身のブログで語っている\[8\]。高1でコピーバンドを結成。\[9\]高3でボイストレーニングを始める。\[10\]高2でモテることに目覚め、校内自分プロモーションの結果、憧れの先輩ランキング3位になったことも重なり\[11\]、卒業前の学園祭で組んだバンド（JZEIL）が大好評。卒業後も続けることになる。ライブは後輩や友達が来て満員となり、\[12\]すぐに事務所がついたほどだった。\[13\][SIAM SHADEの後輩バンド](../Page/SIAM_SHADE.md "wikilink")・JZEIL（ジェイル）の[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")として活動。当時は様々な[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")バンドが活動する中で、金髪と派手な[メイクとセクシーな衣装がトレードマークだった](../Page/化粧.md "wikilink")。各音楽誌からは「何と言ってもカリスマボーカリストであるDAIGOが聴き手を吸い込んでしまうほどの独自の世界観を演出」「ロックシーンを塗り替える」\[14\]という期待を受けプロへの誘いもあったが、結果が出ず[2001年](../Page/2001年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")バンドは解散。\[15\]「（2ndミニアルバムは）カッコ良い曲はカッコ良いんですけど、俺のキャパを超えている曲もあったりして、すごいシャウトする曲とか。（「自分の声質に合わない」\[16\]）それでちょっとずつ、よりヘビーな方に行きたいっていうメンバーとキャッチーなメロディがあるものを歌いたいっていう俺が分かれて来て、“ちょっとここらで1回離れた方がいいんじゃない？”って切りだしたんですよね」\[17\]。デモテープ2本、インディーズCD1枚、ミニアルバム2枚をリリースした。当初のヴィジュアル系ルックスから、1stミニアルバムでグラムに（楽曲は普通のロック）、1stフルアルバムで楽曲は洋楽テイストに変化。パンチの強いヴォーカルや高い張り上げヴォイスは現在の面影がない程であった。年間100本のライブを行い、\[18\]韓国へも行った\[19\]。
 
 ### 2001年 - 2007年 （DAIGO☆STARDUST）
 
@@ -47,7 +47,7 @@
 
 ## 人物
 
-好きな食べ物は[寿司](https://ja.wikipedia.org/wiki/寿司 "wikilink")、[ラーメン](https://ja.wikipedia.org/wiki/ラーメン "wikilink")、[焼肉](../Page/焼肉.md "wikilink")、[ポップコーン](../Page/ポップコーン.md "wikilink")\[57\]、キャベツ太郎（「一途に好き」）\[58\]や[うまい棒](https://ja.wikipedia.org/wiki/うまい棒 "wikilink")等のスナック菓子。好きなブランドはRoen\[59\]、Loree Rodkin\[60\]\[61\]、長年愛用している香水はドルチェ＆ガッバーナの「ライトブルー」\[62\]。
+好きな食べ物は[寿司](../Page/寿司.md "wikilink")、[ラーメン](https://ja.wikipedia.org/wiki/ラーメン "wikilink")、[焼肉](../Page/焼肉.md "wikilink")、[ポップコーン](../Page/ポップコーン.md "wikilink")\[57\]、キャベツ太郎（「一途に好き」）\[58\]や[うまい棒](https://ja.wikipedia.org/wiki/うまい棒 "wikilink")等のスナック菓子。好きなブランドはRoen\[59\]、Loree Rodkin\[60\]\[61\]、長年愛用している香水はドルチェ＆ガッバーナの「ライトブルー」\[62\]。
 
 本名の「**大湖**（だいご）」は、「**大**きい**湖**の様に広い心を持った人間になれ」という意味で名付けられた\[63\]。
 
@@ -69,17 +69,17 @@ DAIGOの生み出したキャラクターにくまパンダがある。グッズ
 
 その時、「もし[日本武道館](../Page/日本武道館.md "wikilink")でライブやるようなことがあったらぜひナレーションをお願いしたい」と話し、2009年の[BREAKERZ](https://ja.wikipedia.org/wiki/BREAKERZ "wikilink")初武道館ライブ"WISH"にて実現、エヴァ仕様のオープニングになった\[67\]。さらに、エヴァンゲリオンと[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")のコラボで発売されたエヴァケータイやエヴァスマホは欠かさず購入しており、2012年に発売されたエヴァスマホ「SH-06D NERV」の公式PR動画にもサポーターとして出演した。その動画内で[原宿](../Page/原宿.md "wikilink")のエヴァストアを訪れ、計48,612円ものエヴァグッズをお買い上げしている\[68\]。
 
-『[24時間テレビ 「愛は地球を救う」](https://ja.wikipedia.org/wiki/24時間テレビ_「愛は地球を救う」 "wikilink")』のチャリティマラソン完走後に[生放送](../Page/生放送.md "wikilink")された『[行列のできる法律相談所](../Page/行列のできる法律相談所.md "wikilink")』において、完走に対するご褒美として主題歌である「[残酷な天使のテーゼ](../Page/残酷な天使のテーゼ.md "wikilink")」の[高橋洋子本人による歌唱が披露された](https://ja.wikipedia.org/wiki/高橋洋子_\(歌手\) "wikilink")\[69\]。
+『[24時間テレビ 「愛は地球を救う」](https://ja.wikipedia.org/wiki/24時間テレビ_「愛は地球を救う」 "wikilink")』のチャリティマラソン完走後に[生放送](../Page/生放送.md "wikilink")された『[行列のできる法律相談所](../Page/行列のできる法律相談所.md "wikilink")』において、完走に対するご褒美として主題歌である「[残酷な天使のテーゼ](../Page/残酷な天使のテーゼ.md "wikilink")」の[高橋洋子本人による歌唱が披露された](../Page/高橋洋子_\(歌手\).md "wikilink")\[69\]。
 
 競馬好き\[70\]\[71\]が高じて番組（「馬の王子様」）を担当した。兄（博文）が競馬を内藤家に持ち込んだと影木が著書\[72\]の中で語っている。
 
 ### 家族・親族
 
-  - 冒頭にもあるように、母方の祖父は[竹下登](../Page/竹下登.md "wikilink")で、登の異母弟（[大叔父](https://ja.wikipedia.org/wiki/大叔父 "wikilink")）は[自民党](../Page/自由民主党_\(日本\).md "wikilink")[衆議院](https://ja.wikipedia.org/wiki/衆議院 "wikilink")議員の[竹下亘](https://ja.wikipedia.org/wiki/竹下亘 "wikilink")。
+  - 冒頭にもあるように、母方の祖父は[竹下登](../Page/竹下登.md "wikilink")で、登の異母弟（[大叔父](https://ja.wikipedia.org/wiki/大叔父 "wikilink")）は[自民党](../Page/自由民主党_\(日本\).md "wikilink")[衆議院](https://ja.wikipedia.org/wiki/衆議院 "wikilink")議員の[竹下亘](../Page/竹下亘.md "wikilink")。
   - 妻は女優の[北川景子](https://ja.wikipedia.org/wiki/北川景子 "wikilink")
-  - 父は[毎日新聞](https://ja.wikipedia.org/wiki/毎日新聞 "wikilink")[政治部記者](../Page/政治部記者.md "wikilink")を経て、竹下登の[秘書](https://ja.wikipedia.org/wiki/秘書 "wikilink")を務めた[内藤武宣](https://ja.wikipedia.org/wiki/内藤武宣 "wikilink")。父方の祖父は建設会社社長の[内藤用一郎](https://ja.wikipedia.org/wiki/内藤用一郎 "wikilink")。
+  - 父は[毎日新聞](https://ja.wikipedia.org/wiki/毎日新聞 "wikilink")[政治部記者](../Page/政治部記者.md "wikilink")を経て、竹下登の[秘書](../Page/秘書.md "wikilink")を務めた[内藤武宣](https://ja.wikipedia.org/wiki/内藤武宣 "wikilink")。父方の祖父は建設会社社長の[内藤用一郎](https://ja.wikipedia.org/wiki/内藤用一郎 "wikilink")。
   - 母は竹下登の次女・まる子で、母方の祖母は[竹下直子](https://ja.wikipedia.org/wiki/竹下直子 "wikilink")。
-  - 3人[姉弟の次男で](https://ja.wikipedia.org/wiki/兄弟姉妹 "wikilink")、姉と兄がおり、姉の栄子（[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")の[影木栄貴](../Page/影木栄貴.md "wikilink")）と、その2歳下の一般人の兄\[73\]。
+  - 3人[姉弟の次男で](../Page/兄弟姉妹.md "wikilink")、姉と兄がおり、姉の栄子（[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")の[影木栄貴](../Page/影木栄貴.md "wikilink")）と、その2歳下の一般人の兄\[73\]。
   - 母方の曽祖父は[島根県議会](https://ja.wikipedia.org/wiki/島根県議会 "wikilink")議員を務めた[竹下勇造](../Page/竹下勇造.md "wikilink")。
   - [テレビ山梨](../Page/テレビ山梨.md "wikilink")の代表取締役社長、[エフエム富士](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")の取締役を務めている金丸康信（[金丸信](../Page/金丸信.md "wikilink")の長男）は伯父（伯母〈母の姉〉の夫）で、その長女（従姉）はかつて姉・影木と共に[同人活動をしていた](https://ja.wikipedia.org/wiki/同人#漫画の同人 "wikilink")。
   - 竹下家の親戚には[卓球](../Page/卓球.md "wikilink")選手の[石川佳純](../Page/石川佳純.md "wikilink")もいる。
@@ -116,7 +116,7 @@ DAIGOの生み出したキャラクターにくまパンダがある。グッズ
   - [竹下登](../Page/竹下登.md "wikilink")（祖父、政治家）
   - [竹下直子](https://ja.wikipedia.org/wiki/竹下直子 "wikilink")（祖母）
   - [竹下勇造](../Page/竹下勇造.md "wikilink")（曽祖父、議員）
-  - [竹下亘](https://ja.wikipedia.org/wiki/竹下亘 "wikilink")（大叔父、政治家）
+  - [竹下亘](../Page/竹下亘.md "wikilink")（大叔父、政治家）
   - [金丸康信](../Page/テレビ山梨.md "wikilink")（伯母の夫、テレビ局社長）
   - [金丸信](../Page/金丸信.md "wikilink")（伯母の義父、政治家）
   - [野見山暁治](../Page/野見山暁治.md "wikilink")（父の義兄、画家）
@@ -142,7 +142,7 @@ DAIGOの生み出したキャラクターにくまパンダがある。グッズ
 
   - [竹下内閣](../Page/竹下内閣.md "wikilink")が[1989年](../Page/1989年.md "wikilink")（[平成](../Page/平成.md "wikilink")元年）[4月1日](../Page/4月1日.md "wikilink")に[消費税](../Page/消費税.md "wikilink")を導入した際、張本人の孫という事で、学校などでは随分と[いじめ](https://ja.wikipedia.org/wiki/いじめ "wikilink")られたと言い、[教師からも](../Page/教員.md "wikilink")「お前の[じいさんがあんな下らん税を導入しやがって](../Page/竹下登.md "wikilink")！」となじられるなど、苦い経験もしている。
   - 15歳の時、[小渕恵三](../Page/小渕恵三.md "wikilink")元[内閣総理大臣](https://ja.wikipedia.org/wiki/内閣総理大臣 "wikilink")から、[お年玉](../Page/お年玉.md "wikilink")として8万[円を貰っている](../Page/円_\(通貨\).md "wikilink")。祖父・竹下登からのお年玉の最高額が3万円だった事から、彼の中で「小渕さん、リスペクトですよ」とのこと\[80\]。
-  - 実家には、当時[官房長官の](../Page/内閣官房長官.md "wikilink")[小渕恵三](../Page/小渕恵三.md "wikilink")が[昭和](../Page/昭和.md "wikilink")64年（[1989年](../Page/1989年.md "wikilink")）[1月7日](../Page/1月7日.md "wikilink")に、当時の[総理大臣官邸の](../Page/総理大臣公邸.md "wikilink")[記者会見](../Page/記者会見.md "wikilink")で掲げた[平成](../Page/平成.md "wikilink")の[元号](../Page/元号.md "wikilink")が書かれた[色紙](https://ja.wikipedia.org/wiki/色紙 "wikilink")や、[祖父が](../Page/竹下登.md "wikilink")[昭和天皇](https://ja.wikipedia.org/wiki/昭和天皇 "wikilink")から手渡された[内閣総理大臣](https://ja.wikipedia.org/wiki/内閣総理大臣 "wikilink")任命書、[ローマ教皇](https://ja.wikipedia.org/wiki/ローマ教皇 "wikilink")であった[ヨハネ・パウロ2世からの贈呈品や](../Page/ヨハネ・パウロ2世_\(ローマ教皇\).md "wikilink")、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")、[セネガル](https://ja.wikipedia.org/wiki/セネガル "wikilink")からの[勲章](https://ja.wikipedia.org/wiki/勲章 "wikilink")などが秘蔵されている。これは[TBSテレビ](../Page/TBSテレビ.md "wikilink")の『[世界バリバリ★バリュー](../Page/世界バリバリ★バリュー.md "wikilink")』でも紹介された。同局の『[うたばん](../Page/うたばん.md "wikilink")』で「平成」の色紙を鑑定してもらったところ、「[価値](../Page/価値.md "wikilink")が高すぎて[鑑定](../Page/鑑定.md "wikilink")出来ない」との結果が出た。なお、[河東純一](https://ja.wikipedia.org/wiki/河東純一 "wikilink")が[揮毫](../Page/揮毫.md "wikilink")した「平成」の色紙は、この放送の後に[国立公文書館](../Page/国立公文書館.md "wikilink")に寄贈されている\[81\]。
+  - 実家には、当時[官房長官の](../Page/内閣官房長官.md "wikilink")[小渕恵三](../Page/小渕恵三.md "wikilink")が[昭和](../Page/昭和.md "wikilink")64年（[1989年](../Page/1989年.md "wikilink")）[1月7日](../Page/1月7日.md "wikilink")に、当時の[総理大臣官邸の](../Page/総理大臣公邸.md "wikilink")[記者会見](../Page/記者会見.md "wikilink")で掲げた[平成](../Page/平成.md "wikilink")の[元号](../Page/元号.md "wikilink")が書かれた[色紙](https://ja.wikipedia.org/wiki/色紙 "wikilink")や、[祖父が](../Page/竹下登.md "wikilink")[昭和天皇](../Page/昭和天皇.md "wikilink")から手渡された[内閣総理大臣](https://ja.wikipedia.org/wiki/内閣総理大臣 "wikilink")任命書、[ローマ教皇](https://ja.wikipedia.org/wiki/ローマ教皇 "wikilink")であった[ヨハネ・パウロ2世からの贈呈品や](../Page/ヨハネ・パウロ2世_\(ローマ教皇\).md "wikilink")、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")、[セネガル](https://ja.wikipedia.org/wiki/セネガル "wikilink")からの[勲章](https://ja.wikipedia.org/wiki/勲章 "wikilink")などが秘蔵されている。これは[TBSテレビ](../Page/TBSテレビ.md "wikilink")の『[世界バリバリ★バリュー](../Page/世界バリバリ★バリュー.md "wikilink")』でも紹介された。同局の『[うたばん](../Page/うたばん.md "wikilink")』で「平成」の色紙を鑑定してもらったところ、「[価値](../Page/価値.md "wikilink")が高すぎて[鑑定](../Page/鑑定.md "wikilink")出来ない」との結果が出た。なお、[河東純一](https://ja.wikipedia.org/wiki/河東純一 "wikilink")が[揮毫](../Page/揮毫.md "wikilink")した「平成」の色紙は、この放送の後に[国立公文書館](../Page/国立公文書館.md "wikilink")に寄贈されている\[81\]。
   - 2003年、「DAIGO☆STARDUST」でメジャーデビューした際は「**宇宙から舞い降りたロック王子**」という設定で活動していたが、（本人曰く）[小倉優子](https://ja.wikipedia.org/wiki/小倉優子 "wikilink")の「[こりん星人](https://ja.wikipedia.org/wiki/小倉優子#こりん星 "wikilink")」に比べ設定が甘かったため、次第に演じる本人が厳しくなり、ビーイング移籍を機に封印した。当時は「スペイシー・ハグ」「スペイシー・よちよち」など、自身の行為に「スペイシー」の接頭辞を付けていた。DAIGO☆STARDUSTのキャラについて、[土屋アンナ](https://ja.wikipedia.org/wiki/土屋アンナ "wikilink")からは完全否定されていた\[82\]がつんく♂、高見沢俊彦、yasuらからは気に入られていた\[83\]。
   - DAIGO☆STARDUST時代をバラエティ番組ではオチに使っているが、楽曲はL'Arc〜en〜Cielのhydeに「全部イイ」（2ndアルバム）と褒められており\[84\]、当時hydeから送られてきた[電子メール](../Page/電子メール.md "wikilink")は、ずっと保護して残している、と語っている。
   - 指貫きグローブについて、以前からライヴなどでしてきていたが、「ある時バラエティ番組に出させてもらった時に、グローブのことをすごい突っ込まれたんで。」「その時、“これ、結構いい感じなんじゃないの？”って」\[85\]と語り「あれが無いとロックポーズも決まらないから」手袋なしのDAIGOは「たぶん3%位（真顔）」とまで言い切る程である\[86\]。
@@ -276,7 +276,7 @@ DAIGOの生み出したキャラクターにくまパンダがある。グッズ
 <tr class="even">
 <td></td>
 <td><p>SCAPEGOAT</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/6月22日.md" title="wikilink">6月22日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/6月22日.md" title="wikilink">6月22日</a></p></td>
 <td><p>元<a href="../Page/THE_YELLOW_MONKEY.md" title="wikilink">THE YELLOW MONKEYの</a><a href="../Page/菊地英二.md" title="wikilink">菊地英二</a>、<a href="../Page/廣瀬洋一.md" title="wikilink">廣瀬洋一</a>（<a href="https://ja.wikipedia.org/wiki/HEESEY_WITH_DUDES" title="wikilink">HEESEY WITH DUDES</a>）、現<a href="https://ja.wikipedia.org/wiki/BREAKERZ" title="wikilink">BREAKERZ</a>のAKIHIDEが参加。</p></td>
 <td><p>ビクターエンタテインメント</p></td>
 <td><p>174位</p></td>
@@ -315,7 +315,7 @@ DAIGOの生み出したキャラクターにくまパンダがある。グッズ
 <tr class="odd">
 <td></td>
 <td><p>HELLO CRAZY GENTLEMAN</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/11月23日.md" title="wikilink">11月23日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/11月23日.md" title="wikilink">11月23日</a></p></td>
 <td><p>HITOSHI、AKIHIDE参加。</p></td>
 <td><p>ビクターエンタテインメント</p></td>
 <td><p>258位</p></td>
@@ -346,7 +346,7 @@ DAIGOの生み出したキャラクターにくまパンダがある。グッズ
 <td></td>
 <td><p>戦国BASARA〜紅盤〜</p></td>
 <td><p><a href="../Page/2009年.md" title="wikilink">2009年</a><a href="../Page/6月10日.md" title="wikilink">6月10日</a></p></td>
-<td><p>TVアニメ「<a href="https://ja.wikipedia.org/wiki/戦国BASARA" title="wikilink">戦国BASARA</a>」の<a href="../Page/サウンドトラック.md" title="wikilink">サウンドトラック</a>へ楽曲提供（※書き下ろしではない）。</p></td>
+<td><p>TVアニメ「<a href="../Page/戦国BASARA.md" title="wikilink">戦国BASARA</a>」の<a href="../Page/サウンドトラック.md" title="wikilink">サウンドトラック</a>へ楽曲提供（※書き下ろしではない）。</p></td>
 <td><p><a href="../Page/フライングドッグ.md" title="wikilink">flying DOG</a></p></td>
 </tr>
 </tbody>
@@ -389,9 +389,9 @@ DAIGOの生み出したキャラクターにくまパンダがある。グッズ
 
   - タイアップ
 
-| 楽曲           | タイアップ                                                                 | 時期    |
-| ------------ | --------------------------------------------------------------------- | ----- |
-| 永遠のスペースカウボーイ | [ロッテアイス](https://ja.wikipedia.org/wiki/ロッテアイス "wikilink")「クールショック」CM曲 | 2003年 |
+| 楽曲           | タイアップ                                              | 時期    |
+| ------------ | -------------------------------------------------- | ----- |
+| 永遠のスペースカウボーイ | [ロッテアイス](../Page/ロッテアイス.md "wikilink")「クールショック」CM曲 | 2003年 |
 
 ### DAIGO
 
@@ -524,7 +524,7 @@ DAIGOの生み出したキャラクターにくまパンダがある。グッズ
 <tr class="even">
 <td></td>
 <td><p>DAIGO TV</p></td>
-<td><p><a href="../Page/2009年.md" title="wikilink">2009年</a><a href="https://ja.wikipedia.org/wiki/4月8日" title="wikilink">4月8日</a></p></td>
+<td><p><a href="../Page/2009年.md" title="wikilink">2009年</a><a href="../Page/4月8日.md" title="wikilink">4月8日</a></p></td>
 <td></td>
 <td><p>リバプール</p></td>
 </tr>
@@ -588,7 +588,7 @@ DAIGOの生み出したキャラクターにくまパンダがある。グッズ
 </tr>
 <tr class="even">
 <td><p>STAY GOLD</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/札幌テレビ放送" title="wikilink">札幌テレビ放送</a>「2014STVスキージャンプ中継」テーマソング<br />
+<td><p><a href="../Page/札幌テレビ放送.md" title="wikilink">札幌テレビ放送</a>「2014STVスキージャンプ中継」テーマソング<br />
 日本テレビ系「<a href="../Page/スキージャンプ・ワールドカップ.md" title="wikilink">FISジャンプワールドカップレディース</a>2014札幌大会」テーマソング</p></td>
 <td><p>2014年</p></td>
 </tr>
@@ -749,7 +749,7 @@ DAIGOの生み出したキャラクターにくまパンダがある。グッズ
 
   - [火曜サプライズ](https://ja.wikipedia.org/wiki/火曜サプライズ "wikilink")（[2012年](../Page/2012年.md "wikilink")[1月24日](../Page/1月24日.md "wikilink") - 、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
   - [幸せ\!ボンビーガール](https://ja.wikipedia.org/wiki/幸せ!ボンビーガール "wikilink")（[2011年](../Page/2011年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink") - 、日本テレビ） - 第1期は準レギュラーで、[2013年](../Page/2013年.md "wikilink")[4月23日](../Page/4月23日.md "wikilink")の第2期からレギュラー出演。
-  - [ニンゲン観察バラエティ モニタリング](https://ja.wikipedia.org/wiki/ニンゲン観察バラエティ_モニタリング "wikilink")（[2015年](../Page/2015年.md "wikilink")[4月16日](https://ja.wikipedia.org/wiki/4月16日 "wikilink") - 、[TBSテレビ](../Page/TBSテレビ.md "wikilink")）
+  - [ニンゲン観察バラエティ モニタリング](https://ja.wikipedia.org/wiki/ニンゲン観察バラエティ_モニタリング "wikilink")（[2015年](../Page/2015年.md "wikilink")[4月16日](../Page/4月16日.md "wikilink") - 、[TBSテレビ](../Page/TBSテレビ.md "wikilink")）
   - [キネマのDAIGO☆味](https://ja.wikipedia.org/wiki/キネマのDAIGO☆味 "wikilink")（2015年[4月4日](../Page/4月4日.md "wikilink") - 、[J.COM TV](https://ja.wikipedia.org/wiki/ジュピターテレコム#J:COM_TV "wikilink")） - MC
   - [ライフUP](https://ja.wikipedia.org/wiki/ライフUP "wikilink")（[2016年](../Page/2016年.md "wikilink")4月29日 - 、[NHK総合](../Page/NHK総合テレビジョン.md "wikilink")）MC \[92\]
   - [セノビタビ。](https://ja.wikipedia.org/wiki/セノビタビ。 "wikilink")（2016年4月28日 - 、フジテレビ）
@@ -771,7 +771,7 @@ DAIGOの生み出したキャラクターにくまパンダがある。グッズ
   - [お宝発信タワー DAI-NAMO](https://ja.wikipedia.org/wiki/お宝発信タワー_DAI-NAMO "wikilink")（2010年10月13日 - 2011年9月21日、[CBC](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")） - [中京ローカル](../Page/中京ローカル.md "wikilink")
   - [馬の王子様](https://ja.wikipedia.org/wiki/馬の王子様 "wikilink")（2010年10月7日 - 2013年3月28日、フジテレビ） - SeasonII王子役として出演
   - [ヴァンガ道](https://ja.wikipedia.org/wiki/ヴァンガードTV "wikilink")（[2011年](../Page/2011年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink") - [2012年](../Page/2012年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")、[2013年](../Page/2013年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink") - [12月28日](../Page/12月28日.md "wikilink")、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")） - 司会
-  - [新堂本兄弟](https://ja.wikipedia.org/wiki/新堂本兄弟 "wikilink")（2011年[6月12日](../Page/6月12日.md "wikilink") - 2014年9月28日、フジテレビ） - 代打での出演が続いた後、[2012年](../Page/2012年.md "wikilink")[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")の誕生日にレギュラーをプレゼントされた。
+  - [新堂本兄弟](https://ja.wikipedia.org/wiki/新堂本兄弟 "wikilink")（2011年[6月12日](../Page/6月12日.md "wikilink") - 2014年9月28日、フジテレビ） - 代打での出演が続いた後、[2012年](../Page/2012年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")の誕生日にレギュラーをプレゼントされた。
   - [ひるおび\!](https://ja.wikipedia.org/wiki/ひるおび! "wikilink")（2011年[8月26日](../Page/8月26日.md "wikilink") - 2018年3月16日、TBS） - 月1レギュラー
   - [白熱ライブ　ビビット](https://ja.wikipedia.org/wiki/白熱ライブ_ビビット "wikilink")（[2015年](../Page/2015年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink") - 2016年3月22日、[TBS](../Page/TBSテレビ.md "wikilink")） - 火曜レギュラー　\[93\]
   - [ラストキス〜最後にキスするデート](https://ja.wikipedia.org/wiki/ラストキス〜最後にキスするデート "wikilink")（2015年[10月27日](../Page/10月27日.md "wikilink") - [2016年](../Page/2016年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink")、TBS） - MC \[94\]
@@ -848,13 +848,13 @@ DAIGOの生み出したキャラクターにくまパンダがある。グッズ
   - [ハドソン](../Page/ハドソン.md "wikilink") [エクシング](../Page/エクシング.md "wikilink") 「[カラオケJOYSOUND Wii](https://ja.wikipedia.org/wiki/カラオケJOYSOUND_Wii "wikilink")」（2008年） - 「おじいちゃんと孫篇」「女子高生篇」 ※[任天堂](../Page/任天堂.md "wikilink")版も実在するが、こちらは出演していない。
   - [江崎グリコ](https://ja.wikipedia.org/wiki/江崎グリコ "wikilink")
       - 「牧場しぼり」（[2009年](../Page/2009年.md "wikilink")）
-      - 「[プリッツ](https://ja.wikipedia.org/wiki/プリッツ "wikilink")」（[2017年](../Page/2017年.md "wikilink")）
+      - 「[プリッツ](../Page/プリッツ.md "wikilink")」（[2017年](../Page/2017年.md "wikilink")）
   - [KIRIN](../Page/麒麟麦酒.md "wikilink") 「淡麗ストレート」（2009年）
-  - [DARIYA](https://ja.wikipedia.org/wiki/ダリヤ "wikilink") 「men's Palty」（2009年）
+  - [DARIYA](../Page/ダリヤ.md "wikilink") 「men's Palty」（2009年）
   - [LION](../Page/ライオン_\(企業\).md "wikilink") 「CHARMY 泡のチカラ」（2009年 - [2011年](../Page/2011年.md "wikilink")） - 武士の格好で泡賀剥ヶ介（あわがはがすけ）として出演。
   - [アメーバピグ](https://ja.wikipedia.org/wiki/アメーバピグ "wikilink")（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月14日](../Page/4月14日.md "wikilink") - [5月13日](../Page/5月13日.md "wikilink")）
   - [ブシロード](../Page/ブシロード.md "wikilink")「[カードファイト\!\! ヴァンガード](https://ja.wikipedia.org/wiki/カードファイト!!_ヴァンガード "wikilink")」（2011年 - ）
-  - [アサヒビール](../Page/アサヒビール.md "wikilink")「slat」（[2012年](../Page/2012年.md "wikilink")） - [中山美穂](https://ja.wikipedia.org/wiki/中山美穂 "wikilink")と共演。
+  - [アサヒビール](../Page/アサヒビール.md "wikilink")「slat」（[2012年](../Page/2012年.md "wikilink")） - [中山美穂](../Page/中山美穂.md "wikilink")と共演。
   - [GROP](https://ja.wikipedia.org/wiki/GROP "wikilink")（[2014年](../Page/2014年.md "wikilink")9月 - ）※中四国・関西中心
   - [九州旅客鉄道](../Page/九州旅客鉄道.md "wikilink")「どっちがウィッシュ?長崎VS熊本」（[2015年](../Page/2015年.md "wikilink") - ）\[103\]
   - [ダイハツ工業](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")「[タント](../Page/ダイハツ・タント.md "wikilink")」（2015年 - ） - [加藤ローサ](https://ja.wikipedia.org/wiki/加藤ローサ "wikilink")と共演。
@@ -863,7 +863,7 @@ DAIGOの生み出したキャラクターにくまパンダがある。グッズ
   - [太田胃散](../Page/太田胃散.md "wikilink")「太田胃散A〈錠剤〉」（2016年）\[105\]
   - ブシロード「[フューチャーカード バディファイト](https://ja.wikipedia.org/wiki/フューチャーカード_バディファイト "wikilink")」（2016年 - [2018年](../Page/2018年.md "wikilink")）
   - [ティーバイティー](https://ja.wikipedia.org/wiki/ティーバイティー "wikilink")「買取王子」（2017年 - ）\[106\]
-  - [第一生命](https://ja.wikipedia.org/wiki/第一生命保険 "wikilink") 「ジャスト」（2018年 - ） - [今田美桜](https://ja.wikipedia.org/wiki/今田美桜 "wikilink")と[ノブ](https://ja.wikipedia.org/wiki/ノブ_\(お笑い芸人\) "wikilink")（[千鳥](../Page/千鳥_\(お笑いコンビ\).md "wikilink")）と共演。
+  - [第一生命](../Page/第一生命保険.md "wikilink") 「ジャスト」（2018年 - ） - [今田美桜](https://ja.wikipedia.org/wiki/今田美桜 "wikilink")と[ノブ](https://ja.wikipedia.org/wiki/ノブ_\(お笑い芸人\) "wikilink")（[千鳥](../Page/千鳥_\(お笑いコンビ\).md "wikilink")）と共演。
   - [米久](../Page/米久.md "wikilink")「御殿場高原あらびきポーク」『スーパー篇』『食卓篇』（2019年 - ）\[107\]
 
 ### ポスター

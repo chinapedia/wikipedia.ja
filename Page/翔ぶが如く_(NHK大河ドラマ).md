@@ -1,7 +1,7 @@
 > この記事は[ \(NHK\)](https://ja.wikipedia.org/wiki/_\(NHK\))から翻訳されています。
 
 
-『**翔ぶが如く**』（とぶがごとく）は、[NHKで](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[1月7日](../Page/1月7日.md "wikilink")から[12月9日](../Page/12月9日.md "wikilink")に放送された28作目の[大河ドラマ](../Page/大河ドラマ.md "wikilink")。原作は[司馬遼太郎](../Page/司馬遼太郎.md "wikilink")の同名小説『[翔ぶが如く](https://ja.wikipedia.org/wiki/翔ぶが如く "wikilink")』。[西田敏行](../Page/西田敏行.md "wikilink")が演じる**[西郷隆盛](../Page/西郷隆盛.md "wikilink")**と[鹿賀丈史](../Page/鹿賀丈史.md "wikilink")が演じる**[大久保利通](../Page/大久保利通.md "wikilink")**が主役。大河ドラマ初の2部構成作品（第1部29話、第2部19話の全48話）。
+『**翔ぶが如く**』（とぶがごとく）は、[NHKで](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[1月7日](../Page/1月7日.md "wikilink")から[12月9日](../Page/12月9日.md "wikilink")に放送された28作目の[大河ドラマ](../Page/大河ドラマ.md "wikilink")。原作は[司馬遼太郎](../Page/司馬遼太郎.md "wikilink")の同名小説『[翔ぶが如く](../Page/翔ぶが如く.md "wikilink")』。[西田敏行](../Page/西田敏行.md "wikilink")が演じる**[西郷隆盛](../Page/西郷隆盛.md "wikilink")**と[鹿賀丈史](../Page/鹿賀丈史.md "wikilink")が演じる**[大久保利通](../Page/大久保利通.md "wikilink")**が主役。大河ドラマ初の2部構成作品（第1部29話、第2部19話の全48話）。
 
 ## 概要
 
@@ -75,7 +75,7 @@
     演：[国生さゆり](../Page/国生さゆり.md "wikilink")
     従道の妻。
   - [西郷吉二郎](../Page/西郷吉二郎.md "wikilink")（さいごう きちじろう）
-    演：[村田雄浩](https://ja.wikipedia.org/wiki/村田雄浩 "wikilink")
+    演：[村田雄浩](../Page/村田雄浩.md "wikilink")
     隆盛の弟。戊辰戦争で戦死。
   - [永田熊吉](https://ja.wikipedia.org/wiki/永田熊吉 "wikilink")（ながた くまきち）
     演：[車だん吉](../Page/車だん吉.md "wikilink")
@@ -150,7 +150,7 @@
   - 大久保きち（おおくぼ きち）
     演：[吉川十和子](../Page/君島十和子.md "wikilink")
     利通の妹。
-  - [大久保伸熊](https://ja.wikipedia.org/wiki/牧野伸顕 "wikilink")（おおくぼ のぶくま）
+  - [大久保伸熊](../Page/牧野伸顕.md "wikilink")（おおくぼ のぶくま）
     演：[三浦竜也](https://ja.wikipedia.org/wiki/三浦竜也 "wikilink")（幼年期：[大西良和](https://ja.wikipedia.org/wiki/大西良和 "wikilink")）
     利通の子。
   - [大久保三熊](../Page/大久保利武.md "wikilink")
@@ -232,7 +232,7 @@
     精忠組志士。通称は**幸輔**（こうすけ）。維新後は[宮内少輔](https://ja.wikipedia.org/wiki/宮内少輔 "wikilink")。
   - [伊地知正治](../Page/伊地知正治.md "wikilink")（いじち まさはる）
     演：[安藤一夫](https://ja.wikipedia.org/wiki/安藤一夫 "wikilink")
-  - [有馬新七](https://ja.wikipedia.org/wiki/有馬新七 "wikilink")（ありま しんしち）
+  - [有馬新七](../Page/有馬新七.md "wikilink")（ありま しんしち）
     演：[内藤剛志](../Page/内藤剛志.md "wikilink")
     精忠組志士。過激な尊王攘夷思想の持ち主で、後に[寺田屋事件](../Page/寺田屋事件.md "wikilink")で死亡する。
   - [森山新蔵](https://ja.wikipedia.org/wiki/森山新蔵 "wikilink")（もりやま しんぞう）
@@ -260,7 +260,7 @@
   - [中山尚之助](https://ja.wikipedia.org/wiki/中山中左衛門 "wikilink")
     演：[深水三章](../Page/深水三章.md "wikilink")
     久光の側近だが、立身出世のために吉之助や一蔵など周囲の者たちを次々と讒言し、最後は久光に降格させられる。
-  - [伊集院兼寛](https://ja.wikipedia.org/wiki/伊集院兼寛 "wikilink")（いじゅういん かねひろ）
+  - [伊集院兼寛](../Page/伊集院兼寛.md "wikilink")（いじゅういん かねひろ）
     演：[内田慎一](https://ja.wikipedia.org/wiki/内田慎一 "wikilink")
     隆盛の先妻・俊の兄。
   - 伊集院ヨシ
@@ -276,19 +276,19 @@
   - [桐野利秋](../Page/桐野利秋.md "wikilink")（きりの としあき）
     演：[杉本哲太](https://ja.wikipedia.org/wiki/杉本哲太 "wikilink")
     元陸軍少将。
-  - [篠原国幹](https://ja.wikipedia.org/wiki/篠原国幹 "wikilink")（しのはら くにもと）
+  - [篠原国幹](../Page/篠原国幹.md "wikilink")（しのはら くにもと）
     演：[西田静志郎](https://ja.wikipedia.org/wiki/西田聖志郎 "wikilink")
     元陸軍少将。保守的な人物で、作中では隆盛の弟の従道や大警視の川路にも喧嘩を売るような口調で接した。
   - [別府晋介](../Page/別府晋介.md "wikilink")（べっぷ しんすけ）
     演：[黒田隆哉](../Page/黒田崇矢.md "wikilink")
     元陸軍少佐。隆盛の自決の際、隆盛を介錯した。
-  - [永山弥一郎](https://ja.wikipedia.org/wiki/永山弥一郎 "wikilink")（ながやま やいちろう）
+  - [永山弥一郎](../Page/永山弥一郎.md "wikilink")（ながやま やいちろう）
     演：[遠藤憲一](../Page/遠藤憲一.md "wikilink")
     元陸軍少佐。出兵には反対だったが隆盛の意志に従い止む無く参加した。
   - [野村忍介](../Page/野村忍介.md "wikilink")（のむら にんすけ）
     演：[宮崎達也](https://ja.wikipedia.org/wiki/宮崎達也 "wikilink")
-    [鹿児島県](../Page/鹿児島県.md "wikilink")[警察署長](https://ja.wikipedia.org/wiki/警察署長 "wikilink")。桐野ら過激派には頭を悩ましている。
-  - [池上四郎](https://ja.wikipedia.org/wiki/池上四郎_\(薩摩藩士\) "wikilink")（いけのうえ しろう）
+    [鹿児島県](../Page/鹿児島県.md "wikilink")[警察署長](../Page/警察署長.md "wikilink")。桐野ら過激派には頭を悩ましている。
+  - [池上四郎](../Page/池上四郎_\(薩摩藩士\).md "wikilink")（いけのうえ しろう）
     演：[横溝貴之](https://ja.wikipedia.org/wiki/横溝たかゆき "wikilink")
 
 ### 江戸幕府
@@ -316,7 +316,7 @@
     演：[林隆三](../Page/林隆三.md "wikilink")
     江戸幕府陸軍総裁。坂本龍馬の師匠で、隆盛と会見し江戸城を明け渡す。本作では第二部には直接登場しないが、隆盛が下野した時の大久保の後任案の人事として「参議兼[海軍卿](https://ja.wikipedia.org/wiki/海軍卿 "wikilink")・勝安芳」と記されている。
   - [阿部正弘](../Page/阿部正弘.md "wikilink")（あべ まさひろ）
-    演：[若林豪](https://ja.wikipedia.org/wiki/若林豪 "wikilink")
+    演：[若林豪](../Page/若林豪.md "wikilink")
     老中。
   - [井伊直弼](../Page/井伊直弼.md "wikilink")（いい なおすけ）
     演：[神山繁](../Page/神山繁.md "wikilink")
@@ -327,19 +327,19 @@
   - [堀田正睦](../Page/堀田正睦.md "wikilink")（ほった まさよし）
     演：[井上孝雄](../Page/井上孝雄.md "wikilink")
     老中。
-  - [阿部正外](https://ja.wikipedia.org/wiki/阿部正外 "wikilink")（あべ まさとう）
+  - [阿部正外](../Page/阿部正外.md "wikilink")（あべ まさとう）
     演：[山本寛](https://ja.wikipedia.org/wiki/山本寛_\(俳優\) "wikilink")
     老中。
-  - [青山忠良](https://ja.wikipedia.org/wiki/青山忠良 "wikilink")（あおやま ただよし）
+  - [青山忠良](../Page/青山忠良.md "wikilink")（あおやま ただよし）
     演：[小林勝也](../Page/小林勝也.md "wikilink")
     老中。
-  - [松平忠固](https://ja.wikipedia.org/wiki/松平忠固 "wikilink")（まつだいら ただかた）
+  - [松平忠固](../Page/松平忠固.md "wikilink")（まつだいら ただかた）
     演：[岸本功](https://ja.wikipedia.org/wiki/岸本功 "wikilink")
     老中。
-  - [牧野忠雅](https://ja.wikipedia.org/wiki/牧野忠雅 "wikilink")（まきの ただまさ）
+  - [牧野忠雅](../Page/牧野忠雅.md "wikilink")（まきの ただまさ）
     演：[小寺大介](../Page/小寺大介.md "wikilink")
     老中。
-  - [太田資始](https://ja.wikipedia.org/wiki/太田資始 "wikilink")（おおた すけはる）
+  - [太田資始](../Page/太田資始.md "wikilink")（おおた すけはる）
     演：[ト字たかお](../Page/ト字たかお.md "wikilink")
     老中。
   - [間部詮勝](../Page/間部詮勝.md "wikilink")（まなべ あきかつ）
@@ -382,7 +382,7 @@
   - [大村益次郎](https://ja.wikipedia.org/wiki/大村益次郎 "wikilink")（おおむら ますじろう）
     演：[平田満](../Page/平田満.md "wikilink")
     長州藩士。軍略の天才だが、隆盛のことを快く思っていない。
-  - [木戸松子](https://ja.wikipedia.org/wiki/木戸松子 "wikilink")（きど まつこ）
+  - [木戸松子](../Page/木戸松子.md "wikilink")（きど まつこ）
     （幾松→木戸松子）
     演：[景山仁美](https://ja.wikipedia.org/wiki/景山仁美 "wikilink")
     孝允の妻。元は京都の芸妓で、当時の名は**幾松**（いくまつ）。
@@ -411,7 +411,7 @@
   - [三条実美](../Page/三条実美.md "wikilink")（さんじょう さねとみ）
     演：[角野卓造](../Page/角野卓造.md "wikilink")
     公家。早くから倒幕運動に加わり、明治新政府では[太政大臣](../Page/太政大臣.md "wikilink")に任命されるが、お人好しで決断力の乏しさが災いして明治六年の政変では、心労から板挟みとなって病に倒れてしまう。
-  - [近衛忠煕](https://ja.wikipedia.org/wiki/近衛忠煕 "wikilink")（このえ ただひろ）
+  - [近衛忠煕](../Page/近衛忠煕.md "wikilink")（このえ ただひろ）
     演：[柳生博](../Page/柳生博.md "wikilink")
     公家。篤姫を養女に迎えるなど、斉彬の政治活動に協力する。
   - [明治天皇](https://ja.wikipedia.org/wiki/明治天皇 "wikilink")（めいじ てんのう）
@@ -490,7 +490,7 @@
     長州藩出身。
     少々調子のよいところがあるが新政府を支える利通に私淑しており、利通の死に嗚咽する。
   - [山縣有朋](../Page/山縣有朋.md "wikilink")（やまがた ありとも）
-    演：[新井康弘](https://ja.wikipedia.org/wiki/新井康弘 "wikilink")
+    演：[新井康弘](../Page/新井康弘.md "wikilink")
     長州藩出身。汚職で追放されるが、隆盛に救われる。そのため西南戦争では泣く泣く隆盛を総攻撃した。
   - [大隈重信](../Page/大隈重信.md "wikilink")（おおくま しげのぶ）
     演：[石丸謙二郎](../Page/石丸謙二郎.md "wikilink")
@@ -548,7 +548,7 @@
   - [田中光顕](../Page/田中光顕.md "wikilink")（たなか みつあき）
     演：[宮寺陽一郎](https://ja.wikipedia.org/wiki/宮寺陽一郎 "wikilink")
     土佐藩出身。
-  - [浅田信興](https://ja.wikipedia.org/wiki/浅田信興 "wikilink")（あさだ のぶおき）
+  - [浅田信興](../Page/浅田信興.md "wikilink")（あさだ のぶおき）
     演：[小田島隆](https://ja.wikipedia.org/wiki/小田島瑛 "wikilink")
 
 ### 市井の人々
@@ -602,7 +602,7 @@
     アメリカから帰国した漂流民。
     斉彬の前で自らが目にしたアメリカの様子を語る。
   - [白石正一郎](../Page/白石正一郎.md "wikilink")（しらいし しょういちろう）
-    演：[小林勝彦](https://ja.wikipedia.org/wiki/小林勝彦 "wikilink")
+    演：[小林勝彦](../Page/小林勝彦.md "wikilink")
     下関の商人。
   - おゆう
     演：[未来貴子](../Page/未來貴子.md "wikilink")
@@ -616,15 +616,15 @@
   - カメ
     演：[飯田テル子](https://ja.wikipedia.org/wiki/飯田テル子 "wikilink")
   - 岡崎恭助（おかざき きょうすけ）
-    演：[佐渡稔](https://ja.wikipedia.org/wiki/佐渡稔 "wikilink")
+    演：[佐渡稔](../Page/佐渡稔.md "wikilink")
   - 清次郎（せいじろう）
-    演：[松澤一之](https://ja.wikipedia.org/wiki/松澤一之 "wikilink")
+    演：[松澤一之](../Page/松澤一之.md "wikilink")
   - 梅乃家五郎八（うめのや ごろはち）
     演：[桂三木助](../Page/桂三木助_\(4代目\).md "wikilink")
   - 坂東（ばんどう）
     演：[田口トモロヲ](../Page/田口トモロヲ.md "wikilink")
   - 向井（むかい）
-    演：[直江喜一](https://ja.wikipedia.org/wiki/直江喜一 "wikilink")
+    演：[直江喜一](../Page/直江喜一.md "wikilink")
 
 ### 外国人
 
@@ -645,12 +645,12 @@
 
   - 原作：[司馬遼太郎](../Page/司馬遼太郎.md "wikilink")
       -
-        （「[翔ぶが如く](https://ja.wikipedia.org/wiki/翔ぶが如く "wikilink")」「[最後の将軍](https://ja.wikipedia.org/wiki/最後の将軍_徳川慶喜 "wikilink")」「[きつね馬](https://ja.wikipedia.org/wiki/酔って候 "wikilink")」「[竜馬がゆく](../Page/竜馬がゆく.md "wikilink")」「[酔って候](https://ja.wikipedia.org/wiki/酔って候 "wikilink")」「[花神](../Page/花神_\(小説\).md "wikilink")」「[歳月](https://ja.wikipedia.org/wiki/歳月_\(小説\) "wikilink")」より）
+        （「[翔ぶが如く](../Page/翔ぶが如く.md "wikilink")」「[最後の将軍](https://ja.wikipedia.org/wiki/最後の将軍_徳川慶喜 "wikilink")」「[きつね馬](https://ja.wikipedia.org/wiki/酔って候 "wikilink")」「[竜馬がゆく](../Page/竜馬がゆく.md "wikilink")」「[酔って候](https://ja.wikipedia.org/wiki/酔って候 "wikilink")」「[花神](../Page/花神_\(小説\).md "wikilink")」「[歳月](https://ja.wikipedia.org/wiki/歳月_\(小説\) "wikilink")」より）
   - 脚本：[小山内美江子](../Page/小山内美江子.md "wikilink")
   - 音楽：[一柳慧](../Page/一柳慧.md "wikilink")
   - 演奏：東京コンサーツ
   - テーマ音楽演奏：[NHK交響楽団](../Page/NHK交響楽団.md "wikilink")
-  - テーマ音楽指揮：[秋山和慶](https://ja.wikipedia.org/wiki/秋山和慶 "wikilink")
+  - テーマ音楽指揮：[秋山和慶](../Page/秋山和慶.md "wikilink")
   - 監修：[小西四郎](https://ja.wikipedia.org/wiki/小西四郎 "wikilink")
   - 時代考証・アバンタイトル解説：[原口泉](https://ja.wikipedia.org/wiki/原口泉 "wikilink")
   - 風俗考証：小野一成
@@ -693,8 +693,8 @@
 ### 放送日程
 
   - 第1部第1回は40分繰り上げかつ40分延長。
-  - 第1部第5回は20時から[衆議院選挙特集](https://ja.wikipedia.org/wiki/第39回衆議院議員総選挙 "wikilink")「徹底インタビュー・政策を問う」を放送するため45分繰り上げ。
-  - 2月18日は[第39回衆議院議員総選挙](https://ja.wikipedia.org/wiki/第39回衆議院議員総選挙 "wikilink")開票速報のため、放送休止。
+  - 第1部第5回は20時から[衆議院選挙特集](../Page/第39回衆議院議員総選挙.md "wikilink")「徹底インタビュー・政策を問う」を放送するため45分繰り上げ。
+  - 2月18日は[第39回衆議院議員総選挙](../Page/第39回衆議院議員総選挙.md "wikilink")開票速報のため、放送休止。
   - 第1部第10回は[7時のニュースが](https://ja.wikipedia.org/wiki/NHKニュース7 "wikilink")10分延長したため、10分繰り下げ。
   - 第1部第29回は14分延長。
   - 第2部第10回は20時28分から第11回アジア大会閉会式を放送するため30分繰り上げ。

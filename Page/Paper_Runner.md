@@ -5,7 +5,7 @@
 
 ## 公演
 
-  - 東京公演　2004年[4月13日](../Page/4月13日.md "wikilink") - [4月25日](../Page/4月25日.md "wikilink")　[本多劇場](https://ja.wikipedia.org/wiki/本多劇場 "wikilink")
+  - 東京公演　2004年[4月13日](../Page/4月13日.md "wikilink") - [4月25日](../Page/4月25日.md "wikilink")　[本多劇場](../Page/本多劇場.md "wikilink")
   - 神戸公演　2004年[5月1日](../Page/5月1日.md "wikilink") - [5月2日](../Page/5月2日.md "wikilink")　[新神戸オリエンタル劇場](https://ja.wikipedia.org/wiki/新神戸オリエンタル劇場 "wikilink")
 
 ## あらすじ
@@ -25,7 +25,7 @@
   - 嵐山（アラシヤマ）：[久ヶ沢徹](../Page/久ヶ沢徹.md "wikilink")
     ミリタリーにかぶれている。住まいは父からもらったマンション。よく編集部のドアにぶつかる。ウズマキとは名コンビ。「マンガのセオリー」のパートナー的キャラクター。
   - ムロオカ編集長：[室岡悟](../Page/室岡悟.md "wikilink")
-    編集長。よく壊れる。名前も、服装も、前作『[Sweet7](https://ja.wikipedia.org/wiki/Sweet7 "wikilink")』で室岡が演じた人物と同じ。「マンガのセオリー」の謎の老人的キャラクター。
+    編集長。よく壊れる。名前も、服装も、前作『[Sweet7](../Page/Sweet7.md "wikilink")』で室岡が演じた人物と同じ。「マンガのセオリー」の謎の老人的キャラクター。
   - ニシ：[西田征史](../Page/西田征史.md "wikilink")
     日本一速いバイク便「便便ライダー」のライダー。愛車は[カワサキ・ゼファー](../Page/カワサキ・ゼファー.md "wikilink")750RS。荷物を届けに来て、そのまま騒動に巻き込まれる。「マンガのセオリー」の傍観者的キャラクター。
   - 大林　麟太郎（オオバヤシ　リンタロウ）：小林賢太郎（ラーメンズ）
@@ -39,6 +39,6 @@
 
 ## DVD
 
-小林賢太郎プロデュース公演 「PAPER RUNNER」 [ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink"), [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink") 発売
+小林賢太郎プロデュース公演 「PAPER RUNNER」 [ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink"), [2005年](../Page/2005年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink") 発売
 
 [Category:日本の舞台作品](https://ja.wikipedia.org/wiki/Category:日本の舞台作品 "wikilink") [Category:2004年の舞台作品](https://ja.wikipedia.org/wiki/Category:2004年の舞台作品 "wikilink")

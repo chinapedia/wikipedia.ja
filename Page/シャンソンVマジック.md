@@ -1,7 +1,7 @@
 > この記事は[V](https://ja.wikipedia.org/wiki/V)から翻訳されています。
 
 
-**シャンソン化粧品 シャンソンVマジック**（シャンソンけしょうひん シャンソンブイマジック、）は、[バスケットボール女子日本リーグ](../Page/バスケットボール女子日本リーグ.md "wikilink")（**Wリーグ**）に所属する女子[バスケットボール](../Page/バスケットボール.md "wikilink")チーム。チーム所在地は[静岡県](../Page/静岡県.md "wikilink")[静岡市](../Page/静岡市.md "wikilink")[駿河区](../Page/駿河区.md "wikilink")で、母体企業は[シャンソン化粧品](https://ja.wikipedia.org/wiki/シャンソン化粧品 "wikilink")（本社：同所）。全国タイトル数計31回は、[JX-ENEOSサンフラワーズ](https://ja.wikipedia.org/wiki/JX-ENEOSサンフラワーズ "wikilink")、[ユニチカについで](../Page/ユニチカ・フェニックス_\(バスケットボール\).md "wikilink")3番目に多い。
+**シャンソン化粧品 シャンソンVマジック**（シャンソンけしょうひん シャンソンブイマジック、）は、[バスケットボール女子日本リーグ](../Page/バスケットボール女子日本リーグ.md "wikilink")（**Wリーグ**）に所属する女子[バスケットボール](../Page/バスケットボール.md "wikilink")チーム。チーム所在地は[静岡県](../Page/静岡県.md "wikilink")[静岡市](../Page/静岡市.md "wikilink")[駿河区](../Page/駿河区.md "wikilink")で、母体企業は[シャンソン化粧品](../Page/シャンソン化粧品.md "wikilink")（本社：同所）。全国タイトル数計31回は、[JX-ENEOSサンフラワーズ](../Page/JX-ENEOSサンフラワーズ.md "wikilink")、[ユニチカについで](../Page/ユニチカ・フェニックス_\(バスケットボール\).md "wikilink")3番目に多い。
 
 ## 沿革
 

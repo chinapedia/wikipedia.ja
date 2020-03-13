@@ -19,7 +19,7 @@ CAに収録されている項目は以下のものである。ただし、原文
     それぞれの抄録記事に割り振られた固有の番号。【104:80777】というように、【巻数:番号】という形式からなる。
 
   - [書誌事項](https://ja.wikipedia.org/wiki/書誌事項 "wikilink")
-    題名、著者・発明者の氏名と所属、出典(雑誌名、特許番号、[CODEN](https://ja.wikipedia.org/wiki/CODEN "wikilink")　/　[ISSN](https://ja.wikipedia.org/wiki/ISSN "wikilink")　/　[ISBN](https://ja.wikipedia.org/wiki/ISBN "wikilink") など)、使用言語、文献の種類([論文](../Page/論文.md "wikilink")・[特許](https://ja.wikipedia.org/wiki/特許 "wikilink")・[総説](https://ja.wikipedia.org/wiki/総説 "wikilink")など)、その他。
+    題名、著者・発明者の氏名と所属、出典(雑誌名、特許番号、[CODEN](https://ja.wikipedia.org/wiki/CODEN "wikilink")　/　[ISSN](../Page/ISSN.md "wikilink")　/　[ISBN](https://ja.wikipedia.org/wiki/ISBN "wikilink") など)、使用言語、文献の種類([論文](../Page/論文.md "wikilink")・[特許](../Page/特許.md "wikilink")・[総説](https://ja.wikipedia.org/wiki/総説 "wikilink")など)、その他。
 
   - CA Section (1-80)
     内容による80項目の分類。また、大きく5つの分野([生化学](../Page/生化学.md "wikilink")・[有機化学](../Page/有機化学.md "wikilink")・[高分子化学](../Page/高分子化学.md "wikilink")・[応用化学](https://ja.wikipedia.org/wiki/応用化学 "wikilink")・[物理](../Page/物理化学.md "wikilink")/[無機](../Page/無機化学.md "wikilink")/[分析化学](../Page/分析化学.md "wikilink"))にまとめられている。

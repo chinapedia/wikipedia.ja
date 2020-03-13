@@ -1,7 +1,7 @@
 > この記事は[ISSN](https://ja.wikipedia.org/wiki/ISSN)から翻訳されています。
 
 
-**ISSN**（International Standard Serial Number、**国際標準逐次刊行物番号**） は、[逐次刊行物](https://ja.wikipedia.org/wiki/逐次刊行物 "wikilink")を識別するための番号\[1\]\[2\]で、1971年に[国際標準化機構](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")のISO 3297として規格が策定され\[3\]、ISSNネットワーク（旧称：国際逐次刊行物データシステム（ISDS））が管理している。翻訳規格として[日本工業規格](https://ja.wikipedia.org/wiki/日本工業規格 "wikilink")（JIS X 0306:2012) になっている\[4\]。また、[RFC](../Page/Request_for_Comments.md "wikilink") 3044 で、URN名前空間として定義されている。日本の場合、[国立国会図書館](../Page/国立国会図書館.md "wikilink")がISSN日本センターとしてISSNの登録・管理を行っている\[5\]。ISSNの付与は出版者の申請で行う。
+**ISSN**（International Standard Serial Number、**国際標準逐次刊行物番号**） は、[逐次刊行物](../Page/逐次刊行物.md "wikilink")を識別するための番号\[1\]\[2\]で、1971年に[国際標準化機構](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")のISO 3297として規格が策定され\[3\]、ISSNネットワーク（旧称：国際逐次刊行物データシステム（ISDS））が管理している。翻訳規格として[日本工業規格](https://ja.wikipedia.org/wiki/日本工業規格 "wikilink")（JIS X 0306:2012) になっている\[4\]。また、[RFC](../Page/Request_for_Comments.md "wikilink") 3044 で、URN名前空間として定義されている。日本の場合、[国立国会図書館](../Page/国立国会図書館.md "wikilink")がISSN日本センターとしてISSNの登録・管理を行っている\[5\]。ISSNの付与は出版者の申請で行う。
 
 。 。
 

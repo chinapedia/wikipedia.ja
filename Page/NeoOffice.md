@@ -13,7 +13,7 @@ OpenOffice.org3.0より以前、OpenOffice.orgにはすでに[X11版があった
 
 [X11には問題があり](../Page/X_Window_System.md "wikilink")、macOSで利用できるが、X11版OOoの使用には[Apple X11か](https://ja.wikipedia.org/wiki/XQuartz "wikilink")[XDarwin](https://ja.wikipedia.org/wiki/XDarwin "wikilink")をインストールする必要があり、また日本語入力などいくつかの問題がある。そのため、Mac上ではOOoでなくNeoOfficeの利用が推奨されていた\[2\]。
 
-NeoOfficeのほうがインストールが簡単で、Aqua版OpenOffice.orgより概ねAquaライクなインタフェース（デスクトップ上部のメニューバーや親切なキーボードショートカットなど）を備え、macOSの[フォント](../Page/フォント.md "wikilink")や印刷サービス、[クリップボード](https://ja.wikipedia.org/wiki/クリップボード "wikilink")、[ドラッグ・アンド・ドロップ](../Page/ドラッグ・アンド・ドロップ.md "wikilink")機能などが利用でき、OOoよりMacとの親和性が高い。
+NeoOfficeのほうがインストールが簡単で、Aqua版OpenOffice.orgより概ねAquaライクなインタフェース（デスクトップ上部のメニューバーや親切なキーボードショートカットなど）を備え、macOSの[フォント](../Page/フォント.md "wikilink")や印刷サービス、[クリップボード](../Page/クリップボード.md "wikilink")、[ドラッグ・アンド・ドロップ](../Page/ドラッグ・アンド・ドロップ.md "wikilink")機能などが利用でき、OOoよりMacとの親和性が高い。
 
 ただし、NeoOfficeをストレス無く動かすにはX11版より多くの[メモリが必要であり](../Page/主記憶装置.md "wikilink")、いくつかの機能の処理速度がやや遅いことが指摘されている。また追加されたコードはOOoほどテストを受けているとはいえない。
 

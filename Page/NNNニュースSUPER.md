@@ -5,13 +5,13 @@
 
 ## 概要
 
-『[ジパングあさ6](https://ja.wikipedia.org/wiki/ジパングあさ6 "wikilink")』内で放送されていた『[NNNニュースジパング](../Page/NNNニュースジパング.md "wikilink")』の後継番組として、『[あさ天5](https://ja.wikipedia.org/wiki/あさ天5 "wikilink")』、『ジパングあさ6』、『[ズームイン\!\!朝\!](../Page/ズームイン!!朝!.md "wikilink")』にかけての朝の情報番組を統合した『**[ズームイン\!\!SUPER](https://ja.wikipedia.org/wiki/ズームイン!!SUPER "wikilink")**』内の報道局主導のニュース番組である。
+『[ジパングあさ6](../Page/ジパングあさ6.md "wikilink")』内で放送されていた『[NNNニュースジパング](../Page/NNNニュースジパング.md "wikilink")』の後継番組として、『[あさ天5](https://ja.wikipedia.org/wiki/あさ天5 "wikilink")』、『ジパングあさ6』、『[ズームイン\!\!朝\!](../Page/ズームイン!!朝!.md "wikilink")』にかけての朝の情報番組を統合した『**[ズームイン\!\!SUPER](https://ja.wikipedia.org/wiki/ズームイン!!SUPER "wikilink")**』内の報道局主導のニュース番組である。
 
 内容は、『ズームイン\!\!SUPER』の司会者（日本テレビアナウンサー）と同報道局キャスター室所属の記者の2人で進行。2009年3月30日からは報道フロアからの放送になっている。記者のミニ解説の他、フラッシュニュースの右上の株価表示がある。テロップは『ズームイン\!\!SUPER』のを使用しているが、『ズームイン\!\!SUPER』のロゴは入っていない。
 
 番組スタート時はニュースVTR下部にタイトルロゴを表示し、1項目をヘッドライン形式で紹介、その後に報道フロアに切り替わり「時刻は6時になりました。NNNニュースSUPER、○○記者です。」の一声でスタートしていたが、2010年3月29日からは「6時になりました。報道フロアから最新のニュース、○○記者です。」の一声で始まっていたが、2010年7月5日から○○記者の部分は「報道局○○デスクです。」になった。
 
-なお、『ズームイン\!\!SUPER』の第1部（5:20 - 6:30）枠で自社製作番組を放送している3局（[札幌テレビ](https://ja.wikipedia.org/wiki/札幌テレビ放送 "wikilink")『[どさんこワイド\!\!朝\!](https://ja.wikipedia.org/wiki/どさんこワイド!!朝! "wikilink")』、[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")『[朝生ワイド す・またん\!](https://ja.wikipedia.org/wiki/朝生ワイド_す・またん! "wikilink")』、[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")『[KRYさわやかモーニング](../Page/KRYさわやかモーニング.md "wikilink")』）では、1コーナーの形で同時ネット放送しているため、『ズームイン\!\!SUPER』唯一の全国ネット枠だった。
+なお、『ズームイン\!\!SUPER』の第1部（5:20 - 6:30）枠で自社製作番組を放送している3局（[札幌テレビ](../Page/札幌テレビ放送.md "wikilink")『[どさんこワイド\!\!朝\!](https://ja.wikipedia.org/wiki/どさんこワイド!!朝! "wikilink")』、[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")『[朝生ワイド す・またん\!](https://ja.wikipedia.org/wiki/朝生ワイド_す・またん! "wikilink")』、[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")『[KRYさわやかモーニング](../Page/KRYさわやかモーニング.md "wikilink")』）では、1コーナーの形で同時ネット放送しているため、『ズームイン\!\!SUPER』唯一の全国ネット枠だった。
 
 『ズームイン\!\!SUPER』全ネット局が第1部・第2部を通じて**“必ずネットを受けなければならない”**という拘束力があるのは『NNNニュースSUPER』だけであった（参考…[マストバイ](https://ja.wikipedia.org/wiki/マストバイ "wikilink")23局はその他日本テレビから指定された番組は必ず放送しなければならない）。
 
@@ -51,7 +51,7 @@
 <tr class="even">
 <td><p>2003.9.29</p></td>
 <td><p>2004.3.26</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/後藤俊哉" title="wikilink">後藤俊哉</a><sup>3</sup></p></td>
+<td><p><a href="../Page/後藤俊哉.md" title="wikilink">後藤俊哉</a><sup>3</sup></p></td>
 </tr>
 <tr class="odd">
 <td><p>2004.3.29</p></td>
@@ -92,7 +92,7 @@
 <td><p><small></p>
 <ul>
 <li><sup>1</sup>　『NNNニュースジパング』から続投。</li>
-<li><sup>2</sup>　『<a href="https://ja.wikipedia.org/wiki/レッツ!" title="wikilink">レッツ!</a>』ニュースコーナーを兼務。</li>
+<li><sup>2</sup>　『<a href="../Page/レッツ!.md" title="wikilink">レッツ!</a>』ニュースコーナーを兼務。</li>
 <li><sup>3</sup>　『<a href="../Page/ザ!情報ツウ.md" title="wikilink">ザ!情報ツウ</a>』ニュースコーナーを兼務。</li>
 <li><sup>4</sup>　『<a href="../Page/さきどり!Navi.md" title="wikilink">さきどり!Navi</a>』ニュースコーナーを兼務。</li>
 </ul>
@@ -113,12 +113,12 @@
   - [羽鳥慎一](https://ja.wikipedia.org/wiki/羽鳥慎一 "wikilink")（西尾が休暇・中継時の代理 - 2009･3）
   - [藤井貴彦](../Page/藤井貴彦.md "wikilink")（西尾・羽鳥が中継時の代理 - 2009･3）
   - [佐藤良子](https://ja.wikipedia.org/wiki/佐藤良子 "wikilink")（西尾・羽鳥が休暇・中継時の代理。2009･4 - 2010・3 (月・火) ）
-  - [古閑陽子](https://ja.wikipedia.org/wiki/古閑陽子 "wikilink")（西尾・羽鳥が休暇・中継時の代理。2009･4 - 2010・9 (月 - 水) ）
+  - [古閑陽子](../Page/古閑陽子.md "wikilink")（西尾・羽鳥が休暇・中継時の代理。2009･4 - 2010・9 (月 - 水) ）
   - [山本舞衣子](https://ja.wikipedia.org/wiki/山本舞衣子 "wikilink")（西尾・羽鳥が休暇・中継時の代理。2010･4 - (木 - 金) ）
 
 ## ネット局
 
-『ズームイン\!\!SUPER』では、このコーナーのみ全ネット局に対する**必ずネットを受けなければならない**という拘束力があった。また、自社製作番組を放送しているため、『ズームイン\!\!SUPER』の第1部（5:20 - 6:30）を放送していない[札幌テレビ](https://ja.wikipedia.org/wiki/札幌テレビ放送 "wikilink")、[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")、[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")の3局も番組内のコーナーとして同時ネット。過去に自社製作番組を放送していた[山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")（[2002年](../Page/2002年.md "wikilink")4月まで）・[ミヤギテレビ](../Page/宮城テレビ放送.md "wikilink")（[2004年](../Page/2004年.md "wikilink")3月まで）・[福岡放送](../Page/福岡放送.md "wikilink")（[2007年](../Page/2007年.md "wikilink")9月まで）・[中京テレビ](../Page/中京テレビ放送.md "wikilink")（[2009年](../Page/2009年.md "wikilink")3月まで）も同様。
+『ズームイン\!\!SUPER』では、このコーナーのみ全ネット局に対する**必ずネットを受けなければならない**という拘束力があった。また、自社製作番組を放送しているため、『ズームイン\!\!SUPER』の第1部（5:20 - 6:30）を放送していない[札幌テレビ](../Page/札幌テレビ放送.md "wikilink")、[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")、[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")の3局も番組内のコーナーとして同時ネット。過去に自社製作番組を放送していた[山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")（[2002年](../Page/2002年.md "wikilink")4月まで）・[ミヤギテレビ](../Page/宮城テレビ放送.md "wikilink")（[2004年](../Page/2004年.md "wikilink")3月まで）・[福岡放送](../Page/福岡放送.md "wikilink")（[2007年](../Page/2007年.md "wikilink")9月まで）・[中京テレビ](../Page/中京テレビ放送.md "wikilink")（[2009年](../Page/2009年.md "wikilink")3月まで）も同様。
 
 <table>
 <caption>『NNNニュースSUPER』ネット局</caption>
@@ -141,7 +141,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/札幌テレビ放送" title="wikilink">札幌テレビ</a>（STV）</p></td>
+<td><p><a href="../Page/札幌テレビ放送.md" title="wikilink">札幌テレビ</a>（STV）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -281,7 +281,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/福岡放送.md" title="wikilink">福岡放送</a>（FBS）</p></td>
 <td></td>
 <td></td>
@@ -320,7 +320,7 @@
 
   - [NNNニュースジパング](../Page/NNNニュースジパング.md "wikilink")
   - [NNN朝のニュース](../Page/NNN朝のニュース.md "wikilink")
-  - [NNNニュース](https://ja.wikipedia.org/wiki/NNNニュース "wikilink")（本番組休止時に放送）
+  - [NNNニュース](../Page/NNNニュース.md "wikilink")（本番組休止時に放送）
 
 ## 外部リンク
 

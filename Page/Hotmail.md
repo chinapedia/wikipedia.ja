@@ -1,7 +1,7 @@
 > この記事は[Hotmail](https://ja.wikipedia.org/wiki/Hotmail)から翻訳されています。
 
 
-**Hotmail**（**ホットメール**）は、[MSN](../Page/MSN.md "wikilink")が提供していた[Webメール](https://ja.wikipedia.org/wiki/Webメール "wikilink")サービスである。
+**Hotmail**（**ホットメール**）は、[MSN](../Page/MSN.md "wikilink")が提供していた[Webメール](../Page/Webメール.md "wikilink")サービスである。
 
 2007年5月に後継として**Windows Live Hotmail**の提供が開始され、移行期間を経て旧Hotmailは終了した。その後[マイクロソフト](../Page/マイクロソフト.md "wikilink")は、[Windows Liveブランド消滅計画により](../Page/Windows_Live.md "wikilink")「Hotmail」の呼称を使用し始めたが、「Windows Live Hotmail」も併用していて、統一していない。従って、以降のHotmailは、下記の[Windows Live Hotmailの仕様である](https://ja.wikipedia.org/wiki/#Windows_Live_Hotmail "wikilink")。
 
@@ -11,7 +11,7 @@
 
 一般的にHotmailと言うと[フリーメールサービス](../Page/フリーメールサービス.md "wikilink")部分を意図して用いられることが多いが、有料版もあった。
 
-世界最大級で、comScoreの調査では[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")7月現在35.5%の世界市場[占有率](https://ja.wikipedia.org/wiki/占有率 "wikilink")だった。
+世界最大級で、comScoreの調査では[2005年](../Page/2005年.md "wikilink")7月現在35.5%の世界市場[占有率](https://ja.wikipedia.org/wiki/占有率 "wikilink")だった。
 
 自社の[Windows Live OneCareによる検知](../Page/Windows_Live_OneCare.md "wikilink")・駆除システムを採用（その後[Microsoft Forefrontに移行](https://ja.wikipedia.org/wiki/Microsoft_Forefront "wikilink")）。
 
@@ -31,7 +31,7 @@ Hotmail社時代は、[FreeBSD](../Page/FreeBSD.md "wikilink")及び[Solaris](..
 
 ### 対応言語
 
-[1999年](../Page/1999年.md "wikilink")[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")に日本語、ドイツ語、フランス語に対応。2000年11月15日には繁体字中国語、簡体字中国語、韓国語に対応\[5\]。21[言語](../Page/言語.md "wikilink")をサポートする。
+[1999年](../Page/1999年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")に日本語、ドイツ語、フランス語に対応。2000年11月15日には繁体字中国語、簡体字中国語、韓国語に対応\[5\]。21[言語](../Page/言語.md "wikilink")をサポートする。
 
 ### ドメイン名
 
@@ -47,9 +47,9 @@ Hotmail社時代は、[FreeBSD](../Page/FreeBSD.md "wikilink")及び[Solaris](..
 
 2002年9月18日、Brightmail社との提供を発表し、スパム対策ソリューション「Brightmail Solution Suite」の提供を受ける。
 
-2003年5月8日、送信者の[メールアドレス](https://ja.wikipedia.org/wiki/メールアドレス "wikilink")が受信者の[アドレス帳](https://ja.wikipedia.org/wiki/アドレス帳 "wikilink")に登録されていない場合、メール中の画像が自動的には表示されないよう仕様を変更。 また、アカウント取得の手続きに際し、文字や数字の入力を求める[認証](../Page/認証.md "wikilink")方法を導入することで、コンピュータによるアカウント自動取得を防ぐ措置を講じた。 なお、マイクロソフトが合わせて発表した調査では、当時MSNのサーバに1日に届くメールの80%（24億通）がスパムであった\[8\]。 翌月17日、同社はスパム業者に対し米国で13件、英国で2件のスパム[訴訟](https://ja.wikipedia.org/wiki/訴訟 "wikilink")を起こし\[9\]、さらに同年11月12日には[Yahoo\!](https://ja.wikipedia.org/wiki/Yahoo! "wikilink")と共同で「迷惑メール対策連絡会」を設立\[10\]。 また12月2日には、迷惑メール報告機能などを追加\[11\]。
+2003年5月8日、送信者の[メールアドレス](../Page/メールアドレス.md "wikilink")が受信者の[アドレス帳](https://ja.wikipedia.org/wiki/アドレス帳 "wikilink")に登録されていない場合、メール中の画像が自動的には表示されないよう仕様を変更。 また、アカウント取得の手続きに際し、文字や数字の入力を求める[認証](../Page/認証.md "wikilink")方法を導入することで、コンピュータによるアカウント自動取得を防ぐ措置を講じた。 なお、マイクロソフトが合わせて発表した調査では、当時MSNのサーバに1日に届くメールの80%（24億通）がスパムであった\[8\]。 翌月17日、同社はスパム業者に対し米国で13件、英国で2件のスパム[訴訟](../Page/訴訟.md "wikilink")を起こし\[9\]、さらに同年11月12日には[Yahoo\!](../Page/Yahoo!.md "wikilink")と共同で「迷惑メール対策連絡会」を設立\[10\]。 また12月2日には、迷惑メール報告機能などを追加\[11\]。
 
-2004年7月からはウイルスメールの駆除機能を追加\[12\]。 同年12月10日には[トレンドマイクロ](https://ja.wikipedia.org/wiki/トレンドマイクロ "wikilink")が提供する[ウイルス対策技術をHotmailに採用](https://ja.wikipedia.org/wiki/アンチウイルスソフトウェア "wikilink")\[13\]。
+2004年7月からはウイルスメールの駆除機能を追加\[12\]。 同年12月10日には[トレンドマイクロ](../Page/トレンドマイクロ.md "wikilink")が提供する[ウイルス対策技術をHotmailに採用](../Page/アンチウイルスソフトウェア.md "wikilink")\[13\]。
 
 ### インスタントメッセンジャーとの連動
 
@@ -67,7 +67,7 @@ Hotmail社時代は、[FreeBSD](../Page/FreeBSD.md "wikilink")及び[Solaris](..
 
 ### 有料サービス
 
-2004年7月22日より有料サービス「MSN Hotmail Plus」の提供を開始\[20\]。 日本版の料金は年額2,520円で、主なサービスは[マカフィー](https://ja.wikipedia.org/wiki/マカフィー "wikilink")による[ウイルススキャン機能](https://ja.wikipedia.org/wiki/アンチウイルスソフトウェア "wikilink")、最大500件が登録可能な受信拒否リスト、そして2GBのメールボックスなど。
+2004年7月22日より有料サービス「MSN Hotmail Plus」の提供を開始\[20\]。 日本版の料金は年額2,520円で、主なサービスは[マカフィー](../Page/マカフィー.md "wikilink")による[ウイルススキャン機能](../Page/アンチウイルスソフトウェア.md "wikilink")、最大500件が登録可能な受信拒否リスト、そして2GBのメールボックスなど。
 
   - 無料版、有料版のサービス内容比較
 
@@ -86,7 +86,7 @@ Hotmail社時代は、[FreeBSD](../Page/FreeBSD.md "wikilink")及び[Solaris](..
 
 ## Windows Live Hotmail
 
-**Windows Live Hotmail**（ウィンドウズ ライブ ホットメール）とは、[Windows Liveサービスのひとつであり](../Page/Windows_Live.md "wikilink")、Hotmailの後継である。[Ajax](https://ja.wikipedia.org/wiki/Ajax "wikilink")などの技術を使用し、[Webメール](https://ja.wikipedia.org/wiki/Webメール "wikilink")でありながら[メーラー](https://ja.wikipedia.org/wiki/メーラー "wikilink")に近い機能と操作感覚を持つなどパフォーマンスを向上させた。
+**Windows Live Hotmail**（ウィンドウズ ライブ ホットメール）とは、[Windows Liveサービスのひとつであり](../Page/Windows_Live.md "wikilink")、Hotmailの後継である。[Ajax](https://ja.wikipedia.org/wiki/Ajax "wikilink")などの技術を使用し、[Webメール](../Page/Webメール.md "wikilink")でありながら[メーラー](https://ja.wikipedia.org/wiki/メーラー "wikilink")に近い機能と操作感覚を持つなどパフォーマンスを向上させた。
 
 2007年5月6日に発表、翌7日に提供が開始された（日本では8日\[22\]）。 同年9月頃から順次、Hotmailアカウントにおいて、Windows Live Hotmailへの自動移行を行った。 同年11月8日、「live.com」「live.jp」などの[ドメインも提供開始となった](../Page/ドメイン名.md "wikilink")\[23\]。
 
@@ -99,9 +99,9 @@ Hotmail社時代は、[FreeBSD](../Page/FreeBSD.md "wikilink")及び[Solaris](..
   - 保存[容量](https://ja.wikipedia.org/wiki/容量 "wikilink")
     2GB\[28\]から2007年9月3日に5GBに拡大\[29\]。そして2009年2月6日、利用状況に応じて自動的に追加される機能が加えられ、無制限となった\[30\]。なお、使用状況はTodayページで確認できる。
   - [添付ファイル](https://ja.wikipedia.org/wiki/添付ファイル "wikilink")の容量
-    最大10MB。さらに2010年夏からのフォトメール機能を利用すれば、送信者の[アカウント](../Page/アカウント.md "wikilink")の[Windows Live SkyDriveに](https://ja.wikipedia.org/wiki/Windows_Live_SkyDrive "wikilink")[アップロード](https://ja.wikipedia.org/wiki/アップロード "wikilink")したファイルに受信者がアクセスして受け取る方式で、最大50MBのファイルを200ファイルまでの合計10GBまで送ることができる。これはGmailの25MBの倍のサイズである。
+    最大10MB。さらに2010年夏からのフォトメール機能を利用すれば、送信者の[アカウント](../Page/アカウント.md "wikilink")の[Windows Live SkyDriveに](https://ja.wikipedia.org/wiki/Windows_Live_SkyDrive "wikilink")[アップロード](../Page/アップロード.md "wikilink")したファイルに受信者がアクセスして受け取る方式で、最大50MBのファイルを200ファイルまでの合計10GBまで送ることができる。これはGmailの25MBの倍のサイズである。
   - セキュリティ
-    情報バーの追加や、[フィッシング防止機能の向上](https://ja.wikipedia.org/wiki/フィッシング_\(詐欺\) "wikilink")。
+    情報バーの追加や、[フィッシング防止機能の向上](../Page/フィッシング_\(詐欺\).md "wikilink")。
   - [迷惑メール対策](../Page/スパム_\(メール\).md "wikilink")
     Microsoft SmartScreen によりブロックする。
   - アドレスの[オートコンプリート](https://ja.wikipedia.org/wiki/自動補完 "wikilink")
@@ -132,7 +132,7 @@ Hotmail社時代は、[FreeBSD](../Page/FreeBSD.md "wikilink")及び[Solaris](..
     メールや[フォルダ](https://ja.wikipedia.org/wiki/フォルダ "wikilink")、グループ（アドレス帳）のみ、この機能が使える。
 
   - [ドラッグ・アンド・ドロップ](../Page/ドラッグ・アンド・ドロップ.md "wikilink"): メールの移動や、連絡先をグループに追加するときに使える。
-    [キーボードショートカット](https://ja.wikipedia.org/wiki/ショートカットキー "wikilink"): メールや連絡先で使える。
+    [キーボードショートカット](../Page/ショートカットキー.md "wikilink"): メールや連絡先で使える。
 
 ## 問題点
 
@@ -165,7 +165,7 @@ Hotmail社時代は、[FreeBSD](../Page/FreeBSD.md "wikilink")及び[Solaris](..
 
 ## 関連項目
 
-  - [MSN Explorer](https://ja.wikipedia.org/wiki/MSN_Explorer "wikilink")
+  - [MSN Explorer](../Page/MSN_Explorer.md "wikilink")
 
 ## 出典・脚注
 
@@ -188,7 +188,7 @@ Hotmail社時代は、[FreeBSD](../Page/FreeBSD.md "wikilink")及び[Solaris](..
 11.
 12.
 13.
-14. 他社製品でも、ウェブメールをやりとりするのに特化した[Jupiterや](../Page/ジュピター.md "wikilink")、有志の製作したプラグインを利用することで実現した[Becky\! Internet Mailなどがある](https://ja.wikipedia.org/wiki/Becky!_Internet_Mail "wikilink")
+14. 他社製品でも、ウェブメールをやりとりするのに特化した[Jupiterや](../Page/ジュピター.md "wikilink")、有志の製作したプラグインを利用することで実現した[Becky\! Internet Mailなどがある](../Page/Becky!_Internet_Mail.md "wikilink")
 15. MSNが無料で提供するサービスを拡張する有料プラン（Hotmail Plusなど）の1メニューとなった。無料版でも、OEでの送受信を[2004年](../Page/2004年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")以前に設定したことがあるユーザは、無料版のまま同機能を継続して利用することができた。
 16.
 17.

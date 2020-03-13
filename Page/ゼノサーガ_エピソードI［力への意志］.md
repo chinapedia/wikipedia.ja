@@ -1,7 +1,7 @@
 > この記事は[ I](https://ja.wikipedia.org/wiki/_I)から翻訳されています。
 
 
-『**ゼノサーガ エピソードI［力への意志］**』（ゼノサーガ エピソード ワン ちからへのいし）は、[モノリスソフト](../Page/モノリスソフト.md "wikilink")が制作、 [ナムコ](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")（後のバンダイナムコゲームス）が[2002年](../Page/2002年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")に発売した[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")。[ゼノサーガシリーズ](https://ja.wikipedia.org/wiki/ゼノサーガシリーズ "wikilink")の第1作目となる。PlayStation 2用ソフトで最初に片面二層DVDを採択した。
+『**ゼノサーガ エピソードI［力への意志］**』（ゼノサーガ エピソード ワン ちからへのいし）は、[モノリスソフト](../Page/モノリスソフト.md "wikilink")が制作、 [ナムコ](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")（後のバンダイナムコゲームス）が[2002年](../Page/2002年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")に発売した[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")。[ゼノサーガシリーズ](../Page/ゼノサーガシリーズ.md "wikilink")の第1作目となる。PlayStation 2用ソフトで最初に片面二層DVDを採択した。
 
 また海外版を元に再構成した『**ゼノサーガ エピソードI リローディッド［力への意志］**』（[CEROレーティング](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")15歳以上対象）が[2003年](../Page/2003年.md "wikilink")[11月20日](../Page/11月20日.md "wikilink")に発売されている。
 
@@ -72,7 +72,7 @@
 
 ## 音楽
 
-[サウンドトラック](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")は[光田康典](../Page/光田康典.md "wikilink")によって作曲され、[ロンドン・フィルハーモニー管弦楽団](../Page/ロンドン・フィルハーモニー管弦楽団.md "wikilink")によって演奏された。
+[サウンドトラック](../Page/サウンドトラック.md "wikilink")は[光田康典](../Page/光田康典.md "wikilink")によって作曲され、[ロンドン・フィルハーモニー管弦楽団](../Page/ロンドン・フィルハーモニー管弦楽団.md "wikilink")によって演奏された。
 
   - 挿入歌「Pain」
     歌 - [Joanne Hogg](https://ja.wikipedia.org/wiki/:en:Joanne_Hogg "wikilink")
@@ -92,13 +92,13 @@
   - 監督 : [高橋哲哉](../Page/高橋哲哉_\(ゲーム製作者\).md "wikilink")
   - 脚本 : 高橋哲哉、[嵯峨空哉](../Page/嵯峨空哉.md "wikilink")
   - キャラクターデザイン : [田中久仁彦](../Page/田中久仁彦.md "wikilink")
-  - メカニカルデザイン : [石垣純哉](../Page/石垣純哉.md "wikilink")、[麦谷興一](https://ja.wikipedia.org/wiki/CHOCO "wikilink")、沙倉拓実
+  - メカニカルデザイン : [石垣純哉](../Page/石垣純哉.md "wikilink")、[麦谷興一](../Page/CHOCO.md "wikilink")、沙倉拓実
   - 音楽 : 光田康典
   - プロデューサー : 杉浦博英
 
 ## コミカライズ
 
-馬場淳史作画で『[コミックZERO-SUM](https://ja.wikipedia.org/wiki/コミックZERO-SUM "wikilink")』連載、単行本全3巻
+馬場淳史作画で『[コミックZERO-SUM](../Page/コミックZERO-SUM.md "wikilink")』連載、単行本全3巻
 
 1.  2005年4月25日発売、ISBN 978-4758051415
 2.  2006年2月25日発売、ISBN 978-4758052139

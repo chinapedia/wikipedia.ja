@@ -9,13 +9,13 @@
 
 チームが本格的に[Jリーグ参戦を目指すようになったのは](../Page/日本プロサッカーリーグ.md "wikilink")、[沖縄県社会人サッカーリーグ](../Page/沖縄県社会人サッカーリーグ.md "wikilink")1部を制した[2001年](../Page/2001年.md "wikilink")。同年3月に「**株式会社沖縄かりゆしフットボールクラブ**」としてクラブの法人組織化を行い、**沖縄かりゆしFC**に改称。元[ヴェルディ川崎の](https://ja.wikipedia.org/wiki/東京ヴェルディ1969 "wikilink")[ラモス瑠偉](../Page/ラモス瑠偉.md "wikilink")を選手兼テクニカルディレクターとして招聘し、サテライト（2軍）組織「かりゆしサウシーシャ」（県社会人リーグ所属）、ユース組織も確立した。同年には、[第81回天皇杯に沖縄県代表として初出場を果たし](../Page/第81回天皇杯全日本サッカー選手権大会.md "wikilink")、同年から3年連続で[天皇杯沖縄県代表となる](../Page/天皇杯_JFA_全日本サッカー選手権大会.md "wikilink")。
 
-[2002年](../Page/2002年.md "wikilink")には[九州サッカーリーグ](https://ja.wikipedia.org/wiki/九州サッカーリーグ "wikilink")で優勝し、[JFL昇格がかかった](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")[全国地域リーグ決勝大会に駒を進めるが](../Page/全国地域サッカーチャンピオンズリーグ.md "wikilink")、惜しくも予選ラウンドで敗退。[全国社会人サッカー選手権大会](https://ja.wikipedia.org/wiki/全国社会人サッカー選手権大会 "wikilink")では、[ホンダルミノッソ狭山FC](https://ja.wikipedia.org/wiki/ホンダルミノッソ狭山FC "wikilink")と0-0の同点で両チーム優勝。なお、同年10月にラモスがTDを解任され\[2\]、12月には所属選手22人中21人が退団の意思を表明した\[3\]。その後、退団した選手やラモスが中心となって新クラブ[FC琉球](https://ja.wikipedia.org/wiki/FC琉球 "wikilink")を結成した\[4\]。
+[2002年](../Page/2002年.md "wikilink")には[九州サッカーリーグ](../Page/九州サッカーリーグ.md "wikilink")で優勝し、[JFL昇格がかかった](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")[全国地域リーグ決勝大会に駒を進めるが](../Page/全国地域サッカーチャンピオンズリーグ.md "wikilink")、惜しくも予選ラウンドで敗退。[全国社会人サッカー選手権大会](../Page/全国社会人サッカー選手権大会.md "wikilink")では、[ホンダルミノッソ狭山FC](../Page/ホンダルミノッソ狭山FC.md "wikilink")と0-0の同点で両チーム優勝。なお、同年10月にラモスがTDを解任され\[2\]、12月には所属選手22人中21人が退団の意思を表明した\[3\]。その後、退団した選手やラモスが中心となって新クラブ[FC琉球](../Page/FC琉球.md "wikilink")を結成した\[4\]。
 
-翌[2003年](../Page/2003年.md "wikilink")は、[加藤久](https://ja.wikipedia.org/wiki/加藤久 "wikilink")がGM兼監督に就任し\[5\]、多数の新規加入選手を迎えた。同年は九州サッカーリーグを連覇し、天皇杯の1回戦では[J2の](https://ja.wikipedia.org/wiki/J2リーグ "wikilink")[サガン鳥栖](https://ja.wikipedia.org/wiki/サガン鳥栖 "wikilink")を破った\[6\]。
+翌[2003年](../Page/2003年.md "wikilink")は、[加藤久](../Page/加藤久.md "wikilink")がGM兼監督に就任し\[5\]、多数の新規加入選手を迎えた。同年は九州サッカーリーグを連覇し、天皇杯の1回戦では[J2の](https://ja.wikipedia.org/wiki/J2リーグ "wikilink")[サガン鳥栖](https://ja.wikipedia.org/wiki/サガン鳥栖 "wikilink")を破った\[6\]。
 
 [2004年](../Page/2004年.md "wikilink")5月にかりゆしが同シーズン限りでスポンサードを打ち切る意向を表明し\[7\]\[8\]、同年9月に加藤監督以下当時の所属選手27人全員が退団することを発表した\[9\]\[10\]。同年10月に開催された全国社会人サッカー選手権大会ではホンダルミノッソ狭山FCと死闘を展開し、0-0の同点で終了（延長戦が台風のため行われなかった）という結果だったが、優勝を飾った\[11\]。トップチームの選手に続き2004年末に下部組織の選手113人も全員が退団し、加藤が代表となって「[ヴィクサーレ沖縄](https://ja.wikipedia.org/wiki/ヴィクサーレ沖縄FC "wikilink")」を設立した\[12\]。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")にはサテライト組織「かりゆしサウシーシャ」所属選手を中心としたチーム再編を推し進め、九州サッカーリーグに引き続き参加することとなった。
+[2005年](../Page/2005年.md "wikilink")にはサテライト組織「かりゆしサウシーシャ」所属選手を中心としたチーム再編を推し進め、九州サッカーリーグに引き続き参加することとなった。
 
 [2007年](../Page/2007年.md "wikilink")には、[第87回天皇杯出場権を](../Page/第87回天皇杯全日本サッカー選手権大会.md "wikilink")[2003年以来](../Page/第83回天皇杯全日本サッカー選手権大会.md "wikilink")、4年ぶりに獲得。[JFL所属のFC琉球や](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")、九州サッカーリーグ所属の[沖縄海邦銀行などの競合相手がいるにもかかわらず](https://ja.wikipedia.org/wiki/沖縄海邦銀行サッカークラブ "wikilink")、同年から3年連続で本大会出場権を確保している。しかし、この年のシーズン終了後、事実上のプロ選手に支払われた給料の支払いを行わず、アウェー（九州の他7県での遠征）費用などを負担する方針を固めた。チームの運営費用の負担が年々増大していることからチーム存続のための経費削減策で、「少なくとも2010年までの3年計画で負債を返済し、九州サッカーリーグに生き残ることだけを考えて取り組む」という姿勢を打ちだした\[13\]。
 
@@ -31,18 +31,18 @@
 
 ## チーム成績・歴代監督
 
-| 年度                                                                    | 所属                                                       | 順位     | 勝点 | 試合 | 勝  | PK勝 | 分  | PK敗 | 敗  | 得点 | 失点   | 差                                                                   | 天皇杯                                                 | 監督   |
-| --------------------------------------------------------------------- | -------------------------------------------------------- | ------ | -- | -- | -- | --- | -- | --- | -- | -- | ---- | ------------------------------------------------------------------- | --------------------------------------------------- | ---- |
-| 2000                                                                  | [沖縄県](../Page/沖縄県社会人サッカーリーグ.md "wikilink")3部東            | **優勝** |    |    |    | \-  | 0  | \-  | 0  |    |      |                                                                     |                                                     | 瀧田一之 |
-| 2001                                                                  | 沖縄県1部                                                    | **優勝** | 27 | 9  | 9  | \-  | 0  | \-  | 0  |    |      |                                                                     | [1回戦](../Page/第81回天皇杯全日本サッカー選手権大会.md "wikilink")    |      |
-| [2002](https://ja.wikipedia.org/wiki/2002年の地域リーグ_\(サッカー\) "wikilink") | [九州](https://ja.wikipedia.org/wiki/九州サッカーリーグ "wikilink") | **優勝** | 53 | 18 | 17 | 1   | \- | 0   | 0  | 79 | 14   | 65                                                                  | [1回戦](../Page/第82回天皇杯全日本サッカー選手権大会.md "wikilink")    |      |
-| [2003](https://ja.wikipedia.org/wiki/2003年の地域リーグ_\(サッカー\) "wikilink") | **優勝**                                                   | 54     | 22 | 16 | 2  | \-  | 2  | 2   | 73 | 14 | 59   | [2回戦](../Page/第83回天皇杯全日本サッカー選手権大会.md "wikilink")                    | [加藤久](https://ja.wikipedia.org/wiki/加藤久 "wikilink") |      |
-| [2004](https://ja.wikipedia.org/wiki/2004年の地域リーグ_\(サッカー\) "wikilink") | 2位                                                       | 44     | 18 | 14 | 1  | \-  | 0  | 3   | 54 | 15 | 39   |                                                                     |                                                     |      |
-| [2005](https://ja.wikipedia.org/wiki/2005年の地域リーグ_\(サッカー\) "wikilink") | 8位                                                       | 13     | 18 | 3  | 1  | \-  | 2  | 12  | 18 | 48 | \-30 |                                                                     | 與那嶺茂                                                |      |
-| [2006](https://ja.wikipedia.org/wiki/2006年の地域リーグ_\(サッカー\) "wikilink") | 5位                                                       | 27     | 16 | 9  | 0  | \-  | 0  | 7   | 36 | 33 | 3    |                                                                     |                                                     |      |
-| [2007](https://ja.wikipedia.org/wiki/2007年の地域リーグ_\(サッカー\) "wikilink") | 6位                                                       | 32     | 20 | 9  | 2  | \-  | 1  | 8   | 44 | 40 | 4    | [3回戦](../Page/第87回天皇杯全日本サッカー選手権大会.md "wikilink")                    | 仲本洋                                                 |      |
-| [2008](https://ja.wikipedia.org/wiki/2008年の地域リーグ_\(サッカー\) "wikilink") | **優勝**                                                   | 47     | 18 | 15 | 1  | \-  | 0  | 2   | 56 | 16 | 40   | [3回戦](../Page/第88回天皇杯全日本サッカー選手権大会.md "wikilink")                    |                                                     |      |
-| [2009](https://ja.wikipedia.org/wiki/2009年の地域リーグ "wikilink")          | **優勝**                                                   | 42     | 16 | 12 | 3  | \-  | 0  | 1   | 54 | 16 | 38   | [2回戦](https://ja.wikipedia.org/wiki/第89回天皇杯全日本サッカー選手権大会 "wikilink") |                                                     |      |
+| 年度                                                                    | 所属                                            | 順位     | 勝点 | 試合 | 勝  | PK勝 | 分  | PK敗 | 敗  | 得点 | 失点   | 差                                                                   | 天皇杯                                              | 監督   |
+| --------------------------------------------------------------------- | --------------------------------------------- | ------ | -- | -- | -- | --- | -- | --- | -- | -- | ---- | ------------------------------------------------------------------- | ------------------------------------------------ | ---- |
+| 2000                                                                  | [沖縄県](../Page/沖縄県社会人サッカーリーグ.md "wikilink")3部東 | **優勝** |    |    |    | \-  | 0  | \-  | 0  |    |      |                                                                     |                                                  | 瀧田一之 |
+| 2001                                                                  | 沖縄県1部                                         | **優勝** | 27 | 9  | 9  | \-  | 0  | \-  | 0  |    |      |                                                                     | [1回戦](../Page/第81回天皇杯全日本サッカー選手権大会.md "wikilink") |      |
+| [2002](https://ja.wikipedia.org/wiki/2002年の地域リーグ_\(サッカー\) "wikilink") | [九州](../Page/九州サッカーリーグ.md "wikilink")         | **優勝** | 53 | 18 | 17 | 1   | \- | 0   | 0  | 79 | 14   | 65                                                                  | [1回戦](../Page/第82回天皇杯全日本サッカー選手権大会.md "wikilink") |      |
+| [2003](https://ja.wikipedia.org/wiki/2003年の地域リーグ_\(サッカー\) "wikilink") | **優勝**                                        | 54     | 22 | 16 | 2  | \-  | 2  | 2   | 73 | 14 | 59   | [2回戦](../Page/第83回天皇杯全日本サッカー選手権大会.md "wikilink")                    | [加藤久](../Page/加藤久.md "wikilink")                 |      |
+| [2004](https://ja.wikipedia.org/wiki/2004年の地域リーグ_\(サッカー\) "wikilink") | 2位                                            | 44     | 18 | 14 | 1  | \-  | 0  | 3   | 54 | 15 | 39   |                                                                     |                                                  |      |
+| [2005](https://ja.wikipedia.org/wiki/2005年の地域リーグ_\(サッカー\) "wikilink") | 8位                                            | 13     | 18 | 3  | 1  | \-  | 2  | 12  | 18 | 48 | \-30 |                                                                     | 與那嶺茂                                             |      |
+| [2006](https://ja.wikipedia.org/wiki/2006年の地域リーグ_\(サッカー\) "wikilink") | 5位                                            | 27     | 16 | 9  | 0  | \-  | 0  | 7   | 36 | 33 | 3    |                                                                     |                                                  |      |
+| [2007](https://ja.wikipedia.org/wiki/2007年の地域リーグ_\(サッカー\) "wikilink") | 6位                                            | 32     | 20 | 9  | 2  | \-  | 1  | 8   | 44 | 40 | 4    | [3回戦](../Page/第87回天皇杯全日本サッカー選手権大会.md "wikilink")                    | 仲本洋                                              |      |
+| [2008](https://ja.wikipedia.org/wiki/2008年の地域リーグ_\(サッカー\) "wikilink") | **優勝**                                        | 47     | 18 | 15 | 1  | \-  | 0  | 2   | 56 | 16 | 40   | [3回戦](../Page/第88回天皇杯全日本サッカー選手権大会.md "wikilink")                    |                                                  |      |
+| [2009](https://ja.wikipedia.org/wiki/2009年の地域リーグ "wikilink")          | **優勝**                                        | 42     | 16 | 12 | 3  | \-  | 0  | 1   | 54 | 16 | 38   | [2回戦](https://ja.wikipedia.org/wiki/第89回天皇杯全日本サッカー選手権大会 "wikilink") |                                                  |      |
 
   -
     ( )内の数字はPK戦での勝敗数
@@ -51,12 +51,12 @@
 
 ### リーグ戦
 
-  - **[九州サッカーリーグ](https://ja.wikipedia.org/wiki/九州サッカーリーグ "wikilink")：4回**
+  - **[九州サッカーリーグ](../Page/九州サッカーリーグ.md "wikilink")：4回**
       - 2002年、2003年、2008年、2009年
 
 ### カップ戦
 
-  - **[全国社会人サッカー選手権大会](https://ja.wikipedia.org/wiki/全国社会人サッカー選手権大会 "wikilink")：2回**
+  - **[全国社会人サッカー選手権大会](../Page/全国社会人サッカー選手権大会.md "wikilink")：2回**
       - 2002年、2004年
 
 ## ユニフォーム
@@ -103,7 +103,7 @@
 <tr class="odd">
 <td><p>21</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/高橋信幸" title="wikilink">高橋信幸</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1.FCザールブリュッケン" title="wikilink">1.FCザールブリュッケン</a></p></td>
+<td><p><a href="../Page/1.FCザールブリュッケン.md" title="wikilink">1.FCザールブリュッケン</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/デッツォーラ島根" title="wikilink">デッツォーラ島根</a></p></td>
 <td></td>
 </tr>
@@ -111,7 +111,7 @@
 <td><p>DF</p></td>
 <td><p>2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/杉本勇樹" title="wikilink">杉本勇樹</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/鹿屋体育大学" title="wikilink">鹿屋体育大学</a></p></td>
+<td><p><a href="../Page/鹿屋体育大学.md" title="wikilink">鹿屋体育大学</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/FC_KAGOSHIMA" title="wikilink">FC KAGOSHIMA</a></p></td>
 </tr>
 <tr class="odd">
@@ -125,7 +125,7 @@
 <td><p>7</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/飯島慎" title="wikilink">飯島慎</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/順天堂大学" title="wikilink">順天堂大学</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FC琉球" title="wikilink">FC琉球</a></p></td>
+<td><p><a href="../Page/FC琉球.md" title="wikilink">FC琉球</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -166,15 +166,15 @@
 <tr class="even">
 <td><p>16</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/渡辺晋平" title="wikilink">渡辺晋平</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/三菱水島FC" title="wikilink">三菱水島FC</a></p></td>
+<td><p><a href="../Page/三菱水島FC.md" title="wikilink">三菱水島FC</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>17</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/遠山深" title="wikilink">遠山深</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FC岐阜" title="wikilink">FC岐阜</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Tonan前橋" title="wikilink">Tonan前橋</a></p></td>
+<td><p><a href="../Page/FC岐阜.md" title="wikilink">FC岐阜</a></p></td>
+<td><p><a href="../Page/Tonan前橋.md" title="wikilink">Tonan前橋</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -209,7 +209,7 @@
 <td><p>11</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/櫻田真平" title="wikilink">櫻田真平</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/FC岐阜SECOND" title="wikilink">FC岐阜セカンド</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/JAPANサッカーカレッジ" title="wikilink">JAPANサッカーカレッジ</a></p></td>
+<td><p><a href="../Page/JAPANサッカーカレッジ.md" title="wikilink">JAPANサッカーカレッジ</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -222,7 +222,7 @@
 <tr class="even">
 <td><p>20</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/浅野大地" title="wikilink">浅野大地</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アルテ高崎" title="wikilink">アルテ高崎</a></p></td>
+<td><p><a href="../Page/アルテ高崎.md" title="wikilink">アルテ高崎</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/バンディオンセ加古川" title="wikilink">バンディオンセ加古川</a></p></td>
 <td></td>
 </tr>
@@ -236,7 +236,7 @@
 <tr class="even">
 <td><p>27</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/高畑浩二" title="wikilink">高畑浩二</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FC琉球" title="wikilink">FC琉球</a></p></td>
+<td><p><a href="../Page/FC琉球.md" title="wikilink">FC琉球</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -247,7 +247,7 @@
 
 ## 関連項目
 
-  - [FC琉球](https://ja.wikipedia.org/wiki/FC琉球 "wikilink")
+  - [FC琉球](../Page/FC琉球.md "wikilink")
 
 [Category:現在活動していない日本のサッカークラブ](https://ja.wikipedia.org/wiki/Category:現在活動していない日本のサッカークラブ "wikilink") [Category:沖縄県のサッカークラブ](https://ja.wikipedia.org/wiki/Category:沖縄県のサッカークラブ "wikilink") [Category:沖縄県のスポーツ史](https://ja.wikipedia.org/wiki/Category:沖縄県のスポーツ史 "wikilink") [Category:那覇市のスポーツ](https://ja.wikipedia.org/wiki/Category:那覇市のスポーツ "wikilink") [Category:那覇市の歴史](https://ja.wikipedia.org/wiki/Category:那覇市の歴史 "wikilink")
 

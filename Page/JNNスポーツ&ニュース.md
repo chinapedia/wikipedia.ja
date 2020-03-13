@@ -5,7 +5,7 @@
 
 ## 概要
 
-それまでの『[JNNスポーツチャンネル](https://ja.wikipedia.org/wiki/JNNスポーツチャンネル "wikilink")』と『[JNNニュース](../Page/JNNニュース.md "wikilink")』を統合する形でスタート。当初はスポーツニュース→ニュースの順で放送されていたが、土曜日は放送時間短縮後、ニュース→スポーツニュースの順で放送された。
+それまでの『[JNNスポーツチャンネル](../Page/JNNスポーツチャンネル.md "wikilink")』と『[JNNニュース](../Page/JNNニュース.md "wikilink")』を統合する形でスタート。当初はスポーツニュース→ニュースの順で放送されていたが、土曜日は放送時間短縮後、ニュース→スポーツニュースの順で放送された。
 
 当初はスポーツニュース、ニュースはいずれも[ストレートニュース](https://ja.wikipedia.org/wiki/ストレートニュース "wikilink")形式で、[コメンテーター](../Page/コメンテーター.md "wikilink")は置かず、元[プロ野球選手](../Page/プロ野球選手.md "wikilink")がキャスターを務めた時期のみコメントを挟む程度であった。その後、キャスターを頻繁に交代したり、番組構成を改善したりするなどの迷走を続けた。
 
@@ -32,17 +32,17 @@
 
   - 1990年10月 - 1991年9月　[定岡正二](../Page/定岡正二.md "wikilink")、木場弘子 - それぞれ『JNNスポーツチャンネル』から続投。
   - 1991年10月 - 1992年3月　定岡正二、[秋沢淳子](../Page/秋沢淳子.md "wikilink")
-  - 1992年4月 - 1993年3月　定岡正二、[田中宏明](https://ja.wikipedia.org/wiki/田中宏明 "wikilink")、秋沢淳子
-  - 1993年4月 - 1993年9月　[佐古忠彦](../Page/佐古忠彦.md "wikilink")、[畑恵美子](https://ja.wikipedia.org/wiki/戸田恵美子 "wikilink")
+  - 1992年4月 - 1993年3月　定岡正二、[田中宏明](../Page/田中宏明.md "wikilink")、秋沢淳子
+  - 1993年4月 - 1993年9月　[佐古忠彦](../Page/佐古忠彦.md "wikilink")、[畑恵美子](../Page/戸田恵美子.md "wikilink")
   - 1993年10月 - 1994年3月　[栗山英樹](../Page/栗山英樹.md "wikilink")、佐古忠彦、[福島弓子](../Page/福島弓子.md "wikilink")
-  - 1994年4月 - 1997年9月　栗山英樹、（担当時期不明：[似鳥裕子](../Page/似鳥祐子.md "wikilink")、福島弓子、[進藤晶子](https://ja.wikipedia.org/wiki/進藤晶子 "wikilink")、[小川知子](https://ja.wikipedia.org/wiki/小川知子_\(アナウンサー\) "wikilink")）
-  - 1997年10月 - 1999年9月　[初田啓介](https://ja.wikipedia.org/wiki/初田啓介 "wikilink")、（担当時期不明：木場弘子ほか）
-  - 1999年10月 - 2001年9月　[青島健太](https://ja.wikipedia.org/wiki/青島健太 "wikilink")、[栗原由佳](https://ja.wikipedia.org/wiki/栗原由佳 "wikilink")
-  - 2001年10月 - 2002年3月　青島健太、[海保知里](https://ja.wikipedia.org/wiki/海保知里 "wikilink")（土曜のみ）、[久保田智子](https://ja.wikipedia.org/wiki/久保田智子 "wikilink")（日曜のみ）
+  - 1994年4月 - 1997年9月　栗山英樹、（担当時期不明：[似鳥裕子](../Page/似鳥祐子.md "wikilink")、福島弓子、[進藤晶子](https://ja.wikipedia.org/wiki/進藤晶子 "wikilink")、[小川知子](../Page/小川知子_\(アナウンサー\).md "wikilink")）
+  - 1997年10月 - 1999年9月　[初田啓介](../Page/初田啓介.md "wikilink")、（担当時期不明：木場弘子ほか）
+  - 1999年10月 - 2001年9月　[青島健太](../Page/青島健太.md "wikilink")、[栗原由佳](../Page/栗原由佳.md "wikilink")
+  - 2001年10月 - 2002年3月　青島健太、[海保知里](../Page/海保知里.md "wikilink")（土曜のみ）、[久保田智子](../Page/久保田智子.md "wikilink")（日曜のみ）
 
 ### ニュース
 
-  - [鈴木史朗](../Page/鈴木史朗.md "wikilink")（初期は土曜のみ、のちに土・日曜の両方を担当。土曜最終の『[JNNニュースデスク](https://ja.wikipedia.org/wiki/JNNニュースデスク "wikilink")』→『JNNニュース』から続投。土曜夕方の『[TBSニュース](https://ja.wikipedia.org/wiki/TBSニュース "wikilink")』、土曜の『[JNNフラッシュニュース](../Page/JNNフラッシュニュース.md "wikilink")』と兼務）
+  - [鈴木史朗](../Page/鈴木史朗.md "wikilink")（初期は土曜のみ、のちに土・日曜の両方を担当。土曜最終の『[JNNニュースデスク](https://ja.wikipedia.org/wiki/JNNニュースデスク "wikilink")』→『JNNニュース』から続投。土曜夕方の『[TBSニュース](../Page/TBSニュース.md "wikilink")』、土曜の『[JNNフラッシュニュース](../Page/JNNフラッシュニュース.md "wikilink")』と兼務）
   - [吉川美代子](../Page/吉川美代子.md "wikilink")（初期の日曜のみ担当。降板後も鈴木の代役を務める。『[JNNニュースの森](../Page/JNNニュースの森.md "wikilink")』と兼務）
   - [岩井健浩](../Page/岩井健浩.md "wikilink")（『JNNニュースの森』と兼務）
   - [小笠原保子](../Page/小笠原保子.md "wikilink")
@@ -98,7 +98,7 @@
 
 <!-- end list -->
 
-  - スポーツ：[佐藤文康](https://ja.wikipedia.org/wiki/佐藤文康 "wikilink")、[宇垣美里](https://ja.wikipedia.org/wiki/宇垣美里 "wikilink")、[槙原寛己](https://ja.wikipedia.org/wiki/槙原寛己 "wikilink")\[2\]
+  - スポーツ：[佐藤文康](../Page/佐藤文康.md "wikilink")、[宇垣美里](https://ja.wikipedia.org/wiki/宇垣美里 "wikilink")、[槙原寛己](../Page/槙原寛己.md "wikilink")\[2\]
   - ニュース：伊藤隆太
 
 <!-- end list -->

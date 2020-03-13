@@ -7,7 +7,7 @@
 
 1991年11月7日にリリースされた、ZOOの4枚目のシングル。オリコンチャート最高位3位、約105万枚の売上を記録。メインボーカルはSATSUKIで、コーラスに[中西圭三](https://ja.wikipedia.org/wiki/中西圭三 "wikilink")が参加している。
 
-[JR東日本](../Page/東日本旅客鉄道.md "wikilink")「[JR Ski Ski](https://ja.wikipedia.org/wiki/JR_SKISKI "wikilink")」（1991-1992）の[CMソングに](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")、1991年10月より起用された。以降、'94-'95シーズンまでの4年間、ZOOの楽曲が採用された。
+[JR東日本](../Page/東日本旅客鉄道.md "wikilink")「[JR Ski Ski](https://ja.wikipedia.org/wiki/JR_SKISKI "wikilink")」（1991-1992）の[CMソングに](../Page/コマーシャルソング.md "wikilink")、1991年10月より起用された。以降、'94-'95シーズンまでの4年間、ZOOの楽曲が採用された。
 
 タイトルにある「Choo Choo」（チュー チュー）とは、[英語](../Page/英語.md "wikilink")で[蒸気機関車](../Page/蒸気機関車.md "wikilink")の音を表現する[擬音](https://ja.wikipedia.org/wiki/擬音 "wikilink")、または蒸気機関車そのものを指す幼児語である。つまり「Choo Choo Train」は、日本語で直訳すると「**汽車ぽっぽ**」に近い。JR東日本側よりこの言葉を歌詞に使った楽曲製作の依頼を中西圭三が請け負い、イントロには[小西貴雄](../Page/小西貴雄.md "wikilink")の提案により[D.Trainの楽曲](https://ja.wikipedia.org/wiki/D・トレイン "wikilink")「Keep On」をサンプリングされている\[1\]\[2\]。
 
@@ -24,7 +24,7 @@
 
 ## Choo Choo TRAIN Dance
 
-[Choo_Choo_TRAIN_Dance_(front)_2014-12-04.gif](https://ja.wikipedia.org/wiki/File:Choo_Choo_TRAIN_Dance_\(front\)_2014-12-04.gif "fig:Choo_Choo_TRAIN_Dance_(front)_2014-12-04.gif") [Choo_Choo_TRAIN_Dance_(up)_2014-12-04.gif](https://ja.wikipedia.org/wiki/File:Choo_Choo_TRAIN_Dance_\(up\)_2014-12-04.gif "fig:Choo_Choo_TRAIN_Dance_(up)_2014-12-04.gif") イントロにサンプリングされている楽曲「Keep On」のフレーズが流れている間における、数名が一直線上に並び、身体をグルグル回すダンスはよくパロディされることが多い。主な例として、「[羞恥心](https://ja.wikipedia.org/wiki/羞恥心_\(曲\) "wikilink")」（[羞恥心](../Page/羞恥心_\(ユニット\).md "wikilink")）の振り付け、「マハラジャスーパースター」（[大田クルー](../Page/大田クルー.md "wikilink")と[温水洋一](https://ja.wikipedia.org/wiki/温水洋一 "wikilink")）のPVや[ドコモダケ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")・[金鳥](../Page/大日本除虫菊.md "wikilink")『コンバット』のCM、ゲーム『[ドラゴンクエストIX 星空の守り人](https://ja.wikipedia.org/wiki/ドラゴンクエストIX_星空の守り人 "wikilink")』の技「バックダンサー呼び」、特撮テレビドラマ『[烈車戦隊トッキュウジャー](https://ja.wikipedia.org/wiki/烈車戦隊トッキュウジャー "wikilink")』の決めポーズ\[3\]など。
+[Choo_Choo_TRAIN_Dance_(front)_2014-12-04.gif](https://ja.wikipedia.org/wiki/File:Choo_Choo_TRAIN_Dance_\(front\)_2014-12-04.gif "fig:Choo_Choo_TRAIN_Dance_(front)_2014-12-04.gif") [Choo_Choo_TRAIN_Dance_(up)_2014-12-04.gif](https://ja.wikipedia.org/wiki/File:Choo_Choo_TRAIN_Dance_\(up\)_2014-12-04.gif "fig:Choo_Choo_TRAIN_Dance_(up)_2014-12-04.gif") イントロにサンプリングされている楽曲「Keep On」のフレーズが流れている間における、数名が一直線上に並び、身体をグルグル回すダンスはよくパロディされることが多い。主な例として、「[羞恥心](https://ja.wikipedia.org/wiki/羞恥心_\(曲\) "wikilink")」（[羞恥心](../Page/羞恥心_\(ユニット\).md "wikilink")）の振り付け、「マハラジャスーパースター」（[大田クルー](../Page/大田クルー.md "wikilink")と[温水洋一](../Page/温水洋一.md "wikilink")）のPVや[ドコモダケ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")・[金鳥](../Page/大日本除虫菊.md "wikilink")『コンバット』のCM、ゲーム『[ドラゴンクエストIX 星空の守り人](https://ja.wikipedia.org/wiki/ドラゴンクエストIX_星空の守り人 "wikilink")』の技「バックダンサー呼び」、特撮テレビドラマ『[烈車戦隊トッキュウジャー](https://ja.wikipedia.org/wiki/烈車戦隊トッキュウジャー "wikilink")』の決めポーズ\[3\]など。
 
 当ダンスは**ZOO版は正面から見て時計回り**で、のちにカバーしたEXILE版は**反時計回り**である。これは[橘ケンチ](https://ja.wikipedia.org/wiki/橘ケンチ "wikilink")によると、EXILEメンバーがZOO版の録画したものを見てマネたからという。
 
@@ -34,12 +34,12 @@
       - 『Choo Choo TRAIN〜memories〜』としてカバー
   - [伊能靜](https://ja.wikipedia.org/wiki/伊能靜 "wikilink")（[1993年](../Page/1993年.md "wikilink")）
   - 中西圭三（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")）
-      - [セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")
+      - [セルフカバー](../Page/セルフカバー.md "wikilink")
   - [水野愛日](../Page/水野愛日.md "wikilink")（[2000年](../Page/2000年.md "wikilink")）
   - [Vlidge](../Page/Vlidge.md "wikilink")（[2002年](../Page/2002年.md "wikilink")）
       - CHOO☆CHOO☆TRAINとしてカバー。歌詞の一部の順番が入れ替わっていたり、オリジナルには無いラップの歌詞が使われている。尚、DVD集『Revision』収録のPVには元ZOOのメンバーもパフォーマーの1人として出演。
   - [EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")（[2003年](../Page/2003年.md "wikilink")）
-      - [テレビ朝日系](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")『[内村プロデュース](https://ja.wikipedia.org/wiki/内村プロデュース "wikilink")』のエンディングテーマ。これにより再度ブームを起こした。なお、元ZOOのメンバーだった[HIROがリーダー兼パフォーマーである](../Page/五十嵐広行.md "wikilink")。
+      - [テレビ朝日系](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")『[内村プロデュース](../Page/内村プロデュース.md "wikilink")』のエンディングテーマ。これにより再度ブームを起こした。なお、元ZOOのメンバーだった[HIROがリーダー兼パフォーマーである](../Page/五十嵐広行.md "wikilink")。
 
 <!-- end list -->
 

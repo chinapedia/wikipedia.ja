@@ -1,32 +1,32 @@
 > この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
 
 
-**FC琉球**（エフシーりゅうきゅう、） は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[沖縄市](../Page/沖縄市.md "wikilink")を中心とする[沖縄県](../Page/沖縄県.md "wikilink")全県を[ホームタウン](https://ja.wikipedia.org/wiki/ホームタウン "wikilink")とする\[1\][日本プロサッカーリーグ](../Page/日本プロサッカーリーグ.md "wikilink")（Jリーグ）に加盟するサッカークラブである。
+**FC琉球**（エフシーりゅうきゅう、） は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[沖縄市](../Page/沖縄市.md "wikilink")を中心とする[沖縄県](../Page/沖縄県.md "wikilink")全県を[ホームタウン](../Page/ホームタウン.md "wikilink")とする\[1\][日本プロサッカーリーグ](../Page/日本プロサッカーリーグ.md "wikilink")（Jリーグ）に加盟するサッカークラブである。
 
 ## 概要
 
-[2003年](../Page/2003年.md "wikilink")に創設。[2013年](../Page/2013年.md "wikilink")に[Jリーグ準加盟クラブ](../Page/Jリーグ準加盟クラブ.md "wikilink")として承認され\[2\]、2014年にJリーグに入会した\[3\]。運営法人は琉球フットボールクラブ株式会社である\[4\]。クラブ名は[沖縄本島](../Page/沖縄本島.md "wikilink")を中心に存在した[琉球王国](../Page/琉球王国.md "wikilink")に由来している\[5\]。エンブレムは、[阿吽](../Page/阿吽.md "wikilink")（「あ」（右）、「うん」（左））の呼吸を表す「対の[シーサー](https://ja.wikipedia.org/wiki/シーサー "wikilink")」と[琉球王国](../Page/琉球王国.md "wikilink")の「王冠」などをモチーフとしている\[6\]。
+[2003年](../Page/2003年.md "wikilink")に創設。[2013年](../Page/2013年.md "wikilink")に[Jリーグ準加盟クラブ](../Page/Jリーグ準加盟クラブ.md "wikilink")として承認され\[2\]、2014年にJリーグに入会した\[3\]。運営法人は琉球フットボールクラブ株式会社である\[4\]。クラブ名は[沖縄本島](../Page/沖縄本島.md "wikilink")を中心に存在した[琉球王国](../Page/琉球王国.md "wikilink")に由来している\[5\]。エンブレムは、[阿吽](../Page/阿吽.md "wikilink")（「あ」（右）、「うん」（左））の呼吸を表す「対の[シーサー](../Page/シーサー.md "wikilink")」と[琉球王国](../Page/琉球王国.md "wikilink")の「王冠」などをモチーフとしている\[6\]。
 
 マスコットは[ジンベーニョ](https://ja.wikipedia.org/wiki/ジンベーニョ "wikilink")である。なお、2009年から2013年までは[石垣市](../Page/石垣市.md "wikilink")出身の元[ボクシング](../Page/ボクシング.md "wikilink")世界王者の[具志堅用高](../Page/具志堅用高.md "wikilink")をモデルとした「ぐしけんくん（仮）」を用いていた。
 
 チアリーディングチームは「琉球BOMBERZ」。試合前やハーフタイムでのパフォーマンスを通じて、ゲームや試合会場の盛り上げに貢献している。
 
-ホームスタジアムは沖縄市の[タピック県総ひやごんスタジアム](../Page/沖縄県総合運動公園陸上競技場.md "wikilink")、クラブ事務所は沖縄市安慶田の本社の他に[那覇市](../Page/那覇市.md "wikilink")奥武山町に「那覇事務所」を置く。主な練習場は[八重瀬町](https://ja.wikipedia.org/wiki/八重瀬町 "wikilink")の[東風平運動公園サッカー場](https://ja.wikipedia.org/wiki/東風平運動公園サッカー場 "wikilink")\[7\]、[中城村](../Page/中城村.md "wikilink")の[吉の浦公園ごさまる陸上競技場](https://ja.wikipedia.org/wiki/吉の浦公園ごさまる陸上競技場 "wikilink")\[8\][南城市](https://ja.wikipedia.org/wiki/南城市 "wikilink")の[南城市陸上競技場](https://ja.wikipedia.org/wiki/南城市陸上競技場 "wikilink")\[9\] の3カ所である（詳細は[\#スタジアム・練習場他](https://ja.wikipedia.org/wiki/#スタジアム・練習場他 "wikilink")を参照）。
+ホームスタジアムは沖縄市の[タピック県総ひやごんスタジアム](../Page/沖縄県総合運動公園陸上競技場.md "wikilink")、クラブ事務所は沖縄市安慶田の本社の他に[那覇市](../Page/那覇市.md "wikilink")奥武山町に「那覇事務所」を置く。主な練習場は[八重瀬町](../Page/八重瀬町.md "wikilink")の[東風平運動公園サッカー場](https://ja.wikipedia.org/wiki/東風平運動公園サッカー場 "wikilink")\[7\]、[中城村](../Page/中城村.md "wikilink")の[吉の浦公園ごさまる陸上競技場](https://ja.wikipedia.org/wiki/吉の浦公園ごさまる陸上競技場 "wikilink")\[8\][南城市](../Page/南城市.md "wikilink")の[南城市陸上競技場](https://ja.wikipedia.org/wiki/南城市陸上競技場 "wikilink")\[9\] の3カ所である（詳細は[\#スタジアム・練習場他](https://ja.wikipedia.org/wiki/#スタジアム・練習場他 "wikilink")を参照）。
 
 ## 歴史
 
 ### チーム創設からJFL昇格まで
 
-2003年2月、沖縄初のJリーグ参入を目指すサッカークラブとして創設\[10\]。[沖縄かりゆしFC](../Page/沖縄かりゆしFC.md "wikilink")（[九州リーグ](https://ja.wikipedia.org/wiki/九州サッカーリーグ "wikilink")）を一斉退団した選手らにより結成された\[11\]\[12\]。初代監督に[宜野湾市](../Page/宜野湾市.md "wikilink")出身の[新里裕之](https://ja.wikipedia.org/wiki/新里裕之 "wikilink")が選手兼任で就任。[沖縄県社会人サッカーリーグ](../Page/沖縄県社会人サッカーリーグ.md "wikilink")3部に優勝。同年6月の沖縄県社会人サッカー選手権優勝がクラブにとって初タイトルとなった。
+2003年2月、沖縄初のJリーグ参入を目指すサッカークラブとして創設\[10\]。[沖縄かりゆしFC](../Page/沖縄かりゆしFC.md "wikilink")（[九州リーグ](../Page/九州サッカーリーグ.md "wikilink")）を一斉退団した選手らにより結成された\[11\]\[12\]。初代監督に[宜野湾市](../Page/宜野湾市.md "wikilink")出身の[新里裕之](https://ja.wikipedia.org/wiki/新里裕之 "wikilink")が選手兼任で就任。[沖縄県社会人サッカーリーグ](../Page/沖縄県社会人サッカーリーグ.md "wikilink")3部に優勝。同年6月の沖縄県社会人サッカー選手権優勝がクラブにとって初タイトルとなった。
 
-2004年、沖縄県サッカー協会社会人連盟の推薦により県リーグ1部へ飛び級での参入が認められた\[13\]\[14\]。監督に元[日本代表の](https://ja.wikipedia.org/wiki/サッカー日本代表 "wikilink")[与那城ジョージ](../Page/与那城ジョージ.md "wikilink")が就任、県リーグ1部で優勝を果たす。[九州各県リーグ決勝大会](../Page/九州各県リーグ決勝大会.md "wikilink")は決勝で有明SC（現：[V・ファーレン長崎](https://ja.wikipedia.org/wiki/V・ファーレン長崎 "wikilink")）を破って優勝した。さらに天皇杯に初めて出場し、初勝利も挙げた。
+2004年、沖縄県サッカー協会社会人連盟の推薦により県リーグ1部へ飛び級での参入が認められた\[13\]\[14\]。監督に元[日本代表の](../Page/サッカー日本代表.md "wikilink")[与那城ジョージ](../Page/与那城ジョージ.md "wikilink")が就任、県リーグ1部で優勝を果たす。[九州各県リーグ決勝大会](../Page/九州各県リーグ決勝大会.md "wikilink")は決勝で有明SC（現：[V・ファーレン長崎](https://ja.wikipedia.org/wiki/V・ファーレン長崎 "wikilink")）を破って優勝した。さらに天皇杯に初めて出場し、初勝利も挙げた。
 
-2005年、[九州サッカーリーグ](https://ja.wikipedia.org/wiki/九州サッカーリーグ "wikilink")は2位。[全国社会人サッカー選手権大会](https://ja.wikipedia.org/wiki/全国社会人サッカー選手権大会 "wikilink")は2回戦で敗れたが、[第29回全国地域リーグ決勝大会](https://ja.wikipedia.org/wiki/第29回全国地域リーグ決勝大会 "wikilink")で優勝。その後、[日本フットボールリーグ](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")（JFL）入会が承認され、沖縄県のサッカークラブとして初の全国リーグ参戦となった\[15\]。
+2005年、[九州サッカーリーグ](../Page/九州サッカーリーグ.md "wikilink")は2位。[全国社会人サッカー選手権大会](../Page/全国社会人サッカー選手権大会.md "wikilink")は2回戦で敗れたが、[第29回全国地域リーグ決勝大会](https://ja.wikipedia.org/wiki/第29回全国地域リーグ決勝大会 "wikilink")で優勝。その後、[日本フットボールリーグ](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")（JFL）入会が承認され、沖縄県のサッカークラブとして初の全国リーグ参戦となった\[15\]。
 
 ### 2006年 - 2013年 (JFL)
 
   - 2006年
-    7月、元[U-23日本代表の](https://ja.wikipedia.org/wiki/U-23サッカー日本代表 "wikilink")[石川康](../Page/石川康.md "wikilink")が[ゼネラルマネージャー](https://ja.wikipedia.org/wiki/ゼネラルマネージャー "wikilink")(GM)に就任した。リーグ戦は14位の成績であったが、「ベストサポーター賞」を受賞した\[16\]。シーズン終了後に与那城が監督を退任した。
+    7月、元[U-23日本代表の](https://ja.wikipedia.org/wiki/U-23サッカー日本代表 "wikilink")[石川康](../Page/石川康.md "wikilink")が[ゼネラルマネージャー](../Page/ゼネラルマネージャー.md "wikilink")(GM)に就任した。リーグ戦は14位の成績であったが、「ベストサポーター賞」を受賞した\[16\]。シーズン終了後に与那城が監督を退任した。
 
 <!-- end list -->
 
@@ -40,12 +40,12 @@
 <!-- end list -->
 
   -
-    日本代表元監督の[フィリップ・トルシエ](../Page/フィリップ・トルシエ.md "wikilink")が総監督、[ブルキナファソ代表元監督の](../Page/サッカーブルキナファソ代表.md "wikilink")が監督に就任。元日本代表の[山下芳輝](https://ja.wikipedia.org/wiki/山下芳輝 "wikilink")が加入した。1月に[Jリーグ準加盟申請を行ったが](../Page/Jリーグ準加盟クラブ.md "wikilink")、同2月19日に開かれた[社団法人日本プロサッカーリーグの理事会において](https://ja.wikipedia.org/wiki/日本プロサッカーリーグ_\(法人\) "wikilink")、運営体制の未確立、スタジアム等設備条件の不備を理由に認められなかった。リーグ戦は入れ替え戦圏内の16位で終えたが、昨年同様レギュレーション変更によりJFLに残留した（詳細は[第10回日本フットボールリーグ\#レギュレーション変更](https://ja.wikipedia.org/wiki/第10回日本フットボールリーグ#レギュレーション変更 "wikilink")を参照）。シーズン終了後にラビエが監督を退任した。
+    日本代表元監督の[フィリップ・トルシエ](../Page/フィリップ・トルシエ.md "wikilink")が総監督、[ブルキナファソ代表元監督の](../Page/サッカーブルキナファソ代表.md "wikilink")が監督に就任。元日本代表の[山下芳輝](../Page/山下芳輝.md "wikilink")が加入した。1月に[Jリーグ準加盟申請を行ったが](../Page/Jリーグ準加盟クラブ.md "wikilink")、同2月19日に開かれた[社団法人日本プロサッカーリーグの理事会において](https://ja.wikipedia.org/wiki/日本プロサッカーリーグ_\(法人\) "wikilink")、運営体制の未確立、スタジアム等設備条件の不備を理由に認められなかった。リーグ戦は入れ替え戦圏内の16位で終えたが、昨年同様レギュレーション変更によりJFLに残留した（詳細は[第10回日本フットボールリーグ\#レギュレーション変更](https://ja.wikipedia.org/wiki/第10回日本フットボールリーグ#レギュレーション変更 "wikilink")を参照）。シーズン終了後にラビエが監督を退任した。
 
 <!-- end list -->
 
   - 2009年
-    1月、初代監督でコーチの[新里裕之](https://ja.wikipedia.org/wiki/新里裕之 "wikilink")が監督に就任。リーグ戦は、入れ替え戦圏内の16位で終えたが、レギュレーション変更によりJFLに残留した（詳細は[第11回日本フットボールリーグ\#レギュレーション変更](https://ja.wikipedia.org/wiki/第11回日本フットボールリーグ#レギュレーション変更 "wikilink")を参照）。12月、株式会社琉球スポーツキングダムから[榊原信行](https://ja.wikipedia.org/wiki/榊原信行 "wikilink")率いる株式会社沖縄ドリームファクトリーへ経営権が譲渡された。
+    1月、初代監督でコーチの[新里裕之](https://ja.wikipedia.org/wiki/新里裕之 "wikilink")が監督に就任。リーグ戦は、入れ替え戦圏内の16位で終えたが、レギュレーション変更によりJFLに残留した（詳細は[第11回日本フットボールリーグ\#レギュレーション変更](https://ja.wikipedia.org/wiki/第11回日本フットボールリーグ#レギュレーション変更 "wikilink")を参照）。12月、株式会社琉球スポーツキングダムから[榊原信行](../Page/榊原信行.md "wikilink")率いる株式会社沖縄ドリームファクトリーへ経営権が譲渡された。
 
 <!-- end list -->
 
@@ -60,12 +60,12 @@
 <!-- end list -->
 
   - 2012年
-    監督に[鳥取元監督の](../Page/ガイナーレ鳥取.md "wikilink")[松田岳夫](https://ja.wikipedia.org/wiki/松田岳夫 "wikilink")が就任。リーグ戦は5月20日の[SAGAWA SHIGA FC戦の勝利以降ホームで勝てなくなり](../Page/SAGAWA_SHIGA_FC.md "wikilink")、10月27日の[ホンダロックSC](https://ja.wikipedia.org/wiki/ホンダロックSC "wikilink")戦の勝利まで7試合ホーム未勝利となった。順位は前年と同じく9位。松田がシーズン終了後に監督を退任した。
+    監督に[鳥取元監督の](../Page/ガイナーレ鳥取.md "wikilink")[松田岳夫](https://ja.wikipedia.org/wiki/松田岳夫 "wikilink")が就任。リーグ戦は5月20日の[SAGAWA SHIGA FC戦の勝利以降ホームで勝てなくなり](../Page/SAGAWA_SHIGA_FC.md "wikilink")、10月27日の[ホンダロックSC](../Page/ホンダロックSC.md "wikilink")戦の勝利まで7試合ホーム未勝利となった。順位は前年と同じく9位。松田がシーズン終了後に監督を退任した。
 
 <!-- end list -->
 
   - 2013年
-    監督に[AC長野パルセイロ](https://ja.wikipedia.org/wiki/AC長野パルセイロ "wikilink")元監督の[薩川了洋](../Page/薩川了洋.md "wikilink")が就任した。9月、株式会社沖縄ドリームファクトリーから琉球フットボールクラブ株式会社へクラブの運営が移管された\[18\]。9月17日に[Jリーグ準加盟クラブ](../Page/Jリーグ準加盟クラブ.md "wikilink")として承認。11月19日に[日本プロサッカーリーグ](../Page/日本プロサッカーリーグ.md "wikilink")（Jリーグ）の理事会でJリーグへの入会が承認され、[2014年](../Page/2014年.md "wikilink")からの[J3リーグ](https://ja.wikipedia.org/wiki/J3リーグ "wikilink")参加が決定、沖縄初のJリーグ参入クラブが誕生した。リーグ戦の順位は11位。
+    監督に[AC長野パルセイロ](../Page/AC長野パルセイロ.md "wikilink")元監督の[薩川了洋](../Page/薩川了洋.md "wikilink")が就任した。9月、株式会社沖縄ドリームファクトリーから琉球フットボールクラブ株式会社へクラブの運営が移管された\[18\]。9月17日に[Jリーグ準加盟クラブ](../Page/Jリーグ準加盟クラブ.md "wikilink")として承認。11月19日に[日本プロサッカーリーグ](../Page/日本プロサッカーリーグ.md "wikilink")（Jリーグ）の理事会でJリーグへの入会が承認され、[2014年](../Page/2014年.md "wikilink")からの[J3リーグ](https://ja.wikipedia.org/wiki/J3リーグ "wikilink")参加が決定、沖縄初のJリーグ参入クラブが誕生した。リーグ戦の順位は11位。
 
 ### 2014年 - 2018年 (J3)
 
@@ -74,7 +74,7 @@
       -
         クラブスローガン ：「**J3元年 誰も見たことのない未来へ 今までじゃない 今からだ**」
 
-    薩川体制2年目。[我那覇和樹](../Page/我那覇和樹.md "wikilink")が[讃岐へ完全移籍するなど](https://ja.wikipedia.org/wiki/カマタマーレ讃岐 "wikilink")、半数以上の22人が契約満了により退団。年間成績は9位。
+    薩川体制2年目。[我那覇和樹](../Page/我那覇和樹.md "wikilink")が[讃岐へ完全移籍するなど](../Page/カマタマーレ讃岐.md "wikilink")、半数以上の22人が契約満了により退団。年間成績は9位。
 
 <!-- end list -->
 
@@ -102,7 +102,7 @@
 <!-- end list -->
 
   -
-    チームは若手中心のチームへと方針を転換\[20\]。高校生2人、大学生6人の新卒選手を獲得した他、[藤枝から昨年の正GK](https://ja.wikipedia.org/wiki/藤枝MYFC "wikilink")[朴一圭](https://ja.wikipedia.org/wiki/朴一圭 "wikilink")、[東北1部](https://ja.wikipedia.org/wiki/東北社会人サッカーリーグ "wikilink")・[FCガンジュ岩手](../Page/FCガンジュ岩手.md "wikilink")から[濱田克大](https://ja.wikipedia.org/wiki/濱田克大 "wikilink")が完全移籍で加入。新外国人選手として[フアン](https://ja.wikipedia.org/wiki/フアン・テイシェイラ・シルヴァ "wikilink")、[パブロ](https://ja.wikipedia.org/wiki/パブロ・アウグスト・セルボ・デ・カルヴァーリョ "wikilink")、[レオナルドを獲得した](https://ja.wikipedia.org/wiki/レオナルド・デ・ソウザ・ペレイラ "wikilink")。年間成績は、12勝8分10敗の8位でJ3加入後初の勝ち越し。
+    チームは若手中心のチームへと方針を転換\[20\]。高校生2人、大学生6人の新卒選手を獲得した他、[藤枝から昨年の正GK](https://ja.wikipedia.org/wiki/藤枝MYFC "wikilink")[朴一圭](https://ja.wikipedia.org/wiki/朴一圭 "wikilink")、[東北1部](../Page/東北社会人サッカーリーグ.md "wikilink")・[FCガンジュ岩手](../Page/FCガンジュ岩手.md "wikilink")から[濱田克大](https://ja.wikipedia.org/wiki/濱田克大 "wikilink")が完全移籍で加入。新外国人選手として[フアン](https://ja.wikipedia.org/wiki/フアン・テイシェイラ・シルヴァ "wikilink")、[パブロ](https://ja.wikipedia.org/wiki/パブロ・アウグスト・セルボ・デ・カルヴァーリョ "wikilink")、[レオナルドを獲得した](https://ja.wikipedia.org/wiki/レオナルド・デ・ソウザ・ペレイラ "wikilink")。年間成績は、12勝8分10敗の8位でJ3加入後初の勝ち越し。
 
 <!-- end list -->
 
@@ -116,12 +116,12 @@
 <!-- end list -->
 
   -
-    チームは金鍾成体制2年目。[田中恵太](https://ja.wikipedia.org/wiki/田中恵太 "wikilink")（[水戸へ移籍](../Page/水戸ホーリーホック.md "wikilink")）など9人が退団。一方で[カン・ジュガン](https://ja.wikipedia.org/wiki/姜周光 "wikilink")（[関東1部](https://ja.wikipedia.org/wiki/関東サッカーリーグ "wikilink")・[VONDS市原](../Page/VONDS市原.md "wikilink")から）、[玉川由](https://ja.wikipedia.org/wiki/玉川由 "wikilink")（関東2部・[エスペランサSC](https://ja.wikipedia.org/wiki/エスペランサSC "wikilink")から）、[崔炳吉](https://ja.wikipedia.org/wiki/崔炳吉 "wikilink")、[キム・ヒョンボム](https://ja.wikipedia.org/wiki/キム・ヒョンボム "wikilink")が完全移籍で加入。その他、[名倉巧](https://ja.wikipedia.org/wiki/名倉巧 "wikilink")を含めた大学生5人が入団。平均年齢22.6歳と若いチーム編成になった。キャプテンは、在籍4年目で最年長のMF[藤澤典隆](https://ja.wikipedia.org/wiki/藤澤典隆 "wikilink")が務める。
+    チームは金鍾成体制2年目。[田中恵太](https://ja.wikipedia.org/wiki/田中恵太 "wikilink")（[水戸へ移籍](../Page/水戸ホーリーホック.md "wikilink")）など9人が退団。一方で[カン・ジュガン](https://ja.wikipedia.org/wiki/姜周光 "wikilink")（[関東1部](../Page/関東サッカーリーグ.md "wikilink")・[VONDS市原](../Page/VONDS市原.md "wikilink")から）、[玉川由](https://ja.wikipedia.org/wiki/玉川由 "wikilink")（関東2部・[エスペランサSC](https://ja.wikipedia.org/wiki/エスペランサSC "wikilink")から）、[崔炳吉](https://ja.wikipedia.org/wiki/崔炳吉 "wikilink")、[キム・ヒョンボム](https://ja.wikipedia.org/wiki/キム・ヒョンボム "wikilink")が完全移籍で加入。その他、[名倉巧](https://ja.wikipedia.org/wiki/名倉巧 "wikilink")を含めた大学生5人が入団。平均年齢22.6歳と若いチーム編成になった。キャプテンは、在籍4年目で最年長のMF[藤澤典隆](https://ja.wikipedia.org/wiki/藤澤典隆 "wikilink")が務める。
 
 <!-- end list -->
 
   -
-    金が新体制発表会で「3対1で勝つサッカーを追求し、[J2に昇格することを目標に掲げる](https://ja.wikipedia.org/wiki/J2リーグ "wikilink")」と述べた新チームの開幕戦・アウェイ[栃木戦は](../Page/栃木SC.md "wikilink")0-0の引き分けスタート\[23\]。第7節以降は、引き分けを挟み、第18節の[長野戦で敗れるまで](https://ja.wikipedia.org/wiki/AC長野パルセイロ "wikilink")、10試合連続の負けなしを記録した。リーグ前半終了地点での成績は、6勝7分4敗。8位で折り返すこととなった\[24\]。天皇杯は1回戦で[JFLの](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")[FC今治](https://ja.wikipedia.org/wiki/FC今治 "wikilink")にPK戦で敗れた。
+    金が新体制発表会で「3対1で勝つサッカーを追求し、[J2に昇格することを目標に掲げる](https://ja.wikipedia.org/wiki/J2リーグ "wikilink")」と述べた新チームの開幕戦・アウェイ[栃木戦は](../Page/栃木SC.md "wikilink")0-0の引き分けスタート\[23\]。第7節以降は、引き分けを挟み、第18節の[長野戦で敗れるまで](../Page/AC長野パルセイロ.md "wikilink")、10試合連続の負けなしを記録した。リーグ前半終了地点での成績は、6勝7分4敗。8位で折り返すこととなった\[24\]。天皇杯は1回戦で[JFLの](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")[FC今治](https://ja.wikipedia.org/wiki/FC今治 "wikilink")にPK戦で敗れた。
 
 <!-- end list -->
 
@@ -150,7 +150,7 @@
       -
         クラブスローガン ：「**琉球昇竜**」
 
-    金鍾成体制3年目。[藤澤典隆](https://ja.wikipedia.org/wiki/藤澤典隆 "wikilink")（[鹿児島](https://ja.wikipedia.org/wiki/鹿児島ユナイテッドFC "wikilink")）、[田辺圭佑](https://ja.wikipedia.org/wiki/田辺圭佑 "wikilink")（[熊本](https://ja.wikipedia.org/wiki/ロアッソ熊本 "wikilink")）、[才藤龍治](https://ja.wikipedia.org/wiki/才藤龍治 "wikilink")（[富山](https://ja.wikipedia.org/wiki/カターレ富山 "wikilink")）、[前田央樹](https://ja.wikipedia.org/wiki/前田央樹 "wikilink")（[北九州](https://ja.wikipedia.org/wiki/ギラヴァンツ北九州 "wikilink")）といった、これまでチームの軸として活躍した主力選手らが去った一方で、新卒ルーキー4名の他、[藤枝から前シーズン](https://ja.wikipedia.org/wiki/藤枝MYFC "wikilink")13得点を挙げたFW[枝本雄一郎](https://ja.wikipedia.org/wiki/枝本雄一郎 "wikilink")、[U-23北朝鮮代表MF](https://ja.wikipedia.org/wiki/U-23サッカー朝鮮民主主義人民共和国代表 "wikilink")[金成純](https://ja.wikipedia.org/wiki/金成純 "wikilink")\[31\]、[YS横浜からMF](../Page/横浜スポーツ&カルチャークラブ.md "wikilink")[小松駿太](https://ja.wikipedia.org/wiki/小松駿太 "wikilink")ら即戦力を複数獲得。さらに、[大宮から日本代表経験のあるFW](https://ja.wikipedia.org/wiki/大宮アルディージャ "wikilink")[播戸竜二](https://ja.wikipedia.org/wiki/播戸竜二 "wikilink")\[32\]、ノルウェーからFW[カルボン・ファーデル](https://ja.wikipedia.org/wiki/カルボン・ファーデル "wikilink")\[33\]を加入させる。
+    金鍾成体制3年目。[藤澤典隆](https://ja.wikipedia.org/wiki/藤澤典隆 "wikilink")（[鹿児島](https://ja.wikipedia.org/wiki/鹿児島ユナイテッドFC "wikilink")）、[田辺圭佑](https://ja.wikipedia.org/wiki/田辺圭佑 "wikilink")（[熊本](https://ja.wikipedia.org/wiki/ロアッソ熊本 "wikilink")）、[才藤龍治](https://ja.wikipedia.org/wiki/才藤龍治 "wikilink")（[富山](https://ja.wikipedia.org/wiki/カターレ富山 "wikilink")）、[前田央樹](https://ja.wikipedia.org/wiki/前田央樹 "wikilink")（[北九州](../Page/ギラヴァンツ北九州.md "wikilink")）といった、これまでチームの軸として活躍した主力選手らが去った一方で、新卒ルーキー4名の他、[藤枝から前シーズン](https://ja.wikipedia.org/wiki/藤枝MYFC "wikilink")13得点を挙げたFW[枝本雄一郎](https://ja.wikipedia.org/wiki/枝本雄一郎 "wikilink")、[U-23北朝鮮代表MF](https://ja.wikipedia.org/wiki/U-23サッカー朝鮮民主主義人民共和国代表 "wikilink")[金成純](https://ja.wikipedia.org/wiki/金成純 "wikilink")\[31\]、[YS横浜からMF](../Page/横浜スポーツ&カルチャークラブ.md "wikilink")[小松駿太](https://ja.wikipedia.org/wiki/小松駿太 "wikilink")ら即戦力を複数獲得。さらに、[大宮から日本代表経験のあるFW](https://ja.wikipedia.org/wiki/大宮アルディージャ "wikilink")[播戸竜二](../Page/播戸竜二.md "wikilink")\[32\]、ノルウェーからFW[カルボン・ファーデル](https://ja.wikipedia.org/wiki/カルボン・ファーデル "wikilink")\[33\]を加入させる。
 
 <!-- end list -->
 
@@ -183,8 +183,8 @@
 
   -
     前年まで[YS横浜を率いていた](../Page/横浜スポーツ&カルチャークラブ.md "wikilink")[樋口靖洋](../Page/樋口靖洋.md "wikilink")が新監督に就任\[53\]。
-    [朴一圭](https://ja.wikipedia.org/wiki/朴一圭 "wikilink")（[横浜FM](https://ja.wikipedia.org/wiki/横浜F・マリノス "wikilink")）、[富樫佑太](https://ja.wikipedia.org/wiki/富樫佑太 "wikilink")（[岐阜](https://ja.wikipedia.org/wiki/FC岐阜 "wikilink")）、[枝本雄一郎](https://ja.wikipedia.org/wiki/枝本雄一郎 "wikilink")（[鹿児島](https://ja.wikipedia.org/wiki/鹿児島ユナイテッドFC "wikilink")）、[瀧澤修平](https://ja.wikipedia.org/wiki/瀧澤修平 "wikilink")（[水戸](../Page/水戸ホーリーホック.md "wikilink")）が移籍、[屋宮大地](https://ja.wikipedia.org/wiki/屋宮大地 "wikilink")が引退しアカデミースタッフへ就任、[播戸竜二](https://ja.wikipedia.org/wiki/播戸竜二 "wikilink")（2019年に所属したチームはなくシーズン途中で[ガンバ大阪](../Page/ガンバ大阪.md "wikilink")と1日契約を結び引退発表）や[朴利基](https://ja.wikipedia.org/wiki/朴利基 "wikilink")（のちに[高知ユナイテッドSC](https://ja.wikipedia.org/wiki/高知ユナイテッドSC "wikilink")に加入）などの選手が契約満了により退団した。
-    一方、[田中恵太](https://ja.wikipedia.org/wiki/田中恵太 "wikilink")（水戸・レンタル移籍含め3度目の在籍）、[ダニー・カルバハル](https://ja.wikipedia.org/wiki/ダニー・カルバハル "wikilink")（水戸）、[福井諒司](https://ja.wikipedia.org/wiki/福井諒司 "wikilink")（水戸）、[岡﨑亮平](https://ja.wikipedia.org/wiki/岡崎亮平 "wikilink")（[湘南](https://ja.wikipedia.org/wiki/湘南ベルマーレ "wikilink")）、[新井純平](https://ja.wikipedia.org/wiki/新井純平_\(1994年生のサッカー選手\) "wikilink")（[横浜FC](../Page/横浜FC.md "wikilink")）、[西河翔吾](../Page/西河翔吾.md "wikilink")（[栃木](../Page/栃木SC.md "wikilink")）、[鈴木孝司](https://ja.wikipedia.org/wiki/鈴木孝司 "wikilink")（[町田](https://ja.wikipedia.org/wiki/FC町田ゼルビア "wikilink")）、[風間宏希](https://ja.wikipedia.org/wiki/風間宏希 "wikilink")（[群馬](https://ja.wikipedia.org/wiki/ザスパクサツ群馬 "wikilink")）などJ1またはJ2在籍経験のある選手、[上里一将](https://ja.wikipedia.org/wiki/上里一将 "wikilink")（[熊本](https://ja.wikipedia.org/wiki/ロアッソ熊本 "wikilink")）、[上原慎也](https://ja.wikipedia.org/wiki/上原慎也 "wikilink")（[愛媛](https://ja.wikipedia.org/wiki/愛媛FC "wikilink")）の沖縄出身選手などが移籍加入したほか、2017年に[特別指定選手](https://ja.wikipedia.org/wiki/特別指定選手 "wikilink")として在籍・出場経験のある[儀保幸英](https://ja.wikipedia.org/wiki/儀保幸英 "wikilink")など5人が大学・高校から新加入した\[54\]。
+    [朴一圭](https://ja.wikipedia.org/wiki/朴一圭 "wikilink")（[横浜FM](https://ja.wikipedia.org/wiki/横浜F・マリノス "wikilink")）、[富樫佑太](https://ja.wikipedia.org/wiki/富樫佑太 "wikilink")（[岐阜](../Page/FC岐阜.md "wikilink")）、[枝本雄一郎](https://ja.wikipedia.org/wiki/枝本雄一郎 "wikilink")（[鹿児島](https://ja.wikipedia.org/wiki/鹿児島ユナイテッドFC "wikilink")）、[瀧澤修平](https://ja.wikipedia.org/wiki/瀧澤修平 "wikilink")（[水戸](../Page/水戸ホーリーホック.md "wikilink")）が移籍、[屋宮大地](https://ja.wikipedia.org/wiki/屋宮大地 "wikilink")が引退しアカデミースタッフへ就任、[播戸竜二](../Page/播戸竜二.md "wikilink")（2019年に所属したチームはなくシーズン途中で[ガンバ大阪](../Page/ガンバ大阪.md "wikilink")と1日契約を結び引退発表）や[朴利基](https://ja.wikipedia.org/wiki/朴利基 "wikilink")（のちに[高知ユナイテッドSC](https://ja.wikipedia.org/wiki/高知ユナイテッドSC "wikilink")に加入）などの選手が契約満了により退団した。
+    一方、[田中恵太](https://ja.wikipedia.org/wiki/田中恵太 "wikilink")（水戸・レンタル移籍含め3度目の在籍）、[ダニー・カルバハル](https://ja.wikipedia.org/wiki/ダニー・カルバハル "wikilink")（水戸）、[福井諒司](https://ja.wikipedia.org/wiki/福井諒司 "wikilink")（水戸）、[岡﨑亮平](https://ja.wikipedia.org/wiki/岡崎亮平 "wikilink")（[湘南](https://ja.wikipedia.org/wiki/湘南ベルマーレ "wikilink")）、[新井純平](https://ja.wikipedia.org/wiki/新井純平_\(1994年生のサッカー選手\) "wikilink")（[横浜FC](../Page/横浜FC.md "wikilink")）、[西河翔吾](../Page/西河翔吾.md "wikilink")（[栃木](../Page/栃木SC.md "wikilink")）、[鈴木孝司](https://ja.wikipedia.org/wiki/鈴木孝司 "wikilink")（[町田](https://ja.wikipedia.org/wiki/FC町田ゼルビア "wikilink")）、[風間宏希](https://ja.wikipedia.org/wiki/風間宏希 "wikilink")（[群馬](https://ja.wikipedia.org/wiki/ザスパクサツ群馬 "wikilink")）などJ1またはJ2在籍経験のある選手、[上里一将](../Page/上里一将.md "wikilink")（[熊本](https://ja.wikipedia.org/wiki/ロアッソ熊本 "wikilink")）、[上原慎也](https://ja.wikipedia.org/wiki/上原慎也 "wikilink")（[愛媛](https://ja.wikipedia.org/wiki/愛媛FC "wikilink")）の沖縄出身選手などが移籍加入したほか、2017年に[特別指定選手](../Page/特別指定選手.md "wikilink")として在籍・出場経験のある[儀保幸英](https://ja.wikipedia.org/wiki/儀保幸英 "wikilink")など5人が大学・高校から新加入した\[54\]。
     2019年1月9日に行われた新体制発表会で、社長の倉林は「徳元や上門といった昨年からいる地元選手に加えて、上里、上原、儀保と県出身の選手たちも迎えることができました。まさしく『沖縄史上最強チーム』と言っても過言では無いと思いますので、最強チームを観に是非スタジアムへお越しください」とコメント。新監督の樋口は「常に主導権をとって戦うんだと言う部分をチーム全体で共有し、難しいシーズンになると思いますが、是非チーム全員の力を合わせて、躍動的で一体感のあるサッカーをしながら攻めるサッカーで勝っていきたい」と述べた\[55\]\[56\]。
     下部組織からの昇格選手として2019年1月28日に[井口綾人](https://ja.wikipedia.org/wiki/井口綾人 "wikilink")、[与那城智希](https://ja.wikipedia.org/wiki/与那城智希 "wikilink")、[國場虎次朗](https://ja.wikipedia.org/wiki/國場虎次朗 "wikilink")の加入を\[57\]、2019年2月20日に[福井凜音](https://ja.wikipedia.org/wiki/福井凜音 "wikilink")の加入\[58\]を発表した。
 
@@ -201,7 +201,7 @@
 <!-- end list -->
 
   -
-    シーズン開幕直後は4連勝を達成し、さらに前シーズンから続いていた「ホーム試合連続負け無し」をJリーグ記録更新まで継続するなど好調が続いたが、一方でシーズン開幕直後に[中川風希](https://ja.wikipedia.org/wiki/中川風希 "wikilink")（横浜FM）、シーズン中盤の移籍可能期間に鈴木孝司（[C大阪](../Page/セレッソ大阪.md "wikilink")）、[和田凌](https://ja.wikipedia.org/wiki/和田凌 "wikilink")（鹿児島）、[増谷幸祐](https://ja.wikipedia.org/wiki/増谷幸祐 "wikilink")（[岡山](https://ja.wikipedia.org/wiki/ファジアーノ岡山FC "wikilink")、期限付き移籍）が移籍し主力の流失を招いた結果、中盤戦では連敗が続く時期もあった。
+    シーズン開幕直後は4連勝を達成し、さらに前シーズンから続いていた「ホーム試合連続負け無し」をJリーグ記録更新まで継続するなど好調が続いたが、一方でシーズン開幕直後に[中川風希](https://ja.wikipedia.org/wiki/中川風希 "wikilink")（横浜FM）、シーズン中盤の移籍可能期間に鈴木孝司（[C大阪](../Page/セレッソ大阪.md "wikilink")）、[和田凌](https://ja.wikipedia.org/wiki/和田凌 "wikilink")（鹿児島）、[増谷幸祐](https://ja.wikipedia.org/wiki/増谷幸祐 "wikilink")（[岡山](../Page/ファジアーノ岡山FC.md "wikilink")、期限付き移籍）が移籍し主力の流失を招いた結果、中盤戦では連敗が続く時期もあった。
     その後はシーズン途中で獲得した[小野伸二](../Page/小野伸二.md "wikilink")（[札幌](https://ja.wikipedia.org/wiki/コンサドーレ札幌 "wikilink")）、[鳥養祐矢](https://ja.wikipedia.org/wiki/鳥養祐矢 "wikilink")（[山口](../Page/レノファ山口FC.md "wikilink")）、[風間宏矢](https://ja.wikipedia.org/wiki/風間宏矢 "wikilink")（岐阜、期限付き移籍）、[山田寛人](https://ja.wikipedia.org/wiki/山田寛人 "wikilink")（C大阪、育成型期限付き移籍）などがフィットし成績が向上、J2初年度を13勝10分19敗の14位で終えた。
 
 <!-- end list -->
@@ -262,7 +262,7 @@
   - FC琉球U-15那覇
   - FC琉球U-12
 
-また、2018年には、Jリーグのクラブとしては初めて\[63\]となる学校「FC琉球高等学院」を設立した\[64\]。[通信制高校の](https://ja.wikipedia.org/wiki/高等学校通信教育 "wikilink")[鹿島朝日高等学校](https://ja.wikipedia.org/wiki/鹿島朝日高等学校 "wikilink")（[学校法人鹿島学園](https://ja.wikipedia.org/wiki/学校法人鹿島学園 "wikilink")運営）と提携し、同校の高等学校卒業資格を得られるとしている。なお、[堀江貴文](https://ja.wikipedia.org/wiki/堀江貴文 "wikilink")が設立した[サポート校](https://ja.wikipedia.org/wiki/サポート校 "wikilink")「[ゼロ高等学院](https://ja.wikipedia.org/wiki/ゼロ高等学院 "wikilink")」はFC琉球高等学院を参考にしたという\[65\]。
+また、2018年には、Jリーグのクラブとしては初めて\[63\]となる学校「FC琉球高等学院」を設立した\[64\]。[通信制高校の](../Page/高等学校通信教育.md "wikilink")[鹿島朝日高等学校](https://ja.wikipedia.org/wiki/鹿島朝日高等学校 "wikilink")（[学校法人鹿島学園](https://ja.wikipedia.org/wiki/学校法人鹿島学園 "wikilink")運営）と提携し、同校の高等学校卒業資格を得られるとしている。なお、[堀江貴文](../Page/堀江貴文.md "wikilink")が設立した[サポート校](../Page/サポート校.md "wikilink")「[ゼロ高等学院](https://ja.wikipedia.org/wiki/ゼロ高等学院 "wikilink")」はFC琉球高等学院を参考にしたという\[65\]。
 
 ## スタジアム・練習場他
 
@@ -272,11 +272,11 @@
 
 ### 練習場
 
-主な練習場は[八重瀬町](https://ja.wikipedia.org/wiki/八重瀬町 "wikilink")の[東風平運動公園サッカー場](https://ja.wikipedia.org/wiki/東風平運動公園サッカー場 "wikilink")\[67\]、[中城村](../Page/中城村.md "wikilink")の[吉の浦公園ごさまる陸上競技場](https://ja.wikipedia.org/wiki/吉の浦公園ごさまる陸上競技場 "wikilink")\[68\][南城市](https://ja.wikipedia.org/wiki/南城市 "wikilink")の[南城市陸上競技場](https://ja.wikipedia.org/wiki/南城市陸上競技場 "wikilink")\[69\] の3カ所。
+主な練習場は[八重瀬町](../Page/八重瀬町.md "wikilink")の[東風平運動公園サッカー場](https://ja.wikipedia.org/wiki/東風平運動公園サッカー場 "wikilink")\[67\]、[中城村](../Page/中城村.md "wikilink")の[吉の浦公園ごさまる陸上競技場](https://ja.wikipedia.org/wiki/吉の浦公園ごさまる陸上競技場 "wikilink")\[68\][南城市](../Page/南城市.md "wikilink")の[南城市陸上競技場](https://ja.wikipedia.org/wiki/南城市陸上競技場 "wikilink")\[69\] の3カ所。
 
-2019年6月17日、[八重瀬町](https://ja.wikipedia.org/wiki/八重瀬町 "wikilink")は同町役場で会見を開き、J1ライセンス取得に必要となる施設を備えた練習拠点を、具志頭運動公園陸上競技場に置くと発表した。県の事業により、2023年に[那覇市](../Page/那覇市.md "wikilink")の奥武山運動公園にJ1規格のスタジアムが開業する予定で、クラブ側はスタジアムと同じ沖縄本島南部に位置する八重瀬町と協力し、クラブハウスや専用練習場を整備することを決めた。同町スポーツ振興課によると、両者は今後も協議を重ね、具体的な整備について検討していく。三上社長は「ライセンス取得は選手のモチベーションアップにつながる。沖縄を熱狂させたい」「地域社会に貢献していきたい。熱狂をつくり、沖縄のアイデンティティーを高めるクラブを目指す」と述べ、新垣安弘町長は「町は少年サッカーが盛んで、県のスタジアム計画がある那覇とも近い。地元のクラブがJ1を目指していけば、県全体が盛り上がる。町も一緒になって夢を追いながら機運を盛り上げたい」と語った\[70\]\[71\]\[72\]。
+2019年6月17日、[八重瀬町](../Page/八重瀬町.md "wikilink")は同町役場で会見を開き、J1ライセンス取得に必要となる施設を備えた練習拠点を、具志頭運動公園陸上競技場に置くと発表した。県の事業により、2023年に[那覇市](../Page/那覇市.md "wikilink")の奥武山運動公園にJ1規格のスタジアムが開業する予定で、クラブ側はスタジアムと同じ沖縄本島南部に位置する八重瀬町と協力し、クラブハウスや専用練習場を整備することを決めた。同町スポーツ振興課によると、両者は今後も協議を重ね、具体的な整備について検討していく。三上社長は「ライセンス取得は選手のモチベーションアップにつながる。沖縄を熱狂させたい」「地域社会に貢献していきたい。熱狂をつくり、沖縄のアイデンティティーを高めるクラブを目指す」と述べ、新垣安弘町長は「町は少年サッカーが盛んで、県のスタジアム計画がある那覇とも近い。地元のクラブがJ1を目指していけば、県全体が盛り上がる。町も一緒になって夢を追いながら機運を盛り上げたい」と語った\[70\]\[71\]\[72\]。
 
-その後、[八重瀬町](https://ja.wikipedia.org/wiki/八重瀬町 "wikilink")は、サッカーグラウンド（1万800平方メートル）、クラブハウス（640平方メートル）、大型普通自動車が250台駐車可能な駐車場（1万1000平方メートル）の整備を明らかにした。2020年度から敷地の測量に入り、2021年度内に工事を終えて、22年度の運用開始を目指す。クラブハウスのうち、クラブ専用となる部分はクラブ側の負担で整備し、公園内にある既存の管理棟も改修する。なお、グラウンドやクラブハウスの総事業費は、およそ10億円規模になるとみられている\[73\]。
+その後、[八重瀬町](../Page/八重瀬町.md "wikilink")は、サッカーグラウンド（1万800平方メートル）、クラブハウス（640平方メートル）、大型普通自動車が250台駐車可能な駐車場（1万1000平方メートル）の整備を明らかにした。2020年度から敷地の測量に入り、2021年度内に工事を終えて、22年度の運用開始を目指す。クラブハウスのうち、クラブ専用となる部分はクラブ側の負担で整備し、公園内にある既存の管理棟も改修する。なお、グラウンドやクラブハウスの総事業費は、およそ10億円規模になるとみられている\[73\]。
 
 ## ユニフォーム
 
@@ -384,11 +384,11 @@
 
 ### ユニフォームサプライの遍歴
 
-  - 2003年 : [アシックス](https://ja.wikipedia.org/wiki/アシックス "wikilink")
+  - 2003年 : [アシックス](../Page/アシックス.md "wikilink")
   - 2004年 - 2005年 : ゴリラ
       - 2004年は500円のTシャツに背番号を貼り付けたユニフォームであった\[81\]。
   - 2006年 - 2007年 : キングダム（クラブオリジナルのブランド名）
-  - 2008年 : [カッパ](https://ja.wikipedia.org/wiki/Kappa "wikilink")
+  - 2008年 : [カッパ](../Page/Kappa.md "wikilink")
   - 2009年 - 2010年 : [エレア](http://www.errea.jp)
   - 2011年 - 2012年 : [エーライン](../Page/カレッジリーグ.md "wikilink")
   - 2013年 : [グラン・スポール](http://www.grandsport.com)
@@ -480,7 +480,7 @@ Team Fumitake</p></td>
 <td><p>2008</p></td>
 <td><p>-</p></td>
 <td><p><a href="../Page/トランスコスモス.md" title="wikilink">transcosmos</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Kappa" title="wikilink">Kappa</a></p></td>
+<td><p><a href="../Page/Kappa.md" title="wikilink">Kappa</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -633,9 +633,9 @@ Team Fumitake</p></td>
 
   - [FC琉球の選手一覧](https://ja.wikipedia.org/wiki/FC琉球の選手一覧 "wikilink")
   - [九州ダービー](https://ja.wikipedia.org/wiki/九州ダービー "wikilink")
-  - [超\!\! FC琉球](https://ja.wikipedia.org/wiki/超!!_FC琉球 "wikilink") ([RBCiラジオ](https://ja.wikipedia.org/wiki/琉球放送 "wikilink"))
+  - [超\!\! FC琉球](https://ja.wikipedia.org/wiki/超!!_FC琉球 "wikilink") ([RBCiラジオ](../Page/琉球放送.md "wikilink"))
   - [田部和良](../Page/田部和良.md "wikilink") ゼネラルマネージャー
-  - [沖縄県営奥武山公園](https://ja.wikipedia.org/wiki/沖縄県営奥武山公園 "wikilink")
+  - [沖縄県営奥武山公園](../Page/沖縄県営奥武山公園.md "wikilink")
   - [早稲田ユナイテッド](https://ja.wikipedia.org/wiki/早稲田ユナイテッド "wikilink") - 2018年1月、包括的業務提携を新たに締結。
   - [琉球アスティーダ](https://ja.wikipedia.org/wiki/琉球アスティーダ "wikilink") - 2018年4月、包括的業務提携を新たに締結。
   - [ソーマプライア](https://ja.wikipedia.org/wiki/ソーマプライア "wikilink") - 2018年4月、包括的業務提携を新たに締結。

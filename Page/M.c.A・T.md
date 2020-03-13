@@ -7,17 +7,17 @@
 
 ## 来歴・人物
 
-[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")[豊平区](../Page/豊平区.md "wikilink")出身\[1\]。父は[NHK札幌放送局](../Page/NHK札幌放送局.md "wikilink")の職員だった。[北海道札幌月寒高等学校](https://ja.wikipedia.org/wiki/北海道札幌月寒高等学校 "wikilink")、[北海道教育大学](https://ja.wikipedia.org/wiki/北海道教育大学 "wikilink")旭川校卒業。小学校、中学国語、高校国語、養護学校[教員免許](https://ja.wikipedia.org/wiki/教員免許 "wikilink")所持\[2\]。中学生のときからギターを始め、高校時代から[ブラックミュージック](../Page/ブラックミュージック.md "wikilink")に関心を持つ\[3\]。[北海道教育大学](https://ja.wikipedia.org/wiki/北海道教育大学 "wikilink")旭川校では軽音部に所属、在学時代から**アキオ・ワンダー・トガシ**と名乗り、カモフラージュJやアキオ・ワンダーwithミルク玉虫などのアマチュアバンドで活躍し、地元のアマチュア音楽界では有名な存在だった。
+[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")[豊平区](../Page/豊平区.md "wikilink")出身\[1\]。父は[NHK札幌放送局](../Page/NHK札幌放送局.md "wikilink")の職員だった。[北海道札幌月寒高等学校](../Page/北海道札幌月寒高等学校.md "wikilink")、[北海道教育大学](https://ja.wikipedia.org/wiki/北海道教育大学 "wikilink")旭川校卒業。小学校、中学国語、高校国語、養護学校[教員免許](https://ja.wikipedia.org/wiki/教員免許 "wikilink")所持\[2\]。中学生のときからギターを始め、高校時代から[ブラックミュージック](../Page/ブラックミュージック.md "wikilink")に関心を持つ\[3\]。[北海道教育大学](https://ja.wikipedia.org/wiki/北海道教育大学 "wikilink")旭川校では軽音部に所属、在学時代から**アキオ・ワンダー・トガシ**と名乗り、カモフラージュJやアキオ・ワンダーwithミルク玉虫などのアマチュアバンドで活躍し、地元のアマチュア音楽界では有名な存在だった。
 
-本名・**富樫 明生**の名義で、[1989年](../Page/1989年.md "wikilink")にデビュー。シングル・アルバム1枚ずつリリースした後しばし沈黙。[1992年](../Page/1992年.md "wikilink")、[小松壮一郎](https://ja.wikipedia.org/wiki/小松壮一郎 "wikilink")監督の日本初の"音楽ダンス映画"といわれる『[ハートブレイカー 弾丸より愛を込めて](https://ja.wikipedia.org/wiki/ハートブレイカー_弾丸より愛を込めて "wikilink")』の音楽を手がけた後\[4\]\[5\]\[6\][1993年](../Page/1993年.md "wikilink")にm.c.A・Tとして[avex traxより](https://ja.wikipedia.org/wiki/avex_trax "wikilink")『[Bomb A Head\!](../Page/Bomb_A_Head!.md "wikilink")』で再デビュー（富樫自身は、自らはプロデューサーであって、A・Tは別人格だと主張している）。[エイベックスに於いては同時期にメジャーデビューした](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")[TRF](../Page/TRF.md "wikilink")と並び最長の在籍期間を持つ。メロディアスでハイトーンのヴォーカル、アップテンポな曲調が特徴。その他の代表的な曲としては『風に叫ぶ』や、コカ・コーラ社製品「ファンタ」のCMソングに起用された『SUPER HAPPY』、後に自身がプロデュースする[DA PUMPがカバーした](https://ja.wikipedia.org/wiki/DA_PUMP "wikilink")『[ごきげんだぜっ\!](https://ja.wikipedia.org/wiki/ごきげんだぜっ!_〜Nothing_But_Something〜 "wikilink")』などがある。
+本名・**富樫 明生**の名義で、[1989年](../Page/1989年.md "wikilink")にデビュー。シングル・アルバム1枚ずつリリースした後しばし沈黙。[1992年](../Page/1992年.md "wikilink")、[小松壮一郎](https://ja.wikipedia.org/wiki/小松壮一郎 "wikilink")監督の日本初の"音楽ダンス映画"といわれる『[ハートブレイカー 弾丸より愛を込めて](https://ja.wikipedia.org/wiki/ハートブレイカー_弾丸より愛を込めて "wikilink")』の音楽を手がけた後\[4\]\[5\]\[6\][1993年](../Page/1993年.md "wikilink")にm.c.A・Tとして[avex traxより](https://ja.wikipedia.org/wiki/avex_trax "wikilink")『[Bomb A Head\!](../Page/Bomb_A_Head!.md "wikilink")』で再デビュー（富樫自身は、自らはプロデューサーであって、A・Tは別人格だと主張している）。[エイベックスに於いては同時期にメジャーデビューした](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")[TRF](../Page/TRF.md "wikilink")と並び最長の在籍期間を持つ。メロディアスでハイトーンのヴォーカル、アップテンポな曲調が特徴。その他の代表的な曲としては『風に叫ぶ』や、コカ・コーラ社製品「ファンタ」のCMソングに起用された『SUPER HAPPY』、後に自身がプロデュースする[DA PUMPがカバーした](../Page/DA_PUMP.md "wikilink")『[ごきげんだぜっ\!](https://ja.wikipedia.org/wiki/ごきげんだぜっ!_〜Nothing_But_Something〜 "wikilink")』などがある。
 
 自ら**J-SCHOOL RAP**と名乗りカラオケでも歌われるようになるが、ポップミュージックにラップを加えたスタイルは、本格的なヒップホップミュージシャン達からはヒップホップを貶めていると次第にバッシングもされるようになる。当時富樫は「攻撃してくるインディーズの人たちの気持ちがわからない」と述べている\[7\]。その幅広い音域やハイトーンで、ラップに限らず、様々なジャンルの歌も歌いこなしている。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、男性ヴォーカルグループである[BETCHIN'](https://ja.wikipedia.org/wiki/BETCHIN' "wikilink")に参加。
 
-ライブ活動と並行し、[DA PUMPのプロデュースや](https://ja.wikipedia.org/wiki/DA_PUMP "wikilink")[AAAの初レコーディング曲](https://ja.wikipedia.org/wiki/AAA_\(音楽グループ\) "wikilink")｢[Friday Party](../Page/Friday_Party.md "wikilink")｣や｢["Q"](../Page/"Q".md "wikilink")｣の作詞など、他のアーティストへの楽曲提供なども行っている。また、地元北海道のラジオ局[FM NORTH WAVEでは](../Page/エフエム・ノースウェーブ.md "wikilink")、開局以来パーソナリティを務めている（富樫明生名義）。
+ライブ活動と並行し、[DA PUMPのプロデュースや](../Page/DA_PUMP.md "wikilink")[AAAの初レコーディング曲](../Page/AAA_\(音楽グループ\).md "wikilink")｢[Friday Party](../Page/Friday_Party.md "wikilink")｣や｢["Q"](../Page/"Q".md "wikilink")｣の作詞など、他のアーティストへの楽曲提供なども行っている。また、地元北海道のラジオ局[FM NORTH WAVEでは](../Page/エフエム・ノースウェーブ.md "wikilink")、開局以来パーソナリティを務めている（富樫明生名義）。
 
 オフィシャルブログでは、自身が[仮面ライダーシリーズ](https://ja.wikipedia.org/wiki/仮面ライダーシリーズ "wikilink")のファンであることが分かる。幼馴染にNHKキャスターの[有江活子](../Page/有江活子.md "wikilink")がいる。
 
-[2017年](../Page/2017年.md "wikilink")、あるある議事堂SPに出演し、[DA PUMPのプロデュース時代に数億円稼いでいたと明らかにした](https://ja.wikipedia.org/wiki/DA_PUMP "wikilink")。また、その時に作ったスタジオで現在でも[Prizmmy☆](https://ja.wikipedia.org/wiki/Prizmmy☆ "wikilink")や[たこやきレインボー](https://ja.wikipedia.org/wiki/たこやきレインボー "wikilink")などに楽曲提供や[大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")とともにプロバスケットボールチーム「レバンガ北海道」の応援歌を制作したり、「2017 m.c.A・T祭 " 俺フェス "」などのイベントを開催するなどして活動している。
+[2017年](../Page/2017年.md "wikilink")、あるある議事堂SPに出演し、[DA PUMPのプロデュース時代に数億円稼いでいたと明らかにした](../Page/DA_PUMP.md "wikilink")。また、その時に作ったスタジオで現在でも[Prizmmy☆](https://ja.wikipedia.org/wiki/Prizmmy☆ "wikilink")や[たこやきレインボー](https://ja.wikipedia.org/wiki/たこやきレインボー "wikilink")などに楽曲提供や[大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")とともにプロバスケットボールチーム「レバンガ北海道」の応援歌を制作したり、「2017 m.c.A・T祭 " 俺フェス "」などのイベントを開催するなどして活動している。
 
 ## m.c.＋A・T
 
@@ -116,7 +116,7 @@ m.c.＋A・Tは様々なアーティストを迎え入れ、自身は「m.c.」=
 <li>Baby，Come around (Instrumental)</li>
 </ol></td>
 <td><p>オリコン最高21位<br />
-PVは<a href="https://ja.wikipedia.org/wiki/スパイク・リー" title="wikilink">スパイク・リー</a>監督。<br />
+PVは<a href="../Page/スパイク・リー.md" title="wikilink">スパイク・リー</a>監督。<br />
 スパイク・リー自身もPVに出演している。</p></td>
 </tr>
 <tr class="odd">
@@ -281,7 +281,7 @@ PVは<a href="https://ja.wikipedia.org/wiki/スパイク・リー" title="wikili
 <tr class="odd">
 <td><p>17th</p></td>
 <td><p>2003年11月12日</p></td>
-<td><p><strong>Bomb A Head! Returns! feat. <a href="https://ja.wikipedia.org/wiki/DA_PUMP" title="wikilink">DA PUMP</a></strong></p></td>
+<td><p><strong>Bomb A Head! Returns! feat. <a href="../Page/DA_PUMP.md" title="wikilink">DA PUMP</a></strong></p></td>
 <td><p>AVCD-30521</p></td>
 <td><ol>
 <li>Bomb A Head! Returns!</li>
@@ -535,13 +535,13 @@ AVCD-31206:通常盤</p></td>
 <td><p>AVCD-17408</p></td>
 <td><ol>
 <li>Returns! Intro</li>
-<li>Bomb A Head! Returns! (Album Version) feat. <a href="https://ja.wikipedia.org/wiki/DA_PUMP" title="wikilink">DA PUMP</a></li>
+<li>Bomb A Head! Returns! (Album Version) feat. <a href="../Page/DA_PUMP.md" title="wikilink">DA PUMP</a></li>
 <li>Shinin' My “Hard” Life feat. <a href="https://ja.wikipedia.org/wiki/LIV" title="wikilink">LIV</a></li>
 <li>Funky Gutsman's Spirit</li>
 <li>3 Steps - 2 Steps</li>
 <li>Thunder Party II feat. <a href="https://ja.wikipedia.org/wiki/大黒摩季" title="wikilink">大黒摩季</a></li>
 <li>Accha! Asia</li>
-<li>超 Super Happy feat. <a href="https://ja.wikipedia.org/wiki/Psycho_le_Cemu" title="wikilink">Psycho le Cemu</a></li>
+<li>超 Super Happy feat. <a href="../Page/Psycho_le_Cemu.md" title="wikilink">Psycho le Cemu</a></li>
 <li>｢A｣ ～La French mix～ feat. <a href="https://ja.wikipedia.org/wiki/浜崎あゆみ" title="wikilink">浜崎あゆみ</a></li>
 <li>We can't stop the music ver. A feat. DA PUMP</li>
 <li>Coffee Scotch Mermaid &amp; Me</li>
@@ -829,7 +829,7 @@ AVCD-23295:通常盤</p></td>
 <td><p>作詞：奥山美由希、m.c.A・T/作曲：富樫明生</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/小橋賢児" title="wikilink">小橋賢児</a></p></td>
+<td><p><a href="../Page/小橋賢児.md" title="wikilink">小橋賢児</a></p></td>
 <td><p>「B.B.B.(ビー・バッド・ボーイ)」</p></td>
 <td><p>作曲</p></td>
 </tr>
@@ -844,7 +844,7 @@ AVCD-23295:通常盤</p></td>
 <td><p>作詞</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/貴水博之" title="wikilink">貴水博之</a></p></td>
+<td><p><a href="../Page/貴水博之.md" title="wikilink">貴水博之</a></p></td>
 <td><p>「転がる街」</p></td>
 <td><p>作曲</p></td>
 </tr>
@@ -854,7 +854,7 @@ AVCD-23295:通常盤</p></td>
 <td><p>作曲</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/DA_PUMP" title="wikilink">DA PUMP</a></p></td>
+<td><p><a href="../Page/DA_PUMP.md" title="wikilink">DA PUMP</a></p></td>
 <td><p>「Strawberry Letter」「if...」「Nice Vibe!」「One and Only」「Com'on! Be My Girl!」「I wonder...」「We can't stop the music」「Joyful」<br />
 「Around The World」「Rhapsody in Blue」「ごきげんだぜっ！ ～Nothing But Something～」「Love Is The Final Liberty」「Feelin' Good -It's PARADAISE-」<br />
 「Stay Together」「Crazy Beat Goes On!」「Infinity ～moon ride～」「Love &amp; Friendship」「You don't have to worry，baby」「You Can Understand ～Share my world～」<br />
@@ -902,7 +902,7 @@ AVCD-23295:通常盤</p></td>
 <td><p>作詞：m.c.A・T/作曲：Akio Togashi</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/丹下桜" title="wikilink">丹下桜</a>＆<a href="https://ja.wikipedia.org/wiki/氷上恭子" title="wikilink">氷上恭子</a></p></td>
+<td><p><a href="../Page/丹下桜.md" title="wikilink">丹下桜</a>＆<a href="https://ja.wikipedia.org/wiki/氷上恭子" title="wikilink">氷上恭子</a></p></td>
 <td><p>「C.H.O.C.O.」</p></td>
 <td><p>作詞作曲</p></td>
 </tr>
@@ -917,7 +917,7 @@ AVCD-23295:通常盤</p></td>
 <td><p>作詞</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/AAA_(音楽グループ)" title="wikilink">AAA</a></p></td>
+<td><p><a href="../Page/AAA_(音楽グループ).md" title="wikilink">AAA</a></p></td>
 <td><p>「<a href="../Page/Friday_Party.md" title="wikilink">Friday Party</a>」</p></td>
 <td><p>作詞：m.c.A・T/作曲：Akio Togashi</p></td>
 </tr>
@@ -966,10 +966,10 @@ AVCD-23295:通常盤</p></td>
   - 芸能★BANG\! 番組テーマ曲：「芸能★BANG\!」(2011年10月17日 - )
   - ええじゃないか豊橋伝播隊　DOEE 曲：「ええじゃないか♡special」(2014年10月18日発表 )　作詞　作曲　編曲
   - Lightning Boogie with m.c.A・T/[浦田直也](../Page/浦田直也.md "wikilink")（アルバム『un BEST』収録）プロデュース \[9\]
-  - 真田幸村のテーマソング（「[戦国BASARA](https://ja.wikipedia.org/wiki/戦国BASARA "wikilink") 武将テーマボーカルコレクション」収録）※歌唱
+  - 真田幸村のテーマソング（「[戦国BASARA](../Page/戦国BASARA.md "wikilink") 武将テーマボーカルコレクション」収録）※歌唱
   - 前田慶次のテーマソング（「戦国BASARA 武将テーマボーカルコレクション」収録）※歌唱
   - Go\! Go\! Ghost\!（「仮面ライダーゴースト オリジナルTVサウンドトラック」収録）※歌唱
-  - [秋田音頭](https://ja.wikipedia.org/wiki/秋田音頭 "wikilink")-AKITA・ONDO-/[藤あや子](../Page/藤あや子.md "wikilink") feat. m.c.A・T（2019年1月1日） ※プロデュース、およびヴォーカル参加
+  - [秋田音頭](../Page/秋田音頭.md "wikilink")-AKITA・ONDO-/[藤あや子](../Page/藤あや子.md "wikilink") feat. m.c.A・T（2019年1月1日） ※プロデュース、およびヴォーカル参加
 
 ## タイアップ
 
@@ -987,7 +987,7 @@ AVCD-23295:通常盤</p></td>
 </tr>
 <tr class="even">
 <td><p>coffee scotch mermaid</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/TDK" title="wikilink">TDK</a> 『CDing』 CMソング</p></td>
+<td><p><a href="../Page/TDK.md" title="wikilink">TDK</a> 『CDing』 CMソング</p></td>
 </tr>
 <tr class="odd">
 <td><p>Funky Gutsman!</p></td>
@@ -995,7 +995,7 @@ AVCD-23295:通常盤</p></td>
 </tr>
 <tr class="even">
 <td><p>風に叫ぶ 〜Energy Guyのテーマ〜</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日清製粉" title="wikilink">日清製粉</a> 『'94 マ・マー・パスタ』 CMソング<br />
+<td><p><a href="../Page/日清製粉.md" title="wikilink">日清製粉</a> 『'94 マ・マー・パスタ』 CMソング<br />
 テレビ朝日系 『ノーメイク MAKE UP』 オープニング・テーマ<br />
 テレビ大阪『1994 <a href="https://ja.wikipedia.org/wiki/全日本F3000選手権" title="wikilink">全日本F3000選手権</a>』エンディング・テーマ</p></td>
 </tr>
@@ -1010,7 +1010,7 @@ AVCD-23295:通常盤</p></td>
 <tr class="odd">
 <td><p>Break Down 〜Let's Go! Rookie Boy〜</p></td>
 <td><p>テレビ朝日系 『<a href="../Page/OH!エルくらぶ.md" title="wikilink">OH!エルくらぶ</a>』 エンディング･テーマ<br />
-<a href="https://ja.wikipedia.org/wiki/パンクラス" title="wikilink">PANCRACE</a> イメージ・ソング</p></td>
+<a href="../Page/パンクラス.md" title="wikilink">PANCRACE</a> イメージ・ソング</p></td>
 </tr>
 <tr class="even">
 <td><p>Shinin' My Life</p></td>
@@ -1047,7 +1047,7 @@ AVCD-23295:通常盤</p></td>
 <tr class="even">
 <td><p>Uh～lalala</p></td>
 <td><p>日本テレビ系 『<a href="../Page/ぶっコギ!.md" title="wikilink">ぶっコギ!</a>』 エンディング・テーマ<br />
-日本テレビ系 『<a href="https://ja.wikipedia.org/wiki/ロンQ!ハイランド" title="wikilink">ロンQ!ハイランド</a>』 エンディング・テーマ</p></td>
+日本テレビ系 『<a href="../Page/ロンQ!ハイランド.md" title="wikilink">ロンQ!ハイランド</a>』 エンディング・テーマ</p></td>
 </tr>
 </tbody>
 </table>
@@ -1061,7 +1061,7 @@ AVCD-23295:通常盤</p></td>
 
 ### バラエティ
 
-  - [歌スタ\!\!](https://ja.wikipedia.org/wiki/歌スタ!! "wikilink") （[日テレ](../Page/日本テレビ放送網.md "wikilink")）※「富樫明生」として
+  - [歌スタ\!\!](../Page/歌スタ!!.md "wikilink") （[日テレ](../Page/日本テレビ放送網.md "wikilink")）※「富樫明生」として
   - [マネースクープ](https://ja.wikipedia.org/wiki/マネースクープ "wikilink") （[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、記者になり、マレーシアのジョホールバルで「海外移住」にかかるお金を現地調査。）
   - あるある議事堂SP スクープで人生を狂わせられてたまるか\!芸能人vs週刊誌の記者(2017年1月8日)
 

@@ -5,10 +5,10 @@
 
 ## メンバー
 
-  - [GONGON](https://ja.wikipedia.org/wiki/GONGON "wikilink")（本名：菅原勇太、[1977年](../Page/1977年.md "wikilink")（昭和52年）[8月21日](../Page/8月21日.md "wikilink") - ）
+  - [GONGON](../Page/GONGON.md "wikilink")（本名：菅原勇太、[1977年](../Page/1977年.md "wikilink")（昭和52年）[8月21日](../Page/8月21日.md "wikilink") - ）
     [ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")担当。現在は自身が主催する[GONGON Records](http://gongonrecords.com/)にてさまざまなユニットに所属し楽曲配信を行っている。
   - [TANAMAN](https://ja.wikipedia.org/wiki/TANAMAN "wikilink")（本名：田中和彦、[1979年](../Page/1979年.md "wikilink")（昭和54年）[11月21日](../Page/11月21日.md "wikilink") - ）
-    [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、[コーラス担当](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。
+    [ベース](../Page/ベース_\(弦楽器\).md "wikilink")、[コーラス担当](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。
   - [ARASE](https://ja.wikipedia.org/wiki/ARASE "wikilink")（本名：荒瀬卓也、[1979年](../Page/1979年.md "wikilink")（昭和54年）[12月29日](../Page/12月29日.md "wikilink") - ）
     [ドラム](../Page/ドラムセット.md "wikilink")、コーラス担当。
 
@@ -30,7 +30,7 @@ TANAMAN、ARASE、IMANISHIで、新バンド「ADIOS MOTHERFUCKER」を結成。
 
 **SOTA**、**TANAMAN**、**ARASE**の三人で「HAGUKI」を結成\[3\]するが、後にSOTAが脱退し、TANAMANが**GONGON**（当時は**YUTA**名義）をバンドに誘い、バンド名も"**HAGUKI-DASH**"に改名した\[4\]。この時期には[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")の情報番組『[saku saku morning call](https://ja.wikipedia.org/wiki/saku_saku_morning_call "wikilink")』のコーナーの1つ「saku saku バンド道場」に出演を果たしている\[5\]。また、音楽情報TV番組「[HANG-OUT](https://ja.wikipedia.org/wiki/HANG-OUT "wikilink")」のスタジオLIVEコーナー"SESSIONS"に出演し、多数の反響を得る\[6\]。1999年、バンド名を「**B-DASH**」に改名し、マキシシングル『**[ENDLESS CIRCLE](https://ja.wikipedia.org/wiki/ENDLESS_CIRCLE "wikilink")**』を発表した（インディーズ時代に発表したシングルはこの作品のみである。）。
 
-同年12月に初のミニ・アルバムである『**[FREEDOM](https://ja.wikipedia.org/wiki/FREEDOM_\(B-DASHのアルバム\) "wikilink")**』をリリースした。この作品からB-DASHの特徴の1つである意味不明な歌詞で綴られた楽曲が登場する。2001年にリリースされたファーストアルバム『**[○（マル）](https://ja.wikipedia.org/wiki/○_\(アルバム\) "wikilink")**』は、インディーズながら[オリコン初登場](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")4位をマークした。同時期にサポートギタリストとして参加していた**IMANISHI**が正式に加入した\[7\]。
+同年12月に初のミニ・アルバムである『**[FREEDOM](https://ja.wikipedia.org/wiki/FREEDOM_\(B-DASHのアルバム\) "wikilink")**』をリリースした。この作品からB-DASHの特徴の1つである意味不明な歌詞で綴られた楽曲が登場する。2001年にリリースされたファーストアルバム『**[○（マル）](https://ja.wikipedia.org/wiki/○_\(アルバム\) "wikilink")**』は、インディーズながら[オリコン初登場](../Page/オリコンチャート.md "wikilink")4位をマークした。同時期にサポートギタリストとして参加していた**IMANISHI**が正式に加入した\[7\]。
 
 ### メジャーデビュー〜結成10周年
 
@@ -38,7 +38,7 @@ TANAMAN、ARASE、IMANISHIで、新バンド「ADIOS MOTHERFUCKER」を結成。
 
 2003年8月13日、通算5枚目のシングルとなる予定だった『情熱たましい』が発売中止になった。この発売について、[TSUTAYA](https://ja.wikipedia.org/wiki/TSUTAYA "wikilink")のフリーペーパー「V.A.」に特集記事が載っていた（ジャケットも決定していた）。収録曲は、後述の3rdアルバムに収録された。同年10月22日に発売したシングル『**[目覚めよニッポン\!](https://ja.wikipedia.org/wiki/目覚めよニッポン! "wikilink")**』の3曲目には、[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")の[ナインティナイン](https://ja.wikipedia.org/wiki/ナインティナイン "wikilink")がパーソナリティを務めていた[ニッポン放送](../Page/ニッポン放送.md "wikilink")系の[深夜放送](../Page/深夜放送.md "wikilink")、「[ナインティナインのオールナイトニッポン](../Page/ナインティナインのオールナイトニッポン.md "wikilink")」（木曜深夜25:00-27:00）の[ジングル](https://ja.wikipedia.org/wiki/ジングル "wikilink")が収録されており、ナインティナインの二人の声が入っている。また、同ジングルは彼らの曲が番組内で使用されており、「オールナイトニッポン」のオリジナル曲である（※番組内では「情熱たましい」、「埴生の宿」などをベースに番組用にアレンジしたBGMも使用されている）。更には同番組のノベルティグッズ「**岡ニオ**」（岡村）、「**矢部ニオ**」（矢部）を作成した。
 
-2004年2月には3rdアルバム『**[ビッグ ブラック ストア (連絡しろ)](https://ja.wikipedia.org/wiki/ビッグ_ブラック_ストア_\(連絡しろ\) "wikilink")**』をリリースし、同年10月に初となるベストアルバム『**[B-DASH BEST](../Page/B-DASH_BEST.md "wikilink")**』を発表した。選曲はメンバーが行っている\[11\]。同年11月には6thシングル『**[ハーコー](https://ja.wikipedia.org/wiki/ハーコー "wikilink")**』をリリースした。表題曲である「ハーコー」は、[Vodafone 3GのTV](https://ja.wikipedia.org/wiki/SoftBank_3G "wikilink")-CM キャンペーン・ソングとして使われた。
+2004年2月には3rdアルバム『**[ビッグ ブラック ストア (連絡しろ)](https://ja.wikipedia.org/wiki/ビッグ_ブラック_ストア_\(連絡しろ\) "wikilink")**』をリリースし、同年10月に初となるベストアルバム『**[B-DASH BEST](../Page/B-DASH_BEST.md "wikilink")**』を発表した。選曲はメンバーが行っている\[11\]。同年11月には6thシングル『**[ハーコー](https://ja.wikipedia.org/wiki/ハーコー "wikilink")**』をリリースした。表題曲である「ハーコー」は、[Vodafone 3GのTV](../Page/SoftBank_3G.md "wikilink")-CM キャンペーン・ソングとして使われた。
 
 2005年8月には、プロデューサーとして[屋敷豪太](../Page/屋敷豪太.md "wikilink")を迎え入れ製作された4thアルバム『**[NEW HORIZON](https://ja.wikipedia.org/wiki/NEW_HORIZON_\(B-DASHのアルバム\) "wikilink")**』を発表した\[12\]。同アルバムの表題曲である「NEW HORIZON」は[いしわたり淳治](../Page/いしわたり淳治.md "wikilink")（ex.[SUPERCAR](../Page/SUPERCAR.md "wikilink")）が歌詞を手掛けている（いしわたりは後に7thシングル『**[Let's Collabo](https://ja.wikipedia.org/wiki/Let's_Collabo "wikilink")**』の収録曲「Oh my love」でも歌詞提供を行っている。）\[13\]。今作ではインスト曲を除き、全て日本語詞のみの楽曲で構成されている（ただし、日本語詞のみに絞った意図については特に拘りはないとGONGONは発言している）\[14\]。約1年後にリリースされた5thアルバム『**[パンパカパン](https://ja.wikipedia.org/wiki/パンパカパン "wikilink")**』では再び「適当めちゃくちゃ語アドリブ」で綴られた楽曲が収録された。同アルバムのリリースに伴うツアー「**バスツアー2006**」が行われる予定だったが、GONGONが[左自然肺気胸を発症し](../Page/気胸.md "wikilink")、延期となった\[15\]。
 
@@ -48,7 +48,7 @@ TANAMAN、ARASE、IMANISHIで、新バンド「ADIOS MOTHERFUCKER」を結成。
 
 2009年には[ハドソン・ミュージックエンタテインメント](https://ja.wikipedia.org/wiki/ハドソン・ミュージックエンタテインメント "wikilink")に移籍し、8thシングル『**[カマたまご](https://ja.wikipedia.org/wiki/カマたまご "wikilink")**』をリリースした。表題曲「カマたまご」は[高橋ヒロシ](../Page/高橋ヒロシ.md "wikilink")の漫画作品である『[クローズ](../Page/クローズ.md "wikilink")』、『[WORST](../Page/WORST_\(漫画\).md "wikilink")』へのトリビュート曲として作られた\[17\]。
 
-2010年3月に三度目となるベストアルバム『**オールタイムベスト**』を[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")からリリースした。このベストアルバムの選曲はメンバーだけでなく、彼らと親交のある人物も携わっており、選曲者として[奥田民生](../Page/奥田民生.md "wikilink")やマキシマムザ亮君（[マキシマム ザ ホルモン](https://ja.wikipedia.org/wiki/マキシマム_ザ_ホルモン "wikilink")）、[細美武士](../Page/細美武士.md "wikilink")といったミュージシャンの他に、[総合格闘家](https://ja.wikipedia.org/wiki/総合格闘家 "wikilink")の[川尻達也](../Page/川尻達也.md "wikilink")や[DJの](../Page/ディスクジョッキー.md "wikilink")[ピストン西沢](https://ja.wikipedia.org/wiki/ピストン西沢 "wikilink")、さらにマスコット・キャラクターの「トニオちゃん」や漫画『WORST』の登場人物:花木 九里虎が参加している\[18\]。また、同年6月には同じくポニーキャノンから、2ndアルバム『ぽ』、3rdアルバム『ビッグ ブラック ストア (連絡しろ)』の再発盤をリリースしている。
+2010年3月に三度目となるベストアルバム『**オールタイムベスト**』を[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")からリリースした。このベストアルバムの選曲はメンバーだけでなく、彼らと親交のある人物も携わっており、選曲者として[奥田民生](../Page/奥田民生.md "wikilink")やマキシマムザ亮君（[マキシマム ザ ホルモン](https://ja.wikipedia.org/wiki/マキシマム_ザ_ホルモン "wikilink")）、[細美武士](../Page/細美武士.md "wikilink")といったミュージシャンの他に、[総合格闘家](https://ja.wikipedia.org/wiki/総合格闘家 "wikilink")の[川尻達也](../Page/川尻達也.md "wikilink")や[DJの](../Page/ディスクジョッキー.md "wikilink")[ピストン西沢](../Page/ピストン西沢.md "wikilink")、さらにマスコット・キャラクターの「トニオちゃん」や漫画『WORST』の登場人物:花木 九里虎が参加している\[18\]。また、同年6月には同じくポニーキャノンから、2ndアルバム『ぽ』、3rdアルバム『ビッグ ブラック ストア (連絡しろ)』の再発盤をリリースしている。
 
 2013年5月にはSugahara Projectから6thアルバム『*' E' **』をリリースした。フル・アルバムかつ新作としてのリリースは7年ぶりである。2015年には[EXIT TUNESに移籍し](../Page/エグジットチューンズ.md "wikilink")、翌年2月17日に7thアルバム『**EXPLOSION*'』を発表した\[19\]。今作のジャケットのアートワークはU井T吾が出がけており、収録曲「GET POW」を[初音ミク](../Page/初音ミク.md "wikilink")に歌唱させるといった試みが行われた\[20\]。
 
@@ -677,7 +677,7 @@ XLCN-71010:通常盤</p></td>
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>東京少年 / <a href="https://ja.wikipedia.org/wiki/GOING_STEADY" title="wikilink">GOING STEADY</a></li>
+<li>東京少年 / <a href="../Page/GOING_STEADY.md" title="wikilink">GOING STEADY</a></li>
 <li>Puberty / <a href="../Page/SKA_SKA_CLUB.md" title="wikilink">SKA SKA CLUB</a></li>
 <li>ALL YEAR ROUND / <a href="https://ja.wikipedia.org/wiki/FULLSCRATCH" title="wikilink">FULLSCRATCH</a></li>
 <li>愛の花 / <a href="../Page/LINK_(バンド).md" title="wikilink">LINK</a></li>
@@ -685,16 +685,16 @@ XLCN-71010:通常盤</p></td>
 <li>はんぶんこ / <a href="../Page/Bivattchee.md" title="wikilink">Bivattchee</a></li>
 <li>がんばって / <a href="../Page/FOOT_STAMP.md" title="wikilink">FOOT STAMP</a></li>
 <li>All Time / <a href="https://ja.wikipedia.org/wiki/3.6_MILK" title="wikilink">3.6 MILK</a></li>
-<li>EVERY / <a href="https://ja.wikipedia.org/wiki/10-FEET" title="wikilink">10-FEET</a></li>
-<li>泥だらけの道 / <a href="https://ja.wikipedia.org/wiki/STANCE_PUNKS" title="wikilink">STANCE PUNKS</a></li>
+<li>EVERY / <a href="../Page/10-FEET.md" title="wikilink">10-FEET</a></li>
+<li>泥だらけの道 / <a href="../Page/STANCE_PUNKS.md" title="wikilink">STANCE PUNKS</a></li>
 <li><strong>愛するPOW / B-DASH</strong></li>
-<li>レコード / <a href="https://ja.wikipedia.org/wiki/HIGHWAY61" title="wikilink">HIGHWAY61</a></li>
-<li>手紙 / <a href="https://ja.wikipedia.org/wiki/LOST_IN_TIME" title="wikilink">LOST IN TIME</a></li>
+<li>レコード / <a href="../Page/HIGHWAY61.md" title="wikilink">HIGHWAY61</a></li>
+<li>手紙 / <a href="../Page/LOST_IN_TIME.md" title="wikilink">LOST IN TIME</a></li>
 <li>F.A.T / <a href="https://ja.wikipedia.org/wiki/bus_tribute" title="wikilink">bus tribute</a></li>
 <li>青空へ / <a href="../Page/SABOTEN.md" title="wikilink">SABOTEN</a></li>
-<li>FREAK ME OUT / <a href="https://ja.wikipedia.org/wiki/NICOTINE" title="wikilink">NICOTINE</a></li>
+<li>FREAK ME OUT / <a href="../Page/NICOTINE.md" title="wikilink">NICOTINE</a></li>
 <li>発揚の人 / <a href="../Page/BAZRA.md" title="wikilink">BAZRA</a></li>
-<li>贈り物 / <a href="https://ja.wikipedia.org/wiki/ジャパハリネット" title="wikilink">ジャパハリネット</a></li>
+<li>贈り物 / <a href="../Page/ジャパハリネット.md" title="wikilink">ジャパハリネット</a></li>
 <li>青春の日々 / <a href="https://ja.wikipedia.org/wiki/THE_PAN" title="wikilink">THE PAN</a></li>
 <li>EVERLASTING SUMMER PLACE / <a href="../Page/LONG_SHOT_PARTY.md" title="wikilink">LONG SHOT PARTY</a></li>
 <li>head-scissirs(single version) / <a href="../Page/SHAKALABBITS.md" title="wikilink">SHAKALABBITS</a></li>
@@ -702,7 +702,7 @@ XLCN-71010:通常盤</p></td>
 <li>握れっっ！！ / <a href="https://ja.wikipedia.org/wiki/マキシマム_ザ_ホルモン" title="wikilink">マキシマム ザ ホルモン</a></li>
 <li>SUPER DRUNKEN CHRISTMAS / <a href="https://ja.wikipedia.org/wiki/ROCKET_K" title="wikilink">ROCKET K</a></li>
 <li>ドーテー島 / <a href="../Page/オナニーマシーン.md" title="wikilink">オナニーマシーン</a></li>
-<li>セミのぬけがら / <a href="https://ja.wikipedia.org/wiki/藍坊主" title="wikilink">藍坊主</a></li>
+<li>セミのぬけがら / <a href="../Page/藍坊主.md" title="wikilink">藍坊主</a></li>
 <li>UNDER THE BLUE SKY / <a href="../Page/POTSHOT.md" title="wikilink">POTSHOT</a></li>
 <li>O.I.DE.YA.SU～ポイ to TRY / <a href="../Page/鴨川_(バンド).md" title="wikilink">鴨川</a></li>
 <li>片隅の唄 / <a href="../Page/THE_BOOGIE_JACK.md" title="wikilink">THE BOOGIE JACK</a></li>
@@ -779,17 +779,17 @@ XLCN-71010:通常盤</p></td>
 <ol>
 <li>デリケートにキスして / <a href="../Page/氣志團.md" title="wikilink">氣志團</a></li>
 <li>SO EXCITED！ / <a href="../Page/SHAKALABBITS.md" title="wikilink">SHAKALABBITS</a></li>
-<li>WILL / <a href="https://ja.wikipedia.org/wiki/SNAIL_RAMP" title="wikilink">SNAIL RAMP</a></li>
+<li>WILL / <a href="../Page/SNAIL_RAMP.md" title="wikilink">SNAIL RAMP</a></li>
 <li>イナズマ / <a href="https://ja.wikipedia.org/wiki/CUNE" title="wikilink">CUNE</a></li>
 <li>あしたのうた / <a href="../Page/DOMINO88.md" title="wikilink">DOMINO88</a></li>
-<li>IN-HIのテーマ / <a href="https://ja.wikipedia.org/wiki/IN-HI" title="wikilink">IN-HI</a></li>
+<li>IN-HIのテーマ / <a href="../Page/IN-HI.md" title="wikilink">IN-HI</a></li>
 <li>僕は君を永遠に / <a href="../Page/THE_STAND_UP.md" title="wikilink">THE STAND UP</a></li>
 <li>旅人よ笑え / <a href="https://ja.wikipedia.org/wiki/マグネットコーティング_(バンド)" title="wikilink">マグネットコーティング</a></li>
 <li>やのあさって / <a href="https://ja.wikipedia.org/wiki/フーバーオーバー" title="wikilink">フーバーオーバー</a></li>
 <li>XL MAN OSAKA / <a href="../Page/GELUGUGU.md" title="wikilink">THE GELUGUGU</a></li>
 <li>はんぶんこ / <a href="../Page/Bivattchee.md" title="wikilink">Bivattchee</a></li>
 <li>STIRRING UP / <a href="https://ja.wikipedia.org/wiki/DALLAX" title="wikilink">DALLAX</a></li>
-<li>少年激情 / <a href="https://ja.wikipedia.org/wiki/STANCE_PUNKS" title="wikilink">STANCE PUNKS</a></li>
+<li>少年激情 / <a href="../Page/STANCE_PUNKS.md" title="wikilink">STANCE PUNKS</a></li>
 </ol>
 <p># one night summer love / [[SQUEEZE</p></td>
 <td><p>|SQUEEZE</p></td>
@@ -814,7 +814,7 @@ XLCN-71010:通常盤</p></td>
 <li>Tequila / <a href="https://ja.wikipedia.org/wiki/コーガニズムオーケストラ" title="wikilink">コーガニズムオーケストラ</a></li>
 <li>クランチ / <a href="https://ja.wikipedia.org/wiki/bus_tribute" title="wikilink">bus tribute</a></li>
 <li>アオイソラ / <a href="https://ja.wikipedia.org/wiki/NAPSAX" title="wikilink">NAPSAX</a></li>
-<li>Kiss My Baby / <a href="https://ja.wikipedia.org/wiki/ムラマサ☆" title="wikilink">ムラマサ☆</a></li>
+<li>Kiss My Baby / <a href="../Page/ムラマサ☆.md" title="wikilink">ムラマサ☆</a></li>
 </ol>
 <p># ユメノセカイ / [[SQUEEZE</p></td>
 <td><p>|SQUEEZE</p></td>
@@ -830,11 +830,11 @@ XLCN-71010:通常盤</p></td>
 <div class="NavContent" style="text-align:left;">
 <ol>
 <li><strong>花鳥風月 / B-DASH</strong></li>
-<li>Don't Escape From Realit / <a href="https://ja.wikipedia.org/wiki/NICOTINE" title="wikilink">NICOTINE</a></li>
-<li>Over The Space / <a href="https://ja.wikipedia.org/wiki/ムラマサ☆" title="wikilink">ムラマサ☆</a></li>
-<li>アシタハレルヤ / <a href="https://ja.wikipedia.org/wiki/Yum!Yum!ORANGE" title="wikilink">Yum!Yum!ORANGE</a></li>
+<li>Don't Escape From Realit / <a href="../Page/NICOTINE.md" title="wikilink">NICOTINE</a></li>
+<li>Over The Space / <a href="../Page/ムラマサ☆.md" title="wikilink">ムラマサ☆</a></li>
+<li>アシタハレルヤ / <a href="../Page/Yum!Yum!ORANGE.md" title="wikilink">Yum!Yum!ORANGE</a></li>
 <li>生きてこそ / <a href="../Page/THE_BOOGIE_JACK.md" title="wikilink">THE BOOGIE JACK</a></li>
-<li>Sing A Well / <a href="https://ja.wikipedia.org/wiki/HIGHWAY61" title="wikilink">HIGHWAY61</a></li>
+<li>Sing A Well / <a href="../Page/HIGHWAY61.md" title="wikilink">HIGHWAY61</a></li>
 <li>Jucy-Go-Round / <a href="https://ja.wikipedia.org/wiki/midnightPumpkin" title="wikilink">midnightPumpkin</a></li>
 <li>弾丸ライナー / <a href="../Page/アカツキ..md" title="wikilink">アカツキ.</a></li>
 <li>Runnin' Bumpy Road / <a href="../Page/SA_(バンド).md" title="wikilink">SA</a></li>
@@ -878,18 +878,18 @@ XLCN-71010:通常盤</p></td>
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>All Apologies / <a href="https://ja.wikipedia.org/wiki/LUNKHEAD" title="wikilink">LUNKHEAD</a></li>
-<li>Very Ape / <a href="https://ja.wikipedia.org/wiki/MO&#39;SOME_TONEBENDER" title="wikilink">MO'SOME TONEBENDER</a></li>
+<li>All Apologies / <a href="../Page/LUNKHEAD.md" title="wikilink">LUNKHEAD</a></li>
+<li>Very Ape / <a href="../Page/MO&#39;SOME_TONEBENDER.md" title="wikilink">MO'SOME TONEBENDER</a></li>
 <li>Rape Me / <a href="https://ja.wikipedia.org/wiki/detroit7" title="wikilink">detroit7</a></li>
 <li>Scentless Apprentice / <a href="../Page/HiGE.md" title="wikilink">髭</a></li>
 <li>Pennyroyal Tea / <a href="../Page/Dr.StrangeLove.md" title="wikilink">Dr.StrangeLove</a></li>
 <li>Molly's Lips / <a href="../Page/蝉時雨_(ロックバンド).md" title="wikilink">蝉時雨</a></li>
 <li><strong>Smells Like Teen Spirit / B-DASH</strong></li>
-<li>Polly / <a href="https://ja.wikipedia.org/wiki/吉井和哉" title="wikilink">吉井和哉</a></li>
+<li>Polly / <a href="../Page/吉井和哉.md" title="wikilink">吉井和哉</a></li>
 <li>Territorial Pissings / <a href="../Page/KING_BROTHERS.md" title="wikilink">KING BROTHERS</a></li>
 <li>Lithium / <a href="https://ja.wikipedia.org/wiki/THE_SALINGER" title="wikilink">THE SALINGER</a></li>
-<li>Breed / <a href="https://ja.wikipedia.org/wiki/音速ライン" title="wikilink">音速ライン</a></li>
-<li>About A Girl / <a href="https://ja.wikipedia.org/wiki/ART-SCHOOL" title="wikilink">ART-SCHOOL</a></li>
+<li>Breed / <a href="../Page/音速ライン.md" title="wikilink">音速ライン</a></li>
+<li>About A Girl / <a href="../Page/ART-SCHOOL.md" title="wikilink">ART-SCHOOL</a></li>
 <li>Blew / <a href="https://ja.wikipedia.org/wiki/雅-MIYAVI-" title="wikilink">雅-MIYAVI-</a>
 </div>
 </div></li>
@@ -909,10 +909,10 @@ XLCN-71010:通常盤</p></td>
 <ol>
 <li><a href="https://ja.wikipedia.org/wiki/マシマロ_(奥田民生の曲)" title="wikilink">マシマロ</a> / <a href="https://ja.wikipedia.org/wiki/木村カエラ" title="wikilink">木村カエラ</a></li>
 <li><strong>ワインのばか / B-DASH</strong></li>
-<li>カヌー / <a href="https://ja.wikipedia.org/wiki/斉藤和義" title="wikilink">斉藤和義</a></li>
+<li>カヌー / <a href="../Page/斉藤和義.md" title="wikilink">斉藤和義</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/さすらい_(奥田民生の曲)" title="wikilink">さすらい</a> / <a href="https://ja.wikipedia.org/wiki/スピッツ_(バンド)" title="wikilink">スピッツ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/イージュー★ライダー" title="wikilink">イージュー★ライダー</a> / <a href="https://ja.wikipedia.org/wiki/GOING_UNDER_GROUND" title="wikilink">GOING UNDER GROUND</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/恋のかけら" title="wikilink">恋のかけら</a> / <a href="https://ja.wikipedia.org/wiki/サンボマスター" title="wikilink">サンボマスター</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/イージュー★ライダー" title="wikilink">イージュー★ライダー</a> / <a href="../Page/GOING_UNDER_GROUND.md" title="wikilink">GOING UNDER GROUND</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/恋のかけら" title="wikilink">恋のかけら</a> / <a href="../Page/サンボマスター.md" title="wikilink">サンボマスター</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/MOTHER/ネホリーナハホリーナ" title="wikilink">MOTHER</a> / <a href="../Page/The_ピーズ.md" title="wikilink">The ピーズ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/息子_(奥田民生の曲)" title="wikilink">息子</a> / <a href="../Page/チャットモンチー.md" title="wikilink">チャットモンチー</a></li>
 <li>野ばら / <a href="../Page/GLAY.md" title="wikilink">GLAY</a></li>
@@ -927,7 +927,7 @@ XLCN-71010:通常盤</p></td>
 <li>ルート 2 / <a href="../Page/SPARKS_GO_GO.md" title="wikilink">SPARKS GO GO</a></li>
 <li><a href="../Page/愛のために.md" title="wikilink">愛のために</a> / <a href="../Page/HALCALI.md" title="wikilink">HALCALI</a></li>
 <li>これは歌だ / <a href="../Page/THEATRE_BROOK.md" title="wikilink">THEATRE BROOK</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/サウンド・オブ・ミュージック_(奥田民生の曲)" title="wikilink">サウンド・オブ・ミュージック</a> / <a href="https://ja.wikipedia.org/wiki/DEPAPEPE" title="wikilink">DEPAPEPE</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/サウンド・オブ・ミュージック_(奥田民生の曲)" title="wikilink">サウンド・オブ・ミュージック</a> / <a href="../Page/DEPAPEPE.md" title="wikilink">DEPAPEPE</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/The_STANDARD" title="wikilink">The STANDARD</a> / <a href="../Page/井上陽水.md" title="wikilink">井上陽水</a>
 </div>
 </div></li>
@@ -968,7 +968,7 @@ XLCN-71010:通常盤</p></td>
 <li>俺 / <a href="../Page/スキップカウズ.md" title="wikilink">スキップカウズ</a></li>
 <li>RED / <a href="https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR" title="wikilink">HIGH and MIGHTY COLOR</a></li>
 <li>サヨナラを告げる歌 / <a href="https://ja.wikipedia.org/wiki/ジルバ_(バンド)" title="wikilink">ジルバ</a></li>
-<li>Bluebird is Dead / <a href="https://ja.wikipedia.org/wiki/MO&#39;SOME_TONEBENDER" title="wikilink">MO'SOME TONEBENDER</a></li>
+<li>Bluebird is Dead / <a href="../Page/MO&#39;SOME_TONEBENDER.md" title="wikilink">MO'SOME TONEBENDER</a></li>
 <li>Rock'n'Roll Graffiti / <a href="../Page/氣志團.md" title="wikilink">氣志團</a></li>
 <li>EVILA（Aの上に¨）LIVE / <a href="https://ja.wikipedia.org/wiki/上木彩矢" title="wikilink">上木彩矢</a></li>
 <li>人類 / <a href="https://ja.wikipedia.org/wiki/Droog" title="wikilink">Droog</a>
@@ -1015,22 +1015,22 @@ XLCN-71010:通常盤</p></td>
   - 2004年 - B-DASH TOUR 2004「ビッグ ブラック ストア（全員集合！！）」
   - 2005年 - B-DASH presents "SERVICE"
       -
-        w/[ELLEGARDEN](https://ja.wikipedia.org/wiki/ELLEGARDEN "wikilink")/[ガガガSP](https://ja.wikipedia.org/wiki/ガガガSP "wikilink")
+        w/[ELLEGARDEN](../Page/ELLEGARDEN.md "wikilink")/[ガガガSP](../Page/ガガガSP.md "wikilink")
   - 2005年 - B-DASH シュワルツアー 2005
       -
-        w/[10-FEET](https://ja.wikipedia.org/wiki/10-FEET "wikilink")/[モンゴル800](https://ja.wikipedia.org/wiki/モンゴル800 "wikilink")/ELLEGARDEN/ガガガSP/[SNAIL RAMP](https://ja.wikipedia.org/wiki/SNAIL_RAMP "wikilink")
+        w/[10-FEET](../Page/10-FEET.md "wikilink")/[モンゴル800](https://ja.wikipedia.org/wiki/モンゴル800 "wikilink")/ELLEGARDEN/ガガガSP/[SNAIL RAMP](../Page/SNAIL_RAMP.md "wikilink")
   - 2006年 - B-DASH presents "SERVICE 2〜パンパカパンレコ発〜"
       -
         w/[マキシマム ザ ホルモン](https://ja.wikipedia.org/wiki/マキシマム_ザ_ホルモン "wikilink")/[nobodyknows+](https://ja.wikipedia.org/wiki/nobodyknows+ "wikilink")
   - 2006年 - パンパカパン2006
   - 2007年 - 10th Anniversary "温泉バスツアー2007"♨
       -
-        w/Switch Front-Side 180/ELLEGARDEN/ガガガSP/モンゴル800/[PE'Z](https://ja.wikipedia.org/wiki/PE'Z "wikilink")/[ムラマサ☆](https://ja.wikipedia.org/wiki/ムラマサ☆ "wikilink")/[TRICERATOPS](https://ja.wikipedia.org/wiki/TRICERATOPS "wikilink")/[NOT REBOUND](https://ja.wikipedia.org/wiki/NOT_REBOUND "wikilink")
+        w/Switch Front-Side 180/ELLEGARDEN/ガガガSP/モンゴル800/[PE'Z](../Page/PE'Z.md "wikilink")/[ムラマサ☆](../Page/ムラマサ☆.md "wikilink")/[TRICERATOPS](../Page/TRICERATOPS.md "wikilink")/[NOT REBOUND](https://ja.wikipedia.org/wiki/NOT_REBOUND "wikilink")
   - 2007年 - 10th Anniversary "温泉バスツアー2007+α" ～ミニ5レコ発～
   - 2008年 - 東名阪ワンマンツアー「B-DASH単独公演『3連発ツアー2008』」
   - 2009年 - B-DASH presents "SERVICE 3～CROWS×WORST～"
       -
-        w/[10-FEET](https://ja.wikipedia.org/wiki/10-FEET "wikilink")/[Scott Murphy](https://ja.wikipedia.org/wiki/スコット・マーフィー "wikilink")
+        w/[10-FEET](../Page/10-FEET.md "wikilink")/[Scott Murphy](https://ja.wikipedia.org/wiki/スコット・マーフィー "wikilink")
   - 2010年 - B-DASH presents "SERVICE 4〜ALL TIME BEST〜"
       -
         w/[SHAKA LABBITS](https://ja.wikipedia.org/wiki/SHAKA_LABBITS "wikilink")/[Base Ball Bear](../Page/Base_Ball_Bear.md "wikilink")
@@ -1038,7 +1038,7 @@ XLCN-71010:通常盤</p></td>
   - 2011年02月28日 - B-DASHの8時だよ\! 全員カケコミシェルター vol.2
   - 2011年07月28日 - B-DASH presents "SERVICE 5"
       -
-        w/モンゴル800/[サンボマスター](https://ja.wikipedia.org/wiki/サンボマスター "wikilink")
+        w/モンゴル800/[サンボマスター](../Page/サンボマスター.md "wikilink")
   - 2011年09月02日 - B-DASH presents "FRIDAY NIGHT FEVER"
       -
         w/T.C.L/[LINK](../Page/LINK_\(バンド\).md "wikilink")/MEANING/ASSHOLE UNITE/DJ：雄大
@@ -1105,14 +1105,14 @@ XLCN-71010:通常盤</p></td>
   - 2008年12月31日 - COUNTDOWN JAPAN 08/09
   - 2009年01月19日 - WESTSIDE Express
   - 2009年01月20日 - 新春スペシャル
-  - 2009年02月11日 - [DIENOJI](https://ja.wikipedia.org/wiki/ダイノジ "wikilink") ROCK FESTIVAL DRF4 "for music,for Rock'n Roll,for smile,and for YOU"
+  - 2009年02月11日 - [DIENOJI](../Page/ダイノジ.md "wikilink") ROCK FESTIVAL DRF4 "for music,for Rock'n Roll,for smile,and for YOU"
   - 2009年02月21日 - LAFSTYLE vol.7
   - 2009年03月20日・22日・24日・26日 - [Base Ball Bear](../Page/Base_Ball_Bear.md "wikilink") LIVE MATHEMATICS TOUR09
   - 2009年04月12日 - LionFESTA vol.22
-  - 2009年04月16日 - [10-FEET](https://ja.wikipedia.org/wiki/10-FEET "wikilink") 1sec. TOUR 2009
+  - 2009年04月16日 - [10-FEET](../Page/10-FEET.md "wikilink") 1sec. TOUR 2009
   - 2009年04月29日 - GOING KOBE 09
   - 2009年04月30日 - GOING KOBE 09 後夜祭
-  - 2009年05月22日 - [RIZE](https://ja.wikipedia.org/wiki/RIZE "wikilink") × B-DASH
+  - 2009年05月22日 - [RIZE](../Page/RIZE.md "wikilink") × B-DASH
   - 2009年07月19日 - KESEN ROCK FESTIVAL'09
   - 2009年08月02日 - ROCK IN JAPAN FESTIVAL 2009
   - 2009年08月06日 - TREASURE05X 2009 ～imagination from nothing 1st day～
@@ -1137,10 +1137,10 @@ XLCN-71010:通常盤</p></td>
   - 2010年11月27日 - [Jackson vibe](../Page/Jackson_vibe.md "wikilink") presents 『VIBE其の九』
   - 2010年11月28日・12月03日・12月11日 - GLORY HILL 「Break the deadRock VOL.1」
   - 2010年12月31日 - COUNTDOWN JAPAN 10/11
-  - 2011年04月09日 - [SNAIL RAMP](https://ja.wikipedia.org/wiki/SNAIL_RAMP "wikilink") presents "SCRAMBLE\!\!\!" VOL.11
+  - 2011年04月09日 - [SNAIL RAMP](../Page/SNAIL_RAMP.md "wikilink") presents "SCRAMBLE\!\!\!" VOL.11
   - 2011年05月04日 - [JAPAN JAM](https://ja.wikipedia.org/wiki/JAPAN_JAM "wikilink") 2011(ゲスト:白井幹夫, ROCK DOGG)
   - 2011年05月07日 - ロックの学園WEST ～お好み\! 串カツ\!\! ロックンロール\!\!\!～「チャリティライブ～PLAY FOR JAPAN～」
-  - 2011年05月17日・26日 - [ガガガSP](https://ja.wikipedia.org/wiki/ガガガSP "wikilink") ツアー2011　デビュー10周年 それがどーした！
+  - 2011年05月17日・26日 - [ガガガSP](../Page/ガガガSP.md "wikilink") ツアー2011　デビュー10周年 それがどーした！
   - 2011年05月29日 - ミライライト presents FANTASTIC LIGHTS vol.1
   - 2011年06月11日 - G-YUN LIVE TOUR Get The Message
   - 2011年06月24日 - Northern19 ～HEART ACHING ROBOTS ARE UNITED TOUR～
@@ -1164,7 +1164,7 @@ XLCN-71010:通常盤</p></td>
   - 2012年07月03日 - knotlamp Across my world TOUR 2012
   - 2012年10月07日 - CAFFEINE BOMB TOUR 2012
   - 2012年11月06日 - 10-FEET "thread" TOUR 2012-2013
-  - 2012年11月18日 - [崇城大学](https://ja.wikipedia.org/wiki/崇城大学 "wikilink")「第44回井芹祭」
+  - 2012年11月18日 - [崇城大学](../Page/崇城大学.md "wikilink")「第44回井芹祭」
   - 2012年11月29日 -ドギマズン〜謝肉祭〜vol.1
   - 2012年12月24日 - RONDONRATS。 presents NEW STANDARD vol.★merry merry X'mas in TOKYO Xmas仮装でおいでやす♪
   - 2012年12月29日 - COUNTDOWN JAPAN 12/13
@@ -1175,7 +1175,7 @@ XLCN-71010:通常盤</p></td>
   - 2013年07月07日 - KITAZAWA TYHOON 2013
   - 2013年07月13日 - サイトウヒロシ50周年イノチガケ的大感謝祭
   - 2013年07月20日 - [FREEDOM NAGOYA](https://ja.wikipedia.org/wiki/FREEDOM_NAGOYA "wikilink") 2013
-  - 2013年08月11日 - 15th Anniversary [STANCE PUNKS](https://ja.wikipedia.org/wiki/STANCE_PUNKS "wikilink") MANIA TOUR
+  - 2013年08月11日 - 15th Anniversary [STANCE PUNKS](../Page/STANCE_PUNKS.md "wikilink") MANIA TOUR
   - 2013年08月17日 - SUMMER FEVER
   - 2013年09月08日 - FUNNY control
   - 2013年09月20日 - B-DASH ロングセットライブ \!\!
@@ -1241,7 +1241,7 @@ XLCN-71010:通常盤</p></td>
 
 （[ナインティナインのオールナイトニッポン](../Page/ナインティナインのオールナイトニッポン.md "wikilink")（木曜25:00-27:00））
 
-  - [オールナイトニッポンレコード](https://ja.wikipedia.org/wiki/オールナイトニッポンレコード "wikilink")
+  - [オールナイトニッポンレコード](../Page/オールナイトニッポンレコード.md "wikilink")
   - [B-DASHのオールナイトニッポン](https://ja.wikipedia.org/wiki/B-DASHのオールナイトニッポン "wikilink")
 
 ## 脚注

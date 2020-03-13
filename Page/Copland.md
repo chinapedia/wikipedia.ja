@@ -9,7 +9,7 @@
 
 Blueチームは1991年の5月13日に[System 7を発表したが](https://ja.wikipedia.org/wiki/Classic_Mac_OS#System_7 "wikilink")、一方のPinkチームは仕様が巨大化してしまい収拾がつかなくなる、所謂[セカンドシステム症候群によって遅々として開発が進まずにいた](https://ja.wikipedia.org/wiki/人月の神話#セカンドシステム症候群（第五章） "wikilink")。同年10月2日に[IBM](../Page/IBM.md "wikilink")とアップルの連携が発表され、その契約の1つとして合弁会社「[タリジェント](https://ja.wikipedia.org/wiki/タリジェント "wikilink")」を設立し、Pinkを元にオブジェクト指向型の次世代OSの開発を行うこととなった。この連携はハードウェア的には成功し、RISC型CPUの[PowerPC](../Page/PowerPC.md "wikilink")の開発が行われ新しいMacintoshに搭載された。しかし、ソフトウェア的には失敗し、OSの開発は停滞した。事実上IBMが主導して開発することとなり、アップルの手を離れたタリジェントOSはフレームワークCommonPointと姿を変えていった。1995年12月には提携の解消に至った。
 
-その間にもSystem 7は既に基本設計が古く様々な部分で限界が見えていた（[Classic Mac OSの初版リリースは](../Page/Classic_Mac_OS.md "wikilink")1984年）。問題点として指摘されていたのは、「メモリ保護の欠如」「[プリエンプティブなマルチタスク機構の欠如](https://ja.wikipedia.org/wiki/プリエンプティブマルチタスク "wikilink")」、「[サードパーティー](https://ja.wikipedia.org/wiki/サードパーティー "wikilink")の基幹部分への機能拡張によるシステムの不安定化」、などが挙げられていた。これらの理由からシステムは非常に不安定なものとなり、クラッシュが頻発することとなった。さらに、PowerPC搭載モデルの[Power Macintosh登場以降もOSコアの部分に残る](../Page/Power_Macintosh.md "wikilink")[68000時代のコードによる制約があり](../Page/MC68000.md "wikilink")、PowerPCのスペックを十分に生かし切れないどころか、それが原因となったクラッシュも多発した。
+その間にもSystem 7は既に基本設計が古く様々な部分で限界が見えていた（[Classic Mac OSの初版リリースは](../Page/Classic_Mac_OS.md "wikilink")1984年）。問題点として指摘されていたのは、「メモリ保護の欠如」「[プリエンプティブなマルチタスク機構の欠如](https://ja.wikipedia.org/wiki/プリエンプティブマルチタスク "wikilink")」、「[サードパーティー](../Page/サードパーティー.md "wikilink")の基幹部分への機能拡張によるシステムの不安定化」、などが挙げられていた。これらの理由からシステムは非常に不安定なものとなり、クラッシュが頻発することとなった。さらに、PowerPC搭載モデルの[Power Macintosh登場以降もOSコアの部分に残る](../Page/Power_Macintosh.md "wikilink")[68000時代のコードによる制約があり](../Page/MC68000.md "wikilink")、PowerPCのスペックを十分に生かし切れないどころか、それが原因となったクラッシュも多発した。
 
 旧来のMac OSの技術が陳腐化し、さらに次世代OSの開発が停滞する間にも、アップルの創業者である[スティーブ・ジョブズ](../Page/スティーブ・ジョブズ.md "wikilink")率いる[NeXT](../Page/NeXT.md "wikilink")によって開発された[NeXTSTEP](https://ja.wikipedia.org/wiki/NeXTSTEP "wikilink")、 [マイクロソフト](../Page/マイクロソフト.md "wikilink")の[Windows NT](../Page/Microsoft_Windows_NT.md "wikilink")、[サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")の[Solaris](../Page/Solaris.md "wikilink")など、メモリ保護機構やプリエンプティブマルチタスクを備えた堅牢な次世代OSが市場を席巻しはじめていた。
 
@@ -25,9 +25,9 @@ Blueチームは1991年の5月13日に[System 7を発表したが](https://ja.wi
   - 新しいルックアンドフィール
   - 旧Systemとの完全な上位互換性
 
-など、様々な新要素が約束されていた。アピアランスマネージャを搭載し、テーマファイルを切り替えるだけで外観を大胆に変えることができる機能も発表されていた。この他に[Newtonテクノロジーの融合や](https://ja.wikipedia.org/wiki/アップル・ニュートン "wikilink")[OpenDoc](https://ja.wikipedia.org/wiki/OpenDoc "wikilink")によるドキュメント環境の改革などが挙げられていた。
+など、様々な新要素が約束されていた。アピアランスマネージャを搭載し、テーマファイルを切り替えるだけで外観を大胆に変えることができる機能も発表されていた。この他に[Newtonテクノロジーの融合や](../Page/アップル・ニュートン.md "wikilink")[OpenDoc](../Page/OpenDoc.md "wikilink")によるドキュメント環境の改革などが挙げられていた。
 
-なお[CHRP](https://ja.wikipedia.org/wiki/CHRP "wikilink")（Common Hardware Reference Platform; [AIX](https://ja.wikipedia.org/wiki/AIX "wikilink"), Windows NT, [Mac OSなどの複数OSを実行可能な](https://ja.wikipedia.org/wiki/Mac_OS "wikilink")[PowerPC](../Page/PowerPC.md "wikilink")ハードウェアの構想）は本来Coplandを意識して開発されたものである。
+なお[CHRP](https://ja.wikipedia.org/wiki/CHRP "wikilink")（Common Hardware Reference Platform; [AIX](../Page/AIX.md "wikilink"), Windows NT, [Mac OSなどの複数OSを実行可能な](https://ja.wikipedia.org/wiki/Mac_OS "wikilink")[PowerPC](../Page/PowerPC.md "wikilink")ハードウェアの構想）は本来Coplandを意識して開発されたものである。
 
 ## 歴史
 
@@ -56,7 +56,7 @@ Pinkプロジェクトから遡れば1990年代の初頭からすでに開始さ
   - 技術マネージャー側も計画を精査することなく、次々と新機能の開発にゴーサインをだしてしまい、リソースが発散してしまった
   - 既にメモリ保護や[プリエンプティブを搭載したWindows](https://ja.wikipedia.org/wiki/プリエンプティブマルチタスク "wikilink") NTがリリースされていた市場からの圧力
   - Coplandとは別に[Taligent](../Page/Taligent.md "wikilink")プロジェクトという別OSの開発計画を併行させた
-  - [Newtonや](https://ja.wikipedia.org/wiki/アップル・ニュートン "wikilink")[General Magicなど](https://ja.wikipedia.org/wiki/General_Magic "wikilink")、別OS/デバイスの開発計画を併行させ、Macの主要開発者が離散したこと
+  - [Newtonや](../Page/アップル・ニュートン.md "wikilink")[General Magicなど](https://ja.wikipedia.org/wiki/General_Magic "wikilink")、別OS/デバイスの開発計画を併行させ、Macの主要開発者が離散したこと
 
 最初にアナウンスされたのは1995年の3月で、同年5月の[WWDC](https://ja.wikipedia.org/wiki/WWDC "wikilink")では1995年中には開発版の配布が始まり、1996年の初旬には正式版がリリースされると発表された。さらにその翌年の1997年には時期大型メジャーアップデート[Gershwin](https://ja.wikipedia.org/wiki/Gershwin "wikilink")が登場すると発表されている。しかし年内に開発版の配布は行われることはなかった。
 

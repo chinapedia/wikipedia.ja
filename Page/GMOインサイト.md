@@ -1,17 +1,17 @@
 > この記事は[GMO](https://ja.wikipedia.org/wiki/GMO)から翻訳されています。
 
 
-**GMOインサイト株式会社**（ジーエムオーインサイト、GMO insight Inc.）は、JWord（日本語キーワード）事業やテクノロジーライセンス事業を行う[GMOインターネット](https://ja.wikipedia.org/wiki/GMOインターネット "wikilink")グループの企業である。
+**GMOインサイト株式会社**（ジーエムオーインサイト、GMO insight Inc.）は、JWord（日本語キーワード）事業やテクノロジーライセンス事業を行う[GMOインターネット](../Page/GMOインターネット.md "wikilink")グループの企業である。
 
 ## 沿革
 
   - [2000年](../Page/2000年.md "wikilink")[8月16日](../Page/8月16日.md "wikilink") インターパイロン、Inter China Network Software（当時）、[伊藤忠商事](https://ja.wikipedia.org/wiki/伊藤忠商事 "wikilink")の出資によって**株式会社アクセスポート**を設立。
   - 2000年[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") インターネットを利用した名刺サービス「Let's Card」を開始。
   - [2002年](../Page/2002年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink") エキサイトと提携し、JWordを開始。
-  - [2004年](../Page/2004年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink") グローバルメディアオンライン（現・[GMOインターネット](https://ja.wikipedia.org/wiki/GMOインターネット "wikilink")）が、アクセスポートの親会社である株式会社3721ソフトの株式を40%取得。
+  - [2004年](../Page/2004年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink") グローバルメディアオンライン（現・[GMOインターネット](../Page/GMOインターネット.md "wikilink")）が、アクセスポートの親会社である株式会社3721ソフトの株式を40%取得。
   - 2004年[12月5日](../Page/12月5日.md "wikilink") グローバルメディアオンラインが、3721ソフトを株式交換により完全子会社化。アクセスポートはグローバルメディアオンラインの子会社となる。
   - 2004年[12月21日](../Page/12月21日.md "wikilink") ヤフーが、アクセスポートの株式を33.4%取得、業務提携。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月1日](../Page/4月1日.md "wikilink") 商号を**JWord株式会社**に変更。
+  - [2005年](../Page/2005年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink") 商号を**JWord株式会社**に変更。
   - 2005年[5月31日](../Page/5月31日.md "wikilink") Let's Cardを終了。
   - [2013年](../Page/2013年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink") 親会社のGMOインターネットが全保有株式を[GMOアドパートナーズ](https://ja.wikipedia.org/wiki/GMOアドパートナーズ "wikilink")に譲渡。
   - [2016年](../Page/2016年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") 商号を**GMOインサイト株式会社**に変更\[1\]。
@@ -34,7 +34,7 @@ JWordプラグインのバージョン1は[CnsMin](../Page/CnsMin.md "wikilink")
 
 ### 関連サービス (9199.jp)
 
-[GMOインターネット](https://ja.wikipedia.org/wiki/GMOインターネット "wikilink")が運営する「9199.jp」（クイックジェーピー）という、プラグインをインストールして使用できる同時検索サービスは、外見こそ異なるがプラグイン自体はJWordその物である\[9\]。両者とも機能は同じであるがコンセプトに違いがあり、JWordはダイレクトアクセスを中心として提供するために作られ、一方の9199.jpは同時検索サービスを中心として提供するために2004年9月19日に開設された。
+[GMOインターネット](../Page/GMOインターネット.md "wikilink")が運営する「9199.jp」（クイックジェーピー）という、プラグインをインストールして使用できる同時検索サービスは、外見こそ異なるがプラグイン自体はJWordその物である\[9\]。両者とも機能は同じであるがコンセプトに違いがあり、JWordはダイレクトアクセスを中心として提供するために作られ、一方の9199.jpは同時検索サービスを中心として提供するために2004年9月19日に開設された。
 
 ### 関連サービス (Jとーく)
 
@@ -59,4 +59,4 @@ JWordプラグインのバージョン1は[CnsMin](../Page/CnsMin.md "wikilink")
 6.  '[待望のSleipnir2にJWordサーチ機能を搭載！ ～人気のタブブラウザ Sleipnir が次期バージョン Sleipnir2 のアルファ版 をリリース～](http://www.jword.jp/info/info_newsrelease.20050630.htm)' JWord, 2005年6月30日
 7.  '[技術情報：CnsMinについて](http://www.jword.jp/help/help_faq_install_cnsmin.htm)' JWord, 2013年6月16日閲覧
 8.  '[JWord プラグインをご利用のお客さまへ](http://canon-its.jp/supp/sb/wsbt4202.html)' [キヤノンITソリューションズ](../Page/キヤノンITソリューションズ.md "wikilink"), 2013年6月16日閲覧
-9.  '[GMO、JWordをベースにした検索サービス「9199.jp」開始](http://internet.watch.impress.co.jp/cda/news/2004/09/16/4671.html)' [Impress Watch](https://ja.wikipedia.org/wiki/Impress_Watch "wikilink"), 2004年9月16日
+9.  '[GMO、JWordをベースにした検索サービス「9199.jp」開始](http://internet.watch.impress.co.jp/cda/news/2004/09/16/4671.html)' [Impress Watch](../Page/Impress_Watch.md "wikilink"), 2004年9月16日

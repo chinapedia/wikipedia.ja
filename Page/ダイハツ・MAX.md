@@ -5,7 +5,7 @@
 
 ## 概要
 
-[2001年](../Page/2001年.md "wikilink")に[軽トールワゴン](https://ja.wikipedia.org/wiki/軽トールワゴン "wikilink")（[ムーヴ](../Page/ダイハツ・ムーヴ.md "wikilink")）と[ハッチバック](../Page/ハッチバック.md "wikilink")（[ミラ](https://ja.wikipedia.org/wiki/ダイハツ・ミラ "wikilink")）の間を埋める車種として、全高を抑え、[機械式駐車場に対応のパッケージングとした](https://ja.wikipedia.org/wiki/駐車場#形態による分類 "wikilink")[セミトールワゴンとして登場した](https://ja.wikipedia.org/wiki/軽セミトールワゴン "wikilink")。主要コンポーネンツは2代目ムーヴとほぼ共通である。
+[2001年](../Page/2001年.md "wikilink")に[軽トールワゴン](https://ja.wikipedia.org/wiki/軽トールワゴン "wikilink")（[ムーヴ](../Page/ダイハツ・ムーヴ.md "wikilink")）と[ハッチバック](../Page/ハッチバック.md "wikilink")（[ミラ](../Page/ダイハツ・ミラ.md "wikilink")）の間を埋める車種として、全高を抑え、[機械式駐車場に対応のパッケージングとした](https://ja.wikipedia.org/wiki/駐車場#形態による分類 "wikilink")[セミトールワゴンとして登場した](https://ja.wikipedia.org/wiki/軽セミトールワゴン "wikilink")。主要コンポーネンツは2代目ムーヴとほぼ共通である。
 
 軽自動車規格変更後から3年を経過し、新しい車種として高級、スポーティ路線を打ち出しており、サイバー4WDシステムや4気筒ターボエンジン\[1\]による高い運動性能、動きのあるダイナミックなデザインが特徴。[AT車にはインパネ中央設置のゲート式セレクターが採用された](../Page/オートマチックトランスミッション.md "wikilink")\[2\]。上級かつスポーティー路線で、パーソナルユースの若者がメインターゲットであった\[3\]。
 
@@ -21,13 +21,13 @@
 
 ## デザイン
 
-初期のデザイン案は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")人デザイナーが「草原を駈ける動物」をイメージして描いたものであった。全体的なフォルムはウエッジの効いたショートノーズ・ロングキャビンである。フロントガラスは2代目ムーヴより100mm前進しているが、Aピラーはムーヴよりも傾斜している。Cピラーは骨太感を強調した逆台形。フロントマスクには特徴的な縦長の[ヘッドライトと楕円形の](https://ja.wikipedia.org/wiki/前照灯 "wikilink")[フォグライト](https://ja.wikipedia.org/wiki/フォグライト "wikilink")\[4\]を採用。[テールライト](https://ja.wikipedia.org/wiki/テールライト "wikilink")は横長。しばしばテールライトの形状が[アルファロメオ](../Page/アルファロメオ.md "wikilink")の模倣であると指摘されるが、デザイナー側はそれを否定している。
+初期のデザイン案は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")人デザイナーが「草原を駈ける動物」をイメージして描いたものであった。全体的なフォルムはウエッジの効いたショートノーズ・ロングキャビンである。フロントガラスは2代目ムーヴより100mm前進しているが、Aピラーはムーヴよりも傾斜している。Cピラーは骨太感を強調した逆台形。フロントマスクには特徴的な縦長の[ヘッドライトと楕円形の](../Page/前照灯.md "wikilink")[フォグライト](https://ja.wikipedia.org/wiki/フォグライト "wikilink")\[4\]を採用。[テールライト](https://ja.wikipedia.org/wiki/テールライト "wikilink")は横長。しばしばテールライトの形状が[アルファロメオ](../Page/アルファロメオ.md "wikilink")の模倣であると指摘されるが、デザイナー側はそれを否定している。
 
 ## 販売
 
 登場時の月販目標は6,000台。
 
-販売面においては成功したとはいえず、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")12月に、1代限りで販売を終了した。[ミラとムーヴに挟まれた中途半端な位置づけや知名度の低さ](https://ja.wikipedia.org/wiki/ダイハツ・ミラ "wikilink")、同時期に登場した[スズキ・MRワゴン](../Page/スズキ・MRワゴン.md "wikilink")、[三菱・eK](../Page/三菱・eK.md "wikilink")より割高な値段設定となってしまい弱点となり、当初MAXと同じく割高であった[ホンダ・ザッツ](../Page/ホンダ・ザッツ.md "wikilink")の大幅値下げにも押されていた。ただしこのクラスではekの後期モデル以外存在しなかったMTがMAXには搭載されていたため下位グレード同士で比較すれば安価ではあった。
+販売面においては成功したとはいえず、[2005年](../Page/2005年.md "wikilink")12月に、1代限りで販売を終了した。[ミラとムーヴに挟まれた中途半端な位置づけや知名度の低さ](../Page/ダイハツ・ミラ.md "wikilink")、同時期に登場した[スズキ・MRワゴン](../Page/スズキ・MRワゴン.md "wikilink")、[三菱・eK](../Page/三菱・eK.md "wikilink")より割高な値段設定となってしまい弱点となり、当初MAXと同じく割高であった[ホンダ・ザッツ](../Page/ホンダ・ザッツ.md "wikilink")の大幅値下げにも押されていた。ただしこのクラスではekの後期モデル以外存在しなかったMTがMAXには搭載されていたため下位グレード同士で比較すれば安価ではあった。
 
 ## 歴史
 
@@ -41,7 +41,7 @@
       - [8月26日](../Page/8月26日.md "wikilink") - マイナーチェンジ。外観をリファインし、「RS」はさらにディスチャージヘッドランプを標準装備。メーターをホワイトに変更したほか、明るめの内装色に変更した。グレード体系もベーシックグレード「L」、上級グレード「Li」、EF-DET型ターボエンジン搭載スポーツグレード「Ri」、JB-DET型ターボエンジン搭載最上級スポーツグレード「RS」の4グレードに整理され、CVT車を廃止、5MT車も「L」のみに縮小された。
   - [2004年](../Page/2004年.md "wikilink")4月 - 仕様変更。車両本体価格を[消費税](../Page/消費税.md "wikilink")込の価格に改訂。
       - 6月 - 仕様変更。「L」と「Li」の2WD車が「平成17年基準排出ガス50%低減レベル（☆☆☆）」認定を取得。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月](../Page/11月.md "wikilink")\[5\] ｰ 生産終了。以降は在庫対応分のみの販売となる。
+  - [2005年](../Page/2005年.md "wikilink")[11月](../Page/11月.md "wikilink")\[5\] ｰ 生産終了。以降は在庫対応分のみの販売となる。
       - [12月](https://ja.wikipedia.org/wiki/12月 "wikilink") - 在庫対応分が完売し販売終了。
 
 ファイル:2001 Daihatus MAX 01.jpg|前期型（2001年11月 - 2003年8月） ファイル:Daihatsu-max 1st zenki-front.jpg|前期型RS
@@ -53,7 +53,7 @@
 ## 車名の由来
 
   - 新しさ、楽しさを最大限(MAX)つめこんだクルマ
-  - [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")から[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")まで製造されていた[フェローMAX/MAXクオーレの車名復活](https://ja.wikipedia.org/wiki/ダイハツ・フェロー "wikilink")
+  - [1970年](../Page/1970年.md "wikilink")から[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")まで製造されていた[フェローMAX/MAXクオーレの車名復活](../Page/ダイハツ・フェロー.md "wikilink")
 
 香港向けは「VMAX」の車名であった
 
@@ -64,10 +64,10 @@
 ## 関連項目
 
   - [ダイハツ工業](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")
-  - [ダイハツ・フェロー](https://ja.wikipedia.org/wiki/ダイハツ・フェロー "wikilink")MAX/MAXクオーレ
+  - [ダイハツ・フェロー](../Page/ダイハツ・フェロー.md "wikilink")MAX/MAXクオーレ
   - [ダイハツ・ムーヴ](../Page/ダイハツ・ムーヴ.md "wikilink")
   - [ダイハツ・ネイキッド](../Page/ダイハツ・ネイキッド.md "wikilink")(MAXより前に発売されたダイハツの軽セミトールワゴン)
-  - [ダイハツ・YRV](https://ja.wikipedia.org/wiki/ダイハツ・YRV "wikilink")（MAXはデビュー前の[自動車雑誌](../Page/自動車雑誌.md "wikilink")の予想記事では[テリオス](https://ja.wikipedia.org/wiki/ダイハツ・テリオス "wikilink")/[テリオスキッドの関係になぞらえ](../Page/ダイハツ・テリオスキッド.md "wikilink")「YRVキッド」と呼ばれていた。当然のことながら実際に開発・販売されたMAXはYRVとは無関係のモデルである。）
+  - [ダイハツ・YRV](../Page/ダイハツ・YRV.md "wikilink")（MAXはデビュー前の[自動車雑誌](../Page/自動車雑誌.md "wikilink")の予想記事では[テリオス](../Page/ダイハツ・テリオス.md "wikilink")/[テリオスキッドの関係になぞらえ](../Page/ダイハツ・テリオスキッド.md "wikilink")「YRVキッド」と呼ばれていた。当然のことながら実際に開発・販売されたMAXはYRVとは無関係のモデルである。）
   - [軽セミトールワゴン](https://ja.wikipedia.org/wiki/軽セミトールワゴン "wikilink")
 
 ## 脚注

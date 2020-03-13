@@ -1,18 +1,18 @@
 > この記事は[MALICE MIZER](https://ja.wikipedia.org/wiki/MALICE_MIZER)から翻訳されています。
 
 
-**MALICE MIZER**（マリスミゼル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[1992年](../Page/1992年.md "wikilink")8月結成、[2001年](../Page/2001年.md "wikilink")[12月31日](../Page/12月31日.md "wikilink")をもって活動休止。バンド名の由来は「**悪意と悲劇**」という意味を持つフランス語\[1\]。ほぼ同時期にメジャーデビューをしていた[SHAZNA](../Page/SHAZNA.md "wikilink")、[FANATIC◇CRISIS](https://ja.wikipedia.org/wiki/FANATIC◇CRISIS "wikilink")、[La'cryma Christiと共に](../Page/La'cryma_Christi.md "wikilink")「ヴィジュアル系四天王」とされていた\[2\]。
+**MALICE MIZER**（マリスミゼル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[1992年](../Page/1992年.md "wikilink")8月結成、[2001年](../Page/2001年.md "wikilink")[12月31日](../Page/12月31日.md "wikilink")をもって活動休止。バンド名の由来は「**悪意と悲劇**」という意味を持つフランス語\[1\]。ほぼ同時期にメジャーデビューをしていた[SHAZNA](../Page/SHAZNA.md "wikilink")、[FANATIC◇CRISIS](../Page/FANATIC◇CRISIS.md "wikilink")、[La'cryma Christiと共に](../Page/La'cryma_Christi.md "wikilink")「ヴィジュアル系四天王」とされていた\[2\]。
 
 ## 概要
 
 [Visual_kei.jpg](https://ja.wikipedia.org/wiki/File:Visual_kei.jpg "fig:Visual_kei.jpg")。
 左からManaのコスプレ、Yu～kiのコスプレ、Köziのコスプレである。\]\]
 
-楽曲・衣装・セットの点において独自の世界観を徹底した、奇抜なパフォーマンスで知られる。 楽曲の大きな特徴は[クラシック音楽](../Page/クラシック音楽.md "wikilink")とロックを巧みに織り交ぜた点にある。これはメンバーの多くが幼少期にクラシック音楽に触れていたことによる。衣装は白塗りの顔に中世ヨーロッパ文化を織り交ぜたものが大半を占めるが、あるメンバーには十二単調の衣装なども存在し、アーティスト写真によっては、各々バラバラのコンセプトととれるような衣装を纏っていたこともあった。 演劇要素を取り入れて、[幻想](https://ja.wikipedia.org/wiki/幻想 "wikilink")的なライブを行うのが魅力の一つであるが、初代ヴォーカルのTETSUはロックバンド指向の強い人物であったため、そういったパフォーマンスを嫌っており、脱退することとなった。 TETSUが脱退し、Gacktが加入した頃、Gackt自身はメンバーに「ステージで空を飛びたい」と語っている。 また、活動当時は電球を使わず蝋燭を照明として使用する、家具を[ロココ調](https://ja.wikipedia.org/wiki/ロココ調 "wikilink")で揃えていると公言するなど公私に渡ってバンドの世界観を徹底させていた。「[とんねるずのハンマープライス](https://ja.wikipedia.org/wiki/とんねるずのハンマープライス "wikilink")」では「MALICE MIZERのメンバーが貴方の家を「マリスの館」にしてくれる権」を出品した。
+楽曲・衣装・セットの点において独自の世界観を徹底した、奇抜なパフォーマンスで知られる。 楽曲の大きな特徴は[クラシック音楽](../Page/クラシック音楽.md "wikilink")とロックを巧みに織り交ぜた点にある。これはメンバーの多くが幼少期にクラシック音楽に触れていたことによる。衣装は白塗りの顔に中世ヨーロッパ文化を織り交ぜたものが大半を占めるが、あるメンバーには十二単調の衣装なども存在し、アーティスト写真によっては、各々バラバラのコンセプトととれるような衣装を纏っていたこともあった。 演劇要素を取り入れて、[幻想](https://ja.wikipedia.org/wiki/幻想 "wikilink")的なライブを行うのが魅力の一つであるが、初代ヴォーカルのTETSUはロックバンド指向の強い人物であったため、そういったパフォーマンスを嫌っており、脱退することとなった。 TETSUが脱退し、Gacktが加入した頃、Gackt自身はメンバーに「ステージで空を飛びたい」と語っている。 また、活動当時は電球を使わず蝋燭を照明として使用する、家具を[ロココ調](https://ja.wikipedia.org/wiki/ロココ調 "wikilink")で揃えていると公言するなど公私に渡ってバンドの世界観を徹底させていた。「[とんねるずのハンマープライス](../Page/とんねるずのハンマープライス.md "wikilink")」では「MALICE MIZERのメンバーが貴方の家を「マリスの館」にしてくれる権」を出品した。
 
 また、ギターのManaはファンから「Mana様」の愛称で呼ばれ、表舞台では徹底して喋らない（因みにトークイベントなどの際には、隣に「通訳」の人員を置き、「耳打ち」によって間接的に発言する。Manaによる「Moi dix Mois」としてのヨーロッパでのイベントの際には、この「耳打ち」の光景に歓声があがるという）。
 
-発表された曲のいずれも[オリコンランキングチャートの上位にランクイン](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")\[3\]するヒットを飛ばし人気を博し順風満帆に思えてきたが、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")12月にGacktが突如行方不明になる。理由は現在も不明だが、週刊誌などではメンバーや所属芸能事務所社長との確執が伝えられ、ワイドショーやメディアでは「雲隠れ」と報道された。[1999年](../Page/1999年.md "wikilink")1月にファンクラブ広報で正式に脱退を表明。さらに同年[6月21日](../Page/6月21日.md "wikilink")、ドラムのKamiの突然の死と不慮の事態が続く。その後、しばらく3人での活動となり、[2000年](../Page/2000年.md "wikilink")7月にMALICE MIZER初期の頃よりライヴでのサポートや親交のあったKlaha（前身バンドPRIDE OF MIND）が「白い肌に狂う愛と哀しみの輪舞」でサポートヴォーカリストとして参加。その後、同月に正式に3代目MALICE MIZERヴォーカリストとして参加。着実にCDのセールスを上げ、他方映画出演などの活動の幅を広げていたが、[2001年](../Page/2001年.md "wikilink")12月に「各メンバーの自由な活動展開を」との考えから音楽活動を停止した。
+発表された曲のいずれも[オリコンランキングチャートの上位にランクイン](../Page/オリコンチャート.md "wikilink")\[3\]するヒットを飛ばし人気を博し順風満帆に思えてきたが、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")12月にGacktが突如行方不明になる。理由は現在も不明だが、週刊誌などではメンバーや所属芸能事務所社長との確執が伝えられ、ワイドショーやメディアでは「雲隠れ」と報道された。[1999年](../Page/1999年.md "wikilink")1月にファンクラブ広報で正式に脱退を表明。さらに同年[6月21日](../Page/6月21日.md "wikilink")、ドラムのKamiの突然の死と不慮の事態が続く。その後、しばらく3人での活動となり、[2000年](../Page/2000年.md "wikilink")7月にMALICE MIZER初期の頃よりライヴでのサポートや親交のあったKlaha（前身バンドPRIDE OF MIND）が「白い肌に狂う愛と哀しみの輪舞」でサポートヴォーカリストとして参加。その後、同月に正式に3代目MALICE MIZERヴォーカリストとして参加。着実にCDのセールスを上げ、他方映画出演などの活動の幅を広げていたが、[2001年](../Page/2001年.md "wikilink")12月に「各メンバーの自由な活動展開を」との考えから音楽活動を停止した。
 
 二期以降はメンバー毎にイメージカラーがあるが、厳密では無い。
 
@@ -24,9 +24,9 @@
     イメージカラーはブルー。
   - [Közi](https://ja.wikipedia.org/wiki/Közi "wikilink")（コウジ） - ギター&シンセサイザー（現在はZIZとして活動中。）[5月29日](../Page/5月29日.md "wikilink")生まれ\[5\]
     イメージカラーはレッド。
-  - Yu～ki（ユウキ） - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。[8月8日](../Page/8月8日.md "wikilink")生まれ。\[6\]
+  - Yu～ki（ユウキ） - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")。[8月8日](../Page/8月8日.md "wikilink")生まれ。\[6\]
     イメージカラーはイエローやオレンジ。
-  - [Kami](https://ja.wikipedia.org/wiki/Kami_\(ミュージシャン\) "wikilink")（カミ、旧名：[右狂](https://ja.wikipedia.org/wiki/右狂 "wikilink")（ウキョウ)及び[神村右狂](https://ja.wikipedia.org/wiki/神村右狂 "wikilink")(カミムラ ウキョウ)、[1999年](../Page/1999年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")に急逝） - [ドラム](../Page/ドラムセット.md "wikilink")&[パーカッション](../Page/パーカッション.md "wikilink") (加入前は[Kneuklid Romanceに所属](../Page/Kneuklid_Romance.md "wikilink")。)[2月1日](../Page/2月1日.md "wikilink")生まれ。 \[7\]
+  - [Kami](../Page/Kami_\(ミュージシャン\).md "wikilink")（カミ、旧名：[右狂](https://ja.wikipedia.org/wiki/右狂 "wikilink")（ウキョウ)及び[神村右狂](https://ja.wikipedia.org/wiki/神村右狂 "wikilink")(カミムラ ウキョウ)、[1999年](../Page/1999年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")に急逝） - [ドラム](../Page/ドラムセット.md "wikilink")&[パーカッション](../Page/パーカッション.md "wikilink") (加入前は[Kneuklid Romanceに所属](../Page/Kneuklid_Romance.md "wikilink")。)[2月1日](../Page/2月1日.md "wikilink")生まれ。 \[7\]
     イメージカラーは パープル。
 
 ### 過去に在籍したメンバー
@@ -59,7 +59,7 @@
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[7月17日](../Page/7月17日.md "wikilink")、Moi dix MoisとKöziによるジョイントツアー「Deep Sanctuary2」赤坂BLITZ公演にて、「再会の血と薔薇〜ず」と称しオリジナルメンバーのMana、Közi、Yu～kiによるセッションが行なわれた。
   - [2012年](../Page/2012年.md "wikilink")の[9月2日](../Page/9月2日.md "wikilink")に赤坂BLITZ、および[11月14日](../Page/11月14日.md "wikilink")に大阪MUSEにて開催されたMoi dix MoisとZIZによるジョイントツアー「Deep Sanctuary Ⅲ」公演にて、「破滅の果て〜ず」と名を改めMana、Közi、Yu～kiによるセッションが再度行なわれた。
   - [2014年](../Page/2014年.md "wikilink")[10月11日](../Page/10月11日.md "wikilink")、Moi dix MoisとZIZでのイベント「Deep Sanctuary IV」にて、Mana、Közi、Yu～kiの三人で、活動停止後初めてMALICE MIZERとしてセッションが行われた(上記3人によるセッションのサポートドラムは全てMoi dix MoisのHayato(ex.Blüe)が担当)。
-  - [2018年](../Page/2018年.md "wikilink")[9月8日](https://ja.wikipedia.org/wiki/9月8日 "wikilink")、「Deep Sanctuary VI」にて、「MALICE MIZER 25th Anniversary Special」と銘打たれたイベントを開催。Moi dix MoisとZIZのライブに加え、Mana、Közi、Yu～kiの三人を中心としたMALICE MIZERとしてのパフォーマンスを繰り広げた。ゲストボーカルにはMALICE MIZERのローディーであった、Shuji (cali≠gari / GOATBED)、KAMIJO (Versailles)、Hitomi (ウミユリ)が参加。ゲストドラマーとしてKamiの師匠であったSakura (ZIGZO / gibkiy gibkiy gibkiy / Rayflower)が参加した。チケット即日SOLD OUTにつき、翌日9月9日に追加公演を開催。また、追加公演の模様を収めたBlu-rayがメモリアル写真集とのセットでリリースされた。
+  - [2018年](../Page/2018年.md "wikilink")[9月8日](../Page/9月8日.md "wikilink")、「Deep Sanctuary VI」にて、「MALICE MIZER 25th Anniversary Special」と銘打たれたイベントを開催。Moi dix MoisとZIZのライブに加え、Mana、Közi、Yu～kiの三人を中心としたMALICE MIZERとしてのパフォーマンスを繰り広げた。ゲストボーカルにはMALICE MIZERのローディーであった、Shuji (cali≠gari / GOATBED)、KAMIJO (Versailles)、Hitomi (ウミユリ)が参加。ゲストドラマーとしてKamiの師匠であったSakura (ZIGZO / gibkiy gibkiy gibkiy / Rayflower)が参加した。チケット即日SOLD OUTにつき、翌日9月9日に追加公演を開催。また、追加公演の模様を収めたBlu-rayがメモリアル写真集とのセットでリリースされた。
 
 ## ディスコグラフィ
 

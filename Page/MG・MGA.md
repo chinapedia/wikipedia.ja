@@ -9,7 +9,7 @@
 
 [1955年](../Page/1955年.md "wikilink")に[MGブランドにおける主力車種の](../Page/MG_\(自動車\).md "wikilink")、2座席[オープンカー](../Page/オープンカー.md "wikilink")として開発され、[1962年](../Page/1962年.md "wikilink")までに101,081台が製造され、過半数以上が[北米](https://ja.wikipedia.org/wiki/北米 "wikilink")、[西ヨーロッパ](../Page/西ヨーロッパ.md "wikilink")諸国、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")、[オセアニア](../Page/オセアニア.md "wikilink")などに輸出されるか、現地[ノックダウン](https://ja.wikipedia.org/wiki/ノックダウン "wikilink")生産された。
 
-  - [1955年](../Page/1955年.md "wikilink") - プロトタイプにあたるEX182[ル・マンスペシャルモデル製作](../Page/ル・マン24時間レース.md "wikilink")。1,500cc[OHV](https://ja.wikipedia.org/wiki/OHV "wikilink")エンジン2座席オープンモデル生産開始。
+  - [1955年](../Page/1955年.md "wikilink") - プロトタイプにあたるEX182[ル・マンスペシャルモデル製作](../Page/ル・マン24時間レース.md "wikilink")。1,500cc[OHV](../Page/OHV.md "wikilink")エンジン2座席オープンモデル生産開始。
   - [1956年](../Page/1956年.md "wikilink") - [クーペ](../Page/クーペ.md "wikilink")モデル追加(FHC - Fixed HEAD Coupe)（1,500ccOHVエンジン）
   - [1958年](../Page/1958年.md "wikilink") - **Twin Cam**モデル追加（1,600cc[DOHC](../Page/DOHC.md "wikilink")エンジン）
   - [1959年](../Page/1959年.md "wikilink") - モデルチェンジ 排気量1,600ccに(MGA 1600)
@@ -21,13 +21,13 @@
 
 ## メカニズム
 
-MGAは、現代の乗用車のような[モノコック](https://ja.wikipedia.org/wiki/モノコック "wikilink")ボディではなく、1930-40年代のMG TAからTFの設計を発展させた、全金属製の[ラダーフレーム](https://ja.wikipedia.org/wiki/ラダーフレーム "wikilink")に、[エンジン](../Page/エンジン.md "wikilink")、[トランスミッション](../Page/トランスミッション.md "wikilink")、[リアアクスル](https://ja.wikipedia.org/wiki/リアアクスル "wikilink")などを架装し、その上に空力設計を大きく考慮した金属製のボディを載せてある。床板は合板。
+MGAは、現代の乗用車のような[モノコック](../Page/モノコック.md "wikilink")ボディではなく、1930-40年代のMG TAからTFの設計を発展させた、全金属製の[ラダーフレーム](https://ja.wikipedia.org/wiki/ラダーフレーム "wikilink")に、[エンジン](../Page/エンジン.md "wikilink")、[トランスミッション](../Page/トランスミッション.md "wikilink")、[リアアクスル](https://ja.wikipedia.org/wiki/リアアクスル "wikilink")などを架装し、その上に空力設計を大きく考慮した金属製のボディを載せてある。床板は合板。
 
-最初のモデルは、[OHV](https://ja.wikipedia.org/wiki/OHV "wikilink")直列4気筒1,500ccの[BMC](https://ja.wikipedia.org/wiki/BMC "wikilink") Bタイプエンジン（後に1,600cc）をフロントに搭載し、4速の[マニュアル・トランスミッション](https://ja.wikipedia.org/wiki/マニュアル・トランスミッション "wikilink")を介し、[リジッドアクスル](https://ja.wikipedia.org/wiki/リジッドアクスル "wikilink")の後輪を駆動する設計とされた。
+最初のモデルは、[OHV](../Page/OHV.md "wikilink")直列4気筒1,500ccの[BMC](https://ja.wikipedia.org/wiki/BMC "wikilink") Bタイプエンジン（後に1,600cc）をフロントに搭載し、4速の[マニュアル・トランスミッション](https://ja.wikipedia.org/wiki/マニュアル・トランスミッション "wikilink")を介し、[リジッドアクスル](https://ja.wikipedia.org/wiki/リジッドアクスル "wikilink")の後輪を駆動する設計とされた。
 
 フロント[サスペンション](../Page/サスペンション.md "wikilink")は、アッパーアームがレバー式[ショックアブソーバー](../Page/ショックアブソーバー.md "wikilink")のアームを兼ねる[ウイッシュボーン](https://ja.wikipedia.org/wiki/ウイッシュボーン "wikilink")を採用、一方リアサスペンションは半楕円7枚[リーフ式によるリジッドアクスルである](../Page/リーフ式サスペンション.md "wikilink")。
 
-[ブレーキ](../Page/ブレーキ.md "wikilink")は、前期モデルのMGA**1500**が前輪が[ドラムブレーキ](https://ja.wikipedia.org/wiki/ドラムブレーキ "wikilink")、MGA**1600**及び**Twin cam**がソリッドの[ディスクブレーキ](../Page/ディスクブレーキ.md "wikilink")、後輪はドラム式のリーディング＆トレーリングが標準であるが、**Twin Cam**とMGA1600**De Luxe**はソリッドのディスクブレーキ。いずれも倍力装置は備えない。
+[ブレーキ](../Page/ブレーキ.md "wikilink")は、前期モデルのMGA**1500**が前輪が[ドラムブレーキ](../Page/ドラムブレーキ.md "wikilink")、MGA**1600**及び**Twin cam**がソリッドの[ディスクブレーキ](../Page/ディスクブレーキ.md "wikilink")、後輪はドラム式のリーディング＆トレーリングが標準であるが、**Twin Cam**とMGA1600**De Luxe**はソリッドのディスクブレーキ。いずれも倍力装置は備えない。
 
 ## 歴史
 
@@ -49,7 +49,7 @@ MGブランドを傘下に持つ、企業体**[ナッフィールド・オーガ
 
 ## 現在
 
-旧[ローバーグループの一員の財団BHMIT](https://ja.wikipedia.org/wiki/ローバー_\(自動車\) "wikilink")（ブリティッシュ・ヘリティジ・モーターインダストリー・トラスト）傘下のBMH社（ブリティッシュ・モーター・ヘリティジ）が、MGAの部品の再生産を開始しており、新品入手が不可能な部品も一部見受けられるが、この手の[ヴィンテージ](../Page/ヴィンテージ.md "wikilink")カーの中では[MGBに準じて維持は楽である](../Page/MG・MGB.md "wikilink")。
+旧[ローバーグループの一員の財団BHMIT](../Page/ローバー_\(自動車\).md "wikilink")（ブリティッシュ・ヘリティジ・モーターインダストリー・トラスト）傘下のBMH社（ブリティッシュ・モーター・ヘリティジ）が、MGAの部品の再生産を開始しており、新品入手が不可能な部品も一部見受けられるが、この手の[ヴィンテージ](../Page/ヴィンテージ.md "wikilink")カーの中では[MGBに準じて維持は楽である](../Page/MG・MGB.md "wikilink")。
 
 生産当時の純正部品を置き換える部品供給に加え、近年の技術を加味した改良部品や、競技向け部品も[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")では豊富に入手できる。
 

@@ -7,7 +7,7 @@
 
 ### AR125 (S)
 
-[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")、それまで生産されていた[空冷モデルであった](https://ja.wikipedia.org/wiki/空冷エンジン "wikilink")[KH125のモデルチェンジ版として登場](https://ja.wikipedia.org/wiki/カワサキ・KH "wikilink")。[1960年代](../Page/1960年代.md "wikilink")のモデル、Aシリーズの名を受け継ぐスポーツモデルとなった。[水冷](https://ja.wikipedia.org/wiki/水冷エンジン "wikilink")[単気筒](../Page/単気筒エンジン.md "wikilink")124ccの[2ストロークエンジン](../Page/2ストローク機関.md "wikilink")、続く上級モデルのGPzシリーズに連なるビキニ[カウル](../Page/カウル.md "wikilink")、金色のキャストホイール、フロントディスクブレーキを装着。最高出力は22[馬力](../Page/馬力.md "wikilink")。また[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")には、[GPZ900Rを髣髴とさせるフルカウルボディを採用した](../Page/カワサキ・GPZ900R.md "wikilink")“S”が登場した。
+[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")、それまで生産されていた[空冷モデルであった](https://ja.wikipedia.org/wiki/空冷エンジン "wikilink")[KH125のモデルチェンジ版として登場](https://ja.wikipedia.org/wiki/カワサキ・KH "wikilink")。[1960年代](../Page/1960年代.md "wikilink")のモデル、Aシリーズの名を受け継ぐスポーツモデルとなった。[水冷](../Page/水冷エンジン.md "wikilink")[単気筒](../Page/単気筒エンジン.md "wikilink")124ccの[2ストロークエンジン](../Page/2ストローク機関.md "wikilink")、続く上級モデルのGPzシリーズに連なるビキニ[カウル](../Page/カウル.md "wikilink")、金色のキャストホイール、フロントディスクブレーキを装着。最高出力は22[馬力](../Page/馬力.md "wikilink")。また[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")には、[GPZ900Rを髣髴とさせるフルカウルボディを採用した](../Page/カワサキ・GPZ900R.md "wikilink")“S”が登場した。
 
 特徴的な機構としてRRISを搭載。ロータリーバルブとリードバルブを併用するもので、後に発売されたKR250にも採用されている。また最適な冷却水温を確保するため、このクラスでは初めて[ラジエーター](../Page/ラジエーター.md "wikilink")に[サーモスタット](../Page/サーモスタット.md "wikilink")が装備された。この新機構とビキニカウルにより、メーター読みで120km/h+αの最高速を誇った。
 
@@ -23,7 +23,7 @@
 
 [1981年](../Page/1981年.md "wikilink")、当時のレーサーKRをイメージしたロードスポーツモデルとして登場。チャンバータイプマフラーの採用で、空冷エンジンながらクラス最強の7.2馬力（80は10馬力）を発生していた。またリアサスペンションにはカワサキ市販車初のユニトラックを採用、120mmのストロークを確保した。50は実測85km/h以上、80は実測100km/hオーバーの実力を持ち、ロングシートの採用で2人乗りも可能であった。
 
-[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")にはモデルチェンジで50・80供に「II」マイナーチェンジとなった。外装はそれまでの[Z400FX風のダックテールカウルと三角形状のサイドカバーを変更し](https://ja.wikipedia.org/wiki/カワサキ・Z400FX "wikilink")、[GPz風のサイドカバーからテールカウルまで一体化した流れるようなデザインに変更された](https://ja.wikipedia.org/wiki/カワサキ・GPz400 "wikilink")。なおAR80IIは、このままの仕様で毎年カラーチェンジをするだけで、[1991年](../Page/1991年.md "wikilink")カタログ落ちをするまで販売された。
+[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")にはモデルチェンジで50・80供に「II」マイナーチェンジとなった。外装はそれまでの[Z400FX風のダックテールカウルと三角形状のサイドカバーを変更し](../Page/カワサキ・Z400FX.md "wikilink")、[GPz風のサイドカバーからテールカウルまで一体化した流れるようなデザインに変更された](https://ja.wikipedia.org/wiki/カワサキ・GPz400 "wikilink")。なおAR80IIは、このままの仕様で毎年カラーチェンジをするだけで、[1991年](../Page/1991年.md "wikilink")カタログ落ちをするまで販売された。
 
 [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")にカワサキは同エンジン搭載車の[KS-Iを発売し](../Page/カワサキ・KSR.md "wikilink")、翌年これを機にARの日本国内での生産は打ち切られ、在庫のみの販売になる。[1991年](../Page/1991年.md "wikilink")頃カタログ落ちをし、日本での販売は終了した。
 

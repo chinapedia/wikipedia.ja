@@ -1,7 +1,7 @@
 > この記事は[JNN](https://ja.wikipedia.org/wiki/JNN)から翻訳されています。
 
 
-**JNN票決ライブ**は、[JNN](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")（[TBS系列](../Page/TBSテレビ.md "wikilink")）の[選挙特別番組](https://ja.wikipedia.org/wiki/選挙特別番組 "wikilink")。
+**JNN票決ライブ**は、[JNN](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")（[TBS系列](../Page/TBSテレビ.md "wikilink")）の[選挙特別番組](../Page/選挙特別番組.md "wikilink")。
 
 当項では1996年まで放送された選挙特番について述べる。
 
@@ -15,7 +15,7 @@
   - JNN選挙速報（1972年衆院選）　司会者：[古谷綱正](../Page/古谷綱正.md "wikilink")・[新堀俊明](../Page/新堀俊明.md "wikilink")
   - 参院選開票速報（1974年参院選）　司会者：[古谷綱正](../Page/古谷綱正.md "wikilink")・[新堀俊明](../Page/新堀俊明.md "wikilink")
   - 衆院選開票速報（1976年衆院選）　司会者：[古谷綱正](../Page/古谷綱正.md "wikilink")・[入江徳郎](../Page/入江徳郎.md "wikilink")・[新堀俊明](../Page/新堀俊明.md "wikilink")・[藤林英雄](https://ja.wikipedia.org/wiki/藤林英雄 "wikilink")
-  - 参議院選開票特別番組「参院選'77」（1977年参院選）　司会者：[古谷綱正](../Page/古谷綱正.md "wikilink")・[藤林英雄](https://ja.wikipedia.org/wiki/藤林英雄 "wikilink")・[奈良陽](https://ja.wikipedia.org/wiki/奈良陽 "wikilink")
+  - 参議院選開票特別番組「参院選'77」（1977年参院選）　司会者：[古谷綱正](../Page/古谷綱正.md "wikilink")・[藤林英雄](https://ja.wikipedia.org/wiki/藤林英雄 "wikilink")・[奈良陽](../Page/奈良陽.md "wikilink")
   - 衆院選開票特別番組「総選挙'79」（1979年衆院選）　司会者：[古谷綱正](../Page/古谷綱正.md "wikilink")
   - 選挙開票特別番組「選挙・選挙'80」（1980年衆院選・参院選）　司会者：[鈴木治彦](../Page/鈴木治彦.md "wikilink")
   - 参議院選開票特別番組「JNN参院選'83」（1983年参院選）
@@ -33,12 +33,12 @@
 ## 関連項目
 
   - [選挙開票特別番組 票決\!ライブ](../Page/選挙開票特別番組_票決!ライブ.md "wikilink")（1998年から2004年まで放送されたJNNの選挙特番）
-  - [乱\!総選挙2005](https://ja.wikipedia.org/wiki/乱!総選挙2005 "wikilink")（2005年の衆院選開票特別番組）
+  - [乱\!総選挙2005](../Page/乱!総選挙2005.md "wikilink")（2005年の衆院選開票特別番組）
   - [乱\!参議院選挙2007](../Page/乱!参議院選挙2007.md "wikilink")（2007年の参院選開票特別番組）
   - [乱\!総選挙2009](https://ja.wikipedia.org/wiki/乱!総選挙2009 "wikilink")（2009年の衆院選開票特別番組）
   - [乱\!参院選2010](https://ja.wikipedia.org/wiki/乱!参院選2010 "wikilink")（2010年の参院選開票特別番組）
   - [乱\!総選挙2012](https://ja.wikipedia.org/wiki/乱!総選挙2012 "wikilink")（2012年の衆院選開票特別番組）
-  - [参議院議員通常選挙](https://ja.wikipedia.org/wiki/参議院議員通常選挙 "wikilink")：[第17回（1995年）](https://ja.wikipedia.org/wiki/第17回参議院議員通常選挙 "wikilink")
-  - [衆議院議員総選挙](https://ja.wikipedia.org/wiki/衆議院議員総選挙 "wikilink")：[第41回（1996年）](https://ja.wikipedia.org/wiki/第41回衆議院議員総選挙 "wikilink")
+  - [参議院議員通常選挙](../Page/参議院議員通常選挙.md "wikilink")：[第17回（1995年）](https://ja.wikipedia.org/wiki/第17回参議院議員通常選挙 "wikilink")
+  - [衆議院議員総選挙](../Page/衆議院議員総選挙.md "wikilink")：[第41回（1996年）](https://ja.wikipedia.org/wiki/第41回衆議院議員総選挙 "wikilink")
 
 [Category:JNN番組の歴史](https://ja.wikipedia.org/wiki/Category:JNN番組の歴史 "wikilink") [Category:TBSの特別番組](https://ja.wikipedia.org/wiki/Category:TBSの特別番組 "wikilink") [Category:日本の選挙番組](https://ja.wikipedia.org/wiki/Category:日本の選挙番組 "wikilink")

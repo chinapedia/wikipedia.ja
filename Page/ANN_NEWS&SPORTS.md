@@ -11,7 +11,7 @@
 
 #### 第1期（2001年4月 - 2012年10月）
 
-[2001年](../Page/2001年.md "wikilink")[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")（[7日深夜](../Page/4月7日.md "wikilink")）から『**ANNニュース&スポーツ**』のタイトルで、本番組と同じく日曜日未明（土曜日深夜）に放送されていた2番組『[速報\!スポーツCUBE](https://ja.wikipedia.org/wiki/速報!スポーツCUBE "wikilink")』（0:00 - 0:40）・『[ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")』（0:40 - 0:55）を統合して、0:00 - 0:30の時間帯でスタートした。内容は特集などを省いたシンプルなニュース番組になった。
+[2001年](../Page/2001年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")（[7日深夜](../Page/4月7日.md "wikilink")）から『**ANNニュース&スポーツ**』のタイトルで、本番組と同じく日曜日未明（土曜日深夜）に放送されていた2番組『[速報\!スポーツCUBE](../Page/速報!スポーツCUBE.md "wikilink")』（0:00 - 0:40）・『[ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")』（0:40 - 0:55）を統合して、0:00 - 0:30の時間帯でスタートした。内容は特集などを省いたシンプルなニュース番組になった。
 
 [2003年](../Page/2003年.md "wikilink")10月の社屋移転を期にタイトルロゴ及びオープニングテーマを一新し、日曜版と同じく英文表記\[1\] となったが、タイトルロゴは引き続き日曜版とは別のものを改めて導入していた。
 
@@ -37,11 +37,11 @@
 
 [2002年](../Page/2002年.md "wikilink")4月に『[GET SPORTS](../Page/GET_SPORTS.md "wikilink")』に内包する形で放送を開始した。単独番組扱いで放送している局もある。こちらは当初から英字タイトルの『**ANN NEWS\&SPORTS**』であった。
 
-それまで23:30 - 翌0:25で放送されていた『[ベストポジションSPORTS](https://ja.wikipedia.org/wiki/ベストポジションSPORTS "wikilink")』の前半30分を『[やべっちFC](../Page/やべっちFC〜日本サッカー応援宣言〜.md "wikilink")』（現在は35分番組）に充当し、後半を『GET SPORTS』内包のニュース番組としてスタートした。
+それまで23:30 - 翌0:25で放送されていた『[ベストポジションSPORTS](../Page/ベストポジションSPORTS.md "wikilink")』の前半30分を『[やべっちFC](../Page/やべっちFC〜日本サッカー応援宣言〜.md "wikilink")』（現在は35分番組）に充当し、後半を『GET SPORTS』内包のニュース番組としてスタートした。
 
-放送時間は開始から[2006年](../Page/2006年.md "wikilink")3月までは0:00 - 0:25、その後『やべっちFC』の時間拡大により2006年4月からは0:15 - 0:40となったが、2010年4月の改編により23:00 - 23:55に『[日曜ナイトドラマ](https://ja.wikipedia.org/wiki/日曜ナイトドラマ "wikilink")』を設置、その影響で25分繰り下がった『やべっちFC』の放送時間が23:55 - 翌0:30（全体では10分縮小）となった為、0:30 - 0:55になった。さらに2011年10月の改編で『[日曜洋画劇場](https://ja.wikipedia.org/wiki/日曜洋画劇場 "wikilink")』の放送時間16分拡大により、『[世界の車窓から](https://ja.wikipedia.org/wiki/世界の車窓から "wikilink")』が16分繰り下げの上1分縮小、『[日曜ナイトプレミア](https://ja.wikipedia.org/wiki/日曜ナイトプレミア "wikilink")』・『やべっちFC』がそれぞれ15分ずつ繰り下がったため、0:45 - 1:10の時間に変更となった。
+放送時間は開始から[2006年](../Page/2006年.md "wikilink")3月までは0:00 - 0:25、その後『やべっちFC』の時間拡大により2006年4月からは0:15 - 0:40となったが、2010年4月の改編により23:00 - 23:55に『[日曜ナイトドラマ](https://ja.wikipedia.org/wiki/日曜ナイトドラマ "wikilink")』を設置、その影響で25分繰り下がった『やべっちFC』の放送時間が23:55 - 翌0:30（全体では10分縮小）となった為、0:30 - 0:55になった。さらに2011年10月の改編で『[日曜洋画劇場](../Page/日曜洋画劇場.md "wikilink")』の放送時間16分拡大により、『[世界の車窓から](../Page/世界の車窓から.md "wikilink")』が16分繰り下げの上1分縮小、『[日曜ナイトプレミア](https://ja.wikipedia.org/wiki/日曜ナイトプレミア "wikilink")』・『やべっちFC』がそれぞれ15分ずつ繰り下がったため、0:45 - 1:10の時間に変更となった。
 
-ニュース部分とスポーツ部分は別スタジオからの放送で、ニュース部分はテレビ朝日報道局のニュースルーム（Nスタ）から、スポーツ部分は『GET SPORTS』のスタジオ（テレビ朝日第3スタジオ）からとなっているが、近年、スポーツ部分は『GET SPORTS』の『N\&S』部分のみのネット局に配慮し、スタジオを表に出さず、ニュース映像をバックにキャスターが立って伝えるのが基本となり、バーチャルスタジオ形式になっていた（[クロマキー](https://ja.wikipedia.org/wiki/クロマキー "wikilink")合成処理を使用。但し、大きなスポーツイベントがある時などは『GET SPORTS』スタジオを表に出し、同番組のレギュラーである[南原清隆](../Page/南原清隆.md "wikilink")らも登場していた）。
+ニュース部分とスポーツ部分は別スタジオからの放送で、ニュース部分はテレビ朝日報道局のニュースルーム（Nスタ）から、スポーツ部分は『GET SPORTS』のスタジオ（テレビ朝日第3スタジオ）からとなっているが、近年、スポーツ部分は『GET SPORTS』の『N\&S』部分のみのネット局に配慮し、スタジオを表に出さず、ニュース映像をバックにキャスターが立って伝えるのが基本となり、バーチャルスタジオ形式になっていた（[クロマキー](../Page/クロマキー.md "wikilink")合成処理を使用。但し、大きなスポーツイベントがある時などは『GET SPORTS』スタジオを表に出し、同番組のレギュラーである[南原清隆](../Page/南原清隆.md "wikilink")らも登場していた）。
 
 内容自体も、かつての土曜版と比べてスポーツコーナーの比重が大きい構成となっており、スポーツコーナーではVTR切り替えのジングルが存在したりする他、キャスターの原稿読みは『GET SPORTS』の本編と同様に冊子式の原稿を読む形になっていた。
 
@@ -183,8 +183,8 @@
 <tr class="even">
 <td><p>2001.04.08</p></td>
 <td><p>2001.12</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小松靖" title="wikilink">小松靖</a><sup>2・3</sup></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/岡田洋子" title="wikilink">岡田洋子</a><sup>4</sup></p></td>
+<td><p><a href="../Page/小松靖.md" title="wikilink">小松靖</a><sup>2・3</sup></p></td>
+<td><p><a href="../Page/岡田洋子.md" title="wikilink">岡田洋子</a><sup>4</sup></p></td>
 </tr>
 <tr class="odd">
 <td><p>2002.01</p></td>
@@ -201,7 +201,7 @@
 <tr class="odd">
 <td><p>2003.04.06</p></td>
 <td><p>2003.09.29</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/櫻井健介" title="wikilink">櫻井健介</a></p></td>
+<td><p><a href="../Page/櫻井健介.md" title="wikilink">櫻井健介</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -297,7 +297,7 @@
 <li><sup>2</sup>　土曜最終の『ANNニュース』から続投。</li>
 <li><sup>3</sup>　土曜版のみ担当。</li>
 <li><sup>4</sup>　2002年4月から両曜日を担当。</li>
-<li><sup>5</sup>　『<a href="https://ja.wikipedia.org/wiki/速報!スポーツCUBE" title="wikilink">速報!スポーツCUBE</a>』から続投。</li>
+<li><sup>5</sup>　『<a href="../Page/速報!スポーツCUBE.md" title="wikilink">速報!スポーツCUBE</a>』から続投。</li>
 <li><sup>6</sup>　『<a href="https://ja.wikipedia.org/wiki/ポータル_ANNニュース&amp;スポーツ" title="wikilink">ポータル ANNニュース&amp;スポーツ</a>』も続投。</li>
 <li><sup>7</sup>　人事異動のため改編期を待たずに降板。</li>
 <li><sup>8</sup>　交代で担当（稀に一緒に出演する場合もある）。</li>
@@ -340,7 +340,7 @@
 | [山口県](../Page/山口県.md "wikilink")                    | [山口朝日放送](../Page/山口朝日放送.md "wikilink")（yab）                     |                                                     |                      |                 |
 | [香川県・岡山県](../Page/岡山県・香川県の放送.md "wikilink")         | [瀬戸内海放送](../Page/瀬戸内海放送.md "wikilink")（KSB）                     |                                                     |                      |                 |
 | [愛媛県](../Page/愛媛県.md "wikilink")                    | [愛媛朝日テレビ](../Page/愛媛朝日テレビ.md "wikilink")（eat）                   |                                                     |                      |                 |
-| [福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink") | [九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")（KBC）  |                                                     |                      |                 |
+| [福岡県](../Page/福岡県.md "wikilink")                    | [九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")（KBC）  |                                                     |                      |                 |
 | [長崎県](../Page/長崎県.md "wikilink")                    | [長崎文化放送](https://ja.wikipedia.org/wiki/長崎文化放送 "wikilink")（NCC）  |                                                     |                      |                 |
 | [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink") | [熊本朝日放送](../Page/熊本朝日放送.md "wikilink")（KAB）                     |                                                     |                      |                 |
 | [大分県](../Page/大分県.md "wikilink")                    | [大分朝日放送](../Page/大分朝日放送.md "wikilink")（OAB）                     |                                                     |                      |                 |
@@ -354,18 +354,18 @@
 
 編成上の都合により、[平日・土曜日の最終ニュースが休止となる際](https://ja.wikipedia.org/wiki/テレビ朝日系列深夜ニュース枠 "wikilink")、原則として15分以上の放送枠がある場合に放送される。しかし年末年始や15分以上\[9\]の放送枠が確保できない等の理由で休止となる場合は、代替として5 - 10分間の『ANNニュース』が放送される。
 
-[年末年始](https://ja.wikipedia.org/wiki/年末年始 "wikilink")は週末の通常版を放送する場合と休止する場合があり、放送する場合は、2012年9月までは土曜版のフォーマットで15 - 20分間程度の短縮版が放送された。基本的にはキャスター陣のうち男女のアナウンサー2人が出演し、ニュース・スポーツニュース・天気予報のすべてを担当していた。
+[年末年始](../Page/年末年始.md "wikilink")は週末の通常版を放送する場合と休止する場合があり、放送する場合は、2012年9月までは土曜版のフォーマットで15 - 20分間程度の短縮版が放送された。基本的にはキャスター陣のうち男女のアナウンサー2人が出演し、ニュース・スポーツニュース・天気予報のすべてを担当していた。
 
   - [2009年](../Page/2009年.md "wikilink")[12月26日](../Page/12月26日.md "wikilink")は田原・萩野、[12月27日](../Page/12月27日.md "wikilink")は中山・萩野（ニュース）・大西（スポーツニュース）・松並（天気）が担当。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[12月25日](../Page/12月25日.md "wikilink")・26日は萩野・大西が担当。
 
-年末年始を除く[平日](https://ja.wikipedia.org/wiki/平日 "wikilink")に『[ニュースステーション](../Page/ニュースステーション.md "wikilink")』→『[報道ステーション](https://ja.wikipedia.org/wiki/報道ステーション "wikilink")』が休止する際、稀に放送される場合がある。キャスターはシフト勤務。近年の放送は以下の通り。
+年末年始を除く[平日](../Page/平日.md "wikilink")に『[ニュースステーション](../Page/ニュースステーション.md "wikilink")』→『[報道ステーション](https://ja.wikipedia.org/wiki/報道ステーション "wikilink")』が休止する際、稀に放送される場合がある。キャスターはシフト勤務。近年の放送は以下の通り。
 
   - [2004年](../Page/2004年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink") - [4月2日](../Page/4月2日.md "wikilink") ： 『ニュースステーション』から『報道ステーション』への移行期間のため。
-  - [2007年](../Page/2007年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink") ： [サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")[AFCアジアカップ2007](https://ja.wikipedia.org/wiki/AFCアジアカップ2007 "wikilink")中継のため15分間放送（[大熊英司](https://ja.wikipedia.org/wiki/大熊英司 "wikilink")・萩野・[依田司](https://ja.wikipedia.org/wiki/依田司 "wikilink")が担当）。
-  - [2016年](../Page/2016年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink") - [4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink") ： 『報道ステーション』が、スタジオセット建て替え工事および番組リニューアル準備に伴い休止のため（OP・EDや本編中の各種演出は通常の『[ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")』に準拠。[板倉朋希](https://ja.wikipedia.org/wiki/板倉朋希 "wikilink")・[久冨慶子](https://ja.wikipedia.org/wiki/久冨慶子 "wikilink")〈4月8日は久冨に代わり[加藤真輝子](https://ja.wikipedia.org/wiki/加藤真輝子 "wikilink")〉が担当）。
+  - [2007年](../Page/2007年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink") ： [サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")[AFCアジアカップ2007](../Page/AFCアジアカップ2007.md "wikilink")中継のため15分間放送（[大熊英司](../Page/大熊英司.md "wikilink")・萩野・[依田司](https://ja.wikipedia.org/wiki/依田司 "wikilink")が担当）。
+  - [2016年](../Page/2016年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink") - [4月8日](../Page/4月8日.md "wikilink") ： 『報道ステーション』が、スタジオセット建て替え工事および番組リニューアル準備に伴い休止のため（OP・EDや本編中の各種演出は通常の『[ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")』に準拠。[板倉朋希](https://ja.wikipedia.org/wiki/板倉朋希 "wikilink")・[久冨慶子](https://ja.wikipedia.org/wiki/久冨慶子 "wikilink")〈4月8日は久冨に代わり[加藤真輝子](https://ja.wikipedia.org/wiki/加藤真輝子 "wikilink")〉が担当）。
   - [2019年](../Page/2019年.md "wikilink")[1月18日](../Page/1月18日.md "wikilink")・[25日](../Page/1月25日.md "wikilink")：サッカー・[AFCアジアカップ2019](https://ja.wikipedia.org/wiki/AFCアジアカップ2019 "wikilink")の日本戦中継に伴う前夜の『報道ステーション』休止の代替として、午前0時台に15分間放送。担当は18日が三上と[林美桜](https://ja.wikipedia.org/wiki/林美桜 "wikilink")、25日が[平石直之](../Page/平石直之.md "wikilink")と[森川夕貴](https://ja.wikipedia.org/wiki/森川夕貴 "wikilink")。
-  - [2020年](../Page/2020年.md "wikilink")[1月10日](../Page/1月10日.md "wikilink")：サッカー・[AFCアジアカップ](https://ja.wikipedia.org/wiki/AFCアジアカップ "wikilink")2020の日本戦中継に伴う前夜の『報道ステーション』休止の代替として、午前0時台に5分間放送。担当は[下村彩里](https://ja.wikipedia.org/wiki/下村彩里 "wikilink")\[10\]。
+  - [2020年](../Page/2020年.md "wikilink")[1月10日](../Page/1月10日.md "wikilink")：サッカー・[AFCアジアカップ](../Page/AFCアジアカップ.md "wikilink")2020の日本戦中継に伴う前夜の『報道ステーション』休止の代替として、午前0時台に5分間放送。担当は[下村彩里](https://ja.wikipedia.org/wiki/下村彩里 "wikilink")\[10\]。
 
 2017年4月以降、年末年始以外で土曜最終版ニュースである『サタデーステーション』\[11\] が休止する際にも編成される場合がある。その場合、基本的には同番組に出演するテレビ朝日アナウンサーが担当する。以下はその例。
 
@@ -385,7 +385,7 @@
 **第1期**
 
   - [ナッシュスタジオ](https://ja.wikipedia.org/wiki/ナッシュスタジオ "wikilink")「クラリオンアース」（2001年4月 - 2003年9月）
-  - [須藤満](https://ja.wikipedia.org/wiki/須藤満 "wikilink")「カーニバル殺人事件」（2003年10月 - 2009年7月及び『報道ステーション』代替時）
+  - [須藤満](../Page/須藤満.md "wikilink")「カーニバル殺人事件」（2003年10月 - 2009年7月及び『報道ステーション』代替時）
   - [KAZSIN](https://ja.wikipedia.org/wiki/KAZSIN "wikilink")「Broadfunk」（2009年8月 - 2012年9月29日）
 
 **第2期**
@@ -416,7 +416,7 @@
 
 <!-- end list -->
 
-  - [姫神](https://ja.wikipedia.org/wiki/姫神 "wikilink")「あの空の下に」（2006年頃 - 2017年4月17日）
+  - [姫神](../Page/姫神.md "wikilink")「あの空の下に」（2006年頃 - 2017年4月17日）
 
 ## 脚注
 

@@ -13,7 +13,7 @@
   - [1994年](../Page/1994年.md "wikilink")、テレビ番組『[浅草橋ヤング洋品店](../Page/浅草橋ヤング洋品店.md "wikilink")』よりラッパーとして出演依頼を受け、「**雷**」を結成。
   - [1996年](../Page/1996年.md "wikilink")[11月25日](../Page/11月25日.md "wikilink")、Lamp Eyeとして『[証言](../Page/証言_\(ヒップホップ\).md "wikilink")』のアナログ盤を発売。
   - [1999年](../Page/1999年.md "wikilink")、[TWIGY](../Page/TWIGY.md "wikilink")らと共に、日本人ラッパーとして初めて[フジ・ロック・フェスティバル](https://ja.wikipedia.org/wiki/フジ・ロック・フェスティバル "wikilink")に出演\[1\]。
-    [G.K.MARYAN](../Page/G.K.MARYAN.md "wikilink")、[YOU THE ROCK☆](https://ja.wikipedia.org/wiki/YOU_THE_ROCK☆ "wikilink")、TWIGYら雷のメンバー達は数々のソロアルバムをリリースしていく中、RINOは12inchシングルのリリースや、[フィーチャリング](https://ja.wikipedia.org/wiki/フィーチャリング "wikilink")をメインに活動。
+    [G.K.MARYAN](../Page/G.K.MARYAN.md "wikilink")、[YOU THE ROCK☆](https://ja.wikipedia.org/wiki/YOU_THE_ROCK☆ "wikilink")、TWIGYら雷のメンバー達は数々のソロアルバムをリリースしていく中、RINOは12inchシングルのリリースや、[フィーチャリング](../Page/フィーチャリング.md "wikilink")をメインに活動。
   - [2001年](../Page/2001年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink")、monohonレーベルからソロメジャーデビュー。 1stシングル『R.L.II』を発売。
   - [2001年](../Page/2001年.md "wikilink")[12月5日](../Page/12月5日.md "wikilink")、1stアルバム『Carnival of Rino』を発売。
   - [2002年](../Page/2002年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink")、2ndシングル『東京鉄コン筋クリートジャングル 弐零零弐式 REMIX / はじける一夜 弐零零弐式 REMIX』を発売。
@@ -75,7 +75,7 @@
   - DEAD OR ALIVE 　DJ YAS feat. LAMP EYE
   - FOR DA NEXT 　LAMP EYE
   - I SHOT THE POLICE 　DJ YAS feat. LAMP EYE
-  - R指定 　[ラッパ我リヤ](https://ja.wikipedia.org/wiki/ラッパ我リヤ "wikilink") feat. RINO LATINA II
+  - R指定 　[ラッパ我リヤ](../Page/ラッパ我リヤ.md "wikilink") feat. RINO LATINA II
   - TELL, Mr.BABYLON 　RINO LATINA II
   - GOTANDA DREAM （remix） 　G.K.MARYAN, RINO LATINA II
   - TKO 　UZI、HAB I SCREAM、DEN、RINO LATINA II　（上記３つとも、『東京演義 オリジナル・サウンドトラック』に収録）

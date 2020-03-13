@@ -99,7 +99,7 @@
 
 ## 関連項目
 
-  - [グラディウスNEO -IMPERIAL-](https://ja.wikipedia.org/wiki/グラディウスNEO_-IMPERIAL- "wikilink")
+  - [グラディウスNEO -IMPERIAL-](../Page/グラディウスNEO_-IMPERIAL-.md "wikilink")
 
 ## 外部リンク
 

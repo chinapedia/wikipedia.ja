@@ -1,13 +1,13 @@
 > この記事は[IBAF](https://ja.wikipedia.org/wiki/IBAF)から翻訳されています。
 
 
-**IBAFインターコンチネンタルカップ**（**Intercontinental Cup**）は、IBAF（[国際野球連盟](https://ja.wikipedia.org/wiki/国際野球連盟 "wikilink")）が主催する[野球](../Page/野球.md "wikilink")の国際公式戦の一つ。
+**IBAFインターコンチネンタルカップ**（**Intercontinental Cup**）は、IBAF（[国際野球連盟](../Page/国際野球連盟.md "wikilink")）が主催する[野球](../Page/野球.md "wikilink")の国際公式戦の一つ。
 
 ## 概要
 
 [1973年](../Page/1973年.md "wikilink")創設。[1999年](../Page/1999年.md "wikilink")までは2年ごとに開催され、それ以降は4年ごとに開催されている。
 
-[2011年](../Page/2011年.md "wikilink")にIBAFは野球ナショナルチームの国際大会の編成見直しを行うことになり、[IBAFワールドカップ](https://ja.wikipedia.org/wiki/IBAFワールドカップ "wikilink")共々この大会を廃止。新たに「[ワールド・ベースボール・クラシック](https://ja.wikipedia.org/wiki/ワールド・ベースボール・クラシック "wikilink")」（WBC）を世界選手権と位置づけ、これとは別に「[WBSCプレミア12](https://ja.wikipedia.org/wiki/WBSCプレミア12 "wikilink")」という国際大会を組むことになった。
+[2011年](../Page/2011年.md "wikilink")にIBAFは野球ナショナルチームの国際大会の編成見直しを行うことになり、[IBAFワールドカップ](../Page/IBAFワールドカップ.md "wikilink")共々この大会を廃止。新たに「[ワールド・ベースボール・クラシック](../Page/ワールド・ベースボール・クラシック.md "wikilink")」（WBC）を世界選手権と位置づけ、これとは別に「[WBSCプレミア12](https://ja.wikipedia.org/wiki/WBSCプレミア12 "wikilink")」という国際大会を組むことになった。
 
 ## 歴代大会結果
 
@@ -183,7 +183,7 @@
 
 ## 関連項目
 
-  - [IBAFワールドカップ](https://ja.wikipedia.org/wiki/IBAFワールドカップ "wikilink")
+  - [IBAFワールドカップ](../Page/IBAFワールドカップ.md "wikilink")
 
 [Category:IBAFインターコンチネンタルカップ](https://ja.wikipedia.org/wiki/Category:IBAFインターコンチネンタルカップ "wikilink") [Category:1973年開始のスポーツイベント](https://ja.wikipedia.org/wiki/Category:1973年開始のスポーツイベント "wikilink") [Category:2010年終了のスポーツイベント](https://ja.wikipedia.org/wiki/Category:2010年終了のスポーツイベント "wikilink")
 

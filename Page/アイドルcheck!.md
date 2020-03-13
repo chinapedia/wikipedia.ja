@@ -3,7 +3,7 @@
 
 「**アイドルcheck\!**」（アイドルチェック）は、「21世紀の[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")は[ネットから生まれる](../Page/インターネット.md "wikilink")」を旗印に、アイドルの魅力を引き出し、“未来のトップアイドル”を[ファン](../Page/ファン.md "wikilink")の方たちと一緒に誕生させようというアイドルの[ポータルサイト](../Page/ポータルサイト.md "wikilink")。運営主体は有限会社キッチュ。
 
-サイトのオープンは2005年8月末で、当時、紹介していたアイドルの数はわずか5人だったが、1年経った2006年9月時点で60名近いアイドルが、アイドルcheck\!に登場し、[インターネットオークション](https://ja.wikipedia.org/wiki/インターネットオークション "wikilink")、[ブログ](../Page/ブログ.md "wikilink")、[インターネットテレビ](https://ja.wikipedia.org/wiki/インターネットテレビ "wikilink")、[SNSなど](https://ja.wikipedia.org/wiki/ソーシャル・ネットワーキング・サービス "wikilink")、次々と登場するウェブツールを利用しながら、自分たちの魅力をアピールしている。また、このサイト発の企画であり、サイトに登場する女の子たちが多数出演する映画『[スプリング☆デイズ](../Page/スプリング☆デイズ.md "wikilink")』や、[あべなぎさ](https://ja.wikipedia.org/wiki/あべなぎさ "wikilink")、[岡田茜](https://ja.wikipedia.org/wiki/岡田茜 "wikilink")の2人による[音楽ユニット](../Page/音楽ユニット.md "wikilink")の活動も進行中である。その他、有名アイドルたちのイメージ[DVD](../Page/DVD.md "wikilink")なども、[インタビュー](../Page/インタビュー.md "wikilink")やネットオークションと連動して紹介している。
+サイトのオープンは2005年8月末で、当時、紹介していたアイドルの数はわずか5人だったが、1年経った2006年9月時点で60名近いアイドルが、アイドルcheck\!に登場し、[インターネットオークション](../Page/インターネットオークション.md "wikilink")、[ブログ](../Page/ブログ.md "wikilink")、[インターネットテレビ](../Page/インターネットテレビ.md "wikilink")、[SNSなど](../Page/ソーシャル・ネットワーキング・サービス.md "wikilink")、次々と登場するウェブツールを利用しながら、自分たちの魅力をアピールしている。また、このサイト発の企画であり、サイトに登場する女の子たちが多数出演する映画『[スプリング☆デイズ](../Page/スプリング☆デイズ.md "wikilink")』や、[あべなぎさ](../Page/あべなぎさ.md "wikilink")、[岡田茜](../Page/岡田茜.md "wikilink")の2人による[音楽ユニット](../Page/音楽ユニット.md "wikilink")の活動も進行中である。その他、有名アイドルたちのイメージ[DVD](../Page/DVD.md "wikilink")なども、[インタビュー](../Page/インタビュー.md "wikilink")やネットオークションと連動して紹介している。
 
 ## 沿革
 
@@ -17,7 +17,7 @@
 
 ## インターネットTV
 
-インターネット放送局「[あっ\!とおどろく放送局](../Page/あっ!とおどろく放送局.md "wikilink")」にて、毎週木曜日の午後7時から45分間、生番組「アイドルcheck\!」を放送中！ この番組は、アイドルcheck\!に登場するアイドルたちが、毎週交代で2人ずつ[MCを担当](https://ja.wikipedia.org/wiki/司会 "wikilink")。恒例の2分間の自己紹介タイムや、[トーク](https://ja.wikipedia.org/wiki/トーク "wikilink")、[パフォーマンス](https://ja.wikipedia.org/wiki/パフォーマンス "wikilink")を繰り広げる。また、毎週[映画監督](../Page/映画監督.md "wikilink")や[プロデューサー](../Page/プロデューサー.md "wikilink")など、映画関係者を[ゲスト](https://ja.wikipedia.org/wiki/ゲスト "wikilink")に招き、公開される[映画](../Page/映画.md "wikilink")の紹介も行っている。
+インターネット放送局「[あっ\!とおどろく放送局](../Page/あっ!とおどろく放送局.md "wikilink")」にて、毎週木曜日の午後7時から45分間、生番組「アイドルcheck\!」を放送中！ この番組は、アイドルcheck\!に登場するアイドルたちが、毎週交代で2人ずつ[MCを担当](../Page/司会.md "wikilink")。恒例の2分間の自己紹介タイムや、[トーク](https://ja.wikipedia.org/wiki/トーク "wikilink")、[パフォーマンス](https://ja.wikipedia.org/wiki/パフォーマンス "wikilink")を繰り広げる。また、毎週[映画監督](../Page/映画監督.md "wikilink")や[プロデューサー](../Page/プロデューサー.md "wikilink")など、映画関係者を[ゲスト](https://ja.wikipedia.org/wiki/ゲスト "wikilink")に招き、公開される[映画](../Page/映画.md "wikilink")の紹介も行っている。
 
 ## 音楽
 
@@ -25,12 +25,12 @@
 
 ## 映画『スプリング☆デイズ』
 
-『[スプリング☆デイズ](../Page/スプリング☆デイズ.md "wikilink")』は、[立花未樹](https://ja.wikipedia.org/wiki/立花未樹 "wikilink")、[鈴木梨乃](../Page/鈴木梨乃.md "wikilink")、[上月あや](../Page/関谷彩花.md "wikilink")（現・[関谷彩花](../Page/関谷彩花.md "wikilink")）、[関谷愛里紗](../Page/関谷愛里紗.md "wikilink")ほか、映画『[スウィングガールズ](https://ja.wikipedia.org/wiki/スウィングガールズ "wikilink")』に出演していた[関根香菜](https://ja.wikipedia.org/wiki/関根香菜 "wikilink")、[あべなぎさ](https://ja.wikipedia.org/wiki/あべなぎさ "wikilink")、[長嶋美紗](https://ja.wikipedia.org/wiki/長嶋美紗 "wikilink")らが出演する[青春映画](../Page/青春映画.md "wikilink")。 全寮制の女子高に通う千春を中心とした高校1年生の少女たちが、映画という夢に向かって、ときに暴走気味になりながらも突っ走ってゆく様子をみずみずしく描く。
+『[スプリング☆デイズ](../Page/スプリング☆デイズ.md "wikilink")』は、[立花未樹](https://ja.wikipedia.org/wiki/立花未樹 "wikilink")、[鈴木梨乃](../Page/鈴木梨乃.md "wikilink")、[上月あや](../Page/関谷彩花.md "wikilink")（現・[関谷彩花](../Page/関谷彩花.md "wikilink")）、[関谷愛里紗](../Page/関谷愛里紗.md "wikilink")ほか、映画『[スウィングガールズ](../Page/スウィングガールズ.md "wikilink")』に出演していた[関根香菜](https://ja.wikipedia.org/wiki/関根香菜 "wikilink")、[あべなぎさ](../Page/あべなぎさ.md "wikilink")、[長嶋美紗](https://ja.wikipedia.org/wiki/長嶋美紗 "wikilink")らが出演する[青春映画](../Page/青春映画.md "wikilink")。 全寮制の女子高に通う千春を中心とした高校1年生の少女たちが、映画という夢に向かって、ときに暴走気味になりながらも突っ走ってゆく様子をみずみずしく描く。
 
 ## 主な登場アイドル（50音順）
 
-  - [あべなぎさ](https://ja.wikipedia.org/wiki/あべなぎさ "wikilink")
-  - [岡田茜](https://ja.wikipedia.org/wiki/岡田茜 "wikilink")
+  - [あべなぎさ](../Page/あべなぎさ.md "wikilink")
+  - [岡田茜](../Page/岡田茜.md "wikilink")
   - [沢村ユリ](../Page/沢村ユリ.md "wikilink")
   - [関根香菜](https://ja.wikipedia.org/wiki/関根香菜 "wikilink")
   - [関谷彩花](../Page/関谷彩花.md "wikilink")
@@ -51,7 +51,7 @@
   - [ジュニアアイドル](../Page/ジュニアアイドル.md "wikilink")
   - [グラビアアイドル](https://ja.wikipedia.org/wiki/グラビアアイドル "wikilink")
   - [地下アイドル](https://ja.wikipedia.org/wiki/地下アイドル "wikilink")
-  - [お菓子系アイドル](https://ja.wikipedia.org/wiki/お菓子系アイドル "wikilink")
+  - [お菓子系アイドル](../Page/お菓子系アイドル.md "wikilink")
   - [バーチャルアイドル](../Page/バーチャルアイドル.md "wikilink")
   - [アイドル声優](https://ja.wikipedia.org/wiki/声優#アイドル声優 "wikilink")
 

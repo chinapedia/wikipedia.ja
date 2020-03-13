@@ -1,7 +1,7 @@
 > この記事は[J-FRIDAY](https://ja.wikipedia.org/wiki/J-FRIDAY)から翻訳されています。
 
 
-『**J-FRIDAY**』（ジェイ・フライデイ）は、[ZIP-FM](../Page/ZIP-FM.md "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")放送開始、[2009年](../Page/2009年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")放送終了。
+『**J-FRIDAY**』（ジェイ・フライデイ）は、[ZIP-FM](../Page/ZIP-FM.md "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。[2005年](../Page/2005年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")放送開始、[2009年](../Page/2009年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")放送終了。
 
 前身番組であった『**MIDDAY FRIDAY**』を時間拡大・移動した形でスタート。この項では『MIDDAY FRIDAY』についても触れる。
 
@@ -9,23 +9,23 @@
 
 **MIDDAY FRIDAY**
 
-  - [2004年](../Page/2004年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")～[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink") - [金曜日](../Page/金曜日.md "wikilink")10:00～14:00
+  - [2004年](../Page/2004年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")～[2005年](../Page/2005年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink") - [金曜日](../Page/金曜日.md "wikilink")10:00～14:00
 
 **J-FRIDAY**
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")～[2007年](../Page/2007年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink") - 金曜日6:00～12:00
+  - [2005年](../Page/2005年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")～[2007年](../Page/2007年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink") - 金曜日6:00～12:00
   - [2007年](../Page/2007年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")～[2009年](../Page/2009年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink") - 金曜日7:00～12:00
 
 ## 出演
 
   - [ジェイムス・ヘイブンス](../Page/ジェイムス・ヘイブンス.md "wikilink")
-  - [橋本美穂](https://ja.wikipedia.org/wiki/橋本美穂 "wikilink") - [中京圏](https://ja.wikipedia.org/wiki/中京圏 "wikilink")で活動する[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")、[気象予報士](../Page/気象予報士.md "wikilink")。この番組内のHEADLINE NEWSとWEATHER INFORMATIONを担当する他、10:00に放送されるコーナー「**[平成観光](https://ja.wikipedia.org/wiki/平成観光 "wikilink") KNOW TEN KEY**（ノー･テン･キー）」でジェイムスとの掛け合いもある（但し[タイムテーブルにはクレジットされていない](https://ja.wikipedia.org/wiki/番組表 "wikilink")）。
+  - [橋本美穂](https://ja.wikipedia.org/wiki/橋本美穂 "wikilink") - [中京圏](../Page/中京圏.md "wikilink")で活動する[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")、[気象予報士](../Page/気象予報士.md "wikilink")。この番組内のHEADLINE NEWSとWEATHER INFORMATIONを担当する他、10:00に放送されるコーナー「**[平成観光](https://ja.wikipedia.org/wiki/平成観光 "wikilink") KNOW TEN KEY**（ノー･テン･キー）」でジェイムスとの掛け合いもある（但し[タイムテーブルにはクレジットされていない](https://ja.wikipedia.org/wiki/番組表 "wikilink")）。
 
 ## 放送内容
 
 ### サーフボードプログラム
 
-  - 7:45-8:15 - **[TOYOTA](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink") WORLD WIDERS**（月-木曜日は[MORNING JACK内で放送される](https://ja.wikipedia.org/wiki/MORNING_JACK "wikilink")）
+  - 7:45-8:15 - **[TOYOTA](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink") WORLD WIDERS**（月-木曜日は[MORNING JACK内で放送される](../Page/MORNING_JACK.md "wikilink")）
 
 <!-- end list -->
 
@@ -39,7 +39,7 @@
 <!-- end list -->
 
   -
-    毎週1980年代のある年をピックアップし、その日に起こった出来事とその日近辺の[Billboard Hot 100や](https://ja.wikipedia.org/wiki/Billboard_Hot_100 "wikilink")[オリコンシングルチャートの上位](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")20曲を紹介し、20位-11位の中から1曲、10位-1位の中から1曲をオンエアする。
+    毎週1980年代のある年をピックアップし、その日に起こった出来事とその日近辺の[Billboard Hot 100や](https://ja.wikipedia.org/wiki/Billboard_Hot_100 "wikilink")[オリコンシングルチャートの上位](../Page/オリコンチャート.md "wikilink")20曲を紹介し、20位-11位の中から1曲、10位-1位の中から1曲をオンエアする。
 
 <!-- end list -->
 
@@ -49,7 +49,7 @@
 
   -
     主に子供を持つ母親向けの30分。AMは「**A**mazing **M**other」の略である。親が自分の子供の自慢をする「親ばか～ん」のコーナーでは、ジェイムスが自慢の内容を判断し、「親ばか～ん」か「親がばか～ん」を出す。「親ばか～ん」を5回取ると「親ばか紙」を獲得できた（逆に「親がばか～ん」を3回取ると失格となっていたが、これまで失格になったことはない）。
-    この番組提供の縁で、年数回カラフルタウン岐阜から公開[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")を行うことがある（この場合9:00までZIP-FMのスタジオから放送し、1時間掛けて移動の後10:00から公開生放送となる）。
+    この番組提供の縁で、年数回カラフルタウン岐阜から公開[生放送](../Page/生放送.md "wikilink")を行うことがある（この場合9:00までZIP-FMのスタジオから放送し、1時間掛けて移動の後10:00から公開生放送となる）。
 
 ### 主なショートプログラム
 
@@ -80,7 +80,7 @@
 
 <!-- end list -->
 
-  - 10:45 - '''[AIR FRANCE](https://ja.wikipedia.org/wiki/エールフランス "wikilink") FRENCH DISCOVERY
+  - 10:45 - '''[AIR FRANCE](../Page/エールフランス.md "wikilink") FRENCH DISCOVERY
 
 ショートプログラムの内容や時間は、放送時期によって時々入れ替わりがあった。
 

@@ -1,13 +1,13 @@
 > この記事は[HARELUYA](https://ja.wikipedia.org/wiki/HARELUYA)から翻訳されています。
 
 
-『**HARELUYA**』(ハレルヤ)は、[梅澤春人による](https://ja.wikipedia.org/wiki/梅澤春人 "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。
+『**HARELUYA**』(ハレルヤ)は、[梅澤春人による](../Page/梅澤春人.md "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。
 
 ## 概要
 
 1991年7月、[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")特別編集増刊「少年ジャンプ Summer Special」（[集英社](../Page/集英社.md "wikilink")）に一話完結の読み切りとして掲載（「梅澤勇人」名義）。その後、週刊少年ジャンプ本誌に[1992年](../Page/1992年.md "wikilink")26号から35号まで連載される。全1巻。
 
-連載当初は人気が出ず[打ち切り](https://ja.wikipedia.org/wiki/打ち切り "wikilink")が決定するが、終盤で[不良漫画](https://ja.wikipedia.org/wiki/不良漫画 "wikilink")に移行していくと共に人気が上昇。本作終了後、改めて『[HARELUYA II BØY](https://ja.wikipedia.org/wiki/BOY_\(漫画\) "wikilink")』として連載を開始し、長期連載となった。登場キャラクターの多くは少々設定を変え、次作『BØY』に登場している。
+連載当初は人気が出ず[打ち切り](../Page/打ち切り.md "wikilink")が決定するが、終盤で[不良漫画](https://ja.wikipedia.org/wiki/不良漫画 "wikilink")に移行していくと共に人気が上昇。本作終了後、改めて『[HARELUYA II BØY](../Page/BOY_\(漫画\).md "wikilink")』として連載を開始し、長期連載となった。登場キャラクターの多くは少々設定を変え、次作『BØY』に登場している。
 
 ## あらすじ
 

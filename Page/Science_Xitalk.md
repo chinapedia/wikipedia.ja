@@ -1,21 +1,21 @@
 > この記事は[Science Xitalk](https://ja.wikipedia.org/wiki/Science_Xitalk)から翻訳されています。
 
 
-『**Science Xitalk**』（サイエンス・サイトーク）とは、[TBSラジオ](../Page/TBSラジオ.md "wikilink")で[1999年](../Page/1999年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで、毎年ナイターオフの秋〜春の半年間放送されていた[科学](../Page/科学.md "wikilink")をテーマとした[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。[村田製作所](https://ja.wikipedia.org/wiki/村田製作所 "wikilink")の[一社提供](../Page/一社提供.md "wikilink")番組。
+『**Science Xitalk**』（サイエンス・サイトーク）とは、[TBSラジオ](../Page/TBSラジオ.md "wikilink")で[1999年](../Page/1999年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで、毎年ナイターオフの秋〜春の半年間放送されていた[科学](../Page/科学.md "wikilink")をテーマとした[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。[村田製作所](../Page/村田製作所.md "wikilink")の[一社提供](../Page/一社提供.md "wikilink")番組。
 
 ## 概要
 
-各分野の[学者](https://ja.wikipedia.org/wiki/学者 "wikilink")や[作家](../Page/作家.md "wikilink")を[ゲスト](https://ja.wikipedia.org/wiki/ゲスト "wikilink")に招いて[インタビュー](../Page/インタビュー.md "wikilink")する番組。放送の一部を抜粋したものが書籍化されている（関連書籍参照）。[ポッドキャスト](https://ja.wikipedia.org/wiki/ポッドキャスト "wikilink")配信も行っていた。
+各分野の[学者](https://ja.wikipedia.org/wiki/学者 "wikilink")や[作家](../Page/作家.md "wikilink")を[ゲスト](https://ja.wikipedia.org/wiki/ゲスト "wikilink")に招いて[インタビュー](../Page/インタビュー.md "wikilink")する番組。放送の一部を抜粋したものが書籍化されている（関連書籍参照）。[ポッドキャスト](../Page/ポッドキャスト.md "wikilink")配信も行っていた。
 
-番組の終了は2010年9月27日にTBSラジオより告知され、ポッドキャストも終了した\[1\]。11年の放送に幕を降ろす。2010年12月5日より当番組と同じく村田製作所の一社提供番組となる『[ミミガク](https://ja.wikipedia.org/wiki/ミミガク "wikilink")』(出演：[えのきどいちろう](https://ja.wikipedia.org/wiki/えのきどいちろう "wikilink")・[秋沢淳子](https://ja.wikipedia.org/wiki/秋沢淳子 "wikilink"))をスタートさせた\[2\]。
+番組の終了は2010年9月27日にTBSラジオより告知され、ポッドキャストも終了した\[1\]。11年の放送に幕を降ろす。2010年12月5日より当番組と同じく村田製作所の一社提供番組となる『[ミミガク](https://ja.wikipedia.org/wiki/ミミガク "wikilink")』(出演：[えのきどいちろう](https://ja.wikipedia.org/wiki/えのきどいちろう "wikilink")・[秋沢淳子](../Page/秋沢淳子.md "wikilink"))をスタートさせた\[2\]。
 
 ## 出演者
 
   - [パーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")
       - [日垣隆](../Page/日垣隆.md "wikilink")
   - [アシスタント](https://ja.wikipedia.org/wiki/助手 "wikilink")
-      - [有村美香](https://ja.wikipedia.org/wiki/有村美香 "wikilink")
-      - 2003年度のみ[広重玲子](https://ja.wikipedia.org/wiki/広重玲子 "wikilink")が担当。2010年度は夏以降、番組公式サイトのトップ画像が日垣と[秋沢淳子](https://ja.wikipedia.org/wiki/秋沢淳子 "wikilink")のものとなり、有村の部署異動に伴い秋沢が担当する予定だった。
+      - [有村美香](../Page/有村美香.md "wikilink")
+      - 2003年度のみ[広重玲子](../Page/広重玲子.md "wikilink")が担当。2010年度は夏以降、番組公式サイトのトップ画像が日垣と[秋沢淳子](../Page/秋沢淳子.md "wikilink")のものとなり、有村の部署異動に伴い秋沢が担当する予定だった。
 
 ## 放送時間
 

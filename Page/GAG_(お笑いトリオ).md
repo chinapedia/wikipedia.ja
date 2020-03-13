@@ -1,11 +1,11 @@
 > この記事は[GAG \(\)](https://ja.wikipedia.org/wiki/GAG_\(\))から翻訳されています。
 
 
-**GAG**（ジーエージー）は、[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")東京本社所属のお笑いトリオ。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")結成。大阪[NSC](../Page/吉本総合芸能学院.md "wikilink")27期生。旧トリオ名は**GAG少年楽団**（ジーエージーしょうねんがくだん）。2018年6月2日、現在のトリオ名に変更された\[1\]\[2\]。
+**GAG**（ジーエージー）は、[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")東京本社所属のお笑いトリオ。[2006年](../Page/2006年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")結成。大阪[NSC](../Page/吉本総合芸能学院.md "wikilink")27期生。旧トリオ名は**GAG少年楽団**（ジーエージーしょうねんがくだん）。2018年6月2日、現在のトリオ名に変更された\[1\]\[2\]。
 
 ## 概要
 
-  - ネタは主に[コント](../Page/コント.md "wikilink")で、ストーリー性が強い設定が特徴の[シチュエーション・コメディ](https://ja.wikipedia.org/wiki/シチュエーション・コメディ "wikilink")。ネタ作成者の福井曰く「男のダサさ」を根本のテーマに置いている。
+  - ネタは主に[コント](../Page/コント.md "wikilink")で、ストーリー性が強い設定が特徴の[シチュエーション・コメディ](../Page/シチュエーション・コメディ.md "wikilink")。ネタ作成者の福井曰く「男のダサさ」を根本のテーマに置いている。
   - 坂本と宮戸は「ザ・シュリンプス」というコンビで活動しており、解散後、坂本と福井が「**GAG少年楽団**」を結成。しかし、[M-1グランプリ](../Page/M-1グランプリ.md "wikilink")でダダスベリしてしまったため、宮戸がツッコミとして加入。なお、坂本と宮戸は価値観の違いによって解散したため、結成当初は険悪な仲だったが、まもなくテレビ出演の機会が増えたり、賞レースに参加できたりする様になった事もあって、現在はかなり改善されている様である。
   - [baseよしもと](https://ja.wikipedia.org/wiki/baseよしもと "wikilink")→[5upよしもと](https://ja.wikipedia.org/wiki/5upよしもと "wikilink")に出演していたが、[2014年](../Page/2014年.md "wikilink")2月に卒業。同年4月からは、活動拠点を東京に移して活動している。
   - 2014年10月、埼玉・大宮ラクーンよしもと劇場を中心に活動する芸人7組によるチーム「大宮セブン」のメンバーに選ばれ、同劇場のライブに多数出演しているほか、大宮の地域イベント等にも参加している\[3\]\[4\]。
@@ -13,14 +13,14 @@
 
 ## 出囃子
 
-[ザ・コーラル](https://ja.wikipedia.org/wiki/ザ・コーラル "wikilink")「Dreaming of You」
+[ザ・コーラル](../Page/ザ・コーラル.md "wikilink")「Dreaming of You」
 
 ## メンバー
 
 **坂本 純一**（さかもと じゅんいち、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[6月7日](../Page/6月7日.md "wikilink") - ）
 
   - 小ボケ担当（ネタによって大ボケ）。ロングヘアーが特徴。
-  - [広島県](../Page/広島県.md "wikilink")[福山市](../Page/福山市.md "wikilink")出身、[広島県立大門高等学校](https://ja.wikipedia.org/wiki/広島県立大門高等学校 "wikilink")卒業。実家は美容院。立ち位置は向かって左。AB型。
+  - [広島県](../Page/広島県.md "wikilink")[福山市](../Page/福山市.md "wikilink")出身、[広島県立大門高等学校](../Page/広島県立大門高等学校.md "wikilink")卒業。実家は美容院。立ち位置は向かって左。AB型。
   - 趣味はスケボー、アメコミ風の絵を描くこと、海外ドラマ鑑賞。
   - 中学、高校とバスケットボール部。細かったため太ると思って始めたのに、逆に疲れすぎて食べられなくなったらしい。現在もガリガリの細身である。
   - 「水着姿の[水原希子](https://ja.wikipedia.org/wiki/水原希子 "wikilink")」\[7\]など、細い体を活かした一芸がある。
@@ -34,7 +34,7 @@
 
   - 大ボケ・ネタ作り担当（ネタによってツッコミ）。声が低い。
   - [ムーディ勝山](../Page/ムーディ勝山.md "wikilink")・[松井大輔](../Page/松井大輔.md "wikilink")に似ている。
-  - [兵庫県](../Page/兵庫県.md "wikilink")[高砂市](../Page/高砂市.md "wikilink")出身、[近畿大学](https://ja.wikipedia.org/wiki/近畿大学 "wikilink")[経済学部](../Page/経済学部.md "wikilink")卒業。8ヶ月ほど[子供服](https://ja.wikipedia.org/wiki/子供服 "wikilink")メーカーの[営業マン](https://ja.wikipedia.org/wiki/営業マン "wikilink")を勤めた後にNSCに進む。立ち位置は中央\[8\]。O型。
+  - [兵庫県](../Page/兵庫県.md "wikilink")[高砂市](../Page/高砂市.md "wikilink")出身、[近畿大学](https://ja.wikipedia.org/wiki/近畿大学 "wikilink")[経済学部](../Page/経済学部.md "wikilink")卒業。8ヶ月ほど[子供服](../Page/子供服.md "wikilink")メーカーの[営業マン](https://ja.wikipedia.org/wiki/営業マン "wikilink")を勤めた後にNSCに進む。立ち位置は中央\[8\]。O型。
   - 変わった部活歴を持っており、小学校1～4年は剣道、5・6年は野球、中学校1年～高校1年バレーボール（中学時代はキャプテンを務めた）、高校2・3年バンド、高校3年柔道（1週間で退部）、大学1年フリスビー、大学2年～4年では再び野球となっている。今でもbaseメンバー内でフリスビーをする時は、経験者丸出しの投げ方をする。
   - [ネプチューンを尊敬しており](../Page/ネプチューン_\(お笑いトリオ\).md "wikilink")、お笑いをやるなら絶対トリオでやると決めていたほど。
       - 「[オールザッツ漫才](https://ja.wikipedia.org/wiki/オールザッツ漫才 "wikilink")2006」でネプチューンの[原田泰造](../Page/原田泰造.md "wikilink")のギャグ「はーらーだたいぞうです！」を思いっきりパクった。ネプチューンを尊敬しすぎた故にらしい。
@@ -57,11 +57,11 @@
   - [R-1ぐらんぷり](../Page/R-1ぐらんぷり.md "wikilink")にて準決勝進出経験を持つ。
   - 「2009年base1のブサイク」になった。
   - 押見泰憲（[犬の心](../Page/犬の心.md "wikilink")）に、容姿や眼鏡などキャラがカブッているなどと言われている。
-  - 東京進出後は、容貌が永沢たかし（[磁石](https://ja.wikipedia.org/wiki/磁石_\(お笑いコンビ\) "wikilink")）に似ていると言われるようになった。その繋がりで、2015年8月に行われた磁石の単独ライブ「ZONE」のエンディング映像の一部に、永沢と入れ替わって出演した\[12\]。
+  - 東京進出後は、容貌が永沢たかし（[磁石](../Page/磁石_\(お笑いコンビ\).md "wikilink")）に似ていると言われるようになった。その繋がりで、2015年8月に行われた磁石の単独ライブ「ZONE」のエンディング映像の一部に、永沢と入れ替わって出演した\[12\]。
   - コントでは女性役を担当することが多いが、女装姿がブスであるとよくいじられる。ただ、女装した宮戸の役をネタ中はブス扱いせず美女として扱うという原則があると、ネタ作り担当の福井は語っている\[13\]。
   - 2018年10月7日の『[オールスター後夜祭2018秋](https://ja.wikipedia.org/wiki/オールスター感謝祭#オールスター後夜祭 "wikilink")』で12問正解・71秒53で総合優勝を果たしたが、総合160位（解答者が160人だったため、つまりは最下位）を決める番組だったため何の賞品も貰えなかった。
   - アイドルグループ[TEAM SHACHIの熱烈なファンであり](https://ja.wikipedia.org/wiki/TEAM_SHACHI "wikilink")、ライブにもプライベートで足を運ぶ。メンバーとも親交があり、ネット番組のMCを務めることもある。
-  - 2019年6月5日に行われた先輩芸人の[山里亮太](../Page/山里亮太.md "wikilink")（[南海キャンディーズ](https://ja.wikipedia.org/wiki/南海キャンディーズ "wikilink")）と女優の[蒼井優](https://ja.wikipedia.org/wiki/蒼井優 "wikilink")の記者会見で司会進行を務めた。
+  - 2019年6月5日に行われた先輩芸人の[山里亮太](../Page/山里亮太.md "wikilink")（[南海キャンディーズ](../Page/南海キャンディーズ.md "wikilink")）と女優の[蒼井優](https://ja.wikipedia.org/wiki/蒼井優 "wikilink")の記者会見で司会進行を務めた。
 
 ## 単独ライブ
 
@@ -147,19 +147,19 @@
 
   - [オールザッツ漫才](https://ja.wikipedia.org/wiki/オールザッツ漫才 "wikilink")（[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")）
   - [しゅんげー\!ベスト10](../Page/しゅんげー!ベスト10.md "wikilink")（[朝日放送](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")）
-  - [千鳥のぼっけぇTV\!](https://ja.wikipedia.org/wiki/千鳥のぼっけぇTV! "wikilink")（[GAORA](https://ja.wikipedia.org/wiki/GAORA "wikilink")）
-  - [爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "wikilink")（[NHK総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")）戦績3勝3敗 最高469KB
+  - [千鳥のぼっけぇTV\!](../Page/千鳥のぼっけぇTV!.md "wikilink")（[GAORA](https://ja.wikipedia.org/wiki/GAORA "wikilink")）
+  - [爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "wikilink")（[NHK総合](../Page/NHK総合テレビジョン.md "wikilink")）戦績3勝3敗 最高469KB
   - [オンバト+](https://ja.wikipedia.org/wiki/オンバト+ "wikilink")（NHK総合）戦績10勝3敗 最高521KB
   - 笑いの超新星（[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")）ROUND2（5位）、ROUND3（3位）
   - [あらびき団](https://ja.wikipedia.org/wiki/あらびき団 "wikilink")（[TBS](../Page/TBSテレビ.md "wikilink")）宮戸のみ
   - [麒麟の部屋](../Page/麒麟の部屋.md "wikilink")（毎日放送）
   - [炎上base](https://ja.wikipedia.org/wiki/炎上base "wikilink")（[関西テレビ](../Page/関西テレビ放送.md "wikilink")）
-  - [わくわく宝島](https://ja.wikipedia.org/wiki/わくわく宝島 "wikilink")開幕SP古今東西あのお笑いが見たい2008（読売テレビ）
-  - [おじょママ\!F](https://ja.wikipedia.org/wiki/おじょママ!F "wikilink")（関西テレビ）
+  - [わくわく宝島](../Page/わくわく宝島.md "wikilink")開幕SP古今東西あのお笑いが見たい2008（読売テレビ）
+  - [おじょママ\!F](../Page/おじょママ!F.md "wikilink")（関西テレビ）
   - [マヨブラ流](../Page/マヨブラ流.md "wikilink")（読売テレビ）
   - 京橋花月丼（読売テレビ）
   - [吉本☆ぐいピコ\!](../Page/吉本☆ぐいピコ!.md "wikilink")（[KBS京都](../Page/京都放送.md "wikilink")）
-  - [ジャイケルマクソン](https://ja.wikipedia.org/wiki/ジャイケルマクソン "wikilink")（毎日放送）
+  - [ジャイケルマクソン](../Page/ジャイケルマクソン.md "wikilink")（毎日放送）
   - base×base×base～あっちゅーまにワラb1周年大感謝祭～（関西テレビ、2009年4月3日）
   - [爆笑レッドシアター](https://ja.wikipedia.org/wiki/爆笑レッドシアター "wikilink")（フジテレビ、2009年6月17日）
   - [銀シャリのbaseベイベー](https://ja.wikipedia.org/wiki/銀シャリのbaseベイベー "wikilink")（GAORA）
@@ -167,7 +167,7 @@
   - [上方演芸ホール](../Page/上方演芸ホール.md "wikilink")（[NHK大阪](../Page/NHK大阪放送局.md "wikilink")、2009年9月27日）
   - [爆笑ホワイトカーペット](https://ja.wikipedia.org/wiki/爆笑ホワイトカーペット "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、2009年10月3日）キャッチコピーは『お笑い3ピース』
   - [大阪発疾走ステージ WEST WIND](../Page/大阪発疾走ステージ_WEST_WIND.md "wikilink")（NHK大阪、2009年10月25日）
-  - [ジュニア千原と大輔宮川のすべらない話](https://ja.wikipedia.org/wiki/人志松本のすべらない話 "wikilink")（フジテレビ、2009年9月29日）宮戸のみ
+  - [ジュニア千原と大輔宮川のすべらない話](../Page/人志松本のすべらない話.md "wikilink")（フジテレビ、2009年9月29日）宮戸のみ
   - [爆笑レッドカーペット](../Page/爆笑レッドカーペット.md "wikilink")（フジテレビ、2010年3月13日）キャッチコピーは『ナニワのお笑い3ピース』
   - [豊島・ゴエのあさはやっ\!?](https://ja.wikipedia.org/wiki/豊島・ゴエのあさはやっ!? "wikilink")（[毎日放送ラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")）宮戸のみ
   - [来る来るミラクル](https://ja.wikipedia.org/wiki/来る来るミラクル "wikilink")（[中部日本放送](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")）
@@ -179,7 +179,7 @@
   - [週末応援ナビ☆あほやねん\!すきやねん\!](https://ja.wikipedia.org/wiki/あほやねん!すきやねん! "wikilink")（2013年4月 - 2014年3月、NHK大阪）月1回レギュラー
   - [333 トリオさん](https://ja.wikipedia.org/wiki/333_トリオさん "wikilink")（2014年8月30日、9月6日）
   - [いろはに千鳥](https://ja.wikipedia.org/wiki/いろはに千鳥 "wikilink")（テレビ埼玉、2014年11月18日）
-  - [NHK俳句](../Page/NHK俳句.md "wikilink")「俳句さく咲く！」（[NHK Eテレ](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")、第4日曜　6:35-7:00　2015年4月-）宮戸のみ
+  - [NHK俳句](../Page/NHK俳句.md "wikilink")「俳句さく咲く！」（[NHK Eテレ](../Page/NHK教育テレビジョン.md "wikilink")、第4日曜　6:35-7:00　2015年4月-）宮戸のみ
   - [センニュウ★感](https://ja.wikipedia.org/wiki/センニュウ★感 "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、2016年1月10日）
   - 冗談手帖（BSフジ、2017年5月3日）
   - [わらたまドッカ〜ン](https://ja.wikipedia.org/wiki/わらたまドッカ〜ン "wikilink")（NHK Eテレ、2017年12月18日）
@@ -192,7 +192,7 @@
 
 ### ラジオ
 
-  - オンスト（[YES-fm](https://ja.wikipedia.org/wiki/エフエムちゅうおう "wikilink")、2010年4月1日 - 2013年4月4日）月曜日
+  - オンスト（[YES-fm](../Page/エフエムちゅうおう.md "wikilink")、2010年4月1日 - 2013年4月4日）月曜日
   - ヨシモト＊chatterbox！（YES-fm、2013年4月9日 - 2014年4月1日）火曜日
   - [山里亮太の不毛な議論](https://ja.wikipedia.org/wiki/山里亮太の不毛な議論 "wikilink")（[TBSラジオ](../Page/TBSラジオ.md "wikilink")、2018年12月20日） - 宮戸のみ
 

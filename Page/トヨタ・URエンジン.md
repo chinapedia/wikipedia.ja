@@ -1,7 +1,7 @@
 > この記事は[UR](https://ja.wikipedia.org/wiki/UR)から翻訳されています。
 
 
-**URエンジン**は、[UZエンジンの後継機として](https://ja.wikipedia.org/wiki/トヨタ・UZエンジン "wikilink")17年振りに新開発された[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[V型8気筒](../Page/V型8気筒.md "wikilink")エンジンである。
+**URエンジン**は、[UZエンジンの後継機として](../Page/トヨタ・UZエンジン.md "wikilink")17年振りに新開発された[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[V型8気筒](../Page/V型8気筒.md "wikilink")エンジンである。
 
 ## 系譜
 
@@ -33,7 +33,7 @@
   - (2)[トヨタ・ランドクルーザー](https://ja.wikipedia.org/wiki/トヨタ・ランドクルーザー "wikilink") (日本仕様)
   - (2)[トヨタ・タンドラ](../Page/トヨタ・タンドラ.md "wikilink") (北米生産) **2010年モデルより**
   - (2)[トヨタ・セコイア](https://ja.wikipedia.org/wiki/トヨタ・セコイア "wikilink") (北米生産) **2010年モデルより**
-  - (3)[レクサス・GS](https://ja.wikipedia.org/wiki/レクサス・GS "wikilink")460 (アジア・中近東仕様)
+  - (3)[レクサス・GS](../Page/レクサス・GS.md "wikilink")460 (アジア・中近東仕様)
   - (4)[レクサス・GX](../Page/レクサス・GX.md "wikilink")460 **2009年モデルより**
 
 ### 1UR-FSE
@@ -54,7 +54,7 @@
 
   - (1)レクサス・LS460 (USF40系)
   - (2)レクサス・LS460 AWD (USF40系)
-  - (3)[レクサス・GS460 (URS190)](https://ja.wikipedia.org/wiki/レクサス・GS#3代目（GWS190系・URS190系、2005年-） "wikilink")(アジア及び中近東仕様は1UR-FE)、[トヨタ・クラウンマジェスタ](https://ja.wikipedia.org/wiki/トヨタ・クラウンマジェスタ "wikilink")（URS200系）
+  - (3)[レクサス・GS460 (URS190)](https://ja.wikipedia.org/wiki/レクサス・GS#3代目（GWS190系・URS190系、2005年-） "wikilink")(アジア及び中近東仕様は1UR-FE)、[トヨタ・クラウンマジェスタ](../Page/トヨタ・クラウンマジェスタ.md "wikilink")（URS200系）
   - (4)レクサス・LS460 (USF40系)\<メジャーチェンジ後＞
   - (5)レクサス・LS460 (USF40系)\<メジャーチェンジ後＞（AWD）
 
@@ -89,7 +89,7 @@
 
   - (1)[レクサス・IS F](../Page/レクサス・IS_F.md "wikilink") (USE20)系
   - (2)[レクサス・RC F](https://ja.wikipedia.org/wiki/レクサス・RC "wikilink") (USC10)系
-  - (3)[レクサス・GS F](https://ja.wikipedia.org/wiki/レクサス・GS "wikilink") (URL10)系
+  - (3)[レクサス・GS F](../Page/レクサス・GS.md "wikilink") (URL10)系
   - (4)[レクサス・LC](https://ja.wikipedia.org/wiki/レクサス・LC "wikilink")500
 
 ### 3UR-FE
@@ -124,7 +124,7 @@
 ## 関連項目
 
   - [トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")
-  - [レクサス](https://ja.wikipedia.org/wiki/レクサス "wikilink")
+  - [レクサス](../Page/レクサス.md "wikilink")
   - [トヨタのエンジン型式命名規則](https://ja.wikipedia.org/wiki/トヨタのエンジン型式命名規則 "wikilink")
   - [トヨタのエンジン系列名](../Page/トヨタのエンジン系列名.md "wikilink")
   - [トヨタのエンジン型式一覧](../Page/トヨタのエンジン型式一覧.md "wikilink")

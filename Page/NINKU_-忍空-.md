@@ -3,7 +3,7 @@
 
 『**NINKU -忍空-**』（にんくう）は、[桐山光侍](../Page/桐山光侍.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品、およびそれを原作とする[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")・[アニメ映画](https://ja.wikipedia.org/wiki/アニメ映画 "wikilink")作品。
 
-題名の「忍空」は作中に登場する架空の武術の名前で、「[忍術](https://ja.wikipedia.org/wiki/忍術 "wikilink")」と「[空手](https://ja.wikipedia.org/wiki/空手 "wikilink")」を組み合わせたものである。
+題名の「忍空」は作中に登場する架空の武術の名前で、「[忍術](../Page/忍術.md "wikilink")」と「[空手](https://ja.wikipedia.org/wiki/空手 "wikilink")」を組み合わせたものである。
 
 ## 概要
 
@@ -11,9 +11,9 @@
 
 TVアニメ化という商業的な意味合いも大きい連載再開だったが、4か月持たずに再び連載は中断してしまう。その後、橋本をストーリーアシスタント（原案協力）として再開したものの（単行本9巻部分に相当）、3か月後の[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")38号で3度目の中断となった。度重なる中断に関して桐山は後に「元々、[格闘技](../Page/格闘技.md "wikilink")に関しては、[プロレス](../Page/プロレス.md "wikilink")は好きだったが、テレビ等で見ていただけで、他の格闘技に関しては殆ど知識が無く、忍空の『空（空手）』を描くことが段々出来なくなっていった」と語っている\[1\]。
 
-この後、『[月刊少年ジャンプ](https://ja.wikipedia.org/wiki/月刊少年ジャンプ "wikilink")』（集英社）[1996年](../Page/1996年.md "wikilink")1月号および2月号にて、本編とは全く関係ないギャグタッチの番外編読切『バットとボール』を執筆する。これは当時のジャンプ編集長から、「連載を止めるにしても、最後にケジメだけはしっかりつけるように」と言われたからだという\[2\]。
+この後、『[月刊少年ジャンプ](../Page/月刊少年ジャンプ.md "wikilink")』（集英社）[1996年](../Page/1996年.md "wikilink")1月号および2月号にて、本編とは全く関係ないギャグタッチの番外編読切『バットとボール』を執筆する。これは当時のジャンプ編集長から、「連載を止めるにしても、最後にケジメだけはしっかりつけるように」と言われたからだという\[2\]。
 
-以降、未完の作品として放置されていたが、『[ウルトラジャンプ](https://ja.wikipedia.org/wiki/ウルトラジャンプ "wikilink")』（集英社）[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")10月号より『**忍空 〜SECOND STAGE 干支忍編〜**』（-セカンドステージ えとにんへん）としてセカンドステージの続きが連載終了から10年ぶりに再開され、[2011年](../Page/2011年.md "wikilink")10月号をもって完結した。
+以降、未完の作品として放置されていたが、『[ウルトラジャンプ](https://ja.wikipedia.org/wiki/ウルトラジャンプ "wikilink")』（集英社）[2005年](../Page/2005年.md "wikilink")10月号より『**忍空 〜SECOND STAGE 干支忍編〜**』（-セカンドステージ えとにんへん）としてセカンドステージの続きが連載終了から10年ぶりに再開され、[2011年](../Page/2011年.md "wikilink")10月号をもって完結した。
 
 単行本は『週刊少年ジャンプ』時代のものが全9巻、干支忍編が全12巻。また、読み切りや原型となる話が収録された短編集『忍空 零 〜忍空短編集〜』（全1巻）がある。いずれもジャンプコミックス刊。干支忍編のコミックスのカバーを外すと、表紙のキャラクターのプロフィールが記載されている。なお、『忍空 零』では里穂子とヒロユキのプロフィールが記載されている。
 
@@ -45,7 +45,7 @@ TVアニメ化という商業的な意味合いも大きい連載再開だった
 
 戦う時は必ず「忍空組○○番隊隊長（隊員） ○○の○○」というように自分の部隊や干支（隊長のみ）、自分の名前を戦う前に名乗る。また干支忍が本気で戦う時は**勝身煙**（かちみけむり）と呼ばれる蒸気を体から発する。
 
-干支忍同士の結束力は強く、干支忍の名前には「**風林火山**」と[虹](https://ja.wikipedia.org/wiki/虹 "wikilink")の色（**赤・橙・黄・緑・青・藍・紫**）と**黒**の文字が付いている。
+干支忍同士の結束力は強く、干支忍の名前には「**風林火山**」と[虹](../Page/虹.md "wikilink")の色（**赤・橙・黄・緑・青・藍・紫**）と**黒**の文字が付いている。
 
 時に忍空使い同士が大きく争う事があり、この戦いを「**忍空戦争**」と呼び、作中では2度起きている。麗朱ら旧干支忍とその他の忍空使いの戦いを「**第一次忍空戦争**」、風助達現干支忍と紅率いる忍空狼の戦いを「**第二次忍空戦争**」と呼び、2度共に干支忍の全面勝利となっている。
 
@@ -159,7 +159,7 @@ NINKU -忍空-
   - 原作においてペンギンのヒロユキは[マゼランペンギン](../Page/マゼランペンギン.md "wikilink")であったが、[ケープペンギン](../Page/ケープペンギン.md "wikilink")に変更されている。
       - また、風助達との出会いについても、原作では悪党どもから藍朓と共に助けられたのがきっかけであったが（その後風助達が修行の旅に行ってしまったため橙次に預けられた）、アニメでは「[サーカス](../Page/サーカス.md "wikilink")団」の一員だったのに風助達についてきてしまったという設定に変更されている。
       - ヒロユキが「デベデベ」などと鳴く様になり、脱糞 場面がない。代わりに、原作の橙次の様に放屁する。
-  - 登場人物の大半はオリジナルキャラである。原作では12人全員が登場した干支忍は、アニメでは6人だけで、他の干支忍は回想シーンなどに登場することもなかった。キャラクターデザインを担当した[西尾鉄也](https://ja.wikipedia.org/wiki/西尾鉄也 "wikilink")によると、ジャンプアニメは、編集や原作者からの注文が多いのが業界内での常識だそうであるが、この作品のキャラクターデザインに関しては、一切それがなかったという\[8\]。
+  - 登場人物の大半はオリジナルキャラである。原作では12人全員が登場した干支忍は、アニメでは6人だけで、他の干支忍は回想シーンなどに登場することもなかった。キャラクターデザインを担当した[西尾鉄也](../Page/西尾鉄也.md "wikilink")によると、ジャンプアニメは、編集や原作者からの注文が多いのが業界内での常識だそうであるが、この作品のキャラクターデザインに関しては、一切それがなかったという\[8\]。
       - また西尾は、原作に登場していなかった干支忍のオリジナルキャラを考えており、監督に自身が考えたキャラをアニメに出してもらうようアピールしていた。しかし、原作との兼ね合いもあって、実現しなかった\[9\]。
 
 ### ストーリー
@@ -178,9 +178,9 @@ NINKU -忍空-
 
 この事から、多民族・多人種・多宗教を内包しつつ、広大な領域を統治する国家という意味での帝国といえる。
 
-文明はそれなりに発達しており、電話・[蒸気機関車](../Page/蒸気機関車.md "wikilink")などの公共物、[重機関銃](https://ja.wikipedia.org/wiki/重機関銃 "wikilink")・[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")・[航空機](../Page/航空機.md "wikilink")（[単葉機](../Page/単葉機.md "wikilink")）などの兵器が存在している。戦車と航空機のデザインから、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")前の[1930年代](../Page/1930年代.md "wikilink")が元になっていると思われる。
+文明はそれなりに発達しており、電話・[蒸気機関車](../Page/蒸気機関車.md "wikilink")などの公共物、[重機関銃](../Page/重機関銃.md "wikilink")・[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")・[航空機](../Page/航空機.md "wikilink")（[単葉機](../Page/単葉機.md "wikilink")）などの兵器が存在している。戦車と航空機のデザインから、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")前の[1930年代](../Page/1930年代.md "wikilink")が元になっていると思われる。
 
-ただし、[1940年代](../Page/1940年代.md "wikilink")に開発された[ジープ](https://ja.wikipedia.org/wiki/ジープ "wikilink")が劇中に登場したり、第35話に登場した元エースパイロットの老人・源太郎が、30年前の回想で乗っていた戦闘機が複葉機であったりした事から、史実の1930年代とは技術進歩に10年前後のずれがあると言える。
+ただし、[1940年代](../Page/1940年代.md "wikilink")に開発された[ジープ](../Page/ジープ.md "wikilink")が劇中に登場したり、第35話に登場した元エースパイロットの老人・源太郎が、30年前の回想で乗っていた戦闘機が複葉機であったりした事から、史実の1930年代とは技術進歩に10年前後のずれがあると言える。
 
 ### 登場勢力
 
@@ -276,7 +276,7 @@ NINKU -忍空-
   - プロデューサー：[清水賢治](../Page/清水賢治.md "wikilink")、金田耕司（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）、[木村京太郎](https://ja.wikipedia.org/wiki/木村京太郎_\(プロデューサー\) "wikilink")（読売広告社）、萩野賢（スタジオぴえろ）
   - シリーズ構成：[橋本裕志](../Page/橋本裕志.md "wikilink")
   - メインキャラクターデザイン：[北山真理](../Page/北山真理.md "wikilink")
-  - キャラクターデザイン：[西尾鉄也](https://ja.wikipedia.org/wiki/西尾鉄也 "wikilink")
+  - キャラクターデザイン：[西尾鉄也](../Page/西尾鉄也.md "wikilink")
   - オープニング・エンディングアニメーション：西尾鉄也、水野和則
   - 美術デザイン：[池田祐二](https://ja.wikipedia.org/wiki/池田祐二 "wikilink")
   - 美術監督：高田茂祝
@@ -332,7 +332,7 @@ NINKU -忍空-
 <tr class="odd">
 <td><p>3</p></td>
 <td><p>大地の橙次!</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/うえだしげる" title="wikilink">うえだしげる</a></p></td>
+<td><p><a href="../Page/うえだしげる.md" title="wikilink">うえだしげる</a></p></td>
 <td><p>榎本明広</p></td>
 <td><p>工藤英昭</p></td>
 <td><p>1月28日</p></td>
@@ -374,7 +374,7 @@ NINKU -忍空-
 <td><p>氷の黄純!</p></td>
 <td><p>小柴純弥</p></td>
 <td><p>阿部紀之</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/西尾鉄也" title="wikilink">双堂健</a></p></td>
+<td><p><a href="../Page/西尾鉄也.md" title="wikilink">双堂健</a></p></td>
 <td><p>高田茂祝</p></td>
 <td><p>2月25日</p></td>
 <td></td>
@@ -392,7 +392,7 @@ NINKU -忍空-
 <tr class="odd">
 <td><p>9</p></td>
 <td><p>母の子守唄</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/まついひとゆき" title="wikilink">松井仁之</a></p></td>
+<td><p><a href="../Page/まついひとゆき.md" title="wikilink">松井仁之</a></p></td>
 <td><p>井上敦子</p></td>
 <td><p>工藤英昭</p></td>
 <td><p>3月11日</p></td>
@@ -484,7 +484,7 @@ NINKU -忍空-
 <td><p>絶体絶命</p></td>
 <td></td>
 <td><p>野上和男</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/うえだひでひと" title="wikilink">うえだひでひと</a></p></td>
+<td><p><a href="../Page/うえだひでひと.md" title="wikilink">うえだひでひと</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/西田正義" title="wikilink">西田正義</a></p></td>
 <td><p>工藤英昭</p></td>
 <td><p>5月13日</p></td>
@@ -585,7 +585,7 @@ NINKU -忍空-
 <td><p>魔の三獣士!</p></td>
 <td><p>橋本裕志</p></td>
 <td><p>野上和男</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/荒川真嗣" title="wikilink">荒川真嗣</a></p></td>
+<td><p><a href="../Page/荒川真嗣.md" title="wikilink">荒川真嗣</a></p></td>
 <td><p>西田正義</p></td>
 <td><p>高田茂祝</p></td>
 <td><p>7月22日</p></td>
@@ -635,7 +635,7 @@ NINKU -忍空-
 <td><p>33</p></td>
 <td><p>危機への序章</p></td>
 <td><p>田村竜</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/新房昭之" title="wikilink">新房昭之</a></p></td>
+<td><p><a href="../Page/新房昭之.md" title="wikilink">新房昭之</a></p></td>
 <td><p>高橋資祐</p></td>
 <td><p>工藤英昭</p></td>
 <td><p>8月26日</p></td>
@@ -1018,7 +1018,7 @@ NINKU -忍空-
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/テレビ西日本.md" title="wikilink">テレビ西日本</a></p></td>
 <td><p>フジテレビ系列</p></td>
 <td><p>同時ネット</p></td>
@@ -1082,7 +1082,7 @@ NINKU -忍空-
   -
 
       -
-        作詞 - 中島章子 / 作曲 - [山石敬之](https://ja.wikipedia.org/wiki/山石敬之 "wikilink") / 編曲 - [井上鑑](https://ja.wikipedia.org/wiki/井上鑑 "wikilink") / 歌 - [鈴木結女](../Page/鈴木結女.md "wikilink")
+        作詞 - 中島章子 / 作曲 - [山石敬之](https://ja.wikipedia.org/wiki/山石敬之 "wikilink") / 編曲 - [井上鑑](../Page/井上鑑.md "wikilink") / 歌 - [鈴木結女](../Page/鈴木結女.md "wikilink")
 
   - エンディングテーマ
 
@@ -1150,8 +1150,8 @@ NINKU -忍空-
 
   - ペンギンのヒロユキの名前の由来は、当時の[アシスタントの名前から取ったもの](../Page/アシスタント_\(漫画\).md "wikilink")。
   - 作者は本作の連載前に『[週刊少年サンデー](https://ja.wikipedia.org/wiki/週刊少年サンデー "wikilink")』（[小学館](../Page/小学館.md "wikilink")）で野球漫画『[戦国甲子園〜九犬士伝説〜](https://ja.wikipedia.org/wiki/戦国甲子園〜九犬士伝説〜 "wikilink")』を連載していた。この『戦国甲子園』から本作に転用されたキャラクターは数多く、主人公の風助のモデルになったキャラクターも登場している。
-  - 漫画『[NARUTO -ナルト-](https://ja.wikipedia.org/wiki/NARUTO_-ナルト- "wikilink")』の作者、[岸本斉史](../Page/岸本斉史.md "wikilink")は自他共に認める本作の大ファンであり、文庫本に収録されているイラストに「忍空の続きが読みたくてNARUTOを描いた」と載せている\[12\]。
-  - 通常のエンド5秒では主人公の風助が顔のみ丸くズームアップされてから、「今度も頑張るぞ\!」と言うものだった。しかし、[1995年ワールドカップバレーボール](../Page/1995年ワールドカップバレーボール.md "wikilink")の開催期間と重複していた時期に限り、フジテレビ系列での[バレーボール](../Page/バレーボール.md "wikilink")大会の[マスコットキャラクター](https://ja.wikipedia.org/wiki/マスコットキャラクター "wikilink")である[バボちゃん](https://ja.wikipedia.org/wiki/バボちゃん "wikilink")と風助の目玉が似ていることから、そのエンド5秒ではセリフはなかったものの、前半は風助で後半はバボちゃんに目玉と（後ろ向きにかぶった）野球帽の位置以外すべて切り替わるバージョンも放送されたことがある（そのため、ここでのバボちゃんは、本来の姿に加えて野球帽をかぶった姿になる）。このバージョンは、後にフジテレビ系列外で再放送された際も、そのまま使用されている\[13\]。
+  - 漫画『[NARUTO -ナルト-](../Page/NARUTO_-ナルト-.md "wikilink")』の作者、[岸本斉史](../Page/岸本斉史.md "wikilink")は自他共に認める本作の大ファンであり、文庫本に収録されているイラストに「忍空の続きが読みたくてNARUTOを描いた」と載せている\[12\]。
+  - 通常のエンド5秒では主人公の風助が顔のみ丸くズームアップされてから、「今度も頑張るぞ\!」と言うものだった。しかし、[1995年ワールドカップバレーボール](../Page/1995年ワールドカップバレーボール.md "wikilink")の開催期間と重複していた時期に限り、フジテレビ系列での[バレーボール](../Page/バレーボール.md "wikilink")大会の[マスコットキャラクター](https://ja.wikipedia.org/wiki/マスコットキャラクター "wikilink")である[バボちゃん](../Page/バボちゃん.md "wikilink")と風助の目玉が似ていることから、そのエンド5秒ではセリフはなかったものの、前半は風助で後半はバボちゃんに目玉と（後ろ向きにかぶった）野球帽の位置以外すべて切り替わるバージョンも放送されたことがある（そのため、ここでのバボちゃんは、本来の姿に加えて野球帽をかぶった姿になる）。このバージョンは、後にフジテレビ系列外で再放送された際も、そのまま使用されている\[13\]。
 
 ## 脚注
 
@@ -1168,9 +1168,9 @@ NINKU -忍空-
 
 [Category:漫画作品_に](https://ja.wikipedia.org/wiki/Category:漫画作品_に "wikilink") [Category:1993年の漫画](https://ja.wikipedia.org/wiki/Category:1993年の漫画 "wikilink") [Category:週刊少年ジャンプの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年ジャンプの漫画作品 "wikilink") [Category:ウルトラジャンプ](https://ja.wikipedia.org/wiki/Category:ウルトラジャンプ "wikilink") [Category:忍者を題材にした漫画](https://ja.wikipedia.org/wiki/Category:忍者を題材にした漫画 "wikilink") [Category:空手漫画](https://ja.wikipedia.org/wiki/Category:空手漫画 "wikilink") [Category:アニメ作品_に](https://ja.wikipedia.org/wiki/Category:アニメ作品_に "wikilink") [Category:1995年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:1995年のテレビアニメ "wikilink") [Category:フジテレビ系アニメ](https://ja.wikipedia.org/wiki/Category:フジテレビ系アニメ "wikilink") [Category:ぴえろ](https://ja.wikipedia.org/wiki/Category:ぴえろ "wikilink") [Category:読売広告社のアニメ作品](https://ja.wikipedia.org/wiki/Category:読売広告社のアニメ作品 "wikilink") [Category:ポニーキャニオンのアニメ作品](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアニメ作品 "wikilink") [Category:バンダイビジュアルのアニメ作品](https://ja.wikipedia.org/wiki/Category:バンダイビジュアルのアニメ作品 "wikilink") [Category:ジャンプ・コミックスのアニメ作品](https://ja.wikipedia.org/wiki/Category:ジャンプ・コミックスのアニメ作品 "wikilink") [Category:忍者アニメ](https://ja.wikipedia.org/wiki/Category:忍者アニメ "wikilink") [Category:格闘技アニメ](https://ja.wikipedia.org/wiki/Category:格闘技アニメ "wikilink") [Category:1995年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1995年のコンピュータゲーム "wikilink") [Category:1996年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1996年のコンピュータゲーム "wikilink") [Category:ゲームボーイ用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームボーイ用ソフト "wikilink") [Category:ゲームギア用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームギア用ソフト "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:セガサターン用ソフト](https://ja.wikipedia.org/wiki/Category:セガサターン用ソフト "wikilink") [Category:セガのゲームソフト](https://ja.wikipedia.org/wiki/Category:セガのゲームソフト "wikilink")
 
-1.  「[Quick Japan](../Page/Quick_Japan.md "wikilink")」（[太田出版](https://ja.wikipedia.org/wiki/太田出版 "wikilink")）に連載されていた『消えたマンガ家』シリーズのインタビュー
+1.  「[Quick Japan](../Page/Quick_Japan.md "wikilink")」（[太田出版](../Page/太田出版.md "wikilink")）に連載されていた『消えたマンガ家』シリーズのインタビュー
 2.
-3.  [アメリカで](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")1990年代前半に流行した「[POG（ポグ）](https://ja.wikipedia.org/wiki/:en:Milk_caps_\(game\) "wikilink")」の日本版として[トミーが発売していた](https://ja.wikipedia.org/wiki/トミー_\(企業\) "wikilink")[めんこ](https://ja.wikipedia.org/wiki/めんこ "wikilink")。「米国式めんこ上陸 人気アニメのデザイン続々」『[日本経済新聞](../Page/日本経済新聞.md "wikilink")』1995年6月13日付朝刊、15頁。「めちゃんこ人気復活 TVゲーム時代裏返す?」『[日経流通新聞](../Page/日経MJ.md "wikilink")』1995年8月12日付、11頁。
+3.  [アメリカで](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")1990年代前半に流行した「[POG（ポグ）](https://ja.wikipedia.org/wiki/:en:Milk_caps_\(game\) "wikilink")」の日本版として[トミーが発売していた](../Page/トミー_\(企業\).md "wikilink")[めんこ](../Page/めんこ.md "wikilink")。「米国式めんこ上陸 人気アニメのデザイン続々」『[日本経済新聞](../Page/日本経済新聞.md "wikilink")』1995年6月13日付朝刊、15頁。「めちゃんこ人気復活 TVゲーム時代裏返す?」『[日経流通新聞](../Page/日経MJ.md "wikilink")』1995年8月12日付、11頁。
 4.  マーチャンダイジングライツレポート1996年1月号
 5.  第5話「勝身煙たつ\!」にて、藍朓らが風助の下へ駆けつけるシーンなど。
 6.  1995年は最終回の1話のみの放送であったが、これは1993年12月25日の放送予定分が同日に亡くなった[逸見政孝](../Page/逸見政孝.md "wikilink")の追悼特別番組に変更となり、以降の放送スケジュールが1話ずつ繰り越になったため。
@@ -1180,4 +1180,4 @@ NINKU -忍空-
 10. 第25話など、一部の回では「忍空組」とも呼称。
 11. 1995年1月20日から1995年3月31日までは金曜17:30-18:00に放送し、1995年4月7日から1995年9月29日までは金曜16:30-17:00に放送し.1995年10月2日-1996年3月11日まで月曜16:30-17:00に放送された。(しかし、1996年1月15日はこの枠で[愛ラブSMAP](https://ja.wikipedia.org/wiki/愛ラブSMAP "wikilink")(テレビ東京)が放送された。)前番組はフジテレビと同じだが、後番組は[ゲゲゲの鬼太郎](../Page/ゲゲゲの鬼太郎.md "wikilink")(アニメ第4期)であり、フジテレビにおけるこの枠のネットはこれをもって終了した。熊本日日新聞テレビ欄より。
 12. 文庫本3巻308頁。
-13. 2017年に[千葉テレビ放送](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink")（[独立局](../Page/全国独立放送協議会.md "wikilink")）で放送された際など。
+13. 2017年に[千葉テレビ放送](../Page/千葉テレビ放送.md "wikilink")（[独立局](../Page/全国独立放送協議会.md "wikilink")）で放送された際など。

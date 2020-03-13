@@ -15,7 +15,7 @@ LE-7エンジンの燃焼方式には、[SSME](../Page/SSME.md "wikilink")（ス
 
   - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")（昭和58年） - 「開発研究」開始\[1\]\[2\]。
   - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年） - 「開発」開始\[3\]。
-  - [1988年](../Page/1988年.md "wikilink")（昭和63年）[12月15日](../Page/12月15日.md "wikilink") - [種子島宇宙センター](https://ja.wikipedia.org/wiki/種子島宇宙センター "wikilink")のLE-7燃焼試験設備が竣工。
+  - [1988年](../Page/1988年.md "wikilink")（昭和63年）[12月15日](../Page/12月15日.md "wikilink") - [種子島宇宙センター](../Page/種子島宇宙センター.md "wikilink")のLE-7燃焼試験設備が竣工。
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（平成2年）[9月](../Page/9月.md "wikilink") - LE-7の連続200秒燃焼試験に成功。その後の試験にて燃焼試験始動後16秒に大規模な外燃が発生しエンジンが大破。
   - [1991年](../Page/1991年.md "wikilink")（平成3年）[5月16日](../Page/5月16日.md "wikilink") - 角田ロケット開発センターにて、液体水素ターボポンプの開発試験中に事故。
   - [1991年](../Page/1991年.md "wikilink")（平成3年）[8月8日](../Page/8月8日.md "wikilink") - 三菱重工、名古屋誘導システム製作所（小牧北工場）でLE-7エンジン関係の試験中、技術者1名死亡。
@@ -40,7 +40,7 @@ LE-7エンジンの燃焼方式には、[SSME](../Page/SSME.md "wikilink")（ス
 
 ## H-II 8号機 事故原因
 
-事故直後のテレメータデータから、LE-7エンジン高圧配管系に何らかのトラブルがあり推進薬の供給が瞬時に停止していたと推定された。[1999年](../Page/1999年.md "wikilink")[12月24日](../Page/12月24日.md "wikilink")に、[海洋科学技術センターの協力で](https://ja.wikipedia.org/wiki/海洋研究開発機構 "wikilink")、海底に沈んだLE-7エンジンの残骸を発見。[2000年](../Page/2000年.md "wikilink")[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")に、海底3,000[mからエンジンを引き上げた](../Page/メートル.md "wikilink")。
+事故直後のテレメータデータから、LE-7エンジン高圧配管系に何らかのトラブルがあり推進薬の供給が瞬時に停止していたと推定された。[1999年](../Page/1999年.md "wikilink")[12月24日](../Page/12月24日.md "wikilink")に、[海洋科学技術センターの協力で](../Page/海洋研究開発機構.md "wikilink")、海底に沈んだLE-7エンジンの残骸を発見。[2000年](../Page/2000年.md "wikilink")[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")に、海底3,000[mからエンジンを引き上げた](../Page/メートル.md "wikilink")。
 
 残骸の調査から、液体水素ターボポンプインデューサが破断していることが判明し、破断面調査の結果から疲労破壊が原因と推定された。インデューサ単体の試験を繰り返した結果、旋回[キャビテーション](https://ja.wikipedia.org/wiki/キャビテーション "wikilink")と呼ばれる現象とそれに起因する部品の共振が発生し、インデューサに過大な負荷をかけ疲労破壊に至ったことが事故の原因と判明した。これらの結果は、後のLE-7Aの開発に活かされることになった。
 

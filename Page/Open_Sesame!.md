@@ -39,7 +39,7 @@
   - 09:30 BRAND NEW I
   - 09:50 We Got Mail【地域差替枠】　
   - 09:55 【ローカル枠】
-  - 10:10 [FMラジオショッピング](https://ja.wikipedia.org/wiki/FM_Radio_Shopping "wikilink")
+  - 10:10 [FMラジオショッピング](../Page/FM_Radio_Shopping.md "wikilink")
   - 10:15 MUPIC FILE
   - 10:20 Sasamic Happy - 週替りのインタビュー
   - 10:30 We Got Mail

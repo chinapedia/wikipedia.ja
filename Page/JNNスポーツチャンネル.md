@@ -7,7 +7,7 @@
 
 『[JNNスポーツデスク](https://ja.wikipedia.org/wiki/JNNスポーツデスク "wikilink")』から10分延長した30分番組として始めた番組で、基本的には『[JNNニュースデスク](https://ja.wikipedia.org/wiki/JNNニュースデスク "wikilink")』の前後に放送された。初期には関東の「スポーツチャンネル6」、東海地方の「スポーツチャンネル5」のように、系列局の親局のチャンネル番号を冠した地域もあった。TBSの中継車には「JNNスポーツチャンネル6」とペイントされたものもあった。
 
-その後一旦1986年10月から『[ネットワークJNN](../Page/ネットワーク_\(ニュース番組\).md "wikilink")』の放送開始に伴って平日版は休止で週末のみとなるが、1987年10月に最終版ニュースが22時台（『[JNNニュース22プライムタイム](../Page/JNNニュース22プライムタイム.md "wikilink")』→『[JNNニュースデスク'88・'89](https://ja.wikipedia.org/wiki/JNNニュースデスク'88・'89 "wikilink")』）に繰り上がったことから全曜日放送復活。ただし平日は20分枠に縮小。
+その後一旦1986年10月から『[ネットワークJNN](../Page/ネットワーク_\(ニュース番組\).md "wikilink")』の放送開始に伴って平日版は休止で週末のみとなるが、1987年10月に最終版ニュースが22時台（『[JNNニュース22プライムタイム](../Page/JNNニュース22プライムタイム.md "wikilink")』→『[JNNニュースデスク'88・'89](../Page/JNNニュースデスク'88・'89.md "wikilink")』）に繰り上がったことから全曜日放送復活。ただし平日は20分枠に縮小。
 
 1989年10月に再び平日の最終版ニュースが23時台（『[筑紫哲也 NEWS23](https://ja.wikipedia.org/wiki/筑紫哲也_NEWS23 "wikilink")』）に繰り下がり週末のみに戻る。そして、1990年10月から当番組の次に放送されていた『[JNNニュース](../Page/JNNニュース.md "wikilink")』と共に『[JNNスポーツ&ニュース](../Page/JNNスポーツ&ニュース.md "wikilink")』に統合されることが決まったため、同年9月で放送終了となる。
 
@@ -87,7 +87,7 @@
 <tr class="odd">
 <td><p>1986.4</p></td>
 <td><p>1986.9</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/荻島正己" title="wikilink">荻島正己</a><sup>1</sup>、<a href="../Page/出光ケイ.md" title="wikilink">出光ケイ</a></p></td>
+<td><p><a href="../Page/荻島正己.md" title="wikilink">荻島正己</a><sup>1</sup>、<a href="../Page/出光ケイ.md" title="wikilink">出光ケイ</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1986.10</p></td>
@@ -107,7 +107,7 @@
 <tr class="odd">
 <td><p>1988.10</p></td>
 <td><p>1989.9</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/木場弘子" title="wikilink">木場弘子</a><sup>3・4</sup></p></td>
+<td><p><a href="../Page/木場弘子.md" title="wikilink">木場弘子</a><sup>3・4</sup></p></td>
 </tr>
 <tr class="even">
 <td><p>1989.10</p></td>
@@ -157,8 +157,8 @@
 
 ## その他
 
-  - [青森テレビ](../Page/青森テレビ.md "wikilink")でのエンディングは、スポンサーありの場合は[ブルーバック](https://ja.wikipedia.org/wiki/ブルーバック "wikilink")のフリップに差し替え、スポンサーなしの場合はTBSと同じであった。
-  - 日曜日は、最初の2年間は23:00 - 23:30の枠で他系列番組を放送している局向けに、『[JNNニュースデスク](https://ja.wikipedia.org/wiki/JNNニュースデスク "wikilink")』の後続枠で40分遅れの23:40 - 24:10の枠で[撮って出し](https://ja.wikipedia.org/wiki/撮って出し "wikilink")の[時差ネット](https://ja.wikipedia.org/wiki/時差ネット "wikilink")放送をしていた（[毎日新聞西部本社](https://ja.wikipedia.org/wiki/毎日新聞西部本社 "wikilink")1986年[8月24日](../Page/8月24日.md "wikilink")付朝刊[ラ・テ欄で確認](https://ja.wikipedia.org/wiki/番組表 "wikilink")。[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")は23:00 - 23:30に対し、[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")は23:40 - 24:10）。[暴れん坊将軍](https://ja.wikipedia.org/wiki/暴れん坊将軍 "wikilink")などを放送していた[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")も同様。ただし、[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")では『NBCワイド劇場』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")『[土曜ワイド劇場](../Page/土曜ワイド劇場.md "wikilink")』の1日遅れネット）を放送していたため、最初の2年間は日曜日のみ未ネット（『JNNニュースデスク』（[1988年](../Page/1988年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")以降は『[JNNニュース](../Page/JNNニュース.md "wikilink")』）のみ時差放送していた\[1\]）。[1988年](../Page/1988年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から日曜版も24:20 - 24:50枠で時差ネットを開始した（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")迄）\[2\]。1990年4月1日から日曜版も[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")でも[同時ネット](https://ja.wikipedia.org/wiki/同時ネット "wikilink")となった。（『[JNNニュース](../Page/JNNニュース.md "wikilink")』も同様。）\[3\]
+  - [青森テレビ](../Page/青森テレビ.md "wikilink")でのエンディングは、スポンサーありの場合は[ブルーバック](../Page/ブルーバック.md "wikilink")のフリップに差し替え、スポンサーなしの場合はTBSと同じであった。
+  - 日曜日は、最初の2年間は23:00 - 23:30の枠で他系列番組を放送している局向けに、『[JNNニュースデスク](https://ja.wikipedia.org/wiki/JNNニュースデスク "wikilink")』の後続枠で40分遅れの23:40 - 24:10の枠で[撮って出し](../Page/撮って出し.md "wikilink")の[時差ネット](https://ja.wikipedia.org/wiki/時差ネット "wikilink")放送をしていた（[毎日新聞西部本社](../Page/毎日新聞西部本社.md "wikilink")1986年[8月24日](../Page/8月24日.md "wikilink")付朝刊[ラ・テ欄で確認](https://ja.wikipedia.org/wiki/番組表 "wikilink")。[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")は23:00 - 23:30に対し、[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")は23:40 - 24:10）。[暴れん坊将軍](../Page/暴れん坊将軍.md "wikilink")などを放送していた[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")も同様。ただし、[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")では『NBCワイド劇場』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")『[土曜ワイド劇場](../Page/土曜ワイド劇場.md "wikilink")』の1日遅れネット）を放送していたため、最初の2年間は日曜日のみ未ネット（『JNNニュースデスク』（[1988年](../Page/1988年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")以降は『[JNNニュース](../Page/JNNニュース.md "wikilink")』）のみ時差放送していた\[1\]）。[1988年](../Page/1988年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から日曜版も24:20 - 24:50枠で時差ネットを開始した（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")迄）\[2\]。1990年4月1日から日曜版も[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")でも[同時ネット](https://ja.wikipedia.org/wiki/同時ネット "wikilink")となった。（『[JNNニュース](../Page/JNNニュース.md "wikilink")』も同様。）\[3\]
   - 1987年10月以降もエンディングは初期の曲を使っていた地域があった。
 
 ## 脚注

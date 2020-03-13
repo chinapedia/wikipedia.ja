@@ -9,7 +9,7 @@
 
 [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[12月23日](../Page/12月23日.md "wikilink")、全国[東映](../Page/東映.md "wikilink")系で公開。上映時間は60分。
 
-セーラームーンの映画すべてを収録した「美少女戦士セーラームーン THE MOVIE DVD-BOX」が[2002年](../Page/2002年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")に発売。単巻は[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[8月5日](../Page/8月5日.md "wikilink")に発売。
+セーラームーンの映画すべてを収録した「美少女戦士セーラームーン THE MOVIE DVD-BOX」が[2002年](../Page/2002年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")に発売。単巻は[2005年](../Page/2005年.md "wikilink")[8月5日](../Page/8月5日.md "wikilink")に発売。
 
 映画公開前の時点で脚本を担当する[榎戸洋司](../Page/榎戸洋司.md "wikilink")から「ハメルンの笛吹き」、「トルテ城の笛吹き」のサブタイトルをベースにしたブロットが提出され、後に9戦士が勢揃いすることなどが決定している\[1\]。第4シナリオ決定稿には、[セーラープルートが新たな必殺技](https://ja.wikipedia.org/wiki/冥王せつな#セーラープルート "wikilink")「クロノス・タイフーン」を披露する描写もあり、後に廃止された\[2\]。
 
@@ -29,17 +29,17 @@
 
   - [月野うさぎ](https://ja.wikipedia.org/wiki/月野うさぎ "wikilink")
     [声](../Page/声優.md "wikilink") - [三石琴乃](../Page/三石琴乃.md "wikilink")
-  - [ちびうさ](https://ja.wikipedia.org/wiki/ちびうさ "wikilink")
+  - [ちびうさ](../Page/ちびうさ.md "wikilink")
     声 - [荒木香恵](../Page/荒木香衣.md "wikilink")
-  - [地場衛](https://ja.wikipedia.org/wiki/地場衛 "wikilink")
+  - [地場衛](../Page/地場衛.md "wikilink")
     声 - [古谷徹](../Page/古谷徹.md "wikilink")
-  - [火野レイ](https://ja.wikipedia.org/wiki/火野レイ "wikilink")
+  - [火野レイ](../Page/火野レイ.md "wikilink")
     声 - [富沢美智恵](../Page/富沢美智恵.md "wikilink")
   - [水野亜美](../Page/水野亜美.md "wikilink")
     声 - [久川綾](../Page/久川綾.md "wikilink")
-  - [木野まこと](https://ja.wikipedia.org/wiki/木野まこと "wikilink")
+  - [木野まこと](../Page/木野まこと.md "wikilink")
     声 - [篠原恵美](../Page/篠原恵美.md "wikilink")
-  - [愛野美奈子](https://ja.wikipedia.org/wiki/愛野美奈子 "wikilink")
+  - [愛野美奈子](../Page/愛野美奈子.md "wikilink")
     声 - [深見梨加](../Page/深見梨加.md "wikilink")
   - アルテミス
     声 - [高戸靖広](../Page/高戸靖広.md "wikilink")
@@ -47,12 +47,12 @@
     声 - [西原久美子](../Page/西原久美子.md "wikilink")
   - ルナ
     声 - [潘恵子](../Page/潘恵子.md "wikilink")
-  - [天王はるか](https://ja.wikipedia.org/wiki/天王はるか "wikilink")
+  - [天王はるか](../Page/天王はるか.md "wikilink")
     声 - [緒方恵美](../Page/緒方恵美.md "wikilink")
-  - [海王みちる](https://ja.wikipedia.org/wiki/海王みちる "wikilink")
+  - [海王みちる](../Page/海王みちる.md "wikilink")
     声 - [勝生真沙子](../Page/勝生真沙子.md "wikilink")
-  - [冥王せつな](https://ja.wikipedia.org/wiki/冥王せつな "wikilink")
-    声 - [川島千代子](https://ja.wikipedia.org/wiki/川島千代子 "wikilink")
+  - [冥王せつな](../Page/冥王せつな.md "wikilink")
+    声 - [川島千代子](../Page/川島千代子.md "wikilink")
 
 ### ゲストキャラクター
 
@@ -72,7 +72,7 @@
     声 - [中井和哉](../Page/中井和哉.md "wikilink")
     バディヤーヌの手下の妖精で、葉で出来た帽子を被ってる男。末路はププランと同じ。
   - ボンボンベピーズ
-    声 - [小野綾子](../Page/小野綾子_\(声優\).md "wikilink")、[宇和川恵美](https://ja.wikipedia.org/wiki/宇和川恵美 "wikilink")
+    声 - [小野綾子](../Page/小野綾子_\(声優\).md "wikilink")、[宇和川恵美](../Page/宇和川恵美.md "wikilink")
     ププランらが持つキャンディが笛の音によって変化した風船型の兵士。完全に倒すことは不可能に近い。
   - バディヤーヌ
     声 - [吉田理保子](../Page/吉田理保子.md "wikilink")
@@ -85,7 +85,7 @@
   - [監督](../Page/映画監督.md "wikilink") - [芝田浩樹](../Page/芝田浩樹.md "wikilink")
   - 脚本 - [榎戸洋司](../Page/榎戸洋司.md "wikilink")
   - キャラクターデザイン・作画監督 - [香川久](https://ja.wikipedia.org/wiki/香川久 "wikilink")
-  - 美術監修 - [窪田忠雄](https://ja.wikipedia.org/wiki/窪田忠雄 "wikilink")
+  - 美術監修 - [窪田忠雄](../Page/窪田忠雄.md "wikilink")
   - 美術監督 - 田尻健一
   - 音楽 - [有澤孝紀](../Page/有澤孝紀.md "wikilink")
   - [助監督](https://ja.wikipedia.org/wiki/助監督 "wikilink") - [宇田鋼之介](../Page/宇田鋼之介.md "wikilink")

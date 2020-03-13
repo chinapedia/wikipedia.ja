@@ -7,20 +7,20 @@
 
 ### 経営史
 
-設立当初は全米各地のラジオ会社の大半を傘下に収めると共に、[RCAレコード](https://ja.wikipedia.org/wiki/RCAレコード "wikilink")・[NBC](https://ja.wikipedia.org/wiki/NBC "wikilink")などのメディア事業を経営、1923年までに[海底ケーブル](https://ja.wikipedia.org/wiki/海底ケーブル "wikilink")を利用した大西洋通信の3割、太平洋通信の5割を市場占有した。一方で[ロックフェラー・センター](../Page/ロックフェラー・センター.md "wikilink")に[RCAビルを竣工](https://ja.wikipedia.org/wiki/GEビルディング "wikilink")。[1970年代](../Page/1970年代.md "wikilink")には[ラザード](https://ja.wikipedia.org/wiki/ラザード "wikilink")を自社の投資銀行に使い、[ハーツレンタカー](https://ja.wikipedia.org/wiki/ハーツレンタカー "wikilink")など本業との関連が薄い企業も[M\&A](../Page/M&A.md "wikilink")で保有していた。
+設立当初は全米各地のラジオ会社の大半を傘下に収めると共に、[RCAレコード](../Page/RCAレコード.md "wikilink")・[NBC](../Page/NBC.md "wikilink")などのメディア事業を経営、1923年までに[海底ケーブル](../Page/海底ケーブル.md "wikilink")を利用した大西洋通信の3割、太平洋通信の5割を市場占有した。一方で[ロックフェラー・センター](../Page/ロックフェラー・センター.md "wikilink")に[RCAビルを竣工](https://ja.wikipedia.org/wiki/GEビルディング "wikilink")。[1970年代](../Page/1970年代.md "wikilink")には[ラザード](https://ja.wikipedia.org/wiki/ラザード "wikilink")を自社の投資銀行に使い、[ハーツレンタカー](https://ja.wikipedia.org/wiki/ハーツレンタカー "wikilink")など本業との関連が薄い企業も[M\&A](../Page/M&A.md "wikilink")で保有していた。
 
   - [1919年](../Page/1919年.md "wikilink") - **[GE](https://ja.wikipedia.org/wiki/ゼネラル・エレクトリック#沿革 "wikilink")**の[オーウェン・D・ヤング](https://ja.wikipedia.org/wiki/オーウェン・D・ヤング "wikilink")が提案・創立する。素地は[マルコーニ社](../Page/グリエルモ・マルコーニ.md "wikilink")。
   - [1926年](../Page/1926年.md "wikilink") - 放送会社NBCを設立する。
   - [1928年](../Page/1928年.md "wikilink") - [ハリウッド](../Page/ハリウッド.md "wikilink")の映画会社[RKO](../Page/RKO.md "wikilink")に資本参画する。
-  - [1929年](../Page/1929年.md "wikilink") - [ビクタートーキングマシン](https://ja.wikipedia.org/wiki/ビクタートーキングマシン "wikilink")（当時の[日本ビクター](../Page/日本ビクター.md "wikilink")の親会社）を買収し、[RCAビクターを設立する](https://ja.wikipedia.org/wiki/RCAレコード "wikilink")。
+  - [1929年](../Page/1929年.md "wikilink") - [ビクタートーキングマシン](../Page/ビクタートーキングマシン.md "wikilink")（当時の[日本ビクター](../Page/日本ビクター.md "wikilink")の親会社）を買収し、[RCAビクターを設立する](../Page/RCAレコード.md "wikilink")。
   - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink") - 社名をRCAと改称する。
   - [1984年](../Page/1984年.md "wikilink")4月 - CEDの商業的な失敗が[CNN](https://ja.wikipedia.org/wiki/CNN "wikilink")などで報じられる（[\#終焉](https://ja.wikipedia.org/wiki/#終焉 "wikilink")）。
   - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")12月 - グループ全体をGEが凡そ64億ドル（概算1兆2000億円）で買収する。CED事業の失敗で大損したことが一因とされる。この買収額は当時のアメリカ企業による最高額であり、GEの[コングロマリット](../Page/コングロマリット.md "wikilink")化を推し進める象徴でもあった。
-  - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")　- GEはNBC事業を残し、その他の事業・資産を[トムソンと](https://ja.wikipedia.org/wiki/トムソン_\(企業\) "wikilink")[ベルテルスマン](https://ja.wikipedia.org/wiki/ベルテルスマン "wikilink")に売却。
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")から[1992年](../Page/1992年.md "wikilink") - [ジェイコブ・ロスチャイルド](https://ja.wikipedia.org/wiki/ジェイコブ・ロスチャイルド_\(第4代ロスチャイルド男爵\) "wikilink")（コンシル・メンバー、最終年はシニア・[フェロー](https://ja.wikipedia.org/wiki/フェロー "wikilink")）\[1\]
+  - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")　- GEはNBC事業を残し、その他の事業・資産を[トムソンと](https://ja.wikipedia.org/wiki/トムソン_\(企業\) "wikilink")[ベルテルスマン](../Page/ベルテルスマン.md "wikilink")に売却。
+  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")から[1992年](../Page/1992年.md "wikilink") - [ジェイコブ・ロスチャイルド](https://ja.wikipedia.org/wiki/ジェイコブ・ロスチャイルド_\(第4代ロスチャイルド男爵\) "wikilink")（コンシル・メンバー、最終年はシニア・[フェロー](../Page/フェロー.md "wikilink")）\[1\]
   - [1994年](../Page/1994年.md "wikilink") - [RCAドーム](../Page/RCAドーム.md "wikilink")の命名権を買収。
-  - [2002年](../Page/2002年.md "wikilink") - トムソンは[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")の家電メーカー・[TCL社と](../Page/TCL集団.md "wikilink")、RCAブランドのテレビなどの生産・流通の合弁事業を開始。
-  - [2003年](../Page/2003年.md "wikilink") - 「[蓄音機](../Page/蓄音機.md "wikilink")に耳を傾ける犬[ニッパー](https://ja.wikipedia.org/wiki/ニッパー_\(犬\) "wikilink")」の商標をGEからトムソンが買収。但し[BMG](https://ja.wikipedia.org/wiki/BMG "wikilink")の持つ使用権は継続。
+  - [2002年](../Page/2002年.md "wikilink") - トムソンは[中国](../Page/中国.md "wikilink")の家電メーカー・[TCL社と](../Page/TCL集団.md "wikilink")、RCAブランドのテレビなどの生産・流通の合弁事業を開始。
+  - [2003年](../Page/2003年.md "wikilink") - 「[蓄音機](../Page/蓄音機.md "wikilink")に耳を傾ける犬[ニッパー](https://ja.wikipedia.org/wiki/ニッパー_\(犬\) "wikilink")」の商標をGEからトムソンが買収。但し[BMG](../Page/BMG.md "wikilink")の持つ使用権は継続。
   - [2006年](../Page/2006年.md "wikilink") - トムソンは家電アクセサリー部門とその分野でのRCAブランドの使用権を[Audiovox](https://ja.wikipedia.org/wiki/Audiovox "wikilink")社に売却。
   - [2007年](../Page/2007年.md "wikilink") - トムソンは欧州域外の家電事業とその分野でのRCAブランドの使用権の売却を決定。
 
@@ -32,7 +32,7 @@
   - [1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")
       - 春頃 - 通常の白黒放送と両立性のある新しいカラー方式（Compatible RCA方式）を開発。後のNTSC方式の基礎となる。
       - 中頃 - 1/4インチ磁気テープを使用したステレオ・テープ・レコーダーRT-21を開発、製造。
-      - 末頃 - 米[連邦通信委員会](../Page/連邦通信委員会.md "wikilink")（FCC）の全米テレビジョン方式委員会（NTSC）にて正式決定した同方式による世界初の[カラーテレビ](https://ja.wikipedia.org/wiki/カラーテレビ "wikilink")受像機を発売。
+      - 末頃 - 米[連邦通信委員会](../Page/連邦通信委員会.md "wikilink")（FCC）の全米テレビジョン方式委員会（NTSC）にて正式決定した同方式による世界初の[カラーテレビ](../Page/カラーテレビ.md "wikilink")受像機を発売。
   - [1954年](../Page/1954年.md "wikilink") - [LP](https://ja.wikipedia.org/wiki/レコード#LP盤 "wikilink")、[EP用の](https://ja.wikipedia.org/wiki/レコード#EP盤 "wikilink")[アナログ・レコードの録音](https://ja.wikipedia.org/wiki/レコード#呼称 "wikilink")・再生用カーブとしてNew Orthophonicを開発。同年後にRIAAの標準カーブとして採用され、これは現在も、アナログ・レコードの標準仕様となっている。
   - [1957年](../Page/1957年.md "wikilink")
       - 初め頃 - 米NBCテレビ向けに[2インチの白黒VTRの製造](../Page/2インチVTR.md "wikilink")、販売を開始。
@@ -44,9 +44,9 @@
 
 ## エレクトロニクス部門
 
-[thumbのRCA](https://ja.wikipedia.org/wiki/画像:RCA_Pavilion.jpg "wikilink") カラー・テレビジョン・フェア\]\] [thumb](https://ja.wikipedia.org/wiki/画像:RCA_74_Jr._Velocity.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/画像:RCA_’808’_Power_Vacuum_Tube.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/画像:RCA_BC-9_broadcast_console.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/画像:RCA_Video-Aufzeichnungsgerät.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/画像:RCA_AR-88_Receiver.JPG "wikilink") エレクトロニクス部門では、[真空管](../Page/真空管.md "wikilink")・半導体技術に優れ、真空管のメーカーとしては古くから世界的な名門であった。半導体時代に入ってからも[GEの](https://ja.wikipedia.org/wiki/ゼネラル・エレクトリック "wikilink")[特許](https://ja.wikipedia.org/wiki/特許 "wikilink")による[サイリスタ](../Page/サイリスタ.md "wikilink")などの[パワーデバイス](https://ja.wikipedia.org/wiki/電力用半導体素子 "wikilink")、[世界標準](../Page/世界標準.md "wikilink")となった[CMOS](../Page/CMOS.md "wikilink")[ロジックIC](../Page/汎用ロジックIC.md "wikilink")[4000シリーズ](https://ja.wikipedia.org/wiki/CMOS#CMOS標準ロジックIC "wikilink")、同じくCMOS技術による最初の[CPU](../Page/CPU.md "wikilink") "[COSMAC](https://ja.wikipedia.org/wiki/COSMAC "wikilink")"シリーズ（CDP1801／CDP1802）などで知られた。CMOSの省電力性に優れた特徴から、[CDP1802は](https://ja.wikipedia.org/wiki/:en:RCA_1802 "wikilink")[ボイジャー探査機にも搭載された](../Page/ボイジャー計画.md "wikilink")。
+[thumbのRCA](https://ja.wikipedia.org/wiki/画像:RCA_Pavilion.jpg "wikilink") カラー・テレビジョン・フェア\]\] [thumb](https://ja.wikipedia.org/wiki/画像:RCA_74_Jr._Velocity.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/画像:RCA_’808’_Power_Vacuum_Tube.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/画像:RCA_BC-9_broadcast_console.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/画像:RCA_Video-Aufzeichnungsgerät.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/画像:RCA_AR-88_Receiver.JPG "wikilink") エレクトロニクス部門では、[真空管](../Page/真空管.md "wikilink")・半導体技術に優れ、真空管のメーカーとしては古くから世界的な名門であった。半導体時代に入ってからも[GEの](../Page/ゼネラル・エレクトリック.md "wikilink")[特許](../Page/特許.md "wikilink")による[サイリスタ](../Page/サイリスタ.md "wikilink")などの[パワーデバイス](../Page/電力用半導体素子.md "wikilink")、[世界標準](../Page/世界標準.md "wikilink")となった[CMOS](../Page/CMOS.md "wikilink")[ロジックIC](../Page/汎用ロジックIC.md "wikilink")[4000シリーズ](https://ja.wikipedia.org/wiki/CMOS#CMOS標準ロジックIC "wikilink")、同じくCMOS技術による最初の[CPU](../Page/CPU.md "wikilink") "[COSMAC](https://ja.wikipedia.org/wiki/COSMAC "wikilink")"シリーズ（CDP1801／CDP1802）などで知られた。CMOSの省電力性に優れた特徴から、[CDP1802は](https://ja.wikipedia.org/wiki/:en:RCA_1802 "wikilink")[ボイジャー探査機にも搭載された](../Page/ボイジャー計画.md "wikilink")。
 
-設立以前のGE時代より[テレビ受像器の開発に着手し](../Page/テレビ受像機.md "wikilink")、世界初の[カラーテレビ](https://ja.wikipedia.org/wiki/カラーテレビ "wikilink")の市販化を手がけた。日本においてテレビ開発が行われていた時期、[電気回路](../Page/電気回路.md "wikilink")に関する特許の使用を日本法人（アールシーエー技術研究所）を通じて容認し、その後のテレビ開発を支える土台になった事や、「[RCA端子](https://ja.wikipedia.org/wiki/RCA端子 "wikilink")」とも呼ばれる[AV端子](https://ja.wikipedia.org/wiki/AV端子 "wikilink")の規格を作った事でも知られる。
+設立以前のGE時代より[テレビ受像器の開発に着手し](../Page/テレビ受像機.md "wikilink")、世界初の[カラーテレビ](../Page/カラーテレビ.md "wikilink")の市販化を手がけた。日本においてテレビ開発が行われていた時期、[電気回路](../Page/電気回路.md "wikilink")に関する特許の使用を日本法人（アールシーエー技術研究所）を通じて容認し、その後のテレビ開発を支える土台になった事や、「[RCA端子](../Page/RCA端子.md "wikilink")」とも呼ばれる[AV端子](../Page/AV端子.md "wikilink")の規格を作った事でも知られる。
 
 1940年代から1950年代にかけて、テレビの開発とアメリカ軍のための先進的な電子機器の開発で繁盛したが、コンピュータの創世記においては限定的な関与に留まった。プリンストンの研究所の小規模なチームは大型のアナログ計算機である[Typhoonを海軍の航空研究のために製造したが](https://ja.wikipedia.org/wiki/RCA_Typhoon "wikilink")、それ以上の開発はしなかった。
 
@@ -58,7 +58,7 @@
 
 #### ADGとBIZMAC商業コンピュータ
 
-計算機システム部門の創設はADGの最初の計画だった。1950年にADGはBIZMACの開発に着手した\[7\]。これは実質的に大型のデータベースを並べ替えるために設計されたコンピュータで、[磁気コアメモリ](../Page/磁気コアメモリ.md "wikilink")とランダムアクセス[磁気ドラムメモリ](https://ja.wikipedia.org/wiki/磁気ドラムメモリ "wikilink")が使用された。しかしながら、データに接続するための主要な機能はデータベースを構成する100台の廉価な[磁気テープドライブ](https://ja.wikipedia.org/wiki/磁気テープドライブ "wikilink")だった。重量は250トンで占有面積は18000平方フィートでアメリカ陸軍の兵器廠との契約で大部分はRCAで製造され、装甲部門と工場で戦車の予備部品の管理のために使用された\[8\]。契約額は$450万ドルで、当社はアメリカ陸軍の兵站管理の主要な供給会社として存続した。
+計算機システム部門の創設はADGの最初の計画だった。1950年にADGはBIZMACの開発に着手した\[7\]。これは実質的に大型のデータベースを並べ替えるために設計されたコンピュータで、[磁気コアメモリ](../Page/磁気コアメモリ.md "wikilink")とランダムアクセス[磁気ドラムメモリ](../Page/磁気ドラムメモリ.md "wikilink")が使用された。しかしながら、データに接続するための主要な機能はデータベースを構成する100台の廉価な[磁気テープドライブ](https://ja.wikipedia.org/wiki/磁気テープドライブ "wikilink")だった。重量は250トンで占有面積は18000平方フィートでアメリカ陸軍の兵器廠との契約で大部分はRCAで製造され、装甲部門と工場で戦車の予備部品の管理のために使用された\[8\]。契約額は$450万ドルで、当社はアメリカ陸軍の兵站管理の主要な供給会社として存続した。
 
 1954年にBIZMACを引き継いだ商業電子工学計画グループは、それを原型にした機種を販売することを決定した。しかしながら、機械は多くは売れず、6台の製造に留まった。利用者は大型の通信販売業者と大型のデータベースの問題を抱えるニューヨークの2社だった。このような初期の世代の大きなコンピュータは驚くに値せず、BIZMACは低信頼性の問題には粘り強かったが、失敗に終わった。大型で高価なシステムは1955年から1958年にかけて1,000万から2,000万ドルの利益をもたらし、市場を開拓するための知見を得た。それは少数ではあったものの、真に彼らは最初にコンピュータの市場で成功したといえる\[9\]。 BIZMACを開発したADGのメンバーはわずか30人でこのような大規模なシステムを開発するには小規模過ぎた。さらに開発をするためにシステムを継承した商業電子機器製品グループは100人で構成されるBIZMAC技術グループになった。このグループは電子データ処理部門から拡張してコンピュータシステム部門になり、最終的には情報システムグループになった。BIZMAC技術グループは開発を継続してADGは他の計画に開放された。当初、複数の防衛システムを開発する予定だったが、後に新しく開発されたコンピュータの運用に充当された\[10\]。
 
@@ -68,7 +68,7 @@
 
 RCA及び
 
-日本においては、[日立製作所](../Page/日立製作所.md "wikilink")（当時VHS[ビデオデッキをRCAへ](https://ja.wikipedia.org/wiki/ビデオテープレコーダー "wikilink")[OEM](../Page/OEM.md "wikilink")供給（松下に継いで2代目）していた）に市販化を要請したものの、[VHD](../Page/VHD.md "wikilink")と[レーザーディスク](../Page/レーザーディスク.md "wikilink")間での[規格競争](https://ja.wikipedia.org/wiki/規格競争 "wikilink")が繰り広げられ、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")に[ゼネラルから先行して市販された](https://ja.wikipedia.org/wiki/富士通ゼネラル "wikilink")[TeD方式](https://ja.wikipedia.org/wiki/:en:Television_Electronic_Disc "wikilink")（独・[テレフンケン](../Page/テレフンケン.md "wikilink")（ディスク形状は[ソノシート](https://ja.wikipedia.org/wiki/ソノシート "wikilink")に近く、収録時間は10分程度）は失敗に終り、コレクター向けの直輸入品を除き、市販されることは無かった。
+日本においては、[日立製作所](../Page/日立製作所.md "wikilink")（当時VHS[ビデオデッキをRCAへ](https://ja.wikipedia.org/wiki/ビデオテープレコーダー "wikilink")[OEM](../Page/OEM.md "wikilink")供給（松下に継いで2代目）していた）に市販化を要請したものの、[VHD](../Page/VHD.md "wikilink")と[レーザーディスク](../Page/レーザーディスク.md "wikilink")間での[規格競争](https://ja.wikipedia.org/wiki/規格競争 "wikilink")が繰り広げられ、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")に[ゼネラルから先行して市販された](../Page/富士通ゼネラル.md "wikilink")[TeD方式](https://ja.wikipedia.org/wiki/:en:Television_Electronic_Disc "wikilink")（独・[テレフンケン](../Page/テレフンケン.md "wikilink")（ディスク形状は[ソノシート](../Page/ソノシート.md "wikilink")に近く、収録時間は10分程度）は失敗に終り、コレクター向けの直輸入品を除き、市販されることは無かった。
 
 なお、VHDはCEDと同様にキャディーごと再生機に投入してディスクの出し入れを行うが、VHDはディスク上に溝が無いなど、規格は全く別物である。
 
@@ -76,17 +76,17 @@ RCA及び
 
 ### 終焉
 
-1984年に表面化したCEDビデオディスクの商業的な大失敗により経営が悪化し、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")12月にかつての親会社GEへ[買収](https://ja.wikipedia.org/wiki/買収 "wikilink")・吸収された。翌[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に[ジャック・ウェルチ](../Page/ジャック・ウェルチ.md "wikilink")の方針により、旧RCAの家電部門はトムソンに、子会社であったRCAレコードはドイツの[メディア・コングロマリット](https://ja.wikipedia.org/wiki/メディア・コングロマリット "wikilink")の[ベルテルスマン](https://ja.wikipedia.org/wiki/ベルテルスマン "wikilink")に売却された。
+1984年に表面化したCEDビデオディスクの商業的な大失敗により経営が悪化し、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")12月にかつての親会社GEへ[買収](https://ja.wikipedia.org/wiki/買収 "wikilink")・吸収された。翌[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に[ジャック・ウェルチ](../Page/ジャック・ウェルチ.md "wikilink")の方針により、旧RCAの家電部門はトムソンに、子会社であったRCAレコードはドイツの[メディア・コングロマリット](https://ja.wikipedia.org/wiki/メディア・コングロマリット "wikilink")の[ベルテルスマン](../Page/ベルテルスマン.md "wikilink")に売却された。
 
-日本でのRCAレコードは、当初はビクター音楽産業（現・[JVCケンウッド・ビクターエンタテインメント](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")）が担っていたが、[1975年](../Page/1975年.md "wikilink")に[日本ビクターと米RCAレコードの合弁により](https://ja.wikipedia.org/wiki/JVCケンウッド "wikilink")[RVC株式会社が設立され移管された](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。その後、親会社の資本構成の変遷（[ソニーBMGの発足](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(米国\) "wikilink")）により、現在は[株式会社ソニー・ミュージックエンタテインメントへ吸収されている](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")。
+日本でのRCAレコードは、当初はビクター音楽産業（現・[JVCケンウッド・ビクターエンタテインメント](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")）が担っていたが、[1975年](../Page/1975年.md "wikilink")に[日本ビクターと米RCAレコードの合弁により](https://ja.wikipedia.org/wiki/JVCケンウッド "wikilink")[RVC株式会社が設立され移管された](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。その後、親会社の資本構成の変遷（[ソニーBMGの発足](../Page/ソニー・ミュージックエンタテインメント_\(米国\).md "wikilink")）により、現在は[株式会社ソニー・ミュージックエンタテインメントへ吸収されている](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")。
 
 ## RCAブランド
 
 過去、北米市場でトムソンが販売したRCAブランドの[ビデオカメラ](../Page/ビデオカメラ.md "wikilink")など、高[付加価値](../Page/付加価値.md "wikilink")の商品は日本ビクターからのOEM。北米では「[蓄音機](../Page/蓄音機.md "wikilink")に耳を傾ける犬[ニッパー](https://ja.wikipedia.org/wiki/ニッパー_\(犬\) "wikilink")」の商標（もともとは英[グラモフォンの商標](https://ja.wikipedia.org/wiki/ベルリーナ・グラモフォン "wikilink")）を使用していた。
 
-[デジタルオーディオプレーヤー](../Page/デジタルオーディオプレーヤー.md "wikilink")、[ポータブルプレーヤー](https://ja.wikipedia.org/wiki/携帯音楽プレーヤー "wikilink")、[クロックラジオ](https://ja.wikipedia.org/wiki/クロックラジオ "wikilink")などは[タイのメーカー製](../Page/タイ王国.md "wikilink")。[液晶テレビ](https://ja.wikipedia.org/wiki/液晶テレビ "wikilink")に関しては、トムソンのグループ企業である中国・[TCL及び周辺企業から供給されていた](../Page/TCL集団.md "wikilink")。
+[デジタルオーディオプレーヤー](../Page/デジタルオーディオプレーヤー.md "wikilink")、[ポータブルプレーヤー](../Page/携帯音楽プレーヤー.md "wikilink")、[クロックラジオ](https://ja.wikipedia.org/wiki/クロックラジオ "wikilink")などは[タイのメーカー製](../Page/タイ王国.md "wikilink")。[液晶テレビ](https://ja.wikipedia.org/wiki/液晶テレビ "wikilink")に関しては、トムソンのグループ企業である中国・[TCL及び周辺企業から供給されていた](../Page/TCL集団.md "wikilink")。
 
-しばらくは、これらトムソンのデジタルAV機器部門、及び、[衛星放送](../Page/衛星放送.md "wikilink")向けの[セットトップボックス](https://ja.wikipedia.org/wiki/セットトップボックス "wikilink")ブランドだったが、[デジタルカメラ](../Page/デジタルカメラ.md "wikilink")部門を中国資本のGE Imagesにブランドを貸与（GEブランド）、RCAオーディオアクセサリー部門をAudioVoxへブランド貸与を開始し、トムソンは世界各地での自社ブランド展開を開始。コンピュータ映像編集関連製品は日本企業のPC周辺機器メーカーであるカノープスを買収した[トムソン・カノープス](https://ja.wikipedia.org/wiki/トムソン・カノープス "wikilink")、USBオーディオやゼネラルオーディオは[exe mode](../Page/エグゼモード.md "wikilink")（エグゼ・モード。デジカメブランドとして[YASHICA](https://ja.wikipedia.org/wiki/ヤシカ "wikilink")、[AGFA・PHOTOを使用している](https://ja.wikipedia.org/wiki/アグファ "wikilink")）が日本市場でのトムソンブランドのセールスを開始。これまでのRCAブランドは一部地域を除き、ほぼ全世界での使用停止を発表、同時に新しいライセンス先を探している。
+しばらくは、これらトムソンのデジタルAV機器部門、及び、[衛星放送](../Page/衛星放送.md "wikilink")向けの[セットトップボックス](../Page/セットトップボックス.md "wikilink")ブランドだったが、[デジタルカメラ](../Page/デジタルカメラ.md "wikilink")部門を中国資本のGE Imagesにブランドを貸与（GEブランド）、RCAオーディオアクセサリー部門をAudioVoxへブランド貸与を開始し、トムソンは世界各地での自社ブランド展開を開始。コンピュータ映像編集関連製品は日本企業のPC周辺機器メーカーであるカノープスを買収した[トムソン・カノープス](https://ja.wikipedia.org/wiki/トムソン・カノープス "wikilink")、USBオーディオやゼネラルオーディオは[exe mode](../Page/エグゼモード.md "wikilink")（エグゼ・モード。デジカメブランドとして[YASHICA](../Page/ヤシカ.md "wikilink")、[AGFA・PHOTOを使用している](https://ja.wikipedia.org/wiki/アグファ "wikilink")）が日本市場でのトムソンブランドのセールスを開始。これまでのRCAブランドは一部地域を除き、ほぼ全世界での使用停止を発表、同時に新しいライセンス先を探している。
 
 その後トムソン社は、2010年にテクニカラー社へ社名を変更したが、2017年の段階でも、北米市場向けのデジタルAV機器事業は続いている。
 
@@ -96,12 +96,12 @@ RCA及び
 
 日本では、RCAのエレクトロニクス機器は業務用機器等ごく一部を除いて市販されなかった。
 
-  - RVC株式会社 - [ビクター音楽産業が担っていたRCAレコード部門が](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")[スピンアウト](https://ja.wikipedia.org/wiki/スピンアウト "wikilink")する形で[日本ビクター](../Page/日本ビクター.md "wikilink")がRCAレコードを合弁で設立。邦楽もRCAレーベルで出されていた。前述の経営不振のため1987年にRCAレコードの経営権が[ベルテルスマン](https://ja.wikipedia.org/wiki/ベルテルスマン "wikilink")へ移った事に伴い、新たに設立したBMGビクター（後に[BMG JAPANへ社名変更](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")）へ事業譲渡し解散。なお、「RCA」のロゴ表記は図案化されたボールド体であったが、BMG傘下の[1990年代](../Page/1990年代.md "wikilink")に原点回帰に近いデザインへ変更され、主にクラシック音楽レーベルの[RCAレッド・シール・レコード](https://ja.wikipedia.org/wiki/RCAレッド・シール・レコード "wikilink") ([:en:RCA Red Seal Records](https://ja.wikipedia.org/wiki/:en:RCA_Red_Seal_Records "wikilink"))のロゴとしてソニーBMG傘下後も[2014年](../Page/2014年.md "wikilink")まで使われていたが、[2015年](../Page/2015年.md "wikilink")以降より1986年以前のボールド体ロゴに再び回帰した。
-      - BMG JAPANは[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に[BMG](https://ja.wikipedia.org/wiki/BMG "wikilink")が米[ソニー・ミュージックエンタテインメントへ事業が吸収されたのを機に](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(米国\) "wikilink")、SMEJの子会社を経て同社に吸収合併され解散し、制作部門はSMEJ傘下で再編された（現在の[ソニー・ミュージックレーベルズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレーベルズ "wikilink")と[ソニー・ミュージックジャパンインターナショナル](https://ja.wikipedia.org/wiki/ソニー・ミュージックジャパンインターナショナル "wikilink")・[RCA/JIVEグループ](https://ja.wikipedia.org/wiki/RCA/JIVEグループ "wikilink")）。
+  - RVC株式会社 - [ビクター音楽産業が担っていたRCAレコード部門が](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")[スピンアウト](https://ja.wikipedia.org/wiki/スピンアウト "wikilink")する形で[日本ビクター](../Page/日本ビクター.md "wikilink")がRCAレコードを合弁で設立。邦楽もRCAレーベルで出されていた。前述の経営不振のため1987年にRCAレコードの経営権が[ベルテルスマン](../Page/ベルテルスマン.md "wikilink")へ移った事に伴い、新たに設立したBMGビクター（後に[BMG JAPANへ社名変更](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")）へ事業譲渡し解散。なお、「RCA」のロゴ表記は図案化されたボールド体であったが、BMG傘下の[1990年代](../Page/1990年代.md "wikilink")に原点回帰に近いデザインへ変更され、主にクラシック音楽レーベルの[RCAレッド・シール・レコード](https://ja.wikipedia.org/wiki/RCAレッド・シール・レコード "wikilink") ([:en:RCA Red Seal Records](https://ja.wikipedia.org/wiki/:en:RCA_Red_Seal_Records "wikilink"))のロゴとしてソニーBMG傘下後も[2014年](../Page/2014年.md "wikilink")まで使われていたが、[2015年](../Page/2015年.md "wikilink")以降より1986年以前のボールド体ロゴに再び回帰した。
+      - BMG JAPANは[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に[BMG](../Page/BMG.md "wikilink")が米[ソニー・ミュージックエンタテインメントへ事業が吸収されたのを機に](../Page/ソニー・ミュージックエンタテインメント_\(米国\).md "wikilink")、SMEJの子会社を経て同社に吸収合併され解散し、制作部門はSMEJ傘下で再編された（現在の[ソニー・ミュージックレーベルズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレーベルズ "wikilink")と[ソニー・ミュージックジャパンインターナショナル](https://ja.wikipedia.org/wiki/ソニー・ミュージックジャパンインターナショナル "wikilink")・[RCA/JIVEグループ](https://ja.wikipedia.org/wiki/RCA/JIVEグループ "wikilink")）。
 
 <!-- end list -->
 
-  - アール・シー・エー・コロンビア・ピクチャーズ・ビデオ株式会社 - 米[コロンビア映画](https://ja.wikipedia.org/wiki/コロンビア映画 "wikilink")とRCAレコードの合弁でビデオソフト事業を手がけるRCA Columbia Pictures International Videoの日本法人として1984年に設立。[1989年](../Page/1989年.md "wikilink")の[ソニー](../Page/ソニー.md "wikilink")による[コロンビア映画](https://ja.wikipedia.org/wiki/コロンビア映画 "wikilink")の買収により、関係会社を統合した上で[ソニー・ピクチャーズ エンタテインメントに社名変更し](../Page/ソニー・ピクチャーズ_エンタテインメント_\(日本\).md "wikilink")、引き続き事業を行っている。
+  - アール・シー・エー・コロンビア・ピクチャーズ・ビデオ株式会社 - 米[コロンビア映画](../Page/コロンビア映画.md "wikilink")とRCAレコードの合弁でビデオソフト事業を手がけるRCA Columbia Pictures International Videoの日本法人として1984年に設立。[1989年](../Page/1989年.md "wikilink")の[ソニー](../Page/ソニー.md "wikilink")による[コロンビア映画](../Page/コロンビア映画.md "wikilink")の買収により、関係会社を統合した上で[ソニー・ピクチャーズ エンタテインメントに社名変更し](../Page/ソニー・ピクチャーズ_エンタテインメント_\(日本\).md "wikilink")、引き続き事業を行っている。
   - 株式会社トムソン技術研究所 - 仏トムソンが有する[MP3](../Page/MP3.md "wikilink")や旧RCA社の技術ライセンス管理を行っている日本現地法人。[1999年](../Page/1999年.md "wikilink")まではGE傘下の「アールシーエー技術研究所」であった。
 
 ## 脚注

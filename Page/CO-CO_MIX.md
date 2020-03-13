@@ -7,9 +7,9 @@
 
 1998年4月から放送されていた昼の[帯番組](https://ja.wikipedia.org/wiki/帯番組 "wikilink")『**LA-LA PIX**』（ラ・ラ・ピックス）の改題リニューアル版。
 
-番組は、リスナーから寄せられた[ハガキ](https://ja.wikipedia.org/wiki/はがき "wikilink")・[FAX](https://ja.wikipedia.org/wiki/ファクシミリ "wikilink")・[電子メール](../Page/電子メール.md "wikilink")と、メールに添付された写真[画像](../Page/画像.md "wikilink")を紹介していた。リスナーが自分の声を[留守番電話](https://ja.wikipedia.org/wiki/留守番電話 "wikilink")に残し、最後に「コ〜コ〜ミックス！」のコールで締める「CO-CO CALL」（コ・コ・コール）という企画もあった。番組タイトルには「リスナーからのメッセージや留守電メッセージと音楽とを**ここ**ちよく**ミックス**する」の意味が込められており、[番組宣伝](https://ja.wikipedia.org/wiki/番組宣伝 "wikilink")でもそれが強調説明されていた。番組中に掛かる楽曲の大半は[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")であった。
+番組は、リスナーから寄せられた[ハガキ](../Page/はがき.md "wikilink")・[FAX](https://ja.wikipedia.org/wiki/ファクシミリ "wikilink")・[電子メール](../Page/電子メール.md "wikilink")と、メールに添付された写真[画像](../Page/画像.md "wikilink")を紹介していた。リスナーが自分の声を[留守番電話](../Page/留守番電話.md "wikilink")に残し、最後に「コ〜コ〜ミックス！」のコールで締める「CO-CO CALL」（コ・コ・コール）という企画もあった。番組タイトルには「リスナーからのメッセージや留守電メッセージと音楽とを**ここ**ちよく**ミックス**する」の意味が込められており、[番組宣伝](../Page/番組宣伝.md "wikilink")でもそれが強調説明されていた。番組中に掛かる楽曲の大半は[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")であった。
 
-[ノベルティ](../Page/ノベルティ.md "wikilink")は番組タイトルロゴ入りの[ステッカーで](https://ja.wikipedia.org/wiki/シール "wikilink")、レイティング（[聴取率](../Page/聴取率.md "wikilink")調査）期間中にハガキ・FAX・メールを読まれたリスナーや、番組側から掛かってきた電話（通称：逆電）に出たリスナーにはサイン入りでプレゼントされた。
+[ノベルティ](../Page/ノベルティ.md "wikilink")は番組タイトルロゴ入りの[ステッカーで](../Page/シール.md "wikilink")、レイティング（[聴取率](../Page/聴取率.md "wikilink")調査）期間中にハガキ・FAX・メールを読まれたリスナーや、番組側から掛かってきた電話（通称：逆電）に出たリスナーにはサイン入りでプレゼントされた。
 
 後番組は『[Switch\!](../Page/Switch!.md "wikilink")』。
 

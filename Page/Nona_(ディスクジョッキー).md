@@ -7,9 +7,9 @@
 
 ## 略歴
 
-生後半年で東京都に移住。両親の影響によりジャズ、クラシック、スペイン音楽で育ち4歳よりピアノを始める。[中学](../Page/中学校.md "wikilink")・[高校時代を](https://ja.wikipedia.org/wiki/高等学校 "wikilink")[米国で過ごす](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。エジモントハイスクール時代には[ウェストチャスター](https://ja.wikipedia.org/wiki/ウェストチャスター "wikilink")・ピアノコンチェルトコンテストで最年少で優勝する。その後[ジュリアード音楽院](https://ja.wikipedia.org/wiki/ジュリアード音楽院 "wikilink")プレカレッジを経て日本に帰国し、[玉川大学](../Page/玉川大学.md "wikilink")芸術学科ピアノ科を卒業。横浜国際ピアノコンクール入賞を果たすが、[腱鞘炎](https://ja.wikipedia.org/wiki/腱鞘炎 "wikilink")によりピアニストを断念。FMサマーセミナー受講を機にラジオパーソナリティ活動開始。米国留学時代にはボイストレーニングも受けており、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")にリリースされた21(TWENTY-ONE)の1stアルバム『Blue coast inn』（[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")）では[小山水城](../Page/小山水城.md "wikilink")と共にメインボーカルを務めている。現在、[J-WAVE](../Page/J-WAVE.md "wikilink")などでラジオDJとして活躍。
+生後半年で東京都に移住。両親の影響によりジャズ、クラシック、スペイン音楽で育ち4歳よりピアノを始める。[中学](../Page/中学校.md "wikilink")・[高校時代を](https://ja.wikipedia.org/wiki/高等学校 "wikilink")[米国で過ごす](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。エジモントハイスクール時代には[ウェストチャスター](https://ja.wikipedia.org/wiki/ウェストチャスター "wikilink")・ピアノコンチェルトコンテストで最年少で優勝する。その後[ジュリアード音楽院](../Page/ジュリアード音楽院.md "wikilink")プレカレッジを経て日本に帰国し、[玉川大学](../Page/玉川大学.md "wikilink")芸術学科ピアノ科を卒業。横浜国際ピアノコンクール入賞を果たすが、[腱鞘炎](https://ja.wikipedia.org/wiki/腱鞘炎 "wikilink")によりピアニストを断念。FMサマーセミナー受講を機にラジオパーソナリティ活動開始。米国留学時代にはボイストレーニングも受けており、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")にリリースされた21(TWENTY-ONE)の1stアルバム『Blue coast inn』（[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")）では[小山水城](../Page/小山水城.md "wikilink")と共にメインボーカルを務めている。現在、[J-WAVE](../Page/J-WAVE.md "wikilink")などでラジオDJとして活躍。
 
-また、**nona**（ノーナ）名義でアルバムを出しており、[イタリア](../Page/イタリア.md "wikilink")のIRMA RECORDS（[イルマレコード](https://ja.wikipedia.org/wiki/イルマレコード "wikilink")）からCDをリリースし、ワールドデビューしたこともあり、ソロとしては『The Sweetest Taboo』を、ユニット・Variousとしては『Irma at Sex and the City』『Vol. 6-Jazz House Independent』を発表している。日本においては、ソロとしては1stアルバム『Cool Noon』（1998年、[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")）を、ユニット・Fuschiaとして『Pour la Vie』（2002年、[日本コロムビア](../Page/日本コロムビア.md "wikilink")）を、tito sine qua non meets nonaとして『BACHARACHMANIA』（2004年、[日本クラウン](../Page/日本クラウン.md "wikilink")）を発表する。[2003年](../Page/2003年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")、芸名をnonaに正式改名。声優・ナレーターとしては[青二プロダクション](../Page/青二プロダクション.md "wikilink")所属、ナレーターとしては主にテレビ、CMを担当。
+また、**nona**（ノーナ）名義でアルバムを出しており、[イタリア](../Page/イタリア.md "wikilink")のIRMA RECORDS（[イルマレコード](https://ja.wikipedia.org/wiki/イルマレコード "wikilink")）からCDをリリースし、ワールドデビューしたこともあり、ソロとしては『The Sweetest Taboo』を、ユニット・Variousとしては『Irma at Sex and the City』『Vol. 6-Jazz House Independent』を発表している。日本においては、ソロとしては1stアルバム『Cool Noon』（1998年、[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）を、ユニット・Fuschiaとして『Pour la Vie』（2002年、[日本コロムビア](../Page/日本コロムビア.md "wikilink")）を、tito sine qua non meets nonaとして『BACHARACHMANIA』（2004年、[日本クラウン](../Page/日本クラウン.md "wikilink")）を発表する。[2003年](../Page/2003年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")、芸名をnonaに正式改名。声優・ナレーターとしては[青二プロダクション](../Page/青二プロダクション.md "wikilink")所属、ナレーターとしては主にテレビ、CMを担当。
 
 ## 音楽
 
@@ -42,7 +42,7 @@
   - 芸能人が通う診察室（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
   - 音游人（テレビ東京）
   - [ファッション通信](../Page/ファッション通信.md "wikilink")（テレビ東京）
-  - [趣味悠々](../Page/趣味悠々.md "wikilink")（[NHK Eテレ](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")）
+  - [趣味悠々](../Page/趣味悠々.md "wikilink")（[NHK Eテレ](../Page/NHK教育テレビジョン.md "wikilink")）
       - 樹脂粘土クラフト
       - デジタル一眼レフで巡る ローカル線の旅（2009年）
   - [NHK高校講座](../Page/NHK高校講座.md "wikilink") 世界史（NHK Eテレ）
@@ -67,7 +67,7 @@
   - [三井アウトレットパーク](../Page/三井アウトレットパーク.md "wikilink")（ナレーション）
   - [ABCマート](../Page/ABCマート.md "wikilink")（ナレーション）
   - [ロレアル パリ](../Page/ロレアル.md "wikilink")
-  - [シチズン](https://ja.wikipedia.org/wiki/シチズン時計 "wikilink")、エクシード
+  - [シチズン](../Page/シチズン時計.md "wikilink")、エクシード
   - [コーセー](../Page/コーセー.md "wikilink")、[エスプリーク](https://ja.wikipedia.org/wiki/エスプリーク "wikilink")
   - ドクター・ショール
   - [Dlife](https://ja.wikipedia.org/wiki/Dlife "wikilink")、番宣

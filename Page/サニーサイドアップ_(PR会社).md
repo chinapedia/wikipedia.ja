@@ -9,7 +9,7 @@
 
 企業や商品、イベントなどのPR活動を始め、スポーツ選手や文化人の[エージェント](../Page/エージェント.md "wikilink")活動などを主な業務とする。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（[平成](../Page/平成.md "wikilink")17年）に「[ホワイトバンドプロジェクト](https://ja.wikipedia.org/wiki/ホワイトバンドプロジェクト "wikilink")」の日本展開に関わる。
+[2005年](../Page/2005年.md "wikilink")（[平成](../Page/平成.md "wikilink")17年）に「[ホワイトバンドプロジェクト](../Page/ホワイトバンドプロジェクト.md "wikilink")」の日本展開に関わる。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（[平成](../Page/平成.md "wikilink")20年）9月5日に[大阪証券取引所](https://ja.wikipedia.org/wiki/大阪証券取引所 "wikilink")[ヘラクレスで上場して上場初日は](https://ja.wikipedia.org/wiki/ヘラクレス_\(有価証券市場\) "wikilink")[ストップ高](https://ja.wikipedia.org/wiki/ストップ高 "wikilink")となる。
 
@@ -29,7 +29,7 @@
       - マネジメント事業部（現:マネジメント本部）を設立
       - [中田英寿](../Page/中田英寿.md "wikilink")のマネジメントを開始
   - [2000年](../Page/2000年.md "wikilink")（平成12年） - エンタテインメント事業部（現:企画開発本部）設立
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年） - 本社を東京都渋谷区千駄ヶ谷に移転
+  - [2005年](../Page/2005年.md "wikilink")（平成17年） - 本社を東京都渋谷区千駄ヶ谷に移転
   - [2006年](../Page/2006年.md "wikilink")（平成18年） - 株式会社ワイズインテグレーションを子会社化
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年） -
       - [大阪証券取引所](https://ja.wikipedia.org/wiki/大阪証券取引所 "wikilink")[ヘラクレス上場](https://ja.wikipedia.org/wiki/ヘラクレス_\(有価証券市場\) "wikilink")
@@ -57,15 +57,15 @@
   - [中田英寿](../Page/中田英寿.md "wikilink")（元サッカー選手）
   - [前園真聖](../Page/前園真聖.md "wikilink")（スポーツジャーナリスト）
   - [矢野貴章](../Page/矢野貴章.md "wikilink")（サッカー選手）
-  - [米田功](https://ja.wikipedia.org/wiki/米田功 "wikilink")（メンタルトレーナー）
+  - [米田功](../Page/米田功.md "wikilink")（メンタルトレーナー）
 
 ### スペシャリスト
 
   - [紙谷太朗](https://ja.wikipedia.org/wiki/紙谷太朗 "wikilink")（ティアラデザイナー）
   - [瀬戸勝之](https://ja.wikipedia.org/wiki/瀬戸勝之 "wikilink")（3Dサウンドデザイナー/プロデューサー）
-  - [高橋和](https://ja.wikipedia.org/wiki/高橋和 "wikilink")（将棋棋士）
+  - [高橋和](../Page/高橋和.md "wikilink")（将棋棋士）
   - 早野実希子（薬剤師・セラピスト）
-  - [吉田真希子](https://ja.wikipedia.org/wiki/吉田真希子_\(タレント\) "wikilink")（ビューティフードアドバイザー）
+  - [吉田真希子](../Page/吉田真希子_\(タレント\).md "wikilink")（ビューティフードアドバイザー）
   - [コシノジュンコ](../Page/コシノジュンコ.md "wikilink")（デザイナー）
   - [ビル・グレンジャー](https://ja.wikipedia.org/wiki/ビル・グレンジャー "wikilink")（レストランター）
   - コヤマススム（パティシエ/ショコラティエ）
@@ -80,7 +80,7 @@
 ## 参考文献
 
   - [日経BP社](https://ja.wikipedia.org/wiki/日経BP社 "wikilink")「サニーサイドアップの仕事術」2005年1月
-  - [幻冬舎](https://ja.wikipedia.org/wiki/幻冬舎 "wikilink")「現代原色しごと図鑑(1)」2007年3月
+  - [幻冬舎](../Page/幻冬舎.md "wikilink")「現代原色しごと図鑑(1)」2007年3月
   - [講談社](../Page/講談社.md "wikilink")「NAKATAビジネス」2007年7月
 
 ## 脚注
